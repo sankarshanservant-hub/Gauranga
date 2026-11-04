@@ -178,7 +178,7 @@ See Madhya 19.50.
 
 Devarṣi Nārada is telling Dharmarāja Yudhiṣṭhira how Bhagavān Śrī Nṛsiṁha slew Hiraṇyakaśipu, and in that account he recites the prayer that the devotee Prahlāda offered to Bhagavān Nṛsiṁha after the slaying.
 
-**aravinda-nābha-pāda-aravinda-vimukhāt** (*padmanābha kṛṣṇasya pādapadmāt vimukhāt* — averse to the lotus feet of Kṛṣṇa, whose navel is like a lotus) **dviṣaḍ-guṇa-yutāt** (possessed of twelve qualities — those named in the previous *śloka*: wealth, noble birth, beauty, austerity, learning, sensory vigour (*ojas*), lustre (*tejas*), influence, bodily strength, diligence, intelligence and *yoga*; or else the twelve qualities named by Sanatsujāta in the *Mahābhārata*: “Righteousness, truthfulness, self-control, austerity, freedom from envy, modesty, forbearance, freedom from malice, sacrifice, charity, steadfastness and learning — these are the twelve vows of a *brāhmaṇa*”; or else the twelve qualities named in the commentary on the *Muktā-phala*: “Tranquillity, self-control, austerity, purity, forbearance, straightforwardness, detachment, knowledge, realization (*vijñāna*), contentment, truthfulness and faith in God — the twelve qualities” — possessed of these) **viprāt** **api** **tad-arpita-mano-vacanehitārtha-prāṇaṁ** (one who has given to Him — to Kṛṣṇa, whose navel is like a lotus — his mind, words, deeds, wealth and life) **śva-pacaṁ** **variṣṭhaṁ** (the best) **ahaṁ** **manye**; for **saḥ** (such a *śva-paca*) **kulaṁ** (his whole family) **punāti**, **bhūri-mānaḥ** (one whose pride is great) a *brāhmaṇa* **tu** (even himself) **na** (does not purify — what to speak of his family?). For in one who lacks devotion these qualities serve only pride, not purification; the sense, then, is that he is lower.
+**aravinda-nābha-pāda-aravinda-vimukhāt** (averse to the lotus feet of Kṛṣṇa, whose navel is like a lotus) **dviṣaḍ-guṇa-yutāt** (possessed of twelve qualities — those named in the previous *śloka*: wealth, noble birth, beauty, austerity, learning, sensory vigour (*ojas*), lustre (*tejas*), influence, bodily strength, diligence, intelligence and *yoga*; or else the twelve qualities named by Sanatsujāta in the *Mahābhārata*: “Righteousness, truthfulness, self-control, austerity, freedom from envy, modesty, forbearance, freedom from malice, sacrifice, charity, steadfastness and learning — these are the twelve vows of a *brāhmaṇa*”; or else the twelve qualities named in the commentary on the *Muktā-phala*: “Tranquillity, self-control, austerity, purity, forbearance, straightforwardness, detachment, knowledge, realization (*vijñāna*), contentment, truthfulness and faith in God — the twelve qualities” — possessed of these) **viprāt** **api** **tad-arpita-mano-vacanehitārtha-prāṇaṁ** (one who has given to Him — to Kṛṣṇa, whose navel is like a lotus — his mind, words, deeds, wealth and life) **śva-pacaṁ** **variṣṭhaṁ** (the best) **ahaṁ** **manye**; for **saḥ** (such a *śva-paca*) **kulaṁ** (his whole family) **punāti**, **bhūri-mānaḥ** (one whose pride is great) a *brāhmaṇa* **tu** (even himself) **na** (does not purify — what to speak of his family?). For in one who lacks devotion these qualities serve only pride, not purification; the sense, then, is that he is lower.
 
 ## 60
 
@@ -269,3 +269,85 @@ Devarṣi Nārada is telling Dharmarāja Yudhiṣṭhira how Bhagavān Śrī N�
 ## 89
 
 > Subheading: The Lord asks about the Bhoṭa blanket; Sanātana tells Him everything that happened —
+
+## 90
+
+> Subheading: The Lord describes the glory of Kṛṣṇa's mercy —
+
+## 92
+
+> Subheading: Instruction: conduct and preaching must agree with each other —
+
+## 93
+
+> Subheading: Sanātana praises the glory of the Lord's mercy —
+
+*Kuviṣaya-bhoga* — serving sinful objects of the senses.
+
+## 94
+
+> Subheading: The Lord invests Sanātana with power —
+
+## 95
+
+> Subheading: Earlier, by the Lord's power, Rāya was able to answer the Lord's questions —
+
+## 96
+
+> Subheading: In the same way, by the power the Lord invested in him, Sanātana asks questions, and the Lord Himself answers —
+
+## 97
+
+> Subheading: The Lord Himself expounds to Sanātana the truth of *sambandha*, *abhidheya* and *prayojana* (the author's words) —
+
+**saḥ** **īśaḥ** (Mahāprabhu) **kṛpayā** (with incomparable compassion) **sanātanāya** (to Sanātana Gosvāmī) **kṛṣṇa-svarūpa-mādhuryaiśvarya-bhakti-rasāśrayaṁ** (Kṛṣṇa's *svarūpa* — that He, the Lord of all lords, is the son of Yaśodā, the crown of youths, whose very self is concentrated eternity, knowledge and bliss; *mādhurya* — the beauty of His natural form, qualities, pastimes and so on, which enchants everyone, for nothing equals or surpasses it; *aiśvarya* — His natural, unlimited lordship, which nothing equals or surpasses; and *bhakti-rasa*; the shelter of all these — the Reality pointed to by the words “In the Tenth Canto the goal is the tenth subject: the form who is the shelter of all who seek shelter”[^97-1] — just that) **tattvam** (nondual Knowledge, *advaya-jñāna*) **upadideśa** (expounded).
+
+## 98
+
+> Subheading: The description of the “instructions to Sanātana” begins. To teach the world, the eternally perfect Sanātana plays the part of a conditioned *jīva*: with humility he bows down, inquires and serves, and like a disciple asks about the truth from the Lord, the teacher of the world, the embodiment of *kīrtana* —
+
+## 100
+
+*Grāmya-vyavahāra* — worldly dealings between men and women.
+
+## 102
+
+> Subheading: The question about the true nature of the *jīva* and the cause of the miseries born of his bondage —
+
+*Tāpa-traya* — the three kinds of misery: (1) *ādhyātmika*, (2) *ādhibhautika* and (3) *ādhidaivika*. (1) *Ādhyātmika* misery is of two kinds: (a) bodily, such as fever and other diseases; (b) mental, such as separation from loved ones and the like. (2) *Ādhibhautika* misery is of four kinds: misery caused (a) by creatures born from wombs, (b) by creatures born from eggs, (c) by creatures born from sweat, (d) by creatures born from sprouts. (3) *Ādhidaivika* misery is the misery that comes from the higher gods such as Indra — cold, lightning strikes and so on — and also the harmful calamities and misfortunes brought by malign spirits of violent nature, such as *yakṣas* and *piśācas*.
+
+## 104
+
+> Subheading: Knowing Sanātana to be eternally perfect, the Lord answers only for the good of conditioned *jīvas* —
+
+## 106
+
+> Subheading: Inquiry into the truth is absolutely necessary: only by it is the desired goal attained —
+
+**sad-dharmasya** (of *bhāgavata-dharma*, which is always to be embraced) **avabodhāya** (for knowing the truth, that is, for inquiring about the truth) **yeṣāṁ** (of persons who are inclined to devotion and have pious merit) **nirbandhinī** (unwavering) **matiḥ** (taste or intelligence) (exists), **eṣāṁ** (of these people, pure in heart and spotless in mind) **abhīpsitaḥ** (prayed for) **sarvārthaḥ** (the goal) **acirāt** (soon) **eva** **sidhyati** (is fulfilled).
+
+## 107
+
+> Subheading: The Lord accepts Sanātana as an *ācārya* —
+
+## 108
+
+> Subheading: The instructions to Śrī Śrī Sanātana begin. (A-1) First of all, the true nature of the *jīva* —
+
+## 108–109
+
+See Ādi 2.96.
+
+## 110
+
+> Subheading: Viṣṇu displays His pastimes through His all-pervading potency —
+
+**yathā** **eka-deśa-sthitasya** (situated in a particular place) **agneḥ** **jyotsnā** (light) **vistāriṇī** (spreading), **tathā** **idaṁ** **akhilaṁ** (all — both spiritual and material) **jagat** — **parasya** **brahmaṇaḥ** (of Kṛṣṇa) **śaktiḥ**.
+
+## 111
+
+> Subheading: (A-2) On Kṛṣṇa's potency —
+
+---
+
+[^97-1]: Śrīdhara Svāmī's commentary *Bhāvārtha-dīpikā* on *Śrīmad-Bhāgavatam* 10.1.1 (cf. CC Ādi 2.95).

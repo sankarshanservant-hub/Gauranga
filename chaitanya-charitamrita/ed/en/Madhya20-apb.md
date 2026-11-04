@@ -35,3 +35,23 @@ O Vaiṣṇava, the fruit of the eyes is to see a person like you; the fruit of 
 ## 70
 
 *Bhadra karāñā* — having had him shaved: that is, having had his dervish beard and hair shaved off and making him dressed as a true Vaiṣṇava.
+
+## 97
+
+Bhagavān mercifully instructed Sanātana in the truth — in the sweetness (*mādhurya*) of Śrī Kṛṣṇa's own form, in the majesty (*aiśvarya*) of that form, and in the shelter of *bhakti-rasa*.
+
+## 102–103
+
+Sanātana asked: “Who am I? Why do the three kinds of misery — *ādhyātmika*, *ādhibhautika* and *ādhidaivika* — torment me? And how can I attain my good? I do not know how to ask about the truth of *sādhya* and *sādhana* (the goal and the means). Please be merciful and tell me what I need to know.”
+
+## 106
+
+Those who are firmly resolved to awaken the true *dharma* within themselves soon attain every goal they desire.
+
+## 108–109
+
+In answer to the question “Who am I?” Mahāprabhu says: “You are a *jīva*. Are you this body born of matter? No. Or are you, perhaps, the subtle body (*liṅga-śarīra*) made of mind, intelligence and false ego? No, not that either. By your intrinsic nature you are Kṛṣṇa's eternal servant. You are Kṛṣṇa's marginal potency (*taṭastha-śakti*): you stand on the boundary between Kṛṣṇa's spiritual world and the world of *māyā*, and you are related to both worlds; that is why you are the marginal potency. Your relationship with Kṛṣṇa is twofold: you are His manifestation both different and nondifferent from Him (*bhedābheda-prakāśa*). In your spiritual nature you are a nondifferent manifestation of Kṛṣṇa; and because you are an atomic consciousness (*aṇu-caitanya*), you are a different manifestation of Kṛṣṇa, who is the great consciousness (*bṛhat-caitanya*). Difference and nondifference (between you and Kṛṣṇa) hold at the same time.” This simultaneous manifestation of difference and nondifference follows from the *jīva's* marginal nature itself. The *jīva* is a ray, a particle, of Kṛṣṇa, who is like the sun; or again, the mass of sparks from a blazing fire also illustrates the *jīvas*.
+
+## 110
+
+As the light of a fire situated in one place spreads all around, so the potency of the Supreme Brahman pervades the whole universe.
