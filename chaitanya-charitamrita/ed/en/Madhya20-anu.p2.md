@@ -18,13 +18,15 @@
 
 Whether by the primary sense (*rūḍhi*) or the secondary sense (*lakṣaṇā*), or by the positive and negative method (*anvaya* and *vyatireka*), Kṛṣṇa is shown to be the subject the Vedas establish.
 
-## 147–148
+## 147
 
 > Subheading: The evidence of scripture: words from the Lord's own mouth — (*Śrīmad-Bhāgavatam* 11.21.42–43) —
 
+## 147–148
+
 Uddhava asked about the injunctions and prohibitions of the Vedas. In answer Śrī Kṛṣṇa first describes the fruits that the *karma-kāṇḍa* of the Vedas promises (*phala-śruti*), then the various Vedic meters, and He says that He Himself is the one subject to be established and known in the Vedas — full of deep mystery, hard to understand, made up of three divisions (*kāṇḍas*):
 
-(Having said that the great Vedic speech in its entirety is unknowable in its nature, He says that it is unknowable in its meaning too:) **kim** **vidhatte** (what does the *karma-kāṇḍa* — one of the three *kāṇḍas* of the Vedic scriptures: of *karma*, of the *devatās* and of *jñāna* — enjoin by its injunctions), **kim ācaṣṭe** (what does the *devatā-kāṇḍa* reveal by its statements, that is, of what does it speak), **kim anūdya** (relying on what in the *jñāna-kāṇḍa*) **vikalpayet** **iti** (thus) **asyāḥ** (of this *śruti*) **hṛdayam** **loke** (here in the world) **mat** (besides Me) **anyaḥ kaścana** **na veda** (knows). (“Then by Your mercy tell it,” — to this He says:) **mām** (Me in the form of sacrifice, by injunction) **vidhatte** (by the primary sense); **mām eva** (Me in the form of this or that deity) **abhidhatte**; **aham** (I alone) **vikalpya** (having raised doubt) **apohyate** (am rejected: what is rejected is also I; nothing is separate from Me). (He states briefly the meaning of all the Vedas:) **etāvān eva** **sarva-vedārthaḥ** (the meaning of all the Vedas) — **śabdaḥ** (the Veda) **bhidām** (the differences — the forms of the *avatāras* and the rest) **anūdya** (having named), **māyā-mātram** (the world) **pratiṣidhya** (having rejected), **tad-ante** (at the end) **mām** (Me, the highest goal) **āsthāya** (taking as shelter) **prasīdati** (ceases from activity; that is, resting on Me alone in the form of Śrī Kṛṣṇa, it attains its goal).
+(Having said that the great Vedic speech in its entirety is unknowable in its nature, He says that it is unknowable in its meaning too:) **kiṁ** **vidhatte** (what does the *karma-kāṇḍa* — one of the three *kāṇḍas* of the Vedic scriptures: of *karma*, of the *devatās* and of *jñāna* — enjoin by its injunctions), **kim ācaṣṭe** (what does the *devatā-kāṇḍa* reveal by its statements, that is, of what does it speak), **kim anūdya** (relying on what in the *jñāna-kāṇḍa*) **vikalpayet** **iti** (thus) **asyāḥ** (of this *śruti*) **hṛdayaṁ** **loke** (here in the world) **mat** (besides Me) **anyaḥ kaścana** **na veda** (knows). (“Then by Your mercy tell it,” — to this He says:) **mām** (Me in the form of sacrifice, by injunction) **vidhatte** (by the primary sense); **mām eva** (Me in the form of this or that deity) **abhidhatte**; **aham** (I alone) **vikalpya** (having raised doubt) **apohyate** (am rejected: what is rejected is also I; nothing is separate from Me). (He states briefly the meaning of all the Vedas:) **etāvān eva** **sarva-vedārthaḥ** (the meaning of all the Vedas) — **śabdaḥ** (the Veda) **bhidām** (the differences — the forms of the *avatāras* and the rest) **anūdya** (having named), **māyā-mātram** (the world) **pratiṣidhya** (having rejected), **tad-ante** (at the end) **mām** (Me, the highest goal) **āsthāya** (taking as shelter) **prasīdati** (ceases from activity; that is, resting on Me alone in the form of Śrī Kṛṣṇa, it attains its goal).
 
 ## 149
 
@@ -154,7 +156,7 @@ See Ādi 1.74.
 
 Akrūra was taking Bhagavān Rāma and Kṛṣṇa by chariot from Gokula to Mathurā. On the way the great soul Akrūra entered the waters of the Yamunā, and there, in Viṣṇuloka, he saw Bhagavān, full of supreme majesty, together with Śeṣa, Nārada, the four Sanas and others. Offering prayers, he spoke of the subject of the paths of Sāṅkhya, yoga and the three Vedas, and then describes the path of worship of those initiated with Vaiṣṇava, Śaiva-Pāśupata and other initiations:
 
-**anye ca** (people) **te** (by You) **abhihitena** (spoken) **tena vidhinā** (by the rule — by the injunctions of the *Pañcarātra* and the like) **saṁskṛtātmānaḥ** (those whose selves are purified by initiation, Vaiṣṇava or Śaiva) **tvan-mayāḥ** (absorbed in You: regarding themselves as devoted to transcendental service, or holding You alone supreme) **bahū-mūrty-eka-mūrtikam** (You, many in Your forms — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha, and the *yuga-*, *manvantara-* and *līlā-avatāras* — and one in the form of Mahā-Nārāyaṇa) **vai** (indeed) **yajanti** (worship).
+**anye ca** (people) **te** (by You) **abhihitena** (spoken) **tena vidhinā** (by the rule — by the injunctions of the *Pañcarātra* and the like) **saṁskṛtātmānaḥ** (those whose selves are purified by initiation, Vaiṣṇava or Śaiva) **tvan-mayāḥ** (absorbed in You: regarding themselves as devoted to transcendental service, or holding You alone supreme) **bahu-mūrty-eka-mūrtikam** (You, many in Your forms — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha, and the *yuga-*, *manvantara-* and *līlā-avatāras* — and one in the form of Mahā-Nārāyaṇa) **vai** (indeed) **yajanti** (worship).
 
 ## 174
 
@@ -192,7 +194,7 @@ Seeing the alluring sweetness of the son of Nanda, Vāsudeva becomes agitated. T
 
 > Subheading: (*Lalita-mādhava* 4.19: Śrī Kṛṣṇa's words to Uddhava) —
 
-**he sakhe**, **asau cāraṇaḥ** (the actor) **udgīrṇādbhuta-mādhurī-parimalasya** (from whom the fragrance — the aroma — of a wondrous, unprecedented sweetness has risen and spread) **ābhīra-līlasya** (full of the pastimes of the son of Nanda the cowherd) **me** (My) **dvaitam** (second form) **samīkṣayan** (showing) **muhuḥ** (again and again) **citrīyate**; **yasya** **svarūpatām** (likeness) **prekṣya** (seeing) **hanta** (ah!) **māmakam** (My) **cetaḥ** (mind) **satyam** **keli-kutūhalottaralitam** (greatly melted with eagerness, that is, longing, for play — the sports befitting the people of Vraja) **vraja-vadhū-sārūpyam** (a form like that of the daughter of Vṛṣabhānu) **anvicchati** (desires).
+**he sakhe**, **asau cāraṇaḥ** (the actor) **udgīrṇādbhuta-mādhurī-parimalasya** (from whom the fragrance — the aroma — of a wondrous, unprecedented sweetness has risen and spread) **ābhīra-līlasya** (full of the pastimes of the son of Nanda the cowherd) **me** (My) **dvaitaṁ** (second form) **samīkṣayan** (showing) **muhuḥ** (again and again) **citrīyate**; **yasya** **svarūpatāṁ** (likeness) **prekṣya** (seeing) **hanta** (ah!) **māmakaṁ** (My) **cetaḥ** (mind) **satyaṁ** **keli-kutūhalottaralitam** (greatly melted with eagerness, that is, longing, for play — the sports befitting the people of Vraja) **vraja-vadhū-sārūpyam** (a form like that of the daughter of Vṛṣabhānu) **anvicchati** (desires).
 
 ## 182
 
@@ -235,3 +237,115 @@ See Ādi 4.146.
 > Subheading: The *prābhava-vilāsa*, the original *catur-vyūha*, is the cause of all the *vaibhava-vilāsas*, that is, of all the *catur-vyūhas* —
 
 The countless *catur-vyūhas* are not equal to the original one. The original *catur-vyūha* is the *prābhava-vilāsa*; the other *catur-vyūhas* are *vaibhava-vilāsa*. It is owing to the *prābhava-vilāsa* that the *vaibhava-vilāsas* become manifest.
+
+## 190
+
+> Subheading: They are the lords of the cities, the abodes of Mathurā and Dvārakā —
+
+## 191
+
+> Subheading: (2) From the original *catur-vyūha* come 24 forms, varied in name and weapons — the *vaibhava-vilāsa* —
+
+## 192
+
+> Subheading: (a) It is Kṛṣṇa Himself who, from the city, with the original *catur-vyūha*, abides in Vaikuṇṭha as a *vilāsa* form — in the form of Nārāyaṇa with the second *catur-vyūha* —
+
+## 190–192
+
+In the upper region of Paravyoma, within the three chambers of Goloka, in Mathurā- and Dvārakā-purī, Kṛṣṇa's *prābhava-vilāsa* eternally abides. In Gokula the *vaibhava-prakāśa* Baladeva eternally abides. From the four *prābhava-vilāsas*, by the difference of the weapons in the four hands of each, the *vaibhava-vilāsa* is manifest in twenty-four forms.
+
+Below Goloka, the upper region, in Paravyoma Kṛṣṇa Himself, in a four-armed form, abides as Nārāyaṇa.
+
+## 193
+
+From Nārāyaṇa, the Lord of Paravyoma, countless *catur-vyūhas* are again manifest all around as His surrounding circle (*āvaraṇa*).
+
+## 194
+
+> Subheading: (b) Each of the second *catur-vyūha* manifests in three forms — these are the 12 forms, the deities of the 12 months and of the 12 marks of *tilaka* —
+
+## 195
+
+> Subheading: An introduction to these 12 forms of the *vaibhava-vilāsa* —
+
+## 198
+
+> Subheading: They are the 12 forms, the deities of the 12 months —
+
+## 202
+
+> Subheading: And they again are the 12 forms, the deities of the 12 *tilaka-mantras* —
+
+The twelve names of Viṣṇu in the twelve *tilaka-mantras*: “On the forehead let him meditate on Keśava, on the abdomen on Nārāyaṇa, on the chest on Mādhava, in the hollow of the throat on Govinda, on the right side of the belly on Viṣṇu, on the arm on Madhusūdana, on the neck on Trivikrama, on the left side on Vāmana, on the left arm on Śrīdhara, on the neck on Hṛṣīkeśa, on the back on Padmanābha, and on the waist let him place Dāmodara.”
+
+The Vaiṣṇava *ācamana* (*Hari-bhakti-vilāsa* 3.120): “With the three sips — Keśava, Nārāyaṇa and Mādhava; washing both hands — both Govinda and Viṣṇu; in wiping — Madhusūdana and then Trivikrama; wiping the lips — both Vāmana and Śrīdhara; washing the hands again — Hṛṣīkeśa, and washing the feet — Padmanābha; sprinkling the head — then Dāmodara; Vāsudeva on the mouth, Saṅkarṣaṇa and Pradyumna, both, on the nostrils; Aniruddha and Puruṣottama on the eyes; Adhokṣaja and Nṛsiṁha on the ears; Acyuta at the navel; Janārdana on the heart, then Upendra on the head; Hari on the right arm, Kṛṣṇa on the left, according to the rules. Let him perform *ācamana*, reciting [these names] in order in the dative case ending with *namaḥ*.”
+
+## 203
+
+> Subheading: (c) Each of the second *catur-vyūha* manifests two forms — *vilāsa* forms: the eight *vaibhava-vilāsas* —
+
+## 207
+
+> Subheading: The *vilāsa* of the *prābhava-vilāsa* — of the original *catur-vyūha* itself — is the *vaibhava-vilāsa*; by the difference of weapons, a variety of names —
+
+## 208
+
+> Subheading: By the difference of dress and shape, again a variety of their *vilāsa* and *vaibhava* —
+
+## 209
+
+> Subheading: The forms of Viṣṇu that differ in shape —
+
+## 210
+
+> Subheading: Apart from the second *catur-vyūha*, the remaining 20 forms are *vilāsa* forms —
+
+## 211
+
+> Subheading: In each of the eight directions, three forms: these 24 forms abide eternally in Vaikuṇṭha, each in His own abode —
+
+## 212
+
+> Subheading: The presence of some *tad-ekātma-rūpas*, with their abodes, within the universe —
+
+## 213
+
+> Subheading: In Vaikuṇṭha, Nārāyaṇa surrounded by the second *catur-vyūha*; above it, in Goloka, that is, in the city, the son of Devakī surrounded by the original *catur-vyūha*, and in Gokula the son of Yaśodā —
+
+## 214
+
+> Subheading: In Goloka there are three chambers —
+
+## 215
+
+> Subheading: In the universe these 24 forms abide in 24 different places, each with His own abode —
+
+## 215–217
+
+Within the universe Bhagavān abides as *arcā-mūrtis* (Deities) in various forms: in Mathurā as “Keśava,” in Nīlācala as “Puruṣottama Jagannātha,” in Prayāga as “Bindu-mādhava,” in Mandāra as “Madhusūdana,” in the south, in the land of Kerala, in Ānandāraṇya as “Vāsudeva,” “Padmanābha” and “Janārdana,” in Viṣṇu-kāñcī as “Varadarāja Viṣṇu,” in Māyāpura as “Hari,” and in other places as well.
+
+## 218
+
+> Subheading: For the joy of the devotees, the establishment of *dharma* and the destruction of *adharma* — that is, for *vilāsa*, or pastimes — they appear in the universe —
+
+The *sapta-dvīpa* (the seven *dvīpas*). In the *Siddhānta-śiromaṇi* (in the *Golādhyāya*, in the section in praise of the sphere): “The best of *ācāryas* call Jambudvīpa that half of the earth which lies north of the ocean of milk. In the other half, to the south, lie six *dvīpas* and the oceans of salt, milk and the rest. Śāka, then Śālmala, Kuśa, Krauñca, Gomedaka and Puṣkara: each of them, lying between two oceans, is called a *dvīpa*.” (1) Jambu, (2) Śāka, (3) Śālmalī, (4) Kuśa, (5) Krauñca, (6) Gomeda, or Plakṣa, and (7) Puṣkara — these are the seven *dvīpas*.
+
+The *nava-khaṇḍa* (the nine *khaṇḍas*): (1) Bhārata, (2) Kinnara (Kimpuruṣa), (3) Hari, (4) Kuru, (5) Hiraṇmaya, (6) Ramyaka (Ramaṇaka), (7) Ilāvṛta, (8) Bhadrāśva, (9) Ketumāla — these are the nine *khaṇḍas*, or *varṣas* (the nine parts of Jambudvīpa). The region between two mountain ranges is called a *khaṇḍa*, or *varṣa* — see the *Bhuvana-kośa* in the *Golādhyāya*.
+
+## 220
+
+> Subheading: Some of them descend into the world —
+
+## 221
+
+> Subheading: The names differ according to the weapons —
+
+## 222
+
+The four kinds of weapons are listed in order: in the lower right hand of the four-armed Viṣṇu, in the upper right, in the upper left and in the lower left.
+
+## 223
+
+> Subheading: The 24 forms named in the *Siddhārtha-saṁhitā* —
+
+The twenty-four forms: 1) Vāsudeva, 2) Saṅkarṣaṇa, 3) Pradyumna, 4) Aniruddha, 5) Keśava, 6) Nārāyaṇa, 7) Mādhava, 8) Govinda, 9) Viṣṇu, 10) Madhusūdana, 11) Trivikrama, 12) Vāmana, 13) Śrīdhara, 14) Hṛṣīkeśa, 15) Padmanābha, 16) Dāmodara, 17) Puruṣottama, 18) Acyuta, 19) Nṛsiṁha, 20) Janārdana, 21) Hari, 22) Kṛṣṇa, 23) Adhokṣaja and 24) Upendra.

@@ -45,3 +45,7 @@ The three original forms of Śrī Kṛṣṇa.
 ## 181
 
 O friend, this *cāraṇa*, as if My second form, is portraying My pastimes — the pastimes of a cowherd boy, full of a wondrous fragrance of sweetness. My mind, stirred by eagerness for play, looks upon My own deeds and longs to take the form of the young women of Vraja.
+
+## 202
+
+*Ācamana* — the touching of the mouth with water that is prescribed after the daily worship (*āhnika*).
