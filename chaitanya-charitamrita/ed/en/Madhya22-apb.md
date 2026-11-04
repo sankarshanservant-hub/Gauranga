@@ -127,3 +127,35 @@ As long as people's minds are not bathed in the dust of the feet of Bhagavān's 
 ## 55
 
 The boundless good that comes to the *jīva* through the company of those who associate with Bhagavān cannot be compared in the slightest with heaven or liberation (*mokṣa*), to say nothing of gaining a kingdom and the like.
+
+## 57–58
+
+(O Arjuna,) you are most intimately My own; therefore, for your welfare, I give you the most confidential, the best of all instructions: think of Me, become My devotee, worship Me and surrender to Me — then you will surely attain Me. You are very dear to Me; that is why I have spoken to you these words of My vow.
+
+## 62
+
+Firm, unwavering faith that “by serving Kṛṣṇa with *bhakti* one performs all *karma*” is called *śraddhā*, which grants the right to *bhakti*.
+
+## 63
+
+When the root of a tree is watered, its trunk, branches, twigs and all the rest are satisfied. When the *prāṇa* is satisfied, all the senses are satisfied. In the same way, by worshiping Śrī Kṛṣṇa, the worship of all the gods is accomplished.
+
+## 64–68
+
+As stated above, one in whose heart *śraddhā* has arisen has the right to *bhakti*. Those who have *śraddhā* are of three kinds: “highest” (*uttama*), “middle” (*madhyama*) and “lowest” (*kaniṣṭha*). One who is expert in scripture and reasoning and firm in faith is an *uttama-adhikārī*. One who does not know the firm arguments of scripture yet has faith is a *madhyama-adhikārī*. One whose faith has not become firm is a *kaniṣṭha-adhikārī*. This threefold division is not merely a division of devotees; it divides the persons qualified for pure *bhakti*. One whose faith is weak (*kaniṣṭha-śraddha*) believes only this much: “Devotion to Kṛṣṇa is good.” But he does not know what pure devotion to Kṛṣṇa is, or what the method established by the marginal characteristics (*taṭastha-lakṣaṇa*) of *bhakti* is. Therefore in the hearts of those whose faith is tender (*komala*) an admixture of *jñāna* and *karma* is found. As soon as that admixture disappears, the practitioner becomes a *madhyama-adhikārī*. And when the faith of the *madhyama-adhikārī* is made firm by scripture and reasoning, he will become an *uttama-adhikārī*. Thus far the right to *bhakti* has been determined. Now (the Lord) divides the devotees themselves: by degree of *rati* and *prema* — “devotee,” “greater devotee” and “greatest devotee.” Such is the threefold division.
+
+## 70
+
+The devotee who has *prema* for Īśvara, friendship for the devotees, mercy for the ignorant and indifference toward the hostile is a *madhyama-bhakta*.
+
+## 71
+
+Someone worships Hari in the form of the *arcā-mūrti* with faith handed down to him by tradition — by worldly and family custom. But since he has not understood the truth of pure *bhakti* through the study of scripture, he does not honor Hari's devotees. He is a *prākṛta-bhakta*, that is, one who has only begun the path of *bhakti*. He may be called “almost a devotee” (*bhakta-prāya*) or “a semblance of a Vaiṣṇava” (*vaiṣṇava-ābhāsa*).
+
+## 69–71
+
+The purport is this. When the devotee is able to have “*prema*” for Īśvara, “friendship” for the devotees, “mercy” for the ignorant and “indifference” toward those hostile to Bhagavān and hostile to Bhagavān's devotees,[^69-71-1] he is counted as a pure devotee among the *madhyama-bhaktas*. Then, as he goes on with *bhajana*, he comes to see in all beings Bhagavān related to himself, and in Bhagavān, the true nature of his soul, the presence of all beings. Then he no longer makes distinctions in his attitude toward Īśvara, those dependent on Him, the ignorant and the hostile. In that state he is called a *bhāgavatottama*.
+
+---
+
+[^69-71-1]: The edition reads *bhagavad-avidveṣī* (“not hostile to Bhagavān”); the sense and the verse (*dviṣatsu*, “toward the hostile”) require *bhagavad-vidveṣī*. An evident misprint.

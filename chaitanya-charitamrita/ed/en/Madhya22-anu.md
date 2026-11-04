@@ -296,6 +296,98 @@ A *lava* is the time of a blink (*nimeṣa*); eleven and a quarter (11¼) *lavas
 
 The sages headed by Śaunaka, mentioning their own futile labor in the trifling *karma-kāṇḍa* — sacrifices and the like — describe the glory of association with Sūta, the *mahā-bhāgavata* who recites narrations about Hari:
 
+(**he sūta**,) **bhagavat-saṅgi-saṅgasya** (of association with Hari's servant, who associates with Bhagavān) **lavena** (even with the tiniest moment) **svargam** (the place of exemplary happiness and enjoyment) **na** **tulayāma** (we do not consider equal), **apunarbhavam** (nor liberation, *mokṣa*) **na** (do we equate); **martyānām** (of mundane gods, *brāhmaṇas*, kings and the like) **āśiṣaḥ** (the most trifling blessings — wealth, power and so on) **kim uta** (what to speak of them — them we certainly do not equate).
+
+## 56
+
+> Subheading: The teaching of the *Gītā* —
+
+## 57–58
+
+> Subheading: Every action should be done for the sake of attaining Kṛṣṇa — (*Bhagavad-gītā* 18.64–65) —
+
+**he arjuna**, **me** (My) **sarva-guhyatamam** (most confidential) **paramaṁ** **vacaḥ** (word) **bhūyaḥ** (again) **śṛṇu**; (for) **me** (to Me) **dṛḍham** (very) **iṣṭaḥ** (dear) **asi**, **tataḥ** (for that reason) **te** (to you) **hitam** (what is good) **vakṣyāmi** (I shall tell): (you) **man-manāḥ** (with your mind on Me) **mad-bhaktaḥ** (devoted to serving Me) **mad-yājī** (devoted to worshiping Me) **bhava**, **mām** (giving up the other, mundane gods — Me alone, the transcendental, in the form of Kṛṣṇa) **namaskuru**; (living thus, by My grace, through pure *bhakti*) **mām** **eva** **eṣyasi** (you will attain — have no doubt about it); **tvaṁ** **hi** **me** **priyaḥ** **asi**, (therefore) **satyam** (so that it will surely come true) **te** (to you) **ahaṁ** **pratijāne** (I make a promise).
+
+## 59
+
+> Subheading: Earlier *karma*, *yoga*, *jñāna* and the rest were spoken of as the *abhidheya*, but the final command is devotion to Kṛṣṇa: it alone is the *abhidheya* and the injunction —
+
+## 60
+
+> Subheading: The endeavor to worship Kṛṣṇa, giving up all *dharmas* —
+
+## 61
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.20.9) —
+
+See Madhya 9.266.
+
+## 62
+
+> Subheading: The definition of *śraddhā* —
+
+Firm, unwavering faith is called *śraddhā*. One who serves Kṛṣṇa need not perform any of the duties of the mundane realm — paying off the debts to the forefathers, to living beings, to the gods and the like. *Karma* is merely the ritual activity of the conditioned *jīva* aimed at enjoyment. When devotion to Bhagavān awakens, one need not strive for the fruits of *karma*. The best thing to be gained from the fruits of *karma* — “renunciation” (*vairāgya*) — always accompanies the devotee of itself.
+
+## 63
+
+> Subheading: By worshiping Kṛṣṇa all worship is accomplished — (*Śrīmad-Bhāgavatam* 4.31.14) —
+
+The Pracetās, sons of Prajāpati Dakṣa,[^63-1] saw their *gurudeva*, Devarṣi Śrī Nārada, and asked him to speak to them again about the truth of the Self, that is, about Śrī Hari. Then Śrī Nārada describes the glory of Śrī Hari, the Soul of all beings:
+
+**yathā** **taroḥ** (of a tree) **mūla-niṣecanena** (by watering, pouring water at its base) **tat-skandha-bhujopaśākhāḥ** (all the parts of the tree, from the trunk to the leaves and flowers) **tṛpyanti** (are satisfied — not by watering each of them separately without watering the root), (as) **prāṇopahārāt** (by offering to the *prāṇa*, by eating) **indriyāṇāṁ** **ca** **tṛptiḥ** (and not by smearing food separately on each sense), **tathā** **acyutejyā** (the worship of Bhagavān Viṣṇu) **eva** **sarvārhaṇam** (the worship of all the gods; the sense: there is no need to worship them separately).
+
+## 64
+
+> Subheading: Determining the right to *bhakti* (the three kinds of devotees' right) and its varieties —
+
+“One who has *śraddhā*” (*śraddhāvān*) is a person with firm, unwavering faith in Kṛṣṇa — the true Reality, the eternal Truth, the highest goal (*paramārtha*). He alone has the right to *bhakti*. Whether a devotee's right (*adhikāra*) is highest, middle or lowest depends on how firm and unwavering his faith is.
+
+## 65
+
+> Subheading: (1) The definition of the *uttama-adhikārī* —
+
+(*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, second *laharī*, description of *vaidhī-bhakti*, verse 11.) Śrī Rūpa Gosvāmipāda wrote: “One who is expert in the scriptures and in reasoning, firmly convinced in every way, and has mature faith is considered the highest (*uttama*) in the right to *bhakti*.” Only a person of such mature faith — “skilled in the scriptures of *bhakti* and adept with firm arguments in refuting other paths” — is an *uttama-adhikārī* among devotees.
+
+## 66–68
+
+> Subheading: (2) The definition of the *madhyama-adhikārī* —
+
+In the same place, in verse 12, Śrī Rūpapāda wrote: “One who is not so expert in the scriptures and so on but has faith is middle (*madhyama*). And one whose faith is tender is called lowest (*kaniṣṭha*).” The middle devotee has faith but is not so skilled in the purport of the scriptures and so on, and one whose faith is tender (*komala*) is a *kaniṣṭha*. The *kaniṣṭha-adhikārī*, through association with non-devotees, may fall away from his tender faith in Kṛṣṇa's lotus feet. The *madhyama-adhikārī*, though by the purport of the scriptures he cannot at once be free from the bad results of association with non-devotees, gains firmness by the power of the scriptures and of the company of Hari's servants. Association with non-devotees can in no way harm the faith of the *uttama-adhikārī*. As faith grows, the devotee's right (*adhikāra*) rises.
+
+## 67
+
+> Subheading: (3) The definition of the *kaniṣṭha-adhikārī* —
+
+## 68
+
+> Subheading: On the gradations of devotees —
+
+*Rati* varies in degree according to the measure of faith of the *vaidhī* devotee in whom taste (*ruci*) has not yet arisen; (the faith of a devotee in whom taste has arisen is itself called *rati*). According to the degree of *rati*, the *rasa* of *prema-bhakti* also varies. In the Eleventh Canto, in the dialogue between Śrī Bhagavān and Uddhava, the right (*adhikāra*) of the devotee is described.
+
+## 69
+
+> Subheading: The characteristics of the *uttama-bhakta*, or *mahā-bhāgavata* — (*Śrīmad-Bhāgavatam* 11.2.45–47) —
+
+See Madhya 8.275.[^69-1]
+
+## 70
+
+> Subheading: The characteristics of the *madhyama-bhakta* —
+
+Śrī Nārada, glorifying *bhāgavata-dharma* before Vasudeva, recounts the dialogue between Nimi, the king of Videha, and the nine Yogendras. Nimi asked about the characteristics and conduct of the three kinds of devotees, or *bhāgavatas*, and in answer one of the nine Yogendras, the sage Havi, said:
+
+**yaḥ** **īśvare** (toward Bhagavān Kṛṣṇa) **premāṇaṁ** **karoti** (has *prema*), **tad-adhīneṣu** (toward Bhagavān's devotees — *uttama-*, *madhyama-* and *kaniṣṭha-adhikārīs*) **maitrīm** (friendship — fitting intimacy: service, obeisances, respect and so on) **karoti**, **bāliśeṣu** (toward those ignorant of *bhakti*) **kṛpāṁ** **karoti**, **dviṣatsu** (toward people hostile to Bhagavān and the *bhāgavatas*) **upekṣāṁ** **karoti** (shows indifference — that is, avoids their company in every way), **saḥ** (such a *bhāgavata*) **madhyamaḥ** (is called *madhyama*, because he sees such distinctions).
+
+## 71
+
+> Subheading: The characteristics of the *kaniṣṭha-bhakta* —
+
+**yaḥ** **haraye** (to Bhagavān — having offered himself to the *guru*) **arcāyām** (in the Śrī Vigraha) **śraddhayā** (having received *dīkṣā* — with mixed *bhakti*, with a semblance of *bhakti* [*bhakty-ābhāsa*], according to the rules of the Pañcarātra) **pūjām** **īhate** (performs), **tad-bhakteṣu** (to Hari's servants) **pūjāṁ** **na** (does not perform — because he does not know the gradations of devotees) **anyeṣu** **ca** (and toward others — that is, he also avoids the company of those averse to Hari), **saḥ** **bhaktaḥ** **prākṛtaḥ** (a *kaniṣṭha*, resembling a Vaiṣṇava — that is, not pure) **smṛtaḥ** (is called).
+
+## 72
+
+> Subheading: The pure devotee is adorned with all of Kṛṣṇa's qualities —
+
 ---
 
 [^19-1]: The edition reads *phalam*; the verse and the gloss (“exceedingly”) require *alam*. An evident misprint.
@@ -305,3 +397,7 @@ The sages headed by Śaunaka, mentioning their own futile labor in the trifling 
 [^31-1]: *Śrīmad-Bhāgavatam* 2.9.34.
 
 [^32-1]: The punctuation of the edition is ambiguous here: the words about the four kinds of results of action could also be taken as describing Brahman. Translated according to the sense of the verse (“where the word … directed toward action does not operate”).
+
+[^63-1]: So in the edition. According to the *Śrīmad-Bhāgavatam* (4.30), Prajāpati Dakṣa is the son of the Pracetās.
+
+[^69-1]: So in the edition (“মধ্য ৮ম পঃ ২৭৫”). The verse *sarva-bhūteṣu yaḥ paśyet …* is Madhya 8.274 in our numbering (the *Anubhāṣya* discusses it there). Not corrected.
