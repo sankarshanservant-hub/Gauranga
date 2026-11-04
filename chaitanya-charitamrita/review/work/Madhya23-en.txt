@@ -63,7 +63,7 @@ fn: The edition’s heading: the definition of *prema* according to the Pañcar�
 ## 9
 w: by some  good fortune  of some  jīva  faith  if  arises
 w: then  that  jīva  the company of sādhus  keeps
-tr: If by some good fortune faith (*śraddhā*) arises in a *jīva*, that *jīva* seeks the company of *sādhus*.
+tr: If by some good fortune faith (*śraddhā*) awakens in a *jīva*, he then seeks the company of *sādhus*.
 
 ## 10
 w: the company of sādhus  from  arise  hearing and chanting
@@ -157,7 +157,7 @@ w: who  hard to give up  wife and sons
 w: friends and kingdom  dear to the heart
 w: gave up  while young  even  like filth
 w: for Uttamaśloka  longing
-tr: “Longing for Uttamaśloka, Bharata gave up, while still young, like so much filth, his wife and sons, his friends and kingdom — all dear to his heart and so hard to leave.” (Śrīmad-Bhāgavatam, 5.14.43)
+tr: “Longing for Uttamaśloka, Bharata, while still young, cast off like so much filth his wife and sons, his friends and kingdom — all so dear to his heart and so hard to leave.” (Śrīmad-Bhāgavatam, 5.14.43)
 
 ## 25
 w: the best of all  himself  low  making  considers
@@ -197,7 +197,7 @@ fn: The same verse as Madhya 2.61; translation as there, with the speaker’s pr
 ## 30
 w: of tears  drops  like honey  pouring  eyes  blue lotuses  today  O Govinda
 w: Your  with a sweet voice  sings  the string of names  the girl
-tr: “O Govinda, today this young girl, Her blue-lotus eyes shedding drops of tears like honey, sings the string of Your names in a sweet voice.” (Bhakti-rasāmṛta-sindhu, 1.3.38)
+tr: “O Govinda, today this young girl sings the string of Your names in a sweet voice, while from Her blue-lotus eyes tears fall like drops of honey.” (Bhakti-rasāmṛta-sindhu, 1.3.38)
 fn: *Adya* — “today”, “now” (so both commentators); *bālā*, the young girl, is Rādhikā.
 
 ## 31
@@ -268,7 +268,7 @@ fn: *Anubhāṣya* (heading): *rati* is the seed, and *prema* has stages of thic
 ## 41
 w: by the difference of those qualified  rati  five  kinds
 w: śānta  dāsya  sakhya  vātsalya  madhura  and
-tr: According to the differences among those qualified for it, *rati* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*.
+tr: *Rati* is of five kinds, according to the nature of the devotee: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*.
 fn: *Madhura* is the love of the beloveds; in the *gopīs* it is *parakīyā*, so it is not rendered as “conjugal”.
 
 ## 42
@@ -280,7 +280,7 @@ fn: *Anubhāṣya*: the *sthāyī-bhāva* subdues the *bhāvas* both favourable 
 ## 43
 w: prema and the rest  sthāyī-bhāva  with the ingredients  on meeting
 w: devotion to Kṛṣṇa  the form of rasa  attains  in its transformation
-tr: When the *sthāyī-bhāva* — *prema* and the rest — meets with its ingredients (*sāmagrī*), devotion to Kṛṣṇa is transformed into *rasa*.
+tr: When *prema* and the other abiding emotions (*sthāyī-bhāva*) meet with their ingredients (*sāmagrī*), devotion to Kṛṣṇa at last takes the form of *rasa*.
 
 ## 44
 w: vibhāva  anubhāva  sāttvika  vyabhicārī
@@ -295,7 +295,7 @@ tr: When yogurt is mixed with sugar, black pepper and camphor, it becomes the dr
 ## 46
 w: two kinds  vibhāva  ālambana  uddīpana
 w: the sound of the flute and the rest  uddīpana  Kṛṣṇa and others  ālambana
-tr: *Vibhāva* is of two kinds: the support (*ālambana*) and the stimulus (*uddīpana*). The sound of the flute and the like are *uddīpana*; Kṛṣṇa and others are *ālambana*.
+tr: *Vibhāva* is of two kinds: the support (*ālambana*) and the stimulus (*uddīpana*). The sound of the flute and the like are *uddīpana*; Kṛṣṇa and His devotees are *ālambana*.
 fn: *Anubhāṣya*: *ālambana* — Kṛṣṇa as the object (*viṣaya*) of *rati* and His devotee as its abode (*āśraya*); *uddīpana* — His qualities, deeds, dress, smile, fragrance, flute, horn, ankle bells, conch, footprints, holy places, *tulasī*, devotees, the day of Hari and the like.
 
 ## 47
@@ -487,7 +487,7 @@ w: now  are described  qualities  five
 w: which  in the Lord of Lakṣmī and others  are present
 w: inconceivable  great  power
 w: millions of  universes  in His body
-tr: “Now five qualities are described that are present in the Lord of Lakṣmī (Nārāyaṇa) and His other forms: (56) He has inconceivable great power, and (57) His body holds millions of universes.” (Bhakti-rasāmṛta-sindhu, 2.1.39)
+tr: “Now five qualities are described that are present in the Lord of Lakṣmī (Nārāyaṇa) and His other forms: (56) He has great, inconceivable power, and (57) His body holds millions of universes.” (Bhakti-rasāmṛta-sindhu, 2.1.39)
 fn: *Amṛta-pravāha-bhāṣya*: these five are found neither in Śiva and the other gods nor in the *jīvas*; in Kṛṣṇa they are present in full.
 
 ## 77
@@ -549,7 +549,7 @@ tr: “She is (10) modest, (11) full of compassion, (12) artful, (13) skilful, (
 ## 85
 w: rich in graceful pastimes  of mahābhāva  for the highest excellence  thirsting
 w: of Gokula  of the love  the abode  of the worlds  in the ranks  shining  whose fame
-tr: “(18) She is rich in graceful pastimes; (19) She thirsts for the highest excellence of *mahābhāva*; (20) She is the abode of the love of Gokula; (21) Her fame shines throughout the ranks of all the worlds.” (Ujjvala-nīlamaṇi, Rādhā-prakaraṇa, 14)
+tr: “(18) She is rich in graceful pastimes; (19) She thirsts for the highest excellence of *mahābhāva*; (20) She is the abode of the love of Gokula; (21) Her fame shines throughout all the worlds.” (Ujjvala-nīlamaṇi, Rādhā-prakaraṇa, 14)
 
 ## 86
 w: by the elders  bestowed  great  affection (on whom)  of Her friends  to the loving friendship  yielding
@@ -580,20 +580,20 @@ w: of the devotees  in the heart  shining
 w: by impressions  two  illumined
 w: rati  bliss  in form  indeed
 w: being led  indeed  to the state of rasa
-tr: “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
+tr: “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimately bound up with *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it attains the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
 
 ## 92
 w: by Kṛṣṇa and the rest  by the vibhāvas and the rest
 w: that have entered  the path of experience
 w: mature bliss (becoming)  of wonder
 w: the limit  reaches  the highest
-tr: “When Kṛṣṇa and the other *vibhāvas*, together with the remaining ingredients of *rasa*, have entered the path of experience, this *rati* becomes mature bliss and reaches the highest limit of wonder.” (Bhakti-rasāmṛta-sindhu, 2.1.10)
+tr: “When Kṛṣṇa and the other *vibhāvas*, together with the remaining ingredients of *rasa*, have entered the path of experience, this *rati* rises to the very summit of mature, wondrous bliss.” (Bhakti-rasāmṛta-sindhu, 2.1.10)
 fn: Verses 89–92 form a single sentence (the edition’s heading: *Bhakti-rasāmṛta-sindhu*, 2.1.7–10).
 
 ## 93
 w: this  of rasa  the taste  is not  of non-devotees  in the company
 w: Kṛṣṇa’s  devotees  do  of rasa  the relishing
-tr: Non-devotees have no taste of this *rasa*; it is the devotees of Kṛṣṇa who relish *rasa*.
+tr: Non-devotees cannot taste this *rasa*; it is Kṛṣṇa’s devotees who relish it.
 fn: *Anubhāṣya*: non-devotees (*abhakta*) are those who crave enjoyment and liberation and have turned away from Hari. The edition’s heading: “only a liberated devotee of Kṛṣṇa can taste this spiritual *rasa*; for a worldly, crude relisher (*kurasika*) it is impossible”.
 
 ## 94
@@ -628,7 +628,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the *bhakti-smṛti* scripture is the *Hari-bh
 ## 99
 w: of fitting  renunciation  the standing  all  He taught
 w: dry  renunciation  knowledge  all  He forbade
-tr: He taught him all about the true place of fitting renunciation (*yukta-vairāgya*), and forbade dry renunciation and dry knowledge altogether.
+tr: Then the Lord taught him fully the way of fitting renunciation (*yukta-vairāgya*) and forbade dry renunciation and dry knowledge altogether.
 fn: *Amṛta-pravāha-bhāṣya*: to use the world in relation to Kṛṣṇa is *yukta-vairāgya*; to take *sannyāsa* thinking the world worthless is dry renunciation.
 
 ## 100–101

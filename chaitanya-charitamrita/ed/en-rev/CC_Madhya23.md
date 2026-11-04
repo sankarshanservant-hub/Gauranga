@@ -110,7 +110,7 @@ by some  good fortune  of some  jīva  faith  if  arises
 tabe sei jīva ‘sādhu-saṅga’ karaya  
 then  that  jīva  the company of sādhus  keeps
 
-(9) If by some good fortune faith (*śraddhā*) arises in a *jīva*, that *jīva* seeks the company of *sādhus*.
+(9) If by some good fortune faith (*śraddhā*) awakens in a *jīva*, he then seeks the company of *sādhus*.
 
 সাধুসঙ্গ হৈতে হয় ‘শ্রবণ-কীর্ত্তন’ ৷  
 সাধনভক্ত্যে হয় ‘সর্ব্বানর্থনিবর্ত্তন’ ॥ ১০ ॥
@@ -295,7 +295,7 @@ gave up  while young  even  like filth
 uttamaḥ-śloka-lālasaḥ  
 for Uttamaśloka  longing
 
-(24) “Longing for Uttamaśloka, Bharata gave up, while still young, like so much filth, his wife and sons, his friends and kingdom — all dear to his heart and so hard to leave.” (Śrīmad-Bhāgavatam, 5.14.43)
+(24) “Longing for Uttamaśloka, Bharata, while still young, cast off like so much filth his wife and sons, his friends and kingdom — all so dear to his heart and so hard to leave.” (Śrīmad-Bhāgavatam, 5.14.43)
 
 ‘সর্ব্বোত্তম’ আপনাকে ‘হীন’ করি’ মানে ৷  
 ’কৃষ্ণ কৃপা করিবেন’ — দৃঢ় করি’ জানে ॥ ২৫ ॥
@@ -371,7 +371,7 @@ of tears  drops  like honey  pouring  eyes  blue lotuses  today  O Govinda
 tava madhura-svara-kaṇṭhī gāyati nāmāvalīṁ bālā  
 Your  with a sweet voice  sings  the string of names  the girl
 
-(30) “O Govinda, today this young girl, Her blue-lotus eyes shedding drops of tears like honey, sings the string of Your names in a sweet voice.” (Bhakti-rasāmṛta-sindhu, 1.3.38)[^17]
+(30) “O Govinda, today this young girl sings the string of Your names in a sweet voice, while from Her blue-lotus eyes tears fall like drops of honey.” (Bhakti-rasāmṛta-sindhu, 1.3.38)[^17]
 
 কৃষ্ণগুণাখ্যানে হয় সর্ব্বদা আসক্তি ৷  
 কৃষ্ণলীলা-স্থানে করে সর্ব্বদা বসতি ॥ ৩১ ॥
@@ -501,7 +501,7 @@ by the difference of those qualified  rati  five  kinds
 śānta, dāsya, sakhya, vātsalya, madhura āra  
 śānta  dāsya  sakhya  vātsalya  madhura  and
 
-(41) According to the differences among those qualified for it, *rati* is of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*.[^25]
+(41) *Rati* is of five kinds, according to the nature of the devotee: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*.[^25]
 
 এই পঞ্চ স্থায়ীভাবে হয় পঞ্চ ‘রস’ ৷  
 যে-রসে ভক্ত ‘সুখী’, কৃষ্ণ হয় ‘বশ’ ॥ ৪২ ॥
@@ -521,7 +521,7 @@ prema and the rest  sthāyī-bhāva  with the ingredients  on meeting
 kṛṣṇa-bhakti rasa-rūpe pāya pariṇāme  
 devotion to Kṛṣṇa  the form of rasa  attains  in its transformation
 
-(43) When the *sthāyī-bhāva* — *prema* and the rest — meets with its ingredients (*sāmagrī*), devotion to Kṛṣṇa is transformed into *rasa*.
+(43) When *prema* and the other abiding emotions (*sthāyī-bhāva*) meet with their ingredients (*sāmagrī*), devotion to Kṛṣṇa at last takes the form of *rasa*.
 
 বিভাব, অনুভাব, সাত্ত্বিক, ব্যভিচারী ৷  
 স্থায়ীভাব ‘রস’ হয় এই চারি মিলি’ ॥ ৪৪ ॥
@@ -551,7 +551,7 @@ two kinds  vibhāva  ālambana  uddīpana
 vaṁśī-svarādi — ‘uddīpana’, kṛṣṇādi — ‘ālambana’  
 the sound of the flute and the rest  uddīpana  Kṛṣṇa and others  ālambana
 
-(46) *Vibhāva* is of two kinds: the support (*ālambana*) and the stimulus (*uddīpana*). The sound of the flute and the like are *uddīpana*; Kṛṣṇa and others are *ālambana*.[^27]
+(46) *Vibhāva* is of two kinds: the support (*ālambana*) and the stimulus (*uddīpana*). The sound of the flute and the like are *uddīpana*; Kṛṣṇa and His devotees are *ālambana*.[^27]
 
 ’অনুভাব’ — স্মিত, নৃত্য, গীতাদি উদ্ভাস্বর ৷  
 স্তম্ভাদি — ‘সাত্ত্বিক’ অনুভাবের ভিতর ॥ ৪৭ ॥
@@ -909,7 +909,7 @@ inconceivable  great  power
 koṭi-brahmāṇḍa-vigrahaḥ  
 millions of  universes  in His body
 
-(76) “Now five qualities are described that are present in the Lord of Lakṣmī (Nārāyaṇa) and His other forms: (56) He has inconceivable great power, and (57) His body holds millions of universes.” (Bhakti-rasāmṛta-sindhu, 2.1.39)[^41]
+(76) “Now five qualities are described that are present in the Lord of Lakṣmī (Nārāyaṇa) and His other forms: (56) He has great, inconceivable power, and (57) His body holds millions of universes.” (Bhakti-rasāmṛta-sindhu, 2.1.39)[^41]
 
 অবতারাবলীবীজং হতারিগতিদায়কঃ ৷  
 আত্মারামগণাকর্ষীত্যমী কৃষ্ণে কিলাদ্ভুতাঃ ॥ ৭৭ ॥
@@ -1028,7 +1028,7 @@ rich in graceful pastimes  of mahābhāva  for the highest excellence  thirsting
 gokula-prema-vasatir jagac-chreṇī-lasad-yaśāḥ  
 of Gokula  of the love  the abode  of the worlds  in the ranks  shining  whose fame
 
-(85) “(18) She is rich in graceful pastimes; (19) She thirsts for the highest excellence of *mahābhāva*; (20) She is the abode of the love of Gokula; (21) Her fame shines throughout the ranks of all the worlds.” (Ujjvala-nīlamaṇi, Rādhā-prakaraṇa, 14)
+(85) “(18) She is rich in graceful pastimes; (19) She thirsts for the highest excellence of *mahābhāva*; (20) She is the abode of the love of Gokula; (21) Her fame shines throughout all the worlds.” (Ujjvala-nīlamaṇi, Rādhā-prakaraṇa, 14)
 
 গুর্ব্বর্পিতগুরুস্নেহা সখীপ্রণয়িতাবশা ৷  
 কৃষ্ণপ্রিয়াবলীমুখ্যা সন্ততাশ্রব-কেশবা ॥ ৮৬ ॥
@@ -1094,7 +1094,7 @@ rati  bliss  in form  indeed
 nīyamānā tu rasyatām  
 being led  indeed  to the state of rasa
 
-(89–91) “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimate to *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it is brought to the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
+(89–91) “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimately bound up with *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it attains the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
 
 কৃষ্ণাদিভির্বিভাবাদ্যৈর্গতৈরনুভবাধ্বনি ৷  
 প্রৌঢ়ানন্দশ্চমৎকারকাষ্ঠামাপদ্যতে পরাম্ ॥ ৯২ ॥
@@ -1108,7 +1108,7 @@ mature bliss (becoming)  of wonder
 kāṣṭhām āpadyate parām  
 the limit  reaches  the highest
 
-(92) “When Kṛṣṇa and the other *vibhāvas*, together with the remaining ingredients of *rasa*, have entered the path of experience, this *rati* becomes mature bliss and reaches the highest limit of wonder.” (Bhakti-rasāmṛta-sindhu, 2.1.10)[^45]
+(92) “When Kṛṣṇa and the other *vibhāvas*, together with the remaining ingredients of *rasa*, have entered the path of experience, this *rati* rises to the very summit of mature, wondrous bliss.” (Bhakti-rasāmṛta-sindhu, 2.1.10)[^45]
 
 এই রস-আস্বাদ নাহি অভক্তের গণে ৷  
 কৃষ্ণভক্তগণ করে রস আস্বাদনে ॥ ৯৩ ॥
@@ -1118,7 +1118,7 @@ this  of rasa  the taste  is not  of non-devotees  in the company
 kṛṣṇa-bhakta-gaṇa kare rasa āsvādane  
 Kṛṣṇa’s  devotees  do  of rasa  the relishing
 
-(93) Non-devotees have no taste of this *rasa*; it is the devotees of Kṛṣṇa who relish *rasa*.[^46]
+(93) Non-devotees cannot taste this *rasa*; it is Kṛṣṇa’s devotees who relish it.[^46]
 
 সর্ব্বথৈব দুরূহোঽয়মভক্তৈর্ভগবদ্রসঃ ৷  
 তৎপাদাম্বুজসর্ব্বস্বৈর্ভক্তৈরেবানুরস্যতে ॥ ৯৪ ॥
@@ -1182,7 +1182,7 @@ of fitting  renunciation  the standing  all  He taught
 śuṣka-vairāgya-jñāna saba niṣedhila  
 dry  renunciation  knowledge  all  He forbade
 
-(99) He taught him all about the true place of fitting renunciation (*yukta-vairāgya*), and forbade dry renunciation and dry knowledge altogether.[^49]
+(99) Then the Lord taught him fully the way of fitting renunciation (*yukta-vairāgya*) and forbade dry renunciation and dry knowledge altogether.[^49]
 
 অদ্বেষ্টা সর্ব্বভূতানাং মৈত্রঃ করুণ এব চ ৷  
 নির্ম্মমো নিরহঙ্কারঃ সমদুঃখসুখঃ ক্ষমী ॥ ১০০ ॥
