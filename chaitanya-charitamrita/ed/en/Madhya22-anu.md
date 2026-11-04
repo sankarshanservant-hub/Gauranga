@@ -418,7 +418,7 @@ When the sages headed by Śaunaka asked about the pastimes of Bhagavān Kapilade
 
 Once Bhagavān Ṛṣabhadeva, the father of the royal sage Bharata, having come to Brahmāvarta, spoke of *mokṣa-dharma* and the *dharma* of the *paramahaṁsas* to his sons, who were listening to instructions in the presence of the sages:
 
-(The knowers of the Truth) **mahat-sevām** (service to the Vaiṣṇavas) **vimukteḥ** (of release from the bonds of worldly existence) **dvāram** (the cause) **āhuḥ** (call); **yoṣitāṁ** **saṅgi-saṅgam** (association with those who associate with women — with enjoyers of worldly objects) **tamo-dvāram** (the door — the cause — of worldly existence or of hell **āhuḥ** they call); (among these) **ye** **sama-cittāḥ** (the wise, who see all equally) **praśāntāḥ** (pure-hearted) **vimanyavaḥ** (free from anger) **suhṛdaḥ** (close friends) **sādhavaḥ** (who do not see faults in others), **te** **mahāntaḥ** (should be known as great).
+(The knowers of the Truth) **mahat-sevām** (service to the Vaiṣṇavas) **vimukteḥ** (of release from the bonds of worldly existence) **dvāram** (the cause) **āhuḥ** (call); **yoṣitāṁ** **saṅgi-saṅgam** (association with those who associate with women — with enjoyers of worldly objects) **tamo-dvāram** (the door — the cause — of worldly existence or of hell, they call); (among these) **ye** **sama-cittāḥ** (the wise, who see all equally) **praśāntāḥ** (pure-hearted) **vimanyavaḥ** (free from anger) **suhṛdaḥ** (close friends) **sādhavaḥ** (who do not see faults in others), **te** **mahāntaḥ** (should be known as great).
 
 ## 80
 
@@ -450,11 +450,9 @@ See Ādi 1.60.
 
 Giving up the company of non-Vaiṣṇavas is the Vaiṣṇava's only good conduct (*sadācāra*). “Non-Vaiṣṇavas” means two classes of people: “those attached to women” and “non-devotees of Kṛṣṇa.” Association with women is of two kinds. One “follows the prescribed *dharma*”: on it *varṇāśrama-dharma* rests. The other is “unprescribed,” aimed at *adharma*: through it the order of *varṇāśrama-dharma* is thrown into disorder, and as the fruit of *karma* one goes to hell and other places. One devoted to sin in this world is entirely unworthy of the name “Vaiṣṇava.” The three goals of life (*trivarga*) — *dharma*, *artha* and *kāma* — are bound up with the non-Vaiṣṇava conduct of association with women. The fourth goal, *mokṣa*, does not arise from association with women; yet, through aversion to Kṛṣṇa, the seeker of *mokṣa* is even more of a non-Vaiṣṇava and more contemptible than one attached to women. The company both of the *māyāvādī* and of the *māyā-vilāsī* (the enjoyer of *māyā*) destroys Vaiṣṇavism, that is, pure *bhakti*. The *māyāvādī* is a *mumukṣu* (seeker of liberation): wishing to enjoy the fruit of *mokṣa*, he renounces material enjoyment for his own elevation. And one attached to women is a *bubhukṣu*, an enjoyer. Both are bent on gratifying their own material senses, seek fruits other than Kṛṣṇa, are full of duplicity, or deceit (*kaitava*), and therefore neither is a “servant of Kṛṣṇa.”
 
-## 85
+## 85–86
 
 > Subheading: The dreadful results of association with women and with those who associate with women — (*Śrīmad-Bhāgavatam* 3.31.33–35) —
-
-## 85–86
 
 Bhagavān Kapiladeva tells Devahūti how the *jīva* who has turned from Kṛṣṇa and forgotten his true nature, under the sway of sin and piety, wanders through species before birth and suffers in the womb. Then in three verses He tells how after birth — in childhood, boyhood (*paugaṇḍa*) and youth — the *jīva* in various ways gratifies the senses, that is, longs for association with women, and of the power and evil results of this:
 
