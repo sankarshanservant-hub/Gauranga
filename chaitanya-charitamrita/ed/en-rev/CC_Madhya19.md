@@ -278,7 +278,7 @@ this  hearing  the ruler of Gauḍa  rising  home  went
 palāiba bali’ sanātanere bāndhilā  
 he will flee  thinking  Sanātana  he put in confinement
 
-(27) Hearing this, the ruler of Gauḍa rose and went home. Fearing that he would flee, he had Sanātana put in confinement.
+(27) Hearing this, the ruler of Gauḍa rose and went back to his palace. Fearing that Sanātana would flee, he had him put in confinement.
 
 হেনকালে গেল রাজা ওড়িয়া মারিতে ৷  
 সনাতনে কহে, — তুমি চল মোর সাথে ॥ ২৮ ॥
@@ -510,7 +510,7 @@ My devotee  a dog-eater  dear
 tasmai deyaṁ tato grāhyaṁ  
 to him  should be given  from him  should be accepted  
 sa ca pūjyo yathā hy aham  
-he  and  is to be worshiped  as  indeed  I
+he  and  is to be worshipped  as  indeed  I
 
 (50) “Even a knower of the four Vedas is not dear to Me if he is not devoted to Me, but My devotee is dear to Me even if he was born a dog-eater. One should give to him and accept from him; he is to be worshipped just as I am.” (Itihāsa-samuccaya, quoted in Hari-bhakti-vilāsa, 10.91)[^9]
 
@@ -622,7 +622,7 @@ at Triveṇī  the Lord’s  of the lodging  the place
 duibhāi vāsā kaila prabhu-sannidhāna  
 the two brothers  lodging  made  near the Lord
 
-(60) The Lord’s lodging was at Triveṇī, and the two brothers took lodging near the Lord.
+(60) The Lord was staying at Triveṇī, and the two brothers took lodging near Him.
 
 সে-কালে বল্লভ-ভট্ট রহে আড়াইল-গ্রামে ৷  
 ‘মহাপ্রভু আইলা’ শুনি’ আইল তাঁর স্থানে ॥ ৬১ ॥
@@ -770,7 +770,7 @@ burned is the taint of low birth
 śva-pāko ’pi budhaiḥ ślāghyo  
 a dog-cooker  even  by the wise  is praised  
 na veda-jño ’pi nāstikaḥ  
-not  a knower of the Vedas  even  an atheist
+not  a knower of the Vedas  even  an unbeliever
 
 (74) “One in whom the blazing fire of true devotion has burned away the taint of low birth is pure; even if born a dog-cooker, he is praised by the wise. But an unbeliever is not praised, even if he knows the Vedas.” (Hari-bhakti-sudhodaya, 3.11)[^15]
 
@@ -796,7 +796,7 @@ the Lord’s  absorption in love  and  power  the essence of devotion
 saundaryādi dekhi’ bhaṭṭera haila camatkāra  
 beauty and the rest  seeing  Bhaṭṭa’s  there was  amazement
 
-(76) Seeing the Lord’s absorption in love, His power — the very essence of devotion — His beauty and His other qualities, Bhaṭṭa was amazed.
+(76) Seeing the Lord’s absorption in love, His power, which is the very essence of devotion, and His beauty and other qualities, Bhaṭṭa was amazed.
 
 সগণে প্রভুরে ভট্ট নৌকাতে চড়াঞা ৷  
 ভিক্ষা দিতে নিজ-ঘরে চলিলা লঞা ॥ ৭৭ ॥
@@ -912,7 +912,7 @@ to the Bhaṭṭācārya  respect  showing  cooking  had done
 রূপগোসাঞি-দুইভাইয়ে করাইল ভোজনে ॥ ৮৮ ॥
 
 bhikṣā karāila prabhure sasneha yatane  
-the meal  had taken  the Lord  with affection  with care  
+the meal  he had (Him) take  the Lord  with affection  with care  
 rūpagosāñi-duibhāiye karāila bhojane  
 Rūpa Gosvāmī and his brother  had  eat
 
@@ -1014,7 +1014,7 @@ Raghupati  Upādhyāya  obeisance  made
 kaṁ prati kathayitum īśe samprati ko vā pratītim āyātu  
 to whom  addressing  to tell  am I able  now  who  or  belief  would come to  
 go-pati-tanayā-kuñje gopa-vadhūṭī-viṭaṁ brahma  
-in the grove of the daughter of the Sun  the lover of the young cowherd wives  Brahman
+in the grove of the daughter of the Sun  the lover of the young cowherd girls  Brahman
 
 (98) “To whom can I tell it, and who would believe it now, that in the groves of the daughter of the Sun, the Yamunā, Brahman is the lover of the young cowherd girls?” (Padyāvalī, 98)
 
@@ -1110,7 +1110,7 @@ in loving ecstasy  the Lord  him  embraced
 preme matta hañā tem̐ho karena nartana  
 with love  intoxicated  becoming  he  does  dancing
 
-(107) In the ecstasy of love the Lord embraced him, and he, intoxicated with love, began to dance.
+(107) In His rapture the Lord embraced him, and Upādhyāya, intoxicated with love, began to dance.
 
 দেখি’ বল্লভ-ভট্ট মনে চমৎকার হৈল ৷  
 দুই পুত্র আনি’ প্রভুর চরণে পাড়িল ॥ ১০৮ ॥
@@ -1250,7 +1250,7 @@ from attachment to home  rasa  like  supreme  embodied  indeed though  intangibl
 premālāpair dṛḍhatara-pariṣvaṅga-raṅgaiḥ prayāge  
 with loving talks  with the joys of the tightest embraces  in Prayāga  
 taṁ śrī-rūpaṁ samam anupamenānujagrāha devaḥ  
-him  Śrī Rūpa  together  with Anupama favored  the Lord
+him  Śrī Rūpa  together  with Anupama favoured  the Lord
 
 (120) “Though Śrī Rūpa had long been bound fast by the many qualities of his Beloved, he was free from attachment to home. The Lord is like the supreme rasa, which, though intangible, has taken on a visible form. In Prayāga He favoured Rūpa and his younger brother Anupama with loving talks and the joy of the tightest embraces.” (Caitanya-candrodaya, 9.29)[^23]
 
