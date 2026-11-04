@@ -151,7 +151,7 @@ tr: ‘If someone says, “I know all of Kṛṣṇa’s glory,” let him know 
 ## 26
 w: this  very  Your  endless  of glory  of nectar  ocean
 w: my  of speech and mind  within reach  is not  one  drop
-tr: of this endless nectar ocean of Your glory not a single drop lies within reach of my speech and mind.’
+tr: Of this endless nectar ocean of Your glory not a single drop lies within reach of my speech and mind.’
 
 ## 27
 w: the knowers  indeed  let them know
@@ -349,12 +349,12 @@ tr: One day Brahmā came to Dvārakā to see Kṛṣṇa, and the doorkeeper inf
 ## 60
 w: Kṛṣṇa  says  which  Brahmā  what  name  his
 w: the doorkeeper  coming  Brahmā  asks  once  again
-tr: Kṛṣṇa said, “Which Brahmā? What is his name?” The doorkeeper went back and asked Brahmā once more.
+tr: Kṛṣṇa said, ‘Which Brahmā? What is his name?’ The doorkeeper went back and asked Brahmā once more.
 
 ## 61
 w: astonished  becoming  Brahmā  to the doorkeeper  said
 w: tell  going  of Sanaka  the father  the four-headed  has come
-tr: Astonished, Brahmā told the doorkeeper, “Go and tell Him that the four-headed Brahmā, the father of Sanaka, has come.”
+tr: Astonished, Brahmā told the doorkeeper, ‘Go and tell Him that the four-headed Brahmā, the father of Sanaka, has come.’
 
 ## 62
 w: to Kṛṣṇa  having informed  the doorkeeper  Brahmā  taking  went
@@ -364,17 +364,17 @@ tr: The doorkeeper informed Kṛṣṇa and brought Brahmā in, and Brahmā fell
 ## 63
 w: Kṛṣṇa  respect  honour  showing  to him  a question  put
 w: what  for  your  here  coming  has been
-tr: Kṛṣṇa honoured him with due respect and asked, “For what purpose have you come here?”
+tr: Kṛṣṇa honoured him with due respect and asked, ‘For what purpose have you come here?’
 
 ## 64
 w: Brahmā  says  that  later  I shall make  submission
 w: one  doubt  in my mind  is  make  cutting
-tr: Brahmā said, “I will tell You that later. First, please cut away a doubt that has arisen in my mind.
+tr: Brahmā said, ‘I will tell You that later. First, please cut away a doubt that has arisen in my mind.
 
 ## 65
 w: which  Brahmā  You asked  You  with what  intention
 w: me  besides  in the universe  another  which  Brahmā  is there
-tr: With what intention did You ask, ‘Which Brahmā?’ Besides me, what other Brahmā is there in the universe?”
+tr: With what intention did You ask, “Which Brahmā?” Besides me, what other Brahmā is there in the universe?’
 
 ## 66
 w: hearing  smiling  Kṛṣṇa  then  entered  meditation
@@ -393,8 +393,9 @@ tr: Rudras came with hundreds of thousands and millions of faces, and Indras cam
 
 ## 69
 w: seeing  four-headed  Brahmā  bewildered  became
-w: of elephants  a herd  amid  as if  a rabbit  remained
-tr: Seeing this, four-headed Brahmā was bewildered, like a rabbit standing amid a herd of elephants.
+w: of elephants  a herd  amid  as if  a mosquito  remained
+tr: Seeing this, four-headed Brahmā was bewildered, like a mosquito amid a herd of elephants.
+fn: The edition reads *maśaka*, “mosquito” (stage-A text: *śaśaka*, “rabbit”).
 
 ## 70
 w: coming  all  Brahmās  Kṛṣṇa’s  of the feet  the footstool  before
@@ -414,32 +415,32 @@ tr: As the tips of the crowns struck the footstool, a sound arose; it seemed to 
 ## 73
 w: with joined  palms  Brahmās  Rudras and others  offer  praise
 w: great  mercy  You have shown  O Lord  You showed  Your feet
-tr: With joined palms the Brahmās, the Rudras and the others offered praise: “O Lord, You have shown great mercy in revealing Your feet.
+tr: With joined palms the Brahmās, the Rudras and the others offered praise: ‘O Lord, You have shown great mercy in revealing Your feet.
 
 ## 74
 w: fortune  me  You called  as servant  accepting
 w: what  order  there is  that  I shall do  on my head  bearing
-tr: It is my good fortune that You have called me, accepting me as Your servant. Whatever Your order may be, I will carry it out, placing it on my head.”
+tr: It is my good fortune that You have called me, accepting me as Your servant. Whatever Your order may be, I will carry it out, placing it on my head.’
 
 ## 75
 w: Kṛṣṇa  says  you  all  to see  the desire  arose
 w: that  for the sake of  in one  place  all  I called
-tr: Kṛṣṇa said, “I wished to see you all, and so I have called you all together in one place.
+tr: Kṛṣṇa said, ‘I wished to see you all, and so I have called you all together in one place.
 
 ## 76
 w: happy  are (you)  all  any  is there not  of the demons  fear
 w: they  say  by Your  grace  everywhere  victory
-tr: Are you all happy? Have you no fear of the demons?” They replied, “By Your grace we are victorious everywhere.
+tr: Are you all happy? Have you no fear of the demons?’ They replied, ‘By Your grace we are victorious everywhere.
 
 ## 77
 w: now  on the earth  whatever  had become  burden
 w: descended  having become  that  You made  destruction
-tr: Whatever burden had lately come upon the earth, You have descended and destroyed it.”
+tr: Whatever burden had lately come upon the earth, You have descended and destroyed it.’
 
 ## 78
 w: Dvārakā and the rest  of the opulence  this  indeed  the proof
 w: in my own  universe  Kṛṣṇa  of all  was  the understanding
-tr: This is the proof of the opulence (*vibhūti*) of Dvārakā and Kṛṣṇa’s other abodes: each of them understood, “Kṛṣṇa is in my own universe.”
+tr: This is the proof of the opulence (*vibhūti*) of Dvārakā and Kṛṣṇa’s other abodes: each of them understood, ‘Kṛṣṇa is in my own universe.’
 
 ## 79
 w: with Kṛṣṇa  of Dvārakā  the splendour  experience  there was
@@ -459,24 +460,27 @@ tr: Seeing this, the four-headed Brahmā was amazed. He came to Kṛṣṇa’s 
 ## 82
 w: Brahmā  says  before  I  what  conclusion  made
 w: of that  the example  I  today  indeed  saw
-tr: Brahmā said, “What I concluded before, today I have seen demonstrated before my eyes.
+tr: Brahmā said, ‘What I concluded before, today I have seen demonstrated before my eyes.’
 
 ## 83
 w: the knowing  indeed  let them know
 w: what  with many words  not  my  O Lord
 w: of mind  of body  of speech
 w: glory  Your  within the range
-tr: “Let those who know You know. What use are many words? O Lord, Your glory lies beyond the reach of my mind, my body and my speech.” (Śrīmad-Bhāgavatam, 10.14.38)
+tr: “Let those who know go on knowing. What use is much talk? O Lord, Your glory is beyond the reach of my mind, body and speech.” (Śrīmad-Bhāgavatam, 10.14.38)
+fn: The same verse as 27.
 
 ## 84
 w: Kṛṣṇa  says  this  universe  fifty crore  yojanas
 w: very  small  therefore  your  four  faces
-tr: Kṛṣṇa said, “This universe measures fifty crore *yojanas*. It is very small, and so you have only four faces.
+tr: Kṛṣṇa said, ‘This universe measures five hundred million *yojanas*. It is very small, and so you have only four faces.
+fn: *Anubhāṣya*: if the universe is taken as a hundred *koṭis* of *yojanas*, half of it is fifty *koṭis*; the *Anubhāṣya* cites the measure of its circumference from the *Sūrya-siddhānta* (12.90) and the *Siddhānta-śiromaṇi*.
 
 ## 85
 w: some  universe  a hundred crore  some  a hundred thousand crore
 w: some  a million crore  some  crore upon crore
-tr: Some universes measure a hundred crore *yojanas*, some a hundred thousand crore, some a million crore, some crore upon crore.
+tr: Some universes measure a billion *yojanas*, some a trillion, some ten trillion, and some a hundred trillion.
+fn: In the verse: *śata-koṭi, lakṣa-koṭi, niyuta-koṭi, koṭi-koṭi* — a hundred, a hundred thousand, a million and ten million *koṭis* (a *koṭi* is ten million).
 
 ## 86
 w: according to the universe  of Brahmā  body and faces
@@ -486,14 +490,15 @@ tr: A Brahmā’s body and faces correspond to the size of his universe. In this
 ## 87
 w: the one-quarter  opulence  of it  there is not  measure
 w: of the three-quarter  opulence  who  makes  measurement
-tr: The *eka-pāda vibhūti*, the one quarter of My opulence, has no measure. Who, then, can measure the *tri-pāda vibhūti*, the other three quarters?”
+tr: The *eka-pāda vibhūti*, the one quarter of My opulence, has no measure. Who, then, can measure the *tri-pāda vibhūti*, the other three quarters?’
 
 ## 88
 w: of it  on the far shore  Paravyoma
 w: three-quarters  consisting of  eternal
 w: immortal  everlasting  constant
 w: infinite  supreme  abode
-tr: “On the far shore of the Virajā lies Paravyoma, the eternal three quarters of His opulence: immortal, everlasting and constant, infinite, the supreme abode.” (Padma Purāṇa)
+tr: “Beyond it lies Paravyoma, the eternal realm of three quarters (*tripād-bhūta*) — immortal, everlasting, endless, the supreme abode.” (Padma Purāṇa, Uttara-khaṇḍa)
+fn: The same verse as 51. The edition’s heading: “words of the Uttara-khaṇḍa of the *Padma Purāṇa*, cited in the *Laghu-bhāgavatāmṛta* (Pūrva-khaṇḍa, 28)”.
 
 ## 89
 w: then  Kṛṣṇa  to Brahmā  gave  leave
@@ -525,7 +530,7 @@ tr: All the guardians of the quarters in the universes I spoke of before, and th
 ## 95
 w: jewels  on the footstool  knocking together  arises  a jingling
 w: of the footstool  praise  make  the crowns  so  I know
-tr: The jewels knock together on the footstool and a jingling arises: it is as if, I think, the crowns were singing the footstool’s praises.
+tr: The jewels knock together on the footstool and a jingling arises: it seems to me that the crowns are singing the footstool’s praises.
 
 ## 96
 w: with His own spiritual potency  Kṛṣṇa  eternally  is present
@@ -535,7 +540,7 @@ tr: Kṛṣṇa is eternally present with His own spiritual potency (*cit-śakti
 ## 97
 w: that  Svārājya-lakṣmī  makes  eternally  fulfilled in desire
 w: therefore  in the Vedas  they call (Him)  Bhagavān Himself
-tr: That Svārājya-lakṣmī, the wealth of His own realm, keeps Him eternally fulfilled in every desire, and therefore the Vedas call Him “Bhagavān Himself.”
+tr: That Svārājya-lakṣmī, the wealth of His own realm, keeps Him eternally fulfilled in every desire, and therefore the Vedas call Him ‘Bhagavān Himself’.
 
 ## 98
 w: of Kṛṣṇa  the majesty  a boundless  of nectar  ocean

@@ -290,7 +290,7 @@ this  very  Your  endless  of glory  of nectar  ocean
 mora vāṅ-mānasera gamya nahe eka bindu  
 my  of speech and mind  within reach  is not  one  drop
 
-(26) of this endless nectar ocean of Your glory not a single drop lies within reach of my speech and mind.’
+(26) Of this endless nectar ocean of Your glory not a single drop lies within reach of my speech and mind.’
 
 জানন্ত এব জানন্তু কিং বহূক্ত্যা ন মে প্রভো ৷  
 মনসো বপুষো বাচো বৈভবং তব গোচরঃ” ॥ ২৭ ॥
@@ -676,7 +676,7 @@ Kṛṣṇa  says  which  Brahmā  what  name  his
 dvārī āsi’ brahmāre puche āra bāra  
 the doorkeeper  coming  Brahmā  asks  once  again
 
-(60) Kṛṣṇa said, “Which Brahmā? What is his name?” The doorkeeper went back and asked Brahmā once more.
+(60) Kṛṣṇa said, ‘Which Brahmā? What is his name?’ The doorkeeper went back and asked Brahmā once more.
 
 বিস্মিত হঞা ব্রহ্মা দ্বারীকে কহিলা ৷  
 ‘কহ গিয়া সনক-পিতা চতুর্ম্মুখ আইলা’ ॥ ৬১ ॥
@@ -686,7 +686,7 @@ astonished  becoming  Brahmā  to the doorkeeper  said
 kaha giyā sanaka-pitā caturmukha āilā  
 tell  going  of Sanaka  the father  the four-headed  has come
 
-(61) Astonished, Brahmā told the doorkeeper, “Go and tell Him that the four-headed Brahmā, the father of Sanaka, has come.”
+(61) Astonished, Brahmā told the doorkeeper, ‘Go and tell Him that the four-headed Brahmā, the father of Sanaka, has come.’
 
 কৃষ্ণে জানাঞা দ্বারী ব্রহ্মারে লঞা গেলা ৷  
 কৃষ্ণের চরণে ব্রহ্মা দণ্ডবৎ কৈলা ॥ ৬২ ॥
@@ -706,7 +706,7 @@ Kṛṣṇa  respect  honour  showing  to him  a question  put
 ki lāgi’ tomāra im̐hā āgamana haila?  
 what  for  your  here  coming  has been
 
-(63) Kṛṣṇa honoured him with due respect and asked, “For what purpose have you come here?”
+(63) Kṛṣṇa honoured him with due respect and asked, ‘For what purpose have you come here?’
 
 ব্রহ্মা কহে, — ‘তাহা পাছে করিব নিবেদন ৷  
 এক সংশয় মনে হয়, করহ ছেদন ॥ ৬৪ ॥
@@ -716,7 +716,7 @@ Brahmā  says  that  later  I shall make  submission
 eka saṁśaya mane haya, karaha chedana  
 one  doubt  in my mind  is  make  cutting
 
-(64) Brahmā said, “I will tell You that later. First, please cut away a doubt that has arisen in my mind.
+(64) Brahmā said, ‘I will tell You that later. First, please cut away a doubt that has arisen in my mind.
 
 ‘কোন্ ব্রহ্মা ? পুছিলে তুমি কোন্ অভিপ্রায়ে ?  
 আমা বই জগতে আর কোন্ ব্রহ্মা হয়ে ?’ ॥ ৬৫ ॥
@@ -726,7 +726,7 @@ which  Brahmā  You asked  You  with what  intention
 āmā bai jagate āra kon brahmā haye?  
 me  besides  in the universe  another  which  Brahmā  is there
 
-(65) With what intention did You ask, ‘Which Brahmā?’ Besides me, what other Brahmā is there in the universe?”
+(65) With what intention did You ask, “Which Brahmā?” Besides me, what other Brahmā is there in the universe?’
 
 শুনি’ হাসি’ কৃষ্ণ তবে করিলেন ধ্যানে ৷  
 অসংখ্য ব্রহ্মার গণ আইলা ততক্ষণে ॥ ৬৬ ॥
@@ -759,14 +759,14 @@ the Indras  host  came  with hundreds of thousands  millions of  eyes
 (68) Rudras came with hundreds of thousands and millions of faces, and Indras came with hundreds of thousands and millions of eyes.
 
 দেখি’ চতুর্ম্মুখ ব্রহ্মা ফাঁপর হইলা ৷  
-হস্তিগণ-মধ্যে যেন শশক রহিলা ॥ ৬৯ ॥
+হস্তিগণ-মধ্যে যেন মশক রহিলা ॥ ৬৯ ॥
 
 dekhi’ caturmukha brahmā phām̐para hailā  
 seeing  four-headed  Brahmā  bewildered  became  
-hasti-gaṇa-madhye yena śaśaka rahilā  
-of elephants  a herd  amid  as if  a rabbit  remained
+hasti-gaṇa-madhye yena maśaka rahilā  
+of elephants  a herd  amid  as if  a mosquito  remained
 
-(69) Seeing this, four-headed Brahmā was bewildered, like a rabbit standing amid a herd of elephants.
+(69) Seeing this, four-headed Brahmā was bewildered, like a mosquito amid a herd of elephants.[^16]
 
 আসি’ সব ব্রহ্মা কৃষ্ণ-পাদপীঠ-আগে ৷  
 দণ্ডবৎ করিতে মুকুট পাদপীঠে লাগে ॥ ৭০ ॥
@@ -806,7 +806,7 @@ with joined  palms  Brahmās  Rudras and others  offer  praise
 baḍa kṛpā karilā prabhu, dekhāilā caraṇa  
 great  mercy  You have shown  O Lord  You showed  Your feet
 
-(73) With joined palms the Brahmās, the Rudras and the others offered praise: “O Lord, You have shown great mercy in revealing Your feet.
+(73) With joined palms the Brahmās, the Rudras and the others offered praise: ‘O Lord, You have shown great mercy in revealing Your feet.
 
 ভাগ্য, মোরে বোলাইলা ‘দাস’ অঙ্গীকরি’ ৷  
 কোন্ আজ্ঞা হয়, তাহা করি শিরে ধরি’” ॥ ৭৪ ॥
@@ -816,7 +816,7 @@ fortune  me  You called  as servant  accepting
 kon ājñā haya, tāhā kari śire dhari’  
 what  order  there is  that  I shall do  on my head  bearing
 
-(74) It is my good fortune that You have called me, accepting me as Your servant. Whatever Your order may be, I will carry it out, placing it on my head.”
+(74) It is my good fortune that You have called me, accepting me as Your servant. Whatever Your order may be, I will carry it out, placing it on my head.’
 
 কৃষ্ণ কহে, — “তোমা-সবা দেখিতে চিত্ত হৈল ৷  
 তাহা লাগি’ এক ঠাঞি সবা বোলাইল ॥ ৭৫ ॥
@@ -826,7 +826,7 @@ Kṛṣṇa  says  you  all  to see  the desire  arose
 tāhā lāgi’ eka ṭhāñi sabā bolāila  
 that  for the sake of  in one  place  all  I called
 
-(75) Kṛṣṇa said, “I wished to see you all, and so I have called you all together in one place.
+(75) Kṛṣṇa said, ‘I wished to see you all, and so I have called you all together in one place.
 
 সুখী হও সবে, কিছু নাহি দৈত্য-ভয় ?”  
 তারা কহে, — ‘তোমার প্রসাদে সর্ব্বত্রই জয় ॥ ৭৬ ॥
@@ -836,7 +836,7 @@ happy  are (you)  all  any  is there not  of the demons  fear
 tārā kahe, — tomāra prasāde sarvatra-i jaya  
 they  say  by Your  grace  everywhere  victory
 
-(76) Are you all happy? Have you no fear of the demons?” They replied, “By Your grace we are victorious everywhere.
+(76) Are you all happy? Have you no fear of the demons?’ They replied, ‘By Your grace we are victorious everywhere.
 
 সম্প্রতি পৃথিবীতে যেবা হৈয়াছিল ভার ৷  
 অবতীর্ণ হঞা তাহা করিলা সংহার’ ॥ ৭৭ ॥
@@ -846,7 +846,7 @@ now  on the earth  whatever  had become  burden
 avatīrṇa hañā tāhā karilā saṁhāra  
 descended  having become  that  You made  destruction
 
-(77) Whatever burden had lately come upon the earth, You have descended and destroyed it.”
+(77) Whatever burden had lately come upon the earth, You have descended and destroyed it.’
 
 দ্বারকাদি — বিভুতির এই ত’ প্রমাণ ৷  
 ‘আমারই ব্রহ্মাণ্ডে কৃষ্ণ’ সবার হৈল জ্ঞান ॥ ৭৮ ॥
@@ -856,7 +856,7 @@ Dvārakā and the rest  of the opulence  this  indeed  the proof
 ‘āmārai brahmāṇḍe kṛṣṇa’ sabāra haila jñāna  
 in my own  universe  Kṛṣṇa  of all  was  the understanding
 
-(78) This is the proof of the opulence (*vibhūti*) of Dvārakā and Kṛṣṇa’s other abodes: each of them understood, “Kṛṣṇa is in my own universe.”
+(78) This is the proof of the opulence (*vibhūti*) of Dvārakā and Kṛṣṇa’s other abodes: each of them understood, ‘Kṛṣṇa is in my own universe.’
 
 কৃষ্ণ-সহ দ্বারকা-বৈভব অনুভব হৈল ৷  
 একত্র মিলনে কেহ কাহো না দেখিল ॥ ৭৯ ॥
@@ -896,7 +896,7 @@ Brahmā  says  before  I  what  conclusion  made
 tāra udāharaṇa āmi āji ta’ dekhilum̐  
 of that  the example  I  today  indeed  saw
 
-(82) Brahmā said, “What I concluded before, today I have seen demonstrated before my eyes.
+(82) Brahmā said, ‘What I concluded before, today I have seen demonstrated before my eyes.’
 
 জানন্ত এব জানন্তু কিং বহূক্ত্যা ন মে প্রভো ৷  
 মনসো বপুষো বাচো বৈভবং তব গোচরঃ ॥ ৮৩ ॥
@@ -910,7 +910,7 @@ of mind  of body  of speech
 vaibhavaṁ tava gocaraḥ  
 glory  Your  within the range
 
-(83) “Let those who know You know. What use are many words? O Lord, Your glory lies beyond the reach of my mind, my body and my speech.” (Śrīmad-Bhāgavatam, 10.14.38)
+(83) “Let those who know go on knowing. What use is much talk? O Lord, Your glory is beyond the reach of my mind, body and speech.” (Śrīmad-Bhāgavatam, 10.14.38)[^17]
 
 কৃষ্ণ কহে, “এই ব্রহ্মাণ্ড পঞ্চাশৎ-কোটি যোজন ৷  
 অতি ক্ষুদ্র, তাতে তোমার চারি বদন ॥ ৮৪ ॥
@@ -920,7 +920,7 @@ Kṛṣṇa  says  this  universe  fifty crore  yojanas
 ati kṣudra, tāte tomāra cāri vadana  
 very  small  therefore  your  four  faces
 
-(84) Kṛṣṇa said, “This universe measures fifty crore *yojanas*. It is very small, and so you have only four faces.
+(84) Kṛṣṇa said, ‘This universe measures five hundred million *yojanas*. It is very small, and so you have only four faces.[^18]
 
 কোন ব্রহ্মাণ্ড শতকোটি, কোন লক্ষকোটি ৷  
 কোন নিযুতকোটি, কোন কোটি-কোটি ॥ ৮৫ ॥
@@ -930,7 +930,7 @@ some  universe  a hundred crore  some  a hundred thousand crore
 kona niyuta-koṭi, kona koṭi-koṭi  
 some  a million crore  some  crore upon crore
 
-(85) Some universes measure a hundred crore *yojanas*, some a hundred thousand crore, some a million crore, some crore upon crore.
+(85) Some universes measure a billion *yojanas*, some a trillion, some ten trillion, and some a hundred trillion.[^19]
 
 ব্রহ্মাণ্ডানুরূপ ব্রহ্মার শরীর-বদন ৷  
 এইরূপে পালি আমি ব্রহ্মাণ্ডের গণ ॥ ৮৬ ॥
@@ -950,7 +950,7 @@ the one-quarter  opulence  of it  there is not  measure
 ‘tri-pāda vibhūtira’ kebā kare parimāṇa  
 of the three-quarter  opulence  who  makes  measurement
 
-(87) The *eka-pāda vibhūti*, the one quarter of My opulence, has no measure. Who, then, can measure the *tri-pāda vibhūti*, the other three quarters?”
+(87) The *eka-pāda vibhūti*, the one quarter of My opulence, has no measure. Who, then, can measure the *tri-pāda vibhūti*, the other three quarters?’
 
 তস্যাঃ পারে পরব্যোম ত্রিপাদ্ভূতং সনাতনম্ ৷  
 অমৃতং শাশ্বতং নিত্যমনন্তং পরমং পদম্ ॥ ৮৮ ॥
@@ -964,7 +964,7 @@ immortal  everlasting  constant
 anantaṁ paramaṁ padam  
 infinite  supreme  abode
 
-(88) “On the far shore of the Virajā lies Paravyoma, the eternal three quarters of His opulence: immortal, everlasting and constant, infinite, the supreme abode.” (Padma Purāṇa)
+(88) “Beyond it lies Paravyoma, the eternal realm of three quarters (*tripād-bhūta*) — immortal, everlasting, endless, the supreme abode.” (Padma Purāṇa, Uttara-khaṇḍa)[^20]
 
 তবে কৃষ্ণ ব্রহ্মারে দিলেন বিদায় ৷  
 কৃষ্ণের বিভূতি-স্বরূপ জানান না যায় ॥ ৮৯ ॥
@@ -1031,7 +1031,7 @@ jewels  on the footstool  knocking together  arises  a jingling
 pīṭhera stuti kare mukuṭa — hena jāni  
 of the footstool  praise  make  the crowns  so  I know
 
-(95) The jewels knock together on the footstool and a jingling arises: it is as if, I think, the crowns were singing the footstool’s praises.
+(95) The jewels knock together on the footstool and a jingling arises: it seems to me that the crowns are singing the footstool’s praises.
 
 নিজ-চিচ্ছক্ত্যে কৃষ্ণ নিত্য বিরাজমান ৷  
 চিচ্ছক্তি-সম্পত্তির ‘ষড়ৈশ্বর্য্য’ নাম ॥ ৯৬ ॥
@@ -1051,7 +1051,7 @@ that  Svārājya-lakṣmī  makes  eternally  fulfilled in desire
 ataeva vede kahe ‘svayaṁ bhagavān’  
 therefore  in the Vedas  they call (Him)  Bhagavān Himself
 
-(97) That Svārājya-lakṣmī, the wealth of His own realm, keeps Him eternally fulfilled in every desire, and therefore the Vedas call Him “Bhagavān Himself.”
+(97) That Svārājya-lakṣmī, the wealth of His own realm, keeps Him eternally fulfilled in every desire, and therefore the Vedas call Him ‘Bhagavān Himself’.
 
 কৃষ্ণের ঐশ্বর্য্য — অপার অমৃতের সিন্ধু ৷  
 অবগাহিতে নারি’ তার ছুইলুঁ এক বিন্দু ॥ ৯৮ ॥
@@ -1866,3 +1866,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^14]: The edition gives no source above this verse; where it is repeated (verse 88), the heading reads “words of the Uttara-khaṇḍa of the *Padma Purāṇa*, cited in the *Laghu-bhāgavatāmṛta* (Pūrva-khaṇḍa, 28)”.
 
 [^15]: The reference follows the edition’s heading.
+
+[^16]: The edition reads *maśaka*, “mosquito” (stage-A text: *śaśaka*, “rabbit”).
+
+[^17]: The same verse as 27.
+
+[^18]: *Anubhāṣya*: if the universe is taken as a hundred *koṭis* of *yojanas*, half of it is fifty *koṭis*; the *Anubhāṣya* cites the measure of its circumference from the *Sūrya-siddhānta* (12.90) and the *Siddhānta-śiromaṇi*.
+
+[^19]: In the verse: *śata-koṭi, lakṣa-koṭi, niyuta-koṭi, koṭi-koṭi* — a hundred, a hundred thousand, a million and ten million *koṭis* (a *koṭi* is ten million).
+
+[^20]: The same verse as 51. The edition’s heading: “words of the Uttara-khaṇḍa of the *Padma Purāṇa*, cited in the *Laghu-bhāgavatāmṛta* (Pūrva-khaṇḍa, 28)”.
