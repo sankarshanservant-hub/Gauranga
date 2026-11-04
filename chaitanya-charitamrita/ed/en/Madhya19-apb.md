@@ -196,7 +196,7 @@ Kṛṣṇa, whose greatness is sung by the three Vedas, the Upaniṣads, *sā�
 
 ## 205
 
-Him who is unmanifest and beyond the senses — Adhokṣaja, who appeared as if in a mortal body — Yaśodā, thinking Him her son, bound with a rope to the mortar like an ordinary child.
+Him who is unmanifest and beyond the senses — Adhokṣaja, who appeared as if in a human body — Yaśodā, thinking Him her son, bound with a rope to the mortar like an ordinary child.
 
 ## 206
 
