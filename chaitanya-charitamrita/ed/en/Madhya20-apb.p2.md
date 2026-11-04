@@ -49,3 +49,31 @@ O friend, this *cāraṇa*, as if My second form, is portraying My pastimes — 
 ## 202
 
 *Ācamana* — the touching of the mouth with water that is prescribed after the daily worship (*āhnika*).
+
+## 242
+
+The four — Vāsudeva and the others — and Nārāyaṇa, Nṛsiṁha, Hayagrīva, Varāha and Brahmā: these are the nine.
+
+## 249
+
+O twice-born, just as thousands upon thousands of small pools flow out of a vast reservoir, so the *avatāras* of Hari, the ocean of goodness (*sattva*), are countless.
+
+## 250
+
+Up to the words “That Puruṣa is of three kinds,” Kṛṣṇa's many forms have been examined. Now Kṛṣṇa's potencies will be examined.
+
+## 252–256
+
+Kṛṣṇa, the nondual Truth, has unlimited potencies; among them, every action bears three distinguishing marks: *icchā-śakti*, *jñāna-śakti* and *kriyā-śakti*. He in whom *icchā-śakti* predominates is “Kṛṣṇa,” by whose will everything takes place. He in whom *jñāna-śakti* predominates is “Vāsudeva,” and He in whom *kriyā-śakti* predominates is “Saṅkarṣaṇa.” These three, with Their three potencies, have created, or manifested, the material and the transcendental worlds. “Saṅkarṣaṇa,” the presiding Lord of *ahaṅkāra*, by Kṛṣṇa's will and through the *cit-śakti* has manifested the abodes Goloka, Vaikuṇṭha and the others, the display (*vilāsa*) of the *cit-śakti*.
+
+## 258
+
+The great abode (*mahat-pada*) called Gokula is a lotus with a thousand petals; its whorl is His abode; and all of it is born of a part of Ananta.
+
+## 262
+
+These two, Rāma and Kṛṣṇa, are the source of the *jīvas* of this world (*jīva-yoni*). Both of Them have entered all beings and have produced in them the knowledge of difference from one another.
+
+## 270
+
+In that Vaikuṇṭha there is neither *rajas* nor *tamas*, nor *sattva* mixed with them, nor the might of time; even *māyā* is not there — what to speak of the rest. There live the associates, the devotees faithful to Śrī Kṛṣṇa, who are worshiped by gods and *asuras* alike.
