@@ -1191,45 +1191,65 @@ dry  renunciation  knowledge  all  He forbade
 ময্যর্পিতমনোবুদ্ধির্যো মদ্ভক্তঃ স মে প্রিয়ঃ ॥ ১০১ ॥
 
 adveṣṭā sarva-bhūtānāṁ  
+free from hatred  toward all  beings  
 maitraḥ karuṇa eva ca  
+friendly  compassionate  indeed  and  
 nirmamo nirahaṅkāraḥ  
+free from the sense of “mine”  free from false ego  
 sama-duḥkha-sukhaḥ kṣamī  
+equal  in sorrow  and joy  forbearing  
 santuṣṭaḥ satataṁ yogī  
+content  always  a yogī  
 yatātmā dṛḍha-niścayaḥ  
+self-controlled  firm  in resolve  
 mayy arpita-mano-buddhir  
-yo mad-bhaktaḥ sa me priyaḥ
+in Me  fixed  mind and intelligence  
+yo mad-bhaktaḥ sa me priyaḥ  
+who  My devotee  he  to Me  dear
 
-(100–101) [not yet translated]
+(100–101) “One who bears no hatred toward any being, who is friendly and compassionate, free from the sense of ‘mine’ and from false ego, equal in sorrow and joy, and forbearing; who is ever content, a *yogī*, self-controlled and firm in resolve, with mind and intelligence fixed on Me — such a devotee of Mine is dear to Me.” (Bhagavad-gītā, 12.13–14)
 
 যস্মান্নোদ্বিজতে লোকো লোকান্নোদ্বিজতে তু যঃ ৷  
 হর্ষামর্ষভয়োদ্বেগৈর্মুক্তো যঃ স চ মে প্রিয়ঃ ॥ ১০২ ॥
 
 yasmān nodvijate loko  
+by whom  is not disturbed  the world  
 lokān nodvijate tu yaḥ  
+by the world  is not disturbed  and  who  
 harṣāmarṣa-bhayodvegair  
-mukto yaḥ sa ca me priyaḥ
+from elation  intolerance  fear  anxiety  
+mukto yaḥ sa ca me priyaḥ  
+free  who  he  too  to Me  dear
 
-(102) [not yet translated]
+(102) “One by whom the world is not disturbed and who is not disturbed by the world, who is free from elation, intolerance, fear and anxiety — he too is dear to Me.” (Bhagavad-gītā, 12.15)
 
 অনপেক্ষঃ শুচির্দক্ষ উদাসীনো গতব্যথঃ ৷  
 সর্ব্বারম্ভপরিত্যাগী যো মে ভক্তঃ স মে প্রিয়ঃ ॥ ১০৩ ॥
 
 anapekṣaḥ śucir dakṣa  
+free from expectation  pure  expert  
 udāsīno gata-vyathaḥ  
+unconcerned  free from distress  
 sarvārambha-parityāgī  
-yo me bhaktaḥ sa me priyaḥ
+all  undertakings  renouncing  
+yo me bhaktaḥ sa me priyaḥ  
+who  My  devotee  he  to Me  dear
 
-(103) [not yet translated]
+(103) “My devotee who expects nothing, who is pure and expert, unconcerned and free from distress, and who has given up all self-seeking undertakings, is dear to Me.” (Bhagavad-gītā, 12.16)
 
 যো ন হৃষ্যতি ন দ্বেষ্টি ন শোচতি ন কাঙ্ক্ষতি ৷  
 শুভাশুভপরিত্যাগী ভক্তিমান্ যঃ স মে প্রিয়ঃ ॥ ১০৪ ॥
 
 yo na hṛṣyati na dveṣṭi  
+who  not  rejoices  not  hates  
 na śocati na kāṅkṣati  
+not  grieves  not  desires  
 śubhāśubha-parityāgī  
-bhaktimān yaḥ sa me priyaḥ
+the auspicious and the inauspicious  renouncing  
+bhaktimān yaḥ sa me priyaḥ  
+full of devotion  who  he  to Me  dear
 
-(104) [not yet translated]
+(104) “One who neither rejoices nor hates, neither grieves nor desires, who has given up both the auspicious and the inauspicious, and who is full of devotion — he is dear to Me.” (Bhagavad-gītā, 12.17)
 
 সমঃ শত্রৌ চ মিত্রে চ তথা মানাপমানয়োঃ ৷  
 শীতোষ্ণসুখদুঃখেষু সমঃ সঙ্গবিবর্জ্জিতঃ ॥ ১০৫ ॥
@@ -1238,25 +1258,37 @@ bhaktimān yaḥ sa me priyaḥ
 অনিকেতঃ স্থিরমতির্ভক্তিমান্ মে প্রিয়ো নরঃ ॥ ১০৬ ॥
 
 samaḥ śatrau ca mitre ca  
+the same  to foe  and  to friend  and  
 tathā mānāpamānayoḥ  
+likewise  in honour and dishonour  
 śītoṣṇa-sukha-duḥkheṣu  
+in cold and heat  in joy and sorrow  
 samaḥ saṅga-vivarjitaḥ  
+the same  attachment  free from  
 tulya-nindā-stutir maunī  
+alike  blame  praise (to whom)  restrained in speech  
 santuṣṭo yena kenacit  
+content  with whatever  comes  
 aniketaḥ sthira-matir  
-bhaktimān me priyo naraḥ
+without a home  steady  in mind  
+bhaktimān me priyo naraḥ  
+full of devotion  to Me  dear  a man
 
-(105–106) [not yet translated]
+(105–106) “One who is the same to foe and friend, the same in honour and dishonour, in cold and heat, in joy and sorrow; who is free from attachment; to whom blame and praise are alike; who is restrained in speech and content with whatever comes; who has no fixed home, whose mind is steady and who is full of devotion — such a person is dear to Me.” (Bhagavad-gītā, 12.18–19)
 
 যে তু ধর্ম্মামৃতমিদং যথোক্তং পর্য্যুপাসতে ৷  
 শ্রদ্দধানা মৎপরমা ভক্তাস্তেঽতীব মে প্রিয়াঃ ॥ ১০৭ ॥
 
 ye tu dharmāmṛtam idaṁ  
+who  but  of dharma  the nectar  this  
 yathoktaṁ paryupāsate  
+as declared  follow with devotion  
 śraddadhānā mat-paramā  
-bhaktās te ‘tīva me priyāḥ
+full of faith  for whom I am the highest  
+bhaktās te ‘tīva me priyāḥ  
+devotees  they  exceedingly  to Me  dear
 
-(107) [not yet translated]
+(107) “But those who, full of faith and holding Me as the highest, devotedly follow this nectar of *dharma* as I have declared it — such devotees are exceedingly dear to Me.” (Bhagavad-gītā, 12.20)
 
 চিরাণি কিং পথি ন সন্তি দিশন্তি ভিক্ষাং  
 নৈবাঙ্ঘ্রিপাঃ পরভৃতঃ সরিতোঽপ্যশুষ্যন্ ৷  
@@ -1264,27 +1296,35 @@ bhaktās te ‘tīva me priyāḥ
 কস্মাদ্ভজন্তি কবয়ো ধনদুর্ম্মদান্ধান্ ॥ ১০৮ ॥
 
 cirāṇi kiṁ pathi na santi diśanti bhikṣāṁ  
+rags  is it that  on the road  not  there are  give  alms  
 naivāṅghri-pāḥ para-bhṛtaḥ sarito ‘py aśuṣyan  
+not  the trees  sustaining others  the rivers  even  have dried up  
 ruddhā guhāḥ kim ajito ‘vati nopasannān  
-kasmād bhajanti kavayo dhana-durmadāndhān
+closed  the caves  is it that  the Unconquerable  protects  not  the surrendered  
+kasmād bhajanti kavayo dhana-durmadāndhān  
+why  serve  the wise  by wealth  with evil pride  blinded
 
-(108) [not yet translated]
+(108) “Are there no rags lying on the road? Do the trees, which sustain others, no longer give alms? Have even the rivers dried up? Are the caves closed? Does the Unconquerable Lord not protect those who take refuge in Him? Why, then, do the wise serve those who are blinded by the pride of wealth?” (Śrīmad-Bhāgavatam, 2.2.5)
 
 তবে সনাতন সব সিদ্ধান্ত পুছিলা ৷  
 ভাগবত-গূঢ়সিদ্ধান্ত প্রভু সকলি কহিলা ॥ ১০৯ ॥
 
 tabe sanātana saba siddhānta puchilā  
-bhāgavata-gūḍha-siddhānta prabhu sakali kahilā
+then  Sanātana  all  conclusions  asked about  
+bhāgavata-gūḍha-siddhānta prabhu sakali kahilā  
+of the Bhāgavata  the hidden  conclusions  the Lord  all  told
 
-(109) [not yet translated]
+(109) Then Sanātana asked about all the conclusions of the scriptures (*siddhānta*), and the Lord told him all the hidden conclusions of the Bhāgavata.
 
 হরিবংশে কহিয়াছে গোলোকে নিত্যস্থিতি ৷  
 ইন্দ্র আসি’ করিল যবে শ্রীকৃষ্ণেরে স্তুতি ॥ ১১০ ॥
 
 hari-vaṁśe kahiyāche goloke nitya-sthiti  
-indra āsi’ karila yabe śrī-kṛṣṇere stuti
+in the Harivaṁśa  it is told  in Goloka  eternal  abiding  
+indra āsi’ karila yabe śrī-kṛṣṇere stuti  
+Indra  coming  offered  when  to Śrī Kṛṣṇa  praise
 
-(110) [not yet translated]
+(110) The Harivaṁśa tells of His eternal abiding in Goloka, at the time when Indra came and offered prayers to Śrī Kṛṣṇa.
 
 মৌষল-লীলা, আর কৃষ্ণ-অন্তর্দ্ধান ৷  
 কেশাবতার, আর বিরুদ্ধ ব্যাখ্যান ॥ ১১১ ॥
@@ -1293,80 +1333,102 @@ indra āsi’ karila yabe śrī-kṛṣṇere stuti
 ব্যাখ্যা শিখাইল যৈছে সুসিদ্ধান্ত হয় ॥ ১১২ ॥
 
 mauṣala-līlā, āra kṛṣṇa-antardhāna  
-keśāvatāra, āra yata viruddha vyākhyāna  
+the pastime of the clubs  and  Kṛṣṇa’s  disappearance  
+keśāvatāra, āra viruddha vyākhyāna  
+the hair-avatāra  and  contrary  explanations  
 mahiṣī-haraṇa ādi, saba — māyāmaya  
-vyākhyā śikhāila yaiche susiddhānta haya
+of the queens  the abduction  and so on  all  made of illusion  
+vyākhyā śikhāila yaiche susiddhānta haya  
+the explanation  He taught  so that  the right conclusion  it becomes
 
-(111–112) [not yet translated]
+(111–112) The pastime of the clubs (*mauṣala-līlā*), Kṛṣṇa’s disappearance, the “hair-*avatāra*” (*keśāvatāra*) and other contrary explanations, the abduction of the queens and so on — all these are illusory (*māyā-maya*). The Lord taught how to explain them so that they accord with the right conclusion (*siddhānta*).
 
 তবে সনাতন প্রভুর চরণে ধরিয়া ৷  
 নিবেদন করে দন্তে তৃণ-গুচ্ছ লঞা ॥ ১১৩ ॥
 
 tabe sanātana prabhura caraṇe dhariyā  
-nivedana kare dante tṛṇa-guccha lañā
+then  Sanātana  the Lord’s  feet  clasping  
+nivedana kare dante tṛṇa-guccha lañā  
+a submission  makes  in his teeth  of straw  a bunch  taking
 
-(113) [not yet translated]
+(113) Then Sanātana clasped the Lord’s feet and, holding a bunch of straw between his teeth, made this submission:
 
 নীচজাতি, নীচসেবী, মুঞি — সুপামর ৷  
 সিদ্ধান্ত শিখাইলা, — যেই ব্রহ্মার অগোচর ॥ ১১৪ ॥
 
 nīca-jāti, nīca-sevī, muñi — supāmara  
-siddhānta śikhāilā, — yei brahmāra agocara
+low-born  a servant of the low  I  utterly wretched  
+siddhānta śikhāilā, — yei brahmāra agocara  
+the conclusions  You have taught  which  to Brahmā  beyond reach
 
-(114) [not yet translated]
+(114) “I am low-born, a servant of the low, utterly wretched — yet You have taught me conclusions beyond the reach even of Brahmā.
 
 তুমি যে কহিলা, এই সিদ্ধান্তামৃত-সিন্ধু ৷  
 মোর মন ছুঁইতে নারে ইহার একবিন্দু ॥ ১১৫ ॥
 
 tumi ye kahilā, ei siddhāntāmṛta-sindhu  
-mora mana chuṅite nāre ihāra eka-bindu
+You  what  have spoken  this  of conclusions  of nectar  an ocean  
+mora mana chuṅite nāre ihāra eka-bindu  
+my  mind  to touch  cannot  of it  a single drop
 
-(115) [not yet translated]
+(115) What You have spoken is an ocean of the nectar of conclusions; my mind cannot touch even a single drop of it.
 
 পঙ্গু নাচাইতে যদি হয় তোমার মন ৷  
 বর দেহ’ মোর মাথে ধরিয়া চরণ ॥ ১১৬ ॥
 
 paṅgu nācāite yadi haya tomāra mana  
-vara deha’ mora māthe dhariyā caraṇa
+a lame man  to make dance  if  is  Your  wish  
+vara deha’ mora māthe dhariyā caraṇa  
+a boon  give  my  on the head  placing  feet
 
-(116) [not yet translated]
+(116) If it is Your wish to make a lame man dance, then place Your feet on my head and give me Your blessing.
 
 মুঞি যে শিখাই তোরে স্ফুরুক সকল ৷  
 এই তোমার বর হৈতে হবে মোর বল ॥ ১১৭ ॥
 
 muñi ye śikhāi tore sphuruka sakala  
-ei tomāra vara haite habe mora bala
+I  what  teach  to you  may it manifest  all  
+ei tomāra vara haite habe mora bala  
+this  Your  blessing  from  will be  my  strength
 
-(117) [not yet translated]
+(117) Bless me thus: ‘May all that I teach you manifest in you.’ This blessing of Yours will be my strength.”
 
 তবে মহাপ্রভু তাঁর শিরে ধরি’ করে ৷  
 বর দিলা — এই সব স্ফুরুক তোমারে ॥ ১১৮ ॥
 
 tabe mahāprabhu tāṅra śire dhari’ kare  
-vara dilā — ei saba sphuruka tomāre
+then  Mahāprabhu  his  on the head  placing  hand  
+vara dilā — ei saba sphuruka tomāre  
+the blessing  gave  this  all  may it manifest  in you
 
-(118) [not yet translated]
+(118) Then Mahāprabhu placed His hand on Sanātana’s head and gave him the blessing: “May all this manifest in you.”
 
 সংক্ষেপে কহিলুঁ — ‘প্রেম’-প্রয়োজন-সংবাদ ৷  
 বিস্তারি’ কহন না যায় প্রভুর প্রসাদ ॥ ১১৯ ॥
 
-saṅkṣepe kahiluṅ — ‘prema’ prayojana-saṁvāda  
-vistāri’ kahana nā yāya prabhura prasāda
+saṅkṣepe kahiluṅ — ‘prema’-prayojana-saṁvāda  
+briefly  I have told  of prema  as the goal  the account  
+vistāri’ kahana nā yāya prabhura prasāda  
+in detail  to tell  not  is possible  of the Lord  the grace
 
-(119) [not yet translated]
+(119) Thus I have briefly told the account of *prema* as the goal (*prayojana*). The Lord’s grace cannot be told in full.
 
 প্রভুর উপদেশামৃত শুনে যেই জন ৷  
 অচিরাৎ মিলয়ে তাঁরে কৃষ্ণপ্রেমধন ॥ ১২০ ॥
 
 prabhura upadeśāmṛta śune yei jana  
-acirāt milaye tāṅre kṛṣṇa-prema-dhana
+of the Lord  the nectar of the teachings  hears  who  person  
+acirāt milaye tāṅre kṛṣṇa-prema-dhana  
+soon  is attained  by him  of love for Kṛṣṇa  the treasure
 
-(120) [not yet translated]
+(120) Whoever hears the nectar of the Lord’s teachings soon attains the treasure of love for Kṛṣṇa.
 
 শ্রীরূপ-রঘুনাথ পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১২১ ॥
 
-śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+śrī-rūpa-raghunātha pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(121) [not yet translated]
+(121) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
