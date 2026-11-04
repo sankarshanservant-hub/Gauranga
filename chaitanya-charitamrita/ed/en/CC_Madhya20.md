@@ -728,154 +728,192 @@ shaved  having made  him  a bath in the Ganges  had him take
 সেই বস্ত্র সনাতন না কৈলা অঙ্গীকার ৷  
 শুনিয়া প্রভুর মনে আনন্দ অপার ॥ ৭১ ॥
 
-sei vastra sanātana nā kaila aṅgīkāra  
-śuniyā prabhura mane ānanda apāra
+sei vastra sanātana nā kailā aṅgīkāra  
+that  cloth  Sanātana  did not  make  acceptance  
+śuniyā prabhura mane ānanda apāra  
+hearing  of the Lord  in the mind  joy  boundless
 
-(71) [not yet translated]
+(71) Sanātana did not accept that cloth, and when the Lord heard this, His joy knew no bounds.
 
 মধ্যাহ্ন করিয়া প্রভু গেলা ভিক্ষা করিবারে ৷  
 সনাতনে লঞা গেলা তপনমিশ্রের ঘরে ॥ ৭২ ॥
 
 madhyāhna kariyā prabhu gelā bhikṣā karibāre  
-sanātane lañā gelā tapana-miśrera ghare
+the midday duties  having done  the Lord  went  a meal  to take  
+sanātane lañā gelā tapana-miśrera ghare  
+Sanātana  taking  He went  of Tapana Miśra  to the house
 
-(72) [not yet translated]
+(72) Having finished His midday duties, the Lord went to take His meal, and He took Sanātana with Him to Tapana Miśra’s house.
 
 পাদপ্রক্ষালন করি’ ভিক্ষাতে বসিলা ৷  
 সনাতনে ভিক্ষা দেহ — মিশ্রেরে কহিলা ॥ ৭৩ ॥
 
 pāda-prakṣālana kari’ bhikṣāte vasilā  
-sanātane bhikṣā deha — miśrere kahilā
+the washing of the feet  having done  for the meal  He sat  
+sanātane bhikṣā deha — miśrere kahilā  
+to Sanātana  food  give  to Miśra  He said
 
-(73) [not yet translated]
+(73) After washing His feet He sat down for the meal and said to Miśra, “Serve Sanātana too.”
 
 মিশ্র কহে, — সনাতনের কিছু কৃত্য আছে ৷  
 তুমি ভিক্ষা কর, প্রসাদ তাঁরে দিব পাছে ॥ ৭৪ ॥
 
 miśra kahe, — sanātanera kichu kṛtya āche  
-tumi bhikṣā kara, prasāda tāṅre diba pāche
+Miśra  says  of Sanātana  some  duty  there is  
+tumi bhikṣā kara, prasāda tāṅre diba pāche  
+You  the meal  take  prasāda  to him  I will give  afterwards
 
-(74) [not yet translated]
+(74) Miśra said, “Sanātana has something to attend to. Please take Your meal; I will give him prasāda afterwards.”
 
 ভিক্ষা করি’ মহাপ্রভু বিশ্রাম করিলা ৷  
 মিশ্র প্রভুর শেষপাত্র সনাতনে দিলা ॥ ৭৫ ॥
 
-bhikṣā kari’ mahāprabhu viśrāma karila  
-miśra prabhura śeṣa-pātra sanātane dilā
+bhikṣā kari’ mahāprabhu viśrāma karilā  
+the meal  having taken  Mahāprabhu  rest  took  
+miśra prabhura śeṣa-pātra sanātane dilā  
+Miśra  of the Lord  the plate of remnants  to Sanātana  gave
 
-(75) [not yet translated]
+(75) After the meal Mahāprabhu lay down to rest, and Miśra gave Sanātana the plate with the Lord’s remnants.
 
 মিশ্র সনাতনে দিলা নূতন বসন ৷  
 বস্ত্র নাহি নিলা, তিঁহো করে নিবেদন ॥ ৭৬ ॥
 
 miśra sanātane dilā nūtana vasana  
-vastra nāhi nilā, tiṅho kare nivedana
+Miśra  to Sanātana  gave  new  cloth  
+vastra nāhi nilā, tiṅho kare nivedana  
+the cloth  not  he took  he  makes  a request
 
-(76) [not yet translated]
+(76) Miśra offered Sanātana new cloth, but he would not take it. Instead he made a request:
 
 মোরে বস্ত্র দিতে যদি তোমার হয় মন ৷  
 নিজ-পরিধান এক দেহ’ ‘পুরাতন’ ॥ ৭৭ ॥
 
 more vastra dite yadi tomāra haya mana  
-nija-paridhāna eka deha’ purātana
+to me  cloth  to give  if  your  is  wish  
+nija-paridhāna eka deha’ ‘purātana’  
+of your own wear  one  give  old
 
-(77) [not yet translated]
+(77) “If you wish to give me cloth, give me one of your own that is old.”
 
 তবে মিশ্র পুরাতন এক ধুতি দিলা ৷  
 তিঁহো দুই বহির্ব্বাস-কৌপীন করিলা ॥ ৭৮ ॥
 
 tabe miśra purātana eka dhuti dilā  
-tiṅho dui bahirvāsa-kaupīna karila
+then  Miśra  old  one  dhoti  gave  
+tiṅho dui bahirvāsa-kaupīna karilā  
+he  two  outer cloths and loincloths  made
 
-(78) [not yet translated]
+(78) Then Miśra gave him an old dhoti, and Sanātana made it into two sets of outer cloth (*bahirvāsa*) and loincloth (*kaupīna*).
 
 মহারাষ্ট্রীয় দ্বিজে প্রভু মিলাইলা সনাতনে ৷  
 সেই বিপ্র তাঁরে কৈল মহা-নিমন্ত্রণে ॥ ৭৯ ॥
 
 mahārāṣṭrīya dvije prabhu milāilā sanātane  
-sei vipra tāṅre kaila mahā-nimantraṇe
+to a Mahārāṣṭrian  brāhmaṇa  the Lord  introduced  Sanātana  
+sei vipra tāṅre kaila mahā-nimantraṇe  
+that  brāhmaṇa  him  made  a standing invitation
 
-(79) [not yet translated]
+(79) The Lord introduced Sanātana to a brāhmaṇa from Mahārāṣṭra, and that brāhmaṇa gave him a standing invitation:
 
 ‘সনাতন’ তুমি যাবৎ কাশীতে রহিবা ৷  
 তাবৎ আমার ঘরে ভিক্ষা যে করিবা ॥ ৮০ ॥
 
-sanātana, tumi yāvat kāśīte rahibā  
-tāvat āmāra ghare bhikṣā ye karibā
+‘sanātana’ tumi yāvat kāśīte rahibā  
+Sanātana  you  as long as  in Kāśī  you will stay  
+tāvat āmāra ghare bhikṣā ye karibā  
+so long  in my  house  your meals  do  take
 
-(80) [not yet translated]
+(80) “Sanātana, as long as you stay in Kāśī, please take your meals at my house.”
 
 সনাতন কহে, — আমি মাধুকরী করিব ৷  
 ব্রাহ্মণের ঘরে কেনে একত্র ভিক্ষা লব ? ॥ ৮১ ॥
 
 sanātana kahe, — āmi mādhukarī kariba  
-brāhmaṇera ghare kene ekatra bhikṣā laba?
+Sanātana  says  I  mādhukarī  will do  
+brāhmaṇera ghare kene ekatra bhikṣā laba?  
+of a brāhmaṇa  in the house  why  in one place  food  should I take
 
-(81) [not yet translated]
+(81) Sanātana said, “I shall live by *mādhukarī*, begging a little from house to house. Why should I take all my meals at one brāhmaṇa’s house?”
 
 সনাতনের বৈরাগ্যে প্রভুর আনন্দ অপার ৷  
 ভোটকম্বল পানে প্রভু চাহে বারে বার ॥ ৮২ ॥
 
 sanātanera vairāgye prabhura ānanda apāra  
-bhoṭa-kambala pāne prabhu cāhe bāre bāra
+at Sanātana’s  renunciation  of the Lord  joy  boundless  
+bhoṭa-kambala pāne prabhu cāhe bāre bāra  
+the Bhoṭa blanket  toward  the Lord  looks  again  and again
 
-(82) [not yet translated]
+(82) The Lord was boundlessly pleased by Sanātana’s renunciation, yet again and again He glanced at the woollen Bhoṭa blanket.
 
 সনাতন জানিল এই প্রভুরে না ভায় ৷  
 ভোট ত্যাগ করিবারে চিন্তিলা উপায় ॥ ৮৩ ॥
 
 sanātana jānila ei prabhure nā bhāya  
-bhoṭa tyāga karibāre cintilā upāya
+Sanātana  understood  this  to the Lord  is not  pleasing  
+bhoṭa tyāga karibāre cintilā upāya  
+the blanket  giving up  to do  he thought of  a means
 
-(83) [not yet translated]
+(83) Sanātana understood that the Lord did not like it, and he thought of a way to give the blanket up.
 
 এত চিন্তি’ গেলা গঙ্গায় মধ্যাহ্ন করিতে ৷  
 এক গৌড়িয়া কান্থা ধুঞা দিয়াছে শুকাইতে ॥ ৮৪ ॥
 
 eta cinti’ gelā gaṅgāya madhyāhna karite  
-eka gauḍiyā kānthā dhuñā diyāche śukāite
+so  thinking  he went  to the Ganges  the midday bath  to take  
+eka gauḍiyā kānthā dhuñā diyāche śukāite  
+a  Bengali  quilt  having washed  had put  to dry
 
-(84) [not yet translated]
+(84) With this in mind he went to the Ganges for his midday bath. There a Bengali had washed his quilt and spread it out to dry.
 
 তারে কহে, — ওরে ভাই, কর উপকারে ৷  
 এই ভোট লঞা এই কাঁথা দেহ’ মোরে ॥ ৮৫ ॥
 
 tāre kahe, — “ore bhāi, kara upakāre  
-ei bhoṭa lañā ei kāṅthā deha’ more
+to him  he says  O  brother  do  a favor  
+ei bhoṭa lañā ei kāṅthā deha’ more  
+this  blanket  taking  this  quilt  give  me
 
-(85) [not yet translated]
+(85) Sanātana said to him, “Brother, do me a favor: take this blanket and give me this quilt.”
 
 সেই কহে, — “রহস্য কর প্রামাণিক হঞা ?  
 বহুমূল্য ভোট দিবা কেনে কাঁথা লঞা ? ॥ ৮৬ ॥
 
 sei kahe, — “rahasya kara prāmāṇika hañā?  
-bahu-mūlya bhoṭa dibā kena kāṅthā lañā?
+he  says  a joke  you make  a respectable man  being  
+bahu-mūlya bhoṭa dibā kene kāṅthā lañā?  
+a costly  blanket  you will give  why  a quilt  taking
 
-(86) [not yet translated]
+(86) The man said, “Are you, a respectable gentleman, joking with me? Why would you give a costly blanket in exchange for a quilt?”
 
 তিঁহো কহে, — রহস্য নহে, কহি সত্যবাণী ৷  
 ভোট লহ, তুমি দেহ’ মোরে কাঁথাখানি ॥ ৮৭ ॥
 
 tiṅho kahe, — rahasya nahe, kahi satya-vāṇī  
-bhoṭa laha, tumi deha’ more kāṅthā-khāni
+he  says  a joke  it is not  I speak  the truth  
+bhoṭa laha, tumi deha’ more kāṅthā-khāni  
+the blanket  take  you  give  me  this quilt
 
-(87) [not yet translated]
+(87) Sanātana said, “I am not joking; I am telling the truth. Take the blanket and give me your quilt.”
 
 এত বলি’ কাঁথা লইল, ভোট তাঁরে দিয়া ৷  
 গোসাঞির ঠাঁই আইলা কাঁথা গলায় দিয়া ॥ ৮৮ ॥
 
 eta bali’ kāṅthā la-ila, bhoṭa tāṅre diyā  
-gosāñira ṭhāñi āilā kāṅthā galāya diyā
+so  saying  the quilt  he took  the blanket  to him  giving  
+gosāñira ṭhāṅi āilā kāṅthā galāya diyā  
+to the Lord  he came  the quilt  over his shoulders  putting
 
-(88) [not yet translated]
+(88) With these words he gave the man the blanket and took the quilt, and, throwing the quilt over his shoulders, he came back to the Lord.
 
 প্রভু কহে, — তোমার ভোটকম্বল কোথা গেল ?  
 প্রভুপদে সব কথা গোসাঞি কহিল ॥ ৮৯ ॥
 
 prabhu kahe, — tomāra bhoṭa-kambala kothā gela?  
-prabhu-pade saba kathā gosāñi kahila
+the Lord  says  your  Bhoṭa blanket  where  has gone  
+prabhu-pade saba kathā gosāñi kahila  
+at the Lord’s feet  the whole  story  the Gosvāmī  told
 
-(89) [not yet translated]
+(89) The Lord asked, “Where has your Bhoṭa blanket gone?” and at the Lord’s feet Sanātana Gosvāmī told Him the whole story.
 
 প্রভু কহে, — ইহা আমি করিয়াছি বিচার ৷  
 বিষয়-রোগ খণ্ডাইল কৃষ্ণ যে তোমার ॥ ৯০ ॥
@@ -884,117 +922,149 @@ prabhu-pade saba kathā gosāñi kahila
 রোগ খণ্ডি’ সদ্বৈদ্য না রাখে শেষ রোগ ॥ ৯১ ॥
 
 prabhu kahe, — ihā āmi kariyāchi vicāra  
+the Lord  says  this  I  have done  consideration  
 viṣaya-roga khaṇḍāila kṛṣṇa ye tomāra  
+the disease of worldliness  destroyed  Kṛṣṇa  since  your  
 se kene rākhibe tomāra śeṣa viṣaya-bhoga?  
-roga khaṇḍi’ sad-vaidya nā rākhe śeṣa roga
+He  why  would keep  your  last  worldly enjoyment  
+roga khaṇḍi’ sad-vaidya nā rākhe śeṣa roga  
+the disease  destroying  a good physician  does not  keep  a remnant of  the disease
 
-(90–91) [not yet translated]
+(90–91) The Lord said, “I have thought about this. Kṛṣṇa has destroyed your disease of worldliness — why would He leave you this last bit of worldly enjoyment? Once a good physician has cured a disease, he leaves no trace of it behind.
 
 তিন মুদ্রার ভোট গায়, মাধুকরী গ্রাস ৷  
 ধর্ম্মহানি হয়, লোকে করে উপহাস ॥ ৯২ ॥
 
 tina mudrāra bhoṭa gāya, mādhukarī grāsa  
-dharma-hāni haya, loka kare upahāsa
+of three  coins  a blanket  on the body  by mādhukarī  one’s food  
+dharma-hāni haya, loke kare upahāsa  
+to religion  harm  there is  people  make  ridicule
 
-(92) [not yet translated]
+(92) To wear a blanket worth three gold coins while living on *mādhukarī* is a breach of religious principle, and people laugh at it.”
 
 গোসাঞি কহে, — যে খণ্ডিল কুবিষয়-ভোগ ৷  
 তাঁর ইচ্ছায় গেল মোর শেষ বিষয় রোগ ॥ ৯৩ ॥
 
 gosāñi kahe, — ye khaṇḍila kuviṣaya-bhoga  
-tāṅra icchāya gela mora śeṣa viṣaya roga
+the Gosvāmī  says  He who  destroyed  sinful worldly enjoyment  
+tāṅra icchāya gela mora śeṣa viṣaya roga  
+by His  will  has gone  my  last  worldly  disease
 
-(93) [not yet translated]
+(93) Sanātana Gosvāmī said, “By the will of Him who destroyed my sinful worldly enjoyment, the last of my worldly disease is gone.”
 
 প্রসন্ন হঞা প্রভু তাঁরে কৃপা কৈল ৷  
 তাঁর কৃপায় প্রশ্ন করিতে তাঁর শক্তি হৈল ॥ ৯৪ ॥
 
 prasanna hañā prabhu tāṅre kṛpā kaila  
-tāṅra kṛpāya praśna karite tāṅra śakti haila
+pleased  becoming  the Lord  on him  mercy  bestowed  
+tāṅra kṛpāya praśna karite tāṅra śakti haila  
+by His  mercy  questions  to ask  his  power  arose
 
-(94) [not yet translated]
+(94) The Lord was pleased and bestowed His mercy on him, and by that mercy Sanātana gained the power to ask questions.
 
 পূর্ব্বে যৈছে রায়-পাশে প্রভু প্রশ্ন কৈলা ৷  
 তাঁর শক্ত্যে রামানন্দ তাঁর উত্তর দিলা ॥ ৯৫ ॥
 
 pūrve yaiche rāya-pāśe prabhu praśna kailā  
-tāṅra śaktye rāmānanda tāṅra uttara dilā
+before  as  of Rāya  the Lord  questions  asked  
+tāṅra śaktye rāmānanda tāṅra uttara dilā  
+by His  power  Rāmānanda  to them  answers  gave
 
-(95) [not yet translated]
+(95) Just as earlier the Lord had put questions to Rāya Rāmānanda, and Rāmānanda had answered them by the Lord’s own power,
 
 ইঁহা প্রভুর শক্ত্যে প্রশ্ন করে সনাতন ৷  
 আপনে মহাপ্রভু করে ‘তত্ত্ব’-নিরূপণ ॥ ৯৬ ॥
 
 iṅhā prabhura śaktye praśna kare sanātana  
-āpane mahāprabhu kare ‘tattva’-nirūpaṇa
+here  by the Lord’s  power  questions  asks  Sanātana  
+āpane mahāprabhu kare ‘tattva’-nirūpaṇa  
+Himself  Mahāprabhu  makes  of the truth  exposition
 
-(96) [not yet translated]
+(96) so now Sanātana asked questions by the Lord’s power, and Mahāprabhu Himself explained the truth.
 
 কৃষ্ণস্বরূপমাধুর্য্যৈশ্বর্য্যভক্তিরসাশ্রয়ম্ ৷  
 তত্ত্বং সনাতনায়েশঃ কৃপয়োপদিদেশ সঃ ॥ ৯৭ ॥
 
 kṛṣṇa-svarūpa-mādhuryaiś-  
+of Kṛṣṇa  of the true nature  of the sweetness  of the majesty  
 varya-bhakti-rasāśrayam  
+and of the rasa of devotion  the shelter  
 tattvaṁ sanātanāyeśaḥ  
-kṛpayopadideśa saḥ
+the truth  to Sanātana  the Lord  
+kṛpayopadideśa saḥ  
+mercifully  taught  He
 
-(97) [not yet translated]
+(97) Out of His mercy the Lord taught Sanātana the truth that is the shelter of Kṛṣṇa’s own nature, His sweetness, His majesty and the *rasa* of devotion.
 
 তবে সনাতন প্রভুর চরণে ধরিয়া ৷  
 দৈন্য বিনতি করে দন্তে তৃণ লঞা ॥ ৯৮ ॥
 
 tabe sanātana prabhura caraṇe dhariyā  
-dainya vinati kare dante tṛṇa lañā
+then  Sanātana  the Lord’s  feet  clasping  
+dainya vinati kare dante tṛṇa lañā  
+humble  entreaty  makes  in his teeth  straw  taking
 
-(98) [not yet translated]
+(98) Then Sanātana clasped the Lord’s feet and, holding a straw between his teeth, humbly entreated Him:
 
 নীচ-জাতি, নীচ-সঙ্গী, পতিত অধম ৷  
 কুবিষয়-কূপে পড়ি’ গোঙাইনু জনম! ॥ ৯৯ ॥
 
 nīca-jāti, nīca-saṅgī, patita adhama  
-kuviṣaya-kūpe paḍi’ goṅāinu janama!
+low by birth  in low company  fallen  most wretched  
+kuviṣaya-kūpe paḍi’ goṅāinu janama!  
+into the well of sinful worldliness  having fallen  I have wasted  my life
 
-(99) [not yet translated]
+(99) “I am low-born, I keep low company, I am fallen and wretched. Fallen into the well of sinful worldliness, I have wasted my life.
 
 আপনার হিতাহিত কিছুই না জানি !  
 গ্রাম্য-ব্যবহারে পণ্ডিত, তাই সত্য মানি ॥ ১০০ ॥
 
 āpanāra hitāhita kichui nā jāni!  
-grāmya-vyavahāre paṇḍita, tāi satya māni
+my own  good and harm  anything  not  I know  
+grāmya-vyavahāre paṇḍita, tāi satya māni  
+in worldly dealings  learned  that  as truth  I accept
 
-(100) [not yet translated]
+(100) I know nothing of what is good or harmful for me. I am learned only in worldly dealings, and I take that for the truth.
 
 কৃপা করি’ যদি মোরে করিয়াছ উদ্ধার ৷  
 আপন-কৃপাতে কহ ‘কর্ত্তব্য’ আমার ॥ ১০১ ॥
 
 kṛpā kari’ yadi more kariyācha uddhāra  
-āpana-kṛpāte kaha ‘kartavya’ āmāra
+mercy  showing  since  me  You have made  deliverance  
+āpana-kṛpāte kaha ‘kartavya’ āmāra  
+by Your own mercy  tell  the duty  my
 
-(101) [not yet translated]
+(101) Since You have mercifully delivered me, then by Your own mercy tell me what my duty is.
 
 ‘কে আমি’, ‘কেনে আমায় জারে তাপত্রয়’ ৷  
 ইহা নাহি জানি — ‘কেমনে হিত হয়’ ॥ ১০২ ॥
 
 ‘ke āmi’, ‘kene āmāya jāre tāpa-traya’  
-ihā nāhi jāni — ‘kemane hita haya’
+who  am I  why  me  burn  the threefold miseries  
+ihā nāhi jāni — ‘kemane hita haya’  
+this  not  I know  how  good  will come
 
-(102) [not yet translated]
+(102) Who am I? Why do the threefold miseries burn me? I do not know this, nor how I may attain my true good.
 
 ‘সাধ্য’-‘সাধন’-তত্ত্ব পুছিতে না জানি ৷  
 কৃপা করি’ সব তত্ত্ব কহ ত’ আপনি ॥ ১০৩ ॥
 
-‘sādhya’ ‘sādhana’ tattva puchite nā jāni  
-kṛpā kari’ saba tattva kaha ta’ āpani
+‘sādhya’-‘sādhana’-tattva puchite nā jāni  
+of the goal and the means  the truth  to ask  not  I know  
+kṛpā kari’ saba tattva kaha ta’ āpani  
+mercy  showing  all  the truths  tell  please  Yourself
 
-(103) [not yet translated]
+(103) I do not even know how to ask about the truth of the goal (*sādhya*) and the means (*sādhana*). Be merciful and explain all these truths Yourself.”
 
 প্রভু কহে, — কৃষ্ণ-কৃপা তোমাতে পূর্ণ হয় ৷  
 সব তত্ত্ব জান, তোমার নাহি তাপত্রয় ॥ ১০৪ ॥
 
 prabhu kahe, — “kṛṣṇa-kṛpā tomāte pūrṇa haya  
-saba tattva jāna, tomāra nāhi tāpa-traya
+the Lord  says  Kṛṣṇa’s mercy  in you  full  is  
+saba tattva jāna, tomāra nāhi tāpa-traya  
+all  the truths  you know  of you  there are not  the threefold miseries
 
-(104) [not yet translated]
+(104) The Lord said, “Kṛṣṇa’s mercy rests on you in full. You know all these truths, and the threefold miseries do not touch you.
 
 কৃষ্ণভক্তি ধর তুমি, জান তত্ত্বভাব ৷  
 জানি’ দার্ঢ্য লাগি’ পুছে, — সাধুর স্বভাব ॥ ১০৫ ॥
@@ -1628,125 +1698,159 @@ first of all  in three forms  abides  Bhagavān
 স্বয়ংরূপে — এক ‘কৃষ্ণ’ ব্রজে গোপমূর্ত্তি ॥ ১৬৬ ॥
 
 ‘svayaṁ-rūpa’, ‘svayaṁ-prakāśa’, — dui rūpe sphūrti  
-svayaṁ-rūpe — eka ‘kṛṣṇa’ vraje gopa-mūrti
+svayaṁ-rūpa  svayaṁ-prakāśa  in two  forms  the manifestation  
+svayaṁ-rūpe — eka ‘kṛṣṇa’ vraje gopa-mūrti  
+in the svayaṁ-rūpa  the one  Kṛṣṇa  in Vraja  in the form of a cowherd
 
-(166) [not yet translated]
+(166) “The original form shines forth in two ways, as the *svayaṁ-rūpa* and as the *svayaṁ-prakāśa*. As the *svayaṁ-rūpa*, the one Kṛṣṇa is a cowherd in Vraja.
 
 ‘প্রাভব’-‘বৈভব’-রূপে দ্বিবিধ প্রকাশে ৷  
 এক-বপু বহু রূপ যৈছে হৈল রাসে ॥ ১৬৭ ॥
 
 ‘prābhava’-‘vaibhava’-rūpe dvividha prakāśe  
-eka-vapu bahu rūpa yaiche haila rāse
+of prābhava  of vaibhava  in the forms  twofold  manifestation  
+eka-vapu bahu rūpa yaiche haila rāse  
+one body  many  forms  as  became  in the rāsa
 
-(167) [not yet translated]
+(167) “The *svayaṁ-prakāśa* is twofold, in the forms of *prābhava* and *vaibhava*. So, in the *rāsa* dance, His one body became many forms;
 
 মহিষী-বিবাহে হৈল বহুবিধ মূর্ত্তি ৷  
 ‘বৈভবপ্রকাশ’ — এই শাস্ত্র-পরসিদ্ধি ॥ ১৬৮ ॥
 
 mahiṣī-vivāhe haila bahu-vidha mūrti  
-‘vaibhava-prakāśa’ — ei śāstra-parasiddhi
+at the marriage with the queens  there were  of many kinds  forms  
+‘vaibhava-prakāśa’ — ei śāstra-parasiddhi  
+vaibhava-prakāśa  this  in the scriptures  well known
 
-(168) [not yet translated]
+(168) “and at His marriage with the queens there were forms of many kinds: this is the *vaibhava-prakāśa*, well known in the scriptures.
 
 সৌভর্য্যাদি-প্রায় সেই কায়ব্যূহ নয় ৷  
 কায়ব্যূহ হৈলে নারদের বিস্ময় না হয় ॥ ১৬৯ ॥
 
 saubhary-ādi-prāya sei kāya-vyūha naya  
-kāya-vyūha haile nāradera vismaya nā haya
+like Saubhari and others  these  multiplication of the body  are not  
+kāya-vyūha haile nāradera vismaya nā haya  
+multiplication of the body  if it were  Nārada’s  wonder  not  would be
 
-(169) [not yet translated]
+(169) “These forms are not a multiplication of the body (*kāya-vyūha*) like that of Saubhari and others; if they were, Nārada would not have been struck with wonder.
 
 চিত্রং বতৈতদেকেন বপুষা যুগপৎ পৃথক্ ৷  
 গৃহেষু দ্ব্যষ্টসাহস্রং স্ত্রিয় এক উদাবহৎ ॥ ১৭০ ॥
 
 citraṁ bataitad ekena  
+wonderful  indeed  this  with one  
 vapuṣā yugapat pṛthak  
+body  at once  separately  
 gṛheṣu dvy-aṣṭa-sāhasraṁ  
-striya eka udāvahat
+in palaces  sixteen thousand  
+striya eka udāvahat  
+women  the One  married
 
-(170) [not yet translated]
+(170) “How wonderful! The one Kṛṣṇa, in one and the same body, married sixteen thousand princesses at once, each in her own palace.” (Śrīmad-Bhāgavatam, 10.69.2)
 
 সেই বপু, সেই আকৃতি পৃথক যদি ভাসে ৷  
 ভাবাবেশ-ভেদে নাম ‘বৈভবপ্রকাশে’ ॥ ১৭১ ॥
 
 sei vapu, sei ākṛti pṛthak yadi bhāse  
-bhāvāveśa-bhede nāma ‘vaibhava-prakāśe’
+that same  body  that same  form  separately  if  appears  
+bhāvāveśa-bhede nāma ‘vaibhava-prakāśe’  
+of absorption in bhāva  by the difference  the name  vaibhava-prakāśa
 
-(171) [not yet translated]
+(171) “When that same body, that same form, appears separately, differing only in the emotion (*bhāva*) that absorbs it, it is called *vaibhava-prakāśa*.
 
 অনন্ত প্রকাশে কৃষ্ণের নাহি মূর্ত্তিভেদ ৷  
 আকার-বর্ণ-অস্ত্র-ভেদে নাম বিভেদ ॥ ১৭২ ॥
 
 ananta prakāśe kṛṣṇera nāhi mūrti-bheda  
-ākāra-varṇa-astra-bhede nāma vibheda
+in the infinite  manifestations  of Kṛṣṇa  there is no  of form  difference  
+ākāra-varṇa-astra-bhede nāma vibheda  
+of shape  color  weapons  by the difference  of names  difference
 
-(172) [not yet translated]
+(172) “In Kṛṣṇa’s infinite manifestations there is no difference of person; by differences of shape, color and weapons, their names differ.
 
 অন্যে চ সংস্কৃতাত্মানো বিধিনাভিহিতেন তে ৷  
 যজন্তি ত্বন্ময়াস্ত্বাং বৈ বহুমূর্ত্ত্যেকমূর্ত্তিকম্ ॥ ১৭৩ ॥
 
 anye ca saṁskṛtātmāno  
+others  and  purified in self  
 vidhinābhihitena te  
+by the rule  enjoined  by You  
 yajanti tvan-mayās tvāṁ vai  
-bahu-mūrty eka-mūrtikam
+worship  absorbed in You  You  indeed  
+bahu-mūrty eka-mūrtikam  
+having many forms  having one form
 
-(173) [not yet translated]
+(173) “Others, purified by the rules You Yourself have enjoined and absorbed in You, worship You alone, who have many forms and yet are one form.” (Śrīmad-Bhāgavatam, 10.40.7)
 
 বৈভবপ্রকাশ কৃষ্ণের — শ্রীবলরাম ৷  
 বর্ণমাত্র-ভেদ, সব — কৃষ্ণের সমান ॥ ১৭৪ ॥
 
 vaibhava-prakāśa kṛṣṇera — śrī-balarāma  
-varṇa-mātra-bheda, saba — kṛṣṇera samāna
+vaibhava-prakāśa  of Kṛṣṇa  Śrī Balarāma  
+varṇa-mātra-bheda, saba — kṛṣṇera samāna  
+of color  only  the difference  in all  to Kṛṣṇa  equal
 
-(174) [not yet translated]
+(174) “Śrī Balarāma is the *vaibhava-prakāśa* of Kṛṣṇa. They differ only in color; in all else He is equal to Kṛṣṇa.
 
 বৈভবপ্রকাশ যৈছে দেবকী-তনুজ ৷  
 দ্বিভুজ-স্বরূপ কভু, কভু হন চতুর্ভুজ ॥ ১৭৫ ॥
 
 vaibhava-prakāśa yaiche devakī-tanuja  
-dvibhuja-svarūpa kabhu, kabhu hana caturbhuja
+vaibhava-prakāśa  as  of Devakī  the son  
+dvibhuja-svarūpa kabhu, kabhu hana caturbhuja  
+two-armed  form  sometimes  sometimes  He is  four-armed
 
-(175) [not yet translated]
+(175) “Another *vaibhava-prakāśa* is the son of Devakī: sometimes His form is two-armed, and sometimes He is four-armed.
 
 যে-কালে দ্বিভুজ, নাম — বৈভবপ্রকাশ ৷  
 চতুর্ভুজ হৈলে, নাম — প্রাভববিলাস ॥ ১৭৬ ॥
 
 ye-kāle dvibhuja, nāma — vaibhava-prakāśa  
-caturbhuja haile, nāma — prābhava-vilāsa
+when  two-armed  the name  vaibhava-prakāśa  
+caturbhuja haile, nāma — prābhava-vilāsa  
+four-armed  on becoming  the name  prābhava-vilāsa
 
-(176) [not yet translated]
+(176) “When He is two-armed, He is called *vaibhava-prakāśa*; when He becomes four-armed, He is called *prābhava-vilāsa*.
 
 স্বয়ংরূপের গোপবেশ, গোপ-অভিমান ৷  
 বাসুদেবের ক্ষত্রিয়-বেশ, ‘আমি — ক্ষত্রিয়’-জ্ঞান ॥ ১৭৭ ॥
 
 svayaṁ-rūpera gopa-veśa, gopa-abhimāna  
-vāsudevera kṣatriya-veśa, ‘āmi — kṣatriya’-jñāna
+of the svayaṁ-rūpa  a cowherd’s  dress  a cowherd’s  self-conception  
+vāsudevera kṣatriya-veśa, ‘āmi — kṣatriya’-jñāna  
+of Vāsudeva  a kṣatriya’s  dress  I  a kṣatriya  the awareness
 
-(177) [not yet translated]
+(177) “The *svayaṁ-rūpa* wears a cowherd’s dress and thinks of Himself as a cowherd; Vāsudeva wears a *kṣatriya*’s dress and is aware, ‘I am a *kṣatriya*.’
 
 সৌন্দর্য্য, ঐশ্বর্য্য, মাধুর্য্য, বৈদগ্ধ্য-বিলাস ৷  
 ব্রজেন্দ্রনন্দনে ইঁহা অধিক উল্লাস ॥ ১৭৮ ॥
 
 saundarya, aiśvarya, mādhurya, vaidagdhya-vilāsa  
-vrajendra-nandane iṅhā adhika ullāsa
+beauty  majesty  sweetness  of artfulness  the play  
+vrajendra-nandane iṅhā adhika ullāsa  
+in the son of Vraja’s king  these  greater  delight
 
-(178) [not yet translated]
+(178) “Beauty, majesty, sweetness and the play of His artfulness (*vaidagdhya*) bring greater delight in the son of the king of Vraja.
 
 গোবিন্দের মাধুরী দেখি’ বাসুদেবের ক্ষোভ ৷  
 সে মাধুরী আস্বাদিতে উপজয় লোভ ॥ ১৭৯ ॥
 
 govindera mādhurī dekhi’ vāsudevera kṣobha  
-se mādhurī āsvādite upajaya lobha
+Govinda’s  sweetness  seeing  Vāsudeva’s  agitation  
+se mādhurī āsvādite upajaya lobha  
+that  sweetness  to taste  arises  longing
 
-(179) [not yet translated]
+(179) “Seeing Govinda’s sweetness, Vāsudeva is stirred, and a longing arises in Him to taste that sweetness —
 
 মথুরায় যৈছে গন্ধর্ব্বনৃত্য-দরশনে ৷  
 পুনঃ দ্বারকাতে যৈছে চিত্র-বিলোকনে ॥ ১৮০ ॥
 
 mathurāya yaiche gandharva-nṛtya-daraśane  
-punaḥ dvārakāte yaiche citra-vilokane
+in Mathurā  as  of the Gandharvas’  dance  on seeing  
+punaḥ dvārakāte yaiche citra-vilokane  
+again  in Dvārakā  as  a picture  on beholding
 
-(180) [not yet translated]
+(180) “as in Mathurā, when He watched the dance of the Gandharvas, and again in Dvārakā, when He beheld a picture.
 
 উদ্গীর্ণাদ্ভুত-মাধুরী-পরিমলস্যাভীরলীলস্য মে  
 দ্বৈতং হন্ত সমীক্ষয়ন্ মুহুরসৌ চিত্রীয়তে চারণঃ ৷  
@@ -1754,11 +1858,15 @@ punaḥ dvārakāte yaiche citra-vilokane
 যস্য প্রেক্ষ্য স্বরূপতাং ব্রজবধূসারূপ্যমন্বিচ্ছতি ॥ ১৮১ ॥
 
 udgīrṇādbhuta-mādhurī-parimalasyābhīra-līlasya me  
+of overflowing  wondrous  sweetness  fragrance  of cowherd pastimes  My  
 dvaitaṁ hanta samīkṣayan muhur asau citrīyate cāraṇaḥ  
+the double  ah  showing  again and again  this  works wonders  actor  
 cetaḥ keli-kutūhalottaralitaṁ satyaṁ sakhe māmakaṁ  
-yasya prekṣya svarūpatāṁ vraja-vadhū-sārūpyam anvicchati
+the heart  by eagerness for play  stirred  truly  O friend  My  
+yasya prekṣya svarūpatāṁ vraja-vadhū-sārūpyam anvicchati  
+whose  seeing  the likeness  of the girls of Vraja  the form  desires
 
-(181) [not yet translated]
+(181) (Vāsudeva said:) “O friend, again and again this actor works wonders, showing a double of Me in My cowherd pastimes, which overflow with the fragrance of wondrous sweetness. Ah, seeing his likeness to Me, My heart, stirred by eagerness for such play, truly longs for a form like that of the girls of Vraja.” (Lalita-mādhava, 4.19)
 
 অপরিকলিতপূর্ব্বঃ কশ্চমৎকারকারী  
 স্ফুরতু মম গরীয়ানেষ মাধুর্য্যপূরঃ ৷  
@@ -1766,155 +1874,195 @@ yasya prekṣya svarūpatāṁ vraja-vadhū-sārūpyam anvicchati
 সরভসমুপভোক্তুং কাময়ে রাধিকেব ॥ ১৮২ ॥
 
 aparikalita-pūrvaḥ kaś camatkāra-kārī  
+never experienced  before  some  wonder-working  
 sphuratu mama garīyān eṣa mādhurya-pūraḥ  
+may it appear  My  greater  this  of sweetness  flood  
 ayam aham api hanta prekṣya yaṁ lubdha-cetāḥ  
-sarabhasam upabhoktuṁ kāmaye rādhikeva
+this  I  even  alas  seeing  which  with greedy heart  
+sarabhasam upabhoktuṁ kāmaye rādhikeva  
+eagerly  to enjoy  I desire  like Rādhikā
 
-(182) [not yet translated]
+(182) “May this wondrous flood of My sweetness, never known before and surpassing all, shine forth! Alas, seeing it, even I long with an eager heart to enjoy it, as Rādhikā does.” (Lalita-mādhava, 8.34)
 
 সেই বপু ভিন্নাভাসে কিছু ভিন্নাকার ৷  
 ভাবাবেশাকৃতি-ভেদে ‘তদেকাত্ম’ নাম তাঁর ॥ ১৮৩ ॥
 
 sei vapu bhinnābhāse kichu bhinnākāra  
-bhāvāveśākṛti-bhede ‘tad-ekātma’ nāma tāṅra
+that same  body  in a different appearance  somewhat  different in shape  
+bhāvāveśākṛti-bhede ‘tad-ekātma’ nāma tāṅra  
+of absorption in bhāva  of form  by the difference  tad-ekātma  the name  His
 
-(183) [not yet translated]
+(183) “When that same body appears differently and is somewhat different in shape — differing in form and in the emotion that absorbs it — it is named *tad-ekātma*.
 
 তদেকাত্মরূপে ‘বিলাস’, ‘স্বাংশ’, — দুই ভেদ ৷  
 বিলাস, স্বাংশের ভেদে বিবিধ বিভেদ ॥ ১৮৪ ॥
 
 tad-ekātma-rūpe ‘vilāsa’, ‘svāṁśa’, — dui bheda  
-vilāsa, svāṁśera bhede vividha vibheda
+in the tad-ekātma-rūpa  vilāsa  svāṁśa  two  divisions  
+vilāsa, svāṁśera bhede vividha vibheda  
+of vilāsa  of svāṁśa  by the divisions  various  varieties
 
-(184) [not yet translated]
+(184) “The *tad-ekātma-rūpa* has two divisions, *vilāsa* and *svāṁśa*; and by the divisions of *vilāsa* and *svāṁśa* there are many varieties.
 
 প্রাভব-বৈভব-ভেদে বিলাস — দ্বিধাকার ৷  
 বিলাসের বিলাস-ভেদ — অনন্ত প্রকার ॥ ১৮৫ ॥
 
 prābhava-vaibhava-bhede vilāsa — dvidhākāra  
-vilāsera vilāsa-bheda — ananta prakāra
+of prābhava  of vaibhava  by the difference  vilāsa  of two kinds  
+vilāsera vilāsa-bheda — ananta prakāra  
+of vilāsa  of vilāsa  the divisions  infinite  kinds
 
-(185) [not yet translated]
+(185) “By the difference of *prābhava* and *vaibhava*, *vilāsa* is of two kinds; and the *vilāsas* of *vilāsa* are of infinite kinds.
 
 প্রাভববিলাস — বাসুদেব, সঙ্কর্ষণ ৷  
 প্রদ্যুম্ন, অনিরুদ্ধ, — মুখ্য চারিজন ॥ ১৮৬ ॥
 
 prābhava-vilāsa — vāsudeva, saṅkarṣaṇa  
-pradyumna, aniruddha, — mukhya cāri-jana
+prābhava-vilāsa  Vāsudeva  Saṅkarṣaṇa  
+pradyumna, aniruddha, — mukhya cāri-jana  
+Pradyumna  Aniruddha  the chief  four
 
-(186) [not yet translated]
+(186) “The *prābhava-vilāsas* are Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha — the chief four.
 
 ব্রজে গোপভাব রামের, পুরে ক্ষত্রিয়-ভাবন ৷  
 বর্ণ-বেশ-ভেদ, তাতে ‘বিলাস’ তাঁর নাম ॥ ১৮৭ ॥
 
 vraje gopa-bhāva rāmera, pure kṣatriya-bhāvana  
-varṇa-veśa-bheda, tāte ‘vilāsa’ tāṅra nāma
+in Vraja  a cowherd’s  mood  Rāma’s  in the city  a kṣatriya’s  self-awareness  
+varṇa-veśa-bheda, tāte ‘vilāsa’ tāṅra nāma  
+of color  of dress  the difference  therefore  vilāsa  His  name
 
-(187) [not yet translated]
+(187) “In Vraja Rāma has the mood of a cowherd; in the city, the self-awareness of a *kṣatriya*. Because His color and dress differ, He is called *vilāsa*.
 
 বৈভবপ্রকাশে আর প্রাভববিলাসে ৷  
 একই মূর্ত্ত্যে বলদেব ভাব-ভেদে ভাসে ॥ ১৮৮ ॥
 
 vaibhava-prakāśe āra prābhava-vilāse  
-eka-i mūrtye baladeva bhāva-bhede bhāse
+in the vaibhava-prakāśa  and  in the prābhava-vilāsa  
+eka-i mūrtye baladeva bhāva-bhede bhāse  
+in one and the same  form  Baladeva  by difference of mood  appears
 
-(188) [not yet translated]
+(188) “In one and the same form Baladeva appears both as *vaibhava-prakāśa* and as *prābhava-vilāsa*, according to the difference of mood.
 
 আদি-চতুর্ব্যূহ — কেহ নাহি ইঁহার সম ৷  
 অনন্ত চতুর্ব্যূহগণের প্রাকট্য-কারণ ॥ ১৮৯ ॥
 
 ādi-catur-vyūha — keha nāhi iṅhāra sama  
-ananta catur-vyūha-gaṇera prākaṭya-kāraṇa
+the original  catur-vyūha  anyone  not  to Them  equal  
+ananta catur-vyūha-gaṇera prākaṭya-kāraṇa  
+of countless  catur-vyūhas  of the appearance  the cause
 
-(189) [not yet translated]
+(189) “No one is equal to the original *catur-vyūha*; They are the cause of the appearance of countless *catur-vyūhas*.
 
 কৃষ্ণের এই চারি প্রাভববিলাস ৷  
 দ্বারকা-মথুরা-পুরে নিত্য ইঁহার বাস ॥ ১৯০ ॥
 
 kṛṣṇera ei cāri prābhava-vilāsa  
-dvārakā-mathurā-pure nitya iṅhāra vāsa
+Kṛṣṇa’s  these  four  prābhava-vilāsas  
+dvārakā-mathurā-pure nitya iṅhāra vāsa  
+in Dvārakā and Mathurā  the cities  eternally  Their  residence
 
-(190) [not yet translated]
+(190) “These four are Kṛṣṇa’s *prābhava-vilāsas*; They reside eternally in the cities of Dvārakā and Mathurā.
 
 এই চারি হৈতে চব্বিশ মূর্ত্তি পরকাশ ৷  
 অস্ত্রভেদে নাম ভেদ — বৈভববিলাস ॥ ১৯১ ॥
 
 ei cāri haite cabbiśa mūrti parakāśa  
-astra-bhede nāma bheda — vaibhava-vilāsa
+these  four  from  twenty-four  forms  manifestation  
+astra-bhede nāma bheda — vaibhava-vilāsa  
+by the difference of weapons  of names  the difference  vaibhava-vilāsa
 
-(191) [not yet translated]
+(191) “From these four, twenty-four forms are manifest. Their names differ according to their weapons; They are the *vaibhava-vilāsas*.
 
 পুনঃ কৃষ্ণ চতুর্ব্যূহ লঞা পূর্ব্বরূপে ৷  
 পরব্যোম-মধ্যে বৈসে নারায়ণরূপে ॥ ১৯২ ॥
 
 punaḥ kṛṣṇa catur-vyūha lañā pūrva-rūpe  
-paravyoma-madhye vaise nārāyaṇa-rūpe
+again  Kṛṣṇa  the catur-vyūha  taking  as before  
+paravyoma-madhye vaise nārāyaṇa-rūpe  
+in the paravyoma  resides  in the form of Nārāyaṇa
 
-(192) [not yet translated]
+(192) “Again Kṛṣṇa, taking the *catur-vyūha* with Him as before, resides in the spiritual sky (*paravyoma*) in the form of Nārāyaṇa.
 
 তাঁহা হৈতে পুনঃ চতুর্ব্যূহ-পরকাশ ৷  
 আবরণরূপে চারিদিকে যাঁর বাস ॥ ১৯৩ ॥
 
 tāṅhā haite punaḥ catur-vyūha-parakāśa  
-āvaraṇa-rūpe cāri-dike yāṅra vāsa
+from Him  again  of a catur-vyūha  the manifestation  
+āvaraṇa-rūpe cāri-dike yāṅra vāsa  
+as an enclosure  on the four sides  whose  residence
 
-(193) [not yet translated]
+(193) “From Him a *catur-vyūha* is manifest once more; They reside on the four sides as His enclosure (*āvaraṇa*).
 
 চারিজনের পুনঃ পৃথক্ তিন তিন মূর্ত্তি ৷  
 কেশবাদি যাহা হৈতে বিলাসের পূর্ত্তি ॥ ১৯৪ ॥
 
 cāri-janera punaḥ pṛthak tina tina mūrti  
-keśavādi yāhā haite vilāsera pūrti
+of the four  again  separately  three  three  forms  
+keśavādi yāhā haite vilāsera pūrti  
+Keśava and the others  from whom  of the vilāsas  the completion
 
-(194) [not yet translated]
+(194) “Again, each of the four has three separate forms — Keśava and the others — by whom the *vilāsas* are completed.
 
 চক্রাদি-ধারণ-ভেদে নাম-ভেদ সব ৷  
 বাসুদেবের মূর্ত্তি — কেশব, নারায়ণ, মাধব ॥ ১৯৫ ॥
 
 cakrādi-dhāraṇa-bhede nāma-bheda saba  
-vāsudevera mūrti — keśava, nārāyaṇa, mādhava
+of the disc and the rest  holding  by the difference  names  differ  all  
+vāsudevera mūrti — keśava, nārāyaṇa, mādhava  
+Vāsudeva’s  forms  Keśava  Nārāyaṇa  Mādhava
 
-(195) [not yet translated]
+(195) “All Their names differ according to how They hold the disc and the other weapons. Vāsudeva’s forms are Keśava, Nārāyaṇa and Mādhava.
 
 সঙ্কর্ষণের মূর্ত্তি — গোবিন্দ, বিষ্ণু, মধুসূদন ৷  
 এ অন্য গোবিন্দ — নহে ব্রজেন্দ্র-নন্দন ॥ ১৯৬ ॥
 
 saṅkarṣaṇera mūrti — govinda, viṣṇu, madhusūdana  
-e anya govinda — nahe vrajendra-nandana
+Saṅkarṣaṇa’s  forms  Govinda  Viṣṇu  Madhusūdana  
+e anya govinda — nahe vrajendra-nandana  
+this  another  Govinda  is not  the son of Vraja’s king
 
-(196) [not yet translated]
+(196) “Saṅkarṣaṇa’s forms are Govinda, Viṣṇu and Madhusūdana. This is another Govinda, not the son of the king of Vraja.
 
 প্রদ্যুম্নের মূর্ত্তি — ত্রিবিক্রম, বামন, শ্রীধর ৷  
 অনিরুদ্ধের মূর্ত্তি — হৃষীকেশ, পদ্মনাভ, দামোদর ॥ ১৯৭ ॥
 
 pradyumnera mūrti — trivikrama, vāmana, śrīdhara  
-aniruddhera mūrti — hṛṣīkeśa, padmanābha, dāmodara
+Pradyumna’s  forms  Trivikrama  Vāmana  Śrīdhara  
+aniruddhera mūrti — hṛṣīkeśa, padmanābha, dāmodara  
+Aniruddha’s  forms  Hṛṣīkeśa  Padmanābha  Dāmodara
 
-(197) [not yet translated]
+(197) “Pradyumna’s forms are Trivikrama, Vāmana and Śrīdhara; Aniruddha’s forms are Hṛṣīkeśa, Padmanābha and Dāmodara.
 
 দ্বাদশ-মাসের দেবতা — এই বার জন ৷  
 মার্গশীর্ষে — কেশব, পৌষে নারায়ণ ॥ ১৯৮ ॥
 
 dvādaśa-māsera devatā — ei bāra jana  
-mārgaśīrṣe — keśava, pauṣe nārāyaṇa
+of the twelve months  the Deities  these  twelve  persons  
+mārgaśīrṣe — keśava, pauṣe nārāyaṇa  
+in Mārgaśīrṣa  Keśava  in Pauṣa  Nārāyaṇa
 
-(198) [not yet translated]
+(198) “These twelve are the Deities of the twelve months: in Mārgaśīrṣa, Keśava; in Pauṣa, Nārāyaṇa;
 
 মাঘের দেবতা — মাধব, গোবিন্দ — ফাল্গুনে ৷  
 চৈত্রে — বিষ্ণু বৈশাখে — শ্রীমধুসূদনে ॥ ১৯৯ ॥
 
 māghera devatā — mādhava, govinda — phālgune  
-caitre — viṣṇu vaiśākhe — śrī-madhusūdane
+of Māgha  the Deity  Mādhava  Govinda  in Phālguna  
+caitre — viṣṇu vaiśākhe — śrī-madhusūdane  
+in Caitra  Viṣṇu  in Vaiśākha  Śrī Madhusūdana
 
-(199) [not yet translated]
+(199) “the Deity of Māgha is Mādhava, and of Phālguna, Govinda; in Caitra, Viṣṇu; in Vaiśākha, Śrī Madhusūdana;
 
 জ্যৈষ্ঠে — ত্রিবিক্রম, আষাঢ়ে — বামন দেবেশ ৷  
 শ্রাবণে — শ্রীধর, ভাদ্রে — দেব হৃষীকেশ ॥ ২০০ ॥
 
 jyaiṣṭhe — trivikrama, āṣāḍhe — vāmana deveśa  
-śrāvaṇe — śrīdhara, bhādre — deva hṛṣīkeśa
+in Jyaiṣṭha  Trivikrama  in Āṣāḍha  Vāmana  the Lord of the gods  
+śrāvaṇe — śrīdhara, bhādre — deva hṛṣīkeśa  
+in Śrāvaṇa  Śrīdhara  in Bhādra  Lord  Hṛṣīkeśa
 
-(200) [not yet translated]
+(200) “in Jyaiṣṭha, Trivikrama; in Āṣāḍha, Vāmana, the Lord of the gods; in Śrāvaṇa, Śrīdhara; in Bhādra, Lord Hṛṣīkeśa;
 
 আশ্বিনে — পদ্মনাভ, কার্ত্তিকে — দামোদর ৷  
 ‘রাধা-দামোদর’ অন্য ব্রজেন্দ্র-কোঙর ॥ ২০১ ॥
@@ -2305,7 +2453,7 @@ ananta avatāra kṛṣṇera, nāhika gaṇana
 অবতারা হ্যসংখ্যেয়া হরেঃ সত্ত্বনিধের্দ্বিজাঃ ৷  
 যথাবিদাসিনঃ কুল্যাঃ সরসঃ স্যুঃ সহস্রশঃ ॥ ২৪৯ ॥
 
-avatārā hy asaṅkhyeyā  
+avatārā hy asaṁkhyeyā  
 hareḥ sattva-nidher dvijāḥ  
 yathā vidāsinaḥ kulyāḥ  
 sarasaḥ syuḥ sahasraśaḥ
@@ -2495,7 +2643,7 @@ virajāra pāre paravyome nāhi gati
 রনুব্রতা যত্র সুরাসুরার্চ্চিতাঃ ॥ ২৭০ ॥
 
 pravartate yatra rajas tamas tayoḥ  
-sattvaṁ ca miśraṁ na ca kāla-vikramaḥ  
+sattvañ ca miśraṁ na ca kāla-vikramaḥ  
 na yatra māyā kim utāpare harer  
 anuvratā yatra surāsurārcitāḥ
 
@@ -2824,26 +2972,32 @@ of the guṇa-avatāras  now  hear  the account
 ব্রহ্মা, বিষ্ণু, শিব, — তিন গুণ-অবতার ৷  
 ত্রিগুণ অঙ্গীকরি’ করে সৃষ্ট্যাদি ব্যবহার ॥ ৩০১ ॥
 
-brahmā, viṣṇu, śiva, — tina guṇa avatāra  
-tri-guṇa aṅgīkari’ kare sṛṣṭy-ādi vyavahāra
+brahmā, viṣṇu, śiva, — tina guṇa-avatāra  
+Brahmā  Viṣṇu  Śiva  three  guṇa-avatāras  
+tri-guṇa aṅgīkari’ kare sṛṣṭy-ādi vyavahāra  
+the three guṇas  accepting  they carry out  creation and so on  the business
 
-(301) [not yet translated]
+(301) Brahmā, Viṣṇu and Śiva are the three *guṇa-avatāras*. Accepting the three *guṇas*, they carry out creation and the rest.
 
 ভক্তিমিশ্রকৃত-পুণ্যে কোন জীবোত্তম ৷  
 রজোগুণে বিভাবিত করি’ তাঁর মন ॥ ৩০২ ॥
 
 bhakti-miśra-kṛta-puṇye kona jīvottama  
-rajo-guṇe vibhāvita kari’ tāṅra mana
+with devotion  mixed  performed  through piety  some  excellent jīva  
+rajo-guṇe vibhāvita kari’ tāṅra mana  
+with rajo-guṇa  imbued  making  his  mind
 
-(302) [not yet translated]
+(302) Through piety mixed with devotion, some excellent *jīva* has his mind imbued with *rajo-guṇa*,
 
 গর্ভোদকশায়িদ্বারা শক্তি সঞ্চারি’ ৷  
 ব্যষ্টি সৃষ্টি করে কৃষ্ণ ব্রহ্মা-রূপ ধরি’ ॥ ৩০৩ ॥
 
 garbhodakaśāyi-dvārā śakti sañcāri’  
-vyaṣṭi sṛṣṭi kare kṛṣṇa brahmā-rūpa dhari’
+Garbhodakaśāyī  through  power  infusing  
+vyaṣṭi sṛṣṭi kare kṛṣṇa brahmā-rūpa dhari’  
+the individual  creation  makes  Kṛṣṇa  Brahmā’s  form  assuming
 
-(303) [not yet translated]
+(303) and, infusing His power into him through Garbhodakaśāyī, Kṛṣṇa assumes the form of Brahmā and brings forth the individual creation.
 
 ভাস্বান্ যথাশ্মসকলেষু নিজেষু তেজঃ  
 স্বীয়ং কিয়ৎ প্রকটয়ত্যপি তদ্বদত্র ৷  
@@ -2851,19 +3005,25 @@ vyaṣṭi sṛṣṭi kare kṛṣṇa brahmā-rūpa dhari’
 গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ৩০৪ ॥
 
 bhāsvān yathāśma-sakaleṣu nijeṣu tejaḥ  
+the sun  as  in stones  its own  radiance  
 svīyaṁ kiyat prakaṭayaty api tadvad atra  
+its own  some  manifests  also  likewise  here  
 brahmā ya eṣa jagad-aṇḍa-vidhāna-kartā  
-govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+Brahmā  who  this  of the universe  of the ordering  the maker  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
 
-(304) [not yet translated]
+(304) “As the sun displays something of its own radiance in certain gems that are its own, so here He becomes Brahmā, who orders the universe. I worship Govinda, that original Person.” (Brahma-saṁhitā, 5.49)
 
 কোন কল্পে যদি যোগ্য জীব নাহি পায় ৷  
 আপনে ঈশ্বর তবে অংশে ‘ব্রহ্মা’ হয় ॥ ৩০৫ ॥
 
 kona kalpe yadi yogya jīva nāhi pāya  
-āpane īśvara tabe aṁśe ‘brahmā’ haya
+in some  kalpa  if  a qualified  jīva  not  is found  
+āpane īśvara tabe aṁśe ‘brahmā’ haya  
+Himself  the Lord  then  by a part  Brahmā  becomes
 
-(305) [not yet translated]
+(305) If in some *kalpa* no qualified *jīva* is found, then the Lord Himself becomes Brahmā by His part.
 
 যস্যাঙ্ঘ্রিপঙ্কজরজোঽখিললোক-পালৈ-  
 র্মৌল্যুত্তমৈর্ধৃতমুপাসিত-তীর্থতীর্থম্ ৷  
@@ -2871,35 +3031,45 @@ kona kalpe yadi yogya jīva nāhi pāya
 শ্রীশ্চোদ্বহেম চিরমস্য নৃপাসনং ক্ব ॥ ৩০৬ ॥
 
 yasyāṅghri-paṅkaja-rajo ’khila-loka-pālair  
+whose  feet  lotus  the dust  of all  the worlds  by the guardians  
 mauly-uttamair dhṛtam upāsita-tīrtha-tīrtham  
+on heads  best  borne  the worshipped  of holy places  the holy place  
 brahmā bhavo ’ham api yasya kalāḥ kalāyāḥ  
-śrīś codvahema ciram asya nṛpāsanaṁ kva
+Brahmā  Śiva  I  also  whose  parts  of a part  
+śrīś codvahema ciram asya nṛpāsanaṁ kva  
+Śrī  and  we bear  ever  His  royal throne  what
 
-(306) [not yet translated]
+(306) (Baladeva said:) “The guardians of all the worlds bear on their crowned heads the dust of His lotus feet, the holiest of holy places; and Brahmā, Śiva, Lakṣmī and I Myself, mere parts of His part, carry it on our heads forever. What then is a king’s throne to Him?” (Śrīmad-Bhāgavatam, 10.68.37)
 
 নিজাংশ-কলায় কৃষ্ণ তমো-গুণ অঙ্গীকারে ৷  
 সংহারার্থে মায়াসঙ্গে রুদ্র-রূপ ধরে ॥ ৩০৭ ॥
 
 nijāṁśa-kalāya kṛṣṇa tamo-guṇa aṅgīkāre  
-saṁhārārthe māyā-saṅge rudra-rūpa dhare
+of His own part  by a kalā  Kṛṣṇa  tamo-guṇa  accepts  
+saṁhārārthe māyā-saṅge rudra-rūpa dhare  
+for destruction  in association with māyā  Rudra’s  form  assumes
 
-(307) [not yet translated]
+(307) By a *kalā* of His own part, Kṛṣṇa accepts *tamo-guṇa*, and for the sake of destruction, in association with māyā, He assumes the form of Rudra.
 
 মায়াসঙ্গ-বিকারে রুদ্র — ভিন্নাভিন্ন রূপ ৷  
 জীবতত্ত্ব হয়, নহে কৃষ্ণের ‘স্বরূপ’ ॥ ৩০৮ ॥
 
 māyā-saṅga-vikāre rudra — bhinnābhinna rūpa  
-jīva-tattva haya, nahe kṛṣṇera ‘svarūpa’
+of association with māyā  through the transformation  Rudra  different and non-different  a form  
+jīva-tattva haya, nahe kṛṣṇera ‘svarūpa’  
+jīva-tattva  is  not  Kṛṣṇa’s  svarūpa
 
-(308) [not yet translated]
+(308) Through the transformation caused by association with māyā, Rudra is a form both different and non-different. He is counted as *jīva-tattva*; he is not Kṛṣṇa’s own form (*svarūpa*).
 
 দুগ্ধ যেন অম্লযোগে দধিরূপ ধরে ৷  
 দুগ্ধান্তর বস্তু নহে, দুগ্ধ হৈতে নারে ॥ ৩০৯ ॥
 
 dugdha yena amla-yoge dadhi-rūpa dhare  
-dugdhāntara vastu nahe, dugdha haite nāre
+milk  as  through contact with a sour agent  of curd  the form  takes  
+dugdhāntara vastu nahe, dugdha haite nāre  
+other than milk  a thing  is not  milk  to be  cannot
 
-(309) [not yet translated]
+(309) As milk takes the form of curd through contact with a sour agent — curd is nothing other than milk, yet it cannot be milk.
 
 ক্ষীরং যথা দধি বিকারবিশেষযোগাৎ  
 সংজায়তে ন তু ততঃ পৃথগস্তি হেতোঃ ৷  
@@ -2907,55 +3077,73 @@ dugdhāntara vastu nahe, dugdha haite nāre
 গোবিন্দমাদিপুরুষং তমহং ভজামি ॥ ৩১০ ॥
 
 kṣīraṁ yathā dadhi vikāra-viśeṣa-yogāt  
+milk  as  curd  of a particular change  through contact  
 saṁjāyate na tu tataḥ pṛthag asti hetoḥ  
+becomes  not  yet  from that  separate  is  cause  
 yaḥ śambhutām api tathā samupaiti kāryād  
-govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+who  the state of Śambhu  also  likewise  attains  for a purpose  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
 
-(310) [not yet translated]
+(310) “As milk becomes curd through contact with a particular agent of change, yet the curd is not separate from its cause, so He, for a particular task, assumes the state of Śambhu (Śiva). I worship Govinda, that original Person.” (Brahma-saṁhitā, 5.45)
 
 ‘শিব’ — মায়াশক্তিসঙ্গী, তমোগুণাবেশ ৷  
 মায়াতীত, গুণাতীত ‘বিষ্ণু’ — পরমেশ ॥ ৩১১ ॥
 
 ‘śiva’ — māyā-śakti-saṅgī, tamo-guṇāveśa  
-māyātīta, guṇātīta ‘viṣṇu’ — parameśa
+Śiva  of māyā-śakti  the companion  absorbed in tamo-guṇa  
+māyātīta, guṇātīta ‘viṣṇu’ — parameśa  
+beyond māyā  beyond the guṇas  Viṣṇu  the Supreme Lord
 
-(311) [not yet translated]
+(311) Śiva is the companion of *māyā-śakti* and is absorbed in *tamo-guṇa*, whereas Viṣṇu, the Supreme Lord, is beyond māyā and beyond the *guṇas*.
 
 শিবঃ শক্তিযুক্তঃ শশ্বৎ ত্রিলিঙ্গো গুণসংবৃতঃ ৷  
 বৈকারিকস্তৈজসশ্চ তামসশ্চেত্যহং ত্রিধা ॥ ৩১২ ॥
 
 śivaḥ śakti-yuktaḥ śaśvat  
+Śiva  with śakti  united  eternally  
 tri-liṅgo guṇa-saṁvṛtaḥ  
+with three marks  by the guṇas  covered  
 vaikārikas taijasaś ca  
-tāmasaś cety ahaṁ tridhā
+vaikārika  taijasa  and  
+tāmasaś cety ahaṁ tridhā  
+tāmasa  and  thus  the ego  threefold
 
-(312) [not yet translated]
+(312) “Śiva is eternally united with *śakti*. Covered by the *guṇas*, he bears three marks: he is the threefold ego — *vaikārika*, *taijasa* and *tāmasa*.” (Śrīmad-Bhāgavatam, 10.88.3)
 
 হরির্হি নির্গুণঃ সাক্ষাৎ পুরুষঃ প্রকৃতেঃ পরঃ ৷  
 স সর্ব্বদৃগুপদ্রষ্টা তং ভজন্নির্গুণো ভবেৎ ॥ ৩১৩ ॥
 
 harir hi nirguṇaḥ sākṣāt  
+Hari  indeed  beyond the guṇas  directly  
 puruṣaḥ prakṛteḥ paraḥ  
+the Person  to prakṛti  transcendent  
 sa sarva-dṛg upadraṣṭā  
-taṁ bhajan nirguṇo bhavet
+He  all-seeing  the witness  
+taṁ bhajan nirguṇo bhavet  
+Him  worshipping  free of the guṇas  one becomes
 
-(313) [not yet translated]
+(313) “Hari is directly beyond the *guṇas*: He is the Person transcendent to *prakṛti*. He sees all and witnesses all. One who worships Him becomes free of the *guṇas*.” (Śrīmad-Bhāgavatam, 10.88.5)
 
 পালনার্থ স্বাংশ বিষ্ণুরূপে অবতার ৷  
 সত্ত্বগুণ-দ্রষ্টা, তাতে গুণমায়া-পার ॥ ৩১৪ ॥
 
 pālanārtha svāṁśa viṣṇu-rūpe avatāra  
-sattva-guṇa draṣṭā, tāte guṇa-māyā-pāra
+for maintenance  His own part  in the form of Viṣṇu  descent  
+sattva-guṇa-draṣṭā, tāte guṇa-māyā-pāra  
+of sattva-guṇa  the overseer  therefore  the guṇa-māyā  beyond
 
-(314) [not yet translated]
+(314) For maintenance He descends as His own part (*svāṁśa*) in the form of Viṣṇu. He is the overseer of *sattva-guṇa*, and therefore He is beyond the māyā of the *guṇas*.
 
 স্বরূপ — ঐশ্বর্য্যপূর্ণ, কৃষ্ণসম প্রায় ৷  
 কৃষ্ণ অংশী, তিঁহো অংশ, বেদে হেন গায় ॥ ৩১৫ ॥
 
 svarūpa — aiśvarya-pūrṇa, kṛṣṇa-sama prāya  
-kṛṣṇa aṁśī, tiṅho aṁśa, vede hena gāya
+His nature  full of majesty  equal to Kṛṣṇa  almost  
+kṛṣṇa aṁśī, tiṅho aṁśa, vede hena gāya  
+Kṛṣṇa  the whole  He  a part  in the Vedas  so  they sing
 
-(315) [not yet translated]
+(315) By nature He is full of majesty, almost equal to Kṛṣṇa. Kṛṣṇa is the whole (*aṁśī*), and He is a part (*aṁśa*) — so the Vedas sing.
 
 দীপার্চ্চিরেব হি দশান্তরমভ্যুপেত্য  
 দীপায়তে বিবৃতহেতুসমানধর্ম্মা ৷  
@@ -2963,213 +3151,275 @@ kṛṣṇa aṁśī, tiṅho aṁśa, vede hena gāya
 গোবিন্দমাদি পুরুষং তমহং ভজামি ॥ ৩১৬ ॥
 
 dīpārcir eva hi daśāntaram abhyupetya  
+the flame of a lamp  indeed  surely  another wick  having reached  
 dīpāyate vivṛta-hetu-samāna-dharmā  
+shines as a lamp  with its manifest cause  of the same qualities  
 yas tādṛg eva hi ca viṣṇutayā vibhāti  
-govindam ādi-puruṣaṁ tam ahaṁ bhajāmi
+who  just so  indeed  and  as Viṣṇu  shines forth  
+govindam ādi-puruṣaṁ tam ahaṁ bhajāmi  
+Govinda  the original  Person  Him  I  worship
 
-(316) [not yet translated]
+(316) “As the flame of one lamp, passing to another wick, shines as a lamp with the same qualities as the lamp it came from, so He shines forth as Viṣṇu. I worship Govinda, that original Person.” (Brahma-saṁhitā, 5.46)
 
 ব্রহ্মা, শিব — আজ্ঞাকারী ভক্ত-অবতার ৷  
 পালনার্থে বিষ্ণু — কৃষ্ণের স্বরূপ-আকার ॥ ৩১৭ ॥
 
 brahmā, śiva — ājñā-kārī bhakta-avatāra  
-pālanārthe viṣṇu — kṛṣṇera svarūpa-ākāra
+Brahmā  Śiva  orders  carrying out  bhakta-avatāras  
+pālanārthe viṣṇu — kṛṣṇera svarūpa-ākāra  
+for maintenance  Viṣṇu  Kṛṣṇa’s  own  form
 
-(317) [not yet translated]
+(317) Brahmā and Śiva are *bhakta-avatāras* who carry out His orders, while Viṣṇu, who maintains the world, is Kṛṣṇa’s own form (*svarūpa*).
 
 সৃজামি তন্নিয়ুক্তোঽহং হরো হরতি তদ্বশঃ ৷  
 বিশ্বং পুরুষরূপেণ পরিপাতি ত্রিশক্তিধৃক্ ॥ ৩১৮ ॥
 
 sṛjāmi tan-niyukto ’haṁ  
+I create  by Him  appointed  I  
 haro harati tad-vaśaḥ  
+Hara  destroys  under His control  
 viśvaṁ puruṣa-rūpeṇa  
-paripāti tri-śakti-dhṛk
+the universe  in the form of the Puruṣa  
+paripāti tri-śakti-dhṛk  
+maintains  three  potencies  the bearer of
 
-(318) [not yet translated]
+(318) “Appointed by Him, I create; under His control Hara (Śiva) destroys; and He, the bearer of the three potencies, maintains the universe in the form of the Puruṣa.” (Śrīmad-Bhāgavatam, 2.6.32)
 
 মন্বন্তরাবতার এবে শুন, সনাতন ৷  
 অসংখ্য গণন তাঁর, শুনহ কারণ ॥ ৩১৯ ॥
 
 manvantarāvatāra ebe śuna, sanātana  
-asaṅkhya gaṇana tāṅra, śunaha kāraṇa
+the manvantara-avatāras  now  hear  Sanātana  
+asaṅkhya gaṇana tāṅra, śunaha kāraṇa  
+countless  the number  of them  hear  the reason
 
-(319) [not yet translated]
+(319) Now, Sanātana, hear about the *manvantara-avatāras*. Their number is countless — hear the reason.
 
 ব্রহ্মার একদিনে হয় চৌদ্দ মন্বন্তর ৷  
 এ চৌদ্দ অবতার তাঁহা করেন ঈশ্বর ॥ ৩২০ ॥
 
 brahmāra eka-dine haya caudda manvantara  
-e caudda avatāra tāṅhā karena īśvara
+Brahmā’s  in one day  there are  fourteen  manvantaras  
+e caudda avatāra tāṅhā karena īśvara  
+these  fourteen  avatāras  there  makes  the Lord
 
-(320) [not yet translated]
+(320) In one day of Brahmā there are fourteen *manvantaras*, and in them the Lord brings forth these fourteen avatāras.
 
 চৌদ্দ এক দিনে, মাসে চারিশত বিশ ৷  
 ব্রহ্মার বৎসরে পঞ্চসহস্র চল্লিশ ॥ ৩২১ ॥
 
 caudda eka dine, māse cāri-śata biśa  
-brahmāra vatsare pañca-sahasra calliśa
+fourteen  in one  day  in a month  four hundred  twenty  
+brahmāra vatsare pañca-sahasra calliśa  
+Brahmā’s  in a year  five thousand  forty
 
-(321) [not yet translated]
+(321) Fourteen in one day, four hundred and twenty in a month, and five thousand and forty in a year of Brahmā.
 
 শতেক বৎসর হয় ‘জীবন’ ব্রহ্মার ৷  
 পঞ্চলক্ষ চারিসহস্র মন্বন্তরাবতার ॥ ৩২২ ॥
 
 śateka vatsara haya ‘jīvana’ brahmāra  
-pañca-lakṣa cāri-sahasra manvantarāvatāra
+a hundred  years  is  the life  of Brahmā  
+pañca-lakṣa cāri-sahasra manvantarāvatāra  
+five hundred thousand  four thousand  manvantara-avatāras
 
-(322) [not yet translated]
+(322) Brahmā’s life lasts a hundred years; so there are 504,000 *manvantara-avatāras*.
 
 অনন্ত ব্রহ্মাণ্ডে ঐছে করহ গণন ৷  
 মহাবিষ্ণুর একশ্বাসে ব্রহ্মার জীবন ॥ ৩২৩ ॥
 
 ananta brahmāṇḍe aiche karaha gaṇana  
-mahā-viṣṇura eka-śvāse brahmāra jīvana
+in the endless  universes  thus  make  the count  
+mahā-viṣṇura eka-śvāse brahmāra jīvana  
+of Mahā-Viṣṇu  in one breath  of Brahmā  the life
 
-(323) [not yet translated]
+(323) Count them in this way in the endless universes — and Brahmā’s whole life lasts but one breath of Mahā-Viṣṇu.
 
 মহাবিষ্ণুর নিশ্বাসের নাহিক পর্য্যন্ত ৷  
 এক মন্বন্তরাবতারের দেখ লেখার অন্ত ॥ ৩২৪ ॥
 
 mahā-viṣṇura niśvāsera nāhika paryanta  
-eka manvantarāvatārera dekha lekhāra anta
+of Mahā-Viṣṇu  of the breaths  there is no  limit  
+eka manvantarāvatārera dekha lekhāra anta  
+of the manvantara-avatāras alone  see  of the writing  the end
 
-(324) [not yet translated]
+(324) There is no limit to Mahā-Viṣṇu’s breaths. See, then, how there could be an end to writing of the *manvantara-avatāras* alone!
 
 স্বায়ম্ভুবে ‘যজ্ঞ’, স্বারোচিষে ‘বিভু’ নাম ৷  
 উত্তমে ‘সত্যসেন’, তামসে ‘হরি’ অভিধান ॥ ৩২৫ ॥
 
 svāyambhuve ‘yajña’, svārociṣe ‘vibhu’ nāma  
-uttame ‘satyasena’, tāmase ‘hari’ abhidhāna
+in Svāyambhuva  Yajña  in Svārociṣa  Vibhu  by name  
+uttame ‘satyasena’, tāmase ‘hari’ abhidhāna  
+in Uttama  Satyasena  in Tāmasa  Hari  the name
 
-(325) [not yet translated]
+(325) In the Svāyambhuva *manvantara* the avatāra is named Yajña; in the Svārociṣa, Vibhu; in the Uttama, Satyasena; and in the Tāmasa, Hari.
 
 রৈবতে ‘বৈকুণ্ঠ’, চাক্ষুষে ‘অজিত’, বৈবস্বতে ‘বামন’ ৷  
 সাবর্ণ্যে ‘সার্ব্বভৌম’, দক্ষসাবর্ণ্যে ‘ঋষভ’ গণন ॥ ৩২৬ ॥
 
 raivate ‘vaikuṇṭha’, cākṣuṣe ‘ajita’, vaivasvate ‘vāmana’  
-sāvarṇye ‘sārvabhauma’, dakṣa-sāvarṇye ‘ṛṣabha’ gaṇana
+in Raivata  Vaikuṇṭha  in Cākṣuṣa  Ajita  in Vaivasvata  Vāmana  
+sāvarṇye ‘sārvabhauma’, dakṣa-sāvarṇye ‘ṛṣabha’ gaṇana  
+in Sāvarṇya  Sārvabhauma  in Dakṣa-sāvarṇya  Ṛṣabha  is counted
 
-(326) [not yet translated]
+(326) In the Raivata, Vaikuṇṭha; in the Cākṣuṣa, Ajita; in the Vaivasvata, Vāmana; in the Sāvarṇya, Sārvabhauma; and in the Dakṣa-sāvarṇya, Ṛṣabha is counted.
 
 ব্রহ্মসাবর্ণ্যে ‘বিষ্বক্সেন’, ‘ধর্ম্মসেতু’ ধর্ম্মসাবর্ণ্যে ৷  
 রুদ্রসাবর্ণ্যে ‘সুধামা’, ‘যোগেশ্বর’ দেবসাবর্ণ্যে ॥ ৩২৭ ॥
 
 brahma-sāvarṇye ‘viṣvaksena’, ‘dharmasetu’ dharma-sāvarṇye  
-rudra-sāvarṇye ‘sudhāmā’, ‘yogeśvara’ deva-sāvarṇye
+in Brahma-sāvarṇya  Viṣvaksena  Dharmasetu  in Dharma-sāvarṇya  
+rudra-sāvarṇye ‘sudhāmā’, ‘yogeśvara’ deva-sāvarṇye  
+in Rudra-sāvarṇya  Sudhāmā  Yogeśvara  in Deva-sāvarṇya
 
-(327) [not yet translated]
+(327) In the Brahma-sāvarṇya, Viṣvaksena; in the Dharma-sāvarṇya, Dharmasetu; in the Rudra-sāvarṇya, Sudhāmā; and in the Deva-sāvarṇya, Yogeśvara.
 
 ইন্দ্রসাবর্ণ্যে ‘বৃহদ্ভানু’ অভিধান ৷  
 এই চৌদ্দ মন্বন্তরে চৌদ্দ ‘অবতার’ নাম ॥ ৩২৮ ॥
 
 indra-sāvarṇye ‘bṛhadbhānu’ abhidhāna  
-ei caudda manvantare caudda ‘avatāra’ nāma
+in Indra-sāvarṇya  Bṛhadbhānu  the name  
+ei caudda manvantare caudda ‘avatāra’ nāma  
+these  in the fourteen  manvantaras  of the fourteen  avatāras  the names
 
-(328) [not yet translated]
+(328) In the Indra-sāvarṇya the name is Bṛhadbhānu. These are the names of the fourteen avatāras in the fourteen *manvantaras*.
 
 যুগাবতার এবে শুন, সনাতন ৷  
 সত্য-ত্রেতা-দ্বাপর-কলি যুগের গণন ॥ ৩২৯ ॥
 
 yugāvatāra ebe śuna, sanātana  
-satya-tretā-dvāpara-kali-yugera gaṇana
+the yuga-avatāras  now  hear  Sanātana  
+satya-tretā-dvāpara-kali yugera gaṇana  
+Satya  Tretā  Dvāpara  Kali  of the yugas  the counting
 
-(329) [not yet translated]
+(329) Now, Sanātana, hear about the *yuga-avatāras*. The *yugas* are counted as Satya, Tretā, Dvāpara and Kali.
 
 শুক্ল-রক্ত কৃষ্ণ-পীত — ক্রমে চারি বর্ণ ৷  
 চারি বর্ণ ধরি’ কৃষ্ণ করেন যুগধর্ম্ম ॥ ৩৩০ ॥
 
-śukla-rakta-kṛṣṇa-pīta — krame cāri varṇa  
-cāri varṇa dhari’ kṛṣṇa karena yuga-dharma
+śukla-rakta kṛṣṇa-pīta — krame cāri varṇa  
+white  red  black  yellow  in turn  four  colours  
+cāri varṇa dhari’ kṛṣṇa karena yuga-dharma  
+four  colours  assuming  Kṛṣṇa  establishes  the dharma of the age
 
-(330) [not yet translated]
+(330) White, red, black and yellow — these are the four colours in turn. Assuming these four colours, Kṛṣṇa establishes the dharma of each age.
 
 আসন্ বর্ণাস্ত্রয়ো হ্যস্য গৃহ্ণতোঽনুযুগং তনূঃ ৷  
 শুক্লো রক্তস্তথা পীত ইদানীং কৃষ্ণতাং গতঃ ॥ ৩৩১ ॥
 
 āsan varṇās trayo hy asya  
+there were  colours  three  indeed  of Him  
 gṛhṇato ’nu-yugaṁ tanūḥ  
+accepting  in each age  bodies  
 śuklo raktas tathā pīta  
-idānīṁ kṛṣṇatāṁ gataḥ
+white  red  likewise  yellow  
+idānīṁ kṛṣṇatāṁ gataḥ  
+now  blackness  has attained
 
-(331) [not yet translated]
+(331) “Your son, who accepts a body in every age, has appeared in three colours — white, red and yellow; now He has become dark (*kṛṣṇa*).” (Śrīmad-Bhāgavatam, 10.8.13)
 
 সত্যযুগে ধ্যান-ধর্ম্ম করায় ‘শুক্লমূর্ত্তি ধরি’ ৷  
 কর্দ্দমকে বর দিলা যিঁহো কৃপা করি’ ॥ ৩৩২ ॥
 
-satya-yuge dhyāna-dharma karāya ‘śukla’-mūrti dhari’  
-kardamake vara dilā yiṅho kṛpā kari’
+satya-yuge dhyāna-dharma karāya ‘śukla-mūrti dhari’  
+in Satya-yuga  the dharma of meditation  He causes to practise  a white form  assuming  
+kardamake vara dilā yiṅho kṛpā kari’  
+to Kardama  a boon  gave  who  mercy  showing
 
-(332) [not yet translated]
+(332) In Satya-yuga, assuming a white form, He has people practise the dharma of meditation. It was He who mercifully gave Kardama a boon.
 
 কৃষ্ণ-‘ধ্যান’ করে লোক জ্ঞান-অধিকারী ৷  
 ত্রেতার ধর্ম্ম ‘যজ্ঞ’ করায় ‘রক্ত’-বর্ণ ধরি’ ॥ ৩৩৩ ॥
 
-kṛṣṇa ‘dhyāna’ kare loka jñāna-adhikārī  
-tretāra dharma ‘yajña’ karāya ‘rakta’ varṇa dhari’
+kṛṣṇa-‘dhyāna’ kare loka jñāna-adhikārī  
+on Kṛṣṇa  meditation  perform  people  qualified for knowledge  
+tretāra dharma ‘yajña’ karāya ‘rakta’-varṇa dhari’  
+of Tretā  the dharma  sacrifice  He causes to perform  red  colour  assuming
 
-(333) [not yet translated]
+(333) People qualified for knowledge meditate on Kṛṣṇa. Assuming a red colour, He has people perform sacrifice (*yajña*), the dharma of Tretā.
 
 ‘কৃষ্ণপদার্চ্চন’ হয় দ্বাপরের ধর্ম্ম ৷  
 ‘কৃষ্ণ’-বর্ণে করায় লোকে কৃষ্ণার্চ্চন-কর্ম্ম ॥ ৩৩৪ ॥
 
 ‘kṛṣṇa-padārcana’ haya dvāparera dharma  
-‘kṛṣṇa’ varṇe karāya loke kṛṣṇārcana-karma
+the worship of Kṛṣṇa’s feet  is  of Dvāpara  the dharma  
+‘kṛṣṇa’-varṇe karāya loke kṛṣṇārcana-karma  
+in the dark colour  He causes to perform  the people  of Kṛṣṇa’s worship  the activity
 
-(334) [not yet translated]
+(334) The worship of Kṛṣṇa’s feet is the dharma of Dvāpara. In a dark (*kṛṣṇa*) colour He has people perform the worship of Kṛṣṇa.
 
 দ্বাপরে ভগবান্ শ্যামঃ পীতবাসা নিজায়ুধঃ ৷  
 শ্রীবৎসাদিভিরঙ্কৈশ্চ লক্ষণৈরুপলক্ষিতঃ ॥ ৩৩৫ ॥
 
 dvāpare bhagavān śyāmaḥ  
+in Dvāpara  the Lord  dark  
 pīta-vāsā nijāyudhaḥ  
+in yellow garments  with His own weapons  
 śrī-vatsādibhir aṅkaiś ca  
-lakṣaṇair upalakṣitaḥ
+by Śrīvatsa and the rest  by marks  and  
+lakṣaṇair upalakṣitaḥ  
+by characteristics  distinguished
 
-(335) [not yet translated]
+(335) “In Dvāpara the Lord is dark, clad in yellow and bearing His own weapons, and He is known by the Śrīvatsa and other marks and characteristics.” (Śrīmad-Bhāgavatam, 11.5.27)
 
 নমস্তে বাসুদেবায় নমঃ সঙ্কর্ষণায় চ ৷  
 প্রদ্যুম্নায়ানিরুদ্ধায় তুভ্যং ভগবতে নমঃ ॥ ৩৩৬ ॥
 
 namas te vāsudevāya  
+obeisance  to You  to Vāsudeva  
 namaḥ saṅkarṣaṇāya ca  
+obeisance  to Saṅkarṣaṇa  and  
 pradyumnāyāniruddhāya  
-tubhyaṁ bhagavate namaḥ
+to Pradyumna  to Aniruddha  
+tubhyaṁ bhagavate namaḥ  
+to You  to Bhagavān  obeisance
 
-(336) [not yet translated]
+(336) “Obeisance to You, Vāsudeva, and obeisance to Saṅkarṣaṇa, Pradyumna and Aniruddha — to You, Bhagavān, obeisance.” (Śrīmad-Bhāgavatam, 11.5.29)
 
 এই মন্ত্রে দ্বাপরে করে কৃষ্ণার্চ্চন ৷  
 ‘কৃষ্ণনামসংকীর্ত্তন’ — কলিযুগের ধর্ম্ম ॥ ৩৩৭ ॥
 
 ei mantre dvāpare kare kṛṣṇārcana  
-‘kṛṣṇa-nāma-saṁkīrtana’ — kali-yugera dharma
+with this  mantra  in Dvāpara  they perform  the worship of Kṛṣṇa  
+‘kṛṣṇa-nāma-saṁkīrtana’ — kali-yugera dharma  
+of Kṛṣṇa’s  name  the congregational chanting  of Kali-yuga  the dharma
 
-(337) [not yet translated]
+(337) With this mantra people worship Kṛṣṇa in Dvāpara. The congregational chanting of Kṛṣṇa’s name (*saṅkīrtana*) is the dharma of Kali-yuga.
 
 ‘পীত’-বর্ণ ধরি’ তবে কৈলা প্রবর্ত্তন ৷  
 প্রেমভক্তি দিলা লোকে লঞা ভক্তগণ ॥ ৩৩৮ ॥
 
-‘pīta’ varṇa dhari’ tabe kailā pravartana  
-prema-bhakti dilā loke lañā bhakta-gaṇa
+‘pīta’-varṇa dhari’ tabe kailā pravartana  
+yellow  colour  assuming  then  He established  
+prema-bhakti dilā loke lañā bhakta-gaṇa  
+loving devotion  He gave  to people  taking along  His devotees
 
-(338) [not yet translated]
+(338) Then, assuming a yellow colour, He established it, and with His devotees He gave people loving devotion (*prema-bhakti*).
 
 ধর্ম্ম প্রবর্ত্তন করে ব্রজেন্দ্রনন্দন ৷  
 প্রেমে গায় নাচে লোক করে সঙ্কীর্ত্তন ॥ ৩৩৯ ॥
 
 dharma pravartana kare vrajendra-nandana  
-preme gāya nāce loka kare saṅkīrtana
+dharma  establishing  makes  the son of the king of Vraja  
+preme gāya nāce loka kare saṅkīrtana  
+in love  sing  dance  the people  perform  saṅkīrtana
 
-(339) [not yet translated]
+(339) The son of the king of Vraja establishes the dharma, and in love the people sing and dance and perform *saṅkīrtana*.
 
 কৃষ্ণবর্ণং ত্বিষাঽকৃষ্ণং সাঙ্গোপাঙ্গাস্ত্রপার্ষদম্ ৷  
 যজ্ঞৈঃ সঙ্কীর্ত্তন-প্রায়ৈর্যজন্তি হি সুমেধসঃ ॥ ৩৪০ ॥
 
 kṛṣṇa-varṇaṁ tviṣā ’kṛṣṇaṁ  
+Kṛṣṇa  describing (or: with the syllables ‘Kṛṣ-ṇa’)  by lustre  not dark  
 sāṅgopāṅgāstra-pārṣadam  
+with limbs,  sub-limbs,  weapons  and associates  
 yajñaiḥ saṅkīrtana-prāyair  
-yajanti hi su-medhasaḥ
+by sacrifices  in which saṅkīrtana  predominates  
+yajanti hi su-medhasaḥ  
+they worship  indeed  the intelligent
 
-(340) [not yet translated]
+(340) “With sacrifices in which congregational chanting predominates, the wise worship the Lord who ever sings of Kṛṣṇa and whose lustre is not dark. He is always surrounded by His intimate companions (*aṅga*), His devotees (*upāṅga*), His weapons and His associates (*pārṣada*).” (Śrīmad-Bhāgavatam, 11.5.32)
 
 আর তিনযুগে ধ্যানাদিতে যেই ফল হয় ৷  
 কলিযুগে কৃষ্ণনামে সেই ফল পায় ॥ ৩৪১ ॥
