@@ -148,7 +148,7 @@ by some  means  the king  if  with me  angry  becomes
 tabe avyāhati haya, karilum̐ niścaya  
 then  release  will be  I have made  decision
 
-(14) If somehow the king becomes angry with me, I shall be released. So I have decided.”
+(14) If somehow the king grows angry with me, I shall be released. That is my resolve.”
 
 অস্বাস্থ্যের ছদ্ম করি’ রহে নিজ-ঘরে ৷  
 রাজকার্য্য ছাড়িলা, না যায় রাজদ্বারে ॥ ১৫ ॥
@@ -178,7 +178,7 @@ bhaṭṭācāryas  paṇḍitas  twenty  thirty  gathering
 bhāgavata vicāra karena sabhāte vasiyā  
 the Bhāgavata  study  makes  in the assembly  sitting
 
-(17) Gathering twenty or thirty learned bhaṭṭācāryas and paṇḍitas, he would sit in assembly with them and study the Bhāgavata.
+(17) Gathering twenty or thirty learned bhaṭṭācāryas and paṇḍitas, he would sit in assembly with them and study the *Bhāgavata*.
 
 আর দিন গৌড়েশ্বর, সঙ্গে একজন ৷  
 আচম্বিতে গোসাঞি-সভাতে কৈল আগমন ॥ ১৮ ॥
@@ -662,7 +662,7 @@ within  surging  love  not  restrained
 dekhi’ camatkāra haila vallabha-bhaṭṭera mana  
 seeing  amazed  became  Vallabha Bhaṭṭa’s  mind
 
-(64) Yet within Him love was surging and could not be held back, and seeing this, Vallabha Bhaṭṭa was amazed.
+(64) Yet within, His love was seething and could not be restrained, and Vallabha Bhaṭṭa was amazed at heart to see it.
 
 তবে ভট্ট মহাপ্রভুরে নিমন্ত্রণ কৈলা ৷  
 মহাপ্রভু দুইভাই তাঁহারে মিলাইলা ॥ ৬৫ ॥
@@ -712,7 +712,7 @@ him  not  touch  he  by birth  very low
 vaidika, yājñika tumi kulīna pravīṇa!  
 a Vedic scholar  a performer of sacrifices  you  of noble family  learned
 
-(69) “Do not touch him; he is of very low birth! You are a Vedic scholar and a performer of sacrifices, of noble family and learned!”
+(69) “Do not touch him; he is of very low birth! And you are a Vedic scholar, a performer of sacrifices, learned and of noble family!”
 
 ইঁহার মুখে নিরন্তর কৃষ্ণনাম শুনি’ ৷  
 ভট্ট কহে, প্রভুর কিছু ইঙ্গিত-ভঙ্গী জানি’ ॥ ৭০ ॥
@@ -846,7 +846,7 @@ Mahāprabhu’s  under the weight  the boat  makes  rocking
 ḍubite lāgila naukā, jhalake bhare jala  
 to sink  began  the boat  in gushes  fills  water
 
-(81) Under Mahāprabhu’s weight the boat rocked to and fro; it began to sink, filling with water in gushes.
+(81) Under Mahāprabhu’s weight the boat rocked to and fro, and as water gushed in, it began to sink.
 
 যদ্যপি ভট্টের আগে প্রভুর ধৈর্য্য হৈল মন ৷  
 দুর্ব্বার উদ্ভট প্রেম নহে সম্বরণ ॥ ৮২ ॥
@@ -1006,7 +1006,7 @@ I  here  Nanda  worship  in whose courtyard  the Supreme  Brahman
 raghupati upādhyāya namaskāra kaila  
 Raghupati  Upādhyāya  obeisance  made
 
-(97) When the Lord said, “Speak on,” Upādhyāya spoke again; Raghupati Upādhyāya offered his obeisances.[^19]
+(97) When the Lord said, “Speak on,” Upādhyāya continued, and Raghupati Upādhyāya bowed down before Him.[^19]
 
 কম্প্রতি কথয়িতুমীশে সম্প্রতি কো বা প্রতীতিমায়াতু ৷  
 গোপতি-তনয়াকুঞ্জে গোপবধূটী-বিটং ব্রহ্ম ॥ ৯৮ ॥
@@ -1190,7 +1190,7 @@ the truth of Kṛṣṇa  the truth of devotion  of the truth of rasa  the furth
 saba śikhāila prabhu bhāgavata-siddhānta  
 all  taught  the Lord  the conclusions of the Bhāgavata
 
-(115) The Lord taught him everything: the truth of Kṛṣṇa, the truth of devotion and the truth of rasa to its furthest limit — the conclusions of the Bhāgavata.
+(115) The Lord taught him everything: the truth of Kṛṣṇa, the truth of devotion and the truth of rasa to its furthest limit — the conclusions of the *Bhāgavata*.
 
 রামানন্দ-পাশে যত সিদ্ধান্ত শুনিলা ৷  
 রূপে কৃপা করি’ তাহা সব সঞ্চারিলা ॥ ১১৬ ॥
@@ -1210,7 +1210,7 @@ into Śrī Rūpa’s heart  the Lord  power  infused
 sarva-tattva nirūpiyā ‘pravīṇa’ karilā  
 all truths  revealing  ‘expert’  He made
 
-(117) The Lord infused His power into Śrī Rūpa’s heart and, revealing every truth to him, made him an expert.
+(117) The Lord infused His power into Śrī Rūpa’s heart and, revealing every truth to him, made him a master of them all.
 
 শিবানন্দ-সেনের পুত্র ‘কবিকর্ণপূর’ ৷  
 ‘রূপের মিলন’ স্ব-গ্রন্থে লিখিয়াছেন প্রচুর ॥ ১১৮ ॥
@@ -1288,7 +1288,7 @@ Mahāprabhu’s  as many  great  great  devotees  all
 rūpa-sanātana — sabāra kṛpā-gaurava-pātra  
 Rūpa and Sanātana  of all  of affection and esteem  the objects
 
-(123) Rūpa and Sanātana were the objects of the affection and esteem of all Mahāprabhu’s great devotees.
+(123) Every one of Mahāprabhu’s great devotees held Rūpa and Sanātana in affection and esteem.
 
 কেহ যদি দেশে যায় দেখি’ বৃন্দাবন ৷  
 তাঁরে প্রশ্ন করেন প্রভুর পারিষদগণ ॥ ১২৪ ॥
@@ -1308,7 +1308,7 @@ tell  there  how  live  Rūpa and Sanātana
 kaiche rahe, kaiche vairāgya, kaiche bhojana?  
 how  they live  how  renunciation  how  eating
 
-(125) “Tell us, how do Rūpa and Sanātana live there? How do they live, what is their renunciation like, what do they eat?
+(125) “Tell us, how are Rūpa and Sanātana faring there? How do they live, what is their renunciation like, what do they eat?
 
 কৈছে অষ্টপ্রহর করেন শ্রীকৃষ্ণ-ভজন ?’’  
 তবে প্রশংসিয়া কহে সেই ভক্তগণ ॥ ১২৬ ॥
@@ -1328,7 +1328,7 @@ without dwelling  both  in the forest  as many  trees
 eka eka vṛkṣera tale eka eka rātri śayana  
 one  one  tree  under  one  one  night  sleeping
 
-(127) “They have no dwelling. Of all the trees in the forest, they sleep under each tree for one night only.
+(127) “They have no dwelling. They sleep under the trees of the forest, under each tree for one night only.
 
 ‘বিপ্রগৃহে’ স্থূলভিক্ষা, কাঁহা মাধুকরী ৷  
 শুষ্ক রুটী-চানা চিবায় ভোগ পরিহরি’ ॥ ১২৮ ॥
@@ -1348,7 +1348,7 @@ a water pot  only  in the hand  a patched quilt  torn  outer cloth
 kṛṣṇa-kathā, kṛṣṇa-nāma, nartana-ullāsa  
 Kṛṣṇa  talks  Kṛṣṇa’s  name  of dancing  jubilation
 
-(129) “They carry nothing in their hands but a water pot; they have a patched quilt and a torn outer cloth. Talks of Kṛṣṇa, the name of Kṛṣṇa and jubilant dancing are their life.
+(129) They carry nothing in their hands but a water pot; they have a patched quilt and a torn outer cloth. Talks of Kṛṣṇa, the name of Kṛṣṇa and jubilant dancing are their life.
 
 অষ্টপ্রহর কৃষ্ণভজন, চারি দণ্ড শয়নে ৷  
 নাম-সংকীর্ত্তন-প্রেমে, সেহ নহে কোন দিনে ॥ ১৩০ ॥
@@ -1358,7 +1358,7 @@ eight praharas  Kṛṣṇa  worship  four  daṇḍas  in sleep
 nāma-saṁkīrtana-preme, seha nahe kona dine  
 of the name  saṅkīrtana  in love  even that  is not  on some  days
 
-(130) “Throughout the eight *praharas* of day and night they worship Kṛṣṇa, sleeping only four *daṇḍas* — and on some days, in their love for the congregational chanting of the name, not even that.
+(130) Throughout the eight *praharas* of day and night they worship Kṛṣṇa, sleeping only four *daṇḍas* — and on some days, in their love for the congregational chanting of the name, not even that.
 
 কভু ভক্তিরসশাস্ত্র করয়ে লিখন ৷  
 চৈতন্যকথা শুনে, করে চৈতন্য-চিন্তন’’ ॥ ১৩১ ॥
@@ -1368,7 +1368,7 @@ sometimes  on bhakti-rasa  scriptures  they do  writing
 caitanya-kathā śune, kare caitanya-cintana”  
 about Caitanya  talks  they hear  they do  on Caitanya  meditation
 
-(131) “Sometimes they write scriptures on the *rasa* of devotion; they hear talks about Caitanya and meditate on Him.”
+(131) Sometimes they write scriptures on the rasa of devotion; they hear talks about Caitanya and meditate on Him.”
 
 এইকথা শুনি’ মহান্তের মহাসুখ হয় ৷  
 চৈতন্যের কৃপা যাঁহে, তাঁহে কি বিস্ময় ? ॥ ১৩২ ॥
@@ -1418,7 +1418,7 @@ the Lord  says  hear  Rūpa  of bhakti-rasa  the characteristics
 sūtra-rūpe kahi, vistāra nā yāya varṇana  
 in the form of sūtras  I speak  in full  not  can be  described
 
-(136) The Lord said: “Listen, Rūpa, to the characteristics of *bhakti-rasa*. I shall speak of it briefly, in the form of *sūtras*; it cannot be described in full.
+(136) The Lord said: “Listen, Rūpa, to the characteristics of bhakti-rasa. I shall speak of it briefly, in the form of sūtras; it cannot be described in full.
 
 পারাপার-শূন্য গভীর ভক্তিরস-সিন্ধু ৷  
 তোমায় চাখাইতে তার কহি এক ‘বিন্দু’ ॥ ১৩৭ ॥
@@ -1428,7 +1428,7 @@ without near or far shore  deep  of bhakti-rasa  the ocean
 tomāya cākhāite tāra kahi eka ‘bindu’  
 you  to give a taste  of it  I tell  one  drop
 
-(137) “The ocean of *bhakti-rasa* is deep and has no shore on either side. To give you a taste of it, I shall tell you of a single drop.
+(137) The ocean of bhakti-rasa is deep and has no shore on either side. To give you a taste of it, I shall tell you of a single drop.
 
 এইমত ব্রহ্মাণ্ড ভরি’ অনন্ত জীবগণ ৷  
 চৌরাশী-লক্ষ যোনিতে করয়ে ভ্রমণ ॥ ১৩৮ ॥
@@ -1438,7 +1438,7 @@ thus  the universe  filling  countless  jīvas
 caurāśī-lakṣa yonite karaye bhramaṇa  
 of eighty-four lakhs  in species  they do  wandering
 
-(138) “Countless *jīvas* fill the universe, wandering through the 8,400,000 species of life.
+(138) Countless jīvas fill the universe, wandering through the 8,400,000 species of life.
 
 কেশাগ্র-শতেক-ভাগ পুনঃ শতাংশ করি ৷  
 তার সম সূক্ষ্ম জীবের ‘স্বরূপ’ বিচারি ॥ ১৩৯ ॥
@@ -1448,7 +1448,7 @@ of the tip of a hair  a hundredth  part  again  into a hundred parts  making
 tāra sama sūkṣma jīvera ‘svarūpa’ vicāri  
 to that  equal  subtle  of the jīva  the own nature  I consider
 
-(139) “Divide the tip of a hair into a hundred parts, and one of these again into a hundred: as subtle as that, I consider, is the *jīva*’s own nature (*svarūpa*).
+(139) Divide the tip of a hair into a hundred parts, and one of these again into a hundred: as subtle as that, I consider, is the jīva’s own nature (*svarūpa*).
 
 কেশাগ্রশতভাগস্য শতাংশসদৃশাত্মকঃ ৷  
 জীবঃ সূক্ষ্মস্বরূপোঽযং সংখ্যাতীতো হি চিৎকণঃ ॥ ১৪০ ॥
@@ -1462,7 +1462,7 @@ the jīva  of subtle nature  this
 saṁkhyātīto hi cit-kaṇaḥ  
 beyond counting  indeed  a particle of spirit
 
-(140) “This *jīva*, subtle by nature, is like a hundredth part of a hundredth part of the tip of a hair. These particles of spirit are indeed beyond counting.”[^26]
+(140) “This jīva, subtle by nature, is like a hundredth part of a hundredth part of the tip of a hair. These particles of spirit are indeed beyond counting.”[^26]
 
 বালাগ্রশতভাগস্য শতধা কল্পিতস্য চ ৷  
 ভাগো জীবঃ স বিজ্ঞেয় ইতি চাহ পরা শ্রুতিঃ ॥ ১৪১ ॥
@@ -1476,14 +1476,14 @@ a part  the jīva  he  is to be known
 iti cāha parā śrutiḥ  
 thus  and says  the supreme  śruti
 
-(141) “The *jīva* should be known as a part of the tip of a hair divided into a hundred, and that hundredth divided again a hundredfold — so says the supreme *śruti*.” (Śvetāśvatara Upaniṣad, 5.9)
+(141) “The jīva should be known as a part of the tip of a hair divided into a hundred, and that hundredth divided again a hundredfold — so says the supreme *śruti*.” (Śvetāśvatara Upaniṣad, 5.9)
 
 সূক্ষ্মাণামপ্যহং জীবঃ ॥ ১৪২ ॥
 
 sūkṣmāṇām apy ahaṁ jīvaḥ  
 of the subtle  also  I  the jīva
 
-(142) “Of subtle things, I am the *jīva*.” (Śrīmad-Bhāgavatam, 11.16.11)
+(142) “Of subtle things, I am the jīva.” (Śrīmad-Bhāgavatam, 11.16.11)
 
 অপরিমিতা ধ্রুবাস্তনুভৃতো যদি সর্ব্বগতা-  
 স্তর্হি ন শাস্যতেতি নিয়মো ধ্রুব নেতরথা ৷  
@@ -1499,7 +1499,7 @@ was born  and  from which  that  not leaving  the controller  is
 samam anujānatāṁ yad amataṁ mata-duṣṭatayā  
 as equal  of those who regard  which  is not accepted  because of the fault of the view
 
-(143) (The personified Vedas pray:) “O Eternal One! If the countless, eternal embodied beings were all-pervading, there would be no law that they are subject to You; yet it cannot be otherwise. That from which they are born, never leaving them, is their controller. The view of those who regard them as equal to You is not accepted, because the view itself is faulty.” (Śrīmad-Bhāgavatam, 10.87.30)
+(143) (The personified Vedas pray:) “O Eternal One! If the countless, eternal embodied beings were all-pervading, there would be no law that they are subject to You; yet it cannot be otherwise. That from which they are born, never leaving them, is their controller. The doctrine of those who regard them as equal to You is unacceptable, for it is flawed at its root.” (Śrīmad-Bhāgavatam, 10.87.30)
 
 তার মধ্যে ‘স্থাবর’, ‘জঙ্গম’ — দুই ভেদ ৷  
 জঙ্গমে তির্য্যক্-জল-স্থলচর বিভেদ ॥ ১৪৪ ॥
@@ -1509,7 +1509,7 @@ of them  among  stationary  moving  two  divisions
 jaṅgame tiryak-jala-sthalacara vibheda  
 among the moving  birds  water-  and land-dwellers  the subdivision
 
-(144) “Among them there are two divisions — the stationary and the moving; and the moving are divided into birds, water-dwellers and land-dwellers.
+(144) Among them there are two divisions — the stationary and the moving; and the moving are divided into birds, water-dwellers and land-dwellers.
 
 তার মধ্যে মনুষ্য-জাতি অতি অল্পতর ৷  
 তার মধ্যে ম্লেচ্ছ, পুলিন্দ, বৌদ্ধ, শবর ॥ ১৪৫ ॥
@@ -1519,7 +1519,7 @@ of them  among  the human species  very  few
 tāra madhye mleccha, pulinda, bauddha, śabara  
 of them  among  mlecchas  Pulindas  Buddhists  Śabaras
 
-(145) “Among these, human beings are very few; and among humans there are *mlecchas*, Pulindas, Buddhists and Śabaras.
+(145) Among these, human beings are very few; and among humans there are *mlecchas*, Pulindas, Buddhists and Śabaras.
 
 বেদনিষ্ঠ-মধ্যে অর্দ্ধেক বেদ ‘মুখে’ মানে ৷  
 বেদনিষিদ্ধ পাপ করে, ধর্ম্ম নাহি গণে ॥ ১৪৬ ॥
@@ -1529,7 +1529,7 @@ of the faithful to the Vedas  among  half  the Vedas  with the mouth  accept
 veda-niṣiddha pāpa kare, dharma nāhi gaṇe  
 forbidden by the Vedas  sins  they commit  dharma  not  regard
 
-(146) “Of those faithful to the Vedas, half accept the Vedas only with their lips: they commit sins the Vedas forbid and have no regard for *dharma*.
+(146) Of those faithful to the Vedas, half accept the Vedas only with their lips: they commit sins the Vedas forbid and have no regard for *dharma*.
 
 ধর্ম্মাচারী-মধ্যে বহুত ‘কর্ম্মনিষ্ঠ’ ৷  
 কোটি-কর্ম্মনিষ্ঠ-মধ্যে এক ‘জ্ঞানী’ শ্রেষ্ঠ ॥ ১৪৭ ॥
@@ -1539,7 +1539,7 @@ of those who practise dharma  among  many  devoted to karma
 koṭi-karma-niṣṭha-madhye eka ‘jñānī’ śreṣṭha  
 of millions  devoted to karma  among  one  jñānī  the best
 
-(147) “Among those who practise *dharma*, many are devoted to *karma*; among millions devoted to *karma*, one *jñānī* is best.
+(147) Among those who practise *dharma*, many are devoted to *karma*; among millions devoted to *karma*, one *jñānī* is best.
 
 কোটিজ্ঞানী-মধ্যে হয় একজন ‘মুক্ত’ ৷  
 কোটিমুক্ত-মধ্যে ‘দুর্ল্লভ’ এক কৃষ্ণ-ভক্ত ॥ ১৪৮ ॥
@@ -1549,7 +1549,7 @@ of millions  jñānīs  among  is  one person  liberated
 koṭi-mukta-madhye ‘durlabha’ eka kṛṣṇa-bhakta  
 of millions  liberated  among  rare  one  Kṛṣṇa’s devotee
 
-(148) “Among millions of *jñānīs*, one is liberated (*mukta*); and among millions of the liberated, even one devotee of Kṛṣṇa is rare.
+(148) Among millions of *jñānīs*, one is liberated (*mukta*); and among millions of the liberated, even one devotee of Kṛṣṇa is rare.
 
 কৃষ্ণভক্ত — নিষ্কাম, অতএব ‘শান্ত’ ৷  
 ভুক্তি মুক্তি-সিদ্ধি-কামী, সকলি ‘অশান্ত’ ॥ ১৪৯ ॥
@@ -1559,7 +1559,7 @@ Kṛṣṇa’s devotee  free from desire  therefore  peaceful
 bhukti mukti-siddhi-kāmī, sakali ‘aśānta’  
 enjoyment  liberation  perfection  desiring  all  restless
 
-(149) “A devotee of Kṛṣṇa is free from desire, and therefore peaceful (*śānta*). Those who desire enjoyment, liberation or mystic perfections are all restless.
+(149) A devotee of Kṛṣṇa is free from desire, and therefore peaceful (*śānta*). Those who desire enjoyment, liberation or mystic perfections are all restless.
 
 মুক্তানামপি সিদ্ধানাং নারায়ণপরায়ণঃ ৷  
 সুদুর্ল্লভঃ প্রশান্তাত্মা কোটিষ্বপি মহামুনে ॥ ১৫০ ॥
@@ -1583,7 +1583,7 @@ the universe  wandering  some  fortunate  jīva
 guru-kṛṣṇa-prasāde pāya bhakti-latā-bīja  
 of guru and Kṛṣṇa  by the mercy  obtains  of the creeper of devotion  the seed
 
-(151) “Wandering through the universe, some fortunate *jīva*, by the mercy of guru and Kṛṣṇa, obtains the seed of the creeper of devotion (*bhakti-latā*).[^27]
+(151) Wandering through the universe, some fortunate jīva, by the mercy of guru and Kṛṣṇa, obtains the seed of the creeper of devotion (*bhakti-latā*).[^27]
 
 মালী হঞা করে সেই বীজ আরোপণ ৷  
 শ্রবণ-কীর্ত্তন-জলে করয়ে সেচন ॥ ১৫২ ॥
@@ -1593,7 +1593,7 @@ a gardener  becoming  he does  that  seed  planting
 śravaṇa-kīrtana-jale karaye secana  
 of hearing and chanting  with the water  he does  watering
 
-(152) “Becoming a gardener, he plants that seed and waters it with hearing and chanting.
+(152) Becoming a gardener, he plants that seed and waters it with hearing and chanting.
 
 উপজিয়া বাড়ে লতা ‘ব্রহ্মাণ্ড’ ভেদি’ যায় ৷  
 ‘বিরজা’, ‘ব্রহ্মলোক’ ভেদি’ ‘পরব্যোম’ পায় ॥ ১৫৩ ॥
@@ -1603,7 +1603,7 @@ sprouting  grows  the creeper  the universe  piercing  goes
 ‘virajā’, ‘brahma-loka’ bhedi’ ‘para-vyoma’ pāya  
 the Virajā  Brahmaloka  piercing  the spiritual sky  reaches
 
-(153) “Sprouting, the creeper grows and pierces through the universe; passing beyond the Virajā and Brahmaloka, it reaches the spiritual sky (*paravyoma*).
+(153) Sprouting, the creeper grows and pierces through the universe; passing beyond the Virajā and Brahmaloka, it reaches the spiritual sky (*paravyoma*).
 
 তবে যায় তদুপরি ‘গোলোক-বৃন্দাবন’ ৷  
 ‘কৃষ্ণচরণ’-কল্পবৃক্ষে করে আরোহণ ॥ ১৫৪ ॥
@@ -1613,7 +1613,7 @@ then  goes  above that  Goloka Vṛndāvana
 ‘kṛṣṇa-caraṇa’-kalpa-vṛkṣe kare ārohaṇa  
 of Kṛṣṇa’s feet  the wish-fulfilling tree  it does  climbing
 
-(154) “Then it goes higher still, to Goloka Vṛndāvana, and climbs the wish-fulfilling tree of Kṛṣṇa’s feet.
+(154) Then it goes higher still, to Goloka Vṛndāvana, and climbs the wish-fulfilling tree of Kṛṣṇa’s feet.
 
 তাঁহা বিস্তারিত হঞা ফলে প্রেম-ফল ৷  
 ইঁহা মালী সেচে নিত্য শ্রবণকীর্ত্তনাদি-জল ॥ ১৫৫ ॥
@@ -1623,7 +1623,7 @@ there  spread out  becoming  it bears  the fruit of prema
 im̐hā mālī sece nitya śravaṇa-kīrtanādi-jala  
 here  the gardener  sprinkles  daily  of hearing, chanting and the rest  water
 
-(155) “There it spreads and bears the fruit of *prema*, while here the gardener daily sprinkles it with the water of hearing, chanting and the rest.
+(155) There it spreads and bears the fruit of prema, while here the gardener daily sprinkles it with the water of hearing, chanting and the rest.
 
 যদি বৈষ্ণব-অপরাধ উঠে হাতী মাতা ৷  
 উপাড়ে বা ছিণ্ডে, তার শুখি’ যায় পাতা ॥ ১৫৬ ॥
@@ -1633,7 +1633,7 @@ if  against a Vaiṣṇava  an offence  rises  an elephant  mad
 upāḍe vā chiṇḍe, tāra śukhi’ yāya pātā  
 uproots  or  breaks  its  drying up  go  leaves
 
-(156) “If an offence against a Vaiṣṇava rises up like a mad elephant, it uproots or breaks the creeper, and its leaves wither away.
+(156) If an offence against a Vaiṣṇava rises up like a mad elephant, it uproots or breaks the creeper, and its leaves wither away.
 
 তাতে মালী যত্ন করি’ করে আবরণ ৷  
 অপরাধ হস্তীর যৈছে না হয় উদ্গম ॥ ১৫৭ ॥
@@ -1643,7 +1643,7 @@ therefore  the gardener  care  taking  makes  a fence
 aparādha hastīra yaiche nā haya udgama  
 of offence  of the elephant  so that  not  may be  the rising
 
-(157) “Therefore the gardener carefully fences the creeper round, so that the elephant of offence may not rise up.
+(157) Therefore the gardener carefully fences the creeper round, so that the elephant of offence may not rise up.
 
 কিন্তু যদি লতার সঙ্গে উঠে ‘উপশাখা’ ৷  
 ভুক্তি-মুক্তি-বাঞ্ছা, যত অসংখ্য তার লেখা ॥ ১৫৮ ॥
@@ -1653,7 +1653,7 @@ but  if  the creeper  together with  rise  side shoots
 bhukti-mukti-vāñchā, yata asaṅkhya tāra lekhā  
 for enjoyment, liberation  desire  as many  countless  their  count
 
-(158) “But side shoots (*upaśākhā*) may rise up together with the creeper — the desire for enjoyment and liberation; there is no counting them.
+(158) But side shoots (*upaśākhā*) may rise up together with the creeper — the desire for enjoyment and liberation; there is no counting them.
 
 ‘নিষিদ্ধাচার’, ‘কুটীনাটী’, ‘জীবহিংসন’ ৷  
 ‘লাভ’, ‘পূজা’, ‘প্রতিষ্ঠাদি’ যত উপশাখাগণ ॥ ১৫৯ ॥
@@ -1663,7 +1663,7 @@ forbidden conduct  duplicity  violence to living beings
 ‘lābha’, ‘pūjā’, ‘pratiṣṭhādi’ yata upaśākhā-gaṇa  
 gain  honour  prestige and the rest  all  the side shoots
 
-(159) “Forbidden conduct, duplicity, violence to living beings, gain, honour, prestige and the rest — these are all side shoots.
+(159) Forbidden conduct, duplicity, violence to living beings, gain, honour, prestige and the rest — these are all side shoots.
 
 সেকজল পাঞা উপশাখা বাড়ি’ যায় ৷  
 স্তব্ধ হঞা মূলশাখা বাড়িতে না পায় ॥ ১৬০ ॥
@@ -1673,7 +1673,7 @@ sprinkled  water  receiving  the side shoots  growing  go
 stabdha hañā mūla-śākhā bāḍite nā pāya  
 stunted  becoming  the main branch  to grow  not  is able
 
-(160) “Receiving the water that is sprinkled, the side shoots grow, while the main branch is stunted and cannot grow.
+(160) Receiving the water that is sprinkled, the side shoots grow, while the main branch is stunted and cannot grow.
 
 প্রথমেই উপশাখার করয়ে ছেদন ৷  
 তবে মূলশাখা বাড়ি’ যায় বৃন্দাবন ॥ ১৬১ ॥
@@ -1683,7 +1683,7 @@ first of all  of the side shoots  he does  cutting
 tabe mūla-śākhā bāḍi’ yāya vṛndāvana  
 then  the main branch  growing  goes  to Vṛndāvana
 
-(161) “First of all the gardener cuts away the side shoots; then the main branch grows and reaches Vṛndāvana.
+(161) First of all the gardener cuts away the side shoots; then the main branch grows and reaches Vṛndāvana.
 
 ‘প্রেমফল’ পাকি’ পড়ে, মালী আস্বাদয় ৷  
 লতা অবলম্বি’ মালী ‘কল্পবৃক্ষ’ পায় ॥ ১৬২ ॥
@@ -1693,7 +1693,7 @@ the fruit of prema  ripening  falls  the gardener  tastes
 latā avalambi’ mālī ‘kalpa-vṛkṣa’ pāya  
 the creeper  holding to  the gardener  the wish-fulfilling tree  reaches
 
-(162) “The fruit of *prema* ripens and falls, and the gardener tastes it. Holding to the creeper, he reaches the wish-fulfilling tree.
+(162) The fruit of prema ripens and falls, and the gardener tastes it. Holding to the creeper, he reaches the wish-fulfilling tree.
 
 তাঁহা সেই কল্পবৃক্ষের করয়ে সেবন ৷  
 সুখে প্রেমফল-রস করে আস্বাদন ॥ ১৬৩ ॥
@@ -1703,7 +1703,7 @@ there  that  wish-fulfilling tree  he does  service
 sukhe prema-phala-rasa kare āsvādana  
 in happiness  of the fruit of prema  the juice  does  tasting
 
-(163) “There he serves that wish-fulfilling tree and happily tastes the juice (*rasa*) of the fruit of *prema*.
+(163) There he serves that wish-fulfilling tree and happily tastes the juice (rasa) of the fruit of prema.
 
 এইত পরম-ফল ‘পরম-পুরুষার্থ’ ৷  
 যাঁর আগে তৃণ-তুল্য চারি পুরুষার্থ ॥ ১৬৪ ॥
@@ -1713,7 +1713,7 @@ this indeed  the supreme fruit  the supreme goal of life
 yām̐ra āge tṛṇa-tulya cāri puruṣārtha  
 of which  before  like straw  the four  goals of life
 
-(164) “This is the supreme fruit, the supreme goal of life (*parama-puruṣārtha*), before which the four goals of life are like straw.
+(164) This is the supreme fruit, the supreme goal of life (*parama-puruṣārtha*), before which the four goals of life are like straw.
 
 ঋদ্ধা সিদ্ধির্ব্রজ-বিজয়িতা সত্যধর্ম্মা সমাধি-  
 র্ব্রহ্মানন্দো গুরুরপি চমৎকারয়ত্যেব তাবৎ ৷  
@@ -1729,7 +1729,7 @@ as long as  of prema  of Madhu’s foe  subduing  the perfect herbs
 gandho ’py antaḥ-karaṇa-saraṇī-pānthatāṁ na prayāti  
 the fragrance  even  of the heart  on the road  wayfaring  not  attains
 
-(165) “Rich mastery over the host of mystic perfections, *samādhi* grounded in truth and *dharma*, even the great bliss of Brahman — these astonish one only so long as not even the fragrance of *prema*, the sovereign herb that brings Kṛṣṇa, the foe of Madhu, under control, has set out on the road of the heart.” (Lalita-mādhava, 5.2)[^28]
+(165) “Rich mastery over the host of mystic perfections, *samādhi* grounded in truth and *dharma*, even the great bliss of Brahman — these astonish one only so long as not even the fragrance of prema, the sovereign herb that brings Kṛṣṇa, the foe of Madhu, under control, has set out on the road of the heart.” (Lalita-mādhava, 5.2)[^28]
 
 ‘শুদ্ধভক্তি’ হৈতে হয় ‘প্রেমা’ উৎপন্ন ৷  
 অতএব শুদ্ধভক্তির কহিয়ে ‘লক্ষণ’ ॥ ১৬৬ ॥
@@ -1739,7 +1739,7 @@ pure devotion  from  is  prema  born
 ataeva śuddha-bhaktira kahiye ‘lakṣaṇa’  
 therefore  of pure devotion  I tell  the characteristics
 
-(166) “From pure devotion (*śuddha-bhakti*) *prema* is born; therefore I shall tell you the characteristics of pure devotion.
+(166) From pure devotion (*śuddha-bhakti*) prema is born; therefore I shall tell you the characteristics of pure devotion.
 
 অন্যাভিলাষিতা-শূন্যং জ্ঞান-কর্ম্মাদ্যনাবৃতম্ ৷  
 আনুকূল্যেন কৃষ্ণানুশীলনং ভক্তিরুত্তমা ॥ ১৬৭ ॥
@@ -1763,7 +1763,7 @@ other  desires  other  worship  giving up  jñāna  karma
 ānukūlye sarvendriye kṛṣṇānuśīlana  
 favourably  with all the senses  the cultivation of Kṛṣṇa
 
-(168) “To give up other desires, the worship of others, *jñāna* and *karma*, and to cultivate service to Kṛṣṇa with all the senses in a favourable spirit —
+(168) Giving up other desires, the worship of others, *jñāna* and *karma*, one cultivates service to Kṛṣṇa with all the senses in a favourable spirit.
 
 এই ‘শুদ্ধভক্তি’ — ইহা হৈতে ‘প্রেমা’ হয় ৷  
 পঞ্চরাত্রে, ভাগবতে এই লক্ষণ কয় ॥ ১৬৯ ॥
@@ -1773,7 +1773,7 @@ this  pure devotion  it  from  prema  comes
 pañcarātre, bhāgavate ei lakṣaṇa kaya  
 in the Pañcarātra  in the Bhāgavata  this  characteristic  is told
 
-(169) “this is pure devotion, and from it *prema* arises. The Pañcarātra and the *Bhāgavata* describe these characteristics.
+(169) This is pure devotion, and from it prema arises. The Pañcarātra and the *Bhāgavata* describe these characteristics.
 
 সর্ব্বোপাধিবিনির্ম্মুক্তং তৎপরত্বেন নির্ম্মলম্ ৷  
 হৃষীকেণ হৃষীকেশ-সেবনং ভক্তিরুচ্যতে ॥ ১৭০ ॥
@@ -1840,7 +1840,7 @@ by which  transcending  the three guṇas
 mad-bhāvāyopapadyate  
 love for Me  one attains
 
-(174) “That alone, called *bhakti-yoga*, is declared the ultimate goal; by it one transcends the three *guṇas* and attains love for Me.” (Śrīmad-Bhāgavatam, 3.29.14)
+(174) “That alone, called bhakti-yoga, is declared the ultimate goal; by it one transcends the three guṇas and attains love for Me.” (Śrīmad-Bhāgavatam, 3.29.14)
 
 ভুক্তি-মুক্তি আদি-বাঞ্ছা যদি মনে হয় ৷  
 সাধন করিলে প্রেম উৎপন্ন না হয় ॥ ১৭৫ ॥
@@ -1850,7 +1850,7 @@ enjoyment, liberation  and the rest  desire  if  in the mind  is
 sādhana karile prema utpanna nā haya  
 sādhana  though one performs  prema  born  not  is
 
-(175) “If the desire for enjoyment, liberation and the like remains in the mind, then even though one practises *sādhana*, *prema* does not arise.[^31]
+(175) If the desire for enjoyment, liberation and the like remains in the mind, then even though one practises *sādhana*, prema does not arise.[^31]
 
 ভুক্তি-মুক্তি-স্পৃহা যাবৎ পিশাচী হৃদি বর্ত্ততে ৷  
 তাবদ্ভক্তিসুখস্যাত্র কথমভ্যুদয়ো ভবেৎ ॥ ১৭৬ ॥
@@ -1874,7 +1874,7 @@ sādhana-bhakti  from  is  of rati  the rise
 rati gāḍha haile tāra ‘prema’ nāma kaya  
 rati  intense  when it becomes  its  prema  name  they call
 
-(177) “From the practice of devotion (*sādhana-bhakti*) *rati* awakens; when *rati* deepens, it is called *prema*.
+(177) From the practice of devotion (*sādhana-bhakti*) rati awakens; when rati deepens, it is called prema.
 
 প্রেম বৃদ্ধিক্রমে নাম — স্নেহ, মান প্রণয় ৷  
 রাগ, অনুরাগ, ভাব, মহাভাব হয় ॥ ১৭৮ ॥
@@ -1884,7 +1884,7 @@ prema  of increase  in the stages  names  sneha  māna  praṇaya
 rāga, anurāga, bhāva, mahābhāva haya  
 rāga  anurāga  bhāva  mahābhāva  are
 
-(178) “As *prema* increases, its stages are called *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*.
+(178) As prema increases, its stages are called *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*.
 
 যৈছে বীজ, ইক্ষু, রস, গুড়, খণ্ড, সার ৷  
 শর্করা, সিতা, মিছরি, উত্তম-মিছরি আর ॥ ১৭৯ ॥
@@ -1894,7 +1894,7 @@ as  the seed  the sugarcane  the juice  molasses  raw sugar  refined sugar
 śarkarā, sitā, michari, uttama-michari āra  
 white sugar  sugar candy  rock candy  the finest rock candy  and
 
-(179) “It is like the seed, the sugarcane, its juice, molasses, raw sugar, refined sugar, white sugar, sugar candy, rock candy and the finest rock candy.
+(179) It is like the seed, the sugarcane, its juice, molasses, raw sugar, refined sugar, white sugar, sugar candy, rock candy and the finest rock candy.
 
 এই সব কৃষ্ণভক্তি-রসের স্থায়িভাব ৷  
 স্থায়িভাবে মিলে যদি বিভাব, অনুভাব ॥ ১৮০ ॥
@@ -1904,7 +1904,7 @@ these  all  of Kṛṣṇa  devotion  of the rasa  the sthāyibhāva
 sthāyibhāve mile yadi vibhāva, anubhāva  
 with the sthāyibhāva  combine  if  vibhāva  anubhāva
 
-(180) “All these are the *sthāyi-bhāva*, the abiding emotion, of the *rasa* of devotion to Kṛṣṇa. When *vibhāva* and *anubhāva* combine with the *sthāyi-bhāva*,[^32]
+(180) All these are the *sthāyi-bhāva*, the abiding emotion, of the rasa of devotion to Kṛṣṇa. When *vibhāva* and *anubhāva* combine with the *sthāyi-bhāva*,[^32]
 
 সাত্ত্বিক, ব্যভিচারি-ভাবের মিলনে ৷  
 কৃষ্ণভক্তি-রস হয় অমৃত আস্বাদনে ॥ ১৮১ ॥
@@ -1914,7 +1914,7 @@ sāttvika  of the vyabhicārī-bhāvas  in the union
 kṛṣṇa-bhakti-rasa haya amṛta āsvādane  
 of Kṛṣṇa  devotion  rasa  becomes  nectar  in the tasting
 
-(181) “together with the *sāttvika* and *vyabhicārī-bhāvas*, then by their union the *rasa* of devotion to Kṛṣṇa becomes nectar to taste.
+(181) together with the *sāttvika* and *vyabhicārī-bhāvas*, then by their union the rasa of devotion to Kṛṣṇa becomes nectar to taste.
 
 যৈছে দধি, সিতা, ঘৃত, মরীচ, কর্পূর ৷  
 মিলনে, ‘রসালা’ হয় অমৃত মধুর ॥ ১৮২ ॥
@@ -1924,7 +1924,7 @@ as  yogurt  sugar candy  ghee  black pepper  camphor
 milane, ‘rasālā’ haya amṛta madhura  
 in mixing  rasālā  becomes  nectar  sweet
 
-(182) “It is like yogurt, sugar candy, ghee, black pepper and camphor: mixed together, they become *rasālā*, sweet as nectar.
+(182) It is like yogurt, sugar candy, ghee, black pepper and camphor: mixed together, they become *rasālā*, sweet as nectar.
 
 ভক্তভেদে রতি-ভেদ পঞ্চ পরকার ৷  
 শান্তরতি, দাস্যরতি, সখ্যরতি আর ॥ ১৮৩ ॥
@@ -1941,7 +1941,7 @@ vātsalya-rati  madhura-rati  these  five  divisions
 rati-bhede kṛṣṇa-bhakti-rase pañca bheda  
 by the difference of rati  in the rasa of devotion to Kṛṣṇa  five  kinds
 
-(183–184) “According to the difference in devotees, *rati* is of five kinds — *śānta-rati*, *dāsya-rati*, *sakhya-rati*, *vātsalya-rati* and *madhura-rati*. And according to the difference in *rati*, the *rasa* of devotion to Kṛṣṇa is of five kinds.
+(183–184) According to the difference in devotees, rati is of five kinds — *śānta-rati*, *dāsya-rati*, *sakhya-rati*, *vātsalya-rati* and *madhura-rati*. And according to the difference in rati, the rasa of devotion to Kṛṣṇa is of five kinds.
 
 শান্ত, দাস্য, সখ্য, বাৎসল্য, মধুর-রস নাম ৷  
 কৃষ্ণভক্তি-রস-মধ্যে এ পঞ্চ প্রধান ॥ ১৮৫ ॥
@@ -1951,7 +1951,7 @@ by the difference of rati  in the rasa of devotion to Kṛṣṇa  five  kinds
 kṛṣṇa-bhakti-rasa-madhye e pañca pradhāna  
 of devotion to Kṛṣṇa  the rasas  among  these  five  principal
 
-(185) “Their names are *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa*; these five are the principal *rasas* of devotion to Kṛṣṇa.
+(185) Their names are *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa*; these five are the principal rasas of devotion to Kṛṣṇa.
 
 হাস্যোঽদ্ভুতস্তথা বীরঃ করুণো রৌদ্র ইত্যপি ৷  
 ভয়ানকঃ স বীভৎস ইতি গৌণশ্চ সপ্তধা ॥ ১৮৬ ॥
@@ -1965,7 +1965,7 @@ fear  it  disgust
 iti gauṇaś ca saptadhā  
 thus  secondary  and  sevenfold
 
-(186) “Laughter, wonder, heroism, compassion, anger, fear and disgust: thus the secondary *rasa* is sevenfold.” (Bhakti-rasāmṛta-sindhu, 2.5.116)
+(186) “Laughter, wonder, heroism, compassion, anger, fear and disgust: thus the secondary rasa is sevenfold.” (Bhakti-rasāmṛta-sindhu, 2.5.116)
 
 হাস্য, অদ্ভুত, বীর, করুণ, রৌদ্র, বীভৎস, ভয় ৷  
 পঞ্চবিধ ভক্তে গৌণ সপ্তরস হয় ॥ ১৮৭ ॥
@@ -1975,7 +1975,7 @@ hāsya  adbhuta  vīra  karuṇa  raudra  bībhatsa  bhaya
 pañca-vidha bhakte gauṇa sapta-rasa haya  
 in the fivefold  devotees  secondary  seven rasas  are
 
-(187) “*Hāsya*, *adbhuta*, *vīra*, *karuṇa*, *raudra*, *bībhatsa* and *bhaya* — these seven secondary *rasas* arise in the five kinds of devotees.
+(187) *Hāsya*, *adbhuta*, *vīra*, *karuṇa*, *raudra*, *bībhatsa* and *bhaya* — these seven secondary rasas arise in the five kinds of devotees.
 
 পঞ্চরস ‘স্থায়ী’ ব্যাপী রহে ভক্ত-মনে ৷  
 সপ্ত গৌণ ‘আগন্তুক’ পাইয়ে কারণে ॥ ১৮৮ ॥
@@ -1985,7 +1985,7 @@ the five rasas  permanent  pervading  remain  in the devotee’s mind
 sapta gauṇa ‘āgantuka’ pāiye kāraṇe  
 seven  secondary  incidental  are found  from a cause
 
-(188) “The five *rasas* are permanent (*sthāyī*) and pervade the devotee’s mind; the seven secondary ones are incidental (*āgantuka*), arising from some cause.
+(188) The five rasas are permanent (*sthāyī*) and pervade the devotee’s mind; the seven secondary ones are incidental (*āgantuka*), arising from some cause.
 
 শান্তভক্ত — নব-যোগেন্দ্র, সনকাদি আর ৷  
 দাস্যভাব-ভক্ত — সর্ব্বত্র সেবক অপার ॥ ১৮৯ ॥
@@ -1995,7 +1995,7 @@ seven  secondary  incidental  are found  from a cause
 dāsya-bhāva-bhakta — sarvatra sevaka apāra  
 devotees in dāsya-bhāva  everywhere  servants  countless
 
-(189) “The devotees in *śānta* are the nine Yogendras, and also Sanaka and the others; the devotees in the mood of servitude are countless servants everywhere.
+(189) The devotees in *śānta* are the nine Yogendras, and also Sanaka and the others; the devotees in the mood of servitude are countless servants everywhere.
 
 সখ্য-ভক্ত — শ্রীদামাদি, পুরে ভীমার্জ্জুন ৷  
 বাৎসল্য-ভক্ত — মাতা পিতা, যত গুরুজন ॥ ১৯০ ॥
@@ -2005,7 +2005,7 @@ devotees in sakhya  Śrīdāmā and others  in the city  Bhīma and Arjuna
 vātsalya-bhakta — mātā pitā, yata guru-jana  
 devotees in vātsalya  mother  father  all  elders
 
-(190) “The devotees in *sakhya* are Śrīdāmā and the others, and in the city, Bhīma and Arjuna; the devotees in *vātsalya* are His mother and father and all His elders.
+(190) The devotees in *sakhya* are Śrīdāmā and the others, and in the city, Bhīma and Arjuna; the devotees in *vātsalya* are His mother and father and all His elders.
 
 মধুর-রসে ভক্তমুখ্য — ব্রজে গোপীগণ ৷  
 মহিষীগণ, লক্ষ্মীগণ, অসংখ্য গণন ॥ ১৯১ ॥
@@ -2015,7 +2015,7 @@ in madhura-rasa  among devotees  the foremost  in Vraja  the gopīs
 mahiṣī-gaṇa, lakṣmī-gaṇa, asaṅkhya gaṇana  
 the queens  the Lakṣmīs  countless  in number
 
-(191) “In *madhura-rasa* the foremost devotees are the *gopīs* of Vraja; then come the queens and the Lakṣmīs, countless in number.
+(191) In *madhura-rasa* the foremost devotees are the gopīs of Vraja; then come the queens and the Lakṣmīs, countless in number.
 
 পুনঃ কৃষ্ণরতি হয় দুইত প্রকার ৷  
 ঐশ্বর্য্যজ্ঞানমিশ্রা, কেবলা-ভেদ আর ॥ ১৯২ ॥
@@ -2025,7 +2025,7 @@ again  for Kṛṣṇa  rati  is  two  kinds
 aiśvarya-jñāna-miśrā, kevalā-bheda āra  
 with awareness of majesty  mixed  pure (kevalā)  kind  and
 
-(192) “Again, *rati* for Kṛṣṇa is of two kinds: mixed with awareness of His majesty (*aiśvarya*), and pure (*kevalā*).
+(192) Again, rati for Kṛṣṇa is of two kinds: mixed with awareness of His majesty (*aiśvarya*), and pure (*kevalā*).
 
 গোকুলে ‘কেবলা’ রতি — ঐশ্বর্য্যজ্ঞানহীন ৷  
 পুরীদ্বয়ে, বৈকুণ্ঠাদ্যে — ‘ঐশ্বর্য্য’ প্রবীণ ॥ ১৯৩ ॥
@@ -2035,7 +2035,7 @@ in Gokula  pure  rati  awareness of majesty  devoid of
 purī-dvaye, vaikuṇṭhādye — ‘aiśvarya’ pravīṇa  
 in the two cities  in Vaikuṇṭha and elsewhere  majesty  predominant
 
-(193) “In Gokula *rati* is pure, devoid of awareness of majesty; in the two cities and in Vaikuṇṭha and the other abodes, majesty predominates.
+(193) In Gokula rati is pure, devoid of awareness of majesty; in the two cities and in Vaikuṇṭha and the other abodes, majesty predominates.
 
 ঐশ্বর্য্যজ্ঞানপ্রাধান্যে সঙ্কুচিত প্রীতি ৷  
 দেখিলে না মানে ঐশ্বর্য্য, — কেবলার রীতি ॥ ১৯৪ ॥
@@ -2045,7 +2045,7 @@ of awareness of majesty  where it predominates  constricted  love
 dekhile nā māne aiśvarya, — kevalāra rīti  
 even seeing  not  heeds  majesty  of the pure kind  the way
 
-(194) “Where awareness of majesty predominates, love is constricted. Not to heed majesty even when one sees it — that is the way of pure love.
+(194) Where awareness of majesty predominates, love is constricted. Not to heed majesty even when one sees it — that is the way of pure love.
 
 শান্ত-দাস্য-রসে ঐশ্বর্য্য কাঁহা উদ্দীপন ৷  
 সখ্যে, বাৎসল্যে, মধুর-রসে সঙ্কোচন ॥ ১৯৫ ॥
@@ -2055,7 +2055,7 @@ in śānta and dāsya-rasa  majesty  at times  a stimulus
 sakhye, vātsalye, madhura-rase saṅkocana  
 in sakhya  in vātsalya  in madhura-rasa  constriction
 
-(195) “In *śānta* and *dāsya-rasa* majesty is at times a stimulus (*uddīpana*) to love; in *sakhya*, *vātsalya* and *madhura-rasa* it constricts love.
+(195) In *śānta* and *dāsya-rasa* majesty is at times a stimulus (*uddīpana*) to love; in *sakhya*, *vātsalya* and *madhura-rasa* it constricts love.
 
 বসুদেব-দেবকীর কৃষ্ণ চরণ বন্দিল ৷  
 ঐশ্বর্য্যজ্ঞানে দুঁহার মনে ভয় হৈল ॥ ১৯৬ ॥
@@ -2065,7 +2065,7 @@ of Vasudeva and Devakī  Kṛṣṇa  the feet  honoured
 aiśvarya-jñāne dum̐hāra mane bhaya haila  
 from awareness of majesty  of both  in the mind  fear  arose
 
-(196) “When Kṛṣṇa bowed at the feet of Vasudeva and Devakī, fear arose in both their minds, for they were aware of His majesty.
+(196) When Kṛṣṇa bowed at the feet of Vasudeva and Devakī, fear arose in both their minds, for they were aware of His majesty.
 
 দেবকী বসুদেবশ্চ বিজ্ঞায় জগদীশ্বরৌ ৷  
 কৃতসংবন্দনৌ পুত্রৌ সস্বজাতে ন শঙ্কিতৌ ॥ ১৯৭ ॥
@@ -2089,7 +2089,7 @@ Kṛṣṇa’s  universal form  seeing  in Arjuna  arose  fear
 sakhya-bhāve dhārṣṭya kṣamāpaya kariyā vinaya  
 in the mood of friendship  boldness  begs pardon for  showing  humility
 
-(198) “Seeing Kṛṣṇa’s universal form, Arjuna was afraid, and humbly begged pardon for the boldness he had shown in his friendship.
+(198) Seeing Kṛṣṇa’s universal form, Arjuna was afraid, and humbly begged pardon for the boldness he had shown in his friendship.
 
 সখেতি মত্বা প্রসভং যদুক্তং  
 হে কৃষ্ণ হে যাদব হে সখেতি ৷  
@@ -2128,7 +2128,7 @@ Kṛṣṇa  when  with Rukmiṇī  made  a jest
 ‘kṛṣṇa chāḍibena’ — jāni’ rukmiṇīra haila trāsa  
 Kṛṣṇa  will leave  thinking  in Rukmiṇī  arose  terror
 
-(201) “When Kṛṣṇa jested with Rukmiṇī, she was terrified, thinking that Kṛṣṇa would leave her.
+(201) When Kṛṣṇa jested with Rukmiṇī, she was terrified, thinking that Kṛṣṇa would leave her.
 
 তস্যাঃ সুদুঃখভয় শোক-বিনষ্ট-বুদ্ধে-  
 র্হস্তাচ্ছ্লথদ্বলয়তো ব্যজনং পপাত ৷  
@@ -2154,7 +2154,7 @@ of the pure kind  pure love  majesty  not  knows
 aiśvarya dekhileo nija-sambandha se māne  
 majesty  even seeing  its own relationship  it  heeds
 
-(203) “Pure love of the *kevalā* kind does not know majesty; even when it sees majesty, it heeds only its own relationship with Kṛṣṇa.
+(203) Pure love of the *kevalā* kind does not know majesty; even when it sees majesty, it heeds only its own relationship with Kṛṣṇa.
 
 ত্রয়্যা চোপনিষদ্ভিশ্চ সাংখ্যযোগৈশ্চ সাত্বতৈঃ ৷  
 উপগীয়মানমাহাত্ম্যং হরিং সাঽমন্যতাত্মজম্ ॥ ২০৪ ॥
@@ -2182,7 +2182,7 @@ the gopī  to the mortar  with a rope
 babandha prākṛtaṁ yathā  
 bound  an ordinary child  like
 
-(205) “Thinking the unmanifest Lord, who is beyond the senses and had appeared in human form, to be her own son, the *gopī* tied Him to the mortar with a rope, as if He were an ordinary child.” (Śrīmad-Bhāgavatam, 10.9.14)
+(205) “Thinking the unmanifest Lord, who is beyond the senses and had appeared in human form, to be her own son, the gopī tied Him to the mortar with a rope, as if He were an ordinary child.” (Śrīmad-Bhāgavatam, 10.9.14)
 
 উবাহ ভগবান্ কৃষ্ণঃ শ্রীদামানং পরাজিতঃ ৷  
 বৃষভং ভদ্রসেনস্তু প্রলম্বো রোহিণীসুতম্ ॥ ২০৬ ॥
@@ -2210,7 +2210,7 @@ leaving  the gopīs  desirous
 mām asau bhajate priyaḥ  
 Me  He  serves  the Beloved
 
-(207) “And She then thought Herself the best of all women: ‘My Beloved has left the other *gopīs*, who long for Him, and serves Me.’” (Śrīmad-Bhāgavatam, 10.30.37)[^34]
+(207) “And She then thought Herself the best of all women: ‘My Beloved has left the other gopīs, who long for Him, and serves Me.’” (Śrīmad-Bhāgavatam, 10.30.37)[^34]
 
 ততো গত্বা বনোদ্দেশং দৃপ্তা কেশবমব্রবীৎ ৷  
 ন পারয়েঽহং চলিতুং নয় মাং যত্র তে মনঃ ॥ ২০৮ ॥
@@ -2238,7 +2238,7 @@ then  and  disappeared  Kṛṣṇa
 sā vadhūr anvatapyata  
 that  young woman  was filled with remorse
 
-(209) “So addressed, He said to His beloved, ‘Climb onto My shoulder.’ But then Kṛṣṇa vanished, and the young *gopī* was filled with remorse.” (Śrīmad-Bhāgavatam, 10.30.39)
+(209) “So addressed, He said to His beloved, ‘Climb onto My shoulder.’ But then Kṛṣṇa vanished, and the young gopī was filled with remorse.” (Śrīmad-Bhāgavatam, 10.30.39)
 
 পতিসুতান্বয়ভ্রাতৃবান্ধবা-  
 নতিবিলঙ্ঘ্য তেঽন্ত্যচ্যুতাগতাঃ ৷  
@@ -2264,7 +2264,7 @@ in śānta-rasa  by understanding of His svarūpa  on Kṛṣṇa alone  fixedne
 “śamo man-niṣṭhatā buddheḥ” iti śrī-mukha-gāthā  
 śama  on Me  fixedness  of the intellect  thus  from His own lips  the saying
 
-(211) “In *śānta-rasa*, through awareness of one’s own true nature (*svarūpa*), one is fixed on Kṛṣṇa alone. ‘*Śama* is the fixing of the intellect on Me’ — so the Lord has said with His own lips.[^35]
+(211) In *śānta-rasa*, through awareness of one’s own true nature (*svarūpa*), one is fixed on Kṛṣṇa alone. ‘*Śama* is the fixing of the intellect on Me’ — so the Lord has said with His own lips.[^35]
 
 শমো মন্নিষ্ঠতা বুদ্ধেরিতি শ্রীভগবদ্বচঃ ৷  
 তন্নিষ্ঠা দুর্ঘটা বুদ্ধেরেতাং শান্তরতিং বিনা ॥ ২১২ ॥
@@ -2302,7 +2302,7 @@ Kṛṣṇa  except  of thirst  the giving up  its  function  I consider
 ataeva ‘śānta’ kṛṣṇa-bhakta eka jāni  
 therefore  peaceful  Kṛṣṇa’s devotee  alone  I know
 
-(214) “Giving up thirst for everything but Kṛṣṇa — that, I consider, is its function. Therefore I know only the devotee of Kṛṣṇa to be truly peaceful (*śānta*).
+(214) Giving up thirst for everything but Kṛṣṇa — that, I consider, is its function. Therefore I know only the devotee of Kṛṣṇa to be truly peaceful (*śānta*).
 
 স্বর্গ মোক্ষ কৃষ্ণভক্ত ‘নরক’ করি’ মানে ৷  
 কৃষ্ণনিষ্ঠা, তৃষ্ণা-ত্যাগ — শান্তের ‘দুই’ গুণে ॥ ২১৫ ॥
@@ -2312,7 +2312,7 @@ heaven  liberation  Kṛṣṇa’s devotee  hell  as  regards
 kṛṣṇa-niṣṭhā, tṛṣṇā-tyāga — śāntera ‘dui’ guṇe  
 fixedness on Kṛṣṇa  giving up of thirst  of śānta  two  qualities
 
-(215) “A devotee of Kṛṣṇa regards heaven and liberation as hell. Fixedness on Kṛṣṇa and the giving up of thirst — these are the two qualities of *śānta*.
+(215) A devotee of Kṛṣṇa regards heaven and liberation as hell. Fixedness on Kṛṣṇa and the giving up of thirst — these are the two qualities of *śānta*.
 
 নারায়ণপরাঃ সর্ব্বে ন কুতশ্চন বিভ্যতি ৷  
 স্বর্গাপবর্গনরকেষ্বপি তুল্যার্থদর্শিনঃ ॥ ২১৬ ॥
@@ -2336,7 +2336,7 @@ these  two  qualities  pervade  all  devotees
 ākāśera ‘śabda’-guṇa yena bhūta-gaṇe  
 of ether  sound  the quality  as  the elements
 
-(217) “These two qualities pervade all devotees, just as sound, the quality of ether, pervades all the elements.
+(217) These two qualities pervade all devotees, just as sound, the quality of ether, pervades all the elements.
 
 শান্তের স্বভাব — কৃষ্ণে মমতা-গন্ধ হীন ৷  
 ‘পরংব্রহ্ম’-‘পরমাত্মা’-জ্ঞান-প্রবীণ ॥ ২১৮ ॥
@@ -2346,7 +2346,7 @@ of śānta  the nature  for Kṛṣṇa  of possessiveness  the scent  devoid
 ‘paraṁ-brahma’-‘paramātmā’-jñāna-pravīṇa  
 of the Supreme Brahman  of the Supersoul  in knowledge  expert
 
-(218) “The nature of *śānta* is to be devoid of even a trace of the sense that Kṛṣṇa is ‘my own’ (*mamatā*); in it knowledge of Him as the Supreme Brahman and the Supersoul (*Paramātmā*) predominates.[^38]
+(218) The nature of *śānta* is to be devoid of even a trace of the sense that Kṛṣṇa is ‘my own’ (*mamatā*); in it knowledge of Him as the Supreme Brahman and the Supersoul (*Paramātmā*) predominates.[^38]
 
 কেবল ‘স্বরূপ-জ্ঞান’ হয় শান্ত-রসে ৷  
 ‘পূর্ণৈশ্বর্য্যপ্রভু-জ্ঞান’ অধিক হয় দাস্যে ॥ ২১৯ ॥
@@ -2356,7 +2356,7 @@ only  knowledge of His svarūpa  is  in śānta-rasa
 ‘pūrṇaiśvarya-prabhu-jñāna’ adhika haya dāsye  
 of the Master full of majesty  knowledge  more  is  in dāsya
 
-(219) “In *śānta-rasa* there is only knowledge of His true nature (*svarūpa*); in *dāsya* there is more — knowledge of Him as the Master full of all majesty.
+(219) In *śānta-rasa* there is only knowledge of His true nature (*svarūpa*); in *dāsya* there is more — knowledge of Him as the Master full of all majesty.
 
 ঈশ্বরজ্ঞান, সম্ভ্রম-গৌরব প্রচুর ৷  
 ‘সেবা’ করি’ কৃষ্ণে সুখ দেন নিরন্তর ॥ ২২০ ॥
@@ -2366,7 +2366,7 @@ awareness of the Lord  awe and reverence  abundant
 ‘sevā’ kari’ kṛṣṇe sukha dena nirantara  
 service  rendering  to Kṛṣṇa  happiness  they give  constantly
 
-(220) “In it there is awareness of Him as the Lord, with abundant awe and reverence; and by their service the devotees constantly give Kṛṣṇa happiness.
+(220) In it there is awareness of Him as the Lord, with abundant awe and reverence; and by their service the devotees constantly give Kṛṣṇa happiness.
 
 শান্তের গুণ দাস্যে আছে, অধিক — ‘সেবন’ ৷  
 অতএব দাস্যরসের এই ‘দুই’ গুণ ॥ ২২১ ॥
@@ -2376,7 +2376,7 @@ of śānta  the quality  in dāsya  is  in addition  service
 ataeva dāsya-rasera ei ‘dui’ guṇa  
 therefore  of dāsya-rasa  these  two  qualities
 
-(221) “The quality of *śānta* is present in *dāsya*, and service besides; therefore *dāsya-rasa* has these two qualities.
+(221) The quality of *śānta* is present in *dāsya*, and service besides; therefore *dāsya-rasa* has these two qualities.
 
 শান্তের গুণ, দাস্যের সেবন — সখ্যে দুই হয় ৷  
 দাস্যের ‘সম্ভ্রম-গৌরব’-সেবা, সখ্যে ‘বিশ্বাস’-ময় ॥ ২২২ ॥
@@ -2386,7 +2386,7 @@ of śānta  the quality  of dāsya  the service  in sakhya  both  are
 dāsyera ‘sambhrama-gaurava’-sevā, sakhye ‘viśvāsa’-maya  
 of dāsya  with awe and reverence  service  in sakhya  with trust  filled
 
-(222) “The quality of *śānta* and the service of *dāsya* — both are present in *sakhya*. But whereas the service of *dāsya* is full of awe and reverence, in *sakhya* it is full of trust.
+(222) The quality of *śānta* and the service of *dāsya* — both are present in *sakhya*. But whereas the service of *dāsya* is full of awe and reverence, in *sakhya* it is full of trust.
 
 কান্ধে চড়ে, কান্ধে চড়ায়, করে ক্রীড়া-রণ ৷  
 কৃষ্ণে সেবে, কৃষ্ণে করায় আপন-সেবন ॥ ২২৩ ॥
@@ -2396,7 +2396,7 @@ on the shoulders  they climb  on their shoulders  they mount Him  they do  mock 
 kṛṣṇe seve, kṛṣṇe karāya āpana-sevana  
 Kṛṣṇa  they serve  Kṛṣṇa  they make  to serve them
 
-(223) “They climb on His shoulders and carry Him on theirs, and play at fighting with Him. They serve Kṛṣṇa, and they make Kṛṣṇa serve them.
+(223) They climb on His shoulders and carry Him on theirs, and play at fighting with Him. They serve Kṛṣṇa, and they make Kṛṣṇa serve them.
 
 বিশ্রম্ভ-প্রধান সখ্য — গৌরব-সম্ভ্রম-হীন ৷  
 অতএব সখ্য-রসের ‘তিন’ গুণ — চিহ্ন ॥ ২২৪ ॥
@@ -2406,7 +2406,7 @@ trust  chiefly  sakhya  of reverence and awe  devoid
 ataeva sakhya-rasera ‘tina’ guṇa — cihna  
 therefore  of sakhya-rasa  three  qualities  the marks
 
-(224) “*Sakhya* is founded chiefly on intimate trust (*viśrambha*) and is free of reverence and awe; therefore three qualities are the marks of *sakhya-rasa*.
+(224) *Sakhya* is founded chiefly on intimate trust (*viśrambha*) and is free of reverence and awe; therefore *sakhya-rasa* is marked by three qualities.
 
 ‘মমতা’ অধিক, কৃষ্ণে আত্মসম জ্ঞান ৷  
 অতএব সখ্যরসের বশ ভগবান্ ॥ ২২৫ ॥
@@ -2416,7 +2416,7 @@ possessiveness  greater  of Kṛṣṇa  as equal to oneself  the sense
 ataeva sakhya-rasera vaśa bhagavān  
 therefore  by sakhya-rasa  controlled  the Lord
 
-(225) “In it the sense of Kṛṣṇa as ‘my own’ is greater, and one regards Kṛṣṇa as one’s equal; therefore the Lord is subdued by *sakhya-rasa*.
+(225) In it the sense of Kṛṣṇa as ‘my own’ is greater, and one regards Kṛṣṇa as one’s equal; therefore the Lord is subdued by *sakhya-rasa*.
 
 বাৎসল্যে শান্তের গুণ, দাস্যের সেবন ৷  
 সেই সেই সেবনের ইঁহা নাম — ‘পালন’ ॥ ২২৬ ॥
@@ -2426,7 +2426,7 @@ in vātsalya  of śānta  the quality  of dāsya  the service
 sei sei sevanera im̐hā nāma — ‘pālana’  
 that  very  service’s  here  the name  nurturing
 
-(226) “In *vātsalya* there are the quality of *śānta* and the service of *dāsya*; but here that service is called nurturing (*pālana*).
+(226) In *vātsalya* there are the quality of *śānta* and the service of *dāsya*; but here that service is called nurturing (*pālana*).
 
 সখ্যের গুণ — ‘অসঙ্কোচ’, ‘অগৌরব’-সার ৷  
 মমতাধিক্যে তাড়ন-ভর্ৎসন-ব্যবহার ॥ ২২৭ ॥
@@ -2436,7 +2436,7 @@ of sakhya  the quality  freedom from restraint  absence of reverence  the essenc
 mamatādhikye tāḍana-bhartsana-vyavahāra  
 from excess of possessiveness  chastising and scolding  behaviour
 
-(227) “The quality of *sakhya* is there too — freedom from restraint, with no reverence at its core; and from an excess of the sense of Kṛṣṇa as ‘my own’, they chastise and scold Him.
+(227) The quality of *sakhya* is there too — freedom from restraint, with no reverence at its core; and from an excess of the sense of Kṛṣṇa as ‘my own’, they chastise and scold Him.
 
 আপনারে ‘পালক’-জ্ঞান, কৃষ্ণে ‘পাল্য’-জ্ঞান ৷  
 ‘চারি’ গুণে বাৎসল্য রস — অমৃত-সমান ॥ ২২৮ ॥
@@ -2446,7 +2446,7 @@ oneself  as protector  the sense  Kṛṣṇa  as dependent  the sense
 ‘cāri’ guṇe vātsalya rasa — amṛta-samāna  
 with four  qualities  vātsalya  rasa  like nectar
 
-(228) “They regard themselves as His protectors and Kṛṣṇa as their dependent. With these four qualities, *vātsalya-rasa* is like nectar.
+(228) They regard themselves as His protectors and Kṛṣṇa as their dependent. With these four qualities, *vātsalya-rasa* is like nectar.
 
 সে অমৃতানন্দে ভক্ত সহ ডুবেন আপনে ৷  
 ‘কৃষ্ণ — ভক্তবশ’ গুণ কহে ঐশ্বর্য্য-জ্ঞানিগণে ॥ ২২৯ ॥
@@ -2456,7 +2456,7 @@ in that  nectar-bliss  the devotee  with  is immersed  Himself
 ‘kṛṣṇa — bhakta-vaśa’ guṇa kahe aiśvarya-jñāni-gaṇe  
 Kṛṣṇa  controlled by His devotees  the quality  speak of  those who know His majesty
 
-(229) “Kṛṣṇa Himself is immersed with His devotee in that nectar of bliss. Those who know His majesty speak of this quality: ‘Kṛṣṇa is controlled by His devotees.’
+(229) Kṛṣṇa Himself is immersed with His devotee in that nectar of bliss. Those who know His majesty speak of this quality: ‘Kṛṣṇa is controlled by His devotees.’
 
 ইতিদৃক্স্বলীলাভিরানন্দকুণ্ডে  
 স্বঘোষং নিমজ্জন্তমাখ্যাপয়ন্তম্ ৷  
@@ -2482,7 +2482,7 @@ in madhura-rasa  fixedness on Kṛṣṇa  service  in abundance
 sakhyera asaṅkoca, lālana-mamatādhikya haya  
 of sakhya  the freedom from restraint  of nurturing  the excess of possessiveness  are
 
-(231) “In *madhura-rasa* there are fixedness on Kṛṣṇa, service in abundance, the freedom of *sakhya*, and the abundant sense of ‘my own’ found in nurturing.
+(231) In *madhura-rasa* there are fixedness on Kṛṣṇa and abundant service, the unreserved freedom of *sakhya*, and, in still greater measure, the sense of ‘my own’ that belongs to nurturing.
 
 কান্তভাবে নিজাঙ্গ দিয়া করেন সেবন ৷  
 অতএব মধুর-রসের হয় ‘পঞ্চ’ গুণ ॥ ২৩২ ॥
@@ -2492,7 +2492,7 @@ in the mood of a beloved  one’s own body  giving  they do  service
 ataeva madhura-rasera haya ‘pañca’ guṇa  
 therefore  of madhura-rasa  are  five  qualities
 
-(232) “In the mood of His beloveds they serve Him with their own bodies; therefore *madhura-rasa* has five qualities.
+(232) In the mood of His beloveds they serve Him with their own bodies; therefore *madhura-rasa* has five qualities.
 
 আকাশাদি গুণ যেন পর পর ভূতে ৷  
 এক-দুই-তিন-চারি-ক্রমে পঞ্চ পৃথিবীতে ॥ ২৩৩ ॥
@@ -2502,7 +2502,7 @@ of ether and the rest  the qualities  as  in each succeeding  element
 eka-dui-tina-cāri-krame pañca pṛthivīte  
 one, two, three, four  in succession  five  in earth
 
-(233) “It is like the qualities of ether and the other elements, which increase in each succeeding element — one, two, three, four — until all five are found in earth.
+(233) It is like the qualities of ether and the other elements, which increase in each succeeding element — one, two, three, four — until all five are found in earth.
 
 এইমত মধুরে সব ভাব-সমাহার ৷  
 অতএব আস্বাদাধিক্যে করে চমৎকার ॥ ২৩৪ ॥
@@ -2512,7 +2512,7 @@ in this way  in madhura  all  of the moods  the gathering
 ataeva āsvādādhikye kare camatkāra  
 therefore  by its abundance of taste  does  wonder
 
-(234) “In the same way, all the moods are gathered together in *madhura*; therefore it astonishes by the abundance of its taste.
+(234) In the same way, all the moods are gathered together in *madhura*; therefore it astonishes by the abundance of its taste.
 
 এই ভক্তিরসের করিলাঙ, দিগ্দরশন ৷  
 ইহার বিস্তার মনে করিহ ভাবন ॥ ২৩৫ ॥
@@ -2522,7 +2522,7 @@ of this  bhakti-rasa  I have made  an overview
 ihāra vistāra mane kariha bhāvana  
 its  elaboration  in your mind  do  meditation
 
-(235) “I have given you only an overview of *bhakti-rasa*; meditate in your mind on its full elaboration.
+(235) I have given you only an overview of bhakti-rasa; meditate in your mind on its full elaboration.
 
 ভাবিতে ভাবিতে কৃষ্ণ স্ফুরয়ে অন্তরে ৷  
 কৃষ্ণকৃপায় অজ্ঞ পায় রসসিন্ধু-পারে ॥ ২৩৬ ॥
@@ -2532,7 +2532,7 @@ meditating  meditating  Kṛṣṇa  manifests  within
 kṛṣṇa-kṛpāya ajña pāya rasa-sindhu-pāre  
 by Kṛṣṇa’s  mercy  an ignorant one  reaches  of the ocean of rasa  the far shore
 
-(236) “As one meditates on it again and again, Kṛṣṇa manifests within the heart, and by Kṛṣṇa’s mercy even one who knows nothing reaches the far shore of the ocean of *rasa*.”
+(236) As one meditates on it again and again, Kṛṣṇa manifests within the heart, and by Kṛṣṇa’s mercy even one who knows nothing reaches the far shore of the ocean of rasa.”
 
 এত বলি’ প্রভু তাঁরে কৈলা আলিঙ্গন ৷  
 বারাণসী চলিবারে প্রভুর হৈল মন ॥ ২৩৭ ॥
@@ -2552,7 +2552,7 @@ in the morning  rising  when  He did  departure
 tabe tām̐ra pade rūpa kare nivedana  
 then  His  at the feet  Rūpa  makes  a submission
 
-(238) When the Lord rose in the morning and set out, Rūpa made this submission at His feet:
+(238) When the Lord rose in the morning and set out, Rūpa humbly made this request at His feet:
 
 ‘আজ্ঞা হয়, আসি মুঞি শ্রীচরণ-সঙ্গে ৷  
 সহিতে না পারি মুঞি বিরহ-তরঙ্গে’ ॥ ২৩৯ ॥
@@ -2562,7 +2562,7 @@ permission  if there is  may come  I  Your holy feet  with
 sahite nā pāri muñi viraha-taraṅge’  
 to bear  not  am able  I  of separation  the waves
 
-(239) “If You permit, I shall come with Your holy feet. I cannot bear the waves of separation.”
+(239) “If You permit, I shall go with You. I cannot bear the waves of separation.”
 
 প্রভু কহে, — তোমার কর্ত্তব্য, আমার বচন ৷  
 নিকটে আসিয়াছ তুমি, যাহ বৃন্দাবন ॥ ২৪০ ॥
@@ -2582,7 +2582,7 @@ Vṛndāvana  from  you  Gauḍa-deśa  by way of
 āmāre milibā nīlācalete āsiyā  
 Me  you will meet  to Nīlācala  coming
 
-(241) “Then from Vṛndāvana, by way of Gauḍa-deśa, you will come to Nīlācala and meet Me there.”
+(241) Then from Vṛndāvana, by way of Gauḍa-deśa, you will come to Nīlācala and meet Me there.”
 
 তাঁরে আলিঙ্গিয়া প্রভু নৌকাতে চড়িলা ৷  
 মূর্চ্ছিতা হঞা তিঁহো তাহাঞি পড়িলা ॥ ২৪২ ॥
@@ -2672,7 +2672,7 @@ as long as  Your  is  in Kāśī  stay
 mora ghara vinā bhikṣā nā karibā kati’  
 my  house  except  meal  not  You will take  anywhere
 
-(250) “as long as You stay in Kāśī, take Your meals nowhere but in my house.”
+(250) as long as You stay in Kāśī, take Your meals nowhere but in my house.”
 
 প্রভু জানেন, দিন পাঁচ-সাত সে রহিব ৷  
 সন্ন্যাসীর সঙ্গে ভিক্ষা কাঁহা না করিব ॥ ২৫১ ॥
@@ -2712,7 +2712,7 @@ Mahāprabhu  has come  hearing  respectable  respectable  people
 brāhmaṇa, kṣatriya āsi’ karena daraśana  
 brāhmaṇas  kṣatriyas  coming  do  seeing
 
-(254) Hearing that Mahāprabhu had come, many respectable people — *brāhmaṇas* and *kṣatriyas* — came to see Him.
+(254) Hearing that Mahāprabhu had come, many respectable people — brāhmaṇas and kṣatriyas — came to see Him.
 
 শ্রীরূপ-উপরে প্রভুর যত কৃপা হৈল ৷  
 অত্যন্ত-বিস্তার-কথা সংক্ষেপে কহিল ॥ ২৫৫ ॥
