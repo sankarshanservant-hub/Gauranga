@@ -154,7 +154,7 @@ Karma, austerity, yoga, *jñāna*, *vidhi-bhakti*, *japa*, meditation and other 
 
 Śrīla Śukadeva Mahārāja, describing the Yadu dynasty to Parīkṣit, describes the purpose of Śrī Kṛṣṇa's avatāra and the incomparably beautiful sweetness of His form, which enchants all the worlds:
 
-**yasya** (of Kṛṣṇa) **makara-kuṇḍala-cāru-karṇa-bhrājat-kapola-subhagaṁ** (lovely with cheeks that shine, lit by the ears beautifully adorned with *makara*-shaped earrings), **sa-vilāsa-hāsam** (with a playful smile), **nityotsavam** (in which there is a perpetual festival — bliss) **ānanam** (the lotus face) **nāryaḥ narāḥ ca** (women and men) **dṛśibhiḥ** (with their eyes) **pibantyaḥ** (even while drinking) **na tu tatṛpuḥ** (were not satisfied: unable to bear even the interval in which the eyes close and open, they at its maker) **nimeḥ** (at the Creator) **kupitāḥ** (were angry).
+**yasya** (of Kṛṣṇa) **makara-kuṇḍala-cāru-karṇa-bhrājat-kapola-subhagaṁ** (lovely with cheeks that shine, lit by the ears beautifully adorned with *makara*-shaped earrings), **sa-vilāsa-hāsam** (with a playful smile), **nityotsavam** (in which there is a perpetual festival — bliss) **ānanam** (the lotus face) **nāryaḥ narāḥ ca** (women and men) **dṛśibhiḥ** (with their eyes) **pibantyaḥ** (even while drinking) **na tu tatṛpuḥ**[^123-1] (were not satisfied: unable to bear even the interval in which the eyes close and open, they at its maker) **nimeḥ** (at the Creator) **kupitāḥ** (were angry).
 
 ## 124
 
