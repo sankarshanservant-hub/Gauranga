@@ -372,6 +372,76 @@ See Madhya 11.192.
 
 **go-pati-tanayā-kuñje** (Gopati is the sun; his daughter is Kālindī; in a grove on her bank) (engaged in pastimes) **gopa-vadhūṭī-viṭaṁ** (*gopa-vadhūṭīs* are young, very youthful cowherd women: the suffix *ī* is here diminutive; their lover, *viṭa*, *lampaṭa*) (the supreme) **brahma** (is Śrī Kṛṣṇa: this) **samprati** **kaṁ** (to what person) **prati** **kathayitum** **īśe** (am I able), **kaḥ** **vā** **pratītim** (faith) **āyātu** (will come to)?
 
+## 99
+
+> Subheading: As Raghupati recites the *śloka*, the Lord is overwhelmed with *prema* —
+
+*Āluyāilā*: became disordered. The mind, free of worldly deliberation, became indifferent, and therefore even the actions of the body slackened.
+
+## 100
+
+> Subheading: The Upādhyāya is amazed and understands the Lord to be “Kṛṣṇa” —
+
+## 101
+
+> Subheading: The conversation of the Lord and Raghupati: the Lord asks and the Upādhyāya answers. (1) Kṛṣṇa's form as “Śyāma” is the best —
+
+The Lord asked Raghupati: “Bhagavān has countless forms, such as Kṛṣṇa, Nārāyaṇa, Rāma and Nṛsiṁha. Which of these forms do you consider the best?”
+
+## 102
+
+> Subheading: (2) Mathurā is the best abode —
+
+Kṛṣṇa resides sometimes in Mathurā-maṇḍala and sometimes in Dvārakā, in Paravyoma. Here it is said that of these two Madhupurī is the best. Śrī Rūpapāda says in the *Upadeśāmṛta*: “Madhupurī is superior to Vaikuṇṭha, because there the Lord took birth”[^102-1] and so on.
+
+## 103
+
+> Subheading: (3) The age of *kaiśora* alone is to be worshipped —
+
+Which of Kṛṣṇa's three ages do you consider most worthy of acceptance?
+
+## 104
+
+> Subheading: (4) The transcendental *śṛṅgāra-rasa* is the highest of all and the best object of worship —
+
+## 105
+
+> Subheading: The Lord's joy —
+
+## 106
+
+> Subheading: (*Padyāvalī* 82: a *śloka* of Mādhavendra Purī)
+
+(Among the forms of Bhagavān, that is, His images differing in color and shape) **śyāmam** (the form of Śyāmasundara, the son of Nanda, with a body like a cloud) **rūpam** **eva** **param** (is the best); (among cities such as Vaikuṇṭha and Mathurā) **madhu-purī** **purī** (Mathurā alone) **varā** (is the best); (among the ages of childhood, boyhood and *kaiśora*) **kaiśorakaṁ** **vayaḥ** (preceding youth, befitting a *dhīra-lalita* hero) (alone) **dhyeyam** (is to be worshipped constantly); (among the varieties of spiritual *rasa*) **ādyaḥ** (the sweet *śṛṅgāra*) **rasaḥ** **eva** **paraḥ** (is the best).
+
+## 107
+
+> Subheading: The Lord embraces the Upādhyāya; the Upādhyāya dances —
+
+## 108
+
+> Subheading: Vallabha is amazed and offers his son at the Lord's feet —
+
+The two sons were Gopīnātha and Viṭhṭhaleśvara. Śrī Mahāprabhu came to Prayāga in Śaka 1434 or 1435; at that time Viṭhṭhala had not yet been born. See Madhya 8.47[^108-1].
+
+## 109
+
+> Subheading: The residents of the village of Āḍāila see the Lord and become Vaiṣṇavas —
+
+## 110
+
+> Subheading: The *brāhmaṇas* invite the Lord; Vallabha stops them —
+
+## 113
+
+> Subheading: Vallabha takes the Lord by boat to the other shore, to Prayāga —
+
+## 114
+
+> Subheading: In private, at Daśāśvamedha-ghāṭa, the Lord infuses power into Śrī Rūpa and instructs him —
+
+Bhagavān possesses unlimited energies. A *jīva* who has pious merit (*sukṛti*) receives the energy of mercy from Bhagavān, the possessor of energies. Fallen into the jaws of *māyā*, the *jīva*, because of ignorance, that is, aversion to Kṛṣṇa, remains uninitiated into the truth of *sambandha*, *abhidheya* and *prayojana*. Bhagavān Gaurahari mercifully first bestowed on Śrī Rūpa Gosvāmī the power to understand the truth and then taught him the truth.
+
 ---
 
 [^18-1]: So in the edition (checked against the scan).
@@ -379,3 +449,7 @@ See Madhya 11.192.
 [^28-1]: So in the edition (checked against the scan).
 
 [^54-1]: So in the edition; the verse transliteration divides it as *adbhute 'haṁ*. The commentary reads one word (*adbhuta-īha*, “whose deeds are wonderful”) and supplies “I” in parentheses.
+
+[^102-1]: *Upadeśāmṛta* 9.
+
+[^108-1]: So in the edition (checked against the scan); by content, Madhya 18.47 (on Vallabha's sons and Viṭhṭhala's birth).

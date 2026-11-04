@@ -66,6 +66,10 @@ Let those who fear worldly existence worship, some the *śruti*, some the *smṛ
 
 To whom can I say it, and who now will believe, that in the groves of the Sun's daughter the Supreme Brahman, the lover (*lampaṭa*) of the cowherd wives, performs His pastimes?
 
+## 106
+
+Śyāma's form is the best of forms, Madhupurī the best of cities, the age of *kaiśora* is the one to meditate upon, and the original *rasa*, that is, *śṛṅgāra*, is the best of *rasas*.
+
 ---
 
 [^24-27-1]: The verse translation understands it differently: the king speaks of Sanātana's elder brother in the third person, as one who has ruined a whole province by killing many people (Madhya 19.24–25).
