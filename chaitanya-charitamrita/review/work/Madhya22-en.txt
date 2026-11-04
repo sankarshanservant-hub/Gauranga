@@ -74,7 +74,7 @@ tr: The eternally liberated are ever turned toward Kṛṣṇa’s feet. They ar
 ## 12
 w: the eternally bound  from Kṛṣṇa  eternally turned away
 w: eternally in worldly existence  they suffer  the miseries of hell and the like
-tr: The eternally bound (*nitya-baddha*) are forever turned away from Kṛṣṇa. Eternally caught in worldly existence, they suffer the miseries of hell and the like.
+tr: The eternally bound (*nitya-baddha*) jīva is forever turned away from Kṛṣṇa. Eternally caught in worldly existence, he suffers the miseries of hell and the like.
 
 ## 13
 w: for that  fault  the witch Māyā  punishment  inflicts  on him
@@ -213,7 +213,7 @@ w: once  only  surrendered  who
 w: “I am Yours”  thus  and  begs
 w: fearlessness  always  to him
 w: I give  this  vow  My
-tr: “To one who surrenders to Me even once and prays, ‘I am Yours,’ I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)
+tr: “To one who surrenders to Me even once and prays, ‘I am Yours’, I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)
 fn: Heading of the edition: the words of Śrī Rāmacandra in the *Rāmāyaṇa*, when Vibhīṣaṇa came to Him.
 
 ## 35

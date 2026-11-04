@@ -132,7 +132,7 @@ the eternally bound  from Kṛṣṇa  eternally turned away
 ‘nitya-saṁsāra’, bhuñje narakādi-duḥkha  
 eternally in worldly existence  they suffer  the miseries of hell and the like
 
-(12) The eternally bound (*nitya-baddha*) are forever turned away from Kṛṣṇa. Eternally caught in worldly existence, they suffer the miseries of hell and the like.
+(12) The eternally bound (*nitya-baddha*) jīva is forever turned away from Kṛṣṇa. Eternally caught in worldly existence, he suffers the miseries of hell and the like.
 
 সেই দোষে মায়া-পিশাচী দণ্ড করে তারে ৷  
 আধ্যাত্মিকাদি তাপত্রয় তারে জারি’ মারে ॥ ১৩ ॥
@@ -402,7 +402,7 @@ fearlessness  always  to him
 dadāmy etad vrataṁ mama  
 I give  this  vow  My
 
-(34) “To one who surrenders to Me even once and prays, ‘I am Yours,’ I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)[^16]
+(34) “To one who surrenders to Me even once and prays, ‘I am Yours’, I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)[^16]
 
 মুক্তি-ভুক্তি-সিদ্ধিকামী ‘সুবুদ্ধি’ যদি হয় ৷  
 গাঢ়-ভক্তিযোগে তবে কৃষ্ণেরে ভজয় ॥ ৩৫ ॥
