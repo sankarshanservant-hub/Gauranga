@@ -311,4 +311,5 @@ Here is a devotee who acts in this way: externally, in the body of a *sādhaka*,
 ---
 
 [^126-1]: *Śvetāśvatara Upaniṣad* 6.23.
+
 [^136-1]: *Manu-saṁhitā* 3.70.
