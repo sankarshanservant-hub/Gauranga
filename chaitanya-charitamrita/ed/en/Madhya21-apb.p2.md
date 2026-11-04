@@ -9,3 +9,19 @@ That form of Śrī Kṛṣṇa was accepted in order to display the strength of 
 ## 104
 
 Beauty and the other qualities are the supreme good fortune of the spiritual truth (*cit-tattva*), and they abide eternally in this very form of Kṛṣṇa.
+
+## 110
+
+“Sweetness is the essence of *bhagavattā*.” Complete wealth, complete strength, complete fame, complete beauty, complete knowledge and complete renunciation — these six qualities are called *bhagavattā* (the nature of Bhagavān). Among them complete beauty (*śrī*) is called “sweetness” (*mādhurya*). It is the essence of the sixfold *bhagavattā*; another name for it is “sweetness.” In the form of Śrī Kṛṣṇa, *bhagavattā* is predominated by sweetness, and in the forms of Nārāyaṇa and others, by majesty.
+
+## 113
+
+Like the waves of the great ocean of eternal youth, the essence of loveliness (*lāvaṇya*) is seen in Kṛṣṇa's body. In that ocean the awakening of feelings (*bhāva*) is the whirlpool, and the sound of the flute is the whirlwind. In such a place, once a woman's heart falls like a blade of grass, it can no longer rise.
+
+## 117
+
+This sweetness of Kṛṣṇa is *ananya-siddha*, that is, perfect by itself (*svayaṁ-siddha*): no other qualities bring it about. In His other manifestations — in the forms of Nārāyaṇa and others — this form of Kṛṣṇa manifests, according to the work each manifestation is to perform, the qualities that suit it: majesty, power and the rest.
+
+## 120
+
+The glorious existence (*vaibhava-sattā*) of Nārāyaṇa and the other forms — know it as *bhagavattā* bestowed by Kṛṣṇa.

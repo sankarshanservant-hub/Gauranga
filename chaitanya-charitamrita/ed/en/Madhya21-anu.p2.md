@@ -69,3 +69,67 @@ Kṛṣṇa's form is so extraordinarily wondrous that it astonishes Kṛṣṇa
 > Subheading: Kṛṣṇa's form attracts even Nārāyaṇa and the Lakṣmīs of Paravyoma —
 
 Kṛṣṇa's form is so captivating that — to say nothing of all the beings and gods of the material world — it forcibly steals the hearts even of Nārāyaṇa and the other forms (*svarūpas*) of Kṛṣṇa in Paravyoma, above the universes. Even the Lakṣmīs, whom the Vedas call the one “crest-jewel of chaste wives,” are attracted by Kṛṣṇa's beauty and long for His lotus feet.
+
+## 107
+
+> Subheading: “When He shines together with Rādhā, then He is Madana-mohana” —
+
+Mounting the chariot of the gopīs' minds — their favourable disposition of heart — and accepting their service to Himself, Kṛṣṇa agitates the mind of Kandarpa himself, and so He is called “Madana-mohana.” Madana is the lord of five arrows: form, taste, smell, sound and touch. With His own beauty Kṛṣṇa tramples his pride — the pride of enchanting women. And Kṛṣṇa Himself, under the name *nava-kandarpa* (the new, transcendental Madana of Vraja), sports in the *rāsa* dance with the gopīs.
+
+## 108
+
+> Subheading: A description of the sweetness of Kṛṣṇa's flute —
+
+## 109
+
+> Subheading: A description of Kṛṣṇa's form —
+
+The pearl necklace on Kṛṣṇa's neck is like a row of white cranes; the peacock feather on Kṛṣṇa's head is like a rainbow; and Kṛṣṇa's yellow garment is like lightning. Kṛṣṇa is like a fresh cloud, and the gopīs are like the crops of the world. As a cloud rains upon the crops, Kṛṣṇa pours upon them the streams of the nectar of His pastimes and so gives them life. In the rainy season cranes fly, and the rainbow and the lightning are seen as well.
+
+## 110
+
+> Subheading: The highest *bhagavattā* — the sweetness of Kṛṣṇa — is described only in the *Bhāgavatam* —
+
+The very essence of the *bhagavattā* of Bhagavān, who is full of the six opulences, is sweetness, and this sweetness was revealed in Vraja itself. Śukadeva, the son of Dvaipāyana, described for the devotees, in many places of the *Śrīmad-Bhāgavatam*, this particle of sweetness that maddens the hearts of the devotees.
+
+## 111
+
+> Subheading: While describing Kṛṣṇa's qualities, the Lord describes the good fortune of the gopīs —
+
+The women of Mathurā, overflowing with feeling, described the extraordinary fortune of the gopīs and the transcendent qualities of Kṛṣṇa. In the same way Śrī Gaurahari, beginning to speak of “the taste of Kṛṣṇa” (*kṛṣṇa-rasa*), was filled with *prema* (love of God), took Sanātana's hand and, absorbed in love, recited that verse.
+
+## 112
+
+See Ādi 4.156.
+
+## 113
+
+> Subheading: The gopīs float eternally on the waves of the nectar of loveliness in the ocean of the nectar of Kṛṣṇa's youth —
+
+*Cakravāta* is a whirlwind, round like a wheel.
+
+## 114
+
+> Subheading: Drinking the nectar of Kṛṣṇa's form, the gopīs attain the goal of life —
+
+## 115
+
+> Subheading: The sweetness of Kṛṣṇa's form has no equal and no superior; it is absent in Nārāyaṇa —
+
+## 116
+
+> Subheading: The proof: even Lakṣmī, the consort of Nārāyaṇa, longs for Kṛṣṇa's sweetness —
+
+## 117
+
+> Subheading: In His other manifestations Kṛṣṇa, by His own will and as needed, reveals a portion of His sweetness, which is perfect by itself —
+
+## 118
+
+> Subheading: Kṛṣṇa's sweetness and the gopīs' love are both ever new —
+
+## 119
+
+> Subheading: Without *rāgānugā-bhakti* Kṛṣṇa's sweetness is very hard to attain —
+
+Karma, austerity, yoga, *jñāna*, *vidhi-bhakti*, *japa*, meditation and other practices (*sādhana*) do not bring one to sweetness. Kṛṣṇa's sweetness is easily attained only by one who, on the path of *rāga* (*rāga-mārga*), worships Kṛṣṇa's name with *anurāga*.
