@@ -46,6 +46,26 @@ Vallabha Bhaṭṭa was a Vaiṣṇava *paṇḍita*. At first he entered Śrī 
 
 Āḍāila-grāma: the village of Aḍelī, or Āḍāila, on the other bank of the Yamunā near the confluence (about a mile away). An ancient Viṣṇu temple of the “Vallabhī” *sampradāya* still stands there.
 
+## 74–75
+
+One whose conduct is pure, whose taint of low birth has been burned up by the blazing fire of true *bhakti*, even if he is a *caṇḍāla*, is honored by *paṇḍitas*. But an atheist, even one who knows the Vedas, is not worthy of honor. The noble birth, scriptural knowledge, *japa* and austerity of one devoid of devotion to Bhagavān are like ornaments on a dead body: they serve no purpose and merely please people.
+
+## 83
+
+That region was largely devoid of *prema*, and Vallabha Bhaṭṭa, who was present, was a man much given to argument. Seeing this, Mahāprabhu restrained Himself.
+
+## 92
+
+Several *ślokas* composed by Raghupati Upādhyāya are found in the *Padyāvalī*. He lived in Tirhut, that is, in the land of Mithilā.
+
+## 96
+
+Let those who fear worldly existence worship, some the *śruti*, some the *smṛti*, and others the *Mahābhārata*. But I (here) honor Śrī Nanda alone, on whose veranda (*alinda*) the Supreme Brahman, Kṛṣṇa, plays.
+
+## 98
+
+To whom can I say it, and who now will believe, that in the groves of the Sun's daughter the Supreme Brahman, the lover (*lampaṭa*) of the cowherd wives, performs His pastimes?
+
 ---
 
 [^24-27-1]: The verse translation understands it differently: the king speaks of Sanātana's elder brother in the third person, as one who has ruined a whole province by killing many people (Madhya 19.24–25).

@@ -218,9 +218,9 @@ See Ādi 10.84.
 
 > Subheading: Vallabha Bhaṭṭa meets the Lord —
 
-Vallabha Bhaṭṭa was the son of Lakṣmaṇa Dīkṣita of the village of Kāṅkaḍavāḍa, or Kākuṁrapāḍa, 16 miles from Niḍāḍāvalu railway station in the land of Trailaṅga. The Āndhra *brāhmaṇas* have five divisions: Vellanāṭī, Vegī-nāṭī, Muraki-nāṭī, Telagu-nāṭī and Kāśala-nāṭī. Of these, Śrī Vallabhācārya was born in a family of Vellanāṭī Āndhra *brāhmaṇas* in Śaka 1400. Some say that even before Vallabha's birth his father took *sannyāsa* and left home, and later returned home again and obtained Vallabhācārya as his son.
+Vallabha Bhaṭṭa was the son of Lakṣmaṇa Dīkṣita of the village of Kāṅkaḍavāḍa, or Kākũrapāḍa, 16 miles from Niḍāḍāvalu railway station in the land of Trailaṅga. The Āndhra *brāhmaṇas* have five divisions: Vellanāṭī, Vegī-nāṭī, Muraki-nāṭī, Telagu-nāṭī and Kāśala-nāṭī. Of these, Śrī Vallabhācārya was born in a family of Vellanāṭī Āndhra *brāhmaṇas* in Śaka 1400. Some say that even before Vallabha's birth his father took *sannyāsa* and left home, and later returned home again and obtained Vallabhācārya as his son.
 
-According to another view, in Vikrama Saṁvat 1535, that is, Śaka 1400, on the dark *ekādaśī* of the month of Caitra, Vallabhācārya appeared in “Campakāraṇya” as the son of Lakṣmaṇa Bhaṭṭa Dīkṣita, who belonged to a Vellanāṭī *brāhmaṇa* family of the land of Trailaṅga and bore the title “Khambhampāṭīvāru.” According to yet another view, he appeared in the village of Cā̃pājhāra near Rājima station on the B. N. R. line in the Madhya Pradesh. He lived in Kāśī until the age of eleven, and when, his studies completed, he was returning home, on the way, at Śeṣādri, he heard of his father's death. Leaving his brother and mother at home, he went to Vidyānagara on the bank of the Tuṅgabhadrā and delighted Kṛṣṇadeva, the grandson of King Bukka. After this he spent eighteen years in three *digvijayas* of six years each. At the age of thirty, in Kāśī, he married a *brāhmaṇa* girl of his own caste named “Mahālakṣmī.” After installing a Deity on the plateau of Govardhana Hill, he settled in the village of Āḍāila near Prayāga. He had two sons, Gopīnātha and Viṭhṭhaleśvara. In his last years he accepted *tridaṇḍi-sannyāsa*, and in Śaka 1452 he left this world in Vārāṇasī. Besides a few of Vallabha's books, such as the *Ṣoḍaśa-grantha*, the *Anubhāṣya* on the *Brahma-sūtra* and the *Subodhinī* commentary on the *Śrīmad-Bhāgavatam*, there are many more books of his.
+According to another view, in Vikrama Saṁvat 1535, that is, Śaka 1400, on the dark *ekādaśī* of the month of Caitra, Vallabhācārya appeared in “Campakāraṇya” as the son of Lakṣmaṇa Bhaṭṭa Dīkṣita, who belonged to a Vellanāṭī *brāhmaṇa* family of the land of Trailaṅga and bore the title “Khambhampāṭīvāru.” According to yet another view, he appeared in the village of Cā̃pājhāra near Rājima station on the B. N. R. line in Madhya Pradesh. He lived in Kāśī until the age of eleven, and when, his studies completed, he was returning home, on the way, at Śeṣādri, he heard of his father's death. Leaving his brother and mother at home, he went to Vidyānagara on the bank of the Tuṅgabhadrā and delighted Kṛṣṇadeva, the grandson of King Bukka. After this he spent eighteen years in three *digvijayas* of six years each. At the age of thirty, in Kāśī, he married a *brāhmaṇa* girl of his own caste named “Mahālakṣmī.” After installing a Deity on the plateau of Govardhana Hill, he settled in the village of Āḍāila near Prayāga. He had two sons, Gopīnātha and Viṭhṭhaleśvara. In his last years he accepted *tridaṇḍi-sannyāsa*, and in Śaka 1452 he left this world in Vārāṇasī. Besides a few of Vallabha's books, such as the *Ṣoḍaśa-grantha*, the *Anubhāṣya* on the *Brahma-sūtra* and the *Subodhinī* commentary on the *Śrīmad-Bhāgavatam*, there are many more books of his.
 
 ## 62
 
@@ -263,6 +263,114 @@ See Madhya 11.192.
 ## 73
 
 > Subheading: Seeing the Bhaṭṭa's good sense and hearing his sound conclusions, the Lord praises him —
+
+## 74
+
+> Subheading: A devotee of Hari, even if born in a low family, is worthy of worship, while a non-devotee *brāhmaṇa* in name only, even if he knows the Vedas, is contemptible — (*Hari-bhakti-sudhodaya* 3.11–12) —
+
+**sad-bhakti-dīptāgni-dagdha-durjāti-kalmaṣaḥ** (one in whom true, exclusive *bhakti* for Kṛṣṇa, a blazing fire, has burned to nothing the taint, that is, the sins that have begun to bear fruit (*prārabdha*), such as low birth; therefore, through service to Kṛṣṇa alone, he is) **śuciḥ** (pure in conduct), **śva-pākaḥ** (born in the very lowest family) **api** **budhaiḥ** (by the wise) **ślāghyaḥ** (is honored); (but) **nāstikaḥ** (one averse to the service of Bhagavān Kṛṣṇa) **veda-jñaḥ** (a *brāhmaṇa* who has mastered the Vedas and *śāstras*) **api** **na** (is not honored: because of the bad association he brings, the traveler on the path to the supreme goal must reject him in every way; this is the meaning).
+
+## 75
+
+**bhagavad-bhakti-hīnasya** (of one averse to Kṛṣṇa's service) **jātiḥ** (birth in a high family and so on, gained by the force of past pious merit) **śāstraṁ** (Vedic study and so on) **japaḥ** (uttering *mantras* and so on) **tapaḥ** (*sādhana* and other practices): (all this is) **aprāṇasya** (of a lifeless) **dehasya** **maṇḍanam** (like decoration, useless and accomplishing nothing) **loka-rañjanam** (conventional, as if pleasing worldly people only by its outward look; fruitless, that is the meaning).
+
+## 76
+
+> Subheading: Seeing the Lord's love, His power, beauty and so on, the Bhaṭṭa is amazed —
+
+## 77
+
+> Subheading: With the Lord and His associates they cross the river —
+
+## 78
+
+> Subheading: Seeing the dark-blue water of the Yamunā, which awakens the remembrance of Kṛṣṇa, the Lord is overwhelmed with *prema* —
+
+## 79
+
+> Subheading: The Lord leaps into the Yamunā; everyone is terrified —
+
+## 80
+
+> Subheading: They lift the Lord into the boat; the Lord dances —
+
+## 81
+
+> Subheading: His dancing nearly capsizes the boat —
+
+## 82
+
+> Subheading: Though the Lord tries to restrain Himself near the outsider Bhaṭṭa, He is maddened with *prema* —
+
+*Durvāra*: that whose manifestation cannot be checked, that is, stopped. *Uddhaṭa*: generous, excellent, unprecedented, wonderful, renowned, extraordinary, mighty.
+
+## 83
+
+> Subheading: The Lord regains composure; they land on the other shore —
+
+*Deśa-pātra* (“the place and the people”): on a boat that is nearly sinking, dancing and the like are not convenient. Moreover, near a *paṇḍita* poor in *prema*, such as Vallabha Dīkṣita, the *sāttvika-bhāvas* do not blossom.
+
+## 84
+
+> Subheading: After bathing, Vallabha brings the Lord to his home —
+
+## 85
+
+> Subheading: Vallabha washes the Lord's feet with his own hands and with his whole family honors the water from His feet —
+
+## 86
+
+> Subheading: He gives the Lord new clothes —
+
+## 87
+
+> Subheading: Worship of the Lord; Balabhadra cooks —
+
+## 88
+
+> Subheading: The Lord and the two brothers take their meal at Vallabha's home —
+
+## 89
+
+> Subheading: Śrī Rūpa and Kṛṣṇadāsa receive the Lord's remnants —
+
+## 90
+
+> Subheading: Vallabha massages the Lord's feet —
+
+## 91
+
+> Subheading: Having eaten, Vallabha returns —
+
+## 92
+
+> Subheading: Raghupati Upādhyāya, a *paṇḍita* from Trihuta, arrives —
+
+“Tiruṭiyā,” or “Tirahuṭiyā”: today four districts, Sāraṇa, Campāraṇa, Majaḥpharapura (Muzaffarpur) and Dvārabhāṅgā (Darbhanga), belong to the Tirhut division. An inhabitant of this region is called a “Tiruṭiyā.”
+
+## 93
+
+> Subheading: He bows to the Lord; the Lord blesses him —
+
+## 94
+
+> Subheading: The Lord tells the Upādhyāya to describe Kṛṣṇa —
+
+## 95
+
+> Subheading: The Upādhyāya recites his own *śloka*; the Lord is overwhelmed with *prema* —
+
+## 96
+
+> Subheading: Obeisance to Śrī Nanda — (*Padyāvalī* 126, in the first part) —
+
+**bhava-bhītāḥ** (those afraid of *saṁsāra*) **apare** (some who are not servants of Hari, but seekers of liberation) **śrutim** (the Vedic scriptures), **itare** (others, some who are not servants of Hari, *karmīs* who desire fruits) **smṛtim** (scriptures devoted to worldly rites), **anye** (people of *saṁsāra*) **bhāratam** (the *Mahābhārata* and other books that everyone enjoys reading) **bhajantu**; **aham** **tu** **iha** (in this world) (that) **nandaṁ** (the King of Vraja) **vande**, **yasya** (of Nanda) **alinde** (in the courtyard before the entrance) **paraṁ brahma** (Śrī Kṛṣṇa abides).
+
+## 98
+
+> Subheading: Kṛṣṇa, who sports in the groves of the Yamunā — (*Padyāvalī* 98) —
+
+**go-pati-tanayā-kuñje** (Gopati is the sun; his daughter is Kālindī; in a grove on her bank) (engaged in pastimes) **gopa-vadhūṭī-viṭaṁ** (*gopa-vadhūṭīs* are young, very youthful cowherd women: the suffix *ī* is here diminutive; their lover, *viṭa*, *lampaṭa*) (the supreme) **brahma** (is Śrī Kṛṣṇa: this) **samprati** **kaṁ** (to what person) **prati** **kathayitum** **īśe** (am I able), **kaḥ** **vā** **pratītim** (faith) **āyātu** (will come to)?
 
 ---
 
