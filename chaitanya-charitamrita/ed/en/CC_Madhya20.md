@@ -23,7 +23,7 @@ of the scriptures of devotion  a promulgator
 
 jaya jaya śrī-caitanya jaya nityānanda  
 glory  glory  to Śrī Caitanya  glory  to Nityānanda  
-jayādvaita-candra jaya gaura-bhakta-vṛnda  
+jayādvaita-candra jaya gaura bhakta-vṛnda  
 glory  to Advaitacandra  glory  to Gaura’s  devotees  host
 
 (2) Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
