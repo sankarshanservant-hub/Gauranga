@@ -168,10 +168,90 @@ See Madhya 21.136.
 
 Even a discerning *paṇḍita* cannot understand the words, acts and gestures (*mudrās*) of a devotee in whom *prema* has arisen.
 
+## 36
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, the “Prema-bhakti-laharī,” verse 17) —
+
+**yasya** **dhanyasya** (of the devotee whose aim has been fulfilled) **cetasi** (in the heart) **nava-premā** **unmīlati** (becomes manifest), (his) **asya** **mudrā** (behavior) **antar-vāṇibhiḥ** (to those versed in the scriptures) **api** **suṣṭhu** **sudurgamā** (utterly impossible to understand).
+
+## 37
+
+> Subheading: The characteristics and acts of a devotee filled with *prema* — (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 2, verse 40) —
+
+See Ādi 7.94.
+
+## 38
+
+> Subheading: The denser *prema* grows, the higher its stage; the last stage is *mahābhāva* —
+
+## 39
+
+> Subheading: A comparison —
+
+## 40
+
+> Subheading: *Rati* is the seed, and *prema* has stages of density; as they differ, so does the fullness of the taste of *rasa* —
+
+## 41
+
+> Subheading: The five kinds of *rati* —
+
+*Rati* (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, third *laharī*): “If the sign of *rati* — as if the heart had softened within — is clearly seen in those who desire liberation and others, it is not *rati*. But seeing its signs, the simple-minded (*bāla*) are amazed, while one who knows easily recognizes it. Therefore it is called *ratyābhāsa*, a semblance of *rati*.” The sign of *rati* is the softness, or moistness, of the heart when it becomes manifest. But when it is seen in *mumukṣus* or *bubhukṣus*, it never deserves the name *rati*. Seeing the signs of this *rati*, rooted in motives other than service to Kṛṣṇa, the ignorant and simple-minded are amazed. But those versed in the *siddhānta* of *bhakti* call it “a semblance of *rati*” (*ratyābhāsa*).
+
+## 42
+
+> Subheading: The five *rasas* bring Kṛṣṇa under control —
+
+*Sthāyi-bhāva* (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, fifth *laharī*, first verse): “The *bhāva* that brings under its control both the *bhāvas* in harmony with it and those opposed to it, and reigns like a good king, is called the *sthāyi-bhāva*. Here the *sthāyi-bhāva* is said to be *rati* whose object is Śrī Kṛṣṇa.” The *bhāva* that brings under its control the harmonious *bhāvas*, beginning with laughter (*hāsa*), and the opposing ones, beginning with anger (*krodha*), and reigns like the best of kings, is the *sthāyi-bhāva*. Here only *rati* whose object is Śrī Kṛṣṇa is called the *sthāyi-bhāva*.
+
+## 43
+
+> Subheading: The *sthāyi-bhāva*, or *rati*, joining with the ingredients (*sāmagrī*), gives rise to *rasa*; *rati* is the “root” of *rasa* —
+
+## 44
+
+> Subheading: The four kinds of ingredients —
+
+## 43–44
+
+(*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, first *laharī*.) “Now it will be described how this *rati* for Keśava, whose characteristics have been given, nourished by the ingredients, takes on the supreme form, the form of *rasa*. When the *vibhāvas*, *anubhāvas*, *sāttvikas* and *vyabhicārīs*, through hearing and so on, make this *kṛṣṇa-rati*, the *sthāyi-bhāva*, relishable in the hearts of the devotees, it becomes *bhakti-rasa*.”
+
+## 45
+
+> Subheading: A comparison —
+
+## 46
+
+> Subheading: The “cause” of *rasa*, *vibhāva*, is twofold: (1) *avalambana* and (2) *uddīpana* —
+
+(Ibid.) “The *vibhāvas* are to be known as the causes by which *rati* is relished. They are twofold: some are *ālambanas*, others *uddīpanas*.” As the *Agni Purāṇa* says about this: “That in which and by which *rati* and the rest are made relishable (*vibhāvyate*) is called *vibhāva*; it is twofold — *ālambana* and *uddīpana*.” The cause by which *kṛṣṇa-rati* is relished is called *vibhāva*; it is of two kinds, *ālambana* and *uddīpana*. That in which and by which *rati* and the rest are made relishable is called *vibhāva* (consisting of *ālambana* and *uddīpana*) in the *Agni Purāṇa* and other scriptures.
+
+*Ālambana* (ibid.): “The wise regard Kṛṣṇa and His devotees as the *ālambanas* — as the object (*viṣaya*) of *rati* and the rest, and as its vessel (*ādhāra*).” These two — Kṛṣṇa as the object of *rati* and the rest (that is, also of the secondary *rasas*, beginning with *hāsya*), and Kṛṣṇa's devotee as its vessel — the learned call *ālambana*.
+
+*Uddīpana* (ibid.): “Those things are called *uddīpanas* that kindle *bhāva*. They are Śrī Kṛṣṇacandra's qualities, His activities, His adornment, His smile, the fragrance of His body, His flute, horn, ankle bells and conch, His footprints, the holy places, *tulasī*, the devotees, the day of Hari and so on.” Whatever manifests *bhāva* is *uddīpana*: Śrī Kṛṣṇa's qualities, activities and adornment (the means of decorating the body — arranging the hair with a comb and so on), and His smile (gentle laughter), the fragrance of His body, His flute, horn, ankle bells, conch, His footprints, the holy places, *tulasī*, the devotees, the day of Hari — the vow of Ekādaśī and so on.
+
+## 47
+
+> Subheading: The “effect” of *rasa*, *anubhāva*, of 13 kinds; the 8 kinds of *sāttvika*, also an “effect” of *rasa* —
+
+*Anubhāva* (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, second *laharī*, first verse): “The *anubhāvas* reveal the *bhāvas* residing in the heart. They are mostly external transformations and are called *udbhāsvaras*. They are dancing, rolling on the ground, singing, loud crying, stretching the body, roaring (*huṅkāra*), yawning, heavy breathing, disregard for people's opinion, salivation, loud laughter, dizziness, hiccups and so on. According to their meaning they are given two names, *śīta* (cool) and *kṣepaṇa* (impetuous). Singing, yawning and the like are *śīta*; dancing and the like are called *kṣepaṇa*.” The external transformations that reveal the *bhāvas* residing in the heart and are known by the name *udbhāsvara* are the *anubhāvas*: dancing, rolling on the ground, singing, loud crying, stretching the body, roaring, yawning, long sighs, disregard for people's opinion, salivation, loud laughter, dizziness, hiccups and so on. They are given two names, *śīta* and *kṣepaṇa*: singing, yawning and so on are *śīta*, and dancing and so on are *kṣepaṇa*.
+
+*Udbhāsvara*: “The wise call *udbhāsvaras* those things that shine forth (*udbhāsante*) in their own abode [the body]: the slipping of the waist-knot (*nīvi*), the upper cloth and the braid, stretching the body, yawning, flaring of the nostrils, sighs and so on.” Whatever manifests in the body of a person filled with *bhāva* the learned call *udbhāsvara*: the loosening of the waist-knot (*nīvi*), the slipping of the upper cloth and the braid, stretching the body, yawning, flaring of the nostrils, sighs, and also the external transformations described above — rolling on the ground, hiccups and so on.
+
+*Stambha* and the rest: see Madhya 14.167.
+
+## 48
+
+> Subheading: The “helpers” of *rasa*, the *vyabhicārī-bhāvas*, 33 in number —
+
+*Nirveda*, *harṣa* and the rest: see Madhya 14.167.
+
+*Vyabhicārī* (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, fourth *laharī*, first verse): “… the thirty-three *bhāvas* that are called *vyabhicārīs*. They move toward the *sthāyi-bhāva* in a special way, facing it. They are recognized by words, by movements of the body and by *sattva*; these are the *vyabhicārīs*. They impart movement (*sañcārayanti*) to the *bhāva*, and so they are also called *sañcārīs*. They rise and sink in the nectar ocean of the *sthāyi-bhāva* like waves, swell it, and become one with it.” The *vyabhicārī-bhāvas* are thirty-three. They move in the *sthāyi-bhāva* in a special way, coming to the fore. With words, with the body (the brows, the eyes and so on) and with *anubhāvas* born of *sattva*, the *vyabhicārī-bhāvas* impart movement to the *bhāva*; therefore they are called *sañcārīs*. Sinking into the nectar ocean of the *sthāyi-bhāva*, they swell it like waves and become one with it.
+
 ---
 
 [^6-1]: *Bhakti-rasāmṛta-sindhu* 1.3.6.
 
 [^14-15-1]: *Śrīmad-Bhāgavatam* 11.19.36.
 
-[^27-1]: The translation of the verse understands this differently: “no Vaiṣṇava perfections.”
+[^27-1]: The verse translation reads differently: “no Vaiṣṇava perfections.”

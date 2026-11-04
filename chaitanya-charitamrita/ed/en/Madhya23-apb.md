@@ -63,3 +63,11 @@ Filled with *rati* for Hari, this crest jewel of kings, begging alms in the city
 ## 33
 
 “O Puṇḍarīkākṣa, when will I, chanting Your names, dance on the bank of the Yamunā with tears in my eyes?”
+
+## 36
+
+In the fortunate person in whose heart new *prema* has arisen, the acts and *mudrās* — that is, the signs — become extremely difficult to understand, even for those versed in the scriptures.
+
+## 47
+
+*Udbhāsvara* is a particular bodily (*āṅgika*) *anubhāva*. It is of five kinds: disorder in one's dress and ornaments, stretching the body, yawning, flaring of the nostrils, and exhaling and inhaling.
