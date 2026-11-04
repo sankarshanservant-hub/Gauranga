@@ -706,7 +706,7 @@ tr: “Throughout the eight *praharas* of day and night they worship Kṛṣṇa
 ## 131
 w: sometimes  on bhakti-rasa  scriptures  they do  writing
 w: about Caitanya  talks  they hear  they do  on Caitanya  meditation
-tr: “Sometimes they write scriptures on the *rasa* of devotion; they hear talks about Caitanya and meditate on Caitanya.”
+tr: “Sometimes they write scriptures on the *rasa* of devotion; they hear talks about Caitanya and meditate on Him.”
 
 ## 132
 w: these words  hearing  of the great souls  great happiness  arises
@@ -870,7 +870,7 @@ tr: “First of all the gardener cuts away the side shoots; then the main branch
 ## 162
 w: the fruit of prema  ripening  falls  the gardener  tastes
 w: the creeper  holding to  the gardener  the wish-fulfilling tree  reaches
-tr: “The fruit of *prema* ripens and falls, and the gardener tastes it. Holding to the creeper, the gardener reaches the wish-fulfilling tree.
+tr: “The fruit of *prema* ripens and falls, and the gardener tastes it. Holding to the creeper, he reaches the wish-fulfilling tree.
 
 ## 163
 w: there  that  wish-fulfilling tree  he does  service
@@ -1310,7 +1310,7 @@ tr: “If You permit, I shall come with Your holy feet. I cannot bear the waves 
 ## 240
 w: the Lord  says  your  duty  My  word
 w: near  have come  you  go  to Vṛndāvana
-tr: The Lord said: “Your duty is to follow My word. You have come near to it — go to Vṛndāvana.
+tr: The Lord said: “Your duty is to follow My word. You have come close to Vṛndāvana; go there.
 
 ## 241
 w: Vṛndāvana  from  you  Gauḍa-deśa  by way of
@@ -1356,7 +1356,7 @@ fn: Edition heading: “Tapana Miśra invites the Lord, and Candraśekhara invit
 ## 249
 w: the meal  having fed  Miśra  says  the Lord’s feet  holding
 w: one  alms  I beg  to me  give  mercy  showing
-tr: After feeding Him, Miśra clasped the Lord’s feet and said: “I beg one alms of You; please be merciful and grant it:
+tr: After feeding Him, Miśra clasped the Lord’s feet and said: “I beg You for one favour; be merciful and grant it:
 
 ## 250
 w: as long as  Your  is  in Kāśī  stay

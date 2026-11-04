@@ -1368,7 +1368,7 @@ sometimes  on bhakti-rasa  scriptures  they do  writing
 caitanya-kathā śune, kare caitanya-cintana”  
 about Caitanya  talks  they hear  they do  on Caitanya  meditation
 
-(131) “Sometimes they write scriptures on the *rasa* of devotion; they hear talks about Caitanya and meditate on Caitanya.”
+(131) “Sometimes they write scriptures on the *rasa* of devotion; they hear talks about Caitanya and meditate on Him.”
 
 এইকথা শুনি’ মহান্তের মহাসুখ হয় ৷  
 চৈতন্যের কৃপা যাঁহে, তাঁহে কি বিস্ময় ? ॥ ১৩২ ॥
@@ -1693,7 +1693,7 @@ the fruit of prema  ripening  falls  the gardener  tastes
 latā avalambi’ mālī ‘kalpa-vṛkṣa’ pāya  
 the creeper  holding to  the gardener  the wish-fulfilling tree  reaches
 
-(162) “The fruit of *prema* ripens and falls, and the gardener tastes it. Holding to the creeper, the gardener reaches the wish-fulfilling tree.
+(162) “The fruit of *prema* ripens and falls, and the gardener tastes it. Holding to the creeper, he reaches the wish-fulfilling tree.
 
 তাঁহা সেই কল্পবৃক্ষের করয়ে সেবন ৷  
 সুখে প্রেমফল-রস করে আস্বাদন ॥ ১৬৩ ॥
@@ -2572,7 +2572,7 @@ the Lord  says  your  duty  My  word
 nikaṭe āsiyācha tumi, yāha vṛndāvana  
 near  have come  you  go  to Vṛndāvana
 
-(240) The Lord said: “Your duty is to follow My word. You have come near to it — go to Vṛndāvana.
+(240) The Lord said: “Your duty is to follow My word. You have come close to Vṛndāvana; go there.
 
 বৃন্দাবন হৈতে তুমি গৌড়দেশ দিয়া ৷  
 আমারে মিলিবা নীলাচলেতে আসিয়া ॥ ২৪১ ॥
@@ -2662,7 +2662,7 @@ the meal  having fed  Miśra  says  the Lord’s feet  holding
 eka bhikṣā māgi, more deha’ kṛpā kari’  
 one  alms  I beg  to me  give  mercy  showing
 
-(249) After feeding Him, Miśra clasped the Lord’s feet and said: “I beg one alms of You; please be merciful and grant it:
+(249) After feeding Him, Miśra clasped the Lord’s feet and said: “I beg You for one favour; be merciful and grant it:
 
 ‘যাবৎ তোমার হয় কাশীপুরে স্থিতি ৷  
 মোর ঘর বিনা ভিক্ষা না করিবা কতি’ ॥ ২৫০ ॥
