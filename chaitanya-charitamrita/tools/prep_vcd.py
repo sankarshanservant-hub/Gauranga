@@ -261,8 +261,8 @@ def run(chap):
     raw_log = []
     hdr, verses, removed = parse(src, os.path.join(ROOT, 'ed', 'fixes', '%s-raw.txt' % chap), raw_log)
     for r in raw_log: print('  raw: %s %s => %s %s' % r)
-    # вторая часть этапа А длинной главы (параллельный исполнитель) — ed/fixes/<Гл>.p2.txt
-    fixes = [f for suf in ('', '.p2') for f in load_fixes(os.path.join(ROOT, 'ed', 'fixes', '%s%s.txt' % (chap, suf)))]
+    # вторая и третья части этапа А длинной главы (параллельные исполнители) — ed/fixes/<Гл>.p2.txt, .p3.txt
+    fixes = [f for suf in ('', '.p2', '.p3') for f in load_fixes(os.path.join(ROOT, 'ed', 'fixes', '%s%s.txt' % (chap, suf)))]
     # @N reorder: 74 71 72-73 => 71 72 73-74 — переставить и перенумеровать стихи по изданию Гаудия Матха
     for f in fixes:
         if f['f'] != 'reorder': continue
