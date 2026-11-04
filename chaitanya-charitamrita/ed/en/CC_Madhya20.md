@@ -359,189 +359,239 @@ the Gosvāmī  says  the mohur  taking  go  you  home
 হাতে করোঁয়া, ছিঁড়া কান্থা, নির্ভয় হইলা ॥ ৩৬ ॥
 
 tāre vidāya diyā gosāñi calilā ekalā  
-hāte karoṅyā, chiṅḍā kānthā, nirbhaya hailā
+him  leave  giving  the Gosvāmī  went on  alone  
+hāte karoṅyā, chiṅḍā kānthā, nirbhaya hailā  
+in his hand  a water pot  a torn  quilt  free from fear  he became
 
-(36) [not yet translated]
+(36) Sending him away, Sanātana Gosvāmī went on alone. With nothing but a water pot in his hand and a torn quilt, he was now free from fear.
 
 চলি’ চলি’ গোসাঞি তবে আইলা হাজিপুরে ৷  
 সন্ধ্যাকালে বসিলা এক উদ্যান-ভিতরে ॥ ৩৭ ॥
 
 cali’ cali’ gosāñi tabe āilā hājipure  
-sandhyā-kāle vasilā eka udyāna-bhitare
+walking  walking  the Gosvāmī  then  came  to Hājipura  
+sandhyā-kāle vasilā eka udyāna-bhitare  
+in the evening  he sat down  a  garden  within
 
-(37) [not yet translated]
+(37) Walking on and on, Sanātana Gosvāmī came to Hājipura, and in the evening he sat down in a garden.
 
 সেই হাজিপুরে রহে, শ্রীকান্ত তার নাম ৷  
 গোসাঞির ভগিনীপতি, করে রাজকাম ॥ ৩৮ ॥
 
 sei hājipure rahe, śrīkānta tāra nāma  
-gosāñira bhaginī-pati, kare rāja-kāma
+in that  Hājipura  lived  Śrīkānta  his  name  
+gosāñira bhaginī-pati, kare rāja-kāma  
+of the Gosvāmī  the sister’s husband  he does  the king’s work
 
-(38) [not yet translated]
+(38) In that Hājipura lived the Gosvāmī’s brother-in-law, his sister’s husband Śrīkānta, who was in the king’s service.
 
 তিন লক্ষ মুদ্রা রাজা দিয়াছে তার স্থানে ৷  
 ঘোড়া মূল্য লঞা পাঠায় পাৎসার স্থানে ॥ ৩৯ ॥
 
 tina lakṣa mudrā rājā diyāche tāra sthāne  
-ghoḍā mūlya lañā pāṭhāya pātsāra sthāne
+three  lakhs  of coins  the king  had given  to him  
+ghoḍā mūlya lañā pāṭhāya pātsāra sthāne  
+horses  the price  taking  he sends  to the emperor
 
-(39) [not yet translated]
+(39) The king had given him three hundred thousand coins; with this money he bought horses and sent them to the emperor.
 
 টুঙ্গির উপর বসি’ সেই গোসাঞিরে দেখিল ৷  
 রাত্রে একজন-সঙ্গে গোসাঞি-পাশ আইল ॥ ৪০ ॥
 
 ṭuṅgira upara vasi’ sei gosāñire dekhila  
-rātre eka-jana-saṅge gosāñi-pāśa āila
+a tower  on  sitting  he  the Gosvāmī  saw  
+rātre eka-jana-saṅge gosāñi-pāśa āila  
+at night  with one man  to the Gosvāmī  he came
 
-(40) [not yet translated]
+(40) Sitting on a tower, Śrīkānta saw Sanātana Gosvāmī, and at night he came to him with one attendant.
 
 দুইজন মিলি’ তথা ইষ্টগোষ্ঠী কৈল ৷  
 বন্ধন-মোক্ষণ-কথা গোসাঞি সকলি কহিল ॥ ৪১ ॥
 
 dui-jana mili’ tathā iṣṭa-goṣṭhī kaila  
-bandhana-mokṣaṇa-kathā gosāñi sakali kahila
+the two  meeting  there  an intimate talk  had  
+bandhana-mokṣaṇa-kathā gosāñi sakali kahila  
+of the imprisonment and release  the story  the Gosvāmī  all  told
 
-(41) [not yet translated]
+(41) The two met there and talked intimately, and Sanātana Gosvāmī told him the whole story of his imprisonment and release.
 
 তিঁহো কহে, — দিন-দুই রহ এই স্থানে ৷  
 ভদ্র হও, ছাড়’ এই মলিন বসনে ॥ ৪২ ॥
 
 tiṅho kahe, — dina-dui raha ei sthāne  
-bhadra hao, chāḍa’ ei malina vasane
+he  says  a couple of days  stay  in this  place  
+bhadra hao, chāḍa’ ei malina vasane  
+become presentable  give up  these  dirty  clothes
 
-(42) [not yet translated]
+(42) Śrīkānta said, “Stay here a couple of days. Make yourself presentable and give up these dirty clothes.”
 
 গোসাঞি কহে, — একক্ষণ ইহা না রহিব ৷  
 গঙ্গা পার করি’ দেহ’ এক্ষণে চলিব ॥ ৪৩ ॥
 
 gosāñi kahe, — eka-kṣaṇa ihā nā rahiba  
-gaṅgā pāra kari’ deha’ e-kṣaṇe caliba
+the Gosvāmī  says  even a moment  here  not  I will stay  
+gaṅgā pāra kari’ deha’ e-kṣaṇe caliba  
+the Ganges  across  take me  at once  I will go
 
-(43) [not yet translated]
+(43) Sanātana Gosvāmī said, “I will not stay here even a moment. Take me across the Ganges; I must go at once.”
 
 যত্ন করি’ তিঁহো এক ভোটকম্বল দিল ৷  
 গঙ্গা পার করি’ দিল — গোসাঞি চলিল ॥ ৪৪ ॥
 
-yatna kari’ teṅho eka bhoṭa-kambala dila  
-gaṅgā pāra kari’ dila — gosāñi calila
+yatna kari’ tiṅho eka bhoṭa-kambala dila  
+with care  he  a  woollen Bhoṭa blanket  gave  
+gaṅgā pāra kari’ dila — gosāñi calila  
+the Ganges  across  he took  the Gosvāmī  went on
 
-(44) [not yet translated]
+(44) Śrīkānta lovingly gave him a woollen Bhoṭa blanket and took him across the Ganges, and Sanātana Gosvāmī went on his way.
 
 তবে বারাণসী গোসাঞি আইলা কতদিনে ৷  
 শুনি’ আনন্দিত হইলা প্রভুর আগমনে ॥ ৪৫ ॥
 
 tabe vārāṇasī gosāñi āilā kata-dine  
-śuni ānandita hailā prabhura āgamane
+then  to Vārāṇasī  the Gosvāmī  came  in some days  
+śuni’ ānandita hailā prabhura āgamane  
+hearing  delighted  he became  of the Lord’s  arrival
 
-(45) [not yet translated]
+(45) After some days Sanātana Gosvāmī reached Vārāṇasī, and he was overjoyed to hear that the Lord had arrived there.
 
 চন্দ্রশেখরের ঘরে আসি’ দ্বারেতে বসিলা ৷  
 মহাপ্রভু জানি’ চন্দ্রশেখরে কহিলা ॥ ৪৬ ॥
 
 candraśekharera ghare āsi’ dvārete vasilā  
-mahāprabhu jāni’ candraśekhare kahilā
+to Candraśekhara’s  house  coming  at the door  he sat  
+mahāprabhu jāni’ candraśekhare kahilā  
+Mahāprabhu  knowing  to Candraśekhara  said
 
-(46) [not yet translated]
+(46) He came to Candraśekhara’s house and sat down at the door. Mahāprabhu knew this and said to Candraśekhara,
 
 দ্বারে এক ‘বৈষ্ণব’ হয়, বোলাহ তাঁহারে ৷  
 চন্দ্রশেখর দেখে — ‘বৈষ্ণব’ নাহিক দ্বারে ॥ ৪৭ ॥
 
 dvāre eka ‘vaiṣṇava’ haya, bolāha tāṅhāre  
-candraśekhara dekhe — ‘vaiṣṇava’ nāhika dvāre
+at the door  a  Vaiṣṇava  there is  call  him  
+candraśekhara dekhe — ‘vaiṣṇava’ nāhika dvāre  
+Candraśekhara  sees  a Vaiṣṇava  there is not  at the door
 
-(47) [not yet translated]
+(47) “There is a Vaiṣṇava at the door. Call him in.” Candraśekhara looked, but saw no Vaiṣṇava at the door.
 
 দ্বারেতে বৈষ্ণব নাহি’ — প্রভুরে কহিল ৷  
 কেহ হয় করি’ প্রভু তাহারে পুছিল ॥ ৪৮ ॥
 
 dvārete vaiṣṇava nāhi’ — prabhure kahila  
-keha haya kari’ prabhu tāhāre puchila
+at the door  a Vaiṣṇava  there is not  to the Lord  he said  
+keha haya kari’ prabhu tāhāre puchila  
+anyone  is there  saying  the Lord  him  asked
 
-(48) [not yet translated]
+(48) He told the Lord, “There is no Vaiṣṇava at the door.” The Lord asked him, “Is anyone there at all?”
 
 তিঁহো কহে, — এক ‘দরবেশ’ আছে দ্বারে ৷  
 তাঁরে আন’ প্রভুর বাক্যে কহিল আসি’ তাঁরে ॥ ৪৯ ॥
 
 tiṅho kahe, — eka ‘daraveśa’ āche dvāre  
-tāṅre āna’ prabhura vākye kahila āsi’ tāṅre
+he  says  a  dervish  is  at the door  
+tāṅre āna’ prabhura vākye kahila āsi’ tāṅre  
+him  bring  at the Lord’s  word  he said  coming  to him
 
-(49) [not yet translated]
+(49) He replied, “There is a dervish at the door.” “Bring him in,” said the Lord, and at His word Candraśekhara came out and said to him,
 
 প্রভু তোমায় বোলায়, আইস, দরবেশ! ৷  
 শুনি’ আনন্দে সনাতন করিলা প্রবেশ ॥ ৫০ ॥
 
 prabhu tomāya bolāya, āisa, daraveśa!  
-śuni’ ānande sanātana karilā praveśa
+the Lord  you  is calling  come  dervish  
+śuni’ ānande sanātana karilā praveśa  
+hearing  in joy  Sanātana  made  entrance
 
-(50) [not yet translated]
+(50) “The Lord is calling you. Come in, dervish!” Hearing this, Sanātana joyfully went in.
 
 তাঁহারে অঙ্গনে দেখি’ প্রভু ধাঞা আইলা ৷  
 তাঁরে আলিঙ্গন করি’ প্রেমাবিষ্ট হৈলা ॥ ৫১ ॥
 
 tāṅhāre aṅgane dekhi’ prabhu dhāñā āilā  
-tāṅre āliṅgana kari’ premāviṣṭa hailā
+him  in the courtyard  seeing  the Lord  running  came  
+tāṅre āliṅgana kari’ premāviṣṭa hailā  
+him  an embrace  making  overwhelmed with love  He became
 
-(51) [not yet translated]
+(51) Seeing him in the courtyard, the Lord came running, embraced him and was overwhelmed with love.
 
 প্রভুস্পর্শে প্রেমাবিষ্ট হৈলা সনাতন ৷  
 মোরে না ছুঁইহ — কহে গদ্গদ-বচন ॥ ৫২ ॥
 
 prabhu-sparśe premāviṣṭa hailā sanātana  
-more nā chuṅiha — kahe gadgada-vacana
+at the Lord’s touch  overwhelmed with love  became  Sanātana  
+more nā chuṅiha — kahe gadgada-vacana  
+me  do not  touch  he says  in a choked  voice
 
-(52) [not yet translated]
+(52) At the Lord’s touch Sanātana too was overwhelmed with love. In a voice choked with emotion he said, “Do not touch me!”
 
 দুইজনে গলাগলি রোদন অপার ৷  
 দেখি’ চন্দ্রশেখরের হৈল চমৎকার ॥ ৫৩ ॥
 
 dui-jane galāgali rodana apāra  
-dekhi’ candraśekharera haila camatkāra
+the two  embracing each other  weeping  boundless  
+dekhi’ candraśekharera haila camatkāra  
+seeing  of Candraśekhara  there was  amazement
 
-(53) [not yet translated]
+(53) Embracing each other, the two wept without end, and Candraśekhara was amazed to see it.
 
 তবে প্রভু তাঁর হাত ধরি’ লঞা গেলা ৷  
 পিণ্ডার উপরে আপন-পাশে বসাইলা ॥ ৫৪ ॥
 
 tabe prabhu tāṅra hāta dhari’ lañā gelā  
-piṇḍāra upare āpana-pāśe vasāilā
+then  the Lord  his  hand  taking  led him in  
+piṇḍāra upare āpana-pāśe vasāilā  
+a raised platform  upon  at His own side  He seated him
 
-(54) [not yet translated]
+(54) Then the Lord took him by the hand, led him in and seated him beside Himself on a raised platform.
 
 শ্রীহস্তে করেন তাঁর অঙ্গ সম্মার্জ্জন ৷  
 তিঁহো কহে, — মোরে, প্রভু, না কর স্পর্শন ॥ ৫৫ ॥
 
 śrī-haste karena tāṅra aṅga sammārjana  
-teṅho kahe, — more, prabhu, nā kara sparśana
+with His holy hand  He does  his  body  cleansing  
+tiṅho kahe, — more, prabhu, nā kara sparśana  
+he  says  me  O Lord  do not  make  touching
 
-(55) [not yet translated]
+(55) With His own hand the Lord wiped Sanātana’s body clean. Sanātana said, “O Lord, do not touch me!”
 
 প্রভু কহে, — তোমা স্পর্শি আত্ম পবিত্রিতে ৷  
 ভক্তি-বলে পার তুমি ব্রহ্মাণ্ড শোধিতে ॥ ৫৬ ॥
 
 prabhu kahe, — tomā sparśi ātma pavitrite  
-bhakti-bale pāra tumi brahmāṇḍa śodhite
+the Lord  says  you  I touch  Myself  to purify  
+bhakti-bale pāra tumi brahmāṇḍa śodhite  
+by the power of devotion  can  you  the universe  purify
 
-(56) [not yet translated]
+(56) The Lord said, “I touch you to purify Myself, for by the power of your devotion you can purify the entire universe.
 
 ভবদ্বিধা ভাগবতাস্তীর্থভূতাঃ স্বয়ং প্রভো ৷  
 তীর্থীকুর্ব্বন্তি তীর্থানি স্বান্তঃস্থেন গদাভৃতা ॥ ৫৭ ॥
 
 bhavad-vidhā bhāgavatās  
+like you  devotees  
 tīrtha-bhūtāḥ svayaṁ prabho  
+holy places  being  yourselves,  O lord  
 tīrthī-kurvanti tīrthāni  
-svāntaḥ-sthena gadā-bhṛtā
+make holy  the holy places  
+svāntaḥ-sthena gadā-bhṛtā  
+by Him within  who bears the club
 
-(57) [not yet translated]
+(57) “Devotees such as you are themselves holy places, my lord. By the Lord who dwells within your hearts, you make even the holy places holy.” (Śrīmad-Bhāgavatam, 1.13.10)
 
 ন মেঽভক্তশ্চতুর্ব্বেদী মদ্ভক্তঃ শ্বপচঃ প্রিয়ঃ ৷  
 তস্মৈ দেয়ং ততো গ্রাহ্যং স চ পূজ্যো যথা হ্যহম্ ॥ ৫৮ ॥
 
 na me ’bhaktaś catur-vedī  
+not  to Me  a nondevotee  a knower of the four Vedas  
 mad-bhaktaḥ śva-pacaḥ priyaḥ  
+My devotee  a dog-eater  dear  
 tasmai deyaṁ tato grāhyaṁ  
-sa ca pūjyo yathā hy aham
+to him  should be given  from him  should be accepted  
+sa ca pūjyo yathā hy aham  
+he  and  is to be worshipped  as  indeed  I
 
-(58) [not yet translated]
+(58) “Even a knower of the four Vedas is not dear to Me if he is not devoted to Me, but My devotee is dear to Me even if he was born a dog-eater. One should give to him and accept from him; he is to be worshipped just as I am.” (Itihāsa-samuccaya, quoted in Hari-bhakti-vilāsa, 10.91)
 
 বিপ্রাদ্দ্বিষড়্গুণযুতাদরবিন্দনাভ-  
 পাদারবিন্দবিমুখাৎ শ্বপচং বরিষ্ঠম্ ৷  
@@ -549,19 +599,25 @@ sa ca pūjyo yathā hy aham
 প্রাণং পুনাতি স কুলং ন তু ভূরিমানঃ ॥ ৫৯ ॥
 
 viprād dvi-ṣaḍ-guṇa-yutād aravinda-nābha-  
+than a brāhmaṇa  twelve  qualities  endowed with  of the lotus-naveled Lord  
 pādāravinda-vimukhāt śva-pacaṁ variṣṭham  
+from the lotus feet  averse  a dog-eater  better  
 manye tad-arpita-mano-vacanehitārtha-  
-prāṇaṁ punāti sa kulaṁ na tu bhūri-mānaḥ
+I consider  to Him offered  mind  words  deeds  wealth  
+prāṇaṁ punāti sa kulaṁ na tu bhūri-mānaḥ  
+and life  purifies  he  his family  not  but  one full of pride
 
-(59) [not yet translated]
+(59) “I consider a dog-eater who has offered his mind, words, deeds, wealth and life to the lotus-naveled Lord better than a brāhmaṇa endowed with the twelve qualities who is averse to the Lord’s lotus feet. Such a devotee purifies his whole family, but the brāhmaṇa full of pride does not.” (Śrīmad-Bhāgavatam, 7.9.10)
 
 তোমা দেখি, তোমা স্পর্শি, গাই তোমার গুণ ৷  
 সর্ব্বেন্দ্রিয়-ফল, — এই শাস্ত্রের নিরূপণ ॥ ৬০ ॥
 
 tomā dekhi, tomā sparśi, gāi tomāra guṇa  
-sarvendriya-phala, — ei śāstra-nirūpaṇa
+you  I see  you  I touch  I sing  your  qualities  
+sarvendriya-phala, — ei śāstrera nirūpaṇa  
+of all the senses  the fruit  this  of the scriptures  the conclusion
 
-(60) [not yet translated]
+(60) To see you, to touch you and to sing your qualities is the fruit of all the senses — this is the conclusion of the scriptures.
 
 অক্ষ্ণোঃ ফলং ত্বাদৃশ-দর্শনং হি  
 তনোঃ ফলং ত্বাদৃশ-গাত্রসঙ্গঃ ৷  
@@ -569,83 +625,105 @@ sarvendriya-phala, — ei śāstra-nirūpaṇa
 সুদুর্ল্লভা ভাগবতা হি লোকে ॥ ৬১ ॥
 
 akṣṇoḥ phalaṁ tvādṛśa-darśanaṁ hi  
+of the eyes  the fruit  of one like you  the sight  indeed  
 tanoḥ phalaṁ tvādṛśa-gātra-saṅgaḥ  
+of the body  the fruit  of one like you  bodily contact  
 jihvā-phalaṁ tvādṛśa-kīrtanaṁ hi  
-su-durlabhā bhāgavatā hi loke
+of the tongue  the fruit  of one like you  the glorification  indeed  
+su-durlabhā bhāgavatā hi loke  
+very rare  devotees of the Lord  indeed  in the world
 
-(61) [not yet translated]
+(61) “The fruit of the eyes is to see one like you; the fruit of the body is to touch the body of one like you; the fruit of the tongue is to glorify one like you. Pure devotees of the Lord are very rare in this world.” (Hari-bhakti-sudhodaya, 13.2)
 
 এত কহি কহে প্রভু, — শুন, সনাতন ৷  
 কৃষ্ণ — বড় দয়াময়, পতিত পাবন ॥ ৬২ ॥
 
 eta kahi kahe prabhu, — śuna, sanātana  
-kṛṣṇa — baḍa dayāmaya, patita-pāvana
+so  saying  says  the Lord  listen  Sanātana  
+kṛṣṇa — baḍa dayāmaya, patita pāvana  
+Kṛṣṇa  very  merciful  of the fallen  the purifier
 
-(62) [not yet translated]
+(62) Having said this, the Lord continued, “Listen, Sanātana. Kṛṣṇa is most merciful; He is the purifier of the fallen.
 
 মহা-রৌরব হৈতে তোমা করিলা উদ্ধার ৷  
 কৃপার সমুদ্র কৃষ্ণ গম্ভীর অপার ॥ ৬৩ ॥
 
 mahā-raurava haite tomā karilā uddhāra  
-kṛpāra samudra kṛṣṇa gambhīra apāra
+from the hell Mahā-raurava  you  He made  deliverance  
+kṛpāra samudra kṛṣṇa gambhīra apāra  
+of mercy  the ocean  Kṛṣṇa  deep  boundless
 
-(63) [not yet translated]
+(63) He has delivered you from the hell called Mahā-raurava. Kṛṣṇa is an ocean of mercy, deep and boundless.”
 
 সনাতন কহে, — কৃষ্ণ আমি নাহি জানি ৷  
 আমার উদ্ধার-হেতু তোমার কৃপা মানি ॥ ৬৪ ॥
 
 sanātana kahe, — kṛṣṇa āmi nāhi jāni  
-āmāra uddhāra-hetu tomāra kṛpā māni
+Sanātana  says  Kṛṣṇa  I  do not  know  
+āmāra uddhāra-hetu tomāra kṛpā māni  
+of my  deliverance  the cause  Your  mercy  I consider
 
-(64) [not yet translated]
+(64) Sanātana replied, “I do not know Kṛṣṇa. I consider Your mercy alone the cause of my deliverance.”
 
 কেমনে ছুটিলা বলি’ প্রভু প্রশ্ন কৈলা ৷  
 আদ্যোপান্ত সব কথা তিঁহো শুনাইলা ॥ ৬৫ ॥
 
-kemane chuṭilā bali prabhu praśna kailā  
-ādyopānta saba kathā tiṅho śunāilā
+kemane chuṭilā bali’ prabhu praśna kailā  
+how  you escaped  saying  the Lord  a question  asked  
+ādyopānta saba kathā tiṅho śunāilā  
+from beginning to end  the whole  story  he  told
 
-(65) [not yet translated]
+(65) The Lord asked, “How did you escape?” and Sanātana told Him the whole story from beginning to end.
 
 প্রভু কহে, — তোমার দুই ভাই প্রয়াগে মিলিলা ৷  
 রূপ, অনুপম, — দুঁহে বৃন্দাবন গেলা ॥ ৬৬ ॥
 
 prabhu kahe, — tomāra dui bhāi prayāge mililā  
-rūpa, anupama — duṅhe vṛndāvana gelā
+the Lord  says  your  two  brothers  in Prayāga  met Me  
+rūpa, anupama, — duṅhe vṛndāvana gelā  
+Rūpa  Anupama  both  to Vṛndāvana  have gone
 
-(66) [not yet translated]
+(66) The Lord said, “I met your two brothers, Rūpa and Anupama, in Prayāga. Both have gone on to Vṛndāvana.”
 
 তপনমিশ্রেরে আর চন্দ্রশেখরেরে ৷  
 প্রভু-আজ্ঞায় সনাতন মিলিলা দোঁহারে ॥ ৬৭ ॥
 
 tapana-miśrere āra candraśekharere  
-prabhu-ājñāya sanātana mililā doṅhāre
+Tapana Miśra  and  Candraśekhara  
+prabhu-ājñāya sanātana mililā doṅhāre  
+at the Lord’s order  Sanātana  met  both
 
-(67) [not yet translated]
+(67) At the Lord’s bidding Sanātana met both Tapana Miśra and Candraśekhara.
 
 তপনমিশ্র তবে তাঁরে কৈলা নিমন্ত্রণ ৷  
 প্রভু কহে, — ক্ষৌর করাহ, যাহ, সনাতন ॥ ৬৮ ॥
 
 tapana-miśra tabe tāṅre kailā nimantraṇa  
-prabhu kahe, — kṣaura karāha, yāha, sanātana
+Tapana Miśra  then  him  made  invitation  
+prabhu kahe, — kṣaura karāha, yāha, sanātana  
+the Lord  says  a shave  have  go  Sanātana
 
-(68) [not yet translated]
+(68) Tapana Miśra then invited him for his meals, and the Lord said, “Go and have a shave, Sanātana.”
 
 চন্দ্রশেখরেরে প্রভু কহে বোলাঞা ৷  
 এই বেশ দূর কর, যাহ ইঁহারে লঞা ॥ ৬৯ ॥
 
 candraśekharere prabhu kahe bolāñā  
-ei veṣa dūra kara, yāha iṅhāre lañā
+Candraśekhara  the Lord  says  calling  
+ei veśa dūra kara, yāha iṅhāre lañā  
+this  garb  away  put  go  him  taking
 
-(69) [not yet translated]
+(69) Calling Candraśekhara, the Lord said, “Take him with you and remove this garb.”
 
 ভদ্র করাঞা তাঁরে গঙ্গাস্নান করাইল ৷  
 শেখর আনিয়া তাঁরে নূতন বস্ত্র দিল ॥ ৭০ ॥
 
 bhadra karāñā tāṅre gaṅgā-snāna karāila  
-śekhara āniyā tāṅre nūtana vastra dila
+shaved  having made  him  a bath in the Ganges  had him take  
+śekhara āniyā tāṅre nūtana vastra dila  
+Śekhara  bringing  him  new  cloth  gave
 
-(70) [not yet translated]
+(70) Candraśekhara had him shaved and bathed in the Ganges, and then brought him new cloth.
 
 সেই বস্ত্র সনাতন না কৈলা অঙ্গীকার ৷  
 শুনিয়া প্রভুর মনে আনন্দ অপার ॥ ৭১ ॥
