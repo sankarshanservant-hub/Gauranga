@@ -4,7 +4,7 @@
 
 ## 272–273
 
-See *Brahma-saṁhitā*, Chapter 5, verses 10–13.
+See *Brahma-saṁhitā* 5.10–13.
 
 ## 274
 
@@ -258,7 +258,7 @@ The Manus are: (1) Svāyambhuva, the son of Brahmā Svayambhū; (2) Svārociṣa
 
 > Subheading: In the four *yugas*, avatāras of four colors —
 
-In Satya-yuga, the white *yuga-avatāra*; in Tretā-yuga, the red *yuga-avatāra*; in Dvāpara-yuga, the black *yuga-avatāra*; and in Kali-yuga, the yellow *yuga-avatāra*. Assuming these four colors, Kṛṣṇa as the *yuga-avatāra* upholds *dharma*.
+In Satya-yuga, the white *yuga-avatāra*; in Tretā-yuga, the red *yuga-avatāra*; in Dvāpara-yuga, the black *yuga-avatāra*; and in Kali-yuga, the golden *yuga-avatāra*. Assuming these four colors, Kṛṣṇa as the *yuga-avatāra* upholds *dharma*.
 
 ## 331
 
@@ -298,9 +298,9 @@ Nimi, the king of Videha, asked: “In which *yuga*, assuming which color, and b
 
 ## 338
 
-> Subheading: In Kali-yuga Bhagavān is yellow and two-armed, the preacher of the Name and *prema* —
+> Subheading: In Kali-yuga Bhagavān is golden and two-armed, the preacher of the Name and *prema* —
 
-Kṛṣṇa, assuming a yellow color, established the *dharma* of Kali-yuga — the *saṅkīrtana* of Kṛṣṇa's name — and together with the devotees bestowed on the people *prema-bhakti* for Kṛṣṇa.
+Kṛṣṇa, assuming a golden color, established the *dharma* of Kali-yuga — the *saṅkīrtana* of Kṛṣṇa's name — and together with the devotees bestowed on the people *prema-bhakti* for Kṛṣṇa.
 
 ## 339
 
@@ -410,7 +410,7 @@ See Madhya 8.266.[^357-1]
 
 > Subheading: Before a devotee expert in worship, the hidden nature of Bhagavān is revealed —
 
-In the age of Kali, the *svarūpa-lakṣaṇa* of the *yuga-avatāra* is His form of yellow color, and His *taṭastha-lakṣaṇa* is the work of giving *prema* and of *saṅkīrtana*.
+In the age of Kali, the *svarūpa-lakṣaṇa* of the *yuga-avatāra* is His form of golden color, and His *taṭastha-lakṣaṇa* is the work of giving *prema* and of *saṅkīrtana*.
 
 ## 363
 
@@ -560,9 +560,9 @@ In Bhagavān Vrajendranandana is the “most complete” (*pūrṇatama*) manife
 
 ## 402
 
-> Subheading: The author's humility; told by the principle of “the branch and the moon” —
+> Subheading: The author's humility; told by the principle of “the moon on the branch” —
 
-On the principle of “the branch and the moon” (*śākhā-candra-nyāya*), see Madhya 20.248.
+On the principle of “the moon on the branch” (*śākhā-candra-nyāya*), see Madhya 20.248.
 
 ## 403
 
