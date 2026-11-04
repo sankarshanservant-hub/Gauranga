@@ -1108,7 +1108,7 @@ mature bliss (becoming)  of wonder
 kāṣṭhām āpadyate parām  
 the limit  reaches  the highest
 
-(92) “When Kṛṣṇa and the other *vibhāvas*, and the other ingredients of *rasa*, have entered the path of experience, this *rati* becomes mature bliss and reaches the highest limit of wonder.” (Bhakti-rasāmṛta-sindhu, 2.1.10)
+(92) “When Kṛṣṇa and the other *vibhāvas*, together with the remaining ingredients of *rasa*, have entered the path of experience, this *rati* becomes mature bliss and reaches the highest limit of wonder.” (Bhakti-rasāmṛta-sindhu, 2.1.10)[^45]
 
 এই রস-আস্বাদ নাহি অভক্তের গণে ৷  
 কৃষ্ণভক্তগণ করে রস আস্বাদনে ॥ ৯৩ ॥
@@ -1118,9 +1118,9 @@ this  of rasa  the taste  is not  of non-devotees  in the company
 kṛṣṇa-bhakta-gaṇa kare rasa āsvādane  
 Kṛṣṇa’s  devotees  do  of rasa  the relishing
 
-(93) Non-devotees have no taste of this *rasa*; it is the devotees of Kṛṣṇa who relish *rasa*.
+(93) Non-devotees have no taste of this *rasa*; it is the devotees of Kṛṣṇa who relish *rasa*.[^46]
 
-সর্ব্বথৈব দুরূহোঽযমভক্তৈর্ভগবদ্রসঃ ৷  
+সর্ব্বথৈব দুরূহোঽয়মভক্তৈর্ভগবদ্রসঃ ৷  
 তৎপাদাম্বুজসর্ব্বস্বৈর্ভক্তৈরেবানুরস্যতে ॥ ৯৪ ॥
 
 sarvathaiva durūho ‘yam  
@@ -1152,7 +1152,7 @@ earlier  at Prayāga  I  of rasa  for the discussion
 tomāra bhāi rūpe kailum̐ śakti-sañcāre  
 your  brother  into Rūpa  I made  of power  the infusion
 
-(96) Earlier, at Prayāga, I infused power into your brother Rūpa so that he could expound *rasa*.
+(96) Earlier, at Prayāga, I infused power into your brother Rūpa so that he could expound *rasa*.[^47]
 
 তুমিহ করিহ ভক্তিশাস্ত্রের প্রচার ৷  
 মথুরায় লুপ্ততীর্থের করিহ উদ্ধার ॥ ৯৭ ॥
@@ -1172,7 +1172,7 @@ in Vṛndāvana  to Kṛṣṇa  service  of Vaiṣṇavas  the conduct
 bhakti-smṛti-śāstra kari’ kariha pracāra  
 of devotion  smṛti  a scripture  composing  do  the spreading
 
-(98) Service to Kṛṣṇa in Vṛndāvana and the conduct of Vaiṣṇavas — compose a scripture of devotional law (*bhakti-smṛti*) about them and spread it.
+(98) Compose a scripture of devotional law (*bhakti-smṛti*) on service to Kṛṣṇa in Vṛndāvana and on the conduct of Vaiṣṇavas, and spread it.”[^48]
 
 যুক্তবৈরাগ্য-স্থিতি সব শিখাইল ৷  
 শুষ্কবৈরাগ্য-জ্ঞান সব নিষেধিল ॥ ৯৯ ॥
@@ -1182,7 +1182,7 @@ of fitting  renunciation  the standing  all  He taught
 śuṣka-vairāgya-jñāna saba niṣedhila  
 dry  renunciation  knowledge  all  He forbade
 
-(99) He taught him everything about the standing of fitting renunciation (*yukta-vairāgya*) and altogether forbade dry renunciation and dry knowledge.
+(99) He taught him all about the true place of fitting renunciation (*yukta-vairāgya*), and forbade dry renunciation and dry knowledge altogether.[^49]
 
 অদ্বেষ্টা সর্ব্বভূতানাং মৈত্রঃ করুণ এব চ ৷  
 নির্ম্মমো নিরহঙ্কারঃ সমদুঃখসুখঃ ক্ষমী ॥ ১০০ ॥
@@ -1207,7 +1207,7 @@ in Me  fixed  mind and intelligence
 yo mad-bhaktaḥ sa me priyaḥ  
 who  My devotee  he  to Me  dear
 
-(100–101) “One who bears no hatred toward any being, who is friendly and compassionate, free from the sense of ‘mine’ and from false ego, equal in sorrow and joy, and forbearing; who is ever content, a *yogī*, self-controlled and firm in resolve, with mind and intelligence fixed on Me — such a devotee of Mine is dear to Me.” (Bhagavad-gītā, 12.13–14)
+(100–101) “One who bears no hatred toward any being, who is friendly and compassionate, free from the sense of ‘mine’ and from false ego, equal in sorrow and joy, and forbearing; who is ever content, a *yogī*, self-controlled and firm in resolve, with mind and intelligence fixed on Me — such a devotee of Mine is dear to Me.” (Bhagavad-gītā, 12.13–14)[^50]
 
 যস্মান্নোদ্বিজতে লোকো লোকান্নোদ্বিজতে তু যঃ ৷  
 হর্ষামর্ষভয়োদ্বেগৈর্মুক্তো যঃ স চ মে প্রিয়ঃ ॥ ১০২ ॥
@@ -1235,7 +1235,7 @@ all  undertakings  renouncing
 yo me bhaktaḥ sa me priyaḥ  
 who  My  devotee  he  to Me  dear
 
-(103) “My devotee who expects nothing, who is pure and expert, unconcerned and free from distress, and who has given up all self-seeking undertakings, is dear to Me.” (Bhagavad-gītā, 12.16)
+(103) “My devotee who expects nothing, who is pure and expert, unconcerned and free from distress, and who has given up all self-seeking undertakings, is dear to Me.” (Bhagavad-gītā, 12.16)[^51]
 
 যো ন হৃষ্যতি ন দ্বেষ্টি ন শোচতি ন কাঙ্ক্ষতি ৷  
 শুভাশুভপরিত্যাগী ভক্তিমান্ যঃ স মে প্রিয়ঃ ॥ ১০৪ ॥
@@ -1249,7 +1249,7 @@ the auspicious and the inauspicious  renouncing
 bhaktimān yaḥ sa me priyaḥ  
 full of devotion  who  he  to Me  dear
 
-(104) “One who neither rejoices nor hates, neither grieves nor desires, who has given up both the auspicious and the inauspicious, and who is full of devotion — he is dear to Me.” (Bhagavad-gītā, 12.17)
+(104) “One who neither rejoices nor hates, neither grieves nor desires, who has given up both the auspicious and the inauspicious, and who is full of devotion — he is dear to Me.” (Bhagavad-gītā, 12.17)[^52]
 
 সমঃ শত্রৌ চ মিত্রে চ তথা মানাপমানয়োঃ ৷  
 শীতোষ্ণসুখদুঃখেষু সমঃ সঙ্গবিবর্জ্জিতঃ ॥ ১০৫ ॥
@@ -1314,7 +1314,7 @@ then  Sanātana  all  conclusions  asked about
 bhāgavata-gūḍha-siddhānta prabhu sakali kahilā  
 of the Bhāgavata  the hidden  conclusions  the Lord  all  told
 
-(109) Then Sanātana asked about all the conclusions of the scriptures (*siddhānta*), and the Lord told him all the hidden conclusions of the Bhāgavata.
+(109) Then Sanātana asked about all the conclusions (*siddhānta*), and the Lord told him all the hidden conclusions of the *Bhāgavata*.
 
 হরিবংশে কহিয়াছে গোলোকে নিত্যস্থিতি ৷  
 ইন্দ্র আসি’ করিল যবে শ্রীকৃষ্ণেরে স্তুতি ॥ ১১০ ॥
@@ -1324,7 +1324,7 @@ in the Harivaṁśa  it is told  in Goloka  eternal  abiding
 indra āsi’ karila yabe śrī-kṛṣṇere stuti  
 Indra  coming  offered  when  to Śrī Kṛṣṇa  praise
 
-(110) The Harivaṁśa tells of His eternal abiding in Goloka, at the time when Indra came and offered prayers to Śrī Kṛṣṇa.
+(110) The *Harivaṁśa* tells of His eternal abiding in Goloka, at the time when Indra came and offered prayers to Śrī Kṛṣṇa.[^53]
 
 মৌষল-লীলা, আর কৃষ্ণ-অন্তর্দ্ধান ৷  
 কেশাবতার, আর বিরুদ্ধ ব্যাখ্যান ॥ ১১১ ॥
@@ -1341,7 +1341,7 @@ of the queens  the abduction  and so on  all  made of illusion
 vyākhyā śikhāila yaiche susiddhānta haya  
 the explanation  He taught  so that  the right conclusion  it becomes
 
-(111–112) The pastime of the clubs (*mauṣala-līlā*), Kṛṣṇa’s disappearance, the “hair-*avatāra*” (*keśāvatāra*) and other contrary explanations, the abduction of the queens and so on — all these are illusory (*māyā-maya*). The Lord taught how to explain them so that they accord with the right conclusion (*siddhānta*).
+(111–112) The pastime of the clubs (*mauṣala-līlā*), Kṛṣṇa’s disappearance, the “hair-*avatāra*” (*keśāvatāra*) and other contrary explanations, the abduction of the queens and so on — all these are illusory (*māyā-maya*). The Lord taught how to explain them so that they accord with the right conclusion (*siddhānta*).[^54]
 
 তবে সনাতন প্রভুর চরণে ধরিয়া ৷  
 নিবেদন করে দন্তে তৃণ-গুচ্ছ লঞা ॥ ১১৩ ॥
@@ -1353,10 +1353,10 @@ a submission  makes  in his teeth  of straw  a bunch  taking
 
 (113) Then Sanātana clasped the Lord’s feet and, holding a bunch of straw between his teeth, made this submission:
 
-নীচজাতি, নীচসেবী, মুঞি — সুপামর ৷  
+“নীচজাতি, নীচসেবী, মুঞি — সুপামর ৷  
 সিদ্ধান্ত শিখাইলা, — যেই ব্রহ্মার অগোচর ॥ ১১৪ ॥
 
-nīca-jāti, nīca-sevī, muñi — supāmara  
+“nīca-jāti, nīca-sevī, muñi — supāmara  
 low-born  a servant of the low  I  utterly wretched  
 siddhānta śikhāilā, — yei brahmāra agocara  
 the conclusions  You have taught  which  to Brahmā  beyond reach
@@ -1383,12 +1383,12 @@ a boon  give  my  on the head  placing  feet
 
 (116) If it is Your wish to make a lame man dance, then place Your feet on my head and give me Your blessing.
 
-মুঞি যে শিখাই তোরে স্ফুরুক সকল ৷  
-এই তোমার বর হৈতে হবে মোর বল ॥ ১১৭ ॥
+‘মুঞি যে শিখাই তোরে স্ফুরুক সকল’ ৷  
+এই তোমার বর হৈতে হবে মোর বল ॥” ১১৭ ॥
 
-muñi ye śikhāi tore sphuruka sakala  
+‘muñi ye śikhāi tore sphuruka sakala’  
 I  what  teach  to you  may it manifest  all  
-ei tomāra vara haite habe mora bala  
+ei tomāra vara haite habe mora bala”  
 this  Your  blessing  from  will be  my  strength
 
 (117) Bless me thus: ‘May all that I teach you manifest in you.’ This blessing of Yours will be my strength.”
@@ -1431,7 +1431,7 @@ soon  is attained  by him  of love for Kṛṣṇa  the treasure
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(121) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+(121) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^55]
 
 ---
 
@@ -1522,3 +1522,25 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^43]: *Amṛta-pravāha-bhāṣya*: the four kinds correspond to four levels — ordinary *jīvas*, Śiva and the other gods, Nārāyaṇa and the other forms of the Lord, and Govinda Himself.
 
 [^44]: *Anubhāṣya*: the best supports in *dāsya-rasa* are the son of the king of Vraja and Citraka, Raktaka, Patraka and others; in *sakhya-rasa*, Śrīdāmā, Sudāmā, Subala and others; in *vātsalya*, Nanda, Yaśodā and others.
+
+[^45]: Verses 89–92 form a single sentence (the edition’s heading: *Bhakti-rasāmṛta-sindhu*, 2.1.7–10).
+
+[^46]: *Anubhāṣya*: non-devotees (*abhakta*) are those who crave enjoyment and liberation and have turned away from Hari. The edition’s heading: “only a liberated devotee of Kṛṣṇa can taste this spiritual *rasa*; for a worldly, crude relisher (*kurasika*) it is impossible”.
+
+[^47]: The edition’s heading: “earlier, at Prayāga, at the Daśāśvamedha-ghāṭa, Śrī Rūpa was taught *kṛṣṇa-rasa*”.
+
+[^48]: *Amṛta-pravāha-bhāṣya*: the *bhakti-smṛti* scripture is the *Hari-bhakti-vilāsa*. *Anubhāṣya* (to 97–98): the Lord entrusts Sanātana, a Vaiṣṇava *ācārya*, with four duties — preaching the scriptures of *bhakti*, recovering the forgotten holy places, establishing the service of Kṛṣṇa in Vṛndāvana by revealing the Deity, and Vaiṣṇava conduct through a book of Vaiṣṇava *smṛti*. Here the Lord’s instruction, begun in verse 3, ends.
+
+[^49]: *Amṛta-pravāha-bhāṣya*: to use the world in relation to Kṛṣṇa is *yukta-vairāgya*; to take *sannyāsa* thinking the world worthless is dry renunciation.
+
+[^50]: The edition’s heading: “the Gītā gives the external marks (*taṭastha-lakṣaṇa*) of a devotee dear to Kṛṣṇa — 12.13–20”.
+
+[^51]: The edition reads *yo me bhaktaḥ* (the Gītā usually has *yo mad-bhaktaḥ*); the sense is the same, “who is My devotee”; the text follows the edition.
+
+[^52]: The edition omits *na dveṣṭi* (a misprint; see the head of `ed/fixes/Madhya23.txt`).
+
+[^53]: *Anubhāṣya*: after Kṛṣṇa lifted Govardhana, Indra glorified Him: above Vaikuṇṭha is Goloka, the supreme abode, hard to attain even for those who serve Nārāyaṇa (*Harivaṁśa*, Viṣṇu-parva, 19).
+
+[^54]: *Anubhāṣya*: these accounts are not the eternal transcendental pastimes; they were told to bewilder the *asuras*, hostile to Viṣṇu. *Amṛta-pravāha-bhāṣya*: the Lord rejected the explanation that Kṛṣṇa is an *avatāra* of a hair and taught the pure one: *ka + īśa = keśa*, Kṛṣṇa, “the Lord of Brahmā”.
+
+[^55]: The same verse as Madhya 7.155 (the colophon refrain); translation as there.
