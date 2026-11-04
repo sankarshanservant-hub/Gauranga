@@ -45,3 +45,11 @@ The Kāma-gāyatrī mantra is Kṛṣṇa's *svarūpa*. Counting the *kāma-bīj
 ## 127
 
 *Aṣṭamī-indu* means the half-moon.
+
+## 131
+
+*Vipula* means wide. The two wide eyes, reddish in hue, are the ministers of the king — Kṛṣṇa's face; they destroy the intoxication of Madana.
+
+## 132
+
+*Dui āṅkhi ki karibe pāne* (“how much can two eyes drink?”): how can the viewer's two eyes drink that ocean of nectar?

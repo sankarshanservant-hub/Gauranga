@@ -178,6 +178,40 @@ For the Kāma-gāyatrī, see Madhya 8.137. The twenty-four and a half syllables 
 
 The moon of Kṛṣṇa's face is the king of the moons. The moons are these: (1) the moon of the face, (2) the moon of the left cheek, (3) the moon of the right cheek, (4) the moon of the sandal dot, (5–14) the moons of the fingernails, (15–24) the moons of the toenails, (24½) the half-moon on the forehead. With this society of twenty-four and a half moons, the king of the moons — Kṛṣṇa's face — sits on the royal throne of Kṛṣṇa's body and rules.
 
+## 129
+
+> Subheading: Like a kṣatriya intoxicated with play, Kṛṣṇa's lotus face pierces the gopīs' hearts —
+
+The moon of Kṛṣṇa's face is a king given to play (*vilāsī*). This moon of His face makes the *makara* earrings and the lotuses of His eyes dance constantly. The brows are like a bow, the eyes are its arrows, and the two ears are the bowstring drawn to them. With eyes that stretch to His ears Kṛṣṇa pierces the target — the hearts of the cowherd women.
+
+## 130
+
+> Subheading: As the most munificent one, He distributes nectar to all from the moons of His body —
+
+The dance of this moon of His face surpasses everyone. Setting out the other twenty-three and a half moons as wares in a market, it distributes its own nectar free of charge. Some buyers Kṛṣṇa satisfies with the moonlit nectar of His sweet smile, some with the nectar of His lips, and all others in other ways.
+
+## 131
+
+> Subheading: A description of the ministers of the king — the moon of the face, intoxicated with amorous play — and of his pleasure-palace and the rest —
+
+## 132
+
+> Subheading: When the gopīs see the moon of Kṛṣṇa's face, their unsatisfied longing is ever new, ever growing, supremely wondrous and spiritual; therefore they reproach the Creator —
+
+Only from acts born of *bhakti* does *sukṛti* arise that turns one toward *bhakti*. How much of such a face of Kṛṣṇa can a viewer drink with two eyes? His thirst and greed grow twofold, yet he cannot drink as much as he wishes. His own incapacity and want trouble his mind deeply, and then the viewer, sorrowful at heart, begins to blame the one who created him.
+
+## 133
+
+> Subheading: The Creator does not understand the taste of Kṛṣṇa's sweetness —
+
+The unsatisfied viewer then says with regret: “I have no hundreds of thousands, no millions of eyes — I have only two, and even these are covered with leaves. Now and then the eyelid falls for a brief moment, and then my seeing of Kṛṣṇa is interrupted again. So Vidhi, the maker of bodies, is utterly foolish. He gave up the service of seeing Kṛṣṇa and took to trivial austerity, and so he is not at all a knower of *rasa* (*rasajña*). He is a mere doer of dry tasks such as creation and knows nothing at all of how and where things should be arranged.”
+
+## 134
+
+> Subheading: Advice and instruction to the Creator —
+
+“Had he accepted my advice and given millions of eyes to the one who beholds Kṛṣṇa's face, I would have known Vidhi to be skilled in the work of creation.”
+
 ---
 
 [^123-1]: The edition here reads “তৃতৃপুঃ”; the verse itself has “ততৃপুঃ” (checked against the scan).
