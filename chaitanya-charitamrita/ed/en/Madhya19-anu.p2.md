@@ -320,6 +320,60 @@ In *śānta*, *dāsya* and *gaurava-sakhya*, a predominance of majesty is seen h
 
 > Subheading: (2) In *sakhya-rati* — Arjuna —
 
+## 199
+
+> Subheading: (*Bhagavad-gītā* 11.41–42)
+
+## 199–200
+
+**tava** **mahimānam** (greatness) **ajānatā** (not realizing) **mayā** **pramādāt** (out of carelessness) **praṇayena** (out of friendly affection) **vā** **api** **sakhā** **iti** **matvā** (to You) **prasabham** (rashly) **he kṛṣṇa**, **he yādava**, **he sakhe** **iti** **yat** **uktam** (was said), **tat idam**; **he acyuta**! **vihāra-śayyāsana-bhojaneṣu** (in play, lying down, sitting, eating and so on) **ekaḥ** (alone) **vā** (or) **tat-samakṣam** (before friends) **avahāsārtham** (in jest) **asat-kṛtaḥ** (treated with disrespect) **asi** **iti** **yat**, **tat ca** **aham** **aprameyam** (whose power is inconceivable) **tvām** **kṣāmaye** (beg to forgive; the sense is: forgive all offenses, whether in words or in disrespect).
+
+## 201
+
+> Subheading: (3) In *madhura-rati* — Rukmiṇī —
+
+## 202
+
+> Subheading: The evidence — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 60, verse 24)
+
+Once, in her own home, Rukmiṇī began to serve Śrī Kṛṣṇa with her own hands. Śrī Kṛṣṇa, wishing to test her attachment, jokingly described Himself as poor, possessionless (*niṣkiñcana*) and indifferent, and so entirely unworthy of Rukmiṇī's love, and told her to leave Śrī Kṛṣṇa's company and give her love to someone else. On hearing this, Rukmiṇī, whose very life is Kṛṣṇa alone, fell into this condition:
+
+**suduḥkha-bhaya-śoka-vinaṣṭa-buddheḥ** (of her, Rukmiṇī, whose reason was lost through intense pain — from hearing something unpleasant — through fear of being abandoned, and through grief, that is, remorse) **ślathad-valayataḥ** (from which bracelets were slipping and falling) **hastāt** **vyajanam** (the fan) **papāta**; **viklava-dhiyaḥ** (of her whose mind was overwhelmed, out of control) **dehaḥ ca** **sahasā** **eva** **muhyan** (fainting) **keśān** **pravikīrya** (scattering them in all directions) **vāta-vihatā** (struck by the wind) **rambhā** (a banana tree) **iva** **papāta** (fell).
+
+## 203
+
+> Subheading: In Vraja, in *kevalā-rati*, devoid of majesty, Kṛṣṇa is regarded as one's own, subject to oneself —
+
+A devotee in whom majesty predominates cannot understand the greatness of the pure *prema* of *kevalā*. Even when seeing Bhagavān's majesty, a devotee wholly given to *kevalā-rati* acknowledges only his own relationship [with Him].
+
+## 204
+
+> Subheading: (1) Yaśodā regards Svayaṁ Bhagavān Kṛṣṇa as her own son — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 8, verse 45)
+
+When Yaśodā saw in Śrī Kṛṣṇa's mouth the universal form full of majesty, knowledge of the truth (*tattva-jñāna*) awakened awe (*sambhrama*) in her. But at once, by Kṛṣṇa's will, in her heart, in which natural *mamatā* (the feeling “he is mine”) is strong, her love for Kṛṣṇa grew still deeper and increased:
+
+**trayyā** (by the three Vedas — the *Ṛg*, *Yajur* and *Sāma* — consisting of *karma* and *upāsanā*, as Indra and others), **upaniṣadbhiḥ** (by the *śrutis* forming the *jñāna-kāṇḍa*, the higher part of the Vedas, as “Brahman”), **sāṅkhyaiḥ** (as “the Puruṣa”), **yogaiḥ** (as “the Paramātmā”), **sātvataiḥ** (by the *Pañcarātras* and *āgamas*, as “Bhagavān”) **upagīyamāna-māhātmyam** (whose greatness is sung and praised) **harim** **sā** (Yaśodā, endowed with *kevalā-rati*) **ātmajam** (as her son) **amanyata** (regarded).
+
+## 205
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 9, verse 14)
+
+To see His mother's love, playful Kṛṣṇa broke a pot of yogurt in Yaśodā's house and began secretly eating fresh butter. This describes what the angry Yaśodā did:
+
+**avyaktam** (beyond the reach of the material senses and so on) **adhokṣajam** (Bhagavān Himself, who has surpassed *akṣaja*, knowledge born of the senses) **martya-liṅgam** (who out of compassion for the *jīvas* had accepted a human body) **ātmajam** (her son) **matvā** **gopikā** (Yaśodā), **yathā** (as a mother) **prākṛtam** (an ordinary child), [so] **dāmnā** (with a rope) **ulūkhale** (to the mortar) **babandha** (tried to bind).
+
+## 206
+
+> Subheading: (2) Śrīdāmā and the others regard Svayaṁ Bhagavān Kṛṣṇa as their friend — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 18, verse 24)
+
+Once, in the forests of Vraja, while the cows were grazing, Kṛṣṇa saw that the demon Pralamba had come disguised as a cowherd boy to carry off Rāma and Kṛṣṇa. Kṛṣṇa bewildered him and, still herding the cows, absorbed the friends on Śrī Kṛṣṇa's side and on Śrī Rāma's side in a competitive game and came with them to Bhāṇḍīravana. The friends on Śrī Kṛṣṇa's side lost and, as agreed, had to carry the friends on Śrī Rāma's side. This describes how they carried them:
+
+**bhagavān kṛṣṇaḥ** **parājitaḥ** (having lost) **śrīdāmānam**, **bhadrasenaḥ** **vṛṣabham**, **pralambaḥ** (the deceitful demon in the guise of a cowherd boy) **rohiṇī-sutam** (Baladeva, who was soon to be his death) **uvāha** (carried).
+
+## 207
+
+> Subheading: (3) Śrī Rādhā regards Kṛṣṇa as a lover subject to herself — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 30, verses 37–39)
+
 ---
 
 [^157-1]: *Upadeśāmṛta* 2.

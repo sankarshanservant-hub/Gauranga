@@ -62,6 +62,30 @@ The five principal *rasas* mentioned above abide in the devotee's heart permanen
 
 Devakī and Vasudeva, knowing Baladeva and Śrī Kṛṣṇa to be the “Lords of the universe,” became afraid and could not embrace Them.
 
+## 199–200
+
+Thinking of You as a friend and not knowing Your greatness, out of carelessness or out of love I rashly said to You, “O Kṛṣṇa, O Yādava, O friend!” For all that I said in this way, and for all the disrespect I showed You in jest — while eating, at play, lying down or sitting, alone or before everyone — for all this, O You whose nature is immeasurable, I beg forgiveness.
+
+## 202
+
+When in Dvārakā Kṛṣṇa teased Rukmiṇī, her reason was lost through intense pain, fear and grief: the fan fell from her hand, from which the bracelets were slipping; her hair came loose; and her body, like a banana tree struck by the wind, suddenly gave way and she fainted.
+
+## 204
+
+Kṛṣṇa, whose greatness is sung by the three Vedas, the Upaniṣads, *sāṅkhya-yoga* and the scriptures on devotion — Yaśodā knows Him as her “son.”
+
+## 205
+
+Him who is unmanifest and beyond the senses — Adhokṣaja, who appeared as if in a mortal body — Yaśodā, thinking Him her son, bound with a rope to the mortar like an ordinary child.
+
+## 206
+
+Bhagavān Kṛṣṇa, having lost, carried Śrīdāmā on His shoulders; Bhadrasena carried Vṛṣabha, and Pralamba carried Rohiṇī's son Baladeva.
+
+## 207–209
+
+“Leaving the gopīs who long for Him, this beloved Kṛṣṇa lovingly serves me” — with such pride (Rādhikā thought herself the best of all the gopīs, and at last), going into the forest, Rādhikā said to Śrī Kṛṣṇa, “O Kṛṣṇa, I can't walk any further; carry me wherever You like.” When Rādhikā said this, Kṛṣṇa replied, “Climb onto My shoulders.” Having said this, Kṛṣṇa vanished, and Rādhikā, Kṛṣṇa's beloved, began to lament.
+
 ---
 
 [^177-181-1]: The edition reads *guṇāguṇa* (usually “merits and faults”); by sense, Kṛṣṇa's qualities.
