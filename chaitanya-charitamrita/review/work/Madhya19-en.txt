@@ -1092,7 +1092,7 @@ w: her  with great sorrow, fear  grief  bewildered in mind
 w: from the hand  with its slipping bracelets  the fan  fell
 w: the body  and  of her whose mind was distraught  suddenly  fainting
 w: like a plantain tree  by the wind  struck down  scattering  her hair
-tr: “Her mind lost in grief, fear and sorrow, the fan fell from her hand, whose bracelets were slipping off; and her body, as her mind gave way, suddenly fell senseless, her hair scattered, like a plantain tree blown down by the wind.” (Śrīmad-Bhāgavatam, 10.60.24)
+tr: “Overwhelmed by grief, fear and sorrow, she lost her wits: the fan fell from her hand as her bracelets slipped, and, her mind failing, she suddenly fell senseless, her hair scattered, like a plantain tree blown down by the wind.” (Śrīmad-Bhāgavatam, 10.60.24)
 
 ## 203
 w: of the pure kind  pure love  majesty  not  knows
@@ -1105,13 +1105,14 @@ w: by Sāṅkhya and yoga  and  by the Sātvatas
 w: whose glory is sung
 w: Hari  she  considered  her son
 tr: “She looked upon Hari, whose glory is sung by the three Vedas, the Upaniṣads, the works on Sāṅkhya and yoga and the Sātvata scriptures, as her own son.” (Śrīmad-Bhāgavatam, 10.8.45)
+fn: *Anubhāṣya*: the three Vedas sing of Him as Indra and the other gods, the Upaniṣads as Brahman, Sāṅkhya as the Puruṣa, yoga as the Paramātmā, and the Pañcarātras and Āgamas as Bhagavān.
 
 ## 205
 w: Him  thinking  her son  the unmanifest
 w: appearing as a mortal  beyond the senses
 w: the gopī  to the mortar  with a rope
 w: bound  an ordinary child  like
-tr: “Thinking Him — the unmanifest Lord, beyond the senses, who appeared in human form — to be her son, the *gopī* tied Him to the mortar with a rope, as if He were an ordinary child.” (Śrīmad-Bhāgavatam, 10.9.14)
+tr: “Thinking the unmanifest Lord, who is beyond the senses and had appeared in human form, to be her own son, the *gopī* tied Him to the mortar with a rope, as if He were an ordinary child.” (Śrīmad-Bhāgavatam, 10.9.14)
 
 ## 206
 w: carried  the Lord  Kṛṣṇa
@@ -1125,21 +1126,22 @@ w: She  and  considered  then  Herself
 w: the best  of all  women
 w: leaving  the gopīs  desirous
 w: Me  He  serves  the Beloved
-tr: “And She then thought Herself the best of all women: ‘My Beloved has left the other *gopīs*, who long for Him, and serves Me.’” (Śrīmad-Bhāgavatam, 10.30.36)
+tr: “And She then thought Herself the best of all women: ‘My Beloved has left the other *gopīs*, who long for Him, and serves Me.’” (Śrīmad-Bhāgavatam, 10.30.37)
+fn: References in 207–209 as in the edition’s heading: Śrīmad-Bhāgavatam, 10.30.37–39 (elsewhere numbered 10.30.36–38).
 
 ## 208
 w: then  going  to a place in the forest
 w: proud  to Keśava  She said
 w: not  am able  I  to walk
 w: carry  Me  where  Your  mind
-tr: “Then, coming to a part of the forest, She said proudly to Keśava: ‘I cannot walk any further. Carry Me wherever You wish.’” (Śrīmad-Bhāgavatam, 10.30.37)
+tr: “Then, coming to a part of the forest, She said proudly to Keśava: ‘I cannot walk any further. Carry Me wherever You wish.’” (Śrīmad-Bhāgavatam, 10.30.38)
 
 ## 209
 w: thus  addressed  to His beloved  He said
 w: on My shoulder  climb  thus
 w: then  and  disappeared  Kṛṣṇa
 w: that  young woman  was filled with remorse
-tr: “So addressed, He said to His beloved, ‘Climb onto My shoulder.’ But then Kṛṣṇa vanished, and the young *gopī* was filled with remorse.” (Śrīmad-Bhāgavatam, 10.30.38)
+tr: “So addressed, He said to His beloved, ‘Climb onto My shoulder.’ But then Kṛṣṇa vanished, and the young *gopī* was filled with remorse.” (Śrīmad-Bhāgavatam, 10.30.39)
 
 ## 210
 w: husbands, sons, kin, brothers and relatives
@@ -1151,14 +1153,16 @@ tr: “Disregarding husbands, sons, kin, brothers and relatives, we have come to
 ## 211
 w: in śānta-rasa  by understanding of His svarūpa  on Kṛṣṇa alone  fixedness
 w: śama  on Me  fixedness  of the intellect  thus  from His own lips  the saying
-tr: “In *śānta-rasa*, by understanding His true nature (*svarūpa*), one is fixed on Kṛṣṇa alone. ‘*Śama* is the fixing of the intellect on Me’ — so the Lord has said with His own lips.
+tr: “In *śānta-rasa*, through awareness of one’s own true nature (*svarūpa*), one is fixed on Kṛṣṇa alone. ‘*Śama* is the fixing of the intellect on Me’ — so the Lord has said with His own lips.
+fn: *Anubhāṣya*: when the idea of material enjoyment is dispelled, the *jīva* awakens to its own true nature, and that eternal nature is exclusive devotion to Kṛṣṇa.
 
 ## 212
 w: śama  on Me  fixedness  of the intellect
 w: thus  Śrī Bhagavān’s  words
 w: on Him  fixedness  is hard to achieve  of the intellect
 w: this  śānta-rati  without
-tr: “‘*Śama* is the fixing of the intellect on Me’ — so says Śrī Bhagavān. Without this *śānta-rati*, such fixing of the intellect on Him is hard to achieve.”
+tr: “‘*Śama* is the fixing of the intellect on Me’ — so says Śrī Bhagavān. Without this *śānta-rati*, such fixing of the intellect on Him is hard to achieve.” (Bhakti-rasāmṛta-sindhu, 2.5.21)
+fn: Reference as in the edition’s heading: *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, “Śānta-bhakti-rasa-laharī”, verse 21 (the verse stands in the fifth wave of the Dakṣiṇa-vibhāga, among the descriptions of *śānta-rati*).
 
 ## 213
 w: śama  on Me  fixedness  of the intellect
@@ -1183,6 +1187,7 @@ w: not  from anywhere  fear
 w: in heaven, liberation and hell
 w: even  the same value  seeing
 tr: “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam, 6.17.28)
+fn: The same verse as Madhya 9.270; translation as there.
 
 ## 217
 w: these  two  qualities  pervade  all  devotees
@@ -1193,6 +1198,7 @@ tr: “These two qualities pervade all devotees, just as sound, the quality of e
 w: of śānta  the nature  for Kṛṣṇa  of possessiveness  the scent  devoid
 w: of the Supreme Brahman  of the Supersoul  in knowledge  expert
 tr: “The nature of *śānta* is to be devoid of even a trace of the sense that Kṛṣṇa is ‘my own’ (*mamatā*); in it knowledge of Him as the Supreme Brahman and the Supersoul (*Paramātmā*) predominates.
+fn: *Amṛta-pravāha-bhāṣya*: in *śānta-rasa* there is no *mamatā*, and so the object of worship in it is “Parabrahman”, “Paramātmā”. The devotees in *śānta* (Sanaka and the others, 189) love Kṛṣṇa Himself, but without the sense that He is “my own”.
 
 ## 219
 w: only  knowledge of His svarūpa  is  in śānta-rasa
@@ -1345,6 +1351,7 @@ tr: Hearing of this, Tapana Miśra came and met the Lord. After talking with Him
 w: to his own house  taking  the Lord  the meal  had Him take
 w: the Bhaṭṭācārya  Candraśekhara  invitation  made
 tr: He took the Lord to his own house and fed Him, and Candraśekhara invited the Bhaṭṭācārya.
+fn: Edition heading: “Tapana Miśra invites the Lord, and Candraśekhara invites Balabhadra.”
 
 ## 249
 w: the meal  having fed  Miśra  says  the Lord’s feet  holding
@@ -1360,6 +1367,7 @@ tr: “as long as You stay in Kāśī, take Your meals nowhere but in my house.�
 w: the Lord  knows  days  five or seven  He  will stay
 w: sannyāsīs  with  meals  anywhere  not  will take
 tr: The Lord knew that He would stay only five or seven days, and that He would not take meals with the *sannyāsīs* anywhere.
+fn: Edition heading: “Indicating that association with Māyāvādī *sannyāsīs* is bad association, the Lord grants His devotee’s request.”
 
 ## 252
 w: this  knowing  his  meals  made  acceptance

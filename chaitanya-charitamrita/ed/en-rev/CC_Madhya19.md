@@ -1968,11 +1968,11 @@ thus  secondary  and  sevenfold
 (186) “Laughter, wonder, heroism, compassion, anger, fear and disgust: thus the secondary *rasa* is sevenfold.” (Bhakti-rasāmṛta-sindhu, 2.5.116)
 
 হাস্য, অদ্ভুত, বীর, করুণ, রৌদ্র, বীভৎস, ভয় ৷  
-পঞ্চবিধ-ভক্তে গৌণ সপ্তরস হয় ॥ ১৮৭ ॥
+পঞ্চবিধ ভক্তে গৌণ সপ্তরস হয় ॥ ১৮৭ ॥
 
 hāsya, adbhuta, vīra, karuṇa, raudra, vībhatsa, bhaya  
 hāsya  adbhuta  vīra  karuṇa  raudra  bībhatsa  bhaya  
-pañca-vidha-bhakte gauṇa sapta-rasa haya  
+pañca-vidha bhakte gauṇa sapta-rasa haya  
 in the fivefold  devotees  secondary  seven rasas  are
 
 (187) “*Hāsya*, *adbhuta*, *vīra*, *karuṇa*, *raudra*, *bībhatsa* and *bhaya* — these seven secondary *rasas* arise in the five kinds of devotees.
@@ -2144,7 +2144,7 @@ the body  and  of her whose mind was distraught  suddenly  fainting
 rambheva vāta-vihatā pravikīrya keśān  
 like a plantain tree  by the wind  struck down  scattering  her hair
 
-(202) “Her mind lost in grief, fear and sorrow, the fan fell from her hand, whose bracelets were slipping off; and her body, as her mind gave way, suddenly fell senseless, her hair scattered, like a plantain tree blown down by the wind.” (Śrīmad-Bhāgavatam, 10.60.24)
+(202) “Overwhelmed by grief, fear and sorrow, she lost her wits: the fan fell from her hand as her bracelets slipped, and, her mind failing, she suddenly fell senseless, her hair scattered, like a plantain tree blown down by the wind.” (Śrīmad-Bhāgavatam, 10.60.24)
 
 ‘কেবলা’র শুদ্ধপ্রেম ‘ঐশ্বর্য্য’ না জানে ৷  
 ঐশ্বর্য্য দেখিলেও নিজ-সম্বন্ধ সে মানে ॥ ২০৩ ॥
@@ -2168,7 +2168,7 @@ whose glory is sung
 hariṁ sā ’manyatātmajam  
 Hari  she  considered  her son
 
-(204) “She looked upon Hari, whose glory is sung by the three Vedas, the Upaniṣads, the works on Sāṅkhya and yoga and the Sātvata scriptures, as her own son.” (Śrīmad-Bhāgavatam, 10.8.45)
+(204) “She looked upon Hari, whose glory is sung by the three Vedas, the Upaniṣads, the works on Sāṅkhya and yoga and the Sātvata scriptures, as her own son.” (Śrīmad-Bhāgavatam, 10.8.45)[^33]
 
 তং মত্বাত্মজমব্যক্তং মর্ত্ত্যলিঙ্গমধোক্ষজম্ ৷  
 গোপীকোলূখলে দাম্না ববন্ধ প্রাকৃতং যথা ॥ ২০৫ ॥
@@ -2182,7 +2182,7 @@ the gopī  to the mortar  with a rope
 babandha prākṛtaṁ yathā  
 bound  an ordinary child  like
 
-(205) “Thinking Him — the unmanifest Lord, beyond the senses, who appeared in human form — to be her son, the *gopī* tied Him to the mortar with a rope, as if He were an ordinary child.” (Śrīmad-Bhāgavatam, 10.9.14)
+(205) “Thinking the unmanifest Lord, who is beyond the senses and had appeared in human form, to be her own son, the *gopī* tied Him to the mortar with a rope, as if He were an ordinary child.” (Śrīmad-Bhāgavatam, 10.9.14)
 
 উবাহ ভগবান্ কৃষ্ণঃ শ্রীদামানং পরাজিতঃ ৷  
 বৃষভং ভদ্রসেনস্তু প্রলম্বো রোহিণীসুতম্ ॥ ২০৬ ॥
@@ -2210,7 +2210,7 @@ leaving  the gopīs  desirous
 mām asau bhajate priyaḥ  
 Me  He  serves  the Beloved
 
-(207) “And She then thought Herself the best of all women: ‘My Beloved has left the other *gopīs*, who long for Him, and serves Me.’” (Śrīmad-Bhāgavatam, 10.30.36)
+(207) “And She then thought Herself the best of all women: ‘My Beloved has left the other *gopīs*, who long for Him, and serves Me.’” (Śrīmad-Bhāgavatam, 10.30.37)[^34]
 
 ততো গত্বা বনোদ্দেশং দৃপ্তা কেশবমব্রবীৎ ৷  
 ন পারয়েঽহং চলিতুং নয় মাং যত্র তে মনঃ ॥ ২০৮ ॥
@@ -2224,7 +2224,7 @@ not  am able  I  to walk
 naya māṁ yatra te manaḥ  
 carry  Me  where  Your  mind
 
-(208) “Then, coming to a part of the forest, She said proudly to Keśava: ‘I cannot walk any further. Carry Me wherever You wish.’” (Śrīmad-Bhāgavatam, 10.30.37)
+(208) “Then, coming to a part of the forest, She said proudly to Keśava: ‘I cannot walk any further. Carry Me wherever You wish.’” (Śrīmad-Bhāgavatam, 10.30.38)
 
 এবমুক্তঃ প্রিয়ামাহ স্কন্ধমারুহ্যতামিতি ৷  
 ততশ্চান্তর্দ্দধে কৃষ্ণঃ সা বধূরন্বতপ্যত ॥ ২০৯ ॥
@@ -2238,7 +2238,7 @@ then  and  disappeared  Kṛṣṇa
 sā vadhūr anvatapyata  
 that  young woman  was filled with remorse
 
-(209) “So addressed, He said to His beloved, ‘Climb onto My shoulder.’ But then Kṛṣṇa vanished, and the young *gopī* was filled with remorse.” (Śrīmad-Bhāgavatam, 10.30.38)
+(209) “So addressed, He said to His beloved, ‘Climb onto My shoulder.’ But then Kṛṣṇa vanished, and the young *gopī* was filled with remorse.” (Śrīmad-Bhāgavatam, 10.30.39)
 
 পতিসুতান্বয়ভ্রাতৃবান্ধবা-  
 নতিবিলঙ্ঘ্য তেঽন্ত্যচ্যুতাগতাঃ ৷  
@@ -2264,7 +2264,7 @@ in śānta-rasa  by understanding of His svarūpa  on Kṛṣṇa alone  fixedne
 “śamo man-niṣṭhatā buddheḥ” iti śrī-mukha-gāthā  
 śama  on Me  fixedness  of the intellect  thus  from His own lips  the saying
 
-(211) “In *śānta-rasa*, by understanding His true nature (*svarūpa*), one is fixed on Kṛṣṇa alone. ‘*Śama* is the fixing of the intellect on Me’ — so the Lord has said with His own lips.
+(211) “In *śānta-rasa*, through awareness of one’s own true nature (*svarūpa*), one is fixed on Kṛṣṇa alone. ‘*Śama* is the fixing of the intellect on Me’ — so the Lord has said with His own lips.[^35]
 
 শমো মন্নিষ্ঠতা বুদ্ধেরিতি শ্রীভগবদ্বচঃ ৷  
 তন্নিষ্ঠা দুর্ঘটা বুদ্ধেরেতাং শান্তরতিং বিনা ॥ ২১২ ॥
@@ -2278,7 +2278,7 @@ on Him  fixedness  is hard to achieve  of the intellect
 etāṁ śānta-ratiṁ vinā  
 this  śānta-rati  without
 
-(212) “‘*Śama* is the fixing of the intellect on Me’ — so says Śrī Bhagavān. Without this *śānta-rati*, such fixing of the intellect on Him is hard to achieve.”
+(212) “‘*Śama* is the fixing of the intellect on Me’ — so says Śrī Bhagavān. Without this *śānta-rati*, such fixing of the intellect on Him is hard to achieve.” (Bhakti-rasāmṛta-sindhu, 2.5.21)[^36]
 
 শমো মন্নিষ্ঠতা বুদ্ধের্দম ইন্দ্রিয়সংয়মঃ ৷  
 তিতিক্ষা দুঃখসংমর্ষো জিহ্বোপস্থজয়ো ধৃতিঃ ॥ ২১৩ ॥
@@ -2326,14 +2326,14 @@ in heaven, liberation and hell
 api tulyārtha-darśinaḥ  
 even  the same value  seeing
 
-(216) “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam, 6.17.28)
+(216) “Those who are devoted to Nārāyaṇa fear nothing from any quarter; in heaven, in liberation and even in hell they see the same worth.” (Śrīmad-Bhāgavatam, 6.17.28)[^37]
 
 এই দুই গুণ ব্যাপে সব ভক্তজনে ৷  
-আকাশের ‘শব্দ’ গুণ যেন ভূতগণে ॥ ২১৭ ॥
+আকাশের ‘শব্দ’-গুণ যেন ভূতগণে ॥ ২১৭ ॥
 
 ei dui guṇa vyāpe saba bhakta-jane  
 these  two  qualities  pervade  all  devotees  
-ākāśera ‘śabda’ guṇa yena bhūta-gaṇe  
+ākāśera ‘śabda’-guṇa yena bhūta-gaṇe  
 of ether  sound  the quality  as  the elements
 
 (217) “These two qualities pervade all devotees, just as sound, the quality of ether, pervades all the elements.
@@ -2346,7 +2346,7 @@ of śānta  the nature  for Kṛṣṇa  of possessiveness  the scent  devoid
 ‘paraṁ-brahma’-‘paramātmā’-jñāna-pravīṇa  
 of the Supreme Brahman  of the Supersoul  in knowledge  expert
 
-(218) “The nature of *śānta* is to be devoid of even a trace of the sense that Kṛṣṇa is ‘my own’ (*mamatā*); in it knowledge of Him as the Supreme Brahman and the Supersoul (*Paramātmā*) predominates.
+(218) “The nature of *śānta* is to be devoid of even a trace of the sense that Kṛṣṇa is ‘my own’ (*mamatā*); in it knowledge of Him as the Supreme Brahman and the Supersoul (*Paramātmā*) predominates.[^38]
 
 কেবল ‘স্বরূপ-জ্ঞান’ হয় শান্ত-রসে ৷  
 ‘পূর্ণৈশ্বর্য্যপ্রভু-জ্ঞান’ অধিক হয় দাস্যে ॥ ২১৯ ॥
@@ -2652,7 +2652,7 @@ to his own house  taking  the Lord  the meal  had Him take
 bhaṭṭācārye candraśekhara nimantraṇa kaila  
 the Bhaṭṭācārya  Candraśekhara  invitation  made
 
-(248) He took the Lord to his own house and fed Him, and Candraśekhara invited the Bhaṭṭācārya.
+(248) He took the Lord to his own house and fed Him, and Candraśekhara invited the Bhaṭṭācārya.[^39]
 
 ভিক্ষা করাঞা মিশ্র কহে প্রভু-পায় ধরি’ ৷  
 এক ভিক্ষা মাগি, মোরে দেহ’ কৃপা করি’ ॥ ২৪৯ ॥
@@ -2682,7 +2682,7 @@ the Lord  knows  days  five or seven  He  will stay
 sannyāsīra saṅge bhikṣā kām̐hā nā kariba  
 sannyāsīs  with  meals  anywhere  not  will take
 
-(251) The Lord knew that He would stay only five or seven days, and that He would not take meals with the *sannyāsīs* anywhere.
+(251) The Lord knew that He would stay only five or seven days, and that He would not take meals with the *sannyāsīs* anywhere.[^40]
 
 এত জানি’ তাঁর ভিক্ষা কৈলা অঙ্গীকার ৷  
 বাসা-নিষ্ঠা কৈলা চন্দ্রশেখরের ঘর ॥ ২৫২ ॥
@@ -2809,3 +2809,19 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^31]: The Gauḍīya Maṭha edition reads *karile* (“performing”; elsewhere *karileo*, “even performing”); the sense is the same.
 
 [^32]: *Amṛta-pravāha-bhāṣya*: the *sthāyi-bhāva* is the “root” of *rasa*, *vibhāva* its “cause”, and *anubhāva* and the *sāttvika-bhāvas* its “effects”.
+
+[^33]: *Anubhāṣya*: the three Vedas sing of Him as Indra and the other gods, the Upaniṣads as Brahman, Sāṅkhya as the Puruṣa, yoga as the Paramātmā, and the Pañcarātras and Āgamas as Bhagavān.
+
+[^34]: References in 207–209 as in the edition’s heading: Śrīmad-Bhāgavatam, 10.30.37–39 (elsewhere numbered 10.30.36–38).
+
+[^35]: *Anubhāṣya*: when the idea of material enjoyment is dispelled, the *jīva* awakens to its own true nature, and that eternal nature is exclusive devotion to Kṛṣṇa.
+
+[^36]: Reference as in the edition’s heading: *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, “Śānta-bhakti-rasa-laharī”, verse 21 (the verse stands in the fifth wave of the Dakṣiṇa-vibhāga, among the descriptions of *śānta-rati*).
+
+[^37]: The same verse as Madhya 9.270; translation as there.
+
+[^38]: *Amṛta-pravāha-bhāṣya*: in *śānta-rasa* there is no *mamatā*, and so the object of worship in it is “Parabrahman”, “Paramātmā”. The devotees in *śānta* (Sanaka and the others, 189) love Kṛṣṇa Himself, but without the sense that He is “my own”.
+
+[^39]: Edition heading: “Tapana Miśra invites the Lord, and Candraśekhara invites Balabhadra.”
+
+[^40]: Edition heading: “Indicating that association with Māyāvādī *sannyāsīs* is bad association, the Lord grants His devotee’s request.”
