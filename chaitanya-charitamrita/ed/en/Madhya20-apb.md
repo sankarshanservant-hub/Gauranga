@@ -19,3 +19,19 @@ I bow down to Śrī Caitanya Mahāprabhu, who possesses unlimited and wondrous o
 ## 12
 
 *Dāḍukā* — fetters.
+
+## 37
+
+Hājipura lies opposite Patna, across the river, where the river Gaṅgā meets the river Gaṇḍaka.
+
+## 59
+
+I consider even a *śva-paca* (dog-eater) whose mind, words, endeavours, wealth and life are offered to Kṛṣṇa to be better than a *brāhmaṇa* who has twelve qualities but is averse to Kṛṣṇa's lotus feet. For he — the devotee born in a family of *śva-pacas* — purifies his own family, whereas the *brāhmaṇa* swollen with pride cannot do so.
+
+## 61
+
+O Vaiṣṇava, the fruit of the eyes is to see a person like you; the fruit of the body is to touch the body of a person like you; the fruit of the tongue is to glorify the qualities of a person like you. For in this world *bhāgavatas* are very rare.
+
+## 70
+
+*Bhadra karāñā* — having had him shaved: that is, having had his dervish beard and hair shaved off and making him dressed as a true Vaiṣṇava.
