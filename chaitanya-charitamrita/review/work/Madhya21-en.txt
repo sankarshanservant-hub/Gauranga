@@ -100,7 +100,7 @@ tr: “Because You are endless, even the lords of heaven have not reached Your e
 ## 16
 w: that too  leave aside  in Vraja  when  Kṛṣṇa  descended
 w: His  deeds  in pondering  the mind  does not  find  the shore
-tr: Leave that aside as well. When Kṛṣṇa descended in Vraja, the mind could find no end in pondering His deeds.
+tr: Leave that aside as well. Ponder as one may the deeds of Kṛṣṇa when He descended in Vraja, the mind finds no end to them.
 
 ## 17
 w: material and transcendental  creation  He made  in a single moment
@@ -110,7 +110,7 @@ tr: In a single moment He made both the material and the transcendental creation
 ## 18
 w: such  elsewhere  not  one hears  a wonder
 w: of which  on hearing  the heart  becomes  overwhelmed
-tr: Nowhere else does one hear of such a wonder. Simply by hearing of it, the heart is overwhelmed.
+tr: Nowhere else does one hear of such a wonder. The mere hearing of it overwhelms the heart.
 
 ## 19
 w: with Kṛṣṇa’s  calves  countless  Śukadeva’s  words
@@ -262,7 +262,7 @@ w: with multitudes of mercy  tender
 w: with sweet majesty  special  graced
 w: triumphs (when)  of Vraja  of the king  the son
 w: not  indeed  of anxiety  a particle  arises  in us
-tr: “The son of the king of Vraja is tender with abundant mercy and graced with a special sweet majesty. When He triumphs, not even a particle of anxiety arises in us.” (A verse of the Gosvāmipāda)
+tr: “The son of the king of Vraja is tender with abundant mercy and graced with a special sweet majesty. While He triumphs, not even a particle of anxiety arises in us.” (A verse of the Gosvāmipāda)
 fn: The edition’s heading: “a verse spoken by the Gosvāmipāda”. The verse number is not printed in the edition.
 
 ## 46
@@ -321,7 +321,7 @@ tr: Kṛṣṇa is the Supreme Lord of these three abodes. Goloka and Paravyoma 
 ## 55
 w: of the spiritual potency  of the opulence  the abode  of three quarters  opulence  the name
 w: of māyā  the opulence  one  quarter  is called
-tr: The abode of the opulence of His spiritual potency is called *tripād-aiśvarya*, the opulence of three quarters; the opulence of māyā is called *ekapāda*, one quarter.
+tr: The realm where His spiritual potency displays its opulence is called *tripād-aiśvarya*, the opulence of three quarters; the opulence of māyā is called *ekapāda*, one quarter.
 
 ## 56
 w: of three  quarters  of the opulence  being the abode
@@ -557,7 +557,7 @@ w: which  suited to pastimes among mortals  His own yoga-
 w: -māyā’s  power  by Him displaying  was assumed
 w: astonishing  to Himself  even  of the wealth of fortune
 w: the supreme  abode  of ornaments  the ornament  whose limbs
-tr: “To display the power of His own Yogamāyā, He assumed a form suited to His pastimes among mortals — a form that astonished even Himself, the supreme abode of all good fortune, whose limbs are the ornament of ornaments.” (Śrīmad-Bhāgavatam, 3.2.12)
+tr: “To display the power of His own Yogamāyā, He assumed a form suited to His pastimes among mortals — a form that astonished even Him, the supreme abode of all good fortune, whose limbs are the ornament of ornaments.” (Śrīmad-Bhāgavatam, 3.2.12)
 
 ## 101
 w: Kṛṣṇa’s  all  pastimes  the highest  the human-like pastime
@@ -592,7 +592,7 @@ w: of ornaments  the ornament  the body  in it  graceful  threefold bending
 w: of that  above  of the bow of the brows  the dance
 w: askance  of the eye-corners  the arrows  their  firm  aim
 w: pierce  of Rādhā  of the gopīs  of the host  the hearts
-tr: His body is the ornament of ornaments, and in it is the graceful threefold bending (*tribhaṅga*). Above it dances the bow of His brows; the arrows of His sidelong glances, firmly aimed, pierce the hearts of Rādhā and the gopīs.
+tr: His body is the ornament of ornaments, graceful in its threefold bend (*tribhaṅga*), and over all this dances the bow of His brows; the arrows of His sidelong glances, firmly aimed, pierce the hearts of Rādhā and the gopīs.
 
 ## 106
 w: above the universes  Paravyoma  there  which  divine forms
@@ -629,14 +629,14 @@ w: sweetness  of Godhood  the essence  in Vraja  He made  known
 w: that  Śuka  of Vyāsa  the son
 w: in place  after place  in the Bhāgavata  has described  to make known
 w: that  hearing  dance  the devotees
-tr: Sweetness, the essence of Godhood (*bhagavattā*), He made known in Vraja. Śuka, the son of Vyāsa, has described it in place after place in the *Bhāgavata* to make it known, and hearing it the devotees dance.”
+tr: Sweetness, the essence of Godhood (*bhagavattā*), He revealed in Vraja. Śuka, the son of Vyāsa, has described it in place after place in the *Bhāgavata* to make it known, and hearing it the devotees dance.”
 
 ## 111
 w: speaking  of Kṛṣṇa’s  rasa  a verse  recites  in the rapture of love
 w: in love  Sanātana’s hand  holding
 w: the gopīs’ fortune  Kṛṣṇa’s qualities  which  made  description
 w: in ecstatic absorption  of Mathurā  the city women
-tr: Speaking of the *rasa* of Kṛṣṇa, the Lord, in the rapture of love, lovingly took Sanātana’s hand and recited the verse in which the women of Mathurā, absorbed in ecstasy, described the gopīs’ fortune and Kṛṣṇa’s qualities.
+tr: Speaking of the *rasa* of Kṛṣṇa, the Lord, rapt in love, tenderly took Sanātana’s hand and recited the verse in which the women of Mathurā, absorbed in ecstasy, described the gopīs’ fortune and Kṛṣṇa’s qualities.
 
 ## 112
 w: the gopīs  austerity  what  performed  since  His  form
@@ -699,7 +699,7 @@ w: that form  whose home is Vraja  full of majesty and sweetness
 w: of divine  qualities  of the host  the jewel-mine
 w: of others  of majesty  the existence  given by Kṛṣṇa  Godhood
 w: Kṛṣṇa  the whole of all parts  the shelter of all
-tr: That form, whose home is Vraja, is full of majesty and sweetness, a jewel-mine of divine qualities. The majestic existence of others, their Godhood (*bhagavattā*), is given by Kṛṣṇa: Kṛṣṇa is the whole of whom all are parts (*sarva-aṁśī*), the shelter of all.
+tr: That form, whose home is Vraja, is full of majesty and sweetness, a jewel-mine of divine qualities. The majestic existence of others, their Godhood (*bhagavattā*), is Kṛṣṇa’s gift, for He is the whole of whom all are parts (*sarva-aṁśī*), the shelter of all.
 
 ## 121
 w: beauty  modesty  mercy  fame  steadfastness  skilful  intelligence
@@ -714,7 +714,7 @@ w: Kṛṣṇa  seeing  all  people  made  of the blinking  reproach
 w: in Vraja  the Creator  reproach  the gopīs
 w: those  all  verses  reciting  Mahāprabhu  the meaning  explaining
 w: in joy  the sweetness  makes  tasting
-tr: All who saw Kṛṣṇa reproached the blinking of their eyes, and in Vraja the gopīs reproached the Creator.” Reciting those verses and explaining their meaning, Mahāprabhu joyfully tasted their sweetness.
+tr: All who saw Kṛṣṇa found fault with the blinking of their eyes, and in Vraja the gopīs reproached the Creator.” Reciting those verses and explaining their meaning, Mahāprabhu joyfully tasted their sweetness.
 
 ## 123
 w: whose  face  with makara earrings  lovely  ears

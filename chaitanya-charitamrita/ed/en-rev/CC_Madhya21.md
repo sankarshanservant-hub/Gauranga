@@ -190,7 +190,7 @@ that too  leave aside  in Vraja  when  Kṛṣṇa  descended
 tām̐ra caritra vicārite mana nā pāya pāra  
 His  deeds  in pondering  the mind  does not  find  the shore
 
-(16) Leave that aside as well. When Kṛṣṇa descended in Vraja, the mind could find no end in pondering His deeds.
+(16) Leave that aside as well. Ponder as one may the deeds of Kṛṣṇa when He descended in Vraja, the mind finds no end to them.
 
 প্রাকৃতাপ্রাকৃত সৃষ্টি কৈলা একক্ষণে ৷  
 অশেষ-বৈকুণ্ঠজাণ্ড স্বস্বনাথ-সনে ॥ ১৭ ॥
@@ -210,7 +210,7 @@ such  elsewhere  not  one hears  a wonder
 yāhāra śravaṇe citta haya avadhūta  
 of which  on hearing  the heart  becomes  overwhelmed
 
-(18) Nowhere else does one hear of such a wonder. Simply by hearing of it, the heart is overwhelmed.
+(18) Nowhere else does one hear of such a wonder. The mere hearing of it overwhelms the heart.
 
 ‘কৃষ্ণবৎসৈরসংখ্যাতৈঃ’ — শুকদেব-বাণী ৷  
 কৃষ্ণ-সঙ্গে কত গোপ — সংখ্যা নাহি জানি ॥ ১৯ ॥
@@ -508,7 +508,7 @@ triumphs (when)  of Vraja  of the king  the son
 na hi cintā-kaṇikābhyudeti naḥ  
 not  indeed  of anxiety  a particle  arises  in us
 
-(45) “The son of the king of Vraja is tender with abundant mercy and graced with a special sweet majesty. When He triumphs, not even a particle of anxiety arises in us.” (A verse of the Gosvāmipāda)[^12]
+(45) “The son of the king of Vraja is tender with abundant mercy and graced with a special sweet majesty. While He triumphs, not even a particle of anxiety arises in us.” (A verse of the Gosvāmipāda)[^12]
 
 তার তলে পরব্যোম — ‘বিষ্ণুলোক’-নাম ৷  
 নারায়ণ-আদি অনন্ত স্বরূপের ধাম ॥ ৪৬ ॥
@@ -622,7 +622,7 @@ of the spiritual potency  of the opulence  the abode  of three quarters  opulenc
 māyika vibhūti — eka-pāda abhidhāna  
 of māyā  the opulence  one  quarter  is called
 
-(55) The abode of the opulence of His spiritual potency is called *tripād-aiśvarya*, the opulence of three quarters; the opulence of māyā is called *ekapāda*, one quarter.
+(55) The realm where His spiritual potency displays its opulence is called *tripād-aiśvarya*, the opulence of three quarters; the opulence of māyā is called *ekapāda*, one quarter.
 
 ত্রিপাদ্বিভূতের্ধামত্বাৎ ত্রিপাদ্ভূতং হি তৎ পদম্ ৷  
 বিভূতির্মায়িকী সর্ব্বা প্রোক্তা পাদাত্মিকা যতঃ ॥ ৫৬ ॥
@@ -1087,7 +1087,7 @@ astonishing  to Himself  even  of the wealth of fortune
 paraṁ padaṁ bhūṣaṇa-bhūṣaṇāṅgam  
 the supreme  abode  of ornaments  the ornament  whose limbs
 
-(100) “To display the power of His own Yogamāyā, He assumed a form suited to His pastimes among mortals — a form that astonished even Himself, the supreme abode of all good fortune, whose limbs are the ornament of ornaments.” (Śrīmad-Bhāgavatam, 3.2.12)
+(100) “To display the power of His own Yogamāyā, He assumed a form suited to His pastimes among mortals — a form that astonished even Him, the supreme abode of all good fortune, whose limbs are the ornament of ornaments.” (Śrīmad-Bhāgavatam, 3.2.12)
 
 কৃষ্ণের যতেক খেলা, সর্ব্বোত্তম নরলীলা,  
 নরবপু তাহার স্বরূপ ৷  
@@ -1164,7 +1164,7 @@ askance  of the eye-corners  the arrows  their  firm  aim
 vindhe rādhā-gopī-gaṇa-mana  
 pierce  of Rādhā  of the gopīs  of the host  the hearts
 
-(105) His body is the ornament of ornaments, and in it is the graceful threefold bending (*tribhaṅga*). Above it dances the bow of His brows; the arrows of His sidelong glances, firmly aimed, pierce the hearts of Rādhā and the gopīs.
+(105) His body is the ornament of ornaments, graceful in its threefold bend (*tribhaṅga*), and over all this dances the bow of His brows; the arrows of His sidelong glances, firmly aimed, pierce the hearts of Rādhā and the gopīs.
 
 ব্রহ্মাণ্ডোপরি পরব্যোম, তাঁহা যে স্বরূপগণ,  
 তাঁ-সবার বলে হরে মন ৷  
@@ -1244,7 +1244,7 @@ in place  after place  in the Bhāgavata  has described  to make known
 tāhā śuni’ nāce bhakta-gaṇa  
 that  hearing  dance  the devotees
 
-(110) Sweetness, the essence of Godhood (*bhagavattā*), He made known in Vraja. Śuka, the son of Vyāsa, has described it in place after place in the *Bhāgavata* to make it known, and hearing it the devotees dance.”
+(110) Sweetness, the essence of Godhood (*bhagavattā*), He revealed in Vraja. Śuka, the son of Vyāsa, has described it in place after place in the *Bhāgavata* to make it known, and hearing it the devotees dance.”
 
 কহিতে কৃষ্ণের রসে, শ্লোক পড়ে প্রেমাবেশে,  
 প্রেমে সনাতন-হাত ধরি’ ৷  
@@ -1260,7 +1260,7 @@ the gopīs’ fortune  Kṛṣṇa’s qualities  which  made  description
 bhāvāveśe mathurā-nāgarī  
 in ecstatic absorption  of Mathurā  the city women
 
-(111) Speaking of the *rasa* of Kṛṣṇa, the Lord, in the rapture of love, lovingly took Sanātana’s hand and recited the verse in which the women of Mathurā, absorbed in ecstasy, described the gopīs’ fortune and Kṛṣṇa’s qualities.
+(111) Speaking of the *rasa* of Kṛṣṇa, the Lord, rapt in love, tenderly took Sanātana’s hand and recited the verse in which the women of Mathurā, absorbed in ecstasy, described the gopīs’ fortune and Kṛṣṇa’s qualities.
 
 গোপ্যস্তপঃ কিমচরন্ যদমুষ্য রূপং  
 লাবণ্যসারমসমোর্দ্ধ্বমনন্যসিদ্ধম্ ৷  
@@ -1401,7 +1401,7 @@ of others  of majesty  the existence  given by Kṛṣṇa  Godhood
 kṛṣṇa — sarva-aṁśī, sarvāśraya  
 Kṛṣṇa  the whole of all parts  the shelter of all
 
-(120) That form, whose home is Vraja, is full of majesty and sweetness, a jewel-mine of divine qualities. The majestic existence of others, their Godhood (*bhagavattā*), is given by Kṛṣṇa: Kṛṣṇa is the whole of whom all are parts (*sarva-aṁśī*), the shelter of all.
+(120) That form, whose home is Vraja, is full of majesty and sweetness, a jewel-mine of divine qualities. The majestic existence of others, their Godhood (*bhagavattā*), is Kṛṣṇa’s gift, for He is the whole of whom all are parts (*sarva-aṁśī*), the shelter of all.
 
 শ্রী, লজ্জা, দয়া, কীর্ত্তি, ধৈর্য্য, বৈশারদী মতি,  
 এই সব কৃষ্ণে প্রতিষ্ঠিত ৷  
@@ -1433,7 +1433,7 @@ those  all  verses  reciting  Mahāprabhu  the meaning  explaining
 sukhe mādhurya kare āsvādana  
 in joy  the sweetness  makes  tasting
 
-(122) All who saw Kṛṣṇa reproached the blinking of their eyes, and in Vraja the gopīs reproached the Creator.” Reciting those verses and explaining their meaning, Mahāprabhu joyfully tasted their sweetness.
+(122) All who saw Kṛṣṇa found fault with the blinking of their eyes, and in Vraja the gopīs reproached the Creator.” Reciting those verses and explaining their meaning, Mahāprabhu joyfully tasted their sweetness.
 
 যস্যাননং মকরকুণ্ডলচারুকর্ণ-  
 ভ্রাজৎকপোলসুভগং সবিলাসহাসম্ ৷  
