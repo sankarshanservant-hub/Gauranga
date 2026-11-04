@@ -122,6 +122,48 @@ Here a variant reading gives two verses: “Renunciation (*vairāgya*) is called
 
 **pathi** **cīrāṇi** (scraps of torn cloth) **kim** **na** **santi** (are there none thrown away)? **para-bhṛtaḥ** (nourishing others with fruits and the like) **aṅghripāḥ** (trees) **bhikṣām** **na** **eva** **diśanti** (will they not give)? **saritaḥ** (lakes and rivers) **api** **aśuṣyan** (have they dried up)? **guhāḥ** (mountain caves) **ruddhāḥ** **kim**? **ajitaḥ** (Viṣṇu) **upasannān** (the surrendered) **kim** **na** **avati** (does He not protect)? (If so, then) **kavayaḥ** (the wise, who know the *rasa* of Hari) **kasmāt** (for what reason) **dhana-durmadāndhān** (those blinded — bereft of discernment — by the wicked pride of wealth) **bhajanti** (follow)?
 
+## 109
+
+> Subheading: At Sanātana’s inquiry the Lord explains the confidential conclusions of the *Bhāgavatam* —
+
+## 110
+
+In the *Hari-vaṁśa*, *Viṣṇu-parva*, chapter 19: “Above the world of men, it is said, is the path of the birds. Above the sky is the Sun, the shining gate of Svarga. Above Svarga is Brahmaloka, served by the *brahmarṣis*; there too is the abode of Soma[^110-1] and of the great souls who shine like luminaries. Above it is the world of the cows; the Sādhyas guard it. That world, O Kṛṣṇa, pervades all; it is great and extends in the great space (*mahākāśa*). Above all, there, is Your abode, full of *tapas*; none of us knows it, though we ask the Grandsire. The destination of those rich in *śama* and *dama* and doing pious deeds is Svarga; the highest destination of those engaged in brahminical *tapas* is Brahmaloka. But Goloka is the world of the cows, and it is truly hard to reach. O heroic Kṛṣṇa, when that world was perishing, You, perfect in self and steadfast, upheld it, destroying the calamities of the cows.”
+
+That is, after [the Lord] lifted Govardhana, Indra praised Śrī Kṛṣṇa thus: “Above the world of men is the path of the birds. Above the sky is the shining Sun, the gate of Svarga, and above Svarga is Brahmaloka, served by the *brahmarṣis*. Above Devī-dhāma, in that abode, Śiva dwells with Umā; it is the dwelling of the radiant liberated ones — Brahmā and others. Above Vaikuṇṭha is Goloka; the Sādhyas — Śrīmatī Rādhikā and others, Nanda, Yaśodā and others — guard it. Vaikuṇṭha and the other abodes, compared with Goloka, are only a small space; Goloka alone is the great space (*mahākāśa*). Even by asking Brahmā we could not grasp the way to Goloka, highest of all — Your abode, full of *tapas*. The *karmīs* who possess pious merit and are rich in *śama*, *dama* and other virtues go to Svarga. By serving Nārāyaṇa one attains Vaikuṇṭha; but the world of the cows, Goloka, is extremely hard to reach. O Kṛṣṇa, You have descended here together with that Goloka, and the calamity I caused was born of my folly; this is what I make known by this hymn.”
+
+Here Śrī Nīlakaṇṭha writes in his commentary: “So too says the mantra (*Ṛg-veda-saṁhitā* 1.21.154.6): ‘We long to go to those abodes of yours where the cows with great horns roam. Here truly shines in all its fullness the supreme abode of the Wide-striding One, the Giver of bliss.’ **tāni** **vām** (of you two, Rāma and Kṛṣṇa) **vāstūni** (delightful places) **gamadhyai** (to go) **uśmasi** (we desire; but we are not able to go there), **yatra** (in which places) **bhūri-śṛṅgāḥ** (with huge horns) **gāvaḥ** **ayāsaḥ** (roam). **atra** (here, on earth) **aha** (certainly) **tat** (that called Goloka) **paramam** **padam** **bhūri** (in the highest degree — surpassing even the principal one) **avabhāti** (shines in full splendor); **vṛṣṇaḥ** (of Him who increases bliss) **urugāyasya** (of Him whose fame is great).”
+
+## 111–112
+
+> Subheading: Certain transient mundane events that bewilder the *asuras* —
+
+The *Mahābhārata*’s accounts of the *mauṣala-līlā*, of Kṛṣṇa’s pastime of departure, of the hair-*avatāra*, of the abduction of the queens and the like are all false; they are not the eternal transcendental pastimes. They were described only to bewilder and confuse the *asuras* — fools of mundane mind, hostile to Viṣṇu.
+
+The hair-*avatāra* (see *Śrīmad-Bhāgavatam* 2.7.26). In the *Viṣṇu Purāṇa*: “He plucked from Himself two hairs, white and black, O mighty one.” In the *Mahābhārata*: “And Hari plucked two hairs, one white and the other black. And those two hairs entered two women of the Yadu dynasty, Rohiṇī and Devakī. One of them became Balabhadra — that white hair of the God. The second became Kṛṣṇa, Keśava — that hair which is called black in color.” In the *Bhāgavatam*, the *Viṣṇu Purāṇa* and the *Mahābhārata* the hair-*avatāra* is mentioned thus: “Śrī Hari plucked two hairs from His head, one white and one black. It is said that when these two hairs entered Rohiṇī and Devakī, women of the Yadu dynasty, ‘Baladeva’ was born, according to its color, from the first, white hair, and ‘Kṛṣṇa’ from the second, black hair. Hari, who through His portion becomes white and black to relieve the suffering of the Earth oppressed by the *asuras*, the enemies of the gods, has descended and will perform deeds that proclaim His greatness.” Here one should study the reasoning of Śrī Rūpa Prabhu and of the commentator Śrī Baladeva Vidyābhūṣaṇa Prabhu in the *Laghu-bhāgavatāmṛta*, in the first part, called *Kṛṣṇāmṛta*, numbers 156–164, where the objection (*pūrvapakṣa*) “Śrī Kṛṣṇa is the *avatāra* of a hair of Kṣīrodaśāyī” is refuted. One should also study the reasoning of Śrī Jīva Prabhu in the *Kṛṣṇa-sandarbha* of the *Ṣaṭ-sandarbha*, number 29, and in the *Sarva-saṁvādinī*.
+
+## 113
+
+> Subheading: Sanātana’s humility and prayer at the Lord’s feet —
+
+## 117
+
+> Subheading: Sanātana begs the Lord for the blessing that the instructions on the conclusions of *bhakti* given above may be revealed within him —
+
+## 118
+
+> Subheading: The Lord gives Sanātana His blessing —
+
+## 119
+
+> Subheading: The truth of *prayojana* — love for Kṛṣṇa — and the account of the Lord’s mercy are told in brief —
+
+## 120
+
+> Subheading: In one who hears the nectar of the Lord’s instructions, service to Kṛṣṇa — the spiritual function of the soul (*cid-vṛtti*) — awakens, and he attains *prema* —
+
+*Thus ends the twenty-third chapter of the “Anubhāṣya.”*
+
 ---
 
 [^78-1]: The edition numbers this section “78–89”: a misprint (checked against the scan, p. 785); the section covers verses 78–79, and the next section is 80.
@@ -129,3 +171,5 @@ Here a variant reading gives two verses: “Renunciation (*vairāgya*) is called
 [^82-1]: The verse translation reads differently: “She treats Her elders with great affection” (Madhya 23.86).
 
 [^89-1]: The verse translation reads differently: it takes the *saṁskāras* as past and present purificatory rites (Madhya 23.89–91); in the *Anubhāṣya* they are former and present impressions.
+
+[^110-1]: In the paraphrase that follows, Bhaktisiddhānta takes *soma* as *sa-umā*, “[Śiva] with Umā.”
