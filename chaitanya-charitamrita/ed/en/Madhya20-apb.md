@@ -75,3 +75,23 @@ That the *jīva* fell because he turned away from Kṛṣṇa is learned by the 
 ## 121
 
 This *māyā* of Mine, made of the three *guṇas*, is extremely hard to cross. Only one who surrenders to Me can cross this *māyā*.
+
+## 123–125
+
+Seeing that the *jīva*, bewitched by *māyā*, had lost the knowledge that is remembrance of Kṛṣṇa, the boundlessly compassionate Kṛṣṇa revealed the scriptures — the Vedas and Purāṇas. In the form of those scriptures, in the form of the guru who reveals their meaning, and in the form of the indwelling Self, the Antaryāmī, He makes the *jīva* know the truth about himself. All the Vedic scriptures teach knowledge of *sambandha*, knowledge of *abhidheya* and knowledge of *prayojana*. The truth that Kṛṣṇa is the One whom the *jīva* is to attain is found in knowledge of *sambandha*. The means of attaining Kṛṣṇa is called “*bhakti*”; it is called the “*abhidheya*.” In attaining Kṛṣṇa there is a wonderful thing called “*prema*”; it is called the “*prayojana*.”
+
+## 127
+
+When the *jīva* turned away from Kṛṣṇa and gradually lost the memory of his own true nature, Kṛṣṇa revealed Himself by producing the Vedas, the Purāṇas and the other scriptures. The story of the poor man and the all-knowing one (*sarvajña*) illustrates just this.
+
+## 135
+
+The Vedas and Purāṇas speak in many places of many kinds of means. On one side is the *karma-kāṇḍa*, like hornets and wasps (*bhīmarula-barulī*); on another, the *jñāna-kāṇḍa*, like a *yakṣa*; on another, *kaivalya* attained by *yoga*, like a black python; and on yet another, a pot of hidden treasure that comes into one's hands with little effort. Therefore the Vedic scriptures say that Kṛṣṇa is attained only on the path of devotion, by giving up *karma*, *jñāna* and *yoga*.
+
+## 138
+
+I, who am dear to the *sādhus*, am attained only by devotion born of exclusive faith. Devotion fixed on Me frees even a *caṇḍāla* from the defect of birth.
+
+## 142
+
+The chief fruit of tasting service to Kṛṣṇa is the happiness of love. The *jīva's* poverty is his aversion to Kṛṣṇa. The end of this poverty and the end of *saṁsāra* come along with the taste of service to Kṛṣṇa as by-products; in truth they are not the chief fruit.

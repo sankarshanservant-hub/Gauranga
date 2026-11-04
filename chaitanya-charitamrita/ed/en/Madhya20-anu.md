@@ -400,8 +400,122 @@ Turned away from Kṛṣṇa, the *jīva* is busy enjoying worldly happiness. Wh
 
 > Subheading: Only a devotee surrendered to Kṛṣṇa conquers *māyā* —
 
-**eṣā** **mama** (of Me, the Supreme Lord) **daivī** (not of this world, belonging to Viṣṇu) **guṇamayī** (made of *sattva*, *rajas* and *tamas*) **māyā** (the external potency) **duratyayā** (insurmountable for *jīvas* bound by desires for enjoyment and liberation) **hi** (indeed); **mām** (to Kṛṣṇa — Svayaṁ Bhagavān, possessed of His *svarūpa-śakti*) **ye** (those people who) **prapadyante** (surrender with their whole being), **te** (they alone) **etāṁ** **māyāṁ** (the *prakṛti* that bewilders the *jīvas*) **taranti** (cross over, conquer).
+**eṣā** **mama** (of Me, the Supreme Lord) **daivī** (divine — extraordinary, belonging to Viṣṇu) **guṇamayī** (made of *sattva*, *rajas* and *tamas*) **māyā** (the external potency) **duratyayā** (insurmountable for *jīvas* bound by desires for enjoyment and liberation) **hi** (indeed); **mām** (to Kṛṣṇa — Svayaṁ Bhagavān, possessed of His *svarūpa-śakti*) **ye** (those people who) **prapadyante** (surrender with their whole being), **te** (they alone) **etāṁ** **māyāṁ** (the *prakṛti* that bewilders the *jīvas*) **taranti** (cross over, conquer).
+
+## 122
+
+> Subheading: Adhokṣaja Viṣṇu, full of causeless mercy toward the *jīvas*, appears as an *avatāra* —
+
+The *jīva* bewitched by *māyā*, deluded about his own true nature, is engaged every moment and in every matter in obtaining fruits for his own enjoyment. Sometimes, with a mind in bondage, he longs to be freed from the desire to enjoy fruits; and sometimes, desiring fruits, he prizes fleeting enjoyment. In either case one sees that, covered by *māyā*, he does not remember Kṛṣṇa. Therefore the all-merciful Kṛṣṇa has revealed the Vedas, the Purāṇas and the other scriptures to save from misfortune such a person, deluded in understanding and given to wrong reasoning and enjoyment.
+
+## 123
+
+> Subheading: Kṛṣṇa Himself descends in three manifestations to give knowledge of Kṛṣṇa: (1) the Veda, or the commentary on the *Vedānta*, the *Śrīmad-Bhāgavatam*; (2) the best of *bhāgavatas*, the guru; (3) the Antaryāmī —
+
+Bhagavān appears in three forms — the scripture, the guru and the *caitya-guru* — and awakens in the heart of the conditioned *jīva* such sentiments as “He is the Lord of the *jīva*” or “He is the deliverer of the *jīva*.”
+
+## 124
+
+> Subheading: (E) Everyone who believes in God regards the Veda as not of human origin (*apauruṣeya*). Therefore, of the three kinds of evidence (*pramāṇa*) the author spoke of earlier, he relies on the Veda, or *śruti*, which is evident to all, and begins to establish his thesis: the best *abhidheya* is pure devotion alone. The three truths that the scriptures bid us seek are the Brahman, the supreme Reality —
+
+## 125
+
+> Subheading: *Sambandha* is Kṛṣṇa, *abhidheya* is pure devotion, *prayojana* is *prema* —
+
+The Vedic scriptures describe three subjects: “*sambandha*,” “*abhidheya*” and “*prayojana*.” Kṛṣṇa, whom the pure *jīva* is to attain, is the “*sambandha*”; service to Kṛṣṇa as the means of attaining Him is the “*abhidheya*”; and love for Kṛṣṇa — the great treasure higher than the four goals of life (*dharma*, *artha*, the enjoyment of *kāma*, and “*mokṣa*,” which is without enjoyment), the treasure to be attained — is the “*prayojana*.”
+
+## 126
+
+> Subheading: How *prema*, the goal of *sādhana-bhakti*, acts —
+
+## 127
+
+> Subheading: Of the four kinds of *abhidheya*, all the scriptures call pure devotion alone safe and easy. The illustration — the instruction of the all-knowing one, or of a perfected *mahājana* —
+
+*Sarvajña* — see Madhva's commentary on *Śrīmad-Bhāgavatam* 5.5.10–13.
+
+## 128
+
+> Subheading: The *jīva's* eternally perfect nature is love for Kṛṣṇa —
+
+## 129
+
+> Subheading: Devotion, the means to the goal, *prema*, is an obligatory duty; this is the injunction of the scriptures —
+
+## 130
+
+> Subheading: All the scriptures point to Kṛṣṇa, to whom the *jīva* is eternally related —
+
+## 131
+
+> Subheading: The *sādhana* of the conditioned *jīva* is simply the awakening of his eternally perfect nature —
+
+## 132
+
+> Subheading: The paths without devotion — (1) the dangers of the path of *karma*, which seeks worldly enjoyment (*bhukti*) —
+
+## 133
+
+> Subheading: (2) The dangers of the path of *yoga*, which seeks mystic powers (*vibhūti-siddhi*) —
+
+## 134
+
+> Subheading: (3) The dangers of the path of *jñāna*, which seeks *sāyujya* —
+
+## 135
+
+> Subheading: Only the “former,” original, eternal and abiding treasure — devotion to Kṛṣṇa — is free from danger —
+
+## 132–135
+
+What is being compared: in the east — devotion to Kṛṣṇa; in the south — the *karma-kāṇḍa*; in the west — the *siddhi-kāṇḍa* (in another view, the *jñāna-kāṇḍa*); in the north — the *jñāna-kāṇḍa* (in another view, the *yoga-kāṇḍa*).
+
+What they are compared to: in the east — the father's treasure; in the south — hornets and wasps; in the west — a *yakṣa*; in the north — a black snake.
+
+The practice of the southern path (*dakṣiṇā-mārga*)[^132-135-1] is the *karma-kāṇḍa*, aimed at enjoying fruits: the agents of Yama's punishment accept the “*dakṣiṇā*” and assign the fruits. On this path of *karma* the *jīva* is stung by the hornets and wasps of the desire for enjoyment and suffers. His hope of enjoyment is not fulfilled by this; it only grows more and more.
+
+The practice of the northern path (*uttarā-mārga*) is the path of *yoga*, aimed at mystic powers (*siddhis*). On it the black python of *kaivalya* swallows the pure existence of the *jīva*. In the view of some, the practice of the northern path is the path of desireless *jñāna*; there the pure existence of the *jīva* falls into the jaws of the black snake of *brahma-sāyujya*.
+
+The *yakṣa* guards the treasure: that is, he is its keeper, not its giver. To hope to get treasure from a *yakṣa* without perishing is a vain hope: after tempting one with greed for wealth, the *yakṣa* in the end destroys the very person who wants to take it. In truth, *sāyujya* on the path of *jñāna* and *kaivalya* on the path of *yoga* both destroy the existence of the *jīva*.
+
+Devotion to Kṛṣṇa is the conditioned *jīva's* “former” treasure, that is, the treasure already his (*siddha-dhana*); attaining it, the pure *jīva* is rich forever. One who lacks the treasure of devotion suffers want in the perishable world of matter. Sometimes he writhes from the stings of the hornets of *karma* and does not get the treasure. Sometimes, turning his back on Kṛṣṇa[^132-135-2] and busying himself with *ahaṁgrahopāsanā* (worshipping oneself as God) or the pursuit of *kaivalya*, he is robbed of the treasure of *prema* by the *yakṣa* of *yoga*. And sometimes, in the north — that is, losing the pure existence of the *jīva* — he falls into the jaws of the snake of *sāyujya* or *kaivalya*, and again does not gain the treasure.
+
+## 136
+
+> Subheading: The purport of all the scriptures is to attain love for Kṛṣṇa by the power of pure devotion —
+
+## 137
+
+See Ādi 17.76.
+
+## 138
+
+> Subheading: Bhagavān can be attained only by devotion; by the power of devotion even a cobbler becomes pure —
+
+Śrī Kṛṣṇa's words in answer to Uddhava's question.
+
+**satāṁ** (of the *sādhus*, His eternal servants) **priyaḥ** (the One they serve) **ātmā** (the dearmost) **aham** (I, Svayaṁ Bhagavān Kṛṣṇa) **ekayā** (unwavering, causeless) **śraddhayā** (full of faith) **bhaktyā** **grāhyaḥ** (attainable, that is, I can be reached); **man-niṣṭhā** (dedicated to serving Kṛṣṇa alone) **bhaktiḥ** **śvapākān** (people born in low families) **api** **sambhavāt** (from the defect of birth in a caste by seminal descent, produced by past sins) **punāti**.
+
+## 139
+
+> Subheading: All the scriptures sing of devotion, the means of attaining Kṛṣṇa, as the *abhidheya* —
+
+## 140
+
+> Subheading: An illustration —
+
+## 141
+
+> Subheading: Service joined with knowledge of *sambandha* makes love for Kṛṣṇa grow, and with it come liberation, or freedom from *anarthas* —
+
+## 142
+
+> Subheading: The chief fruit of service rooted in love for Kṛṣṇa is the bliss of *prema*; the secondary fruit is the end of aversion and liberation —
 
 ---
 
 [^97-1]: Śrīdhara Svāmī's commentary *Bhāvārtha-dīpikā* on *Śrīmad-Bhāgavatam* 10.1.1 (cf. CC Ādi 2.95).
+
+[^132-135-1]: A play on words: *dakṣiṇa* means both “southern” and “the fee given to a priest for a rite.”
+
+[^132-135-2]: A play on words: *paścāt*, “behind, with one's back,” and *paścima*, “west.”
