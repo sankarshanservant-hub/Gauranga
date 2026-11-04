@@ -212,6 +212,76 @@ The unsatisfied viewer then says with regret: “I have no hundreds of thousands
 
 “Had he accepted my advice and given millions of eyes to the one who beholds Kṛṣṇa's face, I would have known Vidhi to be skilled in the work of creation.”
 
+## 135
+
+> Subheading: The Lord, filled with the feeling of the gopīs, longs for the sweetness of Kṛṣṇa's body, the sweetness of His face and the sweetness of His smile —
+
+Ordinarily, at the first glance one sees the ocean of sweetness that is Kṛṣṇa's body; more particularly, at the second glance, the most sweet moon of His face, which stands above the ocean of His body; and more particularly still, at the third glance, the rays of the moon of His face — His gentle smile, sweeter than sweetness itself. The sweetness of these three rose in the Lord step by step as He recited the verse, and a transformation (*vikāra*) appeared in Him: He began to wave His hand.
+
+## 136
+
+> Subheading: The degrees of sweetness of Kṛṣṇa's body, face and smile in the eyes of the gopīs —
+
+**asya vibhoḥ** (of this Kṛṣṇa) **vapuḥ** (the form, or the body) **madhuraṁ madhuraṁ** (compared with the forms of all other forms besides such a *svayaṁ-rūpa*, exceedingly sweet); (Kṛṣṇa's) **vadanaṁ** (and) **madhuraṁ madhuraṁ madhuram** (compared with Kṛṣṇa's body, sweeter still); **aho**, **etat** **madhu-gandhi** (fragrant with honey) **mṛdu-smitam** (and the gentle smile) **madhuraṁ madhuraṁ madhuraṁ madhuram** (compared with Kṛṣṇa's body and face, the sweetest of all).
+
+## 137
+
+> Subheading: The Lord, filled with the feeling of the gopīs, tastes Kṛṣṇa's sweetness, and His unsatisfied longing grows eternally —
+
+The Lord, steeped in the feeling of the gopīs in the *rasa* of separation (*vipralambha*), thirsts so intensely to taste Kṛṣṇa's sweetness that even while tasting Kṛṣṇa's boundless sweetness He is not satisfied. This lack of satisfaction is transcendental, supremely wondrous and ever increasing. Therefore, out of strong emotion and longing, He laments and grieves that He cannot taste Kṛṣṇa's sweetness even in a small measure.
+
+## 138
+
+> Subheading: Kṛṣṇa's body is sweet, Kṛṣṇa's face sweeter, Kṛṣṇa's smile the sweetest —
+
+*Tāra* means “of the moon of Kṛṣṇa's face.” The gentle smile on Kṛṣṇa's face is like the full light of the moon that delights the gopīs.
+
+## 139
+
+> Subheading: All three worlds are bathed in the moonlight of that smile —
+
+Although that smile appears only on one side of His beautiful face, it pervades Goloka, Paravyoma and Devī-dhāma and fills the ten directions with light.
+
+## 140
+
+> Subheading: The sweetness of the flute of Kṛṣṇa, the embodiment of play, maddens all three worlds —
+
+*Smita-kiraṇa-sukarpūre*: in the camphor of the rays of His slight smile. *Paiśe* means “enters.”
+
+## 141
+
+> Subheading: Kṛṣṇa's flute maddens all who are of pure goodness (*śuddha-sattva*) in the universes, in Paravyoma and in Goloka — especially those who hold the *śṛṅgāra-rasa* —
+
+*Aṇḍa bhedi'* (“piercing the egg of the universe”): breaking through the material realm, the universe, the sound goes to transcendental Vaikuṇṭha and forcibly enters the ears of the world of the gopīs.
+
+## 142
+
+> Subheading: The power of the sweetness of the flute —
+
+## 144
+
+> Subheading: It stops every sound other than the sounds of Kṛṣṇa —
+
+The sound of Kṛṣṇa's flute makes its home in the gopīs' ears and, revealing itself there (*sphūrti*) on its own, keeps the gopī almost mad. Then no other sound can enter her ears, and, her mind elsewhere, she cannot answer as she should. That sound of the flute leaves the gopī utterly absent to everything else.
+
+## 145
+
+> Subheading: The Lord returns to external awareness; He seeks no honour for Himself and gives honour to another (*amānī* and *mānada*) —
+
+## 146
+
+> Subheading: The Lord, filled with the feeling of the gopīs, proclaims that His heart has been overcome by Kṛṣṇa's sweetness, and speaks of its good fortune —
+
+## 147
+
+> Subheading: The Lord falls silent for a moment —
+
+## 148
+
+> Subheading: One who hears of Kṛṣṇa's sweetness is immersed in the happiness of love for Kṛṣṇa —
+
+*Thus ends the twenty-first chapter of the “Anubhāṣya.”*
+
 ---
 
 [^123-1]: The edition here reads “তৃতৃপুঃ”; the verse itself has “ততৃপুঃ” (checked against the scan).

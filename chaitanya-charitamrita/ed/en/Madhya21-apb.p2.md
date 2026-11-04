@@ -53,3 +53,29 @@ The Kāma-gāyatrī mantra is Kṛṣṇa's *svarūpa*. Counting the *kāma-bīj
 ## 132
 
 *Dui āṅkhi ki karibe pāne* (“how much can two eyes drink?”): how can the viewer's two eyes drink that ocean of nectar?
+
+## 135
+
+*E-tine lāgila mana* (“the mind clung to these three”): the sweetness of Kṛṣṇa's body is like an ocean, His most sweet face is like the moon risen from that ocean, and His exceedingly sweet smile is like the rays of that moon. To these three the mind clung.
+
+## 136
+
+The body of this Kṛṣṇa is sweet; His face is sweeter still; and His gentle smile, fragrant with honey, is sweeter yet. Oh! Everything about Him is sweet.
+
+## 137
+
+When all three disorders (*doṣas*) arise in the bodily constituents (*dhātus*), it is called *sannipāta*. My mind has been struck by three blows — the sweetness of Kṛṣṇa's body, the sweetness of Kṛṣṇa's face and the sweetness of Kṛṣṇa's smile — and there is no doubt that it suffers from the disease of *sannipāta*. Thirsting, it runs toward that ocean of the *rasa* of beauty. The physician for ordinary *sannipāta* does not let the patient drink even a drop of water. In the same way, my disease has no physician but Kṛṣṇa — yet He does not let me drink even a drop from the ocean of the nectar of His beauty. That is the sorrow (the ill fate)!
+
+## 143
+
+*Nīvi* is the cord with which the skirt (*ghāgrā*) is tied at the waist.
+
+## 144
+
+*Kānera bhitara vāsā kare* (“it makes its home within the ears”): “We gopīs — the sound of the flute has made its home within our ears,” that is, it seems always to be ringing in our ears.
+
+## 145
+
+In this ecstasy of love, while speaking of the truth of Kṛṣṇa, Mahāprabhu lost external awareness and brought in a composition on *rasa* (*rasa-sandarbha*), but this is not the place to describe it. Therefore He says: “I meant to speak of one thing, and I am speaking of another. Kṛṣṇa, in His mercy, bewildered My mind and let you hear of His own majesty and sweetness.”
+
+*Thus ends the twenty-first chapter of the “Amṛta-pravāha-bhāṣya.”*
