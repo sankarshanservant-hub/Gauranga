@@ -78,7 +78,7 @@ Kṛṣṇa is the truth of nondual knowledge (*advaya-jñāna-tattva*). The pot
 
 Śrī Vyāsadeva had performed many austerities and composed all the scriptures, yet he was deprived of satisfaction of the self (*ātma-prasāda*). Dissatisfied at heart, he sat on the bank of the river Sarasvatī, turning over many arguments in his mind and lamenting. Then his *gurudeva*, who knew his heart, Śrī Nārada Gosvāmī, came there. When Vyāsadeva asked him why there was no satisfaction in his heart, Śrī Nārada glorified pure devotion to Hari as greater than all paths — *karma*, *jñāna* and the rest:
 
-**acyuta-bhāva-varjitam** (if it lacks feeling for Acyuta, Kṛṣṇa, that is, lacks favorable cultivation [*anukūla-anuśīlana*]) **nirañjanam** (free from *upādhis* — as pure as can be) **naiṣkarmyam** (free even from enjoying fruits) **jñānam** **alam**[^19-1] (exceedingly) **na** **śobhate** (does not lead to full liberation); **punaḥ** **tathā** **śaśvat** (always — both during *sādhana* and at the time of attainment — and therefore) **abhadram** (painful) **yat** **ca** **akāraṇam** **karma** (*karma* aimed at worldly activity [*pravṛtti*], selfish; and even if aimed at withdrawal [*nivṛtti*], selfless, it is still *karma*) **īśvare** (to Viṣṇu) **na** **arpitam** (not offered), **kutaḥ** (how could it shine? — not at all, is the sense).
+**acyuta-bhāva-varjitam** (if it lacks feeling for Acyuta, Kṛṣṇa, that is, lacks favorable cultivation [*anukūla-anuśīlana*]) **nirañjanam** (free from *upādhis* — pure, that is, spotless) **naiṣkarmyam** (free even from enjoying fruits) **jñānam** **alam**[^19-1] (exceedingly) **na** **śobhate** (does not lead to full liberation); **punaḥ** **tathā** **śaśvat** (always — both during *sādhana* and at the time of attainment — and therefore) **abhadram** (painful) **yat** **ca** **akāraṇam** **karma** (*karma* aimed at worldly activity [*pravṛtti*], selfish; and even if aimed at withdrawal [*nivṛtti*], selfless, it is still *karma*) **īśvare** (to Viṣṇu) **na** **arpitam** (not offered), **kutaḥ** (how could it shine? — not at all, is the sense).
 
 ## 20
 
@@ -530,7 +530,7 @@ In the *Bhakti-sandarbha* (section 236) Śrī Jīva Prabhu writes: “It is sixf
 
 ## 99
 
-> Subheading: The Vaiṣṇava is nondifferent from Kṛṣṇa —
+> Subheading: The Vaiṣṇava is nondifferent from Kṛṣṇa[^99-1] —
 
 ## 100
 
@@ -803,6 +803,8 @@ Here is a devotee who acts in this way: externally, in the body of a *sādhaka*,
 [^69-1]: So in the edition (“মধ্য ৮ম পঃ ২৭৫”). The verse *sarva-bhūteṣu yaḥ paśyet …* is Madhya 8.274 in our numbering (the *Anubhāṣya* discusses it there). Not corrected.
 
 [^73-1]: According to the *Śrīmad-Bhāgavatam* (5.18), Bhadraśravā and his attendants worship Hayagrīva in Bhadrāśva-varṣa (5.18.1–6), while this verse (5.18.12) belongs to Prahlāda's prayer to Lord Nṛsiṁha in Hari-varṣa.
+
+[^99-1]: “Nondifferent” (*abhinna*) in nature: as the next subheading explains, the Vaiṣṇava, like Kṛṣṇa, is full of eternity, knowledge and bliss (*sac-cid-ānanda*). This is not an identity of the *jīva* and God; see *Anubhāṣya* 100 and verse 100.
 
 [^126-1]: *Śvetāśvatara Upaniṣad* 6.23.
 
