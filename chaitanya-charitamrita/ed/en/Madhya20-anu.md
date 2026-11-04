@@ -900,7 +900,7 @@ It should be noted here that although Varāha and Hayagrīva, who belong to this
 
 > Subheading: An introduction to the *nava-vyūha* — (*Laghu-bhāgavatāmṛta*, *Pūrva-khaṇḍa*, the account of the *nava-vyūha*: Śrī Rūpa's words) —
 
-**vāsudevādyāḥ** (Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha) **catvāraḥ** (the second *vyūha*), **nārāyaṇa-nṛsiṁhakau** (the two, Nārāyaṇa and Nṛsiṁha), **hayagrīvaḥ**, **varāhaḥ ca**, **brahmā ca** **iti** **nava** (nine forms, *vyūhas*) **uditāḥ** (are named: “By Brahmā here Hari is to be understood, by the rule stated before.” By the rule stated in the words of the *Padma Purāṇa*,[^242-1] “In some great *kalpa* a *jīva* becomes Brahmā by his worship; and somewhere here Mahā-Viṣṇu takes the position of Brahmā,” Brahmā here is to be understood as belonging to the category of the Lord).
+**vāsudevādyāḥ** (Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha) **catvāraḥ** (the second *vyūha*), **nārāyaṇa-nṛsiṁhakau** (the two, Nārāyaṇa and Nṛsiṁha), **hayagrīvaḥ**, **varāhaḥ ca**, **brahmā ca** **iti** **nava** (nine forms, *vyūhas*) **uditāḥ** (are named: “By Brahmā here Hari is to be understood, by the rule stated before.” By the rule stated in the words of the *Padma Purāṇa*,[^242-1] “In some great *kalpa* even a *jīva* becomes Brahmā by his worship; and somewhere here Mahā-Viṣṇu takes the position of Brahmā,” Brahmā here is to be understood as belonging to the category of the Lord).
 
 ## 243
 
@@ -1282,7 +1282,7 @@ Devarṣi Nārada wished to learn from his own guru Brahmā about the Paramātm�
 
 > Subheading: (d) A description of the *manvantara-avatāras* —
 
-On the *manvantara-avatāras*, see the *Amṛta-pravāha-bhāṣya* on Ādi 2.97, the *Anubhāṣya* on Ādi 3.7–9 and the *Anubhāṣya* on Madhya 20.167.
+On the *manvantara-avatāras*, see the *Amṛta-pravāha-bhāṣya* on Ādi 2.97, the *Anubhāṣya* on Ādi 3.7–9 and the *Anubhāṣya* on Madhya 20.167.[^319-1]
 
 ## 320
 
@@ -1647,3 +1647,5 @@ On the principle of “the moon on the branch” (*śākhā-candra-nyāya*), see
 [^308-309-1]: The verse translation reads otherwise: Rudra “is not a *jīva*, yet He does not belong to Kṛṣṇa's personal manifestations either” (308).
 
 [^357-1]: So in the edition (checked against the scan); this verse (*Śrīmad-Bhāgavatam* 1.1.1) is Madhya 8.265 in our text, where the *Anubhāṣya* on it also stands.
+
+[^319-1]: So in the edition (checked against the scan); the list of the *manvantara-avatāras* is given in the *Anubhāṣya* on Madhya 20.246, while the note on verse 167 contains no such list.

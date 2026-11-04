@@ -118,7 +118,7 @@ To those who seek that nondual Truth through knowledge of the featureless, it ap
 
 ## 162
 
-Know this Śrī Kṛṣṇa to be the Self of all selves. Wishing the good of the world, He has appeared here like a human being, under the shelter of His *svarūpa-śakti*.
+Know this Śrī Kṛṣṇa to be the Self of all selves. Wishing the good of the world, He has appeared here like a human being, relying on His *svarūpa-śakti*.
 
 ## 164–165
 
