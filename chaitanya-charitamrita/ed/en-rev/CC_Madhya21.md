@@ -180,7 +180,7 @@ in the sky  like  specks of dust  revolve  with time  together  since  the śrut
 tvayi hi phalanty atan-nirasanena bhavan-nidhanāḥ  
 in You  indeed  bear fruit  by rejecting what is not You  having their end in You
 
-(15) “Because You are endless, even the lords of heaven have not reached Your end — nor do You Yourself, for within You multitudes of universes, each in its coverings, revolve together with time like specks of dust in the sky. Therefore the *śrutis*, rejecting all that is not You, bear their fruit in You and find their conclusion in You.” (Śrīmad-Bhāgavatam, 10.87.41)
+(15) “Because You are endless, even the lords of heaven have not reached Your end — nor do You Yourself, for within You multitudes of universes, each in its coverings, revolve together with time like specks of dust in the sky. Therefore the *śrutis*, rejecting all that is not You, bear their fruit and find their end in You.” (Śrīmad-Bhāgavatam, 10.87.41)
 
 সেহ রহু — ব্রজে যবে কৃষ্ণ অবতার ৷  
 তাঁর চরিত্র বিচারিতে মন না পায় পার ॥ ১৬ ॥
@@ -334,7 +334,7 @@ boundless  opulence  Kṛṣṇa’s  there is no  counting
 śākhā-candra-nyāye kari dig-daraśana  
 of the branch  and the moon  by the maxim  I give  a glimpse
 
-(30) Kṛṣṇa’s opulence is boundless, beyond counting. I have only pointed toward it, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).
+(30) Kṛṣṇa’s opulence is boundless, beyond counting. I have only pointed toward it, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).”
 
 ঐশ্বর্য্য কহিতে স্ফুরিল ঐশ্বর্য্য সাগর ৷  
 মনেন্দ্রিয় ডুবিলা, প্রভু হইলা ফাঁপর ॥ ৩১ ॥
@@ -380,7 +380,7 @@ supreme  Lord  Kṛṣṇa  Himself  Bhagavān
 tāte baḍa, tām̐ra sama keha nāhi āna  
 than Him  greater  to Him  equal  anyone  there is not  other
 
-(34) Kṛṣṇa is the Supreme Lord, Bhagavān Himself. There is no one else greater than Him or equal to Him.
+(34) “Kṛṣṇa is the Supreme Lord, Bhagavān Himself. There is no one else greater than Him or equal to Him.
 
 ঈশ্বরঃ পরমঃ কৃষ্ণঃ সচ্চিদানন্দবিগ্রহঃ ৷  
 অনাদিরাদির্গোবিন্দঃ সর্ব্বকারণকারণম্ ॥ ৩৫ ॥
@@ -428,7 +428,7 @@ this  is general  of tryadhīśvara  hear  the meaning  another
 jagat-kāraṇa tina puruṣāvatāra  
 of the world  the causes  three  Puruṣa-avatāras
 
-(38) That is the general meaning. Now hear another meaning of *tryadhīśvara*, “the Lord of the three”: the three Puruṣa-avatāras, the causes of the world.
+(38) That is the general meaning. Now hear another meaning of *tryadhīśvara*, ‘the Lord of the three’: the three Puruṣa-avatāras, the causes of the world.
 
 মহাবিষ্ণু, পদ্মনাভ, ক্ষীরোদকস্বামী ৷  
 এই তিন — স্থূল-সূক্ষ্ম-সর্ব্ব-অন্তর্য্যামী ॥ ৩৯ ॥
@@ -656,7 +656,7 @@ of endless  universes  all  of the Brahmās  of the Rudras  the hosts
 cira-loka-pāla-śabde tām̐hāra gaṇana  
 of the age-old  of the worlds  guardians  by the word  their  reckoning
 
-(58) All the Brahmās and Rudras of the endless universes are meant by the words “the age-old guardians of the worlds” (*cira-loka-pāla*).
+(58) All the Brahmās and Rudras of the endless universes are meant by the words ‘the age-old guardians of the worlds’ (*cira-loka-pāla*).
 
 একদিন দ্বারকাতে কৃষ্ণ দেখিবারে ৷  
 ব্রহ্মা আইলা, — দ্বারপাল জানাইল কৃষ্ণেরে ॥ ৫৯ ॥
@@ -984,7 +984,7 @@ tryadhīśvara  of the word  the meaning  a hidden  another  there is
 ’tri’-śabde kṛṣṇera tina loka kaya  
 by the word tri  Kṛṣṇa’s  three  worlds  are meant
 
-(90) The word *tryadhīśvara* (“Lord of the three”) has yet another, hidden meaning: by the word *tri* (“three”) Kṛṣṇa’s three abodes are meant.
+(90) The word *tryadhīśvara* (‘Lord of the three’) has yet another, hidden meaning: by the word *tri* (‘three’) Kṛṣṇa’s three abodes are meant.
 
 গোলোকাখ্য গোকুল, মথুরা, দ্বারাবতী ৷  
 এই তিন লোকে কৃষ্ণের সহজে নিত্য-স্থিতি ॥ ৯১ ॥
@@ -1041,7 +1041,7 @@ with His own spiritual potency  Kṛṣṇa  eternally  is present
 cic-chakti-sampattira ‘ṣaḍaiśvarya’ nāma  
 of the spiritual potency  the wealth  the six opulences  the name
 
-(96) Kṛṣṇa is eternally present with His own spiritual potency (*cit-śakti*), and the wealth of that potency is called the “six opulences” (*ṣaḍaiśvarya*).
+(96) Kṛṣṇa is eternally present with His own spiritual potency (*cit-śakti*), and the wealth of that potency is called the ‘six opulences’ (*ṣaḍaiśvarya*).
 
 সেই স্বারাজ্যলক্ষ্মী করে নিত্য পূর্ণকাম ৷  
 অতএব বেদে কহে ‘স্বয়ং ভগবান্’ ॥ ৯৭ ॥
@@ -1103,7 +1103,7 @@ dressed as a cowherd  flute in hand  freshly youthful  the best of dancers
 nara-līlāra haya anurūpa  
 for the human-like pastime  is  fitting
 
-(101) “Of all Kṛṣṇa’s pastimes the highest is His human-like pastime (*nara-līlā*), and a human-like form is His own true form. Dressed as a cowherd boy, flute in hand, ever freshly youthful, the finest of dancers — this form perfectly suits His human-like pastimes.[^21]
+(101) “Of all Kṛṣṇa’s pastimes the highest is His *nara-līlā*, His play as a human being, and a human-like form is His own true form. Dressed as a cowherd boy, flute in hand, ever freshly youthful, the finest of dancers — this form perfectly suits such play.[^21]
 
 কৃষ্ণের মধুর রূপ শুন, সনাতন ৷  
 যে রূপের এক কণ, ডুবায় যে ত্রিভুবন,  
@@ -1449,7 +1449,7 @@ an eternal festival  not  were sated  with the eyes  drinking
 nāryo narāś ca muditāḥ kupitā nimeś ca  
 women  men  and  delighted  angry  with the maker of blinking  and
 
-(123) “Women and men drank with their eyes His face — lovely with ears graced by *makara* earrings and with shining cheeks, smiling playfully, an eternal festival — and were never sated. Delighted, they were angry with the maker of the blinking eyelids.” (Śrīmad-Bhāgavatam, 9.24.65)
+(123) “Women and men drank with their eyes His face — lovely with ears graced by *makara* earrings and with shining cheeks, smiling playfully, an eternal festival — and were never sated. Delighted as they were, they grew angry with the maker of the blinking eyelids.” (Śrīmad-Bhāgavatam, 9.24.65)
 
 অটতি যদ্ভবানহ্নি কাননং  
 ত্রুটির্যুগায়তে ত্বামপশ্যতাম্ ৷  
@@ -1713,7 +1713,7 @@ of the flute’s holes  into the sky  its  quality  into sound  enters
 dhvani-rūpe pāñā pariṇāme  
 of sound  in the form  attaining  transformation
 
-(140) The fine camphor of the rays of His smile enters the sweetness of His lips, and that honey maddens the three worlds. It enters the sky within the holes of the flute and passes into sound, the sky’s own quality, transformed into the form of melody.
+(140) The fine camphor of the rays of His smile enters the sweetness of His lips, and that honey maddens the three worlds. Entering the sky within the holes of the flute, it passes into sound, the sky’s own quality, and is transformed into melody.
 
 সে ধ্বনি চৌদিকে ধায়, অণ্ড ভেদি, বৈকুণ্ঠে যায়,  
 বলে পৈশে জগতের কাণে ৷  
