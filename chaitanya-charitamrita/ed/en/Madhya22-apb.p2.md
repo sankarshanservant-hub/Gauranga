@@ -108,6 +108,38 @@ The bhakti of the devotees who live in Vraja, whose nature is *rāga*, is the pr
 
 The natural inclination to serve the beloved (*iṣṭa-vastu*), full of supreme absorption, is called *rāga*. When *kṛṣṇa-bhakti* is *tanmayī*, full of such *rāga*, it is called *rāgātmikā*.
 
+## 148
+
+*Anugati* means following.
+
+## 149
+
+Among the residents of Vraja and others, *rāgātmikā-bhakti* shines in manifest form. And the bhakti that follows (*anusṛtā*, that is, *anugatā*) that bhakti is *rāgānugā-bhakti*.
+
+## 150
+
+When one hears of the sweetness of the *bhāvas* and the rest of the residents of Vraja, the intelligence relies on greed (*lobha*) — and this is what gives one the qualification for *rāgānugā-bhakti*. Neither scripture nor reasoning is the sign that this greed has arisen.
+
+## 153
+
+Those in whom greed for *rāgātmikā-bhakti* has arisen should, following the activities of the people of Vraja, render external service in the form of a *sādhaka* and internal service in the form of a *siddha*.
+
+## 154
+
+Those dearest to Kṛṣṇa are the devotees who live in Vraja. Whoever among them longs for the sweetness of a particular devotee of Vraja and considers following him to be the service he desires keeps behind him and, with his mind turned within, constantly serves Kṛṣṇa.
+
+## 155
+
+Always remembering Kṛṣṇa and the one he himself has chosen from among those dearest to Him, and absorbed in narrations about them, he should always live in Vraja. If he cannot live in Vraja in body, he should live in Vraja at least in mind.
+
+## 157
+
+Those for whom I am the beloved, the Self, the son, the friend, the guru, the well-wisher, the deity and the cherished one are always devoted to Me. O mother of peaceful form, My wheel of time never destroys them.
+
+## 158
+
+Again and again I bow to those who always, with eagerness, meditate on Hari as husband, son, well-wisher, brother, father, friend and so on.
+
 ---
 
 [^103–106-1]: The translation of verse 104 differs: “Therefore it is not the main goal of spiritual practice.”

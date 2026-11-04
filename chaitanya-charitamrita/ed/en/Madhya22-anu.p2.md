@@ -216,6 +216,70 @@ Many people mistakenly think that *jñāna*, and the *vairāgya* born of *karma*
 
 > Subheading: What *rāgātmikā-* and *rāgānugā-bhakti* are —
 
+## 145
+
+> Subheading: The definition of *rāgātmikā-bhakti* —
+
+**iṣṭe** (in the cherished object — that) **svārasikī** (natural, full of deep thirst, suited to one's own perfected *rasa*) **paramāviṣṭatā** (the inclination to serve, full of absorption in it — that) **rāgaḥ** **bhavet**. **tanmayī** (full of such *rāga*) **yā** **bhaktiḥ** **bhavet**, **atra** (in the literature of the pure devotees) **sā** **‘rāgātmikā’** **uditā** (is called).
+
+## 146
+
+> Subheading: The essential (*svarūpa*) and the accompanying (*taṭastha*) characteristics of *rāgātmikā-bhakti* — “deep thirst” and “absorption” —
+
+In what is favorable to oneself, that is, in the cherished object, *rāga* in the form of deep thirst is the principal, that is, the essential characteristic (*svarūpa-lakṣaṇa*). And knowing by effects — what is called the accompanying characteristic (*taṭastha-lakṣaṇa*) — is here absorption in the cherished object.
+
+## 148
+
+> Subheading: The nature, or characteristic, of a *rāgānugā* devotee —
+
+To be captivated by the *bhāva* of the residents of Vraja and to follow the desire for that *bhāva* is the natural inclination of *rāgānugā* devotees. Devotees in whom taste has awakened (*jāta-ruci*) are by their very nature highly skilled in scriptural reasoning. And when someone else comes with scriptural arguments against their eternally perfect taste, they do not accept them. One should know that the *prākṛta-sahajiyās* and other *sampradāyas* that have taken to a wrong path in fact lack awakened taste (*ajāta-ruci*). In the conceit of being *rāgānugā*, they give up the study of the books of bhakti and the path that follows Śrī Rūpa, nourish mundane tastes fit for libertines and fools, and so bring about their own ruin. They are deceived and unfortunate.
+
+## 149
+
+> Subheading: The definition of *rāgānugā-bhakti* —
+
+**yā** **vrajavāsi-janādiṣu** **abhivyaktām** (so as to be clearly manifest) **virājantīm** (shining) **rāgātmikām** (belonging to the nature of the eternally perfect people of Vraja) **bhaktim** **anusṛtā** (following), **sā** **‘rāgānugā’** **ucyate**.
+
+## 150
+
+(From the mouth of a guru who is a *mahā-bhāgavata* with awakened taste, or from perfect scriptures such as *Śrīmad-Bhāgavatam* and the *Padma Purāṇa*) **tat-tad-bhāvādi-mādhurye** (the sweetness of the *bhāvas* and the rest of the residents of Vraja — *bhāvas* that rest in the *rasas* of *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*) **śrute** (when it is experienced through hearing) **yat** (whose) **dhīḥ** (the intelligence) **atra** (here) **śāstram** (scriptural injunction) **na**, **yuktim** (deliberation) **ca** **na** **apekṣate** (but acts of itself, by its own nature) — **tad** **eva** **lobhotpatti-lakṣaṇam** (the sign that *rāga* has arisen).
+
+## 151
+
+> Subheading: The twofold practice of *rāgānugā-bhakti* by one freed from *anarthas* — in the body of a *sādhaka* and in the *siddha-deha* —
+
+## 153
+
+> Subheading: The evidence of scripture —
+
+**atra** (in the *sādhana* of *rāgānugā-bhakti*) **tad-bhāva-lipsunā** (by one who longs for the *bhāva* of his own cherished one in Vraja — the guru, dearest to Kṛṣṇa — and wishes, by following him, to make it his own) **sādhaka-rūpeṇa** (in the body of a *sādhaka*, holding to the bhakti called *kīrtana* and the rest) **siddha-rūpeṇa** (with the mental body fit for eternal service in *svarūpa-siddhi*) **ca** **vraja-lokānusārataḥ** (following the people of Vraja who have that *anurāga*) **sevā** **hi** **kāryā** (should be done).
+
+## 154
+
+> Subheading: The *rāgānuga* devotee, at every moment following the guru, renders perfected service to his cherished one —
+
+## 155
+
+> Subheading: The *rāgānuga* devotee, freed from *anarthas*, in solitude remembers his cherished one, and so on —
+
+**kṛṣṇaṁ** **ca** **asya** (Kṛṣṇa's) **preṣṭhaṁ** (dearest) **nija-samīhitaṁ** (his own cherished) **janaṁ** **ca** **smaran** **asau** (the *sādhaka*) **tat-tat-kathā-rataḥ** (devoted to the narrations befitting that *rasa*) **sadā** (eternally) **vraje** (in Vṛndāvana, which is full of service to Nandanandana) **vāsaṁ** **kuryāt** (should establish eternal residence, in the gross body or even in the mind. The idea is this: one devoid of the worship of Kṛṣṇa, bewildered by the enjoyment of material objects, never lives in the *dhāma*. But one who is always engaged in *bhajana* lives day after day in the eternal *dhāma*, even if by worldly sight he stays elsewhere).
+
+## 156
+
+> Subheading: The *rāgānuga* serves Kṛṣṇa in four *rasas*; *śānta-rasa* has no place here —
+
+## 157
+
+> Subheading: The *rāgānuga* devotee, related to Kṛṣṇa in the four *rasas* and devoted to Him alone, is beyond time and *prakṛti* —
+
+The venerable (*bhagavān*) sage Maitreya recounts to Vidura the conversation of Kapila and Devahūti. Devahūti asked Bhagavān Kapiladeva about *bhakti-yoga* and the truth of the self (*ātma-tattva*). Glorifying pure *bhakti-yoga*, known as *sāṅkhya-yoga*, He first says that bhakti is the best *abhidheya* and then glorifies the greatness of the pure devotees, the servants of Hari:
+
+(O mother,) **śānta-rūpe** (in Me, the object of steadfast faith — or in the eternal abode Vaikuṇṭha, where form is *śānta*, that is, free from change: pure *sattva*) **yeṣām** (of the devotees) **ahaṁ** **priyaḥ** (the object of love), **sutaḥ** (the object of affection), **ātmā** (the dearest), **sakhā** (the one they trust), **guruḥ** (the instructor), **suhṛdaḥ** (the benefactor) **iṣṭaṁ** **daivam** (the object of worship; they alone) **mat-parāḥ** (are My devotees), (therefore, protected by Me) **karhicit** (ever) **na** **naṅkṣyanti** (do not become featureless, deprived of enjoyment, since) **animiṣaḥ** (time) **me** (My) **hetiḥ** (wheel of time) **na** **leḍhi** (does not devour them).
+
+## 158
+
+> Subheading: Obeisances to the *rāgānuga* devotees —
+
 ---
 
 [^126-1]: *Śvetāśvatara Upaniṣad* 6.23.
