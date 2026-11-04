@@ -2399,3 +2399,113 @@
 #### Нельзя / решения
 - Радха в Бхаг. 10.30.37–39: অহঙ্কার, গর্ব → «гордость» (не «эгоизм»); অনুতাপ → «сокрушаться» (Ану: «анутапавати»).
 - Гопи (Бхаг. 10.31.16) → «плут» для কিতব (любовное обращение-упрёк) / “rogue”.
+
+## Термины (добавлено по Мадхья 20; RU и EN)
+
+### Madhya20-p1
+
+#### Термины и имена
+- ভৌমিক / ভূঞা → бхаумик (землевладелец), бхуйя / *bhaumika* (landholder), *bhūñā*.
+- পাতড়া-পর্ব্বত → горы Патара (как у ВЧД) / the Pātaḍā hills.
+- ভদ্র (করা) → побриться (бхадра) / to shave (*bhadra*).
+- ভোট-কম্বল → шерстяной плед из Бхоты (у ВЧД — «шерстяной плед») / the woollen Bhoṭa blanket.
+- কাঁথা → кантха (стёганое покрывало) / quilt (*kāṅthā*).
+- উদ্ভটচন্দ্রিকা → “Удбхата-чандрика” / *Udbhaṭa-candrikā*.
+- জিন্দাপীর → джинда-пир, живой пир (святой) / *jindā-pīr*, a living *pīr* (saint).
+- দাড়ুকা → дарка (кандалы) / *dāḍukā* (fetters); সামুদ্রিক → гадатель по руке (самудрика) / palmist (*sāmudrika*).
+- পশ্চিম-দেশীয় হিন্দি → хинди западных краёв / the Hindi of the western regions.
+- মায়া-বৈভব (пуруш-аватар) → майическое проявление (майя-вайбхава) / the manifestation of *māyā* (*māyā-vaibhava*).
+- বাল্য, পৌগণ্ড, কৈশোর → детство (балья), отрочество (пауганда), юность (кишора) / childhood (*bālya*), boyhood (*paugaṇḍa*), youth (*kaiśora*).
+- শ্বপচ / শ্বপাক → шва-пача (пёсоед) / *śva-paca* (dog-eater); চণ্ডাল → чандала / *caṇḍāla*.
+- মহারৌরব → маха-раурава (ад) / *mahā-raurava* (a hell); প্রামাণিক → праманика (образец здравого суждения, учёный) / *prāmāṇika*.
+- মাধুকরী → мадхукари (подаяние понемногу) / *mādhukarī*; যুক্তবৈরাগ্য → юкта-вайрагья / *yukta-vairāgya*.
+- সূত্রধর → сутрадхара (распорядитель игры) / *sūtradhāra* (stage-director); কীর্ত্তনবিগ্রহ → воплощённый киртан / the embodiment of *kīrtana*.
+- তাপত্রয়: আধ্যাত্মিক, আধিভৌতিক, আধিদৈবিক → три вида страданий: адхьятмика, адхибхаутика, адхидайвика / the three kinds of misery: *ādhyātmika*, *ādhibhautika*, *ādhidaivika*; জরায়ুজ, অণ্ডজ, স্বেদজ, উদ্ভিজ্জ → рождённые из чрева, из яйца, из пота, из ростка / born from wombs, eggs, sweat, sprouts; বরদেবতা / অপদেবতা → высшие боги / злые духи / the higher gods / malign spirits.
+- তটস্থা শক্তি → пограничная энергия (татастха-шакти) / the marginal potency (*taṭastha-śakti*); ভেদাভেদ-প্রকাশ → проявление, и отличное, и неотличное (бхедабхеда-пракаша) / a manifestation both different and nondifferent (*bhedābheda-prakāśa*); অণুচৈতন্য / বৃহৎচৈতন্য → крошечное сознание (ану-чайтанья) / великое сознание (брихат-чайтанья) / atomic consciousness (*aṇu-caitanya*) / the great consciousness (*bṛhat-caitanya*); লিঙ্গশরীর → тонкое тело (линга-шарира) / the subtle body (*liṅga-śarīra*).
+- নিত্যমুক্ত জীব → вечно освобождённая джива / the eternally liberated *jīva*; কৃষ্ণসেবাধিকার → право служить Кришне / the right to serve Kṛṣṇa.
+- বিরূপ → искажённая природа (вирупа) / the distorted nature (*virūpa*); বিবর্ত্ত → заблуждение (виварта) / misapprehension (*vivarta*); অধোক্ষজ → Адхокшаджа / Adhokṣaja.
+- অহংগ্রহোপাসনা → ахамграхопасана (поклонение себе как Богу) / *ahaṁgrahopāsanā* (worshipping oneself as God).
+- অপৌরুষেয় → не созданный человеком (апаурушея) / not of human origin (*apauruṣeya*).
+- সর্ব্বজ্ঞ → всеведущий (сарвагья; у ВЧД — «астролог») / the all-knowing one (*sarvajña*).
+- ভীমরুল-বরুলী → шершни и осы (бхимарул-баруля) / hornets and wasps (*bhīmarula-barulī*); যক্ষ → якша / *yakṣa*; কৃষ্ণসর্প, কৃষ্ণ অজগর → чёрная змея, чёрный питон / black snake, black python.
+- কর্ম্মকাণ্ড, জ্ঞানকাণ্ড, যোগকাণ্ড, সিদ্ধিকাণ্ড → карма-, гьяна-, йога-, сиддхи-канда / *karma-*, *jñāna-*, *yoga-*, *siddhi-kāṇḍa*; কৈবল্য, সাযুজ্য, ব্রহ্মসাযুজ্য → кайвалья, саюджья, брахма-саюджья / *kaivalya*, *sāyujya*, *brahma-sāyujya*.
+- দক্ষিণা-মার্গ / উত্তরা-মার্গ → путь юга (дакшина-марга) / путь севера (уттара-марга) / the southern / northern path; সিদ্ধধন → уже имеющееся сокровище (сиддха-дхана) / the treasure already one's own (*siddha-dhana*).
+- অবান্তর-ফল / গৌণফল → побочный плод / by-product, secondary fruit.
+- শৌক্র-জাতি-দোষ → порок рождения в касте по семени / the defect of birth in a caste by seminal descent.
+
+#### Источники
+- “Мукта-пхала” (комментарий к ней) / the *Muktā-phala* (commentary on it); Махабхарата, слова Санатсуджаты / *Mahābhārata*, the words of Sanatsujāta; «Бхавартха-дипика» к ШБ 10.1.1 (ЧЧ Ади 2.95); комментарий Мадхвы к ШБ 5.5.10–13 / Madhva's commentary on SB 5.5.10–13.
+- Имена: Ними (царь Видехи), девять Йогендр, мудрец Кави; Хираньякашипу, Прахлада, Нрисимха / Nimi (king of Videha), the nine Yogendras, the sage Kavi; Hiraṇyakaśipu, Prahlāda, Nṛsiṁha.
+
+### Madhya20-p2
+
+#### Термины
+- বিবেচনব্যতিকর (Ану 145) → «сопоставление при разборе» (вивечана-вьятикара) / “comparison in examination” (*vivecana-vyatikara*).
+- রূঢ়ি / লক্ষণা-বৃত্তি; অন্বয় / ব্যতিরেক (Ану 146) → прямое (рудхи) / переносное (лакшана) значение; анвая / вьятирека / primary (*rūḍhi*) / secondary (*lakṣaṇā*) sense; *anvaya* / *vyatireka*.
+- ফলশ্রুতি (কর্ম্মকাণ্ডের) → плоды, которые обещает карма-канда (пхала-шрути) / the fruits the *karma-kāṇḍa* promises (*phala-śruti*); ত্রিকাণ্ডাত্মক বেদ → Веды из трёх разделов (канд) / the Vedas made up of three *kāṇḍas*.
+- কায়ব্যূহ (যোগবলে, Саубхари) → кайа-вьюха (множество тел силой йоги) / *kāya-vyūha* (many bodies by yogic power).
+- চারণ (ЛМ 4.19) → чарана (актёр) / *cāraṇa* (actor); বৈদগ্ধ্য-বিলাস → игра искусности (вайдагдхья-виласа) / play of artfulness (*vaidagdhya-vilāsa*); উল্লাস → ликование (улласа) / delight (*ullāsa*).
+- প্রাভব / বৈভব প্রকাশ, প্রাভব / বৈভব বিলাস → прабхава- / вайбхава-пракаша, прабхава- / вайбхава-виласа / *prābhava-* / *vaibhava-prakāśa*, *-vilāsa* (в издании и «প্রভাব» — передаём одинаково).
+- আবরণ (চতুর্ব্যূহ) → окружение (аварана) / surrounding circle (*āvaraṇa*); নবব্যূহ → нава-вьюха / *nava-vyūha*.
+- প্রাভবাবস্থ / বৈভবাবস্থ / পরাবস্থ অবতার → аватара в состоянии прабхавы / вайбхавы (вайбхававастха) / пары (паравастха) / *avatāra* in the state of *prābhava* / *vaibhava* (*vaibhavāvastha*) / *para* (*parāvastha*).
+- কল্পাবতার → кальпа-аватара / *kalpa-avatāra*; মুনিচেষ্টাযুক্ত → действующие как мудрецы (муни) / acting as sages.
+- ভগবদাবেশ / শক্ত্যাবেশ → бхагавад-авеша / шактьявеша / *bhagavad-āveśa* / *śaktyāveśa*; স্ব-সেবনশক্তি → энергия служения Самому Господу / the potency of serving the Lord Himself; ভূধারণ-শক্তি → энергия, держащая землю / the potency of bearing the earth.
+- শুক্ল / রক্ত / শ্যাম / কৃষ্ণবর্ণ / পীতবর্ণ (юга-аватары) → белый / красный / тёмный (шьяма) / чёрного цвета (кришна-варна) / золотистого цвета (пита-варна) / white / red / dark (*śyāma*) / black (*kṛṣṇa-varṇa*) / golden (*pīta-varṇa*); সাধারণ / বিশেষ কলি → обычная / особая Кали-юга / an ordinary / a special Kali.
+- শাখাচন্দ্রন্যায় → шакха-чандра-ньяя (правило «луны на ветке») / *śākhā-candra-nyāya* (the maxim of the moon on the branch); মায়িক → мирской (майика) / mundane (*māyika*).
+- সপ্তদ্বীপ / নবখণ্ড (বর্ষ) → сапта-двипа (семь двип) / нава-кханда (девять кханд, или варш) / *sapta-dvīpa* / *nava-khaṇḍa* (*varṣa*).
+- অর্চ্চামূর্ত্তি → арча-мурти (Божество) / *arcā-mūrti* (Deity).
+- তিলক-মন্ত্র → мантры тилаки / *tilaka-mantras*; আচমন / আহ্নিক(পূজা) → ачамана / ежедневная пуджа (ахника) / *ācamana* / the daily worship (*āhnika*).
+- পাঞ্চজন্য, কৌমোদকী (কৌমোদী), সুদর্শন, হেতিরাজ, সহস্রার → Панчаджанья, Каумодаки, Сударшана, царь оружия (диск), тысячеспицый (диск) / Pāñcajanya, Kaumodakī, Sudarśana, the king of weapons (the disc), the thousand-spoked (disc); সপ্ততাল → семь тал / seven *tālas*.
+- জীবযোনি → источник джив (джива-йони) / the source of *jīvas* (*jīva-yoni*); বীজযোনী (নিমিত্তোপাদানে) → действующая и материальная причины / the efficient and material cause.
+- সত্ত্বনিধি (সর্ব্বসত্ত্বাশ্রয়, বিশুদ্ধসত্ত্বসেবধি) → океан благости; прибежище всякой саттвы, сокровищница чистой саттвы / the ocean of goodness; the shelter of all *sattva*, the treasury of pure *sattva*.
+- তুরীয় পরব্যোম / চিদ্বৈভব / অচিদ্বৈভব → турия Паравьома / величие духа / величие недуховного / the *turīya* Paravyoma / the glory of spirit / the glory of the nonspiritual; মায়াবিলাস → область майи (майя-виласа) / the realm of *māyā* (*māyā-vilāsa*).
+- চতুঃশ্লোকী → Чатух-шлоки / the *Catuḥ-ślokī*.
+
+#### Источники
+- “Сиддхартха-самхита” / *Siddhārtha-saṁhitā*; “Хаяширша-панчаратра” / *Hayaśīrṣa-pañcarātra* (по “Хари-бхакти-виласе”, 5.168–177).
+- “Сиддханта-широмани”: «Голадхьяя», раздел о восхвалении сферы, «Бхувана-коша» / *Siddhānta-śiromaṇi*: *Golādhyāya*, the section in praise of the sphere, *Bhuvana-kośa*.
+- “Падма-пурана”, “Вайшакха-махатмья”, беседа Ямы и брахмана / *Padma Purāṇa*, *Vaiśākha-māhātmya*, the dialogue of Yama and a brāhmaṇa.
+
+#### Имена и места
+- Бинду-Мадхава (Праяга), Мадхусудана (Мандара), Анандаранья (Керала), Варадараджа Вишну (Вишну-Канчи), Хари (Майяпур) / Bindu-mādhava (Prayāga), Madhusūdana (Mandāra), Ānandāraṇya (Kerala), Varadarāja Viṣṇu (Viṣṇu-kāñcī), Hari (Māyāpura).
+- Чатух-сана (четыре Сана) / the Catuḥ-sana; Дхруваприя (Пришнигарбха) / Dhruvapriya (Pṛśnigarbha); Датта (Даттатрея), сын Атри / Datta (Dattātreya), the son of Atri.
+- Манвантара-аватары: Ягья, Вибху, Сатьясена, Хари, Вайкунтха, Аджита, Вамана, Сарвабхаума, Ришабха, Вишваксена, Дхармасету, Судхама, Йогешвара, Брихадбхану / Yajña, Vibhu, Satyasena, Hari, Vaikuṇṭha, Ajita, Vāmana, Sārvabhauma, Ṛṣabha, Viṣvaksena, Dharmasetu, Sudhāmā, Yogeśvara, Bṛhadbhānu.
+- Двипы: Джамбу, Шака, Шалмали (Шалмала), Куша, Краунча, Гомеда (Гомедака, Плакша), Пушкара; варши: Бхарата, Киннара (Кимпуруша), Хари, Куру, Хиранмая, Рамьяка (Раманака), Илаврита, Бхадрашва, Кетумала / Jambu, Śāka, Śālmalī (Śālmala), Kuśa, Krauñca, Gomeda (Gomedaka, Plakṣa), Puṣkara; Bhārata, Kinnara (Kimpuruṣa), Hari, Kuru, Hiraṇmaya, Ramyaka (Ramaṇaka), Ilāvṛta, Bhadrāśva, Ketumāla.
+
+### Madhya20-p3
+
+#### Термины
+- চিৎপরমাণু, চিৎপরমাণুপুঞ্জ জীবশক্তি → атомарные частицы духа; джива-шакти — скопление атомарных частиц духа / atomic particles of spirit; the *jīva-śakti*, a mass of atomic particles of spirit (как в Мадхья 10: চিৎপরমাণু).
+- চিদাভাস-জীবাখ্যা শক্তি → энергия, называемая дживой, — отражение духа / the potency called the *jīva*, a reflection of spirit.
+- দৈব / কালবৃত্তি → судьба (даива); сила времени (кала-вритти) / destiny (*daiva*); the power of time (*kāla-vṛtti*).
+- অহঙ্কার: বৈকারিক (সাত্ত্বিক), তৈজস (রাজস), তামস; ভূতাদি → аханкара: вайкарика (саттвическая), тайджаса (раджасическая), тамаса; бхутади / *ahaṅkāra* (ego): *vaikārika* (*sāttvika*), *taijasa* (*rājasika*), *tāmasa*; *bhūtādi*.
+- তন্মাত্র (শব্দতন্মাত্র) → танматра (звука) / the (sound) *tanmātra*; চিত্ত (মহত্তত্ত্ব) → читта (сознание) / *citta* (consciousness).
+- ভোগায়তন → вместилище наслаждений / that which houses enjoyment.
+- বৈরাজ-ব্রহ্মত্ব / হিরণ্যগর্ভ-ব্রহ্মত্ব → место Вайраджа-Брахмы / Хираньягарбха-Брахма / the post of Vairāja Brahmā / Hiraṇyagarbha Brahmā.
+- অভিন্নাংশ / বিভিন্নাংশ → неотделённая / отделённая часть / non-separated / separated part; ঈশ্বর-কোটি → из разряда Ишвары / of the *īśvara* category.
+- ভেদাভেদ-প্রকাশ (Рудра) → проявленный как отличный и неотличный / manifest as both different and non-different; বৈষ্ণব তত্ত্ব → таттва вайшнава / the *tattva* of a Vaiṣṇava; হরিজনত্ব → природа слуги Хари / his nature as a servant of Hari.
+- অংশকলা → амша-кала / *aṁśa-kalā*; আজ্ঞাকারী (আজ্ঞাবহ, আজ্ঞানুবর্ত্তী) → послушные (исполняющие волю, следующие повелению) / obedient (carrying out His will, following His command); ভক্তাবতার → бхакта-аватара / *bhakta-avatāra*.
+- কল্প, চতুর্যুগ → кальпа (день Брахмы), чатур-юга / *kalpa*, *catur-yuga* (как в Ади 3).
+- পূর্ণ / পূর্ণতর / পূর্ণতম → пурна (полный) / пурнатара (более полный) / пурнатама (полнейший) / *pūrṇa* (complete) / *pūrṇatara* (more complete) / *pūrṇatama* (most complete); পূর্ণতা, পূর্ণতরতা, পূর্ণতমতা → полнота, большая полнота, полнейшая полнота / fullness, greater fullness, most complete fullness.
+- স্বরূপ-লক্ষণ (মুখ্য) / তটস্থ-লক্ষণ (গৌণ); আকৃতি, প্রকৃতি → сварупа-лакшана (главный, мукхья) / татастха-лакшана (второстепенный, гауна); акрити (облик), пракрити (природа) / *svarūpa-lakṣaṇa* (principal, *mukhya*) / *taṭastha-lakṣaṇa* (secondary, *gauṇa*); *ākṛti* (shape), *prakṛti* (nature).
+- অর্থাভিজ্ঞতা → всеведение во всех целях (артхабхиджната) / knowing every purpose (*arthābhijñatā*); দেশিক → наставник (дешика) / teacher (*deśika*).
+- পরোক্ষবাদ → косвенная речь / indirect speech; চতুরালি → чатурали (искусность, ловкость) / *caturāli* (cleverness).
+- মুখ্য / গৌণ শক্ত্যাবেশ; বিভূতি → главная / второстепенная шактьявеша; вибхути / principal / secondary *śaktyāveśa*; *vibhūti*; আবেশাবতার → авеша-аватара / *āveśa-avatāra*.
+- জ্যোতিশ্চক্র → круг светил (джьотиш-чакра) / the circle of the heavenly bodies (*jyotiś-cakra*); অলাতচক্র → огненное колесо (алата-чакра) / firebrand wheel (*alāta-cakra*); মৌষল(-লীলা) → Маушала / the Mauṣala.
+- নিত্যলীলা, নিত্যপ্রাকট্য → нитья-лила; вечная явленность / *nitya-līlā*; eternal manifestation.
+- সাধনসিদ্ধ, নিত্যপ্রিয়া → садхана-сиддхи (достигшие совершенства садханой), вечные возлюбленные / *sādhana-siddhas* (perfected through practice), eternal beloveds; স্থায়ী (অনুরাগ) → стхайи-бхава / *sthāyi-bhāva*.
+- স্ফূর্ত্তি → спхурти (раскрытие в сердце) / *sphūrti* (revelation within the heart).
+- পীতবর্ণ (Кали) → «золотистый» — как в ч. 2 и у ВЧД / “golden,” as in part 2.
+
+#### Источники
+- “Санкхья-карика” (25) / *Sāṅkhya-kārikā* (25); Риг-веда, 10.90 (Пуруша-сукта) / *Ṛg-veda* 10.90.
+- “Вишну-пурана”, 6.2.17 / *Viṣṇu Purāṇa* 6.2.17; “Хариванша” / *Harivaṁśa*.
+- “Лагху-бхагаватамрита”, Пурва-кханда, раздел об авеше / *Laghu-bhāgavatāmṛta*, *Pūrva-khaṇḍa*, the section on *āveśa*.
+- “Бхакти-расамрита-синдху”, Дакшина-вибхага, Вибхава-лахари / *Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, *Vibhāva-laharī*.
+- “Рага-вартма-чандрика” (2-я пракаша) Вишванатхи Чакраварти; “Уджвала-ниламани” / *Rāga-vartma-candrikā* (second *prakāśa*); *Ujjvala-nīlamaṇi*.
+
+#### Имена
+- Девахути, Капиладева, Кардама; Видура, Майтрея / Devahūti, Kapiladeva, Kardama; Vidura, Maitreya.
+- Ману: Сваямбхува, Сварочиша, Уттама, Тамаса, Райвата, Чакшуша, Вайвасвата, Саварни, Дакша-, Брахма-, Рудра-, Дхарма-, Дева-, Индра-саварни; Рудрапутра, Рочья, Бхаутьяка; Сварочи, Прияврата, Чакшу, Вивасван, Чхая, Упашлока, Сатьясаха / Svāyambhuva, Svārociṣa, Uttama, Tāmasa, Raivata, Cākṣuṣa, Vaivasvata, Sāvarṇi, Dakṣa-, Brahma-, Rudra-, Dharma-, Deva-, Indra-sāvarṇi; Rudraputra, Raucya, Bhautyaka; Svarocis, Priyavrata, Cakṣu, Vivasvān, Chāyā, Upaśloka, Satyasahā.
+- Налакувара, Манигрива (сыновья Куверы) / Nalakūvara, Maṇigrīva (sons of Kuvera); Карабхаджана-риши / Karabhājana Ṛṣi.
+- Ашвагрива (= Хаягрива), Каччхапа (= Курма), Дашаратхи (= Рама) / Aśvagrīva, Kacchapa, Dāśarathi.
