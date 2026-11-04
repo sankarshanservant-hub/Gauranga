@@ -1249,12 +1249,12 @@ the manifestation  in the heart  is the attainment
 
 (102) “Devotion carried out by the senses, whose goal is *bhāva*, is called *sādhana-bhakti*. *Bhāva* is eternally perfect; to ‘attain’ it is to make it manifest in the heart.” (Bhakti-rasāmṛta-sindhu, 1.2.2)
 
-শ্রবণাদি-ক্রিয়া — তার ‘স্বরূপ’ লক্ষণ ৷  
-‘তটস্থ’ লক্ষণে উপজায় প্রেমধন ॥ ১০৩ ॥
+শ্রবণাদি-ক্রিয়া — তার ‘স্বরূপ’-লক্ষণ ৷  
+‘তটস্থ’-লক্ষণে উপজায় প্রেমধন ॥ ১০৩ ॥
 
-śravaṇādi-kriyā — tāra ‘svarūpa’ lakṣaṇa  
+śravaṇādi-kriyā — tāra ‘svarūpa’-lakṣaṇa  
 hearing and the rest  the activities  its  essential  characteristic  
-‘taṭastha’ lakṣaṇe upajāya prema-dhana  
+‘taṭastha’-lakṣaṇe upajāya prema-dhana  
 by the marginal  characteristic  arises  the treasure of love
 
 (103) Hearing and the other activities are its essential characteristic (*svarūpa-lakṣaṇa*). Its marginal characteristic (*taṭastha-lakṣaṇa*) is that the treasure of love arises from it.
@@ -1267,7 +1267,7 @@ eternally perfect  for Kṛṣṇa  love  something to be produced  ever  is not
 śravaṇādi śuddha-citte karaye udaya  
 hearing and the rest  in the purified  heart  cause  its rising
 
-(104) Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices make it rise in the purified heart.
+(104) Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices make it rise in the purified heart.[^39]
 
 এই ত’ সাধনভক্তি — দুই ত’ প্রকার ৷  
 এক ‘বৈধী ভক্তি’, ‘রাগানুগা-ভক্তি’ আর ॥ ১০৫ ॥
@@ -1277,7 +1277,7 @@ this  indeed  sādhana-bhakti  two  indeed  kinds
 eka ‘vaidhī bhakti’, ‘rāgānugā-bhakti’ āra  
 one  vaidhī-bhakti  rāgānugā-bhakti  the other
 
-(105) This *sādhana-bhakti* is of two kinds: one is *vaidhī-bhakti*, devotion according to rules, and the other is *rāgānugā-bhakti*, devotion that follows spontaneous love.
+(105) This *sādhana-bhakti* is of two kinds: one is *vaidhī-bhakti*, devotion according to rules, and the other is *rāgānugā-bhakti*, devotion that follows spontaneous love.[^40]
 
 রাগহীন জন ভজে শাস্ত্রের আজ্ঞায় ৷  
 ‘বৈধী-ভক্তি’ বলি’ তারে সর্ব্বশাস্ত্রে গায় ॥ ১০৬ ॥
@@ -1304,7 +1304,7 @@ is to be remembered  and  by one who desires  fearlessness
 (107) “Therefore, O descendant of Bharata, one who desires fearlessness must hear about, glorify and remember the Lord Hari, the Controller and the Soul of all.” (Śrīmad-Bhāgavatam, 2.1.5)
 
 মুখবাহূরুপাদেভ্যঃ পুরুষস্যাশ্রমৈঃ সহ ৷  
-চত্বারো জজ্ঞিরে বর্ণা গুণৈর্বিপ্রাদয়ঃ পৃথক্ ॥ ১০৮ ॥
+চত্বারো জজ্ঞিরে বর্ণা গুণৈর্ব্বিপ্রাদয়ঃ পৃথক্ ॥ ১০৮ ॥
 
 mukha-bāhūru-pādebhyaḥ  
 from the mouth  arms  thighs  feet  
@@ -1315,9 +1315,9 @@ four  were born  varṇas
 guṇair viprādayaḥ pṛthak  
 by their guṇas  the brāhmaṇas and the rest  separately
 
-(108) “From the mouth, arms, thighs and feet of the Puruṣa the four *varṇas*, the brāhmaṇas and the rest, were born together with the *āśramas*, each distinct by its *guṇas*.” (Śrīmad-Bhāgavatam, 11.5.2)
+(108) “From the mouth, arms, thighs and feet of the Puruṣa the four *varṇas*, beginning with the brāhmaṇas, were born together with the *āśramas*, each distinct by its qualities.” (Śrīmad-Bhāgavatam, 11.5.2)[^41]
 
-স্মর্ত্তব্যঃ সততং বিষ্ণুর্বিস্মর্ত্তব্যো ন জাতুচিৎ ৷  
+স্মর্ত্তব্যঃ সততং বিষ্ণুর্ব্বিস্মর্ত্তব্যো ন জাতুচিৎ ৷  
 সর্ব্বে বিধিনিষেধাঃ স্যুরেতয়োরেব কিঙ্করাঃ ॥ ১০৯ ॥
 
 smartavyaḥ satataṁ viṣṇur  
@@ -1439,7 +1439,7 @@ of the ārati  festivals  of the Deity  seeing
 nija-priya-dāna, dhyāna, tadīya-sevana  
 of what is dear to oneself  offering  meditation  of tadīya  service
 
-(120) seeing the *ārati*, the festivals and the Deity (*śrī-mūrti*); offering what is dear to oneself; meditation; serving *tadīya*, what is His own.
+(120) seeing the *ārati*, the festivals and the Deity (*śrī-mūrti*); offering what is dear to oneself; meditation; serving *tadīya*, what is His own.[^42]
 
 ‘তদীয়’ — তুলসী-বৈষ্ণব-মথুরা-ভাগবত ৷  
 এই চারির সেবা হয় কৃষ্ণের অভিমত ॥ ১২১ ॥
@@ -1489,7 +1489,7 @@ of all  practices  the best  these  five  limbs
 kṛṣṇa-prema janmāya ei pām̐cera alpa saṅga  
 for Kṛṣṇa  love  gives birth to  of these  five  slight  contact
 
-(125) these five limbs are the best of all practices. Even slight contact with these five gives birth to love for Kṛṣṇa.
+(125) these five limbs are the best of all practices. Even slight contact with these five gives birth to love for Kṛṣṇa.[^43]
 
 সজাতীয়াশয়ে স্নিগ্ধে সাধৌ সঙ্গঃ স্বতো বরে ৷  
 শ্রীমদ্ভাগবতার্থানামাস্বাদো রসিকৈঃ সহ ॥ ১২৬ ॥
@@ -1499,7 +1499,7 @@ of like aspiration  affectionate  with a saint  association  than oneself  super
 śrīmad bhāgavatārthānām āsvādo rasikaiḥ saha  
 of Śrīmad-Bhāgavatam  of the meanings  the relishing  with rasikas  together
 
-(126) “One should associate with a saint who shares one’s aspiration, is affectionate and is superior to oneself, and one should relish the meaning of the *Śrīmad-Bhāgavatam* together with *rasikas*, those who know its taste.”
+(126) “One should associate with a saint who shares one’s aspiration, is affectionate and is superior to oneself, and one should relish the meaning of the *Śrīmad-Bhāgavatam* together with *rasikas*, those who know its taste.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 40)[^44]
 
 শ্রদ্ধা বিশেষতঃ প্রীতিঃ শ্রীমূর্ত্তেরঙ্ঘ্রিসেবনে ৷  
 নামসঙ্কীর্ত্তনং শ্রীমন্মথুরামণ্ডলে স্থিতিঃ ॥ ১২৭ ॥
@@ -1513,7 +1513,7 @@ of the Name  congregational chanting  in the beautiful
 mathurā-maṇḍale sthitiḥ  
 of Mathurā  region  residence
 
-(127) “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in *saṅkīrtana*, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, 1.2.90)
+(127) “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in *saṅkīrtana*, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 41)[^45]
 
 দুরূহাদ্ভুতবীর্য্যেঽস্মিন্ শ্রদ্ধা দূরেঽস্তু পঞ্চকে ৷  
 যত্র স্বল্পোঽপি সম্বন্ধঃ সদ্ধিয়াং ভাবজন্মনে ॥ ১২৮ ॥
@@ -1527,7 +1527,7 @@ where  slight  even  connection
 sad-dhiyāṁ bhāva-janmane  
 for those of good understanding  for the birth of bhāva
 
-(128) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, 1.2.238)
+(128) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 87)[^46]
 
 ‘এক’ অঙ্গ সাধে, কেহ সাধে ‘বহু’ অঙ্গ ৷  
 ‘নিষ্ঠা’ হৈতে উপজয় প্রেমের তরঙ্গ ॥ ১২৯ ॥
@@ -1775,7 +1775,7 @@ out of longing  of the people of Vraja  the mood  he makes  following
 śāstra-yukti nāhi māne rāgānugāra prakṛti  
 of scripture  the arguments  does not  heed  of the rāgānugā  the nature
 
-(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^39]
+(148) Out of that longing he follows the mood of the people of Vraja. It is the nature of the *rāgānugā* devotee not to depend on the arguments of scripture.[^47]
 
 বিরাজন্তীমভিব্যক্তাং ব্রজবাসিজনাদিষু ৷  
 রাগাত্মিকামনুসৃতা যা সা রাগানুগোচ্যতে ॥ ১৪৯ ॥
@@ -2041,4 +2041,20 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^38]: *Anubhāṣya* (headings to 99–100): the Vaiṣṇava is non-different from Kṛṣṇa in nature — like Him, full of eternity, knowledge and bliss; this is not an identity of the jīva with God.
 
-[^39]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
+[^39]: *Amṛta-pravāha-bhāṣya*: it cannot be obtained by any *abhidheya* other than pure bhakti; prema itself is the *prayojana*, the supreme goal. The edition’s heading: “attaining the pure *prayojana*”.
+
+[^40]: *Rāgānugā* means “following *rāga*”: the spontaneous love is that of the eternal residents of Vraja (*rāgātmikā-bhakti*), and *rāgānugā* follows it (verses 147–150).
+
+[^41]: The same verse as 27; translation as there. *Anubhāṣya* (heading): at the start of *vaidhī-bhakti*, before the stage of the *paramahaṁsa*, the *daiva-varṇāśrama-dharma* is followed; here is its origin.
+
+[^42]: *Tadīya*, “what is His own”: by verse 121, Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*.
+
+[^43]: The condition is freedom from offence (verse 128).
+
+[^44]: Reference by the edition’s heading (in another numbering, 1.2.91). *Anubhāṣya*: *rasikas* are those versed in service to Kṛṣṇa; the meaning of the *Bhāgavatam* is not to be relished with a grammarian who has abandoned bhakti, a mere scholar of words, one attached to women, a Māyāvādī, an offender to the Name, one who makes a living from the *Bhāgavatam*, or a worldly man.
+
+[^45]: Reference by the edition’s heading (in another numbering, 1.2.90). *Anubhāṣya*: living in Śrī Māyāpura and the other abodes of Śrī Gaura’s pastimes, in Śrī Kṣetra and in Vraja-maṇḍala is not different from living in Mathurā.
+
+[^46]: Reference by the edition’s heading (in another numbering, 1.2.238).
+
+[^47]: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.

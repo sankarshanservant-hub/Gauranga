@@ -655,11 +655,13 @@ tr: Hearing and the other activities are its essential characteristic (*svarūpa
 w: eternally perfect  for Kṛṣṇa  love  something to be produced  ever  is not
 w: hearing and the rest  in the purified  heart  cause  its rising
 tr: Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices make it rise in the purified heart.
+fn: *Amṛta-pravāha-bhāṣya*: it cannot be obtained by any *abhidheya* other than pure bhakti; prema itself is the *prayojana*, the supreme goal. The edition’s heading: “attaining the pure *prayojana*”.
 
 ## 105
 w: this  indeed  sādhana-bhakti  two  indeed  kinds
 w: one  vaidhī-bhakti  rāgānugā-bhakti  the other
 tr: This *sādhana-bhakti* is of two kinds: one is *vaidhī-bhakti*, devotion according to rules, and the other is *rāgānugā-bhakti*, devotion that follows spontaneous love.
+fn: *Rāgānugā* means “following *rāga*”: the spontaneous love is that of the eternal residents of Vraja (*rāgātmikā-bhakti*), and *rāgānugā* follows it (verses 147–150).
 
 ## 106
 w: of rāga  devoid  a person  worships  of scripture  by the command
@@ -678,7 +680,8 @@ w: from the mouth  arms  thighs  feet
 w: of the Puruṣa  the āśramas  together with
 w: four  were born  varṇas
 w: by their guṇas  the brāhmaṇas and the rest  separately
-tr: “From the mouth, arms, thighs and feet of the Puruṣa the four *varṇas*, the brāhmaṇas and the rest, were born together with the *āśramas*, each distinct by its *guṇas*.” (Śrīmad-Bhāgavatam, 11.5.2)
+tr: “From the mouth, arms, thighs and feet of the Puruṣa the four *varṇas*, beginning with the brāhmaṇas, were born together with the *āśramas*, each distinct by its qualities.” (Śrīmad-Bhāgavatam, 11.5.2)
+fn: The same verse as 27; translation as there. *Anubhāṣya* (heading): at the start of *vaidhī-bhakti*, before the stage of the *paramahaṁsa*, the *daiva-varṇāśrama-dharma* is followed; here is its origin.
 
 ## 109
 w: is to be remembered  always  Viṣṇu
@@ -741,6 +744,7 @@ tr: circumambulation; reciting prayers; *japa*; *saṅkīrtana*; smelling the in
 w: of the ārati  festivals  of the Deity  seeing
 w: of what is dear to oneself  offering  meditation  of tadīya  service
 tr: seeing the *ārati*, the festivals and the Deity (*śrī-mūrti*); offering what is dear to oneself; meditation; serving *tadīya*, what is His own.
+fn: *Tadīya*, “what is His own”: by verse 121, Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*.
 
 ## 121
 w: tadīya  Tulasī  Vaiṣṇavas  Mathurā  the Bhāgavatam
@@ -766,25 +770,29 @@ tr: The company of saints; chanting the Holy Name; hearing the *Bhāgavatam*; li
 w: of all  practices  the best  these  five  limbs
 w: for Kṛṣṇa  love  gives birth to  of these  five  slight  contact
 tr: these five limbs are the best of all practices. Even slight contact with these five gives birth to love for Kṛṣṇa.
+fn: The condition is freedom from offence (verse 128).
 
 ## 126
 w: of like aspiration  affectionate  with a saint  association  than oneself  superior
 w: of Śrīmad-Bhāgavatam  of the meanings  the relishing  with rasikas  together
-tr: “One should associate with a saint who shares one’s aspiration, is affectionate and is superior to oneself, and one should relish the meaning of the *Śrīmad-Bhāgavatam* together with *rasikas*, those who know its taste.”
+tr: “One should associate with a saint who shares one’s aspiration, is affectionate and is superior to oneself, and one should relish the meaning of the *Śrīmad-Bhāgavatam* together with *rasikas*, those who know its taste.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 40)
+fn: Reference by the edition’s heading (in another numbering, 1.2.91). *Anubhāṣya*: *rasikas* are those versed in service to Kṛṣṇa; the meaning of the *Bhāgavatam* is not to be relished with a grammarian who has abandoned bhakti, a mere scholar of words, one attached to women, a Māyāvādī, an offender to the Name, one who makes a living from the *Bhāgavatam*, or a worldly man.
 
 ## 127
 w: faith  special  love
 w: of the Deity  of the feet  in the service
 w: of the Name  congregational chanting  in the beautiful
 w: of Mathurā  region  residence
-tr: “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in *saṅkīrtana*, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, 1.2.90)
+tr: “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in *saṅkīrtana*, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 41)
+fn: Reference by the edition’s heading (in another numbering, 1.2.90). *Anubhāṣya*: living in Śrī Māyāpura and the other abodes of Śrī Gaura’s pastimes, in Śrī Kṣetra and in Vraja-maṇḍala is not different from living in Mathurā.
 
 ## 128
 w: hard to grasp  wondrous  in power  in this
 w: faith  far away  let it be  in the group of five
 w: where  slight  even  connection
 w: for those of good understanding  for the birth of bhāva
-tr: “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, 1.2.238)
+tr: “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 87)
+fn: Reference by the edition’s heading (in another numbering, 1.2.238).
 
 ## 129
 w: one  limb  practises (one)  someone  practises  many  limbs
