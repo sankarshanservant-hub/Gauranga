@@ -50,6 +50,18 @@ The five principal *rasas* mentioned above abide in the devotee's heart permanen
 
 “In Vraja,” Śrīdāmā and others; “in the city,” in the pastimes of Dvārakā, Bhīma and Arjuna.
 
+## 192–194
+
+*Kṛṣṇa-rati* is of two kinds: mixed with awareness of majesty (*aiśvarya*), and *kevalā* — that is, devoid of awareness of majesty. In the “two cities” — Dvārakā and Mathurā — and in Vaikuṇṭha and other abodes, devotion is mixed with awareness of majesty. Therefore *prema* there is contracted. But in Gokula the cowherd men and women, whose *rati* is *kevalā*, do not wish to acknowledge Kṛṣṇa's majesty even when they see it.
+
+## 195
+
+*Kāṅhā* (somewhere) means in certain places.
+
+## 197
+
+Devakī and Vasudeva, knowing Baladeva and Śrī Kṛṣṇa to be the “Lords of the universe,” became afraid and could not embrace Them.
+
 ---
 
 [^177-181-1]: The edition reads *guṇāguṇa* (usually “merits and faults”); by sense, Kṛṣṇa's qualities.

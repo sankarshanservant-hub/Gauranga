@@ -252,6 +252,74 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 ## 187–188
 
+*Hāsya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Uttara-vibhāga*, first wave): “When *hāsa-rati*, through the *vibhāvas* and the rest that will be described, reaches fullness, the wise call it *hāsa-bhakti-rasa*.” When *hāsa-rati* (the *rati* of laughter), through the *vibhāvas* and the rest that will be described, reaches fullness, the learned call it “*hāsya-bhakti-rasa*.”
+
+*Adbhuta-bhakti-rasa* (the same, second wave): “When *vismaya-rati*, through *vibhāvas* and the rest suited to it, is made tasteable in the devotee's heart, it becomes *adbhuta-bhakti-rasa*.” When, through suitable *vibhāvas* and the rest, “*vismaya-rati*” (the *rati* of wonder) becomes tasteable in the devotee's heart, there is “*adbhuta-bhakti-rasa*.”
+
+*Vīra-bhakti-rasa* (the same, third wave): “When that same *utsāha-rati*, the *sthāyī*, is made tasteable through *vibhāvas* and the rest suited to it, it becomes *vīra-bhakti-rasa*. The hero (*vīra*) is said to be of four kinds — in battle, in giving, in compassion and in *dharma*.” When, through suitable *vibhāvas* and the rest, “*utsāha-rati*” (the *rati* of enthusiasm) becomes tasteable in the devotee's heart, there is “*vīra-bhakti-rasa*.” According to four activities — “battle,” “giving,” “compassion” and “*dharma*” — four kinds of “hero” (*vīra*) are spoken of.
+
+*Karuṇa-bhakti-rasa* (the same, fourth wave): “When *śoka-rati*, through *vibhāvas* and the rest suited to it, reaches fullness in the hearts of the saintly, it becomes the *bhakti-rasa* called *karuṇa*.” When, through suitable *vibhāvas* and the rest, “*śoka-rati*” (the *rati* of sorrow) reaches fullness in the devotee's heart, it is called “*karuṇa-bhakti-rasa*.”
+
+*Raudra-bhakti-rasa* (the same, fifth wave): “When *krodha-rati*, through *vibhāvas* and the rest suited to it, reaches fullness in the devotee's heart, it becomes *raudra-bhakti-rasa*.” When, through suitable *vibhāvas* and the rest, *krodha-rati* (the *rati* of anger) reaches fullness in the devotee's heart, there is “*raudra-bhakti-rasa*.”
+
+*Bhayānaka-bhakti-rasa* (the same, sixth wave): “When *bhaya-rati*, through the *vibhāvas* and the rest that will be described, reaches fullness, the wise call it the *bhakti-rasa* named *bhayānaka*.” When *bhaya-rati* (the *rati* of fear), through the *vibhāvas* and the rest that will be described, reaches fullness, the learned call it “*bhayānaka-bhakti-rasa*.”
+
+*Bībhatsa-bhakti-rasa* (the same, seventh wave): “When *jugupsā-rati*, through its own *vibhāvas* and the rest, reaches fullness, the wise call this *bhakti-rasa* *bībhatsa*.” When, through suitable *vibhāvas* and the rest, “*jugupsā*,” or “*ghṛṇā-rati*” (the *rati* of disgust), reaches fullness in the devotee's heart, the learned call it “*bībhatsa-bhakti-rasa*.”
+
+*Pañca-vidha bhakte* (in the five kinds of devotees): in the devotees of the five permanent *rasas* — *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura* — the seven secondary *rasas*, beginning with laughter, manifest when there is a “cause” for them.
+
+## 189
+
+> Subheading: The names of the devotees in *śānta-rasa* and *dāsya-rasa* —
+
+The nine great yogīs (*nava-yogendras*; *Śrīmad-Bhāgavatam* 5.4.11 and 11.2.21): (1) Kavi, (2) Havi, (3) Antarīkṣa, (4) Prabuddha, (5) Pippalāyana, (6) Āvirhotra, (7) Draviḍa (Drumila), (8) Camasa and (9) Karabhājana.
+
+Sanaka and the others: (1) Sanaka, (2) Sananda, (3) Sanat-kumāra, (4) Sanātana.
+
+The devotees in the mood of servitude (*dāsya*): (1) the servants in Gokula — Raktaka, Citraka, Patraka and others; (2) the servants in the city of Dvārakā — Dāruka and others; (3) the servants in Vaikuṇṭha; (4) the servants in the pastimes — Hanumān and others.
+
+## 190
+
+> Subheading: The names of the devotees in *sakhya-rasa* and *vātsalya-rasa* —
+
+## 191
+
+> Subheading: The devotees in *madhura-rasa* — the beloveds in the city and the beloveds in Vraja —
+
+## 192
+
+> Subheading: *Madhura-rati* is of two kinds: (1) mixed with majesty (*aiśvarya*) and (2) *kevalā* (pure) —
+
+## 193
+
+> Subheading: In Gokula *rati* is *kevalā*; in Vaikuṇṭha, Mathurā and Dvārakā it is *rati* “in which majesty predominates” —
+
+## 194
+
+> Subheading: In *rati* where majesty predominates, *rāga* is contracted; in *kevalā* there is no awareness of majesty —
+
+## 195
+
+> Subheading: Though in Vraja there is awareness of majesty here and there in *śānta* and *dāsya*, it does not manifest in *sakhya*, *vātsalya* and *madhura-rasa* —
+
+In *śānta*, *dāsya* and *gaurava-sakhya*, a predominance of majesty is seen here and there; in *viśrambha-sakhya*, *vātsalya* and *madhura-rasa* the mood in which majesty predominates is contracted.
+
+## 196
+
+> Subheading: In *rati* mixed with majesty, the devotee regards himself as “lowly” and Kṛṣṇa as “Master”: (1) in *vātsalya-rati* — Vasudeva and Devakī —
+
+## 197
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 44, verse 51)
+
+Śrī Kṛṣṇa killed Kaṁsa and the wrestlers he had engaged, freed His mother Devakī and father Vasudeva from their fetters and bowed down to them. Then Devakī and Vasudeva did not feel as Yaśodā and Nanda would; instead a predominance of the mood of majesty is seen in them:
+
+**devakī** **vasudevaś ca** (the mother and the father) **putrau** (their sons — Rāma and Kṛṣṇa) **jagad-īśvarau** **iti** **vijñāya** (knowing) **śaṅkitau** (being afraid) **kṛta-saṁvandanau** (who had bowed to them) **api** **tau** **na** **sasvajāte** (did not embrace; instead they stood bowed, with joined palms, offering prayers).
+
+## 198
+
+> Subheading: (2) In *sakhya-rati* — Arjuna —
+
 ---
 
 [^157-1]: *Upadeśāmṛta* 2.
