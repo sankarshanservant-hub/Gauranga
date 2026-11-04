@@ -24,7 +24,7 @@ Whether by the primary sense (*rūḍhi*) or the secondary sense (*lakṣaṇā*
 
 Uddhava asked about the injunctions and prohibitions of the Vedas. In answer Śrī Kṛṣṇa first describes the fruits that the *karma-kāṇḍa* of the Vedas promises (*phala-śruti*), then the various Vedic meters, and He says that He Himself is the one subject to be established and known in the Vedas — full of deep mystery, hard to understand, made up of three divisions (*kāṇḍas*):
 
-(Having said that the great Vedic speech in its entirety is unknowable in its nature, He says that it is unknowable in its meaning too:) **kim** **vidhatte** (what does the *karma-kāṇḍa* — one of the three *kāṇḍas* of the Vedic scriptures: of *karma*, of the *devatās* and of *jñāna* — enjoin by its injunctions), **kim ācaṣṭe** (what does the *devatā-kāṇḍa* reveal by its statements, that is, of what does it speak), **kim anūdya** (relying on what in the *jñāna-kāṇḍa*) **vikalpayet** **iti** (thus) **asyāḥ** (of this *śruti*) **hṛdayam** **loke** (here in the world) **mat** (besides Me) **anyaḥ kaścana** **na veda** (knows). (“Then by Your mercy tell it,” — to this He says:) **mām** (Me in the form of sacrifice — by injunction) **vidhatte**; (by the primary sense) **mām eva** (Me in the form of this or that deity) **abhidhatte**; **aham** (I alone) **vikalpya** (having raised doubt) **apohyate** (am rejected: what is rejected is also I; nothing is separate from Me). (He states briefly the meaning of all the Vedas:) **etāvān eva** **sarva-vedārthaḥ** (the meaning of all the Vedas) — **śabdaḥ** (the Veda) **bhidām** (the differences — the forms of the *avatāras* and the rest) **anūdya** (having named), **māyā-mātram** (the world) **pratiṣidhya** (having rejected), **tad-ante** (at the end) **mām** (Me, the highest goal) **āsthāya** (taking as shelter) **prasīdati** (ceases from activity; that is, resting on Me alone in the form of Śrī Kṛṣṇa, it attains its goal).
+(Having said that the great Vedic speech in its entirety is unknowable in its nature, He says that it is unknowable in its meaning too:) **kim** **vidhatte** (what does the *karma-kāṇḍa* — one of the three *kāṇḍas* of the Vedic scriptures: of *karma*, of the *devatās* and of *jñāna* — enjoin by its injunctions), **kim ācaṣṭe** (what does the *devatā-kāṇḍa* reveal by its statements, that is, of what does it speak), **kim anūdya** (relying on what in the *jñāna-kāṇḍa*) **vikalpayet** **iti** (thus) **asyāḥ** (of this *śruti*) **hṛdayam** **loke** (here in the world) **mat** (besides Me) **anyaḥ kaścana** **na veda** (knows). (“Then by Your mercy tell it,” — to this He says:) **mām** (Me in the form of sacrifice, by injunction) **vidhatte** (by the primary sense); **mām eva** (Me in the form of this or that deity) **abhidhatte**; **aham** (I alone) **vikalpya** (having raised doubt) **apohyate** (am rejected: what is rejected is also I; nothing is separate from Me). (He states briefly the meaning of all the Vedas:) **etāvān eva** **sarva-vedārthaḥ** (the meaning of all the Vedas) — **śabdaḥ** (the Veda) **bhidām** (the differences — the forms of the *avatāras* and the rest) **anūdya** (having named), **māyā-mātram** (the world) **pratiṣidhya** (having rejected), **tad-ante** (at the end) **mām** (Me, the highest goal) **āsthāya** (taking as shelter) **prasīdati** (ceases from activity; that is, resting on Me alone in the form of Śrī Kṛṣṇa, it attains its goal).
 
 ## 149
 
@@ -61,3 +61,177 @@ See Ādi 2.107.
 > Subheading: Kṛṣṇa is Govinda, and He abides in the abode of Goloka —
 
 Kṛṣṇa's dwelling is Goloka-dhāma, full of all opulence, imperishable and eternal.
+
+## 156
+
+> Subheading: (*Śrīmad-Bhāgavatam* 1.3.28) —
+
+See Ādi 2.67.
+
+## 157
+
+> Subheading: In the three kinds of *abhidheya*, the truth of *sambandha* — nondual knowledge, Kṛṣṇa — is perceived in three ways —
+
+## 158
+
+> Subheading: The evidence of scripture — (*Śrīmad-Bhāgavatam* 1.2.11) —
+
+See Ādi 2.11.
+
+## 159
+
+> Subheading: (1) The featureless Brahman is the effulgence of Kṛṣṇa's body —
+
+## 160
+
+> Subheading: The evidence of scripture — (*Brahma-saṁhitā* 5.40) —
+
+See Ādi 2.14.
+
+## 161
+
+> Subheading: (2) The Paramātmā is the glory of Kṛṣṇa's part —
+
+In worldly perception the all-pervading Paramātmā is given the name “Paramātmā,” the all-pervading, because He is the whole (*aṁśī*) of which the parts of the world are parts. But Kṛṣṇa is supreme over all, as the “Paramātmā” of all that is manifest in spirit and matter and of all the *paramātmās*.
+
+## 162
+
+> Subheading: Kṛṣṇa is the Paramātmā — (*Śrīmad-Bhāgavatam* 10.14.55) —
+
+Parīkṣit asked why the residents of Vraja held Kṛṣṇa dearer than their own sons, their lives and everything else. Śrī Śukadeva says that for every embodied being the self (*ātmā*) is the dearest and most cherished of all, and that Śrī Kṛṣṇa is the Self of all selves. Therefore by His very nature He attracts everyone and bestows eternal bliss:
+
+**tvam** **enam** **akhilātmanām** (of all embodied beings) **ātmānam** (the very life) **kṛṣṇam** **avehi** (know); **yaḥ** (Kṛṣṇa) **api** **atra** (in the world) **jagad-dhitāya** (for the good of the earth) **māyayā** (by His *svarūpa-śakti*) **dehī** (a man, a *jīva*) **iva** **ābhāti** (manifests Himself).
+
+## 163
+
+> Subheading: (*Bhagavad-gītā* 10.42) —
+
+See Ādi 2.20.
+
+## 164
+
+> Subheading: (3) Only in *bhakti-yoga* is Kṛṣṇa perceived fully as Bhagavān —
+
+## 165
+
+> Subheading: The three forms of the one Kṛṣṇa: (a) *svayaṁ-rūpa*, (b) *tad-ekātma-rūpa* and (c) *āveśa-rūpa* —
+
+The *svayaṁ-rūpa*. In Śrī Rūpa Prabhu's *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 12): “The form that depends on no other is called the *svayaṁ-rūpa*.” He whose form does not depend on any other form, that is, who exists by Himself, is called the *svayaṁ-rūpa*.
+
+The *tad-ekātma-rūpa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 14): “The form that shines forth nondifferent from Him in nature, yet other in shape and so on, is called the *tad-ekātma-rūpa*.” The form that is manifest as one with the *svayaṁ-rūpa* but appears different in shape, opulence and so on (in the build of the body, in character and so on) is called the *tad-ekātma-rūpa*. It is of two kinds: *svāṁśa* and *vilāsa*.
+
+The *āveśa-rūpa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 18): “Those whom Janārdana enters with a portion of His potency of knowledge and so on are called *āveśas*; they are the greatest of *jīvas*.” The greatest *jīvas*, whom Janārdana enters with a portion (*kalā*) of His potency of knowledge and so on, are called *āveśa*.
+
+## 166
+
+> Subheading: (a) The *svayaṁ-rūpa* is of two kinds: (1) the *svayaṁ-rūpa*, the son of the King of Vraja, and (2) the *svayaṁ-prakāśa* —
+
+## 167
+
+> Subheading: Among the six kinds of *vilāsa* of Kṛṣṇa's form, (2) the *svayaṁ-prakāśa* is of two kinds, (a) *prābhava* and (b) *vaibhava*; in the *rāsa* — the *prābhava-prakāśa*, at the marriage with the queens — the *vaibhava-prakāśa* —
+
+## 169
+
+> Subheading: They captivate the mind even of the *ātmārāmas* and are never mundane —
+
+## 170
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.69.2) —
+
+See Ādi 1.74.
+
+## 171
+
+> Subheading: (b) The definition of the *vaibhava-prakāśa* —
+
+## 172
+
+> Subheading: The countless *prābhava-* and *vaibhava-prakāśas* of the one Kṛṣṇa, the source of all parts, differ from one another in name, form and so on by His inconceivable potency —
+
+## 173
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.40.7) —
+
+Akrūra was taking Bhagavān Rāma and Kṛṣṇa by chariot from Gokula to Mathurā. On the way the great soul Akrūra entered the waters of the Yamunā, and there, in Viṣṇuloka, he saw Bhagavān, full of supreme majesty, together with Śeṣa, Nārada, the four Sanas and others. Offering prayers, he spoke of the subject of the paths of Sāṅkhya, yoga and the three Vedas, and then describes the path of worship of those initiated with Vaiṣṇava, Śaiva-Pāśupata and other initiations:
+
+**anye ca** (people) **te** (by You) **abhihitena** (spoken) **tena vidhinā** (by the rule — by the injunctions of the *Pañcarātra* and the like) **saṁskṛtātmānaḥ** (those whose selves are purified by initiation, Vaiṣṇava or Śaiva) **tvan-mayāḥ** (absorbed in You: regarding themselves as devoted to transcendental service, or holding You alone supreme) **bahū-mūrty-eka-mūrtikam** (You, many in Your forms — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha, and the *yuga-*, *manvantara-* and *līlā-avatāras* — and one in the form of Mahā-Nārāyaṇa) **vai** (indeed) **yajanti** (worship).
+
+## 174
+
+> Subheading: (b) The *vaibhava-prakāśa*: (1) Śrī Balarāma —
+
+## 175
+
+> Subheading: (2) The two-armed Vāsudeva in Kṛṣṇa's form, that is, the son of Devakī; (3) the four-armed Vāsudeva in Kṛṣṇa's form, that is, the son of Devakī —
+
+## 176
+
+> Subheading: This four-armed form is a form in which the same two-armed one is manifest —
+
+## 177
+
+> Subheading: The son of the King of Vraja thinks of Himself as a cowherd, Vāsudeva as a *kṣatriya* —
+
+## 178
+
+> Subheading: In the son of Nanda there are four wonders more than in Vāsudeva —
+
+The beauty, majesty, sweetness and play of artfulness (*vaidagdhya-vilāsa*) of the son of Nanda carry more delight (*ullāsa*) than those of the son of Vasudeva.
+
+## 179
+
+> Subheading: Even Vāsudeva is charmed and attracted by the sweetness of the son of Nanda —
+
+Seeing the alluring sweetness of the son of Nanda, Vāsudeva becomes agitated. The occasions when He grew eager to taste that sweetness are shown in Mathurā, when He watched the dance of the Gandharvas, and in Dvārakā, when He looked at a painting of Kṛṣṇa.
+
+## 180
+
+> Subheading: Examples — in Mathurā and in Dvārakā —
+
+## 181
+
+> Subheading: (*Lalita-mādhava* 4.19: Śrī Kṛṣṇa's words to Uddhava) —
+
+**he sakhe**, **asau cāraṇaḥ** (the actor) **udgīrṇādbhuta-mādhurī-parimalasya** (from whom the fragrance — the aroma — of a wondrous, unprecedented sweetness has risen and spread) **ābhīra-līlasya** (full of the pastimes of the son of Nanda the cowherd) **me** (My) **dvaitam** (second form) **samīkṣayan** (showing) **muhuḥ** (again and again) **citrīyate**; **yasya** **svarūpatām** (likeness) **prekṣya** (seeing) **hanta** (ah!) **māmakam** (My) **cetaḥ** (mind) **satyam** **keli-kutūhalottaralitam** (greatly melted with eagerness, that is, longing, for play — the sports befitting the people of Vraja) **vraja-vadhū-sārūpyam** (a form like that of the daughter of Vṛṣabhānu) **anvicchati** (desires).
+
+## 182
+
+> Subheading: (*Lalita-mādhava* 8.34) —
+
+See Ādi 4.146.
+
+## 183
+
+> Subheading: (b) The definition of the *tad-ekātma-rūpa* —
+
+## 184
+
+> Subheading: It is of two kinds: (1) *vilāsa* and (2) *svāṁśa* —
+
+*Vilāsa* — see Ādi 1.77.
+
+*Svāṁśa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 17): “He who, being of the same kind, manifests less potency is called a *svāṁśa*: such are Saṅkarṣaṇa and the others, Matsya and the others, each in His own abode.” He who is nondifferent from the *svayaṁ-rūpa* but manifests less potency than the *vilāsa* is called a *svāṁśa*. Such are the *puruṣa-avatāras* — Saṅkarṣaṇa and the others, each abiding in His own abode — and the *līlā-avatāras* — Matsya and the others — the *manvantara-avatāras* and the *yuga-avatāras*.
+
+## 185
+
+> Subheading: The *vilāsa* is of two kinds: (a) *prābhava* and (b) *vaibhava* —
+
+## 186
+
+> Subheading: (a) The *prābhava-vilāsa*: the four forms of the original *catur-vyūha* in Mathurā and Dvārakā-purī —
+
+## 187
+
+> Subheading: Of them, one form is Balarāma: in Vraja He thinks of Himself as a cowherd, and in the city as a *kṣatriya*; this is why He is called a *vilāsa* —
+
+## 188
+
+> Subheading: One and the same Balarāma, in the form of the *vaibhava-prakāśa* and in the form of the *prābhava-vilāsa* (the original *catur-vyūha*), by the difference of the mood of a cowherd and of a *kṣatriya* —
+
+Śrī Baladeva is the *vaibhava-prakāśa* of Kṛṣṇa. He, differing in mood, is also manifest in the four *prābhava-vilāsas*, the original *catur-vyūha*: Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha.
+
+## 189
+
+> Subheading: The *prābhava-vilāsa*, the original *catur-vyūha*, is the cause of all the *vaibhava-vilāsas*, that is, of all the *catur-vyūhas* —
+
+The countless *catur-vyūhas* are not equal to the original one. The original *catur-vyūha* is the *prābhava-vilāsa*; the other *catur-vyūhas* are *vaibhava-vilāsa*. It is owing to the *prābhava-vilāsa* that the *vaibhava-vilāsas* become manifest.

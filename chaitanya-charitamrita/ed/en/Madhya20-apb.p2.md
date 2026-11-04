@@ -13,3 +13,35 @@ The potency of His own nature (*svarūpa-śakti*) and the world, which is the wo
 ## 155
 
 The *para* name is the highest, that is, the principal name: “Kṛṣṇa,” “Govinda” and the like are the principal names of Bhagavān.
+
+## 157
+
+To those who seek that nondual Truth through knowledge of the featureless, it appears as the featureless Brahman. To those who seek that Supreme Reality on the path of eightfold yoga, it appears as the Paramātmā, who abides in the heart and pervades the world. And those who pursue the supreme Truth by pure *bhakti* see Bhagavān.
+
+## 162
+
+Know this Śrī Kṛṣṇa to be the Self of all selves. Wishing the good of the world, He has appeared here like a human being, under the shelter of His *svarūpa-śakti*.
+
+## 164–165
+
+When one worships Bhagavān in *bhakti*, one experiences His full form: in that one eternal form (*vigraha*) countless forms shine forth. First of all Bhagavān is seen in three forms: *svayaṁ-rūpa*, *tad-ekātma-rūpa* and *āveśa-rūpa*. In the *svayaṁ-rūpa* He appears in two ways, as *svayam* and *prakāśa*; of these, in the *svayaṁ-rūpa* Śrī Kṛṣṇa appears in Vraja in the form of a cowherd boy. According to the *Bhāgavatāmṛta*, the *svayaṁ-rūpa* is Kṛṣṇa's cowherd form, because it depends on no other form of His. That form of His which is nondifferent from the *svayaṁ-rūpa* but differs in shape, opulence and so on is called *tad-ekātma-rūpa*. And the *jīvas* whom Bhagavān's potency enters and who perform great works are Bhagavān's *āveśa* forms.
+
+## 169
+
+Saubhari and other sages made *kāya-vyūhas* (many bodies) by the power of yoga and so accomplished their aims. But the many forms that Kṛṣṇa manifests are not like that, for Nārada would not have been amazed at seeing the *kāya-vyūha* of the path of yoga.
+
+## 173
+
+Those who have been purified (*saṁskṛtātmā*) by the rules enjoined (in the Sātvata and Śaiva *tantras* and others) worship You Yourself, the one form in many forms.
+
+## 174
+
+To understand *svayaṁ-rūpa*, *tad-ekātma-rūpa*, *āveśa*, *vaibhava*, *prābhava* and the rest, their relation to one another is shown briefly below.
+
+The three original forms of Śrī Kṛṣṇa.
+
+(1) The *svayaṁ-rūpa*: Śrī Kṛṣṇa in the form of a cowherd boy in Vraja. (2) The *tad-ekātma-rūpa*: (a) *svāṁśa* — (1) Kāraṇābdhiśāyī, Garbhodaśāyī, Kṣīrodaśāyī; (2) Matsya, Kūrma, Varāha, Nṛsiṁha and others; (b) *vilāsa* — (1) *prābhava*: Vāsudeva, Saṅkarṣaṇa, Pradyumna, Aniruddha; (2) *vaibhava*: twenty-four forms — (a) the *āvaraṇa* (surrounding circle): the four forms of the *catur-vyūha*, Vāsudeva and the others; (b) each of them manifests three forms, twelve in all, the deities of the twelve months and the pattern of the (marks of) *tilaka*; (c) the eight *vilāsa* forms of those four — Puruṣottama, Acyuta and others. These twenty-four forms bear different names according to how they hold their weapons.
+
+## 181
+
+O friend, this *cāraṇa*, as if My second form, is portraying My pastimes — the pastimes of a cowherd boy, full of a wondrous fragrance of sweetness. My mind, stirred by eagerness for play, looks upon My own deeds and longs to take the form of the young women of Vraja.
