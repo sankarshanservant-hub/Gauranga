@@ -360,79 +360,103 @@ fall  down  having neglected Your feet
 যাঁহা কৃষ্ণ, তাঁহা নাহি মায়ার অধিকার ॥ ৩১ ॥
 
 kṛṣṇa — sūrya-sama; māyā haya andhakāra  
-yāṅhā kṛṣṇa, tāṅhā nāhi māyāra adhikāra
+Kṛṣṇa  like the sun  Māyā  is  darkness  
+yāṅhā kṛṣṇa, tāṅhā nāhi māyāra adhikāra  
+where  Kṛṣṇa  there  is no  of Māyā  dominion
 
-(31) [not yet translated]
+(31) Kṛṣṇa is like the sun, and Māyā is darkness. Where Kṛṣṇa is, Māyā has no power.
 
 বিলজ্জমানয়া যস্য স্থাতুমীক্ষাপথেঽমুয়া ৷  
 বিমোহিতা বিকত্থন্তে মমাহমিতি দুর্ধিয়ঃ ॥ ৩২ ॥
 
 vilajjamānayā yasya  
+ashamed  whose  
 sthātum īkṣā-pathe ‘muyā  
+to stand  in the path of the sight  by her  
 vimohitā vikatthante  
-mamāham iti durdhiyaḥ
+bewildered  boast  
+mamāham iti durdhiyaḥ  
+“mine” and “I”  thus  the foolish
 
-(32) [not yet translated]
+(32) “Māyā is ashamed to stand in the path of His sight; yet the foolish, bewildered by her, boast of ‘I’ and ‘mine.’” (Śrīmad-Bhāgavatam, 2.5.13)
 
 ‘কৃষ্ণ, তোমার হঙ’ যদি বলে একবার ৷  
 মায়াবন্ধ হৈতে কৃষ্ণ তারে করে পার ॥ ৩৩ ॥
 
 ‘kṛṣṇa, tomāra haṅa’ yadi bale eka-bāra  
-māyā-bandha haite kṛṣṇa tāre kare pāra
+“Kṛṣṇa  Yours  I am”  if  he says  once  
+māyā-bandha haite kṛṣṇa tāre kare pāra  
+from the bondage of Māyā  Kṛṣṇa  him  makes  carried across
 
-(33) [not yet translated]
+(33) If someone says even once, “Kṛṣṇa, I am Yours,” Kṛṣṇa carries him across, beyond the bondage of Māyā.
 
 সকৃদেব প্রপন্নো যস্তবাস্মীতি চ যাচতে ৷  
 অভয়ং সর্ব্বদা তস্মৈ দদাম্যেতদ্ব্রতং মম ॥ ৩৪ ॥
 
 sakṛd eva prapanno yas  
+once  only  surrendered  who  
 tavāsmīti ca yācate  
+“I am Yours”  thus  and  begs  
 abhayaṁ sarvadā tasmai  
-dadāmy etad vrataṁ mama
+fearlessness  always  to him  
+dadāmy etad vrataṁ mama  
+I give  this  vow  My
 
-(34) [not yet translated]
+(34) “To one who surrenders to Me even once and prays, ‘I am Yours,’ I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)
 
 মুক্তি-ভুক্তি-সিদ্ধিকামী ‘সুবুদ্ধি’ যদি হয় ৷  
 গাঢ়-ভক্তিযোগে তবে কৃষ্ণেরে ভজয় ॥ ৩৫ ॥
 
 mukti-bhukti-siddhi-kāmī ‘subuddhi’ yadi haya  
-gāḍha-bhakti-yoge tabe kṛṣṇere bhajaya
+desiring liberation, enjoyment and perfections  truly intelligent  if  he becomes  
+gāḍha-bhakti-yoge tabe kṛṣṇere bhajaya  
+by deep bhakti-yoga  then  Kṛṣṇa  he worships
 
-(35) [not yet translated]
+(35) If one who desires liberation, worldly enjoyment or mystic perfections becomes truly intelligent, he then worships Kṛṣṇa with deep *bhakti-yoga*.
 
 অকামঃ সর্ব্বকামো বা মোক্ষকাম উদারধীঃ ৷  
 তীব্রেণ ভক্তিযোগেন যজেত পুরুষং পরম্ ॥ ৩৬ ॥
 
 akāmaḥ sarva-kāmo vā  
+without desire  full of all desires  or  
 mokṣa-kāma udāra-dhīḥ  
+desiring liberation  of broad intelligence  
 tīvreṇa bhakti-yogena  
-yajeta puruṣaṁ param
+with intense  bhakti-yoga  
+yajeta puruṣaṁ param  
+should worship  the Person  Supreme
 
-(36) [not yet translated]
+(36) “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)
 
 অন্যকামী যদি করে কৃষ্ণের ভজন ৷  
 না মাগিলেহ কৃষ্ণ তারে দেন স্ব-চরণ ॥ ৩৭ ॥
 
 anya-kāmī yadi kare kṛṣṇera bhajana  
-nā māgileha kṛṣṇa tāre dena sva-caraṇa
+one with other desires  if  performs  Kṛṣṇa’s  worship  
+nā māgileha kṛṣṇa tāre dena sva-caraṇa  
+not  even having asked  Kṛṣṇa  to him  gives  His own feet
 
-(37) [not yet translated]
+(37) If one who has other desires worships Kṛṣṇa, Kṛṣṇa gives him His own feet even though he has not asked for them.
 
 কৃষ্ণ কহে, — আমা ভজে, মাগে বিষয় সুখ ৷  
 অমৃত ছাড়ি’ বিষ মাগে, — এই বড় মূর্খ ॥ ৩৮ ॥
 
 kṛṣṇa kahe, — āmā bhaje, māge viṣaya sukha  
-amṛta chāḍi’ viṣa māge, — ei baḍa mūrkha
+Kṛṣṇa  says  Me  he worships  he asks for  sense  pleasure  
+amṛta chāḍi’ viṣa māge, — ei baḍa mūrkha  
+nectar  giving up  poison  he asks for  this one  a great  fool
 
-(38) [not yet translated]
+(38) Kṛṣṇa says, “He worships Me, yet asks for sense pleasure. Giving up nectar, he asks for poison — he is a great fool.
 
 আমি — বিজ্ঞ, এই মূর্খে ‘বিষয়’ কেনে দিব ?  
 স্ব-চরণামৃত দিয়া ‘বিষয়’ ভুলাইব ॥ ৩৯ ॥
 
 āmi — vijña, ei mūrkhe ‘viṣaya’ kene diba?  
-sva-caraṇāmṛta diyā ‘viṣaya’ bhulāiba
+I  am wise  to this  fool  sense objects  why  should I give  
+sva-caraṇāmṛta diyā ‘viṣaya’ bhulāiba  
+the nectar of My own feet  giving  sense objects  I shall make him forget
 
-(39) [not yet translated]
+(39) “But I am wise: why should I give sense objects to this fool? I will give him the nectar of My own feet and make him forget sense objects.”
 
 সত্যং দিশত্যর্থিতমর্থিতো নৃণাং  
 নৈবার্থদো যৎ পুনরর্থিতা যতঃ ৷  
@@ -440,19 +464,25 @@ sva-caraṇāmṛta diyā ‘viṣaya’ bhulāiba
 মিচ্ছাপিধানং নিজপাদপল্লবম্ ॥ ৪০ ॥
 
 satyaṁ diśaty arthitam arthito nṛṇāṁ  
+truly  He grants  what is asked  when asked  to men  
 naivārtha-do yat punar arthitā yataḥ  
+not indeed  giver of that  which  again  asking  from which  
 svayaṁ vidhatte bhajatām anicchatām  
-icchā-pidhānaṁ nija-pāda-pallavam
+Himself  He grants  to those who worship  though not desiring  
+icchā-pidhānaṁ nija-pāda-pallavam  
+covering all desires  His own  feet like tender shoots
 
-(40) [not yet translated]
+(40) “It is true that when men ask, Kṛṣṇa grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which cover over all other desires.” (Śrīmad-Bhāgavatam, 5.19.27)
 
 কাম লাগি’ কৃষ্ণে ভজে, পায় কৃষ্ণ-রসে ৷  
 কাম ছাড়ি’ ‘দাস’ হৈতে হয় অভিলাষে ॥ ৪১ ॥
 
 kāma lāgi’ kṛṣṇe bhaje, pāya kṛṣṇa-rase  
-kāma chāḍi’ ‘dāsa’ haite haya abhilāṣe
+desire  for the sake of  Kṛṣṇa  he worships  he attains  the taste of Kṛṣṇa  
+kāma chāḍi’ ‘dāsa’ haite haya abhilāṣe  
+desire  giving up  a servant  to become  there arises  the longing
 
-(41) [not yet translated]
+(41) One who worships Kṛṣṇa for the sake of some desire comes to taste Kṛṣṇa’s sweetness (*kṛṣṇa-rasa*). Then, giving up that desire, he longs to become His servant.
 
 স্থানাভিলাষী তপসি স্থিতোঽহং  
 ত্বাং প্রাপ্তবান্ দেবমুনীন্দ্রগুহ্যম্ ৷  
@@ -460,37 +490,49 @@ kāma chāḍi’ ‘dāsa’ haite haya abhilāṣe
 স্বামিন্ কৃতার্থোঽস্মি বরং ন যাচে ॥ ৪২ ॥
 
 sthānābhilāṣī tapasi sthito ‘haṁ  
+desiring a position  in austerity  engaged  I  
 tvāṁ prāptavān deva-munīndra-guhyam  
+You  have attained  hidden from the gods and the best of sages  
 kācaṁ vicinvann api divya-ratnaṁ  
-svāmin kṛtārtho ‘smi varaṁ na yāce
+glass  searching for  though  a divine jewel  
+svāmin kṛtārtho ‘smi varaṁ na yāce  
+O Master  fulfilled  I am  a boon  not  I ask
 
-(42) [not yet translated]
+(42) “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)
 
 সংসার ভ্রমিতে কোন ভাগ্যে কেহ তরে ৷  
 নদীর প্রবাহে যেন কাষ্ঠ লাগে তীরে ॥ ৪৩ ॥
 
 saṁsāra bhramite kona bhāgye keha tare  
-nadīra pravāhe yena kāṣṭha lāge tīre
+in worldly existence  while wandering  by some  fortune  someone  is delivered  
+nadīra pravāhe yena kāṣṭha lāge tīre  
+of a river  in the current  as  a log  touches  the bank
 
-(43) [not yet translated]
+(43) While wandering in worldly existence, someone by some good fortune is delivered, as a log carried by a river’s current comes to rest on the bank.
 
 মৈবং মমাধমস্যাপি স্যাদেবাচ্যুতদর্শনম্ ৷  
 হ্রিয়মাণঃ কালনদ্যা ক্বচিত্তরতি কশ্চন ॥ ৪৪ ॥
 
 maivaṁ mamādhamasyāpi  
+not so  of me  lowly  even  
 syād evācyuta-darśanam  
+there will be  surely  the sight of Acyuta  
 hriyamāṇaḥ kāla-nadyā  
-kvacit tarati kaścana
+being carried away  by the river of time  
+kvacit tarati kaścana  
+at times  crosses over  someone
 
-(44) [not yet translated]
+(44) “It is not so that I, lowly as I am, cannot see Acyuta: I will surely see Him. For even among those carried away by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)
 
 কোন ভাগ্যে কারো সংসার ক্ষয়োন্মুখ হয় ৷  
 সাধুসঙ্গে তরে, কৃষ্ণে রতি উপজয় ॥ ৪৫ ॥
 
 kona bhāgye kāro saṁsāra kṣayonmukha haya  
-sādhu-saṅge tare, kṛṣṇe rati upajaya
+by some  fortune  someone’s  worldly existence  near its end  becomes  
+sādhu-saṅge tare, kṛṣṇe rati upajaya  
+in the company of sādhus  he is delivered  for Kṛṣṇa  attraction  arises
 
-(45) [not yet translated]
+(45) When by some good fortune someone’s worldly existence nears its end, he is delivered through the company of *sādhus*, and attraction (*rati*) for Kṛṣṇa awakens in him.
 
 ভবাপবর্গো ভ্রমতো যদা ভবে-  
 জ্জনস্য তর্হ্যচ্যুত সৎসমাগমঃ ৷  
@@ -498,19 +540,25 @@ sādhu-saṅge tare, kṛṣṇe rati upajaya
 পরাবরেশে ত্বয়ি জায়তে রতিঃ ॥ ৪৬ ॥
 
 bhavāpavargo bhramato yadā bhavej  
+the end of worldly existence  of one wandering  when  comes  
 janasya tarhy acyuta sat-samāgamaḥ  
+of a person  then  O Acyuta  meeting with the saints  
 sat-saṅgamo yarhi tadaiva sad-gatau  
-parāvareśe tvayi jāyate ratiḥ
+association with the saints  when  at that very time  for the goal of the saints  
+parāvareśe tvayi jāyate ratiḥ  
+for the Lord of the high and the low  for You  is born  attraction
 
-(46) [not yet translated]
+(46) “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)
 
 কৃষ্ণ যদি কৃপা করে কোন ভাগ্যবানে ৷  
 গুরু-অন্তর্য্যামি-রূপে শিখায় আপনে ॥ ৪৭ ॥
 
 kṛṣṇa yadi kṛpā kare kona bhāgyavāne  
-guru-antaryāmi-rūpe śikhāya āpane
+Kṛṣṇa  if  mercy  shows  to some  fortunate soul  
+guru-antaryāmi-rūpe śikhāya āpane  
+in the forms of guru and the Indweller  teaches  Himself
 
-(47) [not yet translated]
+(47) If Kṛṣṇa shows mercy to some fortunate soul, He Himself teaches him in the forms of the *guru* and the Indweller (*antaryāmī*).
 
 নৈবোপয়ন্ত্যপচিতিং কবয়স্তবেশ  
 ব্রহ্মায়ুষাপি কৃতমৃদ্ধমুদঃ স্মরন্তঃ ৷  
@@ -518,37 +566,49 @@ guru-antaryāmi-rūpe śikhāya āpane
 ন্নাচার্য্য-চৈত্যবপুষা স্বগতিং ব্যনক্তি ॥ ৪৮ ॥
 
 naivopayanty apacitiṁ kavayas taveśa  
+not  attain  repayment  the wise  Your,  O Lord  
 brahmāyuṣāpi kṛtam ṛddha-mudaḥ smarantaḥ  
+with Brahmā’s lifespan  even  Your deeds  with growing joy  remembering  
 yo ’ntar bahis tanu-bhṛtām aśubhaṁ vidhunvann  
-ācārya-caitya-vapuṣā sva-gatiṁ vyanakti
+who  within  without  of the embodied  the inauspicious  dispelling  
+ācārya-caitya-vapuṣā sva-gatiṁ vyanakti  
+as ācārya  and Supersoul  in forms  Your own path  reveal
 
-(48) [not yet translated]
+(48) “O Lord! Even if the wise lived as long as Brahmā and remembered with ever-growing joy all that You have done for them, they could not repay their debt to You. For, dispelling all that is inauspicious in embodied souls, You come to them from without as the ācārya and from within as the Supersoul, and reveal to them the way to Yourself.” (Śrīmad-Bhāgavatam, 11.29.6)
 
 সাধুসঙ্গে কৃষ্ণভক্ত্যে শ্রদ্ধা যদি হয় ৷  
 ভক্তিফল ‘প্রেম’ হয়, সংসার যায় ক্ষয় ॥ ৪৯ ॥
 
 sādhu-saṅge kṛṣṇa-bhaktye śraddhā yadi haya  
-bhakti-phala ‘prema’ haya, saṁsāra yāya kṣaya
+in the company of sādhus  in devotion to Kṛṣṇa  faith  if  arises  
+bhakti-phala ‘prema’ haya, saṁsāra yāya kṣaya  
+the fruit of bhakti  prema  comes  worldly existence  goes  to its end
 
-(49) [not yet translated]
+(49) If, in the company of *sādhus*, faith in devotion to Kṛṣṇa arises, then *prema*, the fruit of *bhakti*, appears, and worldly existence comes to an end.
 
 যদৃচ্ছয়া মৎকথাদৌ জাতশ্রদ্ধস্তু যঃ পুমান্ ৷  
 ন নির্বিণ্ণো নাতিসক্তো ভক্তিযোগোঽস্য সিদ্ধিদঃ ॥ ৫০ ॥
 
 yadṛcchayā mat-kathādau  
+by good fortune  in narrations about Me and the rest  
 jāta-śraddhas tu yaḥ pumān  
+in whom faith is born  but  who  the person  
 na nirviṇṇo nāti-sakto  
-bhakti-yogo ‘sya siddhi-daḥ
+not  disgusted  not overly attached  
+bhakti-yogo ‘sya siddhi-daḥ  
+bhakti-yoga  for him  gives perfection
 
-(50) [not yet translated]
+(50) “For one who by good fortune has come to have faith in narrations about Me and the like, and who is neither disgusted with the world nor overly attached to it, *bhakti-yoga* grants perfection.” (Śrīmad-Bhāgavatam, 11.20.8)
 
 মহৎ-কৃপা বিনা কোন কর্ম্মে ‘ভক্তি’ নয় ৷  
 কৃষ্ণভক্তি দূরে রহু, সংসার নহে ক্ষয় ॥ ৫১ ॥
 
 mahat-kṛpā vinā kona karme ‘bhakti’ naya  
-kṛṣṇa-bhakti dūre rahu, saṁsāra nahe kṣaya
+of the great souls  the mercy  without  by any  activity  bhakti  is not  
+kṛṣṇa-bhakti dūre rahu, saṁsāra nahe kṣaya  
+devotion to Kṛṣṇa  aside  let it be  worldly existence  does not  end
 
-(51) [not yet translated]
+(51) Without the mercy of great souls no activity yields *bhakti*. Devotion to Kṛṣṇa aside, without it even worldly existence does not come to an end.
 
 রহূগণৈতৎ তপসা ন যাতি  
 ন চেজ্যয়া নির্ব্বপণাদ্গৃহাদ্বা ৷  
@@ -556,11 +616,15 @@ kṛṣṇa-bhakti dūre rahu, saṁsāra nahe kṣaya
 র্বিনা মহৎপাদ-রজোঽভিষেকম্ ॥ ৫২ ॥
 
 rahūgaṇaitat tapasā na yāti  
+O Rahūgaṇa  this  by austerity  not  is attained  
 na cejyayā nirvapaṇād gṛhād vā  
+not  and by worship  by renunciation  by household life  or  
 na cchandasā naiva jalāgni-sūryair  
-vinā mahat-pāda-rajo-‘bhiṣekam
+not  by the Vedas  nor  by water, fire and sun  
+vinā mahat-pāda-rajo-‘bhiṣekam  
+without  bathing in the dust of the feet of great souls
 
-(52) [not yet translated]
+(52) “O Rahūgaṇa, this is not attained by austerity, by worship, by renunciation or by household duties, nor by the Vedas, nor by worship of water, fire and the sun, without bathing in the dust of the feet of great souls.” (Śrīmad-Bhāgavatam, 5.12.12)
 
 নৈষাং মতিস্তাবদুরুক্রমাঙ্ঘ্রিং  
 স্পৃশত্যনর্থাপগমো যদর্থঃ ৷  
@@ -568,73 +632,97 @@ vinā mahat-pāda-rajo-‘bhiṣekam
 নিষ্কিঞ্চনানাং ন বৃণীত যাবৎ ॥ ৫৩ ॥
 
 naiṣāṁ matis tāvad urukramāṅghriṁ  
+not  their  mind  so long  Urukrama’s feet  
 spṛśaty anarthāpagamo yad-arthaḥ  
+touches  the removal of anarthas  whose purpose  
 mahīyasāṁ pāda-rajo-‘bhiṣekaṁ  
-niṣkiñcanānāṁ na vṛṇīta yāvat
+of the great  bathing in the dust of the feet  
+niṣkiñcanānāṁ na vṛṇīta yāvat  
+of those who own nothing  not  accepts  as long as
 
-(53) [not yet translated]
+(53) “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)
 
 ‘সাধুসঙ্গ’, ‘সাধুসঙ্গ’ — সর্ব্বশাস্ত্রে কয় ৷  
 লবমাত্র সাধুসঙ্গে সর্ব্বসিদ্ধি হয় ॥ ৫৪ ॥
 
 ‘sādhu-saṅga’, ‘sādhu-saṅga’ — sarva-śāstre kaya  
-lava-mātra sādhu-saṅge sarva-siddhi haya
+sādhu-saṅga  sādhu-saṅga  all the scriptures  declare  
+lava-mātra sādhu-saṅge sarva-siddhi haya  
+a mere moment of  sādhu-saṅga  all perfection  comes
 
-(54) [not yet translated]
+(54) “The company of *sādhus*, the company of *sādhus*!” — so declare all the scriptures. Even a moment of *sādhu-saṅga* brings every perfection.
 
 তুলয়াম লবেনাপি ন স্বর্গং নাপুনর্ভবম্ ৷  
 ভগবৎসঙ্গিসঙ্গস্য মর্ত্ত্যানাং কিমুতাশিষঃ ॥ ৫৫ ॥
 
 tulayāma lavenāpi  
+we compare  with a moment  even  
 na svargaṁ nāpunar-bhavam  
+not  heaven  not liberation  
 bhagavat-saṅgi-saṅgasya  
-martyānāṁ kim utāśiṣaḥ
+of association with those who associate with the Lord  
+martyānāṁ kim utāśiṣaḥ  
+of mortals  what  then  the blessings
 
-(55) [not yet translated]
+(55) “We cannot compare even heaven or liberation with a moment of association with those who associate with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)
 
 কৃষ্ণ কৃপালু অর্জ্জুনেরে লক্ষ্য করিয়া ৷  
 জগতেরে রাখিয়াছেন উপদেশ দিয়া ॥ ৫৬ ॥
 
 kṛṣṇa kṛpālu arjunere lakṣya kariyā  
-jagatere rākhiyāchena upadeśa diyā
+Kṛṣṇa  merciful  Arjuna  the aim  making  
+jagatere rākhiyāchena upadeśa diyā  
+the world  has protected  instruction  giving
 
-(56) [not yet translated]
+(56) Merciful Kṛṣṇa, speaking to Arjuna, has protected the whole world by giving this instruction:
 
 সর্ব্বগুহ্যতমং ভূয়ঃ শৃণু মে পরমং বচঃ ৷  
 ইষ্টোঽসি মে দৃঢ়মিতি ততো বক্ষ্যামি তে হিতম্ ॥ ৫৭ ॥
 
 sarva-guhyatamaṁ bhūyaḥ  
+the most secret of all  again  
 śṛṇu me paramaṁ vacaḥ  
+hear  My  supreme  word  
 iṣṭo ‘si me dṛḍham iti  
-tato vakṣyāmi te hitam
+dear  you are  to Me  very  thus  
+tato vakṣyāmi te hitam  
+therefore  I shall speak  to you  your good
 
-(57) [not yet translated]
+(57) “Hear again My supreme word, the most secret of all. You are very dear to Me, and therefore I shall tell you what is for your good.” (Bhagavad-gītā, 18.64)
 
 মন্মনা ভব মদ্ভক্তো মদ্যাজী মাং নমস্কুরু ৷  
 মামেবৈষ্যসি সত্যং তে প্রতিজানে প্রিয়োঽসি মে ॥ ৫৮ ॥
 
 man-manā bhava mad-bhakto  
+with mind fixed on Me  be  My devotee  
 mad-yājī māṁ namaskuru  
+worshipping Me  to Me  bow down  
 mām evaiṣyasi satyaṁ te  
-pratijāne priyo ‘si me
+to Me  surely you will come  truly  to you  
+pratijāne priyo ‘si me  
+I promise  dear  you are  to Me
 
-(58) [not yet translated]
+(58) “Fix your mind on Me, be My devotee, worship Me and bow down to Me. You will surely come to Me — truly I promise you this, for you are dear to Me.” (Bhagavad-gītā, 18.65)
 
 পূর্ব্ব আজ্ঞা, — বেদ-ধর্ম্ম, কর্ম্ম, যোগ, জ্ঞান ৷  
 সব সাধি’ অবশেষ-আজ্ঞা — বলবান্ ॥ ৫৯ ॥
 
 pūrva ājñā, — veda-dharma, karma, yoga, jñāna  
-saba sādhi’ avaśeṣa-ājñā — balavān
+the earlier  commands  Vedic dharma  karma  yoga  jñāna  
+saba sādhi’ avaśeṣa-ājñā — balavān  
+all  having established  the final command  is strongest
 
-(59) [not yet translated]
+(59) His earlier commands concerned Vedic *dharma*, *karma*, *yoga* and *jñāna*. Having established all of these, He gave His final command, and it is the strongest.
 
 এই আজ্ঞাবলে ভক্তের ‘শ্রদ্ধা’ যদি হয় ৷  
 সর্ব্বকর্ম্ম ত্যাগ করি’ সে কৃষ্ণেরে ভজয় ॥ ৬০ ॥
 
 ei ājñā-bale bhaktera ‘śraddhā’ yadi haya  
-sarva-karma tyāga kari’ se kṛṣṇere bhajaya
+of this  by the force of the command  in the devotee  faith  if  arises  
+sarva-karma tyāga kari’ se kṛṣṇere bhajaya  
+all activities  giving up  having made  he  Kṛṣṇa  worships
 
-(60) [not yet translated]
+(60) If by the force of this command faith arises in the devotee, he gives up all other activities and worships Kṛṣṇa.
 
 তাবৎ কর্ম্মাণি কুর্ব্বীত ন নির্ব্বিদ্যেত যাবতা ৷  
 মৎকথাশ্রবণাদৌ বা শ্রদ্ধা যাবন্ন জায়তে ॥ ৬১ ॥
@@ -1343,45 +1431,59 @@ for Kṛṣṇa  love  gives birth to  of these  five  slight  contact
 শ্রীমদ্ভাগবতার্থানামাস্বাদো রসিকৈঃ সহ ॥ ১২৬ ॥
 
 sajātīyāśaye snigdhe sādhau saṅgaḥ svato vare  
-śrīmad bhāgavatārthānām āsvado rasikaiḥ saha
+of like aspiration  affectionate  with a saint  association  than oneself  superior  
+śrīmad bhāgavatārthānām āsvādo rasikaiḥ saha  
+of Śrīmad-Bhāgavatam  of the meanings  the relishing  with rasikas  together
 
-(126) [not yet translated]
+(126) “One should associate with a saint who shares one’s aspiration, is affectionate and is superior to oneself, and one should relish the meaning of the *Śrīmad-Bhāgavatam* together with *rasikas*, those who know its taste.”
 
 শ্রদ্ধা বিশেষতঃ প্রীতিঃ শ্রীমূর্ত্তেরঙ্ঘ্রিসেবনে ৷  
 নামসঙ্কীর্ত্তনং শ্রীমন্মথুরামণ্ডলে স্থিতিঃ ॥ ১২৭ ॥
 
 śraddhā viśeṣataḥ prītiḥ  
+faith  special  love  
 śrī-mūrter aṅghri-sevane  
+of the Deity  of the feet  in the service  
 nāma-saṅkīrtanaṁ śrīman-  
-mathurā-maṇḍale sthitiḥ
+of the Name  congregational chanting  in the beautiful  
+mathurā-maṇḍale sthitiḥ  
+of Mathurā  region  residence
 
-(127) [not yet translated]
+(127) “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in *saṅkīrtana*, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, 1.2.90)
 
 দুরূহাদ্ভুতবীর্য্যেঽস্মিন্ শ্রদ্ধা দূরেঽস্তু পঞ্চকে ৷  
 যত্র স্বল্পোঽপি সম্বন্ধঃ সদ্ধিয়াং ভাবজন্মনে ॥ ১২৮ ॥
 
 durūhādbhuta-vīrye ‘smin  
+hard to grasp  wondrous  in power  in this  
 śraddhā dūre ‘stu pañcake  
-yatra sv-alpo ‘pi sambandhaḥ  
-sad-dhiyāṁ bhāva-janmane
+faith  far away  let it be  in the group of five  
+yatra svalpo ‘pi sambandhaḥ  
+where  slight  even  connection  
+sad-dhiyāṁ bhāva-janmane  
+for those of good understanding  for the birth of bhāva
 
-(128) [not yet translated]
+(128) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, 1.2.238)
 
 ‘এক’ অঙ্গ সাধে, কেহ সাধে ‘বহু’ অঙ্গ ৷  
 ‘নিষ্ঠা’ হৈতে উপজয় প্রেমের তরঙ্গ ॥ ১২৯ ॥
 
 ‘eka’ aṅga sādhe, keha sādhe ‘bahu’ aṅga  
-‘niṣṭhā’ haile upajaya premera taraṅga
+one  limb  practises (one)  someone  practises  many  limbs  
+‘niṣṭhā’ haite upajaya premera taraṅga  
+steadiness  from  arise  of love  the waves
 
-(129) [not yet translated]
+(129) Some practise one limb, some practise many; from steadiness (*niṣṭhā*) arise the waves of love.
 
 ‘এক’ অঙ্গে সিদ্ধি পাইল বহু ভক্তগণ ৷  
 অম্বরীষাদি ভক্তের ‘বহু’ অঙ্গ-সাধন ॥ ১৩০ ॥
 
 ‘eka’ aṅge siddhi pāila bahu bhakta-gaṇa  
-ambarīṣādi bhaktera ‘bahu’ aṅga-sādhana
+by one  limb  perfection  attained  many  devotees  
+ambarīṣādi bhaktera ‘bahu’ aṅga-sādhana  
+Ambarīṣa and other  devotees’  of many  limbs  practice
 
-(130) [not yet translated]
+(130) Many devotees have attained perfection through a single limb; devotees such as Ambarīṣa practised many limbs.
 
 শ্রীবিষ্ণোঃ শ্রবণে পরীক্ষিদভবদ্বৈয়াসকিঃ কীর্ত্তনে  
 প্রহ্লাদঃ স্মরণে তদঙ্ঘ্রিভজনে লক্ষ্মীঃ পৃথুঃ পূজনে ৷  
@@ -1389,11 +1491,15 @@ ambarīṣādi bhaktera ‘bahu’ aṅga-sādhana
 সর্ব্বস্বাত্মনিবেদনে বলিরভূৎ কৃষ্ণাপ্তিরেষাং পরম্ ॥ ১৩১ ॥
 
 śrī-viṣṇoḥ śravaṇe parīkṣid abhavad vaiyāsakiḥ kīrtane  
+of Śrī Viṣṇu  in hearing  Parīkṣit  was  the son of Vyāsa  in glorifying  
 prahlādaḥ smaraṇe tad-aṅghri-bhajane lakṣmīḥ pṛthuḥ pūjane  
+Prahlāda  in remembering  His  feet  in serving  Lakṣmī  Pṛthu  in worship  
 akrūras tv abhivandane kapi-patir dāsye ‘tha sakhye ‘rjunaḥ  
-sarva-svātma-nivedane balir abhūt kṛṣṇāptir eṣāṁ param
+Akrūra  and  in offering prayers  the lord of the monkeys  in servitude  and  in friendship  Arjuna  
+sarva-svātma-nivedane balir abhūt kṛṣṇāptir eṣāṁ param  
+of all he had and himself  in the offering  Bali  was  the attainment of Kṛṣṇa  of these  the highest
 
-(131) [not yet translated]
+(131) “Parīkṣit attained perfection by hearing about Śrī Viṣṇu; Śukadeva, the son of Vyāsa, by glorifying Him; Prahlāda by remembering Him; Lakṣmī by serving His feet; Pṛthu by worship; Akrūra by offering prayers; Hanumān, lord of the monkeys, by servitude; Arjuna by friendship; and Bali by offering all he had and himself. All of them attained Kṛṣṇa in the highest way.” (Bhakti-rasāmṛta-sindhu, 1.2.265)
 
 স বৈ মনঃ কৃষ্ণপদারবিন্দয়ো-  
 র্বচাংসি বৈকুণ্ঠগুণানুবর্ণনে ৷  
@@ -1401,11 +1507,15 @@ sarva-svātma-nivedane balir abhūt kṛṣṇāptir eṣāṁ param
 শ্রুতিঞ্চকারাচ্যুতসৎকথোদয়ে ॥ ১৩২ ॥
 
 sa vai manaḥ kṛṣṇa-padāravindayor  
+he  indeed  the mind  of Kṛṣṇa  on the lotus feet  
 vacāṁsi vaikuṇṭha-guṇānuvarṇane  
+words  of the Lord of Vaikuṇṭha  of the qualities  in describing  
 karau harer mandira-mārjanādiṣu  
-śrutiṁ cakārācyuta-sat-kathodaye
+the hands  of Hari  of the temple  in cleaning and the like  
+śrutiṁ cakārācyuta-sat-kathodaye  
+the ears  he engaged  about Acyuta  holy  narrations  in the telling
 
-(132) [not yet translated]
+(132) “King Ambarīṣa engaged his mind on Kṛṣṇa’s lotus feet, his words in describing the qualities of the Lord of Vaikuṇṭha, his hands in cleaning Hari’s temple and similar service, and his ears in hearing the holy narrations of Acyuta.” (Śrīmad-Bhāgavatam, 9.4.18)
 
 মুকুন্দলিঙ্গালয়দর্শনে দৃশৌ  
 তদ্ভৃত্যগাত্রস্পর্শেঽঙ্গসঙ্গমম্ ৷  
@@ -1413,11 +1523,15 @@ karau harer mandira-mārjanādiṣu
 শ্রীমত্তুলস্যা রসনাং তদর্পিতে ॥ ১৩৩ ॥
 
 mukunda-liṅgālaya-darśane dṛśau  
+of Mukunda  of the images  of the temples  in seeing  the eyes  
 tad-bhṛtya-gātra-sparśe ‘ṅga-saṅgamam  
+of His  servants  of the bodies  in touching  the touch of his limbs  
 ghrāṇaṁ ca tat-pāda-saroja-saurabhe  
-śrīmat-tulasyā rasanāṁ tad-arpite
+the sense of smell  and  of His  feet  lotus  in the fragrance  
+śrīmat-tulasyā rasanāṁ tad-arpite  
+of the beautiful  Tulasī  the tongue  offered to Him  in what was
 
-(133) [not yet translated]
+(133) “He engaged his eyes in seeing Mukunda’s Deities and temples, his body in touching the bodies of the Lord’s servants, his sense of smell in the fragrance of the beautiful Tulasī at the Lord’s lotus feet, and his tongue in what had been offered to Him.” (Śrīmad-Bhāgavatam, 9.4.19)
 
 পাদৌ হরেঃ ক্ষেত্রপদানুসর্পণে  
 শিরো হৃষীকেশপদাভিবন্দনে ৷  
@@ -1425,19 +1539,25 @@ ghrāṇaṁ ca tat-pāda-saroja-saurabhe
 যথোত্তমঃশ্লোকজনাশ্রয়া রতিঃ ॥ ১৩৪ ॥
 
 pādau hareḥ kṣetra-padānusarpaṇe  
+the feet  of Hari  holy places  along the paths  in walking  
 śiro hṛṣīkeśa-padābhivandane  
+the head  of Hṛṣīkeśa  to the feet  in bowing  
 kāmaṁ ca dāsye na tu kāma-kāmyayā  
-yathottamaḥ śloka-janāśrayā ratiḥ
+desire  and  in servitude  not  but  for the sake of enjoyment  
+yathottamaḥ śloka-janāśrayā ratiḥ  
+so that  of Uttamaśloka  in the devotees  sheltered  attraction
 
-(134) [not yet translated]
+(134) “He engaged his feet in walking to the Lord’s holy places, his head in bowing to the feet of Hṛṣīkeśa, and his desire in servitude, not in seeking enjoyment — so that there arose in him the attraction (*rati*) that takes shelter of the devotees of Uttamaśloka.” (Śrīmad-Bhāgavatam, 9.4.20)
 
 কাম ত্যজি’ কৃষ্ণ ভজে শাস্ত্র-আজ্ঞা মানি’ ৷  
 দেব-ঋষি-পিতৃদিগের কভু নহে ঋণী ॥ ১৩৫ ॥
 
 kāma tyaji’ kṛṣṇa bhaje śāstra-ājñā māni’  
-deva-ṛṣi-pitṛdigera kabhu nahe ṛṇī
+desires  giving up  Kṛṣṇa  worships  of scripture  the command  honouring  
+deva-ṛṣi-pitṛdigera kabhu nahe ṛṇī  
+to the gods  the sages  the forefathers  ever  is not  a debtor
 
-(135) [not yet translated]
+(135) One who gives up desires and worships Kṛṣṇa, honouring the command of scripture, is never in debt to the gods, the sages or the forefathers.
 
 দেবর্ষিভূতাপ্তনৃণাং পিতৄণাং  
 ন কিঙ্করো নায়মৃণী চ রাজন্ ৷  
@@ -1445,27 +1565,35 @@ deva-ṛṣi-pitṛdigera kabhu nahe ṛṇī
 গতো মুকুন্দং পরিহৃত্য কর্ত্তম্ ॥ ১৩৬ ॥
 
 devarṣi-bhūtāpta-nṛṇāṁ pitṝṇāṁ  
+of the gods  sages  beings  kinsmen  men  of the forefathers  
 na kiṅkaro nāyam ṛṇī ca rājan  
+not  a servant  nor  he  a debtor  and  O king  
 sarvātmanā yaḥ śaraṇaṁ śaraṇyaṁ  
-gato mukundaṁ parihṛtya kartam
+with his whole being  who  for shelter  to the giver of shelter  
+gato mukundaṁ parihṛtya kartam  
+has gone  to Mukunda  giving up  his duties
 
-(136) [not yet translated]
+(136) “O king, one who has given up his duties and with his whole being has gone for shelter to Mukunda, the giver of shelter, is no longer a servant or a debtor to the gods, the sages, other beings, his kinsmen, mankind or the forefathers.” (Śrīmad-Bhāgavatam, 11.5.41)
 
 বিধি-ধর্ম্ম ছাড়ি’ ভজে কৃষ্ণের চরণ ৷  
 নিষিদ্ধ পাপাচারে তার কভু নহে মন ॥ ১৩৭ ॥
 
 vidhi-dharma chāḍi’ bhaje kṛṣṇera caraṇa  
-niṣiddha pāpācāre tāra kabhu nahe mana
+of rules  the dharma  giving up  worships  of Kṛṣṇa  the feet  
+niṣiddha pāpācāre tāra kabhu nahe mana  
+to forbidden  sinful conduct  his  ever  does not go  mind
 
-(137) [not yet translated]
+(137) One who gives up the *dharma* of rules and worships Kṛṣṇa’s feet never turns his mind to forbidden, sinful conduct.
 
 অজ্ঞানে বা হয় যদি ‘পাপ’ উপস্থিত ৷  
 কৃষ্ণ তাঁরে শুদ্ধ করে, না করায় প্রায়শ্চিত্ত ॥ ১৩৮ ॥
 
 ajñāne vā haya yadi ‘pāpa’ upasthita  
-kṛṣṇa tāṅre śuddha kare, nā karāya prāyaścitta
+through ignorance  or  happens  if  sin  occurs  
+kṛṣṇa tāṅre śuddha kare, nā karāya prāyaścitta  
+Kṛṣṇa  him  pure  makes  not  makes him perform  atonement
 
-(138) [not yet translated]
+(138) And if through ignorance he should fall into “sin,” Kṛṣṇa purifies him; He does not make him perform atonement.
 
 স্বপাদমূলং ভজতঃ প্রিয়স্য  
 ত্যক্তান্যভাবস্য হরিঃ পরেশঃ ৷  
@@ -1473,65 +1601,87 @@ kṛṣṇa tāṅre śuddha kare, nā karāya prāyaścitta
 ধুনোতি সর্ব্বং হৃদি সন্নিবিষ্টঃ ॥ ১৩৯ ॥
 
 sva-pāda-mūlaṁ bhajataḥ priyasya  
+His own  of the feet  the root  of one who worships  the dear one  
 tyaktānya-bhāvasya hariḥ pareśaḥ  
+who has given up  other  feelings  Hari  the Supreme Lord  
 vikarma yac cotpatitaṁ kathañcit  
-dhunoti sarvaṁ hṛdi sanniviṣṭaḥ
+sinful act  which  and  has occurred  somehow  
+dhunoti sarvaṁ hṛdi sanniviṣṭaḥ  
+removes  all  in the heart  residing
 
-(139) [not yet translated]
+(139) “Should a dear devotee who worships the root of His feet, having given up every other feeling, somehow commit a sinful act, Hari, the Supreme Lord, seated in his heart, removes it all.” (Śrīmad-Bhāgavatam, 11.5.42)
 
 জ্ঞান-বৈরাগ্যাদি — ভক্তির কভু নহে ‘অঙ্গ’ ৷  
 অহিংসা-যম-নিয়মাদি বুলে কৃষ্ণভক্ত-সঙ্গ ॥ ১৪০ ॥
 
 jñāna-vairāgyādi — bhaktira kabhu nahe ‘aṅga’  
-ahiṁsā-yama-niyamādi bule kṛṣṇa-bhakta-saṅga
+knowledge  renunciation and the like  of bhakti  ever  are not  limbs  
+ahiṁsā-yama-niyamādi bule kṛṣṇa-bhakta-saṅga  
+non-violence  yama  niyama and the like  accompany  of Kṛṣṇa’s devotees  the company
 
-(140) [not yet translated]
+(140) Knowledge (*jñāna*), renunciation (*vairāgya*) and the like are never limbs of devotion. Non-violence, restraint (*yama*), regulation (*niyama*) and the like follow along in the company of Kṛṣṇa’s devotees.
 
 তস্মান্মদ্ভক্তিযুক্তস্য যোগিনো বৈ মদাত্মনঃ ৷  
 ন জ্ঞানং ন চ বৈরাগ্যং প্রায়ঃ শ্রেয়ো ভবেদিহ ॥ ১৪১ ॥
 
 tasmān mad-bhakti-yuktasya  
+therefore  in devotion to Me  engaged  
 yogino vai mad-ātmanaḥ  
+of a yogī  indeed  whose mind is in Me  
 na jñānaṁ na ca vairāgyaṁ  
-prāyaḥ śreyo bhaved iha
+not  knowledge  nor  and  renunciation  
+prāyaḥ śreyo bhaved iha  
+as a rule  the highest good  is  here
 
-(141) [not yet translated]
+(141) “Therefore, for the *yogī* engaged in devotion to Me, whose mind is in Me, neither knowledge nor renunciation is, as a rule, the means to the highest good in this world.” (Śrīmad-Bhāgavatam, 11.20.31)
 
 এতে ন হ্যদ্ভুতা ব্যাধ তবাহিংসাদয়ো গুণাঃ ৷  
 হরিভক্তৌ প্রবৃত্তা যে ন তে স্যুঃ পরতাপিনঃ ॥ ১৪২ ॥
 
 ete na hy adbhutā vyādha  
+these  not  indeed  wonderful  O hunter  
 tavāhiṁsādayo guṇāḥ  
+your  non-violence and the other  virtues  
 hari-bhaktau pravṛttā ye  
-na te syuḥ para-tāpinaḥ
+in devotion to Hari  engaged  who  
+na te syuḥ para-tāpinaḥ  
+not  they  are  causing pain to others
 
-(142) [not yet translated]
+(142) “O hunter, it is no wonder that you have non-violence and these other virtues: those who are engaged in devotion to Hari never cause pain to others.” (Skanda-purāṇa)
 
 বৈধীভক্তি-সাধনের কহিলুঁ বিবরণ ৷  
 রাগানুগা-ভক্তির লক্ষণ শুন, সনাতন ॥ ১৪৩ ॥
 
 vaidhī-bhakti-sādhanera kahiluṅ vivaraṇa  
-rāgānugā-bhaktira lakṣaṇa śuna, sanātana
+of vaidhī-bhakti  of the practice  I have told  the description  
+rāgānugā-bhaktira lakṣaṇa śuna, sanātana  
+of rāgānugā-bhakti  the characteristics  hear  Sanātana
 
-(143) [not yet translated]
+(143) I have described to you the practice of *vaidhī-bhakti*. Now, Sanātana, hear the characteristics of *rāgānugā-bhakti*.
 
 রাগাত্মিকা-ভক্তি — ‘মুখ্যা’ ব্রজবাসি-জনে ৷  
 তার অনুগত ভক্তির ‘রাগানুগা’ নামে ॥ ১৪৪ ॥
 
 rāgātmikā-bhakti — ‘mukhyā’ vraja-vāsi-jane  
-tāra anugata bhaktira ‘rāgānugā’ nāme
+rāgātmikā-bhakti  pre-eminent  in the people of Vraja  
+tāra anugata bhaktira ‘rāgānugā’ nāme  
+it  following  of the devotion  rāgānugā  by name
 
-(144) [not yet translated]
+(144) *Rāgātmikā-bhakti*, devotion whose very nature is *rāga*, is found pre-eminently in the people of Vraja. Devotion that follows it is called *rāgānugā*.
 
 ইষ্টে স্বারসিকী রাগঃ পরমাবিষ্টতা ভবেৎ ৷  
 তন্ময়ী যা ভবেদ্ভক্তিঃ সাত্র রাগাত্মিকোদিতা ॥ ১৪৫ ॥
 
 iṣṭe svārasikī rāgaḥ  
+for the beloved  natural  rāga  
 paramāviṣṭatā bhavet  
+supreme absorption  is  
 tan-mayī yā bhaved bhaktiḥ  
-sātra rāgātmikoditā
+with it  filled  which  is  devotion  
+sātra rāgātmikoditā  
+it  here  rāgātmikā  is called
 
-(145) [not yet translated]
+(145) “Natural, intense absorption in one’s beloved is *rāga*. Devotion filled with such *rāga* is here called *rāgātmikā*.” (Bhakti-rasāmṛta-sindhu, 1.2.272)
 
 ইষ্টে ‘গাঢ়’-তৃষ্ণা’ — রাগের স্বরূপ-লক্ষণ ৷  
 ইষ্টে ‘আবিষ্টতা’ — তটস্থ-লক্ষণ কথন ॥ ১৪৬ ॥
