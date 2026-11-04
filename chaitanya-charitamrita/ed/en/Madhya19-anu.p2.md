@@ -190,8 +190,74 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 > Subheading: *Rati* runs through all of them —
 
+*Sthāyi-bhāva* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, first wave): “When this love for Kṛṣṇa (*kṛṣṇa-rati*), the *sthāyi-bhāva*, is made tasteable in the hearts of devotees through hearing and so on, by means of *vibhāvas*, *anubhāvas*, *sāttvikas* and *vyabhicārīs*, it becomes *bhakti-rasa*.” *Kṛṣṇa-rati* is the *sthāyi-bhāva*. When through hearing and so on, combined with *vibhāva*, *anubhāva*, and the *sāttvika* and *vyabhicārī bhāvas*, it is brought to a tasteable state in the hearts of devotees, it becomes “*bhakti-rasa*.”
+
+*Vibhāva* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, first wave): “Here the causes of tasting *rati* are to be known as *vibhāvas*. They are of two kinds: some are *ālambanas*, the others *uddīpanas*.” The causes of tasting *rati* are called “*vibhāva*”; *vibhāva* is of two kinds, *ālambana* and *uddīpana*.
+
+*Anubhāva* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, second wave[^180-1]): “*Anubhāvas* are what reveal the feelings that dwell in the mind; they are mostly outward transformations and are called *udbhāsvara* (radiant).” What reveals the radiant (*udbhāsvara*) feelings dwelling in the mind and displays outwardly actions resembling transformations — these are the “*anubhāvas*.”
+
+## 181
+
+> Subheading: When four kinds of *bhāva* combine with *rati*, *rasa* arises —
+
+*Sāttvika* and *vyabhicārī* — see Madhya 3.162 and Madhya 14.167.
+
+## 182
+
+> Subheading: A comparison —
+
+*Sitā* means *misri* (crystallized sugar).
+
+## 183
+
+> Subheading: Five kinds of *rati*, according to the difference of devotees —
+
+*Śānta-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Freedom of the mind from wavering is called *śama*” — that is, a state of mind free from doubt and the like is called “*śama*.” (The same:) “When, turning away from sense objects, one abides in one's own bliss, this is here called the nature of the self — *śama*. In those in whom *śama* predominates, there usually arises toward Kṛṣṇa as the Paramātmā *śānta-rati*, devoid of even a trace of the sense of ‘mine.’” Abiding in one's own bliss after giving up the desire for sense objects is called the nature of “*śama*.” In those in whom *śama* predominates, through realization of the Paramātmā, *śānta-rati* toward Kṛṣṇa arises, devoid of even a trace of the feeling “He is mine.”
+
+*Dāsya-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Those who are lower than He are considered recipients of Hari's mercy. Their *rati*, whose essence is [seeing Him as] the One to be worshiped, is called *prīti*. It creates attachment to Him and destroys love for everything else.” When the *jīva*'s *rati* is full of the consciousness of being lower than Śrī Bhagavān, he becomes a fit recipient of Hari's mercy. The *rati* called “*prīti*” — “Bhagavān is the One to be worshiped” — produces “attachment” (*āsakti*) to the worshipable Bhagavān Kṛṣṇacandra and destroys love for things of *māyā* other than Bhagavān.
+
+*Sakhya-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Those who are equal to Mukunda are, in the view of the saintly, His friends. Their *rati*, whose nature is confidence (*viśrambha*) born of equality, is here called *sakhya*. It gives rise to joking, laughter and the like, and is free from restraint.” In the view of the wise and the saintly, *sakhās* (friends) are those whose *rati* is full of the consciousness of equality with Mukunda. *Rati* full of trust, which, owing to mutual equality with Śrī Kṛṣṇa, shows itself as freedom from all constraint, is called “*sakhya-rati*.” This *sakhya-rati* gives rise to joking, laughter and the like; it is called *ayantraṇā* — *rati* free of constraint.
+
+## 184
+
+> Subheading: Five kinds of *bhakti-rasa*, according to the difference of *rati* —
+
+*Vātsalya-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Those who are senior to this Hari are known as worthy of respect. Their *rati*, full of benevolence (*anugraha*), is called *vātsalya*. It shows itself in caring, wishing well, blessing, touching the chin and so on.” *Jīvas* whose *rati* is full of the consciousness of their own seniority are “worthy of respect” to Bhagavān; their *rati*, full of benevolence, is called “*vātsalya-rati*.” In this *vātsalya-rati* there are caring, looking after one's welfare, blessings, touching the chin and so on.
+
+*Madhura-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “The original cause of the mutual[^184-1] enjoyment (*sambhoga*) of Hari and the doe-eyed ones is the *rati* called *priyatā*; its other name is *madhurā*. In it are sidelong glances, movements of the brows, tender words, smiles and the like.” The original cause of the eight kinds of *sambhoga* — mutual remembrance, seeing one another and so on — between Śrī Bhagavān and the doe-eyed ones is *priyatā*, or *madhurā-rati*. In *madhurā-rati* there are sidelong glances, movements of the brows, tender words, sweet smiles and so on.
+
+## 185
+
+> Subheading: The five principal *bhakti-rasas* and the seven secondary ones —
+
+*Śānta-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, first wave): “When the *sthāyī* — *śānti-rati* — through the *vibhāvas* and the rest that will be described, becomes tasteable to those endowed with *śama*, the wise call it *śānta-bhakti-rasa*. Here the yogīs' happiness is usually of the same kind as the happiness of their own self. But the happiness of the self is not dense, whereas the happiness full of the Lord (*Īśa*) is dense. Here too the chief cause is the experience of the Lord's form; charm of pastimes and the like are not considered [a cause] to the same degree as they are for servants and others.” When the *sthāyi-bhāva* in the form of *śānta-rati* combines with the *vibhāvas* and the rest that will be described and becomes tasteable to *śānta* devotees — that is, takes on that form — then it becomes “*śānta-bhakti-rasa*.” In *śānta-rasa* the yogīs attain happiness of the same kind as the bliss of impersonal Brahman, the foundation of all. But this bliss of the self is *aghana*, that is, meager; whereas the abundant happiness of service, when the *sac-cid-ānanda* form of Bhagavān manifests, is “dense.” The *śānta* devotees do have greater happiness through direct vision, but they do not have such a taste for Bhagavān's charming pastimes as the servants and others do.
+
+*Dāsya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, second wave): “When *prīti*, through *vibhāvas* and the rest suited to it, is made tasteable in the hearts of devotees, it is considered *prīta-bhakti-rasa*. According to whether the recipient of mercy is a servant or one who is cared for, it is divided in two: *sambhrama-prīta* and *gaurava-prīta*.” When, through suitable *vibhāvas* and the rest, *prīti-rati* becomes tasteable in the hearts of devotees, it becomes “*prīti*,” or “*dāsya-bhakti-rasa*.” Since the servants who are fit for mercy may be servants or those who are cared for, two kinds of *prīti* are seen in *dāsya-rasa*: *sambhrama-dāsya* (with awe) and *gaurava-dāsya* (with reverence for a superior).
+
+*Sakhya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, fourth wave): “When the *sthāyi-bhāva*, *sakhya*, through suitable *vibhāvas* and the rest, is brought to fullness in the hearts of the saintly, it is called the *rasa* of *preyas*.” When the *sthāyi-bhāva*, *sakhya-rati*, through suitable *vibhāvas* and the rest, reaches fullness in the hearts of devotees, it becomes “*preyo-rasa*,” or “*sakhya-bhakti-rasa*.”
+
+*Vātsalya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, fourth wave): “When the *sthāyī*, *vātsalya*, reaches fullness through *vibhāvas* and the rest, the wise call it the *bhakti-rasa* named *vatsala*.” When the *sthāyi-bhāva*, *vātsalya-rati*, reaches fullness in the devotee's heart through *vibhāvas* and the rest, learned devotees call it “*vātsalya-bhakti-rasa*.”
+
+*Madhura-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, fifth wave): “When *madhurā rati*, through *vibhāvas* and the rest suited to it, reaches fullness in the hearts of the saintly, it becomes the *bhakti-rasa* named *madhura*.” When the *sthāyi-bhāva*, *madhura-rati*, reaches fullness in the heart of a true devotee through suitable *vibhāvas* and the rest, it is celebrated as “the *bhakti-rasa* called *madhura*.”
+
+## 186
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, the wave on *sthāyi-bhāva*, verse 116)
+
+**tathā** **hāsyaḥ**, **adbhutaḥ**, **vīraḥ**, **karuṇaḥ**, **raudraḥ**, **bhayānakaḥ**, **bībhatsaḥ** — **iti** **saptadhā** **gauṇa-rasaḥ** **ca** **api**.
+
+## 188
+
+> Subheading: The five principal *rasas* are permanent (*sthāyī*); the seven secondary ones are occasional visitors (*āgantuka*) —
+
+## 187–188
+
 ---
 
 [^157-1]: *Upadeśāmṛta* 2.
 
 [^158-1]: Our verse translation reads differently: “weeds of material desires or the desire for liberation.”
+
+[^180-1]: The numeral is unclear in the scan (broken type); by sense it is the second wave, which deals with the *anubhāvas*.
+
+[^184-1]: The edition (scan checked) reads *mithyā* (“falsely”), evidently a misprint for *mitho* (“mutually”); the Bengali paraphrase that follows has “mutual.”

@@ -29,3 +29,27 @@ Such devotion is called “absolute *bhakti-yoga*” (*ātyantika-bhakti-yoga*).
 ## 176
 
 The desire for enjoyment and the desire for liberation are two witches (*piśācīs*). As long as they dwell in someone's heart, the happiness of devotion cannot dawn in that heart.
+
+## 177–181
+
+Devotion has three states: the state of practice (*sādhana*), the state of *bhāva*, and the state of *prema*. The nine limbs — hearing, chanting and the rest — are at first performed only in *sādhana-bhakti*. The more the *anarthas* mentioned above diminish as one hears and chants with faith, the higher faith itself (*śraddhā-vṛtti*) gradually rises, and it becomes known by the names *niṣṭhā*, *ruci*, *āsakti*, and *bhāva* or *rati*. *Rati* arises from *sādhana-bhakti*; the denser this *rati* grows through engagement (cultivation) in hearing, chanting and so on, the more it takes the names *prema* and the rest. (Gradually) *prema*, as it increases, rises to *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*. Here is an example. Sugarcane juice is like the seed corresponding to *rati*; the denser it grows, the further it passes through the stages of molasses (*guḍa*), then *khaṇḍasāra*, *śarkarā*, *sitā-misri* and the finest *misri*. Everything from *rati* to *mahābhāva* is known in *kṛṣṇa-bhakti-rasa* as *sthāyi-bhāva*; but everywhere it is *rati* above all that is called the *sthāyi-bhāva*.
+
+When the four *bhāvas* — *vibhāva*, *anubhāva*, *sāttvika* and *vyabhicārī* — combine with the *sthāyi-bhāva*, *rasa* arises. When, in devotion to Kṛṣṇa, these ingredients join the *sthāyi-bhāva*, there is “*kṛṣṇa-bhakti-rasa*.” The *sthāyi-bhāva* is the chief foundation on which *rasa* is kindled; with it the four ingredients — *vibhāva* and the rest — are combined. Thus the *sthāyi-bhāva* is the “root” of *rasa*, *vibhāva* its “cause,” *anubhāva* its “effect,” *sāttvika-bhāva* a special “effect,” and the *sañcārī* or *vyabhicārī bhāvas* its “helpers.” *Vibhāva* is divided into two kinds, *ālambana* and *uddīpana*. *Ālambana* is again divided into two, *viṣaya* and *āśraya*. In *kṛṣṇa-bhakti-rasa* the devotee is the *āśraya*, Kṛṣṇa is the *viṣaya*, and Kṛṣṇa's qualities[^177-181-1] are the *uddīpana*.
+
+The *anubhāvas* are of thirteen kinds: (1) dancing, (2) rolling on the ground, (3) singing, (4) loud crying, (5) stretching the body, (6) roaring (*huṅkāra*), (7) yawning, (8) heavy breathing, (9) disregard for public opinion, (10) drooling, (11) loud laughter, (12) reeling, (13) hiccups. Not all the signs of the *anubhāvas* appear at once: as the *rasa* works, now one sign and now another appears. The *sāttvika-bhāvas* are of eight kinds, and the *sañcārī* or *vyabhicārī bhāvas* number thirty-three (see the *Amṛta-pravāha-bhāṣya* on Madhya 14.167).
+
+## 186
+
+The “principal *rasas*” (*mukhya-rasas*) are of five kinds: *śānta*, *dāsya*, *sakhya*, *vātsalya* and *madhura*. Laughter (*hāsya*), wonder (*adbhuta*), heroism (*vīra*), compassion (*karuṇa*), anger (*raudra*), fear (*bhayānaka*) and disgust (*bībhatsa*) are the seven kinds of “secondary *rasa*” (*gauṇa-rasa*).
+
+## 188
+
+The five principal *rasas* mentioned above abide in the devotee's heart permanently, as *sthāyi-bhāvas*. The secondary *rasas* — laughter, wonder and the rest — arise in the devotee's heart as visitors when a “cause” is present; they nourish the principal *rasa* and then subside.
+
+## 190
+
+“In Vraja,” Śrīdāmā and others; “in the city,” in the pastimes of Dvārakā, Bhīma and Arjuna.
+
+---
+
+[^177-181-1]: The edition reads *guṇāguṇa* (usually “merits and faults”); by sense, Kṛṣṇa's qualities.
