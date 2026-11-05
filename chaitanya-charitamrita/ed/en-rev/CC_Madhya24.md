@@ -2555,7 +2555,7 @@ by the word nirgrantha  is meant  then  a hunter  a pauper
 sādhu-saṅge seha kare śrī-kṛṣṇa bhajana  
 in the company of sādhus  he too  performs  of Śrī Kṛṣṇa  worship
 
-(221) The word *nirgrantha* then means a hunter (*vyādha*) or a pauper (*nirdhana*); in the company of sādhus, he too worships Śrī Kṛṣṇa.
+(221) The word *nirgrantha* then means a hunter (*vyādha*) or a pauper (*nirdhana*); in the company of sādhus, he too worships Śrī Kṛṣṇa.[^58]
 
 ‘কৃষ্ণারামাশ্চ’ এব কৃষ্ণ-মনন ৷  
 ব্যাধ হঞা হয় পূজ্য ভাগবতোত্তম ॥ ২২২ ॥
@@ -2565,7 +2565,7 @@ those who delight in Kṛṣṇa  and  indeed  of Kṛṣṇa  contemplation
 vyādha hañā haya pūjya bhāgavatottama  
 a hunter  though being  becomes  worshipful  the best of bhāgavatas
 
-(222) “*Kṛṣṇārāmāś ca*”: those who delight in Kṛṣṇa, that is, in contemplating Kṛṣṇa. Though a hunter, such a person becomes worshipful, the best of the *bhāgavatas*.
+(222) “*Kṛṣṇārāmāś ca*” — those who delight in Kṛṣṇa — means those who contemplate Kṛṣṇa. Though a hunter, such a person becomes worshipful, the best of the *bhāgavatas*.
 
 এক ভক্ত-ব্যাধের কথা শুন সাবধানে ৷  
 যাহা হৈতে হয় সৎসঙ্গ-মহিমার জ্ঞানে ॥ ২২৩ ॥
@@ -2628,7 +2628,7 @@ deer  to kill  he is  an arrow  having fitted
 (228) A little farther on he saw the hunter hiding behind a tree, an arrow fitted to his bow, waiting to kill deer.
 
 শ্যামবর্ণ রক্তনেত্র মহাভয়ঙ্কর ৷  
-ধনুর্বাণ হস্তে, — যেন যম দণ্ডধর ॥ ২২৯ ॥
+ধনুর্ব্বাণ হস্তে, — যেন যম দণ্ডধর ॥ ২২৯ ॥
 
 śyāma-varṇa rakta-netra mahā-bhayaṅkara  
 dark in complexion  red-eyed  very  fearsome  
@@ -2802,3 +2802,5 @@ the hunter  said  what  you say  that  indeed  certain
 [^56]: *Anubhāṣya*: the sense of *samuccaya* has been explained above; “another meaning” is one other than *samuccaya*.
 
 [^57]: *Anubhāṣya*: the sense is that even though they are *ātmārāmas*, the sages renounce the honour of that position, and they alone worship Kṛṣṇa.
+
+[^58]: *Anubhāṣya*: if *api* with *nirgrantha* has the sense of specification (*nirdhāraṇa*), then even an unworthy hunter, bereft of the wealth of *sādhana*, becomes a *kṛṣṇārāma* by the power of the company of a sādhu such as Nārada, and worships Kṛṣṇa.
