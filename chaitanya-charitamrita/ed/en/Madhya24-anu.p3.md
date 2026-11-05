@@ -196,6 +196,26 @@ It is not true that anyone who calls himself a brāhmaṇa, or whom ignorant peo
 
 **Consideration of all mantras**: considering the differing power of the mantras — the twelve-syllable and the eighteen-syllable mantras, the mantras of Nārasiṁha, Rāma, Gopāla and others.
 
+## 326
+
+**Who is qualified for a mantra.** “In Tantric mantras and in *dīkṣā*, chaste women too have the right, as do *śūdras* and others of good mind.” In *pāñcarātrika* mantra-*dīkṣā*, chaste women and *śūdras* have the right just as men of good intelligence do. In Vedic *dīkṣā* only brāhmaṇas devoted to Vedic study have the right; unqualified *śūdras* and women have no right to Vedic *dīkṣā*. The Vedic right of the *bhāgavata* belongs only to one who has already attained qualification, and the Tantric right of the *pāñcarātrika* to one who aspires to attain it. The fruit of both paths is “one.”
+
+***Siddhi* and so on.** “The wise should recognize [mantras] in order as *siddha*, *sādhya*, *susiddha* and *ari*.” (1) *Siddha*, (2) *sādhya*, (3) *susiddha*, (4) *ari*: (1) *siddha-siddha*, (2) *siddha-sādhya*, (3) *siddha-susiddha*, (4) *siddha-ari*; (5) *sādhya-siddha*, (6) *sādhya-sādhya*, (7) *sādhya-susiddha*, (8) *sādhya-ari*; (9) *susiddha-siddha*, (10) *susiddha-sādhya*, (11) *susiddha-susiddha*, (12) *susiddha-ari*; (13) *ari-siddha*, (14) *ari-sādhya*, (15) *ari-susiddha*, (16) *ari-ari*. In the eighteen-syllable mantra there is no worldly consideration of *siddhi* and the rest. “Here there are no faults of enmity, and no need to consider debts and the like; nor, dear one, need one consider for this mantra the lunar mansion or the zodiac sign. Here one need not think of purification from enmity and so on, nor of the marks of enemy, friend and the rest. Nor is there here any consideration of [the mantra as] *siddha*, *sādhya*, *susiddha* or *ari*.”
+
+**Purification.** “*Janana* (birth), *jīvana* (enlivening), *tāḍana* (striking), *rodhana* (restraining), then *abhiṣeka* (sprinkling), *vimalīkaraṇa* (cleansing), *āpyāyana* (nourishing), *tarpaṇa* (satisfying), *dīpana* (kindling) and *gupti* (concealment) — these are the ten purificatory rites of a mantra. … But Kṛṣṇa's mantras are so powerful that they need no purificatory rites.”
+
+***Dīkṣā*.** See Madhya 15.108. One who receives *pāñcarātrika dīkṣā* attains “brāhmaṇa-hood”: “As bell metal turns into gold by alchemy, so by the rite of *dīkṣā* men attain the status of the twice-born.”
+
+**The time for *dīkṣā*.** (*Tattva-sāgara*): “When the rare chance comes of meeting a true guru even once, and his consent has been obtained, that is the great occasion for *dīkṣā*. Whether in a village or in the forest, in a holy place, by day or by night — when by providence the guru comes, then *dīkṣā* [is taken] at his command. Whenever the desire arises, then is *dīkṣā*, in keeping with the guru's command. *Dīkṣā* needs no holy place, no vow, no *homa*, no bathing and no *japa*: it is performed when the true guru has come of his own will.”
+
+**Remembrance at dawn.** “Rising in the *brāhma-muhūrta*, chanting ‘Kṛṣṇa, Kṛṣṇa,’ … having offered praise, glorifying Kṛṣṇa and remembering Him, one should recite this”: “Glory to Him in whom all living beings dwell …” and so on (Bhā. 10.90.48). “I take shelter of Hari, the unborn, eternal Puruṣa, by remembering whom one becomes a vessel of all good.” “… [the *gopīs*,] loudly singing of the Lotus-eyed One …” and so on (Bhā. 10.46.46). “Viṣṇu is always to be remembered and never to be forgotten. All injunctions and prohibitions are servants of these two [rules]” (*Padma Purāṇa*, *Bṛhat-sahasra-nāma-stotra*).
+
+**Morning duties: answering the calls of nature and so on.** “Then, rising at dawn, O lord of men, one should relieve oneself. … One should pass urine and stool far from the dwelling.”
+
+**Cleansing the body.** “One should apply earth once to the genitals and five times to the anus, with water in between; ten times to the left hand and seven to both hands; once to each foot; and three times again to the hands. Thus a householder should cleanse himself until smell and traces are gone.”
+
+***Ācamana*.** “With clear water, free of smell, foam and bubbles, one should perform *ācamana*, and then attentively apply earth again. Having cleansed the feet and sprinkled them once more, one should sip water three times and wipe [the lips] twice.”
+
 ---
 
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
