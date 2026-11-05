@@ -236,6 +236,32 @@ It is not true that anyone who calls himself a brāhmaṇa, or whom ignorant peo
 
 **Wearing *gopī-candana*.** “O bird, one who at the time of death has *gopī-candana* on his arms, forehead, chest and head goes to the world of the Lord where Kamalā dwells — even if he has killed a cow or a child, or killed a brāhmaṇa.” “Messengers, listen: one whose forehead is marked with *gopī-candana* you must carefully avoid from afar, like a blazing fire.”
 
+**Wearing beads.** “Then one should put on garlands offered to Kṛṣṇa — of *tulasī* leaves, of *padmākṣa*, of *tulasī* wood, or of *dhātrī* fruits; and a Vaiṣṇava should also wear ornaments of *tulasī* wood.” *Padmākṣa* means beads of lotus seeds. Let no one mistakenly think that the word *akṣa* means beads of bone or *rudrākṣa*. “Those quibblers of sinful mind who do not wear beads, burned by the fire of Hari's anger, do not return from hell.” “Those on whose necks are beads of *tulasī* and lotus seeds, on whose foreheads the *ūrdhva-puṇḍra* shines, whose upper arms are marked with the conch and the disc — those Vaiṣṇavas quickly purify the world.”
+
+**Gathering *tulasī*.** “Then, having bowed to Mahāviṣṇu and asked His permission, the Vaiṣṇava should gather Śrī Tulasī, and flowers and the like, as prescribed. A man who plucks *tulasī* without having bathed and performs worship is truly an offender, and all that becomes fruitless.” The mantra for gathering: “Tulasī, you are born of nectar and are ever dear to Keśava. For Keśava's sake I gather [your leaves]; be the giver of blessings, beautiful one.” “Having said this and bowed to Tulasī, one should pluck [the leaves] with the right hand.” (When plucking is forbidden:) “O brāhmaṇas, a Vaiṣṇava should never pluck *tulasī* on Dvādaśī.”
+
+**Purifying clothing.** “Soiled cotton cloth is first cleansed with water and alkali; then one dries it in the sun or in the wind and takes it. Wool, silk, fine cloth, linen, *dukūla*, sheep's wool and leather, when slightly impure, are purified by drying, sprinkling and the like. Cloth dyed with safflower, *kuṅkuma* or lac juice is purified by washing — and likewise after the touch of a *caṇḍāla*.”
+
+**Purifying the seat.** “One who rubs Kṛṣṇa's footstool with a *bilva* leaf and washes it with hot water is freed from all sins.”
+
+**Purifying the house.** “Having performed *ācamana* and so on, one should clean Viṣṇu's temple; looking at Kṛṣṇa and glorifying Him, one should give oneself to Him in service. Then, taking pure cow dung, clay and water, one should with devotion smear all around the temple and sprinkle its courtyard.” “He engaged his mind on Kṛṣṇa's lotus feet, his words in describing the qualities of Vaikuṇṭha, his hands in cleaning Hari's temple and the like, and his ears in hearing the holy narrations of Acyuta.”[^328-1] “Sweeping, smearing, sprinkling and drawing *maṇḍalas* — service to My house like a servant, without guile.”[^328-2]
+
+**Awakening Kṛṣṇa.** “Then, going to the temple, to the sound of bells and the like, one should awaken Kṛṣṇa with hymns, perform *nīrājana* and pray thus: ‘O Lord, who removes the distress of the surrendered, be gracious, O Keśava! Grant me Your glance and protect me once more, O Acyuta.’”
+
+## 329
+
+Another reading: “Five, ten, sixteen — the service of *cau-ghana*; worship with sixty-four, sixteen, ten and five offerings.”
+
+**The five offerings:** (1) fragrance, (2) flowers, (3) incense, (4) the lamp and (5) *naivedya*.
+
+**The sixteen offerings:** (1) the seat, (2) welcome (asking after His well-being), (3) *arghya*, (4) water for washing the feet, (5) water for *ācamana*, (6) *madhuparka*, (7) *ācamana*, (8) bathing, (9) clothing, (10) ornaments, (11) fragrance, (12) flowers, (13) incense, (14) the lamp, (15) *naivedya* and (16) obeisance and prayer (*vandanā*).
+
+**The fifty offerings.** The *Hari-bhakti-vilāsa* does not speak of fifty offerings; but if fourteen of the sixty-four are left out, there could be fifty. There is no way, however, to determine which fourteen are to be left out.
+
+**The ten offerings:** (1) *arghya*, (2) water for washing the feet, (3) *ācamana*, (4) *madhuparka*, (5) *ācamana*, (6) fragrance, (7) flowers, (8) incense, (9) the lamp and (10) *naivedya*.
+
+**The sixty-four offerings.** *Cau-ghana* means “sixty-four”: (1) awakening with the sound of instruments and with hymns, (2) the cry of “*jaya*,” (3) obeisance, (4) *maṅgala-ārati*, (5) the seat, (6) the tooth-stick, (7) water for washing the feet, (8) *arghya*, (9) *ācamana*, (10) *ācamana* with *madhuparka*, (11) offering sandals, (12) rubbing the body, (13) anointing with oil, (14) removing the oil and so on, (15) bathing in water with fragrant flowers, (16) bathing with milk, (17) bathing with yogurt, (18) bathing with ghee, (19) bathing with honey, (20) bathing with sugar, (21) bathing with water consecrated by mantras, (22) a towel,
+
 ---
 
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
@@ -259,3 +285,7 @@ It is not true that anyone who calls himself a brāhmaṇa, or whom ignorant peo
 [^327-3]: *Ṛg-veda* 10.190.1–3.
 
 [^327-4]: *Śrīmad-Bhāgavatam* 10.80.34.
+
+[^328-1]: *Śrīmad-Bhāgavatam* 9.4.18.
+
+[^328-2]: *Śrīmad-Bhāgavatam* 11.11.39.
