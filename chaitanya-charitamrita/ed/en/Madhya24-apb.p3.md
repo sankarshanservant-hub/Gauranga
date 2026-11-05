@@ -41,3 +41,7 @@ Tell us: now that Kṛṣṇa — the Lord of yoga, Brahmaṇyadeva, the very ar
 ## 316
 
 Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge and the rest, this sun among the Purāṇas has risen for the good of people stricken by Kali, who have lost their sight.
+
+## 320
+
+“*Nīca-jāti*”: Sanātana said, “I am of the brāhmaṇa caste, but I have fallen through association with *mlecchas*.”

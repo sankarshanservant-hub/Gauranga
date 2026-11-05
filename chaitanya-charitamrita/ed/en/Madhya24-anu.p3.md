@@ -162,6 +162,26 @@ In Naimiṣāraṇya the sages headed by Śaunaka put six questions to the *mah�
 
 *Vaiṣṇava-smṛti*: the book *Śrī Hari-bhakti-vilāsa*, the code of rules for the worldly conduct of Vaiṣṇavas.
 
+## 320
+
+Origin (*jāti*) is of three kinds: *śaukra* (by seed), *sāvitra* (by Sāvitrī) and *daikṣa* (by initiation). Śrī Sanātana appeared in a pure family of Karṇāṭa brāhmaṇas, but in worldly eyes serving a *mleccha* is in itself a sign of low origin. Nowadays only birth by seed is known as *jāti*; in fact this only betrays ignorance.
+
+## 321
+
+*Diśā*: the method.
+
+## 323
+
+> Subheading: The Lord blesses Sanātana —
+
+## 324
+
+> Subheading: The Lord sets out the *sūtras* of the *Vaiṣṇava-smṛti* and lays the foundation of the *Hari-bhakti-vilāsa* —
+
+Another reading is “*sarva-kāraṇa*,” that is, the cause of all. On taking shelter of the guru, see Ādi 1.35 and 1.46.
+
+In the first *vilāsa* of the *Śrī Hari-bhakti-vilāsa* it is said: “First one should describe why [one must take shelter of a guru], and then taking shelter of Śrī Guru; the testing of guru and disciple and so on; Bhagavān and His mantras; who is qualified for a mantra; examining a mantra for *siddhi* and so on; the rites of purifying a mantra; *dīkṣā*; rising auspiciously every day in the *brāhma-muhūrta*; purity; remembrance at dawn and so on; awakening Kṛṣṇa with the sound of instruments and so on; first removing the *nirmālya* and so on, then the *maṅgala-ārati*; answering the calls of nature and so on, cleansing and *ācamana*, cleaning the teeth; bathing, the Tantric *sandhyā* and so on, cleaning the temple and so on; gathering *tulasī* and the like, bathing at home, hot water and so on; clothing, seat, *ūrdhva-puṇḍra*, Śrī *gopī-candana* and so on; the marks of the disc and the other symbols, beads; worship at home at the *sandhyā*; the glory of the guru, and then the glory of Kṛṣṇa; worship at the temple door and inside it; the seat for *pūjā*, setting out the *arghya* and so on, warding off obstacles; bowing to Śrī Guru and others, *bhūta-śuddhi*, purifying the *prāṇa*; the *nyāsas* and the five *mudrās*; meditation on Kṛṣṇa and inner worship; the objects of worship — the Śrī Mūrti, *śālagrāma-śilās* and the discs from Dvārakā; purifications; worship of [the Lord's] seat; invocation and so on and the corresponding *mudrās*; offering the seat and so on; bathing [the Lord], sounding the conch, the bell and so on, the thousand names, reading the Purāṇas; garments, the sacred thread, ornaments; fragrance, sandalwood paste of Śrī Tulasī wood, flowers, leaves and *tulasī*; worship of the *aṅga*, *upāṅga* and *āvaraṇa*; incense, the lamp, *naivedya*, drink, *homa*, *bali*; rinsing the mouth and so on, betel, divine fragrance and so on once more; the royal offerings, singing and so on, and also the *mahā-nīrājana*; sounding the conch and so on, *nīrājana* with a conch filled with water; hymns, obeisances, circumambulation, offering [to the Lord] one's actions and so on, *japa* and prayer; begging pardon for offenses, the various offenses; accepting the *nirmālya*; the holy water from the conch, the worship of *tulasī*, her earth and so on; the *dhātrī*; the times when bathing is forbidden; earning one's livelihood; at midday the *vaiśvadeva* and so on, the *śrāddha*, and what may not be offered to Acyuta; the faults of eating without worship and of eating food not offered [to the Lord]; partaking of *naivedya*; sādhus, the company of sādhus and avoiding the company of non-sādhus; the fate of non-sādhus, the evil fruits of mocking Vaiṣṇavas, blaspheming them and so on; the true[^324-1] scriptures of *bhakti* and of Viṣṇu, and the *Śrīmad-Bhāgavatam*; narrations of the pastimes and the *dharma* of Bhagavān; the evening duties; how to avoid lapses in duty; especially, worship three times a day; then the night duties; how one sees the fruit of worship, *siddhi* and so on; gifts for Viṣṇu's sake, various offerings, making up what is lacking; putting [the Lord] to rest; the glory of [Deity] worship and also the wondrous [glory] of the holy name; offenses against the name, *bhakti*, *prema*, then taking shelter and so on; the Ekādaśī of each fortnight with all its parts; the eight great Dvādaśīs; the duties in all twelve months beginning with Mārgaśīrṣa; the rites of *puraścaraṇa*; the marks of one perfect in a mantra; manifesting a *mūrti*, installing a *mūrti*; Kṛṣṇa's temple; restoring what has decayed; the wedding of Śrī Tulasī; and the exclusive duties (*ananya-karma*).”
+
 ---
 
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
@@ -169,3 +189,5 @@ In Naimiṣāraṇya the sages headed by Śaunaka put six questions to the *mah�
 [^314-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
 
 [^314-3]: *Bhagavad-gītā* 4.34.
+
+[^324-1]: *Satyaṁ*, as the edition prints it; the rendering is tentative.
