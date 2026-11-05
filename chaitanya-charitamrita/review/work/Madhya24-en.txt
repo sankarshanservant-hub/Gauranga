@@ -1382,7 +1382,7 @@ w: half-killed  you make  why  not  you take  life
 tr: Nārada said, “If you shoot living beings with your arrows, why do you leave them half-dead instead of taking their lives?”
 
 ## 236
-w: the hunter  says  listen  O gosāñi  Mṛgāri  my  name
+w: the hunter  says  listen  O Gosāñi  Mṛgāri  my  name
 w: of the father  by the teaching  I  do  such  work
 tr: The hunter replied, “Listen, Gosāñi: my name is Mṛgāri, ‘enemy of the beasts.’ I do this work just as my father taught me.
 
