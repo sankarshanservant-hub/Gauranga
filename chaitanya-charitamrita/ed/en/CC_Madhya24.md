@@ -665,190 +665,248 @@ of the word hari  this  chief  I have told  characteristic
 যেই অর্থ লাগাইয়ে, সেই অর্থ হয় ॥ ৬১ ॥
 
 ‘ca’, ‘api’ — dui śabda tāte ‘avyaya’ haya  
-yei artha lāgāiye, sei artha haya
+ca  api  two  words  among them  indeclinables  are  
+yei artha lāgāiye, sei artha haya  
+whatever  meaning  one applies  that  meaning  it becomes
 
-(61) [not yet translated]
+(61) The two words *ca* and *api* are indeclinables (*avyaya*): whatever meaning one applies to them, that meaning they take.
 
 তথাপি চ-কারের কহে মুখ্য অর্থ সাত ৷  
 অপি-শব্দে মুখ্য অর্থ সাত বিখ্যাত ॥ ৬২ ॥
 
 tathāpi ca-kārera kahe mukhya artha sāta  
-api-śabde mukhya artha sāta vikhyāta
+still  of the word ca  they give  chief  meanings  seven  
+api-śabde mukhya artha sāta vikhyāta  
+of the word api  chief  meanings  seven  well known
 
-(62) [not yet translated]
+(62) Still, seven chief meanings of *ca* are given, and the word *api* has seven well-known chief meanings.
 
 চান্বাচয়ে সমাহারেঽন্যোঽন্যার্থে চ সমুচ্চয়ে ৷  
 যত্নান্তরে তথা পাদপূরণেঽপ্যবধারণে ॥ ৬৩ ॥
 
 cānvācaye samāhāre  
+ca  in the sense of adding a secondary item  of combining into a whole  
 ‘nyo ‘nyārthe ca samuccaye  
+of reciprocity  in the sense  and  of conjunction  
 yatnāntare tathā pāda-  
-pūraṇe ‘py avadhāraṇe
+of another effort  likewise  of the foot of a verse  
+pūraṇe ‘py avadhāraṇe  
+of filling  also  of certainty
 
-(63) [not yet translated]
+(63) “*Ca* is used in the senses of *anvācaya* (adding a secondary item), *samāhāra* (combining into a whole), *anyonya* (reciprocity), *samuccaya* (conjunction), *yatnāntara* (another effort), *pāda-pūraṇa* (filling out the foot of a verse) and *avadhāraṇa* (certainty).” (Viśva-prakāśa)
 
 অপি সম্ভাবনা-প্রশ্ন-শঙ্কা-গর্হা-সমুচ্চয়ে ৷  
 তথা যুক্তপদার্থেষু কামচারক্রিয়াসু চ ॥ ৬৪ ॥
 
 api sambhāvanā-praśna-  
+api  of possibility  of question  
 śaṅkā-garhā-samuccaye  
+of doubt  of censure  of conjunction (in the senses)  
 tathā yukta-padārtheṣu  
-kāma-cāra-kriyāsu ca
+likewise  in fitting application  
+kāma-cāra-kriyāsu ca  
+in actions at will  and
 
-(64) [not yet translated]
+(64) “*Api* is used in the senses of *sambhāvanā* (possibility), *praśna* (question), *śaṅkā* (doubt), *garhā* (censure) and *samuccaya* (conjunction), as well as for fitting application (*yukta-padārtha*) and for action at will (*kāmacāra-kriyā*).” (Viśva-prakāśa)
 
 এই ত’ একাদশ পদের অর্থ-নির্ণয় ৷  
 এবে শ্লোকার্থ করি, যথা যে লাগয় ॥ ৬৫ ॥
 
 ei ta’ ekādaśa padera artha-nirṇaya  
-ebe ślokārtha kari, yathā ye lāgaya
+this  indeed  of the eleven  words  of the meanings  the determination  
+ebe ślokārtha kari, yathā ye lāgaya  
+now  the meaning of the verse  I shall give  as  whatever  fits
 
-(65) [not yet translated]
+(65) Thus the meanings of the eleven words have been determined. Now I shall give the meaning of the verse, applying each meaning as it fits.
 
 ‘ব্রহ্ম’-শব্দের অর্থ — তত্ত্ব সর্ব্ব-বৃহত্তম ৷  
 স্বরূপ-ঐশ্বর্য্য করি’ নাহি যাঁর সম ॥ ৬৬ ॥
 
-‘brahma’ śabdera artha — tattva sarva-bṛhattama  
-svarūpa aiśvarya kari’ nāhi yāṅra sama
+‘brahma’-śabdera artha — tattva sarva-bṛhattama  
+of the word brahma  the meaning  the truth  of all  the greatest  
+svarūpa-aiśvarya kari’ nāhi yāṅra sama  
+in nature  in majesty  by  there is no  whose  equal
 
-(66) [not yet translated]
+(66) The word *brahma* means the Truth that is greater than all; in His own nature and majesty no one is His equal.
 
 বৃহত্ত্বাদ্বৃংহণত্বাচ্চ তদ্ব্রহ্ম পরমং বিদুঃ ৷  
 তস্মৈ নমস্তে সর্ব্বাত্মন্ যোগিচিন্ত্যাবিকারবৎ ॥ ৬৭ ॥
 
 bṛhattvād bṛṁhaṇatvāc ca  
+because of greatness  because of the power to nourish  and  
 tad brahma paramaṁ viduḥ  
+that  as Brahman  supreme  they know  
 tasmai namas te sarvātman  
-yogi-cintyāvikāravat
+to Him  obeisance  to You  O Soul of all  
+yogi-cintyāvikāravat  
+by the yogīs  meditated upon  unchanging
 
-(67) [not yet translated]
+(67) “Because of His greatness (*bṛhattva*) and His power to nourish and expand all (*bṛṁhaṇatva*), the wise know Him as the Supreme Brahman. O Soul of all, unchanging One on whom the *yogīs* meditate, obeisance unto You.” (Viṣṇu Purāṇa, 1.12.57)
 
 আততত্বাচ্চ মাতৃত্বাদাত্মা হি পরমো হরিঃ ॥ ৬৮ ॥
 
 ātatatvāc ca mātṛtvād  
-ātmā hi paramo hariḥ
+because of pervading all  and  because of being the progenitor of all  
+ātmā hi paramo hariḥ  
+Ātmā  indeed  supreme  Hari
 
-(68) [not yet translated]
+(68) “Because He pervades all (*ātatatva*) and is the progenitor of all (*mātṛtva*), Hari is the Supreme Ātmā.” (Bhāvārtha-dīpikā)
 
 সেই ব্রহ্ম-শব্দে কহে স্বয়ং ভগবান্ ৷  
 অদ্বিতীয়-জ্ঞান, যাঁহা বিনা নাহি আন ॥ ৬৯ ॥
 
 sei brahma-śabde kahe svayaṁ bhagavān  
-advitīya-jñāna, yāṅhā vinā nāhi āna
+by that  the word brahma  is meant  Svayam  Bhagavān  
+advitīya-jñāna, yāṅhā vinā nāhi āna  
+non-dual knowledge  whom  without  there is not  anything else
 
-(69) [not yet translated]
+(69) That word *brahma* means Svayam Bhagavān, the Lord Himself, the non-dual Knowledge, without whom nothing else exists.
 
 বদন্তি তত্তত্ত্ববিদস্তত্ত্বং যজ্জ্ঞানমদ্বয়ম্ ৷  
 ব্রহ্মেতি পরমাত্মেতি ভগবানিতি শব্দ্যতে ॥ ৭০ ॥
 
 vadanti tat tattva-vidas  
+they call  that  of truth  the knowers  
 tattvaṁ yaj jñānam advayam  
+the Truth  which  knowledge  non-dual  
 brahmeti paramātmeti  
-bhagavān iti śabdyate
+Brahman  thus  Paramātmā  thus  
+bhagavān iti śabdyate  
+Bhagavān  thus  is named
 
-(70) [not yet translated]
+(70) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)
 
 সেই অদ্বয়-তত্ত্ব কৃষ্ণ — স্বয়ং ভগবান্ ৷  
 তিনকালে সত্য তিঁহো, শাস্ত্র-প্রমাণ ॥ ৭১ ॥
 
 sei advaya-tattva kṛṣṇa — svayaṁ bhagavān  
-tina-kāle satya tiṅho — śāstra-pramāṇa
+that  non-dual Truth  Kṛṣṇa  Svayam  Bhagavān  
+tina-kāle satya tiṅho, śāstra-pramāṇa  
+in the three times  real  He  of the scriptures  the evidence
 
-(71) [not yet translated]
+(71) That non-dual Truth is Kṛṣṇa, Svayam Bhagavān. He is real in all three phases of time; the scriptures are the evidence.
 
 অহমেবাসমেবাগ্রে নান্যদ্যৎ সদসৎপরম্ ৷  
 পশ্চাদহং যদেতচ্চ যোঽবশিষ্যেত সোঽস্ম্যহম্ ॥ ৭২ ॥
 
 aham evāsam evāgre  
+I  alone  was  indeed  before (creation)  
 nānyad yat sad-asat-param  
+nothing else  which  effect  cause  beyond  
 paścād ahaṁ yad etac ca  
-yo ‘vaśiṣyeta so ‘smy aham
+afterwards  I  what  this (world)  also  
+yo ‘vaśiṣyeta so ‘smy aham  
+what  remains  that  am  I
 
-(72) [not yet translated]
+(72) “Before creation I alone existed; there was nothing else — neither effect, nor cause, nor That which is beyond them. After creation this whole world is not other than Me, and what remains after its dissolution is also I.” (Śrīmad-Bhāgavatam, 2.9.33)
 
 ‘আত্মা’-শব্দে কহে কৃষ্ণ বৃহত্ত্বস্বরূপ ৷  
 সর্ব্বব্যাপক, সর্ব্বসাক্ষী, পরমস্বরূপ ॥ ৭৩ ॥
 
 ‘ātmā’-śabde kahe kṛṣṇa bṛhattva-svarūpa  
-sarva-vyāpaka, sarva-sākṣī, parama-svarūpa
+by the word ātmā  is meant  Kṛṣṇa  whose nature is greatness  
+sarva-vyāpaka, sarva-sākṣī, parama-svarūpa  
+all-pervading  witness of all  the supreme  form
 
-(73) [not yet translated]
+(73) By the word *ātmā* is meant Kṛṣṇa, whose very nature is greatness: He pervades all, witnesses all, and is the supreme form.
 
 আততত্বাচ্চ মাতৃত্বাদাত্মা  
 হি পরমো হরিঃ ॥ ৭৪ ॥
 
 ātatatvāc ca mātṛtvād ātmā  
-hi paramo hariḥ
+because of pervading all  and  because of being the progenitor of all  Ātmā  
+hi paramo hariḥ  
+indeed  supreme  Hari
 
-(74) [not yet translated]
+(74) “Because He pervades all and is the progenitor of all, Hari is the Supreme Ātmā.” (Bhāvārtha-dīpikā)
 
 সেই কৃষ্ণপ্রাপ্তি-হেতু ত্রিবিধ ‘সাধন’ ৷  
 জ্ঞান, যোগ, ভক্তি, — তিনের পৃথক্ লক্ষণ ॥ ৭৫ ॥
 
 sei kṛṣṇa-prāpti-hetu trividha ‘sādhana’  
-jñāna, yoga, bhakti, — tinera pṛthak lakṣaṇa
+of that  Kṛṣṇa  attainment  for the sake of  three kinds of  sādhana  
+jñāna, yoga, bhakti, — tinera pṛthak lakṣaṇa  
+jñāna  yoga  bhakti  of the three  separate  characteristics
 
-(75) [not yet translated]
+(75) For attaining that Kṛṣṇa there are three kinds of *sādhana* — *jñāna*, *yoga* and *bhakti* — each with its own characteristics.
 
 তিন সাধনে ভগবান্ তিন স্বরূপে ভাসে ৷  
 ব্রহ্ম, পরমাত্মা, ভগবত্তা, — ত্রিবিধ প্রকাশে ॥ ৭৬ ॥
 
 tina sādhane bhagavān tina svarūpe bhāse  
-brahma, paramātmā, bhagavattā, — trividha prakāśe
+in the three  sādhanas  Bhagavān  in three  forms  appears  
+brahma, paramātmā, bhagavattā, — trividha prakāśe  
+Brahman  Paramātmā  Bhagavān Himself  in three ways  is manifest
 
-(76) [not yet translated]
+(76) Through the three *sādhanas* Bhagavān appears in three forms: He is manifest as Brahman, as Paramātmā and as Bhagavān Himself.
 
 বদন্তি তত্তত্ত্ববিদস্তত্ত্বং যজ্জ্ঞানমদ্বয়ম্ ৷  
 ব্রহ্মেতি পরমাত্মেতি ভগবানিতি শব্দ্যতে ॥ ৭৭ ॥
 
 vadanti tat tattva-vidas  
+they call  that  of truth  the knowers  
 tattvaṁ yaj jñānam advayam  
+the Truth  which  knowledge  non-dual  
 brahmeti paramātmeti  
-bhagavān iti śabdyate
+Brahman  thus  Paramātmā  thus  
+bhagavān iti śabdyate  
+Bhagavān  thus  is named
 
-(77) [not yet translated]
+(77) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)
 
 ‘ব্রহ্ম-আত্মা’-শব্দে যদি কৃষ্ণেরে কহয় ৷  
 ’রূঢ়িবৃত্ত্যে’ নির্ব্বিশেষ অন্তর্য্যামী কয় ॥ ৭৮ ॥
 
-’brahma-ātmā’ śabde yadi kṛṣṇere kahaya  
-’rūḍhi-vṛttye’ nirviśeṣa antaryāmī kaya
+‘brahma-ātmā’-śabde yadi kṛṣṇere kahaya  
+by the words brahma and ātmā  though  Kṛṣṇa  they denote  
+‘rūḍhi-vṛttye’ nirviśeṣa antaryāmī kaya  
+by conventional usage  the featureless  the indwelling Lord  they denote
 
-(78) [not yet translated]
+(78) Though the words *brahma* and *ātmā* denote Kṛṣṇa, in their conventional usage (*rūḍhi-vṛtti*) they mean the featureless Brahman and the indwelling Lord (Antaryāmī).
 
 জ্ঞানমার্গে — নির্ব্বিশেষ-ব্রহ্ম প্রকাশে ৷  
 যোগমার্গে — অন্তর্য্যামী-স্বরূপেতে ভাসে ॥ ৭৯ ॥
 
 jñāna-mārge — nirviśeṣa-brahma prakāśe  
-yoga-mārge — antaryāmi-svarūpete bhāse
+on the path of knowledge  the featureless  Brahman  is manifest  
+yoga-mārge — antaryāmi-svarūpete bhāse  
+on the path of yoga  of the indwelling Lord  in the form  He appears
 
-(79) [not yet translated]
+(79) On the path of knowledge He is manifest as the featureless Brahman; on the path of *yoga* He appears in the form of the Antaryāmī, the indwelling Lord.
 
 রাগভক্তি, বিধিভক্তি হয় দুইরূপ ৷  
 ‘স্বয়ংভগবান্’, ‘ভগবান্’ — দুই ত’ ‘স্বরূপ’ ॥ ৮০ ॥
 
 rāga-bhakti, vidhi-bhakti haya dui-rūpa  
-‘svayaṁbhagavān’, ‘bhagavān’ — dui ta’ ‘svarūpa’
+rāga-bhakti  vidhi-bhakti  are  of two kinds  
+‘svayaṁbhagavān’, ‘bhagavān’ — dui ta’ ‘svarūpa’  
+Svayam Bhagavān  Bhagavān  two  indeed  forms
 
-(80) [not yet translated]
+(80) Devotion is of two kinds, *rāga-bhakti* and *vidhi-bhakti*; and the Lord’s forms are two: Svayam Bhagavān, the Lord Himself, and Bhagavān.
 
 রাগভক্ত্যে ব্রজে স্বয়ং-ভগবানে পায় ৷  
 বিধিভক্ত্যে পার্ষদ-দেহে বৈকুণ্ঠকে যায় ॥ ৮১ ॥
 
-rāga-bhaktye vraje svayaṁ bhagavāne pāya  
-vidhi-bhaktye pārṣada-dehe vaikuṇṭhete yāya
+rāga-bhaktye vraje svayaṁ-bhagavāne pāya  
+by rāga-bhakti  in Vraja  Svayam Bhagavān  one attains  
+vidhi-bhaktye pārṣada-dehe vaikuṇṭhake yāya  
+by vidhi-bhakti  of an associate  in the body  to Vaikuṇṭha  one goes
 
-(81) [not yet translated]
+(81) By *rāga-bhakti* one attains Svayam Bhagavān in Vraja; by *vidhi-bhakti* one goes to Vaikuṇṭha in the body of an associate (*pārṣada*).
 
 নায়ং সুখাপো ভগবান্ দেহিনাং গোপিকাসুতঃ ৷  
 জ্ঞানিনাঞ্চাত্মভূতানাং যথা ভক্তিমতামিহ ॥ ৮২ ॥
 
 nāyaṁ sukhāpo bhagavān  
+not  this  easily attained  Bhagavān  
 dehināṁ gopikā-sutaḥ  
+for the embodied  of the gopī  the son  
 jñānināṁ cātma-bhūtānāṁ  
-yathā bhaktimatām iha
+for the jñānīs  and  for those who realized the self  
+yathā bhaktimatām iha  
+as  for those who have devotion  here
 
-(82) [not yet translated]
+(82) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
 
 যচ্চ ব্রজন্ত্যনিমিষামৃষভানুবৃত্ত্যা  
 দূরে-যমা হ্যুপরি নঃ স্পৃহণীয়শীলাঃ ৷  
@@ -856,104 +914,137 @@ yathā bhaktimatām iha
 বৈক্লব্যবাষ্পকলয়া পুলকীকৃতাঙ্গাঃ ॥ ৮৩ ॥
 
 yac ca vrajanty animiṣām ṛṣabhānuvṛttyā  
+to which  and  they go  of the gods  the Lord  by following  
 dūre-yamā hy upari naḥ spṛhaṇīya-śīlāḥ  
+far away (have left) yama  indeed  above  us  desirable  in nature  
 bhartur mithaḥ su-yaśasaḥ kathanānurāga-  
-vaiklavya-bāṣpa-kalayā pulakī-kṛtāṅgāḥ
+of their Lord  together  the glorious  from speaking  of anurāga  
+vaiklavya-bāṣpa-kalayā pulakī-kṛtāṅgāḥ  
+of the agitation  of tears  by the drops  thrilling with rapture  in their limbs
 
-(83) [not yet translated]
+(83) “Those whose limbs thrill with rapture and are wet with tears of loving agitation as they speak together of the glories of their Lord; who follow the Lord of the gods and have left *yama* and the other disciplines far behind; whose nature we ourselves long to have — they go to Vaikuṇṭha, which is above us.” (Śrīmad-Bhāgavatam, 3.15.25)
 
 সেই উপাসক হয় ত্রিবিধ প্রকার ৷  
 অকাম, মোক্ষকাম, সর্ব্বকাম আর ॥ ৮৪ ॥
 
 sei upāsaka haya trividha prakāra  
-akāma, mokṣa-kāma, sarva-kāma āra
+these  worshippers  are  of three  kinds  
+akāma, mokṣa-kāma, sarva-kāma āra  
+without desire  desiring liberation  with every desire  and
 
-(84) [not yet translated]
+(84) These worshippers are of three kinds: those without desire (*akāma*), those who desire liberation (*mokṣa-kāma*) and those who have every kind of desire (*sarva-kāma*).
 
 অকামঃ সর্ব্বকামো বা মোক্ষকাম উদারধীঃ ৷  
 তীব্রেণ ভক্তিযোগেন যজেত পুরুষং পরম্ ॥ ৮৫ ॥
 
 akāmaḥ sarva-kāmo vā  
+without desire  full of all desires  or  
 mokṣa-kāma udāra-dhīḥ  
+desiring liberation  of broad intelligence  
 tīvreṇa bhakti-yogena  
-yajeta puruṣaṁ param
+with intense  bhakti-yoga  
+yajeta puruṣaṁ param  
+should worship  the Person  Supreme
 
-(85) [not yet translated]
+(85) “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)
 
 বুদ্ধিমান্ অর্থে — যদি ‘বিচারজ্ঞ’ হয় ৷  
 নিজ-কাম লাগিহ তবে কৃষ্ণেরে ভজয় ॥ ৮৬ ॥
 
-buddhimān-arthe — yadi ‘vicāra-jña’ haya  
-nija-kāma lāgiha tabe kṛṣṇere bhajaya
+buddhimān arthe — yadi ‘vicāra-jña’ haya  
+intelligent  in the sense  if  discerning  he is  
+nija-kāma lāgiha tabe kṛṣṇere bhajaya  
+of his own desire  for the sake even  then  Kṛṣṇa  he worships
 
-(86) [not yet translated]
+(86) *Udāra-dhīḥ* means intelligent: if a person can discern, then even for the sake of his own desires he worships Kṛṣṇa.
 
 ভক্তি বিনা কোন সাধন দিতে নারে ফল ৷  
 সব ফল দেয় ভক্তি স্বতন্ত্র প্রবল ॥ ৮৭ ॥
 
-bhakti vinā kona sādhana dite nāre phala
+bhakti vinā kona sādhana dite nāre phala  
+bhakti  without  any  sādhana  to give  cannot  fruit  
+saba phala deya bhakti svatantra prabala  
+all  fruits  gives  bhakti  independent  powerful
 
-(87) [not yet translated]
+(87) Without *bhakti* no *sādhana* can give its fruit. *Bhakti*, independent and powerful, gives every fruit.
 
 অজাগলস্তন-ন্যায় অন্য সাধন ৷  
 অতএব হরি ভজে বুদ্ধিমান্ জন ॥ ৮৮ ॥
 
 ajā-gala-stana-nyāya anya sādhana  
-ataeva hari bhaje buddhimān jana
+of a goat  on the neck  of the teats  like  other  sādhanas  
+ataeva hari bhaje buddhimān jana  
+therefore  Hari  worships  intelligent  person
 
-(88) [not yet translated]
+(88) Other *sādhanas* are like the teats on a goat’s neck. Therefore an intelligent person worships Hari.
 
 চতুর্বিধা ভজন্তে মাং জনাঃ সুকৃতিনোঽর্জ্জুন ৷  
 আর্ত্তো জিজ্ঞাসুরর্থার্থী জ্ঞানী চ ভরতর্ষভ ॥ ৮৯ ॥
 
 catur-vidhā bhajante māṁ  
+of four kinds  worship  Me  
 janāḥ sukṛtino ‘rjuna  
+people  pious  O Arjuna  
 ārto jijñāsur arthārthī  
-jñānī ca bharatarṣabha
+the distressed  the inquisitive  the seeker of wealth  
+jñānī ca bharatarṣabha  
+the one with knowledge  and  O best of the Bhāratas
 
-(89) [not yet translated]
+(89) “O Arjuna, best of the Bhāratas, four kinds of pious people worship Me: the distressed, the inquisitive, the seeker of wealth, and the one who has knowledge.” (Bhagavad-gītā, 7.16)
 
 আর্ত্ত, অর্থার্থী, — দুই সকাম-ভিতরে গণি ৷  
 জিজ্ঞাসু, জ্ঞানী, — দুই মোক্ষকাম মানি ॥ ৯০ ॥
 
 ārta, arthārthī, — dui sakāma-bhitare gaṇi  
-jijñāsu, jñānī, — dui mokṣa-kāma māni
+the distressed  the seeker of wealth  two  among those with desires  I count  
+jijñāsu, jñānī, — dui mokṣa-kāma māni  
+the inquisitive  the one with knowledge  two  as desiring liberation  I regard
 
-(90) [not yet translated]
+(90) The distressed and the seeker of wealth I count among those with desires (*sakāma*); the inquisitive and the one who has knowledge I regard as desirous of liberation (*mokṣa-kāma*).
 
 এই চারি সুকৃতি হয় মহাভাগ্যবান্ ৷  
 তত্তৎকামাদি ছাড়ি, হয় শুদ্ধভক্তিমান্ ॥ ৯১ ॥
 
 ei cāri sukṛti haya mahā-bhāgyavān  
-tat-tat-kāmādi chāḍi’ haya śuddha-bhaktimān
+these  four  pious ones  are  greatly fortunate  
+tat-tat-kāmādi chāḍi, haya śuddha-bhaktimān  
+their respective  desires and so on  giving up  become  possessed of pure devotion
 
-(91) [not yet translated]
+(91) These four pious ones are greatly fortunate. Giving up their respective desires, they come to possess pure devotion.
 
 সাধুসঙ্গ-কৃপা কিম্বা কৃষ্ণের কৃপায় ৷  
 কামাদি ‘দুঃসঙ্গ’ ছাড়ি’ শুদ্ধভক্তি পায় ॥ ৯২ ॥
 
 sādhu-saṅga-kṛpā kimvā kṛṣṇera kṛpāya  
-kāmādi ‘duḥsaṅga’ chāḍi’ śuddha-bhakti pāya
+of the company of saints  by the mercy  or  Kṛṣṇa’s  by the mercy  
+kāmādi ‘duḥsaṅga’ chāḍi’ śuddha-bhakti pāya  
+desires and so on  bad company  giving up  pure devotion  they attain
 
-(92) [not yet translated]
+(92) By the mercy of the company of saints, or by Kṛṣṇa’s mercy, they give up the “bad company” of desires and the like and attain pure devotion.
 
 সৎসঙ্গান্মুক্ত-দুঃসঙ্গো হাতুং নোৎসহতে বুধঃ ৷  
 কীর্ত্ত্যমানং যশো যস্য সকৃদাকর্ণ্য রোচনম্ ॥ ৯৩ ॥
 
 sat-saṅgān mukta-duḥsaṅgo  
+through the company of saints  freed from bad company  
 hātuṁ notsahate budhaḥ  
+to give up  is not able  the wise one  
 kīrtyamānaṁ yaśo yasya  
-sakṛd ākarṇya rocanam
+being sung  the glory  of whom  
+sakṛd ākarṇya rocanam  
+once  having heard  captivating
 
-(93) [not yet translated]
+(93) “A wise person who has been freed from bad company through the company of saints can never give up the captivating glory of the Lord once he has heard it sung.” (Śrīmad-Bhāgavatam, 1.10.11)
 
 ’দুঃসঙ্গ’ কহিয়ে — ‘কৈতব’, — ‘আত্মবঞ্চনা’ ৷  
 কৃষ্ণ, কৃষ্ণভক্তি বিনা অন্য কামনা ॥ ৯৪ ॥
 
-’duḥsaṅga’ kahiye — ‘kaitava’, ‘ātma-vañcanā’  
-kṛṣṇa, kṛṣṇa-bhakti vinā anya kāmanā
+‘duḥsaṅga’ kahiye — ‘kaitava’, — ‘ātma-vañcanā’  
+bad company  I call  deceit  self-deception  
+kṛṣṇa, kṛṣṇa-bhakti vinā anya kāmanā  
+than Kṛṣṇa  devotion to Kṛṣṇa  other  desire
 
-(94) [not yet translated]
+(94) By “bad company” I mean deceit (*kaitava*), self-deception: the desire for anything other than Kṛṣṇa and devotion to Kṛṣṇa.
 
 ধর্ম্মঃ প্রোজ্ঝিত-কৈতবোঽত্র পরমো নির্ম্মৎসরাণাং সতাং  
 বেদ্যং বাস্তবমত্র বস্তু শিবদং তাপত্রয়োন্মূলনম্ ৷  
@@ -961,11 +1052,15 @@ kṛṣṇa, kṛṣṇa-bhakti vinā anya kāmanā
 সদ্যো হৃদ্যবরুধ্যতেঽত্র কৃতিভিঃ শুশ্রূষুভিস্তৎক্ষণাৎ ॥ ৯৫ ॥
 
 dharmaḥ projjhita-kaitavo ‘tra paramo nirmatsarāṇāṁ satāṁ  
+dharma  wholly-cast-out  deceit  here  supreme  of the non-envious  of the saints  
 vedyaṁ vāstavam atra vastu śiva-daṁ tāpa-trayonmūlanam  
+to be known  real  here  substance  bestowing good  the threefold miseries  uprooting  
 śrīmad-bhāgavate mahā-muni-kṛte kiṁ vā parair īśvaraḥ  
-sadyo hṛdy avarudhyate ‘tra kṛtibhiḥ śuśrūṣubhis tat-kṣaṇāt
+in the beautiful Bhāgavata  by the great sage  composed  what  by others?  the Lord  
+sadyo hṛdy avarudhyate ‘tra kṛtibhiḥ śuśrūṣubhis tat-kṣaṇāt  
+at once  in the heart  is captured  here  by the pious  who wish to hear  that very moment
 
-(95) [not yet translated]
+(95) “In this beautiful *Bhāgavatam*, composed by the great sage, is taught the supreme dharma of the saintly who are free from envy, from which all deceit has been cast out. Here is known the true Reality, which bestows good and uproots the threefold miseries. What need is there of other scriptures? As soon as the pious wish to hear it, the Lord is at once captured within their hearts.” (Śrīmad-Bhāgavatam, 1.1.2)
 
 ‘প্র’-শব্দে — মোক্ষবাঞ্ছা কৈতবপ্রধান ৷  
 এই শ্লোকে শ্রীধরস্বামী করিয়াছেন ব্যাখ্যান ॥ ৯৬ ॥
@@ -1738,37 +1833,49 @@ eager longing  without  bhakti  does not  give birth  to love
 হরিণা চাশ্বদেয়েতি দ্বিধা সা স্যাৎ সুদুর্ল্লভা ॥ ১৬৬ ॥
 
 sādhanaughair anāsaṅgair  
+by multitudes of sādhanas  without āsaṅga  
 alabhyā su-cirād api  
+unattainable  for a very long time  even  
 hariṇā cāśv adeyeti  
-dvidhā sā syāt su-durlabhā
+by Hari  and  quickly  not given  thus  
+dvidhā sā syāt su-durlabhā  
+in two ways  it  is  very hard to attain
 
-(166) [not yet translated]
+(166) “Bhakti is very hard to attain in two ways: by multitudes of *sādhanas* performed without *āsaṅga*, eager longing, it cannot be attained even in a very long time; and Hari does not give it quickly.” (Bhakti-rasāmṛta-sindhu, 1.1.35)
 
 তেষাং সততযুক্তানাং ভজতাং প্রীতিপূর্ব্বকম্ ৷  
 দদামি বুদ্ধিযোগং তং যেন মামুপয়ান্তি তে ॥ ১৬৭ ॥
 
 teṣāṁ satata-yuktānāṁ  
+to them  ever  longing (for Me)  
 bhajatāṁ prīti-pūrvakam  
+worshipping  with love  
 dadāmi buddhi-yogaṁ taṁ  
-yena mām upayānti te
+I give  understanding  that  
+yena mām upayānti te  
+by which  to Me  come  they
 
-(167) [not yet translated]
+(167) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)
 
 ‘আত্মা’-শব্দে ‘ধৃতি’ কহে, — ধৈর্য্যে যেই রমে ৷  
 ধৈর্য্যবন্ত হঞা তবে করয় ভজনে ॥ ১৬৮ ॥
 
 ‘ātmā’-śabde ‘dhṛti’ kahe, — dhairye yei rame  
-dhairyavanta hañā tabe karaya bhajane
+by the word ātmā  steadfastness  is meant  in steadfastness  who  delights  
+dhairyavanta hañā tabe karaya bhajane  
+steadfast  becoming  then  he performs  worship
 
-(168) [not yet translated]
+(168) The word *ātmā* also means steadfastness (*dhṛti*). One who delights in steadfastness becomes steadfast and then worships (Kṛṣṇa).
 
 ‘মুনি’-শব্দে — পক্ষী, ভৃঙ্গ; ‘নির্গ্রন্থে’ — মূর্খজন ৷  
 কৃষ্ণকৃপায় সাধুকৃপায় দোঁহার ভজন ॥ ১৬৯ ॥
 
 ‘muni’-śabde — pakṣī, bhṛṅga; ‘nirgranthe’ — mūrkha-jana  
-kṛṣṇa-kṛpāya sādhu-kṛpāya doṅhāra bhajana
+by the word muni  a bird  a bumblebee  by nirgrantha  a foolish  person  
+kṛṣṇa-kṛpāya sādhu-kṛpāya doṅhāra bhajana  
+by Kṛṣṇa’s  mercy  by the sādhus’  mercy  of both  the worship
 
-(169) [not yet translated]
+(169) The word *muni* also means a bird or a bumblebee, and *nirgrantha* a foolish person. By the mercy of Kṛṣṇa and the mercy of the sādhus, both of them worship (Kṛṣṇa).
 
 প্রায়ো বতাম্ব মুনয়ো বিহগা বনেঽস্মিন্  
 কৃষ্ণেক্ষিতং তদুদিতং কলবেণুগীতম্ ৷  
@@ -1776,11 +1883,15 @@ kṛṣṇa-kṛpāya sādhu-kṛpāya doṅhāra bhajana
 শৃণ্বন্তি মীলিতদৃশো বিগতান্যবাচঃ ॥ ১৭০ ॥
 
 prāyo batāmba munayo vihagā vane ‘smin  
+almost  indeed  O mother  sages  the birds  in forest  this  
 kṛṣṇekṣitaṁ tad-uditaṁ kala-veṇu-gītam  
+to see Kṛṣṇa  sung by Him  sweet  of the flute  the song  
 āruhya ye druma-bhujān rucira-pravālān  
-śṛṇvanti mīlita-dṛśo vigatānya-vācaḥ
+having risen  who  onto the branches of the trees  with lovely shoots  
+śṛṇvanti mīlita-dṛśo vigatānya-vācaḥ  
+they hear  with eyes closed  all other sounds silenced
 
-(170) [not yet translated]
+(170) “O mother, the birds of this forest are almost sages: they rise onto the branches of the trees, lovely with fresh shoots, to see Kṛṣṇa, and with eyes closed and all other sounds silenced, they listen to the sweet song of the flute that flows from Him.” (Śrīmad-Bhāgavatam, 10.21.14)
 
 এতেঽলিনস্তব যশোঽখিল-লোকতীর্থং  
 গায়ন্ত আদিপুরুষানুপথং ভজন্তে ৷  
@@ -1788,11 +1899,15 @@ kṛṣṇekṣitaṁ tad-uditaṁ kala-veṇu-gītam
 গূঢ়ং বনেঽপি ন জহত্যনঘাত্মদৈবম্ ॥ ১৭১ ॥
 
 ete ‘linas tava yaśo ‘khila-loka-tīrthaṁ  
+these  bees  Your  glory  for all  the worlds  a holy place  
 gāyanta ādi-puruṣānupathaṁ bhajante  
+singing  O original Person  following Your path  serve  
 prāyo amī muni-gaṇā bhavadīya-mukhyā  
-gūḍhaṁ vane ‘pi na jahaty anaghātma-daivam
+probably  these  sages  Your  foremost (devotees)  
+gūḍhaṁ vane ‘pi na jahaty anaghātma-daivam  
+hidden  in the forest  though  not  they leave  O sinless one  their own deity
 
-(171) [not yet translated]
+(171) “O original Person, these bees sing Your glory, which purifies all the worlds, and serve You by following You along Your path. They must be sages, the foremost of Your devotees: though You are hidden in the forest, O sinless one, they do not leave You, the Lord of their hearts.” (Śrīmad-Bhāgavatam, 10.15.6)
 
 সরসি সারসহংসবিহঙ্গা-  
 শ্চারুগীতহৃতচেতস এত্য ৷  
@@ -1800,11 +1915,15 @@ gūḍhaṁ vane ‘pi na jahaty anaghātma-daivam
 হন্ত মীলিতদৃশো ধৃতমৌনাঃ ॥ ১৭২ ॥
 
 sarasi sārasa-haṁsa-vihaṅgāś  
+in the lake  cranes  swans  birds  
 cāru-gīta-hṛta-cetasa etya  
+by the lovely  song  stolen  their hearts  approaching  
 harim upāsata te yata-cittā  
-hanta mīlita-dṛśo dhṛta-maunāḥ
+Hari  worshipped  they  with minds controlled  
+hanta mīlita-dṛśo dhṛta-maunāḥ  
+ah  with eyes closed  keeping silence
 
-(172) [not yet translated]
+(172) “The cranes, swans and other birds of the lake, their hearts stolen by His lovely song, came near and, with minds controlled — ah! — with eyes closed and keeping silence, worshipped Hari.” (Śrīmad-Bhāgavatam, 10.35.11)
 
 কিরাতহূনান্ধ্রপুলিন্দপুক্কশা  
 আভীরশুম্ভা যবনাঃ খশাদয়ঃ ৷  
@@ -1812,99 +1931,131 @@ hanta mīlita-dṛśo dhṛta-maunāḥ
 শুদ্ধ্যন্তি তস্মৈ প্রভবিষ্ণবে নমঃ ॥ ১৭৩ ॥
 
 kirāta-hūnāndhra-pulinda-pukkaśā  
+Kirātas  Hūṇas  Andhras  Pulindas  Pukkaśas  
 ābhīra-śumbhā yavanāḥ khaśādayaḥ  
+Ābhīras  Śuhmas  Yavanas  Khaśas and others  
 ye ‘nye ca pāpā yad-upāśrayāśrayāḥ  
-śuddhyanti tasmai prabhaviṣṇave namaḥ
+who  others  and  sinful  of those who have taken shelter of Him  taking shelter  
+śuddhyanti tasmai prabhaviṣṇave namaḥ  
+are purified  to Him  the all-powerful  obeisance
 
-(173) [not yet translated]
+(173) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and others, and other sinful people too, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)
 
 কিম্বা ‘ধৃতি’-শব্দে নিজপূর্ণতাদি-জ্ঞান কয় ৷  
 দুঃখাভাবে উত্তমপ্রাপ্ত্যে মহাপূর্ণ হয় ॥ ১৭৪ ॥
 
 kimvā ‘dhṛti’-śabde nija-pūrṇatādi-jñāna kaya  
-duḥkhābhāve uttama-prāptye mahā-pūrṇa haya
+or  by the word dhṛti  one’s own  fullness and so on  awareness  is meant  
+duḥkhābhāve uttama-prāptye mahā-pūrṇa haya  
+by the absence of suffering  of the highest  by the attainment  completely full  one becomes
 
-(174) [not yet translated]
+(174) Or the word *dhṛti* means the awareness of one’s own fullness: through the absence of suffering and the attainment of the highest, one becomes completely full.
 
 ধৃতিঃ স্যাৎ পূর্ণতা-জ্ঞানং দুঃখাভাবোত্তমাপ্তিভিঃ ৷  
 অপ্রাপ্তাতীতনষ্টার্থানভিসংশোচনাদিকৃৎ ॥ ১৭৫ ॥
 
 dhṛtiḥ syāt pūrṇatā-jñānaṁ  
+dhṛti  is  of fullness  the awareness  
 duḥkhābhāvottamāptibhiḥ  
+through the absence of suffering  through the attainment of the highest  
 aprāptātīta-naṣṭārthā-  
-nabhisaṁśocanādi-kṛt
+for what is not attained  past  lost  objects  
+nabhisaṁśocanādi-kṛt  
+absence of lamentation and so on  producing
 
-(175) [not yet translated]
+(175) “*Dhṛti* is the awareness of fullness that comes from the absence of suffering and the attainment of the highest. It frees one from lamenting over objects not attained, past or lost.” (Bhakti-rasāmṛta-sindhu, 2.4.144)
 
 কৃষ্ণভক্ত — দুঃখহীন, বাঞ্ছান্তর-হীন ৷  
 কৃষ্ণপ্রেম-সেবা-পূর্ণানন্দ-প্রবীণ ॥ ১৭৬ ॥
 
 kṛṣṇa-bhakta — duḥkha-hīna, vāñchāntara-hīna  
-kṛṣṇa-prema-sevā-pūrṇānanda-pravīṇa
+of Kṛṣṇa  the devotee  free from suffering  free from other desires  
+kṛṣṇa-prema-sevā-pūrṇānanda-pravīṇa  
+to Kṛṣṇa  in love  in service  in full bliss  versed
 
-(176) [not yet translated]
+(176) A devotee of Kṛṣṇa is free from suffering and free from other desires; he is versed in the full bliss of loving service to Kṛṣṇa.
 
 মৎসেবয়া প্রতীতং তে সালোক্যাদিচতুষ্টয়ম্ ৷  
 নেচ্ছন্তি সেবয়া পূর্ণাঃ কুতোঽন্যৎ কালবিপ্লুতম্ ॥ ১৭৭ ॥
 
 mat-sevayā pratītaṁ te  
+by My service  attained  they  
 sālokyādi-catuṣṭayam  
+sālokya and the rest  the fourfold  
 necchanti sevayā pūrṇāḥ  
-kuto ‘nyat kāla-viplutam
+do not desire  by service  fulfilled  
+kuto ‘nyat kāla-viplutam  
+how much less  anything else  destroyed by time
 
-(177) [not yet translated]
+(177) “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)
 
 হৃষীকেশে হৃষীকাণি যস্য স্থৈর্য্যগতানি হি ৷  
 স এব ধৈর্য্যমাপ্নোতি সংসারে জীবচঞ্চলে ॥ ১৭৮ ॥
 
 hṛṣīkeśe hṛṣīkāṇi  
+in Hṛṣīkeśa  the senses  
 yasya sthairya-gatāni hi  
+whose  steadiness  have attained  indeed  
 sa eva dhairyam āpnoti  
-saṁsāre jīva-cañcale
+he  alone  steadfastness  attains  
+saṁsāre jīva-cañcale  
+in saṁsāra  where living beings are unsteady
 
-(178) [not yet translated]
+(178) “In this world of birth and death (*saṁsāra*), where all living beings are unsteady, he alone attains steadfastness whose senses have become steady in Hṛṣīkeśa, the Lord of the senses.”
 
 ’চ’ — অবধারণে, ইহা ‘অপি’ — সমুচ্চয়ে ৷  
 ধৃতিমন্ত হঞা ভজে পক্ষী-মূর্খ-চয়ে ॥ ১৭৯ ॥
 
 ’ca’ — avadhāraṇe, ihā ‘api’ — samuccaye  
-dhṛtimanta hañā bhaje pakṣī-mūrkha-caye
+ca  in the sense of certainty  here  api  in the sense of conjunction  
+dhṛtimanta hañā bhaje pakṣī-mūrkha-caye  
+steadfast  becoming  worship  of birds  of fools  the multitude
 
-(179) [not yet translated]
+(179) Here *ca* has the sense of certainty (*avadhāraṇa*), and *api* the sense of conjunction (*samuccaya*): birds and foolish people in great numbers become steadfast and worship (Kṛṣṇa).
 
 ‘আত্মা’-শব্দে ‘বুদ্ধি’ কহে বুদ্ধিবিশেষ ৷  
 সামান্যবুদ্ধিযুক্ত যত জীব অশেষ ॥ ১৮০ ॥
 
 ‘ātmā’-śabde ‘buddhi’ kahe buddhi-viśeṣa  
-sāmānya-buddhi-yukta yata jīva aśeṣa
+by the word ātmā  intelligence  is meant  special intelligence  
+sāmānya-buddhi-yukta yata jīva aśeṣa  
+with ordinary  intelligence  endowed  all  living beings  countless
 
-(180) [not yet translated]
+(180) The word *ātmā* also means intelligence (*buddhi*), that is, special intelligence; and all the countless living beings are endowed with ordinary intelligence.
 
 বুদ্ধ্যে রমে আত্মারাম — দুই ত’ প্রকার ৷  
 ‘পণ্ডিত’ মুনিগণ, নির্গ্রন্থ ‘মূর্খ’ আর ॥ ১৮১ ॥
 
 buddhye rame ātmārāma — dui ta’ prakāra  
-‘paṇḍita’ muni-gaṇa, nirgrantha ‘mūrkha’ āra
+in intelligence  delights  ātmārāma  of two  indeed  kinds  
+‘paṇḍita’ muni-gaṇa, nirgrantha ‘mūrkha’ āra  
+learned  the sages  the nirgranthas  foolish  and
 
-(181) [not yet translated]
+(181) The *ātmārāma* who delights in intelligence is of two kinds: the sages, who are learned (*paṇḍita*), and the *nirgranthas*, who are foolish (*mūrkha*).
 
 কৃষ্ণকৃপায় সাধুসঙ্গে রতি-বুদ্ধি পায় ৷  
 সব ছাড়ি’ কৃষ্ণভক্তি শুদ্ধবুদ্ধ্যে পায় ॥ ১৮২ ॥
 
 kṛṣṇa-kṛpāya sādhu-saṅge rati-buddhi pāya  
-saba chāḍi’ kṛṣṇa-bhakti śuddha-buddhye pāya
+by Kṛṣṇa’s  mercy  in the company of sādhus  attachment (rati)  intelligence  obtains  
+saba chāḍi’ kṛṣṇa-bhakti śuddha-buddhye pāya  
+everything  giving up  devotion to Kṛṣṇa  with pure intelligence  attains
 
-(182) [not yet translated]
+(182) By Kṛṣṇa’s mercy, in the company of sādhus, one gains attachment (*rati*) and good intelligence. Giving up everything, with pure intelligence one attains devotion to Kṛṣṇa.
 
 অহং সর্ব্বস্য প্রভবো মত্তঃ সর্ব্বং প্রবর্ত্ততে ৷  
 ইতি মত্বা ভজন্তে মাং বুধা ভাবসমন্বিতাঃ ॥ ১৮৩ ॥
 
 ahaṁ sarvasya prabhavo  
+I  of everything  the source  
 mattaḥ sarvaṁ pravartate  
+from Me  everything  proceeds  
 iti matvā bhajante māṁ  
-budhā bhāva-samanvitāḥ
+thus  knowing  worship  Me  
+budhā bhāva-samanvitāḥ  
+the wise  with bhāva  endowed
 
-(183) [not yet translated]
+(183) “I am the source of everything; everything proceeds from Me. Knowing this, the wise, endowed with *bhāva*, worship Me.” (Bhagavad-gītā, 10.8)
 
 তে বৈ বিদন্ত্যতিতরন্তি চ দেবমায়াং  
 স্ত্রীশূদ্রহূনশবরা অপি পাপজীবাঃ ৷  
@@ -1912,81 +2063,107 @@ budhā bhāva-samanvitāḥ
 স্তির্য্যগ্ জনা অপি কিমু শ্রুতধারণা যে ॥ ১৮৪ ॥
 
 te vai vidanty atitaranti ca deva-māyāṁ  
+they  indeed  know  cross beyond  and  the divine  māyā  
 strī-śūdra-hūna-śabarā api pāpa-jīvāḥ  
+women  śūdras  Hūṇas  Śabaras  even  sinful beings  
 yady adbhuta-krama-parāyaṇa-śīla-śikṣās  
-tiryag janā api kim u śruta-dhāraṇā ye
+if  of Adbhuta-krama (Urukrama)  of those devoted  in the conduct  trained  
+tiryag janā api kim u śruta-dhāraṇā ye  
+animal  beings  even  what  then  holding to the Śruti  those who
 
-(184) [not yet translated]
+(184) “Women, *śūdras*, Hūṇas, Śabaras and other sinful beings — even animals and birds — come to know (the Lord) and cross beyond the divine māyā if they learn the conduct of those devoted to Adbhuta-krama, the Lord of wondrous deeds. What then to speak of those who hold to the Śruti!” (Śrīmad-Bhāgavatam, 2.7.46)
 
 বিচার করিয়া যবে ভজে কৃষ্ণ-পায় ৷  
 সেই বুদ্ধি দেন তাঁরে, যাতে কৃষ্ণ পায় ॥ ১৮৫ ॥
 
 vicāra kariyā yabe bhaje kṛṣṇa-pāya  
-sei buddhi dena tāṅre, yāte kṛṣṇa pāya
+having reflected  when  one worships  Kṛṣṇa’s  feet  
+sei buddhi dena tāṅre, yāte kṛṣṇa pāya  
+that  intelligence  He gives  to him  by which  Kṛṣṇa  he attains
 
-(185) [not yet translated]
+(185) When, after careful reflection, one worships Kṛṣṇa’s feet, Kṛṣṇa gives him the intelligence by which he attains Him.
 
 তেষাং সততযুক্তানাং ভজতাং প্রীতিপূর্ব্বকম্ ৷  
 দদামি বুদ্ধিযোগং তং যেন মামুপয়ান্তি তে ॥ ১৮৬ ॥
 
 teṣāṁ satata-yuktānāṁ  
+to them  ever  longing (for Me)  
 bhajatāṁ prīti-pūrvakam  
+worshipping  with love  
 dadāmi buddhi-yogaṁ taṁ  
-yena mām upayānti te
+I give  understanding  that  
+yena mām upayānti te  
+by which  to Me  come  they
 
-(186) [not yet translated]
+(186) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)
 
 সৎসঙ্গ, কৃষ্ণসেবা, ভাগবত, নাম ৷  
 ব্রজে বাস, — এই পঞ্চসাধন প্রধান ॥ ১৮৭ ॥
 
 sat-saṅga, kṛṣṇa-sevā, bhāgavata, nāma  
-vraje vāsa, — ei pañca sādhana pradhāna
+the company of saints  to Kṛṣṇa  service  the Bhāgavata  the Name  
+vraje vāsa, — ei pañca sādhana pradhāna  
+in Vraja  living  these  five  sādhanas  principal
 
-(187) [not yet translated]
+(187) The company of saints, service to Kṛṣṇa, the *Bhāgavata*, the holy Name and living in Vraja — these five are the principal *sādhanas*.
 
 এই পঞ্চ-মধ্যে এক ‘স্বল্প’ যদি হয় ৷  
 সুবুদ্ধি জনের হয় কৃষ্ণপ্রেমোদয় ॥ ১৮৮ ॥
 
 ei-pañca-madhye eka ‘svalpa’ yadi haya  
-subuddhi janera haya kṛṣṇa-premodaya
+of these five  among  one  slight  if  there is  
+subuddhi janera haya kṛṣṇa-premodaya  
+of a sensible  person  there comes  for Kṛṣṇa  of love  the awakening
 
-(188) [not yet translated]
+(188) If a sensible person has even a slight (connection with) one of these five, love for Kṛṣṇa awakens in him.
 
 দুরূহাদ্ভুতবীর্য্যেঽস্মিন্ শ্রদ্ধা দূরেঽস্তু পঞ্চকে ৷  
 যত্র স্বল্পোঽপি সম্বন্ধঃ সদ্ধিয়াং ভাবজন্মনে ॥ ১৮৯ ॥
 
 durūhādbhuta-vīrye ‘smin  
+hard to grasp  wondrous  in power  in this  
 śraddhā dūre ‘stu pañcake  
+faith  far away  let it be  in the group of five  
 yatra sv-alpo ‘pi sambandhaḥ  
-sad-dhiyāṁ bhāva-janmane
+where  slight  even  connection  
+sad-dhiyāṁ bhāva-janmane  
+for those of good understanding  for the birth of bhāva
 
-(189) [not yet translated]
+(189) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 87)
 
 উদার মহতী যাঁর সর্ব্বোত্তমা বুদ্ধি ৷  
 নানা কামে ভজে, তবু পায় ভক্তিসিদ্ধি ॥ ১৯০ ॥
 
 udāra mahatī yāṅra sarvottamā buddhi  
-nānā kāme bhaje, tabu pāya bhakti-siddhi
+broad  great  whose  best of all  intelligence  
+nānā kāme bhaje, tabu pāya bhakti-siddhi  
+with various  desires  worships  still  attains  of bhakti  perfection
 
-(190) [not yet translated]
+(190) One whose intelligence is broad, great and best of all may worship with various desires, yet he still attains perfection in bhakti.
 
 অকামঃ সর্ব্বকামো বা মোক্ষকাম উদারধীঃ ৷  
 তীব্রেণ ভক্তিযোগেন যজেত পুরুষং পরম্ ॥ ১৯১ ॥
 
 akāmaḥ sarva-kāmo vā  
+without desire  full of all desires  or  
 mokṣa-kāma udāra-dhīḥ  
+desiring liberation  of broad intelligence  
 tīvreṇa bhakti-yogena  
-yajeta puruṣaṁ param
+with intense  bhakti-yoga  
+yajeta puruṣaṁ param  
+should worship  the Person  Supreme
 
-(191) [not yet translated]
+(191) “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)
 
 ভক্তি-প্রভাব, — সেই কাম ছাড়াঞা ৷  
 কৃষ্ণপদে ভক্তি করায় গুণে আকর্ষিয়া ॥ ১৯২ ॥
 
 bhakti-prabhāva, — sei kāma chāḍāñā  
-kṛṣṇa-pade bhakti karāya guṇe ākarṣiyā
+of bhakti  the power  those  desires  making one give up  
+kṛṣṇa-pade bhakti karāya guṇe ākarṣiyā  
+to Kṛṣṇa’s  feet  devotion  makes one render  by His qualities  attracting
 
-(192) [not yet translated]
+(192) Such is the power of bhakti: it makes one give up those desires and, attracting one by Kṛṣṇa’s qualities, makes one render devotion to His feet.
 
 সত্যং দিশত্যর্থিতমর্থিতো নৃণাং  
 নৈবার্থদো যৎ পুনরর্থিতা যতঃ ৷  
@@ -1994,59 +2171,75 @@ kṛṣṇa-pade bhakti karāya guṇe ākarṣiyā
 মিচ্ছা-পিধানং নিজপাদপল্লবম্ ॥ ১৯৩ ॥
 
 satyaṁ diśaty arthitam arthito nṛṇāṁ  
+truly  He grants  what is asked  when asked  to men  
 naivārtha-do yat punar arthitā yataḥ  
+not indeed  giver of that  which  again  asking  from which  
 svayaṁ vidhatte bhajatām anicchatām  
-icchā-pidhānaṁ nija-pāda-pallavam
+Himself  He grants  to those who worship  though not desiring  
+icchā-pidhānaṁ nija-pāda-pallavam  
+covering all desires  His own  feet like tender shoots
 
-(193) [not yet translated]
+(193) “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)
 
 ‘আত্মা’-শব্দে ‘স্বভাব’ কহে, তাতে যেই রমে ৷  
 আত্মারাম জীব যত স্থাবর-জঙ্গমে ॥ ১৯৪ ॥
 
 ‘ātmā’-śabde ‘svabhāva’ kahe, tāte yei rame  
-ātmārāma jīva yata sthāvara-jaṅgame
+by the word ātmā  nature  is meant  in it  who  delights  
+ātmārāma jīva yata sthāvara-jaṅgame  
+ātmārāmas  living beings  all  stationary  moving
 
-(194) [not yet translated]
+(194) The word *ātmā* also means one’s nature (*svabhāva*), and one who delights in it is an *ātmārāma*. Thus all living beings, stationary and moving, are *ātmārāmas*.
 
 জীবের স্বভাব — কৃষ্ণে ‘দাস’-অভিমান ৷  
 দেহে আত্ম-জ্ঞানে আচ্ছাদিত সেই ‘জ্ঞান’ ॥ ১৯৫ ॥
 
 jīvera svabhāva — kṛṣṇe ‘dāsa’-abhimāna  
-dehe ātma-jñāne ācchādita sei ‘jñāna’
+of the jīva  the nature  toward Kṛṣṇa  servant  self-conception  
+dehe ātma-jñāne ācchādita sei ‘jñāna’  
+in the body  by the notion of self  covered  that  awareness
 
-(195) [not yet translated]
+(195) The nature of the *jīva* is to know himself as Kṛṣṇa’s servant; that awareness becomes covered when he takes the body to be the self.
 
 চ-শব্দে ‘এব’, ‘অপি’-শব্দ সমুচ্চয়ে ৷  
 ‘আত্মারামা এব’ হঞা শ্রীকৃষ্ণ ভজয়ে ॥ ১৯৬ ॥
 
 ca-śabde ‘eva’, ‘api’-śabda samuccaye  
-‘ātmārāmā eva’ hañā śrī-kṛṣṇa bhajaye
+by the word ca  eva  api  the word  in the sense of conjunction  
+‘ātmārāmā eva’ hañā śrī-kṛṣṇa bhajaye  
+ātmārāmas  indeed  being  Śrī Kṛṣṇa  worship
 
-(196) [not yet translated]
+(196) The word *ca* means *eva* (“indeed”), and the word *api* has the sense of conjunction: being *ātmārāmas* indeed (*ātmārāmā eva*), (all beings) worship Śrī Kṛṣṇa.
 
 এই জীব — সনকাদি সব মুনিজন ৷  
 ‘নির্গ্রন্থ’ — মূর্খ, নীচ, স্থাবর-জঙ্গম ॥ ১৯৭ ॥
 
 ei jīva — sanakādi saba muni-jana  
-‘nirgrantha’ — mūrkha, nīca, sthāvara-jaṅgama
+these  jīvas  Sanaka and the others  all  sages  
+‘nirgrantha’ — mūrkha, nīca, sthāvara-jaṅgama  
+the nirgranthas  the foolish  the low  stationary  moving
 
-(197) [not yet translated]
+(197) These *jīvas* are all the sages (*munis*), such as Sanaka and the others; and the *nirgranthas* are the foolish, the low, and the stationary and moving beings.
 
 ব্যাস-শুক-সনকাদির প্রসিদ্ধ ভজন ৷  
 ‘নির্গ্রন্থ’ স্থাবরাদির শুন বিবরণ ॥ ১৯৮ ॥
 
 vyāsa-śuka-sanakādira prasiddha bhajana  
-‘nirgrantha’ sthāvarādira śuna vivaraṇa
+of Vyāsa  of Śuka  of Sanaka and the others  well known  the worship  
+‘nirgrantha’ sthāvarādira śuna vivaraṇa  
+of the nirgranthas  of the stationary and the rest  hear  the account
 
-(198) [not yet translated]
+(198) The worship of Vyāsa, Śuka, Sanaka and the others is well known. Now hear the account of the *nirgranthas* — the stationary beings and the rest.
 
 কৃষ্ণকৃপাদি-হেতু হৈতে স্বভাব উদয় ৷  
 কৃষ্ণগুণাকৃষ্ট হঞা তাঁহারে ভজয় ॥ ১৯৯ ॥
 
 kṛṣṇa-kṛpādi-hetu haite svabhāva udaya  
-kṛṣṇa-guṇākṛṣṭa hañā tāṅhāre bhajaya
+Kṛṣṇa’s  mercy and other  causes  from  nature  awakens  
+kṛṣṇa-guṇākṛṣṭa hañā tāṅhāre bhajaya  
+by Kṛṣṇa’s  qualities attracted  becoming  Him  they worship
 
-(199) [not yet translated]
+(199) Through such causes as Kṛṣṇa’s mercy, their true nature (*svabhāva*) awakens, and, attracted by Kṛṣṇa’s qualities, they worship Him.
 
 ধন্যেয়মদ্য ধরণী তৃণ-বীরুধস্ত্বৎ-  
 পাদস্পৃশো দ্রুমলতাঃ করজাভিমৃষ্টাঃ ৷  
@@ -2054,11 +2247,15 @@ kṛṣṇa-guṇākṛṣṭa hañā tāṅhāre bhajaya
 র্গোপ্যোঽন্তরেণ ভুজয়োরপি যৎস্পৃহা শ্রীঃ ॥ ২০০ ॥
 
 dhanyeyam adya dharaṇī tṛṇa-vīrudhas tvat-  
+blessed  this  today  the earth  grasses  shrubs  Your  
 pāda-spṛśo druma-latāḥ karajābhimṛṣṭāḥ  
+feet  touching  trees  creepers  touched by Your fingers  
 nadyo ‘drayaḥ khaga-mṛgāḥ sadayāvalokair  
-gopyo ‘ntareṇa bhujayor api yat-spṛhā śrīḥ
+rivers  mountains  birds  beasts  by Your merciful glances  
+gopyo ‘ntareṇa bhujayor api yat-spṛhā śrīḥ  
+the gopīs  between  Your arms  even  longed for by whom  Śrī
 
-(200) [not yet translated]
+(200) “Today this earth is blessed; blessed are the grasses and shrubs that touch Your feet, the trees and creepers touched by Your fingers, the rivers, mountains, birds and beasts on whom You cast Your merciful glances, and the gopīs held between Your arms — a place for which even Śrī (Lakṣmī) longs.” (Śrīmad-Bhāgavatam, 10.15.8)
 
 গা গোপকৈরনুবনং নয়তোরুদার-  
 বেণুস্বনৈঃ কলপদৈস্তনুভৃৎসু সখ্যঃ ৷  
@@ -2662,244 +2859,308 @@ of the path  ants  here and there  touch  feet
 বস্ত্রে স্থান ঝাড়ি’ পড়ে দণ্ডবৎ হঞা ॥ ২৬৫ ॥
 
 daṇḍavat-sthāne pipīlikāre dekhiyā  
-vastre sthāna jhāḍi’ paḍe daṇḍavat hañā
+for prostration  at the place  the ants  seeing  
+vastre sthāna jhāḍi’ paḍe daṇḍavat hañā  
+with the cloth  the place  sweeping  he falls  a rod  becoming
 
-(265) [not yet translated]
+(265) Seeing ants where he was to offer his prostration, he swept the place clear with his cloth and then fell flat like a rod.
 
 নারদ কহে, — ব্যাধ, এই না হয় আশ্চর্য্য ৷  
 হরিভক্ত্যে হিংসা-শূন্য হয় সাধুবর্য্য ॥ ২৬৬ ॥
 
 nārada kahe, — vyādha, ei nā haya āścarya  
-hari-bhaktye hiṁsā-śūnya haya sādhu-varya
+Nārada  says  hunter  this  not  is  a wonder  
+hari-bhaktye hiṁsā-śūnya haya sādhu-varya  
+by devotion to Hari  of violence  free  becomes  the best of saints
 
-(266) [not yet translated]
+(266) Nārada said, “Hunter, this is no wonder. Through devotion to Hari the best of saints becomes free of all violence.”
 
 এতে ন হ্যদ্ভুতা ব্যাধ তবাহিংসাদয়ো গুণাঃ ৷  
 হরিভক্তৌ প্রবৃত্তা যে ন তে স্যুঃ পরতাপিনঃ ॥ ২৬৭ ॥
 
 ete na hy adbhutā vyādha  
+these  not  indeed  wonderful  O hunter  
 tavāhiṁsādayo guṇāḥ  
+your  non-violence and the other  virtues  
 hari-bhaktau pravṛttā ye  
-na te syuḥ para-tāpinaḥ
+in devotion to Hari  engaged  who  
+na te syuḥ para-tāpinaḥ  
+not  they  are  causing pain to others
 
-(267) [not yet translated]
+(267) “O hunter, it is no wonder that you have non-violence and these other virtues: those who are engaged in devotion to Hari never cause pain to others.” (Skanda-purāṇa)
 
 তবে সেই ব্যাধ দোঁহারে অঙ্গনে আনিল ৷  
 কুশাসন আনি’ দোঁহারে ভক্ত্যে বসাইল ॥ ২৬৮ ॥
 
 tabe sei vyādha doṅhāre aṅgane ānila  
-kuśāsana āni’ doṅhāre bhaktye vasāila
+then  that  hunter  the two  into the courtyard  brought  
+kuśāsana āni’ doṅhāre bhaktye vasāila  
+kuśa seats  bringing  the two  with devotion  seated
 
-(268) [not yet translated]
+(268) Then the hunter brought the two sages into his courtyard, fetched seats of *kuśa* grass and reverently seated them.
 
 জল আনি’ ভক্ত্যে দোঁহার পাদ প্রক্ষালিল ৷  
 সেই জল স্ত্রী-পুরুষে পিয়া শিরে লইল ॥ ২৬৯ ॥
 
 jala āni’ bhaktye doṅhāra pāda prakṣālila  
-sei jala strī-puruṣe piyā śire laila
+water  bringing  with devotion  of the two  the feet  washed  
+sei jala strī-puruṣe piyā śire laila  
+that  water  wife and husband  drinking  on the head  placed
 
-(269) [not yet translated]
+(269) He brought water and reverently washed the feet of both, and he and his wife drank that water and placed it on their heads.
 
 কম্প-পুলকাশ্রু হৈল কৃষ্ণনাম গাঞা ৷  
 ঊর্দ্ধ্ববাহু নৃত্য করে বস্ত্র উড়াঞা ॥ ২৭০ ॥
 
 kampa-pulakāśru haila kṛṣṇa-nāma gāñā  
-ūrdhva-bāhu nṛtya kare vastra uḍāñā
+trembling  horripilation  tears  arose  Kṛṣṇa’s  name  singing  
+ūrdhva-bāhu nṛtya kare vastra uḍāñā  
+arms raised  dance  he does  cloth  waving
 
-(270) [not yet translated]
+(270) As he sang the name of Kṛṣṇa, he trembled, his hair stood on end and tears flowed; and he danced with arms raised, waving his cloth.
 
 দেখিয়া ব্যাধের প্রেম পর্ব্বত-মহামুনি ৷  
 নারদেরে কহে, — তুমি হও স্পর্শমণি ॥ ২৭১ ॥
 
 dekhiyā vyādhera prema parvata-mahāmuni  
-nāradere kahe, — tumi hao sparśa-maṇi
+seeing  of the hunter  the love  Parvata  the great sage  
+nāradere kahe, — tumi hao sparśa-maṇi  
+to Nārada  says  you  are  a touchstone
 
-(271) [not yet translated]
+(271) Seeing the hunter’s love, the great sage Parvata said to Nārada, “You are a touchstone!
 
 অহো ধন্যোঽসি দেবর্ষে কৃপয়া যস্য তৎক্ষণাৎ ৷  
 নীচোঽপ্যুৎপুলকো লেভে লুব্ধকো রতিমচ্যুতে ॥ ২৭২ ॥
 
 aho dhanyo ‘si devarṣe  
+ah  blessed  you are  O sage among the gods  
 kṛpayā yasya tat-kṣaṇāt  
+by the mercy  of whom  instantly  
 nīco ‘py utpulako lebhe  
-lubdhako ratim acyute
+lowly  even  with hair standing on end  obtained  
+lubdhako ratim acyute  
+a hunter  love  for Acyuta
 
-(272) [not yet translated]
+(272) “Ah, O sage among the gods, you are blessed! By your mercy even a lowly hunter at once attained love (*rati*) for Acyuta, his hair standing on end.” (Skanda-purāṇa)
 
 নারদ কহে, — বৈষ্ণব, তোমার অন্ন কিছু আয় ?  
 ব্যাধ কহে, — যারে পাঠাও, সেই দিয়া যায় ॥ ২৭৩ ॥
 
 nārada kahe, — vaiṣṇava, tomāra anna kichu āya?  
-vyādha kahe, — yāre pāṭhāo, sei diyā yāya
+Nārada  says  Vaiṣṇava  your  food  any  comes  
+vyādha kahe, — yāre pāṭhāo, sei diyā yāya  
+the hunter  says  whom  you send  he  giving  goes
 
-(273) [not yet translated]
+(273) Nārada said, “Vaiṣṇava, does any food come to you?” The hunter said, “Whoever you send brings something and leaves it.
 
 এত অন্ন না পাঠাও, কিছু কার্য্য নাই ৷  
 সবে দুইজনার যোগ্য ভক্ষ্যমাত্র চাই ॥ ২৭৪ ॥
 
 eta anna nā pāṭhāo, kichu kārya nāi  
-sabe dui-janāra yogya bhakṣya-mātra cāi
+so much  food  not  send  any  need  there is not  
+sabe dui-janāra yogya bhakṣya-mātra cāi  
+only  for two persons  fitting  food  only  we want
 
-(274) [not yet translated]
+(274) “Do not send so much food; there is no need. We want only as much food as is fit for two people.”
 
 নারদ কহে, — ঐছে রহ, তুমি ভাগ্যবান্ ৷  
 এত বলি’ দুইজন হইলা অন্তর্দ্ধান ॥ ২৭৫ ॥
 
 nārada kahe, — aiche raha, tumi bhāgyavān  
-eta bali’ dui-jana hailā antardhāna
+Nārada  says  thus  remain  you  fortunate  
+eta bali’ dui-jana hailā antardhāna  
+this much  saying  the two  became  vanished
 
-(275) [not yet translated]
+(275) Nārada said, “Live like this — you are fortunate.” With these words the two sages vanished.
 
 এই ত’ কহিলুঁ তোমায় ব্যাধের আখ্যান ৷  
 যা শুনিলে হয় সাধুসঙ্গ-প্রভাব-জ্ঞান ॥ ২৭৬ ॥
 
 ei ta’ kahiluṅ tomāya vyādhera ākhyāna  
-yā śunile haya sādhu-saṅga-prabhāva-jñāna
+this  indeed  I told  to you  of the hunter  the story  
+yā śunile haya sādhu-saṅga-prabhāva-jñāna  
+which  hearing  arises  of the company of sādhus  of the power  knowledge
 
-(276) [not yet translated]
+(276) Thus I have told you the story of the hunter. Whoever hears it comes to know the power of the company of *sādhus*.
 
 এই আর তিন অর্থ গণনাতে পাইল ৷  
 এই দুই অর্থ মিলি’ ‘ছাব্বিশ’ অর্থ হৈল ॥ ২৭৭ ॥
 
 ei āra tina artha gaṇanāte pāila  
-ei dui artha mili’ ‘chābbiśa’ artha haila
+these  further  three  meanings  in the count  were obtained  
+ei dui artha mili’ ‘chābbiśa’ artha haila  
+these  two  meanings  combining  twenty-six  meanings  became
 
-(277) [not yet translated]
+(277) These three further meanings are added to the count, and the two sets of meanings together come to twenty-six.
 
 আর অর্থ শুন, যাহা — অর্থের ভাণ্ডার ৷  
 স্থূলে ‘দুই’ অর্থ, সূক্ষ্মে ‘বত্রিশ’ প্রকার ॥ ২৭৮ ॥
 
 āra artha śuna, yāhā — arthera bhāṇḍāra  
-sthūle ‘dui’ artha, sūkṣme ‘batriśa’ prakāra
+another  meaning  hear  which  of meanings  a storehouse  
+sthūle ‘dui’ artha, sūkṣme ‘batriśa’ prakāra  
+broadly  two  meanings  in finer detail  thirty-two  kinds
 
-(278) [not yet translated]
+(278) Hear another meaning — a storehouse of meanings: broadly it is twofold, and in finer detail it is of thirty-two kinds.
 
 ‘আত্মা’-শব্দে কহে — সর্ব্ববিধ ভগবান্ ৷  
 এক ‘স্বয়ং ভগবান্’, আর ‘ভগবান্’-আখ্যান ॥ ২৭৯ ॥
 
 ‘ātmā’-śabde kahe — sarva-vidha bhagavān  
-eka ‘svayaṁ bhagavān’, āra ‘bhagavān’-ākhyāna
+ātmā  by the word  is meant  of all kinds  Bhagavān  
+eka ‘svayaṁ bhagavān’, āra ‘bhagavān’-ākhyāna  
+one  Svayaṁ Bhagavān  others  Bhagavān  so named
 
-(279) [not yet translated]
+(279) The word *ātmā* means Bhagavān in all His forms: one is Svayaṁ Bhagavān, the Lord Himself, and the others are called Bhagavān.
 
 তাঁতে রমে যেই, সেইসব — ‘আত্মারাম’ ৷  
 ‘বিধিভক্ত’, ‘রাগভক্ত’, — দুইবিধ নাম ॥ ২৮০ ॥
 
 tāṅte rame yei, sei-saba — ‘ātmārāma’  
-‘vidhi-bhakta’, ‘rāga-bhakta’, — dui-vidha nāma
+in Him  delight  who  all they  ātmārāmas  
+‘vidhi-bhakta’, ‘rāga-bhakta’, — dui-vidha nāma  
+vidhi-bhaktas  rāga-bhaktas  two kinds  names
 
-(280) [not yet translated]
+(280) All who delight in Him are *ātmārāmas*. They are of two kinds by name: devotees who follow the rules (*vidhi-bhakta*) and devotees of spontaneous attachment (*rāga-bhakta*).
 
 দুইবিধ ভক্ত হয় চারি চারি প্রকার ৷  
 পারিষদ, সাধনসিদ্ধ, সাধকগণ আর ॥ ২৮১ ॥
 
 dui-vidha bhakta haya cāri cāri prakāra  
-pāriṣada, sādhana-siddha, sādhaka-gaṇa āra
+two kinds  devotees  are  four  four  kinds  
+pāriṣada, sādhana-siddha, sādhaka-gaṇa āra  
+eternal associates  perfected by practice  practitioners  and
 
-(281) [not yet translated]
+(281) Each of these two kinds of devotees is of four kinds: the eternal associates (*pārṣada*), those perfected by practice (*sādhana-siddha*) and the practitioners (*sādhaka*).
 
 জাত-অজাত-রতিভেদে সাধক দুই ভেদ ৷  
 বিধি-রাগ-মার্গে চারি চারি — অষ্ট ভেদ ॥ ২৮২ ॥
 
 jāta-ajāta-rati-bhede sādhaka dui bheda  
-vidhi-rāga-mārge cāri cāri — aṣṭa bheda
+awakened  unawakened  rati  by the difference  practitioners  two  kinds  
+vidhi-rāga-mārge cāri cāri — aṣṭa bheda  
+vidhi  rāga  on the paths  four  four  eight  kinds
 
-(282) [not yet translated]
+(282) The practitioners are of two kinds, according to whether *rati* has awakened in them or not. So on the paths of *vidhi* and *rāga* there are four and four — eight kinds.
 
 বিধিভক্ত্যে, নিত্যসিদ্ধ পারিষদ — ‘দাস’ ৷  
 ‘সখা’, ‘গুরু’, ‘কান্তাগণ’, — চারিবিধ প্রকাশ ॥ ২৮৩ ॥
 
 vidhi-bhaktye, nitya-siddha pāriṣada — ‘dāsa’  
-‘sakhā’, ‘guru’, ‘kāntā-gaṇa’, — cāri-vidha prakāśa
+in vidhi-bhakti  eternally perfect  associates  servants  
+‘sakhā’, ‘guru’, ‘kāntā-gaṇa’, — cāri-vidha prakāśa  
+friends  elders  beloveds  four kinds  manifestation
 
-(283) [not yet translated]
+(283) On the path of *vidhi-bhakti*, the eternally perfect associates (*nitya-siddha pārṣada*) appear in four kinds: servants, friends, elders and beloveds.
 
 সাধনসিদ্ধ — দাস, সখা, গুরু, কান্তাগণ ৷  
 জাতরতি সাধকভক্ত — চারিবিধ জন ॥ ২৮৪ ॥
 
 sādhana-siddha — dāsa, sakhā, guru, kāntā-gaṇa  
-jāta-rati sādhaka-bhakta — cāri-vidha jana
+perfected by practice  servants  friends  elders  beloveds  
+jāta-rati sādhaka-bhakta — cāri-vidha jana  
+with awakened rati  practitioner-devotees  four kinds  persons
 
-(284) [not yet translated]
+(284) Those perfected by practice are servants, friends, elders and beloveds; and the practitioners in whom *rati* has awakened are also of four kinds.
 
 অজাতরতি সাধকভক্ত, — এ চারি প্রকার ৷  
 বিধিমার্গে ভক্তে ষোড়শ ভেদ প্রচার ॥ ২৮৫ ॥
 
 ajāta-rati sādhaka-bhakta, — e cāri prakāra  
-vidhi-mārge bhakte ṣoḍaśa bheda pracāra
+with unawakened rati  practitioner-devotees  these  four  kinds  
+vidhi-mārge bhakte ṣoḍaśa bheda pracāra  
+on the path of vidhi  among devotees  sixteen  kinds  known
 
-(285) [not yet translated]
+(285) The practitioners in whom *rati* has not yet awakened are of these four kinds as well. Thus on the path of *vidhi* the devotees are known in sixteen kinds.
 
 রাগমার্গে ঐছে ভক্তে ষোড়শ বিভেদ ৷  
 দুই মার্গে আত্মারামের বত্রিশ বিভেদ ॥ ২৮৬ ॥
 
 rāga-mārge aiche bhakte ṣoḍaśa vibheda  
-dui mārge ātmārāmera batriśa vibheda
+on the path of rāga  likewise  among devotees  sixteen  kinds  
+dui mārge ātmārāmera batriśa vibheda  
+on the two  paths  of ātmārāmas  thirty-two  kinds
 
-(286) [not yet translated]
+(286) On the path of *rāga* the devotees are likewise of sixteen kinds, so that on the two paths there are thirty-two kinds of *ātmārāmas*.
 
 ‘মুনি’, ‘নির্গ্রন্থ’, ‘চ’, ‘অপি’, — চারি শব্দের অর্থ ৷  
 যাঁহা যেই লাগে, তাহা করিয়ে সমর্থ ॥ ২৮৭ ॥
 
 ‘muni’, ‘nirgrantha’, ‘ca’, ‘api’, — cāri śabdera artha  
-yāṅhā yei lāge, tāhā kariye samartha
+muni  nirgrantha  ca  api  four  of words  meanings  
+yāṅhā yei lāge, tāhā kariye samartha  
+where  which  fits  that  I make  apt
 
-(287) [not yet translated]
+(287) The meanings of the four words *muni*, *nirgrantha*, *ca* and *api* I apply wherever each of them fits.
 
 বত্রিশে ছাব্বিশে মিলি’ অষ্টপঞ্চাশ ৷  
 আর এক ভেদ শুন অর্থের প্রকাশ ॥ ২৮৮ ॥
 
 batriśe chābbiśe mili’ aṣṭa-pañcāśa  
-āra eka bheda śuna arthera prakāśa
+thirty-two  with twenty-six  combining  fifty-eight  
+āra eka bheda śuna arthera prakāśa  
+another  one  kind  hear  of meaning  disclosure
 
-(288) [not yet translated]
+(288) The thirty-two and the twenty-six together make fifty-eight. Now hear yet another way of bringing out the meaning.
 
 ইতরেতর ‘চ’ দিয়া সমাস করিয়ে ৷  
 ‘আটান্ন’বার আত্মারাম নাম লইয়ে ॥ ২৮৯ ॥
 
 itaretara ‘ca’ diyā samāsa kariye  
-‘āṭānna’-bāra ātmārāma nāma laiye
+mutual (itaretara)  ca  adding  compound  I make  
+‘āṭānna’-bāra ātmārāma nāma laiye  
+fifty-eight times  ātmārāma  word  I take
 
-(289) [not yet translated]
+(289) Joining them with *ca* in the sense of mutual conjunction (*itaretara*), I take the word *ātmārāma* fifty-eight times:
 
 ‘আত্মারামাশ্চ আত্মারামাশ্চ’ আটান্নবার ৷  
 শেষে সব লোপ করি’ রাখি একবার ॥ ২৯০ ॥
 
 ‘ātmārāmāś ca ātmārāmāś ca’ āṭānna-bāra  
-śeṣe saba lopa kari’ rākhi eka-bāra
+ātmārāmas  and  ātmārāmas  and  fifty-eight times  
+śeṣe saba lopa kari’ rākhi eka-bāra  
+at the end  all  elision  making  I keep  once
 
-(290) [not yet translated]
+(290) “*ātmārāmāś ca ātmārāmāś ca*” — fifty-eight times. Then, dropping all the rest, I keep the word only once.
 
 সরূপাণামেকশেষ একবিভক্তৌ,  
 উক্তার্থানামপ্রয়োগ ইতি ॥ ২৯১ ॥
 
 sarūpāṇām eka-śeṣa eka-vibhaktau,  
-uktārthānām aprayoga iti
+of words of the same form  one  remains  in the same case  
+uktārthānām aprayoga iti  
+of words whose meaning is already expressed  non-use  thus
 
-(291) [not yet translated]
+(291) “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used.” (Viśva-prakāśa)
 
 আটান্ন চ-কারের সব লোপ হয় ৷  
 এক আত্মারাম-শব্দে আটান্ন অর্থ কয় ॥ ২৯২ ॥
 
 āṭānna ca-kārera saba lopa haya  
-eka ātmārāma-śabde āṭānna artha kaya
+fifty-eight  of the word ca  all  elision  takes place  
+eka ātmārāma-śabde āṭānna artha kaya  
+one  ātmārāma  in the word  fifty-eight  meanings  expresses
 
-(292) [not yet translated]
+(292) All fifty-eight occurrences of *ca* are elided, and the single word *ātmārāma* expresses fifty-eight meanings.
 
 সরূপাণামেকশেষ এক বিভক্তৌ  
 উক্তার্থানামপ্রয়োগঃ ॥ ২৯৩ ॥
 
 sarūpāṇām eka-śeṣa eka vibhaktau  
-uktārthānām aprayogaḥ
+of words of the same form  one  remains  in the same case  
+uktārthānām aprayogaḥ  
+of words whose meaning is already expressed  non-use
 
-(293) [not yet translated]
+(293) “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used.” (Pāṇini, 1.2.64)
 
 অশ্বত্থবৃক্ষাশ্চ বটবৃক্ষাশ্চ কপিত্থবৃক্ষাশ্চ আম্রবৃক্ষাশ্চ বৃক্ষাঃ ॥ ২৯৪ ॥
 
 aśvattha-vṛkṣāś ca baṭa-vṛkṣāś ca  
-kapittha-vṛkṣāś ca āmra-vṛkṣāś ca vṛkṣāḥ
+aśvattha trees  and  banyan trees  and  
+kapittha-vṛkṣāś ca āmra-vṛkṣāś ca vṛkṣāḥ  
+kapittha trees  and  mango trees  and  trees
 
-(294) [not yet translated]
+(294) “*Aśvattha* trees and banyan trees and *kapittha* trees and mango trees — trees.”
 
 ‘অস্মিন্ বনে বৃক্ষাঃ ফলন্তি’ যৈছে হয় ৷  
 তৈছে সব আত্মারাম কৃষ্ণে ভক্তি করয় ॥ ২৯৫ ॥
