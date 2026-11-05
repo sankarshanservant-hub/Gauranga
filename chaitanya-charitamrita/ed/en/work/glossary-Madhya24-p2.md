@@ -23,3 +23,25 @@ Terms already fixed in `ed/GLOSSARY-commentary.md` (Madhya 24, commentary parts 
 | śānta (bhakta) | the peaceful ones; *śānta* devotees | 24.158 |
 | kūrpa-dṛk; Āruṇi; udara; dahara | of gross vision; the Āruṇis; the belly (*udara*); the subtle (*dahara*) | 24.160, 207 |
 | yatnāgraha | eager longing (*yatnāgraha*) | 24.165 |
+| āsaṅga | *āsaṅga*, eager longing (for Kṛṣṇa’s love) | 24.166 |
+| muni = bird, bee; nirgrantha = fool | a bird, a bumblebee; a foolish person | 24.169, 179, 181 |
+| amba (gopīs’ address) | O mother | 24.170 |
+| Hṛṣīkeśa | Hṛṣīkeśa, the Lord of the senses | 24.178 |
+| paṇḍita / mūrkha | learned (*paṇḍita*) / foolish (*mūrkha*) | 24.181 |
+| rati-buddhi | attachment (*rati*) and good intelligence | 24.182 |
+| Adbhuta-krama | Adbhuta-krama, the Lord of wondrous deeds | 24.184 |
+| pañca sādhana (sat-saṅga, kṛṣṇa-sevā, bhāgavata, nāma, vraje vāsa) | the five principal *sādhanas*: the company of saints, service to Kṛṣṇa, the *Bhāgavata*, the holy Name, living in Vraja | 24.187 |
+| dāsa-abhimāna | to know oneself as Kṛṣṇa’s servant | 24.195 |
+| karaja | fingers (lit. nails) | 24.200 (RU: VCD «пальцами ног» → «пальцами рук») |
+| niryoga-pāśa | ropes and nooses for tying the cows | 24.201 |
+| dehopādhi brahma | Brahman conditioned by the body | 24.206 |
+| āsava | honeyed nectar (*āsava*) | 24.209 |
+| tapasvī | ascetic (*tapasvī*) | 24.210 |
+| Baṭo, bhikṣām aṭa, gāṁ cānaya | “O boy, go for alms, and bring the cow too” | 24.217 (*anvācaya*) |
+| vyādha; nirdhana | hunter (*vyādha*); pauper (*nirdhana*) | 24.221 |
+| bhāgavatottama | the best of the *bhāgavatas* | 24.222 |
+| Triveṇī; Prayāga | the Triveṇī; Prayāga | 24.224 |
+| õta | hiding (*õta*) | 24.228 |
+| Yama daṇḍa-dhara | Yamarāja holding his rod of punishment | 24.229 |
+| Gosāñi | Gosāñi | 24.232 |
+| prayāṇa-patha | the road (*prayāṇa-patha*) | 24.232 |

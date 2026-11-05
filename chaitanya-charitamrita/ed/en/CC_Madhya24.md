@@ -1566,11 +1566,11 @@ from their position  fallen  they fall  down
 মুক্তা অপি লীলয়া বিগ্রহং কৃত্বা ভগবন্তং ভজন্তে ॥ ১৩৮ ॥
 
 muktā api līlayā vigrahaṁ  
-the liberated  even  in pastime  a form  
+the liberated  even  by līlā  a form  
 kṛtvā bhagavantaṁ bhajante  
 having assumed  Bhagavān  worship
 
-(138) “Even the liberated, assuming a form in the Lord’s pastimes (*līlā*), worship Bhagavān.” (the author of the *Sarvajña-bhāṣya*)
+(138) “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” (Sarvajña-bhāṣya)
 
 এই ছয় আত্মারাম কৃষ্ণেরে ভজয় ৷  
 পৃথক্ পৃথক্ চ-কারে ইহা ‘অপি’র অর্থ কয় ॥ ১৩৯ ॥
