@@ -1340,7 +1340,7 @@ called the company of saints  bringing happiness
 kṛtādya no yena kṛśā mumukṣā  
 made  today  our  by which  weak  desire for liberation
 
-(120) “O great soul, this worldly existence is corrupted by many faults, yet it shines with one quality, called the company of saints, which brings happiness: by it our desire for liberation has today been made weak.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Prīti-bhakti-laharī, 27)
+(120) “O great soul, this worldly existence is corrupted by many faults, yet it shines with one quality, called the company of saints, which brings happiness; through it our desire for liberation has today grown weak.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Prīti-bhakti-laharī, 27)
 
 নারদের সঙ্গে শৌনকাদি মুনিগণ ৷  
 মুমুক্ষা ছাড়িয়া কৈলা কৃষ্ণের ভজন ॥ ১২১ ॥
@@ -1464,7 +1464,7 @@ liberation  having given up  the other form
 svarūpeṇa vyavasthitiḥ  
 in one’s own true nature  being established
 
-(130) “*Nirodha* is the lying down to rest of the self, together with its potencies, following (the mystic slumber of the Lord). *Mukti* is to give up the other form and be established in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)
+(130) “*Nirodha* is when the self, together with its potencies, lies down to rest after the Lord enters His mystic slumber (*yoga-nidrā*). *Mukti* is to give up the alien form and abide in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)[^27]
 
 কৃষ্ণ-বহির্ম্মুখতা-দোষ মায়া হৈতে হয় ৷  
 কৃষ্ণোন্মুখী মুক্তি হৈতে মায়া-মুক্তি হয় ॥ ১৩১ ॥
@@ -1474,7 +1474,7 @@ from Kṛṣṇa  of turning away  the fault  from māyā  comes  is
 kṛṣṇonmukhī mukti haite māyā-mukti haya  
 turned toward Kṛṣṇa  liberation  from  from māyā  freedom  comes
 
-(131) The fault of turning away from Kṛṣṇa comes from māyā, and freedom from māyā comes from liberation that is turned toward Kṛṣṇa.[^27]
+(131) The fault of turning away from Kṛṣṇa comes from māyā, and freedom from māyā comes from liberation that is turned toward Kṛṣṇa.[^28]
 
 ভয়ং দ্বিতীয়াভিনিবেশতঃ স্যা-  
 দীশাদপেতস্য বিপর্য্যয়োঽস্মৃতিঃ ৷  
@@ -1490,7 +1490,7 @@ by His māyā  therefore  the wise one  should worship  Him
 bhaktyaikayeśaṁ guru-devatātmā  
 with devotion  exclusive  the Lord  seeing the guru as his deity and his self
 
-(132) “For one who has turned away from the Lord, fear arises from absorption in what is other than Him; by His māyā come forgetfulness of the Lord and a false idea of oneself. Therefore the wise, seeing the guru as his worshipful deity and his very self, should worship the Lord with exclusive devotion.” (Śrīmad-Bhāgavatam, 11.2.37)[^28]
+(132) “For one who has turned away from the Lord, fear arises from absorption in what is other than Him; by His māyā come forgetfulness of the Lord and a false idea of oneself. Therefore the wise, seeing the guru as his worshipful deity and his very self, should worship the Lord with exclusive devotion.” (Śrīmad-Bhāgavatam, 11.2.37)[^29]
 
 দৈবী হ্যেষা গুণময়ী মম মায়া দুরত্যয়া ৷  
 মামেব যে প্রপদ্যন্তে মায়ামেতাং তরন্তি তে ॥ ১৩৩ ॥
@@ -1504,7 +1504,7 @@ to Me  alone  those who  surrender
 māyām etāṁ taranti te  
 māyā  this  cross over  they
 
-(133) “This divine māyā of Mine, made of the guṇas, is hard to overcome. But those who surrender to Me alone cross beyond this māyā.” (Bhagavad-gītā, 7.14)[^29]
+(133) “This divine māyā of Mine, made of the guṇas, is hard to overcome. But those who surrender to Me alone cross beyond this māyā.” (Bhagavad-gītā, 7.14)[^30]
 
 ভক্তি বিনা মুক্তি নাহি, ভক্ত্যে মুক্তি হয় ৷  
 ভক্ত্যে মুক্তি পাইলে অবশ্য কৃষ্ণ ভজয় ॥ ১৩৪ ॥
@@ -1530,7 +1530,7 @@ for them  this  toil  only  remains
 nānyad yathā sthūla-tuṣāvaghātinām  
 nothing else  as  for those who pound empty husks
 
-(135) “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)[^30]
+(135) “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)[^31]
 
 যেঽন্যেঽরবিন্দাক্ষ বিমুক্তমানিন-  
 স্ত্বয্যস্তভাবাদবিশুদ্ধবুদ্ধয়ঃ ৷  
@@ -1546,7 +1546,7 @@ having risen  with hardship  to the supreme  position  from there
 patanty adho ‘nādṛta-yuṣmad-aṅghrayaḥ  
 fall  down  having neglected Your feet
 
-(136) “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)[^31]
+(136) “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)[^32]
 
 য এষাং পুরুষং সাক্ষাদাত্মপ্রভবমীশ্বরম্ ৷  
 ন ভজন্ত্যবজানন্তি স্থানাদ্ভ্রষ্টাঃ পতন্ত্যধঃ ॥ ১৩৭ ॥
@@ -1560,7 +1560,7 @@ not  worship  disregard
 sthānād bhraṣṭāḥ patanty adhaḥ  
 from their position  fallen  they fall  down
 
-(137) “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and sink into the depths.” (Śrīmad-Bhāgavatam, 11.5.3)[^32]
+(137) “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and sink into the depths.” (Śrīmad-Bhāgavatam, 11.5.3)[^33]
 
 মুক্তা অপি লীলয়া বিগ্রহং কৃত্বা ভগবন্তং ভজন্তে ॥ ১৩৮ ॥
 
@@ -1569,7 +1569,7 @@ the liberated  even  by līlā  a form
 kṛtvā bhagavantaṁ bhajante  
 having assumed  Bhagavān  worship
 
-(138) “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” (words of the author of the Sarvajña-bhāṣya, quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 10.87.21)[^33]
+(138) “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” (words of the author of the Sarvajña-bhāṣya, quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 10.87.21)[^34]
 
 এই ছয় আত্মারাম কৃষ্ণেরে ভজয় ৷  
 পৃথক্ পৃথক্ চ-কারে ইহা ‘অপি’র অর্থ কয় ॥ ১৩৯ ॥
@@ -1641,7 +1641,7 @@ of words whose meaning is already expressed  non-use
 rāmaś ca rāmaś ca rāmaś ca rāmā itivat  
 Rāma  and  Rāma  and  Rāma  and  Rāmas  as in
 
-(145) “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used: thus ‘*rāmaś ca rāmaś ca rāmaś ca*’ becomes ‘*rāmāḥ*’.” (Viśva-prakāśa)[^34]
+(145) “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used: thus ‘*rāmaś ca rāmaś ca rāmaś ca*’ becomes ‘*rāmāḥ*’.” (Viśva-prakāśa)[^35]
 
 তবে যে চ-কার, সেই ‘সমুচ্চয়’ কয় ৷  
 ‘আত্মারামাশ্চ মুনয়শ্চ’ কৃষ্ণেরে ভজয় ॥ ১৪৬ ॥
@@ -1681,7 +1681,7 @@ sagarbha  nirgarbha  these  are  two  kinds
 eka eka tina bhede chaya vibheda  
 each  one  in three  kinds  six  subdivisions
 
-(149) *Sagarbha* and *nirgarbha* — these are the two kinds. Each of them is of three kinds, and so there are six divisions.[^35]
+(149) *Sagarbha* and *nirgarbha* — these are the two kinds. Each of them is of three kinds, and so there are six divisions.[^36]
 
 কেচিৎ স্বদেহান্তর্হৃদয়াবকাশে  
 প্রাদেশমাত্রং পুরুষং বসন্তম্ ৷  
@@ -1781,7 +1781,7 @@ urukrame  ahaitukī  where  which  meaning
 ei tera artha kahilum̐ parama samartha  
 these  thirteen  meanings  I have told  most  cogent
 
-(157) The words *urukrame* and *ahaitukī* take whichever meaning fits each case. Thus I have told you thirteen most cogent meanings.[^36]
+(157) The words *urukrame* and *ahaitukī* take whichever meaning fits each case. Thus I have told you thirteen most cogent meanings.[^37]
 
 এই সব শান্ত যবে ভজে ভগবান্ ৷  
 ‘শান্ত’ ভক্ত করি’ তবে কহি তাঁর নাম ॥ ১৫৮ ॥
@@ -1827,7 +1827,7 @@ these  by Kṛṣṇa’s  qualities attracted  great sages  becoming
 ahaitukī bhakti kare nirgrantha hañā  
 causeless  devotion  render  nirgranthas  becoming
 
-(161) Attracted by Kṛṣṇa’s qualities, they become great sages and, becoming *nirgrantha*, render causeless devotion.
+(161) Attracted by Kṛṣṇa’s qualities, they become great sages, *nirgranthas*, and render Him causeless devotion.
 
 ‘আত্মা’-শব্দে ‘যত্ন’ কহে — যত্ন করিয়া ৷  
 ‘মুনয়োঽপি’ কৃষ্ণ ভজে নির্গ্রন্থ হঞা ॥ ১৬২ ॥
@@ -1867,7 +1867,7 @@ soon  indeed  every aim
 sidhyaty eṣām abhīpsitaḥ  
 is fulfilled  of those  desired
 
-(164) “Those whose minds are set with perseverance on understanding true religion soon attain every aim they desire.” (Nārada-purāṇa; Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 103)[^37]
+(164) “Those whose minds are set with perseverance on understanding true religion soon attain every aim they desire.” (Nārada-purāṇa; Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 103)[^38]
 
 চ শব্দে অপি-অর্থে, ‘অপি’ — অবধারণে ৷  
 যত্নাগ্রহ বিনা ভক্তি না জন্মায় প্রেমে ॥ ১৬৫ ॥
@@ -1905,7 +1905,7 @@ I give  understanding  that
 yena mām upayānti te  
 by which  to Me  come  they
 
-(167) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)[^38]
+(167) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)[^39]
 
 ‘আত্মা’-শব্দে ‘ধৃতি’ কহে, — ধৈর্য্যে যেই রমে ৷  
 ধৈর্য্যবন্ত হঞা তবে করয় ভজনে ॥ ১৬৮ ॥
@@ -1941,7 +1941,7 @@ having risen  who  onto the branches of the trees  with lovely shoots
 śṛṇvanti mīlita-dṛśo vigatānya-vācaḥ  
 they hear  with eyes closed  all other sounds silenced
 
-(170) “O mother, the birds of this forest are almost sages: they rise onto the branches of the trees, lovely with fresh shoots, to see Kṛṣṇa, and with eyes closed and all other sounds silenced, they listen to the sweet song of the flute that flows from Him.” (Śrīmad-Bhāgavatam, 10.21.14)[^39]
+(170) “O mother, the birds of this forest are almost sages: they rise onto the branches of the trees, lovely with fresh shoots, to see Kṛṣṇa, and with eyes closed and all other sounds silenced, they listen to the sweet song of the flute that flows from Him.” (Śrīmad-Bhāgavatam, 10.21.14)[^40]
 
 এতেঽলিনস্তব যশোঽখিল-লোকতীর্থং  
 গায়ন্ত আদিপুরুষানুপথং ভজন্তে ৷  
@@ -1999,7 +1999,7 @@ or  by the word dhṛti  one’s own  fullness and so on  awareness  is meant
 duḥkhābhāve uttama-prāptye mahā-pūrṇa haya  
 by the absence of suffering  of the highest  by the attainment  completely full  one becomes
 
-(174) Or the word *dhṛti* means the awareness of one’s own fullness: through the absence of suffering and the attainment of the highest, one becomes completely full.[^40]
+(174) Or the word *dhṛti* means the awareness of one’s own fullness: through the absence of suffering and the attainment of the highest, one becomes completely full.[^41]
 
 ধৃতিঃ স্যাৎ পূর্ণতা-জ্ঞানং দুঃখাভাবোত্তমাপ্তিভিঃ ৷  
 অপ্রাপ্তাতীতনষ্টার্থানভিসংশোচনাদিকৃৎ ॥ ১৭৫ ॥
@@ -2037,7 +2037,7 @@ do not desire  by service  fulfilled
 kuto ‘nyat kāla-viplutam  
 how much less  anything else  destroyed by time
 
-(177) “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)[^41]
+(177) “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)[^42]
 
 হৃষীকেশে হৃষীকাণি যস্য স্থৈর্য্যগতানি হি ৷  
 স এব ধৈর্য্যমাপ্নোতি সংসারে জীবচঞ্চলে ॥ ১৭৮ ॥
@@ -2051,7 +2051,7 @@ he  alone  steadfastness  attains
 saṁsāre jīva-cañcale  
 in saṁsāra  where living beings are unsteady
 
-(178) “In this world of birth and death (*saṁsāra*), where all living beings are unsteady, he alone attains steadfastness whose senses have become steady in Hṛṣīkeśa, the Lord of the senses.” (Words of the Gosvāmipāda)[^42]
+(178) “In this world of birth and death (*saṁsāra*), where all living beings are unsteady, he alone attains steadfastness whose senses have become steady in Hṛṣīkeśa, the Lord of the senses.” (Words of the Gosvāmipāda)[^43]
 
 ‘চ’ — অবধারণে, ইহা ‘অপি’ — সমুচ্চয়ে ৷  
 ধৃতিমন্ত হঞা ভজে পক্ষী-মূর্খ-চয়ে ॥ ১৭৯ ॥
@@ -2105,7 +2105,7 @@ thus  knowing  worship  Me
 budhā bhāva-samanvitāḥ  
 the wise  with bhāva  endowed
 
-(183) “I am the source of everything; everything proceeds from Me. Knowing this, the wise, endowed with *bhāva*, worship Me.” (Bhagavad-gītā, 10.8)[^43]
+(183) “I am the source of everything; everything proceeds from Me. Knowing this, the wise, endowed with *bhāva*, worship Me.” (Bhagavad-gītā, 10.8)[^44]
 
 তে বৈ বিদন্ত্যতিতরন্তি চ দেবমায়াং  
 স্ত্রীশূদ্রহূনশবরা অপি পাপজীবাঃ ৷  
@@ -2145,7 +2145,7 @@ I give  understanding  that
 yena mām upayānti te  
 by which  to Me  come  they
 
-(186) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)[^44]
+(186) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)[^45]
 
 সৎসঙ্গ, কৃষ্ণসেবা, ভাগবত, নাম ৷  
 ব্রজে বাস, — এই পঞ্চসাধন প্রধান ॥ ১৮৭ ॥
@@ -2179,7 +2179,7 @@ where  slight  even  connection
 sad-dhiyāṁ bhāva-janmane  
 for those of good understanding  for the birth of bhāva
 
-(189) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 238)[^45]
+(189) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 238)[^46]
 
 উদার মহতী যাঁর সর্ব্বোত্তমা বুদ্ধি ৷  
 নানা কামে ভজে, তবু পায় ভক্তিসিদ্ধি ॥ ১৯০ ॥
@@ -2203,7 +2203,7 @@ with intense  bhakti-yoga
 yajeta puruṣaṁ param  
 should worship  the Person  Supreme
 
-(191) “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)[^46]
+(191) “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)[^47]
 
 ভক্তি-প্রভাব, — সেই কাম ছাড়াঞা ৷  
 কৃষ্ণপদে ভক্তি করায় গুণে আকর্ষিয়া ॥ ১৯২ ॥
@@ -2229,7 +2229,7 @@ Himself  He grants  to those who worship  though not desiring
 icchā-pidhānaṁ nija-pāda-pallavam  
 covering all desires  His own  feet like tender shoots
 
-(193) “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)[^47]
+(193) “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)[^48]
 
 ‘আত্মা’-শব্দে ‘স্বভাব’ কহে, তাতে যেই রমে ৷  
 আত্মারাম জীব যত স্থাবর-জঙ্গমে ॥ ১৯৪ ॥
@@ -2249,7 +2249,7 @@ of the jīva  the nature  toward Kṛṣṇa  servant  self-conception
 dehe ātma-jñāne ācchādita sei ‘jñāna’  
 in the body  by the notion of self  covered  that  awareness
 
-(195) The nature of the jīva is to know himself as Kṛṣṇa’s servant; that awareness becomes covered when he takes the body to be the self.[^48]
+(195) The nature of the jīva is to know himself as Kṛṣṇa’s servant; that awareness becomes covered when he takes the body to be the self.[^49]
 
 চ-শব্দে ‘এব’, ‘অপি’-শব্দ সমুচ্চয়ে ৷  
 ‘আত্মারামা এব’ হঞা শ্রীকৃষ্ণ ভজয়ে ॥ ১৯৬ ॥
@@ -2269,7 +2269,7 @@ these  jīvas  Sanaka and the others  all  sages
 ‘nirgrantha’ — mūrkha, nīca, sthāvara-jaṅgama  
 the nirgranthas  the foolish  the low  stationary  moving
 
-(197) These jīvas are all the sages (*munis*), such as Sanaka and the others; and the *nirgranthas* are the foolish, the low, and the stationary and moving beings.
+(197) These *jīvas* include all the sages (*munis*), Sanaka and the rest; and the *nirgranthas* are the foolish, the low, and all beings, stationary and moving.
 
 ব্যাস-শুক-সনকাদির প্রসিদ্ধ ভজন ৷  
 ‘নির্গ্রন্থ’ স্থাবরাদির শুন বিবরণ ॥ ১৯৮ ॥
@@ -2337,7 +2337,7 @@ bowed  with the weight  their branches  of honey  streams
 prema-hṛṣṭa-tanavo vavṛṣuḥ sma  
 with love  thrilled  bodies  showered  indeed
 
-(202) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam, 10.35.9)[^49]
+(202) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam, 10.35.9)[^50]
 
 কিরাতহূনান্ধ্র-পুলিন্দ পুক্কশাঃ  
 আভীরশুম্ভা যবনাঃ খশাদয়ঃ ৷  
@@ -2353,7 +2353,7 @@ who  others  and  sinful  of those who have taken shelter of Him  taking shelter
 śuddhyanti tasmai prabhaviṣṇave namaḥ  
 are purified  to Him  the all-powerful  obeisance
 
-(203) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and other tribes, and all other sinful people as well, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)[^50]
+(203) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and other tribes, and all other sinful people as well, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)[^51]
 
 আগে ‘তের’ অর্থ করিলুঁ, আর ‘ছয়’ এই ৷  
 ঊনবিংশতি অর্থ হইল মিলি’ এই দুই ॥ ২০৪ ॥
@@ -2363,7 +2363,7 @@ before  thirteen  meanings  I gave  and  six  these
 ūnaviṁśati artha haila mili’ ei dui  
 nineteen  meanings  there are  combined  these  two
 
-(204) Earlier I gave thirteen meanings, and now these six: together they make nineteen meanings.[^51]
+(204) Earlier I gave thirteen meanings, and now these six: together they make nineteen meanings.[^52]
 
 এই ঊনিশ অর্থ করিলুঁ, আগে শুন আর ৷  
 ‘আত্মা’-শব্দে ‘দেহ’ কহে, — চারি অর্থ তার ॥ ২০৫ ॥
@@ -2399,7 +2399,7 @@ from there  rises  O Ananta  Your  abode  the head  supreme
 punar iha yat sametya na patanti kṛtānta-mukhe  
 again  here  which  having reached  not  they fall  of death  into the mouth
 
-(207) “Following the paths of the ṛṣis, those of gross vision worship Brahman in the belly (*udara*), while the Āruṇis worship the subtle Brahman (*dahara*) in the heart, from which the channels branch out. From there, O Ananta, the path rises to the head, Your supreme abode; having reached it, they no longer fall into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)[^52]
+(207) “Following the paths of the ṛṣis, those of gross vision worship Brahman in the belly (*udara*), while the Āruṇis worship the subtle Brahman (*dahara*) in the heart, from which the channels branch out. From there, O Ananta, the path rises to the head, Your supreme abode; having reached it, they no longer fall into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)[^53]
 
 দেহারামী কর্ম্মনিষ্ঠ — যাজ্ঞিকাদি জন ৷  
 সৎসঙ্গে ‘কর্ম্ম’ ত্যজি’ করয় ভজন ॥ ২০৮ ॥
@@ -2449,7 +2449,7 @@ at once  destroys  day by day  increasing  being
 yathā padāṅguṣṭha-viniḥsṛtā sarit  
 as  from the toe of His foot  flowing  the river
 
-(211) “The taste for serving His feet, pure and increasing day by day, at once destroys the impurity that has gathered in the minds of ascetics through countless births, as does the river (Gaṅgā) that flows from the toe of His foot.” (Śrīmad-Bhāgavatam, 4.21.31)[^53]
+(211) “The taste for serving His feet, pure and increasing day by day, at once destroys the impurity that has gathered in the minds of ascetics through countless births, as does the river (Gaṅgā) that flows from the toe of His foot.” (Śrīmad-Bhāgavatam, 4.21.31)[^54]
 
 দেহারামী, সর্ব্বকাম — সব আত্মারাম ৷  
 কৃষ্ণকৃপায় কৃষ্ণ ভজে ছাড়ি’ সব কাম ॥ ২১২ ॥
@@ -2475,7 +2475,7 @@ glass  searching for  though  a divine jewel
 svāmin kṛtārtho ‘smi varaṁ na yāce  
 O Master  fulfilled  I am  a boon  not  I ask
 
-(213) “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)[^54]
+(213) “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)[^55]
 
 এই চারি অর্থ সহ হইল ‘তেইশ’ অর্থ ৷  
 আর তিন অর্থ শুন পরম সমর্থ ॥ ২১৪ ॥
@@ -2485,7 +2485,7 @@ these  four  meanings  together with  there are  twenty-three  meanings
 āra tina artha śuna parama samartha  
 further  three  meanings  hear  most  cogent
 
-(214) Together with these four, there are twenty-three meanings. Now hear three more most cogent meanings.[^55]
+(214) Together with these four, there are twenty-three meanings. Now hear three more meanings, all most cogent.[^56]
 
 চ-শব্দে ‘সমুচ্চয়ে’, আর অর্থ কয় ৷  
 ‘আত্মারামাশ্চ মুনয়শ্চ’ কৃষ্ণেরে ভজয় ॥ ২১৫ ॥
@@ -2495,7 +2495,7 @@ the word ca  in the sense of conjunction  another  meaning  expresses
 ‘ātmārāmāś ca munayaś ca’ kṛṣṇere bhajaya  
 ātmārāmas  and  sages  and  Kṛṣṇa  worship
 
-(215) When *ca* has the sense of conjunction (*samuccaya*), the *ātmārāmas* and the sages (*ātmārāmāś ca munayaś ca*) worship Kṛṣṇa; but *ca* has yet another meaning.[^56]
+(215) When *ca* has the sense of conjunction (*samuccaya*), the *ātmārāmas* and the sages (*ātmārāmāś ca munayaś ca*) worship Kṛṣṇa; but *ca* has yet another meaning.[^57]
 
 ‘নির্গ্রন্থাঃ’ হঞা ইঁহা ‘অপি’ — নির্দ্ধারণে ৷  
 ‘রামশ্চ কৃষ্ণশ্চ’ যথা বিহরয়ে বনে ॥ ২১৬ ॥
@@ -2535,7 +2535,7 @@ ca  in the sense of eva  sages  only  Kṛṣṇa  worship
 “ātmārāmā api” — ‘api’ ‘garhā’-artha kaya  
 ātmārāmas  even  api  of censure  the meaning  expresses
 
-(219) If *ca* is taken in the sense of *eva*, then “only the sages (*munayaḥ eva*)” worship Kṛṣṇa; and in “*ātmārāmā api*” the word *api* expresses censure (*garhā*).[^57]
+(219) If *ca* is taken in the sense of *eva*, then “only the sages (*munayaḥ eva*)” worship Kṛṣṇa; and in “*ātmārāmā api*” the word *api* expresses censure (*garhā*).[^58]
 
 ‘নির্গ্রন্থ হঞা’ — এই দুঁহার ‘বিশেষণ’ ৷  
 আর অর্থ শুন, যৈছে সাধুর সঙ্গম ॥ ২২০ ॥
@@ -2555,7 +2555,7 @@ by the word nirgrantha  is meant  then  a hunter  a pauper
 sādhu-saṅge seha kare śrī-kṛṣṇa bhajana  
 in the company of sādhus  he too  performs  of Śrī Kṛṣṇa  worship
 
-(221) The word *nirgrantha* then means a hunter (*vyādha*) or a pauper (*nirdhana*); in the company of sādhus, he too worships Śrī Kṛṣṇa.[^58]
+(221) The word *nirgrantha* then means a hunter (*vyādha*) or a pauper (*nirdhana*); in the company of sādhus, he too worships Śrī Kṛṣṇa.[^59]
 
 ‘কৃষ্ণারামাশ্চ’ এব কৃষ্ণ-মনন ৷  
 ব্যাধ হঞা হয় পূজ্য ভাগবতোত্তম ॥ ২২২ ॥
@@ -2615,7 +2615,7 @@ likewise  a  rabbit  he sees  further  a little way on
 jīvera duḥkha dekhi’ nārada vyākula antare  
 of the creatures  the suffering  seeing  Nārada  distressed  at heart
 
-(227) A little farther on he saw a rabbit in the same state. Seeing the suffering of these creatures, Nārada was distressed at heart.
+(227) Farther still he saw a rabbit in the same state. Seeing the suffering of these creatures, Nārada was distressed at heart.
 
 কতদূরে দেখে ব্যাধে বৃক্ষে ওঁত হঞা ৷  
 মৃগ মারিবারে আছে বাণ যুড়িয়া ॥ ২২৮ ॥
@@ -2625,7 +2625,7 @@ a little way on  he sees  the hunter  behind a tree  hidden (õta)  being
 mṛga māribāre āche bāṇa yuḍiyā  
 deer  to kill  he is  an arrow  having fitted
 
-(228) A little farther on he saw the hunter hiding behind a tree, an arrow fitted to his bow, waiting to kill deer.
+(228) Going on a little, he saw the hunter hiding behind a tree, an arrow fitted to his bow, waiting to kill deer.
 
 শ্যামবর্ণ রক্তনেত্র মহাভয়ঙ্কর ৷  
 ধনুর্ব্বাণ হস্তে, — যেন যম দণ্ডধর ॥ ২২৯ ॥
@@ -2741,66 +2741,68 @@ the hunter  said  what  you say  that  indeed  certain
 
 [^26]: The same verse as Madhya 10.178; translation as there. The source is given as in the heading of the edition (p. 803): words of Bilvamaṅgala in the *Śrī Kṛṣṇa-karṇāmṛta*.
 
-[^27]: The Gauḍīya Maṭha edition reads *kṛṣṇonmukhī mukti*, “liberation turned toward Kṛṣṇa”; another reading has *kṛṣṇonmukha bhakti … māyā-mukta haya*, “through devotion turned toward Kṛṣṇa one is freed from māyā.” According to the *Anubhāṣya*, freedom from māyā comes through serving Kṛṣṇa, that is, through turning toward Him.
+[^27]: *Anubhāṣya*: *nirodha* and *mukti* are two of the ten characteristics of a *mahā-purāṇa*; the “potencies” are the *jīva*’s *upādhis*; the “other form” is the notion, imposed by ignorance (*avidyā*), that one is the doer; *svarūpa* is the pure nature of the *jīva*, who serves Bhagavān.
 
-[^28]: The same verse as Madhya 20.119; translation as there.
+[^28]: The Gauḍīya Maṭha edition reads *kṛṣṇonmukhī mukti*, “liberation turned toward Kṛṣṇa”; another reading has *kṛṣṇonmukha bhakti … māyā-mukta haya*, “through devotion turned toward Kṛṣṇa one is freed from māyā.” According to the *Anubhāṣya*, freedom from māyā comes through serving Kṛṣṇa, that is, through turning toward Him.
 
-[^29]: The same verse as Madhya 20.121; translation as there.
+[^29]: The same verse as Madhya 20.119; translation as there.
 
-[^30]: The same verse as Madhya 22.22; translation as there.
+[^30]: The same verse as Madhya 20.121; translation as there.
 
-[^31]: The same verse as 126 (= Madhya 22.30); translation as there.
+[^31]: The same verse as Madhya 22.22; translation as there.
 
-[^32]: The same verse as Madhya 22.28; translation as there.
+[^32]: The same verse as 126 (= Madhya 22.30); translation as there.
 
-[^33]: The same verse as 107; translation and reference as there (heading of the edition, p. 804). The line is printed without a number (only «॥»).
+[^33]: The same verse as Madhya 22.28; translation as there.
 
-[^34]: The first two lines of the earlier text form a single line in the edition (p. 804); the source is given as in the heading of the edition (*Viśva-prakāśa*). *Rāmāḥ* is the plural (“the Rāmas”).
+[^34]: The same verse as 107; translation and reference as there (heading of the edition, p. 804). The line is printed without a number (only «॥»).
 
-[^35]: The edition (p. 804) reads নিগর্ভ (so also in the heading and in the commentaries, pp. 804–806), i.e. *nirgarbha*, “without support”; the translation follows the commentaries. *Anubhāṣya*: *sagarbha* yogīs rely on meditation on the form of the one they worship; *nirgarbha* yogīs are given to meditation on the void and have no support; the six divisions are *sagarbha* and *nirgarbha* among those aspiring to yoga (*yogārurukṣu*), those established in yoga (*yogārūḍha*) and those who have attained perfection (*prāpta-siddhi*).
+[^35]: The first two lines of the earlier text form a single line in the edition (p. 804); the source is given as in the heading of the edition (*Viśva-prakāśa*). *Rāmāḥ* is the plural (“the Rāmas”).
 
-[^36]: Heading of the edition: “These are the thirteen meanings.” *Anubhāṣya*: they are the *sādhaka*, the *brahmamaya*, the *prāpta-brahma-laya*, the *mumukṣu*, the *jīvan-mukta* and the *prāpta-svarūpa* — the six kinds of *ātmārāmas*; the *nirgrantha muni*; and the *sagarbha* and *nirgarbha* yogīs of the three stages — those aspiring to yoga, those established in it and those who have attained perfection.
+[^36]: The edition (p. 804) reads নিগর্ভ (so also in the heading and in the commentaries, pp. 804–806), i.e. *nirgarbha*, “without support”; the translation follows the commentaries. *Anubhāṣya*: *sagarbha* yogīs rely on meditation on the form of the one they worship; *nirgarbha* yogīs are given to meditation on the void and have no support; the six divisions are *sagarbha* and *nirgarbha* among those aspiring to yoga (*yogārurukṣu*), those established in yoga (*yogārūḍha*) and those who have attained perfection (*prāpta-siddhi*).
 
-[^37]: The same verse as Madhya 20.106; translation as there. In the edition (p. 807) the two lines of the verse are printed in reverse order (“সদ্ধর্ম্মস্যাববোধায়…” first; in Madhya 20.106 and in the *Bhakti-rasāmṛta-sindhu* it is the second line); the Bengali, transliteration and word-for-word follow the edition. Reference as in the heading of the edition: second *laharī*, 103 (in Madhya 20.106 the heading there gives 47).
+[^37]: Heading of the edition: “These are the thirteen meanings.” *Anubhāṣya*: they are the *sādhaka*, the *brahmamaya*, the *prāpta-brahma-laya*, the *mumukṣu*, the *jīvan-mukta* and the *prāpta-svarūpa* — the six kinds of *ātmārāmas*; the *nirgrantha muni*; and the *sagarbha* and *nirgarbha* yogīs of the three stages — those aspiring to yoga, those established in it and those who have attained perfection.
 
-[^38]: The same verse as Ādi 1.49; translation as there.
+[^38]: The same verse as Madhya 20.106; translation as there. In the edition (p. 807) the two lines of the verse are printed in reverse order (“সদ্ধর্ম্মস্যাববোধায়…” first; in Madhya 20.106 and in the *Bhakti-rasāmṛta-sindhu* it is the second line); the Bengali, transliteration and word-for-word follow the edition. Reference as in the heading of the edition: second *laharī*, 103 (in Madhya 20.106 the heading there gives 47).
 
-[^39]: *Anubhāṣya*: *amba* — “O mother”; *prāyaḥ* — “for the most part”, “almost”.
+[^39]: The same verse as Ādi 1.49; translation as there.
 
-[^40]: *Anubhāṣya* (on 175): “the highest” (*uttama*) is prema.
+[^40]: *Anubhāṣya*: *amba* — “O mother”; *prāyaḥ* — “for the most part”, “almost”.
 
-[^41]: The same verse as Ādi 4.208; translation as there. Reference as in the heading of the edition (p. 809). The line is printed without a number (only «॥»).
+[^41]: *Anubhāṣya* (on 175): “the highest” (*uttama*) is prema.
 
-[^42]: Source as in the heading of the edition (p. 809).
+[^42]: The same verse as Ādi 4.208; translation as there. Reference as in the heading of the edition (p. 809). The line is printed without a number (only «॥»).
 
-[^43]: *Anubhāṣya*: “of everything” — of Brahmā, Rudra and the whole manifest world; “the wise” — those who know the taste of Kṛṣṇa; “endowed with *bhāva*” — filled with prema.
+[^43]: Source as in the heading of the edition (p. 809).
 
-[^44]: The same verse as 167 (= Ādi 1.49); translation as there.
+[^44]: *Anubhāṣya*: “of everything” — of Brahmā, Rudra and the whole manifest world; “the wise” — those who know the taste of Kṛṣṇa; “endowed with *bhāva*” — filled with prema.
 
-[^45]: The same verse as Madhya 22.128; translation as there. Reference as in the heading of the edition here (p. 810: 238; in Madhya 22.128 the heading there gives 87).
+[^45]: The same verse as 167 (= Ādi 1.49); translation as there.
 
-[^46]: The same verse as 85 (= Madhya 22.36); translation as there.
+[^46]: The same verse as Madhya 22.128; translation as there. Reference as in the heading of the edition here (p. 810: 238; in Madhya 22.128 the heading there gives 87).
 
-[^47]: The same verse as 98 (= Madhya 22.40); translation as there. Numbered as in the heading of the edition (p. 811) and the *Anubhāṣya* (5.19.26); in other editions — 5.19.27.
+[^47]: The same verse as 85 (= Madhya 22.36); translation as there.
 
-[^48]: Heading of the edition: the nature of the pure, uncovered self of the *jīva* and of the covered self; the pure “I” and the impure “I”.
+[^48]: The same verse as 98 (= Madhya 22.40); translation as there. Numbered as in the heading of the edition (p. 811) and the *Anubhāṣya* (5.19.26); in other editions — 5.19.27.
 
-[^49]: The same verse as Madhya 8.275; translation as there.
+[^49]: Heading of the edition: the nature of the pure, uncovered self of the *jīva* and of the covered self; the pure “I” and the impure “I”.
 
-[^50]: The same verse as 173; translation as there.
+[^50]: The same verse as Madhya 8.275; translation as there.
 
-[^51]: *Anubhāṣya*: the six new ones are those who delight in the mind (159), in effort (162) and in steadfastness (168), the learned *muni* and the foolish *nirgrantha* who delight in intelligence (181), and the *ātmārāma* endowed with the nature of Kṛṣṇa’s servant (195).
+[^51]: The same verse as 173; translation as there.
 
-[^52]: The same verse as 160; translation as there.
+[^52]: *Anubhāṣya*: the six new ones are those who delight in the mind (159), in effort (162) and in steadfastness (168), the learned *muni* and the foolish *nirgrantha* who delight in intelligence (181), and the *ātmārāma* endowed with the nature of Kṛṣṇa’s servant (195).
 
-[^53]: *Anubhāṣya*: *satī* — “being pure”; *malam* — the impurity of the mind, the impressions of desire and the like; Pṛthu Mahārāja speaks thus of service to Viṣṇu to those assembled at his sacrifice.
+[^53]: The same verse as 160; translation as there.
 
-[^54]: The same verse as Madhya 22.42; translation as there.
+[^54]: *Anubhāṣya*: *satī* — “being pure”; *malam* — the impurity of the mind, the impressions of desire and the like; Pṛthu Mahārāja speaks thus of service to Viṣṇu to those assembled at his sacrifice.
 
-[^55]: *Anubhāṣya*: the three new meanings are *anvācaya* for *ca*; *eva* for *ca* together with *garhā* (censure) for *api*; and *nirdhana* (a poor man) for *nirgrantha*.
+[^55]: The same verse as Madhya 22.42; translation as there.
 
-[^56]: *Anubhāṣya*: the sense of *samuccaya* has been explained above; “another meaning” is one other than *samuccaya*.
+[^56]: *Anubhāṣya*: the three new meanings are *anvācaya* for *ca*; *eva* for *ca* together with *garhā* (censure) for *api*; and *nirdhana* (a poor man) for *nirgrantha*.
 
-[^57]: *Anubhāṣya*: the sense is that even though they are *ātmārāmas*, the sages renounce the honour of that position, and they alone worship Kṛṣṇa.
+[^57]: *Anubhāṣya*: the sense of *samuccaya* has been explained above; “another meaning” is one other than *samuccaya*.
 
-[^58]: *Anubhāṣya*: if *api* with *nirgrantha* has the sense of specification (*nirdhāraṇa*), then even an unworthy hunter, bereft of the wealth of *sādhana*, becomes a *kṛṣṇārāma* by the power of the company of a sādhu such as Nārada, and worships Kṛṣṇa.
+[^58]: *Anubhāṣya*: the sense is that even though they are *ātmārāmas*, the sages renounce the honour of that position, and they alone worship Kṛṣṇa.
+
+[^59]: *Anubhāṣya*: if *api* with *nirgrantha* has the sense of specification (*nirdhāraṇa*), then even an unworthy hunter, bereft of the wealth of *sādhana*, becomes a *kṛṣṇārāma* by the power of the company of a sādhu such as Nārada, and worships Kṛṣṇa.

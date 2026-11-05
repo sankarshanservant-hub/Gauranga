@@ -684,7 +684,7 @@ w: O  great soul  by many faults  corrupted
 w: though  by one  shines  this  worldly existence  quality
 w: called the company of saints  bringing happiness
 w: made  today  our  by which  weak  desire for liberation
-tr: “O great soul, this worldly existence is corrupted by many faults, yet it shines with one quality, called the company of saints, which brings happiness: by it our desire for liberation has today been made weak.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Prīti-bhakti-laharī, 27)
+tr: “O great soul, this worldly existence is corrupted by many faults, yet it shines with one quality, called the company of saints, which brings happiness; through it our desire for liberation has today grown weak.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Prīti-bhakti-laharī, 27)
 
 ## 121
 w: of Nārada  in the company  Śaunaka and the others  the sages
@@ -750,7 +750,8 @@ w: nirodha  of it  following  lying down to rest
 w: of the self  together  with its potencies
 w: liberation  having given up  the other form
 w: in one’s own true nature  being established
-tr: “*Nirodha* is the lying down to rest of the self, together with its potencies, following (the mystic slumber of the Lord). *Mukti* is to give up the other form and be established in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)
+tr: “*Nirodha* is when the self, together with its potencies, lies down to rest after the Lord enters His mystic slumber (*yoga-nidrā*). *Mukti* is to give up the alien form and abide in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)
+fn: *Anubhāṣya*: *nirodha* and *mukti* are two of the ten characteristics of a *mahā-purāṇa*; the “potencies” are the *jīva*’s *upādhis*; the “other form” is the notion, imposed by ignorance (*avidyā*), that one is the doer; *svarūpa* is the pure nature of the *jīva*, who serves Bhagavān.
 
 ## 131
 w: from Kṛṣṇa  of turning away  the fault  from māyā  comes  is
@@ -936,7 +937,7 @@ tr: “Following the paths of the ṛṣis, those of gross vision worship Brahma
 ## 161
 w: these  by Kṛṣṇa’s  qualities attracted  great sages  becoming
 w: causeless  devotion  render  nirgranthas  becoming
-tr: Attracted by Kṛṣṇa’s qualities, they become great sages and, becoming *nirgrantha*, render causeless devotion.
+tr: Attracted by Kṛṣṇa’s qualities, they become great sages, *nirgranthas*, and render Him causeless devotion.
 
 ## 162
 w: by the word ātmā  effort  is meant  effort  making
@@ -1162,7 +1163,7 @@ tr: Here *ca* means *eva* (“indeed”), and *api* has the sense of conjunction
 ## 197
 w: these  jīvas  Sanaka and the others  all  sages
 w: the nirgranthas  the foolish  the low  stationary  moving
-tr: These jīvas are all the sages (*munis*), such as Sanaka and the others; and the *nirgranthas* are the foolish, the low, and the stationary and moving beings.
+tr: These *jīvas* include all the sages (*munis*), Sanaka and the rest; and the *nirgranthas* are the foolish, the low, and all beings, stationary and moving.
 
 ## 198
 w: of Vyāsa  of Śuka  of Sanaka and the others  well known  the worship
@@ -1269,7 +1270,7 @@ fn: The same verse as Madhya 22.42; translation as there.
 ## 214
 w: these  four  meanings  together with  there are  twenty-three  meanings
 w: further  three  meanings  hear  most  cogent
-tr: Together with these four, there are twenty-three meanings. Now hear three more most cogent meanings.
+tr: Together with these four, there are twenty-three meanings. Now hear three more meanings, all most cogent.
 fn: *Anubhāṣya*: the three new meanings are *anvācaya* for *ca*; *eva* for *ca* together with *garhā* (censure) for *api*; and *nirdhana* (a poor man) for *nirgrantha*.
 
 ## 215
@@ -1338,12 +1339,12 @@ tr: A little farther on he saw a boar, likewise pierced, its legs broken, writhi
 ## 227
 w: likewise  a  rabbit  he sees  further  a little way on
 w: of the creatures  the suffering  seeing  Nārada  distressed  at heart
-tr: A little farther on he saw a rabbit in the same state. Seeing the suffering of these creatures, Nārada was distressed at heart.
+tr: Farther still he saw a rabbit in the same state. Seeing the suffering of these creatures, Nārada was distressed at heart.
 
 ## 228
 w: a little way on  he sees  the hunter  behind a tree  hidden (õta)  being
 w: deer  to kill  he is  an arrow  having fitted
-tr: A little farther on he saw the hunter hiding behind a tree, an arrow fitted to his bow, waiting to kill deer.
+tr: Going on a little, he saw the hunter hiding behind a tree, an arrow fitted to his bow, waiting to kill deer.
 
 ## 229
 w: dark in complexion  red-eyed  very  fearsome
