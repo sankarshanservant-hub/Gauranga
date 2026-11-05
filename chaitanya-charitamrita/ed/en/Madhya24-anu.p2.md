@@ -144,7 +144,7 @@ Having entered the *paugaṇḍa* age, Bhagavān Śrī Kṛṣṇa once went wit
 
 **he ādi-puruṣa** (the form endowed with the *sandhinī* potency, the cause of the existence of all beings), **ete** **alinaḥ** (bees) **tava** **akhila-loka-tīrtham** (purifying all the worlds) **yaśaḥ** **gāyantaḥ** **anupatham** (on every path) **bhajante**; **he anagha** (the form of the Lord of pure *sattva*), **amī** **bhavadīya-mukhyāḥ** (the foremost of Your own) **muni-gaṇāḥ** **vane** **gūḍham** (unrecognized) **api** **ātma-daivam** (their own Lord, You) **prāyaḥ** **na** **jahati** (do not leave; that is, while You are hidden in a human form, the sages, also hidden in the form of bees, serve You).
 
-Here another reading is also found — the verse (*Śrīmad-Bhāgavatam* 10.15.7): “The peacocks dance with joy, the does, like the *gopīs*, please You with their glances, the cuckoos sing sweetly for You who have come to their home: blessed are the dwellers of the forest — such is the nature of *sādhus*.” Its meaning: “O worshipable one! Seeing that You have come to their home, the peacocks dance in supreme bliss; the does, like the *gopīs*, cast their glances at You, and the cuckoos please You with sweet song. Blessed are the residents of Vṛndāvana, for such is the nature of *sādhus* — to offer what is their own.”
+Here, in another reading, the verse “*nṛtyanty amī śikhina…*” (*Śrīmad-Bhāgavatam* 10.15.7) is found. Its meaning: “O worshipable one! Seeing that You have come to their home, the peacocks dance in supreme bliss; the does, like the *gopīs*, cast their glances at You, and the cuckoos please You with sweet song. Blessed are the residents of Vṛndāvana, for such is the nature of *sādhus* — to offer what is their own.”
 
 ## 172
 
@@ -153,6 +153,62 @@ Here another reading is also found — the verse (*Śrīmad-Bhāgavatam* 10.15.7
 When Kṛṣṇa goes to the forest by day, the *gopīs*, burning in separation, sing this song to one another:
 
 (“**yarhi** **adhare** **kṛṣṇaḥ** **saṁhita-veṇuḥ** **bhavati** **tarhi**” — so it is construed with the preceding verse.) **sarasi** (in the lake) **ye** **sārasa-haṁsa-vihaṅgāḥ** **cāru-gīta-hṛta-cetasaḥ** (whose hearts were stolen, drawn by the lovely song of the flute) **etya** (having come) **hanta** (alas) **yata-cittāḥ** (with controlled minds) **dhṛta-maunāḥ** (silent) **mīlita-dṛśaḥ** (with eyes closed) **harim** **upāsata** (served Him, or sat down beside Him).
+
+## 173
+
+> Subheading: By the mercy of pure devotees even impure castes are purified —
+
+Having heard narrations of Hari from the lips of Śrī Śuka, Parīkṣit fixed his mind exclusively on Śrī Kṛṣṇa and asked how Bhagavān, the Lord of Māyā, creates the world, and about His other pastimes. In reply Śrī Śuka first bows to Bhagavān and offers a *maṅgalācaraṇa*:
+
+**kirāta-hūṇāndhra-pulinda-pukkaśāḥ** **ābhīra-śumbhāḥ** **yavanāḥ** **khaśādayaḥ** (born in sinful castes) **anye** **ye** **pāpāḥ** (born in sinful castes because of their own past *karma*) **yad-upāśrayāśrayāḥ** (the *upāśrayas* of Bhagavān are the *bhāgavata* Vaiṣṇavas who have taken shelter of Him; those who take shelter of them — that is, by taking shelter of the devotees) **śudhyanti** (are purified), **tasmai** **prabhaviṣṇave** (to the all-powerful Bhagavān Viṣṇu) **namaḥ**.
+
+## 174
+
+> Subheading: Another meaning of the word *dhṛti* —
+
+## 175
+
+> Subheading: The definition of *dhṛti* —
+
+**duḥkhābhāvottamāptibhiḥ** (*duḥkhābhāva*, the absence of suffering; *uttama*, that from which darkness has departed, that is, *premā*; and attaining that *premā*, the supreme goal of life — *āpti*) **pūrṇatā-jñānam** (the experience of the soul's satisfaction; that itself) **dhṛtiḥ**; (it is) **aprāptātīta-naṣṭārthānabhisaṁśocanādi-kṛt** (that which makes one not grieve over things unattained, past or lost — that is, by it grief is absent).
+
+## 176
+
+> Subheading: The meaning of the verse —
+
+## 177
+
+> Subheading: The devotee is satisfied by service to Kṛṣṇa alone; he has no other desires born of dissatisfaction —
+
+See Ādi 4.208.
+
+## 178
+
+> Subheading: Only the devotee who constantly serves Kṛṣṇa with all his senses is wise and steady —
+
+**yasya** **hṛṣīkāṇi** (senses) **hṛṣīkeśe** (in Bhagavān, the Controller of all) **sthairya-gatāni** (have attained calm), **saḥ eva** **jīva-cañcale** (transient) **saṁsāre** **dhairyam** **āpnoti**.
+
+## 179
+
+> Subheading: *Ātmārāmāḥ* — the steadfast; *munayaḥ* — birds; *nirgranthāḥ* — the unintelligent
+
+## 180
+
+> Subheading: The explanation by (6) the meaning “intelligence” of the word *ātmā* within the word *ātmārāmāḥ* —
+
+## 181
+
+> Subheading: *Buddhy-ārāmas* are of two kinds: the learned and the unintelligent —
+
+## 182
+
+> Subheading: By the mercy of the *sādhus* and Kṛṣṇa one gains good intelligence and serves Kṛṣṇa —
+
+In another reading: “Giving up everything, he serves Kṛṣṇa's feet with pure *bhakti*; by Kṛṣṇa's mercy, in the company of *sādhus*, he gains the intelligence that discerns.”
+
+## 183
+
+**aham** (Kṛṣṇa) **sarvasya** (of Brahmā, Rudra and the whole manifest world) **prabhavaḥ** (the cause, the source of birth); **mattaḥ** (since I am the cause of all causes) **sarvam** (everything) **pravartate** (acts in dependence on Me) — **iti** **matvā** **budhāḥ** (those who know the taste of Kṛṣṇa) **bhāva-samanvitāḥ** (endowed with *premā*) **mām** **bhajante**.
 
 ---
 

@@ -50,6 +50,26 @@ O sinless one, O Original Person! These bees sing Your glory, which purifies all
 
 When Śrī Kṛṣṇa plays the flute, the birds — *sārasa* cranes, swans and others — are drawn by its sound, close their eyes and worship Him.
 
+## 173
+
+The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, (Śuhmas,) Yavanas, Khaśas and others — all who are born in sinful castes — become purified by taking shelter of the Vaiṣṇavas who have taken shelter of Him. I bow down to Viṣṇu, who possesses such power.
+
+## 175
+
+*Dhṛti* is freedom from suffering through attaining the highest, and the awareness of fullness. When something desired is not obtained, or something once obtained is lost, grief comes — and it is *dhṛti* that removes it.
+
+## 178
+
+In this world where every living being is unsteady, that is, in transient *saṁsāra*, only one whose senses are fixed in Hṛṣīkeśa, Kṛṣṇa, has attained steadiness.
+
+## 183
+
+“I am the source (the place of origin) of all, and everything proceeds from Me.” Knowing this, the wise, endowed with *bhakti*, worship Me.
+
+## 184
+
+Women, *śūdras*, Hūṇas, Śabaras and other sinful beings, and even beings of animal species — birds and others — receive instruction from those wholly devoted to Adbhuta-krama (Bhagavān Śrī Urukrama), that is, they follow the conduct of pure devotees and themselves become devotees of Bhagavān. Then they are delivered from (insurmountable, divine) Māyā. What, then, to speak of those who follow the path of the Śrutis?
+
 ---
 
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.
