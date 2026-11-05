@@ -80,7 +80,7 @@ These are the thirteen: (1) the *sādhaka*, (2) the *brahmamaya*, (3) the *prāp
 
 > Subheading: One who controls the mind attains the supreme abode —
 
-On Janaloka, at the *brahma-satra* sacrifice, Sanandana, a *brahmarṣi* and one of the four Kumāras, sang this hymn to Bhagavān, glorified by the personified Śrutis, before sages eager to hear. Later the original *ṛṣi* Śrī Nārāyaṇa recounts it to Nārada.
+On Janaloka, at the *brahma-satra* sacrifice, Sanandana, a *brahmarṣi* and one of the four Kumāras, recited to sages eager to hear this hymn to Bhagavān, which the personified Śrutis had sung. Later the original *ṛṣi* Śrī Nārāyaṇa recounts it to Nārada.
 
 **ṛṣi-vartmasu** (on the paths of the *ṛṣis*, the paths of the *sampradāyas*) **ye** **kūrpa-dṛśaḥ** (*kūrpa* is gravel dust; those who have it in their eyes — that is, those whose sight is covered with dust: the Śārkarākṣas, men of gross vision) **udaram** (Brahman in the *maṇipūra*, whose support is the belly) **upāsate** (meditate upon); **āruṇayaḥ** (the *ṛṣis* called Āruṇi) **parisara-paddhatim** (the *parisaras* are the *nāḍīs*, because they spread out in all directions; their *paddhati* is their path, the place where they spread) **hṛdayam** **daharam** (worship subtle Brahman, whose support is the space [of the heart]); **he ananta** **tataḥ** (from the heart) **tava** **paramam** (best, effulgent) **dhāma** (the place of realization, the *suṣumnā*) **śiraḥ** (to the head) **udagāt** (rose — that is, it rises from the *mūlādhāra*, through the heart, up to the *brahma-randhra*); **yat** (Your abode) **sametya** (having reached) **iha** **kṛtānta-mukhe** (into the jaws of Kṛtānta — Time, death — into *saṁsāra*) **na** **patanti**.[^160-1]
 
@@ -127,6 +127,32 @@ See Ādi 1.49.
 ## 169
 
 > Subheading: The meanings of the words *muni* and *nirgrantha*; by the mercy of Viṣṇu and the Vaiṣṇavas both attain *bhakti* —
+
+## 170
+
+> Subheading: The birds of Vraja, too, are sages devoted to Kṛṣṇa —
+
+When autumn came to Vraja, Kṛṣṇa began to wander from forest to forest playing His flute. Hearing the sound of His flute, the *gopīs*, longing to be with Kṛṣṇa, sing:
+
+**he amba** (O mother), **asmin vane** **ye** **vihagāḥ** (birds), **te** **prāyaḥ** (for the most part) **munayaḥ** **eva**, for **te** (the birds) **kṛṣṇekṣitam** (so as to see Kṛṣṇa with no screen of flowers, fruits and the like between) **rucira-pravālān** (having *rucira*, beautiful, *pravālas*, shoots — that is, with many-coloured young twigs) **druma-bhujān** (the branches of the trees) **āruhya** (with an indescribable happiness) **mīlita-dṛśaḥ** (closing their eyes) **vigatānya-vācaḥ** (giving up all other sounds) **tad-uditam** (manifested by Kṛṣṇa Himself) **kala-veṇu-gītam** (the sweet melody of the *muralī*) **śṛṇvanti**.
+
+## 171
+
+> Subheading: The bees of Vraja, too, are sages devoted to Kṛṣṇa —
+
+Having entered the *paugaṇḍa* age, Bhagavān Śrī Kṛṣṇa once went with Śrī Balarāma into the Kusumākara forest. Seeing the beauty all around, He wished to sport, and praising His elder brother He says:
+
+**he ādi-puruṣa** (the form endowed with the *sandhinī* potency, the cause of the existence of all beings), **ete** **alinaḥ** (bees) **tava** **akhila-loka-tīrtham** (purifying all the worlds) **yaśaḥ** **gāyantaḥ** **anupatham** (on every path) **bhajante**; **he anagha** (the form of the Lord of pure *sattva*), **amī** **bhavadīya-mukhyāḥ** (the foremost of Your own) **muni-gaṇāḥ** **vane** **gūḍham** (unrecognized) **api** **ātma-daivam** (their own Lord, You) **prāyaḥ** **na** **jahati** (do not leave; that is, while You are hidden in a human form, the sages, also hidden in the form of bees, serve You).
+
+Here another reading is also found — the verse (*Śrīmad-Bhāgavatam* 10.15.7): “The peacocks dance with joy, the does, like the *gopīs*, please You with their glances, the cuckoos sing sweetly for You who have come to their home: blessed are the dwellers of the forest — such is the nature of *sādhus*.” Its meaning: “O worshipable one! Seeing that You have come to their home, the peacocks dance in supreme bliss; the does, like the *gopīs*, cast their glances at You, and the cuckoos please You with sweet song. Blessed are the residents of Vṛndāvana, for such is the nature of *sādhus* — to offer what is their own.”
+
+## 172
+
+> Subheading: The swans, *sārasa* cranes and other birds of Vraja, too, are sages devoted to Kṛṣṇa —
+
+When Kṛṣṇa goes to the forest by day, the *gopīs*, burning in separation, sing this song to one another:
+
+(“**yarhi** **adhare** **kṛṣṇaḥ** **saṁhita-veṇuḥ** **bhavati** **tarhi**” — so it is construed with the preceding verse.) **sarasi** (in the lake) **ye** **sārasa-haṁsa-vihaṅgāḥ** **cāru-gīta-hṛta-cetasaḥ** (whose hearts were stolen, drawn by the lovely song of the flute) **etya** (having come) **hanta** (alas) **yata-cittāḥ** (with controlled minds) **dhṛta-maunāḥ** (silent) **mīlita-dṛśaḥ** (with eyes closed) **harim** **upāsata** (served Him, or sat down beside Him).
 
 ---
 

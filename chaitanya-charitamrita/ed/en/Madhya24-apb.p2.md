@@ -38,6 +38,18 @@ There is a rare treasure that cannot be gained even by wandering through the hig
 
 *Bhakti* is very hard to attain in two ways. Without *āsaṅga* (longing for Kṛṣṇa's love) it is not gained quickly even by thousands upon thousands of spiritual practices (*sādhanas*); and Kṛṣṇa, too, does not give *bhakti* readily.
 
+## 170
+
+O mother! The birds of this forest fly up onto the branches of the trees, adorned with lovely young shoots, close their eyes, fall silent, and listen to the sweet song of the flute that flows from Kṛṣṇa's lips. They too are almost sages.
+
+## 171
+
+O sinless one, O Original Person! These bees sing Your glory, which purifies all the worlds, and serve You (following You along Your path). These sages in the guise of bees do not leave You — their Lord, the Deity of their hearts — even though Your form is hidden.
+
+## 172
+
+When Śrī Kṛṣṇa plays the flute, the birds — *sārasa* cranes, swans and others — are drawn by its sound, close their eyes and worship Him.
+
 ---
 
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.
