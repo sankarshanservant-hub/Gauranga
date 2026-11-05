@@ -534,7 +534,7 @@ Here, as one can see, a variant reading quotes two more verses. (1) *Śrīmad-Bh
 
 ## 133
 
-> Subheading: The external signs of the *prayojana*, love for Kṛṣṇa —
+> Subheading: The marginal characteristics (*taṭastha-lakṣaṇa*) of the *prayojana*, love for Kṛṣṇa —
 
 ## 134
 
