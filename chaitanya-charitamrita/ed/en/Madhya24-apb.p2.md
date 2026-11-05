@@ -74,6 +74,14 @@ Women, *śūdras*, Hūṇas, Śabaras and other sinful beings, and even beings o
 
 “*Bhāgavata*” and “*nāma*” are the *Śrīmad-Bhāgavatam* and the name of Śrī Kṛṣṇa.
 
+## 200
+
+This land (the land of Vraja) has today become blessed. Blessed are the grasses and creepers that Your feet touch; blessed are the trees and vines that Your fingers touch; blessed are the rivers, hills, birds and beasts on whom You cast Your merciful glance. And blessed are all the *gopīs*, for they have gained the place between Your arms — which even Lakṣmī longs for.
+
+## 201
+
+O friends! Kṛṣṇa and Baladeva go from forest to forest with the cows and the cowherd boys, bearing as Their marks the ropes and nooses for tying the cows, and so on. Their wondrous flute-playing and songs make the moving beings among the embodied grow stunned, while the motionless trees break out in “gooseflesh.” All this is truly wonderful.
+
 ---
 
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.

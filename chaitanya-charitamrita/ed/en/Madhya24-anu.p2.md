@@ -264,6 +264,64 @@ See Madhya 22.40.
 
 > Subheading: The nature of the *jīva*'s pure, uncovered self and of the covered self; the pure “I” and the impure “I” —
 
+## 197
+
+> Subheading: Examples of *ātmārāmas* — *jīvas* of pure nature — and of *nirgranthas* —
+
+## 198
+
+> Subheading: The service to Kṛṣṇa of liberated *jīvas* such as Vyāsa is well known; a description of the service of the *nirgranthas*, that is, the unintelligent —
+
+## 199
+
+> Subheading: By Kṛṣṇa's mercy everyone serves Kṛṣṇa —
+
+## 200
+
+> Subheading: Blessed is the earth touched by Kṛṣṇa's feet; blessed are the *gopīs* who touch His chest, which even Lakṣmī longs for —
+
+Having entered the *paugaṇḍa* age, Śrī Kṛṣṇa once went with Śrī Baladeva into the Kusumākara forest. Seeing the beauty of Vraja, He wished to sport, and, as if praising His elder brother, He praises Himself:
+
+**adya** (by the touch of Your feet) **iyam** **dharaṇī** **dhanyā**; (likewise) **tvat-pāda-spṛśaḥ** (since they touch Your feet) **tṛṇa-vīrudhaḥ** (grasses, shrubs and the like), **karajābhimṛṣṭāḥ** (touched by the nails) **druma-latāḥ** (trees and creepers), **sadayāvalokaiḥ** (by merciful glances) **nadyaḥ** **adrayaḥ** (hills) **khaga-mṛgāḥ** (birds — *khagas* — and beasts — *mṛgas*) **ca** (are blessed); **śrīḥ api** **yat-spṛhā** (that which even Lakṣmī longs for) **bhujayoḥ** **antareṇa** (by the chest) **gopyaḥ** **ca** **dhanyāḥ**.
+
+## 201
+
+> Subheading: The sound of Kṛṣṇa's flute gives moving beings the quality of the immobile, and the immobile the quality of moving beings —
+
+When autumn came to Vraja, Śrī Kṛṣṇa began to wander from forest to forest playing the flute, as if to herd the cows. Hearing the flute, the *gopīs*, longing to be with Kṛṣṇa, wander everywhere and sing of His qualities:
+
+**he sakhyaḥ**, **gopakaiḥ** (with the cowherd boys) **anu-vanam** (to every forest) **gāḥ** **nayatoḥ** (of the two who lead), **niryoga-pāśa-kṛta-lakṣaṇayoḥ** (the *niryoga* is that by which cows are tied: the rope for binding their legs at milking time; the *pāśas* are nooses for pulling unruly cows; of the two for whom these are a *lakṣaṇa*, a mark: of Rāma and Kṛṣṇa, resplendent in cowherd dress, for They wrap the *niryoga* around Their heads and carry [the nooses] on Their shoulders) **kala-padaiḥ** (with sweet sounds) **udāra-veṇu-svanaiḥ** (with the mighty sounds of the flute) **tanu-bhṛtsu** (among those who bear bodies, the embodied) **gatimatām** (of those who move) **aspandanam** (immobility, the quality of the immobile) **tarūṇām** **pulakaḥ** (the quality of moving beings) — **iti tu** **vicitram** (is truly wonderful).
+
+## 202
+
+See Madhya 8.275.
+
+## 203
+
+See Madhya 24.173.
+
+## 204
+
+> Subheading: Here are nineteen meanings —
+
+For the earlier thirteen meanings, see the *Anubhāṣya* on verse 157 of Madhya 24, above. And these are the six: 1) “one who delights in the mind” (verse 159); 2) “one who delights in effort” (verse 162); 3) “one who delights in steadfastness” (verse 168); 4) “the *buddhy-ārāma*, the learned *muni*” (verse 181); 5) “the *buddhy-ārāma*, the *nirgrantha*, the unintelligent” (verse 181); 6) the *ātmārāma* “endowed with the nature of a servant of Kṛṣṇa (*kṛṣṇa-dāsa*)” (verse 195).
+
+## 205
+
+> Subheading: The explanation by (2) the meaning “body” of the word *ātmā* within the word *ātmārāmāḥ* —
+
+Its four meanings are: (1) the body as conditioned Brahman (verse 206); (2) the *karma*-body of the sacrificer devoted to *karma* (verse 208); (3) the body of austerity (verse 210); (4) the body full of all desires (verse 212).
+
+## 206
+
+> Subheading: Through the company of *sādhus*, even one who identifies with the body, or a *vivarta-vādī*, gives up the notion of *vivarta* and attains devotion to Kṛṣṇa —
+
+The *dehārāmī*, taking the body to be a conditioned form of Brahman, serves his own body. But in the company of *sādhus* he gives up this notion of *vivarta* and serves Kṛṣṇa.
+
+## 207
+
+See Madhya 24.160.
+
 ---
 
 [^160-1]: The hymn of the personified Vedas (Śrutis), *Śrīmad-Bhāgavatam*, Canto 10, Chapter 87.
