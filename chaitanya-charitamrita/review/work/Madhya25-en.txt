@@ -534,6 +534,7 @@ tr: Whatever there is in the four Vedas and the Upaniṣads, Vyāsa took its mea
 w: in which  sūtra  which  ṛk  the statement of the subject
 w: in the Bhāgavata  that  ṛk  in a verse  is set down
 tr: Whatever Vedic mantra (*ṛk*) states the subject of a sūtra, that same mantra is set down in a verse of the *Bhāgavata*.
+fn: *Amṛta-pravāha-bhāṣya*: the *ṛk* is a Vedic mantra, the *viṣaya-vacana* the statement of a sūtra’s subject; thus the mantra *īśāvāsyam idaṁ jagat* is set down in the *Bhāgavatam* as the verse *ātmāvāsyam idam* (99).
 
 ## 98
 w: therefore  of the Brahma-sūtra  the commentary  is the Śrī Bhāgavata
@@ -555,7 +556,7 @@ tr: The *sambandha*, *abhidheya* and *prayojana* of the *Bhāgavata* are clearly
 ## 101
 w: I  sambandha  the truth  of Me  knowledge  realisation
 w: Me  to attain  sādhana-bhakti  abhidheya  is named
-tr: ‘I am the truth of *sambandha*, and knowledge and realisation of Me [belong to it]. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
+tr: ‘I am the truth of *sambandha*, and so are knowledge and realisation of Me. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
 
 ## 102
 w: of sādhana  the fruit  prema  the chief goal
@@ -568,11 +569,12 @@ w: which  with realisation  endowed
 w: with its secret  and its  limb  also
 w: receive  spoken  by Me
 tr: “Receive from Me, as I speak it, the supremely confidential knowledge of Myself, endowed with realisation, together with its secret and that secret’s integral part.” (Śrīmad-Bhāgavatam, 2.9.30)
+fn: The same verse as Ādi 1.51; translation as there. Numbered as in the heading of the edition (p. 835): 2.9.30; in Ādi 1.51 and in other editions — 2.9.31.
 
 ## 104
 w: these  three  truths  I  have told  to you
 w: a jīva  you  these  three  will not be able  to know
-tr: I have told you these three truths. You are a jīva; you could not know these three [by yourself].
+tr: I have told you these three truths. You are a jīva; you could not know these three by yourself.
 
 ## 105
 w: as is  My  form  as is  My  abode
@@ -590,6 +592,7 @@ w: with what forms  qualities  and deeds
 w: just so  the true  realisation
 w: may be  yours  by My grace
 tr: “By My grace may you truly realise Me as I am — My being, My forms, My qualities and My deeds.” (Śrīmad-Bhāgavatam, 2.9.31)
+fn: The same verse as Ādi 1.52; translation as there. Numbered as in the heading of the edition (p. 836): 2.9.31; in Ādi 1.52 and in other editions — 2.9.32.
 
 ## 108
 w: of creation  before  full of the six opulences  I  indeed  am
@@ -599,7 +602,7 @@ tr: ‘Before creation I exist, full of the six opulences, and the manifest worl
 ## 109
 w: creation  having made  within it  I  indeed  dwell
 w: the world  which  you see  all  that also  I  am
-tr: Having created it, I dwell within it; and all this world that you see is also I, [as My energy].
+tr: Having created it, I dwell within it; and all this world that you see is also I, for it is My energy.
 
 ## 110
 w: at dissolution  remaining  I  complete  am
@@ -612,6 +615,7 @@ w: nothing else  which  effect  cause  beyond
 w: afterwards  I  what  this (world)  also
 w: what  remains  that  am  I
 tr: “Before creation I alone existed; there was nothing else — neither effect, nor cause, nor That which is beyond them. After creation this whole world is not other than Me, and what remains after its dissolution is also I.” (Śrīmad-Bhāgavatam, 2.9.32)
+fn: The same verse as Madhya 24.72 (= Ādi 1.53); translation as there. Numbered as in the heading of the edition (p. 836): 2.9.32, as in Madhya 24.72; in Ādi 1.53 and in other editions — 2.9.33.
 
 ## 112
 w: in the ‘aham eva’ verse  ‘aham’  three  times
@@ -622,6 +626,7 @@ tr: The word *aham*, ‘I’, appears three times in the verse *aham eva*. It es
 w: who  the form  not  accepts  formless  considers
 w: him  to rebuke  has made  the determination
 tr: This was set down to rebuke one who does not accept His form and holds Him to be formless.
+fn: *Anubhāṣya*: the arguments of the *nirviśeṣa-vādī* are full of error and must be rejected altogether; therefore the Lord said *aham eva* three times and so established *sambandha*.
 
 ## 114
 w: in these  all  words  there is  of jñāna  of vijñāna  the discernment
@@ -644,6 +649,7 @@ w: not  may appear  and  in Me
 w: that  one should know  My  māyā
 w: as  the reflection  as  the darkness
 tr: “Whatever appears to exist apart from Me, the Reality, and does not appear in Me, know that to be My māyā, like a reflection and like darkness.” (Śrīmad-Bhāgavatam, 2.9.33)
+fn: The same verse as Ādi 1.54; translation as there. Numbered as in the heading of the edition (p. 837): 2.9.33; in Ādi 1.54 and in other editions — 2.9.34.
 
 ## 118
 w: of abhidheya  of sādhana-bhakti  hear  the consideration
@@ -653,7 +659,8 @@ tr: Now hear the consideration of *abhidheya*, *sādhana-bhakti*, which extends 
 ## 119
 w: in dharma and the rest  in matters  as  these  four  considerations
 w: sādhana-bhakti  these  four  considerations  beyond
-tr: In matters of dharma and the rest these four considerations apply, but *sādhana-bhakti* is beyond them.
+tr: The considerations of dharma and the rest concern these four aims of life; but *sādhana-bhakti* lies beyond all four.
+fn: “These four” (*e ‘cāri’ vicāra*) beside *dharmādi* are, according to the *Anubhāṣya* and the *Amṛta-pravāha-bhāṣya*, the four aims of life (*catur-varga*): dharma, *artha*, *kāma* and *mokṣa*. Heading of the edition: “The *abhidheya*, *sādhana-bhakti*, is beyond the four aims (*catur-varga*).”
 
 ## 120
 w: in every  place  time  circumstance  of people  the duty
@@ -666,6 +673,7 @@ w: by one seeking the truth  of the Self
 w: positively  and negatively
 w: which  may be  everywhere  always
 tr: “This much must be inquired into by one who seeks the truth of the Self: That which exists everywhere and always, both directly and indirectly.” (Śrīmad-Bhāgavatam, 2.9.35)
+fn: The same verse as Ādi 1.56; translation as there. Numbered as in the heading of the edition (p. 837): 2.9.35; in Ādi 1.56 and in other editions — 2.9.36.
 
 ## 122
 w: for Me  which  affection  that  prema  is the prayojana
@@ -676,6 +684,7 @@ tr: Love for Me — that prema is the *prayojana*. I describe its essential natu
 w: the five  elements  as  of beings  within  without
 w: in the devotees  am manifest  I  without  within
 tr: Just as the five elements are within and without all beings, so I am manifest without and within My devotees.
+fn: *Anubhāṣya*: the devotees know themselves as instruments for serving Bhagavān with love, and all that is not a devotee they likewise know only as means for that service.
 
 ## 124
 w: as  the great  elements
@@ -683,6 +692,7 @@ w: in beings  great and small  after
 w: entered  not entered
 w: so  in them  not  in them  I
 tr: “As the great elements enter all beings, great and small, and yet remain outside them, so I am within all that is created and yet beyond it.” (Śrīmad-Bhāgavatam, 2.9.34)
+fn: The same verse as Ādi 1.55; translation as there. Numbered as in the heading of the edition (p. 837): 2.9.34; in Ādi 1.55 and in other editions — 2.9.35.
 
 ## 125
 w: the devotee  Me  has bound  in the lotus of the heart
@@ -695,6 +705,7 @@ w: Hari  uttered helplessly  even  the destroyer of hosts of sins
 w: by the cord of love  whose lotus feet are held fast
 w: he  is  of the bhāgavatas  the foremost  called
 tr: “He whose heart is never left by Hari Himself — Hari, who destroys hosts of sins even when His name is uttered helplessly — and who holds the Lord’s lotus feet fast with the cord of love, is called the foremost of the *bhāgavatas*.” (Śrīmad-Bhāgavatam, 11.2.55)
+fn: *Anubhāṣya*: so Havi, one of the nine Yogendras, answers King Nimi on the marks of the *bhāgavatas*.
 
 ## 127
 w: in all beings  who  sees
@@ -702,6 +713,7 @@ w: of the Lord  the presence  of the Self
 w: the beings  in the Lord  in the Self
 w: he  the best of devotees
 tr: “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
+fn: The same verse as Madhya 8.274; translation as there.
 
 ## 128
 w: singing  loudly  of Him  alone  gathered together
@@ -721,6 +733,7 @@ w: the Truth  which  knowledge  non-dual
 w: Brahman  thus  Paramātmā  thus
 w: Bhagavān  thus  is named
 tr: “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)
+fn: The same verse as Ādi 2.11; translation as there.
 
 ## 131
 w: this  indeed  is sambandha  hear  the abhidheya  bhakti
@@ -733,6 +746,7 @@ w: by faith  the Self  dear  of the saintly
 w: devotion  purifies  fixed on Me
 w: dog-eaters  even  from (the stain of) birth
 tr: “I, the dear Self of the saintly, am attained by single-minded devotion born of faith. Devotion fixed on Me purifies even dog-eaters from the stain of their birth.” (Śrīmad-Bhāgavatam, 11.14.21)
+fn: The same verse as Madhya 20.138; translation as there. *Anubhāṣya*: some readings give two more verses here — Śrīmad-Bhāgavatam, 11.14.20 and 11.2.37.
 
 ## 133
 w: now  hear  prema  which  the chief  prayojana
@@ -745,6 +759,7 @@ w: one another  who takes away hosts of sins  Hari
 w: by devotion  born  of devotion
 w: they bear  thrilling  bodies
 tr: “Remembering Hari, who takes away hosts of sins, and reminding one another of Him, they bear bodies thrilled by the devotion (*prema-bhakti*) born of devotion (*sādhana-bhakti*).” (Śrīmad-Bhāgavatam, 11.3.31)
+fn: *Anubhāṣya*: so Prabuddha, one of the nine Yogendras, answers King Nimi: taking shelter at the guru’s feet and performing without offence the *sādhana* of bhakti called kīrtana, the conditioned soul is freed from *anarthas* and attains *bhāva-bhakti*.
 
 ## 135
 w: one with such a vow  by the chanting of the names of his beloved
@@ -752,3 +767,4 @@ w: in whom love has arisen  with melted heart  loudly
 w: laughs  then  weeps  cries out  sings
 w: like a madman  dances  beyond the world
 tr: “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+fn: The same verse as Ādi 7.94; translation as there.

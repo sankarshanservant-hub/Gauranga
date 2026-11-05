@@ -664,7 +664,7 @@ into the courtyard  coming  in love  to dance  He began
 cāri-jana mili’ kare nāma-saṅkīrtana  
 four  persons  together  perform  saṅkīrtana of the name
 
-(62) Candraśekhara, Paramānanda, Tapana and Sanātana — these four together performed saṅkīrtana of the holy name:
+(62) Candraśekhara, Paramānanda, Tapana and Sanātana — these four together joined in the saṅkīrtana of the holy name:
 
 হরি হরয়ে নমঃ কৃষ্ণ যাদবায় নমঃ ৷  
 গোপাল গোবিন্দ রাম শ্রীমধুসূদন ॥ ৬৩ ॥
@@ -674,7 +674,7 @@ Hari  to Hari  obeisance  Kṛṣṇa  to Yādava  obeisance
 gopāla govinda rāma śrī-madhusūdana  
 Gopāla  Govinda  Rāma  Śrī Madhusūdana
 
-(63) “*Hari haraye namaḥ, kṛṣṇa yādavāya namaḥ, gopāla govinda rāma śrī-madhusūdana*.”
+(63) “*Hari haraye namaḥ, kṛṣṇa yādavāya namaḥ, gopāla govinda rāma śrī-madhusūdana*.”[^12]
 
 চৌদিকেতে লক্ষ লোক বলে ‘হরি’ ‘হরি’ ৷  
 উঠিল মঙ্গলধ্বনি স্বর্গ-মর্ত্ত্য ভরি’ ॥ ৬৪ ॥
@@ -714,7 +714,7 @@ joy  humility  restlessness and others  sañcārī  transformations
 dekhi’ kāśī-vāsī lokera haila camatkāra  
 seeing  of Kāśī  the residents  of the people  there was  amazement
 
-(67) Seeing joy, humility, restlessness and the other transient emotions (*sañcārī*) transforming Him, the people of Kāśī were amazed.
+(67) Seeing in Him the transformations of joy, humility, restlessness and the other transient emotions (*sañcārī*), the people of Kāśī were amazed.
 
 লোকসংঘট্ট দেখি’ প্রভুর ‘বাহ্য’ যবে হৈল ৷  
 সন্ন্যাসীর গণ দেখি’ নৃত্য সম্বরিল ॥ ৬৮ ॥
@@ -802,7 +802,7 @@ took  the serpent’s  body  leaving
 rūpaṁ vidyādharārcitam  
 the form  honoured by the Vidyādharas
 
-(75) “His sins destroyed by the touch of the Lord’s beautiful feet, he gave up his serpent’s body and took the form honoured by the Vidyādharas.” (Śrīmad-Bhāgavatam, 10.34.9)
+(75) “His sins destroyed by the touch of the Lord’s beautiful feet, he gave up his serpent’s body and took the form honoured by the Vidyādharas.” (Śrīmad-Bhāgavatam, 10.34.9)[^13]
 
 প্রভু কহে, — ‘বিষ্ণু’ ‘বিষ্ণু’, আমি ক্ষুদ্র জীব হীন ৷  
 জীবে ‘বিষ্ণু’ মানি — এই অপরাধ-চিহ্ন ॥ ৭৬ ॥
@@ -822,7 +822,7 @@ in a jīva  ‘Viṣṇu’  the idea  makes  who  to Brahmā and Rudra  equal
 nārāyaṇe māne tāra ‘pāṣaṇḍe’ gaṇana  
 Nārāyaṇa  regards  of him  among the pāṣaṇḍīs  reckoning
 
-(77) One who thinks a jīva to be Viṣṇu, and one who regards Nārāyaṇa as equal to Brahmā and Rudra, are counted among the *pāṣaṇḍīs*.”
+(77) One who thinks a jīva to be Viṣṇu, and one who regards Nārāyaṇa as equal to Brahmā and Rudra, are counted among the *pāṣaṇḍīs*.
 
 যস্তু নারায়ণং দেবং ব্রহ্মরুদ্রাদিদৈবতৈঃ ৷  
 সমত্বেনৈব বীক্ষেত স পাষণ্ডী ভবেদ্ধ্রুবম্ ॥ ৭৮ ॥
@@ -836,7 +836,7 @@ as equal  indeed  sees
 sa pāṣaṇḍī bhaved dhruvam  
 he  a pāṣaṇḍī  becomes  surely
 
-(78) “One who looks upon the Lord Nārāyaṇa as equal to Brahmā, Rudra and the other gods is surely a *pāṣaṇḍī*.” (Vaiṣṇava-tantra)
+(78) ‘One who looks upon the Lord Nārāyaṇa as equal to Brahmā, Rudra and the other gods is surely a *pāṣaṇḍī*.’” (Vaiṣṇava-tantra; Padma-purāṇa, Uttara-khaṇḍa, 23.12)[^14]
 
 প্রকাশানন্দ কহে, — তুমি সাক্ষাৎ ভগবান্ ৷  
 তবু যদি কর তাঁর ‘দাস’-অভিমান ॥ ৭৯ ॥
@@ -865,12 +865,12 @@ muktānām api siddhānāṁ
 of the liberated  even  of the perfected  
 nārāyaṇa-parāyaṇaḥ  
 Nārāyaṇa  devoted to  
-su-durlabhaḥ praśāntātmā  
+sudurlabhaḥ praśāntātmā  
 very rare  of peaceful mind  
 koṭiṣv api mahā-mune  
 among millions  even  O great sage
 
-(81) “O great sage, even among millions of the liberated and the perfected, one devoted to Nārāyaṇa, whose mind is at peace, is very rare.” (Śrīmad-Bhāgavatam, 6.14.5)
+(81) “O great sage, even among millions of the liberated and the perfected, one devoted to Nārāyaṇa, whose mind is at peace, is very rare.” (Śrīmad-Bhāgavatam, 6.14.5)[^15]
 
 আয়ুঃ শ্রিয়ং যশো ধর্ম্মং লোকানাশিষ এব চ ৷  
 হন্তি শ্রেয়াংসি সর্ব্বাণি পুংসো মহদতিক্রমঃ ॥ ৮২ ॥
@@ -884,7 +884,7 @@ destroys  benefits  all
 puṁso mahad-atikramaḥ  
 of a man  offence against the great
 
-(82) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)
+(82) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)[^16]
 
 নৈষাং মতিস্তাবদুরুক্রমাঙ্ঘ্রিং  
 স্পৃশত্যনর্থাপগমো যদর্থঃ ৷  
@@ -895,12 +895,12 @@ naiṣāṁ matis tāvad urukramāṅghriṁ
 not  their  mind  so long  Urukrama’s feet  
 spṛśaty anarthāpagamo yad-arthaḥ  
 touches  the removal of anarthas  whose purpose  
-mahīyasāṁ pāda-rajo-‘bhiṣekaṁ  
+mahīyasāṁ pāda-rajo-’bhiṣekaṁ  
 of the great  bathing in the dust of the feet  
 niṣkiñcanānāṁ na vṛṇīta yāvat  
 of those who own nothing  not  accepts  as long as
 
-(83) “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)
+(83) “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)[^17]
 
 এবে তোমার পাদাব্জে উপজিবে ভক্তি ৷  
 তথি লাগি’ করি তোমার চরণে প্রণতি ॥ ৮৪ ॥
@@ -920,7 +920,7 @@ so  saying  the Lord  taking  there  he sat
 prabhure prakāśānanda puchite lāgila  
 the Lord  Prakāśānanda  to question  began
 
-(85) Having said this, he sat down there with the Lord, and Prakāśānanda began to question Him:
+(85) With these words Prakāśānanda sat down there with the Lord and began to question Him:
 
 মায়াবাদে করিলা যত দোষের আখ্যান ৷  
 সবে এই জানি’ আচার্য্যের কল্পিত ব্যাখ্যান ॥ ৮৬ ॥
@@ -1000,7 +1000,7 @@ to Brahmā  Īśvara  the Catuḥ-ślokī  which  spoke
 brahmā nārade sei upadeśa kailā  
 Brahmā  to Nārada  that  instruction  gave
 
-(93) The Catuḥ-ślokī that Īśvara spoke to Brahmā, Brahmā taught to Nārada.
+(93) Brahmā taught Nārada the Catuḥ-ślokī that Īśvara had spoken to him.
 
 নারদ সেই অর্থ ব্যাসেরে কহিলা ৷  
 শুনি’ বেদব্যাস মনে বিচার করিলা ॥ ৯৪ ॥
@@ -1020,7 +1020,7 @@ this  meaning  of my  sūtras  accords with the explanation
 ‘bhāgavata’ kariba sūtrera bhāṣya-svarūpa  
 the Bhāgavata  I shall make  of the sūtras  the commentary  in the form of
 
-(95) ‘This meaning accords with the explanation of my sūtras. I shall make the *Bhāgavata* the commentary on my sūtras.’
+(95) ‘This meaning accords with the explanation of my sūtras. I shall make the *Bhāgavata* the commentary on my sūtras.’[^18]
 
 চারিবেদ-উপনিষদে যত কিছু হয় ৷  
 তার অর্থ লঞা ব্যাস করিলা সঞ্চয় ॥ ৯৬ ॥
@@ -1040,7 +1040,7 @@ in which  sūtra  which  ṛk  the statement of the subject
 bhāgavate sei ṛk śloke nibandhana  
 in the Bhāgavata  that  ṛk  in a verse  is set down
 
-(97) Whatever Vedic mantra (*ṛk*) states the subject of a sūtra, that same mantra is set down in a verse of the *Bhāgavata*.
+(97) Whatever Vedic mantra (*ṛk*) states the subject of a sūtra, that same mantra is set down in a verse of the *Bhāgavata*.[^19]
 
 অতএব ব্রহ্মসূত্রের ভাষ্য — শ্রীভাগবত ৷  
 ভাগবত-শ্লোক, উপনিষৎ কহে ‘এক’মত ॥ ৯৮ ॥
@@ -1084,7 +1084,7 @@ I  sambandha  the truth  of Me  knowledge  realisation
 āmā pāite sādhana-bhakti ‘abhidheya’ nāma  
 Me  to attain  sādhana-bhakti  abhidheya  is named
 
-(101) ‘I am the truth of *sambandha*, and knowledge and realisation of Me [belong to it]. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
+(101) ‘I am the truth of *sambandha*, and so are knowledge and realisation of Me. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
 
 সাধনের ফল — ‘প্রেম’ মূল-প্রয়োজন ৷  
 সেই প্রেমে পায় জীব আমার ‘সেবন’ ॥ ১০২ ॥
@@ -1108,7 +1108,7 @@ with its secret  and its  limb  also
 gṛhāṇa gaditaṁ mayā  
 receive  spoken  by Me
 
-(103) “Receive from Me, as I speak it, the supremely confidential knowledge of Myself, endowed with realisation, together with its secret and that secret’s integral part.” (Śrīmad-Bhāgavatam, 2.9.30)
+(103) “Receive from Me, as I speak it, the supremely confidential knowledge of Myself, endowed with realisation, together with its secret and that secret’s integral part.” (Śrīmad-Bhāgavatam, 2.9.30)[^20]
 
 এই ‘তিন’ তত্ত্ব আমি কহিনু তোমারে ৷  
 ‘জীব’ তুমি এই তিন নারিবে জানিবারে ॥ ১০৪ ॥
@@ -1118,7 +1118,7 @@ these  three  truths  I  have told  to you
 ‘jīva’ tumi ei tina nāribe jānibāre  
 a jīva  you  these  three  will not be able  to know
 
-(104) I have told you these three truths. You are a jīva; you could not know these three [by yourself].
+(104) I have told you these three truths. You are a jīva; you could not know these three by yourself.
 
 যৈছে আমার ‘স্বরূপ’, যৈছে আমার ‘স্থিতি’ ৷  
 যৈছে আমার গুণ, কর্ম্ম, ষড়ৈশ্বর্য্য-শক্তি ॥ ১০৫ ॥
@@ -1152,7 +1152,7 @@ just so  the true  realisation
 astu te mad-anugrahāt  
 may be  yours  by My grace
 
-(107) “By My grace may you truly realise Me as I am — My being, My forms, My qualities and My deeds.” (Śrīmad-Bhāgavatam, 2.9.31)
+(107) “By My grace may you truly realise Me as I am — My being, My forms, My qualities and My deeds.” (Śrīmad-Bhāgavatam, 2.9.31)[^21]
 
 সৃষ্টির পূর্ব্বে ষড়ৈশ্বর্য্যপূর্ণ আমি ত’ হইয়ে ৷  
 ‘প্রপঞ্চ’, ‘প্রকৃতি’, ‘পুরুষ’ আমাতেই লয়ে ॥ ১০৮ ॥
@@ -1172,7 +1172,7 @@ creation  having made  within it  I  indeed  dwell
 prapañca ye dekha saba, seha āmi haiye  
 the world  which  you see  all  that also  I  am
 
-(109) Having created it, I dwell within it; and all this world that you see is also I, [as My energy].
+(109) Having created it, I dwell within it; and all this world that you see is also I, for it is My energy.
 
 প্রলয়ে অবশিষ্ট আমি ‘পূর্ণ’ হইয়ে ৷  
 প্রাকৃত প্রপঞ্চ পায় আমাতেই লয়ে ॥ ১১০ ॥
@@ -1193,10 +1193,10 @@ nānyad yat sad-asat-param
 nothing else  which  effect  cause  beyond  
 paścād ahaṁ yad etac ca  
 afterwards  I  what  this (world)  also  
-yo ‘vaśiṣyeta so ‘smy aham  
+yo ’vaśiṣyeta so ’smy aham  
 what  remains  that  am  I
 
-(111) “Before creation I alone existed; there was nothing else — neither effect, nor cause, nor That which is beyond them. After creation this whole world is not other than Me, and what remains after its dissolution is also I.” (Śrīmad-Bhāgavatam, 2.9.32)
+(111) “Before creation I alone existed; there was nothing else — neither effect, nor cause, nor That which is beyond them. After creation this whole world is not other than Me, and what remains after its dissolution is also I.” (Śrīmad-Bhāgavatam, 2.9.32)[^22]
 
 ‘অহমেব’-শ্লোকে ‘অহম্’ — তিনবার ৷  
 পূর্ণৈশ্বর্য্য-বিগ্রহের স্থিতির নির্দ্ধার ॥ ১১২ ॥
@@ -1216,7 +1216,7 @@ who  the form  not  accepts  formless  considers
 tāre tiraskaribāre karilā nirddhāraṇe  
 him  to rebuke  has made  the determination
 
-(113) This was set down to rebuke one who does not accept His form and holds Him to be formless.
+(113) This was set down to rebuke one who does not accept His form and holds Him to be formless.[^23]
 
 এই সব শব্দে হয় — ‘জ্ঞান’-‘বিজ্ঞান’-বিবেক ৷  
 মায়া-কার্য্য, মায়া হৈতে আমি — ব্যতিরেক ॥ ১১৪ ॥
@@ -1251,7 +1251,7 @@ this  sambandha  truth  I have told  hear  the rest  all
 ঋতেঽর্থং যৎ প্রতীয়েত ন প্রতীয়েত চাত্মনি ৷  
 তদ্বিদ্যাদাত্মনো মায়াং যথাভাসো যথা তমঃ ॥ ১১৭ ॥
 
-ṛte ‘rthaṁ yat pratīyeta  
+ṛte ’rthaṁ yat pratīyeta  
 without  the reality  what  may appear  
 na pratīyeta cātmani  
 not  may appear  and  in Me  
@@ -1260,7 +1260,7 @@ that  one should know  My  māyā
 yathābhāso yathā tamaḥ  
 as  the reflection  as  the darkness
 
-(117) “Whatever appears to exist apart from Me, the Reality, and does not appear in Me, know that to be My māyā, like a reflection and like darkness.” (Śrīmad-Bhāgavatam, 2.9.33)
+(117) “Whatever appears to exist apart from Me, the Reality, and does not appear in Me, know that to be My māyā, like a reflection and like darkness.” (Śrīmad-Bhāgavatam, 2.9.33)[^24]
 
 ‘অভিধেয়’ সাধনভক্তির শুনহ বিচার ৷  
 সর্ব্ব-জন-দেশ-কাল-দশাতে ব্যাপ্তি যার ॥ ১১৮ ॥
@@ -1280,7 +1280,7 @@ in dharma and the rest  in matters  as  these  four  considerations
 sādhana-bhakti-ei cāri vicārera pāra  
 sādhana-bhakti  these  four  considerations  beyond
 
-(119) In matters of dharma and the rest these four considerations apply, but *sādhana-bhakti* is beyond them.
+(119) The considerations of dharma and the rest concern these four aims of life; but *sādhana-bhakti* lies beyond all four.[^25]
 
 সর্ব্ব-দেশ-কাল-দশায় জনের কর্ত্তব্য ৷  
 গুরু-পাশে সেই ভক্তি প্রষ্টব্য, শ্রোতব্য ॥ ১২০ ॥
@@ -1304,7 +1304,7 @@ positively  and negatively
 yat syāt sarvatra sarvadā  
 which  may be  everywhere  always
 
-(121) “This much must be inquired into by one who seeks the truth of the Self: That which exists everywhere and always, both directly and indirectly.” (Śrīmad-Bhāgavatam, 2.9.35)
+(121) “This much must be inquired into by one who seeks the truth of the Self: That which exists everywhere and always, both directly and indirectly.” (Śrīmad-Bhāgavatam, 2.9.35)[^26]
 
 আমাতে যে ‘প্রীতি’, সেই ‘প্রেম’ — ‘প্রয়োজন’ ৷  
 কার্য্যদ্বারে কহি তার ‘স্বরূপ’-লক্ষণ ॥ ১২২ ॥
@@ -1324,7 +1324,7 @@ the five  elements  as  of beings  within  without
 bhakta-gaṇe sphuri āmi bāhire-antare  
 in the devotees  am manifest  I  without  within
 
-(123) Just as the five elements are within and without all beings, so I am manifest without and within My devotees.
+(123) Just as the five elements are within and without all beings, so I am manifest without and within My devotees.[^27]
 
 যথা মহান্তি ভূতানি ভূতেষূচ্চাবচেষ্বনু ৷  
 প্রবিষ্টান্যপ্রবিষ্টানি তথা তেষু ন তেষ্বহম্ ॥ ১২৪ ॥
@@ -1338,7 +1338,7 @@ entered  not entered
 tathā teṣu na teṣv aham  
 so  in them  not  in them  I
 
-(124) “As the great elements enter all beings, great and small, and yet remain outside them, so I am within all that is created and yet beyond it.” (Śrīmad-Bhāgavatam, 2.9.34)
+(124) “As the great elements enter all beings, great and small, and yet remain outside them, so I am within all that is created and yet beyond it.” (Śrīmad-Bhāgavatam, 2.9.34)[^28]
 
 ভক্ত আমা বান্ধিয়াছে হৃদয়-কমলে ৷  
 যাঁহা নেত্র পড়ে, তাঁহা দেখয়ে আমারে ॥ ১২৫ ॥
@@ -1357,14 +1357,14 @@ wherever  the eyes  fall  there  he sees  Me
 
 visṛjati hṛdayaṁ na yasya sākṣād  
 leaves  the heart  not  whose  Himself  
-dharir avaśābhihito ‘py aghaugha-nāśaḥ  
+dharir avaśābhihito ’py aghaugha-nāśaḥ  
 Hari  uttered helplessly  even  the destroyer of hosts of sins  
 praṇaya-rasanayā dhṛtāṅghri-padmaḥ  
 by the cord of love  whose lotus feet are held fast  
 sa bhavati bhāgavata-pradhāna uktaḥ  
 he  is  of the bhāgavatas  the foremost  called
 
-(126) “He whose heart is never left by Hari Himself — Hari, who destroys hosts of sins even when His name is uttered helplessly — and who holds the Lord’s lotus feet fast with the cord of love, is called the foremost of the *bhāgavatas*.” (Śrīmad-Bhāgavatam, 11.2.55)
+(126) “He whose heart is never left by Hari Himself — Hari, who destroys hosts of sins even when His name is uttered helplessly — and who holds the Lord’s lotus feet fast with the cord of love, is called the foremost of the *bhāgavatas*.” (Śrīmad-Bhāgavatam, 11.2.55)[^29]
 
 সর্ব্বভূতেষু যঃ পশ্যেদ্ভগবদ্ভাবমাত্মনঃ ৷  
 ভূতানি ভগবত্যাত্মন্যেষ ভাগবতোত্তমঃ ॥ ১২৭ ॥
@@ -1378,7 +1378,7 @@ the beings  in the Lord  in the Self
 eṣa bhāgavatottamaḥ  
 he  the best of devotees
 
-(127) “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
+(127) “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)[^30]
 
 গায়ন্ত্য উচ্চৈরমুমেব সংহতা  
 বিচিক্যুরুন্মত্তকবদ্বনাদ্বনম্ ৷  
@@ -1418,7 +1418,7 @@ Brahman  thus  Paramātmā  thus
 bhagavān iti śabdyate  
 Bhagavān  thus  is named
 
-(130) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)
+(130) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)[^31]
 
 এই ত’ ‘সম্বন্ধ’, শুন ‘অভিধেয়’ ভক্তি ৷  
 ভাগবতে প্রতি শ্লোকে ব্যাপে যার স্থিতি ॥ ১৩১ ॥
@@ -1442,7 +1442,7 @@ devotion  purifies  fixed on Me
 śva-pākān api sambhavāt  
 dog-eaters  even  from (the stain of) birth
 
-(132) “I, the dear Self of the saintly, am attained by single-minded devotion born of faith. Devotion fixed on Me purifies even dog-eaters from the stain of their birth.” (Śrīmad-Bhāgavatam, 11.14.21)
+(132) “I, the dear Self of the saintly, am attained by single-minded devotion born of faith. Devotion fixed on Me purifies even dog-eaters from the stain of their birth.” (Śrīmad-Bhāgavatam, 11.14.21)[^32]
 
 এবে শুন, প্রেম, যেই — মূল ‘প্রয়োজন’ ৷  
 পুলকাশ্রু-নৃত্য-গীত — যাহার লক্ষণ ॥ ১৩৩ ॥
@@ -1459,14 +1459,14 @@ thrill  tears  dancing  singing  whose  signs
 
 smarantaḥ smārayantaś ca  
 remembering  reminding  and  
-mitho 'ghaugha-haraṁ harim  
+mitho ’ghaugha-haraṁ harim  
 one another  who takes away hosts of sins  Hari  
 bhaktyā saṁjātayā bhaktyā  
 by devotion  born  of devotion  
 bibhraty utpulakāṁ tanum  
 they bear  thrilling  bodies
 
-(134) “Remembering Hari, who takes away hosts of sins, and reminding one another of Him, they bear bodies thrilled by the devotion (*prema-bhakti*) born of devotion (*sādhana-bhakti*).” (Śrīmad-Bhāgavatam, 11.3.31)
+(134) “Remembering Hari, who takes away hosts of sins, and reminding one another of Him, they bear bodies thrilled by the devotion (*prema-bhakti*) born of devotion (*sādhana-bhakti*).” (Śrīmad-Bhāgavatam, 11.3.31)[^33]
 
 এবংব্রতঃ স্বপ্রিয়নামকীর্ত্ত্যা-  
 জাতানুরাগো দ্রুতচিত্ত উচ্চৈঃ ৷  
@@ -1482,7 +1482,7 @@ laughs  then  weeps  cries out  sings
 unmāda-van nṛtyati loka-bāhyaḥ  
 like a madman  dances  beyond the world
 
-(135) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+(135) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)[^34]
 
 ---
 
@@ -1507,3 +1507,49 @@ like a madman  dances  beyond the world
 [^10]: *Amṛta-pravāha-bhāṣya*: the Truth is not merely *nirguṇa*, beyond the three *guṇas*; He is a form “possessed of qualities” (*saguṇa*), the abode of countless spiritual qualities.
 
 [^11]: The same verse as Madhya 17.186; translation as there.
+
+[^12]: The same verse as Ādi 17.122; translation as there.
+
+[^13]: *Anubhāṣya*: once Nanda went with his kinsmen on pilgrimage to the bank of the Sarasvatī and at night in the forest was seized by a serpent — the Gandharva Sudarśana, cursed by the sages of the Aṅgirasa line for mocking them; Kṛṣṇa touched the serpent with His foot and saved Nanda. In the edition Prakāśānanda’s words are closed after 73.
+
+[^14]: The same verse as Madhya 18.116; translation as there. Reference as in the heading of the edition (in Madhya 18.116 — the *Vaiṣṇava-tantra* only).
+
+[^15]: The same verse as Madhya 19.150; translation as there.
+
+[^16]: The same verse as Madhya 15.270; translation as there.
+
+[^17]: The same verse as Madhya 22.53; translation as there.
+
+[^18]: In the edition Vyāsa’s thought is printed in quotation marks.
+
+[^19]: *Amṛta-pravāha-bhāṣya*: the *ṛk* is a Vedic mantra, the *viṣaya-vacana* the statement of a sūtra’s subject; thus the mantra *īśāvāsyam idaṁ jagat* is set down in the *Bhāgavatam* as the verse *ātmāvāsyam idam* (99).
+
+[^20]: The same verse as Ādi 1.51; translation as there. Numbered as in the heading of the edition (p. 835): 2.9.30; in Ādi 1.51 and in other editions — 2.9.31.
+
+[^21]: The same verse as Ādi 1.52; translation as there. Numbered as in the heading of the edition (p. 836): 2.9.31; in Ādi 1.52 and in other editions — 2.9.32.
+
+[^22]: The same verse as Madhya 24.72 (= Ādi 1.53); translation as there. Numbered as in the heading of the edition (p. 836): 2.9.32, as in Madhya 24.72; in Ādi 1.53 and in other editions — 2.9.33.
+
+[^23]: *Anubhāṣya*: the arguments of the *nirviśeṣa-vādī* are full of error and must be rejected altogether; therefore the Lord said *aham eva* three times and so established *sambandha*.
+
+[^24]: The same verse as Ādi 1.54; translation as there. Numbered as in the heading of the edition (p. 837): 2.9.33; in Ādi 1.54 and in other editions — 2.9.34.
+
+[^25]: “These four” (*e ‘cāri’ vicāra*) beside *dharmādi* are, according to the *Anubhāṣya* and the *Amṛta-pravāha-bhāṣya*, the four aims of life (*catur-varga*): dharma, *artha*, *kāma* and *mokṣa*. Heading of the edition: “The *abhidheya*, *sādhana-bhakti*, is beyond the four aims (*catur-varga*).”
+
+[^26]: The same verse as Ādi 1.56; translation as there. Numbered as in the heading of the edition (p. 837): 2.9.35; in Ādi 1.56 and in other editions — 2.9.36.
+
+[^27]: *Anubhāṣya*: the devotees know themselves as instruments for serving Bhagavān with love, and all that is not a devotee they likewise know only as means for that service.
+
+[^28]: The same verse as Ādi 1.55; translation as there. Numbered as in the heading of the edition (p. 837): 2.9.34; in Ādi 1.55 and in other editions — 2.9.35.
+
+[^29]: *Anubhāṣya*: so Havi, one of the nine Yogendras, answers King Nimi on the marks of the *bhāgavatas*.
+
+[^30]: The same verse as Madhya 8.274; translation as there.
+
+[^31]: The same verse as Ādi 2.11; translation as there.
+
+[^32]: The same verse as Madhya 20.138; translation as there. *Anubhāṣya*: some readings give two more verses here — Śrīmad-Bhāgavatam, 11.14.20 and 11.2.37.
+
+[^33]: *Anubhāṣya*: so Prabuddha, one of the nine Yogendras, answers King Nimi: taking shelter at the guru’s feet and performing without offence the *sādhana* of bhakti called kīrtana, the conditioned soul is freed from *anarthas* and attains *bhāva-bhakti*.
+
+[^34]: The same verse as Ādi 7.94; translation as there.
