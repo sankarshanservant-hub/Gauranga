@@ -314,11 +314,15 @@ in the age of Kali  by nāmābhāsa  easily  liberation  comes
 নান্যদ্যথা স্থূলতুষাবঘাতিনাম্ ॥ ৩১ ॥
 
 śreyaḥ-sṛtiṁ bhaktim udasya te vibho  
+the path to the highest good  bhakti  having rejected  Your  O almighty Lord  
 kliśyanti ye kevala-bodha-labdhaye  
+toil  those who  for attaining mere knowledge  
 teṣām asau kleśala eva śiṣyate  
-nānyad yathā sthūla-tuṣāvaghātinām
+for them  this  toil  only  remains  
+nānyad yathā sthūla-tuṣāvaghātinām  
+nothing else  as  for those who pound empty husks
 
-(31) [not yet translated]
+(31) “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)
 
 যেঽন্যেঽরবিন্দাক্ষ বিমুক্তমানিন-  
 স্ত্বয়্যস্তভাবাদবিশুদ্ধবুদ্ধয়ঃ ৷  
@@ -326,35 +330,45 @@ nānyad yathā sthūla-tuṣāvaghātinām
 পতন্ত্যধোঽনাদৃতযুষ্মদঙ্ঘ্রয়ঃ ॥ ৩২ ॥
 
 ye ‘nye ‘ravindākṣa vimukta-māninas  
+those who  others  O lotus-eyed Lord  who think themselves liberated  
 tvayy asta-bhāvād aviśuddha-buddhayaḥ  
+toward You  for want of love  of impure intelligence  
 āruhya kṛcchreṇa paraṁ padaṁ tataḥ  
-patanty adho ‘nādṛta-yuṣmad-aṅghrayaḥ
+having risen  with hardship  to the supreme  position  from there  
+patanty adho ‘nādṛta-yuṣmad-aṅghrayaḥ  
+fall  down  having neglected Your feet
 
-(32) [not yet translated]
+(32) “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
 
 ‘ব্রহ্ম’-শব্দে কহে ‘ষড়ৈশ্বর্য্যপূর্ণ ভগবান্’ ৷  
 তাঁরে ‘নির্ব্বিশেষ’ স্থাপি, ‘পূর্ণতা’ হয় হানি ॥ ৩৩ ॥
 
 ‘brahma’ śabde kahe ‘ṣaḍ-aiśvarya-pūrṇa bhagavān’  
-tāṅre ‘nirviśeṣa’ sthāpi, ‘pūrṇatā’ haya hāni
+‘Brahman’  by the word  is meant  full of the six opulences  Bhagavān  
+tāṅre ‘nirviśeṣa’ sthāpi, ‘pūrṇatā’ haya hāni  
+Him  as without attributes  establishing  completeness  suffers  loss
 
-(33) [not yet translated]
+(33) The word ‘Brahman’ means Bhagavān, full of the six opulences. To establish Him as without attributes (*nirviśeṣa*) is to diminish His completeness.
 
 শ্রুতি-পুরাণ কহে — কৃষ্ণের চিচ্ছক্তি-বিলাস ৷  
 তাহা নাহি মানি’ পণ্ডিত করে উপহাস ॥ ৩৪ ॥
 
 śruti-purāṇa kahe — kṛṣṇera cic-chakti-vilāsa  
-tāhā nāhi māni, paṇḍita kare upahāsa
+the śrutis  the Purāṇas  say  Kṛṣṇa’s  of the spiritual potency  the play  
+tāhā nāhi māni’ paṇḍita kare upahāsa  
+that  not  accepting  the scholar  makes  mockery
 
-(34) [not yet translated]
+(34) The *śrutis* and the Purāṇas speak of the play of Kṛṣṇa’s spiritual potency (*cic-chakti-vilāsa*). Not accepting this, the scholar mocks it.
 
 চিদানন্দ কৃষ্ণবিগ্রহে ‘মায়িক’ করি’ মানি ৷  
 এই বড় ‘পাপ’, — সত্য চৈতন্যের বাণী ॥ ৩৫ ॥
 
 cid-ānanda kṛṣṇa-vigrahe ‘māyika’ kari’ māni  
-ei baḍa ‘pāpa’, — satya caitanyera vāṇī
+spiritual and blissful  Kṛṣṇa’s  form  māyic  taking  to regard  
+ei baḍa ‘pāpa’, — satya caitanyera vāṇī  
+this  a great  sin  true  Caitanya’s  words
 
-(35) [not yet translated]
+(35) To regard Kṛṣṇa’s form of spirit and bliss as *māyic* is a great sin. Caitanya’s words are true.
 
 নাতঃ পরং পরম যদ্ভবতঃ স্বরূপ-  
 মানন্দমাত্রমবিকল্পমবিদ্ধবর্চ্চঃ ৷  
@@ -362,11 +376,15 @@ ei baḍa ‘pāpa’, — satya caitanyera vāṇī
 ভূতেন্দ্রিয়াত্মকমদস্ত উপাশ্রিতোঽস্মি ॥ ৩৬ ॥
 
 nātaḥ paraṁ parama yad bhavataḥ svarūpam  
+not  than this  higher  O Supreme  which  Your  form  
 ānanda-mātram avikalpam aviddha-varcaḥ  
+pure bliss  free of difference  of unobscured radiance  
 paśyāmi viśva-sṛjam ekam aviśvam ātman  
-bhūtendriyātmakam adas ta upāśrito ‘smi
+I see  of the universe  the creator  one  distinct from the universe  O Self  
+bhūtendriyātmakam adas ta upāśrito ‘smi  
+the source of the elements and senses  that  Your  sheltered  I am
 
-(36) [not yet translated]
+(36) “O Supreme Lord, I see nothing higher than this form of Yours, which is pure bliss, free of all difference, its radiance unobscured. You are the one creator of the universe, yet You are distinct from it, O Self, and You are the source of the elements and the senses. I have taken shelter of that form of Yours.” (Śrīmad-Bhāgavatam, 3.9.3)
 
 তদ্বা ইদং ভুবনমঙ্গল মঙ্গলায়  
 ধ্যানে স্ম নো দর্শিতং ত উপাসকানাম্ ৷  
@@ -374,159 +392,203 @@ bhūtendriyātmakam adas ta upāśrito ‘smi
 যোঽনাদৃতো নরকভাগ্ভিরসৎপ্রসঙ্গৈঃ ॥ ৩৭ ॥
 
 tad vā idaṁ bhuvana-maṅgala maṅgalāya  
+that  indeed  this (form)  O good of the worlds  for the good  
 dhyāne sma no darśitaṁ ta upāsakānām  
+in meditation  indeed  to us  shown  by You  to the worshippers  
 tasmai namo bhagavate ‘nuvidhema tubhyaṁ  
-yo ‘nādṛto naraka-bhāgbhir asat-prasaṅgaiḥ
+to Him  obeisance  to Bhagavān  we offer  to You  
+yo ‘nādṛto naraka-bhāgbhir asat-prasaṅgaiḥ  
+who  is not honoured  by those bound for hell  attached to false arguments
 
-(37) [not yet translated]
+(37) “O good of all the worlds, this very form You have shown in meditation to us, Your worshippers, for our good. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)
 
 অবজানন্তি মাং মূঢ়া মানুষীং তনুমাশ্রিতম্ ৷  
 পরং ভাবমজানন্তো সর্ব্বভূতমহেশ্বরম্ ॥ ৩৮ ॥
 
 avajānanti māṁ mūḍhā  
+disregard  Me  fools  
 mānuṣīṁ tanum āśritam  
+humanlike  form  who has assumed  
 paraṁ bhāvam ajānanto  
-sarva-bhūta-maheśvaram
+the supreme  nature  not knowing  
+sarva-bhūta-maheśvaram  
+of all beings  the great Lord
 
-(38) [not yet translated]
+(38) “Fools disregard Me when I appear in a humanlike form, not knowing My supreme nature as the great Lord of all beings.” (Bhagavad-gītā, 9.11)
 
 তানহং দ্বিষতঃ ক্রূরান্ সংসারেষু নরাধমান্ ৷  
 ক্ষিপাম্যজস্রমশুভানাসুরীষ্বেব যোনিষু ॥ ৩৯ ॥
 
 tān ahaṁ dviṣataḥ krūrān  
+those  I  envious  cruel  
 saṁsāreṣu narādhamān  
+into the cycles of birth and death  the lowest of men  
 kṣipāmy ajasram aśubhān  
-āsurīṣv eva yoniṣu
+I cast  perpetually  impure  
+āsurīṣv eva yoniṣu  
+into demonic  indeed  wombs
 
-(39) [not yet translated]
+(39) “Those envious and cruel men, the lowest of mankind and impure, I perpetually cast into the cycles of birth and death, into demonic wombs.” (Bhagavad-gītā, 16.19)
 
 সূত্রের পরিণাম-বাদ, তাহা না মানিয়া ৷  
 ‘বিবর্ত্তবাদ’ স্থাপে, ‘ব্যাস ভ্রান্ত’ বলিয়া ॥ ৪০ ॥
 
 sūtrera pariṇāma-vāda, tāhā nā māniyā  
-‘vivarta-vāda’ sthāpe, ‘vyāsa bhrānta’ baliyā
+of the sūtras  the doctrine of transformation  that  not  accepting  
+‘vivarta-vāda’ sthāpe, ‘vyāsa bhrānta’ baliyā  
+vivarta-vāda  he establishes  ‘Vyāsa  is mistaken’  saying
 
-(40) [not yet translated]
+(40) Not accepting the doctrine of transformation (*pariṇāma-vāda*) taught in the *sūtras*, he establishes *vivarta-vāda*, saying that Vyāsa was mistaken.
 
 এই ত’ কল্পিত অর্থ মনে নাহি ভায় ৷  
 শাস্ত্র ছাড়ি’ কুকল্পনা পাষণ্ডে বুঝায় ॥ ৪১ ॥
 
 ei ta’ kalpita artha mane nāhi bhāya  
-śāstra chāḍi’ kukalpanā pāṣaṇḍe bujhāya
+this  indeed  imagined  meaning  to the mind  not  appeals  
+śāstra chāḍi’ kukalpanā pāṣaṇḍe bujhāya  
+the scriptures  abandoning  wicked fancies  to the pāṣaṇḍīs  he explains
 
-(41) [not yet translated]
+(41) Such an imagined meaning does not appeal to the mind. Abandoning the scriptures, he explains his wicked fancies to the *pāṣaṇḍīs*.
 
 পরমার্থ-বিচার গেল, করি মাত্র ‘বাদ’ ৷  
 কাঁহা মুক্তি পাব, কাঁহা কৃষ্ণের প্রসাদ ॥ ৪২ ॥
 
 paramārtha-vicāra gela, kari mātra ‘vāda’  
-kāṅhā mukti pāba, kāṅhā kṛṣṇera prasāda
+inquiry into the highest truth  is gone  we do  only  argument  
+kāṅhā mukti pāba, kāṅhā kṛṣṇera prasāda  
+where  liberation  shall we get  where  Kṛṣṇa’s  grace
 
-(42) [not yet translated]
+(42) Inquiry into the highest truth is gone; we only argue. How shall we gain liberation, and how Kṛṣṇa’s grace?
 
 ব্যাসসূত্রের অর্থ আচার্য্য করিয়াছে আচ্ছাদন ৷  
 এই হয় সত্য শ্রীকৃষ্ণচৈতন্য-বচন ॥ ৪৩ ॥
 
 vyāsa-sūtrera artha ācārya kariyāche ācchādana  
-ei haya satya śrī-kṛṣṇa-caitanya-vacana
+of the Vyāsa-sūtra  the meaning  the Ācārya  has  covered  
+ei haya satya śrī-kṛṣṇa-caitanya-vacana  
+this  is  true  Śrī Kṛṣṇa Caitanya’s  word
 
-(43) [not yet translated]
+(43) The Ācārya has covered the meaning of the *Vyāsa-sūtra*. This word of Śrī Kṛṣṇa Caitanya is true.
 
 চৈতন্য-গোসাঞি যেই কহে, সেই মত সার ৷  
 আর যত মত, সেই সব ছারখার ॥ ৪৪ ॥
 
 caitanya-gosāñi yei kahe, sei mata sāra  
-āra yata mata, sei saba chārakhāra
+Caitanya Gosāñi  whatever  says  that  doctrine  is the essence  
+āra yata mata, sei saba chārakhāra  
+other  as many  doctrines  they  all  worthless
 
-(44) [not yet translated]
+(44) Whatever Caitanya Gosāñi says is the essential doctrine; all other doctrines are worthless.”
 
 এত কহি’ সেই করে কৃষ্ণসংকীর্ত্তন ৷  
 শুনি’ প্রকাশানন্দ কিছু কহেন বচন ॥ ৪৫ ॥
 
 eta kahi’ sei kare kṛṣṇa-saṅkīrtana  
-śuni’ prakāśānanda kichu kahena vacana
+so  saying  he  performs  kṛṣṇa-saṅkīrtana  
+śuni’ prakāśānanda kichu kahena vacana  
+hearing  Prakāśānanda  some  speaks  words
 
-(45) [not yet translated]
+(45) Having said this, he began *kṛṣṇa-saṅkīrtana*. Hearing him, Prakāśānanda spoke:
 
 আচার্য্যের আগ্রহ — ‘অদ্বৈতবাদ’ স্থাপিতে ৷  
 তাতে সূত্রের ব্যাখ্যা করে অন্য রীতে ॥ ৪৬ ॥
 
 ācāryera āgraha — ‘advaita-vāda’ sthāpite  
-tāte sūtrera vyākhyā kare anya rīte
+the Ācārya’s  insistence  advaita-vāda  to establish  
+tāte sūtrera vyākhyā kare anya rīte  
+therefore  of the sūtras  explanation  he gives  in another  way
 
-(46) [not yet translated]
+(46) “The Ācārya was determined to establish *advaita-vāda*, and so he explained the *sūtras* in another way.
 
 ‘ভগবত্তা’ মানিলে ‘অদ্বৈত’ না যায় স্থাপন ৷  
 অতএব সব শাস্ত্র করয়ে খণ্ডন ॥ ৪৭ ॥
 
-’bhagavattā’ mānile ‘advaita’ nā yāya sthāpana  
-ataeva saba śāstra karaye khaṇḍana
+‘bhagavattā’ mānile ‘advaita’ nā yāya sthāpana  
+Bhagavattā  if one accepts  advaita  not  can be  established  
+ataeva saba śāstra karaye khaṇḍana  
+therefore  all  scriptures  he makes  refutation
 
-(47) [not yet translated]
+(47) If one accepts that He is Bhagavān (*bhagavattā*), *advaita* cannot be established. Therefore he refutes all the scriptures.
 
 যেই গ্রন্থকর্ত্তা চাহে স্ব-মত স্থাপিতে ৷  
 শাস্ত্রের সহজ অর্থ নহে তাঁহা হৈতে ॥ ৪৮ ॥
 
 yei grantha-kartā cāhe sva-mata sthāpite  
-śāstrera sahaja artha nahe tāṅhā haite
+which  of a book  author  wants  his own doctrine  to establish  
+śāstrera sahaja artha nahe tāṅhā haite  
+of the scriptures  the natural  meaning  does not come  from him
 
-(48) [not yet translated]
+(48) When an author wants to establish his own doctrine, the natural meaning of the scriptures does not come from him.
 
 ‘মীমাংসক’ কহে, — ঈশ্বর হয় কর্ম্মের অঙ্গ ৷  
 ‘সাংখ্য’ কহে, — জগতের প্রকৃতি কারণ ॥ ৪৯ ॥
 
 ‘mīmāṁsaka’ kahe, — īśvara haya karmera aṅga  
-‘sāṅkhya’ kahe, — jagatera prakṛti kāraṇa
+the Mīmāṁsaka  says  Īśvara  is  of karma  a limb  
+‘sāṅkhya’ kahe, — jagatera prakṛti kāraṇa  
+the Sāṅkhya  says  of the world  prakṛti  is the cause
 
-(49) [not yet translated]
+(49) The Mīmāṁsaka says that Īśvara is a limb of *karma*. The Sāṅkhya says that *prakṛti* is the cause of the world.
 
 ‘ন্যায়’ কহে, — পরমাণু হৈতে বিশ্ব হয় ৷  
 ‘মায়াবাদী’ নির্ব্বিশেষ-ব্রহ্মে ‘হেতু’ কয় ॥ ৫০ ॥
 
 ‘nyāya’ kahe, — paramāṇu haite viśva haya  
-‘māyāvādī’ nirviśeṣa-brahme ‘hetu’ kaya
+the Nyāya  says  from atoms  the universe  arises  
+‘māyāvādī’ nirviśeṣa-brahme ‘hetu’ kaya  
+the Māyāvādī  the impersonal Brahman  the cause  calls
 
-(50) [not yet translated]
+(50) The Nyāya says that the universe arises from atoms. The Māyāvādī calls the impersonal Brahman the cause.
 
 ‘পাতঞ্জল’ কহে, — ঈশ্বর হয় স্বরূপ-আখ্যান ৷  
 বেদমতে কহে তাঁরে স্বয়ংভগবান্ ॥ ৫১ ॥
 
-’pātañjala’ kahe, — īśvara haya svarūpa-ākhyāna  
-veda-mate kahe tāṅre svayaṁ bhagavān
+‘pātañjala’ kahe, — īśvara haya svarūpa-ākhyāna  
+the Pātañjala  says  Īśvara  is  the realisation of one’s own nature  
+veda-mate kahe tāṅre svayaṁ bhagavān  
+in the Vedic view  they call  Him  Svayam  Bhagavān
 
-(51) [not yet translated]
+(51) The Pātañjala says that Īśvara is the realisation of one’s own nature. In the view of the Vedas, He is called Svayam Bhagavān, the Lord Himself.
 
 ছয়ের ছয় মত ব্যাস কৈলা আবর্ত্তন ৷  
 সেই সব সূত্র লঞা ‘বেদান্ত’-বর্ণন ॥ ৫২ ॥
 
 chayera chaya mata vyāsa kailā āvartana  
-sei saba sūtra lañā ‘vedānta’-varṇana
+of the six  the six  doctrines  Vyāsa  made  overturning  
+sei saba sūtra lañā ‘vedānta’-varṇana  
+those  all  sūtras  taking  the description of Vedānta
 
-(52) [not yet translated]
+(52) Vyāsa overturned the six doctrines of the six schools, and with all those *sūtras* he set forth the Vedānta.
 
 ‘বেদান্ত’-মতে, — ব্রহ্ম ‘সাকার’ নিরূপণ ৷  
 ‘নির্গুণ’ ব্যতিরেকে তিঁহো হয় ত’ ‘সগুণ’ ॥ ৫৩ ॥
 
 ‘vedānta’ mate, — brahma ‘sākāra’ nirūpaṇa  
-‘nirguṇa’ vyatireke tiṅho haya ta’ ‘saguṇa’
+of Vedānta  in the view  Brahman  with form  is defined  
+‘nirguṇa’ vyatireke tiṅho haya ta’ ‘saguṇa’  
+nirguṇa  by negation  He  is  indeed  saguṇa
 
-(53) [not yet translated]
+(53) In the view of Vedānta, Brahman is defined as having form (*sākāra*). By negation, the word *nirguṇa* shows that He is *saguṇa*, possessed of [transcendental] qualities.
 
 পরম কারণ ঈশ্বর কেহ নাহি মানে ৷  
 স্ব-স্ব-মত স্থাপে পরমতের খণ্ডনে ॥ ৫৪ ॥
 
 parama kāraṇa īśvara keha nāhi māne  
-sva-sva-mata sthāpe para-matera khaṇḍane
+as the supreme  cause  Īśvara  no one  not  accepts  
+sva-sva-mata sthāpe para-matera khaṇḍane  
+each his own  doctrine  establishes  of others’ doctrines  by refutation
 
-(54) [not yet translated]
+(54) None of them accepts Īśvara as the supreme cause. Each establishes his own doctrine by refuting the doctrines of others.
 
 তাতে ছয় দর্শন হৈতে ‘তত্ত্ব’ নাহি জানি ৷  
 ‘মহাজন’ যেই কহে, সেই ‘সত্য’ মানি ॥ ৫৫ ॥
 
 tāte chaya darśana haite ‘tattva’ nāhi jāni  
-‘mahājana’ yei kahe, sei ‘satya’ māni
+therefore  the six  philosophies  from  the truth  not  we know  
+‘mahājana’ yei kahe, sei ‘satya’ māni  
+the mahājanas  whatever  say  that  as truth  we accept
 
-(55) [not yet translated]
+(55) So we do not come to know the truth from the six philosophies. What the *mahājanas* say, that we accept as truth.
 
 তর্কোঽপ্রতিষ্ঠঃ শ্রুতয়ো বিভিন্না  
 নাসাবৃষির্যস্য মতং ন ভিন্নম্ ৷  
@@ -534,43 +596,55 @@ tāte chaya darśana haite ‘tattva’ nāhi jāni
 মহাজনো যেন গতঃ স পন্থাঃ ॥ ৫৬ ॥
 
 tarko 'pratiṣṭhaḥ śrutayo vibhinnā  
+argument  is unsettled  the śrutis  are various  
 nāsāv ṛṣir yasya mataṁ na bhinnam  
+there is no such  sage  whose  opinion  not  differs  
 dharmasya tattvaṁ nihitaṁ guhāyāṁ  
-mahājano yena gataḥ sa panthāḥ
+of dharma  the truth  is hidden  in a cave  
+mahājano yena gataḥ sa panthāḥ  
+the great soul  by which  has gone  that  is the path
 
-(56) [not yet translated]
+(56) “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in the cave of the heart; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva, 313.117)
 
 শ্রীকৃষ্ণচৈতন্য-বাণী — অমৃতের ধার ৷  
 তিঁহো যে কহয়ে বস্তু, সেই ‘তত্ত্ব’ — সার ॥ ৫৭ ॥
 
 śrī-kṛṣṇa-caitanya-vāṇī — amṛtera dhāra  
-tiṅho ye kahaye vastu, sei ‘tattva’ — sāra
+Śrī Kṛṣṇa Caitanya’s  words  of nectar  a stream  
+tiṅho ye kahaye vastu, sei ‘tattva’ — sāra  
+He  which  speaks of  thing  that  the truth  the essence
 
-(57) [not yet translated]
+(57) The words of Śrī Kṛṣṇa Caitanya are a stream of nectar. Whatever He declares is the truth, the very essence.”
 
 এ সব বৃত্তান্ত শুনি’ মহারাষ্ট্রীয় ব্রাহ্মণ ৷  
 প্রভুরে কহিতে সুখে করিলা গমন ॥ ৫৮ ॥
 
 e saba vṛttānta śuni’ mahārāṣṭrīya brāhmaṇa  
-prabhure kahite sukhe karilā gamana
+these  all  events  hearing  the Mahārāṣṭrian  brāhmaṇa  
+prabhure kahite sukhe karilā gamana  
+to the Lord  to tell  happily  made  going
 
-(58) [not yet translated]
+(58) Hearing all this, the *brāhmaṇa* from Mahārāṣṭra happily went to tell the Lord.
 
 হেনকালে মহাপ্রভু পঞ্চনদে স্নান করি’ ৷  
 দেখিতে চলিয়াছেন ‘বিন্দুমাধব হরি’ ॥ ৫৯ ॥
 
 hena-kāle mahāprabhu pañca-nade snāna kari’  
-dekhite caliyāchena ‘bindu-mādhava hari’
+at that time  Mahāprabhu  at Pañcanada  bath  having taken  
+dekhite caliyāchena ‘bindu-mādhava hari’  
+to see  was going  Bindu-mādhava  Hari
 
-(59) [not yet translated]
+(59) At that time Mahāprabhu, having bathed at Pañcanada, was on His way to see Lord Bindu-mādhava.
 
 পথে সেই বিপ্র সব বৃত্তান্ত কহিল ৷  
 শুনি’ মহাপ্রভু সুখে ঈষৎ হাসিল ॥ ৬০ ॥
 
 pathe sei vipra saba vṛttānta kahila  
-śuni’ mahāprabhu sukhe īṣat hāsila
+on the way  that  brāhmaṇa  all  the events  told  
+śuni’ mahāprabhu sukhe īṣat hāsila  
+hearing  Mahāprabhu  happily  slightly  smiled
 
-(60) [not yet translated]
+(60) On the way the *brāhmaṇa* told Him everything. Hearing it, Mahāprabhu smiled a little with pleasure.
 
 মাধব-সৌন্দর্য্য দেখি’ আবিষ্ট হইলা ৷  
 অঙ্গনেতে আসি’ প্রেমে নাচিতে লাগিলা ॥ ৬১ ॥
@@ -1014,7 +1088,7 @@ pūrṇaiśvarya-vigrahera sthitira nirdhāra
 তারে তিরস্করিবারে করিলা নির্দ্ধারণে ॥ ১১৩ ॥
 
 ye ‘vigraha’ nāhi māne, ‘nirākāra’ māne  
-tāre tiraskaribāre karilā nirdhāraṇe
+tāre tiraskaribāre karilā nirddhāraṇe
 
 (113) [not yet translated]
 
@@ -1157,7 +1231,8 @@ bhūteṣu santaṁ puruṣaṁ vanaspatīn
 অতএব ভাগবতে এই ‘তিন’ কয় ৷  
 সম্বন্ধ-অভিধেয়-প্রয়োজন-ময় ॥ ১২৯ ॥
 
-ataeva bhāgavate ei ‘tina’ kaya
+ataeva bhāgavate ei ‘tina’ kaya  
+sambandha-abhidheya-prayojana-maya
 
 (129) [not yet translated]
 
