@@ -1917,7 +1917,7 @@ tr: “Everywhere give the words of the Purāṇas as evidence. Describe also th
 ## 339
 w: general  good conduct  and  Vaiṣṇava  conduct
 w: what should and should not be done  smārta  practice
-tr: “general good conduct and Vaiṣṇava conduct; what should and should not be done; and the practices of the *smārtas*.
+tr: “general good conduct and Vaiṣṇava conduct, and what should and should not be done in daily life according to the *smṛti*.
 
 ## 340
 w: this  indeed  briefly  I told  outline
@@ -1939,7 +1939,8 @@ w: of the king of Gauḍa  of the court  ornament  the jewel  having left  who  
 w: of Rūpa  the elder brother  this  very one  youthful  of renunciation  goddess  took
 w: within  of devotion  with the rasa  a full lake  outwardly  in the form of an avadhūta
 w: with moss  covered  a great  lake  like  delight  giving  to those who know it
-tr: “This very one — the elder brother of Rūpa, once the jewel adorning the court of the king of Gauḍa — gave up abundant wealth and took as his own the youthful goddess of renunciation. Within he is a lake brimming with the rasa of devotion; outwardly he looks like an *avadhūta*. Like a great lake covered with moss, he gives delight to those who know him.” (Caitanya-candrodaya, Act 9)
+tr: “This very one — the elder brother of Rūpa, once the jewel adorning the court of the king of Gauḍa — gave up abundant wealth and took as his own the youthful goddess of renunciation. Within he is brimming with the *rasa* of devotion; outwardly he looks like an *avadhūta*. Like a deep lake covered with moss, he delights those who know the truth.” (Caitanya-candrodaya, Act 9)
+fn: Heading of the edition (p. 826): *Caitanya-candrodaya-nāṭaka*, Act 9, the words of the messenger to Pratāparudra; the number of the verse is not given, and the line is printed without a number.
 
 ## 344
 w: that  Sanātana  approached  of the eyes
@@ -1954,6 +1955,7 @@ w: lost  therefore  it  to make known  in a special way
 w: with the nectar of mercy  sprinkled  the Lord
 w: there indeed  Rūpa  and  Sanātana  and
 tr: “Since over time the account of the pastimes of Vṛndāvana had been lost, the Lord, to make it known in a special way, sprinkled Rūpa and Sanātana there with the nectar of His mercy.” (Caitanya-candrodaya, 9.38)
+fn: The same verse as Madhya 19.119; translation as there. Reference as in the heading of the edition (p. 827).
 
 ## 346
 w: this  indeed  I told  of the Lord  to Sanātana  mercy
@@ -1979,3 +1981,4 @@ tr: One whose life’s treasure is the feet of Śrī Caitanya, Nityānanda and A
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The same verse as Ādi 1.110; translation as there.
