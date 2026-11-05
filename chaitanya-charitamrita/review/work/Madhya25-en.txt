@@ -339,12 +339,13 @@ tr: Seeing the beauty of Mādhava, He was overwhelmed with ecstasy, and coming i
 ## 62
 w: Śekhara  Paramānanda  Tapana  Sanātana
 w: four  persons  together  perform  saṅkīrtana of the name
-tr: Candraśekhara, Paramānanda, Tapana and Sanātana — these four together performed saṅkīrtana of the holy name:
+tr: Candraśekhara, Paramānanda, Tapana and Sanātana — these four together joined in the saṅkīrtana of the holy name:
 
 ## 63
 w: Hari  to Hari  obeisance  Kṛṣṇa  to Yādava  obeisance
 w: Gopāla  Govinda  Rāma  Śrī Madhusūdana
 tr: “*Hari haraye namaḥ, kṛṣṇa yādavāya namaḥ, gopāla govinda rāma śrī-madhusūdana*.”
+fn: The same verse as Ādi 17.122; translation as there.
 
 ## 64
 w: on all sides  hundreds of thousands  of people  say  ‘Hari’  ‘Hari’
@@ -364,7 +365,7 @@ tr: Seeing the Lord’s dance, His love and the sweetness of His form, he too, w
 ## 67
 w: joy  humility  restlessness and others  sañcārī  transformations
 w: seeing  of Kāśī  the residents  of the people  there was  amazement
-tr: Seeing joy, humility, restlessness and the other transient emotions (*sañcārī*) transforming Him, the people of Kāśī were amazed.
+tr: Seeing in Him the transformations of joy, humility, restlessness and the other transient emotions (*sañcārī*), the people of Kāśī were amazed.
 
 ## 68
 w: of people  the crowds  seeing  the Lord’s  outer awareness  when  came
@@ -409,6 +410,7 @@ w: by the touch of the feet  his evil destroyed
 w: took  the serpent’s  body  leaving
 w: the form  honoured by the Vidyādharas
 tr: “His sins destroyed by the touch of the Lord’s beautiful feet, he gave up his serpent’s body and took the form honoured by the Vidyādharas.” (Śrīmad-Bhāgavatam, 10.34.9)
+fn: *Anubhāṣya*: once Nanda went with his kinsmen on pilgrimage to the bank of the Sarasvatī and at night in the forest was seized by a serpent — the Gandharva Sudarśana, cursed by the sages of the Aṅgirasa line for mocking them; Kṛṣṇa touched the serpent with His foot and saved Nanda. In the edition Prakāśānanda’s words are closed after 73.
 
 ## 76
 w: the Lord  says  ‘Viṣṇu’  ‘Viṣṇu’  I  a tiny  jīva  lowly
@@ -418,14 +420,15 @@ tr: The Lord said, “Viṣṇu! Viṣṇu! I am a tiny, lowly jīva. To regard 
 ## 77
 w: in a jīva  ‘Viṣṇu’  the idea  makes  who  to Brahmā and Rudra  equal
 w: Nārāyaṇa  regards  of him  among the pāṣaṇḍīs  reckoning
-tr: One who thinks a jīva to be Viṣṇu, and one who regards Nārāyaṇa as equal to Brahmā and Rudra, are counted among the *pāṣaṇḍīs*.”
+tr: One who thinks a jīva to be Viṣṇu, and one who regards Nārāyaṇa as equal to Brahmā and Rudra, are counted among the *pāṣaṇḍīs*.
 
 ## 78
 w: who  but  Nārāyaṇa  the Lord
 w: with Brahmā, Rudra and other  gods
 w: as equal  indeed  sees
 w: he  a pāṣaṇḍī  becomes  surely
-tr: “One who looks upon the Lord Nārāyaṇa as equal to Brahmā, Rudra and the other gods is surely a *pāṣaṇḍī*.” (Vaiṣṇava-tantra)
+tr: ‘One who looks upon the Lord Nārāyaṇa as equal to Brahmā, Rudra and the other gods is surely a *pāṣaṇḍī*.’” (Vaiṣṇava-tantra; Padma-purāṇa, Uttara-khaṇḍa, 23.12)
+fn: The same verse as Madhya 18.116; translation as there. Reference as in the heading of the edition (in Madhya 18.116 — the *Vaiṣṇava-tantra* only).
 
 ## 79
 w: Prakāśānanda  says  You  directly  Bhagavān
@@ -443,6 +446,7 @@ w: Nārāyaṇa  devoted to
 w: very rare  of peaceful mind
 w: among millions  even  O great sage
 tr: “O great sage, even among millions of the liberated and the perfected, one devoted to Nārāyaṇa, whose mind is at peace, is very rare.” (Śrīmad-Bhāgavatam, 6.14.5)
+fn: The same verse as Madhya 19.150; translation as there.
 
 ## 82
 w: life  fortune  fame  dharma
@@ -450,6 +454,7 @@ w: the higher worlds  blessings  also  and
 w: destroys  benefits  all
 w: of a man  offence against the great
 tr: “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)
+fn: The same verse as Madhya 15.270; translation as there.
 
 ## 83
 w: not  their  mind  so long  Urukrama’s feet
@@ -457,6 +462,7 @@ w: touches  the removal of anarthas  whose purpose
 w: of the great  bathing in the dust of the feet
 w: of those who own nothing  not  accepts  as long as
 tr: “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)
+fn: The same verse as Madhya 22.53; translation as there.
 
 ## 84
 w: now  for Your  lotus feet  will arise  devotion
@@ -466,7 +472,7 @@ tr: Now devotion to Your lotus feet will arise in me; for that I bow down at You
 ## 85
 w: so  saying  the Lord  taking  there  he sat
 w: the Lord  Prakāśānanda  to question  began
-tr: Having said this, he sat down there with the Lord, and Prakāśānanda began to question Him:
+tr: With these words Prakāśānanda sat down there with the Lord and began to question Him:
 
 ## 86
 w: in Māyāvāda  You made  all  of the faults  the exposition
@@ -506,7 +512,7 @@ tr: The meaning of the *praṇava* (*oṁ*) is contained in the Gāyatrī, and t
 ## 93
 w: to Brahmā  Īśvara  the Catuḥ-ślokī  which  spoke
 w: Brahmā  to Nārada  that  instruction  gave
-tr: The Catuḥ-ślokī that Īśvara spoke to Brahmā, Brahmā taught to Nārada.
+tr: Brahmā taught Nārada the Catuḥ-ślokī that Īśvara had spoken to him.
 
 ## 94
 w: Nārada  that  meaning  to Vyāsa  told
@@ -517,6 +523,7 @@ tr: Nārada told that meaning to Vyāsa, and hearing it, Veda-vyāsa reflected w
 w: this  meaning  of my  sūtras  accords with the explanation
 w: the Bhāgavata  I shall make  of the sūtras  the commentary  in the form of
 tr: ‘This meaning accords with the explanation of my sūtras. I shall make the *Bhāgavata* the commentary on my sūtras.’
+fn: In the edition Vyāsa’s thought is printed in quotation marks.
 
 ## 96
 w: in the four Vedas and the Upaniṣads  as much  anything  there is
