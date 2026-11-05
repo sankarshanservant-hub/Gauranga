@@ -746,7 +746,7 @@ In the circles of the *jñānīs*, the *karmīs* or the *anyābhilāṣīs* (tho
 
 ## 198
 
-An example of this is how Kṛṣṇa attracted liberated sages such as Sanaka and the others and Śukadeva. Madhya 24.112–116:[^198-1] “Even the liberated, assuming a form of their own will, worship Bhagavān.” “From birth Śuka and Sanaka and the others were absorbed in Brahman, yet, attracted by Kṛṣṇa's qualities, they worship Kṛṣṇa. By Kṛṣṇa's mercy the fragrance [of His feet] captured the minds of Sanaka and the others; attracted by His qualities, they worship Him purely. By Vyāsa's mercy Śukadeva came to remember the pastimes and so on; attracted by Kṛṣṇa's qualities, he worships Him.” Madhya 17.139: “Kṛṣṇa's qualities are full bliss, greater than the bliss of Brahman; therefore they attract the minds of the *ātmārāmas*.” In this connection see *Śrīmad-Bhāgavatam* 3.15.43.
+An example of this is how Kṛṣṇa attracted liberated sages such as Sanaka and the others and Śukadeva. Madhya 24.112–116:[^198-1] “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” “From birth Śuka, Sanaka and the others were *brahmamaya*, absorbed in Brahman; attracted by Kṛṣṇa’s qualities, they worship Kṛṣṇa. By Kṛṣṇa’s mercy the minds of Sanaka and the others were stolen by the fragrance of His feet; attracted by His qualities, they worship Him with pure devotion. By Vyāsa’s mercy Śukadeva came to remember Kṛṣṇa’s pastimes; attracted by Kṛṣṇa’s qualities, he worships Him.” Madhya 17.139: “Kṛṣṇa's qualities are full bliss, greater than the bliss of Brahman; therefore they attract the minds of the *ātmārāmas*.” In this connection see *Śrīmad-Bhāgavatam* 3.15.43.
 
 ## 193–198
 
