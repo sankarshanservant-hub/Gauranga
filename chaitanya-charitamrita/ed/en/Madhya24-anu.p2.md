@@ -238,7 +238,7 @@ The company of Kṛṣṇa's devotees, service to Kṛṣṇa, the *Śrīmad-Bh�
 
 ## 189
 
-See Madhya 22.129.
+See Madhya 22.129.[^189-1]
 
 ## 190
 
@@ -380,13 +380,13 @@ The *samuccaya* (conjunction) meaning of the word *ca* has already been explaine
 
 > Subheading: The explanation by the *anvācaya* meaning of the word *ca* —
 
-## 217–218
-
-The word *ca* in the meaning of *anvācaya*, that is, the primacy of one thing and the secondary place of another. As an example one may say: “O *brāhmaṇa* boy, beg alms, and if you can, bring the cow as well.” Here begging alms is primary, and bringing the cow is indicated as secondary. In the same way, the sages who contemplate Kṛṣṇa always serve Kṛṣṇa as the “primary” ones, and the *ātmārāmas* serve Kṛṣṇa as the “secondary” ones. This is how the *anvācaya* meaning is applied.
-
 ## 218
 
 > Subheading: In this meaning the service of the sage is primary, and the service of the *ātmārāma* secondary —
+
+## 217–218
+
+The word *ca* in the meaning of *anvācaya*, that is, the primacy of one thing and the secondary place of another. As an example one may say: “O *brāhmaṇa* boy, beg alms, and if you can, bring the cow as well.” Here begging alms is primary, and bringing the cow is indicated as secondary. In the same way, the sages who contemplate Kṛṣṇa always serve Kṛṣṇa as the “primary” ones, and the *ātmārāmas* serve Kṛṣṇa as the “secondary” ones. This is how the *anvācaya* meaning is applied.
 
 ## 219
 
@@ -419,3 +419,5 @@ The meaning of the word *ātmā* is “Kṛṣṇa.” One who delights in Kṛ�
 ---
 
 [^160-1]: The hymn of the personified Vedas (Śrutis), *Śrīmad-Bhāgavatam*, Canto 10, Chapter 87.
+
+[^189-1]: So in the edition (checked against the scan). In our numbering the verse *Bhakti-rasāmṛta-sindhu* 1.2.238 is Madhya 22.128 (where the *Anubhāṣya* explains it).
