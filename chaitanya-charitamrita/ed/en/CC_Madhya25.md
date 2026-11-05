@@ -8,243 +8,305 @@ Chapter 25
 সনাতনং সুসংস্কৃত্য প্রভুর্নীলাদ্রিমাগমৎ ॥ ১ ॥
 
 vaiṣṇavī-kṛtya sannyāsi-  
+having made Vaiṣṇavas  the sannyāsīs  
 mukhān kāśī-nivāsinaḥ  
+headed by  of Kāśī  the residents  
 sanātanaṁ su-saṁskṛtya  
-prabhur nīlādrim āgamat
+Sanātana  thoroughly  having refined  
+prabhur nīlādrim āgamat  
+the Lord  to Nīlādri  went
 
-(1) [not yet translated]
+(1) Having made Vaiṣṇavas of the residents of Kāśī, headed by the *sannyāsīs*, and having thoroughly refined Sanātana, the Lord went to Nīlādri.
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
 
 jaya jaya śrī-caitanya jaya nityānanda  
-jayādvaita-candra jaya gaura-bhakta-vṛnda
+glory  glory  to Śrī Caitanya  glory  to Nityānanda  
+jayādvaita-candra jaya gaura-bhakta-vṛnda  
+glory  to Advaitacandra  glory  to Gaura’s  devotees  host
 
-(2) [not yet translated]
+(2) Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
 
 এই মত মহাপ্রভু দুই মাস পর্য্যন্ত ৷  
 শিখাইলা তাঁরে ভক্তিসিদ্ধান্তের অন্ত ॥ ৩ ॥
 
 ei-mata mahāprabhu dui māsa paryanta  
-śikhāilā tāṅre bhakti-siddhāntera anta
+in this way  Mahāprabhu  two  months  for  
+śikhāilā tāṅre bhakti-siddhāntera anta  
+taught  him  of the conclusions of bhakti  the utmost limit
 
-(3) [not yet translated]
+(3) In this way, for two months, Mahāprabhu taught him the utmost limit of the conclusions of *bhakti*.
 
 ‘পরমানন্দ কীর্ত্তনীয়া’ — শেখরের সঙ্গী ৷  
 প্রভুরে কীর্ত্তন শুনায়, অতি বড় রঙ্গী ॥ ৪ ॥
 
 ‘paramānanda kīrtanīyā’ — śekharera saṅgī  
-prabhure kīrtana śunāya, ati baḍa raṅgī
+Paramānanda  Kīrtanīyā  Śekhara’s  companion  
+prabhure kīrtana śunāya, ati baḍa raṅgī  
+to the Lord  kīrtana  makes hear  very  great  in delight
 
-(4) [not yet translated]
+(4) Paramānanda Kīrtanīyā, the companion of Candraśekhara, sang *kīrtana* for the Lord, and he did it with great delight.
 
 সন্ন্যাসীর গণ প্রভুরে যদি উপেক্ষিল ৷  
 ভক্ত-দুঃখ খণ্ডাইতে তারে কৃপা হৈল ॥ ৫ ॥
 
 sannyāsīra gaṇa prabhure yadi upekṣila  
-bhakta-duḥkha khaṇḍāite tāre kṛpā haila
+of the sannyāsīs  the host  the Lord  when  disregarded  
+bhakta-duḥkha khaṇḍāite tāre kṛpā haila  
+the devotees’ sorrow  to dispel  for them  mercy  arose
 
-(5) [not yet translated]
+(5) When the *sannyāsīs* disregarded the Lord, mercy toward them arose in Him, so that He might dispel the sorrow of His devotees.
 
 সন্ন্যাসীরে কৃপা পূর্ব্বে লিখিয়াছোঁ বিস্তারিয়া ৷  
 উদ্দেশে কহিয়ে ইঁহা সংক্ষেপ করিয়া ॥ ৬ ॥
 
 sannyāsīre kṛpā pūrve likhiyāchoṅ vistāriyā  
-uddeśe kahiye iṅhā saṅkṣepa kariyā
+to the sannyāsīs  the mercy  before  I have written  in detail  
+uddeśe kahiye iṅhā saṅkṣepa kariyā  
+by way of mention  I tell  here  brief  making (it)
 
-(6) [not yet translated]
+(6) I have described the Lord’s mercy to the *sannyāsīs* before, in detail. Here I mention it again, briefly.
 
 যাঁহা তাঁহা প্রভুর নিন্দা করে সন্ন্যাসীর গণ ৷  
 শুনি’ দুঃখে মহারাষ্ট্রীয় বিপ্র করয়ে চিন্তন ॥ ৭ ॥
 
 yāṅhā tāṅhā prabhura nindā kare sannyāsīra gaṇa  
-śuni’ duḥkhe mahārāṣṭrīya vipra karaye cintana
+here  there  of the Lord  blasphemy  do  of the sannyāsīs  the host  
+śuni’ duḥkhe mahārāṣṭrīya vipra karaye cintana  
+hearing  in sorrow  a Mahārāṣṭrian  brāhmaṇa  does  reflection
 
-(7) [not yet translated]
+(7) Everywhere the *sannyāsīs* blasphemed the Lord. Hearing this, a *brāhmaṇa* from Mahārāṣṭra reflected sorrowfully:
 
 প্রভুর স্বভাব, — যেবা দেখে সন্নিধানে ৷  
 ‘স্বরূপ’ অনুভবি’ তাঁরে ‘ঈশ্বর’ করি’ মানে ॥ ৮ ॥
 
 prabhura svabhāva, — yebā dekhe sannidhāne  
-‘svarūpa’ anubhavi’ tāṅre ‘īśvara’ kari’ māne
+the Lord’s  nature  whoever  sees  near at hand  
+‘svarūpa’ anubhavi’ tāṅre ‘īśvara’ kari’ māne  
+His true nature  perceiving  Him  as Īśvara  taking  accepts
 
-(8) [not yet translated]
+(8) “Whoever sees the Lord’s nature at close hand perceives who He truly is and accepts Him as Īśvara, the Supreme Lord.
 
 কোন প্রকারে পারোঁ যদি একত্র করিতে ৷  
 ইহা দেখি’ সন্ন্যাসিগণ হবে ইঁহার ভক্তে ॥ ৯ ॥
 
 kona prakāre pāroṅ yadi ekatra karite  
-ihā dekhi’ sannyāsi-gaṇa habe iṅhāra bhakte
+by some  means  I can  if  together  to bring  
+ihā dekhi’ sannyāsi-gaṇa habe iṅhāra bhakte  
+this  seeing  the sannyāsīs  will become  His  devotees
 
-(9) [not yet translated]
+(9) If by some means I can bring them together, the *sannyāsīs* will see this and become His devotees.
 
 বারাণসী-বাস আমার হয় সর্ব্বকালে ৷  
 সর্ব্বকাল দুঃখ পাব, ইহা না করিলে ॥ ১০ ॥
 
 vārāṇasī-vāsa āmāra haya sarva-kāle  
-sarva-kāla duḥkha pāba, ihā nā karile
+in Vārāṇasī  residence  my  is  at all  times  
+sarva-kāla duḥkha pāba, ihā nā karile  
+at all  times  sorrow  I will get  this  not  if I do
 
-(10) [not yet translated]
+(10) I live in Vārāṇasī permanently. If I do not do this, I shall be sorry for ever.”
 
 এত চিন্তি’ নিমন্ত্রিল সন্ন্যাসীর গণে ৷  
 তবে সেই বিপ্র আইল মহাপ্রভুর স্থানে ॥ ১১ ॥
 
 eta cinti’ nimantrila sannyāsīra gaṇe  
-tabe sei vipra āila mahāprabhura sthāne
+so  thinking  he invited  of the sannyāsīs  the host  
+tabe sei vipra āila mahāprabhura sthāne  
+then  that  brāhmaṇa  came  Mahāprabhu’s  to the place
 
-(11) [not yet translated]
+(11) Thinking thus, he invited all the *sannyāsīs*. Then that *brāhmaṇa* came to the place where Mahāprabhu was staying.
 
 হেনকালে নিন্দা শুনি’ শেখর, তপন ৷  
 দুঃখ পাঞা প্রভু-পদে কৈলা নিবেদন ॥ ১২ ॥
 
 hena-kāle nindā śuni’ śekhara, tapana  
-duḥkha pāñā prabhu-pade kailā nivedana
+at that time  the blasphemy  hearing  Śekhara  Tapana  
+duḥkha pāñā prabhu-pade kailā nivedana  
+sorrow  feeling  at the Lord’s feet  made  a petition
 
-(12) [not yet translated]
+(12) At that time Candraśekhara and Tapana Miśra, pained to hear the blasphemy, appealed at the Lord’s feet.
 
 ভক্ত-দুঃখ দেখি’ প্রভু মনেতে চিন্তিল ৷  
 সন্ন্যাসীর মন ফিরাইতে মন হইল ॥ ১৩ ॥
 
 bhakta-duḥkha dekhi’ prabhu manete cintila  
-sannyāsīra mana phirāite mana haila
+the devotees’ sorrow  seeing  the Lord  in His mind  reflected  
+sannyāsīra mana phirāite mana haila  
+of the sannyāsīs  the minds  to turn  the wish  arose
 
-(13) [not yet translated]
+(13) Seeing His devotees’ sorrow, the Lord reflected within Himself, and the wish arose in Him to turn the hearts of the *sannyāsīs*.
 
 হেনকালে বিপ্র আসি’ করিল নিমন্ত্রণ ৷  
 অনেক দৈন্যাদি করি’ ধরিল চরণ ॥ ১৪ ॥
 
 hena-kāle vipra āsi’ karila nimantraṇa  
-aneka dainyādi kari’ dharila caraṇa
+at that time  the brāhmaṇa  coming  made  an invitation  
+aneka dainyādi kari’ dharila caraṇa  
+much  humility and so on  showing  clasped  the feet
 
-(14) [not yet translated]
+(14) Just then the *brāhmaṇa* came and invited Him. With great humility he clasped the Lord’s feet.
 
 তবে মহাপ্রভু তাঁর নিমন্ত্রণ মানিলা ৷  
 আর দিন মধ্যাহ্ন করি’ তাঁর ঘরে গেলা ॥ ১৫ ॥
 
 tabe mahāprabhu tāṅra nimantraṇa mānilā  
-āra dina madhyāhna kari’ tāṅra ghare gelā
+then  Mahāprabhu  his  invitation  accepted  
+āra dina madhyāhna kari’ tāṅra ghare gelā  
+the next  day  midday duties  performing  to his  house  went
 
-(15) [not yet translated]
+(15) Mahāprabhu then accepted his invitation, and the next day, after His midday duties, He went to his house.
 
 তাঁহা যৈছে কৈলা প্রভু সন্ন্যাসী-নিস্তার ৷  
 পঞ্চতত্ত্বাখ্যানে তাহা কৈরাছি বিস্তার ॥ ১৬ ॥
 
 tāṅhā yaiche kailā prabhu sannyāsī-nistāra  
-pañca-tattvākhyāne tāhā kairāchi vistāra
+there  how  made  the Lord  the deliverance of the sannyāsīs  
+pañca-tattvākhyāne tāhā kairāchi vistāra  
+in the account of the Pañca-tattva  that  I have made  in detail
 
-(16) [not yet translated]
+(16) How the Lord delivered the *sannyāsīs* there I have told in detail in the account of the Pañca-tattva.
 
 গ্রন্থ বাড়ে, পুনরপি হয় ত’ কথন ৷  
 তাঁহা যেন না লিখিলুঁ, তাহা করিয়ে লিখন ॥ ১৭ ॥
 
 grantha bāḍe, punarapi haya ta’ kathana  
-tāṅhā yena nā likhiluṅ, tāhā kariye likhana
+the book  grows  again  would be  indeed  a telling  
+tāṅhā yena nā likhiluṅ, tāhā kariye likhana  
+there  what  not  I wrote  that  I make  writing
 
-(17) [not yet translated]
+(17) The book would grow long, and it would be told again; so I write here only what I did not write there.
 
 যে দিবস প্রভু সন্ন্যাসীরে কৃপা কৈল ৷  
 সে দিবস হৈতে গ্রামে কোলাহল হৈল ॥ ১৮ ॥
 
 ye divasa prabhu sannyāsīre kṛpā kaila  
-se divasa haite grāme kolāhala haila
+on which  day  the Lord  to the sannyāsīs  mercy  showed  
+se divasa haite grāme kolāhala haila  
+that  day  from  in the town  a clamour  arose
 
-(18) [not yet translated]
+(18) From the day the Lord showed mercy to the *sannyāsīs*, the whole town was astir.
 
 লোকের সংঘট্ট আইসে প্রভুরে দেখিতে ৷  
 নানা শাস্ত্রে পণ্ডিত আইসে শাস্ত্র বিচারিতে ॥ ১৯ ॥
 
 lokera saṅghaṭṭa āise prabhure dekhite  
-nānā śāstre paṇḍita āise śāstra vicārite
+of people  crowds  come  the Lord  to see  
+nānā śāstre paṇḍita āise śāstra vicārite  
+in various  scriptures  scholars  come  scripture  to discuss
 
-(19) [not yet translated]
+(19) Crowds of people came to see the Lord, and scholars learned in various scriptures came to discuss scripture with Him.
 
 সর্ব্বশাস্ত্র খণ্ডি’ প্রভু ‘ভক্তি’ করে সার ৷  
 সযুক্তিক বাক্যে মন ফিরায় সবার ॥ ২০ ॥
 
 sarva-śāstra khaṇḍi’ prabhu ‘bhakti’ kare sāra  
-sa-yuktika vākye mana phirāya sabāra
+all  scriptures  refuting  the Lord  bhakti  makes  the essence  
+sa-yuktika vākye mana phirāya sabāra  
+with well-reasoned  words  the minds  turns  of all
 
-(20) [not yet translated]
+(20) Refuting every argument from the scriptures, the Lord established *bhakti* as their essence, and with well-reasoned words He turned everyone’s mind.
 
 উপদেশ লঞা করে কৃষ্ণ-সংকীর্ত্তন ৷  
 সর্ব্বলোক হাসে, গায়, করয়ে নর্ত্তন ॥ ২১ ॥
 
 upadeśa lañā kare kṛṣṇa-saṅkīrtana  
-sarva-loka hāse, gāya, karaye nartana
+the instruction  accepting  perform  kṛṣṇa-saṅkīrtana  
+sarva-loka hāse, gāya, karaye nartana  
+all  the people  laugh  sing  do  dancing
 
-(21) [not yet translated]
+(21) Accepting His instruction, they performed *kṛṣṇa-saṅkīrtana*; all the people laughed, sang and danced.
 
 প্রভুরে প্রণত হৈল সন্ন্যাসীর গণ ৷  
 আত্মমধ্যে গোষ্ঠী করে ছাড়ি’ অধ্যয়ন ॥ ২২ ॥
 
 prabhure praṇata haila sannyāsīra gaṇa  
-ātma-madhye goṣṭhī kare chāḍi’ adhyayana
+before the Lord  bowed down  became  of the sannyāsīs  the host  
+ātma-madhye goṣṭhī kare chāḍi’ adhyayana  
+among themselves  discussion  they hold  giving up  study
 
-(22) [not yet translated]
+(22) The *sannyāsīs* bowed down to the Lord. Giving up their studies, they discussed Him among themselves.
 
 প্রকাশানন্দের শিষ্য এক তাঁহার সমান ৷  
 সভামধ্যে কহে প্রভুর করিয়া সম্মান ॥ ২৩ ॥
 
 prakāśānandera śiṣya eka tāṅhāra samāna  
-sabhā-madhye kahe prabhura kariyā sammāna
+Prakāśānanda’s  disciple  one  to him  equal  
+sabhā-madhye kahe prabhura kariyā sammāna  
+the assembly  in the midst of  says  the Lord  showing  honour
 
-(23) [not yet translated]
+(23) One disciple of Prakāśānanda, his equal, spoke in the assembly, honouring the Lord:
 
 শ্রীকৃষ্ণচৈতন্য হয় ‘সাক্ষাৎ নারায়ণ’ ৷  
 ‘ব্যাসসূত্রের’ অর্থ করেন অতি-মনোরম ॥ ২৪ ॥
 
 śrī-kṛṣṇa-caitanya haya ‘sākṣāt nārāyaṇa’  
-‘vyāsa-sūtrera’ artha karena ati-manorama
+Śrī Kṛṣṇa Caitanya  is  directly  Nārāyaṇa  
+‘vyāsa-sūtrera’ artha karena ati-manorama  
+of the Vyāsa-sūtra  the meaning  He gives  most  charming
 
-(24) [not yet translated]
+(24) “Śrī Kṛṣṇa Caitanya is Nārāyaṇa Himself. He explains the meaning of the *Vyāsa-sūtra* most charmingly.
 
 উপনিষদের করেন মুখ্যার্থ ব্যাখ্যান ৷  
 শুনিয়া পণ্ডিত-লোকের জুড়ায় মন-কাণ ॥ ২৫ ॥
 
 upaniṣadera karena mukhyārtha vyākhyāna  
-śuniyā paṇḍita-lokera juḍāya mana-kāṇa
+of the Upaniṣads  He gives  of the primary meaning  explanation  
+śuniyā paṇḍita-lokera juḍāya mana-kāṇa  
+hearing  of learned  men  are soothed  minds  ears
 
-(25) [not yet translated]
+(25) He explains the primary meaning of the Upaniṣads, and hearing it soothes the minds and ears of the learned.
 
 সূত্র-উপনিষদের মুখ্যার্থ ছাড়িয়া ৷  
 আচার্য্য ‘কল্পনা’ করে আগ্রহ করিয়া ॥ ২৬ ॥
 
 sūtra-upaniṣadera mukhyārtha chāḍiyā  
-ācārya ‘kalpanā’ kare āgraha kariyā
+of the sūtras and Upaniṣads  the primary meaning  abandoning  
+ācārya ‘kalpanā’ kare āgraha kariyā  
+the Ācārya  imagination  makes  insistence  showing
 
-(26) [not yet translated]
+(26) Abandoning the primary meaning of the *sūtras* and the Upaniṣads, the Ācārya (Śaṅkara) insists on his own imaginings.
 
 আচার্য্য-কল্পিত অর্থ যে পণ্ডিত শুনে ৷  
 মুখে ‘হয়’ ‘হয়’ করে, হৃদয় না মানে ॥ ২৭ ॥
 
 ācārya-kalpita artha ye paṇḍita śune  
-mukhe ‘haya’ ‘haya’ kare, hṛdaya nā māne
+by the Ācārya  imagined  meaning  which  a scholar  hears  
+mukhe ‘haya’ ‘haya’ kare, hṛdaya nā māne  
+with his mouth  ‘yes’  ‘yes’  he says  the heart  not  accepts
 
-(27) [not yet translated]
+(27) When a scholar hears the meaning the Ācārya imagined, his mouth says ‘Yes, yes,’ but his heart does not accept it.
 
 শ্রীকৃষ্ণচৈতন্য-বাক্য দৃঢ় সত্য মানি ৷  
 কলিকালে সন্ন্যাসে ‘সংসার’ নাহি জিনি ॥ ২৮ ॥
 
 śrī-kṛṣṇa-caitanya-vākya dṛḍha satya māni  
-kali-kāle sannyāse ‘saṁsāra’ nāhi jini
+Śrī Kṛṣṇa Caitanya’s  words  firmly  true  I accept  
+kali-kāle sannyāse ‘saṁsāra’ nāhi jini  
+in the age of Kali  by sannyāsa  saṁsāra  not  we conquer
 
-(28) [not yet translated]
+(28) I accept the words of Śrī Kṛṣṇa Caitanya as firmly true: in the age of Kali one does not conquer *saṁsāra* by *sannyāsa*.
 
 হরের্নাম-শ্লোকের যেই করিলা ব্যাখ্যান ৷  
 সেই সত্য সুখদার্থ পরম প্রমাণ ॥ ২৯ ॥
 
 harer nāma-ślokera yei karilā vyākhyāna  
-sei satya sukhadārtha parama pramāṇa
+of the harer nāma verse  which  He gave  explanation  
+sei satya sukhadārtha parama pramāṇa  
+that  true  a delightful meaning  supreme  evidence
 
-(29) [not yet translated]
+(29) The explanation He gave of the *harer nāma* verse is true; its meaning gives joy, and it is the supreme evidence.
 
 ভক্তি বিনা মুক্তি নহে, ভাগবতে কয় ৷  
 কলিকালে নামাভাসে সুখে মুক্তি হয় ॥ ৩০ ॥
 
 bhakti vinā mukti nahe, bhāgavate kaya  
-kali-kāle nāmābhāse sukhe mukti haya
+bhakti  without  liberation  there is not  in the Bhāgavata  it says  
+kali-kāle nāmābhāse sukhe mukti haya  
+in the age of Kali  by nāmābhāsa  easily  liberation  comes
 
-(30) [not yet translated]
+(30) The *Bhāgavata* says that without *bhakti* there is no liberation, and in the age of Kali liberation comes easily by *nāmābhāsa*, the mere semblance of the holy name.
 
 শ্রেয়ঃসৃতিং ভক্তিমুদস্য তে বিভো  
 ক্লিশ্যন্তি যে কেবলবোধলব্ধয়ে ৷  
