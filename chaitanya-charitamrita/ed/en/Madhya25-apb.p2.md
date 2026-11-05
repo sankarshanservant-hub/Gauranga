@@ -46,8 +46,28 @@ Subuddhi Rāya met Mahāprabhu when the Lord came to Vārāṇasī before going 
 
 “Hearing of this”: in Mathurā Rūpa Gosvāmī heard that earlier Mahāprabhu had gone to Mathurā by the road along the Gaṅgā; now, eager to see that road, he came the same way with Anupama[^202-1].
 
+## 206
+
+*Vyavahāra-sneha* — affection rooted in worldly relationships.
+
+## 271
+
+People are nourished by food and drink. The devotees, though they too take food and drink as those averse to God do, grow weak if they do not drink the nectar of Caitanya-līlā mixed with Kṛṣṇa-līlā.
+
+## 275
+
+May this *Caitanya-caritāmṛta* be offered to Kṛṣṇa Caitanya for the pleasure of Śrī Madana-Gopāla and Śrī Govinda-deva[^275-1].
+
+## 276
+
+This most confidential nectar of Gaura's pastimes is the treasure of a devotee's life, but the unqualified will certainly not value it. That is no loss to me. On the contrary, all good-hearted sādhus have fully relished the nectar of these pastimes; may this book increase the joy of those great souls.
+
+*Thus ends the twenty-fifth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^186-1]: The verse translation reads differently: the Muslim water is sprinkled on Subuddhi Rāya's head.
 
 [^202-1]: The verse translation reads differently: Śrī Rūpa and Anupama took the road along the Gaṅgā because they heard that Mahāprabhu had gone to Prayāga that way.
+
+[^275-1]: The verse translation reads differently: the author prays to Govindadeva and Madana-Gopāla that the book be offered into the lotus hands of Śrī Kṛṣṇa Caitanya Mahāprabhu.

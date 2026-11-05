@@ -288,6 +288,232 @@ See Madhya 6.186.
 
 > Subheading: Meanwhile Sanātana comes from Prayāga to Mathurā —
 
+## 204
+
+> Subheading: In Mathurā [Sanātana] meets Rāya and hears about Rūpa and Anupama —
+
+## 205
+
+> Subheading: Why the three brothers did not meet —
+
+## 206
+
+> Subheading: Rāya treats Sanātana as was fitting before his renunciation; Sanātana does not welcome it and stays indifferent —
+
+## 207
+
+> Subheading: Sanātana Prabhu, the great renunciant, searching for Kṛṣṇa —
+
+## 208
+
+> Subheading: Sanātana performs the work of an ācārya of the *sampradāya* —
+
+## 209
+
+> Subheading: Sanātana stays in Vṛndāvana, while Rūpa and Anupama stay in Kāśī —
+
+## 210
+
+> Subheading: In Kāśī they meet the three devotees —
+
+## 211
+
+> Subheading: Śrī Rūpa and his younger brother also lodge in Śekhara's house and take their meals in Tapana Miśra's house —
+
+## 212
+
+> Subheading: [Śrī Rūpa] rejoices to hear how the Lord instructed Sanātana in Kāśī and delivered the Māyāvādī *sannyāsīs* —
+
+## 213
+
+> Subheading: Śrī Rūpa is happy to see the people's devotion to the Lord and to hear their *kīrtana* —
+
+## 214
+
+> Subheading: After ten days in Kāśī, Śrī Rūpa and his brother set out for Gauḍa —
+
+## 215
+
+> Subheading: With His companion Balabhadra, the Lord, striving to find Kṛṣṇa, goes to Purī by the Jhārikhaṇḍa road as before —
+
+## 217
+
+> Subheading: Arriving at Āṭhāranālā, [the Lord] sends Balabhadra to call the devotees in Purī —
+
+## 218
+
+> Subheading: Hearing of the Lord's arrival, the devotees seem to receive the mantra that revives the dead (*mṛta-sañjīvanī*) —
+
+## 219
+
+> Subheading: Coming to Narendra-sarovara, everyone sees the Lord —
+
+## 220
+
+> Subheading: The devotees and the Lord greet one another fittingly, with obeisances, embraces and so on —
+
+## 223
+
+> Subheading: When the devotees and Bhagavān meet, both are overwhelmed by *prema* —
+
+## 224
+
+> Subheading: The Lord takes everyone to see Jagannātha —
+
+## 225
+
+> Subheading: The Lord is overwhelmed by *prema*; dancing and singing —
+
+## 226
+
+> Subheading: [The Lord] receives Jagannātha's garland and *prasāda*; the *paḍichā* bows to Him —
+
+## 227
+
+> Subheading: The news of the Lord's arrival spreads everywhere; Rāya and the Bhaṭṭācārya come from Kaṭaka and see the Lord —
+
+## 228
+
+> Subheading: The Lord stays in Kāśī Miśra's house; Sārvabhauma invites Him —
+
+## 229
+
+> Subheading: Wishing to honor *prasāda* with the devotees, [the Lord] has the *prasāda* brought —
+
+## 230
+
+> Subheading: Mahāprabhu honors *mahā-prasāda* with the devotees —
+
+## 231
+
+> Subheading: The journey from Vṛndāvana back to Purī has been described —
+
+## 232
+
+> Subheading: In the hearer spiritual consciousness awakens, and he attains Kṛṣṇa —
+
+## 233
+
+> Subheading: A survey of the Madhya-līlā: for six of the 24 years [the Lord] travels through Bhārata, preaching the name and *prema* —
+
+## 234
+
+> Subheading: The remaining 18 years [the Lord] rejoices in *kīrtana* with the devotees in Purī —
+
+## 235
+
+> Subheading: Following Vyāsa's practice in the *Bhāgavatam*, [the author] reviews the Madhya-līlā again by briefly describing its chapters —
+
+## 256
+
+> Subheading: The Madhya-līlā has been described in brief —
+
+## 257
+
+> Subheading: To deliver the *jīvas* the Lord travels through all of Bhārata and preaches by His own conduct —
+
+## 258
+
+> Subheading: What the Lord taught —
+
+## 260
+
+> Subheading: Now as listener, now as speaker, [the Lord] preaches pure devotion —
+
+## 261
+
+> Subheading: Incomparably affectionate to His devotees, the One without a second, an ocean of causeless mercy —
+
+## 262
+
+> Subheading: Only firm faith in the Reality (*vastu*), not blind faith, leads to the Supreme Truth, Caitanya-Kṛṣṇa —
+
+## 264
+
+> Subheading: Kṛṣṇa-līlā and Caitanya-līlā are one undivided river of nectar, to be relished only by a devotee whose heart is pure —
+
+> Subheading: [In any suitable melody]
+
+## 265
+
+> Subheading: The author's humble prayer —
+
+## 266
+
+> Subheading: [The author] asks the devotees to relish the conclusions of devotion and the *rasa* of love for Kṛṣṇa —
+
+## 264–266
+
+Kṛṣṇa-līlā alone is “the essence of nectar” (*amṛta-sāra-vastu*); everything else is “without essence” (*asāra*). Hundreds of streams of the essence of the nectar of Kṛṣṇa-līlā flow in all ten directions from the nectar of Kṛṣṇa-līlā. And the essence of the nectar of Kṛṣṇa-līlā is, in turn, Śrī Caitanya-līlā.
+
+In our time, regarding Caitanya-līlā as separate from Kṛṣṇa-līlā, people are trying to create new doctrines — “Nadīyā-nāgarī,” the “Gaura-nāgarī līlā” and others — produced by ever newer fancies. Some members of the Theosophical Society, and some of the other groups hostile to devotion, the *prākṛta* Bāuls and the Sahajiyās, cast Śrī Gaurāṅga in the mold of their own unruly worldly tendencies. Some imagine Him a political leader, others a worshipper of Śakti, still others a libertine with illicit lovers (*nāgarīs*).
+
+The eternal *līlā* of Goloka rises in the material world at the time of the Lord's manifestation. Yet at that time none of the associates of Gaura's *līlā*, headed by Śrī Rūpa, ever saw or knew of any “Gaura-nāgara-līlā”; so it is certainly not Caitanya-līlā. Devotion to Gaura must be practiced only by following in the footsteps of a Vaiṣṇava guru who follows Śrī Rūpa. There is no gain at all in plunging into the lake of fancy and forming “the party of the new Gorā”[^264-266-1].
+
+Caitanya-līlā is the inexhaustible lake; the conclusions of devotion to Kṛṣṇa are the lotus forest of that lake, the *rasa* of *prema* is the forest of *kumuda* lilies, and the devotees' minds are the bees.
+
+## 267
+
+> Subheading: The varieties of Kṛṣṇa's pastimes are the very life of the devotees —
+
+The lotus stems of Kṛṣṇa's pastimes are the “food” of the swanlike devotees. The pastimes of Kṛṣṇacandra, the embodiment of the *rasa* of eternal *sambhoga*, are the food of the eternal servants who have taken shelter of Śrī Gaurasundara — the embodiment of the eternal *rasa* of *vipralambha*, whose body is nondifferent from Kṛṣṇa.
+
+## 268
+
+> Subheading: By such relishing, the joy of *prema* grows —
+
+O devotees of Gaura, plunge into the lake of Caitanya-līlā and, eternally serving Kṛṣṇa as swans and *cakravākas* sheltered at Śrī Gaura's feet, sport in the lake of worship of Śrī Gaura. Then you will not have to suffer the “sorrow” of serving someone other than Kṛṣṇa, which comes from imagining Gaurāṅga, as the “Nadīyā-nāgarī” do, to be some material object of enjoyment. You will attain the supreme happiness, service to Kṛṣṇa, and become intoxicated with the joy of love for Kṛṣṇa.
+
+## 269
+
+> Subheading: The pure devotees distribute to the people of the world the nectar of the pastimes of Gaura and Kṛṣṇa —
+
+The saintly *mahāntas* sheltered at Gaura's feet, like clouds, always shower the nectar of Kṛṣṇa-līlā on the garden of this world. This watering by streams of rain yields fruits — the nectar of *prema*; the devotees eat them constantly, and the people of the world live by that *prema*.
+
+## 270
+
+> Subheading: Gaura-līlā is a filling of thickened milk, and Kṛṣṇa-līlā in it is fine camphor; one can relish them by the path of *śruti*, by the mercy of Hari, the guru and the Vaiṣṇavas —
+
+The nectar of Caitanya-līlā is like the *pūra*, the filling made of that nectar of *prema*, and Kṛṣṇa-līlā is like fine camphor; only when these two nectars are joined is there excellent sweetness. The sweetness of Kṛṣṇa-līlā, nourished by the nectar of Caitanya-līlā, has become full of excellent sweetness.
+
+The band of *asuras* hostile to Gaura do not accept Gaura's *līlā* or the Gaura-mantra; so they have no chance of tasting the sweetness of Kṛṣṇa-līlā. The band of *daityas* hostile to Kṛṣṇa, on the other hand, are indifferent to the nectar of Kṛṣṇa-līlā. Imagining themselves *nāgarīs* and following the “Nadīyā-nāgarī,” they separate from Kṛṣṇa Gaura — the embodiment of the *rasa* of *vipralambha*, whose body is nondifferent from Rādhā and Kṛṣṇa — that is, they make Him an embodiment of the *rasa* of *sambhoga*; thus they uproot the sweetness of the variety of Gaura's *līlā*.
+
+Abundant sweetness is relished only by joining the two *līlās* — when, by the mercy of sādhus and gurus who follow Śrī Rūpa, that is, by following Śrī Rūpa, one knows the nectar of Gaura-līlā and the nectar of Kṛṣṇa-līlā to be nondifferent from each other. A follower of Śrī Rūpa firmly believes in this alone.
+
+## 271
+
+> Subheading: The nectar of these two *līlās* is the devotee's food; the two are inseparably one —
+
+A variant reading: *khāya yadi anupāne* (“if he takes [food] with a drink”).
+
+## 272
+
+> Subheading: This nectar is hard to obtain by the path of reasoning —
+
+If, regarding the pastimes of Kṛṣṇa and of Gaura as different from each other, one is swept along by the impure, harsh whirlwind rooted in false arguments, and gives up worship of Kṛṣṇa to worship Gaura, or gives up service to Gaura to serve Kṛṣṇa, the deluded *jīva* is utterly ruined.
+
+## 273
+
+> Subheading: Obeisance to the Pañca-tattva and to the listeners —
+
+## 274
+
+> Subheading: Obeisance to the beloved worshipable [teachers] —
+
+## 275
+
+**śrīman-madana-gopāla-govinda-deva-tuṣṭaye** (for the satisfaction, the pleasure, of Śrīman Madana-Gopāla and Govinda-deva) **etat** **caitanya-caritāmṛtam** **caitanyārpitam** **astu** (I offer to Śrī Kṛṣṇa Caitanya).
+
+## 276
+
+> Subheading: Indifferent to the blame and praise of non-devotees, the author considers himself fulfilled by the devotees' happiness alone —
+
+**ati-rahasyaṁ** (most confidential) **tat** **gaura-līlāmṛtam** (this jewel of a book) **khalu** (certainly) **samudaya-lokaiḥ** (by all the wicked, unqualified people) **na** **ādṛtam**, **yataḥ** ([for] it) **taiḥ** (for the wicked) **alabhyam** (is impossible to obtain). **iha** (in this) **me** (my) **iyaṁ** **kā** **kṣatiḥ** (what loss)? — **yat** (since here) **sahṛdaya-sumanobhiḥ** (by guileless sages whose hearts are wholly devoted) **samantāt** (on all sides) **svāditam** (being relished) **eṣām** (of these noble souls) **modam** **tanoti** (increases).
+
+*Thus ends the twenty-fifth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^138-1]: So in the edition; in the verse translation and in the accepted numbering, *Śrīmad-Bhāgavatam* 1.3.41.
+
+[^264-266-1]: Gorā is the colloquial Bengali form of the name Gaura.
