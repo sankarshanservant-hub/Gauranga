@@ -1,0 +1,144 @@
+# CC Madhya 24, stage A, part 2 (verses 118–234); read by build_en.py together with Madhya24.txt
+# Verses already revised elsewhere — word-by-word and translation verbatim from ed/en-rev: 127 (= Madhya 8.65), 128 (= Madhya 10.178), 132 (= Madhya 20.119), 133 (= Madhya 20.121), 135 (= Madhya 22.22), 137 (= Madhya 22.28), 164 (= Madhya 20.106), 167 and 186 (= Ādi 1.49), 177 (= Ādi 4.208), 189 (= Madhya 22.128), 191 (= Madhya 22.36), 193 (= Madhya 22.40), 202 (= Madhya 8.275), 213 (= Madhya 22.42); 126 and 136 follow Madhya 22.30.
+
+@118
+those who seek liberation  terrible in form
+having given up  the lords of beings  therefore
+of Nārāyaṇa  the partial forms  peaceful
+worship  indeed  free from envy
+= “Those who seek liberation give up the lords of beings, whose forms are terrible, though they bear them no envy; peaceful, they worship the partial forms (*kalā*) of Nārāyaṇa.” (Śrīmad-Bhāgavatam, 1.2.26)
+
+@119
+of those  all  in the company of sādhus  the qualities (of Kṛṣṇa)  reveals
+of Kṛṣṇa  worship  makes them do  the desire for liberation  makes them give up
+= In the company of sādhus, Kṛṣṇa’s qualities are revealed to all of them; that company leads them to worship Kṛṣṇa and makes them give up the desire for liberation.
+
+@120
+O  great soul  by many faults  corrupted
+though  by one  shines  this  worldly existence  quality
+called the company of saints  bringing happiness
+made  today  our  by which  weak  desire for liberation
+= “O great soul, this worldly existence is corrupted by many faults, yet it shines with one quality, called the company of saints, which brings happiness: by it our desire for liberation has today been made weak.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Prīti-bhakti-laharī, 27)
+
+@121
+of Nārada  in the company  Śaunaka and the others  the sages
+the desire for liberation  giving up  performed  of Kṛṣṇa  worship
+= In the company of Nārada, Śaunaka and the other sages gave up the desire for liberation and worshipped Kṛṣṇa.
+
+@122
+of Kṛṣṇa  by the sight  some  of Kṛṣṇa  by the mercy
+the desire for liberation  giving up  (drawn) by His qualities  worship  His  feet
+= Some on seeing Kṛṣṇa, and some by Kṛṣṇa’s mercy, give up the desire for liberation and, drawn by His qualities, worship His feet.
+
+@123
+this  of bliss  concentrated form
+the Supreme Self  in Vṛṣṇi-pattana (Dvārakā)  when He appeared
+by being an ātmārāma  my  in vain
+has passed  alas  long  time
+= “Now that Kṛṣṇa, the Supreme Self, whose form is concentrated bliss, has appeared here in Vṛṣṇi-pattana, I see — alas! — that for a long time my days passed in vain in being an *ātmārāma*.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Śānta-bhakti-laharī, 34)
+
+@124
+those liberated while living  many  of them  two  kinds  I know
+by devotion  liberated while living  by knowledge  liberated while living  I hold
+= There are many who are liberated while living (*jīvan-mukta*), and I know them to be of two kinds: those liberated while living through devotion and those liberated while living through knowledge.
+
+@125
+by devotion  liberated while living  attracted by the qualities  becoming  Kṛṣṇa  worships
+by dry knowledge  liberated while living  through offences  down  sinks
+= One liberated while living through devotion is attracted by Kṛṣṇa’s qualities and worships Him; but one “liberated while living” through dry knowledge sinks down because of his offences.
+
+@126
+those who  others  O lotus-eyed Lord  who think themselves liberated
+toward You  for want of love  of impure intelligence
+having risen  with hardship  to the supreme  position  from there
+fall  down  having neglected Your feet
+= “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
+
+@127
+one who has realised Brahman  serene in self
+not  grieves  not  desires
+equal  to all  beings
+for Me  devotion  attains  supreme
+= “One who has realised Brahman and is serene within neither grieves nor desires. Equal to all beings, he attains supreme devotion to Me.” (Bhagavad-gītā, 18.54)
+
+@128
+of nondualism  the path  by travellers  worshipped
+on the throne of self-bliss  having received initiation
+by a cunning  certain  we  by force
+maidservants  made  of the cowherd wives  by the lover
+= “I was worshipped by those who walk the path of non-dualism, and I had received initiation on the throne of the bliss of the self; yet a certain rogue, a lover of the cowherd maidens, has forcibly made me a maidservant.” (Śrī Kṛṣṇa-karṇāmṛta)
+
+@129
+of bhakti  by the strength  one who has attained his true nature  a divine  body  receives
+by Kṛṣṇa’s  qualities attracted  becoming  worships  Kṛṣṇa’s  feet
+= By the strength of bhakti, one who has attained his true nature (*prāpta-svarūpa*) receives a divine body. Attracted by Kṛṣṇa’s qualities, he worships Kṛṣṇa’s feet.
+
+@130
+nirodha  of it  following  lying down to rest
+of the self  together  with its potencies
+liberation  having given up  the other form
+in one’s own true nature  being established
+= “*Nirodha* is the lying down to rest of the self, together with its potencies, following (the mystic slumber of the Lord). *Mukti* is to give up the other form and be established in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)
+
+@131
+from Kṛṣṇa  of turning away  the fault  from māyā  comes  is
+turned toward Kṛṣṇa  liberation  from  from māyā  freedom  comes
+= The fault of turning away from Kṛṣṇa comes from māyā, and freedom from māyā comes from liberation that is turned toward Kṛṣṇa.[^131]
+
+@132
+fear  from absorption in what is other  arises
+from the Lord  for one turned away  misconception  forgetfulness
+by His māyā  therefore  the wise one  should worship  Him
+with devotion  exclusive  the Lord  seeing the guru as his deity and his self
+= “For one who has turned away from the Lord, fear arises from absorption in what is other than Him; by His māyā come forgetfulness of the Lord and a false idea of oneself. Therefore the wise, seeing the guru as his worshipful deity and his very self, should worship the Lord with exclusive devotion.” (Śrīmad-Bhāgavatam, 11.2.37)
+
+@133
+divine  indeed  this  made of the guṇas
+My  māyā  hard to overcome
+to Me  alone  those who  surrender
+māyā  this  cross over  they
+= “This divine māyā of Mine, made of the guṇas, is hard to overcome. But those who surrender to Me alone cross beyond this māyā.” (Bhagavad-gītā, 7.14)
+
+@134
+bhakti  without  liberation  there is not  by bhakti  liberation  comes
+by bhakti  liberation  having attained  certainly  Kṛṣṇa  worships
+= Without bhakti there is no liberation; liberation comes through bhakti. And one who has attained liberation through bhakti surely worships Kṛṣṇa.
+
+@135
+the path to the highest good  bhakti  having rejected  Your  O almighty Lord
+toil  those who  for attaining mere knowledge
+for them  this  toil  only  remains
+nothing else  as  for those who pound empty husks
+= “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)
+
+@136
+those who  others  O lotus-eyed Lord  who think themselves liberated
+toward You  for want of love  of impure intelligence
+having risen  with hardship  to the supreme  position  from there
+fall  down  having neglected Your feet
+= “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
+
+@137
+who  of them  the Puruṣa  directly
+their own source  the Lord
+not  worship  disregard
+from their position  fallen  they fall  down
+= “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and sink into the depths.” (Śrīmad-Bhāgavatam, 11.5.3)
+
+@138
+the liberated  even  in pastime  a form
+having assumed  Bhagavān  worship
+= “Even the liberated, assuming a form in the Lord’s pastimes (*līlā*), worship Bhagavān.” (the author of the *Sarvajña-bhāṣya*)
+
+@139
+these  six  ātmārāmas  Kṛṣṇa  worship
+separately  separately  by the word ca  here  of api  the meaning  expresses
+= These six kinds of *ātmārāmas* worship Kṛṣṇa. The word *ca*, joined to each of them separately, here expresses the sense of *api* (“also”).
+
+@140
+the ātmārāmas  and  also  render  to Kṛṣṇa  causeless  devotion
+sages  being  thus (means)  in contemplation of Kṛṣṇa  attachment
+= “*Ātmārāmāś ca api*”: even the *ātmārāmas* render causeless devotion to Kṛṣṇa. “*Munayaḥ santaḥ*” — “being sages” — means that they become attached to contemplating Kṛṣṇa.
+
+@notes
+[^131]: The Gauḍīya Maṭha edition reads *kṛṣṇonmukhī mukti*, “liberation turned toward Kṛṣṇa”; another reading has *kṛṣṇonmukha bhakti … māyā-mukta haya*, “through devotion turned toward Kṛṣṇa one is freed from māyā.” According to the *Anubhāṣya*, freedom from māyā comes through serving Kṛṣṇa, that is, through turning toward Him.
