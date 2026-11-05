@@ -73,3 +73,61 @@ In the category of devotees there are thirty-two kinds, and in the category of *
 ## 291, 293
 
 See Madhya 24.145.
+
+## 296
+
+> Subheading: Counting the words *munayaś ca*, 59 kinds of meaning —
+
+## 296–297
+
+The fifty-eight kinds of *ātmārāmas* and the sages (*munis*), having become *nirgranthas*, serve Kṛṣṇa with devotion — this is the fifty-ninth meaning.
+
+## 298
+
+> Subheading: One more meaning —
+
+## 301
+
+> Subheading: Up to here, 60 kinds of meaning —
+
+## 298–301
+
+“*Sarva samuccaya*”: that is, the *ātmārāmas*, the *munis* and the *nirgranthas* all serve Kṛṣṇa. And if the word *api* is taken in the sense of emphasis (*avadhāraṇa*), that is, of certainty, sixty kinds of meaning result.
+
+## 302
+
+> Subheading: Lastly, one more meaning: the word *ātmā* as “the *kṣetrajña* potency” —
+
+If the word *ātmā* is taken to mean “*jīva*,” then all beings, from Brahmā down to the insect, are the *jīva-śakti*. These *kṣetrajña jīvas*, having become *nirgrantha* sages, serve Kṛṣṇa — this is the sixty-first meaning.
+
+## 303
+
+See Ādi 7.119.
+
+## 304
+
+> Subheading: Synonyms of *kṣetrajña* —
+
+## 305
+
+> Subheading: The fruit of the company of sādhus: attaining devotion to Kṛṣṇa —
+
+## 307
+
+> Subheading: Thus, up to here, sixty-one kinds of meaning have been explained —
+
+## 308
+
+> Subheading: Sanātana's wonder at hearing the sixty-one kinds of meaning, and his praise of the Lord —
+
+## 309
+
+> Subheading: When the Lord in the form of the Puruṣa breathes out, the Vedas appear —
+
+## 310
+
+> Subheading: The Lord alone, in the forms of Śeṣa and other forms of Viṣṇu, explains the *Bhāgavatam* and knows it —
+
+## 311
+
+> Subheading: The Lord glorifies the greatness of the *Bhāgavatam* —
