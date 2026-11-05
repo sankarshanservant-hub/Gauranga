@@ -64,6 +64,18 @@ Whatever you see in this world — all of it, that is, this whole universe — i
 
 “You are a *jīva*”: O Brahmā, you are a “*jīva*”; without My mercy you will not be able to know the supreme secret.
 
+## 119
+
+In the *dharma-śāstras*, for the sake of learning from the guru, four truths are examined: *dharma*, *artha*, *kāma* and *mokṣa*. In the same way the scriptures on the Truth (*tattva-śāstras*), to examine it in like manner, give instruction on “*jñāna*,” “*vijñāna*,” “*tad-aṅga*” (its limb) and “*tad-rahasya*” (its secret). But here it should be noted that the four subjects beginning with *dharma* follow the ordinary laws of worldly life. With the four subjects of the Truth (*jñāna* and the rest) the matter is different: even *sādhana-bhakti*, the first of them, stands above the four truths beginning with *dharma* — that is, it is superior to them.
+
+## 126
+
+Hari destroys all sins even when His name is uttered unwittingly. He does not leave the heart of one in whose heart His lotus feet are bound with the rope of love (*praṇaya*); such a person is “the foremost of *bhāgavatas*.”
+
+## 128
+
+Gathered together, the *gopīs* sang loudly of Kṛṣṇa's qualities and, as if mad, began to search for Him from forest to forest. They began to ask the trees (*vanaspatis*) about that Supreme Person, Kṛṣṇa, who like the sky is present outside and within all beings.
+
 ---
 
 [^37-1]: The edition reads «তিনমূর্ত্তির» (“of the three forms”), apparently for «চিন্মূর্ত্তির» (“of the spiritual form”); checked against the scan.

@@ -436,9 +436,97 @@ The *nirviśeṣa-vādī* does not accept Bhagavān's personal form, possessed o
 
 > Subheading: The *sambandha-tattva* is defined through “*jñāna*” and “*vijñāna*” —
 
+## 114–116
+
+*Jñāna* is the meaning of the scriptures; *vijñāna* is realization (*anubhava*). Discrimination (*viveka*) that comes from any source other than the guru or the scriptures is often a product of the mind (*manodharma*) or leans toward the featureless. When discrimination dawns from one's own realization, one perceives the form of Bhagavān. Bhagavān's own form is distinct from *māyā* and from *māyic* activity. Until *vijñāna* arises, the *jīva* has no such understanding. The rays are manifest in the sun, yet the rays are distinct from the sun, and without the sun the rays cannot manifest on their own. In the same way Bhagavān and *māyā* are two different (heterogeneous) perceptions. Unless the *jīva* has gone beyond *māyā*, he does not realize this: with an intellect confined within *māyā*, the form of Bhagavān cannot be understood.
+
+## 117
+
+> Subheading: The second verse of the *Catuḥ-ślokī* — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 9, verse 33)
+
+See Ādi 1.54.
+
+## 118
+
+> Subheading: In the third verse — a consideration of how, on the path of *śruti*, the *abhidheya*, *sādhana-bhakti*, is necessary regardless of place, time, person and circumstance —
+
+The *abhidheya*, “*sādhana-bhakti*,” extends to all persons, places, times and circumstances.
+
+## 119
+
+> Subheading: The *abhidheya*, *sādhana-bhakti*, is beyond the four aims of life (*catur-varga*) —
+
+## 120
+
+> Subheading: Serving a genuine guru and inquiring from him, one must, along with divine knowledge, hear about the truth of pure devotion —
+
+## 121
+
+> Subheading: The third verse of the *Catuḥ-ślokī* — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 9, verse 35)
+
+See Ādi 1.56.
+
+## 122
+
+> Subheading: The fourth verse describes the “secret,” the whole of which the *abhidheya* is a limb — that is, the *prayojana*. In the devotee's heart is Bhagavān, conquered by the devotee's love; in Bhagavān's heart is the devotee, conquered by love for Bhagavān: their forms are joined together, locked in embrace. Between the devotee and Bhagavān there is inconceivable oneness and difference (*acintya-bhedābheda*) —
+
+## 123
+
+As the five elements are within and without living beings, so I am manifest within and without My devotees. The devotees know themselves to be forms that are instruments (*upakaraṇa-vigrahas*) for serving Bhagavān with love, and they know everything other than the devotees, too, simply as instruments for serving Bhagavān with love.
+
+## 124
+
+> Subheading: The fourth verse of the *Catuḥ-ślokī* — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 9, verse 34)
+
+See Ādi 1.55.
+
+## 125
+
+> Subheading: Bhagavān is bound by the ropes of His devotee's love —
+
+## 126
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 2, verse 55)
+
+When Nimi, the king of Videha, asked about the marks, conduct and gradations of the three kinds of devotees, or *bhāgavatas*, Havi Ṛṣi, one of the nine Yogendras, said in reply:
+
+**avaśābhihitaḥ** (uttered unwittingly) **api** **aghaugha-nāśaḥ** (He who destroys heaps of sins, that is, multitudes of offenses) **hariḥ** (indeed) **sākṣāt** **yasya** **hṛdayaṁ** **na** **visṛjati** (does not leave), **praṇaya-raśanayā** (with the rope of love) **dhṛtāṅghri-padmaḥ** (he by whom the lotus feet are held, bound within), **saḥ** **bhāgavata-pradhānaḥ** **uktaḥ** **bhavati** (is called “the foremost of *bhāgavatas*”).
+
+## 127
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 2, verse 45)
+
+See Madhya 8.274.
+
+## 128
+
+> Subheading: The spiritual shelter (*āśraya*) everywhere sees spiritual objects related to Kṛṣṇa — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 30, verse 4)
+
+Śrī Kṛṣṇa suddenly vanished from the place of the *rāsa* together with Śrī Rādhā. The *gopīs*, their minds absorbed in Kṛṣṇa, full of Kṛṣṇa, began to imitate Kṛṣṇa's various deeds and, tormented by separation, searched for Him everywhere. Śrī Śukadeva sings of this before Parīkṣit.
+
+**saṁhatāḥ** (gathering together with one another) **uccaiḥ** **gāyantyaḥ** **vanād** **vanam** (from one forest to another) **amum** (Kṛṣṇa) **eva** **unmattaka-vat** **vicikyuḥ** (searched); **ākāśa-vat** (like the great element) **bhūteṣu** (in living beings) **bahiḥ** **antaram** (within) **santam** (present) **puruṣam** (they, to whom, through the bewilderment of love [*prema-vivarta*], Kṛṣṇa appeared everywhere) **vanaspatīn** (seeing them as full of consciousness) **papracchuḥ** (asked).
+
+Here another reading quotes two more verses.[^128-1] (1) *Śrīmad-Bhāgavatam* 3.5.23: “Before creation Bhagavān alone existed — the Ātmā and Lord of all souls. When His desire [to create] was withdrawn into Himself, He, the Ātmā, remained alone, marked by many attributes.” That is, before creation this universe was one with Bhagavān. He is the goal (*artha*) of the *jīvas* and is marked by the attributes of manifold opulences such as Vaikuṇṭha; at that time the desire to create and the like lay merged in Him, and that Bhagavān abode as the nondual Truth. (2) *Śrīmad-Bhāgavatam* 1.3.28: “All these (avatāras) are portions (*aṁśa*) and parts of portions (*kalā*) of the Puruṣa, but Kṛṣṇa is Bhagavān Himself. Age after age They bring happiness to the world when it is troubled by the enemies of Indra.”
+
+## 129
+
+> Subheading: Everywhere in the *Bhāgavatam* the truths of *sambandha*, *abhidheya* and *prayojana* are described —
+
+## 130
+
+> Subheading: An example of a verse that reveals *sambandha* — (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 2, verse 11)
+
+## 131
+
+> Subheading: Everywhere in the *Bhāgavatam* the *abhidheya*, “devotion to Kṛṣṇa,” is described —
+
+In every verse of the *Bhāgavatam* the *abhidheya*, *sādhana-bhakti*, is spoken of.
+
 ---
 
 [^1-1]: The verse translation reads differently: “purified Sanātana Gosvāmī by instructing him in spiritual truths.”
 
 [^36-1]: The verse translation reads differently: “made of pure spiritual bliss.”
+
+[^128-1]: In the edition this unnumbered paragraph stands right after the comment on verse 128; by its sense it probably refers to verse 130 (the example of a verse on *sambandha*). The translation of 1.3.28 follows CC Ādi 2.67.
 
