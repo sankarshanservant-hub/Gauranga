@@ -45,3 +45,13 @@ Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge
 ## 320
 
 “*Nīca-jāti*”: Sanātana said, “I am of the brāhmaṇa caste, but I have fallen through association with *mlecchas*.”
+
+## 343
+
+This Sanātana, Rūpa's elder brother, was the jewel adorning the court of the lord of Gauḍa, the emperor Husain Shāh. He gave up prosperous royal wealth and embraced the youthful wealth of renunciation. Within, his heart was full of *bhakti-rasa*; outwardly he looked like an *avadhūta*. Like a great lake covered with moss, that Śrī Sanātana delighted those who know the truth of *bhakti*.
+
+## 344
+
+As soon as He saw that Sanātana had come, Gaurasundara, golden like a *campaka*, was filled with boundless compassion; He stretched out both arms and, showing His mercy, embraced him.
+
+*Thus ends the twenty-fourth chapter of the “Amṛta-pravāha-bhāṣya.”*

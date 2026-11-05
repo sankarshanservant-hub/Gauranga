@@ -290,6 +290,86 @@ Another reading: “Five, ten, sixteen — the service of *cau-ghana*; worship w
 
 The thirty-two offenses in service: (1) entering the Lord's temple in a vehicle or wearing sandals; (2) not bowing down before the Deity; (3) offering prayers to the Lord without having cleansed oneself after eating, or in a state of impurity; (4) bowing with one hand; (5) circumambulating another deity in front of Him; (6) stretching out one's legs before Him; (7) sitting with one's knees clasped in one's arms; (8) lying down; (9) eating; (10) lying; (11) speaking loudly; (12) chatting with one another; (13) weeping; (14) showing favor to someone; (15) punishing someone or speaking harshly; (16) wrapping oneself in a blanket; (17) blaming others; (18) praising others; (19) speaking obscenely; (20) passing air; (21) worshiping without offerings when one is able to provide them; (22) eating what has not been offered [to the Lord]; (23) not offering the fruits of the season; (24) offering what is left over; (25) sitting with one's back to the Deity; (26) greeting others; (27) sitting near the guru without offering praise; (28) praising oneself; (29) blaming the gods; (30)
 
+cruelty toward other people; (31) failing to hold festivals; and (32) quarreling.
+
+## 332
+
+**The marks of flowers**: see the *Hari-bhakti-vilāsa*, seventh *vilāsa*.
+
+**The marks of incense and the like**: see the *Hari-bhakti-vilāsa*, eighth *vilāsa*.
+
+***Japa*, hymns, circumambulation, prostrations and prayers**: discussed in the *Hari-bhakti-vilāsa*, eighth *vilāsa*.
+
+## 333
+
+**The rules of *puraścaraṇa***: see the *Anubhāṣya* on Madhya 15.108.
+
+**Partaking of Kṛṣṇa's *prasāda*.** “One should eat only after having fed [the Lord]; otherwise one goes to hell. A man who eats without having performed worship goes to the hells.”
+
+**Rejecting what is not offered.** “A man who eats without having offered [the food to the Lord] becomes liable to atonement. Therefore one should always eat only after offering everything to Viṣṇu.” See the *Hari-bhakti-vilāsa* 9.108.
+
+**Avoiding blasphemy of Vaiṣṇavas**: see the *Anubhāṣya* on Madhya 15.261.
+
+## 335
+
+**Daily duties**: the duties proper to the different times of the day.
+
+**Fortnightly duties**: the duties to be performed on the *tithis*, especially on Ekādaśī and other days.
+
+**Monthly duties**: the duties of the twelve months.
+
+**Description of Ekādaśī and the other [fasts]**: see the *Hari-bhakti-vilāsa*, twelfth *vilāsa*.
+
+**Consideration of the rules for Janmāṣṭamī and the other [festivals]**: see the *Hari-bhakti-vilāsa*, twelfth *vilāsa*.
+
+## 337
+
+On Ekādaśī one should reject [a day] “pierced” (*viddhā*) by *aruṇodaya*, and for other vows one pierced by sunrise, and keep only the unpierced vow. Keeping a pierced vow is a “fault,” and only by keeping the unpierced vow does one attain “*bhakti*.” For details, see the *Hari-bhakti-vilāsa*, twelfth and thirteenth *vilāsas*.
+
+## 338
+
+> Subheading: The Lord accepts the Sātvata Purāṇas as “evidence” —
+
+## 339
+
+> Subheading: The order to describe in the *Hari-bhakti-vilāsa* general good conduct and the conduct of a Vaiṣṇava —
+
+## 340
+
+> Subheading: Blessing to Sanātana —
+
+## 341
+
+> Subheading: Whoever hears the instructions Sanātana received from the Lord's lips, or of the Lord's mercy to Sanātana, is freed from *anarthas*, and serenity of the self dawns in him —
+
+## 342
+
+> Subheading: Described in the *Caitanya-candrodaya-nāṭaka* —
+
+## 343
+
+> Subheading: Sanātana's greatness described by a simile —
+
+**gauḍendrasya** (of the lord of Gauḍa) **sabhā-vibhūṣaṇa-maṇiḥ** (like a jewel adorning the court) **yaḥ** **ṛddhāṁ** (prosperous) **śriyaṁ** (royal wealth) **tyaktvā** (having given up) **taruṇīṁ** (new) **vairāgya-lakṣmīṁ** (the wealth of renunciation) **dadhe** (took up); **śaivālaiḥ** **pihitaṁ** (covered) **mahā-saraḥ** (a deep lake) **iva** **antaḥ** (in the heart) **bhakti-rasena** (with the *rasa* of love for Kṛṣṇa) **pūrṇa-sarasaḥ** (full of *rasa*) **bāhye** (outwardly) **avadhūtākṛtiḥ** (having the appearance of an *avadhūta*, a *paramahaṁsa*), **rūpasya** **agrajaḥ** **saḥ** **eṣaḥ** (Sanātana) **eva** **tad-vidām** (of those who know the truth of *bhakti* — wise teachers versed in the truth) **prīti-pradaḥ** (beloved of them) **abhūt**.
+
+## 344
+
+**atimātra-dayārdraḥ** (melted by boundless compassion) **campaka-gauraḥ** (golden like a *campaka* flower) **akṣṇoḥ** (with His eyes) **dṛṣṭi-mātram** (as soon as He saw) **upāgatam** (who had come in poor dress) **taṁ** **sanātanaṁ** **parighāyata-dorbhyāṁ** (with arms long like door bars) **sānukampam** (with compassion, that is, mercifully) **āliliṅga** (embraced).
+
+## 345
+
+See Madhya 19.119.
+
+## 346
+
+> Subheading: One who studies the instructions to Śrī Sanātana is freed from *anarthas* and attains knowledge of *sambandha*, *abhidheya* and *prayojana* —
+
+## 349
+
+> Subheading: Only an exclusive (*aikāntika*) devotee of Nitāi, Gaura and Advaita is fit to obtain the treasure of love for Kṛṣṇa —
+
+*Thus ends the twenty-fourth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
