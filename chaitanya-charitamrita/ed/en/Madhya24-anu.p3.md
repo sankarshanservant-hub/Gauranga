@@ -131,3 +131,41 @@ See Ādi 7.119.
 ## 311
 
 > Subheading: The Lord glorifies the greatness of the *Bhāgavatam* —
+
+## 313
+
+> Subheading: Śrī Bhāgavatam was revealed through questions and answers — first between Śrī Parīkṣit and Śukadeva, then between Śaunaka and the other sages and Śrī Sūta —
+
+## 314
+
+**ahaṁ** ([I,] Śiva, [the scripture] *Bhāgavatam*) **vedmi** (know), **śukaḥ** (Vaiyāsaki) **vetti** (knows), **vyāsaḥ** **vetti** **vā** **na** **vetti** (a doubt); **bhāgavataṁ** (the scripture called the *Pāramahaṁsī-saṁhitā*) **bhaktyā** (only through the unbroken succession of the current of glorifying and hearing about Viṣṇu, only through service to Hari full of surrender to Viṣṇu) **grāhyaṁ**, **na** **buddhyā**, **na** **ca** **ṭīkayā** (that is, not by logic; [this follows] also from statements of *śruti* and *smṛti* such as “one who has supreme devotion to God …,”[^314-1] “this *ātmā* is not [attained] by exposition …,”[^314-2] and “know this by bowing down …”[^314-3]).
+
+## 315
+
+> Subheading: After Kṛṣṇa's departure, this *Bhāgavatam* itself is Kṛṣṇa's form as a book —
+
+In Naimiṣāraṇya the sages headed by Śaunaka put six questions to the *mahā-bhāgavata* Śrī Sūta Gosvāmī. This is the last of them, the sixth question, and in the next verse Śrī Sūta gives the answer to it:
+
+(**he sūta**) **yogeśvare** (to the Lord of the yogas — the yogas here being the yogīs themselves — full of the six opulences) **brahmaṇye** (the protector of the brāhmaṇas) **dharma-varmaṇi** (who guards eternal *dharma* like armor) **kṛṣṇe** **svāṁ** **kāṣṭhām** (to His own direction — that is, to His own *svarūpa*, His own eternal abode; the sense is, to His unmanifest pastimes) **upete** (having reached) **dharmaḥ** (eternal) **adhunā** **kaṁ** **śaraṇam** (shelter) **gataḥ** (has gone to) — [on whom eternal *dharma* now rests,] — **brūhi** (tell).
+
+## 316
+
+(He says: “You asked, ‘With whom has *dharma* taken shelter?’ Know that it is this”:) **dharma-jñānādibhiḥ** (with the six opulences) **saha** **kṛṣṇe** **sva-dhāma** **upagate** (when He, having concluded His manifest pastimes, entered His unmanifest pastimes) **adhunā** (now) **kalau** (in the age of Kali) **naṣṭa-dṛśām** (for the good of those bereft of knowledge of the truth of true *dharma*, devotion to Viṣṇu) **eṣaḥ** **purāṇārkaḥ** (the book *Śrīmad-Bhāgavatam*, which like the sun dispels the night of irreligion) **uditaḥ** (has appeared, that is, has become manifest).
+
+## 317
+
+> Subheading: Only one who, by following Caitanya, has awakened his pure spiritual nature and become mad with transcendental service to Kṛṣṇa is qualified to understand the meaning of the *Bhāgavatam* — this is pointed out —
+
+## 319
+
+> Subheading: Sanātana humbly asks the Lord about the *Vaiṣṇava-smṛti* and longs to hear instruction from His own lips —
+
+*Vaiṣṇava-smṛti*: the book *Śrī Hari-bhakti-vilāsa*, the code of rules for the worldly conduct of Vaiṣṇavas.
+
+---
+
+[^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
+
+[^314-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
+
+[^314-3]: *Bhagavad-gītā* 4.34.

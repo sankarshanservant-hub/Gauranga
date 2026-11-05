@@ -29,3 +29,15 @@ By adding *eva* to the four words *urukrama*, *bhakti*, *ahaitukī* and *kurvant
 ## 304
 
 The word *kṣetrajña* means *ātmā*, *puruṣa*, *pradhāna* and *prakṛti*.
+
+## 314
+
+Mahādeva said: “I know, Śuka knows, and Vyāsa may know or may not.” The *Bhāgavatam* is grasped by *bhakti* alone; it is never grasped by intellect or by commentaries.
+
+## 315
+
+Tell us: now that Kṛṣṇa — the Lord of yoga, Brahmaṇyadeva, the very armor of *dharma* — has reached His own *kāṣṭhā* (His eternal abode), with whom has *dharma* taken shelter?
+
+## 316
+
+Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge and the rest, this sun among the Purāṇas has risen for the good of people stricken by Kali, who have lost their sight.
