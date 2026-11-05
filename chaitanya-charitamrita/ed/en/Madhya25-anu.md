@@ -150,7 +150,7 @@ Brahmā was born from the navel of Garbhodakaśāyī, yet he could not know that
 
 > Subheading: The destination of the irreligious — (*Bhagavad-gītā*, Chapter 16, verse 19)
 
-(Me) **dviṣataḥ** (devoted to hatred) **krūrān** (cruel) **aśubhān** (given to forbidden conduct) **narādhamān** **tān** (those people) **eva** **saṁsāreṣu** (on the paths of birth and death) **āsurīṣu** **yoniṣu** (into the wombs of animals, beasts and the like, endowed with cruelty and greed) **ajasram** (again and again) **aham** **kṣipāmi** (that is, for their terrible offenses I give them just such a fruit).
+(Me) **dviṣataḥ** (given to hatred) **krūrān** (cruel) **aśubhān** (given to forbidden conduct) **narādhamān** **tān** (those people) **eva** **saṁsāreṣu** (on the paths of birth and death) **āsurīṣu** **yoniṣu** (into the wombs of animals, beasts and the like, endowed with cruelty and greed) **ajasram** (again and again) **aham** **kṣipāmi** (that is, for their terrible offenses I give them just such a fruit).
 
 ## 40
 
