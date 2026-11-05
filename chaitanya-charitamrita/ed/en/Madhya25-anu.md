@@ -224,6 +224,130 @@ See Madhya 17.186.
 
 > Subheading: Following His daily practice in Kāśī, the Lord bathes at Pañcanada and goes for *darśana* of Śrī Bindu-mādhava —
 
+## 60
+
+> Subheading: The Lord rejoices to hear from the brāhmaṇa of Mahārāṣṭra about Prakāśānanda, now a devotee —
+
+## 61
+
+> Subheading: On seeing Śrī Bindu-mādhava the Lord is overwhelmed with feeling and dances —
+
+## 62
+
+> Subheading: The *saṅkīrtana* of four devotees —
+
+## 63
+
+> Subheading: *Nāma-saṅkīrtana* —
+
+## 64
+
+> Subheading: On all sides countless people call out the name of Hari —
+
+## 65
+
+> Subheading: Prakāśānanda arrives there with his disciples —
+
+## 66
+
+> Subheading: Seeing the Lord's dancing, His love and His beauty, he too joins the *kīrtana* —
+
+## 67
+
+> Subheading: Seeing His ecstatic feelings, the people of Kāśī are amazed —
+
+## 68
+
+> Subheading: Seeing the crowd and the *sannyāsīs*, the Lord restrains His ecstatic dancing —
+
+## 69
+
+> Subheading: The Lord and Prakāśānanda greet each other with respect —
+
+## 70
+
+> Subheading: The Lord expresses His humility —
+
+## 73
+
+> Subheading: Prakāśānanda declares that by touching the Lord's feet his offenses are removed —
+
+## 74
+
+> Subheading: Even the liberated fall back into bondage as the result of offending Bhagavān — (a statement of the *Pariśiṣṭa* cited in the *Vāsanā-bhāṣya*)
+
+**acintya-mahā-śaktau** (who possesses transcendental spiritual potency) **bhagavati** (against Adhokṣaja) **yadi** **aparādhinaḥ** **bhavanti**, **tadā** **jīvan-muktāḥ** **api** **punaḥ** **saṁsāra-vāsanāṁ** (the *anartha* rooted in the desire to enjoy) **yānti** (attain).
+
+## 75
+
+> Subheading: The touch of Bhagavān's feet removes offenses — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 34, verse 9)
+
+Once in Vraja the king of the cowherds, Śrī Nanda, was performing with his kinsmen the rite of pilgrimage to a deity (*deva-yātrā*). He came to the bank of the river Sarasvatī, took a vow, and himself lay down to sleep in the forest. Just then a Gandharva named Sudarśana attacked Nanda: he had laughed at the sages of the Aṅgirasa line, and by their curse he had been born a serpent. At Nanda's piteous cry Kṛṣṇa came, struck the serpent with His foot, and rescued Nanda from its jaws.
+
+How the touch of Kṛṣṇa's feet removed the serpent's inauspiciousness, Śrī Śuka describes to Parīkṣit.
+
+**saḥ** (the serpent) **vai** **bhagavataḥ** (of Kṛṣṇa) **śrīmat-pāda-sparśa-hatāśubhaḥ** (he whose inauspiciousness — the curse of the sages of the Aṅgirasa line, whom he had mocked on seeing their ugliness — was destroyed by the touch of the glorious foot) **sarpa-vapuḥ** (that is, his birth as a serpent) **hitvā** (giving up) **vidyādharārcitam** (honoured, worshipped among the Vidyādharas) **rūpam** **bheje** (attained).
+
+## 76
+
+> Subheading: Though He is Svayam Bhagavān, to teach the people the Lord, as the *ācārya* and guru of the world, humbly regards Himself as a *jīva* —
+
+## 77
+
+> Subheading: The deeds, or the marks, of the *pāṣaṇḍī* —
+
+## 78
+
+> Subheading: The evidence of scripture — (a statement of the *Vaiṣṇava-tantra*; *Padma Purāṇa*, Uttara-khaṇḍa, Chapter 23, verse 12)
+
+See Madhya 18.116.
+
+## 79
+
+> Subheading: Prakāśānanda's firm faith in the Lord, or his reverence for Him —
+
+## 81
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 6, Chapter 14, verse 5)
+
+See Madhya 19.150.
+
+## 82
+
+> Subheading: Offending a great soul, that is, a Vaiṣṇava, ruins everything — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 4, verse 46)
+
+## 83
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 7, Chapter 5, verse 32)
+
+## 84
+
+> Subheading: Whoever gives up pride and bows at Kṛṣṇa's feet attains pure devotion —
+
+## 85
+
+> Subheading: All sit down there; Prakāśānanda wishes to hear from the Lord's lips a critique of Śaṅkara's Māyāvāda and the true purport of the *Brahma-sūtra* —
+
+## 89
+
+> Subheading: The Lord, who follows the path of *śruti*, in His humility regards Himself as a lowly *jīva*, a disciple, and honours Vyāsa as guru —
+
+## 90
+
+> Subheading: For the good of the *jīvas*, Vyāsadeva, himself the author of the *sūtras*, became also their commentator; therefore their true purport is easy to grasp —
+
+## 92
+
+> Subheading: The seed of the tree of the Vedas is the *praṇava*, the mother (the sprout) is the Gāyatrī, and the fruit is the *Catuḥ-ślokī* of the *Bhāgavatam* —
+
+## 93
+
+> Subheading: How in the Brahma-sampradāya the *Bhāgavatam* is recited through the succession of sacred tradition (*āmnāya*) —
+
+## 95
+
+> Subheading: The resolve to expand the *Catuḥ-ślokī*, the commentary on the *Brahma-sūtra* — that is, to compose the *Bhāgavatam* —
+
 ---
 
 [^1-1]: The verse translation reads differently: “purified Sanātana Gosvāmī by instructing him in spiritual truths.”

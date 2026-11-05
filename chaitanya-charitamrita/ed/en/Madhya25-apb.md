@@ -36,6 +36,18 @@ The cruel, the lowest of men, who hate My divine form (*śrī-mūrti*), I cast a
 
 Having heard the other *sannyāsī's* words, imbued with devotion, Prakāśānanda Sarasvatī says: “Śaṅkarācārya was excessively eager to establish *advaita-vāda*, and so he explained the *sūtras* in another way. If one accepts that there is Bhagavān (*bhagavattā*), *advaita-vāda* cannot remain. That is why the Ācārya tried to refute all the other scriptures that establish the truth of Bhagavān. To abandon the plain meaning of the scriptures in order to establish one's own opinion — that is the rule of every ‘doctrine’ (*matavāda*). Look: (1) The Mīmāṁsakas headed by Jaimini abandoned *bhakti*, the root purport of the Vedas, and made Īśvara ‘a limb of *karma*.’ (2) The godless (*nirīśvara*) authors of Sāṅkhya headed by Kapila abandoned the true meaning of the Vedas and declared *prakṛti* the cause of the world. (3) Gautama, Kaṇāda and others, in the scriptures of Nyāya and Vaiśeṣika, called the atoms the cause of the universe. (4) In the same way the Māyāvādīs headed by Aṣṭāvakra presented featureless Brahman as the cause of the world. (5) Rāja-yogīs such as Patañjali established as the ‘essential truth’ (*svarūpa-tattva*) the imaginary Īśvara described in his *Yoga-śāstra*. These *ācāryas*, devoted to their doctrines, rejected Svayam Bhagavān, established by the Vedas, and each set up an ‘opinion’ based on a partial (*khaṇḍa*) perception of Him. Śrī Vyāsadeva thoroughly examined the six opinions of the six *darśanas*, refuted each of them, and, relying on the Vedic statements that establish Bhagavān, composed the *Vedānta-sūtra*. According to Vedānta, Brahman is *sac-cid-ānanda* and possessed of form (*sākāra*). The *nirviśeṣa-vādīs* declare Brahman *nirguṇa* (without qualities), and in particular cases call Bhagavān *saguṇa*, that is, made of the three *guṇas*. In truth, however, the Absolute is not merely *nirguṇa*, merely beyond the three *guṇas*: He is a form ‘possessed of qualities’ (*saguṇa*), the abode of countless spiritual qualities. The adherents of these doctrines do not accept the supreme cause, Īśvara (Viṣṇu): none of them accepts Viṣṇu, the Lord of all lords and the cause of all causes, though each, refuting the opinions of others, has tried to establish his own. Therefore what the *mahājana* says must be known as ‘the truth.’”
 
+## 74
+
+If even those liberated in this life (*jīvan-muktas*) offend Bhagavān, who possesses inconceivable great potency, they fall again into the desires of worldly existence (*saṁsāra-vāsanā*).
+
+## 75
+
+By the touch of Śrī Kṛṣṇa's feet that serpent was freed from all inauspiciousness; he gave up the serpent's body and regained his former form, honoured by the Vidyādharas.
+
+## 88
+
+“Tell it in brief”: I have already heard from You the primary meaning of each *sūtra*. Now I wish to hear in brief the principal purport (*mukhya-tātparya*) of Vedānta.
+
 ---
 
 [^37-1]: The edition reads «তিনমূর্ত্তির» (“of the three forms”), apparently for «চিন্মূর্ত্তির» (“of the spiritual form”); checked against the scan.
