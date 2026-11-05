@@ -40,7 +40,7 @@ There is a rare treasure that cannot be gained even by wandering through the hig
 
 ## 170
 
-O mother! The birds of this forest fly up onto the branches of the trees, adorned with lovely young shoots, close their eyes, fall silent, and listen to the sweet song of the flute that flows from Kṛṣṇa's lips. They too are almost sages.
+O mother! The birds of this forest fly up onto the branches of the trees, adorned with lovely young shoots, close their eyes, fall silent, and listen to the sweet song of the flute that flows from Kṛṣṇa's lips. They too are much like sages.
 
 ## 171
 
