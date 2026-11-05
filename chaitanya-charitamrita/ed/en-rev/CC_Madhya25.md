@@ -428,7 +428,7 @@ I cast  perpetually  impure
 āsurīṣv eva yoniṣu  
 into demonic  indeed  wombs
 
-(39) “Those envious and cruel men, the lowest of mankind and impure, I perpetually cast into the cycles of birth and death, into demonic wombs.” (Bhagavad-gītā, 16.19)
+(39) “Again and again I cast those envious, cruel and impure men, the lowest of mankind, into the cycles of birth and death — into demonic wombs.” (Bhagavad-gītā, 16.19)
 
 সূত্রের পরিণাম-বাদ, তাহা না মানিয়া ৷  
 ‘বিবর্ত্তবাদ’ স্থাপে, ‘ব্যাস ভ্রান্ত’ বলিয়া ॥ ৪০ ॥
@@ -588,7 +588,7 @@ therefore  the six  philosophies  from  the truth  not  we know
 ‘mahājana’ yei kahe, sei ‘satya’ māni  
 the mahājanas  whatever  say  that  as truth  we accept
 
-(55) So we do not come to know the truth from the six philosophies. What the *mahājanas* say, that we accept as truth.
+(55) So we do not come to know the truth from the six philosophies; we accept as truth what the *mahājanas* say.
 
 তর্কোঽপ্রতিষ্ঠঃ শ্রুতয়ো বিভিন্না  
 নাসাবৃষির্যস্য মতং ন ভিন্নম্ ৷  
@@ -654,7 +654,7 @@ Mādhava’s beauty  seeing  overwhelmed  He became
 aṅganete āsi’ preme nācite lāgilā  
 into the courtyard  coming  in love  to dance  He began
 
-(61) Seeing the beauty of Mādhava, He was overwhelmed with ecstasy, and coming into the courtyard, He began to dance in love.
+(61) Seeing the beauty of Mādhava, He was overwhelmed with feeling, and coming into the courtyard, He began to dance in love.
 
 শেখর, পরমানন্দ, তপন, সনাতন ৷  
 চারিজন মিলি’ করে নাম সংকীর্ত্তন ॥ ৬২ ॥
@@ -774,7 +774,7 @@ he  says  Your  blasphemy  before  which  I did
 tomāra caraṇa-sparśe, saba kṣaya gela  
 of Your  feet  by the touch  all  destroyed  has gone
 
-(73) He said, “The blasphemy of You that I committed before has all been destroyed by the touch of Your feet.”
+(73) Prakāśānanda replied, “The blasphemy of You that I committed before has all been destroyed by the touch of Your feet.”
 
 জীবন্মুক্তা অপি পুনর্যান্তি সংসারবাসনাম্ ৷  
 যদ্যচিন্ত্যমহাশক্তৌ ভগবত্যপরাধিনঃ ॥ ৭৪ ॥
@@ -1162,7 +1162,7 @@ of creation  before  full of the six opulences  I  indeed  am
 ‘prapañca’, ‘prakṛti’, ‘puruṣa’ āmātei laye  
 prapañca  prakṛti  puruṣa  in Me alone  lie merged
 
-(108) ‘Before creation I exist, full of the six opulences, and the manifest world (*prapañca*), *prakṛti* and the *puruṣa* lie merged in Me.
+(108) Before creation I exist, full of the six opulences, and the manifest world (*prapañca*), *prakṛti* and the *puruṣa* lie merged in Me.
 
 সৃষ্টি করি’ তার মধ্যে আমি ত’ বসিয়ে ৷  
 প্রপঞ্চ যে দেখ সব, সেহ আমি হইয়ে ॥ ১০৯ ॥
@@ -1226,7 +1226,7 @@ in these  all  words  there is  of jñāna  of vijñāna  the discernment
 māyā-kārya, māyā haite āmi — vyatireka  
 māyā’s works  from māyā  I  am distinct
 
-(114) In all these words lies the discernment of jñāna and *vijñāna*: I am distinct from the works of māyā and from māyā itself.
+(114) In all these words lies the discernment of *jñāna* and *vijñāna*: I am distinct from the works of māyā and from māyā itself.
 
 যৈছে সূর্য্যের স্থানে ভাসয়ে ‘আভাস’ ৷  
 সূর্য্য বিনা স্বতঃ তার না হয় প্রকাশ ॥ ১১৫ ॥
@@ -1348,7 +1348,7 @@ the devotee  Me  has bound  in the lotus of the heart
 yām̐hā netra paḍe, tām̐hā dekhaye āmāre  
 wherever  the eyes  fall  there  he sees  Me
 
-(125) My devotee has bound Me in the lotus of his heart; wherever his eyes fall, there he sees Me.’
+(125) My devotee has bound Me in the lotus of his heart; wherever his eyes fall, there he sees Me.
 
 বিসৃজতি হৃদয়ং ন যস্য সাক্ষা-  
 দ্ধরিরবশাভিহিতোঽপ্যঘৌঘনাশঃ ৷  
@@ -1364,7 +1364,7 @@ by the cord of love  whose lotus feet are held fast
 sa bhavati bhāgavata-pradhāna uktaḥ  
 he  is  of the bhāgavatas  the foremost  called
 
-(126) “He whose heart is never left by Hari Himself — Hari, who destroys hosts of sins even when His name is uttered helplessly — and who holds the Lord’s lotus feet fast with the cord of love, is called the foremost of the *bhāgavatas*.” (Śrīmad-Bhāgavatam, 11.2.55)[^29]
+(126) “Hari Himself, who destroys hosts of sins even when His name is uttered helplessly, never leaves the heart of one who holds His lotus feet fast with the cord of love. Such a devotee is called the foremost of the *bhāgavatas*.” (Śrīmad-Bhāgavatam, 11.2.55)[^29]
 
 সর্ব্বভূতেষু যঃ পশ্যেদ্ভগবদ্ভাবমাত্মনঃ ৷  
 ভূতানি ভগবত্যাত্মন্যেষ ভাগবতোত্তমঃ ॥ ১২৭ ॥
