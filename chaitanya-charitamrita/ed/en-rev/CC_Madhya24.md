@@ -70,7 +70,7 @@ the wonder  having heard  my  eager  mind
 kṛpā kari’ kaha yadi, juḍāya śravaṇa  
 mercy  showing  You tell  if  are soothed  ears
 
-(6) Hearing of this wonder, my mind is filled with longing. If You kindly tell me, my ears will be soothed.”
+(6) Having heard of this wonder, I am filled with longing. If You kindly tell me, my ears will be soothed.”
 
 প্রভু কহে, — আমি বাতুল, আমার বচনে ৷  
 সার্ব্বভৌম বাতুলতা সত্য করি’ মানে ॥ ৭ ॥
@@ -595,7 +595,7 @@ birds  beasts  trees  creepers  moving  unmoving
 preme matta kari’ ākarṣaye kṛṣṇa-guṇa  
 with love  mad  making  attract  Kṛṣṇa’s  qualities
 
-(54) Birds, beasts, trees and creepers — all that moves and does not move — Kṛṣṇa’s qualities attract, making them mad with love (prema).
+(54) Kṛṣṇa’s qualities attract birds, beasts, trees and creepers — all that moves and all that does not — and make them mad with love (prema).
 
 ‘হরিঃ’-শব্দে নানার্থ, দুই — মুখ্যতম ৷  
 সর্ব্ব অমঙ্গল হরে, প্রেম দিয়া হরে মন ॥ ৫৫ ॥
@@ -615,7 +615,7 @@ somehow  or other  whoever  anyone  does  remembering
 cāri-vidha tāpa tāra kare saṁharaṇa  
 of four kinds  distress  his  He makes  removal
 
-(56) Whoever remembers Him, in whatever way, He frees from the four kinds of distress.
+(56) He frees from the four kinds of distress anyone who remembers Him, in whatever way.
 
 যথাগ্নিঃ সুসমৃদ্ধার্চ্চিঃ করোত্যেধাংসি ভস্মসাৎ ৷  
 তথা মদ্বিষয়া ভক্তিরুদ্ধবৈনাংসি কৃৎস্নশঃ ॥ ৫৭ ॥
@@ -649,7 +649,7 @@ by His own  qualities  then  He steals  body  senses  mind
 aiche kṛpālu kṛṣṇa, aiche tām̐ra guṇa  
 so  merciful  Kṛṣṇa  such  His  qualities
 
-(59) Then by His own qualities He steals the body, senses and mind. So merciful is Kṛṣṇa, and such are His qualities.
+(59) After that, by His own qualities He steals the body, the senses and the mind. So merciful is Kṛṣṇa, and such are His qualities.
 
 চারি পুরুষার্থ ছাড়ায়, হরে সবার মন ৷  
 ‘হরি’-শব্দের এই মুখ্য কহিলুঁ লক্ষণ ॥ ৬০ ॥
@@ -717,7 +717,7 @@ this  indeed  of the eleven  words  of the meanings  the determination
 ebe ślokārtha kari, yathā ye lāgaya  
 now  the meaning of the verse  I shall give  as  whatever  fits
 
-(65) Thus the meanings of the eleven words have been determined. Now I shall give the meaning of the verse, applying each meaning as it fits.
+(65) Thus I have determined the meanings of the eleven words. Now I shall give the meaning of the verse, applying each meaning as it fits.
 
 ‘ব্রহ্ম’-শব্দের অর্থ — তত্ত্ব সর্ব্ব-বৃহত্তম ৷  
 স্বরূপ-ঐশ্বর্য্য করি’ নাহি যাঁর সম ॥ ৬৬ ॥
@@ -1290,7 +1290,7 @@ who long for liberation  jñānīs  are  of three kinds
 mumukṣu, jīvan-mukta, prāpta-svarūpa āra  
 the mumukṣu  the jīvan-mukta  the prāpta-svarūpa  and
 
-(116) *Jñānīs* who long for liberation are of three kinds: the *mumukṣu* (seeker of liberation), the *jīvan-mukta* (liberated while living) and the *prāpta-svarūpa* (one who has attained his true nature).
+(116) Jñānīs who long for liberation are of three kinds: the *mumukṣu* (seeker of liberation), the *jīvan-mukta* (liberated while living) and the *prāpta-svarūpa* (one who has attained his true nature).
 
 ‘মুমুক্ষু’ জগতে অনেক সংসারী জন ৷  
 ‘মুক্তি’ লাগি’ ভক্ত্যে করে কৃষ্ণের ভজন ॥ ১১৭ ॥

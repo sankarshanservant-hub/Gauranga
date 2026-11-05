@@ -41,7 +41,7 @@ fn: The same verse as Madhya 6.186 (= Madhya 17.140); translation as there.
 ## 6
 w: the wonder  having heard  my  eager  mind
 w: mercy  showing  You tell  if  are soothed  ears
-tr: Hearing of this wonder, my mind is filled with longing. If You kindly tell me, my ears will be soothed.”
+tr: Having heard of this wonder, I am filled with longing. If You kindly tell me, my ears will be soothed.”
 
 ## 7
 w: the Lord  says  I  am a madman  in My  words
@@ -304,7 +304,7 @@ tr: Women who are like elders He attracts in parental love (*vātsalya*), and me
 ## 54
 w: birds  beasts  trees  creepers  moving  unmoving
 w: with love  mad  making  attract  Kṛṣṇa’s  qualities
-tr: Birds, beasts, trees and creepers — all that moves and does not move — Kṛṣṇa’s qualities attract, making them mad with love (prema).
+tr: Kṛṣṇa’s qualities attract birds, beasts, trees and creepers — all that moves and all that does not — and make them mad with love (prema).
 
 ## 55
 w: by the word hariḥ  many meanings  two  foremost
@@ -314,7 +314,7 @@ tr: The word *hariḥ* has many meanings, two of which are foremost: He takes aw
 ## 56
 w: somehow  or other  whoever  anyone  does  remembering
 w: of four kinds  distress  his  He makes  removal
-tr: Whoever remembers Him, in whatever way, He frees from the four kinds of distress.
+tr: He frees from the four kinds of distress anyone who remembers Him, in whatever way.
 
 ## 57
 w: as  fire  brightly blazing
@@ -331,7 +331,7 @@ tr: Then He destroys ignorance and the karma that obstructs devotion, and He man
 ## 59
 w: by His own  qualities  then  He steals  body  senses  mind
 w: so  merciful  Kṛṣṇa  such  His  qualities
-tr: Then by His own qualities He steals the body, senses and mind. So merciful is Kṛṣṇa, and such are His qualities.
+tr: After that, by His own qualities He steals the body, the senses and the mind. So merciful is Kṛṣṇa, and such are His qualities.
 
 ## 60
 w: four  goals of life  makes one give up  He steals  everyone’s  mind
@@ -366,7 +366,7 @@ tr: “*Api* is used in the senses of *sambhāvanā* (possibility), *praśna* (q
 ## 65
 w: this  indeed  of the eleven  words  of the meanings  the determination
 w: now  the meaning of the verse  I shall give  as  whatever  fits
-tr: Thus the meanings of the eleven words have been determined. Now I shall give the meaning of the verse, applying each meaning as it fits.
+tr: Thus I have determined the meanings of the eleven words. Now I shall give the meaning of the verse, applying each meaning as it fits.
 
 ## 66
 w: of the word brahma  the meaning  the truth  of all  the greatest
@@ -660,7 +660,7 @@ tr: “Entering the assembly of the lotus-born Brahmā, which is free from all d
 ## 116
 w: who long for liberation  jñānīs  are  of three kinds
 w: the mumukṣu  the jīvan-mukta  the prāpta-svarūpa  and
-tr: *Jñānīs* who long for liberation are of three kinds: the *mumukṣu* (seeker of liberation), the *jīvan-mukta* (liberated while living) and the *prāpta-svarūpa* (one who has attained his true nature).
+tr: Jñānīs who long for liberation are of three kinds: the *mumukṣu* (seeker of liberation), the *jīvan-mukta* (liberated while living) and the *prāpta-svarūpa* (one who has attained his true nature).
 
 ## 117
 w: mumukṣus  in the world  many  attached to worldly life  people
