@@ -206,7 +206,7 @@ all  scriptures  refuting  the Lord  bhakti  makes  the essence
 sa-yuktika vākye mana phirāya sabāra  
 with well-reasoned  words  the minds  turns  of all
 
-(20) Refuting every argument from the scriptures, the Lord established bhakti as their essence, and with well-reasoned words He turned everyone’s mind.
+(20) Refuting every rival reading of the scriptures, the Lord established bhakti as their essence, and with well-reasoned words He turned everyone’s mind.
 
 উপদেশ লঞা করে কৃষ্ণ-সংকীর্ত্তন ৷  
 সর্ব্বলোক হাসে, গায়, করয়ে নর্ত্তন ॥ ২১ ॥
@@ -236,7 +236,7 @@ Prakāśānanda’s  disciple  one  to him  equal
 sabhā-madhye kahe prabhura kariyā sammāna  
 the assembly  in the midst of  says  the Lord  showing  honour
 
-(23) One disciple of Prakāśānanda, his equal, spoke in the assembly, honouring the Lord:
+(23) One of Prakāśānanda’s disciples, his equal, spoke in the assembly in praise of the Lord:
 
 শ্রীকৃষ্ণচৈতন্য হয় ‘সাক্ষাৎ নারায়ণ’ ৷  
 ‘ব্যাসসূত্রের’ অর্থ করেন অতি-মনোরম ॥ ২৪ ॥
@@ -468,7 +468,7 @@ of the Vyāsa-sūtra  the meaning  the Ācārya  has  covered
 ei haya satya śrī-kṛṣṇa-caitanya-vacana  
 this  is  true  Śrī Kṛṣṇa Caitanya’s  word
 
-(43) The Ācārya has covered the meaning of the *Vyāsa-sūtra*: this, as Śrī Kṛṣṇa Caitanya says, is the truth.
+(43) The Ācārya has covered the meaning of the *Vyāsa-sūtra* — so says Śrī Kṛṣṇa Caitanya, and His words are true.
 
 চৈতন্য-গোসাঞি যেই কহে, সেই মত সার ৷  
 আর যত মত, সেই সব ছারখার ॥ ৪৪ ॥
@@ -518,7 +518,7 @@ which  of a book  author  wants  his own doctrine  to establish
 śāstrera sahaja artha nahe tām̐hā haite  
 of the scriptures  the natural  meaning  does not come  from him
 
-(48) When an author wants to establish his own doctrine, the natural meaning of the scriptures does not come from him.
+(48) An author who wants to establish his own doctrine cannot give the natural meaning of the scriptures.
 
 ‘মীমাংসক’ কহে, — ঈশ্বর হয় কর্ম্মের অঙ্গ ৷  
 ‘সাংখ্য’ কহে, — জগতের প্রকৃতি কারণ ॥ ৪৯ ॥
@@ -558,7 +558,7 @@ of the six  the six  doctrines  Vyāsa  made  overturning
 sei saba sūtra lañā ‘vedānta’-varṇana  
 those  all  sūtras  taking  the description of Vedānta
 
-(52) Vyāsa overturned the six doctrines of the six schools, and with all those sūtras he set forth the Vedānta.
+(52) Vyāsa overturned the six doctrines of the six schools, and in his sūtras he set forth the Vedānta.
 
 ‘বেদান্ত’-মতে, — ব্রহ্ম ‘সাকার’ নিরূপণ ৷  
 ‘নির্গুণ’ ব্যতিরেকে তিঁহো হয় ত’ ‘সগুণ’ ॥ ৫৩ ॥
@@ -644,7 +644,7 @@ on the way  that  brāhmaṇa  all  the events  told
 śuni’ mahāprabhu sukhe īṣat hāsila  
 hearing  Mahāprabhu  happily  slightly  smiled
 
-(60) On the way the brāhmaṇa told Him everything. Hearing it, Mahāprabhu smiled a little with pleasure.
+(60) On the way the brāhmaṇa told Him everything. Hearing it, Mahāprabhu smiled gently with pleasure.
 
 মাধব-সৌন্দর্য্য দেখি’ আবিষ্ট হইলা ৷  
 অঙ্গনেতে আসি’ প্রেমে নাচিতে লাগিলা ॥ ৬১ ॥
@@ -754,7 +754,7 @@ superior  being  why  do you make  to an inferior  obeisance
 āmāra sarva-nāśa haya, tumi brahma-sama  
 My  total ruin  it is  you  to Brahman  equal
 
-(71) Why should you, who are superior, honour one who is inferior? It is My total ruin, for you are like Brahman.
+(71) Why should you, who are superior, honour one who is inferior? You are equal to Brahman, and your obeisance is My total ruin.
 
 যদ্যপি তোমার সব ব্রহ্ম-সম ভাস ৷  
 লোকশিক্ষা লাগি’ এমত করিতে না আইস ॥ ৭২ ॥
@@ -930,7 +930,7 @@ in Māyāvāda  You made  all  of the faults  the exposition
 sabe ei jāni’ ācāryera kalpita vyākhyāna  
 all  this  know  the Ācārya’s  imagined  interpretation
 
-(86) “All the faults You have shown in Māyāvāda — we all know them to come from the Ācārya’s imagined interpretation.
+(86) “We all know now that the faults You have shown in Māyāvāda come from the Ācārya’s imagined interpretation.
 
 সূত্রের করিলা তুমি মুখ্যার্থ-বিবরণ ৷  
 তাহা শুনি’ সবার হৈল চমৎকার মন ॥ ৮৭ ॥
@@ -950,7 +950,7 @@ You  indeed  Īśvara  Your  are  all  potencies
 saṅkṣepa-rūpe kaha tumi, śunite haya mati  
 in brief  form  tell  You  to hear  there is  the wish
 
-(88) You are Īśvara; all potencies are Yours. Please tell it briefly — I wish to hear it.”
+(88) You are Īśvara, and all potencies are Yours. Please explain it to us briefly; I long to hear it.”
 
 প্রভু কহে, — আমি ‘জীব’, অতি তুচ্ছ জ্ঞান !  
 ব্যাসসূত্রের গম্ভীর অর্থ, ব্যাস — ভগবান্ ॥ ৮৯ ॥
@@ -1084,7 +1084,7 @@ I  sambandha  the truth  of Me  knowledge  realisation
 āmā pāite sādhana-bhakti ‘abhidheya’ nāma  
 Me  to attain  sādhana-bhakti  abhidheya  is named
 
-(101) ‘I am the truth of *sambandha*, and so are knowledge and realisation of Me. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
+(101) ‘I am the truth of *sambandha*, and knowledge and realisation of Me belong to it as well. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
 
 সাধনের ফল — ‘প্রেম’ মূল-প্রয়োজন ৷  
 সেই প্রেমে পায় জীব আমার ‘সেবন’ ॥ ১০২ ॥
@@ -1280,7 +1280,7 @@ in dharma and the rest  in matters  as  these  four  considerations
 sādhana-bhakti-ei cāri vicārera pāra  
 sādhana-bhakti  these  four  considerations  beyond
 
-(119) The considerations of dharma and the rest concern these four aims of life; but *sādhana-bhakti* lies beyond all four.[^25]
+(119) In matters of dharma and the rest, people weigh the four aims of life; but *sādhana-bhakti* lies beyond all four.[^25]
 
 সর্ব্ব-দেশ-কাল-দশায় জনের কর্ত্তব্য ৷  
 গুরু-পাশে সেই ভক্তি প্রষ্টব্য, শ্রোতব্য ॥ ১২০ ॥
@@ -1314,7 +1314,7 @@ for Me  which  affection  that  prema  is the prayojana
 kārya-dvāre kahi tāra ‘svarūpa’ lakṣaṇa  
 through its effects  I describe  its  essential  characteristic
 
-(122) Love for Me — that prema is the *prayojana*. I describe its essential nature through its effects.
+(122) Love for Me is prema, the goal (*prayojana*). I shall describe its essential nature through its effects.
 
 পঞ্চভূত যৈছে ভূতের ভিতরে-বাহিরে ৷  
 ভক্তগণে স্ফুরি আমি বাহিরে-অন্তরে ॥ ১২৩ ॥
@@ -1324,7 +1324,7 @@ the five  elements  as  of beings  within  without
 bhakta-gaṇe sphuri āmi bāhire-antare  
 in the devotees  am manifest  I  without  within
 
-(123) Just as the five elements are within and without all beings, so I am manifest without and within My devotees.[^27]
+(123) Just as the five elements are within and without all beings, so I manifest Myself to My devotees, both within and without.[^27]
 
 যথা মহান্তি ভূতানি ভূতেষূচ্চাবচেষ্বনু ৷  
 প্রবিষ্টান্যপ্রবিষ্টানি তথা তেষু ন তেষ্বহম্ ॥ ১২৪ ॥
@@ -2829,7 +2829,7 @@ that  Caitanya’s  līlā  is  a lake  inexhaustible
 mano haṁsa carāha’ tāhāte  
 of the mind  the swan  let roam  in it
 
-(264) Kṛṣṇa’s *līlā* is the essence of nectar, and that from which its hundreds upon hundreds of streams flow in all ten directions is Caitanya’s *līlā* — an inexhaustible lake. Let the swan of your mind roam there.
+(264) Kṛṣṇa’s *līlā* is the essence of nectar, and Caitanya’s *līlā* is the inexhaustible lake from which it flows in hundreds upon hundreds of streams in all ten directions. Let the swan of your mind glide upon it.
 
 ভক্তগণ, শুন মোর দৈন্য-বচন ৷  
 তোমা-সবার পদধূলি, অঙ্গে বিভূষণ করি’,  
@@ -2858,7 +2858,7 @@ of prema  of rasa  in the forest of kumudas  blossoming  night and day
 tāte carāo mano-bhṛṅga-gaṇa  
 there  let roam  of the mind  the bees
 
-(266) In that lake the conclusions of devotion to Kṛṣṇa are a forest of blossoming lotuses: relish their honey. And in the forest of *kumuda* lilies — the rasa of prema — which blooms night and day, let the bees of your mind roam.
+(266) In that lake the conclusions of devotion to Kṛṣṇa are a forest of blossoming lotuses: relish their honey. And the rasa of prema is a forest of *kumuda* lilies blooming night and day: there let the bees of your mind roam.
 
 নানা-ভাবের ভক্তজন, হংস-চক্রবাকগণ,  
 যাতে সবে করেন বিহার ৷  
@@ -2874,7 +2874,7 @@ of Kṛṣṇa’s  play  the lotus stems  which  finding  at all times
 bhakta-haṁsa karaye āhāra  
 the devotee  swans  make  their food
 
-(267) Devotees of various *bhāvas* are the swans and *cakravāka* birds who all sport in that lake; Kṛṣṇa’s pastimes are the lotus stalks, which the devotee-swans find at all times and feed upon.
+(267) Devotees of various *bhāvas* are the swans and *cakravāka* birds who all sport in its waters, and Kṛṣṇa’s pastimes are the tender lotus stalks that the devotee-swans find at all times and feed upon.
 
 সেই সরোবরে গিয়া, হংস-চক্রবাক হঞা,  
 সদা তাঁহা করহ বিলাস ৷  
@@ -2906,7 +2906,7 @@ by that  grow  nectarean fruits  the devotees  eat  constantly
 tāra preme jīye jaga-jana  
 by their  love  live  the people of the world
 
-(269) The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees feast on them without cease, and the people of the world live by their love.
+(269) The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits. The devotees feast on them without cease, and the whole world lives by the love of these devotees.
 
 চৈতন্যলীলা — অমৃতপূর, কৃষ্ণলীলা — সুকর্পূর,  
 দুহে মিলি’ হয় সুমাধুর্য্য ৷  

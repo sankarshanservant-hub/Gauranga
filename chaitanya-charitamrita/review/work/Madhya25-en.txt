@@ -105,7 +105,7 @@ tr: Crowds of people came to see the Lord, and scholars learned in various scrip
 ## 20
 w: all  scriptures  refuting  the Lord  bhakti  makes  the essence
 w: with well-reasoned  words  the minds  turns  of all
-tr: Refuting every argument from the scriptures, the Lord established bhakti as their essence, and with well-reasoned words He turned everyone’s mind.
+tr: Refuting every rival reading of the scriptures, the Lord established bhakti as their essence, and with well-reasoned words He turned everyone’s mind.
 
 ## 21
 w: the instruction  accepting  perform  kṛṣṇa-saṅkīrtana
@@ -121,7 +121,7 @@ fn: *Anubhāṣya*: leaving their study of Vedānta, the sannyāsīs gathered an
 ## 23
 w: Prakāśānanda’s  disciple  one  to him  equal
 w: the assembly  in the midst of  says  the Lord  showing  honour
-tr: One disciple of Prakāśānanda, his equal, spoke in the assembly, honouring the Lord:
+tr: One of Prakāśānanda’s disciples, his equal, spoke in the assembly in praise of the Lord:
 
 ## 24
 w: Śrī Kṛṣṇa Caitanya  is  directly  Nārāyaṇa
@@ -239,7 +239,7 @@ tr: Inquiry into the highest truth is gone; we only argue. How shall we gain lib
 ## 43
 w: of the Vyāsa-sūtra  the meaning  the Ācārya  has  covered
 w: this  is  true  Śrī Kṛṣṇa Caitanya’s  word
-tr: The Ācārya has covered the meaning of the *Vyāsa-sūtra*: this, as Śrī Kṛṣṇa Caitanya says, is the truth.
+tr: The Ācārya has covered the meaning of the *Vyāsa-sūtra* — so says Śrī Kṛṣṇa Caitanya, and His words are true.
 
 ## 44
 w: Caitanya Gosāñi  whatever  says  that  doctrine  is the essence
@@ -264,7 +264,7 @@ tr: If one accepts that He is Bhagavān (*bhagavattā*), *advaita* cannot be est
 ## 48
 w: which  of a book  author  wants  his own doctrine  to establish
 w: of the scriptures  the natural  meaning  does not come  from him
-tr: When an author wants to establish his own doctrine, the natural meaning of the scriptures does not come from him.
+tr: An author who wants to establish his own doctrine cannot give the natural meaning of the scriptures.
 
 ## 49
 w: the Mīmāṁsaka  says  Īśvara  is  of karma  a limb
@@ -285,7 +285,7 @@ tr: The Pātañjala says that Īśvara is the realisation of one’s own nature.
 ## 52
 w: of the six  the six  doctrines  Vyāsa  made  overturning
 w: those  all  sūtras  taking  the description of Vedānta
-tr: Vyāsa overturned the six doctrines of the six schools, and with all those sūtras he set forth the Vedānta.
+tr: Vyāsa overturned the six doctrines of the six schools, and in his sūtras he set forth the Vedānta.
 
 ## 53
 w: of Vedānta  in the view  Brahman  with form  is defined
@@ -329,7 +329,7 @@ tr: At that time Mahāprabhu, having bathed at Pañcanada, was on His way to see
 ## 60
 w: on the way  that  brāhmaṇa  all  the events  told
 w: hearing  Mahāprabhu  happily  slightly  smiled
-tr: On the way the brāhmaṇa told Him everything. Hearing it, Mahāprabhu smiled a little with pleasure.
+tr: On the way the brāhmaṇa told Him everything. Hearing it, Mahāprabhu smiled gently with pleasure.
 
 ## 61
 w: Mādhava’s beauty  seeing  overwhelmed  He became
@@ -385,7 +385,7 @@ tr: The Lord said, “You are the guru of the world, most worthy of worship. I a
 ## 71
 w: superior  being  why  do you make  to an inferior  obeisance
 w: My  total ruin  it is  you  to Brahman  equal
-tr: Why should you, who are superior, honour one who is inferior? It is My total ruin, for you are like Brahman.
+tr: Why should you, who are superior, honour one who is inferior? You are equal to Brahman, and your obeisance is My total ruin.
 
 ## 72
 w: although  to you  everything  to Brahman  equal  appears
@@ -477,7 +477,7 @@ tr: With these words Prakāśānanda sat down there with the Lord and began to q
 ## 86
 w: in Māyāvāda  You made  all  of the faults  the exposition
 w: all  this  know  the Ācārya’s  imagined  interpretation
-tr: “All the faults You have shown in Māyāvāda — we all know them to come from the Ācārya’s imagined interpretation.
+tr: “We all know now that the faults You have shown in Māyāvāda come from the Ācārya’s imagined interpretation.
 
 ## 87
 w: of the sūtras  made  You  the explanation of the primary meaning
@@ -487,7 +487,7 @@ tr: You have explained the primary meaning of the sūtras, and hearing it, every
 ## 88
 w: You  indeed  Īśvara  Your  are  all  potencies
 w: in brief  form  tell  You  to hear  there is  the wish
-tr: You are Īśvara; all potencies are Yours. Please tell it briefly — I wish to hear it.”
+tr: You are Īśvara, and all potencies are Yours. Please explain it to us briefly; I long to hear it.”
 
 ## 89
 w: the Lord  says  I  a jīva  very  meagre  knowledge
@@ -556,7 +556,7 @@ tr: The *sambandha*, *abhidheya* and *prayojana* of the *Bhāgavata* are clearly
 ## 101
 w: I  sambandha  the truth  of Me  knowledge  realisation
 w: Me  to attain  sādhana-bhakti  abhidheya  is named
-tr: ‘I am the truth of *sambandha*, and so are knowledge and realisation of Me. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
+tr: ‘I am the truth of *sambandha*, and knowledge and realisation of Me belong to it as well. *Sādhana-bhakti*, the means of attaining Me, is called *abhidheya*.
 
 ## 102
 w: of sādhana  the fruit  prema  the chief goal
@@ -659,7 +659,7 @@ tr: Now hear the consideration of *abhidheya*, *sādhana-bhakti*, which extends 
 ## 119
 w: in dharma and the rest  in matters  as  these  four  considerations
 w: sādhana-bhakti  these  four  considerations  beyond
-tr: The considerations of dharma and the rest concern these four aims of life; but *sādhana-bhakti* lies beyond all four.
+tr: In matters of dharma and the rest, people weigh the four aims of life; but *sādhana-bhakti* lies beyond all four.
 fn: “These four” (*e ‘cāri’ vicāra*) beside *dharmādi* are, according to the *Anubhāṣya* and the *Amṛta-pravāha-bhāṣya*, the four aims of life (*catur-varga*): dharma, *artha*, *kāma* and *mokṣa*. Heading of the edition: “The *abhidheya*, *sādhana-bhakti*, is beyond the four aims (*catur-varga*).”
 
 ## 120
@@ -678,12 +678,12 @@ fn: The same verse as Ādi 1.56; translation as there. Numbered as in the headin
 ## 122
 w: for Me  which  affection  that  prema  is the prayojana
 w: through its effects  I describe  its  essential  characteristic
-tr: Love for Me — that prema is the *prayojana*. I describe its essential nature through its effects.
+tr: Love for Me is prema, the goal (*prayojana*). I shall describe its essential nature through its effects.
 
 ## 123
 w: the five  elements  as  of beings  within  without
 w: in the devotees  am manifest  I  without  within
-tr: Just as the five elements are within and without all beings, so I am manifest without and within My devotees.
+tr: Just as the five elements are within and without all beings, so I manifest Myself to My devotees, both within and without.
 fn: *Anubhāṣya*: the devotees know themselves as instruments for serving Bhagavān with love, and all that is not a devotee they likewise know only as means for that service.
 
 ## 124
@@ -1450,7 +1450,7 @@ w: Kṛṣṇa’s  līlā  of nectar  the essence  its  hundreds  hundreds  str
 w: in the ten directions  flow  which  from
 w: that  Caitanya’s  līlā  is  a lake  inexhaustible
 w: of the mind  the swan  let roam  in it
-tr: Kṛṣṇa’s *līlā* is the essence of nectar, and that from which its hundreds upon hundreds of streams flow in all ten directions is Caitanya’s *līlā* — an inexhaustible lake. Let the swan of your mind roam there.
+tr: Kṛṣṇa’s *līlā* is the essence of nectar, and Caitanya’s *līlā* is the inexhaustible lake from which it flows in hundreds upon hundreds of streams in all ten directions. Let the swan of your mind glide upon it.
 
 ## 265
 w: O devotees  hear  my  humble  words
@@ -1464,14 +1464,14 @@ w: of devotion to Kṛṣṇa  the conclusions  in which (lake)  blossoming  of 
 w: its  honey  making  relishing
 w: of prema  of rasa  in the forest of kumudas  blossoming  night and day
 w: there  let roam  of the mind  the bees
-tr: In that lake the conclusions of devotion to Kṛṣṇa are a forest of blossoming lotuses: relish their honey. And in the forest of *kumuda* lilies — the rasa of prema — which blooms night and day, let the bees of your mind roam.
+tr: In that lake the conclusions of devotion to Kṛṣṇa are a forest of blossoming lotuses: relish their honey. And the rasa of prema is a forest of *kumuda* lilies blooming night and day: there let the bees of your mind roam.
 
 ## 267
 w: of various  bhāvas  the devotees  swans  cakravākas
 w: in which  all  make  sport
 w: of Kṛṣṇa’s  play  the lotus stems  which  finding  at all times
 w: the devotee  swans  make  their food
-tr: Devotees of various *bhāvas* are the swans and *cakravāka* birds who all sport in that lake; Kṛṣṇa’s pastimes are the lotus stalks, which the devotee-swans find at all times and feed upon.
+tr: Devotees of various *bhāvas* are the swans and *cakravāka* birds who all sport in its waters, and Kṛṣṇa’s pastimes are the tender lotus stalks that the devotee-swans find at all times and feed upon.
 
 ## 268
 w: to that  lake  going  swans  cakravākas  becoming
@@ -1486,7 +1486,7 @@ w: this  nectar  constantly  the sādhus  great souls  clouds
 w: on the garden of the world  make  showering
 w: by that  grow  nectarean fruits  the devotees  eat  constantly
 w: by their  love  live  the people of the world
-tr: The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees feast on them without cease, and the people of the world live by their love.
+tr: The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits. The devotees feast on them without cease, and the whole world lives by the love of these devotees.
 
 ## 270
 w: Caitanya’s līlā  —  a filling of nectar  Kṛṣṇa’s līlā  —  fine camphor
