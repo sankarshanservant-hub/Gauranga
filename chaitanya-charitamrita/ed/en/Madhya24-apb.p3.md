@@ -16,7 +16,7 @@ O *devarṣi*, you alone are truly blessed: by your mercy even a low *lubdhaka*,
 
 ## 281–285
 
-The *pārṣadas* — that is, the *nitya-siddhas* — the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* are each of four kinds, on the path of rules (*vaidha*) and on the path of *rāga*. The eternally perfect *pārṣadas* are again of four kinds: servants, friends, elders (*gurus*) and beloveds. And the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* each have these same four kinds as well.
+The *pārṣadas* — that is, the *nitya-siddhas* — the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* are each of four kinds, on the path of rules (*vaidha*) and on the path of *rāga*. The eternally perfect *pārṣadas* are again of four kinds: servants, friends, elders (*gurus*) and beloveds. And the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* each have these same four kinds as well.[^281-285-1]
 
 ## 294
 
@@ -55,3 +55,7 @@ This Sanātana, Rūpa's elder brother, was the jewel adorning the court of the l
 As soon as He saw that Sanātana had come, Gaurasundara, golden like a *campaka*, was filled with boundless compassion; He stretched out both arms and, showing His mercy, embraced him.
 
 *Thus ends the twenty-fourth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
+---
+
+[^281-285-1]: Our verse translation of 283 reads differently: that by following the path of rules anyone can attain the position of Kṛṣṇa's eternally perfect associate; for Bhaktivinoda the eternally perfect *pārṣadas* are a separate class alongside the *sādhana-siddhas* and the *sādhakas*.

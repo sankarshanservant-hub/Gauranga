@@ -26,7 +26,7 @@ See Madhya 22.142.
 
 > Subheading: Besides the 26 kinds of meaning, meanings broadly of two kinds and, in finer detail, of 32 kinds —
 
-“*Sthūle dui*”: broadly, that is, in general, of two kinds: (1) *vaidha-bhaktas* and (2) *rāga-bhaktas*.
+“*Sthūle dui*”[^278-1]: broadly, that is, in general, of two kinds: (1) *vaidha-bhaktas* and (2) *rāga-bhaktas*.
 
 “*Sūkṣme batriśa prakāra*”: if one counts the distinctions finely, in full detail, there are thirty-two kinds of meaning. The *vaidha-bhaktas* are of sixteen kinds, namely: (1) the *pārṣada* servant (*dāsa*), (2) the *pārṣada* friend (*sakhā*), (3) the *pārṣada* elder — a father and the like (*guru*), (4) the *pārṣada* beloved (*kāntā*), (5) the *sādhana-siddha* servant, (6) the *sādhana-siddha* friend, (7) the *sādhana-siddha* elder — a father and the like, (8) the *sādhana-siddha* beloved, (9) the *jāta-rati sādhaka* servant, (10) the *jāta-rati sādhaka* friend, (11) the *jāta-rati sādhaka* elder — a father and the like, (12) the *jāta-rati sādhaka* beloved, (13) the *ajāta-rati sādhaka* servant, (14) the *ajāta-rati sādhaka* friend, (15) the *ajāta-rati sādhaka* elder — a father and the like, (16) the *ajāta-rati sādhaka* beloved. The *rāga-bhaktas* are likewise of these sixteen kinds. In all there are thirty-two kinds of *ātmārāma* devotees.
 
@@ -150,7 +150,7 @@ In Naimiṣāraṇya the sages headed by Śaunaka put six questions to the *mah�
 
 ## 316
 
-(He says: “You asked, ‘With whom has *dharma* taken shelter?’ Know that it is this”:) **dharma-jñānādibhiḥ** (with the six opulences) **saha** **kṛṣṇe** **sva-dhāma** **upagate** (when He, having concluded His manifest pastimes, entered His unmanifest pastimes) **adhunā** (now) **kalau** (in the age of Kali) **naṣṭa-dṛśām** (for the good of those bereft of knowledge of the truth of true *dharma*, devotion to Viṣṇu) **eṣaḥ** **purāṇārkaḥ** (the book *Śrīmad-Bhāgavatam*, which like the sun dispels the night of irreligion) **uditaḥ** (has appeared, that is, has become manifest).
+(He says: “You asked, ‘With whom has *dharma* taken shelter?’ Know that it is this”:) **dharma-jñānādibhiḥ** (with the six opulences)[^316-1] **saha** **kṛṣṇe** **sva-dhāma** **upagate** (when He, having concluded His manifest pastimes, entered His unmanifest pastimes) **adhunā** (now) **kalau** (in the age of Kali) **naṣṭa-dṛśām** (for the good of those bereft of knowledge of the truth of true *dharma*, devotion to Viṣṇu) **eṣaḥ** **purāṇārkaḥ** (the book *Śrīmad-Bhāgavatam*, which like the sun dispels the night of irreligion) **uditaḥ** (has appeared, that is, has become manifest).
 
 ## 317
 
@@ -260,9 +260,7 @@ Another reading: “Five, ten, sixteen — the service of *cau-ghana*; worship w
 
 **The ten offerings:** (1) *arghya*, (2) water for washing the feet, (3) *ācamana*, (4) *madhuparka*, (5) *ācamana*, (6) fragrance, (7) flowers, (8) incense, (9) the lamp and (10) *naivedya*.
 
-**The sixty-four offerings.** *Cau-ghana* means “sixty-four”: (1) awakening with the sound of instruments and with hymns, (2) the cry of “*jaya*,” (3) obeisance, (4) *maṅgala-ārati*, (5) the seat, (6) the tooth-stick, (7) water for washing the feet, (8) *arghya*, (9) *ācamana*, (10) *ācamana* with *madhuparka*, (11) offering sandals, (12) rubbing the body, (13) anointing with oil, (14) removing the oil and so on, (15) bathing in water with fragrant flowers, (16) bathing with milk, (17) bathing with yogurt, (18) bathing with ghee, (19) bathing with honey, (20) bathing with sugar, (21) bathing with water consecrated by mantras, (22) a towel,
-
-(23) the lower and upper garments, (24) the sacred thread, (25) *ācamana* again, (26) anointing, (27) ornaments, (28) flowers, (29) incense, (30) the lamp, (31) warding off the evil eye, (32) *naivedya*, (33) mouth-freshener, (34) betel, (35) an excellent bed, (36) dressing the hair, (37) excellent clothes, (38) an excellent crown, (39) excellent fragrant anointing, (40) the Kaustubha and other ornaments, (41) various divine flowers, (42) *maṅgala-ārati*, (43) a mirror, (44) going out to the *maṇḍapa* in an excellent carriage, (45) sitting on the throne, (46) water for washing the feet again, (47) *naivedya* again, (48) the *mahā-nīrājana*, (49) fanning with the *cāmara*, the umbrella, (50) song, (51) instrumental music, (52) dance, (53) circumambulation, (54) obeisance, (55) praise at the two holy feet, (56) placing one's head at the feet, (57) bearing the *nirmālya* on one's head, (58) partaking of the remnants, (59) [the servant] sitting down to massage the feet, (60) a bed of flowers, (61) offering the hand, (62) [the Lord] coming to the bed, (63) sitting on the bed after the feet are washed, (64) finally lying down on the bed, with the feet massaged and so on.
+**The sixty-four offerings.** *Cau-ghana* means “sixty-four”: (1) awakening with the sound of instruments and with hymns, (2) the cry of “*jaya*,” (3) obeisance, (4) *maṅgala-ārati*, (5) the seat, (6) the tooth-stick, (7) water for washing the feet, (8) *arghya*, (9) *ācamana*, (10) *ācamana* with *madhuparka*, (11) offering sandals, (12) rubbing the body, (13) anointing with oil, (14) removing the oil and so on, (15) bathing in water with fragrant flowers, (16) bathing with milk, (17) bathing with yogurt, (18) bathing with ghee, (19) bathing with honey, (20) bathing with sugar, (21) bathing with water consecrated by mantras, (22) a towel, (23) the lower and upper garments, (24) the sacred thread, (25) *ācamana* again, (26) anointing, (27) ornaments, (28) flowers, (29) incense, (30) the lamp, (31) warding off the evil eye, (32) *naivedya*, (33) mouth-freshener, (34) betel, (35) an excellent bed, (36) dressing the hair, (37) excellent clothes, (38) an excellent crown, (39) excellent fragrant anointing, (40) the Kaustubha and other ornaments, (41) various divine flowers, (42) *maṅgala-ārati*, (43) a mirror, (44) going out to the *maṇḍapa* in an excellent carriage, (45) sitting on the throne, (46) water for washing the feet again, (47) *naivedya* again, (48) the *mahā-nīrājana*, (49) fanning with the *cāmara*, the umbrella, (50) song, (51) instrumental music, (52) dance, (53) circumambulation, (54) obeisance, (55) praise at the two holy feet, (56) placing one's head at the feet, (57) bearing the *nirmālya* on one's head, (58) partaking of the remnants, (59) [the servant] sitting down to massage the feet, (60) a bed of flowers, (61) offering the hand, (62) [the Lord] coming to the bed, (63) sitting on the bed after the feet are washed, (64) finally lying down on the bed, with the feet massaged and so on.
 
 **The five times:** *aruṇodaya* (the hour before dawn), morning, midday, evening and *pradoṣa* (nightfall).
 
@@ -288,9 +286,7 @@ Another reading: “Five, ten, sixteen — the service of *cau-ghana*; worship w
 
 **Freedom from offenses in service.** The words of Śrī Vyāsa in the *Skanda Purāṇa*, *Avantī-khaṇḍa*: “The mortal who day after day reads a chapter of the *Gītā* — Keśava forgives him thirty-two offenses.” The *Dvārakā-māhātmya*: “One who reads or hears of the glory of the thousand names is never touched by thousands of offenses. One who, keeping vigil for Viṣṇu on Dvādaśī, reads the *Tulasī-stava* — Keśava forgives him thirty-two offenses. One who worships the *śālagrāma-śilā* with *tulasī* — Keśava forgives him thirty-two offenses.”
 
-The thirty-two offenses in service: (1) entering the Lord's temple in a vehicle or wearing sandals; (2) not bowing down before the Deity; (3) offering prayers to the Lord without having cleansed oneself after eating, or in a state of impurity; (4) bowing with one hand; (5) circumambulating another deity in front of Him; (6) stretching out one's legs before Him; (7) sitting with one's knees clasped in one's arms; (8) lying down; (9) eating; (10) lying; (11) speaking loudly; (12) chatting with one another; (13) weeping; (14) showing favor to someone; (15) punishing someone or speaking harshly; (16) wrapping oneself in a blanket; (17) blaming others; (18) praising others; (19) speaking obscenely; (20) passing air; (21) worshiping without offerings when one is able to provide them; (22) eating what has not been offered [to the Lord]; (23) not offering the fruits of the season; (24) offering what is left over; (25) sitting with one's back to the Deity; (26) greeting others; (27) sitting near the guru without offering praise; (28) praising oneself; (29) blaming the gods; (30)
-
-cruelty toward other people; (31) failing to hold festivals; and (32) quarreling.
+The thirty-two offenses in service: (1) entering the Lord's temple in a vehicle or wearing sandals; (2) not bowing down before the Deity; (3) offering prayers to the Lord without having cleansed oneself after eating, or in a state of impurity; (4) bowing with one hand; (5) circumambulating another deity in front of Him; (6) stretching out one's legs before Him; (7) sitting with one's knees clasped in one's arms; (8) lying down; (9) eating; (10) lying; (11) speaking loudly; (12) chatting with one another; (13) weeping; (14) showing favor to someone; (15) punishing someone or speaking harshly; (16) wrapping oneself in a blanket; (17) blaming others; (18) praising others; (19) speaking obscenely; (20) passing air; (21) worshiping without offerings when one is able to provide them; (22) eating what has not been offered [to the Lord]; (23) not offering the fruits of the season; (24) offering what is left over; (25) sitting with one's back to the Deity; (26) greeting others; (27) sitting near the guru without offering praise; (28) praising oneself; (29) blaming the gods; (30) cruelty toward other people; (31) failing to hold festivals; and (32) quarreling.
 
 ## 332
 
@@ -372,11 +368,15 @@ See Madhya 19.119.
 
 ---
 
+[^278-1]: Our verse translation reads differently: “two obvious and thirty-two hidden” meanings; for Bhaktisiddhānta, two kinds broadly (*vaidha-* and *rāga-bhaktas*) and thirty-two when counted in detail.
+
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
 
 [^314-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
 
 [^314-3]: *Bhagavad-gītā* 4.34.
+
+[^316-1]: Our verse translation reads differently: that with Him nearly all knowledge and *dharma* departed; for Bhaktisiddhānta “*dharma*, knowledge and the rest” are Kṛṣṇa's own six opulences, with which He went to His abode.
 
 [^324-1]: *Satyaṁ*, as the edition prints it; the rendering is tentative.
 
