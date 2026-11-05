@@ -120,6 +120,30 @@ The mind of Bhagavān Śukadeva, dear to the Vaiṣṇavas, was captivated by Ha
 
 The nine Yogendras entered Brahmā's assembly, which is free from distress, and heard the Upaniṣads. Having become knowers of the Śruti and bristling with rapture, they (in order to go to Dvārakā, the city of the Yadus) reached the *raṅga-kṣetra*.
 
+## 118
+
+The *mumukṣus* give up the lords of the *bhūtas*, whose forms are terrible, yet without hostility toward them, and worship the portions (*kalās*) of Nārāyaṇa.
+
+## 119
+
+Having shown that the four Sanas and Śukadeva abided in Brahman (*brahmamaya*) and that the nine Yogendras were *sādhakas*, the Lord considers the three kinds of *jñānīs* who aspire to liberation: the *mumukṣu*, the *jīvan-mukta* and the one who has attained his *svarūpa* (*prāpta-svarūpa*). First He speaks of the *mumukṣus*: in the company of sādhus Bhagavān's qualities manifest in them, and so these *mumukṣus* give up the desire for liberation and worship Kṛṣṇa.
+
+## 120
+
+“O great soul, though this worldly existence has many faults, it has one great virtue — the company of sādhus. This one virtue brings happiness, and by it our desire for liberation has today grown weak.”
+
+## 123
+
+“When here in Vṛṣṇi-pattana, Dvārakā, Kṛṣṇa — the embodiment of dense spiritual bliss — appeared to me, happiness dawned within me. Alas, I clung to being an *ātmārāma*, and many of my days have passed in vain!”
+
+## 125
+
+“Because of offense they sink down”: the *jīvan-muktas* produced by dry knowledge fall because of offenses and sink, that is, they are ruined.
+
+## 130
+
+When the *ātmā*, together with the potencies (*śaktis*), lies down to rest (*anuśayana*), this is called the *jīva's* *nirodha*. To give up the other form and to be established (situated in a special way) in one's own *svarūpa* is what is called *mukti*.
+
 
 ---
 

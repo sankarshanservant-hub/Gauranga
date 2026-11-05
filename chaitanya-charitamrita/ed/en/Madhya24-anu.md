@@ -444,7 +444,7 @@ See Madhya 22.40.
 
 ## 105
 
-> Subheading: Only by submission to the true Reality — that is, as the fruit of *bhakti* — does one attain “brāhmaṇa-hood,” and by joining it with service, “Vaiṣṇava-hood” —
+> Subheading: Only by submission to the true Reality — or as the fruit of *bhakti* — does one attain “brāhmaṇa-hood,” and by joining it with service, “Vaiṣṇava-hood” —
 
 ## 106
 
@@ -483,6 +483,128 @@ See Madhya 17.142.
 ## 113
 
 > Subheading: The nine Yogendras, knowers of Brahman on the path of the Śruti, hear of Kṛṣṇa's qualities and worship Him —
+
+## 115
+
+> Subheading: Evidence from the *śāstra* — (*Bhakti-rasāmṛta-sindhu*, Paścima-vibhāga, “Śānta-bhakti-laharī,” verse 20)
+
+**śruta-jñāḥ** (learned in the Vedas) **nava** **yogīndrāḥ** (the nine Yogendras, the sons of Jayantī) **kamala-bhuvaḥ** (of the lotus-born [Brahmā]) **akleśāṁ** (free from distress) **goṣṭhīṁ** (assembly) **praviśya**, **śruti-śirasāṁ** (of the Upaniṣads) **śrutiṁ** (hearing) **kurvantaḥ** **api** **yadu-pura-saṅgamāya** (that is, in order to go to Dvārakā) **pulaka-bhṛtaḥ** (their bodies bristling with rapture) **uttuṅgaṁ** (very lofty) **raṅgaṁ** (the *raṅga-kṣetra*) **avāpuḥ** (reached).
+
+## 116
+
+> Subheading: (2) The three kinds of those who aspire to liberation (*mokṣākāṅkṣīs*) —
+
+## 117
+
+> Subheading: (a) The *mumukṣus* — people attached to worldly things — worship Kṛṣṇa by taking shelter of *bhakti* —
+
+## 118
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 2, verse 26)
+
+It is the wise who seek the highest good (*niḥśreyasa*) who worship Adhokṣaja Viṣṇu or His *avatāras*, and it is worshipers who have desires and no peace who worship other gods besides Viṣṇu. This Śrī Sūta tells the sages headed by Śaunaka:
+
+(“But are not some seen to worship others as well?” “True: the *mumukṣus* do not worship others; those with desires do” — so he says:) **atha** (therefore) **ghora-rūpān** (terrible in form) **bhūta-patīn** (the Pitṛs, the lords of the *bhūtas*, the Prajāpatis and others) **hitvā** (giving up) **mumukṣavaḥ** (the *jñānīs* who seek the highest good) **anasūyavaḥ** (vowed to nonviolence, not reviling other gods) **śāntāḥ** (saints without desires) **nārāyaṇa-kalāḥ** (the *aṁśa-avatāras* of Nārāyaṇa) **hi** **bhajanti**.
+
+## 119
+
+> Subheading: In the company of sādhus they give up the desire for liberation —
+
+## 120
+
+> Subheading: The virtue and glory of the company of saintly devotees — (*Bhakti-rasāmṛta-sindhu*, Paścima-vibhāga, “Prīti-bhakti-laharī,” verse 27)
+
+**he mahātman**, **aho** **eṣaḥ** **bhavaḥ** (human birth) **bahu-doṣa-duṣṭaḥ** (a mine of countless faults) **api** **sukhāvahena** (bestowing wealth, granting eternal welfare) **sat-saṅgamākhyena** (called the company of sādhus) **ekena** **guṇena** **bhāti** (shines), **yena** (by which virtue) **adya** **naḥ** (our) **mumukṣā** (desire for liberation) **kṛśā** **kṛtā** (has been weakened).
+
+## 121
+
+> Subheading: The inquisitive *mumukṣus* — Śaunaka and others — give up the desire for liberation in the company of a pure devotee —
+
+## 122
+
+> Subheading: Sometimes by seeing Kṛṣṇa, sometimes by Kṛṣṇa's mercy, they give up the desire for liberation and attain pure *bhakti* —
+
+## 123
+
+> Subheading: Having attained pure *kṛṣṇa-bhakti*, they regret their former efforts on the path of knowledge — (*Bhakti-rasāmṛta-sindhu*, “Śānta-bhakti-laharī,” verse 34)
+
+**bata** (with regret) **vṛṣṇi-pattane** (in the city of Dvārakā) **sukha-ghana-mūrtau** (in the form of dense spiritual bliss) **paramātmani** **asmin** (in Śrī Kṛṣṇa) **sphurati** (when He appears), **ātmārāmatayā** (through devotion to the impersonal Brahman) **ciraṁ** **me** (my) **kālaḥ** **vṛthā** **gataḥ** (lost).
+
+## 124
+
+> Subheading: (b) The two kinds of *jīvan-muktas* —
+
+## 125
+
+> Subheading: The devotee who has become a *jīvan-mukta* as the fruit of *bhakti* follows the descending path (*avaroha*) and attains the bliss of serving Kṛṣṇa; but one who follows the ascending path (*āroha*) and, as the fruit of knowledge, merely imagines himself liberated, falls down —
+
+## 126
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 2, verse 32)
+
+See Madhya 22.30.
+
+## 127
+
+> Subheading: (*Bhagavad-gītā*, Chapter 18, verse 54)
+
+See Madhya 8.65.
+
+## 128
+
+> Subheading: (The words of Bilvamaṅgala in the *Śrī Kṛṣṇa-karṇāmṛta*)
+
+See Madhya 10.178.
+
+## 129
+
+> Subheading: (c) The devotee who has attained his *svarūpa* worships Kṛṣṇa in a body of consciousness and bliss —
+
+## 130
+
+> Subheading: The characteristics of *nirodha* and *mukti*, two of the ten characteristics [of a Purāṇa] — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 10, verse 6)
+
+Śrī Śukadeva tells Parīkṣit of the ten characteristics of a *mahā-purāṇa*: *sarga*, *visarga*, *sthāna*, *poṣaṇa*, *ūti*, *manvantara*, *īśa-kathā*, *nirodha*, *mukti* and *āśraya*. These ten are described so that one may know the pure truth of Bhagavān, the tenth subject, the *āśraya* (the shelter). Setting out to describe them, in this verse he states the nature, or characteristics, of two of them, *nirodha* and *mukti*:
+
+(**śrī-hareḥ** **yoga-nidrām**, Śrī Hari's *yoga-nidrā*) **anu** (after) **asya** **ātmanaḥ** (of the *jīva*) **śaktibhiḥ** (with his *upādhis*) **śayanam** (merging) — **nirodhaḥ** (is so called); **tathā** **anyathā-rūpaṁ** (the sense of being the doer and the like, superimposed by *avidyā*) **hitvā** (giving up) **svarūpeṇa** (in the pure nature of the *jīva* serving Bhagavān) **vyavasthitiḥ** (abiding in a special way, that is, directly realizing one's *svarūpa*) — **muktiḥ**.
+
+## 131
+
+> Subheading: Through the desire for enjoyment — that is, through *māyā* — the *jīva* turns away from Kṛṣṇa; through service to Kṛṣṇa, or by turning toward Kṛṣṇa, comes freedom from *māyā* —
+
+## 132
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 2, verse 37)
+
+See Madhya 20.119.
+
+## 133
+
+> Subheading: (*Bhagavad-gītā*, Chapter 7, verse 14)
+
+See Madhya 20.121.
+
+## 134
+
+> Subheading: Only by the power of *bhakti* comes liberation, and once liberated, one has *bhakti* for Kṛṣṇa —
+
+## 135
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 14, verse 4)
+
+See Madhya 22.22.
+
+## 136
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 2, verse 32)
+
+See Madhya 22.30.
+
+## 137
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 5, verse 3)
+
+See Madhya 22.28.
 
 
 ---
