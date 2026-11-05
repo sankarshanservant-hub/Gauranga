@@ -425,7 +425,7 @@ EN: “Mercy to Sanātana: The Explanation of the Ātmārāma Verse” (у эт�
 - **Начинать** со с. **815, левая колонка**, стих 235 «নারদ কহে, — যদি জীবে মার’ তুমি বাণ» (вырезки 0,6 `v815_0.png` и далее — в
   `…/scratchpad/madhya24-rev/`, скрипт `vcrop.py`; крупно — `…/scratchpad/madhya24-rev2/zoom.py стр колонка y0 y1 масштаб`).
 - **EN — перенос:** `python3 …/scratchpad/madhya24-rev/conv.py ed/en/work/Madhya24.p3.txt 235 350 >> review/work/Madhya24-en.txt`, затем
-  `python3 …/madhya24-rev/norm_en.py 235 350`; перед переносом убедиться, что файл кончается пустой строкой (после 234 — есть). Правки EN
+  `python3 …/madhya24-rev/norm_en.py 235 350`; перед переносом добавить пустую строку (`echo >> review/work/Madhya24-en.txt`). Правки EN
   удобно вносить `…/madhya24-rev2/set_en.py spec.txt` (формат — в шапке скрипта; `fn=:` заменяет сноски, `fn:` добавляет); сквозные —
   `cross_en.py n:Глава:стих` (печатает w/tr выверенной главы), RU — `cross.py`.
 - **Кавычки речи** в повествовании о Нараде и Мригари: в издании с 232 — “…” (в бенгальском тексте ed не вводятся); RU — «…» ВЧД, EN — “…”.
