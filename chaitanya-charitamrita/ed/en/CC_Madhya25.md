@@ -650,187 +650,241 @@ hearing  Mahāprabhu  happily  slightly  smiled
 অঙ্গনেতে আসি’ প্রেমে নাচিতে লাগিলা ॥ ৬১ ॥
 
 mādhava-saundarya dekhi’ āviṣṭa hailā  
-aṅganete āsi’ preme nācite lāgilā
+Mādhava’s beauty  seeing  overwhelmed  He became  
+aṅganete āsi’ preme nācite lāgilā  
+into the courtyard  coming  in love  to dance  He began
 
-(61) [not yet translated]
+(61) Seeing the beauty of Mādhava, He was overwhelmed with ecstasy, and coming into the courtyard, He began to dance in love.
 
 শেখর, পরমানন্দ, তপন, সনাতন ৷  
 চারিজন মিলি’ করে নাম সংকীর্ত্তন ॥ ৬২ ॥
 
 śekhara, paramānanda, tapana, sanātana  
-cāri-jana mili’ kare nāma-saṅkīrtana
+Śekhara  Paramānanda  Tapana  Sanātana  
+cāri-jana mili’ kare nāma-saṅkīrtana  
+four  persons  together  perform  saṅkīrtana of the name
 
-(62) [not yet translated]
+(62) Candraśekhara, Paramānanda, Tapana and Sanātana — these four together performed *saṅkīrtana* of the holy name:
 
 হরি হরয়ে নমঃ কৃষ্ণ যাদবায় নমঃ ৷  
 গোপাল গোবিন্দ রাম শ্রীমধুসূদন ॥ ৬৩ ॥
 
 hari haraye namaḥ kṛṣṇa yādavāya namaḥ  
-gopāla govinda rāma śrī-madhusūdana
+Hari  to Hari  obeisance  Kṛṣṇa  to Yādava  obeisance  
+gopāla govinda rāma śrī-madhusūdana  
+Gopāla  Govinda  Rāma  Śrī Madhusūdana
 
-(63) [not yet translated]
+(63) “*Hari haraye namaḥ, kṛṣṇa yādavāya namaḥ, gopāla govinda rāma śrī-madhusūdana*.”
 
 চৌদিকেতে লক্ষ লোক বলে ‘হরি’ ‘হরি’ ৷  
 উঠিল মঙ্গলধ্বনি স্বর্গ-মর্ত্ত্য ভরি’ ॥ ৬৪ ॥
 
 caudikete lakṣa loka bale ‘hari’ ‘hari’  
-uṭhila maṅgala-dhvani svarga-martya bhari’
+on all sides  hundreds of thousands  of people  say  ‘Hari’  ‘Hari’  
+uṭhila maṅgala-dhvani svarga-martya bhari’  
+arose  an auspicious  sound  heaven  earth  filling
 
-(64) [not yet translated]
+(64) On all sides hundreds of thousands of people called out, “Hari! Hari!” An auspicious sound arose, filling heaven and earth.
 
 নিকটে হরিধ্বনি শুনি’ প্রকাশানন্দ ৷  
 দেখিতে কৌতুকে আইলা লঞা শিষ্যবৃন্দ ॥ ৬৫ ॥
 
 nikaṭe hari-dhvani śuni’ prakāśānanda  
-dekhite kautuke āilā lañā śiṣya-vṛnda
+nearby  the sound of ‘Hari’  hearing  Prakāśānanda  
+dekhite kautuke āilā lañā śiṣya-vṛnda  
+to see  out of curiosity  came  bringing  of disciples  the host
 
-(65) [not yet translated]
+(65) Hearing the sound of “Hari” nearby, Prakāśānanda came out of curiosity to see, bringing his disciples with him.
 
 দেখিয়া প্রভুর নৃত্য, প্রেম, দেহের মাধুরী ৷  
 শিষ্যগণ-সঙ্গে সেই বলে ‘হরি’ ‘হরি’ ॥ ৬৬ ॥
 
 dekhiyā prabhura nṛtya, prema, dehera mādhurī  
-śiṣya-gaṇa-saṅge sei bale ‘hari’ ‘hari’
+seeing  the Lord’s  dance  love  of the body  the sweetness  
+śiṣya-gaṇa-saṅge sei bale ‘hari’ ‘hari’  
+with his disciples  together  he  says  ‘Hari’  ‘Hari’
 
-(66) [not yet translated]
+(66) Seeing the Lord’s dance, His love and the sweetness of His form, he too, with his disciples, called out, “Hari! Hari!”
 
 হর্ষ, দৈন্য, চাপল্যাদি ‘সঞ্চারী’ বিকার ৷  
 দেখি’ কাশীবাসী লোকের হৈল চমৎকার ॥ ৬৭ ॥
 
 harṣa, dainya, cāpalyādi ‘sañcārī’ vikāra  
-dekhi’ kāśī-vāsī lokera haila camatkāra
+joy  humility  restlessness and others  sañcārī  transformations  
+dekhi’ kāśī-vāsī lokera haila camatkāra  
+seeing  of Kāśī  the residents  of the people  there was  amazement
 
-(67) [not yet translated]
+(67) Seeing joy, humility, restlessness and the other transient emotions (*sañcārī*) transforming Him, the people of Kāśī were amazed.
 
 লোকসংঘট্ট দেখি’ প্রভুর ‘বাহ্য’ যবে হৈল ৷  
 সন্ন্যাসীর গণ দেখি’ নৃত্য সম্বরিল ॥ ৬৮ ॥
 
 loka-saṅghaṭṭa dekhi’ prabhura ‘bāhya’ yabe haila  
-sannyāsīra gaṇa dekhi’ nṛtya samvarila
+of people  the crowds  seeing  the Lord’s  outer awareness  when  came  
+sannyāsīra gaṇa dekhi’ nṛtya samvarila  
+of the sannyāsīs  the host  seeing  the dance  He restrained
 
-(68) [not yet translated]
+(68) When the Lord returned to outer awareness and saw the crowds of people and the *sannyāsīs*, He checked His dancing.
 
 প্রকাশানন্দের প্রভু বন্দিলা চরণ ৷  
 প্রকাশানন্দ আসি’ তাঁর ধরিল চরণ ॥ ৬৯ ॥
 
 prakāśānandera prabhu vandilā caraṇa  
-prakāśānanda āsi’ tāṅra dharila caraṇa
+Prakāśānanda’s  the Lord  honoured  feet  
+prakāśānanda āsi’ tāṅra dharila caraṇa  
+Prakāśānanda  coming forward  His  clasped  feet
 
-(69) [not yet translated]
+(69) The Lord honoured Prakāśānanda’s feet, and Prakāśānanda came forward and clasped the Lord’s feet.
 
 প্রভু কহে, — তুমি জগদ্গুরু পূজ্যতম ৷  
 আমি তোমার না হই ‘শিষ্যের শিষ্য’ সম ॥ ৭০ ॥
 
 prabhu kahe, — tumi jagad-guru pūjyatama  
-āmi tomāra nā hai ‘śiṣyera śiṣya’ sama
+the Lord  says  you  the guru of the world  most worshipful  
+āmi tomāra nā hai ‘śiṣyera śiṣya’ sama  
+I  your  not  am  of a disciple  a disciple  equal to
 
-(70) [not yet translated]
+(70) The Lord said, “You are the guru of the world, most worthy of worship. I am not equal even to a disciple of your disciple.
 
 শ্রেষ্ঠ হঞা কেনে কর হীনের বন্দন ৷  
 আমার সর্ব্বনাশ হয়, তুমি ব্রহ্ম-সম ॥ ৭১ ॥
 
 śreṣṭha hañā kene kara hīnera vandana  
-āmāra sarva-nāśa haya, tumi brahma-sama
+superior  being  why  do you make  to an inferior  obeisance  
+āmāra sarva-nāśa haya, tumi brahma-sama  
+My  total ruin  it is  you  to Brahman  equal
 
-(71) [not yet translated]
+(71) Why should you, who are superior, honour one who is inferior? It is My total ruin, for you are like Brahman.
 
 যদ্যপি তোমার সব ব্রহ্ম-সম ভাস ৷  
 লোকশিক্ষা লাগি’ এমত করিতে না আইস ॥ ৭২ ॥
 
 yadyapi tomāra saba brahma-sama bhāsa  
-loka-śikṣā lāgi’ emata karite nā āisa
+although  to you  everything  to Brahman  equal  appears  
+loka-śikṣā lāgi’ emata karite nā āisa  
+of people  the teaching  for the sake  thus  to do  not  you should come
 
-(72) [not yet translated]
+(72) Although to you everything appears as Brahman, for the sake of teaching the people you should not act in this way.”
 
 তেঁহো কহে, — তোমার নিন্দা পূর্ব্বে যে করিল ৷  
 তোমার চরণ-স্পর্শে, সব ক্ষয় গেল ॥ ৭৩ ॥
 
 teṅho kahe, — tomāra nindā pūrve ye karila  
-tomāra caraṇa-sparśe, saba kṣaya gela
+he  says  Your  blasphemy  before  which  I did  
+tomāra caraṇa-sparśe, saba kṣaya gela  
+of Your  feet  by the touch  all  destroyed  has gone
 
-(73) [not yet translated]
+(73) He said, “The blasphemy of You that I committed before has all been destroyed by the touch of Your feet.”
 
 জীবন্মুক্তা অপি পুনর্যান্তি সংসারবাসনাম্ ৷  
 যদ্যচিন্ত্যমহাশক্তৌ ভগবত্যপরাধিনঃ ॥ ৭৪ ॥
 
 jīvan-muktā api punar  
+liberated in this life  even  again  
 yānti saṁsāra-vāsanām  
+go  to worldly  desires  
 yady acintya-mahā-śaktau  
-bhagavaty aparādhinaḥ
+if  toward the possessor of inconceivable great potencies  
+bhagavaty aparādhinaḥ  
+toward Bhagavān  offenders
 
-(74) [not yet translated]
+(74) “Even those liberated in this life fall back into worldly desires if they offend Bhagavān, whose potencies are great and inconceivable.” (a saying of the *Pariśiṣṭa*, quoted in the *Vāsanā-bhāṣya*)
 
 স বৈ ভগবতঃ শ্রীমৎপাদস্পর্শহতাশুভঃ ৷  
 ভেজে সর্পবপুর্হিত্বা রূপং বিদ্যাধরার্চ্চিতম্ ॥ ৭৫ ॥
 
 sa vai bhagavataḥ śrīmat-  
+he  indeed  of Bhagavān  beautiful  
 pāda-sparśa-hatāśubhaḥ  
+by the touch of the feet  his evil destroyed  
 bheje sarpa-vapur hitvā  
-rūpaṁ vidyādharārcitam
+took  the serpent’s  body  leaving  
+rūpaṁ vidyādharārcitam  
+the form  honoured by the Vidyādharas
 
-(75) [not yet translated]
+(75) “His sins destroyed by the touch of the Lord’s beautiful feet, he gave up his serpent’s body and took the form honoured by the Vidyādharas.” (Śrīmad-Bhāgavatam, 10.34.9)
 
 প্রভু কহে, — ‘বিষ্ণু’ ‘বিষ্ণু’, আমি ক্ষুদ্র জীব হীন ৷  
 জীবে ‘বিষ্ণু’ মানি — এই অপরাধ-চিহ্ন ॥ ৭৬ ॥
 
 prabhu kahe, — ‘viṣṇu’ ‘viṣṇu’, āmi kṣudra jīva hīna  
-jīve ‘viṣṇu’ māni — ei aparādha-cihna
+the Lord  says  ‘Viṣṇu’  ‘Viṣṇu’  I  a tiny  jīva  lowly  
+jīve ‘viṣṇu’ māni — ei aparādha-cihna  
+a jīva  as Viṣṇu  to regard  this  of offence  the mark
 
-(76) [not yet translated]
+(76) The Lord said, “Viṣṇu! Viṣṇu! I am a tiny, lowly *jīva*. To regard a *jīva* as Viṣṇu is the mark of an offender.
 
 জীবে ‘বিষ্ণু’ বুদ্ধি করে, — যেই ব্রহ্মা-রুদ্র-সম ৷  
 নারায়ণে মানে, তার ‘পাষণ্ডে’ গণন ॥ ৭৭ ॥
 
 jīve ‘viṣṇu’ buddhi kare, — yei brahmā-rudra-sama  
-nārāyaṇe māne tāra ‘pāṣaṇḍe’ gaṇana
+in a jīva  ‘Viṣṇu’  the idea  makes  who  to Brahmā and Rudra  equal  
+nārāyaṇe māne tāra ‘pāṣaṇḍe’ gaṇana  
+Nārāyaṇa  regards  of him  among the pāṣaṇḍīs  reckoning
 
-(77) [not yet translated]
+(77) One who thinks a *jīva* to be Viṣṇu, and one who regards Nārāyaṇa as equal to Brahmā and Rudra, are counted among the *pāṣaṇḍīs*.”
 
 যস্তু নারায়ণং দেবং ব্রহ্মরুদ্রাদিদৈবতৈঃ ৷  
 সমত্বেনৈব বীক্ষেত স পাষণ্ডী ভবেদ্ধ্রুবম্ ॥ ৭৮ ॥
 
 yas tu nārāyaṇaṁ devaṁ  
+who  but  Nārāyaṇa  the Lord  
 brahma-rudrādi-daivataiḥ  
+with Brahmā, Rudra and other  gods  
 samatvenaiva vīkṣeta  
-sa pāṣaṇḍī bhaved dhruvam
+as equal  indeed  sees  
+sa pāṣaṇḍī bhaved dhruvam  
+he  a pāṣaṇḍī  becomes  surely
 
-(78) [not yet translated]
+(78) “One who looks upon the Lord Nārāyaṇa as equal to Brahmā, Rudra and the other gods is surely a *pāṣaṇḍī*.” (Vaiṣṇava-tantra)
 
 প্রকাশানন্দ কহে, — তুমি সাক্ষাৎ ভগবান্ ৷  
 তবু যদি কর তাঁর ‘দাস’-অভিমান ॥ ৭৯ ॥
 
 prakāśānanda kahe, — tumi sākṣāt bhagavān  
-tabu yadi kara tāṅra ‘dāsa’ abhimāna
+Prakāśānanda  says  You  directly  Bhagavān  
+tabu yadi kara tāṅra ‘dāsa’ abhimāna  
+still  if  You make  His  servant  self-conception
 
-(79) [not yet translated]
+(79) Prakāśānanda said, “You are Bhagavān Himself. Even so, if You think of Yourself as His servant,
 
 তবু পূজ্য হও তুমি আমা সবা-হৈতে ৷  
 সর্ব্বনাশ হয় মোর তোমার নিন্দাতে ॥ ৮০ ॥
 
 tabu pūjya hao tumi āmā sabā-haite  
-sarva-nāśa haya mora tomāra nindāte
+still  worshipful  are  You  than us  all  
+sarva-nāśa haya mora tomāra nindāte  
+total ruin  is  my  of You  by blasphemy
 
-(80) [not yet translated]
+(80) You are still more worthy of worship than all of us. Blaspheming You has brought me total ruin.
 
 মুক্তানামপি সিদ্ধানাং নারায়ণপরায়ণঃ ৷  
 সুদুর্ল্লভঃ প্রশান্তাত্মা কোটিষ্বপি মহামুনে ॥ ৮১ ॥
 
 muktānām api siddhānāṁ  
+of the liberated  even  of the perfected  
 nārāyaṇa-parāyaṇaḥ  
+Nārāyaṇa  devoted to  
 su-durlabhaḥ praśāntātmā  
-koṭiṣv api mahā-mune
+very rare  of peaceful mind  
+koṭiṣv api mahā-mune  
+among millions  even  O great sage
 
-(81) [not yet translated]
+(81) “O great sage, even among millions of the liberated and the perfected, one devoted to Nārāyaṇa, whose mind is at peace, is very rare.” (Śrīmad-Bhāgavatam, 6.14.5)
 
 আয়ুঃ শ্রিয়ং যশো ধর্ম্মং লোকানাশিষ এব চ ৷  
 হন্তি শ্রেয়াংসি সর্ব্বাণি পুংসো মহদতিক্রমঃ ॥ ৮২ ॥
 
 āyuḥ śriyaṁ yaśo dharmaṁ  
+life  fortune  fame  dharma  
 lokān āśiṣa eva ca  
+the higher worlds  blessings  also  and  
 hanti śreyāṁsi sarvāṇi  
-puṁso mahad-atikramaḥ
+destroys  benefits  all  
+puṁso mahad-atikramaḥ  
+of a man  offence against the great
 
-(82) [not yet translated]
+(82) “Offence against great souls destroys a man’s life, fortune, fame and *dharma*, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)
 
 নৈষাং মতিস্তাবদুরুক্রমাঙ্ঘ্রিং  
 স্পৃশত্যনর্থাপগমো যদর্থঃ ৷  
@@ -838,67 +892,85 @@ puṁso mahad-atikramaḥ
 নিষ্কিঞ্চনানাং ন বৃণীত যাবৎ ॥ ৮৩ ॥
 
 naiṣāṁ matis tāvad urukramāṅghriṁ  
+not  their  mind  so long  Urukrama’s feet  
 spṛśaty anarthāpagamo yad-arthaḥ  
+touches  the removal of anarthas  whose purpose  
 mahīyasāṁ pāda-rajo-‘bhiṣekaṁ  
-niṣkiñcanānāṁ na vṛṇīta yāvat
+of the great  bathing in the dust of the feet  
+niṣkiñcanānāṁ na vṛṇīta yāvat  
+of those who own nothing  not  accepts  as long as
 
-(83) [not yet translated]
+(83) “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)
 
 এবে তোমার পাদাব্জে উপজিবে ভক্তি ৷  
 তথি লাগি’ করি তোমার চরণে প্রণতি ॥ ৮৪ ॥
 
 ebe tomāra pādābje upajibe bhakti  
-tathi lāgi’ kari tomāra caraṇe praṇati
+now  for Your  lotus feet  will arise  devotion  
+tathi lāgi’ kari tomāra caraṇe praṇati  
+for that  sake  I make  at Your  feet  obeisance
 
-(84) [not yet translated]
+(84) Now devotion to Your lotus feet will arise in me; for that I bow down at Your feet.”
 
 এত বলি’ প্রভুরে লঞা তথায় বসিল ৷  
 প্রভুরে প্রকাশানন্দ পুছিতে লাগিল ॥ ৮৫ ॥
 
 eta bali’ prabhure lañā tathāya vasila  
-prabhure prakāśānanda puchite lāgila
+so  saying  the Lord  taking  there  he sat  
+prabhure prakāśānanda puchite lāgila  
+the Lord  Prakāśānanda  to question  began
 
-(85) [not yet translated]
+(85) Having said this, he sat down there with the Lord, and Prakāśānanda began to question Him:
 
 মায়াবাদে করিলা যত দোষের আখ্যান ৷  
 সবে এই জানি’ আচার্য্যের কল্পিত ব্যাখ্যান ॥ ৮৬ ॥
 
 māyāvāde karilā yata doṣera ākhyāna  
-sabe ei jāni’ ācāryera kalpita vyākhyāna
+in Māyāvāda  You made  all  of the faults  the exposition  
+sabe ei jāni’ ācāryera kalpita vyākhyāna  
+all  this  know  the Ācārya’s  imagined  interpretation
 
-(86) [not yet translated]
+(86) “All the faults You have shown in Māyāvāda — we all know them to come from the Ācārya’s imagined interpretation.
 
 সূত্রের করিলা তুমি মুখ্যার্থ-বিবরণ ৷  
 তাহা শুনি’ সবার হৈল চমৎকার মন ॥ ৮৭ ॥
 
 sūtrera karilā tumi mukhyārtha-vivaraṇa  
-tāhā śuni’ sabāra haila camatkāra mana
+of the sūtras  made  You  the explanation of the primary meaning  
+tāhā śuni’ sabāra haila camatkāra mana  
+that  hearing  of all  became  amazed  the mind
 
-(87) [not yet translated]
+(87) You have explained the primary meaning of the *sūtras*, and hearing it, everyone’s mind was filled with wonder.
 
 তুমি ত’ ঈশ্বর, তোমার আছে সর্ব্বশক্তি ৷  
 সংক্ষেপরূপে কহ তুমি, শুনিতে হয় মতি ॥ ৮৮ ॥
 
 tumi ta’ īśvara, tomāra āche sarva-śakti  
-saṅkṣepa-rūpe kaha tumi, śunite haya mati
+You  indeed  Īśvara  Your  are  all  potencies  
+saṅkṣepa-rūpe kaha tumi, śunite haya mati  
+in brief  form  tell  You  to hear  there is  the wish
 
-(88) [not yet translated]
+(88) You are Īśvara; all potencies are Yours. Please tell it briefly — I wish to hear it.”
 
 প্রভু কহে, — আমি ‘জীব’, অতি তুচ্ছ জ্ঞান !  
 ব্যাসসূত্রের গম্ভীর অর্থ, ব্যাস — ভগবান্ ॥ ৮৯ ॥
 
 prabhu kahe, — āmi ‘jīva’, ati tuccha jñāna!  
-vyāsa-sūtrera gambhīra artha, vyāsa — bhagavān
+the Lord  says  I  a jīva  very  meagre  knowledge  
+vyāsa-sūtrera gambhīra artha, vyāsa — bhagavān  
+of the Vyāsa-sūtra  deep  the meaning  Vyāsa  is Bhagavān
 
-(89) [not yet translated]
+(89) The Lord said, “I am a *jīva*, and My knowledge is very meagre. The meaning of the *Vyāsa-sūtra* is deep, and Vyāsa is Bhagavān.
 
 তাঁর সূত্রের অর্থ কোন জীব নাহি জানে ৷  
 অতএব আপনে সূত্রার্থ কৈরাছে ব্যাখ্যানে ॥ ৯০ ॥
 
 tāṅra sūtrera artha kona jīva nāhi jāne  
-ataeva āpane sūtrārtha kairāche vyākhyāne
+his  of the sūtras  the meaning  any  jīva  not  knows  
+ataeva āpane sūtrārtha kairāche vyākhyāne  
+therefore  himself  the meaning of the sūtras  has made  in explanation
 
-(90) [not yet translated]
+(90) No *jīva* knows the meaning of his *sūtras*; therefore he himself has explained their meaning.
 
 যেই সূত্রকর্ত্তা, সে যদি করয়ে ব্যাখ্যান ৷  
 তবে সূত্রের মূল অর্থ লোকের হয় জ্ঞান ॥ ৯১ ॥
