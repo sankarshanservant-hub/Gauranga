@@ -1999,321 +1999,401 @@ with himself  taking  the twelve  forests  showed
 শীঘ্র চলি’ আইলা সনাতনানুসন্ধানে ॥ ২০১ ॥
 
 māsa-mātra rūpa-gosāñi rahilā vṛndāvane  
-śīghra cali’ āilā sanātanānusandhāne
+a month  only  Rūpa Gosāñi  stayed  in Vṛndāvana  
+śīghra cali’ āilā sanātanānusandhāne  
+quickly  setting out  came  in search of Sanātana
 
-(201) [not yet translated]
+(201) Rūpa Gosāñi stayed in Vṛndāvana only a month; then he quickly set out in search of Sanātana.
 
 গঙ্গাতীর-পথে প্রভু প্রয়াগেরে আইলা ৷  
 তাহা শুনি’ দুইভাই সে পথে চলিলা ॥ ২০২ ॥
 
 gaṅgā-tīra-pathe prabhu prayāgere āilā  
-tāhā śuni’ dui bhāi se pathe calilā
+by the Gaṅgā  bank  path  the Lord  to Prayāga  came  
+tāhā śuni’ dui bhāi se pathe calilā  
+that  hearing  the two  brothers  by that  path  went
 
-(202) [not yet translated]
+(202) The Lord had come to Prayāga by the path along the bank of the Gaṅgā; hearing this, the two brothers went by that same path.
 
 এথা সনাতন গোসাঞি প্রয়াগে আসিয়া ৷  
 মথুরা আইলা সনাতন রাজপথ দিয়া ॥ ২০৩ ॥
 
 ethā sanātana gosāñi prayāge āsiyā  
-mathurā āilā sanātana rāja-patha diyā
+meanwhile  Sanātana  Gosāñi  to Prayāga  coming  
+mathurā āilā sanātana rāja-patha diyā  
+to Mathurā  came  Sanātana  the royal road  by
 
-(203) [not yet translated]
+(203) Meanwhile Sanātana Gosāñi, having come to Prayāga, went on to Mathurā by the royal road.
 
 মথুরাতে সুবুদ্ধি-রায় তাঁহারে মিলিলা ৷  
 রূপ-অনুপম-কথা সকলি কহিলা ॥ ২০৪ ॥
 
 mathurāte subuddhi-rāya tāṅhāre mililā  
-rūpa-anupama-kathā sakali kahilā
+in Mathurā  Subuddhi Rāya  him  met  
+rūpa-anupama-kathā sakali kahilā  
+of Rūpa and Anupama  the news  all  told
 
-(204) [not yet translated]
+(204) In Mathurā Subuddhi Rāya met him and told him all the news of Rūpa and Anupama.
 
 গঙ্গাপথে দুইভাই রাজপথে সনাতন ৷  
 অতএব তাঁহা সনে না হৈল মিলন ॥ ২০৫ ॥
 
 gaṅgā-pathe dui bhāi rāja-pathe sanātana  
-ataeva tāṅhā sane nā haila milana
+by the Gaṅgā path  the two  brothers  by the royal road  Sanātana  
+ataeva tāṅhā sane nā haila milana  
+therefore  with them  together  not  took place  meeting
 
-(205) [not yet translated]
+(205) The two brothers went by the Gaṅgā path and Sanātana by the royal road; that is why he did not meet them.
 
 সুবুদ্ধি-রায় বহু স্নেহ করে সনাতনে ৷  
 ব্যবহার-স্নেহ সনাতন নাহি মানে ॥ ২০৬ ॥
 
 subuddhi-rāya bahu sneha kare sanātane  
-vyavahāra-sneha sanātana nāhi māne
+Subuddhi Rāya  much  affection  shows  to Sanātana  
+vyavahāra-sneha sanātana nāhi māne  
+of worldly relations  affection  Sanātana  not  accepts
 
-(206) [not yet translated]
+(206) Subuddhi Rāya showed Sanātana great affection, but Sanātana would not accept an affection rooted in worldly relationships (*vyavahāra-sneha*).
 
 মহা-বিরক্ত সনাতন ভ্রমেন বনে বনে ৷  
 প্রতিবৃক্ষে, প্রতিকুঞ্জে রহে রাত্রি-দিনে ॥ ২০৭ ॥
 
 mahā-virakta sanātana bhramena vane vane  
-prati-vṛkṣe, prati-kuñje rahe rātri-dine
+greatly  renounced  Sanātana  wanders  in forest  after forest  
+prati-vṛkṣe, prati-kuñje rahe rātri-dine  
+under every tree  in every grove  stays  night and day
 
-(207) [not yet translated]
+(207) Supremely renounced, Sanātana wandered from forest to forest, staying night and day now under one tree, now in another grove.
 
 মথুরামাহাত্ম্য-শাস্ত্র সংগ্রহ করিয়া ৷  
 লুপ্ততীর্থ প্রকট কৈলা বনেতে ভ্রমিয়া ॥ ২০৮ ॥
 
 mathurā-māhātmya-śāstra saṅgraha kariyā  
-lupta-tīrtha prakaṭa kailā vanete bhramiyā
+on the glory of Mathurā  of scriptures  collection  making  
+lupta-tīrtha prakaṭa kailā vanete bhramiyā  
+lost  holy places  manifest  made  in the forests  wandering
 
-(208) [not yet translated]
+(208) He collected the scriptures on the glories of Mathurā and, wandering through the forests, brought the lost holy places to light.
 
 এইমত সনাতন বৃন্দাবনেতে রহিলা ৷  
 রূপ-গোসাঞি দুইভাই কাশীতে আইলা ॥ ২০৯ ॥
 
 ei mata sanātana vṛndāvanete rahilā  
-rūpa-gosāñi dui bhāi kāśīte āilā
+in this way  Sanātana  in Vṛndāvana  stayed  
+rūpa-gosāñi dui bhāi kāśīte āilā  
+Rūpa Gosāñi  the two  brothers  to Kāśī  came
 
-(209) [not yet translated]
+(209) Thus Sanātana stayed in Vṛndāvana, while the two brothers, Rūpa Gosāñi and Anupama, came to Kāśī.
 
 মহারাষ্ট্রীয় দ্বিজ, শেখর, মিশ্রতপন ৷  
 তিনজন-সহ রূপ করিলা মিলন ॥ ২১০ ॥
 
 mahārāṣṭrīya dvija, śekhara, miśra-tapana  
-tina-jana-saha rūpa karilā milana
+the Mahārāṣṭrian  brāhmaṇa  Śekhara  Tapana Miśra  
+tina-jana-saha rūpa karilā milana  
+with three  persons  Rūpa  made  meeting
 
-(210) [not yet translated]
+(210) There Rūpa met the three — the brāhmaṇa from Mahārāṣṭra, Candraśekhara and Tapana Miśra.
 
 শেখরের ঘরে বাসা, মিশ্র ঘরে ভিক্ষা ৷  
 মিশ্রমুখে শুনে সনাতনে প্রভুর ‘শিক্ষা’ ॥ ২১১ ॥
 
 śekharera ghare vāsā, miśra ghare bhikṣā  
-miśra-mukhe śune sanātane prabhura ‘śikṣā’
+in Śekhara’s  house  lodging  in Miśra’s  house  meals  
+miśra-mukhe śune sanātane prabhura ‘śikṣā’  
+from Miśra’s mouth  hears  to Sanātana  the Lord’s  teachings
 
-(211) [not yet translated]
+(211) He lodged in Candraśekhara’s house and took his meals in Miśra’s house, and from Miśra he heard the teachings the Lord had given Sanātana.
 
 কাশীতে প্রভুর চরিত্র শুনি’ তিনের মুখে ৷  
 সন্ন্যাসীরে কৃপা শুনি’ পাইলা বড় সুখে ॥ ২১২ ॥
 
 kāśīte prabhura caritra śuni’ tinera mukhe  
-sannyāsīre kṛpā śuni’ pāilā baḍa sukhe
+in Kāśī  the Lord’s  deeds  hearing  of the three  from the mouths  
+sannyāsīre kṛpā śuni’ pāilā baḍa sukhe  
+to the sannyāsīs  mercy  hearing  he felt  great  happiness
 
-(212) [not yet translated]
+(212) Hearing from the three about the Lord’s deeds in Kāśī, and of His mercy to the *sannyāsīs*, he was overjoyed.
 
 মহাপ্রভুর উপর লোকের প্রণতি দেখিয়া ৷  
 সুখী হৈলা লোকমুখে কীর্ত্তন শুনিয়া ॥ ২১৩ ॥
 
 mahāprabhura upara lokera praṇati dekhiyā  
-sukhī hailā loka-mukhe kīrtana śuniyā
+toward Mahāprabhu  of the people  reverence  seeing  
+sukhī hailā loka-mukhe kīrtana śuniyā  
+happy  became  from the people’s mouths  kīrtana  hearing
 
-(213) [not yet translated]
+(213) Seeing the people’s reverence for Mahāprabhu and hearing *kīrtana* from their lips, he rejoiced.
 
 দিন দশ রহি’ রূপ গৌড়ে যাত্রা কৈল ৷  
 সনাতন-রূপের এই চরিত্র কহিল ॥ ২১৪ ॥
 
 dina daśa rahi’ rūpa gauḍe yātrā kaila  
-sanātana-rūpera ei caritra kahila
+days  ten  staying  Rūpa  to Gauḍa  journey  made  
+sanātana-rūpera ei caritra kahila  
+of Sanātana and Rūpa  this  account  I have told
 
-(214) [not yet translated]
+(214) After staying ten days, Rūpa set out for Gauḍa. Thus I have told the story of Sanātana and Rūpa.
 
 এথা মহাপ্রভু যদি নীলাদ্রি চলিলা ৷  
 নির্জ্জন বনপথে মহা-সুখ পাইলা ॥ ২১৫ ॥
 
 ethā mahāprabhu yadi nīlādri calilā  
-nirjana vana-pathe mahā-sukha pāilā
+meanwhile  Mahāprabhu  when  to Nīlādri  went  
+nirjana vana-pathe mahā-sukha pāilā  
+on the solitary  forest path  great  happiness  He felt
 
-(215) [not yet translated]
+(215) Meanwhile, as Mahāprabhu went toward Nīlādri, He felt great joy on the solitary forest path.
 
 সুখে চলি’ আইসে প্রভু বলভদ্র-সঙ্গে ৷  
 পূর্ব্ববৎ মৃগাদি সঙ্গে কৈলা নানারঙ্গে ॥ ২১৬ ॥
 
 sukhe cali’ āise prabhu balabhadra-saṅge  
-pūrvavat mṛgādi saṅge kailā nānā-raṅge
+happily  walking  comes  the Lord  with Balabhadra  
+pūrvavat mṛgādi saṅge kailā nānā-raṅge  
+as before  with the deer and others  together  made  various  sports
 
-(216) [not yet translated]
+(216) Happily the Lord journeyed on with Balabhadra and, as before, sported in many ways with the deer and other creatures.
 
 আঠারনালাতে আসি’ ভট্টাচার্য্য ব্রাহ্মণে ৷  
 পাঠাঞা বোলাইলা নিজ-ভক্তগণে ॥ ২১৭ ॥
 
 āṭhāranālāte āsi’ bhaṭṭācārya brāhmaṇe  
-pāṭhāñā bolāilā nija-bhakta-gaṇe
+to Āṭhāranālā  coming  the Bhaṭṭācārya  brāhmaṇa  
+pāṭhāñā bolāilā nija-bhakta-gaṇe  
+sending  summoned  His own  devotees
 
-(217) [not yet translated]
+(217) Coming to Āṭhāranālā, He sent the brāhmaṇa Bhaṭṭācārya ahead to call His devotees.
 
 শুনিয়া ভক্তের গণ যেন পুনরপি জীলা ৷  
 দেহে প্রাণ আইলে, — যেন ইন্দ্রিয় উঠিলা ॥ ২১৮ ॥
 
 śuniyā bhaktera gaṇa yena punarapi jīlā  
-dehe prāṇa āile, — yena indriya uṭhilā
+hearing  the devotees  as if  again  came to life  
+dehe prāṇa āile, — yena indriya uṭhilā  
+in the body  life  when it comes  —  as  the senses  rise up
 
-(218) [not yet translated]
+(218) Hearing the news, the devotees seemed to come back to life — as the senses rise up when life returns to the body.
 
 আনন্দে বিহ্বল ভক্তগণ ধাঞা আইলা ৷  
 নরেন্দ্রে আসিয়া সবে প্রভুরে মিলিলা ॥ ২১৯ ॥
 
 ānande vihvala bhakta-gaṇa dhāñā āilā  
-narendre āsiyā sabe prabhure mililā
+with bliss  overwhelmed  the devotees  running  came  
+narendre āsiyā sabe prabhure mililā  
+to Narendra  coming  all  the Lord  met
 
-(219) [not yet translated]
+(219) Overwhelmed with bliss, the devotees came running; at Narendra lake they all met the Lord.
 
 পুরী-ভারতীর প্রভু বন্দিলেন চরণ ৷  
 দোঁহে মহাপ্রভুরে কৈলা প্রেম-আলিঙ্গন ॥ ২২০ ॥
 
 purī-bhāratīra prabhu vandilena caraṇa  
-doṅhe mahāprabhure kailā prema-āliṅgana
+of Purī and Bhāratī  the Lord  honoured  the feet  
+doṅhe mahāprabhure kailā prema-āliṅgana  
+both  Mahāprabhu  gave  loving  embraces
 
-(220) [not yet translated]
+(220) The Lord bowed at the feet of Purī and Bhāratī, and both of them embraced Mahāprabhu with love.
 
 দামোদর-স্বরূপ, পণ্ডিত গদাধর ৷  
 জগদানন্দ, কাশীশ্বর, গোবিন্দ, বক্রেশ্বর ॥ ২২১ ॥
 
 dāmodara-svarūpa, paṇḍita gadādhara  
-jagadānanda, kāśīśvara, govinda, vakreśvara
+Svarūpa Dāmodara  Paṇḍita  Gadādhara  
+jagadānanda, kāśīśvara, govinda, vakreśvara  
+Jagadānanda  Kāśīśvara  Govinda  Vakreśvara
 
-(221) [not yet translated]
+(221) Svarūpa Dāmodara, Gadādhara Paṇḍita, Jagadānanda, Kāśīśvara, Govinda, Vakreśvara,
 
 কাশী-মিশ্র, প্রদ্যুম্ন মিশ্র, পণ্ডিত-দামোদর ৷  
 হরিদাস-ঠাকুর, আর পণ্ডিত-শঙ্কর ॥ ২২২ ॥
 
 kāśī-miśra, pradyumna miśra, paṇḍita-dāmodara  
-haridāsa-ṭhākura, āra paṇḍita-śaṅkara
+Kāśī Miśra  Pradyumna  Miśra  Dāmodara Paṇḍita  
+haridāsa-ṭhākura, āra paṇḍita-śaṅkara  
+Haridāsa Ṭhākura  and  Śaṅkara Paṇḍita
 
-(222) [not yet translated]
+(222) Kāśī Miśra, Pradyumna Miśra, Dāmodara Paṇḍita, Haridāsa Ṭhākura and Śaṅkara Paṇḍita —
 
 আর সব ভক্ত প্রভুর চরণে পড়িলা ৷  
 সবা আলিঙ্গিয়া প্রভু প্রেমাবিষ্ট হৈলা ॥ ২২৩ ॥
 
 āra saba bhakta prabhura caraṇe paḍilā  
-sabā āliṅgiyā prabhu premāviṣṭa hailā
+and  all  devotees  of the Lord  at the feet  fell  
+sabā āliṅgiyā prabhu premāviṣṭa hailā  
+all  embracing  the Lord  overwhelmed with love  became
 
-(223) [not yet translated]
+(223) these and all the other devotees fell at the Lord’s feet, and the Lord, embracing them all, was overwhelmed with love.
 
 আনন্দ-সমুদ্রে ভাসে সব ভক্তগণে ৷  
 সবা লঞা চলে প্রভু জগন্নাথ-দরশনে ॥ ২২৪ ॥
 
 ānanda-samudre bhāse saba bhakta-gaṇe  
-sabā lañā cale prabhu jagannātha-daraśane
+in the ocean of bliss  float  all  the devotees  
+sabā lañā cale prabhu jagannātha-daraśane  
+all  taking  goes  the Lord  for darśana of Jagannātha
 
-(224) [not yet translated]
+(224) All the devotees floated in an ocean of bliss. Taking them all with Him, the Lord went to see Jagannātha.
 
 জগন্নাথ দেখি’ প্রভু প্রেমাবিষ্ট হৈলা ৷  
 ভক্ত-সঙ্গে বহুক্ষণ নৃত্য-গীত কৈলা ॥ ২২৫ ॥
 
 jagannātha dekhi’ prabhu premāviṣṭa hailā  
-bhakta-saṅge bahu-kṣaṇa nṛtya-gīta kailā
+Jagannātha  seeing  the Lord  overwhelmed with love  became  
+bhakta-saṅge bahu-kṣaṇa nṛtya-gīta kailā  
+with the devotees  for a long time  dancing and singing  did
 
-(225) [not yet translated]
+(225) Seeing Jagannātha, the Lord was overwhelmed with love, and for a long time He danced and sang with the devotees.
 
 জগন্নাথ-সেবক আনি’ মালা-প্রসাদ দিলা ৷  
 তুলসী-পড়িছা আসি’ চরণ বন্দিলা ॥ ২২৬ ॥
 
 jagannātha-sevaka āni’ mālā-prasāda dilā  
-tulasī-paḍichā āsi’ caraṇa vandilā
+Jagannātha’s  servants  bringing  garland and prasāda  gave  
+tulasī-paḍichā āsi’ caraṇa vandilā  
+Tulasī the paḍichā  coming  the feet  honoured
 
-(226) [not yet translated]
+(226) Jagannātha’s servants brought garlands and *prasāda* and gave them to Him, and Tulasī, the *paḍichā*, came and bowed at His feet.
 
 মহাপ্রভু আইলা — গ্রামে কোলাহল হৈল ৷  
 সার্ব্বভৌম, রামানন্দ, বাণীনাথ মিলিল ॥ ২২৭ ॥
 
 mahāprabhu āilā — grāme kolāhala haila  
-sārvabhauma, rāmānanda, vāṇīnātha milila
+Mahāprabhu  has come  in the town  an uproar  arose  
+sārvabhauma, rāmānanda, vāṇīnātha milila  
+Sārvabhauma  Rāmānanda  Vāṇīnātha  met (Him)
 
-(227) [not yet translated]
+(227) “Mahāprabhu has come!” — the town was in an uproar, and Sārvabhauma, Rāmānanda and Vāṇīnātha came to meet Him.
 
 সবা সঙ্গে লঞা প্রভু মিশ্র-বাসা আইলা ৷  
 সার্ব্বভৌম-পণ্ডিত গোসাঞিরে নিমন্ত্রণ কৈলা ॥ ২২৮ ॥
 
 sabā saṅge lañā prabhu miśra-vāsā āilā  
-sārvabhauma-paṇḍita gosāñire nimantraṇa kailā
+all  with  taking  the Lord  to the residence at Miśra’s  came  
+sārvabhauma-paṇḍita gosāñire nimantraṇa kailā  
+Sārvabhauma and the Paṇḍita  the Gosāñi  invitation  made
 
-(228) [not yet translated]
+(228) Taking everyone with Him, the Lord came to His residence at Kāśī Miśra’s house, and Sārvabhauma and Gadādhara Paṇḍita invited Him to a meal.
 
 প্রভু কহে, — মহাপ্রসাদ আন এই স্থানে ৷  
 সবা-সঙ্গে ইঁহা আজি করিমু ভোজনে ॥ ২২৯ ॥
 
 prabhu kahe, — mahā-prasāda āna ei sthāne  
-sabā-saṅge iṅhā āji karimu bhojane
+the Lord  says  —  mahā-prasāda  bring  to this  place  
+sabā-saṅge iṅhā āji karimu bhojane  
+with all  here  today  I shall take  my meal
 
-(229) [not yet translated]
+(229) The Lord said, “Bring the *mahā-prasāda* here: today I shall eat here with everyone.”
 
 তবে দুঁহে জগন্নাথপ্রসাদ আনিলা ৷  
 সবা-সঙ্গে মহাপ্রভু ভোজন করিলা ॥ ২৩০ ॥
 
 tabe duṅhe jagannātha-prasāda ānilā  
-sabā-saṅge mahāprabhu bhojana karilā
+then  both  Jagannātha’s  prasāda  brought  
+sabā-saṅge mahāprabhu bhojana karilā  
+with all  Mahāprabhu  meal  took
 
-(230) [not yet translated]
+(230) Then the two of them brought Jagannātha’s *prasāda*, and Mahāprabhu ate with everyone.
 
 এই ত’ কহিলুঁ, — প্রভু দেখি’ বৃন্দাবন ৷  
 পুনঃ করিলেন যৈছে নীলাদ্রি-গমন ॥ ২৩১ ॥
 
 ei ta’ kahiluṅ, — prabhu dekhi’ vṛndāvana  
-punaḥ karilena yaiche nīlādri-gamana
+thus  I have told  —  the Lord  having seen  Vṛndāvana  
+punaḥ karilena yaiche nīlādri-gamana  
+again  made  how  the journey to Nīlādri
 
-(231) [not yet translated]
+(231) Thus I have told how the Lord, after seeing Vṛndāvana, journeyed back to Nīlādri.
 
 ইহা যেই শ্রদ্ধা করি’ করয়ে শ্রবণ ৷  
 অচিরাৎ পায় সেই চৈতন্য-চরণ ॥ ২৩২ ॥
 
 ihā yei śraddhā kari’ karaye śravaṇa  
-acirāt pāya sei caitanya-caraṇa
+this  whoever  faith  having  does  hearing  
+acirāt pāya sei caitanya-caraṇa  
+soon  attains  he  Caitanya’s  feet
 
-(232) [not yet translated]
+(232) Whoever hears this with faith will soon attain the feet of Caitanya.
 
 মধ্যলীলার করিলুঁ এই দিগ্দরশন ৷  
 ছয় বৎসর কৈলা যৈছে গমনাগমন ॥ ২৩৩ ॥
 
 madhya-līlāra kariluṅ ei dig-daraśana  
-chaya vatsara kailā yaiche gamanāgamana
+of the Madhya-līlā  I have made  this  brief survey  
+chaya vatsara kailā yaiche gamanāgamana  
+six  years  He made  how  goings and comings
 
-(233) [not yet translated]
+(233) Thus I have given a brief survey of the Madhya-līlā — how for six years the Lord travelled away and came back.
 
 শেষ অষ্টাদশ বৎসর নীলাচলে বাস ৷  
 ভক্তগণ-সঙ্গে করে কীর্ত্তন-বিলাস ॥ ২৩৪ ॥
 
 śeṣa aṣṭādaśa vatsara nīlācale vāsa  
-bhakta-gaṇa-saṅge kare kīrtana-vilāsa
+the last  eighteen  years  in Nīlācala  residence  
+bhakta-gaṇa-saṅge kare kīrtana-vilāsa  
+with the devotees  enjoys  the pastimes of kīrtana
 
-(234) [not yet translated]
+(234) The last eighteen years He lived in Nīlācala, enjoying the pastimes of *kīrtana* with His devotees.
 
 মধ্যলীলার ক্রম এবে করি অনুবাদ ৷  
 অনুবাদ কৈলে হয় কথার আস্বাদ ॥ ২৩৫ ॥
 
 madhya-līlāra krama ebe kari anuvāda  
-anuvāda kaile haya kathāra āsvāda
+of the Madhya-līlā  the sequence  now  I make  recapitulation  
+anuvāda kaile haya kathāra āsvāda  
+recapitulation  when made  there is  of the narrative  the relish
 
-(235) [not yet translated]
+(235) Now I shall recapitulate the Madhya-līlā in order, for in recapitulation the narrative is relished anew.
 
 প্রথম পরিচ্ছেদে — শেষলীলার সূত্রগণ ৷  
 তথি-মধ্যে কোন ভাগের বিস্তার বর্ণন ॥ ২৩৬ ॥
 
 prathama paricchede — śeṣa-līlāra sūtra-gaṇa  
-tathi-madhye kona bhāgera vistāra varṇana
+in the first  chapter  —  of the final pastimes  the synopsis  
+tathi-madhye kona bhāgera vistāra varṇana  
+within it  of some  parts  detailed  description
 
-(236) [not yet translated]
+(236) In the First Chapter: a synopsis of the final pastimes, with some parts described in detail.
 
 দ্বিতীয় পরিচ্ছেদে — প্রভুর প্রলাপ-বর্ণন ৷  
 তথি-মধ্যে নানা-ভাবের দিগ্দরশন ॥ ২৩৭ ॥
 
 dvitīya paricchede — prabhura pralāpa-varṇana  
-tathi-madhye nānā-bhāvera dig-daraśana
+in the second  chapter  —  the Lord’s  description of the ecstatic utterances (pralāpa)  
+tathi-madhye nānā-bhāvera dig-daraśana  
+within it  of various  bhāvas  a brief survey
 
-(237) [not yet translated]
+(237) In the Second Chapter: a description of the Lord’s ecstatic utterances (*pralāpa*), with a brief survey of various *bhāvas*.
 
 তৃতীয় পরিচ্ছেদে — প্রভুর কহিলুঁ সন্ন্যাস ৷  
 আচার্য্যের ঘরে যৈছে করিলা বিলাস ॥ ২৩৮ ॥
 
 tṛtīya paricchede — prabhura kahiluṅ sannyāsa  
-ācāryera ghare yaiche karilā vilāsa
+in the third  chapter  —  the Lord’s  I have told  sannyāsa  
+ācāryera ghare yaiche karilā vilāsa  
+in the Ācārya’s  house  how  He enjoyed  pastimes
 
-(238) [not yet translated]
+(238) In the Third Chapter I have told of the Lord’s *sannyāsa* and of His pastimes in the house of the Ācārya.
 
 চতুর্থে মাধব-পুরীর চরিত্র-আস্বাদন ৷  
 গোপাল-স্থাপন, ক্ষীর-চুরীর বর্ণন ॥ ২৩৯ ॥
 
 caturthe mādhava-purīra caritra-āsvādana  
-gopāla-sthāpana, kṣīra-curīra varṇana
+in the fourth  of Mādhava Purī  the relishing of the life  
+gopāla-sthāpana, kṣīra-curīra varṇana  
+the installation of Gopāla  of the theft of the sweet rice  the description
 
-(239) [not yet translated]
+(239) In the Fourth: the relishing of Mādhava Purī’s life, the installation of Gopāla, and the story of the stolen sweet rice (*kṣīra*).
 
 পঞ্চমে — সাক্ষীগোপাল-চরিত্র-বর্ণন ৷  
 নিত্যানন্দ কহে, প্রভু করেন আস্বাদন ॥ ২৪০ ॥
 
 pañcame — sākṣī-gopāla-caritra-varṇana  
-nityānanda kahe, prabhu karena āsvādana
+in the fifth  —  of Sākṣi-gopāla  the story  the description  
+nityānanda kahe, prabhu karena āsvādana  
+Nityānanda  tells  the Lord  does  relishing
 
-(240) [not yet translated]
+(240) In the Fifth: the story of Sākṣi-gopāla, which Nityānanda told and the Lord relished.
 
 ষষ্ঠে — সার্ব্বভৌমের করিলা উদ্ধার ৷  
 সপ্তমে — তীর্থযাত্রা, বাসুদেব-নিস্তার ॥ ২৪১ ॥
