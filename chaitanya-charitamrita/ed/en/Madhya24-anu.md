@@ -226,8 +226,173 @@ On an autumn night flooded with moonlight (*kaumudī*), the young cowherd maiden
 
 > Subheading: (1) The quality that removes the *anarthas* which cover the *jīva*: (a) the destruction of all sufferings —
 
+## 57
+
+> Subheading: Devotion to Kṛṣṇa destroys the three kinds of affliction (*kleśa*): sin, the seed of sin and ignorance (*avidyā*) — (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 14, verse 19)
+
+Śrī Uddhava wished to learn still more deeply about *bhakti-yoga*, the best of all *sādhanas* that lead to the highest good, and Bhagavān says to him:
+
+**he uddhava**, **yathā** **su-samṛddhārciḥ** (one whose flames blaze high) **agniḥ** **edhāṁsi** (firewood) **bhasma-sāt** **karoti** (destroys), **tathā** **mad-viṣayā** **bhaktiḥ** **kṛtsnaśaḥ** (all) **enāṁsi** (sins, both those that have begun to bear fruit [*prārabdha*] and those that have not [*aprārabdha*]) (destroys).
+
+## 58
+
+> Subheading: (b) The destruction of ignorance and *avidyā*; when hearing, *kīrtana* and the rest are performed out of the desire to please Kṛṣṇa, self-luminous, eternally perfect love for Kṛṣṇa dawns in the pure heart —
+
+## 59
+
+> Subheading: (2) He attracts with love the uncovered, pure nature of the *jīva* —
+
+## 60
+
+> Subheading: Hari, or love for Hari, spurns the four goals of life and steals every heart —
+
+Bhagavān Śrī Hari frees the *jīva* from the thirst to attain the four goals of life (*puruṣārthas*) — *dharma*, *artha*, *kāma* and *mokṣa*. He steals everyone's heart and draws them with love to Himself.
+
+## 61
+
+> Subheading: The meanings of (10) the word *ca* and (11) the word *api* —
+
+## 62
+
+> Subheading: The seven meanings of the word *ca* and the seven meanings of the word *api* —
+
+## 63
+
+> Subheading: Where the word *ca* is used; evidence — (*Viśva-prakāśa*) —
+
+## 64
+
+> Subheading: Where the word *api* is used (according to the *Viśva-prakāśa*); evidence —
+
+## 65
+
+> Subheading: So far the meanings of the words have been determined; now, through them, the meaning of the verse is determined —
+
+## 66
+
+> Subheading: First, the explanation of the word *ātmā* within the word *ātmārāma* (1) in the sense of “Brahman” —
+
+## 67
+
+> Subheading: The definition of Brahman; evidence from the *śāstra* — (*Viṣṇu Purāṇa*, Part 1, Chapter 12, verse 57)
+
+(**budhāḥ**, the wise) **bṛhattvāt** (because He pervades everything) **bṛṁhaṇatvāt** **ca** (and because He makes everything grow, or nourishes it) **tat** **paramaṁ** **brahma** **viduḥ** (know); **sarvātman**, **te** (Your) **yogi-cintyāvikāravat** (the form that enchants the wise [*sūris*]) — **tasmai** **namaḥ**.
+
+## 68
+
+> Subheading: The all-pervasiveness (*ātatatva*) contained in the word *ātmā* is itself the nature of Brahman — (a statement of the *tantra* quoted by Śrīdhara Svāmī in his explanation of *Śrīmad-Bhāgavatam*, Canto 11, Chapter 2, verse 45)
+
+**ātatatvāt** (because He pervades everything) **mātṛtvāt** (because He gives birth to everything) **ca** **hariḥ** **hi** **paramaḥ** **ātmā**.
+
+## 69
+
+> Subheading: In its direct sense (*abhidhā-vṛtti*) the word “Brahman” means Bhagavān, the full realization of the Truth —
+
+## 70
+
+> Subheading: Evidence from the *śāstra* — (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 2, verse 11)
+
+## 71
+
+> Subheading: Kṛṣṇa is Bhagavān Himself, the Reality true in all three phases of time —
+
+## 72
+
+> Subheading: Kṛṣṇa eternally exists both before creation and after it — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 9, verse 32)
+
+See Ādi 1.53.
+
+## 73
+
+> Subheading: The word *ātmā* means the all-pervading (*vibhu*) Kṛṣṇa —
+
+## 74
+
+> Subheading: (A statement of the *tantra* quoted by Śrīdhara Svāmī in his explanation of *Śrīmad-Bhāgavatam*, Canto 11, Chapter 2, verse 45)
+
+See Madhya 24.68.
+
+## 75
+
+> Subheading: The three paths (*abhidheyas*) give three kinds of realization of Kṛṣṇa: (1) Brahman, (2) Paramātmā and (3) Bhagavān —
+
+## 77
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 2, verse 11)
+
+See Ādi 2.11.
+
+## 79
+
+> Subheading: On the path of knowledge He is realized as Brahman, consciousness (*cit*) alone; on the path of *yoga*, as the Paramātmā, made of being and consciousness (*sat* and *cit*) —
+
+## 80
+
+> Subheading: By the two kinds of *bhakti* — that filled with *rāga* and *vaidhī* — one attains the two forms of Bhagavān: Kṛṣṇa Himself and His manifestation —
+
+## 81
+
+> Subheading: The perfection of *rāgānugā-bhakti* is Vrajendranandana in Vraja; the perfection of *vaidhī-bhakti* is service to Nārāyaṇa in Vaikuṇṭha —
+
+## 82
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 9, verse 21)
+
+See Madhya 8.227.[^82-1]
+
+## 83
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 3, Chapter 15, verse 25)
+
+The sage Śrī Maitreya, the friend of Vyāsa, tells Śrī Vidura how Brahmā told the gods, frightened by Diti's pregnancy, the past history of the two *asuras* in her womb. Describing in that connection how the four Sanas (the Kumāras) went to Vaikuṇṭha, he glorifies Vaikuṇṭha:
+
+**animiṣām** (of the gods, who are not subject to time) **ṛṣabhānuvṛttyā** (by following the best, Śrī Hari) **dūre-yamāḥ** (those from whom *yama* is far, or who have cast *yama* and *niyama* far away) **spṛhaṇīya-śīlāḥ** (those whose character — compassion and the like — makes others long to be like them) **bhartuḥ** (of Hari) **su-yaśasaḥ** (of Him whose pastimes and qualities are auspicious) **mithaḥ** (to one another) **kathanānurāga-vaiklavya-bāṣpa-kalayā** (with the *anurāga* that arises in telling of Him, with the agitation it brings and with drops of tears) **pulakī-kṛtāṅgāḥ** (those whose bodies bristle with rapture) **ca** **naḥ** (us) **upari** (above) **yat** **ca** (to Vaikuṇṭha) **vrajanti** (go; “having reached that Vaikuṇṭha, the sages attained the highest joy” — this is the connection with the next verse).
+
+## 84
+
+> Subheading: The three kinds of worshipers —
+
+## 85
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 3, verse 10)
+
+See Madhya 22.36.
+
+## 86
+
+> Subheading: The meaning of the word *udāra-dhī* —
+
+## 87
+
+> Subheading: Every *sādhana* depends on *bhakti*; *bhakti* alone depends on nothing —
+
+## 88
+
+> Subheading: Without the shelter of *bhakti* all other *sādhanas* are fruitless —
+
+Without *bhakti*, other *sādhanas* are utterly fruitless: they can never bear fruit. The teats on a goat's neck give no milk; they only mislead ignorant people. In the same way, without *bhakti* the practice of *jñāna* and *karma* yields no fruit at all.
+
+## 89
+
+> Subheading: The pious (*sukṛtas*) burdened with *anarthas* are of four kinds, divided into *bubhukṣus* and *mumukṣus*; yet even these four kinds of desire are not the cause of desireless *bhakti* — (*Bhagavad-gītā*, Chapter 7, verse 16)
+
+**he arjuna**, **he bharatarṣabha**, **sukṛtinaḥ** (devoted to the *dharma* marked by the conduct of *varṇāśrama*) **janāḥ** **māṁ** **bhajante**; **te** **ca** **catur-vidhāḥ**: **ārtaḥ** (the afflicted, one in distress — Gajendra and others), **jijñāsuḥ** (one who wishes to know the nature of the self — Śaunaka and others), **arthārthī** (one who desires happiness and prosperity — Dhruva and others; these three have desires [*sakāma*]), **jñānī** (one who has gained understanding — Śuka and others; he is without desires [*niṣkāma*]) **ca**.
+
+## 90
+
+> Subheading: The distressed and the seeker of wealth are *bubhukṣus* (who crave enjoyment), and the inquisitive and the *jñānī* are *mumukṣus* (who crave liberation) —
+
+## 91
+
+> Subheading: Only by giving up the four kinds of desire does one become fit to attain pure *bhakti* —
+
+## 92
+
+> Subheading: The four kinds of desire are themselves bad association; by the mercy of the sādhu, the guru and Kṛṣṇa one is freed from it —
+
 
 ---
 
 [^21-1]: The verse translation reads differently: “who effortlessly seized all the worlds up to Satyaloka… with His great strides He made the inhabitants of all the worlds tremble.” For the commentator, Viṣṇu held fast Satyaloka, which His stride had set shaking.
-[^51-1]: Unclear in the scan: the middle digit of the verse number is damaged (“1?7”). *Śrīmad-Bhāgavatam* 10.16.36 is quoted in Madhya 8.146.
+[^51-1]: Unclear in the scan: the middle digit of the verse number is damaged (“1?7”), probably “147”: this chapter's references to Madhya 8 differ from our numbering by one (compare 82). In our numbering *Śrīmad-Bhāgavatam* 10.16.36 is Madhya 8.146.
+[^82-1]: So in the edition (checked against the scan). In our numbering *Śrīmad-Bhāgavatam* 10.9.21 is Madhya 8.226.

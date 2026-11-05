@@ -60,7 +60,40 @@ A root that takes both voices (*ubhayapadī*) is marked with the *svarita* accen
 
 The four kinds of suffering are the sufferings of the four kinds of sin: (1) *pātaka*, (2) *urupātaka*, (3) *mahāpātaka* and (4) *atipātaka*.
 
+## 57
+
+“O Uddhava, as fire turns wood to ashes, so devotion to Bhagavān at once destroys all the sins of the *jīva*.”
+
+## 63
+
+The word *ca* is used in the senses of *anvācaya* (that is, adding something secondary), *samāhāra* (combining into a whole), *anyonya* (mutuality), *samuccaya* (enumeration), *yatnāntara* (another effort), *pāda-pūraṇa* (filling out the metrical line) and *avadhāraṇa*, that is, certainty.
+
+## 64
+
+The word *api* is used in the senses of *sambhāvanā* (possibility), *praśna* (question), *śaṅkā* (doubt), *garhā* (censure), *samuccaya* (enumeration), *yukta-padārtha* (fitting application) and *kāmacāra-kriyā* (acting at will).
+
+## 67
+
+The Truth to which *bṛhattva* and *bṛṁhaṇatva* — that is, the power to make things grow — belong is called the “Supreme Brahman.”[^67-1] “O Self of all, You are the one on whom the yogīs meditate, the Unchanging. Obeisance to You.”
+
+## 74
+
+Hari, to whom extension (*vistṛtatva*) and the power to give birth (*prasavitṛtva*) belong, is Himself the Paramātmā.
+
+## 83
+
+Those whose bodies bristle with rapture, wet with drops of tears born of the agitation of *anurāga*, when they tell one another about Kṛṣṇa, follow Kṛṣṇa, the God of gods, and cast *yama*, *niyama* and the like far away. With a character that makes us long to be like them, they go to Vaikuṇṭha, above us.
+
+## 86
+
+This verse says that if one is *udāra-dhī*, that is, intelligent and able to reason, one will worship Kṛṣṇa even while having desires.
+
+## 89
+
+“O Arjuna, the distressed, the inquisitive, the seeker of wealth and the *jñānī* — these four kinds of people, when they gain pious merit and turn toward *bhakti*, give up their particular desires and worship Me.”
+
 
 ---
 
 [^26-1]: The verse translation reads differently: it says that ‘ñ’ is added, or the *svarita* accent used, for verbs that mean “doing for oneself.” The commentator takes Pāṇini's rule (*Aṣṭādhyāyī* 1.3.72) this way: roots marked *svarita* or *ñ* take the *ātmanepada* when the fruit of the action goes to the agent himself.
+[^67-1]: The verse translation reads differently: “the Supreme Truth, which constantly grows and is present everywhere.” For the commentators *bṛṁhaṇatva* is the power to make others grow and to nourish them.
