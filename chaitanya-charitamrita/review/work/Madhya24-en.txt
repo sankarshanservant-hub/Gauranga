@@ -1542,6 +1542,7 @@ w: your  non-violence and the other  virtues
 w: in devotion to Hari  engaged  who
 w: not  they  are  causing pain to others
 tr: “O hunter, it is no wonder that you have non-violence and these other virtues: those who are engaged in devotion to Hari never cause pain to others.” (Skanda-purāṇa)
+fn: The same verse as Madhya 22.142; translation as there.
 
 ## 268
 w: then  that  hunter  the two  into the courtyard  brought
@@ -1569,6 +1570,7 @@ w: by the mercy  of whom  instantly
 w: lowly  even  with hair standing on end  obtained
 w: a hunter  love  for Acyuta
 tr: “Ah, O sage among the gods, you are blessed! By your mercy even a lowly hunter at once attained love (*rati*) for Acyuta, his hair standing on end.” (Skanda-purāṇa)
+fn: Source as in the heading of the edition (p. 816: “words of the *Skanda Purāṇa*”); the line is printed without a number.
 
 ## 273
 w: Nārada  says  Vaiṣṇava  your  food  any  comes
@@ -1613,7 +1615,7 @@ tr: All who delight in Him are *ātmārāmas*. They are of two kinds by name: de
 ## 281
 w: two kinds  devotees  are  four  four  kinds
 w: eternal associates  perfected by practice  practitioners  and
-tr: Each of these two kinds of devotees is of four kinds: the eternal associates (*pārṣada*), those perfected by practice (*sādhana-siddha*) and the practitioners (*sādhaka*).
+tr: Each of these two kinds of devotees is fourfold: the eternal associates (*pārṣada*), those perfected by practice (*sādhana-siddha*) and the practitioners (*sādhaka*).
 
 ## 282
 w: awakened  unawakened  rati  by the difference  practitioners  two  kinds
@@ -1643,7 +1645,7 @@ tr: On the path of *rāga* the devotees are likewise of sixteen kinds, so that o
 ## 287
 w: muni  nirgrantha  ca  api  four  of words  meanings
 w: where  which  fits  that  I make  apt
-tr: The meanings of the four words *muni*, *nirgrantha*, *ca* and *api* I apply wherever each of them fits.
+tr: I apply the meanings of the four words *muni*, *nirgrantha*, *ca* and *api* wherever each of them fits.
 
 ## 288
 w: thirty-two  with twenty-six  combining  fifty-eight
@@ -1658,7 +1660,7 @@ tr: Joining them with *ca* in the sense of mutual conjunction (*itaretara*), I t
 ## 290
 w: ātmārāmas  and  ātmārāmas  and  fifty-eight times
 w: at the end  all  elision  making  I keep  once
-tr: “*ātmārāmāś ca ātmārāmāś ca*” — fifty-eight times. Then, dropping all the rest, I keep the word only once.
+tr: “*Ātmārāmāś ca ātmārāmāś ca*…” — fifty-eight times. Then, dropping all the rest, I keep the word only once.
 
 ## 291
 w: of words of the same form  one  remains  in the same case
