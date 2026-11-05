@@ -92,8 +92,37 @@ This verse says that if one is *udāra-dhī*, that is, intelligent and able to r
 
 “O Arjuna, the distressed, the inquisitive, the seeker of wealth and the *jñānī* — these four kinds of people, when they gain pious merit and turn toward *bhakti*, give up their particular desires and worship Me.”
 
+## 93
+
+Through the company of saintly devotees a wise person gives up bad association. Having once heard the delightful glory of the One who is glorified, he can never give it up.
+
+## 97
+
+“Covering the desire” (*icchāra pidhāna*) means fulfilling it.
+
+## 99
+
+The desireless (*akāma*), the one full of desires (*sarvakāma*) and the one who desires liberation (*mokṣakāma*) — these three give up the fault of their particular desires and attain pure *bhakti* for Kṛṣṇa.
+
+## 102–106
+
+Those who worship on the path of knowledge are of two kinds: *kevala-brahmopāsakas* (who worship Brahman alone) and *mokṣākāṅkṣīs* (who aspire to liberation). One who worships Brahman with the desire for *kaivalya* is a *kevala-brahmopāsaka*. They have three stages: the *sādhaka*, the (eternally perfect) *brahmamaya*, and one who has attained merging in Brahman (that is, the *brahma-bhūta*). Without *bhakti*, knowledge cannot give liberation. Only one who has attained merging in Brahman (that is, has become *brahma-bhūta*) can practice *bhakti*. When the practice of *bhakti* appears, the nature of *bhakti* appears too. By this nature of hers, *bhakti* gradually draws him away from Brahman, gives him a divine body and engages him in the worship of Kṛṣṇa. Having received the body of his choice in which he serves the Lord, the devotee remembers all of Kṛṣṇa's qualities and, attracted by them, worships Him with pure worship.
+
+## 107
+
+Even the liberated, assuming a form (*vigraha*) in *līlā*, worship Bhagavān.[^107-1]
+
+## 112
+
+The mind of Bhagavān Śukadeva, dear to the Vaiṣṇavas, was captivated by Hari's qualities, and he studied this great narration.
+
+## 115
+
+The nine Yogendras entered Brahmā's assembly, which is free from distress, and heard the Upaniṣads. Having become knowers of the Śruti and bristling with rapture, they (in order to go to Dvārakā, the city of the Yadus) reached the *raṅga-kṣetra*.
+
 
 ---
 
 [^26-1]: The verse translation reads differently: it says that ‘ñ’ is added, or the *svarita* accent used, for verbs that mean “doing for oneself.” The commentator takes Pāṇini's rule (*Aṣṭādhyāyī* 1.3.72) this way: roots marked *svarita* or *ñ* take the *ātmanepada* when the fruit of the action goes to the agent himself.
 [^67-1]: The verse translation reads differently: “the Supreme Truth, which constantly grows and is present everywhere.” For the commentators *bṛṁhaṇatva* is the power to make others grow and to nourish them.
+[^107-1]: The verse translation reads differently: “even after attaining liberation from *māyā*, holy souls are attracted by Kṛṣṇa's deeds and begin to worship His Deity.” For the commentator, *vigraha* is the form the liberated assume in *līlā* in order to serve the Lord.

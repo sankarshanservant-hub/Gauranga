@@ -390,6 +390,100 @@ Without *bhakti*, other *sādhanas* are utterly fruitless: they can never bear f
 
 > Subheading: The four kinds of desire are themselves bad association; by the mercy of the sādhu, the guru and Kṛṣṇa one is freed from it —
 
+## 93
+
+> Subheading: The power of the company of saintly devotees — (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 10, verse 11)
+
+After installing Dharmarāja Yudhiṣṭhira on the throne, Śrī Kṛṣṇa stayed for some months in Hastināpura. Then, wishing to go to Dvārakā, He duly and fittingly greeted all the men and women of the Kuru and Pāṇḍava families, took leave of them and mounted His chariot. Describing to the sages headed by Śaunaka how the Pāṇḍavas could not bear separation from Kṛṣṇa, Śrī Sūta speaks of the sweetness of the company of sādhus:
+
+**sat-saṅgāt** (through association with Kṛṣṇa's devotees) **mukta-duḥsaṅgaḥ** (one who has given up bad association — association whose object is the desire for *jñāna*, *karma* and the rest, or sons and the like) **budhaḥ** (the wise) **kīrtyamānam** (being sung) **yasya** (of Śrī Kṛṣṇa) **rocanam** (delightful) **yaśaḥ** **sakṛt** **ākarṇya** (having heard) **hātuṁ** (to give up the company of saintly devotees) **na** **utsahate** (how, then, could the Pārthas bear separation from Him? — this is the connection with the next verse).
+
+## 94
+
+> Subheading: The meaning of “bad association” —
+
+“Bad association” is simply deceiving oneself with trickery. Every desire other than the desire for Kṛṣṇa and for *kṛṣṇa-bhakti* is “bad association.”
+
+## 95
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 1, Chapter 1, verse 2)
+
+See Ādi 1.91.
+
+## 96
+
+> Subheading: Śrīdhara Svāmipāda's explanation of the word *kaitava* —
+
+## 98
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 5, Chapter 19, verse 26)
+
+See Madhya 22.40.
+
+## 99
+
+> Subheading: Only through the company of pure devotees, service and Kṛṣṇa's mercy are *anarthas* removed and perfection attained —
+
+“By these three”: by the company of Kṛṣṇa's people, by Kṛṣṇa's mercy and by *kṛṣṇa-bhakti*. These three — the company of Kṛṣṇa's devotees and the rest — free one from all the good fortune *māyā* bestows, from other desires and from the inclination to *karma*, *jñāna* and *yoga*, and produce *bhāva* for Kṛṣṇa.
+
+## 100
+
+> Subheading: This should be kept in mind in all the explanations that follow —
+
+## 102
+
+> Subheading: The two kinds of *jñānī* —
+
+## 103
+
+> Subheading: (1) Those who know Brahman alone — of three kinds —
+
+## 104
+
+> Subheading: Only by practicing knowledge that rests on *bhakti* does the *sādhaka* become *brahma-bhūta* —
+
+## 105
+
+> Subheading: Only by submission to the true Reality — that is, as the fruit of *bhakti* — does one attain “brāhmaṇa-hood,” and by joining it with service, “Vaiṣṇava-hood” —
+
+## 106
+
+> Subheading: Even after becoming a Vaiṣṇava he engages in the service of Kṛṣṇa —
+
+## 107
+
+> Subheading: Even the liberated serve Bhagavān in transcendental perfected bodies — (the explanation of the author of the *Sarvajña-bhāṣya*, quoted by Śrīdhara on *Bhāgavatam* 10.87.21) —
+
+## 108
+
+> Subheading: Even Śuka and the four Sanas, who abide in Brahman (*brahmamaya*), are attracted by Kṛṣṇa and devote themselves to His worship —
+
+## 109
+
+> Subheading: The four Sanas, attracted by the fragrance of Kṛṣṇa's feet, devote themselves to pure *bhakti* —
+
+## 110
+
+> Subheading: (*Śrīmad-Bhāgavatam*, Canto 3, Chapter 15, verse 43)
+
+See Madhya 17.142.
+
+## 111
+
+> Subheading: By Vyāsa's mercy his disciple Śuka, attracted by Kṛṣṇa's pastimes, devotes himself to pure *bhakti* —
+
+## 112
+
+> Subheading: Attracted by Kṛṣṇa's qualities, Śuka, who follows the path of the Śruti, studies the *Bhāgavatam* under Vyāsa — (*Bhāgavatam* 1.7.11)
+
+“Why did Śrī Śukadeva — devoted to renunciation, indifferent to everything, an *ātmārāma*, a knower of Brahman — study the *Śrīmad-Bhāgavatam*?” Answering this question of Śaunaka's, Śrī Sūta explains the reason:
+
+**nityaṁ** **viṣṇu-jana-priyaḥ** (one to whom Viṣṇu's people are dear) **bhagavān** **bādarāyaṇiḥ** (Śrī Śuka, the son of Vyāsa) **hareḥ** **guṇākṣipta-matiḥ** (one whose mind is captivated by [Hari's] qualities, his heart attracted by the descriptions of Hari's qualities) **mahad-ākhyānam** (this great Purāṇa, the Śrī *Bhāgavatam*) **adhyagāt** (studied).
+
+## 113
+
+> Subheading: The nine Yogendras, knowers of Brahman on the path of the Śruti, hear of Kṛṣṇa's qualities and worship Him —
+
 
 ---
 
