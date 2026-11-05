@@ -30,7 +30,7 @@ The word *krama* means power, orderly arrangement (*paripāṭī*), movement and
 
 ## 26
 
-A root that takes both voices (*ubhayapadī*) is marked with the *svarita* accent and the indicatory letter *ñ* (*it*). If the fruit of the action is meant for the agent himself, the *ātmanepada* is used. Here that is not so, and therefore the *parasmaipada* is used.[^26-1]
+A root that takes both voices (*ubhayapadī*) is marked with the *svarita* accent and the indicatory letter *ñ* (*it*). If the fruit of the action is meant for the agent himself, the *ātmanepada* is used. Here that is not so, and therefore the *parasmaipada* is used.
 
 ## 28
 
@@ -74,7 +74,7 @@ The word *api* is used in the senses of *sambhāvanā* (possibility), *praśna* 
 
 ## 67
 
-The Truth to which *bṛhattva* and *bṛṁhaṇatva* — that is, the power to make things grow — belong is called the “Supreme Brahman.”[^67-1] “O Self of all, You are the one on whom the yogīs meditate, the Unchanging. Obeisance to You.”
+The Truth to which *bṛhattva* and *bṛṁhaṇatva* — that is, the power to make things grow — belong is called the “Supreme Brahman.” “O Self of all, You are the one on whom the yogīs meditate, the Unchanging. Obeisance to You.”
 
 ## 74
 
@@ -110,7 +110,7 @@ Those who worship on the path of knowledge are of two kinds: *kevala-brahmopāsa
 
 ## 107
 
-Even the liberated, assuming a form (*vigraha*) in *līlā*, worship Bhagavān.[^107-1]
+Even the liberated, assuming a form (*vigraha*) in *līlā*, worship Bhagavān.
 
 ## 112
 
@@ -162,7 +162,7 @@ Some yogīs, by fixed concentration (*dhāraṇā*), remember the Puruṣa who d
 
 ## 151
 
-Having thus attained *bhāva* for Bhagavān Hari, the yogī feels his heart melt with devotion, and the hairs of his body stand on end with bliss. Again and again streams of tears of bliss, born of longing, overwhelm him — he is drowning in bliss. Then, little by little, he draws his meditating mind away from holding the object of meditation, as one draws out a hook (*baḍiśa*) used to catch fish. This is an example of the *nirgarbha* yogī.[^151-1]
+Having thus attained *bhāva* for Bhagavān Hari, the yogī feels his heart melt with devotion, and the hairs of his body stand on end with bliss. Again and again streams of tears of bliss, born of longing, overwhelm him — he is drowning in bliss. Then, little by little, he draws his meditating mind away from holding the object of meditation, as one draws out a hook (*baḍiśa*) used to catch fish. This is an example of the *nirgarbha* yogī.
 
 ## 153–154
 
@@ -174,7 +174,7 @@ One who wishes to ascend to the stage of yoga is an “*ārurukṣu*.” For suc
 
 ## 160
 
-On the path followed by the *sampradāyas* of the *ṛṣis*, some, in *karma-yoga*, worship the “*udara*,” that is, Brahman situated in the *maṇipūra*: these are the Śārkarākṣa *ṛṣis*, “*kūrpa-dṛk*,” that is, of gross vision. The Āruṇi *ṛṣis*, also followers of a *sampradāya* of *ṛṣis*, worship subtle Brahman in the “*dahara*,” that is, in the space of the heart, where the *nāḍīs* spread out. O Ananta! Higher than this is the path that leads to the head: beginning from the *mūlādhāra*, it passes through the heart and rises to the head, up to the *brahma-randhra*. This is the *suṣumnā* — the place where You are realized, the thousand-petalled lotus, the supreme, effulgent abode. Having risen there, yogīs no longer fall into *saṁsāra*, into the jaws of death.[^160-1]
+On the path followed by the *sampradāyas* of the *ṛṣis*, some, in *karma-yoga*, worship the “*udara*,” that is, Brahman situated in the *maṇipūra*: these are the Śārkarākṣa *ṛṣis*, “*kūrpa-dṛk*,” that is, of gross vision. The Āruṇi *ṛṣis*, also followers of a *sampradāya* of *ṛṣis*, worship subtle Brahman in the “*dahara*,” that is, in the space of the heart, where the *nāḍīs* spread out. O Ananta! Higher than this is the path that leads to the head: beginning from the *mūlādhāra*, it passes through the heart and rises to the head, up to the *brahma-randhra*. This is the *suṣumnā* — the place where You are realized, the thousand-petalled lotus, the supreme, effulgent abode. Having risen there, yogīs no longer fall into *saṁsāra*, into the jaws of death.
 
 ## 163
 
@@ -262,7 +262,7 @@ O *devarṣi*, you alone are truly blessed: by your mercy even a low *lubdhaka*,
 
 ## 281–285
 
-The *pārṣadas* — that is, the *nitya-siddhas* — the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* are each of four kinds, on the path of rules (*vaidha*) and on the path of *rāga*. The eternally perfect *pārṣadas* are again of four kinds: servants, friends, elders (*gurus*) and beloveds. And the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* each have these same four kinds as well.[^281-285-1]
+The *pārṣadas* — that is, the *nitya-siddhas* — the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* are each of four kinds, on the path of rules (*vaidha*) and on the path of *rāga*. The eternally perfect *pārṣadas* are again of four kinds: servants, friends, elders (*gurus*) and beloveds. And the *sādhana-siddhas*, the *jāta-rati sādhakas* and the *ajāta-rati sādhakas* each have these same four kinds as well.
 
 ## 294
 
@@ -304,14 +304,5 @@ As soon as He saw that Sanātana had come, Gaurasundara, golden like a *campaka*
 
 ---
 
-[^26-1]: The verse translation reads differently: it says that ‘ñ’ is added, or the *svarita* accent used, for verbs that mean “doing for oneself.” The commentator takes Pāṇini's rule (*Aṣṭādhyāyī* 1.3.72) this way: roots marked *svarita* or *ñ* take the *ātmanepada* when the fruit of the action goes to the agent himself.
-[^67-1]: The verse translation reads differently: “the Supreme Truth, which constantly grows and is present everywhere.” For the commentators *bṛṁhaṇatva* is the power to make others grow and to nourish them.
-[^107-1]: The verse translation reads differently: “even after attaining liberation from *māyā*, holy souls are attracted by Kṛṣṇa's deeds and begin to worship His Deity.” For the commentator, *vigraha* is the form the liberated assume in *līlā* in order to serve the Lord.
-
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.
 
-[^151-1]: The verse translation reads differently: “However, there are unfortunate yogīs who were attracted by the qualities of God, but He did not fully reveal Himself to them in return, since their hearts still cherished worldly desires… but their hearts, like an iron hook, gradually turned away from the Lord.”
-
-[^160-1]: The verse translation reads differently: “Those who wish to leave the bodily conception of life and follow the path indicated by the great sages begin to worship the Supreme Brahman in their belly.”
-
-[^281-285-1]: Our verse translation of 283 reads differently: that by following the path of rules anyone can attain the position of Kṛṣṇa's eternally perfect associate; for Bhaktivinoda the eternally perfect *pārṣadas* are a separate class alongside the *sādhana-siddhas* and the *sādhakas*.

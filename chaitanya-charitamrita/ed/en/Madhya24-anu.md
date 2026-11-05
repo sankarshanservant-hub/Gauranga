@@ -68,7 +68,7 @@ The eleven words: (1) **ātmārāmāḥ**, (2) **ca**, (3) **munayaḥ**, (4) **
 
 Brahmā tells his disciple, the divine sage Nārada, of the deeds, purposes and powers of Bhagavān Viṣṇu's *līlā-avatāras*, and describes the immeasurable glory of the prowess of Bhagavān Vāmanadeva:
 
-**iha** (in this world) **yaḥ** **kaviḥ** (a learned man) **pārthivāni** **rajāṁsi** **api** (even the atoms of the earth) **vimame** (has counted), (even such a man) **katamaḥ** **nu** (a question) **viṣṇoḥ** **vīrya-gaṇanāṁ** (to count Viṣṇu's mighty deeds) **arhati** (is able? — no one; that is the sense), **yaḥ** (Viṣṇu) **yasmāt** (for that reason, in the *avatāra* of Trivikrama) **askhalatā** (unobstructed) **sva-raṁhasā** (by the speed of His own stride) **tri-sāmya-sadanāt** (the *sadana*, or abode, is the state of equilibrium of the three *guṇas*, *pradhāna*; from there onward) **uru kampayānam** (violently shaking) **tri-pṛṣṭhaṁ** (Satyaloka) **caskambha** (held fast).[^21-1] The *mantra* (*Ṛg Veda*, *maṇḍala* 1, *sūkta* 154): “Oṁ. Which of Viṣṇu's mighty deeds shall I proclaim? He measured out the earthly regions; He propped up the higher abode, the wide-striding one, taking His three steps.”
+**iha** (in this world) **yaḥ** **kaviḥ** (a learned man) **pārthivāni** **rajāṁsi** **api** (even the atoms of the earth) **vimame** (has counted), (even such a man) **katamaḥ** **nu** (a question) **viṣṇoḥ** **vīrya-gaṇanāṁ** (to count Viṣṇu's mighty deeds) **arhati** (is able? — no one; that is the sense), **yaḥ** (Viṣṇu) **yasmāt** (for that reason, in the *avatāra* of Trivikrama) **askhalatā** (unobstructed) **sva-raṁhasā** (by the speed of His own stride) **tri-sāmya-sadanāt** (the *sadana*, or abode, is the state of equilibrium of the three *guṇas*, *pradhāna*; from there onward) **uru kampayānam** (violently shaking) **tri-pṛṣṭhaṁ** (Satyaloka) **caskambha** (held fast). The *mantra* (*Ṛg Veda*, *maṇḍala* 1, *sūkta* 154): “Oṁ. Which of Viṣṇu's mighty deeds shall I proclaim? He measured out the earthly regions; He propped up the higher abode, the wide-striding one, taking His three steps.”
 
 ## 22
 
@@ -1052,7 +1052,7 @@ See Madhya 22.142.
 
 > Subheading: Besides the 26 kinds of meaning, meanings broadly of two kinds and, in finer detail, of 32 kinds —
 
-“*Sthūle dui*”[^278-1] — broadly, that is, in general, of two kinds: (1) *vaidha-bhaktas* and (2) *rāga-bhaktas*.
+“*Sthūle dui*” — broadly, that is, in general, of two kinds: (1) *vaidha-bhaktas* and (2) *rāga-bhaktas*.
 
 “*Sūkṣme batriśa prakāra*”: if one counts the distinctions finely, in full detail, there are thirty-two kinds of meaning. The *vaidha-bhaktas* are of sixteen kinds, namely: (1) the *pārṣada* servant (*dāsa*), (2) the *pārṣada* friend (*sakhā*), (3) the *pārṣada* elder — a father and the like (*guru*), (4) the *pārṣada* beloved (*kāntā*), (5) the *sādhana-siddha* servant, (6) the *sādhana-siddha* friend, (7) the *sādhana-siddha* elder — a father and the like, (8) the *sādhana-siddha* beloved, (9) the *jāta-rati sādhaka* servant, (10) the *jāta-rati sādhaka* friend, (11) the *jāta-rati sādhaka* elder — a father and the like, (12) the *jāta-rati sādhaka* beloved, (13) the *ajāta-rati sādhaka* servant, (14) the *ajāta-rati sādhaka* friend, (15) the *ajāta-rati sādhaka* elder — a father and the like, (16) the *ajāta-rati sādhaka* beloved. The *rāga-bhaktas* are likewise of these sixteen kinds. In all there are thirty-two kinds of *ātmārāma* devotees.
 
@@ -1176,7 +1176,7 @@ In Naimiṣāraṇya the sages headed by Śaunaka put six questions to the *mah�
 
 ## 316
 
-(He says: “You asked, ‘With whom has *dharma* taken shelter?’ Know that it is this”:) **dharma-jñānādibhiḥ** (with the six opulences)[^316-1] **saha** **kṛṣṇe** **sva-dhāma** **upagate** (when He, having concluded His manifest pastimes, entered His unmanifest pastimes) **adhunā** (now) **kalau** (in the age of Kali) **naṣṭa-dṛśām** (for the good of those bereft of knowledge of the truth of true *dharma*, devotion to Viṣṇu) **eṣaḥ** **purāṇārkaḥ** (the book *Śrīmad-Bhāgavatam*, which like the sun dispels the night of irreligion) **uditaḥ** (has appeared, that is, has become manifest).
+(He says: “You asked, ‘With whom has *dharma* taken shelter?’ Know that it is this”:) **dharma-jñānādibhiḥ** (with the six opulences) **saha** **kṛṣṇe** **sva-dhāma** **upagate** (when He, having concluded His manifest pastimes, entered His unmanifest pastimes) **adhunā** (now) **kalau** (in the age of Kali) **naṣṭa-dṛśām** (for the good of those bereft of knowledge of the truth of true *dharma*, devotion to Viṣṇu) **eṣaḥ** **purāṇārkaḥ** (the book *Śrīmad-Bhāgavatam*, which like the sun dispels the night of irreligion) **uditaḥ** (has appeared, that is, has become manifest).
 
 ## 317
 
@@ -1394,7 +1394,6 @@ See Madhya 19.119.
 
 ---
 
-[^21-1]: The verse translation reads differently: “who effortlessly seized all the worlds up to Satyaloka… with His great strides He made the inhabitants of all the worlds tremble.” For the commentator, Viṣṇu held fast Satyaloka, which His stride had set shaking.
 [^51-1]: Unclear in the scan: the middle digit of the verse number is damaged (“1?7”), probably “147”: this chapter's references to Madhya 8 differ from our numbering by one (compare 82). In our numbering *Śrīmad-Bhāgavatam* 10.16.36 is Madhya 8.146.
 [^82-1]: So in the edition (checked against the scan). In our numbering *Śrīmad-Bhāgavatam* 10.9.21 is Madhya 8.226.
 
@@ -1402,15 +1401,11 @@ See Madhya 19.119.
 
 [^189-1]: So in the edition (checked against the scan). In our numbering the verse *Bhakti-rasāmṛta-sindhu* 1.2.238 is Madhya 22.128 (where the *Anubhāṣya* explains it).
 
-[^278-1]: Our verse translation reads differently: “two obvious and thirty-two hidden” meanings; for Bhaktisiddhānta, two kinds broadly (*vaidha-* and *rāga-bhaktas*) and thirty-two when counted in detail.
-
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
 
 [^314-2]: *Kaṭha Upaniṣad* 1.2.23; *Muṇḍaka Upaniṣad* 3.2.3.
 
 [^314-3]: *Bhagavad-gītā* 4.34.
-
-[^316-1]: Our verse translation reads differently: that with Him nearly all knowledge and *dharma* departed; for Bhaktisiddhānta “*dharma*, knowledge and the rest” are Kṛṣṇa's own six opulences, with which He went to His abode.
 
 [^324-1]: *Satyaṁ*, as the edition prints it; the rendering is tentative.
 
