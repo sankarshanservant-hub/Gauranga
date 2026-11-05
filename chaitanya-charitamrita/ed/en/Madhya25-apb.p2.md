@@ -22,4 +22,32 @@ This scripture, the *Bhāgavatam*, is the fruit fallen from the wish-fulfilling 
 
 The more we hear of the exploits of Kṛṣṇa, Uttamaśloka, the more our thirst grows; the satisfaction that would quench it never comes. For to listeners who know *rasa*, the accounts of Kṛṣṇa yield a [new] taste at every step.
 
+## 181
+
+*Munsīph*: the word *munsīph* comes from the word *insāph* (justice). One who takes charge of some matter on behalf of the principal owner is called a *munsīph*. *Chidra pāñā* — finding a fault.
+
+## 183
+
+“His wife” — Husain Shāh's begum. “The mark of the blow” — the mark of the whip with which Subuddhi Rāya had struck him.
+
+## 186
+
+*Karoyāra pāni*: a *karoyā* is the vessel in which Muslims keep water. From such a *karoyā*, water touched by Muslims was put into Subuddhi Rāya's mouth[^186-1].
+
+## 187
+
+*Chadma* — a pretext. Subuddhi Rāya had already wished to give up worldly affairs; on the pretext of the loss of caste he left his family.
+
+## 190
+
+Subuddhi Rāya met Mahāprabhu when the Lord came to Vārāṇasī before going to Mathurā.
+
+## 202
+
+“Hearing of this”: in Mathurā Rūpa Gosvāmī heard that earlier Mahāprabhu had gone to Mathurā by the road along the Gaṅgā; now, eager to see that road, he came the same way with Anupama[^202-1].
+
 ---
+
+[^186-1]: The verse translation reads differently: the Muslim water is sprinkled on Subuddhi Rāya's head.
+
+[^202-1]: The verse translation reads differently: Śrī Rūpa and Anupama took the road along the Gaṅgā because they heard that Mahāprabhu had gone to Prayāga that way.

@@ -140,6 +140,154 @@ See Madhya 17.142.
 
 See Madhya 6.186.
 
+## 153
+
+> Subheading: The Mahārāṣṭrian brāhmaṇa praises the Lord's ability to give 61 explanations —
+
+## 155
+
+> Subheading: At everyone's urging the Lord sets forth the 61 explanations —
+
+## 156
+
+> Subheading: The Lord's learning amazes everyone, and they recognize Him as the Supreme Lord, Śrī Kṛṣṇa —
+
+## 157
+
+> Subheading: The Lord returns to His residence —
+
+## 158
+
+> Subheading: A flood of *kīrtana* in Kāśī —
+
+## 159
+
+> Subheading: The Lord delivers Kāśī —
+
+## 160
+
+> Subheading: With the Lord's coming, Kāśī resounds with the tumult of Kṛṣṇa's names —
+
+## 161
+
+> Subheading: At the devotees' urging, the Lord distributes to the people of Kāśī — gripped by Māyāvāda and averse to Kṛṣṇa's name and to *prema* — without regard to qualification and for the trifling price of faith, His inexhaustible treasury of the name and *prema*, rare even for Brahmā —
+
+## 164
+
+> Subheading: All the devotees speak of the flood of *prema* in Kāśī and praise the Lord —
+
+## 166
+
+> Subheading: Countless people gather every day; in the cramped place they cannot see the Lord —
+
+## 168
+
+> Subheading: When the Lord goes to see Viśveśvara, countless thirsting people get to see Him —
+
+## 169
+
+> Subheading: Everyone calls out “Hari bol!” —
+
+## 170
+
+> Subheading: After five days in Kāśī the Lord sets out for Purī —
+
+## 171
+
+> Subheading: Five devotees follow the Lord —
+
+## 172
+
+> Subheading: The names of the five devotees —
+
+## 173
+
+> Subheading: All want to go with the Lord to Purī, but He bids them farewell —
+
+## 174
+
+> Subheading: [The Lord] wishes to go to Purī alone, by the Jhārikhaṇḍa road —
+
+## 175
+
+> Subheading: [The Lord] sends Sanātana to Vṛndāvana, to Rūpa and Anupama —
+
+## 176
+
+> Subheading: In a voice full of compassion, Bhagavān, who loves His devotees, instructs Sanātana to look after the happiness of His devotees who travel to Vṛndāvana —
+
+## 177
+
+> Subheading: Embracing everyone, the detached Lord departs; the devotees fall unconscious —
+
+## 178
+
+> Subheading: The five devotees return to Kāśī, and Sanātana sets out for Vṛndāvana —
+
+## 179
+
+> Subheading: Rūpa Gosvāmī meets Subuddhi Rāya —
+
+## 180
+
+> Subheading: The earlier history of Subuddhi Rāya and Husain Shāh —
+
+## 187
+
+> Subheading: Subuddhi Rāya comes alone to Kāśī —
+
+## 188
+
+> Subheading: He asks the *smārta* paṇḍitas what atonement to perform, and different people prescribe different things —
+
+## 189
+
+> Subheading: Subuddhi Rāya doubts the atonements prescribed to him —
+
+## 190
+
+> Subheading: When the Lord comes to Kāśī, [Subuddhi Rāya] tells Him everything and asks what atonement he should perform —
+
+## 191
+
+> Subheading: The Lord gives the best of all prescriptions and instructs Subuddhi Rāya —
+
+## 192
+
+> Subheading: The different fruits of *nāmābhāsa* and of the pure name —
+
+## 194
+
+> Subheading: By way of Ayodhyā, Rāya goes to Naimiṣāraṇya and stays there some days —
+
+## 195
+
+> Subheading: Meanwhile the Lord, having visited Vṛndāvana, comes again to Prayāga —
+
+## 196
+
+> Subheading: Missing the Lord in Mathurā, Rāya grieves —
+
+## 197
+
+> Subheading: Rāya's renunciation and humility —
+
+## 199
+
+> Subheading: What the Gauḍīya Vaiṣṇavas are used to and love —
+
+## 200
+
+> Subheading: Taking Śrī Rūpa with him, [Subuddhi Rāya] shows him the twelve forests of Vṛndāvana —
+
+## 201
+
+> Subheading: Searching for Sanātana, Śrī Rūpa goes from Vṛndāvana to Prayāga —
+
+## 203
+
+> Subheading: Meanwhile Sanātana comes from Prayāga to Mathurā —
+
 ---
 
 [^138-1]: So in the edition; in the verse translation and in the accepted numbering, *Śrīmad-Bhāgavatam* 1.3.41.
