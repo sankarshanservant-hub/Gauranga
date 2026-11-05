@@ -1065,18 +1065,22 @@ at once  in the heart  is captured  here  by the pious  who wish to hear  that v
 ‘প্র’-শব্দে — মোক্ষবাঞ্ছা কৈতবপ্রধান ৷  
 এই শ্লোকে শ্রীধরস্বামী করিয়াছেন ব্যাখ্যান ॥ ৯৬ ॥
 
-’pra’ śabde — mokṣa-vāñchā kaitava-pradhāna  
-ei śloke śrīdhara-svāmī kariyāchena vyākhyāna
+‘pra’-śabde — mokṣa-vāñchā kaitava-pradhāna  
+by the prefix pra  of liberation  the desire  of deceit  the chief  
+ei śloke śrīdhara-svāmī kariyāchena vyākhyāna  
+this  verse  Śrīdhara Svāmī  has given  the explanation
 
-(96) [not yet translated]
+(96) By the prefix *pra* (in *projjhita*) the desire for liberation is shown to be the chief deceit. So Śrīdhara Svāmī has explained this verse.
 
 সকাম ভক্তে ‘অজ্ঞ’ জানি’ দয়ালু ভগবান্ ৷  
 স্ব-চরণ দিয়া করে ইচ্ছার পিধান ॥ ৯৭ ॥
 
 sakāma bhakte ‘ajña’ jāni’ dayālu bhagavān  
-sva-caraṇa diyā kare icchāra pidhāna
+having desires  the devotee  ignorant  knowing  merciful  Bhagavān  
+sva-caraṇa diyā kare icchāra pidhāna  
+His own  feet  giving  makes  of desire  the covering
 
-(97) [not yet translated]
+(97) Knowing a devotee with desires to be ignorant, the merciful Bhagavān gives him His own feet and so covers over his desires.
 
 সত্যং দিশত্যর্থিতমর্থিতো নৃণাং  
 নৈবার্থদো যৎ পুনরর্থিতা যতঃ ৷  
@@ -1084,98 +1088,124 @@ sva-caraṇa diyā kare icchāra pidhāna
 মিচ্ছাপিধানং নিজপাদপল্লবম্ ॥ ৯৮ ॥
 
 satyaṁ diśaty arthitam arthito nṛṇāṁ  
+truly  He grants  what is asked  when asked  to men  
 naivārtha-do yat punar arthitā yataḥ  
+not indeed  giver of that  which  again  asking  from which  
 svayaṁ vidhatte bhajatām anicchatām  
-icchā-pidhānaṁ nija-pāda-pallavam
+Himself  He grants  to those who worship  though not desiring  
+icchā-pidhānaṁ nija-pāda-pallavam  
+covering all desires  His own  feet like tender shoots
 
-(98) [not yet translated]
+(98) “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)
 
 সাধুসঙ্গ, কৃষ্ণকৃপা, ভক্তির স্বভাব ৷  
 এ তিনে সব ছাড়ায়, করে কৃষ্ণে ‘ভাব’ ॥ ৯৯ ॥
 
 sādhu-saṅga, kṛṣṇa-kṛpā, bhaktira svabhāva  
-e tine saba chāḍāya, kare kṛṣṇe ‘bhāva’
+the company of saints  Kṛṣṇa’s mercy  of bhakti  the nature  
+e tine saba chāḍāya, kare kṛṣṇe ‘bhāva’  
+these  three  everything  make one give up  awaken  for Kṛṣṇa  bhāva
 
-(99) [not yet translated]
+(99) The company of saints, Kṛṣṇa’s mercy and the very nature of *bhakti* — these three make one give up everything else and awaken *bhāva* for Kṛṣṇa.
 
 আগে যত যত অর্থ ব্যাখ্যান করিব ৷  
 কৃষ্ণগুণাস্বাদের এই হেতু জানিব ॥ ১০০ ॥
 
 āge yata yata artha vyākhyāna kariba  
-kṛṣṇa-guṇāsvādera ei hetu jāniba
+further  however many  meanings  explanation  I shall make  
+kṛṣṇa-guṇāsvādera ei hetu jāniba  
+of Kṛṣṇa’s qualities  of the relishing  this  the cause  know
 
-(100) [not yet translated]
+(100) In all the meanings I shall explain from here on, know this to be the cause of relishing Kṛṣṇa’s qualities.
 
 শ্লোকব্যাখ্যা লাগি’ এই করিলুঁ আভাস ৷  
 এবে করি শ্লোকের মূলার্থ প্রকাশ ॥ ১০১ ॥
 
 śloka-vyākhyā lāgi’ ei kariluṅ ābhāsa  
-ebe kari ślokera mūlārtha prakāśa
+of the verse  of the explanation  for the sake  this  I have made  outline  
+ebe kari ślokera mūlārtha prakāśa  
+now  I make  of the verse  of the root meaning  revelation
 
-(101) [not yet translated]
+(101) I have given this outline for the sake of explaining the verse. Now I shall reveal the verse’s basic meaning.
 
 জ্ঞানমার্গে উপাসক — দুই ত’ প্রকার ৷  
 কেবল-ব্রহ্মোপাসক, মোক্ষাকাঙ্ক্ষী আর ॥ ১০২ ॥
 
 jñāna-mārge upāsaka — dui ta’ prakāra  
-kevala-brahmopāsaka, mokṣākāṅkṣī āra
+on the path of knowledge  worshippers  of two  indeed  kinds  
+kevala-brahmopāsaka, mokṣākāṅkṣī āra  
+worshippers of Brahman alone  those who long for liberation  and
 
-(102) [not yet translated]
+(102) On the path of knowledge the worshippers are of two kinds: those who worship Brahman alone (*kevala-brahmopāsaka*) and those who long for liberation (*mokṣākāṅkṣī*).
 
 কেবল ব্রহ্মোপাসক তিন ভেদ হয় ৷  
 সাধক, ব্রহ্মময়, আর প্রাপ্ত-ব্রহ্মলয় ॥ ১০৩ ॥
 
 kevala brahmopāsaka tina bheda haya  
-sādhaka, brahmamaya, āra prāpta-brahma-laya
+of Brahman alone  worshippers  three  kinds  are  
+sādhaka, brahmamaya, āra prāpta-brahma-laya  
+the sādhaka  the brahmamaya  and  the prāpta-brahma-laya
 
-(103) [not yet translated]
+(103) Those who worship Brahman alone are of three kinds: the *sādhaka* (beginner), the *brahmamaya* (absorbed in Brahman) and the *prāpta-brahma-laya* (merged in Brahman).
 
 ভক্তি বিনা কেবল জ্ঞানে ‘মুক্তি’ নাহি হয় ৷  
 ভক্তি সাধন করে যেই ‘প্রাপ্ত-ব্রহ্মলয়’ ॥ ১০৪ ॥
 
 bhakti vinā kevala jñāne ‘mukti’ nāhi haya  
-bhakti sādhana kare yei ‘prāpta-brahma-laya’
+bhakti  without  by knowledge alone  liberation  not  there is  
+bhakti sādhana kare yei ‘prāpta-brahma-laya’  
+of bhakti  the sādhana  performs  who  (he is) prāpta-brahma-laya
 
-(104) [not yet translated]
+(104) Without *bhakti*, by knowledge alone, there is no liberation. It is one who practises the *sādhana* of *bhakti* who reaches merging in Brahman (*prāpta-brahma-laya*).
 
 ভক্তির স্বভাব, — ব্রহ্ম হৈতে করে আকর্ষণ ৷  
 দিব্য দেহ দিয়া করায় কৃষ্ণের ভজন ॥ ১০৫ ॥
 
 bhaktira svabhāva, — brahma haite kare ākarṣaṇa  
-divya deha diyā karāya kṛṣṇera bhajana
+of bhakti  the nature  from Brahman  makes  attraction  
+divya deha diyā karāya kṛṣṇera bhajana  
+divine  body  giving  makes one do  Kṛṣṇa’s  worship
 
-(105) [not yet translated]
+(105) The nature of *bhakti* is that it draws one away from Brahman; giving one a divine body, it makes one worship Kṛṣṇa.
 
 ভক্তদেহ পাইলে হয় গুণের স্মরণ ৷  
 গুণাকৃষ্ট হঞা করে নির্ম্মল ভজন ॥ ১০৬ ॥
 
 bhakta-deha pāile haya guṇera smaraṇa  
-guṇākṛṣṭa hañā kare nirmala bhajana
+the body of a devotee  on obtaining  there is  of the qualities  remembrance  
+guṇākṛṣṭa hañā kare nirmala bhajana  
+attracted by the qualities  becoming  he does  pure  worship
 
-(106) [not yet translated]
+(106) On obtaining the body of a devotee, one remembers Kṛṣṇa’s qualities; attracted by those qualities, one worships Him with pure devotion.
 
 মুক্তা অপি লীলয়া বিগ্রহং কৃত্বা ভগবন্তং ভজন্তে ॥ ১০৭ ॥
 
 muktā api līlayā vigrahaṁ  
-kṛtvā bhagavantaṁ bhajante
+the liberated  even  by līlā  a form  
+kṛtvā bhagavantaṁ bhajante  
+having assumed  Bhagavān  worship
 
-(107) [not yet translated]
+(107) “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” (Sarvajña-bhāṣya)
 
 জন্ম হৈতে শুক সনকাদি ‘ব্রহ্মময়’ ৷  
 কৃষ্ণগুণাকৃষ্ট হঞা কৃষ্ণেরে ভজয় ॥ ১০৮ ॥
 
 janma haite śuka-sanakādi ‘brahmamaya’  
-kṛṣṇa-guṇākṛṣṭa hañā kṛṣṇere bhajaya
+birth  from  Śuka  Sanaka and the others  absorbed in Brahman  
+kṛṣṇa-guṇākṛṣṭa hañā kṛṣṇere bhajaya  
+by Kṛṣṇa’s qualities attracted  becoming  Kṛṣṇa  they worship
 
-(108) [not yet translated]
+(108) From birth Śuka, Sanaka and the others were *brahmamaya*, absorbed in Brahman; attracted by Kṛṣṇa’s qualities, they worship Kṛṣṇa.
 
 সনকাদ্যের কৃষ্ণকৃপায় সৌরভে হরে মন ৷  
 গুণাকৃষ্ট হঞা করে নির্ম্মল ভজন ॥ ১০৯ ॥
 
 sanakādyera kṛṣṇa-kṛpāya saurabhe hare mana  
-guṇākṛṣṭa hañā kare nirmala bhajana
+of Sanaka and the others  by Kṛṣṇa’s mercy  by the fragrance  is stolen  the mind  
+guṇākṛṣṭa hañā kare nirmala bhajana  
+attracted by the qualities  becoming  they do  pure  worship
 
-(109) [not yet translated]
+(109) By Kṛṣṇa’s mercy the minds of Sanaka and the others were stolen by the fragrance of His feet; attracted by His qualities, they worship Him with pure devotion.
 
 তস্যারবিন্দনয়নস্য পদারবিন্দ-  
 কিঞ্জল্কমিশ্রতুলসীমকরন্দবায়ুঃ ৷  
@@ -1183,45 +1213,59 @@ guṇākṛṣṭa hañā kare nirmala bhajana
 সংক্ষোভমক্ষরজুষামপি চিত্ততন্বোঃ ॥ ১১০ ॥
 
 tasyāravinda-nayanasya padāravinda-  
+of Him  the lotus-eyed  of the lotus feet  
 kiñjalka-miśra-tulasī-makaranda-vāyuḥ  
+with the filaments  mixed  of tulasī  of the nectar  the breeze  
 antar-gataḥ sva-vivareṇa cakāra teṣāṁ  
-saṅkṣobham akṣara-juṣām api citta-tanvoḥ
+having entered within  through its own passage  caused  in them  
+saṅkṣobham akṣara-juṣām api citta-tanvoḥ  
+agitation  devoted to the imperishable Brahman  even  of mind and body
 
-(110) [not yet translated]
+(110) “The breeze that bore the fragrance of tulasī, mingled with the pollen of the lotus-eyed Lord’s lotus feet, entered their nostrils and stirred both their minds and their bodies, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)
 
 ব্যাসকৃপায় শুকদেবের লীলাদি-স্মরণ ৷  
 কৃষ্ণগুণাকৃষ্ট হঞা করেন ভজন ॥ ১১১ ॥
 
 vyāsa-kṛpāya śukadevera līlādi-smaraṇa  
-kṛṣṇa-guṇākṛṣṭa hañā karena bhajana
+by Vyāsa’s mercy  of Śukadeva  of the pastimes and so on  remembrance  
+kṛṣṇa-guṇākṛṣṭa hañā karena bhajana  
+by Kṛṣṇa’s qualities attracted  becoming  he does  worship
 
-(111) [not yet translated]
+(111) By Vyāsa’s mercy Śukadeva came to remember Kṛṣṇa’s pastimes; attracted by Kṛṣṇa’s qualities, he worships Him.
 
 হরের্গুণাক্ষিপ্তমতির্ভগবান্ বাদরায়ণিঃ ৷  
 অধ্যগান্মহদাখ্যানং নিত্যং বিষ্ণুজনপ্রিয়ঃ ॥ ১১২ ॥
 
 harer guṇākṣipta-matir  
+by Hari’s  qualities  captivated  in mind  
 bhagavān bādarāyaṇiḥ  
+the great  son of Bādarāyaṇa  
 adhyagān mahad-ākhyānaṁ  
-nityaṁ viṣṇu-jana-priyaḥ
+studied  the great  narration  
+nityaṁ viṣṇu-jana-priyaḥ  
+ever  to the devotees of Viṣṇu  dear
 
-(112) [not yet translated]
+(112) “His mind captivated by the qualities of Hari, the great Śukadeva, son of Bādarāyaṇa, who is ever dear to the devotees of Viṣṇu, studied this great narration.” (Śrīmad-Bhāgavatam, 1.7.11)
 
 নব-যোগীশ্বর জন্ম হৈতে ‘সাধক’ জ্ঞানী ৷  
 বিধি-শিব-নারদ-মুখে কৃষ্ণগুণ শুনি’ ॥ ১১৩ ॥
 
 nava-yogīśvara janma haite ‘sādhaka’ jñānī  
-vidhi-śiva-nārada-mukhe kṛṣṇa-guṇa śuni’
+nine  Yogendras  birth  from  sādhakas  jñānīs  
+vidhi-śiva-nārada-mukhe kṛṣṇa-guṇa śuni’  
+of Brahmā  Śiva  Nārada  from the mouths  Kṛṣṇa’s  qualities  having heard
 
-(113) [not yet translated]
+(113) The nine Yogendras were *sādhaka* *jñānīs* from birth. Having heard of Kṛṣṇa’s qualities from the mouths of Brahmā, Śiva and Nārada,
 
 গুণাকৃষ্ট হঞা করে কৃষ্ণের ভজন ৷  
 একাদশ-স্কন্ধে তাঁর ভক্তি-বিবরণ ॥ ১১৪ ॥
 
 guṇākṛṣṭa hañā kare kṛṣṇera bhajana  
-ekādaśa-skandhe tāṅra bhakti-vivaraṇa
+attracted by the qualities  becoming  they do  Kṛṣṇa’s  worship  
+ekādaśa-skandhe tāṅra bhakti-vivaraṇa  
+in the Eleventh Canto  their  devotion  the description
 
-(114) [not yet translated]
+(114) they were attracted by those qualities and worshipped Kṛṣṇa. Their devotion is described in the Eleventh Canto.
 
 অক্লেশাং কমলভুবঃ প্রবিশ্য গোষ্ঠীং  
 কুর্ব্বন্তঃ শ্রুতিশিরসাং শ্রুতিং শ্রুতজ্ঞাঃ ৷  
@@ -1229,27 +1273,35 @@ ekādaśa-skandhe tāṅra bhakti-vivaraṇa
 যোগীন্দ্রাঃ পুলকভৃতো নবাপ্যবাপুঃ ॥ ১১৫ ॥
 
 akleśāṁ kamala-bhuvaḥ praviśya goṣṭhīṁ  
+free from distress  of the lotus-born  having entered  the assembly  
 kurvantaḥ śruti-śirasāṁ śrutiṁ śruta-jñāḥ  
+performing  of the Upaniṣads  the hearing  knowers of the Śruti  
 uttuṅgaṁ yadu-pura-saṅgamāya raṅgaṁ  
-yogīndrāḥ pulaka-bhṛto navāpy avāpuḥ
+lofty  to the city of Yadu  for meeting  the raṅga  
+yogīndrāḥ pulaka-bhṛto navāpy avāpuḥ  
+the Yogendras  thrilling with rapture  nine  even  reached
 
-(115) [not yet translated]
+(115) “Entering the assembly of the lotus-born Brahmā, which is free from all distress, the nine Yogendras, knowers of the Śruti, heard the Upaniṣads there; yet, their bodies thrilling with rapture, they went to the lofty *raṅga-kṣetra* to meet the Lord in the city of the Yadus.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Śānta-bhakti-laharī, 20)
 
 মোক্ষাকাঙ্ক্ষী জ্ঞানী হয় তিনপ্রকার ৷  
 মুমুক্ষু, জীবন্মুক্ত, প্রাপ্তস্বরূপ আর ॥ ১১৬ ॥
 
 mokṣākāṅkṣī jñānī haya tina-prakāra  
-mumukṣu, jīvan-mukta, prāpta-svarūpa āra
+who long for liberation  jñānīs  are  of three kinds  
+mumukṣu, jīvan-mukta, prāpta-svarūpa āra  
+the mumukṣu  the jīvan-mukta  the prāpta-svarūpa  and
 
-(116) [not yet translated]
+(116) *Jñānīs* who long for liberation are of three kinds: the *mumukṣu* (seeker of liberation), the *jīvan-mukta* (liberated while living) and the *prāpta-svarūpa* (one who has attained his true nature).
 
 ’মুমুক্ষু’ জগতে অনেক সংসারী জন ৷  
 ’মুক্তি’ লাগি’ ভক্ত্যে করে কৃষ্ণের ভজন ॥ ১১৭ ॥
 
-’mumukṣu’ jagate aneka saṁsārī jana  
-’mukti’ lāgi’ bhaktye kare kṛṣṇera bhajana
+‘mumukṣu’ jagate aneka saṁsārī jana  
+mumukṣus  in the world  many  attached to worldly life  people  
+‘mukti’ lāgi’ bhaktye kare kṛṣṇera bhajana  
+liberation  for the sake  with devotion  they do  Kṛṣṇa’s  worship
 
-(117) [not yet translated]
+(117) In the world there are many *mumukṣus*, people attached to worldly life, who worship Kṛṣṇa with devotion for the sake of liberation.
 
 মুমুক্ষবো ঘোররূপান্ হিত্বা ভূতপতীনথ ৷  
 নারায়ণ-কলাঃ শান্তা ভজন্তি হ্যনসূয়বঃ ॥ ১১৮ ॥
@@ -2263,11 +2315,15 @@ the gopīs  between  Your arms  even  longed for by whom  Śrī
 নির্য্যোগপাশকৃতলক্ষণয়োর্বিচিত্রম্ ॥ ২০১ ॥
 
 gā gopakair anu-vanaṁ nayator udāra-  
+the cows  with the cowherd boys  from forest to forest  of the two who lead  generous  
 veṇu-svanaiḥ kala-padais tanu-bhṛtsu sakhyaḥ  
+of the flute  by the sounds  by the sweet notes  among embodied beings  O friends  
 aspandanaṁ gatimatāṁ pulakas tarūṇāṁ  
-niryoga-pāśa-kṛta-lakṣaṇayor vicitram
+stillness  of moving beings  thrill  of the trees  
+niryoga-pāśa-kṛta-lakṣaṇayor vicitram  
+marked by ropes and nooses  of the two  wondrous
 
-(201) [not yet translated]
+(201) “O friends, as the two Brothers, marked by the ropes and nooses for tying the cows, lead the cows with the cowherd boys from forest to forest, the generous, sweet notes of Their flutes work wonders among embodied beings: those that move become still, and the trees thrill with ecstasy.” (Śrīmad-Bhāgavatam, 10.21.19)
 
 বনলতাস্তরব আত্মনি বিষ্ণুং  
 ব্যঞ্জয়ন্ত্য ইব পুষ্পফলাঢ়্যাঃ ৷  
@@ -2275,47 +2331,61 @@ niryoga-pāśa-kṛta-lakṣaṇayor vicitram
 প্রেমহৃষ্টতনবো ববৃষুঃ স্ম ॥ ২০২ ॥
 
 vana-latās tarava ātmani viṣṇuṁ  
+the forest  creepers  the trees  within themselves  Viṣṇu  
 vyañjayantya iva puṣpa-phalāḍhyāḥ  
+revealing  as if  with flowers  with fruits  rich  
 praṇata-bhāra-viṭapā madhu-dhārāḥ  
-prema-hṛṣṭa-tanavo vavṛṣuḥ sma
+bowed  with the weight  their branches  of honey  streams  
+prema-hṛṣṭa-tanavo vavṛṣuḥ sma  
+with love  thrilled  bodies  showered  indeed
 
-(202) [not yet translated]
+(202) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam, 10.35.9)
 
 কিরাতহূনান্ধ্র-পুলিন্দ পুক্কশাঃ  
 আভীরশুম্ভা যবনাঃ খশাদয়ঃ ৷  
 যেঽন্যে চ পাপা যদুপাশ্রয়াশ্রয়াঃ  
 শুদ্ধ্যন্তি তস্মৈ প্রভবিষ্ণবে নমঃ ॥ ২০৩ ॥
 
-kirāta-hūnāndhra-pulinda-pukkaśā  
-ābhīra-śuhmā yavanāḥ khaśādayaḥ  
+kirāta-hūnāndhra-pulinda pukkaśāḥ  
+Kirātas  Hūṇas  Andhras  Pulindas  Pukkaśas  
+ābhīra-śumbhā yavanāḥ khaśādayaḥ  
+Ābhīras  Śuhmas  Yavanas  Khaśas and others  
 ye ‘nye ca pāpā yad-upāśrayāśrayāḥ  
-śuddhyanti tasmai prabhaviṣṇave namaḥ
+who  others  and  sinful  of those who have taken shelter of Him  taking shelter  
+śuddhyanti tasmai prabhaviṣṇave namaḥ  
+are purified  to Him  the all-powerful  obeisance
 
-(203) [not yet translated]
+(203) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and others, and other sinful people too, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)
 
 আগে ‘তের’ অর্থ করিলুঁ, আর ‘ছয়’ এই ৷  
 ঊনবিংশতি অর্থ হইল মিলি’ এই দুই ॥ ২০৪ ॥
 
 āge ‘tera’ artha kariluṅ, āra ‘chaya’ ei  
-ūnaviṁśati artha haila mili’ ei dui
+before  thirteen  meanings  I gave  and  six  these  
+ūnaviṁśati artha haila mili’ ei dui  
+nineteen  meanings  there are  combined  these  two
 
-(204) [not yet translated]
+(204) Earlier I gave thirteen meanings, and now these six: together they make nineteen meanings.
 
 এই ঊনিশ অর্থ করিলুঁ, আগে শুন আর ৷  
 ‘আত্মা’-শব্দে ‘দেহ’ কহে, — চারি অর্থ তার ॥ ২০৫ ॥
 
 ei ūniśa artha kariluṅ, āge śuna āra  
-‘ātmā’-śabde ‘deha’ kahe, — cāri artha tāra
+these  nineteen  meanings  I have given  further  hear  more  
+‘ātmā’-śabde ‘deha’ kahe, — cāri artha tāra  
+by the word ātmā  the body  is meant  four  meanings  of it
 
-(205) [not yet translated]
+(205) I have given these nineteen meanings; now hear more. The word *ātmā* also means the body (*deha*), and this gives four meanings.
 
 দেহারামী দেহে ভজে ‘দেহোপাধি ব্রহ্ম’ ৷  
 সৎসঙ্গে সেহ করে কৃষ্ণের ভজন ॥ ২০৬ ॥
 
 dehārāmī dehe bhaje ‘dehopādhi brahma’  
-sat-saṅge seha kare kṛṣṇera bhajana
+one who delights in the body  in the body  worships  conditioned by the body  Brahman  
+sat-saṅge seha kare kṛṣṇera bhajana  
+in the company of saints  he too  performs  of Kṛṣṇa  worship
 
-(206) [not yet translated]
+(206) One who delights in the body (*dehārāmī*) worships in the body a Brahman conditioned by the body; in the company of saints, he too comes to worship Kṛṣṇa.
 
 উদরমুপাসতে য ঋষিবর্ত্মসু কূর্পদৃশঃ  
 পরিসরপদ্ধতিং হৃদয়মারুণয়ো দহরম্ ৷  
@@ -2323,37 +2393,49 @@ sat-saṅge seha kare kṛṣṇera bhajana
 পুনরিহ যৎ সমেত্য ন পতন্তি কৃতান্তমুখে ॥ ২০৭ ॥
 
 udaram upāsate ya ṛṣi-vartmasu kūrpa-dṛśaḥ  
+the belly (udara)  worship  those who  on the paths of the ṛṣis  of gross vision  
 parisara-paddhatiṁ hṛdayam āruṇayo daharam  
+from which the channels branch out  the heart  the Āruṇis  subtle (dahara)  
 tata udagād ananta tava dhāma śiraḥ paramaṁ  
-punar iha yat sametya na patanti kṛtānta-mukhe
+from there  rises  O Ananta  Your  abode  the head  supreme  
+punar iha yat sametya na patanti kṛtānta-mukhe  
+again  here  which  having reached  not  they fall  of death  into the mouth
 
-(207) [not yet translated]
+(207) “Those of gross vision who follow the paths of the ṛṣis worship (Brahman in) the belly (*udara*); the Āruṇis worship (Brahman, the) subtle (*dahara*), in the heart, from which the channels branch out. From there, O Ananta, (the path) rises to the head, Your supreme abode; having reached it, they do not fall again into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)
 
 দেহারামী কর্ম্মনিষ্ঠ — যাজ্ঞিকাদি জন ৷  
 সৎসঙ্গে ‘কর্ম্ম’ ত্যজি’ করয় ভজন ॥ ২০৮ ॥
 
 dehārāmī karma-niṣṭha — yājñikādi jana  
-sat-saṅge ‘karma’ tyaji’ karaya bhajana
+those who delight in the body  devoted to karma  performers of sacrifice and the like  people  
+sat-saṅge ‘karma’ tyaji’ karaya bhajana  
+in the company of saints  karma  giving up  perform  worship
 
-(208) [not yet translated]
+(208) Those who delight in the body and are devoted to karma — performers of sacrifice and the like — give up karma in the company of saints and worship (Kṛṣṇa).
 
 কর্ম্মণ্যস্মিন্ননাশ্বাসে ধূমধূম্রাত্মনাং ভবান্ ৷  
 আপায়য়তি গোবিন্দপাদপদ্মাসবং মধু ॥ ২০৯ ॥
 
 karmaṇy asminn anāśvāse  
+in work  this  unreliable  
 dhūma-dhūmrātmanāṁ bhavān  
+by smoke  blackened in body  you  
 āpāyayati govinda-  
-pāda-padmāsavaṁ madhu
+give to drink  of Govinda  
+pāda-padmāsavaṁ madhu  
+of the feet  lotus  the nectar (āsava)  honeyed
 
-(209) [not yet translated]
+(209) “In this sacrificial work, whose fruit is never certain, we have been blackened by the smoke; but you give us to drink the honeyed nectar (*āsava*) of Govinda’s lotus feet.” (Śrīmad-Bhāgavatam, 1.18.12)
 
 ‘তপস্বী’ প্রভৃতি যত দেহারামী হয় ৷  
 সাধুসঙ্গে তপ ছাড়ি’ শ্রীকৃষ্ণ ভজয় ॥ ২১০ ॥
 
 ‘tapasvī’ prabhṛti yata dehārāmī haya  
-sādhu-saṅge tapa chāḍi’ śrī-kṛṣṇa bhajaya
+ascetics  and the like  all  who delight in the body  are  
+sādhu-saṅge tapa chāḍi’ śrī-kṛṣṇa bhajaya  
+in the company of sādhus  austerity  giving up  Śrī Kṛṣṇa  worship
 
-(210) [not yet translated]
+(210) Ascetics (*tapasvī*) and the like are all *dehārāmīs*, those who delight in the body; in the company of sādhus they give up austerity and worship Śrī Kṛṣṇa.
 
 যৎপাদসেবাভিরুচিস্তপস্বিনা-  
 মশেষজন্মোপচিতং মলং ধিয়ঃ ৷  
@@ -2361,19 +2443,25 @@ sādhu-saṅge tapa chāḍi’ śrī-kṛṣṇa bhajaya
 যথা পদাঙ্গুষ্ঠবিনিঃসৃতা সরিৎ ॥ ২১১ ॥
 
 yat-pāda-sevābhirucis tapasvinām  
+whose  of the feet  for the service  taste  of ascetics  
 aśeṣa-janmopacitaṁ malaṁ dhiyaḥ  
+in countless  births  accumulated  the impurity  of the mind  
 sadyaḥ kṣiṇoty anv-aham edhatī satī  
-yathā padāṅguṣṭha-viniḥsṛtā sarit
+at once  destroys  day by day  increasing  being  
+yathā padāṅguṣṭha-viniḥsṛtā sarit  
+as  from the toe of His foot  flowing  the river
 
-(211) [not yet translated]
+(211) “The taste for serving His feet, increasing day by day, at once destroys the impurity that has gathered in the minds of ascetics through countless births, as does the river (Gaṅgā) that flows from the toe of His foot.” (Śrīmad-Bhāgavatam, 4.21.31)
 
 দেহারামী, সর্ব্বকাম — সব আত্মারাম ৷  
 কৃষ্ণকৃপায় কৃষ্ণ ভজে ছাড়ি’ সব কাম ॥ ২১২ ॥
 
 dehārāmī, sarva-kāma — saba ātmārāma  
-kṛṣṇa-kṛpāya kṛṣṇa bhaje chāḍi’ saba kāma
+those who delight in the body  full of desires  all  ātmārāmas  
+kṛṣṇa-kṛpāya kṛṣṇa bhaje chāḍi’ saba kāma  
+by Kṛṣṇa’s  mercy  Kṛṣṇa  worship  giving up  all  desires
 
-(212) [not yet translated]
+(212) Those who delight in the body and are full of desires are all *ātmārāmas*; by Kṛṣṇa’s mercy they give up all desires and worship Kṛṣṇa.
 
 স্থানাভিলাষী তপসি স্থিতোঽহং  
 ত্বাং প্রাপ্তবান্ দেবমুনীন্দ্রগুহ্যম্ ৷  
@@ -2381,179 +2469,225 @@ kṛṣṇa-kṛpāya kṛṣṇa bhaje chāḍi’ saba kāma
 স্বামিন্ কৃতার্থোঽস্মি বরং ন যাচে ॥ ২১৩ ॥
 
 sthānābhilāṣī tapasi sthito ‘haṁ  
+desiring a position  in austerity  engaged  I  
 tvāṁ prāptavān deva-munīndra-guhyam  
+You  have attained  hidden from the gods and the best of sages  
 kācaṁ vicinvann api divya-ratnaṁ  
-svāmin kṛtārtho ‘smi varaṁ na yāce
+glass  searching for  though  a divine jewel  
+svāmin kṛtārtho ‘smi varaṁ na yāce  
+O Master  fulfilled  I am  a boon  not  I ask
 
-(213) [not yet translated]
+(213) “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)
 
 এই চারি অর্থ সহ হইল ‘তেইশ’ অর্থ ৷  
 আর তিন অর্থ শুন পরম সমর্থ ॥ ২১৪ ॥
 
 ei cāri artha saha haila ‘teiśa’ artha  
-āra tina artha śuna parama samartha
+these  four  meanings  together with  there are  twenty-three  meanings  
+āra tina artha śuna parama samartha  
+further  three  meanings  hear  most  cogent
 
-(214) [not yet translated]
+(214) Together with these four, there are twenty-three meanings. Now hear three more most cogent meanings.
 
 চ-শব্দে ‘সমুচ্চয়ে’, আর অর্থ কয় ৷  
 ‘আত্মারামাশ্চ মুনয়শ্চ’ কৃষ্ণেরে ভজয় ॥ ২১৫ ॥
 
 ca-śabde ‘samuccaye’, āra artha kaya  
-‘ātmārāmāś ca munayaś ca’ kṛṣṇere bhajaya
+the word ca  in the sense of conjunction  another  meaning  expresses  
+‘ātmārāmāś ca munayaś ca’ kṛṣṇere bhajaya  
+ātmārāmas  and  sages  and  Kṛṣṇa  worship
 
-(215) [not yet translated]
+(215) The word *ca* in the sense of conjunction (*samuccaya*) gives another meaning: “the *ātmārāmas* and the sages (*ātmārāmāś ca munayaś ca*)” worship Kṛṣṇa.
 
 ‘নির্গ্রন্থাঃ’ হঞা ইঁহা ‘অপি’ — নির্দ্ধারণে ৷  
 ‘রামশ্চ কৃষ্ণশ্চ’ যথা বিহরয়ে বনে ॥ ২১৬ ॥
 
 ‘nirgranthāḥ’ hañā iṅhā ‘api’ — nirdhāraṇe  
-‘rāmaś ca kṛṣṇaś ca’ yathā viharaye vane
+nirgranthas  becoming  here  api  in the sense of specification  
+‘rāmaś ca kṛṣṇaś ca’ yathā viharaye vane  
+Rāma  and  Kṛṣṇa  and  as  roam  in the forest
 
-(216) [not yet translated]
+(216) “Becoming *nirgranthas*”: here *api* has the sense of specification (*nirdhāraṇa*), as in “*rāmaś ca kṛṣṇaś ca* roam in the forest.”
 
 চ-শব্দে ‘অন্বাচয়ে’ অর্থ কহে আর ৷  
 ‘বটো, ভিক্ষামট, গাঞ্চানয়’ যৈছে প্রকার ॥ ২১৭ ॥
 
 ca-śabde ‘anvācaye’ artha kahe āra  
-’baṭo, bhikṣām aṭa, gāṁ cānaya’ yaiche prakāra
+the word ca  in the sense of anvācaya  a meaning  expresses  another  
+’baṭo, bhikṣām aṭa, gāṁ cānaya’ yaiche prakāra  
+O boy  for alms  go  the cow  and bring  as  in the manner
 
-(217) [not yet translated]
+(217) The word *ca* gives yet another meaning in the sense of *anvācaya* — adding something secondary to what is principal — as in: “*Baṭo, bhikṣām aṭa, gāṁ cānaya*” (“O boy, go for alms, and bring the cow too”).
 
 কৃষ্ণমননে মুনি কৃষ্ণে সর্ব্বদা ভজয় ৷  
 ‘আত্মারামা অপি’ ভজে, — গৌণ অর্থ কয় ॥ ২১৮ ॥
 
 kṛṣṇa-manane muni kṛṣṇe sarvadā bhajaya  
-‘ātmārāmā api’ bhaje, — gauṇa artha kaya
+in contemplation of Kṛṣṇa  the sage  Kṛṣṇa  always  worships  
+‘ātmārāmā api’ bhaje, — gauṇa artha kaya  
+ātmārāmas  also  worship  secondary  meaning  it expresses
 
-(218) [not yet translated]
+(218) The sage, absorbed in contemplating Kṛṣṇa, always worships Kṛṣṇa; and “the *ātmārāmas* also (*ātmārāmā api*)” worship Him — this expresses the secondary meaning.
 
 ‘চ’ এবার্থে ‘মুনয়ঃ এব’ কৃষ্ণেরে ভজয় ৷  
 “আত্মারামা অপি” — ‘অপি’ ‘গর্হা’-অর্থ কয় ॥ ২১৯ ॥
 
 ‘ca’ evārthe ‘munayaḥ eva’ kṛṣṇere bhajaya  
-“ātmārāmā api” — ‘api’ ‘garhā’-artha kaya
+ca  in the sense of eva  sages  only  Kṛṣṇa  worship  
+“ātmārāmā api” — ‘api’ ‘garhā’-artha kaya  
+ātmārāmas  even  api  of censure  the meaning  expresses
 
-(219) [not yet translated]
+(219) Taking *ca* in the sense of *eva*: “only the sages (*munayaḥ eva*)” worship Kṛṣṇa; and in “*ātmārāmā api*” the word *api* expresses censure (*garhā*).
 
 ‘নির্গ্রন্থ হঞা’ — এই দুঁহার ‘বিশেষণ’ ৷  
 আর অর্থ শুন, যৈছে সাধুর সঙ্গম ॥ ২২০ ॥
 
 ‘nirgrantha hañā’ — ei duṅhāra ‘viśeṣaṇa’  
-āra artha śuna, yaiche sādhura saṅgama
+nirgranthas  becoming  this  of both  a qualifier  
+āra artha śuna, yaiche sādhura saṅgama  
+another  meaning  hear  how  of the sādhu  the company
 
-(220) [not yet translated]
+(220) “Becoming *nirgranthas*” is a qualifier of both. Now hear another meaning, which shows what the company of sādhus can do.
 
 নির্গ্রন্থ-শব্দে কহে তবে ‘ব্যাধ’, ‘নির্ধন’ ৷  
 সাধুসঙ্গে সেহ করে শ্রীকৃষ্ণ ভজন ॥ ২২১ ॥
 
 nirgrantha-śabde kahe tabe ‘vyādha’, ‘nirdhana’  
-sādhu-saṅge seha kare śrī-kṛṣṇa bhajana
+by the word nirgrantha  is meant  then  a hunter  a pauper  
+sādhu-saṅge seha kare śrī-kṛṣṇa bhajana  
+in the company of sādhus  he too  performs  of Śrī Kṛṣṇa  worship
 
-(221) [not yet translated]
+(221) The word *nirgrantha* then means a hunter (*vyādha*) or a pauper (*nirdhana*); in the company of sādhus, he too worships Śrī Kṛṣṇa.
 
 ‘কৃষ্ণারামাশ্চ’ এব কৃষ্ণ-মনন ৷  
 ব্যাধ হঞা হয় পূজ্য ভাগবতোত্তম ॥ ২২২ ॥
 
 ‘kṛṣṇārāmāś ca’ eva kṛṣṇa-manana  
-vyādha hañā haya pūjya bhāgavatottama
+those who delight in Kṛṣṇa  and  indeed  of Kṛṣṇa  contemplation  
+vyādha hañā haya pūjya bhāgavatottama  
+a hunter  though being  becomes  worshipful  the best of bhāgavatas
 
-(222) [not yet translated]
+(222) “*Kṛṣṇārāmāś ca*”: those who delight in Kṛṣṇa, that is, in contemplating Kṛṣṇa. Though a hunter, such a person becomes worshipful, the best of the *bhāgavatas*.
 
 এক ভক্ত-ব্যাধের কথা শুন সাবধানে ৷  
 যাহা হৈতে হয় সৎসঙ্গ-মহিমার জ্ঞানে ॥ ২২৩ ॥
 
 eka bhakta-vyādhera kathā śuna sāvadhāne  
-yāhā haite haya sat-saṅga-mahimāra jñāne
+of one  devotee hunter  the story  hear  attentively  
+yāhā haite haya sat-saṅga-mahimāra jñāne  
+which  from  comes  of the company of saints  of the glory  knowledge
 
-(223) [not yet translated]
+(223) Hear attentively the story of a hunter who became a devotee; from it one comes to know the glory of the company of saints.
 
 এক দিন শ্রীনারদ দেখি’ নারায়ণ ৷  
 ত্রিবেণী স্নানে প্রয়াগ করিলা গমন ॥ ২২৪ ॥
 
 eka dina śrī-nārada dekhi’ nārāyaṇa  
-triveṇī snāne prayāga karilā gamana
+one  day  Śrī Nārada  having seen  Nārāyaṇa  
+triveṇī snāne prayāga karilā gamana  
+at the Triveṇī  for bathing  to Prayāga  made  his way
 
-(224) [not yet translated]
+(224) One day, after seeing Nārāyaṇa, Śrī Nārada went to Prayāga to bathe at the Triveṇī.
 
 বনপথে দেখে মৃগ আছে ভূমে পড়ি’ ৷  
 বাণ-বিদ্ধ ভগ্নপাদ করে ধড়্ফড়ি ॥ ২২৫ ॥
 
 vana-pathe dekhe mṛga āche bhūme paḍi’  
-bāṇa-viddha bhagna-pāda kare dhaḍ-phaḍi
+on the forest path  he sees  a deer  is  on the ground  fallen  
+bāṇa-viddha bhagna-pāda kare dhaḍ-phaḍi  
+pierced by an arrow  with broken legs  makes  writhing
 
-(225) [not yet translated]
+(225) On the forest path he saw a deer lying on the ground, pierced by an arrow, its legs broken, writhing in pain.
 
 আর কতদূরে এক দেখেন শূকর ৷  
 তৈছে বিদ্ধ ভগ্নপাদ করে ধড়্ফড় ॥ ২২৬ ॥
 
 āra kata-dūre eka dekhena śūkara  
-taiche viddha bhagna-pāda kare dhaḍ-phaḍa
+further  a little way on  a  he sees  boar  
+taiche viddha bhagna-pāda kare dhaḍ-phaḍa  
+likewise  pierced  with broken legs  makes  writhing
 
-(226) [not yet translated]
+(226) A little farther on he saw a boar, likewise pierced, its legs broken, writhing in pain.
 
 ঐছে এক শশক দেখে আর কতদূরে ৷  
 জীবের দুঃখ দেখি’ নারদ ব্যাকুল অন্তরে ॥ ২২৭ ॥
 
 aiche eka śaśaka dekhe āra kata-dūre  
-jīvera duḥkha dekhi’ nārada vyākula antare
+likewise  a  rabbit  he sees  further  a little way on  
+jīvera duḥkha dekhi’ nārada vyākula antare  
+of the creatures  the suffering  seeing  Nārada  distressed  at heart
 
-(227) [not yet translated]
+(227) A little farther on he saw a rabbit in the same state. Seeing the suffering of these creatures, Nārada was distressed at heart.
 
 কতদূরে দেখে ব্যাধে বৃক্ষে ওঁত হঞা ৷  
 মৃগ মারিবারে আছে বাণ যুড়িয়া ॥ ২২৮ ॥
 
 kata-dūre dekhe vyādhe vṛkṣe oṅta hañā  
-mṛga māribāre āche bāṇa yuḍiyā
+a little way on  he sees  the hunter  behind a tree  hidden (õta)  being  
+mṛga māribāre āche bāṇa yuḍiyā  
+deer  to kill  he is  an arrow  having fitted
 
-(228) [not yet translated]
+(228) A little farther on he saw the hunter hiding behind a tree, an arrow fitted to his bow, waiting to kill deer.
 
 শ্যামবর্ণ রক্তনেত্র মহাভয়ঙ্কর ৷  
 ধনুর্বাণ হস্তে, — যেন যম দণ্ডধর ॥ ২২৯ ॥
 
 śyāma-varṇa rakta-netra mahā-bhayaṅkara  
-dhanur-bāṇa haste, — yena yama daṇḍa-dhara
+dark in complexion  red-eyed  very  fearsome  
+dhanur-bāṇa haste, — yena yama daṇḍa-dhara  
+bow and arrows  in his hands  as if  Yama  holding the rod
 
-(229) [not yet translated]
+(229) He was dark in complexion, red-eyed and very fearsome; with bow and arrows in his hands, he looked like Yamarāja holding his rod of punishment.
 
 পথ ছাড়ি’ নারদ তার নিকটে চলিল ৷  
 নারদে দেখি’ মৃগ সব পালাঞা গেল ॥ ২৩০ ॥
 
 patha chāḍi’ nārada tāra nikaṭe calila  
-nārade dekhi’ mṛga saba pālāñā gela
+the path  leaving  Nārada  to him  near  went  
+nārade dekhi’ mṛga saba pālāñā gela  
+Nārada  seeing  the deer  all  fleeing  went away
 
-(230) [not yet translated]
+(230) Leaving the path, Nārada went up to him, and on seeing Nārada all the deer ran away.
 
 ক্রুদ্ধ হঞা ব্যাধ তাঁরে গালি দিতে চায় ৷  
 নারদ-প্রভাবে মুখে গালি নাহি আয় ॥ ২৩১ ॥
 
 kruddha hañā vyādha tāṅre gāli dite cāya  
-nārada-prabhāve mukhe gāli nāhi āya
+angry  becoming  the hunter  him  abuse  to give  wanted  
+nārada-prabhāve mukhe gāli nāhi āya  
+by Nārada’s  power  to his mouth  abuse  did not  come
 
-(231) [not yet translated]
+(231) The hunter grew angry and wanted to abuse him, but by Nārada’s power no abuse would come to his lips.
 
 গোসাঞি, প্রয়াণ-পথ ছাড়ি’ কেনে আইলা ৷  
 তোমা দেখি’ মোর লক্ষ্য মৃগ পলাইলা ॥ ২৩২ ॥
 
 gosāñi, prayāṇa-patha chāḍi’ kene āilā  
-tomā dekhi’ mora lakṣya mṛga palāilā
+O Gosāñi  the common road  leaving  why  have you come  
+tomā dekhi’ mora lakṣya mṛga palāilā  
+you  seeing  my  target  the deer  has fled
 
-(232) [not yet translated]
+(232) “Gosāñi, why have you left the road (*prayāṇa-patha*) and come here? Seeing you, the deer I was aiming at has fled.”
 
 নারদ কহে, — পথ ভুলি’ আইলাঙ পুছিতে ৷  
 মনে এক সংশয় হয়, তাহা খণ্ডাইতে ॥ ২৩৩ ॥
 
 nārada kahe, — patha bhuli’ āilāṅa puchite  
-mane eka saṁśaya haya, tāhā khaṇḍāite
+Nārada  said  the way  having lost  I have come  to ask  
+mane eka saṁśaya haya, tāhā khaṇḍāite  
+in my mind  one  doubt  there is  it  to dispel
 
-(233) [not yet translated]
+(233) Nārada said, “I lost my way and have come to ask you something. There is a doubt in my mind, and I would like to dispel it.
 
 পথে যে শূকর-মৃগ, জানি তোমার হয় ৷  
 ব্যাধ কহে, — যেই কহ, সেই ত’ নিশ্চয় ॥ ২৩৪ ॥
 
 pathe ye śūkara-mṛga, jāni tomāra haya  
-vyādha kahe, — yei kaha, sei ta’ niścaya
+on the path  which  boar  deer  I know  yours  are  
+vyādha kahe, — yei kaha, sei ta’ niścaya  
+the hunter  said  what  you say  that  indeed  certain
 
-(234) [not yet translated]
+(234) The boar and the deer on the path — I take it they are yours?” The hunter said, “Yes, what you say is so.”
 
 নারদ কহে, — যদি জীবে মার’ তুমি বাণ ৷  
 অর্দ্ধ-মারা কর কেনে, না লও পরাণ ? ॥ ২৩৫ ॥
@@ -3166,391 +3300,495 @@ kapittha trees  and  mango trees  and  trees
 তৈছে সব আত্মারাম কৃষ্ণে ভক্তি করয় ॥ ২৯৫ ॥
 
 ‘asmin vane vṛkṣāḥ phalanti’ yaiche haya  
-taiche saba ātmārāma kṛṣṇe bhakti karaya
+in this  forest  trees  bear fruit  as  it is  
+taiche saba ātmārāma kṛṣṇe bhakti karaya  
+so  all  ātmārāmas  to Kṛṣṇa  devotion  render
 
-(295) [not yet translated]
+(295) Just as one says, “In this forest the trees bear fruit,” so all the *ātmārāmas* render devotion to Kṛṣṇa.
 
 ‘আত্মারামাশ্চ’ সমুচ্চয়ে কহিয়ে চ-কার ৷  
 ‘মুনয়শ্চ’ ভক্তি করে, — এই অর্থ তার ॥ ২৯৬ ॥
 
 ‘ātmārāmāś ca’ samuccaye kahiye ca-kāra  
-‘munayaś ca’ bhakti kare, — ei artha tāra
+ātmārāmas  and  in the sense of conjunction  I take  the word ca  
+‘munayaś ca’ bhakti kare, — ei artha tāra  
+munis  and  devotion  render  this  meaning  its
 
-(296) [not yet translated]
+(296) In “*ātmārāmāś ca*” I take the word *ca* in the sense of conjunction (*samuccaya*): “and the *munis* render devotion” — this is its meaning.
 
 ‘নির্গ্রন্থা এব’ হঞা, ‘অপি’ — নির্দ্ধারণে ৷  
 এই ‘ঊনষষ্টি’ প্রকার অর্থ করিলুঁ ব্যাখ্যানে ॥ ২৯৭ ॥
 
 ‘nirgranthā eva’ hañā, ‘api’ — nirdhāraṇe  
-ei ‘ūnaṣaṣṭi’ prakāra artha kariluṅ vyākhyāne
+nirgranthas  indeed  becoming  api  in the sense of specification  
+ei ‘ūnaṣaṣṭi’ prakāra artha kariluṅ vyākhyāne  
+this  fifty-ninth  kind  of meaning  I made  in the explanation
 
-(297) [not yet translated]
+(297) Taking “*nirgranthā eva*” — “having become *nirgranthas*” — and *api* in the sense of specification (*nirdhāraṇa*), I have explained the fifty-ninth kind of meaning.
 
 সর্ব্বসমুচ্চয়ে আর এক অর্থ হয় ৷  
 ‘আত্মারামাশ্চ মুনয়শ্চ নির্গ্রন্থাশ্চ’ ভজয় ॥ ২৯৮ ॥
 
 sarva-samuccaye āra eka artha haya  
-‘ātmārāmāś ca munayaś ca nirgranthāś ca’ bhajaya
+in the conjunction of all  further  one  meaning  there is  
+‘ātmārāmāś ca munayaś ca nirgranthāś ca’ bhajaya  
+ātmārāmas  and  munis  and  nirgranthas  and  worship
 
-(298) [not yet translated]
+(298) Conjoining them all, there is one more meaning: “The *ātmārāmas*, the *munis* and the *nirgranthas*” all worship Kṛṣṇa.
 
 ‘অপি’-শব্দ — অবধারণে, সেই চারি বার ৷  
 চারিশব্দ-সঙ্গে ‘এব’ করিব উচ্চার ॥ ২৯৯ ॥
 
 ‘api’-śabda — avadhāraṇe, sei cāri bāra  
-cāri-śabda-saṅge ‘eva’ kariba uccāra
+api  the word  in the sense of certainty  that  four  times  
+cāri-śabda-saṅge ‘eva’ kariba uccāra  
+four words  with  eva  I will make  utterance
 
-(299) [not yet translated]
+(299) Taking the word *api* in the sense of certainty (*avadhāraṇa*), I will pronounce *eva* four times, once with each of the four words:
 
 উরুক্রমে এব ভক্তিমেব অহৈতুকীমেব কুর্ব্বন্ত্যেব ॥ ৩০০ ॥
 
 urukrame eva bhaktim eva  
-ahaitukīm eva kurvanty eva
+to Urukrama  alone  devotion  alone  
+ahaitukīm eva kurvanty eva  
+causeless  alone  they render  indeed
 
-(300) [not yet translated]
+(300) “To Urukrama alone, devotion alone, causeless devotion alone — this indeed they render.”
 
 এই ত’ কহিলুঁ শ্লোকের ‘ষষ্টি’সংখ্যক অর্থ ৷  
 আর এক অর্থ শুন প্রমাণে সমর্থ ॥ ৩০১ ॥
 
 ei ta’ kahiluṅ ślokera ‘ṣaṣṭi’-saṅkhyaka artha  
-āra eka artha śuna pramāṇe samartha
+this  indeed  I told  of the verse  sixty  in number  meanings  
+āra eka artha śuna pramāṇe samartha  
+another  one  meaning  hear  by evidence  supported
 
-(301) [not yet translated]
+(301) Thus I have told you sixty meanings of the verse. Now hear one more meaning, well supported by evidence.
 
 ‘আত্মা’-শব্দে কহে ‘ক্ষেত্রজ্ঞ জীব’-লক্ষণ ৷  
 ব্রহ্মাদি কীটপর্য্যন্ত — তাঁর শক্তিতে গণন ॥ ৩০২ ॥
 
 ‘ātmā’-śabde kahe ‘kṣetra-jña jīva’-lakṣaṇa  
-brahmādi kīṭa-paryanta — tāṅra śaktite gaṇana
+ātmā  by the word  denotes  kṣetrajña  jīva  the sense  
+brahmādi kīṭa-paryanta — tāṅra śaktite gaṇana  
+Brahmā and others  down to the insect  His  in the potency  counted
 
-(302) [not yet translated]
+(302) The word *ātmā* also denotes the *jīva*, the knower of the field (*kṣetrajña*). All beings, from Brahmā down to the insect, are counted as His potency.
 
 বিষ্ণুশক্তিঃ পরা প্রোক্তা ক্ষেত্রজ্ঞাখ্যা তথাপরা ৷  
 অবিদ্যা-কর্ম্ম-সংজ্ঞান্যা তৃতীয়া শক্তিরিষ্যতে ॥ ৩০৩ ॥
 
 viṣṇu-śaktiḥ parā proktā  
+Viṣṇu’s potency  superior  is declared  
 kṣetrajñākhyā tathā parā  
+called the knower of the field  likewise  superior  
 avidyā-karma-saṁjñānyā  
-tṛtīyā śaktir iṣyate
+called ignorance and karma  another  
+tṛtīyā śaktir iṣyate  
+a third  potency  is held to be
 
-(303) [not yet translated]
+(303) “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
 
 ক্ষেত্রজ্ঞ আত্মা পুরুষঃ প্রধানং প্রকৃতিঃ স্ত্রিয়াম্ ॥ ৩০৪ ॥
 
 kṣetra-jña ātmā puruṣaḥ  
-pradhānaṁ prakṛtiḥ striyām
+kṣetrajña  ātmā  puruṣa  
+pradhānaṁ prakṛtiḥ striyām  
+pradhāna  prakṛti  in the feminine
 
-(304) [not yet translated]
+(304) “*Kṣetrajña*: *ātmā*, *puruṣa*, *pradhāna* and *prakṛti* (the last in the feminine).” (Amara-kośa)
 
 ভ্রমিতে ভ্রমিতে যদি সাধুসঙ্গ পায় ৷  
 সব ত্যজি’ তবে তিঁহো কৃষ্ণেরে ভজয় ॥ ৩০৫ ॥
 
 bhramite bhramite yadi sādhu-saṅga pāya  
-saba tyaji’ tabe tiṅho kṛṣṇere bhajaya
+wandering  wandering  if  of a sādhu  the company  he finds  
+saba tyaji’ tabe tiṅho kṛṣṇere bhajaya  
+everything  giving up  then  he  Kṛṣṇa  worships
 
-(305) [not yet translated]
+(305) If, after wandering and wandering, such a soul finds the company of a *sādhu*, he gives up everything and worships Kṛṣṇa.
 
 ষাটি অর্থ কহিলুঁ, সব — কৃষ্ণের ভজনে ৷  
 সেই অর্থ হয়, এই সব উদাহরণে ॥ ৩০৬ ॥
 
 ṣāṭi artha kahiluṅ, saba — kṛṣṇera bhajane  
-sei artha haya, ei saba udāharaṇe
+sixty  meanings  I told  all  Kṛṣṇa’s  in the worship  
+sei artha haya, ei saba udāharaṇe  
+that  meaning  is  these  all  in the examples
 
-(306) [not yet translated]
+(306) I have told you sixty meanings, and all of them concern the worship of Kṛṣṇa; that same meaning holds in all these examples.
 
 ‘একষষ্টি’ অর্থ এবে স্ফুরিল তোমা-সঙ্গে ৷  
 তোমার ভক্তি-বশে উঠে অর্থের তরঙ্গে ॥ ৩০৭ ॥
 
 ‘eka-ṣaṣṭi’ artha ebe sphurila tomā-saṅge  
-tomāra bhakti-vaśe uṭhe arthera taraṅge
+sixty-first  meaning  now  came to light  in your company  
+tomāra bhakti-vaśe uṭhe arthera taraṅge  
+your  devotion  by the power  rise  of meaning  waves
 
-(307) [not yet translated]
+(307) Now, in your company, the sixty-first meaning has come to light. By the power of your devotion, waves of meaning rise up.
 
 অর্থ শুনি’ সনাতন বিস্মিত হঞা ৷  
 স্তুতি করে মহাপ্রভুর চরণে ধরিয়া ॥ ৩০৮ ॥
 
 artha śuni’ sanātana vismita hañā  
-stuti kare mahāprabhura caraṇe dhariyā
+the meanings  hearing  Sanātana  amazed  becoming  
+stuti kare mahāprabhura caraṇe dhariyā  
+prayers  offers  of Mahāprabhu  the feet  clasping
 
-(308) [not yet translated]
+(308) Hearing these meanings, Sanātana was amazed. Clasping Mahāprabhu’s feet, he offered prayers:
 
 সাক্ষাৎ ঈশ্বর তুমি ব্রজেন্দ্রনন্দন ৷  
 তোমার নিশ্বাসে সর্ব্ববেদ-প্রবর্ত্তন ॥ ৩০৯ ॥
 
 sākṣāt īśvara tumi vrajendra-nandana  
-tomāra niśvāse sarva-veda-pravartana
+directly  the Lord  You  of the king of Vraja  the son  
+tomāra niśvāse sarva-veda-pravartana  
+Your  by the breath  of all the Vedas  the coming forth
 
-(309) [not yet translated]
+(309) “You are the Lord Himself, the son of the king of Vraja. All the Vedas come forth with Your breath.
 
 তুমি — বক্তা ভাগবতের, তুমি জান অর্থ ৷  
 তোমা বিনা অন্য জানিতে নাহিক সমর্থ ॥ ৩১০ ॥
 
 tumi — vaktā bhāgavatera, tumi jāna artha  
-tomā vinā anya jānite nāhika samartha
+You  the speaker  of the Bhāgavatam  You  know  the meaning  
+tomā vinā anya jānite nāhika samartha  
+You  except  another  to know  not  able
 
-(310) [not yet translated]
+(310) “You are the speaker of the *Bhāgavatam*, and You know its meaning. No one but You is able to know it.”
 
 প্রভু কহে, — কেনে কর আমার স্তবন ৷  
 ভাগবতের স্বরূপ কেনে না কর বিচারণ ? ॥ ৩১১ ॥
 
 prabhu kahe, — kene kara āmāra stavana  
-bhāgavatera svarūpa kene nā kara vicāraṇa?
+the Lord  says  why  you make  My  praise  
+bhāgavatera svarūpa kene nā kara vicāraṇa?  
+of the Bhāgavatam  the true nature  why  not  you make  consideration
 
-(311) [not yet translated]
+(311) The Lord said, “Why do you praise Me? Why do you not consider the true nature of the *Bhāgavatam*?
 
 কৃষ্ণ-তুল্য ভাগবত — বিভু, সর্ব্বাশ্রয় ৷  
 প্রতি-শ্লোকে প্রতি-অক্ষরে নানা অর্থ কয় ॥ ৩১২ ॥
 
 kṛṣṇa-tulya bhāgavata — vibhu, sarvāśraya  
-prati-śloke prati-akṣare nānā artha kaya
+to Kṛṣṇa  equal  the Bhāgavatam  all-pervading  the shelter of all  
+prati-śloke prati-akṣare nānā artha kaya  
+in every  verse  in every  syllable  many  meanings  expresses
 
-(312) [not yet translated]
+(312) “The *Bhāgavatam* is equal to Kṛṣṇa — all-pervading, the shelter of all. In every verse and every syllable it expresses many meanings.
 
 প্রশ্নোত্তরে ভাগবতে করিয়াছে নির্দ্ধার ৷  
 যাঁহার শ্রবণে লোকে লাগে চমৎকার ॥ ৩১৩ ॥
 
 praśnottare bhāgavate kariyāche nirdhāra  
-yāṅhāra śravaṇe loke lāge camatkāra
+in questions and answers  in the Bhāgavatam  has made  the conclusion  
+yāṅhāra śravaṇe loke lāge camatkāra  
+which  at the hearing  to people  comes  wonder
 
-(313) [not yet translated]
+(313) “In the *Bhāgavatam* the truth is established through questions and answers, and hearing it, people are struck with wonder.
 
 অহং বেদ্মি শুকো বেত্তি ব্যাসো বেত্তি ন বেত্তি বা ৷  
 ভক্ত্যা ভাগবতং গ্রাহ্যং ন বুদ্ধ্যা ন চ টীকয়া ॥ ৩১৪ ॥
 
 ahaṁ vedmi śuko vetti  
+I  know  Śuka  knows  
 vyāso vetti na vetti vā  
+Vyāsa  knows  not  knows  or  
 bhaktyā bhāgavataṁ grāhyaṁ  
-na buddhyā na ca ṭīkayā
+by devotion  the Bhāgavatam  to be grasped  
+na buddhyā na ca ṭīkayā  
+not  by intellect  not  and  by commentary
 
-(314) [not yet translated]
+(314) “I know, Śuka knows, and Vyāsa may or may not know. The *Bhāgavatam* is to be grasped by devotion — not by the intellect, nor by commentaries.” (An ancient verse: the words of Śiva)
 
 ব্রূহি যোগেশ্বরে কৃষ্ণে ব্রহ্মণ্যে ধর্ম্মবর্ম্মণি ৷  
 স্বাং কাষ্ঠামধুনোপেতে ধর্ম্মঃ কং শরণং গতঃ ॥ ৩১৫ ॥
 
 brūhi yogeśvare kṛṣṇe  
+tell  to the master of yoga  to Kṛṣṇa  
 brahmaṇye dharma-varmaṇi  
+devoted to the brāhmaṇas  of dharma  the armour  
 svāṁ kāṣṭhām adhunopete  
-dharmaḥ kaṁ śaraṇaṁ gataḥ
+to His own  abode  now  having gone  
+dharmaḥ kaṁ śaraṇaṁ gataḥ  
+dharma  to which  shelter  has gone
 
-(315) [not yet translated]
+(315) “Tell us: now that Kṛṣṇa — the master of *yoga*, devoted to the *brāhmaṇas*, the armour of *dharma* — has gone to His own abode, to whom has *dharma* gone for shelter?” (Śrīmad-Bhāgavatam, 1.1.23)
 
 কৃষ্ণে স্বধামোপগতে ধর্ম্মজ্ঞানাদিভিঃ সহ ৷  
 কলৌ নষ্টদৃশামেষ পুরাণার্কোঽধুনোদিতঃ ॥ ৩১৬ ॥
 
 kṛṣṇe sva-dhāmopagate  
+Kṛṣṇa  to His own abode  having gone  
 dharma-jñānādibhiḥ saha  
+dharma  knowledge and the rest  with  
 kalau naṣṭa-dṛśām eṣa  
-purāṇārko ‘dhunoditaḥ
+in Kali  for those who have lost their sight  this  
+purāṇārko ‘dhunoditaḥ  
+Purāṇa-sun  now  has risen
 
-(316) [not yet translated]
+(316) “Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge and the rest, this Purāṇa has risen like the sun in the age of Kali for those who have lost their sight.” (Śrīmad-Bhāgavatam, 1.3.43)
 
 এই মত কহিলুঁ এক শ্লোকের ব্যাখ্যান ৷  
 বাতুলের প্রলাপ করি’ কে করে প্রমাণ ? ॥ ৩১৭ ॥
 
 ei mata kahiluṅ eka ślokera vyākhyāna  
-vātulera pralāpa kari’ ke kare pramāṇa?
+this  way  I told  one  of the verse  explanation  
+vātulera pralāpa kari’ ke kare pramāṇa?  
+of a madman  raving  taking  who  makes  authority
 
-(317) [not yet translated]
+(317) “In this way I have explained a single verse. Who would take a madman’s raving as authority?
 
 আমা-হেন যেবা কেহ ‘বাতুল’ হয় ৷  
 এইদৃষ্টে ভাগবতের অর্থ জানয় ॥ ৩১৮ ॥
 
 āmā-hena yebā keha ‘vātula’ haya  
-ei-dṛṣṭe bhāgavatera artha jānaya
+like Me  whoever  anyone  a madman  becomes  
+ei-dṛṣṭe bhāgavatera artha jānaya  
+with this vision  of the Bhāgavatam  the meaning  knows
 
-(318) [not yet translated]
+(318) “Only one who becomes ‘mad’ like Me comes to know the meaning of the *Bhāgavatam* with such vision.”
 
 পুনঃ সনাতন কহে যুড়ি’ দুই করে ৷  
 প্রভু, আজ্ঞা দিলা ‘বৈষ্ণবস্মৃতি’ করিবারে ॥ ৩১৯ ॥
 
 punaḥ sanātana kahe yuḍi’ dui kare  
-prabhu, ājñā dilā ‘vaiṣṇava-smṛti’ karibāre
+again  Sanātana  says  joining  two  palms  
+prabhu, ājñā dilā ‘vaiṣṇava-smṛti’ karibāre  
+Lord  order  You gave  Vaiṣṇava-smṛti  to make
 
-(319) [not yet translated]
+(319) Joining his palms, Sanātana spoke again: “Lord, You ordered me to compile a *Vaiṣṇava-smṛti*.
 
 মুঞি — নীচ-জাতি, কিছু না জানি বিচার ৷  
 মো-হৈতে কৈছে হয় স্মৃতি-পরচার ॥ ৩২০ ॥
 
 muñi — nīca-jāti, kichu nā jāni vicāra  
-mo-haite kaiche haya smṛti-paracāra
+I  of low  birth  anything  not  I know  reasoning  
+mo-haite kaiche haya smṛti-paracāra  
+through me  how  happens  of the smṛti  promulgation
 
-(320) [not yet translated]
+(320) “I am of low birth and know nothing of reasoning. How can a *smṛti* be set forth through me?
 
 সূত্র করি’ দিশা যদি করহ উপদেশ ৷  
 আপনে করহ যদি হৃদয়ে প্রবেশ ॥ ৩২১ ॥
 
 sūtra kari’ diśā yadi karaha upadeśa  
-āpane karaha yadi hṛdaye praveśa
+sūtras  making  direction  if  You give  instruction  
+āpane karaha yadi hṛdaye praveśa  
+Yourself  You make  if  in the heart  entrance
 
-(321) [not yet translated]
+(321) “If You instruct me, showing the direction in the form of *sūtras*, and if You Yourself enter my heart,
 
 তবে তার দিশা স্ফুরে মো-নীচের হৃদয়ে ৷  
 ঈশ্বর তুমি, — যে করাহ, সেই সিদ্ধ হয়ে ॥ ৩২২ ॥
 
 tabe tāra diśā sphure mo-nīcera hṛdaye  
-īśvara tumi, — ye karāha, sei siddha haye
+then  its  direction  appears  of lowly me  in the heart  
+īśvara tumi, — ye karāha, sei siddha haye  
+the Lord  You  what  You cause to do  that  accomplished  becomes
 
-(322) [not yet translated]
+(322) “then the way to write it will dawn in this lowly one’s heart. You are the Lord: whatever You have one do is accomplished.”
 
 প্রভু কহে, — যে করিতে করিবা তুমি মন ৷  
 কৃষ্ণ সেই সেই তোমা করাবে স্ফুরণ ॥ ৩২৩ ॥
 
 prabhu kahe, — ye karite karibā tumi mana  
-kṛṣṇa sei sei tomā karābe sphuraṇa
+the Lord  says  what  to do  you will make  you  mind  
+kṛṣṇa sei sei tomā karābe sphuraṇa  
+Kṛṣṇa  that  that  to you  will cause  revelation
 
-(323) [not yet translated]
+(323) The Lord said, “Whatever you resolve to do, Kṛṣṇa will reveal it to you.
 
 তথাপি এই সূত্রের শুন দিগ্দরশন ৷  
 সকারণ লিখি আদৌ গুরু আশ্রয়ণ ॥ ৩২৪ ॥
 
 tathāpi ei sūtrera śuna dig-daraśana  
-sakāraṇa likhi ādau guru āśrayaṇa
+still  these  of the sūtras  hear  an outline  
+sakāraṇa likhi ādau guru āśrayaṇa  
+with reasons  writing  first  of the guru  taking shelter
 
-(324) [not yet translated]
+(324) “Still, hear an outline of these *sūtras*. First describe, with its reasons, taking shelter of a guru.
 
 গুরুলক্ষণ, শিষ্যলক্ষণ, দোঁহার পরীক্ষণ ৷  
 সেব্য — ভগবান্, সর্ব্বমন্ত্র-বিচারণ ॥ ৩২৫ ॥
 
 guru-lakṣaṇa, śiṣya-lakṣaṇa, doṅhāra parīkṣaṇa  
-sevya — bhagavān, sarva-mantra-vicāraṇa
+guru  marks  disciple  marks  of both  testing  
+sevya — bhagavān, sarva-mantra-vicāraṇa  
+the object of service  Bhagavān  all  mantras  consideration
 
-(325) [not yet translated]
+(325) “the marks of a guru and of a disciple, and how each tests the other; Bhagavān as the object of service; a consideration of all the *mantras*;
 
 মন্ত্র-অধিকারী, মন্ত্র-সিদ্ধ্যাদি-শোধন ৷  
 দীক্ষা, প্রাতঃস্মৃতি-কৃত্য, শৌচ, আচমন ॥ ৩২৬ ॥
 
 mantra-adhikārī, mantra-siddhy-ādi-śodhana  
-dīkṣā, prātaḥ-smṛti-kṛtya, śauca, ācamana
+mantra  qualified person  mantra  perfection  and so on  purification  
+dīkṣā, prātaḥ-smṛti-kṛtya, śauca, ācamana  
+initiation  morning  remembrance  duties  cleanliness  ācamana
 
-(326) [not yet translated]
+(326) “who is qualified to receive a *mantra*; the purification of a *mantra*, its perfection and the like; initiation; the morning duties of remembrance; cleanliness; *ācamana*;
 
 দন্তধাবন, স্নান, সন্ধ্যাদি বন্দন ৷  
 গুরুসেবা, ঊর্দ্ধ্বপুণ্ড্রচক্রাদি-ধারণ ॥ ৩২৭ ॥
 
 danta-dhāvana, snāna, sandhyādi vandana  
-guru-sevā, ūrdhva-puṇḍra-cakrādi-dhāraṇa
+teeth  cleaning  bathing  sandhyā and the rest  prayers  
+guru-sevā, ūrdhva-puṇḍra-cakrādi-dhāraṇa  
+guru  service  ūrdhva-puṇḍra  cakra and the rest  wearing
 
-(327) [not yet translated]
+(327) “cleaning the teeth, bathing, the *sandhyā* and other prayers; service to the guru; wearing the *ūrdhva-puṇḍra*, the *cakra* and the other marks;
 
 গোপীচন্দন-মালা-ধৃতি, তুলসী-আহরণ ৷  
 বস্ত্র-পীঠ-গৃহ-সংস্কার, কৃষ্ণ-প্রবোধন ॥ ৩২৮ ॥
 
 gopīcandana-mālā-dhṛti, tulasī-āharaṇa  
-vastra-pīṭha-gṛha-saṁskāra, kṛṣṇa-prabodhana
+gopī-candana  beads  wearing  tulasī  gathering  
+vastra-pīṭha-gṛha-saṁskāra, kṛṣṇa-prabodhana  
+cloth  seat  house  purification  Kṛṣṇa  awakening
 
-(328) [not yet translated]
+(328) “wearing *gopī-candana* and beads; gathering *tulasī*; purifying the cloth, the altar and the house; awakening Kṛṣṇa;
 
 পঞ্চ, ষোড়শ, পঞ্চাশৎ উপচারে অর্চ্চন ৷  
 পঞ্চকাল পূজা আরতি, কৃষ্ণের ভোজন-শয়ন ॥ ৩২৯ ॥
 
 pañca, ṣoḍaśa, pañcāśat upacāre arcana  
-pañca-kāla pūjā ārati, kṛṣṇera bhojana-śayana
+five  sixteen  fifty  with articles  worship  
+pañca-kāla pūjā ārati, kṛṣṇera bhojana-śayana  
+five  times  pūjā  ārati  Kṛṣṇa’s  feeding  laying to rest
 
-(329) [not yet translated]
+(329) “worship with five, sixteen or fifty articles of offering; *pūjā* and *ārati* at the five times of day; offering Kṛṣṇa His meals and laying Him to rest;
 
 শ্রীমূর্ত্তিলক্ষণ, আর শালগ্রামলক্ষণ ৷  
 কৃষ্ণক্ষেত্র-যাত্রা, কৃষ্ণমূর্ত্তি-দরশন ॥ ৩৩০ ॥
 
 śrī-mūrti-lakṣaṇa, āra śālagrāma-lakṣaṇa  
-kṛṣṇa-kṣetra-yātrā, kṛṣṇa-mūrti-daraśana
+the Deity  marks  and  śālagrāma  marks  
+kṛṣṇa-kṣetra-yātrā, kṛṣṇa-mūrti-daraśana  
+Kṛṣṇa’s  holy places  pilgrimage  Kṛṣṇa’s  Deity  beholding
 
-(330) [not yet translated]
+(330) “the marks of the Deity and of the *śālagrāma*; pilgrimage to Kṛṣṇa’s holy places; beholding Kṛṣṇa’s Deity form;
 
 নামমহিমা, নামাপরাধ দূরে বর্জ্জন ৷  
 বৈষ্ণবলক্ষণ, সেবাপরাধ-খণ্ডন ॥ ৩৩১ ॥
 
 nāma-mahimā, nāmāparādha dūre varjana  
-vaiṣṇava-lakṣaṇa, sevāparādha-khaṇḍana
+the name  glory  offenses against the name  far  avoiding  
+vaiṣṇava-lakṣaṇa, sevāparādha-khaṇḍana  
+Vaiṣṇava  marks  offenses in service  dispelling
 
-(331) [not yet translated]
+(331) “the glory of the name and keeping far from offenses against the name; the marks of a Vaiṣṇava; overcoming offenses in service;
 
 শঙ্খ-জল-গন্ধ-পুষ্প-ধূপাদি-লক্ষণ ৷  
 জপ, স্তুতি, পরিক্রমা, দণ্ডবৎ বন্দন ॥ ৩৩২ ॥
 
 śaṅkha-jala-gandha-puṣpa-dhūpādi-lakṣaṇa  
-japa, stuti, parikramā, daṇḍavat vandana
+conch  water  fragrance  flowers  incense and the rest  characteristics  
+japa, stuti, parikramā, daṇḍavat vandana  
+japa  prayers  circumambulation  like a rod  obeisance
 
-(332) [not yet translated]
+(332) “the characteristics of the conch, water, fragrance, flowers, incense and the rest; *japa*, prayers, circumambulation and prostrate obeisances;
 
 পুরশ্চরণ-বিধি, কৃষ্ণপ্রসাদ-ভোজন ৷  
 অনিবেদিত-ত্যাগ, বৈষ্ণবনিন্দাদি-বর্জ্জন ॥ ৩৩৩ ॥
 
 puraścaraṇa-vidhi, kṛṣṇa-prasāda-bhojana  
-anivedita-tyāga, vaiṣṇava-nindādi-varjana
+puraścaraṇa  rules  Kṛṣṇa’s  prasāda  eating  
+anivedita-tyāga, vaiṣṇava-nindādi-varjana  
+unoffered  rejecting  of Vaiṣṇavas  blasphemy and the like  avoiding
 
-(333) [not yet translated]
+(333) “the rules of *puraścaraṇa*; honouring Kṛṣṇa’s *prasāda*; rejecting what has not been offered; avoiding blasphemy of Vaiṣṇavas and the like;
 
 সাধুলক্ষণ, সাধুসঙ্গ, সাধুসেবন ৷  
 অসৎসঙ্গ-ত্যাগ, শ্রীভাগবত-শ্রবণ ॥ ৩৩৪ ॥
 
 sādhu-lakṣaṇa, sādhu-saṅga, sādhu-sevana  
-asat-saṅga-tyāga, śrī-bhāgavata-śravaṇa
+sādhu  marks  sādhu  company  sādhu  service  
+asat-saṅga-tyāga, śrī-bhāgavata-śravaṇa  
+bad company  giving up  Śrī Bhāgavatam  hearing
 
-(334) [not yet translated]
+(334) “the marks of a *sādhu*, the company of *sādhus* and service to them; giving up bad company; hearing *Śrīmad-Bhāgavatam*;
 
 দিনকৃত্য, পক্ষকৃত্য, একাদশ্যাদি বিবরণ ৷  
 মাসকৃত্য, জন্মাষ্টম্যাদি বিধি-বিচারণ ॥ ৩৩৫ ॥
 
 dina-kṛtya, pakṣa-kṛtya, ekādaśy-ādi vivaraṇa  
-māsa-kṛtya, janmāṣṭamyādi vidhi-vicāraṇa
+daily duties  fortnightly duties  Ekādaśī and the rest  account  
+māsa-kṛtya, janmāṣṭamyādi vidhi-vicāraṇa  
+monthly duties  Janmāṣṭamī and the rest  rules  consideration
 
-(335) [not yet translated]
+(335) “the daily and fortnightly duties, with an account of Ekādaśī and other days; the monthly duties; a consideration of the rules for Janmāṣṭamī and the other holy days —
 
 একাদশী, জন্মাষ্টমী, বামনদ্বাদশী ৷  
 শ্রীরামনবমী, আর নৃসিংহচতুর্দ্দশী ॥ ৩৩৬ ॥
 
 ekādaśī, janmāṣṭamī, vāmana-dvādaśī  
-śrī-rāma-navamī, āra nṛsiṁha-caturdaśī
+Ekādaśī  Janmāṣṭamī  Vāmana-dvādaśī  
+śrī-rāma-navamī, āra nṛsiṁha-caturdaśī  
+Śrī Rāma-navamī  and  Nṛsiṁha-caturdaśī
 
-(336) [not yet translated]
+(336) “Ekādaśī, Janmāṣṭamī, Vāmana-dvādaśī, Śrī Rāma-navamī and Nṛsiṁha-caturdaśī.
 
 এই সবে বিদ্ধা-ত্যাগ, অবিদ্ধা-করণ ৷  
 অকরণে দোষ, কৈলে ভক্তির লম্ভন ॥ ৩৩৭ ॥
 
 ei sabe viddhā-tyāga, aviddhā-karaṇa  
-akaraṇe doṣa, kaile bhaktira lambhana
+in these  all  pierced  rejecting  unpierced  observing  
+akaraṇe doṣa, kaile bhaktira lambhana  
+in not doing  a fault  in doing  of bhakti  attainment
 
-(337) [not yet translated]
+(337) “For all of these, reject a ‘pierced’ (*viddhā*) day and observe an unpierced one. Not observing them is a fault; by observing them one attains *bhakti*.
 
 সর্ব্বত্র প্রমাণ দিবে পুরাণ-বচন ৷  
 শ্রীমূর্ত্তি-বিষ্ণুমন্দিরকরণ-লক্ষণ ॥ ৩৩৮ ॥
 
 sarvatra pramāṇa dibe purāṇa-vacana  
-śrī-mūrti-viṣṇu-mandira-karaṇa-lakṣaṇa
+everywhere  evidence  you will give  of the Purāṇas  words  
+śrī-mūrti-viṣṇu-mandira-karaṇa-lakṣaṇa  
+Deity  Viṣṇu  temple  making  rules
 
-(338) [not yet translated]
+(338) “Everywhere give the words of the Purāṇas as evidence. Describe also the rules for installing Deities and building temples of Viṣṇu;
 
 ‘সামান্য’ সদাচার, আর ‘বৈষ্ণব’-আচার ৷  
 কর্ত্তব্যাকর্ত্তব্য ‘স্মার্ত্ত’ ব্যবহার ॥ ৩৩৯ ॥
 
 ‘sāmānya’ sad-ācāra, āra ‘vaiṣṇava’-ācāra  
-kartavyākartavya ‘smārta’ vyavahāra
+general  good conduct  and  Vaiṣṇava  conduct  
+kartavyākartavya ‘smārta’ vyavahāra  
+what should and should not be done  smārta  practice
 
-(339) [not yet translated]
+(339) “general good conduct and Vaiṣṇava conduct; what should and should not be done; and the practices of the *smārtas*.
 
 এই ত’ সংক্ষেপে কহিলুঁ দিগ্দরশন ৷  
 যবে তুমি লিখিবা, কৃষ্ণ করাবে স্ফুরণ ॥ ৩৪০ ॥
 
 ei ta’ saṅkṣepe kahiluṅ dig-daraśana  
-yabe tumi likhibā, kṛṣṇa karābe sphuraṇa
+this  indeed  briefly  I told  outline  
+yabe tumi likhibā, kṛṣṇa karābe sphuraṇa  
+when  you  will write  Kṛṣṇa  will cause  revelation
 
-(340) [not yet translated]
+(340) “Thus I have given you a brief outline. When you write, Kṛṣṇa will reveal it to you.”
 
 এই ত’ কহিলুঁ প্রভুর সনাতনে প্রসাদ ৷  
 যাহার শ্রবণে চিত্তের খণ্ডে অবসাদ ॥ ৩৪১ ॥
 
 ei ta’ kahiluṅ prabhura sanātane prasāda  
-yāhāra śravaṇe cittera khaṇḍe avasāda
+this  indeed  I told  of the Lord  to Sanātana  mercy  
+yāhāra śravaṇe cittera khaṇḍe avasāda  
+of which  at the hearing  of the heart  is dispelled  despondency
 
-(341) [not yet translated]
+(341) Thus I have told of the Lord’s mercy to Sanātana. Hearing of it dispels the heart’s despondency.
 
 নিজ-গ্রন্থে কর্ণপূর বিস্তার করিয়া ৷  
 সনাতনে প্রভুর প্রসাদ রাখিয়াছে লিখিয়া ॥ ৩৪২ ॥
 
 nija-granthe karṇapūra vistāra kariyā  
-sanātane prabhura prasāda rākhiyāche likhiyā
+own  in the book  Karṇapūra  at length  making  
+sanātane prabhura prasāda rākhiyāche likhiyā  
+to Sanātana  of the Lord  mercy  has kept  writing
 
-(342) [not yet translated]
+(342) Karṇapūra has described at length in his own book the Lord’s mercy to Sanātana and set it down in writing:
 
 গৌড়েন্দ্রস্য সভা-বিভূষণমণিস্ত্যক্ত্বা য ঋদ্ধাং শ্রিয়ং  
 রূপস্যাগ্রজ এষ এব তরুণীং বৈরাগ্যলক্ষ্মীং দধে ৷  
@@ -3558,11 +3796,15 @@ sanātane prabhura prasāda rākhiyāche likhiyā
 শৈবালৈঃ পিহিতং মহা-সর ইব প্রীতিপ্রদস্তদ্বিদাম্ ॥ ৩৪৩ ॥
 
 gauḍendrasya sabhā-vibhūṣaṇa-maṇis tyaktvā ya ṛddhāṁ śriyaṁ  
+of the king of Gauḍa  of the court  ornament  the jewel  having left  who  abundant  wealth  
 rūpasyāgraja eṣa eva taruṇīṁ vairāgya-lakṣmīṁ dadhe  
+of Rūpa  the elder brother  this  very one  youthful  of renunciation  goddess  took  
 antar-bhakti-rasena pūrṇa-saraso bāhye ‘vadhūtākṛtiḥ  
-śaivālaiḥ pihitaṁ mahā-sara iva prīti-pradas tad-vidām
+within  of devotion  with the rasa  a full lake  outwardly  in the form of an avadhūta  
+śaivālaiḥ pihitaṁ mahā-sara iva prīti-pradas tad-vidām  
+with moss  covered  a great  lake  like  delight  giving  to those who know it
 
-(343) [not yet translated]
+(343) “This very one — the elder brother of Rūpa, once the jewel adorning the court of the king of Gauḍa — gave up abundant wealth and took as his own the youthful goddess of renunciation. Within he is a lake brimming with the *rasa* of devotion; outwardly he looks like an *avadhūta*. Like a great lake covered with moss, he gives delight to those who know him.” (Caitanya-candrodaya, Act 9)
 
 তং সনাতনমুপাগতমক্ষ্ণো-  
 র্দৃষ্টিমাত্রমতিমাত্রদয়ার্দ্রঃ ৷  
@@ -3570,11 +3812,15 @@ antar-bhakti-rasena pūrṇa-saraso bāhye ‘vadhūtākṛtiḥ
 সানুকম্পমথ চম্পক-গৌরঃ ॥ ৩৪৪ ॥
 
 taṁ sanātanam upāgatam akṣṇor  
+that  Sanātana  approached  of the eyes  
 dṛṣṭi-mātram atimātra-dayārdraḥ  
+the mere sight  boundlessly  melted with compassion  
 āliliṅga parighāyata-dorbhyāṁ  
-sānukampam atha campaka-gauraḥ
+embraced  with bolt-like long  arms  
+sānukampam atha campaka-gauraḥ  
+compassionately  then  golden as a campaka
 
-(344) [not yet translated]
+(344) “The moment Sanātana came within sight of His eyes, the Lord, golden as a *campaka* flower, melted with boundless compassion and tenderly embraced him with His long arms, mighty as bolts.” (Caitanya-candrodaya, Act 9)
 
 কালেন বৃন্দাবনকেলি-বার্ত্তা  
 লুপ্তেতি তাং খ্যাপয়িতুং বিশিষ্য ৷  
@@ -3582,51 +3828,65 @@ sānukampam atha campaka-gauraḥ
 স্তত্রৈব রূপঞ্চ সনাতনঞ্চ ॥ ৩৪৫ ॥
 
 kālena vṛndāvana-keli-vārtā  
+by time  of the pastimes of Vṛndāvana  the account  
 lupteti tāṁ khyāpayituṁ viśiṣya  
+lost  therefore  it  to make known  in a special way  
 kṛpāmṛtenābhiṣiṣeca devas  
-tatraiva rūpaṁ ca sanātanaṁ ca
+with the nectar of mercy  sprinkled  the Lord  
+tatraiva rūpaṁ ca sanātanaṁ ca  
+there indeed  Rūpa  and  Sanātana  and
 
-(345) [not yet translated]
+(345) “Since over time the account of the pastimes of Vṛndāvana had been lost, the Lord, to make it known in a special way, sprinkled Rūpa and Sanātana there with the nectar of His mercy.” (Caitanya-candrodaya, 9.38)
 
 এই ত’ কহিলুঁ সনাতনে প্রভুর প্রসাদ ৷  
 যাহার শ্রবণে চিত্তের খণ্ডে অবসাদ ॥ ৩৪৬ ॥
 
 ei ta’ kahiluṅ sanātane prabhura prasāda  
-yāhāra śravaṇe cittera khaṇḍe avasāda
+this  indeed  I told  of the Lord  to Sanātana  mercy  
+yāhāra śravaṇe cittera khaṇḍe avasāda  
+of which  at the hearing  of the heart  is dispelled  despondency
 
-(346) [not yet translated]
+(346) Thus I have told of the Lord’s mercy to Sanātana. Hearing of it dispels the heart’s despondency.
 
 কৃষ্ণের স্বরূপগণের সকল হয় ‘জ্ঞান’ ৷  
 বিধি-রাগ-মার্গে ‘সাধনভক্তি’র বিধান ॥ ৩৪৭ ॥
 
 kṛṣṇera svarūpa-gaṇera sakala haya ‘jñāna’  
-vidhi-rāga-mārge ‘sādhana-bhakti’ra vidhāna
+Kṛṣṇa’s  of the forms  all  there is  knowledge  
+vidhi-rāga-mārge ‘sādhana-bhakti’ra vidhāna  
+vidhi  rāga  on the paths  of sādhana-bhakti  the injunctions
 
-(347) [not yet translated]
+(347) Here is knowledge of all of Kṛṣṇa’s forms (*svarūpa*) and the injunctions of *sādhana-bhakti* on the paths of *vidhi* and *rāga*;
 
 ‘কৃষ্ণপ্রেম’, ‘ভক্তিরস’, ‘ভক্তির সিদ্ধান্ত’ ৷  
 ইহার শ্রবণে ভক্ত জানেন সব অন্ত ॥ ৩৪৮ ॥
 
 ‘kṛṣṇa-prema’, ‘bhakti-rasa’, ‘bhaktira siddhānta’  
-ihāra śravaṇe bhakta jānena saba anta
+love of Kṛṣṇa  rasa of devotion  of bhakti  conclusions  
+ihāra śravaṇe bhakta jānena saba anta  
+of this  at the hearing  a devotee  knows  all  to the end
 
-(348) [not yet translated]
+(348) love of Kṛṣṇa, the *rasa* of devotion and the conclusions of *bhakti*. By hearing this a devotee comes to know them all to the very end.
 
 শ্রীচৈতন্য-নিত্যানন্দ-অদ্বৈত-চরণ ৷  
 যাঁর প্রাণধন, সেই পায় এই ধন ॥ ৩৪৯ ॥
 
 śrī-caitanya-nityānanda-advaita-caraṇa  
-yāṅra prāṇa-dhana, sei pāya ei dhana
+Śrī  Caitanya’s  Nityānanda’s  Advaita’s  feet  
+yāṅra prāṇa-dhana, sei pāya ei dhana  
+whose  life’s treasure  he  attains  this  treasure
 
-(349) [not yet translated]
+(349) One whose life’s treasure is the feet of Śrī Caitanya, Nityānanda and Advaita attains this treasure.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৩৫০ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(350) [not yet translated]
+(350) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
 
