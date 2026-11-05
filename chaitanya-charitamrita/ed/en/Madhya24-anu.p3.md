@@ -262,6 +262,34 @@ Another reading: “Five, ten, sixteen — the service of *cau-ghana*; worship w
 
 **The sixty-four offerings.** *Cau-ghana* means “sixty-four”: (1) awakening with the sound of instruments and with hymns, (2) the cry of “*jaya*,” (3) obeisance, (4) *maṅgala-ārati*, (5) the seat, (6) the tooth-stick, (7) water for washing the feet, (8) *arghya*, (9) *ācamana*, (10) *ācamana* with *madhuparka*, (11) offering sandals, (12) rubbing the body, (13) anointing with oil, (14) removing the oil and so on, (15) bathing in water with fragrant flowers, (16) bathing with milk, (17) bathing with yogurt, (18) bathing with ghee, (19) bathing with honey, (20) bathing with sugar, (21) bathing with water consecrated by mantras, (22) a towel,
 
+(23) the lower and upper garments, (24) the sacred thread, (25) *ācamana* again, (26) anointing, (27) ornaments, (28) flowers, (29) incense, (30) the lamp, (31) warding off the evil eye, (32) *naivedya*, (33) mouth-freshener, (34) betel, (35) an excellent bed, (36) dressing the hair, (37) excellent clothes, (38) an excellent crown, (39) excellent fragrant anointing, (40) the Kaustubha and other ornaments, (41) various divine flowers, (42) *maṅgala-ārati*, (43) a mirror, (44) going out to the *maṇḍapa* in an excellent carriage, (45) sitting on the throne, (46) water for washing the feet again, (47) *naivedya* again, (48) the *mahā-nīrājana*, (49) fanning with the *cāmara*, the umbrella, (50) song, (51) instrumental music, (52) dance, (53) circumambulation, (54) obeisance, (55) praise at the two holy feet, (56) placing one's head at the feet, (57) bearing the *nirmālya* on one's head, (58) partaking of the remnants, (59) [the servant] sitting down to massage the feet, (60) a bed of flowers, (61) offering the hand, (62) [the Lord] coming to the bed, (63) sitting on the bed after the feet are washed, (64) finally lying down on the bed, with the feet massaged and so on.
+
+**The five times:** *aruṇodaya* (the hour before dawn), morning, midday, evening and *pradoṣa* (nightfall).
+
+***Pūjā* and *ārati***: *pūjā*, *ārātrika*, *nīrājana* and so on.
+
+**Kṛṣṇa's meal** (*Hari-bhakti-vilāsa*, eighth *vilāsa*, 50–51): “With auspicious customs they joyfully feed Hari.” … “*Śālī* rice, well cooked; *pāyasa* white as the moon; cakes and soup; things to lick, to drink and to suck; sugar, nectar-like fruits, *ghārikās* and other delicacies; abundant consecrated ghee, pleasing to the eye; vegetables seasoned with *vājikā*,[^329-1] cardamom and pepper — please relish this whole nectarean meal.”
+
+**Kṛṣṇa's retiring to rest** (*Hari-bhakti-vilāsa*, eleventh *vilāsa*): “‘O Lord of the mighty club, be pleased to set out on the way; come to the bedchamber with Your beloveds, O Keśava.’ Having prayed thus, one should offer the sandals, bring the Lord to the bedchamber and make the proper offerings there. There one should especially offer thick milk with sugar, betel with camphor, divine garlands and unguents.”
+
+## 330
+
+**The marks of the Śrī Mūrti**: see Madhya 20.224–238.
+
+**The marks of the *śālagrāma***: see the *Hari-bhakti-vilāsa*, fifth *vilāsa*.
+
+## 331
+
+**The glory of the name**: see the *Hari-bhakti-vilāsa*, eleventh *vilāsa*.
+
+**Offenses against the name**: see the *Amṛta-pravāha-bhāṣya* on Ādi 8.24.
+
+**The marks of a Vaiṣṇava.** “One whose deity is Viṣṇu alone is called a Vaiṣṇava.” See the *Hari-bhakti-vilāsa*, tenth *vilāsa*.
+
+**Freedom from offenses in service.** The words of Śrī Vyāsa in the *Skanda Purāṇa*, *Avantī-khaṇḍa*: “The mortal who day after day reads a chapter of the *Gītā* — Keśava forgives him thirty-two offenses.” The *Dvārakā-māhātmya*: “One who reads or hears of the glory of the thousand names is never touched by thousands of offenses. One who, keeping vigil for Viṣṇu on Dvādaśī, reads the *Tulasī-stava* — Keśava forgives him thirty-two offenses. One who worships the *śālagrāma-śilā* with *tulasī* — Keśava forgives him thirty-two offenses.”
+
+The thirty-two offenses in service: (1) entering the Lord's temple in a vehicle or wearing sandals; (2) not bowing down before the Deity; (3) offering prayers to the Lord without having cleansed oneself after eating, or in a state of impurity; (4) bowing with one hand; (5) circumambulating another deity in front of Him; (6) stretching out one's legs before Him; (7) sitting with one's knees clasped in one's arms; (8) lying down; (9) eating; (10) lying; (11) speaking loudly; (12) chatting with one another; (13) weeping; (14) showing favor to someone; (15) punishing someone or speaking harshly; (16) wrapping oneself in a blanket; (17) blaming others; (18) praising others; (19) speaking obscenely; (20) passing air; (21) worshiping without offerings when one is able to provide them; (22) eating what has not been offered [to the Lord]; (23) not offering the fruits of the season; (24) offering what is left over; (25) sitting with one's back to the Deity; (26) greeting others; (27) sitting near the guru without offering praise; (28) praising oneself; (29) blaming the gods; (30)
+
 ---
 
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
@@ -289,3 +317,5 @@ Another reading: “Five, ten, sixteen — the service of *cau-ghana*; worship w
 [^328-1]: *Śrīmad-Bhāgavatam* 9.4.18.
 
 [^328-2]: *Śrīmad-Bhāgavatam* 11.11.39.
+
+[^329-1]: *Vājikā*, as the edition prints it (checked against the scan, p. 825); probably *rājikā*, mustard.
