@@ -134,6 +134,96 @@ Brahmā was born from the navel of Garbhodakaśāyī, yet he could not know that
 
 **parama** (O Supreme Lord), **aviddha-varcaḥ** (whose radiance is untouched by *prakṛti*; being beyond *māyā*, it shines unveiled; therefore) **avikalpam** (that in which there is no variegated creation — nondual knowledge) **ānanda-mātram** (that of which bliss, the featureless spiritual Brahman, is but a part [*mātrā*])[^36-1] **yat** **bhavataḥ** (Your) **svarūpam** (form of the complete Bhagavān), **ataḥ** (than this form) **param** (anything other), or higher, **na paśyāmi**. **ātman** (O Paramātmā), **viśva-sṛjam** (the creator of the universe) **ekam** (the one without a second) **aviśvam** (distinct from the perishable universe, for He is imperishable) **bhūtendriyātmakam** (the cause of the elements and the senses) **te** (Your) **adaḥ** (transcendental) form **upāśrito ’smi** (in it I take shelter).
 
+## 37
+
+> Subheading: The *nirviśeṣa-vādī* regards the form of Bhagavān, the master of *māyā*, as “*māyic*” — and this leads to hell —
+
+**bhuvana-maṅgala** (O sole abode of the *jīvas'* welfare), **tat vai** (this very form) **upāsakānām** **naḥ** (us) **maṅgalāya** **dhyāne** **te** (by You) **darśitaṁ** **sma**. **asat-prasaṅgaiḥ** (by those devoted to false reasoning and absorbed in speculation on featureless Brahman opposed to the path of *śruti* — whose words are fabricated by ignorance) **naraka-bhāgbhiḥ** (by certain atheists bound for hell) **yaḥ** (You, the Puruṣa) **na** **ādṛtaḥ** (are not accepted at all), **tasmai** **bhagavate** **tubhyaṁ** **namaḥ** **anuvidhema** (following [You], we bow down).
+
+## 38
+
+> Subheading: Seeing the transcendental Kṛṣṇa in a humanlike form, the irreligious in their worldly way think Him mortal — (*Bhagavad-gītā*, Chapter 9, verse 11)
+
+**sarva-bhūta-maheśvaram** (of the Lord of all living beings, that is, of Me) **paraṁ** **bhāvam** (the truth of the transcendental embodiment of *rasa*) **ajānantaḥ** **mūḍhāḥ** (bewildered by sense-born knowledge) **mānuṣīm** (a humanlike form, taken by the will of the devotees, to delight the devotees) **tanum** (a body, though it is made of *śuddha-sattva*) **āśritam** (who has assumed) **mām** (Me, who have descended) **avajānanti** (disregard).
+
+## 39
+
+> Subheading: The destination of the irreligious — (*Bhagavad-gītā*, Chapter 16, verse 19)
+
+(Me) **dviṣataḥ** (devoted to hatred) **krūrān** (cruel) **aśubhān** (given to forbidden conduct) **narādhamān** **tān** (those people) **eva** **saṁsāreṣu** (on the paths of birth and death) **āsurīṣu** **yoniṣu** (into the wombs of animals, beasts and the like, endowed with cruelty and greed) **ajasram** (again and again) **aham** **kṣipāmi** (that is, for their terrible offenses I give them just such a fruit).
+
+## 40
+
+> Subheading: Disregarding the guru, or out of hostility to the guru, the logicians reject the path of *śruti* — the transformation of potency — and so teach “*vivarta-vāda*” —
+
+See Ādi 7.121–126.
+
+## 41
+
+> Subheading: Relying on *vivarta-vāda*, the *asuras* bewilder the irreligious with fabricated meanings of Vedānta and the Upaniṣads by way of the secondary sense (*lakṣaṇā-vṛtti*) —
+
+## 42
+
+> Subheading: Abandoning the highest goal, the mercy of Bhagavān, they take shelter of barren wrangling —
+
+## 43
+
+> Subheading: The cloud of the *Śāṅkara-bhāṣya* covers the sun of Vedānta —
+
+## 44
+
+> Subheading: “Caitanya's teaching alone is the essence”; teachings without Caitanya (*acaitanya*, “unconscious”) are all “empty” —
+
+## 45
+
+> Subheading: The words of Prakāśānanda, now a devotee of Gaura; there is no evidence that after his deliverance he received the name “Prabodhānanda” —
+
+## 46
+
+> Subheading: To establish *kevalādvaita-vāda*, Śaṅkara tries to refute the Sātvata scriptures — this is “covert atheism” (*pracchanna-nāstikatā*), or unbelief in Bhagavān —
+
+## 48
+
+> Subheading: The fruit of doctrines rooted in false logic —
+
+## 49
+
+> Subheading: The various doctrines of the philosophers of the six schools, and the Vedic teaching —
+
+## 52
+
+> Subheading: In the *Brahma-sūtra* Vyāsa refutes all the doctrines —
+
+## 53
+
+> Subheading: According to “Vedānta,” Brahman is a form full of spiritual pastimes, possessed of attributes — that is, full of eternity, knowledge and bliss (*sac-cid-ānanda*) —
+
+## 54
+
+> Subheading: Refuting the opinions of others, each tries to establish his own doctrine —
+
+## 55
+
+> Subheading: One should leave the six *darśanas* — paths of logic rooted in uncertainty and governed by the mind — and take shelter of the *mahājana* who follows the path of *śruti*, that is, of the pure devotee —
+
+## 56
+
+> Subheading: (*Mahābhārata*, Vana-parva, Chapter 313, verse 117)
+
+See Madhya 17.186.
+
+## 57
+
+> Subheading: Only the word — the conclusions of Caitanya — is to be followed —
+
+## 58
+
+> Subheading: The brāhmaṇa from Mahārāṣṭra goes to tell the Lord the good news —
+
+## 59
+
+> Subheading: Following His daily practice in Kāśī, the Lord bathes at Pañcanada and goes for *darśana* of Śrī Bindu-mādhava —
+
 ---
 
 [^1-1]: The verse translation reads differently: “purified Sanātana Gosvāmī by instructing him in spiritual truths.”
