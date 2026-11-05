@@ -1084,7 +1084,8 @@ tr: The Lord said, “Go from here to Vṛndāvana and always chant the name of 
 ## 192
 w: by one  semblance of the Name (nāmābhāsa)  your  sins and faults  will go
 w: and  the Name  taking  Kṛṣṇa’s feet  you will attain
-tr: By the mere semblance of the Name (*nāmābhāsa*) your sins and faults will go; and by chanting the Name itself you will attain Kṛṣṇa’s feet.
+tr: By the mere semblance of the holy name (*nāmābhāsa*) your sin and its taint will go; and by chanting the Name itself you will attain Kṛṣṇa’s feet.
+fn: Heading of the edition: “The fruits of *nāmābhāsa* and of the pure Name are different.” As in 30, sin is removed already by the semblance of the Name; Kṛṣṇa’s feet are attained by the Name itself.
 
 ## 193
 w: and  Kṛṣṇa’s name  taking  in Kṛṣṇa’s abode  residence
@@ -1124,7 +1125,7 @@ tr: Whenever he saw a poor Vaiṣṇava, he fed him; and when Gauḍīyas came, 
 ## 200
 w: Rūpa Gosāñi  having come  to him  much  affection  showed
 w: with himself  taking  the twelve  forests  showed
-tr: When Rūpa Gosāñi came, Rāya showed him great affection, took him along and showed him the twelve forests.
+tr: When Rūpa Gosāñi came, Rāya welcomed him with great affection, took him along and showed him the twelve forests.
 
 ## 201
 w: a month  only  Rūpa Gosāñi  stayed  in Vṛndāvana
@@ -1259,7 +1260,8 @@ tr: Jagannātha’s servants brought garlands and *prasāda* and gave them to Hi
 ## 227
 w: Mahāprabhu  has come  in the town  an uproar  arose
 w: Sārvabhauma  Rāmānanda  Vāṇīnātha  met (Him)
-tr: “Mahāprabhu has come!” — the town was in an uproar, and Sārvabhauma, Rāmānanda and Vāṇīnātha came to meet Him.
+tr: The town was in an uproar: “Mahāprabhu has come!” Sārvabhauma, Rāmānanda and Vāṇīnātha came to meet Him.
+fn: The first line of the verse is the second line of Madhya 16.252; that half is translated as there.
 
 ## 228
 w: all  with  taking  the Lord  to the residence at Miśra’s  came
@@ -1284,7 +1286,8 @@ tr: Thus I have told how the Lord, after seeing Vṛndāvana, journeyed back to 
 ## 232
 w: this  whoever  faith  having  does  hearing
 w: soon  attains  he  Caitanya’s  feet
-tr: Whoever hears this with faith will soon attain the feet of Caitanya.
+tr: Whoever hears this with faith will soon attain the feet of Śrī Caitanya.
+fn: The second line of the verse is the same as in Madhya 15.301; translated as there.
 
 ## 233
 w: of the Madhya-līlā  I have made  this  brief survey
