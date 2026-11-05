@@ -490,7 +490,7 @@ See Ādi 1.55.
 
 When Nimi, the king of Videha, asked about the marks, conduct and gradations of the three kinds of devotees, or *bhāgavatas*, Havi Ṛṣi, one of the nine Yogendras, said in reply:
 
-**avaśābhihitaḥ** (uttered unwittingly) **api** **aghaugha-nāśaḥ** (He who destroys heaps of sins, that is, multitudes of offenses) **hariḥ** (indeed) **sākṣāt** **yasya** **hṛdayaṁ** **na** **visṛjati** (does not leave), **praṇaya-raśanayā** (with the rope of love) **dhṛtāṅghri-padmaḥ** (he by whom the lotus feet are held, bound within), **saḥ** **bhāgavata-pradhānaḥ** **uktaḥ** **bhavati** (is called “the foremost of *bhāgavatas*”).
+**avaśābhihitaḥ** (uttered unwittingly) **api** **aghaugha-nāśaḥ** (He who destroys heaps of sins, that is, multitudes of offenses) **hariḥ** (indeed) **sākṣāt** **yasya** **hṛdayaṁ** **na** **visṛjati** (does not leave), **praṇaya-rasanayā** (with the rope of love) **dhṛtāṅghri-padmaḥ** (he by whom the lotus feet are held, bound within), **saḥ** **bhāgavata-pradhānaḥ** **uktaḥ** **bhavati** (is called “the foremost of *bhāgavatas*”).
 
 ## 127
 
