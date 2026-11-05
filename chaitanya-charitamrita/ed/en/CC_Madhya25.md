@@ -1524,321 +1524,401 @@ Vārāṇasī  became  a second  Nadīyā  town
 কাশীতে আমি আইলাঙ বেচিতে ভাবকালি ॥ ১৬১ ॥
 
 nija-gaṇa lañā prabhu kahe hāsya kari’  
-kāśīte āmi āilāṅa vecite bhāvakāli
+His own  associates  with  the Lord  says  a smile  making  
+kāśīte āmi āilāṅa vecite bhāvakāli  
+to Kāśī  I  came  to sell  the wares of bhāva
 
-(161) [not yet translated]
+(161) Surrounded by His own associates, the Lord said with a smile, “I came to Kāśī to sell My wares of ecstatic feeling (*bhāva*).
 
 কাশীতে গ্রাহক নাহি, বস্তু না বিকায় ৷  
 পুনরপি দেশে বহি’ লওয়া নাহি যায় ॥ ১৬২ ॥
 
 kāśīte grāhaka nāhi, vastu nā vikāya  
-punarapi deśe vahi’ laoyā nāhi yāya
+in Kāśī  a buyer  there is not  the goods  not  sell  
+punarapi deśe vahi’ laoyā nāhi yāya  
+again  to My country  carrying  to take  not  is possible
 
-(162) [not yet translated]
+(162) In Kāśī there were no buyers, and the goods would not sell; yet they could not be carried back home again.
 
 আমি বোঝা বহিমু, তোমা-সবার দুঃখ হইল ৷  
 তোমা-সবার ইচ্ছায় বিনামূল্যে বিলাইল ॥ ১৬৩ ॥
 
 āmi bojhā vahimu, tomā-sabāra duḥkha haila  
-tomā-sabāra icchāya vinā-mūlye bilāila
+I  the load  would carry  of you  all  sorrow  arose  
+tomā-sabāra icchāya vinā-mūlye bilāila  
+of you  all  by the wish  without  price  I distributed
 
-(163) [not yet translated]
+(163) I would have carried the load back, but you were all grieved; so, by your wish, I have given it away free of charge.”
 
 সবে কহে, — লোক তারিতে তোমার অবতার ৷  
 ‘পূর্ব্ব’ ‘দক্ষিণ’ ‘পশ্চিম’ করিলা নিস্তার ॥ ১৬৪ ॥
 
 sabe kahe, — loka tārite tomāra avatāra  
-‘pūrva’ ‘dakṣiṇa’ ‘paścima’ karilā nistāra
+all  say  —  the people  to deliver  Your  descent  
+‘pūrva’ ‘dakṣiṇa’ ‘paścima’ karilā nistāra  
+the east  the south  the west  You have made  deliverance
 
-(164) [not yet translated]
+(164) Everyone said, “You have descended to deliver the people. You have delivered the east, the south and the west.
 
 ‘এক’ বারাণসী ছিল তোমাতে বিমুখ ৷  
 তাহা নিস্তারিয়া কৈলা আমা-সবার সুখ ॥ ১৬৫ ॥
 
 ‘eka’ vārāṇasī chila tomāte vimukha  
-tāhā nistāriyā kailā āmā-sabāra sukha
+only one  Vārāṇasī  was  from You  turned away  
+tāhā nistāriyā kailā āmā-sabāra sukha  
+it  having delivered  You made  of us  all  happiness
 
-(165) [not yet translated]
+(165) Vārāṇasī alone was turned away from You; by delivering it, You have made us all happy.”
 
 বারাণসী-গ্রামে যদি কোলাহল হৈল ৷  
 শুনি’ গ্রামী দেশী লোক আসিতে লাগিল ॥ ১৬৬ ॥
 
 vārāṇasī-grāme yadi kolāhala haila  
-śuni’ grāmī deśī loka āsite lāgila
+in Vārāṇasī  town  when  an uproar  arose  
+śuni’ grāmī deśī loka āsite lāgila  
+hearing  villagers  country  people  to come  began
 
-(166) [not yet translated]
+(166) When the uproar arose in the town of Vārāṇasī, people from the villages and the countryside heard of it and began to come.
 
 লক্ষ কোটি লোক আইসে, নাহিক গণন ৷  
 সঙ্কীর্ণস্থানে প্রভুর না পায় দরশন ॥ ১৬৭ ॥
 
 lakṣa koṭi loka āise, nāhika gaṇana  
-saṅkīrṇa-sthāne prabhura nā pāya daraśana
+lakhs  crores  of people  come  there is no  counting  
+saṅkīrṇa-sthāne prabhura nā pāya daraśana  
+in the cramped  place  of the Lord  not  get  sight
 
-(167) [not yet translated]
+(167) People came in hundreds of thousands, in millions, beyond counting; in that cramped place they could not get a sight of the Lord.
 
 প্রভু যবে স্নানে যান বিশ্বেশ্বর-দরশনে ৷  
 দুইদিকে লোক করে প্রভু বিলোকনে ॥ ১৬৮ ॥
 
 prabhu yabe snāne yāna viśveśvara-daraśane  
-dui dike loka kare prabhu vilokane
+the Lord  when  to bathe  goes  to see Viśveśvara  
+dui dike loka kare prabhu vilokane  
+on two  sides  the people  make  of the Lord  beholding
 
-(168) [not yet translated]
+(168) Whenever the Lord went to bathe or to see Viśveśvara, people lined both sides of the way to behold Him.
 
 বাহু তুলি’ প্রভু কহে — বল ‘কৃষ্ণ’ ‘হরি’ ৷  
 দণ্ডবৎ করে লোকে হরিধ্বনি করি’ ॥ ১৬৯ ॥
 
 bāhu tuli’ prabhu kahe — bala ‘kṛṣṇa’ ‘hari’  
-daṇḍavat kare loke hari-dhvani kari’
+arms  raising  the Lord  says  —  say  ‘Kṛṣṇa’  ‘Hari’  
+daṇḍavat kare loke hari-dhvani kari’  
+prostrated obeisances  offer  the people  the sound of ‘Hari’  making
 
-(169) [not yet translated]
+(169) Raising His arms, the Lord would say, “Say ‘Kṛṣṇa!’ Say ‘Hari!’” and the people fell down before Him, calling out the name of Hari.
 
 এইমত দিন পঞ্চ লোক নিস্তারিয়া ৷  
 আর দিন চলিলা প্রভু উদ্বিগ্ন হঞা ॥ ১৭০ ॥
 
 ei mata dina pañca loka nistāriyā  
-āra dina calilā prabhu udvigna hañā
+in this way  days  five  the people  delivering  
+āra dina calilā prabhu udvigna hañā  
+the next  day  departed  the Lord  uneasy  becoming
 
-(170) [not yet translated]
+(170) In this way the Lord delivered the people for five days; the next day He set out, His heart uneasy.
 
 রাতে উঠি’ প্রভু যদি করিলা গমন ৷  
 পাছে লাগ্ লইলা তবে ভক্ত পঞ্চজন ॥ ১৭১ ॥
 
 rāte uṭhi’ prabhu yadi karilā gamana  
-pāche lāg lailā tabe bhakta pañca jana
+at night  rising  the Lord  when  made  departure  
+pāche lāg lailā tabe bhakta pañca jana  
+behind  following  took  then  devotees  five  persons
 
-(171) [not yet translated]
+(171) When the Lord rose at night and set off, five devotees followed close behind Him:
 
 তপন মিশ্র, রঘুনাথ, মহারাষ্ট্রীয় ব্রাহ্মণ ৷  
 চন্দ্রশেখর, কীর্ত্তনীয়া-পরমানন্দ — পঞ্চজন ॥ ১৭২ ॥
 
 tapana miśra, raghunātha, mahārāṣṭrīya brāhmaṇa  
-candraśekhara, kīrtanīyā-paramānanda — pañca jana
+Tapana Miśra  Raghunātha  the Mahārāṣṭrian  brāhmaṇa  
+candraśekhara, kīrtanīyā-paramānanda — pañca jana  
+Candraśekhara  Paramānanda the kīrtana singer  —  five  persons
 
-(172) [not yet translated]
+(172) Tapana Miśra, Raghunātha, the brāhmaṇa from Mahārāṣṭra, Candraśekhara and Paramānanda the *kīrtana* singer — these were the five.
 
 সবে চাহে প্রভু-সঙ্গে নীলাচল যাইতে ৷  
 সবারে বিদায় দিলা প্রভু যত্ন-সহিতে ॥ ১৭৩ ॥
 
 sabe cāhe prabhu-saṅge nīlācala yāite  
-sabāre vidāya dilā prabhu yatna-sahite
+all  wish  with the Lord  to Nīlācala  to go  
+sabāre vidāya dilā prabhu yatna-sahite  
+to all  leave  gave  the Lord  with care
 
-(173) [not yet translated]
+(173) All of them wished to go to Nīlācala with the Lord, but He took leave of them all with loving care:
 
 যাঁর ইচ্ছা, পাছে আইস আমারে দেখিতে ৷  
 এবে আমি একা যাব ঝারিখণ্ড পথে ॥ ১৭৪ ॥
 
 yāṅra icchā, pāche āisa āmāre dekhite  
-ebe āmi ekā yāba jhārikhaṇḍa pathe
+whose  wish  later  come  Me  to see  
+ebe āmi ekā yāba jhārikhaṇḍa pathe  
+now  I  alone  shall go  of Jhārikhaṇḍa  by the path
 
-(174) [not yet translated]
+(174) “Whoever wishes may come later to see Me; now I shall go alone by the path through Jhārikhaṇḍa.”
 
 সনাতনে কহিলা, — তুমি যাহ’ বৃন্দাবন ৷  
 তোমার দুই ভাই তথা কৈরাছে গমন ॥ ১৭৫ ॥
 
 sanātane kahilā, — tumi yāha’ vṛndāvana  
-tomāra dui bhāi tathā kairāche gamana
+to Sanātana  He said  —  you  go  to Vṛndāvana  
+tomāra dui bhāi tathā kairāche gamana  
+your  two  brothers  there  have made  their way
 
-(175) [not yet translated]
+(175) To Sanātana He said, “Go to Vṛndāvana. Your two brothers have already gone there.
 
 কাঁথা-করঙ্গিয়া মোর কাঙ্গাল ভক্তগণ ৷  
 বৃন্দাবনে আইলে তাঁদের করিহ পালন ॥ ১৭৬ ॥
 
 kāṅthā-karaṅgiyā mora kāṅgāla bhakta-gaṇa  
-vṛndāvane āile tāṅdera kariha pālana
+with a patched quilt and a water pot  My  penniless  devotees  
+vṛndāvane āile tāṅdera kariha pālana  
+to Vṛndāvana  when they come  them  do  take care of
 
-(176) [not yet translated]
+(176) My penniless devotees, who own only a patched quilt and a water pot — when they come to Vṛndāvana, take care of them.”
 
 এত বলি’ চলিলা প্রভু সবা আলিঙ্গিয়া ৷  
 সবেই পড়িলা তথা মূর্চ্ছিত হঞা ॥ ১৭৭ ॥
 
 eta bali’ calilā prabhu sabā āliṅgiyā  
-sabei paḍilā tathā mūrcchita hañā
+thus  saying  went  the Lord  all  embracing  
+sabei paḍilā tathā mūrcchita hañā  
+all  fell  there  unconscious  becoming
 
-(177) [not yet translated]
+(177) Saying this, the Lord embraced them all and departed, and they all fell to the ground unconscious.
 
 কতক্ষণে উঠি’ সবে দুঃখে ঘরে আইলা ৷  
 সনাতন-গোসাঞি বৃন্দাবনেরে চলিলা ॥ ১৭৮ ॥
 
 kata-kṣaṇe uṭhi’ sabe duḥkhe ghare āilā  
-sanātana-gosāñi vṛndāvanere calilā
+after a while  rising  all  in sorrow  home  came  
+sanātana-gosāñi vṛndāvanere calilā  
+Sanātana Gosāñi  for Vṛndāvana  set out
 
-(178) [not yet translated]
+(178) After a while they got up and returned home in sorrow, and Sanātana Gosāñi set out for Vṛndāvana.
 
 এথা রূপ-গোসাঞি যবে মথুরা আইলা ৷  
 ধ্রুবঘাটে তাঁরে সুবুদ্ধিরায় মিলিলা ॥ ১৭৯ ॥
 
 ethā rūpa-gosāñi yabe mathurā āilā  
-dhruva-ghāṭe tāṅre subuddhi-rāya mililā
+meanwhile  Rūpa Gosāñi  when  to Mathurā  came  
+dhruva-ghāṭe tāṅre subuddhi-rāya mililā  
+at Dhruva-ghāṭa  him  Subuddhi Rāya  met
 
-(179) [not yet translated]
+(179) Meanwhile, when Rūpa Gosāñi came to Mathurā, Subuddhi Rāya met him at Dhruva-ghāṭa.
 
 পূর্ব্বে যবে সুবুদ্ধি-রায় ছিলা গৌড়ে ‘অধিকারী’ ৷  
 হুসেন-খাঁ ‘সৈয়দ’ করে তাহার চাকরী ॥ ১৮০ ॥
 
 pūrve yabe subuddhi-rāya chilā gauḍe ‘adhikārī’  
-husena-khāṅ ‘saiyada’ kare tāhāra cākarī
+formerly  when  Subuddhi Rāya  was  in Gauḍa  a governor  
+husena-khāṅ ‘saiyada’ kare tāhāra cākarī  
+Husain Khān  the Saiyad  did  his  service
 
-(180) [not yet translated]
+(180) Formerly, when Subuddhi Rāya was a governor (*adhikārī*) in Gauḍa, Saiyad Husain Khān was in his service.
 
 দীঘি খোদাইতে তারে ‘মুনসীফ’ কৈলা ৷  
 ছিদ্র পাঞা রায় তারে চাবুক মারিলা ॥ ১৮১ ॥
 
 dīghi khodāite tāre ‘munsīpha’ kailā  
-chidra pāñā rāya tāre cābuka mārilā
+a large pond  to dig  him  munsif  made  
+chidra pāñā rāya tāre cābuka mārilā  
+a fault  finding  Rāya  him  with a whip  struck
 
-(181) [not yet translated]
+(181) Rāya put him in charge (*munsīph*) of digging a large pond; finding a fault in his work, Rāya struck him with a whip.
 
 পাছে যবে হুসেন-খাঁ গৌড়ে ‘রাজা’ হইল ৷  
 সুবুদ্ধি-রায়েরে তিঁহো বহু বাড়াইল ॥ ১৮২ ॥
 
 pāche yabe husena-khāṅ gauḍe ‘rājā’ haila  
-subuddhi-rāyere tiṅho bahu bāḍāila
+later  when  Husain Khān  in Gauḍa  king  became  
+subuddhi-rāyere tiṅho bahu bāḍāila  
+Subuddhi Rāya  he  greatly  advanced
 
-(182) [not yet translated]
+(182) Later, when Husain Khān became king of Gauḍa, he greatly advanced Subuddhi Rāya.
 
 তার স্ত্রী তার অঙ্গে দেখে মারণের চিহ্নে ৷  
 সুবুদ্ধি রায়েরে মারিতে কহে রাজা-স্থানে ॥ ১৮৩ ॥
 
 tāra strī tāra aṅge dekhe māraṇera cihne  
-subuddhi rāyere mārite kahe rājā-sthāne
+his  wife  on his  body  sees  of the beating  the marks  
+subuddhi rāyere mārite kahe rājā-sthāne  
+Subuddhi Rāya  to kill  says  to the king
 
-(183) [not yet translated]
+(183) His wife saw the marks of the whipping on his body and urged the king to have Subuddhi Rāya killed.
 
 রাজা কহে, — আমার পোষ্টা রায় হয় ‘পিতা’ ৷  
 তাহারে মারিব আমি, — ভাল নহে কথা ॥ ১৮৪ ॥
 
 rājā kahe, — āmāra poṣṭā rāya haya ‘pitā’  
-tāhāre māriba āmi, — bhāla nahe kathā
+the king  says  —  my  patron  Rāya  is  a father  
+tāhāre māriba āmi, — bhāla nahe kathā  
+him  shall kill  I  —  good  is not  the word
 
-(184) [not yet translated]
+(184) The king said, “Rāya has been my patron; he is a father to me. That I should kill him — such talk is not right.”
 
 স্ত্রী কহে, — ‘জাতি’ লহ’, যদি প্রাণে না মারিবে ৷  
 রাজা কহে, — জাতি নিলে ইঁহো নাহি জীবে ॥ ১৮৫ ॥
 
 strī kahe, — ‘jāti’ laha’, yadi prāṇe nā māribe  
-rājā kahe, — jāti nile iṅho nāhi jībe
+the wife  says  —  his caste  take  if  of life  not  you will deprive  
+rājā kahe, — jāti nile iṅho nāhi jībe  
+the king  says  —  caste  if taken  he  not  will live
 
-(185) [not yet translated]
+(185) His wife said, “If you will not take his life, then take his caste.” The king said, “If his caste is taken, he will not survive.”
 
 স্ত্রী মরিতে চাহে, রাজা সঙ্কটে পড়িল ৷  
 করোঁয়ার পানি তার মুখে দেওয়াইল ॥ ১৮৬ ॥
 
 strī marite cāhe, rājā saṅkaṭe paḍila  
-karoṅyāra pāni tāra mukhe deoyāila
+the wife  to die  wishes  the king  into a dilemma  fell  
+karoṅyāra pāni tāra mukhe deoyāila  
+from a karoyā  water  his  into the mouth  had put
 
-(186) [not yet translated]
+(186) His wife threatened to die, and the king was caught in a dilemma. At last he had water from a Muslim’s water pot (*karoyā*) put into Subuddhi Rāya’s mouth.
 
 তবে সুবুদ্ধি-রায় সেই ‘ছদ্ম’ পাঞা ৷  
 বারাণসী আইলা, সব বিষয় ছাড়িয়া ॥ ১৮৭ ॥
 
 tabe subuddhi-rāya sei ‘chadma’ pāñā  
-vārāṇasī āilā, saba viṣaya chāḍiyā
+then  Subuddhi Rāya  that  pretext  obtaining  
+vārāṇasī āilā, saba viṣaya chāḍiyā  
+to Vārāṇasī  came  all  worldly affairs  giving up
 
-(187) [not yet translated]
+(187) Taking this as his pretext (*chadma*), Subuddhi Rāya gave up all his worldly affairs and came to Vārāṇasī.
 
 প্রায়শ্চিত্ত পুছিলা তিঁহো পণ্ডিতের গণে ৷  
 তাঁরা কহে, — তপ্ত-ঘৃত খাঞা ছাড়’ প্রাণে ॥ ১৮৮ ॥
 
 prāyaścitta puchilā tiṅho paṇḍitera gaṇe  
-tāṅrā kahe, — tapta-ghṛta khāñā chāḍa’ prāṇe
+atonement  asked  he  of the paṇḍitas  the group  
+tāṅrā kahe, — tapta-ghṛta khāñā chāḍa’ prāṇe  
+they  say  —  boiling  ghee  drinking  give up  your life
 
-(188) [not yet translated]
+(188) He asked the *paṇḍitas* what atonement he should perform. They said, “Drink boiling ghee and give up your life.”
 
 কেহ কহে, — এই নহে, ‘অল্প’ দোষ হয় ৷  
 শুনিয়া রহিলা রায় করিয়া সংশয় ॥ ১৮৯ ॥
 
 keha kahe, — ei nahe, ‘alpa’ doṣa haya  
-śuniyā rahilā rāya kariyā saṁśaya
+someone  says  —  this  is not (so)  slight  the fault  is  
+śuniyā rahilā rāya kariyā saṁśaya  
+hearing  remained  Rāya  having  doubt
 
-(189) [not yet translated]
+(189) Another said, “Not so: the fault is slight.” Hearing this, Rāya was left in doubt.
 
 তবে যদি মহাপ্রভু বারাণসী আইলা ৷  
 তাঁরে মিলি’ রায় আপন-বৃত্তান্ত কহিলা ॥ ১৯০ ॥
 
 tabe yadi mahāprabhu vārāṇasī āilā  
-tāṅre mili’ rāya āpana-vṛttānta kahilā
+then  when  Mahāprabhu  to Vārāṇasī  came  
+tāṅre mili’ rāya āpana-vṛttānta kahilā  
+Him  meeting  Rāya  his own  story  told
 
-(190) [not yet translated]
+(190) Then, when Mahāprabhu came to Vārāṇasī, Rāya met Him and told Him his story.
 
 প্রভু কহে, — ইঁহা হৈতে যাহ’ বৃন্দাবন ৷  
 নিরন্তর কর কৃষ্ণনামসংকীর্ত্তন ॥ ১৯১ ॥
 
 prabhu kahe, — iṅhā haite yāha’ vṛndāvana  
-nirantara kara kṛṣṇa-nāma-saṁkīrtana
+the Lord  says  —  from here  go  to Vṛndāvana  
+nirantara kara kṛṣṇa-nāma-saṁkīrtana  
+constantly  do  saṅkīrtana of Kṛṣṇa’s name
 
-(191) [not yet translated]
+(191) The Lord said, “Go from here to Vṛndāvana and always chant the name of Kṛṣṇa in *saṅkīrtana*.
 
 এক ‘নামাভাসে’ তোমার পাপ-দোষ যাবে ৷  
 আর ‘নাম’ লইতে কৃষ্ণচরণ পাইবে ॥ ১৯২ ॥
 
 eka ‘nāmābhāse’ tomāra pāpa-doṣa yābe  
-āra ‘nāma’ laite kṛṣṇa-caraṇa pāibe
+by one  semblance of the Name (nāmābhāsa)  your  sins and faults  will go  
+āra ‘nāma’ laite kṛṣṇa-caraṇa pāibe  
+and  the Name  taking  Kṛṣṇa’s feet  you will attain
 
-(192) [not yet translated]
+(192) By the mere semblance of the Name (*nāmābhāsa*) your sins and faults will go; and by chanting the Name itself you will attain Kṛṣṇa’s feet.
 
 আর কৃষ্ণনাম লৈতে কৃষ্ণস্থানে স্থিতি ৷  
 মহাপাতকের হয় এই প্রায়শ্চিত্তি ॥ ১৯৩ ॥
 
 āra kṛṣṇa-nāma laite kṛṣṇa-sthāne sthiti  
-mahā-pātakera haya ei prāyaścitti
+and  Kṛṣṇa’s name  taking  in Kṛṣṇa’s abode  residence  
+mahā-pātakera haya ei prāyaścitti  
+of the greatest sins  is  this  the atonement
 
-(193) [not yet translated]
+(193) Chanting Kṛṣṇa’s name further, you will dwell in Kṛṣṇa’s abode. This is the atonement even for the greatest sins.”
 
 পাঞা আজ্ঞা রায় বৃন্দাবনেরে চলিলা ৷  
 প্রয়াগ, অযোধ্যা দিয়া নৈমিষারণ্যে আইলা ॥ ১৯৪ ॥
 
 pāñā ājñā rāya vṛndāvanere calilā  
-prayāga, ayodhyā diyā naimiṣāraṇye āilā
+receiving  the order  Rāya  for Vṛndāvana  set out  
+prayāga, ayodhyā diyā naimiṣāraṇye āilā  
+Prayāga  Ayodhyā  by way of  to Naimiṣāraṇya  came
 
-(194) [not yet translated]
+(194) Receiving this order, Rāya set out for Vṛndāvana and, by way of Prayāga and Ayodhyā, came to Naimiṣāraṇya.
 
 কতক দিবস রায় নৈমিষারণ্যে রহিলা ৷  
 প্রভু বৃন্দাবন হৈতে প্রয়াগ যাইলা ॥ ১৯৫ ॥
 
 kataka divasa rāya naimiṣāraṇye rahilā  
-prabhu vṛndāvana haite prayāga yāilā
+some  days  Rāya  in Naimiṣāraṇya  stayed  
+prabhu vṛndāvana haite prayāga yāilā  
+the Lord  Vṛndāvana  from  to Prayāga  went
 
-(195) [not yet translated]
+(195) Rāya stayed some days in Naimiṣāraṇya; meanwhile the Lord went from Vṛndāvana to Prayāga.
 
 মথুরা আসিয়া রায় প্রভুবার্ত্তা পাইল ৷  
 প্রভুর লাগ্ না পাঞা মনে বড় দুঃখ হৈল ॥ ১৯৬ ॥
 
 mathurā āsiyā rāya prabhu vārtā pāila  
-prabhura lāg nā pāñā mane baḍa duḥkha haila
+to Mathurā  coming  Rāya  of the Lord  news  received  
+prabhura lāg nā pāñā mane baḍa duḥkha haila  
+of the Lord  meeting  not  getting  in his mind  great  sorrow  arose
 
-(196) [not yet translated]
+(196) Coming to Mathurā, Rāya received news of the Lord; having missed meeting Him, he was deeply grieved.
 
 শুষ্ককাষ্ঠ আনি’ রায় বেচে মথুরাতে ৷  
 পাঁচ ছয় পয়সা হয় এক এক বোঝাতে ॥ ১৯৭ ॥
 
 śuṣka-kāṣṭha āni’ rāya vece mathurāte  
-pāṅca chaya payasā haya eka eka bojhāte
+dry  wood  bringing  Rāya  sells  in Mathurā  
+pāṅca chaya payasā haya eka eka bojhāte  
+five  six  paisā  there are  for one  each  bundle
 
-(197) [not yet translated]
+(197) Rāya would gather dry wood and sell it in Mathurā, earning five or six *paisā* a bundle.
 
 আপনে রহে এক পয়সার চানা চাবাঞা ৷  
 আর পয়সা বাণিয়া-স্থানে রাখেন ধরিয়া ॥ ১৯৮ ॥
 
 āpane rahe eka payasāra cānā cābāñā  
-āra payasā bāṇiyā-sthāne rākhena dhariyā
+himself  lives  of one  paisā  chickpeas  chewing  
+āra payasā bāṇiyā-sthāne rākhena dhariyā  
+the other  paisā  with a merchant  keeps  saving
 
-(198) [not yet translated]
+(198) He himself lived on one *paisā*’s worth of chickpeas and kept the rest of his money with a merchant.
 
 দুঃখী বৈষ্ণব দেখি’ তাঁরে করান ভোজন ৷  
 গৌড়ীয়া আইলে দধি, ভাত, তৈল-মর্দ্দন ॥ ১৯৯ ॥
 
 duḥkhī vaiṣṇava dekhi’ tāṅre karāna bhojana  
-gauḍīyā āile dadhi, bhāta, taila-mardana
+a poor  Vaiṣṇava  seeing  him  makes  eat  
+gauḍīyā āile dadhi, bhāta, taila-mardana  
+Gauḍīyas  when they come  yogurt  rice  oil  massage
 
-(199) [not yet translated]
+(199) Whenever he saw a poor Vaiṣṇava, he fed him; and when Gauḍīyas came, he gave them yogurt and rice and had them massaged with oil.
 
 রূপ-গোসাঞি আসি’ তাঁরে বহু প্রীতি কৈলা ৷  
 আপন-সঙ্গে লঞা ‘দ্বাদশ বন’ দেখাইলা ॥ ২০০ ॥
 
 rūpa-gosāñi āsi’ tāṅre bahu prīti kailā  
-āpana-saṅge lañā ‘dvādaśa vana’ dekhāilā
+Rūpa Gosāñi  having come  to him  much  affection  showed  
+āpana-saṅge lañā ‘dvādaśa vana’ dekhāilā  
+with himself  taking  the twelve  forests  showed
 
-(200) [not yet translated]
+(200) When Rūpa Gosāñi came, Rāya showed him great affection, took him along and showed him the twelve forests.
 
 মাসমাত্র রূপ-গোসাঞি রহিলা বৃন্দাবনে ৷  
 শীঘ্র চলি’ আইলা সনাতনানুসন্ধানে ॥ ২০১ ॥
