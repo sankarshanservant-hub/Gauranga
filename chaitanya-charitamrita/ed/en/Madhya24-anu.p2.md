@@ -360,6 +360,62 @@ In ancient times Pṛthu Mahārāja, lord of the earth, performed a great sacrif
 
 See Madhya 22.42.
 
+## 214
+
+> Subheading: Here are twenty-three meanings —
+
+If these four kinds of “*dehārāma*” are added to the earlier nineteen meanings of the word *ātmārāma*, there are “twenty-three” meanings. And the three further meanings are (1) the *anvācaya* meaning of the word *ca*; (2) the *eva* meaning of the word *ca* together with the *garhā* (censure) meaning of the word *api*; and (3) the *nirdhana* (pauper) meaning of the word *nirgrantha*.
+
+## 215
+
+> Subheading: The explanation by the *samuccaya* meaning of the word *ca* —
+
+The *samuccaya* (conjunction) meaning of the word *ca* has already been explained above: by it, the “*ātmārāmas*” and the “*munis*” serve Kṛṣṇa. “Another meaning” — that is, a meaning other than *samuccaya*.
+
+## 216
+
+“*Api*” is used in the sense of *nirdhāraṇa* (specification); “*nirgranthāḥ*” is the “qualifier” of both, of the *ātmārāmas* and of the *munis*; “*ihã*” means “in this case.” Thus, if one says, “Rāma and Kṛṣṇa sport in the forest,” it means that both of Them sport in the forest.
+
+## 217
+
+> Subheading: The explanation by the *anvācaya* meaning of the word *ca* —
+
+## 217–218
+
+The word *ca* in the meaning of *anvācaya*, that is, the primacy of one thing and the secondary place of another. As an example one may say: “O *brāhmaṇa* boy, beg alms, and if you can, bring the cow as well.” Here begging alms is primary, and bringing the cow is indicated as secondary. In the same way, the sages who contemplate Kṛṣṇa always serve Kṛṣṇa as the “primary” ones, and the *ātmārāmas* serve Kṛṣṇa as the “secondary” ones. This is how the *anvācaya* meaning is applied.
+
+## 218
+
+> Subheading: In this meaning the service of the sage is primary, and the service of the *ātmārāma* secondary —
+
+## 219
+
+> Subheading: The explanation by the *eva* meaning of the word *ca* and the *garhā* (censure) meaning of the word *api* —
+
+If the word *ca* is used in the sense of *eva* and the word *api* in the sense of censure, the meaning is this: “Even though they are *ātmārāmas*, the sages give up the prestige of such a position — and they alone serve Kṛṣṇa.”
+
+## 220
+
+> Subheading: In both cases the word *nirgrantha* is a qualifier —
+
+“*Nirgrantha*” is the “qualifier” of both, of the *ātmārāma* and of the *muni*. And the other, third meaning — that is, the twenty-sixth — is what was seen in the hunter as the fruit of association with Śrī Nārada, the best of *sādhus*.
+
+## 221
+
+> Subheading: The meaning of the word *nirgrantha* —
+
+If *api* with the word *nirgrantha* is used in the sense of *nirdhāraṇa*, then even an unworthy hunter, devoid of such wealth as *sādhana*, becomes a *kṛṣṇārāma* through the power of association with a *sādhu* like Nārada, and serves Kṛṣṇa.
+
+## 222
+
+> Subheading: Through the company of *sādhus* even a hunter is freed from sin, his heart turns to Kṛṣṇa — he becomes a *mahā-bhāgavata* —
+
+The meaning of the word *ātmā* is “Kṛṣṇa.” One who delights in Kṛṣṇa is a *kṛṣṇārāma*; and this *kṛṣṇārāma* is the one who contemplates Kṛṣṇa.
+
+## 223
+
+> Subheading: The account of the conversation between the hunter and Nārada from the *Skanda Purāṇa* —
+
 ---
 
 [^160-1]: The hymn of the personified Vedas (Śrutis), *Śrīmad-Bhāgavatam*, Canto 10, Chapter 87.

@@ -90,6 +90,14 @@ O friends! Kṛṣṇa and Baladeva go from forest to forest with the cows and t
 
 The taste for serving His feet, like the Gaṅgā flowing from the great toe of Kṛṣṇa's foot, grows day by day. At once it destroys the impurity of the intelligence that (worldly) ascetics have accumulated over countless births.
 
+## 217
+
+“*Baṭo, bhikṣām aṭa, gāṁ cānaya*” — “O *baṭu*, go and beg alms, and bring the cow as well.” Just as in this sentence the word *ca* has the meaning of *anvācaya*, so take it in the *ātmārāma* verse.
+
+## 228
+
+“*Õta*” — in hiding, concealed in among [the branches].
+
 ---
 
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.
