@@ -1520,7 +1520,7 @@ of all  the Vedas and Itihāsas
 sāraṁ sāraṁ samuddhṛtam  
 the essence  the essence  extracted
 
-(138) “… the very essence of essences, drawn from all the Vedas and Itihāsas.” (Śrīmad-Bhāgavatam, 1.3.42)[^36]
+(138) “… the very essence of essences, drawn from all the Vedas and Itihāsas.” (Śrīmad-Bhāgavatam, 1.3.42)[^36][^37]
 
 সর্ব্ববেদান্তসারং হি শ্রীমদ্ভাগবতমিষ্যতে ৷  
 তদ্রসামৃততৃপ্তস্য নান্যত্র স্যাদ্রতিঃ ক্বচিৎ ॥ ১৩৯ ॥
@@ -1544,7 +1544,7 @@ of the Gāyatrī  with the meaning  this  book’s  beginning
 ‘satyaṁ paraṁ’ — sambandha, ‘dhīmahi’ — sādhane prayojana  
 satyaṁ  paraṁ (the Supreme Truth)  —  sambandha  dhīmahi (let us meditate)  —  in sādhana (abhidheya)  prayojana
 
-(140) This book begins with the meaning of the Gāyatrī: “*satyaṁ param*” (the Supreme Truth) is the *sambandha*, and “*dhīmahi*” (let us meditate) is both the practice (*sādhana*) and the goal (*prayojana*).[^37]
+(140) This book begins with the meaning of the Gāyatrī: “*satyaṁ param*” (the Supreme Truth) is the *sambandha*, and “*dhīmahi*” (let us meditate) is both the practice (*sādhana*) and the goal (*prayojana*).[^38]
 
 জন্মাদ্যস্য যতোঽন্বয়াদিতরতশ্চার্থেষ্বভিজ্ঞঃ স্বরাট্  
 তেনে ব্রহ্ম হৃদা য আদিকবয়ে মুহ্যন্তি যৎ সূরয়ঃ ৷  
@@ -1560,7 +1560,7 @@ of fire  water  earth  as  the interchange  in whom  the threefold creation  rea
 dhāmnā svena sadā nirasta-kuhakaṁ satyaṁ paraṁ dhīmahi  
 by power  His own  always  free of all deception  the truth  supreme  let us meditate on
 
-(141) “Let us meditate on the Supreme Truth, from whom, directly and indirectly, this universe arises, endures and dissolves; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)[^38]
+(141) “Let us meditate on the Supreme Truth, from whom, directly and indirectly, this universe arises, endures and dissolves; who is fully aware of all purposes and shines by Himself (*svarāṭ*); who revealed the Veda through the heart to the first poet, Brahmā; about whom even the wise are bewildered; in whom, as fire, water and earth pass into one another, the threefold creation is real; and who by His own power is ever free of all deception.” (Śrīmad-Bhāgavatam, 1.1.1)[^39]
 
 ধর্ম্মঃ প্রোজ্ঝিতকৈতবোঽত্র পরমো নির্ম্মৎসরাণাং সতাং  
 বেদ্যং বাস্তবমত্র বস্তু শিবদং তাপত্রয়োন্মূলনম্ ৷  
@@ -1576,7 +1576,7 @@ in the beautiful Bhāgavata  by the great sage  composed  what  by others?  the 
 sadyo hṛdy avarudhyate ’tra kṛtibhiḥ śuśrūṣubhis tat-kṣaṇāt  
 at once  in the heart  is captured  here  by the pious  who wish to hear  that very moment
 
-(142) “In this beautiful *Bhāgavatam*, composed by the great sage, is taught the supreme dharma of the saintly who are free from envy, from which all deceit has been cast out. Here is known the true Reality, which bestows good and uproots the threefold miseries. What need is there of other scriptures? As soon as the pious wish to hear it, the Lord is at once captured within their hearts.” (Śrīmad-Bhāgavatam, 1.1.2)[^39]
+(142) “In this beautiful *Bhāgavatam*, composed by the great sage, is taught the supreme dharma of the saintly who are free from envy, from which all deceit has been cast out. Here is known the true Reality, which bestows good and uproots the threefold miseries. What need is there of other scriptures? As soon as the pious wish to hear it, the Lord is at once captured within their hearts.” (Śrīmad-Bhāgavatam, 1.1.2)[^40]
 
 ‘কৃষ্ণভক্তিরসস্বরূপ’ শ্রীভাগবত ৷  
 তাতে বেদশাস্ত্র হৈতে পরম মহত্ত্ব ॥ ১৪৩ ॥
@@ -1636,7 +1636,7 @@ constantly  do  saṅkīrtana of Kṛṣṇa’s name
 helāya ‘mukti’ pābe, pābe prema-dhana  
 easily  liberation  you will attain  you will attain  the treasure of love
 
-(147) Always chant the name of Kṛṣṇa in saṅkīrtana: you will easily attain liberation and gain the treasure of love.[^40]
+(147) Always chant the name of Kṛṣṇa in saṅkīrtana: you will easily attain liberation and gain the treasure of love.[^41]
 
 ব্রহ্মভূতঃ প্রসন্নাত্মা ন শোচতি ন কাঙ্ক্ষতি ৷  
 সমঃ সর্ব্বেষু ভূতেষু মদ্ভক্তিং লভতে পরাম্ ॥ ১৪৮ ॥
@@ -1650,7 +1650,7 @@ equal  to all  beings
 mad-bhaktiṁ labhate parām  
 for Me  devotion  attains  supreme
 
-(148) “One who has realised Brahman and is serene within neither grieves nor desires. Equal to all beings, he attains supreme devotion to Me.” (Bhagavad-gītā, 18.54)[^41]
+(148) “One who has realised Brahman and is serene within neither grieves nor desires. Equal to all beings, he attains supreme devotion to Me.” (Bhagavad-gītā, 18.54)[^42]
 
 মুক্তা অপি লীলয়া বিগ্রহং কৃত্বা ভগবন্তং ভজন্তে ॥ ১৪৯ ॥
 
@@ -1659,7 +1659,7 @@ the liberated  even  by līlā  a form
 kṛtvā bhagavantaṁ bhajante  
 having assumed  Bhagavān  worship
 
-(149) “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” (words of the author of the Sarvajña-bhāṣya, quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 10.87.21)[^42]
+(149) “Even the liberated, assuming a form (*vigraha*) by the Lord’s *līlā*, worship Bhagavān.” (words of the author of the Sarvajña-bhāṣya, quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 10.87.21)[^43]
 
 পরিনিষ্ঠিতোঽপি নৈর্গুণ্যে উত্তমঃশ্লোকলীলয়া ৷  
 গৃহীতচেতা রাজর্ষে আখ্যানং যদধীতবান্ ॥ ১৫০ ॥
@@ -1673,7 +1673,7 @@ captivated  in mind  O royal sage
 ākhyānaṁ yad adhītavān  
 the narration  which  I studied
 
-(150) “O royal sage, although I was firmly established in transcendence of the *guṇas*, my mind was captivated by the pastimes of Uttamaśloka, and so I studied this narration.” (Śrīmad-Bhāgavatam, 2.1.9)[^43]
+(150) “O royal sage, although I was firmly established in transcendence of the *guṇas*, my mind was captivated by the pastimes of Uttamaśloka, and so I studied this narration.” (Śrīmad-Bhāgavatam, 2.1.9)[^44]
 
 তস্যারবিন্দনয়নস্য পদারবিন্দ-  
 কিঞ্জল্কমিশ্রতুলসীমকরন্দবায়ুঃ ৷  
@@ -1689,7 +1689,7 @@ having entered within  through its own passage  caused  in them
 saṅkṣobham akṣara-juṣām api citta-tanvoḥ  
 agitation  devoted to the imperishable Brahman  even  of mind and body
 
-(151) “The breeze that bore the fragrance of tulasī, mingled with the pollen of the lotus-eyed Lord’s lotus feet, entered their nostrils and stirred both their minds and their bodies, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)[^44]
+(151) “The breeze that bore the fragrance of tulasī, mingled with the pollen of the lotus-eyed Lord’s lotus feet, entered their nostrils and stirred both their minds and their bodies, though they were devoted to the imperishable Brahman.” (Śrīmad-Bhāgavatam, 3.15.43)[^45]
 
 আত্মারামাশ্চ মুনয়ো নির্গ্রন্থা অপ্যুরুক্রমে ৷  
 কুর্ব্বন্ত্যহৈতুকীং ভক্তিমিত্থম্ভূতগুণো হরিঃ ॥ ১৫২ ॥
@@ -1703,7 +1703,7 @@ perform  causeless  devotion
 ittham-bhūta-guṇo hariḥ  
 of such  qualities  is Hari
 
-(152) ‘Even sages who delight in the ātmā and are free from the knots of the heart render causeless devotion to Urukrama, for such are the qualities of Hari.’” (Śrīmad-Bhāgavatam, 1.7.10)[^45]
+(152) ‘Even sages who delight in the ātmā and are free from the knots of the heart render causeless devotion to Urukrama, for such are the qualities of Hari.’” (Śrīmad-Bhāgavatam, 1.7.10)[^46]
 
 হেনকালে সেই মহারাষ্ট্রীয় ব্রাহ্মণ ৷  
 সভাতে কহিল সেই শ্লোক-বিবরণ ॥ ১৫৩ ॥
@@ -2103,7 +2103,7 @@ by one  semblance of the Name (nāmābhāsa)  your  sins and faults  will go
 āra ‘nāma’ laite kṛṣṇa-caraṇa pāibe  
 and  the Name  taking  Kṛṣṇa’s feet  you will attain
 
-(192) By the mere semblance of the holy name (*nāmābhāsa*) your sin and its taint will go; and by chanting the Name itself you will attain Kṛṣṇa’s feet.[^46]
+(192) By the mere semblance of the holy name (*nāmābhāsa*) your sin and its taint will go; and by chanting the Name itself you will attain Kṛṣṇa’s feet.[^47]
 
 আর কৃষ্ণনাম লৈতে কৃষ্ণস্থানে স্থিতি ৷  
 মহাপাতকের হয় এই প্রায়শ্চিত্তি ॥ ১৯৩ ॥
@@ -2453,7 +2453,7 @@ Mahāprabhu  has come  in the town  an uproar  arose
 sārvabhauma, rāmānanda, vāṇīnātha milila  
 Sārvabhauma  Rāmānanda  Vāṇīnātha  met (Him)
 
-(227) The town was in an uproar: “Mahāprabhu has come!” Sārvabhauma, Rāmānanda and Vāṇīnātha came to meet Him.[^47]
+(227) The town was in an uproar: “Mahāprabhu has come!” Sārvabhauma, Rāmānanda and Vāṇīnātha came to meet Him.[^48]
 
 সবা সঙ্গে লঞা প্রভু মিশ্র-বাসা আইলা ৷  
 সার্ব্বভৌম-পণ্ডিত গোসাঞিরে নিমন্ত্রণ কৈলা ॥ ২২৮ ॥
@@ -2503,7 +2503,7 @@ this  whoever  faith  having  does  hearing
 acirāt pāya sei caitanya-caraṇa  
 soon  attains  he  Caitanya’s  feet
 
-(232) Whoever hears this with faith will soon attain the feet of Śrī Caitanya.[^48]
+(232) Whoever hears this with faith will soon attain the feet of Śrī Caitanya.[^49]
 
 মধ্যলীলার করিলুঁ এই দিগ্দরশন ৷  
 ছয় বৎসর কৈলা যৈছে গমনাগমন ॥ ২৩৩ ॥
@@ -2813,7 +2813,7 @@ of this  by the grace  you will attain  of the truth of Kṛṣṇa  the essence
 sarva-śāstra-siddhāntera im̐hā pāibā pāra  
 of all the scriptures  of the conclusions  here  you will reach  the far shore
 
-(263) By its grace you will attain the essence of the truth of Kṛṣṇa; here you will reach the far shore of the conclusions of all the scriptures.
+(263) By the grace of this *līlā* you will attain the essence of the truth of Kṛṣṇa, and here you will reach the far shore of the conclusions of all the scriptures.
 
 কৃষ্ণলীলা অমৃত-সার, তার শত শত ধার,  
 দশদিকে বহে যাহা হৈতে ৷  
@@ -2842,7 +2842,7 @@ of you  all  the dust of the feet  on my body  ornament  making
 kichu muñi karoṅ nivedana  
 something  I  make  petition
 
-(265) O devotees, hear my humble words. Making the dust of your feet the ornament of my body, I make a petition to you.
+(265) O devotees, hear my humble words. Adorning my body with the dust of your feet, I lay a petition before you.[^50]
 
 কৃষ্ণভক্তিসিদ্ধান্তগণ, যাতে প্রফুল্ল পদ্মবন,  
 তার মধু করি’ আস্বাদন ৷  
@@ -2890,7 +2890,7 @@ will be cut off  all  sorrows  you will attain  supreme  happiness
 anāyāse habe premollāsa  
 without effort  there will be  the elation of prema
 
-(268) Go to that lake, become swans and *cakravākas*, and sport there for ever. All your sorrows will be cut away, you will attain the highest happiness, and the elation of prema will come without effort.
+(268) Go to that lake, become swans and *cakravākas*, and sport there for ever. All your sorrows will be cut away, you will attain the highest happiness, and the elation of prema will come without effort.[^51]
 
 এই অমৃত অনুক্ষণ, সাধু মহান্ত-মেঘগণ,  
 বিশ্বোদ্যানে করে বরিষণ ৷  
@@ -2906,7 +2906,7 @@ by that  grow  nectarean fruits  the devotees  eat  constantly
 tāra preme jīye jaga-jana  
 by their  love  live  the people of the world
 
-(269) The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees eat them constantly, and by their love the people of the world live.
+(269) The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees eat them constantly, and the people of the world live by their love.
 
 চৈতন্যলীলা — অমৃতপূর, কৃষ্ণলীলা — সুকর্পূর,  
 দুহে মিলি’ হয় সুমাধুর্য্য ৷  
@@ -2922,7 +2922,7 @@ of the sādhus and guru  by the grace  that  whoever  relishes
 sei jāne mādhurya-prācurya  
 he  knows  of sweetness  the abundance
 
-(270) Caitanya’s *līlā* is a filling of nectar (*amṛta-pūra*), and Kṛṣṇa’s *līlā* is fine camphor; combined, the two become an exquisite sweetness. Whoever relishes it by the grace of the sādhus and the guru knows the abundance of that sweetness.
+(270) Caitanya’s *līlā* is a filling of nectar (*amṛta-pūra*), and Kṛṣṇa’s *līlā* is fine camphor; combined, the two become an exquisite sweetness. Whoever relishes it by the grace of the sādhus and the Guru knows the abundance of that sweetness.[^52]
 
 যে লীলামৃত বিনে, খায় যদি অন্নপানে,  
 তবে ভক্তের দুর্ব্বল জীবন ৷  
@@ -2954,7 +2954,7 @@ not  fall  into the pit of false argument  into the impure  harsh  whirlpool
 yāte paḍile haya sarva-nāśa  
 into which  having fallen  there is  total ruin
 
-(272) Drink this nectar, which has no equal, with firm faith in your heart. Do not fall into the pit of false argument, into its impure and harsh whirlpool: whoever falls there meets total ruin.
+(272) Drink this nectar, which has no equal, with firm faith in your heart. Do not fall into the pit of false argument, into its impure and harsh whirlpool: whoever falls there meets total ruin.[^53]
 
 শ্রীচৈতন্য, নিত্যানন্দ, শ্রীঅদ্বৈত, ভক্তবৃন্দ,  
 আর যত শ্রোতা ভক্তগণ ৷  
@@ -3000,7 +3000,7 @@ offered to Caitanya  may be  this
 caitanya-caritāmṛtam  
 Caitanya-caritāmṛta
 
-(275) “For the satisfaction of Śrīman Madana-Gopāla and Govinda-deva, may this *Caitanya-caritāmṛta* be offered to Śrī Caitanya.”
+(275) For the satisfaction of Śrīman Madana-Gopāla and Govinda-deva, may this *Caitanya-caritāmṛta* be offered to Śrī Caitanya.
 
 তদিদমতিরহস্যং গৌরলীলামৃতং যৎ  
 খলু সমুদয়লোকৈর্নাদৃতং তৈরলভ্যম্ ৷  
@@ -3016,7 +3016,7 @@ loss  this  here  what  to me  relished  since  on all sides
 sahṛdaya-sumanobhir modam eṣāṁ tanoti  
 by the large-hearted  the noble-minded  joy  their  expands
 
-(276) “This most secret nectar of Gaura’s *līlā* is indeed not honoured by the mass of people: to them it is unattainable. What loss is that to me? Relished on all sides by the large-hearted and noble-minded, it expands their joy.”
+(276) This most secret nectar of Gaura’s *līlā* is surely not honoured by the common crowd: it lies beyond their reach. What loss is that to me? Relished on every side by the large-hearted and noble-minded, it increases their joy.[^54]
 
 ---
 
@@ -3092,26 +3092,38 @@ by the large-hearted  the noble-minded  joy  their  expands
 
 [^36]: *Anubhāṣya*: this essence, drawn from all the Vedas and Itihāsas, Vyāsa gave to his son Śukadeva to study.
 
-[^37]: *Anubhāṣya*: the Supreme Truth is the *sambandha*; the effort of meditation, the practice of *sādhana-bhakti*, is the *abhidheya*; and its fruit, meditation as *prema-bhakti*, is the *prayojana*. The edition prints no numbers for verses 140–142.
+[^37]: Number as in the heading of the edition (p. 839): 1.3.42; 1.3.41 in the numbering of other editions.
 
-[^38]: The same verse as Madhya 8.265; translation as there.
+[^38]: *Anubhāṣya*: the Supreme Truth is the *sambandha*; the effort of meditation, the practice of *sādhana-bhakti*, is the *abhidheya*; and its fruit, meditation as *prema-bhakti*, is the *prayojana*. The edition prints no numbers for verses 140–142.
 
-[^39]: The same verse as Ādi 1.91 (there «কিং বা»; here, as in the edition, «কিম্বা»); translation as there. The verse names no sage (*mahā-muni-kṛte*, “composed by the great sage”); the *Anubhāṣya* on Ādi 1.91 explains: Śrī Nārāyaṇa.
+[^39]: The same verse as Madhya 8.265; translation as there.
 
-[^40]: Heading of the edition: “The command to chant without cease; liberation comes even from *nāmābhāsa*” (cf. 192).
+[^40]: The same verse as Ādi 1.91 (there «কিং বা»; here, as in the edition, «কিম্বা»); translation as there. The verse names no sage (*mahā-muni-kṛte*, “composed by the great sage”); the *Anubhāṣya* on Ādi 1.91 explains: Śrī Nārāyaṇa.
 
-[^41]: The same verse as Madhya 8.65; translation as there.
+[^41]: Heading of the edition: “The command to chant without cease; liberation comes even from *nāmābhāsa*” (cf. 192).
 
-[^42]: The same verse as Madhya 24.107; translation and reference as there, following the heading of the edition (p. 841). The line is printed without a number (only «॥»).
+[^42]: The same verse as Madhya 8.65; translation as there.
 
-[^43]: The same verse as Madhya 24.46; translation as there. The edition (p. 841) reads «নৈর্গুণ্যে».
+[^43]: The same verse as Madhya 24.107; translation and reference as there, following the heading of the edition (p. 841). The line is printed without a number (only «॥»).
 
-[^44]: The same verse as Madhya 17.142; translation as there.
+[^44]: The same verse as Madhya 24.46; translation as there. The edition (p. 841) reads «নৈর্গুণ্যে».
 
-[^45]: The same verse as Madhya 6.186; translation as there. Here the Lord’s speech, begun in 89, ends; from 153 the edition resumes the narrative.
+[^45]: The same verse as Madhya 17.142; translation as there.
 
-[^46]: Heading of the edition: “The fruits of *nāmābhāsa* and of the pure Name are different.” As in 30, sin is removed already by the semblance of the Name; Kṛṣṇa’s feet are attained by the Name itself.
+[^46]: The same verse as Madhya 6.186; translation as there. Here the Lord’s speech, begun in 89, ends; from 153 the edition resumes the narrative.
 
-[^47]: The first line of the verse is the second line of Madhya 16.252; that half is translated as there.
+[^47]: Heading of the edition: “The fruits of *nāmābhāsa* and of the pure Name are different.” As in 30, sin is removed already by the semblance of the Name; Kṛṣṇa’s feet are attained by the Name itself.
 
-[^48]: The second line of the verse is the same as in Madhya 15.301; translated as there.
+[^48]: The first line of the verse is the second line of Madhya 16.252; that half is translated as there.
+
+[^49]: The second line of the verse is the same as in Madhya 15.301; translated as there.
+
+[^50]: «ধ্রুব» (in the edition «ধ্রু») after the number marks the refrain of the song.
+
+[^51]: *Anubhāṣya*: plunging into the lake of Caitanya’s *līlā*, serve Kṛṣṇa while sheltered at Śrī Gaura’s feet; then there will be no “sorrow” — service to anyone but Kṛṣṇa — which comes to those who, like the “Nadīyā-nāgarīs”, imagine Gaurāṅga as a worldly object of enjoyment.
+
+[^52]: *Anubhāṣya*: that abundant sweetness is tasted by one who, by the grace of the sādhus and the guru, the followers of Śrī Rūpa, knows the nectar of Gaura’s *līlā* and of Kṛṣṇa’s *līlā* to be one; those who separate Gaura from Kṛṣṇa (like the “Nadīyā-nāgarīs”) are deprived of it.
+
+[^53]: *Anubhāṣya*: whoever, taking the pastimes of Kṛṣṇa and Gaura to be different, yields to this whirlpool and, abandoning the service of one, serves the other, meets total ruin.
+
+[^54]: Here the edition gives the colophon: “Thus ends the twenty-fifth chapter of the Madhya-khaṇḍa of the *Śrī Caitanya-caritāmṛta*: Making the Residents of Kāśī Vaiṣṇavas, and the Return to Nīlācala”, and the words: “Thus the Madhya-līlā is completed.”

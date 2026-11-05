@@ -788,6 +788,7 @@ w: of all  the Vedas and Itihāsas
 w: the essence  the essence  extracted
 tr: “… the very essence of essences, drawn from all the Vedas and Itihāsas.” (Śrīmad-Bhāgavatam, 1.3.42)
 fn: *Anubhāṣya*: this essence, drawn from all the Vedas and Itihāsas, Vyāsa gave to his son Śukadeva to study.
+fn: Number as in the heading of the edition (p. 839): 1.3.42; 1.3.41 in the numbering of other editions.
 
 ## 139
 w: of all Vedānta  the essence  indeed
@@ -1442,7 +1443,7 @@ tr: O devotees, hear these pastimes with faith: by hearing them you will attain 
 ## 263
 w: of this  by the grace  you will attain  of the truth of Kṛṣṇa  the essence
 w: of all the scriptures  of the conclusions  here  you will reach  the far shore
-tr: By its grace you will attain the essence of the truth of Kṛṣṇa; here you will reach the far shore of the conclusions of all the scriptures.
+tr: By the grace of this *līlā* you will attain the essence of the truth of Kṛṣṇa, and here you will reach the far shore of the conclusions of all the scriptures.
 
 ## 264
 w: Kṛṣṇa’s  līlā  of nectar  the essence  its  hundreds  hundreds  streams
@@ -1455,7 +1456,8 @@ tr: Kṛṣṇa’s *līlā* is the essence of nectar, and that from which its h
 w: O devotees  hear  my  humble  words
 w: of you  all  the dust of the feet  on my body  ornament  making
 w: something  I  make  petition
-tr: O devotees, hear my humble words. Making the dust of your feet the ornament of my body, I make a petition to you.
+tr: O devotees, hear my humble words. Adorning my body with the dust of your feet, I lay a petition before you.
+fn: «ধ্রুব» (in the edition «ধ্রু») after the number marks the refrain of the song.
 
 ## 266
 w: of devotion to Kṛṣṇa  the conclusions  in which (lake)  blossoming  of lotuses  the forest
@@ -1477,20 +1479,22 @@ w: always  there  do  enjoy
 w: will be cut off  all  sorrows  you will attain  supreme  happiness
 w: without effort  there will be  the elation of prema
 tr: Go to that lake, become swans and *cakravākas*, and sport there for ever. All your sorrows will be cut away, you will attain the highest happiness, and the elation of prema will come without effort.
+fn: *Anubhāṣya*: plunging into the lake of Caitanya’s *līlā*, serve Kṛṣṇa while sheltered at Śrī Gaura’s feet; then there will be no “sorrow” — service to anyone but Kṛṣṇa — which comes to those who, like the “Nadīyā-nāgarīs”, imagine Gaurāṅga as a worldly object of enjoyment.
 
 ## 269
 w: this  nectar  constantly  the sādhus  great souls  clouds
 w: on the garden of the world  make  showering
 w: by that  grow  nectarean fruits  the devotees  eat  constantly
 w: by their  love  live  the people of the world
-tr: The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees eat them constantly, and by their love the people of the world live.
+tr: The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees eat them constantly, and the people of the world live by their love.
 
 ## 270
 w: Caitanya’s līlā  —  a filling of nectar  Kṛṣṇa’s līlā  —  fine camphor
 w: the two  combining  become  exquisite sweetness
 w: of the sādhus and guru  by the grace  that  whoever  relishes
 w: he  knows  of sweetness  the abundance
-tr: Caitanya’s *līlā* is a filling of nectar (*amṛta-pūra*), and Kṛṣṇa’s *līlā* is fine camphor; combined, the two become an exquisite sweetness. Whoever relishes it by the grace of the sādhus and the guru knows the abundance of that sweetness.
+tr: Caitanya’s *līlā* is a filling of nectar (*amṛta-pūra*), and Kṛṣṇa’s *līlā* is fine camphor; combined, the two become an exquisite sweetness. Whoever relishes it by the grace of the sādhus and the Guru knows the abundance of that sweetness.
+fn: *Anubhāṣya*: that abundant sweetness is tasted by one who, by the grace of the sādhus and the guru, the followers of Śrī Rūpa, knows the nectar of Gaura’s *līlā* and of Kṛṣṇa’s *līlā* to be one; those who separate Gaura from Kṛṣṇa (like the “Nadīyā-nāgarīs”) are deprived of it.
 
 ## 271
 w: which  the nectar of līlā  without  eats  if  food and drink
@@ -1505,6 +1509,7 @@ w: in the heart  making  firm  faith
 w: not  fall  into the pit of false argument  into the impure  harsh  whirlpool
 w: into which  having fallen  there is  total ruin
 tr: Drink this nectar, which has no equal, with firm faith in your heart. Do not fall into the pit of false argument, into its impure and harsh whirlpool: whoever falls there meets total ruin.
+fn: *Anubhāṣya*: whoever, taking the pastimes of Kṛṣṇa and Gaura to be different, yields to this whirlpool and, abandoning the service of one, serves the other, meets total ruin.
 
 ## 273
 w: Śrī Caitanya  Nityānanda  Śrī Advaita  the devotees
@@ -1525,11 +1530,12 @@ w: of Śrīman Madana-Gopāla
 w: and Govinda-deva  for the satisfaction
 w: offered to Caitanya  may be  this
 w: Caitanya-caritāmṛta
-tr: “For the satisfaction of Śrīman Madana-Gopāla and Govinda-deva, may this *Caitanya-caritāmṛta* be offered to Śrī Caitanya.”
+tr: For the satisfaction of Śrīman Madana-Gopāla and Govinda-deva, may this *Caitanya-caritāmṛta* be offered to Śrī Caitanya.
 
 ## 276
 w: that  this  most secret  the nectar of Gaura’s līlā  which
 w: indeed  by the mass of people  not honoured  by them  unattainable
 w: loss  this  here  what  to me  relished  since  on all sides
 w: by the large-hearted  the noble-minded  joy  their  expands
-tr: “This most secret nectar of Gaura’s *līlā* is indeed not honoured by the mass of people: to them it is unattainable. What loss is that to me? Relished on all sides by the large-hearted and noble-minded, it expands their joy.”
+tr: This most secret nectar of Gaura’s *līlā* is surely not honoured by the common crowd: it lies beyond their reach. What loss is that to me? Relished on every side by the large-hearted and noble-minded, it increases their joy.
+fn: Here the edition gives the colophon: “Thus ends the twenty-fifth chapter of the Madhya-khaṇḍa of the *Śrī Caitanya-caritāmṛta*: Making the Residents of Kāśī Vaiṣṇavas, and the Return to Nīlācala”, and the words: “Thus the Madhya-līlā is completed.”
