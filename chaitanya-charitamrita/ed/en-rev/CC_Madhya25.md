@@ -322,23 +322,23 @@ for them  this  toil  only  remains
 nānyad yathā sthūla-tuṣāvaghātinām  
 nothing else  as  for those who pound empty husks
 
-(31) “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)
+(31) “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)[^4]
 
 যেঽন্যেঽরবিন্দাক্ষ বিমুক্তমানিন-  
 স্ত্বয়্যস্তভাবাদবিশুদ্ধবুদ্ধয়ঃ ৷  
 আরুহ্য কৃচ্ছ্রেণ পরং পদং ততঃ  
 পতন্ত্যধোঽনাদৃতযুষ্মদঙ্ঘ্রয়ঃ ॥ ৩২ ॥
 
-ye ‘nye ‘ravindākṣa vimukta-māninas  
+ye ’nye ’ravindākṣa vimukta-māninas  
 those who  others  O lotus-eyed Lord  who think themselves liberated  
 tvayy asta-bhāvād aviśuddha-buddhayaḥ  
 toward You  for want of love  of impure intelligence  
 āruhya kṛcchreṇa paraṁ padaṁ tataḥ  
 having risen  with hardship  to the supreme  position  from there  
-patanty adho ‘nādṛta-yuṣmad-aṅghrayaḥ  
+patanty adho ’nādṛta-yuṣmad-aṅghrayaḥ  
 fall  down  having neglected Your feet
 
-(32) “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
+(32) “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)[^5]
 
 ‘ব্রহ্ম’-শব্দে কহে ‘ষড়ৈশ্বর্য্যপূর্ণ ভগবান্’ ৷  
 তাঁরে ‘নির্ব্বিশেষ’ স্থাপি, ‘পূর্ণতা’ হয় হানি ॥ ৩৩ ॥
@@ -358,7 +358,7 @@ the śrutis  the Purāṇas  say  Kṛṣṇa’s  of the spiritual potency  the
 tāhā nāhi māni’ paṇḍita kare upahāsa  
 that  not  accepting  the scholar  makes  mockery
 
-(34) The śrutis and the Purāṇas speak of the play of Kṛṣṇa’s spiritual potency (*cic-chakti-vilāsa*). Not accepting this, the scholar mocks it.
+(34) The śrutis and the Purāṇas speak of the play of Kṛṣṇa’s spiritual potency (*cic-chakti-vilāsa*). Not accepting this, the scholar mocks it.[^6]
 
 চিদানন্দ কৃষ্ণবিগ্রহে ‘মায়িক’ করি’ মানি ৷  
 এই বড় ‘পাপ’, — সত্য চৈতন্যের বাণী ॥ ৩৫ ॥
@@ -381,7 +381,7 @@ not  than this  higher  O Supreme  which  Your  form
 pure bliss  free of difference  of unobscured radiance  
 paśyāmi viśva-sṛjam ekam aviśvam ātman  
 I see  of the universe  the creator  one  distinct from the universe  O Self  
-bhūtendriyātmakam adas ta upāśrito ‘smi  
+bhūtendriyātmakam adas ta upāśrito ’smi  
 the source of the elements and senses  that  Your  sheltered  I am
 
 (36) “O Supreme Lord, I see nothing higher than this form of Yours, which is pure bliss, free of all difference, its radiance unobscured. You are the one creator of the universe, yet You are distinct from it, O Self, and You are the source of the elements and the senses. I have taken shelter of that form of Yours.” (Śrīmad-Bhāgavatam, 3.9.3)
@@ -395,12 +395,12 @@ tad vā idaṁ bhuvana-maṅgala maṅgalāya
 that  indeed  this (form)  O good of the worlds  for the good  
 dhyāne sma no darśitaṁ ta upāsakānām  
 in meditation  indeed  to us  shown  by You  to the worshippers  
-tasmai namo bhagavate ‘nuvidhema tubhyaṁ  
+tasmai namo bhagavate ’nuvidhema tubhyaṁ  
 to Him  obeisance  to Bhagavān  we offer  to You  
-yo ‘nādṛto naraka-bhāgbhir asat-prasaṅgaiḥ  
+yo ’nādṛto naraka-bhāgbhir asat-prasaṅgaiḥ  
 who  is not honoured  by those bound for hell  attached to false arguments
 
-(37) “O good of all the worlds, this very form You have shown in meditation to us, Your worshippers, for our good. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)
+(37) “O good of all the worlds, for our good You have shown this very form to us, Your worshippers, in meditation. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)[^7]
 
 অবজানন্তি মাং মূঢ়া মানুষীং তনুমাশ্রিতম্ ৷  
 পরং ভাবমজানন্তো সর্ব্বভূতমহেশ্বরম্ ॥ ৩৮ ॥
@@ -448,7 +448,7 @@ this  indeed  imagined  meaning  to the mind  not  appeals
 śāstra chāḍi’ kukalpanā pāṣaṇḍe bujhāya  
 the scriptures  abandoning  wicked fancies  to the pāṣaṇḍīs  he explains
 
-(41) Such an imagined meaning does not appeal to the mind. Abandoning the scriptures, he explains his wicked fancies to the *pāṣaṇḍīs*.
+(41) Such an imagined meaning does not appeal to the mind. Abandoning the scriptures, he explains his wicked fancies to the *pāṣaṇḍīs*.[^8]
 
 পরমার্থ-বিচার গেল, করি মাত্র ‘বাদ’ ৷  
 কাঁহা মুক্তি পাব, কাঁহা কৃষ্ণের প্রসাদ ॥ ৪২ ॥
@@ -468,7 +468,7 @@ of the Vyāsa-sūtra  the meaning  the Ācārya  has  covered
 ei haya satya śrī-kṛṣṇa-caitanya-vacana  
 this  is  true  Śrī Kṛṣṇa Caitanya’s  word
 
-(43) The Ācārya has covered the meaning of the *Vyāsa-sūtra*. This word of Śrī Kṛṣṇa Caitanya is true.
+(43) The Ācārya has covered the meaning of the *Vyāsa-sūtra*: this, as Śrī Kṛṣṇa Caitanya says, is the truth.
 
 চৈতন্য-গোসাঞি যেই কহে, সেই মত সার ৷  
 আর যত মত, সেই সব ছারখার ॥ ৪৪ ॥
@@ -528,7 +528,7 @@ the Mīmāṁsaka  says  Īśvara  is  of karma  a limb
 ‘sāṅkhya’ kahe, — jagatera prakṛti kāraṇa  
 the Sāṅkhya  says  of the world  prakṛti  is the cause
 
-(49) The Mīmāṁsaka says that Īśvara is a limb of karma. The Sāṅkhya says that *prakṛti* is the cause of the world.
+(49) The Mīmāṁsaka says that Īśvara is a mere adjunct of karma; the Sāṅkhya says that *prakṛti* is the cause of the world.[^9]
 
 ‘ন্যায়’ কহে, — পরমাণু হৈতে বিশ্ব হয় ৷  
 ‘মায়াবাদী’ নির্ব্বিশেষ-ব্রহ্মে ‘হেতু’ কয় ॥ ৫০ ॥
@@ -568,7 +568,7 @@ of Vedānta  in the view  Brahman  with form  is defined
 ‘nirguṇa’ vyatireke tim̐ho haya ta’ ‘saguṇa’  
 nirguṇa  by negation  He  is  indeed  saguṇa
 
-(53) In the view of Vedānta, Brahman is defined as having form (*sākāra*). By negation, the word *nirguṇa* shows that He is *saguṇa*, possessed of [transcendental] qualities.
+(53) In the view of Vedānta, Brahman is defined as having form (*sākāra*), and the word *nirguṇa*, a negation, shows that He is in truth *saguṇa* — possessed of qualities.[^10]
 
 পরম কারণ ঈশ্বর কেহ নাহি মানে ৷  
 স্ব-স্ব-মত স্থাপে পরমতের খণ্ডনে ॥ ৫৪ ॥
@@ -595,7 +595,7 @@ the mahājanas  whatever  say  that  as truth  we accept
 ধর্ম্মস্য তত্ত্বং নিহিতং গুহায়াং  
 মহাজনো যেন গতঃ স পন্থাঃ ॥ ৫৬ ॥
 
-tarko 'pratiṣṭhaḥ śrutayo vibhinnā  
+tarko ’pratiṣṭhaḥ śrutayo vibhinnā  
 argument  is unsettled  the śrutis  are various  
 nāsāv ṛṣir yasya mataṁ na bhinnam  
 there is no such  sage  whose  opinion  not  differs  
@@ -604,7 +604,7 @@ of dharma  the truth  is hidden  in a cave
 mahājano yena gataḥ sa panthāḥ  
 the great soul  by which  has gone  that  is the path
 
-(56) “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in the cave of the heart; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva, 313.117)
+(56) “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in the cave of the heart; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva, 313.117)[^11]
 
 শ্রীকৃষ্ণচৈতন্য-বাণী — অমৃতের ধার ৷  
 তিঁহো যে কহয়ে বস্তু, সেই ‘তত্ত্ব’ — সার ॥ ৫৭ ॥
@@ -1491,3 +1491,19 @@ like a madman  dances  beyond the world
 [^2]: *Anubhāṣya*: leaving their study of Vedānta, the sannyāsīs gathered and spoke of the path of bhakti that Mahāprabhu had shown.
 
 [^3]: Heading of the edition: “Bhakti alone gives liberation, and even the semblance of the name (*nāmābhāsa*) gives liberation.”
+
+[^4]: The same verse as Madhya 22.22; translation as there.
+
+[^5]: The same verse as Madhya 22.30; translation as there.
+
+[^6]: *Anubhāṣya*: the *jñānī* who takes himself for a scholar, deceived by the idea that spiritual potency can have no play and that all this is a manifestation of *māyā-śakti*, mocks it.
+
+[^7]: *Anubhāṣya*: *asat-prasaṅgaiḥ* — those attached to false arguments, absorbed in speculation on the impersonal Brahman contrary to the path of the śrutis.
+
+[^8]: Heading of the edition: “Relying on *vivarta-vāda*, by imagined explanations of Vedānta and the Upaniṣads in a secondary sense, the asuras delude the unbelievers.”
+
+[^9]: *Amṛta-pravāha-bhāṣya*: the Mīmāṁsakas headed by Jaimini set aside bhakti, the chief meaning of the Vedas, and made Īśvara “a part of karma”.
+
+[^10]: *Amṛta-pravāha-bhāṣya*: the Truth is not merely *nirguṇa*, beyond the three *guṇas*; He is a form “possessed of qualities” (*saguṇa*), the abode of countless spiritual qualities.
+
+[^11]: The same verse as Madhya 17.186; translation as there.

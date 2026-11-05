@@ -165,6 +165,7 @@ w: toil  those who  for attaining mere knowledge
 w: for them  this  toil  only  remains
 w: nothing else  as  for those who pound empty husks
 tr: “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)
+fn: The same verse as Madhya 22.22; translation as there.
 
 ## 32
 w: those who  others  O lotus-eyed Lord  who think themselves liberated
@@ -172,6 +173,7 @@ w: toward You  for want of love  of impure intelligence
 w: having risen  with hardship  to the supreme  position  from there
 w: fall  down  having neglected Your feet
 tr: “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
+fn: The same verse as Madhya 22.30; translation as there.
 
 ## 33
 w: ‘Brahman’  by the word  is meant  full of the six opulences  Bhagavān
@@ -182,6 +184,7 @@ tr: The word ‘Brahman’ means Bhagavān, full of the six opulences. To establ
 w: the śrutis  the Purāṇas  say  Kṛṣṇa’s  of the spiritual potency  the play
 w: that  not  accepting  the scholar  makes  mockery
 tr: The śrutis and the Purāṇas speak of the play of Kṛṣṇa’s spiritual potency (*cic-chakti-vilāsa*). Not accepting this, the scholar mocks it.
+fn: *Anubhāṣya*: the *jñānī* who takes himself for a scholar, deceived by the idea that spiritual potency can have no play and that all this is a manifestation of *māyā-śakti*, mocks it.
 
 ## 35
 w: spiritual and blissful  Kṛṣṇa’s  form  māyic  taking  to regard
@@ -200,7 +203,8 @@ w: that  indeed  this (form)  O good of the worlds  for the good
 w: in meditation  indeed  to us  shown  by You  to the worshippers
 w: to Him  obeisance  to Bhagavān  we offer  to You
 w: who  is not honoured  by those bound for hell  attached to false arguments
-tr: “O good of all the worlds, this very form You have shown in meditation to us, Your worshippers, for our good. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)
+tr: “O good of all the worlds, for our good You have shown this very form to us, Your worshippers, in meditation. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)
+fn: *Anubhāṣya*: *asat-prasaṅgaiḥ* — those attached to false arguments, absorbed in speculation on the impersonal Brahman contrary to the path of the śrutis.
 
 ## 38
 w: disregard  Me  fools
@@ -225,6 +229,7 @@ tr: Not accepting the doctrine of transformation (*pariṇāma-vāda*) taught in
 w: this  indeed  imagined  meaning  to the mind  not  appeals
 w: the scriptures  abandoning  wicked fancies  to the pāṣaṇḍīs  he explains
 tr: Such an imagined meaning does not appeal to the mind. Abandoning the scriptures, he explains his wicked fancies to the *pāṣaṇḍīs*.
+fn: Heading of the edition: “Relying on *vivarta-vāda*, by imagined explanations of Vedānta and the Upaniṣads in a secondary sense, the asuras delude the unbelievers.”
 
 ## 42
 w: inquiry into the highest truth  is gone  we do  only  argument
@@ -234,7 +239,7 @@ tr: Inquiry into the highest truth is gone; we only argue. How shall we gain lib
 ## 43
 w: of the Vyāsa-sūtra  the meaning  the Ācārya  has  covered
 w: this  is  true  Śrī Kṛṣṇa Caitanya’s  word
-tr: The Ācārya has covered the meaning of the *Vyāsa-sūtra*. This word of Śrī Kṛṣṇa Caitanya is true.
+tr: The Ācārya has covered the meaning of the *Vyāsa-sūtra*: this, as Śrī Kṛṣṇa Caitanya says, is the truth.
 
 ## 44
 w: Caitanya Gosāñi  whatever  says  that  doctrine  is the essence
@@ -264,7 +269,8 @@ tr: When an author wants to establish his own doctrine, the natural meaning of t
 ## 49
 w: the Mīmāṁsaka  says  Īśvara  is  of karma  a limb
 w: the Sāṅkhya  says  of the world  prakṛti  is the cause
-tr: The Mīmāṁsaka says that Īśvara is a limb of karma. The Sāṅkhya says that *prakṛti* is the cause of the world.
+tr: The Mīmāṁsaka says that Īśvara is a mere adjunct of karma; the Sāṅkhya says that *prakṛti* is the cause of the world.
+fn: *Amṛta-pravāha-bhāṣya*: the Mīmāṁsakas headed by Jaimini set aside bhakti, the chief meaning of the Vedas, and made Īśvara “a part of karma”.
 
 ## 50
 w: the Nyāya  says  from atoms  the universe  arises
@@ -284,7 +290,8 @@ tr: Vyāsa overturned the six doctrines of the six schools, and with all those s
 ## 53
 w: of Vedānta  in the view  Brahman  with form  is defined
 w: nirguṇa  by negation  He  is  indeed  saguṇa
-tr: In the view of Vedānta, Brahman is defined as having form (*sākāra*). By negation, the word *nirguṇa* shows that He is *saguṇa*, possessed of [transcendental] qualities.
+tr: In the view of Vedānta, Brahman is defined as having form (*sākāra*), and the word *nirguṇa*, a negation, shows that He is in truth *saguṇa* — possessed of qualities.
+fn: *Amṛta-pravāha-bhāṣya*: the Truth is not merely *nirguṇa*, beyond the three *guṇas*; He is a form “possessed of qualities” (*saguṇa*), the abode of countless spiritual qualities.
 
 ## 54
 w: as the supreme  cause  Īśvara  no one  not  accepts
@@ -302,6 +309,7 @@ w: there is no such  sage  whose  opinion  not  differs
 w: of dharma  the truth  is hidden  in a cave
 w: the great soul  by which  has gone  that  is the path
 tr: “Argument is inconclusive, the śrutis differ from one another, and there is no sage whose opinion does not differ from the others. The truth of dharma is hidden in the cave of the heart; the path is the one by which the great souls have gone.” (Mahābhārata, Vana-parva, 313.117)
+fn: The same verse as Madhya 17.186; translation as there.
 
 ## 57
 w: Śrī Kṛṣṇa Caitanya’s  words  of nectar  a stream
