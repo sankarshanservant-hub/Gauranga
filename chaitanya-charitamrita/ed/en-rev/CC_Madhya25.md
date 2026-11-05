@@ -2443,7 +2443,7 @@ Jagannātha’s  servants  bringing  garland and prasāda  gave
 tulasī-paḍichā āsi’ caraṇa vandilā  
 Tulasī the paḍichā  coming  the feet  honoured
 
-(226) Jagannātha’s servants brought garlands and *prasāda* and gave them to Him, and Tulasī, the *paḍichā*, came and bowed at His feet.
+(226) A servant of Jagannātha brought a garland and *prasāda* and gave them to Him, and Tulasī, the *paḍichā*, came and bowed at His feet.
 
 মহাপ্রভু আইলা — গ্রামে কোলাহল হৈল ৷  
 সার্ব্বভৌম, রামানন্দ, বাণীনাথ মিলিল ॥ ২২৭ ॥
@@ -2874,7 +2874,7 @@ of Kṛṣṇa’s  play  the lotus stems  which  finding  at all times
 bhakta-haṁsa karaye āhāra  
 the devotee  swans  make  their food
 
-(267) Devotees of various *bhāvas* are the swans and *cakravāka* birds who all sport in that lake; Kṛṣṇa’s play is the lotus stems, and finding them at all times the devotee-swans feed on them.
+(267) Devotees of various *bhāvas* are the swans and *cakravāka* birds who all sport in that lake; Kṛṣṇa’s pastimes are the lotus stalks, which the devotee-swans find at all times and feed upon.
 
 সেই সরোবরে গিয়া, হংস-চক্রবাক হঞা,  
 সদা তাঁহা করহ বিলাস ৷  
@@ -2906,7 +2906,7 @@ by that  grow  nectarean fruits  the devotees  eat  constantly
 tāra preme jīye jaga-jana  
 by their  love  live  the people of the world
 
-(269) The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees eat them constantly, and the people of the world live by their love.
+(269) The sādhus and great souls, like clouds, constantly shower this nectar on the garden of the world. From it grow nectarean fruits; the devotees feast on them without cease, and the people of the world live by their love.
 
 চৈতন্যলীলা — অমৃতপূর, কৃষ্ণলীলা — সুকর্পূর,  
 দুহে মিলি’ হয় সুমাধুর্য্য ৷  
