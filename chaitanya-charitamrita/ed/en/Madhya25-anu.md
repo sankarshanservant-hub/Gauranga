@@ -316,9 +316,13 @@ See Madhya 19.150.
 
 > Subheading: Offending a great soul, that is, a Vaiṣṇava, ruins everything — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 4, verse 46)
 
+See Madhya 15.270.
+
 ## 83
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 7, Chapter 5, verse 32)
+
+See Madhya 22.53.
 
 ## 84
 
@@ -347,6 +351,90 @@ See Madhya 19.150.
 ## 95
 
 > Subheading: The resolve to expand the *Catuḥ-ślokī*, the commentary on the *Brahma-sūtra* — that is, to compose the *Bhāgavatam* —
+
+## 96
+
+> Subheading: The essence of the Vedas and Upaniṣads is extracted —
+
+## 97
+
+> Subheading: The very *śruti* mantras that are the source of the *sūtras* are set down in the *Bhāgavatam* in the form of verses —
+
+## 98
+
+> Subheading: The same meaning of the Upaniṣadic mantras is expressed in the verses of the *Bhāgavatam* —
+
+## 99
+
+> Subheading: An example. Everything is full of Viṣṇu, and there is nothing apart from Him. Giving up the notion that we are enjoyers, one should accept all objects with *yukta-vairāgya*, as related to Viṣṇu, that is, as what Viṣṇu enjoys — (*Śrīmad-Bhāgavatam*, Canto 8, Chapter 1, verse 10)
+
+Parīkṣit heard the genealogy of Svāyambhuva Manu and asked about the other Manus and the deeds of the *manvantara* avatāras. Then Śrī Śuka first relates the words of Manu.
+
+**jagatyām** (in the world) **yat kiñcit jagat** (whatever the conditioned *jīvas* enjoy — the transformation of *māyā-śakti* that gives pleasure to the senses), **idaṁ** **viśvaṁ** (all of it) **ātmāvāsyam** (is pervaded by the Ātmā, that is, by Bhagavān — by His being and consciousness; this is seen with transcendental vision, with the eyes of devotion anointed with the salve of *prema*). **tena** (therefore) **tyaktena** (by offering to Bhagavān out of the desire to serve) — or else: **tena** (by Īśvara) **tyaktena** (with whatever little wealth He has left, that is, given — as Bhagavān's remnants) — **bhuñjīthāḥ** (accept, that is, take). **kasyasvit** (of one attached to matter, thinking himself an enjoyer) **dhanam** (worldly objects of enjoyment and the like, for he sees *māyā* rather than Bhagavān) **mā gṛdhaḥ** (do not covet at all). So too the *śruti* says: *īśāvāsyam idam* — just like this verse.
+
+## 100
+
+> Subheading: In the original *Bhāgavatam*, the *Catuḥ-ślokī*, *sambandha*, *abhidheya* and *prayojana* are defined —
+
+## 101
+
+> Subheading: Before Brahmā, Śrī Kṛṣṇa briefly explains the three truths of the *Catuḥ-ślokī*. To ascertain the form of Bhagavān, the object (*viṣaya*), is “*jñāna*,” purely spiritual; the manifestation of Bhagavān in the experience of spiritual pastimes, which the one who takes shelter (*āśraya*) attains, is “*vijñāna*”; the secret, or *prema*, is the “*prayojana*”; and *sādhana-bhakti*, its limb, is the “*abhidheya*” —
+
+## 103
+
+> Subheading: Of the six verses, this one, apart from the *Catuḥ-ślokī*, describes *sambandha*, *abhidheya* and *prayojana*: *jñāna* and *vijñāna* are “*sambandha*,” the secret is the “*prayojana*,” and its limb is the “*abhidheya*” — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 9, verse 30)
+
+See Ādi 1.51.
+
+## 104
+
+> Subheading: By the descending path (*avaroha*), through the power of Bhagavān's mercy, the Truth is revealed in the heart —
+
+“These three” are *sambandha*, *abhidheya* and *prayojana*.
+
+## 105
+
+> Subheading: Bhagavān, full of name, form, qualities and pastimes, is not merely “featureless” —
+
+## 107
+
+> Subheading: Of the six verses, in this one, apart from the *Catuḥ-ślokī*, a blessing in the form of mercy is showered — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 9, verse 31)
+
+See Ādi 1.52.
+
+## 108
+
+> Subheading: The beginning of the explanation of the *Catuḥ-ślokī*. In the first verse, the *sambandha-tattva*: the mark of “*jñāna*” of Kṛṣṇa, the possessor of the *svarūpa-śakti*, denoted by the word *aham*, whose form is eternal, true and everlasting —
+
+## 111
+
+> Subheading: The first verse of the *Catuḥ-ślokī* — (*Śrīmad-Bhāgavatam*, Canto 2, Chapter 9, verse 32)
+
+See Ādi 1.53.
+
+## 112
+
+> Subheading: The purport of the verse — Kṛṣṇa's form is full of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*) —
+
+In the verse *aham eva* the word *aham* occurs three times: in the first line in the words *aham eva*, in the third in the words *paścād aham*, and in the fourth in the words *so ’smy aham*. This establishes the personal form (*vigraha*) of Bhagavān: He is not merely featureless.
+
+## 113
+
+> Subheading: The refutation of one who teaches that He is formless —
+
+The *nirviśeṣa-vādī* does not accept Bhagavān's personal form, possessed of attributes. To fix in the heart that his reasoning is full of error and must be rejected in every respect, the Lord said *aham eva* three times and so established the “*sambandha*.”
+
+## 114
+
+> Subheading: In the second verse, besides the “internal nature” (*antaraṅga-svarūpa*), the marks of the potencies of the “marginal *jīva*” and the “external *guṇa-māyā*,” and a consideration of how they are perceived. To see the nature that lies beyond the *jīva* and *guṇa-māyā*, that is, the internal potency, is independent, pure realization of the *svarūpa*, or “*vijñāna*”; to see the *jīva* or *guṇa-māyā* is not “seeing the *svarūpa*” —
+
+## 115
+
+> Subheading: The sun, its reflection (*ābhāsa*) and darkness (*tamaḥ*) — an example of different perceptions of one and the same thing —
+
+## 116
+
+> Subheading: The *sambandha-tattva* is defined through “*jñāna*” and “*vijñāna*” —
 
 ---
 

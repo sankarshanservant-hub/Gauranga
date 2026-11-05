@@ -48,6 +48,22 @@ By the touch of Śrī Kṛṣṇa's feet that serpent was freed from all inauspi
 
 “Tell it in brief”: I have already heard from You the primary meaning of each *sūtra*. Now I wish to hear in brief the principal purport (*mukhya-tātparya*) of Vedānta.
 
+## 92–95
+
+The *praṇava* is the *mahā-vākya* (great statement) of all the Vedas. The meaning contained in the *praṇava* is also in the Gāyatrī, and that same meaning is unfolded in the *Śrī Bhāgavatam* in four verses, beginning with the verse *aham evāsam evāgre*. From Bhagavān to Brahmā, from Brahmā to Nārada, from Nārada to Śrī Vyāsa — in this way, through the succession of a true *sampradāya*, all the Vedas and their purport came into the *Śrī Bhāgavatam*. The *Śrī Bhāgavatam* itself is “the commentary on the *Brahma-sūtra*.”
+
+## 97
+
+*Ṛk* means a Vedic mantra; *viṣaya-vacana* means the statement of the subject (*uddeśya*). In the *Śrīmad-Bhāgavatam* that *ṛk* is set down in the form of a verse.
+
+## 99
+
+Whatever you see in this world — all of it, that is, this whole universe — is pervaded by the Ātmā. O *jīvas*, this Ātmā is your controller and protector. Use all the things of the world as things granted by His grace, and do not seize the wealth of others. The purport is this. The mantra of the *Īśopaniṣad*, *īśāvāsyam idaṁ jagat*, is a *śruti-mantra*, that is, a *viṣaya-vacana* on which the *Brahma-sūtra* rests. In the *Śrīmad-Bhāgavatam* that *ṛk* (mantra) is set down in the form of a verse as *ātmāvāsyam idam*. In this way all the *ṛks* of all the *sūtras* are set down in the verses of the *Bhāgavatam*.
+
+## 104
+
+“You are a *jīva*”: O Brahmā, you are a “*jīva*”; without My mercy you will not be able to know the supreme secret.
+
 ---
 
 [^37-1]: The edition reads «তিনমূর্ত্তির» (“of the three forms”), apparently for «চিন্মূর্ত্তির» (“of the spiritual form”); checked against the scan.
