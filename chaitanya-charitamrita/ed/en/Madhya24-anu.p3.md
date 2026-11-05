@@ -216,6 +216,26 @@ It is not true that anyone who calls himself a brāhmaṇa, or whom ignorant peo
 
 ***Ācamana*.** “With clear water, free of smell, foam and bubbles, one should perform *ācamana*, and then attentively apply earth again. Having cleansed the feet and sprinkled them once more, one should sip water three times and wipe [the lips] twice.”
 
+## 327
+
+**Cleaning the teeth.** “Then, to purify the mouth, one should take a tooth-stick, for even after *ācamana* one is impure if one has not cleaned the teeth. Whoever comes to Me without having chewed a tooth-stick destroys by that one [lapse] all the work he has ever done.”
+
+**Bathing.** “For *vānaprasthas* and householders, bathing in the morning and at midday; for *sannyāsīs*, bathing three times a day; for *brahmacārīs*, once. And if they lack the strength, all may bathe once — even without water.”
+
+**Worship at the *sandhyā*.** The *sandhyā* is of two kinds, Vedic and Tantric. The Vedic *sandhyā*: “Meditating on Sāvitrī, who dwells in the orb of the sun, the wise should repeat her [mantra]. A brāhmaṇa should always perform the *sandhyā* worship facing east. One who neglects the obeisances of the *sandhyā* goes to ten thousand hells.” “Oṁ. The wise always see the supreme step of Viṣṇu, like an eye spread out in the sky”[^327-1] — thus one performs *ācamana*. After sprinkling, one should worship the *sandhyā*. Having repeated the *gāyatrī* ten times, [one performs] the sprinkling with water and mantras: “Oṁ. May the waters of the desert be a blessing to us, a blessing the waters of the marsh; may the waters of the sea be a blessing to us, a blessing the waters of the well. Oṁ. Like one freed from a post, like one sweating cleansed of dirt by bathing, like ghee purified by a strainer — may the waters cleanse me of sin. Oṁ. Waters, you are the source of joy; grant us strength, so that we may behold great bliss. Oṁ. Let us partake here of your most auspicious essence, like loving mothers. Oṁ. Gladly we come to you for the sake of the one to whose abode you urge us; waters, give us life.[^327-2] Oṁ. From kindled *tapas* were born order (*ṛta*) and truth (*satya*); from that was born the night, from that the surging ocean. From the surging ocean was born the year, which apportions days and nights — the ruler of all that blinks. The Creator (Dhātṛ) fashioned, as before, the sun and the moon, heaven, earth, the mid-region and the light.”[^327-3]
+
+**The Tantric *sandhyā*.** “Then, uttering the *mūla-mantra* and meditating on Kṛṣṇa's lotus feet, the expert should properly offer *tarpaṇa* three times with the words ‘*Śrī-kṛṣṇaṁ tarpayāmi*.’ After that, with the *kāma-gāyatrī*, one should offer *arghya* to Kṛṣṇa, whose form is described in the meditation and who dwells in the orb of the sun.”
+
+**Service to the guru.** “One who first worships the guru and only then Me attains perfection; otherwise [the worship] is fruitless. One who, in the guru's presence, worships another first meets a bad end, and his worship is fruitless. I, the soul of all beings, am not so pleased by sacrifice, high birth, austerity and self-control as by service to the guru.[^327-4] Service to the guru is the very highest of all *dharmas*; there is no *dharma* higher or purer than this.”
+
+***Ūrdhva-puṇḍra*.** “My devotee should always wear the *ūrdhva-puṇḍra*, which removes fear. … The body of a man without the *ūrdhva-puṇḍra* should not even be looked at: it is like a cremation ground. The *ūrdhva-puṇḍra* is enjoined for Vaiṣṇavas and brāhmaṇas. … A *puṇḍra* of clay from the nose to the hairline, very beautiful, with a space in the middle — know it to be the temple of Hari. Know that Viṣṇu dwells in the middle; therefore one does not smear the middle.” See Madhya 20.202.
+
+**Wearing the disc and other marks (*mudrās*).** “One should wear the disc on the right arm, the conch on the left and also on the right; the club on the left, and below the club the disc again. Likewise the lotus above the conch, and again the lotus on the right; the sword on the chest, and the bow with an arrow on the head. Thus a Vaiṣṇava should first of all wear [the marks of] the five weapons. The wise should apply the disc and the other marks this way with Śrī *gopī-candana* every day, and on [the day of] Śayana and the like, their heated [imprints].” “A low brāhmaṇa without the conch, the disc, the *ūrdhva-puṇḍra* and so on should be set on a donkey by the king and banished from the land.”
+
+## 328
+
+**Wearing *gopī-candana*.** “O bird, one who at the time of death has *gopī-candana* on his arms, forehead, chest and head goes to the world of the Lord where Kamalā dwells — even if he has killed a cow or a child, or killed a brāhmaṇa.” “Messengers, listen: one whose forehead is marked with *gopī-candana* you must carefully avoid from afar, like a blazing fire.”
+
 ---
 
 [^314-1]: *Śvetāśvatara Upaniṣad* 6.23.
@@ -231,3 +251,11 @@ It is not true that anyone who calls himself a brāhmaṇa, or whom ignorant peo
 [^325-2]: *Śrīmad-Bhāgavatam* 11.10.6.
 
 [^325-3]: *Bhagavad-gītā* 9.23.
+
+[^327-1]: *Ṛg-veda* 1.22.20.
+
+[^327-2]: *Ṛg-veda* 10.9.1–3.
+
+[^327-3]: *Ṛg-veda* 10.190.1–3.
+
+[^327-4]: *Śrīmad-Bhāgavatam* 10.80.34.
