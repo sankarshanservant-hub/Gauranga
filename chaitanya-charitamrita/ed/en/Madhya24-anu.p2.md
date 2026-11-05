@@ -65,3 +65,69 @@ Lord Śrī Kapiladeva explained to the surrendered Devahūti that the *nirgarbha
 ## 155
 
 > Subheading: In the company of *sādhus*, the six kinds of yogīs abandon the path of yoga and attain devotion to Kṛṣṇa —
+
+## 157
+
+> Subheading: Here are thirteen meanings —
+
+These are the thirteen: (1) the *sādhaka*, (2) the *brahmamaya*, (3) the *prāpta-brahma-laya*, (4) the *mumukṣu*, (5) the *jīvan-mukta*, (6) the *prāpta-svarūpa* — these are the six kinds of *ātmārāmas*; and (7) the *nirgrantha-muni*, (8) the *sagarbha-yogārurukṣu*, (9) the *nirgarbha-yogārurukṣu*, (10) the *sagarbha-yogārūḍha*, (11) the *nirgarbha-yogārūḍha*, (12) the *sagarbha-prāpta-siddhi*, and (13) the *nirgarbha-prāpta-siddhi*.
+
+## 159
+
+> Subheading: The explanation by (3) the meaning “mind” of the word *ātmā* within the word *ātmārāmāḥ* —
+
+## 160
+
+> Subheading: One who controls the mind attains the supreme abode —
+
+On Janaloka, at the *brahma-satra* sacrifice, Sanandana, a *brahmarṣi* and one of the four Kumāras, sang this hymn to Bhagavān, glorified by the personified Śrutis, before sages eager to hear. Later the original *ṛṣi* Śrī Nārāyaṇa recounts it to Nārada.
+
+**ṛṣi-vartmasu** (on the paths of the *ṛṣis*, the paths of the *sampradāyas*) **ye** **kūrpa-dṛśaḥ** (*kūrpa* is gravel dust; those who have it in their eyes — that is, those whose sight is covered with dust: the Śārkarākṣas, men of gross vision) **udaram** (Brahman in the *maṇipūra*, whose support is the belly) **upāsate** (meditate upon); **āruṇayaḥ** (the *ṛṣis* called Āruṇi) **parisara-paddhatim** (the *parisaras* are the *nāḍīs*, because they spread out in all directions; their *paddhati* is their path, the place where they spread) **hṛdayam** **daharam** (worship subtle Brahman, whose support is the space [of the heart]); **he ananta** **tataḥ** (from the heart) **tava** **paramam** (best, effulgent) **dhāma** (the place of realization, the *suṣumnā*) **śiraḥ** (to the head) **udagāt** (rose — that is, it rises from the *mūlādhāra*, through the heart, up to the *brahma-randhra*); **yat** (Your abode) **sametya** (having reached) **iha** **kṛtānta-mukhe** (into the jaws of Kṛtānta — Time, death — into *saṁsāra*) **na** **patanti**.[^160-1]
+
+## 161
+
+> Subheading: Sages who have controlled the mind are drawn by Kṛṣṇa's qualities and attain pure *bhakti* —
+
+## 162
+
+> Subheading: The explanation by (4) the meaning “effort” of the word *ātmā* within the word *ātmārāmāḥ* —
+
+## 163
+
+> Subheading: One must strive to attain the eternal, true Reality —
+
+Śrī Vyāsadeva had performed much austerity, compiled all the scriptures and done much else, yet he had not found satisfaction of the soul. On the bank of the river Sarasvatī he indulged in his mind in various idle arguments and grieved. Then his guru, who knew his heart, Śrī Nārada Gosvāmī, came to him. Vyāsadeva asked him why his soul found no satisfaction. Śrī Nārada spoke to him of the glory of devotion to Hari and of narrations about Hari, and he tells him to strive for devotion to Kṛṣṇa, the eternal Truth.
+
+**upari adhaḥ** (above, up to Brahmaloka; below, down to the immobile beings) **bhramatām** (a genitive in the sense of the instrumental: by *jīvas* who wander) **yat** (happiness) **na** **labhyate** (is never attained), **kovidaḥ** (one of discernment) **tasya eva** (for that very happiness) **hetoḥ** (for the sake of) **prayateta** (should strive); **gabhīra-raṁhasā** (irresistibly swift) **kālena** **duḥkha-vat** (just as unwanted sufferings come to embodied beings, so too) **tat** **sukham** (the happiness of sense pleasure) **anyataḥ** (from something else — from past *karma*) **sarvatra** (in every species of life, even without effort) **labhyate** (is attained).
+
+## 164
+
+See Madhya 20.106.
+
+## 165
+
+> Subheading: Perfection in *bhakti* comes from eager longing, or zeal, and resolve —
+
+## 166
+
+> Subheading: *Āsaṅga* is itself eager longing —
+
+**anāsaṅgaiḥ** (without attachment) **sādhanaughaiḥ** (by a multitude of practices) **su-cirāt** (for a long time) **api** (*bhakti*) **alabhyā** (cannot be obtained); **hariṇā** (by Bhagavān) **āśu** (quickly) **adeyā** (is not given — according to the words: “He sometimes grants liberation, but not *bhakti-yoga*” (*Śrīmad-Bhāgavatam* 5.6.18)) **ca** **iti** — **sā** **su-durlabhā** (*bhakti*) **dvidhā** **syāt** (that is, it is hard to attain in two ways).
+
+## 167
+
+> Subheading: Constant connection is itself eager longing —
+
+See Ādi 1.49.
+
+## 168
+
+> Subheading: The explanation by (5) the meaning “steadfastness” (*dhṛti*) of the word *ātmā* within the word *ātmārāmāḥ* —
+
+## 169
+
+> Subheading: The meanings of the words *muni* and *nirgrantha*; by the mercy of Viṣṇu and the Vaiṣṇavas both attain *bhakti* —
+
+---
+
+[^160-1]: The hymn of the personified Vedas (Śrutis), *Śrīmad-Bhāgavatam*, Canto 10, Chapter 87.
