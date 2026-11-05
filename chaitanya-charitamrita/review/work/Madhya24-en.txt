@@ -981,12 +981,12 @@ fn: The same verse as Ādi 1.49; translation as there.
 ## 168
 w: by the word ātmā  steadfastness  is meant  in steadfastness  who  delights
 w: steadfast  becoming  then  he performs  worship
-tr: The word *ātmā* also means steadfastness (*dhṛti*). One who delights in steadfastness becomes steadfast and then worships (Kṛṣṇa).
+tr: The word *ātmā* also means steadfastness (*dhṛti*). One who delights in steadfastness becomes steadfast and then worships Kṛṣṇa.
 
 ## 169
 w: by the word muni  a bird  a bumblebee  by nirgrantha  a foolish  person
 w: by Kṛṣṇa’s  mercy  by the sādhus’  mercy  of both  the worship
-tr: The word *muni* also means a bird or a bumblebee, and *nirgrantha* a foolish person. By the mercy of Kṛṣṇa and the mercy of the sādhus, both of them worship (Kṛṣṇa).
+tr: The word *muni* also means a bird or a bumblebee, and *nirgrantha* a foolish person. By the mercy of Kṛṣṇa and the mercy of the sādhus, both of them worship Kṛṣṇa.
 
 ## 170
 w: almost  indeed  O mother  sages  the birds  in forest  this
@@ -994,13 +994,14 @@ w: to see Kṛṣṇa  sung by Him  sweet  of the flute  the song
 w: having risen  who  onto the branches of the trees  with lovely shoots
 w: they hear  with eyes closed  all other sounds silenced
 tr: “O mother, the birds of this forest are almost sages: they rise onto the branches of the trees, lovely with fresh shoots, to see Kṛṣṇa, and with eyes closed and all other sounds silenced, they listen to the sweet song of the flute that flows from Him.” (Śrīmad-Bhāgavatam, 10.21.14)
+fn: *Anubhāṣya*: *amba* — “O mother”; *prāyaḥ* — “for the most part”, “almost”.
 
 ## 171
 w: these  bees  Your  glory  for all  the worlds  a holy place
 w: singing  O original Person  following Your path  serve
 w: probably  these  sages  Your  foremost (devotees)
 w: hidden  in the forest  though  not  they leave  O sinless one  their own deity
-tr: “O original Person, these bees sing Your glory, which purifies all the worlds, and serve You by following You along Your path. They must be sages, the foremost of Your devotees: though You are hidden in the forest, O sinless one, they do not leave You, the Lord of their hearts.” (Śrīmad-Bhāgavatam, 10.15.6)
+tr: (Śrī Kṛṣṇa said to Balarāma:) “O original Person, these bees sing Your glory, which purifies all the worlds, and serve You by following You along Your path. They must be sages, the foremost of Your devotees: though You are hidden in the forest, O sinless one, they do not leave You, the Lord of their hearts.” (Śrīmad-Bhāgavatam, 10.15.6)
 
 ## 172
 w: in the lake  cranes  swans  birds
@@ -1014,12 +1015,13 @@ w: Kirātas  Hūṇas  Andhras  Pulindas  Pukkaśas
 w: Ābhīras  Śuhmas  Yavanas  Khaśas and others
 w: who  others  and  sinful  of those who have taken shelter of Him  taking shelter
 w: are purified  to Him  the all-powerful  obeisance
-tr: “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and others, and other sinful people too, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)
+tr: “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and other tribes, and all other sinful people as well, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)
 
 ## 174
 w: or  by the word dhṛti  one’s own  fullness and so on  awareness  is meant
 w: by the absence of suffering  of the highest  by the attainment  completely full  one becomes
 tr: Or the word *dhṛti* means the awareness of one’s own fullness: through the absence of suffering and the attainment of the highest, one becomes completely full.
+fn: *Anubhāṣya* (on 175): “the highest” (*uttama*) is prema.
 
 ## 175
 w: dhṛti  is  of fullness  the awareness
@@ -1039,18 +1041,20 @@ w: sālokya and the rest  the fourfold
 w: do not desire  by service  fulfilled
 w: how much less  anything else  destroyed by time
 tr: “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)
+fn: The same verse as Ādi 4.208; translation as there. Reference as in the heading of the edition (p. 809). The line is printed without a number (only «॥»).
 
 ## 178
 w: in Hṛṣīkeśa  the senses
 w: whose  steadiness  have attained  indeed
 w: he  alone  steadfastness  attains
 w: in saṁsāra  where living beings are unsteady
-tr: “In this world of birth and death (*saṁsāra*), where all living beings are unsteady, he alone attains steadfastness whose senses have become steady in Hṛṣīkeśa, the Lord of the senses.”
+tr: “In this world of birth and death (*saṁsāra*), where all living beings are unsteady, he alone attains steadfastness whose senses have become steady in Hṛṣīkeśa, the Lord of the senses.” (Words of the Gosvāmipāda)
+fn: Source as in the heading of the edition (p. 809).
 
 ## 179
 w: ca  in the sense of certainty  here  api  in the sense of conjunction
 w: steadfast  becoming  worship  of birds  of fools  the multitude
-tr: Here *ca* has the sense of certainty (*avadhāraṇa*), and *api* the sense of conjunction (*samuccaya*): birds and foolish people in great numbers become steadfast and worship (Kṛṣṇa).
+tr: Here *ca* has the sense of certainty (*avadhāraṇa*), and *api* the sense of conjunction (*samuccaya*): birds and foolish people in great numbers become steadfast and worship Kṛṣṇa.
 
 ## 180
 w: by the word ātmā  intelligence  is meant  special intelligence
@@ -1073,6 +1077,7 @@ w: from Me  everything  proceeds
 w: thus  knowing  worship  Me
 w: the wise  with bhāva  endowed
 tr: “I am the source of everything; everything proceeds from Me. Knowing this, the wise, endowed with *bhāva*, worship Me.” (Bhagavad-gītā, 10.8)
+fn: *Anubhāṣya*: “of everything” — of Brahmā, Rudra and the whole manifest world; “the wise” — those who know the taste of Kṛṣṇa; “endowed with *bhāva*” — filled with prema.
 
 ## 184
 w: they  indeed  know  cross beyond  and  the divine  māyā
@@ -1092,6 +1097,7 @@ w: worshipping  with love
 w: I give  understanding  that
 w: by which  to Me  come  they
 tr: “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)
+fn: The same verse as 167 (= Ādi 1.49); translation as there.
 
 ## 187
 w: the company of saints  to Kṛṣṇa  service  the Bhāgavata  the Name

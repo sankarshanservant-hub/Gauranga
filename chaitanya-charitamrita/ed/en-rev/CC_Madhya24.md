@@ -1915,7 +1915,7 @@ by the word ātmā  steadfastness  is meant  in steadfastness  who  delights
 dhairyavanta hañā tabe karaya bhajane  
 steadfast  becoming  then  he performs  worship
 
-(168) The word *ātmā* also means steadfastness (*dhṛti*). One who delights in steadfastness becomes steadfast and then worships (Kṛṣṇa).
+(168) The word *ātmā* also means steadfastness (*dhṛti*). One who delights in steadfastness becomes steadfast and then worships Kṛṣṇa.
 
 ‘মুনি’-শব্দে — পক্ষী, ভৃঙ্গ; ‘নির্গ্রন্থে’ — মূর্খজন ৷  
 কৃষ্ণকৃপায় সাধুকৃপায় দোঁহার ভজন ॥ ১৬৯ ॥
@@ -1925,7 +1925,7 @@ by the word muni  a bird  a bumblebee  by nirgrantha  a foolish  person
 kṛṣṇa-kṛpāya sādhu-kṛpāya dom̐hāra bhajana  
 by Kṛṣṇa’s  mercy  by the sādhus’  mercy  of both  the worship
 
-(169) The word *muni* also means a bird or a bumblebee, and *nirgrantha* a foolish person. By the mercy of Kṛṣṇa and the mercy of the sādhus, both of them worship (Kṛṣṇa).
+(169) The word *muni* also means a bird or a bumblebee, and *nirgrantha* a foolish person. By the mercy of Kṛṣṇa and the mercy of the sādhus, both of them worship Kṛṣṇa.
 
 প্রায়ো বতাম্ব মুনয়ো বিহগা বনেঽস্মিন্  
 কৃষ্ণেক্ষিতং তদুদিতং কলবেণুগীতম্ ৷  
@@ -1941,7 +1941,7 @@ having risen  who  onto the branches of the trees  with lovely shoots
 śṛṇvanti mīlita-dṛśo vigatānya-vācaḥ  
 they hear  with eyes closed  all other sounds silenced
 
-(170) “O mother, the birds of this forest are almost sages: they rise onto the branches of the trees, lovely with fresh shoots, to see Kṛṣṇa, and with eyes closed and all other sounds silenced, they listen to the sweet song of the flute that flows from Him.” (Śrīmad-Bhāgavatam, 10.21.14)
+(170) “O mother, the birds of this forest are almost sages: they rise onto the branches of the trees, lovely with fresh shoots, to see Kṛṣṇa, and with eyes closed and all other sounds silenced, they listen to the sweet song of the flute that flows from Him.” (Śrīmad-Bhāgavatam, 10.21.14)[^39]
 
 এতেঽলিনস্তব যশোঽখিল-লোকতীর্থং  
 গায়ন্ত আদিপুরুষানুপথং ভজন্তে ৷  
@@ -1957,7 +1957,7 @@ probably  these  sages  Your  foremost (devotees)
 gūḍhaṁ vane ‘pi na jahaty anaghātma-daivam  
 hidden  in the forest  though  not  they leave  O sinless one  their own deity
 
-(171) “O original Person, these bees sing Your glory, which purifies all the worlds, and serve You by following You along Your path. They must be sages, the foremost of Your devotees: though You are hidden in the forest, O sinless one, they do not leave You, the Lord of their hearts.” (Śrīmad-Bhāgavatam, 10.15.6)
+(171) (Śrī Kṛṣṇa said to Balarāma:) “O original Person, these bees sing Your glory, which purifies all the worlds, and serve You by following You along Your path. They must be sages, the foremost of Your devotees: though You are hidden in the forest, O sinless one, they do not leave You, the Lord of their hearts.” (Śrīmad-Bhāgavatam, 10.15.6)
 
 সরসি সারসহংসবিহঙ্গা-  
 শ্চারুগীতহৃতচেতস এত্য ৷  
@@ -1989,7 +1989,7 @@ who  others  and  sinful  of those who have taken shelter of Him  taking shelter
 śuddhyanti tasmai prabhaviṣṇave namaḥ  
 are purified  to Him  the all-powerful  obeisance
 
-(173) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and others, and other sinful people too, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)
+(173) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and other tribes, and all other sinful people as well, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)
 
 কিম্বা ‘ধৃতি’-শব্দে নিজপূর্ণতাদি-জ্ঞান কয় ৷  
 দুঃখাভাবে উত্তমপ্রাপ্ত্যে মহাপূর্ণ হয় ॥ ১৭৪ ॥
@@ -1999,7 +1999,7 @@ or  by the word dhṛti  one’s own  fullness and so on  awareness  is meant
 duḥkhābhāve uttama-prāptye mahā-pūrṇa haya  
 by the absence of suffering  of the highest  by the attainment  completely full  one becomes
 
-(174) Or the word *dhṛti* means the awareness of one’s own fullness: through the absence of suffering and the attainment of the highest, one becomes completely full.
+(174) Or the word *dhṛti* means the awareness of one’s own fullness: through the absence of suffering and the attainment of the highest, one becomes completely full.[^40]
 
 ধৃতিঃ স্যাৎ পূর্ণতা-জ্ঞানং দুঃখাভাবোত্তমাপ্তিভিঃ ৷  
 অপ্রাপ্তাতীতনষ্টার্থানভিসংশোচনাদিকৃৎ ॥ ১৭৫ ॥
@@ -2037,7 +2037,7 @@ do not desire  by service  fulfilled
 kuto ‘nyat kāla-viplutam  
 how much less  anything else  destroyed by time
 
-(177) “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)
+(177) “Fulfilled by serving Me, My devotees do not desire even the four kinds of liberation — *sālokya*, *sārūpya*, *sāmīpya* and *sārṣṭi* — that such service brings them of itself. How then would they seek worldly pleasures, or merging in Brahman? For all that is swept away by time.” (Śrīmad-Bhāgavatam, 9.4.67)[^41]
 
 হৃষীকেশে হৃষীকাণি যস্য স্থৈর্য্যগতানি হি ৷  
 স এব ধৈর্য্যমাপ্নোতি সংসারে জীবচঞ্চলে ॥ ১৭৮ ॥
@@ -2051,17 +2051,17 @@ he  alone  steadfastness  attains
 saṁsāre jīva-cañcale  
 in saṁsāra  where living beings are unsteady
 
-(178) “In this world of birth and death (*saṁsāra*), where all living beings are unsteady, he alone attains steadfastness whose senses have become steady in Hṛṣīkeśa, the Lord of the senses.”
+(178) “In this world of birth and death (*saṁsāra*), where all living beings are unsteady, he alone attains steadfastness whose senses have become steady in Hṛṣīkeśa, the Lord of the senses.” (Words of the Gosvāmipāda)[^42]
 
-’চ’ — অবধারণে, ইহা ‘অপি’ — সমুচ্চয়ে ৷  
+‘চ’ — অবধারণে, ইহা ‘অপি’ — সমুচ্চয়ে ৷  
 ধৃতিমন্ত হঞা ভজে পক্ষী-মূর্খ-চয়ে ॥ ১৭৯ ॥
 
-’ca’ — avadhāraṇe, ihā ‘api’ — samuccaye  
+‘ca’ — avadhāraṇe, ihā ‘api’ — samuccaye  
 ca  in the sense of certainty  here  api  in the sense of conjunction  
 dhṛtimanta hañā bhaje pakṣī-mūrkha-caye  
 steadfast  becoming  worship  of birds  of fools  the multitude
 
-(179) Here *ca* has the sense of certainty (*avadhāraṇa*), and *api* the sense of conjunction (*samuccaya*): birds and foolish people in great numbers become steadfast and worship (Kṛṣṇa).
+(179) Here *ca* has the sense of certainty (*avadhāraṇa*), and *api* the sense of conjunction (*samuccaya*): birds and foolish people in great numbers become steadfast and worship Kṛṣṇa.
 
 ‘আত্মা’-শব্দে ‘বুদ্ধি’ কহে বুদ্ধিবিশেষ ৷  
 সামান্যবুদ্ধিযুক্ত যত জীব অশেষ ॥ ১৮০ ॥
@@ -2105,7 +2105,7 @@ thus  knowing  worship  Me
 budhā bhāva-samanvitāḥ  
 the wise  with bhāva  endowed
 
-(183) “I am the source of everything; everything proceeds from Me. Knowing this, the wise, endowed with *bhāva*, worship Me.” (Bhagavad-gītā, 10.8)
+(183) “I am the source of everything; everything proceeds from Me. Knowing this, the wise, endowed with *bhāva*, worship Me.” (Bhagavad-gītā, 10.8)[^43]
 
 তে বৈ বিদন্ত্যতিতরন্তি চ দেবমায়াং  
 স্ত্রীশূদ্রহূনশবরা অপি পাপজীবাঃ ৷  
@@ -2145,7 +2145,7 @@ I give  understanding  that
 yena mām upayānti te  
 by which  to Me  come  they
 
-(186) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)
+(186) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)[^44]
 
 সৎসঙ্গ, কৃষ্ণসেবা, ভাগবত, নাম ৷  
 ব্রজে বাস, — এই পঞ্চসাধন প্রধান ॥ ১৮৭ ॥
@@ -2764,3 +2764,15 @@ the hunter  said  what  you say  that  indeed  certain
 [^37]: The same verse as Madhya 20.106; translation as there. In the edition (p. 807) the two lines of the verse are printed in reverse order (“সদ্ধর্ম্মস্যাববোধায়…” first; in Madhya 20.106 and in the *Bhakti-rasāmṛta-sindhu* it is the second line); the Bengali, transliteration and word-for-word follow the edition. Reference as in the heading of the edition: second *laharī*, 103 (in Madhya 20.106 the heading there gives 47).
 
 [^38]: The same verse as Ādi 1.49; translation as there.
+
+[^39]: *Anubhāṣya*: *amba* — “O mother”; *prāyaḥ* — “for the most part”, “almost”.
+
+[^40]: *Anubhāṣya* (on 175): “the highest” (*uttama*) is prema.
+
+[^41]: The same verse as Ādi 4.208; translation as there. Reference as in the heading of the edition (p. 809). The line is printed without a number (only «॥»).
+
+[^42]: Source as in the heading of the edition (p. 809).
+
+[^43]: *Anubhāṣya*: “of everything” — of Brahmā, Rudra and the whole manifest world; “the wise” — those who know the taste of Kṛṣṇa; “endowed with *bhāva*” — filled with prema.
+
+[^44]: The same verse as 167 (= Ādi 1.49); translation as there.
