@@ -10,7 +10,7 @@
 
 ## 11
 
-The word *ātmā* means the body, the mind, Brahman, one's nature (*svabhāva*), steadiness (*dhṛti*), intelligence (*buddhi*) and endeavor (*yatna*).
+The word *ātmā* means the body, the mind, Brahman, one's nature (*svabhāva*), steadfastness (*dhṛti*), intelligence (*buddhi*) and effort (*yatna*).
 
 ## 18
 
@@ -66,11 +66,11 @@ The four kinds of suffering are the sufferings of the four kinds of sin: (1) *p�
 
 ## 63
 
-The word *ca* is used in the senses of *anvācaya* (that is, adding something secondary), *samāhāra* (combining into a whole), *anyonya* (mutuality), *samuccaya* (enumeration), *yatnāntara* (another effort), *pāda-pūraṇa* (filling out the metrical line) and *avadhāraṇa*, that is, certainty.
+The word *ca* is used in the senses of *anvācaya* (that is, adding something secondary), *samāhāra* (combining into a whole), *anyonya* (mutuality), *samuccaya* (conjunction), *yatnāntara* (another effort), *pāda-pūraṇa* (filling out the metrical line) and *avadhāraṇa*, that is, certainty.
 
 ## 64
 
-The word *api* is used in the senses of *sambhāvanā* (possibility), *praśna* (question), *śaṅkā* (doubt), *garhā* (censure), *samuccaya* (enumeration), *yukta-padārtha* (fitting application) and *kāmacāra-kriyā* (acting at will).
+The word *api* is used in the senses of *sambhāvanā* (possibility), *praśna* (question), *śaṅkā* (doubt), *garhā* (censure), *samuccaya* (conjunction), *yukta-padārtha* (fitting application) and *kāmacāra-kriyā* (acting at will).
 
 ## 67
 
@@ -106,7 +106,7 @@ The desireless (*akāma*), the one full of desires (*sarvakāma*) and the one wh
 
 ## 102–106
 
-Those who worship on the path of knowledge are of two kinds: *kevala-brahmopāsakas* (who worship Brahman alone) and *mokṣākāṅkṣīs* (who aspire to liberation). One who worships Brahman with the desire for *kaivalya* is a *kevala-brahmopāsaka*. They have three stages: the *sādhaka*, the (eternally perfect) *brahmamaya*, and one who has attained merging in Brahman (that is, the *brahma-bhūta*). Without *bhakti*, knowledge cannot give liberation. Only one who has attained merging in Brahman (that is, has become *brahma-bhūta*) can practice *bhakti*. When the practice of *bhakti* appears, the nature of *bhakti* appears too. By this nature of hers, *bhakti* gradually draws him away from Brahman, gives him a divine body and engages him in the worship of Kṛṣṇa. Having received the body of his choice in which he serves the Lord, the devotee remembers all of Kṛṣṇa's qualities and, attracted by them, worships Him with pure worship.
+Those who worship on the path of knowledge are of two kinds: *kevala-brahmopāsakas* (who worship Brahman alone) and *mokṣākāṅkṣīs* (who aspire to liberation). One who worships Brahman with the desire for *kaivalya* is a *kevala-brahmopāsaka*. They have three stages: the *sādhaka* (beginner), the (eternally perfect) *brahmamaya* (absorbed in Brahman), and the *prāpta-brahma-laya* (merged in Brahman, that is, the *brahma-bhūta*). Without *bhakti*, knowledge cannot give liberation. Only one who has attained merging in Brahman (that is, has become *brahma-bhūta*) can practice *bhakti*. When the practice of *bhakti* appears, the nature of *bhakti* appears too. By this nature of hers, *bhakti* gradually draws him away from Brahman, gives him a divine body and engages him in the worship of Kṛṣṇa. Having received the body of his choice in which he serves the Lord, the devotee remembers all of Kṛṣṇa's qualities and, attracted by them, worships Him with pure worship.
 
 ## 107
 
@@ -126,7 +126,7 @@ The *mumukṣus* give up the lords of the *bhūtas*, whose forms are terrible, y
 
 ## 119
 
-Having shown that the four Sanas and Śukadeva abided in Brahman (*brahmamaya*) and that the nine Yogendras were *sādhakas*, the Lord considers the three kinds of *jñānīs* who aspire to liberation: the *mumukṣu*, the *jīvan-mukta* and the one who has attained his *svarūpa* (*prāpta-svarūpa*). First He speaks of the *mumukṣus*: in the company of sādhus Bhagavān's qualities manifest in them, and so these *mumukṣus* give up the desire for liberation and worship Kṛṣṇa.
+Having shown that the four Sanas and Śukadeva were absorbed in Brahman (*brahmamaya*) and that the nine Yogendras were *sādhakas*, the Lord considers the three kinds of *jñānīs* who aspire to liberation: the *mumukṣu* (seeker of liberation), the *jīvan-mukta* (liberated while living) and the *prāpta-svarūpa* (one who has attained his true nature). First He speaks of the *mumukṣus*: in the company of sādhus Bhagavān's qualities manifest in them, and so these *mumukṣus* give up the desire for liberation and worship Kṛṣṇa.
 
 ## 120
 

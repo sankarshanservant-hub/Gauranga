@@ -456,7 +456,7 @@ See Madhya 22.40.
 
 ## 108
 
-> Subheading: Even Śuka and the four Sanas, who abide in Brahman (*brahmamaya*), are attracted by Kṛṣṇa and devote themselves to His worship —
+> Subheading: Even Śuka and the four Sanas, who are absorbed in Brahman (*brahmamaya*), are attracted by Kṛṣṇa and devote themselves to His worship —
 
 ## 109
 
