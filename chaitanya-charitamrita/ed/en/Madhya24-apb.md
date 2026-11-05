@@ -162,7 +162,7 @@ Some yogīs, by fixed concentration (*dhāraṇā*), remember the Puruṣa who d
 
 ## 151
 
-Having thus attained *bhāva* for Bhagavān Hari, the yogī feels his heart melt with devotion, and the hairs of his body stand on end with bliss. Again and again streams of tears of bliss, born of longing, overwhelm him — he is drowning in bliss. Then, little by little, he draws his meditating mind away from holding the object of meditation, as one draws out a hook (*baḍiśa*) used to catch fish. This is an example of the *nirgarbha* yogī.
+Having thus attained *bhāva* for Bhagavān Hari, the yogī feels his heart melt with devotion, and the hairs of his body stand on end with bliss. Again and again streams of tears of bliss, born of longing, overwhelm him — he is drowning in bliss. Then, little by little, he draws his meditating mind away from holding the object of meditation, as one draws out a hook (*baḍiśa*) used to catch fish. This is an example of the *nirgarbha* yogī.[^151-1]
 
 ## 153–154
 
@@ -174,7 +174,7 @@ One who wishes to ascend to the stage of yoga is an “*ārurukṣu*.” For suc
 
 ## 160
 
-On the path followed by the *sampradāyas* of the *ṛṣis*, some, in *karma-yoga*, worship the “*udara*,” that is, Brahman situated in the *maṇipūra*: these are the Śārkarākṣa *ṛṣis*, “*kūrpa-dṛk*,” that is, of gross vision. The Āruṇi *ṛṣis*, also followers of a *sampradāya* of *ṛṣis*, worship subtle Brahman in the “*dahara*,” that is, in the space of the heart, where the *nāḍīs* spread out. O Ananta! Higher than this is the path that leads to the head: beginning from the *mūlādhāra*, it passes through the heart and rises to the head, up to the *brahma-randhra*. This is the *suṣumnā* — the place where You are realized, the thousand-petalled lotus, the supreme, effulgent abode. Having risen there, yogīs no longer fall into *saṁsāra*, into the jaws of death.
+On the path followed by the *sampradāyas* of the *ṛṣis*, some, in *karma-yoga*, worship the “*udara*,” that is, Brahman situated in the *maṇipūra*: these are the Śārkarākṣa *ṛṣis*, “*kūrpa-dṛk*,” that is, of gross vision. The Āruṇi *ṛṣis*, also followers of a *sampradāya* of *ṛṣis*, worship subtle Brahman in the “*dahara*,” that is, in the space of the heart, where the *nāḍīs* spread out. O Ananta! Higher than this is the path that leads to the head: beginning from the *mūlādhāra*, it passes through the heart and rises to the head, up to the *brahma-randhra*. This is the *suṣumnā* — the place where You are realized, the thousand-petalled lotus, the supreme, effulgent abode. Having risen there, yogīs no longer fall into *saṁsāra*, into the jaws of death.[^160-1]
 
 ## 163
 
@@ -309,5 +309,9 @@ As soon as He saw that Sanātana had come, Gaurasundara, golden like a *campaka*
 [^107-1]: The verse translation reads differently: “even after attaining liberation from *māyā*, holy souls are attracted by Kṛṣṇa's deeds and begin to worship His Deity.” For the commentator, *vigraha* is the form the liberated assume in *līlā* in order to serve the Lord.
 
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.
+
+[^151-1]: The verse translation reads differently: “However, there are unfortunate yogīs who were attracted by the qualities of God, but He did not fully reveal Himself to them in return, since their hearts still cherished worldly desires… but their hearts, like an iron hook, gradually turned away from the Lord.”
+
+[^160-1]: The verse translation reads differently: “Those who wish to leave the bodily conception of life and follow the path indicated by the great sages begin to worship the Supreme Brahman in their belly.”
 
 [^281-285-1]: Our verse translation of 283 reads differently: that by following the path of rules anyone can attain the position of Kṛṣṇa's eternally perfect associate; for Bhaktivinoda the eternally perfect *pārṣadas* are a separate class alongside the *sādhana-siddhas* and the *sādhakas*.

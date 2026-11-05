@@ -1052,7 +1052,7 @@ See Madhya 22.142.
 
 > Subheading: Besides the 26 kinds of meaning, meanings broadly of two kinds and, in finer detail, of 32 kinds —
 
-“*Sthūle dui*”[^278-1]: broadly, that is, in general, of two kinds: (1) *vaidha-bhaktas* and (2) *rāga-bhaktas*.
+“*Sthūle dui*”[^278-1] — broadly, that is, in general, of two kinds: (1) *vaidha-bhaktas* and (2) *rāga-bhaktas*.
 
 “*Sūkṣme batriśa prakāra*”: if one counts the distinctions finely, in full detail, there are thirty-two kinds of meaning. The *vaidha-bhaktas* are of sixteen kinds, namely: (1) the *pārṣada* servant (*dāsa*), (2) the *pārṣada* friend (*sakhā*), (3) the *pārṣada* elder — a father and the like (*guru*), (4) the *pārṣada* beloved (*kāntā*), (5) the *sādhana-siddha* servant, (6) the *sādhana-siddha* friend, (7) the *sādhana-siddha* elder — a father and the like, (8) the *sādhana-siddha* beloved, (9) the *jāta-rati sādhaka* servant, (10) the *jāta-rati sādhaka* friend, (11) the *jāta-rati sādhaka* elder — a father and the like, (12) the *jāta-rati sādhaka* beloved, (13) the *ajāta-rati sādhaka* servant, (14) the *ajāta-rati sādhaka* friend, (15) the *ajāta-rati sādhaka* elder — a father and the like, (16) the *ajāta-rati sādhaka* beloved. The *rāga-bhaktas* are likewise of these sixteen kinds. In all there are thirty-two kinds of *ātmārāma* devotees.
 
