@@ -110,7 +110,7 @@ The more we hear of the exploits of Kṛṣṇa, Uttamaśloka, the more our thir
 
 ## 186
 
-*Karoyāra pāni*: a *karoyā* is the vessel in which Muslims keep water. From such a *karoyā*, water touched by Muslims was put into Subuddhi Rāya's mouth[^186-1].
+*Karoyāra pāni*: a *karoyā* is the vessel in which Muslims keep water. From such a *karoyā*, water touched by Muslims was put into Subuddhi Rāya's mouth.
 
 ## 187
 
@@ -122,7 +122,7 @@ Subuddhi Rāya met Mahāprabhu when the Lord came to Vārāṇasī before going 
 
 ## 202
 
-“Hearing of this”: in Mathurā Rūpa Gosvāmī heard that earlier Mahāprabhu had gone to Mathurā by the road along the Gaṅgā; now, eager to see that road, he came the same way with Anupama[^202-1].
+“Hearing of this”: in Mathurā Rūpa Gosvāmī heard that earlier Mahāprabhu had gone to Mathurā by the road along the Gaṅgā; now, eager to see that road, he came the same way with Anupama.
 
 ## 206
 
@@ -134,7 +134,7 @@ People are nourished by food and drink. The devotees, though they too take food 
 
 ## 275
 
-May this *Caitanya-caritāmṛta* be offered to Kṛṣṇa Caitanya for the pleasure of Śrī Madana-Gopāla and Śrī Govinda-deva[^275-1].
+May this *Caitanya-caritāmṛta* be offered to Kṛṣṇa Caitanya for the pleasure of Śrī Madana-Gopāla and Śrī Govinda-deva.
 
 ## 276
 
@@ -146,8 +146,3 @@ This most confidential nectar of Gaura's pastimes is the treasure of a devotee's
 
 [^37-1]: The edition reads «তিনমূর্ত্তির» (“of the three forms”), apparently for «চিন্মূর্ত্তির» (“of the spiritual form”); checked against the scan.
 
-[^186-1]: The verse translation reads differently: the Muslim water is sprinkled on Subuddhi Rāya's head.
-
-[^202-1]: The verse translation reads differently: Śrī Rūpa and Anupama took the road along the Gaṅgā because they heard that Mahāprabhu had gone to Prayāga that way.
-
-[^275-1]: The verse translation reads differently: the author prays to Govindadeva and Madana-Gopāla that the book be offered into the lotus hands of Śrī Kṛṣṇa Caitanya Mahāprabhu.
