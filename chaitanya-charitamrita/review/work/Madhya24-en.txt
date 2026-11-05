@@ -127,7 +127,7 @@ fn: *Anubhāṣya*: Brahmā tells Nārada of the *līlā-avatāras* of Viṣṇu
 ## 22
 w: in His all-pervading form  He pervades  by His potency  sustaining  nourishing
 w: by the potency of sweetness  Goloka  by majesty  Paravyoma
-tr: In His all-pervading form He pervades everything, and by His potency He sustains and nourishes it. By His potency of sweetness (*mādhurya-śakti*) He sustains Goloka, and by His majesty (*aiśvarya*) the spiritual sky, Paravyoma.
+tr: In His all-pervading form He fills everything, and by His potency He sustains and nourishes it. By His potency of sweetness (*mādhurya-śakti*) He upholds Goloka, and by His majesty (*aiśvarya*) the spiritual sky, Paravyoma.
 
 ## 23
 w: by the potency of māyā  the universes and so on  orderly  creation
@@ -172,7 +172,7 @@ tr: The word *bhakti* has ten meanings: one is *sādhana-bhakti*, and *prema-bha
 ## 31
 w: rati  marked by  prema  marked by  and so on  is proclaimed
 w: in the form of bhāva  of mahābhāva  by the marks  in the form of  and
-tr: It is proclaimed as marked by *rati*, marked by prema and so on, as having the form of *bhāva*, and as marked by *mahābhāva*.
+tr: It is spoken of as bhakti marked by *rati*, by prema and so on, and as bhakti in the form of *bhāva* and of *mahābhāva*.
 
 ## 32
 w: of the śānta devotee  rati  increases  prema  up to
@@ -187,7 +187,7 @@ tr: The *rati* of His friends reaches up to *anurāga*, and the affection of His
 ## 34
 w: of the beloveds  rati  reaches  mahābhāva  the limit
 w: by the word bhakti  I have told  of this  meaning  the glory
-tr: The *rati* of His beloveds reaches the limit of *mahābhāva*. Thus I have told the glory of the meaning of the word *bhakti*.
+tr: The *rati* of His beloveds reaches the limit of *mahābhāva*. Thus I have described the glorious meaning of the word *bhakti*.
 
 ## 35
 w: of the word ittham-bhūta-guṇaḥ  hear  the explanation
@@ -240,7 +240,7 @@ tr: He has extraordinary qualities — His form, His rasa, His fragrance and oth
 ## 44
 w: of Sanaka and the others  the mind  He stole  by fragrance and other  qualities
 w: of Śukadeva  the mind  He stole  by the hearing of His pastimes
-tr: He stole the minds of Sanaka and the other Kumāras by His fragrance and other qualities, and He stole Śukadeva’s mind through the hearing of His pastimes.
+tr: He stole the minds of Sanaka and the other Kumāras by His fragrance and other qualities, and He stole Śukadeva’s mind through hearing of His pastimes.
 
 ## 45
 w: of Him  the lotus-eyed  of the lotus feet
@@ -346,7 +346,7 @@ tr: The two words *ca* and *api* are indeclinables (*avyaya*): whatever meaning 
 ## 62
 w: still  of the word ca  they give  chief  meanings  seven
 w: of the word api  chief  meanings  seven  well known
-tr: Still, seven chief meanings of *ca* are given, and the word *api* has seven well-known chief meanings.
+tr: Still, *ca* is given seven chief meanings, and *api* has seven well-known ones.
 
 ## 63
 w: ca  in the sense of adding a secondary item  of combining into a whole
@@ -708,7 +708,7 @@ fn: *Anubhāṣya*: the time was lost *ātmārāmatayā*, through attachment to 
 ## 124
 w: those liberated while living  many  of them  two  kinds  I know
 w: by devotion  liberated while living  by knowledge  liberated while living  I hold
-tr: There are many who are liberated while living (*jīvan-mukta*), and I know them to be of two kinds: those liberated while living through devotion and those liberated while living through knowledge.
+tr: There are many who are liberated while living (*jīvan-mukta*), and I know them to be of two kinds: those liberated through devotion and those liberated through knowledge.
 
 ## 125
 w: by devotion  liberated while living  attracted by the qualities  becoming  worships
@@ -750,7 +750,7 @@ w: nirodha  of it  following  lying down to rest
 w: of the self  together  with its potencies
 w: liberation  having given up  the other form
 w: in one’s own true nature  being established
-tr: “*Nirodha* is when the self, together with its potencies, lies down to rest after the Lord enters His mystic slumber (*yoga-nidrā*). *Mukti* is to give up the alien form and abide in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)
+tr: “*Nirodha* is the self’s lying down to rest with all its potencies, after the Lord enters His mystic slumber (*yoga-nidrā*). *Mukti* is giving up the alien form and abiding in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)
 fn: *Anubhāṣya*: *nirodha* and *mukti* are two of the ten characteristics of a *mahā-purāṇa*; the “potencies” are the *jīva*’s *upādhis*; the “other form” is the notion, imposed by ignorance (*avidyā*), that one is the doer; *svarūpa* is the pure nature of the *jīva*, who serves Bhagavān.
 
 ## 131
@@ -855,7 +855,7 @@ tr: The word *ca* that then remains expresses conjunction (*samuccaya*): “the 
 ## 147
 w: of nirgranthā api  this  api  in the sense of possibility
 w: these  seven  meanings  first  I have given  in explanation
-tr: In “*nirgranthā api*,” this *api* has the sense of possibility (*sambhāvanā*). These are the seven meanings that I have explained first.
+tr: In “*nirgranthā api*,” this *api* has the sense of possibility (*sambhāvanā*). These are the first seven meanings I have explained.
 
 ## 148
 w: the worshipper of the Antaryāmī  ātmārāma  is called
@@ -1034,7 +1034,7 @@ tr: “*Dhṛti* is the awareness of fullness that comes from the absence of suf
 ## 176
 w: of Kṛṣṇa  the devotee  free from suffering  free from other desires
 w: to Kṛṣṇa  in love  in service  in full bliss  versed
-tr: A devotee of Kṛṣṇa is free from suffering and free from other desires; he is versed in the full bliss of loving service to Kṛṣṇa.
+tr: A devotee of Kṛṣṇa is free from suffering and free from other desires; he knows the full bliss of loving service to Kṛṣṇa.
 
 ## 177
 w: by My service  attained  they
@@ -1090,7 +1090,7 @@ tr: “Women, *śūdras*, Hūṇas, Śabaras and other sinful beings — even an
 ## 185
 w: having reflected  when  one worships  Kṛṣṇa’s  feet
 w: that  intelligence  He gives  to him  by which  Kṛṣṇa  he attains
-tr: When, after careful reflection, one worships Kṛṣṇa’s feet, Kṛṣṇa gives him the intelligence by which he attains Him.
+tr: When, after careful reflection, one worships Kṛṣṇa’s feet, the Lord gives him the intelligence by which he attains Him.
 
 ## 186
 w: to them  ever  longing (for Me)
@@ -1208,7 +1208,7 @@ fn: The same verse as 173; translation as there.
 ## 204
 w: before  thirteen  meanings  I gave  and  six  these
 w: nineteen  meanings  there are  combined  these  two
-tr: Earlier I gave thirteen meanings, and now these six: together they make nineteen meanings.
+tr: Earlier I gave thirteen meanings, and now these six: together they make nineteen.
 fn: *Anubhāṣya*: the six new ones are those who delight in the mind (159), in effort (162) and in steadfastness (168), the learned *muni* and the foolish *nirgrantha* who delight in intelligence (181), and the *ātmārāma* endowed with the nature of Kṛṣṇa’s servant (195).
 
 ## 205
@@ -1422,9 +1422,9 @@ w: to creatures  pain  you are giving  yours  will be  such  plight
 tr: Nārada said, “A half-killed creature suffers pain. You are giving pain to living beings, and the same plight will be yours.
 
 ## 244
-w: hunter  you  creatures  you kill  small  offense  your
+w: hunter  you  creatures  you kill  small  offence  your
 w: torment  giving  you kill  this  sin  boundless
-tr: “You are a hunter and you kill animals; that is a small offense. But to torment them as you kill them is a sin without measure.
+tr: “You are a hunter and you kill animals; that is a small offence. But to torment them as you kill them is a sin without measure.
 
 ## 245
 w: tormenting  you  as many  you killed  creatures
@@ -1595,7 +1595,7 @@ tr: Thus I have told you the story of the hunter. Whoever hears it comes to know
 ## 277
 w: these  further  three  meanings  in the count  were obtained
 w: these  two  meanings  combining  twenty-six  meanings  became
-tr: These three further meanings are added to the count, and the two sets of meanings together come to twenty-six.
+tr: Here are three more meanings; together with the earlier ones they make twenty-six.
 
 ## 278
 w: another  meaning  hear  which  of meanings  a storehouse
@@ -1604,8 +1604,8 @@ tr: Hear another meaning — a storehouse of meanings: broadly it is twofold, an
 
 ## 279
 w: ātmā  by the word  is meant  of all kinds  Bhagavān
-w: one  Svayaṁ Bhagavān  others  Bhagavān  so named
-tr: The word *ātmā* means Bhagavān in all His forms: one is Svayaṁ Bhagavān, the Lord Himself, and the others are called Bhagavān.
+w: one  Svayam Bhagavān  others  Bhagavān  so named
+tr: The word *ātmā* means Bhagavān in all His forms: one is Svayam Bhagavān, the Lord Himself, and the others are called Bhagavān.
 
 ## 280
 w: in Him  delight  who  all they  ātmārāmas
@@ -1635,7 +1635,7 @@ tr: Those perfected by practice are servants, friends, elders and beloveds; and 
 ## 285
 w: with unawakened rati  practitioner-devotees  these  four  kinds
 w: on the path of vidhi  among devotees  sixteen  kinds  known
-tr: The practitioners in whom *rati* has not yet awakened are of these four kinds as well. Thus on the path of *vidhi* the devotees are known in sixteen kinds.
+tr: The practitioners in whom *rati* has not yet awakened are of these four kinds as well. Thus on the path of *vidhi* there are sixteen kinds of devotees.
 
 ## 286
 w: on the path of rāga  likewise  among devotees  sixteen  kinds
@@ -1842,7 +1842,7 @@ tr: The Lord said, “Whatever you resolve to do, Kṛṣṇa will reveal it to 
 ## 324
 w: still  these  of the sūtras  hear  an outline
 w: with reasons  writing  first  of the guru  taking shelter
-tr: “Still, hear an outline of these *sūtras*. First describe, with its reasons, taking shelter of a guru.
+tr: “Still, hear an outline of these *sūtras*. First describe, with its reasons, taking shelter of a guru;
 
 ## 325
 w: guru  marks  disciple  marks  of both  testing
@@ -1875,9 +1875,9 @@ w: Kṛṣṇa’s  holy places  pilgrimage  Kṛṣṇa’s  Deity  beholding
 tr: “the marks of the Deity and of the *śālagrāma*; pilgrimage to Kṛṣṇa’s holy places; beholding Kṛṣṇa’s Deity form;
 
 ## 331
-w: the name  glory  offenses against the name  far  avoiding
-w: Vaiṣṇava  marks  offenses in service  dispelling
-tr: “the glory of the name and keeping far from offenses against the name; the marks of a Vaiṣṇava; overcoming offenses in service;
+w: the name  glory  offences against the name  far  avoiding
+w: Vaiṣṇava  marks  offences in service  dispelling
+tr: “the glory of the name and keeping far from offences against the name; the marks of a Vaiṣṇava; overcoming offences in service;
 
 ## 332
 w: conch  water  fragrance  flowers  incense and the rest  characteristics
@@ -1932,7 +1932,7 @@ tr: Thus I have told of the Lord’s mercy to Sanātana. Hearing of it dispels t
 ## 342
 w: own  in the book  Karṇapūra  at length  making
 w: to Sanātana  of the Lord  mercy  has kept  writing
-tr: Karṇapūra has described at length in his own book the Lord’s mercy to Sanātana and set it down in writing:
+tr: In his own book Karṇapūra has described at length the Lord’s mercy to Sanātana and preserved it in writing:
 
 ## 343
 w: of the king of Gauḍa  of the court  ornament  the jewel  having left  who  abundant  wealth

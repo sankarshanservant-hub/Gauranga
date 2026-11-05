@@ -239,7 +239,7 @@ in His all-pervading form  He pervades  by His potency  sustaining  nourishing
 mādhurya-śaktye goloka, aiśvarye paravyoma  
 by the potency of sweetness  Goloka  by majesty  Paravyoma
 
-(22) In His all-pervading form He pervades everything, and by His potency He sustains and nourishes it. By His potency of sweetness (*mādhurya-śakti*) He sustains Goloka, and by His majesty (*aiśvarya*) the spiritual sky, Paravyoma.
+(22) In His all-pervading form He fills everything, and by His potency He sustains and nourishes it. By His potency of sweetness (*mādhurya-śakti*) He upholds Goloka, and by His majesty (*aiśvarya*) the spiritual sky, Paravyoma.
 
 মায়া-শক্ত্যে ব্রহ্মাণ্ডাদি পরিপাটী-সৃজন ৷  
 ‘উরুক্রম’-শব্দের এই অর্থ নিরূপণ ॥ ২৩ ॥
@@ -327,7 +327,7 @@ rati  marked by  prema  marked by  and so on  is proclaimed
 bhāva-rūpā, mahābhāva-lakṣaṇa-rūpā āra  
 in the form of bhāva  of mahābhāva  by the marks  in the form of  and
 
-(31) It is proclaimed as marked by *rati*, marked by prema and so on, as having the form of *bhāva*, and as marked by *mahābhāva*.
+(31) It is spoken of as bhakti marked by *rati*, by prema and so on, and as bhakti in the form of *bhāva* and of *mahābhāva*.
 
 শান্ত-ভক্তের রতি বাড়ে ‘প্রেম’-পর্য্যন্ত ৷  
 দাস্য-ভক্তের রতি হয় ‘রাগ’দশা-অন্ত ॥ ৩২ ॥
@@ -357,7 +357,7 @@ of the beloveds  rati  reaches  mahābhāva  the limit
 ‘bhakti’-śabde kahilum̐ ei arthera mahimā  
 by the word bhakti  I have told  of this  meaning  the glory
 
-(34) The *rati* of His beloveds reaches the limit of *mahābhāva*. Thus I have told the glory of the meaning of the word *bhakti*.
+(34) The *rati* of His beloveds reaches the limit of *mahābhāva*. Thus I have described the glorious meaning of the word *bhakti*.
 
 ‘ইত্থম্ভূতগুণঃ’-শব্দের শুনহ ব্যাখ্যান ৷  
 ‘ইত্থম্ভূত’-শব্দের ভিন্ন অর্থ, ‘গুণ’-শব্দের আন ॥ ৩৫ ॥
@@ -461,7 +461,7 @@ of Sanaka and the others  the mind  He stole  by fragrance and other  qualities
 śukadevera mana harila līlā-śravaṇe  
 of Śukadeva  the mind  He stole  by the hearing of His pastimes
 
-(44) He stole the minds of Sanaka and the other Kumāras by His fragrance and other qualities, and He stole Śukadeva’s mind through the hearing of His pastimes.
+(44) He stole the minds of Sanaka and the other Kumāras by His fragrance and other qualities, and He stole Śukadeva’s mind through hearing of His pastimes.
 
 তস্যারবিন্দনয়নস্য পদারবিন্দ-  
 কিঞ্জল্কমিশ্রতুলসীমকরন্দবায়ুঃ ৷  
@@ -679,7 +679,7 @@ still  of the word ca  they give  chief  meanings  seven
 api-śabde mukhya artha sāta vikhyāta  
 of the word api  chief  meanings  seven  well known
 
-(62) Still, seven chief meanings of *ca* are given, and the word *api* has seven well-known chief meanings.
+(62) Still, *ca* is given seven chief meanings, and *api* has seven well-known ones.
 
 চান্বাচয়ে সমাহারেঽন্যোঽন্যার্থে চ সমুচ্চয়ে ৷  
 যত্নান্তরে তথা পাদপূরণেঽপ্যবধারণে ॥ ৬৩ ॥
@@ -1384,7 +1384,7 @@ those liberated while living  many  of them  two  kinds  I know
 ‘bhaktye jīvan-mukta’, ‘jñāne jīvan-mukta’ māni  
 by devotion  liberated while living  by knowledge  liberated while living  I hold
 
-(124) There are many who are liberated while living (*jīvan-mukta*), and I know them to be of two kinds: those liberated while living through devotion and those liberated while living through knowledge.
+(124) There are many who are liberated while living (*jīvan-mukta*), and I know them to be of two kinds: those liberated through devotion and those liberated through knowledge.
 
 ‘ভক্ত্যে জীবন্মুক্ত’ গুণাকৃষ্ট হঞা ভজে ৷  
 শুষ্কজ্ঞানে জীবন্মুক্ত অপরাধে অধো মজে ॥ ১২৫ ॥
@@ -1464,7 +1464,7 @@ liberation  having given up  the other form
 svarūpeṇa vyavasthitiḥ  
 in one’s own true nature  being established
 
-(130) “*Nirodha* is when the self, together with its potencies, lies down to rest after the Lord enters His mystic slumber (*yoga-nidrā*). *Mukti* is to give up the alien form and abide in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)[^27]
+(130) “*Nirodha* is the self’s lying down to rest with all its potencies, after the Lord enters His mystic slumber (*yoga-nidrā*). *Mukti* is giving up the alien form and abiding in one’s own true nature (*svarūpa*).” (Śrīmad-Bhāgavatam, 2.10.6)[^27]
 
 কৃষ্ণ-বহির্ম্মুখতা-দোষ মায়া হৈতে হয় ৷  
 কৃষ্ণোন্মুখী মুক্তি হৈতে মায়া-মুক্তি হয় ॥ ১৩১ ॥
@@ -1661,7 +1661,7 @@ of nirgranthā api  this  api  in the sense of possibility
 ei sāta artha prathame karilum̐ vyākhyāne  
 these  seven  meanings  first  I have given  in explanation
 
-(147) In “*nirgranthā api*,” this *api* has the sense of possibility (*sambhāvanā*). These are the seven meanings that I have explained first.
+(147) In “*nirgranthā api*,” this *api* has the sense of possibility (*sambhāvanā*). These are the first seven meanings I have explained.
 
 অন্তর্য্যামি-উপাসকে ‘আত্মারাম’ কয় ৷  
 সেই আত্মারাম যোগীর দুই ভেদ হয় ॥ ১৪৮ ॥
@@ -2023,7 +2023,7 @@ of Kṛṣṇa  the devotee  free from suffering  free from other desires
 kṛṣṇa-prema-sevā-pūrṇānanda-pravīṇa  
 to Kṛṣṇa  in love  in service  in full bliss  versed
 
-(176) A devotee of Kṛṣṇa is free from suffering and free from other desires; he is versed in the full bliss of loving service to Kṛṣṇa.
+(176) A devotee of Kṛṣṇa is free from suffering and free from other desires; he knows the full bliss of loving service to Kṛṣṇa.
 
 মৎসেবয়া প্রতীতং তে সালোক্যাদিচতুষ্টয়ম্ ৷  
 নেচ্ছন্তি সেবয়া পূর্ণাঃ কুতোঽন্যৎ কালবিপ্লুতম্ ॥ ১৭৭ ॥
@@ -2131,7 +2131,7 @@ having reflected  when  one worships  Kṛṣṇa’s  feet
 sei buddhi dena tām̐re, yāte kṛṣṇa pāya  
 that  intelligence  He gives  to him  by which  Kṛṣṇa  he attains
 
-(185) When, after careful reflection, one worships Kṛṣṇa’s feet, Kṛṣṇa gives him the intelligence by which he attains Him.
+(185) When, after careful reflection, one worships Kṛṣṇa’s feet, the Lord gives him the intelligence by which he attains Him.
 
 তেষাং সততযুক্তানাং ভজতাং প্রীতিপূর্ব্বকম্ ৷  
 দদামি বুদ্ধিযোগং তং যেন মামুপয়ান্তি তে ॥ ১৮৬ ॥
@@ -2363,7 +2363,7 @@ before  thirteen  meanings  I gave  and  six  these
 ūnaviṁśati artha haila mili’ ei dui  
 nineteen  meanings  there are  combined  these  two
 
-(204) Earlier I gave thirteen meanings, and now these six: together they make nineteen meanings.[^52]
+(204) Earlier I gave thirteen meanings, and now these six: together they make nineteen.[^52]
 
 এই ঊনিশ অর্থ করিলুঁ, আগে শুন আর ৷  
 ‘আত্মা’-শব্দে ‘দেহ’ কহে, — চারি অর্থ তার ॥ ২০৫ ॥
@@ -2781,11 +2781,11 @@ to creatures  pain  you are giving  yours  will be  such  plight
 কদর্থনা দিয়া মার’ — এ পাপ ‘অপার’ ॥ ২৪৪ ॥
 
 vyādha tumi, jīva māra’ — ‘alpa’ aparādha tomāra  
-hunter  you  creatures  you kill  small  offense  your  
+hunter  you  creatures  you kill  small  offence  your  
 kadarthanā diyā māra’ — e pāpa ‘apāra’  
 torment  giving  you kill  this  sin  boundless
 
-(244) “You are a hunter and you kill animals; that is a small offense. But to torment them as you kill them is a sin without measure.
+(244) “You are a hunter and you kill animals; that is a small offence. But to torment them as you kill them is a sin without measure.
 
 কদর্থিয়া তুমি যত মারিলা জীবেরে ৷  
 তারা তৈছে তোমা মারিবে জন্ম-জন্মান্তরে ॥ ২৪৫ ॥
@@ -3123,7 +3123,7 @@ these  further  three  meanings  in the count  were obtained
 ei dui artha mili’ ‘chābbiśa’ artha haila  
 these  two  meanings  combining  twenty-six  meanings  became
 
-(277) These three further meanings are added to the count, and the two sets of meanings together come to twenty-six.
+(277) Here are three more meanings; together with the earlier ones they make twenty-six.
 
 আর অর্থ শুন, যাহা — অর্থের ভাণ্ডার ৷  
 স্থূলে ‘দুই’ অর্থ, সূক্ষ্মে ‘বত্রিশ’ প্রকার ॥ ২৭৮ ॥
@@ -3141,9 +3141,9 @@ broadly  two  meanings  in finer detail  thirty-two  kinds
 ‘ātmā’-śabde kahe — sarva-vidha bhagavān  
 ātmā  by the word  is meant  of all kinds  Bhagavān  
 eka ‘svayaṁ bhagavān’, āra ‘bhagavān’-ākhyāna  
-one  Svayaṁ Bhagavān  others  Bhagavān  so named
+one  Svayam Bhagavān  others  Bhagavān  so named
 
-(279) The word *ātmā* means Bhagavān in all His forms: one is Svayaṁ Bhagavān, the Lord Himself, and the others are called Bhagavān.
+(279) The word *ātmā* means Bhagavān in all His forms: one is Svayam Bhagavān, the Lord Himself, and the others are called Bhagavān.
 
 তাঁতে রমে যেই, সেইসব — ‘আত্মারাম’ ৷  
 ‘বিধিভক্ত’, ‘রাগভক্ত’, — দুইবিধ নাম ॥ ২৮০ ॥
@@ -3203,7 +3203,7 @@ with unawakened rati  practitioner-devotees  these  four  kinds
 vidhi-mārge bhakte ṣoḍaśa bheda pracāra  
 on the path of vidhi  among devotees  sixteen  kinds  known
 
-(285) The practitioners in whom *rati* has not yet awakened are of these four kinds as well. Thus on the path of *vidhi* the devotees are known in sixteen kinds.
+(285) The practitioners in whom *rati* has not yet awakened are of these four kinds as well. Thus on the path of *vidhi* there are sixteen kinds of devotees.
 
 রাগমার্গে ঐছে ভক্তে ষোড়শ বিভেদ ৷  
 দুই মার্গে আত্মারামের বত্রিশ বিভেদ ॥ ২৮৬ ॥
@@ -3606,7 +3606,7 @@ still  these  of the sūtras  hear  an outline
 sakāraṇa likhi ādau guru āśrayaṇa  
 with reasons  writing  first  of the guru  taking shelter
 
-(324) “Still, hear an outline of these *sūtras*. First describe, with its reasons, taking shelter of a guru.
+(324) “Still, hear an outline of these *sūtras*. First describe, with its reasons, taking shelter of a guru;
 
 গুরুলক্ষণ, শিষ্যলক্ষণ, দোঁহার পরীক্ষণ ৷  
 সেব্য — ভগবান্, সর্ব্বমন্ত্র-বিচারণ ॥ ৩২৫ ॥
@@ -3672,11 +3672,11 @@ Kṛṣṇa’s  holy places  pilgrimage  Kṛṣṇa’s  Deity  beholding
 বৈষ্ণবলক্ষণ, সেবাপরাধ-খণ্ডন ॥ ৩৩১ ॥
 
 nāma-mahimā, nāmāparādha dūre varjana  
-the name  glory  offenses against the name  far  avoiding  
+the name  glory  offences against the name  far  avoiding  
 vaiṣṇava-lakṣaṇa, sevāparādha-khaṇḍana  
-Vaiṣṇava  marks  offenses in service  dispelling
+Vaiṣṇava  marks  offences in service  dispelling
 
-(331) “the glory of the name and keeping far from offenses against the name; the marks of a Vaiṣṇava; overcoming offenses in service;
+(331) “the glory of the name and keeping far from offences against the name; the marks of a Vaiṣṇava; overcoming offences in service;
 
 শঙ্খ-জল-গন্ধ-পুষ্প-ধূপাদি-লক্ষণ ৷  
 জপ, স্তুতি, পরিক্রমা, দণ্ডবৎ বন্দন ॥ ৩৩২ ॥
@@ -3786,7 +3786,7 @@ own  in the book  Karṇapūra  at length  making
 sanātane prabhura prasāda rākhiyāche likhiyā  
 to Sanātana  of the Lord  mercy  has kept  writing
 
-(342) Karṇapūra has described at length in his own book the Lord’s mercy to Sanātana and set it down in writing:
+(342) In his own book Karṇapūra has described at length the Lord’s mercy to Sanātana and preserved it in writing:
 
 গৌড়েন্দ্রস্য সভা-বিভূষণমণিস্ত্যক্ত্বা য ঋদ্ধাং শ্রিয়ং  
 রূপস্যাগ্রজ এষ এব তরুণীং বৈরাগ্যলক্ষ্মীং দধে ৷  
