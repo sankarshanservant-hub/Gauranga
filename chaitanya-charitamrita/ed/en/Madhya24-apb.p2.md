@@ -82,6 +82,14 @@ This land (the land of Vraja) has today become blessed. Blessed are the grasses 
 
 O friends! Kṛṣṇa and Baladeva go from forest to forest with the cows and the cowherd boys, bearing as Their marks the ropes and nooses for tying the cows, and so on. Their wondrous flute-playing and songs make the moving beings among the embodied grow stunned, while the motionless trees break out in “gooseflesh.” All this is truly wonderful.
 
+## 209
+
+(O Sūta!) On this path of *karma* there is nothing to rely on (that is, no hope of a sure result), and we have been blackened by smoke. Yet you are giving us to drink the honeyed nectar (*āsava*) of Govinda's lotus feet.
+
+## 211
+
+The taste for serving His feet, like the Gaṅgā flowing from the great toe of Kṛṣṇa's foot, grows day by day. At once it destroys the impurity of the intelligence that (worldly) ascetics have accumulated over countless births.
+
 ---
 
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.

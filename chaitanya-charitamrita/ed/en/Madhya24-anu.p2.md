@@ -316,11 +316,49 @@ Its four meanings are: (1) the body as conditioned Brahman (verse 206); (2) the 
 
 > Subheading: Through the company of *sādhus*, even one who identifies with the body, or a *vivarta-vādī*, gives up the notion of *vivarta* and attains devotion to Kṛṣṇa —
 
-The *dehārāmī*, taking the body to be a conditioned form of Brahman, serves his own body. But in the company of *sādhus* he gives up this notion of *vivarta* and serves Kṛṣṇa.
+The *dehārāmī* (one who delights in the body), taking the body to be a conditioned form of Brahman, serves his own body. But in the company of *sādhus* he gives up this notion of *vivarta* and serves Kṛṣṇa.
 
 ## 207
 
 See Madhya 24.160.
+
+## 208
+
+> Subheading: Through the company of *sādhus* even the *dehārāmī* devoted to *karma* gives up *karma* and attains pure *bhakti* —
+
+The *dehārāmī* devoted to *karma* is one wholly engaged in sacrifices and the like. Yet he too, by his *sukṛti*, in the company of devotees gives up sacrifice — his attachment to *karma* — and serves Kṛṣṇa.
+
+## 209
+
+> Subheading: Śaunaka and the others condemn *karma-kāṇḍa* and praise Śrī Sūta's eagerness to speak about Hari —
+
+When the *mahā-bhāgavata* Śrī Sūta Gosvāmī began to recite the *Bhāgavatam*, full of narrations about Hari, before Śaunaka and the others who were eager to hear, the *ṛṣis* condemn their own petty rites of *karma-kāṇḍa*:
+
+**asmin** **anāśvāse** (untrustworthy) **karmaṇi** (in the sacrifice) **dhūma-dhūmrātmanām** (of those whose *ātmās* — bodies and minds — have become *dhūmra*, darkened, by smoke — of us) **bhavān** **madhu** (sweet) **govinda-pāda-padmāsavam** (the nectar of Śrī Kṛṣṇa's lotus feet, that is, the nectar of narrations about Śrī Hari) **āpāyayati** (makes us hear).
+
+## 210
+
+> Subheading: In the company of *sādhus* the *dehārāmī* — the ascetic absorbed in the world — gives up the enjoyment that takes the form of austerity and attains pure *bhakti* —
+
+*Dehārāmīs* — ascetics and others — give up austerity in the company of Kṛṣṇa's devotees and serve Kṛṣṇa.
+
+## 211
+
+> Subheading: The testimony of scripture —
+
+In ancient times Pṛthu Mahārāja, lord of the earth, performed a great sacrifice. Standing before the gods, *ṛṣis* and kings assembled there, he speaks of service to Viṣṇu, followed by the *mahājanas* of the past, as a duty and a necessity:
+
+**yat-pāda-sevābhiruciḥ** (the taste for serving Hari's feet), **yathā** (His, Hari's) **padāṅguṣṭha-viniḥsṛtā** (arising from His lotus feet) **sarit** (river, that is, the Gaṅgā), **anvaham** (from day to day, every day) **edhatī** (increasing) **satī** (being pure, *sāttvika*) **tapasvinām** (of the sacrificers) **aśeṣa-janmopacitam** (accumulated in previous births) **dhiyaḥ** (of the intelligence) **malam** (impurity — the impressions of desire and the like) **sadyaḥ** **kṣiṇoti** (destroys); (it is construed with the third [verse]: “Him you should worship with your duties”).
+
+## 212
+
+> Subheading: By Kṛṣṇa's mercy even the *dehārāmī* full of desires gives up desires, that is, becomes selfless, and serves Kṛṣṇa purely —
+
+*Ātmārāmas* — *dehārāmīs* full of all desires — give up the *anartha* of desire and, by the power of Kṛṣṇa's mercy, serve Kṛṣṇa.
+
+## 213
+
+See Madhya 22.42.
 
 ---
 
