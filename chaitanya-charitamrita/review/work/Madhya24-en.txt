@@ -1666,6 +1666,7 @@ tr: “*Ātmārāmāś ca ātmārāmāś ca*…” — fifty-eight times. Then, 
 w: of words of the same form  one  remains  in the same case
 w: of words whose meaning is already expressed  non-use  thus
 tr: “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used.” (Viśva-prakāśa)
+fn: Source as in the heading of the edition (p. 817: *Viśva-prakāśa*); translation as in 145.
 
 ## 292
 w: fifty-eight  of the word ca  all  elision  takes place
@@ -1675,7 +1676,8 @@ tr: All fifty-eight occurrences of *ca* are elided, and the single word *ātmār
 ## 293
 w: of words of the same form  one  remains  in the same case
 w: of words whose meaning is already expressed  non-use
-tr: “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used.” (Pāṇini, 1.2.64)
+tr: “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used.” (Pāṇini)
+fn: As in 291. The heading of the edition (p. 817) names Pāṇini without the number of the rule.
 
 ## 294
 w: aśvattha trees  and  banyan trees  and
@@ -1700,7 +1702,7 @@ tr: Taking “*nirgranthā eva*” — “having become *nirgranthas*” — and
 ## 298
 w: in the conjunction of all  further  one  meaning  there is
 w: ātmārāmas  and  munis  and  nirgranthas  and  worship
-tr: Conjoining them all, there is one more meaning: “The *ātmārāmas*, the *munis* and the *nirgranthas*” all worship Kṛṣṇa.
+tr: When all are conjoined, there is one more meaning: “The *ātmārāmas*, the *munis* and the *nirgranthas*” all worship Kṛṣṇa.
 
 ## 299
 w: api  the word  in the sense of certainty  that  four  times
@@ -1728,6 +1730,7 @@ w: called the knower of the field  likewise  superior
 w: called ignorance and karma  another
 w: a third  potency  is held to be
 tr: “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
+fn: The same verse as Ādi 7.119; translation as there. Reference as in the heading of the edition (p. 818).
 
 ## 304
 w: kṣetrajña  ātmā  puruṣa
@@ -1784,7 +1787,8 @@ w: I  know  Śuka  knows
 w: Vyāsa  knows  not  knows  or
 w: by devotion  the Bhāgavatam  to be grasped
 w: not  by intellect  not  and  by commentary
-tr: “I know, Śuka knows, and Vyāsa may or may not know. The *Bhāgavatam* is to be grasped by devotion — not by the intellect, nor by commentaries.” (An ancient verse: the words of Śiva)
+tr: “I know, Śuka knows, and Vyāsa may or may not know. The *Bhāgavatam* is to be grasped by devotion — not by the intellect, nor by commentaries.” (the words of Śrī Śiva in an ancient verse)
+fn: Source as in the heading of the edition (p. 819).
 
 ## 315
 w: tell  to the master of yoga  to Kṛṣṇa
