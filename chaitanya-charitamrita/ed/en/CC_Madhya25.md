@@ -1242,87 +1242,113 @@ the sun  without  by itself  its  not  is  manifestation
 এই ‘সম্বন্ধ’-তত্ত্ব কহিলুঁ, শুন আর সব ॥ ১১৬ ॥
 
 māyātīta haile haya āmāra ‘anubhava’  
-ei ‘sambandha’-tattva kahiluṅ, śuna āra saba
+beyond māyā  when one goes  there is  of Me  realisation  
+ei ‘sambandha’-tattva kahiluṅ, śuna āra saba  
+this  sambandha  truth  I have told  hear  the rest  all
 
-(116) [not yet translated]
+(116) so one realises Me only on going beyond *māyā*. I have told you the truth of *sambandha*; now hear all the rest.
 
 ঋতেঽর্থং যৎ প্রতীয়েত ন প্রতীয়েত চাত্মনি ৷  
 তদ্বিদ্যাদাত্মনো মায়াং যথাভাসো যথা তমঃ ॥ ১১৭ ॥
 
 ṛte ‘rthaṁ yat pratīyeta  
+without  the reality  what  may appear  
 na pratīyeta cātmani  
+not  may appear  and  in Me  
 tad vidyād ātmano māyāṁ  
-yathābhāso yathā tamaḥ
+that  one should know  My  māyā  
+yathābhāso yathā tamaḥ  
+as  the reflection  as  the darkness
 
-(117) [not yet translated]
+(117) “Whatever appears to exist apart from Me, the Reality, and does not appear in Me, know that to be My māyā, like a reflection and like darkness.” (Śrīmad-Bhāgavatam, 2.9.33)
 
 ‘অভিধেয়’ সাধনভক্তির শুনহ বিচার ৷  
 সর্ব্ব-জন-দেশ-কাল-দশাতে ব্যাপ্তি যার ॥ ১১৮ ॥
 
 ‘abhidheya’ sādhana-bhaktira śunaha vicāra  
-sarva-jana-deśa-kāla-daśāte vyāpti yāra
+of abhidheya  of sādhana-bhakti  hear  the consideration  
+sarva-jana-deśa-kāla-daśāte vyāpti yāra  
+to all  people  places  times  circumstances  extends  whose
 
-(118) [not yet translated]
+(118) Now hear the consideration of *abhidheya*, *sādhana-bhakti*, which extends to all people in every place, time and circumstance.
 
 ‘ধর্ম্মাদি’ বিষয়ে যৈছে এ ‘চারি’ বিচার ৷  
 সাধন-ভক্তি — এই চারি বিচারের পার ॥ ১১৯ ॥
 
 ‘dharmādi’ viṣaye yaiche e ‘cāri’ vicāra  
-sādhana-bhakti-ei cāri vicārera pāra
+in dharma and the rest  in matters  as  these  four  considerations  
+sādhana-bhakti-ei cāri vicārera pāra  
+sādhana-bhakti  these  four  considerations  beyond
 
-(119) [not yet translated]
+(119) In matters of *dharma* and the rest these four considerations apply, but *sādhana-bhakti* is beyond them.
 
 সর্ব্ব-দেশ-কাল-দশায় জনের কর্ত্তব্য ৷  
 গুরু-পাশে সেই ভক্তি প্রষ্টব্য, শ্রোতব্য ॥ ১২০ ॥
 
 sarva-deśa-kāla-daśāya janera kartavya  
-guru-pāśe sei bhakti praṣṭavya, śrotavya
+in every  place  time  circumstance  of people  the duty  
+guru-pāśe sei bhakti praṣṭavya, śrotavya  
+from the guru  that  bhakti  is to be asked about  to be heard
 
-(120) [not yet translated]
+(120) In every place, time and circumstance it is the duty of all people to ask the guru about that *bhakti* and to hear of it from him.
 
 এতাবদেব জিজ্ঞাস্যং তত্ত্বজিজ্ঞাসুনাত্মনঃ ৷  
 অন্বয়ব্যতিরেকাভ্যাং যৎ স্যাৎ সর্ব্বত্র সর্ব্বদা ॥ ১২১ ॥
 
 etāvad eva jijñāsyaṁ  
+so much  indeed  to be inquired  
 tattva-jijñāsunātmanaḥ  
+by one seeking the truth  of the Self  
 anvaya-vyatirekābhyāṁ  
-yat syāt sarvatra sarvadā
+positively  and negatively  
+yat syāt sarvatra sarvadā  
+which  may be  everywhere  always
 
-(121) [not yet translated]
+(121) “This much must be inquired into by one who seeks the truth of the Self: That which exists everywhere and always, both directly and indirectly.” (Śrīmad-Bhāgavatam, 2.9.35)
 
 আমাতে যে ‘প্রীতি’, সেই ‘প্রেম’ — ‘প্রয়োজন’ ৷  
 কার্য্যদ্বারে কহি তার ‘স্বরূপ’-লক্ষণ ॥ ১২২ ॥
 
 āmāte ye ‘prīti’, sei ‘prema’ — ‘prayojana’  
-kārya-dvāre kahi tāra ‘svarūpa’ lakṣaṇa
+for Me  which  affection  that  prema  is the prayojana  
+kārya-dvāre kahi tāra ‘svarūpa’ lakṣaṇa  
+through its effects  I describe  its  essential  characteristic
 
-(122) [not yet translated]
+(122) Love for Me — that *prema* is the *prayojana*. I describe its essential nature through its effects.
 
 পঞ্চভূত যৈছে ভূতের ভিতরে-বাহিরে ৷  
 ভক্তগণে স্ফুরি আমি বাহিরে-অন্তরে ॥ ১২৩ ॥
 
 pañca-bhūta yaiche bhūtera bhitare-bāhire  
-bhakta-gaṇe sphuri āmi bāhire-antare
+the five  elements  as  of beings  within  without  
+bhakta-gaṇe sphuri āmi bāhire-antare  
+in the devotees  am manifest  I  without  within
 
-(123) [not yet translated]
+(123) Just as the five elements are within and without all beings, so I am manifest without and within My devotees.
 
 যথা মহান্তি ভূতানি ভূতেষূচ্চাবচেষ্বনু ৷  
 প্রবিষ্টান্যপ্রবিষ্টানি তথা তেষু ন তেষ্বহম্ ॥ ১২৪ ॥
 
 yathā mahānti bhūtāni  
+as  the great  elements  
 bhūteṣūccāvaceṣv anu  
+in beings  great and small  after  
 praviṣṭāny apraviṣṭāni  
-tathā teṣu na teṣv aham
+entered  not entered  
+tathā teṣu na teṣv aham  
+so  in them  not  in them  I
 
-(124) [not yet translated]
+(124) “As the great elements enter all beings, great and small, and yet remain outside them, so I am within all that is created and yet beyond it.” (Śrīmad-Bhāgavatam, 2.9.34)
 
 ভক্ত আমা বান্ধিয়াছে হৃদয়-কমলে ৷  
 যাঁহা নেত্র পড়ে, তাঁহা দেখয়ে আমারে ॥ ১২৫ ॥
 
 bhakta āmā bāndhiyāche hṛdaya-kamale  
-yāṅhā netra paḍe, tāṅhā dekhaye āmāre
+the devotee  Me  has bound  in the lotus of the heart  
+yāṅhā netra paḍe, tāṅhā dekhaye āmāre  
+wherever  the eyes  fall  there  he sees  Me
 
-(125) [not yet translated]
+(125) My devotee has bound Me in the lotus of his heart; wherever his eyes fall, there he sees Me.’
 
 বিসৃজতি হৃদয়ং ন যস্য সাক্ষা-  
 দ্ধরিরবশাভিহিতোঽপ্যঘৌঘনাশঃ ৷  
@@ -1330,21 +1356,29 @@ yāṅhā netra paḍe, tāṅhā dekhaye āmāre
 স ভবতি ভাগবতপ্রধান উক্তঃ ॥ ১২৬ ॥
 
 visṛjati hṛdayaṁ na yasya sākṣād  
+leaves  the heart  not  whose  Himself  
 dharir avaśābhihito ‘py aghaugha-nāśaḥ  
+Hari  uttered helplessly  even  the destroyer of hosts of sins  
 praṇaya-rasanayā dhṛtāṅghri-padmaḥ  
-sa bhavati bhāgavata-pradhāna uktaḥ
+by the cord of love  whose lotus feet are held fast  
+sa bhavati bhāgavata-pradhāna uktaḥ  
+he  is  of the bhāgavatas  the foremost  called
 
-(126) [not yet translated]
+(126) “He whose heart is never left by Hari Himself — Hari, who destroys hosts of sins even when His name is uttered helplessly — and who holds the Lord’s lotus feet fast with the cord of love, is called the foremost of the *bhāgavatas*.” (Śrīmad-Bhāgavatam, 11.2.55)
 
 সর্ব্বভূতেষু যঃ পশ্যেদ্ভগবদ্ভাবমাত্মনঃ ৷  
 ভূতানি ভগবত্যাত্মন্যেষ ভাগবতোত্তমঃ ॥ ১২৭ ॥
 
 sarva-bhūteṣu yaḥ paśyed  
+in all beings  who  sees  
 bhagavad-bhāvam ātmanaḥ  
+of the Lord  the presence  of the Self  
 bhūtāni bhagavaty ātmany  
-eṣa bhāgavatottamaḥ
+the beings  in the Lord  in the Self  
+eṣa bhāgavatottamaḥ  
+he  the best of devotees
 
-(127) [not yet translated]
+(127) “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
 
 গায়ন্ত্য উচ্চৈরমুমেব সংহতা  
 বিচিক্যুরুন্মত্তকবদ্বনাদ্বনম্ ৷  
@@ -1352,65 +1386,87 @@ eṣa bhāgavatottamaḥ
 র্ভূতেষু সন্তং পুরুষং বনস্পতীন্ ॥ ১২৮ ॥
 
 gāyantya uccair amum eva saṁhatā  
+singing  loudly  of Him  alone  gathered together  
 vicikyur unmattaka-vad vanād vanam  
+they searched  like madwomen  from forest  to forest  
 papracchur ākāśa-vad antaraṁ bahir  
-bhūteṣu santaṁ puruṣaṁ vanaspatīn
+they asked  like the sky  within  without  
+bhūteṣu santaṁ puruṣaṁ vanaspatīn  
+in beings  present  about the Person  the trees
 
-(128) [not yet translated]
+(128) “Singing loudly of Him alone, the *gopīs* searched together from forest to forest like madwomen. They asked the trees about that Person who, like the sky, is present within and without all beings.” (Śrīmad-Bhāgavatam, 10.30.4)
 
 অতএব ভাগবতে এই ‘তিন’ কয় ৷  
 সম্বন্ধ-অভিধেয়-প্রয়োজন-ময় ॥ ১২৯ ॥
 
 ataeva bhāgavate ei ‘tina’ kaya  
-sambandha-abhidheya-prayojana-maya
+therefore  in the Bhāgavata  these  three  it speaks of  
+sambandha-abhidheya-prayojana-maya  
+of sambandha  abhidheya  prayojana  consisting
 
-(129) [not yet translated]
+(129) Therefore the *Bhāgavata* speaks of these three: it consists of *sambandha*, *abhidheya* and *prayojana*.
 
 বদন্তি তত্তত্ত্ববিদস্তত্ত্বং যজ্জ্ঞানমদ্বয়ম্ ৷  
 ব্রহ্মেতি পরমাত্মেতি ভগবানিতি শব্দ্যতে ॥ ১৩০ ॥
 
 vadanti tat tattva-vidas  
+they call  that  of truth  the knowers  
 tattvaṁ yaj jñānam advayam  
+the Truth  which  knowledge  non-dual  
 brahmeti paramātmeti  
-bhagavān iti śabdyate
+Brahman  thus  Paramātmā  thus  
+bhagavān iti śabdyate  
+Bhagavān  thus  is named
 
-(130) [not yet translated]
+(130) “The knowers of the Truth call the non-dual knowledge the Truth; it is named Brahman, Paramātmā and Bhagavān.” (Śrīmad-Bhāgavatam, 1.2.11)
 
 এই ত’ ‘সম্বন্ধ’, শুন ‘অভিধেয়’ ভক্তি ৷  
 ভাগবতে প্রতি শ্লোকে ব্যাপে যার স্থিতি ॥ ১৩১ ॥
 
 ei ta’ ‘sambandha’, śuna ‘abhidheya’ bhakti  
-bhāgavate prati-śloke vyāpe yāra sthiti
+this  indeed  is sambandha  hear  the abhidheya  bhakti  
+bhāgavate prati-śloke vyāpe yāra sthiti  
+in the Bhāgavata  in every  verse  pervades  whose  presence
 
-(131) [not yet translated]
+(131) This is *sambandha*. Now hear of the *abhidheya*, *bhakti*, whose presence pervades every verse of the *Bhāgavata*.
 
 ভক্ত্যাহমেকয়া গ্রাহ্যঃ শ্রদ্ধয়াত্মা প্রিয়ঃ সতাম্ ৷  
 ভক্তিঃ পুনাতি মন্নিষ্ঠা শ্বপাকানপি সম্ভবাৎ ॥ ১৩২ ॥
 
 bhaktyāham ekayā grāhyaḥ  
+by devotion  I  by exclusive  am attained  
 śraddhayātmā priyaḥ satām  
+by faith  the Self  dear  of the saintly  
 bhaktiḥ punāti man-niṣṭhā  
-śva-pākān api sambhavāt
+devotion  purifies  fixed on Me  
+śva-pākān api sambhavāt  
+dog-eaters  even  from (the stain of) birth
 
-(132) [not yet translated]
+(132) “I, the dear Self of the saintly, am attained by single-minded devotion born of faith. Devotion fixed on Me purifies even dog-eaters from the stain of their birth.” (Śrīmad-Bhāgavatam, 11.14.21)
 
 এবে শুন, প্রেম, যেই — মূল ‘প্রয়োজন’ ৷  
 পুলকাশ্রু-নৃত্য-গীত — যাহার লক্ষণ ॥ ১৩৩ ॥
 
 ebe śuna, prema, yei-mūla ‘prayojana’  
-pulakāśru-nṛtya-gīta-yāhāra lakṣaṇa
+now  hear  prema  which  the chief  prayojana  
+pulakāśru-nṛtya-gīta-yāhāra lakṣaṇa  
+thrill  tears  dancing  singing  whose  signs
 
-(133) [not yet translated]
+(133) Now hear of *prema*, the chief *prayojana*, whose signs are the thrill of rapture, tears, dancing and singing.
 
 স্মরন্তঃ স্মারয়ন্তশ্চ মিথোঽঘৌঘহরং হরিম্ ৷  
 ভক্ত্যা সংজাতয়া ভক্ত্যা বিভ্রত্যুৎপুলকাং তনুম্ ॥ ১৩৪ ॥
 
 smarantaḥ smārayantaś ca  
+remembering  reminding  and  
 mitho 'ghaugha-haraṁ harim  
+one another  who takes away hosts of sins  Hari  
 bhaktyā saṁjātayā bhaktyā  
-bibhraty utpulakāṁ tanum
+by devotion  born  of devotion  
+bibhraty utpulakāṁ tanum  
+they bear  thrilling  bodies
 
-(134) [not yet translated]
+(134) “Remembering Hari, who takes away hosts of sins, and reminding one another of Him, they bear bodies thrilled by the devotion (*prema-bhakti*) born of devotion (*sādhana-bhakti*).” (Śrīmad-Bhāgavatam, 11.3.31)
 
 এবংব্রতঃ স্বপ্রিয়নামকীর্ত্ত্যা-  
 জাতানুরাগো দ্রুতচিত্ত উচ্চৈঃ ৷  
@@ -1418,11 +1474,15 @@ bibhraty utpulakāṁ tanum
 ত্যুন্মাদবন্নৃত্যতি লোকবাহ্যঃ ॥ ১৩৫ ॥
 
 evaṁ-vrataḥ sva-priya-nāma-kīrtyā  
+one with such a vow  by the chanting of the names of his beloved  
 jātānurāgo druta-citta uccaiḥ  
+in whom love has arisen  with melted heart  loudly  
 hasaty atho roditi rauti gāyaty  
-unmāda-van nṛtyati loka-bāhyaḥ
+laughs  then  weeps  cries out  sings  
+unmāda-van nṛtyati loka-bāhyaḥ  
+like a madman  dances  beyond the world
 
-(135) [not yet translated]
+(135) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
 
 অতএব ভাগবত — সূত্রের ‘অর্থ’ রূপ ৷  
 নিজ-কৃত সূত্রের নিজ-‘ভাষ্য’-স্বরূপ ॥ ১৩৬ ॥
