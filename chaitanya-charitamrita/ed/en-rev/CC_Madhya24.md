@@ -2399,7 +2399,7 @@ from there  rises  O Ananta  Your  abode  the head  supreme
 punar iha yat sametya na patanti kṛtānta-mukhe  
 again  here  which  having reached  not  they fall  of death  into the mouth
 
-(207) “Those of gross vision who follow the paths of the ṛṣis worship (Brahman in) the belly (*udara*); the Āruṇis worship (Brahman, the) subtle (*dahara*), in the heart, from which the channels branch out. From there, O Ananta, (the path) rises to the head, Your supreme abode; having reached it, they do not fall again into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)
+(207) “Following the paths of the ṛṣis, those of gross vision worship Brahman in the belly (*udara*), while the Āruṇis worship the subtle Brahman (*dahara*) in the heart, from which the channels branch out. From there, O Ananta, the path rises to the head, Your supreme abode; having reached it, they no longer fall into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)[^52]
 
 দেহারামী কর্ম্মনিষ্ঠ — যাজ্ঞিকাদি জন ৷  
 সৎসঙ্গে ‘কর্ম্ম’ ত্যজি’ করয় ভজন ॥ ২০৮ ॥
@@ -2409,7 +2409,7 @@ those who delight in the body  devoted to karma  performers of sacrifice and the
 sat-saṅge ‘karma’ tyaji’ karaya bhajana  
 in the company of saints  karma  giving up  perform  worship
 
-(208) Those who delight in the body and are devoted to karma — performers of sacrifice and the like — give up karma in the company of saints and worship (Kṛṣṇa).
+(208) Those who delight in the body and are devoted to karma — performers of sacrifice and the like — give up karma in the company of saints and worship Kṛṣṇa.
 
 কর্ম্মণ্যস্মিন্ননাশ্বাসে ধূমধূম্রাত্মনাং ভবান্ ৷  
 আপায়য়তি গোবিন্দপাদপদ্মাসবং মধু ॥ ২০৯ ॥
@@ -2449,7 +2449,7 @@ at once  destroys  day by day  increasing  being
 yathā padāṅguṣṭha-viniḥsṛtā sarit  
 as  from the toe of His foot  flowing  the river
 
-(211) “The taste for serving His feet, increasing day by day, at once destroys the impurity that has gathered in the minds of ascetics through countless births, as does the river (Gaṅgā) that flows from the toe of His foot.” (Śrīmad-Bhāgavatam, 4.21.31)
+(211) “The taste for serving His feet, pure and increasing day by day, at once destroys the impurity that has gathered in the minds of ascetics through countless births, as does the river (Gaṅgā) that flows from the toe of His foot.” (Śrīmad-Bhāgavatam, 4.21.31)[^53]
 
 দেহারামী, সর্ব্বকাম — সব আত্মারাম ৷  
 কৃষ্ণকৃপায় কৃষ্ণ ভজে ছাড়ি’ সব কাম ॥ ২১২ ॥
@@ -2475,7 +2475,7 @@ glass  searching for  though  a divine jewel
 svāmin kṛtārtho ‘smi varaṁ na yāce  
 O Master  fulfilled  I am  a boon  not  I ask
 
-(213) “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)
+(213) “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)[^54]
 
 এই চারি অর্থ সহ হইল ‘তেইশ’ অর্থ ৷  
 আর তিন অর্থ শুন পরম সমর্থ ॥ ২১৪ ॥
@@ -2485,7 +2485,7 @@ these  four  meanings  together with  there are  twenty-three  meanings
 āra tina artha śuna parama samartha  
 further  three  meanings  hear  most  cogent
 
-(214) Together with these four, there are twenty-three meanings. Now hear three more most cogent meanings.
+(214) Together with these four, there are twenty-three meanings. Now hear three more most cogent meanings.[^55]
 
 চ-শব্দে ‘সমুচ্চয়ে’, আর অর্থ কয় ৷  
 ‘আত্মারামাশ্চ মুনয়শ্চ’ কৃষ্ণেরে ভজয় ॥ ২১৫ ॥
@@ -2495,7 +2495,7 @@ the word ca  in the sense of conjunction  another  meaning  expresses
 ‘ātmārāmāś ca munayaś ca’ kṛṣṇere bhajaya  
 ātmārāmas  and  sages  and  Kṛṣṇa  worship
 
-(215) The word *ca* in the sense of conjunction (*samuccaya*) gives another meaning: “the *ātmārāmas* and the sages (*ātmārāmāś ca munayaś ca*)” worship Kṛṣṇa.
+(215) When *ca* has the sense of conjunction (*samuccaya*), the *ātmārāmas* and the sages (*ātmārāmāś ca munayaś ca*) worship Kṛṣṇa; but *ca* has yet another meaning.[^56]
 
 ‘নির্গ্রন্থাঃ’ হঞা ইঁহা ‘অপি’ — নির্দ্ধারণে ৷  
 ‘রামশ্চ কৃষ্ণশ্চ’ যথা বিহরয়ে বনে ॥ ২১৬ ॥
@@ -2535,7 +2535,7 @@ ca  in the sense of eva  sages  only  Kṛṣṇa  worship
 “ātmārāmā api” — ‘api’ ‘garhā’-artha kaya  
 ātmārāmas  even  api  of censure  the meaning  expresses
 
-(219) Taking *ca* in the sense of *eva*: “only the sages (*munayaḥ eva*)” worship Kṛṣṇa; and in “*ātmārāmā api*” the word *api* expresses censure (*garhā*).
+(219) If *ca* is taken in the sense of *eva*, then “only the sages (*munayaḥ eva*)” worship Kṛṣṇa; and in “*ātmārāmā api*” the word *api* expresses censure (*garhā*).[^57]
 
 ‘নির্গ্রন্থ হঞা’ — এই দুঁহার ‘বিশেষণ’ ৷  
 আর অর্থ শুন, যৈছে সাধুর সঙ্গম ॥ ২২০ ॥
@@ -2790,3 +2790,15 @@ the hunter  said  what  you say  that  indeed  certain
 [^50]: The same verse as 173; translation as there.
 
 [^51]: *Anubhāṣya*: the six new ones are those who delight in the mind (159), in effort (162) and in steadfastness (168), the learned *muni* and the foolish *nirgrantha* who delight in intelligence (181), and the *ātmārāma* endowed with the nature of Kṛṣṇa’s servant (195).
+
+[^52]: The same verse as 160; translation as there.
+
+[^53]: *Anubhāṣya*: *satī* — “being pure”; *malam* — the impurity of the mind, the impressions of desire and the like; Pṛthu Mahārāja speaks thus of service to Viṣṇu to those assembled at his sacrifice.
+
+[^54]: The same verse as Madhya 22.42; translation as there.
+
+[^55]: *Anubhāṣya*: the three new meanings are *anvācaya* for *ca*; *eva* for *ca* together with *garhā* (censure) for *api*; and *nirdhana* (a poor man) for *nirgrantha*.
+
+[^56]: *Anubhāṣya*: the sense of *samuccaya* has been explained above; “another meaning” is one other than *samuccaya*.
+
+[^57]: *Anubhāṣya*: the sense is that even though they are *ātmārāmas*, the sages renounce the honour of that position, and they alone worship Kṛṣṇa.

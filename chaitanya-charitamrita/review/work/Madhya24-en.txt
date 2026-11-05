@@ -1225,12 +1225,13 @@ w: the belly (udara)  worship  those who  on the paths of the ṛṣis  of gross
 w: from which the channels branch out  the heart  the Āruṇis  subtle (dahara)
 w: from there  rises  O Ananta  Your  abode  the head  supreme
 w: again  here  which  having reached  not  they fall  of death  into the mouth
-tr: “Those of gross vision who follow the paths of the ṛṣis worship (Brahman in) the belly (*udara*); the Āruṇis worship (Brahman, the) subtle (*dahara*), in the heart, from which the channels branch out. From there, O Ananta, (the path) rises to the head, Your supreme abode; having reached it, they do not fall again into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)
+tr: “Following the paths of the ṛṣis, those of gross vision worship Brahman in the belly (*udara*), while the Āruṇis worship the subtle Brahman (*dahara*) in the heart, from which the channels branch out. From there, O Ananta, the path rises to the head, Your supreme abode; having reached it, they no longer fall into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)
+fn: The same verse as 160; translation as there.
 
 ## 208
 w: those who delight in the body  devoted to karma  performers of sacrifice and the like  people
 w: in the company of saints  karma  giving up  perform  worship
-tr: Those who delight in the body and are devoted to karma — performers of sacrifice and the like — give up karma in the company of saints and worship (Kṛṣṇa).
+tr: Those who delight in the body and are devoted to karma — performers of sacrifice and the like — give up karma in the company of saints and worship Kṛṣṇa.
 
 ## 209
 w: in work  this  unreliable
@@ -1249,7 +1250,8 @@ w: whose  of the feet  for the service  taste  of ascetics
 w: in countless  births  accumulated  the impurity  of the mind
 w: at once  destroys  day by day  increasing  being
 w: as  from the toe of His foot  flowing  the river
-tr: “The taste for serving His feet, increasing day by day, at once destroys the impurity that has gathered in the minds of ascetics through countless births, as does the river (Gaṅgā) that flows from the toe of His foot.” (Śrīmad-Bhāgavatam, 4.21.31)
+tr: “The taste for serving His feet, pure and increasing day by day, at once destroys the impurity that has gathered in the minds of ascetics through countless births, as does the river (Gaṅgā) that flows from the toe of His foot.” (Śrīmad-Bhāgavatam, 4.21.31)
+fn: *Anubhāṣya*: *satī* — “being pure”; *malam* — the impurity of the mind, the impressions of desire and the like; Pṛthu Mahārāja speaks thus of service to Viṣṇu to those assembled at his sacrifice.
 
 ## 212
 w: those who delight in the body  full of desires  all  ātmārāmas
@@ -1262,16 +1264,19 @@ w: You  have attained  hidden from the gods and the best of sages
 w: glass  searching for  though  a divine jewel
 w: O Master  fulfilled  I am  a boon  not  I ask
 tr: “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)
+fn: The same verse as Madhya 22.42; translation as there.
 
 ## 214
 w: these  four  meanings  together with  there are  twenty-three  meanings
 w: further  three  meanings  hear  most  cogent
 tr: Together with these four, there are twenty-three meanings. Now hear three more most cogent meanings.
+fn: *Anubhāṣya*: the three new meanings are *anvācaya* for *ca*; *eva* for *ca* together with *garhā* (censure) for *api*; and *nirdhana* (a poor man) for *nirgrantha*.
 
 ## 215
 w: the word ca  in the sense of conjunction  another  meaning  expresses
 w: ātmārāmas  and  sages  and  Kṛṣṇa  worship
-tr: The word *ca* in the sense of conjunction (*samuccaya*) gives another meaning: “the *ātmārāmas* and the sages (*ātmārāmāś ca munayaś ca*)” worship Kṛṣṇa.
+tr: When *ca* has the sense of conjunction (*samuccaya*), the *ātmārāmas* and the sages (*ātmārāmāś ca munayaś ca*) worship Kṛṣṇa; but *ca* has yet another meaning.
+fn: *Anubhāṣya*: the sense of *samuccaya* has been explained above; “another meaning” is one other than *samuccaya*.
 
 ## 216
 w: nirgranthas  becoming  here  api  in the sense of specification
@@ -1291,7 +1296,8 @@ tr: The sage, absorbed in contemplating Kṛṣṇa, always worships Kṛṣṇa
 ## 219
 w: ca  in the sense of eva  sages  only  Kṛṣṇa  worship
 w: ātmārāmas  even  api  of censure  the meaning  expresses
-tr: Taking *ca* in the sense of *eva*: “only the sages (*munayaḥ eva*)” worship Kṛṣṇa; and in “*ātmārāmā api*” the word *api* expresses censure (*garhā*).
+tr: If *ca* is taken in the sense of *eva*, then “only the sages (*munayaḥ eva*)” worship Kṛṣṇa; and in “*ātmārāmā api*” the word *api* expresses censure (*garhā*).
+fn: *Anubhāṣya*: the sense is that even though they are *ātmārāmas*, the sages renounce the honour of that position, and they alone worship Kṛṣṇa.
 
 ## 220
 w: nirgranthas  becoming  this  of both  a qualifier
