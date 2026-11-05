@@ -2165,7 +2165,7 @@ of these five  among  one  slight  if  there is
 subuddhi janera haya kṛṣṇa-premodaya  
 of a sensible  person  there comes  for Kṛṣṇa  of love  the awakening
 
-(188) If a sensible person has even a slight (connection with) one of these five, love for Kṛṣṇa awakens in him.
+(188) If a sensible person has even the slightest connection with one of these five, love for Kṛṣṇa awakens in him.
 
 দুরূহাদ্ভুতবীর্য্যেঽস্মিন্ শ্রদ্ধা দূরেঽস্তু পঞ্চকে ৷  
 যত্র স্বল্পোঽপি সম্বন্ধঃ সদ্ধিয়াং ভাবজন্মনে ॥ ১৮৯ ॥
@@ -2179,7 +2179,7 @@ where  slight  even  connection
 sad-dhiyāṁ bhāva-janmane  
 for those of good understanding  for the birth of bhāva
 
-(189) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 87)
+(189) “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 238)[^45]
 
 উদার মহতী যাঁর সর্ব্বোত্তমা বুদ্ধি ৷  
 নানা কামে ভজে, তবু পায় ভক্তিসিদ্ধি ॥ ১৯০ ॥
@@ -2203,7 +2203,7 @@ with intense  bhakti-yoga
 yajeta puruṣaṁ param  
 should worship  the Person  Supreme
 
-(191) “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)
+(191) “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)[^46]
 
 ভক্তি-প্রভাব, — সেই কাম ছাড়াঞা ৷  
 কৃষ্ণপদে ভক্তি করায় গুণে আকর্ষিয়া ॥ ১৯২ ॥
@@ -2229,7 +2229,7 @@ Himself  He grants  to those who worship  though not desiring
 icchā-pidhānaṁ nija-pāda-pallavam  
 covering all desires  His own  feet like tender shoots
 
-(193) “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)
+(193) “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)[^47]
 
 ‘আত্মা’-শব্দে ‘স্বভাব’ কহে, তাতে যেই রমে ৷  
 আত্মারাম জীব যত স্থাবর-জঙ্গমে ॥ ১৯৪ ॥
@@ -2249,7 +2249,7 @@ of the jīva  the nature  toward Kṛṣṇa  servant  self-conception
 dehe ātma-jñāne ācchādita sei ‘jñāna’  
 in the body  by the notion of self  covered  that  awareness
 
-(195) The nature of the jīva is to know himself as Kṛṣṇa’s servant; that awareness becomes covered when he takes the body to be the self.
+(195) The nature of the jīva is to know himself as Kṛṣṇa’s servant; that awareness becomes covered when he takes the body to be the self.[^48]
 
 চ-শব্দে ‘এব’, ‘অপি’-শব্দ সমুচ্চয়ে ৷  
 ‘আত্মারামা এব’ হঞা শ্রীকৃষ্ণ ভজয়ে ॥ ১৯৬ ॥
@@ -2259,7 +2259,7 @@ by the word ca  eva  api  the word  in the sense of conjunction
 ‘ātmārāmā eva’ hañā śrī-kṛṣṇa bhajaye  
 ātmārāmas  indeed  being  Śrī Kṛṣṇa  worship
 
-(196) The word *ca* means *eva* (“indeed”), and the word *api* has the sense of conjunction: being *ātmārāmas* indeed (*ātmārāmā eva*), (all beings) worship Śrī Kṛṣṇa.
+(196) Here *ca* means *eva* (“indeed”), and *api* has the sense of conjunction (*samuccaya*): it is precisely as *ātmārāmas* (*ātmārāmā eva*) that they worship Śrī Kṛṣṇa.
 
 এই জীব — সনকাদি সব মুনিজন ৷  
 ‘নির্গ্রন্থ’ — মূর্খ, নীচ, স্থাবর-জঙ্গম ॥ ১৯৭ ॥
@@ -2337,7 +2337,7 @@ bowed  with the weight  their branches  of honey  streams
 prema-hṛṣṭa-tanavo vavṛṣuḥ sma  
 with love  thrilled  bodies  showered  indeed
 
-(202) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam, 10.35.9)
+(202) “The forest creepers and trees, rich with flowers and fruits, their branches bowed with the weight and their bodies thrilled with love, poured down streams of honey, as if revealing Viṣṇu within themselves.” (Śrīmad-Bhāgavatam, 10.35.9)[^49]
 
 কিরাতহূনান্ধ্র-পুলিন্দ পুক্কশাঃ  
 আভীরশুম্ভা যবনাঃ খশাদয়ঃ ৷  
@@ -2353,7 +2353,7 @@ who  others  and  sinful  of those who have taken shelter of Him  taking shelter
 śuddhyanti tasmai prabhaviṣṇave namaḥ  
 are purified  to Him  the all-powerful  obeisance
 
-(203) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and others, and other sinful people too, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)
+(203) “The Kirātas, Hūṇas, Andhras, Pulindas, Pukkaśas, Ābhīras, Śuhmas, Yavanas, Khaśas and other tribes, and all other sinful people as well, are purified by taking shelter of those who have taken shelter of Him. Obeisance to that all-powerful Lord!” (Śrīmad-Bhāgavatam, 2.4.18)[^50]
 
 আগে ‘তের’ অর্থ করিলুঁ, আর ‘ছয়’ এই ৷  
 ঊনবিংশতি অর্থ হইল মিলি’ এই দুই ॥ ২০৪ ॥
@@ -2363,7 +2363,7 @@ before  thirteen  meanings  I gave  and  six  these
 ūnaviṁśati artha haila mili’ ei dui  
 nineteen  meanings  there are  combined  these  two
 
-(204) Earlier I gave thirteen meanings, and now these six: together they make nineteen meanings.
+(204) Earlier I gave thirteen meanings, and now these six: together they make nineteen meanings.[^51]
 
 এই ঊনিশ অর্থ করিলুঁ, আগে শুন আর ৷  
 ‘আত্মা’-শব্দে ‘দেহ’ কহে, — চারি অর্থ তার ॥ ২০৫ ॥
@@ -2776,3 +2776,17 @@ the hunter  said  what  you say  that  indeed  certain
 [^43]: *Anubhāṣya*: “of everything” — of Brahmā, Rudra and the whole manifest world; “the wise” — those who know the taste of Kṛṣṇa; “endowed with *bhāva*” — filled with prema.
 
 [^44]: The same verse as 167 (= Ādi 1.49); translation as there.
+
+[^45]: The same verse as Madhya 22.128; translation as there. Reference as in the heading of the edition here (p. 810: 238; in Madhya 22.128 the heading there gives 87).
+
+[^46]: The same verse as 85 (= Madhya 22.36); translation as there.
+
+[^47]: The same verse as 98 (= Madhya 22.40); translation as there. Numbered as in the heading of the edition (p. 811) and the *Anubhāṣya* (5.19.26); in other editions — 5.19.27.
+
+[^48]: Heading of the edition: the nature of the pure, uncovered self of the *jīva* and of the covered self; the pure “I” and the impure “I”.
+
+[^49]: The same verse as Madhya 8.275; translation as there.
+
+[^50]: The same verse as 173; translation as there.
+
+[^51]: *Anubhāṣya*: the six new ones are those who delight in the mind (159), in effort (162) and in steadfastness (168), the learned *muni* and the foolish *nirgrantha* who delight in intelligence (181), and the *ātmārāma* endowed with the nature of Kṛṣṇa’s servant (195).
