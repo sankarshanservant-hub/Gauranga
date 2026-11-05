@@ -1761,7 +1761,7 @@ these  six  yogīs  the company of sādhus and the like  the cause  obtaining
 kṛṣṇa bhaje kṛṣṇa-guṇe ākṛṣṭa hañā  
 Kṛṣṇa  worship  by Kṛṣṇa’s  qualities  attracted  becoming
 
-(155) These six kinds of yogīs, obtaining such causes as the company of sādhus, become attracted by Kṛṣṇa’s qualities and worship Kṛṣṇa.
+(155) Through the company of sādhus and other such causes, these six kinds of yogīs become attracted by Kṛṣṇa’s qualities and worship Him.
 
 চ-শব্দে ‘অপি’র অর্থ ইহাও কহয় ৷  
 ‘মুনি’, ‘নির্গ্রন্থ’-শব্দের পূর্ব্ববৎ অর্থ হয় ॥ ১৫৬ ॥
@@ -1781,7 +1781,7 @@ urukrame  ahaitukī  where  which  meaning
 ei tera artha kahilum̐ parama samartha  
 these  thirteen  meanings  I have told  most  cogent
 
-(157) The words *urukrame* and *ahaitukī* take whichever meaning fits each case. Thus I have told you thirteen most cogent meanings.
+(157) The words *urukrame* and *ahaitukī* take whichever meaning fits each case. Thus I have told you thirteen most cogent meanings.[^36]
 
 এই সব শান্ত যবে ভজে ভগবান্ ৷  
 ‘শান্ত’ ভক্ত করি’ তবে কহি তাঁর নাম ॥ ১৫৮ ॥
@@ -1817,7 +1817,7 @@ from there  rises  O Ananta  Your  abode  the head  supreme
 punar iha yat sametya na patanti kṛtānta-mukhe  
 again  here  which  having reached  not  they fall  of death  into the mouth
 
-(160) “Those of gross vision who follow the paths of the ṛṣis worship (Brahman in) the belly (*udara*); the Āruṇis worship (Brahman, the) subtle (*dahara*), in the heart, from which the channels branch out. From there, O Ananta, (the path) rises to the head, Your supreme abode; having reached it, they do not fall again into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)
+(160) “Following the paths of the ṛṣis, those of gross vision worship Brahman in the belly (*udara*), while the Āruṇis worship the subtle Brahman (*dahara*) in the heart, from which the channels branch out. From there, O Ananta, the path rises to the head, Your supreme abode; having reached it, they no longer fall into the jaws of death in this world.” (Śrīmad-Bhāgavatam, 10.87.18)
 
 এই কৃষ্ণগুণাকৃষ্ট মহামুনি হঞা ৷  
 অহৈতুকী ভক্তি করে নির্গ্রন্থ হঞা ॥ ১৬১ ॥
@@ -1855,19 +1855,19 @@ by time  everywhere  of irresistible force
 
 (163) “The wise should strive for that alone which is not obtained by those who wander through the worlds above and below. Happiness, like suffering, comes of itself everywhere, brought by time, whose course is irresistible.” (Śrīmad-Bhāgavatam, 1.5.18)
 
-অচিরাদেব সর্ব্বার্থঃ সিধ্যত্যেষামভীপ্সিতঃ ৷  
-সদ্ধর্ম্মস্যাববোধায় যেষাং নির্ব্বন্ধিনী মতিঃ ॥ ১৬৪ ॥
+সদ্ধর্ম্মস্যাববোধায় যেষাং নির্ব্বন্ধিনী মতিঃ ৷  
+অচিরাদেব সর্ব্বার্থঃ সিধ্যত্যেষামভীপ্সিতঃ ॥ ১৬৪ ॥
 
-acirād eva sarvārthaḥ  
-soon  indeed  every aim  
-sidhyaty eṣām abhīpsitaḥ  
-is fulfilled  of those  desired  
 sad-dharmasyāvabodhāya  
 of true religion  for the understanding  
 yeṣāṁ nirbandhinī matiḥ  
-of whom  persistent  the mind
+of whom  persistent  the mind  
+acirād eva sarvārthaḥ  
+soon  indeed  every aim  
+sidhyaty eṣām abhīpsitaḥ  
+is fulfilled  of those  desired
 
-(164) “Those whose minds are set with perseverance on understanding true religion soon attain every aim they desire.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 47)
+(164) “Those whose minds are set with perseverance on understanding true religion soon attain every aim they desire.” (Nārada-purāṇa; Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 103)[^37]
 
 চ শব্দে অপি-অর্থে, ‘অপি’ — অবধারণে ৷  
 যত্নাগ্রহ বিনা ভক্তি না জন্মায় প্রেমে ॥ ১৬৫ ॥
@@ -1905,7 +1905,7 @@ I give  understanding  that
 yena mām upayānti te  
 by which  to Me  come  they
 
-(167) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)
+(167) “To those who are ever devoted to Me and worship Me with love, I give the understanding that brings them to Me.” (Bhagavad-gītā, 10.10)[^38]
 
 ‘আত্মা’-শব্দে ‘ধৃতি’ কহে, — ধৈর্য্যে যেই রমে ৷  
 ধৈর্য্যবন্ত হঞা তবে করয় ভজনে ॥ ১৬৮ ॥
@@ -2758,3 +2758,9 @@ the hunter  said  what  you say  that  indeed  certain
 [^34]: The first two lines of the earlier text form a single line in the edition (p. 804); the source is given as in the heading of the edition (*Viśva-prakāśa*). *Rāmāḥ* is the plural (“the Rāmas”).
 
 [^35]: The edition (p. 804) reads নিগর্ভ (so also in the heading and in the commentaries, pp. 804–806), i.e. *nirgarbha*, “without support”; the translation follows the commentaries. *Anubhāṣya*: *sagarbha* yogīs rely on meditation on the form of the one they worship; *nirgarbha* yogīs are given to meditation on the void and have no support; the six divisions are *sagarbha* and *nirgarbha* among those aspiring to yoga (*yogārurukṣu*), those established in yoga (*yogārūḍha*) and those who have attained perfection (*prāpta-siddhi*).
+
+[^36]: Heading of the edition: “These are the thirteen meanings.” *Anubhāṣya*: they are the *sādhaka*, the *brahmamaya*, the *prāpta-brahma-laya*, the *mumukṣu*, the *jīvan-mukta* and the *prāpta-svarūpa* — the six kinds of *ātmārāmas*; the *nirgrantha muni*; and the *sagarbha* and *nirgarbha* yogīs of the three stages — those aspiring to yoga, those established in it and those who have attained perfection.
+
+[^37]: The same verse as Madhya 20.106; translation as there. In the edition (p. 807) the two lines of the verse are printed in reverse order (“সদ্ধর্ম্মস্যাববোধায়…” first; in Madhya 20.106 and in the *Bhakti-rasāmṛta-sindhu* it is the second line); the Bengali, transliteration and word-for-word follow the edition. Reference as in the heading of the edition: second *laharī*, 103 (in Madhya 20.106 the heading there gives 47).
+
+[^38]: The same verse as Ādi 1.49; translation as there.
