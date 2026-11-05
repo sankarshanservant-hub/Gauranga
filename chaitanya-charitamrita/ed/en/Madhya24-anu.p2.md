@@ -210,6 +210,60 @@ In another reading: “Giving up everything, he serves Kṛṣṇa's feet with p
 
 **aham** (Kṛṣṇa) **sarvasya** (of Brahmā, Rudra and the whole manifest world) **prabhavaḥ** (the cause, the source of birth); **mattaḥ** (since I am the cause of all causes) **sarvam** (everything) **pravartate** (acts in dependence on Me) — **iti** **matvā** **budhāḥ** (those who know the taste of Kṛṣṇa) **bhāva-samanvitāḥ** (endowed with *premā*) **mām** **bhajante**.
 
+## 184
+
+> Subheading: By the mercy of devotees, following the path of the Śrutis, even low castes and animals are freed from Māyā —
+
+Brahmā told his disciple Nārada of the deeds, purposes and glories of the *līlā-avatāras* of Bhagavān Viṣṇu, and named the devotees of high birth who surrendered to Him and were freed from His insurmountable Māyā. Now he speaks of how even people of low birth are fit to attain liberation on the path of the Śrutis:
+
+**yadi** **strī-śūdra-hūṇa-śabarāḥ** **pāpa-jīvāḥ** (born in sinful castes), **tathā** **tiryak-janāḥ** **api** **adbhuta-krama-parāyaṇa-śīla-śikṣāḥ** (*adbhuta*, causing wonder; *krama*, the steps of the feet; Hari, whose steps are such; *parāyaṇa*, those devoted to Him, Hari's servants; those who learn from their *śīla*, their nature — that is, if, becoming disciples of pure devotees, they have their character formed in the company of Kṛṣṇa's devotees; if they are such), **te** **api** **deva-māyām** **vai** **vidanti** (come to know) **atitaranti** (cross over) **ca**, (then) **ye** (the devotees) **śruta-dhāraṇāḥ** (those who, by the path of the Śrutis, hold in their hearts the truth they have heard about Bhagavān's name, form, qualities, pastimes and so on), (of them) **kim u** (what more need be said?) — that is, they certainly come to know Māyā and cross over it.
+
+## 185
+
+> Subheading: Kṛṣṇa is attained only by serving Him with good intelligence, discerning the eternal from the temporary —
+
+## 186
+
+See Ādi 1.49.
+
+## 187
+
+> Subheading: The five best kinds of spiritual practice (*sādhana*) —
+
+The company of Kṛṣṇa's devotees, service to Kṛṣṇa, the *Śrīmad-Bhāgavatam* — the embodiment of narrations about Kṛṣṇa — the name of Kṛṣṇa, and residence in Vraja, Kṛṣṇa's abode: these five are the chief *sādhanas*.
+
+## 188
+
+> Subheading: Love for Kṛṣṇa comes even from the slightest practice of one of the five *sādhanas* —
+
+## 189
+
+See Madhya 22.129.
+
+## 190
+
+> Subheading: Even one full of *anarthas* and selfish desires constantly serves Kṛṣṇa because of good intelligence; as the fruit of this service he gives up desires, serves selflessly and attains perfection. Yet even so, devotion with selfish desires is not the “cause” of selfless service —
+
+## 191
+
+See Madhya 22.36.
+
+## 192
+
+> Subheading: By the power of constant service, desires, or *anarthas*, cease, and pure service is attained —
+
+## 193
+
+See Madhya 22.40.
+
+## 194
+
+> Subheading: The explanation by (7) the meaning “nature” of the word *ātmā* within the word *ātmārāmāḥ* —
+
+## 195
+
+> Subheading: The nature of the *jīva*'s pure, uncovered self and of the covered self; the pure “I” and the impure “I” —
+
 ---
 
 [^160-1]: The hymn of the personified Vedas (Śrutis), *Śrīmad-Bhāgavatam*, Canto 10, Chapter 87.

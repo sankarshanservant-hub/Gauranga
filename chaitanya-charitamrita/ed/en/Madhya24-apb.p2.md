@@ -70,6 +70,10 @@ In this world where every living being is unsteady, that is, in transient *saṁ
 
 Women, *śūdras*, Hūṇas, Śabaras and other sinful beings, and even beings of animal species — birds and others — receive instruction from those wholly devoted to Adbhuta-krama (Bhagavān Śrī Urukrama), that is, they follow the conduct of pure devotees and themselves become devotees of Bhagavān. Then they are delivered from (insurmountable, divine) Māyā. What, then, to speak of those who follow the path of the Śrutis?
 
+## 187
+
+“*Bhāgavata*” and “*nāma*” are the *Śrīmad-Bhāgavatam* and the name of Śrī Kṛṣṇa.
+
 ---
 
 [^139-1]: The edition reads “six *prabhāvas*” (“manifestations”), apparently for “six *prakāras*” (kinds); checked against the scan.
