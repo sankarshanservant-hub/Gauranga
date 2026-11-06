@@ -1413,6 +1413,1363 @@ very soon  you will attain  then  Kṛṣṇa’s  feet
 
 (136) Chant the name constantly and serve Tulasī. Then you will very soon attain the feet of Kṛṣṇa.”
 
+এত বলি’ তারে ‘নাম’ উপদেশ করি’ ৷  
+উঠিয়া চলিলা ঠাকুর বলি’ ‘হরি’ ‘হরি’ ॥ ১৩৭ ॥
+
+eta bali’ tāre ‘nāma’ upadeśa kari’  
+this  having said  her  in ‘the name’  instruction  having given  
+uṭhiyā calilā ṭhākura bali’ ‘hari’ ‘hari’  
+rising  departed  the Ṭhākura  saying  ‘Hari’  ‘Hari’
+
+(137) Saying this, he instructed her in chanting the name. Then the Ṭhākura rose and departed, calling, “Hari! Hari!”
+
+তবে সেই বেশ্যা গুরুর আজ্ঞা লইল ৷  
+গৃহবিত্ত যেবা ছিল, ব্রাহ্মণেরে দিল ॥ ১৩৮ ॥
+
+tabe sei veśyā gurura ājñā laila  
+then  that  prostitute  of her guru  the order  accepted  
+gṛha-vitta yebā chila, brāhmaṇere dila  
+household wealth  whatever  there was  to the brāhmaṇas  gave
+
+(138) Then the prostitute accepted her guru’s order and gave to the brāhmaṇas whatever wealth she had in her house.
+
+মাথা মুড়ি’ একবস্ত্রে রহিল সেই ঘরে ৷  
+রাত্রি-দিনে তিন-লক্ষ নাম গ্রহণ করে ॥ ১৩৯ ॥
+
+māthā muḍi’ eka-vastre rahila sei ghare  
+her head  having shaved  in a single cloth  stayed  in that  hut  
+rātri-dine tina-lakṣa nāma grahaṇa kare  
+night and day  three hundred thousand  names  taking  does
+
+(139) She shaved her head and stayed in that hut with a single cloth, chanting three hundred thousand names day and night.
+
+তুলসী সেবন করে, চর্ব্বণ, উপবাস ৷  
+ইন্দ্রিয়-দমন হৈল, প্রেমের প্রকাশ ॥ ১৪০ ॥
+
+tulasī sevana kare, carvaṇa, upavāsa  
+Tulasī  service  does  eating sparingly  fasting  
+indriya-damana haila, premera prakāśa  
+of the senses  control  came about  of love  the manifestation
+
+(140) She served Tulasī, ate sparingly or fasted. Her senses were subdued, and love (prema) appeared in her.
+
+প্রসিদ্ধা বৈষ্ণবী হৈল পরম-মহান্তী ৷  
+বড় বড় বৈষ্ণব তাঁর দর্শনেতে যান্তি ॥ ১৪১ ॥
+
+prasiddhā vaiṣṇavī haila parama-mahāntī  
+renowned  a Vaiṣṇavī  became  most  exalted  
+baḍa baḍa vaiṣṇava tām̐ra darśanete yānti  
+great  great  Vaiṣṇavas  her  to see  would go
+
+(141) She became a renowned and most exalted Vaiṣṇavī, and great Vaiṣṇavas would go to see her.
+
+বেশ্যার চরিত্র দেখি’ লোকে চমৎকার ৷  
+হরিদাসের মহিমা কহে করি’ নমস্কার ॥ ১৪২ ॥
+
+veśyāra caritra dekhi’ loke camatkāra  
+of the prostitute  the conduct  seeing  the people  amazed  
+haridāsera mahimā kahe kari’ namaskāra  
+of Haridāsa  the glory  speak  making  obeisance
+
+(142) Seeing the conduct of the former prostitute, people were amazed, and bowing down, they spoke of Haridāsa’s glory.
+
+রামচন্দ্র-খাঁন অপরাধ-বীজ কৈল ৷  
+সেই বীজ বৃক্ষ হঞা আগেতে ফলিল ॥ ১৪৩ ॥
+
+rāmacandra-khām̐na aparādha-bīja kaila  
+Rāmacandra Khān  of an offence  a seed  sowed  
+sei bīja vṛkṣa hañā āgete phalila  
+that  seed  a tree  becoming  later  bore fruit
+
+(143) Rāmacandra Khān sowed the seed of an offence; that seed grew into a tree and later bore its fruit.
+
+মহদপরাধের ফল অদ্ভুত কথন ৷  
+প্রস্তাব পাঞা কহি, শুন, ভক্তগণ ॥ ১৪৪ ॥
+
+mahad-aparādhera phala adbhuta kathana  
+of a great offence  the fruit  a wonderful  account  
+prastāva pāñā kahi, śuna, bhakta-gaṇa  
+the occasion  having found  I tell  listen  O devotees
+
+(144) The fruit of an offence against a great soul makes a wonderful account. Since the occasion has come, I shall tell it; listen, O devotees.
+
+সহজেই অবৈষ্ণব রামচন্দ্র-খাঁন ৷  
+হরিদাসের অপরাধে হৈল অসুর-সমান ॥ ১৪৫ ॥
+
+sahajei avaiṣṇava rāmacandra-khām̐na  
+by nature  a non-Vaiṣṇava  Rāmacandra Khān  
+haridāsera aparādhe haila asura-samāna  
+of Haridāsa  by the offence  became  like a demon
+
+(145) Rāmacandra Khān was by nature no Vaiṣṇava, and by his offence against Haridāsa he became like a demon.
+
+বৈষ্ণবধর্ম্ম নিন্দা করে, বৈষ্ণব-অপমান ৷  
+বহুদিনের অপরাধে পাইল পরিণাম ॥ ১৪৬ ॥
+
+vaiṣṇava-dharma nindā kare, vaiṣṇava-apamāna  
+the religion of the Vaiṣṇavas  blasphemy  makes  of the Vaiṣṇavas  insult  
+bahu-dinera aparādhe pāila pariṇāma  
+of many days  by the offences  received  the consequence
+
+(146) He reviled the religion of the Vaiṣṇavas and insulted the Vaiṣṇavas, and for the offences of many days he received the consequence.
+
+নিত্যানন্দ-গোসাঞি গৌড়ে যবে আইলা ৷  
+প্রেম প্রচারিতে তবে ভ্রমিতে লাগিলা ॥ ১৪৭ ॥
+
+nityānanda-gosāñi gauḍe yabe āilā  
+Nityānanda  Gosāñi  to Gauḍa  when  came  
+prema pracārite tabe bhramite lāgilā  
+love  to preach  then  to travel  began
+
+(147) When Nityānanda Gosāñi came to Gauḍa, He began to travel about, preaching love of God.
+
+প্রেম-প্রচারণ আর পাষণ্ডদলন ৷  
+দুইকার্য্যে অবধূত করেন ভ্রমণ ॥ ১৪৮ ॥
+
+prema-pracāraṇa āra pāṣaṇḍa-dalana  
+the preaching of love  and  of the unbelievers  the crushing  
+dui-kārye avadhūta karena bhramaṇa  
+for these two tasks  the Avadhūta  makes  wandering
+
+(148) To preach love and to crush the unbelievers — for these two tasks the Avadhūta wandered.
+
+সর্ব্বজ্ঞ নিত্যানন্দ আইলা তার ঘরে ৷  
+আসিয়া বসিলা দুর্গামণ্ডপ-উপরে ॥ ১৪৯ ॥
+
+sarvajña nityānanda āilā tāra ghare  
+all-knowing  Nityānanda  came  to his  house  
+āsiyā vasilā durgā-maṇḍapa-upare  
+having come  sat down  of Durgā  the maṇḍapa  upon
+
+(149) The all-knowing Nityānanda came to his house and sat down on the *durgā-maṇḍapa*, the pavilion for the worship of Durgā.
+
+অনেক লোকজন সঙ্গে অঙ্গন ভরিল ৷  
+ভিতর হৈতে রামচন্দ্র সেবক পাঠাইল ॥ ১৫০ ॥
+
+aneka loka-jana saṅge aṅgana bharila  
+many  people  with (Him)  the courtyard  filled  
+bhitara haite rāmacandra sevaka pāṭhāila  
+inside  from  Rāmacandra  a servant  sent
+
+(150) The many people with Him filled the courtyard, and from inside the house Rāmacandra sent a servant.
+
+সেবক বলে — গোসাঞি, মোরে পাঠাইল খাঁন ৷  
+গৃহস্থের ঘরে তোমায় দিমু বাসাস্থান ॥ ১৫১ ॥
+
+sevaka bale — gosāñi, more pāṭhāila khām̐na  
+the servant  says  —  Gosāñi  me  has sent  the Khān  
+gṛhasthera ghare tomāya dimu vāsā-sthāna  
+of a householder  in the house  to You  I shall give  a lodging place
+
+(151) The servant said, “Gosāñi, the Khān has sent me. I shall give You lodging in a householder’s house.
+
+গোয়ালার গোশালা হয় অত্যন্ত বিস্তার ৷  
+ইহাঁ সঙ্কীর্ণ-স্থল, তোমার মনুষ্য — অপার ॥ ১৫২ ॥
+
+goyālāra gośālā haya atyanta vistāra  
+of a cowherd  the cowshed  is  very  spacious  
+ihām̐ saṅkīrṇa-sthala, tomāra manuṣya — apāra  
+here  a narrow place  Your  people  —  countless
+
+(152) A cowherd’s cowshed is very spacious, but this place is narrow, and Your people are countless.”
+
+ভিতরে আছিলা, শুনি’ ক্রোধে বাহিরিলা ৷  
+অট্ট অট্ট হাসি’ গোসাঞি কহিতে লাগিলা ॥ ১৫৩ ॥
+
+bhitare āchilā, śuni’ krodhe bāhirilā  
+inside  He was  hearing  in anger  came out  
+aṭṭa aṭṭa hāsi’ gosāñi kahite lāgilā  
+loud  loud  laughing  Gosāñi  to speak  began
+
+(153) Gosāñi had been sitting within. Hearing this, He came out in anger and, laughing loudly, began to speak:
+
+সত্য কহে, — এই ঘর মোর যোগ্য নয় ৷  
+ম্লেচ্ছ গো-বধ করে, তার যোগ্য হয় ॥ ১৫৪ ॥
+
+satya kahe, — ei ghara mora yogya naya  
+the truth  he speaks  —  this  house  for Me  fit  is not  
+mleccha go-vadha kare, tāra yogya haya  
+the mlecchas  cow-slaughter  do  for them  fit  it is
+
+(154) “He speaks the truth: this house is not fit for Me. It is fit for the *mlecchas*, who slaughter cows.”
+
+এত বলি’ ক্রোধে গোসাঞি উঠিয়া চলিলা ৷  
+তারে দণ্ড দিতে সে গ্রামে না রহিলা ॥ ১৫৫ ॥
+
+eta bali’ krodhe gosāñi uṭhiyā calilā  
+this  having said  in anger  Gosāñi  rising  departed  
+tāre daṇḍa dite se grāme nā rahilā  
+him  punishment  to give  in that  village  not  stayed
+
+(155) Saying this, Gosāñi rose in anger and left. To punish him, He did not stay in that village.
+
+ইহাঁ রামচন্দ্র-খাঁন সেবকে আজ্ঞা দিল ৷  
+গোসাঞি যাঁহা বসিলা, তার মাটী খোদাইল ॥ ১৫৬ ॥
+
+ihām̐ rāmacandra-khām̐na sevake ājñā dila  
+here  Rāmacandra Khān  to a servant  an order  gave  
+gosāñi yām̐hā vasilā, tāra māṭī khodāila  
+Gosāñi  where  had sat  of that place  the earth  had dug up
+
+(156) Meanwhile Rāmacandra Khān ordered a servant to dig up the earth where Gosāñi had sat.
+
+গোময়-জলে লেপিলা সব মন্দির-প্রাঙ্গণ ৷  
+তবু রামচন্দ্রের মন না হৈল পরসন্ন ॥ ১৫৭ ॥
+
+gomaya-jale lepilā saba mandira-prāṅgaṇa  
+with cow-dung water  smeared  all  the temple and courtyard  
+tabu rāmacandrera mana nā haila parasanna  
+still  Rāmacandra’s  mind  not  became  satisfied
+
+(157) He had the whole temple and courtyard smeared with cow-dung water, yet Rāmacandra’s mind was still not satisfied.
+
+দস্যুবৃত্তি করে রামচন্দ্র রাজারে না দেয় কর ৷  
+ক্রুদ্ধ হঞা ম্লেচ্ছ উজির আইল তার ঘর ॥ ১৫৮ ॥
+
+dasyu-vṛtti kare rāmacandra rājāre nā deya kara  
+a robber’s way of life  follows  Rāmacandra  to the king  not  gives  tax  
+kruddha hañā mleccha ujira āila tāra ghara  
+angry  becoming  the mleccha  minister  came  to his  house
+
+(158) Rāmacandra lived like a robber and did not pay the king his taxes. Angered, the *mleccha* minister came to his house.
+
+আসি’ সেই দুর্গামণ্ডপে বাসা কৈল ৷  
+‘অবধ্য’ বধ করি’ ঘরে মাংস রান্ধিল ॥ ১৫৯ ॥
+
+āsi’ sei durgā-maṇḍape vāsā kaila  
+coming  in that  Durgā  maṇḍapa  lodging  made  
+‘avadhya’ vadha kari’ ghare māṁsa rāndhila  
+‘what must not be killed’  slaying  in the house  meat  cooked
+
+(159) Coming there, he lodged in that very *durgā-maṇḍapa*; he slaughtered what must never be killed and cooked its meat in the house.
+
+স্ত্রী-পুত্র-সহিত রামচন্দ্রেরে বান্ধিয়া ৷  
+তার ঘর-গ্রাম লুটে তিনদিন রহিয়া ॥ ১৬০ ॥
+
+strī-putra-sahita rāmacandrere bāndhiyā  
+wife  sons  together with  Rāmacandra  binding  
+tāra ghara-grāma luṭe tina-dina rahiyā  
+his  house and village  plunders  three days  staying
+
+(160) He bound Rāmacandra together with his wife and sons, and staying three days, he plundered his house and village.
+
+সেই ঘরে তিন দিন অমেধ্য রন্ধন ৷  
+আর দিন সবা লঞা করিলা গমন ॥ ১৬১ ॥
+
+sei ghare tina dina amedhya randhana  
+in that  house  three  days  unclean (food)  cooking  
+āra dina sabā lañā karilā gamana  
+the next  day  all  taking  made  departure
+
+(161) For three days he cooked unclean food in that house, and on the next day he left, taking them all with him.
+
+জাতি-ধন-জন খাঁনের সকল লইল ৷  
+বহুদিন পর্য্যন্ত গ্রাম উজাড় রহিল ॥ ১৬২ ॥
+
+jāti-dhana-jana khām̐nera sakala laila  
+caste  wealth  people  of the Khān  all  he took  
+bahu-dina paryanta grāma ujāḍa rahila  
+many days  for  the village  desolate  remained
+
+(162) He took everything from the Khān — his caste, his wealth and his people — and the village lay desolate for many days.
+
+মহান্তের অপমান যে দেশ-গ্রামে হয় ৷  
+এক জনার দোষে সব দেশ উজাড়য় ॥ ১৬৩ ॥
+
+mahāntera apamāna ye deśa-grāme haya  
+of a great soul  dishonour  in which  land or village  happens  
+eka janāra doṣe saba deśa ujāḍaya  
+of one  person  for the fault  the whole  land  is laid waste
+
+(163) Wherever a great soul is dishonoured, in a land or a village, the whole land is laid waste for the fault of a single person.
+
+হরিদাস-ঠাকুর চলি’ আইলা চান্দপুরে ৷  
+আসিয়া রহিলা বলরাম-আচার্য্যের ঘরে ॥ ১৬৪ ॥
+
+haridāsa-ṭhākura cali’ āilā cāndapure  
+Haridāsa Ṭhākura  walking  came  to Cā̃dapura  
+āsiyā rahilā balarāma-ācāryera ghare  
+coming  stayed  of Balarāma Ācārya  in the house
+
+(164) Walking on, Haridāsa Ṭhākura came to Cā̃dapura and stayed in the house of Balarāma Ācārya.
+
+হিরণ্য, গোবর্দ্ধন — মুলুকের মজুমদার ৷  
+তার পুরোহিত — ‘বলরাম’ নাম তাঁর ॥ ১৬৫ ॥
+
+hiraṇya, govardhana — mulukera majumadāra  
+Hiraṇya  Govardhana  —  of the district  the Majumadāras  
+tāra purohita — ‘balarāma’ nāma tām̐ra  
+their  priest  —  ‘Balarāma’  the name  his
+
+(165) Hiraṇya and Govardhana were the Majumadāras, the keepers of the revenue accounts, of the district, and their priest was named Balarāma.
+
+হরিদাসের কৃপাপাত্র, তাতে ভক্তিমানে ৷  
+যত্ন করি’ ঠাকুরেরে রাখিলা সেই গ্রামে ॥ ১৬৬ ॥
+
+haridāsera kṛpā-pātra, tāte bhakti-māne  
+of Haridāsa  a recipient of mercy  therefore  with devotion and respect  
+yatna kari’ ṭhākurere rākhilā sei grāme  
+with care  the Ṭhākura  kept  in that  village
+
+(166) He had received Haridāsa’s mercy, and so, with devotion and respect, he carefully kept the Ṭhākura in that village.
+
+নির্জ্জন পর্ণশালায় করেন কীর্ত্তন ৷  
+বলরাম-আচার্য্য-গৃহে ভিক্ষা-নির্ব্বাহণ ॥ ১৬৭ ॥
+
+nirjana parṇa-śālāya karena kīrtana  
+in a solitary  leaf  hut  does  kīrtana  
+balarāma-ācārya-gṛhe bhikṣā-nirvāhaṇa  
+in Balarāma Ācārya’s  house  alms  receiving
+
+(167) He chanted in a solitary hut of leaves and took his alms (*bhikṣā*) at Balarāma Ācārya’s house.
+
+রঘুনাথ দাস বালক করেন অধ্যয়ন ৷  
+হরিদাস-ঠাকুরেরে যাই’ করেন দর্শন ॥ ১৬৮ ॥
+
+raghunātha dāsa bālaka karena adhyayana  
+Raghunātha  dāsa  a boy  does  study  
+haridāsa-ṭhākurere yāi’ karena darśana  
+Haridāsa Ṭhākura  going  does  seeing
+
+(168) Raghunātha dāsa, then a boy at his studies, would go to see Haridāsa Ṭhākura.
+
+হরিদাস কৃপা করেন তাঁহার উপরে ৷  
+সেই কৃপা ‘কারণ’ হৈল চৈতন্য পাইবারে ॥ ১৬৯ ॥
+
+haridāsa kṛpā karena tām̐hāra upare  
+Haridāsa  mercy  shows  him  upon  
+sei kṛpā ‘kāraṇa’ haila caitanya pāibāre  
+that  mercy  the cause  became  Caitanya  for attaining
+
+(169) Haridāsa bestowed his mercy upon him, and that mercy became the cause of his attaining Caitanya.
+
+তাঁহা যৈছে হৈল হরিদাসের কথন ৷  
+ব্যাখ্যান, — অদ্ভুত কথা শুন, ভক্তগণ ॥ ১৭০ ॥
+
+tām̐hā yaiche haila haridāsera kathana  
+there  how  took place  about Haridāsa  the discussion  
+vyākhyāna, — adbhuta kathā śuna, bhakta-gaṇa  
+the account  —  wonderful  story  listen  O devotees
+
+(170) Listen, O devotees, to the wonderful account of the discussion about Haridāsa that took place there.
+
+একদিন বলরাম মিনতি করিয়া ৷  
+মজুমদারের সভায় আইলা ঠাকুরে লঞা ॥ ১৭১ ॥
+
+eka-dina balarāma minati kariyā  
+one day  Balarāma  entreaty  making  
+majumadārera sabhāya āilā ṭhākure lañā  
+of the Majumadāras  to the assembly  came  the Ṭhākura  bringing
+
+(171) One day, after humbly entreating him, Balarāma brought the Ṭhākura to the assembly of the Majumadāras.
+
+ঠাকুর দেখি’ দুই ভাই কৈলা অভ্যুত্থান ৷  
+পায় পড়ি’ আসন দিলা করিয়া সম্মান ॥ ১৭২ ॥
+
+ṭhākura dekhi’ dui bhāi kailā abhyutthāna  
+the Ṭhākura  seeing  the two  brothers  made  rising (to greet)  
+pāya paḍi’ āsana dilā kariyā sammāna  
+at his feet  falling  a seat  gave  showing  respect
+
+(172) Seeing the Ṭhākura, the two brothers rose to greet him; they fell at his feet and respectfully offered him a seat.
+
+অনেক পণ্ডিত সভায়, ব্রাহ্মণ, সজ্জন ৷  
+দুই ভাই মহাপণ্ডিত — হিরণ্য, গোবর্দ্ধন ॥ ১৭৩ ॥
+
+aneka paṇḍita sabhāya, brāhmaṇa, sajjana  
+many  scholars  in the assembly  brāhmaṇas  gentlemen  
+dui bhāi mahā-paṇḍita — hiraṇya, govardhana  
+the two  brothers  great scholars  —  Hiraṇya  Govardhana
+
+(173) In the assembly were many scholars, brāhmaṇas and gentlemen, and the two brothers, Hiraṇya and Govardhana, were themselves great scholars.
+
+হরিদাসের গুণ সবে কহে পঞ্চ মুখে ৷  
+শুনিয়া ত’ দুই ভাই পাইলা বড় সুখে ॥ ১৭৪ ॥
+
+haridāsera guṇa sabe kahe pañca mukhe  
+of Haridāsa  the virtues  all  speak  with five  mouths  
+śuniyā ta’ dui bhāi pāilā baḍa sukhe  
+hearing  indeed  the two  brothers  felt  great  happiness
+
+(174) Everyone praised Haridāsa’s virtues as if with five mouths, and hearing this, the two brothers were very happy.
+
+তিন-লক্ষ নাম ঠাকুর করেন কীর্ত্তন ৷  
+নামের মহিমা উঠাইল পণ্ডিতগণ ॥ ১৭৫ ॥
+
+tina-lakṣa nāma ṭhākura karena kīrtana  
+three hundred thousand  names  the Ṭhākura  does  chant  
+nāmera mahimā uṭhāila paṇḍita-gaṇa  
+of the name  the glory  raised  the scholars
+
+(175) The Ṭhākura chanted three hundred thousand names, and so the scholars raised the subject of the glory of the name.
+
+কেহ বলে, — নাম হৈতে হয় পাপক্ষয় ৷  
+কেহ বলে, — নাম হৈতে জীবের মোক্ষ হয় ॥ ১৭৬ ॥
+
+keha bale, — nāma haite haya pāpa-kṣaya  
+someone  says  —  the name  from  comes  the destruction of sins  
+keha bale, — nāma haite jīvera mokṣa haya  
+someone  says  —  the name  from  of the jīva  liberation  comes
+
+(176) One said, “From the name comes the destruction of sins.” Another said, “From the name the soul attains liberation.”
+
+হরিদাস কহেন, — নামের এই দুই ফল নয় ৷  
+নামের ফলে কৃষ্ণপদে প্রেম উপজয় ॥ ১৭৭ ॥
+
+haridāsa kahena, — nāmera ei dui phala naya  
+Haridāsa  says  —  of the name  these  two  fruits  are not  
+nāmera phale kṛṣṇa-pade prema upajaya  
+of the name  as the fruit  for Kṛṣṇa’s feet  love  arises
+
+(177) Haridāsa said, “These two are not the fruit of the name. The fruit of the name is that love for Kṛṣṇa’s feet arises.
+
+এবংব্রতঃ স্বপ্রিয়নামকীর্ত্ত্যা-  
+জাতানুরাগো দ্রুতচিত্ত উচ্চৈঃ ৷  
+হসত্যথো রোদিতি রৌতি গায়-  
+ত্যুন্মাদবন্নৃত্যতি লোকবাহ্যঃ ॥ ১৭৮ ॥
+
+evaṁ-vrataḥ sva-priya-nāma-kīrtyā  
+one with such a vow  by the chanting of the names of his beloved  
+jātānurāgo druta-citta uccaiḥ  
+in whom love has arisen  with melted heart  loudly  
+hasaty atho roditi rauti gāyaty  
+laughs  then  weeps  cries out  sings  
+unmāda-van nṛtyati loka-bāhyaḥ  
+like a madman  dances  beyond the world
+
+(178) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+
+আনুষঙ্গিক ফল নামের — ‘মুক্তি’, ‘পাপনাশ’ ৷  
+তাহার দৃষ্টান্ত যৈছে সূর্য্যের প্রকাশ ॥ ১৭৯ ॥
+
+ānuṣaṅgika phala nāmera — ‘mukti’, ‘pāpa-nāśa’  
+incidental  fruits  of the name  —  ‘liberation’  ‘the destruction of sin’  
+tāhāra dṛṣṭānta yaiche sūryera prakāśa  
+of that  the example  as  of the sun  the shining
+
+(179) Liberation and the destruction of sin are only incidental fruits of the name. The example is the light of the sun.
+
+অংহঃ সংহরদখিলং সকৃদুদয়াদেব সকল-লোকস্য ৷  
+তরণিরিব তিমিরজলধিং জয়তি  
+জগন্মঙ্গলং হরের্নাম ॥ ১৮০ ॥
+
+aṁhaḥ saṁharad akhilaṁ sakṛd  
+sin  destroying  all  once  
+udayād eva sakala-lokasya  
+by rising  merely  of all people  
+taraṇir iva timira-jaladhiṁ  
+the sun  like  the ocean of darkness  
+jayati jagan-maṅgalaṁ harer nāma  
+is victorious  the blessing of the world  of Hari  the name
+
+(180) “As the sun, merely by rising, dispels an ocean of darkness, so the name of Hari, rising even once, destroys all the sins of all people. All glory to that name of Hari, the blessing of the world!” (Padyāvalī, 16)
+
+এই শ্লোকের অর্থ কর পণ্ডিতের গণ ৷  
+সবে কহে, — তুমি কহ অর্থ-বিবরণ ॥ ১৮১ ॥
+
+ei ślokera artha kara paṇḍitera gaṇa  
+of this  verse  the meaning  explain  O scholars  
+sabe kahe, — tumi kaha artha-vivaraṇa  
+all  say  —  you  tell  of the meaning  the explanation
+
+(181) O scholars, explain the meaning of this verse.” They all said, “You explain its meaning.”
+
+হরিদাস কহেন, — যৈছে সূর্য্যের উদয় ৷  
+উদয় না হৈতে আরম্ভ তমের হয় ক্ষয় ॥ ১৮২ ॥
+
+চৌর-প্রেত-রাক্ষসাদির ভয় হয় নাশ ৷  
+উদয় হৈলে ধর্ম্ম-কর্ম্ম-আদি পরকাশ ॥ ১৮৩ ॥
+
+haridāsa kahena, — yaiche sūryera udaya  
+Haridāsa  says  —  as  of the sun  the rising  
+udaya nā haite ārambha tamera haya kṣaya  
+the rising  not  having happened  from the start  of darkness  comes  destruction  
+caura-preta-rākṣasādira bhaya haya nāśa  
+of thieves  ghosts  Rākṣasas and the like  the fear  comes  to an end  
+udaya haile dharma-karma-ādi parakāśa  
+rising  when it has happened  religious duties  works  and so on  are manifest
+
+(182–183) Haridāsa said, “When the sun rises, darkness begins to vanish even before it has risen, and the fear of thieves, ghosts, Rākṣasas and the like comes to an end. When it has risen, religious duties, works and all else come to light.
+
+ঐছে নামোদয়ারম্ভে পাপ-আদির ক্ষয় ৷  
+উদয় কৈলে কৃষ্ণপদে হয় প্রেমোদয় ॥ ১৮৪ ॥
+
+aiche nāmodayārambhe pāpa-ādira kṣaya  
+so  at the start of the name’s rising  of sins and the like  the destruction  
+udaya kaile kṛṣṇa-pade haya premodaya  
+rising  when it has done  for Kṛṣṇa’s feet  comes  the dawning of love
+
+(184) In the same way, as the name begins to rise, sins and the like are destroyed; when it has risen, love for Kṛṣṇa’s feet dawns.
+
+‘মুক্তি’ তুচ্ছ-ফল হয় নামাভাস হৈতে ৷  
+যে মুক্তি ভক্ত না লয়, সে কৃষ্ণ চাহে দিতে ॥ ১৮৫ ॥
+
+‘mukti’ tuccha-phala haya nāmābhāsa haite  
+‘liberation’  a trifling fruit  is  the semblance of the name  from  
+ye mukti bhakta nā laya, se kṛṣṇa cāhe dite  
+that  liberation  the devotee  not  accepts  that  Kṛṣṇa  wishes  to give
+
+(185) Liberation is a trifling fruit that comes from the mere semblance of the name (*nāmābhāsa*). Kṛṣṇa wishes to give that liberation, but His devotee does not accept it.
+
+ম্রিয়মাণো হরের্নাম গৃণন্ পুত্রোপচারিতম্ ৷  
+অজামিলোঽপ্যগাদ্ধাম কিমুত শ্রদ্ধয়া গৃণন্ ॥ ১৮৬ ॥
+
+mriyamāṇo harer nāma  
+dying  of Hari  the name  
+gṛṇan putropacāritam  
+uttering  addressed to his son  
+ajāmilo ’py agād dhāma  
+Ajāmila  even  went  to the abode  
+kim uta śraddhayā gṛṇan  
+what then  with faith  uttering
+
+(186) “Even Ajāmila, who uttered the name of Hari at the moment of death while calling his son, went to the Lord’s abode. What then of one who chants it with faith?” (Śrīmad-Bhāgavatam, 6.2.49)
+
+সালোক্য-সার্ষ্টি-সামীপ্য-সারূপ্যৈকত্বমপ্যুত ৷  
+দীয়মানং ন গৃহ্ণন্তি বিনা মৎসেবনং জনাঃ ॥ ১৮৭ ॥
+
+sālokya-sārṣṭi-sāmīpya-  
+residence in My world  equal opulence  nearness  
+sārūpyaikatvam apy uta  
+likeness of form  oneness  even  and  
+dīyamānaṁ na gṛhṇanti  
+being given  not  accept  
+vinā mat-sevanaṁ janāḥ  
+without  My service  the people
+
+(187) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)
+
+‘গোপাল-চক্রবর্ত্তী’ নাম একজন ৷  
+মজুমদারের ঘরে সেই আরিন্দা প্রধান ॥ ১৮৮ ॥
+
+‘gopāla-cakravartī’ nāma eka-jana  
+‘Gopāla Cakravartī’  by name  one  person  
+majumadārera ghare sei ārindā pradhāna  
+of the Majumadāras  in the house  he  tax collector  chief
+
+(188) There was a man named Gopāla Cakravartī, the chief tax collector (*ārindā*) of the Majumadāras’ house.
+
+গৌড়ে রহি’ পাৎসাহা-আগে আরিন্দাগিরি করে ৷  
+বার-লক্ষ মুদ্রা সেই পাৎসাহারে ভরে ॥ ১৮৯ ॥
+
+gauḍe rahi’ pātsāhā-āge ārindā-giri kare  
+in Gauḍa  staying  before the Pātsāhā  the work of tax collector  does  
+bāra-lakṣa mudrā sei pātsāhāre bhare  
+twelve lakhs  of coins  he  to the Pātsāhā  pays
+
+(189) Living in Gauḍa, he worked as tax collector for the Pātsāhā and paid twelve lakhs (1,200,000) of coins to the Pātsāhā.
+
+পরম-সুন্দর, পণ্ডিত, নূতন-যৌবন ৷  
+নামাভাসে ‘মুক্তি’ শুনি’ না হইল সহন ॥ ১৯০ ॥
+
+parama-sundara, paṇḍita, nūtana-yauvana  
+most  handsome  learned  newly  youthful  
+nāmābhāse ‘mukti’ śuni’ nā haila sahana  
+from the semblance of the name  ‘liberation’  hearing  not  was  tolerance
+
+(190) He was very handsome, learned and in the first bloom of youth. Hearing that liberation comes from the semblance of the name, he could not tolerate it.
+
+ক্রুদ্ধ হঞা বলে সেই সরোষ বচন ৷  
+ভাবুকের সিদ্ধান্ত শুন, পণ্ডিতের গণ ॥ ১৯১ ॥
+
+kruddha hañā bale sei saroṣa vacana  
+angry  becoming  says  he  wrathful  words  
+bhāvukera siddhānta śuna, paṇḍitera gaṇa  
+of the sentimentalist  the conclusion  hear  O scholars
+
+(191) Becoming angry, he spoke wrathful words: “Hear the conclusion of this sentimentalist, O scholars!
+
+কোটি-জন্মে ব্রহ্মজ্ঞানে যেই ‘মুক্তি’ নয় ৷  
+এই কহে, — নামাভাস-মাত্রে সেই ‘মুক্তি’ হয় ॥ ১৯২ ॥
+
+koṭi-janme brahma-jñāne yei ‘mukti’ naya  
+in ten million births  by knowledge of Brahman  which  ‘liberation’  is not  
+ei kahe, — nāmābhāsa-mātre sei ‘mukti’ haya  
+this one  says  —  by the mere semblance of the name  that  ‘liberation’  comes
+
+(192) The liberation that is not attained by knowledge of Brahman even in ten million births — that liberation, he says, comes from the mere semblance of the name!”
+
+হরিদাস কহেন, — কেনে করহ সংশয় ?  
+শাস্ত্রে কহে, — নামাভাস-মাত্রে ‘মুক্তি’ হয় ॥ ১৯৩ ॥
+
+haridāsa kahena, — kene karaha saṁśaya?  
+Haridāsa  says  —  why  do you make  doubt  
+śāstre kahe, — nāmābhāsa-mātre ‘mukti’ haya  
+in the scriptures  it says  —  by the mere semblance of the name  ‘liberation’  comes
+
+(193) Haridāsa said, “Why do you doubt? The scriptures say that liberation comes from the mere semblance of the name.
+
+ভক্তিসুখ-আগে ‘মুক্তি’ অতি-তুচ্ছ হয় ৷  
+অতএব ভক্তগণ ‘মুক্তি’ নাহি লয় ॥ ১৯৪ ॥
+
+bhakti-sukha-āge ‘mukti’ ati-tuccha haya  
+the happiness of devotion  before  ‘liberation’  very trifling  is  
+ataeva bhakta-gaṇa ‘mukti’ nāhi laya  
+therefore  the devotees  ‘liberation’  do not  accept
+
+(194) Before the happiness of devotion, liberation is utterly trifling; therefore the devotees do not accept it.
+
+ত্বৎসাক্ষাৎকরণাহ্লাদ-বিশুদ্ধাব্ধিস্থিতস্য মে ৷  
+সুখানি গোষ্পদায়ন্তে ব্রাহ্মাণ্যপি জগদ্গুরো ॥ ১৯৫ ॥
+
+tvat-sākṣāt-karaṇāhlāda-  
+from seeing You face to face  the joy  
+viśuddhābdhi-sthitasya me  
+in the pure ocean  situated  for me  
+sukhāni goṣ-padāyante  
+joys  become like a calf’s hoofprint  
+brāhmāṇy api jagad-guro  
+of Brahman  even  O Guru of the world
+
+(195) “O Guru of the world, now that I am immersed in the pure ocean of joy that comes from seeing You face to face, all other joys — even the bliss of Brahman — seem to me like the water in a calf’s hoofprint.” (Hari-bhakti-sudhodaya, 14.36)
+
+বিপ্র কহে, — নামাভাসে যদি ‘মুক্তি’ নয় ৷  
+তবে তোমার নাক কাটি’ করহ নিশ্চয় ॥ ১৯৬ ॥
+
+vipra kahe, — nāmābhāse yadi ‘mukti’ naya  
+the brāhmaṇa  says  —  from the semblance of the name  if  ‘liberation’  is not  
+tabe tomāra nāka kāṭi’ karaha niścaya  
+then  your  nose  cutting  make  certain
+
+(196) The brāhmaṇa said, “If liberation does not come from the semblance of the name, then let it be settled: your nose will be cut off!”
+
+হরিদাস কহেন, — যদি নামাভাসে ‘মুক্তি’ নয় ৷  
+তবে আমার নাক কাটিমু, — এই সুনিশ্চয় ॥ ১৯৭ ॥
+
+haridāsa kahena, — yadi nāmābhāse ‘mukti’ naya  
+Haridāsa  says  —  if  from the semblance of the name  ‘liberation’  is not  
+tabe āmāra nāka kāṭimu, — ei suniścaya  
+then  my  nose  I shall cut off  —  this  is quite certain
+
+(197) Haridāsa said, “If liberation does not come from the semblance of the name, then I shall cut off my own nose — that is certain.”
+
+শুনি’ সভাসদ্ উঠে করি’ হাহাকার ৷  
+মজুমদার সেই বিপ্রে করিল ধিক্কার ॥ ১৯৮ ॥
+
+śuni’ sabhā-sad uṭhe kari’ hāhākāra  
+hearing  the members of the assembly  rise  making  an outcry  
+majumadāra sei vipre karila dhikkāra  
+the Majumadāras  that  brāhmaṇa  made  rebuke
+
+(198) Hearing this, the members of the assembly rose with an outcry, and the Majumadāras rebuked that brāhmaṇa.
+
+বলাই-পুরোহিত তারে করিলা ভর্ৎসন ৷  
+ঘট-পটিয়া মূর্খ তুঞি, ভক্তি কাঁহা জান ? ॥ ১৯৯ ॥
+
+balāi-purohita tāre karilā bhartsana  
+Balāi  the priest  him  made  reproach  
+ghaṭa-paṭiyā mūrkha tuñi, bhakti kām̐hā jāna?  
+pot-and-cloth logician  fool  you  devotion  what  know
+
+(199) The priest Balāi (Balarāma) reproached him: “You are a fool who argues about pots and cloth (*ghaṭa-paṭiyā*) — what do you know of devotion?
+
+হরিদাস-ঠাকুরে তুঞি কৈলি অপমান !  
+সর্ব্বনাশ হবে তোর, না হবে কল্যাণ ॥ ২০০ ॥
+
+haridāsa-ṭhākure tuñi kaili apamāna!  
+Haridāsa Ṭhākura  you  have done  insult  
+sarva-nāśa habe tora, nā habe kalyāṇa  
+ruin of all  will be  yours  not  will be  good
+
+(200) You have insulted Haridāsa Ṭhākura! You will be utterly ruined; no good will come to you.”
+
+শুনি’ হরিদাস তবে উঠিয়া চলিলা ৷  
+মজুমদার সেই বিপ্রে ত্যাগ করিলা ॥ ২০১ ॥
+
+śuni’ haridāsa tabe uṭhiyā calilā  
+hearing  Haridāsa  then  rising  departed  
+majumadāra sei vipre tyāga karilā  
+the Majumadāras  that  brāhmaṇa  rejection  made
+
+(201) Hearing this, Haridāsa rose and departed, and the Majumadāras dismissed that brāhmaṇa.
+
+সভা-সহিতে হরিদাসের পড়িলা চরণে ৷  
+হরিদাস হাসি’ কহে মধুর-বচনে ॥ ২০২ ॥
+
+sabhā-sahite haridāsera paḍilā caraṇe  
+with the assembly  of Haridāsa  fell  at the feet  
+haridāsa hāsi’ kahe madhura-vacane  
+Haridāsa  smiling  speaks  with sweet words
+
+(202) Together with the whole assembly they fell at Haridāsa’s feet, and Haridāsa, smiling, spoke sweet words:
+
+তোমা-সবার দোষ নাহি, এই অজ্ঞ ব্রাহ্মণ ৷  
+তার দোষ নাহি, তার তর্কনিষ্ঠ মন ॥ ২০৩ ॥
+
+tomā-sabāra doṣa nāhi, ei ajña brāhmaṇa  
+of you  all  fault  is not  this  ignorant  brāhmaṇa  
+tāra doṣa nāhi, tāra tarka-niṣṭha mana  
+his  fault  is not  his  devoted to logic  mind
+
+(203) “None of you is at fault, nor is this ignorant brāhmaṇa to blame: his mind is devoted to logic.
+
+তর্কের গোচর নহে নামের মহত্ত্ব ৷  
+কোথা হৈতে জানিবে সে এই সব তত্ত্ব ? ॥ ২০৪ ॥
+
+tarkera gocara nahe nāmera mahattva  
+of logic  within the range  is not  of the name  the greatness  
+kothā haite jānibe se ei saba tattva?  
+where  from  will know  he  this  all  truth
+
+(204) The greatness of the name lies beyond the reach of logic. How could he know these truths?
+
+যাহ ঘর, কৃষ্ণ করুন কুশল সবার ৷  
+আমার সম্বন্ধে দুঃখ না হউক কাহার ॥ ২০৫ ॥
+
+yāha ghara, kṛṣṇa karuna kuśala sabāra  
+go  home  Kṛṣṇa  may He do  welfare  of all  
+āmāra sambandhe duḥkha nā hauka kāhāra  
+me  concerning  sorrow  not  may there be  for anyone
+
+(205) Go home. May Kṛṣṇa bless you all, and may no one suffer on my account.”
+
+তবে সে হিরণ্যদাস নিজ-ঘরে আইল ৷  
+সেই ব্রাহ্মণে নিজ দ্বার-মানা কৈল ॥ ২০৬ ॥
+
+tabe se hiraṇya-dāsa nija-ghare āila  
+then  that  Hiraṇya dāsa  to his own house  came  
+sei brāhmaṇe nija dvāra-mānā kaila  
+that  brāhmaṇa  his own  door-forbidding  made
+
+(206) Then Hiraṇya dāsa returned to his own house and forbade that brāhmaṇa to enter his door.
+
+তিন-দিন রহি’ সেই বিপ্রের ‘কুষ্ঠ’ হৈল ৷  
+অতি-উচ্চ নাশা তার গলিয়া পড়িল ॥ ২০৭ ॥
+
+tina-dina rahi’ sei viprera ‘kuṣṭha’ haila  
+three days  passing  that  brāhmaṇa’s  ‘leprosy’  came  
+ati-ucca nāśā tāra galiyā paḍila  
+very high  nose  his  rotting  fell off
+
+(207) Within three days that brāhmaṇa contracted leprosy, and his very prominent nose rotted and fell off.
+
+চম্পক-কলি-সম হস্ত-পদাঙ্গুলি ৷  
+কোঁকড় হইল সব, কুষ্ঠে গেল গলি’ ॥ ২০৮ ॥
+
+campaka-kali-sama hasta-padāṅguli  
+campaka-bud-like  the fingers and toes  
+kom̐kaḍa haila saba, kuṣṭhe gela gali’  
+shrivelled  became  all  by leprosy  went  rotting
+
+(208) His fingers and toes, once like campaka buds, all shrivelled and rotted away with leprosy.
+
+দেখিয়া সকল লোক হৈল চমৎকার ৷  
+হরিদাসে প্রশংসি’ তাঁরে করে নমস্কার ॥ ২০৯ ॥
+
+dekhiyā sakala loka haila camatkāra  
+seeing  all  the people  became  amazed  
+haridāse praśaṁsi’ tām̐re kare namaskāra  
+Haridāsa  praising  to him  make  obeisance
+
+(209) Seeing this, everyone was amazed; they praised Haridāsa and bowed down to him.
+
+যদ্যপি হরিদাস বিপ্রের দোষ না লইলা ৷  
+তথাপি ঈশ্বর তারে ফল ভুঞ্জাইলা ॥ ২১০ ॥
+
+yadyapi haridāsa viprera doṣa nā lailā  
+although  Haridāsa  the brāhmaṇa’s  fault  not  took  
+tathāpi īśvara tāre phala bhuñjāilā  
+nevertheless  the Lord  him  the fruit  made to taste
+
+(210) Although Haridāsa did not take the brāhmaṇa’s offence to heart, the Lord nevertheless made him taste its fruit.
+
+ভক্ত-স্বভাব, — অজ্ঞ-দোষ ক্ষমা করে ৷  
+কৃষ্ণ-স্বভাব, — ভক্ত-নিন্দা সহিতে না পারে ॥ ২১১ ॥
+
+bhakta-svabhāva, — ajña-doṣa kṣamā kare  
+the devotee’s nature  —  the fault of the ignorant  forgiveness  makes  
+kṛṣṇa-svabhāva, — bhakta-nindā sahite nā pāre  
+Kṛṣṇa’s nature  —  the blasphemy of His devotee  to bear  not  can
+
+(211) It is the nature of a devotee to forgive the faults of the ignorant; it is Kṛṣṇa’s nature that He cannot bear blasphemy of His devotee.
+
+বিপ্র-দুঃখ শুনি’ হরিদাস মনে দুঃখী হৈলা ৷  
+বলাই পুরোহিতে কহি’ শান্তিপুর আইলা ॥ ২১২ ॥
+
+vipra-duḥkha śuni’ haridāsa mane duḥkhī hailā  
+of the brāhmaṇa  the suffering  hearing  Haridāsa  at heart  unhappy  became  
+balāi purohite kahi’ śāntipura āilā  
+Balāi  to the priest  having told  to Śāntipura  came
+
+(212) Hearing of the brāhmaṇa’s suffering, Haridāsa was saddened at heart. Taking leave of the priest Balāi, he came to Śāntipura.
+
+আচার্য্যে মিলিয়া কৈলা দণ্ডবৎ প্রণাম ৷  
+অদ্বৈত আলিঙ্গন করি’ করিলা সম্মান ॥ ২১৩ ॥
+
+ācārye miliyā kailā daṇḍavat praṇāma  
+the Ācārya  meeting  made  prostrate  obeisance  
+advaita āliṅgana kari’ karilā sammāna  
+Advaita  embrace  making  showed  honour
+
+(213) Meeting the Ācārya, he fell before Him in obeisance, and Advaita embraced him and honoured him.
+
+গঙ্গাতীরে গোঁফা করি’ নির্জ্জনে তাঁরে দিলা ৷  
+ভাগবত-গীতার ভক্তি-অর্থ শুনাইলা ॥ ২১৪ ॥
+
+gaṅgā-tīre gom̐phā kari’ nirjane tām̐re dilā  
+on the bank of the Gaṅgā  a cave  making  in solitude  to him  gave  
+bhāgavata-gītāra bhakti-artha śunāilā  
+of the Bhāgavata and the Gītā  the devotional meaning  made him hear
+
+(214) On the bank of the Gaṅgā He made a secluded cave-dwelling for him, and He explained to him the devotional meaning of the *Bhāgavata* and the *Gītā*.
+
+আচার্য্যের ঘরে নিত্য ভিক্ষা-নির্ব্বাহণ ৷  
+দুই জনা মিলি’ কৃষ্ণ-কথা-আস্বাদন ॥ ২১৫ ॥
+
+ācāryera ghare nitya bhikṣā-nirvāhaṇa  
+of the Ācārya  in the house  daily  taking alms  
+dui janā mili’ kṛṣṇa-kathā-āsvādana  
+the two  persons  meeting  talk of Kṛṣṇa  relishing
+
+(215) He took his alms daily at the Ācārya’s house, and together the two of them relished talks about Kṛṣṇa.
+
+হরিদাস কহে, — গোসাঞি, করি নিবেদনে ৷  
+মোরে প্রত্যহ অন্ন দেহ’ কোন্ প্রয়োজনে ? ॥ ২১৬ ॥
+
+haridāsa kahe, — gosāñi, kari nivedane  
+Haridāsa  says  —  Gosāñi  I make  a submission  
+more pratyaha anna deha’ kon prayojane?  
+to me  every day  food  You give  for what  purpose
+
+(216) Haridāsa said, “Gosāñi, I have something to submit to You. Why do You give me food every day?
+
+মহা-মহা-বিপ্র এথা কুলীন-সমাজ ৷  
+আমারে আদর কর, না বাসহ লাজ! ॥ ২১৭ ॥
+
+mahā-mahā-vipra ethā kulīna-samāja  
+very great  brāhmaṇas  here  a society of the high-born  
+āmāre ādara kara, nā vāsaha lāja!  
+me  honour  You do  not  You feel  shame
+
+(217) Here are great brāhmaṇas, a society of the high-born, and yet You honour me and feel no shame!
+
+অলৌকিক আচার তোমার কহিতে পাই ভয় ৷  
+সেই কৃপা করিবা, — যাতে তোমার রক্ষা হয় ॥ ২১৮ ॥
+
+alaukika ācāra tomāra kahite pāi bhaya  
+extraordinary  conduct  Your  to speak of  I feel  fear  
+sei kṛpā karibā, — yāte tomāra rakṣā haya  
+that  mercy  please do  —  by which  Your  protection  may be
+
+(218) Your conduct is extraordinary; I am afraid even to speak of it. Please be merciful and act so that Your own standing is protected.”
+
+আচার্য্য কহেন, — তুমি না করিহ ভয় ৷  
+সেই আচরিব, যেই শাস্ত্রমত হয় ॥ ২১৯ ॥
+
+ācārya kahena, — tumi nā kariha bhaya  
+the Ācārya  says  —  you  do not  have  fear  
+sei ācariba, yei śāstra-mata haya  
+that  I shall do  which  according to scripture  is
+
+(219) The Ācārya said, “Do not be afraid. I shall act only as the scriptures direct.
+
+তুমি খাইলে হয় কোটিব্রাহ্মণ-ভোজন ৷  
+এত বলি’ শ্রাদ্ধ-পাত্র করাইলা ভোজন ॥ ২২০ ॥
+
+tumi khāile haya koṭi-brāhmaṇa-bhojana  
+you  when you eat  there is  of ten million brāhmaṇas  the feeding  
+eta bali’ śrāddha-pātra karāilā bhojana  
+this  having said  the śrāddha plate  made him  eat
+
+(220) When you eat, it is as good as feeding ten million brāhmaṇas.” Saying this, He fed him the *śrāddha-pātra*, the food of the day of *śrāddha*.
+
+জগৎ-নিস্তার লাগি’ করেন চিন্তন ৷  
+অবৈষ্ণব-জগৎ কেমনে হইবে মোচন ? ॥ ২২১ ॥
+
+jagat-nistāra lāgi’ karena cintana  
+of the world  the deliverance  for the sake of  does  thinking  
+avaiṣṇava-jagat kemane haibe mocana?  
+non-Vaiṣṇava  world  how  will be  delivered
+
+(221) He was always thinking of how to deliver the world: “How will this world, devoid of Vaiṣṇavas, be delivered?”
+
+কৃষ্ণে অবতারিতে অদ্বৈত প্রতিজ্ঞা করিলা ৷  
+জল-তুলসী দিয়া পূজা করিতে লাগিলা ॥ ২২২ ॥
+
+kṛṣṇe avatārite advaita pratijñā karilā  
+Kṛṣṇa  to make descend  Advaita  a vow  made  
+jala-tulasī diyā pūjā karite lāgilā  
+water and tulasī  offering  worship  to do  began
+
+(222) Advaita vowed to bring Kṛṣṇa down to this world, and He began to worship Him with water and *tulasī*.
+
+হরিদাস করে গোঁফায় নাম-সঙ্কীর্ত্তন ৷  
+কৃষ্ণ অবতীর্ণ হইবেন, — এই তাঁর মন ॥ ২২৩ ॥
+
+haridāsa kare gom̐phāya nāma-saṅkīrtana  
+Haridāsa  does  in the cave  the chanting of the name  
+kṛṣṇa avatīrṇa haibena, — ei tām̐ra mana  
+Kṛṣṇa  descended  will be  —  this  his  mind
+
+(223) In his cave Haridāsa chanted the name, with this one thought in his mind: “Kṛṣṇa will descend.”
+
+দুইজনের ভক্ত্যে চৈতন্য কৈলা অবতার ৷  
+নাম-প্রেম প্রচার করি’ কৈলা জগৎ উদ্ধার ॥ ২২৪ ॥
+
+dui-janera bhaktye caitanya kailā avatāra  
+of the two  by the devotion  Caitanya  made  descent  
+nāma-prema pracāra kari’ kailā jagat uddhāra  
+the name and love  preaching  doing  made  of the world  deliverance
+
+(224) By the devotion of these two Caitanya descended, and by preaching the name and love He delivered the world.
+
+আর অলৌকিক এক চরিত্র তাঁহার ৷  
+যাহার শ্রবণে লোকে হয় চমৎকার ॥ ২২৫ ॥
+
+āra alaukika eka caritra tām̐hāra  
+another  extraordinary  one  deed  of his  
+yāhāra śravaṇe loke haya camatkāra  
+of which  on hearing  people  become  amazed
+
+(225) There is another extraordinary deed of his, which amazes people when they hear it.
+
+তর্ক না করিহ, তর্কাগোচর তাঁর রীতি ৷  
+বিশ্বাস করিয়া শুন করিয়া প্রতীতি ॥ ২২৬ ॥
+
+tarka nā kariha, tarkāgocara tām̐ra rīti  
+argument  do not  make  beyond argument  his  ways  
+viśvāsa kariyā śuna kariyā pratīti  
+faith  having  hear  making  conviction
+
+(226) Do not argue: his ways are beyond argument. Hear it with faith and conviction.
+
+একদিন হরিদাস গোঁফাতে বসিয়া ৷  
+নাম-সঙ্কীর্ত্তন করেন উচ্চ করিয়া ॥ ২২৭ ॥
+
+eka-dina haridāsa gom̐phāte vasiyā  
+one day  Haridāsa  in the cave  sitting  
+nāma-saṅkīrtana karena ucca kariyā  
+the chanting of the name  does  loud  making
+
+(227) One day Haridāsa was sitting in his cave, chanting the name aloud.
+
+জ্যোৎস্নাবতী রাত্রি, দশ দিক্ সুনির্ম্মল ৷  
+গঙ্গার লহরী জ্যোৎস্নায় করে ঝল-মল ॥ ২২৮ ॥
+
+jyotsnāvatī rātri, daśa dik sunirmala  
+moonlit  night  the ten  directions  perfectly clear  
+gaṅgāra laharī jyotsnāya kare jhala-mala  
+the Gaṅgā’s  waves  in the moonlight  make  glittering
+
+(228) It was a moonlit night; the ten directions were perfectly clear, and the waves of the Gaṅgā glittered in the moonlight.
+
+দ্বারে তুলসী — লেপা-পিণ্ডির উপর ৷  
+গোঁফার শোভা দেখি’ লোকের জুড়ায় অন্তর ॥ ২২৯ ॥
+
+dvāre tulasī — lepā-piṇḍira upara  
+at the door  Tulasī  —  a plastered platform  upon  
+gom̐phāra śobhā dekhi’ lokera juḍāya antara  
+of the cave  the beauty  seeing  people’s  is soothed  heart
+
+(229) At the door was Tulasī, on a plastered platform. Seeing the beauty of the cave, anyone’s heart was soothed.
+
+হেনকালে এক নারী অঙ্গনে আইল ৷  
+তাঁর অঙ্গকান্ত্যে স্থান পীতবর্ণ হইল ॥ ২৩০ ॥
+
+hena-kāle eka nārī aṅgane āila  
+at that time  a  woman  into the courtyard  came  
+tām̐ra aṅga-kāntye sthāna pīta-varṇa haila  
+her  by the lustre of her body  the place  golden  became
+
+(230) At that time a woman came into the courtyard, and the lustre of her body turned the whole place golden.
+
+তাঁর অঙ্গ-গন্ধে দশ দিক্ আমোদিত ৷  
+ভূষণ-ধ্বনিতে কর্ণ হয় চমকিত ॥ ২৩১ ॥
+
+tām̐ra aṅga-gandhe daśa dik āmodita  
+her  by the fragrance of her body  the ten  directions  perfumed  
+bhūṣaṇa-dhvanite karṇa haya camakita  
+by the sound of her ornaments  the ears  are  startled
+
+(231) The fragrance of her body perfumed the ten directions, and the tinkling of her ornaments startled the ears.
+
+আসিয়া তুলসীরে সেই কৈলা নমস্কার ৷  
+তুলসী পরিক্রমা করি’ গেলা গোঁফা-দ্বার ॥ ২৩২ ॥
+
+āsiyā tulasīre sei kailā namaskāra  
+coming  to Tulasī  she  made  obeisance  
+tulasī parikramā kari’ gelā gom̐phā-dvāra  
+Tulasī  circumambulation  making  went  to the cave’s door
+
+(232) Coming in, she bowed down to Tulasī, circumambulated her and went to the door of the cave.
+
+যোড়-হাতে হরিদাসের বন্দিলা চরণ ৷  
+দ্বারে বসি’ কহে কিছু মধুর বচন ॥ ২৩৩ ॥
+
+yoḍa-hāte haridāsera vandilā caraṇa  
+with joined palms  of Haridāsa  honoured  the feet  
+dvāre vasi’ kahe kichu madhura vacana  
+at the door  sitting  says  some  sweet  words
+
+(233) With joined palms she honoured Haridāsa’s feet, and sitting at the door, she spoke some sweet words:
+
+জগতের বন্ধু তুমি রূপগুণবান্ ৷  
+তব সঙ্গ লাগি’ মোর এথাকে প্রয়াণ ॥ ২৩৪ ॥
+
+jagatera bandhu tumi rūpa-guṇavān  
+of the world  the friend  you  endowed with beauty and virtue  
+tava saṅga lāgi’ mora ethāke prayāṇa  
+your  company  for the sake of  my  to here  coming
+
+(234) “You are the friend of the whole world, endowed with beauty and virtue. I have come here for your company.
+
+মোরে অঙ্গীকার কর হঞা সদয় ৷  
+দীনে দয়া করে, — এই সাধু-স্বভাব হয় ॥ ২৩৫ ॥
+
+more aṅgīkāra kara hañā sadaya  
+me  acceptance  make  being  kind  
+dīne dayā kare, — ei sādhu-svabhāva haya  
+to the lowly  mercy  shows  —  this  of a saint  the nature  is
+
+(235) Be kind and accept me. To show mercy to the lowly — that is the nature of a saint.”
+
+এত বলি’ নানা ভাব করয়ে প্রকাশ ৷  
+যাহার দর্শনে মুনির হয় ধৈর্য্য-নাশ ॥ ২৩৬ ॥
+
+eta bali’ nānā bhāva karaye prakāśa  
+this  having said  various  moods  makes  display  
+yāhāra darśane munira haya dhairya-nāśa  
+which  on seeing  of a sage  comes  loss of composure
+
+(236) Saying this, she displayed various alluring moods, the sight of which would make even a sage lose his composure.
+
+নির্ব্বিকার হরিদাস গম্ভীর-আশয় ৷  
+বলিতে লাগিলা তাঁরে হঞা সদয় ॥ ২৩৭ ॥
+
+nirvikāra haridāsa gambhīra-āśaya  
+unmoved  Haridāsa  of deep  heart  
+balite lāgilā tām̐re hañā sadaya  
+to speak  began  to her  being  kind
+
+(237) But Haridāsa, unmoved and deep of heart, began to speak to her kindly:
+
+সংখ্যা-নাম-সঙ্কীর্ত্তন — এই ‘মহাযজ্ঞ’ মন্যে ৷  
+তাহাতে দীক্ষিত আমি হই প্রতিদিনে ॥ ২৩৮ ॥
+
+saṅkhyā-nāma-saṅkīrtana — ei ‘mahā-yajña’ manye  
+the chanting of the name by number  —  this  ‘great sacrifice’  I consider  
+tāhāte dīkṣita āmi hai prati-dine  
+in that  consecrated  I  am  every day
+
+(238) “Chanting the name by a fixed count is what I consider the great sacrifice (*mahā-yajña*), and every day I am consecrated to it.
+
+যাবৎ কীর্ত্তন সমাপ্ত নহে, না করি অন্য কাম ৷  
+কীর্ত্তন সমাপ্ত হৈলে, হয় দীক্ষার বিশ্রাম ॥ ২৩৯ ॥
+
+yāvat kīrtana samāpta nahe, nā kari anya kāma  
+until  the chanting  completed  is not  not  I do  other  thing  
+kīrtana samāpta haile, haya dīkṣāra viśrāma  
+the chanting  completed  when it is  is  of the vow  the rest
+
+(239) Until the chanting is complete, I do nothing else; when the chanting is complete, my vow is at rest.
+
+দ্বারে বসি’ শুন তুমি নাম-সঙ্কীর্ত্তন ৷  
+নাম সমাপ্ত হৈলে করিমু তব প্রীতি-আচরণ ॥ ২৪০ ॥
+
+dvāre vasi’ śuna tumi nāma-saṅkīrtana  
+at the door  sitting  hear  you  the chanting of the name  
+nāma samāpta haile karimu tava prīti-ācaraṇa  
+the name  completed  when it is  I shall do  your  pleasing
+
+(240) Sit at the door and listen to the chanting of the name. When the name is completed, I shall do what pleases you.”
+
+এত বলি’ করেন তেঁহো নাম-সঙ্কীর্ত্তন ৷  
+সেই নারী বসি’ করে শ্রীনাম-শ্রবণ ॥ ২৪১ ॥
+
+eta bali’ karena tem̐ho nāma-saṅkīrtana  
+this  having said  does  he  the chanting of the name  
+sei nārī vasi’ kare śrī-nāma-śravaṇa  
+that  woman  sitting  does  hearing of the holy name
+
+(241) Saying this, he went on chanting the name, and the woman sat and listened to the holy name.
+
+কীর্ত্তন করিতে আসি’ প্রাতঃকাল হৈল ৷  
+প্রাতঃকাল দেখি’ নারী উঠিয়া চলিল ॥ ২৪২ ॥
+
+kīrtana karite āsi’ prātaḥ-kāla haila  
+chanting  while doing  coming  morning  came  
+prātaḥ-kāla dekhi’ nārī uṭhiyā calila  
+morning  seeing  the woman  rising  departed
+
+(242) While he chanted, morning came, and seeing that it was morning, the woman rose and left.
+
+এইমত তিনদিন করে আগমন ৷  
+নানা-ভাব দেখায়, যাতে ব্রহ্মার হরে মন ॥ ২৪৩ ॥
+
+ei-mata tina-dina kare āgamana  
+in this way  three days  makes  coming  
+nānā-bhāva dekhāya, yāte brahmāra hare mana  
+various moods  shows  by which  of Brahmā  is captivated  the mind
+
+(243) In this way she came for three days, displaying moods that could captivate even Brahmā’s mind.
+
+কৃষ্ণে নামাবিষ্ট-মনা সদা হরিদাস ৷  
+অরণ্যে রোদিত হৈল স্ত্রীভাব-প্রকাশ ॥ ২৪৪ ॥
+
+kṛṣṇe nāmāviṣṭa-manā sadā haridāsa  
+in Kṛṣṇa  with mind absorbed in the name  always  Haridāsa  
+araṇye rodita haila strī-bhāva-prakāśa  
+in the forest  a cry  became  the display of feminine charms
+
+(244) Haridāsa’s mind was always absorbed in the name of Kṛṣṇa, so her display of feminine charms was like crying in the wilderness.
+
+তৃতীয় দিবসের রাত্রি-শেষ যবে হৈল ৷  
+ঠাকুরের স্থানে নারী কহিতে লাগিল ॥ ২৪৫ ॥
+
+tṛtīya divasera rātri-śeṣa yabe haila  
+third  day’s  end of the night  when  came  
+ṭhākurera sthāne nārī kahite lāgila  
+the Ṭhākura  to  the woman  to speak  began
+
+(245) When the third night was coming to an end, the woman said to the Ṭhākura:
+
+তিন দিন বঞ্চিলা আমা করি’ আশ্বাসন ৷  
+রাত্রি-দিনে নহে তোমার নাম-সমাপন ॥ ২৪৬ ॥
+
+tina dina vañcilā āmā kari’ āśvāsana  
+three  days  you have cheated  me  making  assurances  
+rātri-dine nahe tomāra nāma-samāpana  
+night and day  is not  your  completion of the name
+
+(246) “For three days you have deceived me with promises. Night and day, your chanting of the name never ends.”
+
+হরিদাস ঠাকুর কহেন, — আমি কি করিমু ?  
+নিয়ম কৈরাছি, তাহা কেমনে ছাড়িমু ? ॥ ২৪৭ ॥
+
+haridāsa ṭhākura kahena, — āmi ki karimu?  
+Haridāsa  Ṭhākura  says  —  I  what  shall do  
+niyama kairāchi, tāhā kemane chāḍimu?  
+a vow  I have made  that  how  shall I give up
+
+(247) Haridāsa Ṭhākura said, “What can I do? I have made a vow — how can I give it up?”
+
+তবে নারী কহে তাঁরে করি’ নমস্কার ৷  
+‘আমি — মায়া’ করিতে আইলাঙ পরীক্ষা তোমার ॥ ২৪৮ ॥
+
+tabe nārī kahe tām̐re kari’ namaskāra  
+then  the woman  says  to him  making  obeisance  
+‘āmi — māyā’ karite āilāṅa parīkṣā tomāra  
+‘I  —  Māyā’  to make  I came  test  of you
+
+(248) Then, bowing down to him, the woman said, “I am Māyā. I came to test you.
+
+ব্রহ্মাদি জীব, আমি সবারে মোহিলুঁ ৷  
+একেলা তোমারে আমি মোহিতে নারিলুঁ ॥ ২৪৯ ॥
+
+brahmādi jīva, āmi sabāre mohilum̐  
+Brahmā and the other  jīvas  I  all  have bewitched  
+ekelā tomāre āmi mohite nārilum̐  
+alone  you  I  to bewitch  could not
+
+(249) I have bewitched all living beings, beginning with Brahmā; you alone I could not bewitch.
+
+মহাভাগবত তুমি, — তোমার দর্শনে ৷  
+তোমার কৃষ্ণনাম-কীর্ত্তন-শ্রবণে ॥ ২৫০ ॥
+
+চিত্ত শুদ্ধ হৈল, চাহে কৃষ্ণনাম লৈতে ৷  
+‘কৃষ্ণ-নাম’ উপদেশি’ কৃপা করহ আমাতে ॥ ২৫১ ॥
+
+mahā-bhāgavata tumi, — tomāra darśane  
+a great devotee  you  —  your  by the sight  
+tomāra kṛṣṇa-nāma-kīrtana-śravaṇe  
+your  by hearing the chanting of Kṛṣṇa’s name  
+citta śuddha haila, cāhe kṛṣṇa-nāma laite  
+heart  pure  became  wants  Kṛṣṇa’s name  to take  
+‘kṛṣṇa-nāma’ upadeśi’ kṛpā karaha āmāte  
+in ‘Kṛṣṇa’s name’  instructing  mercy  show  to me
+
+(250–251) You are a great devotee (*mahā-bhāgavata*). By seeing you and hearing you chant Kṛṣṇa’s name, my heart has become pure and longs to take Kṛṣṇa’s name. Be merciful to me: instruct me in Kṛṣṇa’s name.
+
+চৈতন্যাবতারে বহে প্রেমামৃত-বন্যা ৷  
+সব জীব প্রেমে ভাসে, পৃথিবী হৈল ধন্যা ॥ ২৫২ ॥
+
+caitanyāvatāre vahe premāmṛta-vanyā  
+in Caitanya’s descent  flows  a flood of the nectar of love  
+saba jīva preme bhāse, pṛthivī haila dhanyā  
+all  jīvas  in love  float  the earth  became  blessed
+
+(252) In the descent of Caitanya a flood of the nectar of love is flowing. All living beings float in that love, and the earth has become blessed.
+
+এ-বন্যায় যে না ভাসে, সেই জীব — ছার ৷  
+কোটিকল্পে তবে তার নাহিক নিস্তার ॥ ২৫৩ ॥
+
+e-vanyāya ye nā bhāse, sei jīva — chāra  
+in this flood  who  not  floats  that  soul  —  wretched  
+koṭi-kalpe tabe tāra nāhika nistāra  
+in millions of kalpas  then  his  there is no  deliverance
+
+(253) Wretched is the soul who does not float in this flood: for him there is no deliverance even in millions of *kalpas*.
+
+পূর্ব্বে আমি রাম-নাম পাঞাছি ‘শিব’ হৈতে ৷  
+তোমার সঙ্গে লোভ হৈল কৃষ্ণনাম লৈতে ॥ ২৫৪ ॥
+
+pūrve āmi rāma-nāma pāñāchi ‘śiva’ haite  
+before  I  Rāma’s name  have received  ‘Śiva’  from  
+tomāra saṅge lobha haila kṛṣṇa-nāma laite  
+your  by the company  longing  arose  Kṛṣṇa’s name  to take
+
+(254) Long ago I received the name of Rāma from Śiva; now, by your company, I long to take the name of Kṛṣṇa.
+
+মুক্তি-হেতু তারকব্রহ্ম হয় ‘রামনাম’ ৷  
+‘কৃষ্ণনাম’ পারক হঞা করে প্রেমদান ॥ ২৫৫ ॥
+
+mukti-hetu tāraka-brahma haya ‘rāma-nāma’  
+the cause of liberation  the delivering Brahman  is  ‘Rāma’s name’  
+‘kṛṣṇa-nāma’ pāraka hañā kare prema-dāna  
+‘Kṛṣṇa’s name’  the one who carries across  being  makes  the gift of love
+
+(255) The name of Rāma is the *tāraka-brahma*, the Brahman that delivers, the cause of liberation; the name of Kṛṣṇa, the *pāraka*, carries one across and gives love.
+
+‘কৃষ্ণনাম’ দেহ’ তুমি মোরে কর ধন্যা ৷  
+আমারে ভাসায় যৈছে এই প্রেমবন্যা ॥ ২৫৬ ॥
+
+‘kṛṣṇa-nāma’ deha’ tumi more kara dhanyā  
+‘Kṛṣṇa’s name’  give  you  me  make  blessed  
+āmāre bhāsāya yaiche ei prema-vanyā  
+me  sweeps away  so that  this  flood of love
+
+(256) Give me Kṛṣṇa’s name and make me blessed, so that this flood of love may sweep me away too.”
+
+এত বলি’ বন্দিলা হরিদাসের চরণ ৷  
+হরিদাস কহে, — কর কৃষ্ণ-সঙ্কীর্ত্তন ॥ ২৫৭ ॥
+
+eta bali’ vandilā haridāsera caraṇa  
+this  having said  honoured  of Haridāsa  the feet  
+haridāsa kahe, — kara kṛṣṇa-saṅkīrtana  
+Haridāsa  says  —  do  kṛṣṇa-saṅkīrtana
+
+(257) Saying this, she honoured Haridāsa’s feet. Haridāsa said, “Chant the name of Kṛṣṇa (*kṛṣṇa-saṅkīrtana*).”
+
+উপদেশ পাঞা মায়া চলিলা হঞা প্রীত ৷  
+এ-সব কথাতে কারো না জন্মে প্রতীত ॥ ২৫৮ ॥
+
+upadeśa pāñā māyā calilā hañā prīta  
+instruction  receiving  Māyā  departed  being  pleased  
+e-saba kathāte kāro nā janme pratīta  
+these  all  in accounts  of someone  not  arises  belief
+
+(258) Having received his instruction, Māyā departed, pleased. Yet some people do not believe such accounts.
+
+প্রতীত করিতে কহি কারণ ইহার ৷  
+যাহার শ্রবণে হয় বিশ্বাস সবার ॥ ২৫৯ ॥
+
+pratīta karite kahi kāraṇa ihāra  
+belief  to produce  I tell  the reason  of this  
+yāhāra śravaṇe haya viśvāsa sabāra  
+which  on hearing  comes  faith  to everyone
+
+(259) To make them believe, I shall tell the reason for it; hearing it, everyone will have faith.
+
+চৈতন্যাবতারে কৃষ্ণপ্রেমে লুব্ধ হঞা ৷  
+ব্রহ্মা-শিব-সনকাদি পৃথিবীতে জন্মিয়া ॥ ২৬০ ॥
+
+caitanyāvatāre kṛṣṇa-preme lubdha hañā  
+at Caitanya’s descent  for love of Kṛṣṇa  eager  becoming  
+brahmā-śiva-sanakādi pṛthivīte janmiyā  
+Brahmā  Śiva  Sanaka and the others  on earth  taking birth
+
+(260) At the descent of Caitanya, Brahmā, Śiva, Sanaka and the others, eager for love of Kṛṣṇa, took birth on earth.
+
+কৃষ্ণনাম লঞা নাচে, প্রেমবন্যায় ভাসে ৷  
+নারদ-প্রহ্লাদাদি আসে মনুষ্য-প্রকাশে ॥ ২৬১ ॥
+
+kṛṣṇa-nāma lañā nāce, prema-vanyāya bhāse  
+Kṛṣṇa’s name  taking  they dance  in the flood of love  float  
+nārada-prahlādādi āse manuṣya-prakāśe  
+Nārada  Prahlāda and others  come  in human form
+
+(261) Taking Kṛṣṇa’s name, they dance and float in the flood of love. Nārada, Prahlāda and others came in human form.
+
+লক্ষ্মী-আদি করি’ কৃষ্ণপ্রেমে লুব্ধ হঞা ৷  
+নাম-প্রেম আস্বাদিলা মনুষ্যে জন্মিয়া ॥ ২৬২ ॥
+
+lakṣmī-ādi kari’ kṛṣṇa-preme lubdha hañā  
+Lakṣmī  and others  beginning with  for love of Kṛṣṇa  eager  becoming  
+nāma-prema āsvādilā manuṣye janmiyā  
+the name and love  relished  as human beings  taking birth
+
+(262) Lakṣmī and others, eager for love of Kṛṣṇa, took birth as human beings and relished the name and love.
+
+অন্যের কা কথা, আপনে ব্রজেন্দ্রনন্দন ৷  
+অবতরি’ করেন প্রেম-নাম আস্বাদন ॥ ২৬৩ ॥
+
+anyera kā kathā, āpane vrajendra-nandana  
+of others  what  talk  Himself  the son of the king of Vraja  
+avatari’ karena prema-nāma āsvādana  
+descending  does  of love and the name  the relishing
+
+(263) What to speak of others? The son of the king of Vraja Himself descends and relishes love and the name.
+
+মায়া-দাসী ‘প্রেম’ মাগে, — ইথে কি বিস্ময় ?  
+‘সাধুকৃপা’, ‘নাম’ বিনা ‘প্রেম’ না জন্মায় ॥ ২৬৪ ॥
+
+māyā-dāsī ‘prema’ māge, — ithe ki vismaya?  
+Māyā  the maidservant  ‘love’  begs  —  in this  what  wonder  
+‘sādhu-kṛpā’, ‘nāma’ vinā ‘prema’ nā janmāya  
+‘the saint’s mercy’  ‘the name’  without  ‘love’  not  is born
+
+(264) If Māyā, the Lord’s maidservant, begs for love, what wonder is there in that? Without the mercy of a saint and the name, love is never born.
+
+চৈতন্য-গোসাঞির লীলার এই ত’ স্বভাব ৷  
+ত্রিভুবন নাচে, গায়, পাঞা প্রেমভাব ॥ ২৬৫ ॥
+
+caitanya-gosāñira līlāra ei ta’ svabhāva  
+of Caitanya Gosāñi  of the pastimes  this  indeed  the nature  
+tribhuvana nāce, gāya, pāñā prema-bhāva  
+the three worlds  dance  sing  attaining  the mood of love
+
+(265) Such is the very nature of Caitanya Gosāñi’s pastimes: the three worlds dance and sing, having attained the mood of love.
+
+কৃষ্ণ-আদি, আর যত স্থাবর-জঙ্গমে ৷  
+কৃষ্ণপ্রেমে মত্ত করে কৃষ্ণ-সঙ্কীর্ত্তনে ॥ ২৬৬ ॥
+
+kṛṣṇa-ādi, āra yata sthāvara-jaṅgame  
+Kṛṣṇa and the others  and  all  the unmoving and moving  
+kṛṣṇa-preme matta kare kṛṣṇa-saṅkīrtane  
+with love of Kṛṣṇa  mad  makes  the chanting of Kṛṣṇa’s name
+
+(266) Kṛṣṇa Himself and the others, and all beings, moving and unmoving — *kṛṣṇa-saṅkīrtana* makes them all mad with love of Kṛṣṇa.
+
+স্বরূপ-গোসাঞি কড়চায় যে-লীলা লিখিল ৷  
+রঘুনাথদাস-মুখে যে সব শুনিল ॥ ২৬৭ ॥
+
+svarūpa-gosāñi kaḍacāya ye-līlā likhila  
+Svarūpa Gosāñi  in his notebook  which pastimes  wrote  
+raghunātha-dāsa-mukhe ye saba śunila  
+from Raghunātha dāsa’s mouth  which  all  I heard
+
+(267) The pastimes that Svarūpa Gosāñi recorded in his notebook (*kaḍacā*), and all that I heard from the mouth of Raghunātha dāsa —
+
+সেই সব লীলা কহি সংক্ষেপ করিয়া ৷  
+চৈতন্য-কৃপাতে লিখি ক্ষুদ্রজীব হঞা ॥ ২৬৮ ॥
+
+sei saba līlā kahi saṅkṣepa kariyā  
+those  all  pastimes  I tell  in brief  making  
+caitanya-kṛpāte likhi kṣudra-jīva hañā  
+by Caitanya’s mercy  I write  a tiny soul  being
+
+(268) those pastimes I tell in brief. Though I am an insignificant soul, I write by Caitanya’s mercy.
+
+হরিদাস-ঠাকুরের কহিলুঁ মহিমার কণ ৷  
+যাহার শ্রবণে ভক্তের জুড়ায় শ্রবণ ॥ ২৬৯ ॥
+
+haridāsa-ṭhākurera kahilum̐ mahimāra kaṇa  
+of Haridāsa Ṭhākura  I have told  of the glory  a particle  
+yāhāra śravaṇe bhaktera juḍāya śravaṇa  
+which  on hearing  of the devotees  is soothed  the ears
+
+(269) I have told a particle of the glory of Haridāsa Ṭhākura; hearing it soothes the devotees’ ears.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৭০ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(270) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: This same verse opens Antya 2; translation as there. The *Anubhāṣya* refers to Antya 2.1: the śrī guru is the guru who gave initiation into the mantra, or the guru who instructs in bhajana; the gurus are the whole line of gurus (the parama-guru and those before him), headed by Śrīmad Ānandatīrtha and Śrīman Mādhavendra Purī; the Vaiṣṇavas are the bhāgavatas of all four yugas; Śrī Rūpa is honoured with his elder brother Sanātana, with his own devotees and Raghunātha dāsa, and with Jīva, whom he blessed; the companions of Lalitā and Viśākhā are the sakhīs and mañjarīs.
