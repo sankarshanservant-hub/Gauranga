@@ -78,7 +78,7 @@ When an actor playing a character enters the stage prompted (called forth) by a 
 
 ## 136
 
-Spring has come. On the night of the full moon, at this season, Paurṇamāsī will unite the complete Lord, Śrī Kṛṣṇa, filled with fresh love (*anurāga*), with the supremely beautiful Śrī Rādhikā, to enhance the beauty of the pastimes. This verse has two meanings, one referring to the moon and one to Śrī Kṛṣṇa; of these, the meaning referring to Śrī Kṛṣṇa is the principal one.[^136-1]
+Spring has come. At this season, at night, Paurṇamāsī will unite the complete Lord, Śrī Kṛṣṇa, filled with fresh love (*anurāga*), with the supremely beautiful Śrī Rādhikā, to enhance the beauty of the pastimes. This verse has two meanings, one referring to the moon and one to Śrī Kṛṣṇa; of these, the meaning referring to Śrī Kṛṣṇa is the principal one.[^136-1]
 
 ## 137
 
