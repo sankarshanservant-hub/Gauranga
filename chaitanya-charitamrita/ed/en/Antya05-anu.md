@@ -160,7 +160,7 @@ Dry wood is insentient and does not grow; hard stone does not melt. Just so, Rā
 
 Whoever, with faith and with a transcendental heart, describes or hears Kṛṣṇa's transcendental sweet pastimes — the *rāsa* and the rest — as the *Śrīmad-Bhāgavatam* describes them, his worldly lust born of the mind (*manasija*) is completely destroyed. The speaker or hearer of Kṛṣṇa's transcendental pastimes feels his own existence in the transcendental realm, and so the three *guṇas* of nature cannot overcome him. Toward matter he is wholly beyond the *guṇas* (*nirguṇa*): his mind is unshakable, and he is able to understand his own qualification (*nija-adhikāra*) for serving Kṛṣṇa.
 
-Let no one, like the *prākṛta-sahajiyās*, think in this connection: “A *jīva* greedy for worldly lust need not gain knowledge of *sambandha*. Keeping a worldly mind, he may live in his own realm of enjoyment, give up *sādhana-bhakti*, and regard Kṛṣṇa's transcendental play, His pastimes — the *rāsa* and the rest — as a model of worldly enjoyment like his own. If he simply hears and chants about them, his material lust will be destroyed.” It is precisely to forbid this that Mahāprabhu, by the word *viśvāsa* (faith), dispelled the worldly mentality of the *prākṛta-sahajiyās*. Śrī Śuka also said: “One who is not a controller (*anīśvara*) must never do this, even in his mind. Whoever does it out of folly perishes, as one who is not Rudra would perish by drinking the poison born of the ocean.” (*Śrīmad-Bhāgavatam* 10.33.30)[^45-1]
+Let no one, like the *prākṛta-sahajiyās*, think in this connection: “A *jīva* greedy for worldly lust need not gain knowledge of *sambandha*. Keeping a worldly mind, he may live in his own realm of enjoyment, give up *sādhana-bhakti*, and regard Kṛṣṇa's transcendental play, His pastimes — the *rāsa* and the rest — as a model of worldly enjoyment like his own. If he simply hears and chants about them, his material lust will be destroyed.” It is precisely to forbid this that Mahāprabhu, by the word *viśvāsa* (faith), dispelled the worldly mentality of the *prākṛta-sahajiyās*. Śrī Śuka also said: “One who is not a controller (*anīśvara*) must never do this, even in his mind. Whoever does it out of folly perishes, as one who is not Rudra would perish by drinking the poison born of the ocean.” (*Śrīmad-Bhāgavatam* 10.33.30)
 
 ## 47
 
@@ -609,8 +609,6 @@ With the very words with which Śiśupāla reviled Kṛṣṇa, pure Sarasvatī 
 ---
 
 [^1-1]: The verse translation reads differently: “by the worms of selfishness and material desires.”
-
-[^45-1]: So in the edition (checked against the scan). In the common numbering of the *Bhāgavatam* this is verse 10.33.31.
 
 [^49-1]: The verse translation reads differently: “and Kṛṣṇa Himself grants him a spiritual body.”
 
