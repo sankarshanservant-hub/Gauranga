@@ -90,6 +90,22 @@ By the beauty of His eyes this Kṛṣṇa has stolen the luster of the finest w
 
 “O fair-faced one, what Viśvakarmā is this standing before us? With the flashing, sharp, long chisel of His sidelong glances He splits the stones of the *svadharma* of noble wives, and at the same time builds chambers in the cowherd village out of His own beautiful dark form, which is like countless emeralds.”
 
+## 168
+
+“Sakhī, a youth in the freshness of youth has appeared — the moon of the dynasty of the king of Vraja; the luster of His body crushes the pride of clusters of great sapphires. Glory to the sound of His flute, which playfully breaks the knots of the sashes of steadfast noble wives!”
+
+## 169
+
+The beauty of Her eyes forcibly swallows the beauty of a newly blossomed blue lotus; the joy shining on Her blooming face surpasses a forest of lotuses; the luster of Her body plunges even beautiful gold into distress. So wondrously does Śrī Rādhikā's beauty play, that is, manifest itself.
+
+## 170
+
+“The beauty of the moon, though lovely at night, fades by day; and the lotus, though lovely by day, grows dim (closes) at night. But, friend, the face of My beloved Rādhikā always, day and night, shines with beauty. With what, then, can it be compared?”
+
+## 171
+
+“Her cheeks, with a gentle, gentle smile, are stirred by waves of the *rasa* of joy; Her creeper-brows dance like the bow of Kāma, resembling a bee that darts about in intoxicated abandon. And the glance that flew from Her lashes has stung My heart.”
+
 ---
 
 [^140-1]: So in the edition (*prabhu*, “the Lord”); in verse 140 it is Rāmānanda Rāya who asks.

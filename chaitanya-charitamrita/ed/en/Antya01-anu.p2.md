@@ -148,8 +148,38 @@ See Madhya 2.52.
 
 **He sakhi**, **he varāṅgi** (O beautiful one), **puraḥ** (Him who stands before you), **jaṅghādhas-taṭa-saṅgi-dakṣiṇa-padaṁ** (Him whose right foot — the edge of the right foot — touches the lower part of the left shin), **kiñcid-vibhugna-trikaṁ** (Him whose waist [*trika*] is slightly bent), **sāci-stambhita-kandharaṁ** (Him whose neck [*kandharā*] is turned to the side and held motionless), **tiraḥ-sañcāri-netrāñcalam** (Him the corners of whose eyes are wont to glide sideways), **kuṭmalite** (closed like a bud) **adhare** (at the lips) **lolāṅgulī-saṅgatāṁ** (touched by restless, moving fingers) **vaṁśīṁ** (the flute) **dadhānam** (holding), **vibhrad-bhrū-bhramaraṁ**[^166-1] (Him whose brows are like two hovering bees), **paramānandaṁ** (Mādhava) **svī-kuru** (accept).
 
+## 167
+
+> Subheading: (*Lalita-mādhava*, Act 1, verse 52)
+
+**He su-mukhi** (O fair-faced one), **puraḥ** (before us) **ayam apūrvaḥ** (never seen or heard of before) **kaḥ viśvakarmā** (what Viśvakarmā is this)? — **yaḥ** (He who) **yugapat** (at the same time) **niśita-dīrghāpāṅga-ṭaṅka-cchaṭābhiḥ** (*niśita*, sharpened; the long sidelong glance itself is the *ṭaṅka*, a special tool for splitting stone; *cchaṭābhiḥ*, with its flashes, its gleams) **kula-vara-tanu-dharma-grāva-vṛndāni** (the *dharmas* of noble wives — fidelity to a husband and the rest — which are heaps of stone) **bhindan** (splitting), **marakata-maṇi-lakṣaiḥ** (with hundreds of thousands of emeralds, that is, with forms full of dark beauty that one takes for emeralds) **goṣṭha-kakṣāṁ** (the cowherd village) **cinoti** (builds, that is, fills; in this verse Rādhā is amazed to see such qualities of Śrī Kṛṣṇa as His artfulness and beauty).
+
+## 168
+
+> Subheading: (*Lalita-mādhava*, Act 1, verse 49)
+
+**He sakhi**, **yasya** (He whose) **sthira-kulāṅganā-nikara-nīvi-bandhārgala-cchidā-karaṇa-kautukī** (for the many steadfast noble wives, the chaste women, the very knot of the sash [*nīvi*] serves as a bolt, a bar, or an obstacle, and this sound delights in cutting that bolt, in breaking those bonds) **vaṁśī-dhvaniḥ** (the sound of the flute) **jayati** (is supreme), **saḥ** (He) **mahendra-maṇi-maṇḍalī-mada-viḍambi-deha-dyutiḥ** (He the luster, the radiance, of whose body seems accustomed to mock the pride of clusters of great sapphires), **kaḥ api navyaḥ yuvā** (a certain youth in the freshness of youth), **vrajendra-kula-candramāḥ** (the moon of Nanda's dynasty), **sphurati** (shines).
+
+## 166–168
+
+In some manuscripts the three verses 166–168 are not given. For Śrī Rūpa was describing the *Vidagdha-mādhava*, and describing the *Lalita-mādhava* was neither timely nor relevant for him: as is known, he receives Śrī Rāmānanda's instruction to describe the *Lalita-mādhava* only further on, in verse 172.
+
+## 169
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verse 32)
+
+(Śrī Rādhā's) **akṣṇoḥ** (eyes') **lakṣmīḥ** (beauty) **navyaṁ** (newly blossomed) **kuvalayaṁ** (the blue lotus) **balāt kavalayati** (forcibly swallows), **mukhollāsaḥ** (the beauty of Her face) **phullaṁ** (blossomed) **kamala-vanam** (forest of lotuses) **ullaṅghayati** (surpasses, sets aside), **āṅgika-ruciḥ** (the luster of Her body) **aṣṭāpadam** (gold) **api** **kaṣṭāṁ** (full of distress) **daśāṁ** (into a state) **nayati** (brings); (therefore) **rādhāyāḥ rūpaṁ** (Rādhā's beauty) **kila kim api vicitraṁ** (truly something wondrous) **vilasati** (shines).
+
+## 170
+
+> Subheading: (*Vidagdha-mādhava*, Act 5, verse 20)
+
+**Vidhuḥ** (the moon) **divā** (by day), **śata-patraṁ** (the lotus) **śarvarī-mukhe** (in the evening) **bata** (alas) **virūpatāṁ** (loss of luster) **eti** (attain); **iti** (thus) **sadā** (always, day and night) **śriyā** (with beauty) **ujjvalam** (shining) **mat-priyānanam** (Śrī Rādhikā's face) **kena** (with what object of comparison) **tulanāṁ na arhati**[^170-1] (does it not bear comparison — that is, it can be compared with nothing)?
+
 ---
 
 [^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
 
 [^166-1]: So in the edition: *vibhrad-bhrū-bhramaraṁ*; the verse as given in the VCD reads *riṅgad-bhrū-bhramaraṁ*.
+
+[^170-1]: The edition's gloss has a negative (*tulanāṁ na arhati*); the verse reads *tulanām arhati* (“with what can it be compared?”). The sense is the same: there is nothing to compare it with.
