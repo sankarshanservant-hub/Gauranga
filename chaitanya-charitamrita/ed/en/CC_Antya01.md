@@ -500,243 +500,305 @@ every day  He comes;  the Lord  came  unexpectedly
 হরিদাসে মিলি’ প্রভু রূপে আলিঙ্গিলা ॥ ৪৮ ॥
 
 rūpa daṇḍavat kare, — haridāsa kahilā  
-haridāse mili’ prabhu rūpe āliṅgilā
+Rūpa  obeisance  offers,  Haridāsa  said  
+haridāse mili’ prabhu rūpe āliṅgilā  
+with Haridāsa  meeting  the Lord  Rūpa  embraced
 
-(48) [not yet translated]
+(48) “Rūpa is offering You obeisance,” said Haridāsa. The Lord greeted Haridāsa and then embraced Rūpa.
 
 হরিদাস, রূপে লঞা প্রভু বসিলা একস্থানে ৷  
 কুশল-প্রশ্ন, ইষ্টগোষ্ঠী কৈলা কতক্ষণে ॥ ৪৯ ॥
 
 haridāsa, rūpe lañā prabhu vasilā eka-sthāne  
-kuśala-praśna, iṣṭa-goṣṭhī kailā kata-kṣaṇe
+Haridāsa,  Rūpa  taking  the Lord  sat  in one place  
+kuśala-praśna, iṣṭa-goṣṭhī kailā kata-kṣaṇe  
+about welfare questions,  talk on Kṛṣṇa  He had  for some time
 
-(49) [not yet translated]
+(49) The Lord sat down together with Haridāsa and Rūpa. He asked about their welfare, and for some time they spoke together of Kṛṣṇa (*iṣṭa-goṣṭhī*).
 
 সনাতনের বার্ত্তা যবে গোসাঞি পুছিল ৷  
 রূপ কহে, — “তাঁর সঙ্গে দেখা না হইল ॥ ৫০ ॥
 
 sanātanera vārtā yabe gosāñi puchila  
-rūpa kahe, — tāṅra saṅge dekhā nā haila
+of Sanātana  news  when  Gosāñi (the Lord)  asked  
+rūpa kahe, — tāṅra saṅge dekhā nā haila  
+Rūpa  says,  him  with  meeting  not  happened
 
-(50) [not yet translated]
+(50) When the Lord asked for news of Sanātana, Rūpa said, “I did not meet him.
 
 আমি গঙ্গাপথে আইলাঙ, তিঁহো রাজপথে ৷  
 অতএব আমার দেখা নহিল তাঁর সাথে ॥ ৫১ ॥
 
 āmi gaṅgā-pathe āilāṅa, tiṅho rāja-pathe  
-ataeva āmāra dekhā nahila tāṅra sāthe
+I  by the Gaṅgā route  came,  he  by the main road  
+ataeva āmāra dekhā nahila tāṅra sāthe  
+therefore  my  meeting  did not happen  with him
 
-(51) [not yet translated]
+(51) I came by the route along the Gaṅgā, and he by the main road, so we did not meet.
 
 প্রয়াগে শুনিলুঁ, — তেঁহো গেলা বৃন্দাবনে ৷  
 অনুপমের গঙ্গা-প্রাপ্তি কৈল নিবেদনে” ॥ ৫২ ॥
 
 prayāge śuniluṅ, — teṅho gelā vṛndāvane  
-anupamera gaṅgā-prāpti kaila nivedane
+at Prayāga  I heard,  he  went  to Vṛndāvana  
+anupamera gaṅgā-prāpti kaila nivedane  
+of Anupama  the attaining of the Gaṅgā  he made  report
 
-(52) [not yet translated]
+(52) At Prayāga I heard that he had gone to Vṛndāvana.” Then he told the Lord that Anupama had left this world on the bank of the Gaṅgā.
 
 রূপে তাঁহা বাসা দিয়া গোসাঞি চলিলা ৷  
 গোসাঞির সঙ্গী ভক্ত রূপেরে মিলিলা ॥ ৫৩ ॥
 
 rūpe tāṅhā vāsā diyā gosāñi calilā  
-gosāñira saṅgī bhakta rūpere mililā
+to Rūpa  there  lodging  giving  Gosāñi (the Lord)  went away  
+gosāñira saṅgī bhakta rūpere mililā  
+of Gosāñi  the companions  the devotees  Rūpa  met
 
-(53) [not yet translated]
+(53) The Lord gave Rūpa lodging there and left. Then the devotees who accompanied the Lord came to meet Rūpa.
 
 আর দিন মহাপ্রভু সব ভক্ত লঞা ৷  
 রূপে মিলাইলা সবায় কৃপা ত’ করিয়া ॥ ৫৪ ॥
 
 āra dina mahāprabhu saba bhakta lañā  
-rūpe milāilā sabāya kṛpā ta’ kariyā
+the next  day  Mahāprabhu  all  the devotees  taking  
+rūpe milāilā sabāya kṛpā ta’ kariyā  
+Rūpa  introduced  to all  mercy  indeed  showing
 
-(54) [not yet translated]
+(54) The next day Mahāprabhu came with all the devotees and kindly introduced Rūpa to them all.
 
 সবার চরণ রূপ করিলা বন্দন ৷  
 কৃপা করি’ রূপে সবে কৈলা আলিঙ্গন ॥ ৫৫ ॥
 
 sabāra caraṇa rūpa karilā vandana  
-kṛpā kari’ rūpe sabe kailā āliṅgana
+of all  the feet  Rūpa  made  worship  
+kṛpā kari’ rūpe sabe kailā āliṅgana  
+mercy  showing  Rūpa  all  made  embrace
 
-(55) [not yet translated]
+(55) Rūpa bowed at the feet of all of them, and they all kindly embraced him.
 
 ‘অদ্বৈত নিত্যানন্দ, তোমরা দুইজনে ৷  
 প্রভু কহে — রূপে কৃপা কর কায়মনে ॥ ৫৬ ॥
 
 advaita nityānanda, tomarā dui-jane  
-prabhu kahe — rūpe kṛpā kara kāya-mane
+Advaita,  Nityānanda,  You  both  
+prabhu kahe — rūpe kṛpā kara kāya-mane  
+the Lord  says,  to Rūpa  mercy  show  with body and mind
 
-(56) [not yet translated]
+(56) The Lord said, “Advaita and Nityānanda, both of You, give Rūpa Your mercy with all Your heart.
 
 তোমা-দুঁহার কৃপাতে ইঁহার হউ শক্তি ৷  
 যাতে বিবরিতে পারেন কৃষ্ণরসভক্তি’ ॥ ৫৭ ॥
 
 tomā-duṅhāra kṛpāte iṅhāra hau śakti  
-yāte vivarite pārena kṛṣṇa-rasa-bhakti
+of You both  by the mercy  his  may be  the power  
+yāte vivarite pārena kṛṣṇa-rasa-bhakti  
+so that  to describe  he can  in relation to Kṛṣṇa  in rasa  devotion
 
-(57) [not yet translated]
+(57) By the mercy of You both, may he gain the power to describe devotion to Kṛṣṇa and its *rasas*.”
 
 গৌড়ীয়া, ওড়িয়া, যত প্রভুর ভক্তগণ ৷  
 সবার হইল রূপ স্নেহের ভাজন ॥ ৫৮ ॥
 
 gauḍīyā, oḍiyā, yata prabhura bhakta-gaṇa  
-sabāra haila rūpa snehera bhājana
+Gauḍīya,  Oriya,  all  of the Lord  the devotees  
+sabāra haila rūpa snehera bhājana  
+of all  became  Rūpa  of affection  the object
 
-(58) [not yet translated]
+(58) All the Lord’s devotees, from Gauḍa and from Orissa, came to hold Rūpa dear.
 
 প্রতিদিন আসি’ রূপে করেন মিলনে ৷  
 মন্দিরে যে প্রসাদ পান, দেন দুই জনে ॥ ৫৯ ॥
 
 pratidina āsi’ rūpe karena milane  
-mandire ye prasāda pāna, dena dui jane
+every day  coming  with Rūpa  He makes  meeting  
+mandire ye prasāda pāna, dena dui jane  
+in the temple  whatever  prasāda  He receives  He gives  to the two  persons
 
-(59) [not yet translated]
+(59) Every day the Lord came to meet Rūpa, and whatever *prasāda* He received in the temple He gave to the two of them.
 
 ইষ্টগোষ্ঠী দুঁহা-সনে করি’ কতক্ষণ ৷  
 মধ্যাহ্ন করিতে প্রভু করিলা গমন ॥ ৬০ ॥
 
 iṣṭa-goṣṭhī duṅhā-sane kari’ kata-kṣaṇa  
-madhyāhna karite prabhu karilā gamana
+talk on Kṛṣṇa  with the two  having  for some time  
+madhyāhna karite prabhu karilā gamana  
+the midday duties  to perform  the Lord  made  departure
 
-(60) [not yet translated]
+(60) After speaking with them of Kṛṣṇa for a while, the Lord would leave to perform His midday duties.
 
 এইমত প্রতিদিন প্রভুর ব্যবহার ৷  
 প্রভুকৃপা পাঞা রূপের আনন্দ অপার ॥ ৬১ ॥
 
 ei-mata pratidina prabhura vyavahāra  
-prabhu-kṛpā pāñā rūpera ānanda apāra
+in this way  every day  of the Lord  the practice  
+prabhu-kṛpā pāñā rūpera ānanda apāra  
+the Lord’s mercy  receiving  of Rūpa  the joy  boundless
 
-(61) [not yet translated]
+(61) Such was the Lord’s practice every day, and receiving the Lord’s mercy, Rūpa felt boundless joy.
 
 ভক্তগণ লঞা কৈলা গুণ্ডিচা মার্জ্জন ৷  
 আইটোটা আসি’ কৈলা বন্য-ভোজন ॥ ৬২ ॥
 
 bhakta-gaṇa lañā kailā guṇḍicā mārjana  
-āiṭoṭā āsi’ kailā vanya-bhojana
+the devotees  taking  He did  of Guṇḍicā  the cleansing  
+āiṭoṭā āsi’ kailā vanya-bhojana  
+to Āiṭoṭā  coming  He had  a feast in the garden
 
-(62) [not yet translated]
+(62) With the devotees the Lord cleansed the Guṇḍicā temple; then He came to Āiṭoṭā and held a feast in the garden there.
 
 প্রসাদ খায়, ‘হরি’ বলে সর্ব্বভক্তজন ৷  
 দেখি’ হরিদাস-রূপের হরষিত মন ॥ ৬৩ ॥
 
 prasāda khāya, ‘hari’ bale sarva-bhakta-jana  
-dekhi’ haridāsa-rūpera haraṣita mana
+prasāda  eat,  “Hari”  say  all the devotees  
+dekhi’ haridāsa-rūpera haraṣita mana  
+seeing,  of Haridāsa and Rūpa  delighted  the minds
 
-(63) [not yet translated]
+(63) All the devotees were eating *prasāda* and calling out “Hari!” Seeing this, Haridāsa and Rūpa were delighted.
 
 গোবিন্দদ্বারা প্রভুর শেষ-প্রসাদ পাইলা ৷  
 প্রেমে মত্ত দুইজন নাচিতে লাগিলা ॥ ৬৪ ॥
 
 govinda-dvārā prabhura śeṣa-prasāda pāilā  
-preme matta dui-jana nācite lāgilā
+through Govinda  of the Lord  the remnants of prasāda  they received  
+preme matta dui-jana nācite lāgilā  
+in love  intoxicated  the two  to dance  began
 
-(64) [not yet translated]
+(64) Through Govinda they received the remnants of the Lord’s meal, and the two of them, intoxicated with love, began to dance.
 
 আর দিন প্রভু রূপে মিলিয়া বসিলা ৷  
 সর্ব্বজ্ঞ-শিরোমণি প্রভু কহিতে লাগিলা ॥ ৬৫ ॥
 
 āra dina prabhu rūpe miliyā vasilā  
-sarvajña-śiromaṇi prabhu kahite lāgilā
+another  day  the Lord  with Rūpa  meeting  sat  
+sarvajña-śiromaṇi prabhu kahite lāgilā  
+of the omniscient the crown jewel  the Lord  to speak  began
 
-(65) [not yet translated]
+(65) Another day the Lord met Rūpa and sat with him. The Lord, the crown jewel of the omniscient, began to speak:
 
 ‘কৃষ্ণেরে বাহির নাহি করিহ ব্রজ হৈতে ৷  
 ব্রজ ছাড়ি’ কৃষ্ণ কভু না যান কাঁহাতে ॥ ৬৬ ॥
 
 kṛṣṇere bāhira nāhi kariha vraja haite  
-vraja chāḍi’ kṛṣṇa kabhu nā yāna kāṅhāte
+Kṛṣṇa  outside  not  do take  Vraja  from  
+vraja chāḍi’ kṛṣṇa kabhu nā yāna kāṅhāte  
+Vraja  leaving  Kṛṣṇa  ever  not  goes  anywhere
 
-(66) [not yet translated]
+(66) “Do not take Kṛṣṇa out of Vraja. Kṛṣṇa never leaves Vraja to go anywhere else.
 
 কৃষ্ণোঽন্যো যদুসম্ভূতো যস্তু গোপেন্দ্রনন্দনঃ ৷  
 বৃন্দাবনং পরিত্যজ্য স ক্বচিন্নৈব গচ্ছতি’ ॥ ৬৭ ॥
 
 kṛṣṇo ’nyo yadu-sambhūto  
+Kṛṣṇa  another  in the Yadu dynasty  born  
 yastu gopendranandanaḥ  
+who  however  the son of the king of cowherds  
 vṛndāvanaṁ parityajya  
-sa kvacin naiva gacchati
+Vṛndāvana  leaving  
+sa kvacin naiva gacchati  
+He  anywhere  never at all  goes
 
-(67) [not yet translated]
+(67) ‘The Kṛṣṇa born in the Yadu dynasty is another; but He who is the son of the king of the cowherds never leaves Vṛndāvana to go anywhere.’” (Yāmala, quoted in Laghu-bhāgavatāmṛta, 1.5.461)
 
 এত কহি’ মহাপ্রভু মধ্যাহ্নে চলিলা ৷  
 রূপ-গোসাঞি মনে কিছু বিস্ময় হইলা ॥ ৬৮ ॥
 
 eta kahi’ mahāprabhu madhyāhne calilā  
-rūpa-gosāñi mane kichu vismaya hailā
+this  saying  Mahāprabhu  for the midday duties  left  
+rūpa-gosāñi mane kichu vismaya hailā  
+Rūpa Gosāñi  in the mind  some  wonder  felt
 
-(68) [not yet translated]
+(68) Saying this, Mahāprabhu left for His midday duties, and Rūpa Gosāñi was somewhat astonished.
 
 “পৃথক্ নাটক করিতে সত্যভামা আজ্ঞা দিল ৷  
 জানিলু, পৃথক্ নাটক করিতে প্রভু-আজ্ঞা হৈল ॥ ৬৯ ॥
 
 pṛthak nāṭaka karite satyabhāmā ājñā dila  
-jānilu, pṛthak nāṭaka karite prabhu-ājñā haila
+a separate  drama  to write  Satyabhāmā  the order  gave  
+jānilu, pṛthak nāṭaka karite prabhu-ājñā haila  
+I understand,  a separate  drama  to write  the Lord’s order  has come
 
-(69) [not yet translated]
+(69) “Satyabhāmā ordered me to write a separate drama, and now I understand that the Lord too has ordered me to write a separate drama.
 
 পূর্ব্বে দুই নাটক ছিল একত্র রচনা ৷  
 দুইভাগ করি এবে করিমু ঘটনা ॥ ৭০ ॥
 
 pūrve dui nāṭaka chila ekatra racanā  
-dui-bhāga kari ebe karimu ghaṭanā
+before  two  dramas  were  together  in composition  
+dui-bhāga kari ebe karimu ghaṭanā  
+in two parts  dividing  now  I shall make  the plot
 
-(70) [not yet translated]
+(70) Before, the two dramas were composed together. Now I shall divide them in two and arrange their plots.
 
 দুই ‘নান্দী’ ‘প্রস্তাবনা’, দুই ‘সংঘটনা’ ৷  
 পৃথক্ করিয়া লিখি করিয়া ভাবনা” ॥ ৭১ ॥
 
 dui ‘nāndī’ ‘prastāvanā’, dui ‘saṁghaṭanā’  
-pṛthak kariyā likhi kariyā bhāvanā
+two  nāndīs,  prologues,  two  plots  
+pṛthak kariyā likhi kariyā bhāvanā  
+separately  making  I shall write,  making  reflection
 
-(71) [not yet translated]
+(71) Two *nāndī* verses, two prologues (*prastāvanā*), two plots: after careful thought I shall write them separately.”
 
 রথযাত্রায় জগন্নাথ দর্শন করিলা ৷  
 রথ-অগ্রে প্রভুর নৃত্য-কীর্ত্তন দেখিলা ॥ ৭২ ॥
 
 ratha-yātrāya jagannātha darśana karilā  
-ratha-agre prabhura nṛtya-kīrtana dekhilā
+at the Ratha-yātrā  of Jagannātha  darśana  he had  
+ratha-agre prabhura nṛtya-kīrtana dekhilā  
+before the chariot  the Lord’s  dancing and kīrtana  he saw
 
-(72) [not yet translated]
+(72) At the Ratha-yātrā Rūpa had *darśana* of Jagannātha and saw the Lord dancing and singing *kīrtana* before the chariot.
 
 প্রভুর নৃত্য-শ্লোক শুনি’ শ্রীরূপ-গোসাঞি ৷  
 সেই শ্লোকার্থ লঞা শ্লোক করিলা তথাই ॥ ৭৩ ॥
 
 prabhura nṛtya-śloka śuni’ śrī rūpa-gosāñi  
-sei ślokārtha lañā śloka karilā tathāi
+of the Lord  the verse of the dance  hearing  Śrī  Rūpa Gosāñi  
+sei ślokārtha lañā śloka karilā tathāi  
+that  verse’s meaning  taking  a verse  composed  right there
 
-(73) [not yet translated]
+(73) Hearing the verse the Lord recited as He danced, Śrī Rūpa Gosāñi took up its meaning and composed a verse on the spot.
 
 পূর্ব্বে সেই সব কথা কৈরাছি বর্ণন ৷  
 তথাপি কহিয়ে কিছু সংক্ষেপে কথন ॥ ৭৪ ॥
 
 pūrve sei saba kathā kairāchi varṇana  
-tathāpi kahiye kichu saṅkṣepe kathana
+before  those  all  matters  I have made  description  
+tathāpi kahiye kichu saṅkṣepe kathana  
+still  I tell  something  briefly  narration
 
-(74) [not yet translated]
+(74) I have described all this before; still I shall tell something of it briefly.
 
 সামান্য এক শ্লোক প্রভু পড়েন কীর্ত্তনে ৷  
 কেনে শ্লোক পড়ে — ইহা কেহ নাহি জানে ॥ ৭৫ ॥
 
 sāmānya eka śloka prabhu paḍena kīrtane  
-kene śloka paḍe — ihā keha nāhi jāne
+an ordinary  one  verse  the Lord  recites  in kīrtana  
+kene śloka paḍe — ihā keha nāhi jāne  
+why  the verse  He recites  this  anyone  not  knows
 
-(75) [not yet translated]
+(75) During *kīrtana* the Lord would recite an ordinary verse, and no one knew why He recited it.
 
 সবে একা স্বরূপ গোসাঞি শ্লোকের অর্থ জানে ৷  
 শ্লোকানুরূপ পদ প্রভুকে করান আস্বাদনে ॥ ৭৬ ॥
 
 sabe ekā svarūpa gosāñi ślokera artha jāne  
-ślokānurūpa pada prabhuke karāna āsvādane
+only  alone  Svarūpa  Gosāñi  of the verse  the meaning  knows  
+ślokānurūpa pada prabhuke karāna āsvādane  
+matching the verse  songs  to the Lord  makes  relish
 
-(76) [not yet translated]
+(76) Svarūpa Gosāñi alone knew the meaning of the verse, and he would sing songs that matched it for the Lord to relish.
 
 রূপ-গোসাঞি প্রভুর জানিয়া অভিপ্রায় ৷  
 সেই অর্থে শ্লোক কৈলা প্রভুরে যে ভায় ॥ ৭৭ ॥
 
 rūpa-gosāñi prabhura jāniyā abhiprāya  
-sei arthe śloka kailā prabhure ye bhāya
+Rūpa Gosāñi  of the Lord  understanding  the intent  
+sei arthe śloka kailā prabhure ye bhāya  
+in that  sense  a verse  composed  to the Lord  that  appeals
 
-(77) [not yet translated]
+(77) Rūpa Gosāñi understood the Lord’s intent and composed a verse with that meaning, a verse that the Lord loved.
 
 যঃ কৌমারহরঃ স এব হি বরস্তা এব চৈত্রক্ষপা-  
 স্তে চোন্মীলিতমালতীসুরভয়ঃ প্রৌঢ়াঃ কদম্বানিলাঃ ৷  
