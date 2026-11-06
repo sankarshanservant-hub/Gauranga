@@ -292,7 +292,7 @@ See Madhya 1.76.
 
 > Subheading: (The swan's words to Damayantī; *Naiṣadhīya*, canto 3, verse 17)
 
-**he damayanti**, **svargāpagā-hema-mṛṇālinīnāṁ** (*svargāpagāyāḥ*, of the heavenly Ganges, the Mandākinī; *hema-mṛṇālinīnāṁ*, of lotuses like gold) **nānā-mṛṇālāgra-bhujaḥ** (we, who are accustomed to eat the tips of various tender lotus roots) **annānurūpāṁ** (matching what is eaten) **tanu-rūpa-ṛddhiṁ** (a wealth of bodily beauty) **bhajāmaḥ** (have gained); **hi** (for) **kāryaṁ** (the effect) **nidānāt** (from its original cause) **guṇān adhīte** (receives its qualities).[^92-1]
+**he damayanti**, **svargāpagā-hema-mṛṇālinīnāṁ** (*svargāpagāyāḥ*, of the heavenly Ganges, the Mandākinī; *hema-mṛṇālinīnāṁ*, of lotuses like gold) **nānā-mṛṇālāgra-bhujaḥ** (we, who are accustomed to eat the tips of various tender lotus roots) **annānurūpāṁ** (matching what is eaten) **tanu-rūpa-ṛddhiṁ** (a wealth of bodily beauty) **bhajāmaḥ** (have gained); **hi** (for) **kāryaṁ** (the effect) **nidānāt** (from its original cause) **guṇān adhīte** (receives its qualities).
 
 ## 93
 
@@ -901,8 +901,6 @@ That Mahāprabhu went to Vṛndāvana again is not heard of.
 *Thus ends the first chapter of the “Anubhāṣya.”*
 
 ---
-
-[^92-1]: The verse translation reads differently: it has “we, the denizens of heaven”; according to the subheading and the *Anubhāṣya*, these are the swan's words to Damayantī.
 
 [^128-1]: In the head word of the gloss the edition reads “…*viṣaya-saṁsāra*…” (as does the *Amṛta-pravāha-bhāṣya*: “worldly existence”), while the verse and the explanation have *viṣamā* (harsh); translated according to the verse (checked against the scan).
 

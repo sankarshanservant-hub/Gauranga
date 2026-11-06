@@ -46,7 +46,7 @@ Kṛṣṇa born in the Yadu dynasty is the *tattva* of Vāsudeva; He is therefo
 
 ## 75
 
-***Kene*** — in what mood.[^75-1]
+***Kene*** — in what mood.
 
 ## 91
 
@@ -78,7 +78,7 @@ When an actor playing a character enters the stage prompted (called forth) by a 
 
 ## 136
 
-Spring has come. At this season, at night, Paurṇamāsī will unite the complete Lord, Śrī Kṛṣṇa, filled with fresh love (*anurāga*), with the supremely beautiful Śrī Rādhikā, to enhance the beauty of the pastimes. This verse has two meanings, one referring to the moon and one to Śrī Kṛṣṇa; of these, the meaning referring to Śrī Kṛṣṇa is the principal one.[^136-1]
+Spring has come. At this season, at night, Paurṇamāsī will unite the complete Lord, Śrī Kṛṣṇa, filled with fresh love (*anurāga*), with the supremely beautiful Śrī Rādhikā, to enhance the beauty of the pastimes. This verse has two meanings, one referring to the moon and one to Śrī Kṛṣṇa; of these, the meaning referring to Śrī Kṛṣṇa is the principal one.
 
 ## 137
 
@@ -86,7 +86,7 @@ Spring has come. At this season, at night, Paurṇamāsī will unite the complet
 
 ## 138
 
-Devotees whose intelligence knows no obstruction and whose nature is radiant have gathered. This work about Śrī Kṛṣṇa, the Lord of the life of the young wives of the cowherds, has also blossomed with many virtues. And the stage itself is the arena for the dance in the *rāsa-maṇḍala* of Vṛndāvana. Therefore I think that the ripened fruit of the pious merit (*sukṛti*) of people like us has come to light.[^138-1]
+Devotees whose intelligence knows no obstruction and whose nature is radiant have gathered. This work about Śrī Kṛṣṇa, the Lord of the life of the young wives of the cowherds, has also blossomed with many virtues. And the stage itself is the arena for the dance in the *rāsa-maṇḍala* of Vṛndāvana. Therefore I think that the ripened fruit of the pious merit (*sukṛti*) of people like us has come to light.
 
 ## 139
 
@@ -106,7 +106,7 @@ Rādhikā, overcome by *pūrva-rāga*, says: “I heard the syllables of the nam
 
 ## 144
 
-“O beautiful one, taking the form of an image — a painted picture — You dwell in My house (*mandira*)[^144-1]. Wherever I run in fright, there You block My way.” The verse is written in Prakrit; its Sanskrit rendering is this: “Taking the form of an image, O beautiful one, You dwell in My house. Wherever I run in fright, there You forcibly block My way.”
+“O beautiful one, taking the form of an image — a painted picture — You dwell in My house (*mandira*). Wherever I run in fright, there You block My way.” The verse is written in Prakrit; its Sanskrit rendering is this: “Taking the form of an image, O beautiful one, You dwell in My house. Wherever I run in fright, there You forcibly block My way.”
 
 ## 145
 
@@ -240,12 +240,5 @@ If the poet's poetry and the archer's bow, having entered another's heart, canno
 
 ---
 
-[^75-1]: The verse translation reads differently: it says that no one could understand the meaning of the verse, not in what mood the Lord recited it.
-
-[^136-1]: The verse translation reads differently: there the full moon itself awakens in the Lord the impulse of love and the wish to meet Rādhārāṇī; for Bhaktivinoda it is Paurṇamāsī who unites Kṛṣṇa with Rādhikā.
-
-[^138-1]: The verse translation reads differently: it describes the devotees present as constantly thinking of the Supreme Lord; for Bhaktivinoda they are devotees “whose intelligence knows no obstruction.”
-
 [^140-1]: So in the edition (*prabhu*, “the Lord”); in verse 140 it is Rāmānanda Rāya who asks.
 
-[^144-1]: The verse translation reads differently: “in My heart.”
