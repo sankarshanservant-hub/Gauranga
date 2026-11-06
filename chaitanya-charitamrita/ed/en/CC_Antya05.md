@@ -836,169 +836,211 @@ in various ways  revealing  His own  gain  He considers
 গূঢ় ঐশ্বর্য্য-স্বভাব করে প্রকটন ॥ ৮৩ ॥
 
 āra eka ‘svabhāva’ gaurera śuna, bhakta-gaṇa  
-gūḍha aiśvarya-svabhāva kare prakaṭana
+another  one  ‘trait’  of Gaura  hear  O devotees  
+gūḍha aiśvarya-svabhāva kare prakaṭana  
+hidden  majestic nature  He makes  manifest
 
-(83) [not yet translated]
+(83) Hear, O devotees, of yet another trait of Gaura: He makes His hidden, majestic nature manifest.
 
 সন্ন্যাসী-পণ্ডিতগণের করিতে গর্ব্ব নাশ ৷  
 নীচ-শূদ্র-দ্বারা করেন ধর্ম্মের প্রকাশ ॥ ৮৪ ॥
 
 sannyāsī-paṇḍita-gaṇera karite garva nāśa  
-nīca-śūdra-dvārā karena dharmera prakāśa
+of the sannyāsīs and paṇḍitas  to make  of the pride  destruction  
+nīca-śūdra-dvārā karena dharmera prakāśa  
+through a lowly śūdra  He makes  of dharma  the manifestation
 
-(84) [not yet translated]
+(84) To destroy the pride of the *sannyāsīs* and *paṇḍitas*, He makes *dharma* manifest through a lowly *śūdra*.
 
 ‘ভক্তি’, ‘প্রেম’, ‘তত্ত্ব’ কহে রায়ে করি’ ‘বক্তা’ ৷  
 আপনি প্রদ্যুম্নমিশ্র-সহ হয় ‘শ্রোতা’ ॥ ৮৫ ॥
 
 ‘bhakti’, ‘prema’, ‘tattva’ kahe rāye kari’ ‘vaktā’  
-āpani pradyumna-miśra-saha haya ‘śrotā’
+‘bhakti’  ‘prema’  ‘tattva’  He speaks  Rāya  making  ‘the speaker’  
+āpani pradyumna-miśra-saha haya ‘śrotā’  
+Himself  with Pradyumna Miśra  becomes  ‘the listener’
 
-(85) [not yet translated]
+(85) He speaks of *bhakti*, *prema* and *tattva*, making Rāya the speaker, while He Himself, together with Pradyumna Miśra, becomes the listener.
 
 হরিদাস-দ্বারা নাম-মাহাত্ম্য-প্রকাশ ৷  
 সনাতন-দ্বারা ভক্তিসিদ্ধান্ত-বিলাস ॥ ৮৬ ॥
 
 haridāsa-dvārā nāma-māhātmya-prakāśa  
-sanātana-dvārā bhakti-siddhānta-vilāsa
+through Haridāsa  the glory of the holy name  the manifestation  
+sanātana-dvārā bhakti-siddhānta-vilāsa  
+through Sanātana  the play of the conclusions of bhakti
 
-(86) [not yet translated]
+(86) Through Haridāsa He revealed the glory of the holy name; through Sanātana, the play of the conclusions of *bhakti*.
 
 শ্রীরূপ-দ্বারা ব্রজের রস-প্রেম-লীলা ৷  
 কে কহিতে পারে গম্ভীর চৈতন্যের খেলা ? ॥ ৮৭ ॥
 
 śrī-rūpa-dvārā vrajera rasa-prema-līlā  
-ke kahite pāre gambhīra caitanyera khelā?
+through Śrī Rūpa  of Vraja  the pastimes of rasa and prema  
+ke kahite pāre gambhīra caitanyera khelā?  
+who  to tell  can  profound  Caitanya’s  play
 
-(87) [not yet translated]
+(87) Through Śrī Rūpa He revealed Vraja’s pastimes of *rasa* and *prema*. Who can describe the profound play of Caitanya?
 
 শ্রীচৈতন্যলীলা এই — অমৃতের সিন্ধু ৷  
 জগৎ ভাসাইতে পারে যার এক বিন্দু ॥ ৮৮ ॥
 
 śrī-caitanya-līlā ei — amṛtera sindhu  
-jagat  bhāsāite  pāre  yāra  eka  bindu
+Śrī Caitanya’s pastimes  these  of nectar  an ocean  
+jagat  bhāsāite  pāre  yāra  eka  bindu  
+the world  to flood  can  whose  one  drop
 
-(88) [not yet translated]
+(88) These pastimes of Śrī Caitanya are an ocean of nectar, a single drop of which can flood the world.
 
 চৈতন্যচরিতামৃত নিত্য কর পান ৷  
 যাহা হৈতে ‘প্রেমানন্দ’, ‘ভক্তিতত্ত্ব-জ্ঞান’ ॥ ৮৯ ॥
 
 caitanya-caritāmṛta nitya kara pāna  
-yāhā haite ‘premānanda’, ‘bhakti-tattva-jñāna’
+the Caitanya-caritāmṛta  always  do  drink  
+yāhā haite ‘premānanda’, ‘bhakti-tattva-jñāna’  
+from which  ‘the bliss of prema’  ‘knowledge of the truth of bhakti’
 
-(89) [not yet translated]
+(89) Drink the *Caitanya-caritāmṛta* constantly, for from it come the bliss of *prema* and knowledge of the truth of *bhakti*.
 
 এইমত মহাপ্রভু ভক্তগণ লঞা ৷  
 নীলাচলে বিহরয়ে ভক্তি প্রচারিয়া ॥ ৯০ ॥
 
 ei-mata mahāprabhu bhakta-gaṇa lañā  
-nīlācale  viharaye  bhakti  pracāriyā
+in this way  Mahāprabhu  the devotees  taking with Him  
+nīlācale  viharaye  bhakti  pracāriyā  
+in Nīlācala  sports  bhakti  preaching
 
-(90) [not yet translated]
+(90) In this way Mahāprabhu, together with His devotees, enjoyed His pastimes in Nīlācala, preaching *bhakti*.
 
 বঙ্গদেশী এক বিপ্র প্রভুর চরিতে ৷  
 নাটক করি’ লঞা আইলা শুনাইতে ॥ ৯১ ॥
 
 baṅga-deśī eka vipra prabhura carite  
-nāṭaka kari’ lañā āilā śunāite
+from Bengal  a  brāhmaṇa  on the Lord’s  life  
+nāṭaka kari’ lañā āilā śunāite  
+a drama  having made  taking  came  to recite
 
-(91) [not yet translated]
+(91) A brāhmaṇa from Bengal composed a drama on the Lord’s life and came, bringing it to recite.
 
 ভগবান্-আচার্য্য-সনে তার পরিচয় ৷  
 তাঁরে মিলি’ তাঁর ঘরে করিল আলয় ॥ ৯২ ॥
 
 bhagavān-ācārya-sane tāra paricaya  
-tāṅre mili’ tāṅra ghare karila ālaya
+Bhagavān Ācārya  with  his  acquaintance  
+tāṅre mili’ tāṅra ghare karila ālaya  
+him  having met  in his  house  made  his lodging
 
-(92) [not yet translated]
+(92) He was acquainted with Bhagavān Ācārya; having met him, he took lodging in his house.
 
 প্রথমে নাটক তেঁহো তাঁরে শুনাইল ৷  
 তাঁর সঙ্গে অনেক বৈষ্ণব নাটক শুনিল ॥ ৯৩ ॥
 
 prathame nāṭaka teṅho tāṅre śunāila  
-tāṅra saṅge aneka vaiṣṇava nāṭaka śunila
+first  the drama  he  to him  recited  
+tāṅra saṅge aneka vaiṣṇava nāṭaka śunila  
+with him  many  Vaiṣṇavas  the drama  heard
 
-(93) [not yet translated]
+(93) First he recited the drama to him, and many Vaiṣṇavas heard it along with him.
 
 সবেই প্রশংসে নাটক ‘পরম উত্তম’ ৷  
 মহাপ্রভুরে শুনাইতে সবার হৈল মন ॥ ৯৪ ॥
 
 sabei praśaṁse nāṭaka ‘parama uttama’  
-mahāprabhure śunāite sabāra haila mana
+all  praise  the drama  ‘most excellent’  
+mahāprabhure śunāite sabāra haila mana  
+to Mahāprabhu  to recite  of all  arose  the wish
 
-(94) [not yet translated]
+(94) Everyone praised the drama as “most excellent,” and all wished to have Mahāprabhu hear it.
 
 গীত, শ্লোক, গ্রন্থ, কবিত্ব — যেই করি’ আনে ৷  
 প্রথমে শুনায় সেই স্বরূপের স্থানে ॥ ৯৫ ॥
 
 gīta, śloka, grantha, kavitva — yei kari’ āne  
-prathame śunāya sei svarūpera sthāne
+song  verse  book  poem  —  whatever  having made  one brings  
+prathame śunāya sei svarūpera sthāne  
+first  has it heard  that  in Svarūpa’s  presence
 
-(95) [not yet translated]
+(95) Whatever song, verse, book or poem anyone composed and brought, he would first recite it before Svarūpa.
 
 স্বরূপ-ঠাঞি উত্তরে যদি, লয় তাঁর মন ৷  
 তবে মহাপ্রভু-ঠাঞি করায় শ্রবণ ॥ ৯৬ ॥
 
 svarūpa-ṭhāñi uttare yadi, laya tāṅra mana  
-tabe mahāprabhu-ṭhāñi karāya śravaṇa
+before Svarūpa  passes  if  accepts  his  mind  
+tabe mahāprabhu-ṭhāñi karāya śravaṇa  
+then  before Mahāprabhu  causes  the hearing
 
-(96) [not yet translated]
+(96) If it passed before Svarūpa and his mind accepted it, only then would it be recited for Mahāprabhu to hear.
 
 ‘রসাভাস’ হয় যদি ‘সিদ্ধান্তবিরোধ’ ৷  
 সহিতে না পারে প্রভু, মনে হয় ক্রোধ ॥ ৯৭ ॥
 
 ‘rasābhāsa’ haya yadi ‘siddhānta-virodha’  
-sahite nā pāre prabhu, mane haya krodha
+‘rasābhāsa’  is  if  ‘opposition to siddhānta’  
+sahite nā pāre prabhu, mane haya krodha  
+to bear  not  can  the Lord  in the mind  arises  anger
 
-(97) [not yet translated]
+(97) If there was *rasābhāsa*, a mere semblance of *rasa*, or anything opposed to *siddhānta*, the Lord could not bear it, and anger arose in His mind.
 
 অতএব প্রভু কিছু আগে নাহি শুনে ৷  
 এই মর্য্যাদা প্রভু কৈরাছেন নিয়মে ॥ ৯৮ ॥
 
 ataeva prabhu kichu āge nāhi śune  
-ei maryādā prabhu kairāchena niyame
+therefore  the Lord  anything  first  not  hears  
+ei maryādā prabhu kairāchena niyame  
+this  rule of propriety  the Lord  has made  as a fixed rule
 
-(98) [not yet translated]
+(98) Therefore the Lord would not hear anything first; He had made this rule of propriety a fixed principle.
 
 স্বরূপের ঠাঞি আচার্য্য কৈলা নিবেদন ৷  
 এক বিপ্র প্রভুর নাটক কৈরাছে উত্তম ॥ ৯৯ ॥
 
 svarūpera ṭhāñi ācārya kailā nivedana  
-eka vipra prabhura nāṭaka kairāche uttama
+before Svarūpa  the Ācārya  made  a request  
+eka vipra prabhura nāṭaka kairāche uttama  
+a  brāhmaṇa  on the Lord  a drama  has composed  excellent
 
-(99) [not yet translated]
+(99) Bhagavān Ācārya made a request to Svarūpa: “A brāhmaṇa has composed an excellent drama about the Lord.
 
 আদৌ তুমি শুন, যদি তোমার মন মানে ৷  
 পাছে মহাপ্রভুরে তবে করাইমু শ্রবণে ॥ ১০০ ॥
 
 ādau tumi śuna, yadi tomāra mana māne  
-pāche mahāprabhure tabe karāimu śravaṇe
+first  you  hear  if  your  mind  accepts  
+pāche mahāprabhure tabe karāimu śravaṇe  
+afterwards  Mahāprabhu  then  I shall have  hear
 
-(100) [not yet translated]
+(100) First you hear it, if your mind accepts it; afterwards I shall have Mahāprabhu hear it.”
 
 স্বরূপ কহে, — তুমি ‘গোপ’ পরম-উদার ৷  
 যে-সে শাস্ত্র শুনিতে ইচ্ছা উপজে তোমার ॥ ১০১ ॥
 
 svarūpa kahe, — tumi ‘gopa’ parama-udāra  
-ye-se śāstra śunite icchā upaje tomāra
+Svarūpa  says  —  you  a ‘cowherd’  most generous  
+ye-se śāstra śunite icchā upaje tomāra  
+any whatever  śāstra  to hear  desire  arises  your
 
-(101) [not yet translated]
+(101) Svarūpa said, “You are a ‘cowherd’ (*gopa*), most generous: a desire arises in you to hear any scripture whatever.
 
 ‘যদ্বা-তদ্বা’ কবির বাক্যে হয় ‘রসাভাস’ ৷  
 সিদ্ধান্তবিরুদ্ধ শুনিতে না হয় উল্লাস ॥ ১০২ ॥
 
 ‘yadvā-tadvā’ kavira vākye haya ‘rasābhāsa’  
-siddhānta-viruddha śunite nā haya ullāsa
+‘any whatever’  of a poet  in the words  is  ‘rasābhāsa’  
+siddhānta-viruddha śunite nā haya ullāsa  
+opposed to siddhānta  to hear  not  arises  joy
 
-(102) [not yet translated]
+(102) In the words of just any poet there is *rasābhāsa*, and hearing what is opposed to *siddhānta* brings no joy.
 
 ‘রস’, ‘রসাভাস’ যার নাহিক বিচার ৷  
 ভক্তিসিদ্ধান্ত-সিন্ধু নাহি পায় পার ॥ ১০৩ ॥
 
 ‘rasa’, ‘rasābhāsa’ yāra nāhika vicāra  
-bhakti-siddhānta-sindhu nāhi pāya pāra
+‘rasa’  ‘rasābhāsa’  whose  there is no  discrimination  
+bhakti-siddhānta-sindhu nāhi pāya pāra  
+of the conclusions of bhakti  the ocean  not  reaches  the shore
 
-(103) [not yet translated]
+(103) One who cannot discriminate between *rasa* and *rasābhāsa* never reaches the far shore of the ocean of *bhakti-siddhānta*.
 
 ‘ব্যাকরণ’ নাহি জানে, না জানে ‘অলঙ্কার’ ৷  
 ‘নাটকালঙ্কার’-জ্ঞান নাহিক যাহার ॥ ১০৪ ॥
@@ -1007,59 +1049,75 @@ bhakti-siddhānta-sindhu nāhi pāya pāra
 বিশেষে দুর্গম এই চৈতন্য-বিহার ॥ ১০৫ ॥
 
 ‘vyākaraṇa’ nāhi jāne, nā jāne ‘alaṅkāra’  
+‘grammar’  not  knows  not  knows  ‘rhetoric’  
 ‘nāṭakālaṅkāra’-jñāna nāhika yāhāra  
+‘of the ornaments of drama’  knowledge  there is no  whose  
 kṛṣṇa-līlā varṇite nā jāne sei chāra!  
-viśeṣe durgama ei caitanya-vihāra
+Kṛṣṇa’s pastimes  to describe  not  knows  that  worthless one  
+viśeṣe durgama ei caitanya-vihāra  
+especially  inaccessible  this  play of Caitanya
 
-(104–105) [not yet translated]
+(104–105) One who knows neither grammar nor rhetoric and has no knowledge of the ornaments of drama — such a worthless one does not know how to describe Kṛṣṇa’s pastimes, and this play of Caitanya is especially hard to approach.
 
 কৃষ্ণলীলা, গৌরলীলা সে করে বর্ণন ৷  
 গৌর-পাদপদ্ম যাঁর হয় প্রাণ-ধন ॥ ১০৬ ॥
 
 kṛṣṇa-līlā, gaura-līlā se kare varṇana  
-gaura-pāda-padma yāṅra haya prāṇa-dhana
+Kṛṣṇa’s pastimes  Gaura’s pastimes  he  does  describe  
+gaura-pāda-padma yāṅra haya prāṇa-dhana  
+Gaura’s  lotus feet  whose  are  the wealth of life
 
-(106) [not yet translated]
+(106) Only one for whom the lotus feet of Gaura are the very wealth of life can describe the pastimes of Kṛṣṇa and the pastimes of Gaura.
 
 গ্রাম্য-কবির কবিত্ব শুনিতে হয় ‘দুঃখ’ ৷  
 বিদগ্ধ-আত্মীয়-বাক্য শুনিতে হয় ‘সুখ’ ॥ ১০৭ ॥
 
 grāmya-kavira kavitva śunite haya ‘duḥkha’  
-vidagdha-ātmīya-vākya śunite haya ‘sukha’
+of a mundane poet  the poetry  to hear  is  ‘pain’  
+vidagdha-ātmīya-vākya śunite haya ‘sukha’  
+of one expert and intimate  the words  to hear  is  ‘joy’
 
-(107) [not yet translated]
+(107) To hear the poetry of a mundane poet (*grāmya-kavi*) is painful; to hear the words of one who is expert and intimate (*vidagdha ātmīya*) is a joy.
 
 রূপ যৈছে দুই নাটক কৈরাছে আরম্ভে ৷  
 শুনিতে আনন্দ বাড়ে যার মুখবন্ধে ॥ ১০৮ ॥
 
 rūpa yaiche dui nāṭaka kairāche ārambhe  
-śunite ānanda bāḍe yāra mukha-bandhe
+Rūpa  as  two  dramas  has composed  at the outset  
+śunite ānanda bāḍe yāra mukha-bandhe  
+to hear  joy  increases  whose  in the prologue
 
-(108) [not yet translated]
+(108) Take the two dramas Rūpa has composed: on hearing their very opening, the prologue, one’s joy increases.”
 
 ভগবান্-আচার্য্য কহে, — শুন একবার ৷  
 তুমি শুনিলে ভাল-মন্দ জানিবে বিচার ॥ ১০৯ ॥
 
 bhagavān-ācārya kahe, — śuna eka-bāra  
-tumi śunile bhāla-manda jānibe vicāra
+Bhagavān Ācārya  says  —  hear  once  
+tumi śunile bhāla-manda jānibe vicāra  
+you  having heard  good or bad  will know  the judgment
 
-(109) [not yet translated]
+(109) Bhagavān Ācārya said, “Just hear it once. When you have heard it, you will be able to judge whether it is good or bad.”
 
 দুই-তিন-দিন আচার্য্য আগ্রহ করিল ৷  
 তাঁর আগ্রহে স্বরূপের শুনিতে ইচ্ছা হৈল ॥ ১১০ ॥
 
 dui-tina-dina ācārya āgraha karila  
-tāṅra āgrahe svarūpera śunite icchā haila
+two or three days  the Ācārya  insistence  made  
+tāṅra āgrahe svarūpera śunite icchā haila  
+by his  insistence  in Svarūpa  to hear  the desire  arose
 
-(110) [not yet translated]
+(110) For two or three days the Ācārya pressed him, and at his insistence Svarūpa became willing to hear it.
 
 সবা লঞা স্বরূপ-গোসাঞি শুনিতে বসিলা ৷  
 তবে সেই কবি নান্দী-শ্লোক পড়িলা ॥ ১১১ ॥
 
 sabā lañā svarūpa-gosāñi śunite vasilā  
-tabe sei kavi nāndī-śloka paḍilā
+all  taking  Svarūpa Gosāñi  to hear  sat down  
+tabe sei kavi nāndī-śloka paḍilā  
+then  that  poet  the nāndī verse  recited
 
-(111) [not yet translated]
+(111) Svarūpa Gosāñi sat down with everyone to listen, and the poet recited the *nāndī* verse, the opening benediction.
 
 বিকচকমলনেত্রে শ্রীজগন্নাথসংজ্ঞে  
 কনকরুচিরিহাত্মন্যাত্মতাং যঃ প্রপন্নঃ ৷  
@@ -1067,98 +1125,124 @@ tabe sei kavi nāndī-śloka paḍilā
 স দিশতু তব ভব্যং কৃষ্ণচৈতন্যদেবঃ ॥ ১১২ ॥
 
 vikaca-kamala-netre śrī-jagannātha-saṁjñe  
+with eyes like blossoming lotuses  named Śrī Jagannātha  
 kanaka-rucir ihātmany ātmatāṁ yaḥ prapannaḥ  
+golden-hued  here in the body  selfhood  who  has attained  
 prakṛti-jaḍam aśeṣaṁ cetayann āvirāsīt  
-sa diśatu tava bhavyaṁ kṛṣṇa-caitanya-devaḥ
+inert matter  all  enlivening  appeared  
+sa diśatu tava bhavyaṁ kṛṣṇa-caitanya-devaḥ  
+He  may grant  your  welfare  Kṛṣṇa Caitanya-deva
 
-(112) [not yet translated]
+(112) “He of golden luster who has here taken as His self the body (*ātman*) named Śrī Jagannātha, whose eyes are like blossoming lotuses, and who has appeared to enliven the whole of inert matter — may that Kṛṣṇa Caitanya-deva grant you good fortune.”
 
 শ্লোক শুনি’ সর্ব্বলোক তাহারে বাখানে ৷  
 স্বরূপ কহে, — এই শ্লোক করহ ব্যাখ্যানে ॥ ১১৩ ॥
 
 śloka śuni’ sarva-loka tāhāre vākhāne  
-svarūpa kahe, — ei śloka karaha vyākhyāne
+the verse  hearing  all the people  him  praised  
+svarūpa kahe, — ei śloka karaha vyākhyāne  
+Svarūpa  says  —  this  verse  do  explain
 
-(113) [not yet translated]
+(113) Hearing the verse, everyone praised the poet, but Svarūpa said, “Explain this verse.”
 
 কবি কহে, — জগন্নাথ — সুন্দর-শরীর ৷  
 চৈতন্য-গোসাঞি — শরীরী মহাধীর ॥ ১১৪ ॥
 
 kavi kahe, — jagannātha — sundara-śarīra  
-caitanya-gosāñi — śarīrī mahā-dhīra
+the poet  says  —  Jagannātha  —  the beautiful body  
+caitanya-gosāñi — śarīrī mahā-dhīra  
+Caitanya Gosāñi  —  the embodied one  most steady
 
-(114) [not yet translated]
+(114) The poet said, “Jagannātha is the beautiful body, and Caitanya Gosāñi, most grave and steady, is the one embodied in it (*śarīrī*).
 
 সহজে জড়জগতের চেতন করাইতে ৷  
 নীলাচলে মহাপ্রভু হৈলা আবির্ভূতে ॥ ১১৫ ॥
 
 sahaje jaḍa-jagatera cetana karāite  
-nīlācale mahāprabhu hailā āvirbhūte
+naturally  the inert world  conscious  to make  
+nīlācale mahāprabhu hailā āvirbhūte  
+in Nīlācala  Mahāprabhu  became  manifest
 
-(115) [not yet translated]
+(115) To bestow consciousness on the inert world, as is His nature, Mahāprabhu has appeared in Nīlācala.”
 
 শুনিয়া সবার হৈল আনন্দিত মন ৷  
 দুঃখ পাঞা স্বরূপ কহে সক্রোধ বচন ॥ ১১৬ ॥
 
 śuniyā sabāra haila ānandita mana  
-duḥkha pāñā svarūpa kahe sakrodha vacana
+hearing  of all  became  joyful  the mind  
+duḥkha pāñā svarūpa kahe sakrodha vacana  
+pain  feeling  Svarūpa  speaks  angry  words
 
-(116) [not yet translated]
+(116) Hearing this, everyone was delighted, but Svarūpa, deeply pained, spoke angry words:
 
 আরে মূর্খ, আপনার কৈলি সর্ব্বনাশ !  
 দুই ত’ ঈশ্বরে তোর নাহিক বিশ্বাস ! ॥ ১১৭ ॥
 
 āre mūrkha, āpanāra kaili sarva-nāśa!  
-dui ta’ īśvare tora nāhika viśvāsa!
+O  fool  your own  you have made  utter ruin  
+dui ta’ īśvare tora nāhika viśvāsa!  
+in the two  indeed  Lords  your  there is no  faith
 
-(117) [not yet translated]
+(117) “O fool, you have brought about your own utter ruin! You have no faith in either of the two Lords!
 
 পূর্ণানন্দ-চিৎস্বরূপ জগন্নাথ-রায় ৷  
 তাঁরে কৈলি জড়-নশ্বর-প্রাকৃত-কায়! ॥ ১১৮ ॥
 
 pūrṇānanda-citsvarūpa jagannātha-rāya  
-tāṅre kaili jaḍa-naśvara-prākṛta-kāya!
+full of bliss  a form of pure spirit  Lord Jagannātha  
+tāṅre kaili jaḍa-naśvara-prākṛta-kāya!  
+Him  you have made  an inert, perishable, material  body
 
-(118) [not yet translated]
+(118) Lord Jagannātha is full of bliss, a form of pure spirit, yet you have made Him out to be an inert, perishable, material body!
 
 পূর্ণ-ষড়ৈশ্বর্য্য চৈতন্য — স্বয়ং ভগবান্ ৷  
 তাঁরে কৈলি ক্ষুদ্র-জীব স্ফুলিঙ্গ-সমান ! ॥ ১১৯ ॥
 
 pūrṇa-ṣaḍ-aiśvarya caitanya — svayaṁ bhagavān  
-tāṅre kaili kṣudra-jīva sphuliṅga-samāna!
+full of the six opulences  Caitanya  —  Svayam Bhagavān  
+tāṅre kaili kṣudra-jīva sphuliṅga-samāna!  
+Him  you have made  a tiny jīva  a spark  like
 
-(119) [not yet translated]
+(119) Caitanya, full in all six opulences, is Svayam Bhagavān, the Supreme Lord Himself, yet you have made Him out to be a tiny *jīva*, like a spark!
 
 দুই-ঠাঞি অপরাধে পাইবি দুর্গতি !  
 অতত্ত্বজ্ঞ ‘তত্ত্ব’ বর্ণে, তার এই গতি ! ॥ ১২০ ॥
 
 dui-ṭhāñi aparādhe pāibi durgati!  
-atattva-jña ‘tattva’ varṇe, tāra ei gati!
+in two places  by the offense  you will get  a dire fate  
+atattva-jña ‘tattva’ varṇe, tāra ei gati!  
+one ignorant of truth  ‘truth’  describes  his  this  fate
 
-(120) [not yet translated]
+(120) For this offense against both you will meet a dire fate! When one ignorant of the truth describes the truth, this is his fate!
 
 আর এক কৈরাছ পরম ‘প্রমাদ’ !  
 দেহ-দেহি-ভেদ ঈশ্বরে কৈলে ‘অপরাধ’ ! ॥ ১২১ ॥
 
 āra eka kairācha parama ‘pramāda’!  
-deha-dehi-bheda īśvare kaile ‘aparādha’!
+and  one  you have made  great  ‘blunder’  
+deha-dehi-bheda īśvare kaile ‘aparādha’!  
+the difference of body and embodied  in the Lord  you made  ‘an offense’
 
-(121) [not yet translated]
+(121) You have committed yet another great blunder (*pramāda*): by making a distinction between body and embodied in the Lord, you have committed an offense!
 
 ঈশ্বরের নাহি কভু দেহ-দেহি-ভেদ ৷  
 স্বরূপ, দেহ, — চিদানন্দ, নাহিক বিভেদ ॥ ১২২ ॥
 
 īśvarera nāhi kabhu deha-dehi-bheda  
-svarūpa, deha, — cid-ānanda, nāhika vibheda
+of the Lord  there is not  ever  body–embodied  difference  
+svarūpa, deha, — cid-ānanda, nāhika vibheda  
+His own form  body  —  spirit and bliss  there is no  difference
 
-(122) [not yet translated]
+(122) In the Lord there is never any difference between body and embodied. His own form (*svarūpa*) and His body are both spirit and bliss; there is no difference between them.
 
 দেহ-দেহি-বিভাগোঽযং নেশ্বরে বিদ্যতে ক্বচিৎ ॥ ১২৩ ॥
 
 deha-dehi-vibhāgo ’yaṁ  
-neśvare vidyate kvacit
+of body and embodied  division  this  
+neśvare vidyate kvacit  
+not in the Lord  exists  ever
 
-(123) [not yet translated]
+(123) “This division of body and embodied never exists in the Lord.” (Kūrma Purāṇa)
 
 নাতঃ পরং পরম যদ্ভবতঃ স্বরূপ-  
 মানন্দমাত্রমবিকল্পমবিদ্ধবর্চ্চঃ ৷  
