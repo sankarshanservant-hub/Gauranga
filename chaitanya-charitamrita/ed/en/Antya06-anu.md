@@ -629,7 +629,7 @@ These words too show that the godless (*pāṣaṇḍīs*) who oppose the teachi
 
 ## 188
 
-> Subheading: He reaches Purī in twelve days; on the way he ate on only three days —
+> Subheading: He reaches Purī in twelve days; on the way he ate on only three days[^188-1] —
 
 ## 189
 
@@ -1098,6 +1098,8 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 *Thus ends the sixth chapter of the “Anubhāṣya.”*
 
 ---
+
+[^188-1]: In the verse translation, otherwise: “after twenty days of travel”; in the Bengali verse, as in the subheading, “in twelve days.”
 
 [^226-1]: So in the edition; the words quoted are from the *Bhakti-sandarbha*, *anuccheda* 283.
 
