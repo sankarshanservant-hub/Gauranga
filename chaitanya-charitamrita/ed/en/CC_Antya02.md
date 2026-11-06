@@ -311,25 +311,31 @@ with one mind  being  that  hear  with certainty
 অবিশ্বাস ছাড়, যেই কৈরাছ অন্তর ॥ ৩১ ॥
 
 ‘gaura-gopāla-mantra’ tomāra cāri-akṣara  
-aviśvāsa chāḍa, yei kairācha antara
+the ‘Gaura-Gopāla mantra’  your  of four syllables  
+aviśvāsa chāḍa, yei kairācha antara  
+disbelief  give up  which  you have made  within
 
-(31) [not yet translated]
+(31) your ‘Gaura-Gopāla mantra’ has four syllables. Give up the disbelief you have kept in your heart.”
 
 তবে শিবানন্দের মনে প্রতীতি হইল ৷  
 অনেক সম্মান করি’ বহু ভক্তি কৈল ॥ ৩২ ॥
 
 tabe śivānandera mane pratīti haila  
-aneka sammāna kari’ bahu bhakti kaila
+then  in Śivānanda’s  mind  conviction  arose  
+aneka sammāna kari’ bahu bhakti kaila  
+much  respect  showing  great  devotion  he showed
 
-(32) [not yet translated]
+(32) Then conviction arose in Śivānanda’s mind, and he showed him great respect and much devotion.
 
 এইমত মহাপ্রভুর অচিন্ত্য প্রভাব ৷  
 এবে শুন প্রভুর যৈছে হয় ‘আবির্ভাব’ ॥ ৩৩ ॥
 
 ei-mata mahāprabhura acintya prabhāva  
-ebe śuna prabhura yaiche haya ‘āvirbhāva’
+such  Mahāprabhu’s  inconceivable  power  
+ebe śuna prabhura yaiche haya ‘āvirbhāva’  
+now  hear  the Lord’s  how  takes place  ‘appearance’
 
-(33) [not yet translated]
+(33) Such is the inconceivable power of Mahāprabhu. Now hear how the Lord’s ‘āvirbhāva’ (appearance) takes place.
 
 শচীর মন্দিরে, আর নিত্যানন্দ-নর্ত্তনে ৷  
 শ্রীবাস-কীর্ত্তনে, আর রাঘব-ভবনে ॥ ৩৪ ॥
@@ -338,211 +344,265 @@ ebe śuna prabhura yaiche haya ‘āvirbhāva’
 প্রেমাকৃষ্ট হয়, — প্রভুর সহজ-স্বভাব ॥ ৩৫ ॥
 
 śacīra mandire, āra nityānanda-nartane  
+in Śacī’s  house  and  at Nityānanda’s  dancing  
 śrīvāsa-kīrtane, āra rāghava-bhavane  
+at Śrīvāsa’s  kīrtana  and  in Rāghava’s  home  
 ei cāri ṭhāñi prabhura sadā ‘āvirbhāva’  
-premākṛṣṭa haya, — prabhura sahaja-svabhāva
+in these  four  places  the Lord’s  always  ‘appearance’  
+premākṛṣṭa haya, — prabhura sahaja-svabhāva  
+by prema drawn  He is  —  the Lord’s  innate  nature
 
-(34–35) [not yet translated]
+(34–35) In Śacī’s house, at Nityānanda’s dancing, at Śrīvāsa’s kīrtana and in Rāghava’s home — in these four places the Lord always makes His ‘āvirbhāva’. He is drawn by prema: that is the Lord’s innate nature.
 
 নৃসিংহানন্দের আগে আবির্ভূত হঞা ৷  
 ভোজন করিলা, তাহা শুন মন দিয়া ॥ ৩৬ ॥
 
 nṛsiṁhānandera āge āvirbhūta hañā  
-bhojana karilā, tāhā śuna mana diyā
+of Nṛsiṁhānanda  before  appearing  
+bhojana karilā, tāhā śuna mana diyā  
+a meal  He took  that  hear  attentively
 
-(36) [not yet translated]
+(36) Appearing before Nṛsiṁhānanda, He took a meal. Hear of it attentively.
 
 শিবানন্দের ভাগিনা শ্রীকান্ত-সেন নাম ৷  
 প্রভুর কৃপাতে তেঁহো বড় ভাগ্যবান্ ॥ ৩৭ ॥
 
 śivānandera bhāginā śrīkānta-sena nāma  
-prabhura kṛpāte teṅho baḍa bhāgyavān
+Śivānanda’s  nephew  Śrīkānta Sena  by name  
+prabhura kṛpāte teṅho baḍa bhāgyavān  
+by the Lord’s  mercy  he  very  fortunate
 
-(37) [not yet translated]
+(37) Śivānanda’s nephew was named Śrīkānta Sena; by the Lord’s mercy he was most fortunate.
 
 এক বৎসর তেঁহো প্রথম একেশ্বর ৷  
 প্রভু দেখিবারে আইলা উৎকণ্ঠা-অন্তর ॥ ৩৮ ॥
 
 eka vatsara teṅho prathama ekeśvara  
-prabhu dekhibāre āilā utkaṇṭhā-antara
+one  year  he  for the first time  alone  
+prabhu dekhibāre āilā utkaṇṭhā-antara  
+the Lord  to see  came  with longing  in his heart
 
-(38) [not yet translated]
+(38) One year he came for the first time, alone, to see the Lord, his heart full of longing.
 
 মহাপ্রভু তারে দেখি’ বড় কৃপা কৈলা ৷  
 মাস-দুই তেঁহো প্রভুর নিকটে রহিলা ॥ ৩৯ ॥
 
 mahāprabhu tāre dekhi’ baḍa kṛpā kailā  
-māsa-dui teṅho prabhura nikaṭe rahilā
+Mahāprabhu  him  seeing  great  mercy  showed  
+māsa-dui teṅho prabhura nikaṭe rahilā  
+about two months  he  of the Lord  near  stayed
 
-(39) [not yet translated]
+(39) When Mahāprabhu saw him, He showed him great mercy, and he stayed near the Lord for about two months.
 
 তবে প্রভু তাঁরে আজ্ঞা কৈলা গৌড়ে যাইতে ৷  
 ভক্তগণে নিষেধিলা ইঁহাকে আসিতে ॥ ৪০ ॥
 
 tabe prabhu tāṅre ājñā kailā gauḍe yāite  
-bhakta-gaṇe niṣedhilā iṅhāke āsite
+then  the Lord  him  order  gave  to Gauḍa  to go  
+bhakta-gaṇe niṣedhilā iṅhāke āsite  
+the devotees  He forbade  here  to come
 
-(40) [not yet translated]
+(40) Then the Lord ordered him to go to Gauḍa, and He forbade the devotees to come here:
 
 এ-বৎসর তাঁহা আমি যাইমু আপনে ৷  
 তাঁহাই মিলিমু সব অদ্বৈতাদি সনে ॥ ৪১ ॥
 
 e-vatsara tāṅhā āmi yāimu āpane  
-tāṅhāi milimu saba advaitādi sane
+this year  there  I  shall go  Myself  
+tāṅhāi milimu saba advaitādi sane  
+there  I shall meet  all  with Advaita and the others
 
-(41) [not yet translated]
+(41) “This year I shall go there Myself, and there I shall meet everyone — Advaita and all the others.
 
 শিবানন্দে কহিহ, — আমি এই পৌষ-মাসে ৷  
 আচম্বিতে অবশ্য আমি যাইমু তাঁর পাশে ॥ ৪২ ॥
 
 śivānande kahiha, — āmi ei pauṣa-māse  
-ācambite avaśya āmi yāimu tāṅra pāśe
+to Śivānanda  say  —  I  this  in Pauṣa month  
+ācambite avaśya āmi yāimu tāṅra pāśe  
+unexpectedly  certainly  I  shall come  his  to the side
 
-(42) [not yet translated]
+(42) Tell Śivānanda that this month of Pauṣa I shall certainly come to him unexpectedly.
 
 জগদানন্দ হয় তাঁহা, তেঁহো ভিক্ষা দিবে ৷  
 সবারে কহিহ, — এ বৎসর কেহ না আসিবে ॥ ৪৩ ॥
 
 jagadānanda haya tāṅhā, teṅho bhikṣā dibe  
-sabāre kahiha, — e vatsara keha nā āsibe
+Jagadānanda  is  there  he  alms  will give  
+sabāre kahiha, — e vatsara keha nā āsibe  
+to all  say  —  this  year  anyone  not  shall come
 
-(43) [not yet translated]
+(43) Jagadānanda is there; he will give Me bhikṣā (feed Me). And tell everyone that no one is to come this year.”
 
 শ্রীকান্ত আসিয়া গৌড়ে সন্দেশ কহিল ৷  
 শুনি’ ভক্তগণ-মনে আনন্দ হইল ॥ ৪৪ ॥
 
 śrīkānta āsiyā gauḍe sandeśa kahila  
-śuni’ bhakta-gaṇa-mane ānanda haila
+Śrīkānta  coming  to Gauḍa  the message  told  
+śuni’ bhakta-gaṇa-mane ānanda haila  
+hearing  in the devotees’ minds  joy  arose
 
-(44) [not yet translated]
+(44) Śrīkānta came to Gauḍa and delivered the message, and when the devotees heard it, their hearts were filled with joy.
 
 চলিতেছিলা আচার্য্য, রহিলা স্থির হঞা ৷  
 শিবানন্দ, জগদানন্দ রহে প্রত্যাশা করিয়া ॥ ৪৫ ॥
 
 calitechilā ācārya, rahilā sthira hañā  
-śivānanda, jagadānanda rahe pratyāśā kariyā
+had been setting out  the Ācārya  remained  still  being  
+śivānanda, jagadānanda rahe pratyāśā kariyā  
+Śivānanda  Jagadānanda  remain  expectation  making
 
-(45) [not yet translated]
+(45) Advaita Ācārya, who had been setting out, stayed where He was, and Śivānanda and Jagadānanda remained, waiting in expectation.
 
 পৌষ-মাস আইল, দুঁহে সামগ্রী করিয়া ৷  
 সন্ধ্যা-পর্য্যন্ত রহে অপেক্ষা করিয়া ॥ ৪৬ ॥
 
 pauṣa-māsa āila, duṅhe sāmagrī kariyā  
-sandhyā-paryanta rahe apekṣā kariyā
+Pauṣa  month  came  the two  provisions  having made  
+sandhyā-paryanta rahe apekṣā kariyā  
+until evening  remain  waiting
 
-(46) [not yet translated]
+(46) When the month of Pauṣa came, the two of them made all the preparations and waited until evening.
 
 এইমত মাস গেল, গোসাঞি না আইলা ৷  
 জগদানন্দ, শিবানন্দ দুঃখিত হইলা ॥ ৪৭ ॥
 
 ei-mata māsa gela, gosāñi nā āilā  
-jagadānanda, śivānanda duḥkhita hailā
+so  the month  passed  the Gosāñi  not  came  
+jagadānanda, śivānanda duḥkhita hailā  
+Jagadānanda  Śivānanda  sorrowful  became
 
-(47) [not yet translated]
+(47) In this way the month passed, and the Lord did not come. Jagadānanda and Śivānanda became sorrowful.
 
 আচম্বিতে নৃসিংহানন্দ তাঁহাই আইলা ৷  
 দুঁহে তাঁরে মিলি’ তবে স্থানে বসাইলা ॥ ৪৮ ॥
 
 ācambite nṛsiṁhānanda tāṅhāi āilā  
-duṅhe tāṅre mili’ tabe sthāne vasāilā
+unexpectedly  Nṛsiṁhānanda  there  came  
+duṅhe tāṅre mili’ tabe sthāne vasāilā  
+the two  him  meeting  then  in a place  seated
 
-(48) [not yet translated]
+(48) Unexpectedly Nṛsiṁhānanda arrived there. The two of them received him and gave him a seat.
 
 দুঁহে দুঃখী দেখি’ তাঁরে কহে নৃসিংহানন্দ ৷  
 তোমা দুঁহাকারে কেনে দেখি নিরানন্দ ? ॥ ৪৯ ॥
 
 duṅhe duḥkhī dekhi’ tāṅre kahe nṛsiṁhānanda  
-tomā duṅhākāre kene dekhi nirānanda?
+the two  unhappy  seeing  to them  says  Nṛsiṁhānanda  
+tomā duṅhākāre kene dekhi nirānanda?  
+you  both  why  I see  joyless
 
-(49) [not yet translated]
+(49) Seeing them both unhappy, Nṛsiṁhānanda said to them, “Why do I see you both so joyless?”
 
 তবে শিবানন্দ তাঁরে সকল কহিলা ৷  
 আসিব আজ্ঞা দিয়া প্রভু কেনে না আইলা ? ॥ ৫০ ॥
 
 tabe śivānanda tāṅre sakala kahilā  
-āsiba ājñā diyā prabhu kene nā āilā?
+then  Śivānanda  to him  everything  told  
+āsiba ājñā diyā prabhu kene nā āilā?  
+‘I shall come’  word  having given  the Lord  why  not  came
 
-(50) [not yet translated]
+(50) Then Śivānanda told him everything: “The Lord gave His word that He would come. Why has He not come?”
 
 শুনি’ ব্রহ্মচারী কহে, — করহ সন্তোষে ৷  
 আমি ত’ আনিব তাঁরে তৃতীয় দিবসে ॥ ৫১ ॥
 
 śuni’ brahmacārī kahe, — karaha santoṣe  
-āmi ta’ āniba tāṅre tṛtīya divase
+hearing  the brahmacārī  says  —  be  content  
+āmi ta’ āniba tāṅre tṛtīya divase  
+I  indeed  shall bring  Him  on the third  day
 
-(51) [not yet translated]
+(51) Hearing this, the brahmacārī said, “Be content. I shall bring Him on the third day.”
 
 তাঁহার প্রভাব-প্রেম জানে দুইজনে ৷  
 আনিবে প্রভুরে এবে নিশ্চয় কৈলা মনে ॥ ৫২ ॥
 
 tāṅhāra prabhāva-prema jāne duijane  
-ānibe prabhure ebe niścaya kailā mane
+his  power  prema  know  both of them  
+ānibe prabhure ebe niścaya kailā mane  
+he will bring  the Lord  now  certainty  they made  in mind
 
-(52) [not yet translated]
+(52) Both of them knew his power and his prema, and they were certain in their minds that he would now bring the Lord.
 
 ‘প্রদ্যুম্ন ব্রহ্মচারী’ — তাঁর নিজ-নাম ৷  
 ‘নৃসিংহানন্দ’ নাম তাঁর কৈলা গৌরধাম ॥ ৫৩ ॥
 
 ‘pradyumna brahmacārī’ — tāṅra nija-nāma  
-‘nṛsiṁhānanda’ nāma tāṅra kailā gaura-dhāma
+‘Pradyumna Brahmacārī’  —  his  own name  
+‘nṛsiṁhānanda’ nāma tāṅra kailā gaura-dhāma  
+‘Nṛsiṁhānanda’  the name  his  made  Gaura-dhāma
 
-(53) [not yet translated]
+(53) His own name was Pradyumna Brahmacārī; it was Gaura, the abode of all, who named him Nṛsiṁhānanda.
 
 দুইদিন ধ্যান করি’ শিবানন্দেরে কহিল ৷  
 পাণিহাটি-গ্রামে আমি প্রভুরে আনিল ॥ ৫৪ ॥
 
 duidina dhyāna kari’ śivānandere kahila  
-pāṇihāṭi-grāme āmi prabhure ānila
+two days  meditation  having made  to Śivānanda  he said  
+pāṇihāṭi-grāme āmi prabhure ānila  
+to Pāṇihāṭi  village  I  the Lord  have brought
 
-(54) [not yet translated]
+(54) After meditating for two days, he said to Śivānanda, “I have brought the Lord to the village of Pāṇihāṭi.
 
 কালি মধ্যাহ্নে তেঁহো আসিবেন তোমার ঘরে ৷  
 পাক-সামগ্রী আনহ, আমি ভিক্ষা দিমু তাঁরে ॥ ৫৫ ॥
 
 kāli madhyāhne teṅho āsibena tomāra ghare  
-pāka-sāmagrī ānaha, āmi bhikṣā dimu tāṅre
+tomorrow  at noon  He  will come  your  to the house  
+pāka-sāmagrī ānaha, āmi bhikṣā dimu tāṅre  
+cooking  provisions  bring  I  bhikṣā  shall give  to Him
 
-(55) [not yet translated]
+(55) Tomorrow at noon He will come to your house. Bring the provisions for cooking; I shall give Him bhikṣā.
 
 তবে তাঁরে এথা আমি আনিব সত্বর ৷  
 নিশ্চয় কহিলাঙ, কিছু সন্দেহ না কর ॥ ৫৬ ॥
 
 tabe tāṅre ethā āmi āniba satvara  
-niścaya kahilāṅa, kichu sandeha nā kara
+then  Him  here  I  shall bring  quickly  
+niścaya kahilāṅa, kichu sandeha nā kara  
+with certainty  I have said  any  doubt  not  make
 
-(56) [not yet translated]
+(56) Then I shall quickly bring Him here. I tell you this with certainty — have no doubt at all.
 
 যে চাহিয়ে, তাহা কর হঞা তৎপর ৷  
 অতি ত্বরায় করিব পাক, শুন অতঃপর ॥ ৫৭ ॥
 
 ye cāhiye, tāhā kara hañā tatpara  
-ati tvarāya kariba pāka, śuna ataḥpara
+what  I require  that  do  being  prompt  
+ati tvarāya kariba pāka, śuna ataḥpara  
+very  quickly  I shall do  cooking  hear  further
 
-(57) [not yet translated]
+(57) Whatever I require, provide it promptly. I shall cook very quickly. Listen further:
 
 পাক-সামগ্রী আনহ, আমি যাহা চাই ৷  
 যে মাগিল, শিবানন্দ আনি’ দিলা তাই ॥ ৫৮ ॥
 
 pāka-sāmagrī ānaha, āmi yāhā cāi  
-ye māgila, śivānanda āni’ dilā tāi
+cooking  provisions  bring  I  what  want  
+ye māgila, śivānanda āni’ dilā tāi  
+what  he asked  Śivānanda  bringing  gave  that
 
-(58) [not yet translated]
+(58) bring the provisions for cooking, whatever I want.” Whatever he asked for, Śivānanda brought and gave him.
 
 প্রাতঃকাল হৈতে পাক করিলা অপার ৷  
 নানা সূপ, ব্যঞ্জন, পিঠা, ক্ষীর-উপহার ॥ ৫৯ ॥
 
 prātaḥ-kāla haite pāka karilā apāra  
-nānā sūpa, vyañjana, piṭhā, kṣīra-upahāra
+morning  from  cooking  he did  without limit  
+nānā sūpa, vyañjana, piṭhā, kṣīra-upahāra  
+many  soups  vegetable dishes  cakes  sweet-rice  offerings
 
-(59) [not yet translated]
+(59) From early morning he cooked without limit: many kinds of soup and vegetable dishes, cakes, and offerings of sweet rice.
 
 জগন্নাথের ভিন্ন ভোগ পৃথক্ বাড়িলা ৷  
 চৈতন্য প্রভুর লাগি’ আর ভোগ কৈলা ॥ ৬০ ॥
 
 jagannāthera bhinna bhoga pṛthak bāḍilā  
-caitanya prabhura lāgi’ āra bhoga kailā
+of Jagannātha  distinct  offering  separately  he served out  
+caitanya prabhura lāgi’ āra bhoga kailā  
+Caitanya  Prabhu  for  another  offering  he made
 
-(60) [not yet translated]
+(60) He served out a distinct offering separately for Jagannātha, and he made another offering for Caitanya Prabhu.
 
 ইষ্টদেব নৃসিংহ লাগি’ পৃথক্ বাড়িলা ৷  
 তিনজনে সমর্পিয়া বাহিরে ধ্যান কৈলা ॥ ৬১ ॥
