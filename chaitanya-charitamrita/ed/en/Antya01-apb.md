@@ -63,3 +63,19 @@ I do not know with how much nectar these two syllables, “Kṛṣ-ṇa,” were
 ## 108
 
 This Bhagavān, Puruṣottama, is pure in mind. By His good nature He does not notice even the grave offenses of His servant. He considers the slightest service great. Even toward a wicked person who reviles Him He shows no ill will.
+
+## 128
+
+May this sweet drink (*śikhariṇī*) — the pastimes of Hari — wholly take away your unholy thirst, born of wandering along the path of worldly existence, which breeds suffering. This *śikhariṇī* of Hari's pastimes subdues the intoxication born of the sweetness of the moon's nectar, and through the camphor of the love (*praṇaya*) of Śrī Rādhā and others it bears a special fragrance.
+
+## 134
+
+Those who play the roles — the hero and the other persons spoken of in the play — are called *pātra*. For example, the *Sāhitya-darpaṇa*, in its sixth chapter, verse 283, says: “In a play about the divine or the mortal he takes the same kind of form, and in a mixed one, either of the two. Let him hint at the subject (*vastu*), the seed (*bīja*), the opening (*mukha*), or else a character (*pātra*).” The meaning of the word *āmukha* is given in the *Nāṭaka-candrikā*: “When the *sūtradhāra*, answering the actress, speaks of his own business in striking words that hint at what is to come, this is called the *āmukha*.” The point of Rāmānanda Rāya's question is this: in which *āmukha* (*prastāvanā*) do the actors who play the characters come onto the stage in this play? Śrī Rūpa's answer: the characters appear in the *āmukha* called *pravartaka* (entrance onto the stage) — *kāla-sāmye*, that is, at the time that has arrived.
+
+## 135
+
+When an actor playing a character enters the stage prompted (called forth) by a fitting time, that is, by the time that has arrived, this is called *pravartaka*.
+
+## 136
+
+Spring has come. On the night of the full moon, at this season, Paurṇamāsī will unite the complete Lord, Śrī Kṛṣṇa, filled with fresh love (*anurāga*), with the supremely beautiful Śrī Rādhikā, to enhance the beauty of the pastimes. This verse has two meanings, one referring to the moon and one to Śrī Kṛṣṇa; of these, the meaning referring to Śrī Kṛṣṇa is the principal one.[^136-1]

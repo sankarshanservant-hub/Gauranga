@@ -427,3 +427,57 @@ See Antya 1.99.
 ## 124
 
 > Subheading: Svarūpa tells about the two plays —
+
+## 126
+
+> Subheading: The *Vidagdha-mādhava* is about the pastimes in Vraja, the *Lalita-mādhava* about the pastimes in the cities —
+
+The *Vidagdha-mādhava* was written in Śaka 1454, and the *Lalita-mādhava* in Śaka 1459. The conversation of Śrī Rāmānanda Rāya with Śrī Rūpa Gosvāmī about these two books takes place in Śaka 1437.
+
+## 127
+
+> Subheading: Rāya asks Śrī Rūpa to recite the *nāndī* of the *Vidagdha-mādhava* —
+
+Now Śrī Rāmānanda asks about the subject of Śrī Rūpa's play, the *Vidagdha-mādhava*.
+
+## 128
+
+> Subheading: Kṛṣṇa's pastimes, which bring blessing to the world (*Vidagdha-mādhava*, *maṅgalācaraṇa*, Act 1, verse 1) —
+
+**cāndrīṇām** (connected with the moon) **sudhānām api madhurimonmāda-damanī** (she whose nature is to subdue the madness born of sweetness, that is, the pride “I alone am full of sweetness in every way”), **rādhādi-praṇaya-ghana-sāraiḥ** (the love of Rādhā and the others is itself *ghanasāra*, camphor; with it) **surabhitām** (fragrance; in the other sense, charm) **dadhānā** **hari-līlā-śikhariṇī** (a sweet drink, a *rasālā*, in the form of Hari's pastimes) **samantāt** (on every side) **te** (your) **santāpodgama-viṣama-saṁsāra-saraṇī-praṇītāṁ** (in which sufferings — *ādhyātmika* and the rest — arise; such a harsh worldly existence, which leads to birth as a god, a human or an immobile being, is itself the path; born of it, that is, produced by wandering along it) **tṛṣṇāṁ** (thirst) **haratu** (may remove).[^128-1]
+
+## 129
+
+> Subheading: Rāya asks for a description of the worshipable Deity; Śrī Rūpa is embarrassed —
+
+## 130
+
+> Subheading: The Lord's insistent order —
+
+## 131
+
+> Subheading: Śrī Rūpa recites a verse of blessing; on hearing it, the Lord outwardly shows feigned displeasure —
+
+## 132
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, *maṅgalācaraṇa*, verse 2)
+
+See Ādi 3.4.
+
+Śrīmad Viśvanātha Cakravartī's commentary on the *Vidagdha-mādhava*: “The idea is that without the manifestation (*sphūrti*) of Mahāprabhu one cannot taste the *rasa* of Hari's pastimes. May Hari, the son of Śacī, appear in the cave of your heart; in the other sense, *hari* means a lion. This son of Śacī mercifully descended in Kali to bestow the treasure of devotion to Himself, that is, the wealth of service to Himself. What kind of treasure? ‘Never given before’ — given by no one before. But did not Kapiladeva and others earlier teach their mothers and others how to serve Bhagavān? To this it is said: although all *rasas* are present in it, in this treasure of *bhakti* the *rasa* is exalted and radiant (*ujjvala*); that is, a *bhakti* in which the *ujjvala-rasa* is foremost had never been taught. What is He like? Lit up by a host of rays more beautiful than even gold (*puraṭa*). This being so, just as a lion that has risen in a mountain cave kills the elephants there, so the lion who is the son of Śacī, risen in the cave of your heart, kills the elephants that are the diseases of the heart. This is the suggested meaning (*dhvani*).”
+
+## 133
+
+> Subheading: Hearing the verse, the devotees praise it —
+
+## 134
+
+> Subheading: Rāya asks about the various parts of the *Vidagdha-mādhava* and how the characters are introduced; Śrī Rūpa answers by quoting verses from his play —
+
+See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The *Sāhitya-darpaṇa*, in its sixth chapter, verse 288, says: “*Udghātyaka*, *kathodghāta*, *prayogātiśaya*, as well as *pravartaka* and *avalagita* — these are the five varieties of the *prastāvanā*.” That is, the *āmukha*, or *prastāvanā*, of a play is of five kinds: (1) *udghātyaka*, (2) *kathodghāta*, (3) *prayogātiśaya*, (4) *pravartaka*, (5) *avalagita*. The *Nāṭaka-candrikā* says: “Three parts (*aṅgas*) of the *āmukha* are named — *kathodghāta*, *pravartaka* and *prayogātiśaya* — and likewise the pair of parts of the *vīthī*, called *udghātyaka* and *avalagita*, as the sage declared.” Śrī Rāmānanda asked, “Which of these kinds does the prologue of the play follow?” In answer Śrī Rūpa Gosvāmī said, “Of these kinds, the *pravartaka* has been adopted.” The *Sāhitya-darpaṇa*, in its sixth chapter, verse 292, says: “Where the *sūtradhāra* describes the time that has arrived, taking his stand on it, and the entrance of a character also rests on that time, this is the *pravartaka*.” That is, if the *sūtradhāra* describes the present time, taking his stand on it, and an actor playing a character enters in connection with that time, this is called *pravartaka*.
+
+## 135
+
+> Subheading: (*Nāṭaka-candrikā*, verse 12)
+
+**kāla-sāmyena** (relying on the time that has arrived) **ākṣiptaḥ** (sent, that is, relying on the time that has arrived) (**pātrasya**, of the actor) **praveśaḥ** (another reading has *pravṛttiḥ*) **pravartakam** **syāt**.
