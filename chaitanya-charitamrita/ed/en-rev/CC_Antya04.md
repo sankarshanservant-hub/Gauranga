@@ -646,7 +646,7 @@ if  O lotus-eyed one  not  I obtain  Your  grace
 jahyām asūn vrata-kṛśāñ chata-janmabhiḥ syāt  
 I shall give up  my life  by vows  emaciated  through a hundred births  it may be
 
-(63) (Rukmiṇī wrote to Kṛṣṇa:) “O lotus-eyed one, great souls like Umā’s lord (Śiva) long to bathe in the dust of Your lotus feet to dispel their own darkness. If I do not obtain Your grace, I shall give up my life, emaciated by vows, so that, even after a hundred births, it may be mine.” (Śrīmad-Bhāgavatam, 10.52.43)
+(63) (Rukmiṇī wrote to Kṛṣṇa:) “O lotus-eyed one, great souls like Umā’s lord (Śiva) long to bathe in the dust of Your lotus feet to dispel their own darkness. If I do not obtain Your grace, I shall give up my life, emaciated by vows, so that, even after a hundred births, it may be mine.” (Śrīmad-Bhāgavatam, 10.52.43)[^7]
 
 সিঞ্চাঙ্গ নস্ত্বদধরামৃতপূরকেণ  
 হাসাবলোক-কলগীতজ-হৃচ্ছয়াগ্নিম্ ৷  
@@ -662,7 +662,7 @@ not  if  we  by the fire born of separation  consumed  bodies
 dhyānena yāma padayoḥ padavīṁ sakhe te  
 by meditation  we shall go  of the feet  to the place  O friend  Your
 
-(64) (The gopīs said:) “O dear one, with the flood of nectar from Your lips quench the fire of love’s desire that Your smiling glances and sweet song have kindled in our hearts. Otherwise, O friend, our bodies consumed by the fire of separation, we shall reach the place of Your feet by meditation.” (Śrīmad-Bhāgavatam, 10.29.35)
+(64) (The gopīs said:) “O dear one, with the flood of nectar from Your lips quench the fire of love’s desire that Your smiling glances and sweet song have kindled in our hearts. Otherwise, O friend, our bodies consumed by the fire of separation, we shall reach the place of Your feet by meditation.” (Śrīmad-Bhāgavatam, 10.29.35)[^8]
 
 কুবুদ্ধি ছাড়িয়া কর শ্রবণ-কীর্ত্তন ৷  
 অচিরাৎ পাবে তবে কৃষ্ণপ্রেম-ধন ॥ ৬৫ ॥
@@ -682,7 +682,7 @@ one of low birth  is not  for the worship of Kṛṣṇa  unfit
 sat-kula-vipra nahe bhajanera yogya  
 a brāhmaṇa of good family  is not  for worship  fit
 
-(66) One of low birth is not unfit for the worship of Kṛṣṇa, nor is a brāhmaṇa of good family fit for it by that alone.
+(66) One of low birth is not unfit for the worship of Kṛṣṇa, nor is a brāhmaṇa of good family fit for it by that alone.[^9]
 
 যেই ভজে, সেই বড়, অভক্ত — হীন, ছার ৷  
 কৃষ্ণভজনে নাহি জাতি-কুলাদি বিচার ॥ ৬৭ ॥
@@ -718,7 +718,7 @@ I consider  to Him offered  mind  words  deeds  wealth
 prāṇaṁ punāti sa kulaṁ na tu bhūri-mānaḥ  
 and life  purifies  he  his family  not  but  one full of pride
 
-(69) “I consider a dog-eater whose mind, words, deeds, wealth and very life are offered to the Lord of the lotus navel better than a brāhmaṇa endowed with the twelve qualities who has turned away from His lotus feet. Such a devotee purifies his whole family; the brāhmaṇa swollen with pride cannot.” (Śrīmad-Bhāgavatam, 7.9.10)
+(69) “I consider a dog-eater whose mind, words, deeds, wealth and very life are offered to the Lord of the lotus navel better than a brāhmaṇa endowed with the twelve qualities who has turned away from His lotus feet. Such a devotee purifies his whole family; the brāhmaṇa swollen with pride cannot.” (Śrīmad-Bhāgavatam, 7.9.10)[^10]
 
 ভজনের মধ্যে শ্রেষ্ঠ নববিধা ভক্তি ৷  
 ‘কৃষ্ণপ্রেম’, ‘কৃষ্ণ’ দিতে ধরে মহাশক্তি ॥ ৭০ ॥
@@ -738,7 +738,7 @@ of them  among  the best of all  the chanting of the name
 niraparādhe nāma laile pāya prema-dhana  
 without offense  the name  if one takes  obtains  the treasure of love
 
-(71) Of these the best of all is *nāma-saṅkīrtana*. One who chants the name without offence obtains the treasure of love.”
+(71) Of these the best of all is *nāma-saṅkīrtana*. One who chants the name without offence obtains the treasure of love.”[^11]
 
 এত শুনি’ সনাতনের হৈল চমৎকার ৷  
 প্রভুরে না ভায় মোর মরণ-বিচার ॥ ৭২ ॥
@@ -788,7 +788,7 @@ the Lord  says  your  body  My  own property
 tumi more kairācha ātma-samarpaṇa  
 you  to Me  have made  self-surrender
 
-(76) The Lord said, “Your body is My own property, for you have surrendered yourself to Me.
+(76) The Lord said, “Your body is My own property, for you have surrendered yourself to Me.[^12]
 
 পরের দ্রব্য তুমি কেনে চাহ বিনাশিতে ?  
 ধর্ম্মাধর্ম্ম বিচার কিবা না পার করিতে ? ॥ ৭৭ ॥
@@ -828,7 +828,7 @@ devotion to Kṛṣṇa  of service in love for Kṛṣṇa  the introduction
 lupta-tīrtha-uddhāra, āra vairāgya-śikṣaṇa  
 of lost holy places  the recovery  and  of renunciation  teaching
 
-(80) introducing devotion to Kṛṣṇa and service in love for Kṛṣṇa; recovering the lost holy places, and teaching renunciation.
+(80) introducing devotion to Kṛṣṇa and service in love for Kṛṣṇa; recovering the lost holy places, and teaching renunciation.[^13]
 
 নিজ-প্রিয়স্থান মোর — মথুরা-বৃন্দাবন ৷  
 তাঁহা এত ধর্ম্ম চাহি করিতে প্রচারণ ॥ ৮১ ॥
@@ -908,7 +908,7 @@ another’s  held in trust  property  anyone  not  uses  gives away
 niṣedhiha im̐hāre, — yena nā kare anyāya  
 forbid  him  so that  not  he does  wrong
 
-(88) No one uses for himself or gives away property that another has placed in his keeping. Forbid him, so that he does not do this wrong.”
+(88) No one uses for himself or gives away property that another has placed in his keeping. Forbid him, so that he does not do this wrong.”[^14]
 
 হরিদাস কহে, — মিথ্যা অভিমান করি ৷  
 তোমার গম্ভীর হৃদয় বুঝিতে না পারি ॥ ৮৯ ॥
@@ -936,9 +936,9 @@ You  not  if You make known  anyone  to know  not  can
 etādṛśa tumi im̐hāre kairācha aṅgīkāra  
 such  You  him  have made  acceptance  
 eta saubhāgya im̐hā nā haya kāhāra  
-such  good fortune  here  not  is  anyone’s
+such  good fortune  his  not  is  anyone’s
 
-(91) You have accepted him in such a way; no one here has such good fortune.”
+(91) You have accepted him so fully! No one has such good fortune as he.”
 
 তবে মহাপ্রভু করি’ দুঁহারে আলিঙ্গন ৷  
 ‘মধ্যাহ্ন’ করিতে উঠি’ করিলা গমন ॥ ৯২ ॥
@@ -984,11 +984,11 @@ that  work  He will have done  by you  and that  in Mathurā
 তোমার সৌভাগ্য এই কহিলুঁ নিশ্চয় ॥ ৯৬ ॥
 
 ye karāite cāhe īśvara, sei siddha haya  
-what  to have done  wishes  the Lord  that  accomplished  is  
+whom  to have act  wishes  the Lord  he  perfected  becomes  
 tomāra saubhāgya ei kahilum̐ niścaya  
 your  good fortune  this  I have told  for certain
 
-(96) Whatever the Lord wishes to have done is accomplished. This is your good fortune, I tell you for certain.
+(96) He through whom the Lord wishes to act attains perfection. This is your good fortune — I tell you for certain.[^15]
 
 ভক্তিসিদ্ধান্ত, শাস্ত্র-আচার-নির্ণয় ৷  
 তোমা-দ্বারে করাইবেন, বুঝিলুঁ আশয় ॥ ৯৭ ॥
@@ -1237,3 +1237,21 @@ the meal  having taken  Mahāprabhu  was  resting
 [^5]: *Deha-tyāga* — “giving up the body”. Edition heading to 55: addressing Sanātana, the Lord teaches the sādhaka who is not yet free of anarthas and is led by his own mind: false (*phalgu*) knowledge and false renunciation are no means of attaining Kṛṣṇa.
 
 [^6]: The same verse as Ādi 17.76 (= Madhya 20.137); translation as there. The *Anubhāṣya* refers to Ādi 17.76.
+
+[^7]: Edition heading: “Rukmiṇī reveals her anurāga to Vāsudeva.” *Anubhāṣya*: *vrata-kṛśān* — emaciated by vows, by fasts and the like.
+
+[^8]: *Anubhāṣya*: *hṛc-chaya* — the desire of love born in the heart of the gopīs and dwelling there; *kala-gīta* — the sweet song, the sweet sound of the flute.
+
+[^9]: Edition heading to 66: refutation of the doctrine of nobility by seed, born of union with a woman; who is fit for the service of Kṛṣṇa; only the pure devotee is the guru, the greatest of men.
+
+[^10]: The same verse as Madhya 20.59; translation as there. The *Anubhāṣya* refers to Madhya 20.59.
+
+[^11]: *Anubhāṣya*: *nirāparādhe* — free of the ten offences against the name, serving the name constantly and untiringly.
+
+[^12]: *Amṛta-pravāha-bhāṣya*: you have given Me your body, and you have no right to give it up.
+
+[^13]: *Anubhāṣya* (on 79–81): through Sanātana the Lord established the service of the Deity in maṭhas and temples and the inner service in the mood of Vraja, and by his recovering the lost holy places and by his life He taught the renunciation befitting a devotee (*yukta-vairāgya*).
+
+[^14]: *Anubhāṣya*: *sthāpya* — what is given in trust; *anyāya* — the destruction of his body, given to Kṛṣṇa.
+
+[^15]: Edition heading: “Success, or perfection, is the servant who follows Kṛṣṇa’s will”; *sei siddha haya* — “he (the servant) attains perfection.”
