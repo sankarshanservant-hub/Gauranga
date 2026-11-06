@@ -110,7 +110,7 @@ See Ādi 17.31.
 
 > Subheading: Raghunātha's incomparable good fortune —
 
-**yaḥ** (Dāsa Gosvāmī) **sarva-lokaika-manobhirucyā** (by the single, that is, the chief, inclination of the mind — the love — of all devotee people; by that) **kācit** (indescribable) **akṛṣṭa-pacyā** (ripened without plowing, that is, perfected even before perfection is reached through *sādhana*, or perfected without *sādhana*) **saubhāgya-bhūḥ** (soil of good fortune), **yasyām**[^264-1] (in which — in that soil) **samāropaṇa-tulya-kālam** (at the very time the seed was sown) **atulyaḥ** (matchless) **tat-prema-śākhī** (*tat* — His, Śrī Caitanya's; *prema* — that itself is the tree) **phalavān** (fruitful; “became” is understood).
+**yaḥ** (Dāsa Gosvāmī) **sarva-lokaika-manobhirucyā** (by the single, that is, the chief, inclination of the mind — the love — of all devotee people; by that) **kācit** (indescribable) **akṛṣṭa-pacyā** (ripened without plowing, that is, perfected even before perfection is reached through *sādhana*, or perfected without *sādhana*) **saubhāgya-bhūḥ** (soil of good fortune), **yasyām** (in which — in that soil) **samāropaṇa-tulya-kālam** (at the very time the seed was sown) **atulyaḥ** (matchless) **tat-prema-śākhī** (*tat* — His, Śrī Caitanya's; *prema* — that itself is the tree) **phalavān** (fruitful; “became” is understood).
 
 ## 266
 
@@ -351,8 +351,6 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 [^226-1]: So in the edition; the words quoted are from the *Bhakti-sandarbha*, *anuccheda* 283.
 
 [^263-1]: In the verse translation, otherwise: “very dear to his guru Yadunandana Ācārya, a disciple of Vāsudeva Datta.”
-
-[^264-1]: So in the edition (in the verse and in the gloss); the verse text in our VCD translation reads *yatrāyam*.
 
 [^270-1]: The edition has “॥০ আনা”: in the old notation ॥০ is ½ rupee, that is, eight annas.
 
