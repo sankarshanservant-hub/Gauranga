@@ -29,3 +29,7 @@ Only one in whom, while he practices *sādhana-bhakti*, *bhāva* has awakened an
 ## 123
 
 **A slight offense.** In begging rice from Mādhavī, Choṭa Haridāsa had no other aim; he desired only the joy of serving Mahāprabhu. Yet that act contained an offense. To take the *bhek* and then converse with a woman again is an offense, and for a *vairāgī* it is certainly a great offense; but since it was done to serve the Lord, it may also be called “slight.”
+
+## 144
+
+**Trāsa upajila saba-bhakta-gaṇe** — such fear arose among the devotees wearing the *bhek* (the *sādhakas*) that they no longer spoke with any woman.
