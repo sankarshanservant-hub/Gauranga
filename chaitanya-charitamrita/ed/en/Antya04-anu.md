@@ -245,3 +245,65 @@ See Madhya 20.59.
 > Subheading: From *abhidheya* come *sambandha* and *prayojana* —
 
 ***Nava-vidhā bhakti*** (the nine kinds of devotion): “Hearing about Viṣṇu, chanting, remembering, serving His feet, worship, offering prayers, servitude, friendship and offering oneself.” (Śrīmad-Bhāgavatam 7.5.23) The nine kinds of devotion (*abhidheya*) hold the great power to bestow love for Kṛṣṇa (*prayojana*) and Kṛṣṇa Himself (*sambandha*). *Sādhana-bhakti* manifests as *abhidheya* and later attains its true nature, *prema-bhakti*. And love for Kṛṣṇa, the *prayojana*, bestows Kṛṣṇa in full.
+
+## 71
+
+> Subheading: Love for Kṛṣṇa is attained only as the fruit of unbroken, untiring *kīrtana* of Kṛṣṇa free of the ten offenses —
+
+Śrī Jīva Gosvāmī Prabhu writes in the *Bhakti-sandarbha* (270): “The *śrutis*, the Purāṇas and other scriptures proclaim that this *bhakti* called *kīrtana* is full of Bhagavān's boundless compassion, directed exclusively to people poor in wealth, birth, qualities and deeds. <…> Therefore in Kali, when people are by their very nature utterly wretched, it appears among them and, effortlessly granting them the whole fruit of the great *sādhanas* of each age, brings them to fulfillment. That is why in Kali Bhagavān is especially pleased by it alone.” And in the same work (273): “Therefore, even if other forms of *bhakti* are performed in Kali, they should be performed only in conjunction with it (with *kīrtana*).”
+
+Śrī Rūpa Prabhu (*Nāmāṣṭaka* 1): “O Hari-nāma! The tips of Your lotus feet are worshiped, as if with *ārati* lamps, by the radiance of the garland of jewels on the crests of all the *śrutis*. Hosts of liberated souls worship You. I take shelter of You completely.”
+
+Śrī Sanātana Prabhu (*Bṛhad-bhāgavatāmṛta*, ch. 1, verse 9): “All glory, all glory to the name of Murāri, the embodiment of bliss! It puts an end to the labors of one's own *dharma*, of meditation, worship and the like. Taken up somehow even once, it grants liberation to living beings. It is the supreme nectar, my only life and my ornament.”
+
+“O king, for those who are disgusted with the world, for those who seek what they desire and for *yogīs*, one thing has been ascertained: constant chanting of Hari's name — in it there is no fear at all.” (Śrīmad-Bhāgavatam 2.1.11)
+
+“*Bhakti-yoga*, devotion to Bhagavān beginning with chanting His name, is declared the supreme *dharma* for human beings in this world.” (Śrīmad-Bhāgavatam 6.3.22)
+
+Gaurahari (in His own *Śikṣāṣṭaka* 3): “Humbler than a blade of grass, more tolerant than a tree, seeking no honor and honoring others, one should always chant Hari's name.”
+
+***Niraparādhe***: that is, free of the ten offenses against the Name, constantly, or untiringly, devoted to serving the Name. For the ten offenses against the Name, see the *Amṛta-pravāha-bhāṣya* and the *Anubhāṣya* on Ādi 8.24.
+
+## 72
+
+> Subheading: At the Lord's wish Sanātana enacts a pastime — giving up the false (*phalgu*) wish to leave his body — and so teaches the *jīvas* —
+
+***Nā bhāya***: it does not seem fitting.
+
+## 74
+
+> Subheading: The humble words of Sanātana, a Vaiṣṇava *ācārya* who owns nothing (*niṣkiñcana*), his praise of the Lord and his question about what to do with his body —
+
+## 76
+
+> Subheading: The Lord's answer: everything Sanātana has — body, mind, speech and the rest — Gaura-Kṛṣṇa has appropriated and accepted as His own, and through it Gaura-Kṛṣṇa carries out His own service —
+
+## 77
+
+> Subheading: A devotee perfected through initiation (*dīkṣā*) should know that Kṛṣṇa's will alone directs him, and should give up the conceit that he himself is the doer, that is, *ahaṅkāra* —
+
+## 78
+
+> Subheading: Sanātana is Śrī Sanātana Prabhu, a spiritual pastime (*cid-vilāsa*) and manifestation (*prakāśa-vigraha*) not different from Bhagavān Kṛṣṇa Caitanya —
+
+## 79
+
+> Subheading: In Mathurā-maṇḍala, through Sanātana, the Lord (1) reveals the truth about the devotee and Bhagavān, that is, the truth of *abhidheya*, *sambandha* and *prayojana*; (2) by compiling a Vaiṣṇava *smṛti* establishes the proper conduct of Vaiṣṇavas; (3) shows the ideal of *vaidhī-bhakti* — the worship of Kṛṣṇa's Deity in *maṭhas*, temples and elsewhere — and the ideal of *rāga*, that is, loving service, within the mind; (4) teaches by restoring the lost holy places and showing a life full of pure *bhakti* with *yukta-vairāgya* —
+
+## 79–81
+
+Through Śrī Sanātana Gosvāmī, Śrī Mahāprabhu, first, had him write the *Śrī Bṛhad-bhāgavatāmṛta* and so established the truth about the devotee, devotion and love for Kṛṣṇa. Second, He had him compile the *Śrī Hari-bhakti-vilāsa* and so established the duties and conduct of Vaiṣṇavas. Third, through Sanātana Gosvāmī's wonderful deeds He introduced in Śrī Vṛndāvana the service of Śrī Vigraha, and through his exemplary character, full of the bliss of *bhajana*, the worship of Vraja (*vraja-bhajana*) within the mind. Fourth, by restoring the *kuṇḍas* and other lost holy places, and by his exemplary devotional life full of the taste of *bhakti* and renunciation, He taught how to live a detached life far from worldly objects, as a pure devotee should be emulated. Śrī Mathurā and Vṛndāvana are a land supremely dear to Śrī Gaurasundara. By settling Śrī Sanātana in that land, the Lord wished to propagate through him all the *dharmas* mentioned above.
+
+## 82
+
+> Subheading: Remaining Himself in Kṣetra-maṇḍala at His mother's order, the Lord, in the form of Śrī Sanātana — His spiritual pastime, a manifestation not different from Himself — accomplishes in Mathurā-maṇḍala the four kinds of service to Kṛṣṇa named above, so dear to His heart —
+
+***Tā̃hā***: in Mathurā-maṇḍala.
+
+## 84
+
+> Subheading: Regarding himself as the instrument of the Lord, who moves it, Sanātana praises the Lord —
+
+## 87
+
+> Subheading: Calling Haridāsa as witness, the Lord entrusts him with guarding Sanātana's body, which He has made His own —
