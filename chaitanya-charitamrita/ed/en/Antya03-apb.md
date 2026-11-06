@@ -10,7 +10,7 @@ Dāmodara: Dāmodara Paṇḍita.
 
 ## 11
 
-Dāmodara Paṇḍita says to Mahāprabhu: “When it comes to instructing others, You are a *paṇḍita*, and everyone calls You ‘Gosāñi, Gosāñi’ (*ācārya*). Now it will become clear how You remain a Gosāñi.”[^11-1]
+Dāmodara Paṇḍita says to Mahāprabhu: “When it comes to instructing others, You are a *paṇḍita*, and everyone calls You ‘Gosāñi, Gosāñi’ (*ācārya*). Now it will become clear how You remain a Gosāñi.”
 
 ## 15
 
@@ -54,7 +54,7 @@ This Bhagavān grants a result that all the gods, *asuras* and others find hard 
 
 ## 89
 
-Hearing Haridāsa's words full of truth, the Lord was pleased; but, displaying external consciousness, He rejected the words of praise for Himself[^89-1].
+Hearing Haridāsa's words full of truth, the Lord was pleased; but, displaying external consciousness, He rejected the words of praise for Himself.
 
 ## 95
 
@@ -86,7 +86,7 @@ Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee doe
 
 ## 199
 
-***Ghaṭa-paṭiyā*** — a *naiyāyika* (logician) who argues fruitlessly about “the pot” (*ghaṭa*) and “the cloth” (*paṭa*).[^199-1]
+***Ghaṭa-paṭiyā*** — a *naiyāyika* (logician) who argues fruitlessly about “the pot” (*ghaṭa*) and “the cloth” (*paṭa*).
 
 ## 220
 
@@ -94,10 +94,3 @@ Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee doe
 
 *Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*
 
----
-
-[^11-1]: The translation of the verse understands this differently: “You instruct everyone; You are the teacher even of other teachers.”
-
-[^89-1]: The translation of the verse understands this differently: “But from then on He avoided any discussion of the subject.”
-
-[^199-1]: The translation of the verse understands this differently: “a pragmatic fool.”
