@@ -49,7 +49,7 @@ fn: Edition heading: in the company of many people, amid talks of Kṛṣṇa of
 ## 8
 w: His  for the happiness  with (Him)  stay  two  persons
 w: with verses and songs about the rasa of Kṛṣṇa  they give  consolation
-tr: For His happiness two persons stayed with Him and consoled Him with verses and songs about the sweet rasa of Kṛṣṇa.
+tr: Two companions stayed with Him for His happiness, consoling Him with verses and songs about the sweet rasa of Kṛṣṇa.
 
 ## 9
 w: Subala  as  formerly  of Kṛṣṇa’s happiness  the helper
@@ -130,7 +130,7 @@ tr: Whenever he came to beat him, the sight of Raghunātha changed his heart, an
 ## 23
 w: especially  thinking (him) a Kāyastha  inwardly  he feels  fear
 w: with his mouth  threatens  roars  to beat  fearful  the heart
-tr: Above all, knowing him to be a Kāyastha, he was afraid at heart: aloud he threatened and roared, but inwardly he feared to strike him.
+tr: Above all, knowing him to be a Kāyastha, he was afraid at heart: aloud he threatened and roared, but he dared not strike him.
 fn: *Amṛta-pravāha-bhāṣya*: Raghunātha was the son of a respected and wealthy man, learned himself and, above all, born among the Kāyasthas, an eminent class close to the brāhmaṇas, so the official could no longer beat him; from of old the Kāyasthas have been the king’s officers, honoured equally with the kṣatriyas.
 
 ## 24
@@ -162,7 +162,7 @@ fn: *Jindā pīr* — “a living saint”; a *pīr* is a Muslim saint.
 ## 29
 w: this  hearing  that  Muslim’s  heart  melted
 w: down his beard  flowing  tears  fall  to weep  he began
-tr: Hearing this, the Muslim’s heart melted; tears flowed down his beard, and he began to weep.
+tr: Hearing this, the Muslim’s heart melted; he began to weep, and tears flowed down his beard.
 
 ## 30
 w: the Muslim  says  today  from  you  my  son
@@ -173,7 +173,7 @@ fn: *Anubhāṣya*: *sūtra* here means “a pretext”, *chutā* in common spee
 ## 31
 w: to the vizier  speaking  Raghunātha  he had released
 w: with affection  to Raghunātha  to speak  he began
-tr: He spoke to the vizier and had Raghunātha released. Then he began to speak to Raghunātha with affection:
+tr: He spoke to the vizier and had Raghunātha released. Then he spoke to Raghunātha affectionately:
 
 ## 32
 w: your  uncle  foolish  eight lakhs  eats
@@ -226,13 +226,13 @@ fn: *Amṛta-pravāha-bhāṣya*: *prārabdha* — the deeds of past lives that 
 ## 41
 w: of Caitanyacandra  the mercy  has come  upon him
 w: of Caitanya Prabhu  a madman  who  to keep  can
-tr: Caitanyacandra’s mercy has come upon him. Who can hold back a madman of Caitanya Prabhu?”
+tr: Caitanyacandra’s mercy has come upon him. Who can hold back one whom Caitanya Prabhu has made mad?”
 fn: Edition heading: only a servant absorbed in Caitanya is free, that is, beyond this world.
 
 ## 42
 w: then  Raghunātha  something  considered  in his mind
 w: to Nityānanda Gosāñi  he went  the next  day
-tr: Then Raghunātha thought something over, and the next day he went to Nityānanda Gosāñi.
+tr: Then Raghunātha made a plan, and the next day he went to Nityānanda Gosāñi.
 fn: Numbering: the edition prints no number after this verse (only “॥”).
 
 ## 43
@@ -365,7 +365,7 @@ tr: All the other people sat in circles below the platform; there was no countin
 ## 67
 w: to each  person  two  two  pots  he gave
 w: yogurt and flat rice  milk and flat rice  in the two  he soaked
-tr: Each person was given two pots, and *ciḍā* was soaked in them, with *dadhi* in one and with milk in the other.
+tr: Everyone else, too, was given two pots: one of *ciḍā* soaked in *dadhi*, the other of *ciḍā* soaked in milk.
 
 ## 68
 w: some  some  brāhmaṇas  above  place  not  finding
@@ -406,7 +406,7 @@ tr: The Lord said, “Let Me eat this food by day; at night I will eat the pras�
 ## 75
 w: of cowherd caste  I  many  cowherds  with
 w: I  happiness  get  in this  sport of a picnic on the sandy bank
-tr: I am a cowherd by caste, and I have many cowherd boys with Me: I am happy in this sport of a picnic on the sandy riverbank.”
+tr: I am a cowherd by caste, and I have many cowherd boys with Me: a picnic on the sandy riverbank is My delight.”
 fn: Edition headings: to 74 — Nityānanda Prabhu, feeling Himself a cowherd boy, recalls the pastimes of Vraja; to 75 — the joy of a meal with His friends on the sandy bank of the Yamunā.
 
 ## 76
@@ -432,7 +432,7 @@ tr: From every tub and pot He took a mouthful of *ciḍā* and, joking, put it i
 ## 80
 w: smiling  Mahāprabhu  another  one  mouthful  taking
 w: His  into the mouth  putting  feeds (Him)  laughing  laughing
-tr: Smiling, Mahāprabhu took another mouthful, put it into Nitāi’s mouth, and fed Him, laughing and laughing.
+tr: Mahāprabhu, smiling, took a mouthful in turn and, laughing all the while, fed it to Nitāi.
 
 ## 81
 w: in this way  Nitāi  goes about  through all the circles
@@ -495,7 +495,7 @@ fn: *Anubhāṣya*: *pasāri* — a vendor, a shopkeeper. Edition heading: the v
 ## 92
 w: whatever  goods  bringing  they come  all  the price  paying  he takes
 w: their  goods  the price  giving  them  he feeds
-tr: Whatever goods they brought, he bought it all, paying the price; and having paid for their goods, he fed the vendors with them.
+tr: He bought up all the goods they had brought, paying the full price, and then fed the vendors with the very food he had bought from them.
 
 ## 93
 w: the fun  to see  came  how many  how many  people
@@ -520,7 +520,7 @@ tr: A brāhmaṇa brought a flower garland and placed it around the Lord’s nec
 ## 97
 w: a servant  betel  taking  makes  offering
 w: smiling  smiling  the Lord  does  chewing
-tr: A servant brought betel (*tāmbūla*) and offered it, and the Lord, smiling and smiling, chewed it.
+tr: A servant brought betel (*tāmbūla*) and offered it, and the Lord, smiling all the while, chewed it.
 
 ## 98
 w: of the garlands sandal paste and betel  the remnants  which  there were
@@ -633,7 +633,7 @@ tr: Everyone asked Raghunātha to sit down to the meal, but the Paṇḍita said
 ## 119
 w: the devotees  to the throat  filling  took  the meal
 w: ‘Hari’  the sound  making  rising  did  ācamana
-tr: The devotees ate their fill, up to the throat; then, calling out “Hari!”, they rose and rinsed their mouths and hands.
+tr: The devotees ate their fill; then, calling out “Hari!”, they rose and rinsed their mouths and hands.
 
 ## 120
 w: the meal  having taken  the two  brothers  did  ācamana
@@ -882,12 +882,12 @@ tr: Saying this, he set off with Raghunātha. Towards the end of the night all t
 ## 167
 w: the Ācārya’s  house  from his  to the east
 w: speaking  listening  the two  walk  along that road
-tr: The Ācārya’s house lay to the east of Raghunātha’s, and the two walked along that road, talking and listening.
+tr: The Ācārya’s house lay to the east of Raghunātha’s, and the two walked along that road, talking as they went.
 
 ## 168
 w: halfway  Raghunātha  says  at the guru’s  feet
 w: I  that  brāhmaṇa  having persuaded  will send  to your  place
-tr: Halfway there Raghunātha said at his guru’s feet, “I will persuade that brāhmaṇa and send him to your house.
+tr: Halfway there Raghunātha humbly said to his guru, “I will persuade that brāhmaṇa and send him to your house.
 fn: Numbering: the edition prints no number after this verse (only “॥”).
 
 ## 169
@@ -1016,7 +1016,7 @@ tr: He bowed at the feet of Svarūpa and all the devotees, and they all, seeing 
 ## 193
 w: the Lord  says  Kṛṣṇa’s mercy  stronger  than all
 w: you  has snatched  from the cesspit of worldly life  out of
-tr: The Lord said, “Kṛṣṇa’s mercy is stronger than everything: it has snatched you out of the cesspit of worldly life.”
+tr: The Lord said, “Kṛṣṇa’s mercy is mightier than all else: it has snatched you out of the cesspit of worldly life.”
 fn: *Anubhāṣya*: Kṛṣṇa’s mercy is stronger than the fruits of past karma; a jīva attached to worldly things cannot give them up by his own strength. Mahāprabhu knew Raghunātha was free from worldliness and said this only to teach worldly people.
 
 ## 194
@@ -1416,7 +1416,7 @@ tr: Raghunātha dāsa would not accept it, so the two of them stayed there with 
 ## 269
 w: then  Raghunātha  making  much  effort
 w: in a month  two  days  made  of the Lord  invitation
-tr: Then, with great effort, Raghunātha began to invite the Lord twice a month.
+tr: Then, with great care, Raghunātha began to invite the Lord twice a month.
 
 ## 270
 w: the two  invitations  cost  cowries  eight paṇas
@@ -1437,7 +1437,7 @@ tr: When Raghunātha had not invited Him for two months, the son of Śacī asked
 ## 273
 w: Raghu  why  Me  the invitation  has given up
 w: Svarūpa  says  in his mind  something  he has considered
-tr: “Why has Raghu stopped inviting Me?” Svarūpa said, “He has thought something over in his mind:
+tr: “Why has Raghu stopped inviting Me?” Svarūpa said, “He must have thought it over like this:
 
 ## 274
 w: of worldly men  the money  taking  I make  invitation
@@ -1447,7 +1447,7 @@ tr: ‘I take the money of worldly men and invite the Lord; I know the Lord’s 
 ## 275
 w: my  heart  the money  in taking  not  becomes  pure
 w: in these  invitations  I see  prestige  only  the result
-tr: Taking this money, my heart does not become pure; I see that the only fruit of these invitations is prestige (*pratiṣṭhā*).
+tr: When I take this money, my heart cannot be pure; I see that the only fruit of these invitations is prestige (*pratiṣṭhā*).
 fn: *Anubhāṣya*: one who, thinking himself the enjoyer, tries to serve Hari, guru and the Vaiṣṇavas with wealth meant for his own enjoyment gains only worldly prestige and does not really serve them; one who seeks eternal good serves them with all he has earned himself, and with body, mind, speech and life.
 
 ## 276
@@ -1572,7 +1572,7 @@ tr: On both sides, between two leaves, place a tender *mañjarī*; in this way o
 ## 298
 w: with His own holy hand  the śilā  giving  this  order  He gave
 w: in joy  Raghunātha  service  to do  began
-tr: Giving him the *śilā* with His own holy hand, the Lord gave this order, and Raghunātha joyfully began his service.
+tr: With His own holy hand the Lord gave him the *śilā* together with this instruction, and Raghunātha joyfully began his service.
 
 ## 299
 w: one span  two cloths  a seat  one
@@ -1650,7 +1650,7 @@ tr: He wore no clothing but torn rags and a patched quilt, and so he carefully k
 ## 313
 w: of life  the maintenance  for the sake  whatever  he does  eating
 w: that  having eaten  for himself  he feels  remorse
-tr: Whatever he ate merely to keep himself alive, he reproached himself after eating it.
+tr: He ate only enough to keep himself alive, and even for that he reproached himself afterwards.
 
 ## 314
 w: the self  if  one knows
@@ -1689,7 +1689,7 @@ tr: One day Svarūpa saw him doing this; smiling, he asked for some of it and at
 ## 320
 w: Svarūpa  says  such  nectar  you eat  every day
 w: to all of us  not  you give  what  your  nature
-tr: Svarūpa said, “Every day you eat such nectar and never give any to us! What kind of nature is that?”
+tr: Svarūpa said, “Every day you eat such nectar and never give any to us! What sort of behaviour is that?”
 fn: Numbering: the edition prints no number after this verse (only the closing quotation mark, p. 950, left column).
 
 ## 321
@@ -1729,7 +1729,7 @@ w: of great wealth  from the forest fire  even though  fallen  lifting out  by m
 w: to Svarūpa  He who  His own  a wretch  though  me  entrusting  was pleased
 w: from His chest  the guñjā garland  dear  though  and  the Govardhana śilā
 w: gave  to me  Gaurāṅga  in my heart  rising  me  maddens
-tr: “Though I was fallen, He mercifully lifted me out of the forest fire of great wealth, entrusted me, wretched as I am, to His own Svarūpa, and was pleased. Though they were dear to Him, He gave me the *guñjā* garland from His chest and the *govardhana-śilā*. That Gaurāṅga, rising in my heart, makes me mad with joy.” (*Caitanya-stava-kalpavṛkṣa*, 11)
+tr: “Fallen as I was, He mercifully lifted me out of the forest fire of great wealth, and joyfully entrusted me, wretched as I am, to His own Svarūpa. Though they were dear to Him, He gave me the *guñjā* garland from His chest and the *govardhana-śilā*. That Gaurāṅga, rising in my heart, makes me mad with joy.” (*Caitanya-stava-kalpavṛkṣa*, 11)
 fn: The edition reads *mahā-sampad-dāvāt*, “from the forest fire of great wealth”, and so it is translated; the *Anubhāṣya* and the *Amṛta-pravāha-bhāṣya* take *-dārāt*, “from great wealth and a wife”, as the main reading.
 
 ## 328

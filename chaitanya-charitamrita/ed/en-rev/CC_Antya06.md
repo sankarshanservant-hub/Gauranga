@@ -88,7 +88,7 @@ His  for the happiness  with (Him)  stay  two  persons
 kṛṣṇa-rasa-śloka-gīte karena sāntvanā  
 with verses and songs about the rasa of Kṛṣṇa  they give  consolation
 
-(8) For His happiness two persons stayed with Him and consoled Him with verses and songs about the sweet rasa of Kṛṣṇa.
+(8) Two companions stayed with Him for His happiness, consoling Him with verses and songs about the sweet rasa of Kṛṣṇa.
 
 সুবল যৈছে পূর্ব্বে কৃষ্ণসুখের সহায় ৷  
 গৌরসুখদান-হেতু তৈছে রাম-রায় ॥ ৯ ॥
@@ -238,7 +238,7 @@ especially  thinking (him) a Kāyastha  inwardly  he feels  fear
 mukhe tarje garje, mārite sabhaya antara  
 with his mouth  threatens  roars  to beat  fearful  the heart
 
-(23) Above all, knowing him to be a Kāyastha, he was afraid at heart: aloud he threatened and roared, but inwardly he feared to strike him.[^10]
+(23) Above all, knowing him to be a Kāyastha, he was afraid at heart: aloud he threatened and roared, but he dared not strike him.[^10]
 
 তবে রঘুনাথ কিছু চিন্তিলা উপায় ৷  
 বিনতি করিয়া কহে সেই ম্লেচ্ছ-পায় ॥ ২৪ ॥
@@ -298,7 +298,7 @@ this  hearing  that  Muslim’s  heart  melted
 dāḍi vahi’ aśru paḍe, kām̐dite lāgila  
 down his beard  flowing  tears  fall  to weep  he began
 
-(29) Hearing this, the Muslim’s heart melted; tears flowed down his beard, and he began to weep.
+(29) Hearing this, the Muslim’s heart melted; he began to weep, and tears flowed down his beard.
 
 ম্লেচ্ছ বলে, — আজি হৈতে তুমি — মোর ‘পুত্র’ ৷  
 আজি ছাড়াইমু তোমা’ করি’ এক সূত্র ॥ ৩০ ॥
@@ -318,7 +318,7 @@ to the vizier  speaking  Raghunātha  he had released
 prīti kari’ raghunāthe kahite lāgila  
 with affection  to Raghunātha  to speak  he began
 
-(31) He spoke to the vizier and had Raghunātha released. Then he began to speak to Raghunātha with affection:
+(31) He spoke to the vizier and had Raghunātha released. Then he spoke to Raghunātha affectionately:
 
 তোমার জ্যেঠা নির্ব্বুদ্ধি অষ্টলক্ষ খায় ৷  
 আমি — ভাগী, আমারে কিছু দিবারে যুয়ায় ॥ ৩২ ॥
@@ -418,7 +418,7 @@ of Caitanyacandra  the mercy  has come  upon him
 caitanya-prabhura ‘bātula’ ke rākhite pāre?  
 of Caitanya Prabhu  a madman  who  to keep  can
 
-(41) Caitanyacandra’s mercy has come upon him. Who can hold back a madman of Caitanya Prabhu?”[^16]
+(41) Caitanyacandra’s mercy has come upon him. Who can hold back one whom Caitanya Prabhu has made mad?”[^16]
 
 তবে রঘুনাথ কিছু বিচারিলা মনে ৷  
 নিত্যানন্দ-গোসাঞির পাশ চলিলা আর দিনে ॥ ৪২ ॥
@@ -428,7 +428,7 @@ then  Raghunātha  something  considered  in his mind
 nityānanda-gosāñira pāśa calilā āra dine  
 to Nityānanda Gosāñi  he went  the next  day
 
-(42) Then Raghunātha thought something over, and the next day he went to Nityānanda Gosāñi.[^17]
+(42) Then Raghunātha made a plan, and the next day he went to Nityānanda Gosāñi.[^17]
 
 পানিহাটি গ্রামে পাইলা প্রভুর দরশন ৷  
 কীর্ত্তনীয়া সেবক সঙ্গে আর বহুজন ॥ ৪৩ ॥
@@ -678,7 +678,7 @@ to each  person  two  two  pots  he gave
 dadhi-ciḍā, dugdha-ciḍā, duite bhijāila  
 yogurt and flat rice  milk and flat rice  in the two  he soaked
 
-(67) Each person was given two pots, and *ciḍā* was soaked in them, with *dadhi* in one and with milk in the other.
+(67) Everyone else, too, was given two pots: one of *ciḍā* soaked in *dadhi*, the other of *ciḍā* soaked in milk.
 
 কোন কোন বিপ্র উপরে স্থান না পাঞা ৷  
 দুই হোল্নায় চিড়া ভিজায় গঙ্গাতীরে গিয়া ॥ ৬৮ ॥
@@ -758,7 +758,7 @@ of cowherd caste  I  many  cowherds  with
 āmi sukha pāi ei pulina-bhojana-raṅge  
 I  happiness  get  in this  sport of a picnic on the sandy bank
 
-(75) I am a cowherd by caste, and I have many cowherd boys with Me: I am happy in this sport of a picnic on the sandy riverbank.”[^26]
+(75) I am a cowherd by caste, and I have many cowherd boys with Me: a picnic on the sandy riverbank is My delight.”[^26]
 
 রাঘবে বসাঞা দুই কুণ্ডী দেওয়াইলা ৷  
 রাঘব দ্বিবিধ চিড়া তাতে ভিজাইলা ॥ ৭৬ ॥
@@ -808,7 +808,7 @@ smiling  Mahāprabhu  another  one  mouthful  taking
 tām̐ra mukhe diyā khāoyāya hāsiyā hāsiyā  
 His  into the mouth  putting  feeds (Him)  laughing  laughing
 
-(80) Smiling, Mahāprabhu took another mouthful, put it into Nitāi’s mouth, and fed Him, laughing and laughing.
+(80) Mahāprabhu, smiling, took a mouthful in turn and, laughing all the while, fed it to Nitāi.
 
 এইমত নিতাই বুলে সকল-মণ্ডলে ৷  
 দাণ্ডাঞা রঙ্গ দেখে বৈষ্ণব সকলে ॥ ৮১ ॥
@@ -928,7 +928,7 @@ whatever  goods  bringing  they come  all  the price  paying  he takes
 tāra dravya mūlya diyā tāhāre khāoyāya  
 their  goods  the price  giving  them  he feeds
 
-(92) Whatever goods they brought, he bought it all, paying the price; and having paid for their goods, he fed the vendors with them.
+(92) He bought up all the goods they had brought, paying the full price, and then fed the vendors with the very food he had bought from them.
 
 কৌতুক দেখিতে আইল, যত যত জন ৷  
 সেই চিড়া, দধি, কলা করিল ভক্ষণ ॥ ৯৩ ॥
@@ -978,7 +978,7 @@ a servant  betel  taking  makes  offering
 hāsiyā hāsiyā prabhu karaye carvaṇa  
 smiling  smiling  the Lord  does  chewing
 
-(97) A servant brought betel (*tāmbūla*) and offered it, and the Lord, smiling and smiling, chewed it.
+(97) A servant brought betel (*tāmbūla*) and offered it, and the Lord, smiling all the while, chewed it.
 
 মালা-চন্দন-তাম্বূল শেষ যে আছিল ৷  
 শ্রীহস্তে প্রভু সবাকারে বাঁটি’ দিল ॥ ৯৮ ॥
@@ -1198,7 +1198,7 @@ the devotees  to the throat  filling  took  the meal
 ‘hari’ dhvani kari’ uṭhi’ kaila ācamana  
 ‘Hari’  the sound  making  rising  did  ācamana
 
-(119) The devotees ate their fill, up to the throat; then, calling out “Hari!”, they rose and rinsed their mouths and hands.
+(119) The devotees ate their fill; then, calling out “Hari!”, they rose and rinsed their mouths and hands.
 
 ভোজন করি’ দুই ভাই কৈলা আচমন ৷  
 রাঘব আনি’ পরাইলা মাল্য-চন্দন ॥ ১২০ ॥
@@ -1682,7 +1682,7 @@ the Ācārya’s  house  from his  to the east
 kahite śunite dum̐he cale sei pathe  
 speaking  listening  the two  walk  along that road
 
-(167) The Ācārya’s house lay to the east of Raghunātha’s, and the two walked along that road, talking and listening.
+(167) The Ācārya’s house lay to the east of Raghunātha’s, and the two walked along that road, talking as they went.
 
 অর্দ্ধপথে রঘুনাথ কহে গুরুর চরণে ৷  
 আমি সেই বিপ্রে সাধি’ পাঠাইমু তোমা স্থানে ॥ ১৬৮ ॥
@@ -1692,7 +1692,7 @@ halfway  Raghunātha  says  at the guru’s  feet
 āmi sei vipre sādhi’ pāṭhāimu tomā sthāne  
 I  that  brāhmaṇa  having persuaded  will send  to your  place
 
-(168) Halfway there Raghunātha said at his guru’s feet, “I will persuade that brāhmaṇa and send him to your house.[^40]
+(168) Halfway there Raghunātha humbly said to his guru, “I will persuade that brāhmaṇa and send him to your house.[^40]
 
 তুমি ঘরে যাহ সুখে, — মোরে আজ্ঞা হয় ৷  
 এই ছলে আজ্ঞা মাগি’ করিলা নিশ্চয় ॥ ১৬৯ ॥
@@ -1942,7 +1942,7 @@ the Lord  says  Kṛṣṇa’s mercy  stronger  than all
 tomāre kāḍila viṣaya-viṣṭhā-garta haite  
 you  has snatched  from the cesspit of worldly life  out of
 
-(193) The Lord said, “Kṛṣṇa’s mercy is stronger than everything: it has snatched you out of the cesspit of worldly life.”[^44]
+(193) The Lord said, “Kṛṣṇa’s mercy is mightier than all else: it has snatched you out of the cesspit of worldly life.”[^44]
 
 রঘুনাথ কহে মনে, — কৃষ্ণ নাহি জানি ৷  
 তব কৃপা কাড়িল আমা, — এই আমি মানি ॥ ১৯৪ ॥
@@ -2718,7 +2718,7 @@ then  Raghunātha  making  much  effort
 māse dui-dina kailā prabhura nimantraṇa  
 in a month  two  days  made  of the Lord  invitation
 
-(269) Then, with great effort, Raghunātha began to invite the Lord twice a month.
+(269) Then, with great care, Raghunātha began to invite the Lord twice a month.
 
 দুই নিমন্ত্রণে লাগে কৌড়ি অষ্টপণ ৷  
 ব্রাহ্মণ-ভৃত্য-ঠাঞি করেন এতেক গ্রহণ ॥ ২৭০ ॥
@@ -2758,7 +2758,7 @@ Raghu  why  Me  the invitation  has given up
 svarūpa kahe, — mane kichu vicāra karila  
 Svarūpa  says  in his mind  something  he has considered
 
-(273) “Why has Raghu stopped inviting Me?” Svarūpa said, “He has thought something over in his mind:
+(273) “Why has Raghu stopped inviting Me?” Svarūpa said, “He must have thought it over like this:
 
 বিষয়ীর দ্রব্য লঞা করি নিমন্ত্রণ ৷  
 প্রসন্ন না হয় ইহায়, জানি প্রভুর মন ॥ ২৭৪ ॥
@@ -2778,7 +2778,7 @@ my  heart  the money  in taking  not  becomes  pure
 ei nimantraṇe dekhi, — ‘pratiṣṭhā’ mātra phala  
 in these  invitations  I see  prestige  only  the result
 
-(275) Taking this money, my heart does not become pure; I see that the only fruit of these invitations is prestige (*pratiṣṭhā*).[^59]
+(275) When I take this money, my heart cannot be pure; I see that the only fruit of these invitations is prestige (*pratiṣṭhā*).[^59]
 
 উপরোধে প্রভু মোর মানেন নিমন্ত্রণ ৷  
 না মানিলে দুঃখী হইবেক মূর্খ জন ॥ ২৭৬ ॥
@@ -3014,7 +3014,7 @@ with His own holy hand  the śilā  giving  this  order  He gave
 ānande raghunātha sevā karite lāgilā  
 in joy  Raghunātha  service  to do  began
 
-(298) Giving him the *śilā* with His own holy hand, the Lord gave this order, and Raghunātha joyfully began his service.
+(298) With His own holy hand the Lord gave him the *śilā* together with this instruction, and Raghunātha joyfully began his service.
 
 এক-বিতস্তি দুইবস্ত্র, পিঁড়া একখানি ৷  
 স্বরূপ দিলেন কুঁজা আনিবারে পানি ॥ ২৯৯ ॥
@@ -3164,7 +3164,7 @@ of life  the maintenance  for the sake  whatever  he does  eating
 tāhā khāñā āpanāra kare nirvedana  
 that  having eaten  for himself  he feels  remorse
 
-(313) Whatever he ate merely to keep himself alive, he reproached himself after eating it.
+(313) He ate only enough to keep himself alive, and even for that he reproached himself afterwards.
 
 আত্মানং চেদ্বিজানীয়াৎ পরং জ্ঞানধূতাশয়ঃ ৷  
 কিমিচ্ছন্ কস্য বা হেতোর্দ্দেহং পুষ্ণাতি লম্পটঃ ॥ ৩১৪ ॥
@@ -3238,7 +3238,7 @@ Svarūpa  says  such  nectar  you eat  every day
 āmā-sabāya nāhi deha’, — ki tomāra prakṛti?  
 to all of us  not  you give  what  your  nature
 
-(320) Svarūpa said, “Every day you eat such nectar and never give any to us! What kind of nature is that?”[^72]
+(320) Svarūpa said, “Every day you eat such nectar and never give any to us! What sort of behaviour is that?”[^72]
 
 গোবিন্দের মুখে প্রভু সে বার্ত্তা শুনিলা ৷  
 আর দিন আসি’ প্রভু কহিতে লাগিলা ॥ ৩২১ ॥
@@ -3314,7 +3314,7 @@ from His chest  the guñjā garland  dear  though  and  the Govardhana śilā
 dadau me gaurāṅgo hṛdaya udayan māṁ madayati  
 gave  to me  Gaurāṅga  in my heart  rising  me  maddens
 
-(327) “Though I was fallen, He mercifully lifted me out of the forest fire of great wealth, entrusted me, wretched as I am, to His own Svarūpa, and was pleased. Though they were dear to Him, He gave me the *guñjā* garland from His chest and the *govardhana-śilā*. That Gaurāṅga, rising in my heart, makes me mad with joy.” (*Caitanya-stava-kalpavṛkṣa*, 11)[^75]
+(327) “Fallen as I was, He mercifully lifted me out of the forest fire of great wealth, and joyfully entrusted me, wretched as I am, to His own Svarūpa. Though they were dear to Him, He gave me the *guñjā* garland from His chest and the *govardhana-śilā*. That Gaurāṅga, rising in my heart, makes me mad with joy.” (*Caitanya-stava-kalpavṛkṣa*, 11)[^75]
 
 এই ত’ কহিলুঁ রঘুনাথের মিলন ৷  
 ইহা যেই শুনে, পায় চৈতন্যচরণ ॥ ৩২৮ ॥
