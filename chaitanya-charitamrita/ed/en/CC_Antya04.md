@@ -1757,105 +1757,131 @@ disgust  if I feel  My own  duty  is lost
 এই ‘বাহ্য প্রতারণা’ নাহি মানি আমি ॥ ১৮১ ॥
 
 haridāsa kahe, — prabhu, ye kahilā tumi  
-ei ‘bāhya pratāraṇā’ nāhi māni āmi
+Haridāsa  says  Lord  what  have said  You  
+ei ‘bāhya pratāraṇā’ nāhi māni āmi  
+this  outward  pretext  not  accept  I
 
-(181) [not yet translated]
+(181) Haridāsa said, “Lord, what You have said is an outward pretext, and I do not accept it.
 
 আমা-সব অধমে যে কৈরাছ অঙ্গীকার ৷  
 দীনদয়ালু গুণ তোমার তাহাতে প্রচার ॥ ১৮২ ॥
 
 āmā-saba adhame ye kairācha aṅgīkāra  
-dīna-dayālu guṇa tomāra tāhāte pracāra
+us  all  the fallen  that  You have accepted  
+dīna-dayālu guṇa tomāra tāhāte pracāra  
+compassion for the lowly  the quality  Your  in that  is proclaimed
 
-(182) [not yet translated]
+(182) That You have accepted all of us fallen souls proclaims Your quality of compassion for the lowly.”
 
 প্রভু হাসি’ কহে, — শুন, হরিদাস, সনাতন ৷  
 তত্ত্বতঃ কহি তোমা-বিষয়ে আমার যৈছে মন ॥ ১৮৩ ॥
 
 prabhu hāsi’ kahe, — śuna, haridāsa, sanātana  
-tattvataḥ kahi tomā-viṣaye āmāra yaiche mana
+the Lord  smiling  says  hear  Haridāsa  Sanātana  
+tattvataḥ kahi tomā-viṣaye āmāra yaiche mana  
+truly  I tell  about you  My  how  mind
 
-(183) [not yet translated]
+(183) The Lord smiled and said, “Listen, Haridāsa and Sanātana. I shall tell you truly how My heart is toward you.
 
 তোমারে ‘লাল্য’, আপনাকে ‘লালক’-অভিমান ৷  
 লালকের লাল্যে নহে দোষ পরিজ্ঞান ॥ ১৮৪ ॥
 
 tomāre ‘lālya’, āpanāke ‘lālaka’-abhimāna  
-lālakera lālye nahe doṣa parijñāna
+you  as the cherished  Myself  as the one who cherishes  the conception  
+lālakera lālye nahe doṣa parijñāna  
+of the one who cherishes  in the cherished  is not  of faults  the perception
 
-(184) [not yet translated]
+(184) I think of you as those I cherish (*lālya*), and of Myself as the one who cherishes you (*lālaka*). The one who cherishes does not perceive faults in those he cherishes.
 
 আপনারে হয় মোর অমান্য-সমান ৷  
 তোমা-সবারে করোঁ মুঞি বালক-অভিমান ॥ ১৮৫ ॥
 
 āpanāre haya mora amānya-samāna  
-tomā-sabāre karoṅ muñi bālaka-abhimāna
+toward Myself  is  My  like one not to be honored  
+tomā-sabāre karoṅ muñi bālaka-abhimāna  
+you all  I hold  I  as children  the conception
 
-(185) [not yet translated]
+(185) I regard Myself as one not to be honored by you, for I think of you all as My children.
 
 মাতার যৈছে বালকের ‘অমেধ্য’ লাগে গায় ৷  
 ঘৃণা নাহি জন্মে, আর মহাসুখ পায় ॥ ১৮৬ ॥
 
 mātāra yaiche bālakera ‘amedhya’ lāge gāya  
-ghṛṇā nāhi janme, āra mahā-sukha pāya
+of a mother  as  of the child  the filth  clings  to the body  
+ghṛṇā nāhi janme, āra mahā-sukha pāya  
+disgust  not  arises  rather  great happiness  she feels
 
-(186) [not yet translated]
+(186) When a child’s filth gets on its mother’s body, no disgust arises in her; rather, she feels great happiness.
 
 ‘লাল্যামেধ্য’ লালকের চন্দন-সম ভায় ৷  
 সনাতনের ক্লেদে আমার ঘৃণা না উপজায় ॥ ১৮৭ ॥
 
 ‘lālyāmedhya’ lālakera candana-sama bhāya  
-sanātanera klede āmāra ghṛṇā nā upajāya
+the filth of the cherished  to the one who cherishes  like sandal paste  appears  
+sanātanera klede āmāra ghṛṇā nā upajāya  
+of Sanātana  at the discharge  My  disgust  not  arises
 
-(187) [not yet translated]
+(187) To the one who cherishes, the filth of the cherished seems like sandal paste. So I feel no disgust at Sanātana’s discharge.”
 
 হরিদাস কহে, — তুমি ঈশ্বর দয়াময় ৷  
 তোমার গম্ভীর হৃদয় বুঝন না যায় ॥ ১৮৮ ॥
 
 haridāsa kahe, — tumi īśvara dayā-maya  
-tomāra gambhīra hṛdaya bujhana nā yāya
+Haridāsa  says  You  the Lord  full of mercy  
+tomāra gambhīra hṛdaya bujhana nā yāya  
+Your  deep  heart  understanding  not  is possible
 
-(188) [not yet translated]
+(188) Haridāsa said, “You are the Lord, full of mercy. No one can understand Your deep heart.
 
 বাসুদেব — গলৎকুষ্ঠী, তাতে অঙ্গ — কীড়াময় ৷  
 তারে আলিঙ্গন কৈলা হঞা সদয় ॥ ১৮৯ ॥
 
 vāsudeva — galat-kuṣṭhī, tāte aṅga — kīḍā-maya  
-tāre āliṅgana kailā hañā sadaya
+Vāsudeva  an oozing leper  moreover  the body  full of worms  
+tāre āliṅgana kailā hañā sadaya  
+him  embrace  You made  becoming  compassionate
 
-(189) [not yet translated]
+(189) Vāsudeva was a leper with oozing sores, his body full of worms, yet out of compassion You embraced him.
 
 আলিঙ্গিয়া কৈলা তার কন্দর্প-সম অঙ্গ ৷  
 বুঝিতে না পারি তোমার কৃপার তরঙ্গ ॥ ১৯০ ॥
 
 āliṅgiyā kailā tāra kandarpa-sama aṅga  
-bujhite nā pāri tomāra kṛpāra taraṅga
+having embraced  You made  his  like Kandarpa’s  body  
+bujhite nā pāri tomāra kṛpāra taraṅga  
+to understand  not  we can  of Your  mercy  the waves
 
-(190) [not yet translated]
+(190) By embracing him You made his body as beautiful as Kandarpa’s. We cannot understand the waves of Your mercy.”
 
 প্রভু কহে, — বৈষ্ণব-দেহ ‘প্রাকৃত’ কভু নয় ৷  
 ‘অপ্রাকৃত’ দেহ ভক্তের ‘চিদানন্দময়’ ॥ ১৯১ ॥
 
 prabhu kahe, — vaiṣṇava-deha ‘prākṛta’ kabhu naya  
-‘aprākṛta’ deha bhaktera ‘cid-ānanda-maya’
+the Lord  says  a Vaiṣṇava’s body  material  ever  is not  
+‘aprākṛta’ deha bhaktera ‘cid-ānanda-maya’  
+transcendental  the body  of a devotee  full of spirit and bliss
 
-(191) [not yet translated]
+(191) The Lord said, “A Vaiṣṇava’s body is never material. A devotee’s body is transcendental (*aprākṛta*), full of spirit and bliss (*cid-ānanda-maya*).
 
 দীক্ষাকালে ভক্ত করে আত্মসমর্পণ ৷  
 সেইকালে কৃষ্ণ তারে করে আত্মসম ॥ ১৯২ ॥
 
 dīkṣā-kāle bhakta kare ātma-samarpaṇa  
-sei-kāle kṛṣṇa tāre kare ātma-sama
+at the time of initiation  the devotee  makes  self-surrender  
+sei-kāle kṛṣṇa tāre kare ātma-sama  
+at that time  Kṛṣṇa  him  makes  like Himself
 
-(192) [not yet translated]
+(192) At the time of initiation (*dīkṣā*) the devotee surrenders himself, and at that very time Kṛṣṇa makes him like Himself.
 
 সেই দেহ করে তার চিদানন্দময় ৷  
 অপ্রাকৃত দেহে তাঁর চরণ ভজয় ॥ ১৯৩ ॥
 
 sei deha kare tāra cid-ānanda-maya  
-aprākṛta dehe tāṅra caraṇa bhajaya
+that  body  makes  his  full of spirit and bliss  
+aprākṛta dehe tāṅra caraṇa bhajaya  
+in a transcendental  body  His  feet  he worships
 
-(193) [not yet translated]
+(193) Kṛṣṇa makes that body of his full of spirit and bliss, and in that transcendental body the devotee worships His feet.
 
 মর্ত্ত্যো যদা ত্যক্তসমস্তকর্ম্মা  
 নিবেদিতাত্মা বিচিকীর্ষিতো মে ৷  
@@ -1863,139 +1889,175 @@ aprākṛta dehe tāṅra caraṇa bhajaya
 ময়াত্মভূয়ায় চ কল্পতে বৈ ॥ ১৯৪ ॥
 
 martyo yadā tyakta-samasta-karmā  
+a mortal  when  having given up  all  works  
 niveditātmā vicikīrṣito me  
+having offered himself  whom I wish to exalt  by Me  
 tadāmṛtatvaṁ pratipadyamāno  
-mayātma-bhūyāya ca kalpate vai
+then  immortality  attaining  
+mayātma-bhūyāya ca kalpate vai  
+with Me  for a nature like Mine  and  becomes fit  indeed
 
-(194) [not yet translated]
+(194) “When a mortal gives up all works and offers himself to Me, I wish to exalt him. Then he attains immortality and becomes fit to share with Me a nature like My own.” (Śrīmad-Bhāgavatam, 11.29.34)
 
 সনাতনের দেহে কৃষ্ণ কণ্ডু উপজাঞা ৷  
 আমা পরীক্ষিতে ইঁহা দিলা পাঠাঞা ॥ ১৯৫ ॥
 
 sanātanera dehe kṛṣṇa kaṇḍu upajāñā  
-āmā parīkṣite iṅhā dilā pāṭhāñā
+of Sanātana  in the body  Kṛṣṇa  sores  producing  
+āmā parīkṣite iṅhā dilā pāṭhāñā  
+Me  to test  here  has sent  him
 
-(195) [not yet translated]
+(195) Kṛṣṇa produced sores on Sanātana’s body and sent him here to test Me.
 
 ঘৃণা করি’ আলিঙ্গন না করিতাম যবে ৷  
 কৃষ্ণ-ঠাঞি অপরাধী হইতাম তবে ॥ ১৯৬ ॥
 
 ghṛṇā kari’ āliṅgana nā karitāma yabe  
-kṛṣṇa-ṭhāñi aparādhī haitāma tabe
+disgust  feeling  embrace  not  had I made  if  
+kṛṣṇa-ṭhāñi aparādhī haitāma tabe  
+to Kṛṣṇa  an offender  I would have become  then
 
-(196) [not yet translated]
+(196) Had I felt disgust and not embraced him, I would have become an offender to Kṛṣṇa.
 
 পারিষদ-দেহ এই, না হয় দুর্গন্ধ ৷  
 প্রথম দিবসে পাইলুঁ চতুঃসম-গন্ধ ॥ ১৯৭ ॥
 
 pāriṣada-deha ei, nā haya durgandha  
-prathama divase pāiluṅ catuḥsama-gandha
+of an associate  the body  this  not  is  foul smell  
+prathama divase pāiluṅ catuḥsama-gandha  
+on the first  day  I perceived  of catuḥsama  the fragrance
 
-(197) [not yet translated]
+(197) This is the body of an associate (*pārṣada*); it has no foul smell. On the very first day I perceived the fragrance of *catuḥsama*.”
 
 বস্তুতঃ প্রভু যবে কৈলা আলিঙ্গন ৷  
 তাঁর স্পর্শে গন্ধ হৈল চন্দনের সম ॥ ১৯৮ ॥
 
 vastutaḥ prabhu yabe kailā āliṅgana  
-tāṅra sparśe gandha haila candanera sama
+in truth  the Lord  when  made  embrace  
+tāṅra sparśe gandha haila candanera sama  
+by His  touch  the fragrance  became  of sandal  like
 
-(198) [not yet translated]
+(198) In truth, when the Lord embraced him, His touch made the fragrance like that of sandalwood.
 
 প্রভু কহে, — সনাতন, না মানিহ দুঃখ ৷  
 তোমার আলিঙ্গনে আমি পাই বড় সুখ ॥ ১৯৯ ॥
 
 prabhu kahe, — sanātana, nā māniha duḥkha  
-tomāra āliṅgane āmi pāi baḍa sukha
+the Lord  says  Sanātana  not  feel  sorrow  
+tomāra āliṅgane āmi pāi baḍa sukha  
+in your  embrace  I  feel  great  happiness
 
-(199) [not yet translated]
+(199) The Lord said, “Sanātana, do not be sorry. I feel great happiness in embracing you.
 
 এবৎসর তুমি ইঁহা রহ আমা-সনে ৷  
 বৎসর রহি’ তোমারে আমি পাঠাইমু বৃন্দাবনে ॥ ২০০ ॥
 
 evatsara tumi iṅhā raha āmā-sane  
-vatsara rahi’ tomāre āmi pāṭhāimu vṛndāvane
+this year  you  here  stay  with Me  
+vatsara rahi’ tomāre āmi pāṭhāimu vṛndāvane  
+the year  having stayed  you  I  shall send  to Vṛndāvana
 
-(200) [not yet translated]
+(200) This year stay here with Me. When the year is over, I shall send you to Vṛndāvana.”
 
 এত বলি’ পুনঃ তাঁরে কৈলা আলিঙ্গন ৷  
 কণ্ডু গেল, অঙ্গ হৈল সুবর্ণের সম ॥ ২০১ ॥
 
 eta bali’ punaḥ tāṅre kailā āliṅgana  
-kaṇḍu gela, aṅga haila suvarṇera sama
+this  having said  again  him  made  embrace  
+kaṇḍu gela, aṅga haila suvarṇera sama  
+the sores  went  the body  became  of gold  like
 
-(201) [not yet translated]
+(201) Saying this, He embraced him again. The sores vanished, and his body became like gold.
 
 দেখি’ হরিদাস মনে হৈলা চমৎকার ৷  
 প্রভুরে কহেন, — এই ভঙ্গী যে তোমার ॥ ২০২ ॥
 
 dekhi’ haridāsa mane hailā camatkāra  
-prabhure kahena, — ei bhaṅgī ye tomāra
+seeing  Haridāsa  in mind  became  amazed  
+prabhure kahena, — ei bhaṅgī ye tomāra  
+to the Lord  says  this  play  which  is Yours
 
-(202) [not yet translated]
+(202) Seeing this, Haridāsa was amazed at heart and said to the Lord, “This is Your play.
 
 সেই ঝারিখণ্ডের পানী তুমি খাওয়াইলা ৷  
 সেই পানী-লক্ষ্যে ইঁহার কণ্ডু উপজাইলা ॥ ২০৩ ॥
 
 sei jhārikhaṇḍera pānī tumi khāoyāilā  
-sei pānī-lakṣye iṅhāra kaṇḍu upajāilā
+that  of Jhārikhaṇḍa  the water  You  made him drink  
+sei pānī-lakṣye iṅhāra kaṇḍu upajāilā  
+that  water  as the pretext  his  sores  You produced
 
-(203) [not yet translated]
+(203) It was You who made him drink that water of Jhārikhaṇḍa, and with that water as a pretext You produced his sores.
 
 কণ্ডু করি’ পরীক্ষা করিলে সনাতনে ৷  
 এই লীলা-ভঙ্গী তোমার কেহ নাহি জানে ॥ ২০৪ ॥
 
 kaṇḍu kari’ parīkṣā karile sanātane  
-ei līlā-bhaṅgī tomāra keha nāhi jāne
+sores  producing  test  You made  of Sanātana  
+ei līlā-bhaṅgī tomāra keha nāhi jāne  
+this  of the pastime  play  Your  anyone  not  knows
 
-(204) [not yet translated]
+(204) By producing the sores You tested Sanātana. No one understands this playful way of Your pastimes.”
 
 দুঁহে আলিঙ্গিয়া প্রভু গেলা নিজালয় ৷  
 প্রভুর গুণ কহে দুঁহে হঞা প্রেমময় ॥ ২০৫ ॥
 
 duṅhe āliṅgiyā prabhu gelā nijālaya  
-prabhura guṇa kahe duṅhe hañā prema-maya
+both  having embraced  the Lord  went  to His own dwelling  
+prabhura guṇa kahe duṅhe hañā prema-maya  
+of the Lord  the qualities  speak  the two  becoming  full of love
 
-(205) [not yet translated]
+(205) The Lord embraced them both and went to His own dwelling, and the two, filled with love, spoke of the Lord’s qualities.
 
 এইমত সনাতন রহে প্রভু-স্থানে ৷  
 কৃষ্ণচৈতন্য-গুণ-কথা হরিদাস সনে ॥ ২০৬ ॥
 
 ei-mata sanātana rahe prabhu-sthāne  
-kṛṣṇa-caitanya-guṇa-kathā haridāsa sane
+in this way  Sanātana  stays  at the Lord’s place  
+kṛṣṇa-caitanya-guṇa-kathā haridāsa sane  
+of Kṛṣṇa Caitanya  the qualities  talks  Haridāsa  with
 
-(206) [not yet translated]
+(206) Thus Sanātana stayed near the Lord, talking with Haridāsa about the qualities of Kṛṣṇa Caitanya.
 
 দোলযাত্রা দেখি’ প্রভু তাঁরে বিদায় দিলা ৷  
 বৃন্দাবনে যে করিবেন, সব শিখাইলা ॥ ২০৭ ॥
 
 dolayātrā dekhi’ prabhu tāṅre vidāya dilā  
-vṛndāvane ye karibena, saba śikhāilā
+the Dola-yātrā  having seen  the Lord  to him  leave  gave  
+vṛndāvane ye karibena, saba śikhāilā  
+in Vṛndāvana  what  he would do  all  He taught
 
-(207) [not yet translated]
+(207) After seeing the Dola-yātrā, the Lord gave him leave to go, and He taught him all that he was to do in Vṛndāvana.
 
 যে-কালে বিদায় হৈলা প্রভুর চরণে ৷  
 দুইজনার বিচ্ছেদ-দশা না যায় বর্ণনে ॥ ২০৮ ॥
 
 ye-kāle vidāya hailā prabhura caraṇe  
-dui-janāra viccheda-daśā nā yāya varṇane
+at the time when  leave  he took  at the Lord’s  feet  
+dui-janāra viccheda-daśā nā yāya varṇane  
+of the two  of separation  the state  not  can be  described
 
-(208) [not yet translated]
+(208) When he took leave at the Lord’s feet, the state of the two in separation was beyond description.
 
 যেই বন-পথে প্রভু গেলা বৃন্দাবন ৷  
 সেইপথে যাইতে মন কৈলা সনাতন ॥ ২০৯ ॥
 
 yei vana-pathe prabhu gelā vṛndāvana  
-sei-pathe yāite mana kailā sanātana
+by which  forest  path  the Lord  went  to Vṛndāvana  
+sei-pathe yāite mana kailā sanātana  
+by that path  to go  mind  made  Sanātana
 
-(209) [not yet translated]
+(209) Sanātana resolved to go by the same forest path by which the Lord had gone to Vṛndāvana.
 
 যে-পথে, যে-গ্রাম-নদী-শৈল, যাঁহা যেই লীলা ৷  
 বলভদ্রভট্ট-স্থানে সব লিখি’ নিলা ॥ ২১০ ॥
 
 ye-pathe, ye-grāma-nadī-śaila, yāṅhā yei līlā  
-balabhadrabhaṭṭa-sthāne saba likhi’ nilā
+by which path  which villages rivers and hills  where  which  pastime  
+balabhadrabhaṭṭa-sthāne saba likhi’ nilā  
+from Balabhadra Bhaṭṭa  all  having written down  he took
 
-(210) [not yet translated]
+(210) From Balabhadra Bhaṭṭa he wrote down everything: by which path, past which villages, rivers and hills the Lord went, and which pastime took place where.
 
 মহাপ্রভুর ভক্তগণে সবারে মিলিয়া ৷  
 সেইপথে চলি’ যায় সে স্থান দেখিয়া ॥ ২১১ ॥
