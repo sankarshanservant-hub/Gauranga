@@ -2622,17 +2622,21 @@ I  go  when  my  with  you will go
 তবে তোমা-সবাকারে সঙ্গে লঞা যামু ॥ ২৬১ ॥
 
 ebe ghara yāha, yabe āmi saba calimu  
-tabe tomā-sabākāre saṅge lañā yāmu
+now  home  go  when  we  all  shall set out  
+tabe tomā-sabākāre saṅge lañā yāmu  
+then  all of you  with me  taking  I shall go
 
-(261) [not yet translated]
+(261) Go home now. When we all set out, I shall take all of you along with me.”
 
 এই ত’ প্রস্তাবে শ্রীকবিকর্ণপূর ৷  
 রঘুনাথ-মহিমা গ্রন্থে লিখিলা প্রচুর ॥ ২৬২ ॥
 
 ei ta’ prastāve śrī-kavi-karṇapūra  
-raghunātha-mahimā granthe likhilā pracura
+this  indeed  in connection  Śrī Kavi-karṇapūra  
+raghunātha-mahimā granthe likhilā pracura  
+Raghunātha’s  glory  in his book  wrote  abundantly
 
-(262) [not yet translated]
+(262) In this connection Śrī Kavi-karṇapūra wrote of Raghunātha’s glory at length in his book:
 
 আচার্য্যো যদুনন্দনঃ সুমধুরঃ শ্রীবাসুদেবপ্রিয়-  
 স্তচ্ছিষ্যো রঘুনাথ ইত্যধিগুণঃ প্রাণাধিকো মাদৃশাম্ ৷  
@@ -2640,11 +2644,15 @@ raghunātha-mahimā granthe likhilā pracura
 বৈরাগ্যৈকনিধির্ন কস্য বিদিতো নীলাচলে তিষ্ঠতাম্ ॥ ২৬৩ ॥
 
 ācāryo yadunandanaḥ su-madhuraḥ śrī-vāsudeva-priyas  
+the ācārya  Yadunandana  very gentle  to Śrī Vāsudeva  dear  
 tac-chiṣyo raghunātha ity adhiguṇaḥ prāṇādhiko mādṛśām  
+his disciple  Raghunātha  so named  rich in virtues  dearer than life  to people like us  
 śrī-caitanya-kṛpātireka-satata-snigdhaḥ svarūpa-priyo  
-vairāgyaika-nidhir na kasya vidito nīlācale tiṣṭhatām
+by Śrī Caitanya’s  mercy  abundant  always  tender with love  to Svarūpa  dear  
+vairāgyaika-nidhir na kasya vidito nīlācale tiṣṭhatām  
+of renunciation  the sole treasure  not  to whom  known  in Nīlācala  among those who live
 
-(263) [not yet translated]
+(263) “The very gentle Yadunandana Ācārya is dear to Śrī Vāsudeva, and his disciple is Raghunātha, rich in virtues and dearer than life to people like us. By Śrī Caitanya’s abundant mercy he is always tender with love; he is dear to Svarūpa and is the sole treasure-house of renunciation. Among those who live in Nīlācala, who does not know him?” (Śrī Caitanya-candrodaya-nāṭaka, 10.3)
 
 যঃ সর্ব্বলোকৈকমনোভিরুচ্যা  
 সৌভাগ্যভূঃ কাচিদকৃষ্টপচ্যা ৷  
@@ -2652,171 +2660,215 @@ vairāgyaika-nidhir na kasya vidito nīlācale tiṣṭhatām
 তৎপ্রেমশাখী ফলবানতুল্যঃ ॥ ২৬৪ ॥
 
 yaḥ sarva-lokaika-manobhirucyā  
+who  of all people  alone  pleasing to the minds  
 saubhāgya-bhūḥ kācid akṛṣṭa-pacyā  
+of good fortune  a land  a certain  ripening without plowing  
 yasyāṁ samāropaṇa-tulya-kālaṁ  
-tat-prema-śākhī phalavān atulyaḥ
+in which  of planting  at the same  time  
+tat-prema-śākhī phalavān atulyaḥ  
+for Him  of love  the tree  bearing fruit  incomparable
 
-(264) [not yet translated]
+(264) “He is a land of good fortune, pleasing to the minds of all people, a land that ripens without plowing: in it, at the very moment it was planted, the incomparable tree of love for Him bore fruit.” (Śrī Caitanya-candrodaya-nāṭaka, 10.4)
 
 শিবানন্দ যৈছে সেই মনুষ্যে কহিলা ৷  
 কর্ণপূর সেইরূপে শ্লোক বর্ণিলা ॥ ২৬৫ ॥
 
 śivānanda yaiche sei manuṣye kahilā  
-karṇapūra sei-rūpe śloka varṇilā
+Śivānanda  as  to that  man  spoke  
+karṇapūra sei-rūpe śloka varṇilā  
+Karṇapūra  in the same way  in verses  described
 
-(265) [not yet translated]
+(265) Just as Śivānanda told that man, so Karṇapūra described him in these verses.
 
 বর্ষান্তরে শিবানন্দ চলে নীলাচলে ৷  
 রঘুনাথের সেবক, বিপ্র তাঁর সঙ্গে চলে ॥ ২৬৬ ॥
 
 varṣāntare śivānanda cale nīlācale  
-raghunāthera sevaka, vipra tāṅra saṅge cale
+the next year  Śivānanda  goes  to Nīlācala  
+raghunāthera sevaka, vipra tāṅra saṅge cale  
+Raghunātha’s  servants  the brāhmaṇa  him  with  go
 
-(266) [not yet translated]
+(266) The next year Śivānanda set out for Nīlācala, and Raghunātha’s servants and the *brāhmaṇa* went with him.
 
 সেই বিপ্র, ভৃত্য, চারি-শত মুদ্রা লঞা ৷  
 নীলাচলে রঘুনাথে মিলিলা আসিয়া ॥ ২৬৭ ॥
 
 sei vipra, bhṛtya, cāri-śata mudrā lañā  
-nīlācale raghunāthe mililā āsiyā
+that  brāhmaṇa  the servants  four  hundred  coins  taking  
+nīlācale raghunāthe mililā āsiyā  
+in Nīlācala  Raghunātha  met  having come
 
-(267) [not yet translated]
+(267) Bringing the four hundred coins, the *brāhmaṇa* and the servants came to Nīlācala and met Raghunātha.
 
 রঘুনাথ-দাস অঙ্গীকার না করিল ৷  
 দ্রব্য লঞা দুইজন তাঁহাই রহিল ॥ ২৬৮ ॥
 
 raghunātha-dāsa aṅgīkāra nā karila  
-dravya lañā dui-jana tāṅhāi rahila
+Raghunātha dāsa  acceptance  not  made  
+dravya lañā dui-jana tāṅhāi rahila  
+the money  taking  the two  persons  right there  stayed
 
-(268) [not yet translated]
+(268) Raghunātha dāsa would not accept it, so the two of them stayed there with the money.
 
 তবে রঘুনাথ করি’ অনেক যতন ৷  
 মাসে দুইদিন কৈলা প্রভুর নিমন্ত্রণ ॥ ২৬৯ ॥
 
 tabe raghunātha kari’ aneka yatana  
-māse dui-dina kailā prabhura nimantraṇa
+then  Raghunātha  making  much  effort  
+māse dui-dina kailā prabhura nimantraṇa  
+in a month  two  days  made  of the Lord  invitation
 
-(269) [not yet translated]
+(269) Then, with great effort, Raghunātha began to invite the Lord twice a month.
 
 দুই নিমন্ত্রণে লাগে কৌড়ি অষ্টপণ ৷  
 ব্রাহ্মণ-ভৃত্য-ঠাঞি করেন এতেক গ্রহণ ॥ ২৭০ ॥
 
 dui nimantraṇe lāge kauḍi aṣṭa-paṇa  
-brāhmaṇa-bhṛtya-ṭhāñi karena eteka grahaṇa
+the two  invitations  cost  cowries  eight paṇas  
+brāhmaṇa-bhṛtya-ṭhāñi karena eteka grahaṇa  
+the brāhmaṇa  servant  from  he made  so much  acceptance
 
-(270) [not yet translated]
+(270) The two invitations cost eight *paṇas* of cowries, and only that much would he accept from the *brāhmaṇa* and the servant.
 
 এইমত নিমন্ত্রণ বর্ষ দুই কৈলা ৷  
 পাছে রঘুনাথ নিমন্ত্রণ ছাড়ি’ দিলা ॥ ২৭১ ॥
 
 ei-mata nimantraṇa varṣa dui kailā  
-pāche raghunātha nimantraṇa chāḍi’ dilā
+in this way  invitations  for years  two  he made  
+pāche raghunātha nimantraṇa chāḍi’ dilā  
+afterwards  Raghunātha  the invitations  gave up
 
-(271) [not yet translated]
+(271) He kept up these invitations for two years; then Raghunātha gave them up.
 
 মাস-দুই যবে রঘুনাথ না করে নিমন্ত্রণ ৷  
 স্বরূপে পুছিলা তবে শচীর নন্দন ॥ ২৭২ ॥
 
 māsa-dui yabe raghunātha nā kare nimantraṇa  
-svarūpe puchilā tabe śacīra nandana
+months  two  when  Raghunātha  not  makes  invitation  
+svarūpe puchilā tabe śacīra nandana  
+Svarūpa  asked  then  of Śacī  the son
 
-(272) [not yet translated]
+(272) When Raghunātha had not invited Him for two months, the son of Śacī asked Svarūpa,
 
 রঘু কেনে আমায় নিমন্ত্রণ ছাড়ি’ দিল ?  
 স্বরূপ কহে, — মনে কিছু বিচার করিল ॥ ২৭৩ ॥
 
 raghu kene āmāya nimantraṇa chāḍi’ dila?  
-svarūpa kahe, — mane kichu vicāra karila
+Raghu  why  Me  the invitation  has given up  
+svarūpa kahe, — mane kichu vicāra karila  
+Svarūpa  says  in his mind  something  he has considered
 
-(273) [not yet translated]
+(273) “Why has Raghu stopped inviting Me?” Svarūpa said, “He has thought something over in his mind:
 
 বিষয়ীর দ্রব্য লঞা করি নিমন্ত্রণ ৷  
 প্রসন্ন না হয় ইহায়, জানি প্রভুর মন ॥ ২৭৪ ॥
 
 viṣayīra dravya lañā kari nimantraṇa  
-prasanna nā haya ihāya, jāni prabhura mana
+of worldly men  the money  taking  I make  invitation  
+prasanna nā haya ihāya, jāni prabhura mana  
+pleased  not  is  by this  I know  of the Lord  the mind
 
-(274) [not yet translated]
+(274) ‘I take the money of worldly men and invite the Lord; I know the Lord’s mind — He is not pleased by this.
 
 মোর চিত্ত দ্রব্য লইতে না হয় নির্ম্মল ৷  
 এই নিমন্ত্রণে দেখি, — ‘প্রতিষ্ঠা’ মাত্র ফল ॥ ২৭৫ ॥
 
 mora citta dravya laite nā haya nirmala  
-ei nimantraṇe dekhi, — ‘pratiṣṭhā’ mātra phala
+my  heart  the money  in taking  not  becomes  pure  
+ei nimantraṇe dekhi, — ‘pratiṣṭhā’ mātra phala  
+in these  invitations  I see  prestige  only  the result
 
-(275) [not yet translated]
+(275) Taking this money, my heart does not become pure; I see that the only fruit of these invitations is prestige (*pratiṣṭhā*).
 
 উপরোধে প্রভু মোর মানেন নিমন্ত্রণ ৷  
 না মানিলে দুঃখী হইবেক মূর্খ জন ॥ ২৭৬ ॥
 
 uparodhe prabhu mora mānena nimantraṇa  
-nā mānile duḥkhī haibeka mūrkha jana
+out of regard  the Lord  my  accepts  invitation  
+nā mānile duḥkhī haibeka mūrkha jana  
+not  if He accepts  unhappy  will be  the foolish  person
 
-(276) [not yet translated]
+(276) Out of regard for me the Lord accepts my invitation, for if He did not, this foolish person would be unhappy.’
 
 এত বিচারিয়া নিমন্ত্রণ ছাড়ি’ দিলা ৷  
 শুনি’ মহাপ্রভু হাসি’ বলিতে লাগিলা ॥ ২৭৭ ॥
 
 eta vicāriyā nimantraṇa chāḍi’ dilā  
-śuni’ mahāprabhu hāsi’ balite lāgilā
+so  considering  the invitations  he gave up  
+śuni’ mahāprabhu hāsi’ balite lāgilā  
+hearing  Mahāprabhu  smiling  to speak  began
 
-(277) [not yet translated]
+(277) Thinking this over, he gave up the invitations.” Hearing this, Mahāprabhu smiled and said,
 
 বিষয়ীর অন্ন খাইলে মলিন হয় মন ৷  
 মলিন মন হৈলে নহে কৃষ্ণের স্মরণ ॥ ২৭৮ ॥
 
 viṣayīra anna khāile malina haya mana  
-malina mana haile nahe kṛṣṇera smaraṇa
+of worldly men  the food  if one eats  impure  becomes  the mind  
+malina mana haile nahe kṛṣṇera smaraṇa  
+impure  the mind  if it becomes  there is not  of Kṛṣṇa  remembrance
 
-(278) [not yet translated]
+(278) “When one eats the food of worldly men, the mind becomes impure, and when the mind is impure, one cannot remember Kṛṣṇa.
 
 বিষয়ীর অন্ন হয় ‘রাজস’ নিমন্ত্রণ ৷  
 দাতা, ভোক্তা — দুঁহার মলিন হয় মন ॥ ২৭৯ ॥
 
 viṣayīra anna haya ‘rājasa’ nimantraṇa  
-dātā, bhoktā — duṅhāra malina haya mana
+of worldly men  the food  is  rājasic  invitation  
+dātā, bhoktā — duṅhāra malina haya mana  
+the giver  the eater  of both  impure  becomes  the mind
 
-(279) [not yet translated]
+(279) An invitation with the food of worldly men is *rājasic*: the minds of both the giver and the eater become impure.
 
 ইঁহার সঙ্কোচে আমি এত দিন নিল ৷  
 ভাল হৈল — জানিয়া সে আপনি ছাড়িল ॥ ২৮০ ॥
 
 iṅhāra saṅkoce āmi eta dina nila  
-bhāla haila — jāniyā se āpani chāḍila
+his  out of regard  I  so many  days  accepted  
+bhāla haila — jāniyā se āpani chāḍila  
+good  it is  understanding  he  himself  has given it up
 
-(280) [not yet translated]
+(280) Out of regard for him I accepted for so many days. It is good that he has understood this and given it up himself.”
 
 কত দিনে রঘুনাথ সিংহদ্বার ছাড়িলা ৷  
 ছত্রে যাই’ মাগিয়া খাইতে আরম্ভ করিলা ॥ ২৮১ ॥
 
 kata dine raghunātha siṁha-dvāra chāḍilā  
-chatre yāi’ māgiyā khāite ārambha karilā
+after some  days  Raghunātha  the Siṁha-dvāra  gave up  
+chatre yāi’ māgiyā khāite ārambha karilā  
+to the chatra  going  begging  to eat  beginning  he made
 
-(281) [not yet translated]
+(281) After some days Raghunātha gave up the Siṁha-dvāra and began to go to the *chatra*, beg and eat there.
 
 গোবিন্দ-পাশ শুনি’ প্রভু পুছেন স্বরূপেরে ৷  
 রঘু ভিক্ষা লাগি’ ঠাড় কেনে নহে সিংহদ্বারে ? ॥ ২৮২ ॥
 
 govinda-pāśa śuni’ prabhu puchena svarūpere  
-raghu bhikṣā lāgi’ ṭhāḍa kene nahe siṁha-dvāre?
+from Govinda  hearing  the Lord  asks  Svarūpa  
+raghu bhikṣā lāgi’ ṭhāḍa kene nahe siṁha-dvāre?  
+Raghu  alms  for  standing  why  is not  at the Siṁha-dvāra
 
-(282) [not yet translated]
+(282) Hearing of this from Govinda, the Lord asked Svarūpa, “Why does Raghu no longer stand at the Siṁha-dvāra for alms?”
 
 স্বরূপ কহে, — সিংহদ্বারে দুঃখ অনুভবিয়া ৷  
 ছত্রে মাগি’ খায় মধ্যাহ্নকালে গিয়া ॥ ২৮৩ ॥
 
 svarūpa kahe, — siṁha-dvāre duḥkha anubhaviyā  
-chatre māgi’ khāya madhyāhna-kāle giyā
+Svarūpa  says  at the Siṁha-dvāra  distress  feeling  
+chatre māgi’ khāya madhyāhna-kāle giyā  
+at the chatra  begging  eats  at midday  going
 
-(283) [not yet translated]
+(283) Svarūpa said, “He felt distress at the Siṁha-dvāra; now he goes to the *chatra* at midday, begs and eats.”
 
 প্রভু কহে, — ভাল কৈল, ছাড়িল সিংহদ্বার ৷  
 সিংহদ্বারে ভিক্ষা-বৃত্তি — বেশ্যার আচার ॥ ২৮৪ ॥
 
 prabhu kahe, — bhāla kaila, chāḍila siṁha-dvāra  
-siṁha-dvāre bhikṣā-vṛtti — veśyāra ācāra
+the Lord  says  well  he did  he gave up  the Siṁha-dvāra  
+siṁha-dvāre bhikṣā-vṛtti — veśyāra ācāra  
+at the Siṁha-dvāra  living by alms  of a prostitute  the conduct
 
-(284) [not yet translated]
+(284) The Lord said, “He has done well to give up the Siṁha-dvāra. To live by begging at the Siṁha-dvāra is the conduct of a prostitute:
 
 অয়মাগচ্ছতি, অয়ং দাস্যতি,  
 অনেন দত্তময়মপরঃ ৷  
@@ -2824,91 +2876,115 @@ siṁha-dvāre bhikṣā-vṛtti — veśyāra ācāra
 দত্তমন্যঃ সমেষ্যতি, স দাস্যতি ॥ ২৮৫ ॥
 
 ayam āgacchati, ayaṁ dāsyati,  
+this one  comes  this one  will give  
 anena dattam ayam aparaḥ  
+by this one  given  this one  another  
 samety ayaṁ dāsyati, anenāpi na  
-dattam anyaḥ sameṣyati, sa dāsyati
+approaches  this one  will give  by this one  also  not  
+dattam anyaḥ sameṣyati, sa dāsyati  
+given  another  will approach  he  will give
 
-(285) [not yet translated]
+(285) ‘Here comes one — he will give; this one gave. Here another approaches — he will give. This one too gave nothing; another will come — he will give.’
 
 ছত্রে গিয়া যথা-লাভ উদর-ভরণ ৷  
 অন্য কথা নাহি, সুখে কৃষ্ণসঙ্কীর্ত্তন ॥ ২৮৬ ॥
 
 chatre giyā yathā-lābha udara-bharaṇa  
-anya kathā nāhi, sukhe kṛṣṇa-saṅkīrtana
+to the chatra  going  whatever is obtained  of the belly  the filling  
+anya kathā nāhi, sukhe kṛṣṇa-saṅkīrtana  
+other  talk  there is not  happily  Kṛṣṇa’s  saṅkīrtana
 
-(286) [not yet translated]
+(286) But one who goes to the *chatra* fills his belly with whatever he gets; there is no other concern, and he happily chants Kṛṣṇa’s names in *saṅkīrtana*.”
 
 এত বলি’ তাঁরে পুনঃ প্রসাদ করিলা ৷  
 ‘গোবর্দ্ধনের শিলা’, ‘গুঞ্জা-মালা’ তাঁরে দিলা ॥ ২৮৭ ॥
 
 eta bali’ tāṅre punaḥ prasāda karilā  
-‘govarddhanera śilā’, ‘guñjā-mālā’ tāṅre dilā
+so  saying  to him  again  favour  He showed  
+‘govarddhanera śilā’, ‘guñjā-mālā’ tāṅre dilā  
+of Govardhana  the śilā  the guñjā garland  to him  He gave
 
-(287) [not yet translated]
+(287) Saying this, the Lord again showed him favour and gave him the *śilā* from Govardhana and the *guñjā* garland.
 
 শঙ্করানন্দ-সরস্বতী বৃন্দাবন হৈতে আইলা ৷  
 তেঁহ সেই শিলা-গুঞ্জামালা লঞা গেলা ॥ ২৮৮ ॥
 
 śaṅkarānanda-sarasvatī vṛndāvana haite āilā  
-teṅha sei śilā-guñjā-mālā lañā gelā
+Śaṅkarānanda Sarasvatī  Vṛndāvana  from  came  
+teṅha sei śilā-guñjā-mālā lañā gelā  
+he  that  śilā  guñjā garland  taking  went
 
-(288) [not yet translated]
+(288) Śaṅkarānanda Sarasvatī had come from Vṛndāvana, bringing that *śilā* and *guñjā* garland with him.
 
 পার্শ্বে গাঁথা গুঞ্জামালা, গোবর্দ্ধনশিলা ৷  
 দুইবস্তু মহাপ্রভুর আগে আনি’ দিলা ॥ ২৮৯ ॥
 
 pārśve gāṅthā guñjāmālā, govarddhanaśilā  
-dui-vastu mahāprabhura āge āni’ dilā
+at the side  strung  the guñjā garland  the Govardhana śilā  
+dui-vastu mahāprabhura āge āni’ dilā  
+the two  things  Mahāprabhu’s  before  bringing  he gave
 
-(289) [not yet translated]
+(289) The *guñjā* garland, strung at the side, and the *govardhana-śilā* — these two things he brought and presented to Mahāprabhu.
 
 দুই অপূর্ব্ব-বস্তু পাঞা প্রভু তুষ্ট হৈলা ৷  
 স্মরণের কালে গলে পরেন গুঞ্জামালা ॥ ২৯০ ॥
 
 dui apūrva-vastu pāñā prabhu tuṣṭa hailā  
-smaraṇera kāle gale parena guñjāmālā
+two  wonderful  things  receiving  the Lord  pleased  became  
+smaraṇera kāle gale parena guñjāmālā  
+of remembrance  at the time  on His neck  He wears  the guñjā garland
 
-(290) [not yet translated]
+(290) Receiving these two wonderful things, the Lord was pleased. At the time of His remembrance He would wear the *guñjā* garland around His neck.
 
 গোবর্দ্ধন-শিলা প্রভু হৃদয়ে-নেত্রে ধরে ৷  
 কভু নাসায় ঘ্রাণ লয়, কভু শিরে করে ॥ ২৯১ ॥
 
 govarddhana-śilā prabhu hṛdaye-netre dhare  
-kabhu nāsāya ghrāṇa laya, kabhu śire kare
+the Govardhana śilā  the Lord  to His heart  to His eyes  holds  
+kabhu nāsāya ghrāṇa laya, kabhu śire kare  
+sometimes  with His nose  scent  takes  sometimes  on His head  places
 
-(291) [not yet translated]
+(291) The Lord would hold the *govardhana-śilā* to His heart and to His eyes; sometimes He would smell it, and sometimes He would place it on His head.
 
 নেত্রজলে সেই শিলা ভিজে নিরন্তর ৷  
 শিলারে কহেন প্রভু — ‘কৃষ্ণকলেবর’ ॥ ২৯২ ॥
 
 netra-jale sei śilā bhije nirantara  
-śilāre kahena prabhu — ‘kṛṣṇa-kalevara’
+with the water of His eyes  that  śilā  is wet  constantly  
+śilāre kahena prabhu — ‘kṛṣṇa-kalevara’  
+to the śilā  says  the Lord  Kṛṣṇa’s  body
 
-(292) [not yet translated]
+(292) That *śilā* was always wet with the Lord’s tears, and the Lord would call the *śilā* “Kṛṣṇa’s own body.”
 
 এইমত তিনবৎসর শিলা-মালা ধরিলা ৷  
 তুষ্ট হঞা শিলা-মালা রঘুনাথে দিলা ॥ ২৯৩ ॥
 
 ei-mata tina-vatsara śilā-mālā dharilā  
-tuṣṭa hañā śilā-mālā raghunāthe dilā
+in this way  for three  years  the śilā and garland  He kept  
+tuṣṭa hañā śilā-mālā raghunāthe dilā  
+pleased  being  the śilā and garland  to Raghunātha  He gave
 
-(293) [not yet translated]
+(293) So for three years He kept the *śilā* and the garland; then, pleased, He gave them to Raghunātha.
 
 প্রভু কহে, — এই শিলা কৃষ্ণের বিগ্রহ ৷  
 ইঁহার সেবা কর তুমি করিয়া আগ্রহ ॥ ২৯৪ ॥
 
 prabhu kahe, — ei śilā kṛṣṇera vigraha  
-iṅhāra sevā kara tumi kariyā āgraha
+the Lord  says  this  śilā  Kṛṣṇa’s  Deity form  
+iṅhāra sevā kara tumi kariyā āgraha  
+His  service  do  you  with  eagerness
 
-(294) [not yet translated]
+(294) The Lord said, “This *śilā* is Kṛṣṇa’s own Deity form. Serve Him eagerly.
 
 এই শিলার কর তুমি সাত্ত্বিক পূজন ৷  
 অচিরাৎ পাবে তুমি কৃষ্ণপ্রেমধন ॥ ২৯৫ ॥
 
 ei śilāra kara tumi sāttvika pūjana  
-acirāt pābe tumi kṛṣṇa-prema-dhana
+this  śilā’s  do  you  sāttvic  worship  
+acirāt pābe tumi kṛṣṇa-prema-dhana  
+soon  you will obtain  you  of love for Kṛṣṇa  the treasure
 
-(295) [not yet translated]
+(295) Worship this *śilā* in the *sāttvic* way, and you will soon obtain the treasure of love for Kṛṣṇa.
 
 এক কুঁজা জল আর তুলসী-মঞ্জরী ৷  
 সাত্ত্বিক-সেবা এই — শুদ্ধভাবে করি ॥ ২৯৬ ॥
