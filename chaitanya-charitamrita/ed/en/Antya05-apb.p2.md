@@ -9,3 +9,7 @@
 ## 112
 
 He placed within Himself — or spread forth — a golden luster and attained His selfhood in Śrī Jagannātha, whose eyes are blossoming lotuses. Giving boundless consciousness to inert *prakṛti*, He appeared. May that Kṛṣṇa Caitanyadeva bestow welfare upon you.
+
+## 123
+
+In Īśvara there is no difference between the body and its possessor (*dehī*).
