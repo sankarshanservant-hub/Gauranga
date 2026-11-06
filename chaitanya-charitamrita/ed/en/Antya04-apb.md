@@ -19,3 +19,11 @@ When Sanātana came from Vṛndāvana, Śrī Gauracandra in His affection saved 
 ## 61
 
 In separation from Kṛṣṇa a loving devotee wishes to give up his body. But by the very power of that love he attains Kṛṣṇa and cannot give up his body; that is, Kṛṣṇa does not let him die.
+
+## 63
+
+O Lotus-eyed One! Great souls like Śiva long to bathe in the dust of Your lotus feet to destroy the darkness within themselves. If I do not obtain this grace of Yours, I shall give up my life, emaciated by vows undertaken to attain You — and after a hundred births, if need be, I shall obtain Your grace.
+
+## 64
+
+O beloved! When we saw Your smiling glances and heard Your sweet song, the fire of love's desire (*kāma*) blazed up in us. Quench it with the flood of nectar from Your lips and cool it. If You do not, O friend, then with bodies burned by the fire of separation from You we shall reach the path to Your feet by meditation.

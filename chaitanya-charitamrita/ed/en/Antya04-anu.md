@@ -205,3 +205,21 @@ See Madhya 12.31: “But one who loves has this nature: if he cannot reach the o
 ## 63
 
 > Subheading: Rukmiṇī reveals her *anurāga* to Vāsudeva —
+
+Rukmiṇī, the daughter of Bhīṣmaka, had heard from people of Śrī Kṛṣṇa's countless excellent qualities and chose Him as her husband. But she learned that her elder brother Rukmī, hostile to Kṛṣṇa, had chosen Śiśupāla, king of Cedi, as her bridegroom. Then in seclusion she wrote a letter full of love and at once sent it to Śrī Kṛṣṇa with a trustworthy *brāhmaṇa*. The *brāhmaṇa* arrived in Dvārakā, Śrī Kṛṣṇa received him with all due honor, and with Śrī Kṛṣṇa's permission the *brāhmaṇa* began to read Rukmiṇī's letter:
+
+**he ambujākṣa** (O lotus-eyed One), **ātmanaḥ** (their own) **tamaḥ** (ignorance) **apahatyai** (to destroy) **umā-patiḥ** (Śiva) **iva** **mahāntaḥ** (Brahmā and others) **yasya** (Your) **aṅghri-paṅkaja-rajaḥ-snapanam** (bathing in the dust of the lotus feet) **vāñchanti**, (that) **bhavat-prasādam** (Your favor) **yarhi** **aham** **na labheya** (if I do not obtain, then) **vrata-kṛśān** (wasted by vows — fasting and the like) **asūn** (my life) **jahyām** (I shall give up; in this way) **śata-janmabhiḥ** (even after a hundred births, Your favor) **syāt**.
+
+## 64
+
+> Subheading: The *gopīs*, eager for the *rāsa* dance, reveal their *anurāga* to Śrī Kṛṣṇa —
+
+On an autumn night bathed in moonlight, the wives of the cowherds, drawn by the sound of Śrī Kṛṣṇa's flute, came to Śrī Kṛṣṇa, forgetting themselves. Wishing to increase their *anurāga* still more, He told them to go home. Then the *gopīs*, whose lives were given to Kṛṣṇa, grew sorrowful and, their voices choked and faltering, said to Kṛṣṇa:
+
+**he aṅga** (O Kṛṣṇa), **tvad-adharāmṛta-pūrakeṇa** (with the flood of nectar from Your lips) **naḥ** (our) **hāsāvaloka-kala-gīta-ja-hṛc-chayāgnim** (the glance with a smile and the sweet song — the sweet sound of the flute; what is born of these and lies, that is, dwells, in the heart is the *hṛc-chaya*, love's desire; that itself is the fire, the thing that burns — that) **siñca** (quench); **no cet**, **he sakhe**, **vayaṁ** **viraha-jāgny-upayukta-dehāḥ** (our bodies consumed, that is, burned, by the fire born of separation; being such, like *yogīs*) **dhyānena** **te** (Your) **padayoḥ** **padavīm** (nearness) **yāma** (we shall reach).
+
+## 65
+
+> Subheading: Addressing Sanātana, the Lord teaches the *sādhaka* still beset by *anarthas* to serve Hari constantly —
+
+***Kubuddhi***: a wicked intelligence — not intelligence devoted to serving Kṛṣṇa, but an impure intelligence devoted to gratifying the perishable material senses.
