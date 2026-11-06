@@ -1,0 +1,598 @@
+# English translation, Antya 1 (revision 2026-11-06). Format — tools/build_rev.py.
+# Shift 1: 1–110 (stage A, ed/en/work/Antya01.txt, revised); shift 2: 111–223.
+
+## 0
+tr: The Festival of Association with Śrī Rūpa
+
+## 1
+w: the lame  makes cross  a mountain
+w: the mute  makes recite  the scriptures (śruti)
+w: whose  mercy  to Him  I  offer obeisance
+w: to Kṛṣṇa Caitanya  the Lord
+tr: I offer obeisance to the Lord, Śrī Kṛṣṇa Caitanya, whose mercy makes the lame cross a mountain and the mute recite the scriptures.
+
+## 2
+w: on the difficult  path  for me  blind
+w: slipping  of feet  whose gait  constantly
+w: their own  mercy’s  staff  by the gift
+w: the saints  may be  the support
+tr: I am blind, and on this difficult path my feet keep slipping. May the saints give me the staff of their mercy and be my support.
+
+## 3
+w: Śrī  Rūpa,  Sanātana,  Bhaṭṭa  Raghunātha
+w: Śrī  Jīva,  Gopāla Bhaṭṭa,  Dāsa  Raghunātha
+tr: Śrī Rūpa, Sanātana, Raghunātha Bhaṭṭa, Śrī Jīva, Gopāla Bhaṭṭa and Raghunātha Dāsa —
+fn: The same verse as Ādi 1.36; translation as there. The edition (p. 850) prints *dāsa raghunātha* without a hyphen.
+
+## 4
+w: of these  six  gurus  I make  to the feet  obeisance
+w: from whom  come  of obstacles  destruction,  of the desired  fulfilment
+tr: I bow at the feet of these six gurus, by whose grace obstacles are destroyed and all one longs for is fulfilled.
+
+## 5
+w: glory  to the merciful (Pair)  of the lame
+w: of me  of dull mind  the refuge
+w: whose lotus feet are my all
+w: Rādhā  and Madana-mohana
+tr: All glory to the merciful Śrī Śrī Rādhā and Madana-mohana! I am lame and dull of mind, and They are my only refuge; Their lotus feet are all I have.
+fn: The same verse as Ādi 1.15 and Madhya 1.3; translation as there. *Anubhāṣya* (to Ādi 1.15): *manda-mati* — “a mind absorbed in the world, feeble, unable to follow other paths such as karma or jñāna”; *suratau* — “merciful”, or “deeply attached to each other”.
+
+## 6
+w: shining  in Vṛndāvana forest  wish-fulfilling  tree  beneath
+w: in a beautiful  jewel temple  on a lion-throne  seated
+w: the beautiful  Rādhā  Śrīla  Govinda  the Deities
+w: by Their dearest friends  being served  I remember
+tr: I remember Śrīmatī Rādhā and Śrī Govindadeva, seated on a throne in a beautiful temple of jewels beneath a wish-fulfilling tree in the radiant forest of Vṛndāvana, served by Their dearest companions.
+fn: The same verse as Ādi 1.16 and Madhya 1.4, except the third line: here *śrīmad-rādhā* (“the beautiful Rādhā”, that is, Śrīmatī Rādhā), there *śrī śrī rādhā*; translation as there, with this difference. *Anubhāṣya* (to Ādi 1.16): *preṣṭhālī* — Lalitā and the other *priya-narma-sakhīs*, attended by Śrī Rūpa-mañjarī and others.
+
+## 7
+w: the beautiful  of the rāsa dance’s  sweetness  the initiator
+w: of Vaṁśīvaṭa  on the bank  standing
+w: drawing  with the flute’s  sounds  the gopīs
+w: of the gopīs  the Lord  for good  may be  ours
+tr: May the beautiful Śrī Gopīnātha, who begins the sweet rāsa dance, be our good fortune. Standing on the bank by Vaṁśīvaṭa, He draws the gopīs to Himself with the sounds of His flute.
+fn: The same verse as Ādi 1.17 and Madhya 1.5; translation as there. *Anubhāṣya* (to Ādi 1.17): the flute “loosens every desire in the gopīs other than for Kṛṣṇa and draws them from their homes with the rope of prema”; *śriye* — “for the wealth of prema”.
+
+## 8
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+fn: The same verse as Ādi 1.18; translation as there.
+
+## 9
+w: the Madhya-līlā  in brief  I have made  description
+w: of the Antya-līlā  the description  something  hear,  O devotees
+tr: I have described the Madhya-līlā in brief. Now, O devotees, hear something of the Antya-līlā.
+
+## 10
+w: of the Madhya-līlā  within  of the Antya-līlā  the sūtras  all
+w: in the earlier  part of the book  in brief  I have made  description
+tr: Within the Madhya-līlā, in the earlier part of this book, I have briefly described the sūtras (summaries) of the Antya-līlā.
+fn: *Anubhāṣya*: “in the earlier part of the book” — in the first chapter of the Madhya-līlā.
+
+## 11
+w: I  by old age  seized,  near  knowing  death
+w: of the Antya-līlā  some  sūtras  I have made  description
+tr: I am overcome by old age, and knowing that death is near, I have described some sūtras of the Antya-līlā.
+
+## 12
+w: earlier  written  of the book  the sūtras  according to
+w: whatever  not  I wrote,  that  I write  in detail
+tr: Following the sūtras written earlier in the book, I now describe in detail what I have not written before.
+
+## 13
+w: Vṛndāvana  from  the Lord  to Nīlācala  came
+w: Svarūpa  Gosāñi  to Gauḍa  news  sent
+tr: When the Lord returned from Vṛndāvana to Nīlācala, Svarūpa Gosāñi sent word of it to Gauḍa.
+
+## 14
+w: hearing  Śacī  was delighted,  all  the devotees
+w: all  gathering  to Nīlācala  made  the journey
+tr: Hearing this, Śacī and all the devotees rejoiced, and together they set out for Nīlācala.
+
+## 15
+w: of Kulīnagrāma  the devotees  and  all  of Khaṇḍa  the residents
+w: the Ācārya,  with Śivānanda  met  all  coming
+tr: The devotees of Kulīnagrāma, all the residents of Khaṇḍa and the Ācārya came and joined Śivānanda.
+fn: *Anubhāṣya*: the Ācārya is Śrī Advaita Ācārya.
+
+## 16
+w: Śivānanda  makes  for all  at the tollgates  settlement
+w: all  care  takes,  gives  lodging  place
+tr: Śivānanda settled everyone’s dues at the toll stations, looked after them all and found them places to stay.
+
+## 17
+w: one  dog  goes  with Śivānanda
+w: food  giving,  taking (it) along  he goes  showing  care
+tr: A dog was travelling with Śivānanda. He fed it and looked after it as he took it along.
+
+## 18
+w: one day  in one  place  the river  across  while crossing
+w: an Oriya  boatman  the dog  not  lets board  into the boat
+tr: One day, at a river crossing, an Oriya boatman would not let the dog into his boat.
+
+## 19
+w: the dog  remained,  Śivānanda  sad  became
+w: ten  paṇas  of cowries  giving,  the dog  across  he took
+tr: The dog was left behind, and Śivānanda grew sad. He paid ten *paṇas* of cowries and had the dog taken across.
+
+## 20
+w: one day  Śivānanda  at the tollgate  remained
+w: to the dog  rice  to give  the servant  forgot
+tr: One day Śivānanda had to stay behind at a tollgate, and his servant forgot to give the dog its rice.
+fn: The Gauḍīya Maṭha edition (p. 850) reads *śivānanda ghāṭite rahilā*, “Śivānanda stayed at the tollgate”; the earlier text had *śivānande … rākhilā*, “they detained Śivānanda”.
+
+## 21
+w: at night  coming  Śivānanda  of the meal  at the time
+w: the dog  has received  rice?  the servant  he asked
+tr: Returning at night, at mealtime Śivānanda asked his servant, “Has the dog been given its rice?”
+
+## 22
+w: the dog  not  received  rice  hearing  sad  he became
+w: the dog  to search for  ten men  he sent
+tr: Hearing that the dog had not been fed, he grew sad and sent ten men to search for it.
+
+## 23
+w: searching  not  found  the dog,  the men  all  came back
+w: sad  becoming  Śivānanda  a fast  observed
+tr: The men searched but could not find the dog, and they all came back. In his sorrow Śivānanda fasted.
+
+## 24
+w: in the morning  the dog  searching for  anywhere  not  they found
+w: of all  the Vaiṣṇavas  in the minds  wonder  arose
+tr: In the morning they searched for the dog but found it nowhere, and all the Vaiṣṇavas were astonished.
+
+## 25
+w: anxiously  traveling  all  came  to Nīlācala
+w: as before  Mahāprabhu  met  with all
+tr: Restless at heart, they all travelled on to Nīlācala, and Mahāprabhu met them all as before.
+
+## 26
+w: all  taking  He had  of Jagannātha  darśana
+w: all  taking (with Him)  Mahāprabhu  takes  His meal
+tr: He took them all for darśana of Jagannātha, and then Mahāprabhu took His meal together with them.
+
+## 27
+w: as before  all  the Lord  sent  to their lodgings
+w: to the Lord’s place  the next  day  of all  the coming
+tr: As before, the Lord sent everyone to their lodgings, and the next day they all came to Him.
+
+## 28
+w: coming  saw  all  that  very  dog
+w: near the Lord  is sitting  a little  at a short distance
+tr: When they arrived, they all saw that very dog sitting a short distance from the Lord.
+
+## 29
+w: prasāda  coconut  pulp  He gives  tossing
+w: “Rāma”  “Kṛṣṇa”  “Hari”  say  He says  smiling
+tr: The Lord was tossing it coconut pulp, His prasāda, and smiling He said, “Say ‘Rāma,’ ‘Kṛṣṇa,’ ‘Hari’!”
+
+## 30
+w: the pulp  eats  the dog,  “Kṛṣṇa”  says  again  and again
+w: seeing  of the people  in the minds  arose  wonder
+tr: The dog ate the pulp and said “Kṛṣṇa” again and again. The sight filled the people with wonder.
+fn: The second line is the same as Madhya 7.80; translated as there.
+
+## 31
+w: Śivānanda  the dog  seeing  obeisance  offered
+w: humility  showing  his own  offense  had forgiven
+tr: When Śivānanda saw the dog, he bowed down before it and humbly begged forgiveness for his offence.
+
+## 32
+w: the next  day  anyone  its  sight  not  got
+w: a perfected body  attaining  the dog  to Vaikuṇṭha  went
+tr: From the next day no one saw the dog again: it had attained a perfected body and gone to Vaikuṇṭha.
+
+## 33
+w: such  divine pastimes  performs  of Śacī  the son
+w: the dog  “Kṛṣṇa”  making say  He made  deliverance
+tr: Such are the divine pastimes of the son of Śacī: He made even a dog say “Kṛṣṇa,” and so He delivered it.
+
+## 34
+w: meanwhile  by the Lord’s order  Rūpa  came  to Vṛndāvana
+w: of Kṛṣṇa’s  pastimes  a drama  to write  there arose  the wish
+tr: Meanwhile, by the Lord’s order, Rūpa had come to Vṛndāvana, and the wish arose in him to write a drama on Kṛṣṇa’s pastimes.
+
+## 35
+w: in Vṛndāvana  of the drama  the beginning  he made
+w: the invocation  the nāndī verse  right there  he wrote
+tr: He began the drama in Vṛndāvana and wrote its invocation, the *nāndī* verse, right there.
+
+## 36
+w: on the road  traveling  he comes  of the drama  the plot  pondering
+w: a draft  making  something  he began  to write
+tr: As he travelled, he pondered the plot of the drama, and he began to set some of it down in a draft (*kaḍacā*).
+fn: *Amṛta-pravāha-bhāṣya*: *kaḍacā* — a sketch, a rough draft.
+
+## 37
+w: in this way  the two brothers  to Gauḍa  came
+w: in Gauḍa  coming  Anupama’s  attaining of the Gaṅgā  took place
+tr: In this way the two brothers came to Gauḍa, and there Anupama left this world on the bank of the Gaṅgā.
+
+## 38
+w: Rūpa Gosāñi  to the Lord  made  his way
+w: the Lord  to see  his  longing  heart
+tr: Rūpa Gosāñi set out for the Lord; his heart longed to see Him.
+
+## 39
+w: of Anupama  because  his  delay  occurred
+w: to the devotees  he came,  meeting  not  he got
+tr: Because of Anupama he was delayed, and when he came to join the devotees, he found they had already gone.
+fn: *Amṛta-pravāha-bhāṣya*: Śrī Rūpa wished to travel to Nīlācala together with Śivānanda and the other devotees, but they had set out before him.
+
+## 40
+w: in the Oriya land  Satyabhāmā-pura  by name  a village
+w: one  night  in that  village  he made  rest
+tr: In the land of Orissa there is a village called Satyabhāmā-pura. He rested there for one night.
+
+## 41
+w: at night  in a dream  he sees,  a  divinely beautiful  woman
+w: before him  coming  an order  she gave  mercy  showing
+tr: That night he saw in a dream a woman of divine beauty. She came before him and graciously gave him an order:
+
+## 42
+w: my  drama  separately  make  composition
+w: by my  mercy  the drama  will be  extraordinary
+tr: “Compose a separate drama about me. By my mercy the drama will be extraordinary.”
+
+## 43
+w: the dream  seeing  Rūpa Gosāñi  made  reflection
+w: Satyabhāmā’s  order  a separate  drama  to write
+tr: After this dream Rūpa Gosāñi reflected: “Satyabhāmā orders me to write a separate drama.
+
+## 44
+w: of Vraja  of the cities  the pastimes  together  I have made  the plot
+w: two  parts  making  now  I shall make  the composition
+tr: I have joined the pastimes of Vraja and of the cities in one plot. Now I shall divide them into two parts and compose them.”
+fn: *Anubhāṣya* (to 70): the pastimes of Vraja form the *Vidagdha-mādhava*, those of the cities (Mathurā and Dvārakā) the *Lalita-mādhava*.
+
+## 45
+w: thinking  thinking  quickly  he came  to Nīlācala
+w: coming  he stayed  at Haridāsa’s  dwelling
+tr: Absorbed in these thoughts, he soon reached Nīlācala and went to stay at Haridāsa’s dwelling.
+
+## 46
+w: Haridāsa Ṭhākura  to him  great mercy  showed
+w: you  will come  to me  the Lord  that  told
+tr: Haridāsa Ṭhākura received him with great kindness and said, “The Lord told me that you would come.”
+
+## 47
+w: the upala-bhoga  seeing  Haridāsa  to see
+w: every day  He comes;  the Lord  came  unexpectedly
+tr: Every day, after seeing the *upala-bhoga* offering, the Lord would come to see Haridāsa. Now He arrived unexpectedly.
+
+## 48
+w: Rūpa  obeisance  offers,  Haridāsa  said
+w: with Haridāsa  meeting  the Lord  Rūpa  embraced
+tr: “Rūpa is offering You obeisance,” said Haridāsa. The Lord greeted Haridāsa and then embraced Rūpa.
+
+## 49
+w: Haridāsa,  Rūpa  taking  the Lord  sat  in one place
+w: about welfare questions,  talk on Kṛṣṇa  He had  for some time
+tr: The Lord sat down together with Haridāsa and Rūpa. He asked about their welfare, and for some time they spoke together of Kṛṣṇa (*iṣṭa-goṣṭhī*).
+
+## 50
+w: of Sanātana  news  when  Gosāñi (the Lord)  asked
+w: Rūpa  says,  him  with  meeting  not  happened
+tr: When the Lord asked for news of Sanātana, Rūpa said, “I did not meet him.
+
+## 51
+w: I  by the Gaṅgā route  came,  he  by the main road
+w: therefore  my  meeting  did not happen  with him
+tr: I came by the route along the Gaṅgā, and he by the main road, so we did not meet.
+
+## 52
+w: at Prayāga  I heard,  he  went  to Vṛndāvana
+w: of Anupama  the attaining of the Gaṅgā  he made  report
+tr: At Prayāga I heard that he had gone to Vṛndāvana.” Then he told the Lord that Anupama had left this world on the bank of the Gaṅgā.
+
+## 53
+w: to Rūpa  there  lodging  giving  Gosāñi (the Lord)  went away
+w: of Gosāñi  the companions  the devotees  Rūpa  met
+tr: The Lord gave Rūpa lodging there and left. Then the devotees who accompanied the Lord came to meet Rūpa.
+fn: *Amṛta-pravāha-bhāṣya*: “there” — in Haridāsa’s dwelling, the Siddha-bakula-maṭha.
+
+## 54
+w: the next  day  Mahāprabhu  all  the devotees  taking
+w: Rūpa  introduced  to all  mercy  indeed  showing
+tr: The next day Mahāprabhu came with all the devotees and kindly introduced Rūpa to them all.
+
+## 55
+w: of all  the feet  Rūpa  made  worship
+w: mercy  showing  Rūpa  all  made  embrace
+tr: Rūpa bowed at the feet of all of them, and they all kindly embraced him.
+
+## 56
+w: Advaita,  Nityānanda,  You  both
+w: the Lord  says,  to Rūpa  mercy  show  with body and mind
+tr: The Lord said, “Advaita and Nityānanda, both of You, give Rūpa Your mercy with all Your heart.
+
+## 57
+w: of You both  by the mercy  his  may be  the power
+w: so that  to describe  he can  in relation to Kṛṣṇa  in rasa  devotion
+tr: By the mercy of You both, may he gain the power to describe devotion to Kṛṣṇa and its rasas.”
+
+## 58
+w: Gauḍīya,  Oriya,  all  of the Lord  the devotees
+w: of all  became  Rūpa  of affection  the object
+tr: All the Lord’s devotees, from Gauḍa and from Orissa, came to hold Rūpa dear.
+
+## 59
+w: every day  coming  with Rūpa  He makes  meeting
+w: in the temple  whatever  prasāda  He receives  He gives  to the two  persons
+tr: Every day the Lord came to meet Rūpa, and whatever prasāda He received in the temple He gave to the two of them.
+
+## 60
+w: talk on Kṛṣṇa  with the two  having  for some time
+w: the midday duties  to perform  the Lord  made  departure
+tr: After speaking with them of Kṛṣṇa for a while, the Lord would leave to perform His midday duties.
+
+## 61
+w: in this way  every day  of the Lord  the practice
+w: the Lord’s mercy  receiving  of Rūpa  the joy  boundless
+tr: Such was the Lord’s practice every day, and receiving the Lord’s mercy, Rūpa felt boundless joy.
+
+## 62
+w: the devotees  taking  He did  of Guṇḍicā  the cleansing
+w: to Āiṭoṭā  coming  He had  a feast in the garden
+tr: With the devotees the Lord cleansed the Guṇḍicā temple; then He came to Āiṭoṭā and held a feast in the garden there.
+
+## 63
+w: prasāda  eat,  “Hari”  say  all the devotees
+w: seeing,  of Haridāsa and Rūpa  delighted  the minds
+tr: All the devotees were eating prasāda and calling out “Hari!” Seeing this, Haridāsa and Rūpa were delighted.
+
+## 64
+w: through Govinda  of the Lord  the remnants of prasāda  they received
+w: in love  intoxicated  the two  to dance  began
+tr: Through Govinda they received the remnants of the Lord’s meal, and the two of them, intoxicated with love, began to dance.
+
+## 65
+w: another  day  the Lord  with Rūpa  meeting  sat
+w: of the omniscient the crown jewel  the Lord  to speak  began
+tr: Another day the Lord met Rūpa and sat with him. The Lord, the crown jewel of the omniscient, began to speak:
+
+## 66
+w: Kṛṣṇa  outside  not  do take  Vraja  from
+w: Vraja  leaving  Kṛṣṇa  ever  not  goes  anywhere
+tr: “Do not take Kṛṣṇa out of Vraja. Kṛṣṇa never leaves Vraja to go anywhere else.
+
+## 67
+w: Kṛṣṇa  another  in the Yadu dynasty  born
+w: who  however  the son of the king of cowherds
+w: Vṛndāvana  leaving
+w: He  anywhere  never at all  goes
+tr: ‘The Kṛṣṇa born in the Yadu dynasty is another; but He who is the son of the king of the cowherds never leaves Vṛndāvana to go anywhere.’” (Yāmala, quoted in Laghu-bhāgavatāmṛta, 1.5.461)
+fn: *Amṛta-pravāha-bhāṣya*: Kṛṣṇa born in the Yadu dynasty is Vāsudeva in truth, and so distinct from the son of the king of the cowherds; it is He who performs the pastimes in Mathurā and Dvārakā. Edition heading: “The son of Vraja’s king stays in Vraja alone (words of the *Yāmala*)”.
+
+## 68
+w: this  saying  Mahāprabhu  for the midday duties  left
+w: Rūpa Gosāñi  in the mind  some  wonder  felt
+tr: Saying this, Mahāprabhu left for His midday duties, and Rūpa Gosāñi was somewhat astonished.
+
+## 69
+w: a separate  drama  to write  Satyabhāmā  the order  gave
+w: I understand,  a separate  drama  to write  the Lord’s order  has come
+tr: “Satyabhāmā ordered me to write a separate drama, and now I understand that the Lord too has ordered me to write a separate drama.
+fn: Edition heading: both Satyabhāmā-devī and the Lord order separate dramas — she the *Lalita-mādhava*, He the *Vidagdha-mādhava*.
+
+## 70
+w: before  two  dramas  were  together  in composition
+w: in two parts  dividing  now  I shall make  the plot
+tr: Before, the two dramas were composed together. Now I shall divide them in two and arrange their plots.
+
+## 71
+w: two  nāndīs,  prologues,  two  plots
+w: separately  making  I shall write,  making  reflection
+tr: Two *nāndī* verses, two prologues (*prastāvanā*), two plots: after careful thought I shall write them separately.”
+
+## 72
+w: at the Ratha-yātrā  of Jagannātha  darśana  he had
+w: before the chariot  the Lord’s  dancing and kīrtana  he saw
+tr: At the Ratha-yātrā Rūpa had darśana of Jagannātha and saw the Lord dancing and singing kīrtana before the chariot.
+
+## 73
+w: of the Lord  the verse of the dance  hearing  Śrī  Rūpa Gosāñi
+w: that  verse’s meaning  taking  a verse  composed  right there
+tr: Hearing the verse the Lord recited as He danced, Śrī Rūpa Gosāñi took up its meaning and composed a verse on the spot.
+
+## 74
+w: before  those  all  matters  I have made  description
+w: still  I tell  something  briefly  narration
+tr: I have described all this before; still I shall tell something of it briefly.
+
+## 75
+w: an ordinary  one  verse  the Lord  recites  in kīrtana
+w: why  the verse  He recites  this  anyone  not  knows
+tr: During kīrtana the Lord would recite an ordinary verse, and no one knew why He recited it.
+fn: *Amṛta-pravāha-bhāṣya*: *kene* (“why”) — “in what mood”; the meaning of the verse was known to Svarūpa Dāmodara alone (76).
+
+## 76
+w: only  alone  Svarūpa  Gosāñi  of the verse  the meaning  knows
+w: matching the verse  songs  to the Lord  makes  relish
+tr: Svarūpa Gosāñi alone knew the meaning of the verse, and he would sing songs that matched it for the Lord to relish.
+
+## 77
+w: Rūpa Gosāñi  of the Lord  understanding  the intent
+w: in that  sense  a verse  composed  to the Lord  that  appeals
+tr: Rūpa Gosāñi understood the Lord’s intent and composed a verse with that meaning, a verse that the Lord loved.
+
+## 78
+w: who  stole my heart in my girlhood  He  the same  indeed  my beloved  those  same  nights of Caitra
+w: those same  and  fragrant with blossoming mālatī  full  breezes from the kadambas
+w: she  the same  am I  yet  there  for the pastimes of love
+w: of the Revā  on the bank  of the vetasī  tree  beneath  My heart  yearns
+tr: “He who stole My heart in My girlhood is now My lord. These are the same moonlit nights of Caitra, and the same full breezes blow from the kadamba groves, fragrant with blossoming *mālatī*. I too am the same. Yet My heart yearns for Our play of love there, beneath the *vetasī* trees on the bank of the Revā.” (Padyāvalī, 382)
+fn: The same verse as Madhya 1.58; translation as there. Reference as in the edition heading (p. 853): *Kāvya-prakāśa* 1.4, *Sāhitya-darpaṇa* 1.10, *Padyāvalī* 382; in Madhya 1.58 — 386, after the numbering of other editions. *Amṛta-pravāha-bhāṣya* (to Madhya 1.59): it was composed about a worldly hero and heroine; why Mahāprabhu recited it with such love, no one but Svarūpa Dāmodara knew.
+
+## 79
+w: beloved  that  very  Kṛṣṇa  O companion  at Kurukṣetra  met
+w: likewise  I  that  Rādhā  that  this  of both  of union  the joy
+w: yet  within  playing  sweet  of the flute  the fifth note  delighting in
+w: mind  My  of the Kālindī  bank  for the forest  longs
+tr: “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 383)
+fn: The same verse as Madhya 1.76; translation as there. Here the edition (p. 854) prints *saṅgama-sukham* correctly. Reference as in the edition heading: *Padyāvalī* 383, a verse composed by Śrī Rūpa Gosvāmī; in Madhya 1.76 — 387, after the numbering of other editions. *Anubhāṣya* (to Madhya 1.76): the flute plays “within — in the depths of the heart, or in the midst of Vṛndā’s forest”.
+
+## 80
+w: on a palm leaf  the verse  writing  in the thatched roof  he placed
+w: sea bath  to take  Rūpa Gosāñi  went
+tr: Rūpa Gosāñi wrote the verse on a palm leaf, tucked it into the thatched roof and went to bathe in the sea.
+
+## 81
+w: at that time  the Lord  came  him  to meet
+w: in the thatch  the verse  seeing  the Lord  began  to read
+tr: Just then the Lord came to see him. Noticing the verse in the thatch, the Lord began to read it.
+
+## 82
+w: the verse  reading  the Lord  in joy  absorbed in love  became
+w: at that time  Rūpa Gosāñi  bath  having taken  came
+tr: As He read the verse, the Lord was overwhelmed with joy and love. Just then Rūpa Gosāñi returned from his bath.
+
+## 83
+w: the Lord  seeing  flat like a rod  in the courtyard  he fell
+w: the Lord  him  a slap  giving  to speak  began
+tr: Seeing the Lord, Rūpa fell flat in the courtyard to offer obeisance. The Lord gave him an affectionate slap and said,
+
+## 84
+w: hidden  My  heart  you  knew  how?
+w: this  saying  Rūpa  He made  firm  embrace
+tr: “How did you know My hidden heart?” And saying this, He embraced Rūpa tightly.
+
+## 85
+w: that  verse  taking  the Lord  to Svarūpa  showed
+w: of Svarūpa  the test  for the sake of  him  He asked
+tr: The Lord took the verse and showed it to Svarūpa, and to test Svarūpa He asked him,
+
+## 86
+w: My  inner feelings  Rūpa  knew  how?
+w: Svarūpa  says,  I know,  mercy  You have shown  Yourself
+tr: “How did Rūpa know what is in My heart?” Svarūpa said, “I know: You Yourself have shown him mercy.
+
+## 87
+w: otherwise  this  meaning  anyone’s  not  becomes  knowledge
+w: You  before  mercy  showed,  I make  inference
+tr: Otherwise no one could know this meaning. I infer that You showed him mercy earlier.”
+
+## 88
+w: the Lord  says,  he  with Me  at Prayāga  met
+w: a worthy recipient  knowing (him)  My  mercy  indeed  arose
+tr: The Lord said, “He met Me at Prayāga, and knowing him to be a worthy recipient, I gave him My mercy.
+
+## 89
+w: then  power  infusing  I  gave  instruction
+w: you also  tell  him  of rasa  the particulars
+tr: Then I infused him with power and instructed him. You too should teach him the finer points of rasa.”
+
+## 90
+w: Svarūpa  says,  when  this  verse  I saw
+w: You  have shown  mercy,  at once  I knew
+tr: Svarūpa said, “As soon as I saw this verse, I knew that You had shown him mercy.
+
+## 91
+w: by the fruit  the fruit’s cause  is inferred
+tr: ‘The cause of a fruit is inferred from the fruit itself.’ (a maxim of Nyāya)
+fn: Source as in the edition heading (p. 854): *nyāya-vacana*, a maxim of logic.
+
+## 92
+w: of the heavenly Gaṅgā  golden  of the lotuses
+w: of various  lotus stalks’ tips  eating  we obtain
+w: matching the food  of the body  of beauty  the wealth
+w: the effect  from the cause  indeed  the qualities  acquires
+tr: (The swan said to Damayantī:) ‘We eat the tips of the stalks of the golden lotuses that grow in the heavenly Gaṅgā, and so our bodies have gained a beauty that matches our food: an effect takes on the qualities of its cause.’” (Naiṣadhīya, 3.17)
+fn: Edition heading (p. 854): the words of the swan to Damayantī (*Naiṣadhīya*, canto 3, verse 17); so also the *Anubhāṣya*.
+
+## 93
+w: the Cāturmāsya  staying  to Gauḍa  the Vaiṣṇavas  departed
+w: Rūpa Gosāñi  of Mahāprabhu  at the feet  remained
+tr: After staying for the Cāturmāsya, the Vaiṣṇavas returned to Gauḍa, but Rūpa Gosāñi remained at Mahāprabhu’s feet.
+
+## 94
+w: one day  Rūpa  is doing  of the drama  writing
+w: unexpectedly  Mahāprabhu’s  took place  arrival
+tr: One day, as Rūpa was writing his drama, Mahāprabhu arrived unexpectedly.
+
+## 95
+w: in reverent haste  both  rising  flat like rods  became
+w: both  embracing  the Lord  on a seat  sat
+tr: In reverent haste the two of them rose and fell flat before Him. The Lord embraced them both and sat down.
+
+## 96
+w: what  book  are you writing?  saying  one  leaf  He took
+w: the letters  seeing  the Lord  at heart  happy  became
+tr: “What book are you writing?” He asked, and He took up one leaf. Seeing the handwriting, the Lord was pleased at heart.
+
+## 97
+w: of Śrī Rūpa  the letters  like  of pearls  a row
+w: pleased  becoming  makes  the Lord  of the letters  praise
+tr: Śrī Rūpa’s letters were like rows of pearls, and the Lord, delighted, praised the handwriting.
+
+## 98
+w: on that  leaf  the Lord  one  verse  saw
+w: as soon as reading  the verse  in love  absorbed  He became
+tr: On that leaf the Lord saw a verse, and as soon as He read it, He was overwhelmed with love.
+
+## 99
+w: on the lips  dancing  attraction  it generates  many mouths  to gain
+w: of the ears  in the hollow  sprouting  it arouses  for millions of ears  longing
+w: of the mind  in the courtyard  as a companion  it conquers  of all the senses  the activity
+w: not  I know  born  with how many  nectars  “Kṛṣṇa”  of syllables the pair
+tr: (Paurṇamāsī said to Nāndīmukhī:) “I do not know with how many nectars the two syllables ‘Kṛṣ-ṇa’ were born. When they dance on the lips, they make one long for many mouths; when they sprout in the hollows of the ears, they make one yearn for millions of ears; and when they come as a companion into the courtyard of the mind, they conquer the workings of all the senses.” (Vidagdha-mādhava, 1.15)
+fn: The speakers as in the edition heading (p. 855): *Vidagdha-mādhava*, act 1, verse 15, the words of Paurṇamāsī to Nāndī(mukhī). *Anubhāṣya*: the name “conquers the workings of all the senses” — seizes them and stills all their movement.
+
+## 100
+w: the verse  hearing  Haridāsa  became  jubilant
+w: to dance  began  of the verse  the meaning  praising
+tr: Hearing the verse, Haridāsa was jubilant, and he began to dance, praising its meaning.
+
+## 101
+w: of Kṛṣṇa’s  name  the glory  from scripture and the mouths of saints  I know
+w: of the name  sweetness  such  anywhere  not  I hear
+tr: I know the glory of Kṛṣṇa’s name from the scriptures and from the lips of saints, but nowhere have I heard of such sweetness in the name.
+fn: The Gauḍīya Maṭha edition reads *mādhurī* (“sweetness”) in the second line; some texts repeat *mahimā* (“glory”).
+
+## 102
+w: then  Mahāprabhu  both  making  embrace
+w: the midday duties  to perform  to the sea  He made  His way
+tr: Then Mahāprabhu embraced them both and went to the sea to perform His midday duties.
+
+## 103–104
+w: the next  day  Mahāprabhu  seeing  Jagannātha
+w: with Sārvabhauma,  Rāmānanda,  Svarūpa  and others  together
+w: all  meeting  setting out  came  Śrī  Rūpa  to meet
+w: on the way  his  qualities  to all  He began  to tell
+tr: The next day, after seeing Jagannātha, Mahāprabhu set out together with Sārvabhauma, Rāmānanda, Svarūpa and others, and they all came to meet Śrī Rūpa. On the way the Lord began to tell them all about Rūpa’s qualities.
+
+## 105
+w: two  verses  reciting  of the Lord  there was  great joy
+w: of His own devotee  the qualities  He tells  becoming  five-mouthed
+tr: Reciting the two verses, the Lord felt great joy, and He praised the qualities of His devotee as though He had five mouths.
+
+## 106
+w: Sārvabhauma and Rāmānanda  a test  to make
+w: of Śrī  Rūpa  the qualities  to both  He began  to tell
+tr: To test Sārvabhauma and Rāmānanda, He began to describe Śrī Rūpa’s qualities to them both.
+
+## 107
+w: the nature of the Lord:  of the devotee  not  He takes  the offenses
+w: small service  great  He considers,  up to Himself  grace
+tr: It is the Lord’s nature not to hold His devotee’s offences against him. He regards a little service as great, and His grace goes so far that He gives Himself.
+fn: *Anubhāṣya*: *ātma-paryanta prasāda* — His grace goes so far that He gives His *ātmā*, Himself.
+
+## 108
+w: of the servant  He sees  grave  even  not  the offenses
+w: service  slight  even  done  manifold  He accepts
+w: He shows  toward slanderers  even  not  ill will
+w: by nature  pure in mind  Puruṣottama  this
+tr: “This Lord Puruṣottama, pure in mind by nature, does not see even the grave offences of His servant; He accepts even the slightest service as many times greater; and even toward those who slander Him He shows no ill will.” (Bhakti-rasāmṛta-sindhu, 2.1.138)
+fn: Reference as in the edition heading (p. 855): *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, Vibhāva-laharī, 138. *Anubhāṣya*: *nirmala-matiḥ* — a mind free from inborn attachment and aversion; another reading has *kamalekṣaṇaḥ* (“lotus-eyed”) for *puruṣottamaḥ*.
+
+## 109
+w: with the devotees  the Lord  came,  seeing  the two  persons
+w: flat like rods  becoming  made  to the feet  worship
+tr: When the two of them saw that the Lord had come with His devotees, they fell flat before Him and worshipped their feet.
+
+## 110
+w: with the devotees  made  the Lord  with the two  meeting
+w: on the raised platform  sat  the Lord  with  the devotees
+tr: Together with His devotees the Lord greeted the two of them, and then He sat down with the devotees on the raised platform (*piṇḍā*).
+fn: *Piṇḍā* — a raised platform or veranda; in 111 Rūpa and Haridāsa sit below it (*piṇḍā-tale*).
