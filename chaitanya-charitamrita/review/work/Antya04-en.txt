@@ -663,7 +663,7 @@ tr: The servants come and go without pause, and if I should touch them, it would
 ## 128
 w: hearing  Mahāprabhu  in mind  satisfaction  felt
 w: pleased  becoming  to him  something  to say  began
-tr: Hearing this, Mahāprabhu was satisfied at heart, and, pleased, He began to speak to him.
+tr: Hearing this, Mahāprabhu was glad at heart, and in His satisfaction He began to speak to him:
 
 ## 129–130
 w: although  you  are  the purifier of the world
@@ -675,7 +675,7 @@ tr: “Although you purify the whole world, and even the gods and sages are puri
 ## 131
 w: of propriety  in the transgression  people  make  mockery
 w: this world  the next world  both  are  destroyed
-tr: When propriety is transgressed, people mock, and both this world and the next are ruined.
+tr: People mock whoever breaks propriety, and he loses both this world and the next.
 
 ## 132
 w: propriety  when you keep  pleased  becomes  My  mind
@@ -695,7 +695,8 @@ tr: Again and again Sanātana tried to stop Him, yet the Lord kept embracing him
 ## 135
 w: in this way  servant and master  both  home  went
 w: the next  day  Jagadānanda  with Sanātana  met
-tr: In this way servant and master went to their dwellings. The next day Jagadānanda came to see Sanātana.
+tr: In this way servant and Master each went home. The next day Jagadānanda came to see Sanātana.
+fn: *Anubhāṣya*: *sevaka-prabhu* — the servant and the Master, Śrī Sanātana and Śrīman Mahāprabhu.
 
 ## 136
 w: the two  sitting  about Kṛṣṇa  a talk  made
@@ -725,7 +726,7 @@ tr: I came for my welfare, but the opposite has happened. I cannot decide what I
 ## 141
 w: the Paṇḍita  says  for you  fit to live in  is Vṛndāvana
 w: the Ratha-yātrā  having seen  there  make  your going
-tr: The Paṇḍita said, “The place fit for you to live is Vṛndāvana. After seeing the Ratha-yātrā, go there.
+tr: The Paṇḍita said, “Vṛndāvana is the place for you to live. After seeing the Ratha-yātrā, go there.
 
 ## 142
 w: of the Lord  the order  has been given  to you  two  brothers
@@ -735,7 +736,7 @@ tr: The Lord has ordered you two brothers to settle in Vṛndāvana; there you w
 ## 143
 w: for which purpose  you came  of the Lord  you have seen  the feet
 w: on the chariot  Jagannātha  having seen  make  your going
-tr: You came for the Lord’s feet, and you have seen them. Now see Jagannātha on His chariot and go.”
+tr: You came to see the Lord’s feet, and you have seen them. Now see Jagannātha on His chariot and go.”
 
 ## 144
 w: Sanātana  says  good  you have given  advice
@@ -770,7 +771,8 @@ tr: Sanātana drew back and fled, but the Lord caught him by force and embraced 
 ## 150
 w: the two  taking  the Lord  sat  on the raised platform
 w: filled with nirveda  Sanātana  began  to speak
-tr: Taking the two with Him, the Lord sat down on the raised platform (*piṇḍā*), and Sanātana, filled with *nirveda* — detachment — began to speak:
+tr: The Lord sat down with the two of them on the raised platform before the dwelling, and Sanātana, filled with detachment (*nirveda*), began to speak:
+fn: *Piṇḍā* — a raised earthen platform beside a dwelling. *Amṛta-pravāha-bhāṣya*: *nirviṇṇa* — filled with *nirveda*, that is, detachment (*virāga*).
 
 ## 151
 w: welfare  for the sake  came  I  it turned out  the opposite
@@ -780,7 +782,8 @@ tr: “I came for my welfare, but the opposite has happened. I am not fit for se
 ## 152
 w: by nature  of low birth  I  wicked  a reservoir of sin
 w: me  You  if You touch  my  offense  occurs
-tr: By nature I am of low birth, wicked, a ‘reservoir of sin.’ When You touch me, I commit an offence.
+tr: I am low-born, wicked by nature, a ‘reservoir of sin’; when You touch me, I commit an offence.
+fn: *Nīca-jāti* — “of low birth” (cf. 6, 28, 66–67).
 
 ## 153
 w: moreover  my  on the body  sore-fluid and blood  flow
