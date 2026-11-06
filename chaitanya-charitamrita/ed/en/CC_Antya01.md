@@ -230,217 +230,271 @@ to the dog  rice  to give  the servant  forgot
 ‘কুক্কুর পাঞাছে ভাত?’ — সেবকে পুছিলে ॥ ২১ ॥
 
 rātre āsi’ śivānanda bhojanera kāle  
-kukkura pāñāche bhāta? — sevake puchile
+at night  coming  Śivānanda  of the meal  at the time  
+kukkura pāñāche bhāta? — sevake puchile  
+the dog  has received  rice?  the servant  he asked
 
-(21) [not yet translated]
+(21) Returning at night, at mealtime Śivānanda asked his servant, “Has the dog been given its rice?”
 
 কুক্কুর নাহি পায় ভাত শুনি’ দুঃখী হৈলা ৷  
 কুক্কুর চাহিতে দশ-মনুষ্য পাঠাইলা ॥ ২২ ॥
 
 kukkura nāhi pāya bhāta śuni’ duḥkhī hailā  
-kukkura cāhite daśa-manuṣya pāṭhāilā
+the dog  not  received  rice  hearing  sad  he became  
+kukkura cāhite daśa-manuṣya pāṭhāilā  
+the dog  to search for  ten men  he sent
 
-(22) [not yet translated]
+(22) Hearing that the dog had not been fed, he grew sad and sent ten men to search for it.
 
 চাহিয়া না পাইল কুক্কুর, লোক সব আইলা ৷  
 দুঃখী হঞা শিবানন্দ উপবাস কৈলা ॥ ২৩ ॥
 
 cāhiyā nā pāila kukkura, loka saba āilā  
-duḥkhī hañā śivānanda upavāsa kailā
+searching  not  found  the dog,  the men  all  came back  
+duḥkhī hañā śivānanda upavāsa kailā  
+sad  becoming  Śivānanda  a fast  observed
 
-(23) [not yet translated]
+(23) The men searched but could not find the dog, and they all came back. In his sorrow Śivānanda fasted.
 
 প্রভাতে কুক্কুর চাহি’ কাঁহা না পাইল ৷  
 সকল বৈষ্ণবের মনে চমৎকার হৈল ॥ ২৪ ॥
 
 prabhāte kukkura cāhi’ kāṅhā nā pāila  
-sakala vaiṣṇavera mane camatkāra haila
+in the morning  the dog  searching for  anywhere  not  they found  
+sakala vaiṣṇavera mane camatkāra haila  
+of all  the Vaiṣṇavas  in the minds  wonder  arose
 
-(24) [not yet translated]
+(24) In the morning they searched for the dog but found it nowhere, and all the Vaiṣṇavas were astonished.
 
 উৎকণ্ঠায় চলি’ সবে আইলা নীলাচলে ৷  
 পূর্ব্ববৎ মহাপ্রভু মিলিলা সকলে ॥ ২৫ ॥
 
 utkaṇṭhāya cali’ sabe āilā nīlācale  
-pūrvavat mahāprabhu mililā sakale
+anxiously  traveling  all  came  to Nīlācala  
+pūrvavat mahāprabhu mililā sakale  
+as before  Mahāprabhu  met  with all
 
-(25) [not yet translated]
+(25) Anxious at heart, they all traveled on to Nīlācala, and Mahāprabhu met them all as before.
 
 সবা লঞা কৈলা জগন্নাথ দরশন ৷  
 সবা লঞা মহাপ্রভু করেন ভোজন ॥ ২৬ ॥
 
 sabā lañā kailā jagannātha daraśana  
-sabā lañā mahāprabhu karena bhojana
+all  taking  He had  of Jagannātha  darśana  
+sabā lañā mahāprabhu karena bhojana  
+all  taking (with Him)  Mahāprabhu  takes  His meal
 
-(26) [not yet translated]
+(26) He took them all for *darśana* of Jagannātha, and then Mahāprabhu took His meal together with them.
 
 পূর্ব্ববৎ সবারে প্রভু পাঠাইলা বাসা-স্থানে ৷  
 প্রভু-স্থানে আর দিন সবার গমনে ॥ ২৭ ॥
 
 pūrvavat sabāre prabhu pāṭhāilā vāsā-sthāne  
-prabhu-sthāne āra dina sabāra gamane
+as before  all  the Lord  sent  to their lodgings  
+prabhu-sthāne āra dina sabāra gamane  
+to the Lord’s place  the next  day  of all  the coming
 
-(27) [not yet translated]
+(27) As before, the Lord sent everyone to their lodgings, and the next day they all came to Him.
 
 আসিয়া দেখিল সবে সেই ত’ কুক্কুরে ৷  
 প্রভু-পাশে বসিয়াছে কিছু অল্পদূরে ॥ ২৮ ॥
 
 āsiyā dekhila sabe sei ta’ kukkure  
-prabhu-pāśe vasiyāche kichu alpa-dūre
+coming  saw  all  that  very  dog  
+prabhu-pāśe vasiyāche kichu alpa-dūre  
+near the Lord  is sitting  a little  at a short distance
 
-(28) [not yet translated]
+(28) When they arrived, they all saw that very dog sitting a short distance from the Lord.
 
 প্রসাদ নারিকেল-শস্য দেন ফেলাঞা ৷  
 ‘রাম’ ‘কৃষ্ণ’ ‘হরি’ কহ’ — বলেন হাসিয়া ॥ ২৯ ॥
 
 prasāda nārikela-śasya dena phelāñā  
-‘rāma’ ‘kṛṣṇa’ ‘hari’ kaha’ — balena hāsiyā
+prasāda  coconut  pulp  He gives  tossing  
+‘rāma’ ‘kṛṣṇa’ ‘hari’ kaha’ — balena hāsiyā  
+“Rāma”  “Kṛṣṇa”  “Hari”  say  He says  smiling
 
-(29) [not yet translated]
+(29) The Lord was tossing it coconut pulp, His *prasāda*, and smiling He said, “Say ‘Rāma,’ ‘Kṛṣṇa,’ ‘Hari’!”
 
 শস্য খায় কুক্কুর, ‘কৃষ্ণ’ কহে বার বার ৷  
 দেখিয়া লোকের মনে হৈল চমৎকার ॥ ৩০ ॥
 
 śasya khāya kukkura, ‘kṛṣṇa’ kahe bāra bāra  
-dekhiyā lokera mane haila camatkāra
+the pulp  eats  the dog,  “Kṛṣṇa”  says  again  and again  
+dekhiyā lokera mane haila camatkāra  
+seeing  of the people  in the minds  arose  wonder
 
-(30) [not yet translated]
+(30) The dog ate the pulp and said “Kṛṣṇa” again and again. Seeing this, the people were filled with wonder.
 
 শিবানন্দ কুক্কুর দেখি’ দণ্ডবৎ কৈলা ৷  
 দৈন্য করি’ নিজ অপরাধ ক্ষমাইলা ॥ ৩১ ॥
 
 śivānanda kukkura dekhi’ daṇḍavat kailā  
-dainya kari’ nija aparādha kṣamāilā
+Śivānanda  the dog  seeing  obeisance  offered  
+dainya kari’ nija aparādha kṣamāilā  
+humility  showing  his own  offense  had forgiven
 
-(31) [not yet translated]
+(31) When Śivānanda saw the dog, he bowed down before it and humbly begged forgiveness for his offense.
 
 আর দিন কেহ তার দেখা না পাইলা ৷  
 সিদ্ধ-দেহ পাঞা কুক্কুর বৈকুণ্ঠেতে গেলা ॥ ৩২ ॥
 
 āra dina keha tāra dekhā nā pāilā  
-siddha-deha pāñā kukkura vaikuṇṭhete gelā
+the next  day  anyone  its  sight  not  got  
+siddha-deha pāñā kukkura vaikuṇṭhete gelā  
+a perfected body  attaining  the dog  to Vaikuṇṭha  went
 
-(32) [not yet translated]
+(32) From the next day no one saw the dog again: it had attained a perfected body and gone to Vaikuṇṭha.
 
 ঐছে দিব্যলীলা করে শচীর নন্দন ৷  
 কুক্কুরকে কৃষ্ণ কহাঞা করিলা মোচন ॥ ৩৩ ॥
 
 aiche divya-līlā kare śacīra nandana  
-kukkurake kṛṣṇa kahāñā karilā mocana
+such  divine pastimes  performs  of Śacī  the son  
+kukkurake kṛṣṇa kahāñā karilā mocana  
+the dog  “Kṛṣṇa”  making say  He made  deliverance
 
-(33) [not yet translated]
+(33) Such are the divine pastimes of the son of Śacī: He made even a dog say “Kṛṣṇa,” and so He delivered it.
 
 এথা প্রভু-আজ্ঞায় রূপ আইলা বৃন্দাবন ৷  
 কৃষ্ণলীলা-নাটক করিতে হৈল মন ॥ ৩৪ ॥
 
 ethā prabhu-ājñāya rūpa āilā vṛndāvana  
-kṛṣṇa-līlā-nāṭaka karite haila mana
+meanwhile  by the Lord’s order  Rūpa  came  to Vṛndāvana  
+kṛṣṇa-līlā-nāṭaka karite haila mana  
+of Kṛṣṇa’s  pastimes  a drama  to write  there arose  the wish
 
-(34) [not yet translated]
+(34) Meanwhile, by the Lord’s order, Rūpa had come to Vṛndāvana, and the wish arose in him to write a drama on Kṛṣṇa’s pastimes.
 
 বৃন্দাবনে নাটকের আরম্ভ করিলা ৷  
 মঙ্গলাচরণ ‘নান্দী-শ্লোক’ তথাই লিখিলা ॥ ৩৫ ॥
 
 vṛndāvane nāṭakera ārambha karilā  
-maṅgalācaraṇa ‘nāndī-śloka’ tathāi likhilā
+in Vṛndāvana  of the drama  the beginning  he made  
+maṅgalācaraṇa ‘nāndī-śloka’ tathāi likhilā  
+the invocation  the nāndī verse  right there  he wrote
 
-(35) [not yet translated]
+(35) He began the drama in Vṛndāvana and wrote its invocation, the *nāndī* verse, right there.
 
 পথে চলি’ আইসে নাটকের ঘটনা ভাবিতে ৷  
 কড়চা করিয়া কিছু লাগিলা লিখিতে ॥ ৩৬ ॥
 
 pathe cali’ āise nāṭakera ghaṭanā bhāvite  
-kaḍacā kariyā kichu lāgilā likhite
+on the road  traveling  he comes  of the drama  the plot  pondering  
+kaḍacā kariyā kichu lāgilā likhite  
+a draft  making  something  he began  to write
 
-(36) [not yet translated]
+(36) As he traveled, he pondered the plot of the drama, and he began to set some of it down in a draft (*kaḍacā*).
 
 এইমতে দুইভাই গৌড়দেশে আইলা ৷  
 গৌড়ে আসি’ অনুপমের গঙ্গা-প্রাপ্তি হৈলা ॥ ৩৭ ॥
 
 ei-mate dui-bhāi gauḍa-deśe āilā  
-gauḍe āsi’ anupamera gaṅgā-prāpti hailā
+in this way  the two brothers  to Gauḍa  came  
+gauḍe āsi’ anupamera gaṅgā-prāpti hailā  
+in Gauḍa  coming  Anupama’s  attaining of the Gaṅgā  took place
 
-(37) [not yet translated]
+(37) In this way the two brothers came to Gauḍa, and there Anupama left this world on the bank of the Gaṅgā.
 
 রূপ-গোসাঞি প্রভুপাশে করিলা গমন ৷  
 প্রভুরে দেখিতে তাঁর উৎকণ্ঠিত মন ॥ ৩৮ ॥
 
 rūpa-gosāñi prabhu-pāśe karilā gamana  
-prabhure dekhite tāṅra utkaṇṭhita mana
+Rūpa Gosāñi  to the Lord  made  his way  
+prabhure dekhite tāṅra utkaṇṭhita mana  
+the Lord  to see  his  longing  heart
 
-(38) [not yet translated]
+(38) Rūpa Gosāñi set out for the Lord; his heart longed to see Him.
 
 অনুপমের লাগি’ তাঁর বিলম্ব হইল ৷  
 ভক্তগণ-পাশ আইলা, লাগ্ না পাইল ॥ ৩৯ ॥
 
 anupamera lāgi’ tāṅra vilamba ha-ila  
-bhakta-gaṇa-pāśa āilā, lāg nā pāila
+of Anupama  because  his  delay  occurred  
+bhakta-gaṇa-pāśa āilā, lāg nā pāila  
+to the devotees  he came,  meeting  not  he got
 
-(39) [not yet translated]
+(39) Because of Anupama he was delayed, and when he came to join the devotees, he could not find them.
 
 ওড়িয়া-দেশে ‘সত্যভামাপুর’-নামে গ্রাম ৷  
 এক রাত্রি সেই গ্রামে করিলা বিশ্রাম ॥ ৪০ ॥
 
 oḍiyā-deśe ‘satyabhāmā-pura’-nāme grāma  
-eka rātri sei grāme karilā viśrāma
+in the Oriya land  Satyabhāmā-pura  by name  a village  
+eka rātri sei grāme karilā viśrāma  
+one  night  in that  village  he made  rest
 
-(40) [not yet translated]
+(40) In the land of Orissa there is a village called Satyabhāmā-pura. He rested there for one night.
 
 রাত্রে স্বপ্নে দেখে, — এক দিব্যরূপা নারী ৷  
 সম্মুখে আসিয়া আজ্ঞা দিলা কৃপা করি’ ॥ ৪১ ॥
 
 rātre svapne dekhe, — eka divya-rūpā nārī  
-sammukhe āsiyā ājñā dilā kṛpā kari’
+at night  in a dream  he sees,  a  divinely beautiful  woman  
+sammukhe āsiyā ājñā dilā kṛpā kari’  
+before him  coming  an order  she gave  mercy  showing
 
-(41) [not yet translated]
+(41) That night he saw in a dream a woman of divine beauty. She came before him and graciously gave him an order:
 
 “আমার নাটক পৃথক্ করহ রচন ৷  
 আমার কৃপাতে নাটক হবে বিলক্ষণ” ॥ ৪২ ॥
 
 āmāra nāṭaka pṛthak karaha racana  
-āmāra kṛpāte nāṭaka haibe vilakṣaṇa
+my  drama  separately  make  composition  
+āmāra kṛpāte nāṭaka habe vilakṣaṇa  
+by my  mercy  the drama  will be  extraordinary
 
-(42) [not yet translated]
+(42) “Compose a separate drama about me. By my mercy the drama will be extraordinary.”
 
 স্বপ্ন দেখি’ রূপ-গোসাঞি করিলা বিচার ৷  
 সত্যভামার আজ্ঞা — পৃথক্ নাটক করিবার ॥ ৪৩ ॥
 
 svapna dekhi’ rūpa-gosāñi karilā vicāra  
-satyabhāmāra ājñā — pṛthak nāṭaka karibāra
+the dream  seeing  Rūpa Gosāñi  made  reflection  
+satyabhāmāra ājñā — pṛthak nāṭaka karibāra  
+Satyabhāmā’s  order  a separate  drama  to write
 
-(43) [not yet translated]
+(43) After this dream Rūpa Gosāñi reflected: “Satyabhāmā orders me to write a separate drama.
 
 ব্রজ-পুর-লীলা একত্র কৈরাছি ঘটনা ৷  
 দুই ভাগ করি’ এবে করিমু রচনা ॥ ৪৪ ॥
 
 vraja-pura-līlā ekatra kairāchi ghaṭanā  
-dui bhāga kari’ ebe karimu racanā
+of Vraja  of the cities  the pastimes  together  I have made  the plot  
+dui bhāga kari’ ebe karimu racanā  
+two  parts  making  now  I shall make  the composition
 
-(44) [not yet translated]
+(44) I have joined the pastimes of Vraja and of the cities in one plot. Now I shall divide them into two parts and compose them.”
 
 ভাবিতে ভাবিতে শীঘ্র আইলা নীলাচলে ৷  
 আসি’ উত্তরিলা হরিদাস-বাসাস্থলে ॥ ৪৫ ॥
 
 bhāvite bhāvite śīghra āilā nīlācale  
-āsi’ uttarilā haridāsa-vāsā-sthale
+thinking  thinking  quickly  he came  to Nīlācala  
+āsi’ uttarilā haridāsa-vāsā-sthale  
+coming  he stayed  at Haridāsa’s  dwelling
 
-(45) [not yet translated]
+(45) Absorbed in these thoughts, he soon reached Nīlācala and went to stay at Haridāsa’s dwelling.
 
 হরিদাস-ঠাকুর তাঁরে বহুকৃপা কৈলা ৷  
 ‘তুমি আসিবে, — মোরে প্রভু যে কহিলা’ ॥ ৪৬ ॥
 
 haridāsa-ṭhākura tāṅre bahu-kṛpā kailā  
-tumi āsibe, — more prabhu ye kahilā
+Haridāsa Ṭhākura  to him  great mercy  showed  
+tumi āsibe, — more prabhu ye kahilā  
+you  will come  to me  the Lord  that  told
 
-(46) [not yet translated]
+(46) Haridāsa Ṭhākura received him with great kindness and said, “The Lord told me that you would come.”
 
 ‘উপল-ভোগ’ দেখি’ হরিদাসেরে দেখিতে ৷  
 প্রতিদিন আইসেন, প্রভু আইলা আচম্বিতে ॥ ৪৭ ॥
 
 ‘upala-bhoga’ dekhi’ haridāsere dekhite  
-pratidina āisena, prabhu āilā ācambite
+the upala-bhoga  seeing  Haridāsa  to see  
+pratidina āisena, prabhu āilā ācambite  
+every day  He comes;  the Lord  came  unexpectedly
 
-(47) [not yet translated]
+(47) Every day, after seeing the *upala-bhoga* offering, the Lord would come to see Haridāsa. Now He arrived unexpectedly.
 
 ‘রূপ দণ্ডবৎ করে’, — হরিদাস কহিলা ৷  
 হরিদাসে মিলি’ প্রভু রূপে আলিঙ্গিলা ॥ ৪৮ ॥
@@ -967,25 +1021,31 @@ piṇḍāte vasilā prabhu lañā bhakta-gaṇa
 সবার অগ্রে না উঠিলা পিঁড়ার উপরে ॥ ১১১ ॥
 
 rūpa haridāsa duṅhe vasilā piṇḍā-tale  
-sabāra agre nā uṭhilā piṅḍāra upare
+Rūpa  Haridāsa  both  sat  of the platform  at the foot  
+sabāra agre nā uṭhilā piṅḍāra upare  
+of all  in front  not  climbed  the seats  onto
 
-(111) [not yet translated]
+(111) Rūpa and Haridāsa both sat at the foot of the platform; in front of everyone they would not climb up onto the seats.
 
 ‘পূর্ব্বশ্লোক পড়, রূপ, প্রভু আজ্ঞা কৈলা ৷  
 লজ্জাতে না পড়ে রূপ মৌন ধরিলা ॥ ১১২ ॥
 
 pūrva-śloka paḍa, rūpa, prabhu ājñā kailā  
-lajjāte nā paḍe rūpa mauna dharilā
+the earlier  verse  recite  Rūpa  the Lord  order  gave  
+lajjāte nā paḍe rūpa mauna dharilā  
+out of shyness  not  recites  Rūpa  silence  kept
 
-(112) [not yet translated]
+(112) The Lord ordered, “Rūpa, recite the earlier verse.” But Rūpa, overcome with shyness, would not recite it and kept silent.
 
 স্বরূপ-গোসাঞি তবে সেই শ্লোক পড়িল ৷  
 শুনি’ সবাকার চিত্তে চমৎকার হৈল ॥ ১১৩ ॥
 
 svarūpa-gosāñi tabe sei śloka paḍila  
-śuni’ sabākāra citte camatkāra haila
+Svarūpa Gosāñi  then  that  verse  recited  
+śuni’ sabākāra citte camatkāra haila  
+hearing  of everyone  in the heart  wonder  arose
 
-(113) [not yet translated]
+(113) Then Svarūpa Gosāñi recited that verse, and on hearing it everyone was filled with wonder.
 
 প্রিয়ঃ সোঽযং কৃষ্ণঃ সহচরি কুরুক্ষেত্রমিলিত-  
 স্তথাহং সা রাধা তদিদমুভয়োঃ সঙ্গমসুখম্ ৷  
@@ -993,51 +1053,65 @@ svarūpa-gosāñi tabe sei śloka paḍila
 মনো মে কালিন্দীপুলিনবিপিনায় স্পৃহয়তি ॥ ১১৪ ॥
 
 priyaḥ so ‘yaṁ kṛṣṇaḥ saha-cari kuru-kṣetra-militas  
+beloved  that  very  Kṛṣṇa  O companion  at Kurukṣetra  met  
 tathāhaṁ sā rādhā tad idam ubhayoḥ saṅgama-sukham  
+likewise  I  that  Rādhā  that  this  of both  of union  the joy  
 tathāpy antaḥ-khelan-madhura-muralī-pañcama-juṣe  
-mano me kālindī-pulina-vipināya spṛhayati
+yet  within  playing  sweet  of the flute  the fifth note  delighting in  
+mano me kālindī-pulina-vipināya spṛhayati  
+mind  My  of the Kālindī  bank  for the forest  longs
 
-(114) [not yet translated]
+(114) “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 383)
 
 রায়, ভট্টাচার্য্য বলে, — “তোমার প্রসাদ বিনে ৷  
 তোমার হৃদয় এই জানিবে কেমনে ॥ ১১৫ ॥
 
 rāya, bhaṭṭācārya bale, — tomāra prasāda vine  
-tomāra hṛdaya ei jānibe kemane
+Rāya  Bhaṭṭācārya  say  Your  grace  without  
+tomāra hṛdaya ei jānibe kemane  
+Your  heart  this  would know  how
 
-(115) [not yet translated]
+(115) Rāmānanda Rāya and Sārvabhauma Bhaṭṭācārya said, “Without Your grace, how could he know this heart of Yours?
 
 আমাতে সঞ্চারি’ পূর্ব্বে কহিলা সিদ্ধান্ত ৷  
 যে সব সিদ্ধান্তে ব্রহ্মা নাহি পায় অন্ত ॥ ১১৬ ॥
 
 āmāte sañcāri’ pūrve kahilā siddhānta  
-ye saba siddhānte brahmā nāhi pāya anta
+into me  infusing (power)  earlier  You spoke  conclusive truths  
+ye saba siddhānte brahmā nāhi pāya anta  
+which  all  in the truths  Brahmā  not  finds  the end
 
-(116) [not yet translated]
+(116) Earlier You infused Your power into me and spoke conclusive truths whose end even Brahmā cannot find.
 
 তাতে জানি — পূর্ব্বে তোমার পাঞাছে প্রসাদ ৷  
 তাহা বিনা নহে তোমার হৃদয়ানুবাদ” ॥ ১১৭ ॥
 
 tāte jāni — pūrve tomāra pāñāche prasāda  
-tāhā vinā nahe tomāra hṛdayānuvāda
+by that  we know  earlier  Your  he has received  grace  
+tāhā vinā nahe tomāra hṛdayānuvāda  
+that  without  is not  Your  heart’s  expression
 
-(117) [not yet translated]
+(117) From this we know that he received Your grace earlier: without it, no one could put Your heart into words.”
 
 প্রভু কহে, — কহ “রূপ, নাটকের শ্লোক ৷  
 যে শ্লোক শুনিলে লোকের যায় দুঃখ-শোক” ॥ ১১৮ ॥
 
 prabhu kahe, — kaha rūpa, nāṭakera śloka  
-ye śloka śunile lokera yāya duḥkha-śoka
+the Lord  says  recite  Rūpa  of your play  the verse  
+ye śloka śunile lokera yāya duḥkha-śoka  
+which  verse  on hearing  people’s  goes away  sorrow and grief
 
-(118) [not yet translated]
+(118) The Lord said, “Rūpa, recite the verse from your play that takes away people’s sorrow and grief when they hear it.”
 
 বার বার প্রভু তারে আজ্ঞা যদি দিলা ৷  
 তবে সেই শ্লোক রূপ কহিতে লাগিলা ॥ ১১৯ ॥
 
 bāra bāra prabhu tāre ājñā yadi dilā  
-tabe sei śloka rūpa kahite lāgilā
+time  after time  the Lord  to him  order  when  gave  
+tabe sei śloka rūpa kahite lāgilā  
+then  that  verse  Rūpa  to recite  began
 
-(119) [not yet translated]
+(119) When the Lord had ordered him again and again, Rūpa began to recite that verse:
 
 তুণ্ডে তাণ্ডবিনী রতিং বিতনুতে তুণ্ডাবলীলব্ধয়ে  
 কর্ণক্রোড়কড়ম্বিনী ঘটয়তে কর্ণার্ব্বুদেভ্যঃ স্পৃহাম্ ৷  
@@ -1045,67 +1119,85 @@ tabe sei śloka rūpa kahite lāgilā
 নো জানে জনিতা কিয়দ্ভিরমৃতৈঃ কৃষ্ণেতি বর্ণদ্বয়ী ॥ ১২০ ॥
 
 tuṇḍe tāṇḍavinī ratiṁ vitanute tuṇḍāvalī-labdhaye  
+in the mouth  dancing  a longing  creates  rows of mouths  to obtain  
 karṇa-kroḍa-kaḍambinī ghaṭayate karṇārbudebhyaḥ spṛhām  
+of the ears  into the hollows  crowding in  awakens  for millions of ears  desire  
 cetaḥ-prāṅgaṇa-saṅginī vijayate sarvendriyāṇāṁ kṛtiṁ  
-no jāne janitā kiyadbhir amṛtaiḥ kṛṣṇeti varṇa-dvayī
+of the heart  in the courtyard  appearing  conquers  of all the senses  the activity  
+no jāne janitā kiyadbhir amṛtaiḥ kṛṣṇeti varṇa-dvayī  
+not  I know  made  of how many  nectars  “Kṛṣṇa”  syllables  the pair
 
-(120) [not yet translated]
+(120) “When it dances in the mouth, it makes one long for many mouths; when it crowds into the hollows of the ears, it awakens a desire for millions of ears; when it appears in the courtyard of the heart, it overpowers the activity of all the senses. I do not know of how many nectars the two syllables ‘Kṛṣ-ṇa’ have been made.” (Vidagdha-mādhava, 1.15)
 
 যত ভক্তবৃন্দ আর রামানন্দ রায় ৷  
 শ্লোক শুনি’ সবার হইল আনন্দ-বিস্ময় ॥ ১২১ ॥
 
 yata bhakta-vṛnda āra rāmānanda rāya  
-śloka śuni’ sabāra haila ānanda-vismaya
+all  of the devotees  the assembly  and  Rāmānanda Rāya  
+śloka śuni’ sabāra haila ānanda-vismaya  
+the verse  hearing  of all  arose  bliss and wonder
 
-(121) [not yet translated]
+(121) All the assembled devotees and Rāmānanda Rāya were filled with bliss and wonder on hearing the verse.
 
 সবে বলে, — ‘নাম-মহিমা শুনিয়াছি অপার ৷  
 এমন মাধুর্য্য কেহ বর্ণে নাহি আর’ ॥ ১২২ ॥
 
 sabe bale, — nāma-mahimā śuniyāchi apāra  
-emana mādhurya keha varṇe nāhi āra
+all  say  of the Name  the glory  we have heard  boundless  
+emana mādhurya keha varṇe nāhi āra  
+such  sweetness  anyone  describes  not  else
 
-(122) [not yet translated]
+(122) All said, “We have heard of the boundless glory of the Name, but no one else has described such sweetness.”
 
 রায় কহে, — “কোন্ গ্রন্থ কর হেন জানি ?  
 যাহার ভিতরে এই সিদ্ধান্তের খনি ?” ॥ ১২৩ ॥
 
 rāya kahe, — kon grantha kara hena jāni?  
-yāhāra bhitare ei siddhāntera khani?
+Rāya  says  what  book  you are composing  so  I wonder  
+yāhāra bhitare ei siddhāntera khani?  
+of which  within  this  of conclusive truths  the mine
 
-(123) [not yet translated]
+(123) Rāya said, “What book are you composing, I wonder, that holds within it this mine of conclusive truths?”
 
 স্বরূপ কহে, — “কৃষ্ণলীলার নাটক করিতে ৷  
 ব্রজলীলা-পুরলীলা একত্র বর্ণিতে ॥ ১২৪ ॥
 
 svarūpa kahe, — kṛṣṇa-līlāra nāṭaka karite  
-vraja-līlā-pura-līlā ekatra varṇite
+Svarūpa  says  of Kṛṣṇa’s pastimes  a play  to compose  
+vraja-līlā-pura-līlā ekatra varṇite  
+Vraja  pastimes  city  pastimes  together  to describe
 
-(124) [not yet translated]
+(124) Svarūpa said, “To compose a play on Kṛṣṇa’s pastimes, describing together His pastimes in Vraja and in the cities,
 
 আরম্ভিয়াছিলা, এবে প্রভু-আজ্ঞা পাঞা ৷  
 দুই নাটক কৈরাছেন বিভাগ করিয়া ॥ ১২৫ ॥
 
 ārambhiyāchilā, ebe prabhu-ājñā pāñā  
-dui nāṭaka kairāchena vibhāga kariyā
+he had begun  now  the Lord’s  order  receiving  
+dui nāṭaka kairāchena vibhāga kariyā  
+two  plays  he has made  division  making
 
-(125) [not yet translated]
+(125) he had begun it; now, having received the Lord’s order, he has divided it into two plays:
 
 বিদগ্ধমাধব আর ললিতমাধব ৷  
 দুই নাটকে প্রেমরস অদ্ভুত সব” ॥ ১২৬ ॥
 
 vidagdha-mādhava āra lalita-mādhava  
-dui nāṭake prema-rasa adbhuta saba
+Vidagdha-mādhava  and  Lalita-mādhava  
+dui nāṭake prema-rasa adbhuta saba  
+in the two  plays  of love  the rasa  wondrous  all
 
-(126) [not yet translated]
+(126) *Vidagdha-mādhava* and *Lalita-mādhava*. In both plays the *rasa* of love is wondrous throughout.”
 
 রায় কহে, — “নান্দী-শ্লোক পড় দেখি, শুনি?”  
 শ্রীরূপ শ্লোক পড়ে প্রভু-আজ্ঞা মানি’ ॥ ১২৭ ॥
 
 rāya kahe, — nāndī-śloka paḍa dekhi, śuni?  
-śrī rūpa śloka paḍe prabhu-ājñā māni’
+Rāya  says  the nāndī  verse  recite  let us see  let us hear  
+śrī rūpa śloka paḍe prabhu-ājñā māni’  
+Śrī  Rūpa  the verse  recites  the Lord’s  order  accepting
 
-(127) [not yet translated]
+(127) Rāya said, “Recite the *nāndī* verse — let us hear it.” Accepting the Lord’s order, Śrī Rūpa recited the verse:
 
 সুধানাং চান্দ্রীণামপি মধুরিমোন্মাদ-দমনী  
 দধানা রাধাদিপ্রণয়ঘনসারৈঃ সুরভিতাম্ ৷  
@@ -1113,35 +1205,45 @@ rāya kahe, — nāndī-śloka paḍa dekhi, śuni?
 প্রণীতাং তে তৃষ্ণাং হরতু হরিলীলা-শিখরিণী ॥ ১২৮ ॥
 
 sudhānāṁ cāndrīṇām api madhurimonmāda-damanī  
+of nectars  lunar  even  of sweetness  the intoxication  subduing  
 dadhānā rādhādi-praṇaya-ghana-sāraiḥ surabhitām  
+bearing  of Rādhā and others  of love  with the camphor  fragrance  
 samantāt santāpodgama-viṣama-saṁsāra-saraṇī-  
-praṇītāṁ te tṛṣṇāṁ haratu hari-līlā-śikhariṇī
+on all sides  sufferings  producing  uneven  of worldly existence  by the road  
+praṇītāṁ te tṛṣṇāṁ haratu hari-līlā-śikhariṇī  
+produced  your  thirst  may it take away  of Hari’s pastimes  the śikhariṇī
 
-(128) [not yet translated]
+(128) “May the *śikhariṇī* of Hari’s pastimes take away your thirst, born on the rough road of worldly existence that breeds suffering on every side. It humbles the pride of sweetness even of the moon’s nectar, and it is perfumed with the camphor of the love of Rādhā and Her companions.” (Vidagdha-mādhava, 1.1)
 
 রায় কহে, — ‘কহ ইষ্টদেবের বর্ণন’ ৷  
 প্রভুর সঙ্কোচে রূপ না করে পঠন ॥ ১২৯ ॥
 
 rāya kahe, — kaha iṣṭa-devera varṇana  
-prabhura saṅkoce rūpa nā kare paṭhana
+Rāya  says  tell  of your worshipful Deity  the description  
+prabhura saṅkoce rūpa nā kare paṭhana  
+before the Lord  out of hesitation  Rūpa  not  does  reciting
 
-(129) [not yet translated]
+(129) Rāya said, “Recite the description of your worshipful Deity.” But Rūpa, hesitating before the Lord, would not recite it.
 
 প্রভু কহে, — “কহ-না কেনে, কি সঙ্কোচ-লাজে ?  
 গ্রন্থের ফল শুনাইবা বৈষ্ণব-সমাজে ?” ॥ ১৩০ ॥
 
 prabhu kahe, — kaha nā kene, ki saṅkoca-lāje?  
-granthera phala śunāibā vaiṣṇava-samāje?
+the Lord  says  recite  do  why  what  hesitation  shyness  
+granthera phala śunāibā vaiṣṇava-samāje?  
+of the book  the fruit  you will let hear  in the assembly of Vaiṣṇavas
 
-(130) [not yet translated]
+(130) The Lord said, “Why don’t you recite it? Why this hesitation and shyness? Let the assembly of Vaiṣṇavas hear the fruit of your book.”
 
 তবে রূপ-গোসাঞি যদি শ্লোক পড়িল ৷  
 শুনি’ প্রভু কহে, — ‘এই অতি স্তুতি হৈল’ ॥ ১৩১ ॥
 
 tabe rūpa-gosāñi yadi śloka paḍila  
-śuni’ prabhu kahe, — ei ati stuti haila
+then  Rūpa Gosāñi  when  the verse  recited  
+śuni’ prabhu kahe, — ei ati stuti haila  
+hearing  the Lord  says  this  excessive  praise  has become
 
-(131) [not yet translated]
+(131) When Rūpa Gosāñi then recited the verse, the Lord, on hearing it, said, “This is excessive praise.”
 
 অনর্পিতচরীং চিরাৎ করুণয়াবতীর্ণঃ কলৌ  
 সমর্পয়িতুমুন্নতোজ্জ্বলরসাং স্বভক্তিশ্রিয়ম্ ৷  
@@ -1149,34 +1251,44 @@ tabe rūpa-gosāñi yadi śloka paḍila
 সদা হৃদয়কন্দরে স্ফুরতু বঃ শচীনন্দনঃ ॥ ১৩২ ॥
 
 anarpita-carīṁ cirāt karuṇayāvatīrṇaḥ kalau  
+not given before  for a long time  out of mercy  descended  in Kali  
 samarpayitum unnatojjvala-rasāṁ sva-bhakti-śriyam  
+to bestow  of the most exalted radiant rasa  devotion to Himself  the treasure  
 hariḥ puraṭa-sundara-dyuti-kadamba-sandīpitaḥ  
-sadā hṛdaya-kandare sphuratu vaḥ śacī-nandanaḥ
+Hari  golden  beautiful  lustre  with a mass  illumined  
+sadā hṛdaya-kandare sphuratu vaḥ śacī-nandanaḥ  
+always  in the cave of the heart  may He shine  your  Śacī’s  son
 
-(132) [not yet translated]
+(132) “May the Lord Hari, the son of Śacī, illumined by a mass of lustre more beautiful than gold, ever shine in the inmost cave of your hearts. Out of His mercy He has descended in the age of Kali to bestow what had not been given for a very long time — the treasure of devotion to Himself, rich in the most exalted, radiant *ujjvala-rasa*.” (Vidagdha-mādhava, 1.2)
 
 সব ভক্তগণ কহে শ্লোক শুনিয়া ৷  
 কৃতার্থ করিলা সবায় শ্লোক শুনাঞা ॥ ১৩৩ ॥
 
 saba bhakta-gaṇa kahe śloka śuniyā  
-kṛtārtha karilā sabāya śloka śunāñā
+all  the devotees  say  the verse  hearing  
+kṛtārtha karilā sabāya śloka śunāñā  
+fulfilled  you have made  all  the verse  letting hear
 
-(133) [not yet translated]
+(133) On hearing the verse, all the devotees said, “By letting us hear this verse you have blessed us all.”
 
 রায় কহে, — “কোন্ আমুখে পাত্র সন্নিধান ?”  
 রূপ কহে, — “কালসাম্যে ‘প্রবর্ত্তক’ নাম” ॥ ১৩৪ ॥
 
 rāya kahe, — kon āmukhe pātra-sannidhāna?  
-rūpa kahe, — kāla-sāmye ‘pravartaka’ nāma
+Rāya  says  in which  prologue  the characters’  entrance  
+rūpa kahe, — kāla-sāmye ‘pravartaka’ nāma  
+Rūpa  says  at the fitting time  ‘pravartaka’  named
 
-(134) [not yet translated]
+(134) Rāya asked, “In which prologue (*āmukha*) do the characters enter?” Rūpa said, “In the one called *pravartaka*: they enter when the fitting time has come.”
 
 আক্ষিপ্তঃ কালসাম্যেন প্রবেশঃ স্যাৎ প্রবর্ত্তকম্ ॥ ১৩৫ ॥
 
 ākṣiptaḥ kāla-sāmyena  
-praveśaḥ syāt pravartakam
+brought on  by the fitting  of time  
+praveśaḥ syāt pravartakam  
+an entrance  is  pravartaka
 
-(135) [not yet translated]
+(135) “An entrance brought on by the arrival of the fitting time is called *pravartaka*.” (Nāṭaka-candrikā, 12)
 
 সোঽযং বসন্তসময়ঃ সমিয়ায় যস্মিন্  
 পূর্ণং তমীশ্বরমুপোঢ়-নবানুরাগম্ ৷  
@@ -1184,19 +1296,25 @@ praveśaḥ syāt pravartakam
 রঙ্গায় সঙ্গময়িতা নিশি পৌর্ণমাসী ॥ ১৩৬ ॥
 
 so ‘yaṁ vasanta-samayaḥ samiyāya yasmin  
+that  this  of spring  the season  has come  in which  
 pūrṇaṁ tam īśvaram upoḍha-navānurāgam  
+complete  that  Lord  who has gained  fresh  love  
 gūḍha-grahā rucirayā saha rādhayāsau  
-raṅgāya saṅgamayitā niśi paurṇamāsī
+with hidden intent  lovely  together with  Rādhā  she  
+raṅgāya saṅgamayitā niśi paurṇamāsī  
+for the play  will unite  at night  Paurṇamāsī
 
-(136) [not yet translated]
+(136) “The spring season has come, in which Paurṇamāsī, with a hidden purpose, will unite at night that complete Lord, filled with fresh love, with lovely Rādhā for Their play.” (Vidagdha-mādhava, 1.10)[^136-1]
 
 রায় কহে, — “প্ররোচনাদি কহ দেখি’ শুনি ?”  
 রূপ কহে, — “মহাপ্রভুর শ্রবণেচ্ছা জানি” ॥ ১৩৭ ॥
 
 rāya kahe, — prarocanādi kaha dekhi, śuni?  
-rūpa kahe, — mahāprabhura śravaṇecchā jāni
+Rāya  says  prarocanā and the rest  tell  let us see  let us hear  
+rūpa kahe, — mahāprabhura śravaṇecchā jāni  
+Rūpa  says  Mahāprabhu’s  desire to hear  I take (as such)
 
-(137) [not yet translated]
+(137) Rāya said, “Tell us the *prarocanā* and the rest — let us hear.” Rūpa said, “I take Mahāprabhu’s desire to hear as the *prarocanā*.”
 
 ভক্তানামুদগাদনর্গলধিয়াং বর্গো নিসর্গোজ্জ্বলঃ  
 শীলৈঃ পল্লবিতঃ স বল্লববধূবন্ধোঃ প্রবন্ধোঽপ্যসৌ ৷  
@@ -1204,11 +1322,15 @@ rūpa kahe, — mahāprabhura śravaṇecchā jāni
 র্মন্যে মদ্বিধপুণ্যমণ্ডলপরীপাকোঽযমুন্মীলতি ॥ ১৩৮ ॥
 
 bhaktānām udagād anargala-dhiyāṁ vargo nisargojjvalaḥ  
+of devotees  has arisen  of unobstructed intelligence  an assembly  naturally radiant  
 śīlaiḥ pallavitaḥ sa ballava-vadhū-bandhoḥ prabandho ‘py asau  
+with fine qualities  blossomed  that  of the cowherd women’s  Friend  composition  also  this  
 lebhe catvaratāṁ ca tāṇḍava-vidher vṛndāṭavī-garbha-bhūr  
-manye mad-vidha-puṇya-maṇḍala-parīpāko ‘yam unmīlati
+has gained  the state of an arena  and  for the dance  of the Vṛndāvana forest  the inner ground  
+manye mad-vidha-puṇya-maṇḍala-parīpāko ‘yam unmīlati  
+I think  of people like me  of merits  of the mass  the ripening  this  is unfolding
 
-(138) [not yet translated]
+(138) “An assembly of devotees whose intelligence knows no obstruction, radiant by nature, has gathered; this composition about the Friend of the cowherd women has blossomed with fine qualities; and the ground in the heart of the Vṛndāvana forest has become the arena for the dance. I think the mass of merit of people like me has now ripened and is unfolding.” (Vidagdha-mādhava, 1.8)
 
 অভিব্যক্তা মত্তঃ প্রকৃতিলঘুরূপাদপি বুধা  
 বিধাত্রী সিদ্ধার্থান্ হরিগুণময়ী বঃ কৃতিরিয়ম্ ৷  
@@ -1216,19 +1338,25 @@ manye mad-vidha-puṇya-maṇḍala-parīpāko ‘yam unmīlati
 হিরণ্যশ্রেণীনামপহরতি নান্তঃকলুষতাম্ ॥ ১৩৯ ॥
 
 abhivyaktā mattaḥ prakṛti-laghu-rūpād api budhā  
+brought forth  by me  by nature  insignificant  though  O wise ones  
 vidhātrī siddhārthān hari-guṇa-mayī vaḥ kṛtir iyam  
+will make  fulfilled in their aims  full of Hari’s qualities  you  composition  this  
 pulindenāpy agniḥ kim u samidham unmathya janito  
-hiraṇya-śreṇīnām apaharati nāntaḥ-kaluṣatām
+by a Pulinda  even  fire  how then  firewood  by churning  produced  
+hiraṇya-śreṇīnām apaharati nāntaḥ-kaluṣatām  
+of gold  of bars  remove  not  inner  impurity
 
-(139) [not yet translated]
+(139) “O wise ones, though this composition has been brought forth by me, insignificant by nature, it is full of Hari’s qualities and will fulfil your aims. Does not fire, kindled by rubbing wood even by a Pulinda, remove the inner impurity of bars of gold?” (Vidagdha-mādhava, 1.6)
 
 রায় কহে, — “কহ দেখি প্রেমোৎপত্তি-কারণ  
 পূর্ব্বানুরাগ, বিকার, চেষ্টা, কামলিখন ?” ॥ ১৪০ ॥
 
 rāya kahe, — kaha dekhi premotpatti-kāraṇa?  
-pūrvānurāga, vikāra, ceṣṭā, kāma-likhana?
+Rāya  says  tell  let us see  of love’s  arising  the causes  
+pūrvānurāga, vikāra, ceṣṭā, kāma-likhana?  
+first attraction  transformation  actions  love letter
 
-(140) [not yet translated]
+(140) Rāya said, “Tell us now the causes from which love arises: the first attraction (*pūrvānurāga*), its transformations (*vikāra*), its actions (*ceṣṭā*), and the love letter (*kāma-likhana*).”
 
 ক্রমে শ্রীরূপ-গোসাঞি সকলি কহিল ৷  
 শুনি’ প্রভুর ভক্তগণের চমৎকার হৈল ॥ ১৪১ ॥
