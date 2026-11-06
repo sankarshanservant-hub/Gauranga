@@ -1223,7 +1223,7 @@ then  immortality  attaining
 mayātma-bhūyāya ca kalpate vai  
 with Me  for a nature like Mine  and  becomes fit  indeed
 
-(100) “When a mortal gives up all works and offers himself to Me, I wish to exalt him. Then he attains immortality and becomes fit to share with Me a nature like My own.” (Śrīmad-Bhāgavatam, 11.23.34)
+(100) “When a mortal gives up all works and offers himself to Me, I wish to exalt him. Then he attains immortality and becomes fit to share with Me a nature like My own.” (Śrīmad-Bhāgavatam, 11.29.34)
 
 এবে সাধনভক্তি-লক্ষণ শুন, সনাতন ৷  
 যাহা হৈতে পাই কৃষ্ণপ্রেম-মহাধন ॥ ১০১ ॥
