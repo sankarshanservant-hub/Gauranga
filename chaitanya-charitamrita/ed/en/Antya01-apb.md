@@ -79,3 +79,15 @@ When an actor playing a character enters the stage prompted (called forth) by a 
 ## 136
 
 Spring has come. On the night of the full moon, at this season, Paurṇamāsī will unite the complete Lord, Śrī Kṛṣṇa, filled with fresh love (*anurāga*), with the supremely beautiful Śrī Rādhikā, to enhance the beauty of the pastimes. This verse has two meanings, one referring to the moon and one to Śrī Kṛṣṇa; of these, the meaning referring to Śrī Kṛṣṇa is the principal one.[^136-1]
+
+## 137
+
+***Prarocanā*** — the technique of awakening in the audience a desire to listen by praising the place, the time, the hero, the assembly and so on.
+
+## 138
+
+Devotees whose intelligence knows no obstruction and whose nature is radiant have gathered. This work about Śrī Kṛṣṇa, the Lord of the life of the young wives of the cowherds, has also blossomed with many virtues. And the stage itself is the arena for the dance in the *rāsa-maṇḍala* of Vṛndāvana. Therefore I think that the ripened fruit of the pious merit (*sukṛti*) of people like us has come to light.[^138-1]
+
+## 139
+
+O wise ones! Though this composition, full of descriptions of Hari's qualities, has been brought forth by me, insignificant by nature, may it fulfil your cherished desires. Cannot fire, kindled by rubbing wood even by a Pulinda (a man of the lowest birth), remove the inner impurity (the dross) of bars of gold?

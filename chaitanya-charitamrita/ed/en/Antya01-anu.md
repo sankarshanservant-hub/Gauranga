@@ -481,3 +481,25 @@ See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The 
 > Subheading: (*Nāṭaka-candrikā*, verse 12)
 
 **kāla-sāmyena** (relying on the time that has arrived) **ākṣiptaḥ** (sent, that is, relying on the time that has arrived) (**pātrasya**, of the actor) **praveśaḥ** (another reading has *pravṛttiḥ*) **pravartakam** **syāt**.
+
+## 136
+
+> Subheading: An example of this — (*Vidagdha-mādhava*, Act 1, verse 10)[^136-1]
+
+**yasmin** (in which springtime) **asau gūḍha-grahā** (she in whom, because of the abundance of moonlight, the planets with weaker rays are hidden) **paurṇamāsī** (the lunar day, the full moon) **niśi** (at night) **upoḍha-navānurāgam** (him who has gained a fresh redness that accompanies him: *upoḍhaḥ*, gained; *navaḥ*, new; *anugataḥ*, accompanying; *rāgaḥ*, redness) **pūrṇaṁ tam īśvaram** (the lord of *tamī*, the night, that is, the moon) **rucirayā** (beautiful) **rādhayā** (with the constellation Viśākhā) **saha** (together) **raṅgāya** (for beauty) **saṅgam** (union) **ayitā** (brought about), **saḥ ayaṁ vasanta-samayaḥ samiyāya** (has arrived) — this describes the special quality of the time. In the other sense: she who has *gūḍha graha*, a hidden eagerness, is Bhagavatī Paurṇamāsī. She united that celebrated, complete Lord, Śrī Kṛṣṇa, with the beautiful Rādhā *raṅgāya* — to reveal the secret of Their joyful pastimes.
+
+## 137
+
+***Prarocanā.*** The *Nāṭaka-candrikā* says: “Turning the attention of the audience toward the performance by praising the place, the time, the story, the subject, the assembly and so on is called *prarocanā*.” The *Sāhitya-darpaṇa*, in its sixth chapter, verse 286, says: “Its (the *prastāvanā*'s) parts are the *prarocanā*, the *vīthī*, as well as the *prahasana* and the *āmukha*. Turning attention by means of praise is *prarocanā*”; and further: “*Prarocanā* is making the audience eager to attend to the performance at hand by means of praise.” That is, awakening the audience's eagerness to attend by means of praise is called *prarocanā*.
+
+## 138
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verse 8)
+
+**anargala-dhiyām** (of those whose intelligence meets no obstruction — the expert) **bhaktānām** **nisargojjvalaḥ** (radiant by its very nature) **vargaḥ** (assembly) **udagāt** (has appeared — this describes the special quality of the characters); (and) **ballava-vadhū-bandhoḥ** (of Śrī Kṛṣṇa) **saḥ asau** (in the form of the *Vidagdha-mādhava*) **prabandhaḥ** **api** **śīlaiḥ** (with the ornament of *svabhāvokti*, the description of things as they are) **pallavitaḥ** (has blossomed; for in this book every description is full of the ornament of *svabhāvokti* — this describes the special quality of the subject); **vṛndāṭavī-garbha-bhūḥ** (the innermost land of Vṛndāvana, the *rāsa-pīṭha*) **tāṇḍava-vidheḥ** (for the dance) **catvaratām** (the status of a courtyard, that is, of a dancing ground) **lebhe** (has obtained) — this describes the special quality of the place; (therefore) **ayaṁ mad-vidha-puṇya-maṇḍala-parīpākaḥ** (the ripening, the culmination, of the whole sphere of piety — the *sukṛti* — of people like me) **unmīlati** (comes to light).
+
+## 139
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verse 6)
+
+**bhoḥ budhāḥ** (O you assembled), **prakṛti-laghu-rūpāt** (from one insignificant by nature — wretched. But Sarasvatī, unable to bear the author's humility, praises Rūpa Gosvāmī: “from one who swiftly [*laghu*] brings forth, that is, composes, an excellent work”) **mattaḥ** (from me) **abhivyaktā** (brought forth) **iyaṁ hari-guṇa-mayī** (that is, full of their description) **kṛtiḥ** (the poem in the form of the play *Vidagdha-mādhava*) **api vaḥ** (you) **siddhārthān** (with your cherished, longed-for desires fulfilled) **vidhātrī** (she whose nature is to make; that is, may it make. For) **pulindena** (by a man of the lowest, untouchable birth) **api samidham** (wood) **unmathya janitaḥ** (born of rubbing or friction) **agniḥ** **api** **hiraṇya-śreṇīnām** (of heaps of gold) **antaḥ-kaluṣatām** **kim u na apaharati** (does it not remove? In the same way this work will surely remove your boundless pain of separation).
