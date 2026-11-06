@@ -652,7 +652,7 @@ See Madhya 2.52.
 
 > Subheading: (*Lalita-mādhava*, Act 4, verse 27)
 
-**He sakhi**, **he varāṅgi** (O beautiful one), **puraḥ** (Him who stands before you), **jaṅghādhas-taṭa-saṅgi-dakṣiṇa-padaṁ** (Him whose right foot — the edge of the right foot — touches the lower part of the left shin), **kiñcid-vibhugna-trikaṁ** (Him whose waist [*trika*] is slightly bent), **sāci-stambhita-kandharaṁ** (Him whose neck [*kandharā*] is turned to the side and held motionless), **tiraḥ-sañcāri-netrāñcalam** (Him the corners of whose eyes are wont to glide sideways), **kuṭmalite** (closed like a bud) **adhare** (at the lips) **lolāṅgulī-saṅgatāṁ** (touched by restless, moving fingers) **vaṁśīṁ** (the flute) **dadhānam** (holding), **vibhrad-bhrū-bhramaraṁ**[^166-1] (Him whose brows are like two hovering bees), **paramānandaṁ** (Mādhava) **svī-kuru** (accept).
+**He sakhi**, **he varāṅgi** (O beautiful one), **puraḥ** (Him who stands before you), **jaṅghādhas-taṭa-saṅgi-dakṣiṇa-padaṁ** (Him whose right foot — the edge of the right foot — touches the lower part of the left shin), **kiñcid-vibhugna-trikaṁ** (Him whose waist [*trika*] is slightly bent), **sāci-stambhita-kandharaṁ** (Him whose neck [*kandharā*] is turned to the side and held motionless), **tiraḥ-sañcāri-netrāñcalam** (Him the corners of whose eyes are wont to glide sideways), **kuṭmalite** (closed like a bud) **adhare** (at the lips) **lolāṅgulī-saṅgatāṁ** (touched by restless, moving fingers) **vaṁśīṁ** (the flute) **dadhānam** (holding), **vibhrad-bhrū-bhramaraṁ** (Him whose brows are like two hovering bees), **paramānandaṁ** (Mādhava) **svī-kuru** (accept).
 
 ## 167
 
@@ -909,8 +909,6 @@ That Mahāprabhu went to Vṛndāvana again is not heard of.
 [^136-1]: The words “An example of this” (*tasyodāharaṇaṁ yathā*) are printed in the edition in the bold type of the verses, between verses 135 and 136; they are absent from the verse translation.
 
 [^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
-
-[^166-1]: So in the edition: *vibhrad-bhrū-bhramaraṁ*; the verse as given in the VCD reads *riṅgad-bhrū-bhramaraṁ*.
 
 [^170-1]: The edition's gloss has a negative (*tulanāṁ na arhati*); the verse reads *tulanām arhati* (“with what can it be compared?”). The sense is the same: there is nothing to compare it with.
 
