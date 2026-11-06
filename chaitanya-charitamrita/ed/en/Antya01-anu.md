@@ -189,3 +189,119 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 ## 65
 
 > Subheading: On another day the Lord meets Rūpa —
+
+## 66
+
+> Subheading: The Lord's merciful order is the origin of the *Vidagdha-mādhava* —
+
+## 67
+
+> Subheading: The son of the king of Vraja stays in Vraja alone (words of the *Yāmala*) —
+
+**yadu-sambhūtaḥ** (born in the Yadu dynasty) **kṛṣṇaḥ** — **anyaḥ** (is other than the son of the king of Vraja); **yaḥ tu gopendra-nandanaḥ** (the son of Nanda), **saḥ tu vṛndāvanaṁ parityajya** (leaving) **kvacit** (anywhere) **naiva gacchati**.
+
+## 68
+
+> Subheading: Śrī Rūpa reflects on the Lord's words —
+
+## 69
+
+> Subheading: Satyabhāmā-devī and the Lord both order separate plays — she the *Lalita-mādhava*, He the *Vidagdha-mādhava* —
+
+## 70
+
+> Subheading: The two plays, earlier described together, are now conceived and written separately —
+
+**The two parts** — this is the division: the *Vidagdha-mādhava* presents the pastimes in Vraja, and the *Lalita-mādhava* the pastimes in the cities.
+
+## 71
+
+> Subheading: The *nāndī*, the prologue, the subject and all the rest are worked out separately for each play —
+
+The *Sāhitya-darpaṇa*, in its sixth chapter, verse 287, says: “Where the actress (*naṭī*), the jester (*vidūṣaka*), or the assistant (*pāripārśvika*) converse with the *sūtradhāra* (the stage manager), hinting to one another with striking words about their own business at what is to come — know this as the *āmukha*; it is also called the *prastāvanā*.” That is, where the actress, the jester, or the actor standing beside him converse fittingly with the *sūtradhāra* and, with charming words about their own business, introduce the actual story — know this as the *āmukha*; it is the *prastāvanā* (the prologue with which the performance begins).
+
+## 72
+
+> Subheading: The theme-*sūtra* of the *Vidagdha-mādhava*: hearing a verse from the mouth of the Lord, absorbed in the mood of separation (*vipralambha*), Śrī Rūpa composes a verse that reveals that mood —
+
+## 74
+
+> Subheading: This was described in Madhya-līlā, Chapter 1, but now it is told again in brief —
+
+## 75
+
+> Subheading: The inner meaning of the mysterious verse the Lord recited in the mood of Śrī Rādhā is beyond everyone except Svarūpa Dāmodara —
+
+## 76
+
+> Subheading: Svarūpa pleases the Lord by singing songs that reveal the mood of that verse —
+
+## 77
+
+> Subheading: Śrī Rūpa composes a verse after the Lord's own heart —
+
+## 78
+
+> Subheading: The verse the Lord recited (*Kāvya-prakāśa* 1.4; *Sāhitya-darpaṇa* 1.10; *Padyāvalī*, number 382) —
+
+See Madhya 1.58.
+
+## 79
+
+> Subheading: (A verse composed by Śrī Rūpa Gosvāmī; *Padyāvalī*, number 383)
+
+See Madhya 1.76.
+
+## 81
+
+> Subheading: The story of Śrī Rūpa's verse and the Lord: the Lord reads the verse composed by Rūpa —
+
+## 82
+
+> Subheading: The Lord is overwhelmed by *prema* —
+
+## 83
+
+> Subheading: The Lord's unfeigned affection and mercy toward Śrī Rūpa —
+
+## 84
+
+> Subheading: The Lord embraces Śrī Rūpa tightly —
+
+## 85
+
+> Subheading: The Lord shows the verse to Śrī Svarūpa and, pretending not to know, playfully asks him how Śrī Rūpa came to know His inner feelings —
+
+## 87
+
+> Subheading: Svarūpa infers that Śrī Rūpa has received the Lord's mercy —
+
+## 88
+
+> Subheading: The Lord tells Svarūpa how He instructed Rūpa at Prayāga —
+
+## 90
+
+> Subheading: Svarūpa's inference is correct —
+
+## 91
+
+> Subheading: From the fruit one infers its cause (a maxim of *nyāya*) —
+
+## 92
+
+> Subheading: (The swan's words to Damayantī; *Naiṣadhīya*, canto 3, verse 17)
+
+**he damayanti**, **svargāpagā-hema-mṛṇālinīnāṁ** (*svargāpagāyāḥ*, of the heavenly Ganges, the Mandākinī; *hema-mṛṇālinīnāṁ*, of lotuses like gold) **nānā-mṛṇālāgra-bhujaḥ** (we, who are accustomed to eat the tips of various tender lotus roots) **annānurūpāṁ** (matching what is eaten) **tanu-rūpa-ṛddhiṁ** (a wealth of bodily beauty) **bhajāmaḥ** (have gained); **hi** (for) **kāryaṁ** (the effect) **nidānāt** (from its original cause) **guṇān adhīte** (receives its qualities).[^92-1]
+
+## 93
+
+> Subheading: At the end of the *cāturmāsya* the Gauḍīya devotees return to Gauḍa —
+
+## 94
+
+> Subheading: One day, while Śrī Rūpa was writing his play, the Lord came unexpectedly —
+
+## 95
+
+> Subheading: Śrī Rūpa and Haridāsa bow down to the Lord; the Lord sits down —

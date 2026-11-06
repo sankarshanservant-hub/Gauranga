@@ -39,3 +39,19 @@ May the saints give me the staff of their mercy and become my support, for I am 
 ## 53
 
 ***Tāṅhā*** — in Haridāsa's dwelling, that is, in the Siddha-bakula Maṭha.
+
+## 67
+
+Kṛṣṇa born in the Yadu dynasty is the *tattva* of Vāsudeva; He is therefore distinct from the son of the king of the cowherds. It is He who performs pastimes in Mathurā and Dvārakā. But the one who is the son of the king of the cowherds never leaves Vṛndāvana to go anywhere.
+
+## 75
+
+***Kene*** — in what mood.[^75-1]
+
+## 91
+
+The cause of a fruit is inferred from the fruit itself.
+
+## 92
+
+We eat the tips of the stems of the golden lotuses of the heavenly Ganges, and so we have gained a corresponding beauty of body: qualities appear in keeping with their original cause.
