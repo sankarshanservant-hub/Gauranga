@@ -227,11 +227,13 @@ fn: *Amṛta-pravāha-bhāṣya*: *prārabdha* — the deeds of past lives that 
 w: of Caitanyacandra  the mercy  has come  upon him
 w: of Caitanya Prabhu  a madman  who  to keep  can
 tr: Caitanyacandra’s mercy has come upon him. Who can hold back a madman of Caitanya Prabhu?”
+fn: Edition heading: only a servant absorbed in Caitanya is free, that is, beyond this world.
 
 ## 42
 w: then  Raghunātha  something  considered  in his mind
 w: to Nityānanda Gosāñi  he went  the next  day
 tr: Then Raghunātha thought something over, and the next day he went to Nityānanda Gosāñi.
+fn: Numbering: the edition prints no number after this verse (only “॥”).
 
 ## 43
 w: in Pāṇihāṭī  village  he received  the Lord’s  darśana
@@ -242,6 +244,7 @@ tr: In the village of Pāṇihāṭī he had darśana of the Lord, who was accom
 w: on the Gaṅgā’s bank  at the foot of a tree  a raised platform  upon
 w: was sitting  the Lord  as if  sunrise  makes
 tr: On the bank of the Gaṅgā, at the foot of a tree, the Lord sat on a raised platform (*piṇḍā*), as if the sun were rising.
+fn: *Piṇḍā* — a raised platform at the foot of the tree; edition heading: on the bank of the Gaṅgā, at the foot of a tree, the Lord sits on the platform and His associates below.
 
 ## 45
 w: below and above  by many devotees  He was  surrounded
@@ -251,7 +254,7 @@ tr: Many devotees surrounded Him, below and on the platform. Seeing the Lord’s
 ## 46
 w: like a rod  becoming  he fell  at some distance
 w: a servant  says  Raghunātha  obeisance  offers
-tr: He fell flat like a rod at some distance, and a servant said, “Raghunātha is offering obeisance.”
+tr: He prostrated himself at some distance, and a servant said, “Raghunātha is offering obeisance.”
 
 ## 47
 w: hearing  the Lord  says  thief  you have given  darśana
@@ -260,8 +263,9 @@ tr: Hearing this, the Lord said, “You thief, so you have shown yourself! Come 
 
 ## 48
 w: the Lord  calls  he  near  not  does  going
-w: drawing (him) near  on his  head  the Lord  placed  His feet
-tr: The Lord called him, but he did not come near. Then the Lord drew him close and placed His feet on his head.
+w: drawing (him) near  on his  head  placed  His feet
+tr: The Lord called him, but he did not come near. Then He drew him close and placed His feet on his head.
+fn: The Bengali text follows the edition: the second line has no *prabhu*.
 
 ## 49
 w: playful  Nityānanda  by nature  merciful
@@ -271,7 +275,8 @@ tr: Nityānanda, playful and merciful by nature, kindly said to Raghunātha:
 ## 50
 w: near  not  you come  thief  you run  far  away
 w: today  hold of you  I have got  I will punish  you
-tr: “You don’t come near, thief; you keep running far away. Today I have caught you, and I will punish you.
+tr: “You do not come near, thief; you keep running far away. Today I have caught you, and I will punish you.
+fn: Edition heading: by ordering Raghunātha to feed His associates, He “punishes” him; that is, by this pastime of the *daṇḍa-mahotsava*, the festival of punishment, He teaches that a rich worldly man bent on enjoyment is freed from the *anartha* of deceit with wealth, and eternal good dawns in him, only when he serves Nityānanda’s associates, the pure devotees. *Anubhāṣya*: *lāg* — touch, meeting face to face, finding, company.
 
 ## 51
 w: yogurt  flat rice  eating  make (them do)  My  associates
@@ -297,6 +302,7 @@ tr: Hearing the word “festival,” brāhmaṇas, gentlefolk and countless peop
 w: and  other villages  from  provisions  he brought
 w: hundreds  two or four  clay pots  he had brought
 tr: He brought more provisions from other villages and had two to four hundred clay pots (*holnā*) brought.
+fn: *Amṛta-pravāha-bhāṣya*: *holnā* — a particular kind of earthen vessel (*mālsā*).
 
 ## 56
 w: very  large  earthen tubs  he had brought  five  or seven
@@ -314,19 +320,21 @@ w: cāṁpā bananas  sugar  ghee  camphor  into it  he put
 tr: The other half he mixed with thickened milk, adding *cāṁpā* bananas, sugar, ghee and camphor.
 
 ## 59
-w: a dhotī  putting on  the Lord  when  on the platform  sat
+w: a dhoti  putting on  the Lord  when  on the platform  sat
 w: the seven tubs  the brāhmaṇa  Him  before  placed
-tr: When the Lord, wearing a *dhotī*, sat on the platform, the brāhmaṇa set the seven tubs before Him.
+tr: When the Lord, wearing a dhoti, sat on the platform, the brāhmaṇa set the seven tubs before Him.
 
 ## 60
 w: the platform  upon  all  the Lord’s  own associates
 w: great  great  people  sat  forming circles
 tr: On the platform (*cabutarā*) all the Lord’s own associates and other eminent people sat in circles.
+fn: *Anubhāṣya*: *cabutarā* — a raised floor, a terrace, a platform beside the *piṇḍā*. Edition heading: under the banyan, on the terrace, the devotees who are the Lord’s associates take their seats.
 
 ## 61
 w: Rāmadāsa  Sundarānanda  Gadādhara dāsa
 w: Murāri  Kamalākara  Sadāśiva  Purandara
 tr: Rāmadāsa, Sundarānanda, Gadādhara dāsa, Murāri, Kamalākara, Sadāśiva, Purandara,
+fn: *Anubhāṣya*: Rāmadāsa is Abhirāma Ṭhākura (in Vraja a cowherd boy); Murāri here is Murāri Caitanya dāsa, one of Nityānanda’s associates, not Murāri Gupta; for each of those named in 61–63 see the *Anubhāṣya* on Ādi 10 and 11.
 
 ## 62
 w: Dhanañjaya  Jagadīśa  Parameśvara dāsa
@@ -341,7 +349,8 @@ tr: Uddhāraṇa Datta and all His other intimate associates sat on the platform
 ## 64
 w: hearing  paṇḍitas  bhaṭṭācāryas  all  brāhmaṇas  came
 w: respect  showing  the Lord  all  above  seated
-tr: Hearing of it, all the brāhmaṇas came — paṇḍitas and *bhaṭṭācāryas* — and the Lord honoured them all and seated them on the platform.
+tr: Hearing of it, paṇḍitas, *bhaṭṭācāryas* and all the brāhmaṇas came, and the Lord honoured them all and seated them on the platform.
+fn: Edition heading: brāhmaṇas who see no caste in Vaiṣṇavas honour the mahā-prasāda.
 
 ## 65
 w: two  two  earthen pots  everyone’s  before  he placed
@@ -381,7 +390,8 @@ tr: At that time Rāghava Paṇḍita arrived. Seeing all this, he was astonishe
 ## 72
 w: ni-sakḍi  of many kinds  prasāda  he brought
 w: to the Lord  first  giving  to the devotees  distributing  gave
-tr: He brought many kinds of *ni-sakḍi prasāda* (food untouched by boiled rice). First he gave it to the Lord; then he distributed it among the devotees.
+tr: He brought many kinds of *ni-sakḍi* prasāda (food untouched by boiled rice). First he gave it to the Lord; then he distributed it among the devotees.
+fn: *Anubhāṣya*: *ni-sakḍi* — what is not *sakḍi*, that is, not defiled by the touch of boiled rice (*anna*).
 
 ## 73
 w: to the Lord  he says  You  for  food  I have offered
@@ -397,6 +407,7 @@ tr: The Lord said, “Let Me eat this food by day; at night I will eat the pras�
 w: of cowherd caste  I  many  cowherds  with
 w: I  happiness  get  in this  sport of a picnic on the sandy bank
 tr: I am a cowherd by caste, and I have many cowherd boys with Me: I am happy in this sport of a picnic on the sandy riverbank.”
+fn: Edition headings: to 74 — Nityānanda Prabhu, feeling Himself a cowherd boy, recalls the pastimes of Vraja; to 75 — the joy of a meal with His friends on the sandy bank of the Yamunā.
 
 ## 76
 w: Rāghava  seating  two  tubs  He had given (him)
@@ -437,11 +448,12 @@ tr: No one understood what He was doing as He went about; only a fortunate few s
 w: then  smiling  Nityānanda  sat  on His seat
 w: four  tubs  of āroyā-ciḍā  He kept  on the right
 tr: Then, smiling, Nityānanda sat down on His seat and kept four tubs of *āroyā-ciḍā* (flat rice made from sun-dried rice) at His right.
+fn: *Amṛta-pravāha-bhāṣya*: *āroyā-ciḍā* — flat rice made from *ātapa* rice, not parboiled before husking. Edition heading: for Mahāprabhu, two pots of *ciḍā* with milk and two of *ciḍā* with *dadhi*.
 
 ## 84
 w: a seat  giving  Mahāprabhu  there  He seated
 w: the two  brothers  then  flat rice  to eat  began
-tr: Giving Mahāprabhu a seat, He seated Him there, and then the two brothers began to eat *ciḍā*.
+tr: He gave Mahāprabhu a seat there, and then the two brothers began to eat *ciḍā*.
 
 ## 85
 w: seeing  Nityānanda Prabhu  joyful  became
@@ -472,11 +484,13 @@ tr: Who can know Nityānanda’s power and mercy? He brought Mahāprabhu and mad
 w: Śrī Rāmadāsa and the other  cowherds  absorbed in love  became
 w: on the Gaṅgā’s bank  the bank of the Yamunā  the notion  they had
 tr: Śrī Rāmadāsa and the other cowherd boys were overwhelmed with love: on the bank of the Gaṅgā they felt they were on the bank of the Yamunā.
+fn: *Anubhāṣya*: Rāmadāsa is Abhirāma Ṭhākura (see verse 61). Edition heading: Abhirāma Ṭhākura and the others, in the mood of cowherd boys, recall their meals on the sandy bank of the Yamunā.
 
 ## 91
 w: the festival  hearing  vendors  various villages  from
 w: flat rice  yogurt  sweets  bananas  brought  to sell
 tr: Hearing of the festival, vendors (*pasāri*) came from various villages, bringing *ciḍā*, *dadhi*, *sandeśa* and bananas to sell.
+fn: *Anubhāṣya*: *pasāri* — a vendor, a shopkeeper. Edition heading: the vendors come to sell, earn their money, and then eat what they sold, now become prasāda.
 
 ## 92
 w: whatever  goods  bringing  they come  all  the price  paying  he takes
@@ -522,6 +536,7 @@ tr: Delighted to receive the Lord’s remnants (*śeṣa*), Raghunātha shared t
 w: this  indeed  I have told  Nityānanda’s  pastime
 w: as ‘the festival of ciḍā and dadhi’  by name  fame  whose
 tr: Thus I have told of Nityānanda’s pastime, famous as the *ciḍā-dadhi-mahotsava*, the festival of *ciḍā* and *dadhi*.
+fn: Edition heading: this is why the festival is called the festival of *ciḍā* and *dadhi*.
 
 ## 101
 w: the Lord  rest  took  when  the day’s end  came
@@ -542,6 +557,7 @@ tr: Mahāprabhu watched His dance; only Nityānanda saw Him — no one else did.
 w: Nityānanda’s  dance  as  His  dancing
 w: comparison  to give  there is none  in these  three  worlds
 tr: Nityānanda’s dance was like Mahāprabhu’s own dancing; in these three worlds there is nothing else to compare it with.
+fn: Edition heading: Nityānanda’s incomparable dance can be compared only with Mahāprabhu’s.
 
 ## 105
 w: of the dance  the sweetness  who  to describe  can
@@ -565,8 +581,8 @@ tr: Mahāprabhu came and sat on that seat; seeing this, Rāghava’s joy grew.
 
 ## 109
 w: before the two brothers  prasāda  bringing  he placed
-w: to all  the Vaiṣṇavas  afterward  serving  he did
-tr: He brought prasāda and set it before the two brothers, and afterward he served all the Vaiṣṇavas.
+w: to all  the Vaiṣṇavas  afterwards  serving  he did
+tr: He brought prasāda and set it before the two brothers, and afterwards he served all the Vaiṣṇavas.
 
 ## 110
 w: many kinds  of cakes  sweet rice  excellent  fine rice

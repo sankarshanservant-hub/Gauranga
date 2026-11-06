@@ -418,7 +418,7 @@ of Caitanyacandra  the mercy  has come  upon him
 caitanya-prabhura ‘bātula’ ke rākhite pāre?  
 of Caitanya Prabhu  a madman  who  to keep  can
 
-(41) Caitanyacandra’s mercy has come upon him. Who can hold back a madman of Caitanya Prabhu?”
+(41) Caitanyacandra’s mercy has come upon him. Who can hold back a madman of Caitanya Prabhu?”[^16]
 
 তবে রঘুনাথ কিছু বিচারিলা মনে ৷  
 নিত্যানন্দ-গোসাঞির পাশ চলিলা আর দিনে ॥ ৪২ ॥
@@ -428,7 +428,7 @@ then  Raghunātha  something  considered  in his mind
 nityānanda-gosāñira pāśa calilā āra dine  
 to Nityānanda Gosāñi  he went  the next  day
 
-(42) Then Raghunātha thought something over, and the next day he went to Nityānanda Gosāñi.
+(42) Then Raghunātha thought something over, and the next day he went to Nityānanda Gosāñi.[^17]
 
 পানিহাটি গ্রামে পাইলা প্রভুর দরশন ৷  
 কীর্ত্তনীয়া সেবক সঙ্গে আর বহুজন ॥ ৪৩ ॥
@@ -448,7 +448,7 @@ on the Gaṅgā’s bank  at the foot of a tree  a raised platform  upon
 vasiyāchena prabhu, — yena sūryodaya kare  
 was sitting  the Lord  as if  sunrise  makes
 
-(44) On the bank of the Gaṅgā, at the foot of a tree, the Lord sat on a raised platform (*piṇḍā*), as if the sun were rising.
+(44) On the bank of the Gaṅgā, at the foot of a tree, the Lord sat on a raised platform (*piṇḍā*), as if the sun were rising.[^18]
 
 তলে-উপরে বহুভক্ত হঞাছে বেষ্টিত ৷  
 দেখি’ প্রভুর প্রভাব রঘুনাথ — বিস্মিত ॥ ৪৫ ॥
@@ -468,7 +468,7 @@ like a rod  becoming  he fell  at some distance
 sevaka kahe, — raghunātha daṇḍavat kare  
 a servant  says  Raghunātha  obeisance  offers
 
-(46) He fell flat like a rod at some distance, and a servant said, “Raghunātha is offering obeisance.”
+(46) He prostrated himself at some distance, and a servant said, “Raghunātha is offering obeisance.”
 
 শুনি’ প্রভু কহে, — চোরা দিলি দরশন ৷  
 আয়, আয়, আজি তোর করিমু দণ্ডন ॥ ৪৭ ॥
@@ -481,14 +481,14 @@ come  come  today  your  I will make  punishment
 (47) Hearing this, the Lord said, “You thief, so you have shown yourself! Come here, come here — today I will punish you!”
 
 প্রভু বোলায়, তেঁহো নিকটে না করে গমন ৷  
-আকর্ষিয়া তাঁর মাথে প্রভু ধরিলা চরণ ॥ ৪৮ ॥
+আকর্ষিয়া তাঁর মাথে ধরিলা চরণ ॥ ৪৮ ॥
 
 prabhu bolāya, tem̐ho nikaṭe nā kare gamana  
 the Lord  calls  he  near  not  does  going  
-ākarṣiyā tām̐ra māthe prabhu dharilā caraṇa  
-drawing (him) near  on his  head  the Lord  placed  His feet
+ākarṣiyā tām̐ra māthe dharilā caraṇa  
+drawing (him) near  on his  head  placed  His feet
 
-(48) The Lord called him, but he did not come near. Then the Lord drew him close and placed His feet on his head.
+(48) The Lord called him, but he did not come near. Then He drew him close and placed His feet on his head.[^19]
 
 কৌতুকী নিত্যানন্দ সহজে দয়াময় ৷  
 রঘুনাথে কহে কিছু হঞা সদয় ॥ ৪৯ ॥
@@ -508,7 +508,7 @@ near  not  you come  thief  you run  far  away
 āji lāg pāñāchi, daṇḍimu tomāre  
 today  hold of you  I have got  I will punish  you
 
-(50) “You don’t come near, thief; you keep running far away. Today I have caught you, and I will punish you.
+(50) “You do not come near, thief; you keep running far away. Today I have caught you, and I will punish you.[^20]
 
 দধি, চিড়া ভক্ষণ করাহ মোর গণে ৷  
 শুনিয়া আনন্দ হৈল রঘুনাথের মনে ॥ ৫১ ॥
@@ -558,12 +558,12 @@ and  other villages  from  provisions  he brought
 śata dui-cāri holnā ānāila  
 hundreds  two or four  clay pots  he had brought
 
-(55) He brought more provisions from other villages and had two to four hundred clay pots (*holnā*) brought.
+(55) He brought more provisions from other villages and had two to four hundred clay pots (*holnā*) brought.[^21]
 
-বড় বড় মৃৎকুণ্ডিকা আনাইল পাঁচ সাতে ৷  
+বড় বড় মৃৎকুণ্ডিকা আনাইল পাঁচ-সাতে ৷  
 এক বিপ্র প্রভু লাগি’ চিড়া ভিজায় তাতে ॥ ৫৬ ॥
 
-baḍa baḍa mṛt-kuṇḍikā ānāila pām̐ca sāte  
+baḍa baḍa mṛt-kuṇḍikā ānāila pām̐ca-sāte  
 very  large  earthen tubs  he had brought  five  or seven  
 eka vipra prabhu lāgi’ ciḍā bhijāya tāte  
 one  brāhmaṇa  the Lord  for  flat rice  soaks  in them
@@ -594,11 +594,11 @@ cāṁpā bananas  sugar  ghee  camphor  into it  he put
 সাতকুণ্ডী বিপ্র তাঁর আগেতে ধরিলা ॥ ৫৯ ॥
 
 dhuti pari’ prabhu yadi piṇḍāte vasilā  
-a dhotī  putting on  the Lord  when  on the platform  sat  
+a dhoti  putting on  the Lord  when  on the platform  sat  
 sāta-kuṇḍī vipra tām̐ra āgete dharilā  
 the seven tubs  the brāhmaṇa  Him  before  placed
 
-(59) When the Lord, wearing a *dhotī*, sat on the platform, the brāhmaṇa set the seven tubs before Him.
+(59) When the Lord, wearing a dhoti, sat on the platform, the brāhmaṇa set the seven tubs before Him.
 
 চবুতরা-উপরে যত প্রভুর নিজগণে ৷  
 বড় বড় লোক বসিলা মণ্ডলী-রচনে ॥ ৬০ ॥
@@ -608,7 +608,7 @@ the platform  upon  all  the Lord’s  own associates
 baḍa baḍa loka vasilā maṇḍalī-racane  
 great  great  people  sat  forming circles
 
-(60) On the platform (*cabutarā*) all the Lord’s own associates and other eminent people sat in circles.
+(60) On the platform (*cabutarā*) all the Lord’s own associates and other eminent people sat in circles.[^22]
 
 রামদাস, সুন্দরানন্দ, দাস-গদাধর ৷  
 মুরারি, কমলাকর, সদাশিব, পুরন্দর ॥ ৬১ ॥
@@ -618,7 +618,7 @@ Rāmadāsa  Sundarānanda  Gadādhara dāsa
 murāri, kamalākara, sadāśiva, purandara  
 Murāri  Kamalākara  Sadāśiva  Purandara
 
-(61) Rāmadāsa, Sundarānanda, Gadādhara dāsa, Murāri, Kamalākara, Sadāśiva, Purandara,
+(61) Rāmadāsa, Sundarānanda, Gadādhara dāsa, Murāri, Kamalākara, Sadāśiva, Purandara,[^23]
 
 ধনঞ্জয়, জগদীশ, পরমেশ্বর-দাস ৷  
 মহেশ, গৌরীদাস, হোড়-কৃষ্ণদাস ॥ ৬২ ॥
@@ -648,7 +648,7 @@ hearing  paṇḍitas  bhaṭṭācāryas  all  brāhmaṇas  came
 mānya kari’ prabhu sabāre upare vasāilā  
 respect  showing  the Lord  all  above  seated
 
-(64) Hearing of it, all the brāhmaṇas came — paṇḍitas and *bhaṭṭācāryas* — and the Lord honoured them all and seated them on the platform.
+(64) Hearing of it, paṇḍitas, *bhaṭṭācāryas* and all the brāhmaṇas came, and the Lord honoured them all and seated them on the platform.[^24]
 
 দুই দুই মৃৎকুণ্ডিকা সবার আগে দিল ৷  
 একে দুগ্ধ-চিড়া, আরে দধি-চিড়া কৈল ॥ ৬৫ ॥
@@ -728,7 +728,7 @@ ni-sakḍi  of many kinds  prasāda  he brought
 prabhure āge diyā bhakta-gaṇe bām̐ṭi’ dilā  
 to the Lord  first  giving  to the devotees  distributing  gave
 
-(72) He brought many kinds of *ni-sakḍi prasāda* (food untouched by boiled rice). First he gave it to the Lord; then he distributed it among the devotees.
+(72) He brought many kinds of *ni-sakḍi* prasāda (food untouched by boiled rice). First he gave it to the Lord; then he distributed it among the devotees.[^25]
 
 প্রভুরে কহে, — তোমা লাগি’ ভোগ লাগাইল ৷  
 তুমি ইঁহা উৎসব কর, ঘরে প্রসাদ রহিল ॥ ৭৩ ॥
@@ -758,7 +758,7 @@ of cowherd caste  I  many  cowherds  with
 āmi sukha pāi ei pulina-bhojana-raṅge  
 I  happiness  get  in this  sport of a picnic on the sandy bank
 
-(75) I am a cowherd by caste, and I have many cowherd boys with Me: I am happy in this sport of a picnic on the sandy riverbank.”
+(75) I am a cowherd by caste, and I have many cowherd boys with Me: I am happy in this sport of a picnic on the sandy riverbank.”[^26]
 
 রাঘবে বসাঞা দুই কুণ্ডী দেওয়াইলা ৷  
 রাঘব দ্বিবিধ চিড়া তাতে ভিজাইলা ॥ ৭৬ ॥
@@ -838,7 +838,7 @@ then  smiling  Nityānanda  sat  on His seat
 cāri kuṇḍī āroyā-ciḍā rākhilā ḍāhine  
 four  tubs  of āroyā-ciḍā  He kept  on the right
 
-(83) Then, smiling, Nityānanda sat down on His seat and kept four tubs of *āroyā-ciḍā* (flat rice made from sun-dried rice) at His right.
+(83) Then, smiling, Nityānanda sat down on His seat and kept four tubs of *āroyā-ciḍā* (flat rice made from sun-dried rice) at His right.[^27]
 
 আসন দিয়া মহাপ্রভুরে তাঁহা বসাইলা ৷  
 দুই ভাই তবে চিড়া খাইতে লাগিলা ॥ ৮৪ ॥
@@ -848,7 +848,7 @@ a seat  giving  Mahāprabhu  there  He seated
 dui bhāi tabe ciḍā khāite lāgilā  
 the two  brothers  then  flat rice  to eat  began
 
-(84) Giving Mahāprabhu a seat, He seated Him there, and then the two brothers began to eat *ciḍā*.
+(84) He gave Mahāprabhu a seat there, and then the two brothers began to eat *ciḍā*.
 
 দেখি’ নিত্যানন্দপ্রভু আনন্দিত হৈলা ৷  
 কত কত ভাবাবেশ প্রকাশ করিলা ॥ ৮৫ ॥
@@ -908,7 +908,7 @@ Mahāprabhu  bringing  makes (Him) do  the picnic on the sandy bank
 gaṅgā-tīre ‘yamunā-pulina’-jñāna kailā  
 on the Gaṅgā’s bank  the bank of the Yamunā  the notion  they had
 
-(90) Śrī Rāmadāsa and the other cowherd boys were overwhelmed with love: on the bank of the Gaṅgā they felt they were on the bank of the Yamunā.
+(90) Śrī Rāmadāsa and the other cowherd boys were overwhelmed with love: on the bank of the Gaṅgā they felt they were on the bank of the Yamunā.[^28]
 
 মহোৎসব শুনি’ পসারি নানা-গ্রাম হৈতে ৷  
 চিড়া, দধি, সন্দেশ, কলা আনিল বেচিতে ॥ ৯১ ॥
@@ -918,7 +918,7 @@ the festival  hearing  vendors  various villages  from
 ciḍā, dadhi, sandeśa, kalā ānila vecite  
 flat rice  yogurt  sweets  bananas  brought  to sell
 
-(91) Hearing of the festival, vendors (*pasāri*) came from various villages, bringing *ciḍā*, *dadhi*, *sandeśa* and bananas to sell.
+(91) Hearing of the festival, vendors (*pasāri*) came from various villages, bringing *ciḍā*, *dadhi*, *sandeśa* and bananas to sell.[^29]
 
 যত দ্রব্য লঞা আইসে, সব মূল্য করি’ লয় ৷  
 তার দ্রব্য মূল্য দিয়া তাহারে খাওয়ায় ॥ ৯২ ॥
@@ -930,10 +930,10 @@ their  goods  the price  giving  them  he feeds
 
 (92) Whatever goods they brought, he bought it all, paying the price; and having paid for their goods, he fed the vendors with them.
 
-কৌতুক দেখিতে আইল যত যত জন ৷  
+কৌতুক দেখিতে আইল, যত যত জন ৷  
 সেই চিড়া, দধি, কলা করিল ভক্ষণ ॥ ৯৩ ॥
 
-kautuka dekhite āila yata yata jana  
+kautuka dekhite āila, yata yata jana  
 the fun  to see  came  how many  how many  people  
 sei ciḍā, dadhi, kalā karila bhakṣaṇa  
 that  flat rice  yogurt  bananas  did  eat
@@ -1008,7 +1008,7 @@ this  indeed  I have told  Nityānanda’s  pastime
 ‘ciḍā-dadhi-mahotsava’-nāme khyāti yāra  
 as ‘the festival of ciḍā and dadhi’  by name  fame  whose
 
-(100) Thus I have told of Nityānanda’s pastime, famous as the *ciḍā-dadhi-mahotsava*, the festival of *ciḍā* and *dadhi*.
+(100) Thus I have told of Nityānanda’s pastime, famous as the *ciḍā-dadhi-mahotsava*, the festival of *ciḍā* and *dadhi*.[^30]
 
 প্রভু বিশ্রাম কৈলা, যদি দিন-শেষ হৈল ৷  
 রাঘব মন্দিরে তবে কীর্ত্তন আরম্ভিল ॥ ১০১ ॥
@@ -1048,7 +1048,7 @@ Nityānanda’s  dance  as  His  dancing
 upamā dibāra nāhi e tina bhuvane  
 comparison  to give  there is none  in these  three  worlds
 
-(104) Nityānanda’s dance was like Mahāprabhu’s own dancing; in these three worlds there is nothing else to compare it with.
+(104) Nityānanda’s dance was like Mahāprabhu’s own dancing; in these three worlds there is nothing else to compare it with.[^31]
 
 নৃত্যের মাধুরী কেবা বর্ণিবারে পারে ৷  
 মহাপ্রভু আইসে যেই নৃত্য দেখিবারে ॥ ১০৫ ॥
@@ -1096,9 +1096,9 @@ seeing  Rāghava’s  in the mind  joy  increased
 dui-bhāi-āge prasāda āniyā dharilā  
 before the two brothers  prasāda  bringing  he placed  
 sakala vaiṣṇave piche pariveśana kailā  
-to all  the Vaiṣṇavas  afterward  serving  he did
+to all  the Vaiṣṇavas  afterwards  serving  he did
 
-(109) He brought prasāda and set it before the two brothers, and afterward he served all the Vaiṣṇavas.
+(109) He brought prasāda and set it before the two brothers, and afterwards he served all the Vaiṣṇavas.
 
 নানাপ্রকার পিঠা, পায়স, দিব্য শাল্য-অন্ন ৷  
 অমৃত নিন্দয়ে ঐছে বিবিধ ব্যঞ্জন ॥ ১১০ ॥
@@ -1141,3 +1141,35 @@ nectar  put to shame  such  various  vegetable dishes
 [^14]: Edition heading: he runs away again and again, is caught, and is kept under guard.
 
 [^15]: *Amṛta-pravāha-bhāṣya*: *prārabdha* — the deeds of past lives that have begun to bear fruit. Edition heading: the father who begets the body is not the eternal Lord, not Īśvara: he cannot destroy the *jīva*’s *prārabdha-karma*.
+
+[^16]: Edition heading: only a servant absorbed in Caitanya is free, that is, beyond this world.
+
+[^17]: Numbering: the edition prints no number after this verse (only “॥”).
+
+[^18]: *Piṇḍā* — a raised platform at the foot of the tree; edition heading: on the bank of the Gaṅgā, at the foot of a tree, the Lord sits on the platform and His associates below.
+
+[^19]: The Bengali text follows the edition: the second line has no *prabhu*.
+
+[^20]: Edition heading: by ordering Raghunātha to feed His associates, He “punishes” him; that is, by this pastime of the *daṇḍa-mahotsava*, the festival of punishment, He teaches that a rich worldly man bent on enjoyment is freed from the *anartha* of deceit with wealth, and eternal good dawns in him, only when he serves Nityānanda’s associates, the pure devotees. *Anubhāṣya*: *lāg* — touch, meeting face to face, finding, company.
+
+[^21]: *Amṛta-pravāha-bhāṣya*: *holnā* — a particular kind of earthen vessel (*mālsā*).
+
+[^22]: *Anubhāṣya*: *cabutarā* — a raised floor, a terrace, a platform beside the *piṇḍā*. Edition heading: under the banyan, on the terrace, the devotees who are the Lord’s associates take their seats.
+
+[^23]: *Anubhāṣya*: Rāmadāsa is Abhirāma Ṭhākura (in Vraja a cowherd boy); Murāri here is Murāri Caitanya dāsa, one of Nityānanda’s associates, not Murāri Gupta; for each of those named in 61–63 see the *Anubhāṣya* on Ādi 10 and 11.
+
+[^24]: Edition heading: brāhmaṇas who see no caste in Vaiṣṇavas honour the mahā-prasāda.
+
+[^25]: *Anubhāṣya*: *ni-sakḍi* — what is not *sakḍi*, that is, not defiled by the touch of boiled rice (*anna*).
+
+[^26]: Edition headings: to 74 — Nityānanda Prabhu, feeling Himself a cowherd boy, recalls the pastimes of Vraja; to 75 — the joy of a meal with His friends on the sandy bank of the Yamunā.
+
+[^27]: *Amṛta-pravāha-bhāṣya*: *āroyā-ciḍā* — flat rice made from *ātapa* rice, not parboiled before husking. Edition heading: for Mahāprabhu, two pots of *ciḍā* with milk and two of *ciḍā* with *dadhi*.
+
+[^28]: *Anubhāṣya*: Rāmadāsa is Abhirāma Ṭhākura (see verse 61). Edition heading: Abhirāma Ṭhākura and the others, in the mood of cowherd boys, recall their meals on the sandy bank of the Yamunā.
+
+[^29]: *Anubhāṣya*: *pasāri* — a vendor, a shopkeeper. Edition heading: the vendors come to sell, earn their money, and then eat what they sold, now become prasāda.
+
+[^30]: Edition heading: this is why the festival is called the festival of *ciḍā* and *dadhi*.
+
+[^31]: Edition heading: Nityānanda’s incomparable dance can be compared only with Mahāprabhu’s.
