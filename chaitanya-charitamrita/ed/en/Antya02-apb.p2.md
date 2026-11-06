@@ -33,3 +33,13 @@ Only one in whom, while he practices *sādhana-bhakti*, *bhāva* has awakened an
 ## 144
 
 **Trāsa upajila saba-bhakta-gaṇe** — such fear arose among the devotees wearing the *bhek* (the *sādhakas*) that they no longer spoke with any woman.
+
+## 163
+
+***Sva-karma-phala-bhuk pumān*** — a person reaps the fruit of his own actions (those he himself has performed).
+
+## 165
+
+If a Vaiṣṇava *sādhaka* who wears the *bhek* deliberately looks at women, his atonement is to die by drowning in the Triveṇī, so that in a future birth he may become faultless.
+
+*Thus ends the second chapter of the “Amṛta-pravāha-bhāṣya.”*

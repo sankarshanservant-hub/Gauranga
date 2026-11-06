@@ -198,8 +198,64 @@ Illicit contact with a woman, cloaked in duplicity, is only one sin among others
 
 > Subheading: Śrīvāsa and others learn that Haridāsa gave up his body, from a Vaiṣṇava who has returned from Prayāga to Navadvīpa —
 
+## 162
+
+> Subheading: The next year the Gauḍīya devotees come to Purī —
+
+## 163
+
+> Subheading: Śrīvāsa asks the Lord about Choṭa Haridāsa, and the Lord replies —
+
+## 164
+
+> Subheading: Śrīvāsa relates how Choṭa Haridāsa gave up his body —
+
+## 165
+
+> Subheading: The Lord — the protector of true *dharma*, the guru of the world, the teacher of the people — lays down the rule —
+
+## 166
+
+> Subheading: The fruit of giving up the body at the Triveṇī and other holy places of Viṣṇu —
+
+## 167
+
+> Subheading: The Lord's pastimes, an elixir for the hearts and ears of the devotees —
+
+## 168
+
+> Subheading: What the pastime of the Lord punishing Choṭa Haridāsa teaches —
+
+## 168–169
+
+A *sādhaka* who desires pure service to Gaura-Kṛṣṇa should take note of the following lessons that Mahāprabhu taught through the pastime of punishing Choṭa Haridāsa.
+
+1. Bhagavān Gaurasundara, supremely merciful to the *jīvas*, openly rejected even His own associate and devotee Choṭa Haridāsa. Had the Lord not rejected him, the weak souls of the age of Kali would have received improper indulgence: they would have taken *prākṛta-sahajiyā*-ism and other material false and side religions to be “Vaiṣṇava *dharma*” and would have gone on rotting in hell. That would not have revealed the Lord's mercy.
+
+2. By imposing this punishment, the Lord taught everyone what the position of a preaching Vaiṣṇava ācārya should be, and what the position of a devotee who keeps the rules of conduct should be.
+
+3. Mahāprabhu taught the *jīva* how a devotee of Bhagavān should serve Gaura once his life has become pure, simple and sinless — through “renunciation,” that is, giving up the enjoyment of everything other than Kṛṣṇa.
+
+4. The Lord showed how lofty and attractive an ideal is the spotless character of His devotees; how He accepts (pure) true devotees as His own; and what poisonous fruit is born of even a shadow of attachment to what is not Kṛṣṇa.
+
+5. The Lord wished to show how great His bountiful mercy toward Haridāsa was — shown in the punishment — and how great Haridāsa's desire to serve the Lord, his deep love (*anurāga*), was. So He would not tolerate even his slightest fault. If pure devotees who long to serve wish to become objects of the Lord's deep love, they must give up in every way all craving for worldly sense pleasure; otherwise Śrī Gaurahari does not accept them.
+
+6. If someone gives up his body at Prayāga or another holy place of Viṣṇu, he is cleansed of offenses and the like, becomes liberated, and attains *sukṛti* and a good destination.
+
+7. To teach the people, the Lord did not accept His devotee Haridāsa. But later He accepted his service — hearing *kīrtana* of Kṛṣṇa from his mouth — and so accepted him as His own devotee.
+
+## 170
+
+> Subheading: Only a wise and sincere person who longs to serve Kṛṣṇa and firmly strives to give up bad association is qualified to grasp the inner meaning of the profound pastimes of Kṛṣṇa Caitanya —
+
+## 171
+
+> Subheading: The author asks everyone to give up the path of argument and, taking shelter of the path of hearing (*śrauta-patha*), to hear the transcendental pastimes of Caitanya —
+
+*Thus ends the second chapter of the “Anubhāṣya.”*
+
 ---
 
 [^119-1]: The edition's verse reads *vaset* (checked against the scan); the verse as given in our text reads *bhavet*, the variant noted by Bhaktisiddhānta.
 
-[^120-1]: The edition reads *vivitsā* (checked against the scan); the sense is probably *vividiṣā* (the desire to know), as in the pair *vividiṣā-* and *vidvat-sannyāsa*, matched here by the pair *dhīra* — *narottama*.
+[^120-1]: The edition reads *vivitsā* (checked against the scan); the sense is probably *vividiṣā* (the desire to know), as in the pair *vividiṣā-* and *vidvat-sannyāsa*.
