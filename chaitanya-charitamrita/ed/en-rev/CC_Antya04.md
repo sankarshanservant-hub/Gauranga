@@ -496,7 +496,7 @@ in the rasa of devotion to Kṛṣṇa  you both  supremely  foremost
 kṛṣṇa-rasa āsvādana kara, laha kṛṣṇa-nāma  
 Kṛṣṇa’s rasa  relishing  do  take  Kṛṣṇa’s name
 
-(49) You are both supremely eminent in the rasa of devotion to Kṛṣṇa. Relish the rasa of Kṛṣṇa and chant the name of Kṛṣṇa.”
+(49) You are both supremely eminent in the rasa of devotion to Kṛṣṇa. Relish the sweetness of Kṛṣṇa and chant His name.”
 
 এত বলি’ মহাপ্রভু উঠিয়া চলিলা ৷  
 গোবিন্দ-দ্বারায় দুঁহে প্রসাদ পাঠাইলা ॥ ৫০ ॥
@@ -858,7 +858,7 @@ these  all  works  I  by which  body  shall do
 tāhā chāḍite cāha tumi, kemane sahimu?  
 that  to give up  wish  you  how  shall I bear
 
-(83) The body through which I shall do all these works — that you wish to give up! How can I bear it?”
+(83) You wish to give up the very body through which I shall do all these works! How can I bear it?”
 
 তবে সনাতন কহে, — তোমাকে নমস্কারে ৷  
 তোমার গম্ভীর হৃদয় কে বুঝিতে পারে ? ॥ ৮৪ ॥
@@ -928,7 +928,7 @@ which  which  works  You  do  whom  through
 tumi nā jānāile keha jānite nā pāre  
 You  not  if You make known  anyone  to know  not  can
 
-(90) Which works You accomplish through whom — unless You make it known, no one can know.
+(90) Unless You make it known, no one can know which works You accomplish, and through whom.
 
 এতাদৃশ তুমি ইঁহারে কৈরাছ অঙ্গীকার ৷  
 এত সৌভাগ্য ইঁহা না হয় কাহার ॥ ৯১ ॥
@@ -998,7 +998,7 @@ the conclusions of devotion  of scripture  conduct  the determination
 tomā-dvāre karāibena, bujhilum̐ āśaya  
 through you  He will have done  I have understood  His intention
 
-(97) The conclusions of bhakti and the determination of conduct according to scripture He will have done through you — I have understood His intention.
+(97) I have understood His intention: through you He will establish the conclusions of bhakti and determine conduct according to scripture.
 
 আমার এই দেহ প্রভুর কার্য্যে না লাগিল ৷  
 ভারত-ভূমিতে জন্মি’ এই দেহ ব্যর্থ হৈল ! ॥ ৯৮ ॥
@@ -1008,7 +1008,7 @@ my  this  body  of the Lord  in the work  not  was used
 bhārata-bhūmite janmi’ ei deha vyartha haila!  
 in the land of Bhārata  born  this  body  futile  has become
 
-(98) But this body of mine has not been used in the Lord’s work. Born in the land of Bhārata, this body has been in vain!”
+(98) But this body of mine has never served the Lord’s work. I was born in the land of Bhārata — and all in vain!”
 
 সনাতন কহে, — তোমা-সম কেবা আছে আন ৷  
 মহাপ্রভুর গণে তুমি — মহাভাগ্যবান্ ! ॥ ৯৯ ॥
@@ -1068,7 +1068,7 @@ in this way  the two  in the joy of many talks
 kṛṣṇa-kathā āsvādaya rahi’ eka-saṅge  
 talks of Kṛṣṇa  relish  staying  together
 
-(104) In this way the two of them lived together, relishing talks of Kṛṣṇa in the joy of many conversations.
+(104) In this way the two lived together, joyfully relishing many talks about Kṛṣṇa.
 
 যাত্রাকালে আইলা সব গৌড়ের ভক্তগণ ৷  
 পূর্ব্ববৎ কৈলা সবে রথযাত্রা দরশন ॥ ১০৫ ॥
@@ -1088,7 +1088,7 @@ before the chariot  the Lord  likewise  made  dancing
 dekhi’ camatkāra haila sanātanera mana  
 seeing  astonished  became  of Sanātana  the mind
 
-(106) Before the chariot the Lord danced as before, and seeing it, Sanātana was filled with wonder.
+(106) Before the chariot the Lord danced in the same way, and seeing it, Sanātana was filled with wonder.
 
 বর্ষার চারি-মাস রহিলা সব নিজ-ভক্তগণে ৷  
 সবা-সঙ্গে প্রভু মিলাইলা সনাতনে ॥ ১০৭ ॥
@@ -1162,7 +1162,7 @@ the Dola-yātrā and so on  of the Lord  in the company  he saw
 dine-dine prabhu-saṅge ānanda bāḍila  
 day by day  in the Lord’s company  joy  increased
 
-(114) In the Lord’s company he saw the Dola-yātrā and other festivals, and day by day, in the Lord’s company, his joy increased.
+(114) He saw the Dola-yātrā and other festivals together with the Lord, and day by day his joy in the Lord’s company increased.
 
 পূর্ব্বে বৈশাখ-মাসে সনাতন যবে আইলা ৷  
 জ্যৈষ্ঠমাসে প্রভু তাঁরে পরীক্ষা করিলা ॥ ১১৫ ॥
@@ -1212,7 +1212,7 @@ the Lord  has called  in this  joyful  mind
 tapta-vālukāte pā poḍe, tāhā nāhi jāne  
 on the hot sand  the feet  burn  that  not  he knows
 
-(119) His mind was so joyful that the Lord had called him that he did not notice his feet burning on the hot sand.
+(119) Overjoyed that the Lord had called him, he did not notice his feet burning on the hot sand.
 
 দুই পায়ে ফোস্কা হৈল, তবু গেলা প্রভুস্থানে ৷  
 ভিক্ষা করি’ মহাপ্রভু কৈরাছেন বিশ্রামে ॥ ১২০ ॥

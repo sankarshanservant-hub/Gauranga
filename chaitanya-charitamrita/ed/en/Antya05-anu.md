@@ -4,7 +4,7 @@
 
 > Subheading: For the *jīva* bereft of consciousness (*a-caitanya*), stricken with the disease of worldly existence and fallen into the ocean of *saṁsāra*, the only good lies in taking shelter of Caitanya's feet —
 
-**vaiguṇya-kīṭa-kalitaḥ** (*vaiguṇya* is the ripening of karma; bitten by the worm that it is)[^1-1] **paiśunya-vraṇa-pīḍitaḥ** (*paiśunya* is malice; suffering from the sore, that is, the wound, that it is) **dainyārṇave** (in the ocean of humility) **nimagnaḥ** **aham** **caitanya-vaidyam** (the physician, Mahāprabhu) **āśraye** (I have taken shelter).
+**vaiguṇya-kīṭa-kalitaḥ** (*vaiguṇya* is the ripening of karma; bitten by the worm that it is) **paiśunya-vraṇa-pīḍitaḥ** (*paiśunya* is malice; suffering from the sore, that is, the wound, that it is) **dainyārṇave** (in the ocean of humility) **nimagnaḥ** **aham** **caitanya-vaidyam** (the physician, Mahāprabhu) **āśraye** (I have taken shelter).
 
 ## 4
 
@@ -607,10 +607,6 @@ With the very words with which Śiśupāla reviled Kṛṣṇa, pure Sarasvatī 
 *Thus ends the fifth chapter of the “Anubhāṣya.”*
 
 ---
-
-[^1-1]: The verse translation reads differently: “by the worms of selfishness and material desires.”
-
-[^49-1]: The verse translation reads differently: “and Kṛṣṇa Himself grants him a spiritual body.”
 
 [^119-1]: *Bṛhad-āraṇyaka Upaniṣad* 2.1.20.
 
