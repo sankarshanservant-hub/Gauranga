@@ -53,7 +53,7 @@ tr: I hear that His residence is near the temple, but I have no power to go near
 
 ## 9
 w: of Jagannātha  the servants  move about  of their duties  at the demand
-w: their  touch  if there is  my  there will be  offense
+w: their  touch  if there is  my  there will be  offence
 tr: The servants of Jagannātha move about there on their duties; if I touch them, I shall be guilty of an offence.
 
 ## 10
@@ -378,7 +378,7 @@ tr: Among the forms of worship the best is the ninefold bhakti: it has great pow
 
 ## 71
 w: of them  among  the best of all  the chanting of the name
-w: without offense  the name  if one takes  obtains  the treasure of love
+w: without offence  the name  if one takes  obtains  the treasure of love
 tr: Of these the best of all is *nāma-saṅkīrtana*. One who chants the name without offence obtains the treasure of love.”
 fn: *Anubhāṣya*: *nirāparādhe* — free of the ten offences against the name, serving the name constantly and untiringly.
 
@@ -714,7 +714,7 @@ w: my  the fluid of the sores  clings  of the Lord  to the body
 tr: Though I try to stop Him, the Lord embraces me, and the fluid of my sores smears His body.
 
 ## 139
-w: offense  is  mine  there is no  deliverance
+w: offence  is  mine  there is no  deliverance
 w: even Jagannātha  not  I see  this  grief  boundless
 tr: I am committing an offence, and for me there is no deliverance. I cannot even see Jagannātha — this grief is boundless.
 
@@ -759,7 +759,7 @@ w: the Lord  calls  again and again  to make  embrace
 tr: Sanātana offered prostrate obeisances from a distance. Again and again the Lord called him, wanting to embrace him.
 
 ## 148
-w: of offense  in fear  he  to meet  not  came
+w: of offence  in fear  he  to meet  not  came
 w: Mahāprabhu  to meet  to that  place  went
 tr: Fearing to offend, he did not come forward to meet Him, so Mahāprabhu went to that place to meet him.
 
@@ -776,12 +776,12 @@ fn: *Piṇḍā* — a raised earthen platform beside a dwelling. *Amṛta-prav�
 
 ## 151
 w: welfare  for the sake  came  I  it turned out  the opposite
-w: for service  fit  I am not  offense  I commit  daily  daily
+w: for service  fit  I am not  offence  I commit  daily  daily
 tr: “I came for my welfare, but the opposite has happened. I am not fit for service; day after day I commit offences.
 
 ## 152
 w: by nature  of low birth  I  wicked  a reservoir of sin
-w: me  You  if You touch  my  offense  occurs
+w: me  You  if You touch  my  offence  occurs
 tr: I am low-born, wicked by nature, a ‘reservoir of sin’; when You touch me, I commit an offence.
 fn: *Nīca-jāti* — “of low birth” (cf. 6, 28, 66–67).
 
@@ -792,7 +792,7 @@ tr: Moreover, fluid and blood flow from the sores on my body and smear Yours, ye
 
 ## 154
 w: the loathsome  in touching  not  You feel  disgust  even a trace
-w: by this  offense  my  will be  utter ruin
+w: by this  offence  my  will be  utter ruin
 tr: You do not feel even a trace of disgust in touching what is loathsome. This offence will be my utter ruin.
 
 ## 155
@@ -901,7 +901,7 @@ w: what  good  what  bad  or
 w: of duality  of the unreal  how much
 w: by speech  spoken  that  untrue
 w: by the mind  conceived  indeed  and
-tr: “In duality, which has no true being, what is good and what is bad, and how much of either? Whatever is uttered in words or conceived by the mind is passing and untrue.” (Śrīmad-Bhāgavatam, 11.28.4)
+tr: “What is good and what is bad, and how much of either, in a duality that has no true being? Whatever is uttered in words or conceived by the mind is passing and untrue.” (Śrīmad-Bhāgavatam, 11.28.4)
 fn: *Anubhāṣya*: whatever is spoken in words, seen by the senses or conceived by the mind is transitory, not true for all time; whatever is other than the non-dual Truth has no separate being. *Amṛta-pravāha-bhāṣya*: duality is a perception not of Kṛṣṇa, the non-dual Truth, but of something else, born of māyā; in the perception of the non-dual Truth there is no ‘good’ and ‘bad’.
 
 ## 176
@@ -957,7 +957,7 @@ tr: I think of you as those I cherish (*lālya*), and of Myself as the one who c
 fn: *Anubhāṣya*: out of affection the one who cherishes does not notice the faults of the one he cherishes, even if they are there.
 
 ## 185
-w: toward Myself  is  My  like one not to be honored
+w: toward Myself  is  My  like one not to be honoured
 w: you all  I hold  I  as children  the conception
 tr: I regard Myself as one not to be honoured by you, for I think of you all as My children.
 
@@ -1094,7 +1094,7 @@ tr: From Balabhadra Bhaṭṭa he wrote down everything: by which path, past whi
 ## 211
 w: of Mahāprabhu  the devotees  all  having met
 w: by that path  going  he goes  those  places  seeing
-tr: On the way he met all of Mahāprabhu’s devotees, and he travelled on by that same path, seeing those places.
+tr: Travelling by that same path, he met all of Mahāprabhu’s devotees and saw those places.
 fn: Edition heading: having met the devotees on the way, Sanātana continues his journey.
 
 ## 212
@@ -1195,7 +1195,7 @@ fn: *Anubhāṣya*: its other name is the *Ṣaṭ-sandarbha* (see Madhya 1.43).
 ## 230
 w: the Gopāla-campū  also  many  books  he made
 w: of Vraja  the love-pastimes’  rasa  the essence  he showed
-tr: He also wrote the *Gopāla-campū* and many other books, in which he revealed the essence of the rasa of the love-pastimes of Vraja.
+tr: He also wrote the *Gopāla-campū* and many other books, in which he revealed the essence of the rasa of Vraja’s love-pastimes.
 
 ## 231
 w: in the Ṣaṭ-sandarbha  of love for Kṛṣṇa  the truth  he revealed
