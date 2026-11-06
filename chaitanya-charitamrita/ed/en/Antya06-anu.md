@@ -4,7 +4,7 @@
 
 > Subheading: Obeisance to Gaura, who entrusted Raghunātha to Svarūpa and so made him His own —
 
-**yaḥ** (Caitanyadeva) **kṛpā-guṇaiḥ** (by the bounty of His compassion) **kugṛhāndha-kūpāt** (*ku*, bad, that is, full of talk of husbands, wives, sons and the like; from such a home, a blind well with no way out) **raghunātha-dāsam** (Dāsa Gosvāmī) **bhaṅgyā** (skilfully) **uddhṛtya** (having drawn out) **svarūpe** (to Dāmodara Svarūpa Gosvāmī) **nyasya** (having handed over) **antaraṅgam** (His intimate) **vidadhe** (made), **amum** (Him) **śrī-kṛṣṇa-caitanyam** **ahaṁ** **prapadye** (I take shelter).
+**yaḥ** (Caitanyadeva) **kṛpā-guṇaiḥ** (by the bounty of His compassion) **kugṛhāndha-kūpāt** (*ku*, bad, that is, full of talk of husbands, wives, sons and the like; from such a home, a blind well with no way out) **raghunātha-dāsam** (Dāsa Gosvāmī) **bhaṅgyā** (skilfully) **uddhṛtya** (having drawn out) **svarūpe** (to Svarūpa Dāmodara Gosvāmī) **nyasya** (having handed over) **antaraṅgam** (His intimate) **vidadhe** (made), **amum** (Him) **śrī-kṛṣṇa-caitanyam** **ahaṁ** **prapadye** (I take shelter).
 
 In the *Vilāpa-kusumāñjali-stava* of Śrī Raghunātha dāsa Gosvāmī it is said: “I worship Caitanya-candra. An ocean of dense compassion, independent by nature, He at once drew me out with the ropes of His mercy from a vast, waterless, impassable well of boundless suffering, Himself brought me to the edge of His feet, which put the lotus to shame, and gave me over to Śrī Dāmodara.”
 
@@ -773,11 +773,11 @@ If both non-devotee worldly people and pure devotees look carefully and impartia
 
 ## 233
 
-> Subheading: The Lord tells Raghunātha to accept Dāmodara Svarūpa as his *śikṣā-guru* —
+> Subheading: The Lord tells Raghunātha to accept Svarūpa Dāmodara as his *śikṣā-guru* —
 
 ## 234
 
-> Subheading: Śrī Dāmodara Svarūpa — the eternal master, that is, the guru, of the Mādhva-Gauḍīyas — is the *ācārya* of the entire truth of the goal and the means (*sādhya* and *sādhana*) —
+> Subheading: Śrī Svarūpa Dāmodara — the eternal master, that is, the guru, of the Mādhva-Gauḍīyas — is the *ācārya* of the entire truth of the goal and the means (*sādhya* and *sādhana*) —
 
 ## 236
 
@@ -795,7 +795,7 @@ See Ādi 17.31.
 
 ## 241
 
-> Subheading: Following Dāmodara Svarūpa, Raghunātha renders intimate service to Gaura-Kṛṣṇa —
+> Subheading: Following Svarūpa Dāmodara, Raghunātha renders intimate service to Gaura-Kṛṣṇa —
 
 ## 242
 
@@ -855,7 +855,7 @@ See Ādi 17.31.
 
 > Subheading: The virtues of Yadunandana Ācārya and of Raghunātha — a follower of Svarūpa and the object of Śrī Kṛṣṇa Caitanya's boundless mercy — (Śivānanda's words to a fellow pilgrim in the *Śrī Caitanya-candrodaya-nāṭaka*, act 10, verses 3–4)
 
-**śrī-vāsudeva-priyaḥ** (dear to Vāsudeva Datta Ṭhākura, that is, an object of his mercy, but not his disciple) **su-madhuraḥ** (very gentle) **yadunandanaḥ** **ācāryaḥ**; **tac-chiṣyaḥ** (a disciple of that Yadunandana, that is, an object of his mercy — not that he received initiation from him in particular; such is the sense)[^263-1] **adhiguṇaḥ** (surpassing in virtues, that is, endowed with more virtues than anyone) **mādṛśām** (of those who, like us, have Gaura as their life) **prāṇādhikaḥ** (dearer than life) **śrī-caitanya-kṛpātireka-satata-snigdhaḥ** (by Gaura's boundless mercy always full of *prema*) **svarūpa-priyaḥ** (a follower of Dāmodara Svarūpa) **vairāgyaika-nidhiḥ** (the sole treasure of renunciation, that is, its chief abode, or ocean) **raghunāthaḥ** (Śrī Dāsa Gosvāmī) **nīlācale** (in Puruṣottama-kṣetra) **tiṣṭhatām** (among those living) **kasya na viditaḥ?** (that is, he is known to all; such is the sense).
+**śrī-vāsudeva-priyaḥ** (dear to Vāsudeva Datta Ṭhākura, that is, an object of his mercy, but not his disciple) **su-madhuraḥ** (very gentle) **yadunandanaḥ** **ācāryaḥ**; **tac-chiṣyaḥ** (a disciple of that Yadunandana, that is, an object of his mercy — not that he received initiation from him in particular; such is the sense)[^263-1] **adhiguṇaḥ** (surpassing in virtues, that is, endowed with more virtues than anyone) **mādṛśām** (of those who, like us, have Gaura as their life) **prāṇādhikaḥ** (dearer than life) **śrī-caitanya-kṛpātireka-satata-snigdhaḥ** (by Gaura's boundless mercy always full of *prema*) **svarūpa-priyaḥ** (a follower of Svarūpa Dāmodara) **vairāgyaika-nidhiḥ** (the sole treasure of renunciation, that is, its chief abode, or ocean) **raghunāthaḥ** (Śrī Dāsa Gosvāmī) **nīlācale** (in Puruṣottama-kṣetra) **tiṣṭhatām** (among those living) **kasya na viditaḥ?** (that is, he is known to all; such is the sense).
 
 ## 264
 
@@ -1039,7 +1039,7 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 
 > Subheading: As divine knowledge of *sambandha* dawns, identification with the body wanes — (*Śrīmad-Bhāgavatam* 7.15.40)
 
-“By following what rule does a householder easily attain liberation?” Answering this question of Dharmarāja Yudhiṣṭhira, the sage among the gods Nārada describes the essence of the *sādhana* of all *varṇas* and *āśramas*, whose mark is liberation (*mokṣa*). After speaking of the four *āśramas*, at the end he says: **cet** (if) **ātmānam param** (“Brahman — Kṛṣṇa”) **vijānīyāt**, **tadā** **jñāna-dhutāśayaḥ** (one whose *āśaya* — desire for sense objects — has been shaken off, driven out by knowledge, that is, by knowledge of *sambandha*) **lampaṭaḥ** (giving free rein to tongue and genitals) **kim icchan** (for what purpose) **kasya vā hetoḥ** **deham puṣṇāti** (would he tend the body?) — the sense is: greed is impossible for a *jñānī*. So also says the *śruti*: “If a man has known the Self as ‘I am He,’ desiring what, for whose desire, would he care for the body?”[^314-1]
+“By following what rule does a householder easily attain liberation?” Answering this question of Dharmarāja Yudhiṣṭhira, the sage among the gods Nārada describes the essence of the *sādhana* of all *varṇas* and *āśramas*, whose mark is liberation (*mokṣa*). After speaking of the four *āśramas*, at the end he says: **cet** (if) **ātmānam param** (“Brahman — Kṛṣṇa”) **vijānīyāt**, **tadā** **jñāna-dhutāśayaḥ** (one whose *āśaya* — desire for sense objects — has been shaken off, driven out by knowledge, that is, by knowledge of *sambandha*) **lampaṭaḥ** (giving free rein to tongue and genitals) **kim icchan** (for what purpose) **kasya vā hetoḥ** **deham puṣṇāti** (would he tend the body?) — the sense is: greed is impossible for a *jñānī*. So also says the *śruti*: “If a man has known the Self — ‘this is what I am’ (*ayam asmi*) — desiring what, for whose desire, would he care for the body?”[^314-1]
 
 ## 315
 
@@ -1089,7 +1089,7 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 
 > Subheading: By Gaura's mercy Raghunātha attains the following of Dāmodara and service to Gāndharvā and Giridhārī — (*Stavāvalī*, *Caitanya-stava-kalpavṛkṣa*, verse 11)
 
-**yaḥ** (Mahāprabhu) **kṛpayā** (out of His compassion) **kujanam api mām** **mahā-sampad-dārāt** (great wealth and wife; their aggregate, that is, from contact with gold and women; with the reading *mahā-sampad-dāvāt* — from the fire that is great wealth itself) **uddhṛtya** **svīye** (to His own intimate) **svarūpe** (Śrī Dāmodara Svarūpa) **nyasya** (entrusting) **muditaḥ** (being pleased) **priyam api** **uro-guñjā-hāram** (the *guñjā* garland from His chest) **govardhana-śilām ca** (the Deity of the Holder of the mountain) **me** (to me) **dadau**, **saḥ** (Gaurāṅga, Gaurahari) **me** (my) **hṛdaye** **udayan** (appearing) **mām madayati** (delights me).[^327-1]
+**yaḥ** (Mahāprabhu) **kṛpayā** (out of His compassion) **kujanam api mām** **mahā-sampad-dārāt** (great wealth and wife; their aggregate, that is, from contact with gold and women; with the reading *mahā-sampad-dāvāt* — from the fire that is great wealth itself) **uddhṛtya** **svīye** (to His own intimate) **svarūpe** (Śrī Svarūpa Dāmodara) **nyasya** (entrusting) **muditaḥ** (being pleased) **priyam api** **uro-guñjā-hāram** (the *guñjā* garland from His chest) **govardhana-śilām ca** (the Deity of the Holder of the mountain) **me** (to me) **dadau**, **saḥ** (Gaurāṅga, Gaurahari) **me** (my) **hṛdaye** **udayan** (appearing) **mām madayati** (delights me).[^327-1]
 
 ## 328
 
