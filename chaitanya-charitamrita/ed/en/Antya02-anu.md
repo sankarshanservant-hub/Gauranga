@@ -354,7 +354,7 @@ To take in the five objects — form, sound, smell, taste and touch — is the n
 
 Mahārāja Yayāti, ruled by lust and conquered by a woman, long enjoyed gross worldly objects. At last, realizing that he was ruining himself completely, he became disillusioned (*nirveda*); describing his own character and conduct to his wife Devayānī, he condemns the company of women:
 
-**mātrā** (with one's mother) **svasrā** (with one's sister) **duhitrā** **vā** (or with one's daughter) **aviviktāsanaḥ** (one whose seat is not apart, that is, close beside them) **na** **vaset** (one should not stay; there is a variant reading *bhavet*[^119-1]; for) **balavān** (possessing great strength) **indriya-grāmaḥ** (the host of the senses) **vidvāṁsam** (a man who knows how to be freed from bondage) **api** (even) **karṣati** (draws, that is, binds him in bondage).
+**mātrā** (with one's mother) **svasrā** (with one's sister) **duhitrā** **vā** (or with one's daughter) **aviviktāsanaḥ** (one whose seat is not apart, that is, close beside them) **na** **vaset** (one should not stay; there is a variant reading *bhavet*[^119-1]; for) **balavān** (possessing great strength) **indriya-grāmaḥ** (the host of the senses) **vidvāṁsam** (a man who knows about bondage and liberation) **api** (even) **karṣati** (draws, that is, binds him in bondage).
 
 ## 120
 
@@ -530,6 +530,6 @@ A *sādhaka* who desires pure service to Gaura-Kṛṣṇa should take note of t
 
 ---
 
-[^119-1]: The edition's verse reads *vaset* (checked against the scan); the verse as given in our text reads *bhavet*, the variant noted by Bhaktisiddhānta.
+[^119-1]: The edition's verse reads *vaset* (checked against the scan; so also in the verse text of our translation); the variant *bhavet* is noted in Bhaktisiddhānta's own comment.
 
 [^120-1]: The edition reads *vivitsā* (checked against the scan); the sense is probably *vividiṣā* (the desire to know), as in the pair *vividiṣā-* and *vidvat-sannyāsa*.
