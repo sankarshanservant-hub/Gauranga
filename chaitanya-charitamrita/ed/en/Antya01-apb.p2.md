@@ -26,6 +26,26 @@ Rādhikā, overcome by *pūrva-rāga*, says: “I heard the syllables of the nam
 
 When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, Śrī Rūpa answered: “The nature of *prema* is natural (*sāhajika*) in itself.”
 
+## 150
+
+*Svārasika* means natural. Natural *prema* acts and plays in this way. When the loving one hears herself praised (by the beloved), she shows indifference but feels a special pain. When she hears herself blamed (by the beloved), she takes it as the charm of a jest, and it gives her (great) joy. When she sees some fault in the one she loves, her love does not diminish at all; and when she sees some virtue in him, (her love) does not grow either.
+
+## 151
+
+“Hearing of My cruelty, moon-faced Rādhā will break the sprout of love, somehow establish calm or steadiness in Her suffering heart, and probably turn away from Me. Or else, frightened by the bow of wicked Kandarpa, She will give up Her life. Alas, in My folly I have uprooted the tender creeper of desire that was just about to bear fruit.”
+
+## 152
+
+“Sakhī, I longed for happiness in His embrace — and for His sake I cast off even My great shyness before the elders. For His sake I caused you so much pain, though you are dearer to Me than life. For His sake I counted as nothing even that *dharma* (of fidelity to a husband) on which chaste women rely. And now Kṛṣṇa Himself has neglected Me, yet I, sinful as I am, still live! Shame on My steadiness!”
+
+## 153
+
+“By My natural childlike simplicity I was playing at home and knew nothing at all of what is called ‘good’ and what ‘bad’! Was it worthy of You to plunge us into such a helpless state? And is it just of You now to take the path of indifference?”
+
+## 154
+
+“With hearts stained by suffering we are going to the abode of Yama this very day, and still this Kṛṣṇa does not give up His affectionate laughter full of deceit (a cruel laughter so full of deceit)! O wise Rādhikā, how could so lofty a *prema* arise in You for this philanderer of the cowherd village, so full of deep guile?”
+
 ---
 
 [^140-1]: So in the edition (*prabhu*, “the Lord”); in verse 140 it is Rāmānanda Rāya who asks.

@@ -51,3 +51,39 @@
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 18)
 
 See Madhya 2.52.
+
+## 150
+
+> Subheading: (*Vidagdha-mādhava*, Act 5, verse 4)
+
+**Yatra** (in which — in *prema*) **stotraṁ** (words of praise), **taṭa-sthatāṁ** (indifference) **prakaṭayat** (displaying), **cittasya vyathāṁ dhatte** (cause the heart pain); **nindā api** (even blame), **parīhāsa-śriyaṁ** (the charm of a jest) **bibhratī** (bearing), **pramadaṁ** (joy) **prayacchati** (gives); **kena api doṣeṇa** (by no fault whatever) **kṣayitāṁ** (decrease) **na**, **guṇena** (by a virtue) **gurutāṁ** (increase) **na ca** **ātanvatī** (displaying neither: if love arises in dependence on some *upādhi*, such as virtues, then on seeing faults it weakens and on seeing virtues it grows stronger; but here it is free of *upādhis* and depends neither on faults nor on virtues) — **kasyacit svārasikasya** (of a certain natural) **premṇaḥ** (*prema*) **iyaṁ prakriyā** (such is the working, and it) **vikrīḍati** (plays in the heart).
+
+## 151
+
+> Subheading: An example of Śrī Kṛṣṇa's remorse after He has tested her *rāga* —
+
+> Subheading: (*Vidagdha-mādhava*, Act 2, verse 40)
+
+**Indu-vadanā** (moon-faced Rādhikā), **mama niṣṭhuratāṁ śrutvā** (hearing of My cruelty), **premāṅkuraṁ** (the newly arisen *prema*) **bhindatī** (breaking), **vidhure** (in Her saddened, suffering) **svānte** (heart) **śānti-dhurāṁ** (the utmost steadiness) **vidhāya** (taking up), **parāñciṣyati** (will turn away); **kiṁ vā** (or else), **pāmara-kāma-kārmuka-paritrastā** (frightened by the arrows [*kārmuka*] of unruly [*pāmara*] Kāma, Kandarpa), **asūn** (Her life) **vimokṣyati** (will give up); **hā** (alas!) **maugdhyāt** (out of folly) **mayā** (by Me) **mṛdvī** (tender, since it has just sprouted) **phalinī** (about to bear fruit) **manoratha-latā** (the creeper of desire) **unmūlitā** (has been uprooted).
+
+## 152
+
+> Subheading: (*Vidagdha-mādhava*, Act 2, verse 41)
+
+**He sakhi**, **yasya** (Kṛṣṇa's) **utsaṅga-sukhāśayā** (out of an intense desire for the bliss of closeness with Him) **gurubhyaḥ** (before the venerable elders) **gurvī** (great) **trapā** (shyness) **śithilitā** (was cast off), **tathā** (and likewise) **prāṇebhyaḥ api suhṛt-tamāḥ** (the dearest, dearer than life) **yūyaṁ** (you) **parikleśitāḥ** (have been tormented); **sādhvībhiḥ adhyāsitaḥ** (followed by chaste women) **yaḥ mahān dharmaḥ** (the great *dharma* — fidelity to a husband), **saḥ api** (even that) **mayā** (by Me, a wife of a noble family) **na gaṇitaḥ** (was not taken into account); **yat** (since) **ahaṁ pāpīyasī** (I, the sinful one), **tad-upekṣitā api** (even neglected by Him, Kṛṣṇa), **jīvāmi** (live on), (therefore) **dhairyaṁ** (My steadiness) — **dhik** (shame on it)!
+
+## 153
+
+> Subheading: (*Vidagdha-mādhava*, Act 2, verse 46)
+
+(**He bakī-hantaḥ**, O slayer of Bakī![^153-1]) **Nija-sahaja-bālyasya balanāt** (by the force of our natural childlike simplicity) **gṛhāntaḥ khelantyaḥ** (playing at home), **vayaṁ** (we) **kim api** **abhadraṁ** (misfortune) **bhadraṁ vā** (or good fortune) **manāk** (in the least) **na jānīmahi** (do not know); **katham** **vayaṁ** **kām api** (into such a) **aśaraṇāṁ** (shelterless) **daśāṁ** (state) **netuṁ** (to bring) **yuktāḥ** (is it proper, is it in keeping with *dharma*)? (And if we have been brought into such a state,) **kathaṁ vā** **te** (for You) **udāsīna-padavī** (indifference) **prathayitum** (to display) **nyāyyā** (is it just? — so You are bent only on killing us — this is the sense).
+
+## 154
+
+> Subheading: (*Vidagdha-mādhava*, Act 2, verse 37)
+
+**Vayam** (we), **antaḥ-kleśa-kalaṅkitāḥ** (stained, marked, by inner suffering: this suffering will remain even after death — this is the sense), **adya** (today) **yāmyāṁ purīṁ** (to the abode of Yama) **kila** (certainly) **yāmaḥ** (are going); **tathāpi** (and yet, though He is so merciless,) **ayaṁ** (this Śrī Kṛṣṇa) **vañcana-sañcaya-praṇayinaṁ** (that heaps up deceptions) **hāsaṁ** (His laughter) **na ujjhati** (does not give up)! **Hā medhāvini** (O wise) **rādhike**, **gabhīra-kapaṭaiḥ sampuṭite** (filled with deep guile) **asmin ābhīra-pallī-viṭe** (in this Kṛṣṇa, the gallant [*viṭa*] who seeks the love of the cowherd women, the beauties of Vraja) **tava garīyān** (great) **premā katham abhūt** (how did it arise)? (Let others love Him, whose minds are blinded by amorous desire, but for You, the wise one, this is not fitting — this is the sense.)
+
+---
+
+[^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
