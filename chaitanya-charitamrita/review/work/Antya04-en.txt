@@ -864,6 +864,7 @@ tr: Think what you are — an authority, versed in the scriptures! And what is J
 w: even Me  to convince  you  possess  the power
 w: in how many  places  you have made Me understand  propriety in devotion
 tr: You have the power to convince even Me. On so many occasions you have made Me understand the propriety of devotional conduct (*vyavahāra-bhakti*).
+fn: *Anubhāṣya*: *vyavahāra-bhakti* — the showing of propriety (*maryādā*), the conduct of the cultured (*śiṣṭācāra*); for such occasions see Madhya 1.222–224 or 16.266.
 
 ## 169
 w: you  advice  he gives  not  can be  borne
@@ -900,7 +901,8 @@ w: what  good  what  bad  or
 w: of duality  of the unreal  how much
 w: by speech  spoken  that  untrue
 w: by the mind  conceived  indeed  and
-tr: “What is good and what is bad, and how much of either, in duality, which is unreal? Whatever is spoken by speech or conceived by the mind is untrue.” (Śrīmad-Bhāgavatam, 11.28.4)
+tr: “In duality, which has no true being, what is good and what is bad, and how much of either? Whatever is uttered in words or conceived by the mind is passing and untrue.” (Śrīmad-Bhāgavatam, 11.28.4)
+fn: *Anubhāṣya*: whatever is spoken in words, seen by the senses or conceived by the mind is transitory, not true for all time; whatever is other than the non-dual Truth has no separate being. *Amṛta-pravāha-bhāṣya*: duality is a perception not of Kṛṣṇa, the non-dual Truth, but of something else, born of māyā; in the perception of the non-dual Truth there is no ‘good’ and ‘bad’.
 
 ## 176
 w: in duality  of good and bad  the notion  all  mental speculation
@@ -913,13 +915,15 @@ w: in a brāhmaṇa  in a cow  in an elephant
 w: in a dog  and indeed  in a dog-eater  and
 w: the wise  see equally
 tr: “The wise see with an equal eye a brāhmaṇa endowed with learning and humility, a cow, an elephant, a dog and a dog-eater.” (Bhagavad-gītā, 5.18)
+fn: *Anubhāṣya*: *paṇḍitāḥ* — those who know what bondage is and what liberation; *sama-darśinaḥ* — those whose nature is to see one and the same Brahman in all.
 
 ## 178
-w: by knowledge and realization  satisfied in self
+w: by knowledge and realisation  satisfied in self
 w: unchanging  with senses conquered
 w: engaged  thus  is called  a yogī
 w: to whom a clod  a stone  and gold  are the same
-tr: “One whose self is satisfied with knowledge and realization, who is unchanging (*kūṭastha*) and has conquered the senses, and to whom a clod of earth, a stone and gold are the same, is called a yogī established in yoga.” (Bhagavad-gītā, 6.8)
+tr: “One whose self is satisfied with knowledge and realisation, who is unchanging (*kūṭastha*) and has conquered the senses, and to whom a clod of earth, a stone and gold are the same, is called a yogī established in yoga.” (Bhagavad-gītā, 6.8)
+fn: *Anubhāṣya*: *jñāna* — knowledge received through instruction, *vijñāna* — direct realisation; *yuktaḥ* — established in yoga (*yoga-ārūḍha*).
 
 ## 179
 w: I  indeed  am a sannyāsī  My  equal vision  the duty
@@ -944,12 +948,13 @@ tr: That You have accepted all of us fallen souls proclaims Your quality of comp
 ## 183
 w: the Lord  smiling  says  hear  Haridāsa  Sanātana
 w: truly  I tell  about you  My  how  mind
-tr: The Lord smiled and said, “Listen, Haridāsa and Sanātana. I shall tell you truly how My heart is toward you.
+tr: The Lord smiled and said, “Listen, Haridāsa and Sanātana. I shall tell you truly what My heart feels for you.
 
 ## 184
 w: you  as the cherished  Myself  as the one who cherishes  the conception
 w: of the one who cherishes  in the cherished  is not  of faults  the perception
 tr: I think of you as those I cherish (*lālya*), and of Myself as the one who cherishes you (*lālaka*). The one who cherishes does not perceive faults in those he cherishes.
+fn: *Anubhāṣya*: out of affection the one who cherishes does not notice the faults of the one he cherishes, even if they are there.
 
 ## 185
 w: toward Myself  is  My  like one not to be honored
@@ -989,7 +994,7 @@ tr: The Lord said, “A Vaiṣṇava’s body is never material. A devotee’s b
 ## 192
 w: at the time of initiation  the devotee  makes  self-surrender
 w: at that time  Kṛṣṇa  him  makes  like Himself
-tr: At the time of initiation (*dīkṣā*) the devotee surrenders himself, and at that very time Kṛṣṇa makes him like Himself.
+tr: At the time of initiation (*dīkṣā*) the devotee surrenders himself, and at that very time Kṛṣṇa makes him His own, like Himself (*ātma-sama*).
 
 ## 193
 w: that  body  makes  his  full of spirit and bliss
@@ -1002,6 +1007,7 @@ w: having offered himself  whom I wish to exalt  by Me
 w: then  immortality  attaining
 w: with Me  for a nature like Mine  and  becomes fit  indeed
 tr: “When a mortal gives up all works and offers himself to Me, I wish to exalt him. Then he attains immortality and becomes fit to share with Me a nature like My own.” (Śrīmad-Bhāgavatam, 11.29.34)
+fn: The same verse as Madhya 22.100; translation as there. The reference follows the edition heading; the *Anubhāṣya* refers to Madhya 22.101 in the edition’s numbering (22.100 in ours).
 
 ## 195
 w: of Sanātana  in the body  Kṛṣṇa  sores  producing
@@ -1017,11 +1023,12 @@ tr: Had I felt disgust and not embraced him, I would have become an offender to 
 w: of an associate  the body  this  not  is  foul smell
 w: on the first  day  I perceived  of catuḥsama  the fragrance
 tr: This is the body of an associate (*pārṣada*); it has no foul smell. On the very first day I perceived the fragrance of *catuḥsama*.”
+fn: *Anubhāṣya*: *catuḥsama* is a perfume of two parts musk, four of sandal, three of *kuṅkuma* (saffron) and one of camphor (*Garuḍa Purāṇa*; see *Hari-bhakti-vilāsa*, 6.115). *Anubhāṣya*: only to a sense of smell led by a mind turned toward worldly enjoyment could the body of Sanātana, an associate wholly given to Kṛṣṇa’s service, seem foul.
 
 ## 198
 w: in truth  the Lord  when  made  embrace
 w: by His  touch  the fragrance  became  of sandal  like
-tr: In truth, when the Lord embraced him, His touch made the fragrance like that of sandalwood.
+tr: In truth, when the Lord embraced him, His touch gave him the fragrance of sandalwood.
 
 ## 199
 w: the Lord  says  Sanātana  not  feel  sorrow
@@ -1047,6 +1054,7 @@ tr: Seeing this, Haridāsa was amazed at heart and said to the Lord, “This is 
 w: that  of Jhārikhaṇḍa  the water  You  made him drink
 w: that  water  as the pretext  his  sores  You produced
 tr: It was You who made him drink that water of Jhārikhaṇḍa, and with that water as a pretext You produced his sores.
+fn: *Anubhāṣya*: *pānī-lakṣye* — making the drinking water of Jhārikhaṇḍa the pretext. Edition heading to 202: Sanātana’s body, wholly guided by the Lord’s will, only displayed to the eye of the senses the suffering of oozing sores.
 
 ## 204
 w: sores  producing  test  You made  of Sanātana
