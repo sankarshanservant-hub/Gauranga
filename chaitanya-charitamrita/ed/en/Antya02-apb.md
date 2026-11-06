@@ -10,7 +10,7 @@ I worship the lotus feet of Śrī Guru, and all the gurus, all the Vaiṣṇavas
 
 ## 3–4
 
-The Lord delivers the *jīvas* in three ways: to some He gives direct *darśana*, into some worthy devotee He enters (*āviṣṭa*), and to some devotee He appears (*āvirbhūta*).[^3-4-1]
+The Lord delivers the *jīvas* in three ways: to some He gives direct *darśana*, into some worthy devotee He enters (*āviṣṭa*), and to some devotee He appears (*āvirbhūta*).
 
 ## 16
 
@@ -74,6 +74,3 @@ If a Vaiṣṇava *sādhaka* who wears the *bhek* deliberately looks at women, h
 
 *Thus ends the second chapter of the “Amṛta-pravāha-bhāṣya.”*
 
----
-
-[^3-4-1]: The verse translation reads differently: there *āvirbhāva* is taken as the Lord manifesting Himself in several places at once.
