@@ -1,0 +1,443 @@
+# English translation, Antya-līlā 2 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Basis: stage-A English (ed/en/work/Antya02.txt, .p2.txt), revised against the Bengali and the Anubhāṣya. Format: tools/build_rev.py.
+# Shift 1: verses 1–86; shift 2: 87–172.
+
+## 0
+tr: The Lesson Taught by the Punishment of Śrī Haridāsa
+
+## 1
+w: I bow down  of my śrī guru  the beautiful lotus feet  to the śrī gurus  to the Vaiṣṇavas  and
+w: to Śrī Rūpa  with his elder brother  with Raghunātha and his companions  to him  with Jīva
+w: with Advaita  with the Avadhūta  with His associates  together  to Kṛṣṇa Caitanyadeva
+w: of Śrī Rādhā and Kṛṣṇa  to the feet  with Their companions  with Lalitā  and Śrī Viśākhā  and
+tr: I bow down to the beautiful lotus feet of my guru, to all the gurus and to the Vaiṣṇavas. I bow down to Śrī Rūpa, together with his elder brother, Sanātana, with his companions and Raghunātha, and with Jīva; to Śrī Kṛṣṇa Caitanyadeva, together with Advaita, with the Avadhūta, Nityānanda, and with all His associates; and to the feet of Śrī Rādhā and Kṛṣṇa, together with Lalitā and Śrī Viśākhā and their companions.
+fn: This same verse opens Antya 3. *Anubhāṣya*: the śrī guru is the guru who gave initiation into the mantra, or the guru who instructs in bhajana; the gurus are the whole line of gurus (the parama-guru and those before him), headed by Śrīmad Ānandatīrtha and Śrīman Mādhavendra Purī; the Vaiṣṇavas are the bhāgavatas of all four yugas; Śrī Rūpa is honoured with his elder brother Sanātana, with his own devotees and Raghunātha dāsa, and with Jīva, whom he blessed; the companions of Lalitā and Viśākhā are the sakhīs and mañjarīs.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+## 3
+w: all  the worlds  to deliver  Gaura’s  descent
+w: of deliverance  the means  His  three  kinds
+tr: Gaura descended to deliver all the worlds, and the means by which He delivered them were of three kinds.
+
+## 4
+w: direct  sight  and  in a worthy  devotee-soul
+w: ‘entering’  He makes  somewhere  somewhere  by ‘appearing’
+tr: To some He granted the sight of Himself in person; in some places He made His ‘āveśa’, entering a worthy devotee; and in others His ‘āvirbhāva’, appearing before a devotee.
+fn: The three means: direct sight (*sākṣāt-darśana*), entering (*āveśa*) and appearance (*āvirbhāva*). The Gauḍīya Maṭha edition reads *kāṅhā, kāṅhā*, “in some places… in others”. The edition’s heading: (1) direct darśana, (2) entering (*āveśa*) a worthy soul, (3) appearance (*āvirbhāva*). *Amṛta-pravāha-bhāṣya*: to one the Lord grants direct darśana, into another worthy devotee He enters, and to yet another He appears.
+
+## 5
+w: by direct  sight  almost  all  He delivered
+w: of Nakula  Brahmacārī  in the body  ‘entered’  He
+tr: By being seen in person He delivered almost everyone; and He ‘entered’ the body of Nakula Brahmacārī.
+
+## 6
+w: of Pradyumna Nṛsiṁhānanda  before  He made  ‘appearance’
+w: ‘the people  I shall deliver’  —  this  of the Lord  the nature
+tr: To Pradyumna Nṛsiṁhānanda He made His ‘āvirbhāva’, appearing before him. “I shall deliver the people” — such is the Lord’s nature.
+
+## 7
+w: by direct  sight  the whole  world  He delivered
+w: once  who  saw  he  fulfilled  became
+tr: By being seen in person He delivered the whole world: whoever saw Him even once attained the goal of life.
+
+## 8
+w: of Gauḍa  the devotees  every year  coming
+w: again  to Gauḍa  go  with the Lord  having met
+tr: Every year the devotees of Gauḍa would come, meet the Lord and go back again to Gauḍa.
+
+## 9
+w: and  of many  lands  the people  coming  to Jagannātha
+w: Caitanya’s  feet  seeing  became  fulfilled
+tr: And people from many lands came to Jagannātha; seeing Caitanya’s feet, they attained the goal of life.
+
+## 10
+w: of the seven dvīpas  the people  and  of the nine khaṇḍas  the dwellers
+w: devas  gandharvas  kinnaras  in human  guise  coming
+tr: People came from the seven island-continents (dvīpas) and the nine regions of Bhārata-varṣa, and devas, gandharvas and kinnaras came too, in human guise.
+fn: *Anubhāṣya*: on the seven dvīpas see the *Anubhāṣya* on Madhya 20.218 and *Bhāgavatam* 5.16 and 5.20; the nine khaṇḍas of Bhārata-varṣa, according to the *Siddhānta-śiromaṇi* (*Golādhyāya*, *Bhuvana-kośa*), are Aindra, Kaśeru, Tāmraparṇa, Gabhastimat, Kumārikā, Nāga, Saumya, Vāruṇa and Gāndharva.
+
+## 11
+w: the Lord  seeing  they go  Vaiṣṇavas  becoming
+w: ‘Kṛṣṇa’  saying  dance  all  by prema  overwhelmed
+tr: Seeing the Lord, they went away as Vaiṣṇavas; crying “Kṛṣṇa!”, they all danced, overwhelmed by prema.
+
+## 12
+w: in this way  by sight  the three worlds  delivering
+w: those who  any  to come  could not  many  worldly people
+tr: In this way, by being seen, He delivered the three worlds. But there were many worldly people who could not come.
+
+## 13
+w: them  all  to deliver  the Lord  in those  all  lands
+w: in the bodies of worthy devotee-souls  makes  ‘entering’
+tr: To deliver them, in all those lands the Lord made His ‘āveśa’, entering the bodies of worthy devotees.
+
+## 14
+w: in that  soul  His own power  makes  manifest
+w: his  by the sight  Vaiṣṇavas  become  in all lands
+tr: In that soul He would manifest His own power, and by seeing him people in every land became Vaiṣṇavas.
+fn: The Gauḍīya Maṭha edition reads *nija-śakti*, “His own power” (another reading: *nija-bhakti*).
+
+## 15
+w: in this way  by entering  He delivered  the three worlds
+w: in Gauḍa  how  the entering  I make  a brief indication
+tr: Thus, by His āveśa, He delivered the three worlds. I shall show in brief, as an example, how His āveśa took place in Gauḍa.
+
+## 16
+w: in the Āmbuyā  district  there is  Nakula Brahmacārī
+w: a supreme  Vaiṣṇava  he  great  in standing
+tr: In the district of Āmbuyā lived Nakula Brahmacārī, a supreme Vaiṣṇava of very high standing.
+fn: *Amṛta-pravāha-bhāṣya*: a *muluk* was a district with a revenue office of the Yavana rulers; the Āmbuyā *muluk* was at Ambikā, a village by the town of Kālnā (Barddhamāna district), and Nakula Brahmacārī lived where Piyārīgañja now stands.
+
+## 17
+w: of Gauḍa  the people  to deliver  the wish  arose
+w: in Nakula’s  heart  the Lord  ‘entering’  made
+tr: Wishing to deliver the people of Gauḍa, the Lord made His ‘āveśa’ in Nakula’s heart.
+
+## 18
+w: as if possessed by a spirit  Nakula  by prema  overwhelmed  being
+w: laughs  weeps  dances  sings  mad  being
+tr: Overwhelmed by prema, Nakula became as if possessed by a spirit: like a madman he laughed, wept, danced and sang.
+
+## 19
+w: tears  trembling  stupor  perspiration  the sāttvika  transformations
+w: constant  in prema  dancing  frequent  roars
+tr: Tears, trembling, stupor and perspiration — the sāttvika transformations — appeared in him; in prema he danced constantly and roared again and again.
+
+## 20
+w: the same  golden lustre  the same  always  absorption in prema
+w: that  to see  comes  all  Gauḍa
+tr: He had the same golden lustre as the Lord and the same constant absorption in prema, and all Gauḍa came to see it.
+
+## 21
+w: whom  he sees  to him  says  say  Kṛṣṇa’s name
+w: his  by the sight  the people  become  wild with prema
+tr: Whomever he met he would tell, “Chant the name of Kṛṣṇa!” — and at the sight of him people became wild with prema.
+fn: The first line is the same as in Ādi 13.30 and Madhya 7.101. *Anubhāṣya*: *premoddāma* — intoxicated with prema.
+
+## 22
+w: of Caitanya  the entering  is  in Nakula’s  body
+w: hearing  Śivānanda  came  having  doubt
+tr: Hearing that Caitanya had entered Nakula’s body, Śivānanda came, doubting it.
+
+## 23
+w: a test  to make  his  when  the wish  arose
+w: outside  staying  then  reflection  he made
+tr: Wishing to test him, he stayed outside and reflected:
+
+## 24–25
+w: himself  he calls  me  this  if  I know
+w: my  iṣṭa-mantra  knowing  he tells  himself
+w: then  I know  in him  is  Caitanya’s entering
+w: so  thinking  Śivānanda  stayed  at a distance
+tr: “If he calls me of his own accord, and if, knowing my iṣṭa-mantra, he tells it to me himself, then I shall know that Caitanya has entered him.” Thinking thus, Śivānanda stayed at a distance.
+
+## 26
+w: countless  of people  the throng  —  some  come  go
+w: of people  in the press  some  sight  not  get
+tr: There was a vast throng of people, some coming, some going; in the press of the crowd some could not even see him.
+
+## 27
+w: the brahmacārī  says  —  Śivānanda  is  far off
+w: people  two  four  go  call  him
+tr: The brahmacārī said, “Śivānanda is standing far off. A few of you go and call him.”
+
+## 28
+w: in four directions  run  the people  ‘Śivānanda’  crying
+w: ‘Śivānanda’  who is  you  calls  the brahmacārī
+tr: The people ran in every direction, crying, “Śivānanda! Who is Śivānanda? The brahmacārī is calling you!”
+
+## 29
+w: hearing  Śivānanda  Sena  there  quickly  came
+w: obeisance  having made  him  near  sat
+tr: Hearing this, Śivānanda Sena quickly came there, offered his obeisances and sat down near him.
+
+## 30
+w: the brahmacārī  says  —  you  made  doubt
+w: with one mind  being  that  hear  with certainty
+tr: The brahmacārī said, “You have doubted. Now listen with undivided attention, and be certain of this.
+
+## 31
+w: the ‘Gaura-Gopāla mantra’  your  of four syllables
+w: disbelief  give up  which  you have made  within
+tr: Your mantra is the ‘Gaura-Gopāla mantra’ of four syllables. Give up the disbelief you have kept in your heart.”
+fn: *Amṛta-pravāha-bhāṣya*: those devoted to Gaura take the Gaura-Gopāla mantra to be the four-syllable mantra of Gaura, “Gaurāṅga”; those who hold to Kṛṣṇa alone take it to be the four-syllable mantra of Rādhā-Kṛṣṇa.
+
+## 32
+w: then  in Śivānanda’s  mind  conviction  arose
+w: much  respect  showing  great  devotion  he showed
+tr: Then conviction arose in Śivānanda’s mind, and he showed him great respect and much devotion.
+
+## 33
+w: such  Mahāprabhu’s  inconceivable  power
+w: now  hear  the Lord’s  how  takes place  ‘appearance’
+tr: Such is the inconceivable power of Mahāprabhu. Now hear how the Lord makes His ‘āvirbhāva’, His appearance.
+
+## 34–35
+w: in Śacī’s  house  and  at Nityānanda’s  dancing
+w: at Śrīvāsa’s  kīrtana  and  in Rāghava’s  home
+w: in these  four  places  the Lord’s  always  ‘appearance’
+w: by prema drawn  He is  —  the Lord’s  innate  nature
+tr: In Śacī’s house, at Nityānanda’s dancing, at Śrīvāsa’s kīrtana and in Rāghava’s home — in these four places the Lord always makes His ‘āvirbhāva’. He is drawn by prema: that is the Lord’s innate nature.
+
+## 36
+w: of Nṛsiṁhānanda  before  appearing
+w: a meal  He took  that  hear  attentively
+tr: Appearing before Nṛsiṁhānanda, He took a meal. Hear of it attentively.
+
+## 37
+w: Śivānanda’s  nephew  Śrīkānta Sena  by name
+w: by the Lord’s  mercy  he  very  fortunate
+tr: Śivānanda’s nephew was named Śrīkānta Sena; by the Lord’s mercy he was most fortunate.
+
+## 38
+w: one  year  he  for the first time  alone
+w: the Lord  to see  came  with longing  in his heart
+tr: One year he came first, all alone, to see the Lord, his heart full of longing.
+
+## 39
+w: Mahāprabhu  him  seeing  great  mercy  showed
+w: about two months  he  of the Lord  near  stayed
+tr: When Mahāprabhu saw him, He showed him great mercy, and he stayed near the Lord for about two months.
+
+## 40
+w: then  the Lord  him  order  gave  to Gauḍa  to go
+w: the devotees  He forbade  here  to come
+tr: Then the Lord ordered him to go to Gauḍa, and He forbade the devotees to come here:
+
+## 41
+w: this year  there  I  shall go  Myself
+w: there  I shall meet  all  with Advaita and the others
+tr: “This year I shall go there Myself, and there I shall meet everyone — Advaita and all the others.
+
+## 42
+w: to Śivānanda  say  —  I  this  in Pauṣa month
+w: unexpectedly  certainly  I  shall come  his  to the side
+tr: Tell Śivānanda that this month of Pauṣa I shall certainly come to him unexpectedly.
+
+## 43
+w: Jagadānanda  is  there  he  alms  will give
+w: to all  say  —  this  year  anyone  not  shall come
+tr: Jagadānanda is there, and he will offer Me bhikṣā. And tell everyone that no one is to come this year.”
+
+## 44
+w: Śrīkānta  coming  to Gauḍa  the message  told
+w: hearing  in the devotees’ minds  joy  arose
+tr: Śrīkānta came to Gauḍa and delivered the message, and when the devotees heard it, their hearts were filled with joy.
+
+## 45
+w: had been setting out  the Ācārya  remained  still  being
+w: Śivānanda  Jagadānanda  remain  expectation  making
+tr: Advaita Ācārya, who had been setting out, stayed where He was, and Śivānanda and Jagadānanda remained, waiting in expectation.
+
+## 46
+w: Pauṣa  month  came  the two  provisions  having made
+w: until evening  remain  waiting
+tr: When the month of Pauṣa came, the two of them made all the preparations and waited until evening.
+
+## 47
+w: so  the month  passed  the Gosāñi  not  came
+w: Jagadānanda  Śivānanda  sorrowful  became
+tr: In this way the month passed, and the Lord did not come. Jagadānanda and Śivānanda became sorrowful.
+
+## 48
+w: unexpectedly  Nṛsiṁhānanda  there  came
+w: the two  him  meeting  then  in a place  seated
+tr: Unexpectedly Nṛsiṁhānanda arrived there. The two of them received him and gave him a seat.
+
+## 49
+w: the two  unhappy  seeing  to them  says  Nṛsiṁhānanda
+w: you  both  why  I see  joyless
+tr: Seeing them both unhappy, Nṛsiṁhānanda said to them, “Why do I see you both so joyless?”
+
+## 50
+w: then  Śivānanda  to him  everything  told
+w: ‘I shall come’  word  having given  the Lord  why  not  came
+tr: Then Śivānanda told him everything: “The Lord gave His word that He would come. Why has He not come?”
+
+## 51
+w: hearing  the brahmacārī  says  —  be  content
+w: I  indeed  shall bring  Him  on the third  day
+tr: Hearing this, the brahmacārī said, “Be content. I shall bring Him on the third day.”
+
+## 52
+w: his  power  prema  know  both of them
+w: he will bring  the Lord  now  certainty  they made  in mind
+tr: Both of them knew his power and his prema, and they were certain in their minds that he would now bring the Lord.
+
+## 53
+w: ‘Pradyumna Brahmacārī’  —  his  own name
+w: ‘Nṛsiṁhānanda’  the name  his  made  Gaura-dhāma
+tr: His own name was Pradyumna Brahmacārī; it was Gaura, the golden Lord, who named him Nṛsiṁhānanda.
+
+## 54
+w: two days  meditation  having made  to Śivānanda  he said
+w: to Pāṇihāṭi  village  I  the Lord  have brought
+tr: After meditating for two days, he said to Śivānanda, “I have brought the Lord to the village of Pāṇihāṭi.
+
+## 55
+w: tomorrow  at noon  He  will come  your  to the house
+w: cooking  provisions  bring  I  bhikṣā  shall give  to Him
+tr: Tomorrow at noon He will come to your house. Bring the provisions for cooking; I shall offer Him bhikṣā.
+
+## 56
+w: then  Him  here  I  shall bring  quickly
+w: with certainty  I have said  any  doubt  not  make
+tr: Then I shall quickly bring Him here. I tell you this with certainty — have no doubt at all.
+
+## 57
+w: what  I require  that  do  being  prompt
+w: very  quickly  I shall do  cooking  hear  further
+tr: Whatever I require, provide it promptly. I shall cook very quickly. Listen further.
+
+## 58
+w: cooking  provisions  bring  I  what  want
+w: what  he asked  Śivānanda  bringing  gave  that
+tr: Bring the provisions for cooking — whatever I ask for.” And whatever he asked for, Śivānanda brought and gave him.
+
+## 59
+w: morning  from  cooking  he did  without limit
+w: many  soups  vegetable dishes  cakes  sweet-rice  offerings
+tr: From early morning he cooked without limit: many kinds of soup and vegetable dishes, cakes, and offerings of sweet rice.
+
+## 60
+w: of Jagannātha  distinct  offering  separately  he served out
+w: Caitanya  Prabhu  for  another  offering  he made
+tr: He set out an offering for Jagannātha on its own, and he prepared another offering for Caitanya Prabhu.
+
+## 61
+w: for his worshipful Deity  Nṛsiṁha  for  separately  he served out
+w: to the three  having offered  outside  meditation  he did
+tr: For his worshipful Deity, Nṛsiṁha, he set out a separate one. Having offered the food to all three, he sat outside and meditated.
+
+## 62
+w: he sees  quickly  coming  sat down  Caitanya Gosāñi
+w: the three  offerings  He ate  anything  left over  not
+tr: He saw Caitanya Gosāñi quickly come and sit down. He ate all three offerings, and nothing was left.
+
+## 63
+w: with bliss  overwhelmed  Pradyumna  fall  streams of tears
+w: alas, alas  what  You do  saying  cries out
+tr: Overwhelmed with bliss, Pradyumna shed streams of tears, and he cried out, “Alas, alas! What are You doing?
+
+## 64
+w: Jagannātha and You  are one  You eat  His  offering
+w: Nṛsiṁha’s  offering  why  do You  consume
+tr: You and Jagannātha are one, so You may eat His offering. But why do You take Nṛsiṁha’s offering?
+
+## 65
+w: for Nṛsiṁha  there was  I know  today  a fast
+w: the master  fasting  remains  live  how  the servant
+tr: I see that today Nṛsiṁha has had to fast. If the master goes without food, how can his servant live?”
+
+## 66
+w: the meal  seeing  although  his  in the heart  joy
+w: Nṛsiṁha  for the sake of  outwardly  some  makes  show of sorrow
+tr: Although his heart rejoiced at seeing the Lord eat, outwardly, for Nṛsiṁha’s sake, he made some show of sorrow.
+
+## 67
+w: Svayaṁ  Bhagavān  Kṛṣṇa Caitanya Gosāñi
+w: with Jagannātha and Nṛsiṁha  any  difference  is not
+tr: Kṛṣṇa Caitanya Gosāñi is Svayaṁ Bhagavān, the Supreme Lord Himself: between Him and Jagannātha and Nṛsiṁha there is no difference at all.
+
+## 68
+w: this  to know  of Pradyumna  secret  was  the wish
+w: that  showed  the Lord  doing  eating
+tr: Pradyumna had a secret wish to know this, and the Lord showed it to him by eating the offerings.
+fn: The edition’s heading (on 67): by eating the three offerings the Lord showed Pradyumna in this pastime that He is one with all the viṣṇu-tattvas.
+
+## 69
+w: the meal  having taken  the Lord  went  to Pāṇihāṭi
+w: pleasure  He felt  seeing  of the dishes  the excellence
+tr: Having eaten, the Lord went to Pāṇihāṭi, pleased by the excellence of the dishes.
+fn: The dishes are those Nṛsiṁhānanda had cooked (cf. 77). The edition’s heading: after the meal the Lord goes to Pāṇihāṭi, to Rāghava’s house, where He is ever present.
+
+## 70
+w: Śivānanda  says  —  why  do you  cry out
+w: the brahmacārī  says  —  see  of the Lord  the conduct
+tr: Śivānanda said, “Why are you crying out?” The brahmacārī said, “Look at the Lord’s conduct!
+
+## 71
+w: of three  persons  the offerings  He  alone  ate
+w: Jagannātha and Nṛsiṁha  fasting  became
+tr: He alone has eaten the offerings meant for all three, and Jagannātha and Nṛsiṁha have been left fasting.”
+
+## 72
+w: hearing  in Śivānanda’s  mind  arose  doubt
+w: whether  in the ecstasy of prema  he speaks  or  true  it is
+tr: When Śivānanda heard this, a doubt arose in his mind: was the brahmacārī speaking in the ecstasy of prema, or was it true?
+
+## 73
+w: then  to Śivānanda  something  says  the brahmacārī
+w: the provisions  bring  for Nṛsiṁha  again  cooking  I will do
+tr: Then the brahmacārī said to Śivānanda, “Bring the provisions; I shall cook for Nṛsiṁha once more.”
+
+## 74
+w: then  Śivānanda  for the offering  provisions  brought
+w: cooking  having done  to Nṛsiṁha  the offering  he presented
+tr: Śivānanda then brought the provisions for the offering, and the brahmacārī cooked and offered the food to Nṛsiṁha.
+
+## 75
+w: in the following year  Śivānanda  taking  the devotees
+w: in Nīlācala  sees  going  the Lord’s  feet
+tr: The following year Śivānanda took the devotees to Nīlācala and saw the Lord’s feet.
+
+## 76
+w: one day  in the assembly  the Lord  the subject  brought up
+w: Nṛsiṁhānanda’s  virtues  to tell  He began
+tr: One day, in the assembly, the Lord brought up the subject and began to speak of Nṛsiṁhānanda’s virtues:
+
+## 77
+w: last year  in Pauṣa  Me  he made  eat
+w: ever  not  I ate  such  sweets  vegetable dishes
+tr: “Last year, in Pauṣa, he fed Me. Never have I eaten such sweets and vegetable dishes.”
+
+## 78
+w: hearing  the devotees  in mind  wonder  felt
+w: in Śivānanda’s  mind  then  conviction  was born
+tr: Hearing this, the devotees were filled with wonder, and then conviction was born in Śivānanda’s mind.
+
+## 79
+w: in this way  in Śacī’s house  constantly  He eats
+w: in Śrīvāsa’s  house  He does  the seeing of kīrtana
+tr: In the same way He constantly takes His meals in Śacī’s house, and in Śrīvāsa’s house He watches the kīrtana.
+
+## 80
+w: Nityānanda’s  dancing  He watches  coming  again and again
+w: ‘constant  appearance’  in Rāghava’s  house
+tr: Again and again He comes to watch Nityānanda’s dancing, and in Rāghava’s house His ‘āvirbhāva’ is constant.
+
+## 81
+w: by prema controlled  Gaura Prabhu  where  the highest prema
+w: by prema  controlled  being  there  He gives  His sight
+tr: Gaura Prabhu is controlled by prema: wherever there is the highest prema, there, controlled by it, He gives His darśana.
+
+## 82
+w: Śivānanda’s  the extent of prema  who  to tell  can
+w: by whose  prema  controlled  the Lord  comes  again and again
+tr: Who can tell the full extent of Śivānanda’s prema? Controlled by his prema, the Lord comes to him again and again.
+
+## 83
+w: thus  indeed  I have told  of Gaura  the ‘appearance’
+w: this  whoever  hears  knows  Caitanya’s  power
+tr: Thus I have told of Gaura’s ‘āvirbhāva’. Whoever hears of it comes to know Caitanya’s power.
+
+## 84
+w: in Puruṣottama  near the Lord  Bhagavān Ācārya
+w: a supreme  Vaiṣṇava  he  very learned  noble
+tr: In Puruṣottama, near the Lord, lived Bhagavān Ācārya, a supreme Vaiṣṇava, very learned and noble.
+fn: *Anubhāṣya*: on Bhagavān Ācārya see Ādi 10.136.
+
+## 85
+w: by the mood of friendship  overcome  his heart  of a cowherd boy  an incarnation
+w: with Svarūpa Gosāñi  friendly  dealings
+tr: His heart was filled with the mood of friendship (sakhya); he was an incarnation of a cowherd boy, and he was a close friend of Svarūpa Gosāñi.
+
+## 86
+w: with single-minded devotion  has taken shelter  of Caitanya’s feet
+w: from time to time  the Lord  he  makes  an invitation
+tr: He had taken shelter at Caitanya’s feet with single-minded devotion, and from time to time he would invite the Lord for a meal.
+
