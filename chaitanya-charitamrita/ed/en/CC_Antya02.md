@@ -1,0 +1,1440 @@
+“Śrī Caitanya-caritāmṛta”  
+Antya-līlā  
+Chapter 2  
+**The Punishment of Choṭa Haridāsa**  
+(translated from the Bengali for this edition)
+
+বন্দেঽহং শ্রীগুরোঃ শ্রীযুতপদকমলং শ্রীগুরূন্ বৈষ্ণবাংশ্চ  
+শ্রীরূপং সাগ্রজাতং সহগণরঘুনাথান্বিতং তং সজীবম্ ৷  
+সাদ্বৈতং সাবধূতং পরিজনসহিতং কৃষ্ণচৈতন্যদেবং  
+শ্রীরাধাকৃষ্ণপাদান্ সহগণললিতা-শ্রীবিশাখান্বিতাংশ্চ ॥ ১ ॥
+
+vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurūn vaiṣṇavāṁś ca  
+I bow down  of my śrī guru  the beautiful lotus feet  to the śrī gurus  to the Vaiṣṇavas  and  
+śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-raghunāthānvitaṁ taṁ sa-jīvam  
+to Śrī Rūpa  with his elder brother  with Raghunātha and his companions  to him  with Jīva  
+sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇa-caitanya-devaṁ  
+with Advaita  with the Avadhūta  with His associates  together  to Kṛṣṇa Caitanyadeva  
+śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā-śrī-viśākhānvitāṁś ca  
+of Śrī Rādhā and Kṛṣṇa  to the feet  with Their companions  with Lalitā  and Śrī Viśākhā  and
+
+(1) I bow down to the beautiful lotus feet of my śrī guru, to the śrī gurus and to the Vaiṣṇavas; to Śrī Rūpa, together with his elder brother (Sanātana), with Raghunātha and his companions and with Jīva; to Śrī Kṛṣṇa Caitanyadeva, together with Advaita, with the Avadhūta (Nityānanda) and with His associates; and to the feet of Śrī Rādhā and Kṛṣṇa, together with Their companions, Lalitā and Śrī Viśākhā.
+
+জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
+জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
+
+jaya jaya śrī-caitanya jaya nityānanda  
+glory  glory  to Śrī Caitanya  glory  to Nityānanda  
+jayādvaitacandra jaya gaura-bhakta-vṛnda  
+glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+
+(2) Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+
+সর্ব্ব-লোক উদ্ধারিতে গৌর-অবতার ৷  
+নিস্তারের হেতু তার ত্রিবিধ প্রকার ॥ ৩ ॥
+
+sarva-loka uddhārite gaura-avatāra  
+all  the worlds  to deliver  Gaura’s  descent  
+nistārera hetu tāra trividha prakāra  
+of deliverance  the means  His  three  kinds
+
+(3) Gaura descended to deliver all the worlds, and the means by which He delivered them were of three kinds.
+
+সাক্ষাৎ-দর্শন, আর যোগ্যভক্ত-জীবে ৷  
+‘আবেশ’ করয়ে কাঁহা, কাঁহা ‘আবির্ভাবে’ ॥ ৪ ॥
+
+sākṣāt-darśana, āra yogya-bhakta-jīve  
+direct  sight  and  in a worthy  devotee-soul  
+‘āveśa’ karaye kāṅhā, kāṅhā ‘āvirbhāve’  
+‘entering’  He makes  somewhere  somewhere  by ‘appearing’
+
+(4) He delivered by being seen in person; and in some places He made His ‘āveśa’, entering a worthy devotee, and in others He delivered by His ‘āvirbhāva’, appearing Himself.
+
+সাক্ষাৎ-দর্শনে প্রায় সব নিস্তারিলা ৷  
+নকুল-ব্রহ্মচারীর দেহে ‘আবিষ্ট’ হইলা ॥ ৫ ॥
+
+sākṣāt-darśane prāya saba nistārilā  
+by direct  sight  almost  all  He delivered  
+nakula-brahmacārīra dehe ‘āviṣṭa’ hailā  
+of Nakula  Brahmacārī  in the body  ‘entered’  He
+
+(5) By being seen in person He delivered almost everyone; and He ‘entered’ the body of Nakula Brahmacārī.
+
+প্রদ্যুম্ন-নৃসিংহানন্দ আগে কৈলা ‘আবির্ভাব’ ৷  
+‘লোক নিস্তারিব’, — এই ঈশ্বর-স্বভাব ॥ ৬ ॥
+
+pradyumna-nṛsiṁhānanda āge kailā ‘āvirbhāva’  
+of Pradyumna Nṛsiṁhānanda  before  He made  ‘appearance’  
+‘loka nistāriba’, — ei īśvara-svabhāva  
+‘the people  I shall deliver’  —  this  of the Lord  the nature
+
+(6) Before Pradyumna Nṛsiṁhānanda He made His ‘āvirbhāva’ (appeared). “I shall deliver the people” — such is the nature of the Lord.
+
+সাক্ষাৎ-দর্শনে সব জগৎ তারিলা ৷  
+একবার যে দেখিলা, সে কৃতার্থ হইলা ॥ ৭ ॥
+
+sākṣāt-darśane saba jagat tārilā  
+by direct  sight  the whole  world  He delivered  
+eka-bāra ye dekhilā, se kṛtārtha hailā  
+once  who  saw  he  fulfilled  became
+
+(7) By being seen in person He delivered the whole world: whoever saw Him even once attained the goal of life.
+
+গৌড়-দেশের ভক্তগণ প্রত্যব্দ আসিয়া ৷  
+পুনঃ গৌড়দেশে যায় প্রভুরে মিলিয়া ॥ ৮ ॥
+
+gauḍa-deśera bhakta-gaṇa pratyabda āsiyā  
+of Gauḍa  the devotees  every year  coming  
+punaḥ gauḍa-deśe yāya prabhure miliyā  
+again  to Gauḍa  go  with the Lord  having met
+
+(8) Every year the devotees of Gauḍa would come, meet the Lord and go back again to Gauḍa.
+
+আর নানা-দেশের লোক আসি’ জগন্নাথ ৷  
+চৈতন্য-চরণ দেখি’ হইল কৃতার্থ॥ ৯ ॥
+
+āra nānā-deśera loka āsi’ jagannātha  
+and  of many  lands  the people  coming  to Jagannātha  
+caitanya-caraṇa dekhi’ haila kṛtārtha  
+Caitanya’s  feet  seeing  became  fulfilled
+
+(9) And people from many lands came to Jagannātha; seeing Caitanya’s feet, they attained the goal of life.
+
+সপ্তদ্বীপের লোক আর নবখণ্ডবাসী ৷  
+দেব, গন্ধর্ব্ব, কিন্নর মনুষ্য-বেশে আসি’ ॥ ১০ ॥
+
+sapta-dvīpera loka āra nava-khaṇḍa-vāsī  
+of the seven dvīpas  the people  and  of the nine khaṇḍas  the dwellers  
+deva, gandharva, kinnara manuṣya-veśe āsi’  
+devas  gandharvas  kinnaras  in human  guise  coming
+
+(10) People of the seven dvīpas (islands) and dwellers of the nine khaṇḍas (regions) — devas, gandharvas and kinnaras — came in human guise.
+
+প্রভুরে দেখিয়া যায় ‘বৈষ্ণব’ হঞা ৷  
+কৃষ্ণ বলি’ নাচে সব প্রেমাবিষ্ট হঞা ॥ ১১ ॥
+
+prabhure dekhiyā yāya ‘vaiṣṇava’ hañā  
+the Lord  seeing  they go  Vaiṣṇavas  becoming  
+kṛṣṇa bali’ nāce saba premāviṣṭa hañā  
+‘Kṛṣṇa’  saying  dance  all  by prema  overwhelmed
+
+(11) Seeing the Lord, they went away as Vaiṣṇavas; crying “Kṛṣṇa!”, they all danced, overwhelmed by prema.
+
+এইমত দর্শনে ত্রিজগৎ নিস্তারি’ ৷  
+যে কেহ আসিতে নারে অনেক সংসারী ॥ ১২ ॥
+
+ei-mata darśane trijagat nistāri’  
+in this way  by sight  the three worlds  delivering  
+ye keha āsite nāre aneka saṁsārī  
+those who  any  to come  could not  many  worldly people
+
+(12) In this way, by being seen, He delivered the three worlds. But there were many worldly people who could not come.
+
+তা-সবা তারিতে প্রভু সেই সব দেশে ৷  
+যোগ্যভক্ত-জীবদেহে করেন ‘আবেশে’ ॥ ১৩ ॥
+
+tā-sabā tārite prabhu sei saba deśe  
+them  all  to deliver  the Lord  in those  all  lands  
+yogya-bhakta-jīvadehe karena ‘āveśe’  
+in the bodies of worthy devotee-souls  makes  ‘entering’
+
+(13) To deliver them, in all those lands the Lord made His ‘āveśa’, entering the bodies of worthy devotees.
+
+সেই জীবে নিজ-শক্তি করেন প্রকাশে ৷  
+তাহার দর্শনে ‘বৈষ্ণব’ হয় সর্ব্বদেশে ॥ ১৪ ॥
+
+sei jīve nija-śakti karena prakāśe  
+in that  soul  His own power  makes  manifest  
+tāhāra darśane ‘vaiṣṇava’ haya sarva-deśe  
+his  by the sight  Vaiṣṇavas  become  in all lands
+
+(14) In that soul He manifests His own power, and by seeing him people in every land become Vaiṣṇavas.
+
+এইমত আবেশে তারিল ত্রিভুবন ৷  
+গৌড়ে যৈছে আবেশ, করি দিগ্দরশন ॥ ১৫ ॥
+
+ei-mata āveśe tārila tribhuvana  
+in this way  by entering  He delivered  the three worlds  
+gauḍe yaiche āveśa, kari dig-daraśana  
+in Gauḍa  how  the entering  I make  a brief indication
+
+(15) Thus, by His āveśa, He delivered the three worlds. I shall show in brief, as an example, how His āveśa took place in Gauḍa.
+
+আম্বুয়া-মুলুকে হয় নকুল-ব্রহ্মচারী ৷  
+পরম-বৈষ্ণব তেঁহো বড় অধিকারী ॥ ১৬ ॥
+
+āmbuyā-muluke haya nakula-brahmacārī  
+in the Āmbuyā  district  there is  Nakula Brahmacārī  
+parama-vaiṣṇava teṅho baḍa adhikārī  
+a supreme  Vaiṣṇava  he  great  in standing
+
+(16) In the district of Āmbuyā lived Nakula Brahmacārī, a supreme Vaiṣṇava of very high standing.
+
+গৌড়দেশের লোক নিস্তারিতে মন হৈল ৷  
+নকুল-হৃদয়ে প্রভু ‘আবেশ’ করিল ॥ ১৭ ॥
+
+gauḍa-deśera loka nistārite mana haila  
+of Gauḍa  the people  to deliver  the wish  arose  
+nakula-hṛdaye prabhu ‘āveśa’ karila  
+in Nakula’s  heart  the Lord  ‘entering’  made
+
+(17) Wishing to deliver the people of Gauḍa, the Lord made His ‘āveśa’ in Nakula’s heart.
+
+গ্রহগ্রস্তপ্রায় নকুল প্রেমাবিষ্ট হঞা ৷  
+হাসে, কান্দে, নাচে, গায় উন্মত্ত হঞা ॥ ১৮ ॥
+
+graha-grasta-prāya nakula premāviṣṭa hañā  
+as if possessed by a spirit  Nakula  by prema  overwhelmed  being  
+hāse, kānde, nāce, gāya unmatta hañā  
+laughs  weeps  dances  sings  mad  being
+
+(18) Overwhelmed by prema, Nakula became as if possessed by a spirit: like a madman he laughed, wept, danced and sang.
+
+অশ্রু, কম্প, স্তম্ভ, স্বেদ, সাত্ত্বিক বিকার ৷  
+নিরন্তর প্রেমে নৃত্য, সঘন হুঙ্কার ॥ ১৯ ॥
+
+aśru, kampa, stambha, sveda, sāttvika vikāra  
+tears  trembling  stupor  perspiration  the sāttvika  transformations  
+nirantara preme nṛtya, saghana huṅkāra  
+constant  in prema  dancing  frequent  roars
+
+(19) Tears, trembling, stupor and perspiration — the sāttvika transformations — appeared in him; in prema he danced constantly and roared again and again.
+
+তৈছে গৌরকান্তি, তৈছে সদা প্রেমাবেশ ৷  
+তাহা দেখিবারে আইসে সর্ব্ব গৌড়দেশ ॥ ২০ ॥
+
+taiche gaura-kānti, taiche sadā premāveśa  
+the same  golden lustre  the same  always  absorption in prema  
+tāhā dekhibāre āise sarva gauḍa-deśa  
+that  to see  comes  all  Gauḍa
+
+(20) He had the same golden lustre as the Lord and the same constant absorption in prema, and all Gauḍa came to see it.
+
+যারে দেখে, তারে কহে, — কহ কৃষ্ণনাম ৷  
+তাঁহার দর্শনে লোক হয় প্রেমোদ্দাম ॥ ২১ ॥
+
+yāre dekhe, tāre kahe, — kaha kṛṣṇa-nāma  
+whom  he sees  to him  says  say  Kṛṣṇa’s name  
+tāṅhāra darśane loka haya premoddāma  
+his  by the sight  the people  become  wild with prema
+
+(21) To everyone he saw he said, “Say the name of Kṛṣṇa!” And by seeing him the people became wild with prema.
+
+চৈতন্যের আবেশ হয় নকুলের দেহে ৷  
+শুনি’ শিবানন্দ আইলা করিয়া সন্দেহে ॥ ২২ ॥
+
+caitanyera āveśa haya nakulera dehe  
+of Caitanya  the entering  is  in Nakula’s  body  
+śuni’ śivānanda āilā kariyā sandehe  
+hearing  Śivānanda  came  having  doubt
+
+(22) Hearing that Caitanya had entered Nakula’s body, Śivānanda came, doubting it.
+
+পরীক্ষা করিতে তাঁর যবে ইচ্ছা হৈল ৷  
+বাহিরে রহিয়া তবে বিচার করিল ॥ ২৩ ॥
+
+parīkṣā karite tāṅra yabe icchā haila  
+a test  to make  his  when  the wish  arose  
+bāhire rahiyā tabe vicāra karila  
+outside  staying  then  reflection  he made
+
+(23) Wishing to test him, he stayed outside and reflected:
+
+আপনে বোলান মোরে, ইহা যদি জানি ৷  
+আমার ইষ্ট-মন্ত্র জানি’ কহেন আপনি ॥ ২৪ ॥
+
+তবে জানি, ইঁহাতে হয় চৈতন্য-আবেশে ৷  
+এত চিন্তি’ শিবানন্দ রহিলা দূরদেশে ॥ ২৫ ॥
+
+āpane bolāna more, ihā yadi jāni  
+himself  he calls  me  this  if  I know  
+āmāra iṣṭa-mantra jāni’ kahena āpani  
+my  iṣṭa-mantra  knowing  he tells  himself  
+tabe jāni, iṅhāte haya caitanya-āveśe  
+then  I know  in him  is  Caitanya’s entering  
+eta cinti’ śivānanda rahilā dūra-deśe  
+so  thinking  Śivānanda  stayed  at a distance
+
+(24–25) “If he calls me himself — if I see that — and, knowing my iṣṭa-mantra, tells it to me himself, then I shall know that Caitanya has entered him.” Thinking thus, Śivānanda stayed at a distance.
+
+অসংখ্য লোকের ঘটা, — কেহ আইসে যায় ৷  
+লোকের সংঘট্টে কেহ দর্শন না পায় ॥ ২৬ ॥
+
+asaṅkhya lokera ghaṭā, — keha āise yāya  
+countless  of people  the throng  —  some  come  go  
+lokera saṅghaṭṭe keha darśana nā pāya  
+of people  in the press  some  sight  not  get
+
+(26) There was a vast throng of people, some coming, some going; in the press of the crowd some could not even see him.
+
+ব্রহ্মচারী কহে, — শিবানন্দ আছে দূরে ৷  
+জন দুই চারি যাহ, বোলাহ তাহারে ॥ ২৭ ॥
+
+brahmacārī kahe, — śivānanda āche dūre  
+the brahmacārī  says  —  Śivānanda  is  far off  
+jana dui cāri yāha, bolāha tāhāre  
+people  two  four  go  call  him
+
+(27) The brahmacārī said, “Śivānanda is standing far off. Two or four of you go and call him.”
+
+চারিদিকে ধায় লোকে ‘শিবানন্দ’ বলি ৷  
+‘শিবানন্দ’ কোন্, তোমায় বোলায় ব্রহ্মচারী ॥ ২৮ ॥
+
+cāri-dike dhāya loke ‘śivānanda’ bali  
+in four directions  run  the people  ‘Śivānanda’  crying  
+‘śivānanda’ kon, tomāya bolāya brahmacārī  
+‘Śivānanda’  who is  you  calls  the brahmacārī
+
+(28) The people ran in every direction, crying, “Śivānanda! Who is Śivānanda? The brahmacārī is calling you!”
+
+শুনি’ শিবানন্দ সেন তাঁহা শীঘ্র আইল ৷  
+নমস্কার করি’ তাঁর নিকটে বসিল ॥ ২৯ ॥
+
+śuni’ śivānanda sena tāṅhā śīghra āila  
+hearing  Śivānanda  Sena  there  quickly  came  
+namaskāra kari’ tāṅra nikaṭe vasila  
+obeisance  having made  him  near  sat
+
+(29) Hearing this, Śivānanda Sena quickly came there, offered his obeisances and sat down near him.
+
+ব্রহ্মচারী বলে, — তুমি করিলা সংশয় ৷  
+এক-মনা হঞা তাহা শুনহ নিশ্চয় ॥ ৩০ ॥
+
+brahmacārī bale, — tumi karilā saṁśaya  
+the brahmacārī  says  —  you  made  doubt  
+eka-manā hañā tāhā śunaha niścaya  
+with one mind  being  that  hear  with certainty
+
+(30) The brahmacārī said, “You have doubted. Now listen with undivided attention, and be certain:
+
+‘গৌরগোপাল-মন্ত্র’ তোমার চারি-অক্ষর ৷  
+অবিশ্বাস ছাড়, যেই কৈরাছ অন্তর ॥ ৩১ ॥
+
+‘gaura-gopāla-mantra’ tomāra cāri-akṣara  
+aviśvāsa chāḍa, yei kairācha antara
+
+(31) [not yet translated]
+
+তবে শিবানন্দের মনে প্রতীতি হইল ৷  
+অনেক সম্মান করি’ বহু ভক্তি কৈল ॥ ৩২ ॥
+
+tabe śivānandera mane pratīti haila  
+aneka sammāna kari’ bahu bhakti kaila
+
+(32) [not yet translated]
+
+এইমত মহাপ্রভুর অচিন্ত্য প্রভাব ৷  
+এবে শুন প্রভুর যৈছে হয় ‘আবির্ভাব’ ॥ ৩৩ ॥
+
+ei-mata mahāprabhura acintya prabhāva  
+ebe śuna prabhura yaiche haya ‘āvirbhāva’
+
+(33) [not yet translated]
+
+শচীর মন্দিরে, আর নিত্যানন্দ-নর্ত্তনে ৷  
+শ্রীবাস-কীর্ত্তনে, আর রাঘব-ভবনে ॥ ৩৪ ॥
+
+এই চারি ঠাঞি প্রভুর সদা ‘আবির্ভাব’ ৷  
+প্রেমাকৃষ্ট হয়, — প্রভুর সহজ-স্বভাব ॥ ৩৫ ॥
+
+śacīra mandire, āra nityānanda-nartane  
+śrīvāsa-kīrtane, āra rāghava-bhavane  
+ei cāri ṭhāñi prabhura sadā ‘āvirbhāva’  
+premākṛṣṭa haya, — prabhura sahaja-svabhāva
+
+(34–35) [not yet translated]
+
+নৃসিংহানন্দের আগে আবির্ভূত হঞা ৷  
+ভোজন করিলা, তাহা শুন মন দিয়া ॥ ৩৬ ॥
+
+nṛsiṁhānandera āge āvirbhūta hañā  
+bhojana karilā, tāhā śuna mana diyā
+
+(36) [not yet translated]
+
+শিবানন্দের ভাগিনা শ্রীকান্ত-সেন নাম ৷  
+প্রভুর কৃপাতে তেঁহো বড় ভাগ্যবান্ ॥ ৩৭ ॥
+
+śivānandera bhāginā śrīkānta-sena nāma  
+prabhura kṛpāte teṅho baḍa bhāgyavān
+
+(37) [not yet translated]
+
+এক বৎসর তেঁহো প্রথম একেশ্বর ৷  
+প্রভু দেখিবারে আইলা উৎকণ্ঠা-অন্তর ॥ ৩৮ ॥
+
+eka vatsara teṅho prathama ekeśvara  
+prabhu dekhibāre āilā utkaṇṭhā-antara
+
+(38) [not yet translated]
+
+মহাপ্রভু তারে দেখি’ বড় কৃপা কৈলা ৷  
+মাস-দুই তেঁহো প্রভুর নিকটে রহিলা ॥ ৩৯ ॥
+
+mahāprabhu tāre dekhi’ baḍa kṛpā kailā  
+māsa-dui teṅho prabhura nikaṭe rahilā
+
+(39) [not yet translated]
+
+তবে প্রভু তাঁরে আজ্ঞা কৈলা গৌড়ে যাইতে ৷  
+ভক্তগণে নিষেধিলা ইঁহাকে আসিতে ॥ ৪০ ॥
+
+tabe prabhu tāṅre ājñā kailā gauḍe yāite  
+bhakta-gaṇe niṣedhilā iṅhāke āsite
+
+(40) [not yet translated]
+
+এ-বৎসর তাঁহা আমি যাইমু আপনে ৷  
+তাঁহাই মিলিমু সব অদ্বৈতাদি সনে ॥ ৪১ ॥
+
+e-vatsara tāṅhā āmi yāimu āpane  
+tāṅhāi milimu saba advaitādi sane
+
+(41) [not yet translated]
+
+শিবানন্দে কহিহ, — আমি এই পৌষ-মাসে ৷  
+আচম্বিতে অবশ্য আমি যাইমু তাঁর পাশে ॥ ৪২ ॥
+
+śivānande kahiha, — āmi ei pauṣa-māse  
+ācambite avaśya āmi yāimu tāṅra pāśe
+
+(42) [not yet translated]
+
+জগদানন্দ হয় তাঁহা, তেঁহো ভিক্ষা দিবে ৷  
+সবারে কহিহ, — এ বৎসর কেহ না আসিবে ॥ ৪৩ ॥
+
+jagadānanda haya tāṅhā, teṅho bhikṣā dibe  
+sabāre kahiha, — e vatsara keha nā āsibe
+
+(43) [not yet translated]
+
+শ্রীকান্ত আসিয়া গৌড়ে সন্দেশ কহিল ৷  
+শুনি’ ভক্তগণ-মনে আনন্দ হইল ॥ ৪৪ ॥
+
+śrīkānta āsiyā gauḍe sandeśa kahila  
+śuni’ bhakta-gaṇa-mane ānanda haila
+
+(44) [not yet translated]
+
+চলিতেছিলা আচার্য্য, রহিলা স্থির হঞা ৷  
+শিবানন্দ, জগদানন্দ রহে প্রত্যাশা করিয়া ॥ ৪৫ ॥
+
+calitechilā ācārya, rahilā sthira hañā  
+śivānanda, jagadānanda rahe pratyāśā kariyā
+
+(45) [not yet translated]
+
+পৌষ-মাস আইল, দুঁহে সামগ্রী করিয়া ৷  
+সন্ধ্যা-পর্য্যন্ত রহে অপেক্ষা করিয়া ॥ ৪৬ ॥
+
+pauṣa-māsa āila, duṅhe sāmagrī kariyā  
+sandhyā-paryanta rahe apekṣā kariyā
+
+(46) [not yet translated]
+
+এইমত মাস গেল, গোসাঞি না আইলা ৷  
+জগদানন্দ, শিবানন্দ দুঃখিত হইলা ॥ ৪৭ ॥
+
+ei-mata māsa gela, gosāñi nā āilā  
+jagadānanda, śivānanda duḥkhita hailā
+
+(47) [not yet translated]
+
+আচম্বিতে নৃসিংহানন্দ তাঁহাই আইলা ৷  
+দুঁহে তাঁরে মিলি’ তবে স্থানে বসাইলা ॥ ৪৮ ॥
+
+ācambite nṛsiṁhānanda tāṅhāi āilā  
+duṅhe tāṅre mili’ tabe sthāne vasāilā
+
+(48) [not yet translated]
+
+দুঁহে দুঃখী দেখি’ তাঁরে কহে নৃসিংহানন্দ ৷  
+তোমা দুঁহাকারে কেনে দেখি নিরানন্দ ? ॥ ৪৯ ॥
+
+duṅhe duḥkhī dekhi’ tāṅre kahe nṛsiṁhānanda  
+tomā duṅhākāre kene dekhi nirānanda?
+
+(49) [not yet translated]
+
+তবে শিবানন্দ তাঁরে সকল কহিলা ৷  
+আসিব আজ্ঞা দিয়া প্রভু কেনে না আইলা ? ॥ ৫০ ॥
+
+tabe śivānanda tāṅre sakala kahilā  
+āsiba ājñā diyā prabhu kene nā āilā?
+
+(50) [not yet translated]
+
+শুনি’ ব্রহ্মচারী কহে, — করহ সন্তোষে ৷  
+আমি ত’ আনিব তাঁরে তৃতীয় দিবসে ॥ ৫১ ॥
+
+śuni’ brahmacārī kahe, — karaha santoṣe  
+āmi ta’ āniba tāṅre tṛtīya divase
+
+(51) [not yet translated]
+
+তাঁহার প্রভাব-প্রেম জানে দুইজনে ৷  
+আনিবে প্রভুরে এবে নিশ্চয় কৈলা মনে ॥ ৫২ ॥
+
+tāṅhāra prabhāva-prema jāne duijane  
+ānibe prabhure ebe niścaya kailā mane
+
+(52) [not yet translated]
+
+‘প্রদ্যুম্ন ব্রহ্মচারী’ — তাঁর নিজ-নাম ৷  
+‘নৃসিংহানন্দ’ নাম তাঁর কৈলা গৌরধাম ॥ ৫৩ ॥
+
+‘pradyumna brahmacārī’ — tāṅra nija-nāma  
+‘nṛsiṁhānanda’ nāma tāṅra kailā gaura-dhāma
+
+(53) [not yet translated]
+
+দুইদিন ধ্যান করি’ শিবানন্দেরে কহিল ৷  
+পাণিহাটি-গ্রামে আমি প্রভুরে আনিল ॥ ৫৪ ॥
+
+duidina dhyāna kari’ śivānandere kahila  
+pāṇihāṭi-grāme āmi prabhure ānila
+
+(54) [not yet translated]
+
+কালি মধ্যাহ্নে তেঁহো আসিবেন তোমার ঘরে ৷  
+পাক-সামগ্রী আনহ, আমি ভিক্ষা দিমু তাঁরে ॥ ৫৫ ॥
+
+kāli madhyāhne teṅho āsibena tomāra ghare  
+pāka-sāmagrī ānaha, āmi bhikṣā dimu tāṅre
+
+(55) [not yet translated]
+
+তবে তাঁরে এথা আমি আনিব সত্বর ৷  
+নিশ্চয় কহিলাঙ, কিছু সন্দেহ না কর ॥ ৫৬ ॥
+
+tabe tāṅre ethā āmi āniba satvara  
+niścaya kahilāṅa, kichu sandeha nā kara
+
+(56) [not yet translated]
+
+যে চাহিয়ে, তাহা কর হঞা তৎপর ৷  
+অতি ত্বরায় করিব পাক, শুন অতঃপর ॥ ৫৭ ॥
+
+ye cāhiye, tāhā kara hañā tatpara  
+ati tvarāya kariba pāka, śuna ataḥpara
+
+(57) [not yet translated]
+
+পাক-সামগ্রী আনহ, আমি যাহা চাই ৷  
+যে মাগিল, শিবানন্দ আনি’ দিলা তাই ॥ ৫৮ ॥
+
+pāka-sāmagrī ānaha, āmi yāhā cāi  
+ye māgila, śivānanda āni’ dilā tāi
+
+(58) [not yet translated]
+
+প্রাতঃকাল হৈতে পাক করিলা অপার ৷  
+নানা সূপ, ব্যঞ্জন, পিঠা, ক্ষীর-উপহার ॥ ৫৯ ॥
+
+prātaḥ-kāla haite pāka karilā apāra  
+nānā sūpa, vyañjana, piṭhā, kṣīra-upahāra
+
+(59) [not yet translated]
+
+জগন্নাথের ভিন্ন ভোগ পৃথক্ বাড়িলা ৷  
+চৈতন্য প্রভুর লাগি’ আর ভোগ কৈলা ॥ ৬০ ॥
+
+jagannāthera bhinna bhoga pṛthak bāḍilā  
+caitanya prabhura lāgi’ āra bhoga kailā
+
+(60) [not yet translated]
+
+ইষ্টদেব নৃসিংহ লাগি’ পৃথক্ বাড়িলা ৷  
+তিনজনে সমর্পিয়া বাহিরে ধ্যান কৈলা ॥ ৬১ ॥
+
+iṣṭa-deva nṛsiṁha lāgi’ pṛthak bāḍilā  
+tinajane samarpiyā bāhire dhyāna kailā
+
+(61) [not yet translated]
+
+দেখে, শীঘ্র আসি’ বসিলা চৈতন্য-গোসাঞি ৷  
+তিন ভোগ খাইলা, কিছু অবশিষ্ট নাই ॥ ৬২ ॥
+
+dekhe, śīghra āsi’ vasilā caitanya-gosāñi  
+tina bhoga khāilā, kichu avaśiṣṭa nāi
+
+(62) [not yet translated]
+
+আনন্দে বিহ্বল প্রদ্যুম্ন, পড়ে অশ্রুধার ৷  
+হাহা কিবা কর বলি’ করয়ে ফুৎকার ॥ ৬৩ ॥
+
+ānande vihvala pradyumna, paḍe aśru-dhāra  
+hāhā kibā kara bali’ karaye phutkāra
+
+(63) [not yet translated]
+
+জগন্নাথে-তোমায় ঐক্য, খাও তাঁর ভোগ ৷  
+নৃসিংহের ভোগ কেনে কর উপযোগ ? ॥ ৬৪ ॥
+
+jagannāthe-tomāya aikya, khāo tāṅra bhoga  
+nṛsiṁhera bhoga kene kara upayoga?
+
+(64) [not yet translated]
+
+নৃসিংহের হৈল জানি আজি উপবাস ৷  
+ঠাকুর উপবাসী রহে, জিয়ে কৈছে দাস ? ॥ ৬৫ ॥
+
+nṛsiṁhera haila jāni āji upavāsa  
+ṭhākura upavāsī rahe, jiye kaiche dāsa?
+
+(65) [not yet translated]
+
+ভোজন দেখি’ যদ্যপি তাঁর হৃদয়ে উল্লাস ৷  
+নৃসিংহ লক্ষ্য করি’ বাহ্যে কিছু করে দুঃখাভাস ॥ ৬৬ ॥
+
+bhojana dekhi’ yadyapi tāṅra hṛdaye ullāsa  
+nṛsiṁha lakṣya kari’ bāhye kichu kare duḥkhābhāsa
+
+(66) [not yet translated]
+
+স্বয়ং ভগবান্ কৃষ্ণচৈতন্য-গোসাঞি ৷  
+জগন্নাথ-নৃসিংহ-সহ কিছু ভেদ নাই ॥ ৬৭ ॥
+
+svayaṁ bhagavān kṛṣṇa-caitanya-gosāñi  
+jagannātha-nṛsiṁha-saha kichu bheda nāi
+
+(67) [not yet translated]
+
+ইহা জানিবারে প্রদ্যুম্নের গূঢ় হৈত মন ৷  
+তাহা দেখাইলা প্রভু করিয়া ভোজন ॥ ৬৮ ॥
+
+ihā jānibāre pradyumnera gūḍha haita mana  
+tāhā dekhāilā prabhu kariyā bhojana
+
+(68) [not yet translated]
+
+ভোজন করিয়া প্রভু গেলা পাণিহাটি ৷  
+সন্তোষ পাইলা দেখি’ ব্যঞ্জন-পরিপাটী ॥ ৬৯ ॥
+
+bhojana kariyā prabhu gelā pāṇihāṭi  
+santoṣa pāilā dekhi’ vyañjana-paripāṭī
+
+(69) [not yet translated]
+
+শিবানন্দ কহে, — কেনে করহ ফুৎকার ?  
+ব্রহ্মচারী কহে, — দেখ প্রভুর ব্যবহার ॥ ৭০ ॥
+
+śivānanda kahe, — kene karaha phutkāra?  
+brahmacārī kahe, — dekha prabhura vyavahāra
+
+(70) [not yet translated]
+
+তিন জনার ভোগ তেঁহো একেলা খাইলা ৷  
+জগন্নাথ-নৃসিংহ উপবাসী হইলা ॥ ৭১ ॥
+
+tina janāra bhoga teṅho ekelā khāilā  
+jagannātha-nṛsiṁha upavāsī hailā
+
+(71) [not yet translated]
+
+শুনি’ শিবানন্দের চিত্তে হইল সংশয় ৷  
+কিবা প্রেমাবেশে কহে, কিবা সত্য হয় ॥ ৭২ ॥
+
+śuni’ śivānandera citte haila saṁśaya  
+kibā premāveśe kahe, kibā satya haya
+
+(72) [not yet translated]
+
+তবে শিবানন্দে কিছু কহে ব্রহ্মচারী ৷  
+সামগ্রী আনহ নৃসিংহের পুনঃ পাক করি ॥ ৭৩ ॥
+
+tabe śivānande kichu kahe brahmacārī  
+sāmagrī ānaha nṛsiṁhera punaḥ pāka kari
+
+(73) [not yet translated]
+
+তবে শিবানন্দ ভোগ-সামগ্রী আনিলা ৷  
+পাক করি’ নৃসিংহের ভোগ লাগাইলা ॥ ৭৪ ॥
+
+tabe śivānanda bhoga-sāmagrī ānilā  
+pāka kari’ nṛsiṁhera bhoga lāgāilā
+
+(74) [not yet translated]
+
+বর্ষান্তরে শিবানন্দ লঞা ভক্তগণ ৷  
+নীলাচলে দেখে যাঞা প্রভুর চরণ ॥ ৭৫ ॥
+
+varṣāntare śivānanda lañā bhakta-gaṇa  
+nīlācale dekhe yāñā prabhura caraṇa
+
+(75) [not yet translated]
+
+একদিন সভাতে প্রভু বাত্ চালাইলা ৷  
+নৃসিংহানন্দের গুণ কহিতে লাগিলা ॥ ৭৬ ॥
+
+ekadina sabhāte prabhu bāt cālāilā  
+nṛsiṁhānandera guṇa kahite lāgilā
+
+(76) [not yet translated]
+
+গতবর্ষ পৌষে মোরে করাইল ভোজন ৷  
+কভু নাহি খাই ঐছে মিষ্টান্ন-ব্যঞ্জন ॥ ৭৭ ॥
+
+gatavarṣa pauṣe more karāila bhojana  
+kabhu nāhi khāi aiche miṣṭānna-vyañjana
+
+(77) [not yet translated]
+
+শুনি’ ভক্তগণ মনে আশ্চর্য্য মানিল ৷  
+শিবানন্দের মনে তবে প্রত্যয় জন্মিল ॥ ৭৮ ॥
+
+śuni’ bhakta-gaṇa mane āścarya mānila  
+śivānandera mane tabe pratyaya janmila
+
+(78) [not yet translated]
+
+এইমত শচীগৃহে সতত ভোজন ৷  
+শ্রীবাসের গৃহে করেন কীর্ত্তন-দর্শন ॥ ৭৯ ॥
+
+ei-mata śacī-gṛhe satata bhojana  
+śrīvāsera gṛhe karena kīrtana-darśana
+
+(79) [not yet translated]
+
+নিত্যানন্দের নৃত্য দেখেন আসি’ বারে বারে ৷  
+‘নিরন্তর আবির্ভাব’ রাঘবের ঘরে ॥ ৮০ ॥
+
+nityānandera nṛtya dekhena āsi’ bāre bāre  
+‘nirantara āvirbhāva’ rāghavera ghare
+
+(80) [not yet translated]
+
+প্রেমবশ গৌরপ্রভু, যাঁহা প্রেমোত্তম ৷  
+প্রেমবশ হঞা তাঁহা দেন দরশন ॥ ৮১ ॥
+
+prema-vaśa gaura-prabhu, yāṅhā premottama  
+prema-vaśa hañā tāṅhā dena daraśana
+
+(81) [not yet translated]
+
+শিবানন্দের প্রেমসীমা কে কহিতে পারে ?  
+যাঁর প্রেমে বশ প্রভু আইসে বারে বারে ॥ ৮২ ॥
+
+śivānandera prema-sīmā ke kahite pāre?  
+yāṅra preme vaśa prabhu āise bāre bāre
+
+(82) [not yet translated]
+
+এই ত’ কহিলুঁ গৌরের ‘আবির্ভাব’ ৷  
+ইহা যেই শুনে, জানে চৈতন্য-প্রভাব ॥ ৮৩ ॥
+
+ei ta’ kahiluṅ gaurera ‘āvirbhāva’  
+ihā yei śune, jāne caitanya-prabhāva
+
+(83) [not yet translated]
+
+পুরুষোত্তমে প্রভু-পাশে ভগবান্-আচার্য্য ৷  
+পরম বৈষ্ণব তেঁহো সুপণ্ডিত আর্য্য ॥ ৮৪ ॥
+
+puruṣottame prabhu-pāśe bhagavān-ācārya  
+parama vaiṣṇava teṅho supaṇḍita ārya
+
+(84) [not yet translated]
+
+সখ্যভাবাক্রান্ত-চিত্ত, গোপ-অবতার ৷  
+স্বরূপ-গোসাঞি-সহ সখ্য-ব্যবহার ॥ ৮৫ ॥
+
+sakhya-bhāvākrānta-citta, gopa-avatāra  
+svarūpa-gosāñi-saha sakhya-vyavahāra
+
+(85) [not yet translated]
+
+একান্তভাবে আশ্রিয়াছেন চৈতন্যচরণ ৷  
+মধ্যে মধ্যে প্রভুর তেঁহো করেন নিমন্ত্রণ ॥ ৮৬ ॥
+
+ekānta-bhāve āśriyāchena caitanya-caraṇa  
+madhye madhye prabhura teṅho karena nimantraṇa
+
+(86) [not yet translated]
+
+ঘরে ভাত করি’ করেন বিবিধ ব্যঞ্জন ৷  
+একলে গোসাঞি লঞা করান ভোজন ॥ ৮৭ ॥
+
+ghare bhāta kari’ karena vividha vyañjana  
+ekale gosāñi lañā karāna bhojana
+
+(87) [not yet translated]
+
+তাঁর পিতা ‘বিষয়ী’ বড় শতানন্দ-খাঁন ৷  
+‘বিষয়বিমুখ’ আচার্য্য — ‘বৈরাগ্যপ্রধান’ ॥ ৮৮ ॥
+
+tāṅra pitā ‘viṣayī’ baḍa śatānanda-khāṅna  
+‘viṣaya-vimukha’ ācārya — ‘vairāgya-pradhāna’
+
+(88) [not yet translated]
+
+‘গোপাল-ভট্টাচার্য্য’ নাম, তাঁর ছোট-ভাই ৷  
+কাশীতে ‘বেদান্ত’ পড়ি’ গেলা আচার্য্য-ঠাঞি ॥ ৮৯ ॥
+
+‘gopāla-bhaṭṭācārya’ nāma, tāṅra choṭa-bhāi  
+kāśīte ‘vedānta’ paḍi’ gelā ācārya-ṭhāñi
+
+(89) [not yet translated]
+
+আচার্য্য তাহারে প্রভুপদে মিলাইলা ৷  
+অন্তর্য্যামী প্রভু, চিত্তে সুখ না পাইলা ॥ ৯০ ॥
+
+ācārya tāhāre prabhu-pade milāilā  
+antaryāmī prabhu, citte sukha nā pāilā
+
+(90) [not yet translated]
+
+আচার্য্য-সম্বন্ধে বাহ্যে করে প্রীত্যাভাস ৷  
+কৃষ্ণভক্তি বিনা প্রভুর না হয় উল্লাস ॥ ৯১ ॥
+
+ācārya-sambandhe bāhye kare prītyābhāsa  
+kṛṣṇa-bhakti vinā prabhura nā haya ullāsa
+
+(91) [not yet translated]
+
+স্বরূপ গোসাঞিরে আচার্য্য কহে আর দিনে ৷  
+বেদান্ত পড়িয়া গোপাল আইসাছে এখানে ॥ ৯২ ॥
+
+svarūpa gosāñire ācārya kahe āra dine  
+vedānta paḍiyā gopāla āisāche ekhāne
+
+(92) [not yet translated]
+
+সবে মেলি’ আইস, শুনি ‘ভাষ্য’ ইহার স্থানে ৷  
+প্রেম-ক্রোধ করি’ স্বরূপ বলয় বচনে ॥ ৯৩ ॥
+
+sabe meli’ āisa, śuni ‘bhāṣya’ ihāra sthāne  
+prema-krodha kari’ svarūpa balaya vacane
+
+(93) [not yet translated]
+
+বুদ্ধি ভ্রষ্ট হৈল তোমার গোপালের সঙ্গে ৷  
+মায়াবাদ শুনিবারে উপজিল রঙ্গে ॥ ৯৪ ॥
+
+buddhi bhraṣṭa haila tomāra gopālera saṅge  
+māyāvāda śunibāre upajila raṅge
+
+(94) [not yet translated]
+
+বৈষ্ণব হঞা যেবা শারীরক-ভাষ্য শুনে ৷  
+সেব্য-সেবক-ভাব ছাড়ি’ আপনারে ‘ঈশ্বর’ মানে ॥ ৯৫ ॥
+
+vaiṣṇava hañā yebā śārīraka-bhāṣya śune  
+sevya-sevaka-bhāva chāḍi’ āpanāre ‘īśvara’ māne
+
+(95) [not yet translated]
+
+মহাভাগবত যেই, কৃষ্ণ প্রাণধন যাঁর ৷  
+মায়াবাদ-শ্রবণে চিত্ত অবশ্য ফিরে তাঁর ॥ ৯৬ ॥
+
+mahā-bhāgavata yei, kṛṣṇa prāṇa-dhana yāṅra  
+māyāvāda-śravaṇe citta avaśya phire tāṅra
+
+(96) [not yet translated]
+
+আচার্য্য কহে, — আমা-সবার কৃষ্ণনিষ্ঠ-চিত্তে ৷  
+আমা-সবার মন ভাষ্য নারে ফিরাইতে ॥ ৯৭ ॥
+
+ācārya kahe, — āmā-sabāra kṛṣṇa-niṣṭha-citte  
+āmā-sabāra mana bhāṣya nāre phirāite
+
+(97) [not yet translated]
+
+স্বরূপ কহে, — তথাপি মায়াবাদ-শ্রবণে ৷  
+‘চিৎ ব্রহ্ম, মায়া মিথ্যা’ — এইমাত্র শুনে ॥ ৯৮ ॥
+
+svarūpa kahe, — tathāpi māyāvāda-śravaṇe  
+‘cit brahma, māyā mithyā’ — eimātra śune
+
+(98) [not yet translated]
+
+জীবজ্ঞান — কল্পিত, ঈশ্বরে — সকল অজ্ঞান ৷  
+যাহার শ্রবণে ভক্তের ফাটে মন-প্রাণ ॥ ৯৯ ॥
+
+jīvajñāna — kalpita, īśvare — sakala ajñāna  
+yāhāra śravaṇe bhaktera phāṭe mana-prāṇa
+
+(99) [not yet translated]
+
+লজ্জা-ভয় পাঞা আচার্য্য মৌন হইলা ৷  
+আর দিন গোপালেরে দেশে পাঠাইলা ॥ ১০০ ॥
+
+lajjā-bhaya pāñā ācārya mauna hailā  
+āra dina gopālere deśe pāṭhāilā
+
+(100) [not yet translated]
+
+একদিন আচার্য্য প্রভুরে কৈলা নিমন্ত্রণ ৷  
+ঘরে ভাত করি’ করে বিবিধ ব্যঞ্জন ॥ ১০১ ॥
+
+ekadina ācārya prabhure kailā nimantraṇa  
+ghare bhāta kari’ kare vividha vyañjana
+
+(101) [not yet translated]
+
+‘ছোট-হরিদাস’ নাম প্রভুর কীর্ত্তনীয়া ৷  
+তাহারে কহেন ডাকি’ আপনে আনিয়া ॥ ১০২ ॥
+
+‘choṭa-haridāsa’ nāma prabhura kīrtanīyā  
+tāhāre kahena ḍāki’ āpane āniyā
+
+(102) [not yet translated]
+
+মোর নামে শিখি-মাহিতির ভগিনী-স্থানে গিয়া ৷  
+শুক্লচাউল এক-মান আনহ মাগিয়া ॥ ১০৩ ॥
+
+mora nāme śikhi-māhitira bhaginī-sthāne giyā  
+śukla-cāula eka-māna ānaha māgiyā
+
+(103) [not yet translated]
+
+মাহিতির ভগিনীর নাম — মাধবী-দেবী ৷  
+বৃদ্ধা তপস্বিনী আর পরমা-বৈষ্ণবী ॥ ১০৪ ॥
+
+māhitira bhaginīra nāma — mādhavī-devī  
+vṛddhā tapasvinī āra paramā-vaiṣṇavī
+
+(104) [not yet translated]
+
+প্রভু লেখা করে যাঁরে রাধিকার ‘গণ’ ৷  
+জগতের মধ্যে ‘পাত্র’ — সাড়ে তিন জন ॥ ১০৫ ॥
+
+prabhu lekhā kare yāṅre rādhikāra ‘gaṇa’  
+jagatera madhye ‘pātra’ — sāḍe tina jana
+
+(105) [not yet translated]
+
+স্বরূপ-গোসাঞি, আর রায়-রামানন্দ ৷  
+শিখি-মাহিতি — তিন, তাঁর ভগিনী — অর্দ্ধজন ॥ ১০৬ ॥
+
+svarūpa-gosāñi, āra rāya-rāmānanda  
+śikhi-māhiti — tina, tāṅra bhaginī — ardha-jana
+
+(106) [not yet translated]
+
+তাঁর ঠাঞি তণ্ডুল মাগি’ আনিল হরিদাস ৷  
+তণ্ডুল দেখি’ আচার্য্যের অধিক উল্লাস ॥ ১০৭ ॥
+
+tāṅra ṭhāñi taṇḍula māgi’ ānila haridāsa  
+taṇḍula dekhi’ ācāryera adhika ullāsa
+
+(107) [not yet translated]
+
+স্নেহে রান্ধিল প্রভুর প্রিয় যে ব্যঞ্জন ৷  
+দেউল-প্রসাদ, আদা-চাকি, লেম্বু-সলবণ ॥ ১০৮ ॥
+
+snehe rāndhila prabhura priya ye vyañjana  
+deula-prasāda, ādā-cāki, lembu-salavaṇa
+
+(108) [not yet translated]
+
+মধ্যাহ্নে আসিয়া প্রভু ভোজনে বসিলা ৷  
+শাল্যন্ন দেখি’ প্রভু আচার্য্যে পুছিলা ॥ ১০৯ ॥
+
+madhyāhne āsiyā prabhu bhojane vasilā  
+śālyanna dekhi’ prabhu ācārye puchilā
+
+(109) [not yet translated]
+
+উত্তম অন্ন এত তণ্ডুল কাঁহাতে পাইলা ?  
+আচার্য্য কহে, — মাধবী-পাশ মাগিয়া আনিলা ॥ ১১০ ॥
+
+uttama anna eta taṇḍula kāṅhāte pāilā?  
+ācārya kahe, — mādhavī-pāśa māgiyā ānilā
+
+(110) [not yet translated]
+
+প্রভু কহে, — কোন্ যাই’ মাগিয়া আনিল ?  
+ছোট-হরিদাসের নাম আচার্য্য কহিল ॥ ১১১ ॥
+
+prabhu kahe, — kon yāi’ māgiyā ānila?  
+choṭa-haridāsera nāma ācārya kahila
+
+(111) [not yet translated]
+
+অন্ন প্রশংসিয়া প্রভু ভোজন করিলা ৷  
+নিজগৃহে আসি’ গোবিন্দেরে আজ্ঞা দিলা ॥ ১১২ ॥
+
+anna praśaṁsiyā prabhu bhojana karilā  
+nija-gṛhe āsi’ govindere ājñā dilā
+
+(112) [not yet translated]
+
+আজি হৈতে এই মোর আজ্ঞা পালিবা ৷  
+ছোট-হরিদাসে ইঁহা আসিতে না দিবা ॥ ১১৩ ॥
+
+āji haite ei mora ājñā pālibā  
+choṭa-haridāse iṅhā āsite nā dibā
+
+(113) [not yet translated]
+
+দ্বার মানা, হরিদাস দুঃখী হৈল মনে ৷  
+কি লাগিয়া দ্বার মানা, কেহ নাহি জানে ॥ ১১৪ ॥
+
+dvāra mānā, haridāsa duḥkhī haila mane  
+ki lāgiyā dvāra mānā, keha nāhi jāne
+
+(114) [not yet translated]
+
+তিনদিন হরিদাস করে উপবাস ৷  
+স্বরূপাদি সবে পুছিলা প্রভুর পাশ ॥ ১১৫ ॥
+
+tinadina haridāsa kare upavāsa  
+svarūpādi sabe puchilā prabhura pāśa
+
+(115) [not yet translated]
+
+কোন্ অপরাধ, প্রভু, কৈল হরিদাস ?  
+কি লাগিয়া দ্বার-মানা, করে উপবাস ? ॥ ১১৬ ॥
+
+kon aparādha, prabhu, kaila haridāsa?  
+ki lāgiyā dvāra-mānā, kare upavāsa?
+
+(116) [not yet translated]
+
+প্রভু কহে, — বৈরাগী করে প্রকৃতি সম্ভাষণ ৷  
+দেখিতে না পারো আমি তাহার বদন ॥ ১১৭ ॥
+
+prabhu kahe, — vairāgī kare prakṛti sambhāṣaṇa  
+dekhite nā pāro āmi tāhāra vadana
+
+(117) [not yet translated]
+
+দুর্ব্বার ইন্দ্রিয় করে বিষয় গ্রহণ ৷  
+দারু-প্রকৃতি হরে মুনেরপি মন ॥ ১১৮ ॥
+
+durvāra indriya kare viṣaya grahaṇa  
+dāru-prakṛti hare munerapi mana
+
+(118) [not yet translated]
+
+মাত্রা স্বস্রা দুহিত্রা বা নাবিবিক্তাসনো বসেৎ ৷  
+বলবানিন্দ্রিয়গ্রামো বিদ্বাংসমপি কর্ষতি ॥ ১১৯ ॥
+
+mātrā svasrā duhitrā vā  
+nā viviktāsano baset  
+balavān indriya-grāmo  
+vidvāṁsam api karṣati
+
+(119) [not yet translated]
+
+ক্ষুদ্রজীব সব মর্কট-বৈরাগ্য করিয়া ৷  
+ইন্দ্রিয় চরাঞা বুলে ‘প্রকৃতি’ সম্ভাষিয়া ॥ ১২০ ॥
+
+kṣudra-jīva saba markaṭa-vairāgya kariyā  
+indriya carāñā bule ‘prakṛti’ sambhāṣiyā
+
+(120) [not yet translated]
+
+এত কহি’ মহাপ্রভু অভ্যন্তরে গেলা ৷  
+গোসাঞির আবেশ দেখি’ সবে মৌন হৈলা ॥ ১২১ ॥
+
+eta kahi’ mahāprabhu abhyantare gelā  
+gosāñira āveśa dekhi’ sabe mauna hailā
+
+(121) [not yet translated]
+
+আর দিনে সবে মেলি’ প্রভুর চরণে ৷  
+হরিদাস লাগি, কিছু কৈলা নিবেদনে ॥ ১২২ ॥
+
+āra dine sabe meli’ prabhura caraṇe  
+haridāsa lāgi, kichu kailā nivedane
+
+(122) [not yet translated]
+
+অল্প অপরাধ, প্রভু করহ প্রসাদ ৷  
+এবে শিক্ষা হইল না করিবে অপরাধ ॥ ১২৩ ॥
+
+alpa aparādha, prabhu karaha prasāda  
+ebe śikṣā haila nā karibe aparādha
+
+(123) [not yet translated]
+
+প্রভু কহে, — মোর বশ নহে মোর মন ৷  
+প্রকৃতিসম্ভাষী বৈরাগী না করে দর্শন ॥ ১২৪ ॥
+
+prabhu kahe, — mora vaśa nahe mora mana  
+prakṛti-sambhāṣī vairāgī nā kare darśana
+
+(124) [not yet translated]
+
+নিজ-কার্য্যে যাহ সবে, ছাড় বৃথা কথা ৷  
+পুনঃ যদি কহ আমা না দেখিবে হেথা ॥ ১২৫ ॥
+
+nija-kārye yāha sabe, chāḍa vṛthā kathā  
+punaḥ yadi kaha āmā nā dekhibe hethā
+
+(125) [not yet translated]
+
+এত শুনি’ সবে নিজ-কর্ণে হস্ত দিয়া ৷  
+নিজ-নিজ-কার্য্যে সবে গেল ত’ উঠিয়া ॥ ১২৬ ॥
+
+eta śuni’ sabe nija-karṇe hasta diyā  
+nija-nija-kārye sabe gela ta’ uṭhiyā
+
+(126) [not yet translated]
+
+মহাপ্রভু মধ্যাহ্ন করিতে চলি’ গেলা ৷  
+বুঝন না যায় এই মহাপ্রভুর লীলা ॥ ১২৭ ॥
+
+mahāprabhu madhyāhna karite cali’ gelā  
+bujhana nā yāya ei mahāprabhura līlā
+
+(127) [not yet translated]
+
+আর দিন সবে পরমানন্দপুরী-স্থানে ৷  
+প্রভুকে প্রসন্ন কর — কৈলা নিবেদনে ॥ ১২৮ ॥
+
+āra dina sabe paramānanda-purī-sthāne  
+prabhuke prasanna kara — kailā nivedane
+
+(128) [not yet translated]
+
+তবে পুরী-গোসাঞি একা প্রভুস্থানে আইলা ৷  
+নমস্করি’ প্রভু তাঁরে সম্ভ্রমে বসাইলা ॥ ১২৯ ॥
+
+tabe purī-gosāñi ekā prabhusthāne āilā  
+namaskari’ prabhu tāṅre sambhrame vasāilā
+
+(129) [not yet translated]
+
+পুছিলা, — কি আজ্ঞা? কেনে হৈল আগমন ?  
+হরিদাসে প্রসাদ লাগি’ কৈলা নিবেদন ॥ ১৩০ ॥
+
+puchilā, — ki ājñā? kene haila āgamana?  
+haridāse prasāda lāgi’ kailā nivedana
+
+(130) [not yet translated]
+
+শুনিয়া কহেন প্রভু, — শুনহ, গোসাঞি ৷  
+সব বৈষ্ণব লঞা তুমি রহ এই ঠাঞি ॥ ১৩১ ॥
+
+śuniyā kahena prabhu, — śunaha, gosāñi  
+saba vaiṣṇava lañā tumi raha ei ṭhāñi
+
+(131) [not yet translated]
+
+মোরে আজ্ঞা হয়, মুঞি যাঙ আলালনাথ ৷  
+একলে রহিব তাঁহা, গোবিন্দ-মাত্র সাথ ॥ ১৩২ ॥
+
+more ājñā haya, muñi yāṅa ālālanātha  
+ekale rahiba tāṅhā, govinda-mātra sātha
+
+(132) [not yet translated]
+
+এত বলি’ প্রভু যদি গোবিন্দে বোলাইলা ৷  
+পুরীরে নমস্কার করি’ উঠিয়া চলিলা ॥ ১৩৩ ॥
+
+eta bali’ prabhu yadi govinde bolāilā  
+purīre namaskāra kari’ uṭhiyā calilā
+
+(133) [not yet translated]
+
+আস্তে-ব্যস্তে পুরী-গোসাঞি প্রভু আগে গেলা ৷  
+অনুনয় করি’ প্রভুরে ঘরে ফিরাইলা ॥ ১৩৪ ॥
+
+āste-vyaste purī-gosāñi prabhu āge gelā  
+anunaya kari’ prabhure ghare phirāilā
+
+(134) [not yet translated]
+
+তোমার যে ইচ্ছা, কর, স্বতন্ত্র ঈশ্বর ৷  
+কেবা কি বলিতে পারে তোমার উপর ? ॥ ১৩৫ ॥
+
+tomāra ye icchā, kara, svatantra īśvara  
+kebā ki balite pāre tomāra upara?
+
+(135) [not yet translated]
+
+লোক-হিত লাগি’ তোমার সব ব্যবহার ৷  
+আমি সব না জানি গম্ভীর হৃদয় তোমার ॥ ১৩৬ ॥
+
+loka-hita lāgi’ tomāra saba vyavahāra  
+āmi saba nā jāni gambhīra hṛdaya tomāra
+
+(136) [not yet translated]
+
+এত বলি’ পুরী-গোসাঞি গেলা নিজ-স্থানে ৷  
+হরিদাস স্থানে গেলা সব ভক্তগণে ॥ ১৩৭ ॥
+
+eta bali’ purī-gosāñi gelā nija-sthāne  
+haridāsa sthāne gelā saba bhakta-gaṇe
+
+(137) [not yet translated]
+
+স্বরূপ-গোসাঞি কহে, — শুন, হরিদাস ৷  
+সবে তোমার হিত বাঞ্ছিছ, করহ বিশ্বাস ॥ ১৩৮ ॥
+
+svarūpa-gosāñi kahe, — śuna, haridāsa  
+sabe tomāra hita vāñchicha, karaha viśvāsa
+
+(138) [not yet translated]
+
+প্রভু হঠে পড়িয়াছে স্বতন্ত্র ঈশ্বর ৷  
+কভু কৃপা করিবেন দয়ালু-অন্তর ॥ ১৩৯ ॥
+
+prabhu haṭhe paḍiyāche svatantra īśvara  
+kabhu kṛpā karibena dayālu-antara
+
+(139) [not yet translated]
+
+তুমি হঠ কৈলে তাঁর হঠ সে বাড়িবে ৷  
+স্নান ভোজন কৈলে, আপনে ক্রোধ যাবে ॥ ১৪০ ॥
+
+tumi haṭha kaile tāṅra haṭha se bāḍibe  
+snāna bhojana kaile, āpane krodha yābe
+
+(140) [not yet translated]
+
+এত বলি’ তারে স্নান ভোজন করাঞা ৷  
+আপন-ভবন আইলা তারে আশ্বাসিয়া ॥ ১৪১ ॥
+
+eta bali’ tāre snāna bhojana karāñā  
+āpana-bhavana āilā tāre āśvāsiyā
+
+(141) [not yet translated]
+
+প্রভু যদি যান জগন্নাথ-দরশনে ৷  
+দূরে রহি’ হরিদাস করেন দর্শনে ॥ ১৪২ ॥
+
+prabhu yadi yāna jagannātha-daraśane  
+dūre rahi’ haridāsa karena darśane
+
+(142) [not yet translated]
+
+মহাপ্রভু — কৃপাসিন্ধু, কে পারে বুঝিতে ?  
+নিজ-ভক্তে দণ্ড করেন ‘ধর্ম্ম’ বুঝাইতে ॥ ১৪৩ ॥
+
+mahāprabhu — kṛpā-sindhu, ke pāre bujhite?  
+nija-bhakte daṇḍa karena ‘dharma’ bujhāite
+
+(143) [not yet translated]
+
+দেখি’ ত্রাস উপজিল সব-ভক্তগণে ৷  
+স্বপ্নেহ ছাড়িল সবে স্ত্রী-সম্ভাষণে ॥ ১৪৪ ॥
+
+dekhi’ trāsa upajila saba-bhakta-gaṇe  
+svapne-ha chāḍila sabe strī-sambhāṣaṇe
+
+(144) [not yet translated]
+
+এইমতে হরিদাসের এক বৎসর গেল ৷  
+তবু মহাপ্রভুর মনে প্রসাদ নহিল ॥ ১৪৫ ॥
+
+ei-mate haridāsera eka vatsara gela  
+tabu mahāprabhura mane prasāda nahila
+
+(145) [not yet translated]
+
+রাত্রি-শেষে প্রভুরে দণ্ডবৎ হঞা ৷  
+প্রয়াগেতে গেল কারেহ কিছু না বলিয়া ॥ ১৪৬ ॥
+
+rātri-śeṣe prabhure daṇḍavat hañā  
+prayāgete gela kāreha kichu nā baliyā
+
+(146) [not yet translated]
+
+প্রভুপদপ্রাপ্তি লাগি’ সংকল্প করিল ৷  
+ত্রিবেণী প্রবেশ করি’ প্রাণ ছাড়িল ॥ ১৪৭ ॥
+
+prabhu-pada-prāpti lāgi’ saṁkalpa karila  
+triveṇī praveśa kari’ prāṇa chāḍila
+
+(147) [not yet translated]
+
+সেইক্ষণে প্রভুস্থানে দিব্য-দেহে আইলা ৷  
+প্রভুকৃপা পাঞা অন্তর্দ্ধানেই রহিলা ॥ ১৪৮ ॥
+
+sei-kṣaṇe prabhusthāne divya-dehe āilā  
+prabhu-kṛpā pāñā antarddhānei rahilā
+
+(148) [not yet translated]
+
+গন্ধর্ব্ব-দেহে গান করেন অন্তর্দ্ধানে ৷  
+রাত্র্যে প্রভুরে, শুনায়, অন্যে নাহি জানে ॥ ১৪৯ ॥
+
+gandharva-dehe gāna karena antarddhāne  
+rātrye prabhure, śunāya, anye nāhi jāne
+
+(149) [not yet translated]
+
+একদিন মহাপ্রভু পুছিলা ভক্তগণে ৷  
+হরিদাস কাঁহা ? তারে আনহ এখানে ॥ ১৫০ ॥
+
+ekadina mahāprabhu puchilā bhakta-gaṇe  
+haridāsa kāṅhā? tāre ānaha ekhāne
+
+(150) [not yet translated]
+
+সবে কহে, — হরিদাস বর্ষপূর্ণ দিনে ৷  
+রাত্রে উঠি’ কাঁহা গেলা, কেহ নাহি জানে ॥ ১৫১ ॥
+
+sabe kahe, — haridāsa varṣa-pūrṇa dine  
+rātre uṭhi’ kāṅhā gelā, keha nāhi jāne
+
+(151) [not yet translated]
+
+শুনি’ মহাপ্রভু ঈষৎ হাসিয়া রহিলা ৷  
+সব-ভক্তগণ-মনে বিস্ময় জন্মিলা ॥ ১৫২ ॥
+
+śuni’ mahāprabhu īṣat hāsiyā rahilā  
+saba-bhakta-gaṇa-mane vismaya janmilā
+
+(152) [not yet translated]
+
+একদিন জগদানন্দ, স্বরূপ, গোবিন্দ ৷  
+কাশীশ্বর, শঙ্কর, দামোদর, মুকুন্দ ॥ ১৫৩ ॥
+
+সমুদ্রস্নানে গেলা সবে, শুনে কথো দূরে ৷  
+হরিদাস গায়েন, যেন ডাকি’ কণ্ঠস্বরে ॥ ১৫৪ ॥
+
+ekadina jagadānanda, svarūpa, govinda  
+kāśīśvara, śaṅkara, dāmodara, mukunda  
+samudra-snāne gelā sabe, śune katho dūre  
+haridāsa gāyena, yena ḍāki’ kaṇṭha-svare
+
+(153–154) [not yet translated]
+
+মনুষ্য না দেখে, — মধুর গীতমাত্র শুনে ৷  
+গোবিন্দাদি সবে মেলি’ কৈল অনুমানে ॥ ১৫৫ ॥
+
+manuṣya nā dekhe, — madhura gīta-mātra śune  
+govindādi sabe meli’ kaila anumāne
+
+(155) [not yet translated]
+
+বিষাদি খাঞা হরিদাস আত্মঘাত কৈল ৷  
+সেই পাপে জানি ‘ব্রহ্মরাক্ষস’ হৈল ॥ ১৫৬ ॥
+
+viṣādi khāñā haridāsa ātma-ghāta kaila  
+sei pāpe jāni ‘brahma-rākṣasa’ haila
+
+(156) [not yet translated]
+
+আকার না দেখি, মাত্র শুনি তার গান ৷  
+স্বরূপ কহেন, — এই মিথ্যা অনুমান ॥ ১৫৭ ॥
+
+ākāra nā dekhi, mātra śuni tāra gāna  
+svarūpa kahena, — ei mithyā anumāna
+
+(157) [not yet translated]
+
+আ-জন্ম কৃষ্ণকীর্ত্তন প্রভুর সেবন ৷  
+প্রভু-কৃপাপাত্র, আর ক্ষেত্রের মরণ ॥ ১৫৮ ॥
+
+ā-janma kṛṣṇakīrtana prabhura sevana  
+prabhu-kṛpāpātra, āra kṣetrera maraṇa
+
+(158) [not yet translated]
+
+দুর্গতি না হয় তার, সদ্গতি সে হয় ৷  
+প্রভু-ভঙ্গী এই, পাছে জানিবা নিশ্চয় ॥ ১৫৯ ॥
+
+durgati nā haya tāra, sadgati se haya  
+prabhu-bhaṅgī ei, pāche jānibā niścaya
+
+(159) [not yet translated]
+
+প্রয়াগ হৈতে এক বৈষ্ণব নবদ্বীপ আইল ৷  
+হরিদাসের বার্ত্তা তেঁহো সবারে কহিল ॥ ১৬০ ॥
+
+prayāga haite eka vaiṣṇava navadvīpa āila  
+haridāsera vārtā teṅho sabāre kahila
+
+(160) [not yet translated]
+
+যৈছে সংকল্প, যৈছে ত্রিবেণী প্রবেশিল ৷  
+শুনি’ শ্রীবাসাদির মনে বিস্ময় হইল ॥ ১৬১ ॥
+
+yaiche saṁkalpa, yaiche triveṇī praveśila  
+śuni’ śrīvāsādira mane vismaya haila
+
+(161) [not yet translated]
+
+বর্ষান্তরে শিবানন্দ সব ভক্ত লঞা ৷  
+প্রভুরে মিলিলা আসি’ আনন্দিত হঞা ॥ ১৬২ ॥
+
+varṣāntare śivānanda saba bhakta lañā  
+prabhure mililā āsi’ ānandita hañā
+
+(162) [not yet translated]
+
+হরিদাস কাহাঁ? যদি শ্রীবাস পুছিলা ৷  
+‘স্বকর্ম্মফলভুক্ পুমান্’ — প্রভু উত্তর দিলা ॥ ১৬৩ ॥
+
+haridāsa kāhāṅ? yadi śrīvāsa puchilā  
+‘sva-karma-phala-bhuk pumān’ — prabhu uttara dilā
+
+(163) [not yet translated]
+
+তবে শ্রীবাস তার বৃত্তান্ত কহিল ৷  
+যৈছে সংকল্প, যৈছে ত্রিবেণী প্রবেশিল ॥ ১৬৪ ॥
+
+tabe śrīvāsa tāra vṛttānta kahila  
+yaiche saṁkalpa, yaiche triveṇī praveśila
+
+(164) [not yet translated]
+
+শুনি’ প্রভু হাসি’ কহে সুপ্রসন্ন-চিত্ত ৷  
+প্রকৃতি দর্শন কৈলে এই প্রায়শ্চিত্ত ॥ ১৬৫ ॥
+
+śuni’ prabhu hāsi’ kahe suprasanna-citta  
+prakṛti darśana kaile ei prāyaścitta
+
+(165) [not yet translated]
+
+স্বরূপাদি মিলি’ তবে বিচার করিলা ৷  
+ত্রিবেণী-প্রভাবে হরিদাস প্রভুপাশ আইলা ॥ ১৬৬ ॥
+
+svarūpādi mili’ tabe vicāra karilā  
+triveṇī-prabhāve haridāsa prabhu-pāśa āilā
+
+(166) [not yet translated]
+
+এইমত লীলা করে শচীর নন্দন ৷  
+যাহা শুনি’ ভক্তগণের জুড়ায় কর্ণ-মন ॥ ১৬৭ ॥
+
+ei-mata līlā kare śacīra nandana  
+yāhā śuni’ bhakta-gaṇera juḍāya karṇa-mana
+
+(167) [not yet translated]
+
+আপন-কারুণ্য, লোকে বৈরাগ্য-শিক্ষণ ৷  
+স্বভক্তের গাঢ়-অনুরাগ-প্রকটীকরণ ॥ ১৬৮ ॥
+
+āpana-kāruṇya, loke vairāgya-śikṣaṇa  
+svabhaktera gāḍha-anurāga-prakaṭīkaraṇa
+
+(168) [not yet translated]
+
+তীর্থের মহিমা, নিজ-ভক্তে আত্মসাৎ ৷  
+এক লীলায় করেন প্রভু কার্য্য পাঁচ-সাত ॥ ১৬৯ ॥
+
+tīrthera mahimā, nija-bhakte ātmasāt  
+eka līlāya karena prabhu kārya pāṅca-sāta
+
+(169) [not yet translated]
+
+মধুর চৈতন্যলীলা — সমুদ্র-গম্ভীর ৷  
+লোকে নাহি বুঝে, বুঝে যেই ‘ভক্ত’ ‘ধীর’ ॥ ১৭০ ॥
+
+madhura caitanya-līlā — samudra-gambhīra  
+loke nāhi bujhe, bujhe yei ‘bhakta’ ‘dhīra’
+
+(170) [not yet translated]
+
+বিশ্বাস করিয়া শুন চৈতন্যচরিত ৷  
+তর্ক না করিহ, তর্কে হবে বিপরীত ॥ ১৭১ ॥
+
+viśvāsa kariyā śuna caitanya-carita  
+tarka nā kariha, tarke habe viparīta
+
+(171) [not yet translated]
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৭২ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+caitanya-caritāmṛta kahe kṛṣṇadāsa
+
+(172) [not yet translated]
