@@ -316,33 +316,41 @@ order  do  what  shall I do  your  servant
 আপনা পবিত্র কৈলুঁ তোমার দরশনে ॥ ৩১ ॥
 
 miśra kahe, — tomā dekhite haila āgamane  
-āpanā pavitra kailuṅ tomāra daraśane
+Miśra  says  you  to see  there was  coming  
+āpanā pavitra kailuṅ tomāra daraśane  
+myself  pure  I made  by your  sight
 
-(31) [not yet translated]
+(31) Miśra said, “I came to see you, and by seeing you I have purified myself.”
 
 অতিকাল দেখি’ মিশ্র কিছু না কহিল ৷  
 বিদায় হইয়া মিশ্র নিজঘর গেল ॥ ৩২ ॥
 
 atikāla dekhi’ miśra kichu nā kahila  
-vidāya haiyā miśra nijaghara gela
+the late hour  seeing  Miśra  anything  not  said  
+vidāya haiyā miśra nijaghara gela  
+leave  taking  Miśra  to his home  went
 
-(32) [not yet translated]
+(32) Seeing that it was too late, Miśra said nothing more; he took his leave and went home.
 
 আর দিন মিশ্র আইল প্রভু-বিদ্যমানে ৷  
 প্রভু কহে, — কৃষ্ণকথা শুনিলা রায়স্থানে ? ॥ ৩৩ ॥
 
 āra dina miśra āila prabhu-vidyamāne  
-prabhu kahe, — kṛṣṇa-kathā śunilā rāyasthāne?
+the next  day  Miśra  came  into the Lord’s presence  
+prabhu kahe, — kṛṣṇa-kathā śunilā rāyasthāne?  
+the Lord  says  about Kṛṣṇa talks  did you hear  from Rāya
 
-(33) [not yet translated]
+(33) The next day Miśra came before the Lord, and the Lord asked, “Did you hear about Kṛṣṇa from Rāya?”
 
 তবে মিশ্র রামানন্দের বৃত্তান্ত কহিলা ৷  
 শুনি’ মহাপ্রভু তবে কহিতে লাগিলা ॥ ৩৪ ॥
 
 tabe miśra rāmānandera vṛttānta kahilā  
-śuni’ mahāprabhu tabe kahite lāgilā
+then  Miśra  Rāmānanda’s  doings  told  
+śuni’ mahāprabhu tabe kahite lāgilā  
+hearing  Mahāprabhu  then  to speak  began
 
-(34) [not yet translated]
+(34) Then Miśra told Him what Rāmānanda had been doing, and when Mahāprabhu heard it, He began to speak.
 
 আমি ত’ সন্ন্যাসী, আপনারে বিরক্ত করি’ মানি ৷  
 দর্শন রহু দূরে, ‘প্রকৃতি’র নাম যদি শুনি ॥ ৩৫ ॥
@@ -351,75 +359,95 @@ tabe miśra rāmānandera vṛttānta kahilā
 প্রকৃতি-দর্শনে স্থির হয় কোন্ জন ? ॥ ৩৬ ॥
 
 āmi ta’ sannyāsī, āpanāre virakta kari’ māni  
+I  indeed  a sannyāsī  Myself  detached  as  I consider  
 darśana rahu dūre, ‘prakṛti’ra nāma yadi śuni  
+seeing  let it remain  far  of a woman  the name  if  I hear  
 tabahiṅ vikāra pāya mora tanu-mana  
-prakṛti-darśane sthira haya kon jana?
+even then  agitation  gets  My  body and mind  
+prakṛti-darśane sthira haya kon jana?  
+a woman  on seeing  steady  is  what  person
 
-(35–36) [not yet translated]
+(35–36) “I am a *sannyāsī* and consider Myself detached; yet, to say nothing of seeing a woman, if I merely hear a woman’s name, My body and mind are disturbed. Who can remain steady on seeing a woman?
 
 রামানন্দ-রায়ের কথা শুন, সর্ব্বজন ৷  
 কহিবার নহে, যাহা আশ্চর্য্য-কথন ॥ ৩৭ ॥
 
 rāmānanda-rāyera kathā śuna, sarva-jana  
-kahibāra nahe, yāhā āścarya-kathana
+of Rāmānanda Rāya  the account  hear  all people  
+kahibāra nahe, yāhā āścarya-kathana  
+to be told  it is not  which  a wondrous account
 
-(37) [not yet translated]
+(37) Hear, all of you, about Rāmānanda Rāya — an account so wondrous that it can hardly be told.
 
 একে দেবদাসী, আর সুন্দরী তরুণী ৷  
 তাহাদের সব সেবা করেন আপনি ॥ ৩৮ ॥
 
 eke deva-dāsī, āra sundarī taruṇī  
-tāhādera saba sevā karena āpani
+first  devadāsīs  and  beautiful  young women  
+tāhādera saba sevā karena āpani  
+for them  all  service  he does  himself
 
-(38) [not yet translated]
+(38) First, they are *devadāsī*s, maidservants of the Deity, and moreover they are beautiful young women; yet he himself performs every service for them.
 
 স্নানাদি করায়, পরায় বাস-বিভূষণ ৷  
 গুহ্য অঙ্গ যত, তার দর্শন-স্পর্শন ॥ ৩৯ ॥
 
 snānādi karāya, parāya vāsa-vibhūṣaṇa  
-guhya aṅga yata, tāra darśana-sparśana
+bathing and so on  he has them do  he puts on  clothes and ornaments  
+guhya aṅga yata, tāra darśana-sparśana  
+private  parts  all  of them  seeing and touching
 
-(39) [not yet translated]
+(39) He bathes them, dresses them in clothes and ornaments, and sees and touches all the private parts of their bodies.
 
 তবু নির্ব্বিকার রায়-রামানন্দের মন ৷  
 নানাভাবোদ্গম তারে করায় শিক্ষণ ॥ ৪০ ॥
 
 tabu nirvikāra rāya-rāmānandera mana  
-nānābhāvodgama tāre karāya śikṣaṇa
+yet  unmoved  of Rāya Rāmānanda  the mind  
+nānābhāvodgama tāre karāya śikṣaṇa  
+the rising of various bhāvas  them  he makes  learn
 
-(40) [not yet translated]
+(40) Yet the mind of Rāya Rāmānanda remains unmoved as he teaches them to express the rising of many different *bhāva*s.
 
 নির্ব্বিকার দেহ-মন — কাষ্ঠ-পাষাণ সম !  
 আশ্চর্য্য, — তরুণী-স্পর্শে নির্ব্বিকার মন ! ॥ ৪১ ॥
 
 nirvikāra deha-mana — kāṣṭha-pāṣāṇa sama!  
-āścarya, — taruṇī-sparśe nirvikāra mana!
+unmoved  body and mind  wood and stone  like  
+āścarya, — taruṇī-sparśe nirvikāra mana!  
+wonderful  a young woman  at touching  unmoved  mind
 
-(41) [not yet translated]
+(41) His body and mind are unmoved, like wood or stone. How wonderful — at the touch of a young woman his mind is unmoved!
 
 এক রামানন্দের হয় এই অধিকার ৷  
 তাতে জানি অপ্রাকৃত-দেহ তাঁহার ॥ ৪২ ॥
 
 eka rāmānandera haya ei adhikāra  
-tāte jāni aprākṛta-deha tāṅhāra
+alone  of Rāmānanda  is  this  qualification  
+tāte jāni aprākṛta-deha tāṅhāra  
+from that  I know  transcendental  body  his
 
-(42) [not yet translated]
+(42) Rāmānanda alone has this qualification; from it I know that his body is transcendental.
 
 তাঁহার মনের ভাব তেঁহ জানে মাত্র ৷  
 তাহা জানিবারে আর দ্বিতীয় নাহি পাত্র ॥ ৪৩ ॥
 
 tāṅhāra manera bhāva teṅha jāne mātra  
-tāhā jānibāre āra dvitīya nāhi pātra
+his  mind’s  state  he  knows  only  
+tāhā jānibāre āra dvitīya nāhi pātra  
+that  to know  other  second  there is not  fit person
 
-(43) [not yet translated]
+(43) Only he knows the state of his mind; there is no one else fit to know it.
 
 কিন্তু শাস্ত্রদৃষ্ট্যে করি এক অনুমান ৷  
 শ্রীভাগবত-শাস্ত্র — তাহাতে প্রমাণ ॥ ৪৪ ॥
 
 kintu śāstra-dṛṣṭye kari eka anumāna  
-śrī-bhāgavata-śāstra — tāhāte pramāṇa
+but  of scripture  by the view  I make  one  inference  
+śrī-bhāgavata-śāstra — tāhāte pramāṇa  
+the Śrī Bhāgavata scripture  of that  the evidence
 
-(44) [not yet translated]
+(44) But in the light of scripture I draw one inference, and the *Śrīmad-Bhāgavatam* bears witness to it.
 
 ব্রজবধূ-সঙ্গে কৃষ্ণের রাসাদি-বিলাস ৷  
 যেই জন কহে, শুনে করিয়া বিশ্বাস ॥ ৪৫ ॥
@@ -428,19 +456,25 @@ kintu śāstra-dṛṣṭye kari eka anumāna
 তিনগুণ-ক্ষোভ নহে, ‘মহাধীর’ হয় ॥ ৪৬ ॥
 
 vraja-vadhū-saṅge kṛṣṇera rāsādi-vilāsa  
+with the young women of Vraja  Kṛṣṇa’s  the rāsa and other pastimes  
 yei jana kahe, śune kariyā viśvāsa  
+which  person  tells  hears  having  faith  
 hṛd-roga-kāma tāṅra tat-kāle haya kṣaya  
-tina-guṇa-kṣobha nahe, ‘mahā-dhīra’  haya
+the heart’s disease, lust  his  at once  is  destroyed  
+tina-guṇa-kṣobha nahe, ‘mahā-dhīra’  haya  
+of the three guṇas  agitation  is not  very sober  he becomes
 
-(45–46) [not yet translated]
+(45–46) Whoever, with faith, tells of or hears about Kṛṣṇa’s *rāsa* dance and other pastimes with the young women of Vraja — his lust, the disease of the heart, is destroyed at once. The three *guṇas* no longer agitate him, and he becomes ‘deeply sober’ (*mahā-dhīra*).
 
 উজ্জ্বল মধুর-রস প্রেমভক্তি পায় ৷  
 আনন্দে কৃষ্ণমাধুর্য্যে বিহরে সদায় ॥ ৪৭ ॥
 
 ujjvala madhura-rasa prema-bhakti pāya  
-ānande kṛṣṇa-mādhurye vihare sadāya
+radiant  of madhura-rasa  prema-bhakti  he attains  
+ānande kṛṣṇa-mādhurye vihare sadāya  
+in bliss  in Kṛṣṇa’s sweetness  he sports  always
 
-(47) [not yet translated]
+(47) He attains *prema-bhakti* in the radiant *madhura-rasa* and always sports in bliss in Kṛṣṇa’s sweetness.
 
 বিক্রীড়িতং ব্রজবধূভিরিদঞ্চ বিষ্ণোঃ  
 শ্রদ্ধান্বিতোঽনুশৃণুয়াদথ বর্ণয়েদ্ যঃ ৷  
@@ -448,107 +482,135 @@ ujjvala madhura-rasa prema-bhakti pāya
 হৃদ্রোগমাশ্বপহিনোত্যচিরেণ ধীরঃ ॥ ৪৮ ॥
 
 vikrīḍitaṁ vraja-vadhūbhir idaṁ ca viṣṇoḥ  
+the play  with the young women of Vraja  this  and  of Viṣṇu  
 śraddhānvito ’nuśṛṇuyād atha varṇayed yaḥ  
+endowed with faith  constantly hears  then  describes  who  
 bhaktiṁ parāṁ bhagavati pratilabhya kāmaṁ  
-hṛd-rogam āśv apahinoty acireṇa dhīraḥ
+devotion  supreme  for the Lord  having attained  lust  
+hṛd-rogam āśv apahinoty acireṇa dhīraḥ  
+the heart’s disease  quickly  casts off  soon  sober
 
-(48) [not yet translated]
+(48) “One who, endowed with faith, constantly hears about this play of Viṣṇu with the young women of Vraja and then describes it, soon attains supreme devotion to the Lord and, becoming sober, quickly casts off lust, the disease of the heart.” (Śrīmad-Bhāgavatam, 10.33.39)
 
 যে শুনে, যে পড়ে, তাঁর ফল এতাদৃশী ৷  
 সেই ভাবাবিষ্ট, যেই সেবে অহর্নিশি ॥ ৪৯ ॥
 
 ye śune, ye paḍe, tāṅra phala etādṛśī  
-sei bhāvāviṣṭa, yei seve ahar-niśi
+who  hears  who  reads  his  fruit  is such  
+sei bhāvāviṣṭa, yei seve ahar-niśi  
+he  absorbed in bhāva  who  serves  day and night
 
-(49) [not yet translated]
+(49) Whoever hears it or reads it gains such a fruit. And one who serves day and night is absorbed in *bhāva*;
 
 তাঁর ফল কি কহিমু, কহনে না যায় ৷  
 নিত্যসিদ্ধ সেই, প্রায়-সিদ্ধ তাঁর কায় ॥ ৫০ ॥
 
 tāṅra phala ki kahimu, kahane nā yāya  
-nitya-siddha sei, prāya-siddha tāṅra kāya
+his  fruit  what  shall I tell  in words  not  it goes  
+nitya-siddha sei, prāya-siddha tāṅra kāya  
+eternally perfect  he  almost perfect  his  body
 
-(50) [not yet translated]
+(50) what can I say of his fruit? It cannot be put into words. He is eternally perfect (*nitya-siddha*), and his body is almost perfect (*prāya-siddha*).
 
 রাগানুগ-মার্গে জানি রায়ের ভজন ৷  
 সিদ্ধদেহ-তুল্য, তাতে ‘প্রাকৃত’ নহে মন ॥ ৫১ ॥
 
 rāgānuga-mārge jāni rāyera bhajana  
-siddha-deha-tulya, tāte ‘prākṛta’ nahe mana
+on the rāgānuga path  I know  Rāya’s  worship  
+siddha-deha-tulya, tāte ‘prākṛta’ nahe mana  
+to a perfected body  equal  therefore  mundane  is not  the mind
 
-(51) [not yet translated]
+(51) I know that Rāya worships on the path of *rāgānuga*. His body is like a perfected body (*siddha-deha*), and so his mind is not mundane.
 
 আমিহ রায়ের স্থানে শুনি কৃষ্ণকথা ৷  
 শুনিতে ইচ্ছা হয় যদি, পুনঃ যাহ’ তথা ॥ ৫২ ॥
 
 āmiha rāyera sthāne śuni kṛṣṇa-kathā  
-śunite icchā haya yadi, punaḥ yāha’ tathā
+I too  Rāya’s  at the place  hear  talks about Kṛṣṇa  
+śunite icchā haya yadi, punaḥ yāha’ tathā  
+to hear  desire  is  if  again  go  there
 
-(52) [not yet translated]
+(52) I too hear about Kṛṣṇa from Rāya. If you wish to hear, go there again.
 
 মোর নামে কহিহ, — তেঁহো পাঠাইলা মোরে ৷  
 তোমার স্থানে কৃষ্ণকথা শুনিবার তরে ॥ ৫৩ ॥
 
 mora nāme kahiha, — teṅho pāṭhāilā more  
-tomāra sthāne kṛṣṇa-kathā śunibāra tare
+in My  name  say  He  sent  me  
+tomāra sthāne kṛṣṇa-kathā śunibāra tare  
+your  at the place  talks about Kṛṣṇa  to hear  in order
 
-(53) [not yet translated]
+(53) Tell him in My name: ‘He has sent me to hear about Kṛṣṇa from you.’
 
 শীঘ্র যাহ’, যাবৎ তেঁহো আছেন সভাতে ৷  
 এত শুনি’ প্রদ্যুম্ন-মিশ্র চলিলা ত্বরিতে ॥ ৫৪ ॥
 
 śīghra yāha’, yāvat teṅho āchena sabhāte  
-eta śuni’ pradyumna-miśra calilā tvarite
+quickly  go  while  he  is  in the hall  
+eta śuni’ pradyumna-miśra calilā tvarite  
+this  hearing  Pradyumna Miśra  went  in haste
 
-(54) [not yet translated]
+(54) Go quickly, while he is still in the hall.” Hearing this, Pradyumna Miśra set off in haste.
 
 রায়-পাশ গেল, রায় প্রণতি করিল ৷  
 আজ্ঞা কর, যে লাগি’ আগমন হৈল ॥ ৫৫ ॥
 
 rāya-pāśa gela, rāya praṇati karila  
-ājñā kara, ye lāgi’ āgamana haila
+to Rāya  he went  Rāya  obeisance  made  
+ājñā kara, ye lāgi’ āgamana haila  
+order  do  what  for  coming  has been
 
-(55) [not yet translated]
+(55) He went to Rāya, and Rāya bowed to him and said, “Command me; tell me why you have come.”
 
 মিশ্র কহে, — মহাপ্রভু পাঠাইলা মোরে ৷  
 তোমার স্থানে কৃষ্ণকথা শুনিবার তরে ॥ ৫৬ ॥
 
 miśra kahe, — mahāprabhu pāṭhāilā more  
-tomāra sthāne kṛṣṇa-kathā śunibāra tare
+Miśra  says  Mahāprabhu  sent  me  
+tomāra sthāne kṛṣṇa-kathā śunibāra tare  
+your  at the place  talks about Kṛṣṇa  to hear  in order
 
-(56) [not yet translated]
+(56) Miśra said, “Mahāprabhu has sent me to hear about Kṛṣṇa from you.”
 
 শুনি’ রামানন্দ মনে হইলা সন্তোষে ৷  
 কহিতে লাগিলা কিছু মনের হরিষে ॥ ৫৭ ॥
 
 śuni’ rāmānanda mane hailā santoṣe  
-kahite lāgilā kichu manera hariṣe
+hearing  Rāmānanda  in mind  became  pleased  
+kahite lāgilā kichu manera hariṣe  
+to speak  began  something  of the mind  in joy
 
-(57) [not yet translated]
+(57) Hearing this, Rāmānanda was pleased at heart, and with joy in his heart he said:
 
 প্রভুর আজ্ঞায় কৃষ্ণকথা শুনিতে আইলা এথা ৷  
 ইহা বই মহাভাগ্য আমি পাব কোথা ? ॥ ৫৮ ॥
 
 prabhura ājñāya kṛṣṇa-kathā śunite āilā ethā  
-ihā vai mahābhāgya āmi pāba kothā?
+of the Lord  by the order  talks about Kṛṣṇa  to hear  you came  here  
+ihā vai mahābhāgya āmi pāba kothā?  
+this  besides  great fortune  I  shall find  where
 
-(58) [not yet translated]
+(58) “By the Lord’s order you have come here to hear about Kṛṣṇa. Where else could I find such great fortune?”
 
 এত কহি তারে লঞা নিভৃতে বসিলা ৷  
 কি কথা শুনিতে চাহ? মিশ্রেরে পুছিলা ॥ ৫৯ ॥
 
 eta kahi tāre lañā nibhṛte vasilā  
-ki kathā śunite cāha? miśrere puchilā
+this  saying  him  taking  in seclusion  he sat  
+ki kathā śunite cāha? miśrere puchilā  
+what  topic  to hear  do you want  Miśra  he asked
 
-(59) [not yet translated]
+(59) Saying this, he took him to a secluded place, sat down with him and asked Miśra, “What would you like to hear?”
 
 তেঁহো কহে, — যে কহিলা বিদ্যানগরে ৷  
 সেই কথা ক্রমে তুমি কহিবা আমারে ॥ ৬০ ॥
 
 teṅho kahe, — ye kahilā vidyānagare  
-sei kathā krame tumi kahibā āmāre
+he  says  what  you told  in Vidyānagara  
+sei kathā krame tumi kahibā āmāre  
+those  topics  in order  you  please tell  me
 
-(60) [not yet translated]
+(60) He said, “What you told in Vidyānagara — please tell me those things, in their order.
 
 আনের কি কথা, তুমি — প্রভুর উপদেষ্টা !  
 আমি ত’ ভিক্ষুক বিপ্র, তুমি — মোর পোষ্টা ॥ ৬১ ॥
