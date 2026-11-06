@@ -1,0 +1,436 @@
+# English translation, Antya-līlā 5 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya05.txt, .p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–82; shift 2: 83–164.
+
+## 0
+tr: The Story of Pradyumna Miśra
+
+## 1
+w: by the ripening of karma  by the worm  bitten
+w: of malice  by the sore  afflicted
+w: in the ocean of humility  sunk  I
+w: Caitanya  the physician  I take shelter of
+tr: Bitten by the worm of ripened karma, tormented by the sore of malice, and sunk in an ocean of humility, I take shelter of Caitanya, the physician.
+fn: *Anubhāṣya*: *vaiguṇya* — the ripening of the fruits of karma; *paiśunya* — malice. Edition heading: for the jīva bereft of consciousness, stricken with the disease of worldly existence and fallen into the ocean of saṁsāra, the only good lies in taking shelter of Caitanya’s feet.
+
+## 2
+w: glory  glory  to the son of Śacī  to Śrī Kṛṣṇa Caitanya
+w: glory  glory  to the all-merciful  Nityānanda  the blessed
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya, the son of Śacī! Glory, glory to the all-merciful, blessed Nityānanda!
+
+## 3
+w: glory to Advaita  of mercy  the ocean  glory  to the devotees  all
+w: glory  to Svarūpa  Gadādhara  Rūpa  Sanātana
+tr: Glory to Advaita, the ocean of mercy! Glory to all the devotees! Glory to Svarūpa, Gadādhara, Rūpa and Sanātana!
+
+## 4
+w: one day  Pradyumna Miśra  of the Lord  at the feet
+w: obeisance  making  something  he makes  submission
+tr: One day Pradyumna Miśra bowed down at the Lord’s feet and humbly made a request.
+
+## 5
+w: hear  O Lord  I  wretched  householder  lowly
+w: by what  fortune  I have obtained  Your  rare  feet
+tr: “Hear me, O Lord: I am a wretched, lowly householder. By what fortune have I obtained Your feet, so rarely attained?
+
+## 6
+w: about Kṛṣṇa talks  to hear  my  desire  is
+w: about Kṛṣṇa talks  tell  me  becoming  kind
+tr: I wish to hear talks about Kṛṣṇa. Be kind to me and tell me about Kṛṣṇa.”
+
+## 7
+w: the Lord  says  about Kṛṣṇa talks  I  not  know
+w: only  Rāmānanda  knows  his  from the mouth  I hear
+tr: The Lord said, “I know nothing of talks about Kṛṣṇa. Only Rāmānanda knows them, and I hear them from his lips.
+fn: Edition heading: the Lord pretends not to know and sends Miśra, born in a family of brāhmaṇas, to Rāmānanda as an eager disciple — to Rāmānanda, who was not a brāhmaṇa by birth, yet is the guru of all four varṇas and āśramas.
+
+## 8
+w: by fortune  your  about Kṛṣṇa talks  to hear  is  the mind
+w: to Rāmānanda  going  do  hearing
+tr: It is your good fortune that your mind longs to hear about Kṛṣṇa. Go to Rāmānanda and hear from him.
+
+## 9
+w: for talks about Kṛṣṇa  taste  your  very  fortunate
+w: whose  for talks about Kṛṣṇa  taste  he  fortunate
+tr: You have a taste for talks about Kṛṣṇa — you are very fortunate. One who has a taste for talks about Kṛṣṇa is truly fortunate.”
+
+## 10
+w: dharma  well performed  of people
+w: of Viṣvaksena  for the narrations  which
+w: not  awakens  if  attraction
+w: labor  only  certainly  merely
+tr: “Dharma, however well a person performs it, is nothing but wasted labour if it does not awaken attraction (*rati*) to the narrations about the Lord, Viṣvaksena.” (Śrīmad-Bhāgavatam, 1.2.8)
+fn: *Anubhāṣya*: the dharma of varṇa and āśrama; if it does not awaken attraction (*rati*) to the narrations about the Lord, it is wholly fruitless labour.
+
+## 11
+w: then  Pradyumna Miśra  went  Rāmānanda’s  to the place
+w: Rāya’s  servant  him  seated  on a seat
+tr: Then Pradyumna Miśra went to Rāmānanda’s house, and Rāya’s servant offered him a seat.
+
+## 12
+w: Rāya’s  sight  not  getting  the servant  he asked
+w: Rāya’s  doings  the servant  to tell  began
+tr: Not finding Rāya there, he asked the servant, and the servant told him what Rāya was doing:
+
+## 13
+w: two  maidens of the Deity  there are  supremely beautiful
+w: in dance and song  very skilled  in age  in early youth
+tr: “There are two maidens of the Deity (*deva-kanyās*), supremely beautiful, very skilled in dance and song, and in the bloom of youth.
+fn: The *Amṛta-pravāha-bhāṣya* calls them young *devadāsīs* (now called *māhārīs*), and the *Anubhāṣya* (on 25) “two devadāsīs” — maidservants of the Deity who dance before Śrī Jagannātha.
+
+## 14
+w: those  two  taking  Rāya  in a secluded  garden
+w: of his own drama’s songs  he teaches  dancing
+tr: Rāya has taken them both to a secluded garden and is teaching them to dance to the songs of his own drama.
+fn: *Anubhāṣya*: his own drama — the *Jagannātha-vallabha*, which Rāmānanda Rāya wrote in Sanskrit.
+
+## 15
+w: you  here  sitting  stay  in a moment  he will come
+w: to him  whatever  order  you give  that  he will do
+tr: Please sit here and wait; he will come shortly. Whatever you ask of him, he will do.”
+
+## 16
+w: then  Pradyumna Miśra  there  remained  sitting
+w: Rāmānanda  in seclusion  those  two  taking
+tr: So Pradyumna Miśra stayed there, waiting, while Rāmānanda, in a secluded place, attended to the two maidens.
+
+## 17
+w: with his own hands  he does  their  anointing with oil
+w: with his own hands  he gives  a bath  the body  cleansing
+tr: With his own hands he anointed them with oil; with his own hands he bathed them and cleansed their bodies.
+
+## 18
+w: with his own hands  he puts on  clothes  every limb  adorning
+w: yet  unmoved  of Rāya Rāmānanda  the mind
+tr: With his own hands he dressed them and adorned every limb, and yet the mind of Rāya Rāmānanda remained unmoved.
+
+## 19
+w: wood and stone  at touching  there is  as  feeling
+w: a young woman  at touching  Rāmānanda’s  so  nature
+tr: What one feels on touching wood or stone, Rāmānanda by nature feels on touching a young woman.
+
+## 20
+w: the sense of the one to be served  attributing  he does  service
+w: natural  maidservant’s mood  he does  taking upon himself
+tr: Seeing in them the ones to be served (*sevya-buddhi*), he served them, taking upon himself his own natural mood of a maidservant.
+fn: *Amṛta-pravāha-bhāṣya*: the two girls were to play the principal gopīs in the drama, so he regarded them as the ones to be served and took the mood of a maidservant following them; Rāmānanda knew himself to be a maidservant of Śrīmatī Rādhārāṇī.
+
+## 21
+w: of Mahāprabhu  of the devotees  unfathomable  glory
+w: among them  Rāmānanda’s  of bhāva, bhakti and prema  the limit
+tr: The glory of Mahāprabhu’s devotees is unfathomable, and among them, in Rāmānanda, bhāva, bhakti and prema reach their utmost limit.
+
+## 22
+w: then  those  two  dance  he taught
+w: of the songs  hidden  meaning  acting  he made them do
+tr: Then he taught the two to dance and had them act out the hidden meaning of the songs.
+fn: Edition heading: to stage his drama *Jagannātha-vallabha* before Śrī Jagannātha, Rāya teaches acting in the Jagannātha-vallabha garden.
+
+## 23
+w: transitory  sāttvika  of the abiding emotions  the signs
+w: in face and eyes  acting  they make  manifest
+tr: By acting with face and eyes, they brought out the signs of the transitory (*sañcārī*), the *sāttvika* and the abiding (*sthāyi*) feelings.
+
+## 24
+w: bhāva-revealing graceful dance  Rāya  which  teaches
+w: of Jagannātha  before  the two  openly  show
+tr: Rāya taught them the graceful feminine dance (*lāsya*) that reveals bhāva, and the two would display it openly before Jagannātha.
+
+## 25
+w: then  those  two  prasāda  he fed
+w: quietly  both  to their own home  he sent
+tr: Then he gave the two prasāda to eat and quietly sent them home.
+fn: Edition heading: after feeding the two devadāsīs, Rāya sends them home in secret — for the good of ignorant critics who judge only by what the senses show.
+
+## 26
+w: every day  Rāya  thus  makes them do  practice
+w: who  knows  petty  living being  where  his  mind
+tr: Every day Rāya trained them in this way. What petty soul can know where his mind dwells?
+
+## 27
+w: Miśra’s  arrival  to Rāya  the servant  told
+w: quickly  Rāmānanda  then  to the hall  came
+tr: The servant told Rāya that Miśra had come, and Rāmānanda at once came to the hall.
+
+## 28
+w: to Miśra  obeisance  he makes  respect  showing
+w: submission  he makes  something  humble  becoming
+tr: Showing him respect, he bowed to Miśra and humbly said:
+
+## 29
+w: long ago  you came  me  anyone  not  told
+w: at your  feet  my  offense  has been
+tr: “You came long ago, and no one told me. I have committed an offence at your feet.
+
+## 30
+w: by your  coming  my  pure  became  home
+w: order  do  what  shall I do  your  servant
+tr: Your coming has purified my home. Command me — what shall I, your servant, do?”
+
+## 31
+w: Miśra  says  you  to see  there was  coming
+w: myself  pure  I made  by your  sight
+tr: Miśra said, “I came to see you, and by seeing you I have purified myself.”
+
+## 32
+w: the late hour  seeing  Miśra  anything  not  said
+w: leave  taking  Miśra  to his home  went
+tr: Seeing that it was too late, Miśra said nothing more; he took his leave and went home.
+
+## 33
+w: the next  day  Miśra  came  into the Lord’s presence
+w: the Lord  says  about Kṛṣṇa talks  did you hear  from Rāya
+tr: The next day Miśra came before the Lord, and the Lord asked, “Did you hear about Kṛṣṇa from Rāya?”
+
+## 34
+w: then  Miśra  Rāmānanda’s  doings  told
+w: hearing  Mahāprabhu  then  to speak  began
+tr: Then Miśra told Him what Rāmānanda had been doing, and when Mahāprabhu heard it, He began to speak.
+
+## 35–36
+w: I  indeed  a sannyāsī  Myself  detached  as  I consider
+w: seeing  let it remain  far  of a woman  the name  if  I hear
+w: even then  agitation  gets  My  body and mind
+w: a woman  on seeing  steady  is  what  person
+tr: “I am a sannyāsī and consider Myself detached; yet, to say nothing of seeing a woman, if I merely hear a woman’s name, My body and mind are disturbed. Who can remain steady on seeing a woman?
+fn: Edition heading: Bhagavān, the ideal teacher of humility, humbly extols His devotee’s love for Kṛṣṇa as greater than His own.
+
+## 37
+w: of Rāmānanda Rāya  the account  hear  all people
+w: to be told  it is not  which  a wondrous account
+tr: Hear, all of you, about Rāmānanda Rāya — an account so wondrous that it can hardly be told.
+
+## 38
+w: first  devadāsīs  and  beautiful  young women
+w: for them  all  service  he does  himself
+tr: First, they are *devadāsīs*, maidservants of the Deity, and moreover they are beautiful young women; yet he himself performs every service for them.
+fn: The Gauḍīya Maṭha edition reads “তাহাদের সব সেবা”, “every service for them” (*Anubhāṣya*: all kinds of service; cf. 39).
+
+## 39
+w: bathing and so on  he has them do  he puts on  clothes and ornaments
+w: private  parts  all  of them  seeing and touching
+tr: He bathes them and dresses them in clothes and ornaments, and he sees and touches all the hidden parts of their bodies.
+
+## 40
+w: yet  unmoved  of Rāya Rāmānanda  the mind
+w: the rising of various bhāvas  them  he makes  learn
+tr: Yet the mind of Rāya Rāmānanda remains unmoved as he teaches them to express the stirrings of many different bhāvas.
+fn: *Anubhāṣya*: the thirty-three kinds of bhāva needed to enact the pastimes of Kṛṣṇa.
+
+## 41
+w: unmoved  body and mind  wood and stone  like
+w: wonderful  a young woman  at touching  unmoved  mind
+tr: His body and mind are unmoved, like wood or stone. How wonderful — at the touch of a young woman his mind is unmoved!
+
+## 42
+w: alone  of Rāmānanda  is  this  qualification
+w: from that  I know  transcendental  body  his
+tr: Rāmānanda alone has this qualification; from it I know that his body is transcendental.
+
+## 43
+w: his  mind’s  state  he  knows  only
+w: that  to know  other  second  there is not  fit person
+tr: Only he knows the state of his mind; there is no one else fit to know it.
+
+## 44
+w: but  in the light of scripture  I make  one  inference
+w: the Śrī Bhāgavata scripture  of that  the evidence
+tr: But in the light of scripture I draw one inference. The *Śrīmad-Bhāgavatam* bears witness to this.
+fn: The second line is the same as Madhya 13.67; translation as there.
+
+## 45–46
+w: with the young women of Vraja  Kṛṣṇa’s  the rāsa and other pastimes
+w: which  person  tells  hears  having  faith
+w: the heart’s disease, lust  his  at once  is  destroyed
+w: of the three guṇas  agitation  is not  very steady  he becomes
+tr: When a person tells of or hears with faith about Kṛṣṇa’s rāsa dance and other pastimes with the young women of Vraja, his lust, the disease of the heart, is destroyed at once. The three guṇas no longer agitate him, and he becomes perfectly steady (*mahā-dhīra*).
+fn: *Anubhāṣya*: this is said of one who, with faith and a transcendental heart, hears and describes Kṛṣṇa’s pastimes: the three guṇas cannot overcome him. Let no one think, like the prākṛta-sahajiyās, that without knowledge of sambandha, giving up sādhana-bhakti and taking Kṛṣṇa’s pastimes as a model of worldly enjoyment, one’s lust will vanish by merely hearing; by the word “faith” (*viśvāsa*) Mahāprabhu rejects that view (cf. Śrīmad-Bhāgavatam, 10.33.30).
+
+## 47
+w: radiant  of madhura-rasa  prema-bhakti  he attains
+w: in bliss  in Kṛṣṇa’s sweetness  he sports  always
+tr: He attains prema-bhakti in the radiant *madhura-rasa*, and in bliss he ever revels in Kṛṣṇa’s sweetness.
+
+## 48
+w: the play  with the young women of Vraja  this  and  of Viṣṇu
+w: endowed with faith  constantly hears  then  describes  who
+w: devotion  supreme  for the Lord  having attained  lust
+w: the heart’s disease  quickly  casts off  soon  steadfast
+tr: “The steadfast soul who, endowed with faith, constantly hears of this play of Viṣṇu with the young women of Vraja and then describes it, soon attains supreme devotion to the Lord and quickly casts off lust, the disease of the heart.” (Śrīmad-Bhāgavatam, 10.33.39)
+fn: *Anubhāṣya*: *pratilabhya* — “having attained”: devotion comes first, and lust is driven out; *anuśṛṇuyāt* — he hears constantly from the lips of the guru, free from worldly obstacles; *varṇayet* — he sings of it step by step, in the way of Śrī Rūpa’s followers; *dhīraḥ* — one who has conquered the six urges.
+
+## 49
+w: who  hears  who  reads  his  fruit  is such
+w: he  absorbed in bhāva  who  serves  day and night
+tr: Such is the fruit for whoever hears or reads of these pastimes. But as for one who, absorbed in bhāva, serves day and night —
+fn: *Anubhāṣya*: one who hears and chants Kṛṣṇa’s pastimes and, following the mood of Śrī Rūpa, serves Kṛṣṇa in the mind at every moment, absorbed in pure rāga, gains a matchless fruit that no worldly language can describe.
+
+## 50
+w: his  fruit  what  shall I tell  in words  not  it goes
+w: eternally perfect  he  almost perfect  his  body
+tr: what can I say of his fruit? It cannot be put into words. He is eternally perfect (*nitya-siddha*), and his body is almost perfect (*prāya-siddha*).
+fn: *Anubhāṣya*: he is an eternally perfect associate; or else his body is almost perfect — though seen by people’s eyes, it is the abode of feelings devoted to the service of Kṛṣṇa, until by Kṛṣṇa’s will he attains *vastu-siddhi*.
+
+## 51
+w: on the rāgānuga path  I know  Rāya’s  worship
+w: to a perfected body  equal  therefore  mundane  is not  the mind
+tr: I know that Rāya’s worship follows the path of rāgānuga. His body is like a perfected spiritual body (*siddha-deha*), and so his mind is not mundane.
+
+## 52
+w: I too  Rāya’s  at the place  hear  talks about Kṛṣṇa
+w: to hear  desire  is  if  again  go  there
+tr: I too hear about Kṛṣṇa from Rāya. If you wish to hear, go there again.
+
+## 53
+w: in My  name  say  He  sent  me
+w: your  at the place  talks about Kṛṣṇa  to hear  in order
+tr: Tell him in My name: ‘He has sent me to hear about Kṛṣṇa from you.’
+
+## 54
+w: quickly  go  while  he  is  in the hall
+w: this  hearing  Pradyumna Miśra  went  in haste
+tr: Go quickly, while he is still in the hall.” Hearing this, Pradyumna Miśra set off in haste.
+
+## 55
+w: to Rāya  he went  Rāya  obeisance  made
+w: order  do  what  for  coming  has been
+tr: He went to Rāya, and Rāya bowed to him and said, “Command me; tell me why you have come.”
+
+## 56
+w: Miśra  says  Mahāprabhu  sent  me
+w: your  at the place  talks about Kṛṣṇa  to hear  in order
+tr: Miśra said, “Mahāprabhu has sent me to hear about Kṛṣṇa from you.”
+
+## 57
+w: hearing  Rāmānanda  in mind  became  pleased
+w: to speak  began  something  of the mind  in joy
+tr: Hearing this, Rāmānanda was pleased, and with joy in his heart he began to speak:
+
+## 58
+w: of the Lord  by the order  talks about Kṛṣṇa  to hear  you came  here
+w: this  besides  great fortune  I  shall find  where
+tr: “By the Lord’s order you have come here to hear about Kṛṣṇa. Where else could I find such great fortune?”
+
+## 59
+w: this  saying  him  taking  in seclusion  he sat
+w: what  topic  to hear  do you want  Miśra  he asked
+tr: Saying this, he took him to a secluded place, sat down with him and asked Miśra, “What would you like to hear?”
+
+## 60
+w: he  says  what  you told  in Vidyānagara
+w: those  topics  in order  you  please tell  me
+tr: He said, “Please tell me, in order, all that you spoke of in Vidyānagara.
+fn: Edition heading: Miśra asks him to speak again of Kṛṣṇa — of sambandha, abhidheya and prayojana — as Rāya once spoke to the Lord (Madhya 8).
+
+## 61
+w: of others  what  talk  you  of the Lord  the instructor
+w: I  indeed  a mendicant  brāhmaṇa  you  my  sustainer
+tr: Not only of others — you are the instructor of the Lord Himself! I am a poor mendicant brāhmaṇa, and you are my sustainer.
+
+## 62
+w: good  bad  anything  I  to ask  not  know
+w: wretched  seeing  mercy  showing  please tell  yourself
+tr: I do not know how to ask anything, good or bad. Seeing how wretched I am, be merciful and tell me of your own accord.”
+
+## 63
+w: then  Rāmānanda  in order  to speak  began
+w: the ocean of the nectar of rasa in talks about Kṛṣṇa  surged
+tr: Then Rāmānanda began to speak in due order, and the nectar-ocean of rasa in his talk of Kṛṣṇa surged up.
+
+## 64
+w: himself  question  raising  afterward  he makes  conclusion
+w: the third  prahara  came  there is not  of the talk  end
+tr: He himself raised the questions and then gave the conclusive answers (*siddhānta*). The third watch (*prahara*) of the day came, and still the talk did not end.
+
+## 65
+w: the speaker  the listener  speaks  hears  both  in the absorption of prema
+w: self-awareness  there is not  how  they know  of the day  the end
+tr: Speaker and listener, one speaking and the other hearing, were both absorbed in prema. They had no awareness of themselves — how could they know the day had ended?
+
+## 66
+w: the servant  said  the day  has come  to an end
+w: then  Rāya  to the talk about Kṛṣṇa  made  a pause
+tr: When the servant said, “The day is over,” Rāya brought his talk of Kṛṣṇa to a close.
+
+## 67
+w: great respect  showing  to Miśra  leave  he gave
+w: fulfilled  I have become  saying  Miśra  to dance  began
+tr: With great respect he bade Miśra farewell, and Miśra, crying, “My life is fulfilled!” began to dance.
+
+## 68
+w: home  going  Miśra  did  bathing  eating
+w: in the evening  to see  he came  of the Lord  the feet
+tr: Miśra went home, bathed and took his meal, and in the evening he came to see the Lord’s feet.
+
+## 69
+w: the Lord’s  feet  he worships  with a joyful mind
+w: the Lord  says  talks about Kṛṣṇa  was there  hearing
+tr: With a joyful heart he bowed at the Lord’s feet, and the Lord asked, “Did you hear about Kṛṣṇa?”
+
+## 70
+w: Miśra  says  O Lord  me  fulfilled  You have made
+w: in the ocean of the nectar of talks about Kṛṣṇa  me  You have plunged
+tr: Miśra said, “O Lord, You have fulfilled my life! You have plunged me into the nectar-ocean of talks about Kṛṣṇa.
+
+## 71
+w: of Rāmānanda Rāya  the words  if told  not  it is possible
+w: a human being  is not  Rāya  made of the rasa of devotion to Kṛṣṇa
+tr: The words of Rāmānanda Rāya cannot be retold. Rāya is not a mere human being; he is made of the rasa of devotion to Kṛṣṇa.
+fn: Edition heading: it is forbidden to regard as a mortal the guru who sings of Kṛṣṇa.
+
+## 72
+w: another  one  thing  Rāya  told  me
+w: of talks about Kṛṣṇa  the speaker  as  not  consider  me
+tr: Rāya told me one thing more: ‘Do not think of me as the speaker of these talks about Kṛṣṇa.
+
+## 73
+w: by my  mouth  words  speaks  Himself  Gauracandra
+w: as  He makes me speak  so  I speak  like  a vīṇā instrument
+tr: Gauracandra Himself speaks these words through my mouth. As He makes me speak, so I speak, like a *vīṇā*.
+
+## 74
+w: by my  mouth  the words  He  makes  known
+w: in the world  who  will know  this pastime  His
+tr: Through my mouth He makes these words known. Who in this world will understand this pastime of His?’
+
+## 75
+w: all that  I heard  Kṛṣṇa  of rasa  the ocean
+w: to Brahmā and the other gods  this  all  not  is  perceptible
+tr: All that I heard — that Kṛṣṇa is the ocean of rasa — lies beyond the reach even of Brahmā and the other gods.
+
+## 76
+w: such  rasa  me  to drink  made  You
+w: birth  after birth  Your  at the feet  sold myself  I
+tr: You have made me drink such rasa; birth after birth I have sold myself at Your feet.”
+
+## 77
+w: the Lord  says  Rāmānanda  of humility  a mine
+w: his own  words  on another’s head  he places  bringing
+tr: The Lord said, “Rāmānanda is a mine of humility. He attributes his own words to another.
+
+## 78
+w: of great souls  this  natural  disposition  is
+w: their own  qualities  not  themselves  they tell
+tr: This is the natural disposition of great souls: they never speak of their own qualities.”
+
+## 79
+w: of Rāmānanda Rāya  this  I have told  of qualities  a trace
+w: to Pradyumna Miśra  how  he gave  instruction
+tr: Thus I have told a little of Rāmānanda Rāya’s qualities — how he instructed Pradyumna Miśra.
+
+## 80
+w: a householder  being  not  Rāya  of the six enemies  under the control
+w: a worldly man  being  sannyāsīs  he instructs
+tr: Though a householder, Rāya is not under the control of the six enemies (*ṣaḍ-varga*); though seemingly a worldly man (*viṣayī*), he instructs sannyāsīs.
+fn: *Anubhāṣya*: worldly people see in Rāmānanda a householder and a *viṣayī*, absorbed in worldly objects, but his mind of pure goodness always worships a single object — the pastimes of Śrī Kṛṣṇa; he is thus a “kṛṣṇa-viṣayī”, able to turn even sannyāsīs to Kṛṣṇa.
+
+## 81
+w: all these  qualities  his  manifest  to make
+w: Miśra  He sent  there  hearing  to do
+tr: To reveal all these qualities of his, the Lord sent Miśra there to hear.
+
+## 82
+w: the devotee’s qualities  to reveal  the Lord  well  knows
+w: in various ways  revealing  His own  gain  He considers
+tr: The Lord knows well how to reveal the qualities of His devotees; revealing them in various ways, He considers it His own gain.
