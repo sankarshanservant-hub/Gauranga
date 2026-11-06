@@ -10,6 +10,20 @@ A man and a woman marry, beget children and so build a household (*saṁsāra*).
 
 “Intimate service” (*antaraṅga-sevā*) is the service in Vraja that a devotee performs within the mind, in his own true spiritual form (*svarūpa-deha*). Svarūpa Gosvāmī is Lalitā-devī. Entering her group, Śrī Dāsa Gosvāmī performed his own intimate service in Vraja.
 
+## 263
+
+Śrī Vāsudeva Datta (who lived in Kāñcanapallī) loved the very gentle Yadunandana Ācārya;[^263-1] his disciple is Raghunātha dāsa. By his virtues Raghunātha is dearer than life to all of us. By Śrī Caitanya's boundless mercy he is always full of tender love; he is dear to Svarūpa Gosvāmī and is the sole treasure in the kingdom of renunciation. Who among those living in Nīlācala does not know him?
+
+## 264
+
+By delighting the minds of all people (enchanting their hearts), he became a certain (indescribable) soil of good fortune — one that bears fruit without plowing (manifest by itself) — that is, its very abode. In him the incomparable (matchless) tree of love (Śrī Caitanya's) bore fruit at the very time the seed was sown.
+
+## 279
+
+A “*rājasic*” invitation. Invitations are of three kinds: *sāttvic*, *rājasic* and *tāmasic*. The invitation of a pure Vaiṣṇava is *sāttvic*, the food of a pious *viṣayī* is *rājasic*, and the food of a sinner is *tāmasic*.
+
 ---
 
 [^225-1]: In the verse translation, otherwise: “becoming a slave of his worldly attachments.”
+
+[^263-1]: In the verse translation, otherwise: “very dear to his guru Yadunandana Ācārya, a disciple of Vāsudeva Datta.”
