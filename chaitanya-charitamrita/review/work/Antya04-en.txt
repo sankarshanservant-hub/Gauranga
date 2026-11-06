@@ -11,7 +11,7 @@ w: from Vṛndāvana  again  who had come
 w: Śrī Gaura  Śrī Sanātana
 w: from the fall of the body  protecting  out of affection
 w: pure  made  by a test
-tr: When Śrī Sanātana came again from Vṛndāvana, Śrī Gaura, out of love, saved him from giving up his body and, by a test, made him pure.
+tr: When Śrī Sanātana came again from Vṛndāvana, Śrī Gaura, out of love, saved him from giving up his body and, by testing him, made him pure.
 fn: Edition heading: “Gaurasundara saves Sanātana from his resolve to give up the body.” *Śuddhaṁ cakre parīkṣayā* — “by a test He made him pure”; the healing of his body (201) is its visible sign.
 
 ## 2
@@ -69,7 +69,7 @@ tr: At the Ratha-yātrā Jagannātha will come out; under the wheel of His chari
 ## 12
 w: of Mahāprabhu  before  and  seeing  Jagannātha
 w: at the chariot  the body  I shall give up  this  the supreme goal of life
-tr: Before Mahāprabhu, and seeing Jagannātha, I shall give up my body at the chariot: this is the highest goal of life.”
+tr: Before Mahāprabhu’s eyes, beholding Jagannātha, I shall give up my body at the chariot: this is the highest goal of life.”
 
 ## 13
 w: this  indeed  resolve  making  to Nīlācala  he came
@@ -94,7 +94,7 @@ tr: Just then the Lord, after seeing the *upala-bhoga* offering, came with His d
 ## 17
 w: the Lord  seeing  both  fall  flat like rods  becoming
 w: the Lord  embraced  Haridāsa  raising
-tr: Seeing the Lord, both of them fell flat like rods. The Lord raised Haridāsa and embraced him.
+tr: Seeing the Lord, both of them fell prostrate before Him. The Lord raised Haridāsa and embraced him.
 
 ## 18
 w: Haridāsa  says  Sanātana  makes  obeisance
@@ -457,7 +457,7 @@ tr: A conjurer makes a wooden puppet dance, and the puppet itself does not know 
 ## 86
 w: whom  as  You make dance  he  so  does  dancing
 w: how  he dances  who  makes him dance  he  not  knows
-tr: So too whomever You make dance dances just as You make him, and he does not know how he dances or who makes him dance.”
+tr: So it is with anyone You make dance: he dances just as You move him, and does not know how he dances or who makes him dance.”
 
 ## 87
 w: to Haridāsa  says  the Lord  listen  Haridāsa
@@ -503,7 +503,7 @@ tr: The Lord calls your body ‘My own property’; no one is as fortunate as yo
 ## 95
 w: by His own body  which  work  not  He can  to do
 w: that  work  He will have done  by you  and that  in Mathurā
-tr: The work He cannot do in His own body He will have done through you — and in Mathurā.
+tr: What He cannot do in His own body He will have you do for Him in Mathurā.
 
 ## 96
 w: whom  to have act  wishes  the Lord  he  perfected  becomes
@@ -529,7 +529,7 @@ tr: Sanātana said, “Who else is there like you? Among Mahāprabhu’s associa
 ## 100
 w: of the descent  the mission  of the Lord  in spreading the name
 w: that  own  work  the Lord  does  you  through
-tr: The mission of the Lord’s descent is to spread the name, and that very work of His the Lord does through you.
+tr: The Lord descended to spread the name, and He accomplishes this, His own work, through you.
 
 ## 101
 w: daily  you do  three hundred thousand  chanting of the name
@@ -874,7 +874,7 @@ tr: That he should advise you is more than I can bear; that is why I rebuke him.
 ## 170
 w: as an outsider  regarding  you  not  I  praise
 w: by your  qualities  praise  you make Me give  such are  your  qualities
-tr: I do not praise you because I regard you as an outsider. Your qualities make Me praise you — such are your qualities.
+tr: I do not praise you because I regard you as an outsider. Your virtues move Me to praise you, so great are they.
 
 ## 171
 w: although  of someone  the sense of “mine”  toward many people  is
@@ -943,7 +943,7 @@ tr: Haridāsa said, “Lord, what You have said is an outward pretext, and I do 
 ## 182
 w: us  all  the fallen  that  You have accepted
 w: compassion for the lowly  the quality  Your  in that  is proclaimed
-tr: That You have accepted all of us fallen souls proclaims Your quality of compassion for the lowly.”
+tr: In accepting all of us fallen souls, You have made known Your compassion for the lowly.”
 
 ## 183
 w: the Lord  smiling  says  hear  Haridāsa  Sanātana
@@ -959,7 +959,7 @@ fn: *Anubhāṣya*: out of affection the one who cherishes does not notice the f
 ## 185
 w: toward Myself  is  My  like one not to be honoured
 w: you all  I hold  I  as children  the conception
-tr: I regard Myself as one not to be honoured by you, for I think of you all as My children.
+tr: I do not think of Myself as one whom you should honour, for I regard you all as My children.
 
 ## 186
 w: of a mother  as  of the child  the filth  clings  to the body
@@ -1059,7 +1059,7 @@ fn: *Anubhāṣya*: *pānī-lakṣye* — making the drinking water of Jhārikha
 ## 204
 w: sores  producing  test  You made  of Sanātana
 w: this  of the pastime  play  Your  anyone  not  knows
-tr: By producing the sores You tested Sanātana. No one understands this playful way of Your pastimes.”
+tr: By producing the sores You tested Sanātana. No one understands these subtle turns of Your pastimes.”
 
 ## 205
 w: both  having embraced  the Lord  went  to His own dwelling

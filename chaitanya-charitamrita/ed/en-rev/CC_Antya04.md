@@ -16,7 +16,7 @@ from the fall of the body  protecting  out of affection
 śuddhaṁ cakre parīkṣayā  
 pure  made  by a test
 
-(1) When Śrī Sanātana came again from Vṛndāvana, Śrī Gaura, out of love, saved him from giving up his body and, by a test, made him pure.[^1]
+(1) When Śrī Sanātana came again from Vṛndāvana, Śrī Gaura, out of love, saved him from giving up his body and, by testing him, made him pure.[^1]
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -126,7 +126,7 @@ of Mahāprabhu  before  and  seeing  Jagannātha
 rathe deha chāḍimu, — ei parama-puruṣārtha  
 at the chariot  the body  I shall give up  this  the supreme goal of life
 
-(12) Before Mahāprabhu, and seeing Jagannātha, I shall give up my body at the chariot: this is the highest goal of life.”
+(12) Before Mahāprabhu’s eyes, beholding Jagannātha, I shall give up my body at the chariot: this is the highest goal of life.”
 
 এই ত’ নিশ্চয় করি’ নীলাচলে আইলা ৷  
 লোকে পুছি’ হরিদাস-স্থানে উত্তরিলা ॥ ১৩ ॥
@@ -176,7 +176,7 @@ the Lord  seeing  both  fall  flat like rods  becoming
 prabhu āliṅgilā haridāsere uṭhāñā  
 the Lord  embraced  Haridāsa  raising
 
-(17) Seeing the Lord, both of them fell flat like rods. The Lord raised Haridāsa and embraced him.
+(17) Seeing the Lord, both of them fell prostrate before Him. The Lord raised Haridāsa and embraced him.
 
 হরিদাস কহে, — সনাতন করে নমস্কার ৷  
 সনাতনে দেখি’ প্রভু হৈলা চমৎকার ॥ ১৮ ॥
@@ -888,7 +888,7 @@ whom  as  You make dance  he  so  does  dancing
 kaiche nāce, kebā nācāya, seha nāhi jāne  
 how  he dances  who  makes him dance  he  not  knows
 
-(86) So too whomever You make dance dances just as You make him, and he does not know how he dances or who makes him dance.”
+(86) So it is with anyone You make dance: he dances just as You move him, and does not know how he dances or who makes him dance.”
 
 হরিদাসে কহে প্রভু, — শুন, হরিদাস ৷  
 পরের দ্রব্য ইঁহ চাহেন করিতে বিনাশ ॥ ৮৭ ॥
@@ -978,7 +978,7 @@ by His own body  which  work  not  He can  to do
 se kārya karāibe tomā, seha mathurāte  
 that  work  He will have done  by you  and that  in Mathurā
 
-(95) The work He cannot do in His own body He will have done through you — and in Mathurā.
+(95) What He cannot do in His own body He will have you do for Him in Mathurā.
 
 যে করাইতে চাহে ঈশ্বর, সেই সিদ্ধ হয় ৷  
 তোমার সৌভাগ্য এই কহিলুঁ নিশ্চয় ॥ ৯৬ ॥
@@ -1028,7 +1028,7 @@ of the descent  the mission  of the Lord  in spreading the name
 sei nija-kārya prabhu karena tomāra dvāre  
 that  own  work  the Lord  does  you  through
 
-(100) The mission of the Lord’s descent is to spread the name, and that very work of His the Lord does through you.
+(100) The Lord descended to spread the name, and He accomplishes this, His own work, through you.
 
 প্রত্যহ কর তিনলক্ষ নাম-সংকীর্ত্তন ৷  
 সবার আগে কর নামের মহিমা কথন ॥ ১০১ ॥
@@ -1719,7 +1719,7 @@ as an outsider  regarding  you  not  I  praise
 tomāra guṇe stuti karāya yaiche tomāra guṇa  
 by your  qualities  praise  you make Me give  such are  your  qualities
 
-(170) I do not praise you because I regard you as an outsider. Your qualities make Me praise you — such are your qualities.
+(170) I do not praise you because I regard you as an outsider. Your virtues move Me to praise you, so great are they.
 
 যদ্যপি কাহার ‘মমতা’ বহুজনে হয় ৷  
 প্রীতি-স্বভাবে কাঁহাতে কোন ভাবোদয় ॥ ১৭১ ॥
@@ -1773,7 +1773,7 @@ by speech  spoken  that  untrue
 manasā dhyātam eva ca  
 by the mind  conceived  indeed  and
 
-(175) “In duality, which has no true being, what is good and what is bad, and how much of either? Whatever is uttered in words or conceived by the mind is passing and untrue.” (Śrīmad-Bhāgavatam, 11.28.4)[^20]
+(175) “What is good and what is bad, and how much of either, in a duality that has no true being? Whatever is uttered in words or conceived by the mind is passing and untrue.” (Śrīmad-Bhāgavatam, 11.28.4)[^20]
 
 ‘দ্বৈতে’ ভদ্রাভদ্র-জ্ঞান, সব — ‘মনোধর্ম্ম’ ৷  
 ‘এই ভাল, এই মন্দ’, — এই সব ‘ভ্রম’ ॥ ১৭৬ ॥
@@ -1851,7 +1851,7 @@ us  all  the fallen  that  You have accepted
 dīna-dayālu guṇa tomāra tāhāte pracāra  
 compassion for the lowly  the quality  Your  in that  is proclaimed
 
-(182) That You have accepted all of us fallen souls proclaims Your quality of compassion for the lowly.”
+(182) In accepting all of us fallen souls, You have made known Your compassion for the lowly.”
 
 প্রভু হাসি’ কহে, — শুন, হরিদাস, সনাতন ৷  
 তত্ত্বতঃ কহি তোমা-বিষয়ে আমার যৈছে মন ॥ ১৮৩ ॥
@@ -1881,7 +1881,7 @@ toward Myself  is  My  like one not to be honoured
 tomā-sabāre karom̐ muñi bālaka-abhimāna  
 you all  I hold  I  as children  the conception
 
-(185) I regard Myself as one not to be honoured by you, for I think of you all as My children.
+(185) I do not think of Myself as one whom you should honour, for I regard you all as My children.
 
 মাতার যৈছে বালকের ‘অমেধ্য’ লাগে গায় ৷  
 ঘৃণা নাহি জন্মে, আর মহাসুখ পায় ॥ ১৮৬ ॥
@@ -2077,7 +2077,7 @@ sores  producing  test  You made  of Sanātana
 ei līlā-bhaṅgī tomāra keha nāhi jāne  
 this  of the pastime  play  Your  anyone  not  knows
 
-(204) By producing the sores You tested Sanātana. No one understands this playful way of Your pastimes.”
+(204) By producing the sores You tested Sanātana. No one understands these subtle turns of Your pastimes.”
 
 দুঁহে আলিঙ্গিয়া প্রভু গেলা নিজালয় ৷  
 প্রভুর গুণ কহে দুঁহে হঞা প্রেমময় ॥ ২০৫ ॥
@@ -2147,7 +2147,7 @@ of Mahāprabhu  the devotees  all  having met
 sei-pathe cali’ yāya se sthāna dekhiyā  
 by that path  going  he goes  those  places  seeing
 
-(211) On the way he met all of Mahāprabhu’s devotees, and he travelled on by that same path, seeing those places.[^27]
+(211) Travelling by that same path, he met all of Mahāprabhu’s devotees and saw those places.[^27]
 
 যে-যে-লীলা প্রভু পথে কৈলা যে-যে-স্থানে ৷  
 তাহা দেখি’ প্রেমাবেশ হয় সনাতনে ॥ ২১২ ॥
@@ -2337,7 +2337,7 @@ the Gopāla-campū  also  many  books  he made
 vraja prema-līlā-rasa-sāra dekhāilā  
 of Vraja  the love-pastimes’  rasa  the essence  he showed
 
-(230) He also wrote the *Gopāla-campū* and many other books, in which he revealed the essence of the rasa of the love-pastimes of Vraja.
+(230) He also wrote the *Gopāla-campū* and many other books, in which he revealed the essence of the rasa of Vraja’s love-pastimes.
 
 ‘ষট্সন্দর্ভে’ কৃষ্ণপ্রেম-তত্ত্ব প্রকাশিলা ৷  
 চারিলক্ষ গ্রন্থ তেঁহো বিস্তার করিলা ॥ ২৩১ ॥
