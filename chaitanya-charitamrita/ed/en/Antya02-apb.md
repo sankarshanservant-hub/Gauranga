@@ -24,6 +24,10 @@ The Lord delivers the *jīvas* in three ways: to some He gives direct *darśana*
 
 ***Sandeśa*** — news.
 
+## 95
+
+***Śārīraka-bhāṣya*** — Śrīmat Śaṅkarācārya's commentary on the *Vedānta-sūtra*.
+
 ---
 
 [^3-4-1]: The verse translation reads differently: there *āvirbhāva* is taken as the Lord manifesting Himself in several places at once.

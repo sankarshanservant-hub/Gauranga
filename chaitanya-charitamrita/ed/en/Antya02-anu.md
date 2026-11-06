@@ -253,3 +253,21 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 ***Vedānta*** — here, Śaṅkarācārya's commentary on the Vedānta, or *Śārīraka-sūtras*, which upholds the impersonal Brahman.
 
 **Ācārya** — his elder brother, Bhagavān Ācārya.
+
+## 91
+
+> Subheading: Only pure service to Kṛṣṇa pleases Gaura; He disregards the mixed (*viddha*) endeavors of a nondevotee, which oppose *bhakti* —
+
+## 92
+
+> Subheading: One day the Ācārya asks Svarūpa to hear Śaṅkara's Māyāvāda commentary from the mouth of the Ācārya's younger brother —
+
+## 94
+
+> Subheading: Svarūpa rebukes him —
+
+## 95
+
+> Subheading: Śrī Dāmodara-svarūpa Prabhu, the guru of all Vaiṣṇavas, describes the faults of Māyāvāda and condemns it; how one who wishes to serve Viṣṇu purely should treat Śaṅkara's Māyāvāda commentary —
+
+Śaṅkara, the advocate of *kevalādvaita*, relied on speculation and established in his commentary on the *Śārīraka-* or *Brahma-sūtras* “Māyāvāda,” or “mixed (*viddha*) *kevalādvaita*.” But other commentaries on the *Brahma-sūtras* declare the purport of Vedānta as follows: the *Śrī-bhāṣya* of Śrī Rāmānuja of the Śrī-sampradāya — “*viśiṣṭādvaita*”; the *Pūrṇaprajña-bhāṣya* of Śrī Madhva of the Brahma-sampradāya — “*śuddha-dvaita*”; the *Pārijāta-saurabha-bhāṣya* of Śrī Nimbārka of the Catuḥ-sana-sampradāya — “*dvaitādvaita*”; and the *Sarvajña-bhāṣya* of Śrī Viṣṇusvāmī of the Rudra-sampradāya — “*śuddhādvaita*.” In these commentaries the relationship between the servant and the one he serves (*sevya-sevaka-bhāva*) is preserved. Therefore the devotees of Bhagavān Viṣṇu study them, and the truths they contain have always been honored in the genuine *sampradāyas* (*sat-sampradāyas*), that is, among the Vaiṣṇavas. See the *Anubhāṣya* on Ādi 7.101. Śaṅkara's commentary, however, in explaining the *Brahma-sūtras*, or Vedānta, strives to establish mixed *kevalādvaita*, the doctrine of the impersonal Brahman. It is therefore nothing but a false doctrine (*kumata-vāda*), wholly opposed to pure *bhakti*.
