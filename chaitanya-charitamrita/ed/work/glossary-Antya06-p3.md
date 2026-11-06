@@ -1,0 +1,33 @@
+# Глоссарий: Антья 6, часть 3 (стихи 223–329) — новые термины (RU / EN)
+
+- ত্যক্তগৃহ → оставивший дом / one who has left home; বৈধ ও অবৈধ আচার → что подобает и что не подобает / what befits and what does not.
+- শ্রীদামোদর-স্বরূপ — নিত্য প্রভু বা গুরু মাধ্বগৌড়ীয়ের → вечный господин, то есть гуру, мадхва-гаудиев / the eternal master, that is, the guru, of the Mādhva-Gauḍīyas.
+- রাগানুগা-ভক্তিযাজী → идущий путём рагануга-бхакти / one who follows the path of *rāgānugā-bhakti*.
+- একান্তী (HBV 20) → всецело преданные (экантины) / those wholly devoted (*ekāntins*); বৈষ্ণবপ্রায় → почти вайшнавы / almost Vaiṣṇavas; অষ্টকাল → восемь частей суток (ашта-кала) / all eight periods of the day (*aṣṭa-kāla*).
+- স্বরূপদেহ → истинный духовный облик (сварупа-деха) / one's true spiritual form (*svarūpa-deha*); অন্তরঙ্গ-সেবা → сокровенное служение (антаранга-сева) / intimate service (*antaraṅga-sevā*).
+- বৈষ্ণবী-প্রতিষ্ঠা → слава среди вайшнавов / renown among Vaiṣṇavas; প্রতিষ্ঠা → мирская слава (пратиштха) / worldly prestige (*pratiṣṭhā*).
+- কৃষ্ণভোগ্য ভক্ত / স্ব-ভোগ্য-পুত্রবুদ্ধি → преданный, который принадлежит Кришне и служит Его наслаждению / сын для собственного наслаждения; the devotee who belongs to Kṛṣṇa and exists for His enjoyment / a son for one's own enjoyment.
+- অকৃষ্টপচ্যা (ভূমি) → плодоносящая (созревшая) без вспашки / bearing fruit (ripened) without plowing.
+- অষ্টপণ কৌড়ি → восемь пан — 640 каури, «॥০ আনা» = восемь анн / eight *paṇas* — 640 cowries, “॥০ আনা” = eight annas.
+- ভোক্তাভিমানী বিষয়ী → вишаи, мнящий себя наслаждающимся / a *viṣayī* who thinks himself the enjoyer; চিজ্জড়সমন্বয় → смешение духовного с материальным / mixing spirit with matter.
+- বালিশ → неразумный / the foolish; জন্মৈশ্বর্য্যশ্রুতশ্রী → высокое рождение, богатство, учёность и красота / high birth, wealth, learning and beauty.
+- তৎকৈঙ্কর্য্য → оказаться у них в услужении / becoming their servants.
+- ছয়প্রকার সঙ্গ (দান, প্রতিগ্রহ, ভোজন ও ভোজনে প্রবর্ত্তন, গূঢ়কথা বর্ণন ও জিজ্ঞাসা) → шесть видов общения (давать, принимать, есть у них и угощать их, открывать сокровенное и расспрашивать) / the six kinds of association (giving, receiving, eating with them and feeding them, revealing confidences and inquiring).
+- গৃহব্রত → грихаврата / *gṛhavrata*; রাজস / সাত্ত্বিক / তামস নিমন্ত্রণ → раджасное / саттвическое / тамасное приглашение / *rājasic* / *sāttvic* / *tāmasic* invitation.
+- কর্ম্মমিশ্রা ভক্তি → бхакти, смешанная с кармой / devotion mixed with *karma*.
+- ছত্র → чатра (раздаточная для бедных; у ВЧД — «благотворительная столовая») / the *chatra* (almshouse).
+- অযাচক বৈরাগিবেষী → носящие облачение вайраги, не прося подаяния (аячака) / those in the dress of *vairāgīs* who live without begging (*ayācaka*).
+- ঠাড় (хинди) → тхад, «стоящий» / *ṭhāḍa*, “standing”; খাসা → хаса, «превосходный» / *khāsā*, “excellent”; ডারে → «даре», выбрасывают / *ḍāre*, “they throw away”; সড়ি’ → «сади», сгнив / *saḍi*, “having rotted”.
+- গুঞ্জামালা (কুঁচের মালা) → гунджа-мала, гирлянда из семян гунджи (не «ракушки») / *guñjā-mālā*, a garland of *guñjā* seeds.
+- গোবর্দ্ধন-শিলা → Говардхана-шила (= Божество Шри Гиридхари, Сам Враджендра-нандана) / the Govardhana-śilā (= the Deity Śrī Giridhārī, Vrajendra-nandana Himself).
+- গান্ধর্ব্বা-রূপিণী মালা → гирлянда — облик Гандхарвы / the garland that is the form of Gāndharvā.
+- নিখিলব্রহ্মজ্ঞ-গুরু → гуру всех знатоков Брахмана / the guru of all knowers of Brahman.
+- শিলা-বুদ্ধি / জাতি-বুদ্ধি → видеть в Божестве камень / в вайшнаве — касту / seeing stone in the Deity / caste in a Vaiṣṇava; পাষণ্ড → безбожники (пашанды) / the godless (*pāṣaṇḍīs*).
+- সেবক-ভগবান্ → Бхагаван-слуга / the servitor Bhagavān; কৃষ্ণপ্রকাশবিগ্রহ → облик-проявление Кришны / a manifest form of Kṛṣṇa.
+- যোষিৎ-সঙ্গী → привязанный к женщинам / one attached to women.
+- ষোড়শোপচার → шестнадцать видов подношений / sixteen articles of worship; বিতস্তি → витасти (пядь), мера в пол-локтя / *vitasti* (a span), half a cubit.
+- বিজিতষড়্বর্গ → победивший шесть побуждений / who conquered the six urges; যাবন্নির্ব্বাহ-প্রতিগ্রহ → принимать лишь столько, сколько нужно для поддержания жизни / accepting only as much as is needed to sustain life.
+- নির্ব্বেদন → нирведана, порицание, укор / *nirvedana*, reproach, censure.
+- কৃষ্ণোচ্ছিষ্ট / কৃষ্ণভুক্তামৃত → остатки Кришны / нектар, вкушённый Кришной / Kṛṣṇa's remnants / nectar enjoyed by Kṛṣṇa.
+- Места и имена: Канчанапалли / Kāñcanapallī; Джханкара / Jhā̃karā; Тайланга / Tailaṅga; Шанкарананда Сарасвати / Śaṅkarānanda Sarasvatī; Говардхана дас / Govardhana dāsa.
+- Книги: “Става-вали” (“Чайтанья-става-калпаврикша”, шлока 11) / *Stavāvalī* (*Caitanya-stava-kalpavṛkṣa*, verse 11); “Шри Чайтанья-чандродая-натака”, акт 10, шлоки 3–4 / *Śrī Caitanya-candrodaya-nāṭaka*, act 10, verses 3–4; “Бхакти-сандарбха”, анучхеда 283 (в издании «83») / *Bhakti-sandarbha*, *anuccheda* 283 (edition: “83”); “Хари-бхакти-виласа”, виласа 20 (конец) / *Hari-bhakti-vilāsa*, *vilāsa* 20 (end); Брихад-араньяка-упанишада, 4.4.12 / *Bṛhad-āraṇyaka Upaniṣad* 4.4.12.
