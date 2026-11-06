@@ -1198,7 +1198,7 @@ yet  within  playing  sweet  of the flute  the fifth note  delighting in
 mano me kālindī-pulina-vipināya spṛhayati  
 mind  My  of the Kālindī  bank  for the forest  longs
 
-(114) “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 383)
+(114) “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 387)
 
 রায়, ভট্টাচার্য্য বলে, — “তোমার প্রসাদ বিনে ৷  
 তোমার হৃদয় এই জানিবে কেমনে ॥ ১১৫ ॥
