@@ -13,3 +13,17 @@ He placed within Himself — or spread forth — a golden luster and attained Hi
 ## 123
 
 In Īśvara there is no difference between the body and its possessor (*dehī*).
+
+## 137
+
+Indra said: “Relying on this talkative, foolish, impudent, ignorant, mortal Kṛṣṇa, who thinks Himself learned, the cowherds have done what displeases me.”
+
+## 141
+
+***Vandyābhāve anamra — stabdha-śabde kaya***: there is no one whom He must worship, and so He bows to no one — this is what the word *stabdha* expresses.
+
+## 143
+
+***Nā yujhimu, ‘yāhi bandhu-han’*** — “O slayer of Your kin, go away; I will not fight with You.”
+
+*Thus ends the fifth chapter of the “Amṛta-pravāha-bhāṣya.”*

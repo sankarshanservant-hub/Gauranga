@@ -147,3 +147,123 @@ See Madhya 18.114.
 > Subheading: Through him, the supreme beneficial instruction to all *jīvas* from Śrī Svarūpa, the Vaiṣṇava *ācārya* nondifferent from Gaura —
 
 If one goes to read or hear the *Bhāgavatam* from a Māyāvādī devoted to featureless *kevalādvaita*, from a grammarian clever with words but devoid of *bhakti*, or from a sense-enjoyer greedy for wealth, one will not attain love for Kṛṣṇa that way; instead of *kṛṣṇa-rasa*, only the enjoyment of material *rasa* will grow. One must read the *Bhāgavatam* only from a *paramahaṁsa* Vaiṣṇava who has renounced the objects of the senses. The Vaiṣṇava's only wealth is the meaning of the *Bhāgavatam* revealed by Śrī Caitanyacandra, and one receives it by taking exclusive shelter at His feet.
+
+## 132
+
+> Subheading: Knowledge of the *siddhānta* of pure *bhakti* comes only through the association of Caitanya's devotees, those who cultivate the pure function of the spirit —
+
+The devotees of Śrī Caitanya are eternal associates of Hari and the only knowers of transcendental *tattva*. If one associates with them wholly and without interruption, all the *jīva*'s ignorance born of material enjoyment will be dispelled, and the true *siddhānta* of pure *bhakti* will be revealed to him.
+
+## 133
+
+> Subheading: Knowledge of *bhakti-siddhānta* is the fruit of learning and scholarship —
+
+## 134
+
+***Duṅhāya*** — in Śrī Jagannāthadeva and in Śrī Gaurahari.
+
+## 135
+
+> Subheading: Even through the words of a fool or an enemy who reviles Kṛṣṇa, pure Sarasvatī — Kṛṣṇa's servant, the embodied message of *bhakti-siddhānta* — serves Gaura-Kṛṣṇa —
+
+Out of ignorance you do not see the difference between Māyāvāda and the path of *bhakti*. That is why the way you expressed your idea is not good: it came out any which way. But Sarasvatī, the goddess who presides over composition, has used these very clumsy words of yours to praise her own worshipable Gaura-Kṛṣṇa.
+
+## 137
+
+> Subheading: (a) An example: the reviling words of Indra, whose knowledge rests on the senses —
+
+**gopāḥ** **vācālaṁ** (very talkative) **bāliśaṁ** (a child, or a fool) **stabdham** (ill-mannered) **ajñaṁ** (who does not foresee the consequences) **paṇḍita-māninaṁ** (who thinks Himself learned) **martyam** (a mortal man) **kṛṣṇam** **upāśritya** (relying on) **me** (to me) **apriyam** (what is contrary to my wish — an insult) **cakruḥ**.
+
+(Although Indra's words are used to revile, pure Sarasvatī praises Kṛṣṇa through his speech:) **vācālaṁ** (He who by speech [*vācā*] is fully [*alam*] able — the source of the *śāstra*, He who set the Vedas in motion) **bāliśaṁ** (childlike — free of self-importance, without pride) **stabdham** (who bows to no one, for there is no one else worthy of worship) **ajñaṁ** (He beyond whom there is no other knower [*jña*], no other intelligence — the omniscient) **paṇḍita-māninaṁ** (He who is served by many and highly honored by the *paṇḍitas*, the knowers of Brahman or the knowers of bondage and liberation) **martyam** (He who, out of affection for His devotees, appears as a human being) **kṛṣṇam** (the Supreme Brahman, whose form is eternity, knowledge and bliss); the rest is clear.
+
+## 138
+
+> Subheading: Indra, puffed up with mundane pride —
+
+***Sāmbhāla*** (a Hindi word) — good sense, or caution; in colloquial speech, *sāmāla*.
+
+## 139
+
+> Subheading: Through the very words of reviling in Indra's mouth, pure Sarasvatī praises Kṛṣṇa —
+
+## 140
+
+> Subheading: Pure Sarasvatī explains the words: (1) *vācāla*, (2) *bāliśa* —
+
+## 141
+
+> Subheading: (3) *stabdha*, (4) *ajña* —
+
+## 142
+
+> Subheading: (5) *paṇḍita-mānī* and (6) *martya* —
+
+## 143
+
+> Subheading: (b) An example: the reviling words of Jarāsandha, an enemy —
+
+Addressing Kṛṣṇa, Jarāsandha said: “O lowest of men (*puruṣādhama*), O slayer of Your kin (*bandhu-han*), go away; I will not fight with You.” Through these words of Jarāsandha pure Sarasvatī praises Kṛṣṇa. The word *puruṣādhama* (a *bahuvrīhi* compound) means “He compared with whom all men (*puruṣas*) are low (*adhama*),” that is, “Puruṣottama.” A *bandhu* is that which holds out the hope of success in *saṁsāra*: *māyā*, or *avidyā*, is the *bandhu*. One who destroys *māyā*, or *avidyā*, is *bandhu-hā*; in the vocative, *bandhu-han*.
+
+## 144
+
+> Subheading: Through these words of reviling pure Sarasvatī praises Kṛṣṇa: (1) *puruṣādhama* —
+
+## 145
+
+> Subheading: (2) *bandhu-han* —
+
+## 146
+
+> Subheading: An example: the reviling words of Śiśupāla, an enemy —
+
+With the very words with which Śiśupāla reviled Kṛṣṇa, pure Sarasvatī likewise praises Kṛṣṇa.
+
+## 147
+
+> Subheading: Svarūpa explains the mundane poet's words as praise of Kṛṣṇa and establishes the nondifference of the Dāru-brahma, Jagannātha, from the moving Brahman (*jaṅgama-brahma*), Gaurahari —
+
+## 149
+
+> Subheading: To deliver the world, the one *vigraha*, by the power of His will (*icchā-śakti*), is manifest in two forms —
+
+## 152
+
+> Subheading: *Jīvas* are delivered by seeing Jagannātha and through Gaura's preaching —
+
+## 155
+
+> Subheading: Even in reviling Kṛṣṇa, the Name uttered as *stobha* — a *nāmābhāsa* — brings liberation[^155-1] —
+
+## 156
+
+> Subheading: The poet surrenders at the feet of the Vaiṣṇavas —
+
+## 157
+
+> Subheading: First the devotees' mercy, and through it, Mahāprabhu's mercy —
+
+## 158
+
+> Subheading: The poet accepts the *dharma* of *sannyāsa* and lives in Purī —
+
+## 159
+
+> Subheading: Described: the pastime of Miśra's hearing about Kṛṣṇa, and Rāmānanda's glory —
+
+## 161
+
+> Subheading: Through faith in the Vaiṣṇavas even an unlearned poet receives the Lord's mercy —
+
+## 162
+
+> Subheading: By hearing and chanting Caitanya's pastimes with faith, one attains *sambandha*, *abhidheya* and *prayojana* —
+
+*Thus ends the fifth chapter of the “Anubhāṣya.”*
+
+---
+
+[^119-1]: *Bṛhad-āraṇyaka Upaniṣad* 2.1.20.
+
+[^122-1]: *Śrīmad-Bhāgavatam* 1.2.11 (CC, Ādi 2.11).
+
+[^155-1]: *Stobha* is one kind of *nāmābhāsa*: the Name uttered not for its own sake (literally, “a filler syllable in a chant”); compare *Śrīmad-Bhāgavatam* 6.2.14.
