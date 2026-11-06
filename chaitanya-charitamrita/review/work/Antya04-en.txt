@@ -1,0 +1,611 @@
+# English translation, Antya-līlā 4 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya04.txt, .p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–120; shift 2: 121–239.
+
+## 0
+tr: The Festival of Association with Sanātana Once Again
+
+## 1
+w: from Vṛndāvana  again  who had come
+w: Śrī Gaura  Śrī Sanātana
+w: from the fall of the body  protecting  out of affection
+w: pure  made  by a test
+tr: When Śrī Sanātana came again from Vṛndāvana, Śrī Gaura, out of affection, saved him from giving up his body and, by a test, made him pure.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: Nīlācala  from  Rūpa  to Gauḍa  when  went
+w: Mathurā  from  Sanātana  to Nīlācala  came
+tr: When Rūpa went from Nīlācala to Gauḍa, Sanātana came from Mathurā to Nīlācala.
+
+## 4
+w: by the Jhārikhaṇḍa forest path  he came  alone  walking
+w: sometimes  fasting  sometimes  chewing  doing
+tr: He came alone, on foot, by the forest path through Jhārikhaṇḍa, sometimes fasting, sometimes eating only a little dry food to chew.
+
+## 5
+w: of Jhārikhaṇḍa  of the water  through the fault  fasting  from
+w: on the body  sores  appeared  fluid  oozes  on scratching
+tr: Because of the bad water of Jhārikhaṇḍa and from fasting, sores broke out on his body, and when he scratched them, fluid oozed from them.
+
+## 6
+w: detachment  arose  on the way  he makes  reflection
+w: low  birth  body  my  utterly  worthless
+tr: On the way a mood of detachment (*nirveda*) arose in him, and he reflected: “I am of low birth, and my body is utterly worthless.
+
+## 7
+w: to Jagannātha  if I go  His  sight  not  I shall obtain
+w: of the Lord  sight  always  to have  I shall not be able
+tr: If I go to Jagannātha, I shall not obtain His *darśana*, nor shall I be able to see the Lord at all times.
+
+## 8
+w: the temple  near  I hear  His  residence  situated
+w: the temple  near  to go  my  there is not  power
+tr: I hear that His residence is near the temple, but I have no power to go near the temple.
+
+## 9
+w: of Jagannātha  the servants  move about  of their duties  at the demand
+w: their  touch  if there is  my  there will be  offense
+tr: The servants of Jagannātha move about there on their duties; if I touch them, I shall be guilty of an offense.
+
+## 10
+w: therefore  if  this  body  in a good place  I give
+w: of sorrow  relief  there is  and  a good destination  I attain
+tr: So if I give this body up in a good place, my sorrow will be eased and I shall attain a good destination.
+
+## 11
+w: Jagannātha  at the Ratha-yātrā  will be  outside
+w: His  under the chariot’s wheel  I shall give up  this  body
+tr: At the Ratha-yātrā Jagannātha will come out; under the wheel of His chariot I shall give up this body.
+
+## 12
+w: of Mahāprabhu  before  and  seeing  Jagannātha
+w: at the chariot  the body  I shall give up  this  the supreme goal of life
+tr: Before Mahāprabhu, and seeing Jagannātha, I shall give up my body at the chariot: this is the highest goal of life.”
+
+## 13
+w: this  indeed  resolve  making  to Nīlācala  he came
+w: people  asking  at Haridāsa’s place  he arrived
+tr: Having made this resolve, he came to Nīlācala and, asking people the way, arrived at the dwelling of Haridāsa.
+
+## 14
+w: of Haridāsa  made  he  of the feet  worship
+w: knowing (him)  Haridāsa  him  made  embrace
+tr: He bowed down at the feet of Haridāsa, and Haridāsa, recognizing him, embraced him.
+
+## 15
+w: Mahāprabhu  to see  his  eager  mind
+w: Haridāsa  says  the Lord  will come  now
+tr: His heart was eager to see Mahāprabhu. Haridāsa said, “The Lord will come now.”
+
+## 16
+w: at that time  the Lord  the ‘upala-bhoga’  having seen
+w: Haridāsa  to meet  came  the devotees  taking
+tr: Just then the Lord, after seeing the *upala-bhoga* offering, came with His devotees to meet Haridāsa.
+
+## 17
+w: the Lord  seeing  both  fall  flat like rods  becoming
+w: the Lord  embraced  Haridāsa  raising
+tr: Seeing the Lord, both of them fell flat like rods. The Lord raised Haridāsa and embraced him.
+
+## 18
+w: Haridāsa  says  Sanātana  makes  obeisance
+w: Sanātana  seeing  the Lord  became  astonished
+tr: Haridāsa said, “Sanātana is offering You obeisance.” Seeing Sanātana, the Lord was astonished.
+
+## 19
+w: Sanātana  to embrace  the Lord  forward  came
+w: back  draws  Sanātana  to speak  began
+tr: The Lord came forward to embrace Sanātana, but Sanātana drew back and began to say:
+
+## 20
+w: me  do not  touch  O Lord  I fall  at Your  feet
+w: first  of low birth  fallen  and  oozing sores  on the body
+tr: “Do not touch me, O Lord, I fall at Your feet! I am low-born and fallen, and besides, my body is covered with oozing sores.”
+
+## 21
+w: by force  the Lord  him  embrace  made
+w: the moisture of the sores  Mahāprabhu’s  the holy body  touched
+tr: But the Lord embraced him by force, and the moisture of his sores touched Mahāprabhu’s holy body.
+
+## 22
+w: all  with the devotees  the Lord  made meet  Sanātana
+w: Sanātana  made  of all  of the feet  worship
+tr: The Lord introduced Sanātana to all the devotees, and Sanātana bowed down at the feet of each of them.
+
+## 23
+w: the Lord  with  sat  the raised platform  upon  the devotees
+w: of the platform  below  sat  Haridāsa  Sanātana
+tr: The devotees sat with the Lord on the raised platform, while Haridāsa and Sanātana sat below the platform.
+
+## 24
+w: of welfare  news  Mahāprabhu  asks  Sanātana
+w: he  says  supreme  good fortune  I have seen  the feet
+tr: Mahāprabhu asked Sanātana how he was. He replied, “All is supremely auspicious, for I have seen Your feet.”
+
+## 25
+w: of Mathurā  of all the Vaiṣṇavas  the welfare  He asked
+w: of all  the welfare  Sanātana  made known
+tr: He asked after the welfare of all the Vaiṣṇavas of Mathurā, and Sanātana told Him that all were well.
+
+## 26
+w: the Lord  says  here  Rūpa  was  ten  months
+w: here  from  to Gauḍa  he went  it has been  days  ten
+tr: The Lord said, “Rūpa was here for ten months. He left here for Gauḍa ten days ago.
+
+## 27
+w: your  brother  of Anupama  took place  attainment of the Gaṅgā
+w: good  he was  in Raghunātha  firm  his  devotion
+tr: Your brother Anupama has departed from this world on the bank of the Gaṅgā. He was a good soul; his devotion to Raghunātha (Śrī Rāma) was firm.”
+
+## 28
+w: Sanātana  says  in a low  family  my  birth
+w: irreligion  wrongdoing  whatever  my  family’s way
+tr: Sanātana said, “I was born in a low family; every kind of irreligion and wrongdoing was the custom of my family.
+
+## 29
+w: such  a family  aversion  giving up  You made  acceptance
+w: by Your  mercy  in the family  auspiciousness  my
+tr: Yet, setting aside all aversion, You accepted such a family; by Your mercy, all is auspicious in my family.
+
+## 30
+w: that  Anupama  brother  of childhood  from the time
+w: Raghunātha  worship  does  with a firm mind
+tr: From his childhood my brother Anupama worshipped Raghunātha with a firm mind.
+
+## 31
+w: night  and day  of Raghunātha  the ‘Name’  and  ‘meditation’
+w: the Rāmāyaṇa  incessantly  he hears  makes  singing
+tr: Night and day he chanted the Name of Raghunātha and meditated on Him; incessantly he heard the *Rāmāyaṇa* and sang it.
+
+## 32
+w: I  and  Rūpa  his  elder  brothers
+w: us  two  with  he  stays  constantly
+tr: Rūpa and I are his elder brothers, and he always stayed with the two of us.
+
+## 33
+w: us  all  with  talks of Kṛṣṇa  the Bhāgavata  he hears
+w: his  test  made  we  two
+tr: Together with us he would hear talks about Kṛṣṇa and the *Bhāgavata*. The two of us put him to a test.
+
+## 34
+w: hear  Vallabha  Kṛṣṇa  supremely  sweet
+w: beauty  sweetness  love’s  pastimes  abundant
+tr: ‘Listen, Vallabha: Kṛṣṇa is supremely sweet. His beauty, His sweetness and the pastimes of His love are boundless.
+
+## 35
+w: the worship of Kṛṣṇa  do  you  us  two  with
+w: three  brothers  together  we shall live  in the joy of talks about Kṛṣṇa
+tr: Worship Kṛṣṇa together with the two of us. We three brothers will live together, rejoicing in talks about Kṛṣṇa.’
+
+## 36
+w: in this way  again and again  speak  two  persons
+w: of us  two  out of respect  somewhat  turned  his mind
+tr: In this way the two of us spoke to him again and again, and out of respect for us his mind turned somewhat.
+
+## 37
+w: of you  two  the order  I  how  shall disobey
+w: initiation-mantra  give  the worship of Kṛṣṇa  I shall do
+tr: ‘How can I disobey the order of you two? Give me the initiation mantra, and I shall worship Kṛṣṇa.’
+
+## 38
+w: so  saying  at night  he makes  reflection
+w: how  shall I give up  of Raghunātha  the feet
+tr: Having said this, he reflected through the night: ‘How shall I give up the feet of Raghunātha?’
+
+## 39
+w: the whole  night  weeping  doing  he made  keeping awake
+w: in the morning  to us  two  he made  submission
+tr: He stayed awake the whole night, weeping, and in the morning he submitted to the two of us:
+
+## 40
+w: of Raghunātha  at the lotus feet  I have sold  my head
+w: to take back  not  I can  my head  I feel  great  pain
+tr: ‘I have sold my head at the lotus feet of Raghunātha. I cannot take my head back; it gives me great pain.
+
+## 41
+w: mercy  doing  to me  permission  give  you two
+w: birth  after birth  may I serve  of Raghunātha  the feet
+tr: Be merciful, both of you, and give me leave to serve the feet of Raghunātha birth after birth.
+
+## 42
+w: of Raghunātha  the lotus feet  to give up  not  is possible
+w: of giving up  the thought  when it comes  my life  bursting  goes
+tr: I cannot give up the lotus feet of Raghunātha; at the very thought of giving them up, my heart breaks.’
+
+## 43
+w: then  we two  him  embrace  made
+w: excellent  firm devotion  your  saying  we praised
+tr: Then the two of us embraced him and praised him, saying, ‘Excellent! Your devotion is firm.’
+
+## 44
+w: which  family  upon  Your  there is  a trace of mercy
+w: all  auspiciousness  in it  are cut away  all  troubles
+tr: The family upon which there is even a trace of Your mercy has every blessing, and all its troubles are cut away.”
+
+## 45
+w: the Lord  says  in this way  Murāri Gupta
+w: before  I  tested  his  this  way
+tr: The Lord said, “In the same way I once tested Murāri Gupta; this was his way too.
+
+## 46
+w: that  devotee  blessed  who  not  leaves  of the master  the feet
+w: that  master  blessed  who  not  leaves  his own people
+tr: Blessed is the devotee who does not leave the feet of his master, and blessed is the master who does not abandon his own.
+
+## 47
+w: by misfortune  a servant  if  goes  to another place
+w: that  master  blessed  him  by the hair  seizing  brings back
+tr: If by misfortune a servant goes elsewhere, blessed is the master who seizes him by the hair and brings him back.
+
+## 48
+w: good  it was  your  here  took place  coming
+w: in this  house  stay  here  Haridāsa  with
+tr: It is good that you have come here. Stay here in this house with Haridāsa.
+
+## 49
+w: in the rasa of devotion to Kṛṣṇa  you both  supremely  foremost
+w: Kṛṣṇa’s rasa  relishing  do  take  Kṛṣṇa’s Name
+tr: You are both supremely eminent in the *rasa* of devotion to Kṛṣṇa. Relish the *rasa* of Kṛṣṇa and chant the Name of Kṛṣṇa.”
+
+## 50
+w: so  saying  Mahāprabhu  rising  departed
+w: through Govinda  to both  prasāda  He sent
+tr: Having said this, Mahāprabhu rose and left, and He sent *prasāda* to both of them through Govinda.
+
+## 51
+w: in this way  Sanātana  stays  near the Lord
+w: of Jagannātha  the wheel  seeing  makes  obeisance
+tr: Thus Sanātana stayed near the Lord. Seeing the wheel (the Nīla-cakra) atop Jagannātha’s temple, he would bow down.
+
+## 52
+w: the Lord  coming  every day  meets  the two
+w: intimate discussion  talks of Kṛṣṇa  speaks  for some time
+tr: Every day the Lord came and met them both, and for a while He spoke intimately with them about Kṛṣṇa.
+
+## 53
+w: divine  prasāda  receiving  daily  in Jagannātha’s temple
+w: that  bringing  daily  without fail  gives  to both
+tr: Every day He received the divine *prasāda* in the temple of Jagannātha, and every day without fail He brought it and gave it to them both.
+
+## 54
+w: one day  coming  the Lord  the two  met
+w: to Sanātana  suddenly  to speak  began
+tr: One day the Lord came and met them both, and suddenly began to speak to Sanātana:
+
+## 55
+w: Sanātana  by giving up the body  Kṛṣṇa  if  one obtains
+w: millions of bodies  in a moment  then  to give up  one could
+tr: “Sanātana, if Kṛṣṇa could be attained by giving up the body, I would give up millions of bodies in a moment.
+
+## 56
+w: by giving up the body  Kṛṣṇa  not  one obtains  one obtains  by worship
+w: of attaining Kṛṣṇa  means  any  there is not  ‘devotion’  without
+tr: One does not attain Kṛṣṇa by giving up the body; one attains Him by worship. There is no means of attaining Kṛṣṇa except *bhakti*.
+
+## 57
+w: giving up the body and the like  whatever  all  the nature of darkness
+w: by the ways of darkness and passion  of Kṛṣṇa  not  one obtains  the essence
+tr: Giving up the body and all such acts are of the nature of darkness (*tamo-dharma*); through the ways of darkness and passion one cannot grasp the essence of Kṛṣṇa.
+
+## 58
+w: ‘devotion’  without  for Kṛṣṇa  ever  not  ‘love’s awakening’
+w: love  without  attainment of Kṛṣṇa  anything else  from  is not
+tr: Without *bhakti*, love for Kṛṣṇa never awakens; and without love, Kṛṣṇa is not attained by any other means.
+
+## 59
+w: not  wins  Me  yoga
+w: not  sāṅkhya  dharma  O Uddhava
+w: not  Vedic study  austerity  renunciation
+w: as  devotion  to Me  intense
+tr: (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation can win Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)
+
+## 60
+w: giving up the body and the like  the nature of darkness  the cause of sin
+w: the practitioner  not  obtains  by that  of Kṛṣṇa  the feet
+tr: Giving up the body and the like are of the nature of darkness and a cause of sin; by them the *sādhaka* does not attain the feet of Kṛṣṇa.
+
+## 61
+w: a loving  devotee  in separation  wishes  the body  to give up
+w: by love  Kṛṣṇa  is met  he  not  can  die
+tr: A loving devotee in separation wishes to give up his body; but by that very love he meets Kṛṣṇa, and he cannot die.
+
+## 62
+w: of deep attachment  the separation  not  can be  borne
+w: therefore  the one full of attachment  desires  his own  death
+tr: Separation in deep *anurāga* cannot be borne; therefore one who is full of *anurāga* longs for his own death.
+
+## 63
+w: whose  feet  lotus  in the dust  bathing  the great souls
+w: desire  Umā’s husband (Śiva)  like  their own  darkness  for dispelling
+w: if  O lotus-eyed one  not  I obtain  Your  grace
+w: I shall give up  my life  by vows  emaciated  through a hundred births  it may be
+tr: (Rukmiṇī wrote to Kṛṣṇa:) “O lotus-eyed one, great souls like Umā’s lord (Śiva) long to bathe in the dust of Your lotus feet to dispel their own darkness. If I do not obtain Your grace, I shall give up my life, emaciated by vows, so that, even after a hundred births, it may be mine.” (Śrīmad-Bhāgavatam, 10.52.43)
+
+## 64
+w: sprinkle  O dear one  our  Your  lips’  nectar  with the flood
+w: smiling glance  sweet  song  born of  love’s desire  the fire
+w: not  if  we  by the fire born of separation  consumed  bodies
+w: by meditation  we shall go  of the feet  to the place  O friend  Your
+tr: (The *gopīs* said:) “O dear one, with the flood of nectar from Your lips quench the fire of love’s desire that Your smiling glances and sweet song have kindled in our hearts. Otherwise, O friend, our bodies consumed by the fire of separation, we shall reach the place of Your feet by meditation.” (Śrīmad-Bhāgavatam, 10.29.35)
+
+## 65
+w: wicked intelligence  giving up  do  hearing and chanting
+w: soon  you will obtain  then  the treasure of love for Kṛṣṇa
+tr: Give up this wicked intelligence (*kubuddhi*) and engage in hearing and chanting; then you will soon obtain the treasure of love for Kṛṣṇa.
+
+## 66
+w: one of low birth  is not  for the worship of Kṛṣṇa  unfit
+w: a brāhmaṇa of good family  is not  for worship  fit
+tr: One of low birth is not unfit for the worship of Kṛṣṇa, nor is a *brāhmaṇa* of good family fit for it by that alone.
+
+## 67
+w: whoever  worships  he  is great  the non-devotee  low  contemptible
+w: in the worship of Kṛṣṇa  there is not  caste family and the like  consideration
+tr: Whoever worships is great; the non-devotee is low and contemptible. In the worship of Kṛṣṇa there is no consideration of caste, family and the like.
+
+## 68
+w: to the lowly  greater  kindness  shows  Bhagavān
+w: the high-born  the learned  the rich  great  pride
+tr: Bhagavān shows greater kindness to the lowly; the high-born, the learned and the rich have great pride.
+
+## 69
+w: than a brāhmaṇa  twelve  qualities  endowed with  of the lotus-naveled Lord
+w: from the lotus feet  averse  a dog-eater  better
+w: I consider  to Him offered  mind  words  deeds  wealth
+w: and life  purifies  he  his family  not  but  one full of pride
+tr: “I consider a dog-eater whose mind, words, deeds, wealth and very life are offered to the Lord of the lotus navel better than a brāhmaṇa endowed with the twelve qualities who has turned away from His lotus feet. Such a devotee purifies his whole family; the brāhmaṇa swollen with pride cannot.” (Śrīmad-Bhāgavatam, 7.9.10)
+
+## 70
+w: of the forms of worship  among  the best  ninefold  devotion
+w: ‘love for Kṛṣṇa’  ‘Kṛṣṇa’  to give  holds  great power
+tr: Among the forms of worship the best is the ninefold *bhakti*: it has great power to bestow love for Kṛṣṇa and Kṛṣṇa Himself.
+
+## 71
+w: of them  among  the best of all  the chanting of the Name
+w: without offense  the Name  if one takes  obtains  the treasure of love
+tr: Of these the best of all is *nāma-saṅkīrtana*. One who chants the Name without offense obtains the treasure of love.”
+
+## 72
+w: this  hearing  of Sanātana  there was  astonishment
+w: to the Lord  not  seems fit  my  resolve to die
+tr: Hearing this, Sanātana was astonished: “My resolve to give up my body does not please the Lord.
+
+## 73
+w: the omniscient  Mahāprabhu  has forbidden  me
+w: of the Lord  the feet  clasping  he says  to Him
+tr: The all-knowing Mahāprabhu has forbidden me.” Clasping the Lord’s feet, he said to Him:
+
+## 74
+w: omniscient  merciful  You  the Lord  independent
+w: as  You make dance  so  I dance  like  a wooden puppet
+tr: “You are all-knowing and merciful — the independent Lord. As You make me dance, so I dance, like a wooden puppet.
+
+## 75
+w: low  fallen  wretched  I  wretched by nature
+w: me  if You keep alive  Your  what  will be  gain
+tr: I am low, fallen and wretched, wretched by nature. What will You gain by keeping me alive?”
+
+## 76
+w: the Lord  says  your  body  My  own property
+w: you  to Me  have made  self-surrender
+tr: The Lord said, “Your body is My own property, for you have surrendered yourself to Me.
+
+## 77
+w: another’s  property  you  why  wish  to destroy
+w: right and wrong  discrimination  is it that  not  you can  make
+tr: Why do you wish to destroy another’s property? Can you not discern right from wrong?
+
+## 78
+w: your  body  My  chief  ‘instrument’
+w: by this  body  shall accomplish  I  many  purposes
+tr: Your body is My chief instrument (*sādhana*); through this body I shall accomplish many purposes:
+
+## 79
+w: of the devotee  devotion  love for Kṛṣṇa  of the truths  the establishing
+w: of the Vaiṣṇava  the duties  and  Vaiṣṇava conduct
+tr: establishing the truths about the devotee, devotion and love for Kṛṣṇa; the duties of a Vaiṣṇava, and Vaiṣṇava conduct;
+
+## 80
+w: devotion to Kṛṣṇa  of service in love for Kṛṣṇa  the introduction
+w: of lost holy places  the recovery  and  of renunciation  teaching
+tr: introducing devotion to Kṛṣṇa and service in love for Kṛṣṇa; recovering the lost holy places, and teaching renunciation.
+
+## 81
+w: own  dear  place  My  Mathurā-Vṛndāvana
+w: there  these  dharmas  I wish  to make  propagation
+tr: My own dear abode is Mathurā-Vṛndāvana; there I wish to propagate all these dharmas.
+
+## 82
+w: of My mother  by the order  I  reside  in Nīlācala
+w: there  ‘dharma’  to teach  not  by My own strength
+tr: By My mother’s order I reside in Nīlācala, and it is not within My own power to teach this dharma there.
+
+## 83
+w: these  all  works  I  by which  body  shall do
+w: that  to give up  wish  you  how  shall I bear
+tr: The body through which I shall do all these works — that you wish to give up! How can I bear it?”
+
+## 84
+w: then  Sanātana  says  to You  obeisance
+w: Your  deep  heart  who  to understand  can
+tr: Then Sanātana said, “I bow down to You. Who can understand Your fathomless heart?
+
+## 85
+w: of wood  a puppet  as  the conjurer  makes dance
+w: itself  not  knows  the puppet  how  dances  sings
+tr: A conjurer makes a wooden puppet dance, and the puppet itself does not know how it dances and sings.
+
+## 86
+w: whom  as  You make dance  he  so  does  dancing
+w: how  he dances  who  makes him dance  he  not  knows
+tr: So too whomever You make dance dances just as You make him, and he does not know how he dances or who makes him dance.”
+
+## 87
+w: to Haridāsa  says  the Lord  listen  Haridāsa
+w: another’s  property  he  wishes  to make  destruction
+tr: The Lord said to Haridāsa, “Listen, Haridāsa: this man wants to destroy another’s property.
+
+## 88
+w: another’s  held in trust  property  anyone  not  uses  gives away
+w: forbid  him  so that  not  he does  wrong
+tr: No one uses for himself or gives away property that another has placed in his keeping. Forbid him, so that he does not do this wrong.”
+
+## 89
+w: Haridāsa  says  false  pride  we make
+w: Your  deep  heart  to understand  not  we can
+tr: Haridāsa said, “Our pride is false: we cannot understand Your fathomless heart.
+
+## 90
+w: which  which  works  You  do  whom  through
+w: You  not  if You make known  anyone  to know  not  can
+tr: Which works You accomplish through whom — unless You make it known, no one can know.
+
+## 91
+w: such  You  him  have made  acceptance
+w: such  good fortune  here  not  is  anyone’s
+tr: You have accepted him in such a way; no one here has such good fortune.”
+
+## 92
+w: then  Mahāprabhu  making  of both  embrace
+w: the ‘midday duties’  to do  rising  made  departure
+tr: Then Mahāprabhu embraced them both, rose and left to perform His midday duties.
+
+## 93
+w: to Sanātana  says  Haridāsa  making  embrace
+w: your  of fortune  the limit  not  can be  told
+tr: Embracing Sanātana, Haridāsa said, “There is no telling the limits of your good fortune.
+
+## 94
+w: your  body  calls  the Lord  ‘My  own property’
+w: like you  fortunate  there is not  any  person
+tr: The Lord calls your body ‘My own property’; no one is as fortunate as you.
+
+## 95
+w: by His own body  which  work  not  He can  to do
+w: that  work  He will have done  by you  and that  in Mathurā
+tr: The work He cannot do in His own body He will have done through you — and in Mathurā.
+
+## 96
+w: what  to have done  wishes  the Lord  that  accomplished  is
+w: your  good fortune  this  I have told  for certain
+tr: Whatever the Lord wishes to have done is accomplished. This is your good fortune, I tell you for certain.
+
+## 97
+w: the conclusions of devotion  of scripture  conduct  the determination
+w: through you  He will have done  I have understood  His intention
+tr: The conclusions of *bhakti* and the determination of conduct according to scripture He will have done through you — I have understood His intention.
+
+## 98
+w: my  this  body  of the Lord  in the work  not  was used
+w: in the land of Bhārata  born  this  body  futile  has become
+tr: But this body of mine has not been used in the Lord’s work. Born in the land of Bhārata, this body has been in vain!”
+
+## 99
+w: Sanātana  says  like you  who  is there  other
+w: of Mahāprabhu  among the associates  you  most fortunate
+tr: Sanātana said, “Who else is there like you? Among Mahāprabhu’s associates you are the most fortunate!
+
+## 100
+w: of the descent  the mission  of the Lord  in spreading the Name
+w: that  own  work  the Lord  does  you  through
+tr: The mission of the Lord’s descent is to spread the Name, and that very work of His the Lord does through you.
+
+## 101
+w: daily  you do  three hundred thousand  chanting of the Name
+w: of all  before  you do  of the Name  the glory  telling
+tr: Every day you chant three hundred thousand names, and before everyone you tell the glory of the Name.
+
+## 102
+w: himself  practises  someone  not  does  preaching
+w: preaching  does  someone  not  does  practice
+tr: Some practise themselves but do not preach; others preach but do not practise.
+
+## 103
+w: ‘practice’  ‘preaching’  of the Name  you do  ‘both’  works
+w: you  the guru of all  you  of the world  the noble one
+tr: You do both works for the Name — practice (*ācāra*) and preaching (*pracāra*). You are the guru of all; you are the noblest in the world.”
+
+## 104
+w: in this way  the two  in the joy of many talks
+w: talks of Kṛṣṇa  relish  staying  together
+tr: In this way the two of them lived together, relishing talks of Kṛṣṇa in the joy of many conversations.
+
+## 105
+w: at festival time  came  all  of Gauḍa  the devotees
+w: as before  made  all  of the Ratha-yātrā  seeing
+tr: At the time of the festival all the devotees of Gauḍa came, and as before they all saw the Ratha-yātrā.
+
+## 106
+w: before the chariot  the Lord  likewise  made  dancing
+w: seeing  astonished  became  of Sanātana  the mind
+tr: Before the chariot the Lord danced as before, and seeing it, Sanātana was filled with wonder.
+
+## 107
+w: of the rains  the four months  stayed  all  His own devotees
+w: with all  the Lord  made meet  Sanātana
+tr: All His devotees stayed for the four months of the rainy season, and the Lord introduced Sanātana to them all.
+
+## 108–110
+w: Advaita  Nityānanda  Śrīvāsa  Vakreśvara
+w: Vāsudeva  Murāri  Rāghava  Dāmodara
+w: (Paramānanda) Purī  (Brahmānanda) Bhāratī  Svarūpa  Paṇḍita Gadādhara
+w: Sārvabhauma  Rāmānanda  Jagadānanda  Śaṅkara
+w: Kāśīśvara  Govinda and others  all  the devotees
+w: with all  of Sanātana  He brought about  the meeting
+tr: He brought Sanātana to meet Advaita, Nityānanda, Śrīvāsa and Vakreśvara; Vāsudeva, Murāri, Rāghava and Dāmodara; (Paramānanda) Purī, (Brahmānanda) Bhāratī, Svarūpa and Gadādhara Paṇḍita; Sārvabhauma, Rāmānanda, Jagadānanda and Śaṅkara; Kāśīśvara, Govinda and all the other devotees.
+
+## 111
+w: as befitting  He had (him) make  of all  of the feet  worship
+w: him  He made  of all  of the mercy  the recipient
+tr: He had him bow down at the feet of each of them as befitted each, and made him a recipient of everyone’s mercy.
+
+## 112
+w: by his virtues  by his learning  of all  dear  Sanātana
+w: as befitting  of mercy  friendship  respect  the recipient
+tr: By his virtues and learning Sanātana became dear to all, and received from each, as befitted each, mercy, friendship or respect.
+
+## 113
+w: all  the Vaiṣṇavas  when  to Gauḍadeśa  went
+w: Sanātana  of Mahāprabhu  at the feet  remained
+tr: When all the Vaiṣṇavas went back to Gauḍa, Sanātana remained at the feet of Mahāprabhu.
+
+## 114
+w: the Dola-yātrā and so on  of the Lord  in the company  he saw
+w: day by day  in the Lord’s company  joy  increased
+tr: In the Lord’s company he saw the Dola-yātrā and other festivals, and day by day, in the Lord’s company, his joy increased.
+
+## 115
+w: earlier  in the month of Vaiśākha  Sanātana  when  came
+w: in the month of Jyaiṣṭha  the Lord  him  test  made
+tr: Sanātana had come in the month of Vaiśākha (April–May); in the month of Jyaiṣṭha (May–June) the Lord put him to a test.
+
+## 116
+w: in the month of Jyaiṣṭha  the Lord  to Yameśvara-ṭoṭā  came
+w: at the devotees’ request  there  His meal  indeed  took
+tr: In the month of Jyaiṣṭha the Lord came to Yameśvara-ṭoṭā and, at the request of His devotees, took His meal there.
+
+## 117
+w: at the time of the midday meal  Sanātana  He had called
+w: the Lord  has called  his  joy  increased
+tr: At the time of the midday meal He sent for Sanātana; and since the Lord had called him, Sanātana’s joy increased.
+
+## 118
+w: at midday  the sea sand  has become  like fire
+w: by that path  Sanātana  made  going
+tr: At midday the sand by the sea had become like fire, yet Sanātana went by that path.
+
+## 119
+w: the Lord  has called  in this  joyful  mind
+w: on the hot sand  the feet  burn  that  not  he knows
+tr: His mind was so joyful that the Lord had called him that he did not notice his feet burning on the hot sand.
+
+## 120
+w: on both  feet  blisters  appeared  still  he went  to the Lord’s place
+w: the meal  having taken  Mahāprabhu  was  resting
+tr: Blisters rose on both his feet, yet he went on to the Lord. Mahāprabhu, having taken His meal, was resting.
