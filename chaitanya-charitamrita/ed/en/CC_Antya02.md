@@ -608,449 +608,561 @@ Caitanya  Prabhu  for  another  offering  he made
 তিনজনে সমর্পিয়া বাহিরে ধ্যান কৈলা ॥ ৬১ ॥
 
 iṣṭa-deva nṛsiṁha lāgi’ pṛthak bāḍilā  
-tinajane samarpiyā bāhire dhyāna kailā
+for his worshipful Deity  Nṛsiṁha  for  separately  he served out  
+tinajane samarpiyā bāhire dhyāna kailā  
+to the three  having offered  outside  meditation  he did
 
-(61) [not yet translated]
+(61) He served out a separate offering for his worshipful Deity, Nṛsiṁha. Having offered the food to all three, he sat outside and meditated.
 
 দেখে, শীঘ্র আসি’ বসিলা চৈতন্য-গোসাঞি ৷  
 তিন ভোগ খাইলা, কিছু অবশিষ্ট নাই ॥ ৬২ ॥
 
 dekhe, śīghra āsi’ vasilā caitanya-gosāñi  
-tina bhoga khāilā, kichu avaśiṣṭa nāi
+he sees  quickly  coming  sat down  Caitanya Gosāñi  
+tina bhoga khāilā, kichu avaśiṣṭa nāi  
+the three  offerings  He ate  anything  left over  not
 
-(62) [not yet translated]
+(62) He saw Caitanya Gosāñi quickly come and sit down. He ate all three offerings, and nothing was left.
 
 আনন্দে বিহ্বল প্রদ্যুম্ন, পড়ে অশ্রুধার ৷  
 হাহা কিবা কর বলি’ করয়ে ফুৎকার ॥ ৬৩ ॥
 
 ānande vihvala pradyumna, paḍe aśru-dhāra  
-hāhā kibā kara bali’ karaye phutkāra
+with bliss  overwhelmed  Pradyumna  fall  streams of tears  
+hāhā kibā kara bali’ karaye phutkāra  
+alas, alas  what  You do  saying  cries out
 
-(63) [not yet translated]
+(63) Overwhelmed with bliss, Pradyumna shed streams of tears, and he cried out, “Alas, alas! What are You doing?
 
 জগন্নাথে-তোমায় ঐক্য, খাও তাঁর ভোগ ৷  
 নৃসিংহের ভোগ কেনে কর উপযোগ ? ॥ ৬৪ ॥
 
 jagannāthe-tomāya aikya, khāo tāṅra bhoga  
-nṛsiṁhera bhoga kene kara upayoga?
+Jagannātha and You  are one  You eat  His  offering  
+nṛsiṁhera bhoga kene kara upayoga?  
+Nṛsiṁha’s  offering  why  do You  consume
 
-(64) [not yet translated]
+(64) You and Jagannātha are one, so You may eat His offering. But why do You consume Nṛsiṁha’s offering?
 
 নৃসিংহের হৈল জানি আজি উপবাস ৷  
 ঠাকুর উপবাসী রহে, জিয়ে কৈছে দাস ? ॥ ৬৫ ॥
 
 nṛsiṁhera haila jāni āji upavāsa  
-ṭhākura upavāsī rahe, jiye kaiche dāsa?
+for Nṛsiṁha  there was  I know  today  a fast  
+ṭhākura upavāsī rahe, jiye kaiche dāsa?  
+the master  fasting  remains  live  how  the servant
 
-(65) [not yet translated]
+(65) I see that today Nṛsiṁha has had to fast. If the master goes without food, how can his servant live?”
 
 ভোজন দেখি’ যদ্যপি তাঁর হৃদয়ে উল্লাস ৷  
 নৃসিংহ লক্ষ্য করি’ বাহ্যে কিছু করে দুঃখাভাস ॥ ৬৬ ॥
 
 bhojana dekhi’ yadyapi tāṅra hṛdaye ullāsa  
-nṛsiṁha lakṣya kari’ bāhye kichu kare duḥkhābhāsa
+the meal  seeing  although  his  in the heart  joy  
+nṛsiṁha lakṣya kari’ bāhye kichu kare duḥkhābhāsa  
+Nṛsiṁha  for the sake of  outwardly  some  makes  show of sorrow
 
-(66) [not yet translated]
+(66) Although his heart rejoiced at seeing the Lord eat, outwardly, for Nṛsiṁha’s sake, he made some show of sorrow.
 
 স্বয়ং ভগবান্ কৃষ্ণচৈতন্য-গোসাঞি ৷  
 জগন্নাথ-নৃসিংহ-সহ কিছু ভেদ নাই ॥ ৬৭ ॥
 
 svayaṁ bhagavān kṛṣṇa-caitanya-gosāñi  
-jagannātha-nṛsiṁha-saha kichu bheda nāi
+Svayaṁ  Bhagavān  Kṛṣṇa Caitanya Gosāñi  
+jagannātha-nṛsiṁha-saha kichu bheda nāi  
+with Jagannātha and Nṛsiṁha  any  difference  is not
 
-(67) [not yet translated]
+(67) Kṛṣṇa Caitanya Gosāñi is Svayaṁ Bhagavān, the Supreme Lord Himself: between Him and Jagannātha and Nṛsiṁha there is no difference at all.
 
 ইহা জানিবারে প্রদ্যুম্নের গূঢ় হৈত মন ৷  
 তাহা দেখাইলা প্রভু করিয়া ভোজন ॥ ৬৮ ॥
 
 ihā jānibāre pradyumnera gūḍha haita mana  
-tāhā dekhāilā prabhu kariyā bhojana
+this  to know  of Pradyumna  secret  was  the wish  
+tāhā dekhāilā prabhu kariyā bhojana  
+that  showed  the Lord  doing  eating
 
-(68) [not yet translated]
+(68) Pradyumna had a secret wish to know this, and by eating the Lord showed it to him.
 
 ভোজন করিয়া প্রভু গেলা পাণিহাটি ৷  
 সন্তোষ পাইলা দেখি’ ব্যঞ্জন-পরিপাটী ॥ ৬৯ ॥
 
 bhojana kariyā prabhu gelā pāṇihāṭi  
-santoṣa pāilā dekhi’ vyañjana-paripāṭī
+the meal  having taken  the Lord  went  to Pāṇihāṭi  
+santoṣa pāilā dekhi’ vyañjana-paripāṭī  
+pleasure  He felt  seeing  of the dishes  the excellence
 
-(69) [not yet translated]
+(69) Having eaten, the Lord went to Pāṇihāṭi, pleased by the excellence of the dishes.
 
 শিবানন্দ কহে, — কেনে করহ ফুৎকার ?  
 ব্রহ্মচারী কহে, — দেখ প্রভুর ব্যবহার ॥ ৭০ ॥
 
 śivānanda kahe, — kene karaha phutkāra?  
-brahmacārī kahe, — dekha prabhura vyavahāra
+Śivānanda  says  —  why  do you  cry out  
+brahmacārī kahe, — dekha prabhura vyavahāra  
+the brahmacārī  says  —  see  of the Lord  the conduct
 
-(70) [not yet translated]
+(70) Śivānanda said, “Why are you crying out?” The brahmacārī said, “Look at the Lord’s conduct!
 
 তিন জনার ভোগ তেঁহো একেলা খাইলা ৷  
 জগন্নাথ-নৃসিংহ উপবাসী হইলা ॥ ৭১ ॥
 
 tina janāra bhoga teṅho ekelā khāilā  
-jagannātha-nṛsiṁha upavāsī hailā
+of three  persons  the offerings  He  alone  ate  
+jagannātha-nṛsiṁha upavāsī hailā  
+Jagannātha and Nṛsiṁha  fasting  became
 
-(71) [not yet translated]
+(71) He alone has eaten the offerings meant for all three, and Jagannātha and Nṛsiṁha have been left fasting.”
 
 শুনি’ শিবানন্দের চিত্তে হইল সংশয় ৷  
 কিবা প্রেমাবেশে কহে, কিবা সত্য হয় ॥ ৭২ ॥
 
 śuni’ śivānandera citte haila saṁśaya  
-kibā premāveśe kahe, kibā satya haya
+hearing  in Śivānanda’s  mind  arose  doubt  
+kibā premāveśe kahe, kibā satya haya  
+whether  in the ecstasy of prema  he speaks  or  true  it is
 
-(72) [not yet translated]
+(72) Hearing this, doubt arose in Śivānanda’s mind: was he speaking in the ecstasy of prema, or was it true?
 
 তবে শিবানন্দে কিছু কহে ব্রহ্মচারী ৷  
 সামগ্রী আনহ নৃসিংহের পুনঃ পাক করি ॥ ৭৩ ॥
 
 tabe śivānande kichu kahe brahmacārī  
-sāmagrī ānaha nṛsiṁhera punaḥ pāka kari
+then  to Śivānanda  something  says  the brahmacārī  
+sāmagrī ānaha nṛsiṁhera punaḥ pāka kari  
+the provisions  bring  for Nṛsiṁha  again  cooking  I will do
 
-(73) [not yet translated]
+(73) Then the brahmacārī said to Śivānanda, “Bring the provisions; I shall cook for Nṛsiṁha once more.”
 
 তবে শিবানন্দ ভোগ-সামগ্রী আনিলা ৷  
 পাক করি’ নৃসিংহের ভোগ লাগাইলা ॥ ৭৪ ॥
 
 tabe śivānanda bhoga-sāmagrī ānilā  
-pāka kari’ nṛsiṁhera bhoga lāgāilā
+then  Śivānanda  for the offering  provisions  brought  
+pāka kari’ nṛsiṁhera bhoga lāgāilā  
+cooking  having done  to Nṛsiṁha  the offering  he presented
 
-(74) [not yet translated]
+(74) Śivānanda then brought the provisions for the offering, and the brahmacārī cooked and offered the food to Nṛsiṁha.
 
 বর্ষান্তরে শিবানন্দ লঞা ভক্তগণ ৷  
 নীলাচলে দেখে যাঞা প্রভুর চরণ ॥ ৭৫ ॥
 
 varṣāntare śivānanda lañā bhakta-gaṇa  
-nīlācale dekhe yāñā prabhura caraṇa
+in the following year  Śivānanda  taking  the devotees  
+nīlācale dekhe yāñā prabhura caraṇa  
+in Nīlācala  sees  going  the Lord’s  feet
 
-(75) [not yet translated]
+(75) The following year Śivānanda took the devotees to Nīlācala and saw the Lord’s feet.
 
 একদিন সভাতে প্রভু বাত্ চালাইলা ৷  
 নৃসিংহানন্দের গুণ কহিতে লাগিলা ॥ ৭৬ ॥
 
 ekadina sabhāte prabhu bāt cālāilā  
-nṛsiṁhānandera guṇa kahite lāgilā
+one day  in the assembly  the Lord  the subject  brought up  
+nṛsiṁhānandera guṇa kahite lāgilā  
+Nṛsiṁhānanda’s  virtues  to tell  He began
 
-(76) [not yet translated]
+(76) One day, in the assembly, the Lord brought up the subject and began to speak of Nṛsiṁhānanda’s virtues:
 
 গতবর্ষ পৌষে মোরে করাইল ভোজন ৷  
 কভু নাহি খাই ঐছে মিষ্টান্ন-ব্যঞ্জন ॥ ৭৭ ॥
 
 gatavarṣa pauṣe more karāila bhojana  
-kabhu nāhi khāi aiche miṣṭānna-vyañjana
+last year  in Pauṣa  Me  he made  eat  
+kabhu nāhi khāi aiche miṣṭānna-vyañjana  
+ever  not  I ate  such  sweets  vegetable dishes
 
-(77) [not yet translated]
+(77) “Last year, in Pauṣa, he fed Me. Never have I eaten such sweets and vegetable dishes.”
 
 শুনি’ ভক্তগণ মনে আশ্চর্য্য মানিল ৷  
 শিবানন্দের মনে তবে প্রত্যয় জন্মিল ॥ ৭৮ ॥
 
 śuni’ bhakta-gaṇa mane āścarya mānila  
-śivānandera mane tabe pratyaya janmila
+hearing  the devotees  in mind  wonder  felt  
+śivānandera mane tabe pratyaya janmila  
+in Śivānanda’s  mind  then  conviction  was born
 
-(78) [not yet translated]
+(78) Hearing this, the devotees were filled with wonder, and then conviction was born in Śivānanda’s mind.
 
 এইমত শচীগৃহে সতত ভোজন ৷  
 শ্রীবাসের গৃহে করেন কীর্ত্তন-দর্শন ॥ ৭৯ ॥
 
 ei-mata śacī-gṛhe satata bhojana  
-śrīvāsera gṛhe karena kīrtana-darśana
+in this way  in Śacī’s house  constantly  He eats  
+śrīvāsera gṛhe karena kīrtana-darśana  
+in Śrīvāsa’s  house  He does  the seeing of kīrtana
 
-(79) [not yet translated]
+(79) In the same way He constantly takes His meals in Śacī’s house, and in Śrīvāsa’s house He watches the kīrtana.
 
 নিত্যানন্দের নৃত্য দেখেন আসি’ বারে বারে ৷  
 ‘নিরন্তর আবির্ভাব’ রাঘবের ঘরে ॥ ৮০ ॥
 
 nityānandera nṛtya dekhena āsi’ bāre bāre  
-‘nirantara āvirbhāva’ rāghavera ghare
+Nityānanda’s  dancing  He watches  coming  again and again  
+‘nirantara āvirbhāva’ rāghavera ghare  
+‘constant  appearance’  in Rāghava’s  house
 
-(80) [not yet translated]
+(80) Again and again He comes to watch Nityānanda’s dancing, and in Rāghava’s house His ‘āvirbhāva’ is constant.
 
 প্রেমবশ গৌরপ্রভু, যাঁহা প্রেমোত্তম ৷  
 প্রেমবশ হঞা তাঁহা দেন দরশন ॥ ৮১ ॥
 
 prema-vaśa gaura-prabhu, yāṅhā premottama  
-prema-vaśa hañā tāṅhā dena daraśana
+by prema controlled  Gaura Prabhu  where  the highest prema  
+prema-vaśa hañā tāṅhā dena daraśana  
+by prema  controlled  being  there  He gives  His sight
 
-(81) [not yet translated]
+(81) Gaura Prabhu is controlled by prema: wherever there is the highest prema, there, controlled by it, He gives His darśana.
 
 শিবানন্দের প্রেমসীমা কে কহিতে পারে ?  
 যাঁর প্রেমে বশ প্রভু আইসে বারে বারে ॥ ৮২ ॥
 
 śivānandera prema-sīmā ke kahite pāre?  
-yāṅra preme vaśa prabhu āise bāre bāre
+Śivānanda’s  the extent of prema  who  to tell  can  
+yāṅra preme vaśa prabhu āise bāre bāre  
+by whose  prema  controlled  the Lord  comes  again and again
 
-(82) [not yet translated]
+(82) Who can tell the full extent of Śivānanda’s prema? Controlled by his prema, the Lord comes to him again and again.
 
 এই ত’ কহিলুঁ গৌরের ‘আবির্ভাব’ ৷  
 ইহা যেই শুনে, জানে চৈতন্য-প্রভাব ॥ ৮৩ ॥
 
 ei ta’ kahiluṅ gaurera ‘āvirbhāva’  
-ihā yei śune, jāne caitanya-prabhāva
+thus  indeed  I have told  of Gaura  the ‘appearance’  
+ihā yei śune, jāne caitanya-prabhāva  
+this  whoever  hears  knows  Caitanya’s  power
 
-(83) [not yet translated]
+(83) Thus I have told of Gaura’s ‘āvirbhāva’. Whoever hears of it comes to know Caitanya’s power.
 
 পুরুষোত্তমে প্রভু-পাশে ভগবান্-আচার্য্য ৷  
 পরম বৈষ্ণব তেঁহো সুপণ্ডিত আর্য্য ॥ ৮৪ ॥
 
 puruṣottame prabhu-pāśe bhagavān-ācārya  
-parama vaiṣṇava teṅho supaṇḍita ārya
+in Puruṣottama  near the Lord  Bhagavān Ācārya  
+parama vaiṣṇava teṅho supaṇḍita ārya  
+a supreme  Vaiṣṇava  he  very learned  noble
 
-(84) [not yet translated]
+(84) In Puruṣottama, near the Lord, lived Bhagavān Ācārya, a supreme Vaiṣṇava, very learned and noble.
 
 সখ্যভাবাক্রান্ত-চিত্ত, গোপ-অবতার ৷  
 স্বরূপ-গোসাঞি-সহ সখ্য-ব্যবহার ॥ ৮৫ ॥
 
 sakhya-bhāvākrānta-citta, gopa-avatāra  
-svarūpa-gosāñi-saha sakhya-vyavahāra
+by the mood of friendship  overcome  his heart  of a cowherd boy  an incarnation  
+svarūpa-gosāñi-saha sakhya-vyavahāra  
+with Svarūpa Gosāñi  friendly  dealings
 
-(85) [not yet translated]
+(85) His heart was filled with the mood of friendship (sakhya); he was an incarnation of a cowherd boy, and with Svarūpa Gosāñi he dealt as a friend.
 
 একান্তভাবে আশ্রিয়াছেন চৈতন্যচরণ ৷  
 মধ্যে মধ্যে প্রভুর তেঁহো করেন নিমন্ত্রণ ॥ ৮৬ ॥
 
 ekānta-bhāve āśriyāchena caitanya-caraṇa  
-madhye madhye prabhura teṅho karena nimantraṇa
+with single-minded devotion  has taken shelter  of Caitanya’s feet  
+madhye madhye prabhura teṅho karena nimantraṇa  
+from time to time  the Lord  he  makes  an invitation
 
-(86) [not yet translated]
+(86) He had taken shelter at Caitanya’s feet with single-minded devotion, and from time to time he would invite the Lord for a meal.
 
 ঘরে ভাত করি’ করেন বিবিধ ব্যঞ্জন ৷  
 একলে গোসাঞি লঞা করান ভোজন ॥ ৮৭ ॥
 
 ghare bhāta kari’ karena vividha vyañjana  
-ekale gosāñi lañā karāna bhojana
+at home  rice  having cooked  makes  various  vegetable dishes  
+ekale gosāñi lañā karāna bhojana  
+alone  the Lord  bringing  causes to eat  a meal
 
-(87) [not yet translated]
+(87) At home he would cook rice and make many kinds of vegetable dishes, and he would bring the Lord alone and feed Him.
 
 তাঁর পিতা ‘বিষয়ী’ বড় শতানন্দ-খাঁন ৷  
 ‘বিষয়বিমুখ’ আচার্য্য — ‘বৈরাগ্যপ্রধান’ ॥ ৮৮ ॥
 
 tāṅra pitā ‘viṣayī’ baḍa śatānanda-khāṅna  
-‘viṣaya-vimukha’ ācārya — ‘vairāgya-pradhāna’
+his  father  a man of worldly affairs  great  Śatānanda Khān  
+‘viṣaya-vimukha’ ācārya — ‘vairāgya-pradhāna’  
+turned away from worldly things  the Ācārya  —  renunciation foremost
 
-(88) [not yet translated]
+(88) His father, Śatānanda Khān, was a great man of worldly affairs, but the Ācārya had turned away from worldly things: renunciation was foremost in him.
 
 ‘গোপাল-ভট্টাচার্য্য’ নাম, তাঁর ছোট-ভাই ৷  
 কাশীতে ‘বেদান্ত’ পড়ি’ গেলা আচার্য্য-ঠাঞি ॥ ৮৯ ॥
 
 ‘gopāla-bhaṭṭācārya’ nāma, tāṅra choṭa-bhāi  
-kāśīte ‘vedānta’ paḍi’ gelā ācārya-ṭhāñi
+Gopāla Bhaṭṭācārya  named  his  younger brother  
+kāśīte ‘vedānta’ paḍi’ gelā ācārya-ṭhāñi  
+in Kāśī  Vedānta  having studied  went  to the Ācārya
 
-(89) [not yet translated]
+(89) His younger brother, named Gopāla Bhaṭṭācārya, studied Vedānta in Kāśī and then came to the Ācārya.
 
 আচার্য্য তাহারে প্রভুপদে মিলাইলা ৷  
 অন্তর্য্যামী প্রভু, চিত্তে সুখ না পাইলা ॥ ৯০ ॥
 
 ācārya tāhāre prabhu-pade milāilā  
-antaryāmī prabhu, citte sukha nā pāilā
+the Ācārya  him  at the Lord’s feet  brought to meet  
+antaryāmī prabhu, citte sukha nā pāilā  
+the knower of hearts  the Lord  in His heart  happiness  not  found
 
-(90) [not yet translated]
+(90) The Ācārya brought him to the Lord’s feet, but the Lord, who knows every heart, found no happiness within.
 
 আচার্য্য-সম্বন্ধে বাহ্যে করে প্রীত্যাভাস ৷  
 কৃষ্ণভক্তি বিনা প্রভুর না হয় উল্লাস ॥ ৯১ ॥
 
 ācārya-sambandhe bāhye kare prītyābhāsa  
-kṛṣṇa-bhakti vinā prabhura nā haya ullāsa
+because of the relation with the Ācārya  outwardly  shows  a semblance of affection  
+kṛṣṇa-bhakti vinā prabhura nā haya ullāsa  
+devotion to Kṛṣṇa  without  the Lord’s  not  is  joy
 
-(91) [not yet translated]
+(91) Because Gopāla was related to the Ācārya, the Lord outwardly showed him a semblance of affection; but without devotion to Kṛṣṇa the Lord feels no joy.
 
 স্বরূপ গোসাঞিরে আচার্য্য কহে আর দিনে ৷  
 বেদান্ত পড়িয়া গোপাল আইসাছে এখানে ॥ ৯২ ॥
 
 svarūpa gosāñire ācārya kahe āra dine  
-vedānta paḍiyā gopāla āisāche ekhāne
+to Svarūpa Gosāñi  the Ācārya  says  on another day  
+vedānta paḍiyā gopāla āisāche ekhāne  
+Vedānta  having studied  Gopāla  has come  here
 
-(92) [not yet translated]
+(92) One day the Ācārya said to Svarūpa Gosāñi, “Gopāla has come here after studying Vedānta.
 
 সবে মেলি’ আইস, শুনি ‘ভাষ্য’ ইহার স্থানে ৷  
 প্রেম-ক্রোধ করি’ স্বরূপ বলয় বচনে ॥ ৯৩ ॥
 
 sabe meli’ āisa, śuni ‘bhāṣya’ ihāra sthāne  
-prema-krodha kari’ svarūpa balaya vacane
+all  together  come  let us hear  the commentary  his  from  
+prema-krodha kari’ svarūpa balaya vacane  
+loving anger  showing  Svarūpa  speaks  in words
 
-(93) [not yet translated]
+(93) Let us all come together and hear the commentary from him.” Showing loving anger, Svarūpa replied:
 
 বুদ্ধি ভ্রষ্ট হৈল তোমার গোপালের সঙ্গে ৷  
 মায়াবাদ শুনিবারে উপজিল রঙ্গে ॥ ৯৪ ॥
 
 buddhi bhraṣṭa haila tomāra gopālera saṅge  
-māyāvāda śunibāre upajila raṅge
+intelligence  spoiled  has become  your  of Gopāla  in the company  
+māyāvāda śunibāre upajila raṅge  
+Māyāvāda  to hear  has arisen  a fancy
 
-(94) [not yet translated]
+(94) “Your intelligence has been spoiled in Gopāla’s company, and you have taken a fancy to hear Māyāvāda.
 
 বৈষ্ণব হঞা যেবা শারীরক-ভাষ্য শুনে ৷  
 সেব্য-সেবক-ভাব ছাড়ি’ আপনারে ‘ঈশ্বর’ মানে ॥ ৯৫ ॥
 
 vaiṣṇava hañā yebā śārīraka-bhāṣya śune  
-sevya-sevaka-bhāva chāḍi’ āpanāre ‘īśvara’ māne
+a Vaiṣṇava  being  whoever  the Śārīraka-bhāṣya  hears  
+sevya-sevaka-bhāva chāḍi’ āpanāre ‘īśvara’ māne  
+the relationship of the served and the servant  giving up  himself  the Lord  considers
 
-(95) [not yet translated]
+(95) A Vaiṣṇava who listens to the *Śārīraka-bhāṣya* gives up the relationship of servant and served and considers himself the Lord.
 
 মহাভাগবত যেই, কৃষ্ণ প্রাণধন যাঁর ৷  
 মায়াবাদ-শ্রবণে চিত্ত অবশ্য ফিরে তাঁর ॥ ৯৬ ॥
 
 mahā-bhāgavata yei, kṛṣṇa prāṇa-dhana yāṅra  
-māyāvāda-śravaṇe citta avaśya phire tāṅra
+a great devotee  who is,  Kṛṣṇa  the treasure of life  whose  
+māyāvāda-śravaṇe citta avaśya phire tāṅra  
+by hearing Māyāvāda  heart  certainly  turns  his
 
-(96) [not yet translated]
+(96) Even a *mahā-bhāgavata*, whose treasure of life is Kṛṣṇa, will surely have his heart turned by hearing Māyāvāda.”
 
 আচার্য্য কহে, — আমা-সবার কৃষ্ণনিষ্ঠ-চিত্তে ৷  
 আমা-সবার মন ভাষ্য নারে ফিরাইতে ॥ ৯৭ ॥
 
 ācārya kahe, — āmā-sabāra kṛṣṇa-niṣṭha-citte  
-āmā-sabāra mana bhāṣya nāre phirāite
+the Ācārya  says  —  of us all  fixed on Kṛṣṇa  in the hearts  
+āmā-sabāra mana bhāṣya nāre phirāite  
+of us all  minds  the commentary  cannot  turn
 
-(97) [not yet translated]
+(97) The Ācārya said, “Our hearts are fixed on Kṛṣṇa; a commentary cannot turn our minds.”
 
 স্বরূপ কহে, — তথাপি মায়াবাদ-শ্রবণে ৷  
 ‘চিৎ ব্রহ্ম, মায়া মিথ্যা’ — এইমাত্র শুনে ॥ ৯৮ ॥
 
 svarūpa kahe, — tathāpi māyāvāda-śravaṇe  
-‘cit brahma, māyā mithyā’ — eimātra śune
+Svarūpa  says  —  even so  in hearing Māyāvāda  
+‘cit brahma, māyā mithyā’ — eimātra śune  
+consciousness  Brahman,  māyā  false  —  only this  one hears
 
-(98) [not yet translated]
+(98) Svarūpa said, “Even so, in hearing Māyāvāda one hears only this: ‘Brahman is pure consciousness, and *māyā* is false;
 
 জীবজ্ঞান — কল্পিত, ঈশ্বরে — সকল অজ্ঞান ৷  
 যাহার শ্রবণে ভক্তের ফাটে মন-প্রাণ ॥ ৯৯ ॥
 
 jīvajñāna — kalpita, īśvare — sakala ajñāna  
-yāhāra śravaṇe bhaktera phāṭe mana-prāṇa
+the notion of the jīva  —  imagined,  in the Lord  —  all  ignorance  
+yāhāra śravaṇe bhaktera phāṭe mana-prāṇa  
+which  on hearing  of a devotee  breaks  mind and life
 
-(99) [not yet translated]
+(99) the very notion of the *jīva* is imaginary, and in the Lord there is nothing but ignorance.’ Hearing this, a devotee’s heart and soul break.”
 
 লজ্জা-ভয় পাঞা আচার্য্য মৌন হইলা ৷  
 আর দিন গোপালেরে দেশে পাঠাইলা ॥ ১০০ ॥
 
 lajjā-bhaya pāñā ācārya mauna hailā  
-āra dina gopālere deśe pāṭhāilā
+shame  fear  feeling  the Ācārya  silent  became  
+āra dina gopālere deśe pāṭhāilā  
+next  day  Gopāla  to his homeland  sent
 
-(100) [not yet translated]
+(100) Ashamed and afraid, the Ācārya fell silent, and the next day he sent Gopāla back to his native place.
 
 একদিন আচার্য্য প্রভুরে কৈলা নিমন্ত্রণ ৷  
 ঘরে ভাত করি’ করে বিবিধ ব্যঞ্জন ॥ ১০১ ॥
 
 ekadina ācārya prabhure kailā nimantraṇa  
-ghare bhāta kari’ kare vividha vyañjana
+one day  the Ācārya  the Lord  made  an invitation  
+ghare bhāta kari’ kare vividha vyañjana  
+at home  rice  having cooked  makes  various  vegetable dishes
 
-(101) [not yet translated]
+(101) One day the Ācārya invited the Lord. At home he cooked rice and made various vegetable dishes.
 
 ‘ছোট-হরিদাস’ নাম প্রভুর কীর্ত্তনীয়া ৷  
 তাহারে কহেন ডাকি’ আপনে আনিয়া ॥ ১০২ ॥
 
 ‘choṭa-haridāsa’ nāma prabhura kīrtanīyā  
-tāhāre kahena ḍāki’ āpane āniyā
+Choṭa Haridāsa  named  the Lord’s  singer  
+tāhāre kahena ḍāki’ āpane āniyā  
+to him  says  calling  himself  bringing (him)
 
-(102) [not yet translated]
+(102) The Lord had a singer named Choṭa Haridāsa. The Ācārya called him, brought him to himself and said,
 
 মোর নামে শিখি-মাহিতির ভগিনী-স্থানে গিয়া ৷  
 শুক্লচাউল এক-মান আনহ মাগিয়া ॥ ১০৩ ॥
 
 mora nāme śikhi-māhitira bhaginī-sthāne giyā  
-śukla-cāula eka-māna ānaha māgiyā
+in my  name  of Śikhi Māhiti  to the sister  going  
+śukla-cāula eka-māna ānaha māgiyā  
+white rice  one māna  bring  begging
 
-(103) [not yet translated]
+(103) “Go in my name to Śikhi Māhiti’s sister, ask her for one *māna* of white rice and bring it.”
 
 মাহিতির ভগিনীর নাম — মাধবী-দেবী ৷  
 বৃদ্ধা তপস্বিনী আর পরমা-বৈষ্ণবী ॥ ১০৪ ॥
 
 māhitira bhaginīra nāma — mādhavī-devī  
-vṛddhā tapasvinī āra paramā-vaiṣṇavī
+of Māhiti  of the sister  the name  —  Mādhavī-devī  
+vṛddhā tapasvinī āra paramā-vaiṣṇavī  
+elderly  austere  and  a supreme Vaiṣṇavī
 
-(104) [not yet translated]
+(104) Māhiti’s sister was named Mādhavī-devī. She was elderly, given to austerity, and a supreme Vaiṣṇavī.
 
 প্রভু লেখা করে যাঁরে রাধিকার ‘গণ’ ৷  
 জগতের মধ্যে ‘পাত্র’ — সাড়ে তিন জন ॥ ১০৫ ॥
 
 prabhu lekhā kare yāṅre rādhikāra ‘gaṇa’  
-jagatera madhye ‘pātra’ — sāḍe tina jana
+the Lord  counts  whom  of Rādhikā  among the associates  
+jagatera madhye ‘pātra’ — sāḍe tina jana  
+of the world  in the midst  worthy  —  and a half  three  persons
 
-(105) [not yet translated]
+(105) The Lord counted her among Rādhikā’s associates. In all the world there are only three and a half such worthy persons:
 
 স্বরূপ-গোসাঞি, আর রায়-রামানন্দ ৷  
 শিখি-মাহিতি — তিন, তাঁর ভগিনী — অর্দ্ধজন ॥ ১০৬ ॥
 
 svarūpa-gosāñi, āra rāya-rāmānanda  
-śikhi-māhiti — tina, tāṅra bhaginī — ardha-jana
+Svarūpa Gosāñi  and  Rāya Rāmānanda  
+śikhi-māhiti — tina, tāṅra bhaginī — ardha-jana  
+Śikhi Māhiti  —  three,  his  sister  —  half a person
 
-(106) [not yet translated]
+(106) Svarūpa Gosāñi, Rāmānanda Rāya and Śikhi Māhiti are the three, and his sister is the half.
 
 তাঁর ঠাঞি তণ্ডুল মাগি’ আনিল হরিদাস ৷  
 তণ্ডুল দেখি’ আচার্য্যের অধিক উল্লাস ॥ ১০৭ ॥
 
 tāṅra ṭhāñi taṇḍula māgi’ ānila haridāsa  
-taṇḍula dekhi’ ācāryera adhika ullāsa
+her  from  rice  begging  brought  Haridāsa  
+taṇḍula dekhi’ ācāryera adhika ullāsa  
+the rice  seeing  the Ācārya’s  great  joy
 
-(107) [not yet translated]
+(107) Haridāsa begged the rice from her and brought it, and when the Ācārya saw the rice he was overjoyed.
 
 স্নেহে রান্ধিল প্রভুর প্রিয় যে ব্যঞ্জন ৷  
 দেউল-প্রসাদ, আদা-চাকি, লেম্বু-সলবণ ॥ ১০৮ ॥
 
 snehe rāndhila prabhura priya ye vyañjana  
-deula-prasāda, ādā-cāki, lembu-salavaṇa
+with affection  cooked  to the Lord  dear  which  vegetable dishes  
+deula-prasāda, ādā-cāki, lembu-salavaṇa  
+prasāda from the temple,  slices of ginger,  lime with salt
 
-(108) [not yet translated]
+(108) With affection he cooked the dishes the Lord loved, and set out *prasāda* from the temple, slices of ginger, and lime with salt.
 
 মধ্যাহ্নে আসিয়া প্রভু ভোজনে বসিলা ৷  
 শাল্যন্ন দেখি’ প্রভু আচার্য্যে পুছিলা ॥ ১০৯ ॥
 
 madhyāhne āsiyā prabhu bhojane vasilā  
-śālyanna dekhi’ prabhu ācārye puchilā
+at midday  coming  the Lord  to eat  sat  
+śālyanna dekhi’ prabhu ācārye puchilā  
+the fine rice  seeing  the Lord  the Ācārya  asked
 
-(109) [not yet translated]
+(109) At midday the Lord came and sat down to eat. Seeing the fine rice, the Lord asked the Ācārya,
 
 উত্তম অন্ন এত তণ্ডুল কাঁহাতে পাইলা ?  
 আচার্য্য কহে, — মাধবী-পাশ মাগিয়া আনিলা ॥ ১১০ ॥
 
 uttama anna eta taṇḍula kāṅhāte pāilā?  
-ācārya kahe, — mādhavī-pāśa māgiyā ānilā
+excellent  cooked rice  such  rice  where  did you get  
+ācārya kahe, — mādhavī-pāśa māgiyā ānilā  
+the Ācārya  says  —  from Mādhavī  begging  was brought
 
-(110) [not yet translated]
+(110) “Where did you get such rice for this excellent dish?” The Ācārya said, “It was begged from Mādhavī and brought here.”
 
 প্রভু কহে, — কোন্ যাই’ মাগিয়া আনিল ?  
 ছোট-হরিদাসের নাম আচার্য্য কহিল ॥ ১১১ ॥
 
 prabhu kahe, — kon yāi’ māgiyā ānila?  
-choṭa-haridāsera nāma ācārya kahila
+the Lord  says  —  who  going  begging  brought  
+choṭa-haridāsera nāma ācārya kahila  
+of Choṭa Haridāsa  the name  the Ācārya  said
 
-(111) [not yet translated]
+(111) The Lord said, “Who went and begged it?” The Ācārya named Choṭa Haridāsa.
 
 অন্ন প্রশংসিয়া প্রভু ভোজন করিলা ৷  
 নিজগৃহে আসি’ গোবিন্দেরে আজ্ঞা দিলা ॥ ১১২ ॥
 
 anna praśaṁsiyā prabhu bhojana karilā  
-nija-gṛhe āsi’ govindere ājñā dilā
+the rice  praising  the Lord  meal  took  
+nija-gṛhe āsi’ govindere ājñā dilā  
+to His own residence  coming  to Govinda  order  gave
 
-(112) [not yet translated]
+(112) Praising the rice, the Lord took His meal. Then, returning to His residence, He gave Govinda an order:
 
 আজি হৈতে এই মোর আজ্ঞা পালিবা ৷  
 ছোট-হরিদাসে ইঁহা আসিতে না দিবা ॥ ১১৩ ॥
 
 āji haite ei mora ājñā pālibā  
-choṭa-haridāse iṅhā āsite nā dibā
+today  from  this  My  order  you will keep  
+choṭa-haridāse iṅhā āsite nā dibā  
+Choṭa Haridāsa  here  to come  not  you will let
 
-(113) [not yet translated]
+(113) “From today you must keep this order of Mine: do not let Choṭa Haridāsa come here.”
 
 দ্বার মানা, হরিদাস দুঃখী হৈল মনে ৷  
 কি লাগিয়া দ্বার মানা, কেহ নাহি জানে ॥ ১১৪ ॥
 
 dvāra mānā, haridāsa duḥkhī haila mane  
-ki lāgiyā dvāra mānā, keha nāhi jāne
+the door  barred,  Haridāsa  sorrowful  became  at heart  
+ki lāgiyā dvāra mānā, keha nāhi jāne  
+what  for  the door  barred,  anyone  not  knows
 
-(114) [not yet translated]
+(114) The door was barred to him, and Haridāsa grew sorrowful at heart. No one knew why the door was barred.
 
 তিনদিন হরিদাস করে উপবাস ৷  
 স্বরূপাদি সবে পুছিলা প্রভুর পাশ ॥ ১১৫ ॥
 
 tinadina haridāsa kare upavāsa  
-svarūpādi sabe puchilā prabhura pāśa
+three days  Haridāsa  does  fasting  
+svarūpādi sabe puchilā prabhura pāśa  
+Svarūpa and the others  all  asked  the Lord’s  at the side
 
-(115) [not yet translated]
+(115) Haridāsa fasted for three days. Then Svarūpa and all the others came to the Lord and asked,
 
 কোন্ অপরাধ, প্রভু, কৈল হরিদাস ?  
 কি লাগিয়া দ্বার-মানা, করে উপবাস ? ॥ ১১৬ ॥
 
 kon aparādha, prabhu, kaila haridāsa?  
-ki lāgiyā dvāra-mānā, kare upavāsa?
+what  offence  O Lord  has committed  Haridāsa  
+ki lāgiyā dvāra-mānā, kare upavāsa?  
+what  for  the door is barred,  he does  fasting
 
-(116) [not yet translated]
+(116) “O Lord, what offence has Haridāsa committed? Why is the door barred to him? He is fasting.”
 
 প্রভু কহে, — বৈরাগী করে প্রকৃতি সম্ভাষণ ৷  
 দেখিতে না পারো আমি তাহার বদন ॥ ১১৭ ॥
