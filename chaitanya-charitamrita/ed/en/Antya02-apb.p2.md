@@ -16,7 +16,7 @@ A Vaiṣṇava should either live as a householder with his wife and family, or 
 
 ## 118
 
-*Dāru-prakṛti hare munerapi mana* — even a woman made of wood can steal the mind of a sage. Therefore a *vairāgī* must give up all connection with women.
+***Dāru-prakṛti hare munerapi mana*** — even a woman made of wood can steal the mind of a sage. Therefore a *vairāgī* must give up all connection with women.
 
 ## 119
 

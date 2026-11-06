@@ -234,7 +234,7 @@ A *sādhaka* who desires pure service to Gaura-Kṛṣṇa should take note of t
 
 2. By imposing this punishment, the Lord taught everyone what the position of a preaching Vaiṣṇava ācārya should be, and what the position of a devotee who keeps the rules of conduct should be.
 
-3. Mahāprabhu taught the *jīva* how a devotee of Bhagavān should serve Gaura once his life has become pure, simple and sinless — through “renunciation,” that is, giving up the enjoyment of everything other than Kṛṣṇa.
+3. A devotee of Bhagavān should serve Gaura while leading a pure, simple and sinless life. It is this kind of “renunciation” — giving up the enjoyment of everything other than Kṛṣṇa — that Mahāprabhu taught the *jīva*.
 
 4. The Lord showed how lofty and attractive an ideal is the spotless character of His devotees; how He accepts (pure) true devotees as His own; and what poisonous fruit is born of even a shadow of attachment to what is not Kṛṣṇa.
 
