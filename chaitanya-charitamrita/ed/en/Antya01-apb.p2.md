@@ -106,6 +106,22 @@ The beauty of Her eyes forcibly swallows the beauty of a newly blossomed blue lo
 
 “Her cheeks, with a gentle, gentle smile, are stirred by waves of the *rasa* of joy; Her creeper-brows dance like the bow of Kāma, resembling a bee that darts about in intoxicated abandon. And the glance that flew from Her lashes has stung My heart.”
 
+## 175
+
+The *cakravāka* birds — the breasts of the wives of the enemies of the gods — and the lotuses — their faces — the moon of Mukunda's fame casts into dejection, into sorrow, while it forever delights the *cakora* birds — all His friends. May that full moon of Mukunda's fame give you happiness.
+
+## 177
+
+Rising over the earth, He pours out the nectar of the *rasa* of love for Himself; He has accepted the position of supreme king of the twice-born; He dispels the darkness; He wins the minds of the whole world. May that moon named Śacīnandana grant me auspiciousness.
+
+## 184
+
+Dancing on the stage, Kalānidhi (Kṛṣṇacandra) will destroy Kaṁsa, the king of the Kirātas, and at an auspicious time called “Pūrṇa-manoratha” is to take the hand of Tārā (Śrī Rādhā).
+
+## 186
+
+When people join words whose meaning is unclear with other words in order to grasp their meaning, this is called *udghātyaka*.
+
 ---
 
 [^140-1]: So in the edition (*prabhu*, “the Lord”); in verse 140 it is Rāmānanda Rāya who asks.

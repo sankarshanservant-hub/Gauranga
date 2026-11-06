@@ -176,6 +176,72 @@ In some manuscripts the three verses 166–168 are not given. For Śrī Rūpa wa
 
 **Vidhuḥ** (the moon) **divā** (by day), **śata-patraṁ** (the lotus) **śarvarī-mukhe** (in the evening) **bata** (alas) **virūpatāṁ** (loss of luster) **eti** (attain); **iti** (thus) **sadā** (always, day and night) **śriyā** (with beauty) **ujjvalam** (shining) **mat-priyānanam** (Śrī Rādhikā's face) **kena** (with what object of comparison) **tulanāṁ na arhati**[^170-1] (does it not bear comparison — that is, it can be compared with nothing)?
 
+## 171
+
+> Subheading: (*Vidagdha-mādhava*, Act 2, verse 5)
+
+**Pramada-rasa-taraṅga-smera-gaṇḍa-sthalāyāḥ** (of Her whose cheeks smile — touched with a gentle smile — from the waves of the *rasa* of joy, the flow of the *rasa* of bliss), **smara-dhanur-anubandhi-bhrū-latā-lāsya-bhājaḥ** (of Her whose creeper-brows, like the bow of Kāmadeva, perform a dance [*lāsya*]), **pakṣmalākṣyāḥ** (of Rādhā, whose eyes are graced with lovely lashes), **mada-kala-cala-bhṛṅgī-bhrānti-bhaṅgīṁ** (such a charm [*bhaṅgī*] that one mistakes [*bhrānti*] it for a bee darting, restless and fickle with intoxicated humming [*kala*]) **dadhānaḥ** (bearing), (Rādhā's) **kaṭākṣaḥ** (glance) **idam** (this, My) **hṛdayam** (heart) **adāṅkṣīt** (has stung).
+
+## 172
+
+> Subheading: Rāya asks Śrī Rūpa to recite the *nāndī* of the *Lalita-mādhava* —
+
+Of the second drama: that is, of the drama *Lalita-mādhava*. From here on Śrī Rāmānanda asks about the *Śrī Lalita-mādhava* composed by Śrī Rūpa.
+
+## 173
+
+> Subheading: Comparing himself with Rāya's greatness, Śrī Rūpa expresses his humility —
+
+## 175
+
+> Subheading: In the opening verse (*maṅgalācaraṇa*), praise of the fame of Mukunda, who crushes the asuras and gladdens the gods —
+
+> Subheading: (*Lalita-mādhava*, Act 1, verse 1)
+
+**Sura-ripu-sudṛśām** (of the wives of Naraka and the other asuras) **uroja-kokān** (the *kokas*, *cakravākas*, that are their breasts) **mukha-kamalāni ca** (and the lotuses that are their faces) **khedayan** (casting into dejection), **akhila-suhṛc-cakora-nandī** (He who is wont to delight the *cakoras* — all His friends), **akhaṇḍaḥ** (full) **mukunda-yaśaḥ-śaśī** (the moon that is Mukunda's fame) **vaḥ** (you) **mudaṁ** (happiness) **ciram** (for long) **diśatu** (may it give).
+
+## 176
+
+> Subheading: Rāya asks Śrī Rūpa to describe his own worshipful Lord; Śrī Rūpa's embarrassment —
+
+## 177
+
+> Subheading: A prayer for blessings to his worshipful Lord, Śrī Kṛṣṇa Caitanya —
+
+> Subheading: (*Lalita-mādhava*, Act 1, verse 3)
+
+**Yaḥ** (He who), **kṣitau** (on the earth) **udayam** (appearance) **āpnuvan** (having attained), **nija-praṇayitāṁ sudhām** (the nectar of love for Himself) **alam** (abundantly) **kirati** (pours out), **urī-kṛta-dvija-kulādhirāja-sthitiḥ** (He by whom the position — the dignity of sovereignty — of supreme king of the twice-born has been accepted), **luñcita-tamas-tatiḥ** (He by whom the mass of darkness — the heap of the deceit of ignorance — has been plundered and driven away), **vaśī-kṛta-jagan-manāḥ** (He by whom the minds of the worlds have been won), **śacī-sutākhyaḥ** (named Śacīnandana) **saḥ śaśī** (that moon) **mama** (to me) **kim api śarma** (some auspiciousness) **vinyasyatu** (may He grant).
+
+## 178
+
+> Subheading: In His heart the Lord is pleased, but outwardly He makes a show of anger —
+
+## 180
+
+> Subheading: Rāya praises the verse —
+
+## 183
+
+> Subheading: Rāya asks about the parts of the *Lalita-mādhava* and how its characters are introduced; Śrī Rūpa answers by quoting verses from his drama —
+
+See above (Antya, Chapter 1) verse 134 and its *Anubhāṣya*. By which part of the drama [*aṅga*] is a character introduced? There are five kinds of *prastāvanā* — *udghātyaka*, *kathodghāta*, *prayogātiśaya*, *pravartaka*, and *avalagita* — and three parts of the *bhāratī-vṛtti* — *prarocanā*, *vīthī*, and *prahasana*. Śrī Rāmānanda asks Śrī Rūpa: “In which of these five kinds of *prastāvanā*, and adopting which part of the *bhāratī-vṛtti*, do you bring a character onto the stage in the guise of an actor in your drama?”
+
+## 184
+
+> Subheading: (*Lalita-mādhava*, Act 1, verse 11)
+
+**Naṭatā** (playing a role) **tena kalā-nidhinā** (by the actor named Kalānidhi) **raṅga-sthale** (on the stage) **kirāta-rājaṁ** (the ruler of the land of the Kirātas) **nihatya** (having slain), **guṇavati** (presided over by a favorable constellation) **samaye** (at the time) **tārā-kara-grahaṇam** (marriage to the girl named Tārā) **vidheyam** (is to be performed). In the other sense: **raṅga-sthale** (in the arena) **tena** **kalā-nidhinā** (by Śrī Kṛṣṇa, the treasury of the sixty-four arts) **kirāta-rājaṁ** (Kaṁsa) **nihatya** (having slain), **guṇavati samaye** (at the time called “Pūrṇa-manoratha,” in the tenth act) **tārā-kara-grahaṇam** (marriage to Śrī Rādhikā) **vidheyam** (is to be performed).
+
+In this verse the *āmukha*, that is, the *prastāvanā*, is named — *udghātyaka* — and the part of the *bhāratī-vṛtti* — *vīthī*. The *Sāhitya-darpaṇa* (Chapter 6, no. 520) says: “In a *vīthī* there is one act, and in it some single [hero] is presented. Addressing imagined voices from the sky, he carries on varied speeches and replies, abundantly suggests *śṛṅgāra* and to some extent other *rasas* as well; it has the opening and closing junctures (*mukha* and *nirvahaṇa*) and all the *artha-prakṛtis*.” That is, in a *vīthī* there is only one act. In this act some single hero is presented; through voices from the sky he resorts to varied speeches and replies, abundantly suggests *śṛṅgāra-rasa* and to some extent other *rasas* as well; and in its opening (*mukha*) and junctures (*sandhis*) all the *artha-prakṛtis*, that is, the *bīja*, should be employed. Here, if the word *naṭatā* (playing a role) is applied to the moon, the meaning is unclear; therefore it is applied to Kṛṣṇa, and since the meaning thus becomes clear, the *prastāvanā* called *udghātyaka* has been formed. Taking the meaning that relates to Kṛṣṇa, Paurṇamāsī, too, entered the stage.
+
+
+## 185
+
+Śrī Rūpa says to Śrī Rāmānanda Rāya: “Before a learned master of the *rasa-śāstra* such as you, every word of mine is like a wave in an ocean of impudence, that is, in a sea of presumption.”
+## 186
+
+> Subheading: (*Sāhitya-darpaṇa*, the section on visual poetry [*dṛśya-śravya-nirūpaṇa*], Chapter 6, verse 289)
+
 ---
 
 [^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
