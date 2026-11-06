@@ -30,8 +30,32 @@ A “*rājasic*” invitation. Invitations are of three kinds: *sāttvic*, *rāj
 
 *Vitasti* (a span): a measure of half a cubit.
 
+## 309
+
+“Raghunātha's rules were like a line on stone”: Śrīla Raghunātha's rules of renunciation were as firm as a line carved in stone.
+
+## 314
+
+A person whose heart has been washed clean by knowledge attains everything once he comes to know the truth of the self. Why then — with what intention, for what reason — do the dissolute, instead of doing so, take pains only to nourish the body?
+
+## 315
+
+*Saḍi*: having rotted.
+
+## 316
+
+*Tailaṅgī gāi*: cows from the land of Tailaṅga.
+
+## 327
+
+I am the greatest of scoundrels, yet He, in His mercy, saw me fallen, rescued me from wealth and wife (by another reading, from the forest fire of *viṣaya*), gave me over to Śrī Svarūpa and was pleased.[^327-1] He gave me the *guñjā* garland from His own chest and the Govardhana-śilā. And that Gaurāṅga, rising in my heart, is maddening me.
+
+*Thus ends the sixth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^225-1]: In the verse translation, otherwise: “becoming a slave of his worldly attachments.”
 
 [^263-1]: In the verse translation, otherwise: “very dear to his guru Yadunandana Ācārya, a disciple of Vāsudeva Datta.”
+
+[^327-1]: Here the commentator takes *mahā-sampad-dārāt* (“from great wealth and wife”) as the main reading and *-dāvāt* (“from the fire”), printed in the verse, as a variant (so also in the *Anubhāṣya*). In the verse translation, otherwise: “from the great fire of luxurious worldly life.”
