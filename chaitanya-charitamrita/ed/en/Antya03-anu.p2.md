@@ -103,3 +103,65 @@ Rāvaṇa, the son of Viśravā, was born in a *brāhmaṇa* family, yet because
 ## 170
 
 > Subheading: The account of Haridāsa in the assembly of Hiraṇya and Govardhana at Cā̃dapura —
+
+## 171
+
+> Subheading: At Balarāma's request the Ṭhākura one day goes to the assembly of Hiraṇya and Govardhana —
+
+## 172
+
+> Subheading: Hiraṇya and Govardhana receive the Ṭhākura fittingly —
+
+## 174
+
+> Subheading: The two brothers rejoice to hear Haridāsa praised —
+
+## 175
+
+> Subheading: Seeing the Ṭhākura, the scholars discuss the truth of the Name —
+
+## 176
+
+> Subheading: All take the semblance of the Name (*nāmābhāsa*) for the pure Name —
+
+## 177
+
+> Subheading: The Ṭhākura proclaims the fruit of the pure Name —
+
+## 178
+
+> Subheading: The evidence of scripture —
+
+See Ādi 7.94.
+
+## 179
+
+> Subheading: *Nāmābhāsa* and its fruit, the removal of *anarthas*, are already contained within the pure Name and its fruit, the dawning of *prema* —
+
+As a secondary fruit, the Name frees one from the bondage of *saṁsāra* and destroys sin, which is attachment to *saṁsāra*. The definition of initiation into a *mantra* containing the Name is recorded thus: “Because it gives divine knowledge and destroys sin, the teachers who know the truth call it *dīkṣā*.”[^179-1] As an example, one can say this: the chief fruit of sunrise is that the sun shines by itself, illuminates other things, gives joy, and so on; besides these, as a by-product, the absence of darkness is also seen.
+
+## 180
+
+> Subheading: When the sun of the Name rises, the darkness of ignorance perishes —
+
+**jagan-maṅgalam** (the good of the world, bestowing every good up to *prema*) **hareḥ nāma** (the Lord who is Hari's holy Name) **sakṛt** (once) **udayāt** (by rising, that is, by appearing in senses and the rest that are turned toward service, as one performs *kīrtana*, hearing and so on) **eva** **taraṇiḥ** (the sun) **timira-jaladhim** (an ocean of dense darkness) **iva** (just as it destroys, so) **sakala-lokasya** (of the whole world) **akhilam aṁhaḥ** (sin, the cause of *saṁsāra*) **saṁharat** (removing) **jayati** (prevails above all).
+
+## 181
+
+> Subheading: At the scholars' request the Ṭhākura explains the verse —
+
+## 182
+
+> Subheading: The Ṭhākura explains the truth of the pure Name and of *nāmābhāsa* —
+
+## 184
+
+> Subheading: The fruit of the Name: the dawning of love for Kṛṣṇa —
+
+## 185
+
+> Subheading: Liberation comes already from *nāmābhāsa* —
+
+---
+
+[^179-1]: *Hari-bhakti-vilāsa* 2.9; also quoted in *Bhakti-sandarbha* 283.
