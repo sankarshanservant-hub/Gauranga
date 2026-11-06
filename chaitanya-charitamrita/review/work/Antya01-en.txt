@@ -600,7 +600,7 @@ fn: *Piṇḍā* — a raised platform or veranda; in 111 Rūpa and Haridāsa si
 ## 111
 w: Rūpa  Haridāsa  both  sat  of the platform  at the foot
 w: of all  in front  not  climbed  the seats  onto
-tr: Rūpa and Haridāsa both sat at the foot of the platform; in front of everyone they would not climb up onto the seats.
+tr: Rūpa and Haridāsa sat below, at the foot of the platform; in front of everyone they would not climb up onto it.
 
 ## 112
 w: the earlier  verse  recite  Rūpa  the Lord  order  gave
@@ -617,7 +617,8 @@ w: beloved  that  very  Kṛṣṇa  O companion  at Kurukṣetra  met
 w: likewise  I  that  Rādhā  that  this  of both  of union  the joy
 w: yet  within  playing  sweet  of the flute  the fifth note  delighting in
 w: mind  My  of the Kālindī  bank  for the forest  longs
-tr: “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 387)
+tr: “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 383)
+fn: The same verse as 79 of this chapter (= Madhya 1.76); translation as there. Reference as in the edition heading (p. 856): *Padyāvalī* 383, a verse composed by Śrī Rūpa Gosvāmī; elsewhere numbered 387.
 
 ## 115
 w: Rāya  Bhaṭṭācārya  say  Your  grace  without
@@ -645,11 +646,12 @@ w: then  that  verse  Rūpa  to recite  began
 tr: When the Lord had ordered him again and again, Rūpa began to recite that verse:
 
 ## 120
-w: in the mouth  dancing  a longing  creates  rows of mouths  to obtain
-w: of the ears  into the hollows  crowding in  awakens  for millions of ears  desire
-w: of the heart  in the courtyard  appearing  conquers  of all the senses  the activity
-w: not  I know  made  of how many  nectars  “Kṛṣṇa”  syllables  the pair
-tr: “When it dances in the mouth, it makes one long for many mouths; when it crowds into the hollows of the ears, it awakens a desire for millions of ears; when it appears in the courtyard of the heart, it overpowers the activity of all the senses. I do not know of how many nectars the two syllables ‘Kṛṣ-ṇa’ have been made.” (Vidagdha-mādhava, 1.15)
+w: on the lips  dancing  attraction  it generates  many mouths  to gain
+w: of the ears  in the hollow  sprouting  it arouses  for millions of ears  longing
+w: of the mind  in the courtyard  as a companion  it conquers  of all the senses  the activity
+w: not  I know  born  with how many  nectars  “Kṛṣṇa”  of syllables the pair
+tr: “I do not know with how many nectars the two syllables ‘Kṛṣ-ṇa’ were born. When they dance on the lips, they make one long for many mouths; when they sprout in the hollows of the ears, they make one yearn for millions of ears; and when they come as a companion into the courtyard of the mind, they conquer the workings of all the senses.” (Vidagdha-mādhava, 1.15)
+fn: The same verse as 99 of this chapter; translation as there. The edition heading here gives only the reference (*Vidagdha-mādhava*, act 1, verse 15); the speakers are named in the heading to 99.
 
 ## 121
 w: all  of the devotees  the assembly  and  Rāmānanda Rāya
@@ -691,7 +693,8 @@ w: of nectars  lunar  even  of sweetness  the intoxication  subduing
 w: bearing  of Rādhā and others  of love  with the camphor  fragrance
 w: on all sides  sufferings  producing  uneven  of worldly existence  by the road
 w: produced  your  thirst  may it take away  of Hari’s pastimes  the śikhariṇī
-tr: “May the *śikhariṇī* of Hari’s pastimes take away your thirst, born on the rough road of worldly existence that breeds suffering on every side. It humbles the pride of sweetness even of the moon’s nectar, and it is perfumed with the camphor of the love of Rādhā and Her companions.” (Vidagdha-mādhava, 1.1)
+tr: “May Hari’s pastimes, a sweet *śikhariṇī* drink, wholly take away your thirst, born on the rough road of worldly life that breeds suffering on every side. Their sweetness humbles the pride even of the moon’s nectar, and the camphor of the love of Rādhā and Her companions lends them their fragrance.” (Vidagdha-mādhava, 1.1)
+fn: *Śikhariṇī* (*rasālā*) is a sweet drink of curd with sugar, spices, and camphor. *Anubhāṣya*: it subdues the pride of the moon’s nectar, which thinks, “I alone am full of sweetness.” Edition heading: “The pastimes of Kṛṣṇa, which bring good to the world” (*Vidagdha-mādhava*, invocation, act 1, verse 1).
 
 ## 129
 w: Rāya  says  tell  of your worshipful Deity  the description
@@ -706,7 +709,8 @@ tr: The Lord said, “Why don’t you recite it? Why this hesitation and shyness
 ## 131
 w: then  Rūpa Gosāñi  when  the verse  recited
 w: hearing  the Lord  says  this  excessive  praise  has become
-tr: When Rūpa Gosāñi then recited the verse, the Lord, on hearing it, said, “This is excessive praise.”
+tr: Then Rūpa Gosāñi recited the verse, and on hearing it the Lord said, “This is too much praise.”
+fn: Edition heading: on hearing the verse, the Lord outwardly shows a feigned displeasure.
 
 ## 132
 w: not given before  for a long time  out of mercy  descended  in Kali
@@ -714,6 +718,7 @@ w: to bestow  of the most exalted radiant rasa  devotion to Himself  the treasur
 w: Hari  golden  beautiful  lustre  with a mass  illumined
 w: always  in the cave of the heart  may He shine  your  Śacī’s  son
 tr: “May the Lord Hari, the son of Śacī, illumined by a mass of lustre more beautiful than gold, ever shine in the inmost cave of your hearts. Out of His mercy He has descended in the age of Kali to bestow what had not been given for a very long time — the treasure of devotion to Himself, rich in the most exalted, radiant *ujjvala-rasa*.” (Vidagdha-mādhava, 1.2)
+fn: The same verse as Ādi 1.4 (= Ādi 3.4); translation as there. *Anubhāṣya* (on Ādi 3.4): *unnatojjvala-rasa* is “the exalted *ujjvala-rasa*, that is, *śṛṅgāra-rasa*” — the amorous love of Vraja, which in the gopīs is *parakīyā*; hence not “conjugal”.
 
 ## 133
 w: all  the devotees  say  the verse  hearing
@@ -724,6 +729,7 @@ tr: On hearing the verse, all the devotees said, “By letting us hear this vers
 w: Rāya  says  in which  prologue  the characters’  entrance
 w: Rūpa  says  at the fitting time  ‘pravartaka’  named
 tr: Rāya asked, “In which prologue (*āmukha*) do the characters enter?” Rūpa said, “In the one called *pravartaka*: they enter when the fitting time has come.”
+fn: *Anubhāṣya*: the prologue (*āmukha* or *prastāvanā*) is of five kinds — *udghātyaka*, *kathodghāta*, *prayogātiśaya*, *pravartaka*, and *avalagita*. In the *pravartaka* the stage-manager describes the season that has come, and a character enters in connection with it.
 
 ## 135
 w: brought on  by the fitting  of time
@@ -735,7 +741,7 @@ w: that  this  of spring  the season  has come  in which
 w: complete  that  Lord  who has gained  fresh  love
 w: with hidden intent  lovely  together with  Rādhā  she
 w: for the play  will unite  at night  Paurṇamāsī
-tr: “The spring season has come, in which Paurṇamāsī, with a hidden purpose, will unite at night that complete Lord, filled with fresh love, with lovely Rādhā for Their play.” (Vidagdha-mādhava, 1.10)
+tr: “This is that springtime in which Paurṇamāsī, cherishing a hidden purpose, will bring together at night the complete Lord, filled with fresh love, and lovely Rādhā, for the joy of Their play.” (Vidagdha-mādhava, 1.10)
 fn: The verse has a second sense: on the full-moon night (*paurṇamāsī*) the night unites the moon, its lord, with the star Rādhā (Viśākhā). The principal sense refers to Bhagavatī Paurṇamāsī, who unites Śrī Kṛṣṇa with Rādhikā (*Anubhāṣya*, *Amṛta-pravāha-bhāṣya*). Before the verse the edition prints, in verse type, *tasyodāharaṇaṁ yathā* (“Its example:”) — a linking phrase that is not part of the verse.
 
 ## 137
@@ -748,19 +754,22 @@ w: of devotees  has arisen  of unobstructed intelligence  an assembly  naturally
 w: with fine qualities  blossomed  that  of the cowherd women’s  Friend  composition  also  this
 w: has gained  the state of an arena  and  for the dance  of the Vṛndāvana forest  the inner ground
 w: I think  of people like me  of merits  of the mass  the ripening  this  is unfolding
-tr: “An assembly of devotees whose intelligence knows no obstruction, radiant by nature, has gathered; this composition about the Friend of the cowherd women has blossomed with fine qualities; and the ground in the heart of the Vṛndāvana forest has become the arena for the dance. I think the mass of merit of people like me has now ripened and is unfolding.” (Vidagdha-mādhava, 1.8)
+tr: “Here an assembly of devotees has gathered, radiant by nature, whose intelligence knows no bounds; this composition about the Friend of the cowherd maidens has blossomed with lifelike portrayals; and the sacred ground in the heart of the Vṛndāvana forest has become the arena for the dance. I think the merit of people like me has now ripened in full and is unfolding.” (Vidagdha-mādhava, 1.8)
+fn: *Anubhāṣya*: *śīlaiḥ pallavitaḥ* — the work has blossomed with *svabhāvokti*, vivid portrayals of the true nature of things. The verse praises the assembly, the subject, and the place: this is the *prarocanā* (137).
 
 ## 139
 w: brought forth  by me  by nature  insignificant  though  O wise ones
 w: will make  fulfilled in their aims  full of Hari’s qualities  you  composition  this
 w: by a Pulinda  even  fire  how then  firewood  by churning  produced
 w: of gold  of bars  remove  not  inner  impurity
-tr: “O wise ones, though this composition has been brought forth by me, insignificant by nature, it is full of Hari’s qualities and will fulfil your aims. Does not fire, kindled by rubbing wood even by a Pulinda, remove the inner impurity of bars of gold?” (Vidagdha-mādhava, 1.6)
+tr: “O wise ones, this work has come forth from me, a lowly soul by nature, yet it is full of Hari’s qualities and will fulfil your heart’s desires. When even a Pulinda kindles fire by rubbing wood, does that fire not purge the hidden dross from bars of gold?” (Vidagdha-mādhava, 1.6)
+fn: *Anubhāṣya*: a Pulinda is a man of the lowest birth; so too this work will surely take away the boundless pain of your separation. In a second sense Sarasvatī, unable to bear the author’s self-abasement, praises him: *prakṛti-laghu-rūpāt* — “from one who swiftly brings forth an excellent work”.
 
 ## 140
 w: Rāya  says  tell  let us see  of love’s  arising  the causes
 w: first attraction  transformation  actions  love letter
 tr: Rāya said, “Tell us now the causes from which love arises: the first attraction (*pūrvānurāga*), its transformations (*vikāra*), its actions (*ceṣṭā*), and the love letter (*kāma-likhana*).”
+fn: *Amṛta-pravāha-bhāṣya*: *pūrvānurāga* is the first attraction, before meeting; *vikāra*, the transformation of love — the malady born of divine madness; *ceṣṭā*, bodily actions born of prema; *kāma-likhana*, a gopī’s letter revealing her love. Examples follow in 142–146.
 
 ## 141
 w: in order  Śrī  Rūpa Gosāñi  everything  told
@@ -772,29 +781,33 @@ w: of one  heard  merely  steal away  the mind  “Kṛṣṇa”  of the name  
 w: of dense  madness  a stream  brings  of another  of the flute  the sound
 w: this one  with the soft lustre of a rain cloud  in mind  My  is fixed  in a picture  from seeing
 w: alas  shame  for three men  attraction  has arisen  I think  death  is better
-tr: “Merely hearing the syllables of one man’s name, ‘Kṛṣṇa’, I lost My senses; the sound of another’s flute brings on a stream of deep madness; and this one, with the soft lustre of a rain cloud, has been fixed in My mind ever since I saw Him in a picture. Alas, shame on Me! I have come to love three men. I think it is better for Me to die.” (Vidagdha-mādhava, 2.9)
+tr: “Merely hearing the syllables of one man’s name, ‘Kṛṣṇa’, I lost My senses; the sound of another’s flute brings on a stream of deep madness; and this one, with the soft lustre of a rain cloud, has been fixed in My mind ever since I saw Him in a picture. Alas, shame on Me! My heart is drawn to three men. I think it is better for Me to die.” (Vidagdha-mādhava, 2.9)
+fn: *Anubhāṣya*: all three are Kṛṣṇa Himself — Rādhā, in the first attraction (*pūrva-rāga*), takes His name, His flute, and His painted form for three different men. Before the verse the edition prints the linking phrase *tatra raty-utpatti-hetur yathā* (“An example of the cause from which *rati* arises:”), which is not part of the verse.
 
 ## 143
 w: this  O friend  very hard to cure
 w: Rādhā’s  heart’s  pain
 w: undertaken  in which  treatment  even
 w: in disgrace  ends
-tr: “Friend, this pain in Rādhā’s heart is very hard to cure: even the treatment one undertakes for it ends only in disgrace.” (Vidagdha-mādhava, 2.8)
+tr: (Śrī Rādhā said to Lalitā and Viśākhā:) “Friend, this pain in Rādhā’s heart is very hard to cure: even the treatment one undertakes for it ends only in disgrace.” (Vidagdha-mādhava, 2.8)
+fn: The speaker as in the edition heading (p. 860): *Vidagdha-mādhava*, act 2, verse 8, the words of Śrī Rādhā to Lalitā and Viśākhā. *Anubhāṣya*: if the pain does not abate, the physician himself will be blamed; and since She longs for all three at once, even bringing one of them would not cure it.
 
 ## 144
 w: taking  of a painted picture  the form  O beautiful one
 w: in My  house  You  dwell
 w: there  there  You block (My way)  by force
 w: wherever  wherever  frightened  I flee
-tr: “O beautiful one, taking the form of a painted picture, You dwell in My house; and wherever I flee in fright, there You forcibly block My way.” (Vidagdha-mādhava, 2.33)
+tr: (Śrī Rādhikā wrote to Kṛṣṇa:) “O beautiful one, taking the form of a painted picture, You dwell in My house; and wherever I flee in fright, there You forcibly block My way.” (Vidagdha-mādhava, 2.33)
 fn: The verse is in Prakrit (in Sanskrit, *dhṛtvā praticchanda-guṇaṁ sundara mama mandire tvaṁ vasasi…*). *Mandira* here means “house”: in this love letter Rādhā says that Kṛṣṇa, in the form of a painted picture, lives in Her house (*Anubhāṣya*, *Amṛta-pravāha-bhāṣya*).
+fn: Edition heading (p. 860): an example of a love letter in Prakrit; in *Vidagdha-mādhava*, act 2, verse 33, Madhumaṅgala reads before Kṛṣṇa the letter written by Śrī Rādhikā and brought by Lalitā.
 
 ## 145
 w: before her  seeing  of a peacock feather  a piece  at once  trembling  she takes on
 w: of guñjā berries  and  at the sight  again and again  she  with tears  cries aloud
 w: not  I know  producing  unprecedented  of dancing  play  the wonder
 w: of the girl  surely  of the heart  the field  has entered  what  this  new  graha
-tr: “On seeing a bit of peacock feather before Her, She at once begins to tremble; at the sight of *guñjā* berries She cries aloud again and again, in tears. I do not know what new *graha*, a possessing power, has entered the field of this girl’s heart, producing the wonder of an unprecedented play of dancing.” (Vidagdha-mādhava, 2.15)
+tr: “On seeing a bit of peacock feather before Her, She at once begins to tremble; at the sight of *guñjā* berries She cries aloud again and again, in tears. I do not know what new *graha*, what possessing power, has entered the field of this girl’s heart, so that She becomes a marvel of dancing never seen before.” (Vidagdha-mādhava, 2.15)
+fn: *Anubhāṣya*: the words are addressed to Paurṇamāsī. *Graha* — a power that seizes the heart (*Amṛta-pravāha-bhāṣya*).
 
 ## 146
 w: merciless  Kṛṣṇa  if  to Me  your fault  how  this
@@ -814,6 +827,7 @@ w: by the outpouring  of joys  of nectar  sweetness’s  conceit  humbling
 w: love  O beautiful one  for Nanda’s son  directed  awakens  in whose  heart
 w: are known  clearly  its  crooked and sweet  by him  alone  powers
 tr: “O beautiful one, when love for Nanda’s son awakens in someone’s heart, its pains drive out the pride that fresh *kālakūṭa* poison takes in its sting, and its outpouring of joys humbles the boast of nectar in its sweetness. Its crooked and sweet powers are clearly known to that person alone.” (Vidagdha-mādhava, 2.18)
+fn: The same verse as Madhya 2.52; translation as there. *Anubhāṣya* (on Madhya 2.52): these are the words of Paurṇamāsī to Nāndīmukhī.
 
 ## 149
 w: Rāya  says  tell  of natural  love  the signs
@@ -825,14 +839,16 @@ w: praise  in which  indifference  displaying  to the heart  gives  pain
 w: blame  even  delight  gives  of a jest  the charm  bearing
 w: by a fault  decrease  by a virtue  increase  by anything  not showing
 w: of love  natural  of a certain  this  plays  the working
-tr: “In this love, praise makes one show indifference yet pains the heart; even blame, bearing the charm of a jest, gives delight; it neither wanes because of any fault nor grows because of any virtue. So plays the working of a certain natural love.” (Vidagdha-mādhava, 5.4)
+tr: “In this love, praise makes one show indifference yet pains the heart; even blame, bearing the charm of a jest, gives delight; it neither wanes because of any fault nor grows because of any virtue. Such is the play of a certain natural love.” (Vidagdha-mādhava, 5.4)
+fn: *Anubhāṣya*: this prema is free from any outer cause (*upādhi*): it neither weakens when faults are seen nor grows stronger when virtues are seen.
 
 ## 151
 w: hearing  of the cruelty  My  the moon-faced one  the sprout of love  breaking
 w: in Her heart  steadiness  establishing  afflicted  probably  will turn away
 w: or  of wicked  Kāma  of the bow  terrified  will give up  Her life
 w: alas  through folly  about to bear fruit  of desire  the creeper  tender  by Me  uprooted
-tr: “Hearing of My cruelty, moon-faced Rādhā will break the sprout of Her love, make Her afflicted heart steady, and probably turn away from Me; or else, terrified of the bow of wicked Kāma, She will give up Her life. Alas, in My folly I have uprooted the tender creeper of desire that was about to bear fruit!” (Vidagdha-mādhava, 2.40)
+tr: (Śrī Kṛṣṇa lamented:) “Hearing of My cruelty, moon-faced Rādhā will break the sprout of Her love, make Her afflicted heart steady, and probably turn away from Me; or else, terrified of the bow of merciless Kāma, She will give up Her life. Alas, in My folly I have uprooted the tender creeper of desire that was about to bear fruit!” (Vidagdha-mādhava, 2.40)
+fn: The speaker as in the edition heading (p. 862): “An example of Śrī Kṛṣṇa’s remorse after He had tested Her love (*rāga*).”
 
 ## 152
 w: whose  embrace  by the hope of happiness  cast off  great  before the elders  shyness
@@ -853,7 +869,7 @@ w: inner  by suffering  stained  surely  we  go  today  of Yama  to the city
 w: not  He  of deceits  heaps  fond of  laughter  still  gives up
 w: for this  filled  with deep  guile  of the cowherd  village  rake
 w: ah  wise  Rādhikā  Your  how  love  so great  arose
-tr: “Stained by inner suffering, we are surely going today to the city of Yama, and still He does not give up His laughter so fond of heaps of deceit. Ah, wise Rādhikā, how could such great love arise in You for this rake of the cowherd village, so full of deep guile?” (Vidagdha-mādhava, 2.37)
+tr: “Stained by inner suffering, we are surely going today to the city of Yama, and still He will not stop laughing, His laughter full of deceit. Ah, wise Rādhikā, how could such great love arise in You for this rake of the cowherd village, so full of deep guile?” (Vidagdha-mādhava, 2.37)
 
 ## 155
 w: leaving  far  on the way  of the husband-tree  the nearness  of the bridge of dharma
@@ -885,6 +901,7 @@ w: the creepers  and  with flowers  sparkling  tips  bearing
 w: the flowers  and  with intoxicated  bees (filled)
 w: the bees  and  the ear  captivating  songs (having)
 tr: “Vṛndāvana is surrounded by divine creepers; the creepers bear tips sparkling with flowers; the flowers are filled with intoxicated bees; and the bees sing songs that captivate the ear.” (Vidagdha-mādhava, 1.24)
+fn: Neither the verse nor the edition heading names the speaker; the *Anubhāṣya* names the one addressed, Śrīdāmā. The edition heading gives 158–159 as *Vidagdha-mādhava*, act 1, verses 23–24.
 
 ## 160
 w: somewhere  of bees  the song  somewhere  of the breeze  by the softness  coolness
@@ -898,7 +915,7 @@ w: covered  three thumb-breadths  with dark gems  at both ends
 w: bearing  inlaid  with gems  red  the adjoining parts
 w: of them  in the middle  with diamonds  shining  of pure  gold  made
 w: in the hand  auspicious  this  sports  of Hari  for play  the flute
-tr: “Inlaid at both ends with dark gems for the breadth of three thumbs, its adjoining parts set with red gems, and in the middle made of pure gold shining with diamonds — this auspicious flute of Hari’s play sports in His hand.” (Vidagdha-mādhava, 3.1)
+tr: “At both ends, for the breadth of three thumbs, it is inlaid with sapphires; the parts beside them are set with rubies; and between them it is made of pure gold, shining with diamonds. This auspicious flute of Hari’s play sports in His hand.” (Vidagdha-mādhava, 3.1)
 
 ## 162
 w: from a good bamboo (family)  your  birth  of Puruṣottama
@@ -932,8 +949,9 @@ tr: “Here is Hari, shining: the beauty of His eyes has humbled the lustre of t
 w: of the shin  at the lower part  resting  right  foot  slightly  bent  waist
 w: sideways  held still  neck  O friend  sidelong  moving  eyes’ corners
 w: the flute  on budlike  holding  on the lips  by restless  fingers  touched
-w: moving  brow-bees  O beautiful one  supreme bliss  before you  accept
-tr: “Friend, O beautiful one, accept this supreme bliss who stands before you: His right foot rests against His lower shin, His waist is slightly bent, His neck is turned to the side and held still, the corners of His eyes glance sidelong; on His budlike lips He holds the flute, touched by His restless fingers, and His brows move like bees.” (Lalita-mādhava, 4.27)
+w: bearing  brow-bees  O beautiful one  supreme bliss  before you  accept
+tr: “Friend, O beautiful one, accept this supreme bliss who stands before you: His right foot rests against His lower shin, His waist is slightly bent, His neck is turned to the side and held still, the corners of His eyes glance sidelong; on His budlike lips He holds the flute, touched by His restless fingers, and His brows are like bees.” (Lalita-mādhava, 4.27)
+fn: In line 4 the edition (p. 866) reads *vibhrad-bhrū-bhramaram*, “bearing bee-like brows” (so also the *Anubhāṣya*); other editions have *riṅgad-bhrū-bhramaram*, “with brows moving like bees”. *Anubhāṣya*: some manuscripts omit verses 166–168, from the *Lalita-mādhava*, since Śrī Rūpa was then describing the *Vidagdha-mādhava*, and Rāmānanda asks about the *Lalita-mādhava* only in 172.
 
 ## 167
 w: of noble  women  of dharma  stones  heaps  splitting
@@ -941,6 +959,7 @@ w: O fair-faced one  sharp  of long sidelong glances  of the chisel  with flashe
 w: at the same time  this  unprecedented  what  before us  Viśvakarmā
 w: of emerald  gems  with hundreds of thousands  in the cowherd village chambers  builds
 tr: “O fair-faced one, what unprecedented Viśvakarmā is this before us? With flashes of the sharp chisel of His long sidelong glances He splits the heaps of stones of noble women’s dharma, and at the same time, with countless emeralds, builds chambers in the cowherd village.” (Lalita-mādhava, 1.52)
+fn: *Anubhāṣya*: Viśvakarmā is the architect of the gods; the emeralds are His forms full of dark beauty; Rādhā marvels at Kṛṣṇa’s skill and beauty.
 
 ## 168
 w: of great sapphires  of clusters  the pride  mocking  of body  the lustre
@@ -1036,7 +1055,8 @@ tr: Rāya asked, “In which part do the characters enter?” Then Rūpa Gosāñ
 ## 184
 w: dancing  of the Kirātas  the king  having slain  on the stage  by Kalānidhi
 w: in due time  by him  is to be done  virtuous  of Tārā  of the hand  the taking
-tr: “Kalānidhi (Kṛṣṇa, the moon), dancing on the stage, will slay the king of the Kirātas (Kaṁsa) and in due time take the hand of virtuous Tārā (Rādhā).” (Lalita-mādhava, 1.11)
+tr: “Kalānidhi (Kṛṣṇa, the moon), dancing on the stage, will slay the king of the Kirātas (Kaṁsa) and at an auspicious time take the hand of Tārā (Rādhā).” (Lalita-mādhava, 1.11)
+fn: *Anubhāṣya*: the verse has two senses — an actor named Kalānidhi (“the moon”) will slay the king of the Kirātas and wed a girl named Tārā (“star”); and Kṛṣṇa, the treasury of the sixty-four arts, having slain Kaṁsa, will unite with Śrī Rādhikā. The word “dancing” is unclear in the first sense and becomes clear in the second: this is the *udghātyaka* (185–186).
 
 ## 185
 w: udghātyaka  by name  this  prologue  of the vīthī  a part
@@ -1061,6 +1081,7 @@ w: ahead  unites  Him  darkness
 w: of Vraja  of the fair-eyed  not  the path
 w: manifest  all-seeing  to the Śruti  even
 tr: “The mass of dust points to Hari; the darkness ahead unites Him (with the gopīs). The path of the fair-eyed girls of Vraja is not revealed even to the all-seeing Śruti.” (Lalita-mādhava, 1.23)
+fn: *Anubhāṣya*: in a second sense, the Veda, whose subject is the three modes, does not point to Kṛṣṇa, who is beyond them; but in Vṛndāvana the dust (*rajas*) announces His coming to the eternally liberated gopīs, and the darkness (*tamas*) lets them meet Him.
 
 ## 189
 w: shyness  overcoming  from the house  draws  Rādhā  to the forest  who  skilful
@@ -1072,7 +1093,8 @@ w: O friend  fearless  who  this  youth  with the lustre of a cloud
 w: to the land of Vraja  from where  has come  of an intoxicated  elephant  with the sporting grace
 w: ah  restless  stealing forth  by the glance-thieves
 w: My  of composure  the wealth  from the treasury of the heart  plunders  here  who
-tr: “Friend, who is this fearless youth, with the lustre of a rain cloud and the sporting grace of an intoxicated elephant? From where has He come to the land of Vraja? Ah, with the thieves of His restless, roving glances He is plundering the wealth of My composure from the treasury of My heart!” (Lalita-mādhava, 2.11)
+tr: “Friend, who is this fearless youth, with the lustre of a rain cloud and the sporting grace of an intoxicated elephant? From where has He come to the land of Vraja? Ah, with the thieves of His restless, roving glances He is plundering the wealth of My composure from the treasury of My heart!” (Lalita-mādhava, 2.10)
+fn: Reference as in the edition heading (p. 870): *Lalita-mādhava*, act 2, verse 10; the edition gives the same number over 191, so one of the two references is probably inexact; other editions have 2.11 here.
 
 ## 191
 w: for sport  the celestial river  of My  mind-king-elephant  who
@@ -1101,7 +1123,8 @@ w: what use  of the poetry  of the poet  that
 w: what use  of the arrow  of the archer
 w: of another  in the heart  lodged
 w: not  makes spin  which  the head
-tr: ‘What use is a poet’s poetry or an archer’s arrow which, lodged in another’s heart, does not make his head spin?’
+tr: ‘What use is a poet’s poetry or an archer’s arrow which, lodged in another’s heart, does not make his head spin?’ (a verse of an ancient poet)
+fn: Source as in the edition heading (p. 871): *prācīna-kṛta śloka*, a verse composed by an ancient author.
 
 ## 196
 w: Your  power  without  of a living being  is not  this  speech
@@ -1181,12 +1204,13 @@ tr: Haridāsa said, “There is no limit to your good fortune. Who can know the 
 ## 211
 w: Śrī  Rūpa  says  I  nothing at all  not  know
 w: whatever  Mahāprabhu  makes speak  those  I speak  words
-tr: Śrī Rūpa said, “I know nothing at all. I speak only the words that Mahāprabhu makes me speak.
+tr: Śrī Rūpa said, “I know nothing at all. I speak only the words that Mahāprabhu makes me speak.”
 
 ## 212
 w: in the heart  whose  by the prompting  set to work  I  wretched  by nature  though
 w: of that  Hari  the lotus feet  I worship  of Caitanya-deva
-tr: ‘Though I am wretched, I have been set to this work by His prompting within my heart. I worship the lotus feet of that Hari, Śrī Caitanya-deva.’” (Bhakti-rasāmṛta-sindhu, 1.1.2)
+tr: “Though I am wretched, I have been set to this work by His prompting within my heart. I worship the lotus feet of that Hari, Śrī Caitanya-deva.” (Bhakti-rasāmṛta-sindhu, 1.1.2)
+fn: The same verse as Madhya 19.134; translation as there. Reference as in the edition heading (p. 872): *Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, Sāmānya-bhakti-laharī, verse 2.
 
 ## 213
 w: in this way  the two  of talks about Kṛṣṇa  in the delight
@@ -1242,4 +1266,3 @@ tr: Thus I have told of Rūpa’s second meeting with the Lord. Whoever hears th
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
-
