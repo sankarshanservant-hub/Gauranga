@@ -244,7 +244,7 @@ These words too show that the godless (*pāṣaṇḍīs*) who oppose the teachi
 
 ## 193
 
-> Subheading: On the occasion of the eternally perfect (*nitya-siddha*) Raghunātha's leaving home, the Lord instructs practitioners of devotion who still have *anarthas*; the greatness of Kṛṣṇa's mercy —
+> Subheading: On the occasion of the eternally perfect (*nitya-siddha*) Raghunātha's leaving home, the Lord instructs the practitioner of devotion who still has *anarthas*; the greatness of Kṛṣṇa's mercy —
 
 Kṛṣṇa's mercy is more powerful than the fruits of past *karma* and all else. It is this compassion of Kṛṣṇa that has rescued you from the cesspit of worldly life. A *jīva* attached to worldly things cannot give them up by his own strength. And for a *jīva* who is a pure servant of Kṛṣṇa, worldly things are all the more like a cesspit. Mahāprabhu knew that Śrīla Raghunātha was free from worldliness, yet He said this, using him as the occasion, only to teach suffering worldly people.
 
@@ -256,7 +256,7 @@ Kṛṣṇa's mercy is more powerful than the fruits of past *karma* and all els
 
 > Subheading: The Lord describes the character of Hiraṇya and Govardhana —
 
-Nīlāmbara Cakravartī knew Raghunātha's father and uncle to be noble *kāyasthas* younger than himself, and so he called them *bhāyā* (brother). The two brothers, knowing Nīlāmbara to be a *brāhmaṇa* older than they, addressed him as *dādā* (elder brother). Therefore Śrī Mahāprabhu, regarding them as brothers of His maternal grandfather, considered them people He could tease. Because of this form of address many mistakenly think that Raghunātha was much older than Mahāprabhu, but in fact this is not so.
+Nīlāmbara Cakravartī knew Raghunātha's father and uncle to be noble Kāyasthas younger than himself, and so he called them *bhāyā* (brother). The two brothers, knowing Nīlāmbara to be a *brāhmaṇa* older than they, addressed him as *dādā* (elder brother). Therefore Śrī Mahāprabhu, regarding them as brothers of His maternal grandfather, considered them people He could tease. Because of this form of address many mistakenly think that Raghunātha was much older than Mahāprabhu, but in fact this is not so.
 
 ## 197
 
@@ -272,7 +272,7 @@ The two brothers, Hiraṇya and Govardhana, honored the *brāhmaṇas* and were 
 
 ## 199
 
-> Subheading: One who gives up the desire to please Kṛṣṇa and pursues worldly objects — by enjoyment or by renunciation — relying on knowledge gained through the senses, stifles even a small seed of faith, and his worldly existence grows —
+> Subheading: Giving up the desire to please Kṛṣṇa, one pursues worldly objects through enjoyment or renunciation, relying on knowledge gained through the senses; as a result even the slightest seed of faith is stifled and worldly existence grows —
 
 Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *anyābhilāṣīs* (those with other desires). Therefore the very *karma*, *jñāna*, and other practices they perform sink them, without their knowing it, into worldliness, and they become as inert as matter.
 
@@ -282,7 +282,7 @@ Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *an
 
 ## 201
 
-> Subheading: The Lord entrusts Raghunātha to the hands of Dāmodara Svarūpa —
+> Subheading: The Lord entrusts Raghunātha to the hands of Svarūpa Dāmodara —
 
 ## 203
 
