@@ -20,6 +20,26 @@ Dāmodara Paṇḍita says to Mahāprabhu: “When it comes to instructing other
 
 The guardians of dharma must be impartial (*nirapekṣa*); that is, they must not let any regard for public opinion hold dharma back.
 
+## 31
+
+When your vision turns outward to the world, you do, it is true, feel that this is only a vision (*sphūrti*) — “Nimāi came into my memory.” But in truth I come to you and eat the rice, the vegetable dishes and the rest.
+
+## 56
+
+A certain *mleccha*, gored by the tusk of a boar (*daṁṣṭrī*), cried out in disgust, “Hārām! Hārām!” — and yet at the time of death he attained liberation. The word *hārām* contains the word *Rāma* — “hā Rāma,” uttered as an indication (*saṅketa*). That is why the *mleccha* was delivered by an indication of the Name (this is called *nāmābhāsa*). And what happens when one takes the name *Rāma* with faith cannot even be told.
+
+## 60
+
+When one holy name of Hari has arisen on someone's lips, or entered the path of his memory, or reached his ears — whether it is uttered with correct sounds or incorrect ones, with gaps or without them, or in fragments — it will surely deliver the one who takes it. O *vipra*, such is the glory of the Name. But if the syllables of the Name fall among offenses that are like stones (*pāṣāṇa*) — attachment to the body, wealth, people, greed and the like — the Name does not bear fruit quickly. That is, unless one adopts the means that puts an end to offenses against the Name, those offenses do not go away. (There is also the reading *lobha-pāṣaṇḍa-madhye*.)
+
+## 62
+
+O treasury of virtues! With a mind full of faith, without delay and in simplicity of heart, worship Śrī Kṛṣṇa, the supreme purifier, the crown of those praised in exalted verse. For even the semblance of the sun of His name, rising in the heart, destroys the darkness of great sins.
+
+## 63
+
+The dying Ajāmila went to the abode of Vaikuṇṭha merely by taking the name of Hari while calling his son. What happens when one takes the Name with faith cannot even be told (to say nothing of going to Vaikuṇṭha).
+
 ---
 
 [^11-1]: The translation of the verse understands this differently: “You instruct everyone; You are the teacher even of other teachers.”
