@@ -178,4 +178,224 @@ Having collected twenty lakhs, Hiraṇya should have kept back a quarter (five l
 
 > Subheading: Nityānanda's causeless kindness —
 
+## 50
+
+> Subheading: By ordering Raghunātha to feed His associates, He “punishes” him. That is, by the pastime of the *daṇḍa-mahotsava* (the festival of punishment) He teaches that a wealthy worldly man given to enjoyment is freed from the *anartha* of deceit in the use of wealth (*vitta-śāṭhya*), and eternal good dawns in him, only through serving Nityānanda's associates, that is, the pure devotees —
+
+*Lāg* — touch, meeting face to face, finding, company.
+
+## 52
+
+> Subheading: He has the provisions for the *ciḍā* festival brought from his village —
+
+## 54
+
+> Subheading: Description of the festival —
+
+## 59
+
+> Subheading: The Lord sits on the raised seat —
+
+## 60
+
+> Subheading: Under the banyan, on the platform, the devotees who are the Lord's associates sit down —
+
+*Cabutarā* — a platform, a terrace, a raised place beside the *piṇḍā*.
+
+## 61
+
+> Subheading: Nityānanda's associates take their seats —
+
+Rāmadāsa — Abhirāma Ṭhākura (a *gopāla*); see the *Anubhāṣya* on Ādi 10.116 and 10.118 and on Ādi 11.13 and 11.16.
+
+Sundarānanda — see the *Anubhāṣya* on Ādi 11.23.
+
+Dāsa Gadādhara — see the *Anubhāṣya* on Ādi 10.53 and Ādi 11.13, 14, 17.
+
+Murāri — here Murāri Caitanyadāsa (he is among Nityānanda's associates, so this is not Murāri Gupta); see the *Anubhāṣya* on Ādi 11.20.
+
+Kamalākara — see the *Anubhāṣya* on Ādi 11.24.
+
+Sadāśiva — see the *Anubhāṣya* on Ādi 11.38.
+
+Purandara — see the *Anubhāṣya* on Ādi 11.28.
+
+## 62
+
+Dhanañjaya — see the *Anubhāṣya* on Ādi 11.31.
+
+Jagadīśa — see the *Anubhāṣya* on Ādi 11.30.
+
+Parameśvara dāsa — see the *Anubhāṣya* on Ādi 11.29.
+
+Maheśa — see the *Anubhāṣya* on Ādi 11.32.
+
+Gaurīdāsa — see the *Anubhāṣya* on Ādi 11.26.
+
+Kṛṣṇadāsa Hoḍa — see the *Anubhāṣya* on Ādi 11.47.
+
+## 63
+
+Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
+
+## 64
+
+> Subheading: *Brāhmaṇas* who do not see caste in Vaiṣṇavas honour the *mahā-prasāda* —
+
+## 71
+
+> Subheading: Rāghava Paṇḍita arrives there with *prasāda* —
+
+## 72
+
+> Subheading: He serves the *prasāda* first to Nityānanda and then to the devotees —
+
+*Ni-sakḍi* — what is not *sakḍi*, that is, not defiled by contact with cooked rice (*anna*).
+
+## 73
+
+> Subheading: Nityānanda Prabhu is asked to eat —
+
+## 74
+
+> Subheading: Feeling Himself a cowherd boy, Nityānanda Prabhu recalls the pastimes of Vraja —
+
+## 75
+
+> Subheading: The joy of the picnic on the sandy bank of the Yamunā with His friends —
+
+## 76
+
+> Subheading: Rāghava too sits down to eat there —
+
+## 77
+
+> Subheading: In meditation He brings Mahāprabhu to the festival —
+
+## 78
+
+> Subheading: Nityānanda Prabhu, together with Mahāprabhu, looks over the food —
+
+## 79
+
+> Subheading: He puts a mouthful from each pot into Mahāprabhu's mouth —
+
+## 80
+
+> Subheading: Mahāprabhu too puts a mouthful into Nitāi's mouth —
+
+## 81
+
+> Subheading: The devotees watch Nitāi's playful round among them on every side —
+
+## 82
+
+> Subheading: The sport of the two: invisible to some, it is seen only by some who possess *sukṛti* —
+
+## 83
+
+> Subheading: For Mahāprabhu — two pots of *ciḍā* with milk and two of *ciḍā* with *dadhi* —
+
+## 84
+
+> Subheading: Mahāprabhu and Nityānanda Prabhu eat —
+
+## 85
+
+> Subheading: Nitāi is overwhelmed by ecstatic feelings —
+
+## 86
+
+> Subheading: He orders them to eat, calling out “Hari!” —
+
+## 87
+
+> Subheading: The Vaiṣṇavas eat and recall the picnics on the sandy banks in Vraja —
+
+## 88
+
+> Subheading: The two Lords' mercy upon Raghunātha —
+
+## 89
+
+> Subheading: Mahāprabhu is controlled by Nityānanda's love —
+
+## 90
+
+> Subheading: Abhirāma Ṭhākura and others, in the mood of cowherd boys, recall the picnics on the sandy bank of the Yamunā —
+
+## 91
+
+> Subheading: Vendors come to sell their goods, earn money by selling, and then eat what they sold, now made *prasāda* —
+
+*Pasāri* — a vendor, a shopkeeper.
+
+## 93
+
+> Subheading: All who came eat —
+
+## 94
+
+> Subheading: After rinsing His mouth (*ācamana*), Nitāi gives Raghunātha the remnants of His meal —
+
+## 95
+
+> Subheading: The *prasāda* is distributed among the devotees —
+
+## 96
+
+> Subheading: The Lord is served with sandal paste and betel —
+
+## 98
+
+> Subheading: All the devotees receive His remnants —
+
+## 99
+
+> Subheading: Raghunātha's joy at receiving the Lord's remnants —
+
+## 100
+
+> Subheading: That is why it is called “the festival of *ciḍā* and *dadhi*” —
+
+## 101
+
+> Subheading: In the evening — *kīrtana* in Rāghava's temple —
+
+## 102
+
+> Subheading: Nityānanda dances in the *kīrtana* —
+
+## 103
+
+> Subheading: Mahāprabhu watches Nityānanda's dance —
+
+## 104
+
+> Subheading: Nityānanda's incomparable dancing can be compared only with Mahāprabhu's —
+
+## 105
+
+> Subheading: Mahāprabhu beholds the sweetness of Nityānanda's dance —
+
+## 106
+
+> Subheading: Having rested after the dance, Nitāi and His associates take supper in Rāghava's house —
+
+## 107
+
+> Subheading: The Lord's seat for the meal — on Nitāi's right —
+
+## 108
+
+> Subheading: Rāghava rejoices to see Mahāprabhu sit on it —
+
+## 109
+
+> Subheading: First the two Lords, then the devotees honour the *prasāda* —
+
+## 110
+
+> Subheading: Description of the variety of *prasāda* in Rāghava's house —
+
 ---

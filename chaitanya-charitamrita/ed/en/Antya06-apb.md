@@ -28,6 +28,14 @@ The *mleccha* vizier[^23-1] knew that Śrī Raghunātha was the son of a respect
 
 *Prārabdha* — those deeds of previous lives which have begun to bear fruit.
 
+## 55
+
+*Holnā* — a kind of earthen pot (*mālsā*).
+
+## 83
+
+*Āroyā-ciḍā* — *ciḍā* made from *ātapa* rice (husked without parboiling).
+
 ---
 
 [^0-1]: The edition reads «অযাজকবৃত্তি» (*ayājaka*, “not officiating at rites for pay”; checked against the scan); the sense probably requires অযাচক, “not asking.”
