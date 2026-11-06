@@ -685,17 +685,17 @@ a brāhmaṇa of good family  is not  for worship  fit
 (66) One of low birth is not unfit for the worship of Kṛṣṇa, nor is a brāhmaṇa of good family fit for it by that alone.
 
 যেই ভজে, সেই বড়, অভক্ত — হীন, ছার ৷  
-কৃষ্ণভজনে নাহি জাতি-কুলাদি-বিচার ॥ ৬৭ ॥
+কৃষ্ণভজনে নাহি জাতি-কুলাদি বিচার ॥ ৬৭ ॥
 
 yei bhaje, sei baḍa, abhakta — hīna, chāra  
 whoever  worships  he  is great  the non-devotee  low  contemptible  
-kṛṣṇa-bhajane nāhi jāti-kulādi-vicāra  
+kṛṣṇa-bhajane nāhi jāti-kulādi vicāra  
 in the worship of Kṛṣṇa  there is not  caste family and the like  consideration
 
 (67) Whoever worships is great; the non-devotee is low and contemptible. In the worship of Kṛṣṇa there is no consideration of caste, family and the like.
 
 দীনেরে অধিক দয়া করে ভগবান্ ৷  
-কুলীন, পণ্ডিত, ধনীর বড় অভিমান॥ ৬৮ ॥
+কুলীন, পণ্ডিত, ধনীর বড় অভিমান ॥ ৬৮ ॥
 
 dīnere adhika dayā kare bhagavān  
 to the lowly  greater  kindness  shows  Bhagavān  
@@ -704,10 +704,10 @@ the high-born  the learned  the rich  great  pride
 
 (68) Bhagavān shows greater kindness to the lowly; the high-born, the learned and the rich have great pride.
 
-বিপ্রাদ্ দ্বি-ষড়্-গুণ-যুতাদ্ অরবিন্দ-নাভ- ৷  
-পাদারবিন্দ-বিমুখাৎ শ্ব-পচং বরিষ্ঠম্ ৷  
-মন্যে তদ্-অর্পিত-মনো-বচনেহিতার্থ- ৷  
-প্রাণং পুনাতি স কুলং ন তু ভূরি-মানঃ ॥ ৬৯ ॥
+বিপ্রাদ্দ্বিষড়্গুণযুতাদরবিন্দনাভ-  
+পাদারবিন্দবিমুখাৎ শ্বপচং বরিষ্ঠম্ ৷  
+মন্যে তদর্পিত-মনোবচনেহিতার্থ-  
+প্রাণং পুনাতি স কুলং ন তু ভূরিমানঃ ॥ ৬৯ ॥
 
 viprād dvi-ṣaḍ-guṇa-yutād aravinda-nābha-  
 than a brāhmaṇa  twelve  qualities  endowed with  of the lotus-naveled Lord  
@@ -1081,11 +1081,11 @@ as before  made  all  of the Ratha-yātrā  seeing
 (105) At the time of the festival all the devotees of Gauḍa came, and as before they all saw the Ratha-yātrā.
 
 রথ-অগ্রে প্রভু তৈছে করিলা নর্ত্তন ৷  
-দেখি চমৎকার হৈল সনাতনের মন ॥ ১০৬ ॥
+দেখি’ চমৎকার হৈল সনাতনের মন ॥ ১০৬ ॥
 
 ratha-agre prabhu taiche karilā nartana  
 before the chariot  the Lord  likewise  made  dancing  
-dekhi camatkāra haila sanātanera mana  
+dekhi’ camatkāra haila sanātanera mana  
 seeing  astonished  became  of Sanātana  the mind
 
 (106) Before the chariot the Lord danced as before, and seeing it, Sanātana was filled with wonder.
