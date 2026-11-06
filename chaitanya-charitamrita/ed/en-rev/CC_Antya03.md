@@ -1541,7 +1541,7 @@ all-knowing  Nityānanda  came  to his  house
 āsiyā vasilā durgā-maṇḍapa-upare  
 having come  sat down  of Durgā  the maṇḍapa  upon
 
-(149) The all-knowing Nityānanda came to his house and sat down on the *durgā-maṇḍapa*, the pavilion for the worship of Durgā.
+(149) The all-knowing Nityānanda came to his house and sat down on the *durgā-maṇḍapa*, the pavilion for the worship of Durgā.[^21]
 
 অনেক লোকজন সঙ্গে অঙ্গন ভরিল ৷  
 ভিতর হৈতে রামচন্দ্র সেবক পাঠাইল ॥ ১৫০ ॥
@@ -1571,7 +1571,7 @@ of a cowherd  the cowshed  is  very  spacious
 ihām̐ saṅkīrṇa-sthala, tomāra manuṣya — apāra  
 here  a narrow place  Your  people  —  countless
 
-(152) A cowherd’s cowshed is very spacious, but this place is narrow, and Your people are countless.”
+(152) A cowherd’s cowshed is very spacious, but this place is narrow, and Your people are countless.”[^22]
 
 ভিতরে আছিলা, শুনি’ ক্রোধে বাহিরিলা ৷  
 অট্ট অট্ট হাসি’ গোসাঞি কহিতে লাগিলা ॥ ১৫৩ ॥
@@ -1591,7 +1591,7 @@ the truth  he speaks  —  this  house  for Me  fit  is not
 mleccha go-vadha kare, tāra yogya haya  
 the mlecchas  cow-slaughter  do  for them  fit  it is
 
-(154) “He speaks the truth: this house is not fit for Me. It is fit for the *mlecchas*, who slaughter cows.”
+(154) “He speaks the truth: this house is not fit for Me. It is fit for the *mlecchas*, who slaughter cows.”[^23]
 
 এত বলি’ ক্রোধে গোসাঞি উঠিয়া চলিলা ৷  
 তারে দণ্ড দিতে সে গ্রামে না রহিলা ॥ ১৫৫ ॥
@@ -1601,7 +1601,7 @@ this  having said  in anger  Gosāñi  rising  departed
 tāre daṇḍa dite se grāme nā rahilā  
 him  punishment  to give  in that  village  not  stayed
 
-(155) Saying this, Gosāñi rose in anger and left. To punish him, He did not stay in that village.
+(155) Saying this, Gosāñi rose in anger and left. To punish him, He did not stay in that village.[^24]
 
 ইহাঁ রামচন্দ্র-খাঁন সেবকে আজ্ঞা দিল ৷  
 গোসাঞি যাঁহা বসিলা, তার মাটী খোদাইল ॥ ১৫৬ ॥
@@ -1681,7 +1681,7 @@ of a great soul  dishonour  in which  land or village  happens
 eka janāra doṣe saba deśa ujāḍaya  
 of one  person  for the fault  the whole  land  is laid waste
 
-(163) Wherever a great soul is dishonoured, in a land or a village, the whole land is laid waste for the fault of a single person.
+(163) Wherever a great soul is dishonoured, in a land or a village, the whole land is laid waste for the fault of a single person.[^25]
 
 হরিদাস-ঠাকুর চলি’ আইলা চান্দপুরে ৷  
 আসিয়া রহিলা বলরাম-আচার্য্যের ঘরে ॥ ১৬৪ ॥
@@ -1701,7 +1701,7 @@ Hiraṇya  Govardhana  —  of the district  the Majumadāras
 tāra purohita — ‘balarāma’ nāma tām̐ra  
 their  priest  —  ‘Balarāma’  the name  his
 
-(165) Hiraṇya and Govardhana were the Majumadāras, the keepers of the revenue accounts, of the district, and their priest was named Balarāma.
+(165) Hiraṇya and Govardhana kept the revenue accounts of the district as its Majumadāras, and their priest was named Balarāma.[^26]
 
 হরিদাসের কৃপাপাত্র, তাতে ভক্তিমানে ৷  
 যত্ন করি’ ঠাকুরেরে রাখিলা সেই গ্রামে ॥ ১৬৬ ॥
@@ -1821,7 +1821,7 @@ Haridāsa  says  —  of the name  these  two  fruits  are not
 nāmera phale kṛṣṇa-pade prema upajaya  
 of the name  as the fruit  for Kṛṣṇa’s feet  love  arises
 
-(177) Haridāsa said, “These two are not the fruit of the name. The fruit of the name is that love for Kṛṣṇa’s feet arises.
+(177) Haridāsa said, “These two are not the fruit of the name. The fruit of the name is that love for Kṛṣṇa’s feet arises.[^27]
 
 এবংব্রতঃ স্বপ্রিয়নামকীর্ত্ত্যা-  
 জাতানুরাগো দ্রুতচিত্ত উচ্চৈঃ ৷  
@@ -1837,7 +1837,7 @@ laughs  then  weeps  cries out  sings
 unmāda-van nṛtyati loka-bāhyaḥ  
 like a madman  dances  beyond the world
 
-(178) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)
+(178) “One who has taken this vow, chanting the names of his beloved Lord, finds love awakening within him; his heart melts, and, heedless of the world, he laughs aloud, weeps, cries out, sings and dances like a madman.” (Śrīmad-Bhāgavatam, 11.2.40)[^28]
 
 আনুষঙ্গিক ফল নামের — ‘মুক্তি’, ‘পাপনাশ’ ৷  
 তাহার দৃষ্টান্ত যৈছে সূর্য্যের প্রকাশ ॥ ১৭৯ ॥
@@ -1847,7 +1847,7 @@ incidental  fruits  of the name  —  ‘liberation’  ‘the destruction of si
 tāhāra dṛṣṭānta yaiche sūryera prakāśa  
 of that  the example  as  of the sun  the shining
 
-(179) Liberation and the destruction of sin are only incidental fruits of the name. The example is the light of the sun.
+(179) Liberation and the destruction of sin are only incidental fruits of the name. The example is the light of the sun.[^29]
 
 অংহঃ সংহরদখিলং সকৃদুদয়াদেব সকল-লোকস্য ৷  
 তরণিরিব তিমিরজলধিং জয়তি  
@@ -1862,7 +1862,7 @@ the sun  like  the ocean of darkness
 jayati jagan-maṅgalaṁ harer nāma  
 is victorious  the blessing of the world  of Hari  the name
 
-(180) “As the sun, merely by rising, dispels an ocean of darkness, so the name of Hari, rising even once, destroys all the sins of all people. All glory to that name of Hari, the blessing of the world!” (Padyāvalī, 16)
+(180) “As the sun, merely by rising, dispels an ocean of darkness, so the name of Hari, rising even once, destroys all the sins of all people. All glory to that name of Hari, the blessing of the world!” (Nāma-kaumudī of Śrī Lakṣmīdhara Svāmī; Padyāvalī, 16)[^30]
 
 এই শ্লোকের অর্থ কর পণ্ডিতের গণ ৷  
 সবে কহে, — তুমি কহ অর্থ-বিবরণ ॥ ১৮১ ॥
@@ -1899,7 +1899,7 @@ so  at the start of the name’s rising  of sins and the like  the destruction
 udaya kaile kṛṣṇa-pade haya premodaya  
 rising  when it has done  for Kṛṣṇa’s feet  comes  the dawning of love
 
-(184) In the same way, as the name begins to rise, sins and the like are destroyed; when it has risen, love for Kṛṣṇa’s feet dawns.
+(184) In the same way, as the name begins to rise, sins and the like are destroyed; when it has risen, love for Kṛṣṇa’s feet dawns.[^31]
 
 ‘মুক্তি’ তুচ্ছ-ফল হয় নামাভাস হৈতে ৷  
 যে মুক্তি ভক্ত না লয়, সে কৃষ্ণ চাহে দিতে ॥ ১৮৫ ॥
@@ -1909,7 +1909,7 @@ rising  when it has done  for Kṛṣṇa’s feet  comes  the dawning of love
 ye mukti bhakta nā laya, se kṛṣṇa cāhe dite  
 that  liberation  the devotee  not  accepts  that  Kṛṣṇa  wishes  to give
 
-(185) Liberation is a trifling fruit that comes from the mere semblance of the name (*nāmābhāsa*). Kṛṣṇa wishes to give that liberation, but His devotee does not accept it.
+(185) Liberation is a trifling fruit that comes from the mere semblance of the name (*nāmābhāsa*). Kṛṣṇa wishes to give that liberation, but His devotee does not accept it.”[^32]
 
 ম্রিয়মাণো হরের্নাম গৃণন্ পুত্রোপচারিতম্ ৷  
 অজামিলোঽপ্যগাদ্ধাম কিমুত শ্রদ্ধয়া গৃণন্ ॥ ১৮৬ ॥
@@ -1921,23 +1921,23 @@ uttering  addressed to his son
 ajāmilo ’py agād dhāma  
 Ajāmila  even  went  to the abode  
 kim uta śraddhayā gṛṇan  
-what then  with faith  uttering
+what to speak  then  with faith  one who utters
 
-(186) “Even Ajāmila, who uttered the name of Hari at the moment of death while calling his son, went to the Lord’s abode. What then of one who chants it with faith?” (Śrīmad-Bhāgavatam, 6.2.49)
+(186) “Even Ajāmila reached the Lord’s abode by uttering the name of Hari as he was dying, though he addressed it to his son. What then of one who utters the name with faith?” (Śrīmad-Bhāgavatam, 6.2.49)[^33]
 
 সালোক্য-সার্ষ্টি-সারূপ্য-সামীপ্যৈকত্বমপ্যুত ৷  
 দীয়মানং ন গৃহ্ণন্তি বিনা মৎসেবনং জনাঃ ॥ ১৮৭ ॥
 
 sālokya-sārṣṭi-sārūpya-  
-residence in My world  equal opulence  nearness  
+residence in My world  equal opulence  likeness of form  
 sāmīpyaikatvam apy uta  
-likeness of form  oneness  even  and  
+nearness  oneness  even  and  
 dīyamānaṁ na gṛhṇanti  
 being given  not  accept  
 vinā mat-sevanaṁ janāḥ  
 without  My service  the people
 
-(187) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)
+(187) “My devotees accept nothing but service to Me — not even when they are offered residence in My world, opulence equal to Mine, nearness to Me, a form like Mine, or even oneness with Me.” (Śrīmad-Bhāgavatam, 3.29.13)[^34]
 
 ‘গোপাল-চক্রবর্ত্তী’ নাম একজন ৷  
 মজুমদারের ঘরে সেই আরিন্দা প্রধান ॥ ১৮৮ ॥
@@ -1957,7 +1957,7 @@ in Gauḍa  staying  before the Pātsāhā  the work of tax collector  does
 bāra-lakṣa mudrā sei pātsāhāre bhare  
 twelve lakhs  of coins  he  to the Pātsāhā  pays
 
-(189) Living in Gauḍa, he worked as tax collector for the Pātsāhā and paid twelve lakhs (1,200,000) of coins to the Pātsāhā.
+(189) Living in Gauḍa, he worked as tax collector for the Pātsāhā and paid twelve lakhs (1,200,000) of coins to the Pātsāhā.[^35]
 
 পরম-সুন্দর, পণ্ডিত, নূতন-যৌবন ৷  
 নামাভাসে ‘মুক্তি’ শুনি’ না হইল সহন ॥ ১৯০ ॥
@@ -2021,7 +2021,7 @@ joys  become like a calf’s hoofprint
 brāhmāṇy api jagad-guro  
 of Brahman  even  O Guru of the world
 
-(195) “O Guru of the world, now that I am immersed in the pure ocean of joy that comes from seeing You face to face, all other joys — even the bliss of Brahman — seem to me like the water in a calf’s hoofprint.” (Hari-bhakti-sudhodaya, 14.36)
+(195) “O Guru of the world, now that I am immersed in the pure ocean of joy that comes from seeing You face to face, all other joys — even the bliss of Brahman — seem to me like the water in a calf’s hoofprint.” (Hari-bhakti-sudhodaya, 14.36)[^36]
 
 বিপ্র কহে, — নামাভাসে যদি ‘মুক্তি’ নয় ৷  
 তবে তোমার নাক কাটি’ করহ নিশ্চয় ॥ ১৯৬ ॥
@@ -2031,7 +2031,7 @@ the brāhmaṇa  says  —  from the semblance of the name  if  ‘liberation’
 tabe tomāra nāka kāṭi’ karaha niścaya  
 then  your  nose  cutting  make  certain
 
-(196) The brāhmaṇa said, “If liberation does not come from the semblance of the name, then let it be settled: your nose will be cut off!”
+(196) The brāhmaṇa said, “If liberation does not come from the semblance of the name, then pledge that you will cut off your nose!”[^37]
 
 হরিদাস কহেন, — যদি নামাভাসে ‘মুক্তি’ নয় ৷  
 তবে আমার নাক কাটিমু, — এই সুনিশ্চয় ॥ ১৯৭ ॥
@@ -2061,7 +2061,7 @@ Balāi  the priest  him  made  reproach
 ghaṭa-paṭiyā mūrkha tuñi, bhakti kām̐hā jāna?  
 pot-and-cloth logician  fool  you  devotion  what  know
 
-(199) The priest Balāi (Balarāma) reproached him: “You are a fool who argues about pots and cloth (*ghaṭa-paṭiyā*) — what do you know of devotion?
+(199) The priest Balāi (Balarāma) reproached him: “You are a fool who argues about pots and cloth (*ghaṭa-paṭiyā*) — what do you know of devotion?[^38]
 
 হরিদাস-ঠাকুরে তুঞি কৈলি অপমান !  
 সর্ব্বনাশ হবে তোর, না হবে কল্যাণ ॥ ২০০ ॥
@@ -2121,7 +2121,7 @@ go  home  Kṛṣṇa  may He do  welfare  of all
 āmāra sambandhe duḥkha nā hauka kāhāra  
 me  concerning  sorrow  not  may there be  for anyone
 
-(205) Go home. May Kṛṣṇa bless you all, and may no one suffer on my account.”
+(205) Go home. May Kṛṣṇa bless you all, and may no one suffer on my account.”[^39]
 
 তবে সে হিরণ্যদাস নিজ-ঘরে আইল ৷  
 সেই ব্রাহ্মণে নিজ দ্বার-মানা কৈল ॥ ২০৬ ॥
@@ -2251,7 +2251,7 @@ extraordinary  conduct  Your  to speak of  I feel  fear
 sei kṛpā karibā, — yāte tomāra rakṣā haya  
 that  mercy  please do  —  by which  Your  protection  may be
 
-(218) Your conduct is extraordinary; I am afraid even to speak of it. Please be merciful and act so that Your own standing is protected.”
+(218) Your conduct is extraordinary; I am afraid even to speak of it. Please be merciful and act so that Your own standing is protected.”[^40]
 
 আচার্য্য কহেন, — তুমি না করিহ ভয় ৷  
 সেই আচরিব, যেই শাস্ত্রমত হয় ॥ ২১৯ ॥
@@ -2271,7 +2271,7 @@ you  when you eat  there is  of ten million brāhmaṇas  the feeding
 eta bali’ śrāddha-pātra karāilā bhojana  
 this  having said  the śrāddha plate  made him  eat
 
-(220) When you eat, it is as good as feeding ten million brāhmaṇas.” Saying this, He fed him the *śrāddha-pātra*, the food of the day of *śrāddha*.
+(220) When you eat, it is as good as feeding ten million brāhmaṇas.” Saying this, He fed him the *śrāddha-pātra*, the food of the day of *śrāddha*.[^41]
 
 জগৎ-নিস্তার লাগি’ করেন চিন্তন ৷  
 অবৈষ্ণব-জগৎ কেমনে হইবে মোচন ? ॥ ২২১ ॥
@@ -2461,7 +2461,7 @@ until  the chanting  completed  is not  not  I do  other  thing
 kīrtana samāpta haile, haya dīkṣāra viśrāma  
 the chanting  completed  when it is  is  of the vow  the rest
 
-(239) Until the chanting is complete, I do nothing else; when the chanting is complete, my vow is at rest.
+(239) Until the chanting is complete, I do nothing else; when the chanting is complete, my vow is at rest.[^42]
 
 দ্বারে বসি’ শুন তুমি নাম-সঙ্কীর্ত্তন ৷  
 নাম সমাপ্ত হৈলে করিমু তব প্রীতি-আচরণ ॥ ২৪০ ॥
@@ -2511,7 +2511,7 @@ in Kṛṣṇa  with mind absorbed in the name  always  Haridāsa
 araṇye rodita haila strī-bhāva-prakāśa  
 in the forest  a cry  became  the display of feminine charms
 
-(244) Haridāsa’s mind was always absorbed in the name of Kṛṣṇa, so her display of feminine charms was like crying in the wilderness.
+(244) Haridāsa’s mind was always absorbed in the name of Kṛṣṇa, so her display of feminine charms was like crying in the wilderness.[^43]
 
 তৃতীয় দিবসের রাত্রি-শেষ যবে হৈল ৷  
 ঠাকুরের স্থানে নারী কহিতে লাগিল ॥ ২৪৫ ॥
@@ -2588,7 +2588,7 @@ in Caitanya’s descent  flows  a flood of the nectar of love
 saba jīva preme bhāse, pṛthivī haila dhanyā  
 all  jīvas  in love  float  the earth  became  blessed
 
-(252) In the descent of Caitanya a flood of the nectar of love is flowing. All living beings float in that love, and the earth has become blessed.
+(252) With Caitanya’s descent a flood of the nectar of love is flowing. All living beings float in that love, and the earth has become blessed.
 
 এ-বন্যায় যে না ভাসে, সেই জীব — ছার ৷  
 কোটিকল্পে তবে তার নাহিক নিস্তার ॥ ২৫৩ ॥
@@ -2598,7 +2598,7 @@ in this flood  who  not  floats  that  soul  —  wretched
 koṭi-kalpe tabe tāra nāhika nistāra  
 in millions of kalpas  then  his  there is no  deliverance
 
-(253) Wretched is the soul who does not float in this flood: for him there is no deliverance even in millions of *kalpas*.
+(253) Wretched is the soul who does not float in this flood: for him there is no deliverance even in millions of *kalpas*.[^44]
 
 পূর্ব্বে আমি রাম-নাম পাঞাছি ‘শিব’ হৈতে ৷  
 তোমার সঙ্গে লোভ হৈল কৃষ্ণনাম লৈতে ॥ ২৫৪ ॥
@@ -2638,7 +2638,7 @@ this  having said  honoured  of Haridāsa  the feet
 haridāsa kahe, — kara kṛṣṇa-saṅkīrtana  
 Haridāsa  says  —  do  kṛṣṇa-saṅkīrtana
 
-(257) Saying this, she honoured Haridāsa’s feet. Haridāsa said, “Chant the name of Kṛṣṇa (*kṛṣṇa-saṅkīrtana*).”
+(257) Saying this, she honoured Haridāsa’s feet. Haridāsa said, “Chant the name of Kṛṣṇa (*kṛṣṇa-saṅkīrtana*).”[^45]
 
 উপদেশ পাঞা মায়া চলিলা হঞা প্রীত ৷  
 এ-সব কথাতে কারো না জন্মে প্রতীত ॥ ২৫৮ ॥
@@ -2698,7 +2698,7 @@ of others  what  talk  Himself  the son of the king of Vraja
 avatari’ karena prema-nāma āsvādana  
 descending  does  of love and the name  the relishing
 
-(263) What to speak of others? The son of the king of Vraja Himself descends and relishes love and the name.
+(263) What to speak of others? The son of the king of Vraja Himself descends and relishes love and the name.[^46]
 
 মায়া-দাসী ‘প্রেম’ মাগে, — ইথে কি বিস্ময় ?  
 ‘সাধুকৃপা’, ‘নাম’ বিনা ‘প্রেম’ না জন্মায় ॥ ২৬৪ ॥
@@ -2708,7 +2708,7 @@ Māyā  the maidservant  ‘love’  begs  —  in this  what  wonder
 ‘sādhu-kṛpā’, ‘nāma’ vinā ‘prema’ nā janmāya  
 ‘the saint’s mercy’  ‘the name’  without  ‘love’  not  is born
 
-(264) If Māyā, the Lord’s maidservant, begs for love, what wonder is there in that? Without the mercy of a saint and the name, love is never born.
+(264) If Māyā, the Lord’s maidservant, begs for love, what wonder is there in that? Without the mercy of a saint and the name, love is never born.[^47]
 
 চৈতন্য-গোসাঞির লীলার এই ত’ স্বভাব ৷  
 ত্রিভুবন নাচে, গায়, পাঞা প্রেমভাব ॥ ২৬৫ ॥
@@ -2728,7 +2728,7 @@ Kṛṣṇa and the others  and  all  the unmoving and moving
 kṛṣṇa-preme matta kare kṛṣṇa-saṅkīrtane  
 with love of Kṛṣṇa  mad  makes  the chanting of Kṛṣṇa’s name
 
-(266) Kṛṣṇa Himself and the others, and all beings, moving and unmoving — *kṛṣṇa-saṅkīrtana* makes them all mad with love of Kṛṣṇa.
+(266) Kṛṣṇa Himself and the others, and all beings, moving and unmoving — *kṛṣṇa-saṅkīrtana* makes them all mad with love of Kṛṣṇa.[^48]
 
 স্বরূপ-গোসাঞি কড়চায় যে-লীলা লিখিল ৷  
 রঘুনাথদাস-মুখে যে সব শুনিল ॥ ২৬৭ ॥
@@ -2768,7 +2768,7 @@ which  on hearing  of the devotees  is soothed  the ears
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(270) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+(270) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^49]
 
 ---
 
@@ -2811,3 +2811,61 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^19]: *Amṛta-pravāha-bhāṣya*: the *Caitanya-maṅgala* is the *Caitanya-bhāgavata*; see its Ādi-khaṇḍa, chapter 14.
 
 [^20]: The edition’s heading: Ṭhākura Haridāsa tells of his initiation into the mahā-mantra; a brāhmaṇa by initiation. *Anubhāṣya*: a koṭi (ten million) names are completed in a month if one chants more than 333,333 names every day; in this sacrifice of chanting the name, Bhagavān, the bearer of the name, is worshipped. By worldly standards Haridāsa had no right to a sacrifice, either by birth or by initiation into the Sāvitrī, but, initiated into the sacrifice of the name, he performed it as a brāhmaṇa by initiation (*daikṣa-brāhmaṇa*).
+
+[^21]: *Durgā-maṇḍapa-upare* — “in the *durgā-maṇḍapa*”. *Anubhāṣya*: in the house of a wealthy non-Vaiṣṇava householder the place where Durgā is worshipped is called the *caṇḍī-maṇḍapa* or *durgā-maṇḍapa*; apart from the four days of the autumn or spring pūjā, guests and outsiders use it.
+
+[^22]: The servant offers Nityānanda a cowshed (*goyālāra gośālā*); the edition’s heading to 151: disrespect shown to Śrī Nityānanda Prabhu.
+
+[^23]: The edition’s heading: Śrī Nityānanda’s prophecy (fulfilled in 158–161).
+
+[^24]: *Tāre daṇḍa dite se grāme nā rahilā* — “to punish him, He did not stay in that village”: Nityānanda’s departure was itself the punishment, followed by the retribution of 158–162 (*Amṛta-pravāha-bhāṣya*: “by the curse of Nityānanda Prabhu”).
+
+[^25]: The edition’s heading: what becomes of a land where Viṣṇu and the Vaiṣṇavas are hated.
+
+[^26]: *Anubhāṣya*: *majumadāra* (*majmu-ādār*) — under the nawabs, the keeper of the state revenue accounts; *Amṛta-pravāha-bhāṣya*: the district (*muluk*) is Saptagrāma.
+
+[^27]: The edition’s headings: to 176 — all take *nāmābhāsa* for the pure name; to 177 — the Ṭhākura proclaims the fruit of the pure name.
+
+[^28]: The same verse as Ādi 7.94; translation as there. The reference is confirmed by the edition’s heading.
+
+[^29]: *Anubhāṣya*: as a secondary fruit the name frees one from the bondage of saṁsāra and destroys sin, attachment to saṁsāra; the chief fruit of sunrise is that the sun shines, lights up everything and gives joy, while the vanishing of darkness is a by-product. The edition’s heading: *nāmābhāsa* and its fruit, the removal of *anarthas*, are already contained in the pure name and its fruit, the awakening of prema.
+
+[^30]: The source follows the edition’s heading: a verse of the *Nāma-kaumudī* of Śrī Lakṣmīdhara Svāmī quoted in the *Padyāvalī* (the number 16 is not given there). *Anubhāṣya*: the name is a blessing for the world up to prema; “rising” — appearing in the senses of one turned towards service, through chanting, hearing and the like; sin is the cause of saṁsāra.
+
+[^31]: *Nāmodayārambhe* — “at the beginning of the name’s rising”, *udaya kaile* — “when it has risen”: the dawn is *nāmābhāsa*, which frees one from sin and gives liberation (185); the full sunrise is the pure name, which gives prema. The edition’s headings: to 182 — the Ṭhākura explains the truth of the pure name and of *nāmābhāsa*; to 184 — the fruit of the name is the awakening of love for Kṛṣṇa.
+
+[^32]: The edition’s heading: liberation is given by *nāmābhāsa* itself. *Amṛta-pravāha-bhāṣya*: even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee does not accept it. Haridāsa’s speech ends here in the edition.
+
+[^33]: The same verse as 63; translation as there.
+
+[^34]: The same verse as Ādi 4.207; translation as there. The edition here reads *sārūpya-sāmīpya* (*sārūpya* before *sāmīpya*; in Ādi 4.207 and Madhya 9.268 the usual order); the text follows the edition, the meaning is unchanged.
+
+[^35]: *Ārindā* — a tax collector, a messenger who carries the royal revenue (*Amṛta-pravāha-bhāṣya* on 188).
+
+[^36]: The same verse as Ādi 7.98; translation as there. Haridāsa’s speech (193–195) ends here in the edition.
+
+[^37]: *Tomāra nāka kāṭi’ karaha niścaya*: *karaha* is an imperative addressed to Haridāsa — “give your firm word to cut off your nose”; Haridāsa answers in kind (197), and the edition’s heading to 197 is “the Ṭhākura accepts the oath”. It is Gopāla’s own nose that falls off (207).
+
+[^38]: *Ghaṭa-paṭiyā* — a logician (*naiyāyika*) who argues idly about “pot” (*ghaṭa*) and “cloth” (*paṭa*) (*Amṛta-pravāha-bhāṣya*); the edition’s heading calls him an atheistic sophist (*hetuvādī*) and adds that Balarāma cursed him (200).
+
+[^39]: The edition’s heading: he asks Kṛṣṇa for the welfare of all.
+
+[^40]: The edition reads *yāte tomāra rakṣā haya* — “so that You are protected” (another reading: *mora*, “I”): Haridāsa asks Advaita to guard His own standing; *rakṣā* — protection of one’s place in society from public shame and censure (*Anubhāṣya*).
+
+[^41]: *Śrāddha-pātra*: on the day of *śrāddha* a Vaiṣṇava householder first offers all kinds of food to the Lord and then feeds Vaiṣṇavas and brāhmaṇas; Advaita fed Haridāsa as the *śrāddha-pātra*, seeing in him a transcendental brāhmaṇa and guru (*Amṛta-pravāha-bhāṣya*). The *Anubhāṣya* quotes the *Garuḍa Purāṇa* from the *Bhakti-sandarbha* (117): among ten million knowers of Vedānta the best is a devotee of Viṣṇu; even a *mleccha* who has the eightfold bhakti is the best of brāhmaṇas, to be honoured like Hari.
+
+[^42]: *Dīkṣāra viśrāma* — “rest from the vow”: Haridāsa is consecrated (*dīkṣita*) to his sacrifice of the name every day (238).
+
+[^43]: *Anubhāṣya*: while he chanted, Haridāsa’s mind was always absorbed in Kṛṣṇa’s name, and so Māyā-devī’s charms, which allure men and bewitch conditioned souls, proved as fruitless as weeping in an empty forest.
+
+[^44]: The edition’s heading to 252: without cultivating devotion to Kṛṣṇa under the shelter of Caitanya, a soul is like dead matter. *Anubhāṣya*: a *mahā-yuga* is 4,320,000 solar years, a thousand *mahā-yugas* make a *kalpa*, and *koṭi-kalpa* is ten million times as long.
+
+[^45]: The edition’s heading: Māyā-devī falls prostrate before the Ṭhākura, and he initiates her into the *mahā-mantra*, the name of Kṛṣṇa.
+
+[^46]: The edition reads *prema-nāma āsvādana*, “relishes love and the name” (another reading: *prema-rasa*, “the taste of love”); cf. 262. The edition’s heading: Kṛṣṇa Himself relishes love for His own sweetness.
+
+[^47]: The edition’s heading: even Māyā-devī longs to taste love for Kṛṣṇa; love for Kṛṣṇa is attained only by the mercy of the pure name and of one who chants the pure name.
+
+[^48]: The edition’s heading: by the power of *kṛṣṇa-kīrtana* all forms of the Godhead (*īśa-tattva*), beginning with Bhagavān Śrī Kṛṣṇa Himself, and all souls, moving and unmoving, become mad with love of Kṛṣṇa.
+
+[^49]: The same colophon verse as Antya 2.172; translation as there.
