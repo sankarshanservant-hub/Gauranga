@@ -852,7 +852,7 @@ by the mood of friendship  overcome  his heart  of a cowherd boy  an incarnation
 svarūpa-gosāñi-saha sakhya-vyavahāra  
 with Svarūpa Gosāñi  friendly  dealings
 
-(85) His heart was filled with the mood of friendship (sakhya); he was an incarnation of a cowherd boy, and he was a close friend of Svarūpa Gosāñi.
+(85) His heart was filled with the mood of friendship (sakhya): an incarnation of a cowherd boy, he was a close friend of Svarūpa Gosāñi.
 
 একান্তভাবে আশ্রিয়াছেন চৈতন্যচরণ ৷  
 মধ্যে মধ্যে প্রভুর তেঁহো করেন নিমন্ত্রণ ॥ ৮৬ ॥
