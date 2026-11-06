@@ -414,321 +414,401 @@ birth-giving  father  cannot  prārabdha  annul
 চৈতন্যপ্রভুর ‘বাতুল’ কে রাখিতে পারে ? ॥ ৪১ ॥
 
 caitanya-candrera kṛpā hañāche iṅhāre  
-caitanya-prabhura ‘bātula’ ke rākhite pāre?
+of Caitanyacandra  the mercy  has come  upon him  
+caitanya-prabhura ‘bātula’ ke rākhite pāre?  
+of Caitanya Prabhu  a madman  who  to keep  can
 
-(41) [not yet translated]
+(41) Caitanyacandra’s mercy has come upon him. Who can hold back a madman of Caitanya Prabhu?”
 
 তবে রঘুনাথ কিছু বিচারিলা মনে ৷  
 নিত্যানন্দ-গোসাঞির পাশ চলিলা আর দিনে ॥ ৪২ ॥
 
 tabe raghunātha kichu vicārilā mane  
-nityānanda-gosāñira pāśa calilā āra dine
+then  Raghunātha  something  considered  in his mind  
+nityānanda-gosāñira pāśa calilā āra dine  
+to Nityānanda Gosāñi  he went  the next  day
 
-(42) [not yet translated]
+(42) Then Raghunātha thought something over, and the next day he went to Nityānanda Gosāñi.
 
 পানিহাটি গ্রামে পাইলা প্রভুর দরশন ৷  
 কীর্ত্তনীয়া সেবক সঙ্গে আর বহুজন ॥ ৪৩ ॥
 
 pānihāṭi grāme pāilā prabhura daraśana  
-kīrtanīyā sevaka saṅge āra bahu-jana
+in Pāṇihāṭī  village  he received  the Lord’s  darśana  
+kīrtanīyā sevaka saṅge āra bahu-jana  
+kīrtana singers  servants  with (Him)  and  many people
 
-(43) [not yet translated]
+(43) In the village of Pāṇihāṭī he had *darśana* of the Lord, who was accompanied by *kīrtana* singers, servants and many others.
 
 গঙ্গাতীরে বৃক্ষ-মূলে পিণ্ডার উপরে ৷  
 বসিয়াছেন প্রভু, — যেন সূর্য্যোদয় করে ॥ ৪৪ ॥
 
 gaṅgā-tīre vṛkṣa-mūle piṇḍāra upare  
-vasiyāchena prabhu, — yena sūryodaya kare
+on the Gaṅgā’s bank  at the foot of a tree  a raised platform  upon  
+vasiyāchena prabhu, — yena sūryodaya kare  
+was sitting  the Lord  as if  sunrise  makes
 
-(44) [not yet translated]
+(44) On the bank of the Gaṅgā, at the foot of a tree, the Lord sat on a raised platform (*piṇḍā*), as if the sun were rising.
 
 তলে-উপরে বহুভক্ত হঞাছে বেষ্টিত ৷  
 দেখি’ প্রভুর প্রভাব রঘুনাথ — বিস্মিত ॥ ৪৫ ॥
 
 tale-upare bahu-bhakta hañāche veṣṭita  
-dekhi’ prabhura prabhāva raghunātha — vismita
+below and above  by many devotees  He was  surrounded  
+dekhi’ prabhura prabhāva raghunātha — vismita  
+seeing  the Lord’s  majesty  Raghunātha  astonished
 
-(45) [not yet translated]
+(45) Many devotees surrounded Him, below and on the platform. Seeing the Lord’s majesty, Raghunātha was astonished.
 
 দণ্ডবৎ হঞা পড়িলা কতদূরে ৷  
 সেবক কহে, — রঘুনাথ দণ্ডবৎ করে ॥ ৪৬ ॥
 
 daṇḍavat hañā paḍilā kata-dūre  
-sevaka kahe, — raghunātha daṇḍavat kare
+like a rod  becoming  he fell  at some distance  
+sevaka kahe, — raghunātha daṇḍavat kare  
+a servant  says  Raghunātha  obeisance  offers
 
-(46) [not yet translated]
+(46) He fell flat like a rod at some distance, and a servant said, “Raghunātha is offering obeisance.”
 
 শুনি’ প্রভু কহে, — চোরা দিলি দরশন ৷  
 আয়, আয়, আজি তোর করিমু দণ্ডন ॥ ৪৭ ॥
 
 śuni’ prabhu kahe, — corā dili daraśana  
-āya, āya, āji tora karimu daṇḍana
+hearing  the Lord  says  thief  you have given  darśana  
+āya, āya, āji tora karimu daṇḍana  
+come  come  today  your  I will make  punishment
 
-(47) [not yet translated]
+(47) Hearing this, the Lord said, “You thief, so you have shown yourself! Come here, come here — today I will punish you!”
 
 প্রভু বোলায়, তেঁহো নিকটে না করে গমন ৷  
 আকর্ষিয়া তাঁর মাথে প্রভু ধরিলা চরণ ॥ ৪৮ ॥
 
 prabhu bolāya, teṅho nikaṭe nā kare gamana  
-ākarṣiyā tāṅra māthe prabhu dharilā caraṇa
+the Lord  calls  he  near  not  does  going  
+ākarṣiyā tāṅra māthe prabhu dharilā caraṇa  
+drawing (him) near  on his  head  the Lord  placed  His feet
 
-(48) [not yet translated]
+(48) The Lord called him, but he did not come near. Then the Lord drew him close and placed His feet on his head.
 
 কৌতুকী নিত্যানন্দ সহজে দয়াময় ৷  
 রঘুনাথে কহে কিছু হঞা সদয় ॥ ৪৯ ॥
 
 kautukī nityānanda sahaje dayāmaya  
-raghunāthe kahe kichu hañā sadaya
+playful  Nityānanda  by nature  merciful  
+raghunāthe kahe kichu hañā sadaya  
+to Raghunātha  says  something  being  kind
 
-(49) [not yet translated]
+(49) Nityānanda, playful and merciful by nature, kindly said to Raghunātha:
 
 নিকটে না আইস, চোরা, ভাগ’ দূরে দূরে ৷  
 আজি লাগ্ পাঞাছি, দণ্ডিমু তোমারে ॥ ৫০ ॥
 
 nikaṭe nā āisa, corā, bhāga’ dūre dūre  
-āji lāg pāñāchi, daṇḍimu tomāre
+near  not  you come  thief  you run  far  away  
+āji lāg pāñāchi, daṇḍimu tomāre  
+today  hold of you  I have got  I will punish  you
 
-(50) [not yet translated]
+(50) “You don’t come near, thief; you keep running far away. Today I have caught you, and I will punish you.
 
 দধি, চিড়া ভক্ষণ করাহ মোর গণে ৷  
 শুনিয়া আনন্দ হৈল রঘুনাথের মনে ॥ ৫১ ॥
 
 dadhi, ciḍā bhakṣaṇa karāha mora gaṇe  
-śuniyā ānanda haila raghunāthera mane
+yogurt  flat rice  eating  make (them do)  My  associates  
+śuniyā ānanda haila raghunāthera mane  
+hearing  joy  arose  in Raghunātha’s  mind
 
-(51) [not yet translated]
+(51) Feed My associates *dadhi* and *ciḍā*, yogurt and flat rice.” Hearing this, Raghunātha’s heart filled with joy.
 
 সেইক্ষণে নিজ-লোক পাঠাইলা গ্রামে ৷  
 ভক্ষ্য-দ্রব্য লোক সব গ্রাম হৈতে আনে ॥ ৫২ ॥
 
 sei-kṣaṇe nija-loka pāṭhāilā grāme  
-bhakṣya-dravya loka saba grāma haite āne
+that moment  his own men  he sent  to the village  
+bhakṣya-dravya loka saba grāma haite āne  
+foodstuffs  the men  all  from the village  bring
 
-(52) [not yet translated]
+(52) At once he sent his men to the village, and they brought all kinds of food from there.
 
 চিড়া, দধি, দুগ্ধ, সন্দেশ, আর চিনি, কলা ৷  
 সব দ্রব্য আনাঞা চৌদিকে ধরিলা ॥ ৫৩ ॥
 
 ciḍā, dadhi, dugdha, sandeśa, āra cini, kalā  
-saba dravya ānāñā caudike dharilā
+flat rice  yogurt  milk  sweets  and  sugar  bananas  
+saba dravya ānāñā caudike dharilā  
+all  things  having brought  all around  he placed
 
-(53) [not yet translated]
+(53) He had *ciḍā*, *dadhi*, milk, *sandeśa*, sugar and bananas brought, and he set them out all around.
 
 ‘মহোৎসব’-নাম শুনি’ ব্রাহ্মণ-সজ্জন ৷  
 আসিতে লাগিল লোক অসংখ্য-গণন ॥ ৫৪ ॥
 
 ‘mahotsava’-nāma śuni’ brāhmaṇa-sajjana  
-āsite lāgila loka asaṅkhya-gaṇana
+the word ‘festival’  hearing  brāhmaṇas  gentlefolk  
+āsite lāgila loka asaṅkhya-gaṇana  
+to come  began  people  beyond counting
 
-(54) [not yet translated]
+(54) Hearing the word “festival,” *brāhmaṇas*, gentlefolk and countless people began to arrive.
 
 আর গ্রামান্তর হৈতে সামগ্রী আনিল ৷  
 শত দুই-চারি হোল্না আনাইল ॥ ৫৫ ॥
 
 āra grāmāntara haite sāmagrī ānila  
-śata dui-cāri holnā ānāila
+and  other villages  from  provisions  he brought  
+śata dui-cāri holnā ānāila  
+hundreds  two or four  clay pots  he had brought
 
-(55) [not yet translated]
+(55) He brought more provisions from other villages and had two to four hundred clay pots (*holnā*) brought.
 
 বড় বড় মৃৎকুণ্ডিকা আনাইল পাঁচ সাতে ৷  
 এক বিপ্র প্রভু লাগি’ চিড়া ভিজায় তাতে ॥ ৫৬ ॥
 
 baḍa baḍa mṛt-kuṇḍikā ānāila pāṅca sāte  
-eka vipra prabhu lāgi’ ciḍā bhijāya tāte
+very  large  earthen tubs  he had brought  five  or seven  
+eka vipra prabhu lāgi’ ciḍā bhijāya tāte  
+one  brāhmaṇa  the Lord  for  flat rice  soaks  in them
 
-(56) [not yet translated]
+(56) He also had five or seven very large earthen tubs brought, and in them one *brāhmaṇa* soaked *ciḍā* for the Lord.
 
 এক-ঠাঞি তপ্ত-দুগ্ধে চিড়া ভিজাঞা ৷  
 অর্দ্ধেক ছানিল দধি, চিনি, কলা দিয়া ॥ ৫৭ ॥
 
 eka-ṭhāñi tapta-dugdhe ciḍā bhijāñā  
-arddheka chānila dadhi, cini, kalā diyā
+in one place  in hot milk  flat rice  soaking  
+arddheka chānila dadhi, cini, kalā diyā  
+half  he mixed  yogurt  sugar  bananas  adding
 
-(57) [not yet translated]
+(57) In one place he soaked *ciḍā* in hot milk and mixed half of it with *dadhi*, sugar and bananas.
 
 আর অর্দ্ধেক ঘনাবৃত-দুগ্ধেতে ছানিল ৷  
 চাঁপাকলা, চিনি, ঘৃত, কর্পূর তাতে দিল ॥ ৫৮ ॥
 
 āra arddheka ghanāvṛta-dugdhete chānila  
-cāṅpā-kalā, cini, ghṛta, karpūra tāte dila
+and  the other half  with thickened milk  he mixed  
+cāṅpā-kalā, cini, ghṛta, karpūra tāte dila  
+cāṁpā bananas  sugar  ghee  camphor  into it  he put
 
-(58) [not yet translated]
+(58) The other half he mixed with thickened milk, adding *cāṁpā* bananas, sugar, ghee and camphor.
 
 ধুতি পরি’ প্রভু যদি পিণ্ডাতে বসিলা ৷  
 সাতকুণ্ডী বিপ্র তাঁর আগেতে ধরিলা ॥ ৫৯ ॥
 
 dhuti pari’ prabhu yadi piṇḍāte vasilā  
-sāta-kuṇḍī vipra tāṅra āgete dharilā
+a dhotī  putting on  the Lord  when  on the platform  sat  
+sāta-kuṇḍī vipra tāṅra āgete dharilā  
+the seven tubs  the brāhmaṇa  Him  before  placed
 
-(59) [not yet translated]
+(59) When the Lord, wearing a *dhotī*, sat on the platform, the *brāhmaṇa* set the seven tubs before Him.
 
 চবুতরা-উপরে যত প্রভুর নিজগণে ৷  
 বড় বড় লোক বসিলা মণ্ডলী-রচনে ॥ ৬০ ॥
 
 cabutarā-upare yata prabhura nija-gaṇe  
-baḍa baḍa loka vasilā maṇḍalī-racane
+the platform  upon  all  the Lord’s  own associates  
+baḍa baḍa loka vasilā maṇḍalī-racane  
+great  great  people  sat  forming circles
 
-(60) [not yet translated]
+(60) On the platform (*cabutarā*) all the Lord’s own associates and other eminent people sat in circles.
 
 রামদাস, সুন্দরানন্দ, দাস-গদাধর ৷  
 মুরারি, কমলাকর, সদাশিব, পুরন্দর ॥ ৬১ ॥
 
 rāmadāsa, sundarānanda, dāsa-gadādhara  
-murāri, kamalākara, sadāśiva, purandara
+Rāmadāsa  Sundarānanda  Gadādhara dāsa  
+murāri, kamalākara, sadāśiva, purandara  
+Murāri  Kamalākara  Sadāśiva  Purandara
 
-(61) [not yet translated]
+(61) Rāmadāsa, Sundarānanda, Gadādhara dāsa, Murāri, Kamalākara, Sadāśiva, Purandara,
 
 ধনঞ্জয়, জগদীশ, পরমেশ্বর-দাস ৷  
 মহেশ, গৌরীদাস, হোড়-কৃষ্ণদাস ॥ ৬২ ॥
 
 dhanañjaya, jagadīśa, parameśvara-dāsa  
-maheśa, gaurīdāsa, hoḍa-kṛṣṇadāsa
+Dhanañjaya  Jagadīśa  Parameśvara dāsa  
+maheśa, gaurīdāsa, hoḍa-kṛṣṇadāsa  
+Maheśa  Gaurīdāsa  Kṛṣṇadāsa Hoḍa
 
-(62) [not yet translated]
+(62) Dhanañjaya, Jagadīśa, Parameśvara dāsa, Maheśa, Gaurīdāsa, Kṛṣṇadāsa Hoḍa,
 
 উদ্ধারণ দত্ত আদি যত নিজ-জন ৷  
 উপরে বসিলা সব, কে করে গণন ? ॥ ৬৩ ॥
 
 uddhāraṇa datta ādi yata nija-jana  
-upare vasilā saba, ke kare gaṇana?
+Uddhāraṇa  Datta  and others  all  His own people  
+upare vasilā saba, ke kare gaṇana?  
+above  sat  all  who  does  counting
 
-(63) [not yet translated]
+(63) Uddhāraṇa Datta and all His other intimate associates sat on the platform. Who could count them?
 
 শুনি’ পণ্ডিত ভট্টাচার্য্য যত বিপ্র আইলা ৷  
 মান্য করি’ প্রভু সবারে উপরে বসাইলা ॥ ৬৪ ॥
 
 śuni’ paṇḍita bhaṭṭācārya yata vipra āilā  
-mānya kari’ prabhu sabāre upare vasāilā
+hearing  paṇḍitas  bhaṭṭācāryas  all  brāhmaṇas  came  
+mānya kari’ prabhu sabāre upare vasāilā  
+respect  showing  the Lord  all  above  seated
 
-(64) [not yet translated]
+(64) Hearing of it, all the *brāhmaṇas* came — *paṇḍitas* and *bhaṭṭācāryas* — and the Lord honored them all and seated them on the platform.
 
 দুই দুই মৃৎকুণ্ডিকা সবার আগে দিল ৷  
 একে দুগ্ধ-চিড়া, আরে দধি-চিড়া কৈল ॥ ৬৫ ॥
 
 dui dui mṛt-kuṇḍikā sabāra āge dila  
-eke dugdha-ciḍā, āre dadhi-ciḍā kaila
+two  two  earthen pots  everyone’s  before  he placed  
+eke dugdha-ciḍā, āre dadhi-ciḍā kaila  
+in one  milk and flat rice  in the other  yogurt and flat rice  he made
 
-(65) [not yet translated]
+(65) Two earthen pots were set before each of them: in one, *ciḍā* with milk; in the other, *ciḍā* with *dadhi*.
 
 আর যত লোক সব চৌতরা-তলানে ৷  
 মণ্ডলী-বন্ধে বসিলা, তার না হয় গণনে ॥ ৬৬ ॥
 
 āra yata loka saba cautarā-talāne  
-maṇḍalī-bandhe vasilā, tāra nā haya gaṇane
+other  all  people  all  below the platform  
+maṇḍalī-bandhe vasilā, tāra nā haya gaṇane  
+in circles  sat  of them  not  is  counting
 
-(66) [not yet translated]
+(66) All the other people sat in circles below the platform; there was no counting them.
 
 একেক জনারে দুই দুই হোল্না দিল ৷  
 দধি-চিড়া, দুগ্ধ-চিড়া, দুইতে ভিজাইল ॥ ৬৭ ॥
 
 ekeka janāre dui dui holnā dila  
-dadhi-ciḍā, dugdha-ciḍā, duite bhijāila
+to each  person  two  two  pots  he gave  
+dadhi-ciḍā, dugdha-ciḍā, duite bhijāila  
+yogurt and flat rice  milk and flat rice  in the two  he soaked
 
-(67) [not yet translated]
+(67) Each person was given two pots, and *ciḍā* was soaked in them, with *dadhi* in one and with milk in the other.
 
 কোন কোন বিপ্র উপরে স্থান না পাঞা ৷  
 দুই হোল্নায় চিড়া ভিজায় গঙ্গাতীরে গিয়া ॥ ৬৮ ॥
 
 kona kona vipra upare sthāna nā pāñā  
-dui holnāya ciḍā bhijāya gaṅgā-tīre giyā
+some  some  brāhmaṇas  above  place  not  finding  
+dui holnāya ciḍā bhijāya gaṅgā-tīre giyā  
+in two  pots  flat rice  soak  to the Gaṅgā’s bank  going
 
-(68) [not yet translated]
+(68) Some *brāhmaṇas*, finding no place on the platform, went to the bank of the Gaṅgā and soaked their *ciḍā* there in two pots.
 
 তীরে স্থান না পাঞা আর কত জন ৷  
 জলে নামি’ দধি-চিড়া করয়ে ভক্ষণ ॥ ৬৯ ॥
 
 tīre sthāna nā pāñā āra kata jana  
-jale nāmi’ dadhi-ciḍā karaye bhakṣaṇa
+on the bank  place  not  finding  other  some  people  
+jale nāmi’ dadhi-ciḍā karaye bhakṣaṇa  
+into the water  going down  yogurt and flat rice  do  eating
 
-(69) [not yet translated]
+(69) Others, finding no place even on the bank, went down into the water and ate their *ciḍā* and *dadhi* there.
 
 কেহ উপরে, কেহ তলে, কেহ গঙ্গাতীরে ৷  
 বিশজন তিন-ঠাঞি পরিবেশন করে ॥ ৭০ ॥
 
 keha upare, keha tale, keha gaṅgā-tīre  
-biśa-jana tina-ṭhāñi pariveśana kare
+some  above  some  below  some  on the Gaṅgā’s bank  
+biśa-jana tina-ṭhāñi pariveśana kare  
+twenty people  in the three places  serving  do
 
-(70) [not yet translated]
+(70) Some were on the platform, some below it and some on the bank of the Gaṅgā, and twenty people served in all three places.
 
 হেনকালে আইলা তথা রাঘব-পণ্ডিত ৷  
 হাসিতে লাগিলা দেখি’ হঞা বিস্মিত ॥ ৭১ ॥
 
 hena-kāle āilā tathā rāghava-paṇḍita  
-hāsite lāgilā dekhi’ hañā vismita
+at this time  came  there  Rāghava Paṇḍita  
+hāsite lāgilā dekhi’ hañā vismita  
+to laugh  he began  seeing  being  astonished
 
-(71) [not yet translated]
+(71) At that time Rāghava Paṇḍita arrived. Seeing all this, he was astonished and began to laugh.
 
 নি-সক্ড়ি নানামত প্রসাদ আনিলা ৷  
 প্রভুরে আগে দিয়া ভক্তগণে বাঁটি’ দিলা ॥ ৭২ ॥
 
 ni-sakḍi nānā-mata prasāda ānilā  
-prabhure āge diyā bhakta-gaṇe bāṅṭi’ dilā
+ni-sakḍi  of many kinds  prasāda  he brought  
+prabhure āge diyā bhakta-gaṇe bāṅṭi’ dilā  
+to the Lord  first  giving  to the devotees  distributing  gave
 
-(72) [not yet translated]
+(72) He brought many kinds of *ni-sakḍi prasāda* (food untouched by boiled rice). First he gave it to the Lord; then he distributed it among the devotees.
 
 প্রভুরে কহে, — তোমা লাগি’ ভোগ লাগাইল ৷  
 তুমি ইঁহা উৎসব কর, ঘরে প্রসাদ রহিল ॥ ৭৩ ॥
 
 prabhure kahe, — tomā lāgi’ bhoga lāgāila  
-tumi iṅhā utsava kara, ghare prasāda rahila
+to the Lord  he says  You  for  food  I have offered  
+tumi iṅhā utsava kara, ghare prasāda rahila  
+You  here  a festival  make  at home  the prasāda  remains
 
-(73) [not yet translated]
+(73) He said to the Lord, “I offered food for You, but You are holding a festival here, and the *prasāda* remains at home.”
 
 প্রভু কহে, — এ-দ্রব্য দিনে করিয়ে ভোজন ৷  
 রাত্র্যে তোমার ঘরে প্রসাদ করিমু ভক্ষণ ॥ ৭৪ ॥
 
 prabhu kahe, — e-dravya dine kariye bhojana  
-rātrye tomāra ghare prasāda karimu bhakṣaṇa
+the Lord  says  these  things  by day  let Me eat  
+rātrye tomāra ghare prasāda karimu bhakṣaṇa  
+at night  in your  house  prasāda  I will  eat
 
-(74) [not yet translated]
+(74) The Lord said, “Let Me eat this food by day; at night I will eat the *prasāda* in your house.
 
 গোপজাতি আমি বহু গোপগণ সঙ্গে ৷  
 আমি সুখ পাই এই পুলিনভোজন-রঙ্গে ॥ ৭৫ ॥
 
 gopa-jāti āmi bahu gopa-gaṇa saṅge  
-āmi sukha pāi ei pulina-bhojana-raṅge
+of cowherd caste  I  many  cowherds  with  
+āmi sukha pāi ei pulina-bhojana-raṅge  
+I  happiness  get  in this  sport of a picnic on the sandy bank
 
-(75) [not yet translated]
+(75) I am a cowherd by caste, and I have many cowherd boys with Me: I am happy in this sport of a picnic on the sandy riverbank.”
 
 রাঘবে বসাঞা দুই কুণ্ডী দেওয়াইলা ৷  
 রাঘব দ্বিবিধ চিড়া তাতে ভিজাইলা ॥ ৭৬ ॥
 
 rāghave vasāñā dui kuṇḍī deoyāilā  
-rāghava dvividha ciḍā tāte bhijāilā
+Rāghava  seating  two  tubs  He had given (him)  
+rāghava dvividha ciḍā tāte bhijāilā  
+Rāghava  two kinds  flat rice  in them  soaked
 
-(76) [not yet translated]
+(76) He seated Rāghava and had two tubs given to him, and Rāghava soaked two kinds of *ciḍā* in them.
 
 সকল-লোকের চিড়া পূর্ণ যবে হইল ৷  
 ধ্যানে তবে প্রভু মহাপ্রভুরে আনিল ॥ ৭৭ ॥
 
 sakala-lokera ciḍā pūrṇa yabe haila  
-dhyāne tabe prabhu mahāprabhure ānila
+of all  people  the flat rice  complete  when  was  
+dhyāne tabe prabhu mahāprabhure ānila  
+in meditation  then  the Lord  Mahāprabhu  brought
 
-(77) [not yet translated]
+(77) When everyone’s *ciḍā* was ready, the Lord, in meditation, brought Mahāprabhu there.
 
 মহাপ্রভু আইলা দেখি’ নিতাই উঠিলা ৷  
 তাঁরে লঞা সবার চিড়া দেখিতে লাগিলা ॥ ৭৮ ॥
 
 mahāprabhu āilā dekhi’ nitāi uṭhilā  
-tāṅre lañā sabāra ciḍā dekhite lāgilā
+Mahāprabhu  has come  seeing  Nitāi  rose  
+tāṅre lañā sabāra ciḍā dekhite lāgilā  
+Him  taking  everyone’s  flat rice  to see  He began
 
-(78) [not yet translated]
+(78) Seeing that Mahāprabhu had come, Nitāi rose and, taking Him along, went to look at everyone’s *ciḍā*.
 
 সকল কুণ্ডীর, হোল্নার চিড়ার এক এক গ্রাস ৷  
 মহাপ্রভুর মুখে দেন করি’ পরিহাস ॥ ৭৯ ॥
 
 sakala kuṇḍīra, holnāra ciḍāra eka eka grāsa  
-mahāprabhura mukhe dena kari’ parihāsa
+of all  the tubs  of the pots  of the flat rice  one  one  mouthful  
+mahāprabhura mukhe dena kari’ parihāsa  
+Mahāprabhu’s  into the mouth  He puts  making  a joke
 
-(79) [not yet translated]
+(79) From every tub and pot He took a mouthful of *ciḍā* and, joking, put it into Mahāprabhu’s mouth.
 
 হাসি’ মহাপ্রভু আর এক গ্রাস লঞা ৷  
 তাঁর মুখে দিয়া খাওয়ায় হাসিয়া হাসিয়া ॥ ৮০ ॥
 
 hāsi’ mahāprabhu āra eka grāsa lañā  
-tāṅra mukhe diyā khāoyāya hāsiyā hāsiyā
+smiling  Mahāprabhu  another  one  mouthful  taking  
+tāṅra mukhe diyā khāoyāya hāsiyā hāsiyā  
+His  into the mouth  putting  feeds (Him)  laughing  laughing
 
-(80) [not yet translated]
+(80) Smiling, Mahāprabhu took another mouthful, put it into Nitāi’s mouth, and fed Him, laughing and laughing.
 
 এইমত নিতাই বুলে সকল-মণ্ডলে ৷  
 দাণ্ডাঞা রঙ্গ দেখে বৈষ্ণব সকলে ॥ ৮১ ॥
@@ -2322,7 +2402,7 @@ seeing  Raghunātha’s  amazed  became  mind
 অদ্বৈত-আচার্য্য তাঁরে বহু কৃপা কৈলা ॥ ২৪৫ ॥
 
 raghunātha dāsa yabe sabāre mililā  
-Raghunātha dāsa  when  all  met  
+Raghunātha  dāsa  when  all  met  
 advaita-ācārya tāṅre bahu kṛpā kailā  
 Advaita Ācārya  to him  much  mercy  showed
 
@@ -2344,7 +2424,7 @@ you  to fetch  your  father  sent  ten  men
 tomāre pāṭhāite patrī pāṭhāila more  
 you  to send back  a letter  he sent  to me  
 jhāṅkarā haite tomā nā pāñā gela ghare  
-from Jhā̃karā  you  not  finding  they went  home
+Jhā̃karā  from  you  not  finding  they went  home
 
 (247) He sent me a letter asking me to send you back. Not finding you, they turned back home from Jhā̃karā.”
 
@@ -2414,7 +2494,7 @@ a moment  even  not  leaves  the Lord’s  feet
 parama vairāgya tāṅra, nāhi bhakṣya-paridhāna  
 utmost  renunciation  his  no  food  clothing  
 yaiche taiche āhāra kari’ rākhaye parāṇa  
-somehow or other  eating  keeps  life
+somehow  or other  food  taking  keeps  life
 
 (254) His renunciation is complete: he has no concern for food or clothing. Eating whatever comes somehow or other, he keeps himself alive.
 
@@ -2464,7 +2544,7 @@ the son  to  goods and men  sent
 cāri-śata mudrā, dui bhṛtya, eka brāhmaṇa  
 four  hundred  coins  two  servants  one  brāhmaṇa  
 śivānandera ṭhāñi pāṭhāila tata-kṣaṇa  
-to Śivānanda  they sent  at once
+of Śivānanda  to  they sent  at once
 
 (259) At once they sent four hundred coins, two servants and a *brāhmaṇa* to Śivānanda.
 
