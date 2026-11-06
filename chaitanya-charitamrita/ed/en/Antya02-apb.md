@@ -16,7 +16,13 @@ The Lord delivers the *jīvas* in three ways: to some He gives direct *darśana*
 
 **Āmbuyā-muluk.** In those days the land was divided into districts (*muluks*), and in various places the Yavana rulers had revenue offices (*tahśil-kāchāri*). There was one such *muluk* at a place called Ambikā (a village adjoining the town of Kālnā in Barddhamāna district). Within its bounds, at the place now known as Piyārīgañja, lived Nakula Brahmacārī.
 
+## 31
 
+**Gaura-Gopāla-mantra.** Those devoted to Gaura (*gaura-vādīs*) take this word to mean the four-syllable mantra of Gaura, “Gaurāṅga.” Those who hold to Kṛṣṇa alone (*kevala-kṛṣṇa-vādīs*) take the word “Gaura-Gopāla-mantra” to mean the four-syllable mantra of Rādhā-Kṛṣṇa.
+
+## 44
+
+***Sandeśa*** — news.
 
 ---
 

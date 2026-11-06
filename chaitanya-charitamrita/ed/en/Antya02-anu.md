@@ -51,3 +51,107 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 ## 20
 
 ***Sarva-gauḍa-deśa*** — all the people of Gauḍa (the Gauḍīyas).
+
+## 21
+
+> Subheading: The Brahmacārī's instruction —
+
+***Premoddāma*** — intoxicated with *prema*.
+
+## 23
+
+> Subheading: Śivānanda's doubt and his wish to test the Brahmacārī —
+
+## 24
+
+> Subheading: Śivānanda's reasoning; he stays at a distance —
+
+## 27
+
+> Subheading: The Brahmacārī sends people to bring Śivānanda —
+
+## 29
+
+> Subheading: Śivānanda comes quickly —
+
+## 30
+
+> Subheading: Śivānanda's doubt is dispelled —
+
+## 31
+
+***Antara*** — in the mind.
+
+## 32
+
+> Subheading: Śivānanda is convinced —
+
+## 34
+
+> Subheading: The four places where the Lord, drawn by love, displays His “constant” appearance —
+
+## 36
+
+> Subheading: An example of an “appearance” that happens only now and then: the story of Pradyumna, or Nṛsiṁha Brahmacārī —
+
+## 37
+
+> Subheading: The story of Śrīkānta Sena; he goes alone to Śrī Kṣetra to see the Lord —
+
+## 38
+
+***Ekeśvara*** — alone, without servants.
+
+## 39
+
+> Subheading: The Lord's mercy to him, and His order —
+
+## 40
+
+> Subheading: The Lord forbids the Gauḍīya devotees to come to Purī —
+
+***Ihāke*** — here, to Śrī Puruṣottama-kṣetra.
+
+## 41
+
+> Subheading: The Lord promises to come to Gauḍa Himself in the month of Pauṣa —
+
+***Tāṅhā*** — in Gauḍa.
+
+## 44
+
+> Subheading: Śrīkānta comes to Gauḍa and makes known the Lord's order; the devotees joyfully stay in Gauḍa —
+
+***Sandeśa*** — the news that the Lord would come to Gauḍa in the coming month of Pauṣa.
+
+## 45
+
+> Subheading: Śivānanda and Jagadānanda wait for the Lord every day —
+
+**Ācārya** — Śrī Advaita Prabhu.
+
+## 47
+
+> Subheading: The Lord does not come, and both are saddened —
+
+***Gosāñi*** — Mahāprabhu.
+
+## 48
+
+> Subheading: Pradyumna Brahmacārī arrives and asks why they are sad —
+
+## 50
+
+> Subheading: Śivānanda tells him everything —
+
+## 51
+
+> Subheading: Pradyumna reassures and comforts them —
+
+## 52
+
+> Subheading: The faith of both, Śivānanda and Jagadānanda —
+
+## 53
+
+> Subheading: Why he was called “Nṛsiṁhānanda” —
