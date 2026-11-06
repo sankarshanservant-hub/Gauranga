@@ -616,177 +616,221 @@ those  topics  in order  you  please tell  me
 আমি ত’ ভিক্ষুক বিপ্র, তুমি — মোর পোষ্টা ॥ ৬১ ॥
 
 ānera ki kathā, tumi — prabhura upadeṣṭā!  
-āmi ta’ bhikṣuka vipra, tumi — mora poṣṭā
+of others  what  talk  you  of the Lord  the instructor  
+āmi ta’ bhikṣuka vipra, tumi — mora poṣṭā  
+I  indeed  a mendicant  brāhmaṇa  you  my  sustainer
 
-(61) [not yet translated]
+(61) What to speak of others — you are the instructor of the Lord! I am only a mendicant *brāhmaṇa*, and you are my sustainer.
 
 ভাল, মন্দ — কিছু আমি পুছিতে না জানি ৷  
 ‘দীন’ দেখি’ কৃপা করি’ কহিবা আপনি ॥ ৬২ ॥
 
 bhāla, manda — kichu āmi puchite nā jāni  
-‘dīna’ dekhi’ kṛpā kari’ kahibā āpani
+good  bad  anything  I  to ask  not  know  
+‘dīna’ dekhi’ kṛpā kari’ kahibā āpani  
+wretched  seeing  mercy  showing  please tell  yourself
 
-(62) [not yet translated]
+(62) Good or bad, I do not know how to ask anything. Seeing how wretched I am, be merciful and tell me yourself.”
 
 তবে রামানন্দ ক্রমে কহিতে লাগিলা ৷  
 কৃষ্ণকথা-রসামৃত-সিন্ধু উথলিলা ॥ ৬৩ ॥
 
 tabe rāmānanda krame kahite lāgilā  
-kṛṣṇa-kathā-rasāmṛta-sindhu uthalilā
+then  Rāmānanda  in order  to speak  began  
+kṛṣṇa-kathā-rasāmṛta-sindhu uthalilā  
+the ocean of the nectar of rasa in talks about Kṛṣṇa  surged
 
-(63) [not yet translated]
+(63) Then Rāmānanda began to speak, step by step, and the ocean of the nectar of *rasa* in talks about Kṛṣṇa surged up.
 
 আপনে প্রশ্ন করি’ পাছে করেন সিদ্ধান্ত ৷  
 তৃতীয় প্রহর হৈল, নহে কথা-অন্ত ॥ ৬৪ ॥
 
 āpane praśna kari’ pāche karena siddhānta  
-tṛtīya prahara haila, nahe kathā-anta
+himself  question  raising  afterward  he makes  conclusion  
+tṛtīya prahara haila, nahe kathā-anta  
+the third  prahara  came  there is not  of the talk  end
 
-(64) [not yet translated]
+(64) He himself raised the questions and then gave the conclusions. The third watch (*prahara*) of the day came, and still the talk did not end.
 
 বক্তা শ্রোতা কহে শুনে দুঁহে প্রেমাবেশে ৷  
 আত্মস্মৃতি নাহি, কাঁহা জানে দিন শেষে ॥ ৬৫ ॥
 
 vaktā śrotā kahe śune duṅhe premāveśe  
-ātmasmṛti nāhi, kāṅhā jāne dina śeṣe
+the speaker  the listener  speaks  hears  both  in the absorption of prema  
+ātmasmṛti nāhi, kāṅhā jāne dina śeṣe  
+self-awareness  there is not  how  they know  of the day  the end
 
-(65) [not yet translated]
+(65) Speaker and listener, one speaking and the other hearing, were both absorbed in *prema*. They had no awareness of themselves — how could they know the day had ended?
 
 সেবক কহিল, — ‘দিন হৈল অবসান’ ৷  
 তবে রায় কৃষ্ণকথার করিলা বিশ্রাম ॥ ৬৬ ॥
 
 sevaka kahila, — ‘dina haila avasāna’  
-tabe rāya kṛṣṇakathāra karilā viśrāma
+the servant  said  the day  has come  to an end  
+tabe rāya kṛṣṇakathāra karilā viśrāma  
+then  Rāya  to the talk about Kṛṣṇa  made  a pause
 
-(66) [not yet translated]
+(66) When the servant said, “The day is over,” Rāya brought the talk about Kṛṣṇa to a pause.
 
 বহুসম্মান করি’ মিশ্রে বিদায় দিলা ৷  
 কৃতার্থ হইলাঙ বলি’ মিশ্র নাচিতে লাগিলা ॥ ৬৭ ॥
 
 bahu-sammāna kari’ miśre vidāya dilā  
-kṛtārtha hailāṅa bali’ miśra nācite lāgilā
+great respect  showing  to Miśra  leave  he gave  
+kṛtārtha hailāṅa bali’ miśra nācite lāgilā  
+fulfilled  I have become  saying  Miśra  to dance  began
 
-(67) [not yet translated]
+(67) With great respect he bade Miśra farewell, and Miśra, crying, “My life is fulfilled!” began to dance.
 
 ঘরে গিয়া মিশ্র কৈল স্নান, ভোজন ৷  
 সন্ধ্যাকালে দেখিতে আইল প্রভুর চরণ ॥ ৬৮ ॥
 
 ghare giyā miśra kaila snāna, bhojana  
-sandhyākāle dekhite āila prabhura caraṇa
+home  going  Miśra  did  bathing  eating  
+sandhyākāle dekhite āila prabhura caraṇa  
+in the evening  to see  he came  of the Lord  the feet
 
-(68) [not yet translated]
+(68) Miśra went home, bathed and took his meal, and in the evening he came to see the Lord’s feet.
 
 প্রভুর চরণ বন্দে উল্লসিত-মনে ৷  
 প্রভু কহে, — কৃষ্ণকথা হইল শ্রবণে ? ॥ ৬৯ ॥
 
 prabhura  caraṇa  vande  ullasita-mane  
-prabhu kahe, — kṛṣṇa-kathā haila śravaṇe?
+the Lord’s  feet  he worships  with a joyful mind  
+prabhu kahe, — kṛṣṇa-kathā haila śravaṇe?  
+the Lord  says  talks about Kṛṣṇa  was there  hearing
 
-(69) [not yet translated]
+(69) With a joyful heart he bowed at the Lord’s feet, and the Lord asked, “Did you hear about Kṛṣṇa?”
 
 মিশ্র কহে, — প্রভু, মোরে কৃতার্থ করিলা ৷  
 কৃষ্ণকথামৃতার্ণবে মোরে ডুবাইলা ॥ ৭০ ॥
 
 miśra kahe, — prabhu, more kṛtārtha karilā  
-kṛṣṇa-kathāmṛtārṇave more ḍubāilā
+Miśra  says  O Lord  me  fulfilled  You have made  
+kṛṣṇa-kathāmṛtārṇave more ḍubāilā  
+in the ocean of the nectar of talks about Kṛṣṇa  me  You have plunged
 
-(70) [not yet translated]
+(70) Miśra said, “O Lord, You have fulfilled my life! You have plunged me into the ocean of the nectar of talks about Kṛṣṇa.
 
 রামানন্দ-রায়-কথা কহিলে না হয় ৷  
 ‘মনুষ্য’ নহে রায়, কৃষ্ণভক্তিরসময় ॥ ৭১ ॥
 
 rāmānanda-rāya-kathā  kahile  nā haya  
-‘manuṣya’ nahe rāya, kṛṣṇa-bhakti-rasa-maya
+of Rāmānanda Rāya  the words  if told  not  it is possible  
+‘manuṣya’ nahe rāya, kṛṣṇa-bhakti-rasa-maya  
+a human being  is not  Rāya  made of the rasa of devotion to Kṛṣṇa
 
-(71) [not yet translated]
+(71) The words of Rāmānanda Rāya cannot be retold. Rāya is not a mere human being; he is made of the *rasa* of devotion to Kṛṣṇa.
 
 আর এক কথা রায় কহিলা আমারে ৷  
 ‘কৃষ্ণকথা-বক্তা করি’ না জানিহ মোরে ॥ ৭২ ॥
 
 āra  eka  kathā  rāya  kahilā  āmāre  
-‘kṛṣṇa-kathā-vaktā kari’ nā jāniha more
+another  one  thing  Rāya  told  me  
+‘kṛṣṇa-kathā-vaktā kari’ nā jāniha more  
+of talks about Kṛṣṇa  the speaker  as  not  consider  me
 
-(72) [not yet translated]
+(72) Rāya told me one thing more: ‘Do not think of me as the speaker of these talks about Kṛṣṇa.
 
 মোর মুখে কথা কহেন আপনে গৌরচন্দ্র ৷  
 যৈছে কহায়, তৈছে কহি, — যেন বীণাযন্ত্র ॥ ৭৩ ॥
 
 mora mukhe kathā kahena āpane gauracandra  
-yaiche kahāya, taiche kahi, — yena vīṇā-yantra
+by my  mouth  words  speaks  Himself  Gauracandra  
+yaiche kahāya, taiche kahi, — yena vīṇā-yantra  
+as  He makes me speak  so  I speak  like  a vīṇā instrument
 
-(73) [not yet translated]
+(73) Gauracandra Himself speaks these words through my mouth. As He makes me speak, so I speak, like a *vīṇā*.
 
 মোর মুখে কথা ইঁহা, করে পরচার ৷  
 পৃথিবীতে কে জানিবে এ-লীলা তাঁহার ? ॥ ৭৪ ॥
 
 mora mukhe kathā iṅhā, kare paracāra  
-pṛthivīte ke jānibe e-līlā tāṅhāra?
+by my  mouth  the words  He  makes  known  
+pṛthivīte ke jānibe e-līlā tāṅhāra?  
+in the world  who  will know  this pastime  His
 
-(74) [not yet translated]
+(74) Through my mouth He makes these words known. Who in this world will understand this pastime of His?’
 
 যে-সব শুনিলুঁ, কৃষ্ণ — রসের সাগর ৷  
 ব্রহ্মাদি-দেবের এ সব না হয় গোচর ॥ ৭৫ ॥
 
 ye-saba śuniluṅ, kṛṣṇa — rasera sāgara  
-brahmādi-devera e saba nā haya gocara
+all that  I heard  Kṛṣṇa  of rasa  the ocean  
+brahmādi-devera e saba nā haya gocara  
+to Brahmā and the other gods  this  all  not  is  perceptible
 
-(75) [not yet translated]
+(75) All that I heard — that Kṛṣṇa is the ocean of *rasa* — lies beyond the reach even of Brahmā and the other gods.
 
 হেন ‘রস’ মোরে পান করাইলা তুমি ৷  
 জন্মে জন্মে তোমার পায় বিকাইলাঙ আমি ॥ ৭৬ ॥
 
 hena ‘rasa’ more pāna karāilā tumi  
-janme janme tomāra pāya vikāilāṅa āmi
+such  rasa  me  to drink  made  You  
+janme janme tomāra pāya vikāilāṅa āmi  
+birth  after birth  Your  at the feet  sold myself  I
 
-(76) [not yet translated]
+(76) You have made me drink such *rasa*; birth after birth I have sold myself at Your feet.”
 
 প্রভু কহে, — রামানন্দ বিনয়ের খনি ৷  
 আপনার কথা পরমুণ্ডে দেন আনি ॥ ৭৭ ॥
 
 prabhu kahe, — rāmānanda vinayera khani  
-āpanāra kathā para-muṇḍe dena āni
+the Lord  says  Rāmānanda  of humility  a mine  
+āpanāra kathā para-muṇḍe dena āni  
+his own  words  on another’s head  he places  bringing
 
-(77) [not yet translated]
+(77) The Lord said, “Rāmānanda is a mine of humility. He takes his own words and places them on another’s head.
 
 মহানুভবের এই সহজ ‘স্বভাব’ হয় ৷  
 আপনার গুণ নাহি আপনে কহয় ॥ ৭৮ ॥
 
 mahānubhavera ei sahaja ‘svabhāva’ haya  
-āpanāra guṇa nāhi āpane kahaya
+of great souls  this  natural  disposition  is  
+āpanāra guṇa nāhi āpane kahaya  
+their own  qualities  not  themselves  they tell
 
-(78) [not yet translated]
+(78) This is the natural disposition of great souls: they never speak of their own qualities.”
 
 রামানন্দ-রায়ের এই কহিলুঁ গুণ-লেশ ৷  
 প্রদ্যুম্ন-মিশ্রেরে যৈছে কৈলা উপদেশ ॥ ৭৯ ॥
 
 rāmānanda-rāyera ei kahiluṅ guṇa-leśa  
-pradyumna-miśrere yaiche kailā upadeśa
+of Rāmānanda Rāya  this  I have told  of qualities  a trace  
+pradyumna-miśrere yaiche kailā upadeśa  
+to Pradyumna Miśra  how  he gave  instruction
 
-(79) [not yet translated]
+(79) Thus I have told a trace of Rāmānanda Rāya’s qualities: how he instructed Pradyumna Miśra.
 
 ‘গৃহস্থ’ হঞা নহে রায় ষড়্-বর্গের বশে ৷  
 ‘বিষয়ী’ হঞা সন্ন্যাসীরে উপদেশে ॥ ৮০ ॥
 
 ‘gṛhastha’ hañā nahe rāya ṣaḍ-vargera vaśe  
-‘viṣayī’ hañā sannyāsīre upadeśe
+a householder  being  not  Rāya  of the six enemies  under the control  
+‘viṣayī’ hañā sannyāsīre upadeśe  
+a worldly man  being  sannyāsīs  he instructs
 
-(80) [not yet translated]
+(80) Though a householder, Rāya is not under the control of the six enemies (*ṣaḍ-varga*); though seemingly a worldly man (*viṣayī*), he instructs *sannyāsīs*.
 
 এইসব গুণ তাঁর প্রকাশ করিতে ৷  
 মিশ্রেরে পাঠাইলা তাঁহা শ্রবণ করিতে ॥ ৮১ ॥
 
 eisaba guṇa tāṅra prakāśa karite  
-miśrere pāṭhāilā tāṅhā śravaṇa karite
+all these  qualities  his  manifest  to make  
+miśrere pāṭhāilā tāṅhā śravaṇa karite  
+Miśra  He sent  there  hearing  to do
 
-(81) [not yet translated]
+(81) To reveal all these qualities of his, the Lord sent Miśra there to hear.
 
 ভক্তগুণ প্রকাশিতে প্রভু ভাল জানে ৷  
 নানা-ভঙ্গীতে প্রকাশি’ নিজ লাভ মানে ॥ ৮২ ॥
 
 bhakta-guṇa prakāśite prabhu bhāla jāne  
-nānā-bhaṅgīte prakāśi’ nija lābha māne
+the devotee’s qualities  to reveal  the Lord  well  knows  
+nānā-bhaṅgīte prakāśi’ nija lābha māne  
+in various ways  revealing  His own  gain  He considers
 
-(82) [not yet translated]
+(82) The Lord knows well how to reveal the qualities of His devotees; revealing them in various ways, He considers it His own gain.
 
 আর এক ‘স্বভাব’ গৌরের শুন, ভক্তগণ ৷  
 গূঢ় ঐশ্বর্য্য-স্বভাব করে প্রকটন ॥ ৮৩ ॥

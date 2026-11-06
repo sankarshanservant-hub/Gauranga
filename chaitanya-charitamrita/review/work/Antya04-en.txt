@@ -11,12 +11,14 @@ w: from Vṛndāvana  again  who had come
 w: Śrī Gaura  Śrī Sanātana
 w: from the fall of the body  protecting  out of affection
 w: pure  made  by a test
-tr: When Śrī Sanātana came again from Vṛndāvana, Śrī Gaura, out of affection, saved him from giving up his body and, by a test, made him pure.
+tr: When Śrī Sanātana came again from Vṛndāvana, Śrī Gaura, out of love, saved him from giving up his body and, by a test, made him pure.
+fn: Edition heading: “Gaurasundara saves Sanātana from his resolve to give up the body.” *Śuddhaṁ cakre parīkṣayā* — “by a test He made him pure”; the healing of his body (201) is its visible sign.
 
 ## 2
 w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
-w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
-tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2 (= Ādi 1.18, 17.2, Antya 2.2); translation as there.
 
 ## 3
 w: Nīlācala  from  Rūpa  to Gauḍa  when  went
@@ -26,22 +28,23 @@ tr: When Rūpa went from Nīlācala to Gauḍa, Sanātana came from Mathurā to 
 ## 4
 w: by the Jhārikhaṇḍa forest path  he came  alone  walking
 w: sometimes  fasting  sometimes  chewing  doing
-tr: He came alone, on foot, by the forest path through Jhārikhaṇḍa, sometimes fasting, sometimes eating only a little dry food to chew.
+tr: He came alone, on foot, by the forest path through Jhārikhaṇḍa, sometimes fasting, sometimes eating a little dry food.
 
 ## 5
 w: of Jhārikhaṇḍa  of the water  through the fault  fasting  from
 w: on the body  sores  appeared  fluid  oozes  on scratching
-tr: Because of the bad water of Jhārikhaṇḍa and from fasting, sores broke out on his body, and when he scratched them, fluid oozed from them.
+tr: Because of the bad water of Jhārikhaṇḍa and his fasting, itching sores broke out on his body, and fluid oozed from them when he scratched.
 
 ## 6
 w: detachment  arose  on the way  he makes  reflection
 w: low  birth  body  my  utterly  worthless
 tr: On the way a mood of detachment (*nirveda*) arose in him, and he reflected: “I am of low birth, and my body is utterly worthless.
+fn: *Anubhāṣya*: *nirveda* — detachment (*virakti*), not worldly despair; *asāra* — unfit for the service of Kṛṣṇa.
 
 ## 7
 w: to Jagannātha  if I go  His  sight  not  I shall obtain
 w: of the Lord  sight  always  to have  I shall not be able
-tr: If I go to Jagannātha, I shall not obtain His *darśana*, nor shall I be able to see the Lord at all times.
+tr: If I go to Jagannātha, I shall not obtain His darśana, nor shall I be able to see the Lord at all times.
 
 ## 8
 w: the temple  near  I hear  His  residence  situated
@@ -51,7 +54,7 @@ tr: I hear that His residence is near the temple, but I have no power to go near
 ## 9
 w: of Jagannātha  the servants  move about  of their duties  at the demand
 w: their  touch  if there is  my  there will be  offense
-tr: The servants of Jagannātha move about there on their duties; if I touch them, I shall be guilty of an offense.
+tr: The servants of Jagannātha move about there on their duties; if I touch them, I shall be guilty of an offence.
 
 ## 10
 w: therefore  if  this  body  in a good place  I give
@@ -76,7 +79,7 @@ tr: Having made this resolve, he came to Nīlācala and, asking people the way, 
 ## 14
 w: of Haridāsa  made  he  of the feet  worship
 w: knowing (him)  Haridāsa  him  made  embrace
-tr: He bowed down at the feet of Haridāsa, and Haridāsa, recognizing him, embraced him.
+tr: He bowed down at the feet of Haridāsa, and Haridāsa, recognising him, embraced him.
 
 ## 15
 w: Mahāprabhu  to see  his  eager  mind
@@ -142,6 +145,7 @@ tr: The Lord said, “Rūpa was here for ten months. He left here for Gauḍa te
 w: your  brother  of Anupama  took place  attainment of the Gaṅgā
 w: good  he was  in Raghunātha  firm  his  devotion
 tr: Your brother Anupama has departed from this world on the bank of the Gaṅgā. He was a good soul; his devotion to Raghunātha (Śrī Rāma) was firm.”
+fn: *Gaṅgā-prāpti*, “attaining the Gaṅgā”: departing from the world on the bank of the Gaṅgā (*Amṛta-pravāha-bhāṣya*, summary of the chapter).
 
 ## 28
 w: Sanātana  says  in a low  family  my  birth
@@ -159,9 +163,9 @@ w: Raghunātha  worship  does  with a firm mind
 tr: From his childhood my brother Anupama worshipped Raghunātha with a firm mind.
 
 ## 31
-w: night  and day  of Raghunātha  the ‘Name’  and  ‘meditation’
+w: night  and day  of Raghunātha  the ‘name’  and  ‘meditation’
 w: the Rāmāyaṇa  incessantly  he hears  makes  singing
-tr: Night and day he chanted the Name of Raghunātha and meditated on Him; incessantly he heard the *Rāmāyaṇa* and sang it.
+tr: Night and day he chanted the name of Raghunātha and meditated on Him; incessantly he heard the *Rāmāyaṇa* and sang it.
 
 ## 32
 w: I  and  Rūpa  his  elder  brothers
@@ -241,7 +245,7 @@ tr: Blessed is the devotee who does not leave the feet of his master, and blesse
 ## 47
 w: by misfortune  a servant  if  goes  to another place
 w: that  master  blessed  him  by the hair  seizing  brings back
-tr: If by misfortune a servant goes elsewhere, blessed is the master who seizes him by the hair and brings him back.
+tr: And if by misfortune a servant goes elsewhere, blessed is the master who seizes him by the hair and brings him back.
 
 ## 48
 w: good  it was  your  here  took place  coming
@@ -250,13 +254,13 @@ tr: It is good that you have come here. Stay here in this house with Haridāsa.
 
 ## 49
 w: in the rasa of devotion to Kṛṣṇa  you both  supremely  foremost
-w: Kṛṣṇa’s rasa  relishing  do  take  Kṛṣṇa’s Name
-tr: You are both supremely eminent in the *rasa* of devotion to Kṛṣṇa. Relish the *rasa* of Kṛṣṇa and chant the Name of Kṛṣṇa.”
+w: Kṛṣṇa’s rasa  relishing  do  take  Kṛṣṇa’s name
+tr: You are both supremely eminent in the rasa of devotion to Kṛṣṇa. Relish the rasa of Kṛṣṇa and chant the name of Kṛṣṇa.”
 
 ## 50
 w: so  saying  Mahāprabhu  rising  departed
 w: through Govinda  to both  prasāda  He sent
-tr: Having said this, Mahāprabhu rose and left, and He sent *prasāda* to both of them through Govinda.
+tr: Having said this, Mahāprabhu rose and left, and He sent prasāda to both of them through Govinda.
 
 ## 51
 w: in this way  Sanātana  stays  near the Lord
@@ -271,7 +275,7 @@ tr: Every day the Lord came and met them both, and for a while He spoke intimate
 ## 53
 w: divine  prasāda  receiving  daily  in Jagannātha’s temple
 w: that  bringing  daily  without fail  gives  to both
-tr: Every day He received the divine *prasāda* in the temple of Jagannātha, and every day without fail He brought it and gave it to them both.
+tr: Every day He received the divine prasāda in the temple of Jagannātha, and every day without fail He brought it and gave it to them both.
 
 ## 54
 w: one day  coming  the Lord  the two  met
@@ -282,11 +286,12 @@ tr: One day the Lord came and met them both, and suddenly began to speak to San�
 w: Sanātana  by giving up the body  Kṛṣṇa  if  one obtains
 w: millions of bodies  in a moment  then  to give up  one could
 tr: “Sanātana, if Kṛṣṇa could be attained by giving up the body, I would give up millions of bodies in a moment.
+fn: *Deha-tyāga* — “giving up the body”. Edition heading to 55: addressing Sanātana, the Lord teaches the sādhaka who is not yet free of anarthas and is led by his own mind: false (*phalgu*) knowledge and false renunciation are no means of attaining Kṛṣṇa.
 
 ## 56
 w: by giving up the body  Kṛṣṇa  not  one obtains  one obtains  by worship
 w: of attaining Kṛṣṇa  means  any  there is not  ‘devotion’  without
-tr: One does not attain Kṛṣṇa by giving up the body; one attains Him by worship. There is no means of attaining Kṛṣṇa except *bhakti*.
+tr: One does not attain Kṛṣṇa by giving up the body; one attains Him by worship. There is no means of attaining Kṛṣṇa except bhakti.
 
 ## 57
 w: giving up the body and the like  whatever  all  the nature of darkness
@@ -296,7 +301,7 @@ tr: Giving up the body and all such acts are of the nature of darkness (*tamo-dh
 ## 58
 w: ‘devotion’  without  for Kṛṣṇa  ever  not  ‘love’s awakening’
 w: love  without  attainment of Kṛṣṇa  anything else  from  is not
-tr: Without *bhakti*, love for Kṛṣṇa never awakens; and without love, Kṛṣṇa is not attained by any other means.
+tr: Without bhakti, love for Kṛṣṇa never awakens; and without love, Kṛṣṇa is not attained by any other means.
 
 ## 59
 w: not  wins  Me  yoga
@@ -304,6 +309,7 @@ w: not  sāṅkhya  dharma  O Uddhava
 w: not  Vedic study  austerity  renunciation
 w: as  devotion  to Me  intense
 tr: (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation can win Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)
+fn: The same verse as Ādi 17.76 (= Madhya 20.137); translation as there. The *Anubhāṣya* refers to Ādi 17.76.
 
 ## 60
 w: giving up the body and the like  the nature of darkness  the cause of sin
@@ -332,7 +338,7 @@ w: sprinkle  O dear one  our  Your  lips’  nectar  with the flood
 w: smiling glance  sweet  song  born of  love’s desire  the fire
 w: not  if  we  by the fire born of separation  consumed  bodies
 w: by meditation  we shall go  of the feet  to the place  O friend  Your
-tr: (The *gopīs* said:) “O dear one, with the flood of nectar from Your lips quench the fire of love’s desire that Your smiling glances and sweet song have kindled in our hearts. Otherwise, O friend, our bodies consumed by the fire of separation, we shall reach the place of Your feet by meditation.” (Śrīmad-Bhāgavatam, 10.29.35)
+tr: (The gopīs said:) “O dear one, with the flood of nectar from Your lips quench the fire of love’s desire that Your smiling glances and sweet song have kindled in our hearts. Otherwise, O friend, our bodies consumed by the fire of separation, we shall reach the place of Your feet by meditation.” (Śrīmad-Bhāgavatam, 10.29.35)
 
 ## 65
 w: wicked intelligence  giving up  do  hearing and chanting
@@ -342,7 +348,7 @@ tr: Give up this wicked intelligence (*kubuddhi*) and engage in hearing and chan
 ## 66
 w: one of low birth  is not  for the worship of Kṛṣṇa  unfit
 w: a brāhmaṇa of good family  is not  for worship  fit
-tr: One of low birth is not unfit for the worship of Kṛṣṇa, nor is a *brāhmaṇa* of good family fit for it by that alone.
+tr: One of low birth is not unfit for the worship of Kṛṣṇa, nor is a brāhmaṇa of good family fit for it by that alone.
 
 ## 67
 w: whoever  worships  he  is great  the non-devotee  low  contemptible
@@ -364,12 +370,12 @@ tr: “I consider a dog-eater whose mind, words, deeds, wealth and very life are
 ## 70
 w: of the forms of worship  among  the best  ninefold  devotion
 w: ‘love for Kṛṣṇa’  ‘Kṛṣṇa’  to give  holds  great power
-tr: Among the forms of worship the best is the ninefold *bhakti*: it has great power to bestow love for Kṛṣṇa and Kṛṣṇa Himself.
+tr: Among the forms of worship the best is the ninefold bhakti: it has great power to bestow love for Kṛṣṇa and Kṛṣṇa Himself.
 
 ## 71
-w: of them  among  the best of all  the chanting of the Name
-w: without offense  the Name  if one takes  obtains  the treasure of love
-tr: Of these the best of all is *nāma-saṅkīrtana*. One who chants the Name without offense obtains the treasure of love.”
+w: of them  among  the best of all  the chanting of the name
+w: without offense  the name  if one takes  obtains  the treasure of love
+tr: Of these the best of all is *nāma-saṅkīrtana*. One who chants the name without offence obtains the treasure of love.”
 
 ## 72
 w: this  hearing  of Sanātana  there was  astonishment
@@ -499,7 +505,7 @@ tr: Whatever the Lord wishes to have done is accomplished. This is your good for
 ## 97
 w: the conclusions of devotion  of scripture  conduct  the determination
 w: through you  He will have done  I have understood  His intention
-tr: The conclusions of *bhakti* and the determination of conduct according to scripture He will have done through you — I have understood His intention.
+tr: The conclusions of bhakti and the determination of conduct according to scripture He will have done through you — I have understood His intention.
 
 ## 98
 w: my  this  body  of the Lord  in the work  not  was used
@@ -512,14 +518,14 @@ w: of Mahāprabhu  among the associates  you  most fortunate
 tr: Sanātana said, “Who else is there like you? Among Mahāprabhu’s associates you are the most fortunate!
 
 ## 100
-w: of the descent  the mission  of the Lord  in spreading the Name
+w: of the descent  the mission  of the Lord  in spreading the name
 w: that  own  work  the Lord  does  you  through
-tr: The mission of the Lord’s descent is to spread the Name, and that very work of His the Lord does through you.
+tr: The mission of the Lord’s descent is to spread the name, and that very work of His the Lord does through you.
 
 ## 101
-w: daily  you do  three hundred thousand  chanting of the Name
-w: of all  before  you do  of the Name  the glory  telling
-tr: Every day you chant three hundred thousand names, and before everyone you tell the glory of the Name.
+w: daily  you do  three hundred thousand  chanting of the name
+w: of all  before  you do  of the name  the glory  telling
+tr: Every day you chant three hundred thousand names, and before everyone you tell the glory of the name.
 
 ## 102
 w: himself  practises  someone  not  does  preaching
@@ -527,9 +533,9 @@ w: preaching  does  someone  not  does  practice
 tr: Some practise themselves but do not preach; others preach but do not practise.
 
 ## 103
-w: ‘practice’  ‘preaching’  of the Name  you do  ‘both’  works
+w: ‘practice’  ‘preaching’  of the name  you do  ‘both’  works
 w: you  the guru of all  you  of the world  the noble one
-tr: You do both works for the Name — practice (*ācāra*) and preaching (*pracāra*). You are the guru of all; you are the noblest in the world.”
+tr: You do both works for the name — practice (*ācāra*) and preaching (*pracāra*). You are the guru of all; you are the noblest in the world.”
 
 ## 104
 w: in this way  the two  in the joy of many talks
