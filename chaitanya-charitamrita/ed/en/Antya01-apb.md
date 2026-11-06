@@ -19,3 +19,23 @@ May the saints give me the staff of their mercy and become my support, for I am 
 ## 22
 
 ***Cāhite*** — to search.
+
+## 34
+
+***Kṛṣṇa-līlā-nāṭaka*** — a play about Kṛṣṇa's pastimes.
+
+## 35
+
+***Nāndī-śloka*** — the auspicious invocatory verse recited at the start of a play is called the *nāndī* verse.
+
+## 36
+
+***Kaḍacā*** — a draft, that is, a rough manuscript.
+
+## 39
+
+***Lāg nā pāila*** — Śrī Rūpa heard that Śivānanda and the other devotees were going to the Lord, and he came intending to go to Nīlācala with them. But he could not meet them: they had already left for Nīlācala.
+
+## 53
+
+***Tāṅhā*** — in Haridāsa's dwelling, that is, in the Siddha-bakula Maṭha.
