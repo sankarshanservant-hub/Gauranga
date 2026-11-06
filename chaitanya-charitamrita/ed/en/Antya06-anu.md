@@ -398,6 +398,7 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 > Subheading: Description of the variety of *prasāda* in Rāghava's house —
 
+
 ## 223
 
 > Subheading: The Lord describes the conduct, that is, the *dharma*, of a *vairāgī* — one who has left home: what befits him and what does not —
