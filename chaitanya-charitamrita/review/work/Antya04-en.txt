@@ -1094,12 +1094,13 @@ tr: From Balabhadra Bhaṭṭa he wrote down everything: by which path, past whi
 ## 211
 w: of Mahāprabhu  the devotees  all  having met
 w: by that path  going  he goes  those  places  seeing
-tr: After meeting all of Mahāprabhu’s devotees, he set out by that path, seeing those places.
+tr: On the way he met all of Mahāprabhu’s devotees, and he travelled on by that same path, seeing those places.
+fn: Edition heading: having met the devotees on the way, Sanātana continues his journey.
 
 ## 212
 w: which  pastimes  the Lord  on the way  performed  in which  places
 w: those  seeing  absorption in love  comes  to Sanātana
-tr: Seeing each place where the Lord had performed His pastimes on the way, Sanātana was overwhelmed with love.
+tr: Seeing each place on the way where the Lord had shown His pastimes, Sanātana was overwhelmed with love.
 
 ## 213
 w: in this way  Sanātana  to Vṛndāvana  came
@@ -1130,6 +1131,7 @@ tr: The two brothers met and lived together in Vṛndāvana, and they carried ou
 w: many scriptures  having gathered  the lost holy places  they recovered
 w: in Vṛndāvana  the service of Kṛṣṇa  manifestation  made
 tr: Gathering many scriptures, they recovered the lost holy places and manifested the service of Kṛṣṇa in Vṛndāvana.
+fn: *Anubhāṣya*: the proofs from these scriptures are given in the *Bhakti-ratnākara*.
 
 ## 219
 w: Sanātana  a book  made  the Bhāgavatāmṛta
@@ -1140,6 +1142,7 @@ tr: Sanātana wrote the *Bhāgavatāmṛta*, from which we know the truth of the
 w: the essence of conclusions  a book  he made  the Daśama-ṭippanī
 w: of Kṛṣṇa’s pastimes  rasa  love  which  from  we know
 tr: He wrote the *Daśama-ṭippanī*, the essence of conclusions, from which we know the rasa of Kṛṣṇa’s pastimes and love for Him.
+fn: *Anubhāṣya*: the *Daśama-ṭippanī* is the commentary *Bṛhad-vaiṣṇava-toṣaṇī*.
 
 ## 221
 w: the Hari-bhakti-vilāsa  a book  he made  of Vaiṣṇava conduct
@@ -1150,6 +1153,7 @@ tr: He wrote the *Hari-bhakti-vilāsa* on Vaiṣṇava conduct, in which we find
 w: other  how many  books  he made  that  who  makes  counting
 w: of Madana-gopāla and Govinda  the service  the manifestation
 tr: Who can count the other books he wrote? And he manifested the service of Madana-gopāla and Govinda.
+fn: *Anubhāṣya* (on 218): in Vṛndāvana Śrī Sanātana manifested the service of Śrī Madana-mohana, and Śrī Rūpa that of Śrī Govinda.
 
 ## 223
 w: Rūpa Gosāñi  made  the Rasāmṛta-sindhu  the essence
@@ -1170,6 +1174,7 @@ tr: In the two dramas *Vidagdha-mādhava* and *Lalita-mādhava* we find all the 
 w: the Dāna-keli-kaumudī  and others  a hundred thousand granthas  he made
 w: in those  all  books  of Vraja  the rasa  he examined
 tr: He wrote the *Dāna-keli-kaumudī* and other works — a hundred thousand *granthas* in all — and in all those books he examined the rasa of Vraja.
+fn: *Anubhāṣya*: Śrī Rūpa’s books contain about a hundred thousand ślokas, for copyists count both verse and prose in *granthas*; it does not mean a hundred thousand books: by the *Bhakti-ratnākara*, Śrī Rūpa wrote sixteen books.
 
 ## 227
 w: his  younger brother  Śrī Vallabha Anupama
@@ -1184,7 +1189,8 @@ tr: Giving up everything, he later came to Vṛndāvana and propagated many scri
 ## 229
 w: the Bhāgavata-sandarbha  named  he made  the essence of books
 w: of the Bhāgavata  the conclusions  there  we find  to the end
-tr: He wrote the *Bhāgavata-sandarbha*, the essence of all books, where we find the conclusions of the *Bhāgavata* in full.
+tr: He wrote the *Bhāgavata-sandarbha*, the essence of all books, where we find the conclusions of the *Bhāgavatam* in all their depth.
+fn: *Anubhāṣya*: its other name is the *Ṣaṭ-sandarbha* (see Madhya 1.43).
 
 ## 230
 w: the Gopāla-campū  also  many  books  he made
@@ -1202,9 +1208,9 @@ w: from Nityānanda Prabhu  permission  he begged
 tr: When Jīva Gosāñi was setting out from Gauḍa for Mathurā, he begged leave of Nityānanda Prabhu.
 
 ## 233
-w: the Lord  with love  on his  head  placed  His feet
+w: the Lord (Nityānanda)  with love  on his  head  placed  His feet
 w: because of his relation to Rūpa and Sanātana  He made  embrace
-tr: With love the Lord placed His feet on his head, and because he was related to Rūpa and Sanātana, He embraced him.
+tr: With love Nityānanda Prabhu placed His feet on Jīva’s head, and because he was related to Rūpa and Sanātana, He embraced him.
 
 ## 234
 w: order  He gave  quickly  you  go  to Vṛndāvana
@@ -1220,11 +1226,12 @@ tr: By His order he came, and he obtained the fruit of obeying it: composing scr
 w: these  three gurus  and  Raghunātha dāsa
 w: of all these  the feet  I worship  whose  I  servant
 tr: These three gurus and Raghunātha dāsa — I worship the feet of them all, for I am their servant.
+fn: *Anubhāṣya*: the author’s three instructing gurus are Śrī Rūpa, Sanātana and Śrī Jīva Gosvāmī.
 
 ## 237
 w: this  indeed  I have told  again  the meeting with Sanātana
 w: of the Lord  the intention  we know  which  by hearing
-tr: Thus I have told once more of the meeting with Sanātana, by hearing which we come to know the Lord’s intention.
+tr: Thus I have told of the meeting with Sanātana once again; by hearing of it we come to know the Lord’s intention.
 
 ## 238
 w: of Caitanya  the deeds  these  like sugarcane
@@ -1235,3 +1242,4 @@ tr: These deeds of Caitanya are like sugarcane: chew it, and you taste its juice
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The same colophon verse as Antya 2.172; translation as there.
