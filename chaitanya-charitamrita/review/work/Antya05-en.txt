@@ -71,7 +71,7 @@ tr: Then Pradyumna Miśra went to Rāmānanda’s house, and Rāya’s servant o
 ## 12
 w: Rāya’s  sight  not  getting  the servant  he asked
 w: Rāya’s  doings  the servant  to tell  began
-tr: Not finding Rāya there, he asked the servant, and the servant told him what Rāya was doing:
+tr: Not finding Rāya there, he asked the servant, who told him what Rāya was doing:
 
 ## 13
 w: two  maidens of the Deity  there are  supremely beautiful
@@ -119,7 +119,7 @@ fn: *Amṛta-pravāha-bhāṣya*: the two girls were to play the principal gopī
 ## 21
 w: of Mahāprabhu  of the devotees  unfathomable  glory
 w: among them  Rāmānanda’s  of bhāva, bhakti and prema  the limit
-tr: The glory of Mahāprabhu’s devotees is unfathomable, and among them, in Rāmānanda, bhāva, bhakti and prema reach their utmost limit.
+tr: The glory of Mahāprabhu’s devotees is unfathomable, and in Rāmānanda bhāva, bhakti and prema reach their utmost limit.
 
 ## 22
 w: then  those  two  dance  he taught
@@ -326,7 +326,7 @@ fn: Edition heading: Miśra asks him to speak again of Kṛṣṇa — of samban
 ## 61
 w: of others  what  talk  you  of the Lord  the instructor
 w: I  indeed  a mendicant  brāhmaṇa  you  my  sustainer
-tr: Not only of others — you are the instructor of the Lord Himself! I am a poor mendicant brāhmaṇa, and you are my sustainer.
+tr: You are the instructor not only of others but of the Lord Himself! I am a poor mendicant brāhmaṇa, and you are my sustainer.
 
 ## 62
 w: good  bad  anything  I  to ask  not  know
@@ -361,7 +361,7 @@ tr: With great respect he bade Miśra farewell, and Miśra, crying, “My life i
 ## 68
 w: home  going  Miśra  did  bathing  eating
 w: in the evening  to see  he came  of the Lord  the feet
-tr: Miśra went home, bathed and took his meal, and in the evening he came to see the Lord’s feet.
+tr: Miśra went home, bathed and took his meal, and in the evening he came to see the Lord.
 
 ## 69
 w: the Lord’s  feet  he worships  with a joyful mind
@@ -417,7 +417,7 @@ tr: This is the natural disposition of great souls: they never speak of their ow
 ## 79
 w: of Rāmānanda Rāya  this  I have told  of qualities  a trace
 w: to Pradyumna Miśra  how  he gave  instruction
-tr: Thus I have told a little of Rāmānanda Rāya’s qualities — how he instructed Pradyumna Miśra.
+tr: Thus I have told a little of Rāmānanda Rāya’s qualities and of how he instructed Pradyumna Miśra.
 
 ## 80
 w: a householder  being  not  Rāya  of the six enemies  under the control

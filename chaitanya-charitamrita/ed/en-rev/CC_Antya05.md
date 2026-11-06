@@ -130,7 +130,7 @@ Rāya’s  sight  not  getting  the servant  he asked
 rāyera vṛttānta sevaka kahite lāgila  
 Rāya’s  doings  the servant  to tell  began
 
-(12) Not finding Rāya there, he asked the servant, and the servant told him what Rāya was doing:
+(12) Not finding Rāya there, he asked the servant, who told him what Rāya was doing:
 
 দুই দেব-কন্যা হয় পরম-সুন্দরী ৷  
 নৃত্য-গীতে সুনিপুণা, বয়সে কিশোরী ॥ ১৩ ॥
@@ -220,7 +220,7 @@ of Mahāprabhu  of the devotees  unfathomable  glory
 tāhe rāmānandera bhāva-bhakti-prema-sīmā  
 among them  Rāmānanda’s  of bhāva, bhakti and prema  the limit
 
-(21) The glory of Mahāprabhu’s devotees is unfathomable, and among them, in Rāmānanda, bhāva, bhakti and prema reach their utmost limit.
+(21) The glory of Mahāprabhu’s devotees is unfathomable, and in Rāmānanda bhāva, bhakti and prema reach their utmost limit.
 
 তবে সেই দুইজনে নৃত্য শিখাইলা ৷  
 গীতের গূঢ় অর্থ অভিনয় করাইলা ॥ ২২ ॥
@@ -620,7 +620,7 @@ of others  what  talk  you  of the Lord  the instructor
 āmi ta’ bhikṣuka vipra, tumi — mora poṣṭā  
 I  indeed  a mendicant  brāhmaṇa  you  my  sustainer
 
-(61) Not only of others — you are the instructor of the Lord Himself! I am a poor mendicant brāhmaṇa, and you are my sustainer.
+(61) You are the instructor not only of others but of the Lord Himself! I am a poor mendicant brāhmaṇa, and you are my sustainer.
 
 ভাল, মন্দ — কিছু আমি পুছিতে না জানি ৷  
 ‘দীন’ দেখি’ কৃপা করি’ কহিবা আপনি ॥ ৬২ ॥
@@ -690,7 +690,7 @@ home  going  Miśra  did  bathing  eating
 sandhyākāle dekhite āila prabhura caraṇa  
 in the evening  to see  he came  of the Lord  the feet
 
-(68) Miśra went home, bathed and took his meal, and in the evening he came to see the Lord’s feet.
+(68) Miśra went home, bathed and took his meal, and in the evening he came to see the Lord.
 
 প্রভুর চরণ বন্দে উল্লসিত-মনে ৷  
 প্রভু কহে, — কৃষ্ণকথা হইল শ্রবণে ? ॥ ৬৯ ॥
@@ -800,7 +800,7 @@ of Rāmānanda Rāya  this  I have told  of qualities  a trace
 pradyumna-miśrere yaiche kailā upadeśa  
 to Pradyumna Miśra  how  he gave  instruction
 
-(79) Thus I have told a little of Rāmānanda Rāya’s qualities — how he instructed Pradyumna Miśra.
+(79) Thus I have told a little of Rāmānanda Rāya’s qualities and of how he instructed Pradyumna Miśra.
 
 ‘গৃহস্থ’ হঞা নহে রায় ষড়্-বর্গের বশে ৷  
 ‘বিষয়ী’ হঞা সন্ন্যাসীরে উপদেশে ॥ ৮০ ॥
