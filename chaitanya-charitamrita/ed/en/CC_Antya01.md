@@ -806,11 +806,15 @@ in that  sense  a verse  composed  to the Lord  that  appeals
 রেবারোধসি বেতসীতরুতলে চেতঃ সমুৎকণ্ঠতে ॥ ৭৮ ॥
 
 yaḥ kaumāra-haraḥ sa eva hi varas tā eva caitra-kṣapās  
+who  stole my heart in my girlhood  He  the same  indeed  my beloved  those  same  nights of Caitra  
 te conmīlita-mālatī-surabhayaḥ prauḍhāḥ kadambānilāḥ  
+those same  and  fragrant with blossoming mālatī  full  breezes from the kadambas  
 sā caivāsmi tathāpi tatra surata-vyāpāra-līlā-vidhau  
-revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate
+she  the same  am I  yet  there  for the pastimes of love  
+revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate  
+of the Revā  on the bank  of the vetasī  tree  beneath  My heart  yearns
 
-(78) [not yet translated]
+(78) “He who stole My heart in My girlhood is now My lord. These are the same moonlit nights of Caitra, and the same full breezes blow from the kadamba groves, fragrant with blossoming *mālatī*. I too am the same. Yet My heart yearns for Our play of love there, beneath the *vetasī* trees on the bank of the Revā.” (Padyāvalī, 386)
 
 প্রিয়ঃ সোঽযং কৃষ্ণঃ সহচরি কুরুক্ষেত্রমিলিত-  
 স্তথাহং সা রাধা তদিদমুভয়োঃ সঙ্গমসুখম্ ৷  
@@ -818,105 +822,132 @@ revā-rodhasi vetasī-taru-tale cetaḥ samutkaṇṭhate
 মনো মে কালিন্দীপুলিনবিপিনায় স্পৃহয়তি ॥ ৭৯ ॥
 
 priyaḥ so ’yaṁ kṛṣṇaḥ saha-cari kuru-kṣetra-militas  
+beloved  that  very  Kṛṣṇa  O companion  at Kurukṣetra  met  
 tathāhaṁ sā rādhā tad idam ubhayoḥ saṅgama-sukham  
+likewise  I  that  Rādhā  that  this  of both  of union  the joy  
 tathāpy antaḥ-khelan-madhura-muralī-pañcama-juṣe  
-mano me kālindī-pulina-vipināya spṛhayati
+yet  within  playing  sweet  of the flute  the fifth note  delighting in  
+mano me kālindī-pulina-vipināya spṛhayati  
+mind  My  of the Kālindī  bank  for the forest  longs
 
-(79) [not yet translated]
+(79) “My dear companion, this is that same beloved Kṛṣṇa, met again at Kurukṣetra, and I am that same Rādhā; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kālindī, which delights in the sweet fifth note of His flute playing in its depths.” (Padyāvalī, 387)
 
 তালপত্রে শ্লোক লিখি’ চালেতে রাখিলা ৷  
 সমুদ্রস্নান করিবারে রূপ-গোসাঞি গেলা ॥ ৮০ ॥
 
 tāla-patre śloka likhi’ cālete rākhilā  
-samudra-snāna karibāre rūpa-gosāñi gelā
+on a palm leaf  the verse  writing  in the thatched roof  he placed  
+samudra-snāna karibāre rūpa-gosāñi gelā  
+sea bath  to take  Rūpa Gosāñi  went
 
-(80) [not yet translated]
+(80) Rūpa Gosāñi wrote the verse on a palm leaf, tucked it into the thatched roof and went to bathe in the sea.
 
 হেনকালে প্রভু আইলা তাঁহারে মিলিতে ৷  
 চালে শ্লোক দেখি’ প্রভু লাগিলা পড়িতে ॥ ৮১ ॥
 
 hena-kāle prabhu āilā tāṅhāre milite  
-cāle śloka dekhi’ prabhu lāgilā paḍite
+at that time  the Lord  came  him  to meet  
+cāle śloka dekhi’ prabhu lāgilā paḍite  
+in the thatch  the verse  seeing  the Lord  began  to read
 
-(81) [not yet translated]
+(81) Just then the Lord came to see him. Noticing the verse in the thatch, the Lord began to read it.
 
 শ্লোক পড়ি’ প্রভু সুখে প্রেমাবিষ্ট হৈলা ৷  
 হেনকালে রূপ-গোসাঞি স্নান করি’ আইলা ॥ ৮২ ॥
 
 śloka paḍi’ prabhu sukhe premāviṣṭa hailā  
-hena-kāle rūpa-gosāñi snāna kari’ āilā
+the verse  reading  the Lord  in joy  absorbed in love  became  
+hena-kāle rūpa-gosāñi snāna kari’ āilā  
+at that time  Rūpa Gosāñi  bath  having taken  came
 
-(82) [not yet translated]
+(82) As He read the verse, the Lord was overwhelmed with joy and love. Just then Rūpa Gosāñi returned from his bath.
 
 প্রভু দেখি’ দণ্ডবৎ প্রাঙ্গণে পড়িলা ৷  
 প্রভু তাঁরে চাপড় মারি’ কহিতে লাগিলা ॥ ৮৩ ॥
 
 prabhu dekhi’ daṇḍavat prāṅgaṇe paḍilā  
-prabhu tāṅre cāpaḍa māri’ kahite lāgilā
+the Lord  seeing  flat like a rod  in the courtyard  he fell  
+prabhu tāṅre cāpaḍa māri’ kahite lāgilā  
+the Lord  him  a slap  giving  to speak  began
 
-(83) [not yet translated]
+(83) Seeing the Lord, Rūpa fell flat in the courtyard to offer obeisance. The Lord gave him an affectionate slap and said,
 
 ‘গূঢ় মোর হৃদয় তুমি জানিলা কেমনে?’  
 এত কহি’ রূপে কৈলা দৃঢ় আলিঙ্গনে ॥ ৮৪ ॥
 
 gūḍha mora hṛdaya tumi jānilā kemane?  
-eta kahi’ rūpe kailā dṛḍha āliṅgane
+hidden  My  heart  you  knew  how?  
+eta kahi’ rūpe kailā dṛḍha āliṅgane  
+this  saying  Rūpa  He made  firm  embrace
 
-(84) [not yet translated]
+(84) “How did you know My hidden heart?” And saying this, He embraced Rūpa tightly.
 
 সেই শ্লোক লঞা প্রভু স্বরূপে দেখাইলা ৷  
 স্বরূপের পরীক্ষা লাগি’ তাঁহারে পুছিলা ॥ ৮৫ ॥
 
 sei śloka lañā prabhu svarūpe dekhāilā  
-svarūpera parīkṣā lāgi’ tāṅhāre puchilā
+that  verse  taking  the Lord  to Svarūpa  showed  
+svarūpera parīkṣā lāgi’ tāṅhāre puchilā  
+of Svarūpa  the test  for the sake of  him  He asked
 
-(85) [not yet translated]
+(85) The Lord took the verse and showed it to Svarūpa, and to test Svarūpa He asked him,
 
 ‘মোর অন্তর-বার্ত্তা রূপ জানিল কেমনে?’  
 স্বরূপ কহে — “জানি, কৃপা কৈরাছ আপনে ॥ ৮৬ ॥
 
 mora antara-vārtā rūpa jānila kemane?  
-svarūpa kahe — jāni, kṛpā kairācha āpane
+My  inner feelings  Rūpa  knew  how?  
+svarūpa kahe — jāni, kṛpā kairācha āpane  
+Svarūpa  says,  I know,  mercy  You have shown  Yourself
 
-(86) [not yet translated]
+(86) “How did Rūpa know what is in My heart?” Svarūpa said, “I know: You Yourself have shown him mercy.
 
 অন্যথা এ অর্থ কার নাহি হয় জ্ঞান ৷  
 তুমি পূর্ব্বে কৃপা কৈলা, করি অনুমান” ॥ ৮৭ ॥
 
 anyathā e artha kāra nāhi haya jñāna  
-tumi pūrve kṛpā kailā, kari anumāna
+otherwise  this  meaning  anyone’s  not  becomes  knowledge  
+tumi pūrve kṛpā kailā, kari anumāna  
+You  before  mercy  showed,  I make  inference
 
-(87) [not yet translated]
+(87) Otherwise no one could know this meaning. I infer that You showed him mercy earlier.”
 
 প্রভু কহে, — ‘ইঁহো আমায় প্রয়াগে মিলিল ৷  
 যোগ্যপাত্র জানি’ মোর কৃপা ত’ হইল ॥ ৮৮ ॥
 
 prabhu kahe, — iṅho āmāya prayāge milila  
-yogya-pātra jāni’ mora kṛpā ta’ haila
+the Lord  says,  he  with Me  at Prayāga  met  
+yogya-pātra jāni’ mora kṛpā ta’ haila  
+a worthy recipient  knowing (him)  My  mercy  indeed  arose
 
-(88) [not yet translated]
+(88) The Lord said, “He met Me at Prayāga, and knowing him to be a worthy recipient, I gave him My mercy.
 
 তবে শক্তি সঞ্চারি’ আমি কৈলুঁ উপদেশ ৷  
 তুমিহ কহিও ইঁহায় রসের বিশেষ’ ॥ ৮৯ ॥
 
 tabe śakti sañcāri’ āmi kailuṅ upadeśa  
-tumiha kahio iṅhāya rasera viśeṣa
+then  power  infusing  I  gave  instruction  
+tumiha kahio iṅhāya rasera viśeṣa  
+you also  tell  him  of rasa  the particulars
 
-(89) [not yet translated]
+(89) Then I infused him with power and instructed him. You too should teach him the finer points of *rasa*.”
 
 স্বরূপ কহে — “যাতে এই শ্লোক দেখিলুঁ ৷  
 তুমি করিয়াছ কৃপা, তবঁহি জানিলু ॥ ৯০ ॥
 
 svarūpa kahe — yāte ei śloka dekhiluṅ  
-tumi kariyācha kṛpā, tabaṅhi jānilu
+Svarūpa  says,  when  this  verse  I saw  
+tumi kariyācha kṛpā, tabaṅhi jānilu  
+You  have shown  mercy,  at once  I knew
 
-(90) [not yet translated]
+(90) Svarūpa said, “As soon as I saw this verse, I knew that You had shown him mercy.
 
 ফলেন ফলকারণমনুমীয়তে ॥ ৯১ ॥
 
-phalena phala-kāraṇam anumīyate
+phalena phala-kāraṇam anumīyate  
+by the fruit  the fruit’s cause  is inferred
 
-(91) [not yet translated]
+(91) ‘The cause of a fruit is inferred from the fruit itself.’ (a maxim of Nyāya)
 
 স্বর্গাপগা-হেমমৃণালিনীনাং  
 নানা-মৃণালাগ্রভুজো ভজামঃ ৷  
@@ -924,59 +955,75 @@ phalena phala-kāraṇam anumīyate
 কার্য্যং নিদানাদ্ধি গুণানধীতে” ॥ ৯২ ॥
 
 svargāpagā-hema-mṛṇālinīnāṁ  
+of the heavenly Gaṅgā  golden  of the lotuses  
 nānā-mṛṇālāgra-bhujo bhajāmaḥ  
+of various  lotus stalks’ tips  eating  we obtain  
 annānurūpāṁ tanu-rūpa-ṛddhiṁ  
-kāryaṁ nidānād dhi guṇān adhīte
+matching the food  of the body  of beauty  the wealth  
+kāryaṁ nidānād dhi guṇān adhīte  
+the effect  from the cause  indeed  the qualities  acquires
 
-(92) [not yet translated]
+(92) ‘We eat the tips of the stalks of the golden lotuses that grow in the heavenly Gaṅgā, and so our bodies have gained a beauty that matches our food: an effect takes on the qualities of its cause.’” (Naiṣadhīya, 3.17)
 
 চাতুর্ম্মাস্য রহি’ গৌড়ে বৈষ্ণব চলিলা ৷  
 রূপ-গোসাঞি মহাপ্রভুর চরণে রহিলা ॥ ৯৩ ॥
 
 cāturmāsya rahi’ gauḍe vaiṣṇava calilā  
-rūpa-gosāñi mahāprabhura caraṇe rahilā
+the Cāturmāsya  staying  to Gauḍa  the Vaiṣṇavas  departed  
+rūpa-gosāñi mahāprabhura caraṇe rahilā  
+Rūpa Gosāñi  of Mahāprabhu  at the feet  remained
 
-(93) [not yet translated]
+(93) After staying for the Cāturmāsya, the Vaiṣṇavas returned to Gauḍa, but Rūpa Gosāñi remained at Mahāprabhu’s feet.
 
 একদিন রূপ করেন নাটক লিখন ৷  
 আচম্বিতে মহাপ্রভুর হৈল আগমন ॥ ৯৪ ॥
 
 ekadina rūpa karena nāṭaka likhana  
-ācambite mahāprabhura haila āgamana
+one day  Rūpa  is doing  of the drama  writing  
+ācambite mahāprabhura haila āgamana  
+unexpectedly  Mahāprabhu’s  took place  arrival
 
-(94) [not yet translated]
+(94) One day, as Rūpa was writing his drama, Mahāprabhu arrived unexpectedly.
 
 সম্ভ্রমে দুঁহে উঠি’ দণ্ডবৎ হৈলা ৷  
 দুঁহে আলিঙ্গিয়া প্রভু আসনে বসিলা ॥ ৯৫ ॥
 
 sambhrame duṅhe uṭhi’ daṇḍavat hailā  
-duṅhe āliṅgiyā prabhu āsane vasilā
+in reverent haste  both  rising  flat like rods  became  
+duṅhe āliṅgiyā prabhu āsane vasilā  
+both  embracing  the Lord  on a seat  sat
 
-(95) [not yet translated]
+(95) In reverent haste the two of them rose and fell flat before Him. The Lord embraced them both and sat down.
 
 ‘ক্যা পুঁথি লিখ?’ বলি’ এক পত্র নিলা ৷  
 অক্ষর দেখিয়া প্রভু মনে সুখী হৈলা ॥ ৯৬ ॥
 
 kyā puṅthi likha? bali’ eka patra nilā  
-akṣara dekhiyā prabhu mane sukhī hailā
+what  book  are you writing?  saying  one  leaf  He took  
+akṣara dekhiyā prabhu mane sukhī hailā  
+the letters  seeing  the Lord  at heart  happy  became
 
-(96) [not yet translated]
+(96) “What book are you writing?” He asked, and He took up one leaf. Seeing the handwriting, the Lord was pleased at heart.
 
 শ্রীরূপের অক্ষর — যেন মুকুতার পাঁতি ৷  
 প্রীত হঞা করেন প্রভু অক্ষরের স্তুতি ॥ ৯৭ ॥
 
 śrī-rūpera akṣara — yena mukutāra pāṅti  
-prīta hañā karena prabhu akṣarera stuti
+of Śrī Rūpa  the letters  like  of pearls  a row  
+prīta hañā karena prabhu akṣarera stuti  
+pleased  becoming  makes  the Lord  of the letters  praise
 
-(97) [not yet translated]
+(97) Śrī Rūpa’s letters were like rows of pearls, and the Lord, delighted, praised the handwriting.
 
 সেই পত্রে প্রভু এক শ্লোক দেখিলা ৷  
 পড়িতেই শ্লোক, প্রেমে আবিষ্ট হইলা ॥ ৯৮ ॥
 
 sei patre prabhu eka śloka dekhilā  
-paḍitei śloka, preme āviṣṭa ha-ilā
+on that  leaf  the Lord  one  verse  saw  
+paḍitei śloka, preme āviṣṭa ha-ilā  
+as soon as reading  the verse  in love  absorbed  He became
 
-(98) [not yet translated]
+(98) On that leaf the Lord saw a verse, and as soon as He read it, He was overwhelmed with love.
 
 তুণ্ডে তাণ্ডবিনী রতিং বিতনুতে তুণ্ডাবলীলব্ধয়ে  
 কর্ণক্রোড়কড়ম্বিনী ঘটয়তে কর্ণার্ব্বুদেভ্যঃ স্পৃহাম্ ৷  
@@ -984,35 +1031,45 @@ paḍitei śloka, preme āviṣṭa ha-ilā
 নো জানে জনিতা কিয়দ্ভিরমৃতৈঃ কৃষ্ণেতি বর্ণদ্বয়ী ॥ ৯৯ ॥
 
 tuṇḍe tāṇḍavinī ratiṁ vitanute tuṇḍāvalī-labdhaye  
+on the lips  dancing  attraction  it generates  many mouths  to gain  
 karṇa-kroḍa-kaḍambinī ghaṭayate karṇārbudebhyaḥ spṛhām  
+of the ears  in the hollow  sprouting  it arouses  for millions of ears  longing  
 cetaḥ-prāṅgaṇa-saṅginī vijayate sarvendriyāṇāṁ kṛtiṁ  
-no jāne janitā kiyadbhir amṛtaiḥ kṛṣṇeti varṇa-dvayī
+of the mind  in the courtyard  as a companion  it conquers  of all the senses  the activity  
+no jāne janitā kiyadbhir amṛtaiḥ kṛṣṇeti varṇa-dvayī  
+not  I know  born  with how many  nectars  “Kṛṣṇa”  of syllables the pair
 
-(99) [not yet translated]
+(99) “I do not know with how many nectars the two syllables ‘Kṛṣ-ṇa’ were born. When they dance on the lips, they make one long for many mouths; when they sprout in the hollows of the ears, they make one yearn for millions of ears; and when they come as a companion into the courtyard of the mind, they conquer the workings of all the senses.” (Vidagdha-mādhava, 1.15)
 
 শ্লোক শুনি’ হরিদাস হইলা উল্লাসী ৷  
 নাচিতে লাগিলা শ্লোকের অর্থ প্রশংসি’ ॥ ১০০ ॥
 
 śloka śuni’ haridāsa hailā ullāsī  
-nācite lāgilā ślokera artha praśaṁsi’
+the verse  hearing  Haridāsa  became  jubilant  
+nācite lāgilā ślokera artha praśaṁsi’  
+to dance  began  of the verse  the meaning  praising
 
-(100) [not yet translated]
+(100) Hearing the verse, Haridāsa was jubilant, and he began to dance, praising its meaning.
 
 কৃষ্ণনামের মহিমা শাস্ত্র-সাধু-মুখে জানি ৷  
 নামের মাধুরী ঐছে কাঁহা নাহি শুনি ॥ ১০১ ॥
 
 kṛṣṇa-nāmera mahimā śāstra-sādhu-mukhe jāni  
-nāmera mādhurī aiche kāṅhā nāhi śuni
+of Kṛṣṇa’s  name  the glory  from scripture and the mouths of saints  I know  
+nāmera mādhurī aiche kāṅhā nāhi śuni  
+of the name  sweetness  such  anywhere  not  I hear
 
-(101) [not yet translated]
+(101) I know the glory of Kṛṣṇa’s name from the scriptures and from the lips of saints, but nowhere have I heard of such sweetness in the name.
 
 তবে মহাপ্রভু দুঁহে করি’ আলিঙ্গন ৷  
 মধ্যাহ্ন করিতে সমুদ্রে করিলা গমন ॥ ১০২ ॥
 
 tabe mahāprabhu duṅhe kari’ āliṅgana  
-madhyāhna karite samudre karilā gamana
+then  Mahāprabhu  both  making  embrace  
+madhyāhna karite samudre karilā gamana  
+the midday duties  to perform  to the sea  He made  His way
 
-(102) [not yet translated]
+(102) Then Mahāprabhu embraced them both and went to the sea to perform His midday duties.
 
 আর দিন মহাপ্রভু দেখি’ জগন্নাথ ৷  
 সার্ব্বভৌম-রামানন্দ-স্বরূপাদি-সাথ ॥ ১০৩ ॥
@@ -1021,35 +1078,45 @@ madhyāhna karite samudre karilā gamana
 পথে তাঁর গুণ সবারে লাগিলা কহিতে ॥ ১০৪ ॥
 
 āra dina mahāprabhu dekhi’ jagannātha  
+the next  day  Mahāprabhu  seeing  Jagannātha  
 sārvabhauma-rāmānanda-svarūpādi-sātha  
+with Sārvabhauma,  Rāmānanda,  Svarūpa  and others  together  
 sabe mili’ cali āilā śrī rūpe milite  
-pathe tāṅra guṇa sabāre lāgilā kahite
+all  meeting  setting out  came  Śrī  Rūpa  to meet  
+pathe tāṅra guṇa sabāre lāgilā kahite  
+on the way  his  qualities  to all  He began  to tell
 
-(103–104) [not yet translated]
+(103–104) The next day, after seeing Jagannātha, Mahāprabhu set out together with Sārvabhauma, Rāmānanda, Svarūpa and others, and they all came to meet Śrī Rūpa. On the way the Lord began to tell them all about Rūpa’s qualities.
 
 দুই শ্লোক কহি’ প্রভুর হৈল মহাসুখ ৷  
 নিজ-ভক্তের গুণ কহে হঞা পঞ্চমুখ ॥ ১০৫ ॥
 
 dui śloka kahi’ prabhura haila mahā-sukha  
-nija-bhaktera guṇa kahe hañā pañca-mukha
+two  verses  reciting  of the Lord  there was  great joy  
+nija-bhaktera guṇa kahe hañā pañca-mukha  
+of His own devotee  the qualities  He tells  becoming  five-mouthed
 
-(105) [not yet translated]
+(105) Reciting the two verses, the Lord felt great joy, and He praised the qualities of His devotee as though He had five mouths.
 
 সার্ব্বভৌম-রামানন্দে পরীক্ষা করিতে ৷  
 শ্রীরূপের গুণ দুঁহারে লাগিলা কহিতে ॥ ১০৬ ॥
 
 sārvabhauma-rāmānande parīkṣā karite  
-śrī rūpera guṇa duṅhāre lāgilā kahite
+Sārvabhauma and Rāmānanda  a test  to make  
+śrī rūpera guṇa duṅhāre lāgilā kahite  
+of Śrī  Rūpa  the qualities  to both  He began  to tell
 
-(106) [not yet translated]
+(106) To test Sārvabhauma and Rāmānanda, He began to describe Śrī Rūpa’s qualities to them both.
 
 ‘ঈশ্বর-স্বভাব’ — ভক্তের না লয় অপরাধ ৷  
 অল্পসেবা বহু মানে আত্মপর্য্যন্ত প্রসাদ ॥ ১০৭ ॥
 
 ‘īśvara-svabhāva’ — bhaktera nā laya aparādha  
-alpa-sevā bahu māne ātma-paryanta prasāda
+the nature of the Lord:  of the devotee  not  He takes  the offenses  
+alpa-sevā bahu māne ātma-paryanta prasāda  
+small service  great  He considers,  up to Himself  grace
 
-(107) [not yet translated]
+(107) It is the Lord’s nature not to hold His devotee’s offenses against him. He regards a little service as great, and His grace goes so far that He gives Himself.
 
 ভৃত্যস্য পশ্যতি গুরূনপি নাপরাধান্  
 সেবাং মনাগপি কৃতাং বহুধাভ্যুপৈতি ৷  
@@ -1057,27 +1124,35 @@ alpa-sevā bahu māne ātma-paryanta prasāda
 শীলেন নির্ম্মলমতিঃ পুরুষোত্তমোঽযম্ ॥ ১০৮ ॥
 
 bhṛtyasya paśyati gurūn api nāparādhān  
+of the servant  He sees  grave  even  not  the offenses  
 sevāṁ manāg api kṛtāṁ bahudhābhyupaiti  
+service  slight  even  done  manifold  He accepts  
 āviṣkaroti piśuneṣv api nābhyasūyāṁ  
-śīlena nirmala-matiḥ puruṣottamo ‘yam
+He shows  toward slanderers  even  not  ill will  
+śīlena nirmala-matiḥ puruṣottamo ‘yam  
+by nature  pure in mind  Puruṣottama  this
 
-(108) [not yet translated]
+(108) “This Lord Puruṣottama, pure in mind by nature, does not see even the grave offenses of His servant; He accepts even the slightest service as many times greater; and even toward those who slander Him He shows no ill will.” (Bhakti-rasāmṛta-sindhu, 2.1.138)
 
 ভক্তসঙ্গে প্রভু আইলা, দেখি’ দুই জন ৷  
 দণ্ডবৎ হঞা কৈলা চরণ বন্দন ॥ ১০৯ ॥
 
 bhakta-saṅge prabhu āilā, dekhi’ dui jana  
-daṇḍavat hañā kailā caraṇa vandana
+with the devotees  the Lord  came,  seeing  the two  persons  
+daṇḍavat hañā kailā caraṇa vandana  
+flat like rods  becoming  made  to the feet  worship
 
-(109) [not yet translated]
+(109) When the two of them saw that the Lord had come with His devotees, they fell flat before Him and worshipped their feet.
 
 ভক্তসঙ্গে কৈলা প্রভু দুঁহারে মিলন ৷  
 পিণ্ডাতে বসিলা প্রভু লঞা ভক্তগণ ॥ ১১০ ॥
 
 bhakta-saṅge kailā prabhu duṅhāre milana  
-piṇḍāte vasilā prabhu lañā bhakta-gaṇa
+with the devotees  made  the Lord  with the two  meeting  
+piṇḍāte vasilā prabhu lañā bhakta-gaṇa  
+on the raised platform  sat  the Lord  with  the devotees
 
-(110) [not yet translated]
+(110) Together with His devotees the Lord greeted the two of them, and then He sat down with the devotees on the raised platform (*piṇḍā*).
 
 রূপ-হরিদাস দুঁহে বসিলা পিণ্ডাতলে ৷  
 সবার অগ্রে না উঠিলা পিঁড়ার উপরে ॥ ১১১ ॥
@@ -1424,9 +1499,11 @@ first attraction  transformation  actions  love letter
 শুনি’ প্রভুর ভক্তগণের চমৎকার হৈল ॥ ১৪১ ॥
 
 krame śrī rūpa-gosāñi sakali kahila  
-śuni’ prabhura bhakta-gaṇera camatkāra haila
+in order  Śrī  Rūpa Gosāñi  everything  told  
+śuni’ prabhura bhakta-gaṇera camatkāra haila  
+hearing  the Lord’s  of the devotees  wonder  arose
 
-(141) [not yet translated]
+(141) Śrī Rūpa Gosāñi explained everything in order, and the Lord’s devotees were amazed to hear it.
 
 একস্য শ্রুতমেব লুম্পতি মতিং কৃষ্ণেতি নামাক্ষরং  
 সান্দ্রোন্মাদপরম্পরামুপনয়ত্যন্যস্য বংশীকলঃ ৷  
@@ -1434,21 +1511,29 @@ krame śrī rūpa-gosāñi sakali kahila
 কষ্টং ধিক্ পুরুষত্রয়ে রতিরভূন্মন্যে মৃতিঃ শ্রেয়সী ॥ ১৪২ ॥
 
 ekasya śrutam eva lumpati matiṁ kṛṣṇeti nāmākṣaraṁ  
+of one  heard  merely  steal away  the mind  “Kṛṣṇa”  of the name  the syllables  
 sāndronmāda-paramparām upanayaty anyasya vaṁśī-kalaḥ  
+of dense  madness  a stream  brings  of another  of the flute  the sound  
 eṣa snigdha-ghana-dyutir manasi me lagnaḥ paṭe vīkṣaṇāt  
-kaṣṭaṁ dhik puruṣa-traye ratir abhūn manye mṛtiḥ śreyasī
+this one  with the soft lustre of a rain cloud  in mind  My  is fixed  in a picture  from seeing  
+kaṣṭaṁ dhik puruṣa-traye ratir abhūn manye mṛtiḥ śreyasī  
+alas  shame  for three men  attraction  has arisen  I think  death  is better
 
-(142) [not yet translated]
+(142) “Merely hearing the syllables of one man’s name, ‘Kṛṣṇa’, I lost My senses; the sound of another’s flute brings on a stream of deep madness; and this one, with the soft lustre of a rain cloud, has been fixed in My mind ever since I saw Him in a picture. Alas, shame on Me! I have come to love three men. I think it is better for Me to die.” (Vidagdha-mādhava, 2.9)
 
 ইয়ং সখি সুদুঃসাধ্যা রাধা-হৃদয়বেদনা ৷  
 কৃতা যত্র চিকিৎসাপি কুৎসায়াং পর্য্যবস্যতি ॥ ১৪৩ ॥
 
 iyaṁ sakhi su-duḥsādhyā  
+this  O friend  very hard to cure  
 rādhā-hṛdaya-vedanā  
+Rādhā’s  heart’s  pain  
 kṛtā yatra cikitsāpi  
-kutsāyāṁ paryavasyati
+undertaken  in which  treatment  even  
+kutsāyāṁ paryavasyati  
+in disgrace  ends
 
-(143) [not yet translated]
+(143) “Friend, this pain in Rādhā’s heart is very hard to cure: even the treatment one undertakes for it ends only in disgrace.” (Vidagdha-mādhava, 2.8)
 
 ধরিঅ পড়িচ্ছন্দগুণং সুন্দর  
 মহ মন্দিরে তুমং বসসি ৷  
@@ -1456,11 +1541,15 @@ kutsāyāṁ paryavasyati
 জহ জহ চইদা পলাএম্হি ॥ ১৪৪ ॥
 
 dhari-a paḍicchanda-guṇaṁ sundara  
+taking  of a painted picture  the form  O beautiful one  
 maha mandire tumaṁ vasasi  
+in My  house  You  dwell  
 taha taha rundhasi bali-aṁ  
-jaha jaha ca-idā palāemhi
+there  there  You block (My way)  by force  
+jaha jaha ca-idā palāemhi  
+wherever  wherever  frightened  I flee
 
-(144) [not yet translated]
+(144) “O beautiful one, taking the form of a painted picture, You dwell in My house; and wherever I flee in fright, there You forcibly block My way.” (Vidagdha-mādhava, 2.33)[^144-1]
 
 অগ্রে বীক্ষ্য শিখণ্ডখণ্ডমচিরাদুৎকম্পমালম্বতে  
 গুঞ্জানাঞ্চ বিলোকনান্মুহুরসৌ সাস্রং পরিক্রোশতি ৷  
@@ -1468,11 +1557,15 @@ jaha jaha ca-idā palāemhi
 বালায়াঃ কিল চিত্তভূমিমবিশৎ কোঽযং নবীনগ্রহঃ ॥ ১৪৫ ॥
 
 agre vīkṣya śikhaṇḍa-khaṇḍam acirād utkampam ālambate  
+before her  seeing  of a peacock feather  a piece  at once  trembling  she takes on  
 guñjānāṁ ca vilokanān muhur asau sāsraṁ parikrośati  
+of guñjā berries  and  at the sight  again and again  she  with tears  cries aloud  
 no jāne janayann apūrva-naṭana-krīḍā-camatkāritāṁ  
-bālāyāḥ kila citta-bhūmim aviśat ko ‘yaṁ navīna-grahaḥ
+not  I know  producing  unprecedented  of dancing  play  the wonder  
+bālāyāḥ kila citta-bhūmim aviśat ko ‘yaṁ navīna-grahaḥ  
+of the girl  surely  of the heart  the field  has entered  what  this  new  graha
 
-(145) [not yet translated]
+(145) “On seeing a bit of peacock feather before Her, She at once begins to tremble; at the sight of *guñjā* berries She cries aloud again and again, in tears. I do not know what new *graha*, a possessing power, has entered the field of this girl’s heart, producing the wonder of an unprecedented play of dancing.” (Vidagdha-mādhava, 2.15)
 
 অকারুণ্যঃ কৃষ্ণো যদি ময়ি তবাগঃ কথমিদং  
 মুধা মা রোদীর্মে কুরু পরমিমামুত্তরকৃতিম্ ৷  
@@ -1480,19 +1573,25 @@ bālāyāḥ kila citta-bhūmim aviśat ko ‘yaṁ navīna-grahaḥ
 যথা বৃন্দারণ্যে চিরমবিচলা তিষ্ঠতি তনুঃ ॥ ১৪৬ ॥
 
 akāruṇyaḥ kṛṣṇo yadi mayi tavāgaḥ katham idaṁ  
+merciless  Kṛṣṇa  if  to Me  your fault  how  this  
 mudhā mā rodīr me kuru param imām uttara-kṛtim  
+in vain  do not  weep  for Me  perform  only  this  last rite  
 tamālasya skandhe sakhi kalita-dor-vallarir iyaṁ  
-yathā vṛndāraṇye ciram avicalā tiṣṭhati tanuḥ
+of the tamāla  on the trunk  O friend  with creeper-arms placed  this  
+yathā vṛndāraṇye ciram avicalā tiṣṭhati tanuḥ  
+so that  in the Vṛndāvana forest  forever  unmoving  remains  body
 
-(146) [not yet translated]
+(146) “If Kṛṣṇa is merciless to Me, how is that your fault? Do not weep in vain. Only perform this last rite for Me, friend: lay the creepers of My arms on the trunk of a *tamāla* tree, so that this body of Mine may stay unmoving in the forest of Vṛndāvana forever.” (Vidagdha-mādhava, 2.47)
 
 রায় কহে, — “কহ দেখি ভাবের স্বভাব ?”  
 রূপ কহে, — “ঐছে হয় কৃষ্ণবিষয়ক ‘ভাব’” ॥ ১৪৭ ॥
 
 rāya kahe, — kaha dekhi bhāvera svabhāva?  
-rūpa kahe, — aiche haya kṛṣṇa-viṣayaka ‘bhāva’
+Rāya  says  tell  let us see  of bhāva  the nature  
+rūpa kahe, — aiche haya kṛṣṇa-viṣayaka ‘bhāva’  
+Rūpa  says  such  is  Kṛṣṇa  concerning  bhāva
 
-(147) [not yet translated]
+(147) Rāya said, “Tell us now the nature of *bhāva*.” Rūpa answered that *bhāva* directed toward Kṛṣṇa is like this:
 
 পীড়াভির্নবকালকূটকটুতা-গর্ব্বস্য নির্ব্বাসনো  
 নিঃস্যন্দেন মুদাং সুধা-মধুরিমাহঙ্কার-সঙ্কোচনঃ ৷  
@@ -1500,19 +1599,25 @@ rūpa kahe, — aiche haya kṛṣṇa-viṣayaka ‘bhāva’
 জ্ঞায়ন্তে স্ফুটমস্য বক্রমধুরাস্তেনৈব বিক্রান্তয়ঃ ॥ ১৪৮ ॥
 
 pīḍābhir nava-kālakūṭa-kaṭutā-garvasya nirvāsano  
+by its pains  of fresh  kālakūṭa poison  pungency’s  pride  banishing  
 niḥsyandena mudāṁ sudhā-madhurimāhaṅkāra-saṅkocanaḥ  
+by the outpouring  of joys  of nectar  sweetness’s  conceit  humbling  
 premā sundari nanda-nandana-paro jāgarti yasyāntare  
-jñāyante sphuṭam asya vakra-madhurās tenaiva vikrāntayaḥ
+love  O beautiful one  for Nanda’s son  directed  awakens  in whose  heart  
+jñāyante sphuṭam asya vakra-madhurās tenaiva vikrāntayaḥ  
+are known  clearly  its  crooked and sweet  by him  alone  powers
 
-(148) [not yet translated]
+(148) “O beautiful one, when love for Nanda’s son awakens in someone’s heart, its pains drive out the pride that fresh *kālakūṭa* poison takes in its sting, and its outpouring of joys humbles the boast of nectar in its sweetness. Its crooked and sweet powers are clearly known to that person alone.” (Vidagdha-mādhava, 2.18)
 
 রায় কহে, — “কহ সহজ-প্রেমের লক্ষণ” ৷  
 রূপ-গোসাঞি কহে, — ‘সাহজিক প্রেমধর্ম্ম’ ॥ ১৪৯ ॥
 
 rāya kahe, — kaha sahaja-premera lakṣaṇa  
-rūpa-gosāñi kahe, — sāhajika prema-dharma
+Rāya  says  tell  of natural  love  the signs  
+rūpa-gosāñi kahe, — sāhajika prema-dharma  
+Rūpa Gosāñi  says  natural  of prema  the nature
 
-(149) [not yet translated]
+(149) Rāya said, “Tell us the characteristics of natural love.” Rūpa Gosāñi answered that the very nature of *prema* is natural:
 
 স্তোত্রং যত্র তটস্থতাং প্রকটয়চ্চিত্তস্য ধত্তে ব্যথাং  
 নিন্দাপি প্রমদং প্রয়চ্ছতি পরীহাসশ্রিয়ং বিভ্রতী ৷  
@@ -1520,11 +1625,15 @@ rūpa-gosāñi kahe, — sāhajika prema-dharma
 প্রেম্ণঃ স্বারসিকস্য কস্যচিদিয়ং বিক্রীড়তি প্রক্রিয়া ॥ ১৫০ ॥
 
 stotraṁ yatra taṭa-sthatāṁ prakaṭayac cittasya dhatte vyathāṁ  
+praise  in which  indifference  displaying  to the heart  gives  pain  
 nindāpi pramadaṁ prayacchati parīhāsa-śriyaṁ bibhratī  
+blame  even  delight  gives  of a jest  the charm  bearing  
 doṣeṇa kṣayitāṁ guṇena gurutāṁ kenāpy anātanvatī  
-premṇaḥ svārasikasya kasyacid iyaṁ vikrīḍati prakriyā
+by a fault  decrease  by a virtue  increase  by anything  not showing  
+premṇaḥ svārasikasya kasyacid iyaṁ vikrīḍati prakriyā  
+of love  natural  of a certain  this  plays  the working
 
-(150) [not yet translated]
+(150) “In this love, praise makes one show indifference yet pains the heart; even blame, bearing the charm of a jest, gives delight; it neither wanes because of any fault nor grows because of any virtue. So plays the working of a certain natural love.” (Vidagdha-mādhava, 5.4)
 
 শ্রুত্বা নিষ্ঠুরতাং মমেন্দুবদনা প্রেমাঙ্কুরং ভিন্দতী  
 স্বান্তে শান্তিধুরাং বিধায় বিধুরে প্রায়ঃ পরাঞ্চিষ্যতি ৷  
@@ -1532,11 +1641,15 @@ premṇaḥ svārasikasya kasyacid iyaṁ vikrīḍati prakriyā
 হা মৌগ্ধ্যাৎ ফলিনী মনোরথলতা মৃদ্বী ময়োন্মূলিতা ॥ ১৫১ ॥
 
 śrutvā niṣṭhuratāṁ mamendu-vadanā premāṅkuraṁ bhindatī  
+hearing  of the cruelty  My  the moon-faced one  the sprout of love  breaking  
 svānte śānti-dhurāṁ vidhāya vidhure prāyaḥ parāñciṣyati  
+in Her heart  steadiness  establishing  afflicted  probably  will turn away  
 kimvā pāmara-kāma-kārmuka-paritrastā vimokṣyaty asūn  
-hā maugdhyāt phalinī manoratha-latā mṛdvī mayonmūlitā
+or  of wicked  Kāma  of the bow  terrified  will give up  Her life  
+hā maugdhyāt phalinī manoratha-latā mṛdvī mayonmūlitā  
+alas  through folly  about to bear fruit  of desire  the creeper  tender  by Me  uprooted
 
-(151) [not yet translated]
+(151) “Hearing of My cruelty, moon-faced Rādhā will break the sprout of Her love, make Her afflicted heart steady, and probably turn away from Me; or else, terrified of the bow of wicked Kāma, She will give up Her life. Alas, in My folly I have uprooted the tender creeper of desire that was about to bear fruit!” (Vidagdha-mādhava, 2.40)
 
 যস্যোৎসঙ্গসুখাশয়া শিথিলিতা গুর্ব্বী গুরুভ্যস্ত্রপা  
 প্রাণেভ্যোঽপি সুহৃত্তমাঃ সখি তথা যূয়ং পরিক্লেশিতাঃ ৷  
@@ -1544,11 +1657,15 @@ hā maugdhyāt phalinī manoratha-latā mṛdvī mayonmūlitā
 ধিগ্ধৈর্য্যং তদুপেক্ষিতাপি যদহং জীবামি পাপীয়সী ॥ ১৫২ ॥
 
 yasyotsaṅga-sukhāśayā śithilitā gurvī gurubhyas trapā  
+whose  embrace  by the hope of happiness  cast off  great  before the elders  shyness  
 prāṇebhyo ‘pi suhṛt-tamāḥ sakhi tathā yūyaṁ parikleśitāḥ  
+than life  even  dearest friends  O friend  likewise  you  tormented  
 dharmaḥ so ‘pi mahān mayā na gaṇitaḥ sādhvībhir adhyāsito  
-dhig dhairyaṁ tad-upekṣitāpi yad ahaṁ jīvāmi pāpīyasī
+dharma  that  even  great  by Me  not  regarded  by chaste women  followed  
+dhig dhairyaṁ tad-upekṣitāpi yad ahaṁ jīvāmi pāpīyasī  
+shame  on steadiness  by Him neglected  though  that  I  live  sinful
 
-(152) [not yet translated]
+(152) “Friend, in the hope of the happiness of His embrace I cast off My great shyness before the elders; I tormented you, My dearest friends, dearer to Me than life; I disregarded even the great *dharma* that chaste women follow. Shame on My steadiness, that though He neglects Me, I, sinful as I am, still live!” (Vidagdha-mādhava, 2.41)
 
 গৃহান্তঃখেলন্ত্যো নিজসহজবাল্যস্য বলনা-  
 দভদ্রং ভদ্রং বা কিমপি হি ন জানীমহি মনাক্ ৷  
@@ -1556,11 +1673,15 @@ dhig dhairyaṁ tad-upekṣitāpi yad ahaṁ jīvāmi pāpīyasī
 কথং বা ন্যায়্যা তে প্রথয়িতুমুদাসীনপদবী ॥ ১৫৩ ॥
 
 gṛhāntaḥ khelantyo nija-sahaja-bālyasya balanād  
+within the house  playing  of our own  natural  childhood  by the force  
 abhadraṁ bhadraṁ vā kim api hi na jānīmahi manāk  
+ill  good  or  anything  indeed  not  we know  in the least  
 vayaṁ netuṁ yuktāḥ katham aśaraṇāṁ kām api daśāṁ  
-kathaṁ vā nyāyyā te prathayitum udāsīna-padavī
+us  to bring  proper  how  helpless  some  state  
+kathaṁ vā nyāyyā te prathayitum udāsīna-padavī  
+how  or  just  for You  to display  of indifference  the path
 
-(153) [not yet translated]
+(153) “Playing at home in our natural childlike simplicity, we did not know in the least what was good or bad. How was it proper to bring us into such a helpless state? And how is it just for You now to take the path of indifference?” (Vidagdha-mādhava, 2.46)
 
 অন্তঃক্লেশকলঙ্কিতাঃ কিল বয়ং যামোঽদ্য যাম্যাং পুরীং  
 নায়ং বঞ্চনসঞ্চয়প্রণয়িনং হাসং তথাপ্যুজ্ঝতি ৷  
@@ -1568,11 +1689,15 @@ kathaṁ vā nyāyyā te prathayitum udāsīna-padavī
 হা মেধাবিনি রাধিকে তব কথং প্রেমা গরীয়ানভূৎ ॥ ১৫৪ ॥
 
 antaḥ-kleśa-kalaṅkitāḥ kila vayaṁ yāmo ‘dya yāmyāṁ purīṁ  
+inner  by suffering  stained  surely  we  go  today  of Yama  to the city  
 nāyaṁ vañcana-sañcaya-praṇayinaṁ hāsaṁ tathāpy ujjhati  
+not  He  of deceits  heaps  fond of  laughter  still  gives up  
 asmin sampuṭite gabhīra-kapaṭair ābhīra-pallī-viṭe  
-hā medhāvini rādhike tava kathaṁ premā garīyān abhūt
+for this  filled  with deep  guile  of the cowherd  village  rake  
+hā medhāvini rādhike tava kathaṁ premā garīyān abhūt  
+ah  wise  Rādhikā  Your  how  love  so great  arose
 
-(154) [not yet translated]
+(154) “Stained by inner suffering, we are surely going today to the city of Yama, and still He does not give up His laughter so fond of heaps of deceit. Ah, wise Rādhikā, how could such great love arise in You for this rake of the cowherd village, so full of deep guile?” (Vidagdha-mādhava, 2.37)
 
 হিত্বা দূরে পথি ধবতরোরন্তিকং ধর্ম্মসেতো-  
 র্ভঙ্গোদগ্রা গুরুশিখরিণং রংহসা লঙ্ঘয়ন্তী ৷  
@@ -1580,27 +1705,35 @@ hā medhāvini rādhike tava kathaṁ premā garīyān abhūt
 বাগ্বীচিভিঃ কিমিব বিমুখীভাবমস্যাস্তনোষি ॥ ১৫৫ ॥
 
 hitvā dūre pathi dhava-taror antikaṁ dharma-setor  
+leaving  far  on the way  of the husband-tree  the nearness  of the bridge of dharma  
 bhaṅgodagrā guru-śikhariṇaṁ raṁhasā laṅghayantī  
+eager to break  the mountain of elders  swiftly  crossing  
 lebhe kṛṣṇārṇava nava-rasā rādhikā-vāhinī tvāṁ  
-vāg-vīcibhiḥ kim iva vimukhī-bhāvam asyās tanoṣi
+has reached  O Kṛṣṇa-ocean  full of fresh rasa  the river Rādhikā  You  
+vāg-vīcibhiḥ kim iva vimukhī-bhāvam asyās tanoṣi  
+with waves of words  why  then  estrangement  toward her  You show
 
-(155) [not yet translated]
+(155) “O ocean Kṛṣṇa, the river Rādhikā, full of fresh *rasa*, has left far behind on her way the tree of her husband that stood beside her, broken through the bridge of *dharma*, and swiftly crossed the mountain of her elders, and she has reached You. Why, then, do You turn her away with the waves of Your words?” (Vidagdha-mādhava, 3.9)
 
 রায় কহে, — “বৃন্দাবন, মুরলী-নিঃস্বন ৷  
 কৃষ্ণ, রাধিকার কৈছে কৈরাছ বর্ণন ? ॥ ১৫৬ ॥
 
 rāya kahe, — vṛndāvana, muralī-niḥsvana  
-kṛṣṇa, rādhikāra kaiche kairācha varṇana?
+Rāya  says  Vṛndāvana  of the flute  the sound  
+kṛṣṇa, rādhikāra kaiche kairācha varṇana?  
+Kṛṣṇa  of Rādhikā  how  you have made  the description
 
-(156) [not yet translated]
+(156) Rāya said, “How have you described Vṛndāvana, the sound of the flute, Kṛṣṇa, and Rādhikā?
 
 কহ, তোমার কবিত্ব শুনি’ হয় চমৎকার” ৷  
 ক্রমে রূপ-গোসাঞি কহে করি’ নমস্কার ॥ ১৫৭ ॥
 
 kaha, tomāra kavitva śuni’ haya camatkāra  
-krame rūpa-gosāñi kahe kari’ namaskāra
+tell  your  poetry  hearing  there is  wonder  
+krame rūpa-gosāñi kahe kari’ namaskāra  
+in order  Rūpa Gosāñi  speaks  making  obeisance
 
-(157) [not yet translated]
+(157) Tell us, for hearing your poetry fills one with wonder.” Bowing down, Rūpa Gosāñi recited them in order:
 
 সুগন্ধৌ মাকন্দপ্রকরমকরন্দস্য মধুরে  
 বিনিস্যন্দে বন্দীকৃতমধুপবৃন্দং মুহুরিদম্ ৷  
@@ -1608,11 +1741,15 @@ krame rūpa-gosāñi kahe kari’ namaskāra
 র্মমানন্দং বৃন্দা-বিপিনমতুলং তুন্দিলয়তি ॥ ১৫৮ ॥
 
 su-gandhau mākanda-prakara-makarandasya madhure  
+in the fragrant  of mango  of masses of buds  of the nectar  sweet  
 vinisyande vandī-kṛta-madhupa-vṛndaṁ muhur idam  
+flow  held captive  of bees  the swarms  again and again  this  
 kṛtāndolaṁ mandonnatibhir anilaiś candana-girer  
-mamānandaṁ vṛndā-vipinam atulaṁ tundilayati
+set swaying  by the gently rising  breezes  of the sandalwood mountain  
+mamānandaṁ vṛndā-vipinam atulaṁ tundilayati  
+My bliss  of Vṛndā  the forest  incomparable  swells
 
-(158) [not yet translated]
+(158) “This forest of Vṛndā, where swarms of bees are held captive again and again by the sweet, fragrant flow of nectar from masses of mango buds, and which sways in the gentle breezes from the sandalwood mountain (Malaya), swells My incomparable bliss.” (Vidagdha-mādhava, 1.23)
 
 বৃন্দাবনং দিব্যলতা-পরীতং  
 লতাশ্চ পুষ্পস্ফুরিতাগ্রভাজঃ ৷  
@@ -1620,11 +1757,15 @@ mamānandaṁ vṛndā-vipinam atulaṁ tundilayati
 মধুব্রতাশ্চ শ্রুতিহারিগীতাঃ ॥ ১৫৯ ॥
 
 vṛndāvanaṁ divya-latā-parītaṁ  
+Vṛndāvana  by divine creepers  surrounded  
 latāś ca puṣpa-sphuritāgra-bhājaḥ  
+the creepers  and  with flowers  sparkling  tips  bearing  
 puṣpāṇi ca sphīta-madhu-vratāni  
-madhu-vratāś ca śruti-hāri-gītāḥ
+the flowers  and  with intoxicated  bees (filled)  
+madhu-vratāś ca śruti-hāri-gītāḥ  
+the bees  and  the ear  captivating  songs (having)
 
-(159) [not yet translated]
+(159) “Vṛndāvana is surrounded by divine creepers; the creepers bear tips sparkling with flowers; the flowers are filled with intoxicated bees; and the bees sing songs that captivate the ear.” (Vidagdha-mādhava, 1.24)
 
 ক্বচিদ্ভৃঙ্গীগীতং ক্বচিদনিলভঙ্গীশিশিরতা  
 ক্বচিদ্বল্লীলাস্যং ক্বচিদমলমল্লীপরিমলঃ ৷  
@@ -1632,11 +1773,15 @@ madhu-vratāś ca śruti-hāri-gītāḥ
 হৃষীকাণাং বৃন্দং প্রমদয়তি বৃন্দাবনমিদম্ ॥ ১৬০ ॥
 
 kvacid bhṛṅgī-gītaṁ kvacid anila-bhaṅgī-śiśiratā  
+somewhere  of bees  the song  somewhere  of the breeze  by the softness  coolness  
 kvacid vallī-lāsyaṁ kvacid amala-mallī-parimalaḥ  
+somewhere  of creepers  the dance  somewhere  pure  of mallikā  the fragrance  
 kvacid dhārā-śālī karaka-phala-pālī-rasa-bharo  
-hṛṣīkāṇāṁ vṛndaṁ pramadayati vṛndāvanam idam
+somewhere  in streams  flowing  of pomegranate  fruits  of rows  of juice  abundance  
+hṛṣīkāṇāṁ vṛndaṁ pramadayati vṛndāvanam idam  
+of the senses  all  delights  Vṛndāvana  this
 
-(160) [not yet translated]
+(160) “Here the bees are singing, there it is cool with the soft breeze; here the creepers dance, there drifts the pure fragrance of *mallikā* flowers; and there the juice of rows of pomegranates flows in streams. This Vṛndāvana delights all the senses.” (Vidagdha-mādhava, 1.31)
 
 পরামৃষ্টাঙ্গুষ্ঠত্রয়মসিতরত্নৈরুভয়তো  
 বহন্তী সংকীর্ণৌ মণিভিররুণৈস্তৎপরিসরৌ ৷  
@@ -1644,11 +1789,15 @@ hṛṣīkāṇāṁ vṛndaṁ pramadayati vṛndāvanam idam
 করে কল্যাণীয়ং বিহরতি হরেঃ কেলিমুরলী ॥ ১৬১ ॥
 
 parāmṛṣṭāṅguṣṭha-trayam asita-ratnair ubhayato  
+covered  three thumb-breadths  with dark gems  at both ends  
 vahantī saṁkīrṇau maṇibhir aruṇais tat-parisarau  
+bearing  inlaid  with gems  red  the adjoining parts  
 tayor madhye hīrojjvala-vimala-jāmbūnada-mayī  
-kare kalyāṇīyaṁ viharati hareḥ keli-muralī
+of them  in the middle  with diamonds  shining  of pure  gold  made  
+kare kalyāṇīyaṁ viharati hareḥ keli-muralī  
+in the hand  auspicious  this  sports  of Hari  for play  the flute
 
-(161) [not yet translated]
+(161) “Inlaid at both ends with dark gems for the breadth of three thumbs, its adjoining parts set with red gems, and in the middle made of pure gold shining with diamonds — this auspicious flute of Hari’s play sports in His hand.” (Vidagdha-mādhava, 3.1)
 
 সদ্বংশতস্তব জনিঃ পুরুষোত্তমস্য  
 পাণৌ স্থিতির্মুরলিকে সরলাসি জাত্যা ৷  
@@ -1656,11 +1805,15 @@ kare kalyāṇīyaṁ viharati hareḥ keli-muralī
 গোপাঙ্গনাগণবিমোহনমন্ত্রদীক্ষা ॥ ১৬২ ॥
 
 sad-vaṁśatas tava janiḥ puruṣottamasya  
+from a good bamboo (family)  your  birth  of Puruṣottama  
 pāṇau sthitir muralike saralāsi jātyā  
+in the hand  your dwelling  O flute  straight you are  by birth  
 kasmāt tvayā sakhi guror viṣamā gṛhītā  
-gopāṅganā-gaṇa-vimohana-mantra-dīkṣā
+from what  by you  O friend  guru  crooked  received  
+gopāṅganā-gaṇa-vimohana-mantra-dīkṣā  
+the gopīs  crowd  bewildering  in the mantra  initiation
 
-(162) [not yet translated]
+(162) “O flute, you were born of good bamboo — of a good family; you dwell in the hand of Puruṣottama; and you are straight by birth. Then from what guru, friend, did you receive this crooked initiation into the mantra that bewilders all the gopīs?” (Vidagdha-mādhava, 5.17)
 
 সখি মুরলি বিশালচ্ছিদ্রজালেন পূর্ণা  
 লঘুরতিকঠিনা ত্বং গ্রন্থিলা নীরসাসি ৷  
@@ -1668,11 +1821,15 @@ gopāṅganā-gaṇa-vimohana-mantra-dīkṣā
 হরিকরপরিরম্ভং কেন পুণ্যোদয়েন ॥ ১৬৩ ॥
 
 sakhi murali viśāla-cchidra-jālena pūrṇā  
+O friend  flute  of large  holes  with a network  full  
 laghur ati-kaṭhinā tvaṁ granthilā nīrasāsi  
+light  very  hard  you  knotty  sapless you are  
 tad api bhajasi śaśvac cumbanānanda-sāndraṁ  
-hari-kara-parirambhaṁ kena puṇyodayena
+that  yet  you enjoy  constantly  of kisses  with bliss  dense  
+hari-kara-parirambhaṁ kena puṇyodayena  
+of Hari’s  hand  the embrace  by what  of merit  fruition
 
-(163) [not yet translated]
+(163) “Friend flute, you are full of large holes; you are light, very hard, knotty, and sapless. Yet by what fruition of merit do you constantly enjoy the embrace of Hari’s hand, dense with the bliss of His kisses?” (Vidagdha-mādhava, 4.7)
 
 রুন্ধন্নম্বুভৃতশ্চমৎকৃতিপরং কুর্ব্বন্মুহুস্তুম্বুরুং  
 ধ্যানাদন্তরয়ন্ সনন্দনমুখান্ বিস্মাপয়ন্ বেধসম্ ৷  
@@ -1680,11 +1837,15 @@ hari-kara-parirambhaṁ kena puṇyodayena
 ভিন্দন্নণ্ডকটাহভিত্তিমভিতো বভ্রাম বংশীধ্বনিঃ ॥ ১৬৪ ॥
 
 rundhann ambu-bhṛtaś camatkṛti-paraṁ kurvan muhus tumburuṁ  
+stopping  the clouds  filled with wonder  making  again and again  Tumburu  
 dhyānād antarayan sanandana-mukhān vismāpayan vedhasam  
+from meditation  drawing away  Sanandana and others  astonishing  Brahmā  
 autsukyāvalibhir baliṁ caṭulayan bhogīndram āghūrṇayan  
-bhindann aṇḍa-kaṭāha-bhittim abhito babhrāma vaṁśī-dhvaniḥ
+with waves of eagerness  Bali  agitating  the king of serpents  making spin  
+bhindann aṇḍa-kaṭāha-bhittim abhito babhrāma vaṁśī-dhvaniḥ  
+piercing  of the universe’s shell  the wall  all around  wandered  of the flute  the sound
 
-(164) [not yet translated]
+(164) “The sound of the flute stopped the clouds, filled Tumburu with wonder again and again, drew Sanandana and the other sages away from their meditation, and astonished Brahmā; it stirred Bali with waves of eagerness, set the king of serpents spinning, pierced the wall of the shell of the universe, and spread in all directions.” (Vidagdha-mādhava, 1.27)
 
 অয়ং নয়নদণ্ডিতপ্রবরপুণ্ডরীকপ্রভঃ  
 প্রভাতি নবজাগুড়-দ্যুতিবিড়ম্বিপীতাম্বরঃ ৷  
@@ -1692,11 +1853,15 @@ bhindann aṇḍa-kaṭāha-bhittim abhito babhrāma vaṁśī-dhvaniḥ
 হরিন্মণিমনোহরদ্যুতিভিরুজ্জ্বলাঙ্গো হরিঃ ॥ ১৬৫ ॥
 
 ayaṁ nayana-daṇḍita-pravara-puṇḍarīka-prabhaḥ  
+this  by His eyes  having humbled  of the finest  white lotus  the lustre  
 prabhāti nava-jāguḍa-dyuti-viḍambi-pītāmbaraḥ  
+shines  of fresh  kuṅkuma  the glow  mocking  in yellow garments  
 araṇyaja-pariṣkriyā-damita-divya-veśādaro  
-harin-maṇi-manohara-dyutibhir ujjvalāṅgo hariḥ
+with forest-born  adornments  having subdued  for divine  dress  the regard  
+harin-maṇi-manohara-dyutibhir ujjvalāṅgo hariḥ  
+of an emerald  with captivating  lustre  radiant in body  Hari
 
-(165) [not yet translated]
+(165) “Here is Hari, shining: the beauty of His eyes has humbled the lustre of the finest white lotus; His yellow garments mock the glow of fresh *kuṅkuma*; His forest adornments have subdued all regard for divine dress; and His body is radiant with a lustre more captivating than an emerald.” (Vidagdha-mādhava, 1.17)
 
 জঙ্ঘাধস্তটসঙ্গিদক্ষিণপদং কিঞ্চিদ্বিভুগ্নত্রিকং  
 সাচিস্তম্ভিতকন্ধরং সখি তিরঃসঞ্চারিনেত্রাঞ্চলম্ ৷  
@@ -1704,11 +1869,15 @@ harin-maṇi-manohara-dyutibhir ujjvalāṅgo hariḥ
 রিঙ্গদ্ভ্রূভ্রমরং বরাঙ্গি পরমানন্দং পুরঃ স্বীকুরু ॥ ১৬৬ ॥
 
 jaṅghādhas-taṭa-saṅgi-dakṣiṇa-padaṁ kiñcid vibhugna-trikaṁ  
+of the shin  at the lower part  resting  right  foot  slightly  bent  waist  
 sāci-stambhita-kandharaṁ sakhi tiraḥ-sañcāri-netrāñcalam  
+sideways  held still  neck  O friend  sidelong  moving  eyes’ corners  
 vaṁśīṁ kuṭmalite dadhānam adhare lolāṅgulī-saṅgatāṁ  
-riṅgad-bhrū-bhramaraṁ varāṅgi paramānandaṁ puraḥ svī-kuru
+the flute  on budlike  holding  on the lips  by restless  fingers  touched  
+riṅgad-bhrū-bhramaraṁ varāṅgi paramānandaṁ puraḥ svī-kuru  
+moving  brow-bees  O beautiful one  supreme bliss  before you  accept
 
-(166) [not yet translated]
+(166) “Friend, O beautiful one, accept this supreme bliss who stands before you: His right foot rests against His lower shin, His waist is slightly bent, His neck is turned to the side and held still, the corners of His eyes glance sidelong; on His budlike lips He holds the flute, touched by His restless fingers, and His brows move like bees.” (Lalita-mādhava, 4.27)
 
 কুলবরতনুধর্ম্মগ্রাববৃন্দানি ভিন্দন্  
 সুমুখি নিশিতদীর্ঘাপাঙ্গটঙ্কচ্ছটাভিঃ ৷  
@@ -1716,11 +1885,15 @@ riṅgad-bhrū-bhramaraṁ varāṅgi paramānandaṁ puraḥ svī-kuru
 মরকতমণিলক্ষৈর্গোষ্ঠকক্ষাং চিনোতি ॥ ১৬৭ ॥
 
 kula-vara-tanu-dharma-grāva-vṛndāni bhindan  
+of noble  women  of dharma  stones  heaps  splitting  
 su-mukhi niśita-dīrghāpāṅga-ṭaṅka-cchaṭābhiḥ  
+O fair-faced one  sharp  of long sidelong glances  of the chisel  with flashes  
 yugapad ayam apūrvaḥ kaḥ puro viśvakarmā  
-marakata-maṇi-lakṣair goṣṭha-kakṣāṁ cinoti
+at the same time  this  unprecedented  what  before us  Viśvakarmā  
+marakata-maṇi-lakṣair goṣṭha-kakṣāṁ cinoti  
+of emerald  gems  with hundreds of thousands  in the cowherd village chambers  builds
 
-(167) [not yet translated]
+(167) “O fair-faced one, what unprecedented Viśvakarmā is this before us? With flashes of the sharp chisel of His long sidelong glances He splits the heaps of stones of noble women’s *dharma*, and at the same time, with countless emeralds, builds chambers in the cowherd village.” (Lalita-mādhava, 1.52)
 
 মহেন্দ্রমণিমণ্ডলীমদবিড়ম্বিদেহদ্যুতি-  
 র্ব্রজেন্দ্রকুলচন্দ্রমাঃ স্ফুরতি কোঽপি নব্যো যুবা ৷  
@@ -1728,11 +1901,15 @@ marakata-maṇi-lakṣair goṣṭha-kakṣāṁ cinoti
 চ্ছিদাকরণ-কৌতুকী জয়তি যস্য বংশীধ্বনিঃ ॥ ১৬৮ ॥
 
 mahendra-maṇi-maṇḍalī-mada-viḍambi-deha-dyutir  
+of great sapphires  of clusters  the pride  mocking  of body  the lustre  
 vrajendra-kula-candramāḥ sphurati ko ‘pi navyo yuvā  
+of the king of Vraja  of the dynasty  the moon  shines  some  new  youth  
 sakhi sthira-kulāṅganā-nikara-nīvi-bandhārgala-  
-cchidā-karaṇa-kautukī jayati yasya vaṁśī-dhvaniḥ
+O friend  of steadfast  noble women  of crowds  of sashes  of the knots  the bolts  
+cchidā-karaṇa-kautukī jayati yasya vaṁśī-dhvaniḥ  
+breaking  delighting in  is victorious  whose  of the flute  the sound
 
-(168) [not yet translated]
+(168) “Friend, a certain fresh youth is shining — the moon of the dynasty of the king of Vraja, the lustre of whose body mocks the pride of clusters of great sapphires. Glory to the sound of His flute, which delights in breaking the bolts of the knotted sashes of crowds of steadfast noble women!” (Lalita-mādhava, 1.49)
 
 বলাদক্ষ্ণোর্লক্ষ্মীঃ কবলয়তি নব্যং কুবলয়ং  
 মুখোল্লাসঃ ফুল্লং কমলবনমুল্লঙ্ঘয়তি চ ৷  
@@ -1740,11 +1917,15 @@ cchidā-karaṇa-kautukī jayati yasya vaṁśī-dhvaniḥ
 র্বিচিত্রং রাধায়াঃ কিমপি কিল রূপং বিলসতি ॥ ১৬৯ ॥
 
 balād akṣṇor lakṣmīḥ kavalayati navyaṁ kuvalayaṁ  
+by force  of the eyes  the beauty  swallows  fresh  blue lotus  
 mukhollāsaḥ phullaṁ kamala-vanam ullaṅghayati ca  
+of the face  the radiance  blooming  of lotuses  forest  surpasses  and  
 daśāṁ kaṣṭām aṣṭāpadam api nayaty āṅgika-rucir  
-vicitraṁ rādhāyāḥ kim api kila rūpaṁ vilasati
+into a state  painful  gold  even  brings  of the body  the lustre  
+vicitraṁ rādhāyāḥ kim api kila rūpaṁ vilasati  
+wondrous  Rādhā’s  some  indeed  beauty  plays
 
-(169) [not yet translated]
+(169) “The beauty of Her eyes forcibly swallows the fresh blue lotus; the radiance of Her face surpasses a forest of blooming lotuses; the lustre of Her body brings even gold to a painful state. Indescribably wondrous is the beauty of Rādhā as it plays.” (Vidagdha-mādhava, 1.32)
 
 বিধুরেতি দিবা বিরূপতাং  
 শতপত্রং বত শর্ব্বরীমুখে ৷  
@@ -1752,9 +1933,11 @@ vicitraṁ rādhāyāḥ kim api kila rūpaṁ vilasati
 তুলনামর্হতি মৎপ্রিয়াননম্ ॥ ১৭০ ॥
 
 vidhur eti divā virūpatāṁ śata-patraṁ bata śarvarī-mukhe  
-iti kena sadā śriyojjvalaṁ tulanām arhati mat-priyānanam
+the moon  attains  by day  loss of beauty  the lotus  alas  of night  at the onset  
+iti kena sadā śriyojjvalaṁ tulanām arhati mat-priyānanam  
+so  with what  always  with beauty  shining  comparison  deserves  of My beloved  the face
 
-(170) [not yet translated]
+(170) “Alas, the moon loses its beauty by day, and the lotus at nightfall. With what, then, can the face of My beloved, always shining with beauty, be compared?” (Vidagdha-mādhava, 5.20)
 
 প্রমদরসতরঙ্গস্মেরগণ্ডস্থলায়াঃ  
 স্মরধনুরনুবন্ধিভ্রূলতা-লাস্যভাজঃ ৷  
@@ -1762,11 +1945,15 @@ iti kena sadā śriyojjvalaṁ tulanām arhati mat-priyānanam
 হৃদয়মিদমদাঙ্ক্ষীৎ পক্ষ্মলাক্ষ্যাঃ কটাক্ষঃ ॥ ১৭১ ॥
 
 pramada-rasa-taraṅga-smera-gaṇḍa-sthalāyāḥ  
+of joy  of rasa  with waves  smiling  whose cheeks  
 smara-dhanur anubandhi-bhrū-latā-lāsya-bhājaḥ  
+Kāma’s  bow  resembling  of brow-creepers  dance  having  
 mada-kala-cala-bhṛṅgī-bhrānti-bhaṅgīṁ dadhāno  
-hṛdayam idam adāṅkṣīt pakṣmalākṣyāḥ kaṭākṣaḥ
+intoxicated  humming  darting  of a bee  of resemblance  the charm  bearing  
+hṛdayam idam adāṅkṣīt pakṣmalākṣyāḥ kaṭākṣaḥ  
+heart  this  has stung  of the one with lovely lashes  the sidelong glance
 
-(171) [not yet translated]
+(171) “The sidelong glance of that girl with lovely lashes, whose cheeks smile with waves of the *rasa* of joy and whose creeper-brows dance like Kāma’s bow, bearing the charm of an intoxicated, softly humming, darting bee, has stung this heart of Mine.” (Vidagdha-mādhava, 2.5)
 
 রায় কহে, — “তোমার কবিত্ব অমৃতের ধার ৷  
 দ্বিতীয় নাটকের কহ নান্দী-ব্যবহার” ॥ ১৭২ ॥
