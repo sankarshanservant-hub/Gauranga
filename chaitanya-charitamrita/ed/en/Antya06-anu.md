@@ -398,4 +398,716 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 > Subheading: Description of the variety of *prasāda* in Rāghava's house —
 
+## 223
+
+> Subheading: The Lord describes the conduct, that is, the *dharma*, of a *vairāgī* — one who has left home: what befits him and what does not —
+
+## 226
+
+“These duties are described mainly for pious, wealthy householders, not for great souls who have given up all possessions. Those who sing of Hari at dawn, at midnight, at midday and at the close of day cross the ocean of worldly existence. So those wholly devoted to the Lord (*ekāntins*) usually sing of Him and remember Him with the highest love, and no other duty appeals to them.” (*Hari-bhakti-vilāsa*, *vilāsa* 20, at the very end) The observances described in the *Hari-bhakti-vilāsa* are meant for wealthy householders who are almost Vaiṣṇavas. They are not for pure Vaiṣṇavas — those who have given up everything, are detached from the world and have taken shelter of the holy name alone. Whoever sings of Hari in the morning, at midnight, at midday and in the evening — that is, throughout all eight periods of the day (*aṣṭa-kāla*) — crosses the ocean of worldly existence. Pure devotees wholly devoted to the Lord sing of Him and remember Him with the highest love; apart from *kīrtana* and the like, they have no other observances.
+
+Śrī Jīva Gosvāmī Prabhu writes in the *Bhakti-sandarbha* (*anuccheda* 83[^226-1]): “Although according to the *Śrīmad-Bhāgavatam* the path of Deity worship (*arcana*), as in the *Pañcarātra* and other scriptures, is not obligatory — since it says that even without it the highest goal of human life is attained by any one of such means as surrender (*śaraṇāpatti*) …”
+
+## 228
+
+> Subheading: For the good of *sādhakas* who have left home, Raghunātha, counting himself one of them, asks Svarūpa about his duty —
+
+## 230
+
+> Subheading: Keeping silent himself, Raghunātha speaks with the Lord through Svarūpa and Govinda —
+
+## 231
+
+> Subheading: One day Svarūpa asks the Lord about Raghunātha's duty —
+
+## 233
+
+> Subheading: The Lord tells Raghunātha to accept Dāmodara Svarūpa as his *śikṣā-guru* —
+
+## 234
+
+> Subheading: Śrī Dāmodara Svarūpa — the eternal master, that is, the guru, of the Mādhva-Gauḍīyas — is the *ācārya* of the entire truth of the goal and the means (*sādhya* and *sādhana*) —
+
+## 236
+
+> Subheading: The Lord describes the conduct of one who follows the path of *rāgānugā-bhakti* —
+
+## 239
+
+> Subheading: (The third verse of the *Śikṣāṣṭaka*, spoken by Śrī Kṛṣṇa Caitanyacandra and cited in the *Padyāvalī*)
+
+See Ādi 17.31.
+
+## 240
+
+> Subheading: Raghunātha bows at the Lord's feet; the Lord embraces him —
+
+## 241
+
+> Subheading: Following Dāmodara Svarūpa, Raghunātha renders intimate service to Gaura-Kṛṣṇa —
+
+## 242
+
+> Subheading: As every year, before the Ratha-yātrā the Gauḍīya devotees come to Purī —
+
+## 243
+
+> Subheading: With all the devotees the Lord cleans the Guṇḍicā temple and holds a festival in the garden —
+
+## 244
+
+> Subheading: The Lord and His associates dance before the chariot; Raghunātha's wonder —
+
+## 245
+
+> Subheading: Raghunātha bows at the feet of the devotees and receives Advaita's mercy —
+
+## 246
+
+> Subheading: Śivānanda tells Raghunātha how Govardhana dāsa tried to find him —
+
+## 248
+
+> Subheading: After the *cāturmāsya* the devotees return from Purī to Gauḍa —
+
+## 249
+
+> Subheading: Govardhana dāsa sends a man to Śivānanda and asks about Raghunātha —
+
+## 251
+
+> Subheading: Śivānanda praises Raghunātha's renunciation at that time and his renown among Vaiṣṇavas —
+
+## 257
+
+> Subheading: That man goes to Govardhana dāsa and reports Raghunātha's worship, full of renunciation —
+
+## 258
+
+> Subheading: Govardhana dāsa and his wife regarded the devotee, who belongs to Kṛṣṇa and exists for His enjoyment, as a son for their own enjoyment; hearing that Raghunātha had given up enjoyment to serve Kṛṣṇa, they grieve —
+
+## 259
+
+> Subheading: Money, servants and a cook are sent to Śivānanda to be given to Raghunātha —
+
+## 260
+
+> Subheading: Śivānanda promises to take them with him —
+
+## 262
+
+> Subheading: Śrī Kavi Karṇapūra describes Raghunātha's greatness in his drama —
+
+“In his book”: in the *Śrī Caitanya-candrodaya-nāṭaka*.
+
+## 263
+
+> Subheading: The virtues of Yadunandana Ācārya and of Raghunātha — a follower of Svarūpa and the object of Śrī Kṛṣṇa Caitanya's boundless mercy — (Śivānanda's words to a fellow pilgrim in the *Śrī Caitanya-candrodaya-nāṭaka*, act 10, verses 3–4)
+
+**śrī-vāsudeva-priyaḥ** (dear to Vāsudeva Datta Ṭhākura, that is, an object of his mercy, but not his disciple) **su-madhuraḥ** (very gentle) **yadunandanaḥ** **ācāryaḥ**; **tac-chiṣyaḥ** (a disciple of that Yadunandana, that is, an object of his mercy — not that he received initiation from him in particular; such is the sense)[^263-1] **adhiguṇaḥ** (surpassing in virtues, that is, endowed with more virtues than anyone) **mādṛśām** (of those who, like us, have Gaura as their life) **prāṇādhikaḥ** (dearer than life) **śrī-caitanya-kṛpātireka-satata-snigdhaḥ** (by Gaura's boundless mercy always full of *prema*) **svarūpa-priyaḥ** (a follower of Dāmodara Svarūpa) **vairāgyaika-nidhiḥ** (the sole treasure of renunciation, that is, its chief abode, or ocean) **raghunāthaḥ** (Śrī Dāsa Gosvāmī) **nīlācale** (in Puruṣottama-kṣetra) **tiṣṭhatām** (among those living) **kasya na viditaḥ?** (that is, he is known to all; such is the sense).
+
+## 264
+
+> Subheading: Raghunātha's incomparable good fortune —
+
+**yaḥ** (Dāsa Gosvāmī) **sarva-lokaika-manobhirucyā** (by the single, that is, the chief, inclination of the mind — the love — of all devotee people; by that) **kācit** (indescribable) **akṛṣṭa-pacyā** (ripened without plowing, that is, perfected even before perfection is reached through *sādhana*, or perfected without *sādhana*) **saubhāgya-bhūḥ** (soil of good fortune), **yasyām** (in which — in that soil) **samāropaṇa-tulya-kālam** (at the very time the seed was sown) **atulyaḥ** (matchless) **tat-prema-śākhī** (*tat* — His, Śrī Caitanya's; *prema* — that itself is the tree) **phalavān** (fruitful; “became” is understood).
+
+## 266
+
+> Subheading: The money, servants and brāhmaṇa sent by Govardhana go with Śivānanda to Purī in the rainy season —
+
+## 268
+
+> Subheading: Raghunātha refuses all of it —
+
+## 269
+
+> Subheading: Raghunātha invites the Lord twice a month —
+
+## 270
+
+> Subheading: Only for this does Raghunātha accept the money sent by Govardhana —
+
+*Aṣṭa-paṇa* (eight *paṇas*): 640 cowrie shells, that is, eight annas.[^270-1]
+
+## 271
+
+> Subheading: After two years he stops inviting the Lord —
+
+## 272
+
+> Subheading: Mahāprabhu asks Svarūpa why Raghunātha has stopped inviting Him —
+
+## 274
+
+> Subheading: Svarūpa reveals Raghunātha's state of mind to the Lord and thereby teaches worldly people: the material things enjoyed by a *viṣayī* who thinks himself the enjoyer can never become objects of enjoyment for the spiritual Viṣṇu —
+
+## 275
+
+> Subheading: An attempt to perform[^275-1] spiritual service to Viṣṇu with material things enjoyed by a person bewildered by false ego only increases *anarthas*; it is rooted in mixing spirit with matter, and its fruit is mere worldly prestige —
+
+A person with the false sense of “I” and “mine” — a worldly *viṣayī* who enjoys matter — may try to serve Hari, guru and the Vaiṣṇavas, the substance of eternity, knowledge and bliss beyond matter, with money meant for his own enjoyment. Such an attempt yields only worldly prestige (*pratiṣṭhā*); in reality he does not serve the transcendental Hari, guru and Vaiṣṇavas. A *jīva* who desires his eternal good should surrender completely, that is, dedicate himself wholly, and serve the transcendental Hari, guru and Vaiṣṇavas with all the money he has earned himself, and with body, mind, speech and life.
+
+## 276
+
+> Subheading: The Lord's bountiful mercy for the eternal good of the foolish —
+
+*Viṣayīs* intoxicated with pride in high birth, wealth, learning and beauty have others perform so-called service to the Śrī Mūrti and then distribute [the offered food] to Vaiṣṇavas, thinking it *prasāda*. In their foolishness they do not know that Adhokṣaja, Ajita, accepts nothing offered in a mood devoid of *bhakti*. Therefore Vaiṣṇavas wholly devoted to serving Kṛṣṇa and impartial — that is, detached from worldly enjoyment — in many cases do not accept help from such *viṣayīs*, enjoyers of matter: that help is tinged with the smell of material conceit, and by accepting it they would become those people's servants. Then the wealthy worldly *viṣayīs*, out of a foolishness born of identifying themselves with the body and so on, nurse hostility toward the Vaiṣṇava and are pained by his conduct.
+
+## 277
+
+> Subheading: Mahāprabhu is pleased —
+
+## 278
+
+> Subheading: The Lord instructs *sādhakas* and *ācāryas* how to associate and conduct themselves — their duty —
+
+Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhaka* accepts food that they give without *bhakti*, or eats with them, that contact infects the Vaiṣṇava *sādhaka* with their association, and as a result *sādhakas* acquire the same nature as theirs. Suppose someone, even in the slightest degree, even with hidden sympathy, engages in the six kinds of association (giving, receiving, eating with them and feeding them, revealing confidences and inquiring) with non-Vaiṣṇavas and with *prākṛta-sahajiyās* who bear the name “Vaiṣṇava.” Then worldly enjoyment, based on gratifying the material senses, takes the place of transcendental pure devotion to Kṛṣṇa and robs the *sādhaka* of devotion to Kṛṣṇa. Therefore people with impure hearts, soiled by sense objects and bent on gratifying their own senses, can never remember the transcendental Kṛṣṇa or serve Him in other such ways.
+
+## 279
+
+> Subheading: A *viṣayī* is a *gṛhavrata*, one versed only in worldly affairs; association with him is itself “*rājasic*” —
+
+## 280
+
+> Subheading: By the Lord's bountiful mercy sound judgment arises in the *sādhaka*: he gives up devotion mixed with *karma* and turns to pure service —
+
+## 281
+
+> Subheading: Raghunātha leaves the Siṁha-dvāra and takes food at the *chatra* —
+
+## 282
+
+> Subheading: The Lord asks Svarūpa why Raghunātha has left the Siṁha-dvāra —
+
+*Ṭhāḍa* (a Hindi word): standing.
+
+## 283
+
+> Subheading: Svarūpa relates that Raghunātha, following the example of detached souls who have left home, has taken up *mādhukarī* alms —
+
+## 284
+
+> Subheading: Waiting for food from another, at his whim, is contrary to the *dharma* of impartial renunciation —
+
+## 285
+
+> Subheading: At the mere sight of people — hopes of receiving alms or not, and guesses about how it will go — (the words of Śrī Kṛṣṇa Caitanyadeva)
+
+(Seeing some traveler, one who hopes for money or food says to himself:) **ayam** (this traveler) **āgacchati**; **ayam** (this generous man) **mām dāsyati** (will give me money, food and so on); **anena** (by this giver on some earlier evening — money, food and so on) **dattam**; **ayam aparaḥ** (here another man has come); **ayam sametya** (approaching) **dāsyati**; **anena api na** (anything) **dattam**; **anyaḥ** (a giver) **sameṣyati** (will come) — **saḥ** (he indeed) **mahyam dāsyati**.
+
+## 286
+
+> Subheading: Only *mādhukarī* alms favor the worship of Hari for a detached soul who has left home —
+
+## 287
+
+> Subheading: The guru of all knowers of Brahman, regarding Raghunātha as the best of the best, gives him His own Deity of Giridhārī and the garland that is the form of Gāndharvā —
+
+The Govardhana-śilā is the Deity Śrī Giridhārī; the *guñjā-mālā* is a garland of *guñjā* seeds.[^287-1]
+
+## 288
+
+> Subheading: How the Deity and the garland were first obtained —
+
+## 290
+
+> Subheading: While remembering Kṛṣṇa, the Lord honors that garland and the Deity, seeing in them Gāndharvā and Giridhārī Themselves —
+
+## 293
+
+> Subheading: After serving them for three years, the Lord gives them to Raghunātha —
+
+## 294
+
+> Subheading: The Lord's instruction, to teach the godless (*pāṣaṇḍīs*) who see stone in the worshipable Deity of Viṣṇu and caste in a Vaiṣṇava —
+
+## 293–294
+
+The Govardhana-śilā is the son of the king of Vraja (Vrajendra-nandana) Himself. Mahāprabhu called this *śilā* “Kṛṣṇa's own transcendental body” and kept it with Him for three years. Then He revealed it in Raghunātha's heart and, regarding him as dear to His own dearest, gave him the right to serve it.
+
+There are, however, non-Vaiṣṇavas reared and nourished by *adaiva varṇāśrama* and standing in it in the position of servants. Their minds are worldly, and they are intoxicated with pride in sense-born knowledge. Outwardly they bear the marks of a Vaiṣṇava, but at root they hate the Vaiṣṇavas: wishing to satisfy their own worldly, contemptible hidden tendencies, they rely on their sense-born knowledge, that is, on mental speculation. So in the transcendental worshipable Deity of Viṣṇu they see metal or stone; in Śrī Gurudeva — a manifest form of Kṛṣṇa, the servitor Bhagavān, a spiritual pastime (*cid-vilāsa*) — they see a mortal; and in a *paramahaṁsa* Vaiṣṇava, the guru of the followers of *varṇāśrama*, they see caste. With these notions they invent the claim: “Śrī Raghunātha dāsa Gosvāmī Prabhu was not a brāhmaṇa by birth (*śaukra*) and did not undergo the Sāvitrī rite, and therefore he did not attain brāhmaṇa status by initiation (*daikṣya*).” People of this sort, tormented by envy, conclude by their speculation that no pure devotee except one born in a brāhmaṇa family by seed has the right to touch or worship the Deity of Viṣṇu, and that Mahāprabhu, with an eye to worldly *adaiva* society, skillfully displayed such a pastime. For this offense such inventors fall into the cesspit of *viṣaya* — into endless offense — and their offense against the Vaiṣṇavas ruins them utterly in this world and the next. *Kaniṣṭha* and *madhyama* Vaiṣṇavas should by no means associate with this band of offenders. These people believe that the pure spiritual ideal of transcendental brāhmaṇa-hood can exist nowhere but in brāhmaṇa-hood by seed, which fosters association with those attached to women. This belief leads to hell; without doubt it will confine them forever in *mahā-raurava* and destroy them.
+
+## 295
+
+> Subheading: The pure *sāttvic* worship of a *mahā-bhāgavata*, that is, service in *bhāva*, is not the *arcana* of the worldly level of a *kaniṣṭha-adhikārī*; that very *bhāva* is *prema* —
+
+## 296
+
+> Subheading: The method of pure *sāttvic* service —
+
+## 298
+
+> Subheading: The service in pure *sāttvic bhāva* of the *mahā-bhāgavata* Raghunātha, the guru of all knowers of Brahman and dear to the Lord —
+
+## 300
+
+> Subheading: Putting to shame the inventions of the godless who see stone in the worshipable Viṣṇu and caste in a Vaiṣṇava, Raghunātha sees in Giridhārī the son of the king of Vraja Himself —
+
+## 301
+
+> Subheading: Raghunātha's unprecedented love for the Lord —
+
+## 303
+
+> Subheading: One day, at Svarūpa's request, Raghunātha offers the Deity sweets (*sandeśa*) supplied by Govinda —
+
+## 306
+
+> Subheading: Raghunātha grasps the meaning of the Lord's mercy —
+
+## 307
+
+> Subheading: By giving the garland and the *śilā*, the Lord gives Raghunātha intimate service to Gāndharvā and Giridhārī, full of *rāga* —
+
+## 308
+
+> Subheading: The service to Gaura of Raghunātha, who has lost himself in *prema* —
+
+## 309
+
+> Subheading: The incomparable, wondrous, unwavering ideal of Raghunātha Gosvāmī's worship, full of renunciation for the pleasure of Kṛṣṇa's senses —
+
+## 310
+
+> Subheading: Serving Kṛṣṇa at every moment —
+
+A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtana*; to eating and sleeping, four *daṇḍas*, and even that not every day.”
+
+## 311
+
+> Subheading: Raghunātha Gosvāmī, who conquered the six urges —
+
+## 313
+
+> Subheading: Accepting only as much as is needed to sustain life —
+
+*Nirvedana*: reproach, censure.
+
+## 314
+
+> Subheading: As divine knowledge of *sambandha* dawns, identification with the body wanes — (*Śrīmad-Bhāgavatam* 7.15.40)
+
+“By following what rule does a householder easily attain liberation?” Answering this question of Dharmarāja Yudhiṣṭhira, the sage among the gods Nārada describes the essence of the *sādhana* of all *varṇas* and *āśramas*, whose mark is liberation (*mokṣa*). After speaking of the four *āśramas*, at the end he says: **cet** (if) **ātmānam param** (“Brahman — Kṛṣṇa”) **vijānīyāt**, **tadā** **jñāna-dhutāśayaḥ** (one whose *āśaya* — desire for sense objects — has been shaken off, driven out by knowledge, that is, by knowledge of *sambandha*) **lampaṭaḥ** (giving free rein to tongue and genitals) **kim icchan** (for what purpose) **kasya vā hetoḥ** **deham puṣṇāti** (would he tend the body?) — the sense is: greed is impossible for a *jñānī*. So also says the *śruti*: “If a man has known the Self as ‘I am He,’ desiring what, for whose desire, would he care for the body?”[^314-1]
+
+## 315
+
+> Subheading: Raghunātha washes the unsold, stale, mud-soiled *prasāda* rice of the shopkeepers and honors it, seeing in it Kṛṣṇa's remnants, a spiritual substance —
+
+## 316
+
+*Ḍāre*: they throw away.
+
+## 318
+
+“Cleaning the hard rice inside”: that is, washing and cleaning the hard core of the half-cooked rice.
+
+## 319
+
+> Subheading: One day Svarūpa joyfully takes a portion of these remnants of Kṛṣṇa, seeing in them a spiritual substance —
+
+## 320
+
+> Subheading: The *prasāda* taken by Raghunātha, the dearest of Gaura-Kṛṣṇa, is spiritual nectar enjoyed by Kṛṣṇa —
+
+## 321
+
+> Subheading: Hearing of it from Govinda, the Lord Himself also takes this nectarean food enjoyed by Kṛṣṇa —
+
+## 322
+
+*Khāsā*: excellent.
+
+## 323
+
+> Subheading: The teaching that even if a *sādhaka* has himself grown used to renunciation for Kṛṣṇa's pleasure, he must worship Hari, guru and the Vaiṣṇavas, the possessors of all opulence, with the finest spiritual articles, regarding them as his only masters —
+
+## 324
+
+> Subheading: The Lord praises the *prasāda* taken by His dearest Raghunātha —
+
+## 325
+
+> Subheading: The Lord rejoices to see Raghunātha's renunciation, full of the desire to please Kṛṣṇa's senses —
+
+## 326
+
+> Subheading: Raghunātha describes the Lord's mercy in his own prayer —
+
+## 327
+
+> Subheading: By Gaura's mercy Raghunātha attains the following of Dāmodara and service to Gāndharvā and Giridhārī — (*Stavāvalī*, *Caitanya-stava-kalpavṛkṣa*, verse 11)
+
+**yaḥ** (Mahāprabhu) **kṛpayā** (out of His compassion) **kujanam api mām** **mahā-sampad-dārāt** (great wealth and wife; their aggregate, that is, from contact with gold and women; with the reading *mahā-sampad-dāvāt* — from the fire that is great wealth itself) **uddhṛtya** **svīye** (to His own intimate) **svarūpe** (Śrī Dāmodara Svarūpa) **nyasya** (entrusting) **muditaḥ** (being pleased) **priyam api** **uro-guñjā-hāram** (the *guñjā* garland from His chest) **govardhana-śilām ca** (the Deity of the Holder of the mountain) **me** (to me) **dadau**, **saḥ** (Gaurāṅga, Gaurahari) **me** (my) **hṛdaye** **udayan** (appearing) **mām madayati** (delights me).[^327-1]
+
+## 328
+
+> Subheading: Whoever hears of the Lord's meeting with Raghunātha attains Caitanya's feet —
+
+*Thus ends the sixth chapter of the “Anubhāṣya.”*
+
 ---
+
+## 111
+
+> Subheading: The offerings prepared in Rāghava's house are ever dear to the Lord —
+
+## 112
+
+> Subheading: Every day a separate offering for Mahāprabhu, and the Lord partakes of it —
+
+## 114
+
+> Subheading: Rāghava serves the meal to the two Lords —
+
+## 115
+
+> Subheading: The two Lords eat many kinds of wonderful *prasāda*, leaving nothing —
+
+## 116
+
+> Subheading: In Rāghava's house Śrī Rādhikā Herself cooks for Kṛṣṇa food that surpasses nectar —
+
+## 117
+
+> Subheading: The two Lords' delight in eating it —
+
+## 118
+
+> Subheading: All the devotees sit down; they ask Raghunātha to sit for the meal, and he agrees to sit later —
+
+## 119
+
+> Subheading: The devotees eat their fill and rinse their mouths —
+
+## 120
+
+> Subheading: After rinsing Their mouths, the two Lords are adorned with garlands and sandal paste —
+
+## 121
+
+> Subheading: The two Lords take betel; everyone receives the remnants —
+
+**Biḍā** — prepared betel: a folded *pān* leaf (*khili*).
+
+## 122
+
+> Subheading: Full of affection and mercy, Rāghava gives Raghunātha the plate of the two Lords' remnants —
+
+## 123
+
+> Subheading: Only by partaking of the Lord's remnants does Raghunātha gain the strength to leave home —
+
+## 124
+
+> Subheading: Where Bhagavān abides, and what His nature is —
+
+## 125
+
+> Subheading: The ruin of one who doubts the Lord's all-pervading nature —
+
+## 126
+
+> Subheading: The next day, after His morning bath, Nitāi sits at the foot of a tree, and Raghunātha begs Him for Caitanya's feet —
+
+## 131
+
+> Subheading: Without the mercy of Nityānanda (the guru) no one can attain Caitanya's feet; by His mercy even the unworthy become worthy of them —
+
+## 132
+
+> Subheading: To attain Caitanya's feet one must beg for mercy at the feet of Nityānanda (the guru) —
+
+## 134
+
+> Subheading: Seeing Raghunātha's longing for Caitanya's feet, Nityānanda Prabhu asks His pure devotees to bless him with their mercy —
+
+## 136
+
+> Subheading: The glory of the fragrance of Kṛṣṇa's lotus feet, and its power to attract —
+
+## 137
+
+See Madhya 23.24.
+
+## 138
+
+> Subheading: Nityānanda places His foot on Raghunātha's head — how Raghunātha received the Lord's mercy —
+
+## 141
+
+> Subheading: Out of mercy to Raghunātha, Gaura appears, and the meal destroys all of Raghunātha's obstacles —
+
+## 142
+
+> Subheading: Nityānanda Prabhu's prophecy —
+
+## 143
+
+> Subheading: The blessing to attain Caitanya's feet without obstacle —
+
+## 144
+
+> Subheading: Through the devotees He has Raghunātha blessed; Raghunātha bows at the devotees' feet —
+
+## 145
+
+> Subheading: A secret consultation with Rāghava —
+
+## 146
+
+> Subheading: Raghunātha places money as an offering (*praṇāmī*) in the hands of the Lord's treasurer —
+
+## 147
+
+> Subheading: A request to keep this hidden from the Lord —
+
+## 148
+
+> Subheading: Rāghava takes Raghunātha to his own house, shows him the Deity, and honors him fittingly —
+
+## 149
+
+> Subheading: By showing an example of how the feet of Vaiṣṇavas should be honored, Raghunātha teaches wealthy worldly people —
+
+## 152
+
+> Subheading: A letter of greeting and an offering (*praṇāmī*) to everyone —
+
+## 154
+
+> Subheading: Having received Nitāi's mercy and bowed to Rāghava, Raghunātha returns home —
+
+## 155
+
+> Subheading: From then on he lives in the outer part of the house —
+
+## 156
+
+> Subheading: The guards —
+
+## 157
+
+> Subheading: In the rainy season the devotees of Gauḍa set out for Purī to see the Lord —
+
+## 158
+
+> Subheading: Fearing that he would be caught if he went openly with the devotees of Gauḍa, Raghunātha cannot go to Purī —
+
+## 159
+
+> Subheading: The account of Raghunātha's meeting with the Lord; Raghunātha's day of good fortune —
+
+## 160
+
+> Subheading: Late in the night — a meeting with his guru, Yadunandana —
+
+## 161
+
+> Subheading: Who Yadunandana was —
+
+## 161–162
+
+These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya's order call themselves his followers. Yet, swayed by a mood hostile to pure devotion, they did not recognize Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the *jīva* eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a *brāhmaṇa* family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
+
+## 163
+
+> Subheading: Raghunātha bows to Yadunandana —
+
+## 165
+
+> Subheading: Yadunandana takes Raghunātha with him so that he may persuade a disciple who had given up the worship of the Deity to perform the morning *ārati* —
+
+## 166
+
+> Subheading: At the end of the night the guards fall fast asleep —
+
+## 167
+
+> Subheading: Raghunātha follows his guru; the two walk toward the Ācārya's house —
+
+## 169
+
+> Subheading: Seizing a good opportunity on the way, the clever Raghunātha asks his guru's leave to go and worship Kṛṣṇa —
+
+## 170
+
+> Subheading: Raghunātha plans his escape —
+
+## 171
+
+> Subheading: Flight in great haste —
+
+## 172
+
+> Subheading: Fearing capture, he hurries through the forests by byways —
+
+## 173
+
+> Subheading: All day, meditating single-mindedly on Caitanya's feet, he covers a long way, and in the evening, in a cowherd's house, he drinks milk and rests his weary body —
+
+## 174
+
+**Bāthān** — a cowshed, a cow pen (*goṣṭha*).
+
+## 176
+
+> Subheading: The next morning, not finding Raghunātha, the household raises an uproar, and to search for him his father sends a letter and men to the pilgrims bound for Purī —
+
+## 180
+
+**Bāhuḍiyā** — bringing back. Śivānanda Sena used to lead the pilgrims from Gauḍa to Nīlācala. Raghunātha's father therefore guessed that his son was with him, and to have Raghunātha sent back he sent him a letter of request, and ten men along with it.
+
+## 182
+
+> Subheading: The men deliver the letter to Śivānanda and ask about Raghunātha —
+
+## 183
+
+> Subheading: Śivānanda says he knows nothing; not finding Raghunātha, the messengers return home —
+
+## 184
+
+> Subheading: Lost to himself in love for the Lord, Raghunātha travels to Purī to attain the Lord's feet, enduring severe bodily hardship on the way —
+
+## 185
+
+**Saraṇa** — a broad road.
+
+**Chatrabhoga.** Today this place lies in the Twenty-four Parganas district, within Mathurāpura; it is known as the “Chāṛ-khāṛi” of the Gaṅgā and lies near the two well-known villages of Jayanagara and Majilapura. In former times the Gaṅgā flowed here. Those who take Chatrabhoga to be the Kāsāi River are mistaken.
+
+## 188
+
+> Subheading: He reaches Purī in twelve days; on the way he ate on only three days —
+
+## 189
+
+> Subheading: The Lord is seated with Svarūpa and others; Raghunātha arrives and prostrates himself, and Mukunda introduces him —
+
+## 191
+
+> Subheading: Raghunātha bows at the Lord's feet, and the Lord embraces him —
+
+## 192
+
+> Subheading: Raghunātha bows to Svarūpa and the other devotees, and all embrace him —
+
+## 193
+
+> Subheading: On the occasion of the eternally perfect (*nitya-siddha*) Raghunātha's leaving home, the Lord instructs the practitioner of devotion who still has *anarthas*; the greatness of Kṛṣṇa's mercy —
+
+Kṛṣṇa's mercy is more powerful than the fruits of past *karma* and all else. It is this compassion of Kṛṣṇa that has rescued you from the cesspit of worldly life. A *jīva* attached to worldly things cannot give them up by his own strength. And for a *jīva* who is a pure servant of Kṛṣṇa, worldly things are all the more like a cesspit. Mahāprabhu knew that Śrīla Raghunātha was free from worldliness, yet He said this, using him as the occasion, only to teach suffering worldly people.
+
+## 194
+
+> Subheading: Raghunātha's undivided faith in Gaura-Kṛṣṇa —
+
+## 195
+
+> Subheading: The Lord describes the character of Hiraṇya and Govardhana —
+
+Nīlāmbara Cakravartī knew Raghunātha's father and uncle to be noble Kāyasthas younger than himself, and so he called them *bhāyā* (brother). The two brothers, knowing Nīlāmbara to be a *brāhmaṇa* older than they, addressed him as *dādā* (elder brother). Therefore Śrī Mahāprabhu, regarding them as brothers of His maternal grandfather, considered them people He could tease. Because of this form of address many mistakenly think that Raghunātha was much older than Mahāprabhu, but in fact this is not so.
+
+## 197
+
+> Subheading: The poison of worldliness destroys the self: it is a terrible obstacle to the *jīva's* attaining his true nature (*svarūpa*), his real health —
+
+Worldly objects (*viṣaya*) give great suffering to the worldly man who enjoys them. Yet people bound to worldly existence, their hearts absorbed in worldliness, take these painful worldly objects for “happiness.” The objects enjoyed by the material senses are fit to be rejected: they are like a cesspit. The *jīva* absorbed in them is like a worm in loathsome excrement. In other words, in the eyes of one who seeks the highest goal, the worldly enjoyer of matter is like a worm in a cesspit: in that worm's form he revels with great delight in the taste of the most loathsome excrement of worldliness.
+
+## 198
+
+> Subheading: Other desires born of the conceit of being an enjoyer or of identifying the self with the body, service mixed with *karma* and *jñāna*, a mere semblance of following Viṣṇu and the Vaiṣṇavas, though not hostile — worldly faith — this is not pure devotion but only the stage of the *kaniṣṭha-adhikārī* —
+
+The two brothers, Hiraṇya and Govardhana, honored the *brāhmaṇas* and were their patrons, supporters, and helpers. Therefore by the standards of worldly judgment they were respected as excellent, “good” people, and among ordinary people they were known as “Vaiṣṇavas.” But in the judgment of pure devotees who seek the highest goal they are not “pure Vaiṣṇavas”: the pure Vaiṣṇavas regarded them as *vaiṣṇava-prāya* (almost Vaiṣṇavas) or *vaiṣṇavābhāsa* (a semblance of Vaiṣṇavas), that is, as *kaniṣṭhas* or *bāliśa* (the uninformed) — but not as *vidveṣī* (hostile).
+
+## 199
+
+> Subheading: Giving up the desire to please Kṛṣṇa, one pursues worldly objects through enjoyment or renunciation, relying on knowledge gained through the senses; as a result even the slightest seed of faith is stifled and worldly existence grows —
+
+Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *anyābhilāṣīs* (those with other desires). Therefore the very *karma*, *jñāna*, and other practices they perform sink them, without their knowing it, into worldliness, and they become as inert as matter.
+
+## 200
+
+> Subheading: The eternally perfect Raghunātha has no worldly enjoyment; the Lord's instruction is meant for the practitioner who has *anarthas* —
+
+## 201
+
+> Subheading: The Lord entrusts Raghunātha to the hands of Svarūpa Dāmodara —
+
+## 203
+
+> Subheading: Vaidya-Raghunātha, Bhaṭṭa-Raghunātha, and Dāsa-Raghunātha, the follower of Svarūpa —
+
+## 205
+
+> Subheading: At the Lord's order Svarūpa accepts Raghunātha —
+
+## 206
+
+> Subheading: The Lord's incomparable love for His devotees; He tells Govinda to care for Raghunātha attentively —
+
+## 207
+
+**Laṅghana** — fasting and other hardships; **santarpaṇa** — care, nursing.
+
+## 208
+
+> Subheading: The Lord tells Raghunātha to bathe in the sea, take *darśana* of Jagannātha, and then honor *prasāda* —
+
+## 209
+
+> Subheading: Raghunātha meets the devotees —
+
+## 210
+
+> Subheading: Seeing the Lord's mercy on Raghunātha, the devotees praise his good fortune —
+
+## 211
+
+> Subheading: After bathing in the sea and seeing Jagannātha, Raghunātha, by Govinda's kindness, receives the Lord's remnants —
+
+## 213
+
+> Subheading: For five days Raghunātha stays near Svarūpa and receives the Lord's *prasāda* —
+
+## 214
+
+> Subheading: From the next day Raghunātha stands at night at the Lion Gate, waiting for *prasāda* —
+
+**Puṣpa-añjali** — the evening service to Jagannātha: the offering of handfuls of flowers (*puṣpāñjali*).
+
+## 215
+
+> Subheading: How Jagannātha's servants, who are householders, give *prasāda* at night, after finishing the worship and setting out for home, to a Vaiṣṇava waiting at the gate —
+
+## 217
+
+> Subheading: How the penniless, detached devotees live in Puruṣottama-kṣetra —
+
+## 220
+
+> Subheading: The conduct of the Lord's devotees: for Kṛṣṇa's pleasure they renounce their own enjoyment, or all their efforts are for Kṛṣṇa's pleasure —
+
+If both non-devotee worldly people and pure devotees look carefully and impartially at Mahāprabhu's devotees, they can understand that these devotees are not intent on material enjoyment. Renouncing sense gratification, comfort, and other pleasures, they are indifferent, for the sake of serving Kṛṣṇa, to everything that is not Kṛṣṇa. Their service to Kṛṣṇa, joined with renunciation of the worldly, is unmotivated, unceasing, and beyond this world; ordinary worldly vision cannot grasp it. Bhagavān Gaurasundara takes the highest delight in seeing the skill in pure worship of one who is detached from all that is not Kṛṣṇa.
+
+## 221
+
+> Subheading: Govinda informs the Lord that Raghunātha is waiting for *prasāda* at the Lion Gate —
+
+## 222
+
+> Subheading: Raghunātha has left home, and so he is called a *vairāgī*; the Lord is pleased with his renunciation —
+
+[^226-1]: So in the edition; the words quoted are from the *Bhakti-sandarbha*, *anuccheda* 283.
+
+[^263-1]: In the verse translation, otherwise: “very dear to his guru Yadunandana Ācārya, a disciple of Vāsudeva Datta.”
+
+[^270-1]: The edition has “॥০ আনা”: in the old notation ॥০ is ½ rupee, that is, eight annas.
+
+[^275-1]: Literally “an attempt to measure (*parimāṇa*)”; translated by sense.
+
+[^287-1]: In the verse translation, otherwise: “a necklace of small shells.”
+
+[^314-1]: *Bṛhad-āraṇyaka Upaniṣad* 4.4.12 (there *anusaṁjvaret*, “would he suffer along with the body”; the edition has *anu-sañcaret*).
+
+[^327-1]: In the verse translation, otherwise: “from the great fire of luxurious worldly life”; the reading *-dāvāt* (“from the fire”) the commentator gives as a variant.

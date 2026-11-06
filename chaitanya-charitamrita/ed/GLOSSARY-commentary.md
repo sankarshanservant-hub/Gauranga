@@ -3215,3 +3215,102 @@ RU → EN. В общий глоссарий не внесено (решает к
 - জঙ্গম-ব্রহ্ম → движущийся Брахман (джангама-брахман) / the moving Brahman (*jaṅgama-brahma*); দারুব্রহ্ম → Дару-Брахман / the Dāru-brahma.
 - স্তোভ (вид намабхасы) → стобха / *stobha*.
 - সন্ন্যাস-ধর্ম্ম → санньяса-дхарма / the *dharma* of *sannyāsa*.
+
+## Термины (добавлено по Антья 6; RU и EN)
+
+### Antya06-p1
+
+# Новые термины — Антья 6, часть 1 (комментарии к стихам 0–110)
+
+- চিড়া / দধি; চিড়া-দধি-মহোৎসব → чида (плющеный рис) / дадхи (простокваша); праздник чиды и дадхи / *ciḍā* (flat rice) / *dadhi* (yogurt); the festival of *ciḍā* and *dadhi*.
+- দণ্ড-মহোৎসব → данда-махотсава (праздник-наказание) / the *daṇḍa-mahotsava* (festival of punishment).
+- বিত্তশাঠ্য → лукавство в обращении с богатством (витта-шатхья) / deceit in the use of wealth (*vitta-śāṭhya*).
+- মর্কট-বৈরাগ্য → марката-вайрагья (обезьянье отречение) / *markaṭa-vairāgya* (monkey renunciation) — как в Мадхье 16.
+- যুক্ত-বৈরাগ্য → юкта-вайрагья (отречение, сообразное с бхакти) / *yukta-vairāgya* (renunciation fit for devotion).
+- ম্লেচ্ছ-চৌধুরী, মোছলেম চৌধুরী → чаудхури-млеччха, мусульманин-чаудхури / the *mleccha caudhurī*, the Muslim *caudhurī*; চৌধুরী → чаудхури / *caudhurī*.
+- উজির → уджир (визирь; у ВЧД в стихах — «казначей») / the vizier (*ujir*).
+- মক্ররি (ইজারা) → макарари (иджара, постоянный откуп) / *makarari* (*ijārā*, a permanent lease of revenue); কৈফিয়ৎ → кайфият (письменный отчёт) / *kaiphiyat* (a written report).
+- লক্ষ → лакх / lakh.
+- কায়স্থ → каястха (сословие) / Kāyastha; রাজবল্লভ → приближённый к царю / close to the king.
+- প্রারব্ধ → прарабдха (деяния прошлых жизней, начавшие приносить плоды) / *prārabdha*.
+- সূত্র (= ছুতা) → сутра («чхута», предлог) / *sūtra* (*chutā*, a pretext); নির্ব্বিণ্ণ → нирвинна (удручённый) / *nirviṇṇa* (distressed).
+- অযাচকবৃত্তি (в изд. «অযাজকবৃত্তি») → айачака-вритти (жить, ничего не прося) / *ayācaka-vṛtti* (living without asking).
+- ছত্র → чатра (место раздачи пищи) / the *chatra*; গুঞ্জামালা → гирлянда из гунджи / *guñjā* garland; গোবর্দ্ধনশিলা → шила Говардханы / the *govardhana-śilā*.
+- সড়া-প্রসাদ → загнивший прасад / rotten *prasāda*.
+- লাগ্ → лаг (прикосновение, встреча, обнаружение, общество) / *lāg*; চবুতরা → чабутара (помост) / *cabutarā* (platform); পিণ্ডা → пинда (возвышение у дерева) / *piṇḍā*.
+- হোল্না (মালসা) → холна (глиняная посуда, малса) / *holnā* (*mālsā*); আরোয়া-চিড়া (আতপ-চিড়া) → аройя-чида (из атапа-риса) / *āroyā-ciḍā* (*ātapa* rice).
+- নি-সক্ড়ি / সক্ড়ি → ни-сакри / сакри (пища, не осквернённая / осквернённая прикосновением варёного риса) / *ni-sakḍi* / *sakḍi*.
+- পসারি → пасари (торговец, лавочник) / *pasāri* (vendor).
+- গোপাভিমান → ощущение Себя пастушком / feeling Himself a cowherd boy; পুলিন-ভোজন → трапеза на песчаном берегу / the picnic on the sandy bank.
+- Имена: Хиранья дас, Говардхана дас, Ядунандана Ачарья, Васудева Датта, Рагхава Пандит, Абхирама Тхакур (Рамадас), Мурари Чайтаньядас, Парамешвара дас, Кришнадас Хор, Уддхарана Датта; «Рагху Сварупы» / Hiraṇya dāsa, Govardhana dāsa, Yadunandana Ācārya, Vāsudeva Datta, Rāghava Paṇḍita, Abhirāma Ṭhākura (Rāmadāsa), Murāri Caitanyadāsa, Parameśvara dāsa, Kṛṣṇadāsa Hoḍa, Uddhāraṇa Datta; “Svarūpa's Raghu.”
+- Книги и места: “Вилапа-кусуманджали” / *Vilāpa-kusumāñjali*; Яджнавалкья (смрити) / Yājñavalkya; Саптаграм, Панихати, Канаи-Наташала, Пурушоттама, Симха-двара / Saptagrāma, Pāṇihāṭī, Kānāi's Nāṭaśālā, Puruṣottama, the Siṁha-dvāra.
+
+### Antya06-p2
+
+#### Термины
+- বিড়া → бида (приготовленный бетель, свёрнутый лист пана — খিলি, кхили) / *biḍā* (prepared betel, a folded *pān* leaf, *khili*).
+- অভ্যন্তর (অন্দর বাড়ী) → абхьянтара, внутренние покои дома (андар-бари) / *abhyantara*, the inner quarters (*andar-bāṛī*).
+- বাথান → батхан, коровник, загон (гоштха) / *bāthān*, cowshed, cow pen (*goṣṭha*).
+- সরাণ → сарана, широкая дорога / *saraṇa*, a broad road.
+- বাহুড়িয়া → бахудия, вернув / *bāhuḍiyā*, bringing back.
+- লঙ্ঘন / সন্তর্পণ → лангхана (пост и прочие лишения) / сантарпана (уход, забота) / *laṅghana* (fasting and other hardships) / *santarpaṇa* (care, nursing).
+- পুষ্প-অঞ্জলি → пушпа-анджали, вечернее подношение пригоршни цветов Джаганнатхе / *puṣpa-añjali*, the evening offering of handfuls of flowers.
+- প্রণামী → пранами (денежный дар) / *praṇāmī* (an offering of money).
+- আজা (মাতামহ) → «аджа», дед по матери / *ājā*, maternal grandfather.
+- ভায়া / দাদা → «бхайя» (братец) / «дада» (старший брат) / *bhāyā* (brother) / *dādā* (elder brother).
+- রহস্যের পাত্র → те, над кем можно подшучивать / people one may tease.
+- বৈষ্ণবপ্রায় / বৈষ্ণবাভাস → вайшнава-прая (почти вайшнав) / вайшнавабхаса (подобие вайшнава) / *vaiṣṇava-prāya* (almost a Vaiṣṇava) / *vaiṣṇavābhāsa* (a semblance of a Vaiṣṇava).
+- কনিষ্ঠ / বালিশ / বিদ্বেষী → каништха / балиша (несведущий) / видвеши (враждебный) / *kaniṣṭha* / *bāliśa* (the uninformed) / *vidveṣī* (hostile).
+- লৌকিকী শ্রদ্ধা → мирская вера / worldly faith.
+- জাতিসামান্য-বুদ্ধি (বিষ্ণু ও বৈষ্ণবে) → видеть в Вишну и вайшнаве лишь представителей общей касты / seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste.
+- অশৌক্র-বিপ্রকুলোদ্ভব → не происходящий из брахманского рода по семени / not born in a *brāhmaṇa* family by seminal descent.
+- অনুগ্রহকারী গুরু → гуру, даровавший милость (ануграху) / the guru who bestowed mercy (*anugraha*).
+- অক্ষজ-জ্ঞান → знание, добытое чувствами / knowledge gained through the senses.
+- বিষয় (বিষ্ঠাগর্ত্ত) → мирское (выгребная яма) / worldly objects (a cesspit); আর্ত্ত বিষয়ী → страдающие мирские люди / suffering worldly people.
+- জড়ীভূত → делаются косными, как материя / become as inert as matter.
+- শুদ্ধ-ভজন-চতুরতা → искусность в чистом служении / skill in pure worship.
+- বৈরাগী → вайраги (отрешённый) / *vairāgī*.
+
+#### Имена и места
+- Хиранья и Говардхана (отец и дядя Рагхунатхи) / Hiraṇya and Govardhana; Ниламбара Чакраварти / Nīlāmbara Cakravartī.
+- Вайдья-Рагхунатха, Бхатта-Рагхунатха, Дас-Рагхунатха / Vaidya-Raghunātha, Bhaṭṭa-Raghunātha, Dāsa-Raghunātha.
+- «Чхар-кхари» на Ганге (Чхатрабхога); Маджилпур; река Касаи / the “Chāṛ-khāṛi” of the Gaṅgā (Chatrabhoga); Majilapura; the Kāsāi River.
+
+#### Оформление
+- Сноска к стиху 188: в ВЧД «двадцать дней», в бенгальском и в подзаголовке — двенадцать (বারদিনে); сноска только в RU.
+
+### Antya06-p3
+
+# Глоссарий: Антья 6, часть 3 (стихи 223–329) — новые термины (RU / EN)
+
+- ত্যক্তগৃহ → оставивший дом / one who has left home; বৈধ ও অবৈধ আচার → что подобает и что не подобает / what befits and what does not.
+- শ্রীদামোদর-স্বরূপ — নিত্য প্রভু বা গুরু মাধ্বগৌড়ীয়ের → вечный господин, то есть гуру, мадхва-гаудиев / the eternal master, that is, the guru, of the Mādhva-Gauḍīyas.
+- রাগানুগা-ভক্তিযাজী → идущий путём рагануга-бхакти / one who follows the path of *rāgānugā-bhakti*.
+- একান্তী (HBV 20) → всецело преданные (экантины) / those wholly devoted (*ekāntins*); বৈষ্ণবপ্রায় → почти вайшнавы / almost Vaiṣṇavas; অষ্টকাল → восемь частей суток (ашта-кала) / all eight periods of the day (*aṣṭa-kāla*).
+- স্বরূপদেহ → истинный духовный облик (сварупа-деха) / one's true spiritual form (*svarūpa-deha*); অন্তরঙ্গ-সেবা → сокровенное служение (антаранга-сева) / intimate service (*antaraṅga-sevā*).
+- বৈষ্ণবী-প্রতিষ্ঠা → слава среди вайшнавов / renown among Vaiṣṇavas; প্রতিষ্ঠা → мирская слава (пратиштха) / worldly prestige (*pratiṣṭhā*).
+- কৃষ্ণভোগ্য ভক্ত / স্ব-ভোগ্য-পুত্রবুদ্ধি → преданный, который принадлежит Кришне и служит Его наслаждению / сын для собственного наслаждения; the devotee who belongs to Kṛṣṇa and exists for His enjoyment / a son for one's own enjoyment.
+- অকৃষ্টপচ্যা (ভূমি) → плодоносящая (созревшая) без вспашки / bearing fruit (ripened) without plowing.
+- অষ্টপণ কৌড়ি → восемь пан — 640 каури, «॥০ আনা» = восемь анн / eight *paṇas* — 640 cowries, “॥০ আনা” = eight annas.
+- ভোক্তাভিমানী বিষয়ী → вишаи, мнящий себя наслаждающимся / a *viṣayī* who thinks himself the enjoyer; চিজ্জড়সমন্বয় → смешение духовного с материальным / mixing spirit with matter.
+- বালিশ → неразумный / the foolish; জন্মৈশ্বর্য্যশ্রুতশ্রী → высокое рождение, богатство, учёность и красота / high birth, wealth, learning and beauty.
+- তৎকৈঙ্কর্য্য → оказаться у них в услужении / becoming their servants.
+- ছয়প্রকার সঙ্গ (দান, প্রতিগ্রহ, ভোজন ও ভোজনে প্রবর্ত্তন, গূঢ়কথা বর্ণন ও জিজ্ঞাসা) → шесть видов общения (давать, принимать, есть у них и угощать их, открывать сокровенное и расспрашивать) / the six kinds of association (giving, receiving, eating with them and feeding them, revealing confidences and inquiring).
+- গৃহব্রত → грихаврата / *gṛhavrata*; রাজস / সাত্ত্বিক / তামস নিমন্ত্রণ → раджасное / саттвическое / тамасное приглашение / *rājasic* / *sāttvic* / *tāmasic* invitation.
+- কর্ম্মমিশ্রা ভক্তি → бхакти, смешанная с кармой / devotion mixed with *karma*.
+- ছত্র → чатра (раздаточная для бедных; у ВЧД — «благотворительная столовая») / the *chatra* (almshouse).
+- অযাচক বৈরাগিবেষী → носящие облачение вайраги, не прося подаяния (аячака) / those in the dress of *vairāgīs* who live without begging (*ayācaka*).
+- ঠাড় (хинди) → тхад, «стоящий» / *ṭhāḍa*, “standing”; খাসা → хаса, «превосходный» / *khāsā*, “excellent”; ডারে → «даре», выбрасывают / *ḍāre*, “they throw away”; সড়ি’ → «сади», сгнив / *saḍi*, “having rotted”.
+- গুঞ্জামালা (কুঁচের মালা) → гунджа-мала, гирлянда из семян гунджи (не «ракушки») / *guñjā-mālā*, a garland of *guñjā* seeds.
+- গোবর্দ্ধন-শিলা → Говардхана-шила (= Божество Шри Гиридхари, Сам Враджендра-нандана) / the Govardhana-śilā (= the Deity Śrī Giridhārī, Vrajendra-nandana Himself).
+- গান্ধর্ব্বা-রূপিণী মালা → гирлянда — облик Гандхарвы / the garland that is the form of Gāndharvā.
+- নিখিলব্রহ্মজ্ঞ-গুরু → гуру всех знатоков Брахмана / the guru of all knowers of Brahman.
+- শিলা-বুদ্ধি / জাতি-বুদ্ধি → видеть в Божестве камень / в вайшнаве — касту / seeing stone in the Deity / caste in a Vaiṣṇava; পাষণ্ড → безбожники (пашанды) / the godless (*pāṣaṇḍīs*).
+- সেবক-ভগবান্ → Бхагаван-слуга / the servitor Bhagavān; কৃষ্ণপ্রকাশবিগ্রহ → облик-проявление Кришны / a manifest form of Kṛṣṇa.
+- যোষিৎ-সঙ্গী → привязанный к женщинам / one attached to women.
+- ষোড়শোপচার → шестнадцать видов подношений / sixteen articles of worship; বিতস্তি → витасти (пядь), мера в пол-локтя / *vitasti* (a span), half a cubit.
+- বিজিতষড়্বর্গ → победивший шесть побуждений / who conquered the six urges; যাবন্নির্ব্বাহ-প্রতিগ্রহ → принимать лишь столько, сколько нужно для поддержания жизни / accepting only as much as is needed to sustain life.
+- নির্ব্বেদন → нирведана, порицание, укор / *nirvedana*, reproach, censure.
+- কৃষ্ণোচ্ছিষ্ট / কৃষ্ণভুক্তামৃত → остатки Кришны / нектар, вкушённый Кришной / Kṛṣṇa's remnants / nectar enjoyed by Kṛṣṇa.
+- Места и имена: Канчанапалли / Kāñcanapallī; Джханкара / Jhā̃karā; Тайланга / Tailaṅga; Шанкарананда Сарасвати / Śaṅkarānanda Sarasvatī; Говардхана дас / Govardhana dāsa.
+- Книги: “Става-вали” (“Чайтанья-става-калпаврикша”, шлока 11) / *Stavāvalī* (*Caitanya-stava-kalpavṛkṣa*, verse 11); “Шри Чайтанья-чандродая-натака”, акт 10, шлоки 3–4 / *Śrī Caitanya-candrodaya-nāṭaka*, act 10, verses 3–4; “Бхакти-сандарбха”, анучхеда 283 (в издании «83») / *Bhakti-sandarbha*, *anuccheda* 283 (edition: “83”); “Хари-бхакти-виласа”, виласа 20 (конец) / *Hari-bhakti-vilāsa*, *vilāsa* 20 (end); Брихад-араньяка-упанишада, 4.4.12 / *Bṛhad-āraṇyaka Upaniṣad* 4.4.12.
