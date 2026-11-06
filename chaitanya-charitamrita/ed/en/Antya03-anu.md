@@ -60,6 +60,10 @@ See Antya 2.1.
 
 > Subheading: The Lord's appearance in His mother's house and His pastime of eating —
 
+## 31
+
+Although, because of separation, you do not see Me directly with your outward vision, as you behold My pastime of eating, overwhelmed by deep maternal love you err in thinking that you are only, as it were, experiencing Me face to face.
+
 ## 32
 
 > Subheading: To make Śacī believe, the Lord describes what happened one day —

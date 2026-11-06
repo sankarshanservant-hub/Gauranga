@@ -26,7 +26,7 @@ When your vision turns outward to the world, you do, it is true, feel that this 
 
 ## 56
 
-A certain *mleccha*, gored by the tusk of a boar (*daṁṣṭrī*), cried out in disgust, “Hārām! Hārām!” — and yet at the time of death he attained liberation. The word *hārām* contains the word *Rāma* — “hā Rāma,” uttered as an indication (*saṅketa*). That is why the *mleccha* was delivered by an indication of the Name (this is called *nāmābhāsa*). And what happens when one takes the name *Rāma* with faith cannot even be told.
+A certain *mleccha*, gored by the tusk of a boar (*daṁṣṭrī*), cried out in disgust, “Hā Rām! Hā Rām!” — and yet at the time of death he attained liberation. The word *hārām* (“*hā Rām*”) contains the word *Rāma*, uttered as an indication (*saṅketa*). That is why the *mleccha* was delivered by an indication of the Name (this is called *nāmābhāsa*). And what happens when one takes the name *Rāma* with faith cannot even be told.
 
 ## 60
 
@@ -86,11 +86,11 @@ Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee doe
 
 ## 199
 
-***Ghaṭa-paṭiyā*** — a *naiyāyika* (logician) who argues fruitlessly about “the pot” (*ghaṭa*) and “the cloth” (*paṭa*).
+***Ghaṭa-paṭiyā*** — a *naiyāyika* (logician) who argues fruitlessly about “the pot” (*ghaṭa*) and “the cloth” (*paṭa*).[^199-1]
 
 ## 220
 
-***Śrāddha-pātra.*** On the day of *śrāddha*, Vaiṣṇava householders are enjoined to offer the Lord every kind of food and then to feed it to Vaiṣṇavas and *brāhmaṇas*. When such a *śrāddha* day came in Advaita Prabhu's household, He fed Haridāsa the *śrāddha-pātra*, regarding him as a transcendental *brāhmaṇa* and guru.
+***Śrāddha-pātra.*** On the day of *śrāddha*, Vaiṣṇava householders are enjoined to offer the Lord every kind of food and then to feed it to Vaiṣṇavas and *brāhmaṇas*. When such a *śrāddha* day came in Advaita Prabhu's household, He fed Haridāsa as the *śrāddha-pātra*, regarding him as a transcendental *brāhmaṇa* and guru.
 
 *Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*
 
@@ -99,3 +99,5 @@ Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee doe
 [^11-1]: The translation of the verse understands this differently: “You instruct everyone; You are the teacher even of other teachers.”
 
 [^89-1]: The translation of the verse understands this differently: “But from then on He avoided any discussion of the subject.”
+
+[^199-1]: The translation of the verse understands this differently: “a pragmatic fool.”
