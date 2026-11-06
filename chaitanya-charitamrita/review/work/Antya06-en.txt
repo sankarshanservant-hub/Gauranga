@@ -1,0 +1,574 @@
+# English translation, Antya-līlā 6 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya06.txt, .p2.txt, .p3.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–110; shift 2: 111–222; shift 3: 223–329.
+
+## 0
+tr: The Meeting with Śrī Raghunātha dāsa
+
+## 1
+w: by the ropes of mercy  who  from the blind well of a wretched household
+w: having lifted out  by a clever device  Raghunātha dāsa
+w: entrusting  to Svarūpa  made  His intimate one
+w: Śrī Kṛṣṇa Caitanya  to Him  take refuge
+tr: I take refuge in Śrī Kṛṣṇa Caitanya, who by the ropes of His mercy cleverly lifted Raghunātha dāsa out of the blind well of a wretched household life, entrusted him to Svarūpa, and made him His intimate associate.
+fn: The last line is as in Madhya 19.54 (*śrī-kṛṣṇa-caitanyam amuṁ prapadye*, “I take refuge in this Śrī Kṛṣṇa Caitanya”). *Anubhāṣya*: *ku-gṛha* — a wretched home, full of talk of husbands, wives, sons and the like, a blind well with no way out; *bhaṅgyā* — skilfully; compare Raghunātha dāsa’s *Vilāpa-kusumāñjali*: “I worship Caitanyacandra… by the ropes of His mercy He at once pulled me out of the impassable, waterless great well of endless suffering… and gave me to Śrī Dāmodara.”
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2 (= Ādi 1.18, 17.2, Antya 2.2, 4.2); translation as there.
+
+## 3
+w: in this way  Gauracandra  with the devotees
+w: in Nīlācala  various  pastimes  performs  in various joyful ways
+tr: In this way Gauracandra and His devotees enjoyed many pastimes in Nīlācala, in many joyful moods.
+
+## 4
+w: although  within  separation from Kṛṣṇa  afflicts (Him)
+w: outwardly  not  He shows (it)  for fear of the devotees’ sorrow
+tr: Although separation from Kṛṣṇa afflicted Him within, He did not show it outwardly, for fear that His devotees would grieve.
+
+## 5
+w: intense  the pain of separation  when  comes out
+w: then  what  agitation  of the Lord  description  not  is possible
+tr: But when the intense pain of separation broke out, the Lord’s agitation was beyond description.
+
+## 6
+w: Rāmānanda’s  talks about Kṛṣṇa  Svarūpa’s  singing
+w: in the pain of separation  the Lord’s  preserve  life
+tr: Rāmānanda’s talks about Kṛṣṇa and Svarūpa’s singing kept the Lord alive in the pain of separation.
+
+## 7
+w: by day  the Lord  in various company  becomes  other  the mind
+w: at night  increases  the Lord’s  pain of separation
+tr: By day, in the company of various people, the Lord’s mind was diverted; but at night His pain of separation grew.
+fn: Edition heading: in the company of many people, amid talks of Kṛṣṇa of every kind, the weight of separation lightens; at night, alone, the pain of separation from Kṛṣṇa grows.
+
+## 8
+w: His  for the happiness  with (Him)  stay  two  persons
+w: with verses and songs about the rasa of Kṛṣṇa  they give  consolation
+tr: For His happiness two persons stayed with Him and consoled Him with verses and songs about the sweet rasa of Kṛṣṇa.
+
+## 9
+w: Subala  as  formerly  of Kṛṣṇa’s happiness  the helper
+w: for giving happiness to Gaura  so  Rāmānanda Rāya
+tr: As Subala formerly helped to make Kṛṣṇa happy, so Rāmānanda Rāya gave happiness to Gaura.
+
+## 10
+w: formerly  as  Rādhā’s  Lalitā  the chief helper
+w: so  Svarūpa Gosāñi  preserves  the Lord’s  life
+tr: As Lalitā was formerly Rādhā’s chief helper, so Svarūpa Gosāñi kept the Lord alive.
+
+## 11
+w: of the two  persons  the good fortune  telling  not  is possible
+w: the Lord’s  ‘intimate associates’  as  whom  people  praise
+tr: The good fortune of these two cannot be described: people praise them as the Lord’s intimate associates.
+
+## 12
+w: in this way  sports  Gaura  taking  the devotees
+w: the meeting with Raghunātha  now  hear  O devotees
+tr: In this way Gaura enjoyed His pastimes with His devotees. Now, O devotees, hear of His meeting with Raghunātha.
+
+## 13
+w: formerly  to Śāntipura  Raghunātha  when  came
+w: Mahāprabhu  mercy  showing  him  instructed
+tr: Earlier, when Raghunātha had come to Śāntipura, Mahāprabhu mercifully instructed him.
+fn: Edition heading: earlier, on His way back to Purī from Kānāi Nāṭaśālā, the Lord instructed Raghunātha in Śāntipura. *Anubhāṣya*: for the instruction, see Madhya 16.238–243.
+
+## 14
+w: the Lord’s  by the instruction  he  to his own home  goes
+w: monkey renunciation  giving up  became  ‘like a worldly man’
+tr: Following the Lord’s instruction, he went home and, giving up the “monkey renunciation” (*markaṭa-vairāgya*), lived outwardly like a worldly man.
+fn: *Amṛta-pravāha-bhāṣya*: *markaṭa-vairāgya* is also said of a householder who wears the dress and marks of a renunciant. *Anubhāṣya*: before people Raghunātha played the part of a worldly man and wholly gave up the way of the monkey, attached to enjoyment, that makes a show of outward renunciation. Edition heading: at home he practises *yukta-vairāgya* — outwardly like a worldly man, inwardly free of the world, owning nothing and doing everything for Kṛṣṇa.
+
+## 15
+w: within  detachment  outwardly  does  all  work
+w: seeing (this)  indeed  of mother and father  gladdened  the minds
+tr: Within he was detached, but outwardly he did all his duties; seeing this, his mother and father were glad at heart.
+
+## 16
+w: from Mathurā  the Lord  has come  the news  when  he received
+w: to the Lord  to go  preparations  he made
+tr: When he received news that the Lord had returned from Mathurā, he prepared to go to Him.
+
+## 17
+w: at this time  of the province  a  Muslim (mleccha)  official
+w: of the province of Saptagrāma  he  was  the caudhurī
+tr: At that time a Muslim official was the *caudhurī*, the revenue collector, of the Saptagrāma province.
+fn: *Anubhāṣya*: a *caudhurī* keeps for himself the quarter of the revenue due to him from the tenants and pays the tax to the landlord. Edition heading: the Muslim *caudhurī* of Saptagrāma, who held Saptagrāma with the support of the Nawab’s vizier.
+
+## 18
+w: Hiraṇya dāsa  the province  took  a permanent lease  making
+w: his  authority  went  is mortified  he  seeing (this)
+tr: Hiraṇya dāsa had taken the province on a permanent revenue lease (*makrari*). The official lost his authority, and seeing this he burned with resentment.
+fn: *Amṛta-pravāha-bhāṣya*: *makrari* — *ijārā*, a permanent lease. *Anubhāṣya*: the Muslim *caudhurī* lost all his income, and seeing this he was enraged to the core.
+
+## 19
+w: twelve  lakhs  gives  to the king  collects  twenty  lakhs
+w: that  Turk  anything  not  getting  became  an enemy
+tr: Hiraṇya collected twenty lakhs and paid the king twelve. Getting nothing, that “Turk” became his enemy.
+fn: A lakh is a hundred thousand. *Anubhāṣya*: of the twenty lakhs collected, Hiraṇya should have kept back a quarter (five lakhs) and paid the king fifteen; instead he paid twelve, so the “Turk”, that is, the Muslim, lost the share due to him and became their enemy.
+
+## 20
+w: at the royal court  a report  submitting  the vizier  he brought
+w: Hiraṇya dāsa  fled  Raghunātha  he bound
+tr: He submitted a report (*kaiphiyat*) at the royal court and brought the vizier. Hiraṇya dāsa fled, and the official had Raghunātha arrested.
+fn: *Amṛta-pravāha-bhāṣya*: *kaiphiyat* — a written report. Edition heading: Hiraṇya and Govardhana flee, and Raghunātha is taken into custody.
+
+## 21
+w: every day  Raghunātha  he does  rebuking
+w: your father and uncle  bring  otherwise  you will get  torment
+tr: Every day he rebuked Raghunātha: “Bring your father and uncle, or you will suffer!”
+
+## 22
+w: to beat (him)  coming  when  he sees  Raghunātha
+w: the mind  turning  goes  then  not  he can  beat (him)
+tr: Whenever he came to beat him, the sight of Raghunātha changed his heart, and he could not strike him.
+
+## 23
+w: especially  thinking (him) a Kāyastha  inwardly  he feels  fear
+w: with his mouth  threatens  roars  to beat  fearful  the heart
+tr: Above all, knowing him to be a Kāyastha, he was afraid at heart: aloud he threatened and roared, but inwardly he feared to strike him.
+fn: *Amṛta-pravāha-bhāṣya*: Raghunātha was the son of a respected and wealthy man, learned himself and, above all, born among the Kāyasthas, an eminent class close to the brāhmaṇas, so the official could no longer beat him; from of old the Kāyasthas have been the king’s officers, honoured equally with the kṣatriyas.
+
+## 24
+w: then  Raghunātha  some  thought of  means
+w: humbly  he speaks  at that Muslim’s feet
+tr: Then Raghunātha thought of a plan and humbly spoke at that Muslim’s feet:
+
+## 25
+w: my  father  (and) uncle  are  your  two  brothers
+w: brother with brother  you  quarrel  do  always
+tr: “My father and uncle are your two brothers. As brothers do, you are always quarrelling.
+
+## 26
+w: sometimes  quarrel  sometimes  affection  of this  certainty  there is none
+w: tomorrow  again  three  brothers  will be  in one place
+tr: Sometimes you quarrel, sometimes you are friends — nothing about it is fixed. Tomorrow the three brothers will be together again.
+
+## 27
+w: I  as  my father’s  so  your  child
+w: I  your  ward  you  my  protector
+tr: As I am my father’s child, so I am yours. I am your ward, and you are my protector.
+
+## 28
+w: a protector  being  the ward  to punish  not  befits
+w: you  all  scriptures  know  like a living saint (jindā pīr)
+tr: It does not befit a protector to punish his ward. You know all the scriptures; you are like a *jindā pīr*, a living saint.”
+fn: *Jindā pīr* — “a living saint”; a *pīr* is a Muslim saint.
+
+## 29
+w: this  hearing  that  Muslim’s  heart  melted
+w: down his beard  flowing  tears  fall  to weep  he began
+tr: Hearing this, the Muslim’s heart melted; tears flowed down his beard, and he began to weep.
+
+## 30
+w: the Muslim  says  today  from  you  my  son
+w: today  I will release  you  making  a  pretext
+tr: The Muslim said, “From today you are my son. Today I will get you released on some pretext.”
+fn: *Anubhāṣya*: *sūtra* here means “a pretext”, *chutā* in common speech.
+
+## 31
+w: to the vizier  speaking  Raghunātha  he had released
+w: with affection  to Raghunātha  to speak  he began
+tr: He spoke to the vizier and had Raghunātha released. Then he began to speak to Raghunātha with affection:
+
+## 32
+w: your  uncle  foolish  eight lakhs  eats
+w: I  a sharer  to me  something  to give  is fitting
+tr: “Your uncle is a fool: he enjoys eight lakhs himself. But I am a sharer in it, and he ought to give me something.
+fn: Twenty lakhs collected, less the twelve paid to the king (verse 19). Edition heading: the greedy Muslim *caudhurī* rebukes Hiraṇya dāsa for his selfishness and greed for money.
+
+## 33
+w: go  you  your  uncle  bring to meet  me
+w: in whatever way  good  is  let him do  the charge  I have given  to him
+tr: Go and bring your uncle to meet me. Let him do whatever is best — I leave it to him.”
+
+## 34
+w: Raghunātha  coming  then  the uncle  brought to meet (him)
+w: the Muslim  with  winning over  he did  all  calm  became
+tr: Then Raghunātha came and brought his uncle to meet him. He won the Muslim over, and everything was settled.
+
+## 35
+w: in this way  Raghunātha’s  a year  passed
+w: in the second  year  to flee  mind  he made
+tr: So a year of Raghunātha’s life passed. In the second year he resolved to run away.
+
+## 36
+w: at night  rising  alone  he went  fleeing
+w: from far away  his father  him  brought back  catching
+tr: Rising at night, he ran away alone, but his father caught him far away and brought him back.
+
+## 37
+w: in this way  again and again  he flees  catching  they bring back
+w: then  his  mother  says  with his  father
+tr: Again and again he fled, and each time they caught him and brought him back. Then his mother said to his father,
+fn: Edition heading: he runs away again and again, is caught, and is kept under guard.
+
+## 38
+w: the son  mad  has become  keep (him)  tied up
+w: his  father  says  to her  dejected  being
+tr: “Our son has gone mad. Keep him tied up.” His father, dejected, replied to her:
+
+## 39
+w: like Indra’s  wealth  a wife  like an apsarā
+w: all these  to bind  could not  whose  mind
+tr: “Wealth like Indra’s and a wife like an *apsarā* — all this could not bind his mind.
+
+## 40
+w: of rope  by the binding  him  will you keep  how
+w: birth-giving  father  cannot  prārabdha  annul
+tr: How will you keep him with ropes? A father who gives birth cannot annul *prārabdha*, the fruit of past deeds that has begun to ripen.
+fn: *Amṛta-pravāha-bhāṣya*: *prārabdha* — the deeds of past lives that have begun to bear fruit. Edition heading: the father who begets the body is not the eternal Lord, not Īśvara: he cannot destroy the *jīva*’s *prārabdha-karma*.
+
+## 41
+w: of Caitanyacandra  the mercy  has come  upon him
+w: of Caitanya Prabhu  a madman  who  to keep  can
+tr: Caitanyacandra’s mercy has come upon him. Who can hold back a madman of Caitanya Prabhu?”
+
+## 42
+w: then  Raghunātha  something  considered  in his mind
+w: to Nityānanda Gosāñi  he went  the next  day
+tr: Then Raghunātha thought something over, and the next day he went to Nityānanda Gosāñi.
+
+## 43
+w: in Pāṇihāṭī  village  he received  the Lord’s  darśana
+w: kīrtana singers  servants  with (Him)  and  many people
+tr: In the village of Pāṇihāṭī he had darśana of the Lord, who was accompanied by kīrtana singers, servants and many others.
+
+## 44
+w: on the Gaṅgā’s bank  at the foot of a tree  a raised platform  upon
+w: was sitting  the Lord  as if  sunrise  makes
+tr: On the bank of the Gaṅgā, at the foot of a tree, the Lord sat on a raised platform (*piṇḍā*), as if the sun were rising.
+
+## 45
+w: below and above  by many devotees  He was  surrounded
+w: seeing  the Lord’s  majesty  Raghunātha  astonished
+tr: Many devotees surrounded Him, below and on the platform. Seeing the Lord’s majesty, Raghunātha was astonished.
+
+## 46
+w: like a rod  becoming  he fell  at some distance
+w: a servant  says  Raghunātha  obeisance  offers
+tr: He fell flat like a rod at some distance, and a servant said, “Raghunātha is offering obeisance.”
+
+## 47
+w: hearing  the Lord  says  thief  you have given  darśana
+w: come  come  today  your  I will make  punishment
+tr: Hearing this, the Lord said, “You thief, so you have shown yourself! Come here, come here — today I will punish you!”
+
+## 48
+w: the Lord  calls  he  near  not  does  going
+w: drawing (him) near  on his  head  the Lord  placed  His feet
+tr: The Lord called him, but he did not come near. Then the Lord drew him close and placed His feet on his head.
+
+## 49
+w: playful  Nityānanda  by nature  merciful
+w: to Raghunātha  says  something  being  kind
+tr: Nityānanda, playful and merciful by nature, kindly said to Raghunātha:
+
+## 50
+w: near  not  you come  thief  you run  far  away
+w: today  hold of you  I have got  I will punish  you
+tr: “You don’t come near, thief; you keep running far away. Today I have caught you, and I will punish you.
+
+## 51
+w: yogurt  flat rice  eating  make (them do)  My  associates
+w: hearing  joy  arose  in Raghunātha’s  mind
+tr: Feed My associates *dadhi* and *ciḍā*, yogurt and flat rice.” Hearing this, Raghunātha’s heart filled with joy.
+
+## 52
+w: that moment  his own men  he sent  to the village
+w: foodstuffs  the men  all  from the village  bring
+tr: At once he sent his men to the village, and they brought all kinds of food from there.
+
+## 53
+w: flat rice  yogurt  milk  sweets  and  sugar  bananas
+w: all  things  having brought  all around  he placed
+tr: He had *ciḍā*, *dadhi*, milk, *sandeśa*, sugar and bananas brought, and he set them out all around.
+
+## 54
+w: the word ‘festival’  hearing  brāhmaṇas  gentlefolk
+w: to come  began  people  beyond counting
+tr: Hearing the word “festival,” brāhmaṇas, gentlefolk and countless people began to arrive.
+
+## 55
+w: and  other villages  from  provisions  he brought
+w: hundreds  two or four  clay pots  he had brought
+tr: He brought more provisions from other villages and had two to four hundred clay pots (*holnā*) brought.
+
+## 56
+w: very  large  earthen tubs  he had brought  five  or seven
+w: one  brāhmaṇa  the Lord  for  flat rice  soaks  in them
+tr: He also had five or seven very large earthen tubs brought, and in them one brāhmaṇa soaked *ciḍā* for the Lord.
+
+## 57
+w: in one place  in hot milk  flat rice  soaking
+w: half  he mixed  yogurt  sugar  bananas  adding
+tr: In one place he soaked *ciḍā* in hot milk and mixed half of it with *dadhi*, sugar and bananas.
+
+## 58
+w: and  the other half  with thickened milk  he mixed
+w: cāṁpā bananas  sugar  ghee  camphor  into it  he put
+tr: The other half he mixed with thickened milk, adding *cāṁpā* bananas, sugar, ghee and camphor.
+
+## 59
+w: a dhotī  putting on  the Lord  when  on the platform  sat
+w: the seven tubs  the brāhmaṇa  Him  before  placed
+tr: When the Lord, wearing a *dhotī*, sat on the platform, the brāhmaṇa set the seven tubs before Him.
+
+## 60
+w: the platform  upon  all  the Lord’s  own associates
+w: great  great  people  sat  forming circles
+tr: On the platform (*cabutarā*) all the Lord’s own associates and other eminent people sat in circles.
+
+## 61
+w: Rāmadāsa  Sundarānanda  Gadādhara dāsa
+w: Murāri  Kamalākara  Sadāśiva  Purandara
+tr: Rāmadāsa, Sundarānanda, Gadādhara dāsa, Murāri, Kamalākara, Sadāśiva, Purandara,
+
+## 62
+w: Dhanañjaya  Jagadīśa  Parameśvara dāsa
+w: Maheśa  Gaurīdāsa  Kṛṣṇadāsa Hoḍa
+tr: Dhanañjaya, Jagadīśa, Parameśvara dāsa, Maheśa, Gaurīdāsa, Kṛṣṇadāsa Hoḍa,
+
+## 63
+w: Uddhāraṇa  Datta  and others  all  His own people
+w: above  sat  all  who  does  counting
+tr: Uddhāraṇa Datta and all His other intimate associates sat on the platform. Who could count them?
+
+## 64
+w: hearing  paṇḍitas  bhaṭṭācāryas  all  brāhmaṇas  came
+w: respect  showing  the Lord  all  above  seated
+tr: Hearing of it, all the brāhmaṇas came — paṇḍitas and *bhaṭṭācāryas* — and the Lord honoured them all and seated them on the platform.
+
+## 65
+w: two  two  earthen pots  everyone’s  before  he placed
+w: in one  milk and flat rice  in the other  yogurt and flat rice  he made
+tr: Two earthen pots were set before each of them: in one, *ciḍā* with milk; in the other, *ciḍā* with *dadhi*.
+
+## 66
+w: other  all  people  all  below the platform
+w: in circles  sat  of them  not  is  counting
+tr: All the other people sat in circles below the platform; there was no counting them.
+
+## 67
+w: to each  person  two  two  pots  he gave
+w: yogurt and flat rice  milk and flat rice  in the two  he soaked
+tr: Each person was given two pots, and *ciḍā* was soaked in them, with *dadhi* in one and with milk in the other.
+
+## 68
+w: some  some  brāhmaṇas  above  place  not  finding
+w: in two  pots  flat rice  soak  to the Gaṅgā’s bank  going
+tr: Some brāhmaṇas, finding no place on the platform, went to the bank of the Gaṅgā and soaked their *ciḍā* there in two pots.
+
+## 69
+w: on the bank  place  not  finding  other  some  people
+w: into the water  going down  yogurt and flat rice  do  eating
+tr: Others, finding no place even on the bank, went down into the water and ate their *ciḍā* and *dadhi* there.
+
+## 70
+w: some  above  some  below  some  on the Gaṅgā’s bank
+w: twenty people  in the three places  serving  do
+tr: Some were on the platform, some below it and some on the bank of the Gaṅgā, and twenty people served in all three places.
+
+## 71
+w: at this time  came  there  Rāghava Paṇḍita
+w: to laugh  he began  seeing  being  astonished
+tr: At that time Rāghava Paṇḍita arrived. Seeing all this, he was astonished and began to laugh.
+
+## 72
+w: ni-sakḍi  of many kinds  prasāda  he brought
+w: to the Lord  first  giving  to the devotees  distributing  gave
+tr: He brought many kinds of *ni-sakḍi prasāda* (food untouched by boiled rice). First he gave it to the Lord; then he distributed it among the devotees.
+
+## 73
+w: to the Lord  he says  You  for  food  I have offered
+w: You  here  a festival  make  at home  the prasāda  remains
+tr: He said to the Lord, “I offered food for You, but You are holding a festival here, and the prasāda remains at home.”
+
+## 74
+w: the Lord  says  these  things  by day  let Me eat
+w: at night  in your  house  prasāda  I will  eat
+tr: The Lord said, “Let Me eat this food by day; at night I will eat the prasāda in your house.
+
+## 75
+w: of cowherd caste  I  many  cowherds  with
+w: I  happiness  get  in this  sport of a picnic on the sandy bank
+tr: I am a cowherd by caste, and I have many cowherd boys with Me: I am happy in this sport of a picnic on the sandy riverbank.”
+
+## 76
+w: Rāghava  seating  two  tubs  He had given (him)
+w: Rāghava  two kinds  flat rice  in them  soaked
+tr: He seated Rāghava and had two tubs given to him, and Rāghava soaked two kinds of *ciḍā* in them.
+
+## 77
+w: of all  people  the flat rice  complete  when  was
+w: in meditation  then  the Lord  Mahāprabhu  brought
+tr: When everyone’s *ciḍā* was ready, the Lord, in meditation, brought Mahāprabhu there.
+
+## 78
+w: Mahāprabhu  has come  seeing  Nitāi  rose
+w: Him  taking  everyone’s  flat rice  to see  He began
+tr: Seeing that Mahāprabhu had come, Nitāi rose and, taking Him along, went to look at everyone’s *ciḍā*.
+
+## 79
+w: of all  the tubs  of the pots  of the flat rice  one  one  mouthful
+w: Mahāprabhu’s  into the mouth  He puts  making  a joke
+tr: From every tub and pot He took a mouthful of *ciḍā* and, joking, put it into Mahāprabhu’s mouth.
+
+## 80
+w: smiling  Mahāprabhu  another  one  mouthful  taking
+w: His  into the mouth  putting  feeds (Him)  laughing  laughing
+tr: Smiling, Mahāprabhu took another mouthful, put it into Nitāi’s mouth, and fed Him, laughing and laughing.
+
+## 81
+w: in this way  Nitāi  goes about  through all the circles
+w: standing  the fun  watch  the Vaiṣṇavas  all
+tr: In this way Nitāi went round all the circles, and all the Vaiṣṇavas stood watching the fun.
+
+## 82
+w: what  doing  He goes about  this  anyone  not  knows
+w: Mahāprabhu’s  darśana  obtains  some  fortunate one
+tr: No one understood what He was doing as He went about; only a fortunate few saw Mahāprabhu.
+
+## 83
+w: then  smiling  Nityānanda  sat  on His seat
+w: four  tubs  of āroyā-ciḍā  He kept  on the right
+tr: Then, smiling, Nityānanda sat down on His seat and kept four tubs of *āroyā-ciḍā* (flat rice made from sun-dried rice) at His right.
+
+## 84
+w: a seat  giving  Mahāprabhu  there  He seated
+w: the two  brothers  then  flat rice  to eat  began
+tr: Giving Mahāprabhu a seat, He seated Him there, and then the two brothers began to eat *ciḍā*.
+
+## 85
+w: seeing  Nityānanda Prabhu  joyful  became
+w: how many  how many  ecstatic absorptions  manifestation  He made
+tr: Seeing this, Nityānanda Prabhu was overjoyed and manifested many states of ecstasy.
+
+## 86
+w: the order  He gave  Hari  saying  do  eat
+w: Hari  the sound of Hari  rising  filled  the world
+tr: He ordered, “Say ‘Hari!’ and eat!” The sound of “Hari! Hari!” rose up and filled the world.
+
+## 87
+w: Hari  Hari  saying  the Vaiṣṇavas  do  eating
+w: the picnic on the sandy bank  of all  became  remembrance
+tr: Saying “Hari! Hari!”, the Vaiṣṇavas ate, and they all remembered the picnic on the sandy riverbank (*pulina-bhojana*).
+
+## 88
+w: Nityānanda  Mahāprabhu  merciful  generous
+w: by Raghunātha’s  good fortune  so much  They made  acceptance
+tr: Nityānanda and Mahāprabhu are merciful and generous: by Raghunātha’s good fortune They accepted so much.
+
+## 89
+w: Nityānanda’s  power  mercy  will know  which  person
+w: Mahāprabhu  bringing  makes (Him) do  the picnic on the sandy bank
+tr: Who can know Nityānanda’s power and mercy? He brought Mahāprabhu and made Him join the picnic on the riverbank.
+
+## 90
+w: Śrī Rāmadāsa and the other  cowherds  absorbed in love  became
+w: on the Gaṅgā’s bank  the bank of the Yamunā  the notion  they had
+tr: Śrī Rāmadāsa and the other cowherd boys were overwhelmed with love: on the bank of the Gaṅgā they felt they were on the bank of the Yamunā.
+
+## 91
+w: the festival  hearing  vendors  various villages  from
+w: flat rice  yogurt  sweets  bananas  brought  to sell
+tr: Hearing of the festival, vendors (*pasāri*) came from various villages, bringing *ciḍā*, *dadhi*, *sandeśa* and bananas to sell.
+
+## 92
+w: whatever  goods  bringing  they come  all  the price  paying  he takes
+w: their  goods  the price  giving  them  he feeds
+tr: Whatever goods they brought, he bought it all, paying the price; and having paid for their goods, he fed the vendors with them.
+
+## 93
+w: the fun  to see  came  how many  how many  people
+w: that  flat rice  yogurt  bananas  did  eat
+tr: All the people who came to see the fun ate that *ciḍā*, *dadhi* and bananas.
+
+## 94
+w: eating  having done  Nityānanda  ācamana  did
+w: of the four  tubs  the remnants  to Raghunātha  He gave
+tr: When He had eaten, Nityānanda rinsed His mouth and hands (*ācamana*) and gave the remnants of the four tubs to Raghunātha.
+
+## 95
+w: other  three  in the tubs  remnants  there were
+w: mouthful by mouthful  making  the brāhmaṇa  all  to the devotees  gave
+tr: There were remnants in the other three tubs, and the brāhmaṇa gave them to all the devotees, a mouthful to each.
+
+## 96
+w: a flower garland  a brāhmaṇa  bringing  on the Lord’s neck  placed
+w: sandal paste  bringing  the Lord’s  whole body  he anointed
+tr: A brāhmaṇa brought a flower garland and placed it around the Lord’s neck; bringing sandalwood paste, he anointed His whole body.
+
+## 97
+w: a servant  betel  taking  makes  offering
+w: smiling  smiling  the Lord  does  chewing
+tr: A servant brought betel (*tāmbūla*) and offered it, and the Lord, smiling and smiling, chewed it.
+
+## 98
+w: of the garlands sandal paste and betel  the remnants  which  there were
+w: with His own hand  the Lord  to everyone  distributing  gave
+tr: With His own hand the Lord distributed to everyone what remained of the garlands, sandal paste and betel.
+
+## 99
+w: delighted  Raghunātha  the Lord’s  remnants  getting
+w: his own  people  with  ate  sharing
+tr: Delighted to receive the Lord’s remnants (*śeṣa*), Raghunātha shared them with his own people and ate.
+
+## 100
+w: this  indeed  I have told  Nityānanda’s  pastime
+w: as ‘the festival of ciḍā and dadhi’  by name  fame  whose
+tr: Thus I have told of Nityānanda’s pastime, famous as the *ciḍā-dadhi-mahotsava*, the festival of *ciḍā* and *dadhi*.
+
+## 101
+w: the Lord  rest  took  when  the day’s end  came
+w: of Rāghava  in the temple  then  kīrtana  began
+tr: The Lord rested, and when the day came to an end, kīrtana began in Rāghava’s temple.
+
+## 102
+w: the devotees  all  making dance  Nityānanda Rāya
+w: at last  dance  does  with love  the world  floods
+tr: Nityānanda Rāya made all the devotees dance, and at last He Himself danced, flooding the world with love.
+
+## 103
+w: Mahāprabhu  His  dance  does  watch
+w: only  Nityānanda  sees (Him)  not  see  other people
+tr: Mahāprabhu watched His dance; only Nityānanda saw Him — no one else did.
+
+## 104
+w: Nityānanda’s  dance  as  His  dancing
+w: comparison  to give  there is none  in these  three  worlds
+tr: Nityānanda’s dance was like Mahāprabhu’s own dancing; in these three worlds there is nothing else to compare it with.
+
+## 105
+w: of the dance  the sweetness  who  to describe  can
+w: Mahāprabhu  comes  which  dance  to see
+tr: Who can describe the sweetness of that dance, which Mahāprabhu Himself comes to see?
+
+## 106
+w: dance  having done  the Lord  when  rest  took
+w: of the meal  for  the Paṇḍita  a request  made
+tr: When the Lord had danced and rested, the Paṇḍita asked Him to take His meal.
+
+## 107
+w: to the meal  sat  the Lord  His own associates  taking
+w: Mahāprabhu’s  seat  on the right  spreading
+tr: The Lord sat down to eat with His associates, having a seat spread for Mahāprabhu at His right.
+
+## 108
+w: Mahāprabhu  coming  on that  seat  sat
+w: seeing  Rāghava’s  in the mind  joy  increased
+tr: Mahāprabhu came and sat on that seat; seeing this, Rāghava’s joy grew.
+
+## 109
+w: before the two brothers  prasāda  bringing  he placed
+w: to all  the Vaiṣṇavas  afterward  serving  he did
+tr: He brought prasāda and set it before the two brothers, and afterward he served all the Vaiṣṇavas.
+
+## 110
+w: many kinds  of cakes  sweet rice  excellent  fine rice
+w: nectar  put to shame  such  various  vegetable dishes
+tr: There were many kinds of cakes (*piṭhā*), sweet rice (*pāyasa*), excellent fine rice, and various vegetable dishes that put nectar to shame.
