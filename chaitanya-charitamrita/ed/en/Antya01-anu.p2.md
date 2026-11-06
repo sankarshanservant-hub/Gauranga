@@ -128,6 +128,28 @@ See Madhya 2.52.
 
 **He sakhi murali**, **tvaṁ** **viśāla-cchidra-jālena** (with a mass of great flaws) **pūrṇā** (are filled), **laghuḥ** (light, without dignity), **ati-kaṭhinā** (cruel by nature), **granthilā** (you undo the knots of the sashes [*nīvi*]), **nīrasā** (dry) **ca asi**; **tad api** (and yet) **kena puṇyodayena** (by what previous pious merit) **śaśvat** (unceasingly) **cumbanānanda-sāndraṁ** (dense with the happiness born of a kiss) **hari-kara-parirambhaṁ** (the embrace of Kṛṣṇa's hand) **bhajasi** (do you obtain)?
 
+## 164
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verse 27)
+
+**Vaṁśī-dhvaniḥ** (the sound of Kṛṣṇa's flute) **ambu-bhṛtaḥ** (the clouds) **rundhan** (stopping), **tumburuṁ** (the king of the Gandharvas) **muhuḥ** (again and again) **camatkṛti-paraṁ** (filled with wonder) **kurvan** (making), **sanandana-mukhān** (the sages headed by the four Sanas, absorbed in knowledge of Brahman) **dhyānāt antarayan** (making them abandon their meditation), **vedhasam** (Brahmā) **vismāpayan** (astonishing), **autsukyāvalibhiḥ** (with heaps of eager, curious delight) **baliṁ caṭulayan** (making Bali restless), **bhogīndram** (the king of the Nāgas, Śeṣa) **āghūrṇayan** (setting spinning), **aṇḍa-kaṭāha-bhittim** (the covering of the universe) **bhindan** (piercing), **abhitaḥ** (in all directions, everywhere) **babhrāma** (spread).
+
+## 165
+
+> Subheading: An example [of the description] of Śrī Kṛṣṇa —
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verse 17)
+
+**Ayaṁ hariḥ** (this Hari), **nayana-daṇḍita-pravara-puṇḍarīka-prabhaḥ** (He who by the beauty of His eyes has punished and subdued the luster — the beauty — of the finest *puṇḍarīka*, the full-blown white lotus), **nava-jāguḍa-dyuti-viḍambi-pītāmbaraḥ** (He whose yellow garment seems accustomed to mock the luster — the glow — of fresh *kuṅkuma*), **araṇyaja-pariṣkriyā-damita-divya-veśādaraḥ** (He who with forest-born ornaments has overcome all fondness for divine attire), **harin-maṇi-manohara-dyutibhiḥ** (with a luster as enchanting as an emerald) **ujjvalāṅgaḥ** (He whose body is radiant), **prabhāti** (shines).
+
+## 166
+
+> Subheading: (*Lalita-mādhava*, Act 4, verse 27)
+
+**He sakhi**, **he varāṅgi** (O beautiful one), **puraḥ** (Him who stands before you), **jaṅghādhas-taṭa-saṅgi-dakṣiṇa-padaṁ** (Him whose right foot — the edge of the right foot — touches the lower part of the left shin), **kiñcid-vibhugna-trikaṁ** (Him whose waist [*trika*] is slightly bent), **sāci-stambhita-kandharaṁ** (Him whose neck [*kandharā*] is turned to the side and held motionless), **tiraḥ-sañcāri-netrāñcalam** (Him the corners of whose eyes are wont to glide sideways), **kuṭmalite** (closed like a bud) **adhare** (at the lips) **lolāṅgulī-saṅgatāṁ** (touched by restless, moving fingers) **vaṁśīṁ** (the flute) **dadhānam** (holding), **vibhrad-bhrū-bhramaraṁ**[^166-1] (Him whose brows are like two hovering bees), **paramānandaṁ** (Mādhava) **svī-kuru** (accept).
+
 ---
 
 [^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
+
+[^166-1]: So in the edition: *vibhrad-bhrū-bhramaraṁ*; the verse as given in the VCD reads *riṅgad-bhrū-bhramaraṁ*.

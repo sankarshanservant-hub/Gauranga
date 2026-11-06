@@ -74,6 +74,22 @@ When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, �
 
 “Sakhī Muralī, you are full of large holes, light, very hard, dry, and knotty. By what pious merit, then, does Kṛṣṇa unceasingly embrace you with His hand — an embrace dense with the bliss of kissing His lips?”
 
+## 164
+
+The sound of Śrī Kṛṣṇa's flute stopped the movement of the clouds, struck Tumburu and the other Gandharvas with wonder, broke the meditation of Sanandana and the other sages, astonished Brahmā, stirred the composed (that is, unshakable and unmoving) King Bali with impatient longing, set Ananta, the king of serpents who holds up the earth, spinning, pierced the walls of the shell of the universe — and spread in all directions.
+
+## 165
+
+By the beauty of His eyes this Kṛṣṇa has stolen the luster of the finest white lotus. His yellow garments, which outshine the glow of fresh *kuṅkuma*, sparkle. By His forest dress, ornaments, and the like He has taken away all regard for divine attire. So the radiant Kṛṣṇacandra shines, with a luster more enchanting than a sapphire (*indranīla*).
+
+## 166
+
+“Sakhī, O beautiful one! His right foot rests below His left shin, His waist is slightly bent in three places, His neck is turned to the side and held still, the corners of His eyes are crooked; to His slightly closed, budlike lips He holds the flute, touched by His restless fingers, and His lotus face is adorned with brows like bees. Accept this Person, full of supreme bliss, who stands before you.”
+
+## 167
+
+“O fair-faced one, what Viśvakarmā is this standing before us? With the flashing, sharp, long chisel of His sidelong glances He splits the stones of the *svadharma* of noble wives, and at the same time builds chambers in the cowherd village out of His own beautiful dark form, which is like countless emeralds.”
+
 ---
 
 [^140-1]: So in the edition (*prabhu*, “the Lord”); in verse 140 it is Rāmānanda Rāya who asks.
