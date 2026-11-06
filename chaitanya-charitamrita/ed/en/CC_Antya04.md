@@ -1357,247 +1357,313 @@ filled with nirveda  Sanātana  began  to speak
 সেবাযোগ্য নহি, অপরাধ করোঁ নিতি নিতি ॥ ১৫১ ॥
 
 hita lāgi’ āinu muñi, haila viparīta  
-sevā-yogya nahi, aparādha karoṅ niti niti
+welfare  for the sake  came  I  it turned out  the opposite  
+sevā-yogya nahi, aparādha karoṅ niti niti  
+for service  fit  I am not  offense  I commit  daily  daily
 
-(151) [not yet translated]
+(151) “I came for my welfare, but the opposite has happened. I am not fit for service; day after day I commit offenses.
 
 সহজে নীচ-জাতি মুঞি, দুষ্ট, ‘পাপাশয়’ ৷  
 মোরে তুমি ছুঁইলে মোর অপরাধ হয় ॥ ১৫২ ॥
 
 sahaje nīca-jāti muñi, duṣṭa, ‘pāpāśaya’  
-more tumi chuṅile mora aparādha haya
+by nature  of low birth  I  wicked  a reservoir of sin  
+more tumi chuṅile mora aparādha haya  
+me  You  if You touch  my  offense  occurs
 
-(152) [not yet translated]
+(152) By nature I am of low birth, wicked, a ‘reservoir of sin.’ When You touch me, I commit an offense.
 
 তাহাতে আমার অঙ্গে কণ্ডু-রসা-রক্ত চলে ৷  
 তোমার অঙ্গে লাগে, তবু স্পর্শহ তুমি বলে ॥ ১৫৩ ॥
 
 tāhāte āmāra aṅge kaṇḍu-rasā-rakta cale  
-tomāra aṅge lāge, tabu sparśaha tumi bale
+moreover  my  on the body  sore-fluid and blood  flow  
+tomāra aṅge lāge, tabu sparśaha tumi bale  
+Your  to the body  it clings  still  touch  You  by force
 
-(153) [not yet translated]
+(153) Moreover, fluid and blood flow from the sores on my body and smear Yours, yet still You touch me by force.
 
 বীভৎস স্পর্শিতে না কর ঘৃণা-লেশে ৷  
 এই অপরাধে মোর হবে সর্ব্বনাশে ॥ ১৫৪ ॥
 
 bībhatsa sparśite nā kara ghṛṇā-leśe  
-ei aparādhe mora habe sarva-nāśe
+the loathsome  in touching  not  You feel  disgust  even a trace  
+ei aparādhe mora habe sarva-nāśe  
+by this  offense  my  will be  utter ruin
 
-(154) [not yet translated]
+(154) You do not feel even a trace of disgust in touching what is loathsome. This offense will be my utter ruin.
 
 তাতে ইঁহা রহিলে মোর না হয় ‘কল্যাণ’ ৷  
 আজ্ঞা দেহ’ — রথ দেখি’ যাঙ বৃন্দাবন ॥ ১৫৫ ॥
 
 tāte iṅhā rahile mora nā haya ‘kalyāṇa’  
-ājñā deha’ — ratha dekhi’ yāṅa vṛndāvana
+therefore  here  if I stay  my  not  comes  welfare  
+ājñā deha’ — ratha dekhi’ yāṅa vṛndāvana  
+leave  give  the chariot  having seen  let me go  to Vṛndāvana
 
-(155) [not yet translated]
+(155) So if I stay here, no good will come to me. Give me leave: after seeing the chariot festival, let me go to Vṛndāvana.
 
 জগদানন্দ-পণ্ডিতে আমি যুক্তি পুছিল ৷  
 বৃন্দাবন যাইতে তেঁহ উপদেশ দিল ॥ ১৫৬ ॥
 
 jagadānanda-paṇḍite āmi yukti puchila  
-vṛndāvana yāite teṅha upadeśa dila
+Jagadānanda Paṇḍita  I  counsel  asked  
+vṛndāvana yāite teṅha upadeśa dila  
+to Vṛndāvana  to go  he  advice  gave
 
-(156) [not yet translated]
+(156) I asked Jagadānanda Paṇḍita for counsel, and he advised me to go to Vṛndāvana.”
 
 এত শুনি’ মহাপ্রভু সরোষ-অন্তরে ৷  
 জগদানন্দে ক্রুদ্ধ হঞা করে তিরস্কারে ॥ ১৫৭ ॥
 
 eta śuni’ mahāprabhu saroṣa-antare  
-jagadānande kruddha hañā kare tiraskāre
+this  hearing  Mahāprabhu  with anger  within  
+jagadānande kruddha hañā kare tiraskāre  
+Jagadānanda  angry  becoming  He  rebukes
 
-(157) [not yet translated]
+(157) Hearing this, Mahāprabhu grew angry at heart and in anger rebuked Jagadānanda:
 
 কালিকার বটুয়া জগা ঐছে গর্ব্বী হৈল ৷  
 তোমা-সবারেহ উপদেশ করিতে লাগিল ? ॥ ১৫৮ ॥
 
 kālikāra baṭuyā jagā aiche garvī haila  
-tomā-sabāreha upadeśa karite lāgila?
+yesterday’s  boy  Jagā  so  proud  has become  
+tomā-sabāreha upadeśa karite lāgila?  
+even you all  advice  to give  he has begun
 
-(158) [not yet translated]
+(158) “Jagā, a mere boy of yesterday, has become so proud that he has begun to advise even you?
 
 ব্যবহারে-পরমার্থে তুমি — তার গুরু-তুল্য ৷  
 তোমারে উপদেশ করে, না জানে আপন-মূল্য ? ॥ ১৫৯ ॥
 
 vyavahāre-paramārthe tumi — tāra guru-tulya  
-tomāre upadeśa kare, nā jāne āpana-mūlya ?
+in worldly and in spiritual matters  you  his  like a guru  
+tomāre upadeśa kare, nā jāne āpana-mūlya ?  
+you  advice  he gives  not  he knows  his own  worth
 
-(159) [not yet translated]
+(159) In worldly and in spiritual matters alike you are like a guru to him. He advises you — does he not know his own worth?
 
 আমার উপদেষ্টা তুমি — প্রামাণিক আর্য্য ৷  
 তোমারেহ উপদেশে বালকা — করে ঐছে কার্য্য ॥ ১৬০ ॥
 
 āmāra upadeṣṭā tumi — prāmāṇika ārya  
-tomāreha upadeśe bālakā — kare aiche kārya
+My  adviser  you are  an authority  noble  
+tomāreha upadeśe bālakā — kare aiche kārya  
+even you  he advises  a boy  does  such  a deed
 
-(160) [not yet translated]
+(160) You are My adviser, an authoritative and noble soul (*ārya*). And this boy advises even you — such is his conduct!”
 
 শুনি’ সনাতন পায়ে ধরি’ প্রভুরে কহিল ৷  
 জগদানন্দের সৌভাগ্য আজি সে জানিল ॥ ১৬১ ॥
 
 śuni’ sanātana pāye dhari’ prabhure kahila  
-jagadānandera saubhāgya āji se jānila
+hearing  Sanātana  the feet  clasping  to the Lord  said  
+jagadānandera saubhāgya āji se jānila  
+of Jagadānanda  the good fortune  today  that  I have understood
 
-(161) [not yet translated]
+(161) Hearing this, Sanātana clasped the Lord’s feet and said, “Today I have understood Jagadānanda’s good fortune.
 
 আপনার ‘অসৌভাগ্য’ আজি হৈল জ্ঞান ৷  
 জগতে নাহি জগদানন্দ-সম ভাগ্যবান্ ॥ ১৬২ ॥
 
 āpanāra ‘asaubhāgya’ āji haila jñāna  
-jagate nāhi jagadānanda-sama bhāgyavān
+my own  misfortune  today  became  known  
+jagate nāhi jagadānanda-sama bhāgyavān  
+in the world  there is not  like Jagadānanda  one so fortunate
 
-(162) [not yet translated]
+(162) And today I have come to know my own misfortune. In all the world there is no one as fortunate as Jagadānanda.
 
 জগদানন্দে পিয়াও আত্মীয়তা-সুধারস ৷  
 মোরে পিয়াও গৌরবস্তুতি-নিম্ব-নিশিন্দা-রস ॥ ১৬৩ ॥
 
 jagadānande piyāo ātmīyatā-sudhā-rasa  
-more piyāo gaurava-stuti-nimba-niśindā-rasa
+Jagadānanda  You make drink  of intimacy  the nectar  
+more piyāo gaurava-stuti-nimba-niśindā-rasa  
+me  You make drink  of respectful praise  of nimba  of niśindā  the juice
 
-(163) [not yet translated]
+(163) You give Jagadānanda the nectar of intimacy to drink, but me You make drink the bitter juice of *nimba* and *niśindā* — Your respectful praise.
 
 আজিহ নহিল মোরে আত্মীয়তা-জ্ঞান !  
 মোর অভাগ্য, তুমি — স্বতন্ত্র ভগবান্! ॥ ১৬৪ ॥
 
 ājiha nahila more ātmīyatā-jñāna!  
-mora abhāgya, tumi — svatantra bhagavān!
+even today  there was not  toward me  of intimacy  the feeling  
+mora abhāgya, tumi — svatantra bhagavān!  
+my  misfortune  You  are  the independent  Bhagavān
 
-(164) [not yet translated]
+(164) Even today You have not come to regard me as Your own. It is my misfortune; You are the independent Lord, Bhagavān!”
 
 শুনি’ মহাপ্রভু কিছু লজ্জিত হৈলা মনে ৷  
 তাঁরে সন্তোষিতে কিছু বলেন বচনে ॥ ১৬৫ ॥
 
 śuni’ mahāprabhu kichu lajjita hailā mane  
-tāṅre santoṣite kichu balena vacane
+hearing  Mahāprabhu  somewhat  abashed  became  at heart  
+tāṅre santoṣite kichu balena vacane  
+him  to satisfy  some  He speaks  words
 
-(165) [not yet translated]
+(165) Hearing this, Mahāprabhu felt somewhat abashed at heart, and to console him He spoke:
 
 জগদানন্দ প্রিয় আমার নহে তোমা হৈতে ৷  
 মর্য্যাদা-লঙ্ঘন আমি না পারোঁ সহিতে ॥ ১৬৬ ॥
 
 jagadānanda priya āmāra nahe tomā haite  
-maryādā-laṅghana āmi nā pāroṅ sahite
+Jagadānanda  dear  to Me  is not  than you  more  
+maryādā-laṅghana āmi nā pāroṅ sahite  
+of propriety  the transgression  I  not  can  bear
 
-(166) [not yet translated]
+(166) “Jagadānanda is not dearer to Me than you. But I cannot bear a breach of propriety.
 
 কাঁহা তুমি — প্রামাণিক, শাস্ত্রে প্রবীণ !  
 কাঁহা জগা — কালিকার বটুয়া নবীন! ॥ ১৬৭ ॥
 
 kāṅhā tumi — prāmāṇika, śāstre pravīṇa!  
-kāṅhā jagā — kālikāra baṭuyā navīna!
+where  you  an authority  in the scriptures  experienced  
+kāṅhā jagā — kālikāra baṭuyā navīna!  
+where  Jagā  yesterday’s  boy  a novice
 
-(167) [not yet translated]
+(167) Think what you are — an authority, versed in the scriptures! And what is Jagā — a boy of yesterday, a novice!
 
 আমাকেহ বুঝাইতে তুমি ধর শক্তি ৷  
 কত ঠাঞি বুঝাঞাছ ব্যবহার-ভক্তি ॥ ১৬৮ ॥
 
 āmākeha bujhāite tumi dhara śakti  
-kata ṭhāñi bujhāñācha vyavahāra-bhakti
+even Me  to convince  you  possess  the power  
+kata ṭhāñi bujhāñācha vyavahāra-bhakti  
+in how many  places  you have made Me understand  propriety in devotion
 
-(168) [not yet translated]
+(168) You have the power to convince even Me. On so many occasions you have made Me understand the propriety of devotional conduct (*vyavahāra-bhakti*).
 
 তোমারে উপদেশ করে, না যায় সহন ৷  
 অতএব তারে আমি করিয়ে ভর্ৎসন ॥ ১৬৯ ॥
 
 tomāre upadeśa kare, nā yāya sahana  
-ataeva tāre āmi kariye bhartsana
+you  advice  he gives  not  can be  borne  
+ataeva tāre āmi kariye bhartsana  
+therefore  him  I  make  rebuke
 
-(169) [not yet translated]
+(169) That he should advise you is more than I can bear; that is why I rebuke him.
 
 বহিরঙ্গ-জ্ঞানে তোমারে না করি স্তবন ৷  
 তোমার গুণে স্তুতি করায় যৈছে তোমার গুণ ॥ ১৭০ ॥
 
 bahiraṅga-jñāne tomāre nā kari stavana  
-tomāra guṇe stuti karāya yaiche tomāra guṇa
+as an outsider  regarding  you  not  I  praise  
+tomāra guṇe stuti karāya yaiche tomāra guṇa  
+by your  qualities  praise  you make Me give  such are  your  qualities
 
-(170) [not yet translated]
+(170) I do not praise you because I regard you as an outsider. Your qualities make Me praise you — such are your qualities.
 
 যদ্যপি কাহার ‘মমতা’ বহুজনে হয় ৷  
 প্রীতি-স্বভাবে কাঁহাতে কোন ভাবোদয় ॥ ১৭১ ॥
 
 yadyapi kāhāra ‘mamatā’ bahu-jane haya  
-prīti-svabhāve kāṅhāte kona bhāvodaya
+although  of someone  the sense of “mine”  toward many people  is  
+prīti-svabhāve kāṅhāte kona bhāvodaya  
+by love’s nature  toward someone  some  feeling arises
 
-(171) [not yet translated]
+(171) Although one may feel many people to be one’s own, by the nature of love a particular feeling arises toward each.
 
 তোমার দেহ তুমি কর বীভৎস-জ্ঞান ৷  
 তোমার দেহ আমারে লাগে অমৃত-সমান ॥ ১৭২ ॥
 
 tomāra deha tumi kara bībhatsa-jñāna  
-tomāra deha āmāre lāge amṛta-samāna
+your  body  you  make  as loathsome  the notion  
+tomāra deha āmāre lāge amṛta-samāna  
+your  body  to Me  seems  like nectar
 
-(172) [not yet translated]
+(172) You regard your body as loathsome, but to Me your body is like nectar.
 
 অপ্রাকৃত-দেহ তোমার ‘প্রাকৃত’ কভু নয় ৷  
 তথাপি তোমার তাতে প্রাকৃত-বুদ্ধি হয় ॥ ১৭৩ ॥
 
 aprākṛta-deha tomāra ‘prākṛta’ kabhu naya  
-tathāpi tomāra tāte prākṛta-buddhi haya
+transcendental  body  your  material  ever  is not  
+tathāpi tomāra tāte prākṛta-buddhi haya  
+nevertheless  your  about it  material  notion  is
 
-(173) [not yet translated]
+(173) Your body is transcendental (*aprākṛta*); it is never material. Still, you think of it as material.
 
 ‘প্রাকৃত’ হৈলেহ তোমার বপু নারি উপেক্ষিতে ৷  
 ভদ্রাভদ্র-বস্তুজ্ঞান নাহি ‘অপ্রাকৃতে’ ॥ ১৭৪ ॥
 
 ‘prākṛta’ haileha tomāra vapu nāri upekṣite  
-bhadrābhadra-vastu-jñāna nāhi ‘aprākṛte’
+material  even if it were  your  body  I cannot  disregard  
+bhadrābhadra-vastu-jñāna nāhi ‘aprākṛte’  
+of good and bad  in things  the perception  there is not  in the transcendental
 
-(174) [not yet translated]
+(174) Even if your body were material, I could not disregard it, for in what is transcendental there is no perception of things as good or bad.
 
 কিং ভদ্রং কিমভদ্রং বা দ্বৈতস্যাবস্তুনঃ কিয়ৎ ৷  
 বাচোদিতং তদনৃতং মনসা ধ্যাতমেব চ ॥ ১৭৫ ॥
 
 kiṁ bhadraṁ kim abhadraṁ vā  
+what  good  what  bad  or  
 dvaitasyāvastunaḥ kiyat  
+of duality  of the unreal  how much  
 vācoditaṁ tad anṛtaṁ  
-manasā dhyātam eva ca
+by speech  spoken  that  untrue  
+manasā dhyātam eva ca  
+by the mind  conceived  indeed  and
 
-(175) [not yet translated]
+(175) “What is good and what is bad, and how much of either, in duality, which is unreal? Whatever is spoken by speech or conceived by the mind is untrue.” (Śrīmad-Bhāgavatam, 11.28.4)
 
 ‘দ্বৈতে’ ভদ্রাভদ্র-জ্ঞান, সব — ‘মনোধর্ম্ম’ ৷  
 ‘এই ভাল, এই মন্দ’, — এই সব ‘ভ্রম’ ॥ ১৭৬ ॥
 
 ‘dvaite’ bhadrābhadra-jñāna, saba — ‘manodharma’  
-‘ei bhāla, ei manda’, — ei saba ‘bhrama’
+in duality  of good and bad  the notion  all  mental speculation  
+‘ei bhāla, ei manda’, — ei saba ‘bhrama’  
+this  good  this  bad  all this  illusion
 
-(176) [not yet translated]
+(176) In duality the notion of good and bad is all mental speculation (*mano-dharma*). ‘This is good, this is bad’ — all this is illusion.
 
 বিদ্যাবিনয়সম্পন্নে ব্রাহ্মণে গবি হস্তিনি ৷  
 শুনি চৈব শ্বপাকে চ পণ্ডিতাঃ সমদর্শিনঃ ॥ ১৭৭ ॥
 
 vidyā-vinaya-sampanne  
+with learning and humility  endowed  
 brāhmaṇe gavi hastini  
+in a brāhmaṇa  in a cow  in an elephant  
 śuni caiva śvapāke ca  
-paṇḍitāḥ sama-darśinaḥ
+in a dog  and indeed  in a dog-eater  and  
+paṇḍitāḥ sama-darśinaḥ  
+the wise  see equally
 
-(177) [not yet translated]
+(177) “The wise see with an equal eye a *brāhmaṇa* endowed with learning and humility, a cow, an elephant, a dog and a dog-eater.” (Bhagavad-gītā, 5.18)
 
 জ্ঞানবিজ্ঞানতৃপ্তাত্মা কূটস্থো বিজিতেন্দ্রিয়ঃ ৷  
 যুক্ত ইত্যুচ্যতে যোগী সমলোষ্ট্রাশ্মকাঞ্চনঃ ॥ ১৭৮ ॥
 
 jñāna-vijñāna-tṛptātmā  
+by knowledge and realization  satisfied in self  
 kūṭastho vijitendriyaḥ  
+unchanging  with senses conquered  
 yukta ity ucyate yogī  
-sama-loṣṭrāśma-kāñcanaḥ
+engaged  thus  is called  a yogī  
+sama-loṣṭrāśma-kāñcanaḥ  
+to whom a clod  a stone  and gold  are the same
 
-(178) [not yet translated]
+(178) “One whose self is satisfied with knowledge and realization, who is unchanging (*kūṭastha*) and has conquered the senses, and to whom a clod of earth, a stone and gold are the same, is called a yogī established in yoga.” (Bhagavad-gītā, 6.8)
 
 আমি ত’ — সন্ন্যাসী, আমার ‘সম-দৃষ্টি’ ধর্ম্ম ৷  
 চন্দন-পঙ্কেতে আমার জ্ঞান হয় ‘সম’ ॥ ১৭৯ ॥
 
 āmi ta’ — sannyāsī, āmāra ‘sama-dṛṣṭi’ dharma  
-candana-paṅkete āmāra jñāna haya ‘sama’
+I  indeed  am a sannyāsī  My  equal vision  the duty  
+candana-paṅkete āmāra jñāna haya ‘sama’  
+sandal paste  and mud  My  perception  is  the same
 
-(179) [not yet translated]
+(179) I am a *sannyāsī*; equal vision is My duty. Sandal paste and mud are the same to Me.
 
 এই লাগি’ তোমা ত্যাগ করিতে না যুয়ায় ৷  
 ঘৃণা-বুদ্ধি করি যদি, নিজ-ধর্ম্ম যায় ॥ ১৮০ ॥
 
 ei lāgi’ tomā tyāga karite nā yuyāya  
-ghṛṇā-buddhi kari yadi, nija-dharma yāya
+for this reason  you  to reject  not  is fitting  
+ghṛṇā-buddhi kari yadi, nija-dharma yāya  
+disgust  if I feel  My own  duty  is lost
 
-(180) [not yet translated]
+(180) For this reason it is not right for Me to reject you. If I were to feel disgust, I would fall from My own duty.”
 
 হরিদাস কহে, — প্রভু, যে কহিলা তুমি ৷  
 এই ‘বাহ্য প্রতারণা’ নাহি মানি আমি ॥ ১৮১ ॥
