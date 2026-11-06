@@ -158,7 +158,7 @@ See Madhya 23.24.
 
 ## 161–162
 
-These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya's order, though they call themselves his followers, are swayed by a mood hostile to pure devotion and did not recognize Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the *jīva* eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a *brāhmaṇa* family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
+These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya's order call themselves his followers. Yet, swayed by a mood hostile to pure devotion, they did not recognize Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the *jīva* eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a *brāhmaṇa* family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
 
 ## 163
 
