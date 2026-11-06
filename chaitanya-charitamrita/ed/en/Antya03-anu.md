@@ -249,3 +249,83 @@ The confidential pastime is the pastime of delivering the *jīvas*.
 ## 89
 
 > Subheading: The Lord embraces Haridāsa —
+
+## 90
+
+> Subheading: Bhagavān is subject to His devotee —
+
+See Ādi 3.85–89.
+
+## 91
+
+> Subheading: Before the devotee even the Unconquerable is conquered, and even Vaikuṇṭha can be measured — (Ālavandāru, or Śrī Yāmunācārya, *Stotra-ratna*, verse 18)
+
+See Ādi 3.88.
+
+## 92
+
+> Subheading: The Lord praises Haridāsa —
+
+## 93
+
+> Subheading: Bhagavān sings the glories of His devotees' qualities —
+
+## 94
+
+> Subheading: The boundless wealth of Ṭhākura Haridāsa's qualities —
+
+## 95
+
+> Subheading: In the *Caitanya-bhāgavata* the Ṭhākura's qualities are described only in part —
+
+## 96
+
+> Subheading: To purify one's own heart — touching a drop of the fathomless ocean of Haridāsa's life —
+
+## 97
+
+> Subheading: A promise to describe only the part of Haridāsa's life not described in the *Caitanya-bhāgavata* —
+
+## 98
+
+> Subheading: An account of how in Benāpola the Ṭhākura delivered the prostitute sent by Rāmacandra Khān —
+
+Benāpola: on the E.B.R. line, on the way to Khulnā, Benāpola station comes after Bongaon Junction; the place near it is “Benāpola.”
+
+## 122
+
+**usimisi kare**: she fidgets (*us-khus kare*), that is, she kept getting up and sitting down and became restless, unsettled and agitated.
+
+## 123
+
+> Subheading: Ṭhākura Haridāsa describes his own initiation into the *mahā-mantra*; a *brāhmaṇa* by initiation —
+
+If one chants the name of Hari every day, counting more than three hundred thirty-three thousand three hundred thirty-three names, in one month the count reaches a *koṭi* (ten million) names. In this sacrifice of chanting the Name, Bhagavān, the Bearer of the Name (*nāmī*), is worshiped. By ordinary worldly notions Haridāsa Ṭhākura was not regarded as entitled to perform sacrifice, either by birth (*śaukra*) or by Sāvitrī initiation. Yet, because he was initiated into the sacrifice of the Name, he performed it as a Vedic *brāhmaṇa* by initiation (*daikṣa-brāhmaṇa*) of the Ekāyana branch. The twice-born Haridāsa Ṭhākura is a transcendental *brāhmaṇa* priest (*yājñika*), and the sacrifice concerning the Name that he had begun was nearly complete. And yet he let it be known that, if it were not completed, his sacrifice would again be broken[^123-1].
+
+## 129
+
+> Subheading: The company of a *sādhu* awakens detachment (*nirveda*) in the prostitute, and she begs the Ṭhākura for mercy —
+
+## 132
+
+> Subheading: The Ṭhākura speaks with indifference of Rāmacandra Khān, the enemy of the Lord —
+
+## 133
+
+> Subheading: Mercy toward the prostitute arises in the Ṭhākura —
+
+## 134
+
+> Subheading: The prostitute prays for her own deliverance —
+
+## 135
+
+> Subheading: The Ṭhākura instructs the prostitute to give up worldly life and all she possesses —
+
+## 136
+
+> Subheading: Only through service to the Vaiṣṇavas and constant chanting of Kṛṣṇa's name does the *jīva* attain the goal (*prayojana*) —
+
+---
+
+[^123-1]: The sense of the last sentence of the original is not entirely clear (the word *ābāra* can mean both “again” and “on the other hand”); it is translated literally.

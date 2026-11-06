@@ -56,6 +56,14 @@ This Bhagavān grants a result that all the gods, *asuras* and others find hard 
 
 Hearing Haridāsa's words full of truth, the Lord was pleased; but, displaying external consciousness, He rejected the words of praise for Himself[^89-1].
 
+## 95
+
+In the *Caitanya-maṅgala*: that is, in the *Caitanya-bhāgavata*; see Ādi, Chapter 14.
+
+## 98
+
+Benāpola: a village in Yaśohara district.
+
 ---
 
 [^11-1]: The translation of the verse understands this differently: “You instruct everyone; You are the teacher even of other teachers.”
