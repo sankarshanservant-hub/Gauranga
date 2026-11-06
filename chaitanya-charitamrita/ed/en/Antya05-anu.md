@@ -132,6 +132,98 @@ Every day he teaches the *devadāsīs* such transcendental acting. Petty people 
 
 **Saba sevā**: every kind of service (see verse 39).
 
+## 40
+
+**Nānābhāvodgama**: the display of the thirty-three kinds of *bhāva* needed to enact Kṛṣṇa's pastimes.
+
+## 41
+
+Dry wood is insentient and does not grow; hard stone does not melt. Just so, Rāmānanda's body and mind underwent no change.
+
+## 42
+
+> Subheading: From the effect one infers the cause: a spiritual entity made of pure goodness (*śuddha-sattva*) is beyond the *guṇas* and untouched by the worldly *guṇas*; therefore Rāmānanda has a transcendental body of spirit and bliss —
+
+## 43
+
+> Subheading: The workings of a devotee's heart are beyond the senses (*adhokṣaja*); they transcend sense-born knowledge —
+
+## 44
+
+> Subheading: Inference has meaning only when it follows the *Śrī Bhāgavatam*, the spotless evidence of the word (*śabda-pramāṇa*); the conclusion that shows the cause of the transcendental workings of Śrī Rāya's heart —
+
+## 45
+
+> Subheading: One who follows *rāgānugā-bhakti* with transcendental faith attains perfection (*siddhi*), that is, becomes a *gosvāmī*, by hearing and chanting Kṛṣṇa's pastimes —
+
+## 45–46
+
+Whoever, with faith and with a transcendental heart, describes or hears Kṛṣṇa's transcendental sweet pastimes — the *rāsa* and the rest — as the *Śrīmad-Bhāgavatam* describes them, his worldly lust born of the mind (*manasija*) is completely destroyed. The speaker or hearer of Kṛṣṇa's transcendental pastimes feels his own existence in the transcendental realm, and so the three *guṇas* of nature cannot overcome him. Toward matter he is wholly beyond the *guṇas* (*nirguṇa*): his mind is unshakable, and he is able to understand his own qualification (*nija-adhikāra*) for serving Kṛṣṇa.
+
+Let no one, like the *prākṛta-sahajiyās*, think in this connection: “A *jīva* greedy for worldly lust need not gain knowledge of *sambandha*. Keeping a worldly mind, he may live in his own realm of enjoyment, give up *sādhana-bhakti*, and regard Kṛṣṇa's transcendental play, His pastimes — the *rāsa* and the rest — as a model of worldly enjoyment like his own. If he simply hears and chants about them, his material lust will be destroyed.” It is precisely to forbid this that Mahāprabhu, by the word *viśvāsa* (faith), dispelled the worldly mentality of the *prākṛta-sahajiyās*. Śrī Śuka also said: “One who is not a controller (*anīśvara*) must never do this, even in his mind. Whoever does it out of folly perishes, as one who is not Rudra would perish by drinking the poison born of the ocean.” (*Śrīmad-Bhāgavatam* 10.33.30)[^45-1]
+
+## 47
+
+> Subheading: Hearing and chanting Kṛṣṇa's pastimes swells the ocean of the bliss of love for Kṛṣṇa —
+
+## 48
+
+> Subheading: The evidence of the scripture *Bhāgavatam* — (*Śrīmad-Bhāgavatam* 10.33.39)
+
+**yaḥ** **pumān** (a person) **śraddhānvitaḥ** (endowed with faith, that is, with a transcendental firm conviction; eager to serve) **vraja-vadhūbhiḥ** (with the gopīs) **viṣṇoḥ** (of the son of Nanda, the supreme Lord) **idam** (described earlier, in the “Five Chapters on the Rāsa”) **ca** **vikrīḍitam** (the special play called the *rāsa*) **anuśṛṇuyāt** (*anu*, constantly; let him hear from the lips of the guru, with no worldly barrier) **atha** (then) **varṇayet** (by the path of the *rūpānugas*, step by step, performs *saṅkīrtana* of Kṛṣṇa's name, form, qualities, pastimes and so on), **saḥ** **dhīraḥ** (the unshakable *rāgānuga gosvāmī*, who has conquered the six urges) **acireṇa** **bhagavati** (for Kṛṣṇa) **parāṁ bhaktim** (the highest *prema-bhakti*) **pratilabhya** (having attained) **hṛd-rogam** (the affliction of the mind, lust born of the mind) **āśu** (quickly) **apahinoti** (drives away).
+
+## 49
+
+> Subheading: By constantly cultivating Kṛṣṇa's pastimes, the *rāgānuga* devotee attains perfection in his own true nature (*svarūpa-siddhi*) and a body of spirit and bliss —
+
+## 49–50
+
+Whoever hears of and chants Śrī Kṛṣṇa's transcendental play — the *rāsa* and the rest — and, following Śrī Rūpa's transcendental mood, constantly serves Kṛṣṇa in his mind, absorbed in pure, unfeigned *rāga*, attains a matchless fruit that worldly language cannot describe. He is an eternally perfect associate (*nitya-siddha pārṣada*). Or else his body is almost perfect (*siddha-prāya*)[^49-1]: though it is visible to people's eyes, in it, as he attains *svarūpa-siddhi*, dwell the feelings devoted to Kṛṣṇa's service, and so all his activities are transcendental. Until, by Kṛṣṇa's will, he attains *vastu-siddhi*, his body is almost perfect and transcendental.
+
+## 51
+
+> Subheading: Śrī Rāya, eternally perfect (*nitya-siddha*), follows *rāgātmikā-bhakti* —
+
+## 52
+
+> Subheading: The mark of a guru is knowledge of the truth about Kṛṣṇa, wholly directed to pleasing Kṛṣṇa's senses, not nobility of seed and the like —
+
+## 53
+
+> Subheading: The Lord sends Miśra again to Rāya to become his disciple —
+
+## 55
+
+> Subheading: Miśra goes to Rāya's house; Rāya, free of pride and giving honor to others, greets Miśra —
+
+## 56
+
+> Subheading: Miśra says that the Lord has sent him —
+
+## 57
+
+> Subheading: Rāya's joy —
+
+## 58
+
+> Subheading: Hearing the Lord's order, Rāya speaks of his good fortune —
+
+## 59
+
+> Subheading: In private Rāya asks Miśra —
+
+## 60
+
+> Subheading: Miśra asks Rāya to speak again about Kṛṣṇa — of *sambandha*, *abhidheya* and *prayojana* — as Rāya had spoken before with the Lord —
+
+## 61
+
+> Subheading: Miśra's humble words —
+
 ---
 
-[^1-1]: The translation of the verse renders this differently (“by the worms of selfishness and material desires”).
+[^1-1]: The verse translation reads differently: “by the worms of selfishness and material desires.”
+
+[^45-1]: So in the edition (checked against the scan). In the common numbering of the *Bhāgavatam* this is verse 10.33.31.
+
+[^49-1]: The verse translation reads differently: “and Kṛṣṇa Himself grants him a spiritual body.”
