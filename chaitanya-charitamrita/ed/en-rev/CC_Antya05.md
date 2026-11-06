@@ -850,7 +850,7 @@ of the sannyāsīs and paṇḍitas  to make  of the pride  destruction
 nīca-śūdra-dvārā karena dharmera prakāśa  
 through a lowly śūdra  He makes  of dharma  the manifestation
 
-(84) To destroy the pride of the *sannyāsīs* and paṇḍitas, He makes dharma manifest through a lowly *śūdra*.
+(84) To destroy the pride of the sannyāsīs and paṇḍitas, He reveals dharma through a lowly śūdra.[^20]
 
 ‘ভক্তি’, ‘প্রেম’, ‘তত্ত্ব’ কহে রায়ে করি’ ‘বক্তা’ ৷  
 আপনি প্রদ্যুম্নমিশ্র-সহ হয় ‘শ্রোতা’ ॥ ৮৫ ॥
@@ -860,7 +860,7 @@ through a lowly śūdra  He makes  of dharma  the manifestation
 āpani pradyumna-miśra-saha haya ‘śrotā’  
 Himself  with Pradyumna Miśra  becomes  ‘the listener’
 
-(85) He speaks of bhakti, prema and *tattva*, making Rāya the speaker, while He Himself, together with Pradyumna Miśra, becomes the listener.
+(85) He speaks of bhakti, prema and the truth (*tattva*), making Rāya the speaker, while He Himself, together with Pradyumna Miśra, becomes the listener.[^21]
 
 হরিদাস-দ্বারা নাম-মাহাত্ম্য-প্রকাশ ৷  
 সনাতন-দ্বারা ভক্তিসিদ্ধান্ত-বিলাস ॥ ৮৬ ॥
@@ -870,7 +870,7 @@ through Haridāsa  the glory of the holy name  the manifestation
 sanātana-dvārā bhakti-siddhānta-vilāsa  
 through Sanātana  the play of the conclusions of bhakti
 
-(86) Through Haridāsa He revealed the glory of the holy name; through Sanātana, the play of the conclusions of bhakti.
+(86) Through Haridāsa He revealed the glory of the holy name; through Sanātana, the conclusions of bhakti in all their splendour.[^22]
 
 শ্রীরূপ-দ্বারা ব্রজের রস-প্রেম-লীলা ৷  
 কে কহিতে পারে গম্ভীর চৈতন্যের খেলা ? ॥ ৮৭ ॥
@@ -880,7 +880,7 @@ through Śrī Rūpa  of Vraja  the pastimes of rasa and prema
 ke kahite pāre gambhīra caitanyera khelā?  
 who  to tell  can  profound  Caitanya’s  play
 
-(87) Through Śrī Rūpa He revealed Vraja’s pastimes of rasa and prema. Who can describe the profound play of Caitanya?
+(87) Through Śrī Rūpa He revealed Vraja’s pastimes of rasa and prema. Who can describe the profound play of Caitanya?[^23]
 
 শ্রীচৈতন্যলীলা এই — অমৃতের সিন্ধু ৷  
 জগৎ ভাসাইতে পারে যার এক বিন্দু ॥ ৮৮ ॥
@@ -920,7 +920,7 @@ from Bengal  a  brāhmaṇa  on the Lord’s  life
 nāṭaka kari’ lañā āilā śunāite  
 a drama  having made  taking  came  to recite
 
-(91) A brāhmaṇa from Bengal composed a drama on the Lord’s life and came, bringing it to recite.
+(91) A brāhmaṇa from Bengal composed a drama on the Lord’s life and brought it with him to recite.[^24]
 
 ভগবান্-আচার্য্য-সনে তার পরিচয় ৷  
 তাঁরে মিলি’ তাঁর ঘরে করিল আলয় ॥ ৯২ ॥
@@ -950,7 +950,7 @@ all  praise  the drama  ‘most excellent’
 mahāprabhure śunāite sabāra haila mana  
 to Mahāprabhu  to recite  of all  arose  the wish
 
-(94) Everyone praised the drama as “most excellent,” and all wished to have Mahāprabhu hear it.
+(94) Everyone praised the drama as “most excellent”, and all wished to have Mahāprabhu hear it.
 
 গীত, শ্লোক, গ্রন্থ, কবিত্ব — যেই করি’ আনে ৷  
 প্রথমে শুনায় সেই স্বরূপের স্থানে ॥ ৯৫ ॥
@@ -970,7 +970,7 @@ before Svarūpa  passes  if  accepts  his  mind
 tabe mahāprabhu-ṭhāñi karāya śravaṇa  
 then  before Mahāprabhu  causes  the hearing
 
-(96) If it passed before Svarūpa and his mind accepted it, only then would it be recited for Mahāprabhu to hear.
+(96) If it passed Svarūpa’s scrutiny and won his approval, only then would it be recited before Mahāprabhu.[^25]
 
 ‘রসাভাস’ হয় যদি ‘সিদ্ধান্তবিরোধ’ ৷  
 সহিতে না পারে প্রভু, মনে হয় ক্রোধ ॥ ৯৭ ॥
@@ -980,7 +980,7 @@ then  before Mahāprabhu  causes  the hearing
 sahite nā pāre prabhu, mane haya krodha  
 to bear  not  can  the Lord  in the mind  arises  anger
 
-(97) If there was *rasābhāsa*, a mere semblance of rasa, or anything opposed to *siddhānta*, the Lord could not bear it, and anger arose in His mind.
+(97) If there was *rasābhāsa*, a mere semblance of rasa, or anything opposed to *siddhānta*, the Lord could not bear it, and anger arose in His mind.[^26]
 
 অতএব প্রভু কিছু আগে নাহি শুনে ৷  
 এই মর্য্যাদা প্রভু কৈরাছেন নিয়মে ॥ ৯৮ ॥
@@ -990,7 +990,7 @@ therefore  the Lord  anything  first  not  hears
 ei maryādā prabhu kairāchena niyame  
 this  rule of propriety  the Lord  has made  as a fixed rule
 
-(98) Therefore the Lord would not hear anything first; He had made this rule of propriety a fixed principle.
+(98) Therefore the Lord would hear nothing that Svarūpa had not examined first; He had made this a fixed rule of propriety.
 
 স্বরূপের ঠাঞি আচার্য্য কৈলা নিবেদন ৷  
 এক কবি প্রভুর নাটক কৈরাছে উত্তম ॥ ৯৯ ॥
@@ -998,9 +998,9 @@ this  rule of propriety  the Lord  has made  as a fixed rule
 svarūpera ṭhāñi ācārya kailā nivedana  
 before Svarūpa  the Ācārya  made  a request  
 eka kavi prabhura nāṭaka kairāche uttama  
-a  brāhmaṇa  on the Lord  a drama  has composed  excellent
+a  poet  on the Lord  a drama  has composed  excellent
 
-(99) Bhagavān Ācārya made a request to Svarūpa: “A brāhmaṇa has composed an excellent drama about the Lord.
+(99) Bhagavān Ācārya made a request to Svarūpa: “A poet has composed an excellent drama about the Lord.[^27]
 
 আদৌ তুমি শুন, যদি তোমার মন মানে ৷  
 পাছে মহাপ্রভুরে তবে করাইমু শ্রবণে ॥ ১০০ ॥
@@ -1010,7 +1010,7 @@ first  you  hear  if  your  mind  accepts
 pāche mahāprabhure tabe karāimu śravaṇe  
 afterwards  Mahāprabhu  then  I shall have  hear
 
-(100) First you hear it, if your mind accepts it; afterwards I shall have Mahāprabhu hear it.”
+(100) Hear it first yourself, and if you approve of it, I shall then have Mahāprabhu hear it.”
 
 স্বরূপ কহে, — তুমি ‘গোপ’ পরম-উদার ৷  
 যে-সে শাস্ত্র শুনিতে ইচ্ছা উপজে তোমার ॥ ১০১ ॥
@@ -1020,7 +1020,7 @@ Svarūpa  says  —  you  a ‘cowherd’  most generous
 ye-se śāstra śunite icchā upaje tomāra  
 any whatever  śāstra  to hear  desire  arises  your
 
-(101) Svarūpa said, “You are a ‘cowherd’ (*gopa*), most generous: a desire arises in you to hear any scripture whatever.
+(101) Svarūpa said, “You are a simple ‘cowherd’ (*gopa*), and most generous: you wish to hear any writing whatever.[^28]
 
 ‘যদ্বা-তদ্বা’ কবির বাক্যে হয় ‘রসাভাস’ ৷  
 সিদ্ধান্তবিরুদ্ধ শুনিতে না হয় উল্লাস ॥ ১০২ ॥
@@ -1030,7 +1030,7 @@ any whatever  śāstra  to hear  desire  arises  your
 siddhānta-viruddha śunite nā haya ullāsa  
 opposed to siddhānta  to hear  not  arises  joy
 
-(102) In the words of just any poet there is *rasābhāsa*, and hearing what is opposed to *siddhānta* brings no joy.
+(102) In the words of just any poet there is *rasābhāsa*, and hearing what is opposed to *siddhānta* brings no joy.[^29]
 
 ‘রস’, ‘রসাভাস’ যার নাহিক বিচার ৷  
 ভক্তিসিদ্ধান্ত-সিন্ধু নাহি পায় পার ॥ ১০৩ ॥
@@ -1057,7 +1057,7 @@ Kṛṣṇa’s pastimes  to describe  not  knows  that  worthless one
 viśeṣe durgama ei caitanya-vihāra!  
 especially  inaccessible  this  play of Caitanya
 
-(104–105) One who knows neither grammar nor rhetoric and has no knowledge of the ornaments of drama — such a worthless one does not know how to describe Kṛṣṇa’s pastimes, and this play of Caitanya is especially hard to approach.
+(104–105) A worthless poet who knows neither grammar nor rhetoric, and has no knowledge of the ornaments of drama, does not know how to describe Kṛṣṇa’s pastimes; and these pastimes of Caitanya are especially hard to enter!
 
 কৃষ্ণলীলা, গৌরলীলা সে করে বর্ণন ৷  
 গৌর-পাদপদ্ম যাঁর হয় প্রাণ-ধন ॥ ১০৬ ॥
@@ -1077,7 +1077,7 @@ of a mundane poet  the poetry  to hear  is  ‘pain’
 vidagdha-ātmīya-vākya śunite haya ‘sukha’  
 of one expert and intimate  the words  to hear  is  ‘joy’
 
-(107) To hear the poetry of a mundane poet (*grāmya-kavi*) is painful; to hear the words of one who is expert and intimate (*vidagdha ātmīya*) is a joy.
+(107) To hear the poetry of a mundane poet (*grāmya-kavi*) is painful; to hear the words of one who is expert and intimate (*vidagdha ātmīya*) is a joy.[^30]
 
 রূপ যৈছে দুই নাটক কৈরাছে আরম্ভে ৷  
 শুনিতে আনন্দ বাড়ে যার মুখবন্ধে ॥ ১০৮ ॥
@@ -1087,7 +1087,7 @@ Rūpa  as  two  dramas  has composed  at the outset
 śunite ānanda bāḍe yāra mukha-bandhe  
 to hear  joy  increases  whose  in the prologue
 
-(108) Take the two dramas Rūpa has composed: on hearing their very opening, the prologue, one’s joy increases.”
+(108) Take the two dramas Rūpa has composed: merely hearing their prologues makes one’s joy grow.”
 
 ভগবান্-আচার্য্য কহে, — শুন একবার ৷  
 তুমি শুনিলে ভাল-মন্দ জানিবে বিচার ॥ ১০৯ ॥
@@ -1127,13 +1127,13 @@ then  that  poet  the nāndī verse  recited
 vikaca-kamala-netre śrī-jagannātha-saṁjñe  
 with eyes like blossoming lotuses  named Śrī Jagannātha  
 kanaka-rucir ihātmany ātmatāṁ yaḥ prapannaḥ  
-golden-hued  here in the body  selfhood  who  has attained  
+golden-hued  here  in the self  selfhood  who  has attained  
 prakṛti-jaḍam aśeṣaṁ cetayann āvirāsīt  
 inert matter  all  enlivening  appeared  
 sa diśatu tava bhavyaṁ kṛṣṇa-caitanya-devaḥ  
 He  may grant  your  welfare  Kṛṣṇa Caitanya-deva
 
-(112) “He of golden luster who has here taken as His self the body (*ātman*) named Śrī Jagannātha, whose eyes are like blossoming lotuses, and who has appeared to enliven the whole of inert matter — may that Kṛṣṇa Caitanya-deva grant you good fortune.”
+(112) “He of golden lustre has here found His self in the One named Śrī Jagannātha, whose eyes are like blossoming lotuses, and has appeared, bringing consciousness to the whole of inert nature. May that Kṛṣṇa Caitanya-deva grant you good fortune.”[^31]
 
 শ্লোক শুনি’ সর্ব্বলোক তাহারে বাখানে ৷  
 স্বরূপ কহে, — এই শ্লোক করহ ব্যাখ্যানে ॥ ১১৩ ॥
@@ -1153,7 +1153,7 @@ the poet  says  —  Jagannātha  —  the beautiful body
 caitanya-gosāñi — śarīrī mahā-dhīra  
 Caitanya Gosāñi  —  the embodied one  most steady
 
-(114) The poet said, “Jagannātha is the beautiful body, and Caitanya Gosāñi, most grave and steady, is the one embodied in it (*śarīrī*).
+(114) The poet said, “Jagannātha is the beautiful body, and Caitanya Gosāñi, perfectly steady (*mahā-dhīra*), is the one embodied in it (*śarīrī*).[^32]
 
 সহজে জড়জগতের চেতন করাইতে ৷  
 নীলাচলে মহাপ্রভু হৈলা আবির্ভূতে ॥ ১১৫ ॥
@@ -1173,7 +1173,7 @@ hearing  of all  became  joyful  the mind
 duḥkha pāñā svarūpa kahe sakrodha vacana  
 pain  feeling  Svarūpa  speaks  angry  words
 
-(116) Hearing this, everyone was delighted, but Svarūpa, deeply pained, spoke angry words:
+(116) Hearing this, everyone was delighted, but Svarūpa, deeply pained, spoke angry words:[^33]
 
 আরে মূর্খ, আপনার কৈলি সর্ব্বনাশ !  
 দুই ত’ ঈশ্বরে তোর নাহিক বিশ্বাস ! ॥ ১১৭ ॥
@@ -1183,7 +1183,7 @@ O  fool  your own  you have made  utter ruin
 dui ta’ īśvare tora nāhika viśvāsa!  
 in the two  indeed  Lords  your  there is no  faith
 
-(117) “O fool, you have brought about your own utter ruin! You have no faith in either of the two Lords!
+(117) “O fool, you have brought about your own utter ruin! You have no faith in either of the two Lords![^34]
 
 পূর্ণানন্দ-চিৎস্বরূপ জগন্নাথ-রায় ৷  
 তাঁরে কৈলি জড়-নশ্বর-প্রাকৃত-কায়! ॥ ১১৮ ॥
@@ -1193,7 +1193,7 @@ full of bliss  a form of pure spirit  Lord Jagannātha
 tām̐re kaili jaḍa-naśvara-prākṛta-kāya!  
 Him  you have made  an inert, perishable, material  body
 
-(118) Lord Jagannātha is full of bliss, a form of pure spirit, yet you have made Him out to be an inert, perishable, material body!
+(118) Lord Jagannātha is full of bliss, a form of pure spirit, yet you have made Him out to be an inert, perishable, material body![^35]
 
 পূর্ণ-ষড়ৈশ্বর্য্য চৈতন্য — স্বয়ং ভগবান্ ৷  
 তাঁরে কৈলি ক্ষুদ্র-জীব স্ফুলিঙ্গ-সমান ! ॥ ১১৯ ॥
@@ -1203,17 +1203,17 @@ full of the six opulences  Caitanya  —  Svayam Bhagavān
 tām̐re kaili kṣudra-jīva sphuliṅga-samāna!  
 Him  you have made  a tiny jīva  a spark  like
 
-(119) Caitanya, full in all six opulences, is Svayam Bhagavān, the Supreme Lord Himself, yet you have made Him out to be a tiny jīva, like a spark!
+(119) Caitanya, full in all six opulences, is Svayam Bhagavān, the Supreme Lord Himself, yet you have made Him out to be a tiny jīva, like a spark![^36]
 
 দুই-ঠাঞি অপরাধে পাইবি দুর্গতি !  
 অতত্ত্বজ্ঞ ‘তত্ত্ব’ বর্ণে, তার এই গতি ! ॥ ১২০ ॥
 
 dui-ṭhāñi aparādhe pāibi durgati!  
-in two places  by the offense  you will get  a dire fate  
+in two places  by the offence  you will get  a dire fate  
 atattva-jña ‘tattva’ varṇe, tāra ei gati!  
 one ignorant of truth  ‘truth’  describes  his  this  fate
 
-(120) For this offence against both you will meet a dire fate! When one ignorant of the truth describes the truth, this is his fate!
+(120) For this offence against both you will meet a dire fate! When one ignorant of the truth describes the truth, this is the end he comes to!
 
 আর এক কৈরাছ পরম ‘প্রমাদ’ !  
 দেহ-দেহি-ভেদ ঈশ্বরে কৈলে ‘অপরাধ’ ! ॥ ১২১ ॥
@@ -1221,9 +1221,9 @@ one ignorant of truth  ‘truth’  describes  his  this  fate
 āra eka kairācha parama ‘pramāda’!  
 and  one  you have made  great  ‘blunder’  
 deha-dehi-bheda īśvare kaile ‘aparādha’!  
-the difference of body and embodied  in the Lord  you made  ‘an offense’
+the difference of body and embodied  in the Lord  you made  ‘an offence’
 
-(121) You have committed yet another great blunder (*pramāda*): by making a distinction between body and embodied in the Lord, you have committed an offence!
+(121) You have made yet another great blunder (*pramāda*): by distinguishing between body and embodied in the Lord, you have committed an offence!
 
 ঈশ্বরের নাহি কভু দেহ-দেহি-ভেদ ৷  
 স্বরূপ, দেহ, — চিদানন্দ, নাহিক বিভেদ ॥ ১২২ ॥
@@ -1242,7 +1242,7 @@ of body and embodied  division  this
 neśvare vidyate kvacit  
 not in the Lord  exists  ever
 
-(123) “This division of body and embodied never exists in the Lord.” (Kūrma Purāṇa)
+(123) “This division of body and embodied never exists in the Lord.” (Kūrma Purāṇa)[^37]
 
 নাতঃ পরং পরম যদ্ভবতঃ স্বরূপ-  
 মানন্দমাত্রমবিকল্পমবিদ্ধবর্চ্চঃ ৷  
@@ -1258,7 +1258,7 @@ I see  of the universe  the creator  one  distinct from the universe  O Self
 bhūtendriyātmakam adas ta upāśrito ’smi  
 the source of the elements and senses  that  Your  sheltered  I am
 
-(124) “O Supreme Lord, I see nothing higher than this form of Yours, which is pure bliss, free of all difference, its radiance unobscured. You are the one creator of the universe, yet You are distinct from it, O Self, and You are the source of the elements and the senses. I have taken shelter of that form of Yours.” (Śrīmad-Bhāgavatam, 3.9.3)
+(124) “O Supreme Lord, I see nothing higher than this form of Yours, which is pure bliss, free of all difference, its radiance unobscured. You are the one creator of the universe, yet You are distinct from it, O Self, and You are the source of the elements and the senses. I have taken shelter of that form of Yours.” (Śrīmad-Bhāgavatam, 3.9.3)[^38]
 
 তদ্বা ইদং ভুবনমঙ্গল মঙ্গলায়  
 ধ্যানে স্ম নো দর্শিতং ত উপাসকানাম্ ৷  
@@ -1274,7 +1274,7 @@ to Him  obeisance  to Bhagavān  we offer  to You
 yo ’nādṛto naraka-bhāgbhir asat-prasaṅgaiḥ  
 who  is not honoured  by those bound for hell  attached to false arguments
 
-(125) “O good of all the worlds, for our good You have shown this very form to us, Your worshippers, in meditation. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)
+(125) “O good of all the worlds, for our good You have shown this very form to us, Your worshippers, in meditation. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)[^39]
 
 কাঁহা ‘পূর্ণানন্দৈশ্বর্য্য’ কৃষ্ণ ‘মহেশ্বর’ !  
 কাঁহা ‘ক্ষুদ্র’ জীব ‘দুঃখী’, ‘মায়ার কিঙ্কর’ ! ॥ ১২৬ ॥
@@ -1298,7 +1298,7 @@ by its own ignorance  covered  the jīva
 saṁkleśa-nikarākaraḥ  
 a mine of a multitude of miseries
 
-(127) “The Lord, embraced by the hlādinī and saṁvit potencies, is eternal being, consciousness and bliss; the jīva, covered by its own ignorance, is a mine of countless miseries.” (words of Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 1.7.5–6)
+(127) “The Lord, embraced by the hlādinī and saṁvit potencies, is eternal being, consciousness and bliss; the jīva, covered by its own ignorance, is a mine of countless miseries.” (words of Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 1.7.5–6)[^40]
 
 শুনি’ সভাসদের হৈল মহাচমৎকার ৷  
 সত্য কহে গোসাঞি, দুঁহারে কৈরাছে তিরস্কার ॥ ১২৮ ॥
@@ -1318,7 +1318,7 @@ hearing  of the poet  arose  shame  fear  amazement
 haṁsa-madhye baka yena kichu nāhi kaya  
 swans  among  a heron  like  anything  not  says
 
-(129) On hearing this, the poet was filled with shame, fear and amazement. Like a heron among swans, he could say nothing.
+(129) The poet was filled with shame, fear and amazement; like a heron among swans, he could say nothing.
 
 তার দুঃখ দেখি’ স্বরূপ পরম-সদয় ৷  
 উপদেশ কৈলা তারে যৈছে ‘হিত’ হয় ॥ ১৩০ ॥
@@ -1338,7 +1338,7 @@ go  the Bhāgavata  study  from a Vaiṣṇava
 ekānta āśraya kara caitanya-caraṇe  
 exclusive  shelter  take  at Caitanya’s feet
 
-(131) “Go and study the *Bhāgavata* from a Vaiṣṇava, and take exclusive shelter at the feet of Caitanya.
+(131) “Go and study the *Bhāgavata* under a Vaiṣṇava, and take exclusive shelter at the feet of Caitanya.[^41]
 
 চৈতন্যের ভক্তগণের নিত্য কর ‘সঙ্গ’ ৷  
 তবে ত’ জানিবা সিদ্ধান্তসমুদ্র-তরঙ্গ ॥ ১৩২ ॥
@@ -1368,7 +1368,7 @@ this  verse  you have composed  having felt  satisfaction
 tomāra hṛdayera arthe dum̐hāya lāge ‘doṣa’  
 your  of the heart  by the meaning  to both  attaches  ‘fault’
 
-(134) You composed this verse with great satisfaction, but by the meaning in your heart it attaches fault to both Lords.
+(134) You composed this verse with great satisfaction, but the meaning you had in mind lays fault on both Lords.
 
 তুমি যৈছে-তৈছে কহ, না জানিয়া রীতি ৷  
 সরস্বতী সেই শব্দে কৈরাছে স্তুতি ॥ ১৩৫ ॥
@@ -1378,7 +1378,7 @@ you  any which way  speak  not  knowing  the proper way
 sarasvatī sei śabde kairāche stuti  
 Sarasvatī  with those  words  has made  praise
 
-(135) You speak any which way, not knowing the proper method; yet with those very words Sarasvatī has offered praise.
+(135) You spoke at random, not knowing the proper way; yet with those very words Sarasvatī has offered praise.[^42]
 
 যৈছে ইন্দ্র, দৈত্যাদি করে কৃষ্ণের ভর্ৎসন ৷  
 সেইশব্দে সরস্বতী করেন স্তবন ॥ ১৩৬ ॥
@@ -1388,7 +1388,7 @@ as  Indra  the demons and others  do  of Kṛṣṇa  rebuke
 sei-śabde sarasvatī karena stavana  
 with those words  Sarasvatī  does  praise
 
-(136) Just as when Indra, the demons and others rebuke Kṛṣṇa, Sarasvatī offers praise with those very words.
+(136) When Indra, the demons and others rebuke Kṛṣṇa, Sarasvatī offers praise with those very words.
 
 বাচালং বালিশং স্তব্ধমজ্ঞং পণ্ডিতমানিনম্ ৷  
 কৃষ্ণং মর্ত্ত্যমুপাশ্রিত্য গোপা মে চক্রুরপ্রিয়ম্ ॥ ১৩৭ ॥
@@ -1400,9 +1400,9 @@ ignorant  thinking Himself learned
 kṛṣṇaṁ martyam upāśritya  
 Kṛṣṇa  a mortal  having taken shelter of  
 gopā  me  cakrur  apriyam  
-the cowherds  to me  have done  an offense
+the cowherds  to me  have done  an offence
 
-(137) “Taking shelter of Kṛṣṇa — a talkative, childish, stubborn, ignorant mortal who thinks Himself learned — these cowherds have offended me.” (Śrīmad-Bhāgavatam, 10.25.5)
+(137) “Taking shelter of Kṛṣṇa — a talkative, childish, stubborn, ignorant mortal who thinks Himself learned — these cowherds have offended me.” (Śrīmad-Bhāgavatam, 10.25.5)[^43]
 
 ঐশ্বর্য্য মদে মত্ত ইন্দ্র, — যেন মাতোয়াল ৷  
 বুদ্ধিনাশ হৈল, কেবল নাহিক সাম্ভাল ॥ ১৩৮ ॥
@@ -1432,13 +1432,13 @@ from his very  mouth  Sarasvatī  does  praise
 ‘bāliśa’ — tathāpi ‘śiśu-prāya’ garva-śūnya  
 ‘childish’  —  yet  ‘like a child’  free of pride
 
-(140) ‘*Vācāla*’ (talkative) means the glorious promulgator of the Vedas; ‘*bāliśa*’ (childish) — though great, He is like a child, free of pride.
+(140) ‘*Vācāla*’ (talkative) means the glorious One who set the Vedas in motion; and ‘*bāliśa*’ (childish) means that, great as He is, He is like a child, free of pride.
 
 বন্দ্যাভাবে ‘অনম্র’ — ‘স্তব্ধ’-শব্দে কয় ৷  
 যাহা হৈতে অন্য ‘বিজ্ঞ’ নাহি — সে ‘অজ্ঞ’ হয় ॥ ১৪১ ॥
 
 vandyābhāve ‘anamra’ — ‘stabdha’-śabde kaya  
-for want of one to honor  ‘not bowing’  —  by the word ‘stabdha’  is said  
+for want of one to honour  ‘not bowing’  —  by the word ‘stabdha’  is said  
 yāhā haite anya ‘vijña’ nāhi — se ‘ajña’ haya  
 than whom  another  ‘knower’  there is not  —  He  ‘ajña’  is
 
@@ -1448,7 +1448,7 @@ than whom  another  ‘knower’  there is not  —  He  ‘ajña’  is
 তথাপি ভক্তবাৎসল্যে ‘মনুষ্য’-অভিমানী ॥ ১৪২ ॥
 
 paṇḍitera mānya-pātra — haya ‘paṇḍita-mānī’  
-of the learned  the object of honor  —  is  ‘paṇḍita-mānī’  
+of the learned  the object of honour  —  is  ‘paṇḍita-mānī’  
 tathāpi bhakta-vātsalye ‘manuṣya’-abhimānī  
 still  out of affection for devotees  ‘human’  considers Himself
 
@@ -1502,7 +1502,7 @@ so  in this  verse  by your  meaning  ‘blame’  comes
 sarasvatīra  artha  śuna,  yāte  ‘stuti’  bhāse  
 Sarasvatī’s  meaning  hear  in which  ‘praise’  shines
 
-(147) So too in this verse: by your meaning, blame comes forth. Now hear Sarasvatī’s meaning, in which praise shines.
+(147) So too with this verse: in your meaning it speaks blame. Now hear Sarasvatī’s meaning, in which praise shines forth.
 
 জগন্নাথ হয় কৃষ্ণের ‘আত্মস্বরূপ’ ৷  
 কিন্তু ইঁহা দারুব্রহ্ম — ‘স্থাবর-স্বরূপ’ ॥ ১৪৮ ॥
@@ -1512,7 +1512,7 @@ Jagannātha  is  Kṛṣṇa’s  ‘very self’
 kintu im̐hā dāru-brahma — ‘sthāvara-svarūpa’  
 but  here  the Dāru-brahma  —  ‘an immobile form’
 
-(148) Jagannātha is Kṛṣṇa’s very self (*ātma-svarūpa*), but here He is the Dāru-brahma, in an immobile form.
+(148) Jagannātha is Kṛṣṇa’s very self (*ātma-svarūpa*), but here He is the Dāru-brahma, in an immobile form.[^44]
 
 তাঁহা-সহ আত্মতা একরূপ হঞা ৷  
 কৃষ্ণ একতত্ত্বরূপ — দুইরূপ হঞা ॥ ১৪৯ ॥
@@ -1522,7 +1522,7 @@ with Him  selfhood  one form  being
 kṛṣṇa eka-tattva-rūpa — dui-rūpa hañā  
 Kṛṣṇa  the one truth  —  two forms  having become
 
-(149) Being one in selfhood with Him, Kṛṣṇa, the one truth, has become two forms.
+(149) Being one in selfhood with Him, Kṛṣṇa, the one truth, has appeared in two forms.[^45]
 
 সংসারতারণ-হেতু যেই ইচ্ছা-শক্তি ৷  
 তাহার মিলন করি’ একতা ঐছে প্রাপ্তি ॥ ১৫০ ॥
@@ -1582,7 +1582,7 @@ Kṛṣṇa  to abuse  makes  the name  utterance
 sei nāma haya tāra ‘mukti’ra kāraṇa  
 that  name  becomes  his  of ‘liberation’  the cause
 
-(155) One may utter Kṛṣṇa’s name only to abuse Him, yet that very name becomes the cause of his liberation.”
+(155) One may utter Kṛṣṇa’s name only to abuse Him, yet that very name becomes the cause of his liberation.”[^46]
 
 তবে সেই কবি সবার চরণে পড়িয়া ৷  
 সবা শরণ লৈল দন্তে তৃণ লঞা ॥ ১৫৬ ॥
@@ -1602,7 +1602,7 @@ then  all  devotees  him  accepted
 tāra guṇa kahi’ mahāprabhure milāilā  
 his  qualities  telling  with Mahāprabhu  introduced
 
-(157) Then all the devotees accepted him, and, speaking of his good qualities, introduced him to Mahāprabhu.
+(157) All the devotees then accepted him and, speaking of his good qualities, introduced him to Mahāprabhu.[^47]
 
 সেই কবি সর্ব্ব ত্যজি’ রহিলা নীলাচলে ৷  
 গৌরভক্তগণের কৃপা কে কহিতে পারে ? ॥ ১৫৮ ॥
@@ -1612,7 +1612,7 @@ that  poet  everything  giving up  stayed  in Nīlācala
 gaura-bhakta-gaṇera kṛpā ke kahite pāre?  
 of Gaura’s devotees  the mercy  who  to describe  can
 
-(158) The poet gave up everything and remained in Nīlācala. Who can describe the mercy of Gaura’s devotees?
+(158) The poet gave up everything and remained in Nīlācala. Who can describe the mercy of Gaura’s devotees?[^48]
 
 এই ত’ কহিলুঁ প্রদ্যুম্নমিশ্র-বিবরণ ৷  
 প্রভুর আজ্ঞায় কৈল কৃষ্ণকথার শ্রবণ ॥ ১৫৯ ॥
@@ -1632,7 +1632,7 @@ within that  I have told  Rāmānanda’s  glory
 āpane śrī-mukhe prabhu varṇe yām̐ra sīmā  
 Himself  with His holy mouth  the Lord  describes  whose  limit
 
-(160) Within it I have told the glory of Rāmānanda, the full extent of which the Lord Himself described with His own holy mouth.
+(160) Within it I have spoken of the glory of Rāmānanda, the full extent of which the Lord Himself described with His own holy lips.
 
 প্রস্তাবে কহিলুঁ কবির নাটক-বিবরণ ৷  
 অজ্ঞ হঞা শ্রদ্ধায় পাইল প্রভুর চরণ ॥ ১৬১ ॥
@@ -1642,7 +1642,7 @@ in passing  I have told  the poet’s  drama  account
 ajña hañā śraddhāya pāila prabhura caraṇa  
 ignorant  being  by faith  obtained  the Lord’s  feet
 
-(161) In passing I have also told the account of the poet’s drama: though ignorant, by faith he attained the Lord’s feet.
+(161) In passing I have also related the story of the poet’s drama: ignorant though he was, by faith he attained the Lord’s feet.[^49]
 
 শ্রীকৃষ্ণচৈতন্য-লীলা — অমৃতের সার ৷  
 একলীলা-প্রবাহে বহে শত-শত ধার ॥ ১৬২ ॥
@@ -1713,3 +1713,63 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^18]: Edition heading: it is forbidden to regard as a mortal the guru who sings of Kṛṣṇa.
 
 [^19]: *Anubhāṣya*: worldly people see in Rāmānanda a householder and a *viṣayī*, absorbed in worldly objects, but his mind of pure goodness always worships a single object — the pastimes of Śrī Kṛṣṇa; he is thus a “kṛṣṇa-viṣayī”, able to turn even sannyāsīs to Kṛṣṇa.
+
+[^20]: Edition heading: worldly varṇāśrama, learning and the like are no sign of one able to speak of true dharma. *Anubhāṣya*: the worldly eye knows Rāmānanda Rāya as a śūdra, the lowest of the varṇas, and as a householder, the lowest of the āśramas; through him the Lord instructed Pradyumna Miśra, a brāhmaṇa by birth, and He Himself, having accepted sannyāsa, accepted the dharma Rāmānanda preached. *Amṛta-pravāha-bhāṣya*: whoever, knowing the difference between mundane and transcendental truth, has learned transcendental devotion to Kṛṣṇa is the teacher of all souls, whatever his birth and āśrama.
+
+[^21]: Edition heading: the Lord Himself in the dress of a sannyāsī and Miśra, a brāhmaṇa by birth, both become disciples eager to hear and choose as their guru Śrī Rāya — dressed as a householder, born outside the brāhmaṇa families, a singer of Kṛṣṇa — and so teach the world.
+
+[^22]: Edition heading: to Ṭhākura Haridāsa, born among the yavanas, the Lord gives the rank of guru of the world and ācārya of the holy name; Śrī Sanātana, though he had lived among mlecchas, is the ācārya of the conclusions of devotion to Kṛṣṇa, that is, of knowledge of *sambandha*.
+
+[^23]: Edition heading: Śrī Rūpa is the ācārya of the rasa of loving devotion of Vraja, that is, of *abhidheya*.
+
+[^24]: The Gauḍīya Maṭha edition reads “লঞা আইলা শুনাইতে”, without “প্রভুকে” (“to the Lord”). Edition heading: the story of a worldly poet from East Bengal in the guise of a brāhmaṇa.
+
+[^25]: Edition heading (95–96): the rule — Svarūpa Dāmodara examines everything first; only a work that has passed his test receives the Lord’s grace.
+
+[^26]: *Anubhāṣya*: *rasābhāsa* is what seems to be rasa but is incomplete in its marks; Śrī Viśvanātha Cakravartī says that it arises when two rasas hostile to each other are joined; *siddhānta-virodha* is contradiction of the conclusions of the path of bhakti. Edition heading: the one cause of the magnanimous Lord’s anger is contradiction of the word of bhakti-siddhānta.
+
+[^27]: The Gauḍīya Maṭha edition reads “এক কবি”, “a poet” (the text Vṛndāvana Candra dāsa followed has “এক বিপ্র”, “a brāhmaṇa”). Edition heading: Bhagavān Ācārya’s request to Svarūpa; praise of the worldly poet’s work.
+
+[^28]: Edition heading: Svarūpa, best of the knowers of Kṛṣṇa-tattva, who knows the heart, rebukes Bhagavān Ācārya.
+
+[^29]: *Amṛta-pravāha-bhāṣya*: *yadvā tadvā kavi* — just any poet, that is, those who compose verse without properly knowing either rasa-tattva or the Vaiṣṇava *siddhānta*.
+
+[^30]: *Amṛta-pravāha-bhāṣya*: *grāmya-kavi* — poets who write verse about worldly men and women; *vidagdha ātmīya-vākya* — the work of one close at heart, skilled in the knowledge of tattva and belonging to the community of pure devotees. Edition heading: a mundane poet, who does not seek Kṛṣṇa’s happiness, is an outsider (*bahiraṅga*); a transcendental poet, devoted to Kṛṣṇa’s happiness, is one’s own (*antaraṅga*).
+
+[^31]: Edition heading: the *nāndī* verse, composed by the Bengali brāhmaṇa. The words *ātmani ātmatāṁ prapannaḥ* bear both the poet’s sense (114) and Sarasvatī’s (148–149). *Anubhāṣya*: in the poet’s sense, Gaura entered Jagannātha’s body as its owner, and the “inert nature” is the Deity of Jagannātha, seen as wood; in Sarasvatī’s sense, Śrī Kṛṣṇa in Gaura’s golden form attained complete non-difference from Śrī Jagannātha — the Lord of māyā, the Dāru-brahma, the Supreme Self full in six opulences.
+
+[^32]: Edition heading: the foolish poet’s error — Māyāvāda, opposed to the conclusions of pure bhakti. *Anubhāṣya*: *śarīrī* — he whose body it is, the embodied one (*dehī*).
+
+[^33]: Edition heading: all rejoiced, but Śrī Svarūpa, the Vaiṣṇava ācārya and teacher of the world, grows angry and so shows his mercy: with the sword of scriptural siddhānta he cuts down the false doctrine.
+
+[^34]: Edition heading: the cause of his anger: (1) to regard Viṣṇu as a jīva leads to hell.
+
+[^35]: *Anubhāṣya*: to see in the Deity of Jagannātha only a wooden image, perishable and material, is an offence; the Deity is non-different from Śrī Kṛṣṇa, and the devotee, with eyes of bhakti, sees Him directly as the full form of eternity, knowledge and bliss.
+
+[^36]: *Anubhāṣya*: by the śruti “As sparks fly from a fire…” the jīva is like a spark of the fire that is the great Viṣṇu, a particle of spirit; but Śrī Caitanya-deva, the Lord of māyā, taking a human form does not make Him a tiny jīva subject to matter.
+
+[^37]: Edition heading: words of the *Kūrma Purāṇa* quoted in the *Laghu-bhāgavatāmṛta* (Pūrva-khaṇḍa, 128).
+
+[^38]: = Madhya 25.36; translation as there.
+
+[^39]: = Madhya 25.37; translation as there. *Anubhāṣya* (on Madhya 25.37): *asat-prasaṅgaiḥ* — those attached to false arguments, absorbed in speculation on the impersonal Brahman contrary to the path of the śrutis.
+
+[^40]: = Madhya 18.114; translation as there. Edition heading: the *Sarvajña-sūkta* as quoted in the *Bhagavat-sandarbha*, or the words of Śrī Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam 1.7.6.
+
+[^41]: *Anubhāṣya*: from a Māyāvādī, from a grammarian clever with words but without bhakti, or from a pleasure-seeker greedy for money, the *Bhāgavata* will not bring love for Kṛṣṇa — only the taste for the mundane will grow; it must be studied only with a Vaiṣṇava paramahaṁsa who has renounced the world, and its meaning, revealed by Śrī Caitanya, is attained by taking exclusive shelter at His feet.
+
+[^42]: Edition heading: even through the words of a fool or an enemy reviling Kṛṣṇa, pure Sarasvatī — Kṛṣṇa’s maidservant, the very word of bhakti-siddhānta — serves Gaura-Kṛṣṇa. *Anubhāṣya*: out of ignorance the poet did not see the difference between Māyāvāda and the path of bhakti, and expressed himself at random; but with those very ill-chosen words Sarasvatī glorified her worshipful Gaura-Kṛṣṇa.
+
+[^43]: *Anubhāṣya*: in Indra’s sense — wordy, a child or a fool, ill-mannered, blind to consequences, a mortal who thinks himself learned; in Sarasvatī’s sense (140–142) — the source of the Vedas, free of pride, bowing to none, all-knowing, honoured by the learned, appearing as a man out of love for His devotees.
+
+[^44]: *Dāru-brahma* — the Brahman manifest in a form of sacred wood (*dāru*); to see in the Deity only a wooden image is an offence (*Anubhāṣya*, see 118). Edition heading (147–148): Svarūpa explains the worldly poet’s words as praise of Kṛṣṇa and establishes the non-difference of the Dāru-brahma, Jagannātha, from the moving Brahman (*jaṅgama-brahma*), Gaurahari.
+
+[^45]: Edition heading: to deliver the world, the one Deity is manifest in two forms by the power of His will (*icchā-śakti*).
+
+[^46]: Edition heading: even when Kṛṣṇa is reviled, the name uttered as *stobha* — *nāmābhāsa* — grants liberation. *Stobha* is a kind of *nāmābhāsa*: the name uttered not for its own sake.
+
+[^47]: Edition heading: first the devotees’ mercy, and through it the mercy of Mahāprabhu.
+
+[^48]: Edition heading: the poet accepts the dharma of sannyāsa and lives in Purī.
+
+[^49]: Edition heading: through faith in the Vaiṣṇavas even an ignorant poet obtains the Lord’s mercy.
