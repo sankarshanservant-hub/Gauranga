@@ -268,7 +268,7 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 > Subheading: (*Lalita-mādhava*, Act 2, verse 10)
 
-**He saha-cari** (O friend), **ahaha** (ah!), **iha** (here, in the forest of Vṛndā) **yaḥ** (He who) **caṭulaiḥ** (restless) **utsarpadbhiḥ** (gliding in every direction) **dṛg-añcala-taskaraiḥ** (with the thieves — His sidelong glances) **mama cetaḥ-koṣāt** (from the treasury of my heart) **dhṛti-dhanaṁ** (the wealth that is my composure) **viluṇṭhayati** (plunders) — **mudira-dyutiḥ** (He whose luster is like that of a cloud [*mudira*], shining like a fresh cloud), **mādyan-mataṅ-gaja-vibhramaḥ** (He whose play [*vibhrama*, *vilāsa*] is like an intoxicated elephant's, restless like an elephant deep in intoxication), **nirātaṅkaḥ** (fearless) — **kaḥ ayaṁ yuvā** (who is this youth)? **Kutaḥ** (from where) **ca** **vraja-bhuvi** (to the land of Vraja) **prāptaḥ** (has He come)?
+**He saha-cari** (O friend), **ahaha** (ah!), **iha** (here, in the forest of Vṛndā) **yaḥ** (He who) **caṭulaiḥ** (restless) **utsarpadbhiḥ** (gliding in every direction) **dṛg-añcala-taskaraiḥ** (with the thieves — His sidelong glances) **mama cetaḥ-koṣāt** (from the treasury of My heart) **dhṛti-dhanaṁ** (the wealth that is My composure) **viluṇṭhayati** (plunders) — **mudira-dyutiḥ** (He whose luster is like that of a cloud [*mudira*], shining like a fresh cloud), **mādyan-mataṅ-gaja-vibhramaḥ** (He whose play [*vibhrama*, *vilāsa*] is like an intoxicated elephant's, restless like an elephant deep in intoxication), **nirātaṅkaḥ** (fearless) — **kaḥ ayaṁ yuvā** (who is this youth)? **Kutaḥ** (from where) **ca** **vraja-bhuvi** (to the land of Vraja) **prāptaḥ** (has He come)?
 
 ## 191
 
@@ -309,6 +309,90 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 ## 202
 
 > Subheading: [The Lord] tells how He empowered Śrī Rūpa and Sanātana and sent them to Vraja —
+
+## 203
+
+> Subheading: Rāya glorifies the Lord, seeing Him as the One who impels action (*prayojaka-kartā*) —
+
+## 204
+
+> Subheading: In Rāya's words and in Śrī Rūpa's writings one and the same *rasa* of *prema-bhakti* is proclaimed —
+
+## 205
+
+> Subheading: The Lord proclaims the glory of the transcendental *rasa* of Vraja through devotees moved by His will —
+
+## 206
+
+> Subheading: The Lord embraces Śrī Rūpa; Śrī Rūpa bows at the feet of the devotees —
+
+## 207
+
+> Subheading: Nityānanda, Advaita, and all the others embrace Śrī Rūpa —
+
+## 208
+
+> Subheading: All are amazed at the Lord's mercy on Śrī Rūpa and at Śrī Rūpa's qualities that attract Kṛṣṇa —
+
+## 209
+
+> Subheading: Ṭhākura Haridāsa embraces Śrī Rūpa —
+
+## 210
+
+> Subheading: Haridāsa praises Śrī Rūpa's good fortune —
+
+## 211
+
+> Subheading: Śrī Rūpa expresses his humility and regards himself as an instrument in the hands of the Lord, who moves him —
+
+## 212
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, the “Sāmānya-bhakti-laharī,” verse 2)
+
+See Madhya 19.134.
+
+## 213
+
+> Subheading: Śrī Rūpa and Haridāsa converse about Kṛṣṇa —
+
+## 214
+
+> Subheading: At the end of the *cāturmāsya* the devotees who came from Gauḍa return to Gauḍa —
+
+## 215
+
+> Subheading: Śrī Rūpa stays at the Lord's feet until the Dola-yātrā —
+
+## 216
+
+> Subheading: The Lord empowers Śrī Rūpa —
+
+## 217
+
+> Subheading: The order to go to Vṛndāvana and send Sanātana to Purī —
+
+## 218
+
+> Subheading: In Vṛndāvana [the Lord] entrusts [Śrī Rūpa] with four kinds of service: (1) composing scriptures on *bhakti-rasa*, (2) restoring lost holy places, (3) establishing the service of the Deities and in temples, and (4) proclaiming the transcendental *bhakti-rasa* —
+
+## 219
+
+That Mahāprabhu went to Vṛndāvana again is not heard of.
+
+## 220
+
+> Subheading: The Lord embraces [Śrī Rūpa]; Śrī Rūpa bows down [to Him] —
+
+## 221
+
+> Subheading: Taking leave of the devotees, Śrī Rūpa comes to Vraja by way of Gauḍa —
+
+## 222
+
+> Subheading: Hearing the account of the meeting of the Lord and Rūpa, the *jīva* devoid of consciousness (*acaitanya*) attains the feet of Caitanya —
+
+*Thus ends the first chapter of the “Anubhāṣya.”*
 
 ---
 

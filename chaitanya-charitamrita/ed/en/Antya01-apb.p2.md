@@ -1,6 +1,6 @@
 ## 140
 
-*Pūrvānurāga* means *pūrva-rāga*, the first attraction, before meeting; *vikāra* is the transformation of love (*praṇaya-vikāra*), that is, the lovesickness (*vyādhi*) born of divine madness; *ceṣṭā* means the bodily actions born of *prema*; *kāma-lekhana* is a letter of the gopīs that reveals their love. The Lord[^140-1] asked about the causes from which *prema* arises, and Śrī Rūpa told everything.
+*Pūrvānurāga* means *pūrva-rāga*, the first attraction, before meeting; *vikāra* is the transformation of love (*praṇaya-vikāra*), that is, the lovesickness (*vyādhi*) born of divine madness; *ceṣṭā* means the bodily actions born of *prema*; *kāma-likhana* is a letter of the gopīs that reveals their love. The Lord[^140-1] asked about the causes from which *prema* arises, and Śrī Rūpa told everything.
 
 ## 142
 
@@ -84,7 +84,7 @@ By the beauty of His eyes this Kṛṣṇa has stolen the luster of the finest w
 
 ## 166
 
-“Sakhī, O beautiful one! His right foot rests below His left shin, His waist is slightly bent in three places, His neck is turned to the side and held still, the corners of His eyes are crooked; to His slightly closed, budlike lips He holds the flute, touched by His restless fingers, and His lotus face is adorned with brows like bees. Accept this Person, full of supreme bliss, who stands before you.”
+“Sakhī, O beautiful one! His right foot rests below His left shin, His waist is slightly bent in three places, His neck is turned to the side and held still, the corners of His eyes are crooked; to His slightly closed, budlike lips He holds the flute, touched by His restless fingers, and His lotus face is adorned with brows like bees. Accept Him, full of supreme bliss, who stands before you.”
 
 ## 167
 
@@ -132,7 +132,7 @@ Glory to that messenger — the sweet, soft tone (*kākalī*) of the flute born 
 
 ## 190
 
-“Friend, who is this fearless youth, shining like a fresh cloud, sporting like an intoxicated elephant? From where has He come to the land of Vraja? Ah, with His restless gait and thieflike glances He is plundering from the treasury of my heart the wealth of my composure!”
+“Friend, who is this fearless youth, shining like a fresh cloud, sporting like an intoxicated elephant? From where has He come to the land of Vraja? Ah, with His restless gait and thieflike glances He is plundering from the treasury of My heart the wealth of My composure!”
 
 ## 191
 
