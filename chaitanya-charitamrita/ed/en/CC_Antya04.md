@@ -834,217 +834,271 @@ of lost holy places  the recovery  and  of renunciation  teaching
 তাঁহা এত ধর্ম্ম চাহি করিতে প্রচারণ ॥ ৮১ ॥
 
 nija-priya-sthāna mora — mathurā-vṛndāvana  
-tāṅhā eta dharma cāhi karite pracāraṇa
+own  dear  place  My  Mathurā-Vṛndāvana  
+tāṅhā eta dharma cāhi karite pracāraṇa  
+there  these  dharmas  I wish  to make  propagation
 
-(81) [not yet translated]
+(81) My own dear abode is Mathurā-Vṛndāvana; there I wish to propagate all these dharmas.
 
 মাতার আজ্ঞায় আমি বসি নীলাচলে ৷  
 তাঁহা ‘ধর্ম্ম’ শিখাইতে নাহি নিজ-বলে ॥ ৮২ ॥
 
 mātāra ājñāya āmi vasi nīlācale  
-tāṅhā ‘dharma’ śikhāite nāhi nija-bale
+of My mother  by the order  I  reside  in Nīlācala  
+tāṅhā ‘dharma’ śikhāite nāhi nija-bale  
+there  ‘dharma’  to teach  not  by My own strength
 
-(82) [not yet translated]
+(82) By My mother’s order I reside in Nīlācala, and it is not within My own power to teach this dharma there.
 
 এত সব কর্ম্ম আমি যে দেহে করিমু ৷  
 তাহা ছাড়িতে চাহ তুমি, কেমনে সহিমু ? ॥ ৮৩ ॥
 
 eta saba karma āmi ye dehe karimu  
-tāhā chāḍite cāha tumi, kemane sahimu?
+these  all  works  I  by which  body  shall do  
+tāhā chāḍite cāha tumi, kemane sahimu?  
+that  to give up  wish  you  how  shall I bear
 
-(83) [not yet translated]
+(83) The body through which I shall do all these works — that you wish to give up! How can I bear it?”
 
 তবে সনাতন কহে, — তোমাকে নমস্কারে ৷  
 তোমার গম্ভীর হৃদয় কে বুঝিতে পারে ? ॥ ৮৪ ॥
 
 tabe sanātana kahe, — tomāke namaskāre  
-tomāra gambhīra hṛdaya ke bujhite pāre?
+then  Sanātana  says  to You  obeisance  
+tomāra gambhīra hṛdaya ke bujhite pāre?  
+Your  deep  heart  who  to understand  can
 
-(84) [not yet translated]
+(84) Then Sanātana said, “I bow down to You. Who can understand Your fathomless heart?
 
 কাষ্ঠের পুতলী যেন কুহকে নাচায় ৷  
 আপনে না জানে, পুতলী কিবা নাচে গায় ! ॥ ৮৫ ॥
 
 kāṣṭhera putalī yena kuhake nācāya  
-āpane nā jāne, putalī kibā nāce gāya!
+of wood  a puppet  as  the conjurer  makes dance  
+āpane nā jāne, putalī kibā nāce gāya!  
+itself  not  knows  the puppet  how  dances  sings
 
-(85) [not yet translated]
+(85) A conjurer makes a wooden puppet dance, and the puppet itself does not know how it dances and sings.
 
 যারে যৈছে নাচাও, সে তৈছে করে নর্ত্তনে ৷  
 কৈছে নাচে, কেবা নাচায়, সেহ নাহি জানে ॥ ৮৬ ॥
 
 yāre yaiche nācāo, se taiche kare nartane  
-kaiche nāce, kebā nācāya, seha nāhi jāne
+whom  as  You make dance  he  so  does  dancing  
+kaiche nāce, kebā nācāya, seha nāhi jāne  
+how  he dances  who  makes him dance  he  not  knows
 
-(86) [not yet translated]
+(86) So too whomever You make dance dances just as You make him, and he does not know how he dances or who makes him dance.”
 
 হরিদাসে কহে প্রভু, — শুন, হরিদাস ৷  
 পরের দ্রব্য ইঁহ চাহেন করিতে বিনাশ ॥ ৮৭ ॥
 
 haridāse kahe prabhu, — śuna, haridāsa  
-parera dravya iṅha cāhena karite vināśa
+to Haridāsa  says  the Lord  listen  Haridāsa  
+parera dravya iṅha cāhena karite vināśa  
+another’s  property  he  wishes  to make  destruction
 
-(87) [not yet translated]
+(87) The Lord said to Haridāsa, “Listen, Haridāsa: this man wants to destroy another’s property.
 
 পরের স্থাপ্য দ্রব্য কেহ না খায়, বিলায় ৷  
 নিষেধিহ ইঁহারে, — যেন না করে অন্যায় ॥ ৮৮ ॥
 
 parera sthāpya dravya keha nā khāya, vilāya  
-niṣedhiha iṅhāre, — yena nā kare anyāya
+another’s  held in trust  property  anyone  not  uses  gives away  
+niṣedhiha iṅhāre, — yena nā kare anyāya  
+forbid  him  so that  not  he does  wrong
 
-(88) [not yet translated]
+(88) No one uses for himself or gives away property that another has placed in his keeping. Forbid him, so that he does not do this wrong.”
 
 হরিদাস কহে, — মিথ্যা অভিমান করি ৷  
 তোমার গম্ভীর হৃদয় বুঝিতে না পারি ॥ ৮৯ ॥
 
 haridāsa kahe, — mithyā abhimāna kari  
-tomāra gambhīra hṛdaya bujhite nā pāri
+Haridāsa  says  false  pride  we make  
+tomāra gambhīra hṛdaya bujhite nā pāri  
+Your  deep  heart  to understand  not  we can
 
-(89) [not yet translated]
+(89) Haridāsa said, “Our pride is false: we cannot understand Your fathomless heart.
 
 কোন্ কোন্ কার্য্য তুমি কর কোন্ দ্বারে ৷  
 তুমি না জানাইলে কেহ জানিতে না পারে ॥ ৯০ ॥
 
 kon kon kārya tumi kara kon dvāre  
-tumi nā jānāile keha jānite nā pāre
+which  which  works  You  do  whom  through  
+tumi nā jānāile keha jānite nā pāre  
+You  not  if You make known  anyone  to know  not  can
 
-(90) [not yet translated]
+(90) Which works You accomplish through whom — unless You make it known, no one can know.
 
 এতাদৃশ তুমি ইঁহারে কৈরাছ অঙ্গীকার ৷  
 এত সৌভাগ্য ইঁহা না হয় কাহার ॥ ৯১ ॥
 
 etādṛśa tumi iṅhāre kairācha aṅgīkāra  
-eta saubhāgya iṅhā nā haya kāhāra
+such  You  him  have made  acceptance  
+eta saubhāgya iṅhā nā haya kāhāra  
+such  good fortune  here  not  is  anyone’s
 
-(91) [not yet translated]
+(91) You have accepted him in such a way; no one here has such good fortune.”
 
 তবে মহাপ্রভু করি’ দুঁহারে আলিঙ্গন ৷  
 ‘মধ্যাহ্ন’ করিতে উঠি’ করিলা গমন ॥ ৯২ ॥
 
 tabe mahāprabhu kari’ duṅhāre āliṅgana  
-‘madhyāhna’ karite uṭhi’ karilā gamana
+then  Mahāprabhu  making  of both  embrace  
+‘madhyāhna’ karite uṭhi’ karilā gamana  
+the ‘midday duties’  to do  rising  made  departure
 
-(92) [not yet translated]
+(92) Then Mahāprabhu embraced them both, rose and left to perform His midday duties.
 
 সনাতনে কহে হরিদাস করি’ আলিঙ্গন ৷  
 তোমার ভাগ্যের সীমা না যায় কথন ॥ ৯৩ ॥
 
 sanātane kahe haridāsa kari’ āliṅgana  
-tomāra bhāgyera sīmā nā yāya kathana
+to Sanātana  says  Haridāsa  making  embrace  
+tomāra bhāgyera sīmā nā yāya kathana  
+your  of fortune  the limit  not  can be  told
 
-(93) [not yet translated]
+(93) Embracing Sanātana, Haridāsa said, “There is no telling the limits of your good fortune.
 
 তোমার দেহ কহেন প্রভু ‘মোর নিজ-ধন’ ৷  
 তোমা-সম ভাগ্যবান্ নাহি কোন জন ॥ ৯৪ ॥
 
 tomāra deha kahena prabhu ‘mora nija-dhana’  
-tomā-sama bhāgyavān nāhi kona jana
+your  body  calls  the Lord  ‘My  own property’  
+tomā-sama bhāgyavān nāhi kona jana  
+like you  fortunate  there is not  any  person
 
-(94) [not yet translated]
+(94) The Lord calls your body ‘My own property’; no one is as fortunate as you.
 
 নিজ-দেহে যে কার্য্য না পারেন করিতে ৷  
 সে কার্য্য করাইবে তোমা, সেহ মথুরাতে ॥ ৯৫ ॥
 
 nija-dehe ye kārya nā pārena karite  
-se kārya karāibe tomā, seha mathurāte
+by His own body  which  work  not  He can  to do  
+se kārya karāibe tomā, seha mathurāte  
+that  work  He will have done  by you  and that  in Mathurā
 
-(95) [not yet translated]
+(95) The work He cannot do in His own body He will have done through you — and in Mathurā.
 
 যে করাইতে চাহে ঈশ্বর, সেই সিদ্ধ হয় ৷  
 তোমার সৌভাগ্য এই কহিলুঁ নিশ্চয় ॥ ৯৬ ॥
 
 ye karāite cāhe īśvara, sei siddha haya  
-tomāra saubhāgya ei kahiluṅ niścaya
+what  to have done  wishes  the Lord  that  accomplished  is  
+tomāra saubhāgya ei kahiluṅ niścaya  
+your  good fortune  this  I have told  for certain
 
-(96) [not yet translated]
+(96) Whatever the Lord wishes to have done is accomplished. This is your good fortune, I tell you for certain.
 
 ভক্তিসিদ্ধান্ত, শাস্ত্র-আচার-নির্ণয় ৷  
 তোমা-দ্বারে করাইবেন, বুঝিলুঁ আশয় ॥ ৯৭ ॥
 
 bhakti-siddhānta, śāstra-ācāra-nirṇaya  
-tomā-dvāre karāibena, bujhiluṅ āśaya
+the conclusions of devotion  of scripture  conduct  the determination  
+tomā-dvāre karāibena, bujhiluṅ āśaya  
+through you  He will have done  I have understood  His intention
 
-(97) [not yet translated]
+(97) The conclusions of *bhakti* and the determination of conduct according to scripture He will have done through you — I have understood His intention.
 
 আমার এই দেহ প্রভুর কার্য্যে না লাগিল ৷  
 ভারত-ভূমিতে জন্মি’ এই দেহ ব্যর্থ হৈল ! ॥ ৯৮ ॥
 
 āmāra ei deha prabhura kārye nā lāgila  
-bhārata-bhūmite janmi’ ei deha vyartha haila!
+my  this  body  of the Lord  in the work  not  was used  
+bhārata-bhūmite janmi’ ei deha vyartha haila!  
+in the land of Bhārata  born  this  body  futile  has become
 
-(98) [not yet translated]
+(98) But this body of mine has not been used in the Lord’s work. Born in the land of Bhārata, this body has been in vain!”
 
 সনাতন কহে, — তোমা-সম কেবা আছে আন ৷  
 মহাপ্রভুর গণে তুমি — মহাভাগ্যবান্ ! ॥ ৯৯ ॥
 
 sanātana kahe, — tomā-sama kebā āche āna  
-mahāprabhura gaṇe tumi — mahā-bhāgyavān!
+Sanātana  says  like you  who  is there  other  
+mahāprabhura gaṇe tumi — mahā-bhāgyavān!  
+of Mahāprabhu  among the associates  you  most fortunate
 
-(99) [not yet translated]
+(99) Sanātana said, “Who else is there like you? Among Mahāprabhu’s associates you are the most fortunate!
 
 অবতার-কার্য্য প্রভুর — নাম-প্রচারে ৷  
 সেই নিজ-কার্য্য প্রভু করেন তোমার দ্বারে ॥ ১০০ ॥
 
 avatāra-kārya prabhura — nāma-pracāre  
-sei nija-kārya prabhu karena tomāra dvāre
+of the descent  the mission  of the Lord  in spreading the Name  
+sei nija-kārya prabhu karena tomāra dvāre  
+that  own  work  the Lord  does  you  through
 
-(100) [not yet translated]
+(100) The mission of the Lord’s descent is to spread the Name, and that very work of His the Lord does through you.
 
 প্রত্যহ কর তিনলক্ষ নাম-সংকীর্ত্তন ৷  
 সবার আগে কর নামের মহিমা কথন ॥ ১০১ ॥
 
 pratyaha kara tina-lakṣa nāma-saṁkīrtana  
-sabāra āge kara nāmera mahimā kathana
+daily  you do  three hundred thousand  chanting of the Name  
+sabāra āge kara nāmera mahimā kathana  
+of all  before  you do  of the Name  the glory  telling
 
-(101) [not yet translated]
+(101) Every day you chant three hundred thousand names, and before everyone you tell the glory of the Name.
 
 আপনে আচরে কেহ, না করে প্রচার ৷  
 প্রচার করেন কেহ, না করেন আচার ॥ ১০২ ॥
 
 āpane ācare keha, nā kare pracāra  
-pracāra karena keha, nā karena ācāra
+himself  practises  someone  not  does  preaching  
+pracāra karena keha, nā karena ācāra  
+preaching  does  someone  not  does  practice
 
-(102) [not yet translated]
+(102) Some practise themselves but do not preach; others preach but do not practise.
 
 ‘আচার’, ‘প্রচার’, — নামের করহ ‘দুই’ কার্য্য ৷  
 তুমি — সর্ব্ব-গুরু, তুমি — জগতের আর্য্য ॥ ১০৩ ॥
 
 ‘ācāra’, ‘pracāra’, — nāmera karaha ‘dui’ kārya  
-tumi — sarva-guru, tumi — jagatera ārya
+‘practice’  ‘preaching’  of the Name  you do  ‘both’  works  
+tumi — sarva-guru, tumi — jagatera ārya  
+you  the guru of all  you  of the world  the noble one
 
-(103) [not yet translated]
+(103) You do both works for the Name — practice (*ācāra*) and preaching (*pracāra*). You are the guru of all; you are the noblest in the world.”
 
 এইমত দুইজন নানা-কথা-রঙ্গে ৷  
 কৃষ্ণকথা আস্বাদয় রহি’ একসঙ্গে ॥ ১০৪ ॥
 
 ei-mata dui-jana nānā-kathā-raṅge  
-kṛṣṇa-kathā āsvādaya rahi’ eka-saṅge
+in this way  the two  in the joy of many talks  
+kṛṣṇa-kathā āsvādaya rahi’ eka-saṅge  
+talks of Kṛṣṇa  relish  staying  together
 
-(104) [not yet translated]
+(104) In this way the two of them lived together, relishing talks of Kṛṣṇa in the joy of many conversations.
 
 যাত্রাকালে আইলা সব গৌড়ের ভক্তগণ ৷  
 পূর্ব্ববৎ কৈলা সবে রথযাত্রা দরশন ॥ ১০৫ ॥
 
 yātrā-kāle āilā saba gauḍera bhakta-gaṇa  
-pūrvavat kailā sabe ratha-yātrā daraśana
+at festival time  came  all  of Gauḍa  the devotees  
+pūrvavat kailā sabe ratha-yātrā daraśana  
+as before  made  all  of the Ratha-yātrā  seeing
 
-(105) [not yet translated]
+(105) At the time of the festival all the devotees of Gauḍa came, and as before they all saw the Ratha-yātrā.
 
 রথ-অগ্রে প্রভু তৈছে করিলা নর্ত্তন ৷  
 দেখি চমৎকার হৈল সনাতনের মন ॥ ১০৬ ॥
 
 ratha-agre prabhu taiche karilā nartana  
-dekhi camatkāra haila sanātanera mana
+before the chariot  the Lord  likewise  made  dancing  
+dekhi camatkāra haila sanātanera mana  
+seeing  astonished  became  of Sanātana  the mind
 
-(106) [not yet translated]
+(106) Before the chariot the Lord danced as before, and seeing it, Sanātana was filled with wonder.
 
 বর্ষার চারি-মাস রহিলা সব নিজ-ভক্তগণে ৷  
 সবা-সঙ্গে প্রভু মিলাইলা সনাতনে ॥ ১০৭ ॥
 
 varṣāra cāri-māsa rahilā saba nija-bhakta-gaṇe  
-sabā-saṅge prabhu milāilā sanātane
+of the rains  the four months  stayed  all  His own devotees  
+sabā-saṅge prabhu milāilā sanātane  
+with all  the Lord  made meet  Sanātana
 
-(107) [not yet translated]
+(107) All His devotees stayed for the four months of the rainy season, and the Lord introduced Sanātana to them all.
 
 অদ্বৈত, নিত্যানন্দ, শ্রীবাস, বক্রেশ্বর ৷  
 বাসুদেব, মুরারি, রাঘব, দামোদর ॥ ১০৮ ॥
@@ -1056,93 +1110,119 @@ sabā-saṅge prabhu milāilā sanātane
 সবা-সনে সনাতনের করাইলা মিলন ॥ ১১০ ॥
 
 advaita, nityānanda, śrīvāsa, vakreśvara  
+Advaita  Nityānanda  Śrīvāsa  Vakreśvara  
 vāsudeva, murāri, rāghava, dāmodara  
+Vāsudeva  Murāri  Rāghava  Dāmodara  
 purī, bhāratī, svarūpa, paṇḍita-gadādhara  
+(Paramānanda) Purī  (Brahmānanda) Bhāratī  Svarūpa  Paṇḍita Gadādhara  
 sārvabhauma, rāmānanda, jagadānanda, śaṅkara  
+Sārvabhauma  Rāmānanda  Jagadānanda  Śaṅkara  
 kāśīśvara, govindādi yata bhakta-gaṇa  
-sabā-sane sanātanera karāilā milana
+Kāśīśvara  Govinda and others  all  the devotees  
+sabā-sane sanātanera karāilā milana  
+with all  of Sanātana  He brought about  the meeting
 
-(108–110) [not yet translated]
+(108–110) He brought Sanātana to meet Advaita, Nityānanda, Śrīvāsa and Vakreśvara; Vāsudeva, Murāri, Rāghava and Dāmodara; (Paramānanda) Purī, (Brahmānanda) Bhāratī, Svarūpa and Gadādhara Paṇḍita; Sārvabhauma, Rāmānanda, Jagadānanda and Śaṅkara; Kāśīśvara, Govinda and all the other devotees.
 
 যথাযোগ্য করাইলা সবার চরণ বন্দন ৷  
 তাঁরে করাইলা সবার কৃপার ভাজন ॥ ১১১ ॥
 
 yathā-yogya karāilā sabāra caraṇa vandana  
-tāṅre karāilā sabāra kṛpāra bhājana
+as befitting  He had (him) make  of all  of the feet  worship  
+tāṅre karāilā sabāra kṛpāra bhājana  
+him  He made  of all  of the mercy  the recipient
 
-(111) [not yet translated]
+(111) He had him bow down at the feet of each of them as befitted each, and made him a recipient of everyone’s mercy.
 
 সদ্গুণে, পাণ্ডিত্যে, সবার প্রিয় — সনাতন ৷  
 যথাযোগ্য কৃপা-মৈত্রী-গৌরব-ভাজন ॥ ১১২ ॥
 
 sad-guṇe, pāṇḍitye, sabāra priya — sanātana  
-yathā-yogya kṛpā-maitrī-gaurava-bhājana
+by his virtues  by his learning  of all  dear  Sanātana  
+yathā-yogya kṛpā-maitrī-gaurava-bhājana  
+as befitting  of mercy  friendship  respect  the recipient
 
-(112) [not yet translated]
+(112) By his virtues and learning Sanātana became dear to all, and received from each, as befitted each, mercy, friendship or respect.
 
 সকল বৈষ্ণব যবে গৌড়দেশে গেলা ৷  
 সনাতন মহাপ্রভুর চরণে রহিলা ॥ ১১৩ ॥
 
 sakala vaiṣṇava yabe gauḍadeśe gelā  
-sanātana mahāprabhura caraṇe rahilā
+all  the Vaiṣṇavas  when  to Gauḍadeśa  went  
+sanātana mahāprabhura caraṇe rahilā  
+Sanātana  of Mahāprabhu  at the feet  remained
 
-(113) [not yet translated]
+(113) When all the Vaiṣṇavas went back to Gauḍa, Sanātana remained at the feet of Mahāprabhu.
 
 দোলযাত্রা-আদি প্রভুর সঙ্গেতে দেখিল ৷  
 দিনে-দিনে প্রভু-সঙ্গে আনন্দ বাড়িল ॥ ১১৪ ॥
 
 dola-yātrā-ādi prabhura saṅgete dekhila  
-dine-dine prabhu-saṅge ānanda bāḍila
+the Dola-yātrā and so on  of the Lord  in the company  he saw  
+dine-dine prabhu-saṅge ānanda bāḍila  
+day by day  in the Lord’s company  joy  increased
 
-(114) [not yet translated]
+(114) In the Lord’s company he saw the Dola-yātrā and other festivals, and day by day, in the Lord’s company, his joy increased.
 
 পূর্ব্বে বৈশাখ-মাসে সনাতন যবে আইলা ৷  
 জ্যৈষ্ঠমাসে প্রভু তাঁরে পরীক্ষা করিলা ॥ ১১৫ ॥
 
 pūrve vaiśākha-māse sanātana yabe āilā  
-jyaiṣṭha-māse prabhu tāṅre parīkṣā karilā
+earlier  in the month of Vaiśākha  Sanātana  when  came  
+jyaiṣṭha-māse prabhu tāṅre parīkṣā karilā  
+in the month of Jyaiṣṭha  the Lord  him  test  made
 
-(115) [not yet translated]
+(115) Sanātana had come in the month of Vaiśākha (April–May); in the month of Jyaiṣṭha (May–June) the Lord put him to a test.
 
 জ্যৈষ্ঠমাসে প্রভু যমেশ্বর-টোটা আইলা ৷  
 ভক্ত-অনুরোধে তাঁহা ভিক্ষা যে করিলা ॥ ১১৬ ॥
 
 jyaiṣṭha-māse prabhu yameśvara-ṭoṭā āilā  
-bhakta-anurodhe tāṅhā bhikṣā ye karilā
+in the month of Jyaiṣṭha  the Lord  to Yameśvara-ṭoṭā  came  
+bhakta-anurodhe tāṅhā bhikṣā ye karilā  
+at the devotees’ request  there  His meal  indeed  took
 
-(116) [not yet translated]
+(116) In the month of Jyaiṣṭha the Lord came to Yameśvara-ṭoṭā and, at the request of His devotees, took His meal there.
 
 মধ্যাহ্ন-ভিক্ষাকালে সনাতনে বোলাইল ৷  
 প্রভু বোলাইলা, তাঁর আনন্দ বাড়িল ॥ ১১৭ ॥
 
 madhyāhna-bhikṣā-kāle sanātane bolāila  
-prabhu bolāilā, tāṅra ānanda bāḍila
+at the time of the midday meal  Sanātana  He had called  
+prabhu bolāilā, tāṅra ānanda bāḍila  
+the Lord  has called  his  joy  increased
 
-(117) [not yet translated]
+(117) At the time of the midday meal He sent for Sanātana; and since the Lord had called him, Sanātana’s joy increased.
 
 মধ্যাহ্নে সমুদ্র-বালু হঞাছে অগ্নি-সম ৷  
 সেইপথে সনাতন করিলা গমন ॥ ১১৮ ॥
 
 madhyāhne samudra-vālu hañāche agni-sama  
-sei-pathe sanātana karilā gamana
+at midday  the sea sand  has become  like fire  
+sei-pathe sanātana karilā gamana  
+by that path  Sanātana  made  going
 
-(118) [not yet translated]
+(118) At midday the sand by the sea had become like fire, yet Sanātana went by that path.
 
 প্রভু বোলাঞাছে, — এই আনন্দিত মনে ৷  
 তপ্ত-বালুকাতে পা পোড়ে, তাহা নাহি জানে ॥ ১১৯ ॥
 
 prabhu bolāñāche, — ei ānandita mane  
-tapta-vālukāte pā poḍe, tāhā nāhi jāne
+the Lord  has called  in this  joyful  mind  
+tapta-vālukāte pā poḍe, tāhā nāhi jāne  
+on the hot sand  the feet  burn  that  not  he knows
 
-(119) [not yet translated]
+(119) His mind was so joyful that the Lord had called him that he did not notice his feet burning on the hot sand.
 
 দুই পায়ে ফোস্কা হৈল, তবু গেলা প্রভুস্থানে ৷  
 ভিক্ষা করি’ মহাপ্রভু কৈরাছেন বিশ্রামে ॥ ১২০ ॥
 
 dui pāye phoskā haila, tabu gelā prabhusthāne  
-bhikṣā kari’ mahāprabhu kairāchena viśrāme
+on both  feet  blisters  appeared  still  he went  to the Lord’s place  
+bhikṣā kari’ mahāprabhu kairāchena viśrāme  
+the meal  having taken  Mahāprabhu  was  resting
 
-(120) [not yet translated]
+(120) Blisters rose on both his feet, yet he went on to the Lord. Mahāprabhu, having taken His meal, was resting.
 
 ভিক্ষা-অবশেষ-পাত্র গোবিন্দ তারে দিলা ৷  
 প্রসাদ পাঞা সনাতন প্রভুপাশে আইলা ॥ ১২১ ॥
@@ -2063,230 +2143,288 @@ from Balabhadra Bhaṭṭa  all  having written down  he took
 সেইপথে চলি’ যায় সে স্থান দেখিয়া ॥ ২১১ ॥
 
 mahāprabhura bhakta-gaṇe sabāre miliyā  
-sei-pathe cali’ yāya se sthāna dekhiyā
+of Mahāprabhu  the devotees  all  having met  
+sei-pathe cali’ yāya se sthāna dekhiyā  
+by that path  going  he goes  those  places  seeing
 
-(211) [not yet translated]
+(211) After meeting all of Mahāprabhu’s devotees, he set out by that path, seeing those places.
 
 যে-যে-লীলা প্রভু পথে কৈলা যে-যে-স্থানে ৷  
 তাহা দেখি’ প্রেমাবেশ হয় সনাতনে ॥ ২১২ ॥
 
 ye-ye-līlā prabhu pathe kailā ye-ye-sthāne  
-tāhā dekhi’ premāveśa haya sanātane
+which  pastimes  the Lord  on the way  performed  in which  places  
+tāhā dekhi’ premāveśa haya sanātane  
+those  seeing  absorption in love  comes  to Sanātana
 
-(212) [not yet translated]
+(212) Seeing each place where the Lord had performed His pastimes on the way, Sanātana was overwhelmed with love.
 
 এইমতে সনাতন বৃন্দাবনে আইলা ৷  
 পাছে আসি’ রূপ-গোসাঞি তাঁহারে মিলিলা ॥ ২১৩ ॥
 
 ei-mate sanātana vṛndāvane āilā  
-pāche āsi’ rūpa-gosāñi tāṅhāre mililā
+in this way  Sanātana  to Vṛndāvana  came  
+pāche āsi’ rūpa-gosāñi tāṅhāre mililā  
+afterward  coming  Rūpa Gosāñi  him  met
 
-(213) [not yet translated]
+(213) In this way Sanātana came to Vṛndāvana. Later Rūpa Gosāñi came and joined him.
 
 একবৎসর রূপ-গোসাঞির গৌড়ে বিলম্ব হৈল ৷  
 কুটুম্বের ‘স্থিতি’-অর্থ বিভাগ করি’ দিল ॥ ২১৪ ॥
 
 eka-vatsara rūpa-gosāñira gauḍe vilamba haila  
-kuṭumbera ‘sthiti’-artha vibhāga kari’ dila
+one year  of Rūpa Gosāñi  in Gauḍa  delay  there was  
+kuṭumbera ‘sthiti’-artha vibhāga kari’ dila  
+for the relatives  the provision  the wealth  division  making  he gave
 
-(214) [not yet translated]
+(214) Rūpa Gosāñi was delayed in Gauḍa for a year: he divided his wealth and gave it to his relatives for their maintenance.
 
 গৌড়ে যে অর্থ ছিল, তাহা আনাইলা ৷  
 কুটুম্ব-ব্রাহ্মণ-দেবালয়ে বাঁটি’ দিলা ॥ ২১৫ ॥
 
 gauḍe ye artha chila, tāhā ānāilā  
-kuṭumba-brāhmaṇa-devālaye bāṅṭi’ dilā
+in Gauḍa  what  wealth  there was  that  he had brought  
+kuṭumba-brāhmaṇa-devālaye bāṅṭi’ dilā  
+to relatives  brāhmaṇas  temples  distributing  he gave
 
-(215) [not yet translated]
+(215) He had the wealth he held in Gauḍa brought to him and distributed it among his relatives, the *brāhmaṇas* and the temples.
 
 সব মনঃকথা গোসাঞি করি’ নির্ব্বাহণ ৷  
 নিশ্চিন্ত হঞা শীঘ্র আইলা বৃন্দাবন ॥ ২১৬ ॥
 
 saba manaḥ-kathā gosāñi kari’ nirvāhaṇa  
-niścinta hañā śīghra āilā vṛndāvana
+all  his heart’s wishes  Gosāñi  having  accomplished  
+niścinta hañā śīghra āilā vṛndāvana  
+free from care  becoming  quickly  came  to Vṛndāvana
 
-(216) [not yet translated]
+(216) When he had accomplished all he had in mind, the Gosāñi, free from care, quickly came to Vṛndāvana.
 
 দুইভাই মিলি’ বৃন্দাবনে বাস কৈলা ৷  
 প্রভুর যে আজ্ঞা, দুঁহে সব নির্ব্বাহিলা ॥ ২১৭ ॥
 
 duibhāi mili’ vṛndāvane vāsa kailā  
-prabhura ye ājñā, duṅhe saba nirvāhilā
+the two brothers  having met  in Vṛndāvana  residence  made  
+prabhura ye ājñā, duṅhe saba nirvāhilā  
+of the Lord  what  orders  the two  all  carried out
 
-(217) [not yet translated]
+(217) The two brothers met and lived together in Vṛndāvana, and they carried out all the Lord’s orders.
 
 নানাশাস্ত্র আনি’ লুপ্ত-তীর্থ উদ্ধারিলা ৷  
 বৃন্দাবনে কৃষ্ণসেবা প্রকাশ করিলা ॥ ২১৮ ॥
 
 nānā-śāstra āni’ lupta-tīrtha uddhārilā  
-vṛndāvane kṛṣṇa-sevā prakāśa karilā
+many scriptures  having gathered  the lost holy places  they recovered  
+vṛndāvane kṛṣṇa-sevā prakāśa karilā  
+in Vṛndāvana  the service of Kṛṣṇa  manifestation  made
 
-(218) [not yet translated]
+(218) Gathering many scriptures, they recovered the lost holy places and manifested the service of Kṛṣṇa in Vṛndāvana.
 
 সনাতন গ্রন্থ কৈলা ‘ভাগবতামৃতে’ ৷  
 ভক্ত-ভক্তি-কৃষ্ণ-তত্ত্ব জানি যাহা হৈতে ॥ ২১৯ ॥
 
 sanātana grantha kailā ‘bhāgavatāmṛte’  
-bhakta-bhakti-kṛṣṇa-tattva jāni yāhā haite
+Sanātana  a book  made  the Bhāgavatāmṛta  
+bhakta-bhakti-kṛṣṇa-tattva jāni yāhā haite  
+devotee  devotion  Kṛṣṇa  the truth  we know  which  from
 
-(219) [not yet translated]
+(219) Sanātana wrote the *Bhāgavatāmṛta*, from which we know the truth of the devotee, devotion and Kṛṣṇa.
 
 সিদ্ধান্তসার গ্রন্থ কৈলা ‘দশম-টিপ্পনী’ ৷  
 কৃষ্ণলীলারস-প্রেম যাহা হৈতে জানি ॥ ২২০ ॥
 
 siddhānta-sāra grantha kailā ‘daśama-ṭippanī’  
-kṛṣṇa-līlā-rasa-prema yāhā haite jāni
+the essence of conclusions  a book  he made  the Daśama-ṭippanī  
+kṛṣṇa-līlā-rasa-prema yāhā haite jāni  
+of Kṛṣṇa’s pastimes  rasa  love  which  from  we know
 
-(220) [not yet translated]
+(220) He wrote the *Daśama-ṭippanī*, the essence of conclusions, from which we know the *rasa* of Kṛṣṇa’s pastimes and love for Him.
 
 ‘হরিভক্তিবিলাস’-গ্রন্থ কৈলা বৈষ্ণব-আচার ৷  
 বৈষ্ণবের কর্ত্তব্য যাঁহা পাইয়ে পার ॥ ২২১ ॥
 
 ‘hari-bhakti-vilāsa’-grantha kailā vaiṣṇava-ācāra  
-vaiṣṇavera kartavya yāṅhā pāiye pāra
+the Hari-bhakti-vilāsa  a book  he made  of Vaiṣṇava conduct  
+vaiṣṇavera kartavya yāṅhā pāiye pāra  
+of a Vaiṣṇava  the duties  in which  we find  to the end
 
-(221) [not yet translated]
+(221) He wrote the *Hari-bhakti-vilāsa* on Vaiṣṇava conduct, in which we find the duties of a Vaiṣṇava in full.
 
 আর যত গ্রন্থ কৈলা, তাহা কে করে গণন ৷  
 মদনগোপাল-গোবিন্দের ‘সেবা’-প্রকাশন ॥ ২২২ ॥
 
 āra yata grantha kailā, tāhā ke kare gaṇana  
-madana-gopāla-govindera ‘sevā’-prakāśana
+other  how many  books  he made  that  who  makes  counting  
+madana-gopāla-govindera ‘sevā’-prakāśana  
+of Madana-gopāla and Govinda  the service  the manifestation
 
-(222) [not yet translated]
+(222) Who can count the other books he wrote? And he manifested the service of Madana-gopāla and Govinda.
 
 রূপ-গোসাঞি কৈলা ‘রসামৃতসিন্ধু’ সার ৷  
 কৃষ্ণভক্তি-রসের যাঁহা পাইয়ে বিস্তার ॥ ২২৩ ॥
 
 rūpa-gosāñi kailā ‘rasāmṛta-sindhu’ sāra  
-kṛṣṇa-bhakti-rasera yāṅhā pāiye vistāra
+Rūpa Gosāñi  made  the Rasāmṛta-sindhu  the essence  
+kṛṣṇa-bhakti-rasera yāṅhā pāiye vistāra  
+of devotion to Kṛṣṇa  of the rasa  in which  we find  the full exposition
 
-(223) [not yet translated]
+(223) Rūpa Gosāñi wrote the *Bhakti-rasāmṛta-sindhu*, the essence of all, in which we find the full exposition of the *rasa* of devotion to Kṛṣṇa.
 
 ‘উজ্জ্বলনীলমণি’-নাম গ্রন্থ কৈল আর ৷  
 রাধাকৃষ্ণ-লীলারস তাঁহা পাইয়ে পার ॥ ২২৪ ॥
 
 ‘ujjvala-nīlamaṇi’-nāma grantha kaila āra  
-rādhā-kṛṣṇa-līlā-rasa tāṅhā pāiye pāra
+the Ujjvala-nīlamaṇi  named  a book  he made  also  
+rādhā-kṛṣṇa-līlā-rasa tāṅhā pāiye pāra  
+of Rādhā and Kṛṣṇa  the pastimes’ rasa  there  we find  to the end
 
-(224) [not yet translated]
+(224) He also wrote the book named *Ujjvala-nīlamaṇi*, where we find the *rasa* of the pastimes of Rādhā and Kṛṣṇa to its utmost.
 
 ‘বিদগ্ধমাধব’, ‘ললিতমাধব’, — নাটকযুগল ৷  
 কৃষ্ণলীলা-রস তাঁহা পাইয়ে সকল ॥ ২২৫ ॥
 
 ‘vidagdha-mādhava’, ‘lalita-mādhava’, — nāṭaka-yugala  
-kṛṣṇa-līlā-rasa tāṅhā pāiye sakala
+the Vidagdha-mādhava  the Lalita-mādhava  a pair of dramas  
+kṛṣṇa-līlā-rasa tāṅhā pāiye sakala  
+of Kṛṣṇa’s pastimes  the rasa  there  we find  all
 
-(225) [not yet translated]
+(225) In the two dramas *Vidagdha-mādhava* and *Lalita-mādhava* we find all the *rasa* of Kṛṣṇa’s pastimes.
 
 ‘দানকেলিকৌমুদী’ আদি লক্ষগ্রন্থ কৈলা ৷  
 সেই সব গ্রন্থে ব্রজের রস বিচারিলা ॥ ২২৬ ॥
 
 ‘dāna-keli-kaumudī’ ādi lakṣa-grantha kailā  
-sei saba granthe vrajera rasa vicārilā
+the Dāna-keli-kaumudī  and others  a hundred thousand granthas  he made  
+sei saba granthe vrajera rasa vicārilā  
+in those  all  books  of Vraja  the rasa  he examined
 
-(226) [not yet translated]
+(226) He wrote the *Dāna-keli-kaumudī* and other works — a hundred thousand *granthas* in all — and in all those books he examined the *rasa* of Vraja.
 
 তাঁর লঘুভ্রাতা — শ্রীবল্লভ-অনুপম ৷  
 তাঁর পুত্র মহাপণ্ডিত — শ্রীজীব-নাম ॥ ২২৭ ॥
 
 tāṅra laghu-bhrātā — śrī-vallabha-anupama  
-tāṅra putra mahā-paṇḍita — śrī-jīva-nāma
+his  younger brother  Śrī Vallabha Anupama  
+tāṅra putra mahā-paṇḍita — śrī-jīva-nāma  
+his  son  a great scholar  Śrī Jīva  by name
 
-(227) [not yet translated]
+(227) His younger brother was Śrī Vallabha, called Anupama, whose son was the great scholar named Śrī Jīva.
 
 সর্ব্ব ত্যজি’ তেঁহো পাছে আইলা বৃন্দাবন ৷  
 তেঁহ ভক্তিশাস্ত্র বহু কৈলা প্রচারণ ॥ ২২৮ ॥
 
 sarva tyaji’ teṅho pāche āilā vṛndāvana  
-teṅha bhaktiśāstra bahu kailā pracāraṇa
+everything  having given up  he  later  came  to Vṛndāvana  
+teṅha bhaktiśāstra bahu kailā pracāraṇa  
+he  scriptures on devotion  many  made  propagation
 
-(228) [not yet translated]
+(228) Giving up everything, he later came to Vṛndāvana and propagated many scriptures of *bhakti*.
 
 ‘ভাগবত-সন্দর্ভ’-নাম কৈলা গ্রন্থ-সার ৷  
 ভাগবত-সিদ্ধান্তের তাঁহা পাইয়ে পার ॥ ২২৯ ॥
 
 ‘bhāgavata-sandarbha’-nāma kailā grantha-sāra  
-bhāgavata-siddhāntera tāṅhā pāiye pāra
+the Bhāgavata-sandarbha  named  he made  the essence of books  
+bhāgavata-siddhāntera tāṅhā pāiye pāra  
+of the Bhāgavata  the conclusions  there  we find  to the end
 
-(229) [not yet translated]
+(229) He wrote the *Bhāgavata-sandarbha*, the essence of all books, where we find the conclusions of the *Bhāgavata* in full.
 
 ‘গোপাল-চম্পূ’ আর নানা গ্রন্থ কৈলা ৷  
 ব্রজ প্রেম-লীলা-রস-সার দেখাইলা ॥ ২৩০ ॥
 
 ‘gopāla-campū’ āra nānā grantha kailā  
-vraja prema-līlā-rasa-sāra dekhāilā
+the Gopāla-campū  also  many  books  he made  
+vraja prema-līlā-rasa-sāra dekhāilā  
+of Vraja  the love-pastimes’  rasa  the essence  he showed
 
-(230) [not yet translated]
+(230) He also wrote the *Gopāla-campū* and many other books, in which he revealed the essence of the *rasa* of the love-pastimes of Vraja.
 
 ‘ষট্সন্দর্ভে’ কৃষ্ণপ্রেম-তত্ত্ব প্রকাশিলা ৷  
 চারিলক্ষ গ্রন্থ তেঁহো বিস্তার করিলা ॥ ২৩১ ॥
 
 ‘ṣaṭ-sandarbhe’ kṛṣṇa-prema-tattva prakāśilā  
-cāri-lakṣa grantha teṅho vistāra karilā
+in the Ṣaṭ-sandarbha  of love for Kṛṣṇa  the truth  he revealed  
+cāri-lakṣa grantha teṅho vistāra karilā  
+four hundred thousand  granthas  he  expansion  made
 
-(231) [not yet translated]
+(231) In the *Ṣaṭ-sandarbha* he revealed the truth of love for Kṛṣṇa. He composed four hundred thousand *granthas* in all.
 
 জীব-গোসাঞি গৌড় হৈতে মথুরা চলিলা ৷  
 নিত্যানন্দপ্রভু-ঠাঞি আজ্ঞা মাগিলা ॥ ২৩২ ॥
 
 jīva-gosāñi gauḍa haite mathurā calilā  
-nityānanda-prabhu-ṭhāñi ājñā māgilā
+Jīva Gosāñi  from Gauḍa  to Mathurā  set out  
+nityānanda-prabhu-ṭhāñi ājñā māgilā  
+from Nityānanda Prabhu  permission  he begged
 
-(232) [not yet translated]
+(232) When Jīva Gosāñi was setting out from Gauḍa for Mathurā, he begged leave of Nityānanda Prabhu.
 
 প্রভু প্রীত্যে তাঁর মাথে ধরিলা চরণ ৷  
 রূপ-সনাতন-সম্বন্ধে কৈলা আলিঙ্গন ॥ ২৩৩ ॥
 
 prabhu prītye tāṅra māthe dharilā caraṇa  
-rūpa-sanātana-sambandhe kailā āliṅgana
+the Lord  with love  on his  head  placed  His feet  
+rūpa-sanātana-sambandhe kailā āliṅgana  
+because of his relation to Rūpa and Sanātana  He made  embrace
 
-(233) [not yet translated]
+(233) With love the Lord placed His feet on his head, and because he was related to Rūpa and Sanātana, He embraced him.
 
 আজ্ঞা দিলা, — শীঘ্র তুমি যাহ’ বৃন্দাবনে ৷  
 তোমার বংশে প্রভু দিয়াছেন সেইস্থানে ॥ ২৩৪ ॥
 
 ājñā dilā, — śīghra tumi yāha’ vṛndāvane  
-tomāra vaṁśe prabhu diyāchena seisthāne
+order  He gave  quickly  you  go  to Vṛndāvana  
+tomāra vaṁśe prabhu diyāchena seisthāne  
+to your  family  the Lord  has given  that place
 
-(234) [not yet translated]
+(234) He ordered him, “Go quickly to Vṛndāvana. The Lord has given that place to your family.”
 
 তাঁর আজ্ঞায় আইলা, আজ্ঞা-ফল পাইলা ৷  
 শাস্ত্র করি’ কতকাল ‘ভক্তি’ প্রচারিলা ॥ ২৩৫ ॥
 
 tāṅra ājñāya āilā, ājñā-phala pāilā  
-śāstra kari’ kata-kāla ‘bhakti’ pracārilā
+by His  order  he came  of the order  the fruit  he obtained  
+śāstra kari’ kata-kāla ‘bhakti’ pracārilā  
+scriptures  having composed  for a long time  devotion  he preached
 
-(235) [not yet translated]
+(235) By His order he came, and he obtained the fruit of obeying it: composing scriptures, he preached *bhakti* for a long time.
 
 এই তিনগুরু, আর রঘুনাথদাস ৷  
 ইঁহা-সবার চরণ বন্দোঁ, যাঁর মুঞি ‘দাস’ ॥ ২৩৬ ॥
 
 ei tina-guru, āra raghunāthadāsa  
-iṅhā-sabāra caraṇa vandoṅ, yāṅra muñi ‘dāsa’
+these  three gurus  and  Raghunātha dāsa  
+iṅhā-sabāra caraṇa vandoṅ, yāṅra muñi ‘dāsa’  
+of all these  the feet  I worship  whose  I  servant
 
-(236) [not yet translated]
+(236) These three gurus and Raghunātha dāsa — I worship the feet of them all, for I am their servant.
 
 এই ত’ কহিলুঁ পুনঃ সনাতন-সঙ্গমে ৷  
 প্রভুর আশয় জানি যাহার শ্রবণে ॥ ২৩৭ ॥
 
 ei ta’ kahiluṅ punaḥ sanātana-saṅgame  
-prabhura āśaya jāni yāhāra śravaṇe
+this  indeed  I have told  again  the meeting with Sanātana  
+prabhura āśaya jāni yāhāra śravaṇe  
+of the Lord  the intention  we know  which  by hearing
 
-(237) [not yet translated]
+(237) Thus I have told once more of the meeting with Sanātana, by hearing which we come to know the Lord’s intention.
 
 চৈতন্যচরিত্র এই — ইক্ষুদণ্ড-সম ৷  
 চর্ব্বণ করিতে হয় রস-আস্বাদন ॥ ২৩৮ ॥
 
 caitanya-caritra ei — ikṣu-daṇḍa-sama  
-carvaṇa karite haya rasa-āsvādana
+of Caitanya  the deeds  these  like sugarcane  
+carvaṇa karite haya rasa-āsvādana  
+chewing  when one does  comes  of the juice  the taste
 
-(238) [not yet translated]
+(238) These deeds of Caitanya are like sugarcane: chew it, and you taste its juice.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ২৩৯ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(239) [not yet translated]
+(239) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
