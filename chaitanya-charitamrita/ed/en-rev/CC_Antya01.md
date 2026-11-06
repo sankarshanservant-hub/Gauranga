@@ -284,7 +284,7 @@ all  taking  He had  of Jagannātha  darśana
 sabā lañā mahāprabhu karena bhojana  
 all  taking (with Him)  Mahāprabhu  takes  His meal
 
-(26) He took them all for darśana of Jagannātha, and then Mahāprabhu took His meal together with them.
+(26) He brought them all for darśana of Jagannātha, and then Mahāprabhu took His meal together with them.
 
 পূর্ব্ববৎ সবারে প্রভু পাঠাইলা বাসা-স্থানে ৷  
 প্রভু-স্থানে আর দিন সবার গমনে ॥ ২৭ ॥
@@ -718,7 +718,7 @@ a separate  drama  to write  Satyabhāmā  the order  gave
 jānilu, pṛthak nāṭaka karite prabhu-ājñā haila  
 I understand,  a separate  drama  to write  the Lord’s order  has come
 
-(69) “Satyabhāmā ordered me to write a separate drama, and now I understand that the Lord too has ordered me to write a separate drama.[^15]
+(69) “Satyabhāmā ordered me to write a separate drama, and now I understand that the Lord’s order is the same.[^15]
 
 পূর্ব্বে দুই নাটক ছিল একত্র রচনা ৷  
 দুইভাগ করি এবে করিমু ঘটনা ॥ ৭০ ॥
@@ -798,7 +798,7 @@ Rūpa Gosāñi  of the Lord  understanding  the intent
 sei arthe śloka kailā prabhure ye bhāya  
 in that  sense  a verse  composed  to the Lord  that  appeals
 
-(77) Rūpa Gosāñi understood the Lord’s intent and composed a verse with that meaning, a verse that the Lord loved.
+(77) Rūpa Gosāñi understood the Lord’s intent and composed a verse with that meaning — one that the Lord loved.
 
 যঃ কৌমারহরঃ স এব হি বরস্তা এব চৈত্রক্ষপা-  
 স্তে চোন্মীলিতমালতীসুরভয়ঃ প্রৌঢ়াঃ কদম্বানিলাঃ ৷  
@@ -1059,7 +1059,7 @@ of Kṛṣṇa’s  name  the glory  from scripture and the mouths of saints  I 
 nāmera mādhurī aiche kām̐hā nāhi śuni  
 of the name  sweetness  such  anywhere  not  I hear
 
-(101) I know the glory of Kṛṣṇa’s name from the scriptures and from the lips of saints, but nowhere have I heard of such sweetness in the name.[^22]
+(101) “I know the glory of Kṛṣṇa’s name from the scriptures and from the lips of saints, but nowhere have I heard of such sweetness in the name.”[^22]
 
 তবে মহাপ্রভু দুঁহে করি’ আলিঙ্গন ৷  
 মধ্যাহ্ন করিতে সমুদ্রে করিলা গমন ॥ ১০২ ॥
@@ -1142,7 +1142,7 @@ with the devotees  the Lord  came,  seeing  the two  persons
 daṇḍavat hañā kailā caraṇa vandana  
 flat like rods  becoming  made  to the feet  worship
 
-(109) When the two of them saw that the Lord had come with His devotees, they fell flat before Him and worshipped their feet.
+(109) When the two of them saw that the Lord had come with His devotees, they fell flat and bowed at their feet.
 
 ভক্তসঙ্গে কৈলা প্রভু দুঁহারে মিলন ৷  
 পিণ্ডাতে বসিলা প্রভু লঞা ভক্তগণ ॥ ১১০ ॥

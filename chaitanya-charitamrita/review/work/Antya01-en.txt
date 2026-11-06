@@ -150,7 +150,7 @@ tr: Restless at heart, they all travelled on to Nīlācala, and Mahāprabhu met 
 ## 26
 w: all  taking  He had  of Jagannātha  darśana
 w: all  taking (with Him)  Mahāprabhu  takes  His meal
-tr: He took them all for darśana of Jagannātha, and then Mahāprabhu took His meal together with them.
+tr: He brought them all for darśana of Jagannātha, and then Mahāprabhu took His meal together with them.
 
 ## 27
 w: as before  all  the Lord  sent  to their lodgings
@@ -373,7 +373,7 @@ tr: Saying this, Mahāprabhu left for His midday duties, and Rūpa Gosāñi was 
 ## 69
 w: a separate  drama  to write  Satyabhāmā  the order  gave
 w: I understand,  a separate  drama  to write  the Lord’s order  has come
-tr: “Satyabhāmā ordered me to write a separate drama, and now I understand that the Lord too has ordered me to write a separate drama.
+tr: “Satyabhāmā ordered me to write a separate drama, and now I understand that the Lord’s order is the same.
 fn: Edition heading: both Satyabhāmā-devī and the Lord order separate dramas — she the *Lalita-mādhava*, He the *Vidagdha-mādhava*.
 
 ## 70
@@ -415,7 +415,7 @@ tr: Svarūpa Gosāñi alone knew the meaning of the verse, and he would sing son
 ## 77
 w: Rūpa Gosāñi  of the Lord  understanding  the intent
 w: in that  sense  a verse  composed  to the Lord  that  appeals
-tr: Rūpa Gosāñi understood the Lord’s intent and composed a verse with that meaning, a verse that the Lord loved.
+tr: Rūpa Gosāñi understood the Lord’s intent and composed a verse with that meaning — one that the Lord loved.
 
 ## 78
 w: who  stole my heart in my girlhood  He  the same  indeed  my beloved  those  same  nights of Caitra
@@ -547,7 +547,7 @@ tr: Hearing the verse, Haridāsa was jubilant, and he began to dance, praising i
 ## 101
 w: of Kṛṣṇa’s  name  the glory  from scripture and the mouths of saints  I know
 w: of the name  sweetness  such  anywhere  not  I hear
-tr: I know the glory of Kṛṣṇa’s name from the scriptures and from the lips of saints, but nowhere have I heard of such sweetness in the name.
+tr: “I know the glory of Kṛṣṇa’s name from the scriptures and from the lips of saints, but nowhere have I heard of such sweetness in the name.”
 fn: The Gauḍīya Maṭha edition reads *mādhurī* (“sweetness”) in the second line; some texts repeat *mahimā* (“glory”).
 
 ## 102
@@ -589,7 +589,7 @@ fn: Reference as in the edition heading (p. 855): *Bhakti-rasāmṛta-sindhu*, D
 ## 109
 w: with the devotees  the Lord  came,  seeing  the two  persons
 w: flat like rods  becoming  made  to the feet  worship
-tr: When the two of them saw that the Lord had come with His devotees, they fell flat before Him and worshipped their feet.
+tr: When the two of them saw that the Lord had come with His devotees, they fell flat and bowed at their feet.
 
 ## 110
 w: with the devotees  made  the Lord  with the two  meeting
