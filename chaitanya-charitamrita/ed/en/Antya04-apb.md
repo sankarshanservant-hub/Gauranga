@@ -11,3 +11,11 @@ When Sanātana came from Vṛndāvana, Śrī Gauracandra in His affection saved 
 ## 5
 
 *Khājuyāite*: scratching an itching rash (*khos-pā̃carā*).
+
+## 51
+
+*Cakra*: the Nīla-cakra.
+
+## 61
+
+In separation from Kṛṣṇa a loving devotee wishes to give up his body. But by the very power of that love he attains Kṛṣṇa and cannot give up his body; that is, Kṛṣṇa does not let him die.

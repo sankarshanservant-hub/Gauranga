@@ -71,3 +71,137 @@
 ## 23
 
 > Subheading: Out of humility Haridāsa and Sanātana sit below the devotees —
+
+## 24
+
+> Subheading: The Lord asks about the welfare of Sanātana and of the devotees living in Vraja —
+
+## 25
+
+> Subheading: Sanātana's reply —
+
+## 26
+
+> Subheading: The Lord gives Sanātana news of Rūpa and Anupama —
+
+## 28
+
+> Subheading: Sanātana speaks humbly of himself and glorifies the Lord's unsolicited mercy —
+
+***Nīca-vaṁśe***: see the *Anubhāṣya* on Madhya 1.189.
+
+## 30
+
+> Subheading: The exclusive devotion of the youngest brother, Anupama, to Śrī Rāma —
+
+## 32
+
+> Subheading: The unfeigned love of the three brothers for one another —
+
+## 34
+
+> Subheading: Describing the sweetness of Kṛṣṇa's qualities, the two elder brothers draw Anupama toward serving Kṛṣṇa —
+
+## 36
+
+> Subheading: Under the strong insistence of his two elder brothers, the exclusively devoted Anupama changes his mind for a time —
+
+## 37
+
+> Subheading: Anupama's wish to serve Kṛṣṇa —
+
+## 38
+
+> Subheading: The thought of giving up the worship of Rāma throws Anupama into anguish —
+
+## 39
+
+> Subheading: Weeping, a sleepless night and an appeal —
+
+## 40
+
+> Subheading: Anupama's deep, exclusive devotion to Rāma —
+
+## 43
+
+> Subheading: The elder brothers bless the youngest —
+
+## 44
+
+> Subheading: Firm faith in the Lord's mercy —
+
+## 45
+
+> Subheading: The Lord cites as an example Murāri Gupta's devotion to Rāma —
+
+## 46
+
+> Subheading: The exclusive devotee and Bhagavān: the special quality of their love for each other —
+
+## 47
+
+> Subheading: Bhagavān, who loves His exclusive devotees —
+
+## 30–45
+
+In this connection Śrī Murāri Gupta's devotion to Śrī Rāma in Madhya 15.137–157 should be studied.
+
+## 48
+
+> Subheading: The Lord tells Sanātana to stay near Haridāsa —
+
+## 49
+
+> Subheading: Praising Sanātana and Haridāsa, the Lord gives them an instruction —
+
+## 50
+
+> Subheading: The Lord departs and sends *prasāda* to them both —
+
+## 51
+
+> Subheading: Sanātana offers obeisance on seeing the temple's *cakra* —
+
+## 52
+
+> Subheading: Every day the Lord meets them both and gives them *mahā-prasāda* —
+
+## 54
+
+> Subheading: One day the Lord, the Indweller (Antaryāmī), openly reveals Sanātana's earlier resolve —
+
+## 55
+
+> Subheading: Addressing Sanātana, the Lord instructs the *sādhaka* who is still beset by *anarthas* and driven by products of the mind (*manodharma*): false (*phalgu*) knowledge and false renunciation are not the means to attain Kṛṣṇa —
+
+## 56
+
+> Subheading: Pure *bhakti* together with *yukta-vairāgya* (fitting renunciation) alone is the means to attain Kṛṣṇa, and nothing else —
+
+## 57
+
+> Subheading: Kṛṣṇa abides only in transcendental *bhakti*, made of pure goodness (*viśuddha-sattva*); efforts of *karma* and *jñāna*, made of the mundane *guṇas*, do not bring Kṛṣṇa —
+
+## 58
+
+> Subheading: Devotion to Kṛṣṇa is the only means to attain love for Kṛṣṇa —
+
+## 59
+
+See Ādi 17.76.
+
+## 60
+
+> Subheading: The false renunciation and pursuit of knowledge of a *sādhaka* led by the mind are rooted in the sense of separateness (*bheda-buddhi*); they aim at gratifying the material senses, not at love for Kṛṣṇa, and so Kṛṣṇa cannot be attained through them —
+
+## 61
+
+> Subheading: The wish to give up the body that arises from deep separation (*vipralambha*) in a perfected devotee full of *anurāga* is wholly impelled by Kṛṣṇa's will and consists in striving to please Kṛṣṇa; through this alone he attains Kṛṣṇa —
+
+## 61–62
+
+See Madhya 12.31: “But one who loves has this nature: if he cannot reach the one he longs for, he gives up his life.”
+
+## 63
+
+> Subheading: Rukmiṇī reveals her *anurāga* to Vāsudeva —
