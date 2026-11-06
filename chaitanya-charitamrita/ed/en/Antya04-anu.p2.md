@@ -40,7 +40,7 @@
 
 ## 134
 
-> Subheading: The embrace leaves the discharge of Sanātana's sores on the Lord's body, and Sanātana, the embodiment of humility, is pained —
+> Subheading: The embrace leaves the fluid of Sanātana's oozing sores (*kaṇḍu-rasā*) on the Lord's body, and Sanātana, the embodiment of humility, is pained —
 
 ## 135
 
@@ -60,7 +60,7 @@
 
 ## 138
 
-> Subheading: The discharge of his sores touches the Lord's body, and Sanātana, the embodiment of humility, feels shame, pain and the fear of offense —
+> Subheading: The fluid of his oozing sores touches the Lord's body, and Sanātana, the embodiment of humility, feels shame, pain and the fear of offense —
 
 ## 140
 
@@ -132,7 +132,7 @@
 
 > Subheading: Sanātana compares the Lord's affection for himself with His affection for the Paṇḍita —
 
-The juice of *nimba* and *niśindā* is bitter, so it is unpleasant to taste. Just as unpleasant it is for one who is lovingly cared for (*lālya*) — one who deserves affection and mercy — to receive respect, obeisances and other honors from the one who cares for him (*lālaka*), whom he himself should serve and worship.
+The juice of *nimba* and *niśindā* is bitter, so it is unpleasant to taste. Just as unpleasant it is for one who is cherished (*lālya*) — one who deserves affection and mercy — to receive respect, obeisances and other honors from the one who cherishes him (*lālaka*), whom he himself should serve and worship.
 
 ## 164
 
@@ -238,7 +238,7 @@ The sixth verse of Śrī Rūpa Prabhu's *Upadeśāmṛta* says: “Here, in this
 
 > Subheading: The devotee and Bhagavān: how they treat each other —
 
-The one who cares for another (*lālaka*), out of tenderness toward the one in his care (*lālya*), does not notice his ward's faults, even if he has them.
+The one who cherishes (*lālaka*), out of tenderness toward the one cherished (*lālya*), does not notice his faults, even if he has them.
 
 ## 185
 
@@ -250,7 +250,7 @@ The thought “I am the object of your reverence and respect, that is, of your w
 
 > Subheading: The Lord regards Sanātana as equal to Himself: he is the devotee dearest to Him, whom He has made His own and accepted as His own —
 
-**Lālyāmedhya**: what is unclean and impure in the one cared for (*lālya*).
+**Lālyāmedhya**: what is unclean and impure in the one cherished (*lālya*).
 
 ## 188
 
@@ -316,7 +316,7 @@ The body of an associate (*pārṣada*) is a body made wholly of service to Kṛ
 
 ## 202
 
-> Subheading: Seeing this, Haridāsa is astonished and reveals the true inner meaning of the pastime: Sanātana's body, wholly guided by the Lord's will, merely displayed the suffering of discharging sores, as seen by sense-born vision —
+> Subheading: Seeing this, Haridāsa is astonished and reveals the true inner meaning of the pastime: Sanātana's body, wholly guided by the Lord's will, merely displayed the suffering of oozing sores, as seen by sense-born vision —
 
 ## 203
 
