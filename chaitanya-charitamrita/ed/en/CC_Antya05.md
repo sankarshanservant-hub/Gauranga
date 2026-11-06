@@ -1250,11 +1250,15 @@ not in the Lord  exists  ever
 ভূতেন্দ্রিয়াত্মকমদস্ত উপাশ্রিতোঽস্মি ॥ ১২৪ ॥
 
 nātaḥ paraṁ parama yad bhavataḥ svarūpam  
+not  than this  higher  O Supreme  which  Your  form  
 ānanda-mātram avikalpam aviddha-varcaḥ  
+pure bliss  free of difference  of unobscured radiance  
 paśyāmi viśva-sṛjam ekam aviśvam ātman  
-bhūtendriyātmakam adas ta upāśrito ’smi
+I see  of the universe  the creator  one  distinct from the universe  O Self  
+bhūtendriyātmakam adas ta upāśrito ’smi  
+the source of the elements and senses  that  Your  sheltered  I am
 
-(124) [not yet translated]
+(124) “O Supreme Lord, I see nothing higher than this form of Yours, which is pure bliss, free of all difference, its radiance unobscured. You are the one creator of the universe, yet You are distinct from it, O Self, and You are the source of the elements and the senses. I have taken shelter of that form of Yours.” (Śrīmad-Bhāgavatam, 3.9.3)
 
 তদ্বা ইদং ভুবনমঙ্গল মঙ্গলায়  
 ধ্যানে স্ম নো দর্শিতং ত উপাসকানাম্ ৷  
@@ -1262,324 +1266,410 @@ bhūtendriyātmakam adas ta upāśrito ’smi
 যোঽনাদৃতো নরকভাগ্ভিরসৎপ্রসঙ্গৈঃ ॥ ১২৫ ॥
 
 tad vā idaṁ bhuvana-maṅgala maṅgalāya  
+that  indeed  this (form)  O good of the worlds  for the good  
 dhyāne sma no darśitaṁ ta upāsakānām  
+in meditation  indeed  to us  shown  by You  to the worshippers  
 tasmai namo bhagavate ’nuvidhema tubhyaṁ  
-yo ’nādṛto naraka-bhāgbhir asat-prasaṅgaiḥ
+to Him  obeisance  to Bhagavān  we offer  to You  
+yo ’nādṛto naraka-bhāgbhir asat-prasaṅgaiḥ  
+who  is not honoured  by those bound for hell  attached to false arguments
 
-(125) [not yet translated]
+(125) “O good of all the worlds, for our good You have shown this very form to us, Your worshippers, in meditation. We bow down to You, Bhagavān, whom those bound for hell, attached to false arguments, do not honour.” (Śrīmad-Bhāgavatam, 3.9.4)
 
 কাঁহা ‘পূর্ণানন্দৈশ্বর্য্য’ কৃষ্ণ ‘মহেশ্বর’ !  
 কাঁহা ‘ক্ষুদ্র’ জীব ‘দুঃখী’, ‘মায়ার কিঙ্কর’ ! ॥ ১২৬ ॥
 
 kāṅhā ‘pūrṇānandaiśvarya’ kṛṣṇa ‘maheśvara’!  
-kāṅhā ‘kṣudra’ jīva ‘duḥkhī’, ‘māyāra kiṅkara’!
+where  ‘full of bliss and opulence’  Kṛṣṇa  ‘the Great Lord’  
+kāṅhā ‘kṣudra’ jīva ‘duḥkhī’, ‘māyāra kiṅkara’!  
+where  ‘tiny’  jīva  ‘miserable’  ‘servant of māyā’
 
-(126) [not yet translated]
+(126) Where is Kṛṣṇa, full of bliss and opulence, the Great Lord (*Maheśvara*)? And where is the tiny, miserable *jīva*, a servant of *māyā*?
 
 হ্লাদিন্যা সম্বিদাশ্লিষ্টঃ সচ্চিদানন্দ ঈশ্বরঃ ৷  
 স্বাবিদ্যা সংবৃতো জীবঃ সংক্লেশনিকরাকরঃ ॥ ১২৭ ॥
 
 hlādinyā samvidāśliṣṭaḥ  
+by hlādinī  embraced by saṁvit  
 sac-cid-ānanda īśvaraḥ  
+eternal being, consciousness and bliss  the Lord  
 svāvidyā saṁvṛto jīvaḥ  
-saṁkleśa-nikarākaraḥ
+by its own ignorance  covered  the jīva  
+saṁkleśa-nikarākaraḥ  
+a mine of a multitude of miseries
 
-(127) [not yet translated]
+(127) “The Lord, embraced by the hlādinī and saṁvit potencies, is eternal being, consciousness and bliss; the jīva, covered by its own ignorance, is a mine of countless miseries.” (words of Viṣṇusvāmī quoted by Śrīdhara Svāmī in his commentary on Śrīmad-Bhāgavatam, 1.7.5–6)
 
 শুনি’ সভাসদের হৈল মহাচমৎকার ৷  
 সত্য কহে গোসাঞি, দুঁহারে কৈরাছে তিরস্কার ॥ ১২৮ ॥
 
 śuni’ sabhāsadera haila mahācamatkāra  
-satya kahe gosāñi, duṅhāre kairāche tiraskāra
+hearing  of the assembly  there was  great astonishment  
+satya kahe gosāñi, duṅhāre kairāche tiraskāra  
+truly  speaks  Gosāñi  both  he has insulted
 
-(128) [not yet translated]
+(128) Hearing this, the whole assembly was struck with wonder: “The Gosāñi speaks the truth! The poet has insulted both.”
 
 শুনিয়া কবির হৈল লজ্জা, ভয়, বিস্ময় ৷  
 হংস-মধ্যে বক যেন কিছু নাহি কয় ॥ ১২৯ ॥
 
 śuniyā kavira haila lajjā, bhaya, vismaya  
-haṁsa-madhye baka yena kichu nāhi kaya
+hearing  of the poet  arose  shame  fear  amazement  
+haṁsa-madhye baka yena kichu nāhi kaya  
+swans  among  a heron  like  anything  not  says
 
-(129) [not yet translated]
+(129) On hearing this, the poet was filled with shame, fear and amazement. Like a heron among swans, he could say nothing.
 
 তার দুঃখ দেখি’ স্বরূপ পরম-সদয় ৷  
 উপদেশ কৈলা তারে যৈছে ‘হিত’ হয় ॥ ১৩০ ॥
 
 tāra duḥkha dekhi’ svarūpa parama-sadaya  
-upadeśa kailā tāre yaiche ‘hita’ haya
+his  distress  seeing  Svarūpa  most merciful  
+upadeśa kailā tāre yaiche ‘hita’ haya  
+instruction  gave  to him  so that  ‘good’  may come
 
-(130) [not yet translated]
+(130) Seeing his distress, the most merciful Svarūpa instructed him in a way that would bring him true good:
 
 যাহ’, ভাগবত পড় বৈষ্ণবের স্থানে ৷  
 একান্ত আশ্রয় কর চৈতন্য-চরণে ॥ ১৩১ ॥
 
 yāha’, bhāgavata paḍa vaiṣṇavera sthāne  
-ekānta āśraya kara caitanya-caraṇe
+go  the Bhāgavata  study  from a Vaiṣṇava  
+ekānta āśraya kara caitanya-caraṇe  
+exclusive  shelter  take  at Caitanya’s feet
 
-(131) [not yet translated]
+(131) “Go and study the *Bhāgavata* from a Vaiṣṇava, and take exclusive shelter at the feet of Caitanya.
 
 চৈতন্যের ভক্তগণের নিত্য কর ‘সঙ্গ’ ৷  
 তবে ত’ জানিবা সিদ্ধান্তসমুদ্র-তরঙ্গ ॥ ১৩২ ॥
 
 caitanyera bhakta-gaṇera nitya kara ‘saṅga’  
-tabe ta’ jānibā siddhānta-samudra-taraṅga
+of Caitanya’s  devotees  always  keep  ‘the company’  
+tabe ta’ jānibā siddhānta-samudra-taraṅga  
+then  indeed  you will know  of the ocean of siddhānta  the waves
 
-(132) [not yet translated]
+(132) Always keep the company of Caitanya’s devotees; then you will come to know the waves of the ocean of *siddhānta*.
 
 তবে পাণ্ডিত্য তোমার হইবে সফল ৷  
 কৃষ্ণের স্বরূপ-লীলা বর্ণিবা নির্ম্মল ॥ ১৩৩ ॥
 
 tabe pāṇḍitya tomāra haibe saphala  
-kṛṣṇera svarūpa-līlā varṇibā nirmala
+then  learning  your  will become  fruitful  
+kṛṣṇera svarūpa-līlā varṇibā nirmala  
+Kṛṣṇa’s  true nature and pastimes  you will describe  purely
 
-(133) [not yet translated]
+(133) Then your learning will bear fruit, and you will describe Kṛṣṇa’s true nature and pastimes purely, without fault.
 
 এই শ্লোক কৈরাছ পাঞা সন্তোষ ৷  
 তোমার হৃদয়ের অর্থে দুঁহায় লাগে ‘দোষ’ ॥ ১৩৪ ॥
 
 ei śloka kairācha pāñā santoṣa  
-tomāra hṛdayera arthe duṅhāya lāge ‘doṣa’
+this  verse  you have composed  having felt  satisfaction  
+tomāra hṛdayera arthe duṅhāya lāge ‘doṣa’  
+your  of the heart  by the meaning  to both  attaches  ‘fault’
 
-(134) [not yet translated]
+(134) You composed this verse with great satisfaction, but by the meaning in your heart it attaches fault to both Lords.
 
 তুমি যৈছে-তৈছে কহ, না জানিয়া রীতি ৷  
 সরস্বতী সেই শব্দে কৈরাছে স্তুতি ॥ ১৩৫ ॥
 
 tumi yaiche-taiche kaha, nā jāniyā rīti  
-sarasvatī sei śabde kairāche stuti
+you  any which way  speak  not  knowing  the proper way  
+sarasvatī sei śabde kairāche stuti  
+Sarasvatī  with those  words  has made  praise
 
-(135) [not yet translated]
+(135) You speak any which way, not knowing the proper method; yet with those very words Sarasvatī has offered praise.
 
 যৈছে ইন্দ্র, দৈত্যাদি করে কৃষ্ণের ভর্ৎসন ৷  
 সেইশব্দে সরস্বতী করেন স্তবন ॥ ১৩৬ ॥
 
 yaiche indra, daityādi kare kṛṣṇera bhartsana  
-sei-śabde sarasvatī karena stavana
+as  Indra  the demons and others  do  of Kṛṣṇa  rebuke  
+sei-śabde sarasvatī karena stavana  
+with those words  Sarasvatī  does  praise
 
-(136) [not yet translated]
+(136) Just as when Indra, the demons and others rebuke Kṛṣṇa, Sarasvatī offers praise with those very words.
 
 বাচালং বালিশং স্তব্ধমজ্ঞং পণ্ডিতমানিনম্ ৷  
 কৃষ্ণং মর্ত্ত্যমুপাশ্রিত্য গোপা মে চক্রুরপ্রিয়ম্ ॥ ১৩৭ ॥
 
 vācālaṁ  bāliśaṁ  stabdham  
+talkative  childish  stubborn  
 ajñaṁ paṇḍita-māninam  
+ignorant  thinking Himself learned  
 kṛṣṇaṁ martyam upāśritya  
-gopā  me  cakrur  apriyam
+Kṛṣṇa  a mortal  having taken shelter of  
+gopā  me  cakrur  apriyam  
+the cowherds  to me  have done  an offense
 
-(137) [not yet translated]
+(137) “Taking shelter of Kṛṣṇa — a talkative, childish, stubborn, ignorant mortal who thinks Himself learned — these cowherds have offended me.” (Śrīmad-Bhāgavatam, 10.25.5)
 
 ঐশ্বর্য্য মদে মত্ত ইন্দ্র, — যেন মাতোয়াল ৷  
 বুদ্ধিনাশ হৈল, কেবল নাহিক সাম্ভাল ॥ ১৩৮ ॥
 
 aiśvarya made matta indra, — yena mātoyāla  
-buddhi-nāśa haila, kevala nāhika sāmbhāla
+by the intoxication of opulence  maddened  Indra  —  like  a drunkard  
+buddhi-nāśa haila, kevala nāhika sāmbhāla  
+loss of intelligence  occurred  at all  there is no  self-control
 
-(138) [not yet translated]
+(138) Indra, maddened by the intoxication of his opulence, was like a drunkard: his intelligence was lost, and he had no self-control at all.
 
 ইন্দ্র বলে, — মুঞি কৃষ্ণের কৈরাছি নিন্দন ৷  
 তারই মুখে সরস্বতী করেন স্তবন ॥ ১৩৯ ॥
 
 indra bale, — muñi kṛṣṇera kairāchi nindana  
-tārai mukhe sarasvatī karena stavana
+Indra  says  —  I  of Kṛṣṇa  have made  reviling  
+tārai mukhe sarasvatī karena stavana  
+from his very  mouth  Sarasvatī  does  praise
 
-(139) [not yet translated]
+(139) Indra says, “I have reviled Kṛṣṇa,” yet from his very mouth Sarasvatī offers praise.
 
 ‘বাচাল’ কহিয়ে — ‘বেদপ্রবর্ত্তক’ ধন্য ৷  
 ‘বালিশ’ — তথাপি ‘শিশু-প্রায়’ গর্ব্বশূন্য ॥ ১৪০ ॥
 
 ‘vācāla’ kahiye — ‘veda-pravartaka’ dhanya  
-‘bāliśa’ — tathāpi ‘śiśu-prāya’ garva-śūnya
+‘talkative’  we call  —  ‘the promulgator of the Vedas’  glorious  
+‘bāliśa’ — tathāpi ‘śiśu-prāya’ garva-śūnya  
+‘childish’  —  yet  ‘like a child’  free of pride
 
-(140) [not yet translated]
+(140) ‘*Vācāla*’ (talkative) means the glorious promulgator of the Vedas; ‘*bāliśa*’ (childish) — though great, He is like a child, free of pride.
 
 বন্দ্যাভাবে ‘অনম্র’ — ‘স্তব্ধ’-শব্দে কয় ৷  
 যাহা হৈতে অন্য ‘বিজ্ঞ’ নাহি — সে ‘অজ্ঞ’ হয় ॥ ১৪১ ॥
 
 vandyābhāve ‘anamra’ — ‘stabdha’-śabde kaya  
-yāhā haite anya ‘vijña’ nāhi — se ‘ajña’ haya
+for want of one to honor  ‘not bowing’  —  by the word ‘stabdha’  is said  
+yāhā haite anya ‘vijña’ nāhi — se ‘ajña’ haya  
+than whom  another  ‘knower’  there is not  —  He  ‘ajña’  is
 
-(141) [not yet translated]
+(141) Because there is no one for Him to honor, He bows to none: this is what the word ‘*stabdha*’ (stubborn) says. And He beyond whom there is no other knower is ‘*ajña*’ (ignorant) — there is nothing for Him to learn.
 
 পণ্ডিতের মান্য-পাত্র — হয় ‘পণ্ডিতমানী’ ৷  
 তথাপি ভক্তবাৎসল্যে ‘মনুষ্য’-অভিমানী ॥ ১৪২ ॥
 
 paṇḍitera mānya-pātra — haya ‘paṇḍita-mānī’  
-tathāpi bhakta-vātsalye ‘manuṣya’-abhimānī
+of the learned  the object of honor  —  is  ‘paṇḍita-mānī’  
+tathāpi bhakta-vātsalye ‘manuṣya’-abhimānī  
+still  out of affection for devotees  ‘human’  considers Himself
 
-(142) [not yet translated]
+(142) The one honored by the learned is ‘*paṇḍita-mānī*’; yet out of affection for His devotees He regards Himself as a human being, a ‘mortal’.
 
 জরাসন্ধ কহে, — কৃষ্ণ — ‘পুরুষ-অধম’ ৷  
 তোর সঙ্গে না যুঝিমু, ‘যাহি বন্ধুহন্’ ॥ ১৪৩ ॥
 
 jarāsandha kahe, — kṛṣṇa — ‘puruṣa-adhama’  
-tora saṅge nā yujhimu, ‘yāhi bandhu-han’
+Jarāsandha  says  —  Kṛṣṇa  —  ‘the lowest of men’  
+tora saṅge nā yujhimu, ‘yāhi bandhu-han’  
+with You  not  I shall fight  ‘go away, slayer of kinsmen’
 
-(143) [not yet translated]
+(143) Jarāsandha said, “Kṛṣṇa is the lowest of men! I will not fight with You — go away, slayer of Your kinsmen!”
 
 যাহা হৈতে অন্য পুরুষসকল — ‘অধম’ ৷  
 সেই হয় ‘পুরুষাধম’ — সরস্বতীর মন ॥ ১৪৪ ॥
 
 yāhā haite anya puruṣa-sakala — ‘adhama’  
-sei haya ‘puruṣādhama’ — sarasvatīra mana
+than whom  other  persons all  —  ‘lower’  
+sei haya ‘puruṣādhama’ — sarasvatīra mana  
+He  is  ‘puruṣādhama’  —  Sarasvatī’s  meaning
 
-(144) [not yet translated]
+(144) He in comparison with whom all other persons are lower is ‘*puruṣādhama*’ — that is Sarasvatī’s meaning.
 
 ‘বান্ধে সবারে’ — তাতে অবিদ্যা ‘বন্ধু’ হয় ৷  
 ‘অবিদ্যা-নাশক’ — ‘বন্ধুহন্’-শব্দে কয় ॥ ১৪৫ ॥
 
 ‘bāndhe sabāre’ — tāte avidyā ‘bandhu’ haya  
-‘avidyā-nāśaka’ — ‘bandhu-han’-śabde kaya
+‘binds  all’  —  therefore  ignorance  ‘bandhu’  is  
+‘avidyā-nāśaka’ — ‘bandhu-han’-śabde kaya  
+‘destroyer of ignorance’  —  by the word ‘bandhu-han’  is said
 
-(145) [not yet translated]
+(145) Because it binds everyone, ignorance (*avidyā*) is the ‘*bandhu*’; so the word ‘*bandhu-han*’ means the destroyer of ignorance.
 
 এইমত শিশুপাল করিল নিন্দন ৷  
 সেইবাক্যে সরস্বতী করেন স্তবন ॥ ১৪৬ ॥
 
 ei-mata śiśupāla karila nindana  
-sei-vākye sarasvatī karena stavana
+in this way  Śiśupāla  did  reviling  
+sei-vākye sarasvatī karena stavana  
+with those words  Sarasvatī  does  praise
 
-(146) [not yet translated]
+(146) In the same way Śiśupāla reviled Kṛṣṇa, and with those very words Sarasvatī offered praise.
 
 তৈছে এই শ্লোকে তোমার অর্থে ‘নিন্দা’ আইসে ৷  
 সরস্বতীর অর্থ শুন, যাতে ‘স্তুতি’ ভাসে ॥ ১৪৭ ॥
 
 taiche ei śloke tomāra arthe ‘nindā’ āise  
-sarasvatīra  artha  śuna,  yāte  ‘stuti’  bhāse
+so  in this  verse  by your  meaning  ‘blame’  comes  
+sarasvatīra  artha  śuna,  yāte  ‘stuti’  bhāse  
+Sarasvatī’s  meaning  hear  in which  ‘praise’  shines
 
-(147) [not yet translated]
+(147) So too in this verse: by your meaning, blame comes forth. Now hear Sarasvatī’s meaning, in which praise shines.
 
 জগন্নাথ হয় কৃষ্ণের ‘আত্মস্বরূপ’ ৷  
 কিন্তু ইঁহা দারুব্রহ্ম — ‘স্থাবর-স্বরূপ’ ॥ ১৪৮ ॥
 
 jagannātha haya kṛṣṇera ‘ātma-svarūpa’  
-kintu iṅhā dāru-brahma — ‘sthāvara-svarūpa’
+Jagannātha  is  Kṛṣṇa’s  ‘very self’  
+kintu iṅhā dāru-brahma — ‘sthāvara-svarūpa’  
+but  here  the Dāru-brahma  —  ‘an immobile form’
 
-(148) [not yet translated]
+(148) Jagannātha is Kṛṣṇa’s very self (*ātma-svarūpa*), but here He is the Dāru-brahma, in an immobile form.
 
 তাঁহা-সহ আত্মতা একরূপ হঞা ৷  
 কৃষ্ণ একতত্ত্বরূপ — দুইরূপ হঞা ॥ ১৪৯ ॥
 
 tāṅhā-saha  ātmatā  eka-rūpa  hañā  
-kṛṣṇa eka-tattva-rūpa — dui-rūpa hañā
+with Him  selfhood  one form  being  
+kṛṣṇa eka-tattva-rūpa — dui-rūpa hañā  
+Kṛṣṇa  the one truth  —  two forms  having become
 
-(149) [not yet translated]
+(149) Being one in selfhood with Him, Kṛṣṇa, the one truth, has become two forms.
 
 সংসারতারণ-হেতু যেই ইচ্ছা-শক্তি ৷  
 তাহার মিলন করি’ একতা ঐছে প্রাপ্তি ॥ ১৫০ ॥
 
 saṁsāra-tāraṇa-hetu yei icchā-śakti  
-tāhāra milana kari’ ekatā aiche prāpti
+for deliverance from saṁsāra  that  will-potency  
+tāhāra milana kari’ ekatā aiche prāpti  
+of that  union  making  oneness  thus  is attained
 
-(150) [not yet translated]
+(150) Uniting in that will (*icchā-śakti*) whose aim is to deliver souls from *saṁsāra*, They attain such oneness.
 
 সকল সংসারী-লোকের করিতে উদ্ধার ৷  
 গৌর-জঙ্গম-রূপে কৈলা অবতার ॥ ১৫১ ॥
 
 sakala saṁsārī-lokera karite uddhāra  
-gaura-jaṅgama-rūpe kailā avatāra
+all  worldly  people  to deliver  
+gaura-jaṅgama-rūpe kailā avatāra  
+of Gaura  in the moving  form  made  descent
 
-(151) [not yet translated]
+(151) To deliver all the people of the world, He descended in the moving form of Gaura.
 
 জগন্নাথের দর্শনে খণ্ডায় সংসার ৷  
 সব-দেশের সব-লোক নারে আসিবার ॥ ১৫২ ॥
 
 jagannāthera darśane khaṇḍāya saṁsāra  
-saba-deśera saba-loka nāre āsibāra
+by the sight of Jagannātha  is cut  saṁsāra  
+saba-deśera saba-loka nāre āsibāra  
+of all  lands  all  people  cannot  come
 
-(152) [not yet translated]
+(152) By seeing Jagannātha one is freed from *saṁsāra*, but not all the people of every land can come to Him.
 
 শ্রীকৃষ্ণচৈতন্যপ্রভু দেশে দেশে যাঞা ৷  
 সব-লোকে নিস্তারিলা জঙ্গম-ব্রহ্ম হঞা ॥ ১৫৩ ॥
 
 śrī-kṛṣṇa-caitanya-prabhu deśe deśe yāñā  
-saba-loke nistārilā jaṅgama-brahma hañā
+Śrī Kṛṣṇa Caitanya Prabhu  land to land  going  
+saba-loke nistārilā jaṅgama-brahma hañā  
+all people  delivered  the moving Brahman  becoming
 
-(153) [not yet translated]
+(153) So Śrī Kṛṣṇa Caitanya Prabhu, going from land to land as the moving Brahman (*jaṅgama-brahma*), delivered everyone.
 
 সরস্বতীর অর্থ এই কহিলুঁ বিবরণ ৷  
 এহো ভাগ্য তোমার — ঐছে করিলা বর্ণন ॥ ১৫৪ ॥
 
 sarasvatīra artha ei kahiluṅ vivaraṇa  
-eho bhāgya tomāra — aiche karilā varṇana
+Sarasvatī’s  meaning  this  I have told  the explanation  
+eho bhāgya tomāra — aiche karilā varṇana  
+this too  fortune  yours  —  thus  you made  the description
 
-(154) [not yet translated]
+(154) This is the explanation I have given of Sarasvatī’s meaning. It is your good fortune, too, that you described Them in this way.
 
 কৃষ্ণে গালি দিতে করে নাম উচ্চারণ ৷  
 সেই নাম হয় তার ‘মুক্তি’র কারণ ॥ ১৫৫ ॥
 
 kṛṣṇe gāli dite kare nāma uccāraṇa  
-sei nāma haya tāra ‘mukti’ra kāraṇa
+Kṛṣṇa  to abuse  makes  the name  utterance  
+sei nāma haya tāra ‘mukti’ra kāraṇa  
+that  name  becomes  his  of ‘liberation’  the cause
 
-(155) [not yet translated]
+(155) One may utter Kṛṣṇa’s name only to abuse Him, yet that very name becomes the cause of his liberation.”
 
 তবে সেই কবি সবার চরণে পড়িয়া ৷  
 সবা শরণ লৈল দন্তে তৃণ লঞা ॥ ১৫৬ ॥
 
 tabe sei kavi sabāra caraṇe paḍiyā  
-sabā śaraṇa laila dante tṛṇa lañā
+then  that  poet  at the feet of all  falling  
+sabā śaraṇa laila dante tṛṇa lañā  
+of all  shelter  took  in the teeth  straw  holding
 
-(156) [not yet translated]
+(156) Then the poet fell at everyone’s feet and, holding straw between his teeth, took shelter of them all.
 
 তবে সব ভক্ত তারে অঙ্গীকার কৈলা ৷  
 তার গুণ কহি’ মহাপ্রভুরে মিলাইলা ॥ ১৫৭ ॥
 
 tabe saba bhakta tāre aṅgīkāra kailā  
-tāra guṇa kahi’ mahāprabhure milāilā
+then  all  devotees  him  accepted  
+tāra guṇa kahi’ mahāprabhure milāilā  
+his  qualities  telling  with Mahāprabhu  introduced
 
-(157) [not yet translated]
+(157) Then all the devotees accepted him, and, speaking of his good qualities, introduced him to Mahāprabhu.
 
 সেই কবি সর্ব্ব ত্যজি’ রহিলা নীলাচলে ৷  
 গৌরভক্তগণের কৃপা কে কহিতে পারে ? ॥ ১৫৮ ॥
 
 sei kavi sarva tyaji’ rahilā nīlācale  
-gaura-bhakta-gaṇera kṛpā ke kahite pāre?
+that  poet  everything  giving up  stayed  in Nīlācala  
+gaura-bhakta-gaṇera kṛpā ke kahite pāre?  
+of Gaura’s devotees  the mercy  who  to describe  can
 
-(158) [not yet translated]
+(158) The poet gave up everything and remained in Nīlācala. Who can describe the mercy of Gaura’s devotees?
 
 এই ত’ কহিলুঁ প্রদ্যুম্নমিশ্র-বিবরণ ৷  
 প্রভুর আজ্ঞায় কৈল কৃষ্ণকথার শ্রবণ ॥ ১৫৯ ॥
 
 ei ta’ kahiluṅ pradyumna-miśra-vivaraṇa  
-prabhura ājñāya kaila kṛṣṇa-kathāra śravaṇa
+thus  indeed  I have told  of Pradyumna Miśra  the account  
+prabhura ājñāya kaila kṛṣṇa-kathāra śravaṇa  
+by the Lord’s order  he did  of Kṛṣṇa-kathā  the hearing
 
-(159) [not yet translated]
+(159) Thus I have told the account of Pradyumna Miśra, who by the Lord’s order heard talks about Kṛṣṇa.
 
 তার মধ্যে কহিলুঁ রামানন্দের মহিমা ৷  
 আপনে শ্রীমুখে প্রভু বর্ণে যাঁর সীমা ॥ ১৬০ ॥
 
 tāra madhye kahiluṅ rāmānandera mahimā  
-āpane śrī-mukhe prabhu varṇe yāṅra sīmā
+within that  I have told  Rāmānanda’s  glory  
+āpane śrī-mukhe prabhu varṇe yāṅra sīmā  
+Himself  with His holy mouth  the Lord  describes  whose  limit
 
-(160) [not yet translated]
+(160) Within it I have told the glory of Rāmānanda, the full extent of which the Lord Himself described with His own holy mouth.
 
 প্রস্তাবে কহিলুঁ কবির নাটক-বিবরণ ৷  
 অজ্ঞ হঞা শ্রদ্ধায় পাইল প্রভুর চরণ ॥ ১৬১ ॥
 
 prastāve kahiluṅ kavira nāṭaka-vivaraṇa  
-ajña hañā śraddhāya pāila prabhura caraṇa
+in passing  I have told  the poet’s  drama  account  
+ajña hañā śraddhāya pāila prabhura caraṇa  
+ignorant  being  by faith  obtained  the Lord’s  feet
 
-(161) [not yet translated]
+(161) In passing I have also told the account of the poet’s drama: though ignorant, by faith he attained the Lord’s feet.
 
 শ্রীকৃষ্ণচৈতন্য-লীলা — অমৃতের সার ৷  
 একলীলা-প্রবাহে বহে শত-শত ধার ॥ ১৬২ ॥
 
 śrī-kṛṣṇa-caitanya-līlā — amṛtera sāra  
-ekalīlā-pravāhe vahe śata-śata dhāra
+Śrī Kṛṣṇa Caitanya’s pastimes  —  of nectar  the essence  
+ekalīlā-pravāhe vahe śata-śata dhāra  
+of a single pastime  in the stream  flow  hundreds upon hundreds  of currents
 
-(162) [not yet translated]
+(162) The pastimes of Śrī Kṛṣṇa Caitanya are the essence of nectar: from the stream of a single pastime flow hundreds upon hundreds of currents.
 
 শ্রদ্ধা করি’ এই লীলা যেই পড়ে, শুনে ৷  
 গৌরলীলা, ভক্তি, ভক্ত, রস-তত্ত্ব জানে ॥ ১৬৩ ॥
 
 śraddhā kari’ ei līlā yei paḍe, śune  
-gaura-līlā, bhakti, bhakta, rasa-tattva jāne
+faith  having  this  pastime  whoever  reads  hears  
+gaura-līlā, bhakti, bhakta, rasa-tattva jāne  
+Gaura’s pastimes  bhakti  the devotees  the truth of rasa  knows
 
-(163) [not yet translated]
+(163) Whoever reads or hears this pastime with faith comes to know the pastimes of Gaura, *bhakti*, the devotees and the truth of *rasa*.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৬৪ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(164) [not yet translated]
+(164) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
