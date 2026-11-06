@@ -17,6 +17,6 @@
 - আব্রহ্মস্তম্ব → от Брахмы до былинки (абрахма-стамба) / from Brahmā down to a blade of grass (*ābrahma-stamba*); তির্য্যক্ → прочие твари (тирьяк) / other creatures (*tiryak*).
 - ভোক্তা / ভোগ্যা (о Майе) → «наслаждающийся» (бхокта) / «предмет наслаждения» (бхогья) / “enjoyer” (*bhoktā*) / “object of enjoyment” (*bhogyā*); নিত্যকৃষ্ণভোগ্য → вечно служащий наслаждению Кришны / eternally existing for Kṛṣṇa's enjoyment.
 - কোটিকল্প → коти-кальпа (срок в коти — десять миллионов — кальп) / *koṭi-kalpa*.
-- মদনজয়ী শম্ভু → Шамбху, победитель Мадана / Śambhu, the conqueror of Madana; পারক (о кришна-наме) → по ВЧД.
+- মদনজয়ী শম্ভু → Шамбху, победитель Мадана / Śambhu, the conqueror of Madana.
 - নামাচার্য্য → ачарья святого имени / the *ācārya* of the holy Name.
 - Имена и места: Чандапур (Кришнапур) близ Тривени, округ Хугли / Cā̃dapura (Kṛṣṇapura), near Triveṇī, Hugalī district; Ядунандана Ачарья / Yadunandana Ācārya; Гопала Чакраварти / Gopāla Cakravartī; Вишрава / Viśravā.
