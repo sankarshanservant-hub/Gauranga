@@ -184,7 +184,7 @@ the Ācārya,  with Śivānanda  met  all  coming
 sabāre pālana kare, deya vāsā sthāna  
 all  care  takes,  gives  lodging  place
 
-(16) Śivānanda settled everyone’s dues at the toll stations, looked after them all and found them places to stay.
+(16) Śivānanda settled everyone’s dues at the tollgates, looked after them all and found them places to stay.
 
 এক কুক্কুর চলে শিবানন্দ-সনে ৷  
 ভক্ষ্য দিয়া লঞা চলে করিয়া পালনে ॥ ১৭ ॥
@@ -194,7 +194,7 @@ one  dog  goes  with Śivānanda
 bhakṣya diyā lañā cale kariyā pālane  
 food  giving,  taking (it) along  he goes  showing  care
 
-(17) A dog was travelling with Śivānanda. He fed it and looked after it as he took it along.
+(17) A dog was travelling with Śivānanda. He fed it and took it along with loving care.
 
 একদিন একস্থানে নদী পার হৈতে ৷  
 ওড়িয়া নাবিক কুক্কুর না চড়ায় নৌকাতে ॥ ১৮ ॥
@@ -234,7 +234,7 @@ at night  coming  Śivānanda  of the meal  at the time
 kukkura pāñāche bhāta? — sevake puchile  
 the dog  has received  rice?  the servant  he asked
 
-(21) Returning at night, at mealtime Śivānanda asked his servant, “Has the dog been given its rice?”
+(21) When he returned at night, Śivānanda asked his servant at mealtime, “Has the dog been given its rice?”
 
 কুক্কুর নাহি পায় ভাত শুনি’ দুঃখী হৈলা ৷  
 কুক্কুর চাহিতে দশ-মনুষ্য পাঠাইলা ॥ ২২ ॥
@@ -314,7 +314,7 @@ prasāda  coconut  pulp  He gives  tossing
 ‘rāma’ ‘kṛṣṇa’ ‘hari’ kaha’ — balena hāsiyā  
 “Rāma”  “Kṛṣṇa”  “Hari”  say  He says  smiling
 
-(29) The Lord was tossing it coconut pulp, His prasāda, and smiling He said, “Say ‘Rāma,’ ‘Kṛṣṇa,’ ‘Hari’!”
+(29) The Lord was tossing it coconut pulp, His prasāda, and with a smile He said, “Say ‘Rāma,’ ‘Kṛṣṇa,’ ‘Hari’!”
 
 শস্য খায় কুক্কুর, ‘কৃষ্ণ’ কহে বার বার ৷  
 দেখিয়া লোকের মনে হৈল চমৎকার ॥ ৩০ ॥
@@ -574,7 +574,7 @@ of all  the feet  Rūpa  made  worship
 kṛpā kari’ rūpe sabe kailā āliṅgana  
 mercy  showing  Rūpa  all  made  embrace
 
-(55) Rūpa bowed at the feet of all of them, and they all kindly embraced him.
+(55) Rūpa bowed at the feet of all of them, and they all affectionately embraced him.
 
 ‘অদ্বৈত নিত্যানন্দ, তোমরা দুইজনে ৷  
 প্রভু কহে — রূপে কৃপা কর কায়মনে ॥ ৫৬ ॥
@@ -1304,7 +1304,7 @@ Svarūpa  says  of Kṛṣṇa’s pastimes  a play  to compose
 vraja-līlā-pura-līlā ekatra varṇite  
 Vraja  pastimes  city  pastimes  together  to describe
 
-(124) Svarūpa said, “To compose a play on Kṛṣṇa’s pastimes, describing together His pastimes in Vraja and in the cities,
+(124) Svarūpa said, “He wished to compose a play on Kṛṣṇa’s pastimes, describing His pastimes in Vraja and in the cities together,
 
 আরম্ভিয়াছিলা, এবে প্রভু-আজ্ঞা পাঞা ৷  
 দুই নাটক কৈরাছেন বিভাগ করিয়া ॥ ১২৫ ॥
@@ -1314,7 +1314,7 @@ he had begun  now  the Lord’s  order  receiving
 dui nāṭaka kairāchena vibhāga kariyā  
 two  plays  he has made  division  making
 
-(125) he had begun it; now, having received the Lord’s order, he has divided it into two plays:
+(125) and he had begun it; but now, by the Lord’s order, he has divided it into two plays:
 
 বিদগ্ধমাধব আর ললিতমাধব ৷  
 দুই নাটকে প্রেমরস অদ্ভুত সব” ॥ ১২৬ ॥
@@ -1441,7 +1441,7 @@ with hidden intent  lovely  together with  Rādhā  she
 raṅgāya saṅgamayitā niśi paurṇamāsī  
 for the play  will unite  at night  Paurṇamāsī
 
-(136) “This is that springtime in which Paurṇamāsī, cherishing a hidden purpose, will bring together at night the complete Lord, filled with fresh love, and lovely Rādhā, for the joy of Their play.” (Vidagdha-mādhava, 1.10)[^32]
+(136) “This is that springtime in which Paurṇamāsī, cherishing a hidden purpose, will bring together at night lovely Rādhā and the Lord in all His fullness, in whom fresh love has awakened, for the joy of Their play.” (Vidagdha-mādhava, 1.10)[^32]
 
 রায় কহে, — “প্ররোচনাদি কহ দেখি’ শুনি ?”  
 রূপ কহে, — “মহাপ্রভুর শ্রবণেচ্ছা জানি” ॥ ১৩৭ ॥
@@ -1565,7 +1565,7 @@ not  I know  producing  unprecedented  of dancing  play  the wonder
 bālāyāḥ kila citta-bhūmim aviśat ko ’yaṁ navīna-grahaḥ  
 of the girl  surely  of the heart  the field  has entered  what  this  new  graha
 
-(145) “On seeing a bit of peacock feather before Her, She at once begins to tremble; at the sight of *guñjā* berries She cries aloud again and again, in tears. I do not know what new *graha*, what possessing power, has entered the field of this girl’s heart, so that She becomes a marvel of dancing never seen before.” (Vidagdha-mādhava, 2.15)[^40]
+(145) “On seeing even a scrap of peacock feather before Her, She at once begins to tremble; at the sight of *guñjā* berries She cries aloud again and again, in tears. I do not know what new *graha*, what possessing power, has entered the field of this girl’s heart and brings forth in Her a wondrous dance never seen before.” (Vidagdha-mādhava, 2.15)[^40]
 
 অকারুণ্যঃ কৃষ্ণো যদি ময়ি তবাগঃ কথমিদং  
 মুধা মা রোদীর্মে কুরু পরমিমামুত্তরকৃতিম্ ৷  
@@ -1617,7 +1617,7 @@ Rāya  says  tell  of natural  love  the signs
 rūpa-gosāñi kahe, — sāhajika prema-dharma  
 Rūpa Gosāñi  says  natural  of prema  the nature
 
-(149) Rāya said, “Tell us the characteristics of natural love.” Rūpa Gosāñi answered that the very nature of prema is natural:
+(149) Rāya said, “Tell us the characteristics of natural love.” Rūpa Gosāñi answered that prema is natural in its very essence:
 
 স্তোত্রং যত্র তটস্থতাং প্রকটয়চ্চিত্তস্য ধত্তে ব্যথাং  
 নিন্দাপি প্রমদং প্রয়চ্ছতি পরীহাসশ্রিয়ং বিভ্রতী ৷  
@@ -1877,7 +1877,7 @@ the flute  on budlike  holding  on the lips  by restless  fingers  touched
 vibhrad-bhrū-bhramaraṁ varāṅgi paramānandaṁ puraḥ svī-kuru  
 bearing  brow-bees  O beautiful one  supreme bliss  before you  accept
 
-(166) “Friend, O beautiful one, accept this supreme bliss who stands before you: His right foot rests against His lower shin, His waist is slightly bent, His neck is turned to the side and held still, the corners of His eyes glance sidelong; on His budlike lips He holds the flute, touched by His restless fingers, and His brows are like bees.” (Lalita-mādhava, 4.27)[^45]
+(166) “Friend, O beautiful one, accept Him who stands before You, the supreme bliss: His right foot rests against His lower shin, His waist is slightly bent, His neck is turned to the side and held still, the corners of His eyes glance sidelong; on His budlike lips He holds the flute, touched by His restless fingers, and His brows are like bees.” (Lalita-mādhava, 4.27)[^45]
 
 কুলবরতনুধর্ম্মগ্রাববৃন্দানি ভিন্দন্  
 সুমুখি নিশিতদীর্ঘাপাঙ্গটঙ্কচ্ছটাভিঃ ৷  
@@ -1893,7 +1893,7 @@ at the same time  this  unprecedented  what  before us  Viśvakarmā
 marakata-maṇi-lakṣair goṣṭha-kakṣāṁ cinoti  
 of emerald  gems  with hundreds of thousands  in the cowherd village chambers  builds
 
-(167) “O fair-faced one, what unprecedented Viśvakarmā is this before us? With flashes of the sharp chisel of His long sidelong glances He splits the heaps of stones of noble women’s dharma, and at the same time, with countless emeralds, builds chambers in the cowherd village.” (Lalita-mādhava, 1.52)[^46]
+(167) “O fair-faced one, what unprecedented Viśvakarmā is this before us? With the flashing chisel of His long, sharp sidelong glances He splits the piled-up stones of noble women’s dharma, and at the same time, with countless emeralds, builds chambers in the cowherd village.” (Lalita-mādhava, 1.52)[^46]
 
 মহেন্দ্রমণিমণ্ডলীমদবিড়ম্বিদেহদ্যুতি-  
 র্ব্রজেন্দ্রকুলচন্দ্রমাঃ স্ফুরতি কোঽপি নব্যো যুবা ৷  
@@ -1925,7 +1925,7 @@ into a state  painful  gold  even  brings  of the body  the lustre
 vicitraṁ rādhāyāḥ kim api kila rūpaṁ vilasati  
 wondrous  Rādhā’s  some  indeed  beauty  plays
 
-(169) “The beauty of Her eyes forcibly swallows the fresh blue lotus; the radiance of Her face surpasses a forest of blooming lotuses; the lustre of Her body brings even gold to a painful state. Indescribably wondrous is the beauty of Rādhā as it plays.” (Vidagdha-mādhava, 1.32)
+(169) “The beauty of Her eyes forcibly swallows the fresh blue lotus; the radiance of Her face surpasses a forest of blooming lotuses; the lustre of Her body brings even gold to a sorry plight. Indescribable and wondrous, the beauty of Rādhā is at play here.” (Vidagdha-mādhava, 1.32)
 
 বিধুরেতি দিবা বিরূপতাং  
 শতপত্রং বত শর্ব্বরীমুখে ৷  
@@ -1953,7 +1953,7 @@ intoxicated  humming  darting  of a bee  of resemblance  the charm  bearing
 hṛdayam idam adāṅkṣīt pakṣmalākṣyāḥ kaṭākṣaḥ  
 heart  this  has stung  of the one with lovely lashes  the sidelong glance
 
-(171) “The sidelong glance of that girl with lovely lashes, whose cheeks smile with waves of the rasa of joy and whose creeper-brows dance like Kāma’s bow, bearing the charm of an intoxicated, softly humming, darting bee, has stung this heart of Mine.” (Vidagdha-mādhava, 2.5)
+(171) “Her cheeks smile with waves of the rasa of joy, and Her creeper-brows dance like Kāma’s bow. The sidelong glance of that girl with lovely lashes, charming as an intoxicated, softly humming, darting bee, has stung this heart of Mine.” (Vidagdha-mādhava, 2.5)
 
 রায় কহে, — “তোমার কবিত্ব অমৃতের ধার ৷  
 দ্বিতীয় নাটকের কহ নান্দী-ব্যবহার” ॥ ১৭২ ॥
@@ -2025,7 +2025,7 @@ that  dispelling  of darkness  the mass  to me  Śacī’s son  named  the moon
 vaśī-kṛta-jagan-manāḥ kim api śarma vinyasyatu  
 having won  of the world  the minds  some  blessing  may He bestow
 
-(177) “Rising over the earth, He pours out abundantly the nectar of love for Himself; He has accepted the position of supreme king of the twice-born; He dispels the mass of darkness and has won the minds of the whole world. May that moon named Śacī’s son bestow some blessing upon me.” (Lalita-mādhava, 1.3)
+(177) “Rising over the earth, He pours out abundantly the nectar of love for Himself; He reigns as supreme king of the twice-born; He dispels the mass of darkness and has won the minds of the whole world. May that moon, called the son of Śacī, grant me some blessing.” (Lalita-mādhava, 1.3)
 
 শুনিয়া প্রভুর যদি অন্তরে উল্লাস ৷  
 বাহিরে কহেন কিছু করি’ রোষাভাস ॥ ১৭৮ ॥
@@ -2035,7 +2035,7 @@ hearing  of the Lord  though  within  joy
 bāhire kahena kichu kari’ roṣābhāsa  
 outwardly  He says  something  showing  a semblance of anger
 
-(178) On hearing it, the Lord felt joy within, yet outwardly He said something with a show of anger:
+(178) On hearing it, the Lord felt joy within, yet outwardly, with a show of anger, He said:
 
 “কাঁহা তোমার কৃষ্ণরসবাক্য-সুধাসিন্ধু ৷  
 তার মধ্যে মিথ্যা কেনে স্তুতি-ক্ষারবিন্দু ?” ॥ ১৭৯ ॥
@@ -2045,7 +2045,7 @@ where  your  of Kṛṣṇa’s  rasa  of words  of nectar  the ocean
 tāra madhye mithyā kene stuti-kṣāra-bindu  
 of that  in the midst  false  why  of praise  of alkali  a drop
 
-(179) “Your words about the rasa of Kṛṣṇa are an ocean of nectar. Why have you put into it this drop of the alkali of false praise?”[^47]
+(179) “Your words about the rasa of Kṛṣṇa are an ocean of nectar. Why have you mixed into it a drop of alkali — this false praise?”[^47]
 
 রায় কহে, — “রূপের কাব্য অমৃতের পূর ৷  
 তার মধ্যে এক বিন্দু দিয়াছে কর্পূর” ॥ ১৮০ ॥
@@ -2241,7 +2241,7 @@ Your  power  without  of a living being  is not  this  speech
 tumi śakti diyā kahāo, — hena anumāni  
 You  power  giving  make him speak  so  I infer
 
-(196) Without Your power, such words could not come from a living being. I infer that You have given him power and are making him speak.”
+(196) Without Your power, such words could not come from an ordinary soul. I infer that You have given him power and are making him speak.”
 
 প্রভু কহে, — “প্রয়াগে আমা-সনে হইল মিলন ৷  
 ইঁহার গুণে ইঁহাতে আমার তুষ্ট হৈল মন ॥ ১৯৭ ॥
@@ -2471,7 +2471,7 @@ Kṛṣṇa’s service  of rasa  devotion  make  preaching
 āmiha dekhite tām̐hā yāimu ekabāra  
 I too  to see  there  shall go  once
 
-(219) Spread the service of Kṛṣṇa and devotion in rasa. I too shall go there once to see it.”
+(219) Spread the service of Kṛṣṇa and devotion in rasa. I too shall go there one day to see it.”
 
 এত বলি’ প্রভু তাঁরে কৈলা আলিঙ্গন ৷  
 রূপ-গোসাঞি শিরে ধরে প্রভুর চরণ ॥ ২২০ ॥

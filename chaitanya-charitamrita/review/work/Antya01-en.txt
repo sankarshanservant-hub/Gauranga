@@ -99,12 +99,12 @@ fn: *Anubhāṣya*: the Ācārya is Śrī Advaita Ācārya.
 ## 16
 w: Śivānanda  makes  for all  at the tollgates  settlement
 w: all  care  takes,  gives  lodging  place
-tr: Śivānanda settled everyone’s dues at the toll stations, looked after them all and found them places to stay.
+tr: Śivānanda settled everyone’s dues at the tollgates, looked after them all and found them places to stay.
 
 ## 17
 w: one  dog  goes  with Śivānanda
 w: food  giving,  taking (it) along  he goes  showing  care
-tr: A dog was travelling with Śivānanda. He fed it and looked after it as he took it along.
+tr: A dog was travelling with Śivānanda. He fed it and took it along with loving care.
 
 ## 18
 w: one day  in one  place  the river  across  while crossing
@@ -125,7 +125,7 @@ fn: The Gauḍīya Maṭha edition (p. 850) reads *śivānanda ghāṭite rahil�
 ## 21
 w: at night  coming  Śivānanda  of the meal  at the time
 w: the dog  has received  rice?  the servant  he asked
-tr: Returning at night, at mealtime Śivānanda asked his servant, “Has the dog been given its rice?”
+tr: When he returned at night, Śivānanda asked his servant at mealtime, “Has the dog been given its rice?”
 
 ## 22
 w: the dog  not  received  rice  hearing  sad  he became
@@ -165,7 +165,7 @@ tr: When they arrived, they all saw that very dog sitting a short distance from 
 ## 29
 w: prasāda  coconut  pulp  He gives  tossing
 w: “Rāma”  “Kṛṣṇa”  “Hari”  say  He says  smiling
-tr: The Lord was tossing it coconut pulp, His prasāda, and smiling He said, “Say ‘Rāma,’ ‘Kṛṣṇa,’ ‘Hari’!”
+tr: The Lord was tossing it coconut pulp, His prasāda, and with a smile He said, “Say ‘Rāma,’ ‘Kṛṣṇa,’ ‘Hari’!”
 
 ## 30
 w: the pulp  eats  the dog,  “Kṛṣṇa”  says  again  and again
@@ -300,7 +300,7 @@ tr: The next day Mahāprabhu came with all the devotees and kindly introduced R�
 ## 55
 w: of all  the feet  Rūpa  made  worship
 w: mercy  showing  Rūpa  all  made  embrace
-tr: Rūpa bowed at the feet of all of them, and they all kindly embraced him.
+tr: Rūpa bowed at the feet of all of them, and they all affectionately embraced him.
 
 ## 56
 w: Advaita,  Nityānanda,  You  both
@@ -671,12 +671,12 @@ tr: Rāya said, “What book are you composing, I wonder, that holds within it t
 ## 124
 w: Svarūpa  says  of Kṛṣṇa’s pastimes  a play  to compose
 w: Vraja  pastimes  city  pastimes  together  to describe
-tr: Svarūpa said, “To compose a play on Kṛṣṇa’s pastimes, describing together His pastimes in Vraja and in the cities,
+tr: Svarūpa said, “He wished to compose a play on Kṛṣṇa’s pastimes, describing His pastimes in Vraja and in the cities together,
 
 ## 125
 w: he had begun  now  the Lord’s  order  receiving
 w: two  plays  he has made  division  making
-tr: he had begun it; now, having received the Lord’s order, he has divided it into two plays:
+tr: and he had begun it; but now, by the Lord’s order, he has divided it into two plays:
 
 ## 126
 w: Vidagdha-mādhava  and  Lalita-mādhava
@@ -741,7 +741,7 @@ w: that  this  of spring  the season  has come  in which
 w: complete  that  Lord  who has gained  fresh  love
 w: with hidden intent  lovely  together with  Rādhā  she
 w: for the play  will unite  at night  Paurṇamāsī
-tr: “This is that springtime in which Paurṇamāsī, cherishing a hidden purpose, will bring together at night the complete Lord, filled with fresh love, and lovely Rādhā, for the joy of Their play.” (Vidagdha-mādhava, 1.10)
+tr: “This is that springtime in which Paurṇamāsī, cherishing a hidden purpose, will bring together at night lovely Rādhā and the Lord in all His fullness, in whom fresh love has awakened, for the joy of Their play.” (Vidagdha-mādhava, 1.10)
 fn: The verse has a second sense: on the full-moon night (*paurṇamāsī*) the night unites the moon, its lord, with the star Rādhā (Viśākhā). The principal sense refers to Bhagavatī Paurṇamāsī, who unites Śrī Kṛṣṇa with Rādhikā (*Anubhāṣya*, *Amṛta-pravāha-bhāṣya*). Before the verse the edition prints, in verse type, *tasyodāharaṇaṁ yathā* (“Its example:”) — a linking phrase that is not part of the verse.
 
 ## 137
@@ -806,7 +806,7 @@ w: before her  seeing  of a peacock feather  a piece  at once  trembling  she ta
 w: of guñjā berries  and  at the sight  again and again  she  with tears  cries aloud
 w: not  I know  producing  unprecedented  of dancing  play  the wonder
 w: of the girl  surely  of the heart  the field  has entered  what  this  new  graha
-tr: “On seeing a bit of peacock feather before Her, She at once begins to tremble; at the sight of *guñjā* berries She cries aloud again and again, in tears. I do not know what new *graha*, what possessing power, has entered the field of this girl’s heart, so that She becomes a marvel of dancing never seen before.” (Vidagdha-mādhava, 2.15)
+tr: “On seeing even a scrap of peacock feather before Her, She at once begins to tremble; at the sight of *guñjā* berries She cries aloud again and again, in tears. I do not know what new *graha*, what possessing power, has entered the field of this girl’s heart and brings forth in Her a wondrous dance never seen before.” (Vidagdha-mādhava, 2.15)
 fn: *Anubhāṣya*: the words are addressed to Paurṇamāsī. *Graha* — a power that seizes the heart (*Amṛta-pravāha-bhāṣya*).
 
 ## 146
@@ -832,7 +832,7 @@ fn: The same verse as Madhya 2.52; translation as there. *Anubhāṣya* (on Madh
 ## 149
 w: Rāya  says  tell  of natural  love  the signs
 w: Rūpa Gosāñi  says  natural  of prema  the nature
-tr: Rāya said, “Tell us the characteristics of natural love.” Rūpa Gosāñi answered that the very nature of prema is natural:
+tr: Rāya said, “Tell us the characteristics of natural love.” Rūpa Gosāñi answered that prema is natural in its very essence:
 
 ## 150
 w: praise  in which  indifference  displaying  to the heart  gives  pain
@@ -950,7 +950,7 @@ w: of the shin  at the lower part  resting  right  foot  slightly  bent  waist
 w: sideways  held still  neck  O friend  sidelong  moving  eyes’ corners
 w: the flute  on budlike  holding  on the lips  by restless  fingers  touched
 w: bearing  brow-bees  O beautiful one  supreme bliss  before you  accept
-tr: “Friend, O beautiful one, accept this supreme bliss who stands before you: His right foot rests against His lower shin, His waist is slightly bent, His neck is turned to the side and held still, the corners of His eyes glance sidelong; on His budlike lips He holds the flute, touched by His restless fingers, and His brows are like bees.” (Lalita-mādhava, 4.27)
+tr: “Friend, O beautiful one, accept Him who stands before You, the supreme bliss: His right foot rests against His lower shin, His waist is slightly bent, His neck is turned to the side and held still, the corners of His eyes glance sidelong; on His budlike lips He holds the flute, touched by His restless fingers, and His brows are like bees.” (Lalita-mādhava, 4.27)
 fn: In line 4 the edition (p. 866) reads *vibhrad-bhrū-bhramaram*, “bearing bee-like brows” (so also the *Anubhāṣya*); other editions have *riṅgad-bhrū-bhramaram*, “with brows moving like bees”. *Anubhāṣya*: some manuscripts omit verses 166–168, from the *Lalita-mādhava*, since Śrī Rūpa was then describing the *Vidagdha-mādhava*, and Rāmānanda asks about the *Lalita-mādhava* only in 172.
 
 ## 167
@@ -958,7 +958,7 @@ w: of noble  women  of dharma  stones  heaps  splitting
 w: O fair-faced one  sharp  of long sidelong glances  of the chisel  with flashes
 w: at the same time  this  unprecedented  what  before us  Viśvakarmā
 w: of emerald  gems  with hundreds of thousands  in the cowherd village chambers  builds
-tr: “O fair-faced one, what unprecedented Viśvakarmā is this before us? With flashes of the sharp chisel of His long sidelong glances He splits the heaps of stones of noble women’s dharma, and at the same time, with countless emeralds, builds chambers in the cowherd village.” (Lalita-mādhava, 1.52)
+tr: “O fair-faced one, what unprecedented Viśvakarmā is this before us? With the flashing chisel of His long, sharp sidelong glances He splits the piled-up stones of noble women’s dharma, and at the same time, with countless emeralds, builds chambers in the cowherd village.” (Lalita-mādhava, 1.52)
 fn: *Anubhāṣya*: Viśvakarmā is the architect of the gods; the emeralds are His forms full of dark beauty; Rādhā marvels at Kṛṣṇa’s skill and beauty.
 
 ## 168
@@ -973,7 +973,7 @@ w: by force  of the eyes  the beauty  swallows  fresh  blue lotus
 w: of the face  the radiance  blooming  of lotuses  forest  surpasses  and
 w: into a state  painful  gold  even  brings  of the body  the lustre
 w: wondrous  Rādhā’s  some  indeed  beauty  plays
-tr: “The beauty of Her eyes forcibly swallows the fresh blue lotus; the radiance of Her face surpasses a forest of blooming lotuses; the lustre of Her body brings even gold to a painful state. Indescribably wondrous is the beauty of Rādhā as it plays.” (Vidagdha-mādhava, 1.32)
+tr: “The beauty of Her eyes forcibly swallows the fresh blue lotus; the radiance of Her face surpasses a forest of blooming lotuses; the lustre of Her body brings even gold to a sorry plight. Indescribable and wondrous, the beauty of Rādhā is at play here.” (Vidagdha-mādhava, 1.32)
 
 ## 170
 w: the moon  attains  by day  loss of beauty  the lotus  alas  of night  at the onset
@@ -985,7 +985,7 @@ w: of joy  of rasa  with waves  smiling  whose cheeks
 w: Kāma’s  bow  resembling  of brow-creepers  dance  having
 w: intoxicated  humming  darting  of a bee  of resemblance  the charm  bearing
 w: heart  this  has stung  of the one with lovely lashes  the sidelong glance
-tr: “The sidelong glance of that girl with lovely lashes, whose cheeks smile with waves of the rasa of joy and whose creeper-brows dance like Kāma’s bow, bearing the charm of an intoxicated, softly humming, darting bee, has stung this heart of Mine.” (Vidagdha-mādhava, 2.5)
+tr: “Her cheeks smile with waves of the rasa of joy, and Her creeper-brows dance like Kāma’s bow. The sidelong glance of that girl with lovely lashes, charming as an intoxicated, softly humming, darting bee, has stung this heart of Mine.” (Vidagdha-mādhava, 2.5)
 
 ## 172
 w: Rāya  says  your  poetry  of nectar  a stream
@@ -1019,17 +1019,17 @@ w: for Himself  of love  the nectar  rising  having attained  who  on earth
 w: pours out  abundantly  having accepted  of the twice-born  the race  of the supreme king  the position
 w: that  dispelling  of darkness  the mass  to me  Śacī’s son  named  the moon
 w: having won  of the world  the minds  some  blessing  may He bestow
-tr: “Rising over the earth, He pours out abundantly the nectar of love for Himself; He has accepted the position of supreme king of the twice-born; He dispels the mass of darkness and has won the minds of the whole world. May that moon named Śacī’s son bestow some blessing upon me.” (Lalita-mādhava, 1.3)
+tr: “Rising over the earth, He pours out abundantly the nectar of love for Himself; He reigns as supreme king of the twice-born; He dispels the mass of darkness and has won the minds of the whole world. May that moon, called the son of Śacī, grant me some blessing.” (Lalita-mādhava, 1.3)
 
 ## 178
 w: hearing  of the Lord  though  within  joy
 w: outwardly  He says  something  showing  a semblance of anger
-tr: On hearing it, the Lord felt joy within, yet outwardly He said something with a show of anger:
+tr: On hearing it, the Lord felt joy within, yet outwardly, with a show of anger, He said:
 
 ## 179
 w: where  your  of Kṛṣṇa’s  rasa  of words  of nectar  the ocean
 w: of that  in the midst  false  why  of praise  of alkali  a drop
-tr: “Your words about the rasa of Kṛṣṇa are an ocean of nectar. Why have you put into it this drop of the alkali of false praise?”
+tr: “Your words about the rasa of Kṛṣṇa are an ocean of nectar. Why have you mixed into it a drop of alkali — this false praise?”
 fn: So in the Gauḍīya Maṭha edition: *kṛṣṇa-rasa-vākya*, “words about the rasa of Kṛṣṇa”; other editions read *kṛṣṇa-rasa-kāvya*, “poetry”.
 
 ## 180
@@ -1129,7 +1129,7 @@ fn: Source as in the edition heading (p. 871): *prācīna-kṛta śloka*, a vers
 ## 196
 w: Your  power  without  of a living being  is not  this  speech
 w: You  power  giving  make him speak  so  I infer
-tr: Without Your power, such words could not come from a living being. I infer that You have given him power and are making him speak.”
+tr: Without Your power, such words could not come from an ordinary soul. I infer that You have given him power and are making him speak.”
 
 ## 197
 w: the Lord  says  at Prayāga  with Me  took place  meeting
@@ -1245,7 +1245,7 @@ tr: Go to Vraja and set forth the scriptures of rasa, and there make known all t
 ## 219
 w: Kṛṣṇa’s service  of rasa  devotion  make  preaching
 w: I too  to see  there  shall go  once
-tr: Spread the service of Kṛṣṇa and devotion in rasa. I too shall go there once to see it.”
+tr: Spread the service of Kṛṣṇa and devotion in rasa. I too shall go there one day to see it.”
 
 ## 220
 w: this  saying  the Lord  him  made  an embrace
