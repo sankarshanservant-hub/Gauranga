@@ -162,6 +162,80 @@ As a secondary fruit, the Name frees one from the bondage of *saṁsāra* and de
 
 > Subheading: Liberation comes already from *nāmābhāsa* —
 
+## 186
+
+See Antya 3.63.
+
+## 187
+
+See Ādi 4.207.[^187-1]
+
+## 188
+
+> Subheading: The account of the atheist Gopāla Cakravartī, who held the glory of the Name to be exaggeration (*arthavāda*) —
+
+## 191
+
+> Subheading: In anger he speaks of the Ṭhākura with contempt —
+
+## 192
+
+> Subheading: The atheist calls the glory of the Name exaggeration —
+
+## 193
+
+> Subheading: The Ṭhākura cites scriptural evidence and shows how trivial liberation is for one wholly devoted to *prema-bhakti* —
+
+## 195
+
+See Ādi 7.98.
+
+## 196
+
+> Subheading: The *brāhmaṇa* makes a vow before the Ṭhākura —
+
+## 197
+
+> Subheading: The Ṭhākura accepts the vow —
+
+## 198
+
+> Subheading: The assembly reproaches the *brahma-bandhu* —
+
+## 199
+
+> Subheading: Regarding him as an atheist and a mere logician (*hetuvādī*), Balarāma Ācārya rebukes and curses him —
+
+## 201
+
+> Subheading: [The Ṭhākura] leaves the company of one who holds the glory of the Name to be exaggeration —
+
+## 202
+
+> Subheading: The assembly begs forgiveness at the Ṭhākura's feet —
+
+## 203
+
+> Subheading: The Ṭhākura, who sees no fault in others, forgives —
+
+## 204
+
+> Subheading: The Lord who is the holy Name is inconceivable by nature; He is Adhokṣaja, beyond mundane reasoning and argument —
+
+## 205
+
+> Subheading: He prays to Kṛṣṇa for the welfare of all —
+
+## 206
+
+> Subheading: Hiraṇya and Govardhana shun the company of the atheist *brahma-bandhu* —
+
+## 207
+
+> Subheading: The dreadful fruit — punishment — of calling the glory of the Name exaggeration and of disrespecting a Vaiṣṇava —
+
 ---
 
 [^179-1]: *Hari-bhakti-vilāsa* 2.9; also quoted in *Bhakti-sandarbha* 283.
+
+[^187-1]: The edition misprints “Ādi 4.270” (checked against the scan); the verse *sālokya-sārṣṭi…* is Ādi 4.207.

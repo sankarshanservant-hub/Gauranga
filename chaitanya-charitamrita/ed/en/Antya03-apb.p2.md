@@ -13,3 +13,11 @@ As the sun, when it rises, destroys an ocean of darkness, so the name of Hari, w
 ## 185
 
 Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee does not accept it.
+
+## 188
+
+***Ārindā*** — a foot officer who collects revenue (*tahśīl*); a *peyādā*, or runner, who carries letters and delivers the king's taxes.
+
+## 199
+
+***Ghaṭa-paṭiyā*** — a *naiyāyika* (logician) who argues fruitlessly about “the pot” (*ghaṭa*) and “the cloth” (*paṭa*).
