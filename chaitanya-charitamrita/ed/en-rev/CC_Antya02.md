@@ -864,6 +864,867 @@ from time to time  the Lord  he  makes  an invitation
 
 (86) He had taken shelter at Caitanya’s feet with single-minded devotion, and from time to time he would invite the Lord for a meal.
 
+ঘরে ভাত করি’ করেন বিবিধ ব্যঞ্জন ৷  
+একলে গোসাঞি লঞা করান ভোজন ॥ ৮৭ ॥
+
+ghare bhāta kari’ karena vividha vyañjana  
+at home  rice  having cooked  makes  various  vegetable dishes  
+ekale gosāñi lañā karāna bhojana  
+alone  the Lord  bringing  causes to eat  a meal
+
+(87) At home he would cook rice and many kinds of vegetable dishes, and he would bring the Lord alone and feed Him.[^11]
+
+তাঁর পিতা ‘বিষয়ী’ বড় শতানন্দ-খাঁন ৷  
+‘বিষয়বিমুখ’ আচার্য্য — ‘বৈরাগ্যপ্রধান’ ॥ ৮৮ ॥
+
+tām̐ra pitā ‘viṣayī’ baḍa śatānanda-khām̐na  
+his  father  a man of worldly affairs  great  Śatānanda Khān  
+‘viṣaya-vimukha’ ācārya — ‘vairāgya-pradhāna’  
+turned away from worldly things  the Ācārya  —  renunciation foremost
+
+(88) His father, Śatānanda Khān, was deeply engaged in worldly affairs, but the Ācārya had turned his back on them: renunciation was foremost in him.
+
+‘গোপাল-ভট্টাচার্য্য’ নাম, তাঁর ছোট-ভাই ৷  
+কাশীতে ‘বেদান্ত’ পড়ি’ গেলা আচার্য্য-ঠাঞি ॥ ৮৯ ॥
+
+‘gopāla-bhaṭṭācārya’ nāma, tām̐ra choṭa-bhāi  
+Gopāla Bhaṭṭācārya  named  his  younger brother  
+kāśīte ‘vedānta’ paḍi’ gelā ācārya-ṭhāñi  
+in Kāśī  Vedānta  having studied  went  to the Ācārya
+
+(89) His younger brother, named Gopāla Bhaṭṭācārya, studied Vedānta in Kāśī and then came to the Ācārya.[^12]
+
+আচার্য্য তাহারে প্রভুপদে মিলাইলা ৷  
+অন্তর্য্যামী প্রভু, চিত্তে সুখ না পাইলা ॥ ৯০ ॥
+
+ācārya tāhāre prabhu-pade milāilā  
+the Ācārya  him  at the Lord’s feet  brought to meet  
+antaryāmī prabhu, citte sukha nā pāilā  
+the knower of hearts  the Lord  in His heart  happiness  not  found
+
+(90) The Ācārya brought him to the Lord’s feet, but the Lord, who knows every heart, found no happiness within.
+
+আচার্য্য-সম্বন্ধে বাহ্যে করে প্রীত্যাভাস ৷  
+কৃষ্ণভক্তি বিনা প্রভুর না হয় উল্লাস ॥ ৯১ ॥
+
+ācārya-sambandhe bāhye kare prītyābhāsa  
+because of the relation with the Ācārya  outwardly  shows  a semblance of affection  
+kṛṣṇa-bhakti vinā prabhura nā haya ullāsa  
+devotion to Kṛṣṇa  without  the Lord’s  not  is  joy
+
+(91) Because Gopāla was related to the Ācārya, the Lord outwardly showed him a semblance of affection; but where there is no devotion to Kṛṣṇa, He feels no joy.
+
+স্বরূপ গোসাঞিরে আচার্য্য কহে আর দিনে ৷  
+বেদান্ত পড়িয়া গোপাল আইসাছে এখানে ॥ ৯২ ॥
+
+svarūpa gosāñire ācārya kahe āra dine  
+to Svarūpa Gosāñi  the Ācārya  says  on another day  
+vedānta paḍiyā gopāla āisāche ekhāne  
+Vedānta  having studied  Gopāla  has come  here
+
+(92) One day the Ācārya said to Svarūpa Gosāñi, “Gopāla has come here after studying Vedānta.
+
+সবে মেলি’ আইস, শুনি ‘ভাষ্য’ ইহার স্থানে ৷  
+প্রেম-ক্রোধ করি’ স্বরূপ বলয় বচনে ॥ ৯৩ ॥
+
+sabe meli’ āisa, śuni ‘bhāṣya’ ihāra sthāne  
+all  together  come  let us hear  the commentary  his  from  
+prema-krodha kari’ svarūpa balaya vacane  
+loving anger  showing  Svarūpa  speaks  in words
+
+(93) Let us all come together and hear the commentary from his lips.” In loving anger Svarūpa replied:
+
+বুদ্ধি ভ্রষ্ট হৈল তোমার গোপালের সঙ্গে ৷  
+মায়াবাদ শুনিবারে উপজিল রঙ্গে ॥ ৯৪ ॥
+
+buddhi bhraṣṭa haila tomāra gopālera saṅge  
+intelligence  spoiled  has become  your  of Gopāla  in the company  
+māyāvāda śunibāre upajila raṅge  
+Māyāvāda  to hear  has arisen  a fancy
+
+(94) “Your intelligence has been spoiled in Gopāla’s company, and you have taken a fancy to hearing Māyāvāda.
+
+বৈষ্ণব হঞা যেবা শারীরক-ভাষ্য শুনে ৷  
+সেব্য-সেবক-ভাব ছাড়ি’ আপনারে ‘ঈশ্বর’ মানে ॥ ৯৫ ॥
+
+vaiṣṇava hañā yebā śārīraka-bhāṣya śune  
+a Vaiṣṇava  being  whoever  the Śārīraka-bhāṣya  hears  
+sevya-sevaka-bhāva chāḍi’ āpanāre ‘īśvara’ māne  
+the relationship of the served and the servant  giving up  himself  the Lord  considers
+
+(95) A Vaiṣṇava who listens to the *Śārīraka-bhāṣya* gives up the relationship of servant and served and considers himself the Lord.
+
+মহাভাগবত যেই, কৃষ্ণ প্রাণধন যাঁর ৷  
+মায়াবাদ-শ্রবণে চিত্ত অবশ্য ফিরে তাঁর ॥ ৯৬ ॥
+
+mahā-bhāgavata yei, kṛṣṇa prāṇa-dhana yām̐ra  
+a great devotee  who is,  Kṛṣṇa  the treasure of life  whose  
+māyāvāda-śravaṇe citta avaśya phire tām̐ra  
+by hearing Māyāvāda  heart  certainly  turns  his
+
+(96) Even a *mahā-bhāgavata*, whose life’s treasure is Kṛṣṇa, will surely have his heart turned by hearing Māyāvāda.”
+
+আচার্য্য কহে, — আমা-সবার কৃষ্ণনিষ্ঠ-চিত্তে ৷  
+আমা-সবার মন ভাষ্য নারে ফিরাইতে ॥ ৯৭ ॥
+
+ācārya kahe, — āmā-sabāra kṛṣṇa-niṣṭha-citte  
+the Ācārya  says  —  of us all  fixed on Kṛṣṇa  in the hearts  
+āmā-sabāra mana bhāṣya nāre phirāite  
+of us all  minds  the commentary  cannot  turn
+
+(97) The Ācārya said, “Our hearts are fixed on Kṛṣṇa; a commentary cannot turn our minds.”
+
+স্বরূপ কহে, — তথাপি মায়াবাদ-শ্রবণে ৷  
+‘চিৎ ব্রহ্ম, মায়া মিথ্যা’ — এইমাত্র শুনে ॥ ৯৮ ॥
+
+svarūpa kahe, — tathāpi māyāvāda-śravaṇe  
+Svarūpa  says  —  even so  in hearing Māyāvāda  
+‘cit brahma, māyā mithyā’ — eimātra śune  
+consciousness  Brahman,  māyā  false  —  only this  one hears
+
+(98) Svarūpa said, “Even so, what one hears in Māyāvāda is only this: ‘Brahman is pure consciousness, and māyā is false;
+
+জীবজ্ঞান — কল্পিত, ঈশ্বরে — সকল অজ্ঞান ৷  
+যাহার শ্রবণে ভক্তের ফাটে মন-প্রাণ ॥ ৯৯ ॥
+
+jīvajñāna — kalpita, īśvare — sakala ajñāna  
+the notion of the jīva  —  imagined,  in the Lord  —  all  ignorance  
+yāhāra śravaṇe bhaktera phāṭe mana-prāṇa  
+which  on hearing  of a devotee  breaks  mind and life
+
+(99) the very notion of the jīva is imaginary, and in the Lord there is nothing but ignorance.’ When a devotee hears this, his heart and soul break.”[^13]
+
+লজ্জা-ভয় পাঞা আচার্য্য মৌন হইলা ৷  
+আর দিন গোপালেরে দেশে পাঠাইলা ॥ ১০০ ॥
+
+lajjā-bhaya pāñā ācārya mauna hailā  
+shame  fear  feeling  the Ācārya  silent  became  
+āra dina gopālere deśe pāṭhāilā  
+next  day  Gopāla  to his homeland  sent
+
+(100) Ashamed and afraid, the Ācārya fell silent, and the next day he sent Gopāla back to his native place.
+
+একদিন আচার্য্য প্রভুরে কৈলা নিমন্ত্রণ ৷  
+ঘরে ভাত করি’ করে বিবিধ ব্যঞ্জন ॥ ১০১ ॥
+
+ekadina ācārya prabhure kailā nimantraṇa  
+one day  the Ācārya  the Lord  made  an invitation  
+ghare bhāta kari’ kare vividha vyañjana  
+at home  rice  having cooked  makes  various  vegetable dishes
+
+(101) One day the Ācārya invited the Lord. At home he cooked rice and made various vegetable dishes.
+
+‘ছোট-হরিদাস’ নাম প্রভুর কীর্ত্তনীয়া ৷  
+তাহারে কহেন ডাকি’ আপনে আনিয়া ॥ ১০২ ॥
+
+‘choṭa-haridāsa’ nāma prabhura kīrtanīyā  
+Choṭa Haridāsa  named  the Lord’s  singer  
+tāhāre kahena ḍāki’ āpane āniyā  
+to him  says  calling  himself  bringing (him)
+
+(102) The Lord had a singer named Choṭa Haridāsa. The Ācārya himself called him, brought him over and said,
+
+মোর নামে শিখি-মাহিতির ভগিনী-স্থানে গিয়া ৷  
+শুক্লচাউল এক-মান আনহ মাগিয়া ॥ ১০৩ ॥
+
+mora nāme śikhi-māhitira bhaginī-sthāne giyā  
+in my  name  of Śikhi Māhiti  to the sister  going  
+śukla-cāula eka-māna ānaha māgiyā  
+white rice  one māna  bring  begging
+
+(103) “Go in my name to Śikhi Māhiti’s sister, ask her for one *māna* of white rice and bring it.”[^14]
+
+মাহিতির ভগিনীর নাম — মাধবী-দেবী ৷  
+বৃদ্ধা তপস্বিনী আর পরমা-বৈষ্ণবী ॥ ১০৪ ॥
+
+māhitira bhaginīra nāma — mādhavī-devī  
+of Māhiti  of the sister  the name  —  Mādhavī-devī  
+vṛddhā tapasvinī āra paramā-vaiṣṇavī  
+elderly  austere  and  a supreme Vaiṣṇavī
+
+(104) Māhiti’s sister was named Mādhavī-devī. She was elderly, given to austerity, and a supreme Vaiṣṇavī.
+
+প্রভু লেখা করে যাঁরে রাধিকার ‘গণ’ ৷  
+জগতের মধ্যে ‘পাত্র’ — সাড়ে তিন জন ॥ ১০৫ ॥
+
+prabhu lekhā kare yām̐re rādhikāra ‘gaṇa’  
+the Lord  counts  whom  of Rādhikā  among the associates  
+jagatera madhye ‘pātra’ — sāḍe tina jana  
+of the world  in the midst  worthy  —  and a half  three  persons
+
+(105) The Lord counted her among Rādhikā’s associates. In all the world there are only three and a half such worthy persons:
+
+স্বরূপ-গোসাঞি, আর রায়-রামানন্দ ৷  
+শিখি-মাহিতি — তিন, তাঁর ভগিনী — অর্দ্ধজন ॥ ১০৬ ॥
+
+svarūpa-gosāñi, āra rāya-rāmānanda  
+Svarūpa Gosāñi  and  Rāya Rāmānanda  
+śikhi-māhiti — tina, tām̐ra bhaginī — ardha-jana  
+Śikhi Māhiti  —  three,  his  sister  —  half a person
+
+(106) Svarūpa Gosāñi, Rāmānanda Rāya and Śikhi Māhiti are the three, and his sister is the half.
+
+তাঁর ঠাঞি তণ্ডুল মাগি’ আনিল হরিদাস ৷  
+তণ্ডুল দেখি’ আচার্য্যের অধিক উল্লাস ॥ ১০৭ ॥
+
+tām̐ra ṭhāñi taṇḍula māgi’ ānila haridāsa  
+her  from  rice  begging  brought  Haridāsa  
+taṇḍula dekhi’ ācāryera adhika ullāsa  
+the rice  seeing  the Ācārya’s  great  joy
+
+(107) Haridāsa begged the rice from her and brought it, and when the Ācārya saw the rice he was overjoyed.
+
+স্নেহে রান্ধিল প্রভুর প্রিয় যে ব্যঞ্জন ৷  
+দেউল-প্রসাদ, আদা-চাকি, লেম্বু-সলবণ ॥ ১০৮ ॥
+
+snehe rāndhila prabhura priya ye vyañjana  
+with affection  cooked  to the Lord  dear  which  vegetable dishes  
+deula-prasāda, ādā-cāki, lembu-salavaṇa  
+prasāda from the temple,  slices of ginger,  lime with salt
+
+(108) With affection he cooked the dishes the Lord loved, and set out prasāda from the temple, slices of ginger, and lime with salt.
+
+মধ্যাহ্নে আসিয়া প্রভু ভোজনে বসিলা ৷  
+শাল্যন্ন দেখি’ প্রভু আচার্য্যে পুছিলা ॥ ১০৯ ॥
+
+madhyāhne āsiyā prabhu bhojane vasilā  
+at midday  coming  the Lord  to eat  sat  
+śālyanna dekhi’ prabhu ācārye puchilā  
+the fine rice  seeing  the Lord  the Ācārya  asked
+
+(109) At midday the Lord came and sat down to eat. Seeing the fine rice, He asked the Ācārya,
+
+উত্তম অন্ন এত তণ্ডুল কাঁহাতে পাইলা ?  
+আচার্য্য কহে, — মাধবী-পাশ মাগিয়া আনিলা ॥ ১১০ ॥
+
+uttama anna eta taṇḍula kām̐hāte pāilā?  
+excellent  cooked rice  such  rice  where  did you get  
+ācārya kahe, — mādhavī-pāśa māgiyā ānilā  
+the Ācārya  says  —  from Mādhavī  begging  was brought
+
+(110) “Such excellent rice! Where did you get grain like this?” The Ācārya said, “It was begged from Mādhavī and brought here.”[^15]
+
+প্রভু কহে, — কোন্ যাই’ মাগিয়া আনিল ?  
+ছোট-হরিদাসের নাম আচার্য্য কহিল ॥ ১১১ ॥
+
+prabhu kahe, — kon yāi’ māgiyā ānila?  
+the Lord  says  —  who  going  begging  brought  
+choṭa-haridāsera nāma ācārya kahila  
+of Choṭa Haridāsa  the name  the Ācārya  said
+
+(111) The Lord said, “Who went and begged it?” The Ācārya named Choṭa Haridāsa.
+
+অন্ন প্রশংসিয়া প্রভু ভোজন করিলা ৷  
+নিজগৃহে আসি’ গোবিন্দেরে আজ্ঞা দিলা ॥ ১১২ ॥
+
+anna praśaṁsiyā prabhu bhojana karilā  
+the rice  praising  the Lord  meal  took  
+nija-gṛhe āsi’ govindere ājñā dilā  
+to His own residence  coming  to Govinda  order  gave
+
+(112) Praising the rice, the Lord took His meal. Then, returning to His residence, He gave Govinda an order:
+
+আজি হৈতে এই মোর আজ্ঞা পালিবা ৷  
+ছোট-হরিদাসে ইঁহা আসিতে না দিবা ॥ ১১৩ ॥
+
+āji haite ei mora ājñā pālibā  
+today  from  this  My  order  you will keep  
+choṭa-haridāse im̐hā āsite nā dibā  
+Choṭa Haridāsa  here  to come  not  you will let
+
+(113) “From today you must keep this order of Mine: do not let Choṭa Haridāsa come here.”
+
+দ্বার মানা, হরিদাস দুঃখী হৈল মনে ৷  
+কি লাগিয়া দ্বার মানা, কেহ নাহি জানে ॥ ১১৪ ॥
+
+dvāra mānā, haridāsa duḥkhī haila mane  
+the door  barred,  Haridāsa  sorrowful  became  at heart  
+ki lāgiyā dvāra mānā, keha nāhi jāne  
+what  for  the door  barred,  anyone  not  knows
+
+(114) The door was barred to him, and Haridāsa grew sorrowful at heart. No one knew why the door was barred.
+
+তিনদিন হরিদাস করে উপবাস ৷  
+স্বরূপাদি সবে পুছিলা প্রভুর পাশ ॥ ১১৫ ॥
+
+tinadina haridāsa kare upavāsa  
+three days  Haridāsa  does  fasting  
+svarūpādi sabe puchilā prabhura pāśa  
+Svarūpa and the others  all  asked  the Lord’s  at the side
+
+(115) Haridāsa fasted for three days. Then Svarūpa and all the others came to the Lord and asked,
+
+কোন্ অপরাধ, প্রভু, কৈল হরিদাস ?  
+কি লাগিয়া দ্বার-মানা, করে উপবাস ? ॥ ১১৬ ॥
+
+kon aparādha, prabhu, kaila haridāsa?  
+what  offence  O Lord  has committed  Haridāsa  
+ki lāgiyā dvāra-mānā, kare upavāsa?  
+what  for  the door is barred,  he does  fasting
+
+(116) “O Lord, what offence has Haridāsa committed? Why is the door barred to him? He is fasting.”
+
+প্রভু কহে, — বৈরাগী করে প্রকৃতি সম্ভাষণ ৷  
+দেখিতে না পারো আমি তাহার বদন ॥ ১১৭ ॥
+
+prabhu kahe, — vairāgī kare prakṛti sambhāṣaṇa  
+the Lord  says  —  a renunciant  does  with a woman  conversation  
+dekhite nā pāro āmi tāhāra vadana  
+to see  not  can  I  his  face
+
+(117) The Lord said, “A renunciant who converses with women — I cannot bear to see his face.[^16]
+
+দুর্ব্বার ইন্দ্রিয় করে বিষয় গ্রহণ ৷  
+দারু-প্রকৃতি হরে মুনেরপি মন ॥ ১১৮ ॥
+
+durvāra indriya kare viṣaya grahaṇa  
+uncontrollable  the senses  do  of sense objects  grasping  
+dāru-prakṛti hare munerapi mana  
+a woman of wood  steals  even of a sage  the mind
+
+(118) The senses are hard to restrain and seize their objects; even a woman made of wood steals the mind of a sage.[^17]
+
+মাত্রা স্বস্রা দুহিত্রা বা নাবিবিক্তাসনো বসেৎ ৷  
+বলবানিন্দ্রিয়গ্রামো বিদ্বাংসমপি কর্ষতি ॥ ১১৯ ॥
+
+mātrā svasrā duhitrā vā  
+with mother  sister  daughter  or  
+nā viviktāsano baset  
+not  on a secluded seat  should sit  
+balavān indriya-grāmo  
+powerful  the host of senses  
+vidvāṁsam api karṣati  
+a learned man  even  drags away
+
+(119) “One should not sit in a secluded place even with one’s mother, sister or daughter, for the powerful senses drag away even a learned man.” (Śrīmad-Bhāgavatam, 9.19.17; Manu-saṁhitā, 2.215)
+
+ক্ষুদ্রজীব সব মর্কট-বৈরাগ্য করিয়া ৷  
+ইন্দ্রিয় চরাঞা বুলে ‘প্রকৃতি’ সম্ভাষিয়া ॥ ১২০ ॥
+
+kṣudra-jīva saba markaṭa-vairāgya kariyā  
+petty  souls  all  monkey renunciation  adopting  
+indriya carāñā bule ‘prakṛti’ sambhāṣiyā  
+the senses  letting graze  wander  with women  conversing
+
+(120) Petty souls adopt a monkey’s renunciation and wander about, letting their senses graze and conversing with women.”[^18]
+
+এত কহি’ মহাপ্রভু অভ্যন্তরে গেলা ৷  
+গোসাঞির আবেশ দেখি’ সবে মৌন হৈলা ॥ ১২১ ॥
+
+eta kahi’ mahāprabhu abhyantare gelā  
+this  saying  Mahāprabhu  inside  went  
+gosāñira āveśa dekhi’ sabe mauna hailā  
+of the Lord  the agitation  seeing  all  silent  became
+
+(121) Saying this, Mahāprabhu went inside. Seeing the Lord so stirred, everyone fell silent.
+
+আর দিনে সবে মেলি’ প্রভুর চরণে ৷  
+হরিদাস লাগি’ কিছু কৈলা নিবেদনে ॥ ১২২ ॥
+
+āra dine sabe meli’ prabhura caraṇe  
+the next  day  all  together  at the Lord’s  feet  
+haridāsa lāgi’ kichu kailā nivedane  
+Haridāsa  for the sake of,  something  made  a petition
+
+(122) The next day they all came together to the Lord’s feet and made a petition on Haridāsa’s behalf:
+
+অল্প অপরাধ, প্রভু করহ প্রসাদ ৷  
+এবে শিক্ষা হইল না করিবে অপরাধ ॥ ১২৩ ॥
+
+alpa aparādha, prabhu karaha prasāda  
+small  offence  O Lord  show  grace  
+ebe śikṣā haila nā karibe aparādha  
+now  lesson  has been (learned)  not  he will commit  offence
+
+(123) “It is a small offence, O Lord; be gracious to him. He has learned his lesson now and will not offend again.”[^19]
+
+প্রভু কহে, — মোর বশ নহে মোর মন ৷  
+প্রকৃতিসম্ভাষী বৈরাগী না করে দর্শন ॥ ১২৪ ॥
+
+prabhu kahe, — mora vaśa nahe mora mana  
+the Lord  says  —  My  under control  is not  My  mind  
+prakṛti-sambhāṣī vairāgī nā kare darśana  
+one who converses with women  a renunciant  not  does  seeing
+
+(124) The Lord said, “My mind is not under My control: it will not look upon a renunciant who converses with women.
+
+নিজ-কার্য্যে যাহ সবে, ছাড় বৃথা কথা ৷  
+পুনঃ যদি কহ আমা না দেখিবে হেথা ॥ ১২৫ ॥
+
+nija-kārye yāha sabe, chāḍa vṛthā kathā  
+to your own duties  go  all,  give up  useless  talk  
+punaḥ yadi kaha āmā nā dekhibe hethā  
+again  if  you speak  Me  not  you will see  here
+
+(125) Go, all of you, to your own duties and give up this useless talk. If you speak of it again, you will not see Me here.”
+
+এত শুনি’ সবে নিজ-কর্ণে হস্ত দিয়া ৷  
+নিজ-নিজ-কার্য্যে সবে গেল ত’ উঠিয়া ॥ ১২৬ ॥
+
+eta śuni’ sabe nija-karṇe hasta diyā  
+this  hearing  all  on their own ears  hands  placing  
+nija-nija-kārye sabe gela ta’ uṭhiyā  
+to their own duties  all  went  indeed  rising
+
+(126) Hearing this, everyone covered their ears with their hands, rose and went off to their own duties.
+
+মহাপ্রভু মধ্যাহ্ন করিতে চলি’ গেলা ৷  
+বুঝন না যায় এই মহাপ্রভুর লীলা ॥ ১২৭ ॥
+
+mahāprabhu madhyāhna karite cali’ gelā  
+Mahāprabhu  the midday duties  to perform  going  went  
+bujhana nā yāya ei mahāprabhura līlā  
+to understand  not  is possible  this  Mahāprabhu’s  pastime
+
+(127) Mahāprabhu went off to perform His midday duties. No one can understand this pastime of His.
+
+আর দিন সবে পরমানন্দপুরী-স্থানে ৷  
+প্রভুকে প্রসন্ন কর — কৈলা নিবেদনে ॥ ১২৮ ॥
+
+āra dina sabe paramānanda-purī-sthāne  
+the next  day  all  to Paramānanda Purī’s place  
+prabhuke prasanna kara — kailā nivedane  
+the Lord  pleased  make  —  they made  a petition
+
+(128) The next day they all went to Paramānanda Purī and petitioned him, “Please make the Lord pleased again.”
+
+তবে পুরী-গোসাঞি একা প্রভুস্থানে আইলা ৷  
+নমস্করি’ প্রভু তাঁরে সম্ভ্রমে বসাইলা ॥ ১২৯ ॥
+
+tabe purī-gosāñi ekā prabhusthāne āilā  
+then  Purī Gosāñi  alone  to the Lord  came  
+namaskari’ prabhu tām̐re sambhrame vasāilā  
+bowing  the Lord  him  with reverence  seated
+
+(129) Then Purī Gosāñi came alone to the Lord. The Lord bowed to him and seated him with reverence.
+
+পুছিলা, — কি আজ্ঞা? কেনে হৈল আগমন ?  
+হরিদাসে প্রসাদ লাগি’ কৈলা নিবেদন ॥ ১৩০ ॥
+
+puchilā, — ki ājñā? kene haila āgamana?  
+He asked  —  what  is your order?  why  has been  your coming?  
+haridāse prasāda lāgi’ kailā nivedana  
+to Haridāsa  grace  for  he made  a petition
+
+(130) The Lord asked, “What is your order? Why have you come?” Purī Gosāñi petitioned Him to show grace to Haridāsa.
+
+শুনিয়া কহেন প্রভু, — শুনহ, গোসাঞি ৷  
+সব বৈষ্ণব লঞা তুমি রহ এই ঠাঞি ॥ ১৩১ ॥
+
+śuniyā kahena prabhu, — śunaha, gosāñi  
+hearing  says  the Lord  —  listen  Gosāñi  
+saba vaiṣṇava lañā tumi raha ei ṭhāñi  
+all  the Vaiṣṇavas  with  you  stay  in this  place
+
+(131) Hearing this, the Lord said, “Listen, Gosāñi: stay here with all the Vaiṣṇavas,
+
+মোরে আজ্ঞা হয়, মুঞি যাঙ আলালনাথ ৷  
+একলে রহিব তাঁহা, গোবিন্দ-মাত্র সাথ ॥ ১৩২ ॥
+
+more ājñā haya, muñi yāṅa ālālanātha  
+to Me  permission  let there be  I  go  to Ālālanātha  
+ekale rahiba tām̐hā, govinda-mātra sātha  
+alone  I will stay  there  Govinda  only  with
+
+(132) and give Me leave to go to Ālālanātha. I will stay there alone, with only Govinda.”
+
+এত বলি’ প্রভু যদি গোবিন্দে বোলাইলা ৷  
+পুরীরে নমস্কার করি’ উঠিয়া চলিলা ॥ ১৩৩ ॥
+
+eta bali’ prabhu yadi govinde bolāilā  
+this  saying  the Lord  when  Govinda  called  
+purīre namaskāra kari’ uṭhiyā calilā  
+to Purī  obeisance  offering  rising  set off
+
+(133) Saying this, the Lord called Govinda, bowed to Purī, rose and set off.
+
+আস্তে-ব্যস্তে পুরী-গোসাঞি প্রভু-আগে গেলা ৷  
+অনুনয় করি’ প্রভুরে ঘরে ফিরাইলা ॥ ১৩৪ ॥
+
+āste-vyaste purī-gosāñi prabhu-āge gelā  
+in great haste  Purī Gosāñi  the Lord  before  went  
+anunaya kari’ prabhure ghare phirāilā  
+entreaty  making  the Lord  to the house  brought back
+
+(134) In great haste Purī Gosāñi went before the Lord and, humbly entreating Him, brought Him back into the house.
+
+তোমার যে ইচ্ছা, কর, স্বতন্ত্র ঈশ্বর ৷  
+কেবা কি বলিতে পারে তোমার উপর ? ॥ ১৩৫ ॥
+
+tomāra ye icchā, kara, svatantra īśvara  
+Your  whatever  wish  do  independent  Lord  
+kebā ki balite pāre tomāra upara?  
+who  what  to say  can  You  over
+
+(135) “Do whatever You wish: You are the independent Lord. Who can tell You anything?
+
+লোক-হিত লাগি’ তোমার সব ব্যবহার ৷  
+আমি সব না জানি গম্ভীর হৃদয় তোমার ॥ ১৩৬ ॥
+
+loka-hita lāgi’ tomāra saba vyavahāra  
+of the people  the good  for  Your  all  dealings  
+āmi saba nā jāni gambhīra hṛdaya tomāra  
+we  all  not  know  deep  heart  Your
+
+(136) All Your dealings are for the good of the people. None of us can know Your deep heart.”
+
+এত বলি’ পুরী-গোসাঞি গেলা নিজ-স্থানে ৷  
+হরিদাস স্থানে গেলা সব ভক্তগণে ॥ ১৩৭ ॥
+
+eta bali’ purī-gosāñi gelā nija-sthāne  
+this  saying  Purī Gosāñi  went  to his own place  
+haridāsa sthāne gelā saba bhakta-gaṇe  
+Haridāsa  to the place  went  all  the devotees
+
+(137) Saying this, Purī Gosāñi went back to his own place, and all the devotees went to Haridāsa.
+
+স্বরূপ-গোসাঞি কহে, — শুন, হরিদাস ৷  
+সবে তোমার হিত বাঞ্ছিছ, করহ বিশ্বাস ॥ ১৩৮ ॥
+
+svarūpa-gosāñi kahe, — śuna, haridāsa  
+Svarūpa Gosāñi  says  —  listen  Haridāsa  
+sabe tomāra hita vāñchicha, karaha viśvāsa  
+all  your  good  are wishing,  have  faith
+
+(138) Svarūpa Gosāñi said, “Listen, Haridāsa: we all wish you well — believe this.
+
+প্রভু হঠে পড়িয়াছে স্বতন্ত্র ঈশ্বর ৷  
+কভু কৃপা করিবেন দয়ালু-অন্তর ॥ ১৩৯ ॥
+
+prabhu haṭhe paḍiyāche svatantra īśvara  
+the Lord  into stubbornness  has fallen  independent  Lord  
+kabhu kṛpā karibena dayālu-antara  
+sometime  mercy  He will show  merciful at heart
+
+(139) The Lord is the independent Supreme Lord, and He has become unbending; but in time He will show you mercy, for His heart is compassionate.
+
+তুমি হঠ কৈলে তাঁর হঠ সে বাড়িবে ৷  
+স্নান ভোজন কৈলে, আপনে ক্রোধ যাবে ॥ ১৪০ ॥
+
+tumi haṭha kaile tām̐ra haṭha se bāḍibe  
+you  stubbornness  if do  His  stubbornness  that  will increase  
+snāna bhojana kaile, āpane krodha yābe  
+bath  meal  if you take,  of itself  anger  will go
+
+(140) If you are stubborn, His stubbornness will only grow. If you bathe and eat, His anger will pass of itself.”
+
+এত বলি’ তারে স্নান ভোজন করাঞা ৷  
+আপন-ভবন আইলা তারে আশ্বাসিয়া ॥ ১৪১ ॥
+
+eta bali’ tāre snāna bhojana karāñā  
+this  saying  him  bath  meal  making him take  
+āpana-bhavana āilā tāre āśvāsiyā  
+to his own residence  came  him  reassuring
+
+(141) Saying this, Svarūpa had him bathe and eat, reassured him, and returned to his own residence.
+
+প্রভু যদি যান জগন্নাথ-দরশনে ৷  
+দূরে রহি’ হরিদাস করেন দর্শনে ॥ ১৪২ ॥
+
+prabhu yadi yāna jagannātha-daraśane  
+the Lord  when  goes  to see Jagannātha  
+dūre rahi’ haridāsa karena darśane  
+at a distance  staying  Haridāsa  does  seeing
+
+(142) Whenever the Lord went to see Jagannātha, Haridāsa would see Him from a distance.
+
+মহাপ্রভু — কৃপাসিন্ধু, কে পারে বুঝিতে ?  
+নিজ-ভক্তে দণ্ড করেন ‘ধর্ম্ম’ বুঝাইতে ॥ ১৪৩ ॥
+
+mahāprabhu — kṛpā-sindhu, ke pāre bujhite?  
+Mahāprabhu  —  an ocean of mercy;  who  can  understand?  
+nija-bhakte daṇḍa karena ‘dharma’ bujhāite  
+His own devotee  punishment  does  dharma  to make understood
+
+(143) Mahāprabhu is an ocean of mercy — who can understand Him? He punishes His own devotee to make people understand dharma.[^20]
+
+দেখি’ ত্রাস উপজিল সব-ভক্তগণে ৷  
+স্বপ্নেহ ছাড়িল সবে স্ত্রী-সম্ভাষণে ॥ ১৪৪ ॥
+
+dekhi’ trāsa upajila saba-bhakta-gaṇe  
+seeing  fear  arose  in all the devotees  
+svapne-ha chāḍila sabe strī-sambhāṣaṇe  
+even in dreams  gave up  all  talking with women
+
+(144) Seeing this, all the devotees were struck with fear, and even in their dreams they gave up talking with women.[^21]
+
+এইমতে হরিদাসের এক বৎসর গেল ৷  
+তবু মহাপ্রভুর মনে প্রসাদ নহিল ॥ ১৪৫ ॥
+
+ei-mate haridāsera eka vatsara gela  
+in this way  of Haridāsa  one  year  passed  
+tabu mahāprabhura mane prasāda nahila  
+yet  Mahāprabhu’s  in the mind  grace  did not arise
+
+(145) In this way a year passed for Haridāsa, yet no grace toward him arose in Mahāprabhu’s mind.
+
+রাত্রি-শেষে প্রভুরে দণ্ডবৎ হঞা ৷  
+প্রয়াগেতে গেল কারেহ কিছু না বলিয়া ॥ ১৪৬ ॥
+
+rātri-śeṣe prabhure daṇḍavat hañā  
+at the end of the night  to the Lord  prostrate  becoming  
+prayāgete gela kāreha kichu nā baliyā  
+to Prayāga  went  to anyone  anything  not  saying
+
+(146) At the end of the night he offered prostrate obeisances to the Lord and went to Prayāga without saying anything to anyone.
+
+প্রভুপদপ্রাপ্তি লাগি’ সংকল্প করিল ৷  
+ত্রিবেণী প্রবেশ করি’ প্রাণ ছাড়িল ॥ ১৪৭ ॥
+
+prabhu-pada-prāpti lāgi’ saṁkalpa karila  
+the Lord’s feet  attaining  for  a resolve  made  
+triveṇī praveśa kari’ prāṇa chāḍila  
+the Triveṇī  entering  making  life-breath  gave up
+
+(147) Resolving to attain the Lord’s feet, he entered the Triveṇī and gave up his body.
+
+সেইক্ষণে প্রভুস্থানে দিব্য-দেহে আইলা ৷  
+প্রভুকৃপা পাঞা অন্তর্দ্ধানেই রহিলা ॥ ১৪৮ ॥
+
+sei-kṣaṇe prabhusthāne divya-dehe āilā  
+at that very moment  to the Lord  in a divine body  came  
+prabhu-kṛpā pāñā antarddhānei rahilā  
+the Lord’s mercy  receiving  invisible  remained
+
+(148) At that very moment he came to the Lord in a divine body; and, having received His mercy, he remained invisible.[^22]
+
+গন্ধর্ব্ব-দেহে গান করেন অন্তর্দ্ধানে ৷  
+রাত্র্যে প্রভুরে, শুনায়, অন্যে নাহি জানে ॥ ১৪৯ ॥
+
+gandharva-dehe gāna karena antarddhāne  
+in the body of a Gandharva  singing  does  invisibly  
+rātrye prabhure, śunāya, anye nāhi jāne  
+at night  to the Lord  makes hear,  others  not  know
+
+(149) In the body of a Gandharva he sang invisibly. At night he would let the Lord hear his songs, and no one else knew.
+
+একদিন মহাপ্রভু পুছিলা ভক্তগণে ৷  
+হরিদাস কাঁহা ? তারে আনহ এখানে ॥ ১৫০ ॥
+
+ekadina mahāprabhu puchilā bhakta-gaṇe  
+one day  Mahāprabhu  asked  the devotees  
+haridāsa kām̐hā? tāre ānaha ekhāne  
+Haridāsa  where?  him  bring  here
+
+(150) One day Mahāprabhu asked the devotees, “Where is Haridāsa? Bring him here.”
+
+সবে কহে, — হরিদাস বর্ষপূর্ণ দিনে ৷  
+রাত্রে উঠি’ কাঁহা গেলা, কেহ নাহি জানে ॥ ১৫১ ॥
+
+sabe kahe, — haridāsa varṣa-pūrṇa dine  
+all  say  —  Haridāsa  the full year  on the day  
+rātre uṭhi’ kām̐hā gelā, keha nāhi jāne  
+at night  rising  where  went,  anyone  not  knows
+
+(151) They all said, “On the day the year was completed, Haridāsa rose in the night and went away. No one knows where.”
+
+শুনি’ মহাপ্রভু ঈষৎ হাসিয়া রহিলা ৷  
+সব-ভক্তগণ-মনে বিস্ময় জন্মিলা ॥ ১৫২ ॥
+
+śuni’ mahāprabhu īṣat hāsiyā rahilā  
+hearing  Mahāprabhu  slightly  smiling  remained  
+saba-bhakta-gaṇa-mane vismaya janmilā  
+in the minds of all the devotees  wonder  was born
+
+(152) Hearing this, Mahāprabhu only smiled a little, and all the devotees were filled with wonder.
+
+একদিন জগদানন্দ, স্বরূপ, গোবিন্দ ৷  
+কাশীশ্বর, শঙ্কর, দামোদর, মুকুন্দ ॥ ১৫৩ ॥
+
+সমুদ্রস্নানে গেলা সবে, শুনে কথো দূরে ৷  
+হরিদাস গায়েন, যেন ডাকি’ কণ্ঠস্বরে ॥ ১৫৪ ॥
+
+ekadina jagadānanda, svarūpa, govinda  
+one day  Jagadānanda,  Svarūpa,  Govinda  
+kāśīśvara, śaṅkara, dāmodara, mukunda  
+Kāśīśvara,  Śaṅkara,  Dāmodara,  Mukunda  
+samudra-snāne gelā sabe, śune katho dūre  
+to bathe in the sea  went  all,  hear  some  distance away  
+haridāsa gāyena, yena ḍāki’ kaṇṭha-svare  
+Haridāsa  is singing,  as if  calling out  in full voice
+
+(153–154) One day Jagadānanda, Svarūpa, Govinda, Kāśīśvara, Śaṅkara, Dāmodara and Mukunda went to bathe in the sea, and some distance away they heard Haridāsa singing, as if calling out at the top of his voice.
+
+মনুষ্য না দেখে, — মধুর গীতমাত্র শুনে ৷  
+গোবিন্দাদি সবে মেলি’ কৈল অনুমানে ॥ ১৫৫ ॥
+
+manuṣya nā dekhe, — madhura gīta-mātra śune  
+a person  not  they see  —  sweet  song  only  they hear  
+govindādi sabe meli’ kaila anumāne  
+Govinda and the others  all  together  made  a guess
+
+(155) They saw no one; they heard only the sweet song. Govinda and the others together began to guess:
+
+বিষাদি খাঞা হরিদাস আত্মঘাত কৈল ৷  
+সেই পাপে জানি ‘ব্রহ্মরাক্ষস’ হৈল ॥ ১৫৬ ॥
+
+viṣādi khāñā haridāsa ātma-ghāta kaila  
+poison or the like  taking  Haridāsa  self-destruction  committed  
+sei pāpe jāni ‘brahma-rākṣasa’ haila  
+by that  sin  we think  a brahma-rākṣasa  he became
+
+(156) “Haridāsa must have taken poison or something like it and killed himself, and by that sin, we think, he has become a *brahma-rākṣasa*.
+
+আকার না দেখি, মাত্র শুনি তার গান ৷  
+স্বরূপ কহেন, — এই মিথ্যা অনুমান ॥ ১৫৭ ॥
+
+ākāra nā dekhi, mātra śuni tāra gāna  
+a form  not  we see,  only  we hear  his  song  
+svarūpa kahena, — ei mithyā anumāna  
+Svarūpa  says  —  this  false  guess
+
+(157) We see no form; we only hear his song.” Svarūpa said, “This guess is false.
+
+আ-জন্ম কৃষ্ণকীর্ত্তন প্রভুর সেবন ৷  
+প্রভু-কৃপাপাত্র, আর ক্ষেত্রের মরণ ॥ ১৫৮ ॥
+
+ā-janma kṛṣṇakīrtana prabhura sevana  
+from birth  singing of Kṛṣṇa  the Lord’s  service  
+prabhu-kṛpāpātra, āra kṣetrera maraṇa  
+of the Lord’s mercy a recipient,  and  in a holy place  passing away
+
+(158) From his birth he sang of Kṛṣṇa and served the Lord; he was a recipient of the Lord’s mercy, and he left his body in a holy place.
+
+দুর্গতি না হয় তার, সদ্গতি সে হয় ৷  
+প্রভু-ভঙ্গী এই, পাছে জানিবা নিশ্চয় ॥ ১৫৯ ॥
+
+durgati nā haya tāra, sadgati se haya  
+an evil end  not  is  his,  a blessed end  that  is  
+prabhu-bhaṅgī ei, pāche jānibā niścaya  
+the Lord’s  way  this,  later  you will know  for certain
+
+(159) No evil end can be his; his end is a blessed one. This is the Lord’s way — later you will know it for certain.”
+
+প্রয়াগ হৈতে এক বৈষ্ণব নবদ্বীপ আইল ৷  
+হরিদাসের বার্ত্তা তেঁহো সবারে কহিল ॥ ১৬০ ॥
+
+prayāga haite eka vaiṣṇava navadvīpa āila  
+Prayāga  from  a  Vaiṣṇava  to Navadvīpa  came  
+haridāsera vārtā tem̐ho sabāre kahila  
+of Haridāsa  the news  he  to all  told
+
+(160) A Vaiṣṇava came from Prayāga to Navadvīpa and told everyone the news of Haridāsa —
+
+যৈছে সংকল্প, যৈছে ত্রিবেণী প্রবেশিল ৷  
+শুনি’ শ্রীবাসাদির মনে বিস্ময় হইল ॥ ১৬১ ॥
+
+yaiche saṁkalpa, yaiche triveṇī praveśila  
+how  the resolve,  how  the Triveṇī  he entered  
+śuni’ śrīvāsādira mane vismaya haila  
+hearing  of Śrīvāsa and the others  in the minds  wonder  arose
+
+(161) how he had made his resolve and how he had entered the Triveṇī. Hearing this, Śrīvāsa and the others were filled with wonder.
+
+বর্ষান্তরে শিবানন্দ সব ভক্ত লঞা ৷  
+প্রভুরে মিলিলা আসি’ আনন্দিত হঞা ॥ ১৬২ ॥
+
+varṣāntare śivānanda saba bhakta lañā  
+the next year  Śivānanda  all  the devotees  bringing  
+prabhure mililā āsi’ ānandita hañā  
+the Lord  met  coming  joyful  being
+
+(162) The next year Śivānanda brought all the devotees and came, full of joy, to meet the Lord.
+
+হরিদাস কাঁহা ? যদি শ্রীবাস পুছিলা ৷  
+‘স্বকর্ম্মফলভুক্ পুমান্’ — প্রভু উত্তর দিলা ॥ ১৬৩ ॥
+
+haridāsa kām̐hā? yadi śrīvāsa puchilā  
+Haridāsa  where?  when  Śrīvāsa  asked  
+‘sva-karma-phala-bhuk pumān’ — prabhu uttara dilā  
+own  deeds  fruit  enjoying  a man  —  the Lord  answer  gave
+
+(163) When Śrīvāsa asked, “Where is Haridāsa?” the Lord answered, “A man reaps the fruit of his own deeds.”
+
+তবে শ্রীবাস তার বৃত্তান্ত কহিল ৷  
+যৈছে সংকল্প, যৈছে ত্রিবেণী প্রবেশিল ॥ ১৬৪ ॥
+
+tabe śrīvāsa tāra vṛttānta kahila  
+then  Śrīvāsa  his  story  told  
+yaiche saṁkalpa, yaiche triveṇī praveśila  
+how  the resolve,  how  the Triveṇī  he entered
+
+(164) Then Śrīvāsa told his story: how he had made his resolve and how he had entered the Triveṇī.
+
+শুনি’ প্রভু হাসি’ কহে সুপ্রসন্ন-চিত্ত ৷  
+প্রকৃতি দর্শন কৈলে এই প্রায়শ্চিত্ত ॥ ১৬৫ ॥
+
+śuni’ prabhu hāsi’ kahe suprasanna-citta  
+hearing  the Lord  smiling  says  with a well-pleased heart  
+prakṛti darśana kaile ei prāyaścitta  
+a woman  looking at  if one does  this  the atonement
+
+(165) Hearing this, the Lord smiled and, His heart well pleased, said, “For one who looks at women, this is the atonement.”
+
+স্বরূপাদি মিলি’ তবে বিচার করিলা ৷  
+ত্রিবেণী-প্রভাবে হরিদাস প্রভুপাশ আইলা ॥ ১৬৬ ॥
+
+svarūpādi mili’ tabe vicāra karilā  
+Svarūpa and the others  meeting  then  deliberation  made  
+triveṇī-prabhāve haridāsa prabhu-pāśa āilā  
+by the power of the Triveṇī  Haridāsa  to the Lord’s side  came
+
+(166) Then Svarūpa and the others came together and reflected: by the power of the Triveṇī, Haridāsa had come to the Lord.[^23]
+
+এইমত লীলা করে শচীর নন্দন ৷  
+যাহা শুনি’ ভক্তগণের জুড়ায় কর্ণ-মন ॥ ১৬৭ ॥
+
+ei-mata līlā kare śacīra nandana  
+in this way  pastimes  performs  of Śacī  the son  
+yāhā śuni’ bhakta-gaṇera juḍāya karṇa-mana  
+which  hearing  of the devotees  are soothed  ears and minds
+
+(167) Such are the pastimes of the son of Śacī: to hear of them soothes the devotees’ ears and hearts.
+
+আপন-কারুণ্য, লোকে বৈরাগ্য-শিক্ষণ ৷  
+স্বভক্তের গাঢ়-অনুরাগ-প্রকটীকরণ ॥ ১৬৮ ॥
+
+āpana-kāruṇya, loke vairāgya-śikṣaṇa  
+His own compassion,  to the people  the teaching of renunciation  
+svabhaktera gāḍha-anurāga-prakaṭīkaraṇa  
+of His own devotee  of the deep love  the revealing
+
+(168) In this pastime the Lord showed His compassion, taught the world renunciation and revealed the deep love of His own devotee;[^24]
+
+তীর্থের মহিমা, নিজ-ভক্তে আত্মসাৎ ৷  
+এক লীলায় করেন প্রভু কার্য্য পাঁচ-সাত ॥ ১৬৯ ॥
+
+tīrthera mahimā, nija-bhakte ātmasāt  
+of the holy place  the glory,  His own devotee  making His own  
+eka līlāya karena prabhu kārya pām̐ca-sāta  
+by one  pastime  does  the Lord  purposes  five or seven
+
+(169) He showed the glory of the holy place, and He made His devotee His own. Through a single pastime the Lord accomplishes five or seven purposes.
+
+মধুর চৈতন্যলীলা — সমুদ্র-গম্ভীর ৷  
+লোকে নাহি বুঝে, বুঝে যেই ‘ভক্ত’ ‘ধীর’ ॥ ১৭০ ॥
+
+madhura caitanya-līlā — samudra-gambhīra  
+sweet  Caitanya’s pastimes  —  deep as the ocean  
+loke nāhi bujhe, bujhe yei ‘bhakta’ ‘dhīra’  
+people  not  understand,  understands  one who  a devotee,  steady
+
+(170) The sweet pastimes of Caitanya are as deep as the ocean. People in general do not understand them; only one who is a devotee and steady in mind understands.
+
+বিশ্বাস করিয়া শুন চৈতন্যচরিত ৷  
+তর্ক না করিহ, তর্কে হবে বিপরীত ॥ ১৭১ ॥
+
+viśvāsa kariyā śuna caitanya-carita  
+faith  having  hear  Caitanya’s deeds  
+tarka nā kariha, tarke habe viparīta  
+argument  not  make,  by argument  will be  the opposite
+
+(171) Hear the deeds of Caitanya with faith. Do not argue: argument will bring the opposite result.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৭২ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(172) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: This same verse opens Antya 3. *Anubhāṣya*: the śrī guru is the guru who gave initiation into the mantra, or the guru who instructs in bhajana; the gurus are the whole line of gurus (the parama-guru and those before him), headed by Śrīmad Ānandatīrtha and Śrīman Mādhavendra Purī; the Vaiṣṇavas are the bhāgavatas of all four yugas; Śrī Rūpa is honoured with his elder brother Sanātana, with his own devotees and Raghunātha dāsa, and with Jīva, whom he blessed; the companions of Lalitā and Viśākhā are the sakhīs and mañjarīs.
@@ -885,3 +1746,31 @@ from time to time  the Lord  he  makes  an invitation
 [^9]: The dishes are those Nṛsiṁhānanda had cooked (cf. 77). The edition’s heading: after the meal the Lord goes to Pāṇihāṭi, to Rāghava’s house, where He is ever present.
 
 [^10]: *Anubhāṣya*: on Bhagavān Ācārya see Ādi 10.136.
+
+[^11]: *Anubhāṣya*: *ghare bhāta*, ‘rice cooked at home’, is a meal prepared at home from raw foodstuffs, as distinct from Śrī Jagannātha’s prasāda brought from the temple; in Utkala the first is called *amani* and the second *prasādi*.
+
+[^12]: *Anubhāṣya*: Vedānta here means Śaṅkarācārya’s commentary on the Vedānta, or *Śārīraka-sūtras*, which establishes the impersonal Brahman.
+
+[^13]: The Gauḍīya Maṭha edition reads *jīvajñāna*, ‘the notion of the jīva’ (another reading is *jīvājñāna*, ‘the ignorance of the jīva’): according to Māyāvāda, the jīva has no real existence and is only a figment of ignorance (*Amṛta-pravāha-bhāṣya*).
+
+[^14]: *Anubhāṣya*: *māna* is a measure for grain used in Utkala; another reading has *āroyā cāul*, a variety of *śāli* rice called *āroyā*.
+
+[^15]: *māgiyā ānilā*, ‘was begged and brought’: the Ācārya does not say that he begged it himself, which is why the Lord asks who went for it (v. 111).
+
+[^16]: *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava either lives as a householder with wife and family or, becoming a *vairāgī* (renunciant), gives up all connection with women; a vairāgī has no right to look at women or converse with them, even without sinful desire and even for the sake of service.
+
+[^17]: *Anubhāṣya*: a man of worldly mind, even after taking up the vow of a *muni*, loses his peace at the sight of a wooden figure of a woman.
+
+[^18]: *Amṛta-pravāha-bhāṣya*: only one in whom *bhāva* has awakened through *sādhana-bhakti*, and with it detachment, has the right to renounce; the renunciant’s garb (*bhek*) taken before that is ‘monkey renunciation’ (*markaṭa-vairāgya*).
+
+[^19]: *Amṛta-pravāha-bhāṣya*: in begging rice from Mādhavī, Choṭa Haridāsa wanted only to please Mahāprabhu by his service, and yet it was an offence: for a vairāgī to converse with a woman is a grave fault, but since it was done for the Lord’s service, it may also be called slight.
+
+[^20]: *Anubhāṣya*: Mādhavī-devī was a mahā-bhāgavata, and for Haridāsa to accept rice from her was not forbidden; but in the future people of Kali, imitating this, would have preached *prākṛta-sahajiyā* in the name of Vaiṣṇava dharma. To prevent this, the Lord, the guru of the world and teacher of mankind, enacted the pastime of Haridāsa’s punishment, and in this severity His highest mercy was revealed.
+
+[^21]: *Amṛta-pravāha-bhāṣya*: this refers to devotees in *sādhana* who wore the renunciant’s garb (*bhek*): they no longer spoke with any woman.
+
+[^22]: *prabhu-kṛpā pāñā antarddhānei rahilā*, ‘having received the Lord’s mercy, he remained invisible’: the mercy came first, and Haridāsa stayed unseen (the order of the Gauḍīya Maṭha text).
+
+[^23]: The Gauḍīya Maṭha edition reads *prabhu-pāśa āilā*, ‘came to the Lord’ (another reading is *prabhu-pada pāilā*, ‘attained the Lord’s feet’): by the power of the Triveṇī, Haridāsa came to Mahāprabhu in a divine body (cf. v. 148).
+
+[^24]: *Anubhāṣya* (on 168–169) lists the lessons of this pastime: the Lord openly rejected His own associate so that the souls of Kali would not take *prākṛta-sahajiyā* for Vaiṣṇava dharma; He showed what the position of a preaching ācārya and of a devotee who keeps the rules of conduct should be; He taught renunciation, the giving up of all enjoyment of what is not Kṛṣṇa; He showed how He accepts true devotees as His own; and He revealed His mercy to Haridāsa and Haridāsa’s deep love (*anurāga*). One who leaves the body at Prayāga or another holy place of Viṣṇu attains a blessed end. For the people’s instruction the Lord did not accept Haridāsa, but afterwards He accepted his service, the kīrtana of Kṛṣṇa, and so acknowledged him as His own.
