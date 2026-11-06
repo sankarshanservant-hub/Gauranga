@@ -5,3 +5,7 @@
 ## 158
 
 When Gaura's devotees travel to Nīlācala, their company is in plain view and known to everyone. Raghunātha fears that if he goes with them his father will seize him and bring him back, and so he cannot go with them.
+
+## 185
+
+He went by way of small, insignificant villages.

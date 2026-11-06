@@ -156,6 +156,10 @@ See Madhya 23.24.
 
 > Subheading: Who Yadunandana was —
 
+## 161–162
+
+These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya's order, though they call themselves his followers, are swayed by a mood hostile to pure devotion and did not recognize Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the *jīva* eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a *brāhmaṇa* family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
+
 ## 163
 
 > Subheading: Raghunātha bows to Yadunandana —
@@ -171,10 +175,6 @@ See Madhya 23.24.
 ## 167
 
 > Subheading: Raghunātha follows his guru; the two walk toward the Ācārya's house —
-
-## 161–162
-
-These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya's order, though they call themselves his followers, are swayed by a mood hostile to pure devotion and did not recognize Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the *jīva* eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a *brāhmaṇa* family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
 
 ## 169
 
@@ -203,3 +203,55 @@ These words too show that the godless (*pāṣaṇḍīs*) who oppose the teachi
 ## 176
 
 > Subheading: The next morning, not finding Raghunātha, the household raises an uproar, and to search for him his father sends a letter and men to the pilgrims bound for Purī —
+
+## 180
+
+**Bāhuḍiyā** — bringing back. Śivānanda Sena used to lead the pilgrims from Gauḍa to Nīlācala. Raghunātha's father therefore guessed that his son was with him, and to have Raghunātha sent back he sent him a letter of request, and ten men along with it.
+
+## 182
+
+> Subheading: The men deliver the letter to Śivānanda and ask about Raghunātha —
+
+## 183
+
+> Subheading: Śivānanda says he knows nothing; not finding Raghunātha, the messengers return home —
+
+## 184
+
+> Subheading: Lost to himself in love for the Lord, Raghunātha travels to Purī to attain the Lord's feet, enduring severe bodily hardship on the way —
+
+## 185
+
+**Saraṇa** — a broad road.
+
+**Chatrabhoga.** Today this place lies in the Twenty-four Parganas district, within Mathurāpura; it is known as the “Chāṛ-khāṛi” of the Gaṅgā and lies near the two well-known villages of Jayanagara and Majilapura. In former times the Gaṅgā flowed here. Those who take Chatrabhoga to be the Kāsāi River are mistaken.
+
+## 188
+
+> Subheading: He reaches Purī in twelve days; on the way he ate on only three days[^188-1] —
+
+## 189
+
+> Subheading: The Lord is seated with Svarūpa and others; Raghunātha arrives and prostrates himself, and Mukunda introduces him —
+
+## 191
+
+> Subheading: Raghunātha bows at the Lord's feet, and the Lord embraces him —
+
+## 192
+
+> Subheading: Raghunātha bows to Svarūpa and the other devotees, and all embrace him —
+
+## 193
+
+> Subheading: On the occasion of the eternally perfect (*nitya-siddha*) Raghunātha's leaving home, the Lord instructs practitioners of devotion who still have *anarthas*; the greatness of Kṛṣṇa's mercy —
+
+Kṛṣṇa's mercy is more powerful than the fruits of past *karma* and all else. It is this compassion of Kṛṣṇa that has rescued you from the cesspit of worldly life. A *jīva* attached to worldly things cannot give them up by his own strength. And for a *jīva* who is a pure servant of Kṛṣṇa, worldly things are all the more like a cesspit. Mahāprabhu knew that Śrīla Raghunātha was free from worldliness, yet He said this, using him as the occasion, only to teach suffering worldly people.
+
+## 194
+
+> Subheading: Raghunātha's undivided faith in Gaura-Kṛṣṇa —
+
+---
+
+[^188-1]: The Russian verse translation says “twenty days”; the Bengali verse 188 and the subheading read “বারদিনে,” that is, in twelve days.
