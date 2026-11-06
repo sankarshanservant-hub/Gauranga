@@ -143,3 +143,63 @@ See Madhya 23.24.
 ## 158
 
 > Subheading: Fearing that he would be caught if he went openly with the devotees of Gauḍa, Raghunātha cannot go to Purī —
+
+## 159
+
+> Subheading: The account of Raghunātha's meeting with the Lord; Raghunātha's day of good fortune —
+
+## 160
+
+> Subheading: Late in the night — a meeting with his guru, Yadunandana —
+
+## 161
+
+> Subheading: Who Yadunandana was —
+
+## 163
+
+> Subheading: Raghunātha bows to Yadunandana —
+
+## 165
+
+> Subheading: Yadunandana takes Raghunātha with him so that he may persuade a disciple who had given up the worship of the Deity to perform the morning *ārati* —
+
+## 166
+
+> Subheading: At the end of the night the guards fall fast asleep —
+
+## 167
+
+> Subheading: Raghunātha follows his guru; the two walk toward the Ācārya's house —
+
+## 161–162
+
+These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya's order, though they call themselves his followers, are swayed by a mood hostile to pure devotion and did not recognize Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the *jīva* eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a *brāhmaṇa* family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
+
+## 169
+
+> Subheading: Seizing a good opportunity on the way, the clever Raghunātha asks his guru's leave to go and worship Kṛṣṇa —
+
+## 170
+
+> Subheading: Raghunātha plans his escape —
+
+## 171
+
+> Subheading: Flight in great haste —
+
+## 172
+
+> Subheading: Fearing capture, he hurries through the forests by byways —
+
+## 173
+
+> Subheading: All day, meditating single-mindedly on Caitanya's feet, he covers a long way, and in the evening, in a cowherd's house, he drinks milk and rests his weary body —
+
+## 174
+
+**Bāthān** — a cowshed, a cow pen (*goṣṭha*).
+
+## 176
+
+> Subheading: The next morning, not finding Raghunātha, the household raises an uproar, and to search for him his father sends a letter and men to the pilgrims bound for Purī —
