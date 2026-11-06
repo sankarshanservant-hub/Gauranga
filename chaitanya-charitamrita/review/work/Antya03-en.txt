@@ -67,7 +67,7 @@ tr: After a while, when the boy got up and left, Dāmodara could bear it no long
 ## 11
 w: in instructing others  a paṇḍita  he says  to the Lord
 w: ‘Gosāñi’  ‘Gosāñi’  now  we shall know  ‘Gosāñi’
-tr: He said to the Lord, “When it comes to instructing others, You are a *paṇḍita*, and everyone hails You, ‘Gosāñi! Gosāñi!’ Now we shall see what kind of Gosāñi You are.
+tr: He said to the Lord, “When it comes to instructing others, You are a paṇḍita, and everyone hails You, ‘Gosāñi! Gosāñi!’ Now we shall see what kind of Gosāñi You are.
 fn: *Amṛta-pravāha-bhāṣya*: when it comes to instructing others, You are a paṇḍita, and everyone calls You “Gosāñi” (ācārya); now it will be seen how You remain a Gosāñi.
 
 ## 12
@@ -88,7 +88,7 @@ tr: You behave as You please — who can say anything to You? But can You cover 
 ## 15
 w: a paṇḍita  being  in Your mind  why  consideration  not  You do
 w: of the widowed brāhmaṇī  to the boy  affection  why  You show
-tr: You are a *paṇḍita* — why do You not consider this? Why do You show such affection to the son of a widowed brāhmaṇī?
+tr: You are a paṇḍita — why do You not consider this? Why do You show such affection to the son of a widowed brāhmaṇī?
 
 ## 16
 w: although  the brāhmaṇī  she  austere  chaste
@@ -128,7 +128,7 @@ tr: She has no protector other than you, for you have cautioned even Me.
 ## 23
 w: like you  ‘impartial’  there is not  among My  associates
 w: ‘impartial’  without being  ‘dharma’  not  can be  protected
-tr: Among My associates there is no one as impartial (*nirapekṣa*) as you, and without impartiality *dharma* cannot be protected.
+tr: Among My associates there is no one as impartial (*nirapekṣa*) as you, and without impartiality dharma cannot be protected.
 
 ## 24
 w: Me  from  what  not  happens  that  you  from  happens
@@ -220,7 +220,7 @@ tr: Remind her in this way again and again, and worship her feet in My name.”
 ## 41
 w: this  saying  of Jagannātha  the prasāda  had brought
 w: to His mother  to the Vaiṣṇavas  to give  separately  separately  He gave
-tr: Saying this, the Lord had Jagannātha’s *prasāda* brought and gave it to him in separate portions for His mother and for the Vaiṣṇavas.
+tr: Saying this, the Lord had Jagannātha’s prasāda brought and gave it to him in separate portions for His mother and for the Vaiṣṇavas.
 
 ## 42
 w: then  Dāmodara  going  to Nadīyā  came
@@ -230,7 +230,7 @@ tr: Then Dāmodara set out and came to Nadīyā. He met the Lord’s mother and 
 ## 43
 w: to the Ācārya and others  to the Vaiṣṇavas  mahā-prasāda  he gave
 w: of the Lord  as  the order  the Paṇḍita  that  carried out
-tr: He gave the *mahā-prasāda* to the Ācārya (Advaita) and the other Vaiṣṇavas. Just as the Lord had ordered, so the Paṇḍita did.
+tr: He gave the mahā-prasāda to the Ācārya (Advaita) and the other Vaiṣṇavas. Just as the Lord had ordered, so the Paṇḍita did.
 
 ## 44
 w: Dāmodara  before  independence  not  is  of anyone
@@ -267,7 +267,7 @@ fn: *Anubhāṣya*: another manuscript has here a further verse: “Having accep
 ## 50
 w: Haridāsa  in the age of Kali  yavanas  countless
 w: to cows and brāhmaṇas  violence  they do  very wicked
-tr: “Haridāsa, in the age of Kali the *yavanas* are countless. They are very wicked and do violence to cows and brāhmaṇas.
+tr: “Haridāsa, in the age of Kali the yavanas are countless. They are very wicked and do violence to cows and brāhmaṇas.
 
 ## 51
 w: of all of them  in what  way  will be  deliverance
@@ -277,18 +277,18 @@ tr: How will all of them be delivered? I see no means for it, and this grief of 
 ## 52
 w: Haridāsa  says  Lord  worry  not  do
 w: of the yavanas  the worldly bondage  seeing  grief  not  feel
-tr: Haridāsa said, “Lord, do not worry. Do not grieve at the sight of the *yavanas*’ worldly bondage (*saṁsāra*).
+tr: Haridāsa said, “Lord, do not worry. Do not grieve at the sight of the yavanas’ worldly bondage (*saṁsāra*).
 
 ## 53
 w: of all the yavanas  ‘liberation’  will be  easily
 w: ‘hā rāma’  ‘hā rāma’  saying  they speak  in the semblance of the name
-tr: All the *yavanas* will attain liberation easily, for they say ‘hā rāma, hā rāma’, and so they utter the semblance of the name (*nāmābhāsa*).
+tr: All the yavanas will attain liberation easily, for they say ‘hā rāma, hā rāma’, and so they utter the semblance of the name (*nāmābhāsa*).
 fn: *Amṛta-pravāha-bhāṣya* (on 56): in the word *harām* (“unclean”) the name “Rāma” is present as an indication (*saṅketa*); this is called *nāmābhāsa*.
 
 ## 54
 w: in great love  a devotee  says  ‘hā rāma’  ‘hā rāma’
 w: of the yavanas  the fortune  see  they take  that  name
-tr: In great love a devotee cries, ‘Hā Rāma! Hā Rāma!’ See the good fortune of the *yavanas*: they utter that very name!
+tr: In great love a devotee cries, ‘Hā Rāma! Hā Rāma!’ See the good fortune of the yavanas: they utter that very name!
 
 ## 55
 w: although  to something else  by indication  is  nāmābhāsa
@@ -375,7 +375,7 @@ tr: Haridāsa said, “Lord, that is by Your mercy: You have already delivered t
 ## 68
 w: You  that  have done  this  loud  saṅkīrtana
 w: of the nonmoving and moving  that  is  indeed  hearing
-tr: You have performed this loud *saṅkīrtana*, and the nonmoving and moving beings have all heard it.
+tr: You have performed this loud saṅkīrtana, and the nonmoving and moving beings have all heard it.
 
 ## 69
 w: by hearing  of the moving beings  there is  of worldly existence  the end
@@ -385,12 +385,12 @@ tr: By hearing it, the moving beings are freed from worldly existence; and when 
 ## 70
 w: ‘an echo’  it is not  they  perform  ‘kīrtana’
 w: of Your  mercy  this  indescribable  account
-tr: It is not an ‘echo’: they are performing ‘*kīrtana*’. This is an indescribable account of Your mercy.
+tr: It is not an ‘echo’: they are performing ‘kīrtana’. This is an indescribable account of Your mercy.
 
 ## 71
 w: in all  the world  there is  loud  saṅkīrtana
 w: hearing  absorbed in love  dance  the nonmoving and moving
-tr: Throughout the world there is loud *saṅkīrtana*, and hearing it, the nonmoving and moving beings dance, absorbed in *prema*.
+tr: Throughout the world there is loud saṅkīrtana, and hearing it, the nonmoving and moving beings dance, absorbed in prema.
 
 ## 72
 w: as  You did  in Jhārikhaṇḍa  to Vṛndāvana  while going
@@ -400,7 +400,7 @@ tr: Balabhadra Bhaṭṭācārya has told me how You did this in Jhārikhaṇḍ
 ## 73
 w: Vāsudeva  the jīvas  for the sake of  made  a petition
 w: then  acceptance  You made  of the jīvas  the release
-tr: When Vāsudeva petitioned You on behalf of the *jīvas*, You agreed to release them.
+tr: When Vāsudeva petitioned You on behalf of the jīvas, You agreed to release them.
 
 ## 74
 w: the world  to deliver  Your  descent
@@ -410,30 +410,30 @@ tr: You have descended to deliver the world, and for that You first accepted the
 ## 75
 w: loud  saṅkīrtana  therefore  You made  propagation
 w: nonmoving and moving  of the jīvas  You cut off  worldly existence
-tr: So You spread loud *saṅkīrtana* and cut off the worldly existence of all *jīvas*, nonmoving and moving.”
+tr: So You spread loud saṅkīrtana and cut off the worldly existence of all jīvas, nonmoving and moving.”
 
 ## 76
 w: the Lord  says  all  jīvas  liberation  when  will attain
 w: this  indeed  universe  then  devoid of jīvas  will be
-tr: The Lord said, “If all the *jīvas* attain liberation, then this universe will be empty of *jīvas*!”
+tr: The Lord said, “If all the jīvas attain liberation, then this universe will be empty of jīvas!”
 
 ## 77–78
 w: Haridāsa  says  Your  as long as  in the mortal world  stay
 w: so long  nonmoving and moving  all species of beings
 w: all  liberated  making  You  to Vaikuṇṭha  will send
 w: the subtle jīvas  again  to karma  awakened  You will make
-tr: Haridāsa said, “As long as You remain in the mortal world, You will liberate all the nonmoving and moving beings of every species and send them to Vaikuṇṭha. Then You will awaken the subtle *jīvas* (*sūkṣma-jīva*) to *karma* once again.
+tr: Haridāsa said, “As long as You remain in the mortal world, You will liberate all the nonmoving and moving beings of every species and send them to Vaikuṇṭha. Then You will awaken the subtle jīvas (*sūkṣma-jīva*) to karma once again.
 fn: The edition’s heading: Haridāsa’s answer — by the Lord’s mercy, once all the living beings of the time of His manifestation have been delivered, the world is filled again with jīvas brought forth by Mahā-Viṣṇu, who lies in the Causal Ocean. *Amṛta-pravāha-bhāṣya*: all the jīvas with whom the Lord, descending into the universe, comes into contact are delivered; yet He awakens countless subtle jīvas again on the field of karma, and so the universes are filled once more.
 
 ## 79
 w: those  jīvas  will become  here  nonmoving and moving
 w: with them  will be filled  the universe  as  like before
-tr: Those *jīvas* will become the nonmoving and moving beings here, and with them the universe will be filled as before.
+tr: Those jīvas will become the nonmoving and moving beings here, and with them the universe will be filled as before.
 
 ## 80
 w: formerly  as  Raghunātha  all  Ayodhyā  taking
 w: to Vaikuṇṭha  went  with other  jīvas  Ayodhyā  filling
-tr: Just as formerly Raghunātha (Rāmacandra) took all of Ayodhyā with Him to Vaikuṇṭha and filled Ayodhyā with other *jīvas*,
+tr: Just as formerly Raghunātha (Rāmacandra) took all of Ayodhyā with Him to Vaikuṇṭha and filled Ayodhyā with other jīvas,
 fn: *Anubhāṣya*: see the *Rāmāyaṇa* (Baṅgavāsī edition), Uttara-kāṇḍa, sarga 122, verses 21–22, and sarga 123.
 
 ## 81
@@ -444,14 +444,14 @@ tr: so You too, having descended, have set up the same kind of market. No one ca
 ## 82
 w: formerly  as  in Vraja  Kṛṣṇa  making  descent
 w: of all  the universe’s  jīvas  cut off  worldly existence
-tr: Formerly, when Kṛṣṇa descended in Vraja, He cut off the worldly existence of all the *jīvas* in the universe.
+tr: Formerly, when Kṛṣṇa descended in Vraja, He cut off the worldly existence of all the jīvas in the universe.
 
 ## 83
 w: not  and  thus  wonder  should be made
 w: by you  about the Lord  the unborn
 w: about the Lord of the lords of yoga  Kṛṣṇa
 w: from whom  this (world)  is liberated
-tr: “There should be no wonder at such deeds of Kṛṣṇa, the unborn Bhagavān, the Lord of the lords of *yoga*; for by Him this whole world, moving and unmoving, is set free.” (Śrīmad-Bhāgavatam, 10.29.16)
+tr: “There should be no wonder at such deeds of Kṛṣṇa, the unborn Bhagavān, the Lord of the lords of yoga; for by Him this whole world, moving and unmoving, is set free.” (Śrīmad-Bhāgavatam, 10.29.16)
 fn: *Anubhāṣya*: Śukadeva spoke this to Parīkṣit while describing the good fortune of the gopīs, who on the night of the Rāsa-pūrṇimā heard Kṛṣṇa’s flute and longed to meet Him: from Kṛṣṇa all living beings without exception, moving and unmoving, are freed, so one should not wonder at His power to grant liberation.
 
 ## 84
@@ -464,7 +464,7 @@ fn: The reference follows the edition’s heading (p. 890): *Viṣṇu Purāṇa
 ## 85
 w: likewise  You  in Navadvīpa  making  descent
 w: of all  the universe’s  jīvas  You made  deliverance
-tr: Likewise, You have descended in Navadvīpa and delivered the *jīvas* of the whole universe.
+tr: Likewise, You have descended in Navadvīpa and delivered the jīvas of the whole universe.
 
 ## 86
 w: who  says  of Caitanya  the glory  to me  known  is
@@ -610,7 +610,7 @@ w: Haridāsa  says  you  I shall  accept
 w: the counted names  chanting  as long as  not  finished  my
 w: so long  you  sitting  listen  the name  saṅkīrtana
 w: the name  finished  when it is  I shall do  what  your  mind (desires)
-tr: Haridāsa said, “I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to the *saṅkīrtana* of the name. When my chanting is finished, I shall do as you wish.”
+tr: Haridāsa said, “I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to the saṅkīrtana of the name. When my chanting is finished, I shall do as you wish.”
 
 ## 115
 w: this  hearing  that  prostitute  sitting  remained
@@ -640,7 +640,7 @@ tr: “Yesterday you were disappointed; please do not hold it against me. I shal
 ## 120
 w: until then  here  sitting  listen  of the name  saṅkīrtana
 w: the name  complete  when it is  fulfilled  will be  your  mind
-tr: Until then, sit here and listen to the *saṅkīrtana* of the name. When the name is complete, your heart too will be fulfilled.”
+tr: Until then, sit here and listen to the saṅkīrtana of the name. When the name is complete, your heart too will be fulfilled.”
 
 ## 121
 w: to Tulasī  then  the prostitute  obeisance  making

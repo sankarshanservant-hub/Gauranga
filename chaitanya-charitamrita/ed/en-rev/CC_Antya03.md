@@ -126,7 +126,7 @@ in instructing others  a paṇḍita  he says  to the Lord
 ‘gosāñi’ ‘gosāñi’ ebe jānimu ‘gosāñi’  
 ‘Gosāñi’  ‘Gosāñi’  now  we shall know  ‘Gosāñi’
 
-(11) He said to the Lord, “When it comes to instructing others, You are a *paṇḍita*, and everyone hails You, ‘Gosāñi! Gosāñi!’ Now we shall see what kind of Gosāñi You are.[^3]
+(11) He said to the Lord, “When it comes to instructing others, You are a paṇḍita, and everyone hails You, ‘Gosāñi! Gosāñi!’ Now we shall see what kind of Gosāñi You are.[^3]
 
 এবে গোসাঞির গুণ সব লোকে গাইবে ৷  
 গোসাঞি-প্রতিষ্ঠা সব পুরুষোত্তমে হইবে ॥ ১২ ॥
@@ -166,7 +166,7 @@ a paṇḍita  being  in Your mind  why  consideration  not  You do
 rāṇḍībrāhmaṇīra bālake prīti kene kara?  
 of the widowed brāhmaṇī  to the boy  affection  why  You show
 
-(15) You are a *paṇḍita* — why do You not consider this? Why do You show such affection to the son of a widowed brāhmaṇī?
+(15) You are a paṇḍita — why do You not consider this? Why do You show such affection to the son of a widowed brāhmaṇī?
 
 যদ্যপি ব্রাহ্মণী সেই তপস্বিনী সতী ৷  
 তথাপি তাহার দোষ — সুন্দরী যুবতী ॥ ১৬ ॥
@@ -246,7 +246,7 @@ like you  ‘impartial’  there is not  among My  associates
 ‘nirapekṣa’ nahile ‘dharma’ nā yāya rakṣaṇe  
 ‘impartial’  without being  ‘dharma’  not  can be  protected
 
-(23) Among My associates there is no one as impartial (*nirapekṣa*) as you, and without impartiality *dharma* cannot be protected.
+(23) Among My associates there is no one as impartial (*nirapekṣa*) as you, and without impartiality dharma cannot be protected.
 
 আমা হৈতে যে না হয়, সে তোমা হৈতে হয় ৷  
 আমারে করিলা দণ্ড, আন কেবা হয় ॥ ২৪ ॥
@@ -426,7 +426,7 @@ this  saying  of Jagannātha  the prasāda  had brought
 mātāke, vaiṣṇave dite pṛthak pṛthak dilā  
 to His mother  to the Vaiṣṇavas  to give  separately  separately  He gave
 
-(41) Saying this, the Lord had Jagannātha’s *prasāda* brought and gave it to him in separate portions for His mother and for the Vaiṣṇavas.
+(41) Saying this, the Lord had Jagannātha’s prasāda brought and gave it to him in separate portions for His mother and for the Vaiṣṇavas.
 
 তবে দামোদর চলি’ নদীয়া আইলা ৷  
 মাতারে মিলিয়া তাঁর চরণে রহিলা ॥ ৪২ ॥
@@ -446,7 +446,7 @@ to the Ācārya and others  to the Vaiṣṇavas  mahā-prasāda  he gave
 prabhura yaiche ājñā, paṇḍita tāhā ācarilā  
 of the Lord  as  the order  the Paṇḍita  that  carried out
 
-(43) He gave the *mahā-prasāda* to the Ācārya (Advaita) and the other Vaiṣṇavas. Just as the Lord had ordered, so the Paṇḍita did.
+(43) He gave the mahā-prasāda to the Ācārya (Advaita) and the other Vaiṣṇavas. Just as the Lord had ordered, so the Paṇḍita did.
 
 দামোদর-আগে স্বাতন্ত্র্য না হয় কাহার ৷  
 তার ভয়ে সবে করে সঙ্কোচ ব্যবহার ॥ ৪৪ ॥
@@ -516,7 +516,7 @@ Haridāsa  in the age of Kali  yavanas  countless
 go-brāhmaṇe hiṁsā kare mahā-durācāra  
 to cows and brāhmaṇas  violence  they do  very wicked
 
-(50) “Haridāsa, in the age of Kali the *yavanas* are countless. They are very wicked and do violence to cows and brāhmaṇas.
+(50) “Haridāsa, in the age of Kali the yavanas are countless. They are very wicked and do violence to cows and brāhmaṇas.
 
 ইহা-সবার কোন্ মতে হইবে নিস্তার ?  
 তাহার হেতু না দেখিয়ে, — এ দুঃখ অপার ॥ ৫১ ॥
@@ -536,7 +536,7 @@ Haridāsa  says  Lord  worry  not  do
 yavanera saṁsāra dekhi’ duḥkha nā bhāviha  
 of the yavanas  the worldly bondage  seeing  grief  not  feel
 
-(52) Haridāsa said, “Lord, do not worry. Do not grieve at the sight of the *yavanas*’ worldly bondage (*saṁsāra*).
+(52) Haridāsa said, “Lord, do not worry. Do not grieve at the sight of the yavanas’ worldly bondage (*saṁsāra*).
 
 যবনসকলের ‘মুক্তি’ হবে অনায়াসে ৷  
 হা রাম, হা রাম বলি’ কহে নামাভাসে ॥ ৫৩ ॥
@@ -546,7 +546,7 @@ of all the yavanas  ‘liberation’  will be  easily
 hā rāma, hā rāma bali’ kahe nāmābhāse  
 ‘hā rāma’  ‘hā rāma’  saying  they speak  in the semblance of the name
 
-(53) All the *yavanas* will attain liberation easily, for they say ‘hā rāma, hā rāma’, and so they utter the semblance of the name (*nāmābhāsa*).[^8]
+(53) All the yavanas will attain liberation easily, for they say ‘hā rāma, hā rāma’, and so they utter the semblance of the name (*nāmābhāsa*).[^8]
 
 মহাপ্রেমে ভক্ত কহে, — ‘হা রাম’, ‘হা রাম’ ৷  
 যবনের ভাগ্য দেখ, লয় সেই নাম ॥ ৫৪ ॥
@@ -556,7 +556,7 @@ in great love  a devotee  says  ‘hā rāma’  ‘hā rāma’
 yavanera bhāgya dekha, laya sei nāma  
 of the yavanas  the fortune  see  they take  that  name
 
-(54) In great love a devotee cries, ‘Hā Rāma! Hā Rāma!’ See the good fortune of the *yavanas*: they utter that very name!
+(54) In great love a devotee cries, ‘Hā Rāma! Hā Rāma!’ See the good fortune of the yavanas: they utter that very name!
 
 যদ্যপি অন্যত্র সঙ্কেতে হয় নামাভাস ৷  
 তথাপি নামের তেজ না হয় বিনাশ ॥ ৫৫ ॥
@@ -724,7 +724,7 @@ You  that  have done  this  loud  saṅkīrtana
 sthāvara-jaṅgamera sei haya ta’ śravaṇa  
 of the nonmoving and moving  that  is  indeed  hearing
 
-(68) You have performed this loud *saṅkīrtana*, and the nonmoving and moving beings have all heard it.
+(68) You have performed this loud saṅkīrtana, and the nonmoving and moving beings have all heard it.
 
 শুনিয়া জঙ্গমের হয় সংসার-ক্ষয় ৷  
 স্থাবরে সে শব্দ লাগে, প্রতিধ্বনি হয় ॥ ৬৯ ॥
@@ -744,7 +744,7 @@ on the nonmoving  that  sound  strikes  an echo  arises
 tomāra kṛpāra ei akathya kathana  
 of Your  mercy  this  indescribable  account
 
-(70) It is not an ‘echo’: they are performing ‘*kīrtana*’. This is an indescribable account of Your mercy.
+(70) It is not an ‘echo’: they are performing ‘kīrtana’. This is an indescribable account of Your mercy.
 
 সকল জগতে হয় উচ্চ সঙ্কীর্ত্তন ৷  
 শুনিয়া প্রেমাবেশে নাচে স্থাবর-জঙ্গম ॥ ৭১ ॥
@@ -754,7 +754,7 @@ in all  the world  there is  loud  saṅkīrtana
 śuniyā premāveśe nāce sthāvara-jaṅgama  
 hearing  absorbed in love  dance  the nonmoving and moving
 
-(71) Throughout the world there is loud *saṅkīrtana*, and hearing it, the nonmoving and moving beings dance, absorbed in *prema*.
+(71) Throughout the world there is loud saṅkīrtana, and hearing it, the nonmoving and moving beings dance, absorbed in prema.
 
 যৈছে কৈলা ঝারিখণ্ডে বৃন্দাবন যাইতে ৷  
 বলভদ্র-ভট্টাচার্য্য কহিয়াছেন আমাতে ॥ ৭২ ॥
@@ -774,7 +774,7 @@ Vāsudeva  the jīvas  for the sake of  made  a petition
 tabe aṅgīkāra kailā jīvera mocana  
 then  acceptance  You made  of the jīvas  the release
 
-(73) When Vāsudeva petitioned You on behalf of the *jīvas*, You agreed to release them.
+(73) When Vāsudeva petitioned You on behalf of the jīvas, You agreed to release them.
 
 জগৎ নিস্তারিতে তোমার অবতার ৷  
 ভক্তভাব আগে তাতে কৈলা অঙ্গীকার ॥ ৭৪ ॥
@@ -794,7 +794,7 @@ loud  saṅkīrtana  therefore  You made  propagation
 sthira-cara jīvera khaṇḍāilā saṁsāra  
 nonmoving and moving  of the jīvas  You cut off  worldly existence
 
-(75) So You spread loud *saṅkīrtana* and cut off the worldly existence of all *jīvas*, nonmoving and moving.”
+(75) So You spread loud saṅkīrtana and cut off the worldly existence of all jīvas, nonmoving and moving.”
 
 প্রভু কহে, — সব জীব মুক্তি যবে পাবে ৷  
 এই ত’ ব্রহ্মাণ্ড তবে জীবশূন্য হবে! ॥ ৭৬ ॥
@@ -804,7 +804,7 @@ the Lord  says  all  jīvas  liberation  when  will attain
 ei ta’ brahmāṇḍa tabe jīva-śūnya habe!  
 this  indeed  universe  then  devoid of jīvas  will be
 
-(76) The Lord said, “If all the *jīvas* attain liberation, then this universe will be empty of *jīvas*!”
+(76) The Lord said, “If all the jīvas attain liberation, then this universe will be empty of jīvas!”
 
 হরিদাস বলে, — তোমার যাবৎ মর্ত্ত্যে স্থিতি ৷  
 তাবৎ স্থাবর-জঙ্গম, সর্ব্বজীব-জাতি ॥ ৭৭ ॥
@@ -821,7 +821,7 @@ all  liberated  making  You  to Vaikuṇṭha  will send
 sūkṣma-jīve punaḥ karme udbuddha karibā  
 the subtle jīvas  again  to karma  awakened  You will make
 
-(77–78) Haridāsa said, “As long as You remain in the mortal world, You will liberate all the nonmoving and moving beings of every species and send them to Vaikuṇṭha. Then You will awaken the subtle *jīvas* (*sūkṣma-jīva*) to *karma* once again.[^14]
+(77–78) Haridāsa said, “As long as You remain in the mortal world, You will liberate all the nonmoving and moving beings of every species and send them to Vaikuṇṭha. Then You will awaken the subtle jīvas (*sūkṣma-jīva*) to karma once again.[^14]
 
 সেই জীব হবে ইহাঁ স্থাবর-জঙ্গম ৷  
 তাহাতে ভরিবে ব্রহ্মাণ্ড যেন পূর্ব্ব-সম ॥ ৭৯ ॥
@@ -831,7 +831,7 @@ those  jīvas  will become  here  nonmoving and moving
 tāhāte bharibe brahmāṇḍa yena pūrva-sama  
 with them  will be filled  the universe  as  like before
 
-(79) Those *jīvas* will become the nonmoving and moving beings here, and with them the universe will be filled as before.
+(79) Those jīvas will become the nonmoving and moving beings here, and with them the universe will be filled as before.
 
 পূর্ব্বে যেন রঘুনাথ সব অযোধ্যা লঞা ৷  
 বৈকুণ্ঠকে গেলা, অন্য জীবে অযোধ্যা ভরাঞা ॥ ৮০ ॥
@@ -841,7 +841,7 @@ formerly  as  Raghunātha  all  Ayodhyā  taking
 vaikuṇṭhake gelā, anya jīve ayodhyā bharāñā  
 to Vaikuṇṭha  went  with other  jīvas  Ayodhyā  filling
 
-(80) Just as formerly Raghunātha (Rāmacandra) took all of Ayodhyā with Him to Vaikuṇṭha and filled Ayodhyā with other *jīvas*,[^15]
+(80) Just as formerly Raghunātha (Rāmacandra) took all of Ayodhyā with Him to Vaikuṇṭha and filled Ayodhyā with other jīvas,[^15]
 
 অবতরি’ তুমি ঐছে পাতিয়াছ হাট ৷  
 কেহ না বুঝিতে পারে তোমার গূঢ় নাট ॥ ৮১ ॥
@@ -861,7 +861,7 @@ formerly  as  in Vraja  Kṛṣṇa  making  descent
 sakala brahmāṇḍa-jīvera khaṇḍāilā saṁsāra  
 of all  the universe’s  jīvas  cut off  worldly existence
 
-(82) Formerly, when Kṛṣṇa descended in Vraja, He cut off the worldly existence of all the *jīvas* in the universe.
+(82) Formerly, when Kṛṣṇa descended in Vraja, He cut off the worldly existence of all the jīvas in the universe.
 
 ন চৈবং বিস্ময়ঃ কার্য্যো ভবতা ভগবত্যজে ৷  
 যোগেশ্বরেশ্বরে কৃষ্ণে যত এতদ্বিমুচ্যতে ॥ ৮৩ ॥
@@ -875,7 +875,7 @@ about the Lord of the lords of yoga  Kṛṣṇa
 yata etad vimucyate  
 from whom  this (world)  is liberated
 
-(83) “There should be no wonder at such deeds of Kṛṣṇa, the unborn Bhagavān, the Lord of the lords of *yoga*; for by Him this whole world, moving and unmoving, is set free.” (Śrīmad-Bhāgavatam, 10.29.16)[^16]
+(83) “There should be no wonder at such deeds of Kṛṣṇa, the unborn Bhagavān, the Lord of the lords of yoga; for by Him this whole world, moving and unmoving, is set free.” (Śrīmad-Bhāgavatam, 10.29.16)[^16]
 
 অয়ং হি ভগবান্ দৃষ্টঃ কীর্ত্তিতঃ সংস্মৃতশ্চ  
 দ্বেষানুবন্ধেনাপ্যখিল-সুরাসুরাদিদুর্ল্লভং ফলং  
@@ -898,7 +898,7 @@ likewise  You  in Navadvīpa  making  descent
 sakala-brahmāṇḍa-jīvera karilā nistāra  
 of all  the universe’s  jīvas  You made  deliverance
 
-(85) Likewise, You have descended in Navadvīpa and delivered the *jīvas* of the whole universe.
+(85) Likewise, You have descended in Navadvīpa and delivered the jīvas of the whole universe.
 
 যে কহে, — চৈতন্য-মহিমা মোর গোচর হয় ৷  
 সে জানুক, মোর পুনঃ এই ত’ নিশ্চয় ॥ ৮৬ ॥
@@ -1191,7 +1191,7 @@ so long  you  sitting  listen  the name  saṅkīrtana
 nāma samāpta haile karimu ye tomāra mana  
 the name  finished  when it is  I shall do  what  your  mind (desires)
 
-(113–114) Haridāsa said, “I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to the *saṅkīrtana* of the name. When my chanting is finished, I shall do as you wish.”
+(113–114) Haridāsa said, “I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to the saṅkīrtana of the name. When my chanting is finished, I shall do as you wish.”
 
 এত শুনি’ সেই বেশ্যা বসিয়া রহিলা ৷  
 কীর্ত্তন করে হরিদাস প্রাতঃকাল হৈলা ॥ ১১৫ ॥
@@ -1251,7 +1251,7 @@ until then  here  sitting  listen  of the name  saṅkīrtana
 nāma pūrṇa haile, pūrṇa habe tomāra mana  
 the name  complete  when it is  fulfilled  will be  your  mind
 
-(120) Until then, sit here and listen to the *saṅkīrtana* of the name. When the name is complete, your heart too will be fulfilled.”
+(120) Until then, sit here and listen to the saṅkīrtana of the name. When the name is complete, your heart too will be fulfilled.”
 
 তুলসীরে তবে বেশ্যা নমস্কার করি’ ৷  
 দ্বারে বসি’ নাম শুনে বলে ‘হরি’ ‘হরি’ ॥ ১২১ ॥
