@@ -26,7 +26,7 @@ tr: Gaura descended to deliver all the worlds, and the means by which He deliver
 ## 4
 w: direct  sight  and  in a worthy  devotee-soul
 w: ‘entering’  He makes  somewhere  somewhere  by ‘appearing’
-tr: To some He granted the sight of Himself in person; in some places He made His ‘āveśa’, entering a worthy devotee; and in others His ‘āvirbhāva’, appearing before a devotee.
+tr: To some He granted the sight of Himself in person; in some places He entered a worthy devotee (‘āveśa’), and in others He appeared (‘āvirbhāva’).
 fn: The three means: direct sight (*sākṣāt-darśana*), entering (*āveśa*) and appearance (*āvirbhāva*). The Gauḍīya Maṭha edition reads *kāṅhā, kāṅhā*, “in some places… in others”. The edition’s heading: (1) direct darśana, (2) entering (*āveśa*) a worthy soul, (3) appearance (*āvirbhāva*). *Amṛta-pravāha-bhāṣya*: to one the Lord grants direct darśana, into another worthy devotee He enters, and to yet another He appears.
 
 ## 5
@@ -37,7 +37,7 @@ tr: By being seen in person He delivered almost everyone; and He ‘entered’ t
 ## 6
 w: of Pradyumna Nṛsiṁhānanda  before  He made  ‘appearance’
 w: ‘the people  I shall deliver’  —  this  of the Lord  the nature
-tr: To Pradyumna Nṛsiṁhānanda He made His ‘āvirbhāva’, appearing before him. “I shall deliver the people” — such is the Lord’s nature.
+tr: Before Pradyumna Nṛsiṁhānanda He appeared (‘āvirbhāva’). “I shall deliver the people” — such is the Lord’s nature.
 
 ## 7
 w: by direct  sight  the whole  world  He delivered
@@ -73,7 +73,7 @@ tr: In this way, by being seen, He delivered the three worlds. But there were ma
 ## 13
 w: them  all  to deliver  the Lord  in those  all  lands
 w: in the bodies of worthy devotee-souls  makes  ‘entering’
-tr: To deliver them, in all those lands the Lord made His ‘āveśa’, entering the bodies of worthy devotees.
+tr: To deliver them, in all those lands the Lord entered the bodies of worthy devotees.
 
 ## 14
 w: in that  soul  His own power  makes  manifest
@@ -95,7 +95,7 @@ fn: *Amṛta-pravāha-bhāṣya*: a *muluk* was a district with a revenue office
 ## 17
 w: of Gauḍa  the people  to deliver  the wish  arose
 w: in Nakula’s  heart  the Lord  ‘entering’  made
-tr: Wishing to deliver the people of Gauḍa, the Lord made His ‘āveśa’ in Nakula’s heart.
+tr: Wishing to deliver the people of Gauḍa, the Lord entered Nakula’s heart.
 
 ## 18
 w: as if possessed by a spirit  Nakula  by prema  overwhelmed  being
@@ -174,14 +174,14 @@ tr: Then conviction arose in Śivānanda’s mind, and he showed him great respe
 ## 33
 w: such  Mahāprabhu’s  inconceivable  power
 w: now  hear  the Lord’s  how  takes place  ‘appearance’
-tr: Such is the inconceivable power of Mahāprabhu. Now hear how the Lord makes His ‘āvirbhāva’, His appearance.
+tr: Such is the inconceivable power of Mahāprabhu. Now hear how the Lord appears (‘āvirbhāva’).
 
 ## 34–35
 w: in Śacī’s  house  and  at Nityānanda’s  dancing
 w: at Śrīvāsa’s  kīrtana  and  in Rāghava’s  home
 w: in these  four  places  the Lord’s  always  ‘appearance’
 w: by prema drawn  He is  —  the Lord’s  innate  nature
-tr: In Śacī’s house, at Nityānanda’s dancing, at Śrīvāsa’s kīrtana and in Rāghava’s home — in these four places the Lord always makes His ‘āvirbhāva’. He is drawn by prema: that is the Lord’s innate nature.
+tr: In Śacī’s house, at Nityānanda’s dancing, at Śrīvāsa’s kīrtana and in Rāghava’s home — in these four places the Lord always appears. He is drawn by prema: that is the Lord’s innate nature.
 
 ## 36
 w: of Nṛsiṁhānanda  before  appearing
@@ -251,7 +251,7 @@ tr: Unexpectedly Nṛsiṁhānanda arrived there. The two of them received him a
 ## 49
 w: the two  unhappy  seeing  to them  says  Nṛsiṁhānanda
 w: you  both  why  I see  joyless
-tr: Seeing them both unhappy, Nṛsiṁhānanda said to them, “Why do I see you both so joyless?”
+tr: Seeing them unhappy, Nṛsiṁhānanda asked, “Why do I see you both so joyless?”
 
 ## 50
 w: then  Śivānanda  to him  everything  told
@@ -291,7 +291,7 @@ tr: Then I shall quickly bring Him here. I tell you this with certainty — have
 ## 57
 w: what  I require  that  do  being  prompt
 w: very  quickly  I shall do  cooking  hear  further
-tr: Whatever I require, provide it promptly. I shall cook very quickly. Listen further.
+tr: Whatever I require, provide it promptly; I must cook very quickly. Hear me further:
 
 ## 58
 w: cooking  provisions  bring  I  what  want
@@ -408,12 +408,12 @@ tr: In the same way He constantly takes His meals in Śacī’s house, and in Ś
 ## 80
 w: Nityānanda’s  dancing  He watches  coming  again and again
 w: ‘constant  appearance’  in Rāghava’s  house
-tr: Again and again He comes to watch Nityānanda’s dancing, and in Rāghava’s house His ‘āvirbhāva’ is constant.
+tr: Again and again He comes to watch Nityānanda’s dancing, and in Rāghava’s house He is ever present.
 
 ## 81
 w: by prema controlled  Gaura Prabhu  where  the highest prema
 w: by prema  controlled  being  there  He gives  His sight
-tr: Gaura Prabhu is controlled by prema: wherever there is the highest prema, there, controlled by it, He gives His darśana.
+tr: Gaura Prabhu is controlled by prema: wherever there is the highest prema, He yields to it and gives His darśana.
 
 ## 82
 w: Śivānanda’s  the extent of prema  who  to tell  can

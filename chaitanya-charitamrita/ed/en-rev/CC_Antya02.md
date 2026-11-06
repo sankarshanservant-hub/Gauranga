@@ -48,7 +48,7 @@ direct  sight  and  in a worthy  devotee-soul
 ‘āveśa’ karaye kām̐hā, kām̐hā ‘āvirbhāve’  
 ‘entering’  He makes  somewhere  somewhere  by ‘appearing’
 
-(4) To some He granted the sight of Himself in person; in some places He made His ‘āveśa’, entering a worthy devotee; and in others His ‘āvirbhāva’, appearing before a devotee.[^2]
+(4) To some He granted the sight of Himself in person; in some places He entered a worthy devotee (‘āveśa’), and in others He appeared (‘āvirbhāva’).[^2]
 
 সাক্ষাৎ দর্শনে প্রায় সব নিস্তারিলা ৷  
 নকুল-ব্রহ্মচারীর দেহে ‘আবিষ্ট’ হইলা ॥ ৫ ॥
@@ -68,7 +68,7 @@ of Pradyumna Nṛsiṁhānanda  before  He made  ‘appearance’
 ‘loka nistāriba’, — ei īśvara-svabhāva  
 ‘the people  I shall deliver’  —  this  of the Lord  the nature
 
-(6) To Pradyumna Nṛsiṁhānanda He made His ‘āvirbhāva’, appearing before him. “I shall deliver the people” — such is the Lord’s nature.
+(6) Before Pradyumna Nṛsiṁhānanda He appeared (‘āvirbhāva’). “I shall deliver the people” — such is the Lord’s nature.
 
 সাক্ষাৎ-দর্শনে সব জগৎ তারিলা ৷  
 একবার যে দেখিলা, সে কৃতার্থ হইলা ॥ ৭ ॥
@@ -138,7 +138,7 @@ them  all  to deliver  the Lord  in those  all  lands
 yogya-bhakta-jīvadehe karena ‘āveśe’  
 in the bodies of worthy devotee-souls  makes  ‘entering’
 
-(13) To deliver them, in all those lands the Lord made His ‘āveśa’, entering the bodies of worthy devotees.
+(13) To deliver them, in all those lands the Lord entered the bodies of worthy devotees.
 
 সেই জীবে নিজ-শক্তি করেন প্রকাশে ৷  
 তাহার দর্শনে ‘বৈষ্ণব’ হয় সর্ব্বদেশে ॥ ১৪ ॥
@@ -178,7 +178,7 @@ of Gauḍa  the people  to deliver  the wish  arose
 nakula-hṛdaye prabhu ‘āveśa’ karila  
 in Nakula’s  heart  the Lord  ‘entering’  made
 
-(17) Wishing to deliver the people of Gauḍa, the Lord made His ‘āveśa’ in Nakula’s heart.
+(17) Wishing to deliver the people of Gauḍa, the Lord entered Nakula’s heart.
 
 গ্রহগ্রস্তপ্রায় নকুল প্রেমাবিষ্ট হঞা ৷  
 হাসে, কান্দে, নাচে, গায় উন্মত্ত হঞা ॥ ১৮ ॥
@@ -335,7 +335,7 @@ such  Mahāprabhu’s  inconceivable  power
 ebe śuna prabhura yaiche haya ‘āvirbhāva’  
 now  hear  the Lord’s  how  takes place  ‘appearance’
 
-(33) Such is the inconceivable power of Mahāprabhu. Now hear how the Lord makes His ‘āvirbhāva’, His appearance.
+(33) Such is the inconceivable power of Mahāprabhu. Now hear how the Lord appears (‘āvirbhāva’).
 
 শচীর মন্দিরে, আর নিত্যানন্দ-নর্ত্তনে ৷  
 শ্রীবাস-কীর্ত্তনে, আর রাঘব-ভবনে ॥ ৩৪ ॥
@@ -352,7 +352,7 @@ in these  four  places  the Lord’s  always  ‘appearance’
 premākṛṣṭa haya, — prabhura sahaja-svabhāva  
 by prema drawn  He is  —  the Lord’s  innate  nature
 
-(34–35) In Śacī’s house, at Nityānanda’s dancing, at Śrīvāsa’s kīrtana and in Rāghava’s home — in these four places the Lord always makes His ‘āvirbhāva’. He is drawn by prema: that is the Lord’s innate nature.
+(34–35) In Śacī’s house, at Nityānanda’s dancing, at Śrīvāsa’s kīrtana and in Rāghava’s home — in these four places the Lord always appears. He is drawn by prema: that is the Lord’s innate nature.
 
 নৃসিংহানন্দের আগে আবির্ভূত হঞা ৷  
 ভোজন করিলা, তাহা শুন মন দিয়া ॥ ৩৬ ॥
@@ -492,7 +492,7 @@ the two  unhappy  seeing  to them  says  Nṛsiṁhānanda
 tomā dum̐hākāre kene dekhi nirānanda?  
 you  both  why  I see  joyless
 
-(49) Seeing them both unhappy, Nṛsiṁhānanda said to them, “Why do I see you both so joyless?”
+(49) Seeing them unhappy, Nṛsiṁhānanda asked, “Why do I see you both so joyless?”
 
 তবে শিবানন্দ তাঁরে সকল কহিলা ৷  
 আসিব আজ্ঞা দিয়া প্রভু কেনে না আইলা ? ॥ ৫০ ॥
@@ -572,7 +572,7 @@ what  I require  that  do  being  prompt
 ati tvarāya kariba pāka, śuna ataḥpara  
 very  quickly  I shall do  cooking  hear  further
 
-(57) Whatever I require, provide it promptly. I shall cook very quickly. Listen further.
+(57) Whatever I require, provide it promptly; I must cook very quickly. Hear me further:
 
 পাক-সামগ্রী আনহ, আমি যাহা চাই ৷  
 যে মাগিল, শিবানন্দ আনি’ দিলা তাই ॥ ৫৮ ॥
@@ -802,7 +802,7 @@ Nityānanda’s  dancing  He watches  coming  again and again
 ‘nirantara āvirbhāva’ rāghavera ghare  
 ‘constant  appearance’  in Rāghava’s  house
 
-(80) Again and again He comes to watch Nityānanda’s dancing, and in Rāghava’s house His ‘āvirbhāva’ is constant.
+(80) Again and again He comes to watch Nityānanda’s dancing, and in Rāghava’s house He is ever present.
 
 প্রেমবশ গৌরপ্রভু, যাঁহা প্রেমোত্তম ৷  
 প্রেমবশ হঞা তাঁহা দেন দরশন ॥ ৮১ ॥
@@ -812,7 +812,7 @@ by prema controlled  Gaura Prabhu  where  the highest prema
 prema-vaśa hañā tām̐hā dena daraśana  
 by prema  controlled  being  there  He gives  His sight
 
-(81) Gaura Prabhu is controlled by prema: wherever there is the highest prema, there, controlled by it, He gives His darśana.
+(81) Gaura Prabhu is controlled by prema: wherever there is the highest prema, He yields to it and gives His darśana.
 
 শিবানন্দের প্রেমসীমা কে কহিতে পারে ?  
 যাঁর প্রেমে বশ প্রভু আইসে বারে বারে ॥ ৮২ ॥
@@ -1683,7 +1683,7 @@ His own compassion,  to the people  the teaching of renunciation
 svabhaktera gāḍha-anurāga-prakaṭīkaraṇa  
 of His own devotee  of the deep love  the revealing
 
-(168) In this pastime the Lord showed His compassion, taught the world renunciation and revealed the deep love of His own devotee;[^24]
+(168) In this pastime the Lord showed His compassion, taught the world renunciation and revealed the deep love of His own devotee.[^24]
 
 তীর্থের মহিমা, নিজ-ভক্তে আত্মসাৎ ৷  
 এক লীলায় করেন প্রভু কার্য্য পাঁচ-সাত ॥ ১৬৯ ॥
