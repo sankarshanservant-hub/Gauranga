@@ -328,6 +328,90 @@ While chanting the holy name of Hari, Haridāsa's mind was always absorbed in th
 
 > Subheading: Māyā reveals who she is —
 
+## 249
+
+> Subheading: Māyā admits her defeat —
+
+Māyā-devī bewilders every living being of every kind, from Brahmā down to a blade of grass (*ābrahma-stamba*) — that is, beginning with Brahmā: the demigods, humans, beasts, birds and other creatures (*tiryak*), down to the immobile beings. She makes them feel that they are her “enjoyers” (*bhoktā*) and that she is their “object of enjoyment” (*bhogyā*). But the mood in Haridāsa's heart — wholly given to serving Kṛṣṇa and pleasing Kṛṣṇa's senses — was in no way overcome by Māyā's deceitful temptations. Like Haridāsa, all pure Vaiṣṇavas hold this Vedāntic conviction: the pure devotee eternally exists for Kṛṣṇa's enjoyment and is never an enjoyer of Māyā. He is an eternal entity of Vaikuṇṭha, beyond the senses (*adhokṣaja*) and beyond the *guṇas* — that is, transcendental (*aprākṛta*). And the *jīva* is freed from Māyā's power, from *anarthas*, when he gives up the misapprehension (*vivarta*) of identifying himself with the body and knows himself to be a servant of Kṛṣṇa, a Vaiṣṇava — that is, as the fruit of service to Adhokṣaja.
+
+## 250
+
+> Subheading: Praise and prayers to the Ṭhākura —
+
+## 251
+
+> Subheading: Māyā begs for the Ṭhākura's mercy —
+
+## 252
+
+> Subheading: Without cultivating devotion to Kṛṣṇa under the shelter of Caitanya, who descended out of causeless mercy, the *jīva* is no better than dull matter —
+
+## 253
+
+One *mahā-yuga* is 4,320,000 solar years; a thousand such *mahā-yugas* make one *kalpa*. A *koṭi-kalpa* is a span of time a *koṭi* (ten million) times as long.
+
+## 254
+
+> Subheading: Earlier Māyā received from Śambhu, the conqueror of Madana, the name of Rāma — the *tāraka-brahma* —
+
+## 255
+
+> Subheading: How the glory of “the name of Rāma” differs from that of “the name of Kṛṣṇa” —
+
+## 256
+
+> Subheading: Māyā begs for initiation into the *mahā-mantra* — the name of Kṛṣṇa — and for love of Kṛṣṇa —
+
+## 257
+
+> Subheading: Māyā-devī falls prostrate before the Ṭhākura, and the Ṭhākura initiates her into the *mahā-mantra* — the name of Kṛṣṇa —
+
+## 258
+
+> Subheading: Māyā departs —
+
+## 259
+
+> Subheading: In transcendental events only transcendental faith leads to the highest good —
+
+## 260
+
+> Subheading: When Caitanya, the giver of love of Kṛṣṇa, descended, the demigods, sages and others — and even the eternally perfect devotees — took birth in human form to attain love of Kṛṣṇa, and attained it —
+
+## 262
+
+> Subheading: Lakṣmī and others also taste love of Kṛṣṇa in human form —
+
+## 263
+
+> Subheading: Kṛṣṇa Himself tastes the love of His own sweetness (*mādhurya*) —
+
+## 264
+
+> Subheading: Even Māyā-devī longs to taste love of Kṛṣṇa; love of Kṛṣṇa is attained only by the mercy of the pure name and of one who chants the pure name —
+
+## 265
+
+> Subheading: With Caitanya's descent, the souls of the whole world attain love of Kṛṣṇa —
+
+## 266
+
+> Subheading: By the power of *kīrtana* of Kṛṣṇa, all the forms of God (*īśa-tattva*), beginning with Bhagavān Śrī Kṛṣṇa Himself, and all *jīvas*, immobile and mobile, become maddened with love of Kṛṣṇa —
+
+## 267
+
+> Subheading: The author describes these pastimes by the path of *śrauta* — as he heard them from the mouth of the guru —
+
+## 268
+
+> Subheading: The author speaks of his own humility —
+
+## 269
+
+> Subheading: Pure devotees rejoice to hear the glory of the Ṭhākura, the *ācārya* of the holy name —
+
+*Thus ends the third chapter of the “Anubhāṣya.”*
+
 ---
 
 [^179-1]: *Hari-bhakti-vilāsa* 2.9; also quoted in *Bhakti-sandarbha* 283.
