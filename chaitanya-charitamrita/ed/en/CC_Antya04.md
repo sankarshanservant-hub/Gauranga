@@ -412,179 +412,225 @@ to take back  not  I can  my head  I feel  great  pain
 জন্মে জন্মে সেবোঁ রঘুনাথের চরণ ॥ ৪১ ॥
 
 kṛpā kari’ more ājñā deha’ dui-jana  
-janme janme sevoṅ raghunāthera caraṇa
+mercy  doing  to me  permission  give  you two  
+janme janme sevoṅ raghunāthera caraṇa  
+birth  after birth  may I serve  of Raghunātha  the feet
 
-(41) [not yet translated]
+(41) Be merciful, both of you, and give me leave to serve the feet of Raghunātha birth after birth.
 
 রঘুনাথের পাদপদ্ম ছাড়ান না যায় ৷  
 ছাড়িবার মন হৈলে প্রাণ ফাটি’ যায় ॥ ৪২ ॥
 
 raghunāthera pāda-padma chāḍāna nā yāya  
-chāḍibāra mana haile prāṇa phāṭi’ yāya
+of Raghunātha  the lotus feet  to give up  not  is possible  
+chāḍibāra mana haile prāṇa phāṭi’ yāya  
+of giving up  the thought  when it comes  my life  bursting  goes
 
-(42) [not yet translated]
+(42) I cannot give up the lotus feet of Raghunātha; at the very thought of giving them up, my heart breaks.’
 
 তবে আমি-দুঁহে তারে আলিঙ্গন কৈলুঁ ৷  
 সাধু, দৃঢ়ভক্তি তোমার — কহি’ প্রশংসিলুঁ ॥ ৪৩ ॥
 
 tabe āmi-duṅhe tāre āliṅgana kailuṅ  
-sādhu, dṛḍha-bhakti tomāra — kahi’ praśaṁsiluṅ
+then  we two  him  embrace  made  
+sādhu, dṛḍha-bhakti tomāra — kahi’ praśaṁsiluṅ  
+excellent  firm devotion  your  saying  we praised
 
-(43) [not yet translated]
+(43) Then the two of us embraced him and praised him, saying, ‘Excellent! Your devotion is firm.’
 
 যে বংশের উপরে তোমার হয় কৃপা-লেশ ৷  
 সকল মঙ্গল তাহে খণ্ডে সব ক্লেশ ॥ ৪৪ ॥
 
 ye vaṁśera upare tomāra haya kṛpā-leśa  
-sakala maṅgala tāhe khaṇḍe saba kleśa
+which  family  upon  Your  there is  a trace of mercy  
+sakala maṅgala tāhe khaṇḍe saba kleśa  
+all  auspiciousness  in it  are cut away  all  troubles
 
-(44) [not yet translated]
+(44) The family upon which there is even a trace of Your mercy has every blessing, and all its troubles are cut away.”
 
 গোসাঞি কহেন, — এইমত মুরারি-গুপ্ত ৷  
 পূর্ব্বে আমি পরীক্ষিলুঁ তার এই রীত ॥ ৪৫ ॥
 
 gosāñi kahena, — ei-mata murāri-gupta  
-pūrve āmi parīkṣiluṅ tāra ei rīta
+the Lord  says  in this way  Murāri Gupta  
+pūrve āmi parīkṣiluṅ tāra ei rīta  
+before  I  tested  his  this  way
 
-(45) [not yet translated]
+(45) The Lord said, “In the same way I once tested Murāri Gupta; this was his way too.
 
 সেই ভক্ত ধন্য, যে না ছাড়ে প্রভুর চরণ ৷  
 সেই প্রভু ধন্য, যে না ছাড়ে নিজ-জন ॥ ৪৬ ॥
 
 sei bhakta dhanya, ye nā chāḍe prabhura caraṇa  
-sei prabhu dhanya, ye nā chāḍe nija-jana
+that  devotee  blessed  who  not  leaves  of the master  the feet  
+sei prabhu dhanya, ye nā chāḍe nija-jana  
+that  master  blessed  who  not  leaves  his own people
 
-(46) [not yet translated]
+(46) Blessed is the devotee who does not leave the feet of his master, and blessed is the master who does not abandon his own.
 
 দুর্দ্দৈবে সেবক যদি যায় অন্য-স্থানে ৷  
 সেই ঠাকুর ধন্য তারে চুলে ধরি’ আনে ॥ ৪৭ ॥
 
 durdaive sevaka yadi yāya anya-sthāne  
-sei ṭhākura dhanya tāre cule dhari’ āne
+by misfortune  a servant  if  goes  to another place  
+sei ṭhākura dhanya tāre cule dhari’ āne  
+that  master  blessed  him  by the hair  seizing  brings back
 
-(47) [not yet translated]
+(47) If by misfortune a servant goes elsewhere, blessed is the master who seizes him by the hair and brings him back.
 
 ভাল হৈল, তোমার ইঁহা হৈল আগমনে ৷  
 এই ঘরে রহ ইঁহা হরিদাস সনে ॥ ৪৮ ॥
 
 bhāla haila, tomāra iṅhā haila āgamane  
-ei ghare raha iṅhā haridāsa sane
+good  it was  your  here  took place  coming  
+ei ghare raha iṅhā haridāsa sane  
+in this  house  stay  here  Haridāsa  with
 
-(48) [not yet translated]
+(48) It is good that you have come here. Stay here in this house with Haridāsa.
 
 কৃষ্ণভক্তিরসে দুঁহে পরম প্রধান ৷  
 কৃষ্ণরস আস্বাদন কর, লহ কৃষ্ণনাম ॥ ৪৯ ॥
 
 kṛṣṇa-bhakti-rase duṅhe parama pradhāna  
-kṛṣṇa-rasa āsvādana kara, laha kṛṣṇa-nāma
+in the rasa of devotion to Kṛṣṇa  you both  supremely  foremost  
+kṛṣṇa-rasa āsvādana kara, laha kṛṣṇa-nāma  
+Kṛṣṇa’s rasa  relishing  do  take  Kṛṣṇa’s Name
 
-(49) [not yet translated]
+(49) You are both supremely eminent in the *rasa* of devotion to Kṛṣṇa. Relish the *rasa* of Kṛṣṇa and chant the Name of Kṛṣṇa.”
 
 এত বলি’ মহাপ্রভু উঠিয়া চলিলা ৷  
 গোবিন্দ-দ্বারায় দুঁহে প্রসাদ পাঠাইলা ॥ ৫০ ॥
 
 eta bali’ mahāprabhu uṭhiyā calilā  
-govinda-dvārāya duṅhe prasāda pāṭhāilā
+so  saying  Mahāprabhu  rising  departed  
+govinda-dvārāya duṅhe prasāda pāṭhāilā  
+through Govinda  to both  prasāda  He sent
 
-(50) [not yet translated]
+(50) Having said this, Mahāprabhu rose and left, and He sent *prasāda* to both of them through Govinda.
 
 এইমত সনাতন রহে প্রভু-স্থানে ৷  
 জগন্নাথের চক্র দেখি’ করেন প্রণামে ॥ ৫১ ॥
 
 ei-mata sanātana rahe prabhu-sthāne  
-jagannāthera cakra dekhi’ karena praṇāme
+in this way  Sanātana  stays  near the Lord  
+jagannāthera cakra dekhi’ karena praṇāme  
+of Jagannātha  the wheel  seeing  makes  obeisance
 
-(51) [not yet translated]
+(51) Thus Sanātana stayed near the Lord. Seeing the wheel (the Nīla-cakra) atop Jagannātha’s temple, he would bow down.
 
 প্রভু আসি’ প্রতিদিন মিলেন দুইজনে ৷  
 ইষ্টগোষ্ঠী, কৃষ্ণকথা কহে কতক্ষণে ॥ ৫২ ॥
 
 prabhu āsi’ prati-dina milena dui-jane  
-iṣṭa-goṣṭhī, kṛṣṇa-kathā kahe kata-kṣaṇe
+the Lord  coming  every day  meets  the two  
+iṣṭa-goṣṭhī, kṛṣṇa-kathā kahe kata-kṣaṇe  
+intimate discussion  talks of Kṛṣṇa  speaks  for some time
 
-(52) [not yet translated]
+(52) Every day the Lord came and met them both, and for a while He spoke intimately with them about Kṛṣṇa.
 
 দিব্য প্রসাদ পাঞা নিত্য জগন্নাথ-মন্দিরে ৷  
 তাহা আনি’ নিত্য অবশ্য দেন দোঁহাকারে ॥ ৫৩ ॥
 
 divya prasāda pāñā nitya jagannātha-mandire  
-tāhā āni’ nitya avaśya dena doṅhākāre
+divine  prasāda  receiving  daily  in Jagannātha’s temple  
+tāhā āni’ nitya avaśya dena doṅhākāre  
+that  bringing  daily  without fail  gives  to both
 
-(53) [not yet translated]
+(53) Every day He received the divine *prasāda* in the temple of Jagannātha, and every day without fail He brought it and gave it to them both.
 
 একদিন আসি’ প্রভু দুঁহারে মিলিলা ৷  
 সনাতনে আচম্বিতে কহিতে লাগিলা ॥ ৫৪ ॥
 
 ekadina āsi’ prabhu duṅhāre mililā  
-sanātane ācambite kahite lāgilā
+one day  coming  the Lord  the two  met  
+sanātane ācambite kahite lāgilā  
+to Sanātana  suddenly  to speak  began
 
-(54) [not yet translated]
+(54) One day the Lord came and met them both, and suddenly began to speak to Sanātana:
 
 সনাতন, দেহত্যাগে কৃষ্ণ যদি পাইয়ে ৷  
 কোটি-দেহ ক্ষণেকে তবে ছাড়িতে পারিয়ে ॥ ৫৫ ॥
 
 sanātana, deha-tyāge kṛṣṇa yadi pāiye  
-koṭi-deha kṣaṇeke tabe chāḍite pāriye
+Sanātana  by giving up the body  Kṛṣṇa  if  one obtains  
+koṭi-deha kṣaṇeke tabe chāḍite pāriye  
+millions of bodies  in a moment  then  to give up  one could
 
-(55) [not yet translated]
+(55) “Sanātana, if Kṛṣṇa could be attained by giving up the body, I would give up millions of bodies in a moment.
 
 দেহত্যাগে কৃষ্ণ না পাই, পাইয়ে ভজনে ৷  
 কৃষ্ণপ্রাপ্ত্যের উপায় কোন নাহি ‘ভক্তি’ বিনে ॥ ৫৬ ॥
 
 deha-tyāge kṛṣṇa nā pāi, pāiye bhajane  
-kṛṣṇa-prāptyera upāya kona nāhi ‘bhakti’ vine
+by giving up the body  Kṛṣṇa  not  one obtains  one obtains  by worship  
+kṛṣṇa-prāptyera upāya kona nāhi ‘bhakti’ vine  
+of attaining Kṛṣṇa  means  any  there is not  ‘devotion’  without
 
-(56) [not yet translated]
+(56) One does not attain Kṛṣṇa by giving up the body; one attains Him by worship. There is no means of attaining Kṛṣṇa except *bhakti*.
 
 দেহত্যাগাদি যত, সব — তমো-ধর্ম্ম ৷  
 তমো-রজো-ধর্ম্মে কৃষ্ণের না পাইয়ে মর্ম্ম ॥ ৫৭ ॥
 
 deha-tyāgādi yata, saba — tamo-dharma  
-tamo-rajo-dharme kṛṣṇera nā pāiye marma
+giving up the body and the like  whatever  all  the nature of darkness  
+tamo-rajo-dharme kṛṣṇera nā pāiye marma  
+by the ways of darkness and passion  of Kṛṣṇa  not  one obtains  the essence
 
-(57) [not yet translated]
+(57) Giving up the body and all such acts are of the nature of darkness (*tamo-dharma*); through the ways of darkness and passion one cannot grasp the essence of Kṛṣṇa.
 
 ‘ভক্তি’ বিনা কৃষ্ণে কভু নহে ‘প্রেমোদয়’ ৷  
 প্রেম বিনা কৃষ্ণপ্রাপ্তি অন্য হৈতে নয় ॥ ৫৮ ॥
 
 ‘bhakti’ vinā kṛṣṇe kabhu nahe ‘premodaya’  
-prema vinā kṛṣṇa-prāpti anya haite naya
+‘devotion’  without  for Kṛṣṇa  ever  not  ‘love’s awakening’  
+prema vinā kṛṣṇa-prāpti anya haite naya  
+love  without  attainment of Kṛṣṇa  anything else  from  is not
 
-(58) [not yet translated]
+(58) Without *bhakti*, love for Kṛṣṇa never awakens; and without love, Kṛṣṇa is not attained by any other means.
 
 ন সাধয়তি মাং যোগো ন সাংখ্যং ধর্ম্ম উদ্ধব ৷  
 ন স্বাধ্যায়স্তপস্ত্যাগো যথা ভক্তির্মমোর্জ্জিতা ॥ ৫৯ ॥
 
 na sādhayati māṁ yogo  
+not  wins  Me  yoga  
 na sāṁkhyaṁ dharma uddhava  
+not  sāṅkhya  dharma  O Uddhava  
 na svādhyāyas tapas tyāgo  
-yathā bhaktir mamorjitā
+not  Vedic study  austerity  renunciation  
+yathā bhaktir mamorjitā  
+as  devotion  to Me  intense
 
-(59) [not yet translated]
+(59) (Śrī Kṛṣṇa said:) “O Uddhava, neither yoga nor sāṅkhya, neither dharma nor study of the Vedas, neither austerity nor renunciation can win Me as intense devotion to Me does.” (Śrīmad-Bhāgavatam, 11.14.20)
 
 দেহত্যাগাদি তমো-ধর্ম্ম — পাতক-কারণ ৷  
 সাধক না পায় তাতে কৃষ্ণের চরণ ॥ ৬০ ॥
 
 deha-tyāgādi tamo-dharma — pātaka-kāraṇa  
-sādhaka nā pāya tāte kṛṣṇera caraṇa
+giving up the body and the like  the nature of darkness  the cause of sin  
+sādhaka nā pāya tāte kṛṣṇera caraṇa  
+the practitioner  not  obtains  by that  of Kṛṣṇa  the feet
 
-(60) [not yet translated]
+(60) Giving up the body and the like are of the nature of darkness and a cause of sin; by them the *sādhaka* does not attain the feet of Kṛṣṇa.
 
 প্রেমী ভক্ত বিয়োগে চাহে দেহ ছাড়িতে ৷  
 প্রেমে কৃষ্ণ মিলে, সেহ না পারে মরিতে ॥ ৬১ ॥
 
 premī bhakta viyoge cāhe deha chāḍite  
-preme kṛṣṇa mile, seha nā pāre marite
+a loving  devotee  in separation  wishes  the body  to give up  
+preme kṛṣṇa mile, seha nā pāre marite  
+by love  Kṛṣṇa  is met  he  not  can  die
 
-(61) [not yet translated]
+(61) A loving devotee in separation wishes to give up his body; but by that very love he meets Kṛṣṇa, and he cannot die.
 
 গাঢ়ানুরাগের বিয়োগ না যায় সহন ৷  
 তাতে অনুরাগী বাঞ্ছে আপন মরণ ॥ ৬২ ॥
 
 gāḍhānurāgera viyoga nā yāya sahana  
-tāte anurāgī vāñche āpana maraṇa
+of deep attachment  the separation  not  can be  borne  
+tāte anurāgī vāñche āpana maraṇa  
+therefore  the one full of attachment  desires  his own  death
 
-(62) [not yet translated]
+(62) Separation in deep *anurāga* cannot be borne; therefore one who is full of *anurāga* longs for his own death.
 
 যস্যাঙ্ঘ্রিপঙ্কজরজঃস্নপনং মহান্তো  
 বাঞ্ছন্ত্য্ উমা-পতির্ ইবাত্ম-তমো-’পহত্যৈ ৷  
@@ -592,11 +638,15 @@ tāte anurāgī vāñche āpana maraṇa
 জহ্যাম্ অসূন্ ব্রত-কৃশাঞ্ ছত-জন্মভিঃ স্যাৎ ॥ ৬৩ ॥
 
 yasyāṅghri-paṅkaja-rajaḥ-snapanaṁ mahānto  
+whose  feet  lotus  in the dust  bathing  the great souls  
 vāñchanty umā-patir ivātma-tamo-’pahatyai  
+desire  Umā’s husband (Śiva)  like  their own  darkness  for dispelling  
 yarhy ambujākṣa na labheya bhavat-prasādaṁ  
-jahyām asūn vrata-kṛśāñ chata-janmabhiḥ syāt
+if  O lotus-eyed one  not  I obtain  Your  grace  
+jahyām asūn vrata-kṛśāñ chata-janmabhiḥ syāt  
+I shall give up  my life  by vows  emaciated  through a hundred births  it may be
 
-(63) [not yet translated]
+(63) (Rukmiṇī wrote to Kṛṣṇa:) “O lotus-eyed one, great souls like Umā’s lord (Śiva) long to bathe in the dust of Your lotus feet to dispel their own darkness. If I do not obtain Your grace, I shall give up my life, emaciated by vows, so that, even after a hundred births, it may be mine.” (Śrīmad-Bhāgavatam, 10.52.43)
 
 সিঞ্চাঙ্গ নস্ত্বদধরামৃতপূরকেণ  
 হাসাবলোক-কলগীতজ-হৃচ্ছয়াগ্নিম্ ৷  
@@ -604,43 +654,55 @@ jahyām asūn vrata-kṛśāñ chata-janmabhiḥ syāt
 ধ্যানেন যাম পদয়োঃ পদবীং সখে তে ॥ ৬৪ ॥
 
 siñcāṅga nas tvad-adharāmṛta-pūrakeṇa  
+sprinkle  O dear one  our  Your  lips’  nectar  with the flood  
 hāsāvaloka-kala-gīta-ja-hṛc-chayāgnim  
+smiling glance  sweet  song  born of  love’s desire  the fire  
 no ced vayaṁ viraha-jāgny-upayukta-dehā  
-dhyānena yāma padayoḥ padavīṁ sakhe te
+not  if  we  by the fire born of separation  consumed  bodies  
+dhyānena yāma padayoḥ padavīṁ sakhe te  
+by meditation  we shall go  of the feet  to the place  O friend  Your
 
-(64) [not yet translated]
+(64) (The *gopīs* said:) “O dear one, with the flood of nectar from Your lips quench the fire of love’s desire that Your smiling glances and sweet song have kindled in our hearts. Otherwise, O friend, our bodies consumed by the fire of separation, we shall reach the place of Your feet by meditation.” (Śrīmad-Bhāgavatam, 10.29.35)
 
 কুবুদ্ধি ছাড়িয়া কর শ্রবণ-কীর্ত্তন ৷  
 অচিরাৎ পাবে তবে কৃষ্ণপ্রেম-ধন ॥ ৬৫ ॥
 
 kubuddhi chāḍiyā kara śravaṇa-kīrtana  
-acirāt pābe tabe kṛṣṇa-prema-dhana
+wicked intelligence  giving up  do  hearing and chanting  
+acirāt pābe tabe kṛṣṇa-prema-dhana  
+soon  you will obtain  then  the treasure of love for Kṛṣṇa
 
-(65) [not yet translated]
+(65) Give up this wicked intelligence (*kubuddhi*) and engage in hearing and chanting; then you will soon obtain the treasure of love for Kṛṣṇa.
 
 নীচ-জাতি নহে কৃষ্ণভজনে অযোগ্য ৷  
 সৎকুল-বিপ্র নহে ভজনের যোগ্য ॥ ৬৬ ॥
 
 nīca-jāti nahe kṛṣṇa-bhajane ayogya  
-sat-kula-vipra nahe bhajanera yogya
+one of low birth  is not  for the worship of Kṛṣṇa  unfit  
+sat-kula-vipra nahe bhajanera yogya  
+a brāhmaṇa of good family  is not  for worship  fit
 
-(66) [not yet translated]
+(66) One of low birth is not unfit for the worship of Kṛṣṇa, nor is a *brāhmaṇa* of good family fit for it by that alone.
 
 যেই ভজে, সেই বড়, অভক্ত — হীন, ছার ৷  
 কৃষ্ণভজনে নাহি জাতি-কুলাদি-বিচার ॥ ৬৭ ॥
 
 yei bhaje, sei baḍa, abhakta — hīna, chāra  
-kṛṣṇa-bhajane nāhi jāti-kulādi-vicāra
+whoever  worships  he  is great  the non-devotee  low  contemptible  
+kṛṣṇa-bhajane nāhi jāti-kulādi-vicāra  
+in the worship of Kṛṣṇa  there is not  caste family and the like  consideration
 
-(67) [not yet translated]
+(67) Whoever worships is great; the non-devotee is low and contemptible. In the worship of Kṛṣṇa there is no consideration of caste, family and the like.
 
 দীনেরে অধিক দয়া করে ভগবান্ ৷  
 কুলীন, পণ্ডিত, ধনীর বড় অভিমান॥ ৬৮ ॥
 
 dīnere adhika dayā kare bhagavān  
-kulīna, paṇḍita, dhanīra baḍa abhimāna
+to the lowly  greater  kindness  shows  Bhagavān  
+kulīna, paṇḍita, dhanīra baḍa abhimāna  
+the high-born  the learned  the rich  great  pride
 
-(68) [not yet translated]
+(68) Bhagavān shows greater kindness to the lowly; the high-born, the learned and the rich have great pride.
 
 বিপ্রাদ্ দ্বি-ষড়্-গুণ-যুতাদ্ অরবিন্দ-নাভ- ৷  
 পাদারবিন্দ-বিমুখাৎ শ্ব-পচং বরিষ্ঠম্ ৷  
@@ -648,99 +710,125 @@ kulīna, paṇḍita, dhanīra baḍa abhimāna
 প্রাণং পুনাতি স কুলং ন তু ভূরি-মানঃ ॥ ৬৯ ॥
 
 viprād dvi-ṣaḍ-guṇa-yutād aravinda-nābha-  
+than a brāhmaṇa  twelve  qualities  endowed with  of the lotus-naveled Lord  
 pādāravinda-vimukhāt śva-pacaṁ variṣṭham  
+from the lotus feet  averse  a dog-eater  better  
 manye tad-arpita-mano-vacanehitārtha-  
-prāṇaṁ punāti sa kulaṁ na tu bhūri-mānaḥ
+I consider  to Him offered  mind  words  deeds  wealth  
+prāṇaṁ punāti sa kulaṁ na tu bhūri-mānaḥ  
+and life  purifies  he  his family  not  but  one full of pride
 
-(69) [not yet translated]
+(69) “I consider a dog-eater whose mind, words, deeds, wealth and very life are offered to the Lord of the lotus navel better than a brāhmaṇa endowed with the twelve qualities who has turned away from His lotus feet. Such a devotee purifies his whole family; the brāhmaṇa swollen with pride cannot.” (Śrīmad-Bhāgavatam, 7.9.10)
 
 ভজনের মধ্যে শ্রেষ্ঠ নববিধা ভক্তি ৷  
 ‘কৃষ্ণপ্রেম’, ‘কৃষ্ণ’ দিতে ধরে মহাশক্তি ॥ ৭০ ॥
 
 bhajanera madhye śreṣṭha nava-vidhā bhakti  
-‘kṛṣṇa-prema’, ‘kṛṣṇa’ dite dhare mahā-śakti
+of the forms of worship  among  the best  ninefold  devotion  
+‘kṛṣṇa-prema’, ‘kṛṣṇa’ dite dhare mahā-śakti  
+‘love for Kṛṣṇa’  ‘Kṛṣṇa’  to give  holds  great power
 
-(70) [not yet translated]
+(70) Among the forms of worship the best is the ninefold *bhakti*: it has great power to bestow love for Kṛṣṇa and Kṛṣṇa Himself.
 
 তার মধ্যে সর্ব্বশ্রেষ্ঠ নাম-সংকীর্ত্তন ৷  
 নিরপরাধে নাম লৈলে পায় প্রেমধন ॥ ৭১ ॥
 
 tāra madhye sarva-śreṣṭha nāma-saṁkīrtana  
-niraparādhe nāma laile pāya prema-dhana
+of them  among  the best of all  the chanting of the Name  
+niraparādhe nāma laile pāya prema-dhana  
+without offense  the Name  if one takes  obtains  the treasure of love
 
-(71) [not yet translated]
+(71) Of these the best of all is *nāma-saṅkīrtana*. One who chants the Name without offense obtains the treasure of love.”
 
 এত শুনি’ সনাতনের হৈল চমৎকার ৷  
 প্রভুরে না ভায় মোর মরণ-বিচার ॥ ৭২ ॥
 
 eta śuni’ sanātanera haila camatkāra  
-prabhure nā bhāya mora maraṇa-vicāra
+this  hearing  of Sanātana  there was  astonishment  
+prabhure nā bhāya mora maraṇa-vicāra  
+to the Lord  not  seems fit  my  resolve to die
 
-(72) [not yet translated]
+(72) Hearing this, Sanātana was astonished: “My resolve to give up my body does not please the Lord.
 
 সর্ব্বজ্ঞ মহাপ্রভু নিষেধিলা মোরে ৷  
 প্রভুর চরণ ধরি’ কহেন তাঁহারে ॥ ৭৩ ॥
 
 sarvajña mahāprabhu niṣedhilā more  
-prabhura caraṇa dhari’ kahena tāṅhāre
+the omniscient  Mahāprabhu  has forbidden  me  
+prabhura caraṇa dhari’ kahena tāṅhāre  
+of the Lord  the feet  clasping  he says  to Him
 
-(73) [not yet translated]
+(73) The all-knowing Mahāprabhu has forbidden me.” Clasping the Lord’s feet, he said to Him:
 
 সর্ব্বজ্ঞ, কৃপালু তুমি — ঈশ্বর স্বতন্ত্র ৷  
 যৈছে নাচাও, তৈছে নাচি, — যেন কাষ্ঠযন্ত্র ॥ ৭৪ ॥
 
 sarvajña, kṛpālu tumi — īśvara svatantra  
-yaiche nācāo, taiche nāci, — yena kāṣṭha-yantra
+omniscient  merciful  You  the Lord  independent  
+yaiche nācāo, taiche nāci, — yena kāṣṭha-yantra  
+as  You make dance  so  I dance  like  a wooden puppet
 
-(74) [not yet translated]
+(74) “You are all-knowing and merciful — the independent Lord. As You make me dance, so I dance, like a wooden puppet.
 
 নীচ, অধম, পামর মুঞি পামর-স্বভাব ৷  
 মোরে জিয়াইলে তোমার কিবা হবে লাভ ? ॥ ৭৫ ॥
 
 nīca, adhama, pāmara muñi pāmara-svabhāva  
-more jiyāile tomāra kibā habe lābha?
+low  fallen  wretched  I  wretched by nature  
+more jiyāile tomāra kibā habe lābha?  
+me  if You keep alive  Your  what  will be  gain
 
-(75) [not yet translated]
+(75) I am low, fallen and wretched, wretched by nature. What will You gain by keeping me alive?”
 
 প্রভু কহে, — তোমার দেহ মোর নিজ-ধন ৷  
 তুমি মোরে কৈরাছ আত্মসমর্পণ ॥ ৭৬ ॥
 
 prabhu kahe, — tomāra deha mora nija-dhana  
-tumi more kairācha ātma-samarpaṇa
+the Lord  says  your  body  My  own property  
+tumi more kairācha ātma-samarpaṇa  
+you  to Me  have made  self-surrender
 
-(76) [not yet translated]
+(76) The Lord said, “Your body is My own property, for you have surrendered yourself to Me.
 
 পরের দ্রব্য তুমি কেনে চাহ বিনাশিতে ?  
 ধর্ম্মাধর্ম্ম বিচার কিবা না পার করিতে ? ॥ ৭৭ ॥
 
 parera dravya tumi kene cāha vināśite?  
-dharmādharma vicāra kibā nā pāra karite?
+another’s  property  you  why  wish  to destroy  
+dharmādharma vicāra kibā nā pāra karite?  
+right and wrong  discrimination  is it that  not  you can  make
 
-(77) [not yet translated]
+(77) Why do you wish to destroy another’s property? Can you not discern right from wrong?
 
 তোমার শরীর — মোর প্রধান ‘সাধন’ ৷  
 এ শরীরে সাধিমু আমি বহু প্রয়োজন ॥ ৭৮ ॥
 
 tomāra śarīra — mora pradhāna ‘sādhana’  
-e śarīre sādhimu āmi bahu prayojana
+your  body  My  chief  ‘instrument’  
+e śarīre sādhimu āmi bahu prayojana  
+by this  body  shall accomplish  I  many  purposes
 
-(78) [not yet translated]
+(78) Your body is My chief instrument (*sādhana*); through this body I shall accomplish many purposes:
 
 ভক্ত-ভক্তি-কৃষ্ণপ্রেম-তত্ত্বের নির্দ্ধার ৷  
 বৈষ্ণবের কৃত্য, আর বৈষ্ণব-আচার ॥ ৭৯ ॥
 
 bhakta-bhakti-kṛṣṇaprema-tattvera nirddhāra  
-vaiṣṇavera kṛtya, āra vaiṣṇava-ācāra
+of the devotee  devotion  love for Kṛṣṇa  of the truths  the establishing  
+vaiṣṇavera kṛtya, āra vaiṣṇava-ācāra  
+of the Vaiṣṇava  the duties  and  Vaiṣṇava conduct
 
-(79) [not yet translated]
+(79) establishing the truths about the devotee, devotion and love for Kṛṣṇa; the duties of a Vaiṣṇava, and Vaiṣṇava conduct;
 
 কৃষ্ণভক্তি, কৃষ্ণপ্রেমসেবা-প্রবর্ত্তন ৷  
 লুপ্ততীর্থ-উদ্ধার, আর বৈরাগ্য-শিক্ষণ ॥ ৮০ ॥
 
 kṛṣṇa-bhakti, kṛṣṇaprema-sevā-pravartana  
-lupta-tīrtha-uddhāra, āra vairāgya-śikṣaṇa
+devotion to Kṛṣṇa  of service in love for Kṛṣṇa  the introduction  
+lupta-tīrtha-uddhāra, āra vairāgya-śikṣaṇa  
+of lost holy places  the recovery  and  of renunciation  teaching
 
-(80) [not yet translated]
+(80) introducing devotion to Kṛṣṇa and service in love for Kṛṣṇa; recovering the lost holy places, and teaching renunciation.
 
 নিজ-প্রিয়স্থান মোর — মথুরা-বৃন্দাবন ৷  
 তাঁহা এত ধর্ম্ম চাহি করিতে প্রচারণ ॥ ৮১ ॥
