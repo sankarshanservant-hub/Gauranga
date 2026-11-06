@@ -30,7 +30,7 @@ O beloved! When we saw Your smiling glances and heard Your sweet song, the fire 
 
 ## 150
 
-**Nirviṇṇa**: filled with *nirveda*, that is, with detachment (*virāga*).[^150-1]
+**Nirviṇṇa**: filled with *nirveda*, that is, with detachment (*virāga*).
 
 ## 174
 
@@ -49,7 +49,5 @@ Only those who look alike on a *brāhmaṇa* endowed with learning and humility 
 One who is satisfied with knowledge and realization (*jñāna-vijñāna*), who is *kūṭastha*, that is, established in his spiritual nature, who has conquered the senses and looks alike on a clod of earth, a stone and gold — he alone can be called a “yogī,” that is, “one established in yoga” (*yogārūḍha*).
 
 *Thus ends the fourth chapter of the “Amṛta-pravāha-bhāṣya.”*
-
-[^150-1]: In the verse translation, otherwise: “There Sanātana Gosvāmī told of his sorrow.”
 
 [^174-1]: In the verse translation, otherwise: “In the highest spiritual reality there are no mundane notions that divide everything into ‘good’ or ‘bad.’”
