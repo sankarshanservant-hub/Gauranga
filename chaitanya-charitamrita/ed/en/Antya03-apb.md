@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In Puruṣottama a beautiful young brāhmaṇa woman had a very handsome son. Seeing him come to Mahāprabhu every day, Dāmodara Paṇḍita said, “If You show affection to the boy, people will suspect Your character.” Hearing this, Mahāprabhu one day appointed Dāmodara to look after His mother in Śrī Navadvīpa and said, “From time to time I go to My mother and eat there — remind her of this.” Dāmodara took *mahā-prasāda* and other things and went to Navadvīpa. After this, one day Mahāprabhu asked Brahmā Haridāsa, “How will all the *yavanas* be delivered in the age of Kali?” In reply Haridāsa spoke of the glory of loud *saṅkīrtana* and concluded that everyone will be delivered even by the semblance of the holy name (*nāmābhāsa*). At this point, setting out to describe the Ṭhākura's earlier life, Kavirāja Gosvāmī told of the prostitute whom Rāmacandra Khān — an atheist (*pāṣaṇḍa*) and an unworthy brāhmaṇa (*brahma-bandhu*) — sent to Haridāsa in the forest near Benāpola, and who was delivered by Haridāsa's mercy. He also describes the ruin that befell Rāmacandra Khān for his offense against a Vaiṣṇava and later through the curse of Nityānanda Prabhu. Coming from Benāpola to Cāṁdapura, Haridāsa stayed in the house of Balarāma Ācārya. Next is described the discussion of the truth of the holy name (*nāma-tattva*) held in the assembly of Hiraṇya and Govardhana Majumadāra between Haridāsa Ṭhākura and a brāhmaṇa named Gopāla Cakravartī, a revenue agent (*ārindā*); also described is the punishment — leprosy — that Gopāla Cakravartī received for offending Haridāsa. From Cāṁdapura Haridāsa went to Śāntipura and stayed in the Ācārya's house. There Māyā-devī came to beguile him, and by Haridāsa's mercy she received the name of Kṛṣṇa.
+**Summary.** In Puruṣottama a beautiful young brāhmaṇa woman had a very handsome son. Seeing him come to Mahāprabhu every day, Dāmodara Paṇḍita said, “If You show affection to the boy, people will suspect Your character.” Hearing this, Mahāprabhu one day appointed Dāmodara to look after His mother in Śrī Navadvīpa and said, “From time to time I go to My mother and eat there — remind her of this.” Dāmodara took *mahā-prasāda* and other things and went to Navadvīpa. After this, one day Mahāprabhu asked Brahmā Haridāsa, “How will all the *yavanas* be delivered in the age of Kali?” In reply Haridāsa spoke of the glory of loud *saṅkīrtana* and concluded that everyone will be delivered even by the semblance of the holy name (*nāmābhāsa*). At this point, setting out to describe the Ṭhākura's earlier life, Kavirāja Gosvāmī told of the prostitute whom Rāmacandra Khān — an atheist (*pāṣaṇḍa*) and an unworthy brāhmaṇa (*brahma-bandhu*) — sent to Haridāsa in the forest near Benāpola, and who was delivered by Haridāsa's mercy. He also describes the ruin that befell Rāmacandra Khān for his offense against a Vaiṣṇava and later through the curse of Nityānanda Prabhu. Coming from Benāpola to Cā̃dapura, Haridāsa stayed in the house of Balarāma Ācārya. Next is described the discussion of the truth of the holy name (*nāma-tattva*) held in the assembly of Hiraṇya and Govardhana Majumadāra between Haridāsa Ṭhākura and a brāhmaṇa named Gopāla Cakravartī, a revenue agent (*ārindā*); also described is the punishment — leprosy — that Gopāla Cakravartī received for offending Haridāsa. From Cā̃dapura Haridāsa went to Śāntipura and stayed in the Ācārya's house. There Māyā-devī came to beguile him, and by Haridāsa's mercy she received the name of Kṛṣṇa.
 
 ## 5
 
@@ -63,6 +63,36 @@ In the *Caitanya-maṅgala*: that is, in the *Caitanya-bhāgavata*; see Ādi, Ch
 ## 98
 
 Benāpola: a village in Yaśohara district.
+
+## 164
+
+***Cā̃dapura.*** In Saptagrāma-Triveṇī, east of the house of Hiraṇya and Govardhana, lies the village of Cā̃dapura. There stood the house of their *purohita* Balarāma and that of Yadunandana Ācārya.
+
+## 165
+
+***Muluk*** — the *muluk* (district) of Saptagrāma.
+
+## 180
+
+As the sun, when it rises, destroys an ocean of darkness, so the name of Hari, when it rises even once, destroys the sins of all people. May that name of Hari, the good of the whole world, be ever victorious!
+
+## 185
+
+Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee does not accept it.
+
+## 188
+
+***Ārindā*** — a foot officer who collects revenue (*tahśīl*); a *peyādā*, or runner, who carries letters and delivers the king's taxes.
+
+## 199
+
+***Ghaṭa-paṭiyā*** — a *naiyāyika* (logician) who argues fruitlessly about “the pot” (*ghaṭa*) and “the cloth” (*paṭa*).
+
+## 220
+
+***Śrāddha-pātra.*** On the day of *śrāddha*, Vaiṣṇava householders are enjoined to offer the Lord every kind of food and then to feed it to Vaiṣṇavas and *brāhmaṇas*. When such a *śrāddha* day came in Advaita Prabhu's household, He fed Haridāsa the *śrāddha-pātra*, regarding him as a transcendental *brāhmaṇa* and guru.
+
+*Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
 
