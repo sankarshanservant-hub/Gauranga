@@ -154,4 +154,102 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 53
 
-> Subheading: Why he was called “Nṛsiṁhānanda” —
+> Subheading: Why he received the name “Nṛsiṁhānanda” —
+
+## 54
+
+> Subheading: Pradyumna Brahmacārī promises to make the Lord manifest and sets about cooking the *bhoga* —
+
+## 59
+
+> Subheading: Pradyumna cooks and arranges three separate offerings — for the Lord, for Jagannātha and for his own worshipable Deity (*iṣṭadeva*), Nṛsiṁha —
+
+## 62
+
+> Subheading: The Lord, who has “appeared” to the Brahmacārī in meditation, eats all three offerings —
+
+## 63
+
+> Subheading: Seeing this, Pradyumna rejoices within, while outwardly he shows a semblance of sorrow —
+
+## 64
+
+> Subheading: Pradyumna reproaches the Lord; his fidelity to his *iṣṭadeva*, Nṛsiṁha —
+
+## 67
+
+> Subheading: By the pastime of eating the three offerings the Lord showed Pradyumna that He is nondifferent, one, with all the *viṣṇu-tattvas* —
+
+## 69
+
+> Subheading: After eating, the Lord goes to Pāṇihāṭi, to Rāghava's house, where He constantly abides —
+
+## 70
+
+> Subheading: Śivānanda asks why the Brahmacārī is sad, and he tells everything —
+
+## 72
+
+> Subheading: Śivānanda's doubt —
+
+## 73
+
+> Subheading: The Brahmacārī tells Śivānanda to gather what is needed for Śrī Nṛsiṁha's *bhoga* —
+
+## 74
+
+> Subheading: The *bhoga* is offered to Nṛsiṁha again —
+
+## 75
+
+> Subheading: In the next rainy season the Gauḍīya devotees go to Purī —
+
+## 76
+
+> Subheading: One day the Lord tells how Nṛsiṁhānanda fed Him, as related above —
+
+***Bāt cālāilā*** — He raised the subject.
+
+## 78
+
+> Subheading: The Lord's words dispel Śivānanda's earlier doubt —
+
+## 79
+
+> Subheading: The Lord's “constant appearance” in four places —
+
+## 81
+
+> Subheading: Gaurasundara is subdued by His devotees' love —
+
+## 82
+
+> Subheading: Śivānanda's indescribable love for Gaura —
+
+## 83
+
+> Subheading: Whoever hears of Gaura's appearance comes to know the glory of Kṛṣṇa Caitanya —
+
+## 84
+
+> Subheading: A new topic: the story of Bhagavān Ācārya —
+
+**Bhagavān Ācārya** — see Ādi 10.136.
+
+## 86
+
+> Subheading: From time to time he cooks at home and feeds the Lord alone —
+
+## 87
+
+***Ghare bhāta kari*** (having cooked rice at home). One may bring Śrī Jagannāthadeva's *prasāda* and satisfy one's family, beggars or invited guests with it. When instead one feeds them at home and for that cooks rice and the rest — that is, cooks from raw foodstuffs — this is called *ghara-bhāta* (“home rice”). In Utkala two words are used, *āmānī* and *prasādī*. When cooked food (*naivedya-bhoga*) has been offered to Śrī Jagannāthadeva, it is *prasāda*; and what is cooked from raw foodstuffs is *āmānī*, which is to be understood as “not Jagannāthadeva's remnants.”
+
+## 88
+
+> Subheading: The character of Bhagavān Ācārya, his father and his younger brother —
+
+## 89
+
+***Vedānta*** — here, Śaṅkarācārya's commentary on the Vedānta, or *Śārīraka-sūtras*, which upholds the impersonal Brahman.
+
+**Ācārya** — his elder brother, Bhagavān Ācārya.
