@@ -31,3 +31,33 @@ Whoever, filled with transcendental faith, hears or describes Kṛṣṇa's tran
 ## 84–85
 
 The *sannyāsīs* (of Śaṅkara's school) think that, having carried out in worldly life all the duties proper to a *brāhmaṇa* and having cultivated the truth of Vedānta, they have become the “gurus” of the world. The *brāhmaṇa* scholars (by seed) think that, according to the *smṛti* (of the section on ritual work, the *karma-kāṇḍa*), only a *brāhmaṇa* by seed like themselves is the guru of all *varṇas*; therefore no one but such a *brāhmaṇa* scholar by seed has the right to teach the highest truth. Proud with these two kinds of pride, the *sannyāsīs* and scholars are unwilling to learn *dharma* from a pure devotee born in a family of the highest *śūdras*, though he is infinitely greater than they, and so they often remain undeveloped in understanding. Vaiṣṇava *dharma* accepts this: whoever, knowing the difference between the worldly and the transcendental truth, has learned transcendental devotion to Kṛṣṇa is the teacher of all *jīvas*; here neither *varṇa* by birth nor an *āśrama* received through rites (*saṁskāras*) matters. It was to teach this truth that Mahāprabhu, the deliverer of the world, sent Pradyumna Miśra, the son of a relative from His former *āśrama*, to learn the truth from Śrī Rāmānanda.
+
+## 102
+
+***Yadvā tadvā kavi*** — any poet whatever, that is, those who compose poetry without properly knowing either *rasa-tattva* or the *siddhānta* of the Vaiṣṇavas.
+
+## 107
+
+***Grāmya-kavi*** — poets who compose verses about mundane men and women. ***Vidagdha ātmīya-vākya*** — the composition of one who is our own (*ātmīya*): a person skilled in the knowledge of *tattva* who belongs to the community of pure devotees (that is, warm-hearted and of like aspiration).
+
+## 112
+
+He placed within Himself — or spread forth — a golden luster and attained His selfhood in Śrī Jagannātha, whose eyes are blossoming lotuses. Giving boundless consciousness to inert *prakṛti*, He appeared. May that Kṛṣṇa Caitanyadeva bestow welfare upon you.
+
+## 123
+
+In Īśvara there is no difference between the body and its possessor (*dehī*).
+
+## 137
+
+Indra said: “Relying on this talkative, foolish, impudent, ignorant, mortal Kṛṣṇa, who thinks Himself learned, the cowherds have done what displeases me.”
+
+## 141
+
+***Vandyābhāve anamra — stabdha-śabde kaya***: there is no one whom He must worship, and so He bows to no one — this is what the word *stabdha* expresses.
+
+## 143
+
+***Nā yujhimu, ‘yāhi bandhu-han’*** — “O slayer of Your kin, go away; I will not fight with You.”
+
+*Thus ends the fifth chapter of the “Amṛta-pravāha-bhāṣya.”*
