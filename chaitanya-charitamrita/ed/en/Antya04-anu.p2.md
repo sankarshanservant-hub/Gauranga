@@ -161,3 +161,49 @@ Each person has his proper place (*maryādā*). Mahāprabhu did not encourage an
 ## 170
 
 > Subheading: Bhagavān, attracted by the qualities of His devotee, describes those qualities —
+
+## 171
+
+> Subheading: Though the “*viṣaya*” has many “*āśrayas*” dear to Him, His love for each of them is distinct —
+
+## 172
+
+> Subheading: Out of humility a devotee free of pride (*amānī*) regards himself as a material *jīva*, the lowest of all. Yet in truth, seen with spiritual vision, he is a transcendental spiritual entity (*brahma-vastu*) whom Bhagavān embraces —
+
+## 173
+
+A devotee turned toward Kṛṣṇa allows himself no bodily license (*kāmacāra*) to satisfy the desire to enjoy, the desire for his own happiness. He longs for Kṛṣṇa's happiness and performs all his transcendental worship (*bhajana*) solely for loving service to Kṛṣṇa. The *karmīs* engage the material body, the vessel in which the fruits of action are enjoyed, in enjoying perishable fruits. Devotees have no such aims: wholly and always they accept that their bodies exist only for the service of Hari, and with every bodily act they serve Śrī Kṛṣṇa. The *karmī's* body is material, because, absorbed in material nature (*prakṛti*), he craves to enjoy material fruits. But a devotee is wholly devoted to Kṛṣṇa's service: the very existence of his body and all his bodily acts are devoted to transcendental service to Kṛṣṇa. Therefore the devotee's spiritual (*cinmaya*) body is certainly transcendental (*aprākṛta*).
+
+The *karmīs*, averse to Kṛṣṇa, consider the body of a pure devotee “material,” like their own material bodies, which serve their enjoyment. But pure devotees and their servants never consider the body of a pure devotee “material.” In other words, they do not regard as “equal” or “one” spirit and non-spirit, the transcendental and the material, what is beyond rules and what is subject to them — or Kṛṣṇa and *māyā*, which is other than Kṛṣṇa. They do not invoke, under the pretense of artificial broad-mindedness or impartiality, the doctrine that reconciles spirit and matter (*cij-jaḍa-samanvaya-vāda*), and so they never become offenders against the holy Name. Rather, they know that the pure devotee's body, full of spiritual bliss, is transcendental in nature, and regard it as fit for Kṛṣṇa's service.
+
+The highest devotee (*uttama-adhikārī*) finds no love for Kṛṣṇa in his own experience, and so he considers himself a pauper, a material *jīva*. But people averse to Kṛṣṇa in the *prākṛta-sahajiyā* and other offshoot sects (*upasampradāyas*) foolishly consider their own material bodies to be “transcendental Vaiṣṇava bodies” — and are cast far away from the pure Vaiṣṇava's transcendental conduct, that is, from devotion. Seeing this, Ṭhākura Bhaktivinoda, to teach people, wrote in his book *Kalyāṇa-kalpataru*: “If I think, ‘I am a Vaiṣṇava,’ I shall never be free of pride. The desire for prestige will come and defile my heart, and I shall go to hell. Thinking myself the best and giving out my remnants and the like, I shall be weighed down by pride. Therefore I shall always remain your disciple and accept worship from no one.” And Kavirāja Gosvāmī has written (Antya 20.28): “Such is the nature of love: where there is a relation of love, one thinks, ‘I have not even a trace of devotion to Kṛṣṇa.’”
+
+## 174
+
+> Subheading: In the transcendental realm beyond the *guṇas* there are no mundane deliberations about injunctions and prohibitions: these belong to the mind and arise from secondary, non-spiritual vision —
+
+## 175
+
+> Subheading: In mental notions based on the mundane perception of difference, which arises from secondary, non-spiritual vision, pure and impure, injunction and prohibition are all of equal worth and unreal — (*Śrīmad-Bhāgavatam* 11.28.4)
+
+Bhagavān, while telling Uddhava about pure knowledge of Bhagavān, which He has described in detail before, condemns vision born of the senses (*akṣaja-darśana*):
+
+(Since) **vācā** (by speech) **uditam** (what is expressed — and also what is seen by the eyes and the other senses, and what is) **manasā dhyātam** (conceived by the mind), **tat** (all of it) **eva ca** **anṛtam** (is perishable, not true for all time; therefore) **avastunaḥ** (of the unreal: whatever is other than nondual knowledge has no separate existence and cannot be accepted as reality) **dvaitasya** (within the world of duality) **kiṁ kiyat** (how much) **bhadram** (is good), **kim** (how much) **vā** **abhadram** (is bad)?
+
+## 176
+
+> Subheading: The plain essential meaning of the verse —
+
+In the nondual Knowledge, in Vrajendra-nandana, imperishable Truth eternally abides. The *jīva* has become absorbed in a “second” and fallen into the hands of *māyā*, which is other than Kṛṣṇa. Everything such a *jīva* has — judging his own good or ill and the like — is only a property of the mind, whose nature is to accept and reject (*saṅkalpa-vikalpa*). Having forgotten his own true nature (*svarūpa*) and Kṛṣṇa, the *jīva* imagines himself an enjoyer. Therefore his attempts to distinguish good and bad by knowledge born of the senses produce all kinds of delusion.
+
+## 177
+
+> Subheading: (*Bhagavad-gītā* 5.18)
+
+**vidyā-vinaya-sampanne** (endowed with learning and humility — joined with them, shining with every *brāhmaṇa* virtue, and not in one who is foolish and ill-mannered) **brāhmaṇe** (in a *brāhmaṇa*), **śvapāke** (in a *caṇḍāla*, the lowest of all), **gavi** (in the pure cow), **śuni** (in the impure dog), **hastini** (in the elephant, which knows no distinction of pure and impure) **paṇḍitāḥ** (those who know what bondage and liberation are) **sama-darśinaḥ** (those whose nature is to see the same thing, Brahman, in all; that is, those who regard all alike).
+
+## 178
+
+> Subheading: Only a *gosvāmī* — a pure devotee who follows *yukta-vairāgya* — sees all things equally, because everywhere he sees their relation to Kṛṣṇa — (*Bhagavad-gītā* 6.8)
+
+**jñāna-vijñāna-tṛptātmā** (*jñāna* is knowledge from instruction, *vijñāna* is direct realization; one whose self, that is, whose mind, is satisfied by them and desires nothing more; therefore) **kūṭasthaḥ** (abiding at all times in one and the same nature, that is, unchanging; therefore) **vijitendriyaḥ** (one who has conquered the senses; therefore) **sama-loṣṭrāśma-kāñcanaḥ** (one to whom a lump of clay, a piece of stone and gold are equal, that is, who has no notion that clods of earth and the like are to be rejected or accepted) **yogī** **yuktaḥ** (established in yoga, *yogārūḍha*) **ucyate** (is called).
