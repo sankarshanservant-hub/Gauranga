@@ -228,7 +228,7 @@ These words too show that the godless (*pāṣaṇḍīs*) who oppose the teachi
 
 ## 188
 
-> Subheading: He reaches Purī in twelve days; on the way he ate on only three days[^188-1] —
+> Subheading: He reaches Purī in twelve days; on the way he ate on only three days —
 
 ## 189
 
@@ -252,6 +252,98 @@ Kṛṣṇa's mercy is more powerful than the fruits of past *karma* and all els
 
 > Subheading: Raghunātha's undivided faith in Gaura-Kṛṣṇa —
 
----
+## 195
 
-[^188-1]: The Russian verse translation says “twenty days”; the Bengali verse 188 and the subheading read “বারদিনে,” that is, in twelve days.
+> Subheading: The Lord describes the character of Hiraṇya and Govardhana —
+
+Nīlāmbara Cakravartī knew Raghunātha's father and uncle to be noble *kāyasthas* younger than himself, and so he called them *bhāyā* (brother). The two brothers, knowing Nīlāmbara to be a *brāhmaṇa* older than they, addressed him as *dādā* (elder brother). Therefore Śrī Mahāprabhu, regarding them as brothers of His maternal grandfather, considered them people He could tease. Because of this form of address many mistakenly think that Raghunātha was much older than Mahāprabhu, but in fact this is not so.
+
+## 197
+
+> Subheading: The poison of worldliness destroys the self: it is a terrible obstacle to the *jīva's* attaining his true nature (*svarūpa*), his real health —
+
+Worldly objects (*viṣaya*) give great suffering to the worldly man who enjoys them. Yet people bound to worldly existence, their hearts absorbed in worldliness, take these painful worldly objects for “happiness.” The objects enjoyed by the material senses are fit to be rejected: they are like a cesspit. The *jīva* absorbed in them is like a worm in loathsome excrement. In other words, in the eyes of one who seeks the highest goal, the worldly enjoyer of matter is like a worm in a cesspit: in that worm's form he revels with great delight in the taste of the most loathsome excrement of worldliness.
+
+## 198
+
+> Subheading: Other desires born of the conceit of being an enjoyer or of identifying the self with the body, service mixed with *karma* and *jñāna*, a mere semblance of following Viṣṇu and the Vaiṣṇavas, though not hostile — worldly faith — this is not pure devotion but only the stage of the *kaniṣṭha-adhikārī* —
+
+The two brothers, Hiraṇya and Govardhana, honored the *brāhmaṇas* and were their patrons, supporters, and helpers. Therefore by the standards of worldly judgment they were respected as excellent, “good” people, and among ordinary people they were known as “Vaiṣṇavas.” But in the judgment of pure devotees who seek the highest goal they are not “pure Vaiṣṇavas”: the pure Vaiṣṇavas regarded them as *vaiṣṇava-prāya* (almost Vaiṣṇavas) or *vaiṣṇavābhāsa* (a semblance of Vaiṣṇavas), that is, as *kaniṣṭhas* or *bāliśa* (the uninformed) — but not as *vidveṣī* (hostile).
+
+## 199
+
+> Subheading: One who gives up the desire to please Kṛṣṇa and pursues worldly objects — by enjoyment or by renunciation — relying on knowledge gained through the senses, stifles even a small seed of faith, and his worldly existence grows —
+
+Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *anyābhilāṣīs* (those with other desires). Therefore the very *karma*, *jñāna*, and other practices they perform sink them, without their knowing it, into worldliness, and they become as inert as matter.
+
+## 200
+
+> Subheading: The eternally perfect Raghunātha has no worldly enjoyment; the Lord's instruction is meant for the practitioner who has *anarthas* —
+
+## 201
+
+> Subheading: The Lord entrusts Raghunātha to the hands of Dāmodara Svarūpa —
+
+## 203
+
+> Subheading: Vaidya-Raghunātha, Bhaṭṭa-Raghunātha, and Dāsa-Raghunātha, the follower of Svarūpa —
+
+## 205
+
+> Subheading: At the Lord's order Svarūpa accepts Raghunātha —
+
+## 206
+
+> Subheading: The Lord's incomparable love for His devotees; He tells Govinda to care for Raghunātha attentively —
+
+## 207
+
+**Laṅghana** — fasting and other hardships; **santarpaṇa** — care, nursing.
+
+## 208
+
+> Subheading: The Lord tells Raghunātha to bathe in the sea, take *darśana* of Jagannātha, and then honor *prasāda* —
+
+## 209
+
+> Subheading: Raghunātha meets the devotees —
+
+## 210
+
+> Subheading: Seeing the Lord's mercy on Raghunātha, the devotees praise his good fortune —
+
+## 211
+
+> Subheading: After bathing in the sea and seeing Jagannātha, Raghunātha, by Govinda's kindness, receives the Lord's remnants —
+
+## 213
+
+> Subheading: For five days Raghunātha stays near Svarūpa and receives the Lord's *prasāda* —
+
+## 214
+
+> Subheading: From the next day Raghunātha stands at night at the Lion Gate, waiting for *prasāda* —
+
+**Puṣpa-añjali** — the evening service to Jagannātha: the offering of handfuls of flowers (*puṣpāñjali*).
+
+## 215
+
+> Subheading: How Jagannātha's servants, who are householders, give *prasāda* at night, after finishing the worship and setting out for home, to a Vaiṣṇava waiting at the gate —
+
+## 217
+
+> Subheading: How the penniless, detached devotees live in Puruṣottama-kṣetra —
+
+## 220
+
+> Subheading: The conduct of the Lord's devotees: for Kṛṣṇa's pleasure they renounce their own enjoyment, or all their efforts are for Kṛṣṇa's pleasure —
+
+If both non-devotee worldly people and pure devotees look carefully and impartially at Mahāprabhu's devotees, they can understand that these devotees are not intent on material enjoyment. Renouncing sense gratification, comfort, and other pleasures, they are indifferent, for the sake of serving Kṛṣṇa, to everything that is not Kṛṣṇa. Their service to Kṛṣṇa, joined with renunciation of the worldly, is unmotivated, unceasing, and beyond this world; ordinary worldly vision cannot grasp it. Bhagavān Gaurasundara takes the highest delight in seeing the skill in pure worship of one who is detached from all that is not Kṛṣṇa.
+
+## 221
+
+> Subheading: Govinda informs the Lord that Raghunātha is waiting for *prasāda* at the Lion Gate —
+
+## 222
+
+> Subheading: Raghunātha has left home, and so he is called a *vairāgī*; the Lord is pleased with his renunciation —
