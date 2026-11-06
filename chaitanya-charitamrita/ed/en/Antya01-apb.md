@@ -91,3 +91,11 @@ Devotees whose intelligence knows no obstruction and whose nature is radiant hav
 ## 139
 
 O wise ones! Though this composition, full of descriptions of Hari's qualities, has been brought forth by me, insignificant by nature, may it fulfil your cherished desires. Cannot fire, kindled by rubbing wood even by a Pulinda (a man of the lowest birth), remove the inner impurity (the dross) of bars of gold?
+
+---
+
+[^75-1]: The verse translation reads differently: it says that no one could understand the meaning of the verse, not in what mood the Lord recited it.
+
+[^136-1]: The verse translation reads differently: there the full moon itself awakens in the Lord the impulse of love and the wish to meet Rādhārāṇī; for Bhaktivinoda it is Paurṇamāsī who unites Kṛṣṇa with Rādhikā.
+
+[^138-1]: The verse translation reads differently: it describes the devotees present as constantly thinking of the Supreme Lord; for Bhaktivinoda they are devotees “whose intelligence knows no obstruction.”

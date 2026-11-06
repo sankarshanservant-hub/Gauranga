@@ -503,3 +503,13 @@ See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The 
 > Subheading: (*Vidagdha-mādhava*, Act 1, verse 6)
 
 **bhoḥ budhāḥ** (O you assembled), **prakṛti-laghu-rūpāt** (from one insignificant by nature — wretched. But Sarasvatī, unable to bear the author's humility, praises Rūpa Gosvāmī: “from one who swiftly [*laghu*] brings forth, that is, composes, an excellent work”) **mattaḥ** (from me) **abhivyaktā** (brought forth) **iyaṁ hari-guṇa-mayī** (that is, full of their description) **kṛtiḥ** (the poem in the form of the play *Vidagdha-mādhava*) **api vaḥ** (you) **siddhārthān** (with your cherished, longed-for desires fulfilled) **vidhātrī** (she whose nature is to make; that is, may it make. For) **pulindena** (by a man of the lowest, untouchable birth) **api samidham** (wood) **unmathya janitaḥ** (born of rubbing or friction) **agniḥ** **api** **hiraṇya-śreṇīnām** (of heaps of gold) **antaḥ-kaluṣatām** **kim u na apaharati** (does it not remove? In the same way this work will surely remove your boundless pain of separation).
+
+---
+
+[^92-1]: The verse translation reads differently: it has “we, the denizens of heaven”; according to the subheading and the *Anubhāṣya*, these are the swan's words to Damayantī.
+
+[^128-1]: In the head word of the gloss the edition reads “…*viṣaya-saṁsāra*…” (as does the *Amṛta-pravāha-bhāṣya*: “worldly existence”), while the verse and the explanation have *viṣamā* (harsh); translated according to the verse (checked against the scan).
+
+[^134-1]: So in the edition (checked against the scan). Verse 17 concerns Śivānanda's dog; the *āmukha* and *prastāvanā* are explained in the *Anubhāṣya* on Antya 1.71 — the digits are probably transposed.
+
+[^136-1]: The words “An example of this” (*tasyodāharaṇaṁ yathā*) are printed in the edition in the bold type of the verses, between verses 135 and 136; they are absent from the verse translation.
