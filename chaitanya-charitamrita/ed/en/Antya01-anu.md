@@ -594,7 +594,7 @@ See Madhya 2.52.
 
 > Subheading: (*Vidagdha-mādhava*, Act 3, verse 9)
 
-**He kṛṣṇārṇava** (O Kṛṣṇa, ocean), **dhava-taroḥ** (of the tree — her husband) **antikaṁ** (the nearness) **dūre pathi** (far off on the way) **hitvā** (leaving), **dharma-setoḥ** (of the bridge — the *dharma* of the family, for that is the bridge) **bhaṅgodagrā** (the breaker, one whose foremost urge is to break it; able to break it), **guru-śikhariṇaṁ** (the mountain — the venerable elders) **raṁhasā** (swiftly) **laṅghayantī** (crossing over), **nava-rasā** (she in whom there is new, fresh *rasa* — the *rasas* from *śānta* to *śṛṅgāra*) **rādhikā-vāhinī** (the river Rādhikā) **tvāṁ** (You, the ocean Kṛṣṇa) **lebhe** (has reached); **tvaṁ ca** (and You) **vāg-vīcībhiḥ** (with mere waves of words) **kim iva** (why) **asyāḥ** (her — the river Rādhā's) **vimukhī-bhāvam** (estrangement) **tanoṣi** (spread)?
+**He kṛṣṇārṇava** (O Kṛṣṇa, ocean), **dhava-taroḥ** (of the tree — Her husband) **antikaṁ** (the nearness) **dūre pathi** (far off on the way) **hitvā** (leaving), **dharma-setoḥ** (of the bridge — the *dharma* of the family, for that is the bridge) **bhaṅgodagrā** (the breaker, one whose foremost urge is to break it; able to break it), **guru-śikhariṇaṁ** (the mountain — the venerable elders) **raṁhasā** (swiftly) **laṅghayantī** (crossing over), **nava-rasā** (She in whom there is new, fresh *rasa* — the *rasas* from *śānta* to *śṛṅgāra*) **rādhikā-vāhinī** (the river Rādhikā) **tvāṁ** (You, the ocean Kṛṣṇa) **lebhe** (has reached); **tvaṁ ca** (and You) **vāg-vīcībhiḥ** (with mere waves of words) **kim iva** (why) **asyāḥ** (Her — the river Rādhā's) **vimukhī-bhāvam** (estrangement) **tanoṣi** (spread)?
 
 ## 158
 
@@ -780,7 +780,7 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 > Subheading: (*Lalita-mādhava*, Act 2, verse 10)[^191-1]
 
-**Yā** (she who — Rādhā) **mama manaḥ-karīndrasya** (for the king-elephant of My mind, My heart) **vihāra-sura-dīrghikā** (is the celestial river for its play, the heavenly Gaṅgā), **yā** (she who) **vilocana-cakorayoḥ** (for the two *cakoras* that are My eyes) **śarad-amanda-candra-prabhā** (is the light of the autumn moon, undimmed, that is, full), **yā** (she who) **uraḥ-ambara-taṭasya** (for the edge of the sky that is My chest — the chest itself is the sky) **ca** **ābharaṇa-cāru-tārāvalī** (is, among ornaments, a lovely string of stars, a constellation), **sā iyaṁ rādhikā** (this Rādhikā) **mayā** (by Me, Kṛṣṇa) **unnata-manorathaiḥ** (through lofty desires — what I had desired for many days) **sāmpratam** (now) **alambhi** (has been attained).
+**Yā** (She who — Rādhā) **mama manaḥ-karīndrasya** (for the king-elephant of My mind, My heart) **vihāra-sura-dīrghikā** (is the celestial river for its play, the heavenly Gaṅgā), **yā** (She who) **vilocana-cakorayoḥ** (for the two *cakoras* that are My eyes) **śarad-amanda-candra-prabhā** (is the light of the autumn moon, undimmed, that is, full), **yā** (She who) **uraḥ-ambara-taṭasya** (for the edge of the sky that is My chest — the chest itself is the sky) **ca** **ābharaṇa-cāru-tārāvalī** (is, among ornaments, a lovely string of stars, a constellation), **sā iyaṁ rādhikā** (this Rādhikā) **mayā** (by Me, Kṛṣṇa) **unnata-manorathaiḥ** (through lofty desires — what I had desired for many days) **sāmpratam** (now) **alambhi** (has been attained).
 
 ## 192
 
