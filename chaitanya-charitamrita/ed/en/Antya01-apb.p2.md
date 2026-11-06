@@ -122,6 +122,28 @@ Dancing on the stage, Kalānidhi (Kṛṣṇacandra) will destroy Kaṁsa, the k
 
 When people join words whose meaning is unclear with other words in order to grasp their meaning, this is called *udghātyaka*.
 
+## 188
+
+The dust raised by the cows' hooves points to Hari; the darkness ahead unites Him with the gopīs. Therefore the path of the cowherd women is beyond the reach even of the all-knowing Śruti.
+
+## 189
+
+Glory to that messenger — the sweet, soft tone (*kākalī*) of the flute born of the finest bamboo! Skillful and entrusted with the purpose, she frees Śrī Rādhā from shyness and draws Her from home into the forest.
+
+## 190
+
+“Friend, who is this fearless youth, shining like a fresh cloud, sporting like an intoxicated elephant? From where has He come to the land of Vraja? Ah, with His restless gait and thieflike glances He is plundering from the treasury of my heart the wealth of my composure!”
+
+## 191
+
+“Rādhikā is, for the king-elephant of My mind, the Gaṅgā in which it sports; for the *cakora* birds of My eyes, the brilliant light of the autumn moon; for the sky of My chest, an ornament like a lovely string of stars. Today I have attained that Rādhikā — and with Her My lofty desires are fulfilled.”
+
+## 195
+
+If the poet's poetry and the archer's bow, having entered another's heart, cannot make his head spin — what use are they?
+
+*Thus ends the first chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^140-1]: So in the edition (*prabhu*, “the Lord”); in verse 140 it is Rāmānanda Rāya who asks.

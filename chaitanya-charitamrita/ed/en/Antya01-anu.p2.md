@@ -242,6 +242,74 @@ In this verse the *āmukha*, that is, the *prastāvanā*, is named — *udghāty
 
 > Subheading: (*Sāhitya-darpaṇa*, the section on visual poetry [*dṛśya-śravya-nirūpaṇa*], Chapter 6, verse 289)
 
+**Narāḥ** (experts in poetics) **tu** **agatārthāni** (whose meaning is not reached, not understood) **padāni** (words) **tad-artha-gataye** (in order to grasp the meaning of those words whose meaning is not understood) **anyaiḥ padaiḥ** (with other words) **yat** **yojayanti** (join), **saḥ** (that) **udghātyaka** (*udghātyaka*) **ucyate** (is called).
+
+## 187
+
+“The particulars of the parts”: see above (Antya, Chapter 1) verse 156; that is, as before, the descriptions in order of Vṛndāvana, the sound of the *muralī*, Kṛṣṇa, and Rādhikā.
+
+## 188
+
+> Subheading: (*Lalita-mādhava*, Act 1, verse 23)
+
+**Rajaḥ-bharaḥ** (the mass, heap, multitude of dust raised by the cows' hooves) **harim** **uddiśate** (points to Hari), **tamaḥ** (darkness) **purataḥ** (ahead) **amum** (Kṛṣṇa) **saṅgamayati** (unites [with the gopīs]); (therefore) **vraja-vāma-dṛśāṁ** (of the women of Vraja) **paddhatiḥ** (the path) **sarva-dṛśaḥ** (all-seeing) **śruteḥ** (to the Veda) **api** (even) **prakaṭā na** (is not revealed).
+
+The Veda, whose subject is the three *guṇas*, says nothing of how to point to Kṛṣṇa, who is beyond the *guṇas*, or of meeting Him. The conditioned *jīva*, turned away from Kṛṣṇa, is agitated by the *guṇa* of *rajas*, and so has no pointer to Kṛṣṇa; he is covered by the *guṇa* of *tamas*, and so he does not meet Kṛṣṇa. But in the transcendental Vṛndāvana the dust (*rajas*) raised by the cows' hooves points out Kṛṣṇa's coming to the eternally liberated gopīs, and *tamas*, the darkness, lets the eternally liberated gopīs meet Kṛṣṇa. Therefore both the gopīs, whose nature is pure *sattva*, and Śrī Vṛndāvana, whose nature is pure *sattva*, are beyond the reach of the Veda, whose subject is the three *guṇas*. This is the meaning of the verse.
+
+## 189
+
+> Subheading: (*Lalita-mādhava*, Act 1, verse 24)
+
+**Yā** (she who), **hriyam** (shyness) **avagṛhya** (taking away, that is, destroying), **gṛhebhyaḥ** (from home) **vanāya** (to the forest, so that She goes to the forest) **rādhāṁ karṣati** (draws Rādhā), **sā nipuṇā** (skillful) **nisṛṣṭārthā** (bearing the task entrusted to her) **vara-vaṁśaja-kākalī** (the sound of the flute) **dūtī** (messenger) **jayati** (is supreme).
+
+*Nisṛṣṭārthā*: the *Ujjvala-nīlamaṇi* (section on the kinds of messengers, verse 29) says: “She to whom one of the two has entrusted the task, and who by her skill unites them both, is called *nisṛṣṭārthā*.”
+
+## 190
+
+> Subheading: (*Lalita-mādhava*, Act 2, verse 10)
+
+**He saha-cari** (O friend), **ahaha** (ah!), **iha** (here, in the forest of Vṛndā) **yaḥ** (He who) **caṭulaiḥ** (restless) **utsarpadbhiḥ** (gliding in every direction) **dṛg-añcala-taskaraiḥ** (with the thieves — His sidelong glances) **mama cetaḥ-koṣāt** (from the treasury of my heart) **dhṛti-dhanaṁ** (the wealth that is my composure) **viluṇṭhayati** (plunders) — **mudira-dyutiḥ** (He whose luster is like that of a cloud [*mudira*], shining like a fresh cloud), **mādyan-mataṅ-gaja-vibhramaḥ** (He whose play [*vibhrama*, *vilāsa*] is like an intoxicated elephant's, restless like an elephant deep in intoxication), **nirātaṅkaḥ** (fearless) — **kaḥ ayaṁ yuvā** (who is this youth)? **Kutaḥ** (from where) **ca** **vraja-bhuvi** (to the land of Vraja) **prāptaḥ** (has He come)?
+
+## 191
+
+> Subheading: (*Lalita-mādhava*, Act 2, verse 10)[^191-1]
+
+**Yā** (she who — Rādhā) **mama manaḥ-karīndrasya** (for the king-elephant of My mind, My heart) **vihāra-sura-dīrghikā** (is the celestial river for its play, the heavenly Gaṅgā), **yā** (she who) **vilocana-cakorayoḥ** (for the two *cakoras* that are My eyes) **śarad-amanda-candra-prabhā** (is the light of the autumn moon, undimmed, that is, full), **yā** (she who) **uraḥ-ambara-taṭasya** (for the edge of the sky that is My chest — the chest itself is the sky) **ca** **ābharaṇa-cāru-tārāvalī** (is, among ornaments, a lovely string of stars, a constellation), **sā iyaṁ rādhikā** (this Rādhikā) **mayā** (by Me, Kṛṣṇa) **unnata-manorathaiḥ** (through lofty desires — what I had desired for many days) **sāmpratam** (now) **alambhi** (has been attained).
+
+## 192
+
+> Subheading: Rāya praises Śrī Rūpa's poetic gift without end, as if with a thousand mouths —
+
+## 195
+
+> Subheading: (a verse of an ancient author)
+
+**Tasya kaveḥ** (of that poet) **kāvyena** (with the poetry, words full of *rasa*) **kim** (what use)? **Dhanuṣ-mataḥ** (of the archer) **kāṇḍena** (with the arrow) **kim** (what use)? — **yat** (if) [the poetry or the arrow], **parasya hṛdaye lagnaṁ** (having pierced another's heart), **tasya śiraḥ** (his head) **na ghūrṇayati** (does not make spin).
+
+## 196
+
+> Subheading: [Rāya] infers the Lord's mercy upon Śrī Rūpa —
+
+## 197
+
+> Subheading: The Lord praises Śrī Rūpa's poetic gift —
+
+## 199
+
+> Subheading: The Lord Himself asks the devotees to bestow mercy on Śrī Rūpa, whom He loves and on whom He bestows the greatest mercy —
+
+## 200
+
+> Subheading: The Lord praises Śrī Sanātana and considers him Śrī Rāya's equal in detachment and in learning — in knowledge of the *siddhānta* and the *rasa* of *prema-bhakti* —
+
+## 201
+
+Śrī Mahāprabhu said to Śrī Rāmānanda Rāya: “You have given up all sense objects and serve Kṛṣṇa exclusively. Just so Sanātana Gosvāmī, exactly like you, has left everything other than Kṛṣṇa: he is always ‘humbler than a blade of grass,’ that is, filled with the mood of one who owns nothing (*akiñcana*), and seeks no enjoyment apart from Kṛṣṇa, that is, he is free from the bonds of everything that is not Kṛṣṇa. He has made service to Kṛṣṇa the object of his senses and has fully mastered the knowledge of the highest devotion (*parā-bhakti*). Śrī Sanātana is the ideal embodiment of sincere humility, detachment, and learning. Exactly like you, he is knowledgeable and accomplished in pure renunciation, that is, *yukta-vairāgya*, and in learning — in knowledge of the *siddhānta* and the *rasa* of *prema-bhakti*.”
+
+## 202
+
+> Subheading: [The Lord] tells how He empowered Śrī Rūpa and Sanātana and sent them to Vraja —
+
 ---
 
 [^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
@@ -249,3 +317,5 @@ In this verse the *āmukha*, that is, the *prastāvanā*, is named — *udghāty
 [^166-1]: So in the edition: *vibhrad-bhrū-bhramaraṁ*; the verse as given in the VCD reads *riṅgad-bhrū-bhramaraṁ*.
 
 [^170-1]: The edition's gloss has a negative (*tulanāṁ na arhati*); the verse reads *tulanām arhati* (“with what can it be compared?”). The sense is the same: there is nothing to compare it with.
+
+[^191-1]: So in the edition (checked against the scan): both verse 190 and verse 191 are marked “Act 2, verse 10.”
