@@ -1925,12 +1925,12 @@ what then  with faith  uttering
 
 (186) “Even Ajāmila, who uttered the name of Hari at the moment of death while calling his son, went to the Lord’s abode. What then of one who chants it with faith?” (Śrīmad-Bhāgavatam, 6.2.49)
 
-সালোক্য-সার্ষ্টি-সামীপ্য-সারূপ্যৈকত্বমপ্যুত ৷  
+সালোক্য-সার্ষ্টি-সারূপ্য-সামীপ্যৈকত্বমপ্যুত ৷  
 দীয়মানং ন গৃহ্ণন্তি বিনা মৎসেবনং জনাঃ ॥ ১৮৭ ॥
 
-sālokya-sārṣṭi-sāmīpya-  
+sālokya-sārṣṭi-sārūpya-  
 residence in My world  equal opulence  nearness  
-sārūpyaikatvam apy uta  
+sāmīpyaikatvam apy uta  
 likeness of form  oneness  even  and  
 dīyamānaṁ na gṛhṇanti  
 being given  not  accept  
