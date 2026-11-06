@@ -1110,6 +1110,1130 @@ nectar  put to shame  such  various  vegetable dishes
 
 (110) There were many kinds of cakes (*piṭhā*), sweet rice (*pāyasa*), excellent fine rice, and various vegetable dishes that put nectar to shame.
 
+রাঘব-ঠাকুরের প্রসাদ অমৃতের সার ৷  
+মহাপ্রভু যাহা খাইতে আইসে বার বার ॥ ১১১ ॥
+
+rāghava-ṭhākurera prasāda amṛtera sāra  
+of Rāghava Ṭhākura  the prasāda  of nectar  the essence  
+mahāprabhu yāhā khāite āise bāra bāra  
+Mahāprabhu  which  to eat  comes  again and again
+
+(111) The prasāda of Rāghava Ṭhākura is the very essence of nectar; Mahāprabhu comes again and again to eat it.
+
+পাক করি’ রাঘব যবে ভোগ লাগায় ৷  
+মহাপ্রভুর লাগি’ ভোগ পৃথক্ বাড়য় ॥ ১১২ ॥
+
+pāka kari’ rāghava yabe bhoga lāgāya  
+cooking  having done  Rāghava  when  the offering  places  
+mahāprabhura lāgi’ bhoga pṛthak bāḍaya  
+of Mahāprabhu  for the sake  an offering  separate  he serves out
+
+(112) When Rāghava has cooked and places the offering before the Deity, he serves out a separate offering for Mahāprabhu.
+
+প্রতিদিন মহাপ্রভু করেন ভোজন ৷  
+মধ্যে মধ্যে কভু তাঁরে দেন দরশন ॥ ১১৩ ॥
+
+prati-dina mahāprabhu karena bhojana  
+every day  Mahāprabhu  partakes  of the meal  
+madhye madhye kabhu tām̐re dena daraśana  
+now and then  at times  to him  gives  His sight
+
+(113) Mahāprabhu eats there every day, and now and then the Lord lets Rāghava see Him.
+
+দুই ভাইরে রাঘব আনি’ পরিবেশে ৷  
+যত্ন করি’ খাওয়ায়, না রহে অবশেষে ॥ ১১৪ ॥
+
+dui bhāire rāghava āni’ pariveśe  
+to the two brothers  Rāghava  bringing  serves  
+yatna kari’ khāoyāya, nā rahe avaśeṣe  
+with care  feeds Them  not  remains  any left over
+
+(114) Rāghava brought the meal and served the two brothers; he fed Them with care, and nothing was left over.
+
+কত উপহার আনে, হেন নাহি জানি ৷  
+রাঘবের ঘরে রান্ধে রাধা-ঠাকুরাণী ॥ ১১৫ ॥
+
+kata upahāra āne, hena nāhi jāni  
+how many  offerings  he brings  such  not  I know  
+rāghavera ghare rāndhe rādhā-ṭhākurāṇī  
+in Rāghava’s  house  cooks  Rādhā Ṭhākurāṇī
+
+(115) I cannot say how many dishes he brought. In Rāghava’s house Rādhā Ṭhākurāṇī Herself cooks.[^32]
+
+দুর্ব্বাসার ঠাঞি তেঁহো পাঞাছেন বর ৷  
+অমৃত হইতে পাক তাঁর অধিক মধুর ॥ ১১৬ ॥
+
+durvāsāra ṭhāñi tem̐ho pāñāchena vara  
+from Durvāsā  She  has received  a boon  
+amṛta haite pāka tām̐ra adhika madhura  
+than nectar  the cooking  Hers  more  sweet
+
+(116) She received a boon from Durvāsā: Her cooking is sweeter than nectar.
+
+সুগন্ধি সুন্দর প্রসাদ — মাধুর্য্যের সার ৷  
+দুই ভাই তাহা খাঞা সন্তোষ অপার ॥ ১১৭ ॥
+
+sugandhi sundara prasāda — mādhuryera sāra  
+fragrant  beautiful  prasāda  of sweetness  the essence  
+dui bhāi tāhā khāñā santoṣa apāra  
+the two  brothers  it  eating  satisfaction  boundless
+
+(117) The fragrant, beautiful prasāda was the very essence of sweetness, and the two brothers ate it with boundless satisfaction.
+
+ভোজনে বসিতে রঘুনাথে কহে সর্ব্বজন ৷  
+পণ্ডিত কহে, — ইঁহ পাছে করিবে ভোজন ॥ ১১৮ ॥
+
+bhojane vasite raghunāthe kahe sarva-jana  
+to the meal  to sit  to Raghunātha  say  all the people  
+paṇḍita kahe, — im̐ha pāche karibe bhojana  
+the Paṇḍita  says  he  later  will take  the meal
+
+(118) Everyone asked Raghunātha to sit down to the meal, but the Paṇḍita said, “He will eat later.”
+
+ভক্তগণ আকণ্ঠ ভরিয়া করিল ভোজন ৷  
+‘হরি’ ধ্বনি করি’ উঠি’ কৈল আচমন ॥ ১১৯ ॥
+
+bhakta-gaṇa ākaṇṭha bhariyā karila bhojana  
+the devotees  to the throat  filling  took  the meal  
+‘hari’ dhvani kari’ uṭhi’ kaila ācamana  
+‘Hari’  the sound  making  rising  did  ācamana
+
+(119) The devotees ate their fill, up to the throat; then, calling out “Hari!”, they rose and rinsed their mouths and hands.
+
+ভোজন করি’ দুই ভাই কৈলা আচমন ৷  
+রাঘব আনি’ পরাইলা মাল্য-চন্দন ॥ ১২০ ॥
+
+bhojana kari’ dui bhāi kailā ācamana  
+the meal  having taken  the two  brothers  did  ācamana  
+rāghava āni’ parāilā mālya-candana  
+Rāghava  bringing  put on Them  garlands and sandal
+
+(120) When the two brothers had eaten, They rinsed Their mouths and hands, and Rāghava brought garlands and sandal paste and adorned Them.
+
+বিড়া খাওয়াইলা, কৈলা চরণ বন্দন ৷  
+ভক্তগণে দিলা বিড়া, মাল্য-চন্দন ॥ ১২১ ॥
+
+biḍā khāoyāilā, kailā caraṇa vandana  
+biḍā  he fed Them  did  to the feet  homage  
+bhakta-gaṇe dilā biḍā, mālya-candana  
+to the devotees  he gave  biḍā  garlands and sandal
+
+(121) He gave Them *biḍā* (prepared betel) to chew and bowed at Their feet; then he gave the devotees *biḍā*, garlands and sandal paste.
+
+রাঘবের কৃপা রঘুনাথের উপরে ৷  
+দুই ভাইএর অবশিষ্ট পাত্র দিলা তাঁরে ॥ ১২২ ॥
+
+rāghavera kṛpā raghunāthera upare  
+Rāghava’s  mercy  Raghunātha  upon  
+dui bhāiera avaśiṣṭa pātra dilā tām̐re  
+of the two brothers  remnant  the plates  he gave  to him
+
+(122) Rāghava’s mercy rested on Raghunātha: he gave him the plates with the remnants of the two brothers.
+
+কহিলা, — চৈতন্য গোসাঞি কৈরাছেন ভোজন ৷  
+তাঁর শেষ পাইলে, তোমার খণ্ডিবে বন্ধন ॥ ১২৩ ॥
+
+kahilā, — caitanya gosāñi kairāchena bhojana  
+he said  Caitanya Gosāñi  has taken  the meal  
+tām̐ra śeṣa pāile, tomāra khaṇḍibe bandhana  
+His  remnants  if you get  your  will be cut  bondage
+
+(123) He said, “Caitanya Gosāñi has eaten from these. If you receive His remnants, your bondage will be cut.”
+
+ভক্ত-চিত্তে ভক্ত-গৃহে সদা অবস্থান ৷  
+কভু গুপ্ত, কভু ব্যক্ত, স্বতন্ত্র ভগবান্ ॥ ১২৪ ॥
+
+bhakta-citte bhakta-gṛhe sadā avasthāna  
+in the devotee’s heart  in the devotee’s home  always  is His abode  
+kabhu gupta, kabhu vyakta, svatantra bhagavān  
+sometimes  hidden  sometimes  manifest  independent  Bhagavān
+
+(124) The independent Bhagavān always abides in the heart and in the home of His devotee — sometimes hidden, sometimes manifest.
+
+সর্ব্বত্র ‘ব্যাপক’ প্রভুর সদা সর্ব্বত্র বাস ৷  
+ইহাতে সংশয় যার, সেই যায় নাশ ॥ ১২৫ ॥
+
+sarvatra ‘vyāpaka’ prabhura sadā sarvatra vāsa  
+everywhere  ‘all-pervading’  of the Lord  always  everywhere  the dwelling  
+ihāte saṁśaya yāra, sei yāya nāśa  
+in this  doubt  whose  he  goes  to ruin
+
+(125) The Lord is all-pervading; He dwells everywhere, always. Whoever doubts this goes to ruin.
+
+প্রাতে নিত্যানন্দ প্রভু গঙ্গাস্নান করিয়া ৷  
+সেই বৃক্ষমূলে বসিলা নিজগণ লঞা ॥ ১২৬ ॥
+
+prāte nityānanda prabhu gaṅgā-snāna kariyā  
+in the morning  Nityānanda  Prabhu  bath in the Gaṅgā  having taken  
+sei vṛkṣa-mūle vasilā nija-gaṇa lañā  
+that  at the foot of the tree  sat  His own associates  taking
+
+(126) In the morning Nityānanda Prabhu bathed in the Gaṅgā and sat with His associates at the foot of that same tree.
+
+রঘুনাথ আসি’ কৈলা চরণ বন্দন ৷  
+রাঘবপণ্ডিত-দ্বারা কৈলা নিবেদন ॥ ১২৭ ॥
+
+raghunātha āsi’ kailā caraṇa vandana  
+Raghunātha  coming  did  to the feet  homage  
+rāghava-paṇḍita-dvārā kailā nivedana  
+through Rāghava Paṇḍita  made  his submission
+
+(127) Raghunātha came and bowed at His feet, and through Rāghava Paṇḍita he humbly made his request:
+
+অধম, পামর মুই হীন জীবাধম !  
+মোর ইচ্ছা হয়, — পাঙ চৈতন্য-চরণ ॥ ১২৮ ॥
+
+adhama, pāmara mui hīna jīvādhama!  
+low  wretched  I  base  the lowest of souls  
+mora icchā haya, — pāṅa caitanya-caraṇa  
+my  desire  is  that I may attain  Caitanya’s feet
+
+(128) “I am low and wretched, base, the lowest of souls. Yet my desire is to attain the feet of Caitanya.
+
+বামন হঞা যেন চান্দ ধরিবারে চায় ৷  
+অনেক যত্ন কৈনু, তাতে কভু সিদ্ধ নয় ॥ ১২৯ ॥
+
+vāmana hañā yena cānda dharibāre cāya  
+a dwarf  being  as if  the moon  to catch  wants  
+aneka yatna kainu, tāte kabhu siddha naya  
+many  efforts  I made  in that  ever  success  not
+
+(129) It is like a dwarf wanting to catch the moon. I have tried many times, but never succeeded.
+
+যতবার পলাই আমি গৃহাদি ছাড়িয়া ৷  
+পিতা, মাতা — দুই মোরে রাখয়ে বান্ধিয়া ॥ ১৩০ ॥
+
+yata-bāra palāi āmi gṛhādi chāḍiyā  
+as many times  I flee  I  home and all  leaving  
+pitā, mātā — dui more rākhaye bāndhiyā  
+father  mother  the two  me  keep  bound
+
+(130) Every time I run away, leaving home and all, my father and mother both keep me bound.
+
+তোমার কৃপা বিনা কেহ ‘চৈতন্য’ না পায় ৷  
+তুমি কৃপা কৈলে তাঁরে অধমেহ পায় ॥ ১৩১ ॥
+
+tomāra kṛpā vinā keha ‘caitanya’ nā pāya  
+Your  mercy  without  anyone  ‘Caitanya’  not  attains  
+tumi kṛpā kaile tām̐re adhameha pāya  
+You  mercy  if You show  Him  even the lowest  attains
+
+(131) Without Your mercy no one attains Caitanya; if You show mercy, even the lowest attains Him.
+
+অযোগ্য মুই নিবেদন করিতে করি ভয় ৷  
+মোরে ‘চৈতন্য’ দেহ’ গোসাঞি হঞা সদয় ॥ ১৩২ ॥
+
+ayogya mui nivedana karite kari bhaya  
+unworthy  I  a request  to make  I feel  fear  
+more ‘caitanya’ deha’ gosāñi hañā sadaya  
+to me  ‘Caitanya’  give  O Gosāñi  being  kind
+
+(132) Unworthy as I am, I am afraid even to ask. O Gosāñi, be kind and grant me Caitanya.
+
+মোর মাথে পদ ধরি’ করহ প্রসাদ ৷  
+নির্ব্বিঘ্নে চৈতন্য পাঙ — কর আশীর্ব্বাদ ॥ ১৩৩ ॥
+
+mora māthe pada dhari’ karaha prasāda  
+my  on the head  Your foot  placing  bestow  grace  
+nirvighne caitanya pāṅa — kara āśīrvāda  
+without obstacles  Caitanya  that I may attain  give  blessing
+
+(133) Place Your foot on my head and grant me this grace; bless me, that I may attain Caitanya without obstacles.”
+
+শুনি’ হাসি’ কহে প্রভু সব ভক্তগণে ৷  
+ইঁহার বিষয়সুখ — ইন্দ্রসুখ-সমে ॥ ১৩৪ ॥
+
+śuni’ hāsi’ kahe prabhu saba bhakta-gaṇe  
+hearing  smiling  says  the Lord  to all  the devotees  
+im̐hāra viṣaya-sukha — indra-sukha-same  
+his  worldly happiness  to Indra’s happiness  equal
+
+(134) Hearing this, the Lord smiled and said to all the devotees, “His worldly happiness equals the happiness of Indra.
+
+চৈতন্য-কৃপাতে সেহ নাহি ভায় মনে ৷  
+সবে আশীর্ব্বাদ কর, — পাউক চৈতন্য-চরণে ॥ ১৩৫ ॥
+
+caitanya-kṛpāte seha nāhi bhāya mane  
+by Caitanya’s mercy  even that  not  pleases  his mind  
+sabe āśīrvāda kara, — pāuka caitanya-caraṇe  
+all of you  blessing  give  may he attain  Caitanya’s feet
+
+(135) Yet by Caitanya’s mercy even that holds no charm for his mind. All of you, bless him, that he may attain the feet of Caitanya.
+
+কৃষ্ণপাদপদ্ম-গন্ধ যেই জন পায় ৷  
+ব্রহ্মলোক আদি সুখ তাঁরে নাহি ভায় ॥ ১৩৬ ॥
+
+kṛṣṇa-pāda-padma-gandha yei jana pāya  
+of Kṛṣṇa’s lotus feet  the fragrance  whoever  person  obtains  
+brahmaloka ādi sukha tām̐re nāhi bhāya  
+Brahmaloka  and the rest  the happiness  to him  not  appeals
+
+(136) One who has caught the fragrance of Kṛṣṇa’s lotus feet finds no charm in the happiness of Brahmaloka and the other worlds.”
+
+যো দুস্ত্যজান্ দারসুতান্ সুহৃদ্রাজ্যং হৃদিস্পৃশঃ ৷  
+জহৌ যুবৈব মলবদুত্তমঃশ্লোকলালসঃ ॥ ১৩৭ ॥
+
+yo dustyajān dāra-sutān  
+who  hard to give up  wife and sons  
+suhṛd-rājyaṁ hṛdi-spṛśaḥ  
+friends and kingdom  dear to the heart  
+jahau yuvaiva mala-vad  
+gave up  while young  even  like filth  
+uttamaḥ-śloka-lālasaḥ  
+for Uttamaśloka  longing
+
+(137) “Longing for Uttamaśloka, Bharata, while still young, cast off like so much filth his wife and sons, his friends and kingdom — all so dear to his heart and so hard to leave.” (Śrīmad-Bhāgavatam, 5.14.43)[^33]
+
+তবে রঘুনাথে প্রভু নিকটে বোলাইলা ৷  
+তাঁর মাথে পদ ধরি’ কহিতে লাগিলা ॥ ১৩৮ ॥
+
+tabe raghunāthe prabhu nikaṭe bolāilā  
+then  Raghunātha  the Lord  near  called  
+tām̐ra māthe pada dhari’ kahite lāgilā  
+on his  head  His foot  placing  to speak  began
+
+(138) Then the Lord called Raghunātha near, placed His foot on his head and began to speak:
+
+তুমি যে করাইলা এই পুলিন-ভোজন ৷  
+তোমায় কৃপা করি’ গৌর কৈলা আগমন ॥ ১৩৯ ॥
+
+tumi ye karāilā ei pulina-bhojana  
+you  that  arranged  this  picnic on the sandy bank  
+tomāya kṛpā kari’ gaura kailā āgamana  
+to you  mercy  showing  Gaura  made  His coming
+
+(139) “Gaura came to this picnic on the riverbank that you arranged, to show you mercy.
+
+কৃপা করি’ কৈলা চিড়া-দুগ্ধ ভোজন ৷  
+নৃত্য দেখি’ রাত্র্যে কৈলা প্রসাদ ভক্ষণ ॥ ১৪০ ॥
+
+kṛpā kari’ kailā ciḍā-dugdha bhojana  
+mercy  showing  He did  ciḍā and milk  eating  
+nṛtya dekhi’ rātrye kailā prasāda bhakṣaṇa  
+the dancing  seeing  at night  He did  prasāda  partaking
+
+(140) In His mercy He ate *ciḍā* with milk, and at night, after watching the dancing, He partook of the prasāda.
+
+তোমা উদ্ধারিতে গৌর আইলা আপনে ৷  
+ছুটিল তোমার যত বিঘ্নাদি-বন্ধনে ॥ ১৪১ ॥
+
+tomā uddhārite gaura āilā āpane  
+you  to deliver  Gaura  came  Himself  
+chuṭila tomāra yata vighnādi-bandhane  
+have been loosed  your  all  obstacles and other  bonds
+
+(141) Gaura came Himself to deliver you. All your bonds — obstacles and the rest — have been loosed.
+
+স্বরূপের স্থানে তোমা করিবে সমর্পণে ৷  
+‘অন্তরঙ্গ’ ভৃত্য বলি’ রাখিবে চরণে ॥ ১৪২ ॥
+
+svarūpera sthāne tomā karibe samarpaṇe  
+of Svarūpa  into the keeping  you  He will make  the entrusting  
+‘antaraṅga’ bhṛtya bali’ rākhibe caraṇe  
+‘intimate’  servant  calling you  He will keep  at His feet
+
+(142) He will entrust you to Svarūpa and keep you at His feet, calling you His intimate servant.
+
+নিশ্চিন্ত হঞা যাহ আপন-ভবন ৷  
+অচিরে নির্ব্বিঘ্নে পাবে চৈতন্য-চরণ ॥ ১৪৩ ॥
+
+niścinta hañā yāha āpana-bhavana  
+free from care  being  go  to your own  home  
+acire nirvighne pābe caitanya-caraṇa  
+soon  without obstacles  you will attain  Caitanya’s feet
+
+(143) Go home free from care. Soon, without obstacles, you will attain the feet of Caitanya.”
+
+সব ভক্তদ্বারে তাঁরে আশীর্ব্বাদ করাইলা ৷  
+তাঁ-সবার চরণ রঘুনাথ বন্দিলা ॥ ১৪৪ ॥
+
+saba bhakta-dvāre tām̐re āśīrvāda karāilā  
+all  through the devotees  on him  blessing  He had bestowed  
+tām̐-sabāra caraṇa raghunātha vandilā  
+their  all  the feet  Raghunātha  honored
+
+(144) Through all the devotees the Lord had him blessed, and Raghunātha bowed at the feet of them all.[^34]
+
+প্রভু-আজ্ঞা লঞা বৈষ্ণবের আজ্ঞা লইলা ৷  
+রাঘব-সহিতে নিভৃতে যুক্তি করিলা ॥ ১৪৫ ॥
+
+prabhu-ājñā lañā vaiṣṇavera ājñā lailā  
+the Lord’s permission  taking  of the Vaiṣṇavas  the permission  he took  
+rāghava-sahite nibhṛte yukti karilā  
+with Rāghava  in private  counsel  he took
+
+(145) Taking leave of the Lord and of the Vaiṣṇavas, he consulted with Rāghava in private.
+
+যুক্তি করি’ শত মুদ্রা, সোণা তোলা-সাতে ৷  
+নিভৃতে দিলা প্রভুর ভাণ্ডারীর হাতে ॥ ১৪৬ ॥
+
+yukti kari’ śata mudrā, soṇā tolā-sāte  
+counsel  having taken  a hundred  coins  of gold  tolās  seven  
+nibhṛte dilā prabhura bhāṇḍārīra hāte  
+in secret  he gave  of the Lord’s  treasurer  into the hand
+
+(146) After consulting him, he secretly placed a hundred coins and seven *tolās* of gold in the hands of the Lord’s treasurer.[^35]
+
+তাঁরে নিষেধিলা, — প্রভুরে এবে না কহিবা ৷  
+নিজঘরে যাবেন যবে তবে নিবেদিবা ॥ ১৪৭ ॥
+
+tām̐re niṣedhilā, — prabhure ebe nā kahibā  
+him  he forbade  to the Lord  now  not  you shall tell  
+nija-ghare yābena yabe tabe nivedibā  
+to His own home  He will go  when  then  you shall submit it
+
+(147) He told him, “Do not tell the Lord now; when He goes home, tell Him then.”
+
+তবে রাঘব-পণ্ডিত তাঁরে ঘরে লঞা গেলা ৷  
+ঠাকুর দর্শন করাঞা মালা চন্দন দিলা ॥ ১৪৮ ॥
+
+tabe rāghava-paṇḍita tām̐re ghare lañā gelā  
+then  Rāghava Paṇḍita  him  home  taking  went  
+ṭhākura darśana karāñā mālā candana dilā  
+the Deity’s  darśana  granting  garland  sandal  he gave
+
+(148) Then Rāghava Paṇḍita took him home, gave him darśana of the Deity, and gave him a garland and sandal paste.
+
+অনেক ‘প্রসাদ’ দিলা পথে খাইবারে ৷  
+তবে পুনঃ রঘুনাথ কহে পণ্ডিতেরে ॥ ১৪৯ ॥
+
+aneka ‘prasāda’ dilā pathe khāibāre  
+much  ‘prasāda’  he gave  on the way  to eat  
+tabe punaḥ raghunātha kahe paṇḍitere  
+then  again  Raghunātha  says  to the Paṇḍita
+
+(149) He gave him plenty of prasāda to eat on the way. Then Raghunātha spoke again to the Paṇḍita:
+
+প্রভুর সঙ্গে যত মহান্ত, ভৃত্য, আশ্রিত জন ৷  
+পূজিতে চাহিয়ে আমি সবার চরণ ॥ ১৫০ ॥
+
+prabhura saṅge yata mahānta, bhṛtya, āśrita jana  
+with the Lord  all  great souls  servants  dependent  persons  
+pūjite cāhiye āmi sabāra caraṇa  
+to worship  wish  I  of all  the feet
+
+(150) “I wish to worship the feet of all the great souls, servants and dependents who are with the Lord.
+
+বিশ, পঞ্চদশ, বার, দশ, পঞ্চ হয় ৷  
+মুদ্রা দেহ’ বিচারি’ যার যত যোগ্য হয় ॥ ১৫১ ॥
+
+biśa, pañca-daśa, bāra, daśa, pañca haya  
+twenty  fifteen  twelve  ten  five  there are  
+mudrā deha’ vicāri’ yāra yata yogya haya  
+coins  give  considering  to whom  how many  fitting  is
+
+(151) Twenty, fifteen, twelve, ten or five — give the coins, considering how many befit each one.”
+
+সব লেখা করিয়া রাঘব-পাশ দিলা ৷  
+যাঁর নামে যত রাঘব চিঠি লেখাইলা ॥ ১৫২ ॥
+
+saba lekhā kariyā rāghava-pāśa dilā  
+all  account  making  near Rāghava  he gave  
+yām̐ra nāme yata rāghava ciṭhi lekhāilā  
+in whose  name  how much  Rāghava  notes  had written
+
+(152) He made up the whole account and gave it to Rāghava, and Rāghava had a note written for each one, with his name and the amount.[^36]
+
+একশত মুদ্রা, আর সোণা তোলা-দ্বয় ৷  
+পণ্ডিতের আগে দিলা করিয়া বিনয় ॥ ১৫৩ ॥
+
+eka-śata mudrā, āra soṇā tolā-dvaya  
+one hundred  coins  and  of gold  two tolās  
+paṇḍitera āge dilā kariyā vinaya  
+before the Paṇḍita  he gave  showing  humility
+
+(153) Humbly he placed a hundred coins and two *tolās* of gold before the Paṇḍita.[^37]
+
+তাঁর পদধূলি লঞা স্বগৃহে আইলা ৷  
+নিত্যানন্দ-কৃপা পাঞা কৃতার্থ মানিলা ॥ ১৫৪ ॥
+
+tām̐ra pada-dhūli lañā svagṛhe āilā  
+his  the dust of the feet  taking  to his own home  he came  
+nityānanda-kṛpā pāñā kṛtārtha mānilā  
+Nityānanda’s mercy  having received  fulfilled  he felt
+
+(154) Taking the dust of his feet, he returned home; having received Nityānanda’s mercy, he felt that his life had found its purpose.
+
+সেই হৈতে অভ্যন্তরে না করেন গমন ৷  
+বাহিরে দুর্গামণ্ডপে করেন শয়ন ॥ ১৫৫ ॥
+
+sei haite abhyantare nā karena gamana  
+from that time  inside  not  he does  go  
+bāhire durgā-maṇḍape karena śayana  
+outside  in the durgā-maṇḍapa  he does  sleep
+
+(155) From then on he did not go into the inner quarters of the house, but slept outside in the *durgā-maṇḍapa*.
+
+তাঁহা জাগি’ রহে সব রক্ষকগণ ৷  
+পলাইতে করেন নানা উপায় চিন্তন ॥ ১৫৬ ॥
+
+tām̐hā jāgi’ rahe saba rakṣaka-gaṇa  
+there  awake  remain  all  the guards  
+palāite karena nānā upāya cintana  
+to flee  he does  various  means  thinking of
+
+(156) There the guards all kept watch, while he thought of various ways to escape.
+
+হেনকালে গৌড়দেশের সব ভক্তগণ ৷  
+প্রভুরে দেখিতে নীলাচলে করিলা গমন ॥ ১৫৭ ॥
+
+hena-kāle gauḍa-deśera saba bhakta-gaṇa  
+at such a time  of the land of Gauḍa  all  the devotees  
+prabhure dekhite nīlācale karilā gamana  
+the Lord  to see  to Nīlācala  made  their going
+
+(157) At that time all the devotees of Gauḍa set out for Nīlācala to see the Lord.
+
+তাঁ-সবার সঙ্গে রঘুনাথ যাইতে না পারে ৷  
+প্রসিদ্ধ প্রকট সঙ্গ, তবঁহি ধরা পড়ে ॥ ১৫৮ ॥
+
+tām̐-sabāra saṅge raghunātha yāite nā pāre  
+with them all  Raghunātha  to go  not  can  
+prasiddha prakaṭa saṅga, tabam̐hi dharā paḍe  
+well known  open  the company  at once  caught  he falls
+
+(158) Raghunātha could not go with them: their company was well known and in plain sight, and he would have been caught at once.
+
+এইমত চিন্তিতে দৈবে একদিনে ৷  
+বাহিরে দেবীমণ্ডপে কৈরাছেন শয়নে ॥ ১৫৯ ॥
+
+ei-mata cintite daive eka-dine  
+thus  while thinking  by providence  one day  
+bāhire devī-maṇḍape kairāchena śayane  
+outside  in the devī-maṇḍapa  he was  sleeping
+
+(159) While he was pondering this, one day, as providence would have it, he was sleeping outside in the *devī-maṇḍapa*.
+
+দণ্ড-চারি রাত্রি যবে আছে অবশেষ ৷  
+যদুনন্দন-আচার্য্য তবে করিলা প্রবেশ ॥ ১৬০ ॥
+
+daṇḍa-cāri rātri yabe āche avaśeṣa  
+four daṇḍas  of the night  when  is  remaining  
+yadunandana-ācārya tabe karilā praveśa  
+Yadunandana Ācārya  then  made  his entrance
+
+(160) When four *daṇḍas* of the night remained, Yadunandana Ācārya came in.
+
+বাসুদেব-দত্তের তেঁহ হয় ‘অনুগৃহীত’ ৷  
+রঘুনাথের ‘গুরু’ তেঁহো হয় ‘পুরোহিত’ ॥ ১৬১ ॥
+
+vāsudeva-dattera tem̐ha haya ‘anugṛhīta’  
+of Vāsudeva Datta  he  is  ‘favored’  
+raghunāthera ‘guru’ tem̐ho haya ‘purohita’  
+Raghunātha’s  ‘guru’  he  is  ‘purohita’
+
+(161) He had received the favour of Vāsudeva Datta; he was Raghunātha’s guru and family priest (*purohita*).[^38]
+
+অদ্বৈত-আচার্য্যের তেঁহ ‘শিষ্য অন্তরঙ্গ’ ৷  
+আচার্য্য-আজ্ঞাতে মানে — চৈতন্য ‘প্রাণধন’ ॥ ১৬২ ॥
+
+advaita-ācāryera tem̐ha ‘śiṣya antaraṅga’  
+of Advaita Ācārya  he  ‘an intimate disciple’  
+ācārya-ājñāte māne — caitanya ‘prāṇa-dhana’  
+at the Ācārya’s order  he holds  Caitanya  as ‘the treasure of life’
+
+(162) He was an intimate disciple of Advaita Ācārya, and at the Ācārya’s order he held Caitanya to be the treasure of his life.[^39]
+
+অঙ্গনে আসিয়া তেঁহো যবে দাণ্ডাইলা ৷  
+রঘুনাথ আসি’ তবে দণ্ডবৎ কৈলা ॥ ১৬৩ ॥
+
+aṅgane āsiyā tem̐ho yabe dāṇḍāilā  
+in the courtyard  coming  he  when  stood  
+raghunātha āsi’ tabe daṇḍavat kailā  
+Raghunātha  coming  then  obeisance  made
+
+(163) When he came and stood in the courtyard, Raghunātha came and offered him obeisances.
+
+তাঁর এক শিষ্য তাঁর ঠাকুরের সেবা করে ৷  
+সেবা ছাড়িয়াছে, তারে সাধিবার তরে ॥ ১৬৪ ॥
+
+tām̐ra eka śiṣya tām̐ra ṭhākurera sevā kare  
+his  one  disciple  his  of the Deity  service  does  
+sevā chāḍiyāche, tāre sādhibāra tare  
+the service  has given up  him  to persuade  for the sake
+
+(164) A disciple of his who served his Deity had given up the service, and he wanted him persuaded to take it up again.
+
+রঘুনাথে কহে, — তারে করহ সাধন ৷  
+সেবা যেন করে, আর নাহিক ‘ব্রাহ্মণ’ ॥ ১৬৫ ॥
+
+raghunāthe kahe, — tāre karaha sādhana  
+to Raghunātha  he says  him  do  persuade  
+sevā yena kare, āra nāhika ‘brāhmaṇa’  
+service  so that  he does  other  there is none  ‘brāhmaṇa’
+
+(165) He said to Raghunātha, “Persuade him to do the service; there is no other brāhmaṇa.”
+
+এত কহি’ রঘুনাথে লঞা চলিলা ৷  
+রক্ষক সব শেষরাত্রে নিদ্রায় পড়িলা ॥ ১৬৬ ॥
+
+eta kahi’ raghunāthe lañā calilā  
+this  saying  Raghunātha  taking  he set off  
+rakṣaka saba śeṣa-rātre nidrāya paḍilā  
+the guards  all  at the end of the night  into sleep  fell
+
+(166) Saying this, he set off with Raghunātha. Towards the end of the night all the guards had fallen asleep.
+
+আচার্য্যের ঘর ইহার পূর্ব্বদিশাতে ৷  
+কহিতে শুনিতে দুঁহে চলে সেই পথে ॥ ১৬৭ ॥
+
+ācāryera ghara ihāra pūrva-diśāte  
+the Ācārya’s  house  from his  to the east  
+kahite śunite dum̐he cale sei pathe  
+speaking  listening  the two  walk  along that road
+
+(167) The Ācārya’s house lay to the east of Raghunātha’s, and the two walked along that road, talking and listening.
+
+অর্দ্ধপথে রঘুনাথ কহে গুরুর চরণে ৷  
+আমি সেই বিপ্রে সাধি’ পাঠাইমু তোমা স্থানে ॥ ১৬৮ ॥
+
+arddhapathe raghunātha kahe gurura caraṇe  
+halfway  Raghunātha  says  at the guru’s  feet  
+āmi sei vipre sādhi’ pāṭhāimu tomā sthāne  
+I  that  brāhmaṇa  having persuaded  will send  to your  place
+
+(168) Halfway there Raghunātha said at his guru’s feet, “I will persuade that brāhmaṇa and send him to your house.[^40]
+
+তুমি ঘরে যাহ সুখে, — মোরে আজ্ঞা হয় ৷  
+এই ছলে আজ্ঞা মাগি’ করিলা নিশ্চয় ॥ ১৬৯ ॥
+
+tumi ghare yāha sukhe, — more ājñā haya  
+you  home  go  happily  to me  permission  let there be  
+ei chale ājñā māgi’ karilā niścaya  
+on this  pretext  leave  begging  he made  his resolve
+
+(169) Go home in peace and give me leave.” Having begged leave on this pretext, he made up his mind:[^41]
+
+সেবক রক্ষক আর কেহ নাহি সঙ্গে ৷  
+পলাইতে আমার ভাল এই ত’ প্রসঙ্গে ॥ ১৭০ ॥
+
+sevaka rakṣaka āra keha nāhi saṅge  
+servant  guard  or  anyone  not  with me  
+palāite āmāra bhāla ei ta’ prasaṅge  
+for fleeing  my  good  this  indeed  opportunity
+
+(170) “No servant, no guard — no one is with me. This is my chance to escape.”
+
+এত চিন্তি’ পূর্ব্বমুখে করিলা গমন ৷  
+উলটিয়া চাহে পাছে, — নাহি কোন জন ॥ ১৭১ ॥
+
+eta cinti’ pūrva-mukhe karilā gamana  
+thus  thinking  to the east  he made  his way  
+ulaṭiyā cāhe pāche, — nāhi kona jana  
+turning  he looks  behind  not  any  person
+
+(171) Thinking this, he set off towards the east. He turned and looked back — no one was there.
+
+শ্রীচৈতন্য-নিত্যানন্দ-চরণ চিন্তিয়া ৷  
+পথ ছাড়ি’ উপপথে যায়েন ধাঞা ॥ ১৭২ ॥
+
+śrī-caitanya-nityānanda-caraṇa cintiyā  
+of Śrī Caitanya and Nityānanda  the feet  meditating on  
+patha chāḍi’ upapathe yāyena dhāñā  
+the road  leaving  by byways  he goes  running
+
+(172) Meditating on the feet of Śrī Caitanya and Nityānanda, he left the road and hurried along byways.
+
+গ্রামে-গ্রামের পথ ছাড়ি’ যায় বনে-বনে ৷  
+কায়মনোবাক্যে চিন্তে চৈতন্য-চরণে ॥ ১৭৩ ॥
+
+grāme-grāmera patha chāḍi’ yāya vane-vane  
+from village to village  the road  leaving  he goes  from forest to forest  
+kāya-mano-vākye cinte caitanya-caraṇe  
+with body, mind and words  he meditates  on Caitanya’s feet
+
+(173) Avoiding the road that led from village to village, he went from forest to forest, meditating on the feet of Caitanya with body, mind and words.
+
+পঞ্চদশ-ক্রোশ-পথ চলি’ গেলা একদিনে ৷  
+সন্ধ্যাকালে রহিলা এক গোপের বাথানে ॥ ১৭৪ ॥
+
+pañca-daśa-krośa-patha cali’ gelā eka-dine  
+fifteen krośas  of road  walking  he went  in one day  
+sandhyā-kāle rahilā eka gopera bāthāne  
+at dusk  he stayed  one  cowherd’s  in the cowshed
+
+(174) In one day he walked fifteen *krośas*, and at dusk he stayed in a cowherd’s cowshed.
+
+উপবাসী দেখি’ গোপ দুগ্ধ আনি’ দিলা ৷  
+সেই দুগ্ধ পান করি’ পড়িয়া রহিলা ॥ ১৭৫ ॥
+
+upavāsī dekhi’ gopa dugdha āni’ dilā  
+fasting  seeing  the cowherd  milk  bringing  gave  
+sei dugdha pāna kari’ paḍiyā rahilā  
+that  milk  drinking  lying down  he remained
+
+(175) Seeing that he was fasting, the cowherd brought him milk. He drank it and lay down there.
+
+এথা তাঁর সেবক রক্ষক তাঁরে না দেখিয়া ৷  
+তাঁর গুরুপাশে বার্ত্তা পুছিলেন গিয়া ॥ ১৭৬ ॥
+
+ethā tām̐ra sevaka rakṣaka tām̐re nā dekhiyā  
+here  his  servant  guard  him  not  seeing  
+tām̐ra guru-pāśe vārtā puchilena giyā  
+his  to the guru  news  asked  going
+
+(176) Back at home his servant and guard, not finding him, went to his guru and asked for news of him.
+
+তেঁহ কহে, — আজ্ঞা মাগি’ গেলা নিজ ঘর ৷  
+পলাইল রঘুনাথ — উঠিল কোলাহল ॥ ১৭৭ ॥
+
+tem̐ha kahe, — ājñā māgi’ gelā nija ghara  
+he  says  leave  asking  he went  to his own  home  
+palāila raghunātha — uṭhila kolāhala  
+has fled  Raghunātha  arose  an uproar
+
+(177) He said, “He asked my leave and went to his own home.” “Raghunātha has fled!” — an uproar arose.
+
+তাঁর পিতা কহে, — গৌড়ের ভক্তগণ ৷  
+প্রভু-স্থানে নীলাচলে করিলা গমন ॥ ১৭৮ ॥
+
+tām̐ra pitā kahe, — gauḍera bhakta-gaṇa  
+his  father  says  of Gauḍa  the devotees  
+prabhu-sthāne nīlācale karilā gamana  
+to the Lord’s presence  to Nīlācala  have made  their going
+
+(178) His father said, “The devotees of Gauḍa have set out for Nīlācala to see the Lord.[^42]
+
+সেই-সঙ্গে রঘুনাথ গেল পলাঞা ৷  
+দশ জন যাহ, তারে আনহ ধরিয়া ॥ ১৭৯ ॥
+
+sei-saṅge raghunātha gela palāñā  
+with them  Raghunātha  has gone  fleeing  
+daśa jana yāha, tāre ānaha dhariyā  
+ten  men  go  him  bring back  catching
+
+(179) Raghunātha has run off with them. Ten men, go, catch him and bring him back!”
+
+শিবানন্দে পত্রী দিল বিনয় করিয়া ৷  
+আমার পুত্রেরে তুমি দিবা বাহুড়িয়া ॥ ১৮০ ॥
+
+śivānande patrī dila vinaya kariyā  
+to Śivānanda  a letter  he gave  humility  showing  
+āmāra putrere tumi dibā bāhuḍiyā  
+my  son  you  shall give  sending back
+
+(180) He humbly sent a letter to Śivānanda: “Please send my son back to me.”
+
+ঝাঁকরা পর্য্যন্ত গেল সেই দশ জনে ৷  
+ঝাঁকরাতে পাইল গিয়া বৈষ্ণবের গণে ॥ ১৮১ ॥
+
+jhām̐karā paryanta gela sei daśa jane  
+Jhā̃karā  as far as  went  those  ten  men  
+jhām̐karāte pāila giyā vaiṣṇavera gaṇe  
+at Jhā̃karā  found  going  of the Vaiṣṇavas  the party
+
+(181) The ten men went as far as Jhā̃karā, and there they caught up with the party of Vaiṣṇavas.
+
+পত্রী দিয়া শিবানন্দে বার্ত্তা পুছিল ৷  
+শিবানন্দ কহে, — তেঁহ এথা না আইল ॥ ১৮২ ॥
+
+patrī diyā śivānande vārtā puchila  
+the letter  giving  to Śivānanda  news  they asked  
+śivānanda kahe, — tem̐ha ethā nā āila  
+Śivānanda  says  he  here  not  came
+
+(182) They gave Śivānanda the letter and asked for news. Śivānanda said, “He has not come here.”
+
+বাহুড়িয়া সেই দশ জন আইল ঘর ৷  
+তাঁর মাতা-পিতা হইল চিন্তিত অন্তর ॥ ১৮৩ ॥
+
+bāhuḍiyā sei daśa jana āila ghara  
+returning  those  ten  men  came  home  
+tām̐ra mātā-pitā haila cintita antara  
+his  mother and father  became  troubled  at heart
+
+(183) The ten men returned home, and his mother and father were deeply troubled.
+
+এথা রঘুনাথ-দাস প্রভাতে উঠিয়া ৷  
+পূর্ব্বমুখ ছাড়ি’ চলে দক্ষিণ-মুখ হঞা ॥ ১৮৪ ॥
+
+ethā raghunātha-dāsa prabhāte uṭhiyā  
+here  Raghunātha dāsa  at daybreak  rising  
+pūrva-mukha chāḍi’ cale dakṣiṇa-mukha hañā  
+the eastward way  leaving  goes  southward  turning
+
+(184) Meanwhile Raghunātha dāsa rose at daybreak, left the eastward road and went on, turning south.
+
+ছত্রভোগ পার হঞা ছাড়িয়া সরাণ ৷  
+কুগ্রাম-কুগ্রাম দিয়া করিল প্রয়াণ ॥ ১৮৫ ॥
+
+chatrabhoga pāra hañā chāḍiyā sarāṇa  
+Chatrabhoga  crossing  leaving  the main road  
+kugrāma-kugrāma diyā karila prayāṇa  
+by poor villages, poor villages  he made  his journey
+
+(185) Past Chatrabhoga he left the main road and journeyed on through small, out-of-the-way villages.[^43]
+
+ভক্ষণ অপেক্ষা নাহি, সমস্ত-দিবস গমন ৷  
+ক্ষুধা নাহি বাধে চৈতন্যচরণ প্রাপ্ত্যে মন ॥ ১৮৬ ॥
+
+bhakṣaṇa apekṣā nāhi, samasta-divasa gamana  
+of food  concern  none  the whole  day  walking  
+kṣudhā nāhi bādhe caitanya-caraṇa prāptye mana  
+hunger  not  hinders  on attaining Caitanya’s feet  the mind
+
+(186) He gave no thought to food and walked all day long. Hunger did not trouble him, for his mind was set on attaining the feet of Caitanya.
+
+কভু চর্ব্বণ, কভু রন্ধন, কভু দুগ্ধপান ৷  
+যবে যেই মিলে, তাহে রাখে নিজ-প্রাণ ॥ ১৮৭ ॥
+
+kabhu carvaṇa, kabhu randhana, kabhu dugdha-pāna  
+sometimes  chewing  sometimes  cooking  sometimes  drinking milk  
+yabe yei mile, tāhe rākhe nija-prāṇa  
+whenever  whatever  is found  with that  he sustains  his life
+
+(187) Sometimes he chewed raw grain, sometimes he cooked, sometimes he drank milk; he kept himself alive on whatever came his way.
+
+বারদিনে চলি’ গেলা শ্রীপুরুষোত্তম ৷  
+পথে তিনদিন মাত্র করিলা ভোজন ॥ ১৮৮ ॥
+
+bāra-dine cali’ gelā śrī-puruṣottama  
+in twelve days  walking  he reached  Śrī Puruṣottama  
+pathe tina-dina mātra karilā bhojana  
+on the way  three days  only  he took  a meal
+
+(188) In twelve days he reached Śrī Puruṣottama; on the way he ate on only three days.
+
+স্বরূপাদি-সহ গোসাঞি আছেন বসিয়া ৷  
+হেনকালে রঘুনাথ মিলিলা আসিয়া ॥ ১৮৯ ॥
+
+svarūpādi-saha gosāñi āchena vasiyā  
+with Svarūpa and others  Gosāñi  is  sitting  
+hena-kāle raghunātha mililā āsiyā  
+at that time  Raghunātha  met Him  arriving
+
+(189) Gosāñi was sitting with Svarūpa and others when Raghunātha arrived and came before Him.
+
+অঙ্গনেতে দূরে রহি’ করেন প্রণিপাত ৷  
+মুকুন্দ-দত্ত কহে, — এই আইল রঘুনাথ ॥ ১৯০ ॥
+
+aṅganete dūre rahi’ karena praṇipāta  
+in the courtyard  at a distance  staying  he offers  obeisance  
+mukunda-datta kahe, — ei āila raghunātha  
+Mukunda Datta  says  here  has come  Raghunātha
+
+(190) Keeping his distance in the courtyard, he bowed down. Mukunda Datta said, “Here is Raghunātha!”
+
+প্রভু কহেন, — আইস, তেঁহো ধরিলা চরণ ৷  
+উঠি’ প্রভু, কৃপায় তাঁরে করিলা আলিঙ্গন ॥ ১৯১ ॥
+
+prabhu kahena, — āisa, tem̐ho dharilā caraṇa  
+the Lord  says  come  he  clasped  the feet  
+uṭhi’ prabhu, kṛpāya tām̐re karilā āliṅgana  
+rising  the Lord  in mercy  him  embraced
+
+(191) The Lord said, “Come!” Raghunātha clasped His feet, and the Lord rose and mercifully embraced him.
+
+স্বরূপাদি সব ভক্তের চরণ বন্দিলা ৷  
+প্রভু-কৃপা দেখি’ সবে আলিঙ্গন কৈলা ॥ ১৯২ ॥
+
+svarūpādi saba bhaktera caraṇa vandilā  
+of Svarūpa and all  the devotees  the feet  he honored  
+prabhu-kṛpā dekhi’ sabe āliṅgana kailā  
+the Lord’s mercy  seeing  all  embraced him
+
+(192) He bowed at the feet of Svarūpa and all the devotees, and they all, seeing the Lord’s mercy on him, embraced him.
+
+প্রভু কহে, — কৃষ্ণ-কৃপা বলিষ্ঠ সবা হৈতে ৷  
+তোমারে কাড়িল বিষয়-বিষ্ঠা-গর্ত্ত হৈতে ॥ ১৯৩ ॥
+
+prabhu kahe, — kṛṣṇa-kṛpā baliṣṭha sabā haite  
+the Lord  says  Kṛṣṇa’s mercy  stronger  than all  
+tomāre kāḍila viṣaya-viṣṭhā-garta haite  
+you  has snatched  from the cesspit of worldly life  out of
+
+(193) The Lord said, “Kṛṣṇa’s mercy is stronger than everything: it has snatched you out of the cesspit of worldly life.”[^44]
+
+রঘুনাথ কহে মনে, — কৃষ্ণ নাহি জানি ৷  
+তব কৃপা কাড়িল আমা, — এই আমি মানি ॥ ১৯৪ ॥
+
+raghunātha kahe mane, — kṛṣṇa nāhi jāni  
+Raghunātha  says  in his mind  Kṛṣṇa  not  I know  
+tava kṛpā kāḍila āmā, — ei āmi māni  
+Your  mercy  snatched  me  this  I  accept
+
+(194) Raghunātha said to himself, “I do not know Kṛṣṇa. It is Your mercy that has snatched me out — this I know.”
+
+প্রভু কহেন, — তোমার পিতা জ্যেঠা, দুইজনে ৷  
+চক্রবর্ত্তী-সম্বন্ধে আমি ‘আজা’ করি’ মানে ॥ ১৯৫ ॥
+
+prabhu kahena, — tomāra pitā jyeṭhā, dui-jane  
+the Lord  says  your  father  uncle  both  
+cakravartī-sambandhe āmi ‘ājā’ kari’ māne  
+by their relation with Cakravartī  I  as ‘ājā’  regard
+
+(195) The Lord said, “Your father and your uncle — because of their bond with Cakravartī, I regard both of them as My grandfathers (*ājā*).
+
+চক্রবর্ত্তীর দুঁহে হয় ভ্রাতৃরূপ ‘দাস’ ৷  
+অতএব তারে আমি করি পরিহাস ॥ ১৯৬ ॥
+
+cakravartīra dum̐he haya bhrātṛ-rūpa ‘dāsa’  
+of Cakravartī  the two  are  brother-like  ‘servants’  
+ataeva tāre āmi kari parihāsa  
+therefore  them  I  make  jest of
+
+(196) Both are Cakravartī’s ‘servants’, like brothers to him; that is why I joke about them.
+
+তোমার বাপ-জ্যেঠা — বিষয়বিষ্ঠা গর্ত্তের কীড়া ৷  
+সুখ করি’ মানে বিষয়-বিষের মহাপীড়া ॥ ১৯৭ ॥
+
+tomāra bāpa-jyeṭhā — viṣaya-viṣṭhā gartera kīḍā  
+your  father and uncle  of the pit of worldly stool  worms  
+sukha kari’ māne viṣaya-viṣera mahā-pīḍā  
+as happiness  they take  of the poison of sense objects  the great torment
+
+(197) Your father and uncle are worms in the cesspit of worldly stool: the great torment caused by the poison of sense objects they take for happiness.
+
+যদ্যপি ব্রহ্মণ্য করে ব্রাহ্মণের সহায় ৷  
+‘শুদ্ধবৈষ্ণব’ নহে, ‘বৈষ্ণবের প্রায়’ ॥ ১৯৮ ॥
+
+yadyapi brahmaṇya kare brāhmaṇera sahāya  
+although  piety toward brāhmaṇas  they show  of the brāhmaṇas  helpers  
+‘śuddha-vaiṣṇava’ nahe, ‘vaiṣṇavera prāya’  
+‘pure Vaiṣṇavas’  not  ‘almost Vaiṣṇavas’
+
+(198) Though they are devoted to brāhmaṇas and help them, they are not pure Vaiṣṇavas — only ‘almost Vaiṣṇavas’.
+
+তথাপি বিষয়ের স্বভাব — করে মহা-অন্ধ ৷  
+সেই কর্ম্ম করায়, যাতে হয় ভব-বন্ধ ॥ ১৯৯ ॥
+
+tathāpi viṣayera svabhāva — kare mahā-andha  
+still  of worldly things  the nature  makes  greatly blind  
+sei karma karāya, yāte haya bhava-bandha  
+those  acts  makes one do  by which  there is  bondage to the world
+
+(199) Still, it is the nature of worldly things to make one utterly blind; they make one do the very acts that bind one to the world of birth and death.[^45]
+
+হেন ‘বিষয়’ হৈতে কৃষ্ণ উদ্ধারিলা তোমা’ ৷  
+কহন না যায় কৃষ্ণকৃপার মহিমা ॥ ২০০ ॥
+
+hena ‘viṣaya’ haite kṛṣṇa uddhārilā tomā’  
+such  ‘worldliness’  from  Kṛṣṇa  delivered  you  
+kahana nā yāya kṛṣṇa-kṛpāra mahimā  
+the telling  not  is possible  of Kṛṣṇa’s mercy  the glory
+
+(200) From such worldliness Kṛṣṇa has delivered you. The glory of Kṛṣṇa’s mercy is beyond words.”
+
+রঘুনাথের ক্ষীণতা-মালিন্য দেখিয়া ৷  
+স্বরূপেরে কহেন প্রভু কৃপার্দ্র-চিত্ত হঞা ॥ ২০১ ॥
+
+raghunāthera kṣīṇatā-mālinya dekhiyā  
+Raghunātha’s  thinness and dirt  seeing  
+svarūpere kahena prabhu kṛpārdra-citta hañā  
+to Svarūpa  says  the Lord  melted with mercy  of heart  becoming
+
+(201) Seeing how thin and dirty Raghunātha was, the Lord, His heart melting with mercy, said to Svarūpa:
+
+এই রঘুনাথে আমি সঁপিনু তোমারে ৷  
+পুত্র ভৃত্য-রূপে তুমি কর অঙ্গীকারে ॥ ২০২ ॥
+
+ei raghunāthe āmi sam̐pinu tomāre  
+this  Raghunātha  I  entrust  to you  
+putra bhṛtya-rūpe tumi kara aṅgīkāre  
+as son  as servant  you  do  accept him
+
+(202) “I entrust this Raghunātha to you. Accept him as your son and your servant.
+
+তিন ‘রঘুনাথ’-নাম হয় মোর স্থানে ৷  
+‘স্বরূপের রঘু’ — আজি হৈতে ইহার নামে ॥ ২০৩ ॥
+
+tina ‘raghunātha’-nāma haya mora sthāne  
+three  ‘Raghunātha’  by name  there are  with Me  
+‘svarūpera raghu’ — āji haite ihāra nāme  
+‘Svarūpa’s Raghu’  from today  his  name
+
+(203) There are three named Raghunātha with Me; from today this one shall be called ‘Svarūpa’s Raghu’.”[^46]
+
+এত কহি’ রঘুনাথের হস্ত ধরিলা ৷  
+স্বরূপের হস্তে তাঁরে সমর্পণ কৈলা ॥ ২০৪ ॥
+
+eta kahi’ raghunāthera hasta dharilā  
+this  saying  Raghunātha’s  hand  He took  
+svarūpera haste tām̐re samarpaṇa kailā  
+into Svarūpa’s  hand  him  He entrusted
+
+(204) Saying this, He took Raghunātha by the hand and placed him in Svarūpa’s hands.
+
+স্বরূপ কহে, — মহাপ্রভুর যে আজ্ঞা হৈল ৷  
+এত কহি’ রঘুনাথে পুনঃ আলিঙ্গিল ॥ ২০৫ ॥
+
+svarūpa kahe, — mahāprabhura ye ājñā haila  
+Svarūpa  says  of Mahāprabhu  whatever  the order  has been  
+eta kahi’ raghunāthe punaḥ āliṅgila  
+this  saying  Raghunātha  again  he embraced
+
+(205) Svarūpa said, “As Mahāprabhu commands,” and with these words he embraced Raghunātha again.
+
+চৈতন্যের ভক্ত-বাৎসল্য কহিতে না পারি ৷  
+গোবিন্দেরে কহে রঘুনাথে দয়া করি’ ॥ ২০৬ ॥
+
+caitanyera bhakta-vātsalya kahite nā pāri  
+Caitanya’s  affection for His devotees  to describe  not  I can  
+govindere kahe raghunāthe dayā kari’  
+to Govinda  He says  to Raghunātha  mercy  showing
+
+(206) I cannot describe Caitanya’s affection for His devotees. Showing mercy to Raghunātha, He said to Govinda:
+
+পথে ইঁহ কৈরাছে বহু ত’ লঙ্ঘন ৷  
+কতদিন কর ইহার ভাল সন্তর্পণ ॥ ২০৭ ॥
+
+pathe im̐ha kairāche bahu ta’ laṅghana  
+on the way  he  has undergone  much  indeed  fasting  
+kata-dina kara ihāra bhāla santarpaṇa  
+for some days  do  his  good  care
+
+(207) “On the way he has fasted a great deal. For some days take good care of him.”
+
+রঘুনাথে কহে — যাঞা, কর সিন্ধুস্নান ৷  
+জগন্নাথ দেখি’ আসি’ করহ ভোজন ॥ ২০৮ ॥
+
+raghunāthe kahe — yāñā, kara sindhu-snāna  
+to Raghunātha  He says  going  do  bathe in the sea  
+jagannātha dekhi’ āsi’ karaha bhojana  
+Jagannātha  seeing  coming back  take  your meal
+
+(208) To Raghunātha He said, “Go and bathe in the sea; see Jagannātha, then come back and eat.”
+
+এত বলি’ প্রভু মধ্যাহ্ন করিতে উঠিলা ৷  
+রঘুনাথ-দাস সব ভক্তেরে মিলিলা ॥ ২০৯ ॥
+
+eta bali’ prabhu madhyāhna karite uṭhilā  
+this  saying  the Lord  the midday duties  to perform  rose  
+raghunātha-dāsa saba bhaktere mililā  
+Raghunātha dāsa  all  the devotees  met
+
+(209) Saying this, the Lord rose to perform His midday duties, and Raghunātha dāsa met all the devotees.
+
+রঘুনাথে প্রভুর কৃপা দেখি’ ভক্তগণ ৷  
+বিস্মিত হঞা করে তাঁর ভাগ্য প্রশংসন ॥ ২১০ ॥
+
+raghunāthe prabhura kṛpā dekhi’ bhakta-gaṇa  
+on Raghunātha  the Lord’s  mercy  seeing  the devotees  
+vismita hañā kare tām̐ra bhāgya praśaṁsana  
+amazed  being  make  his  good fortune’s  praise
+
+(210) Seeing the Lord’s mercy on Raghunātha, the devotees were amazed and praised his good fortune.
+
+রঘুনাথ সমুদ্রে যাঞা স্নান করিলা ৷  
+জগন্নাথ দেখি’ গোবিন্দ-পাশ আইলা ॥ ২১১ ॥
+
+raghunātha samudre yāñā snāna karilā  
+Raghunātha  to the sea  going  bath  took  
+jagannātha dekhi’ govinda-pāśa āilā  
+Jagannātha  seeing  to Govinda  came
+
+(211) Raghunātha went to the sea and bathed, then saw Jagannātha and came back to Govinda.
+
+প্রভুর অবশিষ্ট পাত্র গোবিন্দ তাঁরে দিলা ৷  
+আনন্দিত হঞা মহাপ্রসাদ পাইলা ॥ ২১২ ॥
+
+prabhura avaśiṣṭa pātra govinda tām̐re dilā  
+of the Lord  remnant  the plate  Govinda  to him  gave  
+ānandita hañā mahāprasāda pāilā  
+joyful  becoming  the mahā-prasāda  he received
+
+(212) Govinda gave him the Lord’s plate of remnants, and he joyfully received the mahā-prasāda.
+
+এইমত রহে তেঁহ স্বরূপ-চরণে ৷  
+গোবিন্দ প্রসাদ তাঁরে দেন পঞ্চ দিনে ॥ ২১৩ ॥
+
+ei-mata rahe tem̐ha svarūpa-caraṇe  
+in this way  remains  he  at Svarūpa’s feet  
+govinda prasāda tām̐re dena pañca dine  
+Govinda  prasāda  to him  gives  for five  days
+
+(213) So he remained at Svarūpa’s feet, and for five days Govinda gave him prasāda.
+
+আর দিন হৈতে ‘পুষ্প-অঞ্জলি’ দেখিয়া ৷  
+সিংহদ্বারে খাড়া রহে ভিক্ষার লাগিয়া ॥ ২১৪ ॥
+
+āra dina haite ‘puṣpa-añjali’ dekhiyā  
+from the next  day on  the ‘puṣpa-añjali’  seeing  
+siṁha-dvāre khāḍā rahe bhikṣāra lāgiyā  
+at the Siṁha-dvāra  standing  he remains  of alms  for the sake
+
+(214) From the next day on, after seeing the *puṣpa-añjali*, the evening offering of flowers, he would stand at the Siṁha-dvāra to receive alms.
+
+জগন্নাথের সেবক যত — ‘বিষয়ীর গণ’ ৷  
+সেবা সারি’ রাত্র্যে করে গৃহেতে গমন ॥ ২১৫ ॥
+
+jagannāthera sevaka yata — ‘viṣayīra gaṇa’  
+of Jagannātha  the servants  all  ‘a company of worldly men’  
+sevā sāri’ rātrye kare gṛhete gamana  
+the service  finishing  at night  do  homeward  going
+
+(215) All the servants of Jagannātha are worldly householders (*viṣayīs*); when their service is finished, they go home at night.
+
+সিংহদ্বারে অন্নার্থী বৈষ্ণবে দেখিয়া ৷  
+পসারির ঠাঞি অন্ন দেন কৃপা ত’ করিয়া ॥ ২১৬ ॥
+
+siṁha-dvāre annārthī vaiṣṇave dekhiyā  
+at the Siṁha-dvāra  seeking food  Vaiṣṇavas  seeing  
+pasārira ṭhāñi anna dena kṛpā ta’ kariyā  
+from the vendor  food  they give  mercy  indeed  showing
+
+(216) Seeing Vaiṣṇavas at the Siṁha-dvāra in need of food, they kindly give them food from the vendors’ stalls.
+
+এইমত সর্ব্বকাল আছে ব্যবহার ৷  
+নিষ্কিঞ্চন ভক্ত খাড়া হয় সিংহদ্বার ॥ ২১৭ ॥
+
+ei-mata sarva-kāla āche vyavahāra  
+in this way  at all times  is  the custom  
+niṣkiñcana bhakta khāḍā haya siṁha-dvāra  
+penniless  devotees  standing  are  at the Siṁha-dvāra
+
+(217) This has always been the custom: devotees who own nothing stand at the Siṁha-dvāra.
+
+সর্ব্বদিন করেন বৈষ্ণব নাম-সঙ্কীর্ত্তন ৷  
+স্বচ্ছন্দে করেন জগন্নাথ দরশন ॥ ২১৮ ॥
+
+sarva-dina karena vaiṣṇava nāma-saṅkīrtana  
+all day  perform  the Vaiṣṇavas  saṅkīrtana of the name  
+svacchande karena jagannātha daraśana  
+freely  they take  Jagannātha’s  darśana
+
+(218) All day long these Vaiṣṇavas chant the holy name in saṅkīrtana and freely take darśana of Jagannātha.
+
+কেহ ছত্রে মাগি’ খায়, যেবা কিছু পায় ৷  
+কেহ রাত্র্যে ভিক্ষা লাগি’ সিংহদ্বারে রয় ॥ ২১৯ ॥
+
+keha chatre māgi’ khāya, yebā kichu pāya  
+some  at the chatra  begging  eat  whatever  they get  
+keha rātrye bhikṣā lāgi’ siṁha-dvāre raya  
+some  at night  for alms  at the Siṁha-dvāra  stay
+
+(219) Some beg at the *chatra* and eat whatever they get; others stand at the Siṁha-dvāra at night for alms.
+
+মহাপ্রভুর ভক্তগণের বৈরাগ্য প্রধান ৷  
+যাহা দেখি’ প্রীত হন গৌর-ভগবান ॥ ২২০ ॥
+
+mahāprabhura bhakta-gaṇera vairāgya pradhāna  
+of Mahāprabhu’s  devotees  renunciation  is foremost  
+yāhā dekhi’ prīta hana gaura-bhagavāna  
+which  seeing  pleased  becomes  Gaura Bhagavān
+
+(220) Among Mahāprabhu’s devotees renunciation comes first, and seeing it Gaura Bhagavān is pleased.
+
+প্রভুরে গোবিন্দ কহে, — রঘুনাথ ‘প্রসাদ’ না লয় ৷  
+রাত্র্যে সিংহদ্বারে খাড়া হঞা মাগি’ খায় ॥ ২২১ ॥
+
+prabhure govinda kahe, — raghunātha ‘prasāda’ nā laya  
+to the Lord  Govinda  says  Raghunātha  ‘prasāda’  not  takes  
+rātrye siṁha-dvāre khāḍā hañā māgi’ khāya  
+at night  at the Siṁha-dvāra  standing  begging  he eats
+
+(221) Govinda said to the Lord, “Raghunātha no longer takes the prasāda. At night he stands at the Siṁha-dvāra, begs and eats.”
+
+শুনি’ তুষ্ট হঞা কভু কহিতে লাগিল ৷  
+ভাল কৈল, বৈরাগীর ধর্ম্ম আচরিল ॥ ২২২ ॥
+
+śuni’ tuṣṭa hañā kabhu kahite lāgila  
+hearing  pleased  becoming  at one point  to say  He began  
+bhāla kaila, vairāgīra dharma ācarila  
+well  he did  of a renunciant  the dharma  he followed
+
+(222) Hearing this, the Lord was pleased, and at one point He said, “He has done well: he has followed the dharma of a renunciant.[^47]
+
 ---
 
 [^1]: The last line is as in Madhya 19.54 (*śrī-kṛṣṇa-caitanyam amuṁ prapadye*, “I take refuge in this Śrī Kṛṣṇa Caitanya”). *Anubhāṣya*: *ku-gṛha* — a wretched home, full of talk of husbands, wives, sons and the like, a blind well with no way out; *bhaṅgyā* — skilfully; compare Raghunātha dāsa’s *Vilāpa-kusumāñjali*: “I worship Caitanyacandra… by the ropes of His mercy He at once pulled me out of the impassable, waterless great well of endless suffering… and gave me to Śrī Dāmodara.”
@@ -1173,3 +2297,35 @@ nectar  put to shame  such  various  vegetable dishes
 [^30]: Edition heading: this is why the festival is called the festival of *ciḍā* and *dadhi*.
 
 [^31]: Edition heading: Nityānanda’s incomparable dance can be compared only with Mahāprabhu’s.
+
+[^32]: *Hena nāhi jāni* — “I do not know how many”: the author’s own words. Edition heading (to 116): in Rāghava’s house Śrī Rādhikā Herself cooks for Kṛṣṇa dishes that surpass nectar.
+
+[^33]: The verse = Madhya 23.24; the translation follows the revised text there.
+
+[^34]: *Karāilā*, causative: Nityānanda had the devotees bless him (so also the edition heading).
+
+[^35]: *Mudrā* — coins; the gold is named separately. Edition heading: Raghunātha gives the Lord’s treasurer an offering (*praṇāmī*).
+
+[^36]: Edition heading: to all — a letter of greeting and an offering (*praṇāmī*).
+
+[^37]: There is nothing in the text about the money being “for the service of the devotees”: Raghunātha places it before Rāghava himself.
+
+[^38]: *Anubhāṣya*: Vāsudeva Datta Ṭhākura was not a brāhmaṇa by birth, yet Yadunandana honoured him as the guru who had shown him grace (*anugraha*); he did not regard a Vaiṣṇava as a member of a caste.
+
+[^39]: *Anubhāṣya*: opponents of the teaching who disobey Śrī Advaita Ācārya’s order call themselves his followers, yet do not accept Mahāprabhu as Kṛṣṇa Himself; Yadunandana, an intimate disciple of Advaita Prabhu, whose very life was Śrī Caitanya, was free of that fault.
+
+[^40]: Numbering: the edition prints no number after this verse (only “॥”).
+
+[^41]: Edition heading: seizing the opportunity, the clever Raghunātha on the way begs leave of his guru in order to serve Kṛṣṇa.
+
+[^42]: The edition reads *gauḍera bhakta-gaṇa* (without *saba*, “all”).
+
+[^43]: *Anubhāṣya*: *sarāṇa* — a broad road; Chatrabhoga is now in the 24 Parganas district, near Jayanagara and Majilpura; the Gaṅgā once flowed there. *Amṛta-pravāha-bhāṣya*: he travelled through small, insignificant villages.
+
+[^44]: *Anubhāṣya*: Kṛṣṇa’s mercy is stronger than the fruits of past karma; a jīva attached to worldly things cannot give them up by his own strength. Mahāprabhu knew Raghunātha was free from worldliness and said this only to teach worldly people.
+
+[^45]: *Tathāpi*, “still”, links the verse with 198: though they honour brāhmaṇas. *Anubhāṣya*: worldly people who leave pure bhakti become karmīs, jñānīs or seekers of other ends, and their very activities draw them unawares into worldliness.
+
+[^46]: *Amṛta-pravāha-bhāṣya*: the three are Vaidya-Raghunātha (Ādi 11.22), Bhaṭṭa-Raghunātha and Dāsa-Raghunātha; the edition heading calls Dāsa-Raghunātha the follower of Svarūpa.
+
+[^47]: The edition reads *kabhu*, “at one time”.
