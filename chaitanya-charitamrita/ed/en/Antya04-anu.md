@@ -223,3 +223,25 @@ On an autumn night bathed in moonlight, the wives of the cowherds, drawn by the 
 > Subheading: Addressing Sanātana, the Lord teaches the *sādhaka* still beset by *anarthas* to serve Hari constantly —
 
 ***Kubuddhi***: a wicked intelligence — not intelligence devoted to serving Kṛṣṇa, but an impure intelligence devoted to gratifying the perishable material senses.
+
+## 66
+
+> Subheading: Refutation of the doctrine of high birth by seminal descent, born of union with a woman; who is fit to serve Kṛṣṇa; only a pure devotee is guru, the greatest of all —
+
+“Oh, how great is even a dog-eater if Your name is on the tip of his tongue! Those who chant Your name have already performed austerities, offered sacrifices into the fire and bathed in the holy waters; they are true Āryans and have studied the Vedas.” (Śrīmad-Bhāgavatam 3.33.7)
+
+“A man whose pride swells with high birth, wealth, learning and beauty cannot even utter the name of You, who are reached only by those who have nothing (*akiñcana*).” (Śrīmad-Bhāgavatam 1.8.26)
+
+## 68
+
+> Subheading: Only one who has fully surrendered — who has given up bad association, namely worldly birth, wealth, learning, beauty and the like, and offered everything to Kṛṣṇa — is fit to receive Bhagavān's mercy —
+
+## 69
+
+See Madhya 20.59.
+
+## 70
+
+> Subheading: From *abhidheya* come *sambandha* and *prayojana* —
+
+***Nava-vidhā bhakti*** (the nine kinds of devotion): “Hearing about Viṣṇu, chanting, remembering, serving His feet, worship, offering prayers, servitude, friendship and offering oneself.” (Śrīmad-Bhāgavatam 7.5.23) The nine kinds of devotion (*abhidheya*) hold the great power to bestow love for Kṛṣṇa (*prayojana*) and Kṛṣṇa Himself (*sambandha*). *Sādhana-bhakti* manifests as *abhidheya* and later attains its true nature, *prema-bhakti*. And love for Kṛṣṇa, the *prayojana*, bestows Kṛṣṇa in full.
