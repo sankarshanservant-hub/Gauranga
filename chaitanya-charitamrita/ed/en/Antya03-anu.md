@@ -199,3 +199,53 @@ See Madhya 15.159–179.
 ## 76
 
 > Subheading: The Lord asks what will become of the universe once all living beings attain liberation —
+
+## 77
+
+> Subheading: Haridāsa's answer: by the Lord's mercy all the *jīvas* living during His manifest presence are delivered, and then the world is filled again with *jīvas* manifested by Mahā-Viṣṇu Kāraṇodaśāyī —
+
+## 80
+
+> Subheading: An example — the former pastime of Śrī Rāmacandra delivering the *jīvas* —
+
+See the *Rāmāyaṇa* (Baṅgavāsī edition), Uttara-kāṇḍa, *sarga* 122, verses 21–22, and *sarga* 123.
+
+## 82
+
+> Subheading: An example — the former pastime of Śrī Kṛṣṇa delivering the *jīvas* —
+
+## 83
+
+> Subheading: Bhagavān Himself, Kṛṣṇa, has the power to deliver countless millions of universes — (*Śrīmad-Bhāgavatam* 10.29.16)
+
+On the night of the Rāsa full moon the *gopīs* heard Kṛṣṇa's flute and longed to meet Him and be with Him. While describing their good fortune, Śrī Śukadeva glorifies to Parīkṣit the greatness of the Supreme Lord Śrī Kṛṣṇa and gives him this instruction:
+
+O King, **yataḥ** (from whom — from Śrī Kṛṣṇa) **etat** (this — every living being without exception, stationary, moving and the rest — is liberated; therefore) **bhavatā** (by you) **bhagavati** (endowed with all opulences) **aje** (self-manifest) **yogeśvareśvare** (the supreme Lord of the mystic perfections, the Supreme Soul) **kṛṣṇe** **evam** (about [His] power to grant liberation) **vismayaḥ na ca eva kāryaḥ** (no astonishment should be felt).
+
+## 84
+
+> Subheading: (*Viṣṇu Purāṇa* 4.15.10)
+
+**dveṣānubandhena api** (even in the mood of an enemy) **ayam bhagavān hi** **dṛṣṭaḥ** (seen), **kīrtitaḥ** (uttered in speech), **manasā** (in the mind) **saṁsmṛtaḥ ca** (and remembered) **akhila-surāsurādi-durlabham** **phalam** (liberation and the like) **prayacchati**; **uta** **samyag-bhaktimatām** (of those who on the path of *bhakti* are wholly intent on giving up the three — other desires, *karma*, *jñāna* and the like — that is, of pure devotees) **kim vaktavyam?** (what need be said?)
+
+## 85
+
+> Subheading: While the Lord is manifestly present in the world, the *jīvas* of all the universes are delivered —
+
+## 86
+
+> Subheading: Haridāsa's humility —
+
+## 86–87
+
+See Madhya 21.25–26 and *Śrīmad-Bhāgavatam* 10.14.36.
+
+## 88
+
+> Subheading: Even Bhagavān is astonished at the devotee's power to reveal the mystery of His pastimes —
+
+The confidential pastime is the pastime of delivering the *jīvas*.
+
+## 89
+
+> Subheading: The Lord embraces Haridāsa —

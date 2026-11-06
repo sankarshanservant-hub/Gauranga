@@ -40,6 +40,24 @@ O treasury of virtues! With a mind full of faith, without delay and in simplicit
 
 The dying Ajāmila went to the abode of Vaikuṇṭha merely by taking the name of Hari while calling his son. What happens when one takes the Name with faith cannot even be told (to say nothing of going to Vaikuṇṭha).
 
+## 78
+
+O Lord, You have descended into the universe, and all the *jīvas* with whom You have formed a connection will be delivered. Even if the whole universe is delivered in this way, You will once again awaken countless subtle *jīvas* (*sūkṣma-jīva*) in the field of *karma*. Thus the universes will again be filled with *jīvas*.
+
+## 83
+
+Kṛṣṇa is the unborn Bhagavān, the Lord of the *yogīs*; through Him this whole world, stationary and moving, is completely liberated. There is no need to be so astonished at His deeds.
+
+## 84
+
+This Bhagavān grants a result that all the gods, *asuras* and others find hard to attain, even when He is seen, glorified or remembered with unremitting hostility. What then of those endowed with perfect devotion?
+
+## 89
+
+Hearing Haridāsa's words full of truth, the Lord was pleased; but, displaying external consciousness, He rejected the words of praise for Himself[^89-1].
+
 ---
 
 [^11-1]: The translation of the verse understands this differently: “You instruct everyone; You are the teacher even of other teachers.”
+
+[^89-1]: The translation of the verse understands this differently: “But from then on He avoided any discussion of the subject.”
