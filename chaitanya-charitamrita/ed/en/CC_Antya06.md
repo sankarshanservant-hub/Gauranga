@@ -814,241 +814,301 @@ His  into the mouth  putting  feeds (Him)  laughing  laughing
 দাণ্ডাঞা রঙ্গ দেখে বৈষ্ণব সকলে ॥ ৮১ ॥
 
 ei-mata nitāi bule sakala-maṇḍale  
-dāṇḍāñā raṅga dekhe vaiṣṇava sakale
+in this way  Nitāi  goes about  through all the circles  
+dāṇḍāñā raṅga dekhe vaiṣṇava sakale  
+standing  the fun  watch  the Vaiṣṇavas  all
 
-(81) [not yet translated]
+(81) In this way Nitāi went round all the circles, and all the Vaiṣṇavas stood watching the fun.
 
 কি করিয়া বেড়ায়, — ইহা কেহ নাহি জানে ৷  
 মহাপ্রভুর দর্শন পায় কোন ভাগ্যবানে ॥ ৮২ ॥
 
 ki kariyā beḍāya, — ihā keha nāhi jāne  
-mahāprabhura darśana pāya kona bhāgyavāne
+what  doing  He goes about  this  anyone  not  knows  
+mahāprabhura darśana pāya kona bhāgyavāne  
+Mahāprabhu’s  darśana  obtains  some  fortunate one
 
-(82) [not yet translated]
+(82) No one understood what He was doing as He went about; only a fortunate few saw Mahāprabhu.
 
 তবে হাসি’ নিত্যানন্দ বসিলা আসনে ৷  
 চারি কুণ্ডী আরোয়া-চিড়া রাখিলা ডাহিনে ॥ ৮৩ ॥
 
 tabe hāsi’ nityānanda vasilā āsane  
-cāri kuṇḍī āroyā-ciḍā rākhilā ḍāhine
+then  smiling  Nityānanda  sat  on His seat  
+cāri kuṇḍī āroyā-ciḍā rākhilā ḍāhine  
+four  tubs  of āroyā-ciḍā  He kept  on the right
 
-(83) [not yet translated]
+(83) Then, smiling, Nityānanda sat down on His seat and kept four tubs of *āroyā-ciḍā* (flat rice made from sun-dried rice) at His right.
 
 আসন দিয়া মহাপ্রভুরে তাঁহা বসাইলা ৷  
 দুই ভাই তবে চিড়া খাইতে লাগিলা ॥ ৮৪ ॥
 
 āsana diyā mahāprabhure tāṅhā vasāilā  
-dui bhāi tabe ciḍā khāite lāgilā
+a seat  giving  Mahāprabhu  there  He seated  
+dui bhāi tabe ciḍā khāite lāgilā  
+the two  brothers  then  flat rice  to eat  began
 
-(84) [not yet translated]
+(84) Giving Mahāprabhu a seat, He seated Him there, and then the two brothers began to eat *ciḍā*.
 
 দেখি’ নিত্যানন্দপ্রভু আনন্দিত হৈলা ৷  
 কত কত ভাবাবেশ প্রকাশ করিলা ॥ ৮৫ ॥
 
 dekhi’ nityānanda-prabhu ānandita hailā  
-kata kata bhāvāveśa prakāśa karilā
+seeing  Nityānanda Prabhu  joyful  became  
+kata kata bhāvāveśa prakāśa karilā  
+how many  how many  ecstatic absorptions  manifestation  He made
 
-(85) [not yet translated]
+(85) Seeing this, Nityānanda Prabhu was overjoyed and manifested many states of ecstasy.
 
 আজ্ঞা দিলা, — হরি বলি’ করহ ভোজন ৷  
 ‘হরি’ ‘হরি’-ধ্বনি উঠি’ ভরিল ভুবন ॥ ৮৬ ॥
 
 ājñā dilā, — hari bali’ karaha bhojana  
-‘hari’ ‘hari’-dhvani uṭhi’ bharila bhuvana
+the order  He gave  Hari  saying  do  eat  
+‘hari’ ‘hari’-dhvani uṭhi’ bharila bhuvana  
+Hari  the sound of Hari  rising  filled  the world
 
-(86) [not yet translated]
+(86) He ordered, “Say ‘Hari!’ and eat!” The sound of “Hari! Hari!” rose up and filled the world.
 
 ‘হরি’ ‘হরি’ বলি’ বৈষ্ণব করয়ে ভোজন ৷  
 পুলিন-ভোজন সবার হইল স্মরণ ॥ ৮৭ ॥
 
 ‘hari’ ‘hari’ bali’ vaiṣṇava karaye bhojana  
-pulina-bhojana sabāra haila smaraṇa
+Hari  Hari  saying  the Vaiṣṇavas  do  eating  
+pulina-bhojana sabāra haila smaraṇa  
+the picnic on the sandy bank  of all  became  remembrance
 
-(87) [not yet translated]
+(87) Saying “Hari! Hari!”, the Vaiṣṇavas ate, and they all remembered the picnic on the sandy riverbank (*pulina-bhojana*).
 
 নিত্যানন্দ, মহাপ্রভু — কৃপালু, উদার ৷  
 রঘুনাথের ভাগ্যে এত কৈলা অঙ্গীকার ॥ ৮৮ ॥
 
 nityānanda, mahāprabhu — kṛpālu, udāra  
-raghunāthera bhāgye eta kailā aṅgīkāra
+Nityānanda  Mahāprabhu  merciful  generous  
+raghunāthera bhāgye eta kailā aṅgīkāra  
+by Raghunātha’s  good fortune  so much  They made  acceptance
 
-(88) [not yet translated]
+(88) Nityānanda and Mahāprabhu are merciful and generous: by Raghunātha’s good fortune They accepted so much.
 
 নিত্যানন্দ-প্রভাব-কৃপা জানিবে কোন্ জন ?  
 মহাপ্রভু আনি’ করায় পুলিন-ভোজন ॥ ৮৯ ॥
 
 nityānanda-prabhāva-kṛpā jānibe kon jana?  
-mahāprabhu āni’ karāya pulina-bhojana
+Nityānanda’s  power  mercy  will know  which  person  
+mahāprabhu āni’ karāya pulina-bhojana  
+Mahāprabhu  bringing  makes (Him) do  the picnic on the sandy bank
 
-(89) [not yet translated]
+(89) Who can know Nityānanda’s power and mercy? He brought Mahāprabhu and made Him join the picnic on the riverbank.
 
 শ্রীরামদাসাদি গোপ প্রেমাবিষ্ট হৈলা ৷  
 গঙ্গাতীরে ‘যমুনা-পুলিন’-জ্ঞান কৈলা ॥ ৯০ ॥
 
 śrī-rāmadāsādi gopa premāviṣṭa hailā  
-gaṅgā-tīre ‘yamunā-pulina’-jñāna kailā
+Śrī Rāmadāsa and the other  cowherds  absorbed in love  became  
+gaṅgā-tīre ‘yamunā-pulina’-jñāna kailā  
+on the Gaṅgā’s bank  the bank of the Yamunā  the notion  they had
 
-(90) [not yet translated]
+(90) Śrī Rāmadāsa and the other cowherd boys were overwhelmed with love: on the bank of the Gaṅgā they felt they were on the bank of the Yamunā.
 
 মহোৎসব শুনি’ পসারি নানা-গ্রাম হৈতে ৷  
 চিড়া, দধি, সন্দেশ, কলা আনিল বেচিতে ॥ ৯১ ॥
 
 mahotsava śuni’ pasāri nānā-grāma haite  
-ciḍā, dadhi, sandeśa, kalā ānila vecite
+the festival  hearing  vendors  various villages  from  
+ciḍā, dadhi, sandeśa, kalā ānila vecite  
+flat rice  yogurt  sweets  bananas  brought  to sell
 
-(91) [not yet translated]
+(91) Hearing of the festival, vendors (*pasāri*) came from various villages, bringing *ciḍā*, *dadhi*, *sandeśa* and bananas to sell.
 
 যত দ্রব্য লঞা আইসে, সব মূল্য করি’ লয় ৷  
 তার দ্রব্য মূল্য দিয়া তাহারে খাওয়ায় ॥ ৯২ ॥
 
 yata dravya lañā āise, saba mūlya kari’ laya  
-tāra dravya mūlya diyā tāhāre khāoyāya
+whatever  goods  bringing  they come  all  the price  paying  he takes  
+tāra dravya mūlya diyā tāhāre khāoyāya  
+their  goods  the price  giving  them  he feeds
 
-(92) [not yet translated]
+(92) Whatever goods they brought, he bought it all, paying the price; and having paid for their goods, he fed the vendors with them.
 
 কৌতুক দেখিতে আইল যত যত জন ৷  
 সেই চিড়া, দধি, কলা করিল ভক্ষণ ॥ ৯৩ ॥
 
 kautuka dekhite āila yata yata jana  
-sei ciḍā, dadhi, kalā karila bhakṣaṇa
+the fun  to see  came  how many  how many  people  
+sei ciḍā, dadhi, kalā karila bhakṣaṇa  
+that  flat rice  yogurt  bananas  did  eat
 
-(93) [not yet translated]
+(93) All the people who came to see the fun ate that *ciḍā*, *dadhi* and bananas.
 
 ভোজন করি’ নিত্যানন্দ আচমন কৈলা ৷  
 চারি কুণ্ডীর অবশেষ রঘুনাথে দিলা ॥ ৯৪ ॥
 
 bhojana kari’ nityānanda ācamana kailā  
-cāri kuṇḍīra avaśeṣa raghunāthe dilā
+eating  having done  Nityānanda  ācamana  did  
+cāri kuṇḍīra avaśeṣa raghunāthe dilā  
+of the four  tubs  the remnants  to Raghunātha  He gave
 
-(94) [not yet translated]
+(94) When He had eaten, Nityānanda rinsed His mouth and hands (*ācamana*) and gave the remnants of the four tubs to Raghunātha.
 
 আর তিন কুণ্ডিকায় অবশেষ ছিল ৷  
 গ্রাসে-গ্রাসে করি’ বিপ্র সব ভক্তে দিল ॥ ৯৫ ॥
 
 āra tina kuṇḍikāya avaśeṣa chila  
-grāse-grāse kari’ vipra saba bhakte dila
+other  three  in the tubs  remnants  there were  
+grāse-grāse kari’ vipra saba bhakte dila  
+mouthful by mouthful  making  the brāhmaṇa  all  to the devotees  gave
 
-(95) [not yet translated]
+(95) There were remnants in the other three tubs, and the *brāhmaṇa* gave them to all the devotees, a mouthful to each.
 
 পুষ্পমালা বিপ্র আনি’ প্রভু-গলে দিল ৷  
 চন্দন আনিয়া প্রভুর সর্ব্বাঙ্গে লেপিল ॥ ৯৬ ॥
 
 puṣpa-mālā vipra āni’ prabhu-gale dila  
-candana āniyā prabhura sarvāṅge lepila
+a flower garland  a brāhmaṇa  bringing  on the Lord’s neck  placed  
+candana āniyā prabhura sarvāṅge lepila  
+sandal paste  bringing  the Lord’s  whole body  he anointed
 
-(96) [not yet translated]
+(96) A *brāhmaṇa* brought a flower garland and placed it around the Lord’s neck; bringing sandalwood paste, he anointed His whole body.
 
 সেবক তাম্বূল লঞা করে সমর্পণ ৷  
 হাসিয়া হাসিয়া প্রভু করয়ে চর্ব্বণ ॥ ৯৭ ॥
 
 sevaka tāmbūla lañā kare samarpaṇa  
-hāsiyā hāsiyā prabhu karaye carvaṇa
+a servant  betel  taking  makes  offering  
+hāsiyā hāsiyā prabhu karaye carvaṇa  
+smiling  smiling  the Lord  does  chewing
 
-(97) [not yet translated]
+(97) A servant brought betel (*tāmbūla*) and offered it, and the Lord, smiling and smiling, chewed it.
 
 মালা-চন্দন-তাম্বূল শেষ যে আছিল ৷  
 শ্রীহস্তে প্রভু সবাকারে বাঁটি’ দিল ॥ ৯৮ ॥
 
 mālā-candana-tāmbūla śeṣa ye āchila  
-śrī-haste prabhu sabākāre bāṅṭi’ dila
+of the garlands sandal paste and betel  the remnants  which  there were  
+śrī-haste prabhu sabākāre bāṅṭi’ dila  
+with His own hand  the Lord  to everyone  distributing  gave
 
-(98) [not yet translated]
+(98) With His own hand the Lord distributed to everyone what remained of the garlands, sandal paste and betel.
 
 আনন্দিত রঘুনাথ প্রভুর ‘শেষ’ পাঞা ৷  
 আপনার গণ-সহ খাইলা বাঁটিয়া ॥ ৯৯ ॥
 
 ānandita raghunātha prabhura ‘śeṣa’ pāñā  
-āpanāra gaṇa-saha khāilā bāṅṭiyā
+delighted  Raghunātha  the Lord’s  remnants  getting  
+āpanāra gaṇa-saha khāilā bāṅṭiyā  
+his own  people  with  ate  sharing
 
-(99) [not yet translated]
+(99) Delighted to receive the Lord’s remnants (*śeṣa*), Raghunātha shared them with his own people and ate.
 
 এই ত’ কহিলুঁ নিত্যানন্দের বিহার ৷  
 ‘চিড়া-দধি-মহোৎসব’-নামে খ্যাতি যার ॥ ১০০ ॥
 
 ei ta’ kahiluṅ nityānandera vihāra  
-‘ciḍā-dadhi-mahotsava’-nāme khyāti yāra
+this  indeed  I have told  Nityānanda’s  pastime  
+‘ciḍā-dadhi-mahotsava’-nāme khyāti yāra  
+as ‘the festival of ciḍā and dadhi’  by name  fame  whose
 
-(100) [not yet translated]
+(100) Thus I have told of Nityānanda’s pastime, famous as the *ciḍā-dadhi-mahotsava*, the festival of *ciḍā* and *dadhi*.
 
 প্রভু বিশ্রাম কৈলা, যদি দিন-শেষ হৈল ৷  
 রাঘব মন্দিরে তবে কীর্ত্তন আরম্ভিল ॥ ১০১ ॥
 
 prabhu viśrāma kailā, yadi dina-śeṣa haila  
-rāghava mandire tabe kīrtana ārambhila
+the Lord  rest  took  when  the day’s end  came  
+rāghava mandire tabe kīrtana ārambhila  
+of Rāghava  in the temple  then  kīrtana  began
 
-(101) [not yet translated]
+(101) The Lord rested, and when the day came to an end, *kīrtana* began in Rāghava’s temple.
 
 ভক্ত সব নাচাঞা নিত্যানন্দ-রায় ৷  
 শেষে নৃত্য করে প্রেমে জগৎ ভাসায় ॥ ১০২ ॥
 
 bhakta saba nācāñā nityānanda-rāya  
-śeṣe nṛtya kare preme jagat bhāsāya
+the devotees  all  making dance  Nityānanda Rāya  
+śeṣe nṛtya kare preme jagat bhāsāya  
+at last  dance  does  with love  the world  floods
 
-(102) [not yet translated]
+(102) Nityānanda Rāya made all the devotees dance, and at last He Himself danced, flooding the world with love.
 
 মহাপ্রভু তাঁর নৃত্য করেন দরশন ৷  
 সবে নিত্যানন্দ দেখে, না দেখে অন্যজন ॥ ১০৩ ॥
 
 mahāprabhu tāṅra nṛtya karena daraśana  
-sabe nityānanda dekhe, nā dekhe anya-jana
+Mahāprabhu  His  dance  does  watch  
+sabe nityānanda dekhe, nā dekhe anya-jana  
+only  Nityānanda  sees (Him)  not  see  other people
 
-(103) [not yet translated]
+(103) Mahāprabhu watched His dance; only Nityānanda saw Him — no one else did.
 
 নিত্যানন্দের নৃত্য, — যেন তাঁহার নর্ত্তনে ৷  
 উপমা দিবার নাহি এ তিন ভুবনে ॥ ১০৪ ॥
 
 nityānandera nṛtya, — yena tāṅhāra nartane  
-upamā dibāra nāhi e tina bhuvane
+Nityānanda’s  dance  as  His  dancing  
+upamā dibāra nāhi e tina bhuvane  
+comparison  to give  there is none  in these  three  worlds
 
-(104) [not yet translated]
+(104) Nityānanda’s dance was like Mahāprabhu’s own dancing; in these three worlds there is nothing else to compare it with.
 
 নৃত্যের মাধুরী কেবা বর্ণিবারে পারে ৷  
 মহাপ্রভু আইসে যেই নৃত্য দেখিবারে ॥ ১০৫ ॥
 
 nṛtyera mādhurī kebā varṇibāre pāre  
-mahāprabhu āise yei nṛtya dekhibāre
+of the dance  the sweetness  who  to describe  can  
+mahāprabhu āise yei nṛtya dekhibāre  
+Mahāprabhu  comes  which  dance  to see
 
-(105) [not yet translated]
+(105) Who can describe the sweetness of that dance, which Mahāprabhu Himself comes to see?
 
 নৃত্য করি’ প্রভু যবে বিশ্রাম করিলা ৷  
 ভোজনের লাগি’ পণ্ডিত নিবেদন কৈলা ॥ ১০৬ ॥
 
 nṛtya kari’ prabhu yabe viśrāma karilā  
-bhojanera lāgi’ paṇḍita nivedana kailā
+dance  having done  the Lord  when  rest  took  
+bhojanera lāgi’ paṇḍita nivedana kailā  
+of the meal  for  the Paṇḍita  a request  made
 
-(106) [not yet translated]
+(106) When the Lord had danced and rested, the Paṇḍita asked Him to take His meal.
 
 ভোজনে বসিলা প্রভু নিজগণ লঞা ৷  
 মহাপ্রভুর আসন ডাহিনে পাতিয়া ॥ ১০৭ ॥
 
 bhojane vasilā prabhu nija-gaṇa lañā  
-mahāprabhura āsana ḍāhine pātiyā
+to the meal  sat  the Lord  His own associates  taking  
+mahāprabhura āsana ḍāhine pātiyā  
+Mahāprabhu’s  seat  on the right  spreading
 
-(107) [not yet translated]
+(107) The Lord sat down to eat with His associates, having a seat spread for Mahāprabhu at His right.
 
 মহাপ্রভু আসি’ সেই আসনে বসিলা ৷  
 দেখি’ রাঘবের মনে আনন্দ বাড়িলা ॥ ১০৮ ॥
 
 mahāprabhu āsi’ sei āsane vasilā  
-dekhi’ rāghavera mane ānanda bāḍilā
+Mahāprabhu  coming  on that  seat  sat  
+dekhi’ rāghavera mane ānanda bāḍilā  
+seeing  Rāghava’s  in the mind  joy  increased
 
-(108) [not yet translated]
+(108) Mahāprabhu came and sat on that seat; seeing this, Rāghava’s joy grew.
 
 দুইভাই-আগে প্রসাদ আনিয়া ধরিলা ৷  
 সকল বৈষ্ণবে পিছে পরিবেশন কৈলা ॥ ১০৯ ॥
 
 dui-bhāi-āge prasāda āniyā dharilā  
-sakala vaiṣṇave piche pariveśana kailā
+before the two brothers  prasāda  bringing  he placed  
+sakala vaiṣṇave piche pariveśana kailā  
+to all  the Vaiṣṇavas  afterward  serving  he did
 
-(109) [not yet translated]
+(109) He brought *prasāda* and set it before the two brothers, and afterward he served all the Vaiṣṇavas.
 
 নানাপ্রকার পিঠা, পায়স, দিব্য শাল্য-অন্ন ৷  
 অমৃত নিন্দয়ে ঐছে বিবিধ ব্যঞ্জন ॥ ১১০ ॥
 
 nānā-prakāra piṭhā, pāyasa, divya śālya-anna  
-amṛta nindaye aiche vividha vyañjana
+many kinds  of cakes  sweet rice  excellent  fine rice  
+amṛta nindaye aiche vividha vyañjana  
+nectar  put to shame  such  various  vegetable dishes
 
-(110) [not yet translated]
+(110) There were many kinds of cakes (*piṭhā*), sweet rice (*pāyasa*), excellent fine rice, and various vegetable dishes that put nectar to shame.
 
 রাঘব-ঠাকুরের প্রসাদ অমৃতের সার ৷  
 মহাপ্রভু যাহা খাইতে আইসে বার বার ॥ ১১১ ॥
