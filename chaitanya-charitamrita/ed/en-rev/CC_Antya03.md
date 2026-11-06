@@ -264,7 +264,7 @@ Me  you made  chastisement  others  who  are
 mātāra gṛhe raha yāi’ mātāra caraṇe  
 of My mother  in the house  stay  going  of My mother  at the feet  
 tomāra āge nāhi kāro svacchandācaraṇe  
-you  before  there is not  of anyone  willful behavior
+you  before  there is not  of anyone  willful behaviour
 
 (25) Go and stay in My mother’s house, at her feet. Before you no one will dare to behave as he pleases.
 
@@ -406,7 +406,7 @@ by your  order  I  am  in Nīlācala
 nikaṭe lañā yāo āmā tomāra prema-bale  
 near  taking  you go  Me  of your  love  by the power
 
-(39) It is by your order that I stay in Nīlācala, yet by the power of your love you draw Me close to you.’
+(39) It is by your order that I stay in Nīlācala, yet by the power of your love you bring Me to your side.’
 
 এইমত বার বার করাইহ স্মরণ ৷  
 মোর নাম লঞা তাঁর বন্দিহ চরণ ॥ ৪০ ॥
@@ -454,7 +454,7 @@ of the Lord  as  the order  the Paṇḍita  that  carried out
 dāmodara-āge svātantrya nā haya kāhāra  
 Dāmodara  before  independence  not  is  of anyone  
 tāra bhaye sabe kare saṅkoca vyavahāra  
-of him  out of fear  all  do  restrained  behavior
+of him  out of fear  all  do  restrained  behaviour
 
 (44) Before Dāmodara no one dared to act independently; out of fear of him everyone behaved with restraint.
 
@@ -476,7 +476,7 @@ this  indeed  I have told  of Dāmodara  chastisement with words
 yāhāra śravaṇe bhāge ‘ajñāna’ ‘pāṣaṇḍa’  
 whose  by hearing  flee  ‘ignorance’  ‘atheism’
 
-(46) Thus I have told of Dāmodara’s chastisement with words; by hearing of it, ignorance and atheism (*pāṣaṇḍa*) flee.[^6]
+(46) Thus I have told of Dāmodara’s chastisement with words; by hearing of it, ignorance and unbelief (*pāṣaṇḍa*) flee.[^6]
 
 চৈতন্যের লীলা — গম্ভীর, কোটিসমুদ্র হৈতে ৷  
 কি লাগি’ কি করে, কেহ না পারে বুঝিতে ॥ ৪৭ ॥
@@ -496,7 +496,7 @@ therefore  the hidden  meaning  anything  not  I know
 bāhya artha karibāre kari ṭānāṭāni  
 external  meaning  to make  I make  great effort
 
-(48) Therefore I know nothing of their hidden meaning; I struggle just to give them an external meaning.
+(48) Therefore I know nothing of their hidden meaning; I struggle even to give them an outward meaning.
 
 একদিন প্রভু হরিদাসেরে মিলিলা ৷  
 তাঁহা লঞা গোষ্ঠী করি’ তাঁহারে পুছিলা ॥ ৪৯ ॥
@@ -566,7 +566,7 @@ although  to something else  by indication  is  nāmābhāsa
 tathāpi nāmera teja nā haya vināśa  
 still  of the name  the potency  not  is  destroyed
 
-(55) When the name is uttered to point (*saṅketa*) to something else, it is only *nāmābhāsa*; yet even then the potency of the name is not destroyed.
+(55) When the name is uttered to point (*saṅketa*) to something else, that is *nāmābhāsa*; yet even then the potency of the name is not destroyed.
 
 দংষ্ট্রিদংষ্ট্রাহতো ম্লেচ্ছো হা রামেতি পুনঃ পুনঃ ৷  
 উক্ত্বাপি মুক্তিমাপ্নোতি কিং পুনঃ শ্রদ্ধয়া গৃণন্ ॥ ৫৬ ॥
@@ -660,7 +660,7 @@ rising  of the heart  in the cave  ah  whose name  of the sun
 ābhāso ’pi kṣapayati mahā-pātaka-dhvānta-rāśim  
 the faint light  even  destroys  of great sins  of the darkness  the mass
 
-(62) “O treasure of virtues, with your mind delighting in faith, quickly and without deceit worship Him, the purifier of all purifiers, the crown of those whose glory is sung in the finest verses. Ah! When even the faint light of the sun of His name rises in the cave of the heart, it dispels the massed darkness of great sins.” (Bhakti-rasāmṛta-sindhu, 2.1.103)
+(62) “O treasure of virtues, with your mind delighting in faith, quickly and without deceit worship Him, the purifier of all purifiers, the crown of those whose glory is sung in the finest verses. Ah! When even the faint light of the sun of His name rises in the cave of the heart, it dispels the massed darkness of great sins.” (Bhakti-rasāmṛta-sindhu, 2.1.103)[^12]
 
 ম্রিয়মাণো হরের্নাম গৃণন্ পুত্রোপচারিতম্ ৷  
 অজামিলোঽপ্যগাদ্ধাম কিমুত শ্রদ্ধয়া গৃণন্ ॥ ৬৩ ॥
@@ -674,7 +674,7 @@ Ajāmila  even  went  to the abode
 kim uta śraddhayā gṛṇan  
 what to speak  then  with faith  one who utters
 
-(63) “Even Ajāmila reached the Lord’s abode by uttering the name of Hari as he was dying, though he addressed it to his son. What then of one who utters the name with faith?” (Śrīmad-Bhāgavatam, 6.2.49)
+(63) “Even Ajāmila reached the Lord’s abode by uttering the name of Hari as he was dying, though he addressed it to his son. What then of one who utters the name with faith?” (Śrīmad-Bhāgavatam, 6.2.49)[^13]
 
 নামাভাসে ‘মুক্তি’ হয় সর্ব্বশাস্ত্রে দেখি ৷  
 শ্রীভাগবতে তাতে অজামিল — সাক্ষী ॥ ৬৪ ॥
@@ -684,7 +684,7 @@ by nāmābhāsa  ‘liberation’  there is  in all scriptures  I see
 śrī-bhāgavate tāte ajāmila — sākṣī  
 in the Śrī Bhāgavata  of that  Ajāmila  the witness
 
-(64) In all the scriptures I see that ‘liberation’ comes through *nāmābhāsa*, and in the Śrī Bhāgavata Ajāmila is the witness to it.”
+(64) In all the scriptures I see that liberation comes through *nāmābhāsa*, and in the *Śrīmad-Bhāgavatam* Ajāmila is the witness to it.”
 
 শুনিয়া প্রভুর সুখ বাড়য়ে অন্তরে ৷  
 পুনরপি ভঙ্গী করি’ পুছয়ে তাঁহারে ॥ ৬৫ ॥
@@ -776,15 +776,15 @@ then  acceptance  You made  of the jīvas  the release
 
 (73) When Vāsudeva petitioned You on behalf of the *jīvas*, You agreed to release them.
 
-জগৎ নিস্তারিতে এই তোমার অবতার ৷  
+জগৎ নিস্তারিতে তোমার অবতার ৷  
 ভক্তভাব আগে তাতে কৈলা অঙ্গীকার ॥ ৭৪ ॥
 
-jagat nistārite ei tomāra avatāra  
-the world  to deliver  this  Your  descent  
+jagat nistārite tomāra avatāra  
+the world  to deliver  Your  descent  
 bhakta-bhāva āge tāte kailā aṅgīkāra  
 the mood of a devotee  first  for that  You made  acceptance
 
-(74) This descent of Yours is to deliver the world; for that purpose You first accepted the mood of a devotee.
+(74) You have descended to deliver the world, and for that You first accepted the mood of a devotee.
 
 উচ্চ সঙ্কীর্ত্তন তাতে করিলা প্রচার ৷  
 স্থিরচর জীবের খণ্ডাইলা সংসার ॥ ৭৫ ॥
@@ -821,7 +821,7 @@ all  liberated  making  You  to Vaikuṇṭha  will send
 sūkṣma-jīve punaḥ karme udbuddha karibā  
 the subtle jīvas  again  to karma  awakened  You will make
 
-(77–78) Haridāsa said, “As long as You remain in the mortal world, You will liberate all the nonmoving and moving beings of every species and send them to Vaikuṇṭha. Then You will awaken the subtle *jīvas* (*sūkṣma-jīva*) to *karma* once again.
+(77–78) Haridāsa said, “As long as You remain in the mortal world, You will liberate all the nonmoving and moving beings of every species and send them to Vaikuṇṭha. Then You will awaken the subtle *jīvas* (*sūkṣma-jīva*) to *karma* once again.[^14]
 
 সেই জীব হবে ইহাঁ স্থাবর-জঙ্গম ৷  
 তাহাতে ভরিবে ব্রহ্মাণ্ড যেন পূর্ব্ব-সম ॥ ৭৯ ॥
@@ -833,15 +833,15 @@ with them  will be filled  the universe  as  like before
 
 (79) Those *jīvas* will become the nonmoving and moving beings here, and with them the universe will be filled as before.
 
-পূর্ব্বে যেন রঘুনাথ সব অয়োধ্যা লঞা ৷  
-বৈকুণ্ঠকে গেলা, অন্য জীবে অয়োধ্যা ভরাঞা ॥ ৮০ ॥
+পূর্ব্বে যেন রঘুনাথ সব অযোধ্যা লঞা ৷  
+বৈকুণ্ঠকে গেলা, অন্য জীবে অযোধ্যা ভরাঞা ॥ ৮০ ॥
 
 pūrve yena raghunātha saba ayodhyā lañā  
 formerly  as  Raghunātha  all  Ayodhyā  taking  
 vaikuṇṭhake gelā, anya jīve ayodhyā bharāñā  
 to Vaikuṇṭha  went  with other  jīvas  Ayodhyā  filling
 
-(80) Just as formerly Raghunātha (Rāmacandra) took all of Ayodhyā with Him to Vaikuṇṭha and filled Ayodhyā with other *jīvas*,
+(80) Just as formerly Raghunātha (Rāmacandra) took all of Ayodhyā with Him to Vaikuṇṭha and filled Ayodhyā with other *jīvas*,[^15]
 
 অবতরি’ তুমি ঐছে পাতিয়াছ হাট ৷  
 কেহ না বুঝিতে পারে তোমার গূঢ় নাট ॥ ৮১ ॥
@@ -851,7 +851,7 @@ having descended  You  likewise  have set up  a market
 keha nā bujhite pāre tomāra gūḍha nāṭa  
 anyone  not  to understand  can  Your  hidden  drama
 
-(81) so You too, having descended, have set up a market in the same way. No one can understand Your hidden drama.
+(81) so You too, having descended, have set up the same kind of market. No one can understand Your hidden play.
 
 পূর্ব্বে যেন ব্রজে কৃষ্ণ করি’ অবতার ৷  
 সকল ব্রহ্মাণ্ড-জীবের খণ্ডাইলা সংসার ॥ ৮২ ॥
@@ -875,7 +875,7 @@ about the Lord of the lords of yoga  Kṛṣṇa
 yata etad vimucyate  
 from whom  this (world)  is liberated
 
-(83) “You should not be astonished at this in the case of Kṛṣṇa, the unborn Lord, the Lord of the lords of *yoga*, by whom this whole world is liberated.” (Śrīmad-Bhāgavatam, 10.29.16)
+(83) “There should be no wonder at such deeds of Kṛṣṇa, the unborn Bhagavān, the Lord of the lords of *yoga*; for by Him this whole world, moving and unmoving, is set free.” (Śrīmad-Bhāgavatam, 10.29.16)[^16]
 
 অয়ং হি ভগবান্ দৃষ্টঃ কীর্ত্তিতঃ সংস্মৃতশ্চ  
 দ্বেষানুবন্ধেনাপ্যখিল-সুরাসুরাদিদুর্ল্লভং ফলং  
@@ -888,7 +888,7 @@ with persistent enmity  even  for all gods, demons and others  hard to attain
 phalaṁ prayacchati kim uta samyag bhaktimatām iti  
 the fruit  bestows  what to speak  then  perfectly  of those who have devotion  thus
 
-(84) “When this Bhagavān is seen, glorified or remembered even with persistent enmity, He bestows a fruit hard to attain for all the gods, demons and others. What then of those who have perfect devotion?” (Viṣṇu Purāṇa, 4.15.17)
+(84) “When this Bhagavān is seen, glorified or remembered even with persistent enmity, He bestows a fruit hard to attain for all the gods, demons and others. What then of those who have perfect devotion?” (Viṣṇu Purāṇa, 4.15.10)[^17]
 
 তৈছে তুমি নবদ্বীপে করি’ অবতার ৷  
 সকল-ব্রহ্মাণ্ড-জীবের করিলা নিস্তার ॥ ৮৫ ॥
@@ -964,7 +964,7 @@ of māyā  by the power  by You  even  being hidden
 paśyanti kecid aniśaṁ tvad-ananya-bhāvāḥ  
 see  some  constantly  to You  exclusively devoted
 
-(91) “Your sovereign nature transcends the three kinds of limits and admits of no equal or superior. Though You hide it by the power of Your māyā, some who are devoted to You alone see it constantly.” (Stotra-ratna, 18)
+(91) “Your sovereign nature transcends the three kinds of limits and admits of no equal or superior. Though You hide it by the power of Your māyā, some who are devoted to You alone see it constantly.” (Stotra-ratna, 18)[^18]
 
 তবে মহাপ্রভু নিজভক্ত-পাশে যাঞা ৷  
 হরিদাসের গুণ কহে শতমুখ হঞা ॥ ৯২ ॥
@@ -1004,7 +1004,7 @@ in the Caitanya-maṅgala  Śrī Vṛndāvana dāsa
 haridāsera guṇa kichu kairāche prakāśa  
 Haridāsa’s  qualities  some  has made  manifest
 
-(95) In the *Caitanya-maṅgala* (the *Caitanya-bhāgavata*) Śrī Vṛndāvana dāsa has revealed some of Haridāsa’s qualities.
+(95) In the *Caitanya-maṅgala* (the *Caitanya-bhāgavata*) Śrī Vṛndāvana dāsa has revealed some of Haridāsa’s qualities.[^19]
 
 সব কহা না যায় হরিদাসের চরিত্র ৷  
 কেহ কিছু কহে করিতে আপনা পবিত্র ॥ ৯৬ ॥
@@ -1064,7 +1064,7 @@ that  ruler of the district  name  Rāmacandra Khān
 vaiṣṇava-vidveṣī sei pāṣaṇḍa-pradhāna  
 a hater of Vaiṣṇavas  he  chief of the atheists
 
-(101) The ruler of that district was named Rāmacandra Khān. He hated the Vaiṣṇavas and was the chief of the atheists.
+(101) The ruler of that district was named Rāmacandra Khān. He hated the Vaiṣṇavas and was the chief of the unbelievers.
 
 হরিদাসে লোকে পূজে, সহিতে না পারে ৷  
 তাঁর অপমান করিতে নানা উপায় করে ॥ ১০২ ॥
@@ -1072,9 +1072,9 @@ a hater of Vaiṣṇavas  he  chief of the atheists
 haridāse loke pūje, sahite nā pāre  
 Haridāsa  people  revere  to tolerate  not  can  
 tām̐ra apamāna karite nānā upāya kare  
-his  dishonor  to cause  various  means  he makes
+his  dishonour  to cause  various  means  he makes
 
-(102) He could not tolerate that the people revered Haridāsa, and he contrived various means to dishonor him.
+(102) He could not bear that the people revered Haridāsa, and he contrived various means to dishonour him.
 
 কোনপ্রকারে হরিদাসের ছিদ্র নাহি পায় ৷  
 বেশ্যাগণে আনি’ করে ছিদ্রের উপায় ॥ ১০৩ ॥
@@ -1154,7 +1154,7 @@ her body  uncovering  showing  she sat  at the door
 kahite lāgilā kichu sumadhura-svare  
 to speak  she began  something  in a very sweet voice
 
-(110) Uncovering her body to display it, she sat down at the door and began to speak in a very sweet voice:
+(110) Baring her body to his view, she sat down at the door and began to speak in a very sweet voice:
 
 ঠাকুর, তুমি — পরমসুন্দর, প্রথম যৌবন ৷  
 তোমা দেখি’ কোন্ নারী ধরিতে পারে মন ? ॥ ১১১ ॥
@@ -1191,7 +1191,7 @@ so long  you  sitting  listen  the name  saṅkīrtana
 nāma samāpta haile karimu ye tomāra mana  
 the name  finished  when it is  I shall do  what  your  mind (desires)
 
-(113–114) Haridāsa said, “I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to the *saṅkīrtana* of the name. When the name is finished, I shall do as you wish.”
+(113–114) Haridāsa said, “I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to the *saṅkīrtana* of the name. When my chanting is finished, I shall do as you wish.”
 
 এত শুনি’ সেই বেশ্যা বসিয়া রহিলা ৷  
 কীর্ত্তন করে হরিদাস প্রাতঃকাল হৈলা ॥ ১১৫ ॥
@@ -1237,7 +1237,7 @@ Haridāsa  her  much  reassurance  gave
 অবশ্য করিমু আমি তোমায় অঙ্গীকার ॥ ১১৯ ॥
 
 kāli duḥkha pāilā, aparādha nā laibā mora  
-yesterday  distress  you suffered  offense  not  take  my  
+yesterday  distress  you suffered  offence  not  take  my  
 avaśya karimu āmi tomāya aṅgīkāra  
 certainly  shall make  I  you  acceptance
 
@@ -1251,7 +1251,7 @@ until then  here  sitting  listen  of the name  saṅkīrtana
 nāma pūrṇa haile, pūrṇa habe tomāra mana  
 the name  complete  when it is  fulfilled  will be  your  mind
 
-(120) Until then, sit here and listen to the *saṅkīrtana* of the name. When the name is complete, your desire will be fulfilled.”
+(120) Until then, sit here and listen to the *saṅkīrtana* of the name. When the name is complete, your heart too will be fulfilled.”
 
 তুলসীরে তবে বেশ্যা নমস্কার করি’ ৷  
 দ্বারে বসি’ নাম শুনে বলে ‘হরি’ ‘হরি’ ॥ ১২১ ॥
@@ -1281,7 +1281,7 @@ of ten million  names  chanting  the sacrifice  I perform  in one month
 ei dīkṣā kariyāchi, haila āsi’ śeṣe  
 this  vow  I have taken  it has  come  to the end
 
-(123) “I have taken a vow to perform a sacrifice of chanting ten million names in one month, and it is now nearing its end.
+(123) “I have taken a vow to perform a sacrifice of chanting ten million names in one month, and it is now nearing its end.[^20]
 
 আজি সমাপ্ত হইবেক, — হেন জ্ঞান ছিল ৷  
 সমস্ত রাত্রি নিলুঁ নাম সমাপ্ত না হৈল ॥ ১২৪ ॥
@@ -1301,7 +1301,7 @@ tomorrow  finished  it will be  then  will be  of the vow  the ending
 svacchande tomāra saṅge haibeka saṅga  
 freely  you  with  there will be  union
 
-(125) Tomorrow it will be finished, and then my vow will be over. Then I shall freely be with you.”
+(125) Tomorrow it will be finished and my vow will be over; then I shall freely be with you.”
 
 বেশ্যা গিয়া সমাচার খাঁনেরে কহিল ৷  
 আর দিন সন্ধ্যাকালে ঠাকুর-ঠাঞি আইল ॥ ১২৬ ॥
@@ -1331,7 +1331,7 @@ the name  complete  will be  today  says  Haridāsa
 tabe pūrṇa karimu tomāra abhilāṣa  
 then  fulfilled  I shall make  your  desire
 
-(128) “Today the name will be completed,” said Haridāsa. “Then I shall fulfill your desire.”
+(128) “Today the name will be completed,” said Haridāsa. “Then I shall fulfil your desire.”
 
 কীর্ত্তন করিতে ঐছে রাত্রি-শেষ হৈল ৷  
 ঠাকুরের সনে বেশ্যার মন ফিরি’ গেল ॥ ১২৯ ॥
@@ -1436,3 +1436,21 @@ very soon  you will attain  then  Kṛṣṇa’s  feet
 [^10]: *Anubhāṣya*: *vyavahita* here does not mean a break born, in one without faith, of the urge for one’s own enjoyment — such a “name” is not the pure name but a mere set of material sounds, and it only obstructs the fruit of the pure name, love for Kṛṣṇa. It means the indistinct, broken or partial utterance of the name by one inclined to service: in his faithful heart Śrī Nāma Prabhu still shows His power to destroy the anarthas and awaken prema.
 
 [^11]: The edition’s heading: *Hari-bhakti-vilāsa*, 11.289, the words of the *Padma Purāṇa*. *Anubhāṣya*: *vyavahita-rahitam* means either “free from gaps”, that is, from the ten offences against the name, or “broken and incomplete” — broken by another word, sound or mood, or lacking a part; so Śrī Sanātana also explains in the *Dig-darśinī*: such a name still frees one from sins, offences and saṁsāra, but the chief fruit of serving the name for the body’s sake comes not at once but in time. *Janatā* is the desire for kin, women or fame; *pāṣaṇḍa* is disregard for Hari, the guru and the Vaiṣṇavas. *Amṛta-pravāha-bhāṣya*: amid offences, which are like stones, the name does not quickly bear fruit; unless one takes up the means to end offences against the name, they will not go.
+
+[^12]: *Anubhāṣya*: the name of the Lord is the sun, and its semblance (*ābhāsa*) is a faint light, free from the darkness of offences; the purifier of purifiers is He who purifies even the holy places; *atitarām* — “quickly”; *nirvyājam* — “without deceit”. The edition’s heading: *nāmābhāsa* destroys great sins.
+
+[^13]: The edition’s heading: *nāmābhāsa* gives liberation. *Anubhāṣya*: at the moment of death Ajāmila obtained the fruit of *nāmābhāsa* — of the name uttered as an indication — and was freed from sin; returning to life, he worshipped Śrī Hari in detachment and so went to Vaikuṇṭha. Having told this, Śukadeva at the end of the chapter shows how the glory of *nāmābhāsa* differs from that of the pure name: if Ajāmila, helpless and without faith, reached Vaikuṇṭha, what to speak of one who chants the name with transcendental firm faith.
+
+[^14]: The edition’s heading: Haridāsa’s answer — by the Lord’s mercy, once all the living beings of the time of His manifestation have been delivered, the world is filled again with jīvas brought forth by Mahā-Viṣṇu, who lies in the Causal Ocean. *Amṛta-pravāha-bhāṣya*: all the jīvas with whom the Lord, descending into the universe, comes into contact are delivered; yet He awakens countless subtle jīvas again on the field of karma, and so the universes are filled once more.
+
+[^15]: *Anubhāṣya*: see the *Rāmāyaṇa* (Baṅgavāsī edition), Uttara-kāṇḍa, sarga 122, verses 21–22, and sarga 123.
+
+[^16]: *Anubhāṣya*: Śukadeva spoke this to Parīkṣit while describing the good fortune of the gopīs, who on the night of the Rāsa-pūrṇimā heard Kṛṣṇa’s flute and longed to meet Him: from Kṛṣṇa all living beings without exception, moving and unmoving, are freed, so one should not wonder at His power to grant liberation.
+
+[^17]: The reference follows the edition’s heading (p. 890): *Viṣṇu Purāṇa*, part 4, chapter 15, verse 10. *Anubhāṣya*: the fruit is liberation and the like; those of perfect devotion are the pure devotees, who on the path of bhakti have wholly given up other desires, karma, jñāna and the rest.
+
+[^18]: The same verse as Ādi 3.88; translation as there. The source follows the edition’s heading (p. 891): Ālavandāru’s (Śrī Yāmunācārya’s) *Stotra-ratna*, verse 18. *Amṛta-pravāha-bhāṣya* (on Ādi 3.88): everything is bound by three limits — place, time and thought — but Your hidden nature, which has no equal or superior, surpasses them; You cover it by the power of māyā, yet Your exclusive devotees always see You. *Anubhāṣya*: “by the power of māyā” — by the power of His own *yogamāyā*.
+
+[^19]: *Amṛta-pravāha-bhāṣya*: the *Caitanya-maṅgala* is the *Caitanya-bhāgavata*; see its Ādi-khaṇḍa, chapter 14.
+
+[^20]: The edition’s heading: Ṭhākura Haridāsa tells of his initiation into the mahā-mantra; a brāhmaṇa by initiation. *Anubhāṣya*: a koṭi (ten million) names are completed in a month if one chants more than 333,333 names every day; in this sacrifice of chanting the name, Bhagavān, the bearer of the name, is worshipped. By worldly standards Haridāsa had no right to a sacrifice, either by birth or by initiation into the Sāvitrī, but, initiated into the sacrifice of the name, he performed it as a brāhmaṇa by initiation (*daikṣa-brāhmaṇa*).
