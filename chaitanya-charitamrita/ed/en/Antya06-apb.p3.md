@@ -22,6 +22,14 @@ By delighting the minds of all people (enchanting their hearts), he became a cer
 
 A “*rājasic*” invitation. Invitations are of three kinds: *sāttvic*, *rājasic* and *tāmasic*. The invitation of a pure Vaiṣṇava is *sāttvic*, the food of a pious *viṣayī* is *rājasic*, and the food of a sinner is *tāmasic*.
 
+## 285
+
+“Here comes a man — he is the one who will give; this one gave before; here comes another — he will give; the one who just passed did not give; another will come and give.” Such are the hopes of those who wear the dress of *vairāgīs* yet live without begging (*ayācaka*): abandoning impartiality, they become like a prostitute.
+
+## 299
+
+*Vitasti* (a span): a measure of half a cubit.
+
 ---
 
 [^225-1]: In the verse translation, otherwise: “becoming a slave of his worldly attachments.”

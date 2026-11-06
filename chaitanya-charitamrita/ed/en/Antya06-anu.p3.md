@@ -190,6 +190,64 @@ Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhak
 
 > Subheading: Waiting for food from another, at his whim, is contrary to the *dharma* of impartial renunciation —
 
+## 285
+
+> Subheading: At the mere sight of people — hopes of receiving alms or not, and guesses about how it will go — (the words of Śrī Kṛṣṇa Caitanyadeva)
+
+(Seeing some traveler, one who hopes for money or food says to himself:) **ayam** (this traveler) **āgacchati**; **ayam** (this generous man) **mām dāsyati** (will give me money, food and so on); **anena** (by this giver on some earlier evening — money, food and so on) **dattam**; **ayam aparaḥ** (here another man has come); **ayam sametya** (approaching) **dāsyati**; **anena api na** (anything) **dattam**; **anyaḥ** (a giver) **sameṣyati** (will come) — **saḥ** (he indeed) **mahyam dāsyati**.
+
+## 286
+
+> Subheading: Only *mādhukarī* alms favor the worship of Hari for a detached soul who has left home —
+
+## 287
+
+> Subheading: The guru of all knowers of Brahman, regarding Raghunātha as the best of the best, gives him His own Deity of Giridhārī and the garland that is the form of Gāndharvā —
+
+The Govardhana-śilā is the Deity Śrī Giridhārī; the *guñjā-mālā* is a garland of *guñjā* seeds.[^287-1]
+
+## 288
+
+> Subheading: How the Deity and the garland were first obtained —
+
+## 290
+
+> Subheading: While remembering Kṛṣṇa, the Lord honors that garland and the Deity, seeing in them Gāndharvā and Giridhārī Themselves —
+
+## 293
+
+> Subheading: After serving them for three years, the Lord gives them to Raghunātha —
+
+## 294
+
+> Subheading: The Lord's instruction, to teach the godless (*pāṣaṇḍīs*) who see stone in the worshipable Deity of Viṣṇu and caste in a Vaiṣṇava —
+
+## 295
+
+> Subheading: The pure *sāttvic* worship of a *mahā-bhāgavata*, that is, service in *bhāva*, is not the *arcana* of the worldly level of a *kaniṣṭha-adhikārī*; that very *bhāva* is *prema* —
+
+## 293–294
+
+The Govardhana-śilā is the son of the king of Vraja (Vrajendra-nandana) Himself. Mahāprabhu called this *śilā* “Kṛṣṇa's own transcendental body” and kept it with Him for three years. Then He revealed it in Raghunātha's heart and, regarding him as dear to His own dearest, gave him the right to serve it.
+
+There are, however, non-Vaiṣṇavas reared and nourished by *adaiva varṇāśrama* and standing in it in the position of servants. Their minds are worldly, and they are intoxicated with pride in sense-born knowledge. Outwardly they bear the marks of a Vaiṣṇava, but at root they hate the Vaiṣṇavas: wishing to satisfy their own worldly, contemptible hidden tendencies, they rely on their sense-born knowledge, that is, on mental speculation. So in the transcendental worshipable Deity of Viṣṇu they see metal or stone; in Śrī Gurudeva — a manifest form of Kṛṣṇa, the servitor Bhagavān, a spiritual pastime (*cid-vilāsa*) — they see a mortal; and in a *paramahaṁsa* Vaiṣṇava, the guru of the followers of *varṇāśrama*, they see caste. With these notions they invent the claim: “Śrī Raghunātha dāsa Gosvāmī Prabhu was not a brāhmaṇa by birth (*śaukra*) and did not undergo the Sāvitrī rite, and therefore he did not attain brāhmaṇa status by initiation (*daikṣya*).” People of this sort, tormented by envy, conclude by their speculation that no pure devotee except one born in a brāhmaṇa family by seed has the right to touch or worship the Deity of Viṣṇu, and that Mahāprabhu, with an eye to worldly *adaiva* society, skillfully displayed such a pastime. For this offense such inventors fall into the cesspit of *viṣaya* — into endless offense — and their offense against the Vaiṣṇavas ruins them utterly in this world and the next. *Kaniṣṭha* and *madhyama* Vaiṣṇavas should by no means associate with this band of offenders. These people believe that the pure spiritual ideal of transcendental brāhmaṇa-hood can exist nowhere but in brāhmaṇa-hood by seed, which fosters association with those attached to women. This belief leads to hell; without doubt it will confine them forever in *mahā-raurava* and destroy them.
+
+## 296
+
+> Subheading: The method of pure *sāttvic* service —
+
+## 298
+
+> Subheading: The service in pure *sāttvic bhāva* of the *mahā-bhāgavata* Raghunātha, the guru of all knowers of Brahman and dear to the Lord —
+
+## 300
+
+> Subheading: Putting to shame the inventions of the godless who see stone in the worshipable Viṣṇu and caste in a Vaiṣṇava, Raghunātha sees in Giridhārī the son of the king of Vraja Himself —
+
+## 301
+
+> Subheading: Raghunātha's unprecedented love for the Lord —
+
 ---
 
 [^226-1]: So in the edition; the words quoted are from the *Bhakti-sandarbha*, *anuccheda* 283.
@@ -201,3 +259,5 @@ Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhak
 [^270-1]: The edition has “॥০ আনা”: in the old notation ॥০ is ½ rupee, that is, eight annas.
 
 [^275-1]: Literally “an attempt to measure (*parimāṇa*)”; translated by sense.
+
+[^287-1]: In the verse translation, otherwise: “a necklace of small shells.”
