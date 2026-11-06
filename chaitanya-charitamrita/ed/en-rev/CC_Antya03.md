@@ -156,7 +156,7 @@ as You please  conduct  You do  who  can  to speak
 mukhara jagatera mukha pāra ācchādite  
 talkative  of the world  the mouth  can You  to cover
 
-(14) You behave as You please — who can say anything to You? But can You cover the mouth of the talkative world?
+(14) You behave as You please — who can say anything to You? But can You stop the mouths of a talkative world?
 
 পণ্ডিত হঞা মনে কেনে বিচার না কর ?  
 রাণ্ডীব্রাহ্মণীর বালকে প্রীতি কেনে কর ? ॥ ১৫ ॥
@@ -206,7 +206,7 @@ this  I call  of pure love  a wave
 dāmodara-sama mora nāhi ‘antaraṅga’  
 like Dāmodara  My  there is not  ‘intimate associate’
 
-(19) “This I call a wave of pure love. I have no intimate associate like Dāmodara.”
+(19) “This is what I call a wave of pure love. I have no intimate associate like Dāmodara.”
 
 এতেক বিচারি’ প্রভু মধ্যাহ্নে চলিলা ৷  
 আর দিনে দামোদরে নিভৃতে বোলাইলা ॥ ২০ ॥
@@ -296,7 +296,7 @@ constantly  His own  news  to you  to tell
 ei lāgi’ prabhu more pāṭhāilā ihām̐te  
 for this  reason  the Lord  me  sent  here
 
-(28) Tell her: ‘The Lord has sent me here to tell you His news constantly.’
+(28) Tell her: ‘The Lord has sent me here so that I may always bring you news of Him.’
 
 এত কহি’ মাতার মনে সন্তোষ জন্মাইহ ৷  
 আর গুহ্যকথা তাঁরে স্মরণ করাইহ ॥ ২৯ ॥
@@ -694,7 +694,7 @@ hearing  the Lord’s  happiness  increases  within
 punarapi bhaṅgī kari’ puchaye tām̐hāre  
 again  a feint  making  He asks  him
 
-(65) Hearing this, the Lord felt His happiness grow within. Yet again, as if testing him, He asked:
+(65) Hearing this, the Lord felt His happiness grow within. Then, as if to test him, He asked again:
 
 পৃথিবীতে বহুজীব — স্থাবর-জঙ্গম ৷  
 ইহা-সবার কি প্রকারে হইবে মোচন ? ॥ ৬৬ ॥
@@ -744,7 +744,7 @@ on the nonmoving  that  sound  strikes  an echo  arises
 tomāra kṛpāra ei akathya kathana  
 of Your  mercy  this  indescribable  account
 
-(70) It is not an ‘echo’: they are performing ‘kīrtana’. This is an indescribable account of Your mercy.
+(70) It is not an ‘echo’: they are performing ‘kīrtana’. This is a tale of Your mercy beyond all telling.
 
 সকল জগতে হয় উচ্চ সঙ্কীর্ত্তন ৷  
 শুনিয়া প্রেমাবেশে নাচে স্থাবর-জঙ্গম ॥ ৭১ ॥
@@ -851,7 +851,7 @@ having descended  You  likewise  have set up  a market
 keha nā bujhite pāre tomāra gūḍha nāṭa  
 anyone  not  to understand  can  Your  hidden  drama
 
-(81) so You too, having descended, have set up the same kind of market. No one can understand Your hidden play.
+(81) so You too, having descended, have set up Your market here. No one can understand Your hidden play.
 
 পূর্ব্বে যেন ব্রজে কৃষ্ণ করি’ অবতার ৷  
 সকল ব্রহ্মাণ্ড-জীবের খণ্ডাইলা সংসার ॥ ৮২ ॥
@@ -1094,7 +1094,7 @@ to the prostitutes  he says  this  renunciant  Haridāsa
 tumi-saba kara ihāra vairāgya-dharma nāśa  
 you all  make  his  of renunciation the dharma  destruction
 
-(104) He said to the prostitutes, “There is a renunciant, Haridāsa. All of you, destroy his vow of renunciation.”
+(104) He said to the prostitutes, “There is a renunciant named Haridāsa. Go, all of you, and destroy his vow of renunciation.”
 
 বেশ্যাগণ-মধ্যে এক সুন্দরী যুবতী ৷  
 সে কহে, — তিন দিনে হরিব তাঁর মতি ॥ ১০৫ ॥
@@ -1451,7 +1451,7 @@ Tulasī  service  does  eating sparingly  fasting
 indriya-damana haila, premera prakāśa  
 of the senses  control  came about  of love  the manifestation
 
-(140) She served Tulasī, ate sparingly or fasted. Her senses were subdued, and love (prema) appeared in her.
+(140) She served Tulasī and ate sparingly or fasted. Her senses were subdued, and love (prema) appeared in her.
 
 প্রসিদ্ধা বৈষ্ণবী হৈল পরম-মহান্তী ৷  
 বড় বড় বৈষ্ণব তাঁর দর্শনেতে যান্তি ॥ ১৪১ ॥
@@ -1511,7 +1511,7 @@ the religion of the Vaiṣṇavas  blasphemy  makes  of the Vaiṣṇavas  insul
 bahu-dinera aparādhe pāila pariṇāma  
 of many days  by the offences  received  the consequence
 
-(146) He reviled the religion of the Vaiṣṇavas and insulted the Vaiṣṇavas, and for the offences of many days he received the consequence.
+(146) He reviled the religion of the Vaiṣṇavas and insulted them, and for the offences of many days he reaped the consequence.
 
 নিত্যানন্দ-গোসাঞি গৌড়ে যবে আইলা ৷  
 প্রেম প্রচারিতে তবে ভ্রমিতে লাগিলা ॥ ১৪৭ ॥
@@ -1711,7 +1711,7 @@ of Haridāsa  a recipient of mercy  therefore  with devotion and respect
 yatna kari’ ṭhākurere rākhilā sei grāme  
 with care  the Ṭhākura  kept  in that  village
 
-(166) He had received Haridāsa’s mercy, and so, with devotion and respect, he carefully kept the Ṭhākura in that village.
+(166) He had received Haridāsa’s mercy, and so, with devotion and respect, he looked after the Ṭhākura with care in that village.
 
 নির্জ্জন পর্ণশালায় করেন কীর্ত্তন ৷  
 বলরাম-আচার্য্য-গৃহে ভিক্ষা-নির্ব্বাহণ ॥ ১৬৭ ॥
@@ -1721,7 +1721,7 @@ in a solitary  leaf  hut  does  kīrtana
 balarāma-ācārya-gṛhe bhikṣā-nirvāhaṇa  
 in Balarāma Ācārya’s  house  alms  receiving
 
-(167) He chanted in a solitary hut of leaves and took his alms (*bhikṣā*) at Balarāma Ācārya’s house.
+(167) Haridāsa chanted in a solitary hut of leaves and took his alms (*bhikṣā*) at Balarāma Ācārya’s house.
 
 রঘুনাথ দাস বালক করেন অধ্যয়ন ৷  
 হরিদাস-ঠাকুরেরে যাই’ করেন দর্শন ॥ ১৬৮ ॥
@@ -1889,7 +1889,7 @@ of thieves  ghosts  Rākṣasas and the like  the fear  comes  to an end
 udaya haile dharma-karma-ādi parakāśa  
 rising  when it has happened  religious duties  works  and so on  are manifest
 
-(182–183) Haridāsa said, “When the sun rises, darkness begins to vanish even before it has risen, and the fear of thieves, ghosts, Rākṣasas and the like comes to an end. When it has risen, religious duties, works and all else come to light.
+(182–183) Haridāsa said, “It is like the rising of the sun: even before it has risen, darkness begins to vanish, and the fear of thieves, ghosts, Rākṣasas and the like comes to an end. When it has risen, religious duties, works and all else come to light.
 
 ঐছে নামোদয়ারম্ভে পাপ-আদির ক্ষয় ৷  
 উদয় কৈলে কৃষ্ণপদে হয় প্রেমোদয় ॥ ১৮৪ ॥
@@ -1957,7 +1957,7 @@ in Gauḍa  staying  before the Pātsāhā  the work of tax collector  does
 bāra-lakṣa mudrā sei pātsāhāre bhare  
 twelve lakhs  of coins  he  to the Pātsāhā  pays
 
-(189) Living in Gauḍa, he worked as tax collector for the Pātsāhā and paid twelve lakhs (1,200,000) of coins to the Pātsāhā.[^35]
+(189) Living in Gauḍa, he served the Pātsāhā as a tax collector and delivered twelve lakhs (1,200,000) of coins into his treasury.[^35]
 
 পরম-সুন্দর, পণ্ডিত, নূতন-যৌবন ৷  
 নামাভাসে ‘মুক্তি’ শুনি’ না হইল সহন ॥ ১৯০ ॥
@@ -2007,7 +2007,7 @@ the happiness of devotion  before  ‘liberation’  very trifling  is
 ataeva bhakta-gaṇa ‘mukti’ nāhi laya  
 therefore  the devotees  ‘liberation’  do not  accept
 
-(194) Before the happiness of devotion, liberation is utterly trifling; therefore the devotees do not accept it.
+(194) Beside the happiness of devotion, liberation is utterly trifling; therefore the devotees do not accept it.
 
 ত্বৎসাক্ষাৎকরণাহ্লাদ-বিশুদ্ধাব্ধিস্থিতস্য মে ৷  
 সুখানি গোষ্পদায়ন্তে ব্রাহ্মাণ্যপি জগদ্গুরো ॥ ১৯৫ ॥
@@ -2221,7 +2221,7 @@ of the Ācārya  in the house  daily  taking alms
 dui janā mili’ kṛṣṇa-kathā-āsvādana  
 the two  persons  meeting  talk of Kṛṣṇa  relishing
 
-(215) He took his alms daily at the Ācārya’s house, and together the two of them relished talks about Kṛṣṇa.
+(215) Haridāsa took his alms daily at the Ācārya’s house, and together the two of them relished talks about Kṛṣṇa.
 
 হরিদাস কহে, — গোসাঞি, করি নিবেদনে ৷  
 মোরে প্রত্যহ অন্ন দেহ’ কোন্ প্রয়োজনে ? ॥ ২১৬ ॥
@@ -2361,7 +2361,7 @@ at the door  Tulasī  —  a plastered platform  upon
 gom̐phāra śobhā dekhi’ lokera juḍāya antara  
 of the cave  the beauty  seeing  people’s  is soothed  heart
 
-(229) At the door was Tulasī, on a plastered platform. Seeing the beauty of the cave, anyone’s heart was soothed.
+(229) At the door was Tulasī, on a plastered platform. The cave was so beautiful that the heart of anyone who saw it was soothed.
 
 হেনকালে এক নারী অঙ্গনে আইল ৷  
 তাঁর অঙ্গকান্ত্যে স্থান পীতবর্ণ হইল ॥ ২৩০ ॥
@@ -2381,7 +2381,7 @@ her  by the fragrance of her body  the ten  directions  perfumed
 bhūṣaṇa-dhvanite karṇa haya camakita  
 by the sound of her ornaments  the ears  are  startled
 
-(231) The fragrance of her body perfumed the ten directions, and the tinkling of her ornaments startled the ears.
+(231) The fragrance of her body perfumed the ten directions, and the tinkling of her ornaments thrilled the ears.
 
 আসিয়া তুলসীরে সেই কৈলা নমস্কার ৷  
 তুলসী পরিক্রমা করি’ গেলা গোঁফা-দ্বার ॥ ২৩২ ॥
@@ -2491,7 +2491,7 @@ chanting  while doing  coming  morning  came
 prātaḥ-kāla dekhi’ nārī uṭhiyā calila  
 morning  seeing  the woman  rising  departed
 
-(242) While he chanted, morning came, and seeing that it was morning, the woman rose and left.
+(242) While he chanted, dawn came, and seeing that it was morning, the woman rose and left.
 
 এইমত তিনদিন করে আগমন ৷  
 নানা-ভাব দেখায়, যাতে ব্রহ্মার হরে মন ॥ ২৪৩ ॥

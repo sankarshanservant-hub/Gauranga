@@ -83,7 +83,7 @@ tr: Hearing this, the Lord said, “What are you saying, Dāmodara?” Dāmodara
 ## 14
 w: as You please  conduct  You do  who  can  to speak
 w: talkative  of the world  the mouth  can You  to cover
-tr: You behave as You please — who can say anything to You? But can You cover the mouth of the talkative world?
+tr: You behave as You please — who can say anything to You? But can You stop the mouths of a talkative world?
 
 ## 15
 w: a paṇḍita  being  in Your mind  why  consideration  not  You do
@@ -108,7 +108,7 @@ tr: Having said this, Dāmodara fell silent. The Lord, pleased at heart, smiled 
 ## 19
 w: this  I call  of pure love  a wave
 w: like Dāmodara  My  there is not  ‘intimate associate’
-tr: “This I call a wave of pure love. I have no intimate associate like Dāmodara.”
+tr: “This is what I call a wave of pure love. I have no intimate associate like Dāmodara.”
 
 ## 20
 w: thus  reflecting  the Lord  for the midday duties  went
@@ -154,7 +154,7 @@ tr: Convey to My mother My obeisances millions of times, and gladden her by tell
 ## 28
 w: constantly  His own  news  to you  to tell
 w: for this  reason  the Lord  me  sent  here
-tr: Tell her: ‘The Lord has sent me here to tell you His news constantly.’
+tr: Tell her: ‘The Lord has sent me here so that I may always bring you news of Him.’
 
 ## 29
 w: this  saying  of My mother  in the mind  satisfaction  produce
@@ -360,7 +360,7 @@ tr: In all the scriptures I see that liberation comes through *nāmābhāsa*, an
 ## 65
 w: hearing  the Lord’s  happiness  increases  within
 w: again  a feint  making  He asks  him
-tr: Hearing this, the Lord felt His happiness grow within. Yet again, as if testing him, He asked:
+tr: Hearing this, the Lord felt His happiness grow within. Then, as if to test him, He asked again:
 
 ## 66
 w: on the earth  many beings  nonmoving and moving
@@ -385,7 +385,7 @@ tr: By hearing it, the moving beings are freed from worldly existence; and when 
 ## 70
 w: ‘an echo’  it is not  they  perform  ‘kīrtana’
 w: of Your  mercy  this  indescribable  account
-tr: It is not an ‘echo’: they are performing ‘kīrtana’. This is an indescribable account of Your mercy.
+tr: It is not an ‘echo’: they are performing ‘kīrtana’. This is a tale of Your mercy beyond all telling.
 
 ## 71
 w: in all  the world  there is  loud  saṅkīrtana
@@ -439,7 +439,7 @@ fn: *Anubhāṣya*: see the *Rāmāyaṇa* (Baṅgavāsī edition), Uttara-kā�
 ## 81
 w: having descended  You  likewise  have set up  a market
 w: anyone  not  to understand  can  Your  hidden  drama
-tr: so You too, having descended, have set up the same kind of market. No one can understand Your hidden play.
+tr: so You too, having descended, have set up Your market here. No one can understand Your hidden play.
 
 ## 82
 w: formerly  as  in Vraja  Kṛṣṇa  making  descent
@@ -563,7 +563,7 @@ tr: Unable to find any fault in Haridāsa by any means, he brought in prostitute
 ## 104
 w: to the prostitutes  he says  this  renunciant  Haridāsa
 w: you all  make  his  of renunciation the dharma  destruction
-tr: He said to the prostitutes, “There is a renunciant, Haridāsa. All of you, destroy his vow of renunciation.”
+tr: He said to the prostitutes, “There is a renunciant named Haridāsa. Go, all of you, and destroy his vow of renunciation.”
 
 ## 105
 w: the prostitutes  among  one  beautiful  young woman
@@ -741,7 +741,7 @@ tr: She shaved her head and stayed in that hut with a single cloth, chanting thr
 ## 140
 w: Tulasī  service  does  eating sparingly  fasting
 w: of the senses  control  came about  of love  the manifestation
-tr: She served Tulasī, ate sparingly or fasted. Her senses were subdued, and love (prema) appeared in her.
+tr: She served Tulasī and ate sparingly or fasted. Her senses were subdued, and love (prema) appeared in her.
 
 ## 141
 w: renowned  a Vaiṣṇavī  became  most  exalted
@@ -771,7 +771,7 @@ tr: Rāmacandra Khān was by nature no Vaiṣṇava, and by his offence against 
 ## 146
 w: the religion of the Vaiṣṇavas  blasphemy  makes  of the Vaiṣṇavas  insult
 w: of many days  by the offences  received  the consequence
-tr: He reviled the religion of the Vaiṣṇavas and insulted the Vaiṣṇavas, and for the offences of many days he received the consequence.
+tr: He reviled the religion of the Vaiṣṇavas and insulted them, and for the offences of many days he reaped the consequence.
 
 ## 147
 w: Nityānanda  Gosāñi  to Gauḍa  when  came
@@ -877,12 +877,12 @@ fn: *Anubhāṣya*: *majumadāra* (*majmu-ādār*) — under the nawabs, the kee
 ## 166
 w: of Haridāsa  a recipient of mercy  therefore  with devotion and respect
 w: with care  the Ṭhākura  kept  in that  village
-tr: He had received Haridāsa’s mercy, and so, with devotion and respect, he carefully kept the Ṭhākura in that village.
+tr: He had received Haridāsa’s mercy, and so, with devotion and respect, he looked after the Ṭhākura with care in that village.
 
 ## 167
 w: in a solitary  leaf  hut  does  kīrtana
 w: in Balarāma Ācārya’s  house  alms  receiving
-tr: He chanted in a solitary hut of leaves and took his alms (*bhikṣā*) at Balarāma Ācārya’s house.
+tr: Haridāsa chanted in a solitary hut of leaves and took his alms (*bhikṣā*) at Balarāma Ācārya’s house.
 
 ## 168
 w: Raghunātha  dāsa  a boy  does  study
@@ -967,7 +967,7 @@ w: Haridāsa  says  —  as  of the sun  the rising
 w: the rising  not  having happened  from the start  of darkness  comes  destruction
 w: of thieves  ghosts  Rākṣasas and the like  the fear  comes  to an end
 w: rising  when it has happened  religious duties  works  and so on  are manifest
-tr: Haridāsa said, “When the sun rises, darkness begins to vanish even before it has risen, and the fear of thieves, ghosts, Rākṣasas and the like comes to an end. When it has risen, religious duties, works and all else come to light.
+tr: Haridāsa said, “It is like the rising of the sun: even before it has risen, darkness begins to vanish, and the fear of thieves, ghosts, Rākṣasas and the like comes to an end. When it has risen, religious duties, works and all else come to light.
 
 ## 184
 w: so  at the start of the name’s rising  of sins and the like  the destruction
@@ -1005,7 +1005,7 @@ tr: There was a man named Gopāla Cakravartī, the chief tax collector (*ārind�
 ## 189
 w: in Gauḍa  staying  before the Pātsāhā  the work of tax collector  does
 w: twelve lakhs  of coins  he  to the Pātsāhā  pays
-tr: Living in Gauḍa, he worked as tax collector for the Pātsāhā and paid twelve lakhs (1,200,000) of coins to the Pātsāhā.
+tr: Living in Gauḍa, he served the Pātsāhā as a tax collector and delivered twelve lakhs (1,200,000) of coins into his treasury.
 fn: *Ārindā* — a tax collector, a messenger who carries the royal revenue (*Amṛta-pravāha-bhāṣya* on 188).
 
 ## 190
@@ -1031,7 +1031,7 @@ tr: Haridāsa said, “Why do you doubt? The scriptures say that liberation come
 ## 194
 w: the happiness of devotion  before  ‘liberation’  very trifling  is
 w: therefore  the devotees  ‘liberation’  do not  accept
-tr: Before the happiness of devotion, liberation is utterly trifling; therefore the devotees do not accept it.
+tr: Beside the happiness of devotion, liberation is utterly trifling; therefore the devotees do not accept it.
 
 ## 195
 w: from seeing You face to face  the joy
@@ -1142,7 +1142,7 @@ tr: On the bank of the Gaṅgā He made a secluded cave-dwelling for him, and He
 ## 215
 w: of the Ācārya  in the house  daily  taking alms
 w: the two  persons  meeting  talk of Kṛṣṇa  relishing
-tr: He took his alms daily at the Ācārya’s house, and together the two of them relished talks about Kṛṣṇa.
+tr: Haridāsa took his alms daily at the Ācārya’s house, and together the two of them relished talks about Kṛṣṇa.
 
 ## 216
 w: Haridāsa  says  —  Gosāñi  I make  a submission
@@ -1214,7 +1214,7 @@ tr: It was a moonlit night; the ten directions were perfectly clear, and the wav
 ## 229
 w: at the door  Tulasī  —  a plastered platform  upon
 w: of the cave  the beauty  seeing  people’s  is soothed  heart
-tr: At the door was Tulasī, on a plastered platform. Seeing the beauty of the cave, anyone’s heart was soothed.
+tr: At the door was Tulasī, on a plastered platform. The cave was so beautiful that the heart of anyone who saw it was soothed.
 
 ## 230
 w: at that time  a  woman  into the courtyard  came
@@ -1224,7 +1224,7 @@ tr: At that time a woman came into the courtyard, and the lustre of her body tur
 ## 231
 w: her  by the fragrance of her body  the ten  directions  perfumed
 w: by the sound of her ornaments  the ears  are  startled
-tr: The fragrance of her body perfumed the ten directions, and the tinkling of her ornaments startled the ears.
+tr: The fragrance of her body perfumed the ten directions, and the tinkling of her ornaments thrilled the ears.
 
 ## 232
 w: coming  to Tulasī  she  made  obeisance
@@ -1280,7 +1280,7 @@ tr: Saying this, he went on chanting the name, and the woman sat and listened to
 ## 242
 w: chanting  while doing  coming  morning  came
 w: morning  seeing  the woman  rising  departed
-tr: While he chanted, morning came, and seeing that it was morning, the woman rose and left.
+tr: While he chanted, dawn came, and seeing that it was morning, the woman rose and left.
 
 ## 243
 w: in this way  three days  makes  coming
