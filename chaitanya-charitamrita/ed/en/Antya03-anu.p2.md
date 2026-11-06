@@ -234,6 +234,100 @@ See Ādi 7.98.
 
 > Subheading: The dreadful fruit — punishment — of calling the glory of the Name exaggeration and of disrespecting a Vaiṣṇava —
 
+## 209
+
+> Subheading: Seeing the Ṭhākura's power, everyone praises him —
+
+## 210
+
+> Subheading: The nature of Bhagavān and of the devotee, that is, of Viṣṇu and of the Vaiṣṇava —
+
+## 212
+
+> Subheading: Hearing of the *brahma-bandhu*'s suffering, [Haridāsa] leaves the place and comes to Śāntipura —
+
+## 213
+
+> Subheading: Meeting with Śrī Advaita Ācārya —
+
+## 214
+
+> Subheading: The Ācārya provides for the Ṭhākura and recites the *Gītā* and the *Bhāgavata* to him —
+
+## 215
+
+> Subheading: Every day the two converse about Kṛṣṇa —
+
+## 216
+
+> Subheading: Haridāsa's humble words —
+
+## 218
+
+***Rakṣā*** (protection) — preserving one's standing in society in practical affairs, that is, being spared social disgrace, censure and the like.
+
+## 219
+
+> Subheading: The impartial words of Śrī Advaita Ācārya, guru of the world and teacher of the people, in accord with the Sātvata scriptures —
+
+## 220
+
+The *Bhakti-sandarbha* (117) quotes these words of the *Garuḍa Purāṇa*: “Better than thousands of *brāhmaṇas* is one who performs *satra* sacrifices; better than thousands of *satra* performers is one who has mastered all of Vedānta; better than ten million knowers of all Vedānta is a devotee of Viṣṇu; and better than thousands of Vaiṣṇavas is a single one wholly devoted (*ekāntī*).” “Even a *mleccha*, if this eightfold *bhakti* is present in him, is the best of *brāhmaṇas*, the best of sages; he is wise, and he is learned. To him one should give, from him one should accept, and he is to be worshiped as Hari is.” “One who knows the four Vedas but is not My devotee is not dear to Me; My devotee, though born among dog-eaters, is dear to Me. To him one should give, from him one should accept, and he is to be worshiped as I am.”
+
+## 221
+
+> Subheading: Śrī Advaita Ācārya's incomparable mercy toward the *jīvas* —
+
+## 222
+
+> Subheading: The Ācārya worships Kṛṣṇa —
+
+## 223
+
+> Subheading: Haridāsa chants the Name —
+
+## 224
+
+> Subheading: At the call of the two, Kṛṣṇa Caitanya descends to deliver the *jīvas*, and by distributing the Name and *prema* He delivers the whole world —
+
+## 225
+
+> Subheading: An account of the Ṭhākura's transcendental conduct —
+
+## 226
+
+> Subheading: By the path of *śruti* (hearing) one realizes the transcendental; by the path of argument it cannot be grasped —
+
+## 227
+
+> Subheading: The account of Ṭhākura Haridāsa and the deliverance of Māyā-devī —
+
+## 234
+
+> Subheading: Māyā, who enchants the *jīvas*, tests Ṭhākura Haridāsa —
+
+## 238
+
+> Subheading: Ṭhākura Haridāsa has vowed himself to a sacrifice, chanting the Name by a fixed count, and is steadfast in it —
+
+## 243
+
+> Subheading: For three days Māyā tests him severely —
+
+## 244
+
+> Subheading: Māyā is defeated before the Ṭhākura, the exclusive servant of the Lord who is the Name, the nondual Truth; he is free from the sense of being an enjoyer, which arises from absorption in a “second” —
+
+While chanting the holy name of Hari, Haridāsa's mind was always absorbed in the name of Kṛṣṇa. Therefore Māyā-devī's garland of feminine moods — alluring to men, full of deceit, enchanting to bound souls — proved as fruitless as weeping in a deserted forest.
+
+## 247
+
+> Subheading: The Ṭhākura serves according to his vow —
+
+## 248
+
+> Subheading: Māyā reveals who she is —
+
 ---
 
 [^179-1]: *Hari-bhakti-vilāsa* 2.9; also quoted in *Bhakti-sandarbha* 283.

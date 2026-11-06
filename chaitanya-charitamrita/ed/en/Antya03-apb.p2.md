@@ -21,3 +21,9 @@ Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee doe
 ## 199
 
 ***Ghaṭa-paṭiyā*** — a *naiyāyika* (logician) who argues fruitlessly about “the pot” (*ghaṭa*) and “the cloth” (*paṭa*).
+
+## 220
+
+***Śrāddha-pātra.*** On the day of *śrāddha*, Vaiṣṇava householders are enjoined to offer the Lord every kind of food and then to feed it to Vaiṣṇavas and *brāhmaṇas*. When such a *śrāddha* day came in Advaita Prabhu's household, He fed Haridāsa the *śrāddha-pātra*, regarding him as a transcendental *brāhmaṇa* and guru.
+
+*Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*
