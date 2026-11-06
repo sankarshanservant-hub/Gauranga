@@ -330,8 +330,126 @@ The body of an associate (*pārṣada*) is a body made wholly of service to Kṛ
 
 > Subheading: Every day Sanātana talks with Haridāsa about the Lord —
 
+## 207
+
+> Subheading: After the Dola-yātrā the Lord sends Sanātana to Vṛndāvana —
+
+## 208
+
+> Subheading: At parting, the devotee and Bhagavān feel the sharp pain of separation —
+
+## 209
+
+> Subheading: Sanātana goes to Vṛndāvana by the same road the Lord had taken —
+
+## 210
+
+> Subheading: From Balabhadra, the Lord's companion, Sanātana compiles a list of the places he is to visit —
+
+## 211
+
+> Subheading: After meeting devotees on the way, Sanātana continues his journey —
+
+## 212
+
+> Subheading: Seeing the places of the Lord's pastimes, Sanātana is absorbed in love —
+
+## 213
+
+> Subheading: Sanātana reaches Vṛndāvana first, and Rūpa later —
+
+## 214
+
+> Subheading: Why Śrī Rūpa was delayed in coming to Vṛndāvana —
+
+**‘Sthiti’-artha**: landed property and money, that is, accumulated wealth. He divided among his relatives, each according to his due, the movable property held in deposit and the immovable property.
+
+## 216
+
+> Subheading: Śrī Rūpa, the crest jewel of the eternally perfect, divides his property and lives in Vraja with a carefree heart. This is not “the same” as the irresolution (*jana-śaithilya*) of a practitioner still burdened with *anarthas*, which springs from the mentality of a *gṛhavrata* —[^216-1]
+
+**Manaḥ-kathā**: all that he wished.
+
+## 217
+
+> Subheading: The brothers live in Vraja and carry out the four kinds of service the Lord entrusted to them —
+
+## 218
+
+**Nānā-śāstra** (various scriptures): the evidence from all these scriptures is quoted in the book *Bhakti-ratnākara*. In Vṛndāvana Śrī Rūpa Gosvāmī manifested the service of Śrī Govinda, and Śrī Sanātana Gosvāmī the service of Śrī Madana-mohana.
+
+## 219
+
+> Subheading: Śrī Sanātana's work: his books and other labors —
+
+**Bhāgavatāmṛta**: the *Bṛhad-bhāgavatāmṛta*; see Madhya 1.35.
+
+## 220
+
+**Daśama-ṭippanī**: the commentary *Bṛhad-vaiṣṇava-toṣaṇī*.
+
+## 221
+
+**Hari-bhakti-vilāsa.** Later Śrīmad Gopāla Bhaṭṭa Gosvāmī Prabhu compiled this book together with the commentary *Dig-darśinī*, which Śrīla Sanātana Gosvāmī Prabhu had collected. Some ask: why did the *karmī smārtas*, instead of accepting the views of the *sātvata* scriptures quoted in the *Hari-bhakti-vilāsa*, invent other opinions from those very scriptures? The answer is this: although the views of the *Hari-bhakti-vilāsa* agree with scripture and are perfectly pure, the *karmīs* reject the views of the pure scriptures and accept only the evidence for their own mundane, impure opinions, which are hostile to devotion to Viṣṇu. See the Anubhāṣya on Madhya 1.35.
+
+## 219–222
+
+“The four books of Sanātana Gosvāmī” (*Bhakti-ratnākara*, first wave): (1) the *Bṛhad-bhāgavatāmṛta*; (2) the *Hari-bhakti-vilāsa* and its commentary named *Dig-darśinī*; (3) the *Līlā-stava*; (4) the *ṭippanī* on the Tenth Canto of the *Bhāgavatam* (the *Vaiṣṇava-toṣaṇī*). For Kavirāja Gosvāmī's view, see Madhya 1.35.
+
+## 223
+
+> Subheading: Śrī Rūpa's work: his books and other labors —
+
+**Rasāmṛta-sindhu**: the *Bhakti-rasāmṛta-sindhu*. On the *Ujjvala-nīlamaṇi*, the *Vidagdha-mādhava* and the *Lalita-mādhava*, see the Anubhāṣya on Madhya 1.38.
+
+## 226
+
+**Lakṣa-grantha** (a hundred thousand *granthas*). The books of Śrī Rūpa contain about a hundred thousand *ślokas*: besides counting verses, there is also a method of counting prose. Copyists, when assessing the extent of their labor, count both prose and verse in *śloka-granthas*. Let no one fall into the error of thinking that Śrī Rūpa Prabhu wrote a hundred thousand books. The first wave of the *Bhakti-ratnākara* says: “Śrī Rūpa Gosvāmī wrote sixteen books.” See the Anubhāṣya on Ādi 10.84.
+
+## 227
+
+> Subheading: Who Śrī Jīva was; his books and other labors —
+
+## 229
+
+**Bhāgavata-sandarbha**: its other name is the *Ṣaṭ-sandarbha*; see the Anubhāṣya on Madhya 1.43.
+
+## 217–231
+
+See Madhya 1.31–45 and the Anubhāṣya on those verses, and the *Bhakti-ratnākara*, first wave.
+
+## 232
+
+> Subheading: Earlier events in Śrī Jīva Gosvāmī's life: before going to Mathurā he receives Nityānanda's mercy and order —
+
+## 234
+
+> Subheading: Only the *rūpānugas* of Śrī Sanātana's line gain the right to live in Vṛndāvana —
+
+## 235
+
+> Subheading: By Nityānanda's mercy and by His order Śrī Jīva becomes an *ācārya* —
+
+## 236
+
+> Subheading: The author's three *śikṣā-gurus* —
+
+**Ei tina-guru** (these three gurus): (1) Śrī Rūpa, (2) Sanātana and (3) Śrī Jīva Gosvāmī Prabhu.
+
+## 237
+
+> Subheading: Hearing the account of the meeting of the Lord and Sanātana, one comes to understand how the Lord wished to teach people —
+
+## 238
+
+> Subheading: One who constantly cultivates it (*anuśīlana*), as though churning the ocean of Caitanya's pastimes, draws from it the nectar of love for Kṛṣṇa —
+
+*Thus ends the fourth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^185-1]: Sudarśana is the Lord's disc; the word also means “beautiful vision.”
 
 [^194-1]: In the edition's numbering; in our translation, Madhya 22.100.
+
+[^216-1]: Unclear passage: জনশৈথিল্য (*jana-śaithilya*, literally “slackening toward people”?); the translation is conjectural.
