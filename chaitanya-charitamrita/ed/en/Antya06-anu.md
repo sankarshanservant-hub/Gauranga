@@ -629,7 +629,7 @@ These words too show that the godless (*pāṣaṇḍīs*) who oppose the teachi
 
 ## 188
 
-> Subheading: He reaches Purī in twelve days; on the way he ate on only three days[^188-1] —
+> Subheading: He reaches Purī in twelve days; on the way he ate on only three days —
 
 ## 189
 
@@ -855,7 +855,7 @@ See Ādi 17.31.
 
 > Subheading: The virtues of Yadunandana Ācārya and of Raghunātha — a follower of Svarūpa and the object of Śrī Kṛṣṇa Caitanya's boundless mercy — (Śivānanda's words to a fellow pilgrim in the *Śrī Caitanya-candrodaya-nāṭaka*, act 10, verses 3–4)
 
-**śrī-vāsudeva-priyaḥ** (dear to Vāsudeva Datta Ṭhākura, that is, an object of his mercy, but not his disciple) **su-madhuraḥ** (very gentle) **yadunandanaḥ** **ācāryaḥ**; **tac-chiṣyaḥ** (a disciple of that Yadunandana, that is, an object of his mercy — not that he received initiation from him in particular; such is the sense)[^263-1] **adhiguṇaḥ** (surpassing in virtues, that is, endowed with more virtues than anyone) **mādṛśām** (of those who, like us, have Gaura as their life) **prāṇādhikaḥ** (dearer than life) **śrī-caitanya-kṛpātireka-satata-snigdhaḥ** (by Gaura's boundless mercy always full of *prema*) **svarūpa-priyaḥ** (a follower of Svarūpa Dāmodara) **vairāgyaika-nidhiḥ** (the sole treasure of renunciation, that is, its chief abode, or ocean) **raghunāthaḥ** (Śrī Dāsa Gosvāmī) **nīlācale** (in Puruṣottama-kṣetra) **tiṣṭhatām** (among those living) **kasya na viditaḥ?** (that is, he is known to all; such is the sense).
+**śrī-vāsudeva-priyaḥ** (dear to Vāsudeva Datta Ṭhākura, that is, an object of his mercy, but not his disciple) **su-madhuraḥ** (very gentle) **yadunandanaḥ** **ācāryaḥ**; **tac-chiṣyaḥ** (a disciple of that Yadunandana, that is, an object of his mercy — not that he received initiation from him in particular; such is the sense) **adhiguṇaḥ** (surpassing in virtues, that is, endowed with more virtues than anyone) **mādṛśām** (of those who, like us, have Gaura as their life) **prāṇādhikaḥ** (dearer than life) **śrī-caitanya-kṛpātireka-satata-snigdhaḥ** (by Gaura's boundless mercy always full of *prema*) **svarūpa-priyaḥ** (a follower of Svarūpa Dāmodara) **vairāgyaika-nidhiḥ** (the sole treasure of renunciation, that is, its chief abode, or ocean) **raghunāthaḥ** (Śrī Dāsa Gosvāmī) **nīlācale** (in Puruṣottama-kṣetra) **tiṣṭhatām** (among those living) **kasya na viditaḥ?** (that is, he is known to all; such is the sense).
 
 ## 264
 
@@ -955,7 +955,7 @@ Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhak
 
 > Subheading: The guru of all knowers of Brahman, regarding Raghunātha as the best of the best, gives him His own Deity of Giridhārī and the garland that is the form of Gāndharvā —
 
-The Govardhana-śilā is the Deity Śrī Giridhārī; the *guñjā-mālā* is a garland of *guñjā* seeds.[^287-1]
+The Govardhana-śilā is the Deity Śrī Giridhārī; the *guñjā-mālā* is a garland of *guñjā* seeds.
 
 ## 288
 
@@ -1099,17 +1099,11 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 
 ---
 
-[^188-1]: In the verse translation, otherwise: “after twenty days of travel”; in the Bengali verse, as in the subheading, “in twelve days.”
-
 [^226-1]: So in the edition; the words quoted are from the *Bhakti-sandarbha*, *anuccheda* 283.
-
-[^263-1]: In the verse translation, otherwise: “very dear to his guru Yadunandana Ācārya, a disciple of Vāsudeva Datta.”
 
 [^270-1]: The edition has “॥০ আনা”: in the old notation ॥০ is ½ rupee, that is, eight annas.
 
 [^275-1]: Literally “an attempt to measure (*parimāṇa*)”; translated by sense.
-
-[^287-1]: In the verse translation, otherwise: “a necklace of small shells.”
 
 [^314-1]: *Bṛhad-āraṇyaka Upaniṣad* 4.4.12 (there *anusaṁjvaret*, “would he suffer along with the body”; the edition has *anu-sañcaret*).
 

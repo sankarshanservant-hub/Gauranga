@@ -62,7 +62,7 @@ The three Raghunāthas are Vaidya-Raghunātha (Ādi 11.22), Bhaṭṭa-Raghunāt
 
 ## 225
 
-*Rasa*: [the six tastes] — bitter, sweet, sour, salty, pungent and astringent.[^225-1]
+*Rasa*: [the six tastes] — bitter, sweet, sour, salty, pungent and astringent.
 
 ## 236–237
 
@@ -74,7 +74,7 @@ A man and a woman marry, beget children and so build a household (*saṁsāra*).
 
 ## 263
 
-Śrī Vāsudeva Datta (who lived in Kāñcanapallī) loved the very gentle Yadunandana Ācārya;[^263-1] his disciple is Raghunātha dāsa. By his virtues Raghunātha is dearer than life to all of us. By Śrī Caitanya's boundless mercy he is always full of tender love; he is dear to Svarūpa Gosvāmī and is the sole treasure in the kingdom of renunciation. Who among those living in Nīlācala does not know him?
+Śrī Vāsudeva Datta (who lived in Kāñcanapallī) loved the very gentle Yadunandana Ācārya; his disciple is Raghunātha dāsa. By his virtues Raghunātha is dearer than life to all of us. By Śrī Caitanya's boundless mercy he is always full of tender love; he is dear to Svarūpa Gosvāmī and is the sole treasure in the kingdom of renunciation. Who among those living in Nīlācala does not know him?
 
 ## 264
 
@@ -121,9 +121,5 @@ I am the greatest of scoundrels, yet He, in His mercy, saw me fallen, rescued me
 [^23-1]: In the verses it is the Muslim *caudhurī* who threatens Raghunātha and fears to touch him (Antya 6.21–23); he only brought the vizier (6.20).
 
 [^198-1]: *Bhakti-rasāmṛta-sindhu* 1.1.11.
-
-[^225-1]: In the verse translation, otherwise: “becoming a slave of his worldly attachments.”
-
-[^263-1]: In the verse translation, otherwise: “very dear to his guru Yadunandana Ācārya, a disciple of Vāsudeva Datta.”
 
 [^327-1]: Here the commentator takes *mahā-sampad-dārāt* (“from great wealth and wife”) as the main reading and *-dāvāt* (“from the fire”), printed in the verse, as a variant (so also in the *Anubhāṣya*). In the verse translation, otherwise: “from the great fire of luxurious worldly life.”
