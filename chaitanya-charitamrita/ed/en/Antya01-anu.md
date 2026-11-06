@@ -305,3 +305,125 @@ See Madhya 1.76.
 ## 95
 
 > Subheading: Śrī Rūpa and Haridāsa bow down to the Lord; the Lord sits down —
+
+## 96
+
+> Subheading: The Lord takes a leaf written by Rūpa and is pleased to see his handwriting —
+
+## 97
+
+> Subheading: The Lord praises Śrī Rūpa's handwriting —
+
+## 98
+
+> Subheading: Seeing a certain verse, the Lord is overwhelmed by *prema* —
+
+## 99
+
+> Subheading: A verse that reveals the taste of the sweetness of Kṛṣṇa's name (Paurṇamāsī's words to Nāndīmukhī; *Vidagdha-mādhava*, Act 1, verse 15) —
+
+**kṛṣṇa iti varṇa-dvayī** **kiyadbhiḥ** (with how great a measure) **amṛtaiḥ** (together with nectars) **janitā** (it was born — this) (I) **no jāne** (do not know; for it), **he nāndīmukhi**, **tuṇḍe** (on the lips) **tāṇḍavinī** (by the saying “a male dance is called *tāṇḍava*,” *tāṇḍava* means “dance”; performing it) **tuṇḍāvalī-labdhaye** (to obtain many mouths) **ratiṁ** (craving) **vitanute** (displays); **karṇa-kroḍa-kaḍambinī** (sprouting in the passage of the ears) **karṇārbudebhyaḥ** (to obtain ears numbering an *arbuda*) **spṛhām** (desire) **ghaṭayate**; **cetaḥ-prāṅgaṇa-saṅginī** (the mind itself is a courtyard — becoming a companion there) **sarvendriyāṇāṁ** (of all the senses) **kṛtiṁ** (the activity) **vijayate** (conquers: it takes hold of them and stops all their movement).
+
+## 100
+
+> Subheading: Hearing the verse, the Nāmācārya dances with joy —
+
+## 101
+
+> Subheading: The verse reveals the unequaled glory of Kṛṣṇa's name —
+
+## 102
+
+> Subheading: The Lord leaves for His midday bath —
+
+## 103
+
+> Subheading: On another day the Lord comes to Śrī Rūpa with Svarūpa, Rāmānanda, the Bhaṭṭācārya and others —
+
+## 104
+
+> Subheading: On the way the Lord Himself glorifies Śrī Rūpa —
+
+## 105
+
+> Subheading: The Lord praises Śrī Rūpa's verses “*priyaḥ so 'yaṁ*” and “*tuṇḍe tāṇḍavinī*” —
+
+## 106
+
+> Subheading: The Lord Himself describes Śrī Rūpa's qualities to Rāya and the Bhaṭṭācārya —
+
+## 107
+
+> Subheading: Bhagavān's love for His devotees —
+
+***Ātma-paryanta prasāda*** — He bestows mercy even to the point of giving His *ātmā*, that is, Himself.
+
+## 108
+
+> Subheading: How Bhagavān treats His devotee (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, Vibhāva-laharī, verse 138) —
+
+**ayaṁ nirmala-matiḥ** (He whose mind is pure, that is, free from innate attachment, aversion and the like) **puruṣottamaḥ** (Kṛṣṇa; another reading has *kamalekṣaṇaḥ*, “the lotus-eyed”) **śīlena** (by His good nature) **bhṛtyasya** (of His servant) **gurūn** (grave) **api aparādhān na paśyati**; **manāk** (the slightest) **api kṛtāṁ** (performed) **sevāṁ** **bahudhā** (manifold) **abhyupaiti** (accepts); **piśuneṣu** (toward the wicked or evil-minded) **api abhyasūyāṁ** (a fault-finding eye) **na āviṣkaroti** (does not show).
+
+## 109
+
+> Subheading: Śrī Rūpa and Haridāsa bow down to the Lord and His companions —
+
+## 110
+
+> Subheading: The Lord sits among the devotees; out of humility the two sit lower —
+
+## 112
+
+> Subheading: The Lord tells Śrī Rūpa to recite the verse “*priyaḥ so 'yaṁ*”; Śrī Rūpa is embarrassed and stays silent —
+
+## 113
+
+> Subheading: Svarūpa recites the verse; hearing it, everyone is amazed —
+
+## 114
+
+> Subheading: (A verse composed by Śrī Rūpa Gosvāmī; *Padyāvalī*, number 383)
+
+See Madhya 1.76.
+
+## 115
+
+> Subheading: Rāmānanda and the other devotees conclude that Śrī Rūpa grasped the Lord's mood only by His mercy —
+
+## 116
+
+***Pūrve*** — see Madhya, Chapter 8.
+
+## 117
+
+***Hṛdayānuvāda*** — expressing the feelings of the heart.
+
+## 118
+
+> Subheading: The Lord tells Śrī Rūpa to recite the verse “*tuṇḍe tāṇḍavinī*” —
+
+## 119
+
+> Subheading: At first Śrī Rūpa is shy to recite his own verse; then he recites it —
+
+## 120
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verse 15)
+
+See Antya 1.99.
+
+## 121
+
+> Subheading: Hearing it, Rāmānanda and the other devotees are filled with wonder and joy —
+
+## 122
+
+> Subheading: A verse that reveals the unequaled sweetness of Kṛṣṇa's name —
+
+## 123
+
+> Subheading: The conversation of Śrī Rāya and Rūpa: Rāya asks what book this is from —
+
+## 124
+
+> Subheading: Svarūpa tells about the two plays —

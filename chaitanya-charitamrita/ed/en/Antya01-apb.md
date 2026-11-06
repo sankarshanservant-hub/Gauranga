@@ -55,3 +55,11 @@ The cause of a fruit is inferred from the fruit itself.
 ## 92
 
 We eat the tips of the stems of the golden lotuses of the heavenly Ganges, and so we have gained a corresponding beauty of body: qualities appear in keeping with their original cause.
+
+## 99
+
+I do not know with how much nectar these two syllables, “Kṛṣ-ṇa,” were born. See: when they dance on the lips like an actress, they awaken a longing to obtain many mouths — that is, they increase one's attachment. When they enter the hollows of the ears and sprout there, they create a craving for millions of ears. When they rise in the courtyard of the mind as a companion, they conquer the activity of all the senses.
+
+## 108
+
+This Bhagavān, Puruṣottama, is pure in mind. By His good nature He does not notice even the grave offenses of His servant. He considers the slightest service great. Even toward a wicked person who reviles Him He shows no ill will.
