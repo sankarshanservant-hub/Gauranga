@@ -391,3 +391,37 @@ Haridāsa Ṭhākura is the universally honored guru of the world (*jagad-guru*)
 ## 107
 
 > Subheading: During *cāturmāsya* Sanātana meets the devotees from Gauḍa and Orissa —
+
+## 111
+
+> Subheading: Śrī Sanātana is loved by all —
+
+## 112
+
+> Subheading: By his own qualities he earns the tender love of Viṣṇu and the Vaiṣṇavas —
+
+## 113
+
+> Subheading: The Gauḍīyas return to Gauḍa, and Sanātana stays in Purī —
+
+## 114
+
+> Subheading: Together with the Lord, Sanātana sees the Dola-yātrā —
+
+## 115
+
+> Subheading: The account of how the Lord tested Sanātana in the month of Jyaiṣṭha —
+
+## 116
+
+> Subheading: The Lord takes His midday meal at Yameśvara-ṭoṭā —
+
+***Yameśvara-ṭoṭā***: in the garden quarter of Śiva Yameśvara; in the language of Utkala the word *ṭoṭā* means “garden.”
+
+## 117
+
+> Subheading: The Lord calls Sanātana; Sanātana's joy —
+
+## 118
+
+> Subheading: Forgetting himself in love for the Lord and losing all memory of his body, Sanātana goes to the Lord over the scorching, burning sand —
