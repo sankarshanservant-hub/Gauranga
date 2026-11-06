@@ -272,6 +272,66 @@ The thought “I am the object of your reverence and respect, that is, of your w
 
 > Subheading: Viṣṇu has accepted the Vaiṣṇava as His own “*āśraya*,” and so the Vaiṣṇava is a spiritual pastime (*cid-vilāsa*) not different from Him; one initiated by the guru becomes Acyuta's own (*acyutātmatā*) —
 
+## 193
+
+> Subheading: It is the *brāhmaṇa* — one who is initiated, that is, who has gained knowledge of his relation with Bhagavān — who, engaging in *viṣṇu-bhakti-yoga* (the *abhidheya*), receives the name “Vaiṣṇava.” Therefore brahminhood is contained in Vaiṣṇavism —
+
+At initiation (*dīkṣā*) the devotee gives up all his mundane perceptions and gains knowledge of his transcendental relation (*sambandha*) with the Lord. Having gained transcendental divine knowledge, he receives, in his transcendental nature, the right to serve Kṛṣṇa. As soon as the surrendered devotee leaves the shelter of *māyā*, which is other than Kṛṣṇa, Kṛṣṇa makes him His own. Then his mundane conception of himself as an “enjoyer” in the realm of material enjoyment vanishes, and in his very sense of self (*asmitā*) eternal service to Kṛṣṇa manifests. Then the devotee realizes that in his own true nature, full of eternity, knowledge and bliss, he is an eternal servant, and in a transcendental body he gains the right to serve Kṛṣṇacandra. The devotee serves in *bhāva* with a transcendental body suited to that time. But the *karmīs*, through the fault of mundane thinking, take even this transcendental service for material activity aimed at enjoyment, like their own. By that offense they are deprived of the mercy of the transcendental guru. On this, see Śrī Sanātana Prabhu's discussion in *Bṛhad-bhāgavatāmṛta* 1.3.45 and 2.3.139.
+
+## 194
+
+> Subheading: (*Śrīmad-Bhāgavatam* 11.29.34)
+
+See Madhya 22.101.[^194-1]
+
+## 195
+
+> Subheading: Mundane vision born of the senses, and the transcendental conduct of a Vaiṣṇava, wholly guided by Kṛṣṇa's will —
+
+## 196
+
+> Subheading: To see with mundane understanding any fault in the guru and the Vaiṣṇavas, who are beyond the *guṇas*, is an offense, and it leads to hell —
+
+## 197
+
+> Subheading: The guru and the Vaiṣṇavas, the associates of Bhagavān, are entities of Vaikuṇṭha, beyond the secondary properties of the senses —
+
+The body of an associate (*pārṣada*) is a body made wholly of service to Kṛṣṇa. To a sense of smell driven by a mind bent on mundane enjoyment, the body of Śrī Sanātana Gosvāmī — a *mahā-bhāgavata*, the crest jewel of the line of *paramahaṁsas* — may seem foul-smelling. But the Lord Himself says: “Sanātana is wholly devoted to Kṛṣṇa's service, and so on the very first day I smelled in this transcendental body of an associate the fragrance of *catuḥsama* — a mixture of sandalwood, camphor or *aguru*, musk and *kuṅkuma*.” **Catuḥsama** (in the *Garuḍa Purāṇa*): “Two parts of musk, four of sandalwood, three of *kuṅkuma* and one of camphor make *catuḥsama*.” Two parts of musk, four parts of sandalwood, three parts of *kuṅkuma*, or saffron, and one part of *śaśī*, that is, camphor, are mixed together to make the perfume called “*catuḥsama*.” See *Hari-bhakti-vilāsa* 6.115.
+
+## 198
+
+> Subheading: By the touch of the Lord's embrace Sanātana's body becomes fragrant —
+
+## 199
+
+> Subheading: The Lord consoles Sanātana; Sanātana's touch gives the Lord joy —
+
+## 200
+
+> Subheading: The Lord bids Sanātana spend this year near Him and go to Vṛndāvana the next year —
+
+## 201
+
+> Subheading: By the touch of the Lord's embrace Sanātana's body shines like gold —
+
+## 202
+
+> Subheading: Seeing this, Haridāsa is astonished and reveals the true inner meaning of the pastime: Sanātana's body, wholly guided by the Lord's will, merely displayed the suffering of discharging sores, as seen by sense-born vision —
+
+## 203
+
+**Pānī-lakṣye**: making the drinking water of Jhārikhaṇḍa the occasion.
+
+## 205
+
+> Subheading: The Lord leaves, and the two devotees discuss Bhagavān's mercy —
+
+## 206
+
+> Subheading: Every day Sanātana talks with Haridāsa about the Lord —
+
 ---
 
 [^185-1]: Sudarśana is the Lord's disc; the word also means “beautiful vision.”
+
+[^194-1]: In the edition's numbering; in our translation, Madhya 22.100.
