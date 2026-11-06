@@ -220,6 +220,130 @@ Whoever hears of and chants Śrī Kṛṣṇa's transcendental play — the *rā
 
 > Subheading: Miśra's humble words —
 
+## 63
+
+> Subheading: Śrī Rāmānanda speaks about Kṛṣṇa —
+
+## 64
+
+> Subheading: Understanding the disciple's level (*adhikāra*), Rāya himself asks the questions and himself answers them —
+
+## 65
+
+> Subheading: Both forget themselves in talk about Kṛṣṇa —
+
+## 66
+
+> Subheading: The day passes in talk about Kṛṣṇa —
+
+## 67
+
+> Subheading: Rāya bids Miśra farewell; Miśra's joy —
+
+## 68
+
+> Subheading: In the evening Miśra comes to the Lord —
+
+## 69
+
+> Subheading: The Lord asks Miśra whether he has heard about Kṛṣṇa —
+
+## 70
+
+> Subheading: Miśra says that his life's purpose is fulfilled —
+
+## 71
+
+> Subheading: It is forbidden to regard as mortal the guru who sings of Kṛṣṇa —
+
+## 72
+
+> Subheading: Through the lips of Śrī Rāmānanda, the guru, Śrī Kṛṣṇa Caitanya Mahāprabhu is the speaker —
+
+## 74
+
+> Subheading: Through the lips of Rāmānanda, a worthy vessel, the Lord preaches about Kṛṣṇa —
+
+## 75
+
+> Subheading: The talks about Kṛṣṇa that Rāya spoke and Miśra heard are beyond the reach even of Brahmā —
+
+## 76
+
+> Subheading: Miśra offers himself at the Lord's feet —
+
+## 77
+
+> Subheading: The Lord describes the nature of the pure Vaiṣṇava who follows Rāya's example —
+
+## 78
+
+> Subheading: The nature of a *sādhu*, a noble person, a great soul, that is, a Vaiṣṇava —
+
+## 79
+
+> Subheading: Miśra is the hearing disciple of Śrī Rāya, who sings of Kṛṣṇa and is the guru of all *brāhmaṇa* families, though not born in a family of *brāhmaṇas* by seed —
+
+## 80
+
+> Subheading: What Rāya's great qualities teach: outward conduct according to *varṇāśrama* is no sign of devotion to Kṛṣṇa or of being a guru —
+
+In the eyes of worldly people Śrī Rāmānanda Prabhu appears to be a householder on the path of *pravṛtti* (worldly engagement), not a *brahmacārī* with controlled senses, a *vānaprastha* or a *bhikṣu*. Worldly householders, ruled by their senses, take up the *dharma* of those attached to home (*gṛhavrata*). But a transcendental Vaiṣṇava living at home does not, like a non-Vaiṣṇava householder, become one whose senses are uncontrolled (*adānta-go*), and he never falls under the power of the six enemies (*ṣaḍ-varga*). In Śrī Rāmānanda Prabhu's pastimes in the householder *āśrama*, worldly people, with their enjoying vision, see him as a *viṣayī*, one absorbed in worldly objects. But his transcendental mind of pure goodness worships at every moment a single object, the transcendental pastimes of Śrī Kṛṣṇa. He is therefore a *kṛṣṇa-viṣayī*, one whose object is Kṛṣṇa, and not an impersonalist logician hostile to Bhagavān's spiritual pastimes. He is able to make *sannyāsīs* who have renounced worldly objects and stand beyond the *guṇas* (*nirguṇa*) give up petty material objects that hold no realization of Kṛṣṇa, and to engage them in constantly cultivating Kṛṣṇa as their only object.
+
+## 81
+
+> Subheading: Through Rāya the Lord shows the glory of a devotee of Kṛṣṇa, that is, of the guru —
+
+## 82
+
+**Bhaṅgī**: manner, skillful device, example.
+
+## 83
+
+> Subheading: The secret of how Gaura, the guru of the world, teaches people —
+
+**Gūḍha**: hidden within, unmanifest; **aiśvarya-svabhāva**: the power of the Lord (*aiśī-śakti*), the might of Īśvara.
+
+## 84
+
+> Subheading: Worldly *varṇāśrama*, learning and the like are no sign of one who can speak the true *dharma* —
+
+## 83–84
+
+**Paṇḍita**: a *brāhmaṇa* entitled to study the Vedas; **sannyāsī**: the highest of the four *āśramas* of a *brāhmaṇa*. According to worldly ideas, only *brāhmaṇas* by seed have the right to Sāvitrī initiation. Birth through Sāvitrī initiation gives the right to study the Vedas, and having gained *brāhmaṇa* birth through Sāvitrī and passed through three *āśramas*, one rises to the high position of a *sannyāsī*. The *brāhmaṇa* is the guru of the three *varṇas*, and the *sannyāsī* is the guru of the *brāhmaṇas* in the other three *āśramas*. Wishing to humble their worldly pride, born of intoxication with their position, the Lord had Śrī Rāmānanda Rāya Prabhu instruct a *brāhmaṇa* by seed named Pradyumna Miśra, although worldly vision knew Rāmānanda as a *śūdra*, the lowest *varṇa*, and as a householder, the lowest *āśrama*. And Mahāprabhu Himself, who had accepted *sannyāsa*, accepted the *dharma* that Śrī Rāmānanda preached.
+
+Śrī Gaurahari wished to reveal to people the essential conclusion of the scriptures about the *āśramas*. So He spread the force of His natural majesty (*aiśvarya*) against the mistaken notions of those who think themselves worldly scholars and renunciants. Ordinary ignorant people do not know the purport of the scriptures; but seeing the pure, righteous conduct and the qualities of the servants who had taken shelter of Gaurasundara, they could understand the true purport of the scriptures about *varṇa* and *āśrama*. A transcendental Vaiṣṇava wholly devoted to Hari, in whatever family he has appeared and in whatever *āśrama* he lives, can be the highest *ācārya* of the true *dharma* — a guru who eternally shows mercy to worldly people of the four *varṇas* and *āśramas*. The scriptures say this again and again. Bhagavān Gaurahari indisputably preached to people the hidden and true aim of the scriptures, and so revealed His natural majesty (*aiśvarya-svabhāva*).
+
+## 85
+
+> Subheading: Examples. (1) The Lord Himself, in the dress of a *sannyāsī*, and Miśra, a *brāhmaṇa* by seed, both become disciples eager to hear and accept as their guru Śrī Rāya — who wears a householder's dress, was not born in a family of *brāhmaṇas* by seed, and sings of Kṛṣṇa — and so they teach the people —
+
+## 86
+
+> Subheading: (2) To Ṭhākura Haridāsa, born in a family of *yavanas*, the Lord gives the title of guru of the world and *ācārya* of the holy name (Nāmācārya) —
+
+## 87
+
+> Subheading: (3) Śrī Sanātana, though he lived among *mlecchas*, is the *ācārya* of the conclusions of devotion to Kṛṣṇa, that is, of the knowledge of *sambandha*; (4) Śrī Rūpa is the *ācārya* of the *rasa* of Vraja's loving devotion, that is, of *abhidheya* —
+
+## 88
+
+> Subheading: By receiving a drop of the ocean of Śrī Caitanya's pastimes, the world is delivered —
+
+A single drop of the nectar ocean of Śrī Caitanya's pastimes can flood the world with *prema*. Śrī Dāsa Gosvāmī, and in a later age Śrī Ṭhākura Narottama, Śrīla Śyāmānanda Prabhu and others, are also manifestations of this magnanimity of Śrī Mahāprabhu.
+
+## 89
+
+> Subheading: In one who drinks with faith the nectar of Caitanya's pastimes, spiritual inclinations awaken, and he gains the knowledge of *sambandha*, *abhidheya* and *prayojana* —
+
+## 90
+
+> Subheading: Such are the Lord's pastimes in Nīlācala —
+
+## 91
+
+> Subheading: The story of a worldly poet from East Bengal who wore the guise of a *brāhmaṇa* —
+
 ---
 
 [^1-1]: The verse translation reads differently: “by the worms of selfishness and material desires.”
