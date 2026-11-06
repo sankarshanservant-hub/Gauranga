@@ -307,3 +307,87 @@ Through Śrī Sanātana Gosvāmī, Śrī Mahāprabhu, first, had him write the *
 ## 87
 
 > Subheading: Calling Haridāsa as witness, the Lord entrusts him with guarding Sanātana's body, which He has made His own —
+
+## 88
+
+***Sthāpya***: what is to be kept safe; ***khāya***: uses it himself; ***bilāya***: gives it away; ***anyāya***: destroying his body, which is offered to Me, that is, to Kṛṣṇa.
+
+## 89
+
+> Subheading: Haridāsa's lesson to the *jīvas*: a conditioned *jīva* should give up false ego only by following the transcendental desire in the heart of the Lord, Adhokṣaja — the desire to please Kṛṣṇa's senses —
+
+## 91
+
+> Subheading: Describing the good fortune of Sanātana in receiving the Lord's mercy, Haridāsa praises the Lord —
+
+## 92
+
+> Subheading: Embracing them both, the Lord departs —
+
+## 93
+
+> Subheading: Haridāsa describes Sanātana's good fortune —
+
+## 94
+
+> Subheading: Śrī Sanātana's body is a possession the Lord has made His own —
+
+## 95
+
+> Subheading: Through Sanātana's body the Lord fulfills in Mathurā-maṇḍala the four desires of His heart —
+
+See above, Antya 4.79–81.
+
+## 96
+
+> Subheading: Success, or perfection, is a servant that follows Kṛṣṇa's will —
+
+## 97
+
+> Subheading: Through Sanātana the Lord establishes above all pure *bhakti*, and, by compiling a Vaiṣṇava *smṛti*, the conduct of Vaiṣṇavas —
+
+## 98
+
+> Subheading: Haridāsa's natural humility, befitting a Vaiṣṇava, and his confession —
+
+***Bhārata-bhūmite***: see Ādi 9.41 and Śrīmad-Bhāgavatam 5.19.19–27.
+
+## 99
+
+> Subheading: Sanātana praises Haridāsa —
+
+## 100
+
+> Subheading: The *kīrtana*, that is, the preaching, of the pure name of Kṛṣṇa is the very own work of Bhagavān's *avatāra* in the form of an *ācārya*; through Haridāsa, the *ācārya* of *kīrtana*, the Lord preaches the Name —
+
+The Lord carries out His own work, the preaching of Kṛṣṇa's pure name, through Haridāsa.
+
+## 101
+
+> Subheading: The conduct and preaching of Ṭhākura Haridāsa —
+
+## 102
+
+> Subheading: Deficient, or incomplete, conduct and preaching —
+
+## 103
+
+> Subheading: Only a genuine *ācārya*, all of whose activity is the endeavor to please Kṛṣṇa's senses, is entitled to preach devotion to the pure Name; the exemplary life of Haridāsa Ṭhākura — a *paramahaṁsa*, a Vaiṣṇava *ācārya*, the guru of the followers of the four *varṇas* and *āśramas* and of the whole world —
+
+Haridāsa Ṭhākura is the universally honored guru of the world (*jagad-guru*). For both are united in him alone: he is an “*ācārya*,” since he himself, as a *brāhmaṇa* by initiation (*daikṣa-brāhmaṇa*), takes the pure Name; and he is a “preacher,” since by loud *kīrtana* he initiates all the world's inhabitants into the sacrifice of the Name (*nāma-yajña*). This is his “conduct and preaching” (*ācāra* and *pracāra*).
+
+## 104
+
+> Subheading: Haridāsa and Sanātana pass their time in talks about Kṛṣṇa —
+
+## 105
+
+> Subheading: At the time of the Ratha-yātrā the devotees from Gauḍa come to Purī and have *darśana* —
+
+## 106
+
+> Subheading: The Lord's dancing before the chariot astonishes Sanātana —
+
+## 107
+
+> Subheading: During *cāturmāsya* Sanātana meets the devotees from Gauḍa and Orissa —
