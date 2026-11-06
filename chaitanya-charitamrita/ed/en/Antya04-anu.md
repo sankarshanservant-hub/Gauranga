@@ -794,7 +794,7 @@ The body of an associate (*pārṣada*) is a body made wholly of service to Kṛ
 
 ## 216
 
-> Subheading: Śrī Rūpa, the crest jewel of the eternally perfect, divides his property and lives in Vraja with a carefree heart. This is not “the same” as the irresolution (*jana-śaithilya*) of a practitioner still burdened with *anarthas*, which springs from the mentality of a *gṛhavrata* —[^216-1]
+> Subheading: Śrī Rūpa, the crest jewel of the eternally perfect, divides his property and lives in Vraja with a carefree heart. This is not “the same” as the slackening of ties with people (*jana-śaithilya*) in a practitioner still burdened with *anarthas*, which springs from the mentality of a *gṛhavrata* —[^216-1]
 
 **Manaḥ-kathā**: all that he wished.
 
@@ -880,4 +880,4 @@ See Madhya 1.31–45 and the Anubhāṣya on those verses, and the *Bhakti-ratn�
 
 [^194-1]: In the edition's numbering; in our translation, Madhya 22.100.
 
-[^216-1]: Unclear passage: জনশৈথিল্য (*jana-śaithilya*, literally “slackening toward people”?); the translation is conjectural.
+[^216-1]: Unclear passage. The reading জনশৈথিল্য (*jana-śaithilya*, literally “slackening of ties with people”) is confirmed by the page image. Apparently it means an outward cooling toward relatives and people in a *sādhaka* not free from a householder's habits (*gṛhavrata*), unlike Rūpa's untroubled renunciation; the translation is conjectural.
