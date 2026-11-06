@@ -207,3 +207,71 @@ In the nondual Knowledge, in Vrajendra-nandana, imperishable Truth eternally abi
 > Subheading: Only a *gosvāmī* — a pure devotee who follows *yukta-vairāgya* — sees all things equally, because everywhere he sees their relation to Kṛṣṇa — (*Bhagavad-gītā* 6.8)
 
 **jñāna-vijñāna-tṛptātmā** (*jñāna* is knowledge from instruction, *vijñāna* is direct realization; one whose self, that is, whose mind, is satisfied by them and desires nothing more; therefore) **kūṭasthaḥ** (abiding at all times in one and the same nature, that is, unchanging; therefore) **vijitendriyaḥ** (one who has conquered the senses; therefore) **sama-loṣṭrāśma-kāñcanaḥ** (one to whom a lump of clay, a piece of stone and gold are equal, that is, who has no notion that clods of earth and the like are to be rejected or accepted) **yogī** **yuktaḥ** (established in yoga, *yogārūḍha*) **ucyate** (is called).
+
+## 179
+
+> Subheading: Only a *vidvat-sannyāsī*, who has attained *naiṣkarmya* and gone beyond mundane injunctions and prohibitions, or the topmost *mahā-bhāgavata*, sees Viṣṇu everywhere. Therefore his vision is beautiful (*sudarśana*): it has none of the partiality born of the mundane perception of difference —
+
+To see all things alike is the *dharma* of a *sannyāsī*, a *paṇḍita* or a Vaiṣṇava, for he is not absorbed in matter. He has no wish to inhale the fragrance of sandalwood to gratify his senses, nor any wish to avoid the stench of mud for his senses' pleasure. There are two impulses: to accept material things and to reject them. A Vaiṣṇava who follows *yukta-vairāgya* does not hasten to serve them, that is, to fall under their control. He is indifferent both to mundane enjoyment and to mundane renunciation, and so he is endowed with beautiful vision (*sudarśana*), the vision of spiritual pastimes (*cid-vilāsa*).
+
+## 180
+
+> Subheading: Regarding a transcendental Vaiṣṇava as material is forbidden: by it one may fall from one's own *dharma* —
+
+The sixth verse of Śrī Rūpa Prabhu's *Upadeśāmṛta* says: “Here, in this world, one should not see a devotee as material because of visible defects born of his nature or flaws of his body. For the waters of the Gaṅgā, though bubbles, foam and mud appear in them as properties of water, never lose their nature as liquid Brahman.”
+
+## 181
+
+> Subheading: The two devotees, free of pride, do not accept the Lord's praise —
+
+**Bāhya pratāraṇā** (outward deception): praise and honor shown to us as Vaiṣṇavas.
+
+## 182
+
+> Subheading: Regarding themselves as lowly, both praise the Lord —
+
+## 183
+
+> Subheading: The Lord reveals to both what He truly feels for them —
+
+## 184
+
+> Subheading: The devotee and Bhagavān: how they treat each other —
+
+The one who cares for another (*lālaka*), out of tenderness toward the one in his care (*lālya*), does not notice his ward's faults, even if he has them.
+
+## 185
+
+> Subheading: Bhagavān, the bearer of the Sudarśana, out of tender love for pure devotees does not see their faults —[^185-1]
+
+The thought “I am the object of your reverence and respect, that is, of your worship” does not enter My mind: I am full of tender love for My devotees.
+
+## 187
+
+> Subheading: The Lord regards Sanātana as equal to Himself: he is the devotee dearest to Him, whom He has made His own and accepted as His own —
+
+**Lālyāmedhya**: what is unclean and impure in the one cared for (*lālya*).
+
+## 188
+
+> Subheading: Haridāsa recounts various incidents that show the Lord's incomparable mercy and His tender love for His devotees —
+
+## 189
+
+> Subheading: The story of the *brāhmaṇa* Vāsudeva, stricken with leprosy —
+
+**Vāsudevera galat-kuṣṭha** (Vāsudeva's leprosy, which made his body decay): see Madhya 7.136–148. **Kīḍā-maya**: swarming with worms.
+
+## 191
+
+> Subheading: The Lord describes the transcendental nature of a Vaiṣṇava —
+
+Śrī Gaurasundara explained to those who had taken shelter at His feet that a Vaiṣṇava's body is never material, never meant for enjoyment. It is not like the material body of a *karmī*, a *jñānī* or one with other desires (*anyābhilāṣī*), a body full of enjoyment and mundane pleasure. A devotee's body is full of spiritual bliss (*cid-ānanda-maya*), that is, fit for Kṛṣṇa's service and imbued with a feeling that lies beyond material nature. In it eternity, knowledge and bliss (*sac-cid-ānanda*) shine forth.
+
+## 192
+
+> Subheading: Viṣṇu has accepted the Vaiṣṇava as His own “*āśraya*,” and so the Vaiṣṇava is a spiritual pastime (*cid-vilāsa*) not different from Him; one initiated by the guru becomes Acyuta's own (*acyutātmatā*) —
+
+---
+
+[^185-1]: Sudarśana is the Lord's disc; the word also means “beautiful vision.”
