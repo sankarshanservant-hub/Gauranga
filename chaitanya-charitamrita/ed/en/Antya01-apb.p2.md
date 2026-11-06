@@ -46,6 +46,34 @@ When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, �
 
 “With hearts stained by suffering we are going to the abode of Yama this very day, and still this Kṛṣṇa does not give up His affectionate laughter full of deceit (a cruel laughter so full of deceit)! O wise Rādhikā, how could so lofty a *prema* arise in You for this philanderer of the cowherd village, so full of deep guile?”
 
+## 155
+
+“O Kṛṣṇa, ocean! The river Rādhikā, whose nature is ever-new *rasa*, has left far behind the path that ran beside the tree — her lawful husband; she has swiftly broken the bridge of *dharma*, forcibly crossed the mountain of the elders, and reached You. How is it that You now show her estrangement with waves of words?”
+
+## 158
+
+“Sweet with the honey of mango buds, full of swarms of bees captured again and again by that fragrant flow, set swaying by the gentlest wafting of the breeze from the sandalwood mountain (Malaya), this Śrī Vṛndāvana increases My incomparable bliss.”
+
+## 159
+
+“Look: this Vṛndāvana is encircled by divine creepers; the tips of the creepers are adorned with flowers; the flowers are full of bees; and the bees are absorbed in songs that captivate the ear.”
+
+## 160
+
+“Friend, this Vṛndāvana delights our senses in every way: in one place the bees sing, in another it is cool with the gentle Malaya breeze, in another the creepers dance, in another flows the pure fragrance of *mallikā* flowers, and in another the pomegranates, overflowing with juice, let it run in streams.”
+
+## 161
+
+“Inlaid with sapphires (*indranīla*) for three fingers' length at each end, adorned with rubies (*aruṇa-maṇi*) for the same length, and in between made of pure gold and glittering with diamonds — this auspicious flute of Kṛṣṇa's play sports in Kṛṣṇa's hand.”
+
+## 162
+
+“Sakhī Muralī, you were born of a good bamboo, you dwell in the hand of Puruṣottama, and you are straight by birth. Why, then, have you taken initiation into such an especially grave (*viṣama*, ‘crooked’) mantra, one that bewilders the gopīs?”
+
+## 163
+
+“Sakhī Muralī, you are full of large holes, light, very hard, dry, and knotty. By what pious merit, then, does Kṛṣṇa unceasingly embrace you with His hand — an embrace dense with the bliss of kissing His lips?”
+
 ---
 
 [^140-1]: So in the edition (*prabhu*, “the Lord”); in verse 140 it is Rāmānanda Rāya who asks.

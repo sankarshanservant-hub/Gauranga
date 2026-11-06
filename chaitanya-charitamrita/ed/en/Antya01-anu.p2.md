@@ -84,6 +84,50 @@ See Madhya 2.52.
 
 **Vayam** (we), **antaḥ-kleśa-kalaṅkitāḥ** (stained, marked, by inner suffering: this suffering will remain even after death — this is the sense), **adya** (today) **yāmyāṁ purīṁ** (to the abode of Yama) **kila** (certainly) **yāmaḥ** (are going); **tathāpi** (and yet, though He is so merciless,) **ayaṁ** (this Śrī Kṛṣṇa) **vañcana-sañcaya-praṇayinaṁ** (that heaps up deceptions) **hāsaṁ** (His laughter) **na ujjhati** (does not give up)! **Hā medhāvini** (O wise) **rādhike**, **gabhīra-kapaṭaiḥ sampuṭite** (filled with deep guile) **asmin ābhīra-pallī-viṭe** (in this Kṛṣṇa, the gallant [*viṭa*] who seeks the love of the cowherd women, the beauties of Vraja) **tava garīyān** (great) **premā katham abhūt** (how did it arise)? (Let others love Him, whose minds are blinded by amorous desire, but for You, the wise one, this is not fitting — this is the sense.)
 
+## 155
+
+> Subheading: (*Vidagdha-mādhava*, Act 3, verse 9)
+
+**He kṛṣṇārṇava** (O Kṛṣṇa, ocean), **dhava-taroḥ** (of the tree — her husband) **antikaṁ** (the nearness) **dūre pathi** (far off on the way) **hitvā** (leaving), **dharma-setoḥ** (of the bridge — the *dharma* of the family, for that is the bridge) **bhaṅgodagrā** (the breaker, one whose foremost urge is to break it; able to break it), **guru-śikhariṇaṁ** (the mountain — the venerable elders) **raṁhasā** (swiftly) **laṅghayantī** (crossing over), **nava-rasā** (she in whom there is new, fresh *rasa* — the *rasas* from *śānta* to *śṛṅgāra*) **rādhikā-vāhinī** (the river Rādhikā) **tvāṁ** (You, the ocean Kṛṣṇa) **lebhe** (has reached); **tvaṁ ca** (and You) **vāg-vīcībhiḥ** (with mere waves of words) **kim iva** (why) **asyāḥ** (her — the river Rādhā's) **vimukhī-bhāvam** (estrangement) **tanoṣi** (spread)?
+
+## 158
+
+> Subheading: An example [of the description] of Vṛndāvana —
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verses 23–24)
+
+**He madhumaṅgala**, **mākanda-prakara-makarandasya** (of the nectar of the many mango buds) **madhure su-gandhau vinisyande** (in the sweet, fragrant flow) **muhuḥ** (again and again) **vandī-kṛta-madhupa-vṛndaṁ** (that by which swarms of bees are captured, bound), **candana-gireḥ** (of the Malaya mountain) **mandonnatibhiḥ** (gently blowing) **anilaiḥ** (by breezes) **kṛtāndolaṁ** (shaken, set swaying) **idam vṛndā-vipinam** (this forest of Vṛndāvana) **mama atulaṁ ānandaṁ** (My incomparable bliss) **tundilayati** (increases).
+
+## 159
+
+(**He śrīdāman**, this very) **vṛndāvanaṁ** **divya-latā-parītaṁ** (is encircled by divine creepers); **latāḥ ca** **puṣpa-sphuritāgra-bhājaḥ** (their tips glitter with flowers), **puṣpāṇi ca** **sphīta-madhu-vratāni** (in them are intoxicated [*sphīta*] bees), **madhu-vratāḥ ca** **śruti-hāri-gītāḥ** (their song is an elixir for the ears).
+
+## 160
+
+> Subheading: (*Vidagdha-mādhava*, Act 1, verse 31)
+
+**He madhumaṅgala**, **idam vṛndāvanam** **hṛṣīkāṇāṁ** (of the eyes, ears, nose, tongue, skin, and the other senses) **vṛndaṁ** (all together) **pramadayati** (delights) — thus: (to delight the ears) **kvacit bhṛṅgī-gītaṁ** (in one place the song of the bees); (to please the sense of touch) **kvacit anila-bhaṅgī-śiśiratā** (*anila*, the wind, *bhaṅgī*, its gentleness, and from that *śiśiratā*, coolness — that is, the coolness of a gentle breeze); (to delight the eyes) **kvacit vallī-lāsyaṁ** (the dance of the creepers); (to delight the sense of smell) **kvacit amala-mallī-parimalaḥ** (*parimalaḥ*, the fragrance, of *mallī*, the *mallikā*, *amalaḥ*, pure, unmixed); (to please the tongue) **kvacit dhārā-śālī** (arranged row upon row) **karaka-phala-pālī-rasa-bharaḥ** (*karaka-phala-pālī*, rows of pomegranates, *rasa-bharaḥ*, the abundance of their juice).
+
+## 161
+
+> Subheading: An example [of the description] of the *muralī*, the flute —
+
+> Subheading: (*Vidagdha-mādhava*, Act 3, verse 1)
+
+**Ubhayataḥ** (at both ends — at the head and at the tail of the flute) **aṅguṣṭha-trayam** (over a span three thumbs wide) **asita-ratnaiḥ** (with sapphires, *indranīlas*) **parāmṛṣṭā** (covered, inlaid), **aruṇaiḥ maṇibhiḥ** (with rubies) **saṅkīrṇau** (inlaid) **tat-parisarau** (the two adjoining spans, also three thumbs each, at the head and at the tail) **vahantī** (bearing), **tayoḥ** (of these two spans) **madhye** (in the middle) **hīrojjvala-vimala-jāmbūnada-mayī** (made of pure gold [*jāmbūnada*] brightly glittering with diamonds), **iyaṁ kalyāṇī** (full of auspiciousness) **keli-muralī** (Kṛṣṇa's flute of play) **hareḥ** (Kṛṣṇa's) **kare** (in the hand) **viharati** (sports).
+
+## 162
+
+> Subheading: (*Vidagdha-mādhava*, Act 5, verse 17)
+
+**He muralike**, **sad-vaṁśataḥ** (from the finest bamboo, that is, from a good family) **tava janiḥ** (you were born); **puruṣottamasya** (Kṛṣṇa's) **pāṇau** (in the hand) **tava sthitiḥ** (you dwell); **jātyā** (by birth) **saralā** (not crooked, straight) **asi** (you are); (**he sakhi**,) **kasmāt guroḥ** (from which guru, by whose grace) **tvayā** (by you) **viṣamā** (not straight, crooked) **gopāṅganā-gaṇa-vimohana-mantra-dīkṣā** (initiation into the mantra that bewilders the gopīs) **gṛhītā** (was received — you have been initiated into a mantra able to steal the gopīs' hearts)?
+
+## 163
+
+> Subheading: (*Vidagdha-mādhava*, Act 4, verse 7)
+
+**He sakhi murali**, **tvaṁ** **viśāla-cchidra-jālena** (with a mass of great flaws) **pūrṇā** (are filled), **laghuḥ** (light, without dignity), **ati-kaṭhinā** (cruel by nature), **granthilā** (you undo the knots of the sashes [*nīvi*]), **nīrasā** (dry) **ca asi**; **tad api** (and yet) **kena puṇyodayena** (by what previous pious merit) **śaśvat** (unceasingly) **cumbanānanda-sāndraṁ** (dense with the happiness born of a kiss) **hari-kara-parirambhaṁ** (the embrace of Kṛṣṇa's hand) **bhajasi** (do you obtain)?
+
 ---
 
 [^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
