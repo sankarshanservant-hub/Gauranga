@@ -388,7 +388,7 @@ One *mahā-yuga* is 4,320,000 solar years; a thousand such *mahā-yugas* make on
 
 ## 264
 
-> Subheading: Even Māyā-devī longs to taste love of Kṛṣṇa; love of Kṛṣṇa is attained only by the mercy of the pure name and of one who chants the pure name —
+> Subheading: Even Māyā-devī longs to taste love of Kṛṣṇa; love of Kṛṣṇa is attained only by the mercy of the pure Name and of one who chants the pure Name —
 
 ## 265
 
@@ -408,7 +408,7 @@ One *mahā-yuga* is 4,320,000 solar years; a thousand such *mahā-yugas* make on
 
 ## 269
 
-> Subheading: Pure devotees rejoice to hear the glory of the Ṭhākura, the *ācārya* of the holy name —
+> Subheading: Pure devotees rejoice to hear the glory of the Ṭhākura, the *ācārya* of the holy Name —
 
 *Thus ends the third chapter of the “Anubhāṣya.”*
 
