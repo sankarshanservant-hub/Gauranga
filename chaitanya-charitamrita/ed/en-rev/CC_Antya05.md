@@ -96,7 +96,7 @@ for talks about Kṛṣṇa  taste  your  very  fortunate
 yāra kṛṣṇa-kathāya ruci, sei bhāgyavān  
 whose  for talks about Kṛṣṇa  taste  he  fortunate
 
-(9) You have a taste for talks about Kṛṣṇa — you are very fortunate. One who has a taste for talks about Kṛṣṇa is truly fortunate.”
+(9) You have a taste for talks about Kṛṣṇa — you are greatly fortunate! Whoever has such a taste is truly fortunate.”
 
 ধর্ম্মঃ স্বনুষ্ঠিতঃ পুংসাং বিষ্বক্সেনকথাসু যঃ ৷  
 নোৎপাদয়েদ্যদি রতিং শ্রম এব হি কেবলম্ ॥ ১০ ॥
@@ -130,7 +130,7 @@ Rāya’s  sight  not  getting  the servant  he asked
 rāyera vṛttānta sevaka kahite lāgila  
 Rāya’s  doings  the servant  to tell  began
 
-(12) Not finding Rāya there, he asked the servant, who told him what Rāya was doing:
+(12) Not seeing Rāya, he asked the servant, who told him what Rāya was doing:
 
 দুই দেব-কন্যা হয় পরম-সুন্দরী ৷  
 নৃত্য-গীতে সুনিপুণা, বয়সে কিশোরী ॥ ১৩ ॥
@@ -210,7 +210,7 @@ the sense of the one to be served  attributing  he does  service
 svābhāvika dāsī-bhāva karena āropaṇa  
 natural  maidservant’s mood  he does  taking upon himself
 
-(20) Seeing in them the ones to be served (*sevya-buddhi*), he served them, taking upon himself his own natural mood of a maidservant.[^6]
+(20) Seeing in them the ones to be served (*sevya-buddhi*), he served them, assuming, as was natural to him, the mood of a maidservant.[^6]
 
 মহাপ্রভুর ভক্তগণের দুর্গম মহিমা ৷  
 তাহে রামানন্দের ভাবভক্তি-প্রেম-সীমা ॥ ২১ ॥
@@ -300,7 +300,7 @@ long ago  you came  me  anyone  not  told
 tomāra caraṇe mora aparādha haila  
 at your  feet  my  offense  has been
 
-(29) “You came long ago, and no one told me. I have committed an offence at your feet.
+(29) “You have been here a long while, and no one told me. I have committed an offence at your feet.
 
 তোমার আগমনে মোর পবিত্র হৈল ঘর ৷  
 আজ্ঞা কর, ক্যা করোঁ তোমার কিঙ্কর ॥ ৩০ ॥
@@ -464,7 +464,7 @@ the heart’s disease, lust  his  at once  is  destroyed
 tina-guṇa-kṣobha nahe, ‘mahā-dhīra’  haya  
 of the three guṇas  agitation  is not  very steady  he becomes
 
-(45–46) When a person tells of or hears with faith about Kṛṣṇa’s rāsa dance and other pastimes with the young women of Vraja, his lust, the disease of the heart, is destroyed at once. The three guṇas no longer agitate him, and he becomes perfectly steady (*mahā-dhīra*).[^13]
+(45–46) When a person, with faith, hears and tells of Kṛṣṇa’s rāsa dance and His other pastimes with the young women of Vraja, his lust, the disease of the heart, is destroyed at once. The three guṇas no longer agitate him, and he becomes perfectly steady (*mahā-dhīra*).[^13]
 
 উজ্জ্বল মধুর-রস প্রেমভক্তি পায় ৷  
 আনন্দে কৃষ্ণমাধুর্য্যে বিহরে সদায় ॥ ৪৭ ॥
@@ -640,7 +640,7 @@ then  Rāmānanda  in order  to speak  began
 kṛṣṇa-kathā-rasāmṛta-sindhu uthalilā  
 the ocean of the nectar of rasa in talks about Kṛṣṇa  surged
 
-(63) Then Rāmānanda began to speak in due order, and the nectar-ocean of rasa in his talk of Kṛṣṇa surged up.
+(63) Then Rāmānanda began to speak of Kṛṣṇa in due order, and in his words the nectar-ocean of rasa surged up.
 
 আপনে প্রশ্ন করি’ পাছে করেন সিদ্ধান্ত ৷  
 তৃতীয় প্রহর হৈল, নহে কথা-অন্ত ॥ ৬৪ ॥
@@ -960,7 +960,7 @@ song  verse  book  poem  —  whatever  having made  one brings
 prathame śunāya sei svarūpera sthāne  
 first  has it heard  that  in Svarūpa’s  presence
 
-(95) Whatever song, verse, book or poem anyone composed and brought, he would first recite it before Svarūpa.
+(95) Whatever song, verse, book or poem anyone composed and brought would first be recited before Svarūpa.
 
 স্বরূপ-ঠাঞি উত্তরে যদি, লয় তাঁর মন ৷  
 তবে মহাপ্রভু-ঠাঞি করায় শ্রবণ ॥ ৯৬ ॥
@@ -1107,7 +1107,7 @@ two or three days  the Ācārya  insistence  made
 tām̐ra āgrahe svarūpera śunite icchā haila  
 by his  insistence  in Svarūpa  to hear  the desire  arose
 
-(110) For two or three days the Ācārya pressed him, and at his insistence Svarūpa became willing to hear it.
+(110) For two or three days the Ācārya pressed him, and at his insistence Svarūpa agreed to hear it.
 
 সবা লঞা স্বরূপ-গোসাঞি শুনিতে বসিলা ৷  
 তবে সেই কবি নান্দী-শ্লোক পড়িলা ॥ ১১১ ॥
@@ -1522,7 +1522,7 @@ with Him  selfhood  one form  being
 kṛṣṇa eka-tattva-rūpa — dui-rūpa hañā  
 Kṛṣṇa  the one truth  —  two forms  having become
 
-(149) Being one in selfhood with Him, Kṛṣṇa, the one truth, has appeared in two forms.[^45]
+(149) Caitanya is one with Him in self and form: Kṛṣṇa, the one truth, has appeared in two forms.[^45]
 
 সংসারতারণ-হেতু যেই ইচ্ছা-শক্তি ৷  
 তাহার মিলন করি’ একতা ঐছে প্রাপ্তি ॥ ১৫০ ॥
