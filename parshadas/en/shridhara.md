@@ -13,8 +13,8 @@ By this nickname the original sources too remember him. Vrindavana dasa Thakura 
 Madhya 23.93) and “the penniless servant of Krishna” (Antya 8.24); the “Gaura-ganoddesha-dipika” calls him “the
 brahmana Shridhara Pandita, known as Kholavecha” (133); Murari Gupta, “the blissful devotee Shridhara, called
 Kholavecha” (4.17.8); Lochana Dasa, “Shridhara Pandita, whose home is in Navadvipa” (CM, Madhya-khanda, pt. 1, v. 57);
-and Narahari, in a song of prayer, “Shridhara Thakura, the seller of banana leaves.” Hence his two names in the
-tradition: Shridhara Pandita and Shridhara Thakura. <!-- F1 F57 F61 -->
+and Narahari, in a song of prayer, “Shridhara Thakura, the seller of banana leaves.” So in the tradition he is called
+now Shridhara Pandita, now Shridhara Thakura. <!-- F1 F57 F61 -->
 
 Krishnadasa Kaviraja, enumerating the branches of the tree of Sri Chaitanya, speaks of him thus:
 
@@ -78,11 +78,11 @@ Shridhara answered that he did not go hungry and had some clothing or other on h
 is all knotted, and the thatch has blown off your roof; yet those who worship Chandi or Vishahari lack neither food nor
 clothes in their homes (Adi 12.185–187).[^2] Srila Bhaktisiddhanta explains that the Lord only outwardly took the side
 of the shaktas, the worshippers of the goddess: by question and answer He was revealing the true philosophy of the
-Vaishnavas. And Shridhara replied: <!-- F15 -->
+Vaishnavas. And Shridhara said to this: <!-- F15 -->
 
-“Shridhara answered, ‘O brahmana, what You say is true. But time passes alike for all. In a king’s house there are many
-jewels and he eats sumptuous food, while birds live in the trees. Yet time passes alike for all: by the will of the
-Lord each receives the fruits of his karma.’” (CB, Adi 12.188–190)
+“O brahmana, what You say is true. But time passes alike for all. In a king’s house there are many jewels and he eats
+sumptuous food, while birds live in the trees. Yet time passes alike for all: by the will of the Lord each receives
+the fruits of his karma.” (CB, Adi 12.188–190)
 
 A bird that feeds on whatever it finds passes its day no worse than a king in his palace: in the measure of happiness
 there is no difference between them. So the biographies explain these words, and in them is the calm of a man who has
@@ -113,8 +113,8 @@ had its way:
 giving Him whatever He asks.” (CB, Adi 12.200)
 
 So in this game “fear” and “grievance” turn into happiness: whatever the Lord takes from him, Shridhara counts as his
-good fortune. And the fear of a “beating” is itself part of the play, in which Nimai deliberately acts the bully — not
-dread of worldly force. <!-- F18 -->
+good fortune. And the “fear of a beating” here is not dread of worldly force but itself part of the play, in which
+Nimai deliberately acts the bully. <!-- F18 -->
 
 “I shall gladly give You bananas, banana flowers, cups of banana leaf and banana stems. Only one thing I ask of You —
 leave me in peace!” said Shridhara. And the Lord replied: “Very well, I shall not quarrel with you. But see to it that
@@ -175,7 +175,8 @@ Once, while bargaining, the Lord said to him:
 
 “I am the father of the Ganga whom you worship every day. This is the very truth.” (CB, Madhya 9.179)
 
-“Every day you buy gifts and offer them to her — so give Me a better price too,” He said (Madhya 9.178). Shridhara
+“You spend your takings on the worship of the Ganga — what harm if you give Me a better price too?” He said
+(Madhya 9.178). Shridhara
 would cover his ears with his palms and cry, “Vishnu! Vishnu!” — and, seeing such unheard-of impudence, give way
 (Madhya 9.180). Here too the Lord was telling the truth about Himself: the Ganga flows from His feet; but Shridhara, as
 before, by His will heard in these words only blasphemy. <!-- F25 Q4 -->
@@ -242,8 +243,8 @@ the Vedas cannot grasp:
 “Unrecognized by anyone, You walked all over the town. Who can understand You unless You Yourself reveal Yourself?”
 (CB, Madhya 9.203)
 
-He remembered how the Lord had told him that the waters of the Ganga spring from His feet, while Shridhara’s sinful
-heart had not recognized Him (Madhya 9.208–209). And above all he sang of bhakti, which the Lord had once kept hidden
+He remembered how the Lord had told him that the waters of the Ganga spring from His feet, while his sinful heart — so humbly
+Shridhara speaks of himself — had not recognized Him (Madhya 9.208–209). And above all he sang of bhakti, which the Lord had once kept hidden
 and now revealed in Navadvipa:
 
 “Only by the power of bhakti did Bhishma overcome You on the battlefield, and only by the power of bhakti could Yashoda
@@ -324,7 +325,7 @@ saw Shridhara’s tumbledown hut from afar and laughed softly with inner joy (12
 an iron water pot, patched many times over. Even a thief would not have wanted to steal it.” (CB, Madhya 23.437–438)
 
 The pot leaked, little water was left in it, and it was kept not for drinking but for outer uses (“Bhakti-ratnakara”
-12.3137–3138; CB, Madhya 23.457). But, dancing in the courtyard, the Lord saw it — and: <!-- F43 -->
+12.3137–3138; CB, Madhya 23.457). But the Lord, dancing in the courtyard, saw it. <!-- F43 -->
 
 “To show His love for His devotees, Sri Shachinandana suddenly lifted the water pot. Then, in ecstatic bliss,
 Mahaprabhu drank the water from that pot. Who could have stopped Him? Shridhara cried out, ‘I am ruined! I am ruined!
@@ -333,7 +334,7 @@ You have come to my house to destroy me.’” (CB, Madhya 23.440–442)
 Shridhara reproached himself for his poverty: “I could not receive Sri Gaurasundara worthily — and so He drank by force
 the water from a leaking pot; He is killing me, wounding my heart.” So Srila Bhaktisiddhanta explains his cry. It is the
 humility of a devotee who feels he has nothing for the Lord — and the love of the Lord, who takes unasked what the
-devotee would never dare to offer Him. To the worldly eye an old pot for washing seems impure, but in a Vaishnava
+devotee would never dare to offer Him. To the worldly eye an old pot for outer uses seems impure, but in a Vaishnava
 nothing is impure. <!-- F44 -->
 
 “Having said these words, pious Shridhara lost consciousness. Then the Lord said, ‘Today My body has been purified.
