@@ -350,7 +350,7 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 > Subheading: The *rūḍhi* meaning of the name “Kṛṣṇa” — (a verse from Śrī Lakṣmīdhara's *Nāma-kaumudī*, quoted in the *Kṛṣṇa-sandarbha*)
 
-**tamāla-śyāmala-tviṣi** (whose dark luster is like that of the *tamāla* tree) **śrī-yaśodā-stanan-dhaye** (in the infant who sucks at Śrī Yaśodā's breast) **kṛṣṇa-nāmnaḥ** (of the name “Kṛṣṇa”) **rūḍhiḥ** (the principal, accepted meaning) **iti** **sarva-śāstra-vinirṇayaḥ** (the verdict of all scriptures, that is, the conclusion of all scriptures).
+**tamāla-śyāmala-tviṣi** (in Him whose luster is dark like the *tamāla* tree) **śrī-yaśodā-stanan-dhaye** (in the infant who sucks at Śrī Yaśodā's breast) **kṛṣṇa-nāmnaḥ** (of the name “Kṛṣṇa”) **rūḍhiḥ** (the principal, accepted meaning) **iti** **sarva-śāstra-vinirṇayaḥ** (the verdict of all scriptures, that is, the conclusion of all scriptures).
 
 *Rūḍhi* is the power of a word to convey the meaning of the word as a whole, without depending on the meanings of root and suffix.
 
