@@ -912,6 +912,846 @@ toward the Lord  devotion  somewhat  became  removed
 
 (85) Dejected, the Bhaṭṭa went home, and his devotion to the Lord partly ebbed away.[^31]
 
+তবে ভট্ট গেলা পণ্ডিত-গোসাঞির ঠাঞি ৷  
+নানা মতে প্রীতি করি’ করে আসা-যাই ॥ ৮৬ ॥
+
+tabe bhaṭṭa gelā paṇḍita-gosāñira ṭhāñi  
+then  the Bhaṭṭa  went  to Paṇḍita Gosāñi’s  place  
+nānā mate prīti kari’ kare āsā-yāi  
+in various  ways  friendship  showing  makes  coming and going
+
+(86) Then the Bhaṭṭa went to Paṇḍita Gosāñi. Showing friendship in many ways, he kept coming and going.[^32]
+
+প্রভুর উপেক্ষায় সব নীলাচলের জন ৷  
+ভট্টের ব্যাখ্যান কিছু না করে শ্রবণ ॥ ৮৭ ॥
+
+prabhura upekṣāya saba nīlācalera jana  
+because of the Lord’s  disregard  all  of Nīlācala  the people  
+bhaṭṭera vyākhyāna kichu nā kare śravaṇa  
+the Bhaṭṭa’s  explanations  any  not  do  hear
+
+(87) Because the Lord disregarded him, none of the people of Nīlācala would listen to the Bhaṭṭa’s explanations.
+
+লজ্জিত হৈল ভট্ট, হৈল অপমানে ৷  
+দুঃখিত হঞা গেল পণ্ডিতের স্থানে ॥ ৮৮ ॥
+
+lajjita haila bhaṭṭa, haila apamāne  
+ashamed  became  the Bhaṭṭa,  was  in dishonor  
+duḥkhita hañā gela paṇḍitera sthāne  
+grieved  being  he went  to the Paṇḍita’s  place
+
+(88) The Bhaṭṭa felt ashamed and dishonoured, and in his grief he went to the Paṇḍita.
+
+দৈন্য করি’ কহে, — নিলু তোমার শরণ ৷  
+তুমি কৃপা করি’ রাখ আমার জীবন ॥ ৮৯ ॥
+
+dainya kari’ kahe, — nilu tomāra śaraṇa  
+humility  showing  he says  I have taken  your  shelter  
+tumi kṛpā kari’ rākha āmāra jīvana  
+you  mercy  showing  save  my  life
+
+(89) Humbly he said, “I have taken shelter of you. Be merciful and save my life.
+
+কৃষ্ণনাম-ব্যাখ্যা যদি করহ শ্রবণ ৷  
+তবে মোর লজ্জা-পঙ্ক হয় প্রক্ষালন ॥ ৯০ ॥
+
+kṛṣṇanāma-vyākhyā yadi karaha śravaṇa  
+of the name of Kṛṣṇa  the explanation  if  you do  hear  
+tabe mora lajjā-paṅka haya prakṣālana  
+then  my  of shame  the mire  is  washed away
+
+(90) If you will hear my explanation of Kṛṣṇa’s name, the mire of my shame will be washed away.”
+
+সঙ্কটে পড়িলা পণ্ডিত, করয়ে সংশয় ৷  
+কি করিবেন, — ইহা করিতে নারেন নিশ্চয় ॥ ৯১ ॥
+
+saṅkaṭe paḍilā paṇḍita, karaye saṁśaya  
+into a dilemma  fell  the Paṇḍita,  feels  doubt  
+ki karibena, — ihā karite nārena niścaya  
+what  he should do  this  to  cannot  decide
+
+(91) The Paṇḍita was caught in a dilemma and full of doubt: he could not decide what he should do.[^33]
+
+যদ্যপি পণ্ডিত আর না কৈলা অঙ্গীকার ৷  
+ভট্ট যাই’ তবু পড়ে করি’ বলাৎকার ॥ ৯২ ॥
+
+yadyapi paṇḍita āra nā kailā aṅgīkāra  
+although  the Paṇḍita  further  not  gave  consent  
+bhaṭṭa yāi’ tabu paḍe kari’ balātkāra  
+the Bhaṭṭa  going  still  reads  making  force
+
+(92) Although the Paṇḍita did not consent, the Bhaṭṭa came and read to him anyway, forcing it on him.
+
+আভিজাত্যে পণ্ডিত করিতে নারে নিষেধন ৷  
+এ সঙ্কটে, কৃষ্ণ, রাখ, লইলাঙ শরণ ॥ ৯৩ ॥
+
+ābhijātye paṇḍita karite nāre niṣedhana  
+because of nobility  the Paṇḍita  to make  cannot  a refusal  
+e saṅkaṭe, kṛṣṇa, rākha, lailāṅa śaraṇa  
+in this  dilemma,  Kṛṣṇa,  protect me,  I have taken  shelter
+
+(93) The Bhaṭṭa was a man of noble standing (*ābhijātya*), and so the Paṇḍita could not stop him. “Kṛṣṇa, protect me in this dilemma,” he prayed. “I have taken shelter of You.[^34]
+
+অন্তর্য্যামী প্রভু জানিবেন মোর মন ৷  
+তাঁরে ভয় নাহি কিছু, ‘বিষম’ তাঁর গণ ॥ ৯৪ ॥
+
+antaryāmī prabhu jānibena mora mana  
+the Indweller  the Lord  will know  my  mind  
+tām̐re bhaya nāhi kichu, ‘viṣama’ tām̐ra gaṇa  
+of Him  fear  not  any,  ‘severe’  His  associates
+
+(94) The Lord dwells in the heart; He will know my mind, and I have no fear of Him. But His associates are ‘severe.’”[^35]
+
+যদ্যপি বিচারে পণ্ডিতের নাহি দোষ ৷  
+তথাপি প্রভুর গণ করে প্রণয়-রোষ ॥ ৯৫ ॥
+
+yadyapi vicāre paṇḍitera nāhi doṣa  
+although  on consideration  of the Paṇḍita  is not  fault  
+tathāpi prabhura gaṇa kare praṇaya-roṣa  
+still  the Lord’s  associates  show  loving  anger
+
+(95) Although, rightly judged, the Paṇḍita was not at fault, the Lord’s associates still showed him an anger born of love (*praṇaya-roṣa*).
+
+প্রত্যহ বল্লভ-ভট্ট আইসে প্রভু-স্থানে ৷  
+‘উদ্গ্রাহাদি’ প্রায় করে আচার্য্যাদি-সনে ॥ ৯৬ ॥
+
+pratyaha vallabha-bhaṭṭa āise prabhu-sthāne  
+every day  Vallabha  Bhaṭṭa  comes  to the Lord’s  place  
+‘udgrāhādi’ prāya kare ācāryādi-sane  
+‘disputes and the like’  as it were  makes  with the Ācārya and others
+
+(96) Every day Vallabha Bhaṭṭa came to the Lord and picked arguments with the Ācārya and others.
+
+যেই কিছু করে ভট্ট ‘সিদ্ধান্ত’ স্থাপন ৷  
+শুনিতেই আচার্য্য তাহা করেন খণ্ডন ॥ ৯৭ ॥
+
+yei kichu kare bhaṭṭa ‘siddhānta’ sthāpana  
+whatever  any  makes  the Bhaṭṭa  ‘conclusion’  establishing  
+śunitei ācārya tāhā karena khaṇḍana  
+on hearing it  the Ācārya  that  does  refute
+
+(97) Whatever ‘conclusion’ (*siddhānta*) the Bhaṭṭa tried to establish, the Ācārya refuted the moment he heard it.
+
+আচার্য্যাদি-আগে ভট্ট যবে যবে যায় ৷  
+রাজহংস-মধ্যে যেন রহে বকপ্রায় ॥ ৯৮ ॥
+
+ācāryādi-āge bhaṭṭa yabe yabe yāya  
+of the Ācārya and others  before  the Bhaṭṭa  whenever  whenever  goes  
+rājahaṁsa-madhye yena rahe baka-prāya  
+royal swans  among  as  remains  a heron  like
+
+(98) Whenever the Bhaṭṭa came before the Ācārya and the others, he was like a heron among royal swans.
+
+একদিন ভট্ট পুছিল আচার্য্যেরে ৷  
+জীব-‘প্রকৃতি’ ‘পতি’ করি’ মানয়ে কৃষ্ণেরে ॥ ৯৯ ॥
+
+ekadina bhaṭṭa puchila ācāryere  
+one day  the Bhaṭṭa  asked  the Ācārya  
+jīva-‘prakṛti’ ‘pati’ kari’ mānaye kṛṣṇere  
+the jīva  ‘prakṛti’  ‘husband’  as  accepts  Kṛṣṇa
+
+(99) One day the Bhaṭṭa asked the Ācārya: “The jīva is *prakṛti*, the female, and accepts Kṛṣṇa as her husband (*pati*).
+
+পতিব্রতা হঞা পতির নাম নাহি লয় ৷  
+তোমরা কৃষ্ণনাম লহ, — কোন্ ধর্ম্ম হয় ? ॥ ১০০ ॥
+
+pati-vratā hañā patira nāma nāhi laya  
+devoted to her husband  being  of the husband  the name  not  takes  
+tomarā kṛṣṇa-nāma laha, — kon dharma haya?  
+you  of Kṛṣṇa  the name  take  what  religion  is
+
+(100) A wife devoted to her husband does not utter her husband’s name. Yet you utter Kṛṣṇa’s name — what sort of dharma is that?”
+
+আচার্য্য কহে, — আগে তোমার ‘ধর্ম্ম’ মূর্ত্তিমান্ ৷  
+ইঁহারে পুছহ, ইঁহ করিবেন সমাধান ॥ ১০১ ॥
+
+ācārya kahe, — āge tomāra ‘dharma’ mūrtimān  
+the Ācārya  says  before  you  ‘dharma’  embodied  
+im̐hāre puchaha, im̐ha karibena samādhāna  
+Him  ask,  He  will give  the resolution
+
+(101) The Ācārya said, “Before you stands dharma embodied. Ask Him; He will resolve the question.”
+
+প্রভু কহেন, — তুমি না জানহ ‘ধর্ম্মাধর্ম্ম’ ৷  
+স্বামী-আজ্ঞা পালে, — এই পতিব্রতা-ধর্ম্ম ॥ ১০২ ॥
+
+prabhu kahena, — tumi nā jānaha dharmādharma  
+the Lord  says  you  not  know  dharma and adharma  
+svāmī-ājñā pāle, — ei pati-vratā-dharma  
+of the husband  the order  she follows  this  of the faithful wife  the dharma
+
+(102) The Lord said, “You do not know what is dharma and what is adharma. A faithful wife’s dharma is to follow her husband’s order.[^36]
+
+পতির আজ্ঞা, — নিরন্তর তাঁর নাম লইতে ৷  
+পতির আজ্ঞা পতিব্রতা না পারে লঙ্ঘিতে ॥ ১০৩ ॥
+
+patira ājñā, — nirantara tām̐ra nāma laite  
+the husband’s  order  ceaselessly  his  name  to take  
+patira ājñā pati-vratā nā pāre laṅghite  
+the husband’s  order  the faithful wife  not  can  transgress
+
+(103) The husband’s order is to utter his name ceaselessly, and a faithful wife cannot transgress her husband’s order.
+
+অতএব নাম লয়, নামের ‘ফল’ পায় ৷  
+নামের ফলে কৃষ্ণপদে ‘প্রেম’ উপজায় ॥ ১০৪ ॥
+
+ataeva nāma laya, nāmera ‘phala’ pāya  
+therefore  the name  she takes,  of the name  the fruit  she gets  
+nāmera phale kṛṣṇa-pade ‘prema’ upajāya  
+by the name’s  fruit  for Kṛṣṇa’s feet  love  arises
+
+(104) Therefore she utters the name and gains the fruit of the name: by that fruit love (prema) for Kṛṣṇa’s feet awakens.”
+
+শুনিয়া বল্লভ-ভট্ট হৈল নির্ব্বচন ৷  
+ঘরে যাই’ মনে দুঃখে করেন চিন্তন ॥ ১০৫ ॥
+
+śuniyā vallabha-bhaṭṭa haila nirvacana  
+hearing  Vallabha  Bhaṭṭa  became  speechless  
+ghare yāi’ mane duḥkhe karena cintana  
+home  going  in his mind  in sorrow  does  brooding
+
+(105) Hearing this, Vallabha Bhaṭṭa fell silent. He went home and brooded sorrowfully:
+
+নিত্য আমার এই সভায় হয় কক্ষাপাত ৷  
+একদিন উপরে যদি হয় মোর বাত্ ॥ ১০৬ ॥
+
+nitya āmāra ei sabhāya haya kakṣā-pāta  
+daily  my  in this  assembly  is  defeat  
+ekadina upare yadi haya mora bāt  
+one day  on top  if  is  my  word
+
+(106) “Every day I am defeated in this assembly. If only my word would prevail just once,
+
+তবে সুখ হয়, আর সব লজ্জা যায় ৷  
+স্ব-বচন স্থাপিতে আমি কি করি উপায় ? ॥ ১০৭ ॥
+
+tabe sukha haya, āra saba lajjā yāya  
+then  happiness  is,  and  all  shame  goes  
+sva-vacana sthāpite āmi ki kari upāya?  
+my own  statement  to establish  I  what  do  means
+
+(107) I would be happy, and all my shame would be gone. What means can I find to establish my own view?”
+
+আর দিন আসি’ বসিলা প্রভুরে নমস্করি’ ৷  
+সভাতে কহেন কিছু মনে গর্ব্ব করি’ ॥ ১০৮ ॥
+
+āra dina āsi’ vasilā prabhure namaskari’  
+next  day  coming  he sat  to the Lord  bowing  
+sabhāte kahena kichu mane garva kari’  
+in the assembly  says  something  in the mind  pride  holding
+
+(108) The next day he came, bowed to the Lord, and sat down. Then, proud at heart, he spoke in the assembly:
+
+ভাগবতে স্বামীর ব্যাখ্যান কৈরাছি খণ্ডন ৷  
+লইতে না পারি তাঁর ব্যাখ্যান-বচন ॥ ১০৯ ॥
+
+bhāgavate svāmīra vyākhyāna kairāchi khaṇḍana  
+in the Bhāgavata  Svāmī’s  explanation  I have  refuted  
+laite nā pāri tām̐ra vyākhyāna-vacana  
+to accept  not  can  his  explanation’s  words
+
+(109) “In the *Bhāgavata* I have refuted Śrīdhara Svāmī’s explanations. I cannot accept the words of his commentary.
+
+সেই ব্যাখ্যা করেন যাঁহা যেই পড়ে আনি’ ৷  
+একবাক্যতা নাহি, তাতে ‘স্বামী’ নাহি মানি ॥ ১১০ ॥
+
+sei vyākhyā karena yām̐hā yei paḍe āni’  
+that  explanation  he gives  wherever  whatever  he reads  taking up  
+eka-vākyatā nāhi, tāte ‘svāmī’ nāhi māni  
+consistency  is not,  therefore  ‘Svāmī’  not  I accept
+
+(110) He explains whatever passage he takes up just as it stands there; there is no consistency in it. Therefore I do not accept Svāmī.”[^37]
+
+প্রভু হাসি’ কহে, — স্বামী না মানে যেই জন ৷  
+বেশ্যার ভিতরে তারে করিয়ে গণন ॥ ১১১ ॥
+
+prabhu hāsi’ kahe, — svāmī nā māne yei jana  
+the Lord  smiling  says  svāmī  not  accepts  who  person  
+veśyāra bhitare tāre kariye gaṇana  
+of prostitutes  among  him  I make  counting
+
+(111) The Lord smiled and said, “Whoever does not accept the *svāmī* (the husband), I count among prostitutes.”[^38]
+
+এত কহি’ মহাপ্রভু মৌন ধরিলা ৷  
+শুনিয়া সবার মনে সন্তোষ হইলা ॥ ১১২ ॥
+
+eta kahi’ mahāprabhu mauna dharilā  
+this  saying  Mahāprabhu  silence  held  
+śuniyā sabāra mane santoṣa hailā  
+hearing  of all  in the minds  satisfaction  arose
+
+(112) Having said this, Mahāprabhu fell silent. Hearing it, everyone was satisfied at heart.
+
+জগতের হিত লাগি’ গৌর-অবতার ৷  
+অন্তরের অভিমান জানেন তাহার ॥ ১১৩ ॥
+
+jagatera hita lāgi’ gaura-avatāra  
+of the world  the good  for the sake  Gaura’s  descent  
+antarera abhimāna jānena tāhāra  
+inner  pride  He knows  his
+
+(113) Gaura descended for the good of the world, and He knew the pride hidden in the Bhaṭṭa’s heart.
+
+নানা অবজ্ঞানে ভট্টে শোধেন ভগবান্ ৷  
+কৃষ্ণ যৈছে খণ্ডিলেন ইন্দ্রের অভিমান ॥ ১১৪ ॥
+
+nānā avajñāne bhaṭṭe śodhena bhagavān  
+by various  disregard  the Bhaṭṭa  purifies  Bhagavān  
+kṛṣṇa yaiche khaṇḍilena indrera abhimāna  
+Kṛṣṇa  as  broke  Indra’s  pride
+
+(114) By various kinds of disregard Bhagavān purified the Bhaṭṭa, just as Kṛṣṇa broke the pride of Indra.
+
+অজ্ঞ জীব নিজ-‘হিতে’ ‘অহিত’ করি’ মানে ৷  
+গর্ব্ব চূর্ণ হৈলে, পাছে উঘাড়ে নয়নে ॥ ১১৫ ॥
+
+ajña jīva nija-‘hite’ ‘ahita’ kari’ māne  
+ignorant  jīva  his own  ‘good’  ‘harm’  as  regards  
+garva cūrṇa haile, pāche ughāḍe nayane  
+pride  crushed  when,  afterwards  open  the eyes
+
+(115) An ignorant jīva takes his own good for harm. When his pride has been crushed, his eyes open at last.
+
+ঘরে আসি’ রাত্র্যে ভট্ট চিন্তিতে লাগিল ৷  
+পূর্ব্বে প্রয়াগে মোরে মহা-কৃপা কৈল ॥ ১১৬ ॥
+
+ghare āsi’ rātrye bhaṭṭa cintite lāgila  
+home  coming  at night  the Bhaṭṭa  to think  began  
+pūrve prayāge more mahā-kṛpā kaila  
+earlier  in Prayāga  to me  great  mercy  He showed
+
+(116) Back at home that night, the Bhaṭṭa began to think: “Earlier, in Prayāga, the Lord showed me great mercy.
+
+স্বগণ-সহিতে মোর মানিলা নিমন্ত্রণ ৷  
+এবে কেনে প্রভুর মোতে ফিরি’ গেল মন ? ॥ ১১৭ ॥
+
+svagaṇa-sahite mora mānilā nimantraṇa  
+His associates  together with  my  accepted  invitation  
+ebe kene prabhura mote phiri’ gela mana?  
+now  why  the Lord’s  toward me  turned  went  mind
+
+(117) With His associates He accepted my invitation. Why has the Lord’s mind now turned against me?
+
+‘আমি জিতি’, — এই গর্ব্ব-শূন্য হউক ইঁহার চিত ৷  
+ঈশ্বর-স্বভাব, — করেন সবাকার হিত ॥ ১১৮ ॥
+
+‘āmi jiti’, — ei garva-śūnya hauka im̐hāra cita  
+‘I  win’  this  pride  free of  may become  his  mind  
+īśvara-svabhāva, — karena sabākāra hita  
+of the Lord  the nature  does  of all  the good
+
+(118) ‘May his mind become free of this pride — “I shall win”’: such is His intention. It is the Lord’s nature to do good to all.
+
+আপনা জানাইতে আমি করি অভিমান ৷  
+সে গর্ব্ব খণ্ডাইতে মোর করেন অপমান ॥ ১১৯ ॥
+
+āpanā jānāite āmi kari abhimāna  
+myself  to make known  I  do  pride  
+se garva khaṇḍāite mora karena apamāna  
+that  pride  to break  me  does  dishonor
+
+(119) To make a name for myself, I give way to pride; to break that pride, He dishonours me.
+
+আমার ‘হিত’ করেন, — ইহো আমি মানি ‘দুঃখ’ ৷  
+কৃষ্ণের উপরে কৈল যেন ইন্দ্র মহামূর্খ ॥ ১২০ ॥
+
+āmāra ‘hita’ karena, — iho āmi māni ‘duḥkha’  
+my  ‘good’  He does,  this  I  regard  ‘sorrow’  
+kṛṣṇera upare kaila yena indra mahāmūrkha  
+Kṛṣṇa  toward  did  as  Indra  great fool
+
+(120) He is doing me good, yet I take it as sorrow — just as Indra, that great fool, behaved toward Kṛṣṇa.”
+
+এত চিন্তি’ প্রাতে আসি’ প্রভুর চরণে ৷  
+দৈন্য করি’ স্তুতি করি’ লইল শরণে ॥ ১২১ ॥
+
+eta cinti’ prāte āsi’ prabhura caraṇe  
+thus  thinking  in the morning  coming  at the Lord’s  feet  
+dainya kari’ stuti kari’ laila śaraṇe  
+humility  showing  praise  offering  took  shelter
+
+(121) Thinking this, he came to the Lord in the morning and, humbly offering praise, took shelter at His feet.
+
+আমি অজ্ঞ জীব, — অজ্ঞোচিত কর্ম্ম কৈলুঁ ৷  
+তোমার আগে মূর্খ আমি পাণ্ডিত্য প্রকাশিলুঁ ॥ ১২২ ॥
+
+āmi ajña jīva, — ajñocita karma kailum̐  
+I  ignorant  jīva  fit for the ignorant  deeds  I did  
+tomāra āge mūrkha āmi pāṇḍitya prakāśilum̐  
+You  before  fool  I  learning  displayed
+
+(122) “I am an ignorant jīva, and I acted as the ignorant act. Fool that I am, I displayed my learning before You.
+
+তুমি — ঈশ্বর, নিজোচিত কৃপা কৈলা ৷  
+অপমান করি’ সর্ব্ব গর্ব্ব খণ্ডাইলা ॥ ১২৩ ॥
+
+tumi — īśvara, nijocita kṛpā kailā  
+You  the Lord,  befitting Yourself  mercy  showed  
+apamāna kari’ sarva garva khaṇḍāilā  
+dishonor  doing  all  pride  You broke
+
+(123) You are the Lord, and You showed mercy befitting Yourself: by dishonouring me, You broke all my pride.
+
+আমি — অজ্ঞ, ‘হিত’-স্থানে মানি ‘অপমানে’ ৷  
+ইন্দ্র যেন কৃষ্ণের নিন্দা করিল অজ্ঞানে ॥ ১২৪ ॥
+
+āmi — ajña, ‘hita’-sthāne māni ‘apamāne’  
+I  ignorant,  ‘good’  in place of  I regard  ‘dishonor’  
+indra yena kṛṣṇera nindā karila ajñāne  
+Indra  as  of Kṛṣṇa  blasphemy  did  in ignorance
+
+(124) I am ignorant: in place of good I saw dishonour, just as Indra blasphemed Kṛṣṇa in ignorance.
+
+তোমার কৃপা-অঞ্জনে গর্ব্ব-আন্ধ্য গেল ৷  
+তুমি এত কৃপা কৈলা, — এবে ‘জ্ঞান’ হৈল ॥ ১২৫ ॥
+
+tomāra kṛpā-añjane garva-āndhya gela  
+Your  mercy  by the salve  pride’s  blindness  went  
+tumi eta kṛpā kailā, — ebe ‘jñāna’ haila  
+You  so much  mercy  showed  now  ‘knowledge’  has come
+
+(125) By the salve of Your mercy the blindness of my pride is gone. You have shown me such mercy that now true knowledge has come.
+
+অপরাধ কৈনু, ক্ষম, লইনু শরণ ৷  
+কৃপা করি’ মোর মাথে ধরহ চরণ ॥ ১২৬ ॥
+
+aparādha kainu, kṣama, lainu śaraṇa  
+offenses  I committed,  forgive,  I have taken  shelter  
+kṛpā kari’ mora māthe dharaha caraṇa  
+mercy  showing  on my  head  place  Your feet
+
+(126) I have committed offences; forgive me. I have taken shelter of You. Be merciful and place Your feet on my head.”
+
+প্রভু কহে — তুমি ‘পণ্ডিত’ ‘মহাভাগবত’ ৷  
+দুইগুণ যাঁহা, তাঁহা নাহি গর্ব্ব-পর্ব্বত ॥ ১২৭ ॥
+
+prabhu kahe — tumi ‘paṇḍita’ ‘mahā-bhāgavata’  
+the Lord  says  you  ‘a paṇḍita’  ‘a great devotee’  
+dui-guṇa yām̐hā, tām̐hā nāhi garva-parvata  
+two  qualities  where,  there  is not  of pride  a mountain
+
+(127) The Lord said, “You are a paṇḍita and a great devotee (*mahā-bhāgavata*). Where these two qualities are found, there can be no mountain of pride.
+
+শ্রীধরস্বামী নিন্দি’ নিজ-টীকা কর !  
+শ্রীধরস্বামী নাহি মান’, — এত ‘গর্ব্ব’ ধর! ॥ ১২৮ ॥
+
+śrīdhara-svāmī nindi’ nija-ṭīkā kara!  
+Śrīdhara  Svāmī  blaspheming  your own  commentary  you make  
+śrīdhara-svāmī nāhi māna’, — eta ‘garva’ dhara!  
+Śrīdhara  Svāmī  not  you accept  such  ‘pride’  you hold
+
+(128) Yet you blaspheme Śrīdhara Svāmī and write your own commentary! You do not accept Śrīdhara Svāmī — such is the pride you hold!
+
+শ্রীধরস্বামী প্রসাদে ‘ভাগবত’ জানি ৷  
+জগদ্গুরু শ্রীধরস্বামী ‘গুরু’ করি’ মানি ॥ ১২৯ ॥
+
+śrīdhara-svāmī prasāde ‘bhāgavata’ jāni  
+of Śrīdhara  Svāmī  by the grace  the ‘Bhāgavata’  I know  
+jagad-guru śrīdhara-svāmī ‘guru’ kari’ māni  
+the world’s guru  Śrīdhara  Svāmī  ‘guru’  as  I accept
+
+(129) By the grace of Śrīdhara Svāmī I understand the *Bhāgavata*. I accept Śrīdhara Svāmī, the guru of the world, as My guru.
+
+শ্রীধর-উপরে গর্ব্বে যে কিছু লিখিবে ৷  
+‘অর্থব্যস্ত’ লিখন সেই, লোকে না মানিবে ॥ ১৩০ ॥
+
+śrīdhara-upare garve ye kichu likhibe  
+Śrīdhara  above  out of pride  whatever  anything  one will write  
+‘artha-vyasta’ likhana sei, loke nā mānibe  
+‘distorted in meaning’  writing  that,  people  not  will accept
+
+(130) Whatever anyone writes out of pride, setting himself above Śrīdhara, will be distorted in meaning (*artha-vyasta*), and people will not accept it.
+
+শ্রীধরের অনুগত যে করে লিখন ৷  
+সব লোক মান্য করি’ করিবে গ্রহণ ॥ ১৩১ ॥
+
+śrīdharera anugata ye kare likhana  
+Śrīdhara’s  following  who  does  writing  
+saba loka mānya kari’ karibe grahaṇa  
+all  people  respect  showing  will make  acceptance
+
+(131) But whoever writes in the footsteps of Śrīdhara, all people will honour and accept.
+
+শ্রীধরানুগত কর ভাগবত-ব্যাখ্যান ৷  
+অভিমান ছাড়ি’ ভজ কৃষ্ণ ভগবান্ ॥ ১৩২ ॥
+
+śrīdharānugata kara bhāgavata-vyākhyāna  
+following Śrīdhara  make  the Bhāgavata’s  explanation  
+abhimāna chāḍi’ bhaja kṛṣṇa bhagavān  
+pride  giving up  worship  Kṛṣṇa  Bhagavān
+
+(132) Explain the *Bhāgavata* in the footsteps of Śrīdhara. Give up your pride and worship Kṛṣṇa, Bhagavān.
+
+অপরাধ ছাড়ি’ কর কৃষ্ণসঙ্কীর্ত্তন ৷  
+অচিরাৎ পাবে তবে কৃষ্ণের চরণ ॥ ১৩৩ ॥
+
+aparādha chāḍi’ kara kṛṣṇa-saṅkīrtana  
+offenses  giving up  do  Kṛṣṇa  saṅkīrtana  
+acirāt pābe tabe kṛṣṇera caraṇa  
+very soon  you will attain  then  Kṛṣṇa’s  feet
+
+(133) Give up offences and perform the saṅkīrtana of Kṛṣṇa. Then you will very soon attain the feet of Kṛṣṇa.”
+
+ভট্ট কহে, — যদি মোরে হইলা প্রসন্ন ৷  
+একদিন পুনঃ মোর মান’ নিমন্ত্রণ ॥ ১৩৪ ॥
+
+bhaṭṭa kahe, — yadi more hailā prasanna  
+the Bhaṭṭa  says  if  with me  You have become  pleased  
+ekadina punaḥ mora māna’ nimantraṇa  
+one day  again  my  accept  invitation
+
+(134) The Bhaṭṭa said, “If You are now pleased with me, accept my invitation once again some day.”
+
+প্রভু অবতীর্ণ হৈলা জগৎ তারিতে ৷  
+মানিলেন নিমন্ত্রণ, তারে সুখ দিতে ॥ ১৩৫ ॥
+
+prabhu avatīrṇa hailā jagat tārite  
+the Lord  descended  has  the world  to deliver  
+mānilena nimantraṇa, tāre sukha dite  
+He accepted  the invitation,  to him  joy  to give
+
+(135) The Lord has descended to deliver the world, so He accepted the invitation to give the Bhaṭṭa joy.
+
+জগতের ‘হিত’ হউক — এই প্রভুর মন ৷  
+দণ্ড করি’ করে তার হৃদয় শোধন ॥ ১৩৬ ॥
+
+jagatera ‘hita’ hauka — ei prabhura mana  
+of the world  ‘good’  may be  this  the Lord’s  mind  
+daṇḍa kari’ kare tāra hṛdaya śodhana  
+punishment  doing  He does  his  heart’s  purification
+
+(136) “May the world be blessed” — such is the Lord’s mind. Even when He punishes, He does so to purify a person’s heart.
+
+স্বগণ-সহিত প্রভুর নিমন্ত্রণ কৈলা ৷  
+মহাপ্রভু তারে তবে প্রসন্ন হইলা ॥ ১৩৭ ॥
+
+svagaṇa-sahita prabhura nimantraṇa kailā  
+His associates  together with  the Lord’s  invitation  he made  
+mahāprabhu tāre tabe prasanna hailā  
+Mahāprabhu  with him  then  pleased  became
+
+(137) The Bhaṭṭa invited the Lord together with His associates, and Mahāprabhu was then pleased with him.
+
+জগদানন্দ-পণ্ডিতের শুদ্ধ গাঢ় ভাব ৷  
+সত্যভামা-প্রায় প্রেম ‘বাম্য-স্বভাব’ ॥ ১৩৮ ॥
+
+jagadānanda-paṇḍitera śuddha gāḍha bhāva  
+of Jagadānanda  Paṇḍita  pure  deep  bhāva  
+satyabhāmā-prāya prema ‘vāmya-svabhāva’  
+Satyabhāmā  like  love  ‘contrary nature’
+
+(138) Jagadānanda Paṇḍita’s *bhāva* was pure and deep. Like Satyabhāmā’s, his love had a contrary nature (*vāmya*).
+
+বার-বার প্রণয় কলহ করে প্রভু-সনে ৷  
+অন্যোঽন্যে খট্মটি চলে দুইজনে ॥ ১৩৯ ॥
+
+bāra-bāra praṇaya kalaha kare prabhu-sane  
+again and again  loving  quarrels  makes  with the Lord  
+anyo-’nye khaṭmaṭi cale dui-jane  
+mutually  squabbling  goes on  between the two
+
+(139) Again and again he had loving quarrels with the Lord, and the two of them kept squabbling with each other.
+
+গদাধর-পণ্ডিতের শুদ্ধ গাঢ় ভাব ৷  
+রুক্মিণী-দেবীর যৈছে ‘দক্ষিণ-স্বভাব’ ॥ ১৪০ ॥
+
+gadādhara-paṇḍitera śuddha gāḍha bhāva  
+of Gadādhara  Paṇḍita  pure  deep  bhāva  
+rukmiṇī-devīra yaiche ‘dakṣiṇa-svabhāva’  
+of Rukmiṇī  Devī  as  ‘compliant nature’
+
+(140) Gadādhara Paṇḍita’s *bhāva* was pure and deep, with a compliant nature (*dakṣiṇa*) like that of Rukmiṇī-devī.
+
+তাঁর প্রণয়-রোষ দেখিতে প্রভুর ইচ্ছা হয় ৷  
+ঐশ্বর্য্য-জ্ঞানে তাঁর রোষ নাহি উপজয় ॥ ১৪১ ॥
+
+tām̐ra praṇaya-roṣa dekhite prabhura icchā haya  
+his  loving  anger  to see  the Lord’s  desire  is  
+aiśvarya-jñāne tām̐ra roṣa nāhi upajaya  
+by the knowledge of majesty  his  anger  not  arises
+
+(141) The Lord wanted to see his loving anger (*praṇaya-roṣa*), but because Gadādhara was conscious of the Lord’s majesty, anger never arose in him.
+
+এই লক্ষ্য পাঞা প্রভু কৈলা রোষাভাস ৷  
+শুনি’ পণ্ডিতের চিত্তে উপজিল ত্রাস ॥ ১৪২ ॥
+
+ei lakṣya pāñā prabhu kailā roṣābhāsa  
+this  pretext  getting  the Lord  made  a semblance of anger  
+śuni’ paṇḍitera citte upajila trāsa  
+hearing  in the Paṇḍita’s  heart  arose  fear
+
+(142) Taking this occasion, the Lord feigned anger, and when the Paṇḍita heard of it, fear arose in his heart.
+
+পূর্ব্বে যেন কৃষ্ণ যদি উপহাস কৈল ৷  
+শুনি’ রুক্মিণীর মনে ত্রাস উপজিল ॥ ১৪৩ ॥
+
+pūrve yena kṛṣṇa yadi upahāsa kaila  
+long ago  as  Kṛṣṇa  when  mockery  made  
+śuni’ rukmiṇīra mane trāsa upajila  
+hearing  in Rukmiṇī’s  mind  fear  arose
+
+(143) So it was long ago: when Kṛṣṇa teased Rukmiṇī mockingly, fear arose in her mind as she heard Him.
+
+বল্লভ-ভট্টের হয় বাৎসল্য-উপাসন ৷  
+বালগোপাল-মন্ত্রে তেঁহো করেন সেবন ॥ ১৪৪ ॥
+
+vallabha-bhaṭṭera haya vātsalya-upāsana  
+of Vallabha  Bhaṭṭa  is  parental-love  worship  
+bāla-gopāla-mantre tem̐ho karena sevana  
+with the Bāla-gopāla  mantra  he  does  service
+
+(144) Vallabha Bhaṭṭa worshiped in the mood of parental love (*vātsalya*); he served with the Bāla-gopāla mantra.
+
+পণ্ডিতের সনে তার মন ফিরি’ গেল ৷  
+কিশোরগোপাল-উপাসনায় মন দিল ॥ ১৪৫ ॥
+
+paṇḍitera sane tāra mana phiri’ gela  
+the Paṇḍita’s  in company  his  mind  turned  went  
+kiśora-gopāla-upāsanāya mana dila  
+to the Kiśora-gopāla  worship  mind  he gave
+
+(145) In the company of the Paṇḍita his mind changed, and he turned his mind to the worship of Kiśora-gopāla.
+
+পণ্ডিতের ঠাঞি চাহে মন্ত্রাদি শিখিতে ৷  
+পণ্ডিত কহে, — এই কর্ম্ম নহে আমা হৈতে ॥ ১৪৬ ॥
+
+paṇḍitera ṭhāñi cāhe mantrādi śikhite  
+from the Paṇḍita  he wants  mantra and the rest  to learn  
+paṇḍita kahe, — ei karma nahe āmā haite  
+the Paṇḍita  says  this  act  is not  from me
+
+(146) He wanted to receive the mantra and so on from the Paṇḍita, but the Paṇḍita said, “This is not for me to do.
+
+আমি — পরতন্ত্র, আমার প্রভু — গৌরচন্দ্র ৷  
+তাঁর আজ্ঞা বিনা আমি না হই ‘স্বতন্ত্র’ ॥ ১৪৭ ॥
+
+āmi — paratantra, āmāra prabhu — gauracandra  
+I  dependent,  my  Lord  Gauracandra  
+tām̐ra ājñā vinā āmi nā hai ‘svatantra’  
+His  order  without  I  not  am  ‘independent’
+
+(147) I am dependent; my Lord is Gauracandra. Without His order I am not free to act on my own.
+
+তুমি যে আমার ঠাঞি কর আগমন ৷  
+তাহাতেই প্রভু মোরে দেন ওলাহন ॥ ১৪৮ ॥
+
+tumi ye āmāra ṭhāñi kara āgamana  
+you  that  my  to the place  make  coming  
+tāhātei prabhu more dena olāhana  
+for that alone  the Lord  me  gives  reproach
+
+(148) Just because you come to me, the Lord reproaches me.”
+
+এইমত ভট্টের কথেক দিন গেল ৷  
+শেষে যদি প্রভু তারে সুপ্রসন্ন হৈল ॥ ১৪৯ ॥
+
+ei-mata bhaṭṭera katheka dina gela  
+in this way  of the Bhaṭṭa  some  days  passed  
+śeṣe yadi prabhu tāre suprasanna haila  
+at last  when  the Lord  with him  well pleased  became
+
+(149) In this way some days passed for the Bhaṭṭa. At last the Lord became fully pleased with him.
+
+নিমন্ত্রণের দিনে পণ্ডিতে বোলাইলা ৷  
+স্বরূপ, জগদানন্দ, গোবিন্দে পাঠাইলা ॥ ১৫০ ॥
+
+nimantraṇera dine paṇḍite bolāilā  
+of the invitation  on the day  the Paṇḍita  He had called  
+svarūpa, jagadānanda, govinde pāṭhāilā  
+Svarūpa,  Jagadānanda,  Govinda  He sent
+
+(150) On the day of the invitation the Lord called for the Paṇḍita, sending Svarūpa, Jagadānanda and Govinda to bring him.
+
+পথে পণ্ডিতেরে স্বরূপ কহেন বচন ৷  
+পরীক্ষিতে প্রভু তোমারে কৈলা উপেক্ষণ ॥ ১৫১ ॥
+
+pathe paṇḍitere svarūpa kahena vacana  
+on the way  to the Paṇḍita  Svarūpa  says  words  
+parīkṣite prabhu tomāre kailā upekṣaṇa  
+to test  the Lord  you  made  disregard
+
+(151) On the way Svarūpa said to the Paṇḍita, “The Lord disregarded you to test you.
+
+তুমি কেনে আসি’ তাঁরে না দিলা ওলাহন ?  
+ভীতপ্রায় হঞা কেনে করিলা সহন ? ॥ ১৫২ ॥
+
+tumi kene āsi’ tām̐re nā dilā olāhana?  
+you  why  coming  to Him  not  gave  reproach  
+bhīta-prāya hañā kene karilā sahana?  
+frightened  as if  being  why  did you  endure
+
+(152) Why didn’t you come and reproach Him? Why did you put up with it, as if you were afraid?”
+
+পণ্ডিত কহেন, — প্রভু সর্ব্বজ্ঞ শিরোমণি ৷  
+তাঁর সনে ‘হঠ’ করি, — ভাল নাহি মানি ॥ ১৫৩ ॥
+
+paṇḍita kahena, — prabhu sarvajña śiromaṇi  
+the Paṇḍita  says  the Lord  of the all-knowing  the crown jewel  
+tām̐ra sane ‘haṭha’ kari, — bhāla nāhi māni  
+Him  with  ‘obstinacy’  I make  good  not  I consider
+
+(153) The Paṇḍita said, “The Lord is the crown jewel of the all-knowing. I do not think it right to be obstinate with Him.
+
+যেই কহে, সেই সহি নিজ-শিরে ধরি’ ৷  
+আপনে করিবেন কৃপা গুণ-দোষ বিচারি’ ॥ ১৫৪ ॥
+
+yei kahe, sei sahi nija-śire dhari’  
+whatever  He says  that  I bear  on my own  head  holding  
+āpane karibena kṛpā guṇa-doṣa vicāri’  
+Himself  He will show  mercy  merits  faults  considering
+
+(154) Whatever He says, I bear it, holding it on my head. He Himself will weigh my merits and faults and show me mercy.”
+
+এত বলি’ পণ্ডিত প্রভুর স্থানে আইলা ৷  
+রোদন করিয়া প্রভুর চরণে পড়িলা ॥ ১৫৫ ॥
+
+eta bali’ paṇḍita prabhura sthāne āilā  
+thus  saying  the Paṇḍita  to the Lord’s  place  came  
+rodana kariyā prabhura caraṇe paḍilā  
+weeping  doing  at the Lord’s  feet  fell
+
+(155) Saying this, the Paṇḍita came to the Lord and, weeping, fell at His feet.
+
+ঈষৎ হাসিয়া প্রভু কৈলা আলিঙ্গন ৷  
+সবারে শুনাঞা কহেন মধুর বচন ॥ ১৫৬ ॥
+
+īṣat hāsiyā prabhu kailā āliṅgana  
+slightly  smiling  the Lord  made  an embrace  
+sabāre śunāñā kahena madhura vacana  
+to all  making hear  He speaks  sweet  words
+
+(156) Smiling slightly, the Lord embraced him and spoke sweet words for all to hear:
+
+আমি চালাইলুঁ তোমা, তুমি না চলিলা ৷  
+ক্রোধে কিছু না কহিলা, সকল সহিলা ॥ ১৫৭ ॥
+
+āmi cālāilum̐ tomā, tumi nā calilā  
+I  showed anger  to you,  you  not  were moved  
+krodhe kichu nā kahilā, sakala sahilā  
+in anger  anything  not  you said,  all  you bore
+
+(157) “I showed you anger, but you were not moved. You said nothing in anger; you bore it all.
+
+আমার ভঙ্গীতে তোমার মন না চলিলা ৷  
+সুদৃঢ় সরলভাবে আমারে কিনিলা ॥ ১৫৮ ॥
+
+āmāra bhaṅgīte tomāra mana nā calilā  
+My  by the gestures  your  mind  not  was moved  
+sudṛḍha sarala-bhāve āmāre kinilā  
+very firm  by simplicity of heart  Me  you have bought
+
+(158) My gestures did not move your mind. By your firm, simple-hearted love you have bought Me.”
+
+পণ্ডিতের ভাব-মুদ্রা কহন না যায় ৷  
+‘গদাধর-প্রাণনাথ’ নাম হৈল যায় ॥ ১৫৯ ॥
+
+paṇḍitera bhāva-mudrā kahana nā yāya  
+of the Paṇḍita  of the bhāva  the marks  description  not  goes  
+‘gadādhara-prāṇa-nātha’ nāma haila yāya  
+‘Gadādhara’s  life’s  Lord’  name  became  by which
+
+(159) The marks of the Paṇḍita’s *bhāva* cannot be described; by them the Lord came to be named ‘Gadādhara-prāṇanātha’ (Lord of Gadādhara’s life).
+
+পণ্ডিতে প্রভুর প্রসাদ কহন না যায় ৷  
+‘গদাই-গৌরাঙ্গ’ বলি’ যাঁরে লোকে গায় ॥ ১৬০ ॥
+
+paṇḍite prabhura prasāda kahana nā yāya  
+to the Paṇḍita  the Lord’s  favor  description  not  goes  
+‘gadāi-gaurāṅga’ bali’ yām̐re loke gāya  
+‘Gadāi-Gaurāṅga’  calling  whom  people  sing
+
+(160) The Lord’s favor to the Paṇḍita cannot be described. People sing of Him as ‘Gadāi-Gaurāṅga.’
+
+চৈতন্যপ্রভুর লীলা কে বুঝিতে পারে ?  
+একলীলায় বহে গঙ্গার শত শত ধারে ॥ ১৬১ ॥
+
+caitanya-prabhura līlā ke bujhite pāre?  
+of Caitanya Prabhu  the pastimes  who  to understand  can  
+eka-līlāya vahe gaṅgāra śata śata dhāre  
+in one pastime  flows  of the Gaṅgā  hundreds  hundreds  in streams
+
+(161) Who can understand the pastimes of Caitanya Prabhu? In one pastime the Gaṅgā flows in hundreds and hundreds of streams.
+
+পণ্ডিতের সৌজন্য, ব্রহ্মণ্যতা-গুণ ৷  
+দৃঢ় প্রেমমুদ্রা লোকে করিলা খ্যাপন ॥ ১৬২ ॥
+
+paṇḍitera saujanya, brahmaṇyatā-guṇa  
+of the Paṇḍita  the gentleness,  brahminical  virtue  
+dṛḍha prema-mudrā loke karilā khyāpana  
+firm  of love  the mark  to the world  He made  proclamation
+
+(162) The Lord made known to the world the Paṇḍita’s gentleness, his brahminical virtue, and the firm mark of his love.
+
+অভিমান-পঙ্ক ধুঞা ভট্টেরে শোধিলা ৷  
+সেইদ্বারা আর সব লোকে শিখাইলা ॥ ১৬৩ ॥
+
+abhimāna-paṅka dhuñā bhaṭṭere śodhilā  
+of pride  the mire  washing  the Bhaṭṭa  He purified  
+sei-dvārā āra saba loke śikhāilā  
+by that  others  all  people  He taught
+
+(163) Washing away the mire of pride, He purified the Bhaṭṭa, and by this He taught everyone else as well.
+
+অন্তরে ‘অনুগ্রহ’, বাহ্যে ‘উপেক্ষার প্রায়’ ৷  
+বাহ্যার্থ যেই লয়, সেই নাশ যায় ॥ ১৬৪ ॥
+
+antare ‘anugraha’, bāhye ‘upekṣāra prāya’  
+within  ‘grace’,  outwardly  ‘like disregard’  
+bāhyārtha yei laya, sei nāśa yāya  
+the outer meaning  whoever  takes,  he  ruin  goes to
+
+(164) Within is grace; outwardly it looks like disregard. Whoever takes only the outer meaning is ruined.
+
+নিগূঢ় চৈতন্যলীলা বুঝিতে কার শক্তি ?  
+সেই বুঝে, গৌরচন্দ্রে যাঁর দৃঢ় ভক্তি ॥ ১৬৫ ॥
+
+nigūḍha caitanya-līlā bujhite kāra śakti?  
+hidden  of Caitanya  the pastimes  to understand  whose  power  
+sei bujhe, gauracandre yām̐ra dṛḍha bhakti  
+he  understands  in Gauracandra  whose  firm  devotion
+
+(165) Who has the power to understand the hidden pastimes of Caitanya? Only one whose devotion to Gauracandra is firm understands them.
+
+দিনান্তরে পণ্ডিত কৈল প্রভুর নিমন্ত্রণ ৷  
+প্রভু তাঁহা ভিক্ষা কৈল লঞা ভক্তগণ ॥ ১৬৬ ॥
+
+dināntare paṇḍita kaila prabhura nimantraṇa  
+on another day  the Paṇḍita  made  the Lord’s  invitation  
+prabhu tām̐hā bhikṣā kaila lañā bhakta-gaṇa  
+the Lord  there  alms-meal  took  bringing  the devotees
+
+(166) On another day the Paṇḍita invited the Lord, and the Lord took His meal there together with the devotees.
+
+তাঁহাই বল্লভ-ভট্ট প্রভুর আজ্ঞা লৈল ৷  
+পণ্ডিত-ঠাঞি পূর্ব্বপ্রার্থিত সব সিদ্ধি হৈল ॥ ১৬৭ ॥
+
+tām̐hāi vallabha-bhaṭṭa prabhura ājñā laila  
+right there  Vallabha  Bhaṭṭa  the Lord’s  permission  took  
+paṇḍita-ṭhāñi pūrva-prārthita saba siddhi haila  
+from the Paṇḍita  long  prayed for  all  fulfilment  came
+
+(167) There Vallabha Bhaṭṭa received the Lord’s permission, and from the Paṇḍita he obtained all he had long prayed for.
+
+এই ত’ কহিলুঁ বল্লভ-ভট্টের মিলন ৷  
+যাহার শ্রবণে পায় গৌরপ্রেমধন ॥ ১৬৮ ॥
+
+ei ta’ kahilum̐ vallabha-bhaṭṭera milana  
+this  indeed  I have told  of Vallabha  Bhaṭṭa  the meeting  
+yāhāra śravaṇe pāya gaura-prema-dhana  
+of which  by hearing  one gains  for Gaura  love’s  treasure
+
+(168) Thus I have told of Vallabha Bhaṭṭa’s meeting with the Lord. By hearing of it, one gains the treasure of love for Gaura.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৬৯ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(169) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Anubhāṣya*: *pāmara* — a godless person, bereft of bhakti; *amara* — one who possesses a transcendental body. Heading in the edition: obeisance to the devotees of Gaura, the touchstone.
@@ -975,3 +1815,17 @@ toward the Lord  devotion  somewhat  became  removed
 [^30]: Heading in the edition: the *rūḍhi* meaning of the name “Kṛṣṇa” — a verse from Śrī Lakṣmīdhara’s *Nāma-kaumudī*, cited in the *Kṛṣṇa-sandarbha*. *Anubhāṣya*: *rūḍhi* is the power of a word to convey the meaning of the whole word without depending on the meanings of root and suffix.
 
 [^31]: *Amṛta-pravāha-bhāṣya*: the devotion he had for the Lord partly ebbed away. Heading in the edition: the Bhaṭṭa leaves with a heavy heart; his pride is humbled, and therefore his devotion to the Lord weakens.
+
+[^32]: *Paṇḍita Gosāñi* is Śrī Gadādhara Paṇḍita Gosvāmī (*Anubhāṣya*). Heading in the edition: the Bhaṭṭa begins to court Śrī Gadādhara’s favour.
+
+[^33]: *Anubhāṣya*: Mahāprabhu had disregarded Vallabha Bhaṭṭa; yet if the Paṇḍita listened to his explanation of the name, it would pain the Lord. Which side was he to protect? So the Paṇḍita was caught between two fires.
+
+[^34]: *Amṛta-pravāha-bhāṣya*: *ābhijātye* — because of noble standing, that is, because Vallabha Bhaṭṭa was honoured among scholars. The *Anubhāṣya* gives three reasons: out of embarrassment; because Vallabha’s learning was not wholly opposed to bhakti; for the sake of the respect customary in society. Heading in the edition: Gadādhara, who honours everyone and wishes to trouble no one, is caught between two fires and begs Kṛṣṇa for mercy.
+
+[^35]: *Anubhāṣya*: the Lord knew the position the Paṇḍita was in, so he had no fear of His displeasure. What he feared was that some Vaiṣṇava might call him “Vallabha’s companion” and speak against him.
+
+[^36]: Heading in the edition: to show Vallabha mercy and point out his eternal good, the Lord answers sharply and severely, yet truly: the *jīva*, by nature *prakṛti*, is enjoined by Kṛṣṇa Himself, her husband, always to utter His name.
+
+[^37]: *Amṛta-pravāha-bhāṣya*: Śrīdhara Svāmī explains each statement just as it stands where it occurs, and so, Vallabha says, there is no unity of meaning in him. The word ‘Svāmī’ is taken up by the Lord in the next verse.
+
+[^38]: A pun: *svāmī* means both Śrīdhara Svāmī and “husband, master”; the Lord answers with Vallabha’s own words (110) and continues the image of the faithful wife (99–103). Heading in the edition: the Lord upholds the commentary of Śrīdhara Svāmī, “the sole guardian of bhakti”; only Śrīdhara accepts Viṣṇu, the one Spirit, as Lord (*svāmī*), while his opponent, who mixes spirit and matter, is the one who is wayward.
