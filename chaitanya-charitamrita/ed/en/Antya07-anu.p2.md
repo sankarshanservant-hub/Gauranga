@@ -73,3 +73,99 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 ## 113
 
 > Subheading: Śrī Gaurasundara destroys ignorance; He is the good of all the worlds, supreme mercy, the source of the avatāras and the indwelling Lord —
+
+## 114
+
+> Subheading: By disregard alone the Lord, who is beyond the senses (*adhokṣaja*), showers mercy on a proud man who relies on knowledge born of the senses and opposes the sole guardian of *bhakti*: He frees him from ignorance —
+
+In place of the worship of Indra, who is other than Kṛṣṇa, Kṛṣṇa introduced in Vraja the worship of Girirāja Govardhana. Then, lifting Govardhana, He protected Gokula, which was being flooded by the rain of the angry Indra, a worldly being of bewildered mind. Thus Indra's material pride was broken and crushed.
+
+## 115
+
+> Subheading: One who relies on sense-born knowledge and lies in the grip of ignorance takes the pleasant (*preyas*) for the good (*śreyas*); and the Lord's mercy, which leads to the highest good (*niḥśreyasa*) but goes against the mind, he regards as misfortune and suffering —
+
+## 116
+
+> Subheading: At night the Bhaṭṭa remembers the Lord's former mercy toward him —
+
+## 118
+
+> Subheading: It is the Lord's nature to bring eternal good to all *jīvas* —
+
+## 119
+
+> Subheading: The Lord, who is beyond the senses and partial to no one, uses disregard, dishonor and other acts unpleasant to the senses to free the knower of sense-born knowledge, who has turned away from Him, from arrogance and envy —
+
+## 120
+
+> Subheading: Intelligent is one who sees the Lord's grace in the fruits of karma that are painful at first but auspicious in the end —
+
+## 121
+
+> Subheading: The next morning Vallabha takes shelter at the Lord's feet —
+
+## 122
+
+> Subheading: Vallabha's distress, humility and words of repentance —
+
+There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakāśiluṅ* (“before You I displayed a fool's learning”) and *tomāra āge mūrkha hañā pāṇḍitya prakāśiluṅ* (“having become a fool before You, I displayed learning”). **Mūrkha-pāṇḍitya** — a fool's cleverness.
+
+## 123
+
+> Subheading: Precisely through contempt and disregard for the opponent of Śrī Svāmī, the sole guardian of *bhakti*, the Lord shows great mercy —
+
+## 124
+
+> Subheading: The example of Indra's folly: he took the Lord's mercy, painful at first but bringing eternal good, for harm —
+
+## 125
+
+> Subheading: The salve of the Lord's mercy cures the blindness caused by the darkness of false ego —
+
+## 126
+
+> Subheading: Vallabha takes shelter at the Lord's feet and begs forgiveness —
+
+## 127
+
+> Subheading: The Lord, who gives honor to others, consoles the Bhaṭṭa with praise —
+
+## 128
+
+> Subheading: The Lord rebukes Vallabha for opposing Śrīdhara Svāmī, “the sole guardian of *bhakti*” and the guru of the whole world —
+
+## 129
+
+> Subheading: The Lord proclaims the honor due to Śrīdhara —
+
+## 130
+
+> Subheading: Whoever sets himself above Śrīdhara, “the sole guardian of *bhakti*,” distorts the meaning of the *Bhāgavatam* and earns people's censure —
+
+## 131
+
+> Subheading: Only a commentary of *bhakti* that follows Śrīdhara, who acknowledges Viṣṇu, the one Spirit, as the Master (*svāmī*) — a commentary true to pure nondualism (*śuddhādvaita*) and in harmony with nondual knowledge (*advaya-jñāna*) — is accepted by all —
+
+## 132
+
+> Subheading: One should comment on the *Bhāgavatam* only in the footsteps of Śrīdhara, who is wholly devoted to Kṛṣṇa —
+
+## 133
+
+> Subheading: *Kīrtana* of Kṛṣṇa free of the ten offenses against the holy name leads to Kṛṣṇa's feet —
+
+## 134
+
+> Subheading: The Bhaṭṭa invites the Lord —
+
+## 135
+
+> Subheading: An example of the causeless mercy toward the *jīvas* of the Lord, who purifies the worlds —
+
+## 136
+
+> Subheading: The Lord delivers a proud man who relies on sense-born knowledge by punishing him —
+
+## 137
+
+> Subheading: The Lord and His associates accept a meal (*bhikṣā*) at his house —
