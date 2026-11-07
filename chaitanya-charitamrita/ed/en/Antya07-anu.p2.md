@@ -169,3 +169,143 @@ There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakā�
 ## 137
 
 > Subheading: The Lord and His associates accept a meal (*bhikṣā*) at his house —
+
+## 138
+
+> Subheading: An account of Jagadānanda, the avatāra of Satyabhāmā: his contrary nature (*vāmya*) and his pure, deep love for Gaura —
+
+[^138-1]In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 83) Śrī Sanātana Prabhu writes:[^138-2] “Therefore the other queens too approved just this. But the daughter of Satrājit, unable to bear it, withdrew to her chamber of sulking. Then the Lord of the life of the fortunate *gopīs* angrily ordered: ‘Bring that foolish princess here at once!’ Full of shame and fear, she stood with her body hidden behind a pillar. ‘O daughter of Satrājit, small-minded one! How you sulk!… Foolish one, do you not know that I follow your wishes? Before, when I lived in Mathurā without them, I had not the slightest wish to marry, O proud one!’”
+
+## 139
+
+> Subheading: Jagadānanda's loving quarrels with the Lord —
+
+## 140
+
+> Subheading: Gadādhara, the avatāra of Rukmiṇī: his compliant nature (*dakṣiṇa*) and his pure, deep love for Gaura —
+
+## 141
+
+> Subheading: Gadādhara does not grow angry with the Lord: his love is by nature mixed with a sense of His majesty, and he is humble and full of tender love —
+
+## 140–141
+
+In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 117) Śrī Sanātana Prabhu writes: “All the queens, led by the daughter of Bhīṣmaka, together with Satyabhāmā, at once ran up, touched their heads to His feet, praised their husband, imploring Him with words wet with tears, and little by little calmed Him.” Once in Dvārakā Śrī Kṛṣṇa jestingly advised Śrī Rukmiṇī to take another husband endowed with other virtues. Rukmiṇī was frightened and, by her compliant nature (*dakṣiṇa*), fell at His feet. In Gaura's pastimes Jagadānanda Paṇḍita Gosvāmī is contrary (*vāmya*), given to loving quarrels and endowed with Satyabhāmā's mood. Gadādhara Paṇḍita Gosvāmī is compliant like Rukmiṇī: instead of loving quarrels he is apprehensive and always follows the Lord in everything.
+
+## 142
+
+> Subheading: On the pretext of His affection for Vallabha, the Lord outwardly shows feigned anger and tests Gadādhara's love; Gadādhara is frightened —
+
+## 143
+
+> Subheading: The example of Kṛṣṇa and Rukmiṇī in the Dvāpara-yuga —
+
+## 144
+
+> Subheading: Formerly Vallabha Bhaṭṭa worshipped in *vātsalya-rasa* —
+
+## 145
+
+> Subheading: Association with Gadādhara inclines Vallabha to worship in *madhura-rasa* —
+
+## 146
+
+> Subheading: Vallabha wishes to receive mantra from Gadādhara; Gadādhara refuses —
+
+**Mantrādi śikhite** — to take initiation (*dīkṣā*).
+
+## 147
+
+> Subheading: Gadādhara, whose sole refuge is Gaurāṅga, obeys Gaura in everything —
+
+## 148
+
+> Subheading: He gives reasons against giving mantra to Vallabha —
+
+## 149
+
+> Subheading: Vallabha receives the Lord's mercy —
+
+## 150
+
+> Subheading: On the day of the feast the Lord, full of tender love, calls for Gadādhara, who is frightened by His feigned anger —
+
+## 151
+
+> Subheading: Svarūpa consoles the Paṇḍita and tells him everything —
+
+## 152
+
+> Subheading: Svarūpa tests Gadādhara by trying to provoke him to retort —
+
+## 153
+
+> Subheading: The Paṇḍita, tender in his love for the Lord, obeys Him with an awareness of His majesty —
+
+## 154
+
+> Subheading: The Paṇḍita is by nature inclined to bear every kind of severity that springs from affection in the Lord, who is dearest to him —
+
+## 155
+
+> Subheading: The Paṇḍita comes to the Lord and weeps —
+
+## 156
+
+> Subheading: The Lord, conquered by the Paṇḍita's love, embraces and reassures Gadādhara with tender love —
+
+## 157
+
+> Subheading: The Lord Himself describes Gadādhara's incomparable, tender and firm love for Gaura —
+
+**Cālāiluṅ** — I showed anger.[^157-1]
+
+## 159
+
+> Subheading: The Lord's name “Gadādhara-prāṇanātha” —
+
+## 160
+
+> Subheading: The devotees eternally sing the name “Gadāi-Gaurāṅga” —
+
+## 161
+
+> Subheading: Every wave of the inconceivable ocean of Caitanya's pastimes fulfills many purposes —
+
+## 162
+
+> Subheading: The Lord proclaims (1) the Paṇḍita's love for Gaura; (2) the destruction of Vallabha's pride and his deliverance; (3) that outward disregard for a *jīva* who relies on sense-born knowledge is the mercy shown him by the Lord, who is beyond the senses; and (4) that the *jīva*'s eternal good and intelligence lie in seeing such painful punishment as the Lord's compassion —
+
+## 164
+
+> Subheading: Only one who looks at externals and values the outward meaning falls —
+
+Wishing Vallabha Bhaṭṭa well, the supremely merciful Lord, the purifier of the fallen, outwardly disregarded him and so cleansed him of his conceit of being a scholar and a Vaiṣṇava. And because Gadādhara Paṇḍita did not wholly reject Vallabha, the Lord showed disregard for Gadādhara too for a few days. In truth Mahāprabhu was never displeased with Śrīla Gadādhara, the embodiment of His own *svarūpa-śakti*, nor can He ever be. Whoever cannot grasp the hidden meaning of this pastime will be occupied with externals and miss its true sense; he will lose faith in the holy feet of Śrī Gadādhara and will undoubtedly go to hell.
+
+## 165
+
+> Subheading: Only unwavering devotion to Caitanya gives knowledge of the truth of His pastimes —
+
+## 166
+
+> Subheading: Gadādhara feeds the Lord and His associates —
+
+## 167
+
+> Subheading: There Vallabha receives from Gadādhara initiation into the mantra of Kiśora-gopāla in *madhura-rasa* —
+
+## 168
+
+> Subheading: The meeting of Gadādhara and Vallabha bestows love for Gaura —
+
+*Thus ends the seventh chapter of the “Anubhāṣya.”*
+
+---
+
+[^93-1]: In the verse translation, otherwise: “because Vallabha Bhaṭṭa was a learned brāhmaṇa of a noble family.”
+
+[^138-1]: In the edition this section is numbered “135” (checked against the scan): a misprint; the section stands between sections 122 and 140–141, and by its content (Satyabhāmā) it belongs to verse 138.
+
+[^138-2]: The quotation is made up of verses from this passage, cited selectively; half of one verse is omitted (after “How you sulk!”). In place of *tvad-icchānusāriṇam* (“I follow your wishes”) other editions read *tad-* (“their wishes,” that is, the wishes of the people of Vraja).
+
+[^157-1]: In the verse translation, otherwise: “I tried to make you angry.”
