@@ -396,7 +396,7 @@ tr: The Vaiṣṇavas honoured the prasāda, saying “Hari! Hari!”, and the s
 ## 69
 w: garlands,  sandal paste,  areca nuts,  betel leaves  plenty  brought
 w: all  honouring  the Bhaṭṭa  joyful  became
-tr: He brought plenty of garlands, sandal paste, areca nuts and betel leaves. Honouring everyone with them, the Bhaṭṭa was filled with joy.
+tr: The Bhaṭṭa brought plenty of garlands, sandal paste, areca nuts and betel leaves, and when he had honoured everyone with them, he was filled with joy.
 
 ## 70
 w: on the day of the Ratha-yātrā  the Lord  kīrtana  began
@@ -525,8 +525,8 @@ tr: Although the Paṇḍita did not consent, the Bhaṭṭa came and read to hi
 
 ## 93
 w: because of nobility  the Paṇḍita  to make  cannot  a refusal
-w: in this  dilemma,  Kṛṣṇa,  protect me,  I have taken  shelter
-tr: The Bhaṭṭa was a man of noble standing (*ābhijātya*), and so the Paṇḍita could not stop him. “Kṛṣṇa, protect me in this dilemma,” he prayed. “I have taken shelter of You.
+w: in this  plight,  Kṛṣṇa,  protect me,  I have taken  shelter
+tr: The Bhaṭṭa was a man of noble standing (*ābhijātya*), and so the Paṇḍita could not stop him. “Kṛṣṇa, protect me in this plight,” he prayed. “I have taken shelter of You.
 fn: *Amṛta-pravāha-bhāṣya*: *ābhijātye* — because of noble standing, that is, because Vallabha Bhaṭṭa was honoured among scholars. The *Anubhāṣya* gives three reasons: out of embarrassment; because Vallabha’s learning was not wholly opposed to bhakti; for the sake of the respect customary in society. Heading in the edition: Gadādhara, who honours everyone and wishes to trouble no one, is caught between two fires and begs Kṛṣṇa for mercy.
 
 ## 94
@@ -620,7 +620,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Śrīdhara Svāmī explains each statement jus
 ## 111
 w: the Lord  smiling  says  svāmī  not  accepts  who  person
 w: of prostitutes  among  him  I make  counting
-tr: The Lord smiled and said, “Whoever does not accept the *svāmī* (the husband), I count among prostitutes.”
+tr: The Lord smiled and said, “Anyone who does not accept the *svāmī* — the husband — I count among prostitutes.”
 fn: A play on words: *svāmī* means both Śrīdhara Svāmī and “husband, master”; the Lord answers with Vallabha’s own words (110) and continues the image of the faithful wife (99–103). Heading in the edition: the Lord upholds the commentary of Śrīdhara Svāmī, “the sole guardian of bhakti”; only Śrīdhara accepts Viṣṇu, the one Spirit, as Lord (*svāmī*), while his opponent, who mixes spirit and matter, is the one who is wayward.
 
 ## 112
@@ -651,7 +651,7 @@ tr: Back at home that night, the Bhaṭṭa began to think: “Earlier, in Pray�
 ## 117
 w: His associates  together with  my  accepted  invitation
 w: now  why  the Lord’s  toward me  turned  went  mind
-tr: With His associates He accepted my invitation. Why has the Lord’s mind now turned against me?
+tr: With His associates He accepted my invitation. Why is the Lord’s mind now so changed toward me?
 
 ## 118
 w: ‘I  win’  this  pride  free of  may become  his  mind
@@ -788,7 +788,7 @@ fn: Heading in the edition: on the pretext of goodwill toward Vallabha, the Lord
 ## 143
 w: long ago  as  Kṛṣṇa  when  mockery  made
 w: hearing  in Rukmiṇī’s  mind  fear  arose
-tr: So it was long ago: when Kṛṣṇa teased Rukmiṇī mockingly, fear arose in her mind as she heard Him.
+tr: So it was long ago: when Kṛṣṇa made fun of Rukmiṇī, fear arose in her mind as she heard Him.
 
 ## 144
 w: of Vallabha  Bhaṭṭa  is  parental-love  worship

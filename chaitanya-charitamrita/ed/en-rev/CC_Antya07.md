@@ -746,7 +746,7 @@ garlands,  sandal paste,  areca nuts,  betel leaves  plenty  brought
 sabā’ pūjā kari’ bhaṭṭa ānandita haila  
 all  honouring  the Bhaṭṭa  joyful  became
 
-(69) He brought plenty of garlands, sandal paste, areca nuts and betel leaves. Honouring everyone with them, the Bhaṭṭa was filled with joy.
+(69) The Bhaṭṭa brought plenty of garlands, sandal paste, areca nuts and betel leaves, and when he had honoured everyone with them, he was filled with joy.
 
 রথযাত্রা-দিনে প্রভু কীর্ত্তন আরম্ভিলা ৷  
 পূর্ব্ববৎ সাত-সম্প্রদায় পৃথক্ করিলা ॥ ৭০ ॥
@@ -988,9 +988,9 @@ the Bhaṭṭa  going  still  reads  making  force
 ābhijātye paṇḍita karite nāre niṣedhana  
 because of nobility  the Paṇḍita  to make  cannot  a refusal  
 e saṅkaṭe, kṛṣṇa, rākha, lailāṅa śaraṇa  
-in this  dilemma,  Kṛṣṇa,  protect me,  I have taken  shelter
+in this  plight,  Kṛṣṇa,  protect me,  I have taken  shelter
 
-(93) The Bhaṭṭa was a man of noble standing (*ābhijātya*), and so the Paṇḍita could not stop him. “Kṛṣṇa, protect me in this dilemma,” he prayed. “I have taken shelter of You.[^34]
+(93) The Bhaṭṭa was a man of noble standing (*ābhijātya*), and so the Paṇḍita could not stop him. “Kṛṣṇa, protect me in this plight,” he prayed. “I have taken shelter of You.[^34]
 
 অন্তর্য্যামী প্রভু জানিবেন মোর মন ৷  
 তাঁরে ভয় নাহি কিছু, ‘বিষম’ তাঁর গণ ॥ ৯৪ ॥
@@ -1170,7 +1170,7 @@ the Lord  smiling  says  svāmī  not  accepts  who  person
 veśyāra bhitare tāre kariye gaṇana  
 of prostitutes  among  him  I make  counting
 
-(111) The Lord smiled and said, “Whoever does not accept the *svāmī* (the husband), I count among prostitutes.”[^38]
+(111) The Lord smiled and said, “Anyone who does not accept the *svāmī* — the husband — I count among prostitutes.”[^38]
 
 এত কহি’ মহাপ্রভু মৌন ধরিলা ৷  
 শুনিয়া সবার মনে সন্তোষ হইলা ॥ ১১২ ॥
@@ -1230,7 +1230,7 @@ His associates  together with  my  accepted  invitation
 ebe kene prabhura mote phiri’ gela mana?  
 now  why  the Lord’s  toward me  turned  went  mind
 
-(117) With His associates He accepted my invitation. Why has the Lord’s mind now turned against me?
+(117) With His associates He accepted my invitation. Why is the Lord’s mind now so changed toward me?
 
 ‘আমি জিতি’, — এই গর্ব্ব-শূন্য হউক ইঁহার চিত ৷  
 ঈশ্বর-স্বভাব, — করেন সবাকার হিত ॥ ১১৮ ॥
@@ -1490,7 +1490,7 @@ long ago  as  Kṛṣṇa  when  mockery  made
 śuni’ rukmiṇīra mane trāsa upajila  
 hearing  in Rukmiṇī’s  mind  fear  arose
 
-(143) So it was long ago: when Kṛṣṇa teased Rukmiṇī mockingly, fear arose in her mind as she heard Him.
+(143) So it was long ago: when Kṛṣṇa made fun of Rukmiṇī, fear arose in her mind as she heard Him.
 
 বল্লভ-ভট্টের হয় বাৎসল্য-উপাসন ৷  
 বালগোপাল-মন্ত্রে তেঁহো করেন সেবন ॥ ১৪৪ ॥
