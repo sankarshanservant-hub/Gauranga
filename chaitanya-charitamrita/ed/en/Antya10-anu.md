@@ -100,7 +100,7 @@ This shows the author's skill in preparing a variety of offerings (*naivedya*) t
 
 ## 35
 
-*Pāṁc-kuḍi* — another reading has “*pākauḍi*”; another reading, “*pāṁpaḍi*,” that is, thin wafers (*dala*), or “*parpaṭī*.”[^35-1]
+*Pāṁc-kuḍi* — another reading has “*pākauḍi*”; another reading, “*pāṁpaḍi*,” that is, thin wafers (*dala*), or “*parpaṭī*.”
 
 ## 36
 
@@ -296,7 +296,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 89
 
-> Subheading: Govinda lays his own *bahirvāsa* over the Lord's body and steps over Him —[^89-1]
+> Subheading: Govinda lays his own *bahirvāsa* over the Lord's body and steps over Him —
 
 ## 90
 
@@ -404,7 +404,7 @@ Variant reading: *paiḍa* (for *peḍā*), and in the second line, “all the c
 
 > Subheading: The Lord asks why the devotees are grieving —
 
-*Ādivasyā*: according to some, the word is used in such senses as “unfortunate” (*bhāgya-hīna*), “unreasoning,” “foolish,” “fickle-minded,” or *ā-dekhlā* (overeager, “greedy” — *kāṅlā*).[^116-1]
+*Ādivasyā*: according to some, the word is used in such senses as “unfortunate” (*bhāgya-hīna*), “unreasoning,” “foolish,” “fickle-minded,” or *ā-dekhlā* (overeager, “greedy” — *kāṅlā*).
 
 ## 117
 
@@ -542,10 +542,5 @@ In the homes of *brāhmaṇas* by birth (*śaukra-brāhmaṇas*) the Lord accept
 
 ---
 
-[^35-1]: In the verse translation, otherwise: “…added fragrant substances and rolled it into balls.”
-
 [^65-1]: So in the edition: *nitya-vāñchā* (“constant desire”); given the sense of the verse (“then the Lord desired to dance Himself”), possibly a misprint for *nṛtya-vāñchā*, “the desire to dance.”
 
-[^89-1]: In the verse translation, otherwise: “Govinda covered Śrī Caitanya with His own wrap”; according to the subheading, Govinda lays his own outer cloth (*bahirvāsa*) over the Lord.
-
-[^116-1]: In the verse translation, otherwise: “You have been living with Me for so long.” The commentator also gives other interpretations of the word *ādivasyā*.

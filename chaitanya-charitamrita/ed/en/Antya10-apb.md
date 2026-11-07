@@ -58,7 +58,7 @@ For the sake of serving the Lord I take no account even of millions upon million
 
 ## 116
 
-*Ādivasyā*: one who has lived here from long before is called *ādivasyā*. The Lord said: “Those who are *ādivasyā* — that is, who have long lived together with Me — feel no sorrow over this. For it is those who have now come from Gauḍa who brought all these delicacies.”[^116-1]
+*Ādivasyā*: one who has lived here from long before is called *ādivasyā*. The Lord said: “Those who are *ādivasyā* — that is, who have long lived together with Me — feel no sorrow over this. For it is those who have now come from Gauḍa who brought all these delicacies.”
 
 ## 118
 
@@ -66,7 +66,7 @@ For the sake of serving the Lord I take no account even of millions upon million
 
 ## 125
 
-*Mukutā*: with the top cut open.[^125-1]
+*Mukutā*: with the top cut open.
 
 *Thus ends the tenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
@@ -74,6 +74,3 @@ For the sake of serving the Lord I take no account even of millions upon million
 
 [^68-1]: In the verse translation, otherwise: “May my head bow down in the hall for *kīrtana*, the Jagamohana, before the Deity of Lord Jagannātha” (the *Anubhāṣya* also takes the line this way: *muṇḍā* is “head”).
 
-[^116-1]: In the verse translation, otherwise: “You have been living with Me for so long. Why, then, are you grieving now?” (the words are addressed to Govinda).
-
-[^125-1]: In the verse translation, otherwise: “sweets made of coconut”; for the commentator, *mukutā nārikela* are coconuts with the top cut open.
