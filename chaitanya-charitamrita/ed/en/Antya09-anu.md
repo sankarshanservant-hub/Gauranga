@@ -69,3 +69,105 @@ See Antya 2.10.
 ## 16
 
 > Subheading: Answering the Lord's question, the messenger tells how Gopīnātha is to be executed —
+
+## 17
+
+*Rāja-viṣayī* — the keeper of the king's property.
+
+## 20
+
+*Sthūla-dravya* — valuable goods or a large sum of money, that is, something with which the debt can be paid off at once. *Dravya bhariba* — “I will pay the king the wealth (*draviṇa*) due to him, that is, the money.”
+
+## 23
+
+*Ghāṭāñā* — lowering.
+
+## 27
+
+*Lāgāni* — a false accusation, slander.
+
+## 31
+
+> Subheading: The Lord displays detachment (*nirapekṣatā*) and rebukes Gopīnātha —
+
+*Dite nāre* — he does not want to pay.
+
+## 34
+
+> Subheading: At this time the Lord receives the news that Bhavānanda and the others have been seized together with their families —
+
+## 35
+
+> Subheading: As an example of the *dharma* of *sannyāsa*, the Lord shows indifference, or detachment, toward talk of worldly affairs —
+
+## 36
+
+> Subheading: Svarūpa Dāmodara and the other devotees beg the Lord to give up His indifference and protect Rāmānanda's kinsmen —
+
+## 38
+
+> Subheading: The Lord's anger and rebuke —
+
+## 40
+
+> Subheading: A *sannyāsī* is not fit to involve himself in worldly affairs —
+
+*Sannyāsī brāhmaṇa* — one who has no money, who has given up worldly things and lives by begging.
+
+## 41
+
+> Subheading: The Lord receives the news that Gopīnātha is about to be executed —
+
+## 42
+
+> Subheading: The devotees beg the Lord to save Gopīnātha, yet to teach the people the Lord remains sternly detached —
+
+## 43
+
+> Subheading: He tells everyone to pray for this at Jagannātha's feet —
+
+## 44
+
+> Subheading: Jagannātha-deva is Īśvara Himself and the Master of all —
+
+## 45
+
+> Subheading: Haricandana Mahāpātra begs Pratāparudra for Gopīnātha's life —
+
+## 46
+
+> Subheading: Killing, that is, the death penalty, is out of place here —
+
+*Vyavahāra* — lawful, proper.
+
+## 49
+
+> Subheading: The king declares that he knew nothing about the execution of Gopīnātha —
+
+## 50
+
+> Subheading: He orders that Gopīnātha be saved at once —
+
+## 51
+
+> Subheading: Telling the crown prince the king's will, Haricandana saves Gopīnātha's life —
+
+## 52
+
+> Subheading: Gopīnātha is asked how he will repay the king's money, and he answers —
+
+## 55
+
+> Subheading: The Lord asks the messenger about Vāṇīnātha —
+
+## 56–57
+
+> Subheading: Vāṇīnātha chants the names, counting them on his hands —
+
+We learn from this that every *sādhaka* who has taken exclusive shelter of the holy name must keep the rule of chanting the *mahā-mantra* “Hare Kṛṣṇa” (sixteen names, thirty-two syllables), holding firmly to a vow of number. He must keep this rule in every way and in every circumstance: in happiness and in sorrow, in prosperity and in danger.
+
+## 58
+
+> Subheading: Hearing this, the Lord rejoices —
+
+*Kṛpā-chadma-bandha* — a train of events arranged from above that serves as a pretext for His mercy.
