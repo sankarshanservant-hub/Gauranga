@@ -330,9 +330,11 @@ in pure bhāva  the queen of Vraja  does  binding
 অতএব শুক-ব্যাস করে প্রশংসন ॥ ৩১ ॥
 
 ‘mora sakhā’, ‘mora putra’, — ei ‘śuddha’ mana  
-ataeva śuka-vyāsa kare praśaṁsana
+‘my  friend’,  ‘my  son’  this  ‘pure’  mind  
+ataeva śuka-vyāsa kare praśaṁsana  
+therefore  Śuka and Vyāsa  do  praise
 
-(31) [not yet translated]
+(31) ‘My friend,’ ‘my son’ — such is the pure mind. Therefore Śuka and Vyāsa praise it.
 
 ইত্থং সতাং ব্রহ্মসুখানুভূত্যা  
 দাস্যং গতানাং পরদৈবতেন ৷  
@@ -340,71 +342,93 @@ ataeva śuka-vyāsa kare praśaṁsana
 সার্দ্ধং বিজহ্রুঃ কৃতপুণ্যপুঞ্জাঃ ॥ ৩২ ॥
 
 itthaṁ satāṁ brahma-sukhānubhūtyā  
+thus  for the sages  the experience of the bliss of Brahman  
 dāsyaṁ gatānāṁ para-daivatena  
+servitude  for those who have attained  the Supreme Deity  
 māyāśritānāṁ nara-dārakeṇa  
-sārdhaṁ vijahruḥ kṛta-puṇya-puñjāḥ
+for those under māyā  a human boy  
+sārdhaṁ vijahruḥ kṛta-puṇya-puñjāḥ  
+with (Him)  played  who had amassed  of pious deeds  heaps
 
-(32) [not yet translated]
+(32) “Thus the cowherd boys, who had amassed heaps of pious deeds, played with Him who is to the sages the experience of Brahman’s bliss, to those who have taken up His service the Supreme Deity, and to those under the spell of *māyā* a human child.” (Śrīmad-Bhāgavatam, 10.12.11)
 
 ত্রয়্যা চোপনিষদ্ভিশ্চ সাংখ্যযোগৈশ্চ সাত্বতৈঃ ৷  
 উপগীয়মানমাহাত্ম্যং হরিং সাঽমন্যতাত্মজম্ ॥ ৩৩ ॥
 
 trayyā copaniṣadbhiś ca  
+by the three Vedas  and by the Upaniṣads  and  
 sāṁkhya-yogaiś ca sātvataiḥ  
+by Sāṅkhya and yoga  and  by the Sātvatas  
 upagīyamāna-māhātmyaṁ  
-hariṁ sā ’manyatātmajam
+whose glory is sung  
+hariṁ sā ’manyatātmajam  
+Hari  she  considered  her son
 
-(33) [not yet translated]
+(33) “She looked upon Hari, whose glory is sung by the three Vedas, the Upaniṣads, the works on Sāṅkhya and yoga and the Sātvata scriptures, as her own son.” (Śrīmad-Bhāgavatam, 10.8.45)
 
 নন্দঃ কিমকরোদ্ব্রহ্মন্ শ্রেয় এবং মহোদয়ম্ ৷  
 যশোদা বা মহাভাগা পপৌ যস্যাঃ স্তনং হরিঃ ॥ ৩৪ ॥
 
 nandaḥ kim akarod brahman  
+Nanda  what  did  O brāhmaṇa  
 śreya evaṁ mahodayam  
+good deed  such  great fruit (bearing)  
 yaśodā vā mahā-bhāgā  
-papau yasyāḥ stanaṁ hariḥ
+Yaśodā  or  most fortunate  
+papau yasyāḥ stanaṁ hariḥ  
+drank  whose  breast  Hari
 
-(34) [not yet translated]
+(34) “O brāhmaṇa, what good deed did Nanda perform to win such great fortune? And what did the most fortunate Yaśodā do, that Hari Himself drank from her breast?” (Śrīmad-Bhāgavatam, 10.8.46)
 
 ঐশ্বর্য্য দেখিলেহ ‘শুদ্ধের’ ঐশ্বর্য্য নহে জ্ঞান ৷  
 অতএব ঐশ্বর্য্য হইতে ‘কেবল’-ভাব প্রধান ॥ ৩৫ ॥
 
 aiśvarya dekhileha ‘śuddhera’ aiśvarya nahe jñāna  
-ataeva aiśvarya haite ‘kevala’-bhāva pradhāna
+majesty  even on seeing  ‘the pure one’s’  of majesty  is not  awareness  
+ataeva aiśvarya haite ‘kevala’-bhāva pradhāna  
+therefore  than majesty  ‘pure’ bhāva  superior
 
-(35) [not yet translated]
+(35) Even when he sees Kṛṣṇa’s majesty, one whose *bhāva* is pure has no awareness of it. Therefore pure *bhāva* is superior to the mood of majesty.
 
 এ সব শিখাইলা মোরে রায়-রামানন্দ ৷  
 সে-সব শুনিতে হয় পরম আনন্দ ॥ ৩৬ ॥
 
 e saba śikhāilā more rāya-rāmānanda  
-se-saba śunite haya parama ānanda
+these  all  taught  Me  Rāya Rāmānanda  
+se-saba śunite haya parama ānanda  
+those all  to hear  is  supreme  bliss
 
-(36) [not yet translated]
+(36) All this Rāya Rāmānanda taught Me, and to hear it is supreme bliss.
 
 কহন না যায় রামানন্দের প্রভাব ৷  
 রায়-প্রসাদে জানিলুঁ ব্রজের ‘শুদ্ধ’ ভাব ॥ ৩৭ ॥
 
 kahana nā yāya rāmānandera prabhāva  
-rāya-prasāde jāniluṅ vrajera ‘śuddha’ bhāva
+to tell  not  is possible  Rāmānanda’s  power  
+rāya-prasāde jāniluṅ vrajera ‘śuddha’ bhāva  
+by Rāya’s grace  I came to know  of Vraja  the ‘pure’  bhāva
 
-(37) [not yet translated]
+(37) Rāmānanda’s power cannot be described. By Rāya’s grace I came to know the pure *bhāva* of Vraja.
 
 দামোদর-স্বরূপ — ‘প্রেমরস’ মূর্ত্তিমান্ ৷  
 য়াঁর সঙ্গে হৈল ব্রজ-মধুর-রস-জ্ঞান ॥ ৩৮ ॥
 
 dāmodara-svarūpa — ‘prema-rasa’ mūrtimān  
-yāṅra saṅge haila vraja-madhura-rasa-jñāna
+Dāmodara Svarūpa  ‘the rasa of prema’  embodied  
+yāṅra saṅge haila vraja-madhura-rasa-jñāna  
+whose  in the company  arose  of the madhura-rasa of Vraja  the knowledge
 
-(38) [not yet translated]
+(38) Dāmodara Svarūpa is the *rasa* of *prema* embodied. In his company I came to know the sweet *rasa* (*madhura-rasa*) of Vraja.
 
 ‘শুদ্ধপ্রেম’ ব্রজদেবীর — কামগন্ধহীন ৷  
 ‘কৃষ্ণসুখতাৎপর্য্য’, — এই তার চিহ্ন ॥ ৩৯ ॥
 
 ‘śuddha-prema’ vraja-devīra — kāma-gandha-hīna  
-‘kṛṣṇa-sukha-tātparya’, — ei tāra cihna
+‘pure prema’  of the goddesses of Vraja  of lust the scent  without  
+‘kṛṣṇa-sukha-tātparya’, — ei tāra cihna  
+‘Kṛṣṇa’s happiness as the aim’  this  its  sign
 
-(39) [not yet translated]
+(39) The pure *prema* of the goddesses of Vraja is without even a trace of lust (*kāma*). Its sign is this: its only aim is Kṛṣṇa’s happiness.
 
 যত্তে সুজাতচরণাম্বুরুহং স্তনেষু  
 ভীতাঃ শনৈঃ প্রিয় দধীমহি কর্কশেষু ৷  
@@ -412,11 +436,15 @@ yāṅra saṅge haila vraja-madhura-rasa-jñāna
 কূর্পাদিভির্ভ্রমতি ধীর্ভবদায়ুষাং নঃ ॥ ৪০ ॥
 
 yat te sujāta-caraṇāmburuhaṁ staneṣu  
+which  Your  tender  lotus feet  on the breasts  
 bhītāḥ śanaiḥ priya dadhīmahi karkaśeṣu  
+fearful  gently  O dear  we place  hard  
 tenāṭavīm aṭasi tad vyathate na kiṁ svit  
-kūrpādibhir bhramati dhīr bhavad-āyuṣāṁ naḥ
+with them  the forest  You wander  they  are pained  not  whether  
+kūrpādibhir bhramati dhīr bhavad-āyuṣāṁ naḥ  
+by fine stones and such  whirls  the mind  of whom You are the life  our
 
-(40) [not yet translated]
+(40) “O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.” (Śrīmad-Bhāgavatam, 10.31.19)
 
 পতিসুতান্বয়ভ্রাতৃবান্ধবা-  
 নতিবিলঙ্ঘ্য তেঽন্ত্যচ্যুতাগতাঃ ৷  
@@ -424,19 +452,25 @@ kūrpādibhir bhramati dhīr bhavad-āyuṣāṁ naḥ
 কিতব যোষিতঃ কস্ত্যজেন্নিশি ॥ ৪১ ॥
 
 pati-sutānvaya-bhrātṛ-bāndhavān  
+husbands, sons, kin, brothers and relatives  
 ativilaṅghya te ’nty acyutāgatāḥ  
+wholly disregarding  Your  to the side  O Acyuta  come  
 gati-vidas tavodgīta-mohitāḥ  
-kitava yoṣitaḥ kas tyajen niśi
+knowing our purpose  by Your song  enchanted  
+kitava yoṣitaḥ kas tyajen niśi  
+O cheat  women  who  would abandon  at night
 
-(41) [not yet translated]
+(41) “Disregarding husbands, sons, kin, brothers and relatives, we have come to Your side, O Acyuta, enchanted by Your song. You know why we have come. O cheat, who would abandon women at night?” (Śrīmad-Bhāgavatam, 10.31.16)
 
 সর্ব্বোত্তম ভজন এই সর্ব্বভক্তি জিনি’ ৷  
 অতএব কৃষ্ণ কহে, — ‘আমি তোমার ঋণী’ ॥ ৪২ ॥
 
 sarvottama bhajana ei sarva-bhakti jini’  
-ataeva kṛṣṇa kahe, — ‘āmi tomāra ṛṇī’
+the highest  worship  this  every form of bhakti  surpassing  
+ataeva kṛṣṇa kahe, — ‘āmi tomāra ṛṇī’  
+therefore  Kṛṣṇa  says  ‘I  your  debtor’
 
-(42) [not yet translated]
+(42) This worship is the highest of all, surpassing every form of *bhakti*. Therefore Kṛṣṇa says, ‘I am your debtor.’
 
 ন পারয়েঽহং নিরবদ্যসংয়ুজাং  
 স্বসাধুকৃত্যং বিবুধায়ুষাপি বঃ ৷  
@@ -444,147 +478,185 @@ ataeva kṛṣṇa kahe, — ‘āmi tomāra ṛṇī’
 সংবৃশ্চ্য তদ্বঃ প্রতিয়াতু সাধুনা ॥ ৪৩ ॥
 
 na pāraye ’haṁ niravadya-saṁyujāṁ  
+not  am able  I  of the faultlessly united  
 sva-sādhu-kṛtyaṁ vibudhāyuṣāpi vaḥ  
+own good deed  in a god’s lifetime  even  to you  
 yā mā ’bhajan durjaya-geha-śṛṅkhalāḥ  
-saṁvṛścya tad vaḥ pratiyātu sādhunā
+who  Me  worshipped  hard to conquer  of home  the fetters  
+saṁvṛścya tad vaḥ pratiyātu sādhunā  
+completely cutting  that  your  let it be requited  by the good deed
 
-(43) [not yet translated]
+(43) “O gopīs, your union with Me is faultless. Even in a lifetime of the gods I could not repay you for what you have done: you cut the fetters of home, so hard to break, and came to Me. So let your own good deed be your reward.” (Śrīmad-Bhāgavatam, 10.32.22)
 
 ঐশ্বর্য্য-জ্ঞান হৈতে কেবলা-ভাব — প্রধান ৷  
 পৃথিবীতে ভক্ত নাহি উদ্ধব-সমান ॥ ৪৪ ॥
 
 aiśvarya-jñāna haite kevalā-bhāva — pradhāna  
-pṛthivīte bhakta nāhi uddhava-samāna
+of majesty  the knowledge  than  pure bhāva  superior  
+pṛthivīte bhakta nāhi uddhava-samāna  
+on earth  devotee  there is not  Uddhava’s  equal
 
-(44) [not yet translated]
+(44) Pure *bhāva* is superior to the knowledge of majesty. On earth there is no devotee equal to Uddhava,
 
 তেঁহ যাঁর পদধূলি করেন প্রার্থন ৷  
 স্বরূপের সঙ্গে পাইলুঁ এ সব শিক্ষণ ॥ ৪৫ ॥
 
 teṅha yāṅra padadhūli karena prārthana  
-svarūpera saṅge pāiluṅ e saba śikṣaṇa
+he  whose  the dust of the feet  does  pray for  
+svarūpera saṅge pāiluṅ e saba śikṣaṇa  
+Svarūpa’s  in the company  I received  these  all  teachings
 
-(45) [not yet translated]
+(45) yet he prays for the dust of their feet. All this I learned in the company of Svarūpa.
 
 হরিদাস-ঠাকুর — মহাভাগবত-প্রধান ৷  
 প্রতি দিন লয় তেঁহ তিনলক্ষ নাম ॥ ৪৬ ॥
 
 haridāsa-ṭhākura — mahā-bhāgavata-pradhāna  
-prati dina laya teṅha tina-lakṣa nāma
+Haridāsa Ṭhākura  of the great bhāgavatas  the foremost  
+prati dina laya teṅha tina-lakṣa nāma  
+every  day  takes  he  three lakhs  names
 
-(46) [not yet translated]
+(46) Haridāsa Ṭhākura is the foremost of the great *bhāgavatas*. Every day he chants three lakhs (three hundred thousand) of names.
 
 নামের মহিমা আমি তাঁর ঠাঞি শিখিলুঁ ৷  
 তাঁর প্রসাদে নামের মহিমা জানিলুঁ ॥ ৪৭ ॥
 
 nāmera mahimā āmi tāṅra ṭhāñi śikhiluṅ  
-tāṅra prasāde nāmera mahimā jāniluṅ
+of the name  the glory  I  from him  learned  
+tāṅra prasāde nāmera mahimā jāniluṅ  
+by his  grace  of the name  the glory  I came to know
 
-(47) [not yet translated]
+(47) From him I learned the glory of the name; by his grace I came to know the glory of the name.
 
 আচার্য্যরত্ন, আচার্য্যনিধি, পণ্ডিত-গদাধর ৷  
 জগদানন্দ, দামোদর, শঙ্কর, বক্রেশ্বর ॥ ৪৮ ॥
 
 ācāryaratna, ācāryanidhi, paṇḍita-gadādhara  
-jagadānanda, dāmodara, śaṅkara, vakreśvara
+Ācāryaratna,  Ācāryanidhi,  Paṇḍita Gadādhara  
+jagadānanda, dāmodara, śaṅkara, vakreśvara  
+Jagadānanda,  Dāmodara,  Śaṅkara,  Vakreśvara
 
-(48) [not yet translated]
+(48) Ācāryaratna, Ācāryanidhi, Gadādhara Paṇḍita, Jagadānanda, Dāmodara, Śaṅkara, Vakreśvara,
 
 কাশীশ্বর, মুকুন্দ, বাসুদেব, মুরারি ৷  
 আর যত ভক্তগণ গৌড়ে অবতরি’ ॥ ৪৯ ॥
 
 kāśīśvara, mukunda, vāsudeva, murāri  
-āra yata bhakta-gaṇa gauḍe avatari’
+Kāśīśvara,  Mukunda,  Vāsudeva,  Murāri  
+āra yata bhakta-gaṇa gauḍe avatari’  
+and  all the  devotees  in Gauḍa  having descended
 
-(49) [not yet translated]
+(49) Kāśīśvara, Mukunda, Vāsudeva, Murāri and all the other devotees who descended in Gauḍa
 
 কৃষ্ণ-নাম-প্রেম কৈলা জগতে প্রচার ৷  
 ইঁহা সবার সঙ্গে কৃষ্ণভক্তি যে আমার ॥ ৫০ ॥
 
 kṛṣṇa-nāma-prema kailā jagate pracāra  
-iṅhā sabāra saṅge kṛṣṇa-bhakti ye āmāra
+of Kṛṣṇa’s name and prema  made  in the world  preaching  
+iṅhā sabāra saṅge kṛṣṇa-bhakti ye āmāra  
+of these  all  in the company  devotion to Kṛṣṇa  which  My
 
-(50) [not yet translated]
+(50) have preached the name of Kṛṣṇa and *prema* throughout the world. It is in the company of all of them that I have My devotion to Kṛṣṇa.”
 
 ভট্টের হৃদয়ে দৃঢ় অভিমান জানি’ ৷  
 ভঙ্গী করি’ মহাপ্রভু কহে এত বাণী ॥ ৫১ ॥
 
 bhaṭṭera hṛdaye dṛḍha abhimāna jāni’  
-bhaṅgī kari’ mahāprabhu kahe eta vāṇī
+in the Bhaṭṭa’s  heart  firm  pride  knowing  
+bhaṅgī kari’ mahāprabhu kahe eta vāṇī  
+a hint  making  Mahāprabhu  spoke  these  words
 
-(51) [not yet translated]
+(51) Knowing the firm pride in the Bhaṭṭa’s heart, Mahāprabhu spoke these words indirectly, to hint at it.
 
 আমি সে ‘বৈষ্ণব’, — ভক্তিসিদ্ধান্ত সব জানি ৷  
 আমি সে ভাগবত-অর্থ উত্তম বাখানি ॥ ৫২ ॥
 
 āmi se ‘vaiṣṇava’, — bhakti-siddhānta saba jāni  
-āmi se bhāgavata-artha uttama vākhāni
+I  indeed  ‘a Vaiṣṇava’  of bhakti the conclusions  all  I know  
+āmi se bhāgavata-artha uttama vākhāni  
+I  indeed  of the Bhāgavata the meaning  excellently  explain
 
-(52) [not yet translated]
+(52) ‘I am a Vaiṣṇava; I know all the conclusions of *bhakti*. I am the one who explains the meaning of the Bhāgavata excellently’ —
 
 ভট্টের মনেতে এই ছিল দীর্ঘ গর্ব্ব ৷  
 প্রভুর বচন শুনি’ সে হইল খর্ব্ব ॥ ৫৩ ॥
 
 bhaṭṭera manete ei chila dīrgha garva  
-prabhura vacana śuni’ se haila kharva
+the Bhaṭṭa’s  in the mind  this  was  long-standing  pride  
+prabhura vacana śuni’ se haila kharva  
+the Lord’s  words  hearing  that  became  humbled
 
-(53) [not yet translated]
+(53) such was the long-standing pride in the Bhaṭṭa’s mind. Hearing the Lord’s words, that pride was humbled.
 
 প্রভুর মুখে বৈষ্ণবতা শুনিয়া সবার ৷  
 ভট্টের ইচ্ছা হৈল তাঁ-সবারে দেখিবার ॥ ৫৪ ॥
 
 prabhura mukhe vaiṣṇavatā śuniyā sabāra  
-bhaṭṭera icchā haila tāṅ-sabāre dekhibāra
+the Lord’s  from the mouth  the Vaiṣṇava qualities  hearing  of all  
+bhaṭṭera icchā haila tāṅ-sabāre dekhibāra  
+the Bhaṭṭa’s  desire  arose  them all  to see
 
-(54) [not yet translated]
+(54) Hearing from the Lord’s own mouth about the Vaiṣṇava qualities of all these devotees, the Bhaṭṭa wished to see them all.
 
 ভট্ট কহে, — এ সব বৈষ্ণব রহে কোন্ স্থানে ?  
 কোন্প্রকারে পাইমু ইঁহা-সবার দর্শনে ? ॥ ৫৫ ॥
 
 bhaṭṭa kahe, — e saba vaiṣṇava rahe kon sthāne?  
-kon prakāre pāimu iṅhā-sabāra darśane?
+the Bhaṭṭa  says  these  all  Vaiṣṇavas  stay  in what  place  
+kon prakāre pāimu iṅhā-sabāra darśane?  
+in what  way  shall I obtain  of these all  the sight
 
-(55) [not yet translated]
+(55) The Bhaṭṭa said, “Where do all these Vaiṣṇavas live? How can I see them?”
 
 প্রভু কহে, — কেহ গৌড়ে, কেহ দেশান্তরে ৷  
 সব আসিয়াছে রথযাত্রা দেখিবারে ॥ ৫৬ ॥
 
 prabhu kahe, — keha gauḍe, keha deśāntare  
-saba āsiyāche ratha-yātrā dekhibāre
+the Lord  says  some  in Gauḍa  some  in other lands  
+saba āsiyāche ratha-yātrā dekhibāre  
+all  have come  the Ratha-yātrā  to see
 
-(56) [not yet translated]
+(56) The Lord said, “Some live in Gauḍa, some in other lands, but all have come to see the Ratha-yātrā.
 
 ইঁহাই রহেন সবে, বাসা — নানা-স্থানে ৷  
 ইঁহাই পাইবা তুমি সবার দর্শনে ॥ ৫৭ ॥
 
 iṅhāi rahena sabe, vāsā — nānā-sthāne  
-iṅhāi pāibā tumi sabāra darśane
+here  stay  all  lodgings  in various places  
+iṅhāi pāibā tumi sabāra darśane  
+here  will obtain  you  of all  the sight
 
-(57) [not yet translated]
+(57) They are all staying here, in lodgings in various places. Here you will be able to see them all.”
 
 তবে ভট্ট কহে বহু বিনয় বচন ৷  
 বহু যত্ন করি’ প্রভুরে কৈল নিমন্ত্রণ ॥ ৫৮ ॥
 
 tabe bhaṭṭa kahe bahu vinaya vacana  
-bahu yatna kari’ prabhure kaila nimantraṇa
+then  the Bhaṭṭa  spoke  many  humble  words  
+bahu yatna kari’ prabhure kaila nimantraṇa  
+great  effort  making  the Lord  made  an invitation
 
-(58) [not yet translated]
+(58) Then the Bhaṭṭa spoke many humble words and earnestly invited the Lord to a meal.
 
 আর দিন সব বৈষ্ণব প্রভু-স্থানে আইলা ৷  
 সবা-সনে মহাপ্রভু ভট্টে মিলাইলা ॥ ৫৯ ॥
 
 āra dina saba vaiṣṇava prabhu-sthāne āilā  
-sabā-sane mahāprabhu bhaṭṭe milāilā
+the next  day  all  Vaiṣṇavas  to the Lord’s place  came  
+sabā-sane mahāprabhu bhaṭṭe milāilā  
+with all of them  Mahāprabhu  the Bhaṭṭa  made meet
 
-(59) [not yet translated]
+(59) The next day all the Vaiṣṇavas came to the Lord, and Mahāprabhu introduced the Bhaṭṭa to them all.
 
 ‘বৈষ্ণবে’র তেজ দেখি’ ভট্টের চমৎকার ৷  
 তাঁ-সবার আগে ভট্ট — খদ্যোত-আকার ॥ ৬০ ॥
 
 ‘vaiṣṇave’ra teja dekhi’ bhaṭṭera camatkāra  
-tāṅ-sabāra āge bhaṭṭa — khadyota-ākāra
+of the Vaiṣṇavas  the radiance  seeing  the Bhaṭṭa’s  amazement  
+tāṅ-sabāra āge bhaṭṭa — khadyota-ākāra  
+them all  before  the Bhaṭṭa  a firefly’s  form
 
-(60) [not yet translated]
+(60) Seeing the radiance of the Vaiṣṇavas, the Bhaṭṭa was amazed: before them all he was like a firefly.
 
 তবে ভট্ট বহু মহাপ্রসাদ আনাইল ৷  
 গণ-সহ মহাপ্রভুরে ভোজন করাইল ॥ ৬১ ॥
