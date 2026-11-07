@@ -62,7 +62,7 @@ the Lord  ‘regarding him as a bhāgavata’  gave  an embrace
 বিনয় করিয়া ভট্ট কহিতে লাগিলা ॥ ৬ ॥
 
 mānya kari’ prabhu tāre nikaṭe vasāilā  
-honor  showing  the Lord  him  near  seated  
+honour  showing  the Lord  him  near  seated  
 vinaya kariyā bhaṭṭa kahite lāgilā  
 humility  showing  the Bhaṭṭa  to speak  began
 
@@ -744,7 +744,7 @@ the sound of Hari  rose  the whole  universe  filling
 mālā, candana, guvāka, pāna aneka ānila  
 garlands,  sandal paste,  areca nuts,  betel leaves  plenty  brought  
 sabā’ pūjā kari’ bhaṭṭa ānandita haila  
-all  honoring  the Bhaṭṭa  joyful  became
+all  honouring  the Bhaṭṭa  joyful  became
 
 (69) He brought plenty of garlands, sandal paste, areca nuts and betel leaves. Honouring everyone with them, the Bhaṭṭa was filled with joy.
 
@@ -936,7 +936,7 @@ the Bhaṭṭa’s  explanations  any  not  do  hear
 দুঃখিত হঞা গেল পণ্ডিতের স্থানে ॥ ৮৮ ॥
 
 lajjita haila bhaṭṭa, haila apamāne  
-ashamed  became  the Bhaṭṭa,  was  in dishonor  
+ashamed  became  the Bhaṭṭa,  was  in dishonour  
 duḥkhita hañā gela paṇḍitera sthāne  
 grieved  being  he went  to the Paṇḍita’s  place
 
@@ -1248,9 +1248,9 @@ of the Lord  the nature  does  of all  the good
 āpanā jānāite āmi kari abhimāna  
 myself  to make known  I  do  pride  
 se garva khaṇḍāite mora karena apamāna  
-that  pride  to break  me  does  dishonor
+that  pride  to break  me  does  dishonour
 
-(119) To make a name for myself, I give way to pride; to break that pride, He dishonours me.
+(119) To make a name for myself, I give way to pride; to break that pride, He dishonours me.[^39]
 
 আমার ‘হিত’ করেন, — ইহো আমি মানি ‘দুঃখ’ ৷  
 কৃষ্ণের উপরে কৈল যেন ইন্দ্র মহামূর্খ ॥ ১২০ ॥
@@ -1260,7 +1260,7 @@ my  ‘good’  He does,  this  I  regard  ‘sorrow’
 kṛṣṇera upare kaila yena indra mahāmūrkha  
 Kṛṣṇa  toward  did  as  Indra  great fool
 
-(120) He is doing me good, yet I take it as sorrow — just as Indra, that great fool, behaved toward Kṛṣṇa.”
+(120) He is doing me good, yet I take it as sorrow — just as Indra, that great fool, behaved toward Kṛṣṇa.”[^40]
 
 এত চিন্তি’ প্রাতে আসি’ প্রভুর চরণে ৷  
 দৈন্য করি’ স্তুতি করি’ লইল শরণে ॥ ১২১ ॥
@@ -1288,7 +1288,7 @@ You  before  fool  I  learning  displayed
 tumi — īśvara, nijocita kṛpā kailā  
 You  the Lord,  befitting Yourself  mercy  showed  
 apamāna kari’ sarva garva khaṇḍāilā  
-dishonor  doing  all  pride  You broke
+dishonour  doing  all  pride  You broke
 
 (123) You are the Lord, and You showed mercy befitting Yourself: by dishonouring me, You broke all my pride.
 
@@ -1296,7 +1296,7 @@ dishonor  doing  all  pride  You broke
 ইন্দ্র যেন কৃষ্ণের নিন্দা করিল অজ্ঞানে ॥ ১২৪ ॥
 
 āmi — ajña, ‘hita’-sthāne māni ‘apamāne’  
-I  ignorant,  ‘good’  in place of  I regard  ‘dishonor’  
+I  ignorant,  ‘good’  in place of  I regard  ‘dishonour’  
 indra yena kṛṣṇera nindā karila ajñāne  
 Indra  as  of Kṛṣṇa  blasphemy  did  in ignorance
 
@@ -1316,7 +1316,7 @@ You  so much  mercy  showed  now  ‘knowledge’  has come
 কৃপা করি’ মোর মাথে ধরহ চরণ ॥ ১২৬ ॥
 
 aparādha kainu, kṣama, lainu śaraṇa  
-offenses  I committed,  forgive,  I have taken  shelter  
+offences  I committed,  forgive,  I have taken  shelter  
 kṛpā kari’ mora māthe dharaha caraṇa  
 mercy  showing  on my  head  place  Your feet
 
@@ -1370,7 +1370,7 @@ the world’s guru  Śrīdhara  Svāmī  ‘guru’  as  I accept
 saba loka mānya kari’ karibe grahaṇa  
 all  people  respect  showing  will make  acceptance
 
-(131) But whoever writes in the footsteps of Śrīdhara, all people will honour and accept.
+(131) But what is written in the footsteps of Śrīdhara all people will honour and accept.
 
 শ্রীধরানুগত কর ভাগবত-ব্যাখ্যান ৷  
 অভিমান ছাড়ি’ ভজ কৃষ্ণ ভগবান্ ॥ ১৩২ ॥
@@ -1386,11 +1386,11 @@ pride  giving up  worship  Kṛṣṇa  Bhagavān
 অচিরাৎ পাবে তবে কৃষ্ণের চরণ ॥ ১৩৩ ॥
 
 aparādha chāḍi’ kara kṛṣṇa-saṅkīrtana  
-offenses  giving up  do  Kṛṣṇa  saṅkīrtana  
+offences  giving up  do  Kṛṣṇa  saṅkīrtana  
 acirāt pābe tabe kṛṣṇera caraṇa  
 very soon  you will attain  then  Kṛṣṇa’s  feet
 
-(133) Give up offences and perform the saṅkīrtana of Kṛṣṇa. Then you will very soon attain the feet of Kṛṣṇa.”
+(133) Give up offences and perform the saṅkīrtana of Kṛṣṇa. Then you will very soon attain the feet of Kṛṣṇa.”[^41]
 
 ভট্ট কহে, — যদি মোরে হইলা প্রসন্ন ৷  
 একদিন পুনঃ মোর মান’ নিমন্ত্রণ ॥ ১৩৪ ॥
@@ -1410,7 +1410,7 @@ the Lord  descended  has  the world  to deliver
 mānilena nimantraṇa, tāre sukha dite  
 He accepted  the invitation,  to him  joy  to give
 
-(135) The Lord has descended to deliver the world, so He accepted the invitation to give the Bhaṭṭa joy.
+(135) The Lord descended to deliver the world; He accepted the invitation to give the Bhaṭṭa joy.
 
 জগতের ‘হিত’ হউক — এই প্রভুর মন ৷  
 দণ্ড করি’ করে তার হৃদয় শোধন ॥ ১৩৬ ॥
@@ -1440,7 +1440,7 @@ of Jagadānanda  Paṇḍita  pure  deep  bhāva
 satyabhāmā-prāya prema ‘vāmya-svabhāva’  
 Satyabhāmā  like  love  ‘contrary nature’
 
-(138) Jagadānanda Paṇḍita’s *bhāva* was pure and deep. Like Satyabhāmā’s, his love had a contrary nature (*vāmya*).
+(138) Jagadānanda Paṇḍita’s bhāva was pure and deep. Like Satyabhāmā’s, his love had a contrary nature (*vāmya*).[^42]
 
 বার-বার প্রণয় কলহ করে প্রভু-সনে ৷  
 অন্যোঽন্যে খট্মটি চলে দুইজনে ॥ ১৩৯ ॥
@@ -1450,7 +1450,7 @@ again and again  loving  quarrels  makes  with the Lord
 anyo-’nye khaṭmaṭi cale dui-jane  
 mutually  squabbling  goes on  between the two
 
-(139) Again and again he had loving quarrels with the Lord, and the two of them kept squabbling with each other.
+(139) Again and again he had loving quarrels with the Lord, and the two of them kept squabbling with each other.[^43]
 
 গদাধর-পণ্ডিতের শুদ্ধ গাঢ় ভাব ৷  
 রুক্মিণী-দেবীর যৈছে ‘দক্ষিণ-স্বভাব’ ॥ ১৪০ ॥
@@ -1460,7 +1460,7 @@ of Gadādhara  Paṇḍita  pure  deep  bhāva
 rukmiṇī-devīra yaiche ‘dakṣiṇa-svabhāva’  
 of Rukmiṇī  Devī  as  ‘compliant nature’
 
-(140) Gadādhara Paṇḍita’s *bhāva* was pure and deep, with a compliant nature (*dakṣiṇa*) like that of Rukmiṇī-devī.
+(140) Gadādhara Paṇḍita’s bhāva was pure and deep, with a compliant nature (*dakṣiṇa*) like that of Rukmiṇī-devī.[^44]
 
 তাঁর প্রণয়-রোষ দেখিতে প্রভুর ইচ্ছা হয় ৷  
 ঐশ্বর্য্য-জ্ঞানে তাঁর রোষ নাহি উপজয় ॥ ১৪১ ॥
@@ -1480,7 +1480,7 @@ this  pretext  getting  the Lord  made  a semblance of anger
 śuni’ paṇḍitera citte upajila trāsa  
 hearing  in the Paṇḍita’s  heart  arose  fear
 
-(142) Taking this occasion, the Lord feigned anger, and when the Paṇḍita heard of it, fear arose in his heart.
+(142) Taking this occasion, the Lord feigned anger, and when the Paṇḍita heard of it, fear arose in his heart.[^45]
 
 পূর্ব্বে যেন কৃষ্ণ যদি উপহাস কৈল ৷  
 শুনি’ রুক্মিণীর মনে ত্রাস উপজিল ॥ ১৪৩ ॥
@@ -1500,7 +1500,7 @@ of Vallabha  Bhaṭṭa  is  parental-love  worship
 bāla-gopāla-mantre tem̐ho karena sevana  
 with the Bāla-gopāla  mantra  he  does  service
 
-(144) Vallabha Bhaṭṭa worshiped in the mood of parental love (*vātsalya*); he served with the Bāla-gopāla mantra.
+(144) Vallabha Bhaṭṭa worshipped in the mood of parental love (*vātsalya*); he served with the Bāla-gopāla mantra.
 
 পণ্ডিতের সনে তার মন ফিরি’ গেল ৷  
 কিশোরগোপাল-উপাসনায় মন দিল ॥ ১৪৫ ॥
@@ -1510,7 +1510,7 @@ the Paṇḍita’s  in company  his  mind  turned  went
 kiśora-gopāla-upāsanāya mana dila  
 to the Kiśora-gopāla  worship  mind  he gave
 
-(145) In the company of the Paṇḍita his mind changed, and he turned his mind to the worship of Kiśora-gopāla.
+(145) In the company of the Paṇḍita his heart changed, and he gave his mind to the worship of Kiśora-gopāla.[^46]
 
 পণ্ডিতের ঠাঞি চাহে মন্ত্রাদি শিখিতে ৷  
 পণ্ডিত কহে, — এই কর্ম্ম নহে আমা হৈতে ॥ ১৪৬ ॥
@@ -1650,17 +1650,17 @@ of the Paṇḍita  of the bhāva  the marks  description  not  goes
 ‘gadādhara-prāṇa-nātha’ nāma haila yāya  
 ‘Gadādhara’s  life’s  Lord’  name  became  by which
 
-(159) The marks of the Paṇḍita’s *bhāva* cannot be described; by them the Lord came to be named ‘Gadādhara-prāṇanātha’ (Lord of Gadādhara’s life).
+(159) The marks of the Paṇḍita’s bhāva cannot be described; by them the Lord came to be named ‘Gadādhara-prāṇanātha’ (Lord of Gadādhara’s life).
 
 পণ্ডিতে প্রভুর প্রসাদ কহন না যায় ৷  
 ‘গদাই-গৌরাঙ্গ’ বলি’ যাঁরে লোকে গায় ॥ ১৬০ ॥
 
 paṇḍite prabhura prasāda kahana nā yāya  
-to the Paṇḍita  the Lord’s  favor  description  not  goes  
+to the Paṇḍita  the Lord’s  favour  description  not  goes  
 ‘gadāi-gaurāṅga’ bali’ yām̐re loke gāya  
 ‘Gadāi-Gaurāṅga’  calling  whom  people  sing
 
-(160) The Lord’s favor to the Paṇḍita cannot be described. People sing of Him as ‘Gadāi-Gaurāṅga.’
+(160) The Lord’s favour to the Paṇḍita cannot be described. People sing of Him as ‘Gadāi-Gaurāṅga.’
 
 চৈতন্যপ্রভুর লীলা কে বুঝিতে পারে ?  
 একলীলায় বহে গঙ্গার শত শত ধারে ॥ ১৬১ ॥
@@ -1700,7 +1700,7 @@ within  ‘grace’,  outwardly  ‘like disregard’
 bāhyārtha yei laya, sei nāśa yāya  
 the outer meaning  whoever  takes,  he  ruin  goes to
 
-(164) Within is grace; outwardly it looks like disregard. Whoever takes only the outer meaning is ruined.
+(164) Within is grace; outwardly it looks like disregard. Whoever takes only the outer meaning is ruined.[^47]
 
 নিগূঢ় চৈতন্যলীলা বুঝিতে কার শক্তি ?  
 সেই বুঝে, গৌরচন্দ্রে যাঁর দৃঢ় ভক্তি ॥ ১৬৫ ॥
@@ -1730,17 +1730,17 @@ right there  Vallabha  Bhaṭṭa  the Lord’s  permission  took
 paṇḍita-ṭhāñi pūrva-prārthita saba siddhi haila  
 from the Paṇḍita  long  prayed for  all  fulfilment  came
 
-(167) There Vallabha Bhaṭṭa received the Lord’s permission, and from the Paṇḍita he obtained all he had long prayed for.
+(167) There Vallabha Bhaṭṭa received the Lord’s permission, and from the Paṇḍita he obtained all he had long prayed for.[^48]
 
 এই ত’ কহিলুঁ বল্লভ-ভট্টের মিলন ৷  
 যাহার শ্রবণে পায় গৌরপ্রেমধন ॥ ১৬৮ ॥
 
 ei ta’ kahilum̐ vallabha-bhaṭṭera milana  
-this  indeed  I have told  of Vallabha  Bhaṭṭa  the meeting  
+this  indeed  I have told  with Vallabha  Bhaṭṭa  the meeting  
 yāhāra śravaṇe pāya gaura-prema-dhana  
 of which  by hearing  one gains  for Gaura  love’s  treasure
 
-(168) Thus I have told of Vallabha Bhaṭṭa’s meeting with the Lord. By hearing of it, one gains the treasure of love for Gaura.
+(168) Thus I have told of the meeting with Vallabha Bhaṭṭa. By hearing of it, one gains the treasure of love for Gaura.[^49]
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৬৯ ॥
@@ -1750,7 +1750,7 @@ of which  by hearing  one gains  for Gaura  love’s  treasure
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(169) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+(169) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^50]
 
 ---
 
@@ -1824,8 +1824,32 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^35]: *Anubhāṣya*: the Lord knew the position the Paṇḍita was in, so he had no fear of His displeasure. What he feared was that some Vaiṣṇava might call him “Vallabha’s companion” and speak against him.
 
-[^36]: Heading in the edition: to show Vallabha mercy and point out his eternal good, the Lord answers sharply and severely, yet truly: the *jīva*, by nature *prakṛti*, is enjoined by Kṛṣṇa Himself, her husband, always to utter His name.
+[^36]: Heading in the edition: to show Vallabha mercy and point out his eternal good, the Lord answers sharply and severely, yet truly: the jīva, by nature *prakṛti*, is enjoined by Kṛṣṇa Himself, her husband, always to utter His name.
 
 [^37]: *Amṛta-pravāha-bhāṣya*: Śrīdhara Svāmī explains each statement just as it stands where it occurs, and so, Vallabha says, there is no unity of meaning in him. The word ‘Svāmī’ is taken up by the Lord in the next verse.
 
 [^38]: A pun: *svāmī* means both Śrīdhara Svāmī and “husband, master”; the Lord answers with Vallabha’s own words (110) and continues the image of the faithful wife (99–103). Heading in the edition: the Lord upholds the commentary of Śrīdhara Svāmī, “the sole guardian of bhakti”; only Śrīdhara accepts Viṣṇu, the one Spirit, as Lord (*svāmī*), while his opponent, who mixes spirit and matter, is the one who is wayward.
+
+[^39]: Heading in the edition: by disregard, dishonour and other dealings unpleasant to the senses, the Lord, partial to no one, frees the scholar who has turned from Him of arrogance and envy.
+
+[^40]: Heading in the edition: wise is one who sees the Lord’s mercy in the fruits of karma that are painful at first but beneficial in the end.
+
+[^41]: The second line is the same as Antya 3.136; translation as there. Heading in the edition: the kīrtana of Kṛṣṇa free of the ten offences to the holy name leads to Kṛṣṇa’s feet.
+
+[^42]: Heading in the edition: Jagadānanda is the avatāra of Satyabhāmā; his contrary nature (*vāmya*) and pure, deep love for Gaura. Here the *Anubhāṣya* cites from the *Bṛhad-bhāgavatāmṛta* (1.7.83) the account of how Satyabhāmā, offended, withdrew to the chamber of sulking and Kṛṣṇa ordered her to be brought.
+
+[^43]: Heading in the edition: Jagadānanda’s quarrels of love (*praṇaya-kalaha*) with the Lord.
+
+[^44]: Heading in the edition: Gadādhara is the avatāra of Rukmiṇī; his compliant nature (*dakṣiṇa*) and pure, deep love for Gaura. *Anubhāṣya* (on 140–141): once in Dvārakā Kṛṣṇa jokingly advised Rukmiṇī to choose another husband; she was frightened and, by her compliant nature, fell at His feet. So too in Gaura’s pastimes: Jagadānanda, like Satyabhāmā, is contrary and quarrels out of love, while Gadādhara, like Rukmiṇī, is timid and always follows the Lord in everything.
+
+[^45]: Heading in the edition: on the pretext of goodwill toward Vallabha, the Lord outwardly shows feigned anger and so tests Gadādhara’s love; Gadādhara is frightened.
+
+[^46]: Heading in the edition: association with Gadādhara inclines Vallabha to worship in *madhura-rasa*.
+
+[^47]: *Anubhāṣya*: wishing Vallabha Bhaṭṭa well, the Lord outwardly disregarded him and so cleansed him of the conceit of a scholar and a Vaiṣṇava; and since Gadādhara Paṇḍita had not rejected Vallabha altogether, for some days the Lord showed disregard to him as well. Yet Mahāprabhu was never displeased with Gadādhara, the embodiment of His own *svarūpa-śakti*, nor can He be; whoever fails to grasp the hidden meaning of this pastime and loses faith in Śrī Gadādhara’s feet will surely fall.
+
+[^48]: Heading in the edition: there Vallabha receives from Gadādhara initiation into the Kiśora-gopāla mantra in *madhura-rasa*.
+
+[^49]: Heading in the edition: the meeting of Gadādhara and Vallabha grants love for Gaura.
+
+[^50]: The same colophon verse as Antya 2.172; translation as there.
