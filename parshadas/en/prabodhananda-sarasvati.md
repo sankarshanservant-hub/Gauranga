@@ -26,17 +26,17 @@ they were worshippers of Lakshmi-Narayana; by the Lord's mercy they became intox
 Krishna.” (“Bhakti-ratnakara,” 1.83–84)
 
 Prabodhananda, by most accounts, was the youngest: Srila Bhaktisiddhanta in the “Gaudiya-bhashya” calls him the younger
-brother of Venkata Bhatta, who lived on the bank of the Kaveri, and the late “Anuraga-valli” makes him the youngest of
-the three, after Trimalla the eldest and Venkata the middle one[^3]. Venkata's son was Gopala, the future Gopala Bhatta
+brother of Venkata Bhatta, who lived on the bank of the Kaveri, and one of the biographies, citing the late
+“Anuraga-valli,” makes him the youngest of the three, after Trimalla the eldest and Venkata the middle one[^3]. Venkata's son was Gopala, the future Gopala Bhatta
 Gosvami, and Prabodhananda was thus his paternal uncle. “Sri Gopala, the nephew of Prabodhananda,” the
 “Bhakti-ratnakara” calls him (1.155), and so too does the “Sadhana-dipika,” which Narahari quotes (4.329).
 <!-- F3 F4 Q3 -->
 
 The brothers had moved to Shrirangam — Ranga-kshetra — from the region of Mysore, but they were apparently not Tamils
 by birth: Srila Bhaktisiddhanta in his preface to the “Chaitanya-chandramrita” calls them natives of Andhra, or of the
-Northern Region[^4]. In his commentary on the “Charitamrita” he remarks that the names Venkata and Tirumalai are not in
+Northern Region[^4]. In his commentary on the “Charitamrita” (Madhya 9.82) he remarks that the names Venkata and Tirumalai are not in
 use in Tamil Nadu, so the family had probably settled in Shrirangam shortly before the Lord's coming; and in the
-“Anubhashya” he explains that Tirumalaya and Venkata were Vadagalais — “Vaishnavas of the northern regions, from
+“Anubhashya” on Madhya 1.109 he explains that Tirumalaya and Venkata were Vadagalais — “Vaishnavas of the northern regions, from
 Andhra” — whereas the native people of Shrirangam are Tengalais. The “Prema-vilasa” says that the three brothers, great
 panditas, lived in Tailanga, the land of the Telugus (20.5), and the “Anuraga-valli” names their homeland Telingana
 (1.46). <!-- F5 -->
@@ -64,7 +64,7 @@ And in the brief summary of the southern pastimes it says:
 Prabodhananda himself the “Charitamrita” does not name — neither here nor anywhere else; why, will be told below. His
 life beside the Lord is described by later books — the “Bhakti-ratnakara,” the “Prema-vilasa,” the “Anuraga-valli.” By
 the Lord's mercy the whole family, who had worshipped Lakshmi-Narayana, turned to the service of Radha and Krishna.
-<!-- F8 F9 Q7 F44 -->
+<!-- F8 F9 Q7 F44 F47 -->
 
 The “Bhakti-ratnakara” tells how the brothers, knowing that the Lord would stay with them only four months, could find
 no peace:
@@ -111,7 +111,7 @@ his disciple, and Narahari Chakravarti quotes the verse:
 pleasing Raghunatha Dasa, Rupa and Sanatana.” (“Hari-bhakti-vilasa,” 1.2; “Bhakti-ratnakara,” 1.151)
 
 Srila Bhaktisiddhanta writes in the “Anubhashya” (Adi 10.105) that Gopala received initiation from his paternal uncle,
-the tridandi Shrimat Prabodhananda Sarasvati; some biographies understand it so as well. Others call Gopala his
+the tridandi Shrimat Prabodhananda Sarasvati; one of the biographies understands it so as well. Another calls Gopala his
 shiksha-disciple — one who received instruction from him. The “Anuraga-valli” calls Prabodhananda Gopala's “former
 guru”: learning, upanayana, instruction in right conduct — all he received from his uncle, and to him, his teacher, he
 felt a special attachment. Manohara Dasa refers to Sanatana Gosvami's “Dig-darshini” on the same verse of the
@@ -159,8 +159,8 @@ joy I praise the pure Prabodhananda Sarasvati, by whom the ‘Chandramrita’ wa
 Bhatta,” says the Sanskrit “Vaishnava-vandana” attributed to Jiva Gosvami (73); “this book is the treasure and life of
 the devotees,” echoes the “Vaishnava-vandana” of the “second” Vrindavana Dasa (52); and Prabodhananda's name also stands
 in the “Vaishnavabhidhana” of Devakinandana Kaviraja (24). The rasikas especially love this book. Srila Bhaktisiddhanta,
-who published it, writes that its worth lies not in literary craft alone: to the devotees it is infinitely dear; it
-spread widely through Bengal, and even the opponents of Mahaprabhu were purified by reading it. He quotes its verses in
+who published it, writes that it spread widely through Bengal, that even the opponents of Mahaprabhu were purified at
+heart by reading it, and that His followers, reading it, are immersed in an indescribable ocean of bliss. He quotes its verses in
 the “Anubhashya” too (on Adi 7.27 and 13.123). Thus, speaking of how the purpose of the Lord's descent was fulfilled, he
 recalls Prabodhananda's words:
 
@@ -184,7 +184,7 @@ Vrindavana, which devotees read daily even now; the “Navadvipa-shataka,” sim
 Bhaktisiddhanta published it together with the “Chaitanya-chandramrita.” Theodor Aufrecht's catalogue counts the
 “Sangita-madhava” among his works; Srila Bhaktisiddhanta found this book and printed it in the “Sajjana-toshani”
 (vol. 18, nos. 5–12). Also named are the “Ashcharya-rasa-prabandha” and the “Viveka-shataka” — the latter Aufrecht too
-assigns to him, and a manuscript of it was held by the late Ramadasa Sena of Baharampur. One of the biographies adds
+assigns to him, and Srila Bhaktisiddhanta mentions that the late Ramadasa Sena of Baharampur had seen it. One of the biographies adds
 commentaries on the “Shruti-stuti,” the “Gita-govinda” and the “Kama-bija — Kama-gayatri.” And in the library of the
 late Madhusudana Gosvami Sarvabhauma at Radha-ramana-ghera in Vrindavana the authors of another biography saw a
 manuscript of the commentary “Krishna-vallabha” on the “Gopala-tapani-shruti” with the colophon: “…revealed by Sri
@@ -192,7 +192,7 @@ Prabodhananda Sarasvati, the paramahamsa, the wandering acharya”[^11]. <!-- F2
 
 In all his books he kept to single-minded devotion, and his language is equally full of philosophical depth and the
 sweetness of love. He is remembered beyond the Gaudiya sampradaya as well. Nabhadasa in his Hindi “Bhaktamal” names
-Prabodhananda among the sannyasis who are “crowns” of the Kali-yuga, devotees in the mood of love (chhappay 182);
+Prabodhananda among the sannyasis who are “crowns,” blessed in the Kali-yuga (chhappay 182);
 Priyadasa in his kavittas praises him as a great rasika, the root of bliss, a dear associate of Sri Chaitanya-chandra,
 who described the ever-new pastimes of Radha and Krishna in the kunja groves, so that millions, hearing them, settled
 in Vrindavana (612); and Dhruvadasa says that Prabodha's mind sank into the ocean of the rasa of the Divine Couple's
@@ -206,7 +206,8 @@ sweetness of parakiya service to Sri Vrindavaneshvari, of which his books are fu
 ## Why the Early Books Are Silent About Him
 Like his nephew and disciple Gopala Bhatta, Prabodhananda is not named in the “Chaitanya-bhagavata,” or in the
 “Chaitanya-charitamrita,” or in Murari Gupta's “Kadacha”; nearly all the literature of his own time is silent about him,
-whereas later books — the “Gaura-ganoddesha-dipika,” the “Bhakti-ratnakara” and others — praise him highly[^13]. The
+whereas the “Gaura-ganoddesha-dipika” names him and later books — the “Bhakti-ratnakara” and others — praise him
+highly[^13]. The
 reason is humility: the intimate, renounced associates of Gaura — Prabodhananda, Gopala Bhatta and others — themselves
 forbade their names to be mentioned as associates of Mahaprabhu. Of Gopala Bhatta, Narahari Chakravarti writes:
 
@@ -231,8 +232,8 @@ themselves, ‘It will be described later,’ they leave it for the delight of a
 Some, however, invent reasons of their own. It is said that Vrindavana dasa Thakura, an opponent of the gaura-nagari
 doctrine, did not name Prabodhananda because of the words “gaura-nagara-vara” in the “Chaitanya-chandramrita”[^14]; the
 “Vishnupriya-patrika” even wrote that Prabodhananda had sheltered Harivamsha, whom Gopala Bhatta had rejected, and that
-this is why the biographers are silent about him. But none of Gaura's associates accepted such fabrications.
-<!-- F31 -->
+this is why the biographers are silent about him. But none of Gaura's devotees accepted such fabrications.
+<!-- F31 F45 -->
 
 ## Prabodhananda and Prakashananda
 In those same years there lived in Kashi a sannyasi with a similar name — Prakashananda Sarasvati, a learned mayavadi,
@@ -255,9 +256,10 @@ view[^15]. Following them, and relying on a coincidence of incidental circumstan
 opinion[^16]. The compiler of a Bengali dictionary, Ashutosh Deb, writes that Prabodhananda's “real name” was
 Prakashananda and that Chaitanya-deva gave him the new name, while Haridasa Dasa's “Gaudiya-vaishnava-abhidhana” cites
 the opinion that “Prabodhananda” is Prakashananda's Vaishnava name and looks for confirmation of it in the last verse of
-the “Radha-rasa-sudhanidhi.” Some of those who hold this view search his books for a few words from the
+the “Radha-rasa-sudhanidhi.” It is also said that some of his books are so perfect that only a man of Prakashananda's
+stature could have written them; and the most learned of those who hold this view search his books for a few words from the
 “Vedanta-sutra” and for hints at the difficulties the mayavadis go through; and from the “Chaitanya-chandramrita” they
-infer that he had once been a “brahma-sannyasi,” a worshipper of the impersonal Brahman. <!-- F36 Q13 Q14 F37 F38 F39 F32 F44 -->
+infer that he had once been a “brahma-sannyasi,” a worshipper of the impersonal Brahman. <!-- F36 Q13 Q14 F37 F38 F39 F32 F44 F46 -->
 
 This identification was refuted as early as the “Sajjana-toshani” (year 18, no. 5) and in Srila Bhaktisiddhanta's
 article “Sri Prabodhananda,” and he refutes it himself in the “Anubhashya” and in the “Gaudiya-bhashya” on the
@@ -279,8 +281,8 @@ On these verses Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya”: Praka
 sannyasi who in his interpretations of the Vedas “dissected” the transcendental body of the Lord; simple people take him
 to be the same person as Prabodhananda, the younger brother of Venkata Bhatta from the banks of the Kaveri, and this
 delusion entered the sahajiya “Bhakta-mala,” and from there, to a greater or lesser degree, the works of many modern
-scholars. There is no evidence whatever that Prakashananda, having received deliverance, came to be called
-Prabodhananda. <!-- F41 Q11 F36 -->
+scholars. One of the biographies, repeating these words, adds: there is no evidence whatever that Prakashananda, having
+received deliverance, came to be called Prabodhananda. <!-- F41 Q11 F36 -->
 
 Srila Bhaktisiddhanta's argument is simple and rigorous: it is chronology. The Lord's words about Prakashananda in
 Murari's house belong to Shaka 1425–1430 — he was already a mayavadi in Kashi then. In Shaka 1433 the Lord saw
@@ -301,8 +303,8 @@ the revered uncle and guru of Gopala Bhatta a mayavadi, a hater of Vishnu and a 
 against a Vaishnava, leading to hell. To accept the inference about a “brahma-sannyasi” without firm evidence
 is, in his words, to entangle oneself in difficulties. <!-- F42 F21 F32 I4 -->
 
-The argument from the “Radha-rasa-sudhanidhi” is answered as well. In its last verse the poet speaks of those “scorched
-by the burning sun of mayavada” (mayavadarka-tapa-santapta); but this is no confession of his own past: all the
+The argument from the “Radha-rasa-sudhanidhi” is answered as well. In its last verse, as the “Abhidhana” cites it, the poet speaks of
+those “scorched by the burning sun of mayavada” (mayavadarka-tapa-santapta); but this is no confession of his own past: all the
 followers of Mahaprabhu denounced mayavada, and Prabodhananda simply glorifies the Lord as the deliverer of the fallen —
 for the conversion of Sarvabhauma and Prakashananda is an even greater miracle of mercy than the deliverance of Jagai and
 Madhai. The stern words about mayavada in his books are praise of the Lord's boundless mercy. And the learned words from
@@ -351,7 +353,8 @@ together with his brothers. May this saint grant us the ability to understand th
 [^4]: Two biographies render this as “Uttar Pradesh”; apparently a literal rendering of the Bengali “uttara-pradesha,”
     “the northern region,” not the name of the present-day state.
 [^5]: The “Charitamrita” in one place names Venkata Bhatta as the master of the house (Madhya 9.82), in another Trimalla
-    Bhatta (Madhya 1.108); the “Bhakti-ratnakara” speaks of Venkata's house, the “Prema-vilasa” of Trimalla's.
+    Bhatta (Madhya 1.108); the “Bhakti-ratnakara” speaks of Venkata's house, the “Prema-vilasa” of Trimalla's, and the
+    “Anuraga-valli” names Trimalla as the host and Gopala as “Trimalla's boy” (1.46, 1.60).
 [^6]: The years in the biographies differ. According to one, citing Govinda Dasa's “Karcha,” the Lord came to
     Shrirangam in Ashadha of Shaka 1433 (1511); another also gives 1511. A third says in one place that the Lord set out
     for the south in 1510 and came to Shrirangam on the bright Ekadashi of Ashadha, and in another that He came there in
@@ -392,7 +395,7 @@ together with his brothers. May this saint grant us the ability to understand th
     biographies accompanies its account of this opinion with the reference “Chaitanya-chandr. 25-5-160,” which we have
     been unable to identify.
 [^17]: The biographies give these verses under other numbers: one as “1.3” and “2.20,” another as “2.3.35–40” and
-    “2.10.31–44”; in our edition they are Madhya 3.36–39 and 20.32–44. One of them refers Prakashananda's conversion to
+    “2.10.31–44”; in our edition they are Madhya 3.36–40 and 20.32–44. One of them refers Prakashananda's conversion to
     the “Chaitanya-bhagavata,” “Adi 9 and Madhya 25”; in fact it is described in the “Chaitanya-charitamrita,” Adi 7 and
     Madhya 25.
 [^18]: The authors' years differ: one biography places the Lord's words about Prakashananda “long before Shaka 1431,”
