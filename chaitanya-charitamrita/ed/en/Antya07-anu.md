@@ -370,6 +370,40 @@ Other readings have *phalgu valgu-prāya* and *phalgu valgana-prāya*. *Phalgu* 
 
 His deep devotion to Śrī Mahāprabhu's lotus feet diminished[^85-1].
 
+## 86
+
+> Subheading: He begins to court Śrī Gadādhara's favor —
+
+Paṇḍita Gosāñi: Śrī Gadādhara Paṇḍita Gosvāmī.
+
+## 87
+
+> Subheading: Because the Lord disregarded the Bhaṭṭa's explanations, the devotees look on them with distaste —
+
+## 88
+
+> Subheading: The Bhaṭṭa's shame; he courts Gadādhara's favor —
+
+## 89
+
+*Nilu* (“I have taken”): another reading has *lailu*.
+
+## 90
+
+> Subheading: He asks Gadādhara to hear his explanation of Kṛṣṇa's name —
+
+## 91
+
+> Subheading: Gadādhara's dilemma —
+
+Śrī Mahāprabhu has disregarded Vallabha Bhaṭṭa. And if I listen to his writings explaining the name, it will grieve Him[^91-1]. Which of the two sides should I protect? Thinking this, Paṇḍita Gosvāmī was caught in a dilemma.
+
+## 92
+
+> Subheading: At first Gadādhara does not agree to hear Vallabha's explanation, but the Bhaṭṭa insists —
+
+Paṇḍita Gosvāmī did not openly express any wish to hear Vallabha's composition. Yet Vallabha imagined a bond of friendship between them and, though the Paṇḍita did not want it, began to read it to him.
+
 ---
 
 [^27-1]: The edition gives “Canto 10, Chapter 9, verse 31” (checked against the scan); in the standard numbering it is 10.9.21.
@@ -377,3 +411,5 @@ His deep devotion to Śrī Mahāprabhu's lotus feet diminished[^85-1].
 [^32-1]: The edition gives “Canto 10, Chapter 12, verse 21” (checked against the scan); in the standard numbering it is 10.12.11.
 
 [^85-1]: The verse translation reads differently: “he no longer had his former faith and devotion to Śrī Caitanya.”
+
+[^91-1]: The edition has *tāṅhāra mane kleśa haibe* (“it will grieve him”); from the sense of the dilemma, Mahāprabhu is probably meant.
