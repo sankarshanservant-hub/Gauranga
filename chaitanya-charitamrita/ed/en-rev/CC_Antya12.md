@@ -126,7 +126,7 @@ of Ācāryaratna  with  his  wife
 rāghava-paṇḍita cale jhāli sājāñā  
 Rāghava Paṇḍita  goes  his bags  having packed
 
-(12) Śivānanda’s wife went, taking her three sons, and Rāghava Paṇḍita went with his bags (*jhāli*) packed.
+(12) Śivānanda’s wife went, taking her three sons, and Rāghava Paṇḍita went with his bags (jhāli) packed.
 
 দত্ত, গুপ্ত, বিদ্যানিধি, আর যত জন ৷  
 দুই-তিন শত ভক্ত করিলা গমন ॥ ১৩ ॥
@@ -436,7 +436,7 @@ lodging houses  as before  to all  He had given
 mahāprasāda-bhojane sabāre bolāilā  
 to the eating of mahā-prasāda  all  He called
 
-(43) As before, He had lodgings given to everyone, and He called them all to take *mahā-prasāda*.
+(43) As before, He had lodgings given to everyone, and He called them all to take mahā-prasāda.
 
 শিবানন্দ তিনপুত্রে গোসাঞিরে মিলাইলা ৷  
 শিবানন্দ-সম্বন্ধে সবায় বহুকৃপা কৈলা ॥ ৪৪ ॥
@@ -543,7 +543,7 @@ a resident of Nadīyā  a confectioner  his  name  Parameśvara
 modaka vece, prabhura vāṭīra nikaṭa tāra ghara  
 sweets  he sells  of the Lord’s  house  near  his  home
 
-(54) There was a confectioner (*modaka*), a resident of Nadīyā, named Parameśvara. He sold sweets, and his home was near the Lord’s house.
+(54) There was a confectioner (*modaka*), a resident of Nadīyā, named Parameśvara. He sold sweets, and his home was near the Lord’s house.[^11]
 
 বালক-কালে প্রভু তার ঘরে বারবার যা’ন ৷  
 দুগ্ধ, খণ্ড মোদক দেয়, প্রভু তাহা খা’ন ॥ ৫৫ ॥
@@ -563,17 +563,17 @@ for the Lord  affection  his  from childhood
 se vatsara se āila prabhure dekhite  
 that  year  he  came  the Lord  to see
 
-(56) He had had affection for the Lord since the Lord’s childhood. That year he came to see the Lord.
+(56) He had loved the Lord ever since His childhood, and that year he came to see Him.
 
 ‘পরমেশ্বর্য্যা মুঞি, বলি’ দণ্ডবৎ কৈল ৷  
 তারে দেখি’ প্রভু প্রীতে তাহারে পুছিল ॥ ৫৭ ॥
 
 parameśvaryā muñi, bali’ daṇḍavat kaila  
-Parameśvarā  I  saying  prostrated himself  he did  
+Parameśvaryā  I  saying  prostrated himself  he did  
 tāre dekhi’ prabhu prīte tāhāre puchila  
 him  seeing  the Lord  with affection  him  asked
 
-(57) Saying, “I am Parameśvarā,” he offered prostrate obeisances. Seeing him, the Lord spoke to him with affection:[^11]
+(57) Saying, “I am Parameśvaryā,” he offered prostrate obeisances. Seeing him, the Lord spoke to him with affection:[^12]
 
 ‘পরমেশ্বর কুশল হও, ভাল হৈল, আইলা’ ৷  
 ‘মুকুন্দার মাতা আসিয়াছে’ প্রভুরে কহিলা ॥ ৫৮ ॥
@@ -583,7 +583,7 @@ Parameśvara  well  be  good  it is  you have come
 mukundāra mātā āsiyāche, prabhure kahilā  
 Mukunda’s  mother  has come  to the Lord  he said
 
-(58) “Parameśvara, may you be well! It is good that you have come.” Then he told the Lord, “Mukunda’s mother has come.”
+(58) “Parameśvara, may you be well! It is good that you have come.” Then he told the Lord, “Mukunda’s mother has come.”[^13]
 
 মুকুন্দার মাতার নাম শুনি’ প্রভু সঙ্কোচ হৈলা ৷  
 তথাপি তাহার প্রীতে কিছু না বলিলা ॥ ৫৯ ॥
@@ -593,17 +593,17 @@ of Mukunda’s mother  the name  hearing  the Lord  embarrassed  became
 tathāpi tāhāra prīte kichu nā balilā  
 yet  his  out of affection  anything  not  He said
 
-(59) Hearing the name of Mukunda’s mother, the Lord felt embarrassed, yet out of affection for him He said nothing.[^12]
+(59) Hearing the name of Mukunda’s mother, the Lord felt embarrassed, yet out of affection for him He said nothing.[^14]
 
 প্রশ্রয়-প্রাগল্ভ্য শুদ্ধ-বৈদগ্ধী না জানে ৷  
 অন্তরে সুখী হৈলা প্রভু তার সেই গুণে ॥ ৬০ ॥
 
 praśraya-prāgalbhya śuddha-vaidagdhī nā jāne  
-the boldness of familiarity  pure courtesy  not  knows  
+the boldness of loving familiarity  pure courtesy  not  knows  
 antare sukhī hailā prabhu tāra sei guṇe  
 within  pleased  became  the Lord  his  that  quality
 
-(60) The boldness of loving familiarity (*praśraya-prāgalbhya*) knows nothing of pure courtesy (*śuddha-vaidagdhī*). Within His heart the Lord was pleased with that quality of his.[^13]
+(60) The boldness born of loving familiarity knows nothing of the niceties of courtesy. Within His heart the Lord was pleased with that quality of his.[^15]
 
 পূর্ব্ববৎ সবা লঞা গুণ্ডিচা-মার্জ্জন ৷  
 রথ-আগে পূর্ব্ববৎ করিলা নর্ত্তন ॥ ৬১ ॥
@@ -623,7 +623,7 @@ of the Cāturmāsya  all  the festivals  they had  the sight
 mālinī prabhṛti prabhure kailā nimantraṇa  
 Mālinī  and others  the Lord  invited
 
-(62) During the four months of *Cāturmāsya* they saw all the festivals, and Mālinī and the other ladies invited the Lord for meals.
+(62) During the four months of Cāturmāsya they saw all the festivals, and Mālinī and the other ladies invited the Lord for meals.[^16]
 
 প্রভুর প্রিয় নানা দ্রব্য আনিয়াছে দেশ হৈতে ৷  
 সেই ব্যঞ্জন করি’ ভিক্ষা দেন ঘর-ভাতে ॥ ৬৩ ॥
@@ -653,7 +653,7 @@ in this way  in various pastimes  the Cāturmāsya  passed
 gauḍa-deśe yāite tabe bhakte ājñā dila  
 to the land of Gauḍa  to go  then  to the devotees  an order  He gave
 
-(65) In this way the four months of *Cāturmāsya* passed in various pastimes. Then the Lord ordered the devotees to return to the land of Gauḍa.
+(65) In this way the four months of Cāturmāsya passed in various pastimes. Then the Lord ordered the devotees to return to the land of Gauḍa.
 
 সব ভক্ত করেন মহাপ্রভুর নিমন্ত্রণ ৷  
 সর্ব্বভক্তে কহেন প্রভু মধুর বচন ॥ ৬৬ ॥
@@ -723,7 +723,7 @@ I  this  in Nīlācala  stay  indeed  sitting
 pariśrama nāhi mora sabāra lāgiyā  
 labor  there is not  My  of all  for the sake of
 
-(72) And I simply stay here, sitting in Nīlācala; I take no trouble for any of you.
+(72) And I simply stay here, sitting in Nīlācala; I take no trouble for any of you.[^17]
 
 সন্ন্যাসী মানুষ মোর, নাহি কোন ধন ৷  
 কি দিয়া তোমার ঋণ করিমু শোধন ? ॥ ৭৩ ॥
@@ -733,7 +733,7 @@ a sannyāsī  person  I  there is not  any  wealth
 ki diyā tomāra ṛṇa karimu śodhana?  
 what  giving  your  debt  shall I  repay
 
-(73) I am a *sannyāsī*; I have no wealth at all. With what shall I repay My debt to you?
+(73) I am a sannyāsī; I have no wealth at all. With what shall I repay My debt to you?
 
 দেহমাত্র ধন তোমায় কৈলুঁ সমর্পণ ৷  
 তাঁহা বিকাই, যাঁহা বেচিতে তোমার মন ।।” ॥ ৭৪ ॥
@@ -797,8 +797,16 @@ more  days  five  seven  in this way  passed
 
 [^10]: *Amṛta-pravāha-bhāṣya*: *peṭāṅgi* — a shirt or coat. Heading in the edition: Govinda instructs Śrīkānta in the rules of respect before the Lord’s form. The *Anubhāṣya* quotes the tantras: one who bows down to Hari with his body covered by cloth is a fool.
 
-[^11]: *Parameśvarā* (*parameśvaryā*): the homely form in which the simple confectioner speaks his own name.
+[^11]: Heading in the edition: the story of Parameśvara the confectioner (*modaka*), a resident of Śrī Māyāpura.
 
-[^12]: The *Anubhāṣya*: the Lord, the *guru* of the world and teacher of people, who enacted the pastime of *sannyāsa*, felt embarrassed on hearing a woman’s name, even though she was elderly and like a mother to Him.
+[^12]: *Parameśvaryā*: the homely form in which the simple confectioner speaks his own name. Heading in the edition: Parameśvara introduces himself, bows down and announces that his wife has come.
 
-[^13]: To say to a *sannyāsī*, “Mukunda’s mother has come,” is the boldness born of long familiarity (*Amṛta-pravāha-bhāṣya*). The *Anubhāṣya* records the variant reading *praśraya-pāgala*, “simple in his affection,” and explains: *praśraya* — affection, affectionate respect, humility, trust, loving liberty; *prāgalbhya* — boldness, forwardness; *vaidagdhī* — refinement, polish, skill, elegance of manners. The Lord, who accepts the feeling of the heart, was pleased with his guilelessness.
+[^13]: Mukunda’s mother is Parameśvara’s wife (see the heading to verse 57).
+
+[^14]: Heading in the edition: the Lord, the guru of the world and teacher of mankind, who enacted the pastime of sannyāsa, feels embarrassed on hearing a woman’s name, even though she is elderly and like a mother to Him.
+
+[^15]: *Praśraya-prāgalbhya* — “the boldness of loving familiarity”; *śuddha-vaidagdhī* — “pure courtesy.” The Gauḍīya Maṭha edition reads *praśraya-prāgalbhya*; another reading is *praśraya-pāgala*, “simple in his affection.” *Amṛta-pravāha-bhāṣya*: to say to a sannyāsī, “Mukunda’s mother has come,” is the boldness born of long familiarity, and such boldness never knows the pure art of speech. *Anubhāṣya*: *praśraya* — affection, affectionate respect, humility, trust, loving liberty; *prāgalbhya* — boldness, forwardness; *vaidagdhī* — refinement, polish, skill, elegance of manners. Heading in the edition: the Lord, who accepts the feeling of the heart, is pleased with his guilelessness.
+
+[^16]: Heading in the edition: after seeing the Lord’s [Jagannātha’s] festivals, Śrīvāsa’s wife offers the Lord a meal.
+
+[^17]: Heading in the edition: comparing it with the devotees’ love for Him, the Lord humbly calls Himself devoid of love for them.
