@@ -11,3 +11,29 @@ I worship the devotees who are eager for the honey of Caitanya's lotus feet: by 
 ## 10
 
 The mere remembrance of them purifies people's homes. How much is gained by seeing them, touching them, washing their feet, offering them a seat and so on cannot be put into words.
+
+## 74
+
+*Sāmbhāla*: self-control.
+
+## 76
+
+*Yātrāntare*: at another festival, on another day[^76-1].
+
+## 82
+
+To be dark like a *tamāla* tree and to suck at Yaśodā's breast — this is the *rūḍhi*, the primary meaning, present in the name “Kṛṣṇa,” as all the scriptures conclude.
+
+## 84
+
+*Phalgu-prāya*: nearly worthless.
+
+## 85
+
+The devotion he had for the Lord partly went away[^85-1].
+
+---
+
+[^76-1]: The verse translation reads differently: “After the festival.”
+
+[^85-1]: The verse translation reads differently: “he no longer had his former faith and devotion to Śrī Caitanya.”

@@ -314,8 +314,66 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 > Subheading: Fourteen *mṛdaṅgas* —
 
+## 74
+
+> Subheading: Vallabha's amazement and boundless joy —
+
+## 75
+
+> Subheading: When the dancing and *kīrtana* end, Vallabha is amazed to see the splendor of the Lord's *prema* —
+
+## 76
+
+> Subheading: Vallabha's request to the Lord —
+
+## 77
+
+> Subheading: He asks the Lord to hear the commentary he has written —
+
+## 78
+
+> Subheading: Regarding Himself as unqualified, the Lord speaks humbly and with pretense; without the aim of pleasing Kṛṣṇa and His own (*kārṣṇa*), the meaning of the *Bhāgavatam* cannot be grasped by worldly learning and erudition —
+
+## 79
+
+> Subheading: Reading and hearing the *Bhāgavatam* bear fruit only when one chants the pure name of Kṛṣṇa tirelessly and constantly, with steadiness and taste; hearing, reading and the like, done to please the senses or to display worldly learning and erudition, are merely a waste of time —
+
+## 80
+
+> Subheading: Vallabha Bhaṭṭa asks the Lord to hear his explanation of the name of Śrī Kṛṣṇa —
+
+## 81
+
+> Subheading: The name “Kṛṣṇa,” which denotes (*vācaka*), and the form of Kṛṣṇa, Lord of Gokula, which it denotes (*vācya*), are nondifferent, and both display spiritual pastimes —
+
+## 82
+
+> Subheading: The *rūḍhi* meaning of the name “Kṛṣṇa” — (a verse from Śrī Lakṣmīdhara's *Nāma-kaumudī*, quoted in the *Kṛṣṇa-sandarbha*)
+
+**tamāla-śyāmala-tviṣi** (whose dark luster is like that of the *tamāla* tree) **śrī-yaśodā-stanan-dhaye** (in the infant who sucks at Śrī Yaśodā's breast) **kṛṣṇa-nāmnaḥ** (of the name “Kṛṣṇa”) **rūḍhiḥ** (the principal, accepted meaning) **iti** **sarva-śāstra-vinirṇayaḥ** (the verdict of all scriptures, that is, the conclusion of all scriptures).
+
+*Rūḍhi* is the power of a word to convey the meaning of the word as a whole, without depending on the meanings of root and suffix.
+
+## 83
+
+> Subheading: Only the *rūḍhi* meaning is valid and acceptable; other meanings are not to be accepted —
+
+## 84
+
+> Subheading: Explanations of Kṛṣṇa's name and of the *Bhāgavatam*, which is nondifferent from Kṛṣṇa, produced by worldly learning, intellect or talent for one's own pleasure, give Kṛṣṇa no pleasure; therefore the Lord rejects them with distaste —
+
+Other readings have *phalgu valgu-prāya* and *phalgu valgana-prāya*. *Phalgu* means worthless; *valgana*, or *valgu*, means verbal bombast.
+
+## 85
+
+> Subheading: The Bhaṭṭa leaves with a heavy heart; because his pride was humbled, his devotion to the Lord weakens —
+
+His deep devotion to Śrī Mahāprabhu's lotus feet diminished[^85-1].
+
 ---
 
 [^27-1]: The edition gives “Canto 10, Chapter 9, verse 31” (checked against the scan); in the standard numbering it is 10.9.21.
 
 [^32-1]: The edition gives “Canto 10, Chapter 12, verse 21” (checked against the scan); in the standard numbering it is 10.12.11.
+
+[^85-1]: The verse translation reads differently: “he no longer had his former faith and devotion to Śrī Caitanya.”
