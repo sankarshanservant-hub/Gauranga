@@ -18,7 +18,7 @@ The flood of *prema* of Caitanya's countless devotees filled with water the dese
 
 ## 26
 
-The prince who was setting the price of the horses had a habit of craning his neck and looking upward. To mock this, Gopīnātha said, “My horse does raise its neck, but it does not look upward, so its price cannot be any lower.” The point of the jibe is this: “My horse is worth no less than you.”[^26-1]
+The prince who was setting the price of the horses had a habit of craning his neck and looking upward. To mock this, Gopīnātha said, “My horse does raise its neck, but it does not look upward, so its price cannot be any lower.” The point of the jibe is this: “My horse is worth no less than you.”
 
 ## 29
 
@@ -26,11 +26,11 @@ The prince who was setting the price of the horses had a habit of craning his ne
 
 ## 32
 
-*Rāja-vilāt* — the money due to the king from the lands under him (the king's treasury or property). *Dārī, nāṭuyā* — harlots and dancers. He spends the money on such people and has no fear that the king's money must be paid.[^32-1]
+*Rāja-vilāt* — the money due to the king from the lands under him (the king's treasury or property). *Dārī, nāṭuyā* — harlots and dancers. He spends the money on such people and has no fear that the king's money must be paid.
 
 ## 44
 
-*Kartum akartum anyathā karite samartha*: He alone has the power to do a thing, not to do it, or to do it otherwise.[^44-1] [^44-2]
+*Kartum akartum anyathā karite samartha*: He alone has the power to do a thing, not to do it, or to do it otherwise.[^44-1] 
 
 ## 54
 
@@ -58,11 +58,11 @@ The prince who was setting the price of the horses had a habit of craning his ne
 
 ## 126
 
-“*Māt*” (a Hindi word): “not.”[^126-1]
+“*Māt*” (a Hindi word): “not.”
 
 ## 130
 
-“*Nilā mūla*”: You have bought us again, paying the price.[^130-1]
+“*Nilā mūla*”: You have bought us again, paying the price.
 
 ## 137
 
@@ -70,19 +70,10 @@ The chief fruit of remembering Your lotus feet is love for You. The protection o
 
 ## 145
 
-“*Kṛpā-vivarta*”: mercy in the form of worldly welfare (prosperity) is not true mercy. But to the worldly mind it appeared as mercy — a *vivarta*, taking one thing for another.[^145-1]
+“*Kṛpā-vivarta*”: mercy in the form of worldly welfare (prosperity) is not true mercy. But to the worldly mind it appeared as mercy — a *vivarta*, taking one thing for another.
 
 *Thus ends the ninth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
 
-[^26-1]: In the verse translation, otherwise: “My horses do not crane their necks and do not like to look upward.”
-[^32-1]: In the verse translation, otherwise: *dārī* and *nāṭuyā* are rendered by a single word, “dancing girls.”
 [^44-1]: In the edition this section is numbered “৪৩” (43; checked against the scan): a misprint. It explains the words of verse 44 and stands after verse 44.
-[^44-2]: In the verse translation, otherwise: “He can do whatever He wishes, or undo whatever displeases Him.”
-
-[^126-1]: In the verse translation, otherwise: “Śrī Caitanya does not know that I love the family of Bhavānanda Rāya so much that I am ready to forgive them all any debt”; for the commentator: “Let Him not think that I am giving up the money for His sake.”
-
-[^130-1]: In the verse translation, otherwise: “You have won our hearts once again.”
-
-[^145-1]: In the verse translation, otherwise: “Returning home, the whole family of Bhavānanda Rāya began to discuss Śrī Caitanya's extraordinary mercy”; for the commentator the verse speaks of *kṛpā-vivarta*, a mercy that only the worldly mind takes for mercy.
