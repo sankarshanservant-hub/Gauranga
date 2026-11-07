@@ -18,7 +18,7 @@ The mere remembrance of them purifies people's homes. How much is gained by seei
 
 ## 76
 
-*Yātrāntare*: at another festival, on another day[^76-1].
+*Yātrāntare*: at another festival, on another day.
 
 ## 82
 
@@ -30,7 +30,7 @@ To be dark like a *tamāla* tree and to suck at Yaśodā's breast — this is th
 
 ## 85
 
-The devotion he had for the Lord partly went away[^85-1].
+The devotion he had for the Lord partly went away.
 
 ## 93
 
@@ -62,14 +62,7 @@ Whatever statement comes up in a given place, Śrīdhara Svāmī accepts it as i
 
 ## 162
 
-*Loke karilā khyāpana* — the Lord made it known to everyone.[^162-1]
+*Loke karilā khyāpana* — the Lord made it known to everyone.
 
 *Thus ends the seventh chapter of the “Amṛta-pravāha-bhāṣya.”*
 
----
-
-[^76-1]: The verse translation reads differently: “After the festival.”
-
-[^85-1]: The verse translation reads differently: “he no longer had his former faith and devotion to Śrī Caitanya.”
-
-[^162-1]: In the verse translation, otherwise: “Gadādhara Paṇḍita is famous throughout the world for his brahminical qualities and gentleness, and also for the steadfastness of his pure love for Śrī Caitanya.”

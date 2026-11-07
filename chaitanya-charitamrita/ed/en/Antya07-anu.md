@@ -368,7 +368,7 @@ Other readings have *phalgu valgu-prāya* and *phalgu valgana-prāya*. *Phalgu* 
 
 > Subheading: The Bhaṭṭa leaves with a heavy heart; because his pride was humbled, his devotion to the Lord weakens —
 
-His deep devotion to Śrī Mahāprabhu's lotus feet diminished[^85-1].
+His deep devotion to Śrī Mahāprabhu's lotus feet diminished.
 
 ## 86
 
@@ -408,7 +408,7 @@ Paṇḍita Gosvāmī did not openly express any wish to hear Vallabha's composi
 
 > Subheading: Gadādhara, who honors others and does not wish to trouble anyone, is caught between two fires and begs Kṛṣṇa for mercy —
 
-**Ābhijātye**[^93-1] — (1) out of embarrassment; (2) because Vallabha's learning was not utterly hostile to *bhakti*; (3) for the sake of the respect society expects.
+**Ābhijātye** — (1) out of embarrassment; (2) because Vallabha's learning was not utterly hostile to *bhakti*; (3) for the sake of the respect society expects.
 
 ## 94
 
@@ -664,7 +664,7 @@ In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 117) �
 
 > Subheading: The Lord Himself describes Gadādhara's incomparable, tender and firm love for Gaura —
 
-**Cālāiluṅ** — I showed anger.[^157-1]
+**Cālāiluṅ** — I showed anger.
 
 ## 159
 
@@ -712,14 +712,9 @@ Wishing Vallabha Bhaṭṭa well, the supremely merciful Lord, the purifier of t
 
 [^32-1]: The edition gives “Canto 10, Chapter 12, verse 21” (checked against the scan); in the standard numbering it is 10.12.11.
 
-[^85-1]: The verse translation reads differently: “he no longer had his former faith and devotion to Śrī Caitanya.”
-
 [^91-1]: The edition has *tāṅhāra mane kleśa haibe* (“it will grieve him”); from the sense of the dilemma, Mahāprabhu is probably meant.
-
-[^93-1]: In the verse translation, otherwise: “because Vallabha Bhaṭṭa was a learned brāhmaṇa of a noble family.”
 
 [^138-1]: In the edition this section is numbered “135” (checked against the scan): a misprint; the section stands between sections 122 and 140–141, and by its content (Satyabhāmā) it belongs to verse 138.
 
 [^138-2]: The quotation is made up of verses from this passage, cited selectively; half of one verse is omitted (after “How you sulk!”). In place of *tvad-icchānusāriṇam* (“I follow your wishes”) other editions read *tad-* (“their wishes,” that is, the wishes of the people of Vraja).
 
-[^157-1]: In the verse translation, otherwise: “I tried to make you angry.”
