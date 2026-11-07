@@ -412,289 +412,361 @@ if he begs  even  why  would he give  two lakhs  of kāhanas
 খড়্গের উপরে গোপীনাথে দিতেছে ডারিয়া ॥ ৪১ ॥
 
 hena-kāle āra loka āila dhāñā  
-khaḍgera upare gopīnāthe diteche ḍāriyā
+at this time  another  man  came  running  
+khaḍgera upare gopīnāthe diteche ḍāriyā  
+of the swords  onto  Gopīnātha  they are  throwing down
 
-(41) [not yet translated]
+(41) Just then another man came running: “They are throwing Gopīnātha down onto the swords!”
 
 শুনি’ প্রভুর গণ প্রভুরে করে অনুনয় ৷  
 প্রভু কহে, — আমি ভিক্ষুক, আমা হৈতে কিছু নয় ॥ ৪২ ॥
 
 śuni’ prabhura gaṇa prabhure kare anunaya  
-prabhu kahe, — āmi bhikṣuka, āmā haite kichu naya
+hearing  the Lord’s  associates  the Lord  make  entreaty  
+prabhu kahe, — āmi bhikṣuka, āmā haite kichu naya  
+the Lord  said  I  a beggar  Me  from  anything  is not
 
-(42) [not yet translated]
+(42) Hearing this, the Lord’s associates entreated Him, but the Lord said, “I am a beggar; nothing can be done by Me.
 
 তাতে রক্ষা করিতে যদি হয় সবার মনে ৷  
 সবে মেলি’ যাহ’ জগন্নাথের চরণে ॥ ৪৩ ॥
 
 tāte rakṣā karite yadi haya sabāra mane  
-sabe meli’ yāha’ jagannāthera caraṇe
+therefore  protection  to give  if  it is  in all your  minds  
+sabe meli’ yāha’ jagannāthera caraṇe  
+all  together  go  of Jagannātha  to the feet
 
-(43) [not yet translated]
+(43) So if you all have it in mind to save him, go together to the feet of Jagannātha.
 
 ঈশ্বর জগন্নাথ, — যাঁর হাতে সর্ব্ব ‘অর্থ’ ৷  
 কর্ত্তুমকর্ত্তুমন্যথা করিতে সমর্থ ॥ ৪৪ ॥
 
 īśvara jagannātha, — yāṅra hāte sarva ‘artha’  
-kartum akartum anyathā karite samartha
+the Lord  Jagannātha  in whose  hands  all  ends  
+kartum akartum anyathā karite samartha  
+to do  not to do  otherwise  to do  able
 
-(44) [not yet translated]
+(44) Jagannātha is the Lord, *Īśvara*, in whose hands all things lie. He is able to do, not to do, and to do otherwise.”
 
 ইঁহা যদি মহাপ্রভু এতেক কহিলা ৷  
 হরিচন্দন-পাত্র যাই’ রাজারে কহিলা ॥ ৪৫ ॥
 
 iṅhā yadi mahāprabhu eteka kahilā  
-haricandana-pātra yāi’ rājāre kahilā
+here  when  Mahāprabhu  this much  said  
+haricandana-pātra yāi’ rājāre kahilā  
+Haricandana Pātra  going  to the king  said
 
-(45) [not yet translated]
+(45) While Mahāprabhu was saying this, Haricandana Pātra went and spoke to the king:
 
 গোপীনাথ-পট্টনায়ক — সেবক তোমার ৷  
 সেবকের প্রাণদণ্ড নহে ব্যবহার ॥ ৪৬ ॥
 
 gopīnātha-paṭṭanāyaka — sevaka tomāra  
-sevakera prāṇa-daṇḍa nahe vyavahāra
+Gopīnātha Paṭṭanāyaka  servant  your  
+sevakera prāṇa-daṇḍa nahe vyavahāra  
+of a servant  the death penalty  is not  proper practice
 
-(46) [not yet translated]
+(46) “Gopīnātha Paṭṭanāyaka is your servant, and to put a servant to death is not proper conduct.
 
 বিশেষ তাহার ঠাঞি কৌড়ি বাকী হয় ৷  
 প্রাণ নিলে কিবা লাভ? নিজ ধন-ক্ষয় ॥ ৪৭ ॥
 
 viśeṣa tāhāra ṭhāñi kauḍi bākī haya  
-prāṇa nile kibā lābha? nija dhana-kṣaya
+especially  him  from  money  outstanding  is  
+prāṇa nile kibā lābha? nija dhana-kṣaya  
+life  if you take  what  gain  your own  loss of wealth
 
-(47) [not yet translated]
+(47) Moreover, money is still owed by him. What gain is there in taking his life? It would only be the loss of your own wealth.
 
 যথার্থ মূল্যে ঘোড়া লহ, যেবা বাকী হয় ৷  
 ক্রমে ক্রমে দিবে, ব্যর্থ প্রাণ কেনে লয় ॥ ৪৮ ॥
 
 yathārtha mūlye ghoḍā laha, yebā bākī haya  
-krame krame dibe, vyartha prāṇa kene laya
+at the proper  value  the horses  take  whatever  outstanding  is  
+krame krame dibe, vyartha prāṇa kene laya  
+little by little  he will give  needlessly  life  why  take
 
-(48) [not yet translated]
+(48) Take the horses at their proper value; whatever remains he will pay little by little. Why take his life needlessly?”
 
 রাজা কহে, — এই বাত্ আমি নাহি জানি ৷  
 প্রাণ কেনে লইব, তার দ্রব্য চাহি আমি ॥ ৪৯ ॥
 
 rājā kahe, — ei bāt āmi nāhi jāni  
-prāṇa kene laiba, tāra dravya cāhi āmi
+the king  said  this  matter  I  not  know  
+prāṇa kene laiba, tāra dravya cāhi āmi  
+life  why  should I take  his  money  want  I
 
-(49) [not yet translated]
+(49) The king said, “I know nothing of this. Why should I take his life? It is his money I want.
 
 তুমি যাই’ কর তাঁহা সর্ব্ব সমাধান ৷  
 দ্রব্য যৈছে আইসে, আর রহে তার প্রাণ ॥ ৫০ ॥
 
 tumi yāi’ kara tāṅhā sarva samādhāna  
-dravya yaiche āise, āra rahe tāra prāṇa
+you  going  make  there  all  settlement  
+dravya yaiche āise, āra rahe tāra prāṇa  
+the money  so that  comes  and  remains  his  life
 
-(50) [not yet translated]
+(50) Go there and settle everything, so that the money comes in and his life is spared.”
 
 তবে হরিচন্দন আসি’ জানারে কহিল ৷  
 চাঙ্গে হৈতে গোপীনাথে শীঘ্র নামাইল ॥ ৫১ ॥
 
 tabe haricandana āsi’ jānāre kahila  
-cāṅge haite gopīnāthe śīghra nāmāila
+then  Haricandana  coming  to the Jānā  told  
+cāṅge haite gopīnāthe śīghra nāmāila  
+the cāṅga  from  Gopīnātha  quickly  brought down
 
-(51) [not yet translated]
+(51) Then Haricandana came and told the Jānā, and Gopīnātha was quickly brought down from the *cāṅga*.
 
 দ্রব্য দেহ’ রাজা মাগে — উপায় পুছিল ৷  
 যথার্থ-মূল্য ঘোড়া লহ, তেঁহ ত’ কহিল ॥ ৫২ ॥
 
 dravya deha’ rājā māge — upāya puchila  
-yathārtha-mūlya ghoḍā laha, teṅha ta’ kahila
+the money  give  the king  demands  the means  he asked  
+yathārtha-mūlya ghoḍā laha, teṅha ta’ kahila  
+at the proper value  the horses  take  he  indeed  said
 
-(52) [not yet translated]
+(52) “The king demands the money,” Haricandana said, and asked him how he would pay. Gopīnātha replied, “Take the horses at their proper value.
 
 ক্রমে ক্রমে দিমু, আর যত কিছু পারি ৷  
 অবিচারে প্রাণ লহ, — কি বলিতে পারি ? ॥ ৫৩ ॥
 
 krame krame dimu, āra yata kichu pāri  
-avicāre prāṇa laha, — ki balite pāri?
+little by little  I will give  and  whatever  anything  I can  
+avicāre prāṇa laha, — ki balite pāri?  
+without inquiry  life  you take  what  to say  can I
 
-(53) [not yet translated]
+(53) The rest I will pay little by little, whatever I can. If you take my life without inquiry, what can I say?”
 
 যথার্থ মূল্য করি’ তবে ঘোড়া সব লইল ৷  
 আর দ্রব্যের মুদ্দতী করি’ ঘরে পাঠাইল ॥ ৫৪ ॥
 
 yathārtha mūlya kari’ tabe ghoḍā saba laila  
-āra dravyera muddatī kari’ ghare pāṭhāila
+proper  value  setting  then  the horses  all  they took  
+āra dravyera muddatī kari’ ghare pāṭhāila  
+of the remaining  money  a fixed term  making  home  they sent
 
-(54) [not yet translated]
+(54) Then they valued the horses properly and took them all, and, binding him to pay the rest of the money by a fixed date, they sent him home.
 
 এথা প্রভু সেই মনুষ্যেরে প্রশ্ন কৈল ৷  
 বাণীনাথ কি করে, যবে বান্ধিয়া আনিল ? ॥ ৫৫ ॥
 
 ethā prabhu sei manuṣyere praśna kaila  
-vāṇīnātha ki kare, yabe bāndhiyā ānila?
+here  the Lord  that  man  a question  asked  
+vāṇīnātha ki kare, yabe bāndhiyā ānila?  
+Vāṇīnātha  what  does  when  binding  they brought
 
-(55) [not yet translated]
+(55) Meanwhile the Lord asked that man, “What was Vāṇīnātha doing when they bound him and took him away?”
 
 সে কহে — বাণীনাথ নির্ভয়ে লয় কৃষ্ণনাম ৷  
 ‘হরে কৃষ্ণ, হরে কৃষ্ণ’ কহে অবিশ্রাম ॥ ৫৬ ॥
 
 se kahe — vāṇīnātha nirbhaye laya kṛṣṇa-nāma  
-‘hare kṛṣṇa, hare kṛṣṇa’ kahe aviśrāma
+he  said  Vāṇīnātha  fearlessly  takes  Kṛṣṇa’s name  
+‘hare kṛṣṇa, hare kṛṣṇa’ kahe aviśrāma  
+Hare  Kṛṣṇa  Hare  Kṛṣṇa  he says  without rest
 
-(56) [not yet translated]
+(56) He said, “Vāṇīnātha was fearlessly chanting the name of Kṛṣṇa, saying ‘Hare Kṛṣṇa, Hare Kṛṣṇa’ without rest.
 
 সংখ্যা লাগি’ দুই-হাতে অঙ্গুলীতে লেখা ৷  
 সহস্রাদি পূর্ণ হৈলে, অঙ্গে কাটে রেখা ॥ ৫৭ ॥
 
 saṅkhyā lāgi’ dui-hāte aṅgulīte lekhā  
-sahasrādi pūrṇa haile, aṅge kāṭe rekhā
+of the count  for the sake  on both hands  on the fingers  marking  
+sahasrādi pūrṇa haile, aṅge kāṭe rekhā  
+a thousand and so on  complete  when  on his body  he scratches  a line
 
-(57) [not yet translated]
+(57) To keep count, he marked the names on the fingers of both hands, and whenever a thousand or so were complete, he scratched a line on his body.”
 
 শুনি’ মহাপ্রভু হইলা পরম আনন্দ ৷  
 কে বুঝিতে পারে গৌরের কৃপা-ছন্দবন্ধ ? ॥ ৫৮ ॥
 
 śuni’ mahāprabhu hailā parama ānanda  
-ke bujhite pāre gaurera kṛpā-chanda-bandha?
+hearing  Mahāprabhu  became  supremely  joyful  
+ke bujhite pāre gaurera kṛpā-chanda-bandha?  
+who  to understand  can  Gaura’s  the design of mercy
 
-(58) [not yet translated]
+(58) Hearing this, Mahāprabhu was supremely joyful. Who can understand the design of Gaura’s mercy?
 
 হেনকালে কাশীমিশ্র আইলা প্রভু-স্থানে ৷  
 প্রভু তাঁরে কহে কিছু সোদ্বেগ-বচনে ॥ ৫৯ ॥
 
 hena-kāle kāśī-miśra āilā prabhu-sthāne  
-prabhu tāṅre kahe kichu sodvega-vacane
+at this time  Kāśī Miśra  came  to the Lord’s place  
+prabhu tāṅre kahe kichu sodvega-vacane  
+the Lord  to him  spoke  some  anxious words
 
-(59) [not yet translated]
+(59) At that time Kāśī Miśra came to the Lord, and the Lord spoke to him with some anxiety:
 
 ইঁহা রহিতে নারি, যামু আলালনাথ ৷  
 নানা উপদ্রব ইঁহা, না পাই সোয়াথ ॥ ৬০ ॥
 
 iṅhā rahite nāri, yāmu ālālanātha  
-nānā upadrava iṅhā, nā pāi soyātha
+here  to stay  I cannot  I will go  to Ālālanātha  
+nānā upadrava iṅhā, nā pāi soyātha  
+many  disturbances  here  not  I get  peace
 
-(60) [not yet translated]
+(60) “I cannot stay here; I shall go to Ālālanātha. There are many disturbances here, and I find no peace.
 
 ভবানন্দ-রায়ের গোষ্ঠী করে রাজবিষয় ৷  
 নানা-প্রকারে করে তারা রাজদ্রব্য ব্যয় ॥ ৬১ ॥
 
 bhavānanda-rāyera goṣṭhī kare rāja-viṣaya  
-nānā-prakāre kare tārā rāja-dravya vyaya
+Bhavānanda Rāya’s  family  does  the king’s service  
+nānā-prakāre kare tārā rāja-dravya vyaya  
+in various ways  make  they  the king’s money  expense
 
-(61) [not yet translated]
+(61) The family of Bhavānanda Rāya is in the king’s service, and in various ways they spend the king’s money.
 
 রাজার কি দোষ? রাজা নিজ-দ্রব্য চায় ৷  
 দিতে নারে দ্রব্য, দণ্ড আমারে জানায় ॥ ৬২ ॥
 
 rājāra ki doṣa? rājā nija-dravya cāya  
-dite nāre dravya, daṇḍa āmāre jānāya
+the king’s  what  fault  the king  his own money  wants  
+dite nāre dravya, daṇḍa āmāre jānāya  
+to give  they will not  the money  the punishment  to Me  they report
 
-(62) [not yet translated]
+(62) What fault is the king’s? The king wants his own money. They will not give the money, and then they report their punishment to Me.
 
 রাজা গোপীনাথে যদি চাঙ্গে চড়াইল ৷  
 চারিবারে লোকে আসি’ মোরে জানাইল ॥ ৬৩ ॥
 
 rājā gopīnāthe yadi cāṅge caḍāila  
-cāri-bāre loke āsi’ more jānāila
+the king  Gopīnātha  when  on the cāṅga  raised  
+cāri-bāre loke āsi’ more jānāila  
+four times  people  coming  to Me  reported
 
-(63) [not yet translated]
+(63) When the king had Gopīnātha raised onto the *cāṅga*, people came four times to tell Me.
 
 ভিক্ষুক সন্ন্যাসী আমি নির্জ্জনবাসী ৷  
 আমায় দুঃখ দেয়, নিজ-দুঃখ কহি’ আসি’ ॥ ৬৪ ॥
 
 bhikṣuka sannyāsī āmi nirjana-vāsī  
-āmāya duḥkha deya, nija-duḥkha kahi’ āsi’
+a mendicant  sannyāsī  I  living in solitude  
+āmāya duḥkha deya, nija-duḥkha kahi’ āsi’  
+to Me  pain  they give  their own troubles  telling  coming
 
-(64) [not yet translated]
+(64) I am a mendicant *sannyāsī* who lives in solitude, yet they come and pain Me by telling Me their own troubles.
 
 আজি তারে জগন্নাথ করিলা রক্ষণ ৷  
 কালি কে রাখিবে যদি না দিবে রাজধন ? ॥ ৬৫ ॥
 
 āji tāre jagannātha karilā rakṣaṇa  
-kāli ke rākhibe yadi nā dibe rāja-dhana?
+today  him  Jagannātha  made  protection  
+kāli ke rākhibe yadi nā dibe rāja-dhana?  
+tomorrow  who  will protect  if  not  he gives  the king’s wealth
 
-(65) [not yet translated]
+(65) Today Jagannātha has protected him; but tomorrow who will protect him if he does not pay the king’s money?
 
 বিষয়ীর বার্ত্তা শুনি’ ক্ষুব্ধ হয় মন ৷  
 তাতে ইঁহা রহি’ মোর নাহি প্রয়োজন ॥ ৬৬ ॥
 
 viṣayīra vārtā śuni’ kṣubdha haya mana  
-tāte iṅhā rahi’ mora nāhi prayojana
+of worldly men  the news  hearing  disturbed  becomes  the mind  
+tāte iṅhā rahi’ mora nāhi prayojana  
+therefore  here  staying  My  is no  purpose
 
-(66) [not yet translated]
+(66) Hearing the affairs of worldly men disturbs My mind, and so I have no reason to stay here.”
 
 কাশীমিশ্র কহে প্রভুর ধরিয়া চরণে ৷  
 তুমি কেনে এই বাতে ক্ষোভ কর মনে ? ॥ ৬৭ ॥
 
 kāśī-miśra kahe prabhura dhariyā caraṇe  
-tumi kene ei bāte kṣobha kara mane?
+Kāśī Miśra  said  the Lord’s  holding  feet  
+tumi kene ei bāte kṣobha kara mane?  
+You  why  over this  matter  agitation  make  in the mind
 
-(67) [not yet translated]
+(67) Clasping the Lord’s feet, Kāśī Miśra said, “Why do You let this matter trouble Your mind?
 
 বিরক্ত সন্ন্যাসী তোমার কা-সনে সম্বন্ধ ?  
 ব্যবহার লাগি’ তোমা ভজে, সেই জ্ঞান-অন্ধ ॥ ৬৮ ॥
 
 virakta sannyāsī tomāra kā-sane sambandha?  
-vyavahāra lāgi’ tomā bhaje, sei jñāna-andha
+a detached  sannyāsī  Your  with whom  relationship  
+vyavahāra lāgi’ tomā bhaje, sei jñāna-andha  
+worldly dealings  for the sake of  You  worships  he  blind to knowledge
 
-(68) [not yet translated]
+(68) You are a detached *sannyāsī* — what connection have You with anyone? One who worships You for worldly ends is blind to true knowledge.
 
 তোমার ভজন-ফলে তোমাতে ‘প্রেমধন’ ৷  
 বিষয় লাগি’ তোমায় ভজে, সেই মূর্খ জন ॥ ৬৯ ॥
 
 tomāra bhajana-phale tomāte ‘prema-dhana’  
-viṣaya lāgi’ tomāya bhaje, sei mūrkha jana
+of Your  worship  as the fruit  for You  the treasure of love  
+viṣaya lāgi’ tomāya bhaje, sei mūrkha jana  
+worldly things  for the sake of  You  worships  that  foolish  person
 
-(69) [not yet translated]
+(69) The fruit of worshipping You is the treasure of love for You. One who worships You for the sake of worldly things is a fool.
 
 তোমা লাগি’ রামানন্দ রাজ্য ত্যাগ কৈলা ৷  
 তোমা লাগি’ সনাতন ‘বিষয়’ ছাড়িলা ॥ ৭০ ॥
 
 tomā lāgi’ rāmānanda rājya tyāga kailā  
-tomā lāgi’ sanātana ‘viṣaya’ chāḍilā
+You  for the sake of  Rāmānanda  the kingdom  renunciation  made  
+tomā lāgi’ sanātana ‘viṣaya’ chāḍilā  
+You  for the sake of  Sanātana  his worldly position  gave up
 
-(70) [not yet translated]
+(70) For Your sake Rāmānanda gave up his governorship; for Your sake Sanātana abandoned his worldly position.
 
 তোমা লাগি’ রঘুনাথ সকল ছাড়িল ৷  
 হেথায় তাহার পিতা বিষয় পাঠাইল ॥ ৭১ ॥
 
 tomā lāgi’ raghunātha sakala chāḍila  
-hethāya tāhāra pitā viṣaya pāṭhāila
+You  for the sake of  Raghunātha  everything  gave up  
+hethāya tāhāra pitā viṣaya pāṭhāila  
+here  his  father  wealth  sent
 
-(71) [not yet translated]
+(71) For Your sake Raghunātha gave up everything, and here his father sent him wealth.
 
 তোমার চরণ-কৃপা হঞাছে তাহারে ৷  
 ছত্রে মাগি’ খায়, ‘বিষয়’ স্পর্শ নাহি করে ॥ ৭২ ॥
 
 tomāra caraṇa-kṛpā hañāche tāhāre  
-chatre māgi’ khāya, ‘viṣaya’ sparśa nāhi kare
+Your  the mercy of the feet  has come  to him  
+chatre māgi’ khāya, ‘viṣaya’ sparśa nāhi kare  
+at the alms-house  begging  he eats  the wealth  touch  not  does
 
-(72) [not yet translated]
+(72) But the mercy of Your feet has come to him: he begs his food at the alms-house and does not touch that wealth.
 
 রামানন্দের ভাই গোপীনাথ-মহাশয় ৷  
 তোমা হৈতে বিষয়-বাঞ্ছা, তার ইচ্ছা নয় ॥ ৭৩ ॥
 
 rāmānandera bhāi gopīnātha-mahāśaya  
-tomā haite viṣaya-vāñchā, tāra icchā naya
+Rāmānanda’s  brother  the noble Gopīnātha  
+tomā haite viṣaya-vāñchā, tāra icchā naya  
+You  from  desire for worldly gain  his  wish  is not
 
-(73) [not yet translated]
+(73) The noble Gopīnātha, Rāmānanda’s brother, has no wish for worldly gain from You.
 
 তার দুঃখ দেখি’ তার সেবকাদিগণ ৷  
 তোমারে জানাইল, — যাতে ‘অনন্যশরণ’ ॥ ৭৪ ॥
 
 tāra duḥkha dekhi’ tāra sevakādi-gaṇa  
-tomāre jānāila, — yāte ‘ananya-śaraṇa’
+his  distress  seeing  his  servants and others  
+tomāre jānāila, — yāte ‘ananya-śaraṇa’  
+to You  they reported  since  having no other shelter
 
-(74) [not yet translated]
+(74) Seeing his distress, his servants and others told You of it, for he has no shelter but You (*ananya-śaraṇa*).
 
 সেই ‘শুদ্ধ-ভক্ত’, যে তোমা ভজে তোমা লাগি’ ৷  
 আপনার সুখ-দুঃখে হয় ভোগ-ভাগী ॥ ৭৫ ॥
 
 sei ‘śuddha-bhakta’, ye tomā bhaje tomā lāgi’  
-āpanāra sukha-duḥkhe haya bhoga-bhāgī
+he  a pure devotee  who  You  worships  You  for the sake of  
+āpanāra sukha-duḥkhe haya bhoga-bhāgī  
+his own  in happiness and distress  is  the sharer of the experience
 
-(75) [not yet translated]
+(75) He is a pure devotee who worships You for Your own sake; in his own happiness and distress he himself bears his share.
 
 তোমার অনুকম্পা চাহে, ভজে অনুক্ষণ ৷  
 অচিরাৎ মিলে তাঁরে তোমার চরণ ॥ ৭৬ ॥
 
 tomāra anukampā cāhe, bhaje anukṣaṇa  
-acirāt mile tāṅre tomāra caraṇa
+Your  mercy  he seeks  he worships  constantly  
+acirāt mile tāṅre tomāra caraṇa  
+soon  is attained  by him  Your  feet
 
-(76) [not yet translated]
+(76) He longs for Your mercy and worships You constantly; soon he attains Your feet.
 
 তত্তেঽনুকম্পাং সুসমীক্ষ্যমাণো  
 ভুঞ্জান এবাত্মকৃতং বিপাকম্ ৷  
@@ -928,7 +1000,7 @@ gopīnāthe ‘baḍa jānā’ ḍākiyā ānilā
 সেই মালজাঠ্যা-দণ্ডপাট তোমারে ত’ দিলুঁ ॥ ১০৫ ॥
 
 rājā kahe, — saba kauḍi tomāre chāḍiluṅ  
-sei mālajāṭhyā daṇḍa pāṭa tomāre ta’ diluṅ
+sei mālajāṭhyā-daṇḍapāṭa tomāre ta’ diluṅ
 
 (105) [not yet translated]
 
@@ -1288,7 +1360,7 @@ ei-mātra kahila, ihāra nā bujhibe bheda
 উদ্যোগ বিনা এতসব ফল দিল ॥ ১৫০ ॥
 
 kāśī-miśre nā sādhila, rājāre nā sādhila  
-udyoga vinā eta saba phala dila
+udyoga vinā etasaba phala dila
 
 (150) [not yet translated]
 
