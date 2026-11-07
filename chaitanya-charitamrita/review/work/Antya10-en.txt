@@ -1,0 +1,428 @@
+# English translation, Antya-līlā 10 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya10.txt, .p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–82; shift 2: 83–162.
+
+## 0
+tr: Relishing the Devotees’ Offerings
+
+## 1
+w: I worship  Śrī Kṛṣṇa Caitanya
+w: who bestows grace on His devotees
+w: with whatever  even  pleased
+w: given by a devotee  with faith
+tr: I worship Śrī Kṛṣṇa Caitanya, who bestows grace on His devotees and is pleased with whatever a devotee offers Him with faith.
+fn: *Anubhāṣya*: *yena kenāpi* — with anything at all, even the simplest thing, if a devotee offers it with faith.
+
+## 2
+w: glory  glory  to Gauracandra  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Gauracandra! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Madhya 4.2 (and Antya 3.2); translation as there.
+
+## 3
+w: in the next year  all  the devotees  the Lord  to see
+w: in great joy  all  to Nīlācala  to go
+tr: The next year all the devotees set out in great joy for Nīlācala to see the Lord.
+
+## 4
+w: Advaitācārya Gosāñi  of all  the foremost
+w: Ācāryaratna  Ācāryanidhi  Śrīvāsa  and others  blessed
+tr: Foremost of all was Advaitācārya Gosāñi; with him came Ācāryaratna, Ācāryanidhi, Śrīvāsa and other blessed devotees.
+fn: *Anubhāṣya*: Ācāryaratna is Candraśekhara; Ācāryanidhi is Puṇḍarīka Vidyānidhi, also called Premanidhi.
+
+## 5
+w: although  the Lord’s  order  in Gauḍa  to remain
+w: still  Nityānanda  in love  set out  to see (Him)
+tr: Although the Lord had ordered Him to remain in Gauḍa, Nityānanda, out of love, set out to see Him.
+
+## 6
+w: of anurāga  the sign  this  rules  not  heeds
+w: His  order  breaks  His  company  for the sake of
+tr: This is the sign of *anurāga* (deep, spontaneous love): it does not heed rules (*vidhi*). For the sake of His company it breaks His order.
+
+## 7
+w: in the rāsa  as  home  to go  to the gopīs  an order  He gave
+w: His  order  breaking  with Him  they  remained
+tr: So it was in the *rāsa* dance: He told the gopīs to go home, but they broke His order and stayed with Him.
+
+## 8
+w: in the keeping of His order  Kṛṣṇa’s  whatever  satisfaction
+w: in love  the order  if broken  there is  a millionfold nourishment of joy
+tr: Kṛṣṇa is pleased when His order is kept; but when it is broken out of love, His joy is nourished a millionfold.
+
+## 9–11
+w: Vāsudeva Datta  Murāri Gupta  Gaṅgādāsa
+w: Śrīmān Sena  Śrīmān Paṇḍita  Akiñcana  Kṛṣṇadāsa
+w: Murāri  Garuḍa Paṇḍita  Buddhimanta Khān
+w: Sañjaya Puruṣottama  Paṇḍita Bhagavān
+w: Śuklāmbara  Nṛsiṁhānanda  and  as many  people (as there were)
+w: all  set out  the names  not  can be  written
+tr: Vāsudeva Datta, Murāri Gupta, Gaṅgādāsa, Śrīmān Sena, Śrīmān Paṇḍita, Akiñcana Kṛṣṇadāsa, Murāri, Garuḍa Paṇḍita, Buddhimanta Khān, Sañjaya Puruṣottama, Bhagavān Paṇḍita, Śuklāmbara, Nṛsiṁhānanda and all the others set out. Their names cannot all be written down.
+
+## 12
+w: the people of Kulīnagrāma  the residents of Khaṇḍa  joined  coming
+w: Śivānanda Sena  came  all  bringing
+tr: The people of Kulīnagrāma and the residents of Khaṇḍa came and joined them, and Śivānanda Sena came, bringing everyone along.
+
+## 13
+w: Rāghava Paṇḍita  goes  the jhālis  having packed
+w: Damayantī  all  the things  had given  having prepared
+tr: Rāghava Paṇḍita set out with his *jhālis* (hampers), packed with all the things that Damayantī had prepared and given him.
+
+## 14
+w: various  wonderful  foods  for the Lord  worthy  offerings
+w: for a whole year  the Lord  which  makes  use of
+tr: There were many wonderful foods, offerings worthy of the Lord, enough for Him to partake of for a whole year.
+
+## 15–16
+w: mango kāśandi  ginger and chili kāśandi  so named
+w: lime and ginger with mango buds  various  preparations
+w: āmsi  āma-khaṇḍa  tailāmra  āma-sattā
+w: with care  making  powder  making  dried  śuktā
+tr: There were mango *kāśandi* and the relishes called ginger and chili *kāśandi*, lime and ginger with mango buds, and other preparations; *āmsi*, *āma-khaṇḍa*, *tailāmra* (mango pickle in mustard oil) and *āma-sattā*; and dried *śuktā* (bitter greens), carefully ground into powder.
+fn: *Anubhāṣya*: *tailāmra* is mango pickle kept in mustard oil. *Amṛta-pravāha-bhāṣya*: *purāṇa śuktā* — dried bitter jute greens.
+
+## 17
+w: śuktā  calling it  contempt  do not  feel  in your mind
+w: in śuktā  what  joy  there is  is not  in pañcāmṛta
+tr: Do not look down on it because it is only *śuktā*: the joy found in *śuktā* is not found even in *pañcāmṛta*.
+fn: The Gauḍīya Maṭha edition reads *śuktāya ye sukha haya, nahe pañcāmṛte*; another reading is *sukutāya ye sukha prabhura, tāhā nahe pañcāmṛte* (“the Lord’s joy in *sukutā* is not found in *pañcāmṛta*”).
+
+## 18
+w: who accepts the feeling  Mahāprabhu  the affection  alone  accepts
+w: in śuktā leaves and kāśandi  great joy  there is
+tr: Mahāprabhu receives the feeling (*bhāva-grāhī*); He takes only the affection. So the *śuktā* leaves and *kāśandi* gave Him great joy.
+fn: Edition heading: the transcendental Bhagavān accepts the feeling. *Anubhāṣya*: *bhāva* here is a transcendental, causeless movement of the heart, made of pure goodness and aimed at pleasing Kṛṣṇa — not a mundane feeling that seeks its own pleasure.
+
+## 19
+w: human  regard  Damayantī  holds  the Lord’s  toward the feet
+w: from heavy eating  in the stomach  sometimes  āma  becoming  goes
+tr: Damayantī, in her affection, regarded the Lord as a human being (*manuṣya-buddhi*): “From heavy food, *āma* (indigestion) may sometimes form in His stomach.
+fn: *Anubhāṣya*: to see Him as a human being (*manuṣya-buddhi*) is the consciousness of the residents of Gauḍa and Vraja: their hearts, made of pure goodness, know nothing of His majesty, and they know Gaura-Kṛṣṇa in His human form as won over by their pure love alone. *Āma* is an acid-bilious disorder that comes from indigestion.
+
+## 20
+w: śuktā  if He eats  that  āma  will be  destroyed
+w: that  affection  in His mind  considering  the Lord’s  delight
+tr: If He eats *śuktā*, that *āma* will be cured.” Thinking of her affection, the Lord was delighted.
+
+## 21
+w: by her beloved  strung  in the presence of her rivals
+w: placed  on her breast  the full-breasted (woman)
+w: the garland  not  a certain (woman)  cast off  soiled with water
+w: dwell  for  in love  virtues  not  in the thing
+tr: “Her beloved strung a garland himself and placed it on her breast in the presence of her rivals; and though it was soiled with water, that full-bosomed girl did not cast it off — for virtues dwell in love, not in the thing.” (Kirātārjunīya, 8.20)
+fn: Edition heading: a verse from Bhāravi’s *Kirātārjunīya* (canto 8, verse 20); only what is offered with love is full of virtue, and in a gift of love outer faults and merits are not weighed. *Anubhāṣya*: only a thing offered with love has virtue; any other, even a good one, is without it — and love has no need to test the thing.
+
+## 22
+w: of coriander and anise  the seeds  powder  making
+w: nāḍus  she has shaped  sugar syrup  cooking
+tr: She ground coriander and anise seeds into powder, cooked it in sugar syrup and shaped it into *nāḍus* (sweet balls).
+
+## 23
+w: dry ginger with sugar  nāḍus  and  remedies for āma and bile
+w: separately  separately  tying  of cloth  in little bags
+tr: Dry ginger with sugar, *nāḍus*, and remedies for *āma* and bile she tied up separately in little cloth bags.
+fn: The Gauḍīya Maṭha edition reads *śuṇṭhī-khaṇḍa, nāḍu, āra āma-pitta-hara* — three separate things. *Amṛta-pravāha-bhāṣya*: *kuthalī* — little bags.
+
+## 24
+w: dried kul berries  kul powder  kul with sugar  and
+w: how many  names  shall I list  and  of a hundred kinds  pickles
+tr: Dried *kul* berries (*koli-śuṇṭhi*), *kul* powder, *kul* with sugar — how many names shall I list? — and a hundred kinds of pickles (*ācāra*).
+
+## 25
+w: coconut sweets  and  nāḍus  gaṅgājali
+w: long-lasting  sugar sweets  she made  all
+tr: Coconut sweets and *gaṅgājali nāḍus* (white sweet balls) — she made every kind of sugar sweet that would keep a long time.
+
+## 26
+w: long-lasting  kṣīrasāra  maṇḍā and other  preparations
+w: amṛta-karpūra  and others  many  kinds
+tr: There were also long-lasting *kṣīrasāra* (thickened cream), *maṇḍā* and other milk sweets, *amṛta-karpūra* and many more besides.
+
+## 27
+w: of śālikācaṭi paddy  sun-dried  flat rice  making
+w: of new cloth  big  bags  all  filling
+tr: From *śālikācaṭi* paddy she made sun-dried (*ātapa*) flat rice and filled big bags of new cloth with it.
+
+## 28
+w: some  flat rice  huḍum  making  in ghee  frying
+w: in sugar syrup  nāḍus  she made  camphor and so on  adding
+tr: Some of the flat rice she made into *huḍum* (puffed rice) and fried it in ghee; then, adding camphor and other spices, she made *nāḍus* of it in sugar syrup.
+
+## 29–30
+w: of śāli paddy  fried rice grains  powder  making
+w: moistened with ghee  the powder  she made  sugar syrup  adding
+w: camphor  black pepper  cloves  cardamom  rasavāsa
+w: the powder  adding  nāḍus  she made  most  fragrant
+tr: She fried grains of *śāli* rice and ground them to powder, moistened the powder with ghee and cooked it with sugar syrup. Then, adding powdered camphor, black pepper, cloves, cardamom and *rasavāsa* (aromatic spice), she made most fragrant *nāḍus*.
+
+## 31
+w: of śāli paddy  khai  again  in ghee  frying
+w: in sugar syrup  ukhḍā  she made  camphor and so on  adding
+tr: Again, she fried *khai* (popped rice) of *śāli* paddy in ghee and made *ukhḍā* in sugar syrup, adding camphor and other spices.
+fn: *Amṛta-pravāha-bhāṣya*: *ukhḍā* — the small husked grains, like *khai*, that remain after the large *khai* have been picked out.
+
+## 32
+w: phuṭkalāi  powder  making  in ghee  she fried
+w: in sugar syrup  camphor  adding  nāḍus  she made
+tr: She ground *phuṭkalāi* (fried peas) to powder and fried it in ghee, and with sugar syrup and camphor made *nāḍus* of it.
+
+## 33
+w: to tell  not  I know  the names  in this life  of which
+w: such  various  foods  of a thousand  kinds
+tr: There were a thousand kinds of such foods, whose names I could not tell in this lifetime.
+
+## 34
+w: Rāghava’s  order  and  carries out  Damayantī
+w: of both  for the Lord  affection  supreme devotion
+tr: Rāghava gave the orders, and Damayantī carried them out. Both had deep affection and supreme devotion for the Lord.
+
+## 35
+w: Gaṅgā clay  bringing  through cloth  straining
+w: pāṁc  kuḍi  making  she gave  fragrant substances  adding
+tr: She brought clay from the Gaṅgā, strained it through cloth, mixed in fragrant substances and made it into *pāṁc-kuḍi* (thin wafers).
+fn: The Gauḍīya Maṭha edition reads *pāṁc kuḍi*; according to the *Anubhāṣya*, other readings are *pākauḍi* and *pāṁpaḍi* (thin wafers), or *parpaṭī*.
+
+## 36
+w: thin  clay  pots  sandalwood and so on  filling
+w: other  all  things  she fills  of cloth  little bags
+tr: She filled thin clay pots with sandalwood paste and other things, and packed everything else in little cloth bags.
+fn: The Gauḍīya Maṭha edition reads *candanādi* (“sandalwood and other things”); another reading is *sandhānādi* (“pickles and the like”).
+
+## 37
+w: ordinary  jhālis  than  twice as big  jhālis  she made
+w: neatly  making  all  the jhālis  she had filled
+tr: She had *jhālis* made twice the size of ordinary ones, and had them all packed neatly.
+
+## 38
+w: the jhālis  tying  a seal  she gave  with care
+w: three  porters  the jhālis  carry  in turn  doing
+tr: She tied up the *jhālis* and carefully sealed them. Three porters carried them, taking turns.
+
+## 39
+w: briefly  I have told  these  jhālis’  account
+w: Rāghava’s jhālis  as  fame  of which
+tr: I have briefly described these *jhālis*, which became famous as “Rāghava’s *jhālis*.”
+
+## 40
+w: the jhālis  over  munsib  Makaradhvaja Kara
+w: like his life  the jhālis  keeps  being  vigilant
+tr: Makaradhvaja Kara was the *munsib* (steward) of the *jhālis*; he guarded them vigilantly, as if they were his very life.
+fn: *Anubhāṣya*: *munsib* (Arabic *munsif*) — overseer, steward; Makaradhvaja Kara was a resident of Pānihāṭi, a devotee of Gaura and a follower of Rāghava Paṇḍita.
+
+## 41
+w: in this way  the Vaiṣṇavas  all  to Nīlācala  came
+w: by providence  Jagannātha’s  that  day  water pastime
+tr: In this way all the Vaiṣṇavas came to Nīlācala. As providence would have it, that day was Jagannātha’s water pastime.
+
+## 42
+w: of Narendra  on the water  Govinda  a boat  boarding
+w: water sports  performs  all the devotees  with
+tr: On the waters of Narendra Lake, Śrī Govinda boarded a boat and sported in the water with all the devotees.
+fn: *Anubhāṣya* (on verse 52): in the temple of Jagannātha resides Śrī Govindadeva, the *vijaya-mūrti* (the Deity who goes out in procession); it is He who goes to Narendra for the water pastimes.
+
+## 43
+w: at that time  Mahāprabhu  with the devotees
+w: to Narendra  came  to see  the water play  joyfully
+tr: At that time Mahāprabhu came joyfully to Narendra with His devotees to watch the water play.
+
+## 44
+w: at that time  all  of Gauḍa  the devotees
+w: at Narendra  with the Lord  was  meeting
+tr: At that very time all the devotees of Gauḍa met the Lord at Narendra.
+
+## 45
+w: the devotees  fall  coming  at the Lord’s  feet
+w: raising them  the Lord  all  embraced
+tr: The devotees came and fell at the Lord’s feet, and the Lord raised them all and embraced them.
+
+## 46
+w: the Gauḍīya  party  all  perform  kīrtana
+w: at the Lord’s  meeting  rises  of love  weeping
+tr: The whole Gauḍīya party sang kīrtana, and on meeting the Lord they wept with love.
+
+## 47
+w: water sports  music  singing  dancing  kīrtana
+w: a great tumult  on the shore  in the water  play
+tr: Water sports, music, singing, dancing and kīrtana — a great tumult on the shore and play in the water.
+
+## 48
+w: of the Gauḍīyas  saṅkīrtana  and  weeping  mingling
+w: the sound of a great tumult  arose  the universe  filling
+tr: The Gauḍīyas’ saṅkīrtana and their weeping mingled, and the sound of that great tumult filled the universe.
+
+## 49
+w: all  the devotees  taking  the Lord  entered  the water
+w: all  with  water sports  performs  delightedly
+tr: The Lord entered the water with all the devotees and sported with them all in delight.
+
+## 50
+w: the Lord’s  this  water sport  Vṛndāvana dāsa
+w: in the Caitanya-maṅgala  at length  has made  description
+tr: Vṛndāvana dāsa has described these water sports of the Lord at length in his *Caitanya-maṅgala* (the *Caitanya-bhāgavata*).
+fn: *Caitanya-maṅgala* was the first title of the *Caitanya-bhāgavata*. *Amṛta-pravāha-bhāṣya*: see *Caitanya-bhāgavata*, Antya, chapter 9.
+
+## 51
+w: again  this  if I describe  repetition  there is
+w: useless  writing  is  my  book  enlarges
+tr: If I describe them here again, it will be repetition — useless writing that only makes my book longer.
+
+## 52
+w: water pastime  performing  Govinda  went  to His abode
+w: His own associates  with  the Lord  went  to the temple
+tr: After the water pastime Govinda returned to His abode, and the Lord went to the temple with His associates.
+
+## 53
+w: Jagannātha  seeing  again  His own  to the residence came
+w: prasāda  having brought  the devotees  He fed
+tr: After seeing Jagannātha, He returned to His residence, had prasāda brought and fed the devotees.
+
+## 54
+w: a discussion  all  with  for some time  He held
+w: to their own  former lodgings  everyone  He sent
+tr: For some time He talked with them all of Kṛṣṇa (*iṣṭa-goṣṭhī*), and then sent everyone to the lodgings each had occupied before.
+
+## 55
+w: to Govinda  Rāghava  the jhālis  handed over
+w: of the dining room  in a corner  the jhālis  were kept
+tr: Rāghava handed the *jhālis* over to Govinda, and they were kept in a corner of the dining room.
+
+## 56
+w: of the previous year  the jhālis  empty  making
+w: things  for filling  keeps  in another room  taking
+tr: Govinda emptied the previous year’s *jhālis* and took them to another room, keeping them there to be filled with provisions.
+
+## 57
+w: next  day  Mahāprabhu  His associates  with
+w: Jagannātha  saw  at the rising from bed  going
+tr: The next day Mahāprabhu went with His associates to see Jagannātha at His rising from bed.
+
+## 58
+w: encircling saṅkīrtana  there  beginning  He made
+w: seven  parties  then  to sing  began
+tr: There He began the *beḍā-saṅkīrtana* (the kīrtana around the temple), and seven parties began to sing.
+
+## 59
+w: in the seven parties  dance  perform  seven  people
+w: Advaita Ācārya  and  Prabhu Nityānanda
+tr: In the seven parties seven persons danced: Advaita Ācārya and Prabhu Nityānanda,
+
+## 60
+w: Vakreśvara  Acyutānanda  Paṇḍita Śrīvāsa
+w: Satyarāja Khān  and  Narahari dāsa
+tr: Vakreśvara, Acyutānanda, Śrīvāsa Paṇḍita, Satyarāja Khān and Narahari dāsa.
+
+## 61
+w: among the seven parties  the Lord  makes  wandering
+w: in my  party  the Lord  so  everyone’s  mind
+tr: The Lord moved among the seven parties, and each one thought, “The Lord is in my party.”
+fn: Edition heading: the Lord manifests His great majesty (*aiśvarya*).
+
+## 62
+w: saṅkīrtana  by the tumult  the sky  was pierced
+w: all  the residents of Jagannātha’s town  to see  came
+tr: The tumult of the saṅkīrtana pierced the sky, and all the residents of Jagannātha’s town came to see.
+
+## 63
+w: the king  coming  from afar  watches  his retinue  with
+w: the queens  all  watch  the upper storey  climbing
+tr: The king came with his retinue and watched from a distance, and all the queens watched from the upper storey of the palace.
+
+## 64
+w: in the ecstasy of kīrtana  the earth  makes  trembling
+w: the sound of Hari  make  the people  there was  a tumult
+tr: In the ecstasy of the kīrtana the earth trembled. The people called out “Hari!” and there was a great tumult.
+fn: The Gauḍīya Maṭha edition reads *kīrtana-āveśe* (“in the ecstasy of kīrtana”); another reading, noted in the *Anubhāṣya*, is *kīrtana-āṭope* (“by the force of the kīrtana”).
+
+## 65
+w: in this way  for some time  He had performed  kīrtana
+w: Himself  to dance  then  the Lord’s  arose  wish
+tr: In this way He had the kīrtana performed for some time; then the Lord wished to dance Himself.
+
+## 66
+w: on seven sides  seven parties  sing  play
+w: in the middle  in the ecstasy of great love  dances  Gaura Rāya
+tr: On seven sides the seven parties sang and played, and in the middle Gaura Rāya danced, absorbed in great love.
+
+## 67
+w: an Oḍiyā line  Mahāprabhu’s  in the mind  remembrance  arose
+w: to Svarūpa  that  line  to sing  order  He gave
+tr: A line of an Oḍiyā song came to Mahāprabhu’s mind, and He told Svarūpa to sing it:
+
+## 68
+w: the Jagamohana  to  head  may be offered
+tr: “Let my head be offered at the Jagamohana!”
+fn: *Anubhāṣya*: the Jagamohana is the hall (*nāṭya-mandira*) of Śrī Jagannātha; *pari* — “to”, *muṇḍā* — “head”, *yāu* — “may it be offered”. *Amṛta-pravāha-bhāṣya*: the place in the Jagamohana where the devotees dance is called *parimaṇḍala*, and *parimuṇḍā* is the Oḍiyā corruption of that word; the line is not given in full, so its sense is not clear — it only points to some special feeling.
+
+## 69
+w: to this  line  dance  He performs  in His own absorption
+w: all the people  around  in the Lord’s  love  float
+tr: To this line He danced, absorbed in His own feeling, and all the people around floated in the Lord’s love.
+fn: The Gauḍīya Maṭha edition reads *āpana-āveśe* (“absorbed in His own feeling”); another reading is *parama-āveśe* (“in great absorption”).
+
+## 70
+w: say  say  says  the Lord  His holy arms  raising
+w: the sound of Hari  make  the people  in bliss  floating
+tr: Raising His holy arms, the Lord called, “Say it! Say it!” and the people, floating in bliss, called out “Hari!”
+
+## 71
+w: the Lord  falling  unconscious  goes  breath  not  any more
+w: suddenly  rises  the Lord  making  a roar
+tr: The Lord fell and lost consciousness; He was no longer breathing. Then suddenly He rose with a roar.
+
+## 72
+w: dense  bristling of the hair  like  of a śimula  tree
+w: sometimes  swollen  the body  sometimes  becomes  thin
+tr: His hair bristled thickly, like the thorns of a *śimula* tree. At times His body swelled; at times it grew thin.
+
+## 73
+w: from every  pore  comes  perspiration  oozing of blood
+w: ‘jaja’  ‘gaga’  ‘pari’  ‘mumu’  faltering  speech
+tr: From every pore came perspiration and blood, and His faltering voice uttered only “jaja,” “gaga,” “pari,” “mumu.”
+
+## 74
+w: one  one  tooth  all  separately  separately  shake
+w: so  shake  the teeth  as if  to the ground  coming loose  fall
+tr: Each of His teeth shook separately; they shook as if they would come loose and fall to the ground.
+
+## 75
+w: moment  by moment  grows  the Lord’s  ecstasy of bliss
+w: the third  prahara  came  the dance  is not  ended
+tr: Moment by moment the Lord’s blissful ecstasy grew. The third *prahara* of the day came, and still the dance did not end.
+
+## 76
+w: of all  the people  surged  the ocean of bliss
+w: all  the people  forgot  body  self  home
+tr: The ocean of bliss surged in everyone, and all the people forgot body, self and home.
+
+## 77
+w: then  Nityānanda Prabhu  devised  a means
+w: gradually  the singers  stopped  all
+tr: Then Nityānanda Prabhu devised a means: one by one He stopped all the singers.
+
+## 78
+w: principal  principal  whichever  were  the parties
+w: with Svarūpa  they  in a soft voice  sing
+tr: Only the principal parties went on singing with Svarūpa, softly.
+
+## 79
+w: tumult  there was no  the Lord’s  some  outer awareness  came
+w: then  Nityānanda  everyone’s  fatigue  made known
+tr: When the tumult died down, the Lord regained some outer awareness. Then Nityānanda told Him how tired everyone was.
+fn: Edition heading: the Lord comes to a half-external state (*ardha-bāhya*).
+
+## 80
+w: the devotees’ fatigue  knowing  He made  of the kīrtana  conclusion
+w: all  with  coming  He made  in the sea  bathing
+tr: Knowing that the devotees were tired, He brought the kīrtana to an end, went with them all and bathed in the sea.
+
+## 81
+w: all  with  the Lord  made  prasāda  eating
+w: to all  leave  He gave  to take  rest
+tr: The Lord took prasāda with them all and then sent everyone off to rest.
+
+## 82
+w: of the Gambhīrā  at the door  makes  Himself  lying down
+w: Govinda  coming  does  massaging of the feet
+tr: He Himself lay down at the door of the Gambhīrā, and Govinda came to massage His feet.
