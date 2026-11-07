@@ -28,7 +28,7 @@
 
 > Subheading: Growth in Īśvara Purī —
 
-Śrī Īśvara Purī was born in a brāhmaṇa family in Kumārahaṭṭa (Hālisahara station on the E.B.R. line) and was the dearest disciple of Śrī Mādhavendra Purī. Antya 8.26–29: “Īśvara Purī served his master's feet and with his own hands cleaned away stool and urine. He constantly made him remember Kṛṣṇa's name and made him hear Kṛṣṇa's name and pastimes at every moment. Pleased, Purī embraced him and gave the blessing: ‘May you have the treasure of love for Kṛṣṇa.’ From then on Īśvara Purī became an ocean of love…”
+Śrī Īśvara Purī was born in a brāhmaṇa family in Kumārahaṭṭa (Hālisahara station on the E.B.R. line) and was the dearest disciple of Śrī Mādhavendra Purī. Antya 8.26–29: “Īśvara Purī, however, served Śrīpāda Mādhavendra Purī, cleaning away his stool and urine with his own hands. He constantly helped him remember the name of Kṛṣṇa, and at every moment let him hear Kṛṣṇa’s name and Kṛṣṇa’s pastimes. Pleased with him, Purī Gosāñi embraced him and gave him a blessing: ‘May you have the treasure of love for Kṛṣṇa!’ From then on Īśvara Purī was an ocean of love…”
 
 Before initiating Śrī Mahāprabhu into the ten-syllable mantra at Gayā, Īśvara Purī came to the town of Navadvīpa and stayed several months in the house of Gopīnātha Ācārya. At that time he conversed with Śrī Mahāprabhu and had Him hear his own book, the *Kṛṣṇa-līlāmṛta*. See the *Caitanya-bhāgavata*, Ādi, Chapter 7.
 
