@@ -37,9 +37,9 @@ branches of the tree he says briefly of Bhavananda: the father of Ramananda Raya
 Alalanatha, was by birth of the shaukra-karanas, and in the pastimes of Krishna is known as King Pandu. <!-- F53 -->
 
 ## Family and Village
-Bhavananda belonged to the karanas, an Oriya community of officials similar to the kayasthas of Bengal; Srila Bhaktisiddhanta
-names his family more precisely as “shaukra-karana.” Oriya society counts the karanas among the shudras, and Srila Bhaktisiddhanta
-Sarasvati says so plainly. But a Vaishnava stands above every varna: not for nothing did the Lord make Bhavananda's son
+Bhavananda belonged to the karanas, an Oriya community of officials similar to the kayasthas of Bengal; in the “Anubhashya”
+his family is named more precisely as “shaukra-karana.” Oriya society counts the karanas among the shudras, and Srila
+Bhaktisiddhanta says so plainly. But a Vaishnava stands above every varna: not for nothing did the Lord make Bhavananda's son
 Ramananda, born in this community, a teacher of sannyasis and panditas. <!-- F3 -->
 
 Bhavananda lived in Orissa, by the ancient holy place of Alalanatha, or Brahmagiri, six kroshas west of Puri[^2]. More
