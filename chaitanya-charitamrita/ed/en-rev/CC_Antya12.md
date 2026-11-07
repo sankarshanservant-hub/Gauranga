@@ -196,7 +196,7 @@ Nityānanda Prabhu  from hunger  distressed  becoming
 śivānande gāli pāḍe vāsā nā pāñā  
 Śivānanda  abuse  heaps on  lodging  not  having found
 
-(19) Nityānanda Prabhu, distressed by hunger and finding no lodging, began to abuse Śivānanda:[^5]
+(19) Nityānanda Prabhu, distressed by hunger and finding no lodging, began to berate Śivānanda:[^5]
 
 ‘তিন পুত্র মরুক শিবার, এখন না আইল ৷  
 ভোকে মরি’ গেনু, মোরে বাসা না দেওয়াইল’ ॥ ২০ ॥
@@ -366,7 +366,7 @@ thus  having said  Śrīkānta  the boy  ahead  going  goes
 saṅga chāḍi’ āge gelā mahāprabhura sthāna  
 the company  leaving  ahead  went  to Mahāprabhu’s  place
 
-(36) Saying this, the boy Śrīkānta went on ahead. Leaving the party, he went in advance to where Mahāprabhu was.
+(36) Saying this, the boy Śrīkānta hurried on ahead; leaving the party, he went to where Mahāprabhu was.
 
 পেটাঙ্গি-গায় করে দণ্ডবৎ-নমস্কার ৷  
 গোবিন্দ কহে, — ‘শ্রীকান্ত, আগে পেটাঙ্গি উতার’ ॥ ৩৭ ॥
@@ -683,7 +683,7 @@ of you all  the hardship  knowing  I want  to forbid
 tomā-sabāra saṅga-sukhe lobha bāḍe citte  
 of you all  in the happiness of company  greed  grows  in the heart
 
-(68) Knowing your hardships, I want to forbid you to come. But in My heart the greed for the happiness of your company grows.
+(68) Knowing your hardships, I want to forbid you to come. But in My heart the longing for the joy of your company keeps growing.
 
 নিত্যানন্দে আজ্ঞা দিলুঁ গৌড়েতে রহিতে ৷  
 আজ্ঞা লঙ্ঘি’ আইলা, কি পারি বলিতে ? ॥ ৬৯ ॥
@@ -753,7 +753,7 @@ by the Lord’s  words  of all  pleased  became  the minds
 ajhora nayane sabe karena krandana  
 streaming  with eyes  all  do  weeping
 
-(75) All were pleased at heart by the Lord’s words, and all wept with tears streaming from their eyes.
+(75) Everyone’s heart was gladdened by the Lord’s words, and they all wept, tears streaming from their eyes.
 
 প্রভু সবার গলা ধরি’ করেন রোদন ৷  
 কান্দিতে কান্দিতে সবায় কৈলা আলিঙ্গন ॥ ৭৬ ॥
