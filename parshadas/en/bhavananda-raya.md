@@ -279,8 +279,8 @@ birth. <!-- F25 I3 -->
 
 And when trouble came to his son, that word was fulfilled. The Lord, keeping the dharma of a sannyasi, did not petition
 the king or intervene in worldly affairs — yet His mercy, working through the prayer to Jagannatha, through Harichandana
-and through the king's love, turned the threat of execution into forgiveness and honour. Bhavananda saw in this what
-Pandu had once seen: the Lord does not abandon those who have surrendered to Him. And his son Gopinatha showed why one
+and through the king's love, turned the threat of execution into forgiveness and honour. Bhavananda recognized in this
+the same care with which the Lord had once saved the Pandavas: He does not abandon those who have surrendered to Him. And his son Gopinatha showed why one
 should remember the Lord: not for worldly gains, but for love of His feet. <!-- I1 I2 -->
 
 [^1]: One of the biographies, quoting the verse Adi 10.133, prints “Nayaka Gopinatha” instead of “Nayaka Vaninatha”; the
