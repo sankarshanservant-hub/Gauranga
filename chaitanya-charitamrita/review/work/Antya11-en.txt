@@ -1,0 +1,552 @@
+# English translation, Antya-līlā 11 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya11.txt), revised against the Bengali and the Anubhāṣya. One shift: verses 1–108.
+
+## 0
+tr: The Description of Śrī Haridāsa’s Departure
+
+## 1
+w: I bow  to Haridāsa  to him
+w: to Caitanya  to Him  and  his Lord
+w: departed  though  whose  body
+w: on His own lap  placing  danced  who
+tr: I bow to Haridāsa and to his Lord, Caitanya, who took the body of the departed Haridāsa on His lap and danced.
+fn: *Anubhāṣya*: *saṁsthitām* — gone into *samādhi*. Heading in the edition: obeisance to Gaura, who danced holding Haridāsa’s body in His arms.
+
+## 2
+w: glory  glory  to Śrī  Caitanya  glory  to the all-merciful
+w: glory to Him dear to Advaita  dear to Nityānanda  glory
+tr: Glory, glory to Śrī Caitanya! Glory to the all-merciful Lord! Glory to Him who is dear to Advaita and dear to Nityānanda!
+
+## 3
+w: glory  to the Lord of Śrīnivāsa  the master of Haridāsa
+w: glory  dear to Gadādhara  the Lord of Svarūpa’s life
+tr: Glory to the Lord of Śrīnivāsa, the master of Haridāsa! Glory to Him who is dear to Gadādhara, the Lord of Svarūpa’s life!
+
+## 4
+w: glory  dear to Kāśīśvara  the Lord of Jagadānanda’s life
+w: glory  the Lord of Rūpa, Sanātana and Raghunātha
+tr: Glory to Him who is dear to Kāśīśvara, the Lord of Jagadānanda’s life! Glory to the Lord of Rūpa, Sanātana and Raghunātha!
+fn: The Gauḍīya Maṭha edition reads *kāśīśvara-priya*, “dear to Kāśīśvara” (a disciple of Īśvara Purī and servant of Mahāprabhu; cf. verse 84); some editions read *kāśī-priya*.
+
+## 5
+w: glory  golden  of body  Kṛṣṇa  Himself  the Supreme Lord
+w: mercy  showing  give  O Lord  of Your own feet  the gift
+tr: Glory to Kṛṣṇa of golden form, the Supreme Lord Himself! O Lord, be merciful and grant me the shelter of Your feet.
+fn: *Gaura-deha* qualifies Kṛṣṇa. *Anubhāṣya*: *gaura-deha* — He whose body has a golden lustre.
+
+## 6
+w: glory  Nityānanda the moon  Caitanya’s  life
+w: Your  at the lotus feet  devotion  give  as a gift
+tr: Glory to Nityānandacandra, the life of Caitanya! Grant me devotion to Your lotus feet.
+
+## 7
+w: glory  glory to Advaitacandra  by Caitanya  honoured
+w: at Your own feet  devotion  give  glory to Advaitācārya
+tr: Glory to Advaitacandra, whom Caitanya honours! Glory to Advaitācārya! Grant me devotion to Your feet.
+
+## 8
+w: glory  Gaura’s  devotees  all  Gaura  whose  life
+w: all  devotees  together  to me  devotion  give  as a gift
+tr: Glory to all the devotees of Gaura, whose very life is Gaura! All you devotees, together grant me devotion.
+
+## 9
+w: glory  to Rūpa  Sanātana  Jīva  Raghunātha
+w: Raghunātha  Gopāla  six  my  lords of life
+tr: Glory to Rūpa, Sanātana, Jīva, Raghunātha, Raghunātha and Gopāla! These six are the lords of my life.
+
+## 10
+w: of all these  by the mercy  I write  Caitanya’s  pastimes  qualities
+w: somehow  or other  I write  I make  myself  pure
+tr: By the mercy of them all I write of the pastimes and qualities of Śrī Caitanya. However I may write, I do it to purify myself.
+fn: The first line is the same as Ādi 9.5; translated as there.
+
+## 11
+w: thus  Mahāprabhu’s  in Nīlācala  residence
+w: with Him  the devotees  taking  the pastimes of kīrtana
+tr: Thus Mahāprabhu lived in Nīlācala, enjoying the pastimes of kīrtana with His devotees.
+
+## 12
+w: by day  dancing and kīrtana  seeing the Lord (Jagannātha)
+w: at night  Rāya and Svarūpa  with  the relishing of rasa
+tr: By day He danced and sang kīrtana and beheld Lord Jagannātha; by night He relished rasa with Rāya and Svarūpa.
+fn: The second line is the same as Antya 9.6. Heading in the edition: at night, with Svarūpa and Rāmānanda, the Lord relishes the rasa of Śrī Rādhā’s love for Kṛṣṇa.
+
+## 13
+w: thus  Mahāprabhu’s  in happiness  time  passes
+w: Kṛṣṇa’s  of separation  transformations  in His body  many  arise
+tr: So Mahāprabhu’s days passed happily, and in His body many transformations of separation from Kṛṣṇa appeared.
+
+## 14
+w: day  by day  grow  the transformations  at night  intensely
+w: anxiety  agitation  delirious talk and the rest  as many as  the scriptures  describe
+tr: Day by day these transformations grew, and at night they became intense: anxiety, agitation, delirious talk and all the others the scriptures describe.
+
+## 15
+w: Svarūpa  Gosāñi  and  Rāmānanda Rāya
+w: night and day  give  the two  the Lord  help
+tr: Svarūpa Gosāñi and Rāmānanda Rāya, the two of them, attended the Lord day and night.
+
+## 16
+w: one day  Govinda  mahā-prasāda  taking
+w: to Haridāsa  to give  went  joyful  being
+tr: One day Govinda took mahā-prasāda and joyfully went to give it to Haridāsa.
+
+## 17
+w: he sees  Haridāsa  Ṭhākura  has  lain down
+w: slowly  slowly  is doing  the counted  saṅkīrtana
+tr: He saw that Haridāsa Ṭhākura was lying down, very slowly chanting his fixed number of names.
+
+## 18
+w: Govinda  says  get up  coming  take  the meal
+w: Haridāsa  says  today  I shall observe  a fast
+tr: Govinda said, “Get up, come and eat.” Haridāsa replied, “Today I shall fast.
+
+## 19
+w: the counted  chanting  is complete  not  how  shall I eat
+w: mahā-prasāda  you have brought  how  shall I disregard (it)
+tr: My counted chanting is not complete; how can I eat? Yet you have brought mahā-prasāda; how can I disregard it?”
+
+## 20
+w: so  saying  to the mahā-prasāda  he made  obeisance
+w: one  particle  taking  of it  he made  eating
+tr: Saying this, he bowed down to the mahā-prasāda, took a single particle (*rañca*) of it and ate it.
+
+## 21
+w: the next  day  Mahāprabhu  his  place  came to
+w: well  are you  Haridāsa  saying  him  He asked
+tr: The next day Mahāprabhu came to him and asked, “Haridāsa, are you well?”
+
+## 22
+w: obeisance  making  he  made  submission
+w: the body  well  is  my  unwell  intelligence and mind
+tr: He bowed down and replied, “My body is well, but my mind and intelligence are not.”
+
+## 23
+w: the Lord  says  what  illness  tell  indeed  precisely
+w: he  says  the counted  chanting  not  is completed
+tr: The Lord said, “What is the illness? Tell Me exactly.” He said, “I cannot complete my counted chanting.”
+
+## 24
+w: the Lord  says  old  you have become  the number  small  make
+w: perfect  in body  you are  for sādhana  eagerness  why  do you show
+tr: The Lord said, “You have grown old; reduce the number of your names. You are ever perfect, even in body (*siddha-deha*); why are you so intent on sādhana?
+fn: Heading in the edition: the Lord tells Haridāsa, whose body is perfect and not of this world, to lessen the sādhana that he only enacts as an example (*sādhana-abhinaya*).
+
+## 25
+w: the people  to deliver  this  your  descent
+w: of the name  the glory  in the world  you have made  preaching
+tr: You have descended to deliver the people, and you have preached the glory of the holy name in the world.
+fn: *Anubhāṣya*: by the Lord’s will His devotees and associates descend to the earth to serve Him.
+
+## 26
+w: now  small  the number  making  do  saṅkīrtana
+w: Haridāsa  says  hear  my  submission
+tr: Now reduce your number and perform saṅkīrtana.” Haridāsa said, “Please hear my request.
+
+## 27
+w: in a low caste  birth  my  contemptible  body
+w: in low deeds  engaged  I  the lowest  wretch
+tr: I was born in a low caste, and my body is contemptible. I am given to low deeds — I am the lowest of wretches.
+
+## 28
+w: unfit to be seen  unfit to be touched  me  acceptance  You made
+w: Raurava  from  snatching  me  to Vaikuṇṭha  You raised
+tr: I am unfit to be seen or touched, yet You accepted me. You snatched me out of the hell of Raurava and raised me up to Vaikuṇṭha.
+
+## 29
+w: independent  Lord  You  are  acting at will
+w: the world  You make dance  whom  as  wish  there is
+tr: You are the independent Lord and act as You will. You make the world dance — each one as You please.
+
+## 30
+w: much  You made dance  me  grace  bestowing
+w: of brāhmaṇas  the śrāddha plate  I ate  a mleccha  being
+tr: By Your grace You have made me dance in many ways: though a *mleccha*, I ate the *śrāddha* plate meant for brāhmaṇas.
+fn: See Antya 3.220. *Anubhāṣya*: by the smṛti the *śrāddha* plate is not given even to a brāhmaṇa by birth if he is unworthy; here the plate meant for a pure brāhmaṇa was given to Haridāsa, a brāhmaṇa by initiation: though born among *mlecchas*, he had the right to it as a servant of Hari (*hari-jana*).
+
+## 31
+w: one  desire  there is  my  many  days  since
+w: the pastimes  will wind up  You  feels  my  heart
+tr: For many days I have had one desire. My heart tells me that You will soon wind up Your pastimes.
+
+## 32
+w: that  pastime  O Lord  to me  ever  not  show
+w: Yourself  before  my  body  let it fall
+tr: Lord, never let me see that pastime. Let my body fall before You.
+fn: *Amṛta-pravāha-bhāṣya*: “that pastime” — the pastime of Your disappearance (*antardhāna-līlā*). Heading in the edition: Haridāsa wishes to end his pastimes before the Lord’s departure.
+
+## 33
+w: on my heart  I shall hold  Your  lotus  feet
+w: with my eyes  I shall see  Your  moonlike  face
+tr: I shall hold Your lotus feet to my heart and gaze with my eyes upon Your moonlike face.
+
+## 34
+w: with my tongue  I shall utter  Your  ‘Kṛṣṇa-Caitanya’  name
+w: in this way  my  desire  I shall leave  my life
+tr: With my tongue I shall utter Your name, “Kṛṣṇa Caitanya.” This is my desire — to give up my life in this way.
+
+## 35
+w: my  this  desire  if  by Your  grace  comes true
+w: this  request  my  grant  O merciful One
+tr: If by Your grace this desire of mine may come true, then grant this request of mine, O merciful Lord.
+
+## 36
+w: this  low  body  my  may it fall  You  before
+w: this  fulfilment of desire  my  on You alone  depends
+tr: Let this low body of mine fall before You. The fulfilment of this desire depends on You alone.”
+
+## 37
+w: the Lord  says  Haridāsa  whatever  you  will ask
+w: Kṛṣṇa  merciful  that  surely  will do
+tr: The Lord said, “Haridāsa, whatever you ask, merciful Kṛṣṇa will surely grant.
+
+## 38
+w: but  My  whatever  happiness  all  with you  having
+w: for you  fitting  it is not  you will go  Me  leaving
+tr: But whatever happiness I have, I have it all with you. It is not fitting for you to go away and leave Me.”
+
+## 39
+w: the feet  clasping  says  Haridāsa  not  do  māyā (guile)
+w: surely  to me, the fallen  O Lord  show  this  mercy
+tr: Clasping His feet, Haridāsa said, “Lord, do not deceive me with *māyā*; surely show this fallen one this mercy (*dayā*).
+fn: Heading in the edition: Haridāsa begs the Lord for mercy without guile (*niṣkapaṭa*); *māyā* here is the opposite of *dayā*.
+
+## 40
+w: my  crest jewels  how many  how many  great souls
+w: Your  of the pastimes  helpers  millions of devotees  there are
+tr: There are so many great souls, crest jewels far above me; millions of devotees assist in Your pastimes.
+
+## 41
+w: like me  if  one  insect  dying  goes
+w: ant  if it dies  to the earth  what  loss  has there been
+tr: If one insect like me is gone, what is lost? When an ant dies, what loss does the earth suffer?
+
+## 42
+w: affectionate to devotees  You  I  a semblance of a devotee
+w: surely  You will fulfil  O Lord  my  this  hope
+tr: You are affectionate to Your devotees (*bhakata-vatsala*), and I am a mere semblance of a devotee. Surely, Lord, You will fulfil this hope of mine.”
+
+## 43
+w: the midday duties  to perform  the Lord  went  Himself
+w: the Lord (Jagannātha)  after seeing  tomorrow  He will give  darśana
+tr: The Lord then went to perform His midday duties, promising that the next day, after seeing Jagannātha, He would come to give Haridāsa His darśana.
+
+## 44
+w: then  Mahāprabhu  him  making  embrace
+w: the midday duties  to perform  to the sea  He made  His way
+tr: Mahāprabhu embraced him and went to the sea to perform His midday duties.
+
+## 45
+w: in the morning  the Lord (Jagannātha)  seeing  all  the devotees  taking
+w: Haridāsa  to see  He came  haste  making
+tr: In the morning, after seeing Jagannātha, He hurried with all the devotees to see Haridāsa.
+
+## 46
+w: Haridāsa’s  before  coming  He gave  darśana
+w: Haridāsa  bowed to  the Lord’s  and  the Vaiṣṇavas’  feet
+tr: Coming before Haridāsa, the Lord gave him darśana, and Haridāsa bowed to the feet of the Lord and of the Vaiṣṇavas.
+
+## 47
+w: the Lord  says  Haridāsa  tell  the news
+w: Haridāsa  says  O Lord  whatever  order  Your
+tr: The Lord said, “Haridāsa, what news?” Haridāsa said, “Lord, as You command.”
+
+## 48
+w: in the courtyard  began  the Lord  a great saṅkīrtana
+w: Vakreśvara Paṇḍita  where  does  dancing
+tr: In the courtyard the Lord began a great saṅkīrtana, in which Vakreśvara Paṇḍita danced.
+
+## 49
+w: Svarūpa Gosāñi  and others  all  the Lord’s  associates
+w: Haridāsa  surrounding  do  saṅkīrtana of the name
+tr: Svarūpa Gosāñi and all the Lord’s other associates surrounded Haridāsa and sang the holy name.
+
+## 50
+w: Rāmānanda  Sārvabhauma  of all  in front
+w: Haridāsa’s  qualities  the Lord  began  to tell
+tr: Before Rāmānanda, Sārvabhauma and all the others, the Lord began to speak of Haridāsa’s qualities.
+
+## 51
+w: Haridāsa’s  qualities  telling  became  five-mouthed
+w: telling  telling  the Lord’s  grows  great joy
+tr: As He told of Haridāsa’s qualities, the Lord became as if five-mouthed, and the more He spoke, the greater His joy grew.
+
+## 52
+w: by Haridāsa’s  qualities  everyone’s  amazed  become  minds
+w: all the devotees  worship  Haridāsa’s  feet
+tr: Haridāsa’s qualities filled everyone’s mind with wonder, and all the devotees bowed to his feet.
+
+## 53
+w: Haridāsa  in front of himself  the Lord  seated
+w: his own eyes  two  bees  on the lotus face  placed
+tr: Haridāsa seated the Lord in front of himself and fixed his eyes, like two bees, on the lotus of His face.
+
+## 54
+w: to his own heart  bringing  holding  the Lord’s  feet
+w: all  devotees’  of the feet  the dust  of his head  the ornament
+tr: He brought the Lord’s feet to his heart and held them there; the dust of the feet of all the devotees adorned his head.
+
+## 55
+w: Śrī  Kṛṣṇa-Caitanya  Prabhu  he says  again  and again
+w: of the Lord’s face  the sweetness  he drinks  in his eyes  streams of tears
+tr: Again and again he said, “Śrī Kṛṣṇa Caitanya Prabhu!” He drank in the sweetness of the Lord’s face, and streams of tears flowed from his eyes.
+
+## 56
+w: Śrī  Kṛṣṇa-Caitanya  the word  while doing  utterance
+w: the name  together with  his life  he made  go out
+tr: While uttering the words “Śrī Kṛṣṇa Caitanya,” he sent his life-air out of the body together with the name.
+
+## 57
+w: a great master of yoga  like  at his own will  departure
+w: Bhīṣma’s  departure  for everyone  there was  the remembrance
+tr: Like a great master of yoga, he departed at his own will, and everyone remembered the departure of Bhīṣma.
+
+## 58
+w: ‘Hari’  with the sounds ‘Kṛṣṇa’  all  make  a tumult
+w: in the bliss of love  Mahāprabhu  became  overwhelmed
+tr: Everyone raised a tumult with the sounds “Hari!” and “Kṛṣṇa!”, and Mahāprabhu was overwhelmed with the bliss of love.
+
+## 59
+w: Haridāsa’s  body  the Lord  onto His lap  lifting
+w: in the courtyard  dances  the Lord  absorbed in love  being
+tr: Lifting Haridāsa’s body onto His lap, the Lord danced in the courtyard, absorbed in love.
+
+## 60
+w: by the Lord’s  ecstasy  helpless  all the devotees
+w: absorbed in love  all  dance  do  kīrtana
+tr: The Lord’s ecstasy overpowered all the devotees; absorbed in love, they all danced and sang kīrtana.
+
+## 61
+w: in this way  dancing  the Lord  did  for some time
+w: Svarūpa Gosāñi  to the Lord  made  a request
+tr: In this way the Lord danced for some time; then Svarūpa Gosāñi made a request to Him.
+
+## 62
+w: Haridāsa Ṭhākura  then  onto a vimāna  placing
+w: to the sea  taking  they went  then  kīrtana  performing
+tr: Then they placed Haridāsa Ṭhākura on a *vimāna*, a palanquin shaped like a celestial chariot, and carried him to the sea, singing kīrtana.
+
+## 63
+w: in front  Mahāprabhu  goes  dancing  doing  doing
+w: behind  dancing  does  Vakreśvara  with the devotees
+tr: Mahāprabhu went in front, dancing all the way, and behind Him Vakreśvara danced with the devotees.
+
+## 64
+w: Haridāsa  in the water of the sea  bathing  He had done
+w: the Lord  says  the sea  this  a great tīrtha  has become
+tr: He bathed Haridāsa in the water of the sea and said, “This sea has now become a great holy place (*mahā-tīrtha*).”
+
+## 65
+w: Haridāsa’s  the water from his feet  drink  the devotees
+w: on Haridāsa’s  body  they put  prasāda sandal paste
+tr: The devotees drank the water that had washed Haridāsa’s feet, and they anointed his body with sandal paste that was prasāda.
+
+## 66
+w: silk cords  sandal paste  prasāda  cloth  on his body  they put
+w: in the sand  a pit  making  in it  they laid (him)
+tr: They placed on his body *ḍora* (silk cords), *kaḍāra* (sandal paste), prasāda and cloth; then, making a pit in the sand, they laid him in it.
+
+## 67
+w: on all sides  the devotees  do  kīrtana
+w: Vakreśvara Paṇḍita  does  in bliss  dancing
+tr: On all sides the devotees sang kīrtana, and Vakreśvara Paṇḍita danced in bliss.
+
+## 68
+w: Hari bol  Hari bol  says  Gaurarāya
+w: Himself  with His holy hands  sand  He put  on his  body
+tr: Calling “Hari bol! Hari bol!”, Gaurarāya Himself put sand on Haridāsa’s body with His holy hands.
+
+## 69
+w: him  sand  having put  on top  a platform  they had built
+w: around the platform  a great  enclosure  they made
+tr: When they had covered him with sand, they had a platform built over him and a great enclosure made around it.
+
+## 70
+w: then  Mahāprabhu  did  kīrtana  dancing
+w: with the tumult of the sound of Hari  was filled  the world
+tr: Then Mahāprabhu sang kīrtana and danced, and the tumult of Hari’s name filled the world.
+
+## 71
+w: then  Mahāprabhu  all  with the devotees
+w: in the sea  He did  bathing and water play  joyfully
+tr: Then Mahāprabhu bathed in the sea with all the devotees and joyfully played in the water.
+
+## 72
+w: Haridāsa  circumambulation  making  He came  to the Lion Gate
+w: the tumult of Hari’s kīrtana  in all  the city
+tr: After circumambulating Haridāsa, He came to the Lion Gate, and the tumult of Hari’s kīrtana filled the whole city.
+
+## 73
+w: at the Lion Gate  arriving  the Lord  of the shopkeepers  at the place
+w: the end of His cloth  spreading out  prasāda  He begged  right there
+tr: Coming to the Lion Gate, the Lord spread out the end of His cloth before the shopkeepers and begged them for prasāda:
+
+## 74
+w: Haridāsa Ṭhākura’s  of the festival  for the sake
+w: prasāda  I beg  alms  give  please  to Me
+tr: “I am begging prasāda for the festival of Haridāsa Ṭhākura. Please give Me alms.”
+
+## 75
+w: hearing  the shopkeepers  all  baskets  lifting up
+w: prasāda  to give  come  they  joyful  being
+tr: Hearing this, all the shopkeepers joyfully lifted up their big baskets (*cāṅgaḍā*) and came to give prasāda.
+
+## 76
+w: Svarūpa Gosāñi  the shopkeepers  stopped
+w: the baskets  taking  the shopkeepers  in their shops  sat down
+tr: Svarūpa Gosāñi stopped them, and the shopkeepers sat down again in their shops with their baskets.
+
+## 77
+w: Svarūpa Gosāñi  the Lord  home  sent
+w: four  Vaiṣṇavas  four  porters  with him  kept
+tr: Svarūpa Gosāñi sent the Lord home and kept with him four Vaiṣṇavas and four porters (*pichāḍā*).
+
+## 78
+w: Svarūpa Gosāñi  said  to all  the shopkeepers
+w: each  one  of the items  one  puñjā each  give  to me
+tr: Svarūpa Gosāñi said to all the shopkeepers, “Give me one *puñjā* (a portion counted by fours) of each item.”
+
+## 79
+w: in this way  various prasāda  into bundles  having tied
+w: taking  he came  on four men’s  heads  placing
+tr: In this way he had all kinds of prasāda tied into bundles, put them on the heads of the four men and brought them back.
+
+## 80
+w: Vāṇīnātha Paṭṭanāyaka  prasāda  brought
+w: Kāśī Miśra  much  prasāda  sent
+tr: Vāṇīnātha Paṭṭanāyaka brought prasāda, and Kāśī Miśra sent a great deal of prasāda.
+
+## 81
+w: all  the Vaiṣṇavas  the Lord  seated  in rows  in rows
+w: Himself  serves  the Lord  taking  four people
+tr: The Lord seated all the Vaiṣṇavas in rows and, with four helpers, began to serve them Himself.
+
+## 82
+w: Mahāprabhu’s  into the holy hand  a little  not  comes
+w: on each  each  leaf plate  of five people  food  He serves
+tr: A small amount would not come into Mahāprabhu’s holy hand: on each leaf He served enough food for five.
+
+## 83
+w: Svarūpa  says  O Lord  sitting  do  watch
+w: I  these all  taking  do  the serving
+tr: Svarūpa said, “Lord, sit down and watch. I shall serve with these helpers.”
+
+## 84
+w: Svarūpa,  Jagadānanda,  Kāśīśvara,  Śaṅkara
+w: four people  serving  do  continually
+tr: Svarūpa, Jagadānanda, Kāśīśvara and Śaṅkara — these four served without pause.
+
+## 85
+w: the Lord  not  having eaten  anyone  not  does  eat
+w: to the Lord  on that  day  Kāśī Miśra’s  invitation
+tr: Since the Lord had not eaten, no one would eat. That day the Lord had an invitation from Kāśī Miśra.
+
+## 86
+w: himself  Kāśī Miśra  came  prasāda  bringing
+w: the Lord  His meal  he made take  insistence  showing
+tr: Kāśī Miśra came himself with prasāda and insistently had the Lord take His meal.
+
+## 87
+w: Purī  Bhāratī  with  the Lord  His meal  took
+w: all  the Vaiṣṇavas  then  the meal  took
+tr: The Lord took His meal with Purī and Bhāratī, and then all the Vaiṣṇavas ate.
+
+## 88
+w: to the throat  filling  He made  eat
+w: give  give  saying  the Lord  speaks  the words
+tr: He had them eat until they were filled to the throat, the Lord repeating, “Give more! Give more!”
+
+## 89
+w: the meal  having taken  all  did  ācamana
+w: all  adorned  the Lord  with garlands and sandal paste
+tr: When everyone had eaten and performed *ācamana*, the Lord adorned them all with garlands and sandal paste.
+
+## 90
+w: absorbed in love  being  the Lord  gives  a boon
+w: hearing  the devotees’  is satisfied  the heart’s desire
+tr: Absorbed in love, the Lord bestowed a boon, and hearing it, the devotees’ hearts were fulfilled.
+
+## 91–93
+w: Haridāsa’s  festival of departure  whoever  did  see
+w: whoever  here  dancing  did  whoever  did  kīrtana
+w: whoever  on him  sand  to put  did  go
+w: among them  at the festival  whoever  did  eat
+w: soon  they  all  will have  the attainment of Kṛṣṇa
+w: in seeing Haridāsa  there is  such  power
+tr: “Whoever saw the festival of Haridāsa’s departure, whoever danced here or sang kīrtana, whoever went to put sand on him, and whoever among them ate at the festival — all of them will soon attain Kṛṣṇa. Such is the power of seeing Haridāsa.
+
+## 94
+w: mercy  showing  Kṛṣṇa  to Me  had given  company
+w: independent  Kṛṣṇa’s  will  He made  the company broken
+tr: Out of mercy Kṛṣṇa gave Me his company. Kṛṣṇa’s will is independent: now He has broken that company.
+
+## 95
+w: Haridāsa’s  wish  when  arose  to go
+w: My  power  him  could not  keep
+tr: When Haridāsa wished to go, My power could not keep him.
+
+## 96
+w: by mere wish  he made  his own life  go out
+w: in the past  as  we have heard  Bhīṣma’s  departure
+tr: By his mere wish he sent his life out of his body, just as we have heard of Bhīṣma’s departure long ago.
+
+## 97
+w: Haridāsa  was  of the earth  the crest jewel
+w: him  without  bereft of its jewel  has become  the earth
+tr: Haridāsa was the crest jewel of the earth; without him the earth has been robbed of its jewel.
+
+## 98
+w: glory  glory  Haridāsa  saying  make  the sound of Hari
+w: so  saying  Mahāprabhu  dances  Himself
+tr: “Call out ‘Glory, glory to Haridāsa!’ and raise the sound of Hari’s name!” Saying this, Mahāprabhu Himself began to dance.
+
+## 99
+w: all  sing  glory  glory  glory  Haridāsa
+w: of the name  the glory  who  made  manifest
+tr: Everyone sang, “Glory, glory, glory to Haridāsa, who revealed the glory of the holy name!”
+
+## 100
+w: then  Mahāprabhu  all  the devotees  leave  gave
+w: in joy  in sorrow  the Lord  rest  took
+tr: Then Mahāprabhu bade farewell to all the devotees and rested, in both joy and sorrow.
+
+## 101
+w: thus  indeed  I have told  of Haridāsa’s  departure (vijaya)
+w: of which  by the hearing  for Kṛṣṇa  firm devotion  arises
+tr: Thus I have told of Haridāsa’s departure (*vijaya*); by hearing of it one gains firm devotion to Kṛṣṇa.
+
+## 102
+w: Caitanya’s  affection for His devotees  from this very  we know
+w: His devotee’s  desire  fulfilled  made  the crest jewel of sannyāsīs
+tr: From this we know Caitanya’s affection for His devotees: He, the crest jewel of sannyāsīs, fulfilled His devotee’s desire.
+
+## 103
+w: at the last time  He gave  to him  sight and touch
+w: him  on His lap  taking  did  Himself  dancing
+tr: At his last hour the Lord let him see and touch Him, and taking him on His lap, He Himself danced.
+
+## 104
+w: Himself  with His holy hands  in mercy  on him  sand  He put
+w: Himself  prasāda  begging  a festival  He held
+tr: In His mercy He Himself put sand on him with His holy hands, and He Himself begged prasāda and held a great festival.
+
+## 105
+w: a mahā-bhāgavata  Haridāsa  supremely learned
+w: this  good fortune  for the sake of  first  he made  his departure
+tr: Haridāsa was a *mahā-bhāgavata* and supremely learned (*parama-vidvān*); for the sake of this good fortune he departed first.
+
+## 106
+w: Caitanya’s  deeds  these  of nectar  an ocean
+w: ears and mind  satisfied  makes  of which  one  drop
+tr: These deeds of Caitanya are an ocean of nectar; a single drop of it satisfies the ears and the mind.
+
+## 107
+w: the ocean of worldly existence  to cross  there is  whose  mind
+w: faith  having  hear  that  account of Caitanya
+tr: Whoever has set his heart on crossing the ocean of worldly existence should hear with faith this account of Caitanya.
+
+## 108
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

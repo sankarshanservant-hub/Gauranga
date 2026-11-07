@@ -704,7 +704,7 @@ Mādhavī-devī (Antya, Chapter 2, verses 104–106): “She whom the Lord count
 
 > Subheading: (18) Kāśīśvara, (19) Govinda —
 
-Govinda was Mahāprabhu's personal servant. The *Gaura-gaṇoddeśa* (verse 137) says: “Those who were formerly the servants Bhṛṅgāra and Bhaṅgura in Vṛndāvana have now been born as Śrī Kāśīśvara and Govinda, the servants of the Lord.” For the Lord's meeting with Govinda, the disciple of Īśvara Purī, see Madhya, Chapter 10, verses 131–148. The Lord was won over “by the pure *dāsya-rasa* of Govinda and others” (Madhya, Chapter 2, verse 78). For the sake of the Lord's service Govinda did not hesitate to step over the Lord's body, but for his own sake he feared the offense in such an act: “Govinda said: ‘My service is my rule. Let there be offense, or even going to hell.’” (Antya 10.95) See Madhya, Chapter 10, verses 82–100[^138-1].
+Govinda was Mahāprabhu's personal servant. The *Gaura-gaṇoddeśa* (verse 137) says: “Those who were formerly the servants Bhṛṅgāra and Bhaṅgura in Vṛndāvana have now been born as Śrī Kāśīśvara and Govinda, the servants of the Lord.” For the Lord's meeting with Govinda, the disciple of Īśvara Purī, see Madhya, Chapter 10, verses 131–148. The Lord was won over “by the pure *dāsya-rasa* of Govinda and others” (Madhya, Chapter 2, verse 78). For the sake of the Lord's service Govinda did not hesitate to step over the Lord's body, but for his own sake he feared the offense in such an act: “Govinda said within himself, ‘For me, service is the rule. Let it be an offence; let me even go to hell.’” (Antya 10.95) See Madhya, Chapter 10, verses 82–100[^138-1].
 
 ## 140
 
