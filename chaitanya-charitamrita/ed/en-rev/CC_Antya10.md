@@ -213,7 +213,7 @@ the garland  not  a certain (woman)  cast off  soiled with water
 vasanti hi premṇi guṇā na vastuni  
 dwell  for  in love  virtues  not  in the thing
 
-(21) “Her beloved strung a garland himself and placed it on her breast in the presence of her rivals; and though it was soiled with water, that full-bosomed girl did not cast it off — for virtues dwell in love, not in the thing.” (Kirātārjunīya, 8.20)[^8]
+(21) “Her beloved strung a garland himself and placed it on her breast in the presence of her rivals; and though it was soiled with water, the full-bosomed maiden did not cast it off — for virtues dwell in love, not in the thing.” (Kirātārjunīya, 8.20)[^8]
 
 ধনিয়া-মৌহরীর তণ্ডুল গুণ্ডা করিয়া ৷  
 নাড়ু বান্ধিয়াছে চিনি-পাক করিয়া ॥ ২২ ॥
