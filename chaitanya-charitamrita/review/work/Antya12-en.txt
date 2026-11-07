@@ -567,7 +567,8 @@ fn: The Gauḍīya Maṭha edition (p. 998) reads *gauḍe*; another reading is 
 ## 108
 w: the Lord  says  of a sannyāsī  in oil  is not  the right
 w: moreover  fragrant  oil  utter  disgrace
-tr: The Lord said, “A *sannyāsī* has no right to oil—and fragrant oil at that is an utter disgrace!
+tr: The Lord said, “A sannyāsī has no right to use oil, and fragrant oil is a downright disgrace!
+fn: Heading in the edition: the Lord, guru of the world and teacher of mankind in the role of an *ācārya*, shows exemplary conduct. The *Anubhāṣya* quotes the *smṛti*: at the morning bath, during a vow, at a *śrāddha*, on Dvādaśī and during an eclipse, anointing with oil is like anointing with wine (some take “vow” to mean the vow of a renunciant); while for a householder, according to the *smārta* Raghunandana, anointing with ghee, mustard oil, flower-scented oil or boiled oil is not a fault.
 
 ## 109
 w: to Jagannātha  give  the oil  lamp  so that  burns
@@ -577,37 +578,42 @@ tr: Give the oil to Jagannātha, so that it may burn in the lamps; then his labo
 ## 110
 w: this  message  Govinda  to Jagadānanda  told
 w: silent  becoming  remained  the Paṇḍita  anything  not  said
-tr: Govinda told Jagadānanda this message. The Paṇḍita remained silent and said nothing.
+tr: Govinda gave Jagadānanda the message. The Paṇḍita kept silent and said nothing.
+fn: Heading in the edition: Govinda conveys the Lord’s words to Jagadānanda; Jagadānanda’s anger is the wounded pride of love (*praṇayābhimāna*).
 
 ## 111
 w: days  ten  passing  Govinda  informed  once  more
 w: the Paṇḍita’s  wish  the oil  may He make  acceptance
-tr: When ten days had passed, Govinda informed the Lord once more: “The Paṇḍita wishes that You accept the oil.”
+tr: When ten days had passed, Govinda informed the Lord once more: “The Paṇḍita wishes You would kindly accept the oil.”
 
 ## 112
 w: hearing  the Lord  speaks  some  angry  words
 w: a masseur  one  keep  to do  massage
-tr: Hearing this, the Lord spoke some angry words: “Then keep a masseur to give Me massages!
+tr: Hearing this, the Lord spoke angrily: “Then why not keep a masseur to rub Me down?
+fn: *Anubhāṣya*: a sannyāsī, a mendicant, has no helpers and must not accept the services of others; the Lord’s words about a masseur are said in mockery.
 
 ## 113
 w: this  pleasure  for  I  took  sannyāsa
 w: My  utter ruin  your  all  amusement
-tr: Was it for this pleasure that I took *sannyāsa*? For Me it would be utter ruin, and for all of you a joke!
+tr: Was it for such pleasures that I took sannyāsa? What would be My utter ruin is a joke to all of you!
+fn: The verse number is not printed in the edition.
 
 ## 114
 w: on the road  going  of oil  the scent  My  whoever  will get
 w: dārī-sannyāsī  as  Me  will call
-tr: Whoever passes Me on the road and catches the scent of oil on Me will call Me a *dārī-sannyāsī* (a *sannyāsī* who keeps women).”
+tr: Anyone who passes Me on the road and catches the scent of oil will call Me a *dārī-sannyāsī*, a sannyāsī who keeps women.”
+fn: *Amṛta-pravāha-bhāṣya*: a *dārī-sannyāsī* is a sannyāsī who lives with a wife. *Anubhāṣya*: one who enjoys women — a fallen Tantric ascetic, hypocritical in conduct.
 
 ## 115
 w: hearing  the Lord’s  words  Govinda  silence  kept
 w: in the morning  Jagadānanda  to the Lord’s place  came
-tr: Hearing the Lord’s words, Govinda fell silent. In the morning Jagadānanda came to the Lord.
+tr: Hearing the Lord’s words, Govinda fell silent. Next morning Jagadānanda came to the Lord.
 
 ## 116
 w: the Lord  says  Paṇḍita  oil  you brought  Gauḍa  from
 w: I  indeed  a sannyāsī  oil  not  can  accept
-tr: The Lord said, “Paṇḍita, you have brought oil from Gauḍa, but I am a *sannyāsī* and cannot accept oil.
+tr: The Lord said, “Paṇḍita, you have brought oil from Gauḍa, but I am a sannyāsī and cannot accept it.
+fn: Heading in the edition: although the Lord Himself is the enjoyer of all things, when Jagadānanda comes He, as the *ācārya* and teacher of mankind, shows the practitioner the example of renouncing sensual pleasure.
 
 ## 117
 w: to Jagannātha  give  taking  lamp  so that  burns
@@ -618,6 +624,7 @@ tr: Take it and give it to Jagannātha, so that it may burn in the lamps; then a
 w: the Paṇḍita  says  who  to You  tells  false words
 w: I  Gauḍa  from  oil  ever  not  brought
 tr: The Paṇḍita said, “Who tells You these lies? I never brought any oil from Gauḍa.”
+fn: Heading in the edition: the Paṇḍita, who loves the Lord, is angry with Him — this is the wounded pride of love.
 
 ## 119
 w: so  saying  the room  from  the oil pitcher  bringing
@@ -627,17 +634,18 @@ tr: So saying, he brought the pitcher of oil out of the room and smashed it in t
 ## 120
 w: the oil  breaking  by that  road  his own house  going
 w: lying down  remained  in the room  the door  bolting
-tr: Having broken the oil pitcher, he went straight to his own house, bolted the door and lay down inside.
+tr: After breaking the pitcher he went straight home, bolted the door and lay down.
 
 ## 121
 w: on the third  day  the Lord  his  to the door  going
 w: get up  Paṇḍita  saying  speaks  calling
 tr: On the third day the Lord went to his door and called out, “Get up, Paṇḍita!
+fn: *Amṛta-pravāha-bhāṣya*: Jagadānanda fasted for two days. Heading in the edition: Bhagavān, conquered by His devotee’s love, dispels his hurt pride — that is, He begs for his favour.
 
 ## 122
 w: today  alms (lunch)  you will give  Me  doing  cooking
-w: at midday  I shall come  now  I go  to the darśana
-tr: Today you will cook and give Me My *bhikṣā* (meal). I shall come at midday; now I am going for *darśana* (of Jagannātha).”
+w: at midday  I shall come  now  I go  for darśana
+tr: Today you must cook and serve Me My bhikṣā. I shall come at midday; now I am going to see Jagannātha.”
 
 ## 123
 w: so  saying  the Lord  went  the Paṇḍita  got up
@@ -648,6 +656,7 @@ tr: So saying, the Lord left, and the Paṇḍita got up, bathed and cooked vari
 w: midday duties  having done  the Lord  came  to eat
 w: feet  washing  doing  sat  on the seat
 tr: Having finished His midday duties, the Lord came to eat. He washed His feet and sat down on His seat.
+fn: The Gauḍīya Maṭha edition reads *vasilā āsane*, “sat down on the seat”; another reading, *dilena āsane*, has Jagadānanda wash His feet and seat Him.
 
 ## 125
 w: with ghee  fine rice  on a banana leaf  a heap  made
@@ -657,7 +666,8 @@ tr: On a banana leaf the Paṇḍita heaped fine *śāli* rice with ghee, and al
 ## 126
 w: on the rice and dishes  tulasī  blossoms
 w: of Jagannātha  cakes and sweet drinks  before  brings  holding
-tr: On the rice and the dishes lay *tulasī* blossoms, and he brought Jagannātha’s cakes and sweet drinks and set them before the Lord.
+tr: On the rice and dishes he placed tulasī blossoms, and before the Lord he set Jagannātha’s cakes and sweet drinks.
+fn: *Piṭhā-pānā*: cakes and sweetened drinks (*pānā*).
 
 ## 127
 w: the Lord  says  on a second leaf  serve  rice and dishes
@@ -667,12 +677,12 @@ tr: The Lord said, “Serve rice and dishes on a second leaf. Today you and I sh
 ## 128
 w: hand  raising  remains  the Lord  not  does  eating
 w: then  the Paṇḍita  speaks  some  loving  words
-tr: The Lord sat with His hand raised and did not eat. Then the Paṇḍita spoke some loving words:
+tr: The Lord sat with His hand raised and did not eat. Then the Paṇḍita spoke lovingly:
 
 ## 129
 w: Yourself  prasāda  take  afterwards  I  shall take
 w: Your  insistence  I  how  shall break
-tr: “You take the *prasāda* first; I shall take it afterwards. How could I disregard Your insistence?”
+tr: “Please take the prasāda Yourself first; I shall take it afterwards. How could I go against Your wish?”
 
 ## 130
 w: then  Mahāprabhu  happily  to eat  sat
@@ -682,97 +692,99 @@ tr: Then Mahāprabhu happily sat down to eat. Tasting the dishes, He began to sp
 ## 131
 w: of one possessed by anger  of the cooking  is  such  taste
 w: this  indeed  I know  on you  Kṛṣṇa’s  grace
-tr: “Cooking done in a fit of anger has such a taste! From this I know that Kṛṣṇa’s grace is upon you.
+tr: “Even food cooked in a fit of anger tastes like this! By this I know that Kṛṣṇa’s grace is upon you.
 
 ## 132
 w: Himself  will eat  Kṛṣṇa  that  for the sake of
 w: your  by the hand  cooking  makes do  excellent  making
-tr: Because Kṛṣṇa Himself will eat it, He has the cooking done so excellently by your hands.
+tr: Kṛṣṇa Himself is going to eat it, and so He has your hands cook it so excellently.
 
 ## 133
 w: such  nectar  food  to Kṛṣṇa  you  offer
 w: your  good fortune’s  limit  who  does  describe
-tr: You offer such nectarean food to Kṛṣṇa—who can describe the limit of your good fortune?”
+tr: You offer such nectarean food to Kṛṣṇa! Who can describe the limits of your good fortune?”
 
 ## 134
 w: the Paṇḍita  says  who  will eat  He  the cook
 w: I and the like  only  merely  ingredients  collector
-tr: The Paṇḍita said, “The One who will eat is Himself the cook. People like me are merely collectors of the ingredients.”
+tr: “The One who is going to eat is the cook Himself,” said the Paṇḍita. “People like me only gather the ingredients.”
 
 ## 135
 w: again  and again  the Paṇḍita  various  dishes  serves
 w: out of fear  anything  not  says  the Lord  eats  with delight
-tr: Again and again the Paṇḍita served various dishes. Out of fear the Lord said nothing and ate with delight.
+tr: Again and again the Paṇḍita served various dishes. Fearing to upset him, the Lord said nothing and ate with delight.
 
 ## 136
 w: insistence  making  the Paṇḍita  made eat
 w: other  days  than  the eating  was  tenfold
-tr: The Paṇḍita insisted and fed Him, and He ate ten times more than on other days.
+tr: The Paṇḍita pressed Him to eat, and that day the Lord ate ten times as much as usual.
 
 ## 137
 w: again  and again  the Lord  to rise  makes  up His mind
 w: at that moment  the Paṇḍita  serves  dishes
-tr: Again and again the Lord made up His mind to rise, and at that very moment the Paṇḍita would serve more dishes.
+tr: Time and again the Lord thought of rising, and at that very moment the Paṇḍita would serve Him more.
 
 ## 138
 w: anything  to say  cannot  the Lord  eats  in fear
 w: not  if He eats  Jagadānanda  will make  a fast
-tr: The Lord could not say anything; He ate out of fear: “If I do not eat, Jagadānanda will fast.”
+tr: The Lord could say nothing and ate on, afraid that if He did not, Jagadānanda would fast.
 
 ## 139
 w: then  the Lord  speaks  making  humble  respect
 w: tenfold  you have fed Me  now  make  an end
-tr: Then the Lord spoke with humble respect: “You have fed Me tenfold; now bring it to an end.”
+tr: Then the Lord said humbly and respectfully, “You have fed Me ten times as much as usual; now please stop.”
+fn: *Anubhāṣya*: *samādhāna* — completion, conclusion, end.
 
 ## 140
 w: then  Mahāprabhu  rising  did  ācamana
 w: the Paṇḍita  brought  mouth-fresheners  garland  sandalwood
-tr: Then Mahāprabhu rose and rinsed His mouth and hands (*ācamana*), and the Paṇḍita brought spices to freshen His mouth, a garland and sandalwood paste.
+tr: Then Mahāprabhu rose and rinsed His mouth and hands, and the Paṇḍita brought spices to freshen His mouth, a garland and sandalwood paste.
 
 ## 141
 w: sandalwood and the rest  accepting  the Lord  sat  in that  place
 w: Me  before  today  you  do  eating
-tr: Accepting the sandalwood paste and the rest, the Lord sat down right there: “Today you must eat in front of Me.”
+tr: The Lord accepted the sandalwood paste and the rest and sat down right there. “Today you must eat in front of Me,” He said.
 
 ## 142
 w: the Paṇḍita  says  the Lord  going  may take  rest
 w: I  now  prasāda  shall take  making  arrangements
-tr: The Paṇḍita said, “Let the Lord go and rest. I shall take *prasāda* now, once I have finished arranging things.
+tr: “Let my Lord go and rest,” said the Paṇḍita. “I shall take prasāda as soon as I have finished here.
 
 ## 143
 w: of the kitchen  the work  have done  Rāmāi,  Raghunātha
 w: to these  all  to give  I want  some  dishes and rice
-tr: Rāmāi and Raghunātha have done the work in the kitchen; I want to give all of them some rice and dishes.”
+tr: Rāmāi and Raghunātha Bhaṭṭa have done the work in the kitchen, and I want to give them all some rice and dishes.”
+fn: The text says simply “Raghunātha.” Heading in the edition: Rāmāi and Raghunātha Bhaṭṭa, the Lord’s servants and Govinda’s companions, having cooked the meal, receive the Lord’s prasāda.
 
 ## 144
 w: the Lord  says  Govinda  you  right here  will stay
 w: the Paṇḍita  eating  having done  to Me  will tell
-tr: The Lord said, “Govinda, you stay right here. When the Paṇḍita has eaten, tell Me.”
+tr: The Lord said, “Govinda, you stay right here. When the Paṇḍita has eaten, come and tell Me.”
 
 ## 145
 w: so  saying  Mahāprabhu  made  departure
 w: to Govinda  the Paṇḍita  some  speaks  words
-tr: So saying, Mahāprabhu departed, and the Paṇḍita said some words to Govinda:
+tr: With these words Mahāprabhu left, and the Paṇḍita said to Govinda:
 
 ## 146
 w: you  quickly  go  to do  foot-massage
 w: tell Him  the Paṇḍita  now  has sat  to eat
-tr: “Go quickly and massage the Lord’s feet. Tell Him: ‘The Paṇḍita has now sat down to eat.’
+tr: “Go quickly and massage the Lord’s feet, and tell Him that the Paṇḍita has now sat down to eat.
 
 ## 147
 w: for you  of the Lord  the remnants  I shall keep  holding
 w: the Lord  to sleep  when He goes  you  eat  coming
-tr: I shall keep the Lord’s remnants (*śeṣa*) for you. When the Lord falls asleep, come and eat.”
+tr: I shall keep the Lord’s remnants for you; when He has fallen asleep, come and eat them.”
 
 ## 148
 w: Rāmāi,  Nandāi,  and  Govinda,  Raghunātha
 w: to all  dividing  gave  the Lord’s  dishes and rice
-tr: To Rāmāi, Nandāi, Govinda and Raghunātha he gave shares of the Lord’s rice and dishes.
+tr: He shared out the Lord’s rice and dishes among Rāmāi, Nandāi, Govinda and Raghunātha Bhaṭṭa.
 
 ## 149
 w: himself  the Lord’s  remnants  did  eating
 w: then  Govinda  the Lord  sent  again
-tr: He himself ate the Lord’s remnants. Then the Lord sent Govinda again:
+tr: He himself ate what remained of the Lord’s meal. Then the Lord sent Govinda once more:
 
 ## 150
 w: see  Jagadānanda  prasāda  takes  or  not  takes
@@ -782,23 +794,24 @@ tr: “See whether Jagadānanda is taking *prasāda* or not, and come quickly an
 ## 151
 w: Govinda  coming  seeing  told  of the Paṇḍita  the eating
 w: then  Mahāprabhu  did  at ease  lying down
-tr: Govinda came, saw, and reported that the Paṇḍita was eating. Then Mahāprabhu lay down at ease.
+tr: Govinda came and saw, and told the Lord that the Paṇḍita was eating. Only then did Mahāprabhu lie down at ease.
 
 ## 152
 w: between Jagadānanda and the Lord  love  goes on  in this way
 w: between Satyabhāmā and Kṛṣṇa  as  we hear  in the Bhāgavata
-tr: In this way the love between Jagadānanda and the Lord goes on, as we hear in the *Bhāgavata* of the love between Satyabhāmā and Kṛṣṇa.
+tr: Such is the love between Jagadānanda and the Lord — like the love of Satyabhāmā and Kṛṣṇa of which we hear in the *Bhāgavata*.
+fn: Heading in the edition: the love between the Paṇḍita, who wins Gaura over, and the Lord is like the love of Satyabhāmā and Vāsudeva in Dvārakā in the Dvāpara age.
 
 ## 153
 w: of Jagadānanda  of the good fortune  who  will tell  the limit
 w: of Jagadānanda  of the good fortune  he  alone  the comparison
-tr: Who can tell the limit of Jagadānanda’s good fortune? Of Jagadānanda’s good fortune he alone is the comparison.
+tr: Who can tell the limits of Jagadānanda’s good fortune? In good fortune Jagadānanda has no equal but himself.
 
 ## 154
 w: Jagadānanda’s  Prema-vivarta  hears  whatever  person
 w: of love  the true nature  knows  gets  the wealth of love
 tr: Whoever hears Jagadānanda’s *Prema-vivarta* knows the true nature of love and attains the wealth of love.
-fn: *Prema-vivarta*: the *Amṛta-pravāha-bhāṣya* gives two meanings — the *vivarta* of love, that is, the behaviour in which, in the dealings of love, anger seems to appear; and the book *Prema-vivarta*, in which Jagadānanda wrote about Mahāprabhu’s life.
+fn: *Prema-vivarta*: the *Amṛta-pravāha-bhāṣya* gives two meanings — the *vivarta* of love, that is, the behaviour in which, in the dealings of love, anger seems to appear; and the book *Prema-vivarta*, in which Jagadānanda wrote about Mahāprabhu’s life. Heading in the edition: whoever hears the Paṇḍita’s *Prema-vivarta* attains love for Gaura-Kṛṣṇa.
 
 ## 155
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
