@@ -416,7 +416,7 @@ this  saying  Jagadānanda  made  embrace
 jagadānanda calilā prabhura vandiyā caraṇa  
 Jagadānanda  set out  the Lord’s  bowing to  feet
 
-(41) Saying this, the Lord embraced Jagadānanda, and Jagadānanda bowed at the Lord’s feet and set out.
+(41) Saying this, the Lord embraced Jagadānanda, who bowed at His feet and set out.
 
 সব ভক্তগণ-ঠাঞি আজ্ঞা মাগিলা ৷  
 বনপথে চলি’ চলি’ বারাণসী আইলা ॥ ৪২ ॥
@@ -516,7 +516,7 @@ Sanātana  that  cloth  on his head  tying
 jagadānandera vāsā-dvāre vasilā āsiyā  
 of Jagadānanda  at the lodging’s  door  sat  coming
 
-(51) Sanātana tied that cloth around his head, came and sat at the door of Jagadānanda’s lodging.[^15]
+(51) With that cloth tied around his head, Sanātana came and sat at the door of Jagadānanda’s lodging.[^15]
 
 রাতুল বস্ত্র দেখি’ পণ্ডিত প্রেমাবিষ্ট হইলা ৷  
 ‘মহাপ্রভুর প্রসাদ’ জানি’ তাঁহারে পুছিলা ॥ ৫২ ॥
@@ -526,7 +526,7 @@ red  cloth  seeing  the Paṇḍita  overwhelmed with love  became
 ‘mahāprabhura prasāda’ jāni’ tām̐hāre puchilā  
 of Mahāprabhu  the gift  thinking  him  asked
 
-(52) Seeing the red cloth, the Paṇḍita was overwhelmed with love, for he thought it was Mahāprabhu’s gift (prasāda). He asked him,
+(52) Seeing the red cloth, the Paṇḍita was overwhelmed with love, for he took it to be Mahāprabhu’s gift (prasāda), and he asked him:
 
 কাঁহা পাইলা তুমি এই রাতুল বসন ?  
 ‘মুকুন্দ-সরস্বতী’ দিল, — কহেন সনাতন ॥ ৫৩ ॥
