@@ -136,7 +136,7 @@ one day  people  coming  to the Lord  reported
 gopīnāthere ‘baḍa jānā’ cāṅge caḍāila  
 Gopīnātha  the Baḍa  Jānā  onto the cāṅga  has raised
 
-(13) One day people came and reported to the Lord, “The Baḍa Jānā, the eldest prince, has raised Gopīnātha onto the *cāṅga*, the platform of execution.[^5]
+(13) One day people came and reported to the Lord, “The Baḍa Jānā, the eldest prince, has raised Gopīnātha onto the *cāṅga*, the execution platform.[^5]
 
 তলে খড়্গ পাতি’ তারে উপরে ডারিবে ৷  
 প্রভু রক্ষা করেন যবে, তবে নিস্তারিবে ॥ ১৪ ॥
@@ -296,7 +296,7 @@ the king  said  whatever  is good  do  that  going
 ye upāye kauḍi pāi, kara se upāya  
 by which  means  the money  I get  use  that  means
 
-(29) The king said, ‘Go and do whatever is best. By whatever means I may get the money, use that means.’
+(29) The king said, ‘Go and do whatever is best. Use any means by which I may get the money.’
 
 রাজপুত্র আসি’ তারে চাঙ্গে চড়াইল ৷  
 খড়্গ-উপরে ফেলাইতে তলে খড়্গ পাতিল ॥ ৩০ ॥
@@ -306,7 +306,7 @@ the prince  coming  him  on the cāṅga  raised
 khaḍga-upare phelāite tale khaḍga pātila  
 onto the swords  to throw  below  swords  he set
 
-(30) The prince came and had him raised onto the cāṅga, and beneath it he set swords, to throw him down onto them.”
+(30) The prince came and had him raised onto the *cāṅga*, and beneath it he set swords, to throw him down onto them.”
 
 শুনি’ প্রভু কহে কিছু করি’ প্রণয়-রোষ ৷  
 রাজ-কৌড়ি দিতে নারে, রাজার কিবা দোষ ? ॥ ৩১ ॥
@@ -516,7 +516,7 @@ then  Haricandana  coming  to the Jānā  told
 cāṅge haite gopīnāthe śīghra nāmāila  
 the cāṅga  from  Gopīnātha  quickly  brought down
 
-(51) Then Haricandana came and told the prince, and Gopīnātha was quickly brought down from the cāṅga.
+(51) Then Haricandana came and told the prince, and Gopīnātha was quickly brought down from the *cāṅga*.
 
 দ্রব্য দেহ’ রাজা মাগে — উপায় পুছিল ৷  
 যথার্থ-মূল্য ঘোড়া লহ, তেঁহ ত’ কহিল ॥ ৫২ ॥
@@ -626,7 +626,7 @@ the king’s  what  fault  the king  his own money  wants
 dite nāre dravya, daṇḍa āmāre jānāya  
 to give  they will not  the money  the punishment  to Me  they report
 
-(62) What fault is the king’s? The king wants his own money. They will not give the money, and then they report their punishment to Me.
+(62) What fault is there in the king? He wants only his own money. They will not pay it, and then they come to Me complaining of their punishment.
 
 রাজা গোপীনাথে যদি চাঙ্গে চড়াইল ৷  
 চারিবারে লোকে আসি’ মোরে জানাইল ॥ ৬৩ ॥
@@ -646,7 +646,7 @@ a mendicant  sannyāsī  I  living in solitude
 āmāya duḥkha deya, nija-duḥkha kahi’ āsi’  
 to Me  pain  they give  their own troubles  telling  coming
 
-(64) I am a mendicant *sannyāsī* who lives in solitude, yet they come and pain Me by telling Me their own troubles.
+(64) I am a mendicant sannyāsī who lives in solitude, yet they come and pain Me by telling Me their own troubles.
 
 আজি তারে জগন্নাথ করিলা রক্ষণ ৷  
 কালি কে রাখিবে যদি না দিবে রাজধন ? ॥ ৬৫ ॥
@@ -686,7 +686,7 @@ a detached  sannyāsī  Your  with whom  relationship
 vyavahāra lāgi’ tomā bhaje, sei jñāna-andha  
 worldly dealings  for the sake of  You  worships  he  blind to knowledge
 
-(68) You are a detached *sannyāsī* — what connection have You with anyone? One who worships You for worldly ends is blind to true knowledge.[^17]
+(68) You are a detached sannyāsī — what connection have You with anyone? One who worships You for worldly ends is blind to true knowledge.[^17]
 
 তোমার ভজন-ফলে তোমাতে ‘প্রেমধন’ ৷  
 বিষয় লাগি’ তোমায় ভজে, সেই মূর্খ জন ॥ ৬৯ ॥
