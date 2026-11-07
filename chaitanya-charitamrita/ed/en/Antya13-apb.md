@@ -18,7 +18,7 @@ Though His mind and body wasted away from the pain born of separation from Kṛ�
 
 ## 36
 
-*Mathurāra svāmī-sabera* — of all the Caubes, the residents of Mathurā.[^36-1]
+*Mathurāra svāmī-sabera* — of all the Caubes, the residents of Mathurā.
 
 ## 37
 
@@ -59,7 +59,5 @@ The desire for liberation and pride in learning — these two faults kept Rāmad
 *Thus ends the thirteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
-
-[^36-1]: In the verse translation, otherwise: “…offer due respect at the feet of all the senior Vaiṣṇavas.”
 
 [^92-1]: The edition reads *asakta* (“unattached”); by the sense we read *aśakta* (“unable”).

@@ -422,7 +422,7 @@ Whoever goes to a non-Vaiṣṇava grammarian to read the *Bhāgavatam* will rea
 
 ## 123
 
-> Subheading: The Lord gives a *tulasī-mālā* for *japa*, and more[^123-1] —
+> Subheading: The Lord gives a *tulasī-mālā* for *japa*, and more —
 
 ## 124
 
@@ -493,4 +493,3 @@ Whoever goes to a non-Vaiṣṇava grammarian to read the *Bhāgavatam* will rea
 ---
 
 [^113-1]: A saying of the *Pañcarātra* cited in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, 2nd Laharī), as the *Anubhāṣya* itself states on Madhya 16.239.
-[^123-1]: In the verse translation, otherwise: “a fourteen-cubit garland of Lord Jagannātha made of *tulasī* leaves”; the subheading calls it a *tulasī-mālā* for *japa* (*japera tulasī-mālā*).
