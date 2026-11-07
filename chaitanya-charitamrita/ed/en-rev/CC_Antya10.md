@@ -819,6 +819,794 @@ Govinda  coming  does  massaging of the feet
 
 (82) He Himself lay down at the door of the Gambhīrā, and Govinda came to massage His feet.
 
+সর্ব্বকাল আছে এই সুদৃঢ় ‘নিয়ম’ ৷  
+প্রভু যদি প্রসাদ পাঞা করেন শয়ন ॥ ৮৩ ॥
+
+গোবিন্দ আসিয়া করে পাদ-সম্বাহন ৷  
+তবে যাই’ প্রভুর ‘শেষ’ করেন ভোজন ॥ ৮৪ ॥
+
+sarva-kāla āche ei sudṛḍha ‘niyama’  
+always  there is  this  firm  rule  
+prabhu yadi prasāda pāñā karena śayana  
+the Lord  when  prasāda  having taken  does  lying down  
+govinda āsiyā kare pāda-samvāhana  
+Govinda  coming  does  of the feet  massage  
+tabe yāi’ prabhura ‘śeṣa’ karena bhojana  
+then  going  the Lord’s  remnants  does  eating
+
+(83–84) It had always been a firm rule: when the Lord lay down after taking prasāda, Govinda would come and massage His feet, and after that go and eat the Lord’s remnants.
+
+সব দ্বার যুড়ি’ প্রভু কৈরাছেন শয়ন ৷  
+ভিতরে যাইতে নারে, গোবিন্দ করে নিবেদন ॥ ৮৫ ॥
+
+saba dvāra yuḍi’ prabhu kairāchena śayana  
+the whole  doorway  filling  the Lord  has  lain down  
+bhitare yāite nāre, govinda kare nivedana  
+inside  to go  he could not;  Govinda  makes  a request
+
+(85) That day the Lord had lain down across the whole doorway. Unable to go inside, Govinda made a request:
+
+একপাশ হও, মোরে দেহ’ ভিতর যাইতে ৷  
+প্রভু কহে, — শক্তি নাহি অঙ্গ চালাইতে ॥ ৮৬ ॥
+
+eka-pāśa hao, more deha’ bhitara yāite  
+to one side  move,  me  let  inside  go  
+prabhu kahe, — śakti nāhi aṅga cālāite  
+the Lord  said  strength  there is not  the body  to move
+
+(86) “Please move to one side and let me go in.” The Lord said, “I have no strength to move My body.”
+
+বার বার গোবিন্দ কহে একদিক্ হইতে ৷  
+প্রভু কহে, — অঙ্গ আমি নারি চালাইতে ॥ ৮৭ ॥
+
+bāra bāra govinda kahe eka-dik haite  
+again and  again  Govinda  says  to one side  to move  
+prabhu kahe, — aṅga āmi nāri cālāite  
+the Lord  said  the body  I  cannot  move
+
+(87) Again and again Govinda asked Him to move aside, but the Lord said, “I cannot move My body.”
+
+গোবিন্দ কহে, — করিতে চাহি পাদ-সম্বাহন ৷  
+প্রভু কহে, — কর বা না কর, যেই তোমার মন ॥ ৮৮ ॥
+
+govinda kahe, — karite cāhi pāda-samvāhana  
+Govinda  said  to do  I want  of the feet  massage  
+prabhu kahe, — kara vā nā kara, yei tomāra mana  
+the Lord  said  do  or  not  do,  whatever  your  mind
+
+(88) Govinda said, “I want to massage Your feet.” The Lord said, “Do it or not, as you like.”
+
+তবে গোবিন্দ বহির্ব্বাস তাঁর উপরে দিয়া ৷  
+ভিতর-ঘরে গেলা গোবিন্দ প্রভুরে লঙ্ঘিয়া ॥ ৮৯ ॥
+
+tabe govinda bahirvāsa tām̐ra upare diyā  
+then  Govinda  outer cloth  Him  over  placing  
+bhitara-ghare gelā govinda prabhure laṅghiyā  
+inner  into the room  went  Govinda  the Lord  stepping over
+
+(89) Then Govinda spread his outer cloth (*bahirvāsa*) over Him, stepped over the Lord and went into the inner room.[^21]
+
+পাদ-সম্বাহন কৈল, কটি-পৃষ্ঠ চাপিল ৷  
+মধুর-মর্দ্দনে প্রভুর পরিশ্রম গেল ॥ ৯০ ॥
+
+pāda-samvāhana kaila, kaṭi-pṛṣṭha cāpila  
+of the feet  massage  he did,  waist and back  he pressed  
+madhura-mardane prabhura pariśrama gela  
+by the gentle  rubbing  the Lord’s  weariness  went
+
+(90) He massaged His feet and pressed His waist and back, and by that gentle rubbing the Lord’s weariness went away.
+
+সুখে নিদ্রা হৈল প্রভুর, গোবিন্দ চাপে অঙ্গ ৷  
+দণ্ড-দুই বই প্রভুর হৈলা নিদ্রা-ভঙ্গ ॥ ৯১ ॥
+
+sukhe nidrā haila prabhura, govinda cāpe aṅga  
+happily  sleep  came  to the Lord,  Govinda  presses  the body  
+daṇḍa-dui bai prabhura hailā nidrā-bhaṅga  
+two daṇḍas  after  the Lord’s  was  waking
+
+(91) The Lord fell happily asleep while Govinda pressed His body, and after some two *daṇḍas* (about forty-eight minutes) He woke.
+
+গোবিন্দে দেখিয়া প্রভু বলে ক্রুদ্ধ হঞা ৷  
+আজি কেনে এতক্ষণ আছিস্ বসিয়া ? ॥ ৯২ ॥
+
+govinde dekhiyā prabhu bale kruddha hañā  
+Govinda  seeing  the Lord  says  angry  becoming  
+āji kene eta-kṣaṇa āchis vasiyā?  
+today  why  so long  you are  sitting
+
+(92) Seeing Govinda, the Lord spoke angrily: “Why have you been sitting here so long today?
+
+মোর নিদ্রা হৈলে কেনে না গেলা প্রসাদ লৈতে ?  
+গোবিন্দ কহে, দ্বারে শুইলা, যাইতে নাহি পথে ॥ ৯৩ ॥
+
+mora nidrā haile kene nā gelā prasāda laite?  
+My  sleep  when it came  why  not  you went  prasāda  to take  
+govinda kahe, dvāre śuilā, yāite nāhi pathe  
+Govinda  said  in the doorway  You lay,  to go  there is not  way
+
+(93) When I fell asleep, why didn’t you go to take prasāda?” Govinda said, “You lay in the doorway; there was no way out.”[^22]
+
+প্রভু কহে, — ভিতরে তবে আইলা কেমনে ?  
+তৈছে কেনে প্রসাদ লৈতে না কৈলা গমনে ? ॥ ৯৪ ॥
+
+prabhu kahe, — bhitare tabe āilā kemane?  
+the Lord  said  inside  then  you came  how  
+taiche kene prasāda laite nā kailā gamane?  
+in the same way  why  prasāda  to take  not  did you  go
+
+(94) The Lord said, “Then how did you come inside? Why didn’t you go out the same way to take prasāda?”
+
+গোবিন্দ কহে, — আমার ‘সেবা’ সে ‘নিয়ম’ ৷  
+অপরাধ হউক, কিবা নরকে গমন ॥ ৯৫ ॥
+
+govinda kahe, — āmāra ‘sevā’ se ‘niyama’  
+Govinda  said (to himself)  my  service  that  rule  
+aparādha hauka, kibā narake gamana  
+offense  let there be,  or  to hell  going
+
+(95) Govinda said within himself, “For me, service is the rule. Let it be an offence; let me even go to hell.
+
+‘সেবা’ লাগি’ কোটি ‘অপরাধ’ নাহি গণি ৷  
+স্ব-নিমিত্ত ‘অপরাধাভাসে’ ভয় মানি ॥ ৯৬ ॥
+
+‘sevā’ lāgi’ koṭi ‘aparādha’ nāhi gaṇi  
+service  for the sake of  ten million  offenses  not  I count  
+sva-nimitta ‘aparādhābhāse’ bhaya māni  
+for my own sake  of the shadow of offense  fear  I feel
+
+(96) For the sake of service I do not count even ten million offences, but for my own sake I fear even the shadow of an offence.”[^23]
+
+এত সব মনে করি’ গোবিন্দ রহিলা ৷  
+প্রভু যে পুছিলা, তার উত্তর না দিলা ॥ ৯৭ ॥
+
+eta saba mane kari’ govinda rahilā  
+this  all  in mind  thinking  Govinda  remained (silent)  
+prabhu ye puchilā, tāra uttara nā dilā  
+the Lord  what  asked,  of that  answer  not  he gave
+
+(97) Thinking all this, Govinda remained silent and gave no answer to what the Lord had asked.[^24]
+
+প্রত্যহ প্রভুর নিদ্রায় যান প্রসাদ লইতে ৷  
+সে দিবসের শ্রম দেখি’ লাগিলা চাপিতে ॥ ৯৮ ॥
+
+pratyaha prabhura nidrāya yāna prasāda laite  
+every day  in the Lord’s  sleep  he goes  prasāda  to take  
+se divasera śrama dekhi’ lāgilā cāpite  
+of that  day  the weariness  seeing  he began  to press
+
+(98) Every day, when the Lord slept, he would go to take prasāda; but that day, seeing the Lord so weary, he began to press His body.
+
+যাইতেহ পথ নাহি, যাইবেন কেমনে ?  
+মহা-অপরাধ হয় প্রভুর লঙ্ঘনে ॥ ৯৯ ॥
+
+yāiteha patha nāhi, yāibena kemane?  
+even to go  way  there is not;  he would go  how  
+mahā-aparādha haya prabhura laṅghane  
+great  offense  is  of the Lord  in stepping over
+
+(99) And there was no way out: how could he leave? To step over the Lord is a great offence.
+
+এই সব হয় ভক্তিশাস্ত্র-সূক্ষ্ম মর্ম্ম ৷  
+চৈতন্যের কৃপায় জানে এই সব ধর্ম্ম ॥ ১০০ ॥
+
+ei saba haya bhakti-śāstra-sūkṣma marma  
+these  all  are  of the scriptures of bhakti  subtle  secret  
+caitanyera kṛpāya jāne ei saba dharma  
+Caitanya’s  by the mercy  knows  these  all  principles
+
+(100) All this is the subtle heart of the scriptures of bhakti; one knows such principles only by Śrī Caitanya’s mercy.[^25]
+
+ভক্ত-গুণ প্রকাশিতে প্রভু বড় রঙ্গী ৷  
+এই সব প্রকাশিতে কৈলা এত ভঙ্গী ॥ ১০১ ॥
+
+bhakta-guṇa prakāśite prabhu baḍa raṅgī  
+of the devotees  virtues  to reveal  the Lord  very  playful  
+ei saba prakāśite kailā eta bhaṅgī  
+these  all  to reveal  He made  such  a play
+
+(101) The Lord delights in revealing His devotees’ virtues, and it was to reveal them that He acted as He did.
+
+সংক্ষেপে কহিলুঁ এই পরিমুণ্ডা-নৃত্য ৷  
+অদ্যাপিহ গায় যাহা চৈতন্যের ভৃত্য ॥ ১০২ ॥
+
+saṁkṣepe kahilum̐ ei pari-muṇḍā-nṛtya  
+briefly  I have told  this  in a circle  dance  
+adyāpiha gāya yāhā caitanyera bhṛtya  
+even today  sing  which  Caitanya’s  servants
+
+(102) Thus I have briefly told of this dance in a circle (*parimuṇḍā-nṛtya*), which Śrī Caitanya’s servants sing of even today.[^26]
+
+এইমত মহাপ্রভু লঞা নিজগণ ৷  
+গুণ্ডিচা-গৃহের কৈলা ক্ষালন, মার্জ্জন ॥ ১০৩ ॥
+
+ei-mata mahāprabhu lañā nija-gaṇa  
+in this way  Mahāprabhu  taking  His own associates  
+guṇḍicā-gṛhera kailā kṣālana, mārjana  
+of the Guṇḍicā temple  He did  washing,  cleaning
+
+(103) In this way Mahāprabhu, with His own associates, washed and cleaned the Guṇḍicā temple.
+
+পূর্ব্ববৎ কৈলা প্রভু কীর্ত্তন, নর্ত্তন ৷  
+পূর্ব্ববৎ টোটায় কৈলা বন্য-ভোজন ॥ ১০৪ ॥
+
+pūrvavat kailā prabhu kīrtana, nartana  
+as before  did  the Lord  kīrtana,  dancing  
+pūrvavat ṭoṭāya kailā vanya-bhojana  
+as before  in the garden  did  forest meal
+
+(104) As before, the Lord sang kīrtana and danced, and as before He enjoyed a picnic meal (*vanya-bhojana*) in the garden.
+
+পূর্ব্ববৎ রথ-আগে করিলা নর্ত্তন ৷  
+হেরাপঞ্চমী-যাত্রা কৈলা দরশন ॥ ১০৫ ॥
+
+pūrvavat ratha-āge karilā nartana  
+as before  the chariot  in front of  He did  dancing  
+herā-pañcamī-yātrā kailā daraśana  
+the Herā-pañcamī  festival  He did  seeing
+
+(105) As before, He danced in front of the chariot and saw the Herā-pañcamī festival.
+
+চারিমাস বর্ষায় রহিলা সব ভক্তগণ ৷  
+জন্মাষ্টমী আদি যাত্রা কৈলা দরশন ॥ ১০৬ ॥
+
+cāri-māsa varṣāya rahilā saba bhakta-gaṇa  
+four  months  of the rains  stayed  all  the devotees  
+janmāṣṭamī ādi yātrā kailā daraśana  
+Janmāṣṭamī  and other  festivals  they did  seeing
+
+(106) All the devotees stayed for the four months of the rains and saw Janmāṣṭamī and the other festivals.
+
+পূর্ব্বে যদি গৌড় হইতে ভক্তগণ আইল ৷  
+প্রভুরে কিছু খাওয়াইতে সবার ইচ্ছা হৈল ॥ ১০৭ ॥
+
+pūrve yadi gauḍa haite bhakta-gaṇa āila  
+earlier  when  Gauḍa  from  the devotees  came  
+prabhure kichu khāoyāite sabāra icchā haila  
+the Lord  something  to feed  of all  the desire  was
+
+(107) Earlier, when the devotees had come from Gauḍa, every one of them wished to feed the Lord something.
+
+কেহ কোন প্রসাদ আনি’ দেয় গোবিন্দ-ঠাঞি ৷  
+ইহা যেন অবশ্য ভক্ষণ করেন গোসাঞি ॥ ১০৮ ॥
+
+keha kona prasāda āni’ deya govinda-ṭhāñi  
+someone  some  prasāda  bringing  gives  to Govinda  
+ihā yena avaśya bhakṣaṇa karena gosāñi  
+this  so that  without fail  eating  does  the Gosāñi
+
+(108) Each would bring some prasāda and give it to Govinda, saying, “See that the Gosāñi eats this without fail.”
+
+কেহ পেড়া কেহ নাড়ু, কেহ পিঠাপানা ৷  
+বহুমূল্য উত্তম-প্রসাদ-প্রকার যার নানা ॥ ১০৯ ॥
+
+keha peḍā keha nāḍu, keha piṭhā-pānā  
+some  peḍā,  some  nāḍu,  some  cakes  drinks  
+bahu-mūlya uttama-prasāda-prakāra yāra nānā  
+of great  value  fine  prasāda  kinds  whose  various
+
+(109) Some brought *peḍā*, some *nāḍu*, some cakes and sweet drinks — costly, fine prasāda of many kinds.[^27]
+
+অমুক্ এই দিয়াছে’ গোবিন্দ করে নিবেদন ৷  
+ধরি’ রাখ, বলি’ প্রভু না করেন ভক্ষণ ॥ ১১০ ॥
+
+amuk ei diyāche’ govinda kare nivedana  
+so-and-so  this  has given  Govinda  makes  report  
+dhari’ rākha, bali’ prabhu nā karena bhakṣaṇa  
+keep it  aside,  saying  the Lord  not  does  eating
+
+(110) Govinda would tell Him, “So-and-so has given this,” but the Lord would say, “Put it aside,” and would not eat.
+
+ধরিতে ধরিতে ঘরের ভরিল এক কোণ ৷  
+শত-জনের ভক্ষ্য যত হৈল সঞ্চয়ণ ॥ ১১১ ॥
+
+dharite dharite gharera bharila eka koṇa  
+keeping  and keeping  of the room  filled  one  corner  
+śata-janera bhakṣya yata haila sañcayaṇa  
+of a hundred  people  food  as much  was  stored up
+
+(111) As he kept putting things aside, one corner of the room filled up: food enough for a hundred people was stored there.
+
+গোবিন্দেরে সবে পুছে করিয়া যতন ৷  
+আমা-দত্ত প্রসাদ প্রভুরে কি করাইলা ভক্ষণ ? ॥ ১১২ ॥
+
+govindere sabe puche kariyā yatana  
+to Govinda  all  ask  with  eagerness  
+āmā-datta prasāda prabhure ki karāilā bhakṣaṇa?  
+by me  given  prasāda  the Lord  whether  you made  eat
+
+(112) Everyone eagerly asked Govinda, “Did you have the Lord eat the prasāda I gave?”[^28]
+
+কাঁহা কিছু কহি’ গোবিন্দ করেন বঞ্চন ৷  
+আর দিন প্রভুরে কহে নির্ব্বেদ-বচন ॥ ১১৩ ॥
+
+kām̐hā kichu kahi’ govinda karena vañcana  
+to some  something  saying  Govinda  does  putting off  
+āra dina prabhure kahe nirveda-vacana  
+another  day  to the Lord  says  words of despair
+
+(113) Govinda put them off, telling each one something. Then one day he spoke to the Lord in despair:[^29]
+
+আচার্য্যাদি মহাশয় করিয়া যতনে ৷  
+তোমারে খাওয়াইতে বস্তু দেন মোর স্থানে ॥ ১১৪ ॥
+
+ācāryādi mahāśaya kariyā yatane  
+the Ācārya  and other  honored men  with  care  
+tomāre khāoyāite vastu dena mora sthāne  
+You  to feed  things  give  my  in the place
+
+(114) “Advaita Ācārya and the other honoured devotees carefully give me things to feed You.
+
+তুমি সে না খাও, তাঁরা পুছে বার বার ৷  
+কত বঞ্চনা করিমু, কেমনে আমার নিস্তার ? ॥ ১১৫ ॥
+
+tumi se nā khāo, tām̐rā puche bāra bāra  
+You  them  not  eat;  they  ask  time and  again  
+kata vañcanā karimu, kemane āmāra nistāra?  
+how much  putting off  shall I do,  how  my  deliverance
+
+(115) You do not eat them, and they ask again and again. How long can I put them off? How shall I be delivered?”
+
+প্রভু কহে, — ‘আদিবস্যা, দুঃখ কাঁহে মানে ?  
+কেবা কি দিয়াছে, তাহা আনহ এখানে ॥ ১১৬ ॥
+
+prabhu kahe, — ‘ādi-vasyā, duḥkha kām̐he māne?  
+the Lord  said  the old residents,  sorrow  why  feel  
+kebā ki diyāche, tāhā ānaha ekhāne  
+who  what  has given,  that  bring  here
+
+(116) The Lord said, “Those who have long lived with Me — why should they feel sorrow? Bring here whatever anyone has given.”[^30]
+
+এত বলি’ মহাপ্রভু বসিলা ভোজনে ৷  
+নাম ধরি’ গোবিন্দ করে নিবেদনে ॥ ১১৭ ॥
+
+eta bali’ mahāprabhu vasilā bhojane  
+thus  saying  Mahāprabhu  sat  to eat  
+nāma dhari’ govinda kare nivedane  
+names  calling  Govinda  makes  offering
+
+(117) Saying this, Mahāprabhu sat down to eat, and Govinda offered Him everything, naming each giver:
+
+আচার্য্যের এই পৈড়, নানা রস-পূপী ৷  
+এই অমৃত-গুটিকা, মণ্ডা, কর্পূর-কূপী ॥ ১১৮ ॥
+
+ācāryera ei paiḍa, nānā rasa-pūpī  
+the Ācārya’s  this  paiḍa (coconut),  various  juicy  cakes  
+ei amṛta-guṭikā, maṇḍā, karpūra-kūpī  
+this  amṛta-guṭikā,  maṇḍā,  camphor  vessel
+
+(118) “This is the Ācārya’s *paiḍa*, and various cakes full of juice; this is *amṛta-guṭikā*, *maṇḍā*, and a jar of camphor.
+
+শ্রীবাস-পণ্ডিতের এই অনেক প্রকার ৷  
+পিঠা, পানা, অমৃতমণ্ডা পদ্ম-চিনি আর ॥ ১১৯ ॥
+
+śrīvāsa-paṇḍitera ei aneka prakāra  
+Śrīvāsa Paṇḍita’s  these  many  kinds  
+piṭhā, pānā, amṛta-maṇḍā padma-cini āra  
+cakes,  drinks,  amṛta-maṇḍā  sugar lotuses  and
+
+(119) These many kinds are from Śrīvāsa Paṇḍita: cakes, sweet drinks, *amṛta-maṇḍā* and sugar lotuses (*padma-cini*).
+
+আচার্য্যরত্নের এই সব উপহার ৷  
+আচার্য্যনিধির এই অনেক প্রকার ॥ ১২০ ॥
+
+ācāryaratnera ei saba upahāra  
+Ācāryaratna’s  these  all  gifts  
+ācāryanidhira ei aneka prakāra  
+Ācāryanidhi’s  these  many  kinds
+
+(120) All these gifts are Ācāryaratna’s, and these many kinds are Ācāryanidhi’s.
+
+বাসুদেব-দত্তের, মুরারি-গুপ্তের আর ৷  
+বুদ্ধিমন্ত-খাঁনের এই বিবিধ প্রকার ॥ ১২১ ॥
+
+vāsudeva-dattera, murāri-guptera āra  
+Vāsudeva Datta’s,  Murāri Gupta’s  and  
+buddhimanta-khām̐nera ei vividha prakāra  
+Buddhimanta Khān’s  these  various  kinds
+
+(121) These are from Vāsudeva Datta and Murāri Gupta, and these various kinds from Buddhimanta Khān.
+
+শ্রীমান্-সেন, শ্রীমান্-পণ্ডিত, আচার্য্যনন্দন ৷  
+তাঁ-সবার দত্ত এই করহ ভোজন ॥ ১২২ ॥
+
+śrīmān-sena, śrīmān-paṇḍita, ācārya-nandana  
+Śrīmān Sena,  Śrīmān Paṇḍita,  Nandana Ācārya  
+tām̐-sabāra datta ei karaha bhojana  
+by them all  given  this  do  eat
+
+(122) Śrīmān Sena, Śrīmān Paṇḍita, Nandana Ācārya — please eat what they have given.
+
+কুলীনগ্রামের এই আগে দেখ যত ৷  
+খণ্ডবাসী লোকের এই দেখ তত ॥ ১২৩ ॥
+
+kulīna-grāmera ei āge dekha yata  
+Kulīnagrāma’s  these  first  see  all  
+khaṇḍavāsī lokera ei dekha tata  
+of the Khaṇḍa-dwelling  people  these  see  as many
+
+(123) Look first at all these from Kulīnagrāma, and look at these, just as many, from the people of Khaṇḍa.”
+
+ঐছে সবার নাম লঞা প্রভুর আগে ধরে ৷  
+সন্তুষ্ট হঞা প্রভু সব ভোজন করে ॥ ১২৪ ॥
+
+aiche sabāra nāma lañā prabhura āge dhare  
+thus  of all  the names  saying  the Lord’s  before  he places  
+santuṣṭa hañā prabhu saba bhojana kare  
+satisfied  becoming  the Lord  all  eating  does
+
+(124) So, naming every one, Govinda set the things before the Lord, and the Lord, well pleased, ate them all.
+
+যদ্যপি মাসেকের বাসি মুকুতা নারিকেল ৷  
+অমৃত-গুটিকাদি, পানাদি সকল ॥ ১২৫ ॥
+
+তথাপি নূতনপ্রায় সব দ্রব্যের স্বাদ ৷  
+‘বাসি’ ‘বিস্বাদ’ নহে সেই প্রভুর প্রসাদ ॥ ১২৬ ॥
+
+yadyapi māsekera vāsi mukutā nārikela  
+although  a month  stale  with the top cut open  coconuts  
+amṛta-guṭikādi, pānādi sakala  
+amṛta-guṭikā and others,  drinks and others  all  
+tathāpi nūtana-prāya saba dravyera svāda  
+yet  almost fresh  all  of the things  the taste  
+‘vāsi’ ‘visvāda’ nahe sei prabhura prasāda  
+stale  tasteless  not  that  the Lord’s  grace
+
+(125–126) Though the coconuts with their tops cut open, the *amṛta-guṭikās*, the drinks and all the rest were a month old, everything tasted almost fresh. Nothing was stale or tasteless — such was the Lord’s grace.[^31]
+
+শত-জনের ভক্ষ্য প্রভু দণ্ডেকে খাইলা !  
+আর কিছু আছে? বলি’ গোবিন্দে পুছিলা ॥ ১২৭ ॥
+
+śata-janera bhakṣya prabhu daṇḍeke khāilā!  
+of a hundred  people  food  the Lord  in one daṇḍa  ate  
+āra kichu āche? bali’ govinde puchilā  
+more  anything  is there?  saying  Govinda  He asked
+
+(127) In a single *daṇḍa* the Lord ate food enough for a hundred people, and asked Govinda, “Is there anything more?”
+
+গোবিন্দ বলে, — রাঘবের ঝালি মাত্র আছে ৷  
+প্রভু কহে, — আজি রহু, তাহা দেখিমু পাছে ॥ ১২৮ ॥
+
+govinda bale, — rāghavera jhāli mātra āche  
+Govinda  says  Rāghava’s  jhālis  only  are left  
+prabhu kahe, — āji rahu, tāhā dekhimu pāche  
+the Lord  said  today  let them stay,  them  I will see  later
+
+(128) Govinda said, “Only Rāghava’s *jhālis* are left.” The Lord said, “Let them stay today; I will look at them later.”
+
+আর দিন প্রভু যদি নিভৃতে ভোজন কৈলা ৷  
+রাঘবের ঝালি খুলি’ সকল দেখিলা ॥ ১২৯ ॥
+
+āra dina prabhu yadi nibhṛte bhojana kailā  
+another  day  the Lord  when  in seclusion  eating  did  
+rāghavera jhāli khuli’ sakala dekhilā  
+Rāghava’s  jhālis  opening  everything  He saw
+
+(129) Another day, when the Lord ate in seclusion, He opened Rāghava’s *jhālis* and looked at everything.
+
+সব দ্রব্যের কিছু কিছু উপযোগ কৈলা ৷  
+স্বাদু, সুগন্ধি দেখি’ বহু প্রশংসিলা ॥ ১৩০ ॥
+
+saba dravyera kichu kichu upayoga kailā  
+all  of the things  a little  of each  partaking  He did  
+svādu, sugandhi dekhi’ bahu praśaṁsilā  
+tasty,  fragrant  finding  much  He praised
+
+(130) He tasted a little of every item and, finding them delicious and fragrant, praised them highly.
+
+বৎসরেক তরে আর রাখিলা ধরিয়া ৷  
+ভোজন-কালে স্বরূপ-পরিবেশে খসাঞা ॥ ১৩১ ॥
+
+vatsareka tare āra rākhilā dhariyā  
+a year  for  the rest  He kept  storing  
+bhojana-kāle svarūpa-pariveśe khasāñā  
+at meal  time  Svarūpa’s  serving  taking out
+
+(131) The rest He kept in store for a whole year, and at mealtimes Svarūpa would take out a little and serve it.
+
+কভু রাত্রিকালে কিছু করায় উপযোগ ৷  
+ভক্তের শ্রদ্ধার দ্রব্য অবশ্য করেন উপভোগ ॥ ১৩২ ॥
+
+kabhu rātri-kāle kichu karāya upayoga  
+sometimes  at night  something  he makes  partake  
+bhaktera śraddhāra dravya avaśya karena upabhoga  
+of the devotee’s  faith  things  surely  He does  enjoy
+
+(132) Sometimes, at night too, Svarūpa would have Him partake of a little; for the Lord surely enjoys what a devotee gives with faith (*śraddhā*).
+
+এইমত মহাপ্রভু ভক্তগণ-সঙ্গে ৷  
+চাতুর্ম্মাস্য গোঙাইলা কৃষ্ণকথা-রঙ্গে ॥ ১৩৩ ॥
+
+ei-mata mahāprabhu bhakta-gaṇa-saṅge  
+thus  Mahāprabhu  with the devotees  
+cāturmāsya goṅāilā kṛṣṇa-kathā-raṅge  
+Cāturmāsya  He passed  in the joy of talks about Kṛṣṇa
+
+(133) Thus Mahāprabhu passed the Cāturmāsya with His devotees in the joy of talks about Kṛṣṇa.
+
+মধ্যে মধ্যে আচার্য্যাদি করে নিমন্ত্রণ ৷  
+ঘরে ভাত রান্ধে আর বিবিধ ব্যঞ্জন ॥ ১৩৪ ॥
+
+madhye madhye ācāryādi kare nimantraṇa  
+from time to time  the Ācārya and others  make  invitation  
+ghare bhāta rāndhe āra vividha vyañjana  
+at home  rice  they cook  and  various  vegetable dishes
+
+(134) From time to time Advaita Ācārya and others would invite Him, cooking rice and various vegetable dishes at home:
+
+মরিচের ঝাল, আর মধুরাম্ল আর ৷  
+আদা, লবণ, লেম্বু, দুগ্ধ, দধি, খণ্ডসার ॥ ১৩৫ ॥
+
+maricera jhāla, āra madhurāmla āra  
+of pepper  hot dishes,  and  sweet-and-sour  and  
+ādā, lavaṇa, lembu, dugdha, dadhi, khaṇḍa-sāra  
+ginger,  salt,  lime,  milk,  yogurt,  sugar candy
+
+(135) hot peppery dishes and sweet-and-sour ones, ginger, salt, lime, milk, yogurt and sugar candy (*khaṇḍa-sāra*);
+
+শাক দুই-চারি, আর শুক্তার ঝোল ৷  
+নিম্ব-বার্ত্তাকী, আর ভৃষ্ট-পটোল ॥ ১৩৬ ॥
+
+śāka dui-cāri, āra śuktāra jhola  
+greens  two or four,  and  of śuktā  broth  
+nimba-vārtākī, āra bhṛṣṭa-paṭola  
+nimba  eggplant,  and  fried  paṭola
+
+(136) two or four kinds of greens, a broth of *śuktā*, eggplant with *nimba*, and fried *paṭola*;
+
+ভৃষ্ট ফুলবড়ী, আর মুদ্গ-ডালি-সূপ ৷  
+বিবিধ ব্যঞ্জন রান্ধে প্রভুর ‘অনুরূপ’ ॥ ১৩৭ ॥
+
+bhṛṣṭa phula-baḍī, āra mudga-ḍāli-sūpa  
+fried  phula-baḍī,  and  mung  dal  soup  
+vividha vyañjana rāndhe prabhura ‘anurūpa’  
+various  dishes  they cook  the Lord’s  to suit
+
+(137) fried *phula-baḍī* and mung dal soup — they cooked various dishes to suit the Lord’s taste.
+
+জগন্নাথের প্রসাদ আনে করিতে মিশ্রিত ৷  
+কাঁহা একা যায়েন, কাঁহা গণের সহিত ॥ ১৩৮ ॥
+
+jagannāthera prasāda āne karite miśrita  
+Jagannātha’s  prasāda  they bring  to make  mixed  
+kām̐hā ekā yāyena, kām̐hā gaṇera sahita  
+sometimes  alone  He goes,  sometimes  associates  with
+
+(138) They would bring Jagannātha’s prasāda to mix with these. Sometimes the Lord went alone, sometimes with His associates.
+
+আচার্য্যরত্ন, আচার্য্যনিধি, নন্দন, রাঘব ৷  
+শ্রীবাস-আদি যত ভক্ত, বিপ্র সব ॥ ১৩৯ ॥
+
+ācāryaratna, ācāryanidhi, nandana, rāghava  
+Ācāryaratna,  Ācāryanidhi,  Nandana,  Rāghava  
+śrīvāsa-ādi yata bhakta, vipra saba  
+Śrīvāsa and others  as many  devotees,  brāhmaṇas  all
+
+(139) Ācāryaratna, Ācāryanidhi, Nandana, Rāghava, Śrīvāsa and all the other devotees who were brāhmaṇas —
+
+এইমত নিমন্ত্রণ করেন যত্ন করি ৷  
+বাসুদেব, গদাধর, গুপ্ত-মুরারি ॥ ১৪০ ॥
+
+কুলীনগ্রামী, খণ্ডবাসী, আর যত জন ৷  
+জগন্নাথের প্রসাদ আনি’ করেন নিমন্ত্রণ ॥ ১৪১ ॥
+
+ei-mata nimantraṇa karena yatna kari  
+in this way  invitation  they make  care  taking  
+vāsudeva, gadādhara, gupta-murāri  
+Vāsudeva,  Gadādhara,  Gupta  Murāri  
+kulīna-grāmī, khaṇḍa-vāsī, āra yata jana  
+of Kulīnagrāma,  of Khaṇḍa,  and  as many  people  
+jagannāthera prasāda āni’ karena nimantraṇa  
+Jagannātha’s  prasāda  bringing  make  invitation
+
+(140–141) these would invite Him in this way with great care. Vāsudeva, Gadādhara, Murāri Gupta, the people of Kulīnagrāma and of Khaṇḍa, and all the others would invite Him by bringing Jagannātha’s prasāda.
+
+শিবানন্দ সেনের শুন নিমন্ত্রণাখ্যান ৷  
+শিবানন্দের বড়-পুত্রের ‘চৈতন্যদাস’-নাম ॥ ১৪২ ॥
+
+śivānanda senera śuna nimantraṇākhyāna  
+Śivānanda  Sena’s  hear  the story of the invitation  
+śivānandera baḍa-putrera ‘caitanya-dāsa’-nāma  
+Śivānanda’s  eldest  son’s  ‘Caitanya  dāsa’  name
+
+(142) Now hear the story of Śivānanda Sena’s invitation. Śivānanda’s eldest son was named Caitanya dāsa.
+
+প্রভুরে মিলাইতে তাঁরে সঙ্গেই আনিলা ৷  
+মিলাইলে, প্রভু তাঁর নাম ত’ পুছিলা ॥ ১৪৩ ॥
+
+prabhure milāite tām̐re saṅgei ānilā  
+the Lord  to introduce  him  along  he brought  
+milāile, prabhu tām̐ra nāma ta’ puchilā  
+when introduced,  the Lord  his  name  then  asked
+
+(143) He brought him along to introduce him to the Lord, and when he had introduced him, the Lord asked his name.
+
+‘চৈতন্যদাস’ নাম শুনি’ কহে গৌররায় ৷  
+কি নাম ধরাঞাছ, বুঝন না যায় ॥ ১৪৪ ॥
+
+‘caitanya-dāsa’ nāma śuni’ kahe gaurarāya  
+‘Caitanya dāsa’  the name  hearing  says  Gaurarāya  
+ki nāma dharāñācha, bujhana nā yāya  
+what  name  you have given,  understanding  not  goes
+
+(144) Hearing the name Caitanya dāsa, Gaurarāya said, “What name have you given him? I cannot make it out.”
+
+সেন কহে, — যে জানিলুঁ, সেই নাম ধরিল ৷  
+এত বলি’ মহাপ্রভুরে নিমন্ত্রণ কৈল ॥ ১৪৫ ॥
+
+sena kahe, — ye jānilum̐, sei nāma dharila  
+Sena  said  what  I knew,  that  name  I gave  
+eta bali’ mahāprabhure nimantraṇa kaila  
+thus  saying  Mahāprabhu  invitation  he made
+
+(145) Sena said, “I gave him the name I knew.” Saying this, he invited Mahāprabhu.
+
+জগন্নাথের বহুমূল্য প্রসাদ আনাইলা ৷  
+ভক্তগণে লঞা প্রভু ভোজনে বসিলা ॥ ১৪৬ ॥
+
+jagannāthera bahu-mūlya prasāda ānāilā  
+Jagannātha’s  costly  prasāda  he had brought  
+bhakta-gaṇe lañā prabhu bhojane vasilā  
+the devotees  with  the Lord  to eat  sat
+
+(146) He had costly prasāda of Jagannātha brought, and the Lord sat down to eat with the devotees.
+
+শিবানন্দের গৌরবে প্রভু করিলা ভোজন ৷  
+অতিগুরু-ভোজনে প্রসন্ন নহে মন ॥ ১৪৭ ॥
+
+śivānandera gaurave prabhu karilā bhojana  
+Śivānanda’s  out of regard  the Lord  did  eating  
+ati-guru-bhojane prasanna nahe mana  
+too heavy  by the meal  pleased  not  was the mind
+
+(147) Out of regard for Śivānanda the Lord ate, but His mind was not pleased by so heavy a meal.
+
+আর দিন চৈতন্যদাস কৈলা নিমন্ত্রণ ৷  
+প্রভুর ‘অভীষ্ট’ বুঝি’ আনিলা ব্যঞ্জন ॥ ১৪৮ ॥
+
+āra dina caitanya-dāsa kailā nimantraṇa  
+another  day  Caitanya dāsa  made  invitation  
+prabhura ‘abhīṣṭa’ bujhi’ ānilā vyañjana  
+the Lord’s  desire  understanding  he brought  dishes
+
+(148) Another day Caitanya dāsa invited Him, and, understanding the Lord’s desire, brought dishes to suit it:
+
+দধি, লেম্বু, আদা, আর ফুলবড়া, লবণ ৷  
+সামগ্রী দেখি’ প্রভুর প্রসন্ন হৈল মন ॥ ১৪৯ ॥
+
+dadhi, lembu, ādā, āra phula-baḍā, lavaṇa  
+yogurt,  lime,  ginger,  and  phula-baḍā,  salt  
+sāmagrī dekhi’ prabhura prasanna haila mana  
+the things  seeing  the Lord’s  pleased  became  mind
+
+(149) yogurt, lime, ginger, *phula-baḍā* and salt. Seeing these things, the Lord was pleased at heart.
+
+প্রভু কহে, — এ বালক আমার মত জানে ৷  
+সন্তুষ্ট হইলাঙ্ আমি ইহার নিমন্ত্রণে ॥ ১৫০ ॥
+
+prabhu kahe, — e bālaka āmāra mata jāne  
+the Lord  said  this  boy  My  mind  knows  
+santuṣṭa hailāṅ āmi ihāra nimantraṇe  
+satisfied  have become  I  by his  invitation
+
+(150) The Lord said, “This boy knows My mind. I am satisfied with his invitation.”
+
+এত বলি’ দধি-ভাত করিলা ভোজন ৷  
+চৈতন্যদাসেরে দিলা উচ্ছিষ্ট-ভাজন ॥ ১৫১ ॥
+
+eta bali’ dadhi-bhāta karilā bhojana  
+thus  saying  yogurt-rice  He did  eating  
+caitanya-dāsere dilā ucchiṣṭa-bhājana  
+to Caitanya dāsa  He gave  of the remnants  the vessel
+
+(151) Saying this, He ate rice with yogurt, and made Caitanya dāsa the recipient of His remnants.
+
+চারিমাস এইমত নিমন্ত্রণে যায় ৷  
+কোন কোন বৈষ্ণব ‘দিবস’ নাহি পায় ॥ ১৫২ ॥
+
+cāri-māsa ei-mata nimantraṇe yāya  
+four  months  in this way  in invitations  pass  
+kona kona vaiṣṇava ‘divasa’ nāhi pāya  
+some  Vaiṣṇavas  a day  not  get
+
+(152) In this way four months passed in invitations, and some Vaiṣṇavas could not get a day.
+
+গদাধর-পণ্ডিত, ভট্টাচার্য্য-সার্ব্বভৌম ৷  
+ইঁহা-সবার আছে ভিক্ষার দিবস-নিয়ম ॥ ১৫৩ ॥
+
+gadādhara-paṇḍita, bhaṭṭācārya-sārvabhauma  
+Gadādhara  Paṇḍita,  Bhaṭṭācārya  Sārvabhauma  
+im̐hā-sabāra āche bhikṣāra divasa-niyama  
+of them all  there is  for bhikṣā  fixed days
+
+(153) Gadādhara Paṇḍita and Sārvabhauma Bhaṭṭācārya had fixed days for feeding Him (*bhikṣā*).
+
+গোপীনাথাচার্য্য, জগদানন্দ, কাশীশ্বর ৷  
+ভগবান্, রামভদ্রাচার্য্য, শঙ্কর, বক্রেশ্বর ॥ ১৫৪ ॥
+
+মধ্যে মধ্যে ঘর-ভাতে করে নিমন্ত্রণ ৷  
+অন্যের নিমন্ত্রণে প্রসাদে কৌড়ি দুইপণ ॥ ১৫৫ ॥
+
+gopīnāthācārya, jagadānanda, kāśīśvara  
+Gopīnātha Ācārya,  Jagadānanda,  Kāśīśvara  
+bhagavān, rāmabhadrācārya, śaṅkara, vakreśvara  
+Bhagavān,  Rāmabhadra Ācārya,  Śaṅkara,  Vakreśvara  
+madhye madhye ghara-bhāte kare nimantraṇa  
+from time to time  with home  rice  make  invitation  
+anyera nimantraṇe prasāde kauḍi duipaṇa  
+of others  at the invitation  for prasāda  cowries  two paṇas
+
+(154–155) Gopīnātha Ācārya, Jagadānanda, Kāśīśvara, Bhagavān, Rāmabhadra Ācārya, Śaṅkara and Vakreśvara would from time to time invite Him to rice cooked at home. When others invited Him, the prasāda cost two *paṇas* of cowries.
+
+প্রথমে আছিল ‘নির্ব্বন্ধ’ কৌড়ি চারিপণ ৷  
+রামচন্দ্রপুরী ভয়ে ঘাটাইলা নিমন্ত্রণ ॥ ১৫৬ ॥
+
+prathame āchila ‘nirbandha’ kauḍi cāripaṇa  
+at first  was  the fixed sum  cowries  four paṇas  
+rāmacandra-purī bhaye ghāṭāilā nimantraṇa  
+Rāmacandra Purī  out of fear  they reduced  invitation
+
+(156) At first the fixed sum had been four *paṇas* of cowries, but out of fear of Rāmacandra Purī they reduced the invitation.
+
+চারিমাস রহি’ গৌড়ের ভক্তে বিদায় দিলা ৷  
+নীলাচলের সঙ্গী ভক্ত সঙ্গেই রহিলা ॥ ১৫৭ ॥
+
+cāri-māsa rahi’ gauḍera bhakte vidāya dilā  
+four  months  staying,  of Gauḍa  to the devotees  farewell  He gave  
+nīlācalera saṅgī bhakta saṅgei rahilā  
+of Nīlācala  companion  devotees  with Him  remained
+
+(157) After they had stayed four months, He bade farewell to the devotees of Gauḍa, and His companions of Nīlācala remained with Him.
+
+এই ত’ কহিলুঁ প্রভুর ভিক্ষা-নিমন্ত্রণ ৷  
+ভক্ত-দত্ত বস্তু যৈছে কৈলা আস্বাদন ॥ ১৫৮ ॥
+
+ei ta’ kahilum̐ prabhura bhikṣā-nimantraṇa  
+thus  I have told  the Lord’s  invitations to meals  
+bhakta-datta vastu yaiche kailā āsvādana  
+by devotees  given  things  how  He did  relishing
+
+(158) Thus I have told of the invitations to the Lord’s meals and how He relished the things His devotees gave.
+
+তার মধ্যে রাঘবের ঝালি-বিবরণ ৷  
+তার মধ্যে পরিমুণ্ডা-নৃত্য-কথন ॥ ১৫৯ ॥
+
+tāra madhye rāghavera jhāli-vivaraṇa  
+of that  in the midst  Rāghava’s  jhālis’ account  
+tāra madhye pari-muṇḍā-nṛtya-kathana  
+of that  in the midst  in a circle  dance  telling
+
+(159) Within it is the account of Rāghava’s *jhālis*, and within it too the telling of the dance in a circle (*parimuṇḍā-nṛtya*).
+
+শ্রদ্ধা করি’ শুনে যেই চৈতন্যের কথা ৷  
+চৈতন্যচরণে প্রেম পাইবে সর্ব্বথা ॥ ১৬০ ॥
+
+śraddhā kari’ śune yei caitanyera kathā  
+with faith  having  hears  whoever  Caitanya’s  narrations  
+caitanyacaraṇe prema pāibe sarvathā  
+at Caitanya’s feet  love  will attain  surely
+
+(160) Whoever hears the narrations of Śrī Caitanya with faith will surely attain love for Śrī Caitanya’s feet.
+
+শুনিতে অমৃত-সম জুড়ায় কর্ণ-মন ৷  
+সেই ভাগ্যবান্, যেই করে আস্বাদন ॥ ১৬১ ॥
+
+śunite amṛta-sama juḍāya karṇa-mana  
+to hear  nectar  like  soothes  ears and mind  
+sei bhāgyavān, yei kare āsvādana  
+he  is fortunate,  who  does  relishing
+
+(161) To hear them is like nectar; they soothe the ears and the mind. Fortunate is he who relishes them.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৬২ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(162) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Anubhāṣya*: *yena kenāpi* — with anything at all, even the simplest thing, if a devotee offers it with faith.
@@ -860,3 +1648,25 @@ Govinda  coming  does  massaging of the feet
 [^19]: The Gauḍīya Maṭha edition reads *āpana-āveśe* (“absorbed in His own feeling”); another reading is *parama-āveśe* (“in great absorption”).
 
 [^20]: Edition heading: the Lord comes to a half-external state (*ardha-bāhya*).
+
+[^21]: *Bahirvāsa*, the outer cloth: the *Anubhāṣya* (heading to this verse) says that Govinda places his own *bahirvāsa* on the Lord’s body and steps over Him.
+
+[^22]: The Gauḍīya Maṭha edition reads *prasāda laite* (“to take prasāda”); another reading is *prasāda khāite* (“to eat prasāda”). Edition heading: the Lord tests whether Govinda is intent on pure service.
+
+[^23]: Edition heading (to verses 95–96): the one aim of a servant of Gaura-Kṛṣṇa is the wish to please His senses; serving for His pleasure, the pure devotee abhors even a drop of desire to please his own senses and fears offence in it.
+
+[^24]: Edition heading: Govinda sees in the mahā-prasāda the spiritual reality itself and the Lord’s own possession; yet honouring it concerns himself, and, wary of any wish to please his own senses, he waits until the Lord wakes. *Anubhāṣya*: compare Ādi 4.201.
+
+[^25]: *Anubhāṣya*: those attached to karma do not grasp this subtle heart and take mere rites for bhakti; bhakti is that by which service to Bhagavān is done.
+
+[^26]: The *Anubhāṣya* and the *Amṛta-pravāha-bhāṣya* gloss *parimuṇḍā-nṛtya* as a dance in a circle (*parimaṇḍala-nṛtya*); on the *parimaṇḍala*, the place in the *jagamohana* where the devotees dance, see the note to verse 68.
+
+[^27]: *Peḍā*, a sweet of thickened milk; the *Anubhāṣya* records the variant *paiḍa* (coconut, as in verse 118).
+
+[^28]: Edition heading: the devotees ask Govinda whether the Lord has eaten what each of them offered.
+
+[^29]: Edition heading: with evasive words Govinda consoles the givers.
+
+[^30]: *Ādivasyā*, “old residents”: those who have long lived with the Lord (*Amṛta-pravāha-bhāṣya*: they have no cause for sorrow, for the delicacies were brought by those who have just come from Gauḍa). The *Anubhāṣya* heads the verse “The Lord asks why the devotees are sorrowful” and records other senses given to the word: “unfortunate,” “foolish,” “fickle-minded,” “overeager” (*ā-dekhlā*, *kāṅlā*).
+
+[^31]: *Mukutā nārikela*, coconuts with the top cut open (*Amṛta-pravāha-bhāṣya*).
