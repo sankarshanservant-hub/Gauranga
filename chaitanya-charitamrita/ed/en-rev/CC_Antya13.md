@@ -708,6 +708,356 @@ of the temple  in front  set up  one  thatched shed  building
 
 (70) The Gosāñi repaired that place and kept it ready, and in front of the temple he built a thatched shed.
 
+শীঘ্র চলি’ নীলাচলে গেলা জগদানন্দ ৷  
+ভক্ত সহ গোসাঞি হৈলা পরম আনন্দ ॥ ৭১ ॥
+
+śīghra cali’ nīlācale gelā jagadānanda  
+quickly  going  to Nīlācala  went  Jagadānanda  
+bhakta saha gosāñi hailā parama ānanda  
+the devotees  with  the Lord  became  supremely  joyful
+
+(71) Jagadānanda went quickly back to Nīlācala, and the Lord, together with the devotees, was overjoyed.
+
+প্রভুর চরণ বন্দি’ সবারে মিলিলা ৷  
+মহাপ্রভু তাঁরে দৃঢ় আলিঙ্গন কৈলা ॥ ৭২ ॥
+
+prabhura caraṇa vandi’ sabāre mililā  
+the Lord’s  feet  honouring  with all  he met  
+mahāprabhu tām̐re dṛḍha āliṅgana kailā  
+Mahāprabhu  him  tight  embrace  gave
+
+(72) He bowed to the Lord’s feet and met everyone, and Mahāprabhu embraced him tightly.
+
+সনাতনের নামে পণ্ডিত দণ্ডবৎ কৈলা ৷  
+রাসস্থলীর ধূলি আদি সব ভেট দিলা ॥ ৭৩ ॥
+
+sanātanera nāme paṇḍita daṇḍavat kailā  
+Sanātana’s  in the name  the Paṇḍita  obeisance  made  
+rāsa-sthalīra dhūli ādi saba bheṭa dilā  
+of the place of the rāsa  dust  and so on  all  gifts  gave
+
+(73) In Sanātana’s name the Paṇḍita offered obeisance to the Lord, and he presented all the gifts—dust from the site of the rāsa dance and the rest.
+
+সব দ্রব্য রাখিলেন, পীলু দিলেন বাঁটিয়া ৷  
+‘বৃন্দাবনের ফল’ বলি’ খাইলা হৃষ্ট হঞা ॥ ৭৪ ॥
+
+saba dravya rākhilena, pīlu dilena bām̐ṭiyā  
+all  the things  He kept,  the pīlu  He gave  distributing  
+‘vṛndāvanera phala’ bali’ khāilā hṛṣṭa hañā  
+of Vṛndāvana  fruit  saying  they ate  delighted  becoming
+
+(74) The Lord kept all the gifts but distributed the *pīlu* fruits, and everyone ate them with delight, calling them “the fruit of Vṛndāvana.”
+
+যে কেহ জানে, আঁটি চুষিতে লাগিল ৷  
+যে না জানে গৌড়ীয়া, পীলু চাবাঞা খাইল ॥ ৭৫ ॥
+
+ye keha jāne, ām̐ṭi cuṣite lāgila  
+who  anyone  knew,  the stones  to suck  began  
+ye nā jāne gauḍīyā, pīlu cāvāñā khāila  
+who  not  knew,  the Gauḍīyās,  the pīlu  chewing  ate
+
+(75) Those who knew the fruit began to suck the stones, but the Gauḍīyās who did not know it chewed the *pīlu* and swallowed it.
+
+মুখে তার ঝাল গেল, জিহ্বা করে জ্বালা ৷  
+বৃন্দাবনের ‘পীলু’ খাইতে এই এক লীলা ॥ ৭৬ ॥
+
+mukhe tāra jhāla gela, jihvā kare jvālā  
+in the mouth  their  pungency  went,  the tongue  does  burning  
+vṛndāvanera ‘pīlu’ khāite ei eka līlā  
+of Vṛndāvana  pīlu  in eating  this  one  līlā
+
+(76) Their mouths were stung with pungency, and their tongues burned. Such was the pastime of eating the *pīlu* of Vṛndāvana.
+
+জগদানন্দের আগমনে সবার উল্লাস ৷  
+এইমতে নীলাচলে প্রভুর বিলাস ॥ ৭৭ ॥
+
+jagadānandera āgamane sabāra ullāsa  
+Jagadānanda’s  at the coming  of all  the joy  
+ei-mate nīlācale prabhura vilāsa  
+in this way  at Nīlācala  the Lord’s  pastimes
+
+(77) Everyone rejoiced at Jagadānanda’s return. Thus the Lord enjoyed His pastimes at Nīlācala.
+
+একদিন প্রভু যমেশ্বর-টোটা যাইতে ৷  
+সেইকালে দেবদাসী লাগিলা গাইতে ॥ ৭৮ ॥
+
+eka-dina prabhu yameśvara-ṭoṭā yāite  
+one day  the Lord  to Yameśvara-ṭoṭā  while going  
+sei-kāle deva-dāsī lāgilā gāite  
+at that  time  a devadāsī  began  to sing
+
+(78) One day, as the Lord was going to Yameśvara-ṭoṭā, a *devadāsī* of the temple began to sing.
+
+গুর্জ্জরীরাগিণী লঞা সুমধুর-স্বরে ৷  
+‘গীতগোবিন্দ’-পদ গায় জগমন হরে ॥ ৭৯ ॥
+
+gurjjarī-rāgiṇī lañā sumadhura-svare  
+the Gurjarī  rāgiṇī  taking  in a very sweet  voice  
+‘gīta-govinda’-pada gāya jaga-mana hare  
+of the Gīta-govinda  a song  she sings  of the world  the mind  steals
+
+(79) Taking up the Gurjarī *rāgiṇī*, she was singing a song from the *Gīta-govinda* in a very sweet voice, and it captivated the mind of the whole world.
+
+দূরে গান শুনি’ প্রভুর হইল আবেশ ৷  
+স্ত্রী, পুরুষ, কে গায়, — না জানি’ বিশেষ ॥ ৮০ ॥
+
+dūre gāna śuni’ prabhura haila āveśa  
+from afar  the song  hearing  the Lord’s  arose  absorption  
+strī, puruṣa, ke gāya, — nā jāni’ viśeṣa  
+woman,  man,  who  sings  not  knowing  specifically
+
+(80) Hearing the song from afar, the Lord was lost in ecstatic love and could not tell who was singing, a woman or a man.[^20]
+
+তারে মিলিবারে প্রভু আবেশে ধাইলা ৷  
+পথে ‘সিজের বাড়ী’ লয়, ফুটিয়া চলিলা ॥ ৮১ ॥
+
+tāre milibāre prabhu āveśe dhāilā  
+the singer  to meet  the Lord  in ecstasy  ran  
+pathe ‘sijera bāḍī’ laya, phuṭiyā calilā  
+on the way  sij  hedge  He takes,  piercing through  He went
+
+(81) In His ecstasy the Lord ran to meet the singer. On the way He went straight into a hedge of *sij* shrubs and forced His way through it.[^21]
+
+অঙ্গে কাঁটা লাগিল, কিছু না জানিলা !  
+আস্তে-ব্যস্তে গোবিন্দ তাঁর পাছেতে ধাইলা ॥ ৮২ ॥
+
+aṅge kām̐ṭā lāgila, kichu nā jānilā!  
+in the body  thorns  pierced,  anything  not  He knew  
+āste-vyaste govinda tām̐ra pāchete dhāilā  
+in great haste  Govinda  Him  behind  ran
+
+(82) Thorns pierced His body, but He knew nothing of it! In great haste Govinda ran after Him.
+
+ধাঞা যায়েন প্রভু, স্ত্রী আছে অল্প দূরে ৷  
+‘স্ত্রীগান’ বলি’ গোবিন্দ প্রভুরে কৈলা কোলে ॥ ৮৩ ॥
+
+dhāñā yāyena prabhu, strī āche alpa dūre  
+running  goes  the Lord,  the woman  is  a little  away  
+‘strī-gāna’ bali’ govinda prabhure kailā kole  
+a woman’s  song  saying  Govinda  the Lord  took  in his arms
+
+(83) The Lord was running on, and the woman was only a little way off, when Govinda caught the Lord in his arms, crying, “It is a woman singing!”
+
+স্ত্রী-নাম শুনি’ প্রভুর বাহ্য হইলা ৷  
+পুনরপি সেই পথে বাহুড়ি’ চলিলা ॥ ৮৪ ॥
+
+strī-nāma śuni’ prabhura bāhya hailā  
+woman  the word  hearing  the Lord’s  external awareness  came  
+punarapi sei pathe bāhuḍi’ calilā  
+again  by that  way  turning back  went
+
+(84) Hearing the word “woman,” the Lord came back to external consciousness and returned the way He had come.[^22]
+
+প্রভু কহে, — গোবিন্দ, আজি রাখিলা জীবন ৷  
+স্ত্রী-পরশ হৈলে আমার হইত মরণ ॥ ৮৫ ॥
+
+prabhu kahe, — govinda, āji rākhilā jīvana  
+the Lord  says  Govinda,  today  you saved  life  
+strī-paraśa haile āmāra haita maraṇa  
+woman’s  touch  if it had been  My  would have been  death
+
+(85) The Lord said, “Govinda, today you have saved My life. Had I touched a woman, it would have been My death.[^23]
+
+এ ঋণ শোধিতে আমি নারিমু তোমার ৷  
+গোবিন্দ কহে, — জগন্নাথ রাখেন মুই কোন্ ছার ? ॥ ৮৬ ॥
+
+e ṛṇa śodhite āmi nārimu tomāra  
+this  debt  to repay  I  shall not be able  to you  
+govinda kahe, — jagannātha rākhena mui kon chāra?  
+Govinda  says  Jagannātha  protects  I  what  insignificant one
+
+(86) I shall never be able to repay this debt to you.” Govinda replied, “It is Jagannātha who protects. What am I? I am nothing.”
+
+প্রভু কহে, — গোবিন্দ, মোর সঙ্গে রহিবা ৷  
+যাঁহা তাঁহা মোর রক্ষায় সাবধান হইবা ॥ ৮৭ ॥
+
+prabhu kahe, — govinda, mora saṅge rahibā  
+the Lord  says  Govinda,  Me  with  stay  
+yām̐hā tām̐hā mora rakṣāya sāvadhāna haibā  
+wherever  there  My  in protecting  careful  be
+
+(87) The Lord said, “Govinda, stay with Me. Wherever I go, be watchful and protect Me.”
+
+এত বলি’ লেউটি’ প্রভু গেলা নিজ-স্থানে ৷  
+শুনি’ মহা-ভয় পাইলা স্বরূপাদি-মনে ॥ ৮৮ ॥
+
+eta bali’ leuṭi’ prabhu gelā nija-sthāne  
+this  saying  turning back  the Lord  went  to His own  place  
+śuni’ mahā-bhaya pāilā svarūpādi-mane  
+hearing  great  fear  felt  Svarūpa and others  in mind
+
+(88) Saying this, the Lord turned back and went to His residence. Hearing of it, Svarūpa and the others were greatly alarmed at heart.
+
+এথা তপনমিশ্র-পুত্র রঘুনাথ-ভট্টাচার্য্য ৷  
+প্রভুরে দেখিতে চলিলা ছাড়ি’ সর্ব্ব কার্য্য ॥ ৮৯ ॥
+
+ethā tapana-miśra-putra raghunātha-bhaṭṭācārya  
+meanwhile  Tapana  Miśra’s  son  Raghunātha  Bhaṭṭācārya  
+prabhure dekhite calilā chāḍi’ sarva kārya  
+the Lord  to see  set out  leaving  all  affairs
+
+(89) Meanwhile Raghunātha Bhaṭṭācārya, the son of Tapana Miśra, left all his affairs and set out to see the Lord.[^24]
+
+কাশী হৈতে চলিলা তেঁহো গৌড় পথ দিয়া ৷  
+সঙ্গে সেবক চলে তাঁর ঝালি বহিয়া ॥ ৯০ ॥
+
+kāśī haite calilā tem̐ho gauḍa patha diyā  
+Kāśī  from  set out  he  of Gauḍa  the road  by  
+saṅge sevaka cale tām̐ra jhāli vahiyā  
+with him  a servant  goes  his  bag  carrying
+
+(90) He set out from Kāśī by the road through Gauḍa, and a servant went with him, carrying his bag.[^25]
+
+পথে তারে মিলিলা বিশ্বাস-রামদাস ৷  
+বিশ্বাসখানার কায়স্থ তেঁহো রাজার বিশ্বাস ॥ ৯১ ॥
+
+pathe tāre mililā viśvāsa-rāmadāsa  
+on the way  him  met  Viśvāsa  Rāmadāsa  
+viśvāsa-khānāra kāyastha tem̐ho rājāra viśvāsa  
+of the Viśvāsa-khānā  a kāyastha  he  of the king  trusted officer
+
+(91) On the way he was met by Rāmadāsa Viśvāsa, a *kāyastha* of the *Viśvāsa-khānā* and a trusted officer of the king.[^26]
+
+সর্ব্বশাস্ত্রে প্রবীণ, কাব্যপ্রকাশ-অধ্যাপক ৷  
+পরমবৈষ্ণব, রঘুনাথ-উপাসক ॥ ৯২ ॥
+
+sarva-śāstre pravīṇa, kāvya-prakāśa-adhyāpaka  
+in all  scriptures  expert,  of the Kāvya-prakāśa  teacher  
+parama-vaiṣṇava, raghunātha-upāsaka  
+a great  Vaiṣṇava,  of Raghunātha  worshipper
+
+(92) He was learned in all the scriptures and taught the *Kāvya-prakāśa*; he was a great Vaiṣṇava and a worshipper of Raghunātha (Rāma).[^27]
+
+অষ্টপ্রহর রামনাম জপেন রাত্রি-দিনে ৷  
+সর্ব্ব ত্যজি’ চলিলা জগন্নাথ-দরশনে ॥ ৯৩ ॥
+
+aṣṭa-prahara rāma-nāma japena rātri-dine  
+eight  praharas  Rāma’s  name  he chants  night  and day  
+sarva tyaji’ calilā jagannātha-daraśane  
+all  giving up  he set out  Jagannātha  to see
+
+(93) Night and day, through all eight *praharas*, he chanted the name of Rāma. Giving up everything, he had set out to see Jagannātha.
+
+রঘুনাথ-ভট্টের সনে পথেতে মিলিলা ৷  
+ভট্টের ঝালি মাথে করি’ বহিয়া চলিলা ॥ ৯৪ ॥
+
+raghunātha-bhaṭṭera sane pathete mililā  
+Raghunātha  Bhaṭṭa  with  on the way  he met  
+bhaṭṭera jhāli māthe kari’ vahiyā calilā  
+the Bhaṭṭa’s  bag  on his head  putting  carrying  went
+
+(94) Meeting Raghunātha Bhaṭṭa on the way, he carried the Bhaṭṭa’s bag on his head as they went.
+
+নানা সেবা করি’ করে পাদ-সম্বাহন ৷  
+তাতে রঘুনাথের হয় সঙ্কুচিত মন ॥ ৯৫ ॥
+
+nānā sevā kari’ kare pāda-samvāhana  
+various  services  doing  does  feet  massaging  
+tāte raghunāthera haya saṅkucita mana  
+by that  Raghunātha’s  becomes  embarrassed  mind
+
+(95) He rendered various services and massaged his feet, and this made Raghunātha uneasy at heart.
+
+তুমি বড় লোক, পণ্ডিত, মহাভাগবতে ৷  
+সেবা না করিহ, সুখে চল মোর সাথে ॥ ৯৬ ॥
+
+tumi baḍa loka, paṇḍita, mahā-bhāgavate  
+you  a great  man,  a paṇḍita,  a great  bhāgavata  
+sevā nā kariha, sukhe cala mora sāthe  
+service  not  do,  happily  walk  me  with
+
+(96) “You are a great man, a *paṇḍita*, a *mahā-bhāgavata*. Do not serve me; just walk happily with me.”
+
+রামদাস কহে, — আমি শূদ্র অধম !  
+‘ব্রাহ্মণের সেবা’, — এই মোর নিজ-ধর্ম্ম ॥ ৯৭ ॥
+
+rāmadāsa kahe, — āmi śūdra adhama!  
+Rāmadāsa  says  I  a śūdra  lowly  
+‘brāhmaṇera sevā’, — ei mora nija-dharma  
+of the brāhmaṇa  service  this  my  own  dharma
+
+(97) Rāmadāsa said, “I am a lowly *śūdra*! To serve a brāhmaṇa is my own *dharma*.
+
+সঙ্কোচ না কর তুমি, আমি — তোমার ‘দাস’ ৷  
+তোমার সেবা করিলে হয় হৃদয়ে উল্লাস ॥ ৯৮ ॥
+
+saṅkoca nā kara tumi, āmi — tomāra ‘dāsa’  
+hesitation  not  do  you,  I  your  servant  
+tomāra sevā karile haya hṛdaye ullāsa  
+your  service  doing  there is  in the heart  joy
+
+(98) Do not feel uneasy: I am your servant. When I serve you, my heart is filled with joy.”
+
+এত বলি’ ঝালি বহেন, করেন সেবনে ৷  
+রঘুনাথের তারকমন্ত্র জপেন রাত্রি-দিনে ॥ ৯৯ ॥
+
+eta bali’ jhāli vahena, karena sevane  
+this  saying  the bag  he carries,  does  service  
+raghunāthera tāraka-mantra japena rātri-dine  
+Raghunātha’s  delivering  mantra  he chants  night  and day
+
+(99) Saying this, he carried the bag and served him, and night and day he chanted the *tāraka-mantra* of Raghunātha (Rāma), the mantra that delivers.
+
+এইমতে রঘুনাথ আইলা নীলাচলে ৷  
+প্রভুর চরণে যাঞা মিলিলা কুতূহলে ॥ ১০০ ॥
+
+ei-mate raghunātha āilā nīlācale  
+in this way  Raghunātha  came  to Nīlācala  
+prabhura caraṇe yāñā mililā kutūhale  
+the Lord’s  at the feet  going  met  with eager joy
+
+(100) In this way Raghunātha came to Nīlācala; he went to the Lord’s feet and met Him with eager joy.
+
+দণ্ডপরণাম করি’ ভট্ট পড়িলা চরণে ৷  
+প্রভু ‘রঘুনাথ’ বলি’ কৈলা আলিঙ্গনে ॥ ১০১ ॥
+
+daṇḍa-paraṇāma kari’ bhaṭṭa paḍilā caraṇe  
+rod-like  obeisance  making  the Bhaṭṭa  fell  at the feet  
+prabhu ‘raghunātha’ bali’ kailā āliṅgane  
+the Lord  Raghunātha  saying  did  embrace
+
+(101) The Bhaṭṭa fell flat at His feet in obeisance, and the Lord embraced him, calling him by name: “Raghunātha!”[^28]
+
+মিশ্র আর শেখরের দণ্ডবৎ জানাইলা ৷  
+মহাপ্রভু তাঁ-সবার বার্ত্তা পুছিলা ॥ ১০২ ॥
+
+miśra āra śekharera daṇḍavat jānāilā  
+of Miśra  and  Śekhara  the obeisances  he conveyed  
+mahāprabhu tām̐-sabāra vārtā puchilā  
+Mahāprabhu  of them  all  news  asked
+
+(102) He conveyed the obeisances of Miśra and Śekhara, and Mahāprabhu asked for news of them all.
+
+ভাল হইল আইলা দেখ ‘কমললোচন’ ৷  
+আজি আমার এথা করিবা প্রসাদ ভোজন ॥ ১০৩ ॥
+
+bhāla haila āilā dekha ‘kamala-locana’  
+good  it is  you came,  see  the lotus-eyed (Jagannātha)  
+āji āmāra ethā karibā prasāda bhojana  
+today  My  here  you will do  prasāda  eating
+
+(103) “It is good that you have come. Go and see the lotus-eyed Lord (Jagannātha), and today you will take prasāda here with Me.”
+
+গোবিন্দেরে কহি’ এক বাসা দেওয়াইলা ৷  
+স্বরূপাদি ভক্তগণ-সনে মিলাইলা ॥ ১০৪ ॥
+
+govindere kahi’ eka vāsā deoyāilā  
+to Govinda  telling  a  lodging  had given  
+svarūpādi bhakta-gaṇa-sane milāilā  
+Svarūpa and others  devotees  with  He introduced
+
+(104) Through Govinda the Lord arranged lodging for him and introduced him to Svarūpa and the other devotees.
+
+এইমত প্রভু-সঙ্গে রহিলা অষ্টমাস ৷  
+দিনে দিনে প্রভুর কৃপা বাড়য়ে উল্লাস ॥ ১০৫ ॥
+
+ei-mata prabhu-saṅge rahilā aṣṭa-māsa  
+in this way  the Lord  with  stayed  eight  months  
+dine dine prabhura kṛpā bāḍaye ullāsa  
+day  by day  the Lord’s  mercy  increases  joy
+
+(105) In this way he stayed with the Lord for eight months, and day by day the Lord’s mercy and his joy increased.[^29]
+
 ---
 
 [^1]: The same verse as Ādi 4.2 (= Ādi 1.18, 17.2, Antya 2.2, 4.2, 6.2); translation as there.
@@ -747,3 +1097,23 @@ of the temple  in front  set up  one  thatched shed  building
 [^18]: Heading in the edition: a paramahaṁsa on the path of rāga is forbidden to wear saffron cloth. *Anubhāṣya*: Vaiṣṇavas are paramahaṁsas and *akiñcanas*, possessing nothing but Kṛṣṇa, and need not put on the saffron dress of sannyāsīs to show their status; moreover, Śrī Gaurahari Himself accepted the dress of an *ekadaṇḍī* sannyāsī, and His servants, mindful of the difference between the Lord and His servant, do not think it fitting to resemble Him in dress; while Vaiṣṇavas who accept sannyāsa under the shelter of a guru who is a Vaiṣṇava paramahaṁsa often wear the saffron dress of the fourth āśrama out of humility, thinking themselves unworthy to be called paramahaṁsas.
 
 [^19]: *Anubhāṣya*: *maṭha*, a temple. *Amṛta-pravāha-bhāṣya*: Dvādaśāditya-ṭilā is a high mound on which stands the old, ruined temple of Śrī Madana-mohana; in Kṛṣṇa’s pastimes the twelve Ādityas rose there.
+
+[^20]: Heading in the edition: hearing a song about Kṛṣṇa, the Lord, in half-external consciousness and overwhelmed by love, sees in her singing a transcendental service to Kṛṣṇa and runs towards her.
+
+[^21]: The Gauḍīya Maṭha edition (p. 1006) reads *laya*, “He takes (the way through the hedge)”; another reading is *haya*. *Amṛta-pravāha-bhāṣya*: in Utkala a flower garden is called *phul-bāḍī*; *sij* shrubs grow there—*manasā-sij* and thorny *sij*—and so a hedge of them is called *sijera bāḍī*; *bāḍī* here means “a hedge.”
+
+[^22]: Heading in the edition: the Lord, filled with the mood of the *āśraya* (the abode of love), is the *ācārya*, the teacher of the world; the doctrine of “Gaura-nāgara” is refuted here; the Lord turns back.
+
+[^23]: Heading in the edition: to touch a woman or keep company with her is death for an *ācārya* and a preacher, and so it must be avoided in every way; by thanking Govinda, the Lord teaches this lesson.
+
+[^24]: Heading in the edition: the story of Raghunātha Bhaṭṭa Gosvāmī, who from his youth kept the great vow of a lifelong celibate (*naiṣṭhika-brahmacārī*).
+
+[^25]: The Gauḍīya Maṭha edition (p. 1007) reads *vahiyā*, “carrying”; another reading is *sājāñā*, “having packed.”
+
+[^26]: *Amṛta-pravāha-bhāṣya*: the accounts office of the ruler of Gauḍa was called the *Viśvāsa-khānā*; *kāyasthas* worked there because the king trusted them.
+
+[^27]: *Anubhāṣya*: the *Kāvya-prakāśa* is a famous treatise on poetics by Mammaṭa Bhaṭṭa. Heading in the edition: Rāmadāsa belonged to the Rāmānandī *sampradāya* (he was a Rāmāyat). *Amṛta-pravāha-bhāṣya*: one who at heart desires liberation is not counted among pure Vaiṣṇavas; as a worshipper of Rāma, Rāmadāsa was “almost a Vaiṣṇava,” but in those days few could distinguish the degrees of pure Vaiṣṇavas, and so he was known in the world as “a great Vaiṣṇava.”
+
+[^28]: The Gauḍīya Maṭha edition (p. 1007) reads *bali’*, “saying”; another reading is *jāni*, “knowing (him).”
+
+[^29]: The Gauḍīya Maṭha edition (p. 1007) reads *kṛpā*, “mercy”; another reading is *kṛpāya*, “by the mercy.” Heading in the edition: eight months with the Lord; Raghunātha receives His loving mercy.
