@@ -198,6 +198,288 @@ constantly sporting with Shridhara;[^7] Devakinandana in the “Vaishnava-vandan
 Kholavecha, with whom the Lord constantly bantered,” and Madhava “generous Shridhara, whose customer was Gauranga at his
 stall of banana pith, bananas and banana flowers.” <!-- F56 F60 -->
 
+## The Mahaprakasha
+When the Lord, having returned from Gaya, began to reveal Himself, Shridhara was among those who sang with Him and His
+associates. The “Chaitanya-bhagavata,” listing those present at the night kirtanas behind closed doors in the house of
+Srivasa, names him too — beside Sadashiva and Vakreshvara (Madhya 8.112–116); and Lochana Dasa, speaking of the Lord’s
+associates, recalls “Shridhara Pandita and other great souls” (CM, Madhya-khanda, pt. 7, v. 46). <!-- F28 F57 Q15 -->
+
+The greatest mercy came to him in the days of the Mahaprakasha. For seven praharas — twenty-one hours, which is why
+this pastime is called “sat-prahariya” — the Lord sat on the throne in the house of Srivasa, revealing Himself in all
+His majesty and showing the forms of all the avataras. With all His heart He bestowed mercy on everyone — and He
+remembered Shridhara:
+
+“He commanded: ‘Now go and bring Shridhara to Me quickly. Let him too see My divine majesty. He feels wretched, always
+thinking of Me and longing for Me. Bring him at once, that he may see My glory. Go to the outskirts and listen. When you
+hear someone chanting My name at the top of his voice, bring him here.’” (CB, Madhya 9.135–137)
+
+He was not hard to find: halfway there the devotees heard his loud voice, followed it, and called to Shridhara: “O
+Mahashaya, come with us. Come and see our Lord” (Madhya 9.151–153). On hearing the mere name of the Lord, Shridhara
+fell unconscious with joy, and the devotees carefully lifted him and carried him to Vishvambhara (Madhya
+9.154–155).[^8] <!-- F29 F30 Q16 -->
+
+“When Mahaprabhu saw Shridhara He was delighted and called to him: ‘Come here, come. You have worshipped Me so long.
+More than one life you have spent striving for love of Me. And in this life too you have served Me much. I always ate
+rice from your banana leaves. I often ate bananas bought from you. Have you forgotten our talks?’” (CB, Madhya
+9.156–159) <!-- F31 -->
+
+It was those squabbles at the stall that the Lord recalled. And then He said: “O Shridhara, look at Me. Today I shall
+endow you with all eight mystic perfections” (Madhya 9.189). Shridhara raised his arms — and saw that Vishvambhara had
+become dark like a tamala tree; in His hands was a flute, Balarama stood at His right, and radiance flooded all around.
+The goddess Lakshmi was offering Him betel, four-headed Brahma and five-headed Shiva were offering Him prayers, the
+serpent Ananta had spread his thousand hoods over Him like an umbrella, Sanaka, Narada and Shukadeva were glorifying
+Him, and on every side stood maidens of indescribable beauty singing His praise with folded palms (Madhya 9.190–194).
+The One whom Shridhara had known as a quarrelsome customer stood before him as Krishna Himself, the Lord of all the
+worlds. Shridhara swayed and fell, and came to himself only at the Lord’s word: “Get up, Shridhara, get up!” (Madhya
+9.195–196). <!-- F32 -->
+
+“Offer Me prayers,” the Lord said. “O Lord, I am the greatest of fools,” Shridhara answered; “I do not know how to
+pray.” — “Your every word is already a prayer” (Madhya 9.197–198). And then by the Lord’s will Sarasvati, the Mother of
+the universe, appeared on his tongue, and the simple tradesman spoke in such a way that all the great Vaishnavas were
+amazed (Madhya 9.199, 9.219). He glorified the Lord of Navadvipa, born from the womb of virtuous Shachi, the One whom
+the Vedas cannot grasp:
+
+“Unrecognized by anyone, You walked all over the town. Who can understand You unless You Yourself reveal Yourself?”
+(CB, Madhya 9.203)
+
+He remembered how the Lord had told him that the waters of the Ganga spring from His feet, while Shridhara’s sinful
+heart had not recognized Him (Madhya 9.208–209). And above all he sang of bhakti, which the Lord had once kept hidden
+and now revealed in Navadvipa:
+
+“Only by the power of bhakti did Bhishma overcome You on the battlefield, and only by the power of bhakti could Yashoda
+bind You.” (CB, Madhya 9.212)
+
+“Before, only a handful of devotees could conquer You, but now everyone will be able to bind You with love” (Madhya
+9.218). The “Bhakti-ratnakara” too remembers how the Lord blessed Kholavecha Shridhara and how he, in great joy,
+offered Him praise (12.2690). <!-- F33 F59 -->
+
+“The Lord said, ‘O Shridhara, ask Me for any blessing. Today I shall bestow on you the eight mystic perfections.’ But
+Shridhara answered, ‘O Lord, do You want to cheat me again? Rest assured, You will not succeed any more.’” (CB, Madhya
+9.220–221) <!-- F34 Q6 -->
+
+The mystic perfections are not a reward for a devotee but a means by which he may be “cheated” and drawn away from
+service; and Shridhara refused them, wishing only to serve the Lord’s feet. But the Lord insisted: a meeting with Him
+cannot pass for nothing — ask (Madhya 9.222). And Shridhara asked:
+
+“‘O Lord, give me this blessing: may that brahmana who used to snatch banana leaves from me be the Lord of my heart
+life after life. May I always serve the lotus feet of that brahmana who quarrelled with me day after day.’” (CB,
+Madhya 9.223–225)
+
+Saying this with great love, he raised his arms and wept, and seeing him all the Vaishnavas wept too (Madhya
+9.226–227). Shridhara asked neither for Vaikuntha nor for majesty — he asked for the same play: that the Lord should
+forever come to him, haggle, snatch his leaves and quarrel. All those “quarrels” were his happiness. <!-- F35 Q7 -->
+
+The Lord, smiling, offered to make him ruler of a vast kingdom. “I want nothing,” Shridhara replied. “O Lord, rather
+let me always be able to chant Your names” (Madhya 9.228–229). And the Lord granted him what he asked:
+
+“‘O Shridhara, you are My servant. That is why you could behold My divine majesty. That is why you never cease to
+think of Me. I bestow on you bhakti, which is a secret even to the Vedas.’” (CB, Madhya 9.230–231) <!-- F36 -->
+
+Vrindavana dasa, having told this, reflects on who can recognize a Vaishnava:
+
+“Shridhara had neither wealth, nor followers, nor learning. Who would have recognized in him a servant of Sri
+Chaitanya?” (CB, Madhya 9.233)
+
+Learning, wealth, beauty, fame and high birth only swell pride (Madhya 9.234), whereas “Brahma himself, even in
+millions of kalpas, will not see what Shridhara saw, just by selling bananas and banana leaves” (Madhya 9.235).[^9] A
+Vaishnava is taken for a failure, though he possesses all perfections — the proof is the story of Shridhara, who
+rejected the eight siddhis for loving devotion alone; and those proud of their learning and wealth do not recognize a
+Vaishnava (Madhya 9.238–241). Srila Bhaktisiddhanta explains: a devotee cannot be discerned by outward analysis;
+neither money, nor the number of followers, nor learning is the measure of a Vaishnava. The servants of Sri Chaitanya
+place service above all these goods, and so the world does not see their greatness. <!-- F38 Q8 I5 I6 -->
+
+“Anyone who hears Shridhara’s prayers and the blessing he received from Mahaprabhu will obtain the treasure of prema,
+pure love for God.” (CB, Madhya 9.243) <!-- F37 I7 -->
+
+Having blessed Shridhara, the Lord turned to Advaita and began to call, “Nara, Nara, Nara!” (CB, Madhya 10.2). And
+Shridhara stood before Him with Murari and wept (Madhya 10.34); he wept also when the Lord showed His mercy to Haridasa
+Thakura — “Haridasa, Murari and Shridhara wept, and Lord Vishvambhara looked at them, smiled tenderly and chewed betel”
+(Madhya 10.112). <!-- F39 -->
+
+He was with the Lord on other days of His Navadvipa pastimes as well. When, after the deliverance of Jagai and Madhai,
+the Lord and His associates sported in the waters of the Ganga, the “Chaitanya-bhagavata” names Shridhara among them
+(Madhya 13.336–339); and the “Karcha” of Govinda Dasa counts him among the intimates who were always with the Lord in
+Navadvipa (1.67). <!-- F58 -->
+
+## Water from the Iron Pot
+When kirtana resounded all over Navadvipa, Kholavecha Shridhara was one day walking along the road, loudly chanting the
+names of the Lord. Hearing the kirtana, he began to dance in bliss, and the townspeople, seeing his joy, gathered round
+and sang with him. And Shridhara, unable to contain the ecstasy of divine love, rolled on the ground (CB, Madhya
+23.93–96). But the materialists laughed:
+
+“One of the sinners said, ‘Brothers, just look at him! Now even this Kholavecha has become a Vaishnava! He hasn’t even
+clothes or rice, yet he keeps mumbling, “I feel bliss.”’” (CB, Madhya 23.97–98)
+
+The scoffer, without meaning to, spoke the truth: Shridhara has neither clothes nor rice — and he is in bliss. Soon
+after this the Kazi, enraged by the kirtanas, began to forbid them, and the Lord led a great procession of sankirtana
+through Navadvipa. Among the experts in kirtana who walked with Him that night the “Chaitanya-bhagavata” names
+Shridhara too (Madhya 23.150–152). <!-- F40 F41 -->
+
+Having subdued the Kazi, the Lord on His way back passed, dancing, through the quarter of the conch-shell merchants and
+then through the weavers’ quarter. Everyone around was singing the names of Hari, and the Lord, hearing them from every
+mouth, smiled — and turned towards Shridhara’s house (CB, Madhya 23.428–436). According to the “Bhakti-ratnakara,” He
+saw Shridhara’s tumbledown hut from afar and laughed softly with inner joy (12.3136).[^10] <!-- F42 Q9 -->
+
+“The Lord entered Shridhara’s dwelling, which consisted of a single broken-down room. At the entrance of his house stood
+an iron water pot, patched many times over. Even a thief would not have wanted to steal it.” (CB, Madhya 23.437–438)
+
+The pot leaked, little water was left in it, and it was kept not for drinking but for outer uses (“Bhakti-ratnakara”
+12.3137–3138; CB, Madhya 23.457). But, dancing in the courtyard, the Lord saw it — and: <!-- F43 -->
+
+“To show His love for His devotees, Sri Shachinandana suddenly lifted the water pot. Then, in ecstatic bliss,
+Mahaprabhu drank the water from that pot. Who could have stopped Him? Shridhara cried out, ‘I am ruined! I am ruined!
+You have come to my house to destroy me.’” (CB, Madhya 23.440–442)
+
+Shridhara reproached himself for his poverty: “I could not receive Sri Gaurasundara worthily — and so He drank by force
+the water from a leaking pot; He is killing me, wounding my heart.” So Srila Bhaktisiddhanta explains his cry. It is the
+humility of a devotee who feels he has nothing for the Lord — and the love of the Lord, who takes unasked what the
+devotee would never dare to offer Him. To the worldly eye an old pot for washing seems impure, but in a Vaishnava
+nothing is impure. <!-- F44 -->
+
+“Having said these words, pious Shridhara lost consciousness. Then the Lord said, ‘Today My body has been purified.
+Today, by drinking Shridhara’s water, I have obtained devotion to the lotus feet of Krishna. Now I have obtained loving
+devotion to Vishnu.’ Tears streamed from the Lord’s eyes as He spoke these words.” (CB, Madhya 23.443–445)[^11]
+
+In the role of a devotee the Lord was teaching: one drinks the water of a Vaishnava in order to obtain bhakti.
+
+“Merciful Gauranga showed everyone that by drinking the water of a Vaishnava one attains devotional service to Vishnu.”
+(CB, Madhya 23.446)
+
+The Lord is Janardana, bhava-grahi: He values the feeling, and it is not worldly riches that are dear to Him but the
+service of a sincere heart. Water from a devotee’s old vessel is nectar to Him, while at the water of a proud man,
+offered in a jewelled cup, He will not even look, though He be thirsty (CB, Madhya 23.458, 23.460). Vrindavana dasa
+says: <!-- F45 I4 -->
+
+“The Lord drank the water from that pot to show the glory of devotional service and that, from the spiritual point of
+view, all the belongings of a Vaishnava are perfectly pure.” (CB, Madhya 23.459)
+
+Seeing how much love the Lord had shown His devotee, all His associates wept for joy: Nityananda, Gadadhara, Advaita and
+Srivasa fell to the ground; Haridasa, Gangadasa, Vakreshvara, Murari, Mukunda and Chandrashekhara wept, and Govinda,
+Govindananda, Srigarbha, Shriman, Kashishvara, Jagadananda and Rama, Jagadisha, Gopinatha, Nandana Acharya,
+Shuklambara, Garuda and many others; and millions of people cried out, “O Krishna! O Lord of the helpless!” (CB,
+Madhya 23.448–453). The “Bhakti-ratnakara” adds that the Lord Himself, who loves His devotees, wept in streams like the
+Ganga, and in Shridhara’s courtyard a wondrous kirtana began, led by Nityananda and Advaita (12.3139–3141).
+<!-- F46 Q15 -->
+
+And Shridhara, holding a blade of grass between his teeth, sobbed and sang the names of Hari, danced and lamented:
+“Alas, alas! What water has the Lord of the thirty gods drunk!” (CB, Madhya 23.488–489). The Lord, having drunk His
+devotee’s water, danced before his house, while His associates sang around Him (Madhya 23.490–491). <!-- F47 Q11 -->
+
+“Just behold the boundless glory of the Lord’s servant Shridhara, the seller of bananas. Even Brahma and Shiva, seeing
+his glory, cannot hold back their tears.” (CB, Madhya 23.492) <!-- F47 -->
+
+All who wrote of the Lord remember this day. Vrindavana dasa, listing the pastimes of the Madhya-khanda, says:
+“Magnanimous Lord Chaitanya drinks water in the house of Shridhara” (CB, Adi 1.141); Jayananda, that the Lord “drank
+water from Shridhara’s broken iron pot”; and Krishnadasa Kaviraja:
+
+“He drank water from Shridhara’s iron pot, and to all the devotees He granted the boons they desired.” (CC, Adi 17.70)
+<!-- F48 Q10 F55 -->
+
+## On the Eve of Sannyasa and After
+On the Lord’s last day in Navadvipa, already in the evening, Shridhara came to Him with a lau gourd:[^12]
+
+“At that time pious Shridhara came, carrying a gourd in his hand. Seeing the gourd, Sri Gaurasundara asked him, ‘Where
+did you get it?’ The Lord thought, ‘Tomorrow I shall leave, so I cannot eat it.’” (CB, Madhya 28.33–35)
+
+But nothing that Shridhara brought could be allowed to go to waste, and, full of love for His devotees, the Lord asked
+His mother to cook the gourd that same day. Another fortunate devotee had just brought a pot of milk, and the Lord,
+smiling, said: “Very good. Please cook them together” (Madhya 28.36–39). Gourd cooked with milk is one of the Lord’s
+favourite dishes; He partook of it and at night withdrew to His room. The “Bhakti-ratnakara” tells the same
+(12.3538–3539). <!-- F49 Q12 -->
+
+In the morning the Vaishnavas learned that the Lord had left home. Mukunda, Murari, Shridhara, Gadadhara, Gangadasa,
+Srivasa with his family, Chandrashekhara and Haridasa fell to the ground in the Lord’s courtyard and wept without cease
+(CB, Madhya 28.85); Shridhara rolled in the dust of that courtyard. <!-- F50 -->
+
+After taking sannyasa the Lord wandered for three days in Radha, until Nityananda brought Him to Shantipura, to the
+house of Advaita. There the devotees of Navadvipa came with Shachi; the “Charitamrita,” listing them, names Shridhara
+too:
+
+“Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda and Sanjaya.” (CC, Madhya 3.154)
+
+The poem “Gaura-krishnodaya” also names him among those who came to Shantipura (6.59). <!-- F51 -->
+
+When the news reached Bengal that the Lord had returned to Puri from His journey through the south, Shridhara was among
+the devotees who rejoiced beyond words (CC, Madhya 10.81–84). From then on he went every year to Nilachala for the
+Ratha-yatra with the countless devotees of Gauda led by Advaita, and had darshana of Mahaprabhu. Murari Gupta names
+“the blissful devotee Shridhara, called Kholavecha,” among those going to Purushottama (4.17.8), and Vrindavana dasa,
+listing those who set out for Nilachala, says:
+
+“Shridhara, the penniless servant of Krishna, also came. Lord Vishvambhara had drunk his water.” (CB, Antya 8.24)
+
+“Penniless” here is akinchana: one who has nothing but Krishna. <!-- F52 -->
+
+King Prataparudra, watching from the palace roof as the Bengal Vaishnavas approached, asked who they were, and
+Gopinatha Acharya named them one by one:
+
+“Look, this is Shuklambara. And this is Shridhara, and Vijaya. And here are Vallabha Sena, Purushottama and Sanjaya.”
+(CC, Madhya 11.90)[^13] <!-- F53 Q15 -->
+
+Later books too remember Shridhara among the Lord’s associates. The “Narottama-vilasa” calls out: “O Sri Jagadananda,
+Sanjaya, Shridhara!” (11.282; cf. 4.130), and the “Bhakti-ratnakara” relates that at the great festival in Kheturi
+Mahaprabhu appeared in the kirtana with His associates, Shridhara among them (10.572). Whether it is the same Shridhara
+these lists do not say, but it seems to be he; the “Bhakti-ratnakara” names Shridhara in other lists of associates too
+(1.34; 12.2025). <!-- F62 Q15 F59 -->
+
+## Departure and Shridhar-angana
+The biographies name neither the year, nor the day, nor the place of Shridhara’s appearance and departure. According
+to our calendar, the disappearance day of Srila Shridhara Pandita is observed on the purnima of the month of
+Trivikrama (Jyeshtha), the day of Lord Jagannatha’s Snana-yatra, together with the disappearance day of Mukunda Datta
+(in 2026, on 29 June). His appearance day is not in the calendar. <!-- F54 -->
+
+The site of his house is now called Shridhar-angana, “Shridhara’s courtyard.” According to Srila Bhaktisiddhanta, it
+lies on raised ground, at the end of Mayapura near the village of Saradanga, a mile from the samadhi of Chand Kazi, and
+beside it there is a small pond.[^14] Navadvipa consists of nine islands, and Mayapura stands on the central one,
+Antardvipa. <!-- F11 -->
+
+Srila Bhaktisiddhanta Sarasvati, the founder of the Sri Chaitanya Math and the Gaudiya Maths, revealed this place of
+Mahaprabhu’s pastimes to the world and established the worship of the Deity here. The service continued after his
+departure, but because of difficulties with the local people the beauty of the place is hidden once more. Still,
+pilgrims on the Navadvipa-parikrama bow here even now to the memory of Shridhara Pandita: in our calendar
+“Shridhar Angana” is listed on the first day of the parikrama. <!-- F12 -->
+
+The “Navadvipa-dhama-mahatmya” of Srila Bhaktivinoda Thakura describes the place thus: Shridhara’s house stands beyond
+the weavers’ quarter; here Mahaprabhu would often pause the kirtana to let the devotees rest, and so it is the
+“vishrama-sthana,” the Lord’s resting place. Nityananda, leading Jiva through Navadvipa, tells him, “Let us too rest at
+the house of Shridhara Pandita.” In those days there was a large pond by Shridhara’s banana grove, no longer to be seen.
+<!-- F13 Q13 -->
+
+## Kusumasava
+In the pastimes of Krishna, Shridhara is a cowherd jester. The “Gaura-ganoddesha-dipika” says:
+
+“Pandita Shridhara, a brahmana renowned as Kholavecha, was in Vraja the jester named Kusumasava.” (“Gaura-ganoddesha-
+dipika” 133)[^15] <!-- F3 Q1 F63 -->
+
+Kavi Karnapura names him the last of the twelve cowherd friends — from Abhirama to Shridhara (GGD 126–133) — and
+tradition counts him among the twelve gopalas, the associates of Nityananda, of whom the “Charitamrita” says:
+
+“All of Nityananda’s associates are cowherd friends from Vraja. Each carries a horn and a staff and wears the dress of
+a cowherd, with a peacock feather on his head.” (CC, Adi 11.21)
+
+Krishnadasa Kaviraja himself, however, counts Shridhara a branch of the tree of Sri Chaitanya.[^16] <!-- F4 Q15 -->
+
+He is honoured in the vandanas too. Jiva in the “Vaishnava-vandana” glorifies “generous Shridhara, the renowned” and
+again remembers “Shridhara Pandita”; other authors of vandanas name him as well, and the “First Vandana” repeats the
+words of the “Bhagavata” about the penniless servant of Krishna whose water Vishvambhara drank. In the songs of the
+poets Shridhara is among the associates whom the Lord addresses in a dream (a pada ascribed to Chakravarti), and in
+Narahari’s song of the arati of Gaura. <!-- F60 F61 -->
+
+## Significance
+Shridhara Kholavecha is living proof that the Lord looks neither at wealth, nor at learning, nor at high birth.
+Worldly prosperity is no sign of His mercy: truly rich is he who is rich in love for Krishna. The Lord “quarrels” with
+Shridhara, “snatches” his bananas and leaves, eats from his plates and drinks from his old pot — and all this to show
+that He accepts the gifts of a devotee and does not look at the offerings of one who does not love Him. <!-- I1 I2 -->
+
+The Lord does not ask Shridhara for his spiritual treasure — He wants a share of his modest outer possessions, so that
+he may serve Him as befits a sadhaka. Janardana values the feeling: water from a Vaishnava’s old vessel is nectar to
+Him, and whoever drinks the water of a Vaishnava himself obtains bhakti. <!-- I3 I4 -->
+
+A Vaishnava cannot be discerned by outward analysis: neither money, nor disciples, nor learning is his measure.
+Seemingly poor and unhappy, he tastes the bliss of service, while those proud of learning and wealth do not recognize
+him. Shridhara rejected the eight siddhis and a kingdom and asked for one thing only — that “that brahmana” who
+snatched his khola should forever be his Lord. And Vrindavana dasa promises: whoever hears of Shridhara’s prayers and of
+the blessing he received from the Lord will obtain the treasure of prema. <!-- I5 I6 I7 -->
+
 [^1]: In Jayananda it is jute (patua), not khola; and that the Shridhara in his list of childhood companions is our
     Shridhara is only probable.
 [^2]: One of the biographies names “bloodthirsty Kali” instead of Chandi and Vishahari; another speaks of “ten or twelve
@@ -216,3 +498,28 @@ stall of banana pith, bananas and banana flowers.” <!-- F56 F60 -->
 [^7]: According to Murari Gupta (4.14.11), this sport came after the Lord’s arrival at Kuliya, that is, after His
     sannyasa; according to the “Chaitanya-bhagavata,” the jokes and haggling with Shridhara took place in Navadvipa,
     before the sannyasa.
+[^8]: According to one of the biographies, Shridhara came to Srivasa-angana by himself and fell unconscious on seeing
+    the majestic form of the Lord, and revived at His voice. According to the “Chaitanya-bhagavata,” he lost
+    consciousness while still at home, at the mere name of the Lord (Madhya 9.154), and fell a second time during the
+    vision (9.195–196).
+[^9]: One of the biographies renders this verse as if it spoke of a “millionaire”; in the “Chaitanya-bhagavata” it is
+    Brahma himself.
+[^10]: Our translation, from the Bengali text (1960 ed.); we do not yet have a translation of the “Bhakti-ratnakara.”
+[^11]: One of the biographies refers these words to Shridhara: as if it were in him that, when the Lord drank his
+    water, the inclination to serve Krishna awoke still more strongly, forgetfulness of Krishna vanished and the body
+    was purified. According to the “Chaitanya-bhagavata” and Srila Bhaktisiddhanta’s “Gaudiya-bhashya,” it is the Lord
+    Himself who says this of Himself, in the role of a devotee.
+[^12]: One of the biographies says that Shridhara came “on the night before the sannyasa”; according to the
+    “Chaitanya-bhagavata” (Madhya 28.33), he came in the evening of the last day, after the Lord had distributed
+    garlands to the devotees.
+[^13]: One of the biographies gives the reference as “Madhya 11.92”; the verse about Shridhara is 11.90.
+[^14]: So in the “Gaudiya-bhashya” on CB, Adi 12.178. The biographies give the direction differently: according to
+    one, the house stood a mile to the east of Chand Kazi’s samadhi; according to another, on the northern edge of
+    Mayapura, to the south-east of the samadhi. The pond, according to the first, is small and is there to this day;
+    according to the second, which follows the “Navadvipa-dhama-mahatmya,” it was large and is no longer to be seen.
+[^15]: Our translation. In the table “name — incarnation” that the publishers of Govinda Dasa’s “Karcha” (1926)
+    compiled “after the ‘Gaura-ganoddesha’ and similar texts,” Shridhara is called Sudama; whether he is meant there is
+    unclear. The “Gaura-ganoddesha-dipika” calls him Kusumasava.
+[^16]: There is no contradiction here: the “Gaura-ganoddesha-dipika” names twelve cowherd friends without dividing the
+    associates into branches, while Krishnadasa Kaviraja places Shridhara among the branches of Sri Chaitanya (Adi
+    10.67). The biographies name the twelve gopalas as associates of Nityananda, citing the “Charitamrita” (Adi 11.21).
