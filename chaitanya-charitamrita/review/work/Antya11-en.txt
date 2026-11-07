@@ -296,11 +296,13 @@ tr: Again and again he said, “Śrī Kṛṣṇa Caitanya Prabhu!” He drank i
 w: Śrī  Kṛṣṇa-Caitanya  the word  while doing  utterance
 w: the name  together with  his life  he made  go out
 tr: While uttering the words “Śrī Kṛṣṇa Caitanya,” he sent his life-air out of the body together with the name.
+fn: *Amṛta-pravāha-bhāṣya*: *utkrāmaṇa* — going out, departure. Heading in the edition: seeing the Lord before him and chanting His name, the Ṭhākura departs — *niryāṇa*, or *utkrānti*.
 
 ## 57
 w: a great master of yoga  like  at his own will  departure
 w: Bhīṣma’s  departure  for everyone  there was  the remembrance
 tr: Like a great master of yoga, he departed at his own will, and everyone remembered the departure of Bhīṣma.
+fn: *Anubhāṣya*: on Bhīṣma’s departure see Śrīmad-Bhāgavatam, 1.9.29–43. Heading in the edition: all remember how in the Dvāpara age Bhīṣma departed by his own will.
 
 ## 58
 w: ‘Hari’  with the sounds ‘Kṛṣṇa’  all  make  a tumult
@@ -311,6 +313,7 @@ tr: Everyone raised a tumult with the sounds “Hari!” and “Kṛṣṇa!”,
 w: Haridāsa’s  body  the Lord  onto His lap  lifting
 w: in the courtyard  dances  the Lord  absorbed in love  being
 tr: Lifting Haridāsa’s body onto His lap, the Lord danced in the courtyard, absorbed in love.
+fn: Heading in the edition: the Lord dances holding Haridāsa’s body, which is not of this world.
 
 ## 60
 w: by the Lord’s  ecstasy  helpless  all the devotees
@@ -340,12 +343,13 @@ tr: He bathed Haridāsa in the water of the sea and said, “This sea has now be
 ## 65
 w: Haridāsa’s  the water from his feet  drink  the devotees
 w: on Haridāsa’s  body  they put  prasāda sandal paste
-tr: The devotees drank the water that had washed Haridāsa’s feet, and they anointed his body with sandal paste that was prasāda.
+tr: The devotees drank the water that had washed Haridāsa’s feet and anointed his body with prasāda sandal paste.
 
 ## 66
 w: silk cords  sandal paste  prasāda  cloth  on his body  they put
 w: in the sand  a pit  making  in it  they laid (him)
 tr: They placed on his body *ḍora* (silk cords), *kaḍāra* (sandal paste), prasāda and cloth; then, making a pit in the sand, they laid him in it.
+fn: *Anubhāṣya*: *ḍora* — silk cords (*paṭṭa-ḍorī*), the prasāda of Śrī Jagannātha; *kaḍāra* — sandal paste, prasāda.
 
 ## 67
 w: on all sides  the devotees  do  kīrtana
@@ -381,6 +385,7 @@ tr: After circumambulating Haridāsa, He came to the Lion Gate, and the tumult o
 w: at the Lion Gate  arriving  the Lord  of the shopkeepers  at the place
 w: the end of His cloth  spreading out  prasāda  He begged  right there
 tr: Coming to the Lion Gate, the Lord spread out the end of His cloth before the shopkeepers and begged them for prasāda:
+fn: Heading in the edition: for the festival of separation from Haridāsa (*viraha-mahotsava*) the Lord Himself begs prasāda from the shopkeepers at the Lion Gate.
 
 ## 74
 w: Haridāsa Ṭhākura’s  of the festival  for the sake
@@ -401,6 +406,7 @@ tr: Svarūpa Gosāñi stopped them, and the shopkeepers sat down again in their 
 w: Svarūpa Gosāñi  the Lord  home  sent
 w: four  Vaiṣṇavas  four  porters  with him  kept
 tr: Svarūpa Gosāñi sent the Lord home and kept with him four Vaiṣṇavas and four porters (*pichāḍā*).
+fn: *Amṛta-pravāha-bhāṣya*: *pichāḍā* — people who walk behind; according to others, a basket or load (cf. verse 79).
 
 ## 78
 w: Svarūpa Gosāñi  said  to all  the shopkeepers
@@ -420,7 +426,7 @@ tr: Vāṇīnātha Paṭṭanāyaka brought prasāda, and Kāśī Miśra sent a 
 ## 81
 w: all  the Vaiṣṇavas  the Lord  seated  in rows  in rows
 w: Himself  serves  the Lord  taking  four people
-tr: The Lord seated all the Vaiṣṇavas in rows and, with four helpers, began to serve them Himself.
+tr: The Lord seated all the Vaiṣṇavas in rows and began to serve them Himself, with four helpers.
 
 ## 82
 w: Mahāprabhu’s  into the holy hand  a little  not  comes
@@ -465,7 +471,7 @@ tr: When everyone had eaten and performed *ācamana*, the Lord adorned them all 
 ## 90
 w: absorbed in love  being  the Lord  gives  a boon
 w: hearing  the devotees’  is satisfied  the heart’s desire
-tr: Absorbed in love, the Lord bestowed a boon, and hearing it, the devotees’ hearts were fulfilled.
+tr: Absorbed in love, the Lord bestowed a boon, and the devotees, hearing it, found their hearts’ desire fulfilled.
 
 ## 91–93
 w: Haridāsa’s  festival of departure  whoever  did  see
@@ -474,12 +480,13 @@ w: whoever  on him  sand  to put  did  go
 w: among them  at the festival  whoever  did  eat
 w: soon  they  all  will have  the attainment of Kṛṣṇa
 w: in seeing Haridāsa  there is  such  power
+fn: *Anubhāṣya*: *vijayotsava* — the festival of separation (*viraha-mahotsava*).
 tr: “Whoever saw the festival of Haridāsa’s departure, whoever danced here or sang kīrtana, whoever went to put sand on him, and whoever among them ate at the festival — all of them will soon attain Kṛṣṇa. Such is the power of seeing Haridāsa.
 
 ## 94
 w: mercy  showing  Kṛṣṇa  to Me  had given  company
 w: independent  Kṛṣṇa’s  will  He made  the company broken
-tr: Out of mercy Kṛṣṇa gave Me his company. Kṛṣṇa’s will is independent: now He has broken that company.
+tr: Out of mercy Kṛṣṇa gave Me Haridāsa’s company. Kṛṣṇa’s will is independent: now He has broken that company.
 
 ## 95
 w: Haridāsa’s  wish  when  arose  to go
@@ -494,7 +501,7 @@ tr: By his mere wish he sent his life out of his body, just as we have heard of 
 ## 97
 w: Haridāsa  was  of the earth  the crest jewel
 w: him  without  bereft of its jewel  has become  the earth
-tr: Haridāsa was the crest jewel of the earth; without him the earth has been robbed of its jewel.
+tr: Haridāsa was the crest jewel of the earth; without him the earth has been robbed of its jewel.”
 
 ## 98
 w: glory  glory  Haridāsa  saying  make  the sound of Hari
@@ -510,11 +517,13 @@ tr: Everyone sang, “Glory, glory, glory to Haridāsa, who revealed the glory o
 w: then  Mahāprabhu  all  the devotees  leave  gave
 w: in joy  in sorrow  the Lord  rest  took
 tr: Then Mahāprabhu bade farewell to all the devotees and rested, in both joy and sorrow.
+fn: Heading in the edition: He had seen both the separation from His devotee and the glory of his departure (*vijaya*).
 
 ## 101
 w: thus  indeed  I have told  of Haridāsa’s  departure (vijaya)
 w: of which  by the hearing  for Kṛṣṇa  firm devotion  arises
 tr: Thus I have told of Haridāsa’s departure (*vijaya*); by hearing of it one gains firm devotion to Kṛṣṇa.
+fn: *Amṛta-pravāha-bhāṣya*: Haridāsa Ṭhākura’s *samādhi* still stands by the sea, on the way from Ṭoṭā-Gopīnātha to the shore; his departure is celebrated every year on Ananta-caturdaśī.
 
 ## 102
 w: Caitanya’s  affection for His devotees  from this very  we know
@@ -534,12 +543,14 @@ tr: In His mercy He Himself put sand on him with His holy hands, and He Himself 
 ## 105
 w: a mahā-bhāgavata  Haridāsa  supremely learned
 w: this  good fortune  for the sake of  first  he made  his departure
-tr: Haridāsa was a *mahā-bhāgavata* and supremely learned (*parama-vidvān*); for the sake of this good fortune he departed first.
+tr: Haridāsa was a *mahā-bhāgavata* and supremely learned (*parama-vidvān*); for the sake of this good fortune he departed before the Lord.
+fn: Cf. verse 32. *Anubhāṣya*: *parama-vidvān* — one perfect in the highest knowledge, the knowledge of Kṛṣṇa; by Śrīmad-Bhāgavatam 7.5.24, truly learned is he who performs kīrtana, the best of the nine limbs of bhakti.
 
 ## 106
 w: Caitanya’s  deeds  these  of nectar  an ocean
 w: ears and mind  satisfied  makes  of which  one  drop
 tr: These deeds of Caitanya are an ocean of nectar; a single drop of it satisfies the ears and the mind.
+fn: The first line is the same as Madhya 18.228.
 
 ## 107
 w: the ocean of worldly existence  to cross  there is  whose  mind
