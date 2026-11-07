@@ -34,8 +34,8 @@ Gosvami, and Prabodhananda was thus his paternal uncle. “Sri Gopala, the nephe
 
 The brothers had moved to Shrirangam — Ranga-kshetra — from the region of Mysore, but they were apparently not Tamils
 by birth: Srila Bhaktisiddhanta in his preface to the “Chaitanya-chandramrita” calls them natives of Andhra, or of the
-Northern Region[^4]. In his commentary on the “Charitamrita” (Madhya 9.82) he remarks that the names Venkata and Tirumalai are not in
-use in Tamil Nadu, so the family had probably settled in Shrirangam shortly before the Lord's coming; and in the
+Northern Region[^4]. In his commentary on the “Charitamrita” (Madhya 9.82) he remarks that such names as Venkata and Tirumalai are
+not current in Tamil Nadu, so the family had probably settled in Shrirangam shortly before the Lord's coming; and in the
 “Anubhashya” on Madhya 1.109 he explains that Tirumalaya and Venkata were Vadagalais — “Vaishnavas of the northern regions, from
 Andhra” — whereas the native people of Shrirangam are Tengalais. The “Prema-vilasa” says that the three brothers, great
 panditas, lived in Tailanga, the land of the Telugus (20.5), and the “Anuraga-valli” names their homeland Telingana
@@ -43,8 +43,8 @@ panditas, lived in Tailanga, the land of the Telugus (20.5), and the “Anuraga-
 
 All of them were Shri Vaishnavas, followers of Ramanuja, and worshipped Lakshmi-Narayana. Srila Bhaktivinoda Thakura, in
 his commentary on the “Charitamrita” (Madhya 9.82), writes that Venkata, Trimalla and Prabodhananda had formerly been
-acharyas of the Shri Sampradaya, and Srila Bhaktisiddhanta specifies that Venkata's brother was the tridandi sannyasi
-Prabodhananda, an acharya of that school, of the Vadagalai branch. In the “Anubhashya” (Adi 7.149) he calls him “a
+acharyas of the Shri Sampradaya, and Srila Bhaktisiddhanta specifies that Venkata's brother Prabodhananda was a
+tridandi sannyasi and an acharya of that school, of the Vadagalai branch. In the “Anubhashya” (Adi 7.149) he calls him “a
 tridandi of Ramanuja's line, a jiyar svami, who had come from the land of Mysore and lived in Ranga-kshetra.” When Shri
 Vaishnavas leave home, they accept not the single staff (eka-danda) of the sannyasis of Shankara's school but the
 triple staff — the tridanda — and the title “Ramanujarya-svami.” Thus Prabodhananda was by birth and by firm faith a
@@ -52,7 +52,7 @@ Shri Vaishnava and a tridandi sannyasi of the Shri Sampradaya. <!-- F6 F7 Q7 -->
 
 ## The Lord in Shrirangam
 When Mahaprabhu, travelling through South India and giving out the name of Krishna, came to Shrirangam, where Sri
-Ranganatha resides, He spent the four months of the rains — the chaturmasya — in the brothers' house[^5]. This was in
+Ranganatha resides, He stayed through the four months of the rains — the chaturmasya — in the brothers' house[^5]. This was in
 Shaka 1433 (about 1511), in the month of Ashadha[^6]. The “Chaitanya-charitamrita” names the master of the house:
 
 “A Shri Vaishnava named Venkata Bhatta invited Sri Chaitanya to his home with the deepest reverence.” (CC, Madhya 9.82)
@@ -102,7 +102,7 @@ The “Bhakti-ratnakara” records what people said, marvelling at his learning:
 all the shastras; there is no one here as learned as Gopala.’” (“Bhakti-ratnakara,” 1.147–148)
 
 His uncle instructed him in detail in the bhakti-shastras, and, in Srila Bhaktisiddhanta's words, it was Prabodhananda's
-pure teaching that made the son of Venkata a great acharya of the Gaudiya school. <!-- F13 -->
+pure teaching that made the son of Venkata a great acharya of the Gaudiya line. <!-- F13 -->
 
 Prabodhananda was also his guru. Gopala Bhatta himself, in the second verse of the “Hari-bhakti-vilasa,” calls himself
 his disciple, and Narahari Chakravarti quotes the verse:
@@ -254,7 +254,7 @@ The error, however, dies hard. The Bengali “Bhakta-mala” of Lal Dasa (Lalada
 Prakashananda Sarasvati; the Lord gave him the name Prabodhananda”; the late “Advaita-prakasha” (ch. 17) holds the same
 view[^15]. Following them, and relying on a coincidence of incidental circumstances, some modern authors repeat this
 opinion[^16]. The compiler of a Bengali dictionary, Ashutosh Deb, writes that Prabodhananda's “real name” was
-Prakashananda and that Chaitanya-deva gave him the new name, while Haridasa Dasa's “Gaudiya-vaishnava-abhidhana” cites
+Prakashananda and that the new name came from Chaitanya-deva, while Haridasa Dasa's “Gaudiya-vaishnava-abhidhana” cites
 the opinion that “Prabodhananda” is Prakashananda's Vaishnava name and looks for confirmation of it in the last verse of
 the “Radha-rasa-sudhanidhi.” It is also said that some of his books are so perfect that only a man of Prakashananda's
 stature could have written them; and the most learned of those who hold this view search his books for a few words from the
@@ -277,8 +277,8 @@ understood nothing. In My body countless universes are manifest” (CB, Madhya 2
 Lord, revealing Himself in the mood of Ishvara, against blasphemy of His eternal form — and these words are spoken of
 Prakashananda of Kashi. <!-- Q8 Q9 -->
 
-On these verses Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya”: Prakashananda was a teacher of mayavada and a
-sannyasi who in his interpretations of the Vedas “dissected” the transcendental body of the Lord; simple people take him
+On these verses Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya”: Prakashananda, a sannyasi, taught mayavada and
+in his interpretations of the Vedas “dissected” the transcendental body of the Lord; simple people take him
 to be the same person as Prabodhananda, the younger brother of Venkata Bhatta from the banks of the Kaveri, and this
 delusion entered the sahajiya “Bhakta-mala,” and from there, to a greater or lesser degree, the works of many modern
 scholars. One of the biographies, repeating these words, adds: there is no evidence whatever that Prakashananda, having
@@ -305,7 +305,7 @@ is, in his words, to entangle oneself in difficulties. <!-- F42 F21 F32 I4 -->
 
 The argument from the “Radha-rasa-sudhanidhi” is answered as well. In its last verse, as the “Abhidhana” cites it, the poet speaks of
 those “scorched by the burning sun of mayavada” (mayavadarka-tapa-santapta); but this is no confession of his own past: all the
-followers of Mahaprabhu denounced mayavada, and Prabodhananda simply glorifies the Lord as the deliverer of the fallen —
+followers of Mahaprabhu denounced mayavada, and Prabodhananda simply praises the Lord who delivers the fallen —
 for the conversion of Sarvabhauma and Prakashananda is an even greater miracle of mercy than the deliverance of Jagai and
 Madhai. The stern words about mayavada in his books are praise of the Lord's boundless mercy. And the learned words from
 the “Vedanta-sutra” found in his verses cannot stand against plain historical events. One of the biographies
