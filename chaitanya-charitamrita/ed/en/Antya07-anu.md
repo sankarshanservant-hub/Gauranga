@@ -170,7 +170,7 @@ At this point some manuscripts read: *anargala rasa-vettā prema-sukhānanda* (�
 
 ## 38
 
-> Subheading: (5) The qualities of Dāmodara Svarūpa: he is the embodiment of the *rasa* of *prema* and the knower of the truth and glory of the gopīs, that is, the ācārya of the truth of the *rasa* of Vraja's sweetness —
+> Subheading: (5) The qualities of Svarūpa Dāmodara: he is the embodiment of the *rasa* of *prema* and the knower of the truth and glory of the gopīs, that is, the ācārya of the truth of the *rasa* of Vraja's sweetness —
 
 ## 39
 
@@ -424,7 +424,7 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 
 > Subheading: Vallabha Bhaṭṭa engages the Ācārya and others in empty argument (*kutarka*) —
 
-**Udgrāhādi-prāya** — like an assault, that is, he stubbornly held his ground in argument, as in a scholarly debate. **Ācāryādi** — with Advaita Ācārya, or with Ācārya Dāmodara Svarūpa, and others.
+**Udgrāhādi-prāya** — like an assault, that is, he stubbornly held his ground in argument, as in a scholarly debate. **Ācāryādi** — with Advaita Ācārya, or with Ācārya Svarūpa Dāmodara, and others.
 
 ## 97
 
