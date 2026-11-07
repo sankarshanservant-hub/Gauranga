@@ -408,7 +408,7 @@ Paṇḍita Gosvāmī did not openly express any wish to hear Vallabha's composi
 
 > Subheading: Gadādhara, who honors others and does not wish to trouble anyone, is caught between two fires and begs Kṛṣṇa for mercy —
 
-**Ābhijātye** — (1) out of embarrassment; (2) because Vallabha's learning was not utterly hostile to *bhakti*; (3) for the sake of the respect society expects.
+**Ābhijātye**[^93-1] — (1) out of embarrassment; (2) because Vallabha's learning was not utterly hostile to *bhakti*; (3) for the sake of the respect society expects.
 
 ## 94
 
@@ -713,6 +713,8 @@ Wishing Vallabha Bhaṭṭa well, the supremely merciful Lord, the purifier of t
 [^32-1]: The edition gives “Canto 10, Chapter 12, verse 21” (checked against the scan); in the standard numbering it is 10.12.11.
 
 [^91-1]: The edition has *tāṅhāra mane kleśa haibe* (“it will grieve him”); from the sense of the dilemma, Mahāprabhu is probably meant.
+
+[^93-1]: In the verse translation, otherwise: “because Vallabha Bhaṭṭa was a learned brāhmaṇa of a noble family.”
 
 [^138-1]: In the edition this section is numbered “135” (checked against the scan): a misprint; the section stands between sections 122 and 140–141, and by its content (Satyabhāmā) it belongs to verse 138.
 
