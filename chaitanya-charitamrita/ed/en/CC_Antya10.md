@@ -187,7 +187,7 @@ human  regard  Damayantī  holds  the Lord’s  toward the feet
 guru-bhojane udare kabhu ‘āma’ hañā yāya  
 from heavy eating  in the stomach  sometimes  āma  becoming  goes
 
-(19) Damayantī regarded the Lord as a human being (*manuṣya-buddhi*): “From heavy food, *āma* (indigestion) may sometimes form in His stomach.
+(19) Damayantī, in her affection, regarded the Lord as a human being (*manuṣya-buddhi*): “From heavy food, *āma* (indigestion) may sometimes form in His stomach.
 
 শুক্তা খাইলে সেই আম হইবেক নাশ ৷  
 সেই স্নেহ মনে ভাবি’ প্রভুর উল্লাস ॥ ২০ ॥
