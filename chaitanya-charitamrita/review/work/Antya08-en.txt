@@ -317,7 +317,7 @@ tr: That day a brāhmaṇa invited the Lord. Govinda accepted only a quarter-pot
 ## 57
 w: that  rice  vegetables  the Lord  half  ate
 w: whatever  remained  that  Govinda  received
-tr: The Lord ate half of that rice and vegetables, and whatever remained Govinda received.
+tr: The Lord ate half of the rice and vegetables, and whatever remained Govinda received.
 
 ## 58
 w: half a meal  takes  the Lord  Govinda  half a meal
@@ -355,7 +355,7 @@ tr: I see that You have grown thin, and I hear You eat only half Your meals. Thi
 ## 64
 w: as is fitting  the belly  fills  not  makes  ‘sense objects’  enjoyment
 w: of a sannyāsī  then  perfected  becomes  of knowledge  yoga
-tr: He fills his stomach as much as is fitting and does not enjoy sense objects. Then the sannyāsī’s *jñāna-yoga* is perfected.
+tr: When he fills his stomach as is fitting and does not enjoy sense objects, then a sannyāsī’s *jñāna-yoga* is perfected.
 
 ## 65
 w: not  of one who eats too much  even  yoga  is
@@ -396,7 +396,7 @@ fn: Heading in the edition (to 69): the devotees headed by Paramānanda Purī as
 ## 71
 w: of the Purī  the nature  as much as one likes  food  having made eat
 w: who  not  eats  him  he feeds  effort  making
-tr: It is the Purī’s nature to make people eat as much as they like; whoever does not eat, he feeds with great effort.
+tr: It is the Purī’s nature to make people eat as much as they like; and if someone will not eat, he takes great pains to feed him.
 
 ## 72
 w: having fed  then  him  makes  fault-finding

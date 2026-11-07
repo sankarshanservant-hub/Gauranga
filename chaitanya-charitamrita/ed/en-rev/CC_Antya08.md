@@ -585,7 +585,7 @@ that  rice  vegetables  the Lord  half  ate
 ye kichu rahila, tāhā govinda pāila  
 whatever  remained  that  Govinda  received
 
-(57) The Lord ate half of that rice and vegetables, and whatever remained Govinda received.
+(57) The Lord ate half of the rice and vegetables, and whatever remained Govinda received.
 
 অর্দ্ধাশন করেন প্রভু, গোবিন্দ অর্দ্ধাশন ৷  
 সব ভক্তগণ তবে ছাড়িল ভোজন ॥ ৫৮ ॥
@@ -655,7 +655,7 @@ as is fitting  the belly  fills  not  makes  ‘sense objects’  enjoyment
 sannyāsīra tabe siddha haya jñāna-yoga  
 of a sannyāsī  then  perfected  becomes  of knowledge  yoga
 
-(64) He fills his stomach as much as is fitting and does not enjoy sense objects. Then the sannyāsī’s *jñāna-yoga* is perfected.
+(64) When he fills his stomach as is fitting and does not enjoy sense objects, then a sannyāsī’s *jñāna-yoga* is perfected.
 
 নাত্যশ্নতোঽপি যোগোঽস্তি ন চৈকান্তমনশ্নতঃ ৷  
 ন চাতিস্বপ্নশীলস্য জাগ্রতো নৈব চার্জ্জুন ॥ ৬৫ ॥
@@ -733,7 +733,7 @@ of the Purī  the nature  as much as one likes  food  having made eat
 ye nā khāya, tāre khāoyāya yatana kariyā  
 who  not  eats  him  he feeds  effort  making
 
-(71) It is the Purī’s nature to make people eat as much as they like; whoever does not eat, he feeds with great effort.
+(71) It is the Purī’s nature to make people eat as much as they like; and if someone will not eat, he takes great pains to feed him.
 
 খাওয়াঞা পুনঃ তারে করয়ে নিন্দন ৷  
 এত অন্ন খাও, — তোমার কত আছে ধন ? ॥ ৭২ ॥
