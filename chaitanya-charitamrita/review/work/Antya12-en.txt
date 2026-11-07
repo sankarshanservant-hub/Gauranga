@@ -1,0 +1,405 @@
+# English translation, Antya-līlā 12 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya12.txt, ed/en/work/Antya12.p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–77; shift 2: 78–155.
+
+## 0
+tr: How Jagadānanda Broke the Pitcher of Oil
+
+## 1
+w: hear  hear  constantly
+w: sing  sing  with joy
+w: meditate  meditate  O devotees
+w: the nectar of Caitanya’s deeds
+tr: O devotees, hear, hear constantly the nectar of Śrī Caitanya’s deeds; sing, sing it with joy; meditate, meditate on it.
+fn: *Caitanya-caritāmṛtam*, “the nectar of Caitanya’s deeds,” is also the title of the book. *Anubhāṣya*: hear, sing and remember it again and again. *Amṛta-pravāha-bhāṣya*: always hear this *Caitanya-caritāmṛta*, sing it and joyfully meditate on it.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to the merciful one
+w: glory  glory  to Nityānanda  to the ocean of mercy  glory
+tr: Glory, glory to Śrī Caitanya! Glory to the merciful Lord! Glory, glory to Nityānanda! Glory to the ocean of mercy!
+
+## 3
+w: glory to Advaitacandra  glory  to the ocean of compassion
+w: glory  of Gaura  to the devotees  whose hearts are full of mercy
+tr: Glory to Advaitacandra, the ocean of compassion! Glory to the devotees of Gaura, whose hearts are full of mercy!
+
+## 4
+w: after this  Mahāprabhu  dejected  at heart
+w: of separation from Kṛṣṇa  the state  flashes forth  constantly
+tr: After this Mahāprabhu was dejected at heart, and the state of separation from Kṛṣṇa constantly flashed forth in Him.
+fn: The Gauḍīya Maṭha edition (p. 994) reads *mahāprabhu*; another reading is *mahāprabhura*, “Mahāprabhu’s heart.” The sense is the same.
+
+## 5
+w: alas  alas  Kṛṣṇa  Lord of My life  son of the king of Vraja
+w: where  shall I go  where  shall I find (You)  O You whose face bears the flute
+tr: “Alas, alas, Kṛṣṇa, Lord of My life, son of the king of Vraja! Where shall I go? Where shall I find You, O You whose lips hold the flute?”
+
+## 6
+w: night and day  this  state  peace  there is not  in the mind
+w: with difficulty  the night  He passes  with Svarūpa and Rāmānanda
+tr: Night and day He was in this state, and there was no peace in His mind. With difficulty He passed the nights in the company of Svarūpa and Rāmānanda.
+
+## 7
+w: meanwhile  in the land of Gauḍa  of the Lord  all  the devotees
+w: the Lord  to see  all  set out
+tr: Meanwhile in the land of Gauḍa all the Lord’s devotees set out to see Him.
+
+## 8
+w: Śivānanda Sena  and  Ācārya Gosāñi
+w: in Navadvīpa  all  the devotees  gathered  in one  place
+tr: Śivānanda Sena, Advaita Ācārya and all the devotees gathered in one place, in Navadvīpa.
+
+## 9
+w: the residents of Kulīnagrāma  and  all  the residents of Khaṇḍa
+w: together  met  all  to Navadvīpa  coming
+tr: The residents of Kulīnagrāma and all the residents of Khaṇḍa came to Navadvīpa, and all met there together.
+
+## 10
+w: to Nityānanda Prabhu  although  permission  there was not
+w: still  to see  sets out  Caitanya Gosāñi
+tr: Although Nityānanda Prabhu did not have the Lord’s permission, He still set out to see Caitanya Gosāñi.
+
+## 11
+w: Śrīvāsa and the others  the four  brothers  along with  Mālinī
+w: of Ācāryaratna  with  his  wife
+tr: Śrīvāsa and his brothers, four in all, went with Mālinī, and Ācāryaratna’s wife went with him.
+
+## 12
+w: Śivānanda’s wife  goes  three sons  taking
+w: Rāghava Paṇḍita  goes  his bags  having packed
+tr: Śivānanda’s wife went, taking her three sons, and Rāghava Paṇḍita went with his bags (*jhāli*) packed.
+
+## 13
+w: Datta  Gupta  Vidyānidhi  and  all  the others
+w: two or three  hundred  devotees  set out
+tr: Vāsudeva Datta, Murāri Gupta, Vidyānidhi and all the others set out, two or three hundred devotees in all.
+
+## 14
+w: Śacīmātā  having seen  all  her  permission  taking
+w: joyfully  went  chanting of Kṛṣṇa  doing
+tr: They all went to see Śacīmātā and, taking her permission, set out joyfully, chanting the names of Kṛṣṇa.
+
+## 15
+w: Śivānanda Sena  does  at the toll stations  the settling
+w: all  care  taking  happily  leading  goes
+tr: Śivānanda Sena settled the tolls at the crossings; taking care of everyone, he led them happily along.
+fn: As in Madhya 16.19. *Anubhāṣya*: when pilgrims passed through a landlord’s estate they had to pay a toll, which went to the owners of the roads and crossings; at every toll post (*ghāṭī*) Śivānanda paid the toll due from the pilgrims to Jagannātha.
+
+## 16
+w: of all  all  the affairs  he does  gives  lodging places
+w: Śivānanda  knows  of the Oḍiyā roads  the details
+tr: He attended to everyone’s needs and found them places to stay, for Śivānanda knew the roads through Orissa well.
+
+## 17
+w: one  day  all  the people  at the toll post  they detained
+w: all  having got released  Śivānanda  alone  remained
+tr: One day all the people were detained at a toll post. Śivānanda had them all released and stayed behind alone.
+fn: The Gauḍīya Maṭha edition reads *ghāṭite*, “at the toll post”; another reading is *ghāṭiyāle*, “by the toll collector.” *Anubhāṣya*: the toll collectors oppressed the pilgrims and held them at the toll post to extort more than was due; Śivānanda stood surety for them all and had them released.
+
+## 18
+w: all  having gone  stayed  within the village  under a tree
+w: Śivānanda  without  a lodging place  not  is found
+tr: The others went on and waited under a tree in a village, for without Śivānanda no lodging could be found.
+
+## 19
+w: Nityānanda Prabhu  from hunger  distressed  becoming
+w: Śivānanda  abuse  heaps on  lodging  not  having found
+tr: Nityānanda Prabhu, distressed by hunger and finding no lodging, began to abuse Śivānanda:
+fn: Heading in the edition: Nityānanda, in His transcendental form as a cowherd boy of Vraja, has not satisfied His hunger and shows Śivānanda a feigned semblance of anger (cf. verse 33).
+
+## 20
+w: three  sons  may they die  of Śivā  now (still)  not  he has come
+w: from hunger  dying  I am  for Me  lodging  not  he arranged
+tr: “May Śivānanda’s three sons die! He has still not come. I am dying of hunger, and he has not arranged any lodging for Me!”
+
+## 21
+w: having heard  Śivānanda’s  wife  to weep  began
+w: at that time  Śivānanda  the toll post  from  came
+tr: Hearing this, Śivānanda’s wife began to weep. Just then Śivānanda came back from the toll post.
+
+## 22
+w: Śivānanda’s  wife  to him  says  weeping
+w: on the sons  a curse  has laid  Gosāñi  lodging  not  having found
+tr: Weeping, Śivānanda’s wife said to him, “Finding no lodging, Gosāñi has laid a curse on our sons.”
+
+## 23
+w: he  says  crazy woman  why  are you dying  weeping
+w: may they die  my  three  sons  His  misfortunes  taking (upon themselves)
+tr: He said, “Crazy woman, why are you killing yourself with weeping? Let my three sons die, taking His misfortunes upon themselves!”
+fn: *Tāṅra bālāi laña*, “taking His misfortunes upon themselves”: an expression of loving devotion, wishing that every ill that threatens the beloved may fall upon oneself. *Anubhāṣya*: *bāuli* means “crazy woman”; another reading is *bāunī*, “brāhmaṇa lady,” a respectful way of addressing women in those days.
+
+## 24
+w: thus  having said  to Prabhu’s side  went  Śivānanda
+w: rising  him  a kick  gave  Prabhu Nityānanda
+tr: Saying this, Śivānanda went to Nityānanda Prabhu, and the Lord rose and kicked him.
+
+## 25
+w: delighted  became  Śivāi  the blow of the foot  having received
+w: quickly  a lodging house  he arranged  to a cowherd’s house  having gone
+tr: Receiving the blow of His foot, Śivānanda was delighted. He quickly went to the house of a cowherd (*goyālā*) and arranged lodging there.
+fn: Heading in the edition (to verse 24): Śivānanda is blessed with the blow of Nityānanda’s foot. *Anubhāṣya*: *gauḍa-ghare*, “in the house of a cowherd (*goyālā*).”
+
+## 26
+w: at the feet  holding  the Lord  to the lodging  taking  went
+w: lodging  having given  delighted  becoming  to speak  began
+tr: Holding the Lord’s feet, he took Him to the lodging. Having given Him a place to stay, he spoke in delight:
+
+## 27
+w: today  me  as a servant  making  acceptance  You have made
+w: as  the offence  of the servant  fitting  result  You have given
+tr: “Today You have accepted me as Your servant. You have given the fruit that the servant’s offence deserved.
+
+## 28
+w: punishment  in the guise of  mercy  You show  this  Your  compassion
+w: in the three worlds  Your  ways  understands  which  person
+tr: In the guise of punishment You show mercy — such is Your compassion. Who in the three worlds can understand Your ways?
+fn: Heading in the edition: punishment or suffering sent by the Lord is a hidden, supreme mercy and happiness.
+
+## 29
+w: for Brahmā  rare  Your  the dust of the holy feet
+w: such  the touch of the feet  has obtained  my  lowly  body
+tr: The dust of Your holy feet is rare even for Brahmā, yet my lowly body has received the touch of such feet.
+
+## 30
+w: today  my  successful  became  birth  family  deeds
+w: today  I have obtained  devotion to Kṛṣṇa  wealth  pleasure  dharma
+tr: Today my birth, my family and my deeds have become successful. Today I have obtained devotion to Kṛṣṇa, as well as wealth, pleasure and dharma.”
+
+## 31
+w: having heard  of Nityānanda Prabhu  delighted  the mind
+w: rising  Śivānanda  He made  an embrace of love
+tr: Hearing this, Nityānanda Prabhu was delighted at heart. He rose and embraced Śivānanda with love.
+
+## 32
+w: delighted  Śivānanda  makes  the arrangements
+w: to the Ācārya and the other Vaiṣṇavas  gave  lodging places
+tr: Delighted, Śivānanda made the arrangements and gave lodgings to Advaita Ācārya and the other Vaiṣṇavas.
+
+## 33
+w: of Nityānanda Prabhu  all  the conduct  contrary
+w: angry  becoming  a kick  giving  He does  his  good
+tr: All of Nityānanda Prabhu’s ways are paradoxical: when He becomes angry and kicks someone, He does that person good.
+fn: *Viparīta* (in quotation marks in the text): “the reverse,” contrary to what one would expect. Heading in the edition: the semblance of anger in Nityānanda, the guru, is a hidden, supreme mercy and the sign of eternal good.
+
+## 34
+w: Śivānanda’s  nephew  Śrīkānta Sena  by name
+w: of his maternal uncle  out of sight  says  taking offence
+tr: Śivānanda’s nephew was named Śrīkānta Sena. Hurt and indignant, he spoke when his uncle was out of hearing:
+
+## 35
+w: of Caitanya  an associate  my  maternal uncle’s  fame
+w: lordliness  shows  Gosāñi  him  He kicks
+tr: “My uncle is known as an associate of Caitanya, yet Gosāñi lords it over him and kicks him.”
+
+## 36
+w: thus  having said  Śrīkānta  the boy  ahead  going  goes
+w: the company  leaving  ahead  went  to Mahāprabhu’s  place
+tr: Saying this, the boy Śrīkānta went on ahead. Leaving the party, he went in advance to where Mahāprabhu was.
+
+## 37
+w: with a shirt on the body  he makes  prostrate  obeisance
+w: Govinda  says  Śrīkānta  first  the shirt  take off
+tr: Still wearing his shirt (*peṭāṅgi*), he offered prostrate obeisances. Govinda said, “Śrīkānta, first take off your shirt.”
+fn: *Amṛta-pravāha-bhāṣya*: *peṭāṅgi* — a shirt or coat. Heading in the edition: Govinda instructs Śrīkānta in the rules of respect before the Lord’s form. The *Anubhāṣya* quotes the tantras: one who bows down to Hari with his body covered by cloth is a fool.
+
+## 38
+w: the Lord  says  Śrīkānta  has come  having got  sorrow of mind
+w: anything  not  say  let him do  whatever  his  happiness
+tr: The Lord said, “Śrīkānta has come here with a sorrowful heart. Say nothing to him; let him do as he pleases.”
+
+## 39
+w: of the Vaiṣṇavas  the news  Gosāñi  asked
+w: one by one  of all  the names  Śrīkānta  made known
+tr: The Lord asked for news of the Vaiṣṇavas, and Śrīkānta told Him about each of them by name.
+
+## 40
+w: sorrow  having got  he has come  this  the Lord’s  statement  hearing
+w: he knew  omniscient  the Lord  thus  inferring
+tr: Hearing the Lord say, “He has come here sorrowful,” Śrīkānta concluded that the Lord is omniscient.
+
+## 41
+w: Śivānanda  He kicked  this  not  he told
+w: here  all  the Vaiṣṇavas  coming  met (Him)
+tr: He did not tell the Lord that Nityānanda had kicked Śivānanda. Meanwhile all the Vaiṣṇavas arrived and met the Lord.
+
+## 42
+w: as before  the Lord  made  with all  the meeting
+w: the women  from afar  made  of the Lord  the sight (darśana)
+tr: As before, the Lord met with everyone, and the women had His darśana from a distance.
+
+## 43
+w: lodging houses  as before  to all  He had given
+w: to the eating of mahā-prasāda  all  He called
+tr: As before, He had lodgings given to everyone, and He called them all to take *mahā-prasāda*.
+
+## 44
+w: Śivānanda  the three sons  to Gosāñi  introduced
+w: on account of the relation with Śivānanda  to all  great mercy  He showed
+tr: Śivānanda introduced his three sons to the Lord, and for Śivānanda’s sake the Lord showed great mercy to them all.
+
+## 45
+w: the youngest son  seeing  the Lord  the name  asked
+w: Paramānanda dāsa  the name  Sena  made known
+tr: Seeing the youngest son, the Lord asked his name, and Śivānanda Sena told Him it was Paramānanda dāsa.
+
+## 46–47
+w: before  when  Śivānanda  to the Lord’s place  came
+w: then  Mahāprabhu  to him  to speak  began
+w: this time  your  that  which will be  son
+w: Purīdāsa  as  the name  give  of him
+tr: Earlier, when Śivānanda had come to the Lord, Mahāprabhu had said to him, “The son who will be born to you this time — name him Purīdāsa.”
+
+## 48
+w: then  of the mother  in the womb  is  that  indeed  son
+w: Śivānanda  home  went  birth  took place  his
+tr: That son was then in his mother’s womb. Śivānanda went home, and the child was born.
+
+## 49
+w: by the Lord’s order  they gave  the name  Paramānanda dāsa
+w: Purīdāsa  calling (him)  the Lord  makes  jest
+tr: By the Lord’s order they named him Paramānanda dāsa, and the Lord jokingly called him Purīdāsa.
+
+## 50
+w: Śivānanda  when  that  child  introduced
+w: Mahāprabhu  His big toe  his  in the mouth  placed
+tr: When Śivānanda presented that child, Mahāprabhu placed His big toe in the boy’s mouth.
+
+## 51
+w: of Śivānanda  the ocean of good fortune  who  will reach  the shore
+w: whose  all  family  the Lord  calls  His own
+tr: Who can reach the shore of the ocean of Śivānanda’s good fortune? The Lord calls his whole family His own.
+
+## 52
+w: then  all  the devotees  taking  He took  the meal
+w: to Govinda  an order  He gave  having rinsed (His mouth)
+tr: Then the Lord took His meal with all the devotees. After rinsing His mouth and hands, He gave Govinda an order:
+
+## 53
+w: Śivānanda’s  wife  sons  as long as  here
+w: My  plate of remnants  they  should  receive
+tr: “As long as Śivānanda’s wife and sons are here, they should receive the plate of My remnants.”
+
+## 54
+w: a resident of Nadīyā  a confectioner  his  name  Parameśvara
+w: sweets  he sells  of the Lord’s  house  near  his  home
+tr: There was a confectioner (*modaka*), a resident of Nadīyā, named Parameśvara. He sold sweets, and his home was near the Lord’s house.
+
+## 55
+w: in childhood  the Lord  his  to the house  again and again  goes
+w: milk  sugar  sweets  he gives  the Lord  that  eats
+tr: In His childhood the Lord would go to his house again and again, and Parameśvara would give Him milk, sugar and sweets, which He ate.
+
+## 56
+w: for the Lord  affection  his  from childhood
+w: that  year  he  came  the Lord  to see
+tr: He had had affection for the Lord since the Lord’s childhood. That year he came to see the Lord.
+
+## 57
+w: Parameśvarā  I  saying  prostrated himself  he did
+w: him  seeing  the Lord  with affection  him  asked
+tr: Saying, “I am Parameśvarā,” he offered prostrate obeisances. Seeing him, the Lord spoke to him with affection:
+fn: *Parameśvarā* (*parameśvaryā*): the homely form in which the simple confectioner speaks his own name.
+
+## 58
+w: Parameśvara  well  be  good  it is  you have come
+w: Mukunda’s  mother  has come  to the Lord  he said
+tr: “Parameśvara, may you be well! It is good that you have come.” Then he told the Lord, “Mukunda’s mother has come.”
+
+## 59
+w: of Mukunda’s mother  the name  hearing  the Lord  embarrassed  became
+w: yet  his  out of affection  anything  not  He said
+tr: Hearing the name of Mukunda’s mother, the Lord felt embarrassed, yet out of affection for him He said nothing.
+fn: The *Anubhāṣya*: the Lord, the *guru* of the world and teacher of people, who enacted the pastime of *sannyāsa*, felt embarrassed on hearing a woman’s name, even though she was elderly and like a mother to Him.
+
+## 60
+w: the boldness of familiarity  pure courtesy  not  knows
+w: within  pleased  became  the Lord  his  that  quality
+tr: The boldness of loving familiarity (*praśraya-prāgalbhya*) knows nothing of pure courtesy (*śuddha-vaidagdhī*). Within His heart the Lord was pleased with that quality of his.
+fn: To say to a *sannyāsī*, “Mukunda’s mother has come,” is the boldness born of long familiarity (*Amṛta-pravāha-bhāṣya*). The *Anubhāṣya* records the variant reading *praśraya-pāgala*, “simple in his affection,” and explains: *praśraya* — affection, affectionate respect, humility, trust, loving liberty; *prāgalbhya* — boldness, forwardness; *vaidagdhī* — refinement, polish, skill, elegance of manners. The Lord, who accepts the feeling of the heart, was pleased with his guilelessness.
+
+## 61
+w: as before  all  taking  the cleansing of Guṇḍicā
+w: before the chariot  as before  He danced
+tr: As before, the Lord cleansed the Guṇḍicā temple with everyone, and as before He danced in front of the chariot.
+
+## 62
+w: of the Cāturmāsya  all  the festivals  they had  the sight
+w: Mālinī  and others  the Lord  invited
+tr: During the four months of *Cāturmāsya* they saw all the festivals, and Mālinī and the other ladies invited the Lord for meals.
+
+## 63
+w: to the Lord  dear  various  foodstuffs  they had brought  the homeland  from
+w: those  vegetable dishes  making  offering  give  with home-cooked rice
+tr: They had brought from home various foodstuffs dear to the Lord. Making vegetable dishes with them, they offered Him meals of home-cooked rice.
+
+## 64
+w: by day  various  pastimes  He does  taking  the devotees
+w: at night  in separation from Kṛṣṇa  the Lord  does  weeping
+tr: By day the Lord enjoyed various pastimes with the devotees; at night He wept in separation from Kṛṣṇa.
+
+## 65
+w: in this way  in various pastimes  the Cāturmāsya  passed
+w: to the land of Gauḍa  to go  then  to the devotees  an order  He gave
+tr: In this way the four months of *Cāturmāsya* passed in various pastimes. Then the Lord ordered the devotees to return to the land of Gauḍa.
+
+## 66
+w: all  the devotees  make  of Mahāprabhu  invitation
+w: to all the devotees  speaks  the Lord  sweet  words
+tr: All the devotees invited Mahāprabhu for meals, and the Lord spoke sweet words to all of them:
+
+## 67
+w: every year  you come  all  Me  to see
+w: in coming  in going  hardship  you suffer  in many ways
+tr: “Every year you all come to see Me, and in coming and going you suffer hardships of many kinds.
+
+## 68
+w: of you all  the hardship  knowing  I want  to forbid
+w: of you all  in the happiness of company  greed  grows  in the heart
+tr: Knowing your hardships, I want to forbid you to come. But in My heart the greed for the happiness of your company grows.
+
+## 69
+w: to Nityānanda  an order  I gave  in Gauḍa  to remain
+w: the order  transgressing  He came  what  can I  say
+tr: I ordered Nityānanda to remain in Gauḍa, yet He has broken My order and come. What can I say?
+
+## 70
+w: has come  Ācārya Gosāñi  to Me  mercy  showing
+w: by the debt of love  bound  I  to repay  not  can
+tr: Ācārya Gosāñi has come here, showing Me mercy. I am bound by a debt of love that I can never repay.
+
+## 71
+w: Me  for the sake of  wife  sons  home and so on  leaving
+w: many  difficult  roads  crossing  they come  running
+tr: For My sake they leave wife, sons and home, and come running over many difficult roads.
+
+## 72
+w: I  this  in Nīlācala  stay  indeed  sitting
+w: labor  there is not  My  of all  for the sake of
+tr: And I simply stay here, sitting in Nīlācala; I take no trouble for any of you.
+
+## 73
+w: a sannyāsī  person  I  there is not  any  wealth
+w: what  giving  your  debt  shall I  repay
+tr: I am a *sannyāsī*; I have no wealth at all. With what shall I repay My debt to you?
+
+## 74
+w: the body  alone  wealth  to you  I have  offered
+w: there  I am sold  where  to sell  your  mind (wish)
+tr: My body is My only wealth, and I have offered it to you. Wherever you wish to sell Me, there I am sold.”
+
+## 75
+w: by the Lord’s  words  of all  pleased  became  the minds
+w: streaming  with eyes  all  do  weeping
+tr: All were pleased at heart by the Lord’s words, and all wept with tears streaming from their eyes.
+
+## 76
+w: the Lord  of all  the necks  holding  does  weeping
+w: weeping  weeping  all  He embraced
+tr: Holding each of them by the neck, the Lord wept, and weeping and weeping He embraced them all.
+
+## 77
+w: all  remained  anyone  to go  could not
+w: more  days  five  seven  in this way  passed
+tr: Everyone stayed on; no one could leave. Five or seven more days passed in this way.
+
