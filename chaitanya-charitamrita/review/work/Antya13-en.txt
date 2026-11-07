@@ -1,0 +1,194 @@
+# English translation, Antya-līlā 13 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya13.txt, ed/en/work/Antya13.p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–70; shift 2: 71–139.
+
+## 0
+tr: How Jagadānanda Went to Vṛndāvana
+
+## 1
+w: Kṛṣṇa  from separation  born  by the pain
+w: wasted  and  though  mind  and body
+w: attain  blossoming  through ecstatic emotions
+w: whose  that  Gaura  I take shelter of
+tr: I take shelter of Gaura, whose mind and body, though wasted by the pain born of separation from Kṛṣṇa, blossomed again through His ecstatic emotions.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2 (= Ādi 1.18, 17.2, Antya 2.2, 4.2, 6.2); translation as there.
+
+## 3
+w: in this way  Mahāprabhu  with Jagadānanda  in the company
+w: in many  ways  tastes  of love  in the waves
+tr: In this way, in the company of Jagadānanda, Mahāprabhu tasted the waves of love in many ways.
+
+## 4
+w: Kṛṣṇa  in separation  by sorrow  wasted  mind  and body
+w: in ecstatic absorption  the Lord  sometimes  blossoming  becomes
+tr: His mind and body were wasted by the sorrow of separation from Kṛṣṇa, yet at times, absorbed in ecstatic emotion, the Lord would blossom again.
+
+## 5
+w: of the banana  on the bark  lying  very  thin  the body
+w: against the bark  the bones  press  pain  is  in the body
+tr: He lay on dried banana bark, and His body was very thin. His bones pressed against the bark, and His whole body ached.
+fn: Heading in the edition: the Lord’s severe renunciation.
+
+## 6
+w: seeing  all  the devotees  great  sorrow  feel
+w: to bear  could not  Jagadānanda  devised  a means
+tr: Seeing this, all the devotees were deeply grieved. Jagadānanda could not bear it, and he devised a remedy.
+
+## 7
+w: fine  cloth  bringing  with red ochre  with  dyed
+w: of the śimula tree  cotton  with  it  stuffed
+tr: He brought fine cloth, dyed it with red ochre and stuffed it with the cotton of the silk-cotton (*śimula*) tree.
+
+## 8
+w: one  mattress  pillow  of Govinda  into the hands  gave
+w: the Lord  have lie down  on this  to him  said
+tr: He put a mattress and a pillow into Govinda’s hands and told him, “Have the Lord lie down on these.”
+
+## 9
+w: to Svarūpa Gosāñi  says  Jagadānanda
+w: today  yourself  going  the Lord  have lie down
+tr: Jagadānanda said to Svarūpa Gosāñi, “Today please go yourself and have the Lord lie down on them.”
+
+## 10
+w: of lying down  at the time  Svarūpa  right there  stayed
+w: mattress  pillow  seeing  the Lord  filled with anger  became
+tr: At bedtime Svarūpa stayed right there. But when the Lord saw the mattress and pillow, He became angry.
+
+## 11
+w: Govinda  He asks  this  had made  which  person
+w: of Jagadānanda  the name  hearing  shrinking  became  the mind
+tr: He asked Govinda, “Who had this made?” But when He heard Jagadānanda’s name, His heart shrank back in apprehension.
+
+## 12
+w: to Govinda  telling  that  mattress  away  put
+w: of the banana  the bark  upon  lying down  did
+tr: He had Govinda put the mattress away and lay down on the banana bark.
+
+## 13
+w: Svarūpa  says  Your  will  what  to say  can I
+w: the bed  if You reject  the Paṇḍita  sorrow  will feel  heavy
+tr: Svarūpa said, “It is Your will—what can I say? But if You reject the bed, the Paṇḍita will be deeply hurt.”
+
+## 14
+w: the Lord  says  a bedstead  one  bring  to set up
+w: Jagadānanda  wants  Me  sense objects  to make enjoy
+tr: The Lord said, “Then bring a bedstead too and set it up! Jagadānanda wants Me to enjoy worldly pleasures.
+fn: Heading in the edition: considering Himself a renounced ascetic (*yati*), the Lord reproaches him with feigned anger.
+
+## 15
+w: a sannyāsī  man  My  on the ground  lying
+w: for Me  bedstead  mattress  pillow  of the head  shaving
+tr: I am a sannyāsī, and My place is on the ground. A bedstead, a mattress and a pillow would bring Me utter disgrace.”
+fn: *Amṛta-pravāha-bhāṣya*: *mastaka-muṇḍana*, literally “a shaven head,” is an expression for disgrace.
+
+## 16
+w: Svarūpa Gosāñi  coming  to the Paṇḍita  told
+w: hearing  Jagadānanda  great  sorrow  felt
+tr: Svarūpa Gosāñi came and told the Paṇḍita, and when Jagadānanda heard it, he was deeply grieved.
+
+## 17
+w: Svarūpa Gosāñi  then  devised  a way
+w: of the banana  dry  leaves  brought  countless
+tr: Then Svarūpa Gosāñi devised a way. He brought a great quantity of dry banana leaves.
+
+## 18
+w: with his nails  tearing  tearing  them  very  fine  made
+w: of the Lord  into the outer cloths  them  all  filled
+tr: Tearing them again and again with his nails, he shredded them very fine and filled the Lord’s outer cloths (*bahirvāsa*) with them.
+
+## 19
+w: in this way  two  made  covering and bedding
+w: acceptance  made  the Lord  with much  effort
+tr: In this way he made two pieces of bedding (*oḍana-pāḍana*), and only after much persuasion did the Lord accept them.
+fn: *Anubhāṣya*: *oḍana-pāḍana* means *ota-prota*, “warp and woof”; according to some, a pillow and a mattress.
+
+## 20
+w: on them  lying  does  the Lord  seeing  all  happy
+w: Jagadānanda  inwardly and outwardly  very  unhappy
+tr: The Lord lay on them, and seeing this, everyone was happy. But Jagadānanda remained deeply unhappy, inwardly and outwardly.
+fn: Heading in the edition: everyone is pleased; only Jagadānanda is grieved.
+
+## 21
+w: before  of Jagadānanda  the wish  to Vṛndāvana  to go
+w: the Lord  permission  not  gives  to him  not  could  set out
+tr: Jagadānanda had long wished to go to Vṛndāvana, but the Lord would not give him permission, and so he could not set out.
+
+## 22
+w: inner  sorrow  outwardly  display  not  made
+w: to Mathurā  to go  from the Lord  permission  asked
+tr: Without showing his inner sorrow outwardly, he asked the Lord for permission to go to Mathurā.
+fn: The Gauḍīya Maṭha edition (p. 1003) reads *duḥkha bāhye*, “his sorrow outwardly”; another reading is *krodha-duḥkha*, “anger and sorrow.”
+
+## 23
+w: the Lord  says  to Mathurā  you will go  with Me  anger  making
+w: on Me  blame  laying  you  will become  a beggar
+tr: The Lord said, “You will go to Mathurā angry with Me. Laying the blame on Me, you will become a beggar.”
+fn: Heading in the edition: the Lord consoles him with sweet words.
+
+## 24
+w: Jagadānanda  says  the Lord’s  clasping  feet
+w: from long  since  the wish  my  to go  to Vṛndāvana
+tr: Clasping the Lord’s feet, Jagadānanda said, “For a long time I have wished to go to Vṛndāvana.
+
+## 25
+w: the Lord’s  permission  there was not  so  not  could  go
+w: now  permission  give  surely  I will go  certainly
+tr: Without Your permission I could not go. Now please give me permission; I will surely go.”
+
+## 26
+w: the Lord  out of love  his  going  not  does  accept
+w: he  from the Lord  permission  asks  time  after time
+tr: Out of love, the Lord would not agree to his going, but Jagadānanda begged Him for permission again and again.
+
+## 27
+w: to Svarūpa Gosāñi  the Paṇḍita  made  a request
+w: from long  since  to Vṛndāvana  to go  my  heart
+tr: The Paṇḍita appealed to Svarūpa Gosāñi: “For a long time my heart has been set on going to Vṛndāvana.
+
+## 28
+w: the Lord’s  permission  without  there  to go  not  can
+w: now  permission  not  He gives  me  in anger  go  saying
+tr: Without the Lord’s permission I cannot go there, and now He will not give me permission. He says, ‘You would go in anger.’
+
+## 29
+w: naturally  my  there  to go  the heart  is
+w: the Lord’s  permission  obtaining  give  I make  humble request
+tr: My heart is drawn there of its own accord. Please obtain the Lord’s permission for me—I humbly beg you.”
+
+## 30
+w: then  Svarūpa Gosāñi  says  of the Lord  at the feet
+w: of Jagadānanda  the wish  great  to go  to Vṛndāvana
+tr: Then Svarūpa Gosāñi submitted at the Lord’s feet: “Jagadānanda greatly desires to go to Vṛndāvana.
+
+## 31
+w: from You  permission  he  asks  time  after time
+w: permission  give  Mathurā  seeing  let him come back  once
+tr: He has asked You for permission again and again. Please let him go: let him see Mathurā once and come back.
+
+## 32
+w: Mother  to see  just as  to the land of Gauḍa  he goes
+w: so  once  Vṛndāvana  seeing  let him come
+tr: Just as he goes to Gauḍa to see Mother Śacī, so let him go once, see Vṛndāvana and return.”
+
+## 33
+w: of Svarūpa Gosāñi  at the word  the Lord  permission  gave
+w: Jagadānanda  calling  him  instructed
+tr: At Svarūpa Gosāñi’s word the Lord gave His permission. He called Jagadānanda and instructed him:
+
+## 34
+w: Vārāṇasī  as far as  freely  you may go  on the road
+w: beyond  carefully  go  with kṣatriyas and others  together
+tr: “As far as Vārāṇasī you may travel the road freely. Beyond that, go carefully, in the company of kṣatriyas and others.
+
+## 35
+w: only  a Gauḍīya  if they find  highway robbery  doing  they bind
+w: all  plundering  bound  they keep  to go on  they prevent
+tr: If they find a Gauḍīya alone, highwaymen (*bāṭapāḍa*) waylay him and bind him; they plunder everything, keep him bound and do not let him go on.
+fn: *Anubhāṣya*: the people of Gauḍa, being slight of build, look weak; finding them alone, highwaymen keep them bound, take everything and do not let them go. According to some, the robbers, seeing that the Bengalis are clever, force them into highway robbery and never let them go.
+
