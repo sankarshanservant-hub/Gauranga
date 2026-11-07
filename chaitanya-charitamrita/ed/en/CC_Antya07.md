@@ -662,203 +662,255 @@ them all  before  the Bhaṭṭa  a firefly’s  form
 গণ-সহ মহাপ্রভুরে ভোজন করাইল ॥ ৬১ ॥
 
 tabe bhaṭṭa bahu mahā-prasāda ānāila  
-gaṇa-saha mahāprabhure bhojana karāila
+then  the Bhaṭṭa  much  mahā-prasāda  had brought  
+gaṇa-saha mahāprabhure bhojana karāila  
+with His associates  Mahāprabhu  a meal  gave
 
-(61) [not yet translated]
+(61) Then the Bhaṭṭa had a great quantity of *mahā-prasāda* brought and fed Mahāprabhu and His associates.
 
 পরমানন্দ-পুরী-সঙ্গে সন্ন্যাসীর গণ ৷  
 একদিকে বৈসে সব করিতে ভোজন ॥ ৬২ ॥
 
 paramānanda-purī-saṅge sannyāsīra gaṇa  
-eka-dike vaise saba karite bhojana
+with Paramānanda Purī  of sannyāsīs  the group  
+eka-dike vaise saba karite bhojana  
+on one side  sit  all  to take  the meal
 
-(62) [not yet translated]
+(62) The *sannyāsīs*, with Paramānanda Purī, all sat on one side to eat.
 
 অদ্বৈত, নিত্যানন্দ-রায় — পার্শ্বে দুইজন ৷  
 মধ্যে মহাপ্রভু বসিলা, আগে-পাছে ভক্তগণ ॥ ৬৩ ॥
 
 advaita, nityānanda-rāya — pārśve dui-jana  
-madhye mahāprabhu vasilā, āge-pāche bhakta-gaṇa
+Advaita,  Nityānanda Rāya  at the sides  the two  
+madhye mahāprabhu vasilā, āge-pāche bhakta-gaṇa  
+in the middle  Mahāprabhu  sat  in front and behind  the devotees
 
-(63) [not yet translated]
+(63) Advaita and Nityānanda Rāya sat at either side of Him; Mahāprabhu sat in the middle, with the devotees in front and behind.
 
 গৌড়ের ভক্ত যত কহিতে না পারি ৷  
 অঙ্গনে বসিলা সব হঞা সারি-সারি ॥ ৬৪ ॥
 
 gauḍera bhakta yata kahite nā pāri  
-aṅgane vasilā saba hañā sāri-sāri
+of Gauḍa  the devotees  how many  to tell  not  I can  
+aṅgane vasilā saba hañā sāri-sāri  
+in the courtyard  sat  all  being  in rows
 
-(64) [not yet translated]
+(64) I cannot tell how many devotees from Gauḍa there were; they all sat in rows in the courtyard.
 
 প্রভুর ভক্তগণ দেখি’ ভট্টের চমৎকার ৷  
 প্রত্যক্ষে সবার পদে কৈল নমস্কার ॥ ৬৫ ॥
 
 prabhura bhakta-gaṇa dekhi’ bhaṭṭera camatkāra  
-pratyakṣe sabāra pade kaila namaskāra
+the Lord’s  devotees  seeing  the Bhaṭṭa’s  amazement  
+pratyakṣe sabāra pade kaila namaskāra  
+in (His) presence  of all  at the feet  made  obeisance
 
-(65) [not yet translated]
+(65) Seeing the Lord’s devotees, the Bhaṭṭa was amazed, and in the Lord’s presence he bowed at the feet of them all.
 
 স্বরূপ, জগদানন্দ, কাশীশ্বর, শঙ্কর ৷  
 পরিবেশন করে, আর রাঘব, দামোদর ॥ ৬৬ ॥
 
 svarūpa, jagadānanda, kāśīśvara, śaṅkara  
-pariveśana kare, āra rāghava, dāmodara
+Svarūpa,  Jagadānanda,  Kāśīśvara,  Śaṅkara  
+pariveśana kare, āra rāghava, dāmodara  
+serving  do  and  Rāghava,  Dāmodara
 
-(66) [not yet translated]
+(66) Svarūpa, Jagadānanda, Kāśīśvara and Śaṅkara served the food, and so did Rāghava and Dāmodara.
 
 মহাপ্রসাদ বল্লভ-ভট্ট বহু আনাইল ৷  
 প্রভু-সহ সন্ন্যাসিগণ ভোজনে বসিল ॥ ৬৭ ॥
 
 mahāprasāda vallabha-bhaṭṭa bahu ānāila  
-prabhu-saha sannyāsi-gaṇa bhojane vasila
+mahā-prasāda  Vallabha Bhaṭṭa  much  had brought  
+prabhu-saha sannyāsi-gaṇa bhojane vasila  
+with the Lord  the sannyāsīs  to the meal  sat
 
-(67) [not yet translated]
+(67) Vallabha Bhaṭṭa had brought a great deal of *mahā-prasāda*, and the *sannyāsīs* sat down with the Lord to eat.
 
 প্রসাদ পায় বৈষ্ণবগণ, বলে ‘হরি’ ‘হরি’ ৷  
 হরিধ্বনি উঠিল সব ব্রহ্মাণ্ড ভরি’ ॥ ৬৮ ॥
 
 prasāda pāya vaiṣṇava-gaṇa, bale ‘hari’ ‘hari’  
-hari-dhvani uṭhila saba brahmāṇḍa bhari’
+prasāda  take  the Vaiṣṇavas  say  ‘Hari’  ‘Hari’  
+hari-dhvani uṭhila saba brahmāṇḍa bhari’  
+the sound of Hari  rose  the whole  universe  filling
 
-(68) [not yet translated]
+(68) The Vaiṣṇavas honored the *prasāda*, saying “Hari! Hari!”, and the sound of “Hari” rose and filled the whole universe.
 
 মালা, চন্দন, গুবাক, পান অনেক আনিল ৷  
 সবা’ পূজা করি’ ভট্ট আনন্দিত হৈল ॥ ৬৯ ॥
 
 mālā, candana, guvāka, pāna aneka ānila  
-sabā’ pūjā kari’ bhaṭṭa ānandita haila
+garlands,  sandal paste,  areca nuts,  betel leaves  plenty  brought  
+sabā’ pūjā kari’ bhaṭṭa ānandita haila  
+all  honoring  the Bhaṭṭa  joyful  became
 
-(69) [not yet translated]
+(69) He brought plenty of garlands, sandal paste, areca nuts and betel leaves. Honoring everyone with them, the Bhaṭṭa was filled with joy.
 
 রথযাত্রা-দিনে প্রভু কীর্ত্তন আরম্ভিলা ৷  
 পূর্ব্ববৎ সাত-সম্প্রদায় পৃথক্ করিলা ॥ ৭০ ॥
 
 ratha-yātrā-dine prabhu kīrtana ārambhilā  
-pūrvavat sāta-sampradāya pṛthak karilā
+on the day of the Ratha-yātrā  the Lord  kīrtana  began  
+pūrvavat sāta-sampradāya pṛthak karilā  
+as before  seven groups  separate  made
 
-(70) [not yet translated]
+(70) On the day of the Ratha-yātrā the Lord began the *kīrtana*. As before, He formed seven separate groups.
 
 অদ্বৈত, নিত্যানন্দ, হরিদাস, বক্রেশ্বর ৷  
 শ্রীবাস, রাঘব, পণ্ডিত-গদাধর ॥ ৭১ ॥
 
 advaita, nityānanda, haridāsa, vakreśvara  
-śrīvāsa, rāghava, paṇḍita-gadādhara
+Advaita,  Nityānanda,  Haridāsa,  Vakreśvara  
+śrīvāsa, rāghava, paṇḍita-gadādhara  
+Śrīvāsa,  Rāghava,  Paṇḍita Gadādhara
 
-(71) [not yet translated]
+(71) Advaita, Nityānanda, Haridāsa, Vakreśvara, Śrīvāsa, Rāghava and Gadādhara Paṇḍita —
 
 সাত জন সাত-ঠাঞি করেন কীর্ত্তন ৷  
 ‘হরিবোল’ বলি’ প্রভু করেন ভ্রমণ ॥ ৭২ ॥
 
 sāta jana sāta-ṭhāñi karena kīrtana  
-‘hari-bola’ bali’ prabhu karena bhramaṇa
+seven  persons  in seven places  do  kīrtana  
+‘hari-bola’ bali’ prabhu karena bhramaṇa  
+‘Hari bol’  saying  the Lord  does  wandering
 
-(72) [not yet translated]
+(72) these seven led the *kīrtana* in seven places, and the Lord moved from group to group, calling “Hari bol!”
 
 চৌদ্দ মাদল বাজে উচ্চ সঙ্কীর্ত্তন ৷  
 এক এক নর্ত্তকের প্রেমে ভাসিল ভুবন ॥ ৭৩ ॥
 
 caudda mādala bāje ucca saṅkīrtana  
-eka eka nartakera preme bhāsila bhuvana
+fourteen  mādalas  sound  loud  saṅkīrtana  
+eka eka nartakera preme bhāsila bhuvana  
+of each  each  dancer  in the prema  floated  the world
 
-(73) [not yet translated]
+(73) Fourteen *mādalas* (drums) sounded in the loud *saṅkīrtana*, and the world floated in the *prema* of each of the dancers.
 
 দেখি’ বল্লভ-ভট্টের হৈল চমৎকার ৷  
 আনন্দে বিহ্বল নাহি আপন-সাম্ভাল ॥ ৭৪ ॥
 
 dekhi’ vallabha-bhaṭṭera haila camatkāra  
-ānande vihvala nāhi āpana-sāmbhāla
+seeing  Vallabha Bhaṭṭa’s  was  amazement  
+ānande vihvala nāhi āpana-sāmbhāla  
+in bliss  overwhelmed  not  his own  composure
 
-(74) [not yet translated]
+(74) Seeing this, Vallabha Bhaṭṭa was amazed. Overwhelmed with bliss, he lost all composure.
 
 তবে মহাপ্রভু সবার নৃত্য রাখিল ৷  
 প্রভুর চরিত্রে ভট্টের চমৎকার হৈল ॥ ৭৫ ॥
 
 tabe mahāprabhu sabāra nṛtya rākhila  
-prabhura caritre bhaṭṭera camatkāra haila
+then  Mahāprabhu  of all  the dancing  stopped  
+prabhura caritre bhaṭṭera camatkāra haila  
+the Lord’s  at the conduct  the Bhaṭṭa’s  amazement  was
 
-(75) [not yet translated]
+(75) Then Mahāprabhu stopped everyone’s dancing, and the Bhaṭṭa was amazed at the Lord’s conduct.
 
 যাত্রান্তরে ভট্ট যাই’ মহাপ্রভু-স্থানে ৷  
 প্রভুর চরণে কিছু কৈল নিবেদনে ॥ ৭৬ ॥
 
 yātrāntare bhaṭṭa yāi’ mahāprabhu-sthāne  
-prabhura caraṇe kichu kaila nivedane
+at another festival  the Bhaṭṭa  going  to Mahāprabhu’s place  
+prabhura caraṇe kichu kaila nivedane  
+the Lord’s  at the feet  something  made  submission
 
-(76) [not yet translated]
+(76) At another festival the Bhaṭṭa went to Mahāprabhu and submitted a request at His feet:
 
 ভাগবতের টীকা কিছু কৈরাছি লিখন ৷  
 আপনে মহাপ্রভু যদি করেন শ্রবণ ॥ ৭৭ ॥
 
 bhāgavatera ṭīkā kichu kairāchi likhana  
-āpane mahāprabhu yadi karena śravaṇa
+on the Bhāgavata  a commentary  some  I have done  writing  
+āpane mahāprabhu yadi karena śravaṇa  
+Yourself  Mahāprabhu  if  do  hearing
 
-(77) [not yet translated]
+(77) “I have written something of a commentary on the Bhāgavata. Would You, Mahāprabhu, hear it Yourself?”
 
 প্রভু কহে, — ভাগবতার্থ বুঝিতে না পারি ৷  
 ভাগবতার্থ শুনিতে আমি নহি অধিকারী ॥ ৭৮ ॥
 
 prabhu kahe, — bhāgavatārtha bujhite nā pāri  
-bhāgavatārtha śunite āmi nahi adhikārī
+the Lord  says  the meaning of the Bhāgavata  to understand  not  I can  
+bhāgavatārtha śunite āmi nahi adhikārī  
+the meaning of the Bhāgavata  to hear  I  am not  qualified
 
-(78) [not yet translated]
+(78) The Lord said, “I cannot understand the meaning of the Bhāgavata. I am not qualified even to hear its meaning.
 
 বসি’ কৃষ্ণনাম মাত্র করিয়ে গ্রহণে ৷  
 সংখ্যা-নাম পূর্ণ মোর নহে রাত্রি-দিনে ॥ ৭৯ ॥
 
 vasi’ kṛṣṇa-nāma mātra kariye grahaṇe  
-saṁkhyā-nāma pūrṇa mora nahe rātri-dine
+sitting  Kṛṣṇa’s name  only  I do  taking  
+saṁkhyā-nāma pūrṇa mora nahe rātri-dine  
+the fixed number of names  complete  My  is not  night and day
 
-(79) [not yet translated]
+(79) I simply sit and chant Kṛṣṇa’s name, and even so, night and day, I cannot complete My fixed number of names.”
 
 ভট্ট কহে, — কৃষ্ণনামের অর্থ-ব্যাখ্যানে ৷  
 বিস্তার কৈরাছি, তাহা করহ শ্রবণে ॥ ৮০ ॥
 
 bhaṭṭa kahe, — kṛṣṇa-nāmera artha-vyākhyāne  
-vistāra kairāchi, tāhā karaha śravaṇe
+the Bhaṭṭa  says  of Kṛṣṇa’s name  in explaining the meaning  
+vistāra kairāchi, tāhā karaha śravaṇe  
+expansion  I have made  that  do  hearing
 
-(80) [not yet translated]
+(80) The Bhaṭṭa said, “I have explained the meaning of Kṛṣṇa’s name at length. Please hear that.”
 
 প্রভু কহে, — কৃষ্ণনামের বহু অর্থ না মানি ৷  
 ‘শ্যামসুন্দর’ ‘যশোদানন্দন’, — এইমাত্র জানি ॥ ৮১ ॥
 
 prabhu kahe, — kṛṣṇa-nāmera bahu artha nā māni  
-‘śyāma-sundara’ ‘yaśodā-nandana’, — ei-mātra jāni
+the Lord  says  of Kṛṣṇa’s name  many  meanings  not  I accept  
+‘śyāma-sundara’ ‘yaśodā-nandana’, — ei-mātra jāni  
+‘the dark beauty’  ‘the son of Yaśodā’  this only  I know
 
-(81) [not yet translated]
+(81) The Lord said, “I do not accept many meanings of Kṛṣṇa’s name. I know only this: Śyāmasundara, the dark and beautiful One, and Yaśodā-nandana, the son of Yaśodā.
 
 তমালশ্যামলত্বিষি শ্রীযশোদাস্তনন্ধয়ে ৷  
 কৃষ্ণনাম্নো রূঢ়িরিতি সর্ব্বশাস্ত্র-বিনির্ণয়ঃ ॥ ৮২ ॥
 
 tamāla-śyāmala-tviṣi  
+in Him whose luster is dark like the tamāla tree  
 śrī-yaśodā-stanan-dhaye  
+in the One who drinks at Śrī Yaśodā’s breast  
 kṛṣṇa-nāmno rūḍhir iti  
-sarva-śāstra-vinirṇayaḥ
+of the name ‘Kṛṣṇa’  the conventional meaning  thus  
+sarva-śāstra-vinirṇayaḥ  
+of all scriptures  the conclusion
 
-(82) [not yet translated]
+(82) “The conventional meaning (*rūḍhi*) of the name ‘Kṛṣṇa’ is He whose luster is dark like a *tamāla* tree and who drinks at the breast of Śrī Yaśodā: this is the conclusion of all the scriptures.” (Nāma-kaumudī)
 
 এই অর্থ আমি মাত্র জানিয়ে নির্দ্ধার ৷  
 আর সর্ব্ব-অর্থে মোর নাহি অধিকার ॥ ৮৩ ॥
 
 ei artha āmi mātra jāniye nirdhāra  
-āra sarva-arthe mora nāhi adhikāra
+this  meaning  I  only  know  as settled  
+āra sarva-arthe mora nāhi adhikāra  
+other  in all meanings  My  is not  qualification
 
-(83) [not yet translated]
+(83) This meaning alone I know as settled; I have no qualification for any other meanings.”
 
 ফল্গুপ্রায় ভট্টের নামাদি সব-ব্যাখ্যা ৷  
 সর্ব্বজ্ঞ প্রভু জানি’ তারে করেন উপেক্ষা ॥ ৮৪ ॥
 
 phalguprāya bhaṭṭera nāmādi saba-vyākhyā  
-sarvajña prabhu jāni’ tāre karena upekṣā
+nearly worthless  the Bhaṭṭa’s  of the name and so on  all the explanations  
+sarvajña prabhu jāni’ tāre karena upekṣā  
+all-knowing  the Lord  knowing  them  does  disregard
 
-(84) [not yet translated]
+(84) The Bhaṭṭa’s explanations of the name and the rest were all nearly worthless (*phalgu*). Knowing this, the all-knowing Lord disregarded them.
 
 বিমনা হঞা ভট্ট গেলা নিজ-ঘর ৷  
 প্রভু-বিষয়ে ভক্তি কিছু হইল অন্তর ॥ ৮৫ ॥
 
 vimanā hañā bhaṭṭa gelā nija-ghara  
-prabhu-viṣaye bhakti kichu haila antara
+dejected  becoming  the Bhaṭṭa  went  to his own  home  
+prabhu-viṣaye bhakti kichu haila antara  
+toward the Lord  devotion  somewhat  became  removed
 
-(85) [not yet translated]
+(85) Dejected, the Bhaṭṭa went home, and his devotion to the Lord partly ebbed away.
 
 তবে ভট্ট গেলা পণ্ডিত-গোসাঞির ঠাঞি ৷  
 নানা মতে প্রীতি করি’ করে আসা-যাই ॥ ৮৬ ॥
