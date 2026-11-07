@@ -1,0 +1,408 @@
+# English translation, Antya-līlā 9 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya09.txt, ed/en/work/Antya09.p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–76; shift 2: 77–153.
+
+## 0
+tr: The Deliverance of Gopīnātha Paṭṭanāyaka
+
+## 1
+w: countless  blessed  of Caitanya’s
+w: associates  by the flood of love
+w: was brought  of unfortunate  people  the hearts’
+w: desert  forever  to the state of a well-watered land
+tr: By the flood of their love, the countless blessed associates of Śrī Caitanya have turned the desert of unfortunate hearts forever into a well-watered land.
+fn: Heading in the edition: by the mercy of Gaura’s devotees even lowly worldly people (*viṣayīs*) attain love for Kṛṣṇa. *Anubhāṣya*: the unfortunate are low people devoid of bhakti; their hearts are a waterless desert, and the flood of prema is a river overflowing its banks.
+
+## 2
+w: glory  glory  to Śrī Kṛṣṇa Caitanya  the merciful
+w: glory  glory  to Nityānanda  whose heart is compassionate
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya, the merciful! Glory, glory to Nityānanda, whose heart is full of compassion!
+fn: The first line is the same as Madhya 1.188; translated as there.
+
+## 3
+w: glory to Advaitācārya  glory  glory  the merciful
+w: glory  to Gaura’s devotees  all  full of rasa
+tr: Glory to Advaitācārya; glory, glory to the merciful one! Glory to all the devotees of Gaura, who are full of rasa!
+
+## 4
+w: thus  Mahāprabhu  with the devotees
+w: in Nīlācala  residence  makes  in the joy of love for Kṛṣṇa
+tr: In this way Mahāprabhu lived in Nīlācala with His devotees, in the joy of love for Kṛṣṇa.
+
+## 5
+w: within and without  of separation from Kṛṣṇa  the waves
+w: by various  bhāvas  agitated  the Lord’s  mind  and  body
+tr: Within and without, waves of separation from Kṛṣṇa surged, and the Lord’s mind and body were restless with many kinds of *bhāva*.
+
+## 6
+w: by day  dancing and kīrtana  seeing Jagannātha
+w: at night  Rāya and Svarūpa  with  the relishing of rasa
+tr: By day He danced and sang kīrtana and beheld Jagannātha; by night He relished rasa with Rāya and Svarūpa.
+
+## 7
+w: of the three worlds  the people  coming  make  darśana
+w: whoever  sees  he  gains  the treasure of love for Kṛṣṇa
+tr: People of the three worlds came to see Him, and whoever saw Him gained the treasure of love for Kṛṣṇa.
+
+## 8
+w: of humans  in the guise  devas, gandharvas and kinnaras
+w: of the seven nether worlds  all  the Daityas  the Nāgas
+tr: Devas, gandharvas and kinnaras came in human guise, and so did all the Daityas and Nāgas of the seven nether worlds.
+fn: *Anubhāṣya*: *viṣadhara* — the world of the Nāgas (Nāgaloka).
+
+## 9
+w: on the seven dvīpas  in the nine khaṇḍas  dwell  all  the people
+w: in various guises  coming  make  of the Lord  darśana
+tr: All who dwell on the seven island-continents (*dvīpas*) and in the nine regions (*khaṇḍas*) came in many guises to see the Lord.
+fn: *Anubhāṣya*: see Antya 2.10 (the seven dvīpas and the nine khaṇḍas of Bhārata-varṣa).
+
+## 10
+w: Prahlāda  Bali  Vyāsa  Śuka  and other  sages
+w: coming  the Lord  seeing  in love  become  unconscious
+tr: Sages such as Prahlāda, Bali, Vyāsa and Śuka came, and on seeing the Lord they lost consciousness in love.
+
+## 11
+w: outside  cry aloud  the people  darśana  not  getting
+w: “Kṛṣṇa  say”  says  the Lord  outside  coming
+tr: Outside, the people who could not see Him cried out aloud; then the Lord would come out and say, “Say ‘Kṛṣṇa’!”
+
+## 12
+w: of the Lord  at the sight  all  people  in love  float
+w: in this way  pass  the Lord’s  nights  days
+tr: At the sight of the Lord all the people were swept away in love. In this way the Lord’s days and nights passed.
+
+## 13
+w: one day  people  coming  to the Lord  reported
+w: Gopīnātha  the Baḍa  Jānā  onto the cāṅga  has raised
+tr: One day people came and reported to the Lord, “The Baḍa Jānā, the eldest prince, has raised Gopīnātha onto the *cāṅga*, the platform of execution.
+fn: *Amṛta-pravāha-bhāṣya*: the Baḍa Jānā is the eldest son of the mahārāja of Orissa, the *yuvarāja* (heir to the throne); the cāṅga is a platform used for a particular kind of execution: naked swords were set beneath it, and the condemned man was thrown down onto them. Heading in the edition: the Lord is told that Pratāparudra’s son means to put Gopīnātha, the son of Bhavānanda, to death.
+
+## 14
+w: below  swords  setting  him  from above  they will throw
+w: the Lord  protection  makes  if  then  he will be saved
+tr: They have set swords beneath it and will throw him down onto them from above. Only if You, Lord, protect him will he be saved.
+
+## 15
+w: with his whole family  Your  servant  Bhavānanda Rāya
+w: his  son  Your  servant  to protect  it is fitting
+tr: Bhavānanda Rāya and his whole family are Your servants. His son is Your servant, and it is fitting that You protect him.”
+
+## 16
+w: the Lord  says  the king  why  does  punishing
+w: then  those  people  told  the whole  account
+tr: The Lord asked, “Why is the king punishing him?” Then the people told Him the whole story.
+
+## 17
+w: Gopīnātha Paṭṭanāyaka  Rāmānanda’s brother
+w: always  is  he  a keeper of the king’s property  so
+tr: “Gopīnātha Paṭṭanāyaka, Rāmānanda’s brother, has always been a keeper of the king’s property (*rāja-viṣayī*).
+
+## 18
+w: in Mālajāṭhyā Daṇḍapāṭa  his  charge
+w: collecting  levying  bringing  the money  he gave  at the king’s court
+tr: His charge was Mālajāṭhyā Daṇḍapāṭa. He collected the revenue there and delivered it to the king’s court.
+fn: *Amṛta-pravāha-bhāṣya*: Mālajāṭhyā-daṇḍapāṭa is the district where Gopīnātha Paṭṭanāyaka was *tahsildār* (revenue collector).
+
+## 19
+w: two lakhs  of kāhanas  him  from  outstanding  became
+w: two lakhs  of kāhanas  of cowries  the king  indeed  demanded
+tr: Two lakhs of kāhanas were left outstanding against him, and the king demanded the full two lakhs of kāhanas of cowries.
+fn: *Amṛta-pravāha-bhāṣya*: of the money he had paid to the king, two lakhs of kāhanas of cowries were missing; a kāhana is 1,280 cowries.
+
+## 20
+w: he  says  ready wealth  there is not  that  I could give
+w: little by little  selling  buying  the money  I will make good
+tr: He said, ‘I have no large sum in hand to pay it all at once. Little by little, by selling and buying, I will make good the money.
+fn: *Anubhāṣya*: *sthūla-dravya* — valuable property or a large sum of money, with which a debt can be paid off at once.
+
+## 21
+w: horses  ten or twelve  there are  take them  a value  setting
+w: this  saying  the horses  he brings  to the king’s gate  leading
+tr: I have ten or twelve horses; take them at a fair valuation.’ Saying this, he led the horses to the king’s gate.
+
+## 22
+w: one  prince  of horses  the value  well  knows
+w: him  sent  the king  ministers and friends  with
+tr: One prince knew the value of horses well, and the king sent him there with ministers and companions.
+
+## 23
+w: that  prince  the value  makes  lowering
+w: Gopīnātha’s  anger  arose  the value  hearing
+tr: That prince set the value low, and Gopīnātha grew angry when he heard the price.
+
+## 24
+w: of that  prince  the habit  his neck  he turns
+w: with face upward  again and again  here and there  looks
+tr: That prince had a habit: he would turn his neck and, with his face upward, look here and there again and again.
+
+## 25
+w: him  mockery  making  he spoke  with proud  words
+w: the king  favour  shows  him  fear  not  feels
+tr: Mocking him, Gopīnātha spoke proud words; the king favoured him, so he felt no fear.
+
+## 26
+w: my  horse  its neck  raises  upward  does not  look
+w: therefore  of the horse  the value  low  to make  not  is fitting
+tr: ‘My horse raises its neck, but it does not look upward. So it is not right to set its price low.’
+
+## 27
+w: hearing  in the prince’s mind  anger  arose
+w: the king  to  going  much  slander  he made
+tr: Hearing this, the prince grew angry. He went to the king and slandered Gopīnātha at length:
+
+## 28
+w: the money  not  will give  this man  goes about  pretexts  making
+w: order  give  on the cāṅga  raising  let me take  the money
+tr: ‘This man will not pay the money; he goes about making excuses. Give the order, and I will raise him onto the *cāṅga* and get the money.’
+
+## 29
+w: the king  said  whatever  is good  do  that  going
+w: by which  means  the money  I get  use  that  means
+tr: The king said, ‘Go and do whatever is best. By whatever means I may get the money, use that means.’
+
+## 30
+w: the prince  coming  him  on the cāṅga  raised
+w: onto the swords  to throw  below  swords  he set
+tr: The prince came and had him raised onto the cāṅga, and beneath it he set swords, to throw him down onto them.”
+
+## 31
+w: hearing  the Lord  said  somewhat  showing  affectionate anger
+w: the king’s money  to give  he will not  the king’s  what  fault
+tr: Hearing this, the Lord spoke with a show of affectionate anger: “He will not pay the king’s money; what fault is there in the king?
+fn: Heading in the edition: the Lord shows His detachment (*nirapekṣatā*) and rebukes Gopīnātha. *Anubhāṣya*: *dite nāre* — “he is unwilling to give”.
+
+## 32
+w: the king’s revenue  collecting  he consumes  no  fear of the king
+w: to harlots and dancers  giving  he makes  various  expenses
+tr: He collects the king’s revenue and consumes it without any fear of the king, squandering it in various ways on harlots and dancers.
+
+## 33
+w: whoever  is clever  let him  do  the king’s service
+w: the king’s dues  paying off  what he gets  that  let him make  expense
+tr: Let one who is clever do the king’s service: when he has paid off the king’s dues, let him spend what is left to him.”
+
+## 34
+w: at this time  another  man  came  running
+w: Vāṇīnātha and the others  with their families  taking  went  binding
+tr: Just then another man came running: “Vāṇīnātha and the others have been bound and taken away with their families!”
+
+## 35
+w: the Lord  said  the king  himself  the recorded  money  will take
+w: I  a detached  sannyāsī  in that  what  shall I do
+tr: The Lord said, “The king himself will take the money that stands on the account. I am a detached sannyāsī; what can I do in this?”
+fn: Heading in the edition: setting the example of a sannyāsī’s dharma, the Lord shows indifference, or detachment, towards talk of worldly affairs.
+
+## 36
+w: then  Svarūpa and the others  of Gosāñi  the devotees
+w: of the Lord  at the feet  all  made  entreaty
+tr: Then Svarūpa and the other devotees of the Lord all made an entreaty at His feet:
+
+## 37
+w: Rāmānanda Rāya’s  family  all  Your  servants
+w: for You  fitting  is not  such  indifference
+tr: “The family of Rāmānanda Rāya are all Your servants. Such indifference is not fitting for You.”
+
+## 38
+w: hearing  Mahāprabhu  spoke  with angry  words
+w: Me  order  you give  all  I should go  to the king’s place
+tr: Hearing this, Mahāprabhu spoke angrily: “So you all order Me to go to the king’s court!
+
+## 39
+w: of you all  this  opinion  to the king  going
+w: the money  begging  I should take  the end of My cloth  spreading
+tr: This is what you all think: that I should go to the king, spread out the end of My cloth and beg the money from him.
+
+## 40
+w: of five gaṇḍās  the recipient  is  a sannyāsī  brāhmaṇa
+w: if he begs  even  why  would he give  two lakhs  of kāhanas
+tr: A sannyāsī brāhmaṇa is fit to receive at most five gaṇḍās, twenty cowries. Even if I begged, why would anyone give two lakhs of kāhanas?”
+fn: *Anubhāṣya*: a sannyāsī brāhmaṇa is one who has no money, has given up worldly things and lives on alms. Heading in the edition: it is not fitting for a sannyāsī to meddle in worldly affairs.
+
+## 41
+w: at this time  another  man  came  running
+w: of the swords  onto  Gopīnātha  they are  throwing down
+tr: Just then another man came running: “They are throwing Gopīnātha down onto the swords!”
+
+## 42
+w: hearing  the Lord’s  associates  the Lord  make  entreaty
+w: the Lord  said  I  a beggar  Me  from  anything  is not
+tr: Hearing this, the Lord’s associates entreated Him, but the Lord said, “I am a beggar; I can do nothing.
+fn: Heading in the edition: the devotees pray to the Lord to save Gopīnātha, but to teach the people the Lord remains unbendingly detached.
+
+## 43
+w: therefore  protection  to give  if  it is  in all your  minds
+w: all  together  go  of Jagannātha  to the feet
+tr: So if you all have it in mind to save him, go together to the feet of Jagannātha.
+
+## 44
+w: the Lord  Jagannātha  in whose  hands  all  ends
+w: to do  not to do  otherwise  to do  able
+tr: Jagannātha is Īśvara, the Lord Himself, and all things are in His hands. He is able to do, not to do, or to do otherwise.”
+fn: *Amṛta-pravāha-bhāṣya*: He alone has the power to do a thing, not to do it, or to do it otherwise. The word ‘*artha*’ is set off in the text: it means both “every matter” and “wealth”.
+
+## 45
+w: here  when  Mahāprabhu  this much  said
+w: Haricandana Pātra  going  to the king  said
+tr: While Mahāprabhu was saying this, Haricandana Pātra went and spoke to the king:
+
+## 46
+w: Gopīnātha Paṭṭanāyaka  servant  your
+w: of a servant  the death penalty  is not  proper practice
+tr: “Gopīnātha Paṭṭanāyaka is your servant, and to put a servant to death is not proper conduct.
+
+## 47
+w: especially  him  from  money  outstanding  is
+w: life  if you take  what  gain  your own  loss of wealth
+tr: Besides, he still owes you money. What would you gain by taking his life? Only the loss of your own wealth.
+
+## 48
+w: at the proper  value  the horses  take  whatever  outstanding  is
+w: little by little  he will give  needlessly  life  why  take
+tr: Take the horses at their proper value; whatever remains he will pay little by little. Why take his life needlessly?”
+
+## 49
+w: the king  said  this  matter  I  not  know
+w: life  why  should I take  his  money  want  I
+tr: The king said, “I know nothing of this. Why should I take his life? It is his money I want.
+
+## 50
+w: you  going  make  there  all  settlement
+w: the money  so that  comes  and  remains  his  life
+tr: Go there and settle everything, so that the money comes in and his life is spared.”
+
+## 51
+w: then  Haricandana  coming  to the Jānā  told
+w: the cāṅga  from  Gopīnātha  quickly  brought down
+tr: Then Haricandana came and told the prince, and Gopīnātha was quickly brought down from the cāṅga.
+
+## 52
+w: the money  give  the king  demands  the means  he asked
+w: at the proper value  the horses  take  he  indeed  said
+tr: “The king demands the money,” Haricandana said, and asked him how he would pay. Gopīnātha replied, “Take the horses at their proper value.
+
+## 53
+w: little by little  I will give  and  whatever  anything  I can
+w: without inquiry  life  you take  what  to say  can I
+tr: The rest I will pay little by little, whatever I can. If you take my life without inquiry, what can I say?”
+
+## 54
+w: proper  value  setting  then  the horses  all  they took
+w: of the remaining  money  a fixed term  making  home  they sent
+tr: Then they valued the horses properly and took them all, and, binding him to pay the rest of the money by a fixed date, they sent him home.
+fn: *Amṛta-pravāha-bhāṣya*: *muddatī kari’* — making him pledge to pay the money by an appointed date.
+
+## 55
+w: here  the Lord  that  man  a question  asked
+w: Vāṇīnātha  what  does  when  binding  they brought
+tr: Meanwhile the Lord asked that man, “What was Vāṇīnātha doing when they bound him and took him away?”
+
+## 56
+w: he  said  Vāṇīnātha  fearlessly  takes  Kṛṣṇa’s name
+w: Hare  Kṛṣṇa  Hare  Kṛṣṇa  he says  without rest
+tr: He said, “Vāṇīnātha was fearlessly chanting the name of Kṛṣṇa, saying ‘Hare Kṛṣṇa, Hare Kṛṣṇa’ without rest.
+
+## 57
+w: of the count  for the sake  on both hands  on the fingers  marking
+w: a thousand and so on  complete  when  on his body  he scratches  a line
+tr: To keep count, he marked the names on the fingers of both hands, and each time a thousand were complete, he scratched a line on his body.”
+fn: *Anubhāṣya*: this shows that every sādhaka who has taken full shelter of the holy name should chant the mahā-mantra “Hare Kṛṣṇa”, firmly keeping a vow of number, in all circumstances — in happiness and in distress, in plenty and in hardship.
+
+## 58
+w: hearing  Mahāprabhu  became  supremely  joyful
+w: who  to understand  can  Gaura’s  of mercy  in disguise  the arrangement
+tr: Hearing this, Mahāprabhu was supremely joyful. Who can fathom the mercy of Gaura, veiled beneath another guise?
+fn: The Gauḍīya Maṭha edition reads কৃপা-ছদ্মবন্ধ (another reading is ছন্দবন্ধ): *kṛpā-chadma* — mercy hidden under the guise of something else: outwardly the Lord refused to intervene, yet His mercy was at work. *Anubhāṣya*: *kṛpā-chadma-bandha* — a turn of events arranged from above under the guise of grace. *Amṛta-pravāha-bhāṣya* (summary of the chapter): the Lord saved and raised Gopīnātha, showing him mercy in the guise of something else.
+
+## 59
+w: at this time  Kāśī Miśra  came  to the Lord’s place
+w: the Lord  to him  spoke  some  anxious words
+tr: At that time Kāśī Miśra came to the Lord, and the Lord spoke to him with some anxiety:
+
+## 60
+w: here  to stay  I cannot  I will go  to Ālālanātha
+w: many  disturbances  here  not  I get  peace
+tr: “I cannot stay here; I shall go to Ālālanātha. There are many disturbances here, and I find no peace.
+
+## 61
+w: Bhavānanda Rāya’s  family  does  the king’s service
+w: in various ways  make  they  the king’s money  expense
+tr: The family of Bhavānanda Rāya is in the king’s service, and in various ways they spend the king’s money.
+
+## 62
+w: the king’s  what  fault  the king  his own money  wants
+w: to give  they will not  the money  the punishment  to Me  they report
+tr: What fault is the king’s? The king wants his own money. They will not give the money, and then they report their punishment to Me.
+
+## 63
+w: the king  Gopīnātha  when  on the cāṅga  raised
+w: four times  people  coming  to Me  reported
+tr: When the king had Gopīnātha raised onto the *cāṅga*, people came four times to tell Me.
+
+## 64
+w: a mendicant  sannyāsī  I  living in solitude
+w: to Me  pain  they give  their own troubles  telling  coming
+tr: I am a mendicant *sannyāsī* who lives in solitude, yet they come and pain Me by telling Me their own troubles.
+
+## 65
+w: today  him  Jagannātha  made  protection
+w: tomorrow  who  will protect  if  not  he gives  the king’s wealth
+tr: Today Jagannātha has protected him; but tomorrow who will protect him if he does not pay the king’s money?
+
+## 66
+w: of worldly men  the news  hearing  disturbed  becomes  the mind
+w: therefore  here  staying  My  is no  purpose
+tr: Hearing the affairs of worldly men disturbs My mind, and so I have no reason to stay here.”
+
+## 67
+w: Kāśī Miśra  said  the Lord’s  holding  feet
+w: You  why  over this  matter  agitation  make  in the mind
+tr: Clasping the Lord’s feet, Kāśī Miśra said, “Why do You let this matter trouble Your mind?
+
+## 68
+w: a detached  sannyāsī  Your  with whom  relationship
+w: worldly dealings  for the sake of  You  worships  he  blind to knowledge
+tr: You are a detached *sannyāsī* — what connection have You with anyone? One who worships You for worldly ends is blind to true knowledge.
+fn: *Anubhāṣya*: *vyavahāra* — livelihood or worldly enjoyment; one who seeks help from Viṣṇu or the Vaiṣṇavas for his own worldly ends lacks the eyes of knowledge. Heading in the edition (to 68–69): to ask Viṣṇu for fruits to gratify one’s own senses, and not to please Viṣṇu, is folly and mere trade.
+
+## 69
+w: of Your  worship  as the fruit  for You  the treasure of love
+w: worldly things  for the sake of  You  worships  that  foolish  person
+tr: The fruit of worshipping You is the treasure of love for You. One who worships You for the sake of worldly things is a fool.
+
+## 70
+w: You  for the sake of  Rāmānanda  the kingdom  renunciation  made
+w: You  for the sake of  Sanātana  his worldly position  gave up
+tr: For Your sake Rāmānanda gave up his governorship; for Your sake Sanātana abandoned his worldly position.
+
+## 71
+w: You  for the sake of  Raghunātha  everything  gave up
+w: here  his  father  wealth  sent
+tr: For Your sake Raghunātha gave up everything, and his father sent him wealth here.
+
+## 72
+w: Your  the mercy of the feet  has come  to him
+w: at the alms-house  begging  he eats  the wealth  touch  not  does
+tr: But the mercy of Your feet has come to him: he begs his food at the alms-house and does not touch that wealth.
+
+## 73
+w: Rāmānanda’s  brother  the noble Gopīnātha
+w: You  from  desire for worldly gain  his  wish  is not
+tr: The noble Gopīnātha, Rāmānanda’s brother, has no wish for worldly gain from You.
+
+## 74
+w: his  distress  seeing  his  servants and others
+w: to You  they reported  since  having no other shelter
+tr: Seeing his distress, his servants and others told You of it, for he has no shelter but You (*ananya-śaraṇa*).
+
+## 75
+w: he  a pure devotee  who  You  worships  You  for the sake of
+w: his own  in happiness and distress  is  the sharer of the experience
+tr: He is a pure devotee who worships You for Your own sake; in happiness and in distress he himself tastes the lot that falls to him.
+fn: The Gauḍīya Maṭha edition reads ভোগ-ভাগী, “one who takes his share” (another reading is ভোগ-ভোগী, “an enjoyer”): the second line speaks of the same pure devotee, who in happiness and distress himself accepts the fruit of his own deeds without asking the Lord to free him (cf. verse 77, *bhuñjāna evātma-kṛtaṁ vipākam*). Heading in the edition: the definition of a pure devotee.
+
+## 76
+w: Your  mercy  he seeks  he worships  constantly
+w: soon  is attained  by him  Your  feet
+tr: He longs for Your mercy and worships You constantly; soon he attains Your feet.
+
