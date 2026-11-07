@@ -14,7 +14,7 @@ Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāpra
 
 ## 14
 
-*Bhāsa* — even a mere semblance (*ābhāsa*).[^14-1]
+*Bhāsa* — even a mere semblance (*ābhāsa*).
 
 ## 24
 
@@ -34,7 +34,7 @@ Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāpra
 
 ## 48
 
-*Kalpita nindana* — a falsely imputed accusation.[^48-1]
+*Kalpita nindana* — a falsely imputed accusation.
 
 ## 65–66
 
@@ -60,8 +60,5 @@ Of an earlier and a later injunction, the later is the stronger.
 
 ---
 
-[^14-1]: In the verse translation, otherwise: “Can one who cannot restrain his tongue become detached?”; the commentator: there is not even a semblance of renunciation in him.
-
 [^24-1]: In the verse translation, otherwise: “This offense against his teacher awakened many worldly desires in Rāmacandra Purī”; for the commentator, *vāsanā* is the desire for dry knowledge.
 
-[^48-1]: The verse translation leaves the word *kalpita* (“fabricated”) untranslated: “Now He heard it Himself.”

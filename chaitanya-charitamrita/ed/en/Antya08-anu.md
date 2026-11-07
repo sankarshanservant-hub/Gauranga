@@ -186,7 +186,7 @@ Mahāprabhu is Svayam Bhagavān, the complete and faultless form, beyond such ma
 
 ## 50
 
-> Subheading: Hearing Himself blamed, the Lord, in the role of the *ācārya*, the guru of the world, feels fear and shame —[^50-1]
+> Subheading: Hearing Himself blamed, the Lord, in the role of the *ācārya*, the guru of the world, feels fear and shame —
 
 ## 51
 
@@ -365,7 +365,5 @@ In the verse *para-svabhāva…* we find an earlier injunction, “do not praise
 *Thus ends the eighth chapter of the “Anubhāṣya.”*
 
 ---
-
-[^50-1]: In the verse translation, otherwise: “some anxiety and doubt arose in Śrī Caitanya's mind”; in the subheading *saṅkoca* is understood as shame.
 
 [^82-1]: It is not clear from the text who this *ācārya* in a renunciant's dress is; from the course of the story, probably Paramānanda Purī, who together with the devotees appeals to the Lord (vv. 69–81). Another reading is also possible: the “ācārya in a renunciant’s dress” is the Lord Himself, who, accepting the reproach, thereby teaches others (cf. subheadings 50 and 61).
