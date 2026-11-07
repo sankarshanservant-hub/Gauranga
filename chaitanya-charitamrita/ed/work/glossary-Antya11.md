@@ -1,0 +1,22 @@
+# Новые термины: Антья 11 (комментарии; RU / EN)
+
+- ব্রহ্ম হরিদাসঠাকুর (APB, Краткое содержание) → Брахма Харидас Тхакур / Brahma Haridāsa Ṭhākura.
+- সমাধিস্থ করা, সমাধি-প্রদান (о Харидасе) → положить в самадхи, предать самадхи (погребение святого) / lay in *samādhi*; giving *samādhi*.
+- সংস্থিত, সমাধিপ্রাপ্ত (о теле Харидаса, Ану 1) → ушедшее в самадхи / which had entered *samādhi*.
+- পরিত্যক্তদেহ → оставленное тело / the body he had left.
+- চৌতারা → чаутара (возвышение над самадхи) / *cautārā* (platform).
+- বিজয়মহোৎসব (Харидаса) → праздник ухода (виджая-махотсава) / the festival of departure (*vijaya-mahotsava*).
+- অন্তর্দ্ধান-লীলা → игра ухода (антардхана-лила) / the pastime of departure (*antardhāna-līlā*).
+- রঞ্চ → ранча, крупица / *rañca*, a particle.
+- গৌরদেহ (Ану 5) → гаура-деха: тот, чьё тело сияет золотистым цветом / *gaura-deha*: He whose body shines with a golden hue.
+- চৈতন্যের আর্য্য → «Чайтаньера арья», почитаемый Махапрабху / *Caitanyera ārya*, the one whom Mahāprabhu honors.
+- লঙ্ঘন (пост) → поститься / to fast.
+- নামাশ্রিত সাধক → садхака, принявший прибежище святого имени / a *sādhaka* who has taken shelter of the holy name.
+- সাধনাভিনয় → садхана, которую он лишь являет (садхана-абхиная) / the practice he merely enacts (*sādhanābhinaya*).
+- নির্ব্বন্ধ (о числе имён) → твёрдый обет / a firm vow.
+- ব্রাহ্মণাপসদ, পঙ্‌ক্তিদূষক → низшие из брахманов (брахманапасада), осквернители ряда (панкти-душака) / the lowest of brāhmaṇas (*brāhmaṇāpasada*), defilers of the row (*paṅkti-dūṣaka*).
+- শ্রাদ্ধপাত্র → шраддха-патра, блюдо с трапезы шраддхи / *śrāddha-pātra*, the plate of the *śrāddha* feast.
+- দৈক্ষবিপ্র → брахман по посвящению (дайкша-випра) / a brāhmaṇa by initiation (*daikṣa-vipra*); হরিজন → «слуга Хари» (хари-джана) / “servant of Hari” (*hari-jana*).
+- পাষাণদ্রাবক → от которых растаял бы камень / which would melt a stone.
+- তদ্দাসাভাস → лишь подобие Его слуги / a mere semblance of His servant.
+- Книги: “Вишну-смрити” / *Viṣṇu-smṛti*.
