@@ -46,7 +46,7 @@ See Antya 10.5 and 10.8.
 
 > Subheading: The well-to-do Śivānanda pays the road toll and serves the devotees by guiding them —
 
-*Ghāṭī-samādhāna* (settling matters at the toll post). When pilgrims or travellers passed through a *zamindar's* estate (*mahāl*), a toll was levied on them. In former times road taxes and the like were not collected, so this toll went to the owners of the roads and landings. At each post Śivānanda Sena paid the toll collectors (*ghāṭoyālas*) the road toll owed by the pilgrims to Jagannātha.
+*Ghāṭī-samādhāna* (settling matters at the toll post). When pilgrims or travellers passed through a *zamindar's* estate (*mahāl*), a toll was levied on them. In former times road taxes and the like were not collected [by the state], so this toll went to the owners of the roads and landings. At each post Śivānanda Sena paid the toll collectors (*ghāṭoyālas*) the road toll owed by the pilgrims to Jagannātha.
 
 ## 16
 
