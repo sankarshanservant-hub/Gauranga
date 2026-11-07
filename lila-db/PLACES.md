@@ -44,7 +44,7 @@
 | #panchavati | Панчавати | Panchavati | на Годавари; лес изгнания Рамы |
 | #ranga-kshetra | Ранга-кшетра (Шрирангам) | Ranga-kshetra (Shrirangam) | на Кавери; Ранганатха |
 | #setubandha | Сетубандха (Рамешварам) | Setubandha (Rameshvaram) | мост Рамы; линга Рамешвары |
-| #alalanatha | Алаланатха (Брахмагири) | Alalanatha (Brahmagiri) | к югу от Пури |
+| #alalanatha | Алаланатха (Брахмагири) | Alalanatha (Brahmagiri) | к западу от Пури (≈ 20 км; «Анубхашья» к ЧЧ Ади 10.131 — шесть крош) |
 | #kanai-natashala | Натшала Канаи (Канаи-Натшала) | Kanai-Natyashala (Kanair Natashala) | селение на пути из Бенгалии к Матхуре (у Раджмахала); отсюда Господь повернул назад |
 | #jharikhanda | Джхарикханда (лесной край) | Jharikhanda (the forest country) | лесная область между Ориссой и Каши; путь Господа во Вриндаван |
 | #gokula | Гокула (Махавана) | Gokula (Mahavana) | на восточном берегу Ямуны напротив Матхуры |
