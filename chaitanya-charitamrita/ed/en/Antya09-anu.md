@@ -170,7 +170,7 @@ We learn from this that every *sādhaka* who has taken exclusive shelter of the 
 
 > Subheading: Hearing this, the Lord rejoices —
 
-*Kṛpā-chadma-bandha* — a train of events arranged from above that serves as a pretext for His mercy.
+*Kṛpā-chadma-bandha* — a train of events arranged from above in the guise (literally, “under the pretext”) of mercy.
 
 ## 59
 
