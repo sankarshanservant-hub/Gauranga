@@ -1828,7 +1828,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^37]: *Amṛta-pravāha-bhāṣya*: Śrīdhara Svāmī explains each statement just as it stands where it occurs, and so, Vallabha says, there is no unity of meaning in him. The word ‘Svāmī’ is taken up by the Lord in the next verse.
 
-[^38]: A pun: *svāmī* means both Śrīdhara Svāmī and “husband, master”; the Lord answers with Vallabha’s own words (110) and continues the image of the faithful wife (99–103). Heading in the edition: the Lord upholds the commentary of Śrīdhara Svāmī, “the sole guardian of bhakti”; only Śrīdhara accepts Viṣṇu, the one Spirit, as Lord (*svāmī*), while his opponent, who mixes spirit and matter, is the one who is wayward.
+[^38]: A play on words: *svāmī* means both Śrīdhara Svāmī and “husband, master”; the Lord answers with Vallabha’s own words (110) and continues the image of the faithful wife (99–103). Heading in the edition: the Lord upholds the commentary of Śrīdhara Svāmī, “the sole guardian of bhakti”; only Śrīdhara accepts Viṣṇu, the one Spirit, as Lord (*svāmī*), while his opponent, who mixes spirit and matter, is the one who is wayward.
 
 [^39]: Heading in the edition: by disregard, dishonour and other dealings unpleasant to the senses, the Lord, partial to no one, frees the scholar who has turned from Him of arrogance and envy.
 
