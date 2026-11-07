@@ -8,7 +8,7 @@
 
 ## 5
 
-*Gaura-deha* — He whose body shines with a golden hue.[^5-1]
+*Gaura-deha* — He whose body shines with a golden hue.
 
 ## 7
 
@@ -310,6 +310,3 @@ At the site of Haridāsa Ṭhākura's *samādhi*, a little more than a hundred y
 
 *Thus ends the eleventh chapter of the “Anubhāṣya.”*
 
----
-
-[^5-1]: In the verse translation, otherwise: “Glory to the spiritual body of Śrī Caitanya. He is Śrī Kṛṣṇa, the Supreme Lord Himself.” The *Anubhāṣya* takes *gaura-deha* as an epithet of Kṛṣṇa: Kṛṣṇa whose body shines with a golden hue.
