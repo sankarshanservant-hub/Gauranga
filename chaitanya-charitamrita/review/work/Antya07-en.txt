@@ -1,0 +1,487 @@
+# English translation, Antya-līlā 7 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya07.txt, .p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–85; shift 2: 86–169.
+
+## 0
+tr: The Meeting with Vallabha Bhaṭṭa
+
+## 1
+w: of Caitanya  of the lotus feet
+w: the honey  who lick  I worship
+w: whose  by the mercy alone
+w: a wretch  even  immortal  becomes
+tr: I worship those who sip the honey of Śrī Caitanya’s lotus feet: by their mercy alone even a wretched soul becomes immortal.
+fn: *Anubhāṣya*: *pāmara* — a godless person, bereft of bhakti; *amara* — one who possesses a transcendental body. Heading in the edition: obeisance to the devotees of Gaura, the touchstone.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory to Advaitacandra  glory  of Gaura  the devotees  to the multitude
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra! Glory to all the devotees of Gaura!
+fn: The same verse as Ādi 4.2 (= Ādi 1.18, 17.2, Antya 2.2, 4.2, 6.2); translation as there.
+
+## 3
+w: in the next year  all  of Gauḍa  the devotees  came
+w: as before  Mahāprabhu  all  met
+tr: The next year all the devotees of Gauḍa came, and Mahāprabhu met them all as before.
+
+## 4
+w: in this way  pastimes  of the Lord  the devotees  with
+w: at that time  Vallabha Bhaṭṭa  met (Him)  coming
+tr: While the Lord was thus enjoying His pastimes with the devotees, Vallabha Bhaṭṭa came to meet Him.
+
+## 5
+w: coming  bowed  the Bhaṭṭa  of the Lord  at the feet
+w: the Lord  ‘regarding him as a bhāgavata’  gave  an embrace
+tr: Coming before the Lord, the Bhaṭṭa bowed at His feet, and the Lord embraced him, regarding him as a *bhāgavata*, a devotee.
+
+## 6
+w: honor  showing  the Lord  him  near  seated
+w: humility  showing  the Bhaṭṭa  to speak  began
+tr: Showing him honour, the Lord seated him near Himself, and the Bhaṭṭa humbly began to speak.
+
+## 7
+w: for many days  the desire  You  to see
+w: Jagannātha  fulfilled  I have seen  You
+tr: “For many days I have longed to see You. Jagannātha has fulfilled my desire: I have seen You.
+
+## 8
+w: Your  sight  who  obtains  he  fortunate
+w: You  I see  as if  directly  Bhagavān
+tr: Whoever obtains Your sight is fortunate. When I see You, it is as if I see Bhagavān Himself.
+
+## 9
+w: You  who  remembers  he  becomes  pure
+w: by the sight  pure  will become  in this  what  wonder
+tr: Whoever remembers You becomes pure. What wonder, then, that one becomes pure by seeing You?
+
+## 10
+w: of whom  by the remembrance  of men
+w: at once  become pure  indeed  the homes
+w: how much more  by seeing  touching
+w: washing the feet  offering a seat and so on
+tr: ‘When people merely remember such saints, their very homes become pure at once. How much more, then, when they see them and touch them, wash their feet and offer them a seat!’ (Śrīmad-Bhāgavatam, 1.19.33)
+fn: *Anubhāṣya*: Parīkṣit, resolved to fast until death, asked the assembled sages what the one duty of a dying man is; when Śrī Śukadeva arrived, Parīkṣit greeted him humbly with these words. “Homes” — even abodes of worldly enjoyment.
+
+## 11
+w: of the age of Kali  the dharma  of Kṛṣṇa’s name  the saṅkīrtana
+w: Kṛṣṇa’s power  without  is not  its  propagation
+tr: The dharma of the age of Kali is the saṅkīrtana of Kṛṣṇa’s name. Without Kṛṣṇa’s power no one can propagate it.
+fn: *Anubhāṣya*: without Kṛṣṇa’s direct will — the power of His mercy — no one can become an ācārya, the guru of the world, and establish the chanting of the pure name; the ācārya wholly devoted to chanting the name is a direct embodiment of Kṛṣṇa’s potency.
+
+## 12
+w: that  have propagated  You  this  indeed  ‘the proof’
+w: Kṛṣṇa’s power  bear  You  in this  there is not  otherwise
+tr: You have propagated it — that is the proof. You bear Kṛṣṇa’s power; of this there is no doubt.
+
+## 13
+w: in the world  have made  You  Kṛṣṇa’s name  manifest
+w: whoever  You  sees  he  in love for Kṛṣṇa  floats
+tr: You have made Kṛṣṇa’s name manifest in the world. Whoever sees You floats in love for Kṛṣṇa.
+
+## 14
+w: of prema  the manifestation  is not  Kṛṣṇa’s power  without
+w: ‘Kṛṣṇa’  the one  giver of prema  by the evidence of scripture
+tr: Without Kṛṣṇa’s power prema is not manifested. Kṛṣṇa alone is the giver of prema — so the scriptures testify.
+
+## 15
+w: let there be  avatāras  many
+w: of the lotus-naveled One  in every way  auspicious
+w: than Kṛṣṇa  other  who  indeed  to the creepers
+w: even  love  the giver  becomes
+tr: ‘Let there be many all-auspicious avatāras of the Lord whose navel is a lotus; but who other than Kṛṣṇa gives prema even to the creepers?’” (Laghu-bhāgavatāmṛta, 1.5.37)
+fn: The same verse as Ādi 3.27; translation, transliteration and word-for-word as there (the transliteration lines follow the quarters of the verse). Heading in the edition: *Laghu-bhāgavatāmṛta*, verse 303; the words of Bilvamaṅgala. *Anubhāṣya* and *Amṛta-pravāha-bhāṣya* (on Ādi 3.27): the “creepers” (*latā*) are those who have taken shelter of Him.
+
+## 16
+w: Mahāprabhu  says  listen  Bhaṭṭa  great-minded
+w: a Māyāvādī  sannyāsī  I  not  know  devotion to Kṛṣṇa
+tr: Mahāprabhu said, “Listen, wise Bhaṭṭa. I am a Māyāvādī sannyāsī; I do not know devotion to Kṛṣṇa.
+fn: Heading in the edition: the humility of Bhagavān, and His pretence.
+
+## 17
+w: Advaitācārya Gosāñi  ‘Īśvara Himself’
+w: His  in the company  My  mind  became  pure
+tr: Advaitācārya Gosāñi is Īśvara Himself, and in His company My mind became pure.
+
+## 18
+w: in all the scriptures  in devotion to Kṛṣṇa  there is not  whose  equal
+w: therefore  ‘Advaita Ācārya’  His  name
+tr: In all the scriptures and in devotion to Kṛṣṇa He has no equal; therefore His name is Advaita Ācārya, the peerless teacher.
+
+## 19
+w: by whose  mercy  of mlecchas  arises  devotion to Kṛṣṇa
+w: who  to tell  can  His  of Vaiṣṇava nature the power
+tr: By His mercy even mlecchas gain devotion to Kṛṣṇa. Who can describe the power of His Vaiṣṇava nature?
+
+## 20
+w: Nityānanda Avadhūta  ‘Īśvara Himself’
+w: by the madness of bhāva  intoxicated  of love for Kṛṣṇa  the ocean
+tr: Nityānanda Avadhūta is Īśvara Himself. Intoxicated with the madness of ecstatic emotion (*bhāva*), He is an ocean of love for Kṛṣṇa.
+
+## 21
+w: of the six darśanas  the knower  Bhaṭṭācārya Sārvabhauma
+w: in the six darśanas  the world’s guru  the best of bhāgavatas
+tr: Sārvabhauma Bhaṭṭācārya knows the six systems of philosophy (*darśanas*). In these six systems he is the guru of the world, and he is the best of bhāgavatas.
+
+## 22
+w: he  showed  Me  of bhakti-yoga  the farthest limit
+w: by his  grace  I came to know  ‘Kṛṣṇa-bhakti-yoga’  the essence
+tr: He showed Me the farthest limit of bhakti-yoga; by his grace I came to know that the yoga of devotion to Kṛṣṇa is the essence.
+
+## 23
+w: Rāmānanda Rāya  of the rasa of Kṛṣṇa  ‘the treasury’
+w: he  made known  Kṛṣṇa  Bhagavān Himself
+tr: Rāmānanda Rāya is a treasury of the rasa of Kṛṣṇa. He made Me understand that Kṛṣṇa is Bhagavān Himself.
+
+## 24
+w: through that  prema-bhakti  ‘the crown jewel of the goals of life’
+w: on the path of rāga  prema-bhakti  ‘the highest of all’  I know
+tr: Through him I came to know that prema-bhakti is the crown jewel of the goals of life (*puruṣārthas*), and that prema-bhakti on the path of spontaneous attraction (*rāga*) is the highest of all.
+fn: *Anubhāṣya*: prema-bhakti is higher than the four goals of life (dharma, artha, kāma and mokṣa) — it is the crown jewel of the puruṣārthas; service on the path of rāgānugā is higher than the worship of Kṛṣṇa on the path of rules (*vidhi*).
+
+## 25
+w: servitude,  friendship,  parental love,  and  which  the love of the beloved
+w: servant,  friend,  elder,  beloved  ‘the shelter’  of which
+tr: Servitude, friendship, parental love and the love of the beloved (*śṛṅgāra*) — of these the servant, the friend, the elder and the beloved are the shelter (*āśraya*).
+
+## 26
+w: ‘joined with knowledge of majesty’  ‘pure’ bhāva  and
+w: by knowledge of majesty  not  one attains  the son of the king of Vraja
+tr: There is bhāva joined with the knowledge of majesty, and there is pure (*kevala*) bhāva. By the knowledge of majesty one does not attain the son of the king of Vraja.
+fn: Heading in the edition: in the madhura-rasa there are two dispositions — in the cities, “mixed with majesty”; in Vraja, *kevala* (pure); the son of Yaśodā is attained only by the pure disposition of *parakīyā* proper to Vraja, not by the disposition of *svakīyā* mixed with majesty.
+
+## 27
+w: not  this  easily attained  Bhagavān
+w: for the embodied  of the gopī  the son
+w: for the jñānīs  and  for those who realized the self
+w: as  for those who have devotion  here
+tr: ‘This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.’ (Śrīmad-Bhāgavatam, 10.9.21)
+fn: The same verse as Madhya 8.226 (= 9.132, 24.82); translation as there. In this chapter the word *ātma-bhūtānām* is taken to mean “the associates” (v. 28): *Anubhāṣya* on 28 — Lakṣmī and the associates called *ātma-bhūta* are potencies non-different from Kṛṣṇa, yet Lakṣmī is full of the mood of majesty. In the edition the reference is “canto 10, chapter 9, verse 31”; in the standard numbering, 10.9.21.
+
+## 28
+w: ‘ātma-bhūta’  by the word  means  ‘the associates’
+w: in knowledge of majesty  Lakṣmī  not  attained  the son of the king of Vraja
+tr: The word *ātma-bhūta* means His associates. Because of her knowledge of His majesty, Lakṣmī did not attain the son of the king of Vraja.
+fn: *Anubhāṣya*: Lakṣmīdevī and the associates called *ātma-bhūta* are potencies non-different from Kṛṣṇa; even so, Lakṣmī is full of the mood of majesty and therefore did not gain the right to serve Vrajendra-nandana in the madhura-rasa. Heading in the edition: the meaning of a word of the verse; Lakṣmī has no right to take part in the rāsa dance.
+
+## 29
+w: not  this  of Śrī  on the chest  indeed  wholly attached  favour
+w: of the celestial women  of lotuses  the fragrance  having the lustre  how then  others
+w: at the festival of rāsa  His  by the arms  embraced  around the neck
+w: who obtained their desire  which  arose  of Vraja  the beautiful women
+tr: ‘At the festival of the rāsa dance He embraced the beautiful women of Vraja around their necks with His arms, and they attained their heart’s desire. Such favour was not granted even to Śrī, who is wholly devoted to Him, nor to the celestial women, fragrant and radiant like lotuses — what then of others?’ (Śrīmad-Bhāgavatam, 10.47.60)
+fn: The same verse as Madhya 8.80 (= 8.231, 9.121); translation as there.
+
+## 30
+w: in pure bhāva  the friend  does  on the shoulders  climbing
+w: in pure bhāva  the queen of Vraja  does  binding
+tr: In pure bhāva His friend climbs on His shoulders, and in pure bhāva the queen of Vraja binds Him.
+fn: *Anubhāṣya*: “in pure bhāva” — not enchanted or bound by the knowledge of majesty, but ruled by pure, unmixed (*kevala*) *rati*. Heading in the edition: the friendship (*sakhya*) and parental love (*vātsalya*) of the people of Vraja are *kevala*, that is, pure *rāgātmikā* bhakti.
+
+## 31
+w: ‘my  friend’,  ‘my  son’  this  ‘pure’  mind
+w: therefore  Śuka and Vyāsa  do  praise
+tr: ‘My friend,’ ‘my son’ — such is the pure mind. Therefore Śuka and Vyāsa praise it.
+
+## 32
+w: thus  for the sages  the experience of the bliss of Brahman
+w: servitude  for those who have attained  the Supreme Deity
+w: for those under māyā  a human boy
+w: with (Him)  played  who had amassed  of pious deeds  heaps
+tr: ‘Thus the cowherd boys, who had amassed heaps of pious deeds, played with Him who is to the sages the experience of Brahman’s bliss, to those who have taken up His service the Supreme Deity, and to those under the spell of *māyā* a human child.’ (Śrīmad-Bhāgavatam, 10.12.11)
+fn: The same verse as Madhya 8.75; translation as there. In the edition the reference is “canto 10, chapter 12, verse 21”; in the standard numbering, 10.12.11.
+
+## 33
+w: by the three Vedas  and by the Upaniṣads  and
+w: by Sāṅkhya and yoga  and  by the Sātvatas
+w: whose glory is sung
+w: Hari  she  considered  her son
+tr: ‘She looked upon Hari, whose glory is sung by the three Vedas, the Upaniṣads, the works on Sāṅkhya and yoga and the Sātvata scriptures, as her own son.’ (Śrīmad-Bhāgavatam, 10.8.45)
+fn: The same verse as Madhya 19.204; translation as there.
+
+## 34
+w: Nanda  what  did  O brāhmaṇa
+w: good deed  such  great fruit (bearing)
+w: Yaśodā  or  most fortunate
+w: drank  whose  breast  Hari
+tr: ‘O brāhmaṇa, what good deed did Nanda perform to win such great fortune? And what did the most fortunate Yaśodā do, that Hari Himself drank from her breast?’ (Śrīmad-Bhāgavatam, 10.8.46)
+fn: The same verse as Madhya 8.77; translation as there.
+
+## 35
+w: majesty  even on seeing  ‘the pure one’s’  of majesty  is not  awareness
+w: therefore  than majesty  ‘pure’ bhāva  superior
+tr: Even when he sees Kṛṣṇa’s majesty, one whose bhāva is pure has no awareness of it. Therefore pure bhāva is superior to the mood of majesty.
+
+## 36
+w: these  all  taught  Me  Rāya Rāmānanda
+w: those all  to hear  is  supreme  bliss
+tr: All this Rāya Rāmānanda taught Me, and to hear it is supreme bliss.
+fn: *Anubhāṣya*: some manuscripts read here *anargala rasa-vettā prema-sukhānanda* — “a boundless knower of rasa, full of the bliss of prema”. Heading in the edition: the Lord declares Rāya His instructing guru (*śikṣā-guru*).
+
+## 37
+w: to tell  not  is possible  Rāmānanda’s  power
+w: by Rāya’s grace  I came to know  of Vraja  the ‘pure’  bhāva
+tr: Rāmānanda’s power cannot be described. By Rāya’s grace I came to know the pure bhāva of Vraja.
+
+## 38
+w: Dāmodara Svarūpa  ‘the rasa of prema’  embodied
+w: whose  in the company  arose  of the madhura-rasa of Vraja  the knowledge
+tr: Dāmodara Svarūpa is the rasa of prema embodied. In his company I came to know the sweet rasa (*madhura-rasa*) of Vraja.
+
+## 39
+w: ‘pure prema’  of the goddesses of Vraja  of lust the scent  without
+w: ‘Kṛṣṇa’s happiness as the aim’  this  its  sign
+tr: The pure prema of the goddesses of Vraja is without even a trace of lust (*kāma*). Its sign is this: its only aim is Kṛṣṇa’s happiness.
+
+## 40
+w: which  Your  tender  lotus feet  on the breasts
+w: fearful  gently  O dear  we place  hard
+w: with them  the forest  You wander  they  are pained  not  whether
+w: by fine stones and such  whirls  the mind  of whom You are the life  our
+tr: ‘O dear one, Your tender lotus feet we place gently on our hard breasts, afraid to hurt them — and with those feet You wander through the forest! Are they not hurt by the sharp pebbles? You are our very life, and our minds are reeling.’ (Śrīmad-Bhāgavatam, 10.31.19)
+fn: The same verse as Ādi 4.173 (= Madhya 8.218, 18.65); translation as there.
+
+## 41
+w: husbands, sons, kin, brothers and relatives
+w: wholly disregarding  Your  to the side  O Acyuta  come
+w: knowing our purpose  by Your song  enchanted
+w: O cheat  women  who  would abandon  at night
+tr: ‘Disregarding husbands, sons, kin, brothers and relatives, we have come to Your side, O Acyuta, enchanted by Your song. You know why we have come. O cheat, who would abandon women at night?’ (Śrīmad-Bhāgavatam, 10.31.16)
+fn: The same verse as Madhya 19.210; translation as there. *Anubhāṣya*: another reading has here the couplet “The pure love of the gopīs is free of the knowledge of majesty; in love they scold Him — this is its sign.”
+
+## 42
+w: the highest  worship  this  every form of bhakti  surpassing
+w: therefore  Kṛṣṇa  says  ‘I  your  debtor’
+tr: This worship is the highest of all, surpassing every form of bhakti. Therefore Kṛṣṇa says, ‘I am your debtor.’
+
+## 43
+w: not  am able  I  of the faultlessly united
+w: own good deed  in a god’s lifetime  even  to you
+w: who  Me  worshipped  hard to conquer  of home  the fetters
+w: completely cutting  that  your  let it be requited  by the good deed
+tr: ‘O gopīs, your union with Me is faultless. Even in a lifetime of the gods I could not repay you for what you have done: you cut the fetters of home, so hard to break, and came to Me. So let your own good deed be your reward.’ (Śrīmad-Bhāgavatam, 10.32.22)
+fn: The same verse as Ādi 4.180 (= Madhya 8.92); translation as there.
+
+## 44
+w: of majesty  the knowledge  than  pure bhāva  superior
+w: on earth  devotee  there is not  Uddhava’s  equal
+tr: Pure bhāva is superior to the knowledge of majesty. On earth there is no devotee equal to Uddhava,
+
+## 45
+w: he  whose  the dust of the feet  does  pray for
+w: Svarūpa’s  in the company  I received  these  all  teachings
+tr: yet he prays for the dust of their feet. All this I learned in the company of Svarūpa.
+fn: *Anubhāṣya*: another reading cites here Uddhava’s prayer (Śrīmad-Bhāgavatam, 10.47.61): “Ah, if only I could be some bush, creeper or herb in Vṛndāvana that receives the dust of these gopīs’ feet!” — Uddhava, having accepted as his ideal the gopīs’ love, free of the knowledge of majesty, prays for eternal service to them.
+
+## 46
+w: Haridāsa Ṭhākura  of the great bhāgavatas  the foremost
+w: every  day  takes  he  three lakhs  names
+tr: Haridāsa Ṭhākura is the foremost of the great bhāgavatas. Every day he chants three lakhs (three hundred thousand) of names.
+
+## 47
+w: of the name  the glory  I  from him  learned
+w: by his  grace  of the name  the glory  I came to know
+tr: From him I learned the glory of the holy name; by his grace that glory was revealed to Me.
+
+## 48
+w: Ācāryaratna,  Ācāryanidhi,  Paṇḍita Gadādhara
+w: Jagadānanda,  Dāmodara,  Śaṅkara,  Vakreśvara
+tr: Ācāryaratna, Ācāryanidhi, Gadādhara Paṇḍita, Jagadānanda, Dāmodara, Śaṅkara, Vakreśvara,
+
+## 49
+w: Kāśīśvara,  Mukunda,  Vāsudeva,  Murāri
+w: and  all the  devotees  in Gauḍa  having descended
+tr: Kāśīśvara, Mukunda, Vāsudeva, Murāri and all the other devotees who descended in Gauḍa
+
+## 50
+w: of Kṛṣṇa’s name and prema  made  in the world  preaching
+w: of these  all  in the company  devotion to Kṛṣṇa  which  My
+tr: have preached the name of Kṛṣṇa and prema throughout the world, and whatever devotion to Kṛṣṇa I have, I have gained in their company.”
+fn: Heading in the edition: only in the company of a sādhu who himself follows pure bhakti and preaches it does the jīva attain devotion to Kṛṣṇa.
+
+## 51
+w: in the Bhaṭṭa’s  heart  firm  pride  knowing
+w: a hint  making  Mahāprabhu  spoke  these  words
+tr: Mahāprabhu knew how firmly pride was rooted in the Bhaṭṭa’s heart, and so He spoke all this by way of a hint.
+fn: Heading in the edition: to rid Vallabha of his pride, the Lord describes the qualities of devotees far worthier than he.
+
+## 52
+w: I  indeed  ‘a Vaiṣṇava’  of bhakti the conclusions  all  I know
+w: I  indeed  of the Bhāgavata the meaning  excellently  explain
+tr: ‘I am a Vaiṣṇava,’ the Bhaṭṭa thought. ‘I know all the conclusions of bhakti, and no one explains the meaning of the Bhāgavata better than I.’
+
+## 53
+w: the Bhaṭṭa’s  in the mind  this  was  long-standing  pride
+w: the Lord’s  words  hearing  that  became  humbled
+tr: Such was the pride that had long lived in the Bhaṭṭa’s mind, but the Lord’s words humbled it.
+fn: Heading in the edition: by the Lord’s mercy Vallabha’s pride is crushed. *Anubhāṣya*: “long-standing pride” — a well-nourished, towering self-conceit.
+
+## 54
+w: the Lord’s  from the mouth  the Vaiṣṇava qualities  hearing  of all
+w: the Bhaṭṭa’s  desire  arose  them all  to see
+tr: Hearing from the Lord’s own mouth about the Vaiṣṇava qualities of all these devotees, the Bhaṭṭa wished to see them all.
+
+## 55
+w: the Bhaṭṭa  says  these  all  Vaiṣṇavas  stay  in what  place
+w: in what  way  shall I obtain  of these all  the sight
+tr: The Bhaṭṭa said, “Where do all these Vaiṣṇavas live? How can I see them?”
+
+## 56
+w: the Lord  says  some  in Gauḍa  some  in other lands
+w: all  have come  the Ratha-yātrā  to see
+tr: The Lord said, “Some live in Gauḍa, some in other lands, but all have come to see the Ratha-yātrā.
+
+## 57
+w: here  stay  all  lodgings  in various places
+w: here  will obtain  you  of all  the sight
+tr: They are all staying here, in lodgings in various places. Here you will be able to see them all.”
+
+## 58
+w: then  the Bhaṭṭa  spoke  many  humble  words
+w: great  effort  making  the Lord  made  an invitation
+tr: Then the Bhaṭṭa spoke many humble words and earnestly invited the Lord to a meal.
+fn: The meal took place at the Lord’s residence: the Bhaṭṭa had mahā-prasāda brought there and fed the Lord and His associates (vv. 59–67).
+
+## 59
+w: the next  day  all  Vaiṣṇavas  to the Lord’s place  came
+w: with all of them  Mahāprabhu  the Bhaṭṭa  made meet
+tr: The next day all the Vaiṣṇavas came to the Lord, and Mahāprabhu introduced the Bhaṭṭa to them all.
+
+## 60
+w: of the Vaiṣṇavas  the radiance  seeing  the Bhaṭṭa’s  amazement
+w: them all  before  the Bhaṭṭa  a firefly’s  form
+tr: Seeing the radiance of the Vaiṣṇavas, the Bhaṭṭa was amazed: before them all he was like a firefly.
+
+## 61
+w: then  the Bhaṭṭa  much  mahā-prasāda  had brought
+w: with His associates  Mahāprabhu  a meal  gave
+tr: Then the Bhaṭṭa had a great quantity of mahā-prasāda brought and fed Mahāprabhu and His associates.
+
+## 62
+w: with Paramānanda Purī  of sannyāsīs  the group
+w: on one side  sit  all  to take  the meal
+tr: The sannyāsīs, with Paramānanda Purī, all sat on one side to eat.
+
+## 63
+w: Advaita,  Nityānanda Rāya  at the sides  the two
+w: in the middle  Mahāprabhu  sat  in front and behind  the devotees
+tr: Mahāprabhu sat in the middle, with Advaita and Nityānanda Rāya on either side, and the devotees in front and behind.
+
+## 64
+w: of Gauḍa  the devotees  how many  to tell  not  I can
+w: in the courtyard  sat  all  being  in rows
+tr: I cannot tell how many devotees from Gauḍa there were; they all sat in rows in the courtyard.
+
+## 65
+w: the Lord’s  devotees  seeing  the Bhaṭṭa’s  amazement
+w: in (His) presence  of all  at the feet  made  obeisance
+tr: Seeing the Lord’s devotees, the Bhaṭṭa was amazed, and in the Lord’s presence he bowed at the feet of them all.
+fn: Some editions read *pratyeke*, “to each one”; the Gauḍīya Maṭha edition has *pratyakṣe*, “in (the Lord’s) presence”.
+
+## 66
+w: Svarūpa,  Jagadānanda,  Kāśīśvara,  Śaṅkara
+w: serving  do  and  Rāghava,  Dāmodara
+tr: Svarūpa, Jagadānanda, Kāśīśvara and Śaṅkara served the food, and so did Rāghava and Dāmodara.
+
+## 67
+w: mahā-prasāda  Vallabha Bhaṭṭa  much  had brought
+w: with the Lord  the sannyāsīs  to the meal  sat
+tr: Vallabha Bhaṭṭa had brought a great deal of mahā-prasāda, and the sannyāsīs sat down with the Lord to eat.
+
+## 68
+w: prasāda  take  the Vaiṣṇavas  say  ‘Hari’  ‘Hari’
+w: the sound of Hari  rose  the whole  universe  filling
+tr: The Vaiṣṇavas honoured the prasāda, saying “Hari! Hari!”, and the sound of “Hari” rose and filled the whole universe.
+
+## 69
+w: garlands,  sandal paste,  areca nuts,  betel leaves  plenty  brought
+w: all  honoring  the Bhaṭṭa  joyful  became
+tr: He brought plenty of garlands, sandal paste, areca nuts and betel leaves. Honouring everyone with them, the Bhaṭṭa was filled with joy.
+
+## 70
+w: on the day of the Ratha-yātrā  the Lord  kīrtana  began
+w: as before  seven groups  separate  made
+tr: On the day of the Ratha-yātrā the Lord began the kīrtana. As before, He formed seven separate groups.
+
+## 71
+w: Advaita,  Nityānanda,  Haridāsa,  Vakreśvara
+w: Śrīvāsa,  Rāghava,  Paṇḍita Gadādhara
+tr: Advaita, Nityānanda, Haridāsa, Vakreśvara, Śrīvāsa, Rāghava and Gadādhara Paṇḍita —
+
+## 72
+w: seven  persons  in seven places  do  kīrtana
+w: ‘Hari bol’  saying  the Lord  does  wandering
+tr: these seven led the kīrtana in seven places, and the Lord moved from group to group, calling “Hari bol!”
+fn: Some editions read *karena nartana*, “they dance”; the Gauḍīya Maṭha edition has *karena kīrtana*, “they lead the kīrtana”. Heading in the edition: like a whirling firebrand (*alāta-cakra*), the Lord moves from kīrtana to kīrtana.
+
+## 73
+w: fourteen  mādalas  sound  loud  saṅkīrtana
+w: of each  each  dancer  in the prema  floated  the world
+tr: Fourteen *mādalas* (drums) sounded in the loud saṅkīrtana, and the world floated in the prema of each of the dancers.
+fn: Fourteen *mādalas* for all seven groups — two in each (compare Madhya 13.48).
+
+## 74
+w: seeing  Vallabha Bhaṭṭa’s  was  amazement
+w: in bliss  overwhelmed  not  his own  composure
+tr: Seeing this, Vallabha Bhaṭṭa was amazed. Overwhelmed with bliss, he lost all composure.
+
+## 75
+w: then  Mahāprabhu  of all  the dancing  stopped
+w: the Lord’s  at the conduct  the Bhaṭṭa’s  amazement  was
+tr: Then Mahāprabhu stopped everyone’s dancing, and the Bhaṭṭa was amazed at the Lord’s conduct.
+
+## 76
+w: at another festival  the Bhaṭṭa  going  to Mahāprabhu’s place
+w: the Lord’s  at the feet  something  made  submission
+tr: At another festival the Bhaṭṭa went to Mahāprabhu and submitted a request at His feet:
+fn: Some editions read *yātrānantare*, “after the festival”; the Gauḍīya Maṭha edition has *yātrāntare*, “at another festival”, that is, on another day (*Amṛta-pravāha-bhāṣya*).
+
+## 77
+w: on the Bhāgavata  a commentary  some  I have done  writing
+w: Yourself  Mahāprabhu  if  do  hearing
+tr: “I have written something of a commentary on the Bhāgavata. Would You, Mahāprabhu, hear it Yourself?”
+
+## 78
+w: the Lord  says  the meaning of the Bhāgavata  to understand  not  I can
+w: the meaning of the Bhāgavata  to hear  I  am not  qualified
+tr: The Lord said, “I cannot understand the meaning of the Bhāgavata. I am not qualified even to hear its meaning.
+fn: Heading in the edition: considering Himself unqualified, the Lord speaks humbly and in pretence; without the aim of pleasing Kṛṣṇa and His own, the meaning of the Bhāgavata cannot be grasped by worldly learning.
+
+## 79
+w: sitting  Kṛṣṇa’s name  only  I do  taking
+w: the fixed number of names  complete  My  is not  night and day
+tr: I simply sit and chant Kṛṣṇa’s name, and even so, night and day, I cannot complete My fixed number of names.”
+
+## 80
+w: the Bhaṭṭa  says  of Kṛṣṇa’s name  in explaining the meaning
+w: expansion  I have made  that  do  hearing
+tr: The Bhaṭṭa said, “I have explained the meaning of Kṛṣṇa’s name at length. Please hear it.”
+
+## 81
+w: the Lord  says  of Kṛṣṇa’s name  many  meanings  not  I accept
+w: ‘the dark beauty’  ‘the son of Yaśodā’  this only  I know
+tr: The Lord said, “I do not accept many meanings of Kṛṣṇa’s name. I know only this: Śyāmasundara, the dark and beautiful One, and Yaśodā-nandana, the son of Yaśodā.
+
+## 82
+w: in Him whose luster is dark like the tamāla tree
+w: in the One who drinks at Śrī Yaśodā’s breast
+w: of the name ‘Kṛṣṇa’  the conventional meaning  thus
+w: of all scriptures  the conclusion
+tr: ‘The conventional meaning (*rūḍhi*) of the name “Kṛṣṇa” is He whose lustre is dark like a *tamāla* tree and who drinks at the breast of Śrī Yaśodā: this is the conclusion of all the scriptures.’ (Nāma-kaumudī)
+fn: Heading in the edition: the *rūḍhi* meaning of the name “Kṛṣṇa” — a verse from Śrī Lakṣmīdhara’s *Nāma-kaumudī*, cited in the *Kṛṣṇa-sandarbha*. *Anubhāṣya*: *rūḍhi* is the power of a word to convey the meaning of the whole word without depending on the meanings of root and suffix.
+
+## 83
+w: this  meaning  I  only  know  as settled
+w: other  in all meanings  My  is not  qualification
+tr: This meaning alone I know as settled; I have no qualification for any other meanings.”
+
+## 84
+w: nearly worthless  the Bhaṭṭa’s  of the name and so on  all the explanations
+w: all-knowing  the Lord  knowing  them  does  disregard
+tr: The Bhaṭṭa’s explanations of the name and the rest were all nearly worthless (*phalgu*). Knowing this, the all-knowing Lord disregarded them.
+
+## 85
+w: dejected  becoming  the Bhaṭṭa  went  to his own  home
+w: toward the Lord  devotion  somewhat  became  removed
+tr: Dejected, the Bhaṭṭa went home, and his devotion to the Lord partly ebbed away.
+fn: *Amṛta-pravāha-bhāṣya*: the devotion he had for the Lord partly ebbed away. Heading in the edition: the Bhaṭṭa leaves with a heavy heart; his pride is humbled, and therefore his devotion to the Lord weakens.
