@@ -98,7 +98,7 @@ you whose very life the pastimes of Radha and Krishna will become.
 listen, brothers, with devotion and a steady heart.
 
 **8.** Mahaprabhu sent Nityananda Prabhu to Gauda,
-and he flooded Gauda with prema-bhakti.
+and He flooded Gauda with prema-bhakti.
 
 **9.** All the Vaishnavas who came from Gauda
 Mahaprabhu questioned in every detail.
@@ -112,8 +112,8 @@ and everywhere makes people accept mukti as the chief thing."
 **12.** Some said: "He has no word but mukti;
 speaking of mukti, Gosani has flooded the world."
 
-**13.** As he listened, the Lord's anger arose,
-and the grief of separation from Nityananda grew in him.
+**13.** As He listened, the Lord's anger arose,
+and the grief of separation from Nityananda grew in Him.
 
 **14.** At this time Svarupa and Ramananda Raya came to the Lord;
 they wished to speak, and there was joy in their hearts.
@@ -125,22 +125,22 @@ Gauda has become empty of bhakti — hear the reason.
 has left bhakti and expounds the five kinds of mukti.[^01-3]
 
 **17.** I cannot understand Advaita's mind.
-Tell me, both of you, how bhakti is to be kept.
+Tell Me, both of you, how bhakti is to be kept.
 
-**18.** I cannot believe that he teaches mukti,
-for he is a chief participant in these pastimes.[^01-4]
+**18.** I cannot believe that He teaches mukti,
+for He is a chief participant in these pastimes.[^01-4]
 
 **19.** I hear it from people's mouths, but I am not convinced:
-to expound mukti, leaving bhakti, is not his intent."
+to expound mukti, leaving bhakti, is not His intent."
 
 **20.** At this time a letter came from Nityananda:
 "Leaving the path of bhakti, the Acharya preaches mukti."
 
 **21.** On receiving the letter the Lord was greatly alarmed;
-holding the letter in his own hand he went for darshan.
+holding the letter in His own hand He went for darshan.
 
-**22.** With his devotees the Lord went into the temple
-and beside Garuda[^01-5] beheld the Lord with joy in his heart.
+**22.** With His devotees the Lord went into the temple
+and beside Garuda[^01-5] beheld the Lord with joy in His heart.
 
 **23.** At that time Sarvabhauma Bhattacharya came;
 seeing him, the Lord was overcome with ecstasy.
@@ -148,10 +148,10 @@ seeing him, the Lord was overcome with ecstasy.
 **24.** Crying "Bhakti, bhakti!" the Lord was filled with prema
 and, rejecting the explanations of mukti, began to extol bhakti.
 
-**25.** Embracing the Bhattacharya, he came out
+**25.** Embracing the Bhattacharya, He came out
 and, reaching Mishra's residence,[^01-6] grew somewhat calmer.
 
-**26.** Nityananda Prabhu's letter was in his hand.
+**26.** Nityananda Prabhu's letter was in His hand.
 "Read the letter, Bhattacharya," the Lord commanded.
 
 **27.** Reading the letter, the Bhattacharya flew into a great rage:
@@ -160,16 +160,16 @@ and, reaching Mishra's residence,[^01-6] grew somewhat calmer.
 **28.** Who is this who rejects bhakti and preaches mukti?
 The three of us will go to that place.
 
-**29.** In debate, Prabhu, I will silence him,
-and if he is obstinate I will bind him and bring him here."[^01-7]
+**29.** In debate, Prabhu, I will silence Him,
+and if He is obstinate I will bind Him and bring Him here."[^01-7]
 
 **30.** At the Bhattacharya's words the Lord's heart rejoiced:
 "There will be no hindrance to bhakti — listen, Mahashaya.
 
-**31.** One letter under my own signature will go to Advaita,
+**31.** One letter under My own signature will go to Advaita,
 and another he will write to Sri Nityananda Prabhu."
 
-**32.** Saying "Good, good," they settled this plan firmly
+**32.** Saying "Good, good," They settled this plan firmly
 and sent the letters to Gauda by the hand of Vaishnavas.
 
 **33.** Hearing this, the high-minded Bhattacharya
@@ -193,14 +193,14 @@ his work is to bring the world to understanding."
 **39.** All went off to their own places,
 yet joy did not arise in the Lord's mind.
 
-**40.** The more he thought, the more his anxiety grew:
-"Living beings have become empty of bhakti!" — and fear arose in him.
+**40.** The more He thought, the more His anxiety grew:
+"Living beings have become empty of bhakti!" — and fear arose in Him.
 
 **41.** "How will bhakti remain upon the earth?
 I want to send some prema and the Name to Gauda.
 
 **42.** While Nityananda is here, how is this to be done?
-And when he is gone, how will bhakti remain among the beings?
+And when He is gone, how will bhakti remain among the beings?
 
 **43.** To reveal the scriptures of bhakti, Rupa and Sanatana,
 the two brothers, went to Vrindavana.
@@ -217,22 +217,22 @@ bring a vessel who is prema in form and give him a dwelling."
 **47.** "The prema that you, my Lord, have left in my keeping —
 give the command, and I will make it manifest in a form."
 
-**48.** Delighted, the Lord gave the Earth his command,[^01-9]
+**48.** Delighted, the Lord gave the Earth His command,[^01-9]
 but of who was worthy to be the vessel, and of his name, nothing was said.[^01-10]
 
 **49.** At this time Svarupa and Ramananda Raya came to the Lord;
-bowing to the Lord, they wished to speak to him.
+bowing to the Lord, they wished to speak to Him.
 
 **50.** "What am I to do, what will happen? It is good that you have come" —
-and he told them all that had passed with the Earth.
+and He told them all that had passed with the Earth.
 
 **51.** Crying "Prema, prema!" the Lord was overcome
 and, calling "Nityananda!", began to weep.
 
 **52.** The Lord fell senseless; the third watch[^01-11] went by;
-in a sweet voice Svarupa sang Hari-nama to him.
+in a sweet voice Svarupa sang Hari-nama to Him.
 
-**53.** On hearing Hari-nama the Lord came to himself:
+**53.** On hearing Hari-nama the Lord came to Himself:
 "Come, Svarupa, let us go and see the Lord."
 
 **54.** At this time Sarvabhauma appeared before the Lord;
@@ -242,13 +242,13 @@ seeing Sarvabhauma, the Lord was very glad.
 There is a special matter — listen carefully.
 
 **56.** Advaita Acharya has put away the path of bhakti.
-What am I to say, what am I to do — tell me, Bhattacharya."
+What am I to say, what am I to do — tell Me, Bhattacharya."
 
 **57.** Hearing of this hindrance to bhakti, the Bhatta was much grieved,
 and then he spoke at Mahaprabhu's feet:
 
 **58.** "Advaita Acharya is the lord of the world;
-such words will never come from his mouth.
+such words will never come from His mouth.
 
 **59.** Some insolent people[^01-12] came and told this to the Lord.
 Bring those people before me!"
@@ -257,24 +257,24 @@ Bring those people before me!"
 and the Bhatta declared them to be great ignoramuses.[^01-13]
 
 **61.** "Listen, listen, Bhattacharya, I will tell you of the past:
-ever since I left Navadvipa, he has been in great sorrow.
+ever since I left Navadvipa, He has been in great sorrow.
 
-**62.** I cannot tell what is in his mind in that sorrow:
-to frighten me he acts as he pleases.
+**62.** I cannot tell what is in His mind in that sorrow:
+to frighten Me He acts as He pleases.
 
 **63.** He has the power to do anything:
-what he does comes to pass and is never in vain.
+what He does comes to pass and is never in vain.
 
-**64.** I have faith in his word,
-and I cannot go against his command.
+**64.** I have faith in His word,
+and I cannot go against His command.
 
-**65.** Devise a plan, then, so that his command is not slighted
+**65.** Devise a plan, then, so that His command is not slighted
 and that, by this plan, prema is preserved hereafter."
 
 **66.** The Bhattacharya said: "Prabhu, while Nityananda is here,
-while he is present, prema will meet no obstacle.
+while He is present, prema will meet no obstacle.
 
-**67.** What will happen when he is gone — what can I say?
+**67.** What will happen when He is gone — what can I say?
 Do whatever is in your mind.
 
 **68.** Of this, Prabhu, my own Mayavada is witness:
@@ -286,10 +286,10 @@ and leaving mukti I became a servant on the path of bhakti.
 **70.** The people of the Kali age are very wicked,
 and the chief cause of it is the rule of the yavana kings.[^01-14]
 
-**71.** All that the kings' rule had brought, he did away with,
-and he revealed the great medicine, the mantra of Hari-nama.
+**71.** All that the kings' rule had brought, He did away with,
+and He revealed the great medicine, the mantra of Hari-nama.
 
-**72.** By the mere shadow of the Name he destroyed sins;
+**72.** By the mere shadow of the Name He destroyed sins;
 Nityananda, your own portion, established bhakti.
 
 **73.** Such a Nityananda Prabhu you sent to Gauda —
@@ -298,8 +298,8 @@ why then do you begin to worry about the future?"
 **74.** "All that is true; but listen with attention:
 I sent Nityananda off together with the devotees,
 
-**75.** I myself parted from Nityananda.
-What am I to do — give me your counsel."
+**75.** I Myself parted from Nityananda.
+What am I to do — give Me your counsel."
 
 **76.** "No one can counsel you better
 than One — in Nilachala there is Jagannatha Raya."
@@ -307,7 +307,7 @@ than One — in Nilachala there is Jagannatha Raya."
 **77.** "The Bhatta Mahashaya has given a fine solution:
 without Jagannatha this cannot be settled."
 
-**78.** Having so resolved, they all went for darshan
+**78.** Having so resolved, They all went for darshan
 and prayed that prema might be preserved hereafter:
 
 **79.** "You are an ocean of compassion, most merciful.
@@ -325,14 +325,14 @@ and in granting favour or punishment let no one weigh who is worthy."[^01-15]
 **83.** The fourteen-cubit swinging garland[^01-16] broke from the Lord's neck;
 the pujari brought it and held it out before the Lord.
 
-**84.** Delighted, the Lord came back to his lodging,
-and his heart was filled with joy beyond measure.
+**84.** Delighted, the Lord came back to His lodging,
+and His heart was filled with joy beyond measure.
 
-**85.** Free from worry, he lay down to rest,
-and Jagannatha came to his bedside.
+**85.** Free from worry, He lay down to rest,
+and Jagannatha came to His bedside.
 
-**86.** Smiling, Jagannatha said to him:
-"Is my power so very much greater than yours?
+**86.** Smiling, Jagannatha said to Him:
+"Is My power so very much greater than yours?
 
 **87.** For a long time now there has been a brahmana;
 childless, he came to pray for a son.
@@ -353,12 +353,12 @@ so that the brahmana grieves no more.
 virtuous, devoted to her husband, most blessed."
 
 **93.** At that moment Mahaprabhu awoke,
-and calling "Jagannatha!" he wept a long while.
+and calling "Jagannatha!" He wept a long while.
 
 **94.** Calling Kashi Mishra, the Lord asked him:
-"Show me the Gaudiya Chaitanya Dasa.
+"Show Me the Gaudiya Chaitanya Dasa.
 
-**95.** Jagannatha has given me a command concerning him;
+**95.** Jagannatha has given Me a command concerning him;
 take pains and bring him quickly."
 
 **96.** Mishra said: "Prabhu, many days have passed;
@@ -379,8 +379,8 @@ and then I came to Shantipur, to the Acharya.
 **101.** At my leave-taking Gosani gave me a command:
 'What I say, repeat it to Him.'[^01-19]
 
-**102.** And he spoke a riddle."[^01-20] Hearing this, Mahaprabhu said:
-"Words such as he spoke I have never heard."
+**102.** And He spoke a riddle."[^01-20] Hearing this, Mahaprabhu said:
+"Words such as He spoke I have never heard."
 
 **103.** Svarupa and others were there together with Mahaprabhu;
 hearing the riddle, they all began to laugh.
@@ -391,7 +391,7 @@ the malady of separation from Krishna grew twofold.
 **105.** "What was said has come to pass[^01-21] — you two have heard it.
 Consider how prema may be preserved.
 
-**106.** Jagannatha has commanded me to see the brahmana;
+**106.** Jagannatha has commanded Me to see the brahmana;
 take pains to bring him — I wish to send him to his country."
 
 **107.** Meanwhile the Earth could not bear the weight of prema,
@@ -404,7 +404,7 @@ and an earthquake struck all of Nilachala-puri.
 and flooded Nilachala-puri with prema.
 
 **110.** The ocean, it seems, could not hold that prema;
-taking the prema from it, he gave it to the Earth.
+taking the prema from it, He gave it to the Earth.
 
 **111.** The Earth cannot hold it and is shaking;
 houses may collapse and people may die!
@@ -431,7 +431,7 @@ then easily, brothers, we shall remain in the world."
 Chaitanya's rasa, brother, will only grow twofold!"
 
 **119.** One says: "Let us all gather together,
-go to Sri Krishna Chaitanya and lay it before him."
+go to Sri Krishna Chaitanya and lay it before Him."
 
 **120.** Saying "Good, good," they all gathered together
 and arrived at Mishra's door.
@@ -458,7 +458,7 @@ do not forsake us who have taken refuge in Jagannatha."[^01-22]
 came to where the Lord was.
 
 **128.** Seeing the prasada, Mahaprabhu rose,
-bowed down and placed the prasada beside him.
+bowed down and placed the prasada beside Him.
 
 **129.** The pujari said: "Prabhu, I cannot perform the service:
 whenever I lay my hands on Jagannatha, my whole body spins.[^01-23]
@@ -482,9 +482,9 @@ In fear I have come to tell you."
 and I will beg it of the Earth as alms."
 
 **136.** Humbly dismissing all the people,
-he began to think about the brahmana Chaitanya Dasa.
+He began to think about the brahmana Chaitanya Dasa.
 
-**137.** Thinking so, he called the Earth to mind;
+**137.** Thinking so, He called the Earth to mind;
 the Earth came and bowed to the Lord.
 
 **138.** "What is your command, Prabhu?" the Earth asked.
@@ -509,7 +509,7 @@ in his body there is no trace of sin.
 and soon he left, entrusting it to Jagannatha."
 
 **145.** The Lord said: "Earth, you have been a great help:
-Jagannatha has kept his word about prema firm.
+Jagannatha has kept His word about prema firm.
 
 **146.** Listen, listen, Earth, listen with care:
 take the prema and give it to Lakshmipriya.
@@ -530,7 +530,7 @@ wept aloud, crying "Srinivasa! Srinivasa!"
 and sent prema to Chaitanya Dasa.
 
 **152.** Seeing Jagannatha laugh, the Lord laughed too,
-and by his command sent prema to Chaitanya Dasa.
+and by His command sent prema to Chaitanya Dasa.
 
 **153.** "From this a son named Srinivasa will be born,
 and through him there will be a great play of prema.[^01-27]
@@ -541,25 +541,25 @@ the two brothers, to Sri Vrindavana.
 **155.** In Rupa's scriptures the pastimes of Radha and Krishna will be revealed,
 and by command they will be entrusted to Srinivasa."
 
-**156.** Having prayed to Jagannatha, he came back to his lodging
+**156.** Having prayed to Jagannatha, He came back to His lodging
 and joyfully summoned Kashi Mishra.
 
 **157.** He took secret counsel with Svarupa and Ramananda;
-having received Jagannatha's command, his mind was at ease.
+having received Jagannatha's command, His mind was at ease.
 
 **158.** "Tell us, tell us, Prabhu, give us the news!" —
 "In Chaitanya Dasa's house prema will be made known.
 
 **159.** In Gauda Nityananda Raya is anxious;
-send him a letter and set his mind at rest."
+send Him a letter and set His mind at rest."
 
-**160.** "Good, good," and the Lord wrote in his own hand:
+**160.** "Good, good," and the Lord wrote in His own hand:
 "Hari-nama sankirtana will be in every house.
 
 **161.** You shall send a letter to Advaita Acharya,
-that he should count the state of mukti without bhakti as worthless.
+that He should count the state of mukti without bhakti as worthless.
 
-**162.** Do not worry about me hereafter;
+**162.** Do not worry about Me hereafter;
 the world will float in Hari-nama sankirtana.
 
 **163.** By Jagannatha's command a son will be born by a boon,
@@ -571,14 +571,14 @@ there lives a worthy brahmana named Chaitanya Dasa.
 **165.** To him a son, Srinivasa, will be born, prema in form;
 he will appear in the form of a Vaishnava."
 
-**166.** Having written the letter thus, he sent it to Gauda,
-and having made prema manifest he remained at peace.
+**166.** Having written the letter thus, He sent it to Gauda,
+and having made prema manifest He remained at peace.
 
 **167.** At this time a letter came from Sanatana;
 he wrote in full about the arrival of Gopala Bhatta.
 
 **168.** Hearing of Gopala's arrival in Vrindavana,
-the Lord was overjoyed together with his devotees.
+the Lord was overjoyed together with His devotees.
 
 **169.** "Listen, listen, Svarupa and Ramananda, to the news:
 Gopala Bhatta has come to Vrindavana."
@@ -590,18 +590,18 @@ and all rejoiced to hear it from the Lord's mouth.
 what thing of unprecedented sweetness shall I send?
 
 **172.** I am a poor sannyasi; I have no wealth;
-all I have is my cord[^01-28] and a seat to sit on.
+all I have is My cord[^01-28] and a seat to sit on.
 
-**173.** In them is my power — hear the reason;
+**173.** In them is My power — hear the reason;
 these two things I will give to the Bhatta,
 
 **174.** so that he may sit on it in Rupa's company.
 I will have Svarupa write the letter."
 
-**175.** But to Sanatana the Lord himself wrote in his own hand:
+**175.** But to Sanatana the Lord Himself wrote in His own hand:
 "Let Rupa take up the describing of the pastimes in scriptures.
 
-**176.** This letter of mine, read it out to Rupa;
+**176.** This letter of Mine, read it out to Rupa;
 hearing it, your hearts will rejoice.
 
 **177.** In Gauda I will cause a jewel of a vessel to be born;
@@ -614,16 +614,16 @@ he will make known in Gauda the very heart of Radha and Krishna's pastimes.
 you shall entrust your books to him.
 
 **180.** To Gauda I have sent Nityananda,
-and with him Ramadasa, Gadadhara and Sundarananda.
+and with Him Ramadasa, Gadadhara and Sundarananda.
 
 **181.** For a son Chaitanya Dasa stayed in Nilachala;
 Jagannatha gave prema, and he accepted it.
 
 **182.** I too am coming soon to see you all;
-make a secluded place for me in some grove.
+make a secluded place for Me in some grove.
 
-**183.** Only Svarupa and Ramananda Raya are with me;
-it is by the kindness of these two that my life is kept.
+**183.** Only Svarupa and Ramananda Raya are with Me;
+it is by the kindness of these two that My life is kept.
 
 **184.** I am sending you the seat by a Vaishnava's hand,
 and through Ramananda I have given him money for the road."
@@ -641,7 +641,7 @@ and fell to the ground, crying "Gaurahari!"
 Not hearing your sweet words, our breasts are breaking!"
 
 **189.** Rolling on the ground, they wept, clasping the seat to their breasts,
-and perceived the sweet fragrance of his holy body.
+and perceived the sweet fragrance of His holy body.
 
 **190.** At that moment Bhugarbha and Lokanatha arrived
 and fell to the ground, a hand pressed to the breast.
@@ -664,7 +664,7 @@ the son of Krishnananda Raya, a treasury of prema.
 **196.** As Rupa and Sanatana are one body,
 so, know for certain, are Narottama and Srinivasa.
 
-**197.** Narottama, whose name Gauranga himself gave —
+**197.** Narottama, whose name Gauranga Himself gave —
 what shall I say of his virtues? They are all beyond compare.
 
 **198.** That same power, those same pastimes he spread abroad;
@@ -727,8 +727,8 @@ Gaurangachandra, embracing his neck, said:
 **217.** "There is a brahmana youth named Srinivasa,
 endowed with the greatest steadiness and other virtues.
 
-**218.** You are my second body, Sanatana;
-through Srinivasa you shall accomplish my purpose."
+**218.** You are My second body, Sanatana;
+through Srinivasa you shall accomplish My purpose."
 
 **219.** Having seen the dream, Sanatana rejoiced,
 and in the morning, sitting in the assembly, he began to tell it.
@@ -739,13 +739,13 @@ the Lord is going to depart, and there is a reason for it.
 **221.** The pastimes of Radha and Krishna, through sankirtana,
 the Lord savours together with Svarupa and the others.
 
-**222.** The pastimes that he will describe by infusing his power into Rupa
-he will make known by sending a vessel.
+**222.** The pastimes that He will describe by infusing His power into Rupa
+He will make known by sending a vessel.
 
 **223.** There is a brahmana youth named Srinivasa;
 through him the Lord will spread these pastimes in Gauda.
 
-**224.** As prema in form he will cause him to be born in Gauda,
+**224.** As prema in form He will cause him to be born in Gauda,
 and Srinivasa will come here when the Lord's pastimes are ended.
 
 **225.** You, staying in Vrindavana, will see him;
@@ -785,7 +785,7 @@ It turned out that they had all seen this in a dream.
 they had seen a joyful dream and understood its reason.
 
 **237.** Yet all were anxious about the Lord:
-"We cannot understand what he intends by this."
+"We cannot understand what He intends by this."
 
 **238.** So Sanatana and Rupa remained anxious:
 when would Srinivasa come, the embodiment of prema?
@@ -794,7 +794,7 @@ when would Srinivasa come, the embodiment of prema?
 night and day he saw inauspicious dreams.
 
 **240.** One day Svarupa found the Lord alone
-and asked him: "Who is this Srinivasa?
+and asked Him: "Who is this Srinivasa?
 
 **241.** Tell me his virtues in detail, Prabhu;
 merely to hear of his virtues gladdens the heart."
@@ -905,7 +905,7 @@ and the Raya fell senseless where he was.
 two golden children are dancing in sankirtana!"
 
 **277.** The two golden children together,
-laughing and laughing, laid their feet upon her head.[^01-37]
+laughing and laughing, laid Their feet upon her head.[^01-37]
 
 **278.** And the command came: "For ten months take care of yourself;
 once again I shall dance in your courtyard."[^01-38]
@@ -932,7 +932,7 @@ Be kind and tell me; it will make me very happy."
 why should seeing a dream unsettle you so?"
 
 **286.** The Raya said: "It was no dream; I saw it with my own eyes:
-I found the Creator, and he left me bereft."
+I found the Creator, and He left me bereft."
 
 **287.** The Raya said: "Acharya, I will confess to you:
 I have forgotten my own chosen deity, and I do not know why.
@@ -950,7 +950,7 @@ consider, and do whatever your mind accepts."
 that in Navadvipa the Creator was born in the form of Gaura.
 
 **292.** That same Creator has entered my heart,
-and entering in the night, he made me forget my own deity.
+and entering in the night, He made me forget my own deity.
 
 **293.** That same Creator danced in your courtyard:
 I saw two golden ones in my dream.
@@ -1041,7 +1041,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^01-4]: The beginning of the line is corrupt in both copies ("dṇā" / "ḍi ri"); translated by the general sense ("I cannot believe").
 [^01-5]: The Garuda pillar (garuda-stambha) in the Jagannatha temple at Puri, beside which Mahaprabhu used to behold the Deity.
 [^01-6]: Kashi Mishra, in whose house Mahaprabhu lived at Puri.
-[^01-7]: Variant: "if he behaves unreasonably, I will bind him and bring him."
+[^01-7]: Variant: "if He behaves unreasonably, I will bind Him and bring Him."
 [^01-8]: Avani, "Earth"; the Earth (Prithivi) appears here as a goddess.
 [^01-9]: Variant: "embraced the Earth".
 [^01-10]: The sense of the line is unclear; perhaps "nothing was said of the measure of the vessel's worth, nor of his name".
@@ -1184,7 +1184,7 @@ how the earth spread prema in their form."
 yet I write by the strength of the command of the two Lords.
 
 **12.** Sri Jahnava and Virachandra, at whose feet my hope rests —
-from them came the command to reveal these virtues.
+from Them came the command to reveal these virtues.
 
 **13.** Srinivasa is my breath, Narottama my life;
 with care I write of the virtues of these two.
@@ -1223,7 +1223,7 @@ it seems Srinivasa will become an expert in the sciences."
 "Study quickly, Srinivasa — you will go to Vrindavana.
 
 **25.** Gauda is very dear to Chaitanya;
-through you he will make books of the pastimes arise here.
+through you He will make books of the pastimes arise here.
 
 **26.** Why have you stopped studying for three days?
 At your parents' word I will teach you.
@@ -1373,7 +1373,7 @@ I cannot tell how much hidden treasure lies in this.
 that is why I have not met him.
 
 **15.** Without any effort Chaitanya has brought us together on this road;
-through you he will reveal the pastimes in Vrindavana.
+through you He will reveal the pastimes in Vrindavana.
 
 **16.** Now there is no need to ask anything more;
 meeting you in Khanda will make me happy."
@@ -1625,7 +1625,7 @@ turning this over in his mind, he lay awake all night.
 and Gaurachandra mercifully said to him:
 
 **99.** "Listen, listen, Srinivasa, why are you troubled?
-You were born as prema in form for my purpose.
+You were born as prema in form for My purpose.
 
 **100.** Why, then, do you wait?[^04-13]
 I have told you: you were born as prema in form.
@@ -1633,7 +1633,7 @@ I have told you: you were born as prema in form.
 **101.** Go to Vrindavana; do not delay;
 take refuge at the feet of Gopala Bhatta.
 
-**102.** He was born in the land of Telanga; he is my very life;
+**102.** He was born in the land of Telanga; he is My very life;
 and Sanatana and Rupa are one soul in two bodies.
 
 **103.** All the books that Rupa and Sanatana have written
@@ -2036,12 +2036,12 @@ only by the fortune of many births does love for it arise.
 crying "O Chaitanya!", she lay down on the ground.
 
 **236.** At the end of the night the two brothers together, in sankirtana,
-dancing, say: "Where is my mother?
+dancing, say: "Where is My mother?
 
-**237.** Your daughter-in-law keeps my Srinivasa outside the gate,
+**237.** Your daughter-in-law keeps My Srinivasa outside the gate,
 while she herself is at ease in her own house!
 
-**238.** All my work is to be done through Srinivasa;
+**238.** All My work is to be done through Srinivasa;
 send him to Abhirama, with Ishana as his companion."[^04-33]
 
 **239.** In separation from Chaitanya she does not sleep at night;
@@ -2092,34 +2092,34 @@ how is that command to be understood?
 **254.** It is now the third year since Gosani passed away;
 yet this command cannot be disobeyed" — doubt cast him into a quandary.
 
-**255.** At that moment one appeared with arms reaching to his knees and a huge body;
-seeing his radiance, Srinivasa trembled and lost all composure.
+**255.** At that moment one appeared with arms reaching to His knees and a huge body;
+seeing His radiance, Srinivasa trembled and lost all composure.
 
 **256.** Unable to open his eyes, he fell to the ground.
 "Come, come, Srinivasa, I have heard your words."
 
 **257.** So Advaita Gosani had willed it;
-prostrating himself there, Srinivasa addressed him.
+prostrating himself there, Srinivasa addressed Him.
 
 **258.** Sighing, Gosani wept a long while:
-"Where have Chaitanya and Nityananda gone in their bodies?
+"Where have Chaitanya and Nityananda gone in Their bodies?
 
-**259.** Where have their companions gone — Svarupa, Ramananda Raya?" —
-and lovingly he laid his hand on Srinivasa's head.
+**259.** Where have Their companions gone — Svarupa, Ramananda Raya?" —
+and lovingly He laid His hand on Srinivasa's head.
 
-**260.** "Come, come, Srinivasa, let my life be soothed;
-let me embrace you and let my heart be comforted.
+**260.** "Come, come, Srinivasa, let My life be soothed;
+let Me embrace you and let My heart be comforted.
 
 **261.** For your sake the Lord sent Gopala Bhatta;
 you will become his servant — I tell you for certain.
 
-**262.** Being angry with me, the Lord caused you to be born,[^04-36]
-and here he has revealed all his own work.
+**262.** Being angry with Me, the Lord caused you to be born,[^04-36]
+and here He has revealed all His own work.
 
 **263.** He sent Rupa and Sanatana to Vrindavana,
-and to make that known he caused you to be born.
+and to make that known He caused you to be born.
 
-**264.** For your sake he sent Gopala Bhatta;
+**264.** For your sake He sent Gopala Bhatta;
 take instruction there, in order to make prema manifest.
 
 **265.** Calling 'Come, come!', with the Lord's power infused in you,
@@ -2138,9 +2138,9 @@ go and worship the feet of Gopala Bhatta.
 cry 'Advaita! Govinda!' and do not dwell on sorrow.
 
 **270.** Your Lord, the best of lovers,
-has by prema destroyed the corruption among my followers.[^04-38]
+has by prema destroyed the corruption among My followers.[^04-38]
 
-**271.** Whoever among my followers takes up this doctrine on his lips
+**271.** Whoever among My followers takes up this doctrine on his lips
 will, cut off from Chaitanya and Nityananda, meet with great sorrow."
 
 **272.** So saying, Advaita-chandra vanished,
@@ -2186,7 +2186,7 @@ glad at heart to have found a wondrous Vaishnava.
 "I am going to cook; you sit by the door."
 
 **286.** Having cooked, she offered the bhoga,
-gave Krishna water to rinse his mouth and laid him down to rest.
+gave Krishna water to rinse His mouth and laid Him down to rest.
 
 **287.** Gopala was told to take prasada:
 "Sit down quickly together with Srinivasa.
@@ -2230,19 +2230,19 @@ when you hear it, you will believe with a calm heart.
 **300.** At the time when Jagai and Madhai were delivered,
 Gosani[^04-43] in anger said to Haridasa:
 
-**301.** 'If Gosani does not give me the union of prema,
-I will dry up all prema — and the fault will not be mine.'
+**301.** 'If Gosani does not give Me the union of prema,
+I will dry up all prema — and the fault will not be Mine.'
 
-**302.** Angry with Nityananda, he came home
+**302.** Angry with Nityananda, He came home
 and sent a riddle, a tarja, written through Jagadananda.
 
 **303.** From that day anger arose in the Lord:
-to Nityananda he gave companions — Ramai, Sundarananda and others,
+to Nityananda He gave companions — Ramai, Sundarananda and others,
 
-**304.** and to my Thakura he gave Kamadeva Nagara,
-and in his anger made the Nagara speak.[^04-44]
+**304.** and to my Thakura He gave Kamadeva Nagara,
+and in His anger made the Nagara speak.[^04-44]
 
-**305.** My lord came to Gauda with the Nagara in his company,
+**305.** My lord came to Gauda with the Nagara in His company,
 and amid the waves of prema the Nagara set a doctrine going.
 
 **306.** As soon as I heard it, anger arose in me,
@@ -2312,13 +2312,13 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^04-33]: Chaitanya and Nityananda speak, addressing Shachi ("Mother") in the dream; "your daughter-in-law" is Vishnupriya. Abhirama (Ramadasa) was a companion of Nityananda who lived at Khanakul.
 [^04-34]: This couplet is complete only in the 1913 edition (the 1999 edition keeps only the second line).
 [^04-35]: It could also be understood as "see how lovely he is" (abhirāma, "lovely"); in view of couplet 238 we take it as the name.
-[^04-36]: An allusion to Advaita's "riddle" and his preaching of mukti, which troubled Mahaprabhu (see vilasa 1).
+[^04-36]: An allusion to Advaita's "riddle" and His preaching of mukti, which troubled Mahaprabhu (see vilasa 1).
 [^04-37]: Literally "he"; address to Srinivasa and speech about him are mixed here.
 [^04-38]: The couplet is unclear ("tomāra ye prabhu ihā nāgara vara dvāre / gaṇaduṣṭa prema dvārā karila saṁhāre"); the rendering is tentative.
 [^04-39]: Gopala, one of the sons of Advaita Acharya and Sita.
 [^04-40]: In the 1913 edition couplets 282–291 are in brackets; in the 1999 edition the second line of couplet 290 is lost.
 [^04-41]: The 1999 edition has "that night he spent in Shantipur, at the arati".
-[^04-42]: Cf. couplet 269. The point of the request is to learn the truth about Advaita's "riddle" and the mukti doctrine of some of his followers.
+[^04-42]: Cf. couplet 269. The point of the request is to learn the truth about Advaita's "riddle" and the mukti doctrine of some of His followers.
 [^04-43]: Advaita Acharya.
 [^04-44]: Kamadeva Nagara is known as a follower of Advaita who preached a doctrine at odds with Mahaprabhu's bhakti. The line "krodha kari nāgara kahila vākya dvāre" is understood tentatively.
 [^04-45]: The line "svatantra karilu āmi sevaka nandinī" is unclear; Nandini was apparently a maidservant (disciple) of Sita.
@@ -2368,22 +2368,22 @@ then I shall be at ease and my heart will be soothed."
 when you see him you will know his virtues — [bring him] before me."
 
 **13.** Crying "Nityananda!", the Prabhu went out,
-and seeing the boy's beauty he embraced him.
+and seeing the boy's beauty He embraced him.
 
-**14.** At the name "Srinivasa" he remembered [Srivasa] of Navadvipa;[^05-4]
-at the name and the form he was seized by prema and trembled again and again.
+**14.** At the name "Srinivasa" He remembered [Srivasa] of Navadvipa;[^05-4]
+at the name and the form He was seized by prema and trembled again and again.
 
-**15.** Srinivasa prostrated himself many times and fell at his feet;
-taking him by the hand, he raised him and asked his name.
+**15.** Srinivasa prostrated himself many times and fell at His feet;
+taking him by the hand, He raised him and asked his name.
 
 **16.** "What is your name? Seeing you, I am glad."
 "My name is Srinivasa; my lot is very poor."
 
-**17.** "Come, come, friend, you have given me great joy;
-without any effort fate has brought me a jewel."
+**17.** "Come, come, friend, you have given Me great joy;
+without any effort fate has brought Me a jewel."
 
 **18.** Taking Srinivasa by the hand into the house,
-he led him to the inner apartments where Ishvari was.
+He led him to the inner apartments where Ishvari was.
 
 **19.** With that longing with which Ishvari was longing —
 without any effort fate gave her the sweetness of prema.
@@ -2398,7 +2398,7 @@ and in separation from Nityananda a great surge of feeling arose in her.
 placed him in her hands: "Give Srinivasa prema.
 
 **23.** He is going to Vrindavana — give him your command quickly;
-this is my plea again and again: infuse him with power."
+this is My plea again and again: infuse him with power."
 
 **24.** "If he makes haste and goes to Vrindavana,
 then he will have the sight of Sri Rupa's feet.
@@ -2424,8 +2424,8 @@ Virachandra brought them and placed them in his hands.
 **31.** Receiving the remnants from her lips, he was flooded with prema:
 he laughed, wept, danced and sang like a madman.
 
-**32.** Taking him by the hand, Virachandra seated him beside him,
-and at the touch of his hand he came back to outward awareness.
+**32.** Taking him by the hand, Virachandra seated him beside Him,
+and at the touch of His hand he came back to outward awareness.
 
 **33.** "Quickly, Srinivasa, go to Vrindavana;
 if you delay, you will not meet Rupa."
@@ -2530,7 +2530,7 @@ take shelter at the feet of Gopala Bhatta.
 go and behold Raghunatha's renunciation in person.
 
 **67.** Chaitanya's mercy cannot be fathomed at all:
-through you he will flood everyone with prema.
+through you He will flood everyone with prema.
 
 **68.** Narahari is watching the road for you;
 see him and then go to Vrindavana."
@@ -2701,7 +2701,7 @@ and began to tell everything from beginning to end.
 by his command I live here — I tell you truly.
 
 **124.** See, this is the place where Mahaprabhu sat;
-I live here and serve — his command is binding on me."
+I live here and serve — His command is binding on me."
 
 **125.** Walking around it, he bowed;
 now he wept, now he rolled on the ground.
@@ -3187,7 +3187,7 @@ Srinivasa bowed and offered humble praise.
 **104.** "Rise, my son; I shall speak — hear the word that is the essence."
 Having heard him, Srinivasa spoke again:
 
-**105.** "Mahaprabhu, the guru of the world — the dharma he practised
+**105.** "Mahaprabhu, the guru of the world — the dharma He practised
 is all set out in the books of Sri Rupa.
 
 **106.** The instructor is [guru] to the servant birth after birth;
@@ -3217,7 +3217,7 @@ accepting him as his own, the Gosani said:
 **114.** "Wash both hands once more,
 and with joined palms meditate on the son of the King of Vraja.
 
-**115.** At his left is Sri Radhika, enchanting beyond measure,
+**115.** At His left is Sri Radhika, enchanting beyond measure,
 and Lalita, the manjaris and others, beautifully adorned."
 
 **116.** He had him worship each of them separately,
@@ -3346,17 +3346,17 @@ everywhere in it dwell Krishna's companions.
 **8.** That same Krishna descended as the Lord of Navadvipa,
 with mother, father, servants, friends and girl companions.
 
-**9.** First of all Vishnu himself descended:[^07-1]
+**9.** First of all Vishnu Himself descended:[^07-1]
 in Shantipur appeared Advaita, the crest-jewel [of devotees].
 
-**10.** He is the crest-jewel of devotees, and so he is called Acharya;
-through him [all the Prabhu's work] was accomplished.[^07-2]
+**10.** He is the crest-jewel of devotees, and so He is called Acharya;
+through Him [all the Prabhu's work] was accomplished.[^07-2]
 
 **11.** Madhavendra and others — twenty-four sannyasis:
 eight, eight and eight more[^07-3] — these are treasures of prema.
 
 **12.** All of them are Krishna's family in Vraja;
-all who came with him I shall describe in detail.
+all who came with Him I shall describe in detail.
 
 **13.** Four kinds of friends and servants, five kinds of girl companions —
 all this I write by command from the Prabhu's holy mouth.
@@ -3370,8 +3370,8 @@ so with deep faith I write it fully.
 **16.** Shachi Thakurani, wife of Jagannatha Mishra —
 know that her first son was Vishvarupa.
 
-**17.** His beauty had no equal, and he was very learned;
-seeing and hearing him, his mother and father rejoiced.
+**17.** His beauty had no equal, and He was very learned;
+seeing and hearing Him, His mother and father rejoiced.
 
 **18.** The house of Shachi's father was at Belpukhuria;
 it is needed for the story, and so I write of it.
@@ -3380,28 +3380,28 @@ it is needed for the story, and so I write of it.
 [then came] Ratnagarbha Pandita; Shachi was younger than they.
 
 **20.** His son, Lokanatha Pandita, rich in virtues,
-went along with Vishvarupa wherever he went.[^07-4]
+went along with Vishvarupa wherever He went.[^07-4]
 
 **21.** They studied in one place with great delight;
 what became of him I shall write a little at the end.
 
 **22.** Both mother and father held [Vishvarupa] as dear as life;
-after some days he came into Advaita's company.
+after some days He came into Advaita's company.
 
 **23.** He expounded the scriptures and spoke of much learning,
 and in a short time plainly became a great scholar.
 
-**24.** Weary of worldly life, he went off to distant lands;
-his father and mother weep, their life nearly at an end.
+**24.** Weary of worldly life, He went off to distant lands;
+His father and mother weep, their life nearly at an end.
 
 **25.** He gave up shikha and sacred thread and took the staff,
 and wore a kaupina and ruddy cloth.
 
 **26.** His name became Shankararanya Puri;
-what shall I say of all his kinds of virtue?
+what shall I say of all His kinds of virtue?
 
-**27.** Pandita Lokanatha became his disciple;
-he visits the holy places with him and serves him constantly.
+**27.** Pandita Lokanatha became His disciple;
+he visits the holy places with Him and serves Him constantly.
 
 **28.** After two years he attained perfection;
 this, it is said, was the doing of Yogamaya herself.[^07-5]
@@ -3419,12 +3419,12 @@ and the joy in the hearts of mother and father grew boundless.
 the joy of the brahmana and his wife kept growing.
 
 **33.** In the month of Magha, in the bright fortnight, on the thirteenth day,
-with every auspicious sign he was born at that moment.
+with every auspicious sign He was born at that moment.
 
-**34.** They named him Nityananda, and all rejoiced;
-at times he would stay stock-still, at times laugh aloud.
+**34.** They named Him Nityananda, and all rejoiced;
+at times He would stay stock-still, at times laugh aloud.
 
-**35.** For fourteen years he played from house to house;
+**35.** For fourteen years He played from house to house;
 one day a sannyasi came to the house.
 
 **36.** [Hadai] fed him with a joyful heart;
@@ -3436,17 +3436,17 @@ give me one alms — I have need of it."
 **38.** "As you command," he agreed.
 "Give me as alms this son of yours.
 
-**39.** In my old age he will take me round the holy places;
+**39.** In my old age He will take me round the holy places;
 you will have every happiness — do not grieve."
 
 **40.** Stricken by the parting, he placed his son in his hands,
 and the sannyasi at once took Nityananda away with him.
 
-**41.** He made him his disciple, but he did not take the staff,
+**41.** He made Him his disciple, but He did not take the staff,
 and wandered with him in the guise of an avadhuta.
 
 **42.** His heart was overflowing with the mood of Nanda's son;
-what he did, where he stayed — he had no outward awareness.
+what He did, where He stayed — He had no outward awareness.
 
 **43.** That great soul was Ishvara Puri himself.[^07-6]
 One day he smiled and said to Nityananda:
@@ -3455,7 +3455,7 @@ One day he smiled and said to Nityananda:
 do this one thing, my son, and all will be accomplished:
 
 **45.** the son of Nanda has descended in Navadvipa;
-seek him out with a joyful heart."
+seek Him out with a joyful heart."
 
 **46.** I write the simple account — [elsewhere] it is told at length;
 just to hear it brings happiness and boundless joy.
@@ -3463,13 +3463,13 @@ just to hear it brings happiness and boundless joy.
 **47.** Sankarshana and Balarama are one and the same being;
 Vishvarupa and Shankararanya are a difference of form in different kalpas.[^07-7]
 
-**48.** At home his name was Nityananda, in the ashrama Avadhuta;
+**48.** At home His name was Nityananda, in the ashrama Avadhuta;
 in the same way the son of Nanda is the son of Shachi.
 
-**49.** All of Mahaprabhu's own companions descended [before him];
+**49.** All of Mahaprabhu's own companions descended [before Him];
 I write of them as I heard from the Prabhu's mouth.
 
-**50.** After them he descended in Shachi's womb,
+**50.** After them He descended in Shachi's womb,
 and the devotees descended in various lands.
 
 **51.** On the full-moon day of Phalguna, at an auspicious moment, was the birth;
@@ -3479,7 +3479,7 @@ thus Mahaprabhu grew day by day.
 come and meet together in the ocean,
 
 **53.** so to Gaurachandra, the ocean of prema,
-[the devotees] come one by one and join him with joy in their hearts.
+[the devotees] come one by one and join Him with joy in their hearts.
 
 **54.** East of Navadvipa is a land called Yashohara;[^07-8]
 listen further, I shall tell of it.
@@ -3512,7 +3512,7 @@ seeing his parents' efforts, he reflected in his mind.
 and every impulse of renunciation arose in his heart.
 
 **64.** Constantly he remembers Chaitanya's feet;
-his mind longs: "I shall go and see him."
+his mind longs: "I shall go and see Him."
 
 **65.** In the month of Agrahayana, in the cold, having lain down to sleep,
 he took counsel within his own heart.
@@ -3532,7 +3532,7 @@ and walked slowly, pondering.
 **70.** Asking people the way, he goes to the Prabhu,
 thinking in his mind: "What shall I do, what shall I say?
 
-**71.** When I see the Prabhu I shall tell him who I am;
+**71.** When I see the Prabhu I shall tell Him who I am;
 but who knows whether the Prabhu will be kind to me?"
 
 **72.** Saying this, at times he weeps and walks slowly on:
@@ -3547,17 +3547,17 @@ and bows, his heart overflowing with prema.
 **75.** He joins his palms, but what is he to say? No words leave his mouth;
 at that moment the Prabhu rushes to embrace him.
 
-**76.** "O Lokanatha, you have forgotten me!
+**76.** "O Lokanatha, you have forgotten Me!
 How have you spent your time, to what lands did you go?"
 
-**77.** Saying this, Gaura weeps as he embraces him:
-"It seems fate has brought me a treasure.
+**77.** Saying this, Gaura weeps as He embraces him:
+"It seems fate has brought Me a treasure.
 
 **78.** I had been as one blind, forgetting everything."
 Lokanatha weeps, clasping the Prabhu's feet.
 
-**79.** Taking Lokanatha by the hand, he seated him beside him;
-now he gazes at his face, now he laughs.
+**79.** Taking Lokanatha by the hand, He seated him beside Him;
+now He gazes at his face, now He laughs.
 
 **80.** There too he met the Pandita;[^07-9]
 bowing, the two embraced.
@@ -3569,10 +3569,10 @@ after so many days my eyes have been blessed with good fortune."
 no one had outward awareness, all floated in the ocean of prema.
 
 **83.** He met Nityananda, Advaita and all the others;
-he bowed to them and they embraced him.
+he bowed to Them and They embraced him.
 
 **84.** Thus for five nights his meeting with the Prabhu went on;
-they relished much talk about Krishna and kirtana.
+They relished much talk about Krishna and kirtana.
 
 **85.** One day the Prabhu said: "Listen, Lokanatha:
 how did you leave worldly life and come here?"
@@ -3586,26 +3586,26 @@ you put the rope of mercy around my neck and drew me here."
 **88.** Thus Mahaprabhu, sitting in seclusion,
 called Lokanatha and gave him a command.
 
-**89.** Holding his hand, he said: "Listen, Lokanatha:
-to whom shall I tell the sorrow that rises in my heart?
+**89.** Holding his hand, He said: "Listen, Lokanatha:
+to whom shall I tell the sorrow that rises in My heart?
 
 **90.** Why have I come, and where are you all?
-That work is not being accomplished, and my heart aches.
+That work is not being accomplished, and My heart aches.
 
 **91.** To Nityananda, Advaita and all the devotees
 I shall speak to each according to his realization.
 
-**92.** But the realization of my own heart — to whom shall I tell it?
-Seeing me, some revile me, some go away laughing.
+**92.** But the realization of My own heart — to whom shall I tell it?
+Seeing Me, some revile Me, some go away laughing.
 
 **93.** Taking on Radhika's mood I have come to Gauda,
 […] a joy boundless and special.[^07-10]
 
-**94.** For my sake Radha gave up caste, family and wealth;
+**94.** For My sake Radha gave up caste, family and wealth;
 leaving everything, she surrendered her very self.
 
-**95.** She made me the lord of her life; in separation from me
-day and night she pines for my beauty and my virtues.
+**95.** She made Me the lord of her life; in separation from Me
+day and night she pines for My beauty and My virtues.
 
 **96.** Her body has become like a lotus-stalk fibre,
 her clothing soiled, she wanders like a madwoman.
@@ -3614,39 +3614,39 @@ her clothing soiled, she wanders like a madwoman.
 'He did not give me a hundred thousand eyes, as I wished.'
 
 **98.** With her eyes she looks on no other man's face;
-she hears of my virtues and speaks of them with her mouth.
+she hears of My virtues and speaks of them with her mouth.
 
-**99.** She is ever restless for union with me,
+**99.** She is ever restless for union with Me,
 and speaks of it so much from grove to grove on the Yamuna's bank.
 
 **100.** I am a rogue, impudent, an utter libertine,
 turning truth into untruth, a cheat and a deceiver.
 
-**101.** And yet, if she sees me face to face,
+**101.** And yet, if she sees Me face to face,
 her pique departs and she feels a hundred thousand joys.
 
-**102.** And if on some day there is no meeting with me,
+**102.** And if on some day there is no meeting with Me,
 a moment's separation she reckons as a hundred yugas.
 
 **103.** She whose love is such, whose longing is such —
 even the scriptures cannot tell such virtues of hers.
 
-**104.** She who sports in Vrindavana is my beloved;
-she is my life, and I am her life.
+**104.** She who sports in Vrindavana is My beloved;
+she is My life, and I am her life.
 
 **105.** For her sake I dwell in Vrindavana,
 and day and night I think of her play.
 
 **106.** That rasa of which friends, servants, father and mother are deprived,
-that rasa which enchants [me] — only the sakhis know it.
+that rasa which enchants [Me] — only the sakhis know it.
 
 **107.** For her virtues and her love I remain in her debt;
 this I have told you, Lokanatha.
 
-**108.** That is one sorrow of my heart; hear another thing:
-seeing me, a certain brahmana went away reviling me in every way.
+**108.** That is one sorrow of My heart; hear another thing:
+seeing Me, a certain brahmana went away reviling Me in every way.
 
-**109.** Earlier he committed an offence against me;
+**109.** Earlier he committed an offence against Me;
 it has borne fruit, and he does not know it.
 
 **110.** Not knowing that Krishna is the guru of the world,
@@ -3674,33 +3674,33 @@ I shall tell — hear a little of the reason for this.
 on the third day, I shall take sannyasa, for all to see.
 
 **118.** All brahmanas accept the staff-bearer as their guru;
-I have told you this firm resolve of my heart.
+I have told you this firm resolve of My heart.
 
 **119.** Truly, for the sake of these brahmanas I shall take sannyasa,
 leave home and wander from land to land.
 
-**120.** That is the outward reasoning; and now the intent of my heart —
+**120.** That is the outward reasoning; and now the intent of My heart —
 listen, Lokanatha, I tell it to you for certain.
 
 **121.** The whole purpose is to take on Radhika's mood;
 who will understand, who will hear what is in my heart?
 
-**122.** The colour of my body Radha wears as her clothing —
+**122.** The colour of My body Radha wears as her clothing —
 that is why blue garments give her such delight.
 
-**123.** In separation from me she wears ruddy cloth
-and ever regards herself as my own maidservant.
+**123.** In separation from Me she wears ruddy cloth
+and ever regards herself as My own maidservant.
 
-**124.** For my sake Radha and her companions,
+**124.** For My sake Radha and her companions,
 distraught in separation, were ready to give up their lives.
 
-**125.** I too shall give up my life for her sake;
+**125.** I too shall give up My life for her sake;
 that state will come — you will remain and hear of it.
 
 **126.** I shall take on her lustre and wear ruddy cloth,
 and with a joyful heart become her servant.
 
-**127.** That is why I shall clothe my body in ruddy cloth;
+**127.** That is why I shall clothe My body in ruddy cloth;
 I shall chant her virtues — so I have told you.
 
 **128.** All her virtues I can never repay,
@@ -3710,18 +3710,18 @@ even if I had a lifespan of a hundred births on earth.
 this I have told you, Lokanatha.
 
 **130.** I shall flood the world with her fame and glory —
-then I shall know that she has shown me such mercy.
+then I shall know that she has shown Me such mercy.
 
-**131.** I shall attain her prema, my eyes will weep,
+**131.** I shall attain her prema, My eyes will weep,
 and, grey with dust, I shall dance in sankirtana."
 
 **132.** Saying this, Gaura-raya weeps aloud
 and, crying "Radha! Vrindavana!", rolls on the ground.
 
-**133.** Lokanatha held the Prabhu in his arms and calmed him;
-but as he spoke of Radha's virtues, he began to tremble.
+**133.** Lokanatha held the Prabhu in his arms and calmed Him;
+but as He spoke of Radha's virtues, He began to tremble.
 
-**134.** "How much sorrow, how much joy — my heart knows;
+**134.** "How much sorrow, how much joy — My heart knows;
 only the groves of Vrindavana are witness to it.
 
 **135.** Rise at dawn and go to Vrindavana;
@@ -3736,13 +3736,13 @@ they will describe the lila in books and perform their own bhajana.
 **138.** As I have told you, so I shall tell Rupa,
 and send him off, infusing him with power.
 
-**139.** I shall say more — hear what is in my mind:
+**139.** I shall say more — hear what is in My mind:
 as that shelter is, so is the attainment, and so the bhajana.
 
 **140.** To make it firmer still I say it again:
 when one hears from the guru's mouth, everything becomes certain.
 
-**141.** The lila that is my cherished goal — that is the worship;
+**141.** The lila that is My cherished goal — that is the worship;
 can other people come to know it?
 
 **142.** You are the crest-jewel of the wise, you know every secret;
@@ -3766,29 +3766,29 @@ Radha and Chandravali are there.
 **148.** The natures of the two are of two kinds:
 Radha and hers are vama, Chandravali dakshina."[^07-15]
 
-**149.** As he spoke, another state came over the Prabhu;
-holding Lokanatha's hand, he began to speak:
+**149.** As He spoke, another state came over the Prabhu;
+holding Lokanatha's hand, He began to speak:
 
-**150.** "There is one desire of my heart, a kind of corollary;
-in that which is of gain to me you shall be my helper.
+**150.** "There is one desire of My heart, a kind of corollary;
+in that which is of gain to Me you shall be My helper.
 
 **151.** In another body the perfected devotee forgets the lila
 and regards himself as entirely like prakriti.[^07-16]
 
-**152.** Chaitanya himself instructs him,
+**152.** Chaitanya Himself instructs him,
 and as he listens he remembers everything.
 
 **153.** Such is the Prabhu's mercy to the perfected devotee;
 only he whose mind is firm knows it.
 
-**154.** What I shall do, what I shall say, the word of my heart —
+**154.** What I shall do, what I shall say, the word of My heart —
 that will become the renowned scripture in every way.
 
 **155.** When I send Rupa and Sanatana to Vrindavana,
 they will reflect on many books and treatises.
 
 **156.** All of you together will approve it well;
-let no one slight it — that would grieve me."
+let no one slight it — that would grieve Me."
 
 **157.** Lokanatha said: "Prabhu, I beg of you:
 dispel my doubt and purify my mind.
@@ -3854,7 +3854,7 @@ seeing firm statements, all will accept them.
 he will write the word of his heart, full of rasa.
 
 **178.** Just now he[^07-19] is in the king's presence;
-in my mercy I shall send him after you.
+in My mercy I shall send him after you.
 
 **179.** All will be together in that Vrindavana
 and spend their time together relishing the lila.
@@ -3865,7 +3865,7 @@ by which the son of Nanda is attained.
 **181.** What should and should not be done, what is gain and what is loss —
 hearing this, all people will take shelter.
 
-**182.** In this is my joy; this is the word of my heart;
+**182.** In this is My joy; this is the word of My heart;
 and then whatever I say will fully agree with that.
 
 **183.** Age after age people worship Krishna,
@@ -3874,26 +3874,26 @@ but who attains Radhika's feet?
 **184.** All those firm scriptures of many kinds —
 hearing them, I shall have boundless joy.
 
-**185.** I myself shall be intoxicated and intoxicate[^07-20] the people of the world —
-for this my heart pines every moment —
+**185.** I Myself shall be intoxicated and intoxicate[^07-20] the people of the world —
+for this My heart pines every moment —
 
 **186.** so that people may attain Radhika's two feet
 and practise bhajana and remembrance, leaving sorrow and grief behind.
 
 **187.** For your sake I shall beg alms of her;
-to whom else shall I tell the sorrow of my heart?
+to whom else shall I tell the sorrow of My heart?
 
-**188.** Wherever the lord of Radha's life performs his lila,
+**188.** Wherever the lord of Radha's life performs His lila,
 there, together with all the sakhis —
 
 **189.** I have no power to describe it.
 I am a poor sannyasi, and I have a need:
 
-**190.** I shall eat myself and distribute to all the people of the world;
-let them know that you have made me rich with your wealth.
+**190.** I shall eat Myself and distribute to all the people of the world;
+let them know that you have made Me rich with your wealth.
 
-**191.** In my sorrow you will be sorrowful, in my joy joyful;
-whenever anything happens, write and send me news.
+**191.** In My sorrow you will be sorrowful, in My joy joyful;
+whenever anything happens, write and send Me news.
 
 **192.** And I shall write and send to all of you,
 and through those letters you will know what is well and what is ill.
@@ -3911,7 +3911,7 @@ what I say, hear with a steady mind.
 he alone knows the inner essence of that dharma.
 
 **197.** One who holds to varna and ashrama does not have exclusive shelter,
-and Krishna himself does not accept him.
+and Krishna Himself does not accept him.
 
 **198.** After staying some days in Nilachala I shall come to Gauda,
 and, having renounced everything, wander in the garb of a pauper."
@@ -3941,7 +3941,7 @@ the scriptures to be read and the intent of the saints are deep.
 whoever transgresses [this order] is broken by it.
 
 **207.** The people of Vraja do not regard Krishna as God:
-they always serve him in love and float in prema.
+they always serve Him in love and float in prema.
 
 **208.** For that joy they gave up everything;
 and they have one more mighty saying:
@@ -3977,13 +3977,13 @@ such is the renowned sakhi devoted to service."
 gazing at his face, he began to weep.
 
 **219.** "Intoxicated with that rasa, stay in that place;
-save my life — go to Vrindavana.
+save My life — go to Vrindavana.
 
 **220.** Girikunda, Govardhana, Javata, Varshana,[^07-22]
 Sanketa, the secluded groves, all the places of the lila:
 
 **221.** live in those places and your heart will be happy;
-leave your attachment to me and set out on the road.
+leave your attachment to Me and set out on the road.
 
 **222.** Dwell there where your birthplace is,[^07-23]
 perform bhajana and remember Kishora and Kishori.
@@ -4007,22 +4007,22 @@ and its followers will be past counting.
 then you will know [everything], when all are gathered."
 
 **229.** The night passed; in the morning the Prabhu was seated;
-saying something to Lokanatha, he seated him beside him.
+saying something to Lokanatha, He seated him beside Him.
 
 **230.** The Prabhu said: "Lokanatha, go to Vrindavana;
 all sorrow will leave you and you will find your own happiness.
 
-**231.** I have told you the pain of my heart only as instruction."[^07-24]
+**231.** I have told you the pain of My heart only as instruction."[^07-24]
 Rising, the Prabhu embraced him with love.
 
-**232.** He prostrated himself, and [the Prabhu] placed his feet on his head,
+**232.** He prostrated himself, and [the Prabhu] placed His feet on his head,
 and then began to weep, holding his hand.
 
-**233.** "I have given you my own land, Vrindavana, as a gift."
+**233.** "I have given you My own land, Vrindavana, as a gift."
 Lokanatha lost outward awareness and began to weep.
 
 **234.** Who but the master and the servant can understand all this?
-Who knows what the two of them experienced?
+Who knows what the two of Them experienced?
 
 **235.** Gadadhara Pandita was there;
 his disciple Bhugarbha made a request:
@@ -4048,7 +4048,7 @@ why he sent him and why he weeps — who can understand?
 **242.** The master and the servant know, but no one else knows
 in what manner the two departed.
 
-**243.** So [the Prabhu] joyfully disports himself in Navadvipa
+**243.** So [the Prabhu] joyfully disports Himself in Navadvipa
 together with Nityananda, Advaita and the other devotees.
 
 **244.** Now hear attentively what I shall write,
@@ -4114,11 +4114,11 @@ hear a most wondrous account.
 **264.** I wish to make known what else I have heard;
 let it pain someone's heart — for me it is joy.
 
-**265.** Gadadhara, dear to Gauranga, is his own shakti;
+**265.** Gadadhara, dear to Gauranga, is His own shakti;
 let no one admit disbelief in this.
 
-**266.** I do not know — Gauranga himself knows;
-what loss or gain there is in it, he knows.
+**266.** I do not know — Gauranga Himself knows;
+what loss or gain there is in it, He knows.
 
 **267.** Gadadhara descended in the form of Krishna's beloved;
 only he knows it to whom his mercy is great.
@@ -4129,20 +4129,20 @@ has great love for Lokanatha.
 **269.** Manjulali and Nandimukhi love each other dearly;
 Gauranga let them be together — know this for certain.
 
-**270.** Chaitanya-chandra himself is the guru of the world,
+**270.** Chaitanya-chandra Himself is the guru of the world,
 merciful to living beings, a wish-fulfilling tree.
 
-**271.** He is qualified for every rasa, he is the goal and what is attained;
-that is why he is worshipped by all.
+**271.** He is qualified for every rasa, He is the goal and what is attained;
+that is why He is worshipped by all.
 
 **272.** He took on the mood of a devotee and established dharma;
-the Prabhu, the treasure of my life, knows his own devotees.
+the Prabhu, the treasure of my life, knows His own devotees.
 
-**273.** As many virtues as Gaura-raya has, so many has [his] devotee;
-why then does he give instruction to such a devotee?
+**273.** As many virtues as Gaura-raya has, so many has [His] devotee;
+why then does He give instruction to such a devotee?
 
-**274.** Speaking in dreams, he reveals everything to the devotees;
-they can hold the Prabhu's virtues but cannot hold his power.
+**274.** Speaking in dreams, He reveals everything to the devotees;
+they can hold the Prabhu's virtues but cannot hold His power.
 
 **275.** When Lokanatha Gosani wandered through Vrindavana,
 the Prabhu's power was infused into him in the course of it.[^07-26]
@@ -4216,8 +4216,8 @@ and, settling there, they remained there.
 **298.** "Gauranga, I shall not see your feet again;
 I have stayed here holding only to your command.
 
-**299.** The lila that the Prabhu will perform with his devotees —
-of that he has deprived me and sent me here.
+**299.** The lila that the Prabhu will perform with His devotees —
+of that He has deprived me and sent me here.
 
 **300.** When shall I see Rupa and Sanatana with my own eyes?
 Then I shall count my life blessed."
@@ -4306,11 +4306,11 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^07-17]: Here, in Vraja.
 [^07-18]: Variant: "...prema grows deeper still".
 [^07-19]: Rupa, then in service at the court of the Sultan of Gauda.
-[^07-20]: Variant: "I myself shall dance and make others dance".
+[^07-20]: Variant: "I Myself shall dance and make others dance".
 [^07-21]: The couplet is corrupt in the 1913 edition and lost in the 1999 edition; the rendering is tentative.
 [^07-22]: Javata (Yavata) is Radha's village after her marriage, Varshana her father's village. Variant: "Girikunda, Nandishvara, Javata, Varshana".
 [^07-23]: Apparently the place connected with his eternal form as a sakhi.
-[^07-24]: Variant: "in brief I have told the pain of my heart".
+[^07-24]: Variant: "in brief I have told the pain of My heart".
 [^07-25]: Variant: "on the twenty-third day".
 [^07-26]: The line is understood tentatively.
 [^07-27]: Apparently Radha-kunda and Shyama-kunda, at that time ploughed over as fields.
@@ -4364,10 +4364,10 @@ but he did not go to Vrindavana — he turned back from Kanai Natashala.
 **14.** That story is told at length in earlier writings;[^08-1]
 [here] I only describe the virtues of Narottama.
 
-**15.** At the ghat of Tartipur[^08-2] he crossed the Padma,
-and seeing the beauty of the Padmavati he rejoiced.
+**15.** At the ghat of Tartipur[^08-2] He crossed the Padma,
+and seeing the beauty of the Padmavati He rejoiced.
 
-**16.** Clasping Nityananda round the neck, he sat down right there:
+**16.** Clasping Nityananda round the neck, He sat down right there:
 "I shall not go to Vrindavana; I shall stay here."
 
 **17.** Hearing the Prabhu, Nityananda laughed:
@@ -4395,10 +4395,10 @@ and came to a village near Gauda,
 there was a meeting with Sanatana, full of prema.
 
 **25.** Having accomplished the purpose of that meeting,
-from there he went on and arrived at Natashala.
+from there He went on and arrived at Natashala.
 
 **26.** Hearing the village's name, "Krishna's Natashala,"
-prema surged in his body, mistaking it for Vrindavana.
+prema surged in His body, mistaking it for Vrindavana.
 
 **27.** Nityananda said: "Prabhu, ever since you left the Padmavati,
 you have had a mind to live on a river bank."[^08-5]
@@ -4409,8 +4409,8 @@ the Prabhu's intentions cannot be understood at all.
 **29.** One day Mahaprabhu, dancing in kirtana,
 suddenly called out the name "Narottama!"
 
-**30.** Leaning his whole body against Nityananda,
-he wept, and hundreds of streams flowed from his eyes.
+**30.** Leaning His whole body against Nityananda,
+He wept, and hundreds of streams flowed from His eyes.
 
 **31.** Seeing these transformations of prema, [Nityananda] reflected
 and, seized with fear, stopped the kirtana.
@@ -4419,12 +4419,12 @@ and, seized with fear, stopped the kirtana.
 sing Krishna's name in sweet voices.
 
 **33.** "Sing, sing!" cried the Prabhu, and fell to the ground,
-and Nityananda Prabhu could no longer hold him.
+and Nityananda Prabhu could no longer hold Him.
 
-**34.** Crying "Mathura, Mathura!" he weeps;
+**34.** Crying "Mathura, Mathura!" He weeps;
 hearing it, the devotees' hearts break.
 
-**35.** At the name of Mathura he lost all sense of direction;
+**35.** At the name of Mathura He lost all sense of direction;
 the village of Natashala quaked with prema.
 
 **36.** The Prabhu weeps aloud, calling "Mathura!";
@@ -4433,41 +4433,41 @@ Nityananda sat down, holding the Prabhu round the neck.
 **37.** Everyone cried out, a great tumult arose;
 the housewives and others came to see.
 
-**38.** Crying "Mathura, Mathura!" he rolls on the ground;
+**38.** Crying "Mathura, Mathura!" He rolls on the ground;
 the Prabhu's golden body lies sprawled on the earth.
 
 **39.** Seeing the Prabhu's beauty, the sweetness of prema,
-men and women gaze at his form without blinking.
+men and women gaze at His form without blinking.
 
 **40.** He roars "hum, hum," saying "Mathura!";
 the Prabhu became intoxicated with prema like a mad baul.
 
-**41.** "Where is Radha? Radha!" he says again and again,
+**41.** "Where is Radha? Radha!" He says again and again,
 "My body burns when I do not see you!
 
 **42.** Where are Lalita and Vishakha, where is Champakalata?
-Ah, show me — where is my friend, dear as life?
+Ah, show Me — where is My friend, dear as life?
 
-**43.** Show yourself and save my life — why do you give me sorrow?
-I shall throw myself into the Yamuna; I cannot go on living.
+**43.** Show yourself and save My life — why do you give Me sorrow?
+I shall throw Myself into the Yamuna; I cannot go on living.
 
 **44.** Come quickly, friend Lalita, let us go to Madhupuri;
-why can I no longer see the lord of my life?"
+why can I no longer see the lord of My life?"
 
-**45.** Seeing him distraught, the Prabhu[^08-6] sat holding him
+**45.** Seeing Him distraught, the Prabhu[^08-6] sat holding Him
 and began to think: "What am I to do, what will happen?
 
 **46.** Let us go — why did we come to the village of Natashala?
-We have lost Gorachand!" he thinks to himself.
+We have lost Gorachand!" He thinks to Himself.
 
 **47.** The Sripada found a means in sankirtana:
-he loudly raised the cry "Jagannatha!"
+He loudly raised the cry "Jagannatha!"
 
 **48.** At the name of Jagannatha the Prabhu regained consciousness
 and for a while wandered here and there.
 
 **49.** Calling "Narottama!", the Prabhu weeps unceasingly;
-he looks in every direction, but does not see Narottama.
+He looks in every direction, but does not see Narottama.
 
 **50.** All say: "Let us take the Prabhu to Nilachala;
 then all my good fortune will be complete.
@@ -4475,10 +4475,10 @@ then all my good fortune will be complete.
 **51.** If somehow we can turn the Prabhu's mind,
 once we have crossed the Padmavati we shall have everything."
 
-**52.** At that moment he again calls out "Narottama!"
+**52.** At that moment He again calls out "Narottama!"
 [They thought:] "It seems some best of bhagavatas is to come."
 
-**53.** Clasping the Sripada, the Prabhu embraced him,
+**53.** Clasping the Sripada, the Prabhu embraced Him,
 and Nitai's body was drenched with tears.
 
 **54.** With effort they calmed the Prabhu,
@@ -4491,13 +4491,13 @@ there is great need to go to Jagannatha.
 he told of the crowds of people and the dangers of the way."
 
 **57.** "Whatever you think best, do that;
-whatever you do will be — I am not my own master."
+whatever you do will be — I am not My own master."
 
 **58.** The Prabhu said: "Sripada, listen attentively:
 there is a reason why we came to Natashala."
 
-**59.** "What business is there, Prabhu? Tell me, let me hear;
-if it seems right to me, I shall take [you] — then I shall agree."
+**59.** "What business is there, Prabhu? Tell Me, let Me hear;
+if it seems right to Me, I shall take [you] — then I shall agree."
 
 **60.** Nityananda said: "Prabhu, I beg of you:
 in the sankirtana you remembered Narottama.
@@ -4512,7 +4512,7 @@ I think: better that I should die this very moment."
 as soon as you see it, you will want to stay.
 
 **64.** Listen, listen, Sripada, I shall explain in detail:
-I wish to preserve here the sankirtana, the treasure of my life.
+I wish to preserve here the sankirtana, the treasure of My life.
 
 **65.** In Navadvipa the sankirtana was made manifest,
 but I have left Gauda and live in Nilachala.
@@ -4524,7 +4524,7 @@ I shall lay up prema at Garerhat — so I tell you."
 Who is the vessel to whom you will give such prema?"
 
 **68.** The Prabhu said: "As long as you are present [in the world],
-so long my prema will not disappear.
+so long My prema will not disappear.
 
 **69.** If this prema is kept with a worthy vessel, it remains;
 if it falls on an unworthy one, prema is wasted.
@@ -4551,7 +4551,7 @@ and give it to a vessel named Narottama.
 for now I shall leave it in the keeping of the Padmavati."
 
 **77.** Nityananda said: "Prabhu, where is Garerhat?
-Take me with you and go there."
+Take Me with you and go there."
 
 **78.** "Both banks of the Padmavati are very cool,
 and between them the Padmavati flows in a pure stream."
@@ -4559,25 +4559,25 @@ and between them the Padmavati flows in a pure stream."
 **79.** Hearing this, Nityananda's heart rejoiced:
 "Make haste, Prabhu, and go there."
 
-**80.** On the pretext of [the journey to] Vrindavana he came to Garerhat;
-thus he turned back from Natashala.
+**80.** On the pretext of [the journey to] Vrindavana He came to Garerhat;
+thus He turned back from Natashala.
 
 **81.** Holding Nityananda's hand, laughing and laughing,
-he began to speak, seeing the beauty of the Padmavati.
+He began to speak, seeing the beauty of the Padmavati.
 
-**82.** So he came to the village of Kudodarapura,[^08-8]
+**82.** So He came to the village of Kudodarapura,[^08-8]
 and, seeing the beauty of the bank, was full of joy.
 
-**83.** There he stayed, in talk about Krishna,
+**83.** There He stayed, in talk about Krishna,
 and at dawn the Prabhu went to the Padmavati.
 
 **84.** Having bathed, the Prabhu began kirtana on the bank;
-with roars of "hum, hum," overflowing with prema, he shook violently.
+with roars of "hum, hum," overflowing with prema, He shook violently.
 
 **85.** How shall I behold that prema, what is its meaning?
-A thousand people were not able to hold him.
+A thousand people were not able to hold Him.
 
-**86.** At that moment he cried out "Narottama!"
+**86.** At that moment He cried out "Narottama!"
 The Sripada said: "[He is] stealing the play of prema.[^08-9]
 
 **87.** Listen, listen, devotees, be on your guard:
@@ -4586,14 +4586,14 @@ at this moment, I surmise, he is going to take the prema."
 **88.** At Nityananda's words the devotees were startled,
 and Nityananda stopped the kirtana.
 
-**89.** With the kirtaniyas the Prabhu began his bath,
+**89.** With the kirtaniyas the Prabhu began His bath,
 and the Padmavati, drunk with prema, began to rise.
 
 **90.** At the touch of the Prabhu's body the current stood still,
 and all the water was filled with prema.
 
 **91.** Rising and rising, the water flooded the village;
-we understood that in this way he flooded [it] with prema.
+we understood that in this way He flooded [it] with prema.
 
 **92.** Houses and homesteads floated away; there was an uproar in the village;
 "This is not the rains," but no one could understand.
@@ -4699,7 +4699,7 @@ and revealed the treasure of prema in all its endless fullness.
 and began [the work] so that prema would remain hereafter.
 
 **6.** To the feet of such a Virachandra — millions of obeisances:
-from him prema spread through Gauda.
+from Him prema spread through Gauda.
 
 **7.** All these wondrous events are hidden from people;
 no one has written this inner truth in the shastras.
@@ -4714,19 +4714,19 @@ all of Chaitanya's circle are devoted to this.[^09-2]
 all of them, by a former word, at Chaitanya's command.
 
 **11.** Through the sankirtana of Hari-nama living beings became intoxicated;
-for his own secret purpose Chaitanya came.
+for His own secret purpose Chaitanya came.
 
-**12.** Even if his own circle does not know it,
+**12.** Even if His own circle does not know it,
 it is present both inwardly and outwardly — the shastras are the proof.
 
 **13.** All this Gaura-raya tastes,
-and Svarupa and Ramananda assist him in it.
+and Svarupa and Ramananda assist Him in it.
 
-**14.** The Prabhu tastes it in his own heart;
+**14.** The Prabhu tastes it in His own heart;
 others taste it by ascertaining the shastras.
 
 **15.** By the Lord's command shastras come to light;
-therefore he sent a letter to Vrindavana.
+therefore He sent a letter to Vrindavana.
 
 **16.** [Those who] went to Vrindavana, the land granted them by Chaitanya,[^09-3]
 none of them will come to Gauda again.
@@ -4734,10 +4734,10 @@ none of them will come to Gauda again.
 **17.** One composes a shastra and the others assist;
 for this reason they all always stay together.
 
-**18.** Then Gauranga reflects in his own mind:
+**18.** Then Gauranga reflects in His own mind:
 "When I go, the world will be left without prema.
 
-**19.** Those who came with me will go [with me] in every way;
+**19.** Those who came with Me will go [with Me] in every way;
 by what means, then, will prema be preserved?"
 
 **20.** For this reason — two manifestations of prema:
@@ -4945,7 +4945,7 @@ seeing his beauty, his father and mother rejoiced at heart.
 and at that time he firmly resolved in his mind to leave home.
 
 **16.** That very night in a dream came Nityananda Prabhu,
-laid his hand on his breast and smiles softly:
+laid His hand on his breast and smiles softly:
 
 **17.** "Why are you so unconcerned — have you forgotten everything?
 In the morning go and receive prema from the Padmavati.
@@ -4969,7 +4969,7 @@ and to bathe he went down into the water.
 she remembered the words of Chaitanya Prabhu.
 
 **24.** "He at whose touch the transformations of prema arise in you,
-to him you will hand over prema" — so he had firmly said.[^10-5]
+to him you will hand over prema" — so He had firmly said.[^10-5]
 
 **25.** "Surely this is that Narottama who has come to me" —
 and Padma humbly speaks these words:
@@ -5322,7 +5322,7 @@ I have not seen the feet of Prabhu Lokanatha!"
 **141.** So saying, he remained lying beneath the tree;
 crying "Prabhu Lokanatha!", he was distraught:
 
-**142.** "Where is Prabhu Gaura-raya? I cannot see him.[^10-24]
+**142.** "Where is Prabhu Gaura-raya? I cannot see Him.[^10-24]
 What will become of me, where shall I go?
 
 **143.** I shall not see Prabhu Rupa and Sanatana with my eyes;
@@ -5350,13 +5350,13 @@ and [Narottama], worn out by the journey, fell into a deep sleep.
 laying a hand on his breast, they say: "All your troubles are over.
 
 **151.** Listen, listen, Narottama, drink the milk:
-Sri Chaitanya Prabhu himself came and gave you the milk.
+Sri Chaitanya Prabhu Himself came and gave you the milk.
 
 **152.** We two brothers have come to see you;
 come, come, Narottama, let us go to Vrindavana.
 
-**153.** Gauranga himself brought you the milk:
-seeing your exhaustion and pain from the road, he showed great mercy."
+**153.** Gauranga Himself brought you the milk:
+seeing your exhaustion and pain from the road, He showed great mercy."
 
 **154.** At this Narottama came to his senses,
 and in separation from the three he wept much.
@@ -5398,7 +5398,7 @@ in leaving home the body suffers great hardship.
 know that this is how Mahaprabhu's mercy comes.
 
 **167.** Do not worry — rise, dear one, go to Vrindavana;
-knowing your heart, he showed himself to you for this.
+knowing your heart, He showed Himself to you for this.
 
 **168.** The Prabhu has placed prema within you;[^10-25]
 with it you will flood the whole world.
@@ -5409,17 +5409,17 @@ your followers will cover the whole earth.[^10-26]
 **170.** The two Prabhus appeared in Gauda
 and filled the world with the play of prema.
 
-**171.** For the sake of their play they are two — yet are they not one life?
+**171.** For the sake of Their play They are two — yet are They not one life?
 Know for certain that there is proof of this.
 
-**172.** In this his mercy is mighty;
-he carefully made it known to his own and to others.
+**172.** In this His mercy is mighty;
+He carefully made it known to His own and to others.
 
 **173.** We two brothers — what wretched fools we are!
-yet he implanted his own power in us."
+yet He implanted His own power in us."
 
 **174.** Sanatana says: "Listen, Narottama:
-in the two bodies he is one and the same life.
+in the two bodies He is one and the same life.
 
 **175.** In the same way Narottama and Srinivasa:
 when the Prabhu became unmanifest, you two appeared."
@@ -5439,7 +5439,7 @@ this I have described by my Prabhu's command.
 **180.** Whoever hears this with faith
 will soon attain the feet of Radha and Krishna.
 
-**181.** One to whom Gauranga himself is merciful
+**181.** One to whom Gauranga Himself is merciful
 abandons worldly life, and renunciation is born in his heart.
 
 **182.** [One to whom] Rupa and Sanatana show deep mercy
@@ -5454,7 +5454,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^10-2]: Annaprashana, the rite of a child's first feeding with rice.
 [^10-3]: Apparently the local ruler, overlord of Narottama's father; below (98) he is called a jagirdar.
 [^10-4]: "hāte khaṛi", the rite of beginning to learn letters: chalk (or a slate pencil) is put into the child's hand and he is taught to write his first letters.
-[^10-5]: A variant given in the 1913 edition: "to him you will hand over prema, my deposit".
+[^10-5]: A variant given in the 1913 edition: "to him you will hand over prema, My deposit".
 [^10-6]: The first line of the couplet is found only in the 1913 edition.
 [^10-7]: An allusion to the turbulent and changeable nature of the river Padma, which often shifts its course and erodes its banks.
 [^10-8]: Chaitanya and Nityananda.
@@ -5487,7 +5487,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 Glory, glory to Nityananda, whose heart is full of compassion!
 
 **2.** Glory, glory to Sri Jahnava, glory to Virachandra!
-Glory, glory to all who are bound to their mercy!
+Glory, glory to all who are bound to Their mercy!
 
 **3.** Glory to Srinivasa, glory, glory to Narottama!
 Only by great fortune is shelter at their feet obtained.
@@ -5639,8 +5639,8 @@ receiving his touch, Narottama was overwhelmed with joy.
 **52.** "I saw in a dream that you would come today;
 meeting you, a blind man has received eyes.
 
-**53.** In his mercy Chaitanya has sent you:
-he has brought a treasure and given it to a poor man."[^11-8]
+**53.** In His mercy Chaitanya has sent you:
+He has brought a treasure and given it to a poor man."[^11-8]
 
 **54.** Taking him by the hand, they led him to the temple of Govinda,
 and Jiva Gosani, holding his hand, entrusted him [to Lokanatha].
@@ -5661,7 +5661,7 @@ at the sight of his guru prema rose in him wave upon wave.
 and Narottama told him everything from beginning to end:
 
 **60.** "A golden child entered my heart;
-by his power I saw the feet of Sri Rupa.
+by His power I saw the feet of Sri Rupa.
 
 **61.** I am still without shelter[^11-10] — how can I sit with you?
 How can I sit together [with you] and partake of prasada?"
@@ -5670,12 +5670,12 @@ How can I sit together [with you] and partake of prasada?"
 and once more asked him something:
 
 **63.** "You yourself said: a golden child —
-you saw him directly with your own eyes.
+you saw Him directly with your own eyes.
 
-**64.** He himself entered your heart;
-he is the guru of the world, and you want to take a guru?
+**64.** He Himself entered your heart;
+He is the guru of the world, and you want to take a guru?
 
-**65.** Attend: Chaitanya himself in the form of prema
+**65.** Attend: Chaitanya Himself in the form of prema
 has bestowed that prema on your heart.
 
 **66.** That prema for which all perform bhajana —
@@ -5690,11 +5690,11 @@ Without and within you have such a treasure of prema.
 **69.** With that mercy, with that prema, you have come to Vrindavana;
 what need have you of a guru's work, of the goal and its fruit?
 
-**70.** In whose heart he dwells day and night,
+**70.** In whose heart He dwells day and night,
 what is there left for him that he has not obtained?
 
 **71.** By that mercy you have seen Govinda;
-his command came — and you partook of prasada."
+His command came — and you partook of prasada."
 
 **72.** Narottama says: "Prabhu, I am most wretched;
 only your command is wise.
@@ -5705,14 +5705,14 @@ I will make my request once more, if you permit."
 **74.** "Tell me, dear one, what have you to say?"
 Prostrating himself, [Narottama] set forth everything:
 
-**75.** "Chaitanya himself descended in the Kali age[^11-11]
+**75.** "Chaitanya Himself descended in the Kali age[^11-11]
 and delivered all — chandalas, yavanas and the rest.
 
-**76.** He is the guru of the world, all people serve him,
-and yet he established the proper order.
+**76.** He is the guru of the world, all people serve Him,
+and yet He established the proper order.
 
-**77.** He himself established the law of [accepting] a guru,
-and likewise all his companions, the whole circle of the Prabhu.
+**77.** He Himself established the law of [accepting] a guru,
+and likewise all His companions, the whole circle of the Prabhu.
 
 **78.** By whatever command the guru instructs the disciple,
 in accordance with his word the disciple attains what is to be attained.
@@ -5988,7 +5988,7 @@ kunkuma, musk and [all things] for adornment.[^11-21]
 clasp [my] two feet and surrender yourself.
 
 **169.** In a temple of jewels, in the midst of a jewelled throne,
-shines Sri Nanda-nandana, and on his left, Radhika.
+shines Sri Nanda-nandana, and on His left, Radhika.
 
 **170.** Make Sri Vilasa Manjari your own self —
 Vilasa Manjari, the attendant of Manjulali.[^11-22]
@@ -5997,7 +5997,7 @@ Vilasa Manjari, the attendant of Manjulali.[^11-22]
 on Radhika's left remember the manjaris.
 
 **172.** Place garlands and sandal on the breasts of Radha and Krishna,
-anoint their bodies with kunkuma and musk.
+anoint Their bodies with kunkuma and musk.
 
 **173.** Worship the sakhis one by one."
 And he entrusted him into the hands of the sakhis:
@@ -6072,7 +6072,7 @@ how to contemplate Radha and Krishna in the mind.
 I will tell it in order — listen.
 
 **197.** The chief [object] of sadhana is Krishna in a body [playing] human pastimes;
-the measure of his age is up to sixteen years.
+the measure of His age is up to sixteen years.
 
 **198.** Such is the established kind of sadhana;
 [in it] Radha and the host of sakhis appear as mature.[^11-26]
@@ -6161,7 +6161,7 @@ I understood in my heart the separation of Krishna and Radha.
 **226.** What service should be done at the time of separation?
 Let a command be given me for each one separately.
 
-**227.** [Krishna] goes home with his companions to Nandishvara,
+**227.** [Krishna] goes home with His companions to Nandishvara,
 [while Radha] goes from the kunda to Vrishabhanu's house.
 
 **228.** Thus I have understood the course of separation from Krishna;
@@ -6179,8 +6179,8 @@ what worship is there, what attainment? I will tell you in private.
 **232.** In separation from Krishna, Radha's heart grieves,
 and all the sakhis [tell] of Krishna's pastimes with deep feeling.
 
-**233.** To calm her heart they speak of his beauty and virtues,
-of where he stays and what he does there.
+**233.** To calm her heart they speak of His beauty and virtues,
+of where He stays and what He does there.
 
 **234.** Then joy is born in Radha's heart;
 know in your heart with whom [among the sakhis] you dwell."
@@ -6264,7 +6264,7 @@ of what is attainable and unattainable, of causes and non-causes.
 and the manner in which it manifests.
 
 **261.** Taking shelter in Krishna, one abandons the karma that is the cause [of bondage] —
-one whose way is exclusive refuge [in him].
+one whose way is exclusive refuge [in Him].
 
 **262.** If one does not act so, [that body] does not manifest;
 through association with [people] given to karma[^11-37] all this is destroyed.
@@ -6293,7 +6293,7 @@ when there is doubt, one cannot perform sadhana.
 **270.** One who performs sadhana out of fear of the shastras [that prescribe] good and evil —
 of him, as the Gosani writes, it is said: [his way] is vaidhi.
 
-**271.** Mahaprabhu infused his power into Rupa,
+**271.** Mahaprabhu infused His power into Rupa,
 and by that command he propagated the shastra on sadhana.
 
 **272.** He sent the Prabhu this essence of the book
@@ -6312,10 +6312,10 @@ what is attainable and what is not.'
 and on seeing the book they read it, overwhelmed with joy.
 
 **277.** From that day all perform sadhana —
-Gauranga himself and all his own circle.
+Gauranga Himself and all His own circle.
 
-**278.** The Prabhu quickly wrote a letter with his own hand;
-whatever the Prabhu commanded, he wrote in it:
+**278.** The Prabhu quickly wrote a letter with His own hand;
+whatever the Prabhu commanded, He wrote in it:
 
 **279.** 'This kind of dharma is the essence of the parts of sadhana;
 one who practises it himself can deliver [others].'
@@ -6327,7 +6327,7 @@ one who practises it himself can deliver [others].'
 and such a great treasure spread through the world.
 
 **282.** One who himself practises dharma and teaches it to people —
-to him Gauranga himself shows mercy.
+to him Gauranga Himself shows mercy.
 
 **283.** One who teaches dharma to others but does not keep it himself —
 to him Chaitanya never shows mercy.
@@ -6347,10 +6347,10 @@ he attains it whose heart is filled with longing.
 **288.** Chant Hari-nama, making no difference between the name and the Named;
 to one attached to it Chaitanya is merciful.
 
-**289.** First of all he made [people] take Hari-nama;
+**289.** First of all He made [people] take Hari-nama;
 by it the karma and jnana of living beings were cut off.
 
-**290.** Therefore he whom we call Krishna Chaitanya is the guru;
+**290.** Therefore He whom we call Krishna Chaitanya is the guru;
 therefore there is the command: the name is a wish-fulfilling tree.
 
 **291.** Whoever would be a Vaishnava will take Hari-nama;
@@ -6392,7 +6392,7 @@ the two [— the name and the devotees —] possess virtues equal to Krishna's.
 **303.** One who, born in the world, has taken shelter at the guru's feet —
 in his heart this offence does not arise.
 
-**304.** Chaitanya, Bhagavan himself, has love for them;
+**304.** Chaitanya, Bhagavan Himself, has love for them;
 one who disregards them suffers great loss.
 
 **305.** An example of this — see Sri Rupa Gosani:
@@ -6583,14 +6583,14 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^11-1]: Madhupuri, Mathura.
 [^11-2]: A variant given in the 1913 edition: "Do not delay, come — we will go along with you."
 [^11-3]: Rajghat, a ghat on the northern edge of Varanasi where the Ganges was crossed; Vishveshvara is Vishvanatha, Shiva as lord of Kashi. Literally "the ghat at which Vishveshvara took the road"; the sense is unclear.
-[^11-4]: Apparently the house of Chandrashekhara in Varanasi, where Mahaprabhu stayed and where Sanatana came to him.
+[^11-4]: Apparently the house of Chandrashekhara in Varanasi, where Mahaprabhu stayed and where Sanatana came to Him.
 [^11-5]: A variant given in the 1913 edition: "by your mercy bhakti will arise in me".
 [^11-6]: Chandrashekhara, the devotee of Varanasi who was Mahaprabhu's host.
 [^11-7]: Bhuteshvara, Shiva as guardian of Mathura; Keshava-raya, the temple of Keshavadeva at Krishna's birthplace.
 [^11-8]: A variant given in the 1913 edition: "he has brought wealth and given it to a poor man".
 [^11-9]: That is, the invitation to partake of the prasada of Govinda's temple.
 [^11-10]: That is, not yet initiated, without a guru.
-[^11-11]: A variant given in the 1913 edition: "Sri Krishna Chaitanya himself descended".
+[^11-11]: A variant given in the 1913 edition: "Sri Krishna Chaitanya Himself descended".
 [^11-12]: "anuvāda", literally "restatement, repetition".
 [^11-13]: Literally "in what yuga will the Prabhu's mercy come?" — i.e. every moment of waiting seems a yuga.
 [^11-14]: The second line of the couplet is found only in the 1913 edition.
@@ -6915,17 +6915,17 @@ and especially all its kunja-groves.
 **91.** When Krishna goes home, all the kunjas, creepers and groves
 grow dejected and wither.
 
-**92.** But when, at the time of some lila, he comes to that forest,
+**92.** But when, at the time of some lila, He comes to that forest,
 the withering passes and they bloom, glad at heart.
 
-**93.** And all the more so his going elsewhere:[^12-12]
+**93.** And all the more so His going elsewhere:[^12-12]
 how then can the trees and creepers live?"
 
 **94.** Hearing this hint, the Gosani wept from both eyes,
 and again, joyful at heart, he questions Srinivasa.[^12-13]
 
 **95.** [Srinivasa replies:] "And the kadamba that blooms on it —
-[Krishna] planted it in childhood with his own hand.
+[Krishna] planted it in childhood with His own hand.
 
 **96.** Living in Mathura, Krishna thinks in his mind:
 'How big has that plant I planted grown?'
@@ -7422,40 +7422,40 @@ he is my Prabhu Gauridasa, the sprout of prema.
 **260.** Day and night he is with Chaitanya and Nityananda;
 I cannot bear the waves of his prema.
 
-**261.** Even in their presence he showed [the pangs of] separation from the two Prabhus —
-he whose play with them is always, before and after.
+**261.** Even in Their presence he showed [the pangs of] separation from the two Prabhus —
+he whose play with Them is always, before and after.
 
-**262.** Having manifested [their] images, he set about feeding them;
-they did not eat, and spoke not a word.
+**262.** Having manifested [Their] images, he set about feeding Them;
+They did not eat, and spoke not a word.
 
 **263.** Hearing of this, the two Prabhus [came] to the Pandita,
 called him and said something — hear the account:
 
 **264.** 'We have heard that you have manifested two images;
-bring them here — we will look at them.'
+bring Them here — We will look at Them.'
 
-**265.** He brought the two images and set them before them:
-they were just like the two Prabhus themselves.
+**265.** He brought the two images and set Them before Them:
+They were just like the two Prabhus Themselves.
 
-**266.** 'Go and cook — we shall eat.'
+**266.** 'Go and cook — We shall eat.'
 The Pandita cooked, deep in thought.
 
 **267.** Rice, kshira, many vegetable dishes — he prepared four offerings;
-the two Prabhus brought the two images and seated them.
+the two Prabhus brought the two images and seated Them.
 
-**268.** They say: 'Eat, let us see — all four of us; let our eyes be soothed!'
+**268.** They say: 'Eat, let Us see — all four of Us; let Our eyes be soothed!'
 The two images and the two Prabhus ate.
 
-**269.** Having rinsed his mouth, the Prabhu says to the Pandita:
+**269.** Having rinsed His mouth, the Prabhu says to the Pandita:
 'Know this for certain, Gauridasa:
 
-**270.** we are two, and these are two — which of us will you see?'
+**270.** We are two, and these are two — which of Us will you see?'
 The Prabhu says: 'These two will stay in your house.
 
-**271.** You will not be able to live without seeing us — I tell you;
-whenever you wish, we will come to your house.
+**271.** You will not be able to live without seeing Us — I tell you;
+whenever you wish, We will come to your house.
 
-**272.** In the form of these two images, we two
+**272.** In the form of these two images, We two
 will eat in your house every day.'
 
 **273.** That Prabhu made me his own;
@@ -7482,7 +7482,7 @@ So Hridaya Chaitanya Dasa understood his words.[^12-31]
 **280.** Rising in the morning, the Thakura gave him leave;
 he bowed down, and [the Thakura] placed his feet upon his head.
 
-**281.** There the two Prabhus are seated; the Thakura came [before them]:
+**281.** There the two Prabhus are seated; the Thakura came [before Them]:
 "Show abundant mercy to Krishnadasa!"
 
 **282.** Bringing a cloth that was prasada, he tied it on his head;
@@ -7728,7 +7728,7 @@ he studies with the Gosani and sits in remembrance in the kunja.
 **362.** At night, sitting, his mind absorbed in the lilas of Radha and Krishna,
 how many bhavas he feels as he contemplates them!
 
-**363.** One day Radha and Krishna with their sakhis
+**363.** One day Radha and Krishna with Their sakhis
 were all dancing and singing in the kunja, in manifold waves [of delight].[^12-42]
 
 **364.** Radha and the sakhis held one another arm in arm,[^12-43]
@@ -7756,10 +7756,10 @@ whether it was on her foot or where it had fallen.
 the sakhis watch, putting their eyes to the lattice window.
 
 **372.** They spent the night in the rasa of love — and the night came to its end;
-the sakhis bade them rise.
+the sakhis bade Them rise.
 
-**373.** Rising after a long while, their bodies heavy with sweet languor,
-in shame and fear they get up and go each to their own home.
+**373.** Rising after a long while, Their bodies heavy with sweet languor,
+in shame and fear They get up and go each to their own home.
 
 **374.** The sakhis went off to their dwellings;
 the anklet lay there — no one knew.
@@ -7972,7 +7972,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^12-6]: Radha-kunda, where Raghunatha Dasa Gosvami (Sri Dasa Gosvami) lived.
 [^12-7]: The sense seems to be that in Bengali payar the narrative inevitably grows long, unlike concise Sanskrit.
 [^12-8]: Literally "three months over and above — I report". Initiation in Vaishakha plus three months brings us to Shravana, the date of this meeting (59).
-[^12-9]: The Lalita-madhava, a drama by Rupa Gosvami; it describes Krishna's departure for Mathura and the gopis' separation from him.
+[^12-9]: The Lalita-madhava, a drama by Rupa Gosvami; it describes Krishna's departure for Mathura and the gopis' separation from Him.
 [^12-10]: Literally "your planted body", i.e. Srinivasa himself, nurtured by Jiva's teaching.
 [^12-11]: A variant given in the 1913 edition: "for Krishna's play (vilasa)".
 [^12-12]: That is, Krishna's departure for Mathura described in the Lalita-madhava.
@@ -7980,7 +7980,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^12-14]: A play on words: "acharya" and "arya" (noble, honourable).
 [^12-15]: Dashami and ekadashi, the tenth and eleventh lunar days (here of the bright fortnight of Kartika).
 [^12-16]: Literally "they performed the bathing, doing all the samskaras"; who was bathed is not stated — apparently the Deities before the offering.
-[^12-17]: That is, having offered the food to the Deities and the eternal associates, they came out of the shrine, leaving them to "eat".
+[^12-17]: That is, having offered the food to the Deities and the eternal associates, they came out of the shrine, leaving Them to "eat".
 [^12-18]: Both editions have "candrākṣa" (?); perhaps "candrātapa", canopies. The translation is conjectural.
 [^12-19]: Literally "a lakh (a hundred thousand) of books"; the 1999 edition below has "my Prabhu described a lakh of books". Tradition speaks of the "lakh of shlokas" written by Rupa and Sanatana.
 [^12-20]: The address "Prabhu" here seems to come from the elders to the Acharya, or else the line is Jiva's own reply; neither edition marks the speaker.
@@ -8127,10 +8127,10 @@ go along the road, slowing their pace at times.
 Sri Jiva embraced them and says:
 
 **35.** "Gaurangasundara is the crown jewel of all rasas;
-his shakti is the bodies of Sanatana and Rupa.
+His shakti is the bodies of Sanatana and Rupa.
 
 **36.** The form of Sri Gauranga's prema is in the bodies of these two;
-know in your hearts that Rupa and Sanatana are [his] shakti.[^13-6]
+know in your hearts that Rupa and Sanatana are [His] shakti.[^13-6]
 
 **37.** By the command of that Chaitanya, to make prema manifest,
 Rupa and Sanatana described it [in their books].
@@ -9258,7 +9258,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^13-3]: The speaker is Gopala Bhatta Gosvami, Srinivasa's guru (cf. ch. 12, 420–428).
 [^13-4]: Here Lokanatha Gosvami, Narottama's guru.
 [^13-5]: Literally "with the chaukis (toll-posts) of Jajpur". The 1913 edition seems to have "Jaipur" (?); translated according to the 1999 edition.
-[^13-6]: A variant given in the 1913 edition: "The two bear the form of Sri Gauranga's prema; that Rupa and Sanatana are [his] shakti I know for certain."
+[^13-6]: A variant given in the 1913 edition: "The two bear the form of Sri Gauranga's prema; that Rupa and Sanatana are [His] shakti I know for certain."
 [^13-7]: A variant given in the 1913 edition: "Those books and that dharma are your revelation; it falls to you two to preach them."
 [^13-8]: Literally "carrying out the command, shall I part with my life?" The sense is unclear: Jiva seems to say that he sends them off although it is like death to him.
 [^13-9]: Apparently Murari is the future Rasikananda, son of Achyuta (Achyutananda) of Rohini, Shyamananda's chief disciple; Jiva's words sound like a prophecy.
@@ -9327,7 +9327,7 @@ I saw what love arose in whom.
 **5.** Leaving his conveyance at the gate of the Thakura's house,
 he came on foot, bringing his people with him.
 
-**6.** Arriving, he bowed down to Gauranga, [keeping him] on his right;[^14-1]
+**6.** Arriving, he bowed down to Gauranga, [keeping Him] on his right;[^14-1]
 at that very time Raghunandana came.
 
 **7.** "Come, come, my brother, my life, Srinivasa!
@@ -9898,7 +9898,7 @@ the describing of which is the highest of all perfections."
 describe the lila of Krishna with joy in your heart.
 
 **189.** Vasudeva Ghosha Mahashaya, dear to Gaura,[^14-31]
-has described the very essence of all his virtues;
+has described the very essence of all His virtues;
 
 **190.** you describe freely the lila of Radha and Krishna" —
 immersed in bliss, he gave this command.
@@ -10090,7 +10090,7 @@ they brought a hundred jars filled with panchamrita.[^14-42]
 he carried out many rites according to the rules.
 
 **253.** All the mahantas together touched the bodies [of the images]
-and put sandal paste and tulasi garlands on them.
+and put sandal paste and tulasi garlands on Them.
 
 **254.** Kirtanas began everywhere, in many places;
 who is dancing, singing, rolling on the ground, where!
@@ -10107,8 +10107,8 @@ what singing and playing it was could not be grasped.
 **258.** Gaurangavallabha Raya plays the mridanga;
 hearing it, one loses all composure, [as if] life itself goes out.
 
-**259.** Gaura-raya is seated, Vallavikanta on his left;
-as the sight [of them], so the singing.
+**259.** Gaura-raya is seated, Vallavikanta on His left;
+as the sight [of Them], so the singing.
 
 **260.** How many mahanta-adhikaris — hundreds!
 The Vaishnavas listen to the singing, maddened.
@@ -10604,7 +10604,7 @@ and, coming to the Thakurani, beheld her.
 he serves her, joyful, smiling gently.
 
 **7.** The Thakurani herself, seeing Gaura-raya,
-seeing his captivating beauty, wept.
+seeing His captivating beauty, wept.
 
 **8.** For four days the Thakurani stayed in that place;
 every day ever new service was shown to her.
@@ -10658,7 +10658,7 @@ who [else] in the three worlds acts so? I see no other.
 in Vrindavana, in the land of Gauda, wherever I go.
 
 **25.** Gauranga is merciful — who can understand it?
-What power, what mercy he puts into the heart!
+What power, what mercy He puts into the heart!
 
 **26.** I have come to know that your body is a manifestation of prema;
 coming and calling me, you have given me so much joy.[^15-3]
@@ -10820,7 +10820,7 @@ Glory to Advaitachandra, glory to the devotees of Gaura!
 **2.** Glory to Gaurasundara, the life of Gadadhara![^16-1]
 Glory, glory to the Lord of Sri Jahnava's life!
 
-**3.** Glory to the devotees of Gauranga — [his] embodiments!
+**3.** Glory to the devotees of Gauranga — [His] embodiments!
 Glory, glory to Virachandra, who bears the form of prema!
 
 **4.** Hoping for those two feet that grant fearlessness,
@@ -10872,7 +10872,7 @@ my only strength is the command of the holy lips.
 if it is disregarded, there will be no grief in my heart.[^16-6]
 
 **20.** He who is the maker of all, renouncing all,
-revealed his mercy by himself practising [the dharma].[^16-7]
+revealed His mercy by Himself practising [the dharma].[^16-7]
 
 **21.** Sri Rupa Gosani and all his companions,
 practising renunciation, dwelt in Vrindavana.
@@ -10989,25 +10989,25 @@ why do they not understand this and vainly boast?
 each one's order and qualities are all described.
 
 **59.** The adhikari of all the rasas is Chaitanya Gosani;
-he is the guru of the world, there is no other equal to him.
+He is the guru of the world, there is no other equal to Him.
 
-**60.** Whatever the love in his worship may be,
+**60.** Whatever the love in His worship may be,
 the shastras describe [its] abode and object.[^16-16]
 
-**61.** How many disciples did he himself initiate with a mantra?
+**61.** How many disciples did He Himself initiate with a mantra?
 Say, what do the shastras write — who knows this?
 
-**62.** By his mercy the world became pure —
+**62.** By His mercy the world became pure —
 so the shastras write, so all the mahajanas sing.
 
-**63.** Each branch that he appointed of old —
+**63.** Each branch that He appointed of old —
 the mercy of those mahantas is very hard to discern.
 
 **64.** Not making many disciples has a certain purpose:
-by this his mercy is recognized in every way.
+by this His mercy is recognized in every way.
 
-**65.** He on whom his mercy rests is prema embodied;
-who has the power to tell his virtues?
+**65.** He on whom His mercy rests is prema embodied;
+who has the power to tell His virtues?
 
 **66.** Someone, not understanding, will find fault with this;
 he does not know the heart of that dharma, in which is what is essential and what is not.
@@ -11118,7 +11118,7 @@ He went with her himself and showed her everything.
 showed her which lila [took place] at which spot.
 
 **102.** She sees Govinda, Gopinatha, Madanamohana;
-she sees them with her eyes, and her mind overflows with bhava.
+she sees Them with her eyes, and her mind overflows with bhava.
 
 **103.** Preparing provisions, they held a great festival;
 all the Gosanis sat down and ate.
@@ -11195,7 +11195,7 @@ are going along carrying golden vessels[^16-25] on their heads,
 **127.** on their heads fresh butter, kshirsa,[^16-26] curd, milk and cream;
 on both sides are paths among the kunjas, her friends are with her.
 
-**128.** Krishna himself came there and demands a toll:
+**128.** Krishna Himself came there and demands a toll:
 "What are you carrying on your head? Pay the toll, Radha!"
 
 **129.** Laughter, jests, banter — all the friends together;
@@ -11216,7 +11216,7 @@ you plunder the gopis' curd and milk and eat it.
 **134.** Laying your hand on a gopi's body, you say all sorts of things;
 all your sport will be over when the king hears of it."
 
-**135.** "Why be ashamed any more, Radha? Shall I forget [my] victory?" —
+**135.** "Why be ashamed any more, Radha? Shall I forget [My] victory?" —
 [and Krishna], offended, went into the kunja.[^16-28]
 
 **136.** He played the flute with the sweetest sound;
@@ -11229,7 +11229,7 @@ hearing it, Radha and the gopis lose ear and mind.
 you are Krishna's beloved, praised everywhere."
 
 **139.** Hearing this, Vishakha says: "It seems to me
-that no one is as dear [to him] as the flute:
+that no one is as dear [to Him] as the flute:
 
 **140.** it always drinks the nectar of Krishna's lips;
 hearing its sound, the gopis lose their lives."
@@ -11253,31 +11253,31 @@ as one listens, life itself goes out.
 on another day she went to see Madanamohana.
 
 **147.** Madanamohana, a beautiful form bent in three places;
-the dance of his brows mocks the bow of Kama.
+the dance of His brows mocks the bow of Kama.
 
-**148.** The Thakurani beholds him and ponders in her mind:
-"The Thakurani[^16-29] is not at his left — there is no joy [in this]."
+**148.** The Thakurani beholds Him and ponders in her mind:
+"The Thakurani[^16-29] is not at His left — there is no joy [in this]."
 
-**149.** Whenever she goes to see him, she thinks:
-"There is no Thakurani at his left" — so she ponders.
+**149.** Whenever she goes to see Him, she thinks:
+"There is no Thakurani at His left" — so she ponders.
 
 **150.** Who knows what is in her mind?
 The mind is known to Madanamohana, the Indweller.
 
 **151.** That very night Madanamohana, smiling, says:
-"What are you pondering, Jahnava? Sit down and tell me at last.
+"What are you pondering, Jahnava? Sit down and tell Me at last.
 
 **152.** Go to your country, think of nothing else in your mind:
 all that you have resolved in your mind will be fulfilled.
 
 **153.** Bringing forth one lovely image,
-make it tall," he says in detail.[^16-30]
+make it tall," He says in detail.[^16-30]
 
-**154.** "Come quickly and unite [her] with me;
+**154.** "Come quickly and unite [her] with Me;
 then the wish will be fulfilled, the desire accomplished.
 
 **155.** Do not grieve in your mind — all will be well everywhere;
-that is all I have to say from my heart.
+that is all I have to say from My heart.
 
 **156.** From today I shall watch for your road:
 when will the Thakurani come and bring about the union?"
@@ -11394,7 +11394,7 @@ Who else will show me such mercy [as to explain]?"
 and further, the eternally perfected, the perfected by sadhana and the perfected by mercy.[^16-38]
 
 **194.** Mahaprabhu is that same Krishna, the son of the king of Vraja;
-all his associates are his eternal company.
+all His associates are His eternal company.
 
 **195.** It is of these eternal associates that I spoke:
 they have no shelter at a guru's feet, no taking of mantras and the like.
@@ -11451,9 +11451,9 @@ I beg that I, who have become so low, may attain Gaura's feet.
 [Raghunatha says:] "Know Raghunatha as your own servant.
 
 **213.** I was born in a worldly man's house — I feel shame and fear:
-for what merit will [Chaitanya] give his feet that grant fearlessness?
+for what merit will [Chaitanya] give His feet that grant fearlessness?
 
-**214.** Not for a single day have I served [his] feet,
+**214.** Not for a single day have I served [His] feet,
 and still I beg for those feet — such a wretch am I."
 
 **215.** The Thakurani says: "Stop embarrassing me;
@@ -11496,7 +11496,7 @@ told them that she was going back to her country.
 and behold with their eyes the form bent in three places.
 
 **228.** [The Thakurani prays:] "Give me leave to go to my country" —
-and the flower garland slipped from his holy body.
+and the flower garland slipped from His holy body.
 
 **229.** The pujari brought it and put it into the Thakurani's hands;
 bowing down, she places it round her own neck.
@@ -11591,7 +11591,7 @@ it is not according to the words of old: such sadhana perishes.
 **259.** There is the command of Mahaprabhu's holy lips — that is the essence;
 for whoever will not accept it there is no other word.
 
-**260.** By the Prabhu's command no one took the water from [his] feet;
+**260.** By the Prabhu's command no one took the water from [His] feet;
 [if] an intimate devotee took it, it pained him.
 
 **261.** Some took it by a ruse so that the Prabhu did not know;
@@ -11601,15 +11601,15 @@ Mahaprabhu forbade [this] to Govinda.[^16-42]
 took the foot-water of Vaishnavas of every land[^16-43]
 
 **263.** and took the food remnants of all; the Prabhu knew this
-and sang his virtues with his own lips.
+and sang his virtues with His own lips.
 
-**264.** One day, as [the Prabhu] was washing his feet at the Lion Gate,
+**264.** One day, as [the Prabhu] was washing His feet at the Lion Gate,
 he began to drink [the water] handful after handful.
 
 **265.** He drank three handfuls — and the Prabhu spoke;
 [the Prabhu] was alarmed and let him drink no more.
 
-**266.** Gaura is an ocean of prema, [yet] there was fear in his heart:
+**266.** Gaura is an ocean of prema, [yet] there was fear in His heart:
 this is not fitting with regard to a sadhaka.
 
 **267.** If it is given to another, how will he gain by it?
@@ -11664,7 +11664,7 @@ hearing of it, Virachandra Raya came to see her.
 there was so much joy that the eyes could not contain it.
 
 **284.** On that very day the Prabhu[^16-45] came to that place;
-prostrating himself, he makes many requests.
+prostrating Himself, He makes many requests.
 
 **285.** He asked about all the joy of Vrindavana;
 as she told it, the Thakurani was overcome.
@@ -11851,7 +11851,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^16-4]: A variant given in both editions: "all that I describe by Gauranga's command (pratyādeśa)".
 [^16-5]: A variant given in both editions: "I write on paper the thread of the command in three ways". The second line is damaged in both editions.
 [^16-6]: A variant given in both editions: "there is no grief in my heart — I submit".
-[^16-7]: Apparently of Mahaprabhu. A variant given in both editions: "revealed all, practising it himself".
+[^16-7]: Apparently of Mahaprabhu. A variant given in both editions: "revealed all, practising it Himself".
 [^16-8]: Krishnadasa Kaviraja, author of the Chaitanya-charitamrita, disciple of Raghunatha Dasa Gosvami (Dasa Gosani). "ghoṣe", "is proclaimed".
 [^16-9]: That is, Srinivasa (disciple of Gopala Bhatta) and Narottama (disciple of Lokanatha) were to preach in Gauda while living as householders; cf. ch. 13.
 [^16-10]: A variant given in both editions: "out of longing [they] surrender their bodies to the lilas with Krishna".
@@ -11947,7 +11947,7 @@ Acharya Thakura showed him mercy.
 [the Acharya], possessor of all virtues, showed him mercy.
 
 **15.** The Thakura Mahashaya has a village named Kheturi,
-where Gauranga-raya himself abides [in his image].
+where Gauranga-raya Himself abides [in His image].
 
 **16.** Such service, such order, such service of the Vaishnavas
 exists nowhere else in the three worlds.
@@ -12169,7 +12169,7 @@ so he weeps, remembering all his virtues.
 at night Gaura-raya came to Narottama and said:
 
 **89.** "Jiva sent [them] to test your mind;
-when the Vaishnavas ate, that was my meal.
+when the Vaishnavas ate, that was My meal.
 
 **90.** And why you offered the bhoga again — I know:
 there is an order, [you] honour the word of the shastras."[^17-12]
@@ -12438,11 +12438,11 @@ How that came to pass I shall now write.
 **178.** A certain Prabhu came — the son of Nityananda —
 and went to the king's palace.
 
-**179.** The king, deeming it great good fortune, lodged him in the house
-and serves him much with joy in his heart.
+**179.** The king, deeming it great good fortune, lodged Him in the house
+and serves Him much with joy in his heart.
 
 **180.** The Acharya Thakura, hearing of it, came for darshan,
-bowed to him with love and [was] taken in an embrace of love.
+bowed to Him with love and [was] taken in an embrace of love.
 
 **181.** The king reflects in his heart:
 "Whose body is as beautiful as my Prabhu's?
@@ -12450,11 +12450,11 @@ bowed to him with love and [was] taken in an embrace of love.
 **182.** And this son of Prabhu enchants the whole world;
 is this not the form of Gauranga?" he thinks to himself.
 
-**183.** The Acharya invited [him] and brought him to his own house;
+**183.** The Acharya invited [Him] and brought Him to his own house;
 the Acharya's household counted it their good fortune.
 
 **184.** They became very busy over the refreshments[^17-26]
-and served [him] a great many sweets.
+and served [Him] a great many sweets.
 
 **185.** They asked Gosani about the cooking:
 "Whomever you command — she will quickly go and cook."
@@ -12465,7 +12465,7 @@ and served [him] a great many sweets.
 **187.** The Thakura went into the inner apartments and said:
 "Gosani has told you to cook."
 
-**188.** Saying "As he commands," she came to Gosani:
+**188.** Saying "As He commands," she came to Gosani:
 "May it be my good fortune — I shall do it before your eyes."
 
 **189.** She cooked much — countless dishes,
@@ -12475,9 +12475,9 @@ fruits, roots, fried things and many other kinds;
 Then the Thakura addresses Gosani:
 
 **191.** "The cooking is ready — please come and eat."
-Gosani sat down to eat with his own people.[^17-27]
+Gosani sat down to eat with His own people.[^17-27]
 
-**192.** He seated the Acharya at his right hand;
+**192.** He seated the Acharya at His right hand;
 one after another they serve the dishes for the meal.
 
 **193.** He ate much, in joy and merriment,
@@ -12486,19 +12486,19 @@ and says to the Acharya: "Tell something about Krishna."
 **194.** And the Thakura began to tell of Gaura's lilas;
 Gosani ate no more — he floated in bliss.
 
-**195.** Having performed achamana, he came and sat on his seat;
-serving [him], they offer tambula — he chews it.
+**195.** Having performed achamana, He came and sat on His seat;
+serving [Him], they offer tambula — He chews it.
 
 **196.** The two Thakuranis, taking garlands, flowers and sandal,
 behold the beauty of Prabhu's body, counting themselves fortunate.
 
 **197.** The Thakuranis put sandal on Gosani's body,
-placed a garland around his neck and speak sweet words:
+placed a garland around His neck and speak sweet words:
 
 **198.** "How great is our good fortune — how to count it in this world:
 the feet of Prabhu Virachandra have come to our house!"
 
-**199.** Gosani himself, with his own hand, on the Thakura's body
+**199.** Gosani Himself, with His own hand, on the Thakura's body
 smears sandal and put a garland around his neck.
 
 **200.** Gosani asks about the Acharya's wives:
@@ -12516,14 +12516,14 @@ a son will be born, and his branches will spread through the whole realm.
 **204.** From this day her name is Gauranga-priya;[^17-28]
 in her womb will be a son, beautiful in every limb."
 
-**205.** Taking her by the hand, he gave her chewed tambula,
-by this means transmitting [to her] his own power.
+**205.** Taking her by the hand, He gave her chewed tambula,
+by this means transmitting [to her] His own power.
 
 **206.** First bowing down, she ate [it];
 the next day [Gosani], having shown [them] love, set out.
 
-**207.** [The Acharya] gave [him] a gold mohur and a length of cloth,
-and gave a pair of silk garments for him to wear.
+**207.** [The Acharya] gave [Him] a gold mohur and a length of cloth,
+and gave a pair of silk garments for Him to wear.
 
 **208.** Ten days after that [she] conceived;
 in two months people are already whispering [of it].
@@ -12535,10 +12535,10 @@ father and mother, seeing [him] with their eyes, rejoiced.
 with all the details of the day of the son's birth.
 
 **211.** At the end of two months Gosani comes to Vishnupura;
-he came to the Acharya's house — the joy is abundant.
+He came to the Acharya's house — the joy is abundant.
 
-**212.** The Thakura did him much service; [Gosani] was pleased at heart;
-choosing an auspicious day, he gave the Hari-nama into [the infant's] ears.
+**212.** The Thakura did Him much service; [Gosani] was pleased at heart;
+choosing an auspicious day, He gave the Hari-nama into [the infant's] ears.
 
 **213.** At the end of six months they performed the annaprashana;
 they gave [him] the sacred thread[^17-29] — there was joy in their hearts.
@@ -12546,14 +12546,14 @@ they gave [him] the sacred thread[^17-29] — there was joy in their hearts.
 **214.** When he walked, his right foot went crookedly,
 [but this] is not noticed — his body is the very form of Kandarpa.
 
-**215.** Gosani himself gave him the name Gati-Govinda;[^17-30]
+**215.** Gosani Himself gave him the name Gati-Govinda;[^17-30]
 the happiness of father and mother is great; their hearts rejoice.
 
 **216.** When [the boy] was thirteen years old, the Acharya sent for Gosani
 and took pains that [his son] should receive mantra.
 
 **217.** Gosani says: "My beloved Gati-Govinda —
-you yourself give [him] mantra; in that is my joy.
+you yourself give [him] mantra; in that is My joy.
 
 **218.** You are the manifestation of Chaitanya's prema;
 what I say, you will believe.[^17-31]
@@ -12561,7 +12561,7 @@ what I say, you will believe.[^17-31]
 **219.** I am Nityananda's shakti, you are Chaitanya's;
 you and I are one thing, beyond the reach of others.
 
-**220.** Whoever transgresses this command of mine
+**220.** Whoever transgresses this command of Mine
 will by no means have Chaitanya's mercy."
 
 **221.** When Gosani spoke such words,
@@ -12576,7 +12576,7 @@ in his welfare there will be joy for the heart.
 **224.** Give instruction in the mantra — I shall leave soon:
 there is the command of Srimati;[^17-32] I shall not delay."
 
-**225.** Hearing the command from [his] blessed lips, [the Acharya] brought an astrologer;
+**225.** Hearing the command from [His] blessed lips, [the Acharya] brought an astrologer;
 calculating the best day, [he] told the Acharya.
 
 **226.** The Acharya Thakura, preparing many provisions,
@@ -12585,11 +12585,11 @@ gave the mantra to Govinda, seating him at his left.
 **227.** Having received the mantra, [Govinda] came out and sat outside;
 he bows down to Sri Virachandra Gosani.
 
-**228.** He placed his holy feet upon his head
+**228.** He placed His holy feet upon his head
 and blesses him: "May you live long!"
 
 **229.** Holding a mahotsava, [the Acharya] saw Gosani off;
-offering a great many gifts, he bowed down [to him].
+offering a great many gifts, he bowed down [to Him].
 
 **230.** Gosani, pleased, says to the Acharya:
 "You will have many disciples and numerous offspring."
@@ -12868,7 +12868,7 @@ You have ruined both families; there is no purity in you."
 [you think] a brahmana, having studied learning, is saved as a brahmana.[^17-50]
 
 **322.** In the Kali age Sri Krishna Chaitanya descended
-and with his companions blessed the whole earth.
+and with His companions blessed the whole earth.
 
 **323.** He delivered many — the poor and the lowly;
 and at the end the sinners remained — these two brahmanas.
@@ -13308,7 +13308,7 @@ and likewise Rupa's injunction on the five names.[^17-80]
 in it twice five names are sweetly mingled.
 
 **463.** Prabhu had a count of three hundred thousand names;
-one hundred thousand he mercifully bestowed on the devotees.
+one hundred thousand He mercifully bestowed on the devotees.
 
 **464.** Sri Rupa described a hundred thousand [verses] in his books,
 and still he took up [the chanting of] a hundred thousand names.
@@ -13316,7 +13316,7 @@ and still he took up [the chanting of] a hundred thousand names.
 **465.** Of Dasa Gosani there is testimony — a hundred thousand;
 thus all the devotees chant the Hari-nama.
 
-**466.** Gauranga with his own lips told Rupa [and] the Vaishnavas:
+**466.** Gauranga with His own lips told Rupa [and] the Vaishnavas:
 'Be sure to chant a hundred thousand names by count.'
 
 **467.** As the wish-fulfilling tree, so is this Hari-nama:
@@ -13433,7 +13433,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^17-11]: The Padmavati is the river Padma; Kheturi lies to the north of it.
 [^17-12]: That is, the bhoga the guests had eaten had not yet been offered to the deity, and Narottama cooked and offered it anew; Gauranga recognizes this as keeping the prescribed order.
 [^17-13]: "komara khuliyā", lit. "untying the waistband"; a sign of complete humility.
-[^17-14]: That is, the image of Mahaprabhu at Katwa, where he took sannyasa.
+[^17-14]: That is, the image of Mahaprabhu at Katwa, where He took sannyasa.
 [^17-15]: Variant given in both editions: "conveyed Sri Jiva Gosani's embrace of love."
 [^17-16]: Purushottama is Puri.
 [^17-17]: Here and below (139–142) the narrative at times passes into the first person: one of the two Vaishnavas is speaking.
@@ -13514,7 +13514,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 Glory, glory to Nityananda, whose heart is compassion!
 
 **2.** Glory, glory to Advaitachandra, the utmost of mercy,
-who, bringing down Gaurachandra, fulfilled his desire!
+who, bringing down Gaurachandra, fulfilled His desire!
 
 **3.** Glory, glory to Gadadhara, the ocean of rasa!
 Glory, glory to the devotees of Gaura, possessed of every virtue!
@@ -13538,7 +13538,7 @@ of that I have not written, knowing her heart[^18-2].
 [but here are] words from Prabhu's blessed lips — in this there is no fear.
 
 **10.** Two brothers born of one mother — Rupa and Sanatana;
-Prabhu placed his own shakti in them.
+Prabhu placed His own shakti in them.
 
 **11.** Rupa and Sanatana are devoted to Prabhu's feet;
 Sanatana and Rupa are shown the highest honour and esteem.
@@ -13550,7 +13550,7 @@ his devotion to Rupa and Sanatana is very deep.
 he is a disciple of Ishvara Puri — such is [his standing][^18-3].
 
 **14.** [Ishvara Puri] entrusted him to Sri Krishna Chaitanya,
-[and Prabhu] wove him [into his tree] as one of his chief branches.
+[and Prabhu] wove him [into His tree] as one of His chief branches.
 
 **15.** Gadadhara Pandita is Prabhu's own shakti;
 not seeing Vidyanidhi, Prabhu wept bitterly[^18-4].
@@ -13609,8 +13609,8 @@ seeing him, Prabhu was filled with joy and delight.
 **33.** After some days [Prabhu] entrusted him to Svarupa,
 who trained him in body, speech and mind.
 
-**34.** Only Gauranga himself understood the reason:
-why he did so — who can understand?
+**34.** Only Gauranga Himself understood the reason:
+why He did so — who can understand?
 
 **35.** [Svarupa] is most skilled in the charming rasa of shringara;
 night and day he assists [Prabhu], [endowed with] the qualities of Lalita[^18-9].
@@ -13645,14 +13645,14 @@ he performed bhajana to Krishna, absorbed in bliss.
 **45.** One day, in a village called Jhamatpur,
 Nityananda, the abode of virtues, appeared to him,
 
-**46.** with his companions, in a captivating dress.
-Seeing his form, Krishnadasa rejoiced at heart.
+**46.** with His companions, in a captivating dress.
+Seeing His form, Krishnadasa rejoiced at heart.
 
-**47.** Bowing down, he offered him much praise.
+**47.** Bowing down, he offered Him much praise.
 The command came: "All perfection [is yours] — go to Vrindavana!"
 
 **48.** In his own book he writes of himself as Prabhu's disciple:
-"Not regarding that I am lowly and wretched, he showed me mercy"[^18-15].
+"Not regarding that I am lowly and wretched, He showed me mercy"[^18-15].
 
 **49.** Then he went again to Vrindavana
 and took shelter at the feet of Raghunatha.
@@ -13670,13 +13670,13 @@ Thus I have described [their] views.
 how he went to Vrindavana and how he found shelter.
 
 **54.** When Mahaprabhu travelled to the south,
-wandering, he came to Ranga-kshetra[^18-16].
+wandering, He came to Ranga-kshetra[^18-16].
 
 **55.** Bathing in the Kaveri and seeing Ranganatha,
-he took his alms in the house of Trimalla Bhatta[^18-17].
+He took His alms in the house of Trimalla Bhatta[^18-17].
 
 **56.** Out of love for the Bhatta, Prabhu spent the chaturmasya there[^18-18];
-day and night he spoke of Krishna with the Bhatta.
+day and night He spoke of Krishna with the Bhatta.
 
 **57.** Formerly [the family] worshipped Lakshmi-Narayana;
 in jest Prabhu raised [this] question with him:
@@ -13691,43 +13691,43 @@ Having said this, Mahaprabhu smiled softly.
 he could not grasp the inner meaning.
 
 **61.** Afraid at heart, he said to Prabhu:
-"Whatever you say, my mind cannot enter into it.
+"Whatever You say, my mind cannot enter into it.
 
 **62.** I know nothing of the goal and the means;
-I know that you are that very Lakshmi-Narayana.
+I know that You are that very Lakshmi-Narayana.
 
-**63.** Showing me mercy, you have come here
+**63.** Showing me mercy, You have come here
 and appeared to me in the dress of a sannyasi.
 
 **64.** What praise can I offer? Nothing comes to mind.
 Knowing me ignorant, show me mercy, O Merciful One!"
 
 **65.** Hearing this, Mahaprabhu was moved to mercy;
-embracing him, he imparted shakti to him.
+embracing him, He imparted shakti to him.
 
 **66.** At that moment the Vraja-lila was revealed in his mind;
 his body swelled with prema and he began to dance.
 
-**67.** Prabhu showed him his own form
+**67.** Prabhu showed him His own form
 and commanded: "All the people in your house —
 
-**68.** bring them all, let them see me now."
+**68.** bring them all, let them see Me now."
 Hearing Prabhu's command, the Bhatta went
 
 **69.** and brought before Prabhu the whole household —
 two brothers, his son and all who lived in the house.
 
-**70.** Prabhu in his mercy purified their minds;
+**70.** Prabhu in His mercy purified their minds;
 seeing Prabhu's form, all shed tears.
 
 **71.** All fell to the ground, prostrating themselves;
-in his mercy he placed his feet on everyone's head.
+in His mercy He placed His feet on everyone's head.
 
 **72.** All went home; three remained.
 Mercifully Prabhu spoke sweet words:
 
 **73.** "This son of yours, named Gopala Bhatta —
-my great mercy rests upon him.
+My great mercy rests upon him.
 
 **74.** Have him taught and make him a fine pandita;
 do not have him married — this I tell you."
@@ -13736,22 +13736,22 @@ do not have him married — this I tell you."
 "Your disciple will be a treasury of virtues in all the shastras"[^18-19].
 
 **76.** Gopala Bhatta was then studying the Sri Bhagavata;
-Prabhu told him his own inner view.
+Prabhu told him His own inner view.
 
 **77.** He said to him: "You will remain at home for some time;
 when you are parted from your mother and father, you will go to Vrindavana.
 
 **78.** There you will find great happiness — this I tell you."
-Having said this to him, he said to Prabodhananda:
+Having said this to him, He said to Prabodhananda:
 
 **79.** "Be sure to send him to Vrindavana:
 I have need of him — this I tell you."
 
-**80.** Saying this, Prabhu took his leave;
+**80.** Saying this, Prabhu took His leave;
 in separation from Prabhu, weeping arose in the Bhatta's house.
 
 **81.** That Prabodhananda was dear to Prabhu as life;
-in his mercy Prabhu made him the best of bhagavatas.
+in His mercy Prabhu made him the best of bhagavatas.
 
 **82.** Thus I have described such mercy of Prabhu;
 in passing I have written all this account.
@@ -13942,7 +13942,7 @@ through that door all the lowly and wretched are delivered.
 **144.** [This is] the description of this virtue of Thakura Mahashaya;
 hear also another wondrous word.
 
-**145.** He in whose heart Gauranga himself dwells
+**145.** He in whose heart Gauranga Himself dwells
 serves outwardly there too that image of prema.
 
 **146.** Yatras, great festivals, service [of the deity], service of Vaishnavas,
@@ -14126,7 +14126,7 @@ he gained bhakti to Krishna and dispelled the fear of samsara.
 for the sake of the lila two bodies exist.
 
 **206.** To deliver the souls of the Kali age, Chaitanya and Nitai
-came to earth together with their associates and attendants.
+came to earth together with Their associates and attendants.
 
 **207.** They delivered all souls by giving them Krishna's name;
 from the prema of those two are Srinivasa and Narottama.
@@ -14168,7 +14168,7 @@ what can I say? You possess all virtues,
 to see you with one's eyes is joy and delight."
 
 **220.** Thus, deliberating, part of the night passed.
-Gaura-raya himself, sitting on his seat, speaks[^18-45]:
+Gaura-raya Himself, sitting on His seat, speaks[^18-45]:
 
 **221.** "Listen, Narottama, I tell you what to do:
 this is no great wonder — go to him.
@@ -14177,7 +14177,7 @@ this is no great wonder — go to him.
 for the sake of seeing you [Chand Raya] keeps hold of life.
 
 **223.** Show him mercy, let him be delivered;
-the brahma-daitya will leave him — this is my command.
+the brahma-daitya will leave him — this is My command.
 
 **224.** You have appeared for the deliverance of sinners:
 many, receiving salvation, will become servants of Krishna.
@@ -14464,7 +14464,7 @@ that day they halted halfway at a certain place.
 **318.** The next day, when one prahara had passed[^18-57],
 they arrived and with joy at heart saw Gaura.
 
-**319.** Seeing him, all roll on the ground in bhava:
+**319.** Seeing Him, all roll on the ground in bhava:
 someone clasps [his] feet, someone is unaware of his body.
 
 **320.** Coming to their senses, all came and sat in their places;
@@ -14527,7 +14527,7 @@ seeing them, the heart breaks: I cannot forget!*
 **339.** *Matchless sweetness, the artfulness of love —
 not for a moment can I forget [them]"* (refrain)[^18-62].
 
-**340.** *"When he, so shapely, goes off [with] the cows,
+**340.** *"When He, so shapely, goes off [with] the cows,
 seeing and hearing [it], the soul longs to leave the body."*
 
 **341.** Sri Thakura Mahashaya relishes [the song];
@@ -15119,7 +15119,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^18-42]: The Three-eyed and Five-faced are epithets of Shiva.
 [^18-43]: Before meeting Srinivasa, Govinda Kaviraja was a Shakta, a worshipper of the Goddess.
 [^18-44]: Literally "does reviling-and-praising"; the translation is conjectural.
-[^18-45]: Gaura-raya is the deity of Gauranga at Kheturi; apparently he speaks to Narottama during the night (in a dream or vision).
+[^18-45]: Gaura-raya is the deity of Gauranga at Kheturi; apparently He speaks to Narottama during the night (in a dream or vision).
 [^18-46]: The ululation (hulahuli, "ulu-ulu") is the auspicious cry of women in Bengal.
 [^18-47]: Variant given in both editions: "As Prabhu commands, so he will do".
 [^18-48]: That is, the spirit left not through the door but in the opposite direction.
@@ -15413,7 +15413,7 @@ it struck me on the cheek and said, 'Hey, you wretched yavana!
 and with these words it showed a golden form:
 
 **80.** 'My name is Sri Chaitanya, the refuge of all;
-Shyamananda is my great devotee.
+Shyamananda is My great devotee.
 
 **81.** From him you will take the mantra of Krishna,
 or else you are bound for hell.'
@@ -15832,14 +15832,14 @@ and in a dream Bhagavan appeared to him.
 **219.** You have resolved to install further images —
 seeing Krishna's household, you will float in bliss[^19-35].
 
-**220.** To fulfil the desires of devotees is my task;
+**220.** To fulfil the desires of devotees is My task;
 you are a supreme devotee, your desire will be fulfilled.
 
 **221.** Behold, O Narottama:
 I have assumed six forms, together with the Beloved.
 
 **222.** These six forms you are to install;
-I shall tell you their names — listen.
+I shall tell you Their names — listen.
 
 **223.** Gauranga, Vallavikanta, and also Sri Krishna,
 Vraja-mohana, Radha-ramana, Radha-kanta — these are the six.
@@ -15847,26 +15847,26 @@ Vraja-mohana, Radha-ramana, Radha-kanta — these are the six.
 **224.** O Narottama, in the forms of Gauranga and Vallavikanta
 I have dwelt in your house with great joy.
 
-**225.** [Now] these two forms of mine have vanished,
+**225.** [Now] these two forms of Mine have vanished,
 and the temple now stands empty.
 
 **226.** Quickly bring forth the six deities again —
-seeing them, all people will rejoice.
+seeing Them, all people will rejoice.
 
 **227.** At the time of the abhisheka of the six deities
-these two forms of mine will be united [with them]:
+these two forms of Mine will be united [with Them]:
 
 **228.** Gaura-raya will merge into Gauranga,
 Vallavikanta will become one with Vallavikanta[^19-36].
 
 **229.** In these six forms I shall reside;
-whoever sees them — all living beings will be saved."
+whoever sees Them — all living beings will be saved."
 
 **230.** Having said this, Bhagavan vanished,
 and at that very moment Narottama woke and sat up.
 
 **231.** At the sight of Bhagavan he was beside himself with bliss,
-and the grief of losing sight of him had no limit.
+and the grief of losing sight of Him had no limit.
 
 **232.** Then came the time of the mangala-arati,
 and the Mahashaya came to the temple doors.
@@ -15896,7 +15896,7 @@ and gladly do all that is fitting."
 "Worship the two deities in the shalagrama[^19-38].
 
 **241.** Until the deities appear again,
-until then worship [them] in the shalagrama."
+until then worship [Them] in the shalagrama."
 
 **242.** Having said this, he was sitting with Ramachandra —
 and at that moment a letter from the Acharya came.
@@ -15953,15 +15953,15 @@ and in a dream Sri Chaitanya appeared to him.
 Sri Chaitanya, sitting at his head, says softly:
 
 **260.** "Listen attentively, child Narottama:
-however hard you try, my image will not take shape.
+however hard you try, My image will not take shape.
 
 **261.** In this image I shall not reside;
-I shall tell you of an image that I made myself.
+I shall tell you of an image that I made Myself.
 
-**262.** Before my sannyasa I fashioned an image of myself
+**262.** Before My sannyasa I fashioned an image of Myself
 and, without anyone knowing, sank it in the Ganga.
 
-**263.** You are the embodiment of my prema; to you I show favour:
+**263.** You are the embodiment of My prema; to you I show favour:
 I have placed that deity in Vipradasa's granary[^19-41]."
 
 **264.** Having said this, Sri Chaitanya vanished;
@@ -16168,7 +16168,7 @@ Sri Chaitanya comes and speaks these words to him:
 **331.** "Tomorrow in the great sankirtana with the devotees
 I shall dance — all will see it with their own eyes."
 
-**332.** Having said this, he placed his feet on Narottama's head,
+**332.** Having said this, He placed His feet on Narottama's head,
 and Gauranga, Sri Hari, vanished.
 
 **333.** In great bliss Narottama woke quickly
@@ -16303,33 +16303,33 @@ began the sankirtana in sweet voices.
 dance with arms raised, crying, "Gauranga!"
 
 **376.** Sri Gaurangachandra is immersed in the mood of Sri Radha —
-of that mood he sings songs, filled with bliss.
+of that mood He sings songs, filled with bliss.
 
 **377.** Narottama's voice, supremely sweet,
-drew Gorachanda — he could not hold back.
+drew Gorachanda — He could not hold back.
 
 **378.** By the power of the bhakti of the great devotee Narottama
-Gaura-raya appeared together with his companions:
+Gaura-raya appeared together with His companions:
 
 **379.** Nityananda, Advaita, Srivasa, Gadadhara,
 Sri Murari, Haridasa, Svarupa Damodara;
 
-**380.** taking with him Rupa, Sanatana, Gauridasa and others,
-he dances in the sankirtana, filled with joy.
+**380.** taking with Him Rupa, Sanatana, Gauridasa and others,
+He dances in the sankirtana, filled with joy.
 
 **381.** At that moment all forgot themselves;
 streams flow from their eyes, all dance in joy.
 
-**382.** Taking with him Sri Achyutananda and all the devotees,
+**382.** Taking with Him Sri Achyutananda and all the devotees,
 the Son of Shachi dances.
 
 **383.** Of all the devotees there, none has outer consciousness;
 in bliss Advaita, Gauranga and Nitai dance.
 
 **384.** Who can understand Prabhu's transcendent lila?
-As he appeared, so he vanished.
+As He appeared, so He vanished.
 
-**385.** No longer seeing Prabhu with his companions in the sankirtana,
+**385.** No longer seeing Prabhu with His companions in the sankirtana,
 all, regaining outer consciousness, weep bitterly.
 
 **386.** Narottama, Shyamananda and Srinivasa
@@ -16345,7 +16345,7 @@ but the Mahashaya, crying "Gora!", weeps and finds no rest.
 consoling Narottama, calmed his heart:
 
 **390.** "Gaura-raya, with the companions of Nityananda and Advaita,
-subject to your prema, let us all see him."
+subject to your prema, let us all see Him."
 
 **391.** All, embracing, bow at one another's feet;
 what joy there was cannot be described.
@@ -16390,7 +16390,7 @@ began the abhisheka with delight in his heart.
 he worships Gaurangachand with gladness in his heart.
 
 **405.** Meditating on the Divine Couple, Sri Radha and Krishna, as described in the Padma[-purana],
-he worshipped [him] with the sixteen offerings, glad at heart[^19-53].
+he worshipped [Him] with the sixteen offerings, glad at heart[^19-53].
 
 **406.** Krishna and Gaura are one; whoever thinks of a difference here
 goes to hell, and for him there is no deliverance.
@@ -16468,7 +16468,7 @@ Madhava Acharya went to Srivasa's house[^19-58].
 and from then on he became a devotee of Chaitanya.
 
 **431.** On the day when Sri Chaitanya
-loudly instructed the devotees in his own Hari-nama —
+loudly instructed the devotees in His own Hari-nama —
 
 **432.** on that day Madhava was in that place,
 and the sound of the maha-mantra entered his ears.
@@ -16477,7 +16477,7 @@ and the sound of the maha-mantra entered his ears.
 and prostrated himself at Chaitanya's feet.
 
 **434.** Sri Chaitanya Prabhu, showing him favour,
-lifted his foot and placed it on his head.
+lifted His foot and placed it on his head.
 
 **435.** Madhava asked Prabhu about the rules of [chanting] the Name;
 Prabhu told him to chant the Name keeping count.
@@ -16506,8 +16506,8 @@ and all the devotees grew fond of him.
 **443.** Sri Advaita Prabhu, at Mahaprabhu's command,
 began to speak the mantra into Madhava's ear.
 
-**444.** First he gave him the Hari-nama together with its meaning,
-then he spoke the mantra of Radha and Krishna into his ear.
+**444.** First He gave him the Hari-nama together with its meaning,
+then He spoke the mantra of Radha and Krishna into his ear.
 
 **445.** He instructed him in the kama-gayatri and the kama-bija[^19-61]
 and, explaining the meaning, revealed to him the whole truth.
@@ -16708,7 +16708,7 @@ how many people came cannot be counted.
 Virachandra and Achyutananda came with many Vaishnavas.
 
 **511.** On the day of the full moon in the morning there was nama-sankirtana;
-they performed the abhisheka of the deities and sprinkled them with coloured powder.
+they performed the abhisheka of the deities and sprinkled Them with coloured powder.
 
 **512.** All the devotees, sprinkling powder on the bodies of the deities,
 gladly sprinkle powder on one another.
@@ -16732,7 +16732,7 @@ Shyamananda, Narottama, Ramachandra Dasa,
 what joy there was cannot be written.
 
 **519.** Drawn by the power of Narottama's bhakti and his song,
-Krishna could not hold back and came together with his Beloved.
+Krishna could not hold back and came together with His Beloved.
 
 **520.** In all ten directions water and land were lit up;
 a spotless radiance, like lightning in a cloud.
@@ -17164,7 +17164,7 @@ you will meet Narasimha Raya.
 **662.** Staying with him, you will receive from Narottama
 the Gopala mantra together with him."
 
-**663.** Having said this, Gaura placed his feet on his head
+**663.** Having said this, Gaura placed His feet on his head
 and, showing him favour, went away.
 
 **664.** Having seen the dream, Rupa Narayana
@@ -17203,11 +17203,11 @@ after some time he came to the land of Gauda.
 **675.** For some days he wandered through various places —
 and heard that Nityananda Prabhu had disappeared.
 
-**676.** Hearing of his disappearance, he grieved greatly,
+**676.** Hearing of His disappearance, he grieved greatly,
 and in a dream Nityananda appeared to him.
 
 **677.** Seeing Prabhu, he fainted with bliss;
-[Prabhu] placed his foot on his head, and his heart grew calm.
+[Prabhu] placed His foot on his head, and his heart grew calm.
 
 **678.** Nitai said, "Listen, O Rupa Narayana:
 soon you will meet Narasimha.
@@ -17219,7 +17219,7 @@ and after some days you will see Narottama."
 waking, he sees that night has turned to morning.
 
 **681.** What joy he felt on seeing Prabhu cannot be described;
-what grief at losing sight of him cannot be written.
+what grief at losing sight of Him cannot be written.
 
 **682.** By Prabhu's will he recovered somewhat;
 and some days later he heard of Advaita Prabhu's departure.
@@ -17227,7 +17227,7 @@ and some days later he heard of Advaita Prabhu's departure.
 **683.** He grieved greatly, and in a dream he had darshana:
 Prabhu said, "You will meet Raja Narasimha."
 
-**684.** Having said this, Prabhu placed his foot on his head
+**684.** Having said this, Prabhu placed His foot on his head
 and, showing him favour, went away.
 
 **685.** Waking, Rupa Narayana was filled with grief;
@@ -17457,7 +17457,7 @@ whom all call by the titles Vidya-vagisha and Vidyaratna[^19-97].
 but the names of the pupils I could not write.
 
 **760.** Meanwhile Raja Narasimha and Rupa Narayana,
-having bowed to the six deities and offered them praise,
+having bowed to the six deities and offered Them praise,
 
 **761.** came to Narottama's feet and prostrated themselves;
 what humility they showed cannot be described.
@@ -17719,7 +17719,7 @@ and all, raising their arms, began to dance.
 Sri Rupa Narayana, dances.
 
 **844.** Then Rupa Narayana fell at Prabhu's feet,
-and Virachandra in his mercy placed his foot on his head.
+and Virachandra in His mercy placed His foot on his head.
 
 **845.** What joy there was cannot be written;
 after a while the sankirtana came to an end.
@@ -17731,7 +17731,7 @@ asked Rupa Narayana who he was.
 and was convinced that this was the shakti of Sri Rupa.
 
 **848.** Virachandra said, "Listen, Rupa Narayana:
-your bhakti has melted my heart.
+your bhakti has melted My heart.
 
 **849.** You are the shakti of Sri Rupa Gosvami;
 I bestow on you the title 'Gosvami'."
@@ -17779,7 +17779,7 @@ I have described it in detail in the Virachandra-charita[^19-109].
 seven gave up their lives at the obeisance of Abhirama[^19-110].
 
 **864.** The last son is Virabhadra, named Virachandra;
-I have recorded his story in the Virachandra-charita.
+I have recorded His story in the Virachandra-charita.
 
 **865.** At Srikhanda, at the memorial festival of Narahari,
 all came and performed a great sankirtana.
@@ -17800,19 +17800,19 @@ Prabhu Virachandra gave him sight.
 in this sankirtana everyone is dancing."
 
 **871.** Having received his sight, Ramai fell at Prabhu's feet,
-and Prabhu placed his foot on his head.
+and Prabhu placed His foot on his head.
 
 **872.** Then cries of "Blessed! Blessed!" rose in the sky;
 all embrace one another with love.
 
-**873.** How Prabhu in his compassion gave him sight
+**873.** How Prabhu in His compassion gave him sight
 I have written in detail in the Virachandra-charita.
 
 **874.** My Prabhu Virachandra is a merciful Gosani;
-there is no end to the disciples he made.
+there is no end to the disciples He made.
 
 **875.** In the village of Kadra there is a certain Jayagopala;
-for disregarding the guru's grace he excommunicated him[^19-112].
+for disregarding the guru's grace He excommunicated him[^19-112].
 
 **876.** To Srinivasa and all the mahantas
 Virabhadra made it known by letter.
@@ -17820,17 +17820,17 @@ Virabhadra made it known by letter.
 **877.** Here I have written a little, in brief;
 in the Virachandra-charita I have described it in detail.
 
-**878.** One day Virachandra, with his mother's leave,
+**878.** One day Virachandra, with His mother's leave,
 set out for Nilachala with a joyful heart.
 
-**879.** Going there, he beheld Jagannatha
+**879.** Going there, He beheld Jagannatha
 and saw all the places of Mahaprabhu's lila.
 
 **880.** Meeting all of Prabhu's companions who were there,
-he came to Gopivallabhapur[^19-113].
+He came to Gopivallabhapur[^19-113].
 
 **881.** Having met Shyamananda there,
-after some time he arrived at Khardaha.
+after some time He arrived at Khardaha.
 
 **882.** Here I have told a little, in brief;
 I have described it in detail in the Virachandra-charita.
@@ -17839,16 +17839,16 @@ I have described it in detail in the Virachandra-charita.
 set out for Vrindavana with a happy heart.
 
 **884.** From Khardaha by way of Ambika and Shantipur
-he came with a joyful heart to Navadvipa.
+He came with a joyful heart to Navadvipa.
 
 **885.** Having seen the places of Mahaprabhu's lila,
-he went by way of Khanda to Yajigrama.
+He went by way of Khanda to Yajigrama.
 
 **886.** Staying there two to four days,
-he went by way of Katwa and Budhari to Kheturi.
+He went by way of Katwa and Budhari to Kheturi.
 
 **887.** Staying some time in the village of Sri Kheturi,
-after some days he arrived in Vrindavana.
+after some days He arrived in Vrindavana.
 
 **888.** Here I have described nothing of what happened on the way:
 I have told it in detail in Prabhu's life.
@@ -17862,7 +17862,7 @@ and with joy in the Virachandra-charita[^19-114].
 **891.** Sri Govinda, Gopinatha, Madanamohana,
 Radha-Damodara and Sri Radha-ramana,
 
-**892.** Radha-vinoda and others he beheld;
+**892.** Radha-vinoda and others He beheld;
 what joy Prabhu felt cannot be written.
 
 **893.** All that concerns these deities —
@@ -17878,12 +17878,12 @@ after some days came to Sri Ekachakra.
 where Nityananda Prabhu was born.
 
 **897.** Seeing the places of Nitai's childhood lilas,
-with a joyful heart he shed streams of prema from his eyes.
+with a joyful heart He shed streams of prema from His eyes.
 
 **898.** This I have described in detail in the Virachandra-charita;
 from there my Prabhu came to Kheturi.
 
-**899.** Seeing him, Narottama fell at Prabhu's feet,
+**899.** Seeing Him, Narottama fell at Prabhu's feet,
 and Prabhu embraced him with great delight.
 
 **900.** Having beheld the sacred deities, Prabhu
@@ -17896,10 +17896,10 @@ spoke for some time of what had happened in Vrindavana.
 Narottama shed tears from both his eyes.
 
 **903.** Staying some time at Sri Kheturi,
-he set out from there for Yajigrama.
+He set out from there for Yajigrama.
 
 **904.** The Acharya, hearing of Virachandra's arrival,
-came out to meet him and brought him to his own house.
+came out to meet Him and brought Him to his own house.
 
 **905.** Srinivasa bowed at Virachandra's feet,
 and Prabhu Virachandra embraced him.
@@ -17907,8 +17907,8 @@ and Prabhu Virachandra embraced him.
 **906.** The Ishvari and Gauranga-priya were there too;
 they came and bowed at Prabhu's feet[^19-115].
 
-**907.** Telling of his journey to Vrindavana,
-he conveyed the blessing of Sri Bhatta Gosvami.
+**907.** Telling of His journey to Vrindavana,
+He conveyed the blessing of Sri Bhatta Gosvami.
 
 **908.** Hearing the blessing of his own Prabhu, Srinivasa —
 who had not [again] seen his holy feet — heaves deep sighs.
@@ -17917,7 +17917,7 @@ who had not [again] seen his holy feet — heaves deep sighs.
 came by way of Khanda to Khardaha.
 
 **910.** He bowed at the feet of Vasudha and Jahnava,
-and both, laying a hand on him, blessed him.
+and both, laying a hand on Him, blessed Him.
 
 **911.** Prabhu Virachandra described to everyone
 what had happened in Vrindavana.
@@ -17972,7 +17972,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^19-31]: That is, the festival of the installation of the deities at Kheturi (ch. 14); Vallavikanta is the deity of Krishna beside Gauranga.
 [^19-32]: In the 1913 edition 186–196 are enclosed in brackets. The Ishvari and the Thakurani here are Jahnava Devi, with whom the author was staying (187).
 [^19-33]: That is, Krishna (Vallavikanta) stands without Radha.
-[^19-34]: Literally "Krishna's samsara (household)" — Krishna together with his Beloved.
+[^19-34]: Literally "Krishna's samsara (household)" — Krishna together with His Beloved.
 [^19-35]: Variant given in both editions: "…you will be immersed in bliss".
 [^19-36]: That is, the former images of Gaura-raya (Gauranga) and Vallavikanta, which have vanished from the temple, will enter the new images of the same names.
 [^19-37]: Variant given in both editions: "…calmed everyone one by one".
@@ -17988,7 +17988,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^19-47]: The Dola-yatra is the spring festival of swings and colours on the full moon of the month of Phalguna; Mahaprabhu was born on the same day.
 [^19-48]: That is, with the ten-syllable mantra of Gopala (Krishna), one of the chief mantras of Gaudiya Vaishnava worship.
 [^19-49]: In the 1913 edition 357–366 and further 368 are partly enclosed in brackets.
-[^19-50]: That is, Mahaprabhu is Radha and Krishna united in one form; therefore he is worshipped with the mantra of the Divine Couple.
+[^19-50]: That is, Mahaprabhu is Radha and Krishna united in one form; therefore He is worshipped with the mantra of the Divine Couple.
 [^19-51]: Phagu (abir) is the red powder that people sprinkle on one another at the Dola-yatra (Holi).
 [^19-52]: The traditional division of food into four kinds.
 [^19-53]: The sixteen offerings (shodashopachara) are the full rite of worship. The Padma-purana is named as the source of the meditation.
@@ -18040,7 +18040,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^19-99]: Rajabhoga is the midday food offering to the deities.
 [^19-100]: Savarna is the name of a gotra (clan). This Rupa Narayana is not the pandita spoken of above.
 [^19-101]: Variant given in both editions: "…displayed one great power".
-[^19-102]: "Virabhadra" follows the 1999 edition; in the 1913 edition the name is corrupt. What follows is apparently his discourse.
+[^19-102]: "Virabhadra" follows the 1999 edition; in the 1913 edition the name is corrupt. What follows is apparently His discourse.
 [^19-103]: Cf. 734.
 [^19-104]: A kalpa is a "day of Brahma", a vast cosmic period.
 [^19-105]: Rasa is mercury (or an alchemical elixir) by which, in the view of the alchemists, base metal is turned into gold.
@@ -18051,7 +18051,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^19-110]: According to tradition, the obeisance of Abhirama (Ramadasa) destroyed anyone who was not an incarnation of a deity; of Jahnava's sons only Virachandra survived it.
 [^19-111]: Variant given in both editions: "…came to see the nama-sankirtana".
 [^19-112]: That is, excluded him from the community. The sense of the line is conjectural.
-[^19-113]: Variant given in both editions: "Meeting everyone, he came to Gopivallabhapur".
+[^19-113]: Variant given in both editions: "Meeting everyone, He came to Gopivallabhapur".
 [^19-114]: Variant given in both editions: "In the Virachandra-charita I have recorded this account in detail; / whoever hears it, tears of joy flow from him".
 [^19-115]: Here the Ishvari is Srinivasa's elder wife (cf. 30, 51). In the 1913 edition 906–907 are enclosed in brackets.
 
@@ -18080,13 +18080,13 @@ three brothers, great panditas, lived in Tailanga.[^20-1]
 the dearest disciple of Prabodhananda Sarasvati.
 
 **7.** When Srila Mahaprabhu went to the south,
-he kept the vow of chaturmasya in Venkata's house.[^20-2]
+He kept the vow of chaturmasya in Venkata's house.[^20-2]
 
 **8.** By Mahaprabhu's mercy [Gopala] gained the taste of sweetness
 and always worshipped the feet of Radha and Krishna in the mood of Vraja.
 
 **9.** Having obtained the Lord of his life in his own home,
-Gopala Bhatta served him at his father's command with great joy.
+Gopala Bhatta served Him at his father's command with great joy.
 
 **10.** Mahaprabhu made the truth known to Gopala,
 and by Prabhu's mercy the mood of Vraja awoke in him.
@@ -18299,7 +18299,7 @@ Now I shall record the branches of Narottama.
 I shall only point out the direction a little.[^20-18]
 
 **80.** Sri Krishna Chaitanya is a special appearance of Sri Krishna;
-giving Hari-nama, he delivered every land.
+giving Hari-nama, He delivered every land.
 
 **81.** His disciple is the wise Lokanatha Gosani,
 who lived in the village of Talagadi in Yashohara.
@@ -18404,7 +18404,7 @@ this branch is always enraptured by Hari-nama.[^20-24]
 whoever hears his singing, his heart melts.
 
 **115.** Virachandra Gosani Prabhu, hearing his singing,
-shed tears in the joy of prema that streamed down his face.
+shed tears in the joy of prema that streamed down His face.
 
 **116.** Virachandra Prabhu, knowing Rupa's power,
 graciously bestowed on him the title of Gosvami.
@@ -18703,7 +18703,7 @@ he made Utkala blessed with the bliss of sankirtana.
 **214.** As it is said by a certain Vaishnava:[^20-38]
 *He who was Nityananda became Narottama;
 Sri Chaitanya became Srinivasa;
-he who is called Sri Advaita became Shyamananda:
+He who is called Sri Advaita became Shyamananda:
 thus the three appeared.*
 
 **215.** When those three had disappeared, the power of these three
@@ -18758,7 +18758,7 @@ that I wrote in this book, meditating on her feet.
 what mercy she showed me I cannot tell.
 
 **232.** Virachandra Prabhu is my shiksha-guru;
-he showed me boundless compassion.
+He showed me boundless compassion.
 
 **233.** My mother is Saudamini, my father Atmarama Dasa;
 I was born in the Ambashtha caste and lived in Srikhanda.[^20-40]
@@ -18912,7 +18912,7 @@ and was renowned by the title of Acharya.
 ever attached to Nityananda's lotus feet.
 
 **27.** To Madhava Acharya Mahashaya, a kulina of the highest rank,
-Nityananda gave his daughter Ganga.
+Nityananda gave His daughter Ganga.
 
 **28.** No one wished to marry a sannyasi's daughter;
 Madhava Acharya married her at his guru's command.[^21-4]
@@ -18981,7 +18981,7 @@ to the sins they committed I find no end.
 among sins there was not one left that they had not done.
 
 **50.** The two brothers were delivered by merciful Nitai:
-being struck, he gives prema — I have never seen one so merciful!
+being struck, He gives prema — I have never seen one so merciful!
 
 **51.** One day Nityananda, together with Haridasa,
 went merrily to Jagai and Madhai.
@@ -18990,7 +18990,7 @@ went merrily to Jagai and Madhai.
 Say 'Krishna, Krishna' — then I shall be very happy."
 
 **53.** Hearing this, Jaga and Madha, like fire in their anger,
-came running at them to kill them.
+came running at Them to kill Them.
 
 **54.** Seeing their anger, Nityananda and Haridasa
 fled to Mahaprabhu.
@@ -18999,12 +18999,12 @@ fled to Mahaprabhu.
 Deliver the great sinners Jagai and Madhai."
 
 **56.** Prabhu says, "Sripada, since you have compassion [for them],
-these two sinners will surely obtain the shade of [my] feet."
+these two sinners will surely obtain the shade of [My] feet."
 
 **57.** Another day Nitai saw, a little way from Prabhu's house,
 Jaga and Madha, having drunk wine, lying senseless.
 
-**58.** Seeing their wretched state, he felt great compassion
+**58.** Seeing their wretched state, He felt great compassion
 and went up to them swiftly.
 
 **59.** Nitai says, "Listen, Jagai and Madhai!
@@ -19017,10 +19017,10 @@ and in anger struck Nitai on the head.
 when Madhai would strike again, Jaga held him back.
 
 **62.** As soon as Prabhu heard that Nitai's head was bleeding,
-calling to mind the Chakra,[^21-9] he came there in wrath.
+calling to mind the Chakra,[^21-9] He came there in wrath.
 
 **63.** Nitai says, "Spare these two brothers, Prabhu!
-Give them to me as alms, Prabhu Chaitanya Gosani."
+Give them to Me as alms, Prabhu Chaitanya Gosani."
 
 **64.** Seeing the Chakra, Jaga and Madha were terrified;
 by Nityananda's mercy the Chakra vanished.
@@ -19028,7 +19028,7 @@ by Nityananda's mercy the Chakra vanished.
 **65.** Nitai says, "Jagai held Madhai back from striking;
 the blood is flowing, but I feel no pain."
 
-**66.** Hearing that Jagai had protected him, [Prabhu]
+**66.** Hearing that Jagai had protected Him, [Prabhu]
 embraced Jagai with great joy.
 
 **67.** When Mahaprabhu showed favour to Jagai,
@@ -19038,34 +19038,34 @@ Madhai's heart became good at that very moment.
 "Have mercy on me, Prabhu, I take refuge."
 
 **69.** "You struck Nitai; your offence will go
-if he casts his glance on you."
+if He casts His glance on you."
 
 **70.** Hearing this, Madhai falls at Nitai's feet;
 embracing him, [Nitai] freed him from his offence.
 
-**71.** Nitai says, "Take all my merit,
-and give me the burden of your sins.
+**71.** Nitai says, "Take all My merit,
+and give Me the burden of your sins.
 
 **72.** All your offences are forgiven;
 may Mahaprabhu, the Lord of the world, make you pure."
 
-**73.** Having said this, he placed tulasi in his hand
-and joyfully took all his sins upon himself.
+**73.** Having said this, He placed tulasi in his hand
+and joyfully took all his sins upon Himself.
 
 **74.** Nitai's golden complexion turned black;
-taking the name of Krishna, he burnt the sins to ashes.
+taking the name of Krishna, He burnt the sins to ashes.
 
 **75.** When Prabhu Nitai took the name of Krishna,
-at that moment his body became golden.
+at that moment His body became golden.
 
 **76.** The two became disciples of the two Prabhus
-and praise them with joyful hearts.
+and praise Them with joyful hearts.
 
 **77.** Mahaprabhu embraced them both and said,
-"From today you two are my servants."
+"From today you two are My servants."
 
 **78.** Nitai, embracing them both, says,
-"You two have become my dear disciples."
+"You two have become My dear disciples."
 
 **79.** Jagai and Madhai became great devotees;
 they are counted among the branches of the two Prabhus.
@@ -19099,7 +19099,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 [^21-7]: The kazi is a Muslim judge and district administrator.
 [^21-8]: Literally "the rim of a [broken] pot".
 [^21-9]: The Sudarshana-chakra, the discus weapon of Vishnu.
-[^21-10]: According to the Bhagavata Purana, Jaya and Vijaya, cursed by the sages the Kumaras, were born three times as demon enemies of Vishnu (Hiranyakashipu and Hiranyaksha, Ravana and Kumbhakarna, Shishupala and Dantavakra) and were liberated by being slain by him.
+[^21-10]: According to the Bhagavata Purana, Jaya and Vijaya, cursed by the sages the Kumaras, were born three times as demon enemies of Vishnu (Hiranyakashipu and Hiranyaksha, Ravana and Kumbhakarna, Shishupala and Dantavakra) and were liberated by being slain by Him.
 
 ---
 
@@ -19233,7 +19233,7 @@ she took birth assuming the form of Gadadhara.
 **42.** Gadadhara studied together with Mahaprabhu;
 fortunate one, from childhood he was detached from the world.
 
-**43.** Mahaprabhu drew Pundarika [to himself],
+**43.** Mahaprabhu drew Pundarika [to Himself],
 and he came secretly to Navadvipa.
 
 **44.** Prabhu weeps: "I have seen Father Pundarika!" —
@@ -19315,7 +19315,7 @@ and on another day gave him the mantra.
 he is always diligent in the service of Sri Krishna Chaitanya.
 
 **70.** He understands Chaitanya's lilas one after another
-and, judging the moment, Gadai stands on [his] left.[^22-9]
+and, judging the moment, Gadai stands on [His] left.[^22-9]
 
 **71.** On his neck Gadai wears an image of Sri Krishna
 and always serves it with love.
@@ -19330,12 +19330,12 @@ hear the story of another day.
 Mahaprabhu came there.
 
 **75.** Prabhu says, "Listen, Pandita Gosani,
-what book are you writing? Tell me."
+what book are you writing? Tell Me."
 
 **76.** The Pandita says, "I am copying the Sri Gita."
 Hearing this, Prabhu snatched the Gita from his hand.
 
-**77.** Taking the manuscript, he wrote one shloka in it
+**77.** Taking the manuscript, He wrote one shloka in it
 and, saying, "Take it, Gadadhara," gave it into his hand.
 
 **78.** Seeing the shloka, Gadadhara rejoiced at heart;
@@ -19363,7 +19363,7 @@ he called Nayanananda and said this:
 serve it always with great love.
 
 **86.** To you I entrust this service of Sri Gopinatha;
-serve him with devotion and do not worship other goddesses and gods.
+serve Him with devotion and do not worship other goddesses and gods.
 
 **87.** This Gita written in my own hand I give to you;
 Mahaprabhu wrote one shloka in it.
@@ -19480,13 +19480,13 @@ and still Sri Gaurangachandra did not come to outward consciousness.
 first prostrated themselves on the ground with love.
 
 **27.** Seeing the devotees' distress, Prabhu returned to outward consciousness
-and placed his feet on the head of each.
+and placed His feet on the head of each.
 
 **28.** Beside themselves with joy, all the devotees
 began the sankirtana of Hari-nama.
 
 **29.** From the seat of kirtana Prabhu says to Advaita:
-"You brought me down from Goloka."
+"You brought Me down from Goloka."
 
 **30.** Advaita says, "I am the smallest of the small;
 you came to show mercy to living beings.
@@ -19498,7 +19498,7 @@ that is why people see you, receiving mercy.
 [you have come] to establish bhakti-yoga — how then shall we women see you?*[^23-4]"
 
 **33.** Having heard Advaita, [Prabhu] then said to Srivasa,
-"With a slap of my palm I preserved your life.
+"With a slap of My palm I preserved your life.
 
 **34.** Hey, Srivasa, if you remember that affair,
 tell it in detail before the whole assembly."
@@ -19555,7 +19555,7 @@ as Devananda Pandita expounded it.
 from the veranda I fell into the courtyard.
 
 **52.** Just then a Great Person came
-and, slapping me with his palm, brought me back to life.
+and, slapping me with His palm, brought me back to life.
 
 **53.** Receiving [a new] span of life, I rose;
 all lifted me up and carried me into the house."
@@ -19563,11 +19563,11 @@ all lifted me up and carried me into the house."
 **54.** Prabhu says, "Hey, Srivasa, [it was I who] appeared to you in a dream,
 gave you a span of life and saved you from death.
 
-**55.** Hey, Srivasa, you are Narada, my servant;
+**55.** Hey, Srivasa, you are Narada, My servant;
 Sri Rama Pandita is Parvata, the best of sages.
 
 **56.** Sripati and Srikanta are his manifestations;
-you four brothers are my eternal servants."
+you four brothers are My eternal servants."
 
 **57.** Hearing Prabhu's words, all the devotees
 were immersed in an ocean of bliss.
@@ -19588,7 +19588,7 @@ Narayani came to partake of Prabhu's remnants.
 cries "O Krishna!" — weeps and falls to the ground.
 
 **63.** To a four-year-old girl, innocent,
-Prabhu gave the remnants of his meal.
+Prabhu gave the remnants of His meal.
 
 **64.** That Kilimbika who in Vrindavana ate Krishna's remnants
 is now Narayani.[^23-7]
@@ -19630,10 +19630,10 @@ reading it, the devotees are filled with boundless joy.
 Nityananda vanished from sight.
 
 **77.** Two years after that Sri Advaita Raya,
-dismissing both Prabhus, went to his own abode.[^23-9]
+dismissing both Prabhus, went to His own abode.[^23-9]
 
 **78.** Having invoked, completed the worship,
-and dismissed, he went to his own abode.
+and dismissed, He went to His own abode.
 
 **79.** After the disappearance of the three Prabhus,
 Vrindavana settled in the village of Denur.
@@ -19672,7 +19672,7 @@ set out for the village of Ramakeli.
 and the names Rupa and Sanatana became manifest.
 
 **91.** On that journey Mahaprabhu did not go to Vraja:
-from Kanai Natashala he returned to Nilachala.
+from Kanai Natashala He returned to Nilachala.
 
 **92.** One day Rupa Gosani, having done the state business,
 came home late at night.[^23-11]
@@ -19762,7 +19762,7 @@ yet with clods of earth he shows his former habits!"
 by Chaitanya's mercy the root of worldliness in him was destroyed.
 
 **120.** At Prayaga Prabhu infused power into Sri Rupa,
-in the holy city of Varanasi he instructed Sanatana.
+in the holy city of Varanasi He instructed Sanatana.
 
 **121.** Thus Rupa and Sanatana, by Chaitanya's mercy,
 gave up worldly life, and both went to Vrindavana.
@@ -19780,10 +19780,10 @@ now I shall tell of the appearance of Madana-gopala.
 serve Madana-gopala with devotion.
 
 **126.** Madana-gopala they call Madanamohana
-and raise him with a parent's love for a son.
+and raise Him with a parent's love for a son.
 
 **127.** With Chaube's son the Thakura[^23-16] is in a mood of friendship:
-sometimes they fight and complain [of each other].
+sometimes They fight and complain [of each other].
 
 **128.** They eat and drink together, sleep together,
 and the two wander about together.
@@ -19792,7 +19792,7 @@ and the two wander about together.
 Madanamohana came [to Sanatana] in a dream and said:
 
 **130.** "Hey, Sanatana, I am in Chaube's house;
-bring me and serve me with care."
+bring Me and serve Me with care."
 
 **131.** On the pretext of begging alms Sanatana goes to Chaube's house;
 Chaube serves Madanamohana as his son.
@@ -19804,10 +19804,10 @@ I can in no way tell with a single mouth.
 and thought of them as Nanda and Yashoda.[^23-17]
 
 **134.** Seeing Sanatana, Madanamohana says,
-"Take me with you wherever you wish."
+"Take Me with you wherever you wish."
 
 **135.** Madanamohana says to Chaube and his wife,
-"You raised me with a parent's love.
+"You raised Me with a parent's love.
 
 **136.** Listen, mother and father, to one word:
 you will dwell in Goloka — it shall surely be so.
@@ -19816,7 +19816,7 @@ you will dwell in Goloka — it shall surely be so.
 do not grieve at all."[^23-18]
 
 **138.** Hearing this, both wept aloud,
-and he consoled them with the sweetest words.
+and He consoled them with the sweetest words.
 
 **139.** Bowing to Chaube, Gosani Sanatana
 took Madanamohana to his own abode.
@@ -19849,7 +19849,7 @@ Radha-vinoda, Radha-ramana, Shyamasundara.
 they joyfully arranged for the service.
 
 **149.** These seven deities are the kings of Vrindavana;
-people from many lands come to worship them.
+people from many lands come to worship Them.
 
 **150.** Now I shall tell of Sri Jiva Gosvami;
 listen, listen, O hearers, with one mind.
@@ -19980,7 +19980,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 *Thus ends the twenty-third vilasa of the Prema-vilasa.*
 
 [^23-1]: Srihatta is Sylhet (now in Bangladesh).
-[^23-2]: The Mahaprakasha ("great manifestation") is the day when Mahaprabhu in Srivasa's house sat on Vishnu's throne, received abhisheka and revealed his divine nature to the devotees; it is described in detail in Vrindavana Dasa's Chaitanya-bhagavata.
+[^23-2]: The Mahaprakasha ("great manifestation") is the day when Mahaprabhu in Srivasa's house sat on Vishnu's throne, received abhisheka and revealed His divine nature to the devotees; it is described in detail in Vrindavana Dasa's Chaitanya-bhagavata.
 [^23-3]: A prahara is a quarter of the day or night, about three hours.
 [^23-4]: Bhagavata Purana 1.8.20 (Kunti's prayer).
 [^23-5]: A well-known shloka from the Brihan-naradiya Purana.
@@ -20010,7 +20010,7 @@ Nityananda Dasa, tells the Prema-vilasa.
 
 # Vilasa 24. The Life of Advaita Acharya, the Lineages of Mahaprabhu's Associates and the Kulina System of the Bengali Brahmanas
 
-*The nature of Krishna, Balarama and Sadashiva; the birth and childhood pastimes of Advaita; his studies, travels, the finding of Madana-gopala and his initiation by Madhavendra Puri; Advaita's disciples and Brahma-Haridasa; Advaita's marriage and family; Madhava Acharya (Kavivallabha); Mahaprabhu's lineage; Vishvarupa and Nityananda; Mahaprabhu's journey to East Bengal; Nityananda's marriage, Virabhadra and Devivara; the family of Gadadhara Pandita; the Radhi and Varendra brahmanas, Adishura, Ballala and the rules of kulinism; the author's conclusion*[^24-1]
+*The nature of Krishna, Balarama and Sadashiva; the birth and childhood pastimes of Advaita; His studies, travels, the finding of Madana-gopala and His initiation by Madhavendra Puri; Advaita's disciples and Brahma-Haridasa; Advaita's marriage and family; Madhava Acharya (Kavivallabha); Mahaprabhu's lineage; Vishvarupa and Nityananda; Mahaprabhu's journey to East Bengal; Nityananda's marriage, Virabhadra and Devivara; the family of Gadadhara Pandita; the Radhi and Varendra brahmanas, Adishura, Ballala and the rules of kulinism; the author's conclusion*[^24-1]
 
 **1.** Glory, glory to Sri Chaitanya! Glory to Nityananda!
 Glory to Advaitachandra! Glory to the devotees of Gaura!
@@ -20031,7 +20031,7 @@ He is Sri Krishna, Narayana, the Supreme Lord.
 the form manifested by Himself is one, not separate.
 
 **7.** Vasudeva, the root of the fourfold expansion (chatur-vyuha) in Dvaraka,
-is a manifestation of Sri Krishna: there is no difference [between them].
+is a manifestation of Sri Krishna: there is no difference [between Them].
 
 **8.** As it is said:
 *"A manifestation is not counted among the different [forms]: it is not separate [from Him]."*[^24-2]
@@ -20046,16 +20046,16 @@ four-armed, holding conch, disc, club and lotus.
 vilasa and the other [forms] differ only in appearance.
 
 **12.** Two more vilasas of Krishna are Balarama and Sadashiva:
-non-different [from Him], they take the mood of devotees and [appear as] distinct[^24-3].
+non-different [from Him], They take the mood of devotees and [appear as] distinct[^24-3].
 
 **13.** They only seem distinct because of the devotee's mood;
-in truth they are non-different — know this for certain.
+in truth They are non-different — know this for certain.
 
 **14.** Sankarshana, the root of the chatur-vyuha in Dvaraka,
 is the manifested form of Balarama.
 
 **15.** Balarama's vilasa is Maha-Sankarshana in Vaikuntha;
-in the chatur-vyuha of Rama he is counted as Lakshmana.
+in the chatur-vyuha of Rama He is counted as Lakshmana.
 
 **16.** Sankarshana is one of the four vilasas in the enclosure of Vaikuntha.
 Such is the truth of Baladeva; listen further, O hearers.
@@ -20066,16 +20066,16 @@ Garbhodakashayi the Inner Controller of each universe,
 **18.** Kshirodakashayi the Inner Controller of each living being,
 and Sri Ananta-deva Shesha, who is beyond maya —
 
-**19.** all of them are portions of Balarama.
+**19.** all of Them are portions of Balarama.
 Who [fully] knows the truth of this Balarama?
 
 **20.** Bed, seat, vehicle, umbrella, sandals —
 taking various forms, Balai serves Krishna.
 
 **21.** This Balarama is Nityananda Mahashaya;
-he is also Vishvarupa, the brother of Sri Chaitanyadeva.
+He is also Vishvarupa, the brother of Sri Chaitanyadeva.
 
-**22.** For the work of creation Sadashiva, together with Rudra, his own portion,
+**22.** For the work of creation Sadashiva, together with Rudra, His own portion,
 became manifest from Mahavishnu — know this for certain.
 
 **23.** Therefore Sadashiva is an avatara of Mahavishnu.
@@ -20090,7 +20090,7 @@ everyone calls it the form of Hari-Hara.
 **26.** Mahavishnu-Sadashiva, the benefactor of living beings,
 performed austerities for seven hundred years in Kali[-yuga].
 
-**27.** Seeing Krishna face to face, he offered praise and obeisance
+**27.** Seeing Krishna face to face, He offered praise and obeisance
 and asked the Lord: "How will the living beings of Kali be liberated?"
 
 **28.** Krishna said: "Liberation is in the Name. Listen, Sadashiva:
@@ -20103,13 +20103,13 @@ I shall [first] cause My mother, father, associates and others to be born.
 I shall take birth on earth together with Baladeva."
 
 **31.** Saying this, Bhagavan disappeared,
-and Mahadeva with his associates took birth[^24-4].
+and Mahadeva with His associates took birth[^24-4].
 
 **32.** Mahavishnu-Sadashiva, the form of Hari-Hara,
 was born as Advaita — and the world's distress was gone.
 
 **33.** […] worshipping Krishna[^24-5],
-he brought Him to Nadia together with His associates.
+He brought Him to Nadia together with His associates.
 
 **34.** Endless obeisances at the feet of that Advaita Prabhu,
 by whose grace we have obtained Gaura Bhagavan!
@@ -20192,23 +20192,23 @@ and distributed wealth as far as his means allowed.
 **60.** Who can count how many musicians came!
 At the proper time Kuvera performed the naming ceremony.
 
-**61.** Calling an astrologer, he gave him a name:
-one of his names was Kamalakanta.
+**61.** Calling an astrologer, he gave Him a name:
+one of His names was Kamalakanta.
 
-**62.** Because he is not different from Hari, he was named Advaita ("Non-dual");
+**62.** Because He is not different from Hari, He was named Advaita ("Non-dual");
 under the name Advaita Prabhu became famous.
 
 **63.** Hearing the name of Krishna, Prabhu dances;
-receiving the prasada of the shalagrama, he is intoxicated with bliss.
+receiving the prasada of the shalagrama, He is intoxicated with bliss.
 
 **64.** Thus five years passed;
-choosing an auspicious day, his father put chalk into his hand[^24-12].
+choosing an auspicious day, His father put chalk into His hand[^24-12].
 
-**65.** In a short time he learned much reading and writing;
+**65.** In a short time He learned much reading and writing;
 Kamala played every day with the king's son.
 
 **66.** Hearing the names "Krishna," "Hari," Kamalakanta dances;
-the prince, seeing this, mocks him greatly.
+the prince, seeing this, mocks Him greatly.
 
 **67.** Hearing [the mockery], Kamalakanta roars in anger —
 and the king's son falls senseless.
@@ -20228,7 +20228,7 @@ finding his son who had run away, he learned what had happened.
 **72.** Kuvera says: "Why did you kill the king's son?"
 Kamalakanta says: "The prince is not dead."
 
-**73.** Hearing this, Raja Divyasimha praises him,
+**73.** Hearing this, Raja Divyasimha praises Him,
 and with the water that had washed the shalagrama's feet [Kamalakanta] revives the prince.
 
 **74.** Seeing this, all the people say: "This mahashaya
@@ -20249,13 +20249,13 @@ at once began to speak in anger:
 **79.** "O Kamalakanta, what behaviour is this?
 You do not bow to the Devi — this is a great outrage!"
 
-**80.** Kamalakanta says: "The Devi will not accept [my] obeisance:
+**80.** Kamalakanta says: "The Devi will not accept [My] obeisance:
 I am Sadashiva — know this for certain."
 
 **81.** Hearing his son's words, the pandita grew angry;
-seeing his father's anger, Kamala bowed to the Devi.
+seeing His father's anger, Kamala bowed to the Devi.
 
-**82.** As soon as he bowed, Kalika disappeared,
+**82.** As soon as He bowed, Kalika disappeared,
 and the moment the Devi disappeared, the image split apart[^24-13].
 
 **83.** The king and all the people were amazed:
@@ -20282,11 +20282,11 @@ and the king installed [images of] the Devi and Vishnu.
 **90.** Meanwhile Kamalakanta, having studied grammar,
 after some time came to Shantipur.
 
-**91.** There, as he wished, he studied literature, poetics, philosophy and the rest,
+**91.** There, as He wished, He studied literature, poetics, philosophy and the rest,
 the smritis, the Vedas and the Puranas.
 
-**92.** He brought his mother and father to Shantipur
-and always served the feet of his mother and father.
+**92.** He brought His mother and father to Shantipur
+and always served the feet of His mother and father.
 
 **93.** Near Shantipur is the village of Phullavati[^24-15];
 [there lived] a most excellent pandita named Shantacharya.
@@ -20295,9 +20295,9 @@ and always served the feet of his mother and father.
 the yoga-shastras, the *Yoga-vasishtha* and the rest
 
 **95.** Kamalakanta studied and received the title of Acharya;
-by expounding bhakti he made the title Acharya meaningful.
+by expounding bhakti He made the title Acharya meaningful.
 
-**96.** Listen, O hearers, to a wonder that happened during his studies.
+**96.** Listen, O hearers, to a wonder that happened during His studies.
 Next to the Ganga was a very deep lake (bil),
 
 **97.** full of fragrant lotuses;
@@ -20306,22 +20306,22 @@ countless snakes, hooded and unhooded, swarmed there.
 **98.** Seeing those lotuses, Shantacharya Mahashaya
 became eager to worship his chosen Deity with them.
 
-**99.** Understanding his teacher's wish, Advaita
+**99.** Understanding His teacher's wish, Advaita
 quickly brought many lotuses from the lake:
 
-**100.** he walked on the water as on dry land.
+**100.** He walked on the water as on dry land.
 Seeing this, Shantacharya was astonished to the core.
 
 **101.** He thinks: "Advaita is not a human being at all;
-it seems to me he is a portion of Ishvara."
+it seems to me He is a portion of Ishvara."
 
-**102.** Having finished his studies, Advaita came home;
-after some time his mother and father left this world.
+**102.** Having finished His studies, Advaita came home;
+after some time His mother and father left this world.
 
 **103.** Advaita went to Gaya to offer the pinda
 and gradually travelled to all the holy places.
 
-**104.** In the south he met Madhavendra Puri;
+**104.** In the south He met Madhavendra Puri;
 [Advaita] heard from him the whole truth of bhakti.
 
 **105.** He studied the scriptures of bhakti with Madhavendra;
@@ -20336,17 +20336,17 @@ give the living beings devotion to Krishna and deliver them.
 **108.** You will bring Krishna to the earth —
 I saw this in a dream and tell it to you."
 
-**109.** Advaita says: "Puri Gosani, give me this blessing:
+**109.** Advaita says: "Puri Gosani, give Me this blessing:
 that Krishna may come and deliver the living beings."
 
 **110.** Advaita stayed some days with Madhavendra,
 and from there afterwards went west.
 
-**111.** In Kashi he met Vijaya Puri;
-wandering on, he then came to Vrindavana.
+**111.** In Kashi He met Vijaya Puri;
+wandering on, He then came to Vrindavana.
 
 **112.** He circumambulated the whole land of Vrindavana;
-one night he saw a dream:
+one night He saw a dream:
 
 **113.** dark as a fresh cloud, enchanting the worlds,
 Hari with a peacock feather, the flute at His lips,
@@ -20373,9 +20373,9 @@ dig up the earth and raise Me up.
 Saying this, Bhagavan disappeared.
 
 **121.** Having seen the dream, Advaita woke and sat up;
-when the night was over, he went and found [the place].
+when the night was over, He went and found [the place].
 
-**122.** Having performed his morning duties, he brought people
+**122.** Having performed His morning duties, He brought people
 and raised Madanamohana from the grove.
 
 **123.** With great labour they dug out the Deity;
@@ -20403,7 +20403,7 @@ and, striking his head, wept without end.
 [the pujari] cried out: "The mlecchas have taken the Thakura!"
 
 **131.** Not seeing the Thakura, Advaita wept bitterly;
-in anguish of heart he lay down without food.
+in anguish of heart He lay down without food.
 
 **132.** At the end of the night Bhagavan says to Advaita:
 "Wary of the mlecchas, I am hiding beneath the flowers.
@@ -20418,15 +20418,15 @@ and you yourself, having taken prasada, sleep in peace.
 proclaim [My] name — Madana-gopala."
 
 **136.** In great bliss Advaita Prabhu began to dance;
-he brought the Thakura to the temple to offer Him food.
+He brought the Thakura to the temple to offer Him food.
 
 **137.** Having offered fruits and roots,
-he laid Madana-gopala on His bed.
+He laid Madana-gopala on His bed.
 
 **138.** Having taken prasada, Advaita lay down to sleep;
-rising in the morning, he went to the bank of the Yamuna.
+rising in the morning, He went to the bank of the Yamuna.
 
-**139.** On the bank of the Yamuna he saw that brahmana
+**139.** On the bank of the Yamuna He saw that brahmana
 and told him: "Go quickly to the temple."
 
 **140.** The brahmana says: "Why should I go to the temple in vain?"
@@ -20462,8 +20462,8 @@ I shall leave the Chaube.
 **150.** In the morning that devotee, the Chaube, will come here;
 give Me to him and do not grieve."
 
-**151.** Advaita says: "Hari, if You leave me and go —
-I tell You truly — I shall lose my life."
+**151.** Advaita says: "Hari, if You leave Me and go —
+I tell You truly — I shall lose My life."
 
 **152.** Bhagavan says: "Advaita, listen to one thing:
 here there is an image of Mine non-different [from Me] —
@@ -20492,7 +20492,7 @@ I am with Advaita — bring Me here.
 **160.** You two are My mother and father;
 bring Me and care for Me in every way.'"
 
-**161.** Hearing this, Advaita prostrated himself [and said]:
+**161.** Hearing this, Advaita prostrated Himself [and said]:
 "Take this Madanamohana and go."
 
 **162.** In great bliss the Chaube took Madana-gopala
@@ -20501,10 +20501,10 @@ and served Him for a long time as his son.
 **163.** Meanwhile Sri Advaita Prabhu began to wander [through Vraja]
 and in a certain grove found the picture-image.
 
-**164.** Having obtained the image, he floats in the waters of the ocean of prema;
-after some time he came to Sri Shantipur.
+**164.** Having obtained the image, He floats in the waters of the ocean of prema;
+after some time He came to Sri Shantipur.
 
-**165.** In Shantipur he installed that image,
+**165.** In Shantipur He installed that image,
 and the name Madana-gopala became known.
 
 **166.** Advaita in Shantipur meditates on Gopala's feet;
@@ -20514,9 +20514,9 @@ by providence Madhavendra Puri came there.
 Advaita came there.
 
 **168.** Advaita honoured Srila Madhavendra
-and again and again prostrated himself before him.
+and again and again prostrated Himself before him.
 
-**169.** From him he received initiation in the ten-syllable Gopala mantra;
+**169.** From him He received initiation in the ten-syllable Gopala mantra;
 all say Advaita is a disciple of Madhavendra.
 
 **170.** Having stayed some days in Shantipur,
@@ -20577,7 +20577,7 @@ and defeat all the panditas in debate.
 one day he came to Advaita in Shantipur.
 
 **189.** Entering into debate, he was defeated
-and saw Advaita as Sadashiva himself.
+and saw Advaita as Sadashiva Himself.
 
 **190.** Bada Shyama received the Krishna mantra from Advaita
 and began to study the scripture *Sri Bhagavata*.
@@ -20999,7 +20999,7 @@ departed this world — so I have heard from people.
 in a dream he sees Advaita as the husband of both.
 
 **329.** In the two daughters he sees the very nature of Bhagavati,
-and in Advaita he saw the form of Sadashiva himself.
+and in Advaita he saw the form of Sadashiva Himself.
 
 **330.** Having seen the dream, he put his two daughters in a boat,
 keeping in mind: "I shall go to Shantipur."
@@ -21014,7 +21014,7 @@ and told Bada Shyamadasa of his dream.
 wishing to arrange the marriage.
 
 **334.** Bada Shyamadasa says: "Prabhu, marry."
-Prabhu says: "Who will give [a daughter] in marriage to an old man like me?"
+Prabhu says: "Who will give [a daughter] in marriage to an old man like Me?"
 
 **335.** From Kuliya Nrisimha came to Shantipur
 and met Advaita Prabhu at the ghat.
@@ -21047,10 +21047,10 @@ with two other hands she pulls the cloth over her head.
 Sita quickly withdrew the two hands.
 
 **345.** Thus I have told of Sri Sita's marriage;
-Advaita lived as a householder with his two wives.
+Advaita lived as a householder with His two wives.
 
 **346.** Formerly Advaita's school (tol) was in Nadia;
-after marrying he established his school in Shantipur.
+after marrying He established His school in Shantipur.
 
 **347.** Sita Devi and Sri Devi from Advaita
 [received initiation] with great joy in their hearts[^24-44].
@@ -21137,10 +21137,10 @@ and brought Krishnachandra with His associates to Nadia.
 and through bhakti-yoga delivered the whole world.
 
 **375.** Mahaprabhu shows Advaita the devotion due to a guru
-and every day takes the dust of his feet.
+and every day takes the dust of His feet.
 
 **376.** At this the Lord of Shantipur is greatly pained:
-his mind is always downcast, he finds no peace.
+His mind is always downcast, He finds no peace.
 
 **377.** Advaita says: "I shall go against bhakti:
 I shall constantly expound the *Yoga-vasishtha* and the like.
@@ -21149,30 +21149,30 @@ I shall constantly expound the *Yoga-vasishtha* and the like.
 so that anger will be kindled in Prabhu.
 
 **379.** Hearing of it, Prabhu will surely come to Shantipur
-and punish me with His own hand."
+and punish Me with His own hand."
 
-**380.** Resolving thus in his mind, Advaita,
+**380.** Resolving thus in His mind, Advaita,
 abandoning dualism, propounds the doctrine of knowledge[^24-49].
 
-**381.** He instructs his disciples in the doctrine of knowledge;
+**381.** He instructs His disciples in the doctrine of knowledge;
 hearing this, Prabhu became angry at heart.
 
 **382.** Hearing [of it], Nityananda and Sri Gauranga Raya
 in great anger hurry to Shantipur.
 
 **383.** Hearing the doctrine of knowledge, Prabhu blazed up like fire,
-beat him with His own hand and threw him to the ground.
+beat Him with His own hand and threw Him to the ground.
 
 **384.** Advaita says: "Prabhu, You are the guru of the world,
 the wish-fulfilling tree that fulfils the desires of devotees."
 
-**385.** Saying this, he bowed at Prabhu's feet,
-and Prabhu embraced him and held him to His heart.
+**385.** Saying this, He bowed at Prabhu's feet,
+and Prabhu embraced Him and held Him to His heart.
 
 **386.** Prabhu says: "Those who have accepted the doctrine of knowledge —
 make them now followers of bhakti."
 
-**387.** Advaita preached the doctrine of bhakti to all his disciples;
+**387.** Advaita preached the doctrine of bhakti to all His disciples;
 giving up the doctrine of knowledge, all practised bhakti.
 
 **388.** Kamadeva Nagara, Agala and Pagala,
@@ -21383,7 +21383,7 @@ Sri Chandrashekhara marries Sarvajaya.
 at last Vishvarupa was born.
 
 **457.** Baladeva was born as Vishvarupa;
-he received initiation from Ishvara Puri.
+He received initiation from Ishvara Puri.
 
 **458.** Vishvarupa's younger brother is Nimai Pandita,
 known in the world by the name Sri Krishna Chaitanya.
@@ -21391,23 +21391,23 @@ known in the world by the name Sri Krishna Chaitanya.
 **459.** The son of Ratnagarbha Acharya was named Lokanatha;
 Vishvarupa resolved to take him along.
 
-**460.** As soon as he wished it, Lokanatha came to him;
+**460.** As soon as He wished it, Lokanatha came to Him;
 taking him, Vishvarupa went to the south.
 
 **461.** Having taken sannyasa, [Vishvarupa received] the name Shankararanya Puri;
-his maternal cousin Lokanatha became his disciple[^24-58].
+His maternal cousin Lokanatha became His disciple[^24-58].
 
 **462.** Lokanatha serves Vishvarupa;
 by providence Ishvara Puri arrived there.
 
 **463.** Vishvarupa bowed to Ishvara Puri
-and placed his own divine power in Puri.
+and placed His own divine power in Puri.
 
 **464.** As it is said in the *Chaitanya-chandrodaya-nataka*, in the words of Kali:
-*"His elder brother, who took no wife — Lord Sankarshana, Vishvarupa on earth — having, it is said, placed his own splendour in Ishvara Puri, having earlier taken to the wandering life, disappeared."*[^24-59]
+*"His elder brother, who took no wife — Lord Sankarshana, Vishvarupa on earth — having, it is said, placed His own splendour in Ishvara Puri, having earlier taken to the wandering life, disappeared."*[^24-59]
 
 **465.** Vishvarupa says: "Lord, this concentrated power —
-give initiation to Nityananda and place it in him."
+give initiation to Nityananda and place it in Him."
 
 **466.** Saying this, Vishvarupa attained perfection (left the world),
 and Ishvara Puri went from there to another place.
@@ -21436,14 +21436,14 @@ Baladeva, through difference of manifestation, appears in two forms.
 **474.** Nityananda also had another name, Chidananda;
 Hadai Ojha gave it at Advaita's order.
 
-**475.** In household life he was known as Nityananda,
-in sannyasa his name is Nityananda Avadhuta.
+**475.** In household life He was known as Nityananda,
+in sannyasa His name is Nityananda Avadhuta.
 
 **476.** Listen, listen, O hearers, with one mind:
 hear what I shall now tell.
 
 **477.** In the village of Ekachaka Prabhu Nityananda Raya
-always played with bliss in his heart.
+always played with bliss in His heart.
 
 **478.** A certain sannyasi sees a dream:
 Balarama comes and speaks these words to him:
@@ -21464,7 +21464,7 @@ waking, the best of sannyasis sees that the night has turned to dawn.
 and asked for Nityananda-svarupa as alms.
 
 **484.** That sannyasi's name was Ishvara Puri;
-giving Nityananda initiation, he made him a sannyasi[^24-61].
+giving Nityananda initiation, he made Him a sannyasi[^24-61].
 
 **485.** He placed Vishvarupa's power in Nityananda:
 in the form of power Vishvarupa merged with Nitai.
@@ -21482,27 +21482,27 @@ and keep in mind a meeting with Madhavendra."
 and came to Madhavendra Puri.
 
 **490.** Nityananda travels alone to all the holy places;
-by providence he met Madhavendra.
+by providence He met Madhavendra.
 
 **491.** A meeting with Ishvara Puri also took place;
 the joy that arose cannot be described.
 
-**492.** Sri Nityananda Raya, with bliss in his heart,
-always sees Madhavendra Puri as his guru;
+**492.** Sri Nityananda Raya, with bliss in His heart,
+always sees Madhavendra Puri as His guru;
 
 **493.** Madhavendra Puri towards Sri Nityananda
 always shows a friend's affection.
 
-**494.** For some days they stayed together in talks of Krishna,
-then they went their ways, each wherever he wished.
+**494.** For some days They stayed together in talks of Krishna,
+then They went Their ways, each wherever he wished.
 
 **495.** Having travelled to all the holy places, Sri Nityananda Raya
-set out for Vrindavana with bliss in his heart.
+set out for Vrindavana with bliss in His heart.
 
-**496.** Wandering through the twelve forests, he searches for Krishna;
-again he met Ishvara Puri.
+**496.** Wandering through the twelve forests, He searches for Krishna;
+again He met Ishvara Puri.
 
-**497.** Bowing down, he says: "Guru, where has Krishna gone?"
+**497.** Bowing down, He says: "Guru, where has Krishna gone?"
 Ishvara Puri says: "There where Navadvipa is:
 
 **498.** He has descended in Navadvipa from the womb of Shachi
@@ -21988,7 +21988,7 @@ the daughter too did not die from Abhirama's obeisance.
 the world will be delivered — I know it for certain."[^24-84]
 
 **653.** Prabhu Virabhadra is an avatara of Ishvara;
-by his mercy the world was delivered.
+by His mercy the world was delivered.
 
 **654.** Listen, listen, O hearers, with one mind:
 hear what I shall now tell.
@@ -22027,7 +22027,7 @@ Madhava is Bhagiratha's adopted son[^24-85].
 Madhava became Srinatha's third brother.
 
 **666.** Madhava became Bhagiratha's beloved son;
-Nityananda gave him his daughter Ganga.
+Nityananda gave him His daughter Ganga.
 
 **667.** Marriage of a disciple with his guru's daughter is forbidden by the shastras,
 but by Nityananda's order it came to pass.
@@ -22087,7 +22087,7 @@ hear what I shall now tell.
 set out for Shantipur, to Advaita.
 
 **686.** Putting musicians and many people into a boat,
-he goes joyfully to receive a mantra.
+He goes joyfully to receive a mantra.
 
 **687.** Hearing the music, Sri Jahnava
 asked Abhirama the reason.
@@ -22095,13 +22095,13 @@ asked Abhirama the reason.
 **688.** Abhirama says: "Virabhadra Mahashaya
 is going to Shantipur, to Advaita's house:
 
-**689.** with the hope in his heart of receiving initiation
+**689.** with the hope in His heart of receiving initiation
 Virabhadra has set out with great pomp."
 
 **690.** Then Sri Jahnava said to Abhirama:
 "Bring Virabhadra back at once.
 
-**691.** Let him go to Shantipur with his mother's permission —
+**691.** Let Him go to Shantipur with His mother's permission —
 tell Vira this, Abhirama."
 
 **692.** Receiving the order, Abhirama hurries;
@@ -22123,9 +22123,9 @@ go to Shantipur with your mother's permission.
 go to Shantipur and receive the mantra from Advaita."
 
 **698.** Hearing this, Prabhu Virabhadra was ashamed:
-"To go without telling my mother is improper."
+"To go without telling My mother is improper."
 
-**699.** Saying this, Virabhadra goes to his mother;
+**699.** Saying this, Virabhadra goes to His mother;
 Srila Jahnava Devi is engaged in worship.
 
 **700.** At that moment there was no cloth on her head,
@@ -22134,32 +22134,32 @@ when her grown son Virabhadra came.
 **701.** With joined hands Jahnava Ishvari offers prayers,
 and with two other hands draws the cloth over her head.
 
-**702.** Seeing her four-armed, Vira prostrated himself fully
+**702.** Seeing her four-armed, Vira prostrated Himself fully
 and bowed down, rolling long on the ground.
 
-**703.** Vira says: "Mother, give me initiation;
+**703.** Vira says: "Mother, give Me initiation;
 I shall no longer go to Shantipur for initiation."
 
-**704.** Hearing this, Jahnava gave him initiation.
+**704.** Hearing this, Jahnava gave Him initiation.
 Thus I have described Prabhu Vira's initiation[^24-90].
 
 **705.** Listen, listen, O hearers, with one mind:
 I shall tell of the appearance of the image of Sri Shyamasundara.
 
 **706.** Virachandra Gosani Prabhu is an avatara of Ishvara;
-all his efforts are for the deliverance of living beings.
+all His efforts are for the deliverance of living beings.
 
-**707.** Giving Hari-nama, he delivers fallen people,
+**707.** Giving Hari-nama, He delivers fallen people,
 making no distinction between Hindu and Muslim.
 
-**708.** Seeing his power, people are amazed.
-One day he went to the gate of the padishah of Gauda.
+**708.** Seeing His power, people are amazed.
+One day He went to the gate of the padishah of Gauda.
 
 **709.** All say: "Huzur, this is a wise pandita,
-he knows great fakir-craft, he is a great fakir."
+He knows great fakir-craft, He is a great fakir."
 
 **710.** The padishah with great courtesy
-joyfully gave him a seat.
+joyfully gave Him a seat.
 
 **711.** The padishah says: "You are a good fakir;
 eat in my house today."
@@ -22167,7 +22167,7 @@ eat in my house today."
 **712.** Hearing this, Prabhu Virabhadra smiles softly:
 "By eating in a yavana's house a Hindu loses his caste.
 
-**713.** But if you give me your own dish,
+**713.** But if you give Me your own dish,
 I shall surely eat it — this I tell you."
 
 **714.** Hearing this, the padishah laughed:
@@ -22197,7 +22197,7 @@ says the Gosani — "with it I shall have a beautiful Deity carved."
 **722.** The padishah prised out the stone and gave it to Virachandra;
 taking the stone, Vira went to Khardaha.
 
-**723.** From that stone he had the image of Shyamasundara carved;
+**723.** From that stone He had the image of Shyamasundara carved;
 seeing it, all people were freed from all their sorrows.
 
 **724.** He held a great festival and invited the Vaishnavas;
@@ -22530,7 +22530,7 @@ his son is Chandraketu, know this for certain.
 his son is Hadai Ojha, named Mukunda.
 
 **834.** His son is Nityananda, who is Balarama;
-his son is Virabhadra, the abode of all virtues.
+His son is Virabhadra, the abode of all virtues.
 
 **835.** Thus I have told the genealogy of Nityananda[^24-103].
 Now hear the genealogy of Sri Advaita.
@@ -26101,9 +26101,9 @@ Nityananda Dasa, tells the *Prema-vilasa*.
 
 [^24-1]: The authenticity of the twenty-fourth vilasa is disputed. The old manuscripts of the *Prema-vilasa* end with the sixteenth vilasa; the edition of Ramnarayan Vidyaratna had eighteen vilasas, the nineteenth and twentieth were added later, and only the edition of Yashodanandan Talukdar has 24½. B. Majumdar (*Sri-Chaitanya-chariter upadan*) regards the twenty-fourth vilasa, like Ishana Nagara's *Advaita-prakasha*, as a late composition. Much of it agrees in content with the *Advaita-prakasha*, and the kulina genealogies at its end, as Majumdar remarks, are found in no other Vaishnava work. Information known only from this vilasa should be used with caution. The translation renders the text of the 1913 edition as it stands.
 [^24-2]: Half of a verse from Rupa Gosvami's *Laghu-bhagavatamrita* (on the prakasha, a manifestation identical with the Lord).
-[^24-3]: The teaching of Sadashiva as a vilasa of Krishna, on a par with Balarama, and below of Mahavishnu-Sadashiva ("Hari-Hara") as the source of Advaita, is characteristic of the *Advaita-prakasha* and differs from the classical account of the CC (Adi 6), where Advaita is an incarnation of Mahavishnu. In Gaudiya Vaishnava theology (cf. *Brahma-samhita* 5.45 and the commentaries of Bhaktisiddhanta Sarasvati) Sadashiva is a form of Vishnu beyond maya, whereas Rudra, the lord of tamo-guna, is his partial manifestation in the material world; hence the words about Sadashiva below should not be taken as identifying Advaita with a mundane deity.
+[^24-3]: The teaching of Sadashiva as a vilasa of Krishna, on a par with Balarama, and below of Mahavishnu-Sadashiva ("Hari-Hara") as the source of Advaita, is characteristic of the *Advaita-prakasha* and differs from the classical account of the CC (Adi 6), where Advaita is an incarnation of Mahavishnu. In Gaudiya Vaishnava theology (cf. *Brahma-samhita* 5.45 and the commentaries of Bhaktisiddhanta Sarasvati) Sadashiva is a form of Vishnu beyond maya, whereas Rudra, the lord of tamo-guna, is His partial manifestation in the material world; hence the words about Sadashiva below should not be taken as identifying Advaita with a mundane deity.
 [^24-4]: "Mahadeva" here is a name of Sadashiva (see 12, 22–25).
-[^24-5]: Both editions read "making a yantra on his own head" — the meaning is unclear. Cf. CC Adi 3: Advaita called Krishna down by worshipping Him with Ganga water and tulasi leaves.
+[^24-5]: Both editions read "making a yantra on His own head" — the meaning is unclear. Cf. CC Adi 3: Advaita called Krishna down by worshipping Him with Ganga water and tulasi leaves.
 [^24-6]: Laur was a principality in the north-west of Srihatta (Sylhet), near the Khasi hills. Raja Divyasimha later became Advaita's disciple under the name Krishnadasa (see below); this account is known from the *Advaita-prakasha* and is not confirmed by the CC or the CB.
 [^24-7]: Narasimha Nadiyal is an ancestor of Advaita's family known from the Bengali kulina chronicles (kulaji). According to Majumdar, by the kulaji Advaita was Narasimha's descendant in the fifth generation, which agrees poorly with the dates of Advaita's life.
 [^24-8]: Lakshmipati is the sannyasi whom tradition names as the guru of Madhavendra Puri. Vijaya Puri is known from the *Advaita-prakasha*; he is not mentioned in the CC or the CB.
@@ -26147,7 +26147,7 @@ Nityananda Dasa, tells the *Prema-vilasa*.
 [^24-46]: The meaning of the line is unclear (the same in both editions); perhaps "never do I let anyone [see me] as a man."
 [^24-47]: The tradition of Jangali and Nandini, Sita's maidservants, is known from the *Advaita-prakasha* and the later tradition of Shantipur; the "ruler of Gauda" is not named.
 [^24-48]: Ishana was Advaita's disciple and servant; later tradition ascribes to him (Ishana Nagara) the *Advaita-prakasha*, with which this vilasa largely agrees.
-[^24-49]: Cf. the CB (Madhya 19): Advaita expounds the *Yoga-vasishtha*, placing knowledge above bhakti, in order to receive punishment instead of honour from Mahaprabhu; Mahaprabhu comes to Shantipur with Nityananda and beats him. As stressed here, this is lila: Advaita does not take the doctrine of knowledge seriously but wishes for the Lord's punishment, being burdened by His respect.
+[^24-49]: Cf. the CB (Madhya 19): Advaita expounds the *Yoga-vasishtha*, placing knowledge above bhakti, in order to receive punishment instead of honour from Mahaprabhu; Mahaprabhu comes to Shantipur with Nityananda and beats Him. As stressed here, this is lila: Advaita does not take the doctrine of knowledge seriously but wishes for the Lord's punishment, being burdened by His respect.
 [^24-50]: On Kamadeva Nagara see vilasa 4. In the index of the "Half-vilasa" (873–875) these four are named as Advaita's rejected disciples.
 [^24-51]: A play on words: baul means "madman" (and a wandering singer), aul "confused, bewildered." Later tradition traces the origin of unorthodox communities (Bauls and others) to Advaita's rejected disciples.
 [^24-52]: On Madhava Acharya, author of the *Sri Krishna-mangala*, see vilasas 19 and 21; the author himself admits the repetition (cf. "Half-vilasa," 876–879).
@@ -26156,10 +26156,10 @@ Nityananda Dasa, tells the *Prema-vilasa*.
 [^24-55]: The 1913 edition: "Upendra, Ranga, Kandida (?), Kirtivasa"; the 1999 edition: "Upendra, Rangada, Kirti, Kirtivasa." The CC (Adi 13) names only Upendra Mishra, Mahaprabhu's grandfather, and his seven sons (Kamsari, Paramananda, Padmanabha, Sarveshvara, Jagannatha, Janardana, Trailokyanatha), which agrees with 446. The names of Vishuddha and Madhu Mishra and the village of Baraganga follow later genealogies.
 [^24-56]: Cf. the *Gaura-ganoddesha-dipika*: Jagannatha Mishra is Nanda and Vasudeva; Shachi is Yashoda and Devaki.
 [^24-57]: According to this vilasa Ratnagarbha Acharya is Shachi's brother and Lokanatha's father. In the CC Ratnagarbha is a fellow countryman of Jagannatha Mishra from Srihatta; in the *Bhakti-ratnakara* Lokanatha Gosvami is the son of Padmanabha Chakravarti of Talagadi. Here apparently another tradition (or another Lokanatha) is meant.
-[^24-58]: Vishvarupa's sannyasa name Shankararanya is also given in the CC (Adi 7; Madhya 9: he left the world at Pandharpur). Vishvarupa's initiation by Ishvara Puri and his companion Lokanatha are known only from this vilasa.
+[^24-58]: Vishvarupa's sannyasa name Shankararanya is also given in the CC (Adi 7; Madhya 9: He left the world at Pandharpur). Vishvarupa's initiation by Ishvara Puri and His companion Lokanatha are known only from this vilasa.
 [^24-59]: Kavi Karnapura's *Chaitanya-chandrodaya-nataka*, act 1; the reading of the last line is restored from the 1999 edition ("pūrvaṁ parivrajita eva tiro babhūva").
 [^24-60]: The six younger brothers of Nityananda are also named in later genealogies; the CB and the CC do not mention them.
-[^24-61]: The sources differ on Nityananda's teacher: later tradition names Lakshmipati Tirtha as his guru; the CB says only that Nityananda wandered and met Madhavendra Puri. Initiation and sannyasa from Ishvara Puri following a dream in which Balarama himself names his mantra are known only from this vilasa (briefly in vilasa 7).
+[^24-61]: The sources differ on Nityananda's teacher: later tradition names Lakshmipati Tirtha as His guru; the CB says only that Nityananda wandered and met Madhavendra Puri. Initiation and sannyasa from Ishvara Puri following a dream in which Balarama Himself names His mantra are known only from this vilasa (briefly in vilasa 7).
 [^24-62]: See vilasa 7 of this book; cf. the index of the "Half-vilasa," 899–921.
 [^24-63]: See CB, Adi 14: Mahaprabhu's journey to East Bengal (to the Padma). The details of the journey to Srihatta, the list of places (Faridpur, Nurpur in Vikramapura, Suvarnagrama, Egarasindur, Betal, Bhitadia) and the story of Lakshminatha Lahiri are known only from this vilasa.
 [^24-64]: See vilasa 8: on the bank of the Padma Mahaprabhu "draws" Narottama, who is not yet born, entrusting His prema for him to the Padma.
@@ -26260,7 +26260,7 @@ Nityananda Dasa, tells the *Prema-vilasa*.
 Glory to Advaitachandra! Glory to the devotees of Gaura!
 
 **2.** Glory to Srinivasa, Narottama and Shyamananda!
-Glory to Virachandra and all his devotees!
+Glory to Virachandra and all His devotees!
 
 **3.** Listen, listen, O hearers, with one mind:
 I shall describe the letters, their meaning, and also an index.
@@ -26595,7 +26595,7 @@ I now show the index of all the chapters.
 ### Vilasa 1
 
 **107.** In the first vilasa Nityananda went to Gauda;
-having come to Gauda, he distributed prema-bhakti.
+having come to Gauda, He distributed prema-bhakti.
 
 **108.** Mahaprabhu asks for news of Gauda:
 Advaita, abandoning bhakti, again expounds mukti.
@@ -26610,19 +26610,19 @@ the darshan of Jagannatha, the meeting with Sarvabhauma.
 the Bhattacharya's anger, his boasting and challenge.[^25-36]
 
 **112.** At the Bhattacharya's words Prabhu becomes glad;
-he writes letters to Advaita and Nityananda.
+He writes letters to Advaita and Nityananda.
 
 **113.** Prabhu's conversation with the Bhattacharya;
 counsel on how to make bhakti firm.
 
 **114.** Thinking of a vessel for prema, to reveal prema in Gauda,
-he summons the Earth, so that she may give the prema entrusted to her.
+He summons the Earth, so that she may give the prema entrusted to her.
 
 **115.** Having received the command, the Earth vanished;
-he told of this to Svarupa and Ramananda.
+He told of this to Svarupa and Ramananda.
 
 **116.** Crying "Nityananda!" Prabhu swoons and weeps;
-by Hari-nama he comes to, and converses with Sarvabhauma.
+by Hari-nama He comes to, and converses with Sarvabhauma.
 
 **117.** Hearing of the obstruction to bhakti, Mahaprabhu says in sorrow:
 "That Advaita should be an opponent cannot be believed."
@@ -26648,7 +26648,7 @@ the ocean, having obtained leave, gave to the Earth.
 **124.** Under the weight of prema the Earth began to sway;
 in fear Jagannatha's pujari came to Prabhu
 
-**125.** and told him of the people's fear;
+**125.** and told Him of the people's fear;
 the Earth is stilled, the people reassured, the pujari dismissed.
 
 **126.** [Prabhu] remembers the Earth, inquires about Chaitanya Dasa,
@@ -26796,7 +26796,7 @@ Ishana goes with him.
 and sees Advaita Prabhu, who had departed three years before.
 
 **172.** Srinivasa's conversation with Advaita:
-he told the reason for the second teaching of knowledge.
+He told the reason for the second teaching of knowledge.
 
 **173.** At the second teaching of knowledge Prabhu's anger arose —
 and from this came the birth of Srinivasa and Narottama.
@@ -26892,16 +26892,16 @@ listeners, hear the index of the seventh vilasa.
 of Lokanatha Pandita — everything is described.
 
 **202.** Vishvarupa studies with Advaita;
-having become a great scholar, he takes sannyasa.
+having become a great scholar, He takes sannyasa.
 
-**203.** In sannyasa his name is Shankararanya Puri;
+**203.** In sannyasa His name is Shankararanya Puri;
 an account of how Vishvarupa attained perfection.
 
 **204.** Of Hadai Pandita; the birth of Nityananda;
 for fourteen years Nityananda lives at home.
 
 **205.** A certain sannyasi came to Hadai's house
-and, asking [for him] as alms, took away Nityananda, the treasury of virtues.
+and, asking [for Him] as alms, took away Nityananda, the treasury of virtues.
 
 **206.** Nitai became his disciple, taking the guise of an avadhuta;
 the name of that sannyasi is Ishvara Puri.
@@ -26950,14 +26950,14 @@ at the ghat of Tartipur[^25-43] Prabhu only crosses the Padma.
 **220.** Prabhu rejoices on seeing the Padmavati;
 Nityananda converses with Prabhu.
 
-**221.** After the conversation Prabhu reveals his mind:
+**221.** After the conversation Prabhu reveals His mind:
 "I wish to stay on the bank of the Padmavati."
 
 **222.** By way of Chaturpura Prabhu goes to Ramakeli;
 the meeting with Rupa and Sanatana.
 
-**223.** From there he came to Kanai Natashala;
-performing sankirtana, he called Narottama.
+**223.** From there He came to Kanai Natashala;
+performing sankirtana, He called Narottama.
 
 **224.** The manifestation of prema, ecstasy, tears pouring down;
 "On the bank of the Padma a devotee named Narottama will be born" —
@@ -26966,10 +26966,10 @@ performing sankirtana, he called Narottama.
 a conversation with Nityananda.
 
 **226.** He wished to hold kirtana at Garerhat and to leave prema [there];
-turning back from Natashala, he came to Garerhat.
+turning back from Natashala, He came to Garerhat.
 
-**227.** Seeing the beauty of the Padmavati, he went to Kudodarapura;
-bathing in the Padma, he began kirtana.
+**227.** Seeing the beauty of the Padmavati, He went to Kudodarapura;
+bathing in the Padma, He began kirtana.
 
 **228.** Nityananda brought the kirtana to a halt;
 together with Nitai, Prabhu gave prema to the Padmavati.
@@ -26977,7 +26977,7 @@ together with Nitai, Prabhu gave prema to the Padmavati.
 **229.** He commanded her to give the prema to Narottama
 and told how to recognize Narottama.
 
-**230.** Having shown grace to the Padma, he did not go to Vrindavana —
+**230.** Having shown grace to the Padma, He did not go to Vrindavana —
 Mahaprabhu returned to Nilachala.
 
 **231.** And in the eighth it is also determined what prema is.
@@ -27057,7 +27057,7 @@ a certain brahmana comes with milk.
 Narottama fell asleep on that very spot.
 
 **255.** In a dream Rupa and Sanatana tell him to drink the milk:
-Gauranga himself brought it.[^25-46]
+Gauranga Himself brought it.[^25-46]
 
 **256.** A conversation; the command to go to Vrindavana
 and to become the disciple of Lokanatha Gosani.
@@ -27237,7 +27237,7 @@ giving him initiation, [Hridaya] names him Duhkhi Krishnadasa.
 **313.** His bhajana, a conversation with the guru;
 the account of Gauridasa Pandita, the installation of Gaura-Nitai.
 
-**314.** Hearing of the installation of their images, Gaura and Nitai —
+**314.** Hearing of the installation of Their images, Gaura and Nitai —
 the two brothers — came to Gauridasa Pandita's house.
 
 **315.** Gauridasa offers bhoga: the two Prabhus and the two images —
@@ -27701,16 +27701,16 @@ Srinivasa married again, taking his daughter.
 Virabhadra Prabhu comes to Vishnupura.
 
 **465.** Acquaintance and conversation with the king;
-Virachandra takes his meal in the Acharya's house.
+Virachandra takes His meal in the Acharya's house.
 
 **466.** Srinivasa's two wives, to Virabhadra Prabhu,
-putting garlands and sandal paste on him, bow down.
+putting garlands and sandal paste on Him, bow down.
 
 **467.** In humility and meekness they stand with joined palms;
 Prabhu names Padmavati Gauranga-priya.
 
 **468.** He gave chewed tambula and the boon of a son;
-taking his leave, Virabhadra goes to Khardaha.
+taking His leave, Virabhadra goes to Khardaha.
 
 **469.** The birth of Srinivasa's son was made known to Virabhadra;
 Virabhadra came to Vishnupura.
@@ -27718,7 +27718,7 @@ Virabhadra came to Vishnupura.
 **470.** Into the ear of Srinivasa's newborn son
 Virachandra Prabhu speaks the Hari-nama.
 
-**471.** Having given Hari-nama, he named him Gati-Govinda.
+**471.** Having given Hari-nama, He named him Gati-Govinda.
 When the boy reached thirteen years,
 
 **472.** to give him the mantra, Srinivasa Prabhu, with earnest entreaty,
@@ -28007,7 +28007,7 @@ In the fourteenth the abhisheka of Gauranga and Vallavikanta was told.
 **565.** Gauranga, Vallavikanta, Sri Krishna,
 Vraja-mohana, Radha-ramana, Radha-kanta — these are the six.
 
-**566.** In the seventeenth only the names of the six deities and their service were mentioned;
+**566.** In the seventeenth only the names of the six deities and Their service were mentioned;
 the guru commanded that the second abhisheka of the six deities be described.
 
 **567.** Here the reason for the second abhisheka is explained.
@@ -28026,13 +28026,13 @@ from there the Ishvari went to Khardaha.
 a divine feeling arose in his heart:
 
 **572.** "Gauranga and Vallavikanta Raya [stand] alone —
-there is no Thakurani at their left; their beauty is not full.
+there is no Thakurani at Their left; Their beauty is not full.
 
 **573.** I shall install further images of Krishna,
 and, seeing the divine couple, I shall float in bliss."
 
 **574.** Thinking this, Narottama went to sleep at night
-and in a dream saw six images with their beloveds.
+and in a dream saw six images with Their beloveds.
 
 **575.** He sees Gauranga and Vallavikanta vanish;
 the command is given to install six new images.
@@ -28074,7 +28074,7 @@ passing through Navadvipa, Khanda, Katwa, Ekachakra,
 and makes preparations to have the deities carved.
 
 **588.** Sending for stone carvers, Narottama
-has six deities made together with their beloveds.
+has six deities made together with Their beloveds.
 
 **589.** The five images of Krishna were excellently made,
 but the image of Gaura could not be made well.
@@ -28083,9 +28083,9 @@ but the image of Gaura could not be made well.
 in a dream, Gauranga's words: "However you try, it will not be made;
 
 **591.** in a newly made image of Gaura the Lord
-will not abide" — so he made known.
+will not abide" — so He made known.
 
-**592.** Before his sannyasa Mahaprabhu himself made his own image,
+**592.** Before His sannyasa Mahaprabhu Himself made His own image,
 and it stands in Vipradasa's rice granary.
 
 **593.** He commands that image to be brought and consecrated;
@@ -28116,7 +28116,7 @@ and sent letters of invitation everywhere.
 the names of the mahantas are listed.
 
 **602.** Narottama has a dream together with the devotees:
-"Mahaprabhu manifests himself in the sankirtana."
+"Mahaprabhu manifests Himself in the sankirtana."
 
 **603.** To perform the abhisheka on Phalguna Purnima
 he obtains the consent of Jahnava and the mahantas.
@@ -28136,8 +28136,8 @@ Narottama bows to the mahantas.
 **608.** Garlands and sandal paste are offered to the mahantas;
 the great sankirtana — Narottama's song.
 
-**609.** In the kirtana Prabhu appears with his companions;
-with his companions Prabhu disappeared.
+**609.** In the kirtana Prabhu appears with His companions;
+with His companions Prabhu disappeared.
 
 **610.** Prabhu's disappearance, lament; by Prabhu's will
 coming to themselves, [all] sprinkle phagu[^25-59] on the deities.
@@ -28406,11 +28406,11 @@ for slighting his guru's prasada, was rejected by Virabhadra.
 **698.** Prabhu Virabhadra goes to Nilachala;
 at Gopivallabhapur, a meeting with Shyamai.
 
-**699.** From there, going to Khardaha, he sets out for Vrindavana
+**699.** From there, going to Khardaha, He sets out for Vrindavana
 by way of Ambika, Shantipur, Khanda, Katwa, Teliya Budhari;
 
-**700.** passing through Kheturi, having seen Vrindavana, he tours Ekachakra;
-by way of Kheturi, Yajigrama, Khanda and Katwa he goes to Khardaha.
+**700.** passing through Kheturi, having seen Vrindavana, He tours Ekachakra;
+by way of Kheturi, Yajigrama, Khanda and Katwa He goes to Khardaha.
 
 **701.** I have set out the index of the nineteenth vilasa;
 listeners, hear the index of the twentieth vilasa.
@@ -28571,7 +28571,7 @@ by the Supreme Person's slap he receives [new] life.
 at one year old she lost her mother and father.
 
 **751.** When Narayani was four years old,
-she received the remnants of Mahaprabhu's meal — his grace.
+she received the remnants of Mahaprabhu's meal — His grace.
 
 **752.** Narayani's marriage is described,
 to the brahmana Vaikuntha of Kumarahatta.
@@ -28597,11 +28597,11 @@ for fear of the yavanas he settled in Vanga, at Chandradvipa.
 **759.** From Chandradvipa Vallabha, Rupa and Sanatana
 came to the village of Ramakeli and built a house there.
 
-**760.** On his way to Vrindavana, Prabhu came to Ramakeli;
-having shown grace to Rupa and Sanatana, he went to Kanai Natashala.
+**760.** On His way to Vrindavana, Prabhu came to Ramakeli;
+having shown grace to Rupa and Sanatana, He went to Kanai Natashala.
 
 **761.** Mahaprabhu went no further toward Vrindavana;
-from there he set out for Nilachala.
+from there He set out for Nilachala.
 
 **762.** At night in his sleep Rupa Gosani was stung by an insect;
 his wife lit a lamp [making a wick] from Rupa's cloth.
@@ -28662,7 +28662,7 @@ listeners, hear the index of the twenty-fourth vilasa.
 **780.** […] Balarama, Sadashiva, the principle of Mahavishnu[^25-63] —
 this I have written, setting it out plainly.
 
-**781.** Sadashiva's austerities, his seeing Krishna face to face;
+**781.** Sadashiva's austerities, His seeing Krishna face to face;
 the dialogue of Krishna and Sadashiva — the account of how Sadashiva became Advaita.
 
 **782.** In Srihatta, in the land of Laur, King Divyasimha;
@@ -28684,16 +28684,16 @@ a conversation with King Divyasimha.
 the name-giving, the first feeding of rice, the beginning of studies.
 
 **788.** He studies and plays together with the prince;
-the prince mocks him, Advaita roars.
+the prince mocks Him, Advaita roars.
 
 **789.** The prince faints, Advaita runs away;
 hearing of it, the king comes and laments; Kuvera comes.
 
-**790.** They searched out the runaway Advaita and brought him back;
+**790.** They searched out the runaway Advaita and brought Him back;
 by Advaita's grace the prince regained consciousness.
 
-**791.** Advaita's sacred thread; he goes to the Kali temple;
-because he does not bow to Kali, Kuvera scolds him harshly.
+**791.** Advaita's sacred thread; He goes to the Kali temple;
+because He does not bow to Kali, Kuvera scolds Him harshly.
 
 **792.** Scolded by Kuvera, Advaita bows to Kali —
 the image split apart, and Kalika vanished.
@@ -28705,16 +28705,16 @@ a conversation takes place between Advaita and Divyasimha.
 installed an image of Vishnu [in place of] Kali, for worship.
 
 **795.** Advaita went to Shantipur;
-his studies under Shantacharya of Phuliya.
+His studies under Shantacharya of Phuliya.
 
 **796.** Literature, poetics, smriti, Veda, Puranas,
 Agamas, philosophy, the Yoga-vasishtha and other [works] by name.
 
-**797.** He brings his mother and father to Shantipur;
-he reads the Bhagavata under Shantacharya.
+**797.** He brings His mother and father to Shantipur;
+He reads the Bhagavata under Shantacharya.
 
-**798.** He obtains the title of Acharya; a wonder during his studies:
-he brings a lotus out of a pond swarming with snakes,
+**798.** He obtains the title of Acharya; a wonder during His studies:
+He brings a lotus out of a pond swarming with snakes,
 
 **799.** and walks on the water as on dry land;
 seeing it, all the people were amazed.
@@ -28729,7 +28729,7 @@ under him Advaita studied the scriptures of bhakti.
 at Kashi, a meeting with Vijaya Puri.
 
 **803.** Going to Vrindavana, Advaita makes the circuit;
-in a dream the Lord appeared to him.
+in a dream the Lord appeared to Him.
 
 **804.** The story of Madanamohana: Advaita obtains Madanamohana;
 abhisheka; Advaita sets off on the circuit.
@@ -28738,7 +28738,7 @@ abhisheka; Advaita sets off on the circuit.
 becoming [little] Gopala, hides beneath flowers.
 
 **806.** Hearing from people that the mlecchas have carried off the image,
-Advaita comes home, does not see the deity, and tears fill his eyes.
+Advaita comes home, does not see the deity, and tears fill His eyes.
 
 **807.** At night the fasting Advaita has a dream;
 the deity is found, joy, the offering of food.
@@ -28749,10 +28749,10 @@ that the deity has been found; the pujari comes to the temple.
 **809.** Madanamohana becomes known by the name Madana-gopala;
 in a dream the deity tells Advaita of Chaube's greatness.
 
-**810.** [The deity] wishes to go to Chaube, and ordered that he be given to Chaube;
+**810.** [The deity] wishes to go to Chaube, and ordered that He be given to Chaube;
 Advaita's sorrow; [the Lord] told of the image painted by Vishakha.[^25-65]
 
-**811.** [The Lord] commands him to take it to Shantipur
+**811.** [The Lord] commands Him to take it to Shantipur
 and perform its abhisheka under the name Madana-gopala.
 
 **812.** Having said this, the Lord vanished.
@@ -28822,7 +28822,7 @@ and studied the Srimad Bhagavata.
 Raghunatha Dasa Gosvami became his disciple.
 
 **834.** Advaita fed Haridasa the shraddha dish[^25-69] —
-great censure of him arose in society.
+great censure of Him arose in society.
 
 **835.** At Advaita's command Haridasa shows his power:
 he took away fire, and dread arose in people's hearts.
@@ -28906,9 +28906,9 @@ the wind blew away her veil.
 manifesting two more arms, she draws the veil over her head.
 
 **862.** Everyone sees her four-armed. After the marriage
-Advaita moves his school from Nadia to Shantipur.
+Advaita moves His school from Nadia to Shantipur.
 
-**863.** Opening a school in Shantipur, he teaches his students;
+**863.** Opening a school in Shantipur, He teaches His students;
 the initiation of Sri [and] Sita by Advaita is described.
 
 **864.** Of Sita Devi five sons were born,
@@ -28921,7 +28921,7 @@ Sita shows Chhota Shyamadasa her four-armed form.
 the greatness of Jangali's austerity; the deliverance of a king — all [is described].
 
 **867.** A dialogue takes place between Ishana and Advaita.
-At Advaita's roar Krishna with his associates to Nadia
+At Advaita's roar Krishna with His associates to Nadia
 
 **868.** comes — this is described; the preaching of the doctrine of bhakti.
 And Mahaprabhu's devotion to Advaita as to a guru;
@@ -28930,12 +28930,12 @@ And Mahaprabhu's devotion to Advaita as to a guru;
 expounds the Yoga-vasishtha.
 
 **870.** Hearing Advaita expound the doctrine of knowledge,
-[Prabhu] goes in anger to Shantipur, taking Nityananda with him.
+[Prabhu] goes in anger to Shantipur, taking Nityananda with Him.
 
-**871.** Having punished Advaita, he showed him grace
-and ordered him to turn the followers of knowledge into followers of bhakti.
+**871.** Having punished Advaita, He showed Him grace
+and ordered Him to turn the followers of knowledge into followers of bhakti.
 
-**872.** Advaita preaches the doctrine of bhakti to all his disciples;
+**872.** Advaita preaches the doctrine of bhakti to all His disciples;
 giving up the doctrine of knowledge, all take up the doctrine of bhakti.
 
 **873.** Agala, Pagala, and also Kamadeva Nagara,
@@ -28980,8 +28980,8 @@ Prabhu comes to Gauda:
 **886.** Panihati, Kumarahatta and Kulina-grama;
 by way of Shantipur Prabhu comes to rest at Kuliya.
 
-**887.** There for seven days he stays in Madhava Acharya's house;
-from there, by way of Nadia, he goes on to Ramakeli.
+**887.** There for seven days He stays in Madhava Acharya's house;
+from there, by way of Nadia, He goes on to Ramakeli.
 
 **888.** The meeting with Rupa and Sanatana, Kanai Natashala;
 from there Prabhu turned back without reaching Vrindavana.
@@ -29022,17 +29022,17 @@ I gave in the seventh vilasa.
 **900.** In the twenty-fourth vilasa I have described in detail
 the tidings of Vishvarupa and Nityananda.
 
-**901.** Vishvarupa's birth, his studies under Advaita;
-his initiation and sannyasa from Ishvara Puri are made known.
+**901.** Vishvarupa's birth, His studies under Advaita;
+His initiation and sannyasa from Ishvara Puri are made known.
 
 **902.** The son of Ratnagarbha Acharya, named Lokanatha —
 Vishvarupa takes him along to the southern lands.
 
-**903.** He took sannyasa; his name is Shankararanya Puri;
-Lokanatha Pandita, his maternal cousin, became his disciple.
+**903.** He took sannyasa; His name is Shankararanya Puri;
+Lokanatha Pandita, His maternal cousin, became His disciple.
 
 **904.** The meeting of Vishvarupa with Ishvara Puri;
-Vishvarupa places his own power in Ishvara Puri,
+Vishvarupa places His own power in Ishvara Puri,
 
 **905.** saying that he should place that power in Nityananda —
 and Vishvarupa vanished.
@@ -29040,8 +29040,8 @@ and Vishvarupa vanished.
 **906.** The account of Hadai Ojha and the story of his sons;
 in household life Nityananda had another name too — Chidananda.[^25-78]
 
-**907.** In household life he was known as Nityananda;
-in sannyasa his name is Nityananda Avadhuta.
+**907.** In household life He was known as Nityananda;
+in sannyasa His name is Nityananda Avadhuta.
 
 **908.** Balarama [tells] Ishvara Puri about Nityananda
 and orders him to give Nityananda initiation and sannyasa.
@@ -29052,7 +29052,7 @@ Ishvara Puri set off for the village of Ekachakra.
 **910.** He became a guest in the house of Hadai Ojha
 and […] took Nityananda-svarupa with him.[^25-79]
 
-**911.** Having given Nityananda initiation, he made him a sannyasi
+**911.** Having given Nityananda initiation, he made Him a sannyasi
 and established Vishvarupa's power in Nityananda.
 
 **912.** Nityananda becomes an avadhuta sannyasi;
@@ -29064,10 +29064,10 @@ Nityananda set out to wander through all the holy places.
 **914.** Madhavendra and Ishvara Puri met;
 Nitai meets Madhavendra and Ishvara Puri.
 
-**915.** Nityananda sees Madhavendra as his guru;
+**915.** Nityananda sees Madhavendra as His guru;
 Madhavendra regards Nityananda as a friend.
 
-**916.** After staying together for some days, they all went their ways;
+**916.** After staying together for some days, They all went Their ways;
 wandering, Nityananda came to Vrindavana.
 
 **917.** A meeting with Ishvara Puri took place;
@@ -29094,13 +29094,13 @@ Naru was first drawn during Prabhu's lila in Bengal.
 **924.** Mahaprabhu comes from Nadia to Bengal;
 on the bank of the Padma, the play of learning and the sankirtana of the Name.
 
-**925.** By the sankirtana on the bank of the Padma he draws Narottama;
-to see his father's birthplace Prabhu sets off for Srihatta.
+**925.** By the sankirtana on the bank of the Padma He draws Narottama;
+to see His father's birthplace Prabhu sets off for Srihatta.
 
-**926.** By way of Faridpur he goes to Vikramapura and Nurpur;
-by way of Suvarnagrama he arrives at Egarasindur.
+**926.** By way of Faridpur He goes to Vikramapura and Nurpur;
+by way of Suvarnagrama He arrives at Egarasindur.
 
-**927.** From there by way of Betal he came to Bhitadiya
+**927.** From there by way of Betal He came to Bhitadiya
 and stayed as a guest in the house of Lakshminatha Lahiri.
 
 **928.** The best of Vaishnavas, the most excellent Lakshminatha Lahiri —
@@ -29128,10 +29128,10 @@ and commentaries on the Gita and the Krama-dipika with [explanation of] the secr
 Mahaprabhu stays some days in his house.
 
 **936.** From there Mahaprabhu went to Srihatta
-and met his grandmother and grandfather.
+and met His grandmother and grandfather.
 
 **937.** In a moment Prabhu finishes copying out the Chandi;[^25-82]
-seeing it, his grandfather is astonished.
+seeing it, His grandfather is astonished.
 
 **938.** His grandmother fed Prabhu sweet jackfruit;
 the grandmother and grandfather have a dream — Prabhu's grace.
@@ -29157,7 +29157,7 @@ telling the dream, he took Nitai to Shaligrama.
 **945.** They see the daughter named Vasudha dead of a snakebite;
 by Nityananda's grace she came back to life.
 
-**946.** According to the rites [Nityananda] took Vasudha as his wife,
+**946.** According to the rites [Nityananda] took Vasudha as His wife,
 and as dowry Nityananda receives Jahnava.
 
 **947.** Nityananda's two marriages are described;
@@ -29172,7 +29172,7 @@ Nitai, content, lives in Khardaha.
 **950.** By Abhirama's obeisances Nityananda's offspring
 perished; at last Ganga and Vira, portions of the Lord, are born.
 
-**951.** At Abhirama's obeisances they do not die;
+**951.** At Abhirama's obeisances They do not die;
 seeing this, Abhirama floats in an ocean of bliss.
 
 **952.** The account of Gangavallabha Madhava Acharya[^25-86]
@@ -29203,28 +29203,28 @@ in the mela of Dasharatha Ghataka they obtain kulina status.
 sets off for Shantipur, taking a boat:
 
 **961.** intending to receive a mantra from Advaita,
-he travels to Shantipur without telling his mother.
+He travels to Shantipur without telling His mother.
 
-**962.** Hearing the music, his mother understood what was afoot
+**962.** Hearing the music, His mother understood what was afoot
 and sent Abhirama to bring Vira back.
 
-**963.** Unable to call him back, [Abhirama] threw his flute[^25-88] —
+**963.** Unable to call Him back, [Abhirama] threw his flute[^25-88] —
 the boat broke apart, and the people climbed out on the bank.
 
 **964.** The conversation of Virabhadra and Abhirama;
 Vira went to Jahnava.
 
 **965.** Seeing Jahnava four-armed, Virachandra
-in great joy took initiation from his mother.
+in great joy took initiation from His mother.
 
 **966.** Vira goes to the Padshah;
-manifesting his power, he obtains a stone.
+manifesting His power, He obtains a stone.
 
-**967.** From it he had an image of Shyamasundara carved
+**967.** From it He had an image of Shyamasundara carved
 and had its abhisheka performed by Achyuta Gosvami.
 
 **968.** At Svamibana, Nanda-dulala; at Vallabhapura,
-Vallabhaji: [they were carved] from the remainder of that stone.[^25-89]
+Vallabhaji: [They were carved] from the remainder of that stone.[^25-89]
 
 **969.** The daughters of Yadunandana, a resident of Jhamatpur,
 Srimati and Narayani, blessed with beauty —
