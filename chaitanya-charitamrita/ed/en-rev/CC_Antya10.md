@@ -1174,14 +1174,14 @@ the Ācārya’s  this  paiḍa (coconut),  various  juicy  cakes
 ei amṛta-guṭikā, maṇḍā, karpūra-kūpī  
 this  amṛta-guṭikā,  maṇḍā,  camphor  vessel
 
-(118) “This is the Ācārya’s *paiḍa*, and various cakes full of juice; this is *amṛta-guṭikā*, *maṇḍā*, and a jar of camphor.
+(118) “These are from the Ācārya: coconut (*paiḍa*), juicy cakes of many kinds, *amṛta-guṭikā* balls, *maṇḍā* and a jar of camphor.[^31]
 
 শ্রীবাস-পণ্ডিতের এই অনেক প্রকার ৷  
-পিঠা, পানা, অমৃতমণ্ডা পদ্ম-চিনি আর ॥ ১১৯ ॥
+পিঠা, পানা, অমৃতমণ্ডা, পদ্ম-চিনি আর ॥ ১১৯ ॥
 
 śrīvāsa-paṇḍitera ei aneka prakāra  
 Śrīvāsa Paṇḍita’s  these  many  kinds  
-piṭhā, pānā, amṛta-maṇḍā padma-cini āra  
+piṭhā, pānā, amṛta-maṇḍā, padma-cini āra  
 cakes,  drinks,  amṛta-maṇḍā  sugar lotuses  and
 
 (119) These many kinds are from Śrīvāsa Paṇḍita: cakes, sweet drinks, *amṛta-maṇḍā* and sugar lotuses (*padma-cini*).
@@ -1251,7 +1251,7 @@ yet  almost fresh  all  of the things  the taste
 ‘vāsi’ ‘visvāda’ nahe sei prabhura prasāda  
 stale  tasteless  not  that  the Lord’s  grace
 
-(125–126) Though the coconuts with their tops cut open, the *amṛta-guṭikās*, the drinks and all the rest were a month old, everything tasted almost fresh. Nothing was stale or tasteless — such was the Lord’s grace.[^31]
+(125–126) Though the coconuts with their tops cut open, the *amṛta-guṭikās*, the drinks and all the rest were a month old, everything tasted almost fresh. Nothing was stale or tasteless — such was the Lord’s grace.[^32]
 
 শত-জনের ভক্ষ্য প্রভু দণ্ডেকে খাইলা !  
 আর কিছু আছে? বলি’ গোবিন্দে পুছিলা ॥ ১২৭ ॥
@@ -1311,7 +1311,7 @@ sometimes  at night  something  he makes  partake
 bhaktera śraddhāra dravya avaśya karena upabhoga  
 of the devotee’s  faith  things  surely  He does  enjoy
 
-(132) Sometimes, at night too, Svarūpa would have Him partake of a little; for the Lord surely enjoys what a devotee gives with faith (*śraddhā*).
+(132) Sometimes, at night too, Svarūpa would have Him partake of a little; for the Lord surely enjoys what a devotee gives with faith (*śraddhā*).[^33]
 
 এইমত মহাপ্রভু ভক্তগণ-সঙ্গে ৷  
 চাতুর্ম্মাস্য গোঙাইলা কৃষ্ণকথা-রঙ্গে ॥ ১৩৩ ॥
@@ -1323,10 +1323,10 @@ Cāturmāsya  He passed  in the joy of talks about Kṛṣṇa
 
 (133) Thus Mahāprabhu passed the Cāturmāsya with His devotees in the joy of talks about Kṛṣṇa.
 
-মধ্যে মধ্যে আচার্য্যাদি করে নিমন্ত্রণ ৷  
+মধ্যে মধ্যে আচার্য্যাদি করেন নিমন্ত্রণ ৷  
 ঘরে ভাত রান্ধে আর বিবিধ ব্যঞ্জন ॥ ১৩৪ ॥
 
-madhye madhye ācāryādi kare nimantraṇa  
+madhye madhye ācāryādi karena nimantraṇa  
 from time to time  the Ācārya and others  make  invitation  
 ghare bhāta rāndhe āra vividha vyañjana  
 at home  rice  they cook  and  various  vegetable dishes
@@ -1351,12 +1351,12 @@ greens  two or four,  and  of śuktā  broth
 nimba-vārtākī, āra bhṛṣṭa-paṭola  
 nimba  eggplant,  and  fried  paṭola
 
-(136) two or four kinds of greens, a broth of *śuktā*, eggplant with *nimba*, and fried *paṭola*;
+(136) two or four kinds of greens, a broth of *śuktā* (bitter greens), eggplant with *nimba*, and fried *paṭola*;
 
-ভৃষ্ট ফুলবড়ী, আর মুদ্গ-ডালি-সূপ ৷  
+ভৃষ্ট ফুলবড়ী, আর মুদ্গ-ডালি সূপ ৷  
 বিবিধ ব্যঞ্জন রান্ধে প্রভুর ‘অনুরূপ’ ॥ ১৩৭ ॥
 
-bhṛṣṭa phula-baḍī, āra mudga-ḍāli-sūpa  
+bhṛṣṭa phula-baḍī, āra mudga-ḍāli sūpa  
 fried  phula-baḍī,  and  mung  dal  soup  
 vividha vyañjana rāndhe prabhura ‘anurūpa’  
 various  dishes  they cook  the Lord’s  to suit
@@ -1371,7 +1371,7 @@ Jagannātha’s  prasāda  they bring  to make  mixed
 kām̐hā ekā yāyena, kām̐hā gaṇera sahita  
 sometimes  alone  He goes,  sometimes  associates  with
 
-(138) They would bring Jagannātha’s prasāda to mix with these. Sometimes the Lord went alone, sometimes with His associates.
+(138) They would also bring Jagannātha’s prasāda to go with these. Sometimes the Lord went alone, sometimes with His associates.[^34]
 
 আচার্য্যরত্ন, আচার্য্যনিধি, নন্দন, রাঘব ৷  
 শ্রীবাস-আদি যত ভক্ত, বিপ্র সব ॥ ১৩৯ ॥
@@ -1383,13 +1383,13 @@ sometimes  alone  He goes,  sometimes  associates  with
 
 (139) Ācāryaratna, Ācāryanidhi, Nandana, Rāghava, Śrīvāsa and all the other devotees who were brāhmaṇas —
 
-এইমত নিমন্ত্রণ করেন যত্ন করি ৷  
+এইমত নিমন্ত্রণ করেন যত্ন করি’ ৷  
 বাসুদেব, গদাধর, গুপ্ত-মুরারি ॥ ১৪০ ॥
 
 কুলীনগ্রামী, খণ্ডবাসী, আর যত জন ৷  
 জগন্নাথের প্রসাদ আনি’ করেন নিমন্ত্রণ ॥ ১৪১ ॥
 
-ei-mata nimantraṇa karena yatna kari  
+ei-mata nimantraṇa karena yatna kari’  
 in this way  invitation  they make  care  taking  
 vāsudeva, gadādhara, gupta-murāri  
 Vāsudeva,  Gadādhara,  Gupta  Murāri  
@@ -1398,7 +1398,7 @@ of Kulīnagrāma,  of Khaṇḍa,  and  as many  people
 jagannāthera prasāda āni’ karena nimantraṇa  
 Jagannātha’s  prasāda  bringing  make  invitation
 
-(140–141) these would invite Him in this way with great care. Vāsudeva, Gadādhara, Murāri Gupta, the people of Kulīnagrāma and of Khaṇḍa, and all the others would invite Him by bringing Jagannātha’s prasāda.
+(140–141) these would invite Him in this way with great care. Vāsudeva, Gadādhara, Murāri Gupta, the people of Kulīnagrāma and of Khaṇḍa, and all the others would invite Him by bringing Jagannātha’s prasāda.[^35]
 
 শিবানন্দ সেনের শুন নিমন্ত্রণাখ্যান ৷  
 শিবানন্দের বড়-পুত্রের ‘চৈতন্যদাস’-নাম ॥ ১৪২ ॥
@@ -1408,7 +1408,7 @@ Jagannātha’s  prasāda  bringing  make  invitation
 śivānandera baḍa-putrera ‘caitanya-dāsa’-nāma  
 Śivānanda’s  eldest  son’s  ‘Caitanya  dāsa’  name
 
-(142) Now hear the story of Śivānanda Sena’s invitation. Śivānanda’s eldest son was named Caitanya dāsa.
+(142) Now hear the story of Śivānanda Sena’s invitation. Śivānanda’s eldest son was named Caitanya dāsa.[^36]
 
 প্রভুরে মিলাইতে তাঁরে সঙ্গেই আনিলা ৷  
 মিলাইলে, প্রভু তাঁর নাম ত’ পুছিলা ॥ ১৪৩ ॥
@@ -1418,7 +1418,7 @@ the Lord  to introduce  him  along  he brought
 milāile, prabhu tām̐ra nāma ta’ puchilā  
 when introduced,  the Lord  his  name  then  asked
 
-(143) He brought him along to introduce him to the Lord, and when he had introduced him, the Lord asked his name.
+(143) He brought the boy along to present him to the Lord, and when he did so, the Lord asked his name.
 
 ‘চৈতন্যদাস’ নাম শুনি’ কহে গৌররায় ৷  
 কি নাম ধরাঞাছ, বুঝন না যায় ॥ ১৪৪ ॥
@@ -1428,7 +1428,7 @@ when introduced,  the Lord  his  name  then  asked
 ki nāma dharāñācha, bujhana nā yāya  
 what  name  you have given,  understanding  not  goes
 
-(144) Hearing the name Caitanya dāsa, Gaurarāya said, “What name have you given him? I cannot make it out.”
+(144) Hearing the name Caitanya dāsa, Gaurarāya said, “What name have you given him? I cannot make it out.”[^37]
 
 সেন কহে, — যে জানিলুঁ, সেই নাম ধরিল ৷  
 এত বলি’ মহাপ্রভুরে নিমন্ত্রণ কৈল ॥ ১৪৫ ॥
@@ -1438,7 +1438,7 @@ Sena  said  what  I knew,  that  name  I gave
 eta bali’ mahāprabhure nimantraṇa kaila  
 thus  saying  Mahāprabhu  invitation  he made
 
-(145) Sena said, “I gave him the name I knew.” Saying this, he invited Mahāprabhu.
+(145) Sena said, “I gave him the name I knew.” With these words he invited Mahāprabhu.
 
 জগন্নাথের বহুমূল্য প্রসাদ আনাইলা ৷  
 ভক্তগণে লঞা প্রভু ভোজনে বসিলা ॥ ১৪৬ ॥
@@ -1468,7 +1468,7 @@ another  day  Caitanya dāsa  made  invitation
 prabhura ‘abhīṣṭa’ bujhi’ ānilā vyañjana  
 the Lord’s  desire  understanding  he brought  dishes
 
-(148) Another day Caitanya dāsa invited Him, and, understanding the Lord’s desire, brought dishes to suit it:
+(148) Another day Caitanya dāsa invited Him, and, understanding the Lord’s desire, brought dishes to suit it:[^38]
 
 দধি, লেম্বু, আদা, আর ফুলবড়া, লবণ ৷  
 সামগ্রী দেখি’ প্রভুর প্রসন্ন হৈল মন ॥ ১৪৯ ॥
@@ -1545,7 +1545,7 @@ at first  was  the fixed sum  cowries  four paṇas
 rāmacandra-purī bhaye ghāṭāilā nimantraṇa  
 Rāmacandra Purī  out of fear  they reduced  invitation
 
-(156) At first the fixed sum had been four *paṇas* of cowries, but out of fear of Rāmacandra Purī they reduced the invitation.
+(156) At first the fixed sum had been four *paṇas* of cowries, but out of fear of Rāmacandra Purī they made the invitations smaller.[^39]
 
 চারিমাস রহি’ গৌড়ের ভক্তে বিদায় দিলা ৷  
 নীলাচলের সঙ্গী ভক্ত সঙ্গেই রহিলা ॥ ১৫৭ ॥
@@ -1565,7 +1565,7 @@ thus  I have told  the Lord’s  invitations to meals
 bhakta-datta vastu yaiche kailā āsvādana  
 by devotees  given  things  how  He did  relishing
 
-(158) Thus I have told of the invitations to the Lord’s meals and how He relished the things His devotees gave.
+(158) Thus I have told of the invitations to the Lord’s meals and how He relished the things His devotees gave.[^40]
 
 তার মধ্যে রাঘবের ঝালি-বিবরণ ৷  
 তার মধ্যে পরিমুণ্ডা-নৃত্য-কথন ॥ ১৫৯ ॥
@@ -1575,7 +1575,7 @@ of that  in the midst  Rāghava’s  jhālis’ account
 tāra madhye pari-muṇḍā-nṛtya-kathana  
 of that  in the midst  in a circle  dance  telling
 
-(159) Within it is the account of Rāghava’s *jhālis*, and within it too the telling of the dance in a circle (*parimuṇḍā-nṛtya*).
+(159) Within it is the account of Rāghava’s *jhālis*, and within it too the telling of the dance in a circle (*parimuṇḍā-nṛtya*).[^41]
 
 শ্রদ্ধা করি’ শুনে যেই চৈতন্যের কথা ৷  
 চৈতন্যচরণে প্রেম পাইবে সর্ব্বথা ॥ ১৬০ ॥
@@ -1585,7 +1585,7 @@ with faith  having  hears  whoever  Caitanya’s  narrations
 caitanyacaraṇe prema pāibe sarvathā  
 at Caitanya’s feet  love  will attain  surely
 
-(160) Whoever hears the narrations of Śrī Caitanya with faith will surely attain love for Śrī Caitanya’s feet.
+(160) Whoever hears the narrations of Śrī Caitanya with faith will surely attain love for His feet.
 
 শুনিতে অমৃত-সম জুড়ায় কর্ণ-মন ৷  
 সেই ভাগ্যবান্, যেই করে আস্বাদন ॥ ১৬১ ॥
@@ -1605,7 +1605,7 @@ he  is fortunate,  who  does  relishing
 caitanya-caritāmṛta kahe kṛṣṇadāsa  
 “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(162) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+(162) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^42]
 
 ---
 
@@ -1669,4 +1669,26 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^30]: *Ādivasyā*, “old residents”: those who have long lived with the Lord (*Amṛta-pravāha-bhāṣya*: they have no cause for sorrow, for the delicacies were brought by those who have just come from Gauḍa). The *Anubhāṣya* heads the verse “The Lord asks why the devotees are sorrowful” and records other senses given to the word: “unfortunate,” “foolish,” “fickle-minded,” “overeager” (*ā-dekhlā*, *kāṅlā*).
 
-[^31]: *Mukutā nārikela*, coconuts with the top cut open (*Amṛta-pravāha-bhāṣya*).
+[^31]: *Amṛta-pravāha-bhāṣya*: *paiḍa* (an Utkala word) — coconut. *Anubhāṣya*: *pūpī* — a cake; *kūpī* — a vessel for keeping camphor.
+
+[^32]: *Mukutā nārikela*, coconuts with the top cut open (*Amṛta-pravāha-bhāṣya*).
+
+[^33]: The Gauḍīya Maṭha edition reads *karāya upayoga* (“has Him partake”): Svarūpa serves the Lord; another reading is *karena upayoga* (“He partakes”). Edition heading: the Lord accepts what a devotee offers with faith.
+
+[^34]: Edition heading: the Lord partakes of the offerings together with prasāda.
+
+[^35]: Gadādhara Paṇḍita is named separately in verse 153. *Anubhāṣya* (on verse 141): the people of Kulīnagrāma are Satyarāja Khān, Rāmānanda Vasu and others; the people of Khaṇḍa are Mukunda dāsa, Narahari dāsa, Raghunandana and others. *Anubhāṣya* (on verse 156): in the homes of brāhmaṇas by birth the Lord accepted the food they had cooked; at the invitation of others He accepted mahā-prasāda worth two or four *paṇas* of cowries.
+
+[^36]: *Anubhāṣya*: Caitanya dāsa wrote a Sanskrit commentary on the *Kṛṣṇa-karṇāmṛta*; some say he is also the author of the mahākāvya *Caitanya-caritāmṛta*.
+
+[^37]: Edition heading: hearing a name that speaks of service to Him, the Lord hides Himself and pretends not to understand.
+
+[^38]: Edition heading: understanding the Lord’s wish, Caitanya dāsa, son of Śivānanda, serves Him of his own accord with foods that rekindle a weakened digestive fire.
+
+[^39]: Edition heading: out of fear of Rāmacandra Purī the meal is halved. On Rāmacandra Purī, see Antya 8.
+
+[^40]: The words of this verse (*bhakta-datta … āsvādana*) give the chapter its title in the colophon of the edition.
+
+[^41]: See verse 102 and the note to verse 68.
+
+[^42]: The same colophon verse as Antya 2.172; translation as there.

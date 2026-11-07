@@ -612,7 +612,8 @@ tr: Saying this, Mahāprabhu sat down to eat, and Govinda offered Him everything
 ## 118
 w: the Ācārya’s  this  paiḍa (coconut),  various  juicy  cakes
 w: this  amṛta-guṭikā,  maṇḍā,  camphor  vessel
-tr: “This is the Ācārya’s *paiḍa*, and various cakes full of juice; this is *amṛta-guṭikā*, *maṇḍā*, and a jar of camphor.
+tr: “These are from the Ācārya: coconut (*paiḍa*), juicy cakes of many kinds, *amṛta-guṭikā* balls, *maṇḍā* and a jar of camphor.
+fn: *Amṛta-pravāha-bhāṣya*: *paiḍa* (an Utkala word) — coconut. *Anubhāṣya*: *pūpī* — a cake; *kūpī* — a vessel for keeping camphor.
 
 ## 119
 w: Śrīvāsa Paṇḍita’s  these  many  kinds
@@ -681,6 +682,7 @@ tr: The rest He kept in store for a whole year, and at mealtimes Svarūpa would 
 w: sometimes  at night  something  he makes  partake
 w: of the devotee’s  faith  things  surely  He does  enjoy
 tr: Sometimes, at night too, Svarūpa would have Him partake of a little; for the Lord surely enjoys what a devotee gives with faith (*śraddhā*).
+fn: The Gauḍīya Maṭha edition reads *karāya upayoga* (“has Him partake”): Svarūpa serves the Lord; another reading is *karena upayoga* (“He partakes”). Edition heading: the Lord accepts what a devotee offers with faith.
 
 ## 133
 w: thus  Mahāprabhu  with the devotees
@@ -700,7 +702,7 @@ tr: hot peppery dishes and sweet-and-sour ones, ginger, salt, lime, milk, yogurt
 ## 136
 w: greens  two or four,  and  of śuktā  broth
 w: nimba  eggplant,  and  fried  paṭola
-tr: two or four kinds of greens, a broth of *śuktā*, eggplant with *nimba*, and fried *paṭola*;
+tr: two or four kinds of greens, a broth of *śuktā* (bitter greens), eggplant with *nimba*, and fried *paṭola*;
 
 ## 137
 w: fried  phula-baḍī,  and  mung  dal  soup
@@ -710,7 +712,8 @@ tr: fried *phula-baḍī* and mung dal soup — they cooked various dishes to su
 ## 138
 w: Jagannātha’s  prasāda  they bring  to make  mixed
 w: sometimes  alone  He goes,  sometimes  associates  with
-tr: They would bring Jagannātha’s prasāda to mix with these. Sometimes the Lord went alone, sometimes with His associates.
+tr: They would also bring Jagannātha’s prasāda to go with these. Sometimes the Lord went alone, sometimes with His associates.
+fn: Edition heading: the Lord partakes of the offerings together with prasāda.
 
 ## 139
 w: Ācāryaratna,  Ācāryanidhi,  Nandana,  Rāghava
@@ -723,26 +726,29 @@ w: Vāsudeva,  Gadādhara,  Gupta  Murāri
 w: of Kulīnagrāma,  of Khaṇḍa,  and  as many  people
 w: Jagannātha’s  prasāda  bringing  make  invitation
 tr: these would invite Him in this way with great care. Vāsudeva, Gadādhara, Murāri Gupta, the people of Kulīnagrāma and of Khaṇḍa, and all the others would invite Him by bringing Jagannātha’s prasāda.
+fn: Gadādhara Paṇḍita is named separately in verse 153. *Anubhāṣya* (on verse 141): the people of Kulīnagrāma are Satyarāja Khān, Rāmānanda Vasu and others; the people of Khaṇḍa are Mukunda dāsa, Narahari dāsa, Raghunandana and others. *Anubhāṣya* (on verse 156): in the homes of brāhmaṇas by birth the Lord accepted the food they had cooked; at the invitation of others He accepted mahā-prasāda worth two or four *paṇas* of cowries.
 
 ## 142
 w: Śivānanda  Sena’s  hear  the story of the invitation
 w: Śivānanda’s  eldest  son’s  ‘Caitanya  dāsa’  name
 tr: Now hear the story of Śivānanda Sena’s invitation. Śivānanda’s eldest son was named Caitanya dāsa.
+fn: *Anubhāṣya*: Caitanya dāsa wrote a Sanskrit commentary on the *Kṛṣṇa-karṇāmṛta*; some say he is also the author of the mahākāvya *Caitanya-caritāmṛta*.
 
 ## 143
 w: the Lord  to introduce  him  along  he brought
 w: when introduced,  the Lord  his  name  then  asked
-tr: He brought him along to introduce him to the Lord, and when he had introduced him, the Lord asked his name.
+tr: He brought the boy along to present him to the Lord, and when he did so, the Lord asked his name.
 
 ## 144
 w: ‘Caitanya dāsa’  the name  hearing  says  Gaurarāya
 w: what  name  you have given,  understanding  not  goes
 tr: Hearing the name Caitanya dāsa, Gaurarāya said, “What name have you given him? I cannot make it out.”
+fn: Edition heading: hearing a name that speaks of service to Him, the Lord hides Himself and pretends not to understand.
 
 ## 145
 w: Sena  said  what  I knew,  that  name  I gave
 w: thus  saying  Mahāprabhu  invitation  he made
-tr: Sena said, “I gave him the name I knew.” Saying this, he invited Mahāprabhu.
+tr: Sena said, “I gave him the name I knew.” With these words he invited Mahāprabhu.
 
 ## 146
 w: Jagannātha’s  costly  prasāda  he had brought
@@ -758,6 +764,7 @@ tr: Out of regard for Śivānanda the Lord ate, but His mind was not pleased by 
 w: another  day  Caitanya dāsa  made  invitation
 w: the Lord’s  desire  understanding  he brought  dishes
 tr: Another day Caitanya dāsa invited Him, and, understanding the Lord’s desire, brought dishes to suit it:
+fn: Edition heading: understanding the Lord’s wish, Caitanya dāsa, son of Śivānanda, serves Him of his own accord with foods that rekindle a weakened digestive fire.
 
 ## 149
 w: yogurt,  lime,  ginger,  and  phula-baḍā,  salt
@@ -794,7 +801,8 @@ tr: Gopīnātha Ācārya, Jagadānanda, Kāśīśvara, Bhagavān, Rāmabhadra Ā
 ## 156
 w: at first  was  the fixed sum  cowries  four paṇas
 w: Rāmacandra Purī  out of fear  they reduced  invitation
-tr: At first the fixed sum had been four *paṇas* of cowries, but out of fear of Rāmacandra Purī they reduced the invitation.
+tr: At first the fixed sum had been four *paṇas* of cowries, but out of fear of Rāmacandra Purī they made the invitations smaller.
+fn: Edition heading: out of fear of Rāmacandra Purī the meal is halved. On Rāmacandra Purī, see Antya 8.
 
 ## 157
 w: four  months  staying,  of Gauḍa  to the devotees  farewell  He gave
@@ -805,16 +813,18 @@ tr: After they had stayed four months, He bade farewell to the devotees of Gau�
 w: thus  I have told  the Lord’s  invitations to meals
 w: by devotees  given  things  how  He did  relishing
 tr: Thus I have told of the invitations to the Lord’s meals and how He relished the things His devotees gave.
+fn: The words of this verse (*bhakta-datta … āsvādana*) give the chapter its title in the colophon of the edition.
 
 ## 159
 w: of that  in the midst  Rāghava’s  jhālis’ account
 w: of that  in the midst  in a circle  dance  telling
 tr: Within it is the account of Rāghava’s *jhālis*, and within it too the telling of the dance in a circle (*parimuṇḍā-nṛtya*).
+fn: See verse 102 and the note to verse 68.
 
 ## 160
 w: with faith  having  hears  whoever  Caitanya’s  narrations
 w: at Caitanya’s feet  love  will attain  surely
-tr: Whoever hears the narrations of Śrī Caitanya with faith will surely attain love for Śrī Caitanya’s feet.
+tr: Whoever hears the narrations of Śrī Caitanya with faith will surely attain love for His feet.
 
 ## 161
 w: to hear  nectar  like  soothes  ears and mind
@@ -825,3 +835,4 @@ tr: To hear them is like nectar; they soothe the ears and the mind. Fortunate is
 w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
 w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+fn: The same colophon verse as Antya 2.172; translation as there.
