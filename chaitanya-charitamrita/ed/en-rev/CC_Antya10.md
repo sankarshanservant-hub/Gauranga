@@ -864,7 +864,7 @@ again and  again  Govinda  says  to one side  to move
 prabhu kahe, — aṅga āmi nāri cālāite  
 the Lord  said  the body  I  cannot  move
 
-(87) Again and again Govinda asked Him to move aside, but the Lord said, “I cannot move My body.”
+(87) Again and again Govinda asked Him to move aside, but the Lord answered, “I cannot move.”
 
 গোবিন্দ কহে, — করিতে চাহি পাদ-সম্বাহন ৷  
 প্রভু কহে, — কর বা না কর, যেই তোমার মন ॥ ৮৮ ॥
@@ -894,7 +894,7 @@ of the feet  massage  he did,  waist and back  he pressed
 madhura-mardane prabhura pariśrama gela  
 by the gentle  rubbing  the Lord’s  weariness  went
 
-(90) He massaged His feet and pressed His waist and back, and by that gentle rubbing the Lord’s weariness went away.
+(90) Govinda massaged His feet and pressed His waist and back, and under that gentle rubbing the Lord’s weariness went away.
 
 সুখে নিদ্রা হৈল প্রভুর, গোবিন্দ চাপে অঙ্গ ৷  
 দণ্ড-দুই বই প্রভুর হৈলা নিদ্রা-ভঙ্গ ॥ ৯১ ॥
@@ -1154,7 +1154,7 @@ the Lord  said  the old residents,  sorrow  why  feel
 kebā ki diyāche, tāhā ānaha ekhāne  
 who  what  has given,  that  bring  here
 
-(116) The Lord said, “Those who have long lived with Me — why should they feel sorrow? Bring here whatever anyone has given.”[^30]
+(116) The Lord said, “Those who have long lived with Me — why should they feel sorrow? Bring it all here, whatever anyone has given.”[^30]
 
 এত বলি’ মহাপ্রভু বসিলা ভোজনে ৷  
 নাম ধরি’ গোবিন্দ করে নিবেদনে ॥ ১১৭ ॥
@@ -1565,7 +1565,7 @@ thus  I have told  the Lord’s  invitations to meals
 bhakta-datta vastu yaiche kailā āsvādana  
 by devotees  given  things  how  He did  relishing
 
-(158) Thus I have told of the invitations to the Lord’s meals and how He relished the things His devotees gave.[^40]
+(158) Thus I have told of the Lord’s invitations to meals and of how He relished what His devotees offered.[^40]
 
 তার মধ্যে রাঘবের ঝালি-বিবরণ ৷  
 তার মধ্যে পরিমুণ্ডা-নৃত্য-কথন ॥ ১৫৯ ॥
@@ -1575,7 +1575,7 @@ of that  in the midst  Rāghava’s  jhālis’ account
 tāra madhye pari-muṇḍā-nṛtya-kathana  
 of that  in the midst  in a circle  dance  telling
 
-(159) Within it is the account of Rāghava’s *jhālis*, and within it too the telling of the dance in a circle (*parimuṇḍā-nṛtya*).[^41]
+(159) Within it I have told of Rāghava’s *jhālis*, and within it too of the dance in a circle (*parimuṇḍā-nṛtya*).[^41]
 
 শ্রদ্ধা করি’ শুনে যেই চৈতন্যের কথা ৷  
 চৈতন্যচরণে প্রেম পাইবে সর্ব্বথা ॥ ১৬০ ॥
