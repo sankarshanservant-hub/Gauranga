@@ -1096,7 +1096,7 @@ with this longing speaks Devakinandana Dasa.
 [^02-37]: In the *Sri Chaitanya-chandramrita* (`../chaitanya-chandramrita/`); GGD 163.
 [^02-38]: According to GGD 51 Jagadananda is a manifestation of Satyabhama; "Sarasvati" — so also in Jiva (Part 1, v. 38).
 [^02-39]: GGD 91 (Angada); Part 1, v. 76.
-[^02-40]: According to Majumdar this couplet is not in the old manuscripts: the names Kalanidhi and Sudhanidhi (brothers of Ramananda Raya) occur only in the CC (Madhya 10), and the couplet was apparently added from it. Pradyumna Mishra — CC Antya 5; Bhavananda Raya, Ramananda's father (GGD 122); Gopinatha is Gopinatha Pattanayaka, Ramananda's brother (CC Antya 9).
+[^02-40]: According to Majumdar this couplet is not in the old manuscripts: the names Kalanidhi and Sudhanidhi (brothers of Ramananda Raya) occur only in the CC (Adi 10.133), and the couplet was apparently added from it. Pradyumna Mishra — CC Antya 5; Bhavananda Raya, Ramananda's father (GGD 122); Gopinatha is Gopinatha Pattanayaka, Ramananda's brother (CC Antya 9).
 [^02-41]: CC Madhya 8; GGD 120–124.
 [^02-42]: I.e. in Vakreshvara both Krishna and Gaura are manifest. GGD 71–73.
 [^02-43]: See Part 1, vv. 81–82 and 111 and notes.
