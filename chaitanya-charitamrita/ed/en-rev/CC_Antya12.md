@@ -873,7 +873,7 @@ the Lord’s order  taking  came  to Nadīyā  town
 jagannāthera vastra-prasāda kailā nivedana  
 of Jagannātha  the cloth  prasāda  offered  presentation
 
-(87) He went and bowed at Āi’s feet and presented her with Jagannātha’s cloth and prasāda.
+(87) He went and paid homage at Āi’s feet and presented her with Jagannātha’s cloth and prasāda.
 
 প্রভুর নামে মাতারে দণ্ডবৎ কৈলা ৷  
 প্রভুর বিনতি-স্তুতি মাতারে কহিলা ॥ ৮৮ ॥
@@ -1193,7 +1193,7 @@ so  saying  the room  from  the oil pitcher  bringing
 prabhura āge āṅgināte phelilā bhāṅgiyā  
 the Lord’s  before  in the courtyard  threw  breaking
 
-(119) So saying, he brought the pitcher of oil out of the room and smashed it in the courtyard before the Lord.
+(119) With these words he fetched the pitcher of oil from the room and smashed it in the courtyard before the Lord.
 
 তৈল ভাঙ্গি’ সেই পথে নিজ-ঘর গিয়া ৷  
 শুইয়া রহিলা ঘরে কপাট খিলিয়া ॥ ১২০ ॥
@@ -1243,7 +1243,7 @@ midday duties  having done  the Lord  came  to eat
 pāda prakṣālana kari’ vasilā āsane  
 feet  washing  doing  sat  on the seat
 
-(124) Having finished His midday duties, the Lord came to eat. He washed His feet and sat down on His seat.[^33]
+(124) Having finished His midday duties, the Lord came to eat. He washed His feet and took His seat.[^33]
 
 সঘৃত শাল্যন্ন কলাপাতে স্তূপ কৈলা ৷  
 কলার ডোঙ্গা ভরি’ ব্যঞ্জন চৌদিকে ধরিলা ॥ ১২৫ ॥
@@ -1393,7 +1393,7 @@ then  the Lord  speaks  making  humble  respect
 daśa-guṇa khāoyāilā ebe kara samādhāna  
 tenfold  you have fed Me  now  make  an end
 
-(139) Then the Lord said humbly and respectfully, “You have fed Me ten times as much as usual; now please stop.”[^35]
+(139) At last the Lord said humbly and respectfully, “You have fed Me ten times as much as usual; now please stop.”[^35]
 
 তবে মহাপ্রভু উঠি’ কৈলা আচমন ৷  
 পণ্ডিত আনিল, মুখবাস, মাল্য, চন্দন ॥ ১৪০ ॥
@@ -1453,7 +1453,7 @@ so  saying  Mahāprabhu  made  departure
 govindere paṇḍita kichu kahena vacana  
 to Govinda  the Paṇḍita  some  speaks  words
 
-(145) With these words Mahāprabhu left, and the Paṇḍita said to Govinda:
+(145) Saying this, Mahāprabhu left, and the Paṇḍita turned to Govinda:
 
 “তুমি শীঘ্র যাহ করিতে পাদসম্বাহনে ৷  
 কহিহ, — ‘পণ্ডিত এবে বসিল ভোজনে’ ॥ ১৪৬ ॥
@@ -1503,7 +1503,7 @@ see  Jagadānanda  prasāda  takes  or  not  takes
 śīghra āsi’ samācāra kahibe āmāya  
 quickly  coming  the news  you will tell  to Me
 
-(150) “See whether Jagadānanda is taking *prasāda* or not, and come quickly and tell Me the news.”
+(150) “See whether Jagadānanda is taking prasāda or not, and come quickly and tell Me the news.”
 
 গোবিন্দ আসি’ দেখি’ কহিল পণ্ডিতের ভোজন ৷  
 তবে মহাপ্রভু করিলা স্বচ্ছন্দে শয়ন ॥ ১৫১ ॥

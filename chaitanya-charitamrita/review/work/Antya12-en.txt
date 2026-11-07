@@ -457,7 +457,7 @@ tr: The year before, Jagadānanda had gone at the Lord’s bidding to the town o
 ## 87
 w: Āi’s  feet  going  did  worship
 w: of Jagannātha  the cloth  prasāda  offered  presentation
-tr: He went and bowed at Āi’s feet and presented her with Jagannātha’s cloth and prasāda.
+tr: He went and paid homage at Āi’s feet and presented her with Jagannātha’s cloth and prasāda.
 
 ## 88
 w: the Lord’s  in the name  to the mother  obeisance  he offered
@@ -629,7 +629,7 @@ fn: Heading in the edition: the Paṇḍita, who loves the Lord, is angry with H
 ## 119
 w: so  saying  the room  from  the oil pitcher  bringing
 w: the Lord’s  before  in the courtyard  threw  breaking
-tr: So saying, he brought the pitcher of oil out of the room and smashed it in the courtyard before the Lord.
+tr: With these words he fetched the pitcher of oil from the room and smashed it in the courtyard before the Lord.
 
 ## 120
 w: the oil  breaking  by that  road  his own house  going
@@ -655,7 +655,7 @@ tr: So saying, the Lord left, and the Paṇḍita got up, bathed and cooked vari
 ## 124
 w: midday duties  having done  the Lord  came  to eat
 w: feet  washing  doing  sat  on the seat
-tr: Having finished His midday duties, the Lord came to eat. He washed His feet and sat down on His seat.
+tr: Having finished His midday duties, the Lord came to eat. He washed His feet and took His seat.
 fn: The Gauḍīya Maṭha edition reads *vasilā āsane*, “sat down on the seat”; another reading, *dilena āsane*, has Jagadānanda wash His feet and seat Him.
 
 ## 125
@@ -732,7 +732,7 @@ tr: The Lord could say nothing and ate on, afraid that if He did not, Jagadānan
 ## 139
 w: then  the Lord  speaks  making  humble  respect
 w: tenfold  you have fed Me  now  make  an end
-tr: Then the Lord said humbly and respectfully, “You have fed Me ten times as much as usual; now please stop.”
+tr: At last the Lord said humbly and respectfully, “You have fed Me ten times as much as usual; now please stop.”
 fn: *Anubhāṣya*: *samādhāna* — completion, conclusion, end.
 
 ## 140
@@ -764,7 +764,7 @@ tr: The Lord said, “Govinda, you stay right here. When the Paṇḍita has eat
 ## 145
 w: so  saying  Mahāprabhu  made  departure
 w: to Govinda  the Paṇḍita  some  speaks  words
-tr: With these words Mahāprabhu left, and the Paṇḍita said to Govinda:
+tr: Saying this, Mahāprabhu left, and the Paṇḍita turned to Govinda:
 
 ## 146
 w: you  quickly  go  to do  foot-massage
@@ -789,7 +789,7 @@ tr: He himself ate what remained of the Lord’s meal. Then the Lord sent Govind
 ## 150
 w: see  Jagadānanda  prasāda  takes  or  not  takes
 w: quickly  coming  the news  you will tell  to Me
-tr: “See whether Jagadānanda is taking *prasāda* or not, and come quickly and tell Me the news.”
+tr: “See whether Jagadānanda is taking prasāda or not, and come quickly and tell Me the news.”
 
 ## 151
 w: Govinda  coming  seeing  told  of the Paṇḍita  the eating
