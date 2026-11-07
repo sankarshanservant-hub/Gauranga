@@ -98,7 +98,7 @@ fn: Heading in the edition: the past of Rāmacandra Purī, rejected by his guru;
 ## 17
 w: Purī  Gosāñi  makes  of Kṛṣṇa’s  name  chanting
 w: Mathurā  not  I have attained  saying  makes  weeping
-tr: Purī Gosāñi was chanting the name of Kṛṣṇa, and weeping, “I have not attained Mathurā!”
+tr: Purī Gosāñi was chanting the name of Kṛṣṇa and weeping: “I have not attained Mathurā!”
 fn: Heading in the edition: Śrī Mādhavendra Purī chants of Kṛṣṇa in the transcendental rasa of separation (*vipralambha*).
 
 ## 18
@@ -121,7 +121,7 @@ fn: *Anubhāṣya*: Mādhavendra Purī was suffering in separation from Kṛṣ�
 ## 21
 w: ‘Kṛṣṇa’s mercy’  not  I have attained  not  I have attained  ‘Mathurā’
 w: in my own  grief  I am dying  this one  to give  came  burning pain
-tr: “I have not attained Kṛṣṇa’s mercy, I have not attained Mathurā. I am leaving this world in my own grief, and this one has come to add burning pain!
+tr: “I have not attained Kṛṣṇa’s mercy, I have not attained Mathurā. I am leaving this world in my own grief, and now this one has come to add to my burning pain!
 
 ## 22
 w: to me  face  not  you shall show  you  go  wherever
@@ -131,7 +131,7 @@ tr: Never show me your face again; go wherever you like! If I leave this world w
 ## 23
 w: Kṛṣṇa  not  I have attained  I am dying  in my own  grief
 w: to me  ‘Brahman’  teaches  this  wretched  fool
-tr: I am leaving this world in my own grief, not having attained Kṛṣṇa, and this wretched fool teaches me about Brahman!”
+tr: I am leaving this world in my own grief, not having attained Kṛṣṇa, and now this wretched fool would teach me about Brahman!”
 
 ## 24
 w: this  that  Śrī  Mādhavendrapāda  disregard  made
@@ -142,7 +142,7 @@ fn: Heading in the edition: from the offence of disrespect for the guru arises t
 ## 25
 w: dry  Brahman  knower  there is not  with Kṛṣṇa  ‘relationship’
 w: of all  people  fault-finding  makes  in fault-finding  stubbornly fixed
-tr: A dry knower of Brahman, he had no relationship with Kṛṣṇa. He found fault with everyone and clung stubbornly to fault-finding.
+tr: A dry knower of Brahman, he had no relationship with Kṛṣṇa. He found fault with everyone and stubbornly persisted in it.
 fn: *Anubhāṣya*: *nirbandha* — a stubborn attachment to blaming others. Impersonalists, weak in the knowledge of one’s relationship with the Lord (*sambandha-jñāna*), cannot accept a relationship with Kṛṣṇa and blame the devotees and their service; a soul falls into such ignorance when he offends the feet of the guru or of a devotee.
 
 ## 26
@@ -188,7 +188,7 @@ fn: The same verse as Madhya 4.197; translated as there. Here it is spoken by M�
 ## 33
 w: in this  verse  love for Kṛṣṇa  makes  teaching
 w: of Kṛṣṇa  in separation  of the devotee  bhāva  special
-tr: This verse teaches love for Kṛṣṇa: the special feeling (*bhāva-viśeṣa*) of a devotee in separation from Kṛṣṇa.
+tr: This verse teaches love for Kṛṣṇa — the special feeling (*bhāva-viśeṣa*) a devotee knows in separation from Him.
 fn: *Anubhāṣya*: *bhāva-viśeṣa* — the manifestation of the feeling of separation (*vipralambha*). Among the *prākṛta-sahajiyās*, practitioners commit all kinds of excesses in the name of *sambhoga* (union) and so obstruct the realisation of the true nature of separation.
 
 ## 34
@@ -234,7 +234,7 @@ tr: Rāmacandra Purī inquired into everything about the Lord: where He stayed, 
 ## 41
 w: the Lord’s  all  qualities  to touch  could not
 w: faults  seeking  he goes about  anywhere  fault  not  found
-tr: He could not touch any of the Lord’s virtues. He went about seeking faults, but found no fault anywhere.
+tr: He could not grasp a single one of the Lord’s virtues. He went about seeking faults, but found none anywhere.
 
 ## 42
 w: a sannyāsī  being  makes  of sweets  eating
@@ -412,7 +412,7 @@ fn: *Bhāsa* — “a semblance, a shadow” (*Amṛta-pravāha-bhāṣya* to 14
 ## 74
 w: who  how  in behaviour  who  how  eats
 w: this  inquiry  he  makes  always
-tr: How each person behaves and how each one eats — he is always inquiring into this.
+tr: He is always inquiring into how each person behaves and how each one eats.
 
 ## 75
 w: in the scriptures  which  two  duties  have made  rejection
@@ -441,7 +441,7 @@ fn: The source follows the heading in the edition: “a maxim of Nyāya” (*ny�
 ## 79
 w: where  virtues  a hundred  are  those  not  makes  acceptance
 w: virtues  among  by deceit  makes  of faults  imputation
-tr: Where there are a hundred virtues, he does not accept them; among the virtues he deceitfully imputes faults.
+tr: Where there are a hundred virtues he accepts none of them; instead he deceitfully imputes faults to those very virtues.
 
 ## 80
 w: his  nature  this  to tell  not  is fitting
@@ -517,7 +517,7 @@ fn: Heading in the edition: sometimes He shows Rāmacandra Purī worldly honour,
 ## 93
 w: divine  conduct  of the Lord  of the intellect  beyond the reach
 w: when  whatever  He does  that  all  enchanting
-tr: The Lord’s divine conduct is beyond the reach of the intellect. Whatever He does at any time is all enchanting.
+tr: The Lord’s divine conduct is beyond the reach of the intellect. Whatever He does, at whatever time, is wholly enchanting.
 fn: Heading in the edition: all that the inconceivable Īśvara does is eternal, beneficial and beautiful.
 
 ## 94
@@ -544,7 +544,7 @@ fn: Heading in the edition: when, for disrespect towards the guru, the guru disr
 ## 98
 w: although  as a guru  regarding him  the Lord  his  fault  not  took
 w: of it  the fruit  by means of  the people  teaching  gave
-tr: Although the Lord, regarding him as a guru, did not take offence at his faults, through their fruit He taught the people.
+tr: Regarding him as a guru, the Lord did not hold his faults against him; yet through the fruit they bore He taught the people.
 fn: *Anubhāṣya*: through the conduct of the offender Rāmacandra the Lord teaches the world.
 
 ## 99

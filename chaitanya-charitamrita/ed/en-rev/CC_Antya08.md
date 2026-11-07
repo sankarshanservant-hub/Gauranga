@@ -176,7 +176,7 @@ Purī  Gosāñi  makes  of Kṛṣṇa’s  name  chanting
 mathurā nā pāinu bali’ karena krandana  
 Mathurā  not  I have attained  saying  makes  weeping
 
-(17) Purī Gosāñi was chanting the name of Kṛṣṇa, and weeping, “I have not attained Mathurā!”[^8]
+(17) Purī Gosāñi was chanting the name of Kṛṣṇa and weeping: “I have not attained Mathurā!”[^8]
 
 রামচন্দ্রপুরী তবে উপদেশে তাঁরে ৷  
 শিষ্য হঞা গুরুকে কহে, ভয় নাহি করে ॥ ১৮ ॥
@@ -216,7 +216,7 @@ away  away  most sinful one  saying  rebuke  made
 āpana-duḥkhe marom̐, — ei dite āila jvālā  
 in my own  grief  I am dying  this one  to give  came  burning pain
 
-(21) “I have not attained Kṛṣṇa’s mercy, I have not attained Mathurā. I am leaving this world in my own grief, and this one has come to add burning pain!
+(21) “I have not attained Kṛṣṇa’s mercy, I have not attained Mathurā. I am leaving this world in my own grief, and now this one has come to add to my burning pain!
 
 মোরে মুখ না দেখাবি তুই, যাও যথি-তথি ৷  
 তোরে দেখি’ মৈলে, মোর হবে অসদ্গতি ॥ ২২ ॥
@@ -236,7 +236,7 @@ Kṛṣṇa  not  I have attained  I am dying  in my own  grief
 more ‘brahma’ upadeśe ei chāra mūrkhe  
 to me  ‘Brahman’  teaches  this  wretched  fool
 
-(23) I am leaving this world in my own grief, not having attained Kṛṣṇa, and this wretched fool teaches me about Brahman!”
+(23) I am leaving this world in my own grief, not having attained Kṛṣṇa, and now this wretched fool would teach me about Brahman!”
 
 এই যে শ্রীমাধবেন্দ্রপাদ উপেক্ষা করিল ৷  
 সেই অপরাধে ইঁহার ‘বাসনা’ জন্মিল ॥ ২৪ ॥
@@ -256,7 +256,7 @@ dry  Brahman  knower  there is not  with Kṛṣṇa  ‘relationship’
 sarva-lokera nindā kare, nindāte nirbandha  
 of all  people  fault-finding  makes  in fault-finding  stubbornly fixed
 
-(25) A dry knower of Brahman, he had no relationship with Kṛṣṇa. He found fault with everyone and clung stubbornly to fault-finding.[^12]
+(25) A dry knower of Brahman, he had no relationship with Kṛṣṇa. He found fault with everyone and stubbornly persisted in it.[^12]
 
 ঈশ্বরপুরী করেন শ্রীপাদ-সেবন ৷  
 স্বহস্তে করেন মলমূত্রাদি মার্জ্জন ॥ ২৬ ॥
@@ -342,7 +342,7 @@ in this  verse  love for Kṛṣṇa  makes  teaching
 kṛṣṇera virahe, bhaktera bhāva-viśeṣa  
 of Kṛṣṇa  in separation  of the devotee  bhāva  special
 
-(33) This verse teaches love for Kṛṣṇa: the special feeling (*bhāva-viśeṣa*) of a devotee in separation from Kṛṣṇa.[^16]
+(33) This verse teaches love for Kṛṣṇa — the special feeling (*bhāva-viśeṣa*) a devotee knows in separation from Him.[^16]
 
 পৃথিবীতে রোপণ করি’ গেলা প্রেমাঙ্কুর ৷  
 সেই প্রেমাঙ্কুরের বৃক্ষ — চৈতন্যঠাকুর ॥ ৩৪ ॥
@@ -422,7 +422,7 @@ the Lord’s  all  qualities  to touch  could not
 chidra cāhi’ bule, kām̐hā chidra nā pāila  
 faults  seeking  he goes about  anywhere  fault  not  found
 
-(41) He could not touch any of the Lord’s virtues. He went about seeking faults, but found no fault anywhere.
+(41) He could not grasp a single one of the Lord’s virtues. He went about seeking faults, but found none anywhere.
 
 সন্ন্যাসী হঞা করে মিষ্টান্ন ভক্ষণ ৷  
 এই ভোগে হয় কৈছে ইন্দ্রিয়-বারণ ? ॥ ৪২ ॥
@@ -763,7 +763,7 @@ who  how  in behaviour  who  how  eats
 ei anusandhāna tem̐ho karaya sadāya  
 this  inquiry  he  makes  always
 
-(74) How each person behaves and how each one eats — he is always inquiring into this.
+(74) He is always inquiring into how each person behaves and how each one eats.
 
 শাস্ত্রে যেই দুই ধর্ম্ম কৈরাছে বর্জ্জন ৷  
 সেই কর্ম্ম নিরন্তর ইঁহার করণ ॥ ৭৫ ॥
@@ -814,7 +814,7 @@ where  virtues  a hundred  are  those  not  makes  acceptance
 guṇa-madhye chale kare doṣa-āropaṇa  
 virtues  among  by deceit  makes  of faults  imputation
 
-(79) Where there are a hundred virtues, he does not accept them; among the virtues he deceitfully imputes faults.
+(79) Where there are a hundred virtues he accepts none of them; instead he deceitfully imputes faults to those very virtues.
 
 ইঁহার স্বভাব ইঁহা কহিতে না যুয়ায় ৷  
 তথাপি কহিয়ে কিছু মর্ম্ম-দুঃখ পায় ॥ ৮০ ॥
@@ -954,7 +954,7 @@ divine  conduct  of the Lord  of the intellect  beyond the reach
 yabe yei karena, sei saba — manohara  
 when  whatever  He does  that  all  enchanting
 
-(93) The Lord’s divine conduct is beyond the reach of the intellect. Whatever He does at any time is all enchanting.[^41]
+(93) The Lord’s divine conduct is beyond the reach of the intellect. Whatever He does, at whatever time, is wholly enchanting.[^41]
 
 এইমত রামচন্দ্রপুরী নীলাচলে ৷  
 দিন কত রহি’ গেলা ‘তীর্থ’ করিবারে ॥ ৯৪ ॥
@@ -1004,7 +1004,7 @@ although  as a guru  regarding him  the Lord  his  fault  not  took
 tāra phala-dvārā loke śikṣā karāila  
 of it  the fruit  by means of  the people  teaching  gave
 
-(98) Although the Lord, regarding him as a guru, did not take offence at his faults, through their fruit He taught the people.[^43]
+(98) Regarding him as a guru, the Lord did not hold his faults against him; yet through the fruit they bore He taught the people.[^43]
 
 চৈতন্যচরিত্র — যেন অমৃতের পূর ৷  
 শুনিতে শ্রবণে মনে লাগয়ে মধুর ॥ ৯৯ ॥
