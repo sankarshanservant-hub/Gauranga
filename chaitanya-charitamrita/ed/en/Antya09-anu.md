@@ -171,3 +171,69 @@ We learn from this that every *sādhaka* who has taken exclusive shelter of the 
 > Subheading: Hearing this, the Lord rejoices —
 
 *Kṛpā-chadma-bandha* — a train of events arranged from above that serves as a pretext for His mercy.
+
+## 59
+
+> Subheading: Kāśī Miśra arrives; the Lord tells him that He will leave for Ālālanātha —
+
+## 61
+
+> Subheading: A complaint against the descendants of Bhavānanda Rāya —
+
+## 64
+
+> Subheading: The Lord declares that He has no taste for talk of worldly affairs —
+
+## 67
+
+> Subheading: Kāśī Miśra reassures and glorifies the Lord —
+
+## 68–69
+
+> Subheading: To ask Viṣṇu for fruits to gratify one's own material senses, and not out of a desire to please Viṣṇu, is foolishness and mere trade —
+
+See Śrīmad-Bhāgavatam 7.10.4.
+
+## 68
+
+*Vyavahāra* — a livelihood or material enjoyments. Worldly people (*viṣayīs*), each wanting his own worldly object, with minds full of craving for fruits and enjoyment, seek the help of Viṣṇu or of the Vaiṣṇavas. In the book *Saptaśatī*, for people with just such minds devoid of *bhakti*, the fulfillment of various practical desires is described as the fruit of worshiping the Devī. All such selfish endeavors are only the efforts of fools who lack the eye of knowledge. Even when they set out to worship Īśvara purely, worldly people are driven by their own material interest: *dharma*, *artha*, *kāma* and *mokṣa*. They hope for “*mukti*” attained through knowledge of Brahman, for the enjoyments of heaven and the like, and for practical freedom from the dualities (*advandva*), and so they turn away from pure service to Kṛṣṇa and the *kārṣṇas* (His own).
+
+## 69
+
+Nowadays mantra-merchants and worldly people who live off the garb of religion have taken up a pretense of preaching the holy name. They must maintain wife and children, fill their own bellies, and procure clothes and ornaments for wife and children. They live in Śrī Vṛndāvana and Navadvīpa, sell books to feed and clothe themselves and maintain their families, recite the *śāstras*, perform as *kathakas* and lecturers, serve the Śrī Vigraha, give initiation, beg alms, cure their relatives' illnesses, take the *bhek* (the renunciant's garb), worship the poor, work for social improvement, and so on. Spreading many kinds of nets of deceit, they cheat foolish people who do not know the truth about *bhakti*, acquire money and the like, and so worship only worldly things. But they cannot understand that the treasure of *prema* for You, which even Brahmā and others find hard to attain, comes only as the fruit of pure service to You, causeless and free from deceit.
+
+## 70
+
+> Subheading: Pure devotees who own nothing and desire only to please the Lord —
+
+## 73
+
+> Subheading: Gopīnātha, Rāmānanda's younger brother, is no trader seeking his own gain —
+
+## 74
+
+> Subheading: Seeing that Gopīnātha, who is wholly surrendered to the Lord, is about to be executed, his well-wishers beg the Lord for mercy —
+
+## 75
+
+> Subheading: The definition of a pure devotee —
+
+## 76
+
+> Subheading: The conduct of a pure devotee —
+
+## 77
+
+See Madhya 6.261.
+
+## 78
+
+> Subheading: Kāśī Miśra begs the Lord to stay in Nīlācala —
+
+## 79
+
+> Subheading: Only by the Lord's mercy will Gopīnātha be protected in the future as well —
+
+## 80
+
+> Subheading: Pratāparudra goes to the house of his guru Miśra —
