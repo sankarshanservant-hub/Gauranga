@@ -836,7 +836,7 @@ running  goes  the Lord,  the woman  is  a little  away
 ‘strī-gāna’ bali’ govinda prabhure kailā kole  
 a woman’s  song  saying  Govinda  the Lord  took  in his arms
 
-(83) The Lord was running on, and the woman was only a little way off, when Govinda caught the Lord in his arms, crying, “It is a woman singing!”
+(83) The Lord was running on, and the woman was only a little way off, when Govinda caught Him in his arms, crying, “It is a woman singing!”
 
 স্ত্রী-নাম শুনি’ প্রভুর বাহ্য হইলা ৷  
 পুনরপি সেই পথে বাহুড়ি’ চলিলা ॥ ৮৪ ॥
@@ -1086,7 +1086,7 @@ with great  satisfaction  the Lord  does  eating
 prabhura avaśiṣṭa-pātra bhaṭṭera bhakṣaṇa  
 the Lord’s  remnants  plate  the Bhaṭṭa’s  eating
 
-(108) With great satisfaction the Lord would eat, and the Bhaṭṭa would eat the remnants on the Lord’s plate.
+(108) With great satisfaction the Lord would eat, and the Bhaṭṭa would take the remnants left on His plate.
 
 রামদাস যদি প্রথম প্রভুরে মিলিলা ৷  
 মহাপ্রভু অধিক তাঁরে কৃপা না করিলা ॥ ১০৯ ॥
@@ -1226,7 +1226,7 @@ this  saying  the Lord  him  embrace  gave
 prabhura kṛpāte kṛṣṇa-preme matta hailā  
 the Lord’s  by the mercy  for Kṛṣṇa  with love  intoxicated  became
 
-(122) Saying this, the Lord embraced him, and by the Lord’s mercy he became intoxicated with love for Kṛṣṇa.
+(122) Saying this, the Lord embraced him, and by His mercy Raghunātha became intoxicated with love for Kṛṣṇa.
 
 চৌদ্দ-হাত জগন্নাথের তুলসীর মালা ৷  
 ছুটা-পান-বিড়া মহোৎসবে পাঞাছিলা ॥ ১২৩ ॥
