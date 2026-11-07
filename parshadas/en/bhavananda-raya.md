@@ -18,9 +18,9 @@ Bhavananda at their first meeting:
 Pattanayaka, Kalanidhi, Sudhanidhi and Vaninatha Nayaka. These five sons of yours are dear to Me, and between Ramananda
 and Me there is a difference of body alone.’” (CC, Adi 10.132–134)[^1] <!-- F1 F2 F27 Q1 F10 F12 Q2 -->
 
-The Bengali verse says it in the plainest words: “You are Pandu.” This is no tale of rebirth in the worldly sense: the
+The Lord said it plainly: “You are Pandu.” This is no tale of rebirth in the worldly sense: the
 Lord Himself revealed the eternal nature of His associate. He who in the pastimes of Krishna was Pandu, the father of
-the five Pandavas, in the pastimes of Gaura became Raya Bhavananda and came with his sons to serve the Lord. Kaviraja
+the five Pandavas, in the pastimes of Gaura appeared as Raya Bhavananda and came with his sons to serve the Lord. Kaviraja
 describes this meeting in detail in the Madhya-lila, and there the Lord names his wife too as Kunti. On this word of the
 Lord rests the “Gaura-ganoddesha-dipika” as well. It has no verse of its own on Bhavananda: he is mentioned only where
 Karnapura discusses the nature of Ramananda and disagrees with those who see Lalita in him:
@@ -32,15 +32,18 @@ Prithapati is “the husband of Pritha,” that is, of Kunti: it is Pandu. If th
 Pandava; thus the Lord's word to the father became for Karnapura the key to the nature of the son (more on this in the
 article on Ramananda Raya). <!-- F15 F16 Q11 -->
 
+Srila Bhaktisiddhanta Sarasvati understands these words in the same way. In his “Anubhashya” on the verse about the
+branches of the tree he says briefly of Bhavananda: the father of Ramananda Raya, he lived by Brahmagiri, or
+Alalanatha, was by birth of the shaukra-karanas, and in the pastimes of Krishna is known as King Pandu. <!-- F53 -->
+
 ## Family and Village
-Bhavananda belonged to the karanas, an Oriya community of officials similar to the kayasthas of Bengal; his family
-itself is called “shaukra-karana.” Oriya society counts the karanas among the shudras, and Srila Bhaktisiddhanta
+Bhavananda belonged to the karanas, an Oriya community of officials similar to the kayasthas of Bengal; Srila Bhaktisiddhanta
+names his family more precisely as “shaukra-karana.” Oriya society counts the karanas among the shudras, and Srila Bhaktisiddhanta
 Sarasvati says so plainly. But a Vaishnava stands above every varna: not for nothing did the Lord make Bhavananda's son
 Ramananda, born in this community, a teacher of sannyasis and panditas. <!-- F3 -->
 
-Bhavananda lived in Orissa, by the ancient holy place of Alalanatha, or Brahmagiri, six kroshas — about twelve miles —
-from Puri[^2]. More precisely, his house stood in the village of Bentpur, not far from Brahmagiri-Alalanatha, and he was
-a landholder there. His descendants live in Bentpur to this day and bear the family title “Chaudhuri Pattanayaka.” When
+Bhavananda lived in Orissa, by the ancient holy place of Alalanatha, or Brahmagiri, six kroshas west of Puri[^2]. More
+precisely, his house stood in the village of Bentpur, about a mile from Alalanatha, and he was a landholder there. His descendants live in Bentpur to this day and bear the family title “Chaudhuri Pattanayaka.” When
 Srila Bhaktisiddhanta Sarasvati visited Alalanatha in the year 1337 of the Bengali era (about 1930), the local people
 told him that Ramananda Raya had been born in this house in Bentpur and that the Lord used to come to Brahmagiri every
 year; more on this tradition will be found in the article on Ramananda Raya. <!-- F4 F5 F6 -->
@@ -190,16 +193,19 @@ been raised onto the changa (CC, Antya 9.61–63):
 “I am a mendicant sannyasi who lives in solitude. They come and give Me pain by telling Me their own pains.” (CC,
 Antya 9.64) <!-- F36 -->
 
-The Lord speaks these words in the role of a sannyasi, for whom it is not fitting to hear of worldly matters; they
+And at once the Lord asked: today Jagannatha has saved Gopinatha, but who will save him tomorrow, if he does not return
+the king's money (CC, Antya 9.65)? The Lord speaks these words in the role of a sannyasi, for whom it is not fitting to hear of worldly matters; they
 teach detachment, but they do not denounce Bhavananda's family. Kashi Mishra long urged Him to stay: “Please remain here
 in Jagannatha Puri. Why go to Alalanatha? No one will trouble You any more with talk of worldly matters” (CC, Antya
 9.78). And at noon, when King Prataparudra came as usual to Kashi Mishra's house, Mishra told him that the Lord meant to
 leave Puri and go to Alalanatha (CC, Antya 9.80–85). <!-- F37 F38 -->
 
-The king grew sad and at once resolved to forgive Gopinatha the whole debt. Kashi Mishra objected that the Lord would be
-displeased by this: He had not asked for it. But the king replied:
+The king grew sad and at once resolved to forgive Gopinatha the whole debt. Kashi Mishra answered: it is not the remission
+of the debt that the Lord desires — it is their suffering that He cannot bear (CC, Antya 9.97). And when the king
+resolved to remit the debt all the same, Mishra warned him that the Lord would be displeased (CC, Antya 9.101). But the
+king replied: <!-- F52 -->
 
-“I will remit the debt in any case — but do not tell Him that; let Him know that they are naturally dear to me.
+“I will remit the debt — but do not tell Him that; let Him know that they are naturally dear to me.
 Bhavananda Raya is worthy of my reverence, and his sons are naturally dear to me.” (CC, Antya 9.102–103) <!-- F39 Q6 -->
 
 He remitted the debt, doubled Gopinatha's salary, restored him to his former post and put a silk cloth on him (CC,
@@ -211,8 +217,7 @@ they eat, drink, plunder and give away — and I do not call them to account.”
 
 This is the speech not of a judge about grasping officials, but of a sovereign about his own kin. The king went on:
 Ramananda he himself had made governor of Rajamahendri; he had not known that his son meant to destroy Gopinatha, for he
-regards all the sons of Bhavananda Raya as his own family, and for this love is ready to forgive them any debt (CC,
-Antya 9.122–126). So the king's love for Bhavananda's family became known to all. <!-- F40 Q7 -->
+regards all the sons of Bhavananda Raya as his own family — they are dear to him as it is (CC, Antya 9.122–126). So the king's love for Bhavananda's family became known to all. <!-- F40 Q7 -->
 
 Kaviraja stresses that the Lord did not wish Gopinatha's debt to be forgiven, his salary doubled and his post restored;
 He had only been asked to save Gopinatha from death — and that alone bore such fruit. The Lord's intentions are
@@ -223,6 +228,13 @@ Antya 9.150)
 
 The Lord punished no one: the execution was the scheme of an angry prince and had been cancelled even before Kashi
 Mishra came, and the whole affair ended not in punishment but in forgiveness of the debt and honours. <!-- F43 -->
+
+Why, then, did the Lord not intervene Himself? Srila Bhaktisiddhanta Sarasvati explains: worldly well-being is only a
+secondary mercy of the Lord; and had Gaurasundara, who appeared in the guise of a renounced devotee, set about helping
+worldly people with their affairs, imitation of Him would have degraded the ideal of renounced Vaishnavas — therefore a
+detached, impartial renunciant never takes up worldly business. And the king's remitting the debt for the Lord's sake
+would have meant, he says, that the Lord had in effect accepted the king's money (“Anubhashya,” Antya 9.117, 9.148).
+<!-- F54 -->
 
 ## Bhavananda's Gratitude
 When Kashi Mishra had conveyed the king's words to the Lord, Bhavananda Raya came to Mahaprabhu. Together with his five
@@ -248,8 +260,9 @@ bestows, and he prayed for more:
 “Ramananda Raya and Vaninatha You have made free from the worldly; that mercy, which would make me so, I do not have.
 Give me pure mercy, O Lord, and take the worldly away from me.” (CC, Antya 9.138–139)
 
-This is the meaning of the whole story: the chief fruit of remembering the Lord is love for Him, while worldly
-prosperity is a by-product, for everything worldly is impermanent. <!-- Q9 I1 -->
+This is the meaning of the whole story. As Srila Bhaktivinoda Thakura explains, the chief fruit of remembering the
+Lord's feet is love for Him, while life, honour and wealth preserved are only a shadow of that fruit, for everything
+worldly is by its very nature unstable (“Amrita-pravaha-bhashya,” Antya 9.137). <!-- Q9 I1 -->
 
 The Lord answered Gopinatha in words that embraced the whole of Bhavananda's family:
 
@@ -257,10 +270,17 @@ The Lord answered Gopinatha in words that embraced the whole of Bhavananda's fam
 servants. But keep one order of Mine: spend nothing of the king's capital. Whatever profit comes after the king's
 capital is paid — spend that on various religious and worldly duties.” (CC, Antya 9.141–143)
 
-And He forbade them to spend money on wrongdoing, for that ruins both this life and the next (CC, Antya 9.144). On
-returning home, all the family of Bhavananda Raya praised the Lord's extraordinary mercy, and people marvelled at the
-love He had shown this family — for when He had been asked for help, He had said that He could do nothing (CC, Antya
-9.145–148). <!-- F45 Q10 -->
+And He forbade them to spend money on wrongdoing, for that ruins both this life and the next (CC, Antya 9.144). Srila
+Bhaktisiddhanta explains these words: one who remembers that he is the Lord's eternal servant is harmed neither by
+outward renunciation nor by the greatest worldly affairs; one who serves Krishna is a great sannyasi even at home.
+Trouble comes only when a person forgets this and begins to enjoy for himself (“Anubhashya,” Antya 9.141–144).
+<!-- F54 -->
+
+People were amazed at the Lord's mercy and could not understand His conduct: for when He had been asked for help, He
+had said that He could do nothing (CC, Antya 9.147–148). Kaviraja himself calls this story the Lord's “kripa-vivarta”
+in the house of the Raya, and says that in it His love for His devotees was revealed (CC, Antya 9.145). Srila
+Bhaktivinoda Thakura explains the word: mercy in the guise of worldly good is not yet true mercy; only to the worldly
+mind does one thing appear as another, and this is called “vivarta.” <!-- F45 Q10 F54 -->
 
 ## Days of Remembrance
 Neither the day, nor the year, nor the place of Bhavananda Raya's appearance and departure is named by the biographies
@@ -285,8 +305,8 @@ should remember the Lord: not for worldly gains, but for love of His feet. <!-- 
 
 [^1]: One of the biographies, quoting the verse Adi 10.133, prints “Nayaka Gopinatha” instead of “Nayaka Vaninatha”; the
     verse number it gives is correct.
-[^2]: The biographies place Alalanatha “to the west” of Puri; in fact Brahmagiri lies on the coast, to the south
-    (south-west) of Puri.
+[^2]: A krosha is about two miles, so six kroshas are about twelve miles. Brahmagiri lies to this day some twenty
+    kilometres west of Puri.
 [^3]: Only one biography speaks of this kinship. The “Charitamrita” says only that Madhavi-devi was the sister of Shikhi
     Mahiti (Adi 10.137), and is silent about any link between their family and Bhavananda.
 [^4]: Only this late poem calls Bhavananda “lord of Vidyapura” who handed the rule to his son. According to the
