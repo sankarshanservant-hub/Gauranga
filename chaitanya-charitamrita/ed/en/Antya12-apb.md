@@ -23,3 +23,21 @@ O devotees, always hear this *Caitanya-caritāmṛta*, sing it, and joyfully med
 ## 60
 
 To say to a *sannyāsī*, “Mukunda's mother has come,” is nothing but the boldness born of long familiarity (*pūrva-praśraya-prāgalbhya*). The boldness of familiarity (*praśraya-prāgalbhya*) never knows pure courtesy (*śuddha-vaidagdhī*), that is, the pure art of speech.
+
+## 102
+
+*Ekamātrā* — sixteen *sers*.
+
+## 103
+
+*Gāgarī* — a pitcher (*kalasī*).
+
+## 114
+
+*Dārī sannyāsī* — a *sannyāsī* who lives with a wife.
+
+## 154
+
+*Prema-vivarta.* The first meaning: the *vivarta* of love, that is, behavior in which the acts of love appear to be anger. The second meaning: what Jagadānanda wrote about Mahāprabhu's life in his own book, the *Prema-vivarta*.
+
+*Thus ends the twelfth chapter of the “Amṛta-pravāha-bhāṣya.”*
