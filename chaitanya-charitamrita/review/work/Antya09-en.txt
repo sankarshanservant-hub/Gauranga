@@ -75,7 +75,7 @@ tr: At the sight of the Lord all the people were swept away in love. In this way
 ## 13
 w: one day  people  coming  to the Lord  reported
 w: Gopīnātha  the Baḍa  Jānā  onto the cāṅga  has raised
-tr: One day people came and reported to the Lord, “The Baḍa Jānā, the eldest prince, has raised Gopīnātha onto the *cāṅga*, the platform of execution.
+tr: One day people came and reported to the Lord, “The Baḍa Jānā, the eldest prince, has raised Gopīnātha onto the *cāṅga*, the execution platform.
 fn: *Amṛta-pravāha-bhāṣya*: the Baḍa Jānā is the eldest son of the mahārāja of Orissa, the *yuvarāja* (heir to the throne); the cāṅga is a platform used for a particular kind of execution: naked swords were set beneath it, and the condemned man was thrown down onto them. Heading in the edition: the Lord is told that Pratāparudra’s son means to put Gopīnātha, the son of Bhavānanda, to death.
 
 ## 14
@@ -159,12 +159,12 @@ tr: ‘This man will not pay the money; he goes about making excuses. Give the o
 ## 29
 w: the king  said  whatever  is good  do  that  going
 w: by which  means  the money  I get  use  that  means
-tr: The king said, ‘Go and do whatever is best. By whatever means I may get the money, use that means.’
+tr: The king said, ‘Go and do whatever is best. Use any means by which I may get the money.’
 
 ## 30
 w: the prince  coming  him  on the cāṅga  raised
 w: onto the swords  to throw  below  swords  he set
-tr: The prince came and had him raised onto the cāṅga, and beneath it he set swords, to throw him down onto them.”
+tr: The prince came and had him raised onto the *cāṅga*, and beneath it he set swords, to throw him down onto them.”
 
 ## 31
 w: hearing  the Lord  said  somewhat  showing  affectionate anger
@@ -274,7 +274,7 @@ tr: Go there and settle everything, so that the money comes in and his life is s
 ## 51
 w: then  Haricandana  coming  to the Jānā  told
 w: the cāṅga  from  Gopīnātha  quickly  brought down
-tr: Then Haricandana came and told the prince, and Gopīnātha was quickly brought down from the cāṅga.
+tr: Then Haricandana came and told the prince, and Gopīnātha was quickly brought down from the *cāṅga*.
 
 ## 52
 w: the money  give  the king  demands  the means  he asked
@@ -332,7 +332,7 @@ tr: The family of Bhavānanda Rāya is in the king’s service, and in various w
 ## 62
 w: the king’s  what  fault  the king  his own money  wants
 w: to give  they will not  the money  the punishment  to Me  they report
-tr: What fault is the king’s? The king wants his own money. They will not give the money, and then they report their punishment to Me.
+tr: What fault is there in the king? He wants only his own money. They will not pay it, and then they come to Me complaining of their punishment.
 
 ## 63
 w: the king  Gopīnātha  when  on the cāṅga  raised
@@ -342,7 +342,7 @@ tr: When the king had Gopīnātha raised onto the *cāṅga*, people came four t
 ## 64
 w: a mendicant  sannyāsī  I  living in solitude
 w: to Me  pain  they give  their own troubles  telling  coming
-tr: I am a mendicant *sannyāsī* who lives in solitude, yet they come and pain Me by telling Me their own troubles.
+tr: I am a mendicant sannyāsī who lives in solitude, yet they come and pain Me by telling Me their own troubles.
 
 ## 65
 w: today  him  Jagannātha  made  protection
@@ -362,7 +362,7 @@ tr: Clasping the Lord’s feet, Kāśī Miśra said, “Why do You let this matt
 ## 68
 w: a detached  sannyāsī  Your  with whom  relationship
 w: worldly dealings  for the sake of  You  worships  he  blind to knowledge
-tr: You are a detached *sannyāsī* — what connection have You with anyone? One who worships You for worldly ends is blind to true knowledge.
+tr: You are a detached sannyāsī — what connection have You with anyone? One who worships You for worldly ends is blind to true knowledge.
 fn: *Anubhāṣya*: *vyavahāra* — livelihood or worldly enjoyment; one who seeks help from Viṣṇu or the Vaiṣṇavas for his own worldly ends lacks the eyes of knowledge. Heading in the edition (to 68–69): to ask Viṣṇu for fruits to gratify one’s own senses, and not to please Viṣṇu, is folly and mere trade.
 
 ## 69
