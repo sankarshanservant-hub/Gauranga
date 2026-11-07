@@ -3314,3 +3314,75 @@ RU → EN. В общий глоссарий не внесено (решает к
 - কৃষ্ণোচ্ছিষ্ট / কৃষ্ণভুক্তামৃত → остатки Кришны / нектар, вкушённый Кришной / Kṛṣṇa's remnants / nectar enjoyed by Kṛṣṇa.
 - Места и имена: Канчанапалли / Kāñcanapallī; Джханкара / Jhā̃karā; Тайланга / Tailaṅga; Шанкарананда Сарасвати / Śaṅkarānanda Sarasvatī; Говардхана дас / Govardhana dāsa.
 - Книги: “Става-вали” (“Чайтанья-става-калпаврикша”, шлока 11) / *Stavāvalī* (*Caitanya-stava-kalpavṛkṣa*, verse 11); “Шри Чайтанья-чандродая-натака”, акт 10, шлоки 3–4 / *Śrī Caitanya-candrodaya-nāṭaka*, act 10, verses 3–4; “Бхакти-сандарбха”, анучхеда 283 (в издании «83») / *Bhakti-sandarbha*, *anuccheda* 283 (edition: “83”); “Хари-бхакти-виласа”, виласа 20 (конец) / *Hari-bhakti-vilāsa*, *vilāsa* 20 (end); Брихад-араньяка-упанишада, 4.4.12 / *Bṛhad-āraṇyaka Upaniṣad* 4.4.12.
+
+## Термины (добавлено по Антья 7; RU и EN)
+
+### Antya07-p1
+
+#### Термины
+- পরিহাস (Господа над Валлабхой) → подшучивание / joking.
+- ছল-ঔদাস্য → притворное безразличие / feigned indifference; ছলনা-চেষ্টা, ছলনোক্তি → притворство, слова с притворством / pretense, words of pretense.
+- সিদ্ধান্তসকলের সংশোধন → исправление заключений (сиддхант) / correcting his conclusions (*siddhāntas*).
+- স্পর্শমণি (о преданных) → философский камень / touchstone.
+- প্রায়োপবেশ(ন) → решение поститься до самой смерти (прайопавеша) / resolve to fast until death (*prāyopaveśa*).
+- প্রকাশ-বিগ্রহ → проявление (пракаша-виграха) / manifest form (*prakāśa-vigraha*); কৃষ্ণালিঙ্গিতবিগ্রহ → тот, кого обнимает Кришна / one whom Kṛṣṇa embraces.
+- চিত্তদর্পণ-মার্জ্জন, ভবমহাদাবাগ্নিনির্ব্বাপণ, শ্রেয়ঃকৈরবচন্দ্রিকা-বিতরণ → очистить зеркало сердца, погасить великий лесной пожар мирского бытия, раздать лунный свет, от которого раскрывается белый лотос высшего блага / cleanse the mirror of the heart, extinguish the great forest fire of worldly existence, spread the moonlight that makes the white lotus of the highest good bloom.
+- পরমপুরুষার্থ, পুরুষার্থ-শিরোমণি → высшая цель (парама-пурушартха), венец пурушартх / the supreme goal (*parama-puruṣārtha*), the crown jewel of the *puruṣārthas*.
+- ঐশ্বর্য্যজ্ঞানযুক্ত / কেবল (শুদ্ধ) ভাব → бхава, соединённая со знанием о величии / кевала, чистая бхава / *bhāva* joined with the knowledge of majesty / *kevala*, pure *bhāva*; ঐশ্বর্য্যমিশ্রা বৃত্তি → настрой (вритти), смешанный с величием / disposition (*vṛtti*) mixed with majesty.
+- পুরে / ব্রজে (о мадхура-расе) → в городах / во Врадже / in the cities / in Vraja.
+- আত্মভূত পার্ষদ → спутники, названные «атма-бхута» / the associates called *ātma-bhūta*.
+- রসিকেন্দ্রমুকুটমৌলি → венец на головах царей знатоков расы / the crown jewel on the heads of the kings of *rasikas*.
+- সম্বন্ধ-, প্রয়োজন-, অভিধেয়-, রস-তত্ত্ব-বেত্তা → знаток истины самбандхи, прайоджаны, абхидхеи, расы / knower of the truth of *sambandha*, *prayojana*, *abhidheya*, *rasa*.
+- প্রেমরসবিগ্রহ → воплощение расы премы / embodiment of the *rasa* of *prema*; ব্রজমাধুর্য্যরসতত্ত্বাচার্য্য → ачарья истины о расе сладости Враджа / ācārya of the truth of the *rasa* of Vraja's sweetness.
+- কৃষ্ণেন্দ্রিয়-তোষিণী (গোপী) → радующие чувства Кришны / who please Kṛṣṇa's senses.
+- কৃষ্ণকার্ষ্ণ-সুখতাৎপর্য্য → стремление радовать Кришну и Его близких (каршна) / the aim of pleasing Kṛṣṇa and His own (*kārṣṇa*).
+- বাচক / বাচ্য → называющее (вачака) / называемое (вачья) / which denotes (*vācaka*) / which is denoted (*vācya*).
+- রূঢ়ি → рудхи (главное, общепринятое значение; сила слова передавать смысл целого слова, не опираясь на корень и суффикс) / *rūḍhi* (the primary, accepted meaning; the power of a word to convey the meaning of the whole word without depending on root and suffix).
+- অক্ষজজ্ঞানী → судящий знанием, рождённым от чувств / judging by sense-born knowledge; ভাগবতানুগত্য → водительство (послушание) преданных-бхагават / the guidance of the *bhāgavatas*.
+- দীর্ঘ গর্ব্ব → давняя гордость (хорошо вскормленное, непомерное самомнение) / long-standing pride (a well-nourished, towering self-conceit); দর্প চূর্ণ → гордость сокрушена / pride crushed; গর্ব্ব-খর্ব্বতা → гордость смирена / pride humbled.
+- ঘৃণা (Господа к толкованиям) → отвергает с неприязнью / rejects with distaste.
+- তোষামোদ → угождать (добиваться расположения) / court the favor of.
+- উভয় সঙ্কট → между двух огней / dilemma.
+- অলাতচক্র → огненное колесо (алата-чакра) / whirling firebrand (*alāta-cakra*).
+- ফল্গু, বল্গন / বল্গু → пхалгу (пустой), валгана / валгу (словесная напыщенность) / *phalgu* (worthless), *valgana* / *valgu* (verbal bombast).
+- আচমন → омовение рук и рта / rinsing of hands and mouth.
+
+#### Имена и книги
+- Валлабха Бхатта (Валлабхи Бхатты) / Vallabha Bhaṭṭa; Бхатта / the Bhaṭṭa.
+- Шри Рама Рай (Рамы Рая) / Śrī Rāma Rāya; Дамодара Сварупа (порядок как в издании) / Dāmodara Svarūpa.
+- Пандит Госани, Пандит Госвами = Шри Гададхара Пандит Госвами / Paṇḍita Gosāñi, Paṇḍita Gosvāmī.
+- “Нама-каумуди” Шри Лакшмидхары / Śrī Lakṣmīdhara's *Nāma-kaumudī*; “Кришна-сандарбха” / *Kṛṣṇa-sandarbha*.
+- Маха-Вишну (Адвайтачарья) / Mahā-Viṣṇu.
+
+### Antya07-p2
+
+# Новые термины — Антья 7, комментарии, часть 2 (стихи 93–169)
+
+Формат: бенг./санскр. → RU / EN.
+
+- ভক্ত্যেকরক্ষক (о Шридхаре Свами) → «единственный хранитель бхакти» / “the sole guardian of *bhakti*”.
+- চিদেক-বিষ্ণু-স্বামী / চিদেক-বিষ্ণু-স্বামিত্ব → признающий Господином (свами) Вишну, единый Дух / who acknowledges Viṣṇu, the one Spirit, as the Master (*svāmī*).
+- চিৎসমন্বয় / চিজ্জড়-সমন্বয় → согласование с духом (чит-саманвая) / смешение духа и материи — harmonizing with spirit (*cit-samanvaya*) / a mixture of spirit and matter.
+- স্বৈরতা → своеволие (свайрата) / wantonness (*svairatā*).
+- শুদ্ধাদ্বৈত; অদ্বয়জ্ঞান → чистая недвойственность (шуддхадвайта); недвойственное знание (адвая-гьяна) / pure nondualism (*śuddhādvaita*); nondual knowledge (*advaya-jñāna*).
+- অক্ষজজ্ঞানী → полагающийся на знание от чувств; знаток чувственного / one who relies on sense-born knowledge; the knower of sense-born knowledge.
+- উপেক্ষা → пренебрежение / disregard; অবজ্ঞা → неуважение / contempt.
+- প্রেয় / শ্রেয় / নিঃশ্রেয়স → приятное (прейас) / благое (шреяс) / высшее благо (нихшреяса) / the pleasant (*preyas*) / the good (*śreyas*) / the highest good (*niḥśreyasa*).
+- মনোধর্ম্ম-প্রতিকূল → противный уму / going against the mind.
+- বৈষম্য-দর্শনহীন → ни к кому не пристрастный / partial to no one.
+- মদ-মাৎসর্য্য → высокомерие и зависть / arrogance and envy.
+- প্রণয়-কলহ, প্রণয়-রোষ → ссора из любви (пранайа) / loving quarrel (*praṇaya-kalaha*).
+- কুতর্ক → пустые споры (кутарка) / empty argument (*kutarka*).
+- প্রতিষ্ঠা → слава, почёт (пратиштха) / prestige (*pratiṣṭhā*).
+- রোষাভাস, কৃত্রিম ক্রোধ → притворный гнев / feigned anger.
+- বাম্য-স্বভাব / দক্ষিণ-স্বভাব → строптивая природа (вамья) / кроткая природа (дакшина) / contrary nature (*vāmya*) / compliant nature (*dakṣiṇa*).
+- স্নেহাত্যাচার → суровости, рождённые нежностью / severity that springs from affection.
+- মানদ (প্রভু) → чтящий других / who gives honor to others.
+- পণ্ডিত-গোস্বামী / পণ্ডিত-গোসাঞি (Гададхара) → Пандит Госвами / Paṇḍita Gosvāmī.
+- মূর্খ-পাণ্ডিত্য (বোকা-সেয়ানামি) → глупое умничанье / a fool's cleverness.
+- ওলাহন → наказание словом, выговор / punishment by words, a reproach.
+- কক্ষা-পাত → поражение (какша — соперничество, пата — гибель) / defeat (*kakṣā*, rivalry + *pāta*, destruction).
+- উদ্গ্রাহাদি → споры (витарка) / disputes (*vitarka*).
+- আভিজাত্য, কৌলীন্য → знатность (каулинья) / noble standing (*kaulīnya*).
+- Имена: Гададхара-пранатха; Гадаи-Гауранга; Кишора-Гопала; Бала-Гопала; дочь Бхишмаки (Рукмини); дочь Сатраджита (Сатьябхама) / Gadādhara-prāṇanātha; Gadāi-Gaurāṅga; Kiśora-gopāla; Bāla-gopāla; the daughter of Bhīṣmaka; the daughter of Satrājit.
+- Источник: “Брихад-бхагаватамрита” (Пурва-кханда, гл. 7, стихи 83, 117) / *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verses 83, 117).
