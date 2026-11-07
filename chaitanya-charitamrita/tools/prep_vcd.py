@@ -48,7 +48,7 @@ def is_bn_gap(L, a, b):
 
 def raw_edits(path, L, log):
     """ed/fixes/<Гл>-raw.txt — правки исходной выгрузки ВЧД до разбора (нумерация, пропущенные стихи):
-    `@raw: <было> => <стало>  # причина` — замена в строке; блок `@insert-before: <фрагмент строки>` … `@end` —
+    `@raw: <было> => <стало>  # причина` — замена в строке; `@split: <фрагмент>` — разбить строку перед фрагментом; блок `@insert-before: <фрагмент строки>` … `@end` —
     вставка строк (бенгальский с ॥N॥, пустая, транслитерация, пустая, «(N) перевод») перед первой строкой с фрагментом."""
     if not os.path.exists(path): return L
     E = open(path, encoding='utf-8').read().split('\n'); i = 0
@@ -67,6 +67,14 @@ def raw_edits(path, L, log):
             if k is None: print('  ! вставка не применена:', m.group(1))
             else: L[k:k] = blk + ['']; log.append(('insert', m.group(1), '%d строк' % len(blk), ''))
             i = j
+        # `@split: <фрагмент>  # причина` — разбить строку перед фрагментом (номер перевода «(N)» приклеен к концу пословного, Антья 10.22)
+        m = re.match(r'^@split:\s*(.*?)\s*(?:#\s*(.*))?$', l)
+        if m:
+            k = next((q for q, x in enumerate(L) if m.group(1) in x), None)
+            if k is None: print('  ! разбиение не применено:', m.group(1))
+            else:
+                p = L[k].index(m.group(1)); L[k:k + 1] = [L[k][:p].rstrip(), L[k][p:]]
+                log.append(('split', m.group(1), 'строка разбита', m.group(2) or ''))
         # `@delete: <фрагмент первой строки> => <фрагмент последней строки>  # причина` — удалить строки (стих, которого нет в издании)
         m = re.match(r'^@delete:\s*(.*?)\s*=>\s*(.*?)\s*(?:#\s*(.*))?$', l)
         if m:
