@@ -206,6 +206,8 @@ def split_body(v, vb):
         if gloss: gloss.append(l); continue
         if pairs and pairs[-1][1] is not None and is_gloss(l): gloss.append(l); continue
         if is_tl(l): pairs.append([squash(l), None]); continue
+        # первая строка тела без русских букв-маркеров — транслитерация, даже без диакритики (Антья 7.136: «джагатера ‘хита’ хаука…»)
+        if not pairs and not any(c in RUS for c in l) and not l[:1].isupper(): pairs.append([squash(l), None]); continue
         if pairs and pairs[-1][1] is None: pairs[-1][1] = squash(l); continue
         if pairs: pairs[-1][1] += '  ' + squash(l); continue    # перенос строки пословного в .doc
         gloss.append(l)
