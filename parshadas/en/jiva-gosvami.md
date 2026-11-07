@@ -123,8 +123,7 @@ badshah of Gauda he, like his brothers, bore the title “Mallik”. The “Chai
 
 And in his list of the branches of the tree of bhakti Krishnadasa Kaviraja names father and son together:
 
-“Sri Rupa and Sri Sanatana are a great branch, and Sri Anupama, Sri Jiva Gosvami, Rajendra and other devotees are twigs on
-those branches”. (CC, Adi 10.85)
+“Among them Rupa and Sanatana are the great branch, and Anupama, Jiva, Rajendra and others are its offshoots”. (CC, Adi 10.85)
 
 What kind of devotee Anupama was, Sanatana himself tells Mahaprabhu:
 
@@ -807,8 +806,7 @@ These are His particularities, and therefore Bhagavan is always savishesha — f
 formless; His eternal transcendental form is sach-chid-ananda, full of the six opulences. So the “Chaitanya-charitamrita”
 teaches as well:
 
-“The direct meaning of the word «brahma» (Brahman) is Bhagavan, the Supreme Lord. The unsurpassed and incomparable Lord is
-full of all spiritual perfections”. (CC, Adi 7.111) <!-- F203 Q36 Q38 -->
+“In its primary sense the word “Brahman” means Bhagavan, full of spiritual majesty, with none above Him or equal to Him”. (CC, Adi 7.111) <!-- F203 Q36 Q38 -->
 
 Jiva says in the “Bhagavat-sandarbha” (16): the Supreme Truth is one, but by Its natural inconceivable shakti It always
 abides in four aspects — as the svarupa, as its vaibhava (splendour), as the jivas and as pradhana — like the radiance within

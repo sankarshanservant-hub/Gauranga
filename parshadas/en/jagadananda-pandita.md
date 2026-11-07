@@ -6,8 +6,7 @@ Krishnadasa Kaviraja, listing the branches of the tree of Sri Chaitanya, names P
 “the very life of Sri Chaitanya,” a manifestation of Queen Satyabhama (CC, Adi 10.21). And at once he speaks of what
 was to become the keynote of his whole life:
 
-“Jagadananda always cared for Sri Chaitanya. But Sri Chaitanya would accept nothing that would be an impermissible
-comfort for a sannyasi.” (CC, Adi 10.22)
+“Out of love he longed to surround the Lord with care and comfort, but the Lord, guarding His renunciation and wary of what people would say, never accepted it” (CC, Adi 10.22)
 
 Jagadananda longed to cherish and look after the Lord with love, while the Lord, guarding His renunciation from the
 gossip of people, would not accept his care. To an onlooker it seemed that the two argued and quarrelled, but those

@@ -10,9 +10,7 @@ proclaimed Madana in him. <!-- F1 F17 -->
 Krishnadasa Kaviraja, listing the branches of Sri Chaitanya's tree, names the residents of Shrikhanda as a great branch,
 an abode of His mercy:
 
-“Mukunda Dasa of Shrikhanda and his son Raghunandana, as well as Narahari, Chiranjiva and Sulochana, are branches of Sri
-Chaitanya's tree of bhakti, who everywhere and in every place generously distributed the fruits and flowers of divine love
-for Krishna.” (CC, Adi 10.78–79) <!-- F41 Q2 -->
+“Mukunda Dasa, Sri Raghunandana, Narahari Dasa, Chiranjiva and Sulochana, all of Shrikhanda, are great branches, abodes of Sri Chaitanya’s mercy. Everywhere they give away the fruits and flowers of love” (CC, Adi 10.78–79) <!-- F41 Q2 -->
 
 Of all the residents of Khanda who were Gaura's companions, three were foremost:
 

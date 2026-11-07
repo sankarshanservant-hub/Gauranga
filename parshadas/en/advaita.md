@@ -8,8 +8,7 @@ conducts Himself as one of the companions, but in truth He is Maha-Vishnu Himsel
 universes arise, come in the form of a devotee. So the Gosvamis of Vrindavana teach, and so says Svarupa Damodara in the
 verses with which Kaviraja Gosvami opens the “Chaitanya-charitamrita”:
 
-“Lord Advaitacharya is the incarnation of Maha-Vishnu, who creates this whole world by means of His external energy,
-Maha-Maya.” (CC, Adi 1.12)
+“Maha-Vishnu is the maker of the world, who creates it through maya; and this Lord Advaita Acharya is His avatara” (CC, Adi 1.12)
 
 The next verse explains His name as well: He is called Advaita, “non-different,” because He is non-different from Hari,
 the Supreme Lord, and Acharya because He teaches the sacred path of bhakti; He is the Supreme Himself, come as His own
@@ -31,7 +30,7 @@ three are Prabhus, vishnu-tattva, and therefore tulasi is offered at Their feet,
 Bhaktisiddhanta explains: the purusha-avatara Maha-Vishnu, accepting the mood of a devotee, appears in the world as
 Advaita. Krishnadasa Kaviraja speaks of the Three Prabhus thus:
 
-“One of Them is Mahaprabhu, and the other two are Prabhus. These two Prabhus serve the lotus feet of Mahaprabhu.” (CC,
+“One is Mahaprabhu, and the other two are Prabhus; the two Prabhus serve the feet of Mahaprabhu” (CC,
 Adi 7.14)[^2] <!-- F6 Q9 -->
 
 Sri Chaitanya is the body of the movement of bhakti, and Nityananda and Advaita are its limbs; Nityananda, non-different
@@ -39,11 +38,10 @@ from Baladeva, Sankarshana-Vishnu, and Advaita, “Acharya Gosvami,” are the t
 His body. In the image of the tree of devotion with which Kaviraja Gosvami describes the Lord's companions, Mahaprabhu
 Himself is the main trunk, and Advaita and Nityananda are two secondary trunks:
 
-“Above, the trunk divides into two great branches. One branch is Sri Advaita, and the other branch is Nityananda.” (CC,
+“Higher up, the tree branched into two trunks: one is named Advaita, and the other Nityananda” (CC,
 Adi 9.21)
 
-“I offer obeisances to Advaitachandra, the second extension of the trunk of the eternal tree of Sri Chaitanya
-Mahaprabhu, and to all the branches and twigs — His countless followers.” (CC, Adi 12.3) <!-- F7 Q11 -->
+“The glorious Advaitachandra is the second trunk of the immortal tree of Sri Chaitanya, and His followers are the branches of that trunk. To them we bow down” (CC, Adi 12.3) <!-- F7 Q11 -->
 
 Vrindavana Dasa Thakura, opening his account of Navadvipa on the eve of the Lord's appearance, places Advaita before all
 its Vaishnavas:
@@ -94,14 +92,13 @@ Kamalakanta, Veda-panchanana. <!-- F12 -->
 The “Charitamrita” explains each of His names. He is Mangala, “auspiciousness,” for He bestows good upon the whole world
 (Adi 6.12). He is Advaita:
 
-“Sri Advaita is a manifestation of Maha-Vishnu and the source of all divine qualities. He is called Advaita because He
-is in every way equal to the Supreme.” (CC, Adi 6.25)
+“Advaita, the abode of all good qualities, is a part of Maha-Vishnu. He is non-different from the Lord, and so the name Advaita, “Non-dual”, fits Him in full” (CC, Adi 6.25)
 
 He is Acharya, for He is wholly engaged in preaching bhakti and has become the teacher of all devotees; the two names
 together — Advaita Acharya — make up His full name (Adi 6.28–29). And He is called Kamalaksha, “Lotus-eyed,” because He
 is a part of the body of the lotus-eyed Lord:
 
-“Because He is an expansion, or a part of the body, of the lotus-eyed Lord, all also call Him Kamalaksha (Lotus-eyed).”
+“Because He is the limb and the part of the Lotus-eyed Lord, He bears the beautiful name Kamalaksha, “Lotus-eyed””
 (CC, Adi 6.30)[^4] <!-- F13 -->
 
 Mahaprabhu affectionately called Him “Nara”[^5]. He is also called “Acharya Gosvami,” and the Lord Himself in the
@@ -214,19 +211,18 @@ heart overflowed with compassion. He wished to awaken the whole people to harina
 would not be enough here — the world would be saved only if Hari Himself descended. The “Charitamrita” conveys His
 thoughts:
 
-“My name Advaita will gain its true meaning only when I can induce Krishna Himself to perform sankirtana.” (CC, Adi
+“Only when I have brought Krishna here and spread His kirtana will My name ‘Advaita’ bear fruit.”” (CC, Adi
 3.101) <!-- F44 -->
 
 And He began to call the Lord. He worshipped Krishna with Ganga water and tulasi leaves — tulasi-manjaris — often
 fasted and gathered the Vaishnavas for common prayer; and He called loudly, with a “roar of love,” prema-hunkara:
 
-“Thinking of the lotus feet of Krishna, He began to offer Him tulasi-manjaris with Ganga water.” (CC, Adi 3.107)
+“Meditating on Krishna’s lotus feet, He constantly offered Him tulasi buds (*manjari*) with the water of the Ganga” (CC, Adi 3.107)
 
-“And as He did so He called Krishna loudly, and this became the cause of Mahaprabhu's descent into this world.” (CC,
+“With a mighty roar He called out to Krishna, and in this way He brought about Krishna’s descent” (CC,
 Adi 3.108)
 
-“The main cause of Sri Chaitanya's descent is the plea of Advaita. The Lord, the Protector of dharma, comes only by the
-desire of His devotee.” (CC, Adi 3.109)
+“This is the chief cause of Chaitanya’s descent: the Lord, the protector of dharma, descends by the desire of His devotee” (CC, Adi 3.109)
 
 Vrindavana Dasa says that this call was heard in Vaikuntha:
 
@@ -293,11 +289,9 @@ Later Haridasa moved to Navadvipa, wishing to live among pure devotees like Adva
 ## The Lord's Appearance
 Before coming Himself, Krishna sends into the world those whom He will honour as elders:
 
-“First He sent to Earth all those close to Him and His elders. I shall list them briefly — to describe them all in
-detail is simply impossible.” (CC, Adi 13.53)
+“First He sent down His elders and kin. I shall name them in brief, for they cannot all be told in full” (CC, Adi 13.53)
 
-“Sri Shachidevi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri, Advaita Acharya, Srivasa
-Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.54)
+“Sri Shachi and Jagannatha, Sri Madhava Puri, Keshava Bharati and Sri Ishvara Puri, Advaita Acharya and Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa” (CC, Adi 13.54)
 
 The Three Prabhus descend together with Their eternal companions — with Srivasa, Haridasa and others. <!-- F53 Q15 -->
 
@@ -313,11 +307,9 @@ Advaita sent Sita in a palanquin to the house of Jagannatha Mishra with a casket
 with her husband's permission she came from Shantipura with gifts; seeing the superhuman form of the Infant, she was
 greatly amazed:
 
-“Once the universally honoured Sita Thakurani, the wife of Sri Advaita Acharya, came with Advaita's consent to see the
-wondrous child, bringing various gifts with her.” (CC, Adi 13.111)
+“Advaita Acharya’s wife, the noble lady revered by all the world, was named Sita Thakurani. With the Acharya’s leave she set out with gifts to see that jewel among children” (CC, Adi 13.111)
 
-“Touching the baby's head with fresh grass and rice, she blessed Him with the words: ‘May both brothers live long!’ And
-to protect Him from witches and evil spirits she gave Him the name Nimai.” (CC, Adi 13.117)[^16] <!-- F56 Q7 -->
+“She placed durva grass and paddy on His head and blessed Him again and again: “May the two brothers live long!” Fearing the witches and evil spirits, she gave Him the name Nimai” (CC, Adi 13.117)[^16] <!-- F56 Q7 -->
 
 Sita often came from Shantipura to teach Shachi how to care for the Infant, and at the festival of His birthday she was
 the first allowed to offer the Child clothing. All the devotees together with Advaita and Sita prayed for the long life
@@ -532,11 +524,9 @@ The Lord's honour was a torment to Advaita, and He resolved to provoke His anger
 “Yoga-vasishtha,” placing knowledge, jnana, and liberation above bhakti, and on some pretext went away to Shantipura.
 Advaita Himself says in the “Charitamrita”:
 
-“Before, Mahaprabhu showed Me great honour as an elder. This state of affairs was not to My liking, and I devised how
-to change it all.” (CC, Adi 12.39)
+“In the past Mahaprabhu used to honour Me. This pained Me, and I thought of a way to change it” (CC, Adi 12.39)
 
-“I began to explain the ‘Yoga-vasishtha,’ in which liberation is accepted as the highest goal of life. Learning of
-this, Sri Chaitanya grew angry and punished Me, forgetting His former respect.” (CC, Adi 12.40)
+“I expounded the *Yoga-vasishtha*, extolling liberation as the highest goal, and the Lord grew angry and treated Me with dishonour” (CC, Adi 12.40)
 
 According to Srila Bhaktivinoda, He explained the path of knowledge to “a few unfortunate people.” Vrindavana Dasa
 conveys how it looked:
@@ -564,14 +554,11 @@ against the Lord's feet. “My desire is fulfilled,” He said. “Before, the L
 elder, but now He has dealt with Me as with a servant and saved Me from the heresy of mayavada.” The Lord, seeing
 through His ruse, was abashed, but was pleased and merciful to Him:
 
-“Sri Chaitanya highly honoured Sri Advaita as His Guru on the path of bhakti. But Advaita Acharya Himself was greatly
-saddened by this.” (CC, Adi 17.66)
+“The Lord honoured Acharya Gosani as His guru, and this made the Acharya very unhappy” (CC, Adi 17.66)
 
-“Then Advaita began to explain the path of philosophical speculation, and Sri Chaitanya in feigned anger showed Him His
-disrespect.” (CC, Adi 17.67)
+“So the Acharya, by design, began to expound the path of knowledge, and the Lord in anger treated Him with disrespect” (CC, Adi 17.67)
 
-“Sri Advaita received this punishment as the greatest bliss. Understanding Advaita's motive, Sri Chaitanya was abashed
-and blessed Him.” (CC, Adi 17.68) <!-- F90 -->
+“Then Acharya Gosani was filled with joy, and the Lord, abashed, showed Him His grace” (CC, Adi 17.68) <!-- F90 -->
 
 The Lord embraced Him: “I will be pleased with anyone, even one who has offended Me, if he takes Your shelter.” Advaita
 answered: “Whoever rejects You is nothing to You.” Little Achyutananda too saw his father's punishment. <!-- F91 -->
@@ -897,16 +884,14 @@ son of Devaki (one of the biographies adds: and Sandipani is called His guru) �
 Chaitanya's guru” (CB, Antya 4.146–151). Just then five-year-old Achyuta ran in, naked and
 all dusty from play. The “Charitamrita” tells:
 
-“Hearing from his father that Keshava Bharati was Sri Chaitanya's teacher, Achyutananda was very upset.” (CC, Adi
+“When he heard his father say that Keshava Bharati was the guru of Chaitanya Gosani, he was deeply pained” (CC, Adi
 12.14)
 
-“Then he said to his father, Advaitacharya: ‘Your words that Keshava Bharati became Sri Chaitanya's guru bring ruin to our
-whole country.’” (CC, Adi 12.15)
+“‘How can You teach such a thing about the guru of the world?’ he said. ‘This teaching of Yours will bring ruin on the whole land.’” (CC, Adi 12.15)
 
-“‘Sri Chaitanya is the Guru of the whole universe. Yet You say that someone is His teacher. But there is no confirmation
-of this in the scriptures.’” (CC, Adi 12.16)
+“Chaitanya Gosani is the guru of the fourteen worlds; no scripture anywhere says that anyone else is His guru.”” (CC, Adi 12.16)
 
-“Advaita felt great joy when He heard the essence of the scriptural conclusions from His five-year-old son.” (CC, Adi
+“Hearing a boy of five speak the very essence of the scriptures’ conclusions, the Acharya was boundlessly pleased” (CC, Adi
 12.17) <!-- F124 Q11 -->
 
 According to the “Chaitanya-bhagavata,” Advaita in bliss embraced His son, bathed him in tears of love and said:
@@ -997,8 +982,7 @@ fortune: for it was the Supreme Lord Himself — Sri Chaitanya Mahaprabhu — wh
 went to the Lord to “complain” that He had shown Kamalakanta more mercy than He had shown Him (Adi 12.43–45). The Lord
 laughed, called Kamalakanta and instructed him:
 
-“An acharya-Vaishnava must never take gifts or money from kings and the wealthy. He must never eat food from the hands of
-materialistic people, for this pollutes the mind.” (CC, Adi 12.50)
+“A Vaishnava Acharya must never accept a king’s wealth as a gift. If he eats the food of worldly men, his mind is defiled” (CC, Adi 12.50)
 
 Srila Bhaktivinoda Thakura explains: although Advaita is God Himself, in this world He plays the role of a man in order
 to teach people. It is shameful for an acharya to beg from a king, and a teacher of the holy name takes no payment for
@@ -1052,20 +1036,18 @@ Mishra: these three grasped the essence of their father's teaching and were devo
 the fifth Svarupa, the sixth Jagadisha; they did not accept Sri Chaitanya[^45]. The “Charitamrita,” listing the branches
 of Advaita's tree, speaks of this thus:
 
-“Unhusked rice is first measured together with the husk. But afterwards the husk must be winnowed away and the rice
-cleaned.” (CC, Adi 12.12) <!-- F136 Q11 -->
+“It is like a heap of paddy: one first measures it along with its chaff, and afterwards winnows the chaff away to clean the grain” (CC, Adi 12.12) <!-- F136 Q11 -->
 
 Srila Bhaktivinoda Thakura explains in the “Amrita-pravaha-bhashya”: in the course of time some of Advaita's followers
 adopted other teachings, but the essence is the teaching of Advaita Himself, and whoever transgresses it will attain
 nothing:
 
-“The instructions of the teacher are the basis of spiritual life. One who transgresses his orders cannot make any
-progress.” (CC, Adi 12.10)
+“The Acharya’s teaching is the essence; whoever goes against His order is empty, mere chaff” (CC, Adi 12.10)
 
-“But those descendants of Advaita Acharya who accepted the path of Sri Achyutananda were all great devotees of God.”
+“Those followers of the Acharya who accepted the view of Sri Achyutananda are *maha-bhagavatas*, great devotees”
 (CC, Adi 12.73)
 
-“And all those who received the mercy of Sri Advaita easily found shelter at the lotus feet of Sri Chaitanya.” (CC,
+“It is they who received the Acharya’s mercy, and without effort they attained the feet of Chaitanya” (CC,
 Adi 12.74)
 
 Vrindavana Dasa says the same still more sternly:

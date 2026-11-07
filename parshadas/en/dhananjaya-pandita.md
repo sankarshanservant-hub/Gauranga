@@ -14,8 +14,7 @@ of Nityananda, writes in the “Chaitanya-bhagavata”:
 
 Krishnadasa Kaviraja Goswami, counting the branches of Nityananda's tree in the “Chaitanya-charitamrita,” adds:
 
-“Pandita Dhananjaya is the beloved servant of Sri Nityananda. He was wholly renounced and constantly absorbed in
-feelings of love for Krishna.” (CC, Adi 11.31) <!-- F4 Q3 -->
+“Dhananjaya Pandita, a dear servant of Nityananda, was utterly detached and always full of love for Krishna” (CC, Adi 11.31) <!-- F4 Q3 -->
 
 His story begins with these two testimonies, and they already hold what matters most: Nityananda lives in his heart,
 and he himself is Nityananda's renounced servant, full of love for Krishna. Everything else in his life simply unfolds

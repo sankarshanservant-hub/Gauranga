@@ -8,19 +8,14 @@ relish the various tastes of devotional service. In this row Gadadhara is the en
 too teaches the “Gaura-ganoddesha-dipika”: “And ‘the potency of the devotee’ is the foremost of brahmanas, Sri Gadadhara
 Pandita” (GGD 11). Krishnadasa Kaviraja defines the place of each in the Pancha-tattva:
 
-“The first three truths (Sri Chaitanya, Nityananda Prabhu and Advaita Acharya) are the highest object of worship for all
-living beings. The fourth truth (Gadadhara Prabhu) eternally worships and serves Them. <…> No one can count all the pure
-devotees of Krishna, headed by Srivasa Pandita. And all of them represent the very truth of bhakti. <…> And the
-manifestations of the divine energies, represented by Gadadhara Pandita, are considered the intimate associates of the
-Supreme Lord.” (CC, Adi 7.15–17)
+“These three truths we accept as worshipable by all; the fourth, the truth of the devotee, we know as the worshipper. The countless millions of devotees headed by Srivasa are all counted among the pure devotees (*shuddha-bhakta*). Gadadhara Pandita and others are incarnations of the Lord’s potency (*shakti*); they are counted as His intimate devotees” (CC, Adi 7.15–17)
 
 Mahaprabhu is one; the two Prabhus, Nityananda and Advaita, serve Him, and these three are worthy of worship; Srivasa and
 the others are the devotees who worship; and Gadadhara Pandita and those like him are embodiments of the Lord's
 energies, His most confidential associates. All the mahajanas of the past unanimously recognized Gadadhara as one of the
 Pancha-tattva. At the very beginning of the “Charitamrita” the author bows down to him:
 
-“With reverence I bow down thousands of times to the internal personal energies of the Lord. Gadadhara Pandita is the
-manifestation of one of His most confidential Shaktis.” (CC, Adi 1.41) <!-- F1 F2 F3 F4 Q2 Q4 -->
+“Gadadhara Pandita and the others are the Lord’s own potencies; at the feet of them all I offer thousands of obeisances” (CC, Adi 1.41) <!-- F1 F2 F3 F4 Q2 Q4 -->
 
 Srila Bhaktisiddhanta Sarasvati explains: Gadadhara Pandita is the first among those closest to Sri Chaitanya, the
 source of all shakti-tattva, and therefore he is equally present in the lilas of Navadvipa and in the lilas of
@@ -388,15 +383,14 @@ his guru. The Lord glanced approvingly at Gadadhara, and he gladly let his disci
 first of the Lord's devotees to go to Vrindavana. Together with Bhugarbha, Bhagavata Dasa, his fellow disciple and close
 friend, was a branch of Gadadhara:
 
-“Bhugarbha Gosvami and Bhagavata Dasa came to Vrindavana and lived there all their lives.” (CC, Adi 12.82)
+“Vaninatha Brahmachari was a great soul, and Vallabha-Chaitanya Dasa was full of love for Krishna” (CC, Adi 12.82)
 
 From Bhugarbha the branch continued through his disciples — Chaitanya Dasa, the pujari of Govinda, Mukundananda
 Chakravarti and “Premi” Krishnadasa. <!-- F75 F76 F77 -->
 
 Another disciple was Ananta Acharya:
 
-“Ananta Acharya was a disciple of Sri Gadadhara Pandita. He was magnanimous, exalted and full of feelings of divine love
-for Krishna. Ananta Acharya possessed greatness and all virtues. And Haridasa Pandita was his beloved disciple.” (CC, Adi
+“Ananta Acharya was the disciple of Pandita Gosani; his very body was made of love for Krishna, and he was generous and noble in every way. Who could recount his endless virtues? And this Haridasa Pandita is his dear disciple” (CC, Adi
 8.59–60)
 
 Ananta Acharya and Haridasa Pandita lived in Vrindavana and constantly heard the “Chaitanya-bhagavata” of Vrindavana
@@ -525,8 +519,7 @@ The two Gadadharas must not be separated and set against each other: both are as
 eternal associates both in Gaura-lila and in Vraja-lila. To honor one and reject the other is exactly what the
 “Charitamrita” calls the logic of half a hen:
 
-“If you believe in one and are disrespectful to the other, your logic is in every way like accepting only one half of a
-hen (the one that lays eggs).” (CC, Adi 5.176)
+“You have faith in one but show the other no respect: your standard is the logic of half a hen” (CC, Adi 5.176)
 
 Such logic the gurus have not told us to accept; and the distinction spoken of by Kavi Karnapura and Bhaktisiddhanta
 (Radha Herself and Her radiance) is no ground for rivalry, but different services within one lila. <!-- F102 Q17 I7 -->

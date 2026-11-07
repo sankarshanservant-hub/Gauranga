@@ -9,7 +9,7 @@ Lord calls him simply “Nandana,” and Vrindavana dasa Thakura calls him a mah
 
 Krishnadasa Kaviraja, enumerating the branches of the tree of Sri Chaitanya, speaks of him thus:
 
-“The seventeenth branch, Nandana Acharya, is renowned because Sri Chaitanya and Nityananda at times hid in his house.”
+“Nandana Acharya is a branch renowned throughout the world, for the two Lords hid in his house”
 (CC, Adi 10.39)
 
 For this he is famed in the world. At different times his house in Navadvipa gave shelter to Nityananda, to Advaita and
@@ -25,8 +25,7 @@ The “Charitamrita” and the “Chaitanya-bhagavata” themselves do not name 
 speak of his family in different ways. One of them brings two verses together. In the “Charitamrita,” among the branches
 of Nityananda, it is said:
 
-“Vishnudasa, Nandana and Gangadasa are three saintly brothers. Sri Nityananda at times stayed as a guest in their
-house.” (CC, Adi 11.43)
+“Vishnudasa, Nandana and Gangadasa were three brothers, in whose house Thakura Nitai once stayed” (CC, Adi 11.43)
 
 And the “Chaitanya-bhagavata” says that Gangadasa was the son of Chaturbhuja Pandita and that Nityananda had formerly
 stayed in his house (Antya 5.745). If the Nandana of the first verse is Nandana Acharya, then his brothers are

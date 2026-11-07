@@ -98,8 +98,7 @@ the capacity to see the devotees’ glory varies. A soul covered by anarthas can
 devotees, and its praise turns into disrespect; yet if one glorifies them humbly and prayerfully, aware of one’s
 own unworthiness, the Vaishnavas will forgive the flaws, and their pleased glance frees one from anarthas. A pure
 devotee is rare, and to meet one is great good fortune. He recalls the words of the “Sri Chaitanya-charitamrita”:
-“Whoever constantly remembers the Guru, God and the holy Vaishnavas will easily attain the fulfilment of his innermost
-desires and overcome every difficulty and obstacle”. (CC, Adi 1.21) And further: every perfection comes by the
+“Remembering these three, one overcomes all obstacles and easily attains one’s heart’s desire”. (CC, Adi 1.21) And further: every perfection comes by the
 Vaishnavas’ mercy, and a soul that glorifies the qualities of devotees is — as he heard from his guru and from
 sadhus — liberated. <!-- I3 I5 Q1 -->
 

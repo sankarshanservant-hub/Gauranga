@@ -11,8 +11,7 @@ to Vraja before Rupa and Sanatana and were older even than Jiva. <!-- F6 -->
 Little is known of Bhugarbha, and the essential was said of him by Krishnadasa Kaviraja Gosvami in a single line of the
 “Chaitanya-charitamrita”:
 
-“And the disciple of Gadadhara Pandita named Bhugarbha Gosvami likewise spoke only of the deeds of Sri Chaitanya. Other
-subjects held no interest for him at all.” (CC, Adi 8.68)
+“Bhugarbha Gosani, the disciple of Pandita Gosani, has nothing on his lips but talk of Gaura” (CC, Adi 8.68)
 
 Gaura-katha — talk of Gaura — was the whole of his speech: he spoke of nothing else and spent all his days in
 conversation about the Lord. <!-- F25 Q1 -->
@@ -21,7 +20,7 @@ conversation about the Lord. <!-- F25 Q1 -->
 Bhugarbha was a disciple of Gadadhara Pandita Gosvami and received initiation from him; for this reason he is placed in
 Gadadhara's branch of the Chaitanya tree. There Krishnadasa Kaviraja names him together with Bhagavata Dasa:
 
-“Bhugarbha Gosvami and Bhagavata Dasa came to Vrindavana and lived there all their lives.” (CC, Adi 12.82)[^1]
+“Vaninatha Brahmachari was a great soul, and Vallabha-Chaitanya Dasa was full of love for Krishna” (CC, Adi 12.82)[^1]
 
 In the list of Gadadhara's branches they come eleventh and twelfth.
 <!-- F2 F3 Q2 -->
@@ -122,8 +121,7 @@ That month Bhugarbha not only beheld Gopaladeva but danced and sang before Him.[
 ## Disciples and the “Chaitanya-charitamrita”
 Krishnadasa Kaviraja names Bhugarbha's disciples as well:
 
-“The disciples of Bhugarbha Gosvami were Chaitanya Dasa (the servant of the Deity Govinda), Mukundananda Chakravarti and
-Krishnadasa, full of divine love.” (CC, Adi 8.69)
+“His disciples are Chaitanya-Dasa, the priest of Govinda, Mukundananda Chakravarti and Krishnadasa, full of love” (CC, Adi 8.69)
 
 He had other disciples too, and each of them, in the words of one biography, was a maha-bhagavata; all of them ever
 thirsted to drink the nectar of Gaura's pastimes. Chaitanya Dasa, already in the days of Kaviraja Gosvami, was a wholly
@@ -133,9 +131,7 @@ Bhugarbha and his disciples were among those Vaishnavas of Vrindavana who wished
 Vrindavana Dasa had left undescribed in the “Chaitanya-bhagavata.” In listing them, Kaviraja names Bhugarbha and his
 disciples especially, and then says:
 
-“And many other great Vaishnavas of Sri Vrindavana-dhama also wished to hear of the concluding pastimes of Sri Chaitanya
-Mahaprabhu. All these Vaishnavas bestowed their mercy on me. Therefore, casting off all shame, I have undertaken to write
-of the pastimes of Sri Chaitanya, humbly carrying out their direct instructions.” (CC, Adi 8.71–72)
+“And all the other devotees who live in Vrindavana wished to hear the final pastimes. In their compassion they all gave me the order, and at their word I write, casting off all shame” (CC, Adi 8.71–72)
 
 It was with the permission and blessing of Bhugarbha and Lokanatha that Krishnadasa Kaviraja began to write of
 Mahaprabhu's last pastimes. <!-- F32 F33 Q1 -->

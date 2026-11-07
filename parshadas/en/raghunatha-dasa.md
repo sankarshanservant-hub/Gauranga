@@ -370,12 +370,7 @@ were the five Pandavas; Raghunatha stopped the felling, and that is why Shyama-k
 ## Life on the Bank of Radha-kunda
 Krishnadasa Kaviraja, who accepted Raghunatha as his guru, describes his life in Vraja thus:
 
-“Sri Raghunatha Dasa gave up everything, including food and water, drinking only a palmful of buttermilk a day. Every
-day he prostrated himself a thousand times before the Supreme Lord, uttered His holy name a hundred thousand times and
-bowed down to two thousand Vaishnavas. Day and night he served Sri Sri Radha-Krishna in his mind, and every day he spent
-three hours talking of the pastimes of Sri Chaitanya. Morning, noon and evening he bathed in Radha-kunda. On meeting the
-Vaishnavas of Vraja he embraced them, showing his deep respect. Twenty-two hours a day he devoted to the service of
-Krishna. He slept no more than two hours a day, and sometimes forgot sleep altogether.” (CC, Adi 10.98–102)
+“He gave up food and water, to say nothing of anything else, taking only two or three palas of buttermilk. Every day he offered a thousand prostrations, chanted a hundred thousand names and bowed down to two thousand Vaishnavas. Night and day he served Radha and Krishna within his mind, and for one prahara he spoke of the life of Mahaprabhu. At dawn, noon and evening he bathed in Radha-kunda without fail, and he embraced the Vaishnavas of Vraja. He spent seven and a half praharas a day in the practice of bhakti and slept for four dandas — on some days not even that” (CC, Adi 10.98–102)
 
 Two or three cups of buttermilk a day were all his food; more than twenty-two hours a day went to sadhana, and sleep
 took no more than an hour and a half, or he went without sleep altogether. <!-- F17 Q2 F111 -->
@@ -743,8 +738,7 @@ to a line carved in stone. <!-- I9 -->
 [^4]: According to another biography, Nilambara called them “bhaiya,” “younger brothers,” and they called him “dada,”
     “elder brother.”
 [^5]: According to one of the biographies, Raghunatha spent five or six days with Advaita.
-[^6]: So says the “Charitamrita”: “For sixteen years he rendered intimate service to Sri Chaitanya, and after the
-    departure of Mahaprabhu and Svarupa Damodara he went to Vrindavana” (CC, Adi 10.93). According to the three old
+[^6]: So says the “Charitamrita”: “For sixteen years he served the Lord intimately, and when Svarupa departed from this world, he came to Vrindavana” (CC, Adi 10.93). According to the three old
     records mentioned above, Raghunatha lived nineteen years at home, eight in Nilachala and forty-nine in Vraja, at
     Radha-kunda; but Srila Bhaktivinoda, publishing one of these records, himself noted that some of its years are
     doubtful. We follow the “Charitamrita”.

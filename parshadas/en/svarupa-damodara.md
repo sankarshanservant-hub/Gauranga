@@ -126,8 +126,7 @@ were inseparable from Mahaprabhu and took up the danda for the sake of His pasti
 in meditation, Svarupa in kirtana, and “these two sannyasis were like the arms of Lord Chaitanya” (CB, Antya
 10.49). <!-- F115 Q34 -->
 
-Krishnadasa Kaviraja, listing the branches of Chaitanya's tree in Puri, names the same two first: “two — Paramananda
-Puri and Svarupa Damodara — were Sri Chaitanya's very life and breath” (CC, Adi 10.124). When Sarvabhauma invited the
+Krishnadasa Kaviraja, listing the branches of Chaitanya's tree in Puri, names the same two first: “two were foremost, the Lord’s very heart: Paramananda Puri and Svarupa Damodara” (CC, Adi 10.124–126). When Sarvabhauma invited the
 Lord and ten sannyasis for a whole month, he gave the Lord five days, Paramananda Puri five, Svarupa four and the
 rest two each, and asked the Lord to come alone or with Svarupa. In the list of these ten sannyasi companions —
 Paramananda Puri, Svarupa, Brahmananda Puri, Brahmananda Bharati, Vishnu Puri, Keshava Puri, Krishnananda Puri,
@@ -595,8 +594,7 @@ Of all the Lord's devotees only “three and a half” belonged to the inner cir
 
 The Lord's early pastimes were recorded by Murari Gupta, the final ones by Svarupa Damodara:
 
-“The deeds of Sri Chaitanya in the Adi-lila are described in brief by Murari Gupta. And Sri Chaitanya's final pastimes
-were described in the form of brief notes by Svarupa Damodara (Mahaprabhu's secretary).” (CC, Adi 13.15–16)
+“Murari Gupta recorded in sutras all the Lord’s deeds in the Adi-lila. Svarupa Damodara set down the Lord’s later pastimes in brief notes and gathered them in his book” (CC, Adi 13.15–16)
 
 On the basis of Murari Gupta's kadcha the pastimes were described by Vrindavana Dasa, Lochana Dasa and others. And the
 final pastimes, full of love in separation, which Svarupa recorded in his kadcha and passed on to “Svarupa's

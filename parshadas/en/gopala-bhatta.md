@@ -7,14 +7,11 @@ received His mercy while still a child, in the days of his boyhood play. He is a
 Bhatta Gosvami and Bhatta-pada. At the beginning of the “Chaitanya-charitamrita” Krishnadasa Kaviraja Gosvami honours
 him among his six shiksha-gurus, his instructors:
 
-“Sri Rupa and Sri Sanatana Gosvami, Sri Bhatta Raghunatha Gosvami, Sri Jiva Gosvami, Srila Gopala Bhatta Gosvami and
-Sri Dasa Raghunatha Gosvami. With reverence I bow millions of times at the lotus feet of these six instructors of
-mine.” (CC, Adi 1.36–37) <!-- F1 Q37 -->
+“Sri Rupa, Sanatana, Raghunatha Bhatta, Sri Jiva, Gopala Bhatta and Raghunatha Dasa — these six are my instructing gurus; at the lotus feet of them all I offer millions of obeisances” (CC, Adi 1.36–37) <!-- F1 Q37 -->
 
 And listing the branches of the Chaitanya tree, the Kaviraja says of him:
 
-“The forty-sixth branch, Sri Gopala Bhatta Gosvami, is one of the very greatest. In the company of Sri Rupa and
-Sanatana Gosvami he discussed the essence of pure love for Krishna.” (CC, Adi 10.105) <!-- F68 Q23 -->
+“Sri Gopala Bhatta is a branch of the very highest order; he would converse about love with Rupa and Sanatana” (CC, Adi 10.105) <!-- F68 Q23 -->
 
 The six Gosvamis are Sanatana, Rupa, Raghunatha Dasa, Gopala Bhatta, Raghunatha Bhatta and Jiva; Lokanatha and
 Bhugarbha were honoured as the seventh and eighth, and people sometimes speak of “nine Gosvamis”, among them “the two

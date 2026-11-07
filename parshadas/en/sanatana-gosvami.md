@@ -14,8 +14,7 @@ with Krishna in Vrindavana.” (CC, Antya 5.86–87)
 
 And of himself he says:
 
-“By the mercy of Sanatana Gosvami I learned the truths of bhakti. And by the mercy of Sri Rupa Gosvami I tasted the
-nectar of loving relations with Sri Krishna.” (CC, Adi 5.203)
+“By Sanatana’s mercy I came to know the conclusions of bhakti; by Sri Rupa’s mercy I came near to bhakti-rasa” (CC, Adi 5.203)
 
 That is why Sanatana is called the bhakti-siddhantacharya — the teacher of the conclusions (siddhanta) of bhakti, that
 is, of sambandha-jnana: the knowledge of how God, the living being and the world are related to one another.
@@ -582,11 +581,10 @@ greatest jivas: of bhakti into Narada, of the power to sustain the world into Pr
 Chatuhsana; those pervaded by Bhagavan Himself (Kapila, Rishabha) think, “I am Bhagavan,” while those pervaded by His
 shakti (Brahma, Narada, Vyasa) think, “I am Bhagavan's servant.” <!-- F147 -->
 
-“When the one Supreme Lord expands Himself into forms between which there is no difference at all, this is called
-‘prakasha.’ So did Krishna in order to marry sixteen thousand princesses in Dvaraka, or when He enjoyed the rasa dance.”
+“When one Person appears in many forms, alike in appearance and one in identity — as at the marriage of the queens or in the rasa dance — this is called Krishna’s chief *prakasha*”
 (CC, Adi 1.69–70)
 
-“But the many forms of God between which there are some differences are known as ‘vilasa’ (sportive).” (CC, Adi 1.76)
+“But when one and the same Person appears in many forms that differ in appearance, that is called *vilasa*” (CC, Adi 1.76)
 
 A prakasha is equal to the original in every respect; a vilasa is equal in power but different in form, colour and name,
 like Balarama in Vraja and Narayana in Vaikuntha; a svamsha is of lesser power, like Matsya or Kurma. Prabhava means
@@ -1349,8 +1347,7 @@ Govindaji: in Vrindavana Rupa built the temple of Govinda, and Sanatana the temp
 
 Krishnadasa Kaviraja speaks of the three Deities of Vrindavana — Madana-mohana, Govinda and Gopinatha:
 
-“These three principal Deities have for ever captured the hearts of all the Gaudiya Vaishnavas. I worship Their beautiful
-feet, for They are the Lords of my life.” (CC, Adi 1.19)
+“These three Deities have made the Gaudiya devotees Their own. I worship Their feet: these Three are my Lords” (CC, Adi 1.19)
 
 They are Krishna, Govinda and Gopijana-vallabha, to whom the mantras of the Gaudiyas are addressed — the Lords of
 sambandha-jnana, abhidheya and prayojana. Madana-mohana, the Lord of Vrindavana, is the treasure of Sanatana's life, as
@@ -1435,9 +1432,7 @@ good. <!-- I31 -->
 The “Chaitanya-charitamrita” opens with obeisances to the three Deities of Vrindavana, and first of all Krishnadasa
 Kaviraja glorifies Madana-mohana:
 
-“O Sri Sri Radha-Madana-mohana! I am lame and of meagre intelligence, and my sinful mind is captured by base objects. I
-pray to You: grant me attachment to the priceless wealth of my life — Your lotus feet. And may Your Lordships, so
-compassionate and loving, be ever and everywhere victorious!” (CC, Adi 1.15) <!-- F356 Q54 -->
+“All glory to the merciful Sri Sri Radha and Madana-mohana! I am lame and dull of mind, and They are my only refuge; Their lotus feet are all I have” (CC, Adi 1.15) <!-- F356 Q54 -->
 
 Srila Bhaktivedanta Swami explains: Kaviraja first bows to Madana-mohana, Sanatana's Deity, who establishes our
 relationship with the Lord (sambandha); then to Govinda, Rupa's Deity — the “acting” Deity, who accepts service; and

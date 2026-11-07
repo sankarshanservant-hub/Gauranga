@@ -7,8 +7,7 @@ first of the pure devotees. His name is renowned as that of a herald, the very �
 Gaura-Hari. Krishnadasa Kaviraja opens his “Chaitanya-charitamrita” with obeisances to the Lord's associates, and of
 Srivasa he says:
 
-“There are many saintly devotees of the Lord, but the chief among them is Srivasa Thakura. I humbly offer him thousands
-of obeisances.” (CC, Adi 1.38) <!-- F117 F118 Q14 -->
+“To all the devotees of the Lord, of whom Srivasa is the chief, I offer thousands of obeisances at their lotus feet” (CC, Adi 1.38) <!-- F117 F118 Q14 -->
 
 Srivasa's house in Navadvipa was the stage for most of Mahaprabhu's Navadvipa pastimes. Here the Lord first revealed
 His divine form to a devotee, here for a whole year the kirtana went on behind closed doors night after night, here took place
@@ -35,8 +34,7 @@ only son, who died as a child; of him we shall speak below.[^4] <!-- F6 F7 F8 F1
 The brothers, their servants and all their household gave themselves forever to the feet of Mahaprabhu. Gaurasundara was
 everything to them, and they knew no other gods:
 
-“These four brothers, their whole family and household served Lord Sri Chaitanya. Apart from Gaurachandra they worshipped
-no other gods or goddesses.” (CC, Adi 10.11) <!-- F5 Q1 -->
+“With their whole family they served Sri Chaitanya, and apart from Gaurachandra they knew no god or goddess” (CC, Adi 10.11) <!-- F5 Q1 -->
 
 Srivasa's appearance day is Krishna-ashtami, the eighth day of the dark fortnight of the month of Chaitra; so our
 calendar also marks it, in the month of Vishnu. His disappearance day is Krishna-dashami of the month of Vamana, that is,
@@ -321,9 +319,7 @@ by the mercy of that prasada, it is said, Vrindavana Dasa, an incarnation of Vya
 
 Srivasa's clothes were sewn by a Muslim tailor, and the Lord blessed him too:
 
-“A Muslim tailor sewed clothes for Srivasa Thakura. Lord Chaitanya bestowed special mercy on him by revealing His eternal
-form. The tailor cried ‘I see! I see!’ and began to dance like a madman, intoxicated with divine love. Thus he became the
-best of Vaishnavas.” (CC, Adi 17.231–232) <!-- F66 Q11 -->
+“A Muslim tailor used to sew Srivasa’s clothes, and the Lord let him see His own form. Crying, “I have seen! I have seen!”, he went mad with love and began to dance, and he became foremost among Vaishnavas” (CC, Adi 17.231–232) <!-- F66 Q11 -->
 
 This house saw many other pastimes. Here the Lord revealed the four-armed form of Narayana and began calling for
 Garuda — Murari with a roar took the form of the king of birds, and the Lord sat on his shoulders. Here too Murari bowed
@@ -345,8 +341,7 @@ For the offence at Srivasa's feet Gopala was struck with leprosy — festering s
 under a tree by the Ganga, and when the Lord came there to bathe, he begged Him for deliverance. The Lord answered in
 anger:
 
-“‘O wicked envier of devotees! Expect no forgiveness from Me, I shall not save you! Let worms devour you for tens of
-millions of lives.’” (CC, Adi 17.51)
+“‘You sinner, you hater of devotees! I will not deliver you. For ten million births I will have the worms devour you like this.’” (CC, Adi 17.51)
 
 For having made Srivasa out to be a worshipper of Bhavani, said the Lord, he would spend ten million births in hell
 (CC, Adi 17.52) — in the hell called Raurava, the biographies specify. <!-- F69 Q11 -->

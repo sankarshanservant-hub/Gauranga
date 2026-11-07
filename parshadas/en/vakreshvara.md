@@ -14,8 +14,7 @@ amazed the denizens of heaven. <!-- F1 F2 Q1 -->
 
 Krishnadasa Kaviraja Gosvami, describing the tree of Sri Chaitanya, calls him its fifth branch:
 
-“The fifth branch is Vakreshvara Pandita, the beloved servant of Sri Chaitanya. Overwhelmed by unbroken bliss, he
-could dance for three days and nights.” (CC, Adi 10.17)[^1] <!-- F11 -->
+“Vakreshvara Pandita was a servant very dear to the Lord. In a single unbroken ecstasy he could dance for twenty-four praharas — three days and nights” (CC, Adi 10.17)[^1] <!-- F11 -->
 
 His name is woven into the very praise of the Lord: at the opening of the Madhya-khanda Vrindavana Dasa exclaims:
 “Glory to Him who is dear to the heart of Vakreshvara and Kashishvara!” (CB, Madhya 1.6)[^2] <!-- F64 Q22 -->
@@ -34,10 +33,7 @@ Vakreshvara's dancing passed into legend. Once — in the house of Srivasa, it i
 twenty-four praharas, that is, three days and nights: not by bodily strength, but in the unbroken bliss of love for
 Krishna. Krishnadasa Kaviraja also tells how the Lord Himself sang while he danced:
 
-“Once Sri Chaitanya Himself was singing, and Vakreshvara Pandita, dancing before Him, fell at Mahaprabhu's feet and
-said: ‘O moon-faced One! Give me ten thousand gandharvas. Let them sing and I will dance, and that will give me the
-greatest happiness.’ Sri Chaitanya replied: ‘You are like one of My wings; if I had another, I could fly through the
-sky.’” (CC, Adi 10.18–20) <!-- F17 F18 Q7 -->
+“While he danced, Mahaprabhu Himself would sing, and once Vakreshvara clasped the Lord’s feet and said: “O moon-faced Lord, give me ten thousand Gandharvas! Let them sing while I dance — that would be my joy.” The Lord replied, “You are one of My wings. If I had another like you, I would fly up into the sky.”” (CC, Adi 10.18–20) <!-- F17 F18 Q7 -->
 
 In Navadvipa he danced in ecstasy at the kirtanas in the houses of Srivasa and Chandrashekhara. Vrindavana Dasa names
 him among those who came to the night kirtanas at Srivasa's: “…Shridhara, Sadashiva, Vakreshvara, Shrigarbha,
@@ -105,8 +101,7 @@ all the holy places together; Vaikuntha is manifest there.’” (CB, Antya 3.49
 Seeing the mercy Vakreshvara had shown Devananda, the Lord told him to expound the “Bhagavatam” in the spirit of
 bhakti. Krishnadasa Kaviraja sums it up:
 
-“The fortieth branch, Devananda Pandita, was a reciter of the ‘Srimad-Bhagavatam.’ But by the mercy of Vakreshvara
-Pandita and by the special mercy of Sri Chaitanya he understood that the true essence of the Bhagavatam is bhakti.”
+“Devananda, the reciter of the *Bhagavata*, is an offshoot of Vakreshvara’s branch. By Vakreshvara’s mercy he received from the Lord the devotional meaning of the *Bhagavata*”
 (CC, Adi 10.77) <!-- F34 Q4 -->
 
 The heart of this story is plain. An offence against a Vaishnava is healed by the same tongue that gave it — by
@@ -121,11 +116,7 @@ When the Lord took sannyasa and settled in Puri, Vakreshvara left Navadvipa to f
 sankirtana every day and to serve Him in His final pastimes. So he settled in Nilachala for good and became one of the
 Lord's constant companions. Krishnadasa Kaviraja names him together with those who were Mahaprabhu's very life:
 
-“Among all the devotees who were intimate with the Lord in Jagannatha Puri, two — Paramananda Puri and Svarupa
-Damodara — were Sri Chaitanya's very life and breath. There were also Gadadhara, Jagadananda, Shankara, Vakreshvara,
-Damodara Pandita, Haridasa Thakura, Vaidya Raghunatha and Raghunatha Dasa. […] All these exalted devotees had
-accompanied the Lord everywhere before. When Sri Chaitanya settled in Jagannatha Puri, they stayed to serve Him
-there.” (CC, Adi 10.124–127) <!-- F35 Q5 -->
+“Of all the devotees who lived with the Lord in Nilachala, two were foremost, the Lord’s very heart: Paramananda Puri and Svarupa Damodara. With them were Gadadhara, Jagadananda, Shankara, Vakreshvara, Damodara Pandita, Thakura Haridasa, Raghunatha Vaidya and Raghunatha Dasa. These and other great devotees, His companions from before, stayed in Nilachala and served the Lord there” (CC, Adi 10.124–127) <!-- F35 Q5 -->
 
 And elsewhere, telling how Gadadhara Pandita settled in Nilachala (one biography calls this his kshetra-sannyasa — the
 vow never to leave the Kshetra):

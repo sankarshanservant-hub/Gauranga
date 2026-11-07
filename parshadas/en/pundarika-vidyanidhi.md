@@ -14,9 +14,7 @@ Krishnadasa Kaviraja, describing the tree of Sri Chaitanya, calls Pundarika Vidy
 tree and says that the Lord loved him so much that He wept when uttering his name (CC, Adi 10.14). He belongs to those
 elders whom Krishna, having resolved to descend, sent into the world before Himself — to the guru-varga:
 
-“First He sent to the earth all His intimates and elders. I shall list them briefly — to describe them all in detail
-is simply impossible. Sri Shachi Devi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri,
-Advaita Acharya, Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.53–54)
+“First He sent down His elders and kin. I shall name them in brief, for they cannot all be told in full. Sri Shachi and Jagannatha, Sri Madhava Puri, Keshava Bharati and Sri Ishvara Puri, Advaita Acharya and Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa” (CC, Adi 13.53–54)
 <!-- F6 F7 Q2 Q3 -->
 
 ## Family and Homeland

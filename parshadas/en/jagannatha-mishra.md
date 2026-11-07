@@ -11,11 +11,9 @@ by the “Gaura-ganoddesha-dipika” (35) as the cowherd Parjanya, Krishna's gra
 From Shrihatta Jagannatha moved to the bank of the Ganga, to Navadvipa, and built his house in Mayapur — on the very
 spot where the Lord would later appear. Krishnadasa Kaviraja describes him thus:
 
-“The best of the brothers, Sri Jagannatha Mishra, was also known as Purandara. Like Krishna's fathers — Vasudeva and
-Nanda Maharaja — he was a reservoir of every virtue.” (CC, Adi 13.59)
+“Jagannatha, the best of the Mishras, bore the title Purandara. This ocean of virtues had once been Nanda and Vasudeva” (CC, Adi 13.59)
 
-“His wife, Srimati Shachidevi, was a chaste woman, wholly devoted to her husband. Her father was Nilambara
-Chakravarti.” (CC, Adi 13.60)
+“His wife, named Shachi, was chaste and wholly devoted to her husband; her father was Nilambara Chakravarti” (CC, Adi 13.60)
 
 The title “Purandara” is one of the epithets of Indra, king of the gods. <!-- F7 F8 F9 Q1 -->
 
@@ -38,21 +36,18 @@ Mahaprabhu's appearance He was the only one of the children left in the house. <
 
 Before He comes, the Lord sends to the earth those whom He will honour as His elders:
 
-“Before descending to the earth, Krishna sends here many of His devotees, who take the roles of His respected
-forefathers, teachers and elders.” (CC, Adi 3.92)
+“When Krishna descends to earth, He first causes His elders to appear” (CC, Adi 3.92)
 
-“Thus first His venerable parents and teachers take birth on the earth.” (CC, Adi 3.93)
+“Father, mother, guru and all who are to be honoured — He first has them all take birth on earth” (CC, Adi 3.93)
 
-“Madhavendra Puri, Ishvara Puri, Srimati Shachimata and Jagannatha Mishra appeared together with Advaita Acharya.”
+“Madhavendra Puri, Ishvara Puri, Shachi and Jagannatha appeared, and Advaita Acharya appeared along with them”
 (CC, Adi 3.94)
 
 Krishnadasa Kaviraja says the same in another place:
 
-“First He sent to the earth all His intimates and elders. I shall name them briefly — to describe them all in detail
-is simply impossible.” (CC, Adi 13.53)
+“First He sent down His elders and kin. I shall name them in brief, for they cannot all be told in full” (CC, Adi 13.53)
 
-“Sri Shachidevi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri, Advaita Acharya, Srivasa
-Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.54–55)
+“Sri Shachi and Jagannatha, Sri Madhava Puri, Keshava Bharati and Sri Ishvara Puri, Advaita Acharya and Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa” (CC, Adi 13.54–55)
 
 Lochana Dasa, in the “Chaitanya-mangala,” tells how Krishna, in Dvaraka, revealed to Narada that He would appear in
 Navadvipa in a golden form, with all His associates, as the son of Shachi and Jagannatha Mishra. <!-- F15 Q5 Q11 -->
@@ -172,10 +167,9 @@ to his friends and told them of the request. Jagadisha understood at once that i
 Nimai, who was hungry, and without hesitation gave Him the whole offering. As soon as the boy received the prasada His
 tears dried, and He joyfully began to eat. <!-- F64 F65 F66 -->
 
-“Other branches are Jagadisha Pandita and Hiranya Mahashaya, to whom Sri Chaitanya showed His greatest mercy in His
-childhood.” (CC, Adi 10.70)
+“Jagadisha Pandita and Hiranya Mahashaya received the compassionate Lord’s mercy when He was still a child” (CC, Adi 10.70)
 
-“In their houses Sri Chaitanya asked for the food offered to Vishnu on the day of Ekadashi, and ate it Himself.”
+“In these two houses, on the day of Ekadashi, the Lord begged for the food offered to Vishnu and ate it Himself”
 (CC, Adi 10.71)
 
 For Krishna the son of Nanda, Gaurasundara the son of Jagannatha Mishra, and Lord Jagannatha are one and the same
@@ -274,10 +268,9 @@ his home. <!-- F107 F108 -->
 ## The Father of the Lord
 Who, then, was this brahmana from Shrihatta? Krishnadasa Kaviraja answers:
 
-“The king of Vraja, Nanda Maharaja, has now become the father of Sri Chaitanya, and Yashoda, the queen of Vraja, has
-become His mother, Sri Shachidevi.” (CC, Adi 17.294)
+“He who was the king of Vraja is here Jagannatha, the father; she who was the queen of Vraja is here Shachidevi, the mother” (CC, Adi 17.294)
 
-“Now the son of Nanda Maharaja is Sri Chaitanya, and Baladeva is Sri Chaitanya's brother, Nityananda.” (CC, Adi 17.295)
+“He who was Nanda’s son is here Chaitanya Gosani; He who was Baladeva is here Nityananda, His brother” (CC, Adi 17.295)
 
 Kavi Karnapura says the same:
 

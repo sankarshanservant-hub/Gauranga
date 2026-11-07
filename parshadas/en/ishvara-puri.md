@@ -12,11 +12,9 @@ He was the dearest disciple of Madhavendra Puri — so Srila Bhaktisiddhanta Sar
 on the “Charitamrita” (Adi 9.10). Krishnadasa Kaviraja, depicting Sri Chaitanya's tree of devotion, places him second,
 after his guru:
 
-“All glory to Sri Madhavendra Puri, the storehouse of pure loving service to Krishna! In him this desire tree of
-bhakti first sprouted.” (CC, Adi 9.10)
+“Glory to Sri Madhava Puri, brimming with love for Krishna! He is the first sprout of the wish-fulfilling tree of bhakti” (CC, Adi 9.10)
 
-“And then this seed of the desire tree of bhakti took the form of a new sprout — Sri Ishvara Puri. And soon the
-Gardener Himself, Sri Chaitanya Mahaprabhu, became the main trunk of this tree of bhakti.” (CC, Adi 9.11)
+“In the form of Sri Ishvara Puri the sprout grew strong, and then the gardener, Sri Chaitanya Himself, became the trunk of the tree” (CC, Adi 9.11)
 
 In Madhavendra the seed of devotion first sprouted, in Ishvara Puri the sprout grew strong, and then the Gardener
 Himself became the trunk. The great souls say the same in other words: the root of the tree of shringara-rasa is
@@ -25,10 +23,9 @@ Madhavendra, Ishvara Puri is its shoot, and Mahaprabhu is the main trunk. <!-- F
 His coming into the world was also part of the Lord's design. Before descending, Krishna sends ahead those whom He
 will honour as parents, teachers and elders:
 
-“Before descending to the Earth, Krishna sends here many of His devotees, who accept the roles of His venerable
-forebears, teachers and elders.” (CC, Adi 3.92)
+“When Krishna descends to earth, He first causes His elders to appear” (CC, Adi 3.92)
 
-“Madhavendra Puri, Ishvara Puri, Srimati Shachimata and Jagannatha Mishra appeared together with Advaita Acharya.”
+“Madhavendra Puri, Ishvara Puri, Shachi and Jagannatha appeared, and Advaita Acharya appeared along with them”
 (CC, Adi 3.94)
 
 The “Charitamrita” lists the same circle of elders elsewhere too (Adi 13.53–55), and Lochana Dasa in the
@@ -237,8 +234,7 @@ oneself with the guru. This alone — that the Lord chose him as His guru — sh
 initiation the Lord stayed with him for some time with deep reverence, and then, by his instruction, left Gaya for
 Navadvipa. <!-- F53 I1 F54 -->
 
-Of what followed the “Charitamrita” speaks briefly: “And immediately after initiation by the Guru, love for Krishna
-manifested in Him. And when He returned home, it took complete possession of Him” (CC, Adi 17.9). With Gaya begin the
+Of what followed the “Charitamrita” speaks briefly: “After His initiation His love was revealed, and when He came home again, He gave Himself to the play of love” (CC, Adi 17.9). With Gaya begin the
 pastimes of love and the sankirtana. The place of initiation at the feet of Vishnu in Gaya was not forgotten later:
 on their way to Vrindavana both Srinivasa Acharya and Shyamananda (Duhkhi Krishnadasa) bowed there to the feet of
 Vishnu — Shyamananda, remembering how Ishvara Puri had given the Lord the mantra, was overwhelmed with ecstasy; and
@@ -275,8 +271,7 @@ or the place of his departure[^14]. <!-- F56 F57 F58 -->
 Only his last instruction is known. He had two dear disciples — the brahmachari Kashishvara and Govinda, his beloved
 servant; both served their guru as long as he remained in this world.
 
-“Before his departure Ishvara Puri ordered Kashishvara and Sri Govinda to go to Jagannatha Puri and meet Sri
-Chaitanya there.” (CC, Adi 10.139) <!-- F59 F60 Q12 -->
+“At the time of his departure both received his order, came to Nilachala and met the Lord” (CC, Adi 10.139) <!-- F59 F60 Q12 -->
 
 Govinda set out at once and found the Lord already returned from His journey through the South; Kashishvara came
 later, after first visiting the holy places. Govinda said: “My name is Govinda and I am the servant of Ishvara Puri.

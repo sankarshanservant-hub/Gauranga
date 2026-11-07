@@ -20,7 +20,7 @@ of the Raja Pandita (Vishnupriya).” (CB, Adi 1.110)
 The wedding itself he describes in detail in the fifteenth chapter of the Adi-khanda. Krishnadasa Kaviraja in the
 “Chaitanya-charitamrita” records it in a single line:
 
-“Then Nimai married Vishnupriya, the goddess of fortune.” (CC, Adi 16.25)
+“Then came His marriage to Vishnupriya Thakurani” (CC, Adi 16.25)
 
 He passes at once to the Lord's victory over the digvijayi; beyond this the “Charitamrita” says not a word about
 Vishnupriya. The matchmaking and the wedding are described by Murari Gupta in his “Kadacha” (first prakrama, sargas

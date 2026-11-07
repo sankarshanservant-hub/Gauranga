@@ -7,9 +7,7 @@ Chaitanya and of those who established His cherished desire. The Lord's biograph
 names: Raghunatha Bhattacharya, Bhatta Raghunatha, Bhatta Gosvami, or simply Raghunatha. At the very beginning of the
 “Chaitanya-charitamrita” Krishnadasa Kaviraja Gosvami honours him among his six instructors:
 
-“Sri Rupa and Sri Sanatana Gosvami, Sri Bhatta Raghunatha Gosvami, Sri Jiva Gosvami, Srila Gopala Bhatta Gosvami and
-Sri Dasa Raghunatha Gosvami. With reverence I bow millions of times at the lotus feet of these six instructors of
-mine.” (CC, Adi 1.36–37) <!-- F1 F4 F5 Q14 -->
+“Sri Rupa, Sanatana, Raghunatha Bhatta, Sri Jiva, Gopala Bhatta and Raghunatha Dasa — these six are my instructing gurus; at the lotus feet of them all I offer millions of obeisances” (CC, Adi 1.36–37) <!-- F1 F4 F5 Q14 -->
 
 He is non-different from Sri Rupa and belongs to him entirely: among the followers of Rupa he is the best, the crown of
 the Rupanuga acharyas. Srila Bhaktisiddhanta Sarasvati, tracing the line of instruction (shiksha-parampara), leads it
@@ -26,8 +24,7 @@ Bhaktisiddhanta in the “Anubhashya” (on CC, Adi 10.153–158) places his app
 ## Tapana Mishra
 Raghunatha was the son of Tapana Mishra; so both Murari Gupta and Krishnadasa Kaviraja call him:
 
-“I shall also tell of three devotees of Sri Chaitanya in Varanasi: the physician Chandrashekhara, Sri Tapana Mishra
-and his son, Raghunatha Bhattacharya.” (CC, Adi 10.152–153) <!-- F9 -->
+“In Varanasi the Lord had three devotees: Chandrashekhara the physician, Tapana Mishra and his son Raghunatha Bhattacharya. When the Lord came to Kashi after seeing Vrindavana,” (CC, Adi 10.152–153) <!-- F9 -->
 
 Tapana Mishra came from East Bengal, from the village of Rampur on the bank of the Padma; the “Prema-vilasa” also says
 that he met the Lord at Rampur on the bank of the Padmavati. This was in the days when Mahaprabhu, in His pastime as a
@@ -84,8 +81,7 @@ Bhattacharya cooked for the Lord. <!-- F20 F21 -->
 
 On His way back from Vrindavana Mahaprabhu stayed in Kashi a long time:
 
-“When Sri Chaitanya came to Varanasi, He lived for two months with Chandrashekhara and took prasada in the house of
-Tapana Mishra. As a child Raghunatha served Sri Chaitanya, washing the Lord's dishes and massaging His lotus feet.”
+“He stayed for two months in Chandrashekhara’s house and for two months took His meals in the house of Tapana Mishra. As a boy Raghunatha served the Lord, cleaning up after His meals and massaging His feet”
 (CC, Adi 10.154–155)[^3]
 
 The poet Radhavallabha, in his song about Raghunatha Bhatta, also recalls how he received Gaurachandra in his home and

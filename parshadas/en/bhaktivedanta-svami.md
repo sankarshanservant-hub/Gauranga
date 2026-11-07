@@ -476,9 +476,7 @@ than one occasion he said, “I consider Srila Sridhar Maharaj to be my siksa-gu
 to speak of the benefit that others can have from his association.” <!-- F123 -->
 
 What he meant by the word “shiksha-guru” is best explained by his own commentary on the “Sri Chaitanya-charitamrita”.
-Krishnadasa Kaviraja writes: “I know my instructing Guru as Krishna’s personal form. The Lord manifests Himself in
-this world in two forms: within, as the Supersoul in every heart, and without, as the best of Vaishnavas, the saintly
-teacher.” (CC, Adi 1.47) The instructing teacher is Krishna Himself, Srila Bhaktivedanta Swami explains; Krishnadasa
+Krishnadasa Kaviraja writes: “I know the instructing Guru to be Krishna’s own form, in two aspects: the Indweller within, and the best of devotees” (CC, Adi 1.47) The instructing teacher is Krishna Himself, Srila Bhaktivedanta Swami explains; Krishnadasa
 Kaviraja speaks of two kinds of instructing teachers — the liberated soul wholly absorbed in meditation on devotional
 service, and the one who awakens the disciple’s spiritual consciousness by proper instructions. There is no difference
 between the Supreme Lord who gives shelter and the initiating and instructing teachers, and one who foolishly

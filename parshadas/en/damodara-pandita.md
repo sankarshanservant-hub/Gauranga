@@ -20,14 +20,12 @@ more below, as Kaveri (GGD 168). <!-- F2 F42 Q1 -->
 Krishnadasa Kaviraja, listing the branches of Sri Chaitanya's tree, gives him the tenth place — and at once says what
 he is remembered for:
 
-“The tenth branch is Sri Damodara Pandita. He had such great love for Sri Chaitanya that once he even rebuked Him.”
+“Damodara Pandita, another branch, was so fierce in his love that he even rebuked the Lord”
 (CC, Adi 10.31)
 
-“I shall tell of this in more detail later. Fully pleased with this reproach, Sri Chaitanya sent Damodara to
-Navadvipa.” (CC, Adi 10.32)
+“I shall tell the story of that rebuke in detail later. Pleased with it, the Lord sent him to Nadiya” (CC, Adi 10.32)
 
-“The eleventh branch is Shankara Pandita, Damodara's younger brother. Everyone also called him Prabhu-padopadhana (the
-pillow for the Lord's feet).” (CC, Adi 10.33)
+“His younger brother, Shankara Pandita, is a branch known by the name “the Lord’s footrest.”” (CC, Adi 10.33)
 
 The love that dares to reproach the Lord Himself the “Charitamrita” calls *prachanda*, “impetuous.” In the language of
 the Vaishnavas such a reproach is *vakya-danda*, “chastisement by word.” It is neither impudence nor self-assurance: the

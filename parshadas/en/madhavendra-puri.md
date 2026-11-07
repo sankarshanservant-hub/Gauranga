@@ -6,10 +6,9 @@ Madhavendra Puri came into the world as early as the fourteenth century, long be
 the very source. Before coming into the world, the Lord sends ahead those whom He will honour as parents, teachers and
 elders, so that each of them may serve Him in his own way:
 
-“Before descending to the Earth, Krishna sends here many of His devotees, who accept the roles of His venerable
-forebears, teachers and elders.” (CC, Adi 3.92)
+“When Krishna descends to earth, He first causes His elders to appear” (CC, Adi 3.92)
 
-“Madhavendra Puri, Ishvara Puri, Srimati Shachimata and Jagannatha Mishra appeared together with Advaita Acharya.”
+“Madhavendra Puri, Ishvara Puri, Shachi and Jagannatha appeared, and Advaita Acharya appeared along with them”
 (CC, Adi 3.94)
 
 Elsewhere the “Charitamrita” (Adi 13.52–55) names this circle of elders in greater detail: “Madhava Puri,” Shachi,
@@ -28,11 +27,9 @@ disciple was Advaita Acharya. Gaurachandra would say again and again, “Madhave
 
 Krishnadasa Kaviraja, describing Sri Chaitanya's tree of devotion, begins with him:
 
-“All glory to Sri Madhavendra Puri, the treasury of unalloyed loving service to Krishna! In him this wish-fulfilling
-tree of bhakti first sprouted.” (CC, Adi 9.10)
+“Glory to Sri Madhava Puri, brimming with love for Krishna! He is the first sprout of the wish-fulfilling tree of bhakti” (CC, Adi 9.10)
 
-“Then this seed of the wish-fulfilling tree of bhakti took the form of a new shoot — Sri Ishvara Puri. And soon the
-gardener Himself, Sri Chaitanya Mahaprabhu, became the main trunk of this tree of bhakti.” (CC, Adi 9.11)
+“In the form of Sri Ishvara Puri the sprout grew strong, and then the gardener, Sri Chaitanya Himself, became the trunk of the tree” (CC, Adi 9.11)
 
 The gardener and the trunk of this tree is Mahaprabhu Himself; it was planted in Navadvipa and grew up in Puri and
 Vrindavana. Madhavendra is its first sprout, the one in which the seed of devotion first bore fruit; Ishvara Puri is

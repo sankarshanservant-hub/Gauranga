@@ -11,15 +11,13 @@ The word itself explains who the gopalas are: it is the name of the cowherd frie
 The mahajanas count the twelve gopalas among the companions of Baladeva, who came into the world as Nityananda, and
 Krishnadasa Kaviraja Gosvami says of Nityananda's whole circle:
 
-“All the companions of Sri Nityananda were formerly cowherd boys in Vraja. Each of them had a staff and a horn; they
-wore the dress of cowherds, and peacock feathers adorned their hair.” (CC, Adi 11.21) <!-- F2 Q1 -->
+“All of Nityananda’s associates are cowherd friends from Vraja. Each carries a horn and a staff and wears the dress of a cowherd, with a peacock feather on his head” (CC, Adi 11.21) <!-- F2 Q1 -->
 
 Sundarananda is Baladeva's eternal companion in the pastimes of Vraja, and with Him he came into the pastimes of
 Nityananda. The “Chaitanya-charitamrita,” where Krishnadasa Kaviraja counts the branches of Nityananda's
 tree, says of him:
 
-“Sundarananda, a branch of Sri Nityananda, is known as one of His closest servants. With him Nityananda performed
-deeds that repeated the pastimes of Vraja.” (CC, Adi 11.23) <!-- F3 F4 Q2 I1 -->
+“Sundarananda, a branch of Nityananda, was His intimate servant, and with him Nityananda enjoyed the playful pastimes of Vraja” (CC, Adi 11.23) <!-- F3 F4 Q2 I1 -->
 
 He was one of those to whom Nityananda's heart lay open, and with him Nityananda enjoyed the playful pastimes of
 Vraja. Vrindavana Dasa Thakura, who called himself the last servant of Nityananda, names him the foremost in His circle:

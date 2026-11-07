@@ -425,8 +425,7 @@ the various rasas, showed how to taste the bottomless ocean of rasa and explaine
 devotion to Krishna. Through Rupa, Mahaprabhu revealed to the world Krishna's pastimes in Vrindavana and the path to
 Krishna in Vrindavana. Krishnadasa Kaviraja testifies:
 
-“By the mercy of Sanatana Gosvami I learned the truths of bhakti. And by the mercy of Sri Rupa Gosvami I tasted the
-ambrosia of loving relationships with Sri Krishna.” (CC, Adi 5.203)
+“By Sanatana’s mercy I came to know the conclusions of bhakti; by Sri Rupa’s mercy I came near to bhakti-rasa” (CC, Adi 5.203)
 
 And again:
 
@@ -912,14 +911,7 @@ Of the books themselves we shall speak below, in the section “Works.” <!-- F
 Describing the branches of Gaurasundara's tree of prema, Krishnadasa Kaviraja speaks also of the branch of Rupa and
 Sanatana:
 
-“By the sweet will of the gardener, Sri Chaitanya, the branches of Sri Rupa and Sanatana grew so much that they covered
-all the western lands. Spreading as far as the river Indus and the Himalayas, those branches embraced all of India,
-including all the holy places of pilgrimage such as Vrindavana, Mathura and Haridvara. The fruits of divine love that grew
-on these branches the devotees distributed generously everywhere. Having tasted the nectar of this love, all people became
-intoxicated. Usually the people of the western provinces were unprincipled and unwise. But the preaching of Sri Rupa and
-Sanatana Gosvami transformed them, giving them an understanding of how to live properly in devotion to Krishna. Acting in
-full accord with the instructions of the scriptures, these two Gosvamis discovered the forgotten holy places and
-established proper worship of the Deities in Vrindavana.” (CC, Adi 10.86–90) <!-- F212 Q48 -->
+“By the gardener’s wish these branches grew so vast that they covered all the western lands. They spread as far as the banks of the Sindhu and the Himalaya, over Vrindavana, Mathura and every holy place. The fruits of love from these two branches flooded everything, and tasting them the people grew mad with love. The people of the west were all foolish and of degraded conduct; there the two brothers taught the good conduct of bhakti. Guided by the scriptures they recovered the lost holy places, and in Vrindavana they spread the worship of the Deities” (CC, Adi 10.86–90) <!-- F212 Q48 -->
 
 How the brothers lived in Vrindavana, performing bhajana all eight praharas of the day, was told in Puri by Vaishnava
 eyewitnesses:
@@ -969,15 +961,12 @@ In Vrindavana Rupa established the service of Govindaji, and Sanatana that of Ma
 treasure of Sanatana's life, so Govinda was the lord of Rupa's life. Krishnadasa Kaviraja, naming the three Deities of
 Vrindavana — Madana-mohana, Govinda and Gopinatha — says:
 
-“These three principal Deities have for ever captured the hearts of all the Gaudiya Vaishnavas. I worship Their beautiful
-feet, for They are the Lords of my life.” (CC, Adi 1.19)[^44] <!-- F219 F220 Q50 -->
+“These three Deities have made the Gaudiya devotees Their own. I worship Their feet: these Three are my Lords” (CC, Adi 1.19)[^44] <!-- F219 F220 Q50 -->
 
 Among the obeisances to the three lords of Vrindavana at the beginning of the “Chaitanya-charitamrita,” Kaviraja bows to
 Govinda as the lord of abhidheya:
 
-“I pray for the mercy that will help me constantly remember the Divine Couple, Sri Sri Gandharva-Govindasundara, seated on
-a throne adorned with shining jewels in the forest of Vraja, beneath a mind-enchanting wish-fulfilling tree and surrounded
-by Their closest maidservants (sakhis and manjaris).” (CC, Adi 1.16)
+“I remember Sri Sri Radha and Sri Govindadeva, seated on a throne in a beautiful temple of jewels beneath a wish-fulfilling tree in the radiant forest of Vrindavana, served by Their dearest companions” (CC, Adi 1.16)
 
 Srila Bhaktisiddhanta Sarasvati explains: Madana-mohana is the Deity of sambandha, and the acharya of sambandha is Sanatana;
 Govinda is the Deity of abhidheya, who accepts service, and the acharya of abhidheya is Rupa; Gopinatha is the Deity of
@@ -1079,19 +1068,12 @@ characteristics.” <!-- F251 F252 -->
 
 In Krishnadasa Kaviraja's time Govinda was served by His beloved servants. The “Chaitanya-charitamrita” says:
 
-“In the most intimate temple of Vrindavana, beneath wish-fulfilling trees, there is a golden throne adorned with jewels. On
-that golden throne the son of Nanda Maharaja, Sri Govinda, the God of Love Himself, is ever seated. In that temple Sri
-Govinda is worshipped, served by the highest standard. His garments, ornaments and paraphernalia are divine and wholly
-spiritual. Thousands of servants serve Sri Govinda unceasingly. And even tens of thousands of mouths would not suffice
-merely to describe this worship. At that time the superintendent of this temple was Sri Haridasa Pandita. His virtues and
-fame were known to the whole world.” (CC, Adi 8.50–54)
+“In Vrindavana, beneath a wish-fulfilling tree, stands a golden temple; there is the great Yogapitha, and in it a jewelled throne. On it the son of the king of Vraja is ever seated: His name is Sri Govinda-deva, the very God of love. There He is served like a king in many wonderful ways, with divine offerings, divine garments and ornaments. A thousand servants attend Him constantly; that service could not be described even with a thousand mouths. The superintendent of that service is Sri Haridasa Pandita, whose fame and virtues are known throughout the world” (CC, Adi 8.50–54)
 
-“Kashishvara Gosvami had a disciple named Govinda Gosvami, who was a dear servant of the Deity of Govinda in Vrindavana.”
+“Govinda Gosani, the disciple of Kashishvara Gosani, is the dear servant of Govinda, and there is none to equal him”
 (CC, Adi 8.66)
 
-“And the disciple of Gadadhara Pandita named Bhugarbha Gosvami also spoke only of the deeds of Sri Chaitanya. Other topics
-did not interest him at all. The disciples of Bhugarbha Gosvami were Chaitanya Dasa (the servant of the Deity of Govinda),
-Mukundananda Chakravarti and Krishnadasa, full of divine love.” (CC, Adi 8.68–69)
+“Bhugarbha Gosani, the disciple of Pandita Gosani, has nothing on his lips but talk of Gaura. His disciples are Chaitanya-Dasa, the priest of Govinda, Mukundananda Chakravarti and Krishnadasa, full of love” (CC, Adi 8.68–69)
 
 Haridasa Pandita was a disciple of Ananta Acharya, a disciple of Gadadhara Pandita; Govinda Gosani, a disciple of “the
 strong” Kashishvara, was a great servant of Sri Govinda. <!-- F253 F254 Q58 -->
@@ -1199,9 +1181,7 @@ the “Bhagavatam” to them — in Rupa's assembly, “the assembly of the king
 (shri-shri-vishva-vaishnava-raja-sabha) — and, overwhelmed by prema (tears, trembling, a faltering voice), sometimes had to
 break off the reading:
 
-“Later, at Sri Chaitanya's bidding, he went to Vrindavana and stayed there to live, taking shelter of Sri Rupa Gosvami.
-Raghunatha Bhatta read the ‘Srimad-Bhagavatam’ aloud for Sri Rupa Gosvami. And so, by the mercy of Sri Chaitanya, he became
-intoxicated with divine love for Sri Krishna.” (CC, Adi 10.157–158) <!-- F276 F277 Q81 -->
+“Then, at the Lord’s command, he went to Vrindavana and stayed near Sri Rupa Gosvami. Rupa Gosvami heard the *Bhagavatam* from him, and by the Lord’s mercy he was mad with love for Krishna” (CC, Adi 10.157–158) <!-- F276 F277 Q81 -->
 
 ## Gopala Bhatta
 Gopala Bhatta, at his parents' behest, came straight to Vrindavana and settled with Rupa and Sanatana (“Karnananda,” 5th
@@ -1330,7 +1310,7 @@ Sanatana. Thus the highest acharyas — Raghunatha Dasa, Jiva, Narottama — def
 Krishnadasa Kaviraja begins each chapter of the “Chaitanya-charitamrita” with obeisances to Mahaprabhu and His associates and
 ends it with a prayer for service at the feet of Rupa and Raghunatha:
 
-“Praying for mercy at the feet of Sri Rupa and Sri Raghunatha, I, Krishnadasa, narrate this ‘Sri Chaitanya-charitamrita.’”
+“Praying at the feet of Sri Rupa and Sri Raghunatha, I, Krishnadasa, narrate the *Chaitanya-Charitamrita*”
 (CC, Adi 1.110)
 
 Kaviraja is honoured as the best of Rupa's followers. Vishvanatha Chakravarti followed Rupa's example, going to live in

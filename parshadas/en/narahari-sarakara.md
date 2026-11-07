@@ -119,9 +119,7 @@ must always follow them.’” (CC, Madhya 15.130–132) <!-- F34 Q11 -->
 Listing the branches of Sri Chaitanya's tree, Krishnadasa Kaviraja names the residents of Shrikhanda as one of its great
 branches:
 
-“Mukunda Dasa of Shrikhanda and his son Raghunandana, and also Narahari, Chiranjiva and Sulochana, are branches of the
-tree of Sri Chaitanya's bhakti, which everywhere generously distributed the fruits and flowers of divine love for
-Krishna.” (CC, Adi 10.78)
+“Mukunda Dasa, Sri Raghunandana, Narahari Dasa, Chiranjiva and Sulochana, all of Shrikhanda, are great branches, abodes of Sri Chaitanya’s mercy. Everywhere they give away the fruits and flowers of love” (CC, Adi 10.78)
 
 The chief among them were three: Mukunda, his son Raghunandana, and Mukunda's younger brother Narahari. Narahari's life
 shows how this branch of mercy gave its fruit: living in Shrikhanda, he bestowed prema on everyone who sought it. <!-- F36 Q8 I2 -->

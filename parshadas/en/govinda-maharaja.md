@@ -559,8 +559,7 @@ in his view, deserves trust. <!-- F88 F97 -->
 Without humility, patience and respect for others, he taught, spiritual progress is impossible: this path Mahaprabhu
 showed in the third verse of the “Shikshashtaka”:
 
-“One should constantly chant the Holy Name of Krishna, feeling oneself humbler than a blade of grass and more
-tolerant than a tree, showing due respect to others and not desiring respect for oneself.” (CC, Adi 17.31) <!-- F89 Q6 -->
+“Lower than a blade of grass, more tolerant than a tree, seeking no honour and offering honour to others, one should always sing the glories of Hari” (CC, Adi 17.31) <!-- F89 Q6 -->
 
 These qualities protect one from vaishnava-aparadha — the greatest obstacle to chanting the maha-mantra. “Through the
 Vaishnavas the maha-mantra descends into the material world from the higher plane of existence. It spreads in this

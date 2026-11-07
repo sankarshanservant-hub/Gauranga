@@ -10,10 +10,9 @@ him, affectionately called him “My mesomashai.” <!-- F1 -->
 
 Krishnadasa Kaviraja, listing the branches of Sri Chaitanya's tree, gives him the place of a great branch:
 
-“Acharyaratna is another great branch, and his associates are the twigs upon it.” (CC, Adi 10.12)
+“Another great branch bears the name Acharyaratna; his associates are its branches and offshoots” (CC, Adi 10.12)
 
-“Acharyaratna was also known as Sri Chandrashekhara. In his house Sri Chaitanya played the role of the goddess
-Adi-shakti in a drama.” (CC, Adi 10.13)
+“Acharyaratna’s own name is Sri Chandrashekhara. In his house the Lord danced in the form of the Goddess, the Adi-shakti” (CC, Adi 10.13)
 
 With this single verse the “Charitamrita” marked what Chandrashekhara's house has remained forever in the memory of the
 devotees: here the Lord revealed Himself in the form of His own primordial energy. Of this pastime we shall speak below.
@@ -27,11 +26,9 @@ coming.” (CB, Adi 2.98–99)
 
 And the “Charitamrita,” listing those whom Krishna sent to the earth ahead of Himself, names him too:
 
-“First He sent to the Earth all His intimates and elders. I shall list them briefly — to describe them all in detail is
-simply impossible.” (CC, Adi 13.53)
+“First He sent down His elders and kin. I shall name them in brief, for they cannot all be told in full” (CC, Adi 13.53)
 
-“Sri Shachi Devi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri, Advaita Acharya, Srivasa
-Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.54–55)
+“Sri Shachi and Jagannatha, Sri Madhava Puri, Keshava Bharati and Sri Ishvara Puri, Advaita Acharya and Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa” (CC, Adi 13.54–55)
 
 One of the biographies explains that all of Mahaprabhu's elders descend to the earth before He Himself is born[^1].
 <!-- F7 Q5 Q15 -->
@@ -78,8 +75,7 @@ see Him and look after Him[^4]. <!-- F8 F9 -->
 
 On the day of the Lord's birth Chandrashekhara's wife came to Shachi together with Malini, Srivasa's wife:
 
-“Malini, the wife of Srivasa Thakura, came with Chandrashekhara's wife and many other women. With great joy they
-honoured the infant, offering Him vermilion, turmeric, oil, puffed rice, coconuts, bananas and other fruits.” (CC, Adi
+“Srivasa’s wife, whose name was Malini, came with the wife of Acharyaratna, and the women joyfully worshipped the child with vermilion, turmeric, oil, puffed rice, bananas and many kinds of fruit” (CC, Adi
 13.110)
 
 The women performed all the auspicious rites that are due at a child's birth. <!-- F11 -->
@@ -123,11 +119,9 @@ sang and danced in the mood of the Goddess, devi-bhava — so writes Srila Bhakt
 (Madhya 18) describes this pastime in detail, Murari Gupta and Lochana Dasa sing of it, and the “Charitamrita”
 recalls it in two verses:
 
-“Then in the house of Sri Chandrashekhara Sri Chaitanya played the role of Rukmini in a drama devoted to Krishna's
-pastimes.” (CC, Adi 17.241)
+“Then, in the house of Acharya Chandrashekhara, He enacted Krishna’s pastimes, and the Lord Himself took the forms of Rukmini and others” (CC, Adi 17.241)
 
-“At times Sri Chaitanya played the roles of the goddess Durga, Lakshmi or Yogamaya. Seated on the couch of Vishnu, He
-bestowed on all the devotees divine love for Sri Krishna.” (CC, Adi 17.242) <!-- F16 Q8 Q9 -->
+“At times He became Durga or Lakshmi, at times the spiritual potency (*chit-shakti*) herself; and seated on the couch, He gave the devotees loving devotion” (CC, Adi 17.242) <!-- F16 Q8 Q9 -->
 
 It began when the Lord revealed to the devotees His wish to present the pastimes of Vraja. He called Sadashiva Pandita
 and Buddhimanta Khan and told them to prepare the costumes, indicating who was to wear what (CB, Madhya 18.7).
@@ -224,8 +218,7 @@ Chandrashekhara. In the morning the Master of all the worlds told him: “All th
 perform them: you I have made My representative,” — and Chandrashekhara Acharya, at the Lord's word, carried out all
 that was prescribed (CB, Madhya 28.132–134). The “Charitamrita” says the same:
 
-“The Lord was accompanied by Nityananda Prabhu, Chandrashekhara Acharya and Mukunda Datta. They performed all the
-necessary rites.” (CC, Adi 17.273)
+“With Him were Nityananda, Chandrashekhara Acharya and Mukunda Datta, and these three performed all the rites” (CC, Adi 17.273)
 
 Thus together with Nityananda and Mukunda Datta he performed according to the shastras all that befitted the pastime
 of sannyasa; Murari Gupta adds that “the venerable Acharyaratna, knower of the injunctions, performed the worship of

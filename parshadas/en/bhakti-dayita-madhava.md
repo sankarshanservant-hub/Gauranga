@@ -352,8 +352,7 @@ On the morning of 30 December 1978, at the Calcutta math, at Bhakti Ballabha Tir
 orders not to talk much, he gave instructions to a Western devotee from Chandigarh. Devotion must be exclusive, given
 to Krishna alone, as a faithful wife is devoted to her husband; the demigods are not to be reviled, but neither are
 they to be set on a par with Krishna: “krishnas tu bhagavan svayam” — Krishna is Bhagavan Himself (SB 1.3.28). The
-“Chaitanya-charitamrita” says the same: “Only the original Lord of all that exists, the source of all Avataras and
-manifestations of God, is worthy to be called Svayam Bhagavan” (CC, Adi 2.88). <!-- F83 Q6 -->
+“Chaitanya-charitamrita” says the same: “He from whose Godhood the Godhood of all others proceeds — in Him alone the words “Bhagavan Himself” have their meaning” (CC, Adi 2.88). <!-- F83 Q6 -->
 
 He spoke too of succession. The math is no one's property; there is one acharya, and he is also the president. The
 acharya is not elected by vote — he is indicated by the Lord, from above; so it is in all four sampradayas. Srila

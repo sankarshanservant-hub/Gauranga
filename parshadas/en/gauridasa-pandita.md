@@ -11,16 +11,14 @@ In Gaura-lila these twelve became the companions of Nityananda; they are known p
 and all of them hold places of honour in the assembly of the Vaishnavas of the whole world, the
 Vishva-vaishnava-raja-sabha. Krishnadasa Kaviraja describes them thus:
 
-“All the companions of Sri Nityananda were formerly cowherd boys in Vraja. Each of them had a staff and a horn, they wore
-the dress of cowherds, and peacock feathers adorned their hair”. (CC, Adi 11.21)
+“All of Nityananda’s associates are cowherd friends from Vraja. Each carries a horn and a staff and wears the dress of a cowherd, with a peacock feather on his head”. (CC, Adi 11.21)
 
 Gauridasa's name never fails to appear in the lists of the twelve gopalas — now fourth, now fifth, for the order of these
 lists is not the same. <!-- F3 Q14 -->
 
 On the tree of Sri Chaitanya, Nityananda is the principal branch:
 
-“Sri Nityananda is the principal branch of Sri Chaitanya's wish-fulfilling tree. From this mighty branch grow many other
-branches and twigs”. (CC, Adi 11.5)
+“Sri Nityananda is the mighty trunk of the tree, and on it grew branches and offshoots in great number”. (CC, Adi 11.5)
 
 Krishnadasa Kaviraja bows to all the devotees who grow like twigs upon this principal branch (CC, Adi 11.4). Among them
 Gauridasa is one of the most important branches, and among Nityananda's companions one of the dearest to Him. <!-- F2 Q15 -->
@@ -44,8 +42,7 @@ Gauridasa's elder brother Suryadasa was a man of rare generosity. He served the 
 “Sarakhela”[^3], and later gave his two daughters, Vasudha and Jahnava, in marriage to Nityananda. Suryadasa and the
 younger brother, Krishnadasa, believed in Nityananda with all their hearts:
 
-“Suryadasa Sarakhela and his brother Krishnadasa had unshakable faith in Nityananda. They were filled with love of
-God”. (CC, Adi 11.25) <!-- F11 F12 Q13 -->
+“Suryadasa Sarakhela and his brother Krishnadasa had firm faith in Nityananda and were abodes of love”. (CC, Adi 11.25) <!-- F11 F12 Q13 -->
 
 Gauridasa's constant support was also King Krishnadasa, son of Raja Harihoda of Badagachhi — the same who undertook to arrange
 Nityananda's marriage. <!-- F18 -->
@@ -275,9 +272,7 @@ Sarakhela, and further west the ashrama of Bhagavan Dasa Babaji. <!-- F23 F24 F2
 ## Significance
 Krishnadasa Kaviraja says of Gauridasa:
 
-“Sri Gauridasa Pandita was endowed with great love and devotion for God. He also possessed tremendous power — he could
-receive this love and pass it on to others. For the sake of serving Sri Nityananda, Gauridasa gave up the support of his
-class and family. Thus he accepted Sri Chaitanya and Nityananda as the Lords of his whole life”. (CC, Adi 11.26–27)
+“Sri Gauridasa Pandita’s devotion soared with prema; he had great power both to give and to receive love for Krishna. Gauridasa surrendered to Nityananda his caste, his family and his place in his community, and made Sri Chaitanya and Nityananda the Lords of his life”. (CC, Adi 11.26–27)
 
 Vrindavana Dasa Thakura echoes him:
 

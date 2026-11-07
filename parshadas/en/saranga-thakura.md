@@ -8,7 +8,7 @@ known by several names: Sarangadasa, Sharnga Thakura, Sharngapani and Sharngadha
 Krishnadasa Kaviraja Gosvami, listing the branches of Sri Chaitanya's tree in the “Chaitanya-charitamrita,” names him
 alongside Ramadasa, Kavidatta, Sri Gopaladasa and Bhagavatacharya:
 
-“Ramdas, Kavidatta, Sri Gopal Das, Bhagavat Acharya, Thakura Sharanga Das.” (CC, Adi 10.113)
+“Ramadasa, Kavidatta, Sri Gopala Dasa, Bhagavatacharya, Thakura Saranga Dasa;” (CC, Adi 10.113)
 
 Everyone named in this line is a prominent branch of the tree. <!-- F3 Q1 -->
 

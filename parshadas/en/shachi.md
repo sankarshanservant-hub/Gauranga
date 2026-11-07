@@ -5,8 +5,7 @@ Shachi Devi is the mother of Sri Chaitanya Mahaprabhu, the Lord's eternal mother
 queen of Vraja; in Navadvipa she became the one at whose breast the Lord fell asleep, whom He obeyed and before whom He
 was wilful, like any child. Krishnadasa Kaviraja says it in a single line:
 
-“Thus I have briefly told of the descent of Lord Chaitanya. As Krishna became the son of Yashoda, so Sri Chaitanya
-became the son of Shachidevi.” (CC, Adi 14.3)
+“Thus I have given an outline of the Lord’s birth, telling how the son of Yashoda became the son of Shachi” (CC, Adi 14.3)
 
 The fullest account of her life is given by Vrindavana Dasa Thakura in the “Chaitanya-bhagavata”; much is added by the
 “Chaitanya-charitamrita”, by the Sanskrit life written by Murari Gupta and by Lochana Dasa's “Chaitanya-mangala”.
@@ -17,8 +16,7 @@ Shachi was the daughter of Nilambara Chakravarti, a learned brahmana well versed
 husband was Jagannatha Mishra, who had come from Shrihatta, settled in Navadvipa and was known by the title Purandara.
 Krishnadasa Kaviraja introduces her thus:
 
-“His wife, Srimati Shachidevi, was a chaste woman, wholly devoted to her husband. Her father was Nilambara
-Chakravarti.” (CC, Adi 13.60) <!-- F1 F2 F172 Q3 -->
+“His wife, named Shachi, was chaste and wholly devoted to her husband; her father was Nilambara Chakravarti” (CC, Adi 13.60) <!-- F1 F2 F172 Q3 -->
 
 Shachi had a sister, Sarvajaya, the wife of Chandrashekhara Acharyaratna, who was thus the Lord's uncle on His
 mother's side. Even before Mahaprabhu's appearance Chandrashekhara and his wife were constant visitors at Mishra's
@@ -30,17 +28,15 @@ most devoted of nurses. <!-- F46 F67 F93 -->
 Shachi did not come into the world by chance. Before appearing Himself, the Lord sends down to the earth those whom He
 will honour as His parents and elders, and Krishnadasa Kaviraja names her among them twice:
 
-“Madhavendra Puri, Ishvara Puri, Srimati Shachimata and Jagannatha Mishra appeared together with Advaita Acharya.”
+“Madhavendra Puri, Ishvara Puri, Shachi and Jagannatha appeared, and Advaita Acharya appeared along with them”
 (CC, Adi 3.94)
 
-“Sri Shachidevi and Jagannatha Mishra, Sri Madhavendra Puri, Keshava Bharati, Ishvara Puri, Advaita Acharya, Srivasa
-Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa.” (CC, Adi 13.54–55) <!-- F25 F172 -->
+“Sri Shachi and Jagannatha, Sri Madhava Puri, Keshava Bharati and Sri Ishvara Puri, Advaita Acharya and Srivasa Pandita, Acharyaratna, Vidyanidhi and Thakura Haridasa” (CC, Adi 13.54–55) <!-- F25 F172 -->
 
 The first years of the marriage were years of loss. One after another eight daughters were born to Shachi, and not one
 of them lived:
 
-“Before the appearance of Sri Chaitanya eight daughters were born to Shachi and Jagannatha Mishra. But they died
-immediately after birth.” (CC, Adi 13.72)
+“Eight daughters were born one after another to Shachi, the wife of Jagannatha Mishra, and each died soon after her birth” (CC, Adi 13.72)
 
 Jagannatha began to worship Vishnu, praying for a son, and Vishvarupa was born — a manifestation of Baladeva, the
 Sankarshana of the spiritual world (CC, Adi 13.73–74). The boy was beautiful, detached from worldly things from early
@@ -62,8 +58,7 @@ all suffering (CB, Madhya 13.374). <!-- F5 F123 F142 F154 -->
 
 Who she is in the eternal lila is told by Krishnadasa Kaviraja and by Kavi Karnapura:
 
-“The king of Vraja, Nanda Maharaja, has now become the father of Sri Chaitanya, and Yashoda, the queen of Vraja, has
-become His mother, Sri Shachidevi.” (CC, Adi 17.294)
+“He who was the king of Vraja is here Jagannatha, the father; she who was the queen of Vraja is here Shachidevi, the mother” (CC, Adi 17.294)
 
 “Yashoda and the king of Vraja, Nanda, who once in Vrindavana were mines of the rasa of love, became Shachi and
 Jagannatha Purandara — of this there is no doubt. Into them also entered the divine Aditi and Kashyapa, Sri Kaushalya
@@ -80,10 +75,7 @@ the sway of maya, and neither is His mother. <!-- F7 F8 Q1 Q2 I1 -->
 In the month of Magha of the year 1406 of the Shaka era (January 1485) the Lord Himself entered the bodies of Shachi
 and Jagannatha (CC, Adi 13.80). The couple were the first to notice the change:
 
-“One day Jagannatha Mishra said to Shachidevi: ‘I have witnessed an astonishing wonder! Your form radiates such
-effulgence, as if the goddess Lakshmi herself had come to live in our house. Wherever I go, people show me respect and
-of their own accord give me wealth, clothes, rice and much else.’ Shachidevi replied: ‘I too see in the sky the forms
-of divine beings offering prayers.’” (CC, Adi 13.81–83) <!-- F172 -->
+“Mishra said to Shachi, “I see something wonderful. Your body is radiant, and our house has become the abode of Lakshmi. Wherever I go, people honour me, and they send wealth, clothes and rice to our house.” Shachi replied, “And I see beings of divine form appear in the sky above and offer prayers.”” (CC, Adi 13.81–83) <!-- F172 -->
 
 The “Chaitanya-bhagavata” relates that when the Lord entered Shachi and Jagannatha, the couple heard Ananta's cries of
 “Victory! Victory!” and thought they were dreaming. Brahma and the other gods, remaining unseen, came every day to
@@ -127,8 +119,7 @@ Devi's feet, and mother Shachi lost the power of speech for happiness.” (CB, A
 
 Malini did not come alone — with her was Chandrashekhara's wife, Shachi's sister:
 
-“Malini, the wife of Srivasa Thakura, came with the wife of Chandrashekhara and many other women. With great joy they
-honoured the infant, offering Him vermilion, turmeric, oil, puffed rice, coconuts, bananas and other fruits.”
+“Srivasa’s wife, whose name was Malini, came with the wife of Acharyaratna, and the women joyfully worshipped the child with vermilion, turmeric, oil, puffed rice, bananas and many kinds of fruit”
 (CC, Adi 13.110) <!-- F110 F173 -->
 
 Soon, with Advaita's consent, His wife Sita Thakurani came from Shantipura in a covered palanquin with rich gifts.
@@ -145,9 +136,7 @@ and day after day Sita helped to bring Him up. The Lord always treated Sita with
 mother, and therefore Vaishnavas honour Sita equally with Shachi, as a mother of the universe. Krishnadasa Kaviraja sums
 up those days:
 
-“Thus Shachimata and Jagannatha Mishra obtained a son who was the husband of Lakshmi herself. All their desires were
-fulfilled, and from then on their house was always full of wealth and every kind of provision. And as they looked at
-their beloved child, Nimai, their happiness grew day by day.” (CC, Adi 13.119) <!-- F89 F90 F92 F87 F173 -->
+“So Shachi and Jagannatha had gained a son who was the Lord of Lakshmi, and all their desires were fulfilled. Their house was filled with wealth and grain; everyone honoured their child, and day by day their joy grew” (CC, Adi 13.119) <!-- F89 F90 F92 F87 F173 -->
 
 ## The Name “Nimai”
 When the time came for the name-giving, the pandits led by Nilambara Chakravarti, friends and relatives gathered in
@@ -231,10 +220,7 @@ Once Shachi gave her son a tray of puffed rice and sweets, and on returning saw 
 Boy explained to her that sweets are the same earth, only in another form, and that He was being scolded for nothing.
 Shachi answered Him with a simple housewife's wisdom:
 
-“‘When we eat earth in the form of food, it nourishes the body and gives us strength. But if we eat raw earth, the body
-will fall ill and perish. In a jug made of clay I can easily carry water, but if the water is poured out on the ground,
-it simply soaks in and all is wasted.’ The Lord replied: ‘Mother, why did you not tell Me this before? Now I understand
-and will not eat earth any more. When I am hungry, I would rather drink milk from your breast.’” (CC, Adi 14.31–34)
+“Food is earth transformed, and when we eat it, it nourishes the body. But eat earth itself, and disease sets in and the body wastes away. In a pot, which is earth transformed, I fetch water; but try to hold it in a lump of earth, and the water soaks away.” To keep Himself hidden, the Lord said to her, “Mother, why did you not teach Me this before? Now that I know, I will not eat earth any more. When I am hungry, I will drink at your breast.”” (CC, Adi 14.31–34)
 <!-- F174 -->
 
 The men complained of His mischief to His father, and the girls and women to Shachi. The neighbours' daughters came to
@@ -310,12 +296,11 @@ Himself would soon come. <!-- F17 F133 F189 F203 -->
 
 Nimai Himself consoled them:
 
-“‘My brother has become a sannyasi, and this is a great blessing. For by this he will deliver his mother's family and
-his father's. In His place I will serve you.’ These words gladdened the hearts of His parents.” (CC, Adi 15.14–15)
+“‘It is well that Vishvarupa has taken sannyasa: He has delivered both His father’s line and His mother’s. And I Myself will serve you both.’ Hearing this, His father and mother were content at heart.” (CC, Adi 15.14–15)
 
 Once He fell unconscious, and on coming to Himself related that Vishvarupa had called Him to take sannyasa, but He had
 reminded His brother that their parents needed help, and Vishvarupa had brought Him back and asked Him to convey
-“thousands of obeisances to mother Shachi” (CC, Adi 15.16–21). From then on Nimai was always beside His father and
+“millions upon millions of obeisances to Mother” (CC, Adi 15.16–21). From then on Nimai was always beside His father and
 mother, dispelling their sorrow (CB, Adi 7.114). <!-- F176 F133 F189 -->
 
 Vishvarupa, who received in sannyasa the name Shankararanya, left this world in Pandharpur in 1509 (1431 of the Shaka
@@ -371,9 +356,7 @@ say, so I shall do” (CB, Adi 7.183–197), and Nimai joyfully returned to His 
 
 While still a child, Nimai asked His mother for a gift:
 
-“Once, bowing at His mother's feet, Sri Chaitanya asked her for a single gift. His mother said: ‘I will do whatever You
-ask.’ Then Nimai said: ‘Please, mother, do not eat grain on Ekadashi.’ Shachi said: ‘Your words are true. I promise
-that I will no longer eat grain on Ekadashi.’ From then on she fasted on Ekadashi.” (CC, Adi 15.8–10)
+“One day the Lord bowed at His mother’s feet and said, “Mother, grant Me one gift.” “I will give You whatever You ask,” said His mother, and the Lord replied, “Do not eat grain on Ekadashi.” Shachi said, “I will not eat it. You have spoken well.” And from that day on she observed Ekadashi” (CC, Adi 15.8–10)
 
 Lochana Dasa says that He said it in a voice deep as thunder, and His mother's heart was filled with shyness, awe and
 love: “I shall keep Your command,” she said softly. Thus, by instructing His mother, the Lord taught everyone.
@@ -505,8 +488,7 @@ v. 107). <!-- F116 F117 F143 F191 F203 -->
 
 To support His mother and wife, the Lord went to teach in East Bengal. On leaving He said to His mother: “Mother, I am
 setting out on a journey,” and told Lakshmi to serve His mother constantly (CB, Adi 14.50–51). Lakshmi served “Ai” so,
-almost ceasing to eat; but separation from her husband she could not bear: “the snake of separation from Lord Chaitanya
-bit her, and the poison of that snake sent her to the supreme abode” (CC, Adi 16.21). On the bank of the Ganga, placing
+almost ceasing to eat; but separation from her husband she could not bear: “The snake of separation from the Lord bit Lakshmi, and by its poison she passed from this world” (CC, Adi 16.21). On the bank of the Ganga, placing
 the Lord's feet in her heart, she left this world (CB, Adi 14.100–105). Shachi's grief, says Vrindavana Dasa, would have
 melted stones (CB, Adi 14.106). Lochana Dasa gives her lament: “My daughter-in-law Lakshmi was like Lakshmi in all her
 virtues… My son, having appointed you to serve me, went to foreign lands without a care — how shall I, unfortunate one,
@@ -525,8 +507,7 @@ and then He consoled His mother: all creation is in the power of the Supreme —
 is more fortunate than a woman who leaves her body before her husband? (CB, Adi 14.158–188). Krishnadasa Kaviraja says
 that He returned for this very purpose:
 
-“As the Supreme Soul, Sri Chaitanya learned of Lakshmidevi's departure. He at once returned home to console His
-grieving mother.” (CC, Adi 16.22)
+“Dwelling in every heart, the Lord knew of it; and, aware of Shachi’s grief, He returned home” (CC, Adi 16.22)
 
 In Lochana Dasa and Murari Gupta the Lord consoles her with the story of an apsara cursed by Indra to be born on earth,
 who became the wife of an incarnation of God[^10] — and Shachi, having listened to her son, “ceased grieving and thought
@@ -623,7 +604,7 @@ yogamaya, prevailed, and to her He was again only her son. <!-- F149 F34 -->
 
 Soon the mother herself received what He had brought from Gaya. Krishnadasa Kaviraja says it in a single line:
 
-“Then He bestowed love of Krishna upon His mother Shachidevi.” (CC, Adi 17.10)
+“He gave love to Shachi; then He met Advaita, and Advaita beheld His universal form” (CC, Adi 17.10)
 
 Lochana Dasa tells how it happened. Once, lying at home, the Lord wept in the mood of Radha separated from Krishna, who
 had gone away to Mathura, and gave no answer to His mother's questions. Shachi reflected — and by the signs understood
@@ -1279,9 +1260,7 @@ ever separate you and Me”; and He still appears in her house, for where He is 
 [^2]: According to one biography, Devaki and Vasudeva also entered into Shachi and Jagannatha. The
     “Gaura-ganoddesha-dipika” (38) names Aditi, Kaushalya and Prishni, and of Devaki and Vasudeva says only: “Some say”
     (39). In Murari Gupta the gods, praising Shachi, say to her: “You are Devaki, Rohini and Yashoda” (“Kadacha” 1.5.9).
-[^3]: The “Chaitanya-charitamrita” names a different giver of the name: “Touching the baby's head with fresh grass and
-    rice, she [Sita Thakurani] blessed Him with the words: ‘May the life of both brothers be long!’ And to protect Him
-    from witches and evil spirits, she named Him Nimai” (CC, Adi 13.117). The biographies follow now one, now the other
+[^3]: The “Chaitanya-charitamrita” names a different giver of the name: “She placed durva grass and paddy on His head and blessed Him again and again: “May the two brothers live long!” Fearing the witches and evil spirits, she gave Him the name Nimai” (CC, Adi 13.117). The biographies follow now one, now the other
     of these sources: according to some, the name was given by Shachi and the other women or by the neighbours;
     according to others, by Sita.
 [^4]: According to one biography, Shachi and Jagannatha then saw the divine form of Nimai asleep on the snake, like

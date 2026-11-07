@@ -33,7 +33,7 @@ renowned: he and his brothers were pure in character and spotless in people's ey
 a large-hearted man, were beyond counting. Above all there was his faith in Nityananda. Krishnadasa Kaviraja, listing the
 branches of Nityananda's tree, names both brothers together:
 
-“Suryadasa Sarakhela and his brother Krishnadasa had unshakable faith in Nityananda. They were full of love for God.”
+“Suryadasa Sarakhela and his brother Krishnadasa had firm faith in Nityananda and were abodes of love”
 (CC, Adi 11.25) <!-- F20 F21 F22 Q4 -->
 
 Around 1409 of the Shaka era (≈ 1487), says one of the biographies, Jahnava appeared in the world to Bhadravati, the
