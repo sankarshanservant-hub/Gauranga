@@ -9968,6 +9968,256 @@
   ]
  },
  {
+  "from": "@prabodhananda-sarasvati",
+  "type": "guest",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F8",
+   "F9",
+   "F10",
+   "F11",
+   "F12",
+   "F17",
+   "F18",
+   "F19"
+  ],
+  "events": [
+   "ev-srirangam-chaturmasya"
+  ],
+  "note": "Господь четыре месяца чатурмасьи жил в доме братьев в Шрирангаме (ЧЧ Мадхья 9.82 — у Венкаты, 1.108 — у Трималлы; самого Прабодхананды ЧЧ не называет); по Его милости семья обратилась к Радхе-Кришне (БР 1.83–84); «Према-виласа»: «дорог Господу как жизнь», поручение о Гопале."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "disciple",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F3",
+   "F11",
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F34"
+  ],
+  "events": [
+   "ev-hari-bhakti-vilasa",
+   "ev-gopala-bhatta-comes-vrindavana"
+  ],
+  "note": "Племянник (сын брата Венкаты) и ученик: учил его шастрам с детства (БР 1.147–148); дикша — по T и «Анубхашье» (Ади 10.105), «шикша-ученик» — B 607; ХБВ 1.2: «ученик Прабодхананды, дорогого Господу». Гопала пошёл его путём во Врадж (Бхактисиддханта); по «Према-виласе» — Прабодхананда сам отправил его к Рупе и Санатане."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "nephew",
+  "who": "@gopala-bhatta",
+  "facts": [
+   "F3"
+  ]
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "sibling",
+  "who": "@venkata-bhatta",
+  "facts": [
+   "F4",
+   "F5",
+   "F6",
+   "F10"
+  ],
+  "note": "По Бхактисиддханте (по T) — младший брат Венкаты."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "sibling",
+  "who": "@trimalla-bhatta",
+  "facts": [
+   "F4",
+   "F10"
+  ]
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "lineage-predecessor",
+  "who": "@ramanujacharya",
+  "facts": [
+   "F6",
+   "F7"
+  ],
+  "note": "Тридандин линии Рамануджи (ветвь вадагалай), затем последователь Махапрабху."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@prakashananda-sarasvati",
+  "facts": [
+   "F35",
+   "F36",
+   "F37",
+   "F38",
+   "F39",
+   "F40",
+   "F41",
+   "F42",
+   "F43"
+  ],
+  "events": [
+   "ev-varanasi-sannyasis"
+  ],
+  "note": "Тёзка-санньяси майявади из Каши. «Адвайта-пракаша» 17, «Бхакта-мала» Лал Даса, Ашутош Деб, «Абхидхана» отождествляют их; Бхактисиддханта («Анубхашья» Ади 7.149, «Гаудия-бхашья» ЧБ Мадхья 3.37, предисловие к «Чайтанья-чандрамрите»), B и T — другое лицо (север/юг, экаданди/тридандин, хронология 1433/1435 Шака)."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@lala-dasa",
+  "facts": [
+   "F36",
+   "F39"
+  ],
+  "note": "Его бенгальская «Бхакта-мала» — источник мнения о тождестве с Пракашанандой (B: «беспочвенно»)."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@ishana-nagara",
+  "facts": [
+   "F36",
+   "F38"
+  ],
+  "note": "«Адвайта-пракаша» 17.106–118 описывает обращение Прабодхананды-майявади в Каши (ур. D, ⚠Б6)."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F6",
+   "F18",
+   "F19",
+   "F30",
+   "F32",
+   "F34",
+   "F41",
+   "F42"
+  ],
+  "note": "Издал «Чайтанья-чандрамриту» и «Навадвипа-шатаку» с «Гаудия-бхашьей» и предисловием; напечатал «Сангита-мадхаву»; опроверг отождествление с Пракашанандой."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F6"
+  ],
+  "note": "Коммент. к ЧЧ Мадхья 9.82 (по T): три брата прежде — ачарьи Шри-сампрадаи."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F33"
+  ],
+  "note": "ГГД 163: Тунгавидья."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@narahari-chakravarti",
+  "facts": [
+   "F10",
+   "F17",
+   "F34"
+  ],
+  "note": "«Бхакти-ратнакара» 1 — главный рассказ о нём."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F14",
+   "F16"
+  ],
+  "note": "ХБВ 1.2; по «Према-виласе» 18 Прабодхананда послал к нему и Санатане Гопалу с письмом."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F14",
+   "F15",
+   "F16"
+  ],
+  "note": "ХБВ 1.2 и «Диг-даршини»: «бхагават-прия» — величие Прабодхананды (по «Анурага-валли»)."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F34"
+  ],
+  "note": "По его просьбе (через Гопалу Бхатту) Кавирадж не описал его в ЧЧ (T, предисловие Бхактисиддханты)."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F31",
+   "F34"
+  ],
+  "note": "Не назвал его в ЧБ; домысел о «гаура-нагара-вара» как причине (B 607) отвергнут."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@harivamsha",
+  "facts": [
+   "F31"
+  ],
+  "note": "«Вишнуприя-патрика»: Прабодхананда будто бы приютил Харивамшу, отвергнутого Гопалой Бхаттой (B 607 — выдумка)."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F27"
+  ],
+  "note": "Его комментарий к «Уттара-Гопала-тапани» называет прежнего толкователя «Прабодха-яти» — отождествление не установлено."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@nabhadasa",
+  "facts": [
+   "F28"
+  ],
+  "note": "Хинди «Бхактамал», чхаппай 182: среди санньяси-«венцов»."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@vakreshvara",
+  "facts": [
+   "F33"
+  ],
+  "note": "Тунгавидья по паддхати линии Гопалы Гуру ≠ ГГД 163 (Прабодхананда)."
+ },
+ {
+  "from": "@prabodhananda-sarasvati",
+  "type": "other",
+  "who": "@gopala-guru",
+  "facts": [
+   "F2",
+   "F33"
+  ],
+  "note": "Тёзка «Гопала-гуру» (прежнее имя Прабодхананды по B 591) ≠ Гопала Гуру Госвами; M 49: по некоторым он — Тунгавидья."
+ },
+ {
   "from": "@pundarika-vidyanidhi",
   "type": "father",
   "who": "@baneshvara-pundarika",
@@ -14608,6 +14858,285 @@
    "F152"
   ],
   "note": "Гауренду брахмачари — ученик с 1947, слуга более 40 лет, санньяса 1985, ачарья-преемник (см. @govinda-maharaja)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F5",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F29",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F35",
+   "F36",
+   "F37",
+   "F42",
+   "F43",
+   "F44",
+   "F45",
+   "F47",
+   "F48",
+   "F49",
+   "I1",
+   "I2",
+   "I3",
+   "I4"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha",
+   "ev-mahaprakasha-abhisheka",
+   "ev-nagara-kirtana-kazi",
+   "ev-leaving-navadvipa"
+  ],
+  "note": "Дорогой слуга Господа (ЧЧ Ади 10.67): Нимай шутил с ним, торговался, отнимал товар, назвал Себя сыном пастуха и отцом Ганги (ЧБ Ади 12, Мадхья 9) — ⚠Б2, ⚠Б5; на махапракаше Шридхара узрел Кришну и попросил, чтобы «тот брахман» был его Владыкой из жизни в жизнь; после шествия к Кази Господь выпил воду из его дырявого железного сосуда (ЧБ Мадхья 23; ЧЧ Ади 17.70); накануне санньясы вкусил его тыкву (ЧБ Мадхья 28)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F28",
+   "F29"
+  ],
+  "events": [
+   "ev-closed-door-kirtan-scoffers",
+   "ev-mahaprakasha-abhisheka"
+  ],
+  "note": "Участник ночных киртанов у Шривасы (ЧБ Мадхья 8.115); на махапракаше в доме Шривасы его привели к Господу."
+ },
+ {
+  "from": "@shridhara",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F4",
+   "F13",
+   "F46"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Один из двенадцати гопалов, традиционно — спутников Нитьянанды (B 115, 271; T 58); Нитьянанда с Адвайтой возглавлял киртан в его дворе (БР 12, по T); по «Навадвипа-дхама-махатмье» Нитьянанда показывает Дживе его дом — «вишрама-стхана» (⚠2)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F46",
+   "F51",
+   "F52"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha",
+   "ev-shantipura-reunion",
+   "ev-gauda-devotees-set-out-puri"
+  ],
+  "note": "Плакал с Адвайтой в его дворе; встреча с Господом в доме Адвайты в Шантипуре; с преданными Адвайты ходил в Пури."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F39"
+  ],
+  "events": [
+   "ev-haridasa-scars-mahaprakasha"
+  ],
+  "note": "Вместе плакали перед Господом на махапракаше (ЧБ Мадхья 10.34, 10.112)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F39"
+  ],
+  "events": [
+   "ev-haridasa-scars-mahaprakasha"
+  ],
+  "note": "Плакал при милости Господа Харидасу (ЧБ Мадхья 10.112)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F49",
+   "F51"
+  ],
+  "events": [
+   "ev-leaving-navadvipa",
+   "ev-shantipura-reunion"
+  ],
+  "note": "Шачи сварила его тыкву с молоком для Господа накануне санньясы; с ней пришёл в Шантипур."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@gangadasa-pandita",
+  "facts": [
+   "F46"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Плакал от премы в его доме (B 747)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@nandana-acharya",
+  "facts": [
+   "F46",
+   "F51"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha",
+   "ev-shantipura-reunion"
+  ],
+  "note": "Был с Господом в его дворе (B 763); вместе пришли в Шантипур."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@jagadisha-pandita",
+  "facts": [
+   "F46"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Плакал при питье воды в его доме (B 832; ЧБ Мадхья 23.452)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@vakreshvara",
+  "facts": [
+   "F46"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Присутствовал при милости Господа к нему (B 196)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@kashishvara",
+  "facts": [
+   "F46"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Плакал при питье воды (T 140; ЧБ Мадхья 23.451)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F46"
+  ],
+  "events": [
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Плакал при питье воды (T 140)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F53"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Показал его царю Пратапарудре (ЧЧ Мадхья 11.90)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F53"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Видел его среди бенгальских преданных с крыши дворца (ЧЧ Мадхья 11.90)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@chand-kazi",
+  "facts": [
+   "F11",
+   "F40",
+   "F42"
+  ],
+  "events": [
+   "ev-nagara-kirtana-kazi"
+  ],
+  "note": "Дом Шридхары — в миле от самадхи Кази (B; T); в день усмирения Кази Господь пришёл к нему."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F12"
+  ],
+  "note": "Открыл место его дома (Шридхар-ангану) и установил там поклонение Божеству (T 58)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F13"
+  ],
+  "note": "«Навадвипа-дхама-махатмья» описывает его дом как «вишрама-стхану» (T 58)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F13"
+  ],
+  "note": "В «Навадвипа-дхама-махатмье» Нитьянанда показывает Дживе дом Шридхары (T 58)."
+ },
+ {
+  "from": "@shridhara",
+  "type": "companion",
+  "who": "@sundarananda",
+  "facts": [
+   "F4"
+  ],
+  "note": "Вместе в перечне двенадцати гопалов (B 271)."
  },
  {
   "from": "@srinivasa-acharya",

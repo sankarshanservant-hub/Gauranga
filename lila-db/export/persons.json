@@ -4266,6 +4266,10 @@
     "type": "other"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "guest"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
@@ -4300,6 +4304,10 @@
    {
     "from": "@shachi",
     "type": "son"
+   },
+   {
+    "from": "@shridhara",
+    "type": "companion"
    },
    {
     "from": "@srinivasa-acharya",
@@ -7689,6 +7697,10 @@
     "type": "other"
    },
    {
+    "from": "@shridhara",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -10927,6 +10939,10 @@
     "type": "other"
    },
    {
+    "from": "@shridhara",
+    "type": "companion"
+   },
+   {
     "from": "@srivasa",
     "type": "host"
    },
@@ -12292,6 +12308,10 @@
    {
     "from": "@shachi",
     "type": "guru"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -14319,6 +14339,10 @@
     "type": "other"
    },
    {
+    "from": "@shridhara",
+    "type": "other"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "co-worker"
    },
@@ -14814,6 +14838,10 @@
     "type": "friend"
    },
    {
+    "from": "@shridhara",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -15196,6 +15224,10 @@
    {
     "from": "@shachi",
     "type": "guest"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -17190,6 +17222,10 @@
    },
    {
     "from": "@shachi",
+    "type": "other"
+   },
+   {
+    "from": "@shridhara",
     "type": "other"
    }
   ]
@@ -19775,6 +19811,10 @@
     "type": "ruler-of"
    },
    {
+    "from": "@shridhara",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    }
@@ -20718,6 +20758,10 @@
     "type": "other"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "siksha-guru"
    },
@@ -21564,6 +21608,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
    {
@@ -22473,6 +22521,10 @@
     "type": "disciple"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
@@ -23226,6 +23278,14 @@
     "type": "guru"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -23289,6 +23349,164 @@
    "ev-gauda-devotees-arrive-puri",
    "ev-kuliya-shachi-meeting",
    "ev-gauda-devotees-yearly-visit"
+  ],
+  "summary": "в Кришна-лиле — Кусумасава, шутник во Врадже (ГГД 133) и др.; происхождение — Навадвипа; уход — пурнима месяца Тривикрамы, день Снана-ятры — по нашему календарю",
+  "card": "parshadas/cards/shridhara.yaml",
+  "article": {
+   "ru": "parshadas/ru/shridhara.md",
+   "en": "parshadas/en/shridhara.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#navadvipa",
+    "conf": "день, год и место явления источники не называют (B, T, M); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-07) дня явления нет",
+    "facts": [
+     "F54"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "пурнима месяца Тривикрамы (≈ джьяиштха), день Снана-ятры — по нашему календарю (29.06.2026)",
+    "conf": "B, T, M дат не дают; календарь ШЧСМ (541/ru): «День ухода Шрилы Шридхара Пандита» — вместе с уходом Мукунды Датты; «Шридхара Пандит» календаря — он (ГГД 133, T: «Шридхара Пандит, Кхола-веча»); год и место ухода неизвестны",
+    "facts": [
+     "F54"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Кусумасава, шутник во Врадже",
+    "source": "ГГД 133",
+    "level": "A",
+    "variants": [
+     "Таблица издателей «Карчи» Говинды Даса (1926, ур. D): «Шридхара — Судама»; о нём ли — неясно (F63, ⚠4)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "один из двенадцати гопалов — друзей-пастушков Враджа",
+    "source": "ГГД 126–133; T 58; B 115, 271",
+    "level": "A",
+    "variants": [
+     "ЧЧ Ади 10.67: двадцать девятая ветвь древа Чайтаньи (не Нитьянанды) (⚠2)."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "двадцать девятая ветвь древа Шри Чайтаньи, дорогой слуга Господа",
+    "source": "ЧЧ Ади 10.67–68",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Дорогой слуга Господа (ЧЧ Ади 10.67): Нимай шутил с ним, торговался, отнимал товар, назвал Себя сыном пастуха и отцом Ганги (ЧБ Ади 12, Мадхья 9) — ⚠Б2, ⚠Б5; на махапракаше Шридхара узрел Кришну и попросил, чтобы «тот брахман» был его Владыкой из жизни в жизнь; после шествия к Кази Господь выпил воду из его дырявого железного сосуда (ЧБ Мадхья 23; ЧЧ Ади 17.70); накануне санньясы вкусил его тыкву (ЧБ Мадхья 28)."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Участник ночных киртанов у Шривасы (ЧБ Мадхья 8.115); на махапракаше в доме Шривасы его привели к Господу."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Один из двенадцати гопалов, традиционно — спутников Нитьянанды (B 115, 271; T 58); Нитьянанда с Адвайтой возглавлял киртан в его дворе (БР 12, по T); по «Навадвипа-дхама-махатмье» Нитьянанда показывает Дживе его дом — «вишрама-стхана» (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Плакал с Адвайтой в его дворе; встреча с Господом в доме Адвайты в Шантипуре; с преданными Адвайты ходил в Пури."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "Вместе плакали перед Господом на махапракаше (ЧБ Мадхья 10.34, 10.112)."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Плакал при милости Господа Харидасу (ЧБ Мадхья 10.112)."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "Шачи сварила его тыкву с молоком для Господа накануне санньясы; с ней пришёл в Шантипур."
+   },
+   {
+    "type": "other",
+    "who": "@gangadasa-pandita",
+    "note": "Плакал от премы в его доме (B 747)."
+   },
+   {
+    "type": "other",
+    "who": "@nandana-acharya",
+    "note": "Был с Господом в его дворе (B 763); вместе пришли в Шантипур."
+   },
+   {
+    "type": "other",
+    "who": "@jagadisha-pandita",
+    "note": "Плакал при питье воды в его доме (B 832; ЧБ Мадхья 23.452)."
+   },
+   {
+    "type": "other",
+    "who": "@vakreshvara",
+    "note": "Присутствовал при милости Господа к нему (B 196)."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "Плакал при питье воды (T 140; ЧБ Мадхья 23.451)."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Плакал при питье воды (T 140)."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-acharya",
+    "note": "Показал его царю Пратапарудре (ЧЧ Мадхья 11.90)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Видел его среди бенгальских преданных с крыши дворца (ЧЧ Мадхья 11.90)."
+   },
+   {
+    "type": "other",
+    "who": "@chand-kazi",
+    "note": "Дом Шридхары — в миле от самадхи Кази (B; T); в день усмирения Кази Господь пришёл к нему."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Открыл место его дома (Шридхар-ангану) и установил там поклонение Божеству (T 58)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Навадвипа-дхама-махатмья» описывает его дом как «вишрама-стхану» (T 58)."
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "В «Навадвипа-дхама-махатмье» Нитьянанда показывает Дживе дом Шридхары (T 58)."
+   },
+   {
+    "type": "companion",
+    "who": "@sundarananda",
+    "note": "Вместе в перечне двенадцати гопалов (B 271)."
+   }
   ],
   "related_by": [
    {
@@ -23612,6 +23830,10 @@
    {
     "from": "@nityananda",
     "type": "host"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -24071,6 +24293,10 @@
    },
    {
     "from": "@shachi",
+    "type": "other"
+   },
+   {
+    "from": "@shridhara",
     "type": "other"
    },
    {
@@ -24617,6 +24843,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "uncle"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
+    "type": "sibling"
    }
   ]
  },
@@ -25852,6 +26082,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    }
   ]
  },
@@ -26291,6 +26525,14 @@
     "type": "other"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "disciple"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
+    "type": "nephew"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "companion"
    },
@@ -26633,6 +26875,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    },
    {
     "from": "@svarupa-damodara",
@@ -28722,6 +28968,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@shridhara",
+    "type": "companion"
    }
   ]
  },
@@ -29149,6 +29399,10 @@
    },
    {
     "from": "@narahari-sarakara",
+    "type": "other"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
    {
@@ -31055,6 +31309,10 @@
    {
     "from": "@damodara-pandita",
     "type": "met"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
    }
   ]
  },
@@ -32274,6 +32532,10 @@
     "type": "other"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "companion"
    },
@@ -32310,6 +32572,10 @@
     "type": "other"
    },
    {
+    "from": "@shridhara",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "siksha-guru"
    },
@@ -32323,7 +32589,7 @@
   "id": "@prabodhananda-sarasvati",
   "ru": "Прабодхананда Сарасвати",
   "en": "Prabodhananda Sarasvati",
-  "note": "санньяси в Каши, обращённый Господом («Адвайта-пракаша» отождествляет с Пракашанандой ЧЧ; Бхактисиддханта («Анубхашья», Ади 7) это отвергает — см. @prakashananda-sarasvati)",
+  "note": "тридандин из рода Бхатт Шрирангама (Шри-сампрадая), брат Венкаты и Трималлы, дядя и гуру Гопалы Бхатты; позже в Камьяване; автор «Чайтанья-чандрамриты»; ГГД 163 — Тунгавидья. «Адвайта-пракаша» и Лал Дас отождествляют его с @prakashananda-sarasvati; Бхактисиддханта («Анубхашья», Ади 7.149) это отвергает",
   "section": "Спутники",
   "lilas": [
    "brt-0002",
@@ -32333,7 +32599,6 @@
    "anv-0005",
    "brt-0004",
    "apr-0115",
-   "gkd-0152",
    "brt-0005",
    "anv-0004",
    "pvl-0134"
@@ -32342,6 +32607,228 @@
    "ev-srirangam-chaturmasya",
    "ev-varanasi-sannyasis",
    "ev-hari-bhakti-vilasa"
+  ],
+  "summary": "в Кришна-лиле — Тунгавидья, одна из восьми сакхи Радхи, «знаток… (ГГД 163); происхождение — Майсур; самадхи — Калия-храда (Калия-даха)",
+  "card": "parshadas/cards/prabodhananda-sarasvati.yaml",
+  "article": {
+   "ru": "parshadas/ru/prabodhananda-sarasvati.md",
+   "en": "parshadas/en/prabodhananda-sarasvati.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "vrindavana",
+   "goswamis"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "conf": "день, год и место явления неизвестны (T, B, M их не дают); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-11-07) его дня явления нет",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "place": "#kaliya-hrada?",
+    "conf": "день и год ухода неизвестны; в календаре ШЧСМ дня ухода нет; место — лишь по самадхи у Калия-дахи (только B 767)",
+    "facts": [
+     "F20"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#kaliya-hrada",
+     "facts": [
+      "F20"
+     ],
+     "note": "Только B: самадхи отмечено у Калия-дахи во Вриндаване."
+    }
+   ]
+  },
+  "works": [
+   {
+    "title": "«Шри Чайтанья-чандрамрита» (143 шлоки, 12 разделов) — B, T, «Анубхашья», «Вайшнава-ванданы», колофон",
+    "facts": [
+     "F22",
+     "F31",
+     "F32"
+    ]
+   },
+   {
+    "title": "«Радха-раса-судханидхи» — B, T, «Анубхашья»; авторство оспаривала другая сампрадая (B: подлог в джайпурской рукописи)",
+    "facts": [
+     "F23",
+     "F24",
+     "F37",
+     "F40"
+    ]
+   },
+   {
+    "title": "«Вриндавана-махимамрита» (B) = «Вриндавана-шатака» (T, «Анубхашья»)",
+    "facts": [
+     "F25",
+     "F28"
+    ]
+   },
+   {
+    "title": "«Навадвипа-шатака» — B, T, «Анубхашья»; изд. Бхактисиддханты",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "title": "«Сангита-мадхава» — B, T (по Ауфрехту; напечатана в «Саджджана-тошани», т. 18)",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "title": "«Ашчарья-раса-прабандха» — B, T",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "title": "«Вивека-шатака» — по Ауфрехту (B, T)",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "title": "толкования «Шрути-стути», «Гита-говинды», «Кама-биджи — Кама-гаятри» — только T",
+    "facts": [
+     "F25"
+    ]
+   },
+   {
+    "title": "«Кришна-валлабха» к «Гопала-тапани-шрути» — рукопись с его колофоном (B 617); «Прабодха-яти» у Дживы (B 586) — не установлено",
+    "facts": [
+     "F26",
+     "F27"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Тунгавидья, одна из восьми сакхи Радхи, «знаток всех шастр»",
+    "source": "ГГД 163",
+    "level": "A",
+    "variants": [
+     "Паддхати Дхьяначандры (линия Гопалы Гуру): Тунгавидья — Вакрешвара (M 238; B 201–202)",
+     "M 49: по некоторым — Гопала Гуру Госвами"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guest",
+    "who": "@mahaprabhu",
+    "note": "Господь четыре месяца чатурмасьи жил в доме братьев в Шрирангаме (ЧЧ Мадхья 9.82 — у Венкаты, 1.108 — у Трималлы; самого Прабодхананды ЧЧ не называет); по Его милости семья обратилась к Радхе-Кришне (БР 1.83–84); «Према-виласа»: «дорог Господу как жизнь», поручение о Гопале."
+   },
+   {
+    "type": "disciple",
+    "who": "@gopala-bhatta",
+    "note": "Племянник (сын брата Венкаты) и ученик: учил его шастрам с детства (БР 1.147–148); дикша — по T и «Анубхашье» (Ади 10.105), «шикша-ученик» — B 607; ХБВ 1.2: «ученик Прабодхананды, дорогого Господу». Гопала пошёл его путём во Врадж (Бхактисиддханта); по «Према-виласе» — Прабодхананда сам отправил его к Рупе и Санатане."
+   },
+   {
+    "type": "nephew",
+    "who": "@gopala-bhatta"
+   },
+   {
+    "type": "sibling",
+    "who": "@venkata-bhatta",
+    "note": "По Бхактисиддханте (по T) — младший брат Венкаты."
+   },
+   {
+    "type": "sibling",
+    "who": "@trimalla-bhatta"
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@ramanujacharya",
+    "note": "Тридандин линии Рамануджи (ветвь вадагалай), затем последователь Махапрабху."
+   },
+   {
+    "type": "other",
+    "who": "@prakashananda-sarasvati",
+    "note": "Тёзка-санньяси майявади из Каши. «Адвайта-пракаша» 17, «Бхакта-мала» Лал Даса, Ашутош Деб, «Абхидхана» отождествляют их; Бхактисиддханта («Анубхашья» Ади 7.149, «Гаудия-бхашья» ЧБ Мадхья 3.37, предисловие к «Чайтанья-чандрамрите»), B и T — другое лицо (север/юг, экаданди/тридандин, хронология 1433/1435 Шака)."
+   },
+   {
+    "type": "other",
+    "who": "@lala-dasa",
+    "note": "Его бенгальская «Бхакта-мала» — источник мнения о тождестве с Пракашанандой (B: «беспочвенно»)."
+   },
+   {
+    "type": "other",
+    "who": "@ishana-nagara",
+    "note": "«Адвайта-пракаша» 17.106–118 описывает обращение Прабодхананды-майявади в Каши (ур. D, ⚠Б6)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "Издал «Чайтанья-чандрамриту» и «Навадвипа-шатаку» с «Гаудия-бхашьей» и предисловием; напечатал «Сангита-мадхаву»; опроверг отождествление с Пракашанандой."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Коммент. к ЧЧ Мадхья 9.82 (по T): три брата прежде — ачарьи Шри-сампрадаи."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "ГГД 163: Тунгавидья."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "«Бхакти-ратнакара» 1 — главный рассказ о нём."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "ХБВ 1.2; по «Према-виласе» 18 Прабодхананда послал к нему и Санатане Гопалу с письмом."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "ХБВ 1.2 и «Диг-даршини»: «бхагават-прия» — величие Прабодхананды (по «Анурага-валли»)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "По его просьбе (через Гопалу Бхатту) Кавирадж не описал его в ЧЧ (T, предисловие Бхактисиддханты)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Не назвал его в ЧБ; домысел о «гаура-нагара-вара» как причине (B 607) отвергнут."
+   },
+   {
+    "type": "other",
+    "who": "@harivamsha",
+    "note": "«Вишнуприя-патрика»: Прабодхананда будто бы приютил Харивамшу, отвергнутого Гопалой Бхаттой (B 607 — выдумка)."
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "Его комментарий к «Уттара-Гопала-тапани» называет прежнего толкователя «Прабодха-яти» — отождествление не установлено."
+   },
+   {
+    "type": "other",
+    "who": "@nabhadasa",
+    "note": "Хинди «Бхактамал», чхаппай 182: среди санньяси-«венцов»."
+   },
+   {
+    "type": "other",
+    "who": "@vakreshvara",
+    "note": "Тунгавидья по паддхати линии Гопалы Гуру ≠ ГГД 163 (Прабодхананда)."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru",
+    "note": "Тёзка «Гопала-гуру» (прежнее имя Прабодхананды по B 591) ≠ Гопала Гуру Госвами; M 49: по некоторым он — Тунгавидья."
+   }
   ],
   "related_by": [
    {
@@ -35303,6 +35790,10 @@
     "type": "disciple"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -36039,6 +36530,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "disciple"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
    }
   ]
  },
@@ -36640,6 +37135,10 @@
    },
    {
     "from": "@narahari-sarakara",
+    "type": "other"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
    {
@@ -38550,6 +39049,10 @@
     "type": "other"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "other"
    },
@@ -38576,6 +39079,10 @@
    {
     "from": "@shridhara-maharaja",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -38685,6 +39192,10 @@
     "type": "other"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
@@ -38719,6 +39230,10 @@
    {
     "from": "@shridhara-maharaja",
     "type": "guru"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -41710,6 +42225,10 @@
     "type": "father"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "sibling"
+   },
+   {
     "from": "@ramanujacharya",
     "type": "lineage-successor"
    }
@@ -42923,6 +43442,10 @@
    {
     "from": "@shachi",
     "type": "neighbor"
+   },
+   {
+    "from": "@shridhara",
+    "type": "other"
    }
   ]
  },
@@ -43856,6 +44379,10 @@
     "type": "opposed"
    },
    {
+    "from": "@shridhara",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -44724,6 +45251,7 @@
    "cc-0351",
    "cc-0080",
    "cc-3117",
+   "gkd-0152",
    "cc-3118",
    "cc-3119",
    "cc-0081",
@@ -44740,6 +45268,10 @@
    "ev-varanasi-sannyasis"
   ],
   "related_by": [
+   {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
    {
     "from": "@sanatana-gosvami",
     "type": "other"
@@ -45757,6 +46289,10 @@
    },
    {
     "from": "@jiva-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
    {
@@ -49483,6 +50019,10 @@
     "type": "other"
    },
    {
+    "from": "@prabodhananda-sarasvati",
+    "type": "lineage-predecessor"
+   },
+   {
     "from": "@yamunacharya",
     "type": "lineage-successor"
    }
@@ -50289,6 +50829,36 @@
   "related_by": [
    {
     "from": "@srinivasa-acharya",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@lala-dasa",
+  "ru": "Лал Дас (Лаладас Бабаджи)",
+  "en": "Lal Dasa (Laladasa Babaji)",
+  "note": "автор бенгальской «Бхакта-малы» (XIX в.?), отождествившей @prakashananda-sarasvati с @prabodhananda-sarasvati (B 607, 768)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@nabhadasa",
+  "ru": "Набхадас (Набхаджи)",
+  "en": "Nabhadasa (Nabhaji)",
+  "note": "рамананди, автор хинди «Бхактамала» (ок. 1600); чхаппай 182 называет Прабодхананду (`vallabha/ru/03.md`; B 768)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@prabodhananda-sarasvati",
     "type": "other"
    }
   ]
