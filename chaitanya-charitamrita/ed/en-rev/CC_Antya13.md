@@ -206,7 +206,7 @@ on them  lying  does  the Lord  seeing  all  happy
 jagadānanda — bhitara-bāhire mahā-duḥkhī  
 Jagadānanda  inwardly and outwardly  very  unhappy
 
-(20) The Lord lay on them, and seeing this, everyone was happy. But Jagadānanda remained deeply unhappy, inwardly and outwardly.[^6]
+(20) The Lord lay on them, and seeing this, everyone was happy. But Jagadānanda remained deeply unhappy through and through.[^6]
 
 পূর্ব্বে জগদানন্দের ইচ্ছা বৃন্দাবন যাইতে ৷  
 প্রভু আজ্ঞা না দেন তাঁরে, না পারে চলিতে ॥ ২১ ॥
