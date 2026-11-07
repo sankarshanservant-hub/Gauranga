@@ -96,7 +96,7 @@
 
 ## 28
 
-*“Krodhe yāha” bali* — saying, “You are going in anger.”
+*“Krodhe yāha” bali* — saying, “Go in anger.”
 
 ## 29
 
@@ -384,7 +384,7 @@ The *Kāvya-prakāśa* is a well-known treatise on poetic ornament (an *alaṅk�
 
 > Subheading: The Lord tells him to go back to Kāśī and serve the Vaiṣṇavas, and, for the sake of Kṛṣṇa's service, to study the spiritual *Bhāgavatam* only from a *bhāgavata* who is free of *anarthas* and intent on Kṛṣṇa's happiness —
 
-Here the *ācārya*, the teacher of the world and instructor of the people, through Śrī Raghunātha Bhaṭṭa told the *sādhaka* to serve his father and mother if they are Vaiṣṇavas wholly devoted to Gaura, the Supreme, and to serve them only in a way that helps his own service of Hari. He did not tell every servant who seeks to serve Kṛṣṇa to serve a father and mother who are averse to Hari, guru and the Vaiṣṇavas. In this connection two verses should be considered. (*Śrīmad-Bhāgavatam* 5.5.18): “He is no guru, he is no kinsman, he is no father, she is no mother, that is no deity and he is no husband, who does not free from death one who has come to him.” And: “One who desires *bhakti*, O sage, should perform only those acts, worldly or Vedic, that are favourable to service of Hari.”[^113-1]
+Here the *ācārya*, the teacher of the world and instructor of the people, through Śrī Raghunātha Bhaṭṭa told the *sādhaka* to serve his father and mother if they are Vaiṣṇavas wholly devoted to Gaura, the Supreme, and to serve them only in a way that helps his own service of Hari. He did not tell every servant who seeks to serve Kṛṣṇa to serve a father and mother who are averse to Hari, guru and the Vaiṣṇavas. In this connection two verses should be considered. (*Śrīmad-Bhāgavatam* 5.5.18): “He is no guru, he is no kinsman, he is no father, she is no mother, that is no deity and he is no husband, who does not free from death one to whom it has drawn near.” And: “One who desires *bhakti*, O sage, should perform only those acts, worldly or Vedic, that are favourable to service of Hari.”[^113-1]
 
 Whoever goes to a non-Vaiṣṇava grammarian to read the *Bhāgavatam* will read and hear only a work of mundane poetry. For all such readers are themselves unable to grasp the purport of the *Bhāgavatam*, and so they enjoy *saṁsāra* — how could they free others from *anarthas*? The *mahā-bhāgavata* Vaiṣṇavas are freed from the bonds of home. Therefore they themselves become “*bhāgavatas*,” know the true meaning of the *Bhāgavatam*, and by the power of *bhakti* are free from *saṁsāra*.
 
