@@ -106,7 +106,7 @@ of lying down  at the time  Svarūpa  right there  stayed
 tūli-bāliśa dekhi’ prabhu krodhāviṣṭa hailā  
 mattress  pillow  seeing  the Lord  filled with anger  became
 
-(10) At bedtime Svarūpa stayed right there. But when the Lord saw the mattress and pillow, He became angry.
+(10) At bedtime Svarūpa stayed close by. But when the Lord saw the mattress and pillow, He became angry.
 
 গোবিন্দেরে পুছেন, — ইহা করাইল কোন্ জন ?  
 জগদানন্দের নাম শুনি’ সঙ্কোচ হৈল মন ॥ ১১ ॥
@@ -466,7 +466,7 @@ of Sanātana  in the cave  both  stay  in one  place
 paṇḍita pāka karena devālaye yāi’  
 the Paṇḍita  cooking  does  to a temple  going
 
-(46) The two lived together in Sanātana’s cave, and the Paṇḍita would go to a temple to cook.[^14]
+(46) They lived together in Sanātana’s cave, and the Paṇḍita would go to a temple to cook.[^14]
 
 সনাতন ভিক্ষা করেন যাই’ মহাবনে ৷  
 কভু দেবালয়ে, কভু ব্রাহ্মণ-সদনে ॥ ৪৭ ॥
@@ -486,7 +486,7 @@ Sanātana  of the Paṇḍita  does  service
 mahāvane dena āni’ māgi’ anna-pāna  
 in Mahāvana  gives  bringing  begging  food and drink
 
-(48) Sanātana looked after all the Paṇḍita’s needs. In Mahāvana he would beg food and drink, bring it and give it to him.
+(48) Sanātana looked after all the Paṇḍita’s needs: he would beg food and drink in Mahāvana and bring them to him.
 
 একদিন সনাতনে পণ্ডিত নিমন্ত্রিলা ৷  
 নিত্য-কৃত্য করি’ তেঁহ পাক চড়াইলা ॥ ৪৯ ॥
@@ -526,7 +526,7 @@ red  cloth  seeing  the Paṇḍita  overwhelmed with love  became
 ‘mahāprabhura prasāda’ jāni’ tām̐hāre puchilā  
 of Mahāprabhu  the gift  thinking  him  asked
 
-(52) Seeing the red cloth, the Paṇḍita was overwhelmed with love, for he took it to be Mahāprabhu’s gift (prasāda), and he asked him:
+(52) Seeing the red cloth, the Paṇḍita took it for Mahāprabhu’s gift (prasāda) and was overwhelmed with love. He asked him:
 
 কাঁহা পাইলা তুমি এই রাতুল বসন ?  
 ‘মুকুন্দ-সরস্বতী’ দিল, — কহেন সনাতন ॥ ৫৩ ॥
@@ -566,7 +566,7 @@ you  of Mahāprabhu  are  of the associates  the chief
 tomā-sama mahāprabhura priya nāhi āna  
 like you  to Mahāprabhu  dear  there is not  another
 
-(56) “You are one of Mahāprabhu’s chief associates. No one else is as dear to Mahāprabhu as you.
+(56) “You are one of Mahāprabhu’s chief associates. No one else is as dear to Him as you.
 
 অন্য সন্ন্যাসীর বস্ত্র তুমি ধর শিরে ৷  
 কোন্ ঐছে হয়, — ইহা পারে সহিবারে ? ॥ ৫৭ ॥
@@ -636,7 +636,7 @@ prasāda  taking  the two  made  embrace
 caitanya-virahe dum̐he karilā krandana  
 from Caitanya  in separation  both  did  weeping
 
-(63) After taking prasāda, the two embraced and wept in separation from Caitanya.
+(63) After taking prasāda they embraced, and both wept in separation from Caitanya.
 
 এইমত মাস দুই রহিলা বৃন্দাবনে ৷  
 চৈতন্যবিরহ-দুঃখ না যায় সহনে ॥ ৬৪ ॥
@@ -906,7 +906,7 @@ Kāśī  from  set out  he  of Gauḍa  the road  by
 saṅge sevaka cale tām̐ra jhāli vahiyā  
 with him  a servant  goes  his  bag  carrying
 
-(90) He set out from Kāśī by the road through Gauḍa, and a servant went with him, carrying his bag.[^25]
+(90) He travelled from Kāśī by the road through Gauḍa, and a servant went with him, carrying his bag.[^25]
 
 পথে তারে মিলিলা বিশ্বাস-রামদাস ৷  
 বিশ্বাসখানার কায়স্থ তেঁহো রাজার বিশ্বাস ॥ ৯১ ॥
@@ -1156,7 +1156,7 @@ embrace  making  the Lord  farewell  to him  gave
 preme gara gara bhaṭṭa kāndite lāgilā  
 with love  overflowing  the Bhaṭṭa  to weep  began
 
-(115) Embracing him, the Lord bade him farewell, and the Bhaṭṭa, overflowing with love, began to weep.
+(115) The Lord embraced him and sent him on his way, and the Bhaṭṭa, overflowing with love, began to weep.
 
 স্বরূপ-আদি ভক্ত ঠাঞি আজ্ঞা মাগিয়া ৷  
 বারাণসী আইলা ভট্ট প্রভুর আজ্ঞা পাঞা ॥ ১১৬ ॥
@@ -1186,7 +1186,7 @@ father  mother  Kāśī  when they attained  detached  becoming
 punaḥ prabhura ṭhāñi āilā gṛhādi chāḍiyā  
 again  the Lord’s  to  came  home and all  leaving
 
-(118) When his father and mother departed this world at Kāśī, he became detached, left home and all, and came to the Lord again.
+(118) When his father and mother departed this world at Kāśī, he became detached, left house and home and came to the Lord again.
 
 পূর্ব্ববৎ অষ্টমাস প্রভু-পাশ ছিলা ৷  
 অষ্টমাস রহি’ পুনঃ প্রভু আজ্ঞা দিলা ॥ ১১৯ ॥
@@ -1356,7 +1356,7 @@ Mahāprabhu’s  by the mercy  for Kṛṣṇa  love  unrestrained
 ei ta’ kahilum̐ tāte caitanya-kṛpā-phala  
 this  indeed  I have told  in it  Caitanya’s  mercy  fruit
 
-(135) By Mahāprabhu’s mercy his love for Kṛṣṇa flowed unrestrained. This I have told; in it is the fruit of Caitanya’s mercy.
+(135) By Mahāprabhu’s mercy his love for Kṛṣṇa flowed unrestrained. In this, as I have told, lies the fruit of Caitanya’s mercy.
 
 জগদানন্দের কহিলুঁ বৃন্দাবনগমন ৷  
 তার মধ্যে দেবদাসীর গান-শ্রবণ ॥ ১৩৬ ॥

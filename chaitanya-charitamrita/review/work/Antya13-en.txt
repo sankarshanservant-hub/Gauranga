@@ -58,7 +58,7 @@ tr: Jagadānanda said to Svarūpa Gosāñi, “Today please go yourself and have
 ## 10
 w: of lying down  at the time  Svarūpa  right there  stayed
 w: mattress  pillow  seeing  the Lord  filled with anger  became
-tr: At bedtime Svarūpa stayed right there. But when the Lord saw the mattress and pillow, He became angry.
+tr: At bedtime Svarūpa stayed close by. But when the Lord saw the mattress and pillow, He became angry.
 
 ## 11
 w: Govinda  He asks  this  had made  which  person
@@ -249,7 +249,7 @@ tr: Sanātana showed him the twelve forests, and after seeing Mahāvana the two 
 ## 46
 w: of Sanātana  in the cave  both  stay  in one  place
 w: the Paṇḍita  cooking  does  to a temple  going
-tr: The two lived together in Sanātana’s cave, and the Paṇḍita would go to a temple to cook.
+tr: They lived together in Sanātana’s cave, and the Paṇḍita would go to a temple to cook.
 fn: *Amṛta-pravāha-bhāṣya* (on 46–47): Sanātana then lived on pieces of flatbread received as *mādhukarī* alms, while Jagadānanda could not do without rice day after day and so went to cook at a temple: the temples of Vraja did not cook rice and dal as prasāda.
 
 ## 47
@@ -260,7 +260,7 @@ tr: Sanātana would go begging in Mahāvana—sometimes at a temple, sometimes a
 ## 48
 w: Sanātana  of the Paṇḍita  does  service
 w: in Mahāvana  gives  bringing  begging  food and drink
-tr: Sanātana looked after all the Paṇḍita’s needs. In Mahāvana he would beg food and drink, bring it and give it to him.
+tr: Sanātana looked after all the Paṇḍita’s needs: he would beg food and drink in Mahāvana and bring them to him.
 
 ## 49
 w: one  day  Sanātana  the Paṇḍita  invited
@@ -281,7 +281,7 @@ fn: Heading in the edition: wearing on his head the cloth given by a sannyāsī,
 ## 52
 w: red  cloth  seeing  the Paṇḍita  overwhelmed with love  became
 w: of Mahāprabhu  the gift  thinking  him  asked
-tr: Seeing the red cloth, the Paṇḍita was overwhelmed with love, for he took it to be Mahāprabhu’s gift (prasāda), and he asked him:
+tr: Seeing the red cloth, the Paṇḍita took it for Mahāprabhu’s gift (prasāda) and was overwhelmed with love. He asked him:
 
 ## 53
 w: where  did you get  you  this  red  cloth
@@ -302,7 +302,7 @@ fn: *Anubhāṣya*: *jāni*, “making him understand,” or “knowing that the
 ## 56
 w: you  of Mahāprabhu  are  of the associates  the chief
 w: like you  to Mahāprabhu  dear  there is not  another
-tr: “You are one of Mahāprabhu’s chief associates. No one else is as dear to Mahāprabhu as you.
+tr: “You are one of Mahāprabhu’s chief associates. No one else is as dear to Him as you.
 
 ## 57
 w: another  sannyāsī’s  cloth  you  wear  on the head
@@ -339,7 +339,7 @@ tr: When he had finished cooking, Jagadānanda offered the food to Caitanya, and
 ## 63
 w: prasāda  taking  the two  made  embrace
 w: from Caitanya  in separation  both  did  weeping
-tr: After taking prasāda, the two embraced and wept in separation from Caitanya.
+tr: After taking prasāda they embraced, and both wept in separation from Caitanya.
 
 ## 64
 w: in this way  months  two  stayed  in Vṛndāvana
@@ -480,7 +480,7 @@ fn: Heading in the edition: the story of Raghunātha Bhaṭṭa Gosvāmī, who f
 ## 90
 w: Kāśī  from  set out  he  of Gauḍa  the road  by
 w: with him  a servant  goes  his  bag  carrying
-tr: He set out from Kāśī by the road through Gauḍa, and a servant went with him, carrying his bag.
+tr: He travelled from Kāśī by the road through Gauḍa, and a servant went with him, carrying his bag.
 fn: The Gauḍīya Maṭha edition (p. 1007) reads *vahiyā*, “carrying”; another reading is *sājāñā*, “having packed.”
 
 ## 91
@@ -615,7 +615,7 @@ tr: Come to Nīlācala once more.” Saying this, the Lord took the garland from
 ## 115
 w: embrace  making  the Lord  farewell  to him  gave
 w: with love  overflowing  the Bhaṭṭa  to weep  began
-tr: Embracing him, the Lord bade him farewell, and the Bhaṭṭa, overflowing with love, began to weep.
+tr: The Lord embraced him and sent him on his way, and the Bhaṭṭa, overflowing with love, began to weep.
 
 ## 116
 w: Svarūpa  and others  devotees  from  leave  asking
@@ -630,7 +630,7 @@ tr: For four years he served his father and mother at home, and he studied the *
 ## 118
 w: father  mother  Kāśī  when they attained  detached  becoming
 w: again  the Lord’s  to  came  home and all  leaving
-tr: When his father and mother departed this world at Kāśī, he became detached, left home and all, and came to the Lord again.
+tr: When his father and mother departed this world at Kāśī, he became detached, left house and home and came to the Lord again.
 
 ## 119
 w: as before  eight  months  the Lord  near  he stayed
@@ -722,7 +722,7 @@ fn: *Anubhāṣya*: *mananera kāle*, “at the time of remembrance (*smaraṇa*
 ## 135
 w: Mahāprabhu’s  by the mercy  for Kṛṣṇa  love  unrestrained
 w: this  indeed  I have told  in it  Caitanya’s  mercy  fruit
-tr: By Mahāprabhu’s mercy his love for Kṛṣṇa flowed unrestrained. This I have told; in it is the fruit of Caitanya’s mercy.
+tr: By Mahāprabhu’s mercy his love for Kṛṣṇa flowed unrestrained. In this, as I have told, lies the fruit of Caitanya’s mercy.
 
 ## 136–137
 w: Jagadānanda’s  I have told  to Vṛndāvana  going
