@@ -126,7 +126,7 @@ tr: Weeping, Śivānanda’s wife said to him, “Finding no lodging, Gosāñi h
 ## 23
 w: he  says  crazy woman  why  are you dying  weeping
 w: may they die  my  three  sons  His  misfortunes  taking (upon themselves)
-tr: He said, “Crazy woman, why are you killing yourself with weeping? Let my three sons die, taking His misfortunes upon themselves!”
+tr: He said, “Crazy woman, why weep yourself to death? Let my three sons die, taking His misfortunes upon themselves!”
 fn: *Tāṅra bālāi laña*, “taking His misfortunes upon themselves”: an expression of loving devotion, wishing that every ill that threatens the beloved may fall upon oneself. *Anubhāṣya*: *bāuli* means “crazy woman”; another reading is *bāunī*, “brāhmaṇa lady,” a respectful way of addressing women in those days.
 
 ## 24
@@ -148,7 +148,7 @@ tr: Holding the Lord’s feet, he took Him to the lodging. Having given Him a pl
 ## 27
 w: today  me  as a servant  making  acceptance  You have made
 w: as  the offence  of the servant  fitting  result  You have given
-tr: “Today You have accepted me as Your servant. You have given the fruit that the servant’s offence deserved.
+tr: “Today You have accepted me as Your servant and given me the punishment my offence deserved.
 
 ## 28
 w: punishment  in the guise of  mercy  You show  this  Your  compassion
@@ -268,7 +268,7 @@ tr: When Śivānanda presented that child, Mahāprabhu placed His big toe in the
 ## 51
 w: of Śivānanda  the ocean of good fortune  who  will reach  the shore
 w: whose  all  family  the Lord  calls  His own
-tr: Who can reach the shore of the ocean of Śivānanda’s good fortune? The Lord calls his whole family His own.
+tr: Śivānanda’s good fortune is an ocean — who can reach its farther shore? The Lord calls his whole family His own.
 
 ## 52
 w: then  all  the devotees  taking  He took  the meal
@@ -400,7 +400,7 @@ tr: Everyone’s heart was gladdened by the Lord’s words, and they all wept, t
 ## 76
 w: the Lord  of all  the necks  holding  does  weeping
 w: weeping  weeping  all  He embraced
-tr: Holding each of them by the neck, the Lord wept, and weeping and weeping He embraced them all.
+tr: The Lord wept with His arms around each one’s neck; weeping and weeping, He embraced them all.
 
 ## 77
 w: all  remained  anyone  to go  could not
@@ -416,7 +416,7 @@ fn: *Vikāya*, “is sold,” that is, won over — compare verse 74, where the 
 ## 79
 w: again  moreover  You bind  with such  of merciful words  a rope
 w: You  leaving  who  where  to go  can
-tr: And on top of that You bind us with such a rope of merciful words! Who could leave You and go anywhere?”
+tr: And now You bind us once more with such a rope of merciful words! Who could leave You and go anywhere?”
 
 ## 80
 w: then  the Lord  all  consoling
@@ -462,12 +462,12 @@ tr: He went and paid homage at Āi’s feet and presented her with Jagannātha�
 ## 88
 w: the Lord’s  in the name  to the mother  obeisance  he offered
 w: the Lord’s  humble  praises  to the mother  told
-tr: In the Lord’s name he bowed down to the mother, and he conveyed to her the Lord’s humble greetings and words of praise.
+tr: In the Lord’s name he offered her obeisances and conveyed to her the Lord’s humble words of praise.
 
 ## 89
 w: Jagadānanda  getting  the mother  joyful  at heart
 w: he  of the Lord  talks  tells  she hears  night and day
-tr: Having Jagadānanda with her, the mother was joyful at heart. He spoke of the Lord, and she listened night and day.
+tr: Śacī rejoiced to have Jagadānanda with her. He spoke of the Lord, and she listened night and day.
 
 ## 90
 w: Jagadānanda  says  mother  on certain  certain  days
@@ -488,7 +488,7 @@ fn: *Sākṣāte*, “in person, before her eyes.” Heading in the edition: in 
 ## 93
 w: the mother  says  how many  I cook  excellent  dishes
 w: Nimāi  here  may eat  desire  is  my  mind
-tr: The mother said, “I cook so many fine dishes, longing in my heart for Nimāi to eat them here.
+tr: Mother Śacī said, “I cook so many fine dishes, longing in my heart for Nimāi to eat them here.
 
 ## 94
 w: Nimāi  has eaten  such  is  my  mind
@@ -528,7 +528,7 @@ tr: Whenever Jagadānanda visited a devotee’s home, that devotee forgot himsel
 ## 101
 w: of Caitanya  the object of love  Jagadānanda  blessed
 w: whom  he meets  he  thinks  I have found  Caitanya
-tr: Blessed is Jagadānanda, the object of Caitanya’s love! Whoever met him felt, “I have found Caitanya.”
+tr: Blessed is Jagadānanda, the beloved of Caitanya! Whoever met him felt, “I have found Caitanya.”
 
 ## 102
 w: in Śivānanda Sena’s  house  going  he stayed
@@ -687,7 +687,7 @@ tr: “Please take the prasāda Yourself first; I shall take it afterwards. How 
 ## 130
 w: then  Mahāprabhu  happily  to eat  sat
 w: of the dishes  the taste  getting  to speak  began
-tr: Then Mahāprabhu happily sat down to eat. Tasting the dishes, He began to speak:
+tr: Then Mahāprabhu happily began His meal, and as He tasted the dishes, He said:
 
 ## 131
 w: of one possessed by anger  of the cooking  is  such  taste
@@ -697,7 +697,7 @@ tr: “Even food cooked in a fit of anger tastes like this! By this I know that 
 ## 132
 w: Himself  will eat  Kṛṣṇa  that  for the sake of
 w: your  by the hand  cooking  makes do  excellent  making
-tr: Kṛṣṇa Himself is going to eat it, and so He has your hands cook it so excellently.
+tr: Kṛṣṇa Himself is going to eat it, and so through your hands He cooks it so excellently.
 
 ## 133
 w: such  nectar  food  to Kṛṣṇa  you  offer

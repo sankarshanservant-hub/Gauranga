@@ -236,7 +236,7 @@ he  says  crazy woman  why  are you dying  weeping
 maruka āmāra tina putra tām̐ra bālāi lañā  
 may they die  my  three  sons  His  misfortunes  taking (upon themselves)
 
-(23) He said, “Crazy woman, why are you killing yourself with weeping? Let my three sons die, taking His misfortunes upon themselves!”[^6]
+(23) He said, “Crazy woman, why weep yourself to death? Let my three sons die, taking His misfortunes upon themselves!”[^6]
 
 এত বলি’ প্রভু-পাশে গেলা শিবানন্দ ৷  
 উঠি’ তাঁরে লাথি মাইলা প্রভু-নিত্যানন্দ ॥ ২৪ ॥
@@ -276,7 +276,7 @@ today  me  as a servant  making  acceptance  You have made
 yemana aparādha bhṛtyera, yogya phala dilā  
 as  the offence  of the servant  fitting  result  You have given
 
-(27) “Today You have accepted me as Your servant. You have given the fruit that the servant’s offence deserved.
+(27) “Today You have accepted me as Your servant and given me the punishment my offence deserved.
 
 ‘শাস্তি’-ছলে কৃপা কর, — এ তোমার ‘করুণা’ ৷  
 ত্রিজগতে তোমার চরিত্র বুঝে কোন্ জনা ? ॥ ২৮ ॥
@@ -513,7 +513,7 @@ of Śivānanda  the ocean of good fortune  who  will reach  the shore
 yām̐ra saba goṣṭhīke prabhu kahe ‘āpanāra’  
 whose  all  family  the Lord  calls  His own
 
-(51) Who can reach the shore of the ocean of Śivānanda’s good fortune? The Lord calls his whole family His own.
+(51) Śivānanda’s good fortune is an ocean — who can reach its farther shore? The Lord calls his whole family His own.
 
 তবে সব ভক্ত লঞা করিলা ভোজন ৷  
 গোবিন্দেরে আজ্ঞা দিলা করি’ আচমন ॥ ৫২ ॥
@@ -763,7 +763,7 @@ the Lord  of all  the necks  holding  does  weeping
 kāndite kāndite sabāya kailā āliṅgana  
 weeping  weeping  all  He embraced
 
-(76) Holding each of them by the neck, the Lord wept, and weeping and weeping He embraced them all.
+(76) The Lord wept with His arms around each one’s neck; weeping and weeping, He embraced them all.
 
 সবাই রহিল, কেহ চলিতে নারিল ৷  
 আর দিন পাঁচ সাত এইমতে গেল ॥ ৭৭ ॥
@@ -793,7 +793,7 @@ again  moreover  You bind  with such  of merciful words  a rope
 tomā chāḍi’ kebā kām̐hā yāibāre pāre?  
 You  leaving  who  where  to go  can
 
-(79) And on top of that You bind us with such a rope of merciful words! Who could leave You and go anywhere?”
+(79) And now You bind us once more with such a rope of merciful words! Who could leave You and go anywhere?”
 
 তবে প্রভু সবাকারে প্রবোধ করিয়া ৷  
 সবারে বিদায় দিলা সুস্থির হঞা ॥ ৮০ ॥
@@ -883,7 +883,7 @@ the Lord’s  in the name  to the mother  obeisance  he offered
 prabhura vinati-stuti mātāre kahilā  
 the Lord’s  humble  praises  to the mother  told
 
-(88) In the Lord’s name he bowed down to the mother, and he conveyed to her the Lord’s humble greetings and words of praise.
+(88) In the Lord’s name he offered her obeisances and conveyed to her the Lord’s humble words of praise.
 
 জগদানন্দে পাঞা মাতা আনন্দিত মনে ৷  
 তেঁহো প্রভুর কথা কহে, শুনে রাত্রি-দিনে ॥ ৮৯ ॥
@@ -893,7 +893,7 @@ Jagadānanda  getting  the mother  joyful  at heart
 tem̐ho prabhura kathā kahe, śune rātri-dine  
 he  of the Lord  talks  tells  she hears  night and day
 
-(89) Having Jagadānanda with her, the mother was joyful at heart. He spoke of the Lord, and she listened night and day.
+(89) Śacī rejoiced to have Jagadānanda with her. He spoke of the Lord, and she listened night and day.
 
 জগদানন্দ কহে, — “মাতা, কোন কোন দিনে ৷  
 তোমার এথা আসি’ প্রভু করেন ভোজনে ॥ ৯০ ॥
@@ -933,7 +933,7 @@ the mother  says  how many  I cook  excellent  dishes
 nimāñi im̐hā khāya, — icchā haya mora mana  
 Nimāi  here  may eat  desire  is  my  mind
 
-(93) The mother said, “I cook so many fine dishes, longing in my heart for Nimāi to eat them here.
+(93) Mother Śacī said, “I cook so many fine dishes, longing in my heart for Nimāi to eat them here.
 
 নিমাঞি খাঞাছে, — ঐছে হয় মোর মন ৷  
 পাছে জ্ঞান হয় — মুঞি দেখিনু ‘স্বপন’ ।।” ॥ ৯৪ ॥
@@ -1013,7 +1013,7 @@ of Caitanya  the object of love  Jagadānanda  blessed
 yāre mile, sei māne, — ‘pāilūm̐ caitanya’  
 whom  he meets  he  thinks  I have found  Caitanya
 
-(101) Blessed is Jagadānanda, the object of Caitanya’s love! Whoever met him felt, “I have found Caitanya.”
+(101) Blessed is Jagadānanda, the beloved of Caitanya! Whoever met him felt, “I have found Caitanya.”
 
 শিবানন্দসেন-গৃহে যাঞা রহিলা ৷  
 ‘চন্দনাদি’ তৈল তাঁহা একমাত্রা কৈলা ॥ ১০২ ॥
@@ -1303,7 +1303,7 @@ then  Mahāprabhu  happily  to eat  sat
 vyañjanera svāda pāñā kahite lāgilā  
 of the dishes  the taste  getting  to speak  began
 
-(130) Then Mahāprabhu happily sat down to eat. Tasting the dishes, He began to speak:
+(130) Then Mahāprabhu happily began His meal, and as He tasted the dishes, He said:
 
 “ক্রোধাবেশের পাকের হয় ঐছে স্বাদ ! ৷  
 এই ত’ জানিয়ে তোমায় কৃষ্ণের ‘প্রসাদ’ ॥ ১৩১ ॥
@@ -1323,7 +1323,7 @@ Himself  will eat  Kṛṣṇa  that  for the sake of
 tomāra haste pāka karāya uttama kariyā  
 your  by the hand  cooking  makes do  excellent  making
 
-(132) Kṛṣṇa Himself is going to eat it, and so He has your hands cook it so excellently.
+(132) Kṛṣṇa Himself is going to eat it, and so through your hands He cooks it so excellently.
 
 ঐছে অমৃত-অন্ন কৃষ্ণে কর সমর্পণ ৷  
 তোমার ভাগ্যের সীমা কে করে বর্ণন ?” ॥ ১৩৩ ॥
