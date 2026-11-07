@@ -107,3 +107,77 @@ The goals of human life (*puruṣārthas*) are four: *dharma*, *artha*, *kāma* 
 ## 25
 
 > Subheading: (d) The knower of the truth of *rasa*; *madhura-rasa* is the best of all, because in it love for Kṛṣṇa is greatest —
+
+## 26
+
+> Subheading: In *madhura-rasa* there are two kinds of disposition (*vṛtti*): (a) in the cities, one “mixed with majesty”; (b) in Vraja, one that is *kevala*, pure. Yaśodā's son is attained only by the pure disposition of *parakīyā* found in Vraja, not by the *svakīyā* disposition “mixed with majesty” —
+
+*Bhāva* is of two kinds: “joined with the knowledge of majesty” and *kevala*, “pure.” In *bhāva* joined with the knowledge of majesty one cannot know the supreme glory of Vrajendranandana. See Madhya 19.192.
+
+## 27
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.9.21[^27-1])
+
+See Madhya 8.226.
+
+## 28
+
+> Subheading: The meaning of a word in the verse; Lakṣmī has no right to enter the *rāsa* dance —
+
+Lakṣmī is full of the knowledge of majesty, and so she did not attain service to Vrajendrakumāra. Lakṣmīdevī and the associates called *ātma-bhūta* are potencies nondifferent from Kṛṣṇa. Yet Lakṣmīdevī is full of the mood of majesty, and so she did not attain the right to serve Vrajendranandana in *madhura-rasa*.
+
+## 29
+
+> Subheading: Evidence from scripture — (*Śrīmad-Bhāgavatam* 10.47.60)
+
+See Madhya 8.80.
+
+## 30
+
+> Subheading: The friendship (*sakhya*) and parental love (*vātsalya*) of the residents of Vraja are *kevala*, pure, *rāgātmikā bhakti* —
+
+“In a pure mood”: not enchanted or constrained by the knowledge of majesty, but ruled by unmixed, pure (*kevala*) *rati*.
+
+## 32
+
+> Subheading: Evidence from scripture — (*Śrīmad-Bhāgavatam* 10.12.11[^32-1])
+
+See Madhya 8.75.
+
+## 33
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.8.45–46)
+
+See Madhya 19.204.
+
+## 34
+
+See Madhya 8.77.
+
+## 35
+
+> Subheading: In the pure (*kevala*) *bhāva* of Vraja there is no knowledge of majesty; therefore pure *bhāva* is the best of all —
+
+## 36
+
+> Subheading: The Lord proclaims Rāya as His *śikṣā-guru* —
+
+At this point some manuscripts read: *anargala rasa-vettā prema-sukhānanda* (“the boundless knower of *rasa*, [full of] the bliss of *prema's* joy”).
+
+## 37
+
+> Subheading: Rāmānanda's greatness —
+
+## 38
+
+> Subheading: (5) The qualities of Dāmodara Svarūpa: he is the embodiment of the *rasa* of *prema* and the knower of the truth and glory of the gopīs, that is, the ācārya of the truth of the *rasa* of Vraja's sweetness —
+
+## 39
+
+> Subheading: The glory of the gopīs, who please Kṛṣṇa's senses —
+
+---
+
+[^27-1]: The edition gives “Canto 10, Chapter 9, verse 31” (checked against the scan); in the standard numbering it is 10.9.21.
+
+[^32-1]: The edition gives “Canto 10, Chapter 12, verse 21” (checked against the scan); in the standard numbering it is 10.12.11.
