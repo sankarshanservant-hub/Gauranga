@@ -176,6 +176,54 @@ At this point some manuscripts read: *anargala rasa-vettā prema-sukhānanda* (�
 
 > Subheading: The glory of the gopīs, who please Kṛṣṇa's senses —
 
+## 40
+
+> Subheading: Evidence from scripture — (*Śrīmad-Bhāgavatam* 10.31.19)
+
+See Ādi 4.173.
+
+## 41
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.31.16)
+
+See Madhya 19.210. Another reading has: “The pure love of the gopīs is free from the knowledge of majesty. In their love they scold [Kṛṣṇa] — this is its sign.”
+
+## 42
+
+> Subheading: Kṛṣṇa is in debt to the love of the gopīs —
+
+## 43
+
+> Subheading: (*Śrīmad-Bhāgavatam* 10.32.22)
+
+See Ādi 4.180.
+
+## 44
+
+> Subheading: The pure (*kevala*) *bhāva* of Vraja is supreme; Uddhava's prayer is the proof —
+
+## 45
+
+Here another reading cites the verse (*Bhāgavatam* 10.47.61): “Ah! If only I could become any one of the bushes, creepers or herbs in Vṛndāvana that receive the dust of these gopīs' feet! They gave up their kinsmen, so hard to give up, and the path of the noble, and followed the path to Mukunda that the Śrutis seek.”
+
+Sent by Kṛṣṇa, Uddhava came to Vraja and stayed there for some months, delighting the residents of Vraja by chanting the topics of Kṛṣṇa. Yet he saw the anguish of the gopīs' hearts, wholly possessed by Kṛṣṇa and burning in separation from Him. He then recognized their deepest love for Kṛṣṇa, free from any knowledge of majesty, as the ideal, honored it greatly, and in this verse prays for eternal servitude to them:
+
+**yāḥ** (the gopīs, in order to serve Kṛṣṇa) **svajanam** (their own people — husbands, sons and other relatives) **dustyajam** (hard to give up) **ārya-patham** (the path of the *āryas*, that is, their *dharma*, fidelity to a husband) **ca** **hitvā** (having given up) **śrutibhiḥ** (by the Vedas) **vimṛgyām** (to be sought, that is, worshipped) **mukunda-padavīm** (the path to Kṛṣṇa) **bhejuḥ** (followed) — **aho** (a celebration of their good fortune) **vṛndāvane** (in this Vraja) **āsām** (their) **caraṇa-reṇu-juṣām** (receiving the dust of their feet) **gulma-latauṣadhīnām** (among the bushes and the rest — whichever) **kim api** **aham** **syām** (may I become — this is a wish).
+
+They left their kinsmen — husbands, sons and others, so hard to give up — and the path of the *āryas*, and worshipped the lotus feet of Mukunda, whom the Vedas seek. The bushes, creepers and herbs here in Vṛndāvana serve the dust of those gopīs' feet. Ah, if only I (by great good fortune) could become even one of them!
+
+## 46
+
+> Subheading: (6) The qualities of Ṭhākura Haridāsa, the ācārya and *mahā-bhāgavata* —
+
+## 48
+
+> Subheading: Other devotees of Gaura who preach the name and *prema* —
+
+## 50
+
+> Subheading: Only in the company of a sādhu who both practices pure *bhakti* and preaches it does a *jīva* attain devotion to Kṛṣṇa —
+
 ---
 
 [^27-1]: The edition gives “Canto 10, Chapter 9, verse 31” (checked against the scan); in the standard numbering it is 10.9.21.
