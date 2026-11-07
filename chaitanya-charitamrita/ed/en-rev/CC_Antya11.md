@@ -396,7 +396,7 @@ the feet  clasping  says  Haridāsa  not  do  māyā (guile)
 avaśya mo-adhame, prabhu, kara ei ‘dayā’  
 surely  to me, the fallen  O Lord  show  this  mercy
 
-(39) Clasping His feet, Haridāsa said, “Lord, do not deceive me with *māyā*; surely show this fallen one this mercy (*dayā*).[^10]
+(39) Clasping His feet, Haridāsa said, “Lord, do not deceive me with *māyā*; surely show mercy (*dayā*) to this fallen one.[^10]
 
 মোর শিরোমণি কত কত মহাশয় ৷  
 তোমার লীলার সহায় কোটিভক্ত হয় ॥ ৪০ ॥
@@ -409,7 +409,7 @@ Your  of the pastimes  helpers  millions of devotees  there are
 (40) There are so many great souls, crest jewels far above me; millions of devotees assist in Your pastimes.
 
 আমা-হেন যদি এক কীট মরি’ গেল ৷  
-এক পিপীলিকা মৈলে পৃথিবীর কাঁহা হানি হৈল ? ॥ ৪১ ॥
+পিপীলিকা মৈলে পৃথিবীর কাঁহা হানি হৈল ? ॥ ৪১ ॥
 
 āmā-hena yadi eka kīṭa mari’ gela  
 like me  if  one  insect  dying  goes  
@@ -508,7 +508,8 @@ Haridāsa’s  qualities  the Lord  began  to tell
 
 (50) Before Rāmānanda, Sārvabhauma and all the others, the Lord began to speak of Haridāsa’s qualities.
 
-হরিদাসের গুণ কহিতে হইলা পঞ্চমুখ ৷
+হরিদাসের গুণ কহিতে হইলা পঞ্চমুখ ৷  
+কহিতে কহিতে প্রভুর বাড়ে মহাসুখ ॥ ৫১ ॥
 
 haridāsera guṇa kahite hailā pañca-mukha  
 Haridāsa’s  qualities  telling  became  five-mouthed  
@@ -568,7 +569,7 @@ the name  together with  his life  he made  go out
 (56) While uttering the words “Śrī Kṛṣṇa Caitanya,” he sent his life-air out of the body together with the name.[^11]
 
 মহাযোগেশ্বর-প্রায় স্বচ্ছন্দে মরণ ৷  
-’ভীষ্মের নির্যাণ’ সবার হইল স্মরণ ॥ ৫৭ ॥
+‘ভীষ্মের নির্য্যাণ’ সবার হইল স্মরণ ॥ ৫৭ ॥
 
 mahā-yogeśvara-prāya svacchande maraṇa  
 a great master of yoga  like  at his own will  departure  
