@@ -502,7 +502,7 @@ tr: I shall go to Ālālanātha and stay there free from care; I will not hear t
 ## 94
 w: this  hearing  says  the king  feeling  in the mind  pain
 w: all  the money  I give up,  if  the Lord  stays  here
-tr: Hearing this, the king felt pain in his heart and said, “I give up all the money, if only the Lord will stay here.
+tr: At this the king felt pain in his heart and said, “I give up all the money, if only the Lord will stay here.
 
 ## 95
 w: for one  moment  the Lord’s  if  I obtain  sight
@@ -804,6 +804,7 @@ tr: He did not entreat Kāśī Miśra, nor did He entreat the king; yet without 
 w: Caitanya’s  conduct  this  supremely  deep
 w: he  understands  His  at the feet  whose  mind  steady
 tr: This conduct of Śrī Caitanya is supremely deep. Only he understands it whose mind is steady (*dhīra*) at His feet.
+fn: Heading in the edition: only one whom Caitanya has drawn to Himself, and who is not shaken by the onrush of desire and enjoyment, can grasp the inner meaning of Caitanya’s deeds.
 
 ## 152
 w: whoever  this  hears  the Lord’s  affection  display

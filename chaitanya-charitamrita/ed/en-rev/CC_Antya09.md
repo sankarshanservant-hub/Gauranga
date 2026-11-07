@@ -952,7 +952,7 @@ this  hearing  says  the king  feeling  in the mind  pain
 saba dravya chāḍom̐, yadi prabhu rahena ethā  
 all  the money  I give up,  if  the Lord  stays  here
 
-(94) Hearing this, the king felt pain in his heart and said, “I give up all the money, if only the Lord will stay here.
+(94) At this the king felt pain in his heart and said, “I give up all the money, if only the Lord will stay here.
 
 একক্ষণ প্রভুর যদি পাইয়ে দরশন ৷  
 কোটিচিন্তামণি-লাভ নহে তার সম ॥ ৯৫ ॥
@@ -1522,7 +1522,7 @@ Caitanya’s  conduct  this  supremely  deep
 sei bujhe, tām̐ra pade yām̐ra mana ‘dhīra’  
 he  understands  His  at the feet  whose  mind  steady
 
-(151) This conduct of Śrī Caitanya is supremely deep. Only he understands it whose mind is steady (*dhīra*) at His feet.
+(151) This conduct of Śrī Caitanya is supremely deep. Only he understands it whose mind is steady (*dhīra*) at His feet.[^40]
 
 যেই ইঁহা শুনে প্রভুর বাৎসল্য-প্রকাশ ৷  
 প্রেমভক্তি পায়, তাঁর বিপদ যায় নাশ ॥ ১৫২ ॥
@@ -1623,3 +1623,5 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 [^38]: *Amṛta-pravāha-bhāṣya*: *kṛpā-vivarta* is mercy in the form of worldly welfare, which is not true mercy, though to the worldly mind it seemed to be mercy — one thing taken for another (*vivarta*). *Anubhāṣya*: in it the Lord is shown to be conquered by His devotees. Not to be confused with *kṛpā-chadma* (verse 58), mercy veiled beneath another guise.
 
 [^39]: Heading in the edition: the hidden meaning of the Lord’s conduct in delivering Gopīnātha — at first He refuses to save him; after saving him He rebukes him for dishonest money; as an example for the renounced Vaiṣṇava He seeks solitude; Gopīnātha’s worldly fortune grows; and the Lord teaches him that one may serve Kṛṣṇa at home or away from it. *Anubhāṣya*: were Śrī Gaurasundara, in the dress of a renunciant, to help a worldly man, people would imitate Him and degrade the ideal of the renounced Vaiṣṇava; so a renunciant devotee must never take up the affairs of worldly people.
+
+[^40]: Heading in the edition: only one whom Caitanya has drawn to Himself, and who is not shaken by the onrush of desire and enjoyment, can grasp the inner meaning of Caitanya’s deeds.
