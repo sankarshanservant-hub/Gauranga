@@ -648,6 +648,7 @@ tr: So I give them posts here and there. They eat, drink, plunder and give away,
 w: in Rājamahendrī  governor  I made  Rāmānanda Rāya
 w: what  he consumed,  what  he gave,  is not  accounting due
 tr: In Rājamahendrī I made Rāmānanda Rāya governor (*rājā*). Whatever he consumed and whatever he gave away, no account was asked of him.
+fn: Heading in the edition: earlier, by Pratāparudra’s favour, Rāmānanda Rāya had been made governor (*bhūmi-adhikārī*) of Rājamahendrī. *Anubhāṣya*: the capital of that region in Rāmānanda Rāya’s time, Vidyānagara, lay on the southern bank of the Godāvarī, near its mouth; the present town of Rājamahendrī stands on the northern bank.
 
 ## 123
 w: Gopīnātha  in this way  official business  doing
@@ -695,6 +696,7 @@ fn: *Amṛta-pravāha-bhāṣya*: *nilā mūla* — “You have bought us again,
 w: affection for devotees  now  manifest  You have made
 w: formerly  as  the five Pāṇḍavas  from danger  You delivered
 tr: Now You have shown Your affection for Your devotees, as long ago You delivered the five Pāṇḍavas from danger.”
+fn: Heading in the edition: the Lord’s love for His devotees, described by a comparison — so He delivered the five Pāṇḍavas from danger.
 
 ## 132
 w: silk cloth  on his head  Gopīnātha  at the feet  fell
@@ -753,6 +755,7 @@ fn: *Anubhāṣya*: if the soul knows itself as Bhagavān’s eternal servant, n
 w: but  My  do  one  order  keeping
 w: spending  not  do  any  of the king’s  principal
 tr: But keep one order of Mine: do not spend any of the king’s principal (*mūla-dhana*).
+fn: Heading in the edition: Gopīnātha must do his duty to the king and spend only what is honestly earned (*śukla-artha*).
 
 ## 143
 w: the king’s  principal  paying  whatever  profit  is
@@ -763,6 +766,7 @@ tr: After paying the king his principal, spend whatever profit remains on variou
 w: sinful spending  not  do  by which  both worlds  are lost
 w: thus  saying  to all  He gave  leave
 tr: Do not spend on sinful things, by which both worlds are lost.” Saying this, He gave them all leave to go.
+fn: *Anubhāṣya*: when the soul falls into sin, it becomes hard for it to gain either worldly welfare or transcendental realisation.
 
 ## 145
 w: in Rāya’s  house  the Lord’s  seeming mercy  I have told

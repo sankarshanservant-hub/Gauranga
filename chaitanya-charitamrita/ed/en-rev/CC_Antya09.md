@@ -768,6 +768,782 @@ soon  is attained  by him  Your  feet
 
 (76) He longs for Your mercy and worships You constantly; soon he attains Your feet.
 
+তত্তেঽনুকম্পাং সুসমীক্ষ্যমাণো  
+ভুঞ্জান এবাত্মকৃতং বিপাকম্ ৷  
+হৃদ্বাগ্বপুর্ভির্বিদধন্ নমস্ তে ৷  
+জীবেত যো মুক্তি-পদে স দায়-ভাক্ ॥ ৭৭ ॥
+
+tat te ’nukampāṁ su-samīkṣyamāṇo  
+therefore  Your  mercy  earnestly awaiting  
+bhuñjāna evātma-kṛtaṁ vipākam  
+enduring  indeed  self-made  the fruits  
+hṛd-vāg-vapurbhir vidadhan namas te  
+with heart, speech and body  offering  obeisance  to You  
+jīveta yo mukti-pade sa dāya-bhāk  
+lives  who  to the position of liberation  he  is heir
+
+(77) ‘Therefore one who lives earnestly awaiting Your mercy, enduring the fruits of his own deeds and offering You obeisance with heart, words and body, is an heir to the position of liberation.’ (Śrīmad-Bhāgavatam, 10.14.8)[^19]
+
+এথা তুমি বসি’ রহ, কেনে যাবে আলালনাথ ?  
+কেহ তোমা না শুনাবে বিষয়ীর বাত্ ॥ ৭৮ ॥
+
+ethā tumi vasi’ raha, kene yābe ālālanātha?  
+here  You  settled  stay,  why  will You go  to Ālālanātha  
+keha tomā nā śunābe viṣayīra bāt  
+anyone  to You  not  will make hear  of worldly men  talk
+
+(78) Stay on here. Why should You go to Ālālanātha? No one will make You listen to the talk of worldly men.
+
+যদি তোমার তারে রাখিতে হয় মন ৷  
+আজি যে রাখিল, সেই করিবে রক্ষণ ॥ ৭৯ ॥
+
+yadi tomāra tāre rākhite haya mana  
+if  Your  him  to protect  is  mind  
+āji ye rākhila, sei karibe rakṣaṇa  
+today  who  protected,  He  will do  protection
+
+(79) If You have a mind to protect him, He who protected him today will protect him still.”[^20]
+
+এত বলি’ কাশীমিশ্র গেলা স্ব-মন্দিরে ৷  
+মধ্যাহ্নে প্রতাপরুদ্র আইলা তাঁর ঘরে ॥ ৮০ ॥
+
+eta bali’ kāśī-miśra gelā sva-mandire  
+thus  saying  Kāśī Miśra  went  to his own home  
+madhyāhne pratāparudra āilā tām̐ra ghare  
+at midday  Pratāparudra  came  his  to the house
+
+(80) Saying this, Kāśī Miśra went home, and at midday Pratāparudra came to his house.[^21]
+
+প্রতাপরুদ্রের এক আছয়ে নিয়মে ৷  
+যত দিন রহে তেঁহ শ্রীপুরুষোত্তমে ॥ ৮১ ॥
+
+pratāparudrera eka āchaye niyame  
+of Pratāparudra  one  there is  rule  
+yata dina rahe tem̐ha śrī-puruṣottame  
+as many  days  stays  he  in Śrī Puruṣottama
+
+(81) Pratāparudra kept one rule for as long as he stayed in Śrī Puruṣottama:
+
+নিত্য আসি’ করে মিশ্রের পাদ সম্বাহন ৷  
+জগন্নাথ-সেবার করে ভিয়ান শ্রবণ ॥ ৮২ ॥
+
+nitya āsi’ kare miśrera pāda sambāhana  
+daily  coming  does  Miśra’s  of the feet  massage  
+jagannātha-sevāra kare bhiyāna śravaṇa  
+of Jagannātha’s service  does  the ordered performance  hearing
+
+(82) every day he would come and massage Miśra’s feet, and hear how the service of Jagannātha was being carried out in all its order and splendour (*bhiyāna*).[^22]
+
+রাজা মিশ্রের চরণ যবে চাপিতে লাগিলা ৷  
+তবে মিশ্র তাঁরে কিছু ভঙ্গীতে কহিলা ॥ ৮৩ ॥
+
+rājā miśrera caraṇa yabe cāpite lāgilā  
+the king  Miśra’s  feet  when  to press  began  
+tabe miśra tām̐re kichu bhaṅgīte kahilā  
+then  Miśra  to him  something  by hints  said
+
+(83) When the king began pressing his feet, Miśra spoke to him in a roundabout way:
+
+দেব, শুন আর এক অপরূপ বাত !  
+মহাপ্রভু ক্ষেত্র ছাড়ি’ যাবেন আলালনাথ ! ॥ ৮৪ ॥
+
+deva, śuna āra eka aparūpa bāta!  
+Your Majesty,  hear  another  one  strange  piece of news  
+mahāprabhu kṣetra chāḍi’ yābena ālālanātha!  
+Mahāprabhu  the holy place  leaving  will go  to Ālālanātha
+
+(84) “Your Majesty, hear one more strange piece of news: Mahāprabhu is going to leave the holy place (*kṣetra*) for Ālālanātha!”
+
+শুনি’ রাজা দুঃখী হৈলা, পুছিলেন কারণ ৷  
+তবে মিশ্র কহে তাঁরে সব বিবরণ ॥ ৮৫ ॥
+
+śuni’ rājā duḥkhī hailā, puchilena kāraṇa  
+hearing  the king  sorrowful  became,  asked  the reason  
+tabe miśra kahe tām̐re saba vivaraṇa  
+then  Miśra  tells  him  all  the details
+
+(85) Hearing this, the king became sorrowful and asked the reason. Then Miśra told him the whole story:
+
+গোপীনাথ-পট্টনায়কে চাঙ্গে চড়াইলা ৷  
+তার সেবক আসি’ প্রভুরে কহিলা ॥ ৮৬ ॥
+
+gopīnātha-paṭṭanāyake cāṅge caḍāilā  
+Gopīnātha Paṭṭanāyaka  onto the cāṅga  they raised  
+tāra sevaka āsi’ prabhure kahilā  
+his  servant  coming  to the Lord  told
+
+(86) “Gopīnātha Paṭṭanāyaka was raised onto the *cāṅga*, and his servant came and told the Lord.
+
+শুনিয়া ক্ষোভিত হৈল মহাপ্রভুর মন ৷  
+ক্রোধে গোপীনাথে কৈলা বহুত ভর্ৎসন ॥ ৮৭ ॥
+
+śuniyā kṣobhita haila mahāprabhura mana  
+hearing  agitated  became  Mahāprabhu’s  mind  
+krodhe gopīnāthe kailā bahuta bhartsana  
+in anger  Gopīnātha  He did  much  rebuking
+
+(87) When Mahāprabhu heard this, His mind was agitated, and in anger He rebuked Gopīnātha severely:[^23]
+
+অজিতেন্দ্রিয় হঞা করে রাজবিষয় ৷  
+নানা অসৎপথে করে রাজদ্রব্য ব্যয় ॥ ৮৮ ॥
+
+ajitendriya hañā kare rājaviṣaya  
+not controlling the senses  being  he does  the king’s business  
+nānā asatpathe kare rājadravya vyaya  
+in various  wrong ways  does  the king’s wealth  spending
+
+(88) ‘He handles the king’s affairs without controlling his senses, and spends the king’s wealth in all sorts of wrong ways.
+
+ব্রহ্মস্ব-অধিক এই হয় রাজধন ৷  
+তাহা হরি’ ভোগ করে মহাপাপী জন ॥ ৮৯ ॥
+
+brahmasva-adhika ei haya rājadhana  
+than a brāhmaṇa’s property  greater  this  is  the king’s wealth  
+tāhā hari’ bhoga kare mahāpāpī jana  
+it  stealing  enjoyment  does  a great sinner  person
+
+(89) The king’s wealth weighs more than a brāhmaṇa’s property; one who steals it to enjoy it is a great sinner.
+
+রাজার বর্ত্তন খায়, আর চুরি করে ৷  
+রাজদণ্ড্য হয় সেই শাস্ত্রের বিচারে ॥ ৯০ ॥
+
+rājāra vartana khāya, āra curi kare  
+the king’s  salary  he eats,  and  theft  does  
+rāja-daṇḍya haya sei śāstrera vicāre  
+punishable by the king  is  he  of scripture  by the judgment
+
+(90) He lives on the king’s salary and steals besides; by the judgment of scripture he deserves the king’s punishment.
+
+নিজ-কৌড়ি মাগে, রাজা নাহি করে দণ্ড ৷  
+রাজা — মহাধার্ম্মিক, এই হয় পাপী ভণ্ড ! ॥ ৯১ ॥
+
+nija-kauḍi māge, rājā nāhi kare daṇḍa  
+his own  money  asks for,  the king  not  does  punishment  
+rājā — mahā-dhārmika, ei haya pāpī bhaṇḍa!  
+the king  greatly righteous,  this one  is  sinful  cheat
+
+(91) The king asks only for his own money and does not punish him. The king is most righteous; this man is a sinful cheat!
+
+রাজ-কড়ি না দেয়, আমারে ফুকারে ৷  
+এই মহাদুঃখ ইঁহা কে সহিতে পারে ? ॥ ৯২ ॥
+
+rāja-kaḍi nā deya, āmāre phukāre  
+the king’s money  not  he gives,  to Me  cries out loudly  
+ei mahā-duḥkha im̐hā ke sahite pāre?  
+this  great  distress  here  who  to bear  can
+
+(92) He does not pay the king’s money, and he cries out loudly to Me (*phukāre*). Who here can bear such great distress?
+
+আলালনাথ যাই’ তাঁহা নিশ্চিন্তে রহিমু ৷  
+বিষয়ীর ভাল মন্দ বার্ত্তা না শুনিমু ॥ ৯৩ ॥
+
+ālālanātha yāi’ tām̐hā niścinte rahimu  
+to Ālālanātha  going  there  free from care  I shall stay  
+viṣayīra bhāla manda vārtā nā śunimu  
+of worldly men  good  bad  news  not  I shall hear
+
+(93) I shall go to Ālālanātha and stay there free from care; I will not hear the news of worldly men, good or bad.’”
+
+এত শুনি’ কহে রাজা পাঞা মনে ব্যথা ৷  
+সব দ্রব্য ছাড়োঁ, যদি প্রভু রহেন এথা ॥ ৯৪ ॥
+
+eta śuni’ kahe rājā pāñā mane vyathā  
+this  hearing  says  the king  feeling  in the mind  pain  
+saba dravya chāḍom̐, yadi prabhu rahena ethā  
+all  the money  I give up,  if  the Lord  stays  here
+
+(94) Hearing this, the king felt pain in his heart and said, “I give up all the money, if only the Lord will stay here.
+
+একক্ষণ প্রভুর যদি পাইয়ে দরশন ৷  
+কোটিচিন্তামণি-লাভ নহে তার সম ॥ ৯৫ ॥
+
+eka-kṣaṇa prabhura yadi pāiye daraśana  
+for one  moment  the Lord’s  if  I obtain  sight  
+koṭi-cintāmaṇi-lābha nahe tāra sama  
+of millions of cintāmaṇi gems  gain  is not  to it  equal
+
+(95) If I can have the Lord’s darśana for even a moment, not even millions of *cintāmaṇi* gems could equal it.
+
+কোন্ ছার পদার্থ এই দুইলক্ষ কাহন ?  
+প্রাণ-রাজ্য করোঁ প্রভুপদে নির্ম্মঞ্ছন ॥ ৯৬ ॥
+
+kon chāra padārtha ei duilakṣa kāhana?  
+what  paltry  thing  this  two lakhs  of kāhanas  
+prāṇa-rājya karom̐ prabhu-pade nirmañchana  
+life  kingdom  I make  at the Lord’s feet  an offering
+
+(96) And what are these two lakhs of kāhanas? A paltry thing! My life and my kingdom I offer at the Lord’s feet in worship (*nirmañchana*).”[^24]
+
+মিশ্র কহে, কৌড়ি ছাড়িবা, — নহে প্রভুর মন ৷  
+তাহা দুঃখ পায়, — এই না যায় সহন ॥ ৯৭ ॥
+
+miśra kahe, kauḍi chāḍibā, — nahe prabhura mana  
+Miśra  says,  the money  you should give up  is not  the Lord’s  mind  
+tāhā duḥkha pāya, — ei nā yāya sahana  
+they (those)  suffer  this  not  goes  bearing
+
+(97) Miśra said, “It is not the Lord’s wish that you give up the money. They are suffering, and that He cannot bear.”[^25]
+
+রাজা কহে, — তারে আমি দুঃখ নাহি দিয়ে ৷  
+চাঙ্গে চড়া, খড়্গে ডারা, — আমি না জানিয়ে ॥ ৯৮ ॥
+
+rājā kahe, — tāre āmi duḥkha nāhi diye  
+the king  says  to him  I  pain  not  give  
+cāṅge caḍā, khaḍge ḍārā, — āmi nā jāniye  
+onto the cāṅga  raising,  onto the swords  throwing  I  not  know
+
+(98) The king said, “I mean him no pain. Raising him onto the *cāṅga*, throwing him onto the swords — I knew nothing of it.
+
+পুরুষোত্তম-জানারে তেঁহ কৈল পরিহাস ৷  
+সেই ‘জানা’ তারে দেখাইল মিথ্যা ত্রাস ॥ ৯৯ ॥
+
+puruṣottama-jānāre tem̐ha kaila parihāsa  
+at Puruṣottama Jānā  he  made  mockery  
+sei ‘jānā’ tāre dekhāila mithyā trāsa  
+that  Jānā  to him  showed  false  terror
+
+(99) He mocked Puruṣottama Jānā, and that Jānā only gave him a false scare.
+
+তুমি যাহ, প্রভুরে রাখহ যত্ন করি’ ৷  
+এই মুই তাহারে ছাড়িনু সব কৌড়ি ॥ ১০০ ॥
+
+tumi yāha, prabhure rākhaha yatna kari’  
+you  go,  the Lord  keep  effort  making  
+ei mui tāhāre chāḍinu saba kauḍi  
+here  I  to him  have released  all  the money
+
+(100) Go and do all you can to keep the Lord here. Here and now I release him from all the money.”
+
+মিশ্র কহে, কৌড়ি ছাড়িবা, — নহে প্রভুর মনে ৷  
+কৌড়ি ছাড়িলে প্রভু কদাচিৎ দুঃখ মানে ॥ ১০১ ॥
+
+miśra kahe, kauḍi chāḍibā, — nahe prabhura mane  
+Miśra  says,  the money  you should give up  is not  in the Lord’s  mind  
+kauḍi chāḍile prabhu kadācit duḥkha māne  
+the money  if you give up  the Lord  perhaps  pain  feels
+
+(101) Miśra said, “Your giving up the money is not what the Lord has in mind. If you do, perhaps the Lord will be pained.”
+
+রাজা কহে, কৌড়ি ছাড়িমু, — ইহা না কহিবা ৷  
+সহজে মোর প্রিয় তা’রা, — ইহা জানাইবা ॥ ১০২ ॥
+
+rājā kahe, kauḍi chāḍimu, — ihā nā kahibā  
+the king  says,  the money  I shall give up  this  not  you should say  
+sahaje mora priya tā’rā, — ihā jānāibā  
+naturally  to me  dear  they  this  you should make known
+
+(102) The king said, “I shall give up the money, but do not tell Him that. Let Him know only this: they are naturally dear to me.
+
+ভবানন্দ-রায় — আমার পূজ্য-গর্ব্বিত ৷  
+তাঁর পুত্রগণে আমার সহজেই প্রীত ॥ ১০৩ ॥
+
+bhavānanda-rāya — āmāra pūjya-garvita  
+Bhavānanda Rāya  my  worthy of honour and esteem  
+tām̐ra putra-gaṇe āmāra sahajei prīta  
+his  sons  my  naturally  affection
+
+(103) Bhavānanda Rāya is worthy of my honour and esteem (*pūjya-garvita*), and I naturally feel affection for his sons.”
+
+এত বলি’ মিশ্রে নমস্করি’ ঘরে গেলা ৷  
+গোপীনাথে ‘বড় জানা’ ডাকিয়া আনিলা ॥ ১০৪ ॥
+
+eta bali’ miśre namaskari’ ghare gelā  
+thus  saying  to Miśra  offering obeisance  home  he went  
+gopīnāthe ‘baḍa jānā’ ḍākiyā ānilā  
+Gopīnātha  the Baḍa Jānā  calling  brought
+
+(104) Saying this, the king offered obeisance to Miśra and went home. And the Baḍa Jānā summoned Gopīnātha.[^26]
+
+রাজা কহে, — সব কৌড়ি তোমারে ছাড়িলুঁ ৷  
+সেই মালজাঠ্যা-দণ্ডপাট তোমারে ত’ দিলুঁ ॥ ১০৫ ॥
+
+rājā kahe, — saba kauḍi tomāre chāḍilum̐  
+the king  says  all  the money  to you  I have released  
+sei mālajāṭhyā-daṇḍapāṭa tomāre ta’ dilum̐  
+that same  Mālajāṭhyā Daṇḍapāṭa  to you  indeed  I have given
+
+(105) The king said, “I release you from all the money, and I give you that same Mālajāṭhyā Daṇḍapāṭa again.
+
+আর বার ঐছে না খাইহ রাজধন ৷  
+আজি হৈতে দিলুঁ তোমায় দ্বিগুণ বর্ত্তন ॥ ১০৬ ॥
+
+āra bāra aiche nā khāiha rāja-dhana  
+another  time  like this  not  consume  the king’s wealth  
+āji haite dilum̐ tomāya dviguṇa vartana  
+today  from  I have given  to you  double  salary
+
+(106) Do not consume the king’s wealth like this again. From today I give you double salary.”
+
+এত বলি’ ‘নেতধটী’ তারে পরাইল ৷  
+প্রভু-আজ্ঞা লঞা যাহ, বিদায় তোমা দিল ॥ ১০৭ ॥
+
+eta bali’ ‘neta-dhaṭī’ tāre parāila  
+thus  saying  silk cloth  on him  he put  
+prabhu-ājñā lañā yāha, vidāya tomā dila  
+the Lord’s permission  taking  go,  leave  to you  was given
+
+(107) Saying this, he dressed him in silk cloth (*netadhaṭī*): “Take the Lord’s permission and go; you have your leave.”
+
+পরমার্থে প্রভুর কৃপা, সেহ রহু দূরে ৷  
+অনন্ত তাহার ফল, কে বলিতে পারে ? ॥ ১০৮ ॥
+
+paramārthe prabhura kṛpā, seha rahu dūre  
+in the supreme goal  the Lord’s  mercy,  that  let it stay  far off  
+ananta tāhāra phala, ke balite pāre?  
+unlimited  its  fruit,  who  to tell  can
+
+(108) Leave aside the Lord’s mercy in the highest, spiritual sense (*paramārtha*): its fruit is endless, and who can describe it?[^27]
+
+‘রাজ্য-বিষয়’-ফল এই — কৃপার ‘আভাসে’ !  
+তাহার গণনা কারো, মনে নাহি আইসে ! ॥ ১০৯ ॥
+
+‘rājya-viṣaya’-phala ei — kṛpāra ‘ābhāse’!  
+of royal wealth  the fruit  this  of mercy  from a semblance  
+tāhāra gaṇanā kāro, mane nāhi āise!  
+its  reckoning  anyone’s  to the mind  not  comes
+
+(109) This fruit, a domain and worldly wealth, came from a mere semblance (*ābhāsa*) of His mercy, and no one can even begin to reckon it!
+
+কাঁহা চাঙ্গে চড়াঞা লয় ধন-প্রাণ !  
+কাঁহা সব ছাড়ি’ সেই রাজ্যাদি-প্রদান! ॥ ১১০ ॥
+
+kām̐hā cāṅge caḍāñā laya dhana-prāṇa!  
+where  onto the cāṅga  raising  takes  wealth and life  
+kām̐hā saba chāḍi’ sei rājyādi-pradāna!  
+where  everything  releasing  that  kingdom and more  bestowing
+
+(110) On one hand, he was raised onto the *cāṅga* to be stripped of wealth and life! On the other, everything was forgiven, and that same domain and more were bestowed on him!
+
+কাঁহা সর্ব্বস্ব বেচি’ লয়, দেয়া না যায় কৌড়ি !  
+কাঁহা দ্বিগুণ বর্ত্তন, পরায় নেতধড়ি! ॥ ১১১ ॥
+
+kām̐hā sarvasva veci’ laya, deyā nā yāya kauḍi!  
+where  all he owned  selling  takes,  to be paid  not  goes  the money  
+kām̐hā dviguṇa vartana, parāya neta-dhaḍi!  
+where  double  salary,  dresses  in silk cloth
+
+(111) On one hand, all he owned was to be sold off, and still the money could not be paid! On the other, a double salary, and a silk cloth to wear!
+
+প্রভুর ইচ্ছা নাহি, তারে কৌড়ি ছাড়াইবে ৷  
+দ্বিগুণ বর্ত্তন করি’ পুনঃ ‘বিষয়’ দিবে ॥ ১১২ ॥
+
+prabhura icchā nāhi, tāre kauḍi chāḍāibe  
+the Lord’s  wish  is not  him  the money  would release  
+dviguṇa vartana kari’ punaḥ ‘viṣaya’ dibe  
+double  salary  making  again  the post  would give
+
+(112) The Lord had no wish that his money be remitted, that his salary be doubled, or that he be given his post again.
+
+তথাপি তার সেবক আসি’ কৈল নিবেদন ৷  
+তাতে ক্ষুব্ধ হৈল যবে মহাপ্রভুর মন ॥ ১১৩ ॥
+
+tathāpi tāra sevaka āsi’ kaila nivedana  
+still  his  servant  coming  made  a petition  
+tāte kṣubdha haila yabe mahāprabhura mana  
+by that  disturbed  became  when  Mahāprabhu’s  mind
+
+(113) Still, his servant came and made his petition, and Mahāprabhu’s mind was disturbed by it.
+
+বিষয়-সুখ দিতে প্রভুর নাহি মনোবল ৷  
+নিবেদন-প্রভাবেহ তবু ফলে এত ফল ॥ ১১৪ ॥
+
+viṣaya-sukha dite prabhura nāhi manobala  
+worldly happiness  to give  of the Lord  is not  inclination  
+nivedana-prabhāveha tabu phale eta phala  
+of the petition  even by the power  still  bears  so much  fruit
+
+(114) The Lord had no inclination to give worldly happiness; yet even by the power of a mere petition such fruit was borne.
+
+কে কহিতে পারে গৌরের আশ্চর্য্য স্বভাব ?  
+ব্রহ্মা-শিব-আদি যাঁর না পায় অন্তর্ভাব ॥ ১১৫ ॥
+
+ke kahite pāre gaurera āścarya svabhāva?  
+who  to tell  can  Gaura’s  wonderful  nature  
+brahmā-śiva-ādi yām̐ra nā pāya antarbhāva  
+Brahmā, Śiva and others  whose  not  find  inner intent
+
+(115) Who can describe the wonderful nature of Gaura? Even Brahmā, Śiva and the others cannot fathom His inner intent.
+
+এথা কাশীমিশ্র আসি’ প্রভুর চরণে ৷  
+রাজার চরিত্র সব কৈলা নিবেদনে ॥ ১১৬ ॥
+
+ethā kāśī-miśra āsi’ prabhura caraṇe  
+here  Kāśī Miśra  coming  the Lord’s  at the feet  
+rājāra caritra saba kailā nivedane  
+the king’s  conduct  all  made  report
+
+(116) Meanwhile Kāśī Miśra came to the Lord’s feet and reported all that the king had done.
+
+প্রভু কহে, — কাশীমিশ্র, কি তুমি করিলা ?  
+রাজ-প্রতিগ্রহ তুমি আমা’ করাইলা ? ॥ ১১৭ ॥
+
+prabhu kahe, — kāśī-miśra, ki tumi karilā?  
+the Lord  says  Kāśī Miśra,  what  you  have done  
+rāja-pratigraha tumi āmā’ karāilā?  
+a gift from the king  you  Me  have made accept
+
+(117) The Lord said, “Kāśī Miśra, what have you done? Have you made Me accept a gift from the king (*rāja-pratigraha*)?”[^28]
+
+মিশ্র কহে, — শুন, প্রভু, রাজার বচনে ৷  
+অকপটে রাজা এই কৈলা নিবেদনে ॥ ১১৮ ॥
+
+miśra kahe, — śuna, prabhu, rājāra vacane  
+Miśra  says  hear,  Lord,  the king’s  words  
+akapaṭe rājā ei kailā nivedane  
+without guile  the king  this  made  request
+
+(118) Miśra said, “Lord, hear the king’s words. Without any guile the king made this request:
+
+প্রভু যেন নাহি জানেন, — রাজা আমার লাগিয়া ৷  
+দুইলক্ষ কাহন কৌড়ি দিলেক ছাড়িয়া ॥ ১১৯ ॥
+
+prabhu yena nāhi jānena, — rājā āmāra lāgiyā  
+the Lord  so that  not  should think  the king  My  for the sake  
+duilakṣa kāhana kauḍi dileka chāḍiyā  
+two lakhs  of kāhanas  of money  gave  releasing
+
+(119) ‘Let the Lord not think that the king has given up two lakhs of kāhanas for His sake.
+
+ভবানন্দের পুত্র সব — মোর প্রিয়তম ৷  
+ইঁহা-সবাকারে আমি দেখি আত্মসম ॥ ১২০ ॥
+
+bhavānandera putra saba — mora priyatama  
+Bhavānanda’s  sons  all  to me  most dear  
+im̐hā-sabākāre āmi dekhi ātma-sama  
+them all  I  see  as my own self
+
+(120) All of Bhavānanda’s sons are most dear to me; I regard them all as my own self.
+
+অতএব যাঁহা তাঁহা দেই অধিকার ৷  
+খায়, পিয়ে, লুটে, বিলায়, না করোঁ বিচার ॥ ১২১ ॥
+
+ataeva yām̐hā tām̐hā dei adhikāra  
+therefore  here  there  I give  posts  
+khāya, piye, luṭe, vilāya, nā karom̐ vicāra  
+they eat,  drink,  plunder,  give away,  not  I make  scrutiny
+
+(121) So I give them posts here and there. They eat, drink, plunder and give away, and I do not look into it.
+
+রাজমহীন্দ্রে ‘রাজা’ কৈনু রাম-রায়ে ৷  
+যে খাইল, যেবা দিল, নাহি লেখা-দায়ে ॥ ১২২ ॥
+
+rājamahīndre ‘rājā’ kainu rāma-rāye  
+in Rājamahendrī  governor  I made  Rāmānanda Rāya  
+ye khāila, yebā dila, nāhi lekhā-dāye  
+what  he consumed,  what  he gave,  is not  accounting due
+
+(122) In Rājamahendrī I made Rāmānanda Rāya governor (*rājā*). Whatever he consumed and whatever he gave away, no account was asked of him.[^29]
+
+গোপীনাথ এইমত ‘বিষয়’ করিয়া ৷  
+দুইচারি-লক্ষ কাহন রহে ত’ খাঞা ॥ ১২৩ ॥
+
+gopīnātha eimata ‘viṣaya’ kariyā  
+Gopīnātha  in this way  official business  doing  
+duicāri-lakṣa kāhana rahe ta’ khāñā  
+two or four lakhs  of kāhanas  remains  indeed  having consumed
+
+(123) In the same way, while handling the king’s business, Gopīnātha goes on consuming two to four lakhs of kāhanas.
+
+কিছু দেয়, কিছু না দেয়, না করি বিচার ৷  
+‘জানা’-সহিত অপ্রীত্যে দুঃখ পাইল এইবার ॥ ১২৪ ॥
+
+kichu deya, kichu nā deya, nā kari vicāra  
+some  he gives,  some  not  gives,  not  I make  scrutiny  
+‘jānā’-sahita aprītye duḥkha pāila ei-bāra  
+the Jānā  with  through ill will  trouble  he got  this time
+
+(124) He pays some and does not pay some, and I do not look into it. This time he came to grief through his ill will with the Jānā.
+
+‘জানা’ এত কৈলা, — ইহা মুই নাহি জানোঁ ৷  
+ভবানন্দের পুত্র-সবে আত্মসম মানোঁ ॥ ১২৫ ॥
+
+‘jānā’ eta kailā, — ihā mui nāhi jānom̐  
+the Jānā  so much  did  this  I  not  know  
+bhavānandera putra-sabe ātma-sama mānom̐  
+Bhavānanda’s  sons all  as my own self  I regard
+
+(125) I did not know that the Jānā had gone so far. I regard all of Bhavānanda’s sons as my own self.
+
+তাঁহা লাগি’ দ্রব্য ছাড়ি, — ইহা মাৎ মানে ৷  
+সহজেই মোর প্রীতি হয় তাহা-সনে ॥ ১২৬ ॥
+
+tām̐hā lāgi’ dravya chāḍi, — ihā māt māne  
+His  for the sake  the money  I give up  this  let Him not  consider  
+sahajei mora prīti haya tāhā-sane  
+naturally  my  love  is  with them
+
+(126) Let Him not consider that I am giving up the money for His sake (*māt*, “not”): my love for them is natural.’”[^30]
+
+শুনিয়া রাজার বিনয় প্রভুর আনন্দ ৷  
+হেনকালে আইলা তথা রায়-ভবানন্দ ॥ ১২৭ ॥
+
+śuniyā rājāra vinaya prabhura ānanda  
+hearing  the king’s  humility  the Lord’s  joy  
+hena-kāle āilā tathā rāya-bhavānanda  
+at this  time  came  there  Bhavānanda Rāya
+
+(127) Hearing of the king’s humility, the Lord was pleased. Just then Bhavānanda Rāya arrived there.
+
+পঞ্চপুত্র-সহিতে আসি’ পড়িলা চরণে ৷  
+উঠাঞা প্রভু তাঁরে কৈলা আলিঙ্গনে ॥ ১২৮ ॥
+
+pañca-putra-sahite āsi’ paḍilā caraṇe  
+five  sons  with  coming  fell  at the feet  
+uṭhāñā prabhu tām̐re kailā āliṅgane  
+raising  the Lord  him  did  embracing
+
+(128) He came with his five sons and fell at the Lord’s feet. The Lord raised him up and embraced him.
+
+রামানন্দ-রায় আদি সবাই মিলিলা ৷  
+ভবানন্দ-রায় তবে বলিতে লাগিলা ॥ ১২৯ ॥
+
+rāmānanda-rāya ādi sabāi mililā  
+Rāmānanda Rāya  and the others  all  met  
+bhavānanda-rāya tabe balite lāgilā  
+Bhavānanda Rāya  then  to speak  began
+
+(129) Rāmānanda Rāya and all the others met the Lord. Then Bhavānanda Rāya began to speak:
+
+তোমার কিঙ্কর এই সব মোর কুল ৷  
+এ বিপদে রাখি’ প্রভু, পুনঃ নিলা মূল ॥ ১৩০ ॥
+
+tomāra kiṅkara ei saba mora kula  
+Your  servants  this  whole  my  family  
+e vipade rākhi’ prabhu, punaḥ nilā mūla  
+in this  danger  saving,  Lord,  again  You took  for a price
+
+(130) “My whole family are Your servants. Saving us in this danger, Lord, You have bought us again for a price (*nilā mūla*).[^31]
+
+ভক্তবাৎসল্য এবে প্রকট করিলা ৷  
+পূর্ব্বে যেন পঞ্চপাণ্ডবে বিপদে তারিলা ॥ ১৩১ ॥
+
+bhakta-vātsalya ebe prakaṭa karilā  
+affection for devotees  now  manifest  You have made  
+pūrve yena pañca-pāṇḍave vipade tārilā  
+formerly  as  the five Pāṇḍavas  from danger  You delivered
+
+(131) Now You have shown Your affection for Your devotees, as long ago You delivered the five Pāṇḍavas from danger.”[^32]
+
+‘নেতধটী’-মাথে গোপীনাথ চরণে পড়িলা ৷  
+রাজার কৃপা-বৃত্তান্ত সকল কহিলা ॥ ১৩২ ॥
+
+‘netadhaṭī’-māthe gopīnātha caraṇe paḍilā  
+silk cloth  on his head  Gopīnātha  at the feet  fell  
+rājāra kṛpā-vṛttānta sakala kahilā  
+the king’s  mercy  story  all  he told
+
+(132) Gopīnātha, the silk cloth on his head, fell at the Lord’s feet and told the whole story of the king’s kindness:
+
+বাকী-কৌড়ি বাদ, আর দ্বিগুণ বর্ত্তন কৈলা ৷  
+পুনঃ ‘বিষয়’ দিয়া ‘নেতধটী’ পরাইলা ॥ ১৩৩ ॥
+
+bākī-kauḍi bāda, āra dviguṇa vartana kailā  
+the outstanding money  remitted,  and  double  salary  he made  
+punaḥ ‘viṣaya’ diyā ‘neta-dhaṭī’ parāilā  
+again  the post  giving  silk cloth  he dressed
+
+(133) “He remitted the money I owed and doubled my salary; he gave me my post again and dressed me in silk.
+
+কাঁহা চাঙ্গের উপর সেই মরণ প্রমাদ !  
+কাঁহা ‘নেতধটী’ পুনঃ, — এসব প্রসাদ! ॥ ১৩৪ ॥
+
+kām̐hā cāṅgera upara sei maraṇa pramāda!  
+where  of the cāṅga  on top  that  of death  peril  
+kām̐hā ‘neta-dhaṭī’ punaḥ, — esaba prasāda!  
+where  silk cloth  again  all this  grace
+
+(134) On one hand, that peril of death on top of the *cāṅga*! On the other, silk cloth again — all this is Your grace!
+
+চাঙ্গের উপরে তোমার চরণ ধ্যান কৈলুঁ ৷  
+চরণ-স্মরণ-প্রভাবে এই ফল পাইলুঁ ॥ ১৩৫ ॥
+
+cāṅgera upare tomāra caraṇa dhyāna kailum̐  
+of the cāṅga  on top  Your  feet  meditation  I did  
+caraṇa-smaraṇa-prabhāve ei phala pāilum̐  
+of the feet  remembering  by the power  this  fruit  I obtained
+
+(135) On the *cāṅga* I meditated on Your feet, and by the power of remembering Your feet I obtained this fruit.
+
+লোকে চমৎকার মোর এ সব দেখিয়া ৷  
+প্রশংসে তোমার কৃপা-মহিমা গাঞা ॥ ১৩৬ ॥
+
+loke camatkāra mora e saba dekhiyā  
+people  amazement  my  this  all  seeing  
+praśaṁse tomāra kṛpā-mahimā gāñā  
+praise  Your  of mercy  the glory  singing
+
+(136) Seeing all this happen to me, people are amazed; they sing and praise the glory of Your mercy.
+
+কিন্তু তোমার স্মরণের নহে এই ‘মুখ্যফল’ ৷  
+‘ফলাভাস’ এই, — যাতে ‘বিষয়’ চঞ্চল ॥ ১৩৭ ॥
+
+kintu tomāra smaraṇera nahe ei ‘mukhya-phala’  
+but  Your  of remembrance  is not  this  the chief fruit  
+‘phalābhāsa’ ei, — yāte ‘viṣaya’ cañcala  
+a semblance of fruit  this  because  worldly things  fickle
+
+(137) But this is not the chief fruit of remembering You. It is only a semblance of fruit (*phalābhāsa*), for worldly things are fickle.[^33]
+
+রাম-রায়ে, বাণীনাথে কৈলা ‘নির্ব্বিষয়’ ৷  
+সেই কৃপা আমাতে নাহি, যাতে ঐছে হয় ! ॥ ১৩৮ ॥
+
+rāma-rāye, vāṇīnāthe kailā ‘nirviṣaya’  
+Rāmānanda Rāya,  Vāṇīnātha  You made  free from worldly affairs  
+sei kṛpā āmāte nāhi, yāte aiche haya!  
+that  mercy  on me  is not,  by which  such  comes about
+
+(138) You made Rāmānanda Rāya and Vāṇīnātha free from worldly affairs. But I have not received the mercy that brings this about!
+
+শুদ্ধ কৃপা কর, গোসাঞি, ঘুচাহ ‘বিষয়’ ৷  
+নির্ব্বিণ্ণ হইনু, মোতে ‘বিষয়’ না হয় ॥ ১৩৯ ॥
+
+śuddha kṛpā kara, gosāñi, ghucāha ‘viṣaya’  
+pure  mercy  show,  Gosāñi,  take away  worldly affairs  
+nirviṇṇa hainu, mote ‘viṣaya’ nā haya  
+weary  I have become,  by me  worldly affairs  not  can be done
+
+(139) Show me pure mercy, Gosāñi: take away my worldly affairs. I have grown weary of them (*nirviṇṇa*); worldly affairs are not for me.”[^34]
+
+প্রভু কহে, — সন্ন্যাসী যবে হইবা পঞ্চজন ৷  
+কুটুম্ব-বাহুল্য তোমার কে করে ভরণ ? ॥ ১৪০ ॥
+
+prabhu kahe, — sannyāsī yabe haibā pañca-jana  
+the Lord  says  sannyāsīs  if  will become  five  persons  
+kuṭumba-bāhulya tomāra ke kare bharaṇa?  
+large household  your  who  will do  maintaining
+
+(140) The Lord said, “If all five of you become sannyāsīs, who will maintain your large household?
+
+মহাবিষয় কর, কিবা বিরক্ত উদাস ৷  
+জন্মে জন্মে তুমি পঞ্চ — মোর ‘নিজদাস’ ॥ ১৪১ ॥
+
+mahā-viṣaya kara, kibā virakta udāsa  
+great  worldly affairs  do,  or  detached  indifferent  
+janme janme tumi pañca — mora ‘nija-dāsa’  
+in birth  after birth  you  five  My  own servants
+
+(141) Whether you manage great worldly affairs or live detached and indifferent to the world, birth after birth you five are My own servants.[^35]
+
+কিন্তু মোর করিহ এক ‘আজ্ঞা’ পালন ৷  
+ব্যয় না করিহ কিছু রাজার মূলধন ॥ ১৪২ ॥
+
+kintu mora kariha eka ‘ājñā’ pālana  
+but  My  do  one  order  keeping  
+vyaya nā kariha kichu rājāra mūla-dhana  
+spending  not  do  any  of the king’s  principal
+
+(142) But keep one order of Mine: do not spend any of the king’s principal (*mūla-dhana*).[^36]
+
+রাজার মূলধন দিয়া যে কিছু লভ্য হয় ৷  
+সেই ধন করিহ নানা ধর্ম্মে-কর্ম্মে ব্যয় ॥ ১৪৩ ॥
+
+rājāra mūla-dhana diyā ye kichu labhya haya  
+the king’s  principal  paying  whatever  profit  is  
+sei dhana kariha nānā dharme-karme vyaya  
+that  money  do  in various  religious and pious works  spending
+
+(143) After paying the king his principal, spend whatever profit remains on various pious works.
+
+অসদ্ব্যয় না করিহ, — যাতে দুইলোক যায় ৷  
+এত বলি’ সবাকারে দিলেন বিদায় ॥ ১৪৪ ॥
+
+asad-vyaya nā kariha, — yāte dui-loka yāya  
+sinful spending  not  do  by which  both worlds  are lost  
+eta bali’ sabākāre dilena vidāya  
+thus  saying  to all  He gave  leave
+
+(144) Do not spend on sinful things, by which both worlds are lost.” Saying this, He gave them all leave to go.[^37]
+
+রায়ের ঘরে প্রভুর ‘কৃপা-বিবর্ত্ত’ কহিল ৷  
+ভক্তবাৎসল্য-গুণ যাতে ব্যক্ত হৈল ॥ ১৪৫ ॥
+
+rāyera ghare prabhura ‘kṛpā-vivarta’ kahila  
+in Rāya’s  house  the Lord’s  seeming mercy  I have told  
+bhakta-vātsalya-guṇa yāte vyakta haila  
+affection for devotees  quality  in which  manifest  became
+
+(145) I have told of the Lord’s *kṛpā-vivarta* — a seeming mercy — shown in the house of Bhavānanda Rāya, and in it His affection for His devotees was revealed.[^38]
+
+সবায় আলিঙ্গিয়া বিদায় যবে দিলা ৷  
+হরিধ্বনি করি’ সব ভক্ত উঠি’ গেলা ॥ ১৪৬ ॥
+
+sabāya āliṅgiyā vidāya yabe dilā  
+all  embracing  leave  when  He gave  
+hari-dhvani kari’ saba bhakta uṭhi’ gelā  
+the sound of Hari  making  all  devotees  rising  went
+
+(146) When He embraced them all and gave them leave, all the devotees rose and went away, calling out the name of Hari.
+
+প্রভুর কৃপা দেখি’ সবার হৈল চমৎকার ৷  
+তাহারা বুঝিতে নারে প্রভুর ব্যবহার ॥ ১৪৭ ॥
+
+prabhura kṛpā dekhi’ sabāra haila camatkāra  
+the Lord’s  mercy  seeing  everyone’s  was  amazement  
+tāhārā bujhite nāre prabhura vyavahāra  
+they  to understand  cannot  the Lord’s  behaviour
+
+(147) Seeing the Lord’s mercy, everyone was amazed; they could not understand the Lord’s conduct.
+
+তারা সবে যদি কৃপা করিতে সাধিল ৷  
+‘আমা’ হৈতে কিছু নহে — প্রভু তবে কহিল ॥ ১৪৮ ॥
+
+tārā sabe yadi kṛpā karite sādhila  
+they  all  when  mercy  to show  entreated  
+‘āmā’ haite kichu nahe — prabhu tabe kahila  
+Me  from  anything  is not  the Lord  then  said
+
+(148) When they had all entreated Him to show mercy, the Lord had said, “Nothing will be done by Me.”[^39]
+
+গোপীনাথের নিন্দা, আর আপন-নির্ব্বেদ ৷  
+এইমাত্র কহিল, ইহার না বুঝিবে ভেদ ॥ ১৪৯ ॥
+
+gopīnāthera nindā, āra āpana-nirveda  
+Gopīnātha’s  censure,  and  His own  dejection  
+ei-mātra kahila, ihāra nā bujhibe bheda  
+this  only  He spoke,  of this  not  will understand  the secret
+
+(149) He only censured Gopīnātha and spoke of His own detachment (*nirveda*); no one will understand the secret of this.
+
+কাশীমিশ্রে না সাধিল, রাজারে না সাধিল ৷  
+উদ্যোগ বিনা এতসব ফল দিল ॥ ১৫০ ॥
+
+kāśī-miśre nā sādhila, rājāre nā sādhila  
+Kāśī Miśra  not  He entreated,  the king  not  He entreated  
+udyoga vinā etasaba phala dila  
+effort  without  all this  fruit  He gave
+
+(150) He did not entreat Kāśī Miśra, nor did He entreat the king; yet without any effort He gave all this fruit.
+
+চৈতন্যচরিত্র এই পরম গম্ভীর ৷  
+সেই বুঝে, তাঁর পদে যাঁর মন ‘ধীর’ ॥ ১৫১ ॥
+
+caitanya-caritra ei parama gambhīra  
+Caitanya’s  conduct  this  supremely  deep  
+sei bujhe, tām̐ra pade yām̐ra mana ‘dhīra’  
+he  understands  His  at the feet  whose  mind  steady
+
+(151) This conduct of Śrī Caitanya is supremely deep. Only he understands it whose mind is steady (*dhīra*) at His feet.
+
+যেই ইঁহা শুনে প্রভুর বাৎসল্য-প্রকাশ ৷  
+প্রেমভক্তি পায়, তাঁর বিপদ যায় নাশ ॥ ১৫২ ॥
+
+yei im̐hā śune prabhura vātsalya-prakāśa  
+whoever  this  hears  the Lord’s  affection  display  
+prema-bhakti pāya, tām̐ra vipada yāya nāśa  
+loving devotion  attains,  his  danger  goes  to destruction
+
+(152) Whoever hears this display of the Lord’s affection attains loving devotion, and his dangers are destroyed.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৫৩ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(153) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: Heading in the edition: by the mercy of Gaura’s devotees even lowly worldly people (*viṣayīs*) attain love for Kṛṣṇa. *Anubhāṣya*: the unfortunate are low people devoid of bhakti; their hearts are a waterless desert, and the flood of prema is a river overflowing its banks.
@@ -805,3 +1581,45 @@ soon  is attained  by him  Your  feet
 [^17]: *Anubhāṣya*: *vyavahāra* — livelihood or worldly enjoyment; one who seeks help from Viṣṇu or the Vaiṣṇavas for his own worldly ends lacks the eyes of knowledge. Heading in the edition (to 68–69): to ask Viṣṇu for fruits to gratify one’s own senses, and not to please Viṣṇu, is folly and mere trade.
 
 [^18]: The Gauḍīya Maṭha edition reads ভোগ-ভাগী, “one who takes his share” (another reading is ভোগ-ভোগী, “an enjoyer”): the second line speaks of the same pure devotee, who in happiness and distress himself accepts the fruit of his own deeds without asking the Lord to free him (cf. verse 77, *bhuñjāna evātma-kṛtaṁ vipākam*). Heading in the edition: the definition of a pure devotee.
+
+[^19]: The same verse is Madhya 6.261, where Sārvabhauma recites it with *bhakti-pade*, “to the position of devotion”; here it is read *mukti-pade*, as in the *Bhāgavatam*.
+
+[^20]: Heading in the edition: by the Lord’s mercy alone Gopīnātha will be protected in future too.
+
+[^21]: *Sva-mandire* — “to his own dwelling”. Heading in the edition: Pratāparudra comes to the house of his guru, Miśra.
+
+[^22]: *Amṛta-pravāha-bhāṣya*: *bhiyāna* is the orderly and dignified performance of the service.
+
+[^23]: Heading in the edition: the Lord, the embodiment and guardian of dharma, sternly rebukes Gopīnātha, who had taken the king’s money; there follows a description of worldly, civic and household rules — the rules of honestly earned wealth (*śukla-vitta*).
+
+[^24]: *Amṛta-pravāha-bhāṣya*: *nirmañchana* is a special offering — the *arghya* offered during ārati or worship.
+
+[^25]: The Gauḍīya Maṭha edition reads তাহা; another reading is তারা, “they”. The sense is the same: it is Gopīnātha’s family who suffer. Heading in the edition: the Lord suffers when His devotee suffers.
+
+[^26]: The Gauḍīya Maṭha edition reads বড় জানা (another reading is বড় জানায়, “he called the Baḍa Jānā”): the Baḍa Jānā himself summons Gopīnātha. Heading in the edition: the heir to the throne shows Gopīnātha favour and lets him go.
+
+[^27]: Heading in the edition: the account of Gopīnātha’s punishment leads to a description of the elevation, both worldly and spiritual — the highest good (*śreyas*) — that the Lord’s mercy brings.
+
+[^28]: *Anubhāṣya*: at Kāśī Miśra’s word the king gave up, for the Lord’s sake, the money Gopīnātha owed him; so, in the Lord’s view, it came about that He had accepted a gift from the king’s wealth (*rājārtha-pratigraha*).
+
+[^29]: Heading in the edition: earlier, by Pratāparudra’s favour, Rāmānanda Rāya had been made governor (*bhūmi-adhikārī*) of Rājamahendrī. *Anubhāṣya*: the capital of that region in Rāmānanda Rāya’s time, Vidyānagara, lay on the southern bank of the Godāvarī, near its mouth; the present town of Rājamahendrī stands on the northern bank.
+
+[^30]: *Māt* (a Hindi word) — “not” (*Amṛta-pravāha-bhāṣya*; cf. verse 119).
+
+[^31]: *Amṛta-pravāha-bhāṣya*: *nilā mūla* — “You have bought us again, paying the price”. Heading in the edition: Bhavānanda says that he and all his line have sold themselves to the Lord’s feet.
+
+[^32]: Heading in the edition: the Lord’s love for His devotees, described by a comparison — so He delivered the five Pāṇḍavas from danger.
+
+[^33]: *Amṛta-pravāha-bhāṣya*: the chief fruit of remembering Your lotus feet is love for You; the saving of life, honour and wealth is only a semblance of the fruit of that good deed, the service of Your feet. Worldly things are fickle in themselves, so the fruit connected with them is not the chief one.
+
+[^34]: Heading in the edition: seeing his worldly fortune grow and fearing to lose the good fortune of serving the Lord, Gopīnātha begs at the Lord’s feet for unfeigned mercy (*amāyā-kṛpā*) and to be freed from the urge to enjoy the world.
+
+[^35]: *Anubhāṣya*: if the soul knows itself as Bhagavān’s eternal servant, neither outward sannyāsa nor the outward management of great worldly affairs can harm it; devoted to Kṛṣṇa’s service, it lives in great renunciation even at home.
+
+[^36]: Heading in the edition: Gopīnātha must do his duty to the king and spend only what is honestly earned (*śukla-artha*).
+
+[^37]: *Anubhāṣya*: when the soul falls into sin, it becomes hard for it to gain either worldly welfare or transcendental realisation.
+
+[^38]: *Amṛta-pravāha-bhāṣya*: *kṛpā-vivarta* is mercy in the form of worldly welfare, which is not true mercy, though to the worldly mind it seemed to be mercy — one thing taken for another (*vivarta*). *Anubhāṣya*: in it the Lord is shown to be conquered by His devotees. Not to be confused with *kṛpā-chadma* (verse 58), mercy veiled beneath another guise.
+
+[^39]: Heading in the edition: the hidden meaning of the Lord’s conduct in delivering Gopīnātha — at first He refuses to save him; after saving him He rebukes him for dishonest money; as an example for the renounced Vaiṣṇava He seeks solitude; Gopīnātha’s worldly fortune grows; and the Lord teaches him that one may serve Kṛṣṇa at home or away from it. *Anubhāṣya*: were Śrī Gaurasundara, in the dress of a renunciant, to help a worldly man, people would imitate Him and degrade the ideal of the renounced Vaiṣṇava; so a renunciant devotee must never take up the affairs of worldly people.
