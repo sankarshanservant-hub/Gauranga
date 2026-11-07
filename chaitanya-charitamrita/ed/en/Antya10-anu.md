@@ -169,3 +169,121 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 ## 53
 
 > Subheading: After seeing Jagannātha, the Lord feeds the devotees and sends them to their own lodgings —
+
+## 55
+
+> Subheading: Rāghava leaves his *jhālis* with Govinda —
+
+## 56
+
+*Ājāḍa* — empty, emptied.
+
+## 57
+
+> Subheading: One morning the Lord goes with the devotees to see Jagannātha —
+
+## 58
+
+> Subheading: A description of the *beḍā-saṅkīrtana* (the *kīrtana* around the temple) in seven groups —
+
+*Beḍā-kīrtana* — see Madhya 11.215–238.
+
+## 61
+
+> Subheading: The Lord manifests His great majesty (*aiśvarya*) —
+
+## 62
+
+> Subheading: The roar of the great *saṅkīrtana* —
+
+## 63
+
+> Subheading: The king and his queens watch the *saṅkīrtana* —
+
+## 64
+
+> Subheading: The force of the great *saṅkīrtana* —
+
+*Kīrtanāveśe* (“in absorption in *kīrtana*”) — another reading has “*kīrtanāṭope*,” that is, through the force or vehemence of the *kīrtana*.
+
+## 65
+
+> Subheading: The Lord's constant desire —[^65-1]
+
+## 66
+
+> Subheading: The Lord dances in the midst of the seven groups —
+
+## 67
+
+> Subheading: The Lord orders Svarūpa to sing a line of an Oriya song —
+
+## 68
+
+> Subheading: The line is this —
+
+*Jagamohana* — the *nāṭya-mandira* (hall) of Śrī Jagannāthadeva, which is called the *jagamohana*; *pari* — to; *muṇḍā* — head; *yāu* — may it be offered, may it be given.
+
+## 69
+
+> Subheading: The Lord dances absorbed in love, and everyone is filled with bliss —
+
+## 70
+
+> Subheading: From the Lord's mouth comes only the sound “Haribol!” —
+
+## 71
+
+> Subheading: The Lord's *sāttvika-vikāras* (transcendental transformations) —
+
+## 74
+
+> Subheading: His teeth shake —
+
+## 75
+
+> Subheading: The ocean of bliss swells —
+
+## 76
+
+> Subheading: Everyone forgets the body, that is, the outer world —
+
+## 77
+
+> Subheading: Nityānanda devises a way to bring the *kīrtana* to a close —
+
+## 78
+
+> Subheading: Svarūpa and others sing softly —
+
+## 79
+
+> Subheading: The Lord partly returns to external awareness —
+
+## 80
+
+> Subheading: Learning from Nityānanda that the devotees are tired, the Lord ends the *kīrtana*, and everyone bathes in the ocean —
+
+## 81
+
+> Subheading: Everyone honors *prasāda* —
+
+## 82
+
+> Subheading: The Lord lies down, and Govinda massages His feet —
+
+*Gambhīrā* — the inner room of a house.
+
+## 83
+
+> Subheading: The custom: every day Govinda gently massages the Lord's feet, the Lord falls asleep, and then Govinda receives His remnants —
+
+## 85
+
+> Subheading: The tired Lord lies down, blocking the whole doorway —
+
+---
+
+[^35-1]: In the verse translation, otherwise: “…added fragrant substances and rolled it into balls.”
+
+[^65-1]: So in the edition: *nitya-vāñchā* (“constant desire”); given the sense of the verse (“then the Lord desired to dance Himself”), possibly a misprint for *nṛtya-vāñchā*, “the desire to dance.”
