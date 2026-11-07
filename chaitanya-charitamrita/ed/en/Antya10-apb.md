@@ -15,3 +15,31 @@ I worship Śrī Kṛṣṇa Caitanya, who shows grace to His devotees and is ple
 ## 16
 
 *Purāṇa śuktā* — dried bitter jute greens (*pāṭa-śāka*).
+
+## 21
+
+A lover strung a garland and, in the presence of her rivals (*sapatnīs*), placed it on the breast of a full-bosomed beauty. She did not cast it off, though it was soiled, for good qualities do not reside in a thing — they reside in love alone.
+
+## 23
+
+*Kuthalī* — small bags.
+
+## 24
+
+*Kola-śuṇṭhi* — dried *kul* berries.
+
+## 25
+
+*Nāḍu-gaṅgājali* — white *nāḍus* (sweet balls).
+
+## 27
+
+*Śālikācaṭi dhānya* — (a kind of) dry unhusked rice.
+
+## 31
+
+*Ukhḍā* is *muḍki*: the small husked grains of the *khai* type that remain after the large *khai* (popped rice) have been picked out.
+
+## 50
+
+*Caitanya-maṅgala* — see the *Caitanya-bhāgavata*, Antya, Chapter 9.
