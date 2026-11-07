@@ -177,7 +177,7 @@ who accepts the feeling  Mahāprabhu  the affection  alone  accepts
 śuktā-pātā-kāśandite mahā-sukha haya  
 in śuktā leaves and kāśandi  great joy  there is
 
-(18) Mahāprabhu receives the feeling (*bhāva-grāhī*); He takes only the affection. So the *śuktā* leaves and *kāśandi* gave Him great joy.[^6]
+(18) Mahāprabhu receives the feeling (*bhāva-grāhī*): it is the affection alone that He accepts. So the *śuktā* leaves and *kāśandi* gave Him great joy.[^6]
 
 ‘মনুষ্য’-বুদ্ধি দময়ন্তী করে প্রভুর পায় ৷  
 গুরু-ভোজনে উদরে কভু ‘আম’ হঞা যায় ॥ ১৯ ॥
@@ -213,7 +213,7 @@ the garland  not  a certain (woman)  cast off  soiled with water
 vasanti hi premṇi guṇā na vastuni  
 dwell  for  in love  virtues  not  in the thing
 
-(21) “Her beloved strung a garland himself and placed it on her breast in the presence of her rivals; and though it was soiled with water, the full-bosomed maiden did not cast it off — for virtues dwell in love, not in the thing.” (Kirātārjunīya, 8.20)[^8]
+(21) “Her beloved strung a garland himself and placed it on her breast in the presence of her rivals; and though it was soiled with water, the full-bosomed maiden did not cast it off — for virtues dwell in love, not in the thing itself.” (Kirātārjunīya, 8.20)[^8]
 
 ধনিয়া-মৌহরীর তণ্ডুল গুণ্ডা করিয়া ৷  
 নাড়ু বান্ধিয়াছে চিনি-পাক করিয়া ॥ ২২ ॥
@@ -233,7 +233,7 @@ dry ginger with sugar  nāḍus  and  remedies for āma and bile
 pṛthak pṛthak bāndhi’ vastrera kuthalī-bhitara  
 separately  separately  tying  of cloth  in little bags
 
-(23) Dry ginger with sugar, *nāḍus*, and remedies for *āma* and bile she tied up separately in little cloth bags.[^9]
+(23) She tied up dry ginger with sugar, *nāḍus*, and remedies for *āma* and bile, each separately in little cloth bags.[^9]
 
 কোলিশুণ্ঠি কোলিচূর্ণ কোলিখণ্ড আর ৷  
 কত নাম লইব, আর শতপ্রকার ‘আচার’ ॥ ২৪ ॥
@@ -243,7 +243,7 @@ dried kul berries  kul powder  kul with sugar  and
 kata nāma laiba, āra śata-prakāra ‘ācāra’  
 how many  names  shall I list  and  of a hundred kinds  pickles
 
-(24) Dried *kul* berries (*koli-śuṇṭhi*), *kul* powder, *kul* with sugar — how many names shall I list? — and a hundred kinds of pickles (*ācāra*).
+(24) There were dried *kul* berries (*koli-śuṇṭhi*), *kul* powder and *kul* with sugar — how many names shall I list? — and a hundred kinds of pickles (*ācāra*).
 
 নারিকেল-খণ্ড আর নাড়ু গঙ্গাজলি ৷  
 চিরস্থায়ী খণ্ডবিকার করিলা সকলি ॥ ২৫ ॥
@@ -370,7 +370,7 @@ ordinary  jhālis  than  twice as big  jhālis  she made
 paripāṭi kari’ saba jhāli bharāilā  
 neatly  making  all  the jhālis  she had filled
 
-(37) She had *jhālis* made twice the size of ordinary ones, and had them all packed neatly.
+(37) She made *jhālis* twice the size of ordinary ones and neatly filled them all.
 
 ঝালি বান্ধি’ মোহর দিলা আগ্রহ করিয়া ৷  
 তিন বোঝারি ঝালি বহে ক্রম করিয়া ॥ ৩৮ ॥
@@ -650,7 +650,7 @@ in this way  for some time  He had performed  kīrtana
 āpane nācite tabe prabhura haila mana  
 Himself  to dance  then  the Lord’s  arose  wish
 
-(65) In this way He had the kīrtana performed for some time; then the Lord wished to dance Himself.
+(65) For some time He led the kīrtana in this way; then the Lord wished to dance Himself.
 
 সাত-দিকে সাত-সম্প্রদায় গায়, বাজায় ৷  
 মধ্যে মহাপ্রেমাবেশে নাচে গৌর-রায় ॥ ৬৬ ॥
@@ -737,7 +737,7 @@ one  one  tooth  all  separately  separately  shake
 aiche naḍe danta, — yena bhūme khasi’ paḍe  
 so  shake  the teeth  as if  to the ground  coming loose  fall
 
-(74) Each of His teeth shook separately; they shook as if they would come loose and fall to the ground.
+(74) Each of His teeth shook on its own, so loosely that it seemed they would fall to the ground.
 
 ক্ষণে ক্ষণে বাড়ে প্রভুর আনন্দ-আবেশ ৷  
 তৃতীয় প্রহর হইল, নৃত্য নহে শেষ ॥ ৭৫ ॥
@@ -787,7 +787,7 @@ tumult  there was no  the Lord’s  some  outer awareness  came
 tabe nityānanda sabāra śrama jānāila  
 then  Nityānanda  everyone’s  fatigue  made known
 
-(79) When the tumult died down, the Lord regained some outer awareness. Then Nityānanda told Him how tired everyone was.[^20]
+(79) When the tumult died down, the Lord regained some outward awareness. Then Nityānanda told Him how tired everyone was.[^20]
 
 ভক্তশ্রম জানি’ কৈলা কীর্ত্তন সমাপন ৷  
 সবা লঞা আসি’ কৈলা সমুদ্রে স্নপন ॥ ৮০ ॥
@@ -1144,7 +1144,7 @@ You  them  not  eat;  they  ask  time and  again
 kata vañcanā karimu, kemane āmāra nistāra?  
 how much  putting off  shall I do,  how  my  deliverance
 
-(115) You do not eat them, and they ask again and again. How long can I put them off? How shall I be delivered?”
+(115) You do not eat them, and they ask again and again. How long can I put them off? How am I to be free of this?”
 
 প্রভু কহে, — ‘আদিবস্যা, দুঃখ কাঁহে মানে ?  
 কেবা কি দিয়াছে, তাহা আনহ এখানে ॥ ১১৬ ॥
@@ -1575,7 +1575,7 @@ of that  in the midst  Rāghava’s  jhālis’ account
 tāra madhye pari-muṇḍā-nṛtya-kathana  
 of that  in the midst  in a circle  dance  telling
 
-(159) Within it I have told of Rāghava’s *jhālis*, and within it too of the dance in a circle (*parimuṇḍā-nṛtya*).[^41]
+(159) In the course of it I have also told of Rāghava’s *jhālis* and of the dance in a circle (*parimuṇḍā-nṛtya*).[^41]
 
 শ্রদ্ধা করি’ শুনে যেই চৈতন্যের কথা ৷  
 চৈতন্যচরণে প্রেম পাইবে সর্ব্বথা ॥ ১৬০ ॥

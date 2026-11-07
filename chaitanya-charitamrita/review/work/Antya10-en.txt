@@ -92,7 +92,7 @@ fn: The Gauḍīya Maṭha edition reads *śuktāya ye sukha haya, nahe pañcām
 ## 18
 w: who accepts the feeling  Mahāprabhu  the affection  alone  accepts
 w: in śuktā leaves and kāśandi  great joy  there is
-tr: Mahāprabhu receives the feeling (*bhāva-grāhī*); He takes only the affection. So the *śuktā* leaves and *kāśandi* gave Him great joy.
+tr: Mahāprabhu receives the feeling (*bhāva-grāhī*): it is the affection alone that He accepts. So the *śuktā* leaves and *kāśandi* gave Him great joy.
 fn: Edition heading: the transcendental Bhagavān accepts the feeling. *Anubhāṣya*: *bhāva* here is a transcendental, causeless movement of the heart, made of pure goodness and aimed at pleasing Kṛṣṇa — not a mundane feeling that seeks its own pleasure.
 
 ## 19
@@ -111,7 +111,7 @@ w: by her beloved  strung  in the presence of her rivals
 w: placed  on her breast  the full-breasted (woman)
 w: the garland  not  a certain (woman)  cast off  soiled with water
 w: dwell  for  in love  virtues  not  in the thing
-tr: “Her beloved strung a garland himself and placed it on her breast in the presence of her rivals; and though it was soiled with water, the full-bosomed maiden did not cast it off — for virtues dwell in love, not in the thing.” (Kirātārjunīya, 8.20)
+tr: “Her beloved strung a garland himself and placed it on her breast in the presence of her rivals; and though it was soiled with water, the full-bosomed maiden did not cast it off — for virtues dwell in love, not in the thing itself.” (Kirātārjunīya, 8.20)
 fn: Edition heading: a verse from Bhāravi’s *Kirātārjunīya* (canto 8, verse 20); only what is offered with love is full of virtue, and in a gift of love outer faults and merits are not weighed. *Anubhāṣya*: only a thing offered with love has virtue; any other, even a good one, is without it — and love has no need to test the thing.
 
 ## 22
@@ -122,13 +122,13 @@ tr: She ground coriander and anise seeds into powder, cooked it in sugar syrup a
 ## 23
 w: dry ginger with sugar  nāḍus  and  remedies for āma and bile
 w: separately  separately  tying  of cloth  in little bags
-tr: Dry ginger with sugar, *nāḍus*, and remedies for *āma* and bile she tied up separately in little cloth bags.
+tr: She tied up dry ginger with sugar, *nāḍus*, and remedies for *āma* and bile, each separately in little cloth bags.
 fn: The Gauḍīya Maṭha edition reads *śuṇṭhī-khaṇḍa, nāḍu, āra āma-pitta-hara* — three separate things. *Amṛta-pravāha-bhāṣya*: *kuthalī* — little bags.
 
 ## 24
 w: dried kul berries  kul powder  kul with sugar  and
 w: how many  names  shall I list  and  of a hundred kinds  pickles
-tr: Dried *kul* berries (*koli-śuṇṭhi*), *kul* powder, *kul* with sugar — how many names shall I list? — and a hundred kinds of pickles (*ācāra*).
+tr: There were dried *kul* berries (*koli-śuṇṭhi*), *kul* powder and *kul* with sugar — how many names shall I list? — and a hundred kinds of pickles (*ācāra*).
 
 ## 25
 w: coconut sweets  and  nāḍus  gaṅgājali
@@ -193,7 +193,7 @@ fn: The Gauḍīya Maṭha edition reads *candanādi* (“sandalwood and other t
 ## 37
 w: ordinary  jhālis  than  twice as big  jhālis  she made
 w: neatly  making  all  the jhālis  she had filled
-tr: She had *jhālis* made twice the size of ordinary ones, and had them all packed neatly.
+tr: She made *jhālis* twice the size of ordinary ones and neatly filled them all.
 
 ## 38
 w: the jhālis  tying  a seal  she gave  with care
@@ -338,7 +338,7 @@ fn: The Gauḍīya Maṭha edition reads *kīrtana-āveśe* (“in the ecstasy o
 ## 65
 w: in this way  for some time  He had performed  kīrtana
 w: Himself  to dance  then  the Lord’s  arose  wish
-tr: In this way He had the kīrtana performed for some time; then the Lord wished to dance Himself.
+tr: For some time He led the kīrtana in this way; then the Lord wished to dance Himself.
 
 ## 66
 w: on seven sides  seven parties  sing  play
@@ -384,7 +384,7 @@ tr: From every pore came perspiration and blood, and His faltering voice uttered
 ## 74
 w: one  one  tooth  all  separately  separately  shake
 w: so  shake  the teeth  as if  to the ground  coming loose  fall
-tr: Each of His teeth shook separately; they shook as if they would come loose and fall to the ground.
+tr: Each of His teeth shook on its own, so loosely that it seemed they would fall to the ground.
 
 ## 75
 w: moment  by moment  grows  the Lord’s  ecstasy of bliss
@@ -409,7 +409,7 @@ tr: Only the principal parties went on singing with Svarūpa, softly.
 ## 79
 w: tumult  there was no  the Lord’s  some  outer awareness  came
 w: then  Nityānanda  everyone’s  fatigue  made known
-tr: When the tumult died down, the Lord regained some outer awareness. Then Nityānanda told Him how tired everyone was.
+tr: When the tumult died down, the Lord regained some outward awareness. Then Nityānanda told Him how tired everyone was.
 fn: Edition heading: the Lord comes to a half-external state (*ardha-bāhya*).
 
 ## 80
@@ -596,7 +596,7 @@ tr: “Advaita Ācārya and the other honoured devotees carefully give me things
 ## 115
 w: You  them  not  eat;  they  ask  time and  again
 w: how much  putting off  shall I do,  how  my  deliverance
-tr: You do not eat them, and they ask again and again. How long can I put them off? How shall I be delivered?”
+tr: You do not eat them, and they ask again and again. How long can I put them off? How am I to be free of this?”
 
 ## 116
 w: the Lord  said  the old residents,  sorrow  why  feel
@@ -818,7 +818,7 @@ fn: The words of this verse (*bhakta-datta … āsvādana*) give the chapter its
 ## 159
 w: of that  in the midst  Rāghava’s  jhālis’ account
 w: of that  in the midst  in a circle  dance  telling
-tr: Within it I have told of Rāghava’s *jhālis*, and within it too of the dance in a circle (*parimuṇḍā-nṛtya*).
+tr: In the course of it I have also told of Rāghava’s *jhālis* and of the dance in a circle (*parimuṇḍā-nṛtya*).
 fn: See verse 102 and the note to verse 68.
 
 ## 160
