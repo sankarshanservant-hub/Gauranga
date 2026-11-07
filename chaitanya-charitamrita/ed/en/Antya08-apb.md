@@ -34,7 +34,7 @@ Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāpra
 
 ## 48
 
-*Kalpita nindana* — a false, groundlessly imputed accusation.[^48-1]
+*Kalpita nindana* — a falsely imputed accusation.[^48-1]
 
 ## 65–66
 
