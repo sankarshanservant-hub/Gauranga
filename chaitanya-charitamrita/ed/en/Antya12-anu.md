@@ -60,7 +60,7 @@ The toll collectors behaved outrageously, extorting excess duties from the pilgr
 
 ## 19
 
-> Subheading: Nityānanda, in His transcendental guise of a cowherd boy of Vraja, His hunger unsatisfied, shows Śivānanda a feigned semblance of anger —[^19-1]
+> Subheading: Nityānanda, in His transcendental guise of a cowherd boy of Vraja, His hunger unsatisfied, shows Śivānanda a feigned semblance of anger —
 
 ## 21
 
@@ -458,6 +458,3 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 *Thus ends the twelfth chapter of the “Anubhāṣya.”*
 
----
-
-[^19-1]: In the verse translation, otherwise: “Nityānanda Prabhu was hungry and, not having been given a place to stay, became very indignant and began to scold Śivānanda Sena.” The *Anubhāṣya* calls Nityānanda's anger a feigned semblance of anger.
