@@ -27,3 +27,41 @@ Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāpra
 ## 37
 
 *Anyera bhikṣāra sthitira* — he found out the rule of other people's meals: what and how much they eat.
+
+## 47
+
+“Last night there was cane molasses (*guḍa*) here; that is why the ants are crawling about. Alas, such is the craving of renounced *sannyāsīs* for sense enjoyment!” Saying this, he got up and left.
+
+## 48
+
+*Kalpita nindana* — a false, groundlessly imputed accusation.[^48-1]
+
+## 65–66
+
+O Arjuna, by eating much there is no *yoga*; by not eating at all there is no *yoga* either; nor does it come by much sleep or by giving up sleep. But when eating, recreation and all activities — effort, sleep, waking and so on — are kept in proper measure, the *yoga* that destroys suffering arises.
+
+## 76
+
+Seeing the universe as one in nature, as the union of *prakṛti* and *puruṣa*, one should never praise or blame the nature and deeds of others.
+
+## 78
+
+Of an earlier and a later injunction, the later is the stronger.
+
+## 86
+
+*Abhojyānna vipra* — a *brāhmaṇa* in whose house one may not eat the food (*anna*) he cooks.
+
+## 95
+
+*Śirera pāthara* — just as one feels light when a heavy stone suddenly falls from one's head, so it happened.
+
+*Thus ends the eighth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
+---
+
+[^14-1]: In the verse translation, otherwise: “Can one who cannot restrain his tongue become detached?”; the commentator: there is not even a semblance of renunciation in him.
+
+[^24-1]: In the verse translation, otherwise: “This offense against his teacher awakened many worldly desires in Rāmacandra Purī”; for the commentator, *vāsanā* is the desire for dry knowledge.
+
+[^48-1]: The verse translation leaves the word *kalpita* (“fabricated”) untranslated: “Now He heard it Himself.”
