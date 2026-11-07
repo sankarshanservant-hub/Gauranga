@@ -15,3 +15,21 @@ I bow to Haridāsa, and I bow to his Lord, that Caitanyadeva who danced holding 
 ## 32
 
 *Sei līlā* (“that pastime”) — the pastime of Your departure (*antardhāna-līlā*).
+
+## 56
+
+*Utkrāmaṇa* — going out, exit.
+
+## 77
+
+*Pichāḍā* — people who walk behind (according to another opinion, “a basket” or “a load”; see verse 79).
+
+## 78
+
+*Puñjā* — a portion counted out in fours.
+
+## 101
+
+*Haridāsera vijaya* (Haridāsa's departure). If in Śrī Puruṣottama-kṣetra one goes from Ṭoṭā-Gopīnātha to the seashore, there, right by the ocean, the *samādhi* of Ṭhākura Haridāsa stands to this day. Every year, on the day of Ananta-caturdaśī, the festival of Ṭhākura Haridāsa's departure (*vijaya-utsava*) is held.
+
+*Thus ends the eleventh chapter of the “Amṛta-pravāha-bhāṣya.”*

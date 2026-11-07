@@ -20,3 +20,17 @@
 - পাষাণদ্রাবক → от которых растаял бы камень / which would melt a stone.
 - তদ্দাসাভাস → лишь подобие Его слуги / a mere semblance of His servant.
 - Книги: “Вишну-смрити” / *Viṣṇu-smṛti*.
+- নির্য্যাণ, উৎক্রান্তি (Харидаса) → уход (нирьяна), исход (уткранти) / departure (*niryāṇa*), the passing out of the life-air (*utkrānti*); উৎক্রামণ → уткрамана, выход, исход / *utkrāmaṇa*, going out.
+- তিরোভাব (Харидаса) → уход (тиробхава) / departure (*tirobhāva*); গোলোকগমন → отправиться в Голоку / going to Goloka.
+- ইচ্ছা-মৃত্যু (Бхишмы) → уход по собственной воле (иччха-мритью) / departure at will (*icchā-mṛtyu*); ভীষ্মের নির্য্যাণ → уход Бхишмы / Bhīṣma's departure.
+- বিরহ-মহোৎসব, বিরহোৎসব, বিজয়োৎসব → праздник разлуки (вираха-махотсава), праздник ухода (виджая-утсава) / the festival of separation (*viraha-mahotsava*), the festival of departure (*vijaya-utsava*); বিজয়ৈশ্বর্য্য → величие ухода (виджаи) / the glory of his departure (*vijaya*).
+- সমাধিপীঠ → самадхи-питха (возвышение над самадхи) / *samādhi-pīṭha* (platform over the *samādhi*); সমাধিবাটী → самадхи / the *samādhi*.
+- মহাতীর্থ → великое место паломничества (махатиртха) / a great holy place (*mahā-tīrtha*).
+- ডোর → дора, шёлковые шнуры (паттадори), прасад Джаганнатхи / *ḍora*, silk cords (*paṭṭa-ḍorī*); কড়ার → кадара, сандаловая паста-прасад / *kaḍāra*, sandalwood paste that is *prasāda*.
+- চাঙ্গড়া → чангра, большая корзина / *cāṅgaḍā*, a large basket; পিছাড়া → пичхара, люди, идущие позади / *pichāḍā*, people who walk behind; পুঞ্জা → пунджа, доля, отсчитанная по четыре / *puñjā*, a portion counted out in fours.
+- বিপণিকার, পসারি → торговцы / shopkeepers.
+- আকণ্ঠ-ভোজন → наесться досыта / eat one's fill; আচমন → ачамана / *ācamana*.
+- বিদ্বৎসন্ন্যাসী → санньяси-мудрец (видват-санньяси) / a learned *sannyāsī* (*vidvat-sannyāsī*); পরমহংসবর → лучший из парамахамс / the best of *paramahaṁsas*.
+- পরম-বিদ্বান্ → парама-видван (величайший знаток) / *parama-vidvān* (supremely learned); কৃষ্ণবিদ্যা → кришна-видья (знание о Кришне) / *kṛṣṇa-vidyā*; বিদ্যাবধূজীবন → жизнь невесты-знания (видья-вадху-дживанам) / the life of the bride of knowledge (*vidyā-vadhū-jīvanam*); সর্ব্বশাস্ত্রাধীতী → изучивший все шастры (сарва-шастрадхити) / learned in all the scriptures (*sarva-śāstrādhītī*).
+- Места: Сварга-двара (Пури), Тота-Гопинатха, Бхакти-кути, Шри Пурушоттама-матх, Кендрапара; Ананта-чатурдаши / Svarga-dvāra, Ṭoṭā-Gopīnātha, Bhakti-kuṭī, Śrī Puruṣottama Maṭha, Kendrāpāḍā; Ananta-caturdaśī.
+- Имена: Бхрамарадхара (из Кендрапары, преданный из Уткала); Ванинатха / Bhramaradhara; Vāṇīnātha.
