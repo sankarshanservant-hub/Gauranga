@@ -1058,6 +1058,343 @@ day  by day  the Lord’s  mercy  increases  joy
 
 (105) In this way he stayed with the Lord for eight months, and day by day the Lord’s mercy and his joy increased.[^29]
 
+মধ্যে মধ্যে মহাপ্রভুর করেন নিমন্ত্রণ ৷  
+ঘর-ভাত করেন, আর বিবিধ ব্যঞ্জন ॥ ১০৬ ॥
+
+madhye madhye mahāprabhura karena nimantraṇa  
+from time  to time  Mahāprabhu’s  he makes  invitation  
+ghara-bhāta karena, āra vividha vyañjana  
+home-cooked  rice  he makes,  and  various  vegetable dishes
+
+(106) From time to time he would invite Mahāprabhu and cook rice and various vegetable dishes at his home.
+
+রঘুনাথ-ভট্ট — পাকে অতি-সুনিপুণ ৷  
+যেই রান্ধে, সেই হয় অমৃতের সম ॥ ১০৭ ॥
+
+raghunātha-bhaṭṭa — pāke ati-sunipuṇa  
+Raghunātha  Bhaṭṭa  in cooking  very  expert  
+yei rāndhe, sei haya amṛtera sama  
+whatever  he cooks,  that  becomes  nectar  like
+
+(107) Raghunātha Bhaṭṭa was highly expert in cooking; whatever he cooked became like nectar.
+
+পরম সন্তোষে প্রভু করেন ভোজন ৷  
+প্রভুর অবশিষ্ট-পাত্র ভট্টের ভক্ষণ ॥ ১০৮ ॥
+
+parama santoṣe prabhu karena bhojana  
+with great  satisfaction  the Lord  does  eating  
+prabhura avaśiṣṭa-pātra bhaṭṭera bhakṣaṇa  
+the Lord’s  remnants  plate  the Bhaṭṭa’s  eating
+
+(108) With great satisfaction the Lord would eat, and the Bhaṭṭa would eat the remnants on the Lord’s plate.
+
+রামদাস যদি প্রথম প্রভুরে মিলিলা ৷  
+মহাপ্রভু অধিক তাঁরে কৃপা না করিলা ॥ ১০৯ ॥
+
+rāmadāsa yadi prathama prabhure mililā  
+Rāmadāsa  when  first  the Lord  met  
+mahāprabhu adhika tām̐re kṛpā nā karilā  
+Mahāprabhu  much  to him  mercy  not  showed
+
+(109) When Rāmadāsa first met the Lord, Mahāprabhu did not show him much mercy.[^30]
+
+অন্তরে মুমুক্ষু তেঁহো, বিদ্যা-গর্ব্ববান্ ৷  
+সর্ব্বচিত্ত-জ্ঞাতা প্রভু — সর্ব্বজ্ঞ ভগবান্ ॥ ১১০ ॥
+
+antare mumukṣu tem̐ho, vidyā-garvavān  
+at heart  desiring liberation  he,  of learning  proud  
+sarva-citta-jñātā prabhu — sarvajña bhagavān  
+all  hearts  knower  the Lord  omniscient  Bhagavān
+
+(110) At heart he desired liberation, and he was proud of his learning. The Lord knows every heart: He is Bhagavān, who knows all.[^31]
+
+রামদাস কৈলা তবে নীলাচলে বাস ৷  
+পট্টনায়ক-গোষ্ঠীকে পড়ায় ‘কাব্যপ্রকাশ’ ॥ ১১১ ॥
+
+rāmadāsa kailā tabe nīlācale vāsa  
+Rāmadāsa  made  then  at Nīlācala  residence  
+paṭṭanāyaka-goṣṭhīke paḍāya ‘kāvya-prakāśa’  
+to the Paṭṭanāyaka  family  teaches  Kāvya-prakāśa
+
+(111) Rāmadāsa then settled at Nīlācala and taught the *Kāvya-prakāśa* to the Paṭṭanāyaka family.[^32]
+
+অষ্টমাস রহি’ প্রভু ভট্টে বিদায় দিলা ৷  
+‘বিবাহ না করিহ’ বলি’ নিষেধ করিলা ॥ ১১২ ॥
+
+aṣṭa-māsa rahi’ prabhu bhaṭṭe vidāya dilā  
+eight  months  staying  the Lord  to the Bhaṭṭa  farewell  gave  
+‘vivāha nā kariha’ bali’ niṣedha karilā  
+marriage  not  make  saying  forbade
+
+(112) When he had stayed eight months, the Lord bade the Bhaṭṭa farewell and forbade him, saying, “Do not marry.[^33]
+
+বৃদ্ধ মাতা-পিতার যাই’ করহ সেবন ৷  
+বৈষ্ণব-পাশ ভাগবত কর অধ্যয়ন ॥ ১১৩ ॥
+
+vṛddha mātā-pitāra yāi’ karaha sevana  
+aged  mother  father’s  going  do  service  
+vaiṣṇava-pāśa bhāgavata kara adhyayana  
+a Vaiṣṇava  from  the Bhāgavata  do  study
+
+(113) Go and serve your aged mother and father, and study the *Bhāgavata* under a Vaiṣṇava.[^34]
+
+পুনরপি একবার আসিহ নীলাচলে ৷  
+এত বলি’ কণ্ঠ-মালা দিলা তাঁর গলে ॥ ১১৪ ॥
+
+punarapi eka-bāra āsiha nīlācale  
+again  once more  come  to Nīlācala  
+eta bali’ kaṇṭha-mālā dilā tām̐ra gale  
+this  saying  neck  garland  gave  his  on the neck
+
+(114) Come to Nīlācala once more.” Saying this, the Lord took the garland from His own neck and placed it on him.
+
+আলিঙ্গন করি’ প্রভু বিদায় তাঁরে দিলা ৷  
+প্রেমে গর গর ভট্ট কান্দিতে লাগিলা ॥ ১১৫ ॥
+
+āliṅgana kari’ prabhu vidāya tām̐re dilā  
+embrace  making  the Lord  farewell  to him  gave  
+preme gara gara bhaṭṭa kāndite lāgilā  
+with love  overflowing  the Bhaṭṭa  to weep  began
+
+(115) Embracing him, the Lord bade him farewell, and the Bhaṭṭa, overflowing with love, began to weep.
+
+স্বরূপ-আদি ভক্ত ঠাঞি আজ্ঞা মাগিয়া ৷  
+বারাণসী আইলা ভট্ট প্রভুর আজ্ঞা পাঞা ॥ ১১৬ ॥
+
+svarūpa-ādi bhakta ṭhāñi ājñā māgiyā  
+Svarūpa  and others  devotees  from  leave  asking  
+vārāṇasī āilā bhaṭṭa prabhura ājñā pāñā  
+to Vārāṇasī  came  the Bhaṭṭa  the Lord’s  permission  receiving
+
+(116) Asking leave of Svarūpa and the other devotees, and having received the Lord’s permission, the Bhaṭṭa came to Vārāṇasī.
+
+চারিবৎসর ঘরে পিতা-মাতার সেবা কৈলা ৷  
+বৈষ্ণব-পণ্ডিত-ঠাঞি ভাগবত পড়িলা ॥ ১১৭ ॥
+
+cāri-vatsara ghare pitā-mātāra sevā kailā  
+four  years  at home  father  mother’s  service  did  
+vaiṣṇava-paṇḍita-ṭhāñi bhāgavata paḍilā  
+a Vaiṣṇava  paṇḍita  from  the Bhāgavata  studied
+
+(117) For four years he served his father and mother at home, and he studied the *Bhāgavata* under a Vaiṣṇava *paṇḍita*.
+
+পিতা-মাতা কাশী পাইলে উদাসীন হঞা ৷  
+পুনঃ প্রভুর ঠাঞি আইলা গৃহাদি ছাড়িয়া ॥ ১১৮ ॥
+
+pitā-mātā kāśī pāile udāsīna hañā  
+father  mother  Kāśī  when they attained  detached  becoming  
+punaḥ prabhura ṭhāñi āilā gṛhādi chāḍiyā  
+again  the Lord’s  to  came  home and all  leaving
+
+(118) When his father and mother departed this world at Kāśī, he became detached, left home and all, and came to the Lord again.
+
+পূর্ব্ববৎ অষ্টমাস প্রভু-পাশ ছিলা ৷  
+অষ্টমাস রহি’ পুনঃ প্রভু আজ্ঞা দিলা ॥ ১১৯ ॥
+
+pūrvavat aṣṭa-māsa prabhu-pāśa chilā  
+as before  eight  months  the Lord  near  he stayed  
+aṣṭa-māsa rahi’ punaḥ prabhu ājñā dilā  
+eight  months  staying  again  the Lord  order  gave
+
+(119) As before, he stayed with the Lord for eight months, and when the eight months had passed, the Lord again gave him His order:
+
+আমার আজ্ঞায়, রঘুনাথ, যাহ বৃন্দাবনে ৷  
+তাঁহা যাঞা রহ রূপ-সনাতন-স্থানে ॥ ১২০ ॥
+
+āmāra ājñāya, raghunātha, yāha vṛndāvane  
+My  by order,  Raghunātha,  go  to Vṛndāvana  
+tām̐hā yāñā raha rūpa-sanātana-sthāne  
+there  going  stay  Rūpa  Sanātana  with
+
+(120) “Raghunātha, by My order go to Vṛndāvana. Go there and stay with Rūpa and Sanātana.
+
+ভাগবত পড়, সদা লহ কৃষ্ণনাম ৷  
+অচিরে করিবেন কৃপা কৃষ্ণ ভগবান্ ॥ ১২১ ॥
+
+bhāgavata paḍa, sadā laha kṛṣṇa-nāma  
+the Bhāgavata  read,  always  take  Kṛṣṇa’s  name  
+acire karibena kṛpā kṛṣṇa bhagavān  
+soon  will show  mercy  Kṛṣṇa  Bhagavān
+
+(121) Read the *Bhāgavata* and always take the name of Kṛṣṇa. Very soon Kṛṣṇa, Bhagavān, will bestow His mercy on you.”
+
+এত বলি’ প্রভু তাঁরে আলিঙ্গন কৈলা ৷  
+প্রভুর কৃপাতে কৃষ্ণপ্রেমে মত্ত হৈলা ॥ ১২২ ॥
+
+eta bali’ prabhu tām̐re āliṅgana kailā  
+this  saying  the Lord  him  embrace  gave  
+prabhura kṛpāte kṛṣṇa-preme matta hailā  
+the Lord’s  by the mercy  for Kṛṣṇa  with love  intoxicated  became
+
+(122) Saying this, the Lord embraced him, and by the Lord’s mercy he became intoxicated with love for Kṛṣṇa.
+
+চৌদ্দ-হাত জগন্নাথের তুলসীর মালা ৷  
+ছুটা-পান-বিড়া মহোৎসবে পাঞাছিলা ॥ ১২৩ ॥
+
+caudda-hāta jagannāthera tulasīra mālā  
+fourteen  cubits  Jagannātha’s  of tulasī  mālā  
+chuṭā-pāna-viḍā mahotsave pāñāchilā  
+plain  betel  roll  at a festival  had received
+
+(123) At a festival the Lord had received Jagannātha’s *tulasī-mālā*, fourteen cubits long, and a plain roll of betel (*chuṭā-pāna-viḍā*).[^35]
+
+সেই মালা, ছুটা-পান প্রভু তাঁরে দিলা ৷  
+‘ইষ্টদেব’ করি’ মালা ধরিয়া রাখিলা ॥ ১২৪ ॥
+
+sei mālā, chuṭā-pāna prabhu tām̐re dilā  
+that  mālā,  plain  betel  the Lord  to him  gave  
+‘iṣṭa-deva’ kari’ mālā dhariyā rākhilā  
+worshipful  Deity  considering  the mālā  holding  kept
+
+(124) The Lord gave him that *mālā* and the plain betel, and he kept the *mālā*, regarding it as his worshipful Deity (*iṣṭa-deva*).[^36]
+
+প্রভুর ঠাঞি আজ্ঞা লঞা গেলা বৃন্দাবনে ৷  
+আশ্রয় করিলা আসি’ রূপ-সনাতনে ॥ ১২৫ ॥
+
+prabhura ṭhāñi ājñā lañā gelā vṛndāvane  
+the Lord  from  permission  taking  went  to Vṛndāvana  
+āśraya karilā āsi’ rūpa-sanātane  
+shelter  took  coming  in Rūpa  Sanātana
+
+(125) Taking the Lord’s permission, he went to Vṛndāvana, and on arriving there he took shelter of Rūpa and Sanātana.
+
+রূপ-গোসাঞির সভায় করেন ভাগবত পঠন ৷  
+ভাগবত পড়িতে প্রেমে আউলায় তাঁর মন ॥ ১২৬ ॥
+
+rūpa-gosāñira sabhāya karena bhāgavata paṭhana  
+Rūpa  Gosvāmī’s  in the assembly  does  Bhāgavata  reading  
+bhāgavata paḍite preme āulāya tām̐ra mana  
+the Bhāgavata  while reading  with love  is overwhelmed  his  mind
+
+(126) In Rūpa Gosvāmī’s assembly he would recite the *Bhāgavata*, and as he read, his mind would lose its hold, overwhelmed with love.[^37]
+
+অশ্রু, কম্প, গদগদ প্রভুর কৃপাতে ৷  
+নেত্র রোধ করে বাষ্প, না পারেন পড়িতে ॥ ১২৭ ॥
+
+aśru, kampa, gadagada prabhura kṛpāte  
+tears,  trembling,  faltering voice  the Lord’s  by the mercy  
+netra rodha kare bāṣpa, nā pārena paḍite  
+the eyes  blocking  does  tears,  not  he is able  to read
+
+(127) By the Lord’s mercy tears flowed, he trembled and his voice faltered; a mist veiled his eyes, and he could read no further.[^38]
+
+পিকস্বর-কণ্ঠ, তাতে রাগের বিভাগ ৷  
+একশ্লোক পড়িতে ফিরায় তিন-চারি রাগ ॥ ১২৮ ॥
+
+pika-svara-kaṇṭha, tāte rāgera vibhāga  
+cuckoo’s  voice  throat,  in it  of rāgas  variety  
+eka-śloka paḍite phirāya tina-cāri rāga  
+one  verse  while reading  he changes  three  four  rāgas
+
+(128) His voice was as sweet as the cuckoo’s and rich in *rāgas*: in reading a single verse he would move through three or four of them.
+
+কৃষ্ণের সৌন্দর্য্য-মাধুর্য্য যবে পড়ে, শুনে ৷  
+প্রেমেতে বিহ্বল তবে, কিছুই না জানে ॥ ১২৯ ॥
+
+kṛṣṇera saundarya-mādhurya yabe paḍe, śune  
+Kṛṣṇa’s  beauty  sweetness  when  he reads,  hears  
+premete vihvala tabe, kichui nā jāne  
+with love  overwhelmed  then,  anything  not  he knows
+
+(129) When he read or heard of Kṛṣṇa’s beauty and sweetness, he was overwhelmed with love and knew nothing else.
+
+গোবিন্দ-চরণে কৈলা আত্মসমর্পণ ৷  
+গোবিন্দ-চরণারবিন্দ — যাঁর প্রাণধন ॥ ১৩০ ॥
+
+govinda-caraṇe kailā ātma-samarpaṇa  
+Govinda’s  at the feet  made  self  surrender  
+govinda-caraṇāravinda — yām̐ra prāṇa-dhana  
+Govinda’s  feet  lotus  whose  life’s  treasure
+
+(130) He surrendered himself at the feet of Govinda: Govinda’s lotus feet were the treasure of his life.
+
+নিজ শিষ্যে কহি’ গোবিন্দের মন্দির করাইলা ৷  
+বংশী, মকর কুণ্ডলাদি ‘ভূষণ’ করি’ দিলা ॥ ১৩১ ॥
+
+nija śiṣye kahi’ govindera mandira karāilā  
+his own  disciple  telling  Govinda’s  temple  had built  
+vaṁśī, makara kuṇḍalādi ‘bhūṣaṇa’ kari’ dilā  
+flute,  makara  earrings and so on  as ornaments  making  gave
+
+(131) Through his own disciple he had a temple built for Govinda, and he gave the Deity a flute, *makara*-shaped earrings and other ornaments.[^39]
+
+গ্রাম্যবার্ত্তা না শুনে, না কহে জিহ্বায় ৷  
+কৃষ্ণকথা-পূজাদিতে অষ্টপ্রহর যায় ॥ ১৩২ ॥
+
+grāmya-vārtā nā śune, nā kahe jihvāya  
+village  talk  not  he hears,  not  speaks  with the tongue  
+kṛṣṇa-kathā-pūjādite aṣṭa-prahara yāya  
+of Kṛṣṇa  in talks  worship and so on  eight  praharas  pass
+
+(132) He would not listen to worldly talk, nor speak it with his tongue. All the eight *praharas* of his day passed in talks of Kṛṣṇa, worship and the like.
+
+বৈষ্ণবের নিন্দ্য-কর্ম্ম নাহি পাড়ে কাণে ৷  
+সবে কৃষ্ণ ভজন করে, — এইমাত্র জানে ॥ ১৩৩ ॥
+
+vaiṣṇavera nindya-karma nāhi pāḍe kāṇe  
+of Vaiṣṇavas  blameworthy  deeds  not  he lets fall  into the ears  
+sabe kṛṣṇa bhajana kare, — ei-mātra jāne  
+all  Kṛṣṇa  worship  do  this  only  he knows
+
+(133) He would not let the blameworthy deeds of a Vaiṣṇava reach his ears. “Everyone serves Kṛṣṇa”—this alone he knew.[^40]
+
+মহাপ্রভুর দত্ত মালা মননের কালে ৷  
+প্রসাদ-কড়ার-সহ বান্ধি’ লন গলে ॥ ১৩৪ ॥
+
+mahāprabhura datta mālā mananera kāle  
+by Mahāprabhu  given  the mālā  of remembrance  at the time  
+prasāda-kaḍāra-saha bāndhi’ lana gale  
+prasāda  kaḍāra (sandal paste)  together with  tying  puts  on the neck
+
+(134) At the time of remembrance (*smaraṇa*) he would tie the *mālā* given by Mahāprabhu together with Jagannātha’s prasāda, the *kaḍāra*, and wear it around his neck.[^41]
+
+মহাপ্রভুর কৃপায় কৃষ্ণপ্রেম অনর্গল ৷  
+এই ত’ কহিলুঁ তাতে চৈতন্য-কৃপাফল ॥ ১৩৫ ॥
+
+mahāprabhura kṛpāya kṛṣṇa-prema anargala  
+Mahāprabhu’s  by the mercy  for Kṛṣṇa  love  unrestrained  
+ei ta’ kahilum̐ tāte caitanya-kṛpā-phala  
+this  indeed  I have told  in it  Caitanya’s  mercy  fruit
+
+(135) By Mahāprabhu’s mercy his love for Kṛṣṇa flowed unrestrained. This I have told; in it is the fruit of Caitanya’s mercy.
+
+জগদানন্দের কহিলুঁ বৃন্দাবনগমন ৷  
+তার মধ্যে দেবদাসীর গান-শ্রবণ ॥ ১৩৬ ॥
+
+মহাপ্রভুর রঘুনাথে কৃপা-মহাফল ৷  
+একপরিচ্ছেদে তিন কথা কহিলুঁ সকল ॥ ১৩৭ ॥
+
+jagadānandera kahilum̐ vṛndāvana-gamana  
+Jagadānanda’s  I have told  to Vṛndāvana  going  
+tāra madhye deva-dāsīra gāna-śravaṇa  
+that  within  the devadāsī’s  song  hearing  
+mahāprabhura raghunāthe kṛpā-mahā-phala  
+Mahāprabhu’s  on Raghunātha  mercy  great  fruit  
+eka-paricchede tina kathā kahilum̐ sakala  
+in one  chapter  three  topics  I have told  all
+
+(136–137) I have described Jagadānanda’s journey to Vṛndāvana and, in the course of it, how the Lord heard the *devadāsī*’s song, and how Mahāprabhu bestowed on Raghunātha the great fruit of His mercy. Thus in one chapter I have told all three stories.[^42]
+
+যে এইসকল কথা শুনে শ্রদ্ধা করি’ ৷  
+তাঁরে কৃষ্ণপ্রেমধন দেন গৌরহরি ॥ ১৩৮ ॥
+
+ye ei-sakala kathā śune śraddhā kari’  
+who  these  all  narrations  hears  faith  with  
+tām̐re kṛṣṇa-prema-dhana dena gaurahari  
+to him  Kṛṣṇa  love  wealth  gives  Gaurahari
+
+(138) To whoever hears all these narrations with faith, Gaurahari gives the wealth of love for Kṛṣṇa.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৩৯ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(139) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: The same verse as Ādi 4.2 (= Ādi 1.18, 17.2, Antya 2.2, 4.2, 6.2); translation as there.
@@ -1117,3 +1454,29 @@ day  by day  the Lord’s  mercy  increases  joy
 [^28]: The Gauḍīya Maṭha edition (p. 1007) reads *bali’*, “saying”; another reading is *jāni*, “knowing (him).”
 
 [^29]: The Gauḍīya Maṭha edition (p. 1007) reads *kṛpā*, “mercy”; another reading is *kṛpāya*, “by the mercy.” Heading in the edition: eight months with the Lord; Raghunātha receives His loving mercy.
+
+[^30]: Heading in the edition: although Rāmadāsa met the Lord, the Lord, the Indweller (*antaryāmī*), remains indifferent to him.
+
+[^31]: *Amṛta-pravāha-bhāṣya*: the desire for liberation and pride of learning—these two faults kept Rāmadāsa from becoming a pure Vaiṣṇava.
+
+[^32]: *Anubhāṣya*: the Paṭṭanāyaka family—the descendants of Bhavānanda.
+
+[^33]: *Anubhāṣya*: Mahāprabhu saw that Raghunātha, before entering family life, was already devoted to Kṛṣṇa, and so He forbade him to take a wife—an excess (*atyāhāra*)—and to enter the world of *māyā*, the abode of enjoyment; worldly people ruled by their wives often turn away from the service of Kṛṣṇa, and there is little hope of their attaining devotion to Hari.
+
+[^34]: *Anubhāṣya*: through Raghunātha the Lord teaches that one should serve a father and mother who are Vaiṣṇavas wholly devoted to Gaura, and serve them only in a way that helps one’s own service to Hari; He does not tell anyone to serve parents averse to Hari, guru and Vaiṣṇavas. The *Bhāgavata* is to be studied only under a *bhāgavata* free from *anarthas*: under a non-Vaiṣṇava grammarian it becomes a worldly poem.
+
+[^35]: Heading in the edition: the Lord gives a *tulasī-mālā* for *japa*, and more. *Anubhāṣya*: *chuṭā-pāna-viḍā*—betel (*tāmbūla*) by itself, without spices or other additions.
+
+[^36]: Heading in the edition: every day Raghunātha serves this *mālā*.
+
+[^37]: *Anubhāṣya*: *āulāya*—the mind loses its support, grows weak, agitated and unsteady, as if mad. Heading in the edition: Raghunātha, the best of the followers of Rūpa (*rūpānuga*), reads the *Bhāgavata* before Śrī Rūpa Prabhu.
+
+[^38]: The Gauḍīya Maṭha edition (p. 1009) reads *netra rodha kare bāṣpa*, “tears veil the eyes”; another reading is *netra kaṇṭha rodhe bāṣpa*, “tears choke the eyes and throat.” Heading in the edition: the eight *sāttvika-bhāvas* (spiritual transformations) appear in Raghunātha.
+
+[^39]: Heading in the edition: through his own disciple he builds the temple of Govinda and makes ornaments for the Deity.
+
+[^40]: *Anubhāṣya*: “the blameworthy deeds of a Vaiṣṇava” are those that ruin one’s Vaiṣṇava nature: aversion to the service of Kṛṣṇa and association with women. Raghunātha Bhaṭṭa did not try, as a devotee of the middle stage would, to correct anyone’s faults: he knew that everyone serves Kṛṣṇa (cf. Ādi 6.83).
+
+[^41]: *Anubhāṣya*: *mananera kāle*, “at the time of remembrance (*smaraṇa*).” *Kaḍāra*: according to the *Anubhāṣya* on Antya 11.66, sandal paste, the prasāda of Jagannātha (cf. Madhya 16.95).
+
+[^42]: The Gauḍīya Maṭha edition (p. 1010) reads *kṛpā-mahā-phala*, “the great fruit of mercy”; another reading is *kṛpā-prema-phala*, “love, the fruit of mercy.”
