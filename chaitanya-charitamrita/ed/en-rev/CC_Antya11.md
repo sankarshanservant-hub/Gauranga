@@ -266,7 +266,7 @@ now  small  the number  making  do  saṅkīrtana
 haridāsa kahe, — śuna mora nivedana  
 Haridāsa  says  hear  my  submission
 
-(26) Now reduce your number and perform saṅkīrtana.” Haridāsa said, “Please hear my request.
+(26) Now chant a smaller number of names.” Haridāsa said, “Please hear my request.
 
 হীন-জাতি জন্ম মোর নিন্দ্য-কলেবর ৷  
 হীনকর্ম্মে রত মুঞি অধম পামর ॥ ২৭ ॥
@@ -356,7 +356,7 @@ my  this  desire  if  by Your  grace  comes true
 ei nivedana mora kara, dayāmaya  
 this  request  my  grant  O merciful One
 
-(35) If by Your grace this desire of mine may come true, then grant this request of mine, O merciful Lord.
+(35) If by Your grace this desire can be fulfilled, then grant my prayer, O merciful Lord.
 
 এই নীচ দেহ মোর পড়ুক তব আগে ৷  
 এই বাঞ্ছা-সিদ্ধি মোর তোমাতেই লাগে ॥ ৩৬ ॥
@@ -396,7 +396,7 @@ the feet  clasping  says  Haridāsa  not  do  māyā (guile)
 avaśya mo-adhame, prabhu, kara ei ‘dayā’  
 surely  to me, the fallen  O Lord  show  this  mercy
 
-(39) Clasping His feet, Haridāsa said, “Lord, do not deceive me with *māyā*; surely show mercy (*dayā*) to this fallen one.[^10]
+(39) Clasping His feet, Haridāsa said, “Lord, do not try Your *māyā* on me! Do show this mercy (*dayā*) to one so fallen.[^10]
 
 মোর শিরোমণি কত কত মহাশয় ৷  
 তোমার লীলার সহায় কোটিভক্ত হয় ॥ ৪০ ॥
@@ -416,7 +416,7 @@ like me  if  one  insect  dying  goes
 pipīlikā maile pṛthivīra kām̐hā hāni haila?  
 ant  if it dies  to the earth  what  loss  has there been
 
-(41) If one insect like me is gone, what is lost? When an ant dies, what loss does the earth suffer?
+(41) If one insect like me is gone, what does it matter? When an ant dies, what does the earth lose?
 
 ‘ভকতবৎসল’ তুমি, মুই ‘ভক্তাভাস’ ৷  
 অবশ্য পূরিবে, প্রভু, মোর এই আশ ॥ ৪২ ॥
@@ -566,7 +566,7 @@ of the Lord’s face  the sweetness  he drinks  in his eyes  streams of tears
 nāmera sahita prāṇa karilā utkrāmaṇa  
 the name  together with  his life  he made  go out
 
-(56) While uttering the words “Śrī Kṛṣṇa Caitanya,” he sent his life-air out of the body together with the name.[^11]
+(56) And so, as he uttered the words “Śrī Kṛṣṇa Caitanya,” he let his life go forth from his body together with the name.[^11]
 
 মহাযোগেশ্বর-প্রায় স্বচ্ছন্দে মরণ ৷  
 ‘ভীষ্মের নির্য্যাণ’ সবার হইল স্মরণ ॥ ৫৭ ॥
@@ -626,7 +626,7 @@ Haridāsa Ṭhākura  then  onto a vimāna  placing
 samudre lañā gelā tabe kīrtana kariyā  
 to the sea  taking  they went  then  kīrtana  performing
 
-(62) Then they placed Haridāsa Ṭhākura on a *vimāna*, a palanquin shaped like a celestial chariot, and carried him to the sea, singing kīrtana.
+(62) They placed Haridāsa Ṭhākura on a *vimāna*, a palanquin shaped like a celestial chariot, and carried him to the sea, singing kīrtana.
 
 আগে মহাপ্রভু চলেন নৃত্য করিতে করিতে ৷  
 পাছে নৃত্য করে বক্রেশ্বর ভক্তগণ-সাথে ॥ ৬৩ ॥
@@ -716,7 +716,7 @@ then  Mahāprabhu  all  with the devotees
 samudre karilā snāna-jala-keli raṅge  
 in the sea  He did  bathing and water play  joyfully
 
-(71) Then Mahāprabhu bathed in the sea with all the devotees and joyfully played in the water.
+(71) Afterwards Mahāprabhu bathed in the sea with all the devotees and joyfully played in the water.
 
 হরিদাসে প্রদক্ষিণ করি’ আইল সিংহদ্বারে ৷  
 হরিকীর্ত্তন-কোলাহল সকল নগরে ॥ ৭২ ॥
@@ -806,7 +806,7 @@ Vāṇīnātha Paṭṭanāyaka  prasāda  brought
 kāśī-miśra aneka prasāda pāṭhāilā  
 Kāśī Miśra  much  prasāda  sent
 
-(80) Vāṇīnātha Paṭṭanāyaka brought prasāda, and Kāśī Miśra sent a great deal of prasāda.
+(80) Vāṇīnātha Paṭṭanāyaka brought prasāda, and Kāśī Miśra sent a great quantity.
 
 সব বৈষ্ণবে প্রভু বসাইলা সারি সারি ৷  
 আপনে পরিবেশে প্রভু লঞা জনা-চারি ॥ ৮১ ॥
@@ -866,7 +866,7 @@ himself  Kāśī Miśra  came  prasāda  bringing
 prabhure bhikṣā karāilā āgraha kariyā  
 the Lord  His meal  he made take  insistence  showing
 
-(86) Kāśī Miśra came himself with prasāda and insistently had the Lord take His meal.
+(86) Kāśī Miśra came himself with prasāda and pressed the Lord to take His meal.
 
 পুরী ভারতীর সঙ্গে প্রভু ভিক্ষা কৈলা ৷  
 সকল বৈষ্ণব তবে ভোজন করিলা ॥ ৮৭ ॥
@@ -960,7 +960,7 @@ by mere wish  he made  his own life  go out
 pūrve yena śuniyāchi bhīṣmera maraṇa  
 in the past  as  we have heard  Bhīṣma’s  departure
 
-(96) By his mere wish he sent his life out of his body, just as we have heard of Bhīṣma’s departure long ago.
+(96) By his wish alone he sent his life forth from his body, as we have heard Bhīṣma did long ago.
 
 হরিদাস আছিল পৃথিবীর ‘শিরোমণি’ ৷  
 তাহা বিনা রত্নশূন্যা হইল মেদিনী ॥ ৯৭ ॥
