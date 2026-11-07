@@ -44,8 +44,17 @@ for l in L:
         if j >= 0 and has_bn(out[j]) and not has_cyr(out[j]): out[j] = out[j].rstrip() + ' ' + s; continue
     out.append(l)
 L = out
+hd = [k for k, x in enumerate(L[:12]) if x.strip()]
+if len(hd) > 1 and L[hd[0]].rstrip().endswith('-'): L[hd[0]] = L[hd[0]].rstrip() + L[hd[1]].strip(); L[hd[1]] = ''
+hd = [k for k, x in enumerate(L[:12]) if x.strip()]
+tp = next((k for k in hd if L[k].strip().startswith('(перевод')), None)
+if tp is not None and len([k for k in hd if k < tp]) > 4:
+    t = [k for k in hd if k < tp][3:]
+    L[t[0]] = ' '.join(L[k].strip() for k in t)
+    for k in t[1:]: L[k] = ''
+L = [x for k, x in enumerate(L) if not (k < 12 and not x.strip() and k < (tp or 0))]
 # группы бенгальских строк, оканчивающиеся ॥ N ॥
-res, i, used, log = [], 0, set(), []
+res, i, used, log, last = [], 0, set(), [], 0
 while i < len(L):
     if has_bn(L[i]) and not has_cyr(L[i]):
         j = i; grp = []
@@ -53,6 +62,8 @@ while i < len(L):
             if L[j].strip(): grp.append(L[j])
             j += 1
         nums = [bn2i(m) for g_ in grp for m in re.findall(r'[॥?!]\s*([০-৯]+)\s*(?:॥|$)', g_.strip())]
+        nums = [n if n > last else last + 1 + q for q, n in enumerate(nums)]   # опечатка номера у ВЧД (॥ ৫ ॥ вместо ॥ ৫১ ॥, 12.51)
+        if nums: last = nums[-1]
         if nums and all(n in VB for n in nums):
             for n in nums:
                 ls, k = vb_lines(n)
