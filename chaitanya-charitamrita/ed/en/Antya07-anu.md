@@ -424,7 +424,7 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 
 > Subheading: Vallabha Bhaṭṭa engages the Ācārya and others in empty argument (*kutarka*) —
 
-**Udgrāhādi-prāya** — like an assault, that is, he stubbornly held his ground in argument, as in a scholarly debate. **Ācāryādi** — with Advaita Ācārya, or with Ācārya Svarūpa Dāmodara, and others.
+**Udgrāhādi-prāya** — like an assault, that is, he stubbornly held his ground in argument, as in a scholarly debate. **Ācāryādi** — with Advaita Ācārya, or with Ācārya Dāmodara Svarūpa, and others.
 
 ## 97
 

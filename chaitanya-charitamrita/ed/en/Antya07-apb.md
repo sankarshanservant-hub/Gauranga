@@ -46,7 +46,7 @@ The devotion he had for the Lord partly went away[^85-1].
 
 ## 110
 
-Whatever statement comes up in a given place, Śrīdhara Svāmī accepts it as it stands and explains it so. Therefore his explanations do not everywhere have a single, consistent sense (*eka-vākyatā*), or (harmony); and so I do not accept Śrīdhara Svāmī.
+Whatever statement comes up in a given place, Śrīdhara Svāmī accepts it as it stands and explains it so. Therefore his explanations do not everywhere have a single, consistent sense (*eka-vākyatā*) or harmony (*sāmañjasya*); and so I do not accept Śrīdhara Svāmī.
 
 ## 115
 
