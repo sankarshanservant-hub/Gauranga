@@ -1000,7 +1000,7 @@ the Indweller  the Lord  will know  my  mind
 tām̐re bhaya nāhi kichu, ‘viṣama’ tām̐ra gaṇa  
 of Him  fear  not  any,  ‘severe’  His  associates
 
-(94) The Lord dwells in the heart; He will know my mind, and I have no fear of Him. But His associates are ‘severe.’”[^35]
+(94) The Lord dwells in the heart; He will know my mind, and I have no fear of Him. But His associates are ‘severe’.”[^35]
 
 যদ্যপি বিচারে পণ্ডিতের নাহি দোষ ৷  
 তথাপি প্রভুর গণ করে প্রণয়-রোষ ॥ ৯৫ ॥
@@ -1240,7 +1240,7 @@ now  why  the Lord’s  toward me  turned  went  mind
 īśvara-svabhāva, — karena sabākāra hita  
 of the Lord  the nature  does  of all  the good
 
-(118) ‘May his mind become free of this pride — “I shall win”’: such is His intention. It is the Lord’s nature to do good to all.
+(118) He wants my mind to be free of the pride that says ‘I shall win’: it is the Lord’s nature to do good to all.
 
 আপনা জানাইতে আমি করি অভিমান ৷  
 সে গর্ব্ব খণ্ডাইতে মোর করেন অপমান ॥ ১১৯ ॥
@@ -1660,7 +1660,7 @@ to the Paṇḍita  the Lord’s  favour  description  not  goes
 ‘gadāi-gaurāṅga’ bali’ yām̐re loke gāya  
 ‘Gadāi-Gaurāṅga’  calling  whom  people  sing
 
-(160) The Lord’s favour to the Paṇḍita cannot be described. People sing of Him as ‘Gadāi-Gaurāṅga.’
+(160) The Lord’s favour to the Paṇḍita cannot be described. People sing of Him as ‘Gadāi-Gaurāṅga’.
 
 চৈতন্যপ্রভুর লীলা কে বুঝিতে পারে ?  
 একলীলায় বহে গঙ্গার শত শত ধারে ॥ ১৬১ ॥
@@ -1720,7 +1720,7 @@ on another day  the Paṇḍita  made  the Lord’s  invitation
 prabhu tām̐hā bhikṣā kaila lañā bhakta-gaṇa  
 the Lord  there  alms-meal  took  bringing  the devotees
 
-(166) On another day the Paṇḍita invited the Lord, and the Lord took His meal there together with the devotees.
+(166) On another day the Paṇḍita invited the Lord, and He took His meal there together with the devotees.
 
 তাঁহাই বল্লভ-ভট্ট প্রভুর আজ্ঞা লৈল ৷  
 পণ্ডিত-ঠাঞি পূর্ব্বপ্রার্থিত সব সিদ্ধি হৈল ॥ ১৬৭ ॥
