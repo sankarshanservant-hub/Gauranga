@@ -107,7 +107,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Mālajāṭhyā-daṇḍapāṭa is the distri
 ## 19
 w: two lakhs  of kāhanas  him  from  outstanding  became
 w: two lakhs  of kāhanas  of cowries  the king  indeed  demanded
-tr: Two lakhs of kāhanas were left outstanding against him, and the king demanded the full two lakhs of kāhanas of cowries.
+tr: Two lakhs of kāhanas were left outstanding against him, and the king demanded the full sum — two lakhs of kāhanas of cowries.
 fn: *Amṛta-pravāha-bhāṣya*: of the money he had paid to the king, two lakhs of kāhanas of cowries were missing; a kāhana is 1,280 cowries.
 
 ## 20
@@ -190,7 +190,7 @@ tr: Just then another man came running: “Vāṇīnātha and the others have be
 ## 35
 w: the Lord  said  the king  himself  the recorded  money  will take
 w: I  a detached  sannyāsī  in that  what  shall I do
-tr: The Lord said, “The king himself will take the money that stands on the account. I am a detached sannyāsī; what can I do in this?”
+tr: The Lord said, “The king himself will collect the money due on his accounts. I am a detached sannyāsī; what can I do in this?”
 fn: Heading in the edition: setting the example of a sannyāsī’s dharma, the Lord shows indifference, or detachment, towards talk of worldly affairs.
 
 ## 36
@@ -289,7 +289,7 @@ tr: The rest I will pay little by little, whatever I can. If you take my life wi
 ## 54
 w: proper  value  setting  then  the horses  all  they took
 w: of the remaining  money  a fixed term  making  home  they sent
-tr: Then they valued the horses properly and took them all, and, binding him to pay the rest of the money by a fixed date, they sent him home.
+tr: Then they set a fair price on all the horses and took them. For the rest of the money they fixed a date, and they sent him home.
 fn: *Amṛta-pravāha-bhāṣya*: *muddatī kari’* — making him pledge to pay the money by an appointed date.
 
 ## 55
@@ -435,12 +435,12 @@ fn: *Sva-mandire* — “to his own dwelling”. Heading in the edition: Pratāp
 ## 81
 w: of Pratāparudra  one  there is  rule
 w: as many  days  stays  he  in Śrī Puruṣottama
-tr: Pratāparudra kept one rule for as long as he stayed in Śrī Puruṣottama:
+tr: Pratāparudra kept one rule for as long as he stayed in Śrī Puruṣottama.
 
 ## 82
 w: daily  coming  does  Miśra’s  of the feet  massage
 w: of Jagannātha’s service  does  the ordered performance  hearing
-tr: every day he would come and massage Miśra’s feet, and hear how the service of Jagannātha was being carried out in all its order and splendour (*bhiyāna*).
+tr: Every day he would come and massage Miśra’s feet, and hear how the service of Jagannātha was being carried out in all its order and splendour (*bhiyāna*).
 fn: *Amṛta-pravāha-bhāṣya*: *bhiyāna* is the orderly and dignified performance of the service.
 
 ## 83
@@ -507,7 +507,7 @@ tr: At this the king felt pain in his heart and said, “I give up all the money
 ## 95
 w: for one  moment  the Lord’s  if  I obtain  sight
 w: of millions of cintāmaṇi gems  gain  is not  to it  equal
-tr: If I can have the Lord’s darśana for even a moment, not even millions of *cintāmaṇi* gems could equal it.
+tr: If I can have the Lord’s darśana for even a moment, not even millions of *cintāmaṇi* gems can equal it.
 
 ## 96
 w: what  paltry  thing  this  two lakhs  of kāhanas
@@ -539,7 +539,7 @@ tr: Go and do all you can to keep the Lord here. Here and now I release him from
 ## 101
 w: Miśra  says,  the money  you should give up  is not  in the Lord’s  mind
 w: the money  if you give up  the Lord  perhaps  pain  feels
-tr: Miśra said, “Your giving up the money is not what the Lord has in mind. If you do, perhaps the Lord will be pained.”
+tr: Miśra said, “The Lord does not want you to give up the money. If you do, perhaps He will be pained.”
 
 ## 102
 w: the king  says,  the money  I shall give up  this  not  you should say
@@ -658,7 +658,7 @@ tr: In the same way, while handling the king’s business, Gopīnātha goes on c
 ## 124
 w: some  he gives,  some  not  gives,  not  I make  scrutiny
 w: the Jānā  with  through ill will  trouble  he got  this time
-tr: He pays some and does not pay some, and I do not look into it. This time he came to grief through his ill will with the Jānā.
+tr: Some of it he pays and some he does not, and I do not look into it. This time he came to grief through his ill will with the Jānā.
 
 ## 125
 w: the Jānā  so much  did  this  I  not  know
@@ -771,7 +771,7 @@ fn: *Anubhāṣya*: when the soul falls into sin, it becomes hard for it to gain
 ## 145
 w: in Rāya’s  house  the Lord’s  seeming mercy  I have told
 w: affection for devotees  quality  in which  manifest  became
-tr: I have told of the Lord’s *kṛpā-vivarta* — a seeming mercy — shown in the house of Bhavānanda Rāya, and in it His affection for His devotees was revealed.
+tr: I have told of the Lord’s *kṛpā-vivarta* — a seeming mercy — shown in the house of Bhavānanda Rāya. In it His affection for His devotees was revealed.
 fn: *Amṛta-pravāha-bhāṣya*: *kṛpā-vivarta* is mercy in the form of worldly welfare, which is not true mercy, though to the worldly mind it seemed to be mercy — one thing taken for another (*vivarta*). *Anubhāṣya*: in it the Lord is shown to be conquered by His devotees. Not to be confused with *kṛpā-chadma* (verse 58), mercy veiled beneath another guise.
 
 ## 146
@@ -787,7 +787,7 @@ tr: Seeing the Lord’s mercy, everyone was amazed; they could not understand th
 ## 148
 w: they  all  when  mercy  to show  entreated
 w: Me  from  anything  is not  the Lord  then  said
-tr: When they had all entreated Him to show mercy, the Lord had said, “Nothing will be done by Me.”
+tr: When they had all entreated Him to show mercy, the Lord had said, “I can do nothing.”
 fn: Heading in the edition: the hidden meaning of the Lord’s conduct in delivering Gopīnātha — at first He refuses to save him; after saving him He rebukes him for dishonest money; as an example for the renounced Vaiṣṇava He seeks solitude; Gopīnātha’s worldly fortune grows; and the Lord teaches him that one may serve Kṛṣṇa at home or away from it. *Anubhāṣya*: were Śrī Gaurasundara, in the dress of a renunciant, to help a worldly man, people would imitate Him and degrade the ideal of the renounced Vaiṣṇava; so a renunciant devotee must never take up the affairs of worldly people.
 
 ## 149

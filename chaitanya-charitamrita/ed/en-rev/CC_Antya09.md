@@ -196,7 +196,7 @@ two lakhs  of kāhanas  him  from  outstanding  became
 duilakṣa kāhana kauḍi rājā ta’ māgila  
 two lakhs  of kāhanas  of cowries  the king  indeed  demanded
 
-(19) Two lakhs of kāhanas were left outstanding against him, and the king demanded the full two lakhs of kāhanas of cowries.[^7]
+(19) Two lakhs of kāhanas were left outstanding against him, and the king demanded the full sum — two lakhs of kāhanas of cowries.[^7]
 
 তেঁহ কহে, — স্থূলদ্রব্য নাহি যে দিব ৷  
 ক্রমে-ক্রমে বেচি’ কিনি’ দ্রব্য ভরিব ॥ ২০ ॥
@@ -356,7 +356,7 @@ the Lord  said  the king  himself  the recorded  money  will take
 āmi — virakta sannyāsī, tāhe ki kariba?  
 I  a detached  sannyāsī  in that  what  shall I do
 
-(35) The Lord said, “The king himself will take the money that stands on the account. I am a detached sannyāsī; what can I do in this?”[^10]
+(35) The Lord said, “The king himself will collect the money due on his accounts. I am a detached sannyāsī; what can I do in this?”[^10]
 
 তবে স্বরূপাদি গোসাঞির ভক্তগণ ৷  
 প্রভুর চরণে সবে কৈলা নিবেদন ॥ ৩৬ ॥
@@ -546,7 +546,7 @@ proper  value  setting  then  the horses  all  they took
 āra dravyera muddatī kari’ ghare pāṭhāila  
 of the remaining  money  a fixed term  making  home  they sent
 
-(54) Then they valued the horses properly and took them all, and, binding him to pay the rest of the money by a fixed date, they sent him home.[^14]
+(54) Then they set a fair price on all the horses and took them. For the rest of the money they fixed a date, and they sent him home.[^14]
 
 এথা প্রভু সেই মনুষ্যেরে প্রশ্ন কৈল ৷  
 বাণীনাথ কি করে, যবে বান্ধিয়া আনিল ? ॥ ৫৫ ॥
@@ -822,7 +822,7 @@ of Pratāparudra  one  there is  rule
 yata dina rahe tem̐ha śrī-puruṣottame  
 as many  days  stays  he  in Śrī Puruṣottama
 
-(81) Pratāparudra kept one rule for as long as he stayed in Śrī Puruṣottama:
+(81) Pratāparudra kept one rule for as long as he stayed in Śrī Puruṣottama.
 
 নিত্য আসি’ করে মিশ্রের পাদ সম্বাহন ৷  
 জগন্নাথ-সেবার করে ভিয়ান শ্রবণ ॥ ৮২ ॥
@@ -832,7 +832,7 @@ daily  coming  does  Miśra’s  of the feet  massage
 jagannātha-sevāra kare bhiyāna śravaṇa  
 of Jagannātha’s service  does  the ordered performance  hearing
 
-(82) every day he would come and massage Miśra’s feet, and hear how the service of Jagannātha was being carried out in all its order and splendour (*bhiyāna*).[^22]
+(82) Every day he would come and massage Miśra’s feet, and hear how the service of Jagannātha was being carried out in all its order and splendour (*bhiyāna*).[^22]
 
 রাজা মিশ্রের চরণ যবে চাপিতে লাগিলা ৷  
 তবে মিশ্র তাঁরে কিছু ভঙ্গীতে কহিলা ॥ ৮৩ ॥
@@ -962,7 +962,7 @@ for one  moment  the Lord’s  if  I obtain  sight
 koṭi-cintāmaṇi-lābha nahe tāra sama  
 of millions of cintāmaṇi gems  gain  is not  to it  equal
 
-(95) If I can have the Lord’s darśana for even a moment, not even millions of *cintāmaṇi* gems could equal it.
+(95) If I can have the Lord’s darśana for even a moment, not even millions of *cintāmaṇi* gems can equal it.
 
 কোন্ ছার পদার্থ এই দুইলক্ষ কাহন ?  
 প্রাণ-রাজ্য করোঁ প্রভুপদে নির্ম্মঞ্ছন ॥ ৯৬ ॥
@@ -1022,7 +1022,7 @@ Miśra  says,  the money  you should give up  is not  in the Lord’s  mind
 kauḍi chāḍile prabhu kadācit duḥkha māne  
 the money  if you give up  the Lord  perhaps  pain  feels
 
-(101) Miśra said, “Your giving up the money is not what the Lord has in mind. If you do, perhaps the Lord will be pained.”
+(101) Miśra said, “The Lord does not want you to give up the money. If you do, perhaps He will be pained.”
 
 রাজা কহে, কৌড়ি ছাড়িমু, — ইহা না কহিবা ৷  
 সহজে মোর প্রিয় তা’রা, — ইহা জানাইবা ॥ ১০২ ॥
@@ -1252,7 +1252,7 @@ some  he gives,  some  not  gives,  not  I make  scrutiny
 ‘jānā’-sahita aprītye duḥkha pāila ei-bāra  
 the Jānā  with  through ill will  trouble  he got  this time
 
-(124) He pays some and does not pay some, and I do not look into it. This time he came to grief through his ill will with the Jānā.
+(124) Some of it he pays and some he does not, and I do not look into it. This time he came to grief through his ill will with the Jānā.
 
 ‘জানা’ এত কৈলা, — ইহা মুই নাহি জানোঁ ৷  
 ভবানন্দের পুত্র-সবে আত্মসম মানোঁ ॥ ১২৫ ॥
@@ -1462,7 +1462,7 @@ in Rāya’s  house  the Lord’s  seeming mercy  I have told
 bhakta-vātsalya-guṇa yāte vyakta haila  
 affection for devotees  quality  in which  manifest  became
 
-(145) I have told of the Lord’s *kṛpā-vivarta* — a seeming mercy — shown in the house of Bhavānanda Rāya, and in it His affection for His devotees was revealed.[^38]
+(145) I have told of the Lord’s *kṛpā-vivarta* — a seeming mercy — shown in the house of Bhavānanda Rāya. In it His affection for His devotees was revealed.[^38]
 
 সবায় আলিঙ্গিয়া বিদায় যবে দিলা ৷  
 হরিধ্বনি করি’ সব ভক্ত উঠি’ গেলা ॥ ১৪৬ ॥
@@ -1492,7 +1492,7 @@ they  all  when  mercy  to show  entreated
 ‘āmā’ haite kichu nahe — prabhu tabe kahila  
 Me  from  anything  is not  the Lord  then  said
 
-(148) When they had all entreated Him to show mercy, the Lord had said, “Nothing will be done by Me.”[^39]
+(148) When they had all entreated Him to show mercy, the Lord had said, “I can do nothing.”[^39]
 
 গোপীনাথের নিন্দা, আর আপন-নির্ব্বেদ ৷  
 এইমাত্র কহিল, ইহার না বুঝিবে ভেদ ॥ ১৪৯ ॥
