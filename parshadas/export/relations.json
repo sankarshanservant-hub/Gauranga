@@ -1416,6 +1416,227 @@
   "note": "Узнал его «Саджджана-тошани» через Бхакти Ратну."
  },
  {
+  "from": "@bhavananda-raya",
+  "type": "son",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F2",
+   "F10",
+   "F11",
+   "F12",
+   "F13",
+   "F14",
+   "F18",
+   "F20",
+   "F41"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu"
+  ],
+  "note": "Первый (старший) сын (ЧЧ Мадхья 10.50); при первой встрече Господь прославил его перед отцом; «с Раманандой у Меня различие лишь в теле» (ЧЧ Ади 10.134). Подробно — @ramananda-raya."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "son",
+  "who": "@gopinatha-pattanayaka",
+  "facts": [
+   "F10",
+   "F11",
+   "F29",
+   "F30",
+   "F31",
+   "F35",
+   "F36",
+   "F43",
+   "F44",
+   "F45"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Второй сын (B 1031, T 144); сборщик податей Маладжатхья-Дандапаты; спасён от казни на чанге, долг прощён, жалованье удвоено (ЧЧ Антья 9)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "son",
+  "who": "@kalanidhi",
+  "facts": [
+   "F10",
+   "F12"
+  ]
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "son",
+  "who": "@sudhanidhi",
+  "facts": [
+   "F10",
+   "F12"
+  ]
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "son",
+  "who": "@vaninatha-raya",
+  "facts": [
+   "F10",
+   "F12",
+   "F17",
+   "F18",
+   "F23",
+   "F26",
+   "F28",
+   "F34",
+   "F47"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu",
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Отцом отдан Господу в постоянное служение (ЧЧ Мадхья 10.56, 10.61); в деле Гопинатхи его с родом связали и увели (ЧЧ Антья 9.34)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F12",
+   "F15",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F31",
+   "F32",
+   "F33",
+   "F36",
+   "F41",
+   "F42",
+   "F45",
+   "I2",
+   "I3"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu",
+   "ev-tattva-bhakti-kalpataru",
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Ветвь древа Чайтаньи (ЧЧ Ади 10.131); Господь назвал его Панду, а сыновей — Пандавами; он отдал Господу себя, дом, богатство, слуг и сыновей; «из рождения в рождение ты со всем родом — Мой слуга» (ЧЧ Мадхья 10.58). Безучастность Господа в деле Гопинатхи — лила (⚠Б3)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "ruler-of",
+  "who": "@prataparudra",
+  "facts": [
+   "F38",
+   "F39",
+   "F40"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Тип по CARDS.md: Пратапарудра — его государь; «Бхавананда Рай мной почитаем, его сыновья мне дороже всего» (ЧЧ Антья 9.103, 9.120)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F20",
+   "F28"
+  ],
+  "events": [
+   "ev-bhavananda-raya-pandu"
+  ],
+  "note": "Представил его Господу как отца Рамананды (ЧЧ Мадхья 10.50; «Чайтанья-чандродая», акт 8)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "other",
+  "who": "@kashi-mishra",
+  "facts": [
+   "F36",
+   "F37",
+   "F38"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Ему Господь сказал о желании уйти в Алаланатху из-за дела рода Бхавананды; передал это царю."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "other",
+  "who": "@harichandana",
+  "facts": [
+   "F35"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Доложил царю о Гопинатхе; казнь отменена."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "other",
+  "who": "@purushottama-jana",
+  "facts": [
+   "F30"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "Царевич (Бада-Джана), поднявший Гопинатху на чангу (ЧЧ Антья 9.99)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F34"
+  ],
+  "events": [
+   "ev-gopinatha-pattanayaka-pardoned"
+  ],
+  "note": "С другими молил Господа, когда род Бхавананды взяли под стражу (= @svarupa-damodara F130)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "nephew",
+  "who": "@shikhi-mahiti",
+  "facts": [
+   "F8"
+  ],
+  "note": "Только B 896: сын брата Бхавананды Рая (⚠4)."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "niece",
+  "who": "@madhavi-devi",
+  "facts": [
+   "F7",
+   "F8"
+  ],
+  "note": "Вывод из B 896: младшая сестра Шикхи — сына брата (⚠4); близ дома Бхавананды в Бентпуре открыла служение Божеству Гопинатхи."
+ },
+ {
+  "from": "@bhavananda-raya",
+  "type": "other",
+  "who": "@ramadasa-vishvasa",
+  "facts": [
+   "F48"
+  ],
+  "events": [
+   "ev-raghunatha-bhatta-first-visit-puri"
+  ],
+  "note": "Учил «Кавья-пракаше» род Паттанаяков (ЧЧ Антья 13.111; «потомков Бхавананды» — пояснение ВЧД)."
+ },
+ {
   "from": "@bhugarbha",
   "type": "guru",
   "who": "@gadadhara-pandita",

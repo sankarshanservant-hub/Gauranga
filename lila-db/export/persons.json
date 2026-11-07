@@ -4174,6 +4174,10 @@
     "type": "other"
    },
    {
+    "from": "@bhavananda-raya",
+    "type": "companion"
+   },
+   {
     "from": "@bhugarbha",
     "type": "companion"
    },
@@ -18263,6 +18267,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhavananda-raya",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "met"
    },
@@ -18872,6 +18880,10 @@
    {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
+   },
+   {
+    "from": "@bhavananda-raya",
+    "type": "son"
    },
    {
     "from": "@jagadananda-pandita",
@@ -19509,6 +19521,10 @@
     "type": "other"
    },
    {
+    "from": "@bhavananda-raya",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "companion"
    },
@@ -19730,6 +19746,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@bhavananda-raya",
+    "type": "ruler-of"
+   },
    {
     "from": "@damodara-pandita",
     "type": "other"
@@ -25007,6 +25027,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhavananda-raya",
+    "type": "other"
+   },
+   {
     "from": "@gopala-guru",
     "type": "other"
    },
@@ -28902,6 +28926,10 @@
    "ev-narottama-puri"
   ],
   "related_by": [
+   {
+    "from": "@bhavananda-raya",
+    "type": "son"
+   },
    {
     "from": "@ramananda-raya",
     "type": "sibling"
@@ -41126,6 +41154,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhavananda-raya",
+    "type": "nephew"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -41172,6 +41204,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhavananda-raya",
+    "type": "niece"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -41207,6 +41243,125 @@
    "ev-puri-eighteen-years-associates",
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-raghunatha-bhatta-first-visit-puri"
+  ],
+  "summary": "в Кришна-лиле — Панду (ЧЧ Ади 10.132) и др.; происхождение — Бентпур (Бентапур)",
+  "card": "parshadas/cards/bhavananda-raya.yaml",
+  "article": {
+   "ru": "parshadas/ru/bhavananda-raya.md",
+   "en": "parshadas/en/bhavananda-raya.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "conf": "день, год и место явления неизвестны (ни B, ни T, ни первоисточники их не дают); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru и 540/ru; проверено 2026-11-07) его дня явления нет",
+    "facts": [
+     "F51"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ дня ухода нет (есть только день ухода Рамананды Рая)",
+    "facts": [
+     "F51"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Панду (Притхапати — супруг Кунти-Притхи); его пятеро сыновей — пять Пандавов, жена — Кунти",
+    "source": "ЧЧ Ади 10.132; Мадхья 10.53; ГГД 122",
+    "level": "A",
+    "variants": [
+     "Карнапура, «Чайтанья-чарита-махакавья» 13.134: «удачлив, как Панду» — сравнение (F17).",
+     "«Гаура-кришнодая» 11.7: «Сам Панду с пятью сыновьями» (уровень B; F18)."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "ветвь древа Чайтаньи (по нумерации нашего издания ЧЧ — 7-я; пятеро его сыновей — 8-я)",
+    "source": "ЧЧ Ади 10.131–134",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "son",
+    "who": "@ramananda-raya",
+    "note": "Первый (старший) сын (ЧЧ Мадхья 10.50); при первой встрече Господь прославил его перед отцом; «с Раманандой у Меня различие лишь в теле» (ЧЧ Ади 10.134). Подробно — @ramananda-raya."
+   },
+   {
+    "type": "son",
+    "who": "@gopinatha-pattanayaka",
+    "note": "Второй сын (B 1031, T 144); сборщик податей Маладжатхья-Дандапаты; спасён от казни на чанге, долг прощён, жалованье удвоено (ЧЧ Антья 9)."
+   },
+   {
+    "type": "son",
+    "who": "@kalanidhi"
+   },
+   {
+    "type": "son",
+    "who": "@sudhanidhi"
+   },
+   {
+    "type": "son",
+    "who": "@vaninatha-raya",
+    "note": "Отцом отдан Господу в постоянное служение (ЧЧ Мадхья 10.56, 10.61); в деле Гопинатхи его с родом связали и увели (ЧЧ Антья 9.34)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Ветвь древа Чайтаньи (ЧЧ Ади 10.131); Господь назвал его Панду, а сыновей — Пандавами; он отдал Господу себя, дом, богатство, слуг и сыновей; «из рождения в рождение ты со всем родом — Мой слуга» (ЧЧ Мадхья 10.58). Безучастность Господа в деле Гопинатхи — лила (⚠Б3)."
+   },
+   {
+    "type": "ruler-of",
+    "who": "@prataparudra",
+    "note": "Тип по CARDS.md: Пратапарудра — его государь; «Бхавананда Рай мной почитаем, его сыновья мне дороже всего» (ЧЧ Антья 9.103, 9.120)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Представил его Господу как отца Рамананды (ЧЧ Мадхья 10.50; «Чайтанья-чандродая», акт 8)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "Ему Господь сказал о желании уйти в Алаланатху из-за дела рода Бхавананды; передал это царю."
+   },
+   {
+    "type": "other",
+    "who": "@harichandana",
+    "note": "Доложил царю о Гопинатхе; казнь отменена."
+   },
+   {
+    "type": "other",
+    "who": "@purushottama-jana",
+    "note": "Царевич (Бада-Джана), поднявший Гопинатху на чангу (ЧЧ Антья 9.99)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "С другими молил Господа, когда род Бхавананды взяли под стражу (= @svarupa-damodara F130)."
+   },
+   {
+    "type": "nephew",
+    "who": "@shikhi-mahiti",
+    "note": "Только B 896: сын брата Бхавананды Рая (⚠4)."
+   },
+   {
+    "type": "niece",
+    "who": "@madhavi-devi",
+    "note": "Вывод из B 896: младшая сестра Шикхи — сына брата (⚠4); близ дома Бхавананды в Бентпуре открыла служение Божеству Гопинатхи."
+   },
+   {
+    "type": "other",
+    "who": "@ramadasa-vishvasa",
+    "note": "Учил «Кавья-пракаше» род Паттанаяков (ЧЧ Антья 13.111; «потомков Бхавананды» — пояснение ВЧД)."
+   }
   ],
   "related_by": [
    {
@@ -44905,6 +45060,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhavananda-raya",
+    "type": "son"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "sibling"
    },
@@ -44928,6 +45087,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhavananda-raya",
+    "type": "son"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "sibling"
    }
@@ -44946,6 +45109,10 @@
    "ev-bhavananda-raya-pandu"
   ],
   "related_by": [
+   {
+    "from": "@bhavananda-raya",
+    "type": "son"
+   },
    {
     "from": "@ramananda-raya",
     "type": "sibling"
@@ -45620,6 +45787,12 @@
   "events": [
    "ev-gopinatha-pattanayaka-pardoned",
    "ev-radha-for-govinda-from-puri"
+  ],
+  "related_by": [
+   {
+    "from": "@bhavananda-raya",
+    "type": "other"
+   }
   ]
  },
  {
@@ -46271,6 +46444,10 @@
   ],
   "related_by": [
    {
+    "from": "@bhavananda-raya",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -46729,6 +46906,10 @@
    "ev-raghunatha-bhatta-first-visit-puri"
   ],
   "related_by": [
+   {
+    "from": "@bhavananda-raya",
+    "type": "other"
+   },
    {
     "from": "@raghunatha-bhatta",
     "type": "companion"
