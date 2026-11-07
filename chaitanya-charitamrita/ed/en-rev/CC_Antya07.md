@@ -586,7 +586,7 @@ the Bhaṭṭa’s  in the mind  this  was  long-standing  pride
 prabhura vacana śuni’ se haila kharva  
 the Lord’s  words  hearing  that  became  humbled
 
-(53) Such was the pride that had long lived in the Bhaṭṭa’s mind, but the Lord’s words humbled it.[^23]
+(53) Such was the pride that had long lived in his mind, but the Lord’s words humbled it.[^23]
 
 প্রভুর মুখে বৈষ্ণবতা শুনিয়া সবার ৷  
 ভট্টের ইচ্ছা হৈল তাঁ-সবারে দেখিবার ॥ ৫৪ ॥
