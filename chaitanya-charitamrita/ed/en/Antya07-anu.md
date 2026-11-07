@@ -224,6 +224,96 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 > Subheading: Only in the company of a sādhu who both practices pure *bhakti* and preaches it does a *jīva* attain devotion to Kṛṣṇa —
 
+## 51
+
+> Subheading: To remove Vallabha's pride, the Lord describes the qualities of devotees far more qualified than he —
+
+## 52
+
+> Subheading: Vallabha judges the Adhokṣaja with knowledge born of the senses and is driven by worldly egotism; rejecting the guidance of the *bhāgavatas*, he writes a commentary on the *Bhāgavatam* —
+
+## 53
+
+> Subheading: By the Lord's mercy Vallabha's pride is crushed —
+
+“Long-standing pride”: a well-nourished, towering self-conceit.
+
+## 54
+
+> Subheading: The wish to see the Vaiṣṇavas, Gaura's devotees, of whom he had heard from the Lord's lips —
+
+## 56
+
+> Subheading: The Lord tells where they are staying —
+
+## 57
+
+> Subheading: The Lord reassures the Bhaṭṭa, telling him to wait to meet the devotees —
+
+## 58
+
+> Subheading: The Bhaṭṭa invites the Lord —
+
+## 59
+
+> Subheading: The devotees come to the Lord and meet the Bhaṭṭa —
+
+## 60
+
+> Subheading: Beside Gaura's devotees, Vallabha Bhaṭṭa is like a dim firefly before the blazing sun —
+
+## 61
+
+> Subheading: The Bhaṭṭa feeds the Lord and His associates —
+
+## 62
+
+> Subheading: The devotee *sannyāsīs* sit in one row with Paramānanda Purī —
+
+## 63
+
+> Subheading: On either side of Mahāprabhu, the two Prabhus —
+
+## 64
+
+> Subheading: The devotees from Gauḍa sit in rows —
+
+## 65
+
+> Subheading: Seeing Gaura's devotees, the Bhaṭṭa bows to them —
+
+## 66
+
+> Subheading: Six of them serve the food —
+
+## 67
+
+> Subheading: Vallabha Bhaṭṭa satisfies the Lord and the devotees with *prasāda* —
+
+## 68
+
+> Subheading: All cry “Hari!” with one voice —
+
+## 69
+
+> Subheading: After the rinsing of hands and mouth, the Bhaṭṭa honors everyone —
+
+## 70
+
+> Subheading: The *kīrtana* of the seven groups at the Ratha-yātrā —
+
+## 71
+
+> Subheading: The seven lead singers of the seven groups —
+
+## 72
+
+> Subheading: Like a whirling firebrand (*alāta-cakra*), the Lord moves from *kīrtana* to *kīrtana* —
+
+## 73
+
+> Subheading: Fourteen *mṛdaṅgas* —
+
 ---
 
 [^27-1]: The edition gives “Canto 10, Chapter 9, verse 31” (checked against the scan); in the standard numbering it is 10.9.21.
