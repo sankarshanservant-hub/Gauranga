@@ -257,7 +257,7 @@ Prakashananda and that Chaitanya-deva gave him the new name, while Haridasa Dasa
 the opinion that “Prabodhananda” is Prakashananda's Vaishnava name and looks for confirmation of it in the last verse of
 the “Radha-rasa-sudhanidhi.” Some of those who hold this view search his books for a few words from the
 “Vedanta-sutra” and for hints at the difficulties the mayavadis go through; and from the “Chaitanya-chandramrita” they
-conclude that he had worshipped the impersonal Brahman. <!-- F36 Q13 Q14 F37 F38 F39 F32 F44 -->
+infer that he had once been a “brahma-sannyasi,” a worshipper of the impersonal Brahman. <!-- F36 Q13 Q14 F37 F38 F39 F32 F44 -->
 
 This identification was refuted as early as the “Sajjana-toshani” (year 18, no. 5) and in Srila Bhaktisiddhanta's
 article “Sri Prabodhananda,” and he refutes it himself in the “Anubhashya” and in the “Gaudiya-bhashya” on the
@@ -298,8 +298,8 @@ from Mysore to Ranga-kshetra and later lived in Kamyavana, a southerner, a savis
 God, and then a follower of Mahaprabhu's achintya-bhedabheda, an eternally perfect associate of Gaura and the guru of
 Gopala Bhatta. To identify them Srila Bhaktisiddhanta calls “sheer madness,” betraying only utter ignorance, and to call
 the revered uncle and guru of Gopala Bhatta a mayavadi, a hater of Vishnu and a conditioned soul — a terrible offence
-against a Vaishnava, leading to hell. To accept without firm evidence the opinion that he had once been a
-“brahma-sannyasi” is, in his words, to entangle oneself in difficulties. <!-- F42 F21 F32 I4 -->
+against a Vaishnava, leading to hell. To accept the inference about a “brahma-sannyasi” without firm evidence
+is, in his words, to entangle oneself in difficulties. <!-- F42 F21 F32 I4 -->
 
 The argument from the “Radha-rasa-sudhanidhi” is answered as well. In its last verse the poet speaks of those “scorched
 by the burning sun of mayavada” (mayavadarka-tapa-santapta); but this is no confession of his own past: all the
