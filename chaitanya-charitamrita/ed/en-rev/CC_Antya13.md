@@ -358,6 +358,356 @@ all  plundering  bound  they keep  to go on  they prevent
 
 (35) If they find a Gauḍīya alone, highwaymen (*bāṭapāḍa*) waylay him and bind him; they plunder everything, keep him bound and do not let him go on.[^9]
 
+মথুরা গেলে সনাতন-সঙ্গে রহিবা ৷  
+মথুরার স্বামী-সবের চরণ বন্দিবা ॥ ৩৬ ॥
+
+mathurā gele sanātana-saṅge rahibā  
+to Mathurā  having gone  with Sanātana  in the company  stay  
+mathurāra svāmī-sabera caraṇa vandibā  
+of Mathurā  the lords  all  the feet  honour
+
+(36) When you reach Mathurā, stay with Sanātana, and honour the feet of all the lords of Mathurā.[^10]
+
+দূরে রহি’ ভক্তি করিহ সঙ্গে না রহিবা ৷  
+তাঁ-সবার আচার-চেষ্টা লইতে নারিবা ॥ ৩৭ ॥
+
+dūre rahi’ bhakti kariha saṅge nā rahibā  
+from afar  staying  devotion  show  in company  not  stay  
+tām̐-sabāra ācāra-ceṣṭā laite nāribā  
+their  all  conduct  behaviour  to adopt  you cannot
+
+(37) Show them devotion, but from afar, and do not stay in their company: you could never accept their ways and conduct.[^11]
+
+সনাতন-সঙ্গে করিহ বন দরশন ৷  
+সনাতনের সঙ্গ না ছাড়িবা একক্ষণ ॥ ৩৮ ॥
+
+sanātana-saṅge kariha vana daraśana  
+with Sanātana  make  of the forests  visiting  
+sanātanera saṅga nā chāḍibā eka-kṣaṇa  
+of Sanātana  the company  not  leave  for one  moment
+
+(38) Visit the forests with Sanātana, and do not leave his side for a moment.
+
+শীঘ্র আসিহ, তাঁহা না রহিহ চিরকাল ৷  
+গোবর্দ্ধনে না চড়িহ দেখিতে ‘গোপাল’ ॥ ৩৯ ॥
+
+śīghra āsiha, tām̐hā nā rahiha cira-kāla  
+quickly  come back  there  not  stay  for long  
+govarddhane nā caḍiha dekhite ‘gopāla’  
+Govardhana  not  climb  to see  Gopāla
+
+(39) Come back quickly; do not stay there long. Do not climb Govardhana to see Gopāla.[^12]
+
+আমিহ আসিতেছি, — কহিহ সনাতনে ৷  
+আমার তরে একস্থান করে বৃন্দাবনে ॥ ৪০ ॥
+
+āmiha āsitechi, — kahiha sanātane  
+I too  am coming  tell  Sanātana  
+āmāra tare eka-sthāna kare vṛndāvane  
+for Me  a place  let him make  in Vṛndāvana
+
+(40) Tell Sanātana, ‘I too am coming,’ and let him prepare a place for Me in Vṛndāvana.”[^13]
+
+এত বলি’ জগদানন্দে কৈলা আলিঙ্গন ৷  
+জগদানন্দ চলিলা প্রভুর বন্দিয়া চরণ ॥ ৪১ ॥
+
+eta bali’ jagadānande kailā āliṅgana  
+this  saying  Jagadānanda  made  embrace  
+jagadānanda calilā prabhura vandiyā caraṇa  
+Jagadānanda  set out  the Lord’s  bowing to  feet
+
+(41) Saying this, the Lord embraced Jagadānanda, and Jagadānanda bowed at the Lord’s feet and set out.
+
+সব ভক্তগণ-ঠাঞি আজ্ঞা মাগিলা ৷  
+বনপথে চলি’ চলি’ বারাণসী আইলা ॥ ৪২ ॥
+
+saba bhakta-gaṇa-ṭhāñi ājñā māgilā  
+all  the devotees  from  permission  asked  
+vana-pathe cali’ cali’ vārāṇasī āilā  
+by the forest  path  going  going  to Vārāṇasī  came
+
+(42) He took leave of all the devotees, and travelling on and on by the forest path, he came to Vārāṇasī.
+
+তপনমিশ্র, চন্দ্রশেখর, — দোঁহারে মিলিলা ৷  
+তাঁর ঠাঞি প্রভুর কথা সকল শুনিলা ॥ ৪৩ ॥
+
+tapana-miśra, candraśekhara, — dom̐hāre mililā  
+Tapana Miśra  Candraśekhara  both  met  
+tām̐ra ṭhāñi prabhura kathā sakala śunilā  
+from him  of the Lord  the news  all  they heard
+
+(43) There he met both Tapana Miśra and Candraśekhara, and they heard from him all the news of the Lord.
+
+মথুরাতে আসি’ মিলিলা সনাতনে ৷  
+দুইজনের সঙ্গে দুঁহে আনন্দিত মনে ॥ ৪৪ ॥
+
+mathurāte āsi’ mililā sanātane  
+in Mathurā  coming  met  Sanātana  
+dui-janera saṅge dum̐he ānandita mane  
+of the two  in the company  both  joyful  at heart
+
+(44) Coming to Mathurā, he met Sanātana, and in each other’s company both were joyful at heart.
+
+সনাতন করাইলা তাঁরে দ্বাদশ বন দরশন ৷  
+গোকুলে রহিলা দুঁহে দেখি’ মহাবন ॥ ৪৫ ॥
+
+sanātana karāilā tām̐re dvādaśa vana daraśana  
+Sanātana  had made  him  twelve  forests  see  
+gokule rahilā dum̐he dekhi’ mahāvana  
+in Gokula  stayed  both  seeing  Mahāvana
+
+(45) Sanātana showed him the twelve forests, and after seeing Mahāvana the two stayed in Gokula.
+
+সনাতনের গোফাতে দুঁহে রহে একঠাঞি ৷  
+পণ্ডিত পাক করেন দেবালয়ে যাই’ ॥ ৪৬ ॥
+
+sanātanera gophāte dum̐he rahe eka-ṭhāñi  
+of Sanātana  in the cave  both  stay  in one  place  
+paṇḍita pāka karena devālaye yāi’  
+the Paṇḍita  cooking  does  to a temple  going
+
+(46) The two lived together in Sanātana’s cave, and the Paṇḍita would go to a temple to cook.[^14]
+
+সনাতন ভিক্ষা করেন যাই’ মহাবনে ৷  
+কভু দেবালয়ে, কভু ব্রাহ্মণ-সদনে ॥ ৪৭ ॥
+
+sanātana bhikṣā karena yāi’ mahāvane  
+Sanātana  begging  does  going  in Mahāvana  
+kabhu devālaye, kabhu brāhmaṇa-sadane  
+sometimes  at a temple  sometimes  of brāhmaṇas  at the homes
+
+(47) Sanātana would go begging in Mahāvana—sometimes at a temple, sometimes at the homes of brāhmaṇas.
+
+সনাতন পণ্ডিতের করে সমাধান ৷  
+মহাবনে দেন আনি’ মাগি’ অন্ন-পান ॥ ৪৮ ॥
+
+sanātana paṇḍitera kare samādhāna  
+Sanātana  of the Paṇḍita  does  service  
+mahāvane dena āni’ māgi’ anna-pāna  
+in Mahāvana  gives  bringing  begging  food and drink
+
+(48) Sanātana looked after all the Paṇḍita’s needs. In Mahāvana he would beg food and drink, bring it and give it to him.
+
+একদিন সনাতনে পণ্ডিত নিমন্ত্রিলা ৷  
+নিত্য-কৃত্য করি’ তেঁহ পাক চড়াইলা ॥ ৪৯ ॥
+
+eka-dina sanātane paṇḍita nimantrilā  
+one  day  Sanātana  the Paṇḍita  invited  
+nitya-kṛtya kari’ tem̐ha pāka caḍāilā  
+daily  duties  doing  he  the cooking  set on the fire
+
+(49) One day the Paṇḍita invited Sanātana, and after finishing his daily duties he began to cook.
+
+‘মুকুন্দ সরস্বতী, নাম সন্ন্যাসী মহাজনে ৷  
+এক বহির্ব্বাস তেঁহো দিল সনাতনে ॥ ৫০ ॥
+
+‘mukunda sarasvatī, nāma sannyāsī mahājane  
+Mukunda  Sarasvatī  by name  a sannyāsī  a great soul  
+eka bahirvāsa tem̐ho dila sanātane  
+one  outer cloth  he  gave  to Sanātana
+
+(50) A great sannyāsī named Mukunda Sarasvatī had given Sanātana an outer cloth (*bahirvāsa*).
+
+সনাতন সেই বস্ত্র মস্তকে বান্ধিয়া ৷  
+জগদানন্দের বাসা-দ্বারে বসিলা আসিয়া ॥ ৫১ ॥
+
+sanātana sei vastra mastake bāndhiyā  
+Sanātana  that  cloth  on his head  tying  
+jagadānandera vāsā-dvāre vasilā āsiyā  
+of Jagadānanda  at the lodging’s  door  sat  coming
+
+(51) Sanātana tied that cloth around his head, came and sat at the door of Jagadānanda’s lodging.[^15]
+
+রাতুল বস্ত্র দেখি’ পণ্ডিত প্রেমাবিষ্ট হইলা ৷  
+‘মহাপ্রভুর প্রসাদ’ জানি’ তাঁহারে পুছিলা ॥ ৫২ ॥
+
+rātula vastra dekhi’ paṇḍita premāviṣṭa hailā  
+red  cloth  seeing  the Paṇḍita  overwhelmed with love  became  
+‘mahāprabhura prasāda’ jāni’ tām̐hāre puchilā  
+of Mahāprabhu  the gift  thinking  him  asked
+
+(52) Seeing the red cloth, the Paṇḍita was overwhelmed with love, for he thought it was Mahāprabhu’s gift (prasāda). He asked him,
+
+কাঁহা পাইলা তুমি এই রাতুল বসন ?  
+‘মুকুন্দ-সরস্বতী’ দিল, — কহেন সনাতন ॥ ৫৩ ॥
+
+kām̐hā pāilā tumi ei rātula vasana?  
+where  did you get  you  this  red  cloth  
+‘mukunda-sarasvatī’ dila, — kahena sanātana  
+Mukunda Sarasvatī  gave  says  Sanātana
+
+(53) “Where did you get this red cloth?” “Mukunda Sarasvatī gave it,” Sanātana replied.
+
+শুনি’ পণ্ডিতের মনে ক্রোধ উপজিল ৷  
+ভাতের হাণ্ডি হাতে হঞা মারিতে আইল ॥ ৫৪ ॥
+
+śuni’ paṇḍitera mane krodha upajila  
+hearing  of the Paṇḍita  in the mind  anger  arose  
+bhātera hāṇḍi hāte hañā mārite āila  
+of rice  the pot  in hand  being  to strike  came
+
+(54) When he heard this, anger arose in the Paṇḍita’s mind, and with the rice pot in his hand he came forward to strike him.
+
+সনাতন তাঁরে জানি’ লজ্জিত হইলা ৷  
+বলিতে লাগিলা পণ্ডিত, হাণ্ডি চুলাতে ধরিলা ॥ ৫৫ ॥
+
+sanātana tām̐re jāni’ lajjita hailā  
+Sanātana  him  understanding  abashed  became  
+balite lāgilā paṇḍita, hāṇḍi culāte dharilā  
+to speak  began  the Paṇḍita  the pot  on the stove  set
+
+(55) Sanātana, understanding him, was abashed. The Paṇḍita set the pot back on the stove and began to speak:[^16]
+
+তুমি মহাপ্রভুর হও পার্ষদ-প্রধান ৷  
+তোমা-সম মহাপ্রভুর প্রিয় নাহি আন ॥ ৫৬ ॥
+
+tumi mahāprabhura hao pārṣada-pradhāna  
+you  of Mahāprabhu  are  of the associates  the chief  
+tomā-sama mahāprabhura priya nāhi āna  
+like you  to Mahāprabhu  dear  there is not  another
+
+(56) “You are one of Mahāprabhu’s chief associates. No one else is as dear to Mahāprabhu as you.
+
+অন্য সন্ন্যাসীর বস্ত্র তুমি ধর শিরে ৷  
+কোন্ ঐছে হয়, — ইহা পারে সহিবারে ? ॥ ৫৭ ॥
+
+anya sannyāsīra vastra tumi dhara śire  
+another  sannyāsī’s  cloth  you  wear  on the head  
+kon aiche haya, — ihā pāre sahibāre?  
+who  such  is  this  can  tolerate
+
+(57) Yet you wear another sannyāsī’s cloth on your head! Who could tolerate such a thing?”
+
+সনাতন কহে — সাধু পণ্ডিত-মহাশয় !  
+তোমা-সব চৈতন্যের প্রিয় কেহ নয় ॥ ৫৮ ॥
+
+sanātana kahe — sādhu paṇḍita-mahāśaya!  
+Sanātana  says  saintly  Paṇḍita  great soul  
+tomā-saba caitanyera priya keha naya  
+like you  to Caitanya  dear  anyone  is not
+
+(58) Sanātana said, “O saintly Paṇḍita, great soul! No one is as dear to Caitanya as you.
+
+ঐছে চৈতন্যনিষ্ঠা যোগ্য তোমাতে ৷  
+তুমি না দেখাইলে ইহা শিখিমু কেমতে ? ॥ ৫৯ ॥
+
+aiche caitanya-niṣṭhā yogya tomāte  
+such  firm faith in Caitanya  befits  you  
+tumi nā dekhāile ihā śikhimu ke-mate?  
+you  not  had shown  this  shall I learn  how
+
+(59) Such steadfast faith in Caitanya befits you. If you had not shown it, how would I ever learn it?[^17]
+
+যাহা দেখিবারে বস্ত্র মস্তকে বান্ধিলুঁ ৷  
+সেই অপূর্ব্ব প্রেম এই প্রত্যক্ষ দেখিলুঁ ॥ ৬০ ॥
+
+yāhā dekhibāre vastra mastake bāndhilum̐  
+which  in order to see  the cloth  on my head  I tied  
+sei apūrva prema ei pratyakṣa dekhilum̐  
+that  unprecedented  love  this  directly  I have seen
+
+(60) I tied the cloth on my head in order to see this, and now I have seen that unprecedented love with my own eyes.
+
+রক্তবস্ত্র ‘বৈষ্ণবের’ পরিতে না যুয়ায় ৷  
+কোন প্রবাসীরে দিমু, কি কায উহায় ? ॥ ৬১ ॥
+
+rakta-vastra ‘vaiṣṇavera’ parite nā yuyāya  
+red cloth  for a Vaiṣṇava  to wear  not  is fitting  
+kona pravāsīre dimu, ki kāya uhāya?  
+to some  stranger  I shall give  what  use  in it
+
+(61) It is not fitting for a Vaiṣṇava to wear red cloth. I shall give it to some stranger—what use is it to me?”[^18]
+
+পাক করি’ জগদানন্দ চৈতন্যে সমর্পিলা ৷  
+দুইজন বসি’ তবে প্রসাদ পাইলা ॥ ৬২ ॥
+
+pāka kari’ jagadānanda caitanye samarpilā  
+cooking  having done  Jagadānanda  to Caitanya  offered  
+dui-jana vasi’ tabe prasāda pāilā  
+the two  sitting  then  prasāda  took
+
+(62) When he had finished cooking, Jagadānanda offered the food to Caitanya, and then the two sat down and honoured the prasāda.
+
+প্রসাদ পাই দুইজনে কৈলা আলিঙ্গন ৷  
+চৈতন্যবিরহে দুঁহে করিলা ক্রন্দন ॥ ৬৩ ॥
+
+prasāda pāi dui-jane kailā āliṅgana  
+prasāda  taking  the two  made  embrace  
+caitanya-virahe dum̐he karilā krandana  
+from Caitanya  in separation  both  did  weeping
+
+(63) After taking prasāda, the two embraced and wept in separation from Caitanya.
+
+এইমত মাস দুই রহিলা বৃন্দাবনে ৷  
+চৈতন্যবিরহ-দুঃখ না যায় সহনে ॥ ৬৪ ॥
+
+ei-mata māsa dui rahilā vṛndāvane  
+in this way  months  two  stayed  in Vṛndāvana  
+caitanya-viraha-duḥkha nā yāya sahane  
+from Caitanya  separation  the sorrow  not  could be  borne
+
+(64) In this way he stayed in Vṛndāvana for two months, but the sorrow of separation from Caitanya was more than he could bear.
+
+মহাপ্রভুর সন্দেশ কহিলা সনাতনে ৷  
+আমিহ আসিতেছি, রহিতে করিহ একস্থানে ॥ ৬৫ ॥
+
+mahāprabhura sandeśa kahilā sanātane  
+of Mahāprabhu  the message  told  to Sanātana  
+āmiha āsitechi, rahite kariha eka-sthāne  
+I too  am coming  to stay  prepare  one place
+
+(65) He gave Sanātana Mahāprabhu’s message: “I too am coming. Prepare a place for Me to stay.”
+
+জগদানন্দ-পণ্ডিত তবে আজ্ঞা মাগিলা ৷  
+সনাতন প্রভুরে কিছু ভেটবস্তু দিলা ॥ ৬৬ ॥
+
+jagadānanda-paṇḍita tabe ājñā māgilā  
+Jagadānanda Paṇḍita  then  leave  asked  
+sanātana prabhure kichu bheṭa-vastu dilā  
+Sanātana  for the Lord  some  gifts  gave
+
+(66) Then Jagadānanda Paṇḍita asked leave to go, and Sanātana gave him some gifts for the Lord.
+
+রাসস্থলীর বালু আর গোবর্দ্ধনের শিলা ৷  
+শুষ্ক পক্ক পীলুফল আর গুঞ্জামালা ॥ ৬৭ ॥
+
+rāsa-sthalīra vālu āra govarddhanera śilā  
+of the rāsa  place  the sand  and  of Govardhana  a stone  
+śuṣka pakka pīlu-phala āra guñjā-mālā  
+dried  ripe  pīlu  fruits  and  guñjā  garland
+
+(67) He sent sand from the site of the rāsa dance, a stone from Govardhana, dried ripe *pīlu* fruits and a garland of *guñjā* seeds.
+
+জগদানন্দ-পণ্ডিত চলিলা সব লঞা ৷  
+ব্যাকুল হৈলা সনাতন তাঁরে বিদায় দিয়া ॥ ৬৮ ॥
+
+jagadānanda-paṇḍita calilā saba lañā  
+Jagadānanda Paṇḍita  set out  all  taking  
+vyākula hailā sanātana tām̐re vidāya diyā  
+distraught  became  Sanātana  him  farewell  giving
+
+(68) Jagadānanda Paṇḍita set out with all these things, and Sanātana was distraught as he bade him farewell.
+
+প্রভুর নিমিত্ত একস্থান মনে বিচরিলা ৷  
+দ্বাদশাদিত্য-টিলায় এক ‘মঠ’ পাইলা ॥ ৬৯ ॥
+
+prabhura nimitta eka-sthāna mane vicarilā  
+of the Lord  for the sake  one  place  in mind  considered  
+dvādaśāditya-ṭilāya eka ‘maṭha’ pāilā  
+on the Dvādaśāditya mound  one  maṭha  found
+
+(69) Sanātana thought of a place for the Lord and found a temple (*maṭha*) on the Dvādaśāditya mound.[^19]
+
+সেই স্থান রাখিলা গোসাঞি সংস্কার করিয়া ৷  
+মঠের আগে রাখিলা এক চালি বান্ধিয়া ॥ ৭০ ॥
+
+sei sthāna rākhilā gosāñi saṁskāra kariyā  
+that  place  kept  the Gosāñi  repair  making  
+maṭhera āge rākhilā eka cāli bāndhiyā  
+of the temple  in front  set up  one  thatched shed  building
+
+(70) The Gosāñi repaired that place and kept it ready, and in front of the temple he built a thatched shed.
+
 ---
 
 [^1]: The same verse as Ādi 4.2 (= Ādi 1.18, 17.2, Antya 2.2, 4.2, 6.2); translation as there.
@@ -377,3 +727,23 @@ all  plundering  bound  they keep  to go on  they prevent
 [^8]: Heading in the edition: the Lord consoles him with sweet words.
 
 [^9]: *Anubhāṣya*: the people of Gauḍa, being slight of build, look weak; finding them alone, highwaymen keep them bound, take everything and do not let them go. According to some, the robbers, seeing that the Bengalis are clever, force them into highway robbery and never let them go.
+
+[^10]: *Mathurāra svāmī-saba*, “the lords of Mathurā.” *Amṛta-pravāha-bhāṣya*: the Caubes, the residents of Mathurā. Heading in the edition: instructions on how to behave in Mathurā, and a warning about keeping company with devotees on the path of rāga, who are free from awareness of the Lord’s majesty.
+
+[^11]: *Amṛta-pravāha-bhāṣya*: in their pure parental love for Kṛṣṇa they behave in ways contrary to the views of the *smārtas*, and you, devoted to the mood of majesty, might come to disrespect them; but their bhakti is *rāgātmikā*, and there must be no disrespect for the residents of Vraja, so honour them with devotion from afar.
+
+[^12]: Heading in the edition: the prohibition against climbing Govardhana, who is non-different from Kṛṣṇa. *Amṛta-pravāha-bhāṣya*: if one lives in Vraja for long, one begins to see faults in its residents and one’s faith weakens; those not yet on the path of rāga should visit Vraja and soon return. Govardhana is Bhagavān Himself, so one must not climb it; it is better to have darśana of Gopāla when He goes elsewhere.
+
+[^13]: *Anubhāṣya*: no authoritative book says that the Lord went to Vṛndāvana again; but since in verse 70 Sanātana repairs the place chosen for Mahāprabhu, one may infer that He may later have gone there again.
+
+[^14]: *Amṛta-pravāha-bhāṣya* (on 46–47): Sanātana then lived on pieces of flatbread received as *mādhukarī* alms, while Jagadānanda could not do without rice day after day and so went to cook at a temple: the temples of Vraja did not cook rice and dal as prasāda.
+
+[^15]: Heading in the edition: wearing on his head the cloth given by a sannyāsī, Sanātana comes to the Paṇḍita’s lodging.
+
+[^16]: *Anubhāṣya*: *jāni*, “making him understand,” or “knowing that the Paṇḍita was full of love for Gaura.”
+
+[^17]: Heading in the edition (on 58): the humility of Sanātana Gosvāmī, who seeks no honour and honours others, and his praise of the Paṇḍita’s steadfast love for Gaura.
+
+[^18]: Heading in the edition: a paramahaṁsa on the path of rāga is forbidden to wear saffron cloth. *Anubhāṣya*: Vaiṣṇavas are paramahaṁsas and *akiñcanas*, possessing nothing but Kṛṣṇa, and need not put on the saffron dress of sannyāsīs to show their status; moreover, Śrī Gaurahari Himself accepted the dress of an *ekadaṇḍī* sannyāsī, and His servants, mindful of the difference between the Lord and His servant, do not think it fitting to resemble Him in dress; while Vaiṣṇavas who accept sannyāsa under the shelter of a guru who is a Vaiṣṇava paramahaṁsa often wear the saffron dress of the fourth āśrama out of humility, thinking themselves unworthy to be called paramahaṁsas.
+
+[^19]: *Anubhāṣya*: *maṭha*, a temple. *Amṛta-pravāha-bhāṣya*: Dvādaśāditya-ṭilā is a high mound on which stands the old, ruined temple of Śrī Madana-mohana; in Kṛṣṇa’s pastimes the twelve Ādityas rose there.
