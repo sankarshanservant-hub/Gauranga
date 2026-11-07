@@ -220,7 +220,7 @@ Sanskrit, in agreement with the Russian translation (same numbering and notes).
 
 **69.** Charming with garlands of luxuriant *damanaka* flowers, delighting all people, sporting in secluded gardens, ceaselessly taking the Name, the abode of compassion, the abode of Gaura's golden radiance — the supreme abode named Chaitanya we contemplate.
 
-**70.** May my mind remember Gauranga, detached from all: His eyes are bees on the shining lotus face of Hari, who ever sports on the festive summit of Niladri;[^03-2] in Him rise high waves of the intoxicating *rasa* of love; to the doe-eyed He is Ananga (the bodiless Kamadeva) himself.
+**70.** May my mind remember Gauranga, detached from all: His eyes are bees on the shining lotus face of Hari, who ever sports on the festive summit of Niladri;[^03-2] in Him rise high waves of the intoxicating *rasa* of love; to the doe-eyed He is Ananga (the bodiless Kamadeva) Himself.
 
 **71.** His body is adorned with drops of tears flowing from His lotus eyes, lovely as the finest pearls; His supreme beauty is also the thrill of His hair standing on end. I take shelter of Gaura — Hari wearing a garment the colour of the red dawn.
 
@@ -382,7 +382,7 @@ Sanskrit, in agreement with the Russian translation (same numbering and notes).
 
 **139.** This is the same blessed capital of Gauda, the same shore of the ocean, the same Sri Purushottama (Jagannatha), the same names of Madhupati — but, Hari, Hari! — such a festival of love is seen nowhere. Ah, Chaitanya, treasury of mercy, shall I ever see Your glory again?
 
-**140.** If one says that Gaurachandra is like the partial incarnations — the Fish and the rest — He is not so: for they are only the manifestation of some potency and pastime. But He, whose greatness is unfathomable, revealing wondrous pastimes with the matchless fullness of all potencies, descended as the complete [Lord].
+**140.** If one says that Gaurachandra is like the partial incarnations — the Fish and the rest — He is not so: for They are only the manifestation of some potency and pastime. But He, whose greatness is unfathomable, revealing wondrous pastimes with the matchless fullness of all potencies, descended as the complete [Lord].
 
 **141.** Though Mahaprabhu has a glory more wondrous even than that of the Original One, the source of Brahma and Shiva, on hearing the prattle of an innocent child He will surely be tender.
 
