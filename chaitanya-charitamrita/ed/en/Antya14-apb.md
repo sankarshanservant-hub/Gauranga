@@ -16,6 +16,12 @@ In His bewilderment from separation from Kṛṣṇa, Śrī Gaurāṅgacandra di
 
 Svarūpa Gosvāmī wrote the *sūtras*, and Raghunātha their explanation (*vṛtti*). I am writing both these descriptions somewhat expanded, in the manner of a *pā̃ji-ṭīkā* (an introductory commentary). *Pā̃ji-ṭīkā*, or *pañji-ṭīkā*, means this: the author of such a commentary “cards” like cotton the arguments of the original source written by the author of the *vṛtti*, and presents them somewhat expanded.
 
+## 16
+
+When the *bhāva* called *mohana*, in the course of its development, reaches a certain [state] and comes to resemble bewilderment, there arises the divine madness called *vaicitrī* (the wondrous).[^16-1] *Udghūrṇā*, *citra-jalpa* and the rest are the many varieties of divine madness.
+
 ---
 
 [^0-1]: Unclear passage: রাগোদয় may mean either “the awakening of *rāga* (burning love)” or, in its everyday Bengali sense, “anger, vexation.”
+
+[^16-1]: The verse translation reads differently: it speaks of intensified love leading to complete bewilderment and then to a state of extreme wonder that awakens the madness of divine love; *mohana* is not mentioned there.
