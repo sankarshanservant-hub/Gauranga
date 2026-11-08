@@ -104,6 +104,64 @@ The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa's *rāsa-
 
 *Saṁvit*: a distraught mind regaining steady awareness.
 
+## 83
+
+> Subheading: Svarūpa's song —
+
+## 84
+
+> Subheading: A *gopī* remembers Kṛṣṇa, the enjoyer of the *rāsa* — (Gīta-govinda 2.3)
+
+**sakhi** (O friend!) **iha** (here) **rāse** (in the *rāsa* dance) **mama** (My) **manaḥ** (mind) **vihita-vilāsam** (Him by whom pastimes were performed [*vihita*, carried out]) **kṛta-parihāsam** (Him by whom jests were made [*kṛta*, done]) **harim** (Hari) **smarati** (remembers).
+
+## 85
+
+> Subheading: Hearing the song, the Lord dances, overwhelmed by *prema* —
+
+## 86
+
+> Subheading: The eight *sāttvika-vikāras* and all the *bhāvas* arise at once —
+
+## 87
+
+*Bhāvodaya*: the arising of the eight *sāttvika-bhāvas*; *bhāva-sandhi*: the meeting of two *bhāvas*, alike or different; *bhāva-śābalya*: the clash of many *bhāvas* with one another.
+
+## 88
+
+> Subheading: The Lord relishes the singing of that verse and dances —
+
+## 89
+
+> Subheading: Svarūpa ends the *kīrtana* —
+
+## 90
+
+> Subheading: Seeing the Lord's condition, Svarūpa stops singing —
+
+## 91
+
+> Subheading: Everyone raises the sound of Hari's name —
+
+## 92
+
+> Subheading: Rāya relieves the Lord's fatigue —
+
+## 93
+
+> Subheading: The Lord bathes, takes *prasāda* and lies down to rest —
+
+## 95
+
+> Subheading: The Lord's divine madness (*udghūrṇā* and *citra-jalpa*): thinking Himself a maidservant of the *gopīs*, He is reminded of the pastimes of Vṛndāvana —
+
+## 97
+
+> Subheading: The Lord, reminded of Vṛndāvana, chants Kṛṣṇa's name, overwhelmed by *prema* — (*Stava-mālā*, first *Caitanyāṣṭaka*, verse 6)
+
+**kvacit** (at times) **yaḥ** (He who) **payo-rāśeḥ** (of the ocean) **tīre** (on the shore — on the strip of sand) **sphurad-upavanālī-kalanayā** (by seeing [*kalana*, beholding] the rows, the clusters, of gardens shining in their beauty) **muhuḥ** (at every moment) **vṛndāraṇya-smaraṇa-janita-prema-vivaśaḥ** (helpless with *prema*: the thought of Vṛndāvana arose in Him, and He lost control of Himself in His longing for love of Kṛṣṇa) **abhūt** (became), **kṛṣṇāvṛtti-pracala-rasanaḥ** (He whose tongue is restless, unsteady, from constantly chanting the name “Kṛṣṇa”), **bhakti-rasikaḥ** **saḥ** **caitanyaḥ** **me** (my) **dṛśoḥ** (of the eyes) **padam** (path) **punar api** **kim** **yāsyati** (will He attain — enter again)?
+
+*Thus ends the fifteenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^63-1]: The verse translation reads differently: an elegant pearl necklace.

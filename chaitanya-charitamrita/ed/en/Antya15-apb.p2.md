@@ -46,6 +46,16 @@ O friend! His chest is broad and charming like a door made of sapphires (*indran
 
 Seeing their pride in their good fortune, Kṛṣṇa vanished right there, to quell that pride and to show them grace.
 
+## 84
+
+My mind remembers Hari, who here, in the *rāsa* dance, enjoyed many pastimes and jested.
+
+## 97
+
+Seeing the rows of beautiful gardens on the seashore, the Lord again and again remembered the forest of Vṛndāvana and became helpless with *prema*. Gaurāṅga, the connoisseur of the taste of *bhakti*, is saying “Kṛṣṇa! Kṛṣṇa!” with a restless (*pracala*, unsteady) tongue. Will such a Caitanyadeva come again within the path of my sight?
+
+*Thus ends the fifteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^64-1]: The verse translation reads differently: Kṛṣṇa's body resembles collyrium in its luster.
