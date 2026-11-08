@@ -70,7 +70,7 @@ These two *gosvāmīs* constantly experienced Śrī Mahāprabhu's pastimes and r
 
 > Subheading: The definition of divine madness and its varieties — (Ujjvala-nīlamaṇi, section on the *sthāyi-bhāva*, verse 190)
 
-**kām api** (a certain indescribable) **gatiṁ** (state) **upeyuṣaḥ** (having reached) **sataḥ** **etasya mohanākhyasya** (of this [*bhāva*] whose name is *mohana*) **bhramābhā** (which has the semblance of bewilderment) **kāpi** (an unprecedented) **vaicitrī** (a special manifestation that displays wonder) **divyonmādaḥ** **iti** **īryate** (is called); **udghūrṇā-citra-jalpādyāḥ** **bahavaḥ** **tad-bhedāḥ** (varieties of divine madness) **matāḥ** (are described).[^16-1]
+**kām api** (a certain indescribable) **gatiṁ** (state) **upeyuṣaḥ** (having reached) **sataḥ** **etasya mohanākhyasya** (of this [*bhāva*] whose name is *mohana*) **bhramābhā** (which has the semblance of bewilderment) **kāpi** (an unprecedented) **vaicitrī** (a special manifestation that displays wonder) **divyonmādaḥ** **iti** **īryate** (is called); **udghūrṇā-citra-jalpādyāḥ** **bahavaḥ** **tad-bhedāḥ** (varieties of divine madness) **matāḥ** (are described).
 
 ## 17
 
@@ -370,7 +370,7 @@ See Madhya 18.34.
 
 > Subheading: Everyone performs loud *saṅkīrtana*; Govinda and others sprinkle water —
 
-*Śravaṇe* — right at the ear.[^100-1]
+*Śravaṇe* — right at the ear.
 
 ## 101
 
@@ -438,17 +438,13 @@ See Madhya 18.34.
 
 ---
 
-[^16-1]: The verse translation reads differently: it speaks of intensified love leading to complete bewilderment and then to a state of extreme wonder that awakens the madness of divine love; *mohana* is not mentioned there.
-
 [^26-1]: The edition reads «শ্রীমূর্ত্তিকে অপ্রাকৃত কার্ষ্ণজ্ঞান». Another reading is possible: *śrī-mūrti* as the holy form of the Deity (Jagannātha), whom the Lord sees as transcendental, Kṛṣṇa Himself, and so does not hinder her *darśana*.
 
 [^53-1]: So in the edition: “বক্ষশ্চ-কোরিকা” (the reading is clear in the scan, but the word is unusual); by the sense of the verse, the *koka* (*cakravāka*) birds of the breast.
 
 [^73-1]: In the verse translation, otherwise: “this image of Śrī Caitanya makes me, too, a madman.”
 
-[^74-1]: Hindustani: “What are you doing? Why?” In the verse translation, otherwise: “What happened? How did I get here?”
-
-[^100-1]: In the verse translation, otherwise: “around Śrī Caitanya.”
+[^74-1]: Hindustani: “What are you doing? Why?”
 
 [^120-1]: So in the edition: the gloss *itaḥ kṣetrāt* (“from here, from this Kṣetra”) stands after the word *aye*; by the sense it belongs to the word *itaḥ* (“from here”) in the same verse, which the analysis leaves out.
 
