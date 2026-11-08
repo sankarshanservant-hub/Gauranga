@@ -19,3 +19,15 @@ I offer my obeisances to Śrī Kṛṣṇa Caitanya. He Himself relished the nec
 ## 41
 
 “*Bāiśa pahāca*”: twenty-two *pahācas*. The Oriyas call each step of a staircase a *pahāca*. To go up through the Lion Gate one must climb twenty-two *pahācas*.
+
+## 52
+
+Obeisances to Narasiṁha, who gives joy to Prahlāda; obeisances to Nṛsiṁha, whose nails split the stone-like chest of Hiraṇyakaśipu.
+
+## 53
+
+Nṛsiṁha here, Nṛsiṁha there; wherever I go, there is Nṛsiṁha; Nṛsiṁha outside and Nṛsiṁha in the heart. I take shelter of that original Nṛsiṁha.
+
+## 60
+
+“The strength of the three practices”: to take the dust of a devotee's feet, to take the water that washed his feet, and to take the nectar of his lips (*adharāmṛta*). These three are the very strength of all spiritual practice.

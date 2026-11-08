@@ -178,6 +178,60 @@ From these and many other statements of scripture we know that transcendental *b
 
 > Subheading: The Lord offers obeisances to Śrī Nṛsiṁha —
 
+## 52
+
+> Subheading: Obeisances to Śrī Nṛsiṁha, the sole protector of the devotees who preach pure devotion, the crusher of the godless, to whom the devotees are dear (two verses from the *Nṛsiṁha Purāṇa*) —
+
+**hiraṇyakaśipoḥ** (of the son of Kaśyapa, the father of Prahlāda, the king of the Daityas, hostile to Viṣṇu and the Vaiṣṇavas) **vakṣaḥ-śilā-ṭaṅka-nakhālaye** (the chest is the stone [*śilā*]; a *ṭaṅka* is a special tool for splitting stone; to Him whose row [*āli*, line] of nails is that chisel) **prahlādāhlāda-dāyine** (who gives joy to Prahlāda, the son of Hiraṇyakaśipu and the best of pure Vaiṣṇavas) **nara-siṁhāya** (to Nṛsiṁhadeva) **te** (to You) **namaḥ**.
+
+## 53
+
+> Subheading: The preacher of pure devotion everywhere sees Adhokṣaja Śrī Nṛsiṁhadeva as his protector —
+
+**itaḥ** (here, in this place, in Devī-dhāma) **nṛsiṁhaḥ**, **parataḥ** (there, in Paravyoma) **nṛsiṁhaḥ**; **yataḥ yataḥ** (wherever) **yāmi**, **tataḥ** (there) **nṛsiṁhaḥ**; **bahiḥ** (outside, in the manifest world) **nṛsiṁhaḥ**; **hṛdaye** (in the inner world) **nṛsiṁhaḥ** (appears); (therefore) **ādim** (the original Lord, the root of all) **nṛsiṁham** (I) **śaraṇaṁ prapadye** (take shelter of, that is, I resort to Him).
+
+## 54
+
+> Subheading: The Lord partakes of *prasāda* —
+
+## 55
+
+> Subheading: Kālidāsa stands waiting for remnants, and by the Lord's wish he is given the remnants of His meal —
+
+“*Ṭhāre*”: by a sign, a hint.
+
+## 57
+
+> Subheading: The one reason why [Kālidāsa] received the Lord's highest mercy —
+
+## 58
+
+> Subheading: The author's instruction to all *sādhakas* —
+
+## 59
+
+> Subheading: What the remnants of Kṛṣṇa and the remnants of a devotee are called —
+
+## 60
+
+> Subheading: Three transcendental things that give spiritual strength to a *sādhaka* —
+
+## 61
+
+> Subheading: Serving these three is the one means, approved by all scriptures, of attaining the goal (*prayojana*), the supreme aim of life (*parama-puruṣārtha*) —
+
+## 62
+
+> Subheading: The author's earnest advice to all *sādhakas* who wish to attain the supreme goal, love of God —
+
+## 63
+
+> Subheading: These three practices are the only way to attain Kṛṣṇa's name, love for Him, and His mercy —
+
+## 64
+
+> Subheading: Only because of his faith in the devotees' remnants is the Lord merciful to Kālidāsa in Purī —
+
 ---
 
 [^7-1]: The edition reads “*Bhāg.* 1.18.38–41”; the places assigned to Kali (gambling, intoxication, and so on) are listed in *Śrīmad-Bhāgavatam* 1.17.38–41.
