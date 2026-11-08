@@ -3735,3 +3735,64 @@ RU → EN. В общий глоссарий не внесено (решает к
 - ক্ষেত্র (Пури) → Кшетра / Kṣetra; নীলাচল, নীলাদ্রি → Нилачала / Nīlācala.
 - পুরী, ভারতী → Пури, Бхарати (Парамананда Пури, Брахмананда Бхарати) / Purī, Bhāratī.
 - স্তবাবলী, চৈতন্যস্তবকল্পবৃক্ষ → “Става-вали”, “Чайтанья-става-калпаврикша” / *Stavāvalī*, *Caitanya-stava-kalpavṛkṣa*.
+
+## Термины (добавлено по Антья 15; RU и EN)
+
+### Antya15-p1
+
+# Новые термины — Антья 15, комментарии, часть 1 (стихи 0–50; RU / EN)
+
+#### Термины
+- নিত্যনৈমিত্তিক-ক্রিয়ানুষ্ঠান → исполнение повседневных и особых обязанностей (нитья-наймиттика) / performing daily and occasional duties (*nitya-naimittika*).
+- কুমারের চাক (Ану 6) → гончарный круг (вращается сам, силой прежнего толчка) / a potter's wheel (turning by itself on its earlier momentum).
+- হৃষীকদ্বারা গোবিন্দ-সেবা → служение Говинде чувствами (хришика) / serving Govinda with the senses (*hṛṣīka*).
+- পুষ্পবাণ (অপ্রাকৃত) → [трансцендентный] Бог любви (Пушпабана) / the [transcendental] god of love (*Puṣpabāṇa*, the flower-arrowed one).
+- পঞ্চজ্ঞানেন্দ্রিয় → пять чувств познания / the five senses of knowledge.
+- রসনর্ম্ম (পরিহাস) → игривые шутки (раса-нарма, парихаса) / playful jests (*rasa-narma*, *parihāsa*).
+- মূলধন (ব্রজনারীগণের) → главное богатство / chief wealth.
+- চেতনময়ী কৃষ্ণ-কার্ষ্ণপ্রতীতি → видеть Кришну и всё, что принадлежит Кришне, живым и сознающим / seeing Kṛṣṇa and all that belongs to Kṛṣṇa as living and conscious.
+- শ্লোকার্থ (подзаголовок) → Смысл шлоки / The meaning of the verse.
+- রহিতাত্মা (শূন্যমনাঃ) → лишившиеся самих себя, опустевшие умом / who have lost their very selves, whose minds are empty.
+- পরার্থভবক → чьё рождение — ради других / whose birth is for the sake of others.
+
+#### Растения и животные (ШБ 10.30.7–11)
+- চূত (আম্রজাতিবিশেষ), পিয়াল / প্রিয়াল, কাঁঠাল / পনস (কণ্টক), আসন (পীতশাল), কোবিদার, জম্বু, অর্ক, বিল্ব, বকুল, আম্র, কদম্ব, নীপ (কদম্ববিশেষ) → чута (разновидность манго), пияла / прияла, катхал / панаса (хлебное дерево; кантака), асана (питашала), ковидара, джамбу, арка, билва, бакула, манго, кадамба, нипа (разновидность кадамбы) / *cūta* (a kind of mango), *piyāla* / *priyāla*, *kā̃ṭhāla* / *panasa* (jackfruit; *kaṇṭaka*), *āsana* (*pītaśāla*), *kovidāra*, *jambu*, *arka*, *bilva*, *bakula*, mango, *kadamba*, *nīpa* (a kind of *kadamba*).
+- মালতী, মল্লিকা, জাতি, যূথিকা → малати, маллика, джати, ютхика / *mālatī*, *mallikā*, *jāti*, *yūthikā*.
+- এণপত্নী (হরিণী) → лань / doe.
+
+#### Имена
+- রামরায় → Рамарай / Rāmarāya (= Рамананда Рай).
+
+### Antya15-p2
+
+#### Оформление
+- শাস্ত্রদৃষ্টান্ত (подзаголовок перед шлокой) → Пример из шастр — / An example from scripture —.
+- শ্লোকার্থ (подзаголовок перед пересказом шлоки) → Смысл шлоки — / The meaning of the verse —.
+- চিত্রজল্পোক্তি → Речь в читра-джалпе — / Words spoken in *citra-jalpa* —.
+- [ যথা রাগঃ ] (перед трипади) → [Напев — любая рага (ятха-рага)] / [Any *rāga* as suits (*yathā-rāga*)].
+- স্তবমালায় ১ম চৈতন্যাষ্টকে → Става-мала, первая Чайтанья-аштака / *Stava-mālā*, first *Caitanyāṣṭaka*.
+
+#### Термины
+- মদনমোহন (толкование Анубхашьи к 63) → Мадана — «опьяняющий»: ради расы встречи (самбхоги) заставляет томиться в разлуке (випраламбхе) и затем делает встречу полнее; Мохана — этими двумя покоряет Себе / Madana, “He who maddens”: to nourish the *rasa* of union He makes [her] languish in separation and then brings union to fullness; Mohana, by these two He brings [her] under His sway.
+- তারহার (Ану 63: তারা ইব) → ожерелье, сияющее, как звёзды / a necklace shining like stars (у ВЧД — жемчужное ожерелье).
+- দলিত অঞ্জন → растёртая (истолчённая) сурьма / ground (pounded) collyrium; চিক্কণতা → гладкий блеск / smooth gloss.
+- ইন্দীবর → индивара, голубой лотос / *indīvara*, blue lotus; উৎপল → утпала / *utpala*; কুবলয় → кувалая / *kuvalaya*.
+- বলাহক → валахака, туча / *valāhaka*, a cloud; ঝঞ্ঝা-বাত → вихрь / whirlwind; অকলঙ্ক পূর্ণকল → без пятен и полная во всех шестнадцати фазах / spotless and full in all sixteen digits.
+- বকশ্রেণী → стая журавлей / a row of cranes; বৈজয়ন্তী-মালা (পঞ্চবর্ণ) → (пятицветная) гирлянда Вайджаянти / (five-colored) Vaijayantī garland.
+- চার (приманка) → приманка, обманная пища / bait, deceptive food; ফাঁদ → силок / snare.
+- ডাকাতিয়া বক্ষ → дакатия бакша, грудь-разбойник / *ḍākātiyā vakṣa*, the robber chest.
+- লক্ষ্মী (знак) → золотая линия на левой стороне груди / a golden line on the left of the chest; শ্রীবৎস → Шриватса, завиток волос, закрученный вправо (দক্ষিণাবর্ত্ত রোমাবলী) / Śrīvatsa, a curl of hair turning right.
+- শৈল-ছিদ্র → расселина (середина) между грудями / the gap (middle) between the breasts.
+- বেণামূল → венамула, душистый корень кхаскхас (ветивер) / *veṇāmūla*, the fragrant *khaskhas* root (vetiver).
+- কন্দর্প-জ্বালা-বিষ, কামজ্বালা (о гопи) → жгучий яд Кандарпы; жар любовного желания (не «страсть») / the burning poison of Kandarpa; the fever of loving desire.
+- হরিণ্মণি → харин-мани, сапфир (индранила) / *harin-maṇi*, sapphire (*indranīla*); সিতাভ্র → ситабхра, камфора / *sitābhra*, camphor; সুধাংশু → судхамшу, луна / *sudhāṁśu*, the moon.
+- কেশব (Ану 81) → «ка» и «иша» (Брахма и Шива) — Тот, кто их подчиняет / *ka* and *īśa* (Brahmā and Śiva), He who controls them.
+- সম্বিৎ → самвит: знание, сознание (54); смятённый ум обретает устойчивое сознание (82) / *saṁvit*: knowledge, consciousness; a distraught mind regaining steady awareness.
+- হর্ষ-শোক → харша-шока: радость (от сладости Кришны) и скорбь (от разлуки) / *harṣa-śoka*, joy and grief.
+- ভাবোদয়, ভাবসন্ধি, ভাবশাবল্য → бхаводая, бхава-сандхи, бхава-шабалья / *bhāvodaya*, *bhāva-sandhi*, *bhāva-śābalya*.
+- গোপীকিঙ্করী-অভিমান → считая Себя служанкой гопи / thinking Himself a maidservant of the *gopīs*.
+- উদ্যান-বিহার → удьяна-вихара, игры в саду / *udyāna-vihāra*, pastimes in the garden.
+
+#### Имена
+- রামানুজ (о Кришне) → Рамануджа, младший брат Баларамы / Rāmānuja, Balarāma's younger brother.
+- স্মর → Смара (= Мадана, Камадева) / Smara.
