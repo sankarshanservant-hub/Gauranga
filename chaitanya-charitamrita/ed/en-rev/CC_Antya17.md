@@ -146,7 +146,7 @@ then  Svarūpa  Gosāñi  with  taking  the devotees
 deuṭi jvāliyā karena prabhura anveṣaṇa  
 torches  lighting  make  for the Lord  a search
 
-(14) Then Svarūpa Gosāñi took the devotees with him, and they lit torches and searched for the Lord.
+(14) Then Svarūpa Gosāñi took the devotees with him, and they lit torches and went in search of the Lord.
 
 ইতি-উতি অন্বেষিয়া সিংহদ্বারে গেলা ৷  
 গাভীগণ-মধ্যে যাই’ প্রভুরে পাইলা ॥ ১৫ ॥
@@ -352,7 +352,7 @@ as rejection  them  true  taking
 roṣe kṛṣṇe dena olāhana  
 in anger  to Kṛṣṇa  gives  reproach
 
-(33) Absorbed in the mood of the *gopīs*, He entered the *rāsa* dance. There He heard Kṛṣṇa’s words of indifference, took those words, spoken with a smile, as a true rejection, and reproached Kṛṣṇa in anger:[^4]
+(33) Immersed in that mood, He entered the *rāsa* dance. There He heard Kṛṣṇa, smiling, speak words of indifference, and, taking them for a true rejection, He reproached Kṛṣṇa in anger:[^4]
 
 নাগর, কহ, তুমি করিয়া নিশ্চয় ৷  
 এই ত্রিজগৎ ভরি’, আছে যত যোগ্যা নারী,  
@@ -483,7 +483,7 @@ of Ramā and the others  of the fairest women  the hearts  stealing  of the flut
 sa me madana-mohanaḥ sakhi tanoti karṇa-spṛhām  
 He  My  Madana-mohana  O friend  increases  of the ears  the longing
 
-(40) “O friend, His voice is like the rumbling of a thundering cloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at *rasa*; and the soft note of His flute steals the hearts of Lakṣmī and the other fairest of women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
+(40) “O friend, His voice is like the rumbling of a thundercloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at *rasa*; and the soft note of His flute steals the hearts of Lakṣmī and other lovely women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
 
 কণ্ঠের গম্ভীর ধ্বনি, নবঘন-ধ্বনি জিনি’,  
 যার গুণে কোকিল লাজায় ৷  
@@ -578,7 +578,7 @@ by misfortune  sometimes  not  gets
 nā pāile maraye piyāse  
 not  getting  dies  of thirst
 
-(45) One drop of that nectar is the very life of the *cakora* bird of the ears, and on the hope of it alone that *cakora* lives. Sometimes by good fortune it gets that drop, sometimes by misfortune it does not, and when it does not, it dies of thirst.
+(45) One drop of that nectar is the very life of the *cakora* bird of the ears, and on the hope of it alone that *cakora* lives. Sometimes, by good fortune, it gets that drop; sometimes, by ill fortune, it goes without, and then it dies of thirst.
 
 যেবা বেণু-কলধ্বনি, একবার তাহা শুনি’,  
 জগন্নারী-চিত্ত আউলায় ৷  
@@ -598,7 +598,7 @@ without  price  become  maidservants
 bāulī hañā kṛṣṇa-pāśe dhāya  
 crazed  becoming  to Kṛṣṇa’s  side  run
 
-(46) Let the women of the world hear but once the sweet sound of His flute, and their hearts are thrown into turmoil. The knots of their sashes slip loose; they become His maidservants without price and, as if crazed, run to Kṛṣṇa’s side.
+(46) Let the women of the world hear but once the sweet sound of His flute, and their hearts are thrown into turmoil. The knots of their sashes slip loose; they become His unbought maidservants and, as if crazed, run to Kṛṣṇa’s side.
 
 যেবা লক্ষ্মী-ঠাকুরাণী, তেঁহো যে কাকলী শুনি’,  
 কৃষ্ণ-পাশ আইসে প্রত্যাশায় ৷  
@@ -729,7 +729,7 @@ where  going  Kṛṣṇa  shall I find
 kṛṣṇa vinā prāṇa mora yāya  
 Kṛṣṇa  without  life  My  goes
 
-(53) Alas, alas, O friend, what shall I do? What can I do, where can I go? Where must I go to find Kṛṣṇa? Without Kṛṣṇa My life is leaving Me.”
+(53) Alas, alas, O friend, what shall I do? What can I do, where can I turn? Where must I go to find Kṛṣṇa? Without Kṛṣṇa My life is leaving Me.”
 
 ক্ষণে মন স্থির হয়, তবে মনে বিচারয়,  
 বলিতে হইল ভাবোদ্গম ৷  
@@ -789,7 +789,7 @@ He  lying  is  in the heart
 kona rīte nā pāri chāḍite  
 by any  way  not  can I  give up
 
-(56) But even as She spoke, She remembered Him, and Kṛṣṇa appeared in Her heart. In astonishment She told Her friend, “He whom I want to give up lies in My heart, and try as I may, I cannot give Him up.”[^15]
+(56) But even as She spoke, She remembered Him, and Kṛṣṇa appeared in Her heart. In astonishment She told Her friend, “He whom I want to forsake lies in My heart, and try as I may, I cannot let Him go.”[^15]
 
 রাধাভাবের স্বভাব আন, কৃষ্ণে করায় ‘কাম’-জ্ঞান,  
 কাম-জ্ঞানে ত্রাস হৈল চিত্তে ৷  
@@ -809,7 +809,7 @@ he  has entered  within
 ei vairī nā deya pāsarite  
 this  enemy  not  lets  forget
 
-(57) Such is the wondrous nature of Rādhā’s feeling that it made Her see Kṛṣṇa as Kāma himself, and at that thought Her heart was seized with fear. She said, “He who strikes down the whole world has entered My heart. This enemy will not let Me forget Him.”[^16]
+(57) Such is the wondrous nature of Rādhā’s feeling that it made Her see Kṛṣṇa as Kāmadeva, and at that thought Her heart was seized with fear. She said, “He who strikes down the whole world has entered My heart. This enemy will not let Me forget Him.”[^16]
 
 ঔৎসুক্যের প্রাধান্য, জিনি’ অন্য ভাব-সৈন্য,  
 উদয় হৈল নিজ-রাজ্য মনে ৷  
@@ -829,7 +829,7 @@ not  is  under her own  control
 duḥkhe mane karena bhartsane  
 in sorrow  the mind  She makes  reproaches
 
-(58) Then eagerness, conquering the armies of all the other feelings, rose to supremacy in its own kingdom, Her mind. A craving seized that mind which She could not master, and in sorrow She reproached it:
+(58) Then eagerness, conquering the armies of all the other feelings, rose to supremacy in its own kingdom, Her mind. Craving seized that mind, and, no longer mistress of Herself, She reproached it in sorrow:
 
 মন মোর বাম-দীন, জল বিনা যেন মীন,  
 কৃষ্ণ বিনা ক্ষণে মরি’ যায় ৷  
@@ -979,7 +979,7 @@ with all  the heart  worship  O people  Caitanya’s  feet
 yāhā haite pāibā kṛṣṇa-premāmṛta-dhana  
 which  from  you will get  for Kṛṣṇa  of love  of the nectar  the treasure
 
-(69) O people, worship the feet of Caitanya with all your heart! From them you will receive the treasure of the nectar of love for Kṛṣṇa.
+(69) O people, worship the feet of Caitanya with all your heart! From them you will receive a treasure — the nectar of love for Kṛṣṇa.
 
 এই ত’ কহিলুঁ প্রভুর ‘কূর্ম্মাকৃতি’-ভাব ৷  
 উন্মাদ-চেষ্টিত তাতে উন্মাদ-প্রলাপ ॥ ৭০ ॥
@@ -989,7 +989,7 @@ this  indeed  I have told  of the Lord  of the tortoise form  the state
 unmāda-ceṣṭita tāte unmāda-pralāpa  
 of madness  the behaviour  in it  of madness  ravings
 
-(70) Thus I have told of the Lord’s state in the form of a tortoise, and of His behaviour and ravings in that divine madness.[^19]
+(70) Thus I have told how the Lord, in ecstasy, took the form of a tortoise, how He acted in His divine madness, and what ravings He uttered.[^19]
 
 এই লীলা স্বগ্রন্থে রঘুনাথ-দাস ৷  
 চৈতন্যস্তবকল্পবৃক্ষে কৈরাছেন প্রকাশ ॥ ৭১ ॥

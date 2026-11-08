@@ -78,7 +78,7 @@ tr: Meanwhile Govinda, no longer hearing any sound from Mahāprabhu, opened the 
 ## 14
 w: then  Svarūpa  Gosāñi  with  taking  the devotees
 w: torches  lighting  make  for the Lord  a search
-tr: Then Svarūpa Gosāñi took the devotees with him, and they lit torches and searched for the Lord.
+tr: Then Svarūpa Gosāñi took the devotees with him, and they lit torches and went in search of the Lord.
 
 ## 15
 w: here and  there  searching  to the Siṁha-dvāra  went
@@ -181,7 +181,7 @@ w: Kṛṣṇa’s  hearing  of disregard  words
 w: Kṛṣṇa’s  mouth’s  smiling  words
 w: as rejection  them  true  taking
 w: in anger  to Kṛṣṇa  gives  reproach
-tr: Absorbed in the mood of the *gopīs*, He entered the *rāsa* dance. There He heard Kṛṣṇa’s words of indifference, took those words, spoken with a smile, as a true rejection, and reproached Kṛṣṇa in anger:
+tr: Immersed in that mood, He entered the *rāsa* dance. There He heard Kṛṣṇa, smiling, speak words of indifference, and, taking them for a true rejection, He reproached Kṛṣṇa in anger:
 fn: Heading in the edition: a gopī describes her feelings for Kṛṣṇa (*citra-jalpa*). *Amṛta-pravāha-bhāṣya*: in the *rāsa-līlā* the gopīs heard Kṛṣṇa’s indifferent words and took it as true that He had rejected them.
 
 ## 34
@@ -243,7 +243,7 @@ w: of a thundering  cloud  whose voice  the ears  drawing  lovely  jingling
 w: of jest  rasa  hinting  syllables  words  meanings  artful  speech
 w: of Ramā and the others  of the fairest women  the hearts  stealing  of the flute  the soft note
 w: He  My  Madana-mohana  O friend  increases  of the ears  the longing
-tr: “O friend, His voice is like the rumbling of a thundering cloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at *rasa*; and the soft note of His flute steals the hearts of Lakṣmī and the other fairest of women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
+tr: “O friend, His voice is like the rumbling of a thundercloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at *rasa*; and the soft note of His flute steals the hearts of Lakṣmī and other lovely women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
 
 ## 41
 w: of the voice  deep  sound
@@ -289,7 +289,7 @@ w: of the ears  the cakora  lives  on that  hope
 w: by fortune  sometimes  gets
 w: by misfortune  sometimes  not  gets
 w: not  getting  dies  of thirst
-tr: One drop of that nectar is the very life of the *cakora* bird of the ears, and on the hope of it alone that *cakora* lives. Sometimes by good fortune it gets that drop, sometimes by misfortune it does not, and when it does not, it dies of thirst.
+tr: One drop of that nectar is the very life of the *cakora* bird of the ears, and on the hope of it alone that *cakora* lives. Sometimes, by good fortune, it gets that drop; sometimes, by ill fortune, it goes without, and then it dies of thirst.
 
 ## 46
 w: which  the flute’s  sweet  sound
@@ -298,7 +298,7 @@ w: of the world  the women’s  hearts  are thrown into turmoil
 w: the sash  knots  fall  slipping loose
 w: without  price  become  maidservants
 w: crazed  becoming  to Kṛṣṇa’s  side  run
-tr: Let the women of the world hear but once the sweet sound of His flute, and their hearts are thrown into turmoil. The knots of their sashes slip loose; they become His maidservants without price and, as if crazed, run to Kṛṣṇa’s side.
+tr: Let the women of the world hear but once the sweet sound of His flute, and their hearts are thrown into turmoil. The knots of their sashes slip loose; they become His unbought maidservants and, as if crazed, run to Kṛṣṇa’s side.
 
 ## 47
 w: even  Lakṣmī  the goddess
@@ -361,7 +361,7 @@ w: alas  alas  O friend  what  shall I do  means
 w: what  shall I do  where  shall I go
 w: where  going  Kṛṣṇa  shall I find
 w: Kṛṣṇa  without  life  My  goes
-tr: Alas, alas, O friend, what shall I do? What can I do, where can I go? Where must I go to find Kṛṣṇa? Without Kṛṣṇa My life is leaving Me.”
+tr: Alas, alas, O friend, what shall I do? What can I do, where can I turn? Where must I go to find Kṛṣṇa? Without Kṛṣṇa My life is leaving Me.”
 
 ## 54
 w: for a moment  the mind  steady  becomes
@@ -389,7 +389,7 @@ w: to the friend  says  becoming  astonished
 w: whom  I want  to give up
 w: He  lying  is  in the heart
 w: by any  way  not  can I  give up
-tr: But even as She spoke, She remembered Him, and Kṛṣṇa appeared in Her heart. In astonishment She told Her friend, “He whom I want to give up lies in My heart, and try as I may, I cannot give Him up.”
+tr: But even as She spoke, She remembered Him, and Kṛṣṇa appeared in Her heart. In astonishment She told Her friend, “He whom I want to forsake lies in My heart, and try as I may, I cannot let Him go.”
 fn: Heading in the edition: Kṛṣṇa, as the transcendental Kāmadeva, takes possession of the heart.
 
 ## 57
@@ -399,7 +399,7 @@ w: in the perception of Kāma  fear  arose  in the heart
 w: says  who  the world  strikes down
 w: he  has entered  within
 w: this  enemy  not  lets  forget
-tr: Such is the wondrous nature of Rādhā’s feeling that it made Her see Kṛṣṇa as Kāma himself, and at that thought Her heart was seized with fear. She said, “He who strikes down the whole world has entered My heart. This enemy will not let Me forget Him.”
+tr: Such is the wondrous nature of Rādhā’s feeling that it made Her see Kṛṣṇa as Kāmadeva, and at that thought Her heart was seized with fear. She said, “He who strikes down the whole world has entered My heart. This enemy will not let Me forget Him.”
 fn: *Anubhāṣya*: *māre* — that is, “Māra”: He conquers the world as Kāmadeva. *Amṛta-pravāha-bhāṣya*: it makes Her see Kṛṣṇa as Kandarpa.
 
 ## 58
@@ -409,7 +409,7 @@ w: rising  there was  in its own  kingdom  in the mind
 w: in the mind  there was  craving
 w: not  is  under her own  control
 w: in sorrow  the mind  She makes  reproaches
-tr: Then eagerness, conquering the armies of all the other feelings, rose to supremacy in its own kingdom, Her mind. A craving seized that mind which She could not master, and in sorrow She reproached it:
+tr: Then eagerness, conquering the armies of all the other feelings, rose to supremacy in its own kingdom, Her mind. Craving seized that mind, and, no longer mistress of Herself, She reproached it in sorrow:
 
 ## 59
 w: mind  My  wayward  wretched
@@ -482,12 +482,12 @@ tr: Caitanya is wonderfully merciful, wonderfully generous! We have never heard 
 ## 69
 w: with all  the heart  worship  O people  Caitanya’s  feet
 w: which  from  you will get  for Kṛṣṇa  of love  of the nectar  the treasure
-tr: O people, worship the feet of Caitanya with all your heart! From them you will receive the treasure of the nectar of love for Kṛṣṇa.
+tr: O people, worship the feet of Caitanya with all your heart! From them you will receive a treasure — the nectar of love for Kṛṣṇa.
 
 ## 70
 w: this  indeed  I have told  of the Lord  of the tortoise form  the state
 w: of madness  the behaviour  in it  of madness  ravings
-tr: Thus I have told of the Lord’s state in the form of a tortoise, and of His behaviour and ravings in that divine madness.
+tr: Thus I have told how the Lord, in ecstasy, took the form of a tortoise, how He acted in His divine madness, and what ravings He uttered.
 fn: Heading in the edition: the divine madness of the Lord described — *udghūrṇā* and *citra-jalpa*.
 
 ## 71
