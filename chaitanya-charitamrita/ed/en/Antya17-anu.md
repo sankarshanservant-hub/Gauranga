@@ -98,7 +98,7 @@ See Madhya 24.52.
 
 ## 38
 
-**ghole**[^38-1] — in colloquial speech, *ghol khāoyāy* (“makes one drink buttermilk”), that is, eclipses or overcomes. A variant reading is *role*, that is, by its sound, by its noise; another variant is *ugāre*, “pours forth.”
+**ghole** — in colloquial speech, *ghol khāoyāy* (“makes one drink buttermilk”), that is, eclipses or overcomes. A variant reading is *role*, that is, by its sound, by its noise; another variant is *ugāre*, “pours forth.”
 
 ## 39
 
@@ -228,7 +228,7 @@ Even Anantadeva, who has infinite power, cannot with His thousand mouths describ
 
 ## 72
 
-**aho**, (in Kāśī Miśra's house) **dvāra-trayam** **anudghāṭya** (without unbolting) **uru** (high) **bhitti-trayam** (three walls) **ca** **uccaiḥ** **vilaṅghya** (crossing over) **kāliṅgika-surabhi-madhye** (among cows born in the land of Kaliṅga, within Trailaṅga) **nipatitaḥ** **kṛṣṇoru-virahāt** (from severe separation from Kṛṣṇa) **tanūdyat-saṅkocāt** (from the contraction, that is, the shrinking, that arose in His body) **kamaṭhaḥ** (a tortoise) **iva** **virājan** **gaurāṅgaḥ** **mama** **hṛdaye** **udayan** **mām** **madayati** (fills with bliss).[^72-1]
+**aho**, (in Kāśī Miśra's house) **dvāra-trayam** **anudghāṭya** (without unbolting) **uru** (high) **bhitti-trayam** (three walls) **ca** **uccaiḥ** **vilaṅghya** (crossing over) **kāliṅgika-surabhi-madhye** (among cows born in the land of Kaliṅga, within Trailaṅga) **nipatitaḥ** **kṛṣṇoru-virahāt** (from severe separation from Kṛṣṇa) **tanūdyat-saṅkocāt** (from the contraction, that is, the shrinking, that arose in His body) **kamaṭhaḥ** (a tortoise) **iva** **virājan** **gaurāṅgaḥ** **mama** **hṛdaye** **udayan** **mām** **madayati** (fills with bliss).
 
 Where the Godāvarī River meets the sea stood the capital of the land of Tailaṅga, “Kariṅga,” or “Dakṣiṇa-Kaliṅga” (South Kaliṅga). In Sanskrit a Tailaṅga cow is called *kāliṅgika-surabhi*.
 
@@ -238,8 +238,5 @@ Where the Godāvarī River meets the sea stood the capital of the land of Taila�
 
 [^1-1]: The edition reads «গৌড়ের» (“of Gauḍa”); the sense (verse 1 speaks of Gauracandra) calls for «গৌরের» (“of Gaura”).
 
-[^38-1]: The verse translation reads differently: “the sound of Your flute is like churned nectar” (so too the *Amṛta-pravāha-bhāṣya* on 33–38: “the sound of the flute is nectarean buttermilk”).
-
 [^51-1]: In the edition the word *tasya* (“His”) stands inside the bracketed gloss; by sense it goes with **āśayā** (“in the hope of Him”).
 
-[^72-1]: The verse translation reads differently: “maddens me” (so too the *Amṛta-pravāha-bhāṣya* on 72).
