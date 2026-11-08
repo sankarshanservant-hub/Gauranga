@@ -160,7 +160,7 @@ During the *rāsa* pastime, Bhagavān Śrī Kṛṣṇa suddenly vanished. Seein
 
 > Subheading: Words spoken in *citra-jalpa* — (Govinda-līlāmṛta 8.4: Śrī Rādhikā's words)
 
-**sakhi** (O friend!) **navāmbuda-lasad-dyutiḥ** (whose luster [*dyuti*, radiance] shines even brighter than a fresh cloud) **nava-taḍin-manojñāmbaraḥ** (whose garment [*ambara*, clothing] is more charming and lovely even than fresh lightning) **sucitra-muralī-sphurac-charad-amanda-candrānanaḥ** (whose face, shining with a wonderfully charming flute, is like the full moon of autumn) **mayūra-dala-bhūṣitaḥ** (adorned with peacock feathers) **subhaga-tāra-hāra-prabhaḥ** (whose necklace shines like beautiful, brilliant stars)[^63-1] **saḥ** **madana-mohanaḥ** (He maddens: to nourish the *rasa* of union [*sambhoga*], He makes [His beloved] languish in the phase of separation [*vipralambha*] and then brings union to fullness — therefore He is Madana; by these two He brings [her] under His sway — therefore He is Mohana; He is both — Madana-mohana)[^63-2] **me** (My) **netra-spṛhām** (the thirst of the eyes — the eyes' longing to see Him) **tanoti** (increases).
+**sakhi** (O friend!) **navāmbuda-lasad-dyutiḥ** (whose luster [*dyuti*, radiance] shines even brighter than a fresh cloud) **nava-taḍin-manojñāmbaraḥ** (whose garment [*ambara*, clothing] is more charming and lovely even than fresh lightning) **sucitra-muralī-sphurac-charad-amanda-candrānanaḥ** (whose face, shining with a wonderfully charming flute, is like the full moon of autumn) **mayūra-dala-bhūṣitaḥ** (adorned with peacock feathers) **subhaga-tāra-hāra-prabhaḥ** (whose necklace shines like beautiful, brilliant stars) **saḥ** **madana-mohanaḥ** (He maddens: to nourish the *rasa* of union [*sambhoga*], He makes [His beloved] languish in the phase of separation [*vipralambha*] and then brings union to fullness — therefore He is Madana; by these two He brings [her] under His sway — therefore He is Mohana; He is both — Madana-mohana)[^63-2] **me** (My) **netra-spṛhām** (the thirst of the eyes — the eyes' longing to see Him) **tanoti** (increases).
 
 ## 64
 
@@ -289,8 +289,6 @@ The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa's *rāsa-
 *Thus ends the fifteenth chapter of the “Anubhāṣya.”*
 
 ---
-
-[^63-1]: The verse translation reads differently: an elegant pearl necklace.
 
 [^63-2]: The verse translation reads differently: He is so enchantingly beautiful that even the god of love is charmed by Him.
 
