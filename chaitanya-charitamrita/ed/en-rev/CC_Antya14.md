@@ -750,7 +750,7 @@ seeing  Svarūpa Gosāñi and the others  joyful  became
 prabhura daśā dekhi’ punaḥ cintite lāgilā  
 of the Lord  the condition  seeing  again  to worry  began
 
-(63) Seeing Him, Svarūpa Gosāñi and the others were overjoyed; but when they saw the Lord’s condition, they grew anxious again.
+(63) Finding Him, Svarūpa Gosāñi and the others were overjoyed; but when they saw the Lord’s condition, they grew anxious again.
 
 প্রভু পড়ি’ আছেন দীর্ঘ হাত পাঁচ-ছয় ৷  
 অচেতন দেহ, নাসায় শ্বাস নাহি বয় ॥ ৬৪ ॥
@@ -787,7 +787,7 @@ skin  only  above  the joints  are  long  being
 duḥkhita hailā sabe prabhure dekhiyā  
 grieved  became  all  the Lord  seeing
 
-(67) Over the joints there was only skin, and they lay drawn out. Seeing the Lord in this state, everyone was stricken with grief.
+(67) Only skin covered the joints, which lay drawn out. Seeing the Lord in this state, everyone was stricken with grief.
 
 মুখে লালা-ফেন প্রভুর উত্তান-নয়ন ৷  
 দেখিয়া সকল ভক্তের দেহ ছাড়ে প্রাণ ॥ ৬৮ ॥
@@ -951,7 +951,7 @@ scriptures  world  beyond  whatever  whatever  emotion  is
 itara-lokera tāte nā haya niścaya  
 of ordinary  people  in that  not  is  conviction
 
-(82) Ordinary people cannot believe in such feelings (*bhāva*), which lie beyond the scriptures and beyond this world.[^26]
+(82) Ordinary people cannot believe in feelings (*bhāva*) that lie beyond the scriptures and beyond this world.[^26]
 
 রঘুনাথ-দাসের সদা প্রভুসঙ্গে স্থিতি ৷  
 তাঁর মুখে শুনি’ লিখি করিয়া প্রতীতি ॥ ৮৩ ॥
@@ -1007,7 +1007,7 @@ this  verse  reciting  the Lord  goes  with the speed of the wind
 govinda dhāila pāche, nāhi pāya lāge  
 Govinda  ran  behind  not  could  reach
 
-(87) Reciting this verse, the Lord ran with the speed of the wind. Govinda ran after Him but could not catch up.
+(87) Reciting this verse, the Lord rushed on with the speed of the wind. Govinda ran after Him but could not catch up.
 
 ফুকার পড়িল, মহা-কোলাহল হইল ৷  
 যেই যাঁহা ছিল সেই উঠিয়া ধাইল ॥ ৮৮ ॥
@@ -1027,7 +1027,7 @@ Svarūpa  Jagadānanda  Paṇḍita Gadādhara
 rāmāi, nandāi, āra paṇḍita-śaṅkara  
 Rāmāi  Nandāi  and  Paṇḍita Śaṅkara
 
-(89) Svarūpa, Jagadānanda, Gadādhara Paṇḍita, Rāmāi, Nandāi and Śaṅkara Paṇḍita all ran.
+(89) Among them were Svarūpa, Jagadānanda, Gadādhara Paṇḍita, Rāmāi, Nandāi and Śaṅkara Paṇḍita.
 
 পুরী-ভারতী-গোসাঞি আইলা সিন্ধুতীরে ৷  
 ভগবান্-আচার্য্য খঞ্জ চলিলা ধীরে ধীরে ॥ ৯০ ॥
@@ -1047,7 +1047,7 @@ at first  went  the Lord  —  like  the wind’s  speed
 stambha-bhāva pathe haila, calite nāhi śakti  
 stupor  ecstasy  on the way  arose  to move  no  strength
 
-(91) At first the Lord went like the wind; but on the way He was seized by stupor (*stambha*), and He had no strength to move.
+(91) At first the Lord went like the wind; but on the way He was seized by stupor (*stambha*) and had no strength to move.
 
 প্রতি-রোমকূপে মাংস — ব্রণের আকার ৷  
 তার উপরে রোমোদ্গম — কদম্বপ্রকার ॥ ৯২ ॥
@@ -1167,7 +1167,7 @@ having risen  Mahāprabhu  astonished  here  there  looks
 ye dekhite cāya, tāhā dekhite nā pāya  
 what  to see  He wants  that  to see  not  can
 
-(103) Having risen, Mahāprabhu looked here and there in astonishment, but what He wanted to see He could not see.
+(103) Rising, Mahāprabhu looked here and there in astonishment, but what He longed to see, He could not see.
 
 ‘বৈষ্ণব’ দেখিয়া প্রভুর অর্দ্ধবাহ্য হইল ৷  
 স্বরূপ-গোসাঞিরে কিছু কহিতে লাগিল ॥ ১০৪ ॥
@@ -1267,7 +1267,7 @@ at that time  came  Purī  Bhāratī  —  the two
 dum̐he dekhi’ mahāprabhura haila sambhrama  
 both  seeing  Mahāprabhu’s  was  reverence
 
-(113) Just then the two, Purī and Bhāratī, arrived. Seeing them both, Mahāprabhu was filled with reverence.
+(113) Meanwhile the two, Purī and Bhāratī, arrived. Seeing them both, Mahāprabhu was filled with reverence.
 
 নিপট্ট-বাহ্য হইলে প্রভু দুঁহারে বন্দিলা ৷  
 মহাপ্রভুরে দুইজন প্রেমালিঙ্গন কৈলা ॥ ১১৪ ॥
