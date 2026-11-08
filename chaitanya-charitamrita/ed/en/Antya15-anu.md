@@ -39,3 +39,47 @@
 > Subheading: The *gopī* describes the power of the sweetness of the transcendental god of love (*Puṣpabāṇa*, the flower-arrowed one) (*citra-jalpa*) —
 
 My five senses, drawn by Kṛṣṇa, are like five robbers, and they all plot together: “Come, let us all join together and carry off, that is, steal, this wealth that belongs to another — the horse of the mind.”
+
+## 16
+
+> Subheading: The *gopī's* senses, drawn by *Puṣpabāṇa* —
+
+## 17
+
+> Subheading: The *gopī* under Kṛṣṇa's sway —
+
+## 18
+
+> Subheading: The power of the sweetness of Kṛṣṇa's form —
+
+## 20
+
+> Subheading: The power of the sweetness of Kṛṣṇa's words —
+
+## 21
+
+> Subheading: The power of the sweetness of Kṛṣṇa's body —
+
+## 22
+
+> Subheading: The power of the sweetness of Kṛṣṇa's fragrance —
+
+## 23
+
+> Subheading: The power of the sweetness of the touch of Kṛṣṇa's lips —
+
+## 24
+
+> Subheading: In separation from Kṛṣṇa the Lord pours out His grief to His two companions —
+
+## 26
+
+> Subheading: Svarūpa and Rāmarāya console the Lord in His separation —
+
+## 27
+
+> Subheading: The Lord's favorite books, suited to His mood —
+
+## 28
+
+> Subheading: Feeling Himself a maidservant (*kiṅkarī*) of the *gopī*, the Lord sees Kṛṣṇa's pastimes everywhere and searches for Him —
