@@ -96,15 +96,15 @@ Though they are holy rivers, they are still rivers. Therefore such an act of the
 
 ---
 
-[^87-1]: The verse translation reads differently: when the doorkeeper answered, “Come quickly, You will see Your Beloved!”, the Lord seized his hand.
+[^87-1]: The verse translation reads differently: when the man said, “Come quickly and see Your Beloved,” He took hold of his hand.
 
-[^117-1]: The verse translation reads differently: it increases the desire for union with You.
+[^117-1]: The verse translation reads differently: it deepens the longing for union.
 
 [^121-1]: The edition reads “121–163,” a misprint: the chapter has 151 verses; the section covers verses 121–133 (the next paragraph is marked 133).
 
-[^121-2]: The verse translation reads differently: they increase the longing to meet You.
+[^121-2]: The verse translation reads differently: they increase the longing for union.
 
-[^121-4]: The verse translation reads differently: the *gopīs*, “angry with me,” are to give up shame and fear; and the flute says, “I am not afraid of you, and the others I count as nothing.”
+[^121-4]: The verse translation reads differently: the *gopīs*, “angry with me,” are to give up shame and fear; and the flute says, “I have no fear of you, and all others I count as straw.”
 
 [^142-1]: The verse translation reads differently: the nectar of Kṛṣṇa's lips eclipses even the nectar of immortality (so too the *Anubhāṣya* on 144, citing “some”).
 

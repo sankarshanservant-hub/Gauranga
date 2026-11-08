@@ -1025,11 +1025,11 @@ of it  one  particle  who  obtains  he  fortunate
 (98) The remnants of what Kṛṣṇa has eaten are called *phelā*. Whoever obtains even a particle of it is fortunate.
 
 সামান্য ভাগ্য হৈতে তার প্রাপ্তি নাহি হয় ৷  
-কৃষ্ণের যাঁতে পূর্ণকৃপা, সেই তাহা পায় ॥ ৯৯ ॥
+কৃষ্ণের যাঁতে পূর্ণ কৃপা, সেই তাহা পায় ॥ ৯৯ ॥
 
 sāmānya bhāgya haite tāra prāpti nāhi haya  
 ordinary  fortune  from  its  attainment  not  is  
-kṛṣṇera yāṅte pūrṇa-kṛpā, sei tāhā pāya  
+kṛṣṇera yāṅte pūrṇa kṛpā, sei tāhā pāya  
 Kṛṣṇa’s  on whom  full  mercy  he  it  obtains
 
 (99) It cannot be attained by ordinary good fortune. Only one on whom Kṛṣṇa’s full mercy rests obtains it.
@@ -1466,7 +1466,7 @@ by that  sukṛti  its  particle  obtains
 কৃষ্ণ যে খায় তাম্বূল, কহে তার নাহি মূল,  
 তাহে আর দম্ভ পরিপাটী ৷  
 তার যেবা উদগার, তারে কয় ‘অমৃতসার’,  
-গোপীর মুখ করে ‘আলবাটি’ ॥ ১৩২ ॥
+গোপীর মুখ করে ‘আলবাটী’ ॥ ১৩২ ॥
 
 kṛṣṇa ye khāya tāmbūla,  
 Kṛṣṇa  which  chews  betel  
@@ -1478,7 +1478,7 @@ tāra yebā udagāra,
 its  whatever  chewed remnant  
 tāre kaya ‘amṛta-sāra’,  
 that  they call  nectar’s  essence  
-gopīra mukha kare ‘ālabāṭi’  
+gopīra mukha kare ‘ālabāṭī’  
 the gopīs’  mouths  they make  spittoons
 
 (132) The betel Kṛṣṇa chews is said to be beyond price. On top of that comes this artful boast: what He has chewed they call ‘the essence of nectar,’ and they make the gopīs’ mouths its spittoon.
@@ -1704,18 +1704,18 @@ why  they drink  to understand  not  I can
 
 (147) But let alone the rivers! The trees on their banks perform austerities and do good to others; yet they take the taste the rivers have left, draw it up through their roots and drink it — why, I cannot understand.[^147-1]
 
-নিজাঙ্কুরে পুলকিত, পুষ্পে হাস্য বিকশিত,  
+নিজাঙ্কুরে পুলকিত, পুষ্পে হাস্য বিকসিত,  
 মধু-মিষে বহে অশ্রুধার ৷  
-বেণুরে মানি’ নিজ-জাতি, আর্য্যের যেন পুত্র-নাতি,  
+বেণুরে মানি’ নিজ জাতি, আর্য্যের যেন পুত্র-নাতি,  
 ‘বৈষ্ণব’ হৈলে আনন্দ-বিকার ॥ ১৪৮ ॥
 
 nijāṅkure pulakita,  
 with their own shoots  thrilled  
-puṣpe hāsya vikaśita,  
+puṣpe hāsya vikasita,  
 in flowers  laughter  blossoming  
 madhu-miṣe vahe aśru-dhāra  
 of honey  in the guise  flow  of tears  streams  
-veṇure māni’ nija-jāti,  
+veṇure māni’ nija jāti,  
 the flute  regarding  as their own  kin  
 āryera yena putra-nāti,  
 of a noble man  as  sons  grandsons  
