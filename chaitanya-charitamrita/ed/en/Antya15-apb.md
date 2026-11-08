@@ -6,7 +6,7 @@
 
 ## 1
 
-Plunged into the unfathomable ocean of feeling for Kṛṣṇa, Gaurahari, whose heart [now sank and now] rose to the surface, revealed the glory of *prema* in its many forms.[^1-1]
+Plunged into the unfathomable ocean of feeling for Kṛṣṇa, Gaurahari, whose heart [now sank and now] rose to the surface, revealed the glory of *prema* in its many forms.
 
 ## 8–9
 
@@ -99,8 +99,6 @@ Seeing the rows of beautiful gardens on the seashore, the Lord again and again r
 *Thus ends the fifteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
-
-[^1-1]: The verse translation reads differently: the Lord plunged wholeheartedly into this ocean in order to display the various aspects of its boundless glory (it does not say that His heart now sank and now rose to the surface).
 
 [^15-23-1]: The translation of verse 20 reads differently: it speaks of the indescribable devastation that this nectar brings.
 

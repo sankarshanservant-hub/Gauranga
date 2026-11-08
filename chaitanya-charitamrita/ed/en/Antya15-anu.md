@@ -196,7 +196,7 @@ See Madhya 24.48.
 
 ## 74
 
-*Lakṣmī*: the mark of a golden line on the left side of the chest; *Śrīvatsa*: the Śrīvatsa mark on the right side of the chest, or a curl of hair turning to the right[^74-1].
+*Lakṣmī*: the mark of a golden line on the left side of the chest; *Śrīvatsa*: the Śrīvatsa mark on the right side of the chest, or a curl of hair turning to the right.
 
 ## 76
 
@@ -293,7 +293,5 @@ The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa's *rāsa-
 [^63-1]: The verse translation reads differently: an elegant pearl necklace.
 
 [^63-2]: The verse translation reads differently: He is so enchantingly beautiful that even the god of love is charmed by Him.
-
-[^74-1]: The verse translation reads differently: the Śrīvatsa mark (the abode of Lakṣmī) adorns Kṛṣṇa's chest.
 
 [^78-1]: The verse translation reads differently: Kṛṣṇa's broad chest resembles a beautiful door of sapphires.
