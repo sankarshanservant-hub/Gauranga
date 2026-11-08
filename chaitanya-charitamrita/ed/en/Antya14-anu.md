@@ -104,7 +104,7 @@ Climbing onto the Garuḍa pillar is an offense to a Vaiṣṇava, and putting a
 
 ## 26
 
-> Subheading: By seeing Kṛṣṇa she gives Kṛṣṇa the joy of service; therefore [the Lord] regards her holy form as transcendental, belonging to Kṛṣṇa —
+> Subheading: By seeing Kṛṣṇa she gives Kṛṣṇa the joy of service; therefore [the Lord] regards her holy form as transcendental, belonging to Kṛṣṇa[^26-1] —
 
 “*Ādibasyā*”: see Antya 10.116.
 
@@ -439,6 +439,8 @@ See Madhya 18.34.
 ---
 
 [^16-1]: The verse translation reads differently: it speaks of intensified love leading to complete bewilderment and then to a state of extreme wonder that awakens the madness of divine love; *mohana* is not mentioned there.
+
+[^26-1]: The edition reads «শ্রীমূর্ত্তিকে অপ্রাকৃত কার্ষ্ণজ্ঞান». Another reading is possible: *śrī-mūrti* as the holy form of the Deity (Jagannātha), whom the Lord sees as transcendental, Kṛṣṇa Himself, and so does not hinder her *darśana*.
 
 [^53-1]: So in the edition: “বক্ষশ্চ-কোরিকা” (the reading is clear in the scan, but the word is unusual); by the sense of the verse, the *koka* (*cakravāka*) birds of the breast.
 
