@@ -15,3 +15,7 @@ I offer my obeisances to Śrī Kṛṣṇa Caitanya. He Himself relished the nec
 ## 14
 
 *Bhũimālī*: a particular caste, similar to the Haḍḍī (“Hā̃ḍi”).
+
+## 41
+
+“*Bāiśa pahāca*”: twenty-two *pahācas*. The Oriyas call each step of a staircase a *pahāca*. To go up through the Lion Gate one must climb twenty-two *pahācas*.
