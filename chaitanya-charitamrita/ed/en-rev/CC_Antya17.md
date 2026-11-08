@@ -449,6 +449,584 @@ how  a woman  will hold  her heart
 
 (38) The sound of Your flute outdoes nectar; Your sweet words are like nectar, and the jingling of Your ornaments is like nectar too. With these three nectars You steal our ears, You steal our minds, You steal our very life. How can a woman keep hold of her heart?”[^6]
 
+এত কহি’ ক্রোধাবেশে, ভাবের তরঙ্গে ভাসে,  
+উৎকণ্ঠা-সাগরে ডুবে মন ৷  
+রাধার উৎকণ্ঠা বাণী, পড়ি’ আপনে বাখানি,  
+কৃষ্ণমাধুর্য্য করে আস্বাদন ॥ ৩৯ ॥
+
+eta kahi’ krodhāveśe,  
+so much  saying  absorbed in anger  
+bhāvera taraṅge bhāse,  
+of feeling  on the waves  floats  
+utkaṇṭhā-sāgare ḍube mana  
+of longing  in the ocean  sinks  the mind  
+rādhāra utkaṇṭhā vāṇī,  
+Rādhā’s  longing  words  
+paḍi’ āpane vākhāni,  
+reciting  Himself  explaining  
+kṛṣṇa-mādhurya kare āsvādana  
+Kṛṣṇa’s  sweetness  makes  tasting
+
+(39) Having said this in anger, He floated on the waves of feeling, and His mind sank into an ocean of longing. Then He recited the words of Rādhā in Her yearning and, explaining them Himself, tasted the sweetness of Kṛṣṇa:
+
+নদজ্জলদনিস্বনঃ শ্রবণকর্ষিসচ্ছিঞ্জিতঃ  
+সনর্ম্মরসসূচকাক্ষরপদার্থভঙ্গ্যুক্তিকঃ ৷  
+রমাদিক-বরাঙ্গনা-হৃদয়হারি-বংশীকলঃ  
+স মে মদনমোহনঃ সখি তনোতি কর্ণস্পৃহাম্ ॥ ৪০ ॥
+
+nadaj-jalada-nisvanaḥ śravaṇa-karṣi-sac-chiñjitaḥ  
+of a thundering  cloud  whose voice  the ears  drawing  lovely  jingling  
+sanarma-rasa-sūcakākṣara-padārtha-bhaṅgy-uktikaḥ  
+of jest  rasa  hinting  syllables  words  meanings  artful  speech  
+ramādika-varāṅganā-hṛdaya-hāri-vaṁśī-kalaḥ  
+of Ramā and the others  of the fairest women  the hearts  stealing  of the flute  the soft note  
+sa me madana-mohanaḥ sakhi tanoti karṇa-spṛhām  
+He  My  Madana-mohana  O friend  increases  of the ears  the longing
+
+(40) “O friend, His voice is like the rumbling of a thundering cloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at *rasa*; and the soft note of His flute steals the hearts of Lakṣmī and the other fairest of women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
+
+কণ্ঠের গম্ভীর ধ্বনি, নবঘন-ধ্বনি জিনি’,  
+যার গুণে কোকিল লাজায় ৷  
+তার এক শ্রুতি-কণে, ডুবায় জগতের কাণে,  
+পুনঃ কাণ বাহুড়ি’ না আয় ॥ ৪১ ॥
+
+kaṇṭhera gambhīra dhvani,  
+of the voice  deep  sound  
+navaghana-dhvani jini’,  
+of a new cloud  the rumbling  conquering  
+yāra guṇe kokila lājāya  
+whose  by the quality  the cuckoo  is put to shame  
+tāra eka śruti-kaṇe,  
+of it  one  of hearing  by a drop  
+ḍubāya jagatera kāṇe,  
+drowns  of the world  the ears  
+punaḥ kāṇa bāhuḍi’ nā āya  
+again  the ears  returning  not  come
+
+(41) “The deep sound of His voice conquers the rumbling of a new cloud, and its sweetness puts the cuckoo to shame. Even a single drop of it, entering the ear, drowns the ears of the world, and those ears never come back again.[^7]
+
+কহ, সখি, কি করি উপায় ?  
+কৃষ্ণের সে শব্দ-গুণে, হরিলে আমার কাণে,  
+এবে না পায়, তৃষ্ণায় মরি’ যায় ॥ ৪২ ॥ধ্রু॥
+
+kaha, sakhi, ki kari upāya?  
+tell  O friend  what  shall I do  means  
+kṛṣṇera se śabda-guṇe,  
+of Kṛṣṇa  that  sound’s  by the qualities  
+harile āmāra kāṇe,  
+were stolen  My  ears  
+ebe nā pāya, tṛṣṇāya mari’ yāya  
+now  not  get  of thirst  dying  go
+
+(42) Tell Me, O friend, what shall I do? The charms of that sound of Kṛṣṇa’s stole My ears, and now, deprived of it, they are dying of thirst.
+
+নূপুর-কিঙ্কিণী-ধ্বনি, হংস-সারস জিনি’,  
+কঙ্কণ-ধ্বনি চটকে লাজায় !  
+একবার যেই শুনে, ব্যাপি’ রহে তার কাণে,  
+অন্যশব্দ সে কাণে না যায় ॥ ৪৩ ॥
+
+nūpura-kiṅkiṇī-dhvani,  
+of the anklets  of the waist-bells  the sound  
+haṁsa-sārasa jini’,  
+of swans  and cranes  conquering  
+kaṅkaṇa-dhvani caṭake lājāya!  
+the bracelets’  sound  the caṭaka birds  puts to shame  
+eka-bāra yei śune,  
+once  whoever  hears  
+vyāpi’ rahe tāra kāṇe,  
+pervading  stays  in his  ears  
+anya-śabda se kāṇe nā yāya  
+another  sound  into those  ears  not  goes
+
+(43) The sound of the bells on His ankles and waist conquers the cries of swans and cranes, and the jingling of His bracelets puts the *caṭaka* birds to shame. Once anyone hears it, it fills his ears and stays there, and no other sound can enter them again.[^8]
+
+সে শ্রীমুখ-ভাষিত, অমৃত হৈতে পরামৃত,  
+স্মিত-কর্পূর তাহাতে মিশ্রিত ৷  
+শব্দ, অর্থ, — দুইশক্তি, নানা-রস করে ব্যক্তি,  
+প্রত্যক্ষর — নর্ম্ম-বিভূষিত ॥ ৪৪ ॥
+
+se śrī-mukha-bhāṣita,  
+those  holy  mouth’s  words  
+amṛta haite parāmṛta,  
+nectar  than  higher nectar  
+smita-karpūra tāhāte miśrita  
+of the smile  the camphor  in them  mixed  
+śabda, artha, — dui-śakti,  
+sound  meaning  two  powers  
+nānā-rasa kare vyakti,  
+various  rasas  make  manifest  
+pratyakṣara — narma-vibhūṣita  
+every syllable  with jest  adorned
+
+(44) The words of His holy mouth are a nectar higher than nectar, and the camphor of His smile is mixed into them. Their two powers, sound and meaning, bring out every kind of *rasa*, and every syllable is adorned with jest.[^9]
+
+সে অমৃতের এক-কণ, কর্ণ-চকোর-জীবন,  
+কর্ণ-চকোর জীয়ে সেই আশে ৷  
+ভাগ্যবশে কভু পায়, অভাগ্যে কভু না পায়,  
+না পাইলে মরয়ে পিয়াসে ॥ ৪৫ ॥
+
+se amṛtera eka-kaṇa,  
+that  of nectar  one  drop  
+karṇa-cakora-jīvana,  
+of the ears  the cakora  the life  
+karṇa-cakora jīye sei āśe  
+of the ears  the cakora  lives  on that  hope  
+bhāgya-vaśe kabhu pāya,  
+by fortune  sometimes  gets  
+abhāgye kabhu nā pāya,  
+by misfortune  sometimes  not  gets  
+nā pāile maraye piyāse  
+not  getting  dies  of thirst
+
+(45) One drop of that nectar is the very life of the *cakora* bird of the ears, and on the hope of it alone that *cakora* lives. Sometimes by good fortune it gets that drop, sometimes by misfortune it does not, and when it does not, it dies of thirst.
+
+যেবা বেণু-কলধ্বনি, একবার তাহা শুনি’,  
+জগন্নারী-চিত্ত আউলায় ৷  
+নীবি-বন্ধ পড়ে খসি’, বিনা-মূলে হয় দাসী,  
+বাউলী হঞা কৃষ্ণ-পাশে ধায় ॥ ৪৬ ॥
+
+yebā veṇu-kala-dhvani,  
+which  the flute’s  sweet  sound  
+eka-bāra tāhā śuni’,  
+once  it  hearing  
+jagan-nārī-citta āulāya  
+of the world  the women’s  hearts  are thrown into turmoil  
+nīvi-bandha paḍe khasi’,  
+the sash  knots  fall  slipping loose  
+vinā-mūle haya dāsī,  
+without  price  become  maidservants  
+bāulī hañā kṛṣṇa-pāśe dhāya  
+crazed  becoming  to Kṛṣṇa’s  side  run
+
+(46) Let the women of the world hear but once the sweet sound of His flute, and their hearts are thrown into turmoil. The knots of their sashes slip loose; they become His maidservants without price and, as if crazed, run to Kṛṣṇa’s side.
+
+যেবা লক্ষ্মী-ঠাকুরাণী, তেঁহো যে কাকলী শুনি’,  
+কৃষ্ণ-পাশ আইসে প্রত্যাশায় ৷  
+না পায় কৃষ্ণের সঙ্গ, বাড়ে তৃষ্ণা-তরঙ্গ,  
+তপ করে, তবু নাহি পায় ॥ ৪৭ ॥
+
+yebā lakṣmī-ṭhākurāṇī,  
+even  Lakṣmī  the goddess  
+tem̐ho ye kākalī śuni’,  
+she  that  soft song  hearing  
+kṛṣṇa-pāśa āise pratyāśāya  
+to Kṛṣṇa’s  side  comes  in hope  
+nā pāya kṛṣṇera saṅga,  
+not  gets  Kṛṣṇa’s  company  
+bāḍe tṛṣṇā-taraṅga,  
+grow  of thirst  the waves  
+tapa kare, tabu nāhi pāya  
+austerity  performs  still  not  gets
+
+(47) Even the goddess Lakṣmī, hearing that soft song, comes to Kṛṣṇa in hope. But she does not obtain Kṛṣṇa’s company; the waves of her thirst only swell, and though she performs austerities, she still does not attain Him.
+
+এই শব্দামৃত চারি, যার হয় ভাগ্য ভারি,  
+সেই কর্ণে ইহা করে পান ৷  
+ইহা যেই নাহি শুনে, সে কাণ জন্মিল কেনে,  
+কাণাকড়ি-সম সেই কাণ ॥ ৪৮ ॥
+
+ei śabdāmṛta cāri,  
+these  sound-nectars  four  
+yāra haya bhāgya bhāri,  
+whose  is  fortune  great  
+sei karṇe ihā kare pāna  
+he  with his ears  this  makes  drinking  
+ihā yei nāhi śune,  
+this  who  not  hears  
+se kāṇa janmila kene,  
+those  ears  were born  why  
+kāṇākaḍi-sama sei kāṇa  
+a cracked cowrie  like  those  ears
+
+(48) Only one whose fortune is great drinks these four nectars of sound with his ears. As for one who does not hear them — why were such ears ever born? They are no better than a cracked cowrie shell.”[^10]
+
+করিতে ঐছে বিলাপ, উঠিল উদ্বেগ, ভাব,  
+মনে কাহো নাহি আলম্বন ৷  
+উদ্বেগ, বিষাদ, মতি, ঔৎসুক্য, ত্রাস, ধৃতি, স্মৃতি,  
+নানা-ভাবের হইল মিলন ॥ ৪৯ ॥
+
+karite aiche vilāpa,  
+making  such  lament  
+uṭhila udvega, bhāva,  
+arose  agitation  feeling  
+mane kāho nāhi ālambana  
+in the mind  any  no  support  
+udvega, viṣāda, mati,  
+agitation  despondency  resolve  
+autsukya, trāsa, dhṛti, smṛti,  
+eagerness  fear  steadiness  remembrance  
+nānā-bhāvera haila milana  
+of various  feelings  there was  a meeting
+
+(49) As He lamented in this way, agitation and other feelings arose in Him, and His mind had nothing to hold on to. Agitation, despondency, resolve, eagerness, fear, steadiness and remembrance — so many feelings came together in Him at once.[^11]
+
+ভাবশাবল্যে রাধার উক্তি, লীলাশুকে হৈল স্ফূর্ত্তি,  
+সেই ভাবে পড়ে এক শ্লোক ৷  
+উন্মাদের সামর্থ্যে, সেই শ্লোকের করে অর্থে,  
+যেই অর্থ নাহি জানে লোক ॥ ৫০ ॥
+
+bhāva-śābalye rādhāra ukti,  
+in the mixture of feelings  Rādhā’s  words  
+līlā-śuke haila sphūrti,  
+in Līlāśuka  was  revealed  
+sei bhāve paḍe eka śloka  
+in that  feeling  recites  one  verse  
+unmādera sāmarthye,  
+of madness  by the power  
+sei ślokera kare arthe,  
+that  verse’s  makes  meaning  
+yei artha nāhi jāne loka  
+which  meaning  not  know  people
+
+(50) Rādhā’s words, spoken in such a mixture of feelings, had been revealed to Līlāśuka. In that same mood the Lord recited one of his verses and, by the power of His madness, drew out a meaning that people do not know:[^12]
+
+কিমিহ কৃণুমঃ কস্য ব্রূমঃ কৃতং কৃতমাশয়া  
+কথয়ত কথামন্যাং ধন্যামহো হৃদয়েশয়ঃ ৷  
+মধুরমধুরস্মেরাকারে মনোনয়নোৎসবে  
+কৃপণকৃপণা কৃষ্ণে তৃষ্ণা চিরং বত লম্বতে ॥ ৫১ ॥
+
+kim iha kṛṇumaḥ kasya brūmaḥ kṛtaṁ kṛtam āśayā  
+what  here  shall we do  to whom  shall we speak  done  is done  in hope  
+kathayata kathām anyāṁ dhanyām aho hṛdaye śayaḥ  
+speak  talk  other  auspicious  alas  in the heart  lying  
+madhura-madhura-smerākāre mano-nayanotsave  
+in the sweetest  sweet  smiling form  of mind  and eyes  the festival  
+kṛpaṇa-kṛpaṇā kṛṣṇe tṛṣṇā ciraṁ bata lambate  
+wretched  most wretched  for Kṛṣṇa  thirst  ever longer  alas  grows
+
+(51) “What are we to do now? To whom can we speak? What was done in hope of Him is done. Speak of something else, something auspicious. Ah, but He lies in My heart! For Kṛṣṇa — the festival of mind and eyes, whose smiling form is sweeter than the sweetest — My wretched, most wretched thirst, alas, grows ever longer.” (Kṛṣṇa-karṇāmṛta, 42)[^13]
+
+এই কৃষ্ণের বিরহে, উদ্বেগে মন স্থির নহে,  
+প্রাপ্ত্যুপায়-চিন্তন না যায় ৷  
+যেবা তুমি সখীগণ, বিষাদে বাউল মন,  
+কারো পুছোঁ, কে কহে উপায় ? ॥ ৫২ ॥
+
+ei kṛṣṇera virahe,  
+this  of Kṛṣṇa  in separation  
+udvege mana sthira nahe,  
+from agitation  the mind  steady  is not  
+prāpty-upāya-cintana nā yāya  
+of attaining  the means  thinking of  not  goes  
+yebā tumi sakhī-gaṇa,  
+and  you  friends  
+viṣāde bāula mana,  
+with despondency  crazed  mind  
+kāro puchom̐, ke kahe upāya?  
+whom  shall I ask  who  will tell  the means
+
+(52) “In this separation from Kṛṣṇa My mind is so agitated that it cannot be still, and I cannot think how to attain Him. And you, My friends — your minds too are crazed with despondency. Whom shall I ask? Who will tell Me the way?
+
+হাহা সখি, কি করি উপায় !  
+ক্যা করোঁ কাঁহা যাঙ, কাঁহা গেলে কৃষ্ণ পাঙ,  
+কৃষ্ণ বিনা প্রাণ মোর যায় ॥ ৫৩ ॥
+
+hā hā sakhi, ki kari upāya!  
+alas  alas  O friend  what  shall I do  means  
+kyā karom̐ kām̐hā yāṅa,  
+what  shall I do  where  shall I go  
+kām̐hā gele kṛṣṇa pāṅa,  
+where  going  Kṛṣṇa  shall I find  
+kṛṣṇa vinā prāṇa mora yāya  
+Kṛṣṇa  without  life  My  goes
+
+(53) Alas, alas, O friend, what shall I do? What can I do, where can I go? Where must I go to find Kṛṣṇa? Without Kṛṣṇa My life is leaving Me.”
+
+ক্ষণে মন স্থির হয়, তবে মনে বিচারয়,  
+বলিতে হইল ভাবোদ্গম ৷  
+পিঙ্গলার বচন-স্মৃতি, করাইল ভাব-মতি,  
+তাতে করে অর্থ-নির্দ্ধারণ ॥ ৫৪ ॥
+
+kṣaṇe mana sthira haya,  
+for a moment  the mind  steady  becomes  
+tabe mane vicāraya,  
+then  in the mind  considers  
+balite haila bhāvodgama  
+speaking  there was  a feeling’s rising  
+piṅgalāra vacana-smṛti,  
+Piṅgalā’s  words’  remembrance  
+karāila bhāva-mati,  
+brought about  a feeling  resolve  
+tāte kare artha-nirdhāraṇa  
+by that  makes  of the meaning  determination
+
+(54) For a moment His mind became steady, and He reflected. But as soon as He began to speak, a new feeling arose: the remembrance of Piṅgalā’s words brought Him to a resolve, and in that mood He settled the meaning of the verse:[^14]
+
+দেখি এই উপায়ে, কৃষ্ণ-আশা ছাড়ি’ দিয়ে,  
+আশা ছাড়িলে সুখী হয় মন ৷  
+ছাড়ি’ কৃষ্ণকথা অধন্য, কহ অন্যকথা ধন্য,  
+যাতে হয় কৃষ্ণ-বিস্মরণ ॥ ৫৫ ॥
+
+dekhi ei upāye,  
+I see  this  means  
+kṛṣṇa-āśā chāḍi’ diye,  
+for Kṛṣṇa  hope  I shall give up  
+āśā chāḍile sukhī haya mana  
+hope  giving up  happy  becomes  the mind  
+chāḍi’ kṛṣṇa-kathā adhanya,  
+leaving  of Kṛṣṇa  talk  inauspicious  
+kaha anya-kathā dhanya,  
+speak  other  talk  auspicious  
+yāte haya kṛṣṇa-vismaraṇa  
+whereby  is  of Kṛṣṇa  forgetting
+
+(55) “I see only this way: I will give up My hope for Kṛṣṇa. Once hope is gone, the mind is happy. Leave this inauspicious talk of Kṛṣṇa and speak of something else, something auspicious, so that I may forget Him.”
+
+কহিতেই হৈল স্মৃতি, চিত্তে হৈল কৃষ্ণস্ফূর্ত্তি,  
+সখীরে কহে হঞা বিস্মিতে ৷  
+যারে চাহি ছাড়িতে, সে শুঞা আছে চিত্তে,  
+কোন রীতে না পারি ছাড়িতে ॥ ৫৬ ॥
+
+kahitei haila smṛti,  
+even as She spoke  there was  remembrance  
+citte haila kṛṣṇa-sphūrti,  
+in the heart  there was  Kṛṣṇa’s  manifestation  
+sakhīre kahe hañā vismite  
+to the friend  says  becoming  astonished  
+yāre cāhi chāḍite,  
+whom  I want  to give up  
+se śuñā āche citte,  
+He  lying  is  in the heart  
+kona rīte nā pāri chāḍite  
+by any  way  not  can I  give up
+
+(56) But even as She spoke, She remembered Him, and Kṛṣṇa appeared in Her heart. In astonishment She told Her friend, “He whom I want to give up lies in My heart, and try as I may, I cannot give Him up.”[^15]
+
+রাধাভাবের স্বভাব আন, কৃষ্ণে করায় ‘কাম’-জ্ঞান,  
+কাম-জ্ঞানে ত্রাস হৈল চিত্তে ৷  
+কহে — যে জগৎ মারে, সে পশিল অন্তরে,  
+এই বৈরী না দেয় পাসরিতে ॥ ৫৭ ॥
+
+rādhā-bhāvera svabhāva āna,  
+of Rādhā’s  feeling  the nature  is other  
+kṛṣṇe karāya ‘kāma’-jñāna,  
+in Kṛṣṇa  makes  of Kāma  the perception  
+kāma-jñāne trāsa haila citte  
+in the perception of Kāma  fear  arose  in the heart  
+kahe — ye jagat māre,  
+says  who  the world  strikes down  
+se paśila antare,  
+he  has entered  within  
+ei vairī nā deya pāsarite  
+this  enemy  not  lets  forget
+
+(57) Such is the wondrous nature of Rādhā’s feeling that it made Her see Kṛṣṇa as Kāma himself, and at that thought Her heart was seized with fear. She said, “He who strikes down the whole world has entered My heart. This enemy will not let Me forget Him.”[^16]
+
+ঔৎসুক্যের প্রাধান্য, জিনি’ অন্য ভাব-সৈন্য,  
+উদয় হৈল নিজ-রাজ্য মনে ৷  
+মনে হইল লালস, না হয় আপন-বশ,  
+দুঃখে মনে করেন ভর্ৎসনে ॥ ৫৮ ॥
+
+autsukyera prādhānya,  
+of eagerness  the supremacy  
+jini’ anya bhāva-sainya,  
+conquering  other  feelings’  armies  
+udaya haila nija-rājya mane  
+rising  there was  in its own  kingdom  in the mind  
+mane haila lālasa,  
+in the mind  there was  craving  
+nā haya āpana-vaśa,  
+not  is  under her own  control  
+duḥkhe mane karena bhartsane  
+in sorrow  the mind  She makes  reproaches
+
+(58) Then eagerness, conquering the armies of all the other feelings, rose to supremacy in its own kingdom, Her mind. A craving seized that mind which She could not master, and in sorrow She reproached it:
+
+মন মোর বাম-দীন, জল বিনা যেন মীন,  
+কৃষ্ণ বিনা ক্ষণে মরি’ যায় ৷  
+মধুর-হাস্য-বদনে, মন-নেত্র-রসায়নে,  
+কৃষ্ণতৃষ্ণা দ্বিগুণ বাড়ায় ॥ ৫৯ ॥
+
+mana mora vāma-dīna,  
+mind  My  wayward  wretched  
+jala vinā yena mīna,  
+water  without  like  a fish  
+kṛṣṇa vinā kṣaṇe mari’ yāya  
+Kṛṣṇa  without  in a moment  dying  goes  
+madhura-hāsya-vadane,  
+sweet  smiling  by the face  
+mana-netra-rasāyane,  
+of mind  and eyes  the elixir  
+kṛṣṇa-tṛṣṇā dviguṇa bāḍāya  
+for Kṛṣṇa  thirst  twofold  increases
+
+(59) “My mind is wayward and wretched. Like a fish without water, without Kṛṣṇa it dies in an instant. And Kṛṣṇa’s sweetly smiling face, the elixir of mind and eyes, makes My thirst for Him twice as great.[^17]
+
+হা হা কৃষ্ণ প্রাণধন, হা হা পদ্মলোচন,  
+হা হা দিব্য সদ্গুণ-সাগর !  
+হা হা শ্যামসুন্দর, হা হা পীতাম্বরধর,  
+হা হা রাসবিলাস নাগর ! ॥ ৬০ ॥
+
+hā hā kṛṣṇa prāṇa-dhana,  
+alas  alas  Kṛṣṇa  of life  the treasure  
+hā hā padma-locana,  
+alas  alas  lotus-eyed  
+hā hā divya sad-guṇa-sāgara!  
+alas  alas  divine  of virtues  ocean  
+hā hā śyāma-sundara,  
+alas  alas  Śyāmasundara  
+hā hā pītāmbara-dhara,  
+alas  alas  yellow cloth  wearing  
+hā hā rāsa-vilāsa nāgara!  
+alas  alas  of the rāsa  pastimes  lover
+
+(60) Alas, Kṛṣṇa, treasure of My life! Alas, lotus-eyed one! Alas, divine ocean of virtues! Alas, Śyāmasundara! Alas, You who wear yellow cloth! Alas, Beloved, playful hero of the *rāsa* dance!
+
+কাঁহা গেলে তোমা পাই, তুমি কহ, — তাঁহা যাই,  
+এত কহি’ চলিলা ধাঞা ৷  
+স্বরূপ উঠি’ কোলে করি’, প্রভুরে আনিল ধরি’,  
+নিজস্থানে বসাইলা লৈঞা ॥ ৬১ ॥
+
+kām̐hā gele tomā pāi,  
+where  going  You  shall I find  
+tumi kaha, — tām̐hā yāi,  
+You  say  there  I shall go  
+eta kahi’ calilā dhāñā  
+so much  saying  went  running  
+svarūpa uṭhi’ kole kari’,  
+Svarūpa  rising  in his arms  taking  
+prabhure ānila dhari’,  
+the Lord  brought  holding  
+nija-sthāne vasāilā laiñā  
+in His own  place  seated  taking
+
+(61) Where must I go to find You? Tell Me, and I will go there!” Saying this, the Lord ran off. But Svarūpa rose, caught Him in his arms, brought Him back and seated Him in His own place.
+
+ক্ষণেকে প্রভুর বাহ্য হৈল, স্বরূপেরে আজ্ঞা দিল,  
+স্বরূপ, কিছু কর মধুর গান ৷  
+স্বরূপ গায় বিদ্যাপতি, গীতগোবিন্দ-গীতি,  
+শুনি’ প্রভুর জুড়াইল কাণ ॥ ৬২ ॥
+
+kṣaṇeke prabhura bāhya haila,  
+in a moment  of the Lord  outer consciousness  came  
+svarūpere ājñā dila,  
+to Svarūpa  an order  gave  
+svarūpa, kichu kara madhura gāna  
+Svarūpa  something  make  sweet  song  
+svarūpa gāya vidyāpati,  
+Svarūpa  sings  Vidyāpati  
+gīta-govinda-gīti,  
+of the Gīta-govinda  songs  
+śuni’ prabhura juḍāila kāṇa  
+hearing  the Lord’s  were soothed  ears
+
+(62) In a moment the Lord came back to outer consciousness and said to Svarūpa, “Svarūpa, sing something sweet.” Svarūpa sang songs of Vidyāpati and of the *Gīta-govinda*, and the songs soothed the Lord’s ears.
+
+এইমত মহাপ্রভু প্রতিরাত্রি-দিনে ৷  
+উন্মাদ-চেষ্টিত হয় প্রলাপ-বচনে ॥ ৬৩ ॥
+
+ei-mata mahāprabhu prati-rātri-dine  
+in this way  Mahāprabhu  every  night  and day  
+unmāda-ceṣṭita haya pralāpa-vacane  
+of madness  the behaviour  is  in raving  words
+
+(63) In this way, every night and day, Mahāprabhu behaved like one mad and spoke in ravings.
+
+একদিনে যত হয় ভাবের বিকার ৷  
+সহস্র-মুখে বর্ণে যদি, নাহি পায় পার ॥ ৬৪ ॥
+
+eka-dine yata haya bhāvera vikāra  
+in one  day  as many as  are  of feeling  transformations  
+sahasra-mukhe varṇe yadi, nāhi pāya pāra  
+with a thousand  mouths  describes  if  not  reaches  the end
+
+(64) Even if one with a thousand mouths were to describe all the transformations of feeling that arose in Him in a single day, he could not reach their end.[^18]
+
+জীব দীন কি করিবে তাহার বর্ণন ?  
+শাখা-চন্দ্র-ন্যায় করি’ দিগ্দরশন ॥ ৬৫ ॥
+
+jīva dīna ki karibe tāhāra varṇana?  
+a jīva  lowly  what  will make  of it  description  
+śākhā-candra-nyāya kari’ dig-daraśana  
+of the branch and the moon  by the logic  I make  an indication
+
+(65) What can a lowly *jīva* like me describe of it? As one shows the moon by pointing to a branch, I give only an indication.
+
+ইহা যেই শুনে, তার জুড়ায় মন-কাণ ৷  
+অলৌকিক গূঢ়প্রেম-চেষ্টা হয় জ্ঞান ॥ ৬৬ ॥
+
+ihā yei śune, tāra juḍāya mana-kāṇa  
+this  whoever  hears  his  are soothed  mind  and ears  
+alaukika gūḍha-prema-ceṣṭā haya jñāna  
+unearthly  secret  love’s  workings  becomes  knowledge
+
+(66) Whoever hears this finds his mind and ears soothed and comes to know the unearthly workings of hidden love.
+
+অদ্ভুত নিগূঢ় প্রেমের মাধুর্য্য-মহিমা ৷  
+আপনি আস্বাদি’ প্রভু দেখাইলা সীমা ॥ ৬৭ ॥
+
+adbhuta nigūḍha premera mādhurya-mahimā  
+wonderful  most secret  of love  the sweetness’  glory  
+āpani āsvādi’ prabhu dekhāilā sīmā  
+Himself  tasting  the Lord  showed  the limit
+
+(67) The Lord Himself tasted the wondrous sweetness of that most secret love in all its glory, and showed its utmost limit.
+
+অদ্ভুত দয়ালু চৈতন্য — অদ্ভুত-বদান্য ৷  
+ঐছে দয়ালু দাতা লোকে নাহি শুনি অন্য ॥ ৬৮ ॥
+
+adbhuta dayālu caitanya — adbhuta-vadānya  
+wonderfully  merciful  Caitanya  wonderfully  generous  
+aiche dayālu dātā loke nāhi śuni anya  
+such  merciful  a giver  in the world  not  we hear  another
+
+(68) Caitanya is wonderfully merciful, wonderfully generous! We have never heard of another giver in this world so merciful.
+
+সর্ব্বভাবে ভজ, লোক, চৈতন্য-চরণ ৷  
+যাহা হৈতে পাইবা কৃষ্ণপ্রেমামৃত-ধন ॥ ৬৯ ॥
+
+sarva-bhāve bhaja, loka, caitanya-caraṇa  
+with all  the heart  worship  O people  Caitanya’s  feet  
+yāhā haite pāibā kṛṣṇa-premāmṛta-dhana  
+which  from  you will get  for Kṛṣṇa  of love  of the nectar  the treasure
+
+(69) O people, worship the feet of Caitanya with all your heart! From them you will receive the treasure of the nectar of love for Kṛṣṇa.
+
+এই ত’ কহিলুঁ প্রভুর ‘কূর্ম্মাকৃতি’-ভাব ৷  
+উন্মাদ-চেষ্টিত তাতে উন্মাদ-প্রলাপ ॥ ৭০ ॥
+
+ei ta’ kahilum̐ prabhura ‘kūrmākṛti’-bhāva  
+this  indeed  I have told  of the Lord  of the tortoise form  the state  
+unmāda-ceṣṭita tāte unmāda-pralāpa  
+of madness  the behaviour  in it  of madness  ravings
+
+(70) Thus I have told of the Lord’s state in the form of a tortoise, and of His behaviour and ravings in that divine madness.[^19]
+
+এই লীলা স্বগ্রন্থে রঘুনাথ-দাস ৷  
+চৈতন্যস্তবকল্পবৃক্ষে কৈরাছেন প্রকাশ ॥ ৭১ ॥
+
+ei līlā sva-granthe raghunātha-dāsa  
+this  pastime  in his own  book  Raghunātha  dāsa  
+caitanya-stava-kalpa-vṛkṣe kairāchena prakāśa  
+in the Caitanya-stava-kalpavṛkṣa  has  described
+
+(71) Raghunātha dāsa has described this pastime in his own book, the *Caitanya-stava-kalpavṛkṣa*:
+
+অনুদ্ঘাট্য দ্বারত্রয়মুরু চ ভিত্তিত্রয়মহো  
+বিলঙ্ঘ্যোচ্চৈঃ কালিঙ্গিক-সুরভিমধ্যে নিপতিতঃ ৷  
+তনূদ্যৎসঙ্কোচাৎ কমঠ ইব কৃষ্ণোরুবিরহাদ্  
+বিরাজন্ গৌরাঙ্গো হৃদয় উদয়ন্মাং মদয়তি ॥ ৭২ ॥
+
+anudghāṭya dvāra-trayam uru ca bhitti-trayam aho  
+not opening  of doors  the three  high  and  of walls  the three  ah  
+vilaṅghyoccaiḥ kāliṅgika-surabhi-madhye nipatitaḥ  
+crossing over  high  of Kaliṅga  the cows  among  fallen  
+tanūdyat-saṅkocāt kamaṭha iva kṛṣṇoru-virahād  
+from the body’s  arising  contraction  a tortoise  like  from Kṛṣṇa  great  from separation  
+virājan gaurāṅgo hṛdaya udayan māṁ madayati  
+shining  Gaurāṅga  in my heart  rising  me  maddens
+
+(72) “Ah! Without opening the three doors, He passed high over the three tall walls and fell among the cows of Kaliṅga. Through His great separation from Kṛṣṇa His body contracted, and He appeared like a tortoise. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 5)[^20]
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৭৩ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(73) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
 ---
 
 [^1]: *Anubhāṣya*: those who saw it were the most fortunate intimate devotees headed by Dāmodara and Raghunātha; “wonderful” — such as had never been heard of, “unearthly” — such as had never been seen. Heading in the edition: the transcendental pastimes of Gaura, heard from the lips of the guru by the path of *śrauta* (hearing).
@@ -462,3 +1040,31 @@ how  a woman  will hold  her heart
 [^5]: Heading in the edition: “The transcendental young Madana, or Kāmadeva Anaṅga.”
 
 [^6]: *Anubhāṣya*: *ghole* — from the colloquial *ghola khāoyāya*, “makes [it] drink buttermilk”, that is, outdoes, overpowers nectar. *Amṛta-pravāha-bhāṣya* understands it otherwise: the sound of the flute is nectarean buttermilk. In other editions (variant readings noted in the *Anubhāṣya*) — *role*, “with the sound”, and *ugāre*, “pours forth”.
+
+[^7]: *Amṛta-pravāha-bhāṣya*: the “ears” of the world are the other sounds of the world — once the least particle of this sound enters the ear, it so drowns them that they never come back.
+
+[^8]: The *caṭaka* is a small chirping bird, the sparrow — not the *cātaka* that drinks only the rain (Antya 15.65). *Amṛta-pravāha-bhāṣya*: the *caṭaka* is a particular bird.
+
+[^9]: *Amṛta-pravāha-bhāṣya*: the two powers are the power of sound (*śabda-śakti*) and the power of meaning (*artha-śakti*); the words bring out the various rasas, beginning with *śṛṅgāra*.
+
+[^10]: *Amṛta-pravāha-bhāṣya*: the four nectars of sound are Kṛṣṇa’s words, the jingling of His ankle-bells and bracelets, His voice and the sound of His flute.
+
+[^11]: Heading in the edition: the mingling of feelings (*bhāva-śābalya*) in the Lord.
+
+[^12]: *Amṛta-pravāha-bhāṣya*: Līlāśuka is Bilvamaṅgala Gosvāmī (Bilvamaṅgala Ṭhākura). In other editions (as noted in the *Anubhāṣya*) — “Līlāsukha”.
+
+[^13]: *Anubhāṣya*: “we” — Rādhā and Her friends, for they are in the same plight; the one lying in the heart is the enemy Kāma, who cannot be driven out and who is killing Her; the thirst is “wretched, most wretched”, that is, faint with longing.
+
+[^14]: *Amṛta-pravāha-bhāṣya*: Piṅgalā said, “Hope is the greatest misery; giving up hope is the greatest happiness” (Śrīmad-Bhāgavatam, 11.8.44). *Anubhāṣya*: for the story of Piṅgalā see Śrīmad-Bhāgavatam, 11.8.22–44, and the *Mahābhārata*, *Śānti-parva* (*Mokṣa-dharma-parva*), ch. 174.
+
+[^15]: Heading in the edition: Kṛṣṇa, as the transcendental Kāmadeva, takes possession of the heart.
+
+[^16]: *Anubhāṣya*: *māre* — that is, “Māra”: He conquers the world as Kāmadeva. *Amṛta-pravāha-bhāṣya*: it makes Her see Kṛṣṇa as Kandarpa.
+
+[^17]: *Amṛta-pravāha-bhāṣya*: *vāma-dīna* — wretched through its waywardness (*vāmya*).
+
+[^18]: *Anubhāṣya* (on 65): even Ananta-deva, of boundless power, cannot describe with a thousand mouths the pastimes of Śrī Gaurāṅga in divine madness.
+
+[^19]: Heading in the edition: the divine madness of the Lord described — *udghūrṇā* and *citra-jalpa*.
+
+[^20]: *Anubhāṣya*: the three doors were in the house of Kāśī Miśra; “the cows of Kaliṅga” are the Tailaṅga cows — the capital of Tailaṅga, Kariṅga or Southern Kaliṅga, stood where the Godāvarī meets the sea, and a Tailaṅga cow is called in Sanskrit *kāliṅgika-surabhi*. Heading in the edition: the *Stavāvalī*, *Caitanya-stava-kalpavṛkṣa*, verse 5.
