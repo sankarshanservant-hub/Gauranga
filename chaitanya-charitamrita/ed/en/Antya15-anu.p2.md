@@ -48,8 +48,34 @@ During the *rāsa* pastime, Bhagavān Śrī Kṛṣṇa suddenly vanished. Seein
 
 See Madhya 21.109.
 
+## 68
+
+> Subheading: Śrī Rādhā, deprived of the joy of seeing Kṛṣṇa, describes Her own misfortune —
+
+## 69
+
+> Subheading: Rāmānanda recites a verse suited to the Lord's mood; the Lord Himself explains it —
+
+*Harṣa-śoka*: *harṣa* (joy) from hearing of Kṛṣṇa's sweetness, *śoka* (grief) from separation from Him.
+
+## 70
+
+> Subheading: Words spoken in *citra-jalpa* — (Śrīmad-Bhāgavatam 10.29.39)
+
+See Madhya 24.48.
+
+## 71
+
+> Subheading: The meaning of the verse; a description of how the sweetness of Kṛṣṇa's form overpowers the *gopīs* (*citra-jalpa*) — [Any *rāga* as suits (*yathā-rāga*)]
+
+## 74
+
+*Lakṣmī*: the mark of a golden line on the left side of the chest; *Śrīvatsa*: the Śrīvatsa mark on the right side of the chest, or a curl of hair turning to the right[^74-1].
+
 ---
 
 [^63-1]: The verse translation reads differently: an elegant pearl necklace.
 
 [^63-2]: The verse translation reads differently: He is so enchantingly beautiful that even the god of love is charmed by Him.
+
+[^74-1]: The verse translation reads differently: the Śrīvatsa mark (the abode of Lakṣmī) adorns Kṛṣṇa's chest.
