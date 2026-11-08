@@ -86,7 +86,7 @@ of Raghunātha  dāsa  he  was  a kinsman  uncle
 vaiṣṇavera ucchiṣṭa khāite tem̐ho haila buḍā  
 of Vaiṣṇavas  the remnants  eating  he  became  old
 
-(8) He was Raghunātha dāsa’s uncle by kinship, and he had grown old taking the remnants of Vaiṣṇavas.
+(8) He was Raghunātha dāsa’s uncle within the clan, and he had grown old honouring the remnants of Vaiṣṇavas.
 
 গৌড়দেশে হয় যত বৈষ্ণবের গণ ৷  
 সবার উচ্ছিষ্ট তেঁহো করিল ভোজন ॥ ৯ ॥
@@ -96,7 +96,7 @@ in the land of Gauḍa  are  as many  of Vaiṣṇavas  as
 sabāra ucchiṣṭa tem̐ho karila bhojana  
 of all  the remnants  he  did  eat
 
-(9) He took the remnants of all the Vaiṣṇavas in Gauḍa.
+(9) There was no Vaiṣṇava in Gauḍa whose remnants he had not taken.
 
 ব্রাহ্মণ-বৈষ্ণব যত — ছোট, বড় হয় ৷  
 উত্তম-বস্তু ভেট লঞা তাঁর ঠাঞি যায় ॥ ১০ ॥
@@ -352,7 +352,7 @@ Jhaḍu  Ṭhākura  home  going  seeing  the mangoes
 mānasei kṛṣṇa-candre arpilā sakala  
 in his mind alone  to Kṛṣṇacandra  offered  all
 
-(33) On reaching home Jhaḍu Ṭhākura saw the mangoes and offered them all to Kṛṣṇacandra within his mind.[^11]
+(33) Entering the house, Jhaḍu Ṭhākura saw the mangoes and offered them all to Kṛṣṇacandra within his mind.[^11]
 
 কলার পাটুয়া-খোলা হৈতে আম্র নিকাশিয়া ৷  
 তাঁর পত্নী তাঁরে দেন, খায়েন চূষিয়া ॥ ৩৪ ॥
@@ -412,7 +412,7 @@ that  Kālidāsa  when  to Nīlācala  came
 mahāprabhu tām̐ra upara mahā-kṛpā kailā  
 Mahāprabhu  on him  great  mercy  showed
 
-(39) When this Kālidāsa came to Nīlācala, Mahāprabhu showed him great mercy.
+(39) When Kālidāsa came to Nīlācala, Mahāprabhu showed him great mercy.
 
 প্রতিদিন প্রভু যদি যান দরশনে ৷  
 জল-করঙ্গ লঞা গোবিন্দ যায় প্রভু-সনে ॥ ৪০ ॥
@@ -462,7 +462,7 @@ living beings  any  to take  not  can  that  water
 antaraṅga bhakta laya kari’ kona chala  
 intimate  devotees  take  making  some  pretext
 
-(44) No living being could take that water; only intimate devotees took it, on one pretext or another.
+(44) No living being could take that water; only intimate devotees contrived to get it, on one pretext or another.
 
 একদিন প্রভু তাঁহা পাদ প্রক্ষালিতে ৷  
 কালিদাস আসি’ তাঁহা পাতিলেন হাতে ॥ ৪৫ ॥
@@ -572,7 +572,7 @@ then  the Lord  made  of Jagannātha  darśana
 ghare āsi’ karilā madhyāhna-bhojana  
 home  coming  made  the midday  meal
 
-(54) Then the Lord took *darśana* of Jagannātha, and coming home, He took His midday meal.
+(54) Then the Lord had *darśana* of Jagannātha, and on returning home He took His midday meal.
 
 বহির্দ্বারে আছে কালিদাস প্রত্যাশা করিয়া ৷  
 গোবিন্দেরে ঠারে প্রভু কহেন জানিয়া ॥ ৫৫ ॥
@@ -662,7 +662,7 @@ the three  from  Kṛṣṇa’s  name  of love  jubilation
 kṛṣṇera prasāda, tāte ‘sākṣī’ kālidāsa  
 Kṛṣṇa’s  grace  of that  witness  Kālidāsa
 
-(63) From these three come the jubilation of Kṛṣṇa’s name and of love for Him, and Kṛṣṇa’s grace. Kālidāsa is the witness to this.
+(63) These three bring the joy of Kṛṣṇa’s name and of love for Him, and through them one gains Kṛṣṇa’s grace. Kālidāsa is the witness to this.
 
 নীলাচলে মহাপ্রভু রহে এইমতে ৷  
 কালিদাসে মহাকৃপা কৈলা অলক্ষিতে ॥ ৬৪ ॥
@@ -912,7 +912,7 @@ quickly  go  to see  the Beloved  so  by his words  holding  his
 bhujāntar gaurāṅgo hṛdaya udayan māṁ madayati  
 hand  Gaurāṅga  in my heart  rising  me  maddens
 
-(87) “‘Friend, where is My beloved Kṛṣṇa? You alone can show Him to Me here — quickly!’ So, as if mad, Gaurāṅga spoke to the doorkeeper; and when the man said, ‘Come quickly and see Your Beloved,’ He took hold of his hand. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 7)[^27]
+(87) “‘Friend, where is My beloved Kṛṣṇa? Show Him to Me here, quickly — only you can!’ So, as if mad, Gaurāṅga spoke to the doorkeeper; and when the man said, ‘Come quickly and see Your Beloved,’ He took hold of his hand. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 7)[^27]
 
 হেনকালে ‘গোপাল-বল্লভ’-ভোগ লাগাইল ৷  
 শঙ্খ-ঘণ্টা-আদি সহ আরতি বাজিল ॥ ৮৮ ॥
@@ -982,7 +982,7 @@ in this  food  such  taste  from where  has come
 kṛṣṇera adharāmṛta ithe sañcārila’  
 of Kṛṣṇa  the lip-nectar  into it  has entered
 
-(94) “Where has this food found such a taste? The nectar of Kṛṣṇa’s lips has entered it!”
+(94) “How has this food come by such a taste? The nectar of Kṛṣṇa’s lips has entered it!”
 
 এই বুদ্ধ্যে মহাপ্রভুর প্রেমাবেশ হৈল ৷  
 জগন্নাথের সেবক দেখি’ সম্বরণ কৈল ॥ ৯৫ ॥
@@ -1052,7 +1052,7 @@ this  having said  the Lord  them all  leave  gave
 upala-bhoga dekhiyā prabhu nija-vāsā āilā  
 the upala-bhoga  seeing  the Lord  to His own  residence  came
 
-(101) Having said this, the Lord bade them all farewell, and after seeing the *upala-bhoga* offering He returned to His residence.
+(101) Having said this, the Lord gave the servants leave to go, and after seeing the *upala-bhoga* offering He returned to His residence.
 
 মধ্যাহ্ন করিয়া কৈলা ভিক্ষা নির্ব্বাহণ ৷  
 কৃষ্ণাধরামৃত সদা অন্তরে স্মরণ ॥ ১০২ ॥
@@ -1179,7 +1179,7 @@ by many  sukṛtis  this  has been  obtained
 sabe ei āsvāda kara kari’ mahā-bhakti  
 all  this  tasting  do  with  great devotion
 
-(114) This has been gained through much *sukṛti*. All of you, taste it with great devotion.”
+(114) We have gained this through much *sukṛti*. Now all of you, taste it with great devotion.”
 
 হরিধ্বনি করি’ সবে কৈলা আস্বাদন ৷  
 আস্বাদিতে প্রেমে মত্ত হইল সবার মন ॥ ১১৫ ॥
@@ -1281,7 +1281,7 @@ the tongue  makes  attraction
 vicārite saba viparīta  
 on reflection  all  contrary
 
-(121–122) “O lover, hear the ways of Your lips! They stir the body and mind, increase the longing for union, and take away the burden of joy, grief and all the rest. They make one forget every other taste, bring the whole world under their sway, and destroy shame, duty and composure. They intoxicate the minds of women and draw them on, kindling the craving of the tongue. Yet when I think it over, everything about them is contrary.[^37]
+(121–122) “O Beloved, hear the ways of Your lips! They stir the body and mind, increase the longing for union, and take away the burden of joy, grief and all the rest. They make one forget every other taste, bring the whole world under their sway, and destroy shame, duty and composure. They intoxicate the minds of women and draw them on, kindling the craving of the tongue. Yet when I think it over, everything about them is contrary.[^37]
 
 আছুক নারীর কাষ, কহিতে বাসিয়ে লাজ,  
 তোমার অধর বড় ধৃষ্ট-রায় ৷  
@@ -1321,7 +1321,7 @@ in it  they produce  senses  mind
 tāre āpanā piyāya nirantara  
 to it  themselves  give to drink  constantly
 
-(124) Let alone the conscious — they make even the unconscious conscious. Your lips are a great magician! Your flute is nothing but dry firewood, yet they bring forth senses and a mind in it and let it drink of them ceaselessly.[^39]
+(124) Let alone the conscious — Your lips make even the unconscious conscious; they are a great magician! Your flute is nothing but dry firewood, yet they give it senses and a mind and let it drink of them ceaselessly.[^39]
 
 বেণু ধৃষ্ট-পুরুষ হঞা, পুরুষাধর পিয়া পিয়া,  
 গোপীগণে জানায় নিজ পান ৷  
@@ -1381,7 +1381,7 @@ remain  if  composure  holding
 tabe āmāya kare viḍambana  
 then  us  it makes  mockery
 
-(127) Mixing the nectar of Your lips with its own sound, by that power the flute draws the people of the three worlds. And if we, fearing for our duty, try to keep our composure, it makes a mockery of us.
+(127) The flute mixes the nectar of Your lips with its own sound, and by that power it draws the people of the three worlds. And if we, fearing for our duty, try to keep our composure, it makes a mockery of us.
 
 নীবি খসায় গুরু-আগে, লজ্জা-ধর্ম্ম করায় ত্যাগে,  
 কেশে ধরি’ যেন লঞা যায় ৷  
@@ -1521,7 +1521,7 @@ supremely  rare  this  Kṛṣṇa’s lip-nectar
 tāhā yei pāya, tāra saphala jīvita  
 it  whoever  obtains  his  successful  life
 
-(135) “This nectar of Kṛṣṇa’s lips is supremely rare. Whoever obtains it has made his life a success.
+(135) “This nectar of Kṛṣṇa’s lips is supremely rare. Whoever obtains it has found the fruit of life.
 
 যোগ্য হঞা কেহ করিতে না পায় পান ৷  
 তথাপি সে নির্লজ্জ, বৃথা ধরে প্রাণ ॥ ১৩৬ ॥
@@ -1531,7 +1531,7 @@ worthy  being  someone  to do  not  gets  drinking
 tathāpi se nirlajja, vṛthā dhare prāṇa  
 still  he  shameless  in vain  holds  life
 
-(136) If someone worthy cannot drink it and still clings to life, he is shameless and lives in vain.
+(136) If one who is worthy cannot drink it and still clings to life, he is shameless and lives in vain.
 
 অযোগ্য হঞা তাহা কেহ সদা পান করে ৷  
 যোগ্য জন নাহি পায়, লোভে মাত্র মরে ॥ ১৩৭ ॥
@@ -1541,7 +1541,7 @@ unworthy  being  it  someone  always  drinking  does
 yogya jana nāhi pāya, lobhe mātra mare  
 worthy  person  not  gets  from longing  only  dies
 
-(137) Someone unworthy drinks it always, while the worthy one does not get it and only dies of longing.
+(137) The unworthy drink it constantly, while the worthy do not get it and only die of longing.
 
 তাতে জানি, — কোন তপস্যার আছে বল ৷  
 অযোগ্যেরে দেওয়ায় কৃষ্ণাধরামৃত-ফল ॥ ১৩৮ ॥
@@ -1722,7 +1722,7 @@ of a noble man  as  sons  grandsons
 ‘vaiṣṇava’ haile ānanda-vikāra  
 Vaiṣṇavas  becoming  of bliss  transformation
 
-(148) Their new shoots are their hair standing on end, their flowers are blossoming laughter, and in the guise of honey streams of tears flow from them. They regard the flute as their own kin and are transformed by bliss, as a noble man is when his sons and grandsons become Vaiṣṇavas.
+(148) Their new shoots are their hair standing on end, their flowers are blossoming laughter, and in the guise of honey streams of tears flow from them. They regard the flute as their own kin and are overcome with bliss, as a noble man is when his sons and grandsons become Vaiṣṇavas.
 
 বেণুর তপ জানি যবে, সেই তপ করি তবে,  
 এ — অযোগ্য, আমরা — যোগ্যা নারী ৷  
@@ -1858,7 +1858,7 @@ sings  lowly  and fallen  Kṛṣṇadāsa
 
 [^36]: *Anubhāṣya*: “the craving of the tongue” — the craving of a tongue eager to serve Kṛṣṇa. Heading in the edition: Śrī Rādhā’s words to Viśākhā.
 
-[^37]: Heading in the edition: explanation of the first verse; the spiritual power of the nectar of Kṛṣṇa’s lips; tune — any (*yathā-rāga*). The line “O lover, hear…” is marked in the edition as a refrain (*dhruva*). *Amṛta-pravāha-bhāṣya*: Kṛṣṇa’s lips intoxicate the minds of women and draw them, kindling the craving of the tongue.
+[^37]: Heading in the edition: explanation of the first verse; the spiritual power of the nectar of Kṛṣṇa’s lips; tune — any (*yathā-rāga*). The line “O Beloved, hear…” is marked in the edition as a refrain (*dhruva*). *Amṛta-pravāha-bhāṣya*: Kṛṣṇa’s lips intoxicate the minds of women and draw them, kindling the craving of the tongue.
 
 [^38]: *Anubhāṣya*: *dhṛṣṭa-rāya* — brazen, the first among the insolent.
 

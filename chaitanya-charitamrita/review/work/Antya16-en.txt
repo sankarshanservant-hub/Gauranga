@@ -50,12 +50,12 @@ fn: *Anubhāṣya*: if a soul full of *anarthas* does not follow Kālidāsa’s 
 ## 8
 w: of Raghunātha  dāsa  he  was  a kinsman  uncle
 w: of Vaiṣṇavas  the remnants  eating  he  became  old
-tr: He was Raghunātha dāsa’s uncle by kinship, and he had grown old taking the remnants of Vaiṣṇavas.
+tr: He was Raghunātha dāsa’s uncle within the clan, and he had grown old honouring the remnants of Vaiṣṇavas.
 
 ## 9
 w: in the land of Gauḍa  are  as many  of Vaiṣṇavas  as
 w: of all  the remnants  he  did  eat
-tr: He took the remnants of all the Vaiṣṇavas in Gauḍa.
+tr: There was no Vaiṣṇava in Gauḍa whose remnants he had not taken.
 
 ## 10
 w: brāhmaṇa  Vaiṣṇavas  as many as  small  great  are
@@ -188,7 +188,7 @@ tr: He gathered up that dust, smeared it all over his body, and then hid near Jh
 ## 33
 w: Jhaḍu  Ṭhākura  home  going  seeing  the mangoes
 w: in his mind alone  to Kṛṣṇacandra  offered  all
-tr: On reaching home Jhaḍu Ṭhākura saw the mangoes and offered them all to Kṛṣṇacandra within his mind.
+tr: Entering the house, Jhaḍu Ṭhākura saw the mangoes and offered them all to Kṛṣṇacandra within his mind.
 fn: Heading in the edition: Jhaḍu Ṭhākura, the guru of all brāhmaṇas, worships within his mind the Deity revealed in the mind, and then eats the mangoes as Kṛṣṇa’s remnants.
 
 ## 34
@@ -222,7 +222,7 @@ tr: In this way Kālidāsa honoured the remnants of all the Vaiṣṇavas who li
 ## 39
 w: that  Kālidāsa  when  to Nīlācala  came
 w: Mahāprabhu  on him  great  mercy  showed
-tr: When this Kālidāsa came to Nīlācala, Mahāprabhu showed him great mercy.
+tr: When Kālidāsa came to Nīlācala, Mahāprabhu showed him great mercy.
 
 ## 40
 w: every  day  the Lord  when  goes  for darśana
@@ -249,7 +249,7 @@ fn: Heading in the edition: the strict rule of the Lord, who as an ācārya teac
 ## 44
 w: living beings  any  to take  not  can  that  water
 w: intimate  devotees  take  making  some  pretext
-tr: No living being could take that water; only intimate devotees took it, on one pretext or another.
+tr: No living being could take that water; only intimate devotees contrived to get it, on one pretext or another.
 
 ## 45
 w: one  day  the Lord  there  feet  to wash
@@ -306,7 +306,7 @@ fn: *Anubhāṣya*: “here” — in this world (Devī-dhāma); “there” —
 ## 54
 w: then  the Lord  made  of Jagannātha  darśana
 w: home  coming  made  the midday  meal
-tr: Then the Lord took *darśana* of Jagannātha, and coming home, He took His midday meal.
+tr: Then the Lord had *darśana* of Jagannātha, and on returning home He took His midday meal.
 
 ## 55
 w: at the outer door  is  Kālidāsa  hoping  waiting
@@ -352,7 +352,7 @@ tr: Therefore I tell you over and over: listen, O devotees! Serve these three wi
 ## 63
 w: the three  from  Kṛṣṇa’s  name  of love  jubilation
 w: Kṛṣṇa’s  grace  of that  witness  Kālidāsa
-tr: From these three come the jubilation of Kṛṣṇa’s name and of love for Him, and Kṛṣṇa’s grace. Kālidāsa is the witness to this.
+tr: These three bring the joy of Kṛṣṇa’s name and of love for Him, and through them one gains Kṛṣṇa’s grace. Kālidāsa is the witness to this.
 
 ## 64
 w: in Nīlācala  Mahāprabhu  stays  in this way
@@ -482,7 +482,7 @@ w: where  My  beloved  Kṛṣṇa  quickly  here  Him  show  friend
 w: you  alone  so  to the doorkeeper  saying  mad  as if
 w: quickly  go  to see  the Beloved  so  by his words  holding  his
 w: hand  Gaurāṅga  in my heart  rising  me  maddens
-tr: “‘Friend, where is My beloved Kṛṣṇa? You alone can show Him to Me here — quickly!’ So, as if mad, Gaurāṅga spoke to the doorkeeper; and when the man said, ‘Come quickly and see Your Beloved,’ He took hold of his hand. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 7)
+tr: “‘Friend, where is My beloved Kṛṣṇa? Show Him to Me here, quickly — only you can!’ So, as if mad, Gaurāṅga spoke to the doorkeeper; and when the man said, ‘Come quickly and see Your Beloved,’ He took hold of his hand. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 7)
 fn: *Anubhāṣya*: *madayati* — “fills with bliss”; so too the refrain of this prayer in Antya 6.327. Heading in the edition: *Stava-mālā*, *Caitanya-stava-kalpavṛkṣa*, verse 7.
 
 ## 88
@@ -519,7 +519,7 @@ tr: Tasting what was sweeter than millions of nectars, the Lord was struck with 
 ## 94
 w: in this  food  such  taste  from where  has come
 w: of Kṛṣṇa  the lip-nectar  into it  has entered
-tr: “Where has this food found such a taste? The nectar of Kṛṣṇa’s lips has entered it!”
+tr: “How has this food come by such a taste? The nectar of Kṛṣṇa’s lips has entered it!”
 
 ## 95
 w: by this  thought  Mahāprabhu’s  absorption in love  was
@@ -558,7 +558,7 @@ fn: *Amṛta-pravāha-bhāṣya*: *sukṛti* is the pious act that gives rise to
 ## 101
 w: this  having said  the Lord  them all  leave  gave
 w: the upala-bhoga  seeing  the Lord  to His own  residence  came
-tr: Having said this, the Lord bade them all farewell, and after seeing the *upala-bhoga* offering He returned to His residence.
+tr: Having said this, the Lord gave the servants leave to go, and after seeing the *upala-bhoga* offering He returned to His residence.
 
 ## 102
 w: the midday duties  having done  made  the meal  completion
@@ -622,7 +622,7 @@ fn: Heading in the edition: the spiritual offerings touched by Kṛṣṇa’s l
 ## 114
 w: by many  sukṛtis  this  has been  obtained
 w: all  this  tasting  do  with  great devotion
-tr: This has been gained through much *sukṛti*. All of you, taste it with great devotion.”
+tr: We have gained this through much *sukṛti*. Now all of you, taste it with great devotion.”
 
 ## 115
 w: Hari  calling  all  made  tasting
@@ -671,8 +671,8 @@ w: O lover  hear  Your  of the lips  conduct
 w: intoxicates  of women  the mind
 w: the tongue  makes  attraction
 w: on reflection  all  contrary
-tr: “O lover, hear the ways of Your lips! They stir the body and mind, increase the longing for union, and take away the burden of joy, grief and all the rest. They make one forget every other taste, bring the whole world under their sway, and destroy shame, duty and composure. They intoxicate the minds of women and draw them on, kindling the craving of the tongue. Yet when I think it over, everything about them is contrary.
-fn: Heading in the edition: explanation of the first verse; the spiritual power of the nectar of Kṛṣṇa’s lips; tune — any (*yathā-rāga*). The line “O lover, hear…” is marked in the edition as a refrain (*dhruva*). *Amṛta-pravāha-bhāṣya*: Kṛṣṇa’s lips intoxicate the minds of women and draw them, kindling the craving of the tongue.
+tr: “O Beloved, hear the ways of Your lips! They stir the body and mind, increase the longing for union, and take away the burden of joy, grief and all the rest. They make one forget every other taste, bring the whole world under their sway, and destroy shame, duty and composure. They intoxicate the minds of women and draw them on, kindling the craving of the tongue. Yet when I think it over, everything about them is contrary.
+fn: Heading in the edition: explanation of the first verse; the spiritual power of the nectar of Kṛṣṇa’s lips; tune — any (*yathā-rāga*). The line “O Beloved, hear…” is marked in the edition as a refrain (*dhruva*). *Amṛta-pravāha-bhāṣya*: Kṛṣṇa’s lips intoxicate the minds of women and draw them, kindling the craving of the tongue.
 
 ## 123
 w: let alone  of women  the matter
@@ -691,7 +691,7 @@ w: Your  lips  a great  magician
 w: Your  flute  dry fuel
 w: in it  they produce  senses  mind
 w: to it  themselves  give to drink  constantly
-tr: Let alone the conscious — they make even the unconscious conscious. Your lips are a great magician! Your flute is nothing but dry firewood, yet they bring forth senses and a mind in it and let it drink of them ceaselessly.
+tr: Let alone the conscious — Your lips make even the unconscious conscious; they are a great magician! Your flute is nothing but dry firewood, yet they give it senses and a mind and let it drink of them ceaselessly.
 fn: Heading in the edition: Śrī Rādhā’s jealousy of Kṛṣṇa’s flute.
 
 ## 125
@@ -719,7 +719,7 @@ w: attracts  of the three worlds  the people
 w: we  of duty  fear  having
 w: remain  if  composure  holding
 w: then  us  it makes  mockery
-tr: Mixing the nectar of Your lips with its own sound, by that power the flute draws the people of the three worlds. And if we, fearing for our duty, try to keep our composure, it makes a mockery of us.
+tr: The flute mixes the nectar of Your lips with its own sound, and by that power it draws the people of the three worlds. And if we, fearing for our duty, try to keep our composure, it makes a mockery of us.
 
 ## 128
 w: the waist-knot  loosens  before the elders
@@ -787,17 +787,17 @@ tr: As He spoke, the Lord’s mood changed: His angry mind grew calm, and His lo
 ## 135
 w: supremely  rare  this  Kṛṣṇa’s lip-nectar
 w: it  whoever  obtains  his  successful  life
-tr: “This nectar of Kṛṣṇa’s lips is supremely rare. Whoever obtains it has made his life a success.
+tr: “This nectar of Kṛṣṇa’s lips is supremely rare. Whoever obtains it has found the fruit of life.
 
 ## 136
 w: worthy  being  someone  to do  not  gets  drinking
 w: still  he  shameless  in vain  holds  life
-tr: If someone worthy cannot drink it and still clings to life, he is shameless and lives in vain.
+tr: If one who is worthy cannot drink it and still clings to life, he is shameless and lives in vain.
 
 ## 137
 w: unworthy  being  it  someone  always  drinking  does
 w: worthy  person  not  gets  from longing  only  dies
-tr: Someone unworthy drinks it always, while the worthy one does not get it and only dies of longing.
+tr: The unworthy drink it constantly, while the worthy do not get it and only die of longing.
 
 ## 138
 w: therefore  I know  some  austerity’s  is  power
@@ -887,7 +887,7 @@ w: of honey  in the guise  flow  of tears  streams
 w: the flute  regarding  as their own  kin
 w: of a noble man  as  sons  grandsons
 w: Vaiṣṇavas  becoming  of bliss  transformation
-tr: Their new shoots are their hair standing on end, their flowers are blossoming laughter, and in the guise of honey streams of tears flow from them. They regard the flute as their own kin and are transformed by bliss, as a noble man is when his sons and grandsons become Vaiṣṇavas.
+tr: Their new shoots are their hair standing on end, their flowers are blossoming laughter, and in the guise of honey streams of tears flow from them. They regard the flute as their own kin and are overcome with bliss, as a noble man is when his sons and grandsons become Vaiṣṇavas.
 
 ## 149
 w: the flute’s  austerity  we know  when
