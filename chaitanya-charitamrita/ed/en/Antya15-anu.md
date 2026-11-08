@@ -102,8 +102,24 @@ While Bhagavān Śrī Kṛṣṇa was playing the *rāsa* with the *gopīs*, He 
 
 > Subheading: [The *gopīs*] ask the flowering plants where Kṛṣṇa is —
 
-**mālati**, **mallike**, **jāti**, **yūthike**, **kara-sparśena** **vaḥ** (your) **prītim** **janayan** **yātaḥ** (who has gone) **mādhavaḥ** **vaḥ** (by you) **kaccit** **adarśi** (was He seen)?
+**mālati**, **mallike**, **jāti**, **yūthike**, **kara-sparśena** **vaḥ** (your) **prītiṁ** **janayan** **yātaḥ** (who has gone) **mādhavaḥ** **vaḥ** (by you) **kaccit** **adarśi** (was He seen)?
 
 ## 35
 
-> Subheading: The meaning of the verses; the *gopīs*, wholly absorbed in Kṛṣṇa and separated from Him, search for Him and lament —
+> Subheading: The meaning of the verse; the *gopīs*, wholly absorbed in Kṛṣṇa and separated from Him, search for Him and lament —
+
+## 44
+
+> Subheading: [The *gopīs*] ask the doe where Kṛṣṇa is — (*Śrīmad-Bhāgavatam* 10.30.11)
+
+While Bhagavān Śrī Kṛṣṇa was playing the *rāsa* with the *gopīs*, He disappeared. The *gopīs*, their minds wholly fixed on Kṛṣṇa, were searching for Him in separation.
+
+**sakhi** (O friend) **eṇa-patni** (doe) **acyutaḥ** (Kṛṣṇa) **priyayā** (together [with His beloved]) **gātraiḥ** (by the contact of Their bodies) **vaḥ** (your) **dṛśām** (of the eyes) **su-nirvṛtim** (happiness) **tanvan** (increasing) **iha** **api** (whether) **upagataḥ** (has passed by here)? (For) **kula-pateḥ** (of Kṛṣṇa) **kāntāṅga-saṅga-kuca-kuṅkuma-rañjitāyāḥ** (adorned with the color of the *kuṅkuma* from His beloved's breasts, [left] by the touch of Her body) **kunda-srajaḥ** (of the garland of *kunda* flowers) **gandhaḥ** **iha** **vāti** (wafts).
+
+## 45
+
+> Subheading: The meaning of the verse —
+
+## 49
+
+> Subheading: [The *gopīs*] ask the trees where Kṛṣṇa is —

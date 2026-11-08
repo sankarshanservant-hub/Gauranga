@@ -36,6 +36,10 @@ O auspicious *tulasī*, dear to Govinda's feet! Acyuta loves you dearly. Did you
 
 O *mālatī*, O *mallikā*, O *jāti*, O *yūthikā*! Did you see Kṛṣṇa pass by here, giving you joy with the touch of His hand?
 
+## 44
+
+From here comes the fragrance of Kṛṣṇa, who wears a garland of *kunda* flowers colored with the *kuṅkuma* from His beloved's breasts as He touched Her body. O doe, did Kṛṣṇa pass along this path with Rādhikā, increasing the joy of your eyes?
+
 ---
 
 [^1-1]: The verse translation reads differently: the Lord plunged wholeheartedly into this ocean in order to display the various aspects of its boundless glory (it does not say that His heart now sank and now rose to the surface).
