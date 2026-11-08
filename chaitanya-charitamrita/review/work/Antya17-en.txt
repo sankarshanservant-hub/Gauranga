@@ -1,0 +1,230 @@
+# English translation, Antya-līlā 17 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 revision).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya17.txt), revised against the Bengali, the Anubhāṣya and the Amṛta-pravāha-bhāṣya.
+# One shift: verses 1–73 (scan pp. 1042–1048).
+# Verbatim from revised chapters: 2 (= Ādi 1.18), 31 (= Madhya 24.52), 71 (= Antya 16.86), 73 (= Ādi 1.110).
+
+## 0
+tr: The Tortoise Form in Ecstasy, and the Ravings of Madness
+
+## 1
+w: is described  of Śrīla  Gauracandra
+w: most  wonderful  unearthly
+w: by whom  seen  from their mouths  having heard
+w: of divine madness  the conduct
+tr: From the lips of those who saw them with their own eyes I have heard of the most wonderful, unearthly deeds of Śrīla Gauracandra in His divine madness, and now I describe them.
+fn: *Anubhāṣya*: those who saw it were the most fortunate intimate devotees headed by Dāmodara and Raghunātha; “wonderful” — such as had never been heard of, “unearthly” — such as had never been seen. Heading in the edition: the transcendental pastimes of Gaura, heard from the lips of the guru by the path of *śrauta* (hearing).
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: in this way  Mahāprabhu  night  and day
+w: of madness  the behaviour  ravings  makes  absorbed in love
+tr: In this way, night and day, Mahāprabhu, absorbed in love, behaved like one mad and spoke in ravings.
+
+## 4
+w: one  day  the Lord  Svarūpa  Rāmānanda  with
+w: half  the night  passed  of Kṛṣṇa  talks  in the delight
+tr: One day the Lord passed half the night with Svarūpa and Rāmānanda, delighting in talks about Kṛṣṇa.
+
+## 5
+w: when  whatever  feeling  the Lord  makes  arise
+w: to the feeling  suited  a song  sings  Svarūpa  Mahāśaya
+tr: Whatever feeling arose in the Lord, Svarūpa Mahāśaya would sing a song to suit it.
+
+## 6
+w: Vidyāpati  Caṇḍīdāsa  the Śrī Gīta-govinda
+w: to the feeling  suited  verses  recites  Rāya  Rāmānanda
+tr: And Rāya Rāmānanda would recite verses suited to His feelings from Vidyāpati, Caṇḍīdāsa and the *Śrī Gīta-govinda*.
+
+## 7
+w: now and  then  Himself  the Lord  a verse  reciting
+w: of the verse  the meaning  makes  the Lord  lament  making
+tr: Now and then the Lord would Himself recite a verse and, lamenting, explain its meaning.
+
+## 8
+w: in this way  in various  feelings  half  the night  passed
+w: the Lord  to bed  having put  the two  home  went
+tr: So, amid many feelings, half the night went by. Then the two put the Lord to bed and went home.
+
+## 9
+w: of the Gambhīrā  at the door  Govinda  made  his bed
+w: at midnight  the Lord  makes  loud  saṅkīrtana
+tr: Govinda lay down to sleep at the door of the Gambhīrā, and at midnight the Lord began to chant the holy names aloud.
+
+## 10
+w: suddenly  hears  the Lord  of Kṛṣṇa’s  flute  the song
+w: absorbed in feeling  the Lord  there  made  departure
+tr: Suddenly the Lord heard the song of Kṛṣṇa’s flute and, absorbed in feeling, set off towards it.
+
+## 11
+w: in the three  doors  the panels  so  are  indeed  fastened
+w: absorbed in feeling  the Lord  went  outside  becoming
+tr: The three doors stayed shut as they were, yet the Lord, lost in that feeling, passed outside.
+
+## 12
+w: of the Siṁha-dvāra  to the south  are  Tailaṅga  cows  the herd
+w: there  going  fell  the Lord  becoming  unconscious
+tr: To the south of the Siṁha-dvāra there was a herd of cows from Tailaṅga. The Lord went there and fell down unconscious.
+
+## 13
+w: here  Govinda  of Mahāprabhu  the sound  not  getting
+w: Svarūpa  called  the doors  opening
+tr: Meanwhile Govinda, no longer hearing any sound from Mahāprabhu, opened the doors and called Svarūpa.
+
+## 14
+w: then  Svarūpa  Gosāñi  with  taking  the devotees
+w: torches  lighting  make  for the Lord  a search
+tr: Then Svarūpa Gosāñi took the devotees with him, and they lit torches and searched for the Lord.
+
+## 15
+w: here and  there  searching  to the Siṁha-dvāra  went
+w: of the cows  among  going  the Lord  found
+tr: After searching here and there, they went to the Siṁha-dvāra and found the Lord among the cows.
+
+## 16
+w: of the belly  inside  hands  and feet  of a tortoise  the shape
+w: in the mouth  foam  thrilled limbs  in the eyes  streams of tears
+tr: His hands and feet had drawn inside His body, and He had the shape of a tortoise. There was foam at His mouth, the hair of His body stood on end, and tears streamed from His eyes.
+
+## 17
+w: unconscious  is lying  like  a pumpkin  fruit
+w: outside  stupor  within  with bliss  overwhelmed
+tr: He lay unconscious, like a great pumpkin: outwardly inert, but within overwhelmed with bliss.
+
+## 18
+w: cows  all  on every side  sniff  the Lord’s  holy  body
+w: away  driven  not  leave  the Lord’s  holy  body’s  company
+tr: On every side the cows were sniffing the Lord’s holy body; even when driven away, they would not leave His side.
+
+## 19
+w: much  made  effort  not  becomes  conscious
+w: the Lord  lifting  home  brought  the devotees
+tr: The devotees tried hard to revive Him, but He did not regain consciousness. Then they lifted the Lord and carried Him home.
+
+## 20
+w: loud  making  in the ears  make  of the name  saṅkīrtana
+w: after a long  while  Mahāprabhu  regained  consciousness
+tr: They sang the holy name loudly into His ears, and after a long while Mahāprabhu regained consciousness.
+fn: Heading in the edition: by the loud *saṅkīrtana* the Lord regains consciousness — a half-outward consciousness (*ardha-bāhya*).
+
+## 21
+w: conscious  when He became  hands  and feet  outside  came
+w: as before  in proper proportion  the body  became
+tr: As He came to Himself, His hands and feet emerged again, and His body returned to its proper form, as before.
+
+## 22
+w: rising  sat  the Lord  looks  here and there
+w: to Svarūpa  says  you  Me  have brought  where
+tr: The Lord sat up and looked about Him. He said to Svarūpa, “Where have you brought Me?
+
+## 23
+w: the flute’s  sound  hearing  I  went  to Vṛndāvana
+w: I see  in the pasture  the flute  plays  of the king of Vraja  the son
+tr: Hearing the sound of the flute, I went to Vṛndāvana, and I saw the son of the king of Vraja playing His flute in the pasture.
+
+## 24
+w: of the signal  of the flute  at the call  Rādhā  went  to the bower  house
+w: to the bower  went  Kṛṣṇa  pastimes  to make
+tr: At the signal call of His flute Rādhā went to the bower, and Kṛṣṇa too went there for His pastimes.
+
+## 25
+w: Him  behind  behind  I  made  going
+w: His  ornaments’  by the jingling  My  was stolen  hearing
+tr: I followed close behind Him, and the jingling of His ornaments captivated My ears.
+
+## 26
+w: the gopīs  with  pastimes  laughter  jesting
+w: voice’s  sound  words  hearing  My  ears’ joy
+tr: Kṛṣṇa was enjoying His pastimes with the *gopīs*, laughing and jesting, and My ears rejoiced to hear His voice and His words.
+
+## 27
+w: at that time  you  all  an uproar  making
+w: Me  here  taking  brought  force  using
+tr: Just then all of you raised an uproar and brought Me here by force.
+
+## 28
+w: to hear  not  did I get  those  nectar  like  words
+w: to hear  not  did I get  of the ornaments  of the flute  the sound
+tr: I could no longer hear those words, sweet as nectar; I could no longer hear the jingling of His ornaments and the sound of His flute.”
+
+## 29
+w: absorbed in feeling  to Svarūpa  says  choked  words
+w: My ears  with thirst  I die  recite  nectar of rasa  I shall hear
+tr: Absorbed in feeling, the Lord said to Svarūpa in a choked voice, “My ears are dying of thirst. Recite something full of the nectar of *rasa* — let Me hear it.”
+
+## 30
+w: Svarūpa  Gosāñi  of the Lord  the mood  knowing
+w: of the Bhāgavata  a verse  recites  sweet  making
+tr: Svarūpa Gosāñi, knowing the Lord’s mood, sweetly recited a verse from the *Bhāgavata*:
+
+## 31
+w: what  woman  O dear one  Your  of sweet words  by the nectar  of the flute  by the song
+w: enchanted  from the conduct of the noble  not  would stray  in the three worlds
+w: of the three worlds  the beauty  this  and  having seen  form
+w: which  cows  birds  trees  deer  thrills of rapture  bore
+tr: “O Kṛṣṇa, what woman in the three worlds, enchanted by the song of Your flute with its sweet, nectarean notes, would not stray from the conduct of the noble? Seeing this form of Yours, the beauty of the three worlds, even cows, birds, trees and deer bristle with rapture.” (Śrīmad-Bhāgavatam, 10.29.40)
+fn: The same verse as Madhya 24.52; translation as there. The *Anubhāṣya* refers to Madhya 24.52. Heading in the edition: the sweetness of Kṛṣṇa’s flute enchants and draws all His servants, whatever they may be.
+
+## 32
+w: hearing  the Lord  in the mood of the gopīs  absorbed  became
+w: of the Bhāgavata  the verse’s meaning  to make  began
+tr: Hearing this, the Lord became absorbed in the mood of the *gopīs* and began to explain the meaning of the verse:
+
+## 33
+w: there was  in the gopīs’  mood  absorption
+w: made  into the rāsa  entry
+w: Kṛṣṇa’s  hearing  of disregard  words
+w: Kṛṣṇa’s  mouth’s  smiling  words
+w: as rejection  them  true  taking
+w: in anger  to Kṛṣṇa  gives  reproach
+tr: Absorbed in the mood of the *gopīs*, He entered the *rāsa* dance. There He heard Kṛṣṇa’s words of indifference, took those words, spoken with a smile, as a true rejection, and reproached Kṛṣṇa in anger:
+fn: Heading in the edition: a gopī describes her feelings for Kṛṣṇa (*citra-jalpa*). *Amṛta-pravāha-bhāṣya*: in the *rāsa-līlā* the gopīs heard Kṛṣṇa’s indifferent words and took it as true that He had rejected them.
+
+## 34
+w: O lover  say  You  making  certain
+w: these  three worlds  filling
+w: there are  as many  worthy  women
+w: Your  flute  whom  not  attracts
+tr: “O Beloved, tell us truly: of all the worthy women who fill the three worlds, which is not drawn by Your flute?
+
+## 35
+w: You made  in the world  the flute’s  sound
+w: of perfected mantras  a yoginī
+w: a go-between  becoming  enchants  women’s  minds
+w: great  longing  increasing
+w: the noble  path  making them leave
+w: bringing  to You  makes  offering
+tr: You sent the sound of Your flute into the world, and like a *yoginī* perfect in her mantras, it becomes a go-between and enchants the minds of women. It swells their longing, makes them forsake the path of the noble, and delivers them to You.
+
+## 36
+w: dharma  You make them leave  by the flute
+w: You strike  of glances  of Kāma  with the arrows
+w: shame  fear  all  You make them leave
+w: now  at us  making  anger
+w: saying  husbands  in leaving  a fault
+w: righteous  becoming  dharma  You teach
+tr: With Your flute You make us abandon *dharma*; You strike us with the arrows of Kāma, Your sidelong glances, and make us cast off shame and fear and everything else. And now You are angry with us, You say it is wrong to leave our husbands, and, like a man of virtue, You teach us *dharma*!
+fn: Heading in the edition: “The transcendental young Madana, or Kāmadeva Anaṅga.”
+
+## 37
+w: other  words  other  mind
+w: outwardly  other  conduct
+w: this  all  of a cheat  the artifices
+w: You  know  jest
+w: is  women’s  utter ruin
+w: give up  these  all  tricks
+tr: Your words say one thing, Your mind another, and outwardly You act in yet another way — all these are the artifices of a cheat. For You it is a jest, but for women it is utter ruin. Give up all these tricks!
+
+## 38
+w: the flute’s  sound  nectar  outdoes
+w: nectar  equal  sweet  words
+w: nectar  equal  the ornaments’  jingling
+w: by the three  nectars  steals  the ears
+w: steals  the mind  steals  the life
+w: how  a woman  will hold  her heart
+tr: The sound of Your flute outdoes nectar; Your sweet words are like nectar, and the jingling of Your ornaments is like nectar too. With these three nectars You steal our ears, You steal our minds, You steal our very life. How can a woman keep hold of her heart?”
+fn: *Anubhāṣya*: *ghole* — from the colloquial *ghola khāoyāya*, “makes [it] drink buttermilk”, that is, outdoes, overpowers nectar. *Amṛta-pravāha-bhāṣya* understands it otherwise: the sound of the flute is nectarean buttermilk. In other editions (variant readings noted in the *Anubhāṣya*) — *role*, “with the sound”, and *ugāre*, “pours forth”.
