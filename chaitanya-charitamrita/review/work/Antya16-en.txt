@@ -1,0 +1,220 @@
+# English translation, Antya-līlā 16 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 revision).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya16.txt), revised against the Bengali, the Anubhāṣya and the Amṛta-pravāha-bhāṣya.
+# Shift 1: verses 1–75 (scan pp. 1030–1035); shift 2: 76–151.
+# Verbatim from revised chapters: 2 (= Ādi 1.18), 25 (= Madhya 19.50), 26 (= Antya 4.69), 27 (= Madhya 11.192).
+
+## 0
+tr: Grace to Kālidāsa, and the Ravings of Madness in Separation
+
+## 1
+w: I bow down  to Śrī Kṛṣṇa Caitanya
+w: of Kṛṣṇa  of feelings  the nectar  indeed  who
+w: having tasted  making taste  the devotees
+w: of prema  the initiation  taught
+tr: I bow down to Śrī Kṛṣṇa Caitanya, who Himself tasted the nectar of feelings for Kṛṣṇa and gave it to His devotees to taste; so He taught them the path of divine love.
+fn: *Anubhāṣya*: the nectar of feelings for Kṛṣṇa is the exalted, radiant *ujjvala-rasa*; initiation into prema (*prema-dīkṣā*) is the path of service rooted in pure love. Heading in the edition: obeisance to Gaura, who teaches bhakti by His own example.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: in this way  Mahāprabhu  stays  in Nīlācala
+w: the devotees  with  always  by love  overwhelmed
+tr: In this way Mahāprabhu lived in Nīlācala with His devotees, always overwhelmed by love.
+
+## 4
+w: the next year  came  all  of Gauḍa  the devotees
+w: as before  coming  made  with the Lord  meeting
+tr: The next year all the devotees of Gauḍa came again and, as before, met the Lord.
+
+## 5
+w: them all  with  came  Kālidāsa  by name
+w: Kṛṣṇa’s  name  except  he  not  knew  anything else
+tr: With them came a devotee named Kālidāsa, who knew nothing but the name of Kṛṣṇa.
+
+## 6
+w: a great  devotee  he  simple  generous
+w: of Kṛṣṇa’s  name  by the signs  conducted  his dealings
+tr: He was a great devotee, simple and generous, and even in his everyday dealings the name of Kṛṣṇa served him as a sign.
+fn: *Amṛta-pravāha-bhāṣya*: in his worldly dealings he used the name of Kṛṣṇa as a conventional sign (*saṅketa*).
+
+## 7
+w: in fun  he  if  at dice  played
+w: Hare Kṛṣṇa  Hare Kṛṣṇa  saying  the dice  threw
+tr: When he played at dice for fun, he would cast them saying, “Hare Kṛṣṇa! Hare Kṛṣṇa!”
+fn: *Anubhāṣya*: if a soul full of *anarthas* does not follow Kālidāsa’s firm devotion to the holy name, but for the pleasure of the senses imitates this outward play of his and grows addicted to dice, its bondage to Kali will only increase its bent for sin (Śrīmad-Bhāgavatam, 1.17.38–41). And its outward imitation of chanting, which prompts it to sin in reliance on the power of the name, will end only in offence to the name (*nāmāparādha*).
+
+## 8
+w: of Raghunātha  dāsa  he  was  a kinsman  uncle
+w: of Vaiṣṇavas  the remnants  eating  he  became  old
+tr: He was Raghunātha dāsa’s uncle by kinship, and he had grown old taking the remnants of Vaiṣṇavas.
+
+## 9
+w: in the land of Gauḍa  are  as many  of Vaiṣṇavas  as
+w: of all  the remnants  he  did  eat
+tr: He took the remnants of all the Vaiṣṇavas in Gauḍa.
+
+## 10
+w: brāhmaṇa  Vaiṣṇavas  as many as  small  great  are
+w: the best  things  as gifts  taking  to them  goes
+tr: He would go to every Vaiṣṇava of brāhmaṇa birth, great and small, bringing the finest things as gifts.
+
+## 11
+w: from them  the plates of remnants  takes  begging
+w: wherever  not  gets  then  stays  hiding
+tr: He would beg them for the plates with their remnants, and where he was refused, he would hide nearby.
+
+## 12
+w: eating  having done  the plate  throwing away  goes
+w: secretly  that  plate  bringing  licking  eats
+tr: When a Vaiṣṇava had eaten and thrown his plate away, Kālidāsa would secretly take it up and lick it clean.
+
+## 13
+w: of śūdra  Vaiṣṇavas  to the homes  goes  gifts  taking
+w: in this way  their  remnants  eats  secretly
+tr: He went with gifts to the homes of Vaiṣṇavas of śūdra birth as well, and in the same way secretly took their remnants.
+
+## 14
+w: bhūṅimāli  by caste  a Vaiṣṇava  Jhaḍu  his  name
+w: mangoes  taking  he  went  to his  place
+tr: There was a Vaiṣṇava named Jhaḍu, of the *bhūṅimāli* caste. Kālidāsa went to his home, taking mangoes with him.
+fn: *Amṛta-pravāha-bhāṣya*: the bhūṅimālis are a caste like the haḍḍis. *Anubhāṣya*: the homes of Kālidāsa and Jhaḍu Ṭhākura were in the village of Bhedo (Bhaduyā), about three miles south of Kṛṣṇapura, the birthplace of Śrīla Raghunātha dāsa Gosvāmī.
+
+## 15
+w: the mangoes  as a gift  giving  his  feet  he honoured
+w: his  wife  then  obeisance  made
+tr: He presented the mangoes, bowed at his feet, and then paid his respects to his wife.
+
+## 16
+w: his wife  with  he  was  seated
+w: much  honour  showed  Kālidāsa  seeing
+tr: Jhaḍu Ṭhākura was sitting with his wife; seeing Kālidāsa, he received him with great respect.
+
+## 17
+w: friendly talk  for some time  having made  with him
+w: Jhaḍu  Ṭhākura  says  to him  in sweet  words
+tr: After talking with him a while, Jhaḍu Ṭhākura said to him sweetly:
+
+## 18
+w: I  low  born  you  guest  the most excellent
+w: in what  way  shall I do  you  service
+tr: “I am of low birth, and you are a most honoured guest. How shall I serve you?
+
+## 19
+w: permission  give  a brāhmaṇa’s  to the house  provisions  taking  I will give
+w: there  you  prasāda  take  then  I  shall live
+tr: Give me leave to take provisions to a brāhmaṇa’s house. There you can take *prasāda*, and that will give me life.”
+
+## 20
+w: Kālidāsa  says  Ṭhākura  mercy  show  to me
+w: your  for the sight  have come  I  fallen  sinner
+tr: Kālidāsa said, “Ṭhākura, be merciful to me! I, a fallen sinner, have come to see you.
+
+## 21
+w: pure  have become  I  have gained  the sight
+w: fulfilled  I have become  my  successful  life
+tr: By seeing you I have become pure. My purpose is fulfilled, and my life has borne its fruit.
+
+## 22
+w: one  desire  there is  if  mercy  showing  you do
+w: of the feet  the dust  give  your foot  my  on the head  place
+tr: I have one desire, if you will be merciful: give me the dust of your feet, and place your foot on my head.”
+
+## 23
+w: the Ṭhākura  says  such  words  to speak  not  is fitting
+w: I  low  born  you  a noble  gentleman
+tr: The Ṭhākura said, “It is not fitting to say such things. I am of low birth, and you are a noble gentleman.”
+
+## 24
+w: then  Kālidāsa  verses  reciting  made him hear
+w: hearing  Jhaḍu  Ṭhākura’s  great  joy  was
+tr: Then Kālidāsa recited verses for him, and hearing them, Jhaḍu Ṭhākura was greatly pleased.
+
+## 25
+w: not  to Me  a nondevotee  a knower of the four Vedas
+w: My devotee  a dog-eater  dear
+w: to him  should be given  from him  should be accepted
+w: he  and  is to be worshipped  as  indeed  I
+tr: “Even a knower of the four Vedas is not dear to Me if he is not devoted to Me, but My devotee is dear to Me even if he was born a dog-eater. One should give to him and accept from him; he is to be worshipped just as I am.” (Itihāsa-samuccaya, quoted in Hari-bhakti-vilāsa, 10.91)
+fn: The same verse as Madhya 19.50 and 20.58; translation as there. Heading in the edition here: “Words of the Lord in the *Itihāsa-samuccaya*” (at Madhya 19.50: *Hari-bhakti-vilāsa* 10.91, words of the *Itihāsa-samuccaya*). The *Anubhāṣya* refers to Madhya 19.50.
+
+## 26
+w: than a brāhmaṇa  twelve  qualities  endowed with  of the lotus-naveled Lord
+w: from the lotus feet  averse  a dog-eater  better
+w: I consider  to Him offered  mind  words  deeds  wealth
+w: and life  purifies  he  his family  not  but  one full of pride
+tr: “I consider a dog-eater whose mind, words, deeds, wealth and very life are offered to the Lord of the lotus navel better than a brāhmaṇa endowed with the twelve qualities who has turned away from His lotus feet. Such a devotee purifies his whole family; the brāhmaṇa swollen with pride cannot.” (Śrīmad-Bhāgavatam, 7.9.10)
+fn: The same verse as Antya 4.69 and Madhya 20.59; translation as there. The *Anubhāṣya* refers to Madhya 20.59.
+
+## 27
+w: oh  how wonderful  a dog-eater  therefore  most worthy
+w: on the tip of whose tongue  is present  the name  Your
+w: have performed  austerities  they  have offered sacrifice  have bathed (in all holy waters)  noble ones
+w: have recited the Vedas  the name  utter  who  Your
+tr: “Oh, how wonderful! Even a dog-eater is worthy of the highest honour if Your name is on the tip of his tongue. Those who utter Your name have already performed austerities and offered sacrifices; they have bathed in all the holy waters, they are truly noble, and they have studied the Vedas.” (Śrīmad-Bhāgavatam, 3.33.7)
+fn: The same verse as Madhya 11.192 and 19.72; translation as there. The *Anubhāṣya* refers to Madhya 11.192.
+
+## 28
+w: hearing  the Ṭhākura  says  scripture  this  true  is
+w: he  low  is not  in whom  devotion to Kṛṣṇa  is spoken of
+tr: Hearing this, the Ṭhākura said, “What scripture says is true: one in whom there is devotion to Kṛṣṇa is not low.
+fn: So in the Gauḍīya Maṭha edition: *śāstra ei satya haya / sei nīca nahe, — yāṅte kṛṣṇa-bhakti kaya*. Other editions read *śāstra ei satya kaya / sei śreṣṭha, aiche yāṅte kṛṣṇa-bhakti haya*, “the scriptures speak this truth: the best is one in whom there is devotion to Kṛṣṇa.”
+fn: *Anubhāṣya*: the *Mahābhārata*, the *Śrīmad-Bhāgavatam*, the *Padma-purāṇa* and many other scriptures make it clear that transcendental brahminhood belongs eternally to a Vaiṣṇava. Therefore one who has gained devotion to Kṛṣṇa, even if born in a low family, can no longer be of low caste.
+
+## 29
+w: I  low  born  my  is no  devotion to Kṛṣṇa
+w: others  such  are  in me  is no  such  power
+tr: But I am of low birth, and I have no devotion to Kṛṣṇa. Others may be so blessed, but I have no such power.”
+fn: *Anubhāṣya*: the words “I have no devotion” show only Jhaḍu Ṭhākura’s magnanimity, worthy of a Vaiṣṇava, and his freedom from pride. Great devotees do not identify with the body, and by nature they speak with the humility of pure devotees: “All the devotees of Kṛṣṇa stand high; I alone have no devotion and am born in a low family.”
+
+## 30
+w: to him  bowing  Kālidāsa  leave  asked
+w: Jhaḍu  Ṭhākura  then  him  following  went
+tr: Bowing to him, Kālidāsa asked leave to go, and Jhaḍu Ṭhākura walked after him to see him off.
+
+## 31
+w: him  leave  giving  the Ṭhākura  when  home  came
+w: his  feet’s  marks  where  fell
+tr: When the Ṭhākura had seen him off and returned home, Kālidāsa went to the spot where Jhaḍu’s footprints lay.
+
+## 32
+w: that  dust  taking  Kālidāsa  all over his body  smeared
+w: him  near  in one place  hiding  stayed
+tr: Kālidāsa took that dust and smeared it all over his body, and then he hid near Jhaḍu’s house.
+
+## 33
+w: Jhaḍu  Ṭhākura  home  going  seeing  the mangoes
+w: in his mind alone  to Kṛṣṇacandra  offered  all
+tr: On reaching home Jhaḍu Ṭhākura saw the mangoes and offered them all to Kṛṣṇacandra within his mind.
+fn: Heading in the edition: Jhaḍu Ṭhākura, the guru of all brāhmaṇas, worships within his mind the Deity revealed in the mind, and then eats the mangoes as Kṛṣṇa’s remnants.
+
+## 34
+w: banana  leaves  bark  from  the mangoes  taking out
+w: his  wife  to him  gives  he eats  sucking
+tr: His wife took the mangoes out of their wrappings of banana leaf and bark and handed them to him, and he ate them, sucking out the juice.
+fn: *Anubhāṣya*: *pāṭuyā-kholā* — leaves and bark; *nikāśiyā* — taking out.
+
+## 35
+w: sucking  sucking  the sucked  stones  threw  into the wrappings
+w: him  having fed  his  wife  eats  afterwards
+tr: When he had sucked the stones, he threw them into the wrappings; and when his wife had fed him, she ate after him.
+fn: Heading in the edition: the wife of a Vaiṣṇava honours the remnants of her Vaiṣṇava husband’s meal.
+
+## 36
+w: stones  sucked  those  wrappings  filling
+w: outside  into the pit for remnants  threw  taking
+tr: She filled the wrappings with the sucked stones, carried them outside and threw them into the pit for remnants.
+
+## 37
+w: those  wrappings  stones  skins  sucks  Kālidāsa
+w: sucking  sucking  comes  in love  jubilation
+tr: Kālidāsa sucked those wrappings, stones and skins, and as he went on, he grew ever more jubilant with divine love.
+fn: Heading in the edition: the most fortunate Kālidāsa, in great bliss, honours the remnants of a Vaiṣṇava’s meal, seeing them as transcendental.
+
+## 38
+w: in this way  as many  Vaiṣṇavas  live  in the land of Gauḍa
+w: Kālidāsa  thus  of all  took  the remnants
+tr: In this way Kālidāsa honoured the remnants of all the Vaiṣṇavas who lived in the land of Gauḍa.
