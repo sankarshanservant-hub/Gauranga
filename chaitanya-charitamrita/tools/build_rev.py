@@ -111,12 +111,14 @@ def build(ch, check=False):
         if k not in nums:
             raise SystemExit(f'нет блока {k}')
     # RU
-    out = [l for l in head if l.strip() and l.strip() != '(перевод Вриндавана Чандры даса)']
+    style = any(l.strip().startswith('(перевод выполнен в стиле') for l in head)   # Антья 16–19: у ВЧД нет, перевод наш
+    out = [l for l in head if l.strip() and l.strip() != '(перевод Вриндавана Чандры даса)' and not l.strip().startswith('(перевод выполнен в стиле')]
     if '0' in ru and ru['0']['tr']:   # заголовок главы — по колофону издания
         tl = [k for k, l in enumerate(out) if l.strip().startswith('**')]
         if tl: out[tl[0]] = f"**{ru['0']['tr']}**  "
         else: out.append(f"**{ru['0']['tr']}**  ")
-    out += ['(перевод Вриндавана Чандры даса; выверка по изд. Гаудия Матха и «Анубхашье», 2026 — проект)', '']
+    out += [('(перевод выполнен в стиле Вриндавана Чандры даса, 2026; выверка по изд. Гаудия Матха и «Анубхашье» — проект)' if style
+             else '(перевод Вриндавана Чандры даса; выверка по изд. Гаудия Матха и «Анубхашье», 2026 — проект)'), '']
     fnl = []; n = 1
     oldnotes = {re.match(r'\[\^([\d–-]+)\]', x).group(1): x.split(':', 1)[1].strip() for x in notes}
     for b in blocks:
