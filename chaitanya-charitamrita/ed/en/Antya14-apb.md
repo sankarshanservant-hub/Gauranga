@@ -32,6 +32,28 @@ Mahāprabhu said: “Craving Kṛṣṇa's sweetness, My mind gave up Vedic *dha
 
 Anxious thought, wakefulness, agitation, emaciation of the body, uncleanliness of the body, incoherent speech, sickness, madness, fainting and death — these are the ten states.
 
+## 68
+
+*Uttāna-nayana* — the eyes have rolled upward.
+
+## 73
+
+Once, in Kāśī Miśra's house, in separation from Kṛṣṇa, all the Lord's joints loosened, and His arms and legs grew longer. That Gaurāṅga who wept as He rolled on the ground, in a plaintive, faltering voice, utterly distraught, rises in my heart and maddens me.
+
+## 109
+
+*Kandarāte* — into a cave.
+
+## 114
+
+*Nipaṭṭa-bāhya haile* — when He came into “uncovered” external consciousness, that is, into full external consciousness.
+
+## 120
+
+Near Nīlācala Mahāprabhu saw Caṭaka-giri, a hill of sea sand, and with the words “I shall see Govardhana, the king of hills, in Vraja!” He ran off at great speed.[^120-1] That Gaurāṅgadeva, surrounded by the Vaiṣṇavas, rises in my heart and maddens me.
+
+*Thus ends the fourteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
+
 ---
 
 [^0-1]: Unclear passage: রাগোদয় may mean either “the awakening of *rāga* (burning love)” or, in its everyday Bengali sense, “anger, vexation.”
@@ -41,3 +63,5 @@ Anxious thought, wakefulness, agitation, emaciation of the body, uncleanliness o
 [^43-51-1]: The verse translation (44) reads differently: “the ring of Kṛṣṇa's Rāsa-līlā”; for Bhaktivinoda “the circle of Kṛṣṇa's pastimes” is the earrings of the Bhāgavatam.
 [^43-51-2]: So in the edition: together with the eight *sāttvika-vikāras*, thirteen states are named.
 [^43-51-3]: The verse translation (50) reads differently: “in the corner of a bower in one of Vṛndāvana's secluded groves”; for Bhaktivinoda the “empty” bower is a bower without Kṛṣṇa.
+
+[^120-1]: In the verse translation, otherwise: “I want to see Kṛṣṇa, the Lord of Govardhana, the king of hills, and so I shall go to Vṛndāvana!”
