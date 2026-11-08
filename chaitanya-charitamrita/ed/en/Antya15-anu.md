@@ -83,3 +83,27 @@ My five senses, drawn by Kṛṣṇa, are like five robbers, and they all plot t
 ## 28
 
 > Subheading: Feeling Himself a maidservant (*kiṅkarī*) of the *gopī*, the Lord sees Kṛṣṇa's pastimes everywhere and searches for Him —
+
+## 32
+
+> Subheading: Separated from Kṛṣṇa, the *gopīs* see everywhere Kṛṣṇa and all that belongs to Kṛṣṇa as living and conscious, and so they search for Kṛṣṇa (*udghūrṇā*); they ask every tree where Kṛṣṇa is — (*Śrīmad-Bhāgavatam* 10.30.9 and 7–8)
+
+While Bhagavān Śrī Kṛṣṇa was playing the *rāsa* with the *gopīs*, He suddenly disappeared. Unable to see Him, the *gopīs*, their minds wholly absorbed in Kṛṣṇa, set out to search for Him.
+
+**cūta-priyāla-panasāsana-kovidāra-jambv-arka-bilva-bakulāmra-kadamba-nīpāḥ** (they address the fruit trees and others growing nearby: “O *cūta*, O *priyāla*, O *kaṇṭaka* [*panasa*], O *pītaśāla* [*asana*], O *kovidāra*, O *jambu*, O *arka*, O *bilva*, O *bakula*, O mango, O *kadamba*, O *nīpa* — you”) **ye** **'nye** (and you other trees) **parārtha-bhavakāḥ** (whose birth is only for the sake of others) **yamunopakūlāḥ** (the trees that stand on the bank, at the water's edge of the Yamunā, the Kālindī) **rahitātmanām** (whose minds are empty) **naḥ** (to us) **kṛṣṇa-padavīm** (Kṛṣṇa's path) **śaṁsantu** (tell).
+
+## 33
+
+> Subheading: [The *gopīs*] ask Śrī Tulasī where Kṛṣṇa is —
+
+**kalyāṇi** (O fortunate one) **govinda-caraṇa-priye** (dear to Govinda's feet) **tulasi**, **ali-kulaiḥ** **saha** **tvā** (you) **bibhrat** **te** (your) **ati-priyaḥ** **acyutaḥ** (Govinda) **kaccit** **tvayā** **kiṁ** **dṛṣṭaḥ** (has He been seen by you?)
+
+## 34
+
+> Subheading: [The *gopīs*] ask the flowering plants where Kṛṣṇa is —
+
+**mālati**, **mallike**, **jāti**, **yūthike**, **kara-sparśena** **vaḥ** (your) **prītim** **janayan** **yātaḥ** (who has gone) **mādhavaḥ** **vaḥ** (by you) **kaccit** **adarśi** (was He seen)?
+
+## 35
+
+> Subheading: The meaning of the verses; the *gopīs*, wholly absorbed in Kṛṣṇa and separated from Him, search for Him and lament —

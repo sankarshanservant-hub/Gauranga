@@ -24,6 +24,18 @@ You may say, “Why don't you restrain your senses?” But, friend, how can I bl
 
 The hearts of all the women in the three worlds are indeed like high mountains, and a drop from a wave of the nectar-ocean of Kṛṣṇa's form drowns those high mountains. Kṛṣṇa's clever speech — His playful jests (*rasa-narma*, that is, *parihāsa*) — treats women so unfairly that words cannot describe it: entering women's ears, it binds them with the cords of its sweetness and pulls, and the ears lose their life. Kṛṣṇa's body is exceedingly cool; its cool rays defeat millions of moons and sandal paste. Kṛṣṇa's body is supremely skilled at drawing women's mountain-like breasts, and it attracts their minds. The fragrance of Kṛṣṇa's body destroys the pride of enchanting musk and of the blue lotus. It enters the nostrils of the women of the world, makes its home there and draws them. The nectar of Kṛṣṇa's lips, mixed with the camphor of His gentle smile, steals women's minds by its sweetness. It takes away their craving for everything but Kṛṣṇa; yet by its very nature it is hard to obtain, and when it cannot be had, the mind is thrown into turmoil. That nectar of His lips is the chief wealth of the women of Vraja.
 
+## 32
+
+O *cūta* (a kind of mango), *piyāla*, *kā̃ṭhāla* (jackfruit), *āsana*, *kovidāra*, *jambu*, *arka*, *bilva*, *bakula*, mango, *kadamba*, *nīpa* (a kind of *kadamba*) and other trees! O all you other trees who dwell on the banks of the Yamunā and care for the highest good [of others] (who have vowed to do good to others)! Tell us, who have lost our very selves (whose minds are empty), where Kṛṣṇa is.
+
+## 33
+
+O auspicious *tulasī*, dear to Govinda's feet! Acyuta loves you dearly. Did you see Kṛṣṇa pass by here, wearing you, with a swarm of bees around Him?
+
+## 34
+
+O *mālatī*, O *mallikā*, O *jāti*, O *yūthikā*! Did you see Kṛṣṇa pass by here, giving you joy with the touch of His hand?
+
 ---
 
 [^1-1]: The verse translation reads differently: the Lord plunged wholeheartedly into this ocean in order to display the various aspects of its boundless glory (it does not say that His heart now sank and now rose to the surface).
