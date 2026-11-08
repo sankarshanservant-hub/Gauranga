@@ -1,6 +1,6 @@
 ## 80
 
-***Dalai*** — a doorkeeper.
+**dalai** — a doorkeeper.
 
 ## 87
 
