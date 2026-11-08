@@ -72,6 +72,38 @@ See Madhya 24.48.
 
 *Lakṣmī*: the mark of a golden line on the left side of the chest; *Śrīvatsa*: the Śrīvatsa mark on the right side of the chest, or a curl of hair turning to the right[^74-1].
 
+## 76
+
+*Veṇāmūla*: the fragrant *khaskhas* root (vetiver).
+
+## 77
+
+> Subheading: The Lord, in separation from Kṛṣṇa, recites a verse —
+
+## 78
+
+> Subheading: Śrī Rādhā's thirst to see Kṛṣṇa — (Govinda-līlāmṛta 8.7: Śrī Rādhā's words to Viśākhā)
+
+**sakhi** (O friend!) **hariṇ-maṇi-kavāṭikā-pratata-hāri-vakṣaḥ-sthalaḥ** (whose chest by its very nature surpasses [literally, “steals”] the breadth [*pratati*, expanse] of a door made of *harin-maṇi*, sapphires of the *indranīla* kind)[^78-1] **smarārta-taruṇī-manaḥ-kaluṣa-hāri-dor-argalaḥ** (whose bolt-like arms remove the turmoil of mind, the mental fever, of young maidens tormented by Smara [Madana]) **sudhāṁśu-hari-candanotpala-sitābhra-śītāṅgakaḥ** (whose body is cooler even than the moon [*sudhāṁśu*, the moon], *hari-candana*, the *utpala* [the *kuvalaya*, the lotus] and camphor [*sitābhra*, camphor]) **madana-mohanaḥ** **me** (My) **vakṣaḥ-spṛhām** (the longing of the breast) **tanoti** (increases).
+
+## 79
+
+> Subheading: The lament of the Lord, deprived of the sight of Kṛṣṇa —
+
+## 81
+
+> Subheading: Kṛṣṇa, the Lord bound by the *gopīs'* love, vanishes from the *rāsa* dance — (Śrīmad-Bhāgavatam 10.29.48)
+
+The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa's *rāsa-līlā* to Parīkṣit, who is eager to hear —
+
+**keśavaḥ** (Kṛṣṇa, who brings under His control *ka* and *īśa*, Brahmā and Śiva) **tāsām** (of the *gopīs*) **tat-saubhaga-madam** (their pride rooted in their good fortune) **mānam** (haughtiness) **ca** (and) **vīkṣya** (seeing), **tasya** (of it) **praśamāya** (to quell) (**prasādāya**, and to show grace) **tatra** (at the site of the *rāsa*) **eva** (right) **antaradhīyata** (vanished).
+
+## 82
+
+> Subheading: The Lord asks Svarūpa to sing —
+
+*Saṁvit*: a distraught mind regaining steady awareness.
+
 ---
 
 [^63-1]: The verse translation reads differently: an elegant pearl necklace.
@@ -79,3 +111,5 @@ See Madhya 24.48.
 [^63-2]: The verse translation reads differently: He is so enchantingly beautiful that even the god of love is charmed by Him.
 
 [^74-1]: The verse translation reads differently: the Śrīvatsa mark (the abode of Lakṣmī) adorns Kṛṣṇa's chest.
+
+[^78-1]: The verse translation reads differently: Kṛṣṇa's broad chest resembles a beautiful door of sapphires.
