@@ -74,7 +74,7 @@ My five senses, drawn by Kṛṣṇa, are like five robbers, and they all plot t
 
 ## 26
 
-> Subheading: Svarūpa and Rāmarāya console the Lord in His separation —
+> Subheading: Svarūpa and Rāma Rāya console the Lord in His separation —
 
 ## 27
 
