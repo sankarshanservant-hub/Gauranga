@@ -304,7 +304,7 @@ If one reveals to someone else the *mantra* received from Śrī Gurudeva, the *m
 
 > Subheading: (*Stavāvalī*, *Caitanya-stava-kalpavṛkṣa*, verse 7)
 
-**he sakhe**, **me** (My) **kāntaḥ** (Kṛṣṇa) **kva** (where)? **tvam eva** **iha** (in this place, or at this time) **taṁ** (the beloved Kṛṣṇa) **tvaritam** (quickly) **lokaya** (show) — **iti** (with such words) **unmadaḥ** (maddened) **iva** **dvārādhipam** **abhivadan** (saying); **priyam** (Kṛṣṇa) **draṣṭum** **drutam** **gaccha** (come [with me]) — **tad-uktena** (at these words of the doorkeeper) **dhṛta-tad-bhujāntaḥ** (He who took the end of his arm, that is, his hand) **gaurāṅgaḥ** **mama** **hṛdaye** **udayan** **mām** **madayati** (fills with bliss).[^87-1]
+**he sakhe**, **me** (My) **kāntaḥ** (Kṛṣṇa) **kva** (where)? **tvam eva** **iha** (in this place, or at this time) **taṁ** (the beloved Kṛṣṇa) **tvaritam** (quickly) **lokaya** (show) — **iti** (with such words) **unmadaḥ** (maddened) **iva** **dvārādhipam** **abhivadan** (saying); **priyam** (Kṛṣṇa) **draṣṭum** **drutam** **gaccha** (come [with me]) — **tad-uktena** (at these words of the doorkeeper) **dhṛta-tad-bhujāntaḥ** (He who took the end of his arm, that is, his hand) **gaurāṅgaḥ** **mama** **hṛdaye** **udayan** **mām** **madayati** (fills with bliss).
 
 ## 88
 
@@ -524,4 +524,3 @@ Some said to others: **gopyaḥ** (O *gopīs*), **ayam** **veṇuḥ** **kim** *
 
 [^7-1]: The edition reads “*Bhāg.* 1.18.38–41”; the places assigned to Kali (gambling, intoxication, and so on) are listed in *Śrīmad-Bhāgavatam* 1.17.38–41.
 
-[^87-1]: The verse translation reads differently: “drives me mad.”
