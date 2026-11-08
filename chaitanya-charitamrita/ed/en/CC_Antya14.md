@@ -321,81 +321,101 @@ her  by the grace  such  eagerness  in Me  may  arise
 জগন্নাথে দেখি — সাক্ষাৎ ব্রজেন্দ্রনন্দন ॥ ৩১ ॥
 
 pūrve āmi yabe kailuṅ jagannātha daraśana  
-jagannāthe dekhi — sākṣāt vrajendra-nandana
+before  I  when  made  Jagannātha’s  darśana  
+jagannāthe dekhi — sākṣāt vrajendra-nandana  
+in Jagannātha  I saw  directly  of the king of Vraja  the son
 
-(31) [not yet translated]
+(31) Before, when I looked at Jagannātha, I saw in Jagannātha the son of the king of Vraja Himself.
 
 স্বপ্নের দর্শনাবেশে তদ্রূপ হৈল মন ৷  
 যাঁহা তাঁহা দেখি সর্ব্বত্র মুরলী-বদন ॥ ৩২ ॥
 
 svapnera darśanāveśe tad-rūpa haila mana  
-yāṅhā tāṅhā dekhi sarvatra muralī-vadana
+of the dream  in absorption in the vision  like that  became  the mind  
+yāṅhā tāṅhā dekhi sarvatra muralī-vadana  
+wherever  I looked  everywhere  the One with the flute at His lips
 
-(32) [not yet translated]
+(32) Absorbed in what I saw in the dream, My mind stayed in that state, and wherever I looked I saw everywhere the One with the flute at His lips.”[^32-1]
 
 এবে যদি স্ত্রীরে দেখি’ প্রভুর বাহ্য হৈল ৷  
 জগন্নাথ-সুভদ্রা-বলরামের স্বরূপ দেখিল ॥ ৩৩ ॥
 
 ebe yadi strīre dekhi’ prabhura bāhya haila  
-jagannātha-subhadrā-balarāmera svarūpa dekhila
+now  when  the woman  seeing  the Lord’s  external consciousness  came  
+jagannātha-subhadrā-balarāmera svarūpa dekhila  
+of Jagannātha  Subhadrā  and Balarāma  the forms  He saw
 
-(33) [not yet translated]
+(33) Now, when on seeing the woman the Lord came to external consciousness, He saw the forms of Jagannātha, Subhadrā and Balarāma.
 
 কুরুক্ষেত্রে দেখি’ কৃষ্ণে ঐছে হৈল মন ৷  
 কাঁহা কুরুক্ষেত্রে আইলাঙ, কাঁহা বৃন্দাবন ? ॥ ৩৪ ॥
 
 kurukṣetre dekhi’ kṛṣṇe aiche haila mana  
-kāṅhā kurukṣetre āilāṅa, kāṅhā vṛndāvana?
+at Kurukṣetra  seeing  Kṛṣṇa  so  became  His mind  
+kāṅhā kurukṣetre āilāṅa, kāṅhā vṛndāvana?  
+where  to Kurukṣetra  I have come  where  Vṛndāvana
 
-(34) [not yet translated]
+(34) His mind became like that of one who sees Kṛṣṇa at Kurukṣetra: “Where have I come — to Kurukṣetra! And where is Vṛndāvana?”
 
 প্রাপ্তরত্ন হারাঞা ঐছে ব্যগ্র হইলা ৷  
 বিষণ্ণ হঞা প্রভু নিজ-বাসা আইলা ॥ ৩৫ ॥
 
 prāpta-ratna hārāñā aiche vyagra hailā  
-viṣaṇṇa hañā prabhu nija-vāsā āilā
+a found jewel  losing  so  agitated  He became  
+viṣaṇṇa hañā prabhu nija-vāsā āilā  
+dejected  becoming  the Lord  to His own  residence  came
 
-(35) [not yet translated]
+(35) Like one who has lost a jewel he had found, He became agitated, and the Lord came back, dejected, to His residence.
 
 ভূমির উপর বসি’ নিজ-নখে ভূমি লিখে ৷  
 অশ্রু-গঙ্গা নেত্রে বহে, কিছুই না দেখে ॥ ৩৬ ॥
 
 bhūmira upara vasi’ nija-nakhe bhūmi likhe  
-aśru-gaṅgā netre vahe, kichui nā dekhe
+the ground  upon  sitting  with His own nails  the ground  He scratches  
+aśru-gaṅgā netre vahe, kichui nā dekhe  
+a Ganges of tears  from the eyes  flows  anything  not  He sees
 
-(36) [not yet translated]
+(36) Sitting on the ground, He scratched the ground with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
 
 পাইনু বৃন্দাবননাথ, পুনঃ হারাইনু ৷  
 কে মোর নিলেক কৃষ্ণ? কাঁহা মুই আইনু ? ॥ ৩৭ ॥
 
 pāinu vṛndāvana-nātha, punaḥ hārāinu  
-ke mora nileka kṛṣṇa? kāṅhā mui āinu?
+I found  of Vṛndāvana  the Lord  again  I lost  
+ke mora nileka kṛṣṇa? kāṅhā mui āinu?  
+who  My  has taken  Kṛṣṇa  where  I  have come
 
-(37) [not yet translated]
+(37) “I found the Lord of Vṛndāvana, and I have lost Him again! Who has taken My Kṛṣṇa? Where have I come?”
 
 স্বপ্নাবেশে প্রেমে প্রভুর গর গর মন ৷  
 বাহ্য হৈলে হয়, — যেন হারাইল ধন ॥ ৩৮ ॥
 
 svapnāveśe preme prabhura gara gara mana  
-bāhya haile haya, — yena hārāila dhana
+in absorption in the dream  with love  the Lord’s  overflowing  mind  
+bāhya haile haya, — yena hārāila dhana  
+external consciousness  when it comes  it is  as if  He lost  a treasure
 
-(38) [not yet translated]
+(38) Absorbed in the dream, the Lord’s mind overflowed with love; when external consciousness returned, it was as if He had lost a treasure.
 
 উন্মত্তের প্রায় প্রভু করেন গান-নৃত্য ৷  
 দেহের স্বভাবে করেন স্নান-ভোজন-কৃত্য ॥ ৩৯ ॥
 
 unmattera prāya prabhu karena gāna-nṛtya  
-dehera svabhāve karena snāna-bhojana-kṛtya
+a madman  like  the Lord  does  singing  dancing  
+dehera svabhāve karena snāna-bhojana-kṛtya  
+of the body  by the nature  He does  bathing  eating  duties
 
-(39) [not yet translated]
+(39) Like a madman the Lord sang and danced; He bathed and ate only by the habit of the body.
 
 রাত্রি হৈলে স্বরূপ-রামানন্দে লঞা ৷  
 আপন মনের ভাব কহে উঘাড়িয়া ॥ ৪০ ॥
 
 rātri haile svarūpa-rāmānande lañā  
-āpana manera bhāva kahe ughāḍiyā
+night  when it came  Svarūpa  and Rāmānanda  taking  
+āpana manera bhāva kahe ughāḍiyā  
+His own  heart’s  feelings  He tells  opening
 
-(40) [not yet translated]
+(40) When night came, He would sit with Svarūpa and Rāmānanda and open to them the feelings of His heart.
 
 প্রাপ্তপ্রণষ্টাচ্যুতবিত্ত আত্মা  
 যয়ৌ বিষাদোজ্ঝিত-দেহগেহঃ ৷  
@@ -403,11 +423,15 @@ rātri haile svarūpa-rāmānande lañā
 বৃন্দাবনং সেন্দ্রিয়শিষ্যবৃন্দঃ ॥ ৪১ ॥
 
 prāpta-praṇaṣṭācyuta-vitta ātmā  
+having found  having lost  Acyuta  the wealth  My mind  
 yayau viṣādojjhita-deha-gehaḥ  
+went  out of grief  abandoning  the body  the house  
 gṛhīta-kāpālika-dharmako me  
-vṛndāvanaṁ sendriya-śiṣya-vṛndaḥ
+having taken up  a kāpālika’s  ways  My  
+vṛndāvanaṁ sendriya-śiṣya-vṛndaḥ  
+to Vṛndāvana  with the senses  the disciples  the band
 
-(41) [not yet translated]
+(41) “My mind found the wealth of Acyuta and lost it again. In its grief it abandoned its house, the body, took up the ways of a *kāpālika* yogī, and went off to Vṛndāvana with its band of disciples, the senses.”
 
 প্রাপ্তরত্ন হারাঞা,  তার গুণ সঙরিয়া,  
 মহাপ্রভু সন্তাপে বিহ্বল ৷  
@@ -415,24 +439,34 @@ vṛndāvanaṁ sendriya-śiṣya-vṛndaḥ
 ধৈর্য্য গেল, হইলা চপল ॥ ৪২ ॥
 
 prāptaratna hārāñā,  
+a found jewel  having lost  
 tāra guṇa saṅariyā,  
+its  qualities  remembering  
 mahāprabhu santāpe vihvala  
+Mahāprabhu  with anguish  overwhelmed  
 rāya-svarūpera kaṇṭha dhari’,  
+of Rāya and Svarūpa  the necks  clasping  
 kahe hāhā ‘hari’ ‘hari’,  
-dhairya gela, hailā capala
+He says  alas  Hari  Hari  
+dhairya gela, hailā capala  
+composure  went  He became  restless
 
-(42) [not yet translated]
+(42) Having lost the jewel He had found and remembering its qualities, Mahāprabhu was overwhelmed with anguish. Clasping Rāya and Svarūpa by the neck, He cried, “Alas! Hari! Hari!” His composure gone, He became restless.
 
 শুন, বান্ধব, কৃষ্ণের মাধুরী ৷  
 যার লোভে মোর মন, ছাড়ি’ লোক-বেদধর্ম্ম,  
 যোগী হঞা হইল ভিখারী ॥ ৪৩ ॥
 
 śuna, bāndhava, kṛṣṇera mādhurī  
+hear  friends  of Kṛṣṇa  the sweetness  
 yāra lobhe mora mana,  
+for which  in greed  My  mind  
 chāḍi’ loka-veda-dharma,  
-yogī hañā haila bhikhārī
+giving up  of society  of the Vedas  the duties  
+yogī hañā haila bhikhārī  
+a yogī  becoming  became  a beggar
 
-(43) [not yet translated]
+(43) “Hear, My friends, of Kṛṣṇa’s sweetness! Craving it, My mind has given up the duties of society and of the Vedas, become a yogī and turned beggar.
 
 কৃষ্ণলীলা-মণ্ডল, শুদ্ধ শঙ্খকুণ্ডল,  
 গড়িয়াছে শুক কারিকর ৷  
@@ -440,13 +474,19 @@ yogī hañā haila bhikhārī
 আশা-ঝুলি কান্ধের উপর ॥ ৪৪ ॥
 
 kṛṣṇa-līlā-maṇḍala,  
+of Kṛṣṇa’s pastimes  the circle  
 śuddha śaṅkha-kuṇḍala,  
+pure  conch-shell  earrings  
 gaḍiyāche śuka kārikara  
+has fashioned  Śuka  the craftsman  
 sei kuṇḍala kāṇe pari’,  
+those  earrings  in the ears  wearing  
 tṛṣṇā-lāu-thālī dhari’,  
-āśā-jhuli kāndhera upara
+of thirst  the gourd  bowl  holding  
+āśā-jhuli kāndhera upara  
+of hope  the bag  the shoulder  upon
 
-(44) [not yet translated]
+(44) The circle of Kṛṣṇa’s pastimes is its pure conch-shell earrings, fashioned by the craftsman Śuka. Wearing those earrings, holding the gourd-bowl of thirst, with the bag of hope over its shoulder,
 
 চিন্তা-কান্থা উড়ি’ গায়, ধূলি-বিভূতি-মলিন-কায়,  
 ‘হাহা কৃষ্ণ’ প্রলাপ-উত্তর ৷  
@@ -454,13 +494,19 @@ tṛṣṇā-lāu-thālī dhari’,
 ভিক্ষাভাবে ক্ষীণ কলেবর ॥ ৪৫ ॥
 
 cintā-kānthā uḍi’ gāya,  
+of anxiety  the patched quilt  wrapping  about the body  
 dhūli-vibhūti-malina-kāya,  
+with dust  ash  soiled  body  
 ‘hāhā kṛṣṇa’ pralāpa-uttara  
+alas  Kṛṣṇa  raving  the answer  
 udvega dvādaśa hāte,  
+agitation  twelve (bangles)  on the arm  
 lobhera jhuli nila māthe,  
-bhikṣābhāve kṣīṇa kalevara
+of greed  the bag  it took  on the head  
+bhikṣābhāve kṣīṇa kalevara  
+for lack of alms  thin  the body
 
-(45) [not yet translated]
+(45) wrapped in the patched quilt of anxiety, its body soiled with dust and ash, it answers everything with the raving cry, “Alas, Kṛṣṇa!” The twelve bangles of agitation are on its arm, the bag of longing is on its head, and for lack of alms its body has grown thin.
 
 ব্যাস, শুকাদি যোগিগণ, কৃষ্ণ আত্মা নিরঞ্জন,  
 ব্রজে তাঁর যত লীলাগণ ৷  
@@ -468,13 +514,19 @@ bhikṣābhāve kṣīṇa kalevara
 সেই তর্জ্জা পড়ে অনুক্ষণ ॥ ৪৬ ॥
 
 vyāsa, śukādi yogi-gaṇa,  
+Vyāsa  Śuka and the other  yogīs  
 kṛṣṇa ātmā nirañjana,  
+Kṛṣṇa  the Self  stainless  
 vraje tāṅra yata līlā-gaṇa  
+in Vraja  His  all  the pastimes  
 bhāgavatādi śāstra-gaṇe,  
+in the Bhāgavata and other  scriptures  
 kariyāche varṇane,  
-sei tarjā paḍe anukṣaṇa
+have made  description  
+sei tarjā paḍe anukṣaṇa  
+those  songs  it recites  constantly
 
-(46) [not yet translated]
+(46) The yogīs Vyāsa, Śuka and others have described in the Bhāgavata and the other scriptures all the pastimes in Vraja of Kṛṣṇa, the stainless Self; those songs (*tarjā*) it recites constantly.
 
 দশেন্দ্রিয়ে শিষ্য করি’, ‘মহা-বাউল’ নাম ধরি’,  
 শিষ্য লঞা করিল গমন ৷  
@@ -482,13 +534,19 @@ sei tarjā paḍe anukṣaṇa
 সব ছাড়ি’ গেলা বৃন্দাবন ॥ ৪৭ ॥
 
 daśendriye śiṣya kari’,  
+the ten senses  disciples  making  
 ‘mahā-bāula’ nāma dhari’,  
+Mahā-bāul  the name  taking  
 śiṣya lañā karila gamana  
+the disciples  taking  it made  departure  
 mora deha sva-sadana,  
+My  body  its own  home  
 viṣaya-bhoga mahādhana,  
-saba chāḍi’ gelā vṛndāvana
+sense enjoyment  the great wealth  
+saba chāḍi’ gelā vṛndāvana  
+all  leaving  it went  to Vṛndāvana
 
-(47) [not yet translated]
+(47) Making the ten senses its disciples and taking the name “Mahā-bāul”, it set off with its disciples. Leaving everything — its own home, My body, and the great wealth of sense enjoyment — it went to Vṛndāvana.
 
 বৃন্দাবনে প্রজাগণ, যত স্থাবর-জঙ্গম,  
 বৃক্ষ-লতা গৃহস্থ-আশ্রমে ৷  
@@ -496,13 +554,19 @@ saba chāḍi’ gelā vṛndāvana
 এই বৃত্তি করে শিষ্যসনে ॥ ৪৮ ॥
 
 vṛndāvane prajā-gaṇa,  
+in Vṛndāvana  the subjects  
 yata sthāvara-jaṅgama,  
+all  the stationary  and moving  
 vṛkṣa-latā gṛhastha-āśrame  
+trees  creepers  in the householder  order  
 tāra ghare bhikṣāṭana,  
+in their  homes  begging  
 phala-mūla-patrāśana,  
-ei vṛtti kare śiṣya-sane
+fruits  roots  leaves  eating  
+ei vṛtti kare śiṣya-sane  
+this  livelihood  it follows  with the disciples
 
-(48) [not yet translated]
+(48) The subjects of Vṛndāvana — all beings, stationary and moving, the trees and creepers — live as householders. It begs in their homes and eats fruits, roots and leaves; this is how it lives with its disciples.
 
 কৃষ্ণ-গুণ, রূপ, রস, গন্ধ, শব্দ, পরশ,  
 সে সুধা আস্বাদে গোপীগণ ৷  
@@ -510,13 +574,19 @@ ei vṛtti kare śiṣya-sane
 সে ভিক্ষায় রাখেন জীবন ॥ ৪৯ ॥
 
 kṛṣṇa-guṇa, rūpa, rasa,  
+Kṛṣṇa’s  qualities  form  taste  
 gandha, śabda, paraśa,  
+fragrance  sound  touch  
 se sudhā āsvāde gopī-gaṇa  
+that  nectar  relish  the gopīs  
 tā-sabāra grāsa-śeṣe,  
+of them all  of the mouthfuls  in the remnants  
 āni’ pañcendriya śiṣye,  
-se bhikṣāya rākhena jīvana
+bringing  the five senses  the disciples  
+se bhikṣāya rākhena jīvana  
+by those  alms  they sustain  life
 
-(49) [not yet translated]
+(49) The *gopīs* relish the nectar of Kṛṣṇa’s qualities, form, taste, fragrance, sound and touch. The disciples, the five senses, bring the remnants of their meal, and on those alms they sustain their lives.
 
 শূন্যকুঞ্জমণ্ডপ-কোণে, যোগাভ্যাস কৃষ্ণধ্যানে,  
 তাঁহা রহে লঞা শিষ্যগণ ৷  
@@ -524,13 +594,19 @@ se bhikṣāya rākhena jīvana
 ধ্যানে রাত্রি করে জাগরণ ॥ ৫০ ॥
 
 śūnya-kuñja-maṇḍapa-koṇe,  
+empty  bower  pavilion  in a corner  
 yogābhyāsa kṛṣṇa-dhyāne,  
+yoga practice  on Kṛṣṇa  in meditation  
 tāṅhā rahe lañā śiṣya-gaṇa  
+there  it stays  with  the disciples  
 kṛṣṇa ātmā nirañjana,  
+Kṛṣṇa  the Self  stainless  
 sākṣāt dekhite mana,  
-dhyāne rātri kare jāgaraṇa
+directly  to see  the mind (longs)  
+dhyāne rātri kare jāgaraṇa  
+in meditation  the nights  it spends  awake
 
-(50) [not yet translated]
+(50) In the corner of an empty bower-pavilion it stays with its disciples, practising yoga in meditation on Kṛṣṇa. Longing to see Kṛṣṇa, the stainless Self, face to face, it stays awake all night in meditation.
 
 মন কৃষ্ণবিয়োগী, দুঃখে মন হৈল যোগী,  
 সে বিয়োগে দশ দশা হয় ৷  
@@ -538,87 +614,113 @@ dhyāne rātri kare jāgaraṇa
 শূন্য মোর শরীর আলয় ॥ ৫১ ॥
 
 mana kṛṣṇa-viyogī,  
+the mind  from Kṛṣṇa  separated  
 duḥkhe mana haila yogī,  
+in sorrow  the mind  became  a yogī  
 se viyoge daśa daśā haya  
+in that  separation  ten  states  arise  
 se daśāya vyākula hañā,  
+by those  states  distraught  becoming  
 mana gela palāñā,  
-śūnya mora śarīra ālaya
+the mind  went  fleeing  
+śūnya mora śarīra ālaya  
+empty  My  body  the dwelling
 
-(51) [not yet translated]
+(51) Separated from Kṛṣṇa, My mind became a yogī in its sorrow, and in that separation the ten states arose. Distraught in those states, the mind fled away, and My body, its dwelling, stands empty.”
 
 কৃষ্ণের বিয়োগে গোপীর দশ দশা হয় ৷  
 সেই দশ দশা হয় প্রভুর উদয় ॥ ৫২ ॥
 
 kṛṣṇera viyoge gopīra daśa daśā haya  
-sei daśa daśā haya prabhura udaya
+Kṛṣṇa  in separation from  of the gopīs  ten  states  arise  
+sei daśa daśā haya prabhura udaya  
+those  ten  states  are  in the Lord  arisen
 
-(52) [not yet translated]
+(52) In separation from Kṛṣṇa ten states arise in the *gopīs*; those same ten states arose in the Lord.
 
 চিন্তাত্র জাগরোদ্বেগৌ তানবং মলিনাঙ্গতা ৷  
 প্রলাপো ব্যাধিরুন্মাদো মোহো মৃত্যুর্দ্দশা দশ ॥ ৫৩ ॥
 
 cintātra jāgarodvegau  
+anxious thought  here  sleeplessness  agitation  
 tānavaṁ malināṅgatā  
+emaciation  uncleanliness of body  
 pralāpo vyādhir unmādo  
-moho mṛtyur daśā daśa
+incoherent talk  disease  madness  
+moho mṛtyur daśā daśa  
+fainting  death  states  ten
 
-(53) [not yet translated]
+(53) “Here the ten states are anxious thought, sleeplessness, agitation, emaciation, uncleanliness of body, incoherent talk, disease, madness, fainting and death.” (Ujjvala-nīlamaṇi 15.167)
 
 এই দশ-দশায় প্রভু ব্যাকুল রাত্রিদিনে ৷  
 কভু কোন দশা উঠে, স্থির নহে মনে ॥ ৫৪ ॥
 
 ei daśa-daśāya prabhu vyākula rātridine  
-kabhu kona daśā uṭhe, sthira nahe mane
+by these  ten states  the Lord  distraught  night and day  
+kabhu kona daśā uṭhe, sthira nahe mane  
+sometimes  some  state  arises  steady  not  in mind
 
-(54) [not yet translated]
+(54) Night and day the Lord was distraught by these ten states: now one state would arise, now another, and His mind found no rest.
 
 এত কহি’ মহাপ্রভু মৌন করিলা ৷  
 রামানন্দ-রায় শ্লোক পড়িতে লাগিলা ॥ ৫৫ ॥
 
 eta kahi’ mahāprabhu mauna karilā  
-rāmānanda-rāya śloka paḍite lāgilā
+this  having said  Mahāprabhu  silence  kept  
+rāmānanda-rāya śloka paḍite lāgilā  
+Rāmānanda Rāya  verses  to recite  began
 
-(55) [not yet translated]
+(55) Having said this, Mahāprabhu fell silent, and Rāmānanda Rāya began to recite verses.
 
 স্বরূপ-গোসাঞি করে কৃষ্ণলীলা গান ৷  
 দুই জনে কিছু কৈলা প্রভুর বাহ্য জ্ঞান ॥ ৫৬ ॥
 
 svarūpa-gosāñi kare kṛṣṇa-līlā gāna  
-dui jane kichu kailā prabhura bāhya jñāna
+Svarūpa Gosāñi  does  of Kṛṣṇa’s pastimes  singing  
+dui jane kichu kailā prabhura bāhya jñāna  
+the two  persons  somewhat  made  the Lord’s  external  awareness
 
-(56) [not yet translated]
+(56) Svarūpa Gosāñi sang of Kṛṣṇa’s pastimes, and together the two brought the Lord somewhat back to external awareness.
 
 এইমত অর্দ্ধরাত্রি কৈলা নির্যাপণ ৷  
 ভিতর-প্রকোষ্ঠে প্রভুরে করাইলা শয়ন ॥ ৫৭ ॥
 
 ei-mata ardha-rātri kailā niryāpaṇa  
-bhitara-prakoṣṭhe prabhure karāilā śayana
+in this way  half the night  they made  pass  
+bhitara-prakoṣṭhe prabhure karāilā śayana  
+in the inner  room  the Lord  they made  lie down
 
-(57) [not yet translated]
+(57) In this way they passed half the night, and then they had the Lord lie down in the inner room.
 
 রামানন্দ-রায় তবে গেলা নিজ ঘরে ৷  
 স্বরূপ-গোবিন্দ দুঁহে শুইলেন দ্বারে ॥ ৫৮ ॥
 
 rāmānanda-rāya tabe gelā nija ghare  
-svarūpa-govinda duṅhe śuilena dvāre
+Rāmānanda Rāya  then  went  to his own  house  
+svarūpa-govinda duṅhe śuilena dvāre  
+Svarūpa  Govinda  both  lay down  at the door
 
-(58) [not yet translated]
+(58) Rāmānanda Rāya then went home, and Svarūpa and Govinda both lay down at the door.
 
 সব রাত্রি মহাপ্রভু করে জাগরণ ৷  
 উচ্চ করি’ কহে কৃষ্ণনামসঙ্কীর্ত্তন ॥ ৫৯ ॥
 
 saba rātri mahāprabhu kare jāgaraṇa  
-ucca kari’ kahe kṛṣṇa-nāma-saṅkīrtana
+all  night  Mahāprabhu  does  keeping awake  
+ucca kari’ kahe kṛṣṇa-nāma-saṅkīrtana  
+loudly  making  He utters  of Kṛṣṇa’s  names  saṅkīrtana
 
-(59) [not yet translated]
+(59) Mahāprabhu stayed awake all night, loudly chanting the names of Kṛṣṇa.
 
 শব্দ না পাঞা স্বরূপ কপাট কৈলা দূরে ৷  
 তিনদ্বার দেওয়া আছে, প্রভু নাহি ঘরে ॥ ৬০ ॥
 
 śabda nā pāñā svarūpa kapāṭa kailā dūre  
-tinadvāra deoyā āche, prabhu nāhi ghare
+sound  not  getting  Svarūpa  the door  moved  away  
+tinadvāra deoyā āche, prabhu nāhi ghare  
+the three doors  shut  are  the Lord  not  in the room
 
-(60) [not yet translated]
+(60) Hearing no sound, Svarūpa opened the door: the three doors were still shut, yet the Lord was not in the room.
 
 চিন্তিত হইল সবে প্রভুরে না দেখিয়া ৷  
 প্রভু চাহি’ বুলে সবে ব্যাকুল হঞা ॥ ৬১ ॥
@@ -1282,6 +1384,8 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 (123) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
 
 ---
+
+[^32-1]: Verses 28–32 are the Lord’s words, as in the Gauḍīya Maṭha edition (the quotation closes after verse 32). Some editions read verse 31 as *pūrve āsi’ yabe … jagannāthe dekhe*, which makes verses 31–32 the narrator’s account.
 
 [^74-1]: *Kyā kara, kibā* is Hindustani (*keyā karo, keṁo*): “What are you doing? Why?” (*Anubhāṣya*). In half-external consciousness, the Lord asks why people have gathered around Him.
 
