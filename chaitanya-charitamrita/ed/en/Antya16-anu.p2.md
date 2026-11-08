@@ -170,6 +170,82 @@ During the *rāsa* dance Kṛṣṇa suddenly disappeared. The *gopīs*, whose v
 
 **dhṛṣṭa-rāya** — bold, or foremost among the impudent.
 
+## 124
+
+> Subheading: Śrī Rādhā's jealousy of Kṛṣṇa's flute —
+
+## 127
+
+> Subheading: The fruit of the flute and the lip-nectar using force together —
+
+## 128
+
+**nīvi** — the sash, the cord that holds the garment; **khasāya** — loosens.
+
+## 129
+
+> Subheading: Śrī Rādhā and the other *gopīs* keep silent —
+
+## 130
+
+> Subheading: Explanation of the second verse; the glory of the nectar of Kṛṣṇa's lips —
+
+**melā** — meeting.
+
+## 131
+
+**pātiyāya** — believes.
+
+## 132
+
+**ālabāṭī** — a *bāṭī* (bowl) for *āla* (saliva), a spittoon.
+
+## 133
+
+**kuṭināṭi** — deceit; **paripāṭī** — artistry, skill, cunning.
+
+## 134
+
+> Subheading: The Lord's longing —
+
+## 135
+
+> Subheading: The Lord glorifies the supreme greatness of the nectar of Kṛṣṇa's lips —
+
+## 139
+
+> Subheading: At the Lord's command, Rāya recites a verse —
+
+## 140
+
+> Subheading: The *gopīs* praise the flute, which delights in the touch of Kṛṣṇa's lips — (*Śrīmad-Bhāgavatam*, canto 10, chapter 21, verse 9)
+
+When autumn came to Vraja, Śrī Kṛṣṇa herded the cows in the forest and played His flute. The *gopīs*, longing for Kṛṣṇa's company, wandered here and there singing His enchanting qualities, and thus describe the good fortune of Kṛṣṇa's flute:
+
+Some said to others: **gopyaḥ** (O *gopīs*), **ayam** **veṇuḥ** **kim** **kuśalam** (pious deed) **ācarat** (performed) **sma**, **yat** (so that) **gopikānām** (though it is for the *gopīs* alone to enjoy) **dāmodarādhara-sudhām** (the nectar of Kṛṣṇa's lips) **svayam** (of its own accord) **avaśiṣṭa-rasam** (so that only a remnant of the taste is left) **bhuṅkte**? **hradinyaḥ** (the rivers by whose water it was nourished — like mothers to it) **hṛṣyat-tvacaḥ** (their hair stands on end with delight: in the guise of clusters of blossoming lotuses they appear thrilled); **āryāḥ** ([as] the elders of a family, seeing a servant of the Lord in their own line, thrill and shed tears, so too) **taravaḥ** (the trees in whose line it was born) **aśru** (tears of bliss — in the guise of streams of honey) **mumucuḥ**.
+
+## 141
+
+> Subheading: Absorbed in *bhāva*, the Lord explains [the verse] in *pralāpa* —
+
+## 142
+
+> Subheading: The meaning of the verse; seeing the good fortune of the flute that drinks the nectar of Kṛṣṇa's lips, the *gopīs* speak with jealousy — and yet in praise (*citra-jalpa*) —
+
+## 144
+
+**ye kaila amṛta-mudā** — according to some, that which by the power of its sweetness covers (surpasses) even nectar.
+
+## 148
+
+**madhu-miṣe** — in the guise of streams of honey (see Śrīdhara Svāmī's commentary).
+
+## 150
+
+> Subheading: The Lord's madness of love for Kṛṣṇa in the mood of a *gopī* —
+
+*Thus ends the sixteenth chapter of the “Anubhāṣya.”*
+
 ---
 
 [^87-1]: The verse translation reads differently: “drives me mad.”
