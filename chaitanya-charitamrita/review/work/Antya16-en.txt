@@ -183,7 +183,7 @@ tr: When the Ṭhākura had seen him off and returned home, Kālidāsa went to t
 ## 32
 w: that  dust  taking  Kālidāsa  all over his body  smeared
 w: him  near  in one place  hiding  stayed
-tr: Kālidāsa took that dust and smeared it all over his body, and then he hid near Jhaḍu’s house.
+tr: He gathered up that dust, smeared it all over his body, and then hid near Jhaḍu’s house.
 
 ## 33
 w: Jhaḍu  Ṭhākura  home  going  seeing  the mangoes
@@ -200,7 +200,7 @@ fn: *Anubhāṣya*: *pāṭuyā-kholā* — leaves and bark; *nikāśiyā* — t
 ## 35
 w: sucking  sucking  the sucked  stones  threw  into the wrappings
 w: him  having fed  his  wife  eats  afterwards
-tr: When he had sucked the stones, he threw them into the wrappings; and when his wife had fed him, she ate after him.
+tr: He sucked the stones and threw them into the wrappings; and when his wife had fed him, she ate after him.
 fn: Heading in the edition: the wife of a Vaiṣṇava honours the remnants of her Vaiṣṇava husband’s meal.
 
 ## 36
@@ -218,3 +218,203 @@ fn: Heading in the edition: the most fortunate Kālidāsa, in great bliss, honou
 w: in this way  as many  Vaiṣṇavas  live  in the land of Gauḍa
 w: Kālidāsa  thus  of all  took  the remnants
 tr: In this way Kālidāsa honoured the remnants of all the Vaiṣṇavas who lived in the land of Gauḍa.
+
+## 39
+w: that  Kālidāsa  when  to Nīlācala  came
+w: Mahāprabhu  on him  great  mercy  showed
+tr: When this Kālidāsa came to Nīlācala, Mahāprabhu showed him great mercy.
+
+## 40
+w: every  day  the Lord  when  goes  for darśana
+w: water  pot  taking  Govinda  goes  with the Lord
+tr: Every day, when the Lord went to see Lord Jagannātha, Govinda accompanied Him with His waterpot.
+
+## 41
+w: of the Siṁha-dvāra  on the north  side  of the gate  behind
+w: twenty-two  steps  at the foot  is  one  low  pit
+tr: On the north side of the Siṁha-dvāra, sheltered behind the gate, at the foot of the twenty-two steps, there was a small pit.
+fn: *Amṛta-pravāha-bhāṣya*: the Oriyās call each step of a stair a *pahāca*; to go up through the Siṁha-dvāra one must climb twenty-two such steps. *Anubhāṣya*: *āḍe* — in a secluded spot, behind a screen; these places are no longer empty, for houses have been built there.
+
+## 42
+w: in that  pit  does  the Lord  feet  washing
+w: then  to do  goes  of the Lord  darśana
+tr: In that pit the Lord would wash His feet, and then He would go to see Lord Jagannātha.
+
+## 43
+w: for Govinda  Mahāprabhu  has made  a rule
+w: My  feet  water  that  not  takes  any  person
+tr: Mahāprabhu had given Govinda a rule: “See that no one takes the water that washes My feet.”
+fn: Heading in the edition: the strict rule of the Lord, who as an ācārya teaches the world.
+
+## 44
+w: living beings  any  to take  not  can  that  water
+w: intimate  devotees  take  making  some  pretext
+tr: No living being could take that water; only intimate devotees took it, on one pretext or another.
+
+## 45
+w: one  day  the Lord  there  feet  to wash
+w: Kālidāsa  coming  there  held out  his hands
+tr: One day, as the Lord was washing His feet there, Kālidāsa came and held out his cupped hands.
+
+## 46
+w: one  palmful  two  palmfuls  three  palmfuls  he drank
+w: then  Mahāprabhu  him  prohibition  made
+tr: He drank one palmful, two palmfuls, three palmfuls, and then Mahāprabhu stopped him:
+
+## 47
+w: from now on  more  not  do  again
+w: thus far  of your desire  the fulfilment  I have made  your
+tr: “From now on, do not do this again. With this much I have fulfilled your desire.”
+
+## 48
+w: of the omniscient  the crest jewel  Caitanya  the Lord
+w: in Vaiṣṇavas  his  faith  knows  the heart
+tr: Lord Caitanya, crest jewel of the all-knowing, knew Kālidāsa’s heart and his faith in the Vaiṣṇavas.
+
+## 49
+w: that  quality  on account of  the Lord  with him  pleased  became
+w: to others  rare  mercy  to him  showed
+tr: Pleased with him for that quality, the Lord showed him a mercy rarely granted to others.
+fn: Heading in the edition: for his transcendental faith in the Vaiṣṇavas the Lord shows Kālidāsa a mercy rare even for Brahmā and the other gods.
+
+## 50
+w: twenty-two  steps  behind  above  on the south  side
+w: one  Nṛsiṁha  Deity  is present  going up  on the left side
+tr: Beyond the twenty-two steps, at the top on the south side, on the left as one goes up, stands a Deity of Lord Nṛsiṁha.
+
+## 51
+w: every  day  to Him  the Lord  makes  obeisance
+w: bowing  this  verse  recites  again and again
+tr: Every day the Lord would bow down to Him and recite this verse again and again:
+
+## 52
+w: obeisance  to You  to Narasiṁha
+w: to Prahlāda  joy  who gives
+w: of Hiraṇyakaśipu  the chest
+w: the stone  chisel  whose nails
+tr: “Obeisance to You, Lord Narasiṁha, who give joy to Prahlāda, and whose nails are a chisel on the stone of Hiraṇyakaśipu’s chest.” (Nṛsiṁha-purāṇa)
+fn: Heading in the edition: obeisance to Śrī Nṛsiṁha, the sole protector of the devotees who preach pure bhakti, the crusher of the godless, to whom the devotees are dear (two verses of the *Nṛsiṁha-purāṇa*).
+
+## 53
+w: here  Nṛsiṁha  there  Nṛsiṁha
+w: wherever  wherever  I go  there  Nṛsiṁha
+w: outside  Nṛsiṁha  in the heart  Nṛsiṁha
+w: in Nṛsiṁha  the original  shelter  I take
+tr: “Nṛsiṁha is here, Nṛsiṁha is there; wherever I go, there is Nṛsiṁha. Nṛsiṁha is outside, Nṛsiṁha is in the heart. I take shelter of Nṛsiṁha, the original Lord.” (Nṛsiṁha-purāṇa)
+fn: *Anubhāṣya*: “here” — in this world (Devī-dhāma); “there” — in the spiritual sky (Paravyoma); “outside” — in the manifest world; “in the heart” — in the inner world. Heading in the edition: the preacher of pure bhakti sees Śrī Nṛsiṁhadeva everywhere as his protector.
+
+## 54
+w: then  the Lord  made  of Jagannātha  darśana
+w: home  coming  made  the midday  meal
+tr: Then the Lord took *darśana* of Jagannātha, and coming home, He took His midday meal.
+
+## 55
+w: at the outer door  is  Kālidāsa  hoping  waiting
+w: to Govinda  by a sign  the Lord  speaks  knowing
+tr: Kālidāsa was waiting hopefully at the outer door. Knowing this, the Lord gave Govinda a sign.
+
+## 56
+w: the Lord’s  sign  Govinda  all  understands
+w: to Kālidāsa  gave  the Lord’s  plate of remnants  as a gift
+tr: Govinda understood all the Lord’s signs and gave Kālidāsa the plate with the Lord’s remnants.
+
+## 57
+w: of Vaiṣṇavas  remnants  of eating  such  greatness
+w: to Kālidāsa  made obtain  the Lord’s  mercy  the limit
+tr: Such is the greatness of the remnants of Vaiṣṇavas: by taking them Kālidāsa received the Lord’s mercy in its fullest measure.
+
+## 58
+w: therefore  Vaiṣṇavas’  leftovers  eat  giving up  disgust  shame
+w: which  from  you will obtain  desired  all  aims
+tr: Therefore, casting off disgust and shame, take the remnants (*jhuṭā*) of Vaiṣṇavas; through them you will obtain all you desire.
+
+## 59
+w: of Kṛṣṇa  the remnants  are  mahā-prasāda  named
+w: devotee’s  remnants  if they become  mahā-mahā-prasāda  called
+tr: The remnants of Kṛṣṇa are called *mahā-prasāda*; when they become the remnants of a devotee, they are called *mahā-mahā-prasāda*.
+
+## 60
+w: devotee’s  feet  dust  and  devotee’s  feet  water
+w: by the devotee  eaten  remnants  these  three  of practice  the strength
+tr: The dust of a devotee’s feet, the water that has washed his feet, and the remnants of what he has eaten — these three are the strength of spiritual practice.
+fn: *Amṛta-pravāha-bhāṣya*: to take the dust of a devotee’s feet, the water that has washed his feet, and the nectar of his lips (*adharāmṛta*) — in these three lies the strength of every spiritual practice.
+
+## 61
+w: these  three  serving  from  for Kṛṣṇa  love  arises
+w: again  again  in all  scriptures  loudly  they declare
+tr: By serving these three one attains love for Kṛṣṇa; all the scriptures declare this loudly again and again.
+
+## 62
+w: therefore  again  again  I say  hear  devotees
+w: faith  having  do  these three  service
+tr: Therefore I tell you over and over: listen, O devotees! Serve these three with faith.
+
+## 63
+w: the three  from  Kṛṣṇa’s  name  of love  jubilation
+w: Kṛṣṇa’s  grace  of that  witness  Kālidāsa
+tr: From these three come the jubilation of Kṛṣṇa’s name and of love for Him, and Kṛṣṇa’s grace. Kālidāsa is the witness to this.
+
+## 64
+w: in Nīlācala  Mahāprabhu  stays  in this way
+w: to Kālidāsa  great  mercy  showed  unnoticed
+tr: In this way Mahāprabhu lived in Nīlācala, and without anyone noticing He showed Kālidāsa great mercy.
+
+## 65
+w: that  year  Śivānanda  his wife  taking  came
+w: Purī dāsa  his youngest  son  with him  brought
+tr: That year Śivānanda came with his wife and brought with him his youngest son, Purī dāsa.
+fn: Heading in the edition: for the Ratha-yātrā Śivānanda comes to Purī with his son Paramānanda Purī dāsa. This is the future poet Kavi-karṇapūra: the edition gives verse 74 as the first verse of his *Āryā-śataka*.
+
+## 66
+w: son  with  taking  he  came  to the Lord’s place
+w: the son  he made  the Lord’s  feet  honour
+tr: Taking his son, he came to the Lord and had the boy bow at His feet.
+
+## 67
+w: Kṛṣṇa  say  saying  the Lord  says  again  again
+w: still  Kṛṣṇa’s  name  the boy  not  makes  utterance
+tr: Again and again the Lord said, “Say ‘Kṛṣṇa’!” But the boy stayed silent and would not utter the name of Kṛṣṇa.
+
+## 68
+w: Śivānanda  with the boy  much  effort  made
+w: still  that  boy  Kṛṣṇa’s  name  not  said
+tr: Śivānanda did all he could to persuade the boy, but still the boy did not say the name of Kṛṣṇa.
+
+## 69
+w: the Lord  says  I  the name  the world  made take
+w: the unmoving  even  Kṛṣṇa’s  name  I made say
+tr: The Lord said, “I have made the whole world chant the holy name; I have made even trees and stones say the name of Kṛṣṇa.
+
+## 70
+w: this one  I could not  Kṛṣṇa’s  name  make say
+w: hearing  Svarūpa  Gosāñi  began  to speak
+tr: Yet I could not make this boy say the name of Kṛṣṇa!” Hearing this, Svarūpa Gosāñi said:
+
+## 71
+w: You  Kṛṣṇa’s  name  mantra  made  instruction
+w: the mantra  having received  anyone  before  not  makes  disclosure
+tr: “You have instructed him in the mantra of Kṛṣṇa’s name. Having received the mantra, he will not disclose it to anyone.
+fn: *Anubhāṣya*: if a mantra received from Śrī Gurudeva is disclosed to another, it loses its potency; we know this already from the story of Śrī Gadādhara Paṇḍita.
+
+## 72
+w: in the mind  in the mind  he chants  with the mouth  not  makes  utterance
+w: this  his  mind’s  thought  I make  guess
+tr: He chants it silently, within, but does not speak it aloud. That, I think, is his intention.”
+
+## 73
+w: another  day  says  the Lord  recite  Purī dāsa
+w: this  verse  composing  he  made  manifest
+tr: Another day the Lord said, “Recite, Purī dāsa!” and the boy composed and recited this verse:
+
+## 74
+w: in the ears  a blue lotus  for the eyes  collyrium
+w: for the chest  of great sapphires  a garland
+w: of Vṛndāvana’s  beautiful girls  the ornament
+w: complete  Hari  is glorious
+tr: “Glory to Hari! He is all the adornment of the girls of Vṛndāvana: the blue lotus at their ears, the collyrium of their eyes, the necklace of great sapphires upon their breast.” (Āryā-śataka, 1)
+fn: *Anubhāṣya*: *akhilaṁ maṇḍanam* — “every adornment”: Hari Himself is the whole adornment of the girls of Vraja; *mahendra-maṇi* — sapphire (*indranīla*). Heading in the edition: glory to Kṛṣṇa, the ornament of the gopīs’ hearts; the first verse of Kavi-karṇapūra’s *Āryā-śataka*.
+
+## 75
+w: seven  years  a child  no  study
+w: such  verse  makes  people  amazed  minds
+tr: He was a child of seven, who had not studied, yet he composed such a verse! Everyone was amazed.
