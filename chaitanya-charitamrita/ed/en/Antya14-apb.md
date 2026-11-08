@@ -61,7 +61,7 @@ Near Nīlācala Mahāprabhu saw Caṭaka-giri, a hill of sea sand, and with the 
 [^16-1]: The verse translation reads differently: it speaks of intensified love leading to complete bewilderment and then to a state of extreme wonder that awakens the madness of divine love; *mohana* is not mentioned there.
 
 [^43-51-1]: The verse translation (44) reads differently: “the ring of Kṛṣṇa's Rāsa-līlā”; for Bhaktivinoda “the circle of Kṛṣṇa's pastimes” is the earrings of the Bhāgavatam.
-[^43-51-2]: So in the edition: together with the eight *sāttvika-vikāras*, thirteen states are named.
+[^43-51-2]: So in the edition: together with the eight *sāttvika-vikāras*, thirteen states are named (trembling is named twice: it is also one of the eight *sāttvika-vikāras*).
 [^43-51-3]: The verse translation (50) reads differently: “in the corner of a bower in one of Vṛndāvana's secluded groves”; for Bhaktivinoda the “empty” bower is a bower without Kṛṣṇa.
 
 [^120-1]: In the verse translation, otherwise: “I want to see Kṛṣṇa, the Lord of Govardhana, the king of hills, and so I shall go to Vṛndāvana!”

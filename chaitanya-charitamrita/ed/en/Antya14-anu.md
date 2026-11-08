@@ -440,7 +440,7 @@ See Madhya 18.34.
 
 [^16-1]: The verse translation reads differently: it speaks of intensified love leading to complete bewilderment and then to a state of extreme wonder that awakens the madness of divine love; *mohana* is not mentioned there.
 
-[^53-1]: Unclear passage in the scan: “বক্ষশ্চ-কোরিকা”; by the sense of the verse, the *koka* (*cakravāka*) birds of the breast.
+[^53-1]: So in the edition: “বক্ষশ্চ-কোরিকা” (the reading is clear in the scan, but the word is unusual); by the sense of the verse, the *koka* (*cakravāka*) birds of the breast.
 
 [^73-1]: In the verse translation, otherwise: “this image of Śrī Caitanya makes me, too, a madman.”
 
