@@ -454,7 +454,7 @@ with  you  by swarms of bees  bearing
 dṛṣṭas te ’ti-priyo ’cyutaḥ  
 seen  your  very dear  Acyuta
 
-(33) “O auspicious tulasī, dear to Govinda’s feet! Have you seen your most beloved Acyuta pass by, wearing you, with swarms of bees around Him?” (Śrīmad-Bhāgavatam, 10.30.7)
+(33) “O auspicious tulasī, dear to Govinda’s feet! Have you seen Acyuta, who holds you so dear, pass by wearing you, with swarms of bees around Him?” (Śrīmad-Bhāgavatam, 10.30.7)
 
 মালত্যদর্শি বঃ কচ্চিন্মল্লিকে জাতি যূথিকে ৷  
 প্রীতিং বো জনয়ন্ যাতঃ করস্পর্শেন মাধবঃ ॥ ৩৪ ॥
@@ -786,7 +786,7 @@ He  My  of Madana  the enchanter  O friend
 tanoti netra-spṛhām  
 increases  of the eyes  the longing
 
-(63) “O friend, His lustre shines brighter than a new cloud; His garment is more charming than new lightning; His face, with the gleaming, beautiful flute, is like the bright full moon of autumn; He is adorned with peacock feathers and radiant with a lovely necklace shining like stars — that enchanter of Madana increases the longing of My eyes.” (Govinda-līlāmṛta, 8.4)[^10]
+(63) “O friend, His lustre shines brighter than a new cloud; His garment is more charming than new lightning; His face, with the gleaming, beautiful flute, is like the bright full moon of autumn; He is adorned with peacock feathers and radiant with a lovely necklace shining like stars — that enchanter of Madana fills My eyes with ever-growing longing.” (Govinda-līlāmṛta, 8.4)[^10]
 
 নবঘনস্নিগ্ধবর্ণ, দলিতাঞ্জন-চিক্কণ,  
 ইন্দীবর-নিন্দি সুকোমল ৷  
@@ -950,7 +950,7 @@ steals  of the women-does  the hearts
 kare nānā upāya tāhāra  
 makes  various  means  for that
 
-(72) Ah, our friend Kṛṣṇa behaves like a hunter! He cares nothing for right or wrong; He steals the hearts of the women-does and devises many means to do it.[^14]
+(72) Ah, our friend Kṛṣṇa behaves like a hunter! He cares nothing for right or wrong, and with ruse after ruse He steals the hearts of women, His does.[^14]
 
 গণ্ডস্থল ঝলমল, নাচে মকর-কুণ্ডল,  
 যেই নৃত্যে হরে নারীচয় ৷  
@@ -990,7 +990,7 @@ their  all  minds  and breasts
 hari-dāsī karibāre dakṣa  
 of Hari  maidservants  in making  skilled
 
-(74) Kṛṣṇa’s chest, lofty and broad and adorned with the marks of Lakṣmī and Śrīvatsa, is a robber, skilled at making the minds and breasts of hundreds of thousands of goddesses of Vraja into Hari’s maidservants.[^15]
+(74) Kṛṣṇa’s chest, lofty and broad and adorned with the marks of Lakṣmī and Śrīvatsa, is a robber: it carries off the minds and breasts of hundreds of thousands of goddesses of Vraja and skilfully makes them Hari’s maidservants.[^15]
 
 সুললিত দীর্ঘার্গল, কৃষ্ণের ভুজযুগল,  
 ভুজ নহে, — কৃষ্ণসর্পকায় ৷  
@@ -1076,7 +1076,7 @@ He  My  of Madana  the enchanter  O friend
 tanoti vakṣaḥ-spṛhām  
 increases  of the breast  the longing
 
-(78) “O friend, His broad chest outshines a door of sapphire; His bolt-like arms take away the distress of young girls’ minds tormented by Smara; His body is cooler than the moon, *hari-candana*, the lotus and camphor — that enchanter of Madana increases the longing of My breast.” (Govinda-līlāmṛta, 8.7)[^18]
+(78) “O friend, His broad chest outshines a door of sapphire; His bolt-like arms take away the distress of young girls’ minds tormented by Smara; His body is cooler than the moon, *hari-candana*, the lotus and camphor — that enchanter of Madana kindles a longing in My breast.” (Govinda-līlāmṛta, 8.7)[^18]
 
 প্রভু কহে, — কৃষ্ণ মুই এখন দেখিনু ৷  
 আপনার দুর্দ্দৈবে পুনঃ হারাইনু ॥ ৭৯ ॥
