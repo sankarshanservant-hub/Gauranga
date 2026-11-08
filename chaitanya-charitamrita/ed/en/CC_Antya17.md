@@ -149,7 +149,7 @@ torches  lighting  make  for the Lord  a search
 (14) Then Svarūpa Gosāñi took the devotees with him, and they lit torches and searched for the Lord.
 
 ইতি-উতি অন্বেষিয়া সিংহদ্বারে গেলা ৷  
-গাভীগণ মধ্যে যাই’ প্রভুরে পাইলা ॥ ১৫ ॥
+গাভীগণ-মধ্যে যাই’ প্রভুরে পাইলা ॥ ১৫ ॥
 
 iti-uti anveṣiyā siṁha-dvāre gelā  
 here and  there  searching  to the Siṁha-dvāra  went  
@@ -521,7 +521,7 @@ now  not  get  of thirst  dying  go
 (42) Tell Me, friend, what shall I do? The charms of that sound of Kṛṣṇa’s stole My ears, and now, not getting it, they are dying of thirst.
 
 নূপুর-কিঙ্কিণী-ধ্বনি, হংস-সারস জিনি’,  
-কঙ্কণ-ধ্বনি চটকে লাজায় ৷  
+কঙ্কণ-ধ্বনি চটকে লাজায় !  
 একবার যেই শুনে, ব্যাপি’ রহে তার কাণে,  
 অন্যশব্দ সে কাণে না যায় ॥ ৪৩ ॥
 
@@ -529,7 +529,7 @@ nūpura-kiṅkiṇī-dhvani,
 of the anklets  of the waist-bells  the sound  
 haṁsa-sārasa jini’,  
 of swans  and cranes  conquering  
-kaṅkaṇa-dhvani caṭake lājāya  
+kaṅkaṇa-dhvani caṭake lājāya!  
 the bracelets’  sound  the caṭaka birds  puts to shame  
 eka-bāra yei śune,  
 once  whoever  hears  
