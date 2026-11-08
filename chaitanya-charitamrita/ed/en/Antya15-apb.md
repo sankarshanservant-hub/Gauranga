@@ -100,6 +100,4 @@ Seeing the rows of beautiful gardens on the seashore, the Lord again and again r
 
 ---
 
-[^15-23-1]: The translation of verse 20 reads differently: it speaks of the indescribable devastation that this nectar brings.
-
 [^64-1]: The verse translation reads differently: Kṛṣṇa's body resembles collyrium in its luster.
