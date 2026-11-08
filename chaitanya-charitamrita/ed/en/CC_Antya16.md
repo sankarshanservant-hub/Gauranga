@@ -1048,57 +1048,71 @@ this  whose  is  phelā  obtains  he  blessed
 উপল-ভোগ দেখিয়া প্রভু নিজ-বাসা আইলা ॥ ১০১ ॥
 
 eta bali’ prabhu tā-sabāre vidāya dilā  
-upala-bhoga dekhiyā prabhu nija-vāsā āilā
+this  having said  the Lord  them all  leave  gave  
+upala-bhoga dekhiyā prabhu nija-vāsā āilā  
+the upala-bhoga  seeing  the Lord  to His own  residence  came
 
-(101) [not yet translated]
+(101) Having said this, the Lord bade them all farewell, and after seeing the *upala-bhoga* offering He returned to His residence.
 
 মধ্যাহ্ন করিয়া কৈলা ভিক্ষা নির্ব্বাহণ ৷  
 কৃষ্ণাধরামৃত সদা অন্তরে স্মরণ ॥ ১০২ ॥
 
 madhyāhna kariyā kailā bhikṣā nirvāhaṇa  
-kṛṣṇādharāmṛta sadā antare smaraṇa
+the midday duties  having done  made  the meal  completion  
+kṛṣṇādharāmṛta sadā antare smaraṇa  
+Kṛṣṇa’s lip-nectar  always  in the heart  remembrance
 
-(102) [not yet translated]
+(102) He performed His midday duties and finished His meal, but all the while He remembered the nectar of Kṛṣṇa’s lips within His heart.
 
 বাহ্য-কৃত্য করেন, প্রেমে গরগর মন ৷  
 কষ্টে সম্বরণ করেন, আবেশ সঘন ॥ ১০৩ ॥
 
 bāhya-kṛtya karena, preme garagara mana  
-kaṣṭe samvaraṇa karena, āveśa saghana
+external  duties  He does  with love  overflowing  the mind  
+kaṣṭe samvaraṇa karena, āveśa saghana  
+with difficulty  restraint  He makes  absorption  intense
 
-(103) [not yet translated]
+(103) He carried out His outward duties, but His mind was overflowing with love; His absorption was intense, and He restrained it only with great difficulty.
 
 সন্ধ্যা-কৃত্য করি’ পুনঃ নিজগণ-সঙ্গে ৷  
 নিভৃতে বসিলা নানা-কৃষ্ণকথা-রঙ্গে ॥ ১০৪ ॥
 
 sandhyā-kṛtya kari’ punaḥ nija-gaṇa-saṅge  
-nibhṛte vasilā nānā-kṛṣṇa-kathā-raṅge
+evening  duties  having done  again  His own  associates  with  
+nibhṛte vasilā nānā-kṛṣṇa-kathā-raṅge  
+in seclusion  sat  of various  Kṛṣṇa  talks  in the delight
 
-(104) [not yet translated]
+(104) After His evening duties He again sat in seclusion with His own associates, delighting in many talks about Kṛṣṇa.
 
 প্রভুর ইঙ্গিতে গোবিন্দ প্রসাদ আনিলা ৷  
 পুরী-ভারতীরে প্রভু কিছু পাঠাইলা ॥ ১০৫ ॥
 
 prabhura iṅgite govinda prasāda ānilā  
-purī-bhāratīre prabhu kichu pāṭhāilā
+the Lord’s  at the sign  Govinda  the prasāda  brought  
+purī-bhāratīre prabhu kichu pāṭhāilā  
+to Purī  and Bhāratī  the Lord  some  sent
 
-(105) [not yet translated]
+(105) At the Lord’s sign Govinda brought the *prasāda*, and the Lord sent some to Paramānanda Purī and Brahmānanda Bhāratī.
 
 রামানন্দ-সার্ব্বভৌম-স্বরূপাদি-গণে ৷  
 সবারে প্রসাদ দিল করিয়া বণ্টনে ॥ ১০৬ ॥
 
 rāmānanda-sārvabhauma-svarūpādi-gaṇe  
-sabāre prasāda dila kariyā vaṇṭane
+to Rāmānanda  Sārvabhauma  Svarūpa  and the others  
+sabāre prasāda dila kariyā vaṇṭane  
+to all  prasāda  gave  having made  distribution
 
-(106) [not yet translated]
+(106) He divided the *prasāda* and gave it to all — Rāmānanda, Sārvabhauma, Svarūpa and the others.
 
 প্রসাদের সৌরভ্য-মাধুর্য্য করি’ আস্বাদন ৷  
 অলৌকিক আস্বাদে সবার বিস্ময় হৈল মন ॥ ১০৭ ॥
 
 prasādera saurabhya-mādhurya kari’ āsvādana  
-alaukika āsvāde sabāra vismaya haila mana
+of the prasāda  the fragrance  the sweetness  having made  tasting  
+alaukika āsvāde sabāra vismaya haila mana  
+at the unearthly  taste  of all  amazed  became  the minds
 
-(107) [not yet translated]
+(107) When they tasted the fragrance and sweetness of the *prasāda*, everyone was amazed at its unearthly taste.
 
 প্রভু কহে, — এই সব হয় ‘প্রাকৃত’ দ্রব্য ৷  
 ঐক্ষব, কর্পূর, মরিচ, এলাইচ, লবঙ্গ, গব্য ॥ ১০৮ ॥
@@ -1107,85 +1121,109 @@ alaukika āsvāde sabāra vismaya haila mana
 ‘প্রাকৃত’ বস্তুর স্বাদ সবার অনুভব ॥ ১০৯ ॥
 
 prabhu kahe, — ei saba haya ‘prākṛta’ dravya  
+the Lord  says  these  all  are  material  substances  
 aikṣava, karpūra, marica, elāica, lavaṅga, gavya  
+sugar  camphor  black pepper  cardamom  clove  ghee  
 rasavāsa, guḍatvaka-ādi yata saba  
-‘prākṛta’ vastura svāda sabāra anubhava
+spices  cinnamon  and so on  as many  as all  
+‘prākṛta’ vastura svāda sabāra anubhava  
+material  things’  taste  of all  the experience
 
-(108–109) [not yet translated]
+(108–109) The Lord said, “All these are material substances — sugar, camphor, black pepper, cardamom, cloves, ghee, spices, cinnamon and the rest. Everyone knows the taste of material things.
 
 এই দ্রব্যে এত আস্বাদ, গন্ধ লোকাতীত ৷  
 আস্বাদ করিয়া দেখ, — সবার প্রতীত ॥ ১১০ ॥
 
 ei dravye eta āsvāda, gandha lokātīta  
-āsvāda kariyā dekha, — sabāra pratīta
+in these  substances  such  taste  fragrance  beyond this world  
+āsvāda kariyā dekha, — sabāra pratīta  
+tasting  see  of all  conviction
 
-(110) [not yet translated]
+(110) Yet these substances have a taste and a fragrance beyond this world. Taste them and see for yourselves.
 
 আস্বাদ দূরে রহু, যার গন্ধে মাতে মন ৷  
 আপনা বিনা অন্য মাধুর্য্য করায় বিস্মরণ ॥ ১১১ ॥
 
 āsvāda dūre rahu, yāra gandhe māte mana  
-āpanā vinā anya mādhurya karāya vismaraṇa
+the taste  far  let it remain  whose  by the fragrance  is intoxicated  the mind  
+āpanā vinā anya mādhurya karāya vismaraṇa  
+itself  except  other  sweetness  makes  forget
 
-(111) [not yet translated]
+(111) Let alone its taste — its fragrance alone intoxicates the mind and makes one forget every sweetness but its own.
 
 তাতে এই দ্রব্যে কৃষ্ণাধর-স্পর্শ হৈল ৷  
 অধরের গুণ সব ইহাতে সঞ্চারিল ॥ ১১২ ॥
 
 tāte ei dravye kṛṣṇādhara-sparśa haila  
-adharera guṇa saba ihāte sañcārila
+therefore  this  food  Kṛṣṇa’s lips’  touch  received  
+adharera guṇa saba ihāte sañcārila  
+of the lips  the qualities  all  into it  have passed
 
-(112) [not yet translated]
+(112) Therefore Kṛṣṇa’s lips must have touched this food, and all the qualities of His lips have passed into it.
 
 অলৌকিক-গন্ধ-স্বাদ, অন্য-বিস্মারণ ৷  
 মহা-মাদক হয় এই কৃষ্ণাধরের গুণ ॥ ১১৩ ॥
 
 alaukika-gandha-svāda, anya-vismāraṇa  
-mahā-mādaka haya ei kṛṣṇādharera guṇa
+unearthly  fragrance  taste  of others  forgetting  
+mahā-mādaka haya ei kṛṣṇādharera guṇa  
+great  intoxicating  are  these  of Kṛṣṇa’s lips  qualities
 
-(113) [not yet translated]
+(113) An unearthly fragrance and taste, and the power to make one forget everything else — such are the greatly intoxicating qualities of Kṛṣṇa’s lips.
 
 অনেক ‘সুকৃতে’ ইহা হঞাছে সম্প্রাপ্তি ৷  
 সবে এই আস্বাদ কর করি’ মহাভক্তি ॥ ১১৪ ॥
 
 aneka ‘sukṛte’ ihā hañāche samprāpti  
-sabe ei āsvāda kara kari’ mahā-bhakti
+by many  sukṛtis  this  has been  obtained  
+sabe ei āsvāda kara kari’ mahā-bhakti  
+all  this  tasting  do  with  great devotion
 
-(114) [not yet translated]
+(114) This has been obtained by great *sukṛti*. All of you, taste it with great devotion.”
 
 হরিধ্বনি করি’ সবে কৈলা আস্বাদন ৷  
 আস্বাদিতে প্রেমে মত্ত হইল সবার মন ॥ ১১৫ ॥
 
 hari-dhvani kari’ sabe kailā āsvādana  
-āsvādite preme matta haila sabāra mana
+Hari  calling  all  made  tasting  
+āsvādite preme matta haila sabāra mana  
+while tasting  with love  mad  became  of all  the minds
 
-(115) [not yet translated]
+(115) Calling out “Hari!”, they all tasted it, and as they tasted it their minds grew mad with love.
 
 প্রেমাবেশে মহাপ্রভু যবে আজ্ঞা দিলা ৷  
 রামানন্দ-রায় শ্লোক পড়িতে লাগিলা ॥ ১১৬ ॥
 
 premāveśe mahāprabhu yabe ājñā dilā  
-rāmānanda-rāya śloka paḍite lāgilā
+absorbed in love  Mahāprabhu  when  order  gave  
+rāmānanda-rāya śloka paḍite lāgilā  
+Rāmānanda Rāya  verses  to recite  began
 
-(116) [not yet translated]
+(116) When Mahāprabhu, absorbed in love, gave the order, Rāmānanda Rāya began to recite verses.
 
 সুরতবর্দ্ধনং শোকনাশনং স্বরিতবেণুনা সুষ্ঠুচুম্বিতম্ ৷  
 ইতররাগবিস্মারণং নৃণাং বিতর বীর নস্তেঽধরামৃতম্ ॥ ১১৭ ॥
 
 surata-vardhanaṁ śoka-nāśanaṁ  
+union  increasing  grief  destroying  
 svarita-veṇunā suṣṭhu-cumbitam  
+by the sounding  flute  well  kissed  
 itara-rāga-vismāraṇaṁ nṛṇāṁ  
-vitara vīra nas te ’dharāmṛtam
+other  attachments  making forget  of men  
+vitara vīra nas te ’dharāmṛtam  
+bestow  O hero  on us  Your  lip-nectar
 
-(117) [not yet translated]
+(117) “O hero, bestow on us the nectar of Your lips, which increases the longing for union and destroys grief; which is kissed so well by Your sounding flute and makes men forget all other attachments.” (Śrīmad-Bhāgavatam, 10.31.14)
 
 শ্লোক শুনি’ মহাপ্রভু মহাতুষ্ট হৈলা ৷  
 রাধার উৎকণ্ঠা-শ্লোক পড়িতে লাগিলা ॥ ১১৮ ॥
 
 śloka śuni’ mahāprabhu mahā-tuṣṭa hailā  
-rādhāra utkaṇṭhā-śloka paḍite lāgilā
+the verse  hearing  Mahāprabhu  greatly  pleased  became  
+rādhāra utkaṇṭhā-śloka paḍite lāgilā  
+of Rādhā  longing  verse  to recite  began
 
-(118) [not yet translated]
+(118) Hearing the verse, Mahāprabhu was greatly pleased, and He began to recite a verse of Rādhā’s longing:
 
 ব্রজাতুলকুলাঙ্গনেতর-রসালিতৃষ্ণাহর-  
 প্রদীব্যদধরামৃতঃ সুকৃতিলভ্য-ফেলা-লবঃ ৷  
@@ -1193,19 +1231,25 @@ rādhāra utkaṇṭhā-śloka paḍite lāgilā
 স মে মদনমোহনঃ সখি তনোতি জিহ্বা-স্পৃহাম্ ॥ ১১৯ ॥
 
 vrajātula-kulāṅganetara-rasāli-tṛṣṇā-hara-  
+of Vraja  of the incomparable  noble ladies  other  tastes  the thirst  removing  
 pradīvyad-adharāmṛtaḥ sukṛti-labhya-phelā-lavaḥ  
+shining  whose lip-nectar  by sukṛti  to be gained  of the remnants  a particle  
 sudhā-jid-ahivallikā-sudala-vīṭikā-carvitaḥ  
-sa me madana-mohanaḥ sakhi tanoti jihvā-spṛhām
+than nectar  surpassing  of betel  fine leaves  rolls  chewing  
+sa me madana-mohanaḥ sakhi tanoti jihvā-spṛhām  
+He  My  Madana-mohana  O friend  increases  of the tongue  the craving
 
-(119) [not yet translated]
+(119) “O friend, the shining nectar of His lips takes away the thirst for every other taste from the incomparable noble ladies of Vraja; a particle of His remnants is gained only by *sukṛti*; He chews rolls of fine betel leaves that surpass nectar. That Madana-mohana of Mine increases the craving of My tongue.” (Govinda-līlāmṛta, 8.8)
 
 এত কহি’ গৌরপ্রভু ভাবাবিষ্ট হঞা ৷  
 দুই শ্লোকের অর্থ করে প্রলাপ করিয়া ॥ ১২০ ॥
 
 eta kahi’ gaura-prabhu bhāvāviṣṭa hañā  
-dui ślokera artha kare pralāpa kariyā
+this  having said  Gaura  Prabhu  absorbed in feeling  becoming  
+dui ślokera artha kare pralāpa kariyā  
+of the two  verses  the meaning  makes  raving  doing
 
-(120) [not yet translated]
+(120) Having said this, Gaura Prabhu, absorbed in feeling, explained the meaning of the two verses in His raving (*pralāpa*).
 
 তনু-মন করায় ক্ষোভ, বাড়ায় সুরত-লোভ,  
 হর্ষ-শোকাদি-ভার বিনাশয় ৷  
@@ -1217,17 +1261,27 @@ dui ślokera artha kare pralāpa kariyā
 বিচারিতে সব বিপরীত ॥ ১২২ ॥
 
 tanu-mana karāya kṣobha,  
+body  mind  makes  agitation  
 bāḍāya surata-lobha,  
+increases  for union  the longing  
 harṣa-śokādi-bhāra vināśaya  
+of joy  grief  and so on  the burden  destroys  
 pāsarāya anya rasa,  
+makes forget  other  tastes  
 jagat kare ātma-vaśa,  
+the world  makes  its own  subject  
 lajjā, dharma, dhairya kare kṣaya  
+shame  duty  composure  makes  destruction  
 nāgara, śuna tomāra adhara-carita  
+O lover  hear  Your  of the lips  conduct  
 mātāya nārīra mana,  
+intoxicates  of women  the mind  
 jihvā kare ākarṣaṇa,  
-vicārite saba viparīta
+the tongue  makes  attraction  
+vicārite saba viparīta  
+on reflection  all  contrary
 
-(121–122) [not yet translated]
+(121–122) “O lover, hear the conduct of Your lips! They stir the body and mind, increase the longing for union, and take away the burden of joy, grief and all the rest. They make one forget every other taste, bring the whole world under their sway, and destroy shame, duty and composure. They intoxicate the minds of women and draw their tongues to them. Yet on reflection, everything about them is contrary.
 
 আছুক নারীর কাষ, কহিতে বাসিয়ে লাজ,  
 তোমার অধর বড় ধৃষ্ট-রায় ৷  
@@ -1235,13 +1289,19 @@ vicārite saba viparīta
 অন্যরস সব পাসরায় ॥ ১২৩ ॥
 
 āchuka nārīra kāṣa,  
+let alone  of women  the matter  
 kahite vāsiye lāja,  
+to say  I feel  shame  
 tomāra adhara baḍa dhṛṣṭa-rāya  
+Your  lips  very  bold  lord  
 puruṣe kare ākarṣaṇa,  
+a man  they make  attraction  
 āpanā piyāite mana,  
-anya-rasa saba pāsarāya
+themselves  to give to drink  desire  
+anya-rasa saba pāsarāya  
+other  tastes  all  make forget
 
-(123) [not yet translated]
+(123) Let alone women — I am ashamed even to say it: Your lips are a very bold lord. They attract even a man, wish to give themselves to him to drink, and make him forget every other taste.
 
 সচেতন রহু দূরে, অচেতন সচেতন করে,  
 তোমার অধর — বড় বাজিকর ৷  
@@ -1249,13 +1309,19 @@ anya-rasa saba pāsarāya
 তারে আপনা পিয়ায় নিরন্তর ॥ ১২৪ ॥
 
 sacetana rahu dūre,  
+the conscious  let remain  far  
 acetana sacetana kare,  
+the unconscious  conscious  they make  
 tomāra adhara — baḍa vājikara  
+Your  lips  a great  magician  
 tomāra veṇu śuṣkendhana,  
+Your  flute  dry fuel  
 tāra janmāya indriya-mana,  
-tāre āpanā piyāya nirantara
+in it  they produce  senses  mind  
+tāre āpanā piyāya nirantara  
+to it  themselves  give to drink  constantly
 
-(124) [not yet translated]
+(124) Let alone the conscious — they make even the unconscious conscious. Your lips are a great magician! Your flute is only dry wood, yet they create senses and a mind in it and constantly give themselves to it to drink.
 
 বেণু ধৃষ্ট-পুরুষ হঞা, পুরুষাধর পিয়া পিয়া,  
 গোপীগণে জানায় নিজ পান ৷  
@@ -1263,13 +1329,19 @@ tāre āpanā piyāya nirantara
 তোমার যদি থাকে অভিমান ॥ ১২৫ ॥
 
 veṇu dhṛṣṭa-puruṣa hañā,  
+the flute  a bold  man  being  
 puruṣādhara piyā piyā,  
+a man’s lips  drinking  drinking  
 gopī-gaṇe jānāya nija pāna  
+to the gopīs  announces  its own  drinking  
 ‘ohe, śuna, gopī-gaṇa,  
+oh  hear  gopīs  
 bale piṅo tomāra dhana,  
-tomāra yadi thāke abhimāna
+by force  I drink  your  wealth  
+tomāra yadi thāke abhimāna  
+yours  if  there is  pride
 
-(125) [not yet translated]
+(125) The flute, a bold man, drinks and drinks the lips of a man and announces its drinking to the gopīs: ‘Oh, hear, gopīs! I am drinking your wealth by force. If you take pride in its being yours,
 
 তবে মোরে ক্রোধ করি’, লজ্জা, ভয়, ধর্ম্ম, ছাড়ি’,  
 ছাড়ি’ দিমু, কর আসি’ পান ৷  
@@ -1277,13 +1349,19 @@ tomāra yadi thāke abhimāna
 অন্যে দেখোঁ তৃণের সমান ॥ ১২৬ ॥
 
 tabe more krodha kari’,  
+then  at me  anger  making  
 lajjā bhaya, dharma, chāḍi’,  
+shame  fear  duty  giving up  
 chāḍi’ dimu, kara āsi’ pāna  
+I will give up  do  coming  drinking  
 nahe pimu nirantara,  
+otherwise  I will drink  constantly  
 tomāya mora nāhika ḍara,  
-anye dekhoṅ tṛṇera samāna
+of you  my  is no  fear  
+anye dekhoṅ tṛṇera samāna  
+others  I see  to straw  equal
 
-(126) [not yet translated]
+(126) then be angry with me, give up shame, fear and duty — and I will let it go: come and drink. Otherwise I will drink it constantly. I have no fear of you, and I regard others as straw.’
 
 অধরামৃত নিজ-স্বরে, সঞ্চারিয়া সেই বলে,  
 আকর্ষয় ত্রিজগৎ-জন ৷  
@@ -1291,13 +1369,19 @@ anye dekhoṅ tṛṇera samāna
 তবে আমায় করে বিড়ম্বন ॥ ১২৭ ॥
 
 adharāmṛta nija-svare,  
+lip-nectar  with its own sound  
 sañcāriyā sei bale,  
+mixing  by that  force  
 ākarṣaya trijagat-jana  
+attracts  of the three worlds  the people  
 āmarā dharma bhaya kari’,  
+we  of duty  fear  having  
 rahi’ yadi dhairya dhari’,  
-tabe āmāya kare viḍambana
+remain  if  composure  holding  
+tabe āmāya kare viḍambana  
+then  us  it makes  mockery
 
-(127) [not yet translated]
+(127) Mixing the nectar of Your lips with its own sound, by that power the flute draws the people of the three worlds. And if we, fearing for our duty, try to keep our composure, it makes a mockery of us.
 
 নীবি খসায় গুরু-আগে, লজ্জা-ধর্ম্ম করায় ত্যাগে,  
 কেশে ধরি’ যেন লঞা যায় ৷  
@@ -1305,13 +1389,19 @@ tabe āmāya kare viḍambana
 এইমত নারীরে নাচায় ॥ ১২৮ ॥
 
 nīvi khasāya guru-āge,  
+the waist-knot  loosens  before the elders  
 lajjā-dharma karāya tyāge,  
+shame  duty  makes  give up  
 keśe dhari’ yena lañā yāya  
+by the hair  seizing  as if  taking  goes  
 āni’ karāya tomāra dāsī,  
+bringing  makes  Your  maidservants  
 śuni’ loka kare hāsi,  
-ei-mata nārīre nācāya
+hearing  people  make  laughter  
+ei-mata nārīre nācāya  
+in this way  women  makes dance
 
-(128) [not yet translated]
+(128) Before our elders it loosens the knots at our waists and makes us abandon shame and duty. As if seizing us by the hair, it leads us away, brings us to You and makes us Your maidservants, and people laugh to hear of it. In this way it makes women dance.
 
 শুষ্ক বাঁশের লাঠিখান, এত করে অপমান,  
 এই দশা করিল, গোসাঞি ৷  
@@ -1319,13 +1409,19 @@ ei-mata nārīre nācāya
 চোরার মাকে ডাকি’ কান্দিতে নাই ॥ ১২৯ ॥
 
 śuṣka bāṅśera lāṭhikhāna,  
+dry  of bamboo  a stick  
 eta kare apamāna,  
+so much  makes  insult  
 ei daśā karila, gosāñi  
+this  state  has made  a master  
 nā sahi’ ki karite pāri,  
+not  bearing  what  to do  can we  
 tāhe rahi mauna dhari’,  
-corāra māke ḍāki’ kāndite nāi
+so  we remain  silence  keeping  
+corāra māke ḍāki’ kāndite nāi  
+of the thief  the mother  calling  to weep  not
 
-(129) [not yet translated]
+(129) A stick of dry bamboo heaps such insults on us! Like a master, it has brought us to this state. What can we do but bear it? So we keep silent: when a thief is punished, his mother cannot call out and weep.
 
 অধরের এই রীতি, আর শুন কুনীতি,  
 সে অধর-সনে যার মেলা ৷  
@@ -1333,13 +1429,19 @@ corāra māke ḍāki’ kāndite nāi
 নাম তার হয় ‘কৃষ্ণ ফেলা’ ॥ ১৩০ ॥
 
 adharera ei rīti,  
+of the lips  this  the way  
 āra śuna kunīti,  
+further  hear  the bad custom  
 se adhara-sane yāra melā  
+those  lips  with  which  meeting  
 sei bhakṣya-bhojya-pāna,  
+that  food  edible  drink  
 haya amṛta-samāna,  
-nāma tāra haya ‘kṛṣṇa phelā’
+becomes  nectar  equal  
+nāma tāra haya ‘kṛṣṇa phelā’  
+the name  its  is  Kṛṣṇa  phelā
 
-(130) [not yet translated]
+(130) Such is the way of Your lips. Hear now their bad custom: whatever meets those lips — food to chew, food to eat, or drink — becomes like nectar, and it is called ‘Kṛṣṇa’s *phelā*.’
 
 সে ফেলার এক লব, না পায় দেবতা সব,  
 এ দম্ভে কেবা পাতিয়ায় ?  
@@ -1347,13 +1449,19 @@ nāma tāra haya ‘kṛṣṇa phelā’
 সে ‘সুকৃতে’ তার লব পায় ॥ ১৩১ ॥
 
 se phelāra eka lava,  
+that  phelā’s  one  particle  
 nā pāya devatā saba,  
+not  obtain  the gods  all  
 e dambhe kebā pātiyāya?  
+this  boast  who  would believe  
 bahu-janma puṇya kare,  
+many  births  pious acts  does  
 tabe ‘sukṛti’ nāma dhare,  
-se ‘sukṛte’ tāra lava pāya
+then  sukṛti  the name  takes  
+se ‘sukṛte’ tāra lava pāya  
+by that  sukṛti  its  particle  obtains
 
-(131) [not yet translated]
+(131) All the gods together cannot obtain a particle of that *phelā* — who would believe such a boast? One performs pious acts for many births; then it is called *sukṛti*, and by that *sukṛti* one obtains a particle of it.
 
 কৃষ্ণ যে খায় তাম্বূল, কহে তার নাহি মূল,  
 তাহে আর দম্ভ পরিপাটী ৷  
@@ -1361,13 +1469,19 @@ se ‘sukṛte’ tāra lava pāya
 গোপীর মুখ করে ‘আলবাটি’ ॥ ১৩২ ॥
 
 kṛṣṇa ye khāya tāmbūla,  
+Kṛṣṇa  which  chews  betel  
 kahe tāra nāhi mūla,  
+they say  its  is no  price  
 tāhe āra dambha paripāṭī  
+to that  further  of boasting  the artfulness  
 tāra yebā udagāra,  
+its  whatever  chewed remnant  
 tāre kaya ‘amṛta-sāra’,  
-gopīra mukha kare ‘ālabāṭi’
+that  they call  nectar’s  essence  
+gopīra mukha kare ‘ālabāṭi’  
+the gopīs’  mouths  they make  spittoons
 
-(132) [not yet translated]
+(132) The betel Kṛṣṇa chews is said to be beyond price. On top of that comes this artful boast: what He has chewed they call ‘the essence of nectar,’ and they make the gopīs’ mouths its spittoon.
 
 এসব — তোমার কুটিনাটি, ছাড় এই পরিপাটী,  
 বেণুদ্বারে কাঁহে হর’ প্রাণ ৷  
@@ -1375,61 +1489,79 @@ gopīra mukha kare ‘ālabāṭi’
 দেহ’ নিজাধরামৃত দান ॥ ১৩৩ ॥
 
 e-saba — tomāra kuṭināṭi,  
+all this  Your  wiles  
 chāḍa ei paripāṭī,  
+give up  this  artfulness  
 veṇu-dvāre kāṅhe hara’ prāṇa  
+by the flute  why  You steal  lives  
 āpanāra hāsi lāgi’,  
+for Your own  amusement  for the sake of  
 naha nārīra vadha-bhāgī,  
-deha’ nijādharāmṛta dāna
+do not be  of women  the killing  sharer  
+deha’ nijādharāmṛta dāna  
+give  Your own lip-nectar  as a gift
 
-(133) [not yet translated]
+(133) All this is Your trickery. Give up this artfulness! Why do You steal our lives with Your flute? Do not, for Your own amusement, make Yourself guilty of killing women. Give us the gift of the nectar of Your lips.”
 
 কহিতে কহিতে প্রভুর মন ফিরি’ গেল ৷  
 ক্রোধ মন শান্ত হৈল, উৎকণ্ঠা বাড়িল ॥ ১৩৪ ॥
 
 kahite kahite prabhura mana phiri’ gela  
-krodha mana śānta haila, utkaṇṭhā bāḍila
+speaking  speaking  the Lord’s  mind  turned  went  
+krodha mana śānta haila, utkaṇṭhā bāḍila  
+angry  mind  calm  became  longing  increased
 
-(134) [not yet translated]
+(134) As He spoke, the Lord’s mood changed: His angry mind grew calm, and His longing increased.
 
 পরম দুর্ল্লভ এই কৃষ্ণাধরামৃত ৷  
 তাহা যেই পায়, তার সফল জীবিত ॥ ১৩৫ ॥
 
 parama durllabha ei kṛṣṇādharāmṛta  
-tāhā yei pāya, tāra saphala jīvita
+supremely  rare  this  Kṛṣṇa’s lip-nectar  
+tāhā yei pāya, tāra saphala jīvita  
+it  whoever  obtains  his  successful  life
 
-(135) [not yet translated]
+(135) “This nectar of Kṛṣṇa’s lips is supremely rare. Whoever obtains it has made his life a success.
 
 যোগ্য হঞা কেহ করিতে না পায় পান ৷  
 তথাপি সে নির্লজ্জ, বৃথা ধরে প্রাণ ॥ ১৩৬ ॥
 
 yogya hañā keha karite nā pāya pāna  
-tathāpi se nirlajja, vṛthā dhare prāṇa
+worthy  being  someone  to do  not  gets  drinking  
+tathāpi se nirlajja, vṛthā dhare prāṇa  
+still  he  shameless  in vain  holds  life
 
-(136) [not yet translated]
+(136) If someone worthy cannot drink it and still clings to life, he is shameless and lives in vain.
 
 অযোগ্য হঞা তাহা কেহ সদা পান করে ৷  
 যোগ্য জন নাহি পায়, লোভে মাত্র মরে ॥ ১৩৭ ॥
 
 ayogya hañā tāhā keha sadā pāna kare  
-yogya jana nāhi pāya, lobhe mātra mare
+unworthy  being  it  someone  always  drinking  does  
+yogya jana nāhi pāya, lobhe mātra mare  
+worthy  person  not  gets  from longing  only  dies
 
-(137) [not yet translated]
+(137) Someone unworthy drinks it always, while the worthy one does not get it and only dies of longing.
 
 তাতে জানি, — কোন তপস্যার আছে বল ৷  
 অযোগ্যেরে দেওয়ায় কৃষ্ণাধরামৃত-ফল ॥ ১৩৮ ॥
 
 tāte jāni, — kona tapasyāra āche bala  
-ayogyere deoyāya kṛṣṇādharāmṛta-phala
+therefore  I know  some  austerity’s  is  power  
+ayogyere deoyāya kṛṣṇādharāmṛta-phala  
+to the unworthy  gives  Kṛṣṇa’s lip-nectar  the fruit
 
-(138) [not yet translated]
+(138) So I know that the power of some austerity gives the unworthy the fruit of Kṛṣṇa’s lip-nectar.
 
 ‘কহ রাম-রায়, কিছু শুনিতে হয় মন’ ৷  
 ভাব জানি’ পড়ে রায় গোপীর বচন ॥ ১৩৯ ॥
 
 ‘kaha rāma-rāya, kichu śunite haya mana’  
-bhāva jāni’ paḍe rāya gopīra vacana
+tell  Rāma Rāya  something  to hear  is  My mind  
+bhāva jāni’ paḍe rāya gopīra vacana  
+the mood  knowing  recites  Rāya  of the gopīs  the words
 
-(139) [not yet translated]
+(139) Speak, Rāmānanda Rāya! My mind wants to hear something.” Knowing the Lord’s mood, Rāmānanda Rāya recited the words of the gopīs:
 
 গোপ্যঃ কিমাচরদয়ং কুশলং স্ম বেণু-  
 র্দামোদরাধরসুধামপি গোপিকানাম্ ৷  
@@ -1437,19 +1569,25 @@ bhāva jāni’ paḍe rāya gopīra vacana
 হৃষ্যত্ত্বচোঽশ্রু মুমুচুস্তরবো যথার্য্যাঃ ॥ ১৪০ ॥
 
 gopyaḥ kim ācarad ayaṁ kuśalaṁ sma veṇur  
+O gopīs  what  performed  this  good deed  indeed  flute  
 dāmodarādhara-sudhām api gopikānām  
+of Dāmodara  of the lips  the nectar  even  of the gopīs  
 bhuṅkte svayaṁ yad avaśiṣṭa-rasaṁ hradinyo  
-hṛṣyat-tvaco ’śru mumucus taravo yathāryāḥ
+enjoys  itself  of which  the left-over  taste  the rivers  
+hṛṣyat-tvaco ’śru mumucus taravo yathāryāḥ  
+thrilled  in skin  tears  shed  the trees  like  the elders
 
-(140) [not yet translated]
+(140) “O gopīs, what good deed did this flute perform, that it enjoys by itself the nectar of Dāmodara’s lips, which belongs to the gopīs, leaving only a taste of it behind? The rivers that nourished it thrill with joy, their lotuses like hair standing on end, and the trees shed tears, like elders of a family rejoicing in a descendant.” (Śrīmad-Bhāgavatam, 10.21.9)
 
 এই শ্লোক শুনি’ প্রভু ভাবাবিষ্ট হঞা ৷  
 উৎকণ্ঠাতে অর্থ করে প্রলাপ করিয়া ॥ ১৪১ ॥
 
 ei śloka śuni’ prabhu bhāvāviṣṭa hañā  
-utkaṇṭhāte artha kare pralāpa kariyā
+this  verse  hearing  the Lord  absorbed in feeling  becoming  
+utkaṇṭhāte artha kare pralāpa kariyā  
+in longing  the meaning  makes  raving  doing
 
-(141) [not yet translated]
+(141) Hearing this verse, the Lord became absorbed in feeling, and in His longing He explained its meaning in raving words.
 
 অহো ব্রজেন্দ্রনন্দন, ব্রজের কোন কন্যাগণ,  
 অবশ্য করিব পরিণয় ৷  
@@ -1457,24 +1595,34 @@ utkaṇṭhāte artha kare pralāpa kariyā
 সে সুধা অন্যের লভ্য নয় ॥ ১৪২ ॥
 
 aho vrajendra-nandana,  
+ah  of the king of Vraja  the son  
 vrajera kona kanyā-gaṇa,  
+of Vraja  some  maidens  
 avaśya kariba pariṇaya  
+certainly  will make  marriage  
 se-sambandhe gopī-gaṇa,  
+by that  relation  the gopīs  
 yāre jāne nija-dhana,  
-se sudhā anyera labhya naya
+which  know  their own wealth  
+se sudhā anyera labhya naya  
+that  nectar  for others  attainable  is not
 
-(142) [not yet translated]
+(142) “Ah, the son of the king of Vraja will certainly marry some maidens of Vraja. By that relation the gopīs know this nectar as their own wealth, and it is not for others to attain.
 
 গোপীগণ, কহ সব করিয়া বিচারে ৷  
 কোন্ তীর্থ, কোন্ তপ, কোন্ সিদ্ধমন্ত্র-জপ,  
 এই বেণু কৈল জন্মান্তরে ? ॥ ১৪৩ ॥
 
 gopī-gaṇa, kaha saba kariyā vicāre  
+O gopīs  tell  all  making  consideration  
 kon tīrtha, kon tapa,  
+which  holy place  which  austerity  
 kon siddha-mantra-japa,  
-ei veṇu kaila janmāntare?
+which  perfected  mantra  chanting  
+ei veṇu kaila janmāntare?  
+this  flute  did  in a former birth
 
-(143) [not yet translated]
+(143) O gopīs, think it over together and tell Me: what holy place, what austerity, what chanting of a perfect mantra did this flute perform in a former birth?
 
 হেন কৃষ্ণাধর-সুধা, যে কৈল অমৃত-মুদা,  
 যার আশায় গোপী ধরে প্রাণ ৷  
@@ -1482,13 +1630,19 @@ ei veṇu kaila janmāntare?
 সেই সুধা সদা করে পান ॥ ১৪৪ ॥
 
 hena kṛṣṇādhara-sudhā,  
+such  Kṛṣṇa’s lips’  nectar  
 ye kaila amṛta-mudā,  
+which  made  nectar  eclipsed  
 yāra āśāya gopī dhare prāṇa  
+of which  in the hope  the gopīs  hold  life  
 ei veṇu ayogya ati,  
+this  flute  unworthy  very  
 sthāvara ‘puruṣa-jāti’,  
-sei sudhā sadā kare pāna
+unmoving  of the male  sex  
+sei sudhā sadā kare pāna  
+that  nectar  always  makes  drinking
 
-(144) [not yet translated]
+(144) Such is the nectar of Kṛṣṇa’s lips: it has eclipsed nectar itself, and only in the hope of it do the gopīs keep their lives. Yet this flute, utterly unworthy, an unmoving thing, and of the male sex besides, drinks that nectar all the time.
 
 যার ধন, না কহে তারে, পান করে বলাৎকারে,  
 পিতে তারে ডাকিয়া জানায় ৷  
@@ -1496,13 +1650,19 @@ sei sudhā sadā kare pāna
 ইহার উচ্ছিষ্ট মহাজনে খায় ॥ ১৪৫ ॥
 
 yāra dhana, nā kahe tāre,  
+whose  wealth  not  tells  them  
 pāna kare balātkāre,  
+drinking  makes  by force  
 pite tāre ḍākiyā jānāya  
+to drink  them  calling  announces  
 tāra tapasyāra phala,  
+its  austerity’s  the fruit  
 dekha ihāra bhāgya-bala,  
-ihāra ucchiṣṭa mahā-jane khāya
+see  its  fortune’s  power  
+ihāra ucchiṣṭa mahā-jane khāya  
+its  remnants  the great  eat
 
-(145) [not yet translated]
+(145) Without asking those to whom this wealth belongs, it drinks it by force and loudly calls them to come and drink. See the fruit of its austerity, the power of its good fortune: even the great partake of its remnants.
 
 মানসগঙ্গা, কালিন্দী, ভুবন-পাবনী নদী,  
 কৃষ্ণ যদি তাতে করে স্নান ৷  
@@ -1510,13 +1670,19 @@ ihāra ucchiṣṭa mahā-jane khāya
 সেই কালে হর্ষে করে পান ॥ ১৪৬ ॥
 
 mānasa-gaṅgā, kālindī,  
+the Mānasa-gaṅgā  the Kālindī  
 bhuvana-pāvanī nadī,  
+the world  purifying  rivers  
 kṛṣṇa yadi tāte kare snāna  
+Kṛṣṇa  when  in them  makes  bath  
 veṇu-jhuṭādhara-rasa,  
+of the flute  left over  of the lips  the taste  
 hañā lobhe paravaśa,  
-sei kāle harṣe kare pāna
+being  by longing  overpowered  
+sei kāle harṣe kare pāna  
+at that  time  with joy  make  drinking
 
-(146) [not yet translated]
+(146) The Mānasa-gaṅgā and the Kālindī are rivers that purify the world. When Kṛṣṇa bathes in them, they are overpowered by longing and joyfully drink the taste of His lips left over by the flute.
 
 এ-ত নদী রহু দূরে, বৃক্ষ সব তার তীরে,  
 তপ করে পর-উপকারী ৷  
@@ -1524,13 +1690,19 @@ sei kāle harṣe kare pāna
 কেনে পিয়ে, বুঝিতে না পারি ॥ ১৪৭ ॥
 
 e-ta nadī rahu dūre,  
+these  rivers  let remain  far  
 vṛkṣa saba tāra tīre,  
+trees  all  their  on the banks  
 tapa kare para-upakārī  
+austerity  perform  to others  beneficent  
 nadīra śeṣa-rasa pāñā,  
+of the rivers  the left-over  taste  getting  
 mūla-dvāre ākarṣiyā,  
-kene piye, bujhite nā pāri
+by the roots  drawing up  
+kene piye, bujhite nā pāri  
+why  they drink  to understand  not  I can
 
-(147) [not yet translated]
+(147) But let alone the rivers! The trees on their banks perform austerities and do good to others; yet they take the taste the rivers have left, draw it up through their roots and drink it — why, I cannot understand.[^147-1]
 
 নিজাঙ্কুরে পুলকিত, পুষ্পে হাস্য বিকশিত,  
 মধু-মিষে বহে অশ্রুধার ৷  
@@ -1538,13 +1710,19 @@ kene piye, bujhite nā pāri
 ‘বৈষ্ণব’ হৈলে আনন্দ-বিকার ॥ ১৪৮ ॥
 
 nijāṅkure pulakita,  
+with their own shoots  thrilled  
 puṣpe hāsya vikaśita,  
+in flowers  laughter  blossoming  
 madhu-miṣe vahe aśru-dhāra  
+of honey  in the guise  flow  of tears  streams  
 veṇure māni’ nija-jāti,  
+the flute  regarding  as their own  kin  
 āryera yena putra-nāti,  
-‘vaiṣṇava’ haile ānanda-vikāra
+of a noble man  as  sons  grandsons  
+‘vaiṣṇava’ haile ānanda-vikāra  
+Vaiṣṇavas  becoming  of bliss  transformation
 
-(148) [not yet translated]
+(148) Their new shoots are their hair standing on end, their flowers are blossoming laughter, and in the guise of honey streams of tears flow from them. They regard the flute as their own kin and are transformed by bliss, as a noble man is when his sons and grandsons become Vaiṣṇavas.
 
 বেণুর তপ জানি যবে, সেই তপ করি তবে,  
 এ — অযোগ্য, আমরা — যোগ্যা নারী ৷  
@@ -1552,13 +1730,19 @@ veṇure māni’ nija-jāti,
 তাহা লাগি’ তপস্যা বিচারি ॥ ১৪৯ ॥
 
 veṇura tapa jāni yabe,  
+the flute’s  austerity  we know  when  
 sei tapa kari tabe,  
+that  austerity  we will do  then  
 e — ayogya, āmarā — yogyā nārī  
+it  unworthy  we  worthy  women  
 yā nā pāñā duḥkhe mari,  
+what  not  getting  in grief  we die  
 ayogya piye saite nāri,  
-tāhā lāgi’ tapasyā vicāri
+the unworthy  drinks  to bear  we cannot  
+tāhā lāgi’ tapasyā vicāri  
+that  for the sake of  austerity  we consider
 
-(149) [not yet translated]
+(149) When we know what austerity the flute performed, we will perform the same. It is unworthy, and we are worthy women. We are dying of grief for want of what the unworthy one drinks, and we cannot bear it. That is why we are pondering its austerity.”
 
 এতেক বিলাপ করি’, প্রেমাবেশে গৌরহরি,  
 সঙ্গে লঞা স্বরূপ-রামরায় ৷  
@@ -1566,13 +1750,19 @@ tāhā lāgi’ tapasyā vicāri
 এইরূপে রাত্রি দিন-যায় ॥ ১৫০ ॥
 
 eteka vilāpa kari’,  
+so much  lamentation  making  
 premāveśe gaurahari,  
+absorbed in love  Gaurahari  
 saṅge lañā svarūpa-rāma-rāya  
+with  taking  Svarūpa  Rāma Rāya  
 kabhu nāce, kabhu gāya,  
+sometimes  dances  sometimes  sings  
 bhāvāveśe mūrcchā yāya,  
-ei-rūpe rātri dina-yāya
+in absorption of feeling  into a swoon  goes  
+ei-rūpe rātri dina-yāya  
+in this way  night  day  passes
 
-(150) [not yet translated]
+(150) Thus Gaurahari lamented, absorbed in love, with Svarūpa and Rāmānanda Rāya at His side. Sometimes He danced, sometimes He sang, and sometimes, overcome by feeling, He fell into a swoon. In this way His nights and days passed.
 
 স্বরূপ, রূপ, সনাতন, রঘুনাথের শ্রীচরণ,  
 শিরে ধরি’ করি যার আশ ৷  
@@ -1580,10 +1770,22 @@ ei-rūpe rātri dina-yāya
 গায় দীনহীন কৃষ্ণদাস ॥ ১৫১ ॥
 
 svarūpa, rūpa, sanātana,  
+of Svarūpa  Rūpa  Sanātana  
 raghunāthera śrī-caraṇa,  
+of Raghunātha  the holy feet  
 śire dhari’ kari yāra āśa  
+on my head  placing  I make  whose  hope  
 caitanya-caritāmṛta,  
+the Caitanya-caritāmṛta  
 amṛta haite parāmṛta,  
-gāya dīna-hīna kṛṣṇadāsa
+than nectar  surpassing nectar  
+gāya dīna-hīna kṛṣṇadāsa  
+sings  lowly  and fallen  Kṛṣṇadāsa
 
-(151) [not yet translated]
+(151) Placing on my head the holy feet of Svarūpa, Rūpa, Sanātana and Raghunātha, and hoping for their mercy, I, Kṛṣṇadāsa, lowly and fallen, sing the *Caitanya-caritāmṛta*, a nectar surpassing nectar.
+
+---
+
+[^28-1]: So in the Gauḍīya Maṭha edition: *śāstra ei satya haya / sei nīca nahe, — yāṅte kṛṣṇa-bhakti kaya*. Other editions read *śāstra ei satya kaya / sei śreṣṭha, aiche yāṅte kṛṣṇa-bhakti haya*, “the scriptures speak this truth: the best is one in whom there is devotion to Kṛṣṇa.”
+
+[^147-1]: So in the Gauḍīya Maṭha edition: *e-ta nadī rahu dūre*, “let alone the rivers”. Other editions read *e-ta nārī bahu dūre*, “let alone women”.
