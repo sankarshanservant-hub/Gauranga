@@ -114,7 +114,7 @@ From these and many other statements of scripture we know that transcendental *b
 
 ## 34
 
-“*Pāṭuyā-kholā*”: leaves and bark[^34-1]; “*nikāśiyā*”: taking out.
+“*Pāṭuyā-kholā*”: leaves and bark; “*nikāśiyā*”: taking out.
 
 ## 35
 
@@ -523,7 +523,5 @@ Some said to others: **gopyaḥ** (O *gopīs*), **ayam** **veṇuḥ** **kim** *
 ---
 
 [^7-1]: The edition reads “*Bhāg.* 1.18.38–41”; the places assigned to Kali (gambling, intoxication, and so on) are listed in *Śrīmad-Bhāgavatam* 1.17.38–41.
-
-[^34-1]: The verse translation differs: “from wrappings of banana leaves.”
 
 [^87-1]: The verse translation reads differently: “drives me mad.”
