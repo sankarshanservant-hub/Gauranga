@@ -112,7 +112,7 @@ In the *Mahābhārata* and in the *Skanda Purāṇa* (Utkala-khaṇḍa): “O k
 
 ## 109
 
-**rasa-vāsa** — fragrant and juicy cardamom and cloves; **guḍa-tvak** — cinnamon (*dārucini*) or *jaitrī* (mace); **prākṛta** — all that the conditioned *jīva* enjoys with his senses, out of a desire to arrange his own happiness. All these are material objects: fragmentary, limited, perishable, and subject to the agitations of time.
+**rasavāsa** — fragrant and juicy cardamom and cloves; **guḍatvaka** — cinnamon (*dārucini*) or *jaitrī* (mace); **prākṛta** — all that the conditioned *jīva* enjoys with his senses, out of a desire to arrange his own happiness. All these are material objects: fragmentary, limited, perishable, and subject to the agitations of time.
 
 ## 111
 
