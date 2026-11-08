@@ -75,14 +75,14 @@ tr: The state that came upon the gopīs when Kṛṣṇa went to Mathurā arose 
 ## 13
 w: Uddhava  on seeing  as  Rādhā’s  lament
 w: gradually  arose  the Lord’s  lament of madness
-tr: As Rādhā lamented when she saw Uddhava, so little by little the Lord too began to lament in His madness.
+tr: As Rādhā lamented when She saw Uddhava, so little by little the Lord too began to lament in His madness.
 fn: *Anubhāṣya*: for Śrī Rādhā’s lament see the *Bhramara-gītā*, Śrīmad-Bhāgavatam, 10.47.12–21.
 
 ## 14
 w: of Rādhikā  in the mood  the Lord’s  always  self-conception
 w: in that  mood  of Himself  there is  the sense of being Rādhā
-tr: In the mood of Rādhikā the Lord always had her self-conception (*abhimāna*); in that mood He thought of Himself as Rādhā.
-fn: Heading in the edition: the Lord is filled only with the mood of Śrī Rādhā in separation from Kṛṣṇa, and so in Him there is no desire of Kṛṣṇa for the enjoyment of union (*sambhoga*). *Anubhāṣya*: though Śrī Gaurasundara is Kṛṣṇa Himself, His body is joined with Śrīmatī Rādhikā, and so He was always immersed in her mood.
+tr: Steeped in Rādhikā’s mood, the Lord always had Her sense of self (*abhimāna*); in that mood He knew Himself to be Rādhā.
+fn: Heading in the edition: the Lord is filled only with the mood of Śrī Rādhā in separation from Kṛṣṇa, and so in Him there is no desire of Kṛṣṇa for the enjoyment of union (*sambhoga*). *Anubhāṣya*: though Śrī Gaurasundara is Kṛṣṇa Himself, His body is joined with Śrīmatī Rādhikā, and so He was always immersed in Her mood.
 
 ## 15
 w: in divine madness  thus  it is  what  in this  wonder
@@ -97,7 +97,7 @@ w: resembling bewilderment  some  wondrous display
 w: divine madness  thus  is called
 w: udghūrṇā  citra-jalpa  and others
 w: its varieties  many  are held
-tr: “When the *bhāva* called *mohana* reaches a certain indescribable state, there appears a wondrous display resembling bewilderment; it is called divine madness (*divyonmāda*). It is held to have many varieties, such as *udghūrṇā* and *citra-jalpa*.” (Ujjvala-nīlamaṇi, 14.190)
+tr: “When the *bhāva* called *mohana* reaches a certain indescribable state, there arises in it something wondrous that resembles bewilderment, and this is called divine madness (*divyonmāda*). Its varieties are held to be many, such as *udghūrṇā* and *citra-jalpa*.” (Ujjvala-nīlamaṇi, 14.190)
 
 ## 17
 w: one day  Mahāprabhu  had lain down  to rest
@@ -107,7 +107,7 @@ tr: One day, as Mahāprabhu lay asleep, He saw Kṛṣṇa’s rāsa-līlā in a
 ## 18
 w: bent in three places  beautiful  body  with the flute at His lips
 w: yellow garment  forest garland  of Madana  the enchanter
-tr: His beautiful form was bent in three places, the flute was at His lips, and He wore yellow cloth and a garland of forest flowers — the enchanter of Madana, the god of love.
+tr: Kṛṣṇa’s beautiful form was bent in three places, the flute at His lips; He wore yellow cloth and a garland of forest flowers — the enchanter of Madana, the god of love.
 
 ## 19
 w: in a circle  the gopīs  were  dancing
@@ -203,7 +203,7 @@ tr: Like one who has lost a jewel he had just found, He was in turmoil, and He r
 ## 36
 w: the ground  upon  sitting  with His own nails  the ground  He scratches
 w: a Ganges of tears  from the eyes  flows  anything  not  He sees
-tr: Sitting on the ground, He scratched the ground with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
+tr: Sitting on the ground, He scratched at the earth with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
 
 ## 37
 w: I found  of Vṛndāvana  the Lord  again  I lost
@@ -240,7 +240,7 @@ w: Mahāprabhu  with anguish  overwhelmed
 w: of Rāya and Svarūpa  the necks  clasping
 w: He says  alas  Hari  Hari
 w: composure  went  He became  restless
-tr: Having lost the jewel He had found and remembering its qualities, Mahāprabhu was overwhelmed with anguish. Clasping Rāya and Svarūpa by the neck, He cried, “Alas! Hari! Hari!” His composure gone, He became restless.
+tr: Having lost the jewel He had found and remembering its qualities, Mahāprabhu was overwhelmed with anguish. Clasping Rāya and Svarūpa by the neck, He cried, “Alas! Hari! Hari!” His composure gave way, and He grew restless.
 
 ## 43
 w: hear  friends  of Kṛṣṇa  the sweetness
@@ -385,7 +385,7 @@ tr: Not seeing the Lord, everyone grew anxious, and in great distress they all w
 ## 62
 w: of the Siṁha-dvāra  on the north side  there is  one  place
 w: of it  in the midst  fallen  is  Caitanya  Gosāñi
-tr: On the north side of the Siṁha-dvāra (the Lion Gate) there is a certain spot, and there Caitanya Gosāñi lay fallen.
+tr: On the north side of the Siṁha-dvāra (the Lion Gate) there is a certain spot, and there Caitanya Gosāñi lay where He had fallen.
 
 ## 63
 w: seeing  Svarūpa Gosāñi and the others  joyful  became
@@ -423,7 +423,7 @@ tr: Then Svarūpa Gosāñi, together with the devotees, loudly chanted the name 
 ## 70
 w: after a long time  Kṛṣṇa’s name  into the heart  entered
 w: Haribol  saying  the Lord  roaring  rose
-tr: After a long while the name of Kṛṣṇa entered His heart. Crying “Haribol!”, the Lord rose up with a roar.
+tr: After a long while the name of Kṛṣṇa entered His heart, and with a thunderous cry of “Haribol!” the Lord sprang up.
 
 ## 71
 w: consciousness  on regaining  the bone-joints  joined
@@ -444,7 +444,7 @@ w: rolling  on the ground  piteously  in utter
 w: distress  with choked voice
 w: weeping  Śrī Gaurāṅga  in the heart
 w: rising  me  maddens
-tr: “Once, in the house of Miśra, in intense separation from the son of the lord of Vraja, the beauty and the joints of His limbs gave way, and His arms and legs grew unnaturally long. Rolling on the ground, in utter distress, He wept piteously in a voice choked with feeling. That Śrī Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 4)
+tr: “Once, in Miśra’s house, in intense separation from the son of the lord of Vraja, His arms and legs grew unnaturally long, for the beauty and the joints of His limbs had given way. Rolling on the ground in utter distress, He wept piteously in a voice choked with feeling. That Śrī Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 4)
 fn: *Anubhāṣya*: *śrī* is beauty: both the beauty and the joints of His arms and legs gave way, leaving their places; *madayati* — “gladdens, fills with bliss”.
 
 ## 74
@@ -466,7 +466,7 @@ tr: Saying this, he held the Lord and took Him to His room, and there began to t
 ## 77
 w: hearing  Mahāprabhu  greatly  became  astonished
 w: the Lord  says  —  any  memory  is not  Mine
-tr: Hearing this, Mahāprabhu was greatly astonished. The Lord said, “I remember nothing of it!
+tr: Hearing this, Mahāprabhu was greatly astonished and said, “I remember nothing of it!
 
 ## 78
 w: only  I see  —  is  My  Kṛṣṇa  present
@@ -482,12 +482,12 @@ fn: So in the Gauḍīya Maṭha edition: *pāni-śaṅkha*. The *Anubhāṣya* 
 ## 80
 w: thus  indeed  I have told  of the Lord  wonderful  transformations
 w: of which  in the hearing  in people  arises  wonder
-tr: Thus I have described the Lord’s wonderful transformations; whoever hears of them is struck with wonder.
+tr: Thus I have described the Lord’s extraordinary transformations; whoever hears of them is struck with wonder.
 
 ## 81
 w: people  not  see  such  in the scriptures  not  we hear
 w: such  ecstasy  manifest  makes  of sannyāsīs  the crest-jewel
-tr: People have never seen such things, nor do we hear of them in the scriptures; yet the crest-jewel of sannyāsīs reveals such feelings.
+tr: Such things are not seen in this world, nor do we hear of them in the scriptures; yet the crest-jewel of sannyāsīs reveals such feelings.
 
 ## 82
 w: scriptures  world  beyond  whatever  whatever  emotion  is
@@ -547,7 +547,7 @@ tr: At first the Lord went like the wind; but on the way He was seized by stupor
 ## 92
 w: at every  hair  pore  the flesh  —  of a boil  the shape
 w: it  upon  the hair standing on end  —  kadamba  like
-tr: At every pore the flesh swelled up like a boil, and on it the hairs stood on end, like the filaments of a kadamba flower.
+tr: At every pore the flesh rose in a tiny swelling, and on it the hairs stood on end, like the filaments of a kadamba flower.
 
 ## 93
 w: at every  hair  perspiration  falls  of blood  a stream
@@ -562,7 +562,7 @@ tr: His two eyes filled, and tears flowed endlessly, as if the streams of the Ga
 ## 95
 w: pallor  conch  like  white  became  the body
 w: then  trembling  rises  —  like  in the sea  waves
-tr: His pallor was like that of a conch, and His body turned white. Then a trembling arose in Him, like waves on the sea.
+tr: His colour faded, and His body turned white as a conch. Then a trembling arose in Him, like waves on the sea.
 
 ## 96
 w: trembling  trembling  the Lord  on the ground  fell
@@ -577,7 +577,7 @@ tr: With water from the waterpot (*karaṅga*) he sprinkled the Lord’s whole b
 ## 98
 w: Svarūpa and others  there  coming  met
 w: of the Lord  the condition  seeing  to weep  began
-tr: Svarūpa and the others came and joined them there; seeing the Lord’s condition, they began to weep.
+tr: Svarūpa and the others arrived there; seeing the Lord’s condition, they began to weep.
 
 ## 99
 w: of the Lord  in the body  they see  eight  sāttvika  transformations
@@ -623,7 +623,7 @@ tr: Today I went from here to Govardhana to see whether Kṛṣṇa was grazing 
 ## 107
 w: on Govardhana  climbing  Kṛṣṇa  played  the flute
 w: of Govardhana  all around  graze  all  the cows
-tr: Kṛṣṇa climbed Govardhana and played His flute, and all around Govardhana the cows were grazing.
+tr: Kṛṣṇa had climbed Govardhana and was playing His flute, and all around the hill the cows were grazing.
 
 ## 108
 w: of the flute  the sound  hearing  came  Rādhā Ṭhākurāṇī
@@ -695,7 +695,7 @@ w: going  I am  thus  saying  mad
 w: as if  running  followed
 w: by companions  His own  Gaurāṅga  in the heart
 w: rising  me  maddens
-tr: “Near Nīlādri He saw the Caṭaka hill, a king among hills, and cried, ‘Ah! From here I am going to Vraja, to see Govardhana, the lord of hills!’ Saying this, He ran like one mad, and His own companions followed after Him. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 8)
+tr: “Near Nīlādri He beheld the Caṭaka hill, a king among hills. ‘Ah! From here I am going to Vraja, to see Govardhana, the lord of hills!’ He cried, and ran like one mad, with His own companions following after Him. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 8)
 fn: *Anubhāṣya*: *caṭaka-giri-rāja* is a mountain that appears as a sand hill; *avadhṛtaḥ* — “followed from behind” (by Svarūpa and the others); *madayati* — “fills with bliss”.
 
 ## 121
@@ -707,7 +707,7 @@ fn: So in the Gauḍīya Maṭha edition: *ke bujhite pāre*, “who can underst
 ## 122
 w: in brief  making  I do  of direction  showing
 w: whoever  this  hears  attains  Kṛṣṇa’s  feet
-tr: Telling it briefly, I have only pointed the way. Whoever hears this attains the feet of Kṛṣṇa.
+tr: I have told this only briefly, just to point the way. Whoever hears it attains the feet of Kṛṣṇa.
 fn: Heading in the edition: only by following the Lord in His separation from Kṛṣṇa does the soul attain Kṛṣṇa’s feet.
 
 ## 123

@@ -136,7 +136,7 @@ Uddhava  on seeing  as  Rādhā’s  lament
 krame krame haila prabhura unmāda-vilāpa  
 gradually  arose  the Lord’s  lament of madness
 
-(13) As Rādhā lamented when she saw Uddhava, so little by little the Lord too began to lament in His madness.[^5]
+(13) As Rādhā lamented when She saw Uddhava, so little by little the Lord too began to lament in His madness.[^5]
 
 রাধিকার ভাবে প্রভুর সদা ‘অভিমান’ ৷  
 সেই ভাবে আপনাকে হয় ‘রাধা’-জ্ঞান ॥ ১৪ ॥
@@ -146,7 +146,7 @@ of Rādhikā  in the mood  the Lord’s  always  self-conception
 sei bhāve āpanāke haya ‘rādhā’-jñāna  
 in that  mood  of Himself  there is  the sense of being Rādhā
 
-(14) In the mood of Rādhikā the Lord always had her self-conception (*abhimāna*); in that mood He thought of Himself as Rādhā.[^6]
+(14) Steeped in Rādhikā’s mood, the Lord always had Her sense of self (*abhimāna*); in that mood He knew Himself to be Rādhā.[^6]
 
 দিব্যোন্মাদে ঐছে হয়, কি ইহা বিস্ময় ?  
 অধিরূঢ়-ভাবে দিব্যোন্মাদ-প্রলাপ হয় ॥ ১৫ ॥
@@ -175,7 +175,7 @@ udghūrṇā  citra-jalpa  and others
 tad-bhedā bahavo matāḥ  
 its varieties  many  are held
 
-(16) “When the *bhāva* called *mohana* reaches a certain indescribable state, there appears a wondrous display resembling bewilderment; it is called divine madness (*divyonmāda*). It is held to have many varieties, such as *udghūrṇā* and *citra-jalpa*.” (Ujjvala-nīlamaṇi, 14.190)
+(16) “When the *bhāva* called *mohana* reaches a certain indescribable state, there arises in it something wondrous that resembles bewilderment, and this is called divine madness (*divyonmāda*). Its varieties are held to be many, such as *udghūrṇā* and *citra-jalpa*.” (Ujjvala-nīlamaṇi, 14.190)
 
 একদিন মহাপ্রভু কৈরাছেন শয়ন ৷  
 কৃষ্ণ রাসলীলা করে, — দেখিলা স্বপন ॥ ১৭ ॥
@@ -195,7 +195,7 @@ bent in three places  beautiful  body  with the flute at His lips
 pītāmbara, vana-mālā, madana-mohana  
 yellow garment  forest garland  of Madana  the enchanter
 
-(18) His beautiful form was bent in three places, the flute was at His lips, and He wore yellow cloth and a garland of forest flowers — the enchanter of Madana, the god of love.
+(18) Kṛṣṇa’s beautiful form was bent in three places, the flute at His lips; He wore yellow cloth and a garland of forest flowers — the enchanter of Madana, the god of love.
 
 মণ্ডলীবন্ধে গোপীগণ করেন নর্ত্তন ৷  
 মধ্যে রাধা-সহ নাচে ব্রজেন্দ্রনন্দন ॥ ১৯ ॥
@@ -375,7 +375,7 @@ the ground  upon  sitting  with His own nails  the ground  He scratches
 aśru-gaṅgā netre vahe, kichui nā dekhe  
 a Ganges of tears  from the eyes  flows  anything  not  He sees
 
-(36) Sitting on the ground, He scratched the ground with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
+(36) Sitting on the ground, He scratched at the earth with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
 
 পাইনু বৃন্দাবননাথ, পুনঃ হারাইনু ৷  
 কে মোর নিলেক কৃষ্ণ? কাঁহা মুই আইনু ? ॥ ৩৭ ॥
@@ -451,7 +451,7 @@ He says  alas  Hari  Hari
 dhairya gela, hailā capala  
 composure  went  He became  restless
 
-(42) Having lost the jewel He had found and remembering its qualities, Mahāprabhu was overwhelmed with anguish. Clasping Rāya and Svarūpa by the neck, He cried, “Alas! Hari! Hari!” His composure gone, He became restless.
+(42) Having lost the jewel He had found and remembering its qualities, Mahāprabhu was overwhelmed with anguish. Clasping Rāya and Svarūpa by the neck, He cried, “Alas! Hari! Hari!” His composure gave way, and He grew restless.
 
 শুন, বান্ধব, কৃষ্ণের মাধুরী ৷  
 যার লোভে মোর মন, ছাড়ি’ লোক-বেদধর্ম্ম,  
@@ -740,7 +740,7 @@ of the Siṁha-dvāra  on the north side  there is  one  place
 tāra madhye paḍi’ āchena caitanya-gosāñi  
 of it  in the midst  fallen  is  Caitanya  Gosāñi
 
-(62) On the north side of the Siṁha-dvāra (the Lion Gate) there is a certain spot, and there Caitanya Gosāñi lay fallen.
+(62) On the north side of the Siṁha-dvāra (the Lion Gate) there is a certain spot, and there Caitanya Gosāñi lay where He had fallen.
 
 দেখি’ স্বরূপ-গোসাঞি-আদি আনন্দিত হৈলা ৷  
 প্রভুর দশা দেখি’ পুনঃ চিন্তিতে লাগিলা ॥ ৬৩ ॥
@@ -817,7 +817,7 @@ after a long time  Kṛṣṇa’s name  into the heart  entered
 ‘hari-bola’ bali’ prabhu garjiyā uṭhilā  
 Haribol  saying  the Lord  roaring  rose
 
-(70) After a long while the name of Kṛṣṇa entered His heart. Crying “Haribol!”, the Lord rose up with a roar.
+(70) After a long while the name of Kṛṣṇa entered His heart, and with a thunderous cry of “Haribol!” the Lord sprang up.
 
 চেতন পাইতে অস্থি-সন্ধি লাগিল ৷  
 পূর্ব্বপ্রায় যথাবৎ শরীর হইল ॥ ৭১ ॥
@@ -861,7 +861,7 @@ weeping  Śrī Gaurāṅga  in the heart
 udayan māṁ madayati  
 rising  me  maddens
 
-(73) “Once, in the house of Miśra, in intense separation from the son of the lord of Vraja, the beauty and the joints of His limbs gave way, and His arms and legs grew unnaturally long. Rolling on the ground, in utter distress, He wept piteously in a voice choked with feeling. That Śrī Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 4)[^23]
+(73) “Once, in Miśra’s house, in intense separation from the son of the lord of Vraja, His arms and legs grew unnaturally long, for the beauty and the joints of His limbs had given way. Rolling on the ground in utter distress, He wept piteously in a voice choked with feeling. That Śrī Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 4)[^23]
 
 সিংহদ্বারে দেখি’ প্রভুর বিস্ময় হইলা ৷  
 ক্যা কর, কিবা — এই স্বরূপে পুছিলা ॥ ৭৪ ॥
@@ -901,7 +901,7 @@ hearing  Mahāprabhu  greatly  became  astonished
 prabhu kahe, — kichu smṛti nāhika āmāra!  
 the Lord  says  —  any  memory  is not  Mine
 
-(77) Hearing this, Mahāprabhu was greatly astonished. The Lord said, “I remember nothing of it!
+(77) Hearing this, Mahāprabhu was greatly astonished and said, “I remember nothing of it!
 
 সবে দেখি — হয় মোর কৃষ্ণ বিদ্যমান ৷  
 বিদ্যুৎপ্রায় দেখা দিয়া হয় অন্তর্দ্ধান ॥ ৭৮ ॥
@@ -931,7 +931,7 @@ thus  indeed  I have told  of the Lord  wonderful  transformations
 yāhāra śravaṇe loke lāge camatkāra  
 of which  in the hearing  in people  arises  wonder
 
-(80) Thus I have described the Lord’s wonderful transformations; whoever hears of them is struck with wonder.
+(80) Thus I have described the Lord’s extraordinary transformations; whoever hears of them is struck with wonder.
 
 লোকে নাহি দেখে ঐছে, শাস্ত্রে নাহি শুনি ৷  
 হেন ভাব ব্যক্ত করে ন্যাসি-চূড়ামণি ॥ ৮১ ॥
@@ -941,7 +941,7 @@ people  not  see  such  in the scriptures  not  we hear
 hena bhāva vyakta kare nyāsi-cūḍāmaṇi  
 such  ecstasy  manifest  makes  of sannyāsīs  the crest-jewel
 
-(81) People have never seen such things, nor do we hear of them in the scriptures; yet the crest-jewel of sannyāsīs reveals such feelings.
+(81) Such things are not seen in this world, nor do we hear of them in the scriptures; yet the crest-jewel of sannyāsīs reveals such feelings.
 
 শাস্ত্রলোকাতীত যেই যেই ভাব হয় ৷  
 ইতর-লোকের তাতে না হয় নিশ্চয় ॥ ৮২ ॥
@@ -1057,7 +1057,7 @@ at every  hair  pore  the flesh  —  of a boil  the shape
 tāra upare romodgama — kadamba-prakāra  
 it  upon  the hair standing on end  —  kadamba  like
 
-(92) At every pore the flesh swelled up like a boil, and on it the hairs stood on end, like the filaments of a kadamba flower.
+(92) At every pore the flesh rose in a tiny swelling, and on it the hairs stood on end, like the filaments of a kadamba flower.
 
 প্রতি-রোমে প্রস্বেদ পড়ে রুধিরের ধার ৷  
 কণ্ঠে ঘর্ঘর, নাহি বর্ণের উচ্চার ॥ ৯৩ ॥
@@ -1087,7 +1087,7 @@ pallor  conch  like  white  became  the body
 tabe kampa uṭhe, — yena samudre taraṅga  
 then  trembling  rises  —  like  in the sea  waves
 
-(95) His pallor was like that of a conch, and His body turned white. Then a trembling arose in Him, like waves on the sea.
+(95) His colour faded, and His body turned white as a conch. Then a trembling arose in Him, like waves on the sea.
 
 কাঁপিতে কাঁপিতে প্রভু ভূমেতে পড়িলা ৷  
 তবে ত’ গোবিন্দ প্রভুর নিকটে আইলা ॥ ৯৬ ॥
@@ -1117,7 +1117,7 @@ Svarūpa and others  there  coming  met
 prabhura avasthā dekhi’ kāndite lāgilā  
 of the Lord  the condition  seeing  to weep  began
 
-(98) Svarūpa and the others came and joined them there; seeing the Lord’s condition, they began to weep.
+(98) Svarūpa and the others arrived there; seeing the Lord’s condition, they began to weep.
 
 প্রভুর অঙ্গে দেখে অষ্টসাত্ত্বিক বিকার ৷  
 আশ্চর্য্য সাত্ত্বিক দেখি’ হৈলা চমৎকার ॥ ৯৯ ॥
@@ -1207,7 +1207,7 @@ on Govardhana  climbing  Kṛṣṇa  played  the flute
 govardhanera caudike care saba dhenu  
 of Govardhana  all around  graze  all  the cows
 
-(107) Kṛṣṇa climbed Govardhana and played His flute, and all around Govardhana the cows were grazing.
+(107) Kṛṣṇa had climbed Govardhana and was playing His flute, and all around the hill the cows were grazing.
 
 বেণুনাদ শুনি’ আইলা রাধা-ঠাকুরাণী ৷  
 সব সখীগণ-সঙ্গে করিয়া সাজনি ॥ ১০৮ ॥
@@ -1351,7 +1351,7 @@ by companions  His own  Gaurāṅga  in the heart
 udayan māṁ madayati  
 rising  me  maddens
 
-(120) “Near Nīlādri He saw the Caṭaka hill, a king among hills, and cried, ‘Ah! From here I am going to Vraja, to see Govardhana, the lord of hills!’ Saying this, He ran like one mad, and His own companions followed after Him. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 8)[^31]
+(120) “Near Nīlādri He beheld the Caṭaka hill, a king among hills. ‘Ah! From here I am going to Vraja, to see Govardhana, the lord of hills!’ He cried, and ran like one mad, with His own companions following after Him. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 8)[^31]
 
 এবে প্রভু যত কৈলা অলৌকিক লীলা ৷  
 কে বুঝিতে পারে সেই মহাপ্রভুর খেলা ॥ ১২১ ॥
@@ -1371,7 +1371,7 @@ in brief  making  I do  of direction  showing
 yei ihā śune, pāya kṛṣṇera caraṇa  
 whoever  this  hears  attains  Kṛṣṇa’s  feet
 
-(122) Telling it briefly, I have only pointed the way. Whoever hears this attains the feet of Kṛṣṇa.[^33]
+(122) I have told this only briefly, just to point the way. Whoever hears it attains the feet of Kṛṣṇa.[^33]
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১২৩ ॥
@@ -1395,7 +1395,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^5]: *Anubhāṣya*: for Śrī Rādhā’s lament see the *Bhramara-gītā*, Śrīmad-Bhāgavatam, 10.47.12–21.
 
-[^6]: Heading in the edition: the Lord is filled only with the mood of Śrī Rādhā in separation from Kṛṣṇa, and so in Him there is no desire of Kṛṣṇa for the enjoyment of union (*sambhoga*). *Anubhāṣya*: though Śrī Gaurasundara is Kṛṣṇa Himself, His body is joined with Śrīmatī Rādhikā, and so He was always immersed in her mood.
+[^6]: Heading in the edition: the Lord is filled only with the mood of Śrī Rādhā in separation from Kṛṣṇa, and so in Him there is no desire of Kṛṣṇa for the enjoyment of union (*sambhoga*). *Anubhāṣya*: though Śrī Gaurasundara is Kṛṣṇa Himself, His body is joined with Śrīmatī Rādhikā, and so He was always immersed in Her mood.
 
 [^7]: *Divyonmāda* is the highest manifestation of *mahābhāva*, not worldly madness.
 
