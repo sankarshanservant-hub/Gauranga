@@ -108,6 +108,150 @@ Climbing onto the Garuḍa pillar is an offense to a Vaiṣṇava, and putting a
 
 “*Ādibasyā*”: see Antya 10.116.
 
+## 27
+
+> Subheading: The woman at once climbs down, bows to the Lord and humbly speaks of her unworthiness —
+
+## 28
+
+> Subheading: Seeing her ardent love, the Lord speaks humbly of Himself and praises her as a guru —
+
+*Ārti*: an ardent wish to see. In her eagerness to see Jagannātha the woman ceased to distinguish good from bad, and without knowing it she set her foot on the highest part of the body (*uttamāṅga*) of the supremely worshipable Mahāprabhu.
+
+## 29
+
+> Subheading: The teaching not to view a servant of Kṛṣṇa with sense-born knowledge, by external marks such as “woman” or “man” —
+
+## 32
+
+> Subheading: The Lord, full of the mood of a *gopī*, His mind absorbed in Kṛṣṇa, sees Kṛṣṇa everywhere —
+
+## 33
+
+> Subheading: The Lord comes back to external consciousness —
+
+## 34
+
+> Subheading: Seeing Vāsudeva at Kurukṣetra, the Lord is full of the mood of a *gopī* separated from Śyāma —
+
+## 35
+
+> Subheading: The Lord suffers in the mood of a *gopī* deprived of Kṛṣṇa's company —
+
+## 36
+
+> Subheading: The Lord's outward signs of *mahābhāva* in separation from Kṛṣṇa —
+
+## 38
+
+> Subheading: The signs of half-external consciousness —
+
+## 39
+
+> Subheading: Seized by divine madness, the Lord performs His daily duties and the like out of habit —
+
+## 40
+
+> Subheading: At night the Lord pours out His grief before Svarūpa and Rāmānanda —
+
+## 41
+
+> Subheading: (A verse spoken by Gosvāmipāda)
+
+**prāpta-praṇaṣṭācyuta-vittaḥ** (whose treasure, Acyuta, was first obtained — met on the path of the eyes — and then *praṇaṣṭa*, lost again, gone from sight), **viṣādojjhita-deha-gehaḥ** (who, from grief — the pain born of separation from Kṛṣṇa — has all but abandoned its house, the body), **gṛhīta-kāpālika-dharmakaḥ** (having accepted the *dharma* — the natural traits and so on — of a *kāpālika*, a particular kind of yogī) **me** (My) **ātmā** (pure mind) **sendriya-śiṣya-vṛndaḥ** (together with its disciples, the senses) **vṛndāvanaṁ** **yayau** (went to Vṛndāvana).
+
+## 42
+
+> Subheading: The divine madness (*citra-jalpa*) of the Lord deprived of Kṛṣṇa's company — [in any suitable melody]
+
+## 43
+
+> Subheading: How the power of attraction of Kṛṣṇa's sweetness brought [the Lord] to the ten states —
+
+## 45
+
+> Subheading: The states of anxious thought (*cintā*), uncleanliness of the body (*malināṅgatā*) and incoherent speech (*pralāpa*) —
+
+A variant reading: *lobhera jhulnī māthe*. The word *jhulnī* means a cloth that can cover the head.
+
+## 46
+
+> Subheading: The state of emaciation (*tānava*) —
+
+*Tarjā* (Arabic *tarjā*): a song contest between two parties in which each refutes the other's answers; akin to the *kavi-gān* and the *jhumur*.
+
+## 47
+
+> Subheading: The state of madness (*unmāda*) —
+
+## 50
+
+> Subheading: The state of wakefulness (*jāgara*) —
+
+## 51
+
+> Subheading: The states of sickness (*vyādhi*), fainting (*moha*) and death (*mṛtyu*, *pralaya*); *citra-jalpa* —
+
+The *kāpālikas* are a particular kind of yogī. They wander about with a human skull (*kapāla*). This part is described by analogy with their tantric rites. The *kāpālikas* do not follow the Vedas and are untouchable, and so they are not Vaiṣṇavas; only a comparison with their behavior is taken here.
+
+## 52
+
+> Subheading: In separation from Kṛṣṇa the Lord experiences the ten states of a *gopī* whose beloved has gone abroad (*proṣita-bhartṛkā*) —
+
+## 53
+
+> Subheading: The names of the ten states — (Ujjvala-nīlamaṇi, in the account of the varieties of *śṛṅgāra*, verse 167)
+
+(Here the ten states in the separation called *pravāsa*, the beloved's absence abroad, are named): **cintā** (pondering how to attain the desired object), **jāgaraḥ** (absence of sleep), **udvegaḥ** (a particular trembling of the mind), **tānavaṁ** (thinness), **malināṅgatā** (uncleanliness of the body), **pralāpaḥ** (incoherent speech), **vyādhiḥ**, **unmādaḥ** (being possessed by bewildered actions), **mohaḥ** (bewilderment of mind), **mṛtyuḥ** (absence of movement).
+
+A garland of examples follows. Among them:
+
+(1) *Cintā*, as in the Haṁsadūta: “When Mukunda, the delight of the *gopīs'* hearts, yielding to the son of Gāndinī, left Nanda's home for Madhupurī, Rādhā in separation sank into the bottomless river of anxious thought, whose waters are torment and whose whirlpools are deep.” That is: “When at Akrūra's request the joy of the *gopīs'* hearts left Nanda's house for Mathurā, Rādhā's mind in separation began to whirl. Her burning thoughts were the water of sharp pain, and thoughts of her own death and distress were the foam; and she sank to the floor of the fathomless river of thought: ‘My beloved Kṛṣṇa will come to Vraja later, full of longing, to look for me. When He hears from people's lips of my death, His heart will never again find happiness. Considering how heavy my beloved's grief would be, my heart never wishes for death.’”
+
+(2) *Jāgara*, as in the Padyāvalī: “Blessed, friend, are the women who see their beloved in dreams. But for us, since Kṛṣṇa went away, even sleep has gone — it has become our enemy.” That is: “Rādhā-ṭhākurāṇī, thinking herself unfortunate, said to her dear friend Viśākhā: ‘The woman to whom her beloved appears in dreams has good fortune written on her forehead. But since Kṛṣṇa left, sleep, my foe, has deserted me — it treats me as an enemy.’”
+
+(3) *Udvega*, as in the Haṁsadūta: “Alas, what torment! My mind is burning. Ah, what shall I do? O fair-faced one, I see neither the far shore nor the near shore of this ocean. I bow my head to you: tell me quickly the means by which I might gain even a momentary particle of composure.” That is: “Rādhā says to Lalitā: ‘O fair-faced Lalitā, my heart is burning — I cannot even say how. Alas, what shall I do? I see the ocean has no shore. I bow at your feet; judge for yourself. Advise me what to do, how I may keep a little composure even for a moment.’”
+
+(4) *Tānava*, for example: “O Lord of the Yadus! The lotus of her face has changed, her heart is clouded, the *cakravāka* birds of her breasts have withered, for she is always without food. Drying up day by day from the heat of separation from You, Rādhā wastes away to the utmost, like a stream in the summer heat.” That is: “When Uddhava returned to Kṛṣṇa, Kṛṣṇa asked him about Rādhikā and Viśākhā. In reply Uddhava spoke, and Kṛṣṇacandra in Mathurā listened eagerly: ‘O Lord of the Yadus, what shall I say of all this, of the pain Rādhā suffers in separation from You! The lotus of her face has paled and lost its color; her heart is shrouded in deep sorrow and humility. Without food the two *cakravāka* birds of her breast have withered[^53-1] — I saw it; listen, O Rasamaya. As water dries up in the summer heat, so Rādhā has wasted away in the heat of separation from You.’”
+
+(5) *Malināṅgatā*, for example: “O Aghahara! The beauty of Viśākhā's face has become like a lotus struck by heavy frost, her lips like a *bandhujīva* flower faded by a harsh wind, and her eyes like blue lotuses scorched by the autumn sun: the calamity of separation from You has withered her.” That is: “Uddhava says: ‘Listen, my Aghahara! The lips of Viśākhā, tormented by separation, have dried like a *bandhu* flower in gusts of harsh wind; her lips, red as the *bimba* fruit, are like a lotus struck by a heap of frost. Under the calamity of separation Viśākhā is utterly wretched, and her eyes are like *kumuda* lotuses scorched by the autumn sun.’”
+
+(6) *Pralāpa*, as in the Lalita-mādhava: “Where is the moon of Nanda's line? Where is He who is adorned with peacock feathers? Where is the deep sound of the flute? Where is the luster like that of the king of sapphires? Where is He who dances in the rapture of *rasa*? Where, friend, is my dearest friend, the treasure-house of the medicine that preserves my life? Where is He — your [friend]? Alas, ah, shame on the Creator!” That is: “Rādhā, whose beloved has gone abroad, laments in anguish: ‘Friend, where is the moon of Nanda's line? Tell me, where has He gone whose ornament is peacock feathers? Where has He gone who plays the flute with a deep sound? Where is the best of men, shining like a sapphire, your dearest friend, who dances in the rapture of *rasa*? Tell me, where is the treasure-house of the medicine that preserves my life? Shame on you, Creator, for writing such a fate for me!’”
+
+(7) *Vyādhi*, as in the Lalita-mādhava: “This mighty fever, born of separation from the Lord of Gokula, burns more than firing in a sealed crucible, torments more than a host of poisons, is more unbearable than a thunderbolt, sharper than a spear lodged in the heart, worse than the most severe cholera — today it pierces my innermost vitals.” That is: “Rādhā in separation says: ‘Listen, Lalitā: I cannot describe the fever of separation from Kṛṣṇa. [It burns me] as fire burns gold in a clay crucible; it torments more than poison and the like and is more unbearable than a thunderbolt; it is like a lodged spear, and in its agony like severe cholera. Friend, she who pierces my heart is mighty in her great strength.’”
+
+(8) *Unmāda*, for example: “O Murāri! Rādhā, her mind bewildered and pouring out the anguish of cruel separation, wanders through the house laughing for no reason, tells of You to the conscious and the unconscious alike, and, trembling in every limb, rolls on the ground.” That is, Uddhava says: “O Murāri, Rādhā, tormented by separation from You, laughs for no reason. Wandering through the house, she questions whoever is there and does not consider whether it is conscious or not. Rādhikā, stricken by the anguish of cruel separation, now rolls on the ground in the grip of bewilderment.”
+
+(9) *Moha*, for example: “O enemy of Kaṁsa! Now only one companion, the swoon of separation from You, serves as counselor to [Rādhā], whose eyes are like blue lotuses: it holds back the ocean of misery, removes the humiliation of heavy thoughts, destroys madness and forcibly stops the waves of tears.” That is: “Lalitā wrote Kṛṣṇa a letter: ‘In separation from You Rādhikā has fainted. O enemy of Kaṁsa, [the swoon] has become her counselor: it carries off the ocean of misery, calms the agitation of her mind, and forcibly stops the waves of her tears. Rādhā remains absorbed in heavy thoughts of You. I trust You will obtain the great treasure — the killing of a woman. Stop thinking about Śrī Rādhā: today or tomorrow You will receive the news. Live happily, in special joy.’”
+
+(10) *Mṛtyu*, as in the Haṁsadūta: “O You who relish the *rasa* of the *rāsa* pastime! Alas, You once bound to my friend an ever-new, deep wave of love. If now You have become indifferent to her, then shame on this wisp of cotton: held to her nose, it still stirs!” That is: “Reproaching Kṛṣṇa, who lives in Mathurā, the beautiful Lalitā-devī speaks through the swan: ‘O You who are full of the *rasa* of the *rāsa* pastime, for the sake of *rasa* You bound Rādhikā with the bonds of love. Why then are You indifferent to my dear friend? Rādhikā remembers all this at every moment. I shall hold a wisp of cotton to her nostrils to test her: if her breath still flows, shame on it!’”
+
+## 55
+
+> Subheading: Rāmānanda Rāya recites verses suited to the Lord's mood of separation and to the moment —
+
+## 56
+
+> Subheading: With songs suited to each mood and moment, Svarūpa brings the Lord back to consciousness —
+
+## 57
+
+> Subheading: The Lord is put to bed inside the house —
+
+## 58
+
+> Subheading: Everyone lies down in his own place —
+
+## 59
+
+> Subheading: The Lord stays awake all night, loudly chanting Kṛṣṇa's names —
+
+## 60
+
+> Subheading: Hearing no *kīrtana* and no sound at all, everyone searches for the Lord and cannot find Him —
+
 ---
 
 [^16-1]: The verse translation reads differently: it speaks of intensified love leading to complete bewilderment and then to a state of extreme wonder that awakens the madness of divine love; *mohana* is not mentioned there.
+
+[^53-1]: Unclear passage in the scan: “বক্ষশ্চ-কোরিকা”; by the sense of the verse, the *koka* (*cakravāka*) birds of the breast.
