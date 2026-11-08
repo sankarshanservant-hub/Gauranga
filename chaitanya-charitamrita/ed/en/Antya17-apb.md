@@ -70,7 +70,7 @@ Without the three bolted doors being opened, He came out of that room, crossed t
 
 ---
 
-[^41-1]: The verse translation reads differently: even one drop of that sound floods the ears of the whole world, and the ears can never return (for Bhaktivinoda, the “ears” here are the other sounds of the world).
+[^41-1]: The verse translation reads differently: even a single drop of it, entering the ear, drowns the ears of the world, and those ears never come back again (for Bhaktivinoda, the “ears” here are the other sounds of the world).
 
 [^41-2]: The edition reads *tṛṣṇā-raṅga* (“the play of thirst”); verse 47 has *tṛṣṇā-taraṅga* (“the waves of thirst”); apparently a misprint.
 
