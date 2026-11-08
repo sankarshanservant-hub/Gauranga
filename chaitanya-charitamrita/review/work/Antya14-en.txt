@@ -1,0 +1,376 @@
+# English translation, Antya-līlā 14 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya14.txt, ed/en/work/Antya14.p2.txt), revised against the Bengali and the Anubhāṣya.
+# Shift 1: verses 1–60; shift 2: 61–123.
+
+## 0
+tr: A Description of the Divine Madness: the Lord Hastens to Caṭaka Hill
+
+## 1
+w: Kṛṣṇa  from separation  through the bewilderment
+w: with the mind  with the body  with the intelligence
+w: whatever  whatever  did  Gaurāṅga
+w: of that  a particle  is told  now
+tr: Now I shall tell a small part of all that Gaurāṅga did with His mind, body and intelligence in the bewilderment born of separation from Kṛṣṇa.
+
+## 2
+w: glory  glory  to Śrī Caitanya  Himself  the Supreme Lord
+w: glory  glory  to Gauracandra  of the devotees  the life
+tr: Glory, glory to Śrī Caitanya, the Supreme Lord Himself! Glory, glory to Gauracandra, the life of His devotees!
+
+## 3
+w: glory  glory  to Nityānanda  Caitanya’s  life
+w: glory to Advaitācārya  glory  to Gaura  most dear
+tr: Glory, glory to Nityānanda, the life of Caitanya! Glory to Advaitācārya, most dear to Gaura!
+
+## 4
+w: glory  to Svarūpa  to Śrīvāsa and the others  the Lord’s  devotees
+w: strength  give  I may do  so that  of Caitanya  the description
+tr: Glory to Svarūpa, to Śrīvāsa and to all the Lord’s devotees! Grant me the strength to describe Śrī Caitanya.
+fn: The second line is the same as Madhya 12.3; translated as there.
+
+## 5
+w: the Lord’s  madness of separation  mood  profound
+w: to understand  not  can  anyone  even if  he is  wise
+tr: The Lord’s madness in separation is a mood so profound that no one can understand it, however wise he may be.
+fn: Heading in the edition: without Gaura’s mercy even a great scholar cannot understand the Lord’s transcendental divine madness.
+
+## 6
+w: to understand  not  we can  what  to describe  who  can
+w: he  understands  describes  Caitanya  power  gives  to whom
+tr: Who can describe what we cannot even understand? Only one to whom Caitanya gives the power can understand it and describe it.
+
+## 7
+w: Svarūpa Gosāñi  and  Raghunātha dāsa
+w: of these  two  in the diaries  this pastime  is revealed
+tr: These pastimes are revealed in the diaries (*kaḍacā*) of these two, Svarūpa Gosāñi and Raghunātha dāsa.
+
+## 8
+w: at that time  these  two  stayed  Mahāprabhu’s  at the side
+w: other  all  diary-writers  stayed  in distant lands
+tr: At that time these two lived at Mahāprabhu’s side, while all the other diarists lived in distant places.
+
+## 9
+w: moment  by moment  experiencing  these  two
+w: briefly  at length  make  diary  composition
+tr: Experiencing His pastimes moment by moment, these two recorded them in their diaries, sometimes briefly and sometimes at length.
+fn: *Anubhāṣya*: these two constantly experienced Mahāprabhu’s pastimes and wrote them down, now briefly, now at length, in the form of diaries rather than formal books.
+
+## 10
+w: Svarūpa  the author of the sūtras  Raghunātha  the author of the explanation
+w: their  expansion  I describe  of a pā̃ji-ṭīkā  in the manner
+tr: Svarūpa is the author of the *sūtras*, and Raghunātha the author of their explanation (*vṛtti*). I describe them more fully, in the manner of a *pā̃ji-ṭīkā* (an introductory commentary).
+fn: *Amṛta-pravāha-bhāṣya*: the author sets out both accounts, enlarging them a little, after the manner of a *pā̃ji-ṭīkā*, which “fluffs out” the thoughts of the original source as one fluffs out cotton.
+
+## 11
+w: in that  faith  placing  hear  of the emotions  the description
+w: will arise  of the emotions  understanding  you will gain  of love  the treasure
+tr: Hear with faith this description of His feelings (*bhāva*): you will come to understand them and gain the treasure of prema.
+
+## 12
+w: Kṛṣṇa  to Mathurā  when He went  of the gopīs  which  state  arose
+w: Kṛṣṇa  in separation from  in the Lord  that  state  arose
+tr: The state that came upon the gopīs when Kṛṣṇa went to Mathurā arose in the Lord in His separation from Kṛṣṇa.
+
+## 13
+w: Uddhava  on seeing  as  Rādhā’s  lament
+w: gradually  arose  the Lord’s  lament of madness
+tr: As Rādhā lamented when she saw Uddhava, so little by little the Lord too began to lament in His madness.
+fn: *Anubhāṣya*: for Śrī Rādhā’s lament see the *Bhramara-gītā*, Śrīmad-Bhāgavatam, 10.47.12–21.
+
+## 14
+w: of Rādhikā  in the mood  the Lord’s  always  self-conception
+w: in that  mood  of Himself  there is  the sense of being Rādhā
+tr: In the mood of Rādhikā the Lord always had her self-conception (*abhimāna*); in that mood He thought of Himself as Rādhā.
+fn: Heading in the edition: the Lord is filled only with the mood of Śrī Rādhā in separation from Kṛṣṇa, and so in Him there is no desire of Kṛṣṇa for the enjoyment of union (*sambhoga*). *Anubhāṣya*: though Śrī Gaurasundara is Kṛṣṇa Himself, His body is joined with Śrīmatī Rādhikā, and so He was always immersed in her mood.
+
+## 15
+w: in divine madness  thus  it is  what  in this  wonder
+w: in adhirūḍha-bhāva  of divine madness  incoherent talk  occurs
+tr: Such is divine madness (*divyonmāda*) — why wonder at it? In *adhirūḍha-bhāva*, the highest stage of love, divine madness pours itself out in incoherent words.
+fn: *Divyonmāda* is the highest manifestation of *mahābhāva*, not worldly madness.
+
+## 16
+w: of this  called mohana
+w: a state  some  indescribable  having reached
+w: resembling bewilderment  some  wondrous display
+w: divine madness  thus  is called
+w: udghūrṇā  citra-jalpa  and others
+w: its varieties  many  are held
+tr: “When the *bhāva* called *mohana* reaches a certain indescribable state, there appears a wondrous display resembling bewilderment; it is called divine madness (*divyonmāda*). It is held to have many varieties, such as *udghūrṇā* and *citra-jalpa*.” (Ujjvala-nīlamaṇi, 14.190)
+
+## 17
+w: one day  Mahāprabhu  had lain down  to rest
+w: Kṛṣṇa  the rāsa-līlā  performs  He saw  a dream
+tr: One day, as Mahāprabhu lay asleep, He saw Kṛṣṇa’s rāsa-līlā in a dream.
+
+## 18
+w: bent in three places  beautiful  body  with the flute at His lips
+w: yellow garment  forest garland  of Madana  the enchanter
+tr: His beautiful form was bent in three places, the flute was at His lips, and He wore yellow cloth and a garland of forest flowers — the enchanter of Madana, the god of love.
+
+## 19
+w: in a circle  the gopīs  were  dancing
+w: in the middle  with Rādhā  dances  of the king of Vraja  the son
+tr: The gopīs danced in a circle, and in the middle the son of the king of Vraja danced with Rādhā.
+
+## 20
+w: seeing  the Lord  in that  rasa  absorbed  became
+w: in Vṛndāvana  Kṛṣṇa  I have found  this  thought  He had
+tr: Seeing this, the Lord became absorbed in that rasa and thought, “I have found Kṛṣṇa in Vṛndāvana!”
+
+## 21
+w: the Lord’s  lateness  seeing  Govinda  woke Him
+w: on waking  that it was a dream  He understood  the Lord  sorrowful  became
+tr: When Govinda saw that the Lord was late in rising, he woke Him. On waking, the Lord understood that it had been a dream, and He was filled with sorrow.
+
+## 22
+w: by bodily habit  the daily duties  having  completed
+w: at the proper time  going  He made  Jagannātha’s  darśana
+tr: Out of bodily habit He completed His daily duties, and at the proper time He went to see Jagannātha.
+
+## 23
+w: for as long as  darśana  He takes  of Garuḍa  behind
+w: the Lord’s  in front  darśana  take  people  by hundreds of thousands
+tr: He would behold Jagannātha from behind the Garuḍa pillar, while in front of Him people in their hundreds of thousands took darśana.
+
+## 24
+w: an Oriyā  one  woman  in the crowd  sight  not  getting
+w: onto Garuḍa  climbing  looks  on the Lord’s  shoulder  foot  placing
+tr: An Oriyā woman who could not see through the crowd climbed onto the Garuḍa pillar and, with her foot on the Lord’s shoulder, gazed at Jagannātha.
+
+## 25
+w: seeing (this)  Govinda  hastily  that  woman  put off
+w: her  to bring down  the Lord  Govinda  forbade
+tr: Seeing this, Govinda hastily tried to pull her down, but the Lord forbade him.
+fn: *Anubhāṣya*: to climb the Garuḍa pillar is an offence to a Vaiṣṇava, and to set one’s foot on the Lord’s shoulder is an offence to the feet of Bhagavān; fearing this, Govinda hurried to bring the woman down.
+
+## 26
+w: ādivasyā  this  woman  do not  make  removal
+w: let her make  as she wishes  Jagannātha’s  darśana
+tr: “Foolish fellow (*ādivasyā*)! Do not remove this woman. Let her look at Jagannātha as much as she wishes.”
+fn: *Anubhāṣya* refers to Antya 10.116, where *ādivasyā* is explained as “unfortunate”, “unwise”, “foolish”, “fickle”, “impatient”.
+
+## 27
+w: hurriedly  that  woman  to the ground  came down
+w: Mahāprabhu  seeing  His  feet  she honored
+tr: The woman hurriedly climbed down, and when she saw Mahāprabhu she bowed at His feet.
+
+## 28
+w: her  eagerness  seeing  the Lord  to speak  began
+w: such  eagerness  Jagannātha  to Me  not  has given
+tr: Seeing her eagerness, the Lord began to speak: “Jagannātha has not given Me such eagerness!
+fn: Heading in the edition: seeing her ardent love, the Lord speaks humbly of Himself and glorifies her as His guru. *Anubhāṣya*: *ārti* is a burning desire to see; longing to see Jagannātha, she forgot what is proper and improper and, without knowing it, set her foot on the shoulder of the all-worshipful Mahāprabhu.
+
+## 29
+w: in Jagannātha  absorbed  her  body  mind  and life
+w: on My  shoulder  foot  she has placed  that  not  she knows
+tr: Her body, mind and life are absorbed in Jagannātha; she does not even know that she has put her foot on My shoulder.
+fn: Heading in the edition: a lesson — not to look upon a servant of Kṛṣṇa with sense-born knowledge, by outward marks such as “woman” or “man”.
+
+## 30
+w: oh  fortunate  is she  I honor  her  feet
+w: her  by the grace  such  eagerness  in Me  may  arise
+tr: Oh, how fortunate she is! I bow to her feet. By her grace may such eagerness arise in Me too.
+
+## 31
+w: before  I  when  made  Jagannātha’s  darśana
+w: in Jagannātha  I saw  directly  of the king of Vraja  the son
+tr: Before, whenever I beheld Jagannātha, I saw in Him the son of the king of Vraja Himself.
+
+## 32
+w: of the dream  in absorption in the vision  like that  became  the mind
+w: wherever  I look  everywhere  the One with the flute at His lips
+tr: Absorbed in the vision of My dream, My mind has stayed in that state, and wherever I look I see the One with the flute at His lips.”
+fn: Verses 28–32 are the Lord’s words, as in the Gauḍīya Maṭha edition (the quotation closes after verse 32). Some editions read verse 31 as *pūrve āsi’ yabe … jagannāthe dekhe*, which makes verses 31–32 the narrator’s account.
+
+## 33
+w: now  when  the woman  seeing  the Lord’s  external consciousness  came
+w: of Jagannātha  Subhadrā  and Balarāma  the forms  He saw
+tr: But now, at the sight of the woman, the Lord came back to outward consciousness and saw the forms of Jagannātha, Subhadrā and Balarāma.
+
+## 34
+w: at Kurukṣetra  seeing  Kṛṣṇa  so  became  His mind
+w: where  to Kurukṣetra  I have come  where  Vṛndāvana
+tr: His mind became like that of one who sees Kṛṣṇa at Kurukṣetra: “How have I come to Kurukṣetra? And where is Vṛndāvana?”
+fn: Heading in the edition: seeing Vāsudeva at Kurukṣetra, the Lord is filled with the mood of a gopī separated from Śyāma.
+
+## 35
+w: a found jewel  losing  so  agitated  He became
+w: dejected  becoming  the Lord  to His own  residence  came
+tr: Like one who has lost a jewel he had just found, He was in turmoil, and He returned, dejected, to His residence.
+
+## 36
+w: the ground  upon  sitting  with His own nails  the ground  He scratches
+w: a Ganges of tears  from the eyes  flows  anything  not  He sees
+tr: Sitting on the ground, He scratched the ground with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
+
+## 37
+w: I found  of Vṛndāvana  the Lord  again  I lost
+w: who  My  has taken  Kṛṣṇa  where  I  have come
+tr: “I found the Lord of Vṛndāvana, and I have lost Him again! Who has taken My Kṛṣṇa? Where am I now?”
+
+## 38
+w: in absorption in the dream  with love  the Lord’s  overflowing  mind
+w: external consciousness  when it comes  it is  as if  He lost  a treasure
+tr: Absorbed in the dream, the Lord’s mind overflowed with love; when external consciousness returned, it was as if He had lost a treasure.
+
+## 39
+w: a madman  like  the Lord  does  singing  dancing
+w: of the body  by the nature  He does  bathing  eating  duties
+tr: Like a madman the Lord sang and danced; He bathed and ate merely out of bodily habit.
+
+## 40
+w: night  when it came  Svarūpa  and Rāmānanda  taking
+w: His own  heart’s  feelings  He tells  opening
+tr: When night came, He would sit with Svarūpa and Rāmānanda and open to them the feelings of His heart.
+
+## 41
+w: having found  having lost  Acyuta  the wealth  My mind
+w: went  out of grief  abandoning  the body  the house
+w: having taken up  a kāpālika’s  ways  My
+w: to Vṛndāvana  with the senses  the disciples  the band
+tr: “My mind found the wealth of Acyuta and lost it again. In its grief it abandoned its house, the body, took up the ways of a *kāpālika* yogī, and went off to Vṛndāvana with its band of disciples, the senses.”
+fn: Heading in the edition: a verse spoken by Gosvāmipāda. *Anubhāṣya* (on verse 51): the *kāpālikas* are a kind of yogī who wander with a human skull; they do not follow the Vedas and are not Vaiṣṇavas — only the comparison with their ways is taken here.
+
+## 42
+w: a found jewel  having lost
+w: its  qualities  remembering
+w: Mahāprabhu  with anguish  overwhelmed
+w: of Rāya and Svarūpa  the necks  clasping
+w: He says  alas  Hari  Hari
+w: composure  went  He became  restless
+tr: Having lost the jewel He had found and remembering its qualities, Mahāprabhu was overwhelmed with anguish. Clasping Rāya and Svarūpa by the neck, He cried, “Alas! Hari! Hari!” His composure gone, He became restless.
+
+## 43
+w: hear  friends  of Kṛṣṇa  the sweetness
+w: for which  in greed  My  mind
+w: giving up  of society  of the Vedas  the duties
+w: a yogī  becoming  became  a beggar
+tr: “Hear, My friends, of Kṛṣṇa’s sweetness! Craving it, My mind has given up the duties of society and of the Vedas, become a yogī and turned beggar.
+
+## 44
+w: of Kṛṣṇa’s pastimes  the circle
+w: pure  conch-shell  earrings
+w: has fashioned  Śuka  the craftsman
+w: those  earrings  in the ears  wearing
+w: of thirst  the gourd  bowl  holding
+w: of hope  the bag  the shoulder  upon
+tr: My mind’s earrings of pure conch-shell are the circle of Kṛṣṇa’s pastimes, fashioned by Śuka the craftsman. Wearing those earrings, it holds the gourd-bowl of thirst, and the bag of hope hangs from its shoulder.
+fn: *Amṛta-pravāha-bhāṣya*: these are the earrings of the *Bhāgavatam*. An ordinary yogī carries a gourd water-pot and a begging bowl; the yogī that is the Lord’s mind has made its bowl from the gourd of thirst for Kṛṣṇa and hung on its shoulder the bag of hope, “I shall attain Kṛṣṇa.”
+
+## 45
+w: of anxiety  the patched quilt  wrapping  about the body
+w: with dust  ash  soiled  body
+w: alas  Kṛṣṇa  raving  the answer
+w: agitation  twelve (bangles)  on the arm
+w: of greed  the bag  it took  on the head
+w: for lack of alms  thin  the body
+tr: The patched quilt of anxiety is wrapped about it, its body is grey with dust and ash, and to every word it answers with the raving cry, “Alas, Kṛṣṇa!” On its arm are the twelve bangles of agitation, on its head the bag of longing, and for want of alms its body has wasted away.
+fn: *Amṛta-pravāha-bhāṣya*: the twelve bangles are the eight *sāttvika-vikāras*, the surge of the mind, trembling, sighing, restlessness and anxious thought. *Anubhāṣya*: a variant reads *lobhera jhulnī māthe*; *jhulnī* is a cloth that may cover the head.
+
+## 46
+w: Vyāsa  Śuka and the other  yogīs
+w: Kṛṣṇa  the Self  stainless
+w: in Vraja  His  all  the pastimes
+w: in the Bhāgavata and other  scriptures
+w: have made  description
+w: those  songs  it recites  constantly
+tr: The yogīs Vyāsa, Śuka and others have described in the *Bhāgavata* and other scriptures all the pastimes of Kṛṣṇa, the stainless Self, in Vraja; those songs (*tarjā*) it recites without cease.
+
+## 47
+w: the ten senses  disciples  making
+w: Mahā-bāul  the name  taking
+w: the disciples  taking  it made  departure
+w: My  body  its own  home
+w: sense enjoyment  the great wealth
+w: all  leaving  it went  to Vṛndāvana
+tr: Making the ten senses its disciples and taking the name “Mahā-bāul”, it set off with them. Leaving everything — its own home, My body, and the great wealth of sense enjoyment — it went to Vṛndāvana.
+fn: *Amṛta-pravāha-bhāṣya*: Bāul yogīs take ten disciples each.
+
+## 48
+w: in Vṛndāvana  the subjects
+w: all  the stationary  and moving
+w: trees  creepers  in the householder  order
+w: in their  homes  begging
+w: fruits  roots  leaves  eating
+w: this  livelihood  it follows  with the disciples
+tr: The subjects of Vṛndāvana — all beings, stationary and moving, the trees and creepers — live as householders. It begs in their homes and eats fruits, roots and leaves; this is how it lives with its disciples.
+
+## 49
+w: Kṛṣṇa’s  qualities  form  taste
+w: fragrance  sound  touch
+w: that  nectar  relish  the gopīs
+w: of them all  of the mouthfuls  in the remnants
+w: bringing  the five senses  the disciples
+w: by those  alms  they sustain  life
+tr: The gopīs relish the nectar of Kṛṣṇa’s qualities, form, taste, fragrance, sound and touch. The disciples, the five senses, bring the remnants of their meal, and on those alms they sustain their lives.
+
+## 50
+w: empty  bower  pavilion  in a corner
+w: yoga practice  on Kṛṣṇa  in meditation
+w: there  it stays  with  the disciples
+w: Kṛṣṇa  the Self  stainless
+w: directly  to see  the mind (longs)
+w: in meditation  the nights  it spends  awake
+tr: In the corner of an empty bower-pavilion it stays with its disciples, practising yoga in meditation on Kṛṣṇa. Longing to see Kṛṣṇa, the stainless Self, face to face, it keeps vigil all night in meditation.
+fn: *Śūnya*, “empty”: according to the *Amṛta-pravāha-bhāṣya*, a bower where Kṛṣṇa is not. Heading in the edition: the state of sleeplessness (*jāgara*).
+
+## 51
+w: the mind  from Kṛṣṇa  separated
+w: in sorrow  the mind  became  a yogī
+w: in that  separation  ten  states  arise
+w: by those  states  distraught  becoming
+w: the mind  went  fleeing
+w: empty  My  body  the dwelling
+tr: Separated from Kṛṣṇa, My mind became a yogī in its sorrow, and in that separation the ten states came upon it. Overwhelmed by them, it fled, and its dwelling, My body, stands empty.”
+fn: *Amṛta-pravāha-bhāṣya*: the empty dwelling of the body is an image of fainting (*pralaya*), with which the ten states end. Heading in the edition: the states of disease (*vyādhi*), fainting (*moha*) and death (*mṛtyu* — *pralaya*); *citra-jalpa*.
+
+## 52
+w: Kṛṣṇa  in separation from  of the gopīs  ten  states  arise
+w: those  ten  states  are  in the Lord  arisen
+tr: In separation from Kṛṣṇa ten states arise in the gopīs; those same ten states arose in the Lord.
+
+## 53
+w: anxious thought  here  sleeplessness  agitation
+w: emaciation  uncleanliness of body
+w: incoherent talk  disease  madness
+w: fainting  death  states  ten
+tr: “In this separation there are ten states: anxious thought, sleeplessness, agitation, emaciation, uncleanliness of body, incoherent talk, disease, madness, fainting and death.” (Ujjvala-nīlamaṇi, 15.167)
+fn: *Anubhāṣya*: these are the ten states in the separation called *pravāsa*, when the beloved has gone to a distant land; *moha* is bewilderment of mind (*Amṛta-pravāha-bhāṣya*: fainting).
+
+## 54
+w: by these  ten states  the Lord  distraught  night and day
+w: sometimes  some  state  arises  steady  not  in mind
+tr: Night and day the Lord was distraught by these ten states: now one state would arise, now another, and His mind found no rest.
+
+## 55
+w: this  having said  Mahāprabhu  silent  became
+w: Rāmānanda Rāya  verses  to recite  began
+tr: Having said this, Mahāprabhu fell silent, and Rāmānanda Rāya began to recite verses.
+fn: The Gauḍīya Maṭha edition (p. 1017) reads *mauna hailā*, “fell silent”. Heading in the edition: Rāmānanda Rāya recites verses suited to the Lord’s mood of separation and to the hour.
+
+## 56
+w: Svarūpa Gosāñi  does  of Kṛṣṇa’s pastimes  singing
+w: the two  persons  somewhat  made  the Lord’s  external  awareness
+tr: Svarūpa Gosāñi sang of Kṛṣṇa’s pastimes, and together the two brought the Lord somewhat back to external awareness.
+
+## 57
+w: in this way  half the night  they made  pass
+w: in the inner  room  the Lord  they made  lie down
+tr: In this way they passed half the night, and then they had the Lord lie down in the inner room.
+
+## 58
+w: Rāmānanda Rāya  then  went  to his own  house
+w: Svarūpa  Govinda  both  lay down  at the door
+tr: Rāmānanda Rāya then went home, and Svarūpa and Govinda both lay down at the door.
+
+## 59
+w: all  night  Mahāprabhu  does  keeping awake
+w: loudly  making  He utters  of Kṛṣṇa’s  names  saṅkīrtana
+tr: Mahāprabhu stayed awake all night, loudly chanting the names of Kṛṣṇa.
+
+## 60
+w: sound  not  getting  Svarūpa  the door  moved  away
+w: the three doors  shut  are  the Lord  not  in the room
+tr: Hearing no sound, Svarūpa opened the door: the three doors were still shut, yet the Lord was not in the room.
