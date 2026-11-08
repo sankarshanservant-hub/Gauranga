@@ -1,7 +1,3 @@
-## 38
-
-***śiñjita*** — tinkling.
-
 ## 40
 
 O friend! His voice is deep like a cloud; the sound of His ornaments draws the ears; His playful words are full of artful turns (*bhaṅgī*); the sound of His flute draws the hearts of Lakṣmī and other women. This Madana-mohana increases the longing of My ears.
@@ -18,15 +14,15 @@ These four kinds of nectar of sound — His words, the tinkling of His anklets a
 
 ## 43
 
-***caṭaka*** — a particular bird.
+**caṭaka** — a particular bird.
 
 ## 44
 
-***śabda, artha — dui śakti***: *abhidhā* (the direct sense) and *lakṣaṇā* (the figurative sense) are the two powers of the word; of these, ornaments of meaning (*arthālaṅkāra*) and the like are the power of meaning.
+**śabda, artha — dui śakti**: *abhidhā* (the direct sense) and *lakṣaṇā* (the figurative sense) are the two powers of the word; of these, ornaments of meaning (*arthālaṅkāra*) and the like are the power of meaning.
 
 ## 50
 
-***Līlāśuka*** — Bilvamaṅgala Gosvāmī.
+**Līlāśuka** — Bilvamaṅgala Gosvāmī.
 
 ## 51
 
@@ -34,15 +30,15 @@ Alas, what shall I do! And whom shall I tell! What I did in the hope of Him — 
 
 ## 54
 
-***piṅgalāra vacana-smṛti*** — the courtesan Piṅgalā said: “Hope is the greatest misery; giving up hope is the greatest happiness.”[^54-1] Remembering those words, the Lord awakened through them a new feeling within Himself and began to determine the meaning of the verse.
+**piṅgalāra vacana-smṛti** — the courtesan Piṅgalā said: “Hope is the greatest misery; giving up hope is the greatest happiness.”[^54-1] Remembering those words, the Lord awakened through them a new feeling within Himself and began to determine the meaning of the verse.
 
 ## 57
 
-***kṛṣṇe karāya ‘kāma’-jñāna*** — makes one see Kṛṣṇa as Kandarpa.
+**kṛṣṇe karāya ‘kāma’-jñāna** — makes one see Kṛṣṇa as Kandarpa.
 
 ## 59
 
-***vāma-dīna*** — wretched because of contrariness (*vāmya*). The thirst for Kṛṣṇa, whose sweetly smiling face is an elixir (*rasāyana*) for the mind and eyes, doubles.
+**vāma-dīna** — wretched because of contrariness (*vāmya*). The thirst for Kṛṣṇa, whose sweetly smiling face is an elixir (*rasāyana*) for the mind and eyes, doubles.
 
 ## 72
 
