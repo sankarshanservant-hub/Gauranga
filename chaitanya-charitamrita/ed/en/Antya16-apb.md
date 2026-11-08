@@ -1,0 +1,17 @@
+# Amṛta-pravāha-bhāṣya on Antya-līlā 16
+
+## 0
+
+**Summary.** The Gauḍīya devotees came again to Śrī Kṣetra. With them came Kālidāsa, a kinsman of Raghunātha dāsa of his father's generation. Kālidāsa had received the nectar of the lips (*adharāmṛta*), the remnants, of all the Vaiṣṇavas of Gauḍa; he had received even the nectar of the lips of Jhaḍu Ṭhākura. By the strength of that pious merit (*sukṛti*) he received in Nīlācala the water that had washed Mahāprabhu's feet and His *prasāda*. At the age of seven Kavi-karṇapūra came to Mahāprabhu, received the Hari-nāma *mahā-mantra*, and showed his gift for poetry. On receiving the *vallabha-bhoga*, Mahāprabhu described the glory of *phelāmṛta* (nectarean remnants), had all the Vaiṣṇavas partake of *phelāmṛta*, and was Himself absorbed in drinking the nectar of Kṛṣṇa's lips.
+
+## 1
+
+I offer my obeisances to Śrī Kṛṣṇa Caitanya. He Himself relished the nectar of feelings for Kṛṣṇa, gave it to His devotees to relish, and so taught them divine knowledge of initiation into love (*prema-dīkṣā*).
+
+## 6
+
+“*Kṛṣṇa-nāma-saṅkete calāya vyavahāra*”: he conducted his worldly affairs using the name of Kṛṣṇa as a sign (*saṅketa*).
+
+## 14
+
+*Bhũimālī*: a particular caste, similar to the Haḍḍī (“Hā̃ḍi”).
