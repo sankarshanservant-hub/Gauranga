@@ -912,7 +912,7 @@ quickly  go  to see  the Beloved  so  by his words  holding  his
 bhujāntar gaurāṅgo hṛdaya udayan māṁ madayati  
 hand  Gaurāṅga  in my heart  rising  me  maddens
 
-(87) “‘Friend, where is My beloved Kṛṣṇa? You alone can show Him to Me here — quickly!’ So, as if mad, Gaurāṅga spoke to the doorkeeper; and when the man answered, ‘Come quickly and see Your Beloved!’ He took hold of his hand. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 7)[^27]
+(87) “‘Friend, where is My beloved Kṛṣṇa? You alone can show Him to Me here — quickly!’ So, as if mad, Gaurāṅga spoke to the doorkeeper; and when the man said, ‘Come quickly and see Your Beloved,’ He took hold of his hand. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 7)[^27]
 
 হেনকালে ‘গোপাল-বল্লভ’-ভোগ লাগাইল ৷  
 শঙ্খ-ঘণ্টা-আদি সহ আরতি বাজিল ॥ ৮৮ ॥
@@ -1479,9 +1479,9 @@ its  whatever  chewed remnant
 tāre kaya ‘amṛta-sāra’,  
 that  they call  nectar’s  essence  
 gopīra mukha kare ‘ālabāṭī’  
-the gopīs’  mouths  it makes  a bowl for saliva
+the gopīs’  mouths  they make  a bowl for saliva
 
-(132) The betel Kṛṣṇa chews is said to be beyond price, and on top of that comes this artful boast: what He has chewed they call ‘the essence of nectar’, and it makes the gopīs’ mouths its cup, its *ālabāṭī*.[^42]
+(132) The betel Kṛṣṇa chews is said to be beyond price, and on top of that comes this artful boast: what He has chewed they call ‘the essence of nectar’, and they make the gopīs’ mouths its cup, its *ālabāṭī*.[^42]
 
 এসব — তোমার কুটিনাটি, ছাড় এই পরিপাটী,  
 বেণুদ্বারে কাঁহে হর’ প্রাণ ৷  
