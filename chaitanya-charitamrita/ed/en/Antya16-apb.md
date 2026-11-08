@@ -31,3 +31,7 @@ Nṛsiṁha here, Nṛsiṁha there; wherever I go, there is Nṛsiṁha; Nṛsi
 ## 60
 
 “The strength of the three practices”: to take the dust of a devotee's feet, to take the water that washed his feet, and to take the nectar of his lips (*adharāmṛta*). These three are the very strength of all spiritual practice.
+
+## 74
+
+Glory to Hari! He is the blue lotus at the ears, the collyrium of the eyes, and the necklace of sapphires (*mahendra-maṇi*) on the chest: He is the whole adornment of the young women of Vṛndāvana.

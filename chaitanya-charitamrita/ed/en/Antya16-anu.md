@@ -232,6 +232,46 @@ From these and many other statements of scripture we know that transcendental *b
 
 > Subheading: Only because of his faith in the devotees' remnants is the Lord merciful to Kālidāsa in Purī —
 
+## 65
+
+> Subheading: For the Ratha-yātrā Śivānanda comes to Purī with his son Paramānanda Purī dāsa —
+
+## 66
+
+> Subheading: Purī dāsa bows at the Lord's feet —
+
+## 67
+
+> Subheading: [The Lord] tells him to say the name of Kṛṣṇa; the boy stays silent —
+
+## 68
+
+> Subheading: Śivānanda's vain efforts to make him say it —
+
+## 69
+
+> Subheading: Seeing this, even the Lord Himself is astonished —
+
+## 71
+
+> Subheading: Svarūpa explains why Purī dāsa stays silent —
+
+If one reveals to someone else the *mantra* received from Śrī Gurudeva, the *mantra* loses its potency; we have already learned this from the story of Śrī Gadādhara Paṇḍita.
+
+## 73
+
+> Subheading: The next day, at the Lord's order, the boy Purī dāsa breaks his silence and recites a verse —
+
+## 74
+
+> Subheading: Glory to Kṛṣṇa, the ornament of the *gopīs'* hearts (the first verse of Kavi-karṇapūra's *Āryā-śataka*) —
+
+**śravasoḥ** (of the ears) **kuvalayam** (the blue lotus, *nīlotpala*) **akṣṇoḥ** (of the eyes) **añjanam** (the adorning collyrium, *kajjala*) **urasaḥ** (of the chest) **mahendra-maṇi-dāma** (a necklace of sapphires, *indranīla-maṇi*) **vṛndāvana-ramaṇīnām** (of the young women of Vraja) **akhilaṁ** (every kind of) **maṇḍanam** (in the form of ornament) **hariḥ** **jayati**.
+
+## 75
+
+> Subheading: Everyone is astonished that a child composed a verse —
+
 ---
 
 [^7-1]: The edition reads “*Bhāg.* 1.18.38–41”; the places assigned to Kali (gambling, intoxication, and so on) are listed in *Śrīmad-Bhāgavatam* 1.17.38–41.
