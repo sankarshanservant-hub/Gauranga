@@ -14,11 +14,15 @@ echo "== $C ($l $n), скан с. $P1–$P2"
 bash tools/coord/fetch_net.sh $C
 python3 -c "import json;d=json.load(open('ed/work/vb-$C.json'));print('vedabase: %d записей' % len(d))"
 # 2. md из ВЧД (vcd/txt/CC_<Гл>.txt) + автоправки + сверка с vedabase
+# Антья 16–19: у ВЧД нет; наш перевод «в его стиле» (vcd/new, TASK-antya-16-19.md) -> vcd/txt в виде выгрузки ВЧД
+[ -f vcd/new/CC_$C.md ] && [ ! -f vcd/txt/CC_$C.txt ] && python3 tools/coord/new2vcd.py $C
 python3 tools/prep_vcd.py $C 2>&1 | grep -v '^  ~' | tail -4
 python3 tools/check_ed.py $C 2>/dev/null | sed -n 1p; echo "  «нет пословного»: $(python3 tools/check_ed.py $C 2>/dev/null | grep -c "нет пословного")"
 python3 - "$C" <<'PY'
 import re,sys
-d='০১২৩৪৫৬৭৮৯'; t=open('vcd/txt/CC_%s.txt'%sys.argv[1],encoding='utf-8').read()
+import os
+d='০১২৩৪৫৬৭৮৯'; f='vcd/txt/CC_%s.txt'%sys.argv[1]
+t=open(f if os.path.exists(f) else 'ed/vcd/CC_%s.md'%sys.argv[1],encoding='utf-8').read()
 nums=[int(''.join(str(d.index(c)) for c in m)) for m in re.findall(r'॥ *([০-৯]+) *॥',t)]
 prev=0; j=[]
 for x in nums:

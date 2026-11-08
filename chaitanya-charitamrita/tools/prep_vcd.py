@@ -199,6 +199,7 @@ def split_body(v, vb):
     def tlish(t): return any(c in TLM for c in t) and not any(c in RUS for c in t)
     near = []                         # нумерация сдвоенных стихов у vedabase может быть сдвинута (Ади 1.72–73 / 73–74)
     for n in range(v['nums'][0] - 1, v['nums'][-1] + 2): near += vb_lines(vb, n)
+    if HALVES: near += [h.strip() for x in near if '\u2003' in x for h in x.split('\u2003')]   # полустроки трипади (Антья 16.126: «нахе пиму нирантара,»); только Антья 16–19 из vcd/new
     def is_tl(l):
         # похожесть на строку vedabase — только для строк без русских букв-маркеров и не с заглавной (пословный ВЧД бывает
         # почти дословным: «Брахма, Вишну, Шива — три гуна-Аватары», Ади 1.67)
@@ -263,7 +264,10 @@ def load_fixes(path):
 
 def bnum(n): return ''.join(BD[int(c)] for c in str(n))
 
+HALVES = False
 def run(chap):
+    global HALVES
+    HALVES = os.path.exists(os.path.join(ROOT, 'vcd', 'new', 'CC_%s.md' % chap))
     lila, nn = re.match(r'([A-Za-z]+)(\d+)', chap).groups()
     src = os.path.join(ROOT, 'vcd', 'txt', 'CC_%s.txt' % chap)
     vbp = os.path.join(ROOT, 'ed', 'work', 'vb-%s.json' % chap)
@@ -297,7 +301,7 @@ def run(chap):
         if f['f'] == 'title' and f['old'] in title:
             title = title.replace(f['old'], f['new']); f['used'] += 1
     out += ['“Шри Чайтанья-чаритамрита”  ', LILA[lila] + '  ', 'Глава %d  ' % int(nn), '**%s**  ' % title,
-            '(перевод Вриндавана Чандры даса)', '']
+            next((x.strip() for x in open(src, encoding='utf-8').readlines()[:12] if x.strip().startswith('(перевод выполнен')), '(перевод Вриндавана Чандры даса)'), '']   # Антья 16–19 — «в стиле…»
     expect = 1
     rows = []
     notes = []
