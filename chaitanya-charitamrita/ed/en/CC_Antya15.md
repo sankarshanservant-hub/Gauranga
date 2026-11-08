@@ -630,9 +630,11 @@ branches  all  have fallen  the earth  upon
 কৃষ্ণগমন পুছে তারে করিয়া নির্দ্ধার ॥ ৫০ ॥
 
 kṛṣṇe dekhi’ ei saba karena namaskāra  
-kṛṣṇa-gamana puche tāre kariyā nirddhāra
+Kṛṣṇa  seeing  these  all  make  obeisance  
+kṛṣṇa-gamana puche tāre kariyā nirddhāra  
+Kṛṣṇa’s  going  they ask  them  certainty  making
 
-(50) [not yet translated]
+(50) Concluding that all these trees had bowed down on seeing Kṛṣṇa, they asked them, to be sure, which way He had gone:
 
 বাহুং প্রিয়াংস উপধায় গৃহীতপদ্মো  
 রামানুজস্তুলসিকালিকুলৈর্মদান্ধৈঃ ৷  
@@ -640,99 +642,125 @@ kṛṣṇa-gamana puche tāre kariyā nirddhāra
 কিংবাভিনন্দতি চরন্ প্রণয়াবলোকৈঃ ॥ ৫১ ॥
 
 bāhuṁ priyāṁsa upadhāya gṛhīta-padmo  
+the arm  on His beloved’s shoulder  placing  holding a lotus  
 rāmānujas tulasikāli-kulair madāndhaiḥ  
+Rāma’s younger brother  by the tulasī bees  in swarms  blind with intoxication  
 anvīyamāna iha vas taravaḥ praṇāmaṁ  
-kiṁ vābhinandati caran praṇayāvalokaiḥ
+followed  here  your  O trees  obeisance  
+kiṁ vābhinandati caran praṇayāvalokaiḥ  
+whether  welcomes  passing  with loving glances
 
-(51) [not yet translated]
+(51) “O trees, did Rāma’s younger brother pass this way, His arm on His beloved’s shoulder and a lotus in His hand, followed by swarms of bees blind with the intoxication of His *tulasī*? And as He passed, did He welcome your obeisances with loving glances?” (Śrīmad-Bhāgavatam, 10.30.12)
 
 প্রিয়া-মুখে ভৃঙ্গ পড়ে, তাহা নিবারিতে ৷  
 লীলাপদ্ম চালাইতে হৈল অন্যচিত্তে ॥ ৫২ ॥
 
 priyā-mukhe bhṛṅga paḍe, tāhā nivārite  
-līlā-padma cālāite haila anya-citte
+of the beloved  on the face  bees  fall  them  to drive away  
+līlā-padma cālāite haila anya-citte  
+the pastime lotus  in waving  became  of distracted mind
 
-(52) [not yet translated]
+(52) As bees settled on His beloved’s face, He waved His pastime lotus to drive them away, and His mind was distracted.
 
 তোমার প্রণামে কি কৈরাছেন অবধান ?  
 কিবা নাহি করেন, কহ বচন প্রমাণ ॥ ৫৩ ॥
 
 tomāra praṇāme ki kairāchena avadhāna?  
-kibā nāhi karena, kaha vacana pramāṇa
+your  obeisance  whether  did He pay  attention  
+kibā nāhi karena, kaha vacana pramāṇa  
+or  not  did He  tell  word  as proof
 
-(53) [not yet translated]
+(53) Did He pay any attention to your obeisances, or did He not? Tell us, give us your word as proof.
 
 কৃষ্ণের বিয়োগে এই সেবক দুঃখিত ৷  
 কিবা উত্তর দিবে, ইহার নাহিক সম্বিৎ ॥ ৫৪ ॥
 
 kṛṣṇera viyoge ei sevaka duḥkhita  
-kibā uttara dibe, ihāra nāhika samvit
+of Kṛṣṇa  in separation  these  servants  grieving  
+kibā uttara dibe, ihāra nāhika samvit  
+what  answer  will they give  their  is not  consciousness
 
-(54) [not yet translated]
+(54) These servants are grieving in separation from Kṛṣṇa. What answer can they give? They are not even conscious.”
 
 এত বলি’ আগে চলে যমুনার কূলে ৷  
 দেখে, — তাঁহা কৃষ্ণ হয় কদম্বের তলে ॥ ৫৫ ॥
 
 eta bali’ āge cale yamunāra kūle  
-dekhe, — tāṅhā kṛṣṇa haya kadambera tale
+so  saying  further  they go  of the Yamunā  to the bank  
+dekhe, — tāṅhā kṛṣṇa haya kadambera tale  
+they see  there  Kṛṣṇa  is  of a kadamba  beneath
 
-(55) [not yet translated]
+(55) Saying this, they went on to the bank of the Yamunā, and there they saw Kṛṣṇa beneath a *kadamba* tree.
 
 কোটিমন্মথমোহন মুরলী-বদন ৷  
 অপার সৌন্দর্য্যে হরে জগন্নেত্র-মন ॥ ৫৬ ॥
 
 koṭi-manmatha-mohana muralī-vadana  
-apāra saundarye hare jagan-netra-mana
+millions  of gods of love  enchanting  with the flute at His lips  
+apāra saundarye hare jagan-netra-mana  
+boundless  by beauty  steals  the world’s  eyes and mind
 
-(56) [not yet translated]
+(56) He enchants millions of gods of love; the flute is at His lips; with His boundless beauty He steals the eyes and minds of the whole world.
 
 সৌন্দর্য্য দেখিয়া ভূমে পড়ে মূর্চ্ছা পাঞা ৷  
 হেনকালে স্বরূপাদি মিলিলা আসিয়া ॥ ৫৭ ॥
 
 saundarya dekhiyā bhūme paḍe mūrcchā pāñā  
-hena-kāle svarūpādi mililā āsiyā
+the beauty  seeing  to the ground  falls  a swoon  getting  
+hena-kāle svarūpādi mililā āsiyā  
+at that time  Svarūpa and the others  met  arriving
 
-(57) [not yet translated]
+(57) Seeing that beauty, the Lord fell to the ground in a swoon. Just then Svarūpa and the others arrived and found Him.
 
 পূর্ব্ববৎ সর্ব্বাঙ্গে সাত্ত্বিকভাবসকল ৷  
 অন্তরে আনন্দ-আস্বাদ, বাহিরে বিহ্বল ॥ ৫৮ ॥
 
 pūrvavat sarvāṅge sāttvika-bhāva-sakala  
-antare ānanda-āsvāda, bāhire vihvala
+as before  in all His limbs  sāttvika  bhāvas  all  
+antare ānanda-āsvāda, bāhire vihvala  
+within  of bliss  the tasting  outwardly  overwhelmed
 
-(58) [not yet translated]
+(58) As before, all the *sāttvika-bhāvas* appeared in all His limbs. Within He was tasting bliss; outwardly He was overwhelmed.
 
 পূর্ব্ববৎ সবে মিলি’ করাইলা চেতন ৷  
 উঠিয়া চৌদিকে প্রভু করেন দর্শন ॥ ৫৯ ॥
 
 pūrvavat sabe mili’ karāilā cetana  
-uṭhiyā caudike prabhu karena darśana
+as before  all  together  made  consciousness  
+uṭhiyā caudike prabhu karena darśana  
+rising  on all sides  the Lord  makes  looking
 
-(59) [not yet translated]
+(59) As before, they all together brought Him back to consciousness. Rising, the Lord looked all around.
 
 কাঁহা গেলা কৃষ্ণ? এখন পাইনু দরশন !  
 যাঁহার সৌন্দর্য্য মোর হরিল নেত্র-মন! ॥ ৬০ ॥
 
 kāṅhā gelā kṛṣṇa? ekhana pāinu daraśana!  
-yāṅhāra saundarya mora harila netra-mana!
+where  went  Kṛṣṇa  now  I got  sight  
+yāṅhāra saundarya mora harila netra-mana!  
+whose  beauty  My  stole  eyes and mind
 
-(60) [not yet translated]
+(60) “Where has Kṛṣṇa gone? I saw Him just now — Him whose beauty has stolen My eyes and mind!
 
 পুনঃ কেনে না দেখিয়ে মুরলী-বদন !  
 তাঁহার দর্শন লোভে ভ্রময় নয়ন ॥ ৬১ ॥
 
 punaḥ kene nā dekhiye muralī-vadana!  
-tāṅhāra darśana lobhe bhramaya nayana
+again  why  not  I see  with the flute at His lips  
+tāṅhāra darśana lobhe bhramaya nayana  
+His  sight  in greed  wander  My eyes
 
-(61) [not yet translated]
+(61) Why do I not see Him again, with the flute at His lips? My eyes wander about, greedy to see Him.”
 
 বিশাখারে রাধা যৈছে শ্লোক কহিলা ৷  
 সেই শ্লোক মহাপ্রভু পড়িতে লাগিলা ॥ ৬২ ॥
 
 viśākhāre rādhā yaiche śloka kahilā  
-sei śloka mahāprabhu paḍite lāgilā
+to Viśākhā  Rādhā  as  verse  spoke  
+sei śloka mahāprabhu paḍite lāgilā  
+that  verse  Mahāprabhu  to recite  began
 
-(62) [not yet translated]
+(62) Then Mahāprabhu began to recite the verse that Rādhā had spoken to Viśākhā:
 
 নবাম্বুদ-লসদ্দ্যুতির্নবতড়িন্মনোজ্ঞাম্বরঃ  
 সুচিত্রমুরলীস্ফুরচ্ছরদমন্দচন্দ্রাননঃ ৷  
@@ -740,16 +768,25 @@ sei śloka mahāprabhu paḍite lāgilā
 স মে মদনমোহনঃ সখি তনোতি নেত্রস্পৃহাম্ ॥ ৬৩ ॥
 
 navāmbuda-lasad-dyutir nava-  
+than a new cloud  shining brighter  whose luster  than new  
 taḍin-manojñāmbaraḥ  
+lightning  more charming  whose garment  
 sucitra-muralī-sphurac-charad-  
+with a beautiful  flute  gleaming  autumn  
 amanda-candrānanaḥ  
+full  moon  whose face  
 mayūra-dala-bhūṣitaḥ subhaga-  
+with peacock  feathers  adorned  lovely  
 tāra-hāra-  
+starlike  necklace  
 prabhaḥ  
+whose radiance  
 sa me madana-mohanaḥ sakhi  
-tanoti netra-spṛhām
+He  My  of Madana  the enchanter  O friend  
+tanoti netra-spṛhām  
+increases  of the eyes  the longing
 
-(63) [not yet translated]
+(63) “O friend, His luster shines brighter than a new cloud; His garment is more charming than new lightning; His face, with the gleaming, beautiful flute, is like the full autumn moon; He is adorned with peacock feathers and radiant with a lovely necklace shining like stars — that enchanter of Madana increases the longing of My eyes.” (Govinda-līlāmṛta, 8.4)
 
 নবঘনস্নিগ্ধবর্ণ, দলিতাঞ্জন-চিক্কণ,  
 ইন্দীবর-নিন্দি সুকোমল ৷  
@@ -757,24 +794,34 @@ tanoti netra-spṛhām
 কৃষ্ণকান্তি পরম প্রবল ॥ ৬৪ ॥
 
 nava-ghana-snigdha-varṇa,  
+new  cloud  glossy  complexion  
 dalitāñjana-cikkaṇa,  
+ground  collyrium  smooth  
 indīvara-nindi sukomala  
+the blue lotus  putting to shame  very soft  
 jini’ upamāra gaṇa,  
+conquering  of comparisons  the host  
 hare sabāra netra-mana,  
-kṛṣṇa-kānti parama prabala
+steals  of all  eyes and mind  
+kṛṣṇa-kānti parama prabala  
+Kṛṣṇa’s  luster  supremely  powerful
 
-(64) [not yet translated]
+(64) “Kṛṣṇa’s complexion is glossy as a new cloud and smooth as ground collyrium; it puts the blue lotus to shame with its softness. Surpassing every comparison, Kṛṣṇa’s luster is supremely powerful: it steals the eyes and minds of all.
 
 কহ, সখি, কি করি উপায় ?  
 কৃষ্ণাদ্ভুত বলাহক, মোর নেত্র-চাতক,  
 না দেখি’ পিয়াসে মরি’ যায় ॥ ৬৫ ॥
 
 kaha, sakhi, ki kari upāya?  
+tell  O friend  what  shall I do  means  
 kṛṣṇādbhuta balāhaka,  
+Kṛṣṇa  wondrous  cloud  
 mora netra-cātaka,  
-nā dekhi’ piyāse mari’ yāya
+My  eyes  cātaka birds  
+nā dekhi’ piyāse mari’ yāya  
+not  seeing  of thirst  dying  go
 
-(65) [not yet translated]
+(65) Tell Me, O friend, what shall I do? Kṛṣṇa is a wondrous cloud, and the *cātaka* birds of My eyes, not seeing Him, are dying of thirst.
 
 সৌদামিনী পীতাম্বর, স্থির নহে নিরন্তর,  
 মুক্তাহার বকপাঁতি ভাল ৷  
@@ -782,12 +829,17 @@ nā dekhi’ piyāse mari’ yāya
 আর ধনু বৈজয়ন্তী-মাল ॥ ৬৬ ॥
 
 saudāminī pītāmbara, sthira nahe nirantara,  
+lightning  the yellow cloth  steady  is not  ever  
 muktā-hāra baka-pāṅti bhāla  
+pearl  necklace  of cranes  a row  lovely  
 indra-dhanu śikhi-pākhā,  
+Indra’s  bow  peacock  feather  
 upare diyāche dekhā,  
-āra dhanu vaijayantī-māla
+above  has  appeared  
+āra dhanu vaijayantī-māla  
+another  bow  the Vaijayantī  garland
 
-(66) [not yet translated]
+(66) His yellow cloth is the lightning, never steady; His pearl necklace is a lovely row of cranes; His peacock feather is a rainbow appearing above, and His Vaijayantī garland is another rainbow.
 
 মুরলীর কলধ্বনি, মধুর গর্জ্জন শুনি’,  
 বৃন্দাবনে নাচে ময়ূরচয় ৷  
@@ -795,13 +847,19 @@ upare diyāche dekhā,
 চিত্রচন্দ্র তাহাতে উদয় ॥ ৬৭ ॥
 
 muralīra kala-dhvani,  
+of the flute  soft sweet  sound  
 madhura garjana śuni’,  
+sweet  thunder  hearing  
 vṛndāvane nāce mayūra-caya  
+in Vṛndāvana  dance  peacocks  in flocks  
 akalaṅka pūrṇa-kala,  
+spotless  full in all digits  
 lāvaṇya-jyotsnā jhalamala,  
-citra-candra tāhāte udaya
+of beauty  moonlight  sparkling  
+citra-candra tāhāte udaya  
+a wondrous moon  in it  rising
 
-(67) [not yet translated]
+(67) Hearing the soft, sweet sound of His flute — the cloud’s sweet thunder — the peacocks of Vṛndāvana dance. And in that cloud a wondrous moon is rising, spotless and full in all its digits, its moonlight of beauty sparkling.
 
 লীলামৃত-বরিষণে, সিঞ্চে চৌদ্দ ভুবনে,  
 হেন মেঘ যবে দেখা দিল ৷  
@@ -809,13 +867,19 @@ citra-candra tāhāte udaya
 মরে চাতক, পিতে না পাইল ॥ ৬৮ ॥
 
 līlāmṛta-variṣaṇe,  
+of pastimes  of nectar  by the shower  
 siñce caudda bhuvane,  
+it sprinkles  fourteen  worlds  
 hena megha yabe dekhā dila  
+such  a cloud  when  appeared  
 durdaiva-jhañjhā-pavane,  
+of misfortune  of the storm  by the wind  
 meghe nila anya-sthāne,  
-mare cātaka, pite nā pāila
+the cloud  was taken  to another  place  
+mare cātaka, pite nā pāila  
+dies  the cātaka  to drink  not  could
 
-(68) [not yet translated]
+(68) With a shower of the nectar of His pastimes it drenches all fourteen worlds — but when such a cloud appeared, the storm wind of My misfortune carried it away to another place, and the *cātaka* is dying, for it could not drink.”
 
 পুনঃ কহে, — হায় হায়, পড় পড় রামরায়,  
 কহে প্রভু গদগদ আখ্যানে ৷  
@@ -823,13 +887,19 @@ mare cātaka, pite nā pāila
 আপনে প্রভু করেন ব্যাখ্যানে ॥ ৬৯ ॥
 
 punaḥ kahe, — hāya hāya,  
+again  He says  alas  alas  
 paḍa paḍa rāma-rāya,  
+recite  recite  Rāmarāya  
 kahe prabhu gadagada ākhyāne  
+says  the Lord  choked  in speech  
 rāmānanda paḍe śloka,  
+Rāmānanda  recites  a verse  
 śuni’ prabhura harṣa-śoka,  
-āpane prabhu karena vyākhyāne
+hearing  the Lord’s  joy  and sorrow  
+āpane prabhu karena vyākhyāne  
+Himself  the Lord  makes  explanation
 
-(69) [not yet translated]
+(69) Again He said, “Alas, alas! Recite, recite, Rāmarāya!” — so the Lord spoke, His voice choked with feeling. Rāmānanda recited a verse; hearing it, the Lord felt joy and sorrow, and He Himself explained it.
 
 বীক্ষ্যালকাবৃতমুখং তব কুণ্ডলশ্রী-  
 গণ্ডস্থলাধরসুধং হসিতাবলোকম্ ৷  
@@ -837,11 +907,15 @@ rāmānanda paḍe śloka,
 বক্ষঃ শ্রিয়ৈকরমণঞ্চ ভবাম দাস্যঃ ॥ ৭০ ॥
 
 vīkṣyālakāvṛta-mukhaṁ tava kuṇḍala-śrī-  
+having seen  by locks  framed  face  Your  by the beauty of earrings  
 gaṇḍa-sthalādhara-sudhaṁ hasitāvalokam  
+of the cheeks  of the lips  the nectar  smiling  glance  
 dattābhayaṁ ca bhuja-daṇḍa-yugaṁ vilokya  
-vakṣaḥ śriyaika-ramaṇaṁ ca bhavāma dāsyaḥ
+granting fearlessness  and  of arms  the pair  having beheld  
+vakṣaḥ śriyaika-ramaṇaṁ ca bhavāma dāsyaḥ  
+the chest  for Śrī  the sole delight  and  we become  maidservants
 
-(70) [not yet translated]
+(70) “Seeing Your face framed by curling locks and graced by the beauty of Your earrings, Your cheeks, the nectar of Your lips and Your smiling glance, and beholding Your two arms that grant fearlessness and Your chest, the sole delight of Śrī, we have become Your maidservants.” (Śrīmad-Bhāgavatam, 10.29.39)
 
 কৃষ্ণ জিনি’ পদ্ম-চান্দ, পাতিয়াছে মুখ-ফান্দ,  
 তাতে অধর মধুস্মিত চার ৷  
@@ -849,24 +923,34 @@ vakṣaḥ śriyaika-ramaṇaṁ ca bhavāma dāsyaḥ
 ছাড়ি’ লাজ-পতি-ঘর-দ্বার ॥ ৭১ ॥
 
 kṛṣṇa jini’ padma-cānda,  
+Kṛṣṇa  conquering  the lotus and the moon  
 pātiyāche mukha phānda,  
+has set  of His face  a snare  
 tāte adhara madhu-smita cāra  
+in it  of the lips  sweet  smile  the bait  
 vraja-nārī āsi’ āsi’,  
+Vraja’s  women  coming  coming  
 phānde paḍi’ haya dāsī,  
-chāḍi’ lāja-pati-ghara-dvāra
+into the snare  falling  become  maidservants  
+chāḍi’ lāja-pati-ghara-dvāra  
+leaving  shame  husbands  home  and door
 
-(71) [not yet translated]
+(71) “Having conquered the lotus and the moon, Kṛṣṇa has set the snare of His face, baited with the sweet smile of His lips. The women of Vraja come, fall into the snare and become His maidservants, leaving shame, husbands, home and hearth.
 
 বান্ধব কৃষ্ণ করে ব্যাধের আচার ৷  
 নাহি মানে ধর্ম্মাধর্ম্ম, হরে নারী-মৃগী-মর্ম্ম,  
 করে নানা উপায় তাহার ॥ ৭২ ॥
 
 bāndhava kṛṣṇa kare vyādhera ācāra  
+our friend  Kṛṣṇa  does  of a hunter  the conduct  
 nāhi māne dharmādharma,  
+not  regards  right and wrong  
 hare nārī-mṛgī-marma,  
-kare nānā upāya tāhāra
+steals  of the women-does  the hearts  
+kare nānā upāya tāhāra  
+makes  various  means  for that
 
-(72) [not yet translated]
+(72) Our friend Kṛṣṇa behaves like a hunter. He cares nothing for right or wrong; He steals the hearts of the women-does and devises many means to do it.
 
 গণ্ডস্থল ঝলমল, নাচে মকর-কুণ্ডল,  
 যেই নৃত্যে হরে নারীচয় ৷  
@@ -874,13 +958,19 @@ kare nānā upāya tāhāra
 নারী-বধে নাহি কিছু ভয় ॥ ৭৩ ॥
 
 gaṇḍa-sthala jhalamala,  
+the cheeks  sparkling  
 nāce makara-kuṇḍala,  
+dance  makara  earrings  
 yei nṛtye hare nārī-caya  
+by which  dance  steal  women  all  
 sasmita kaṭākṣa-bāṇe,  
+smiling  of sidelong glances  with arrows  
 tā-sabāra hṛdaye hāne,  
-nārī-vadhe nāhi kichu bhaya
+their  all  in the hearts  He strikes  
+nārī-vadhe nāhi kichu bhaya  
+of women  in killing  not  any  fear
 
-(73) [not yet translated]
+(73) On His sparkling cheeks His *makara* earrings dance, and by that dance they steal the hearts of all women. With the arrows of His smiling sidelong glances He strikes their hearts, and He has no fear at all of killing women.
 
 অতি উচ্চ সুবিস্তার, লক্ষ্মী-শ্রীবৎস-অলংকার,  
 কৃষ্ণের যে ডাকাতিয়া বক্ষ ৷  
@@ -888,13 +978,19 @@ nārī-vadhe nāhi kichu bhaya
 হরিদাসী করিবারে দক্ষ ॥ ৭৪ ॥
 
 ati ucca suvistāra,  
+very  high  broad  
 lakṣmī-śrīvatsa-alaṁkāra,  
+Lakṣmī  Śrīvatsa  ornaments  
 kṛṣṇera ye ḍākātiyā vakṣa  
+Kṛṣṇa’s  that  robber  chest  
 vraja-devī lakṣa lakṣa,  
+of Vraja  goddesses  hundreds of  thousands  
 tā-sabāra mano-vakṣa,  
-hari-dāsī karibāre dakṣa
+their  all  minds  and breasts  
+hari-dāsī karibāre dakṣa  
+of Hari  maidservants  in making  skilled
 
-(74) [not yet translated]
+(74) Kṛṣṇa’s chest — very high and broad, adorned with the marks of Lakṣmī and Śrīvatsa — is a robber: it is skilled at making the minds and breasts of hundreds of thousands of goddesses of Vraja into Hari’s maidservants.
 
 সুললিত দীর্ঘার্গল, কৃষ্ণের ভুজযুগল,  
 ভুজ নহে, — কৃষ্ণসর্পকায় ৷  
@@ -902,13 +998,19 @@ hari-dāsī karibāre dakṣa
 মনে নারী সে বিষজ্বালায় ॥ ৭৫ ॥
 
 sulalita dīrghārgala,  
+very graceful  long bolts  
 kṛṣṇera bhuja-yugala,  
+Kṛṣṇa’s  of arms  the pair  
 bhuja nahe, — kṛṣṇa-sarpa-kāya  
+arms  are not  black  snakes’  bodies  
 dui śaila-chidre paśe,  
+two  hills  into the gap  enter  
 nārīra hṛdaye daṁśe,  
-mane nārī se viṣa-jvālāya
+of women  in the hearts  bite  
+mane nārī se viṣa-jvālāya  
+in the mind  women  that  of poison  in the burning
 
-(75) [not yet translated]
+(75) Kṛṣṇa’s two arms are graceful long bolts — no, not arms, but the bodies of black snakes. They slip into the gap between the two hills and bite women’s hearts, and the women burn within from that poison.
 
 কৃষ্ণ-কর-পদতল, কোটিচন্দ্র-সুশীতল,  
 জিনি’ কর্পূর-বেণামূল-চন্দন ৷  
@@ -916,13 +1018,19 @@ mane nārī se viṣa-jvālāya
 যার স্পর্শে লুব্ধ নারী-মন ॥ ৭৬ ॥
 
 kṛṣṇa-kara-pada-tala,  
+Kṛṣṇa’s  hands  and feet  the palms and soles  
 koṭi-candra-suśītala,  
+than millions of moons  cooler  
 jini’ karpūra-veṇā-mūla-candana  
+surpassing  camphor  vetiver  root  sandal  
 eka-bāra yāra sparśe,  
+once  whose  by the touch  
 smara-jvālā-viṣa nāśe,  
-yāra sparśe lubdha nārī-mana
+of Smara’s  burning  poison  is destroyed  
+yāra sparśe lubdha nārī-mana  
+whose  by the touch  greedy  women’s  minds
 
-(76) [not yet translated]
+(76) The palms of Kṛṣṇa’s hands and the soles of His feet are cooler than millions of moons, surpassing camphor, vetiver root and sandal. A single touch of them destroys the burning poison of Smara, and their touch makes women’s minds greedy.”
 
 এতেক বিলাপ করি’, বিষাদে শ্রীগৌরহরি,  
 এই অর্থে পড়ে এক শ্লোক ৷  
@@ -930,13 +1038,19 @@ yāra sparśe lubdha nārī-mana
 উঘাড়িয়া হৃদয়ের শোক ॥ ৭৭ ॥
 
 eteka vilāpa kari’,  
+so much  lament  making  
 viṣāde śrī-gaurahari,  
+in dejection  Śrī Gaurahari  
 ei arthe paḍe eka śloka  
+with this  meaning  recites  one  verse  
 ei śloka pāñā rādhā,  
+this  verse  having found  Rādhā  
 viśākhāre kahe rādhā,  
-ughāḍiyā hṛdayera śoka
+to Viśākhā  speaks  Rādhā  
+ughāḍiyā hṛdayera śoka  
+opening  of the heart  the grief
 
-(77) [not yet translated]
+(77) Lamenting so much in His dejection, Śrī Gaurahari recited a verse with this meaning — the verse with which Rādhā spoke to Viśākhā, laying open the grief of Her heart:
 
 হরিংমণিকবাটিকাপ্রততহারিবক্ষঃস্থলঃ  
 স্মরার্ত্ততরুণীমনঃকলুষহারিদোরর্গলঃ ৷  
@@ -944,162 +1058,209 @@ ughāḍiyā hṛdayera śoka
 স মে মদনমোহনঃ সখি তনোতি বক্ষঃস্পৃহাম্ ॥ ৭৮ ॥
 
 hariṁ-maṇi-kavāṭikā-pratata-  
+sapphire  door  broad  
 hāri-vakṣaḥ-sthalaḥ  
+outshining  whose chest  
 smarārta-taruṇī-manaḥ-kaluṣa-  
+tormented by Smara  of young girls  of the mind  the distress  
 hāri-dor-  
+removing  whose arms  
 argalaḥ  
+bolts  
 sudhāṁśu-hari-candanotpala-  
+the moon  hari-candana  lotus  
 sitābhra-śītāṅgakaḥ  
+than camphor  cooler  whose body  
 sa me madana-mohanaḥ sakhi  
-tanoti vakṣaḥ-spṛhām
+He  My  of Madana  the enchanter  O friend  
+tanoti vakṣaḥ-spṛhām  
+increases  of the breast  the longing
 
-(78) [not yet translated]
+(78) “O friend, His broad chest outshines a door of sapphire; His bolt-like arms take away the distress of young girls’ minds tormented by Smara; His body is cooler than the moon, *hari-candana*, the lotus and camphor — that enchanter of Madana increases the longing of My breast.” (Govinda-līlāmṛta, 8.7)
 
 প্রভু কহে, — কৃষ্ণ মুই এখন দেখিনু ৷  
 আপনার দুর্দ্দৈবে পুনঃ হারাইনু ॥ ৭৯ ॥
 
 prabhu kahe, — kṛṣṇa mui ekhana dekhinu  
-āpanāra durdaive punaḥ hārāinu
+the Lord  says  Kṛṣṇa  I  just now  saw  
+āpanāra durdaive punaḥ hārāinu  
+by My own  misfortune  again  lost
 
-(79) [not yet translated]
+(79) The Lord said, “I saw Kṛṣṇa just now, and by My own misfortune I have lost Him again.
 
 চঞ্চল-স্বভাব কৃষ্ণের, না রয় একস্থানে ৷  
 দেখা দিয়া মন হরি’ করে অন্তর্দ্ধানে ॥ ৮০ ॥
 
 cañcala-svabhāva kṛṣṇera, nā raya ekasthāne  
-dekhā diyā mana hari’ kare antarddhāne
+fickle  by nature  Kṛṣṇa  not  stays  in one place  
+dekhā diyā mana hari’ kare antarddhāne  
+appearing  the mind  stealing  makes  disappearance
 
-(80) [not yet translated]
+(80) Kṛṣṇa is fickle by nature; He does not stay in one place. He shows Himself, steals the mind and disappears.”
 
 তাসাং তৎসৌভগমদং বীক্ষ্য মানঞ্চ কেশবঃ ৷  
 প্রশমায় প্রসাদায় তত্রৈবান্তরধীয়ত ॥ ৮১ ॥
 
 tāsāṁ tat-saubhaga-madaṁ  
+of them  that  of good fortune  the pride  
 vīkṣya mānaṁ ca keśavaḥ  
+seeing  self-esteem  and  Keśava  
 praśamāya prasādāya  
-tatraivāntaradhīyata
+to calm  to show grace  
+tatraivāntaradhīyata  
+right there  disappeared
 
-(81) [not yet translated]
+(81) “Seeing the *gopīs*’ pride in their good fortune and their self-esteem, Keśava, to calm it and to show them grace, disappeared right there.” (Śrīmad-Bhāgavatam, 10.29.48)
 
 স্বরূপ-গোসাঞিরে কহেন, — গাও এক গীত ৷  
 যাতে আমার হৃদয়ের হয়ে ত’ ‘সম্বিৎ’ ॥ ৮২ ॥
 
 svarūpa-gosāñire kahena, — gāo eka gīta  
-yāte āmāra hṛdayera haye ta’ ‘samvit’
+to Svarūpa Gosāñi  He says  sing  a  song  
+yāte āmāra hṛdayera haye ta’ ‘samvit’  
+by which  My  of the heart  may come  indeed  awareness
 
-(82) [not yet translated]
+(82) He said to Svarūpa Gosāñi, “Sing a song that will bring My heart back to awareness.”
 
 স্বরূপ-গোসাঞি তবে মধুর করিয়া ৷  
 গীতগোবিন্দের পদ গায় প্রভুরে শুনাঞা ॥ ৮৩ ॥
 
 svarūpa-gosāñi tabe madhura kariyā  
-gīta-govindera pada gāya prabhure śunāñā
+Svarūpa Gosāñi  then  sweetly  doing  
+gīta-govindera pada gāya prabhure śunāñā  
+of the Gīta-govinda  a song  sings  to the Lord  making hear
 
-(83) [not yet translated]
+(83) Then Svarūpa Gosāñi sweetly sang for the Lord a song from the *Gīta-govinda*:
 
 রাসে হরিমিহ বিহিতবিলাসম্ ৷  
 স্মরতি মনো মম কৃতপরিহাসম্ ॥ ৮৪ ॥
 
 rāse harim iha vihita-vilāsam  
-smarati mano mama kṛta-parihāsam
+in the rāsa  Hari  here  who enjoyed  pastimes  
+smarati mano mama kṛta-parihāsam  
+remembers  mind  My  who made  jests
 
-(84) [not yet translated]
+(84) “My mind remembers Hari, who here in the *rāsa* dance enjoyed His pastimes and His jests.” (Gīta-govinda, 2.3)
 
 স্বরূপ-গোসাঞি যবে এই পদ গাহিলা ৷  
 উঠি’ প্রেমাবেশে তবে নাচিতে লাগিলা ॥ ৮৫ ॥
 
 svarūpa-gosāñi yabe ei pada gāhilā  
-uṭhi’ premāveśe tabe nācite lāgilā
+Svarūpa Gosāñi  when  this  song  sang  
+uṭhi’ premāveśe tabe nācite lāgilā  
+rising  absorbed in prema  then  to dance  began
 
-(85) [not yet translated]
+(85) When Svarūpa Gosāñi sang this song, the Lord rose, absorbed in *prema*, and began to dance.
 
 ‘অষ্টসাত্ত্বিক’ ভাব অঙ্গে প্রকট হইল ৷  
 হর্ষাদি ‘ব্যভিচারী’ সব উথলিল ॥ ৮৬ ॥
 
 ‘aṣṭa-sāttvika’ bhāva aṅge prakaṭa haila  
-harṣādi ‘vyabhicārī’ saba uthalila
+the eight  sāttvika  bhāvas  in His body  manifest  became  
+harṣādi ‘vyabhicārī’ saba uthalila  
+joy and the others  vyabhicārī  all  welled up
 
-(86) [not yet translated]
+(86) The eight *sāttvika-bhāvas* appeared in His body, and all the *vyabhicārī-bhāvas*, beginning with joy, welled up.
 
 ভাবোদয়, ভাব-সন্ধি, ভাব-শাবল্য ৷  
 ভাবে-ভাবে মহাযুদ্ধে সবার প্রাবল্য ॥ ৮৭ ॥
 
 bhāvodaya, bhāva-sandhi, bhāva-śābalya  
-bhāve-bhāve mahā-yuddhe sabāra prābalya
+rise of feelings  of feelings  meeting  of feelings  mingling  
+bhāve-bhāve mahā-yuddhe sabāra prābalya  
+between feeling  and feeling  in a great battle  of all  the dominance
 
-(87) [not yet translated]
+(87) Feelings arose (*bhāvodaya*), met (*bhāva-sandhi*) and mingled (*bhāva-śābalya*); feeling fought feeling in a great battle, each striving to prevail.
 
 সেই পদ পুনঃ পুনঃ করায় গায়ন ৷  
 পুনঃ পুনঃ আস্বাদয়ে, করেন নর্ত্তন ॥ ৮৮ ॥
 
 sei pada punaḥ punaḥ karāya gāyana  
-punaḥ punaḥ āsvādaye, karena nartana
+that  song  again  and again  He has  sung  
+punaḥ punaḥ āsvādaye, karena nartana  
+again and again  He relishes  makes  dancing
 
-(88) [not yet translated]
+(88) Again and again He had that song sung; again and again He relished it and danced.
 
 এইমত নৃত্য যদি হইল বহুক্ষণ ৷  
 স্বরূপ-গোসাঞি পদ কৈলা সমাপন ॥ ৮৯ ॥
 
 ei-mata nṛtya yadi haila bahu-kṣaṇa  
-svarūpa-gosāñi pada kailā samāpana
+in this way  dancing  when  went on  a long time  
+svarūpa-gosāñi pada kailā samāpana  
+Svarūpa Gosāñi  the song  made  conclusion
 
-(89) [not yet translated]
+(89) When the dancing had gone on in this way for a long time, Svarūpa Gosāñi brought the song to a close.
 
 ‘বল্’ ‘বল্’ বলি’ প্রভু কহেন বারবার ৷  
 না গায় স্বরূপ-গোসাঞি শ্রম দেখি’ তাঁর ॥ ৯০ ॥
 
 ‘bal’ ‘bal’ bali’ prabhu kahena bārabāra  
-nā gāya svarūpa-gosāñi śrama dekhi’ tāṅra
+sing  sing  saying  the Lord  says  again and again  
+nā gāya svarūpa-gosāñi śrama dekhi’ tāṅra  
+not  sings  Svarūpa Gosāñi  fatigue  seeing  His
 
-(90) [not yet translated]
+(90) “Sing! Sing!” the Lord said again and again, but seeing His fatigue, Svarūpa Gosāñi did not sing.
 
 ‘বল্’ ‘বল্’ প্রভু বলেন, ভক্তগণ শুনি’ ৷  
 চৌদিকেতে সবে মেলি’ করে হরিধ্বনি ॥ ৯১ ॥
 
 ‘bal’ ‘bal’ prabhu balena, bhakta-gaṇa śuni’  
-caudikete sabe meli’ kare hari-dhvani
+sing  sing  the Lord  says  the devotees  hearing  
+caudikete sabe meli’ kare hari-dhvani  
+on all sides  all  together  make  the sound of Hari’s name
 
-(91) [not yet translated]
+(91) The Lord kept saying, “Sing! Sing!” Hearing this, the devotees gathered all around and called out the name of Hari.
 
 রামানন্দ রায় তবে প্রভুরে বসাইলা ৷  
 ব্যজনাদি করি’ প্রভুর শ্রম ঘুচাইলা ॥ ৯২ ॥
 
 rāmānanda rāya tabe prabhure vasāilā  
-vyajanādi kari’ prabhura śrama ghucāilā
+Rāmānanda  Rāya  then  the Lord  seated  
+vyajanādi kari’ prabhura śrama ghucāilā  
+fanning and so on  doing  the Lord’s  fatigue  removed
 
-(92) [not yet translated]
+(92) Then Rāmānanda Rāya made the Lord sit down and relieved His fatigue by fanning Him and serving Him in other ways.
 
 প্রভুরে লঞা গেলা তবে সমুদ্রের তীরে ৷  
 স্নান করাঞা পুনঃ তাঁরে লঞা আইলা ঘরে ॥ ৯৩ ॥
 
 prabhure lañā gelā tabe samudrera tīre  
-snāna karāñā punaḥ tāṅre lañā āilā ghare
+the Lord  taking  they went  then  of the sea  to the shore  
+snāna karāñā punaḥ tāṅre lañā āilā ghare  
+bath  making Him take  again  Him  taking  came  home
 
-(93) [not yet translated]
+(93) Then they took the Lord to the seashore, bathed Him, and brought Him home again.
 
 ভোজন করাঞা প্রভুরে করাইলা শয়ন ৷  
 রামানন্দ-আদি সবে গেলা নিজ-স্থান ॥ ৯৪ ॥
 
 bhojana karāñā prabhure karāilā śayana  
-rāmānanda-ādi sabe gelā nija-sthāna
+meal  making Him take  the Lord  made  lie down  
+rāmānanda-ādi sabe gelā nija-sthāna  
+Rāmānanda  and the others  all  went  own  places
 
-(94) [not yet translated]
+(94) They gave the Lord His meal and had Him lie down to rest, and Rāmānanda and all the others went to their own places.
 
 এই ত’ কহিলুঁ প্রভুর উদ্যান-বিহার ৷  
 বৃন্দাবন ভ্রমে যাঁহা প্রবেশ তাঁহার ॥ ৯৫ ॥
 
 ei ta’ kahiluṅ prabhura udyāna-vihāra  
-vṛndāvana bhrame yāṅhā praveśa tāṅhāra
+thus  indeed  I have told  the Lord’s  in the garden  pastime  
+vṛndāvana bhrame yāṅhā praveśa tāṅhāra  
+Vṛndāvana  mistaking it for  where  the entering  His
 
-(95) [not yet translated]
+(95) Thus I have told of the Lord’s pastime in the garden that He entered, taking it for Vṛndāvana.
 
 বিলাপ-সহিত এই উন্মাদ-বর্ণন ৷  
 শ্রীরূপ-গোসাঞি ইহা কৈরাছেন লিখন ॥ ৯৬ ॥
 
 vilāpa-sahita ei unmāda-varṇana  
-śrī-rūpa-gosāñi ihā kairāchena likhana
+with lament  together  this  of madness  description  
+śrī-rūpa-gosāñi ihā kairāchena likhana  
+Śrī Rūpa Gosāñi  this  has made  writing
 
-(96) [not yet translated]
+(96) This description of His madness, together with His lament, Śrī Rūpa Gosāñi has also written:
 
 পয়োরাশেস্তীরে স্ফুরদুপবনালীকলনয়া  
 মুহুর্বৃন্দারণ্যস্মরণজনিতপ্রেমবিবশঃ ৷  
@@ -1107,28 +1268,40 @@ vilāpa-sahita ei unmāda-varṇana
 স চৈতন্যঃ কিং মে পুনরপি দৃশোর্যাস্যতি পদম্ ॥ ৯৭ ॥
 
 payo-rāśes tīre sphurad-  
+of the ocean  on the shore  gleaming  
 upavanālī-kalanayā  
+of rows of gardens  by the sight  
 muhur vṛndāraṇya-smaraṇa-janita-  
+again and again  of the Vṛndāvana forest  by remembrance  born  
 prema-vivaśaḥ  
+by prema  overwhelmed  
 kvacit kṛṣṇāvṛtti-pracala-  
+sometimes  of Kṛṣṇa’s name  by repetition  restless  
 rasano bhakti-rasikaḥ  
+whose tongue  of bhakti  the relisher  
 sa caitanyaḥ kiṁ me punar api  
-dṛśor yāsyati padam
+that  Caitanya  will  my  again  even  
+dṛśor yāsyati padam  
+of the eyes  come  to the path
 
-(97) [not yet translated]
+(97) “On the shore of the ocean, at the sight of rows of gleaming gardens, He remembered again and again the forest of Vṛndāvana and was overwhelmed by the *prema* it awakened; and at times His tongue moved restlessly, repeating Kṛṣṇa’s name. Will that Caitanya, the relisher of *bhakti*, come once again before my eyes?” (Stava-mālā, First Caitanyāṣṭaka, 6)
 
 অনন্ত চৈতন্যলীলা না যায় লিখন ৷  
 দিঙ্মাত্র দেখাঞা তাহা করিয়ে সূচন ॥ ৯৮ ॥
 
 ananta caitanya-līlā nā yāya likhana  
-diṅ-mātra dekhāñā tāhā kariye sūcana
+endless  Caitanya’s  pastimes  not  can be  written  
+diṅ-mātra dekhāñā tāhā kariye sūcana  
+a mere direction  showing  them  I make  indication
 
-(98) [not yet translated]
+(98) Śrī Caitanya’s pastimes are endless; they cannot all be written. I only point the way and give a hint of them.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ৯৯ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(99) [not yet translated]
+(99) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
