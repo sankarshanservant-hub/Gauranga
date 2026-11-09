@@ -203,7 +203,10 @@ def split_body(v, vb):
     def is_tl(l):
         # похожесть на строку vedabase — только для строк без русских букв-маркеров и не с заглавной (пословный ВЧД бывает
         # почти дословным: «Брахма, Вишну, Шива — три гуна-Аватары», Ади 1.67)
+        # строка с двумя пробелами между словами без диакритики после транслитерации без пословного — это пословный
+        # (Антья 19.53: «так  Гаура  Рай» похоже на «эи-мата гаура-ра̄йа»)
         return tlish(l) or (bool(near) and not any(c in RUS for c in l) and not l[:1].isupper()
+                            and not ('  ' in l and pairs and pairs[-1][1] is None)
                             and max(sim(l, e) for e in near) > 0.7)
     def is_gloss(l):
         if ' — ' not in l: return False
