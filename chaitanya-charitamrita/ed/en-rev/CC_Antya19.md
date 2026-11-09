@@ -86,7 +86,7 @@ on whatever  day  your  wish  to feed (Me)
 se-dine avaśya āmi kariye bhakṣaṇa  
 on that  day  surely  I  do  eat
 
-(8) On any day you wish to feed Me, I certainly come and eat.
+(8) Whenever you wish to feed Me, on that day I surely come and eat.
 
 তোমার সেবা ছাড়ি’ আমি করিলুঁ সন্ন্যাস ৷  
 ‘বাউল’ হঞা আমি কৈলুঁ ধর্ম্মনাশ ॥ ৯ ॥
@@ -166,7 +166,7 @@ the Ācārya and other  devotees  met  prasāda  giving
 mātā-ṭhāñi ājñā lailā māseka rahiyā  
 from Mother  leave  took  a month  staying
 
-(16) He met Advaita Ācārya and the other devotees and gave them *prasāda*. After staying a month, he took leave of Mother Śacī.
+(16) He also visited Advaita Ācārya and the other devotees and gave them *prasāda*. After staying a month, he took leave of Mother Śacī.
 
 আচার্য্যের ঠাঞি গিয়া আজ্ঞা মাগিলা ৷  
 আচার্য্য-গোসাঞি প্রভুরে সন্দেশ কহিলা ॥ ১৭ ॥
@@ -226,7 +226,7 @@ this  hearing  Jagadānanda  to laugh  began
 nīlācale āsi’ tabe prabhure kahilā  
 to Nīlācala  coming  then  to the Lord  told
 
-(22) Hearing this, Jagadānanda began to laugh. Then he returned to Nīlācala and told it to the Lord.
+(22) Hearing this, Jagadānanda began to laugh. Then he returned to Nīlācala and told the Lord everything.
 
 তরজা শুনি’ মহাপ্রভু ঈষৎ হাসিলা ৷  
 ‘তাঁর যেই আজ্ঞা’ — বলি’ মৌন ধরিলা ॥ ২৩ ॥
@@ -316,7 +316,7 @@ of madness  ravings  behaviour  makes  night  and day
 rādhā-bhāvāveśe viraha bāḍe anukṣaṇe  
 in Rādhā’s  feeling  absorbed  separation  grows  every moment
 
-(31) Night and day He behaved and raved like one mad. Absorbed in the feelings of Rādhā, He felt the separation grow every moment.
+(31) Night and day He behaved and raved like one mad. Absorbed in the feelings of Rādhā, He felt the separation grow keener every moment.
 
 আচম্বিতে স্ফুরে কৃষ্ণের মথুরা-গমন ৷  
 উদ্ঘূর্ণা-দশা হৈল উন্মাদ লক্ষণ ॥ ৩২ ॥
@@ -364,14 +364,14 @@ treasure  My  dearest friend  where  alas  alas  ah  fie on  the Creator
 
 (35) “O friend, where is the moon of Nanda’s line? Where is He who is adorned with a peacock feather? Where is He whose flute sounds so deep, whose lustre is like the sapphire’s? Where is He who dances, enraptured by the taste of the *rāsa*? Where is He — the medicine that saves My life, My treasure, My dearest friend? Alas, alas! Fie on the Creator!” (Lalita-mādhava, 3.25)[^10]
 
-ব্রজেন্দ্রকুল — দুগ্ধসিন্ধু, কৃষ্ণ তাহে পূর্ণ ইন্দু,  
+ব্রজেন্দ্রকুল — দুগ্ধসিন্ধু, কৃষ্ণ — তাহে পূর্ণ ইন্দু,  
 জন্মি’ কৈলা জগৎ উজোর ৷  
 কান্ত্যমৃত যেবা পিয়ে, নিরন্তর পিয়া জিয়ে,  
 ব্রজ-জনের নয়ন-চকোর ॥ ৩৬ ॥
 
 vrajendra-kula — dugdha-sindhu,  
 of the king of Vraja  the dynasty  the ocean of milk  
-kṛṣṇa tāhe pūrṇa indu,  
+kṛṣṇa — tāhe pūrṇa indu,  
 Kṛṣṇa  in it  the full  moon  
 janmi’ kailā jagat ujora  
 being born  made  the world  illumined  
@@ -420,7 +420,7 @@ show  O friend  save  My  life
 (38) The women of Vraja are night-blooming lotuses scorched by the sun of loving desire (*kāma*). Where is that moon of Mine who makes them blossom with the gift of the nectar of His rays — His hands? O friend, show Him to Me and save My life![^13]
 
 কাঁহা সে চূড়ার ঠাম, শিখিপিঞ্ছের উড়ান,  
-নব-মেঘে যেন ইন্দ্রধনু ৷  
+নব মেঘে যেন ইন্দ্রধনু ৷  
 পীতাম্বর — তড়িদ্দ্যুতি, মুক্তামালা — বকপাঁতি,  
 নবাম্বুদ জিনি’ শ্যামতনু ॥ ৩৯ ॥
 
@@ -428,7 +428,7 @@ kām̐hā se cūḍāra ṭhāma,
 where  that  of the crown  the beauty  
 śikhi-piñchera uḍāna,  
 of the peacock feathers  the waving  
-nava-meghe yena indra-dhanu  
+nava meghe yena indra-dhanu  
 in a new cloud  like  a rainbow  
 pītāmbara — taḍid-dyuti,  
 the yellow garment  lightning’s  flash  
@@ -557,7 +557,7 @@ the doings  your  of a child  the doings  like
 
 না জানিস্ প্রেম-মর্ম্ম, ব্যর্থ করিস্ পরিশ্রম,  
 তোর চেষ্টা — বালক-সমান ৷  
-‘তোর যদি লাগ্ পাইয়ে, তবে তোরে শিক্ষা দিয়ে,  
+তোর যদি লাগ্ পাইয়ে, তবে তোরে শিক্ষা দিয়ে,  
 এমন যেন না করিস্ বিধান ॥ ৪৬ ॥
 
 nā jānis prema-marma,  

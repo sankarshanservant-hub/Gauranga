@@ -49,7 +49,7 @@ tr: Tell her: ‘Please remember — every day I come and bow at your feet.
 ## 8
 w: on whatever  day  your  wish  to feed (Me)
 w: on that  day  surely  I  do  eat
-tr: On any day you wish to feed Me, I certainly come and eat.
+tr: Whenever you wish to feed Me, on that day I surely come and eat.
 
 ## 9
 w: your  service  giving up  I  took  sannyāsa
@@ -91,7 +91,7 @@ tr: Arriving in Nadia, Jagadānanda met Mother Śacī and gave her all the Lord�
 ## 16
 w: the Ācārya and other  devotees  met  prasāda  giving
 w: from Mother  leave  took  a month  staying
-tr: He met Advaita Ācārya and the other devotees and gave them *prasāda*. After staying a month, he took leave of Mother Śacī.
+tr: He also visited Advaita Ācārya and the other devotees and gave them *prasāda*. After staying a month, he took leave of Mother Śacī.
 
 ## 17
 w: of the Ācārya  to  going  leave  asked
@@ -123,7 +123,7 @@ fn: *Anubhāṣya*: some explain *kāye nāhika āula* thus: in the work of prea
 ## 22
 w: this  hearing  Jagadānanda  to laugh  began
 w: to Nīlācala  coming  then  to the Lord  told
-tr: Hearing this, Jagadānanda began to laugh. Then he returned to Nīlācala and told it to the Lord.
+tr: Hearing this, Jagadānanda began to laugh. Then he returned to Nīlācala and told the Lord everything.
 
 ## 23
 w: the tarjā  hearing  Mahāprabhu  slightly  smiled
@@ -171,7 +171,7 @@ tr: From that day the Lord’s condition changed: His feeling of separation from
 ## 31
 w: of madness  ravings  behaviour  makes  night  and day
 w: in Rādhā’s  feeling  absorbed  separation  grows  every moment
-tr: Night and day He behaved and raved like one mad. Absorbed in the feelings of Rādhā, He felt the separation grow every moment.
+tr: Night and day He behaved and raved like one mad. Absorbed in the feelings of Rādhā, He felt the separation grow keener every moment.
 
 ## 32
 w: suddenly  appears  Kṛṣṇa’s  to Mathurā  departure
