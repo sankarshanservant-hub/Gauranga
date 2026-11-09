@@ -124,7 +124,7 @@ of all  good  the dawning  for Kṛṣṇa  of love  the joy
 
 চেতোদর্পণমার্জ্জনং ভবমহাদাবাগ্নিনির্ব্বাপণং  
 শ্রেয়ঃকৈরবচন্দ্রিকাবিতরণং বিদ্যাবধূজীবনম্ ৷  
-আনন্দাম্বুধিবর্ধনং প্রতিপদং পূর্ণামৃতাস্বাদনং  
+আনন্দাম্বুধিবর্দ্ধনং প্রতিপদং পূর্ণামৃতাস্বাদনং  
 সর্ব্বাত্মস্নপনং পরং বিজয়তে শ্রীকৃষ্ণসঙ্কীর্ত্তনম্ ॥ ১২ ॥
 
 ceto-darpaṇa-mārjanaṁ bhava-mahā-dāvāgni-nirvāpaṇaṁ  
@@ -742,12 +742,12 @@ mind and body  holding still  not  possible
 
 (61) Śrī Gaura Rāya relished these words of Rādhā, which bear the marks of pure love. His mind grew unsteady with emotion, *sāttvika* symptoms pervaded His body, and He could no longer hold His mind and body still.
 
-ব্রজেশ্বর-শুদ্ধপ্রেম, — যেন জাম্বূনদ হেম,  
+ব্রজেশ্বর-শুদ্ধপ্রেম, — যেন জাম্বুনদ হেম,  
 আত্ম-সুখের যাঁহা নাহি গন্ধ ৷  
 স্ব-প্রেম জানা’তে লোকে, প্রভু কৈলা এই শ্লোকে,  
 পদ কৈলা অর্থের নির্ব্বন্ধ ॥ ৬২ ॥
 
-vrajeśvara-śuddha-prema, — yena jāmbū-nada hema,  
+vrajeśvara-śuddha-prema, — yena jāmbu-nada hema,  
 for the Lord of Vraja  pure  love  like  of the Jāmbū  river  gold  
 ātma-sukhera yāṅhā nāhi gandha  
 of one’s own happiness  in which  there is no  trace  
@@ -1043,11 +1043,11 @@ by this  example  know  the Lord’s  pastimes’  vastness
 (90–91) I am a very tiny soul, like the little *rāṅgā-ṭuni* bird. As that bird, when thirsty, drinks the water of the ocean, so I have touched a single drop of the pastimes. By this example know how vast the Lord’s pastimes are.
 
 ’আমি লিখি’, — ইহা মিথ্যা করি অনুমান ৷  
-আমার শরীর কাষ্ঠপুতলী-সমান ॥ ৯২ ॥
+আমার শরীর — কাষ্ঠপুতলী-সমান ॥ ৯২ ॥
 
 ’āmi likhi’, — ihā mithyā kari anumāna  
 ‘I  write’  —  this  false  I consider  a supposition  
-āmāra śarīra kāṣṭha-putalī-samāna  
+āmāra śarīra — kāṣṭha-putalī-samāna  
 my  body  to a wooden puppet equal
 
 (92) To think “I am writing” is a false notion: my body is like a wooden puppet.
@@ -1649,7 +1649,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 চরিতমমৃতমেতচ্ছ্রীলচৈতন্যবিষ্ণোঃ  
 শুভদমশুভনাশি শ্রদ্ধয়াস্বাদয়েদ্যঃ ৷  
-তদমলপদপদ্মে ভৃঙ্গতামেত্য সোঽযং  
+তদমলপদপদ্মে ভৃঙ্গতামেত্য সোঽয়ং  
 রসয়তি রসমুচ্চৈঃ প্রেমমাধ্বীকপূরম্ ॥ ১৫৪ ॥
 
 caritam amṛtam etac chrīla-caitanya-viṣṇoḥ  
