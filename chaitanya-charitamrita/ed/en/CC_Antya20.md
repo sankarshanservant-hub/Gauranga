@@ -1653,21 +1653,29 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 রসয়তি রসমুচ্চৈঃ প্রেমমাধ্বীকপূরম্ ॥ ১৫৪ ॥
 
 caritam amṛtam etac chrīla-caitanya-viṣṇoḥ  
+the life-story  nectarean  this  of Śrīla Caitanya  Viṣṇu  
 śubha-dam aśubha-nāśi śraddhayāsvādayed yaḥ  
+bestowing good  destroying evil  with faith would relish  who  
 tad-amala-pada-padme bhṛṅgatām etya so ‘yaṁ  
-rasayati rasam uccaiḥ prema-mādhvīka-pūram
+at His spotless lotus feet  bee-hood  attaining  he  this one  
+rasayati rasam uccaiḥ prema-mādhvīka-pūram  
+relishes  rasa  intensely  full of the honey-wine of prema
 
-(154) [not yet translated]
+(154) Whoever with faith relishes this nectarean account of the life of Śrīla Caitanya, who is Viṣṇu Himself — an account that bestows all good and destroys all evil — becomes a bee at His spotless lotus feet and relishes to the full the *rasa* that overflows with the intoxicating honey of *prema*.[^154-1]
 
 শ্রীমন্মদনগোপাল-গোবিন্দদেব-তুষ্টয়ে ৷  
 চৈতন্যার্পিতমস্ত্বেতচ্চৈতন্যচরিতামৃতম্ ॥ ১৫৫ ॥
 
 śrīman-madana-gopāla-  
-govindadeva-tuṣṭaye  
+of Śrīman Madana-Gopāla  
+govinda-deva-tuṣṭaye  
+and Govinda-deva  for the satisfaction  
 caitanyārpitam astv etac  
-caitanya-caritāmṛtam
+offered to Caitanya  may be  this  
+caitanya-caritāmṛtam  
+Caitanya-caritāmṛta
 
-(155) [not yet translated]
+(155) For the satisfaction of Śrīman Madana-Gopāla and Govinda-deva, may this *Caitanya-caritāmṛta* be offered to Śrī Caitanya.
 
 পরিমলবাসিতভুবনং  
 স্বরসোন্মাদিত-রসজ্ঞ-রোলম্বম্ ৷  
@@ -1675,11 +1683,15 @@ caitanya-caritāmṛtam
 খলু রসিকঃ সমীহতে হাতুম্ ॥ ১৫৬ ॥
 
 parimala-vāsita-bhuvanaṁ  
+by whose fragrance  perfumed  the world  
 sva-rasonmādita-rasajña-rolambam  
+by its own rasa  intoxicated  the rasa-knowing  bees  
 giridhara-caraṇāmbhojaṁ kaḥ  
-khalu rasikaḥ samīhate hātum
+Giridhara’s  lotus feet  who  
+khalu rasikaḥ samīhate hātum  
+indeed  rasika  seeks  to abandon
 
-(156) [not yet translated]
+(156) The lotus feet of Giridhara fill the world with their fragrance, and with their own *rasa* they intoxicate the bees who know *rasa*. What *rasika* would ever seek to abandon them?[^156-1]
 
 মৎপ্রাণসর্ব্বস্বপদাব্জরেণো-  
 র্মদীশ্বরী-শ্রীযুতরাধিকায়াঃ ৷  
@@ -1687,24 +1699,44 @@ khalu rasikaḥ samīhate hātum
 শ্রীশ্রীল-গোবিন্দমহং প্রপদ্যে ॥ ১৫৭ ॥
 
 mat-prāṇa-sarvasva-padābja-reṇor-  
+of my life  the all-in-all  of the lotus feet  of the dust  
 mad-īśvarī-śrī-yuta-rādhikāyāḥ  
+of my Mistress  Śrī  Rādhikā  
 prāṇoru-sarvasva-padābja-reṇuṁ  
-śrī-śrīla-govindam ahaṁ prapadye
+more than life  the all-in-all  lotus feet  whose dust  
+śrī-śrīla-govindam ahaṁ prapadye  
+Śrī Śrīla Govinda  I  surrender to
 
-(157) [not yet translated]
+(157) By the power of the dust of the lotus feet of my Mistress, Śrī Rādhikā — dust that is the whole wealth of my life — I surrender to Śrī Śrīla Govinda, the dust of whose lotus feet is dearer to Her than life and is Her all in all.[^157-1]
 
 শাকে সিন্ধ্বগ্নিবাণেন্দৌ জ্যৈষ্ঠে বৃন্দাবনান্তরে ৷  
 সূর্য্যাহেঽসিতপঞ্চম্যাং গ্রন্থোঽয়ং পূর্ণতাং গতঃ ॥ ১৫৮ ॥
 
 śāke sindhv-agni-vāṇendau  
+in the Śaka year  ocean-fire-arrow-moon (1537)  
 jyaiṣṭhe vṛndāvanāntare  
+in Jyaiṣṭha  in Vṛndāvana  
 sūryāhe ’sita-pañcamyāṁ  
-grantho ’yaṁ pūrṇatāṁ gataḥ
+on Sunday  on the fifth day of the dark fortnight  
+grantho ’yaṁ pūrṇatāṁ gataḥ  
+book  this  completion  reached
 
-(158) [not yet translated]
+(158) In the Śaka year 1537, in the month of Jyaiṣṭha, in Vṛndāvana, on a Sunday, the fifth day of the dark fortnight, this book was completed.[^158-1]
 
 ---
 
 [^29-1]: *Sundarīṁ kavitām*, “beautiful poetry”: so the *Amṛta-pravāha-bhāṣya* and the *Anubhāṣya* take the words (in the *Anubhāṣya*, eloquence and learning in the service of religiosity, wealth and pleasure); other translations take *sundarī* as “a beautiful woman.”
 
 [^62-1]: The Gauḍīya Maṭha edition reads *vrajeśvara-śuddha-prema*, “pure love for the Lord of Vraja,” which is translated here; it notes the reading of another manuscript, *vrajera viśuddha prema*, “the pure love of Vraja.”
+
+[^87-1]: So in the Gauḍīya Maṭha edition: *karilā varṇane*, “described”. Other manuscripts read *karibena varṇane*, “will describe” (cited in the *Anubhāṣya* as a variant). According to the *Anubhāṣya* (on verse 82), the later pure *ācāryas* who wrote of Gaura’s pastimes, following the “original Vyāsa” Vṛndāvana dāsa Ṭhākura, are also called “Vyāsa”.
+
+[^147-1]: So in the Gauḍīya Maṭha edition: *tāra vāṇī*, “his speech” — the author speaks of himself in the third person, as in the closing lines of the chapters. Other manuscripts read *mora vāṇī*, “my speech” (cited in the *Anubhāṣya* as a variant). *Upādhyāyī*, “teacher”: according to the *Anubhāṣya*, here a teacher of the arts.
+
+[^154-1]: The *Amṛta-pravāha-bhāṣya* takes *so ’yam* (“this one”) as the author himself: at the spotless lotus feet of such a hearer the author becomes a bee and relishes this *rasa*.
+
+[^156-1]: So in the Gauḍīya Maṭha edition and the *Anubhāṣya*: *rasajña-rolambam*, “bees who know *rasa*” — according to the *Anubhāṣya*, the *rasika* devotees intoxicated by the *rasa* of conjugal love (*śṛṅgāra*). Other manuscripts read *rasikālambam*, “the shelter of the *rasikas*”. According to the *Anubhāṣya* (on verse 158), verses 156–158 are not found in many manuscripts.
+
+[^157-1]: Translated according to the *Amṛta-pravāha-bhāṣya*: “By the power of the dust of the lotus feet of her who is the all-in-all of my life, and meditating on the dust of the lotus feet that is dearer than life and the all-in-all to my Mistress Śrīmatī Rādhikā, I surrender to Śrī Śrī Govinda-deva.”
+
+[^158-1]: *Sindhu* (ocean) = 7, *agni* (fire) = 3, *bāṇa* (arrow) = 5, *indu* (moon) = 1; according to the *Anubhāṣya*, the digits are read from right to left: Śaka 1537 (A.D. 1615).
