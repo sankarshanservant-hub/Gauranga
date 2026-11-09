@@ -186,7 +186,7 @@ a tarjā  riddle  the Ācārya  speaks  in hints
 prabhu-mātra bujhena, keha bujhite nā pāre  
 the Lord  only  understands  anyone  understand  not  can
 
-(18) The Ācārya spoke in riddles and veiled hints (*tarjā-prahelī*), which only the Lord could understand; no one else could.
+(18) The Ācārya spoke in riddles and veiled hints (*tarjā-prahelī*), which only the Lord could understand; no one else could.[^5]
 
 প্রভুরে কহিহ আমার কোটি নমস্কার ৷  
 এই নিবেদন তাঁর চরণে আমার ॥ ১৯ ॥
@@ -206,7 +206,7 @@ to the madman  tell  people  have become  mad
 bāulake kahiha, — hāṭe nā vikāya cāula  
 to the madman  tell  in the market  not  sells  rice
 
-(20) Tell the madman (*bāul*) that the people have gone mad. Tell the madman that rice no longer sells in the market.[^5]
+(20) Tell the madman (*bāul*) that the people have gone mad. Tell the madman that rice no longer sells in the market.[^6]
 
 বাউলকে কহিহ, — কাযে নাহিক আউল ৷  
 বাউলকে কহিহ, — ইহা কহিয়াছে বাউল ॥ ২১ ॥
@@ -216,7 +216,7 @@ to the madman  tell  in work  is not  the āul
 bāulake kahiha, — ihā kahiyāche bāula  
 to the madman  tell  this  has said  a madman
 
-(21) Tell the madman that the *āul* — the one mad with love — is no longer engaged in worldly affairs. Tell the madman that a madman has said this.”[^6]
+(21) Tell the madman that the *āul* — the one mad with love — is no longer engaged in worldly affairs. Tell the madman that a madman has said this.”[^7]
 
 এত শুনি’ জগদানন্দ হাসিতে লাগিলা ৷  
 নীলাচলে আসি’ তবে প্রভুরে কহিলা ॥ ২২ ॥
@@ -246,7 +246,7 @@ learning (of this)  Svarūpa  Gosāñi  the Lord  asked
 ‘ei tarajāra artha bujhite nārila’  
 this  of the tarjā  the meaning  to understand  I could not
 
-(24) Learning of this, Svarūpa Gosāñi asked the Lord, “I could not understand the meaning of this *tarjā*.”[^7]
+(24) Learning of this, Svarūpa Gosāñi asked the Lord, “I could not understand the meaning of this *tarjā*.”[^8]
 
 প্রভু কহেন, — ‘আচার্য্য হয় পূজক প্রবল ৷  
 আগম-শাস্ত্রের বিধি-বিধানে কুশল ॥ ২৫ ॥
@@ -256,7 +256,7 @@ the Lord  says  the Ācārya  is  a worshipper  great
 āgama-śāstrera vidhi-vidhāne kuśala  
 of the Āgama  scriptures  in the rules  and regulations  expert
 
-(25) The Lord said, “The Ācārya is a great worshipper, expert in the rules and regulations of the Āgama scriptures.[^8]
+(25) The Lord said, “The Ācārya is a great worshipper, expert in the rules and regulations of the Āgama scriptures.[^9]
 
 উপাসনা লাগি’ দেবের করেন আবাহন ৷  
 পূজা লাগি’ কত কাল করেন নিরোধন ॥ ২৬ ॥
@@ -266,7 +266,7 @@ for worship  the Deity  makes  invocation
 pūjā lāgi’ kata kāla karena nirodhana  
 for worship  some  time  makes  keeping (Him) present
 
-(26) For worship he invokes the Deity, and keeps Him present as long as the *pūjā* lasts.[^9]
+(26) For worship he invokes the Deity, and keeps Him present as long as the *pūjā* lasts.[^10]
 
 পূজা নির্ব্বাহণ হৈলে পাছে করেন বিসর্জ্জন ৷  
 তরজার না জানি অর্থ কিবা তাঁর মন ॥ ২৭ ॥
@@ -362,7 +362,7 @@ where  in the rāsa  with rapture  dancing  where  O friend  of life  the saving
 nidhir mama suhṛt-tamaḥ kva bata hanta hā dhig vidhim  
 treasure  My  dearest friend  where  alas  alas  ah  fie on  the Creator
 
-(35) “O friend, where is the moon of Nanda’s line? Where is He who is adorned with a peacock feather? Where is He whose flute sounds so deep, whose lustre is like the sapphire’s? Where is He who dances, enraptured by the taste of the *rāsa*? Where is He — the medicine that saves My life, My treasure, My dearest friend? Alas, alas! Fie on the Creator!” (Lalita-mādhava, 3.25)[^10]
+(35) “O friend, where is the moon of Nanda’s line? Where is He who is adorned with a peacock feather? Where is He whose flute sounds so deep, whose lustre is like the sapphire’s? Where is He who dances, enraptured by the taste of the *rāsa*? Where is He — the medicine that saves My life, My treasure, My dearest friend? Alas, alas! Fie on the Creator!” (Lalita-mādhava, 3.25)[^11]
 
 ব্রজেন্দ্রকুল — দুগ্ধসিন্ধু, কৃষ্ণ — তাহে পূর্ণ ইন্দু,  
 জন্মি’ কৈলা জগৎ উজোর ৷  
@@ -382,7 +382,7 @@ constantly  drinking  live
 vraja-janera nayana-cakora  
 of Vraja’s  people  the eyes  cakora birds
 
-(36) “The line of Vraja’s king is an ocean of milk, and Kṛṣṇa is the full moon within it: by His birth He has lit up the world. The eyes of the people of Vraja are *cakora* birds: they drink the nectar of His lustre constantly, and only by drinking it do they live.[^11]
+(36) “The line of Vraja’s king is an ocean of milk, and Kṛṣṇa is the full moon within it: by His birth He has lit up the world. The eyes of the people of Vraja are *cakora* birds: they drink the nectar of His lustre constantly, and only by drinking it do they live.[^12]
 
 সখি হে, কোথা কৃষ্ণ, করাহ দরশন ৷  
 ক্ষণেকে যাহার মুখ, না দেখিলে ফাটে বুক,  
@@ -397,7 +397,7 @@ not  seeing  breaks  the heart
 śīghra dekhāha, nā rahe jīvana  
 quickly  show  not  remains  life
 
-(37) O friend, where is Kṛṣṇa? Let Me see Him! If I do not see His face even for a moment, My heart breaks. Show Him to Me quickly, or My life will not remain.[^12]
+(37) O friend, where is Kṛṣṇa? Let Me see Him! If I do not see His face even for a moment, My heart breaks. Show Him to Me quickly, or My life will not remain.[^13]
 
 এই ব্রজের রমণী, কামার্কতপ্ত-কুমুদিনী,  
 নিজ-করামৃত দিয়া দান ৷  
@@ -417,7 +417,7 @@ where  My  moon  that
 dekhāha, sakhi, rākha mora prāṇa  
 show  O friend  save  My  life
 
-(38) The women of Vraja are night-blooming lotuses scorched by the sun of loving desire (*kāma*). Where is that moon of Mine who makes them blossom with the gift of the nectar of His rays — His hands? O friend, show Him to Me and save My life![^13]
+(38) The women of Vraja are night-blooming lotuses scorched by the sun of loving desire (*kāma*). Where is that moon of Mine who makes them blossom with the gift of the nectar of His rays — His hands? O friend, show Him to Me and save My life![^14]
 
 কাঁহা সে চূড়ার ঠাম, শিখিপিঞ্ছের উড়ান,  
 নব মেঘে যেন ইন্দ্রধনু ৷  
@@ -457,7 +457,7 @@ with effort  not  comes out
 tanu nahe, — seyā-kulera kām̐ṭā  
 a body  is not  of the seyākul  a thorn
 
-(40) Once Kṛṣṇa’s body has met someone’s eyes, it lives on in that heart for ever, clinging like the sap of the mango tree. It enters a woman’s mind and will not come out, however hard she tries. It is not a body — it is a thorn of the *seyākul* bush![^14]
+(40) Once Kṛṣṇa’s body has met someone’s eyes, it lives on in that heart for ever, clinging like the sap of the mango tree. It enters a woman’s mind and will not come out, however hard she tries. It is not a body — it is a thorn of the *seyākul* bush![^15]
 
 জিনিয়া তমালদ্যুতি, ইন্দ্রনীল-সম কান্তি,  
 সে কান্তিতে জগৎ মাতায় ৷  
@@ -477,7 +477,7 @@ with it  of the moon  the light  mixing
 jāni’ vidhi niramilā tāya  
 knowing  the Creator  fashioned  Him
 
-(41) His lustre, like a sapphire’s, outshines the dark *tamāla* tree, and with it He maddens the world. With all his skill the Creator fashioned Him: he strained out the very essence of the *rasa* of love and mixed it with moonlight.[^15]
+(41) His lustre, like a sapphire’s, outshines the dark *tamāla* tree, and with it He maddens the world. With all his skill the Creator fashioned Him: he strained out the very essence of the *rasa* of love and mixed it with moonlight.[^16]
 
 কাঁহা সে মুরলীধ্বনি, নবাম্বুদ-গর্জ্জিত জিনি’,  
 জগৎ আকর্ষে শ্রবণে যাহার ৷  
@@ -517,7 +517,7 @@ fie  on this  life
 vidhi kare eta viḍambana!  
 the Creator  makes  such  mockery
 
-(43) He is My moon, the treasury of all arts, the great medicine that saves My life. O friend, He is My dearest friend. Yet My body lives on without Him — fie on such a life! What a mockery the Creator has made of Me![^16]
+(43) He is My moon, the treasury of all arts, the great medicine that saves My life. O friend, He is My dearest friend. Yet My body lives on without Him — fie on such a life! What a mockery the Creator has made of Me![^17]
 
 ‘যে-জন জীতে নাহি চায়, তারে কেনে জীয়ায়’,  
 বিধিপ্রতি উঠে ক্রোধ-শোক ৷  
@@ -553,7 +553,7 @@ them  and  unfulfilled  you separate  pointlessly
 viceṣṭitaṁ te ’rbhaka-ceṣṭitaṁ yathā  
 the doings  your  of a child  the doings  like
 
-(45) “O Creator, there is no mercy in you anywhere! You join embodied beings in friendship and love, and then, before their desires are fulfilled, you pointlessly separate them. Your doings are like the play of a child.” (Śrīmad-Bhāgavatam, 10.39.19)[^17]
+(45) “O Creator, there is no mercy in you anywhere! You join embodied beings in friendship and love, and then, before their desires are fulfilled, you pointlessly separate them. Your doings are like the play of a child.” (Śrīmad-Bhāgavatam, 10.39.19)[^18]
 
 না জানিস্ প্রেম-মর্ম্ম, ব্যর্থ করিস্ পরিশ্রম,  
 তোর চেষ্টা — বালক-সমান ৷  
@@ -573,7 +573,7 @@ then  to you  a lesson  I will give
 emana yena nā karis vidhāna  
 such  that  not  you make  arrangement
 
-(46) “You do not know the heart of love, and you labour in vain. Your doings are like a child’s. If I can only get hold of you, I will teach you such a lesson that you will never arrange such things again![^18]
+(46) “You do not know the heart of love, and you labour in vain. Your doings are like a child’s. If I can only get hold of you, I will teach you such a lesson that you will never arrange such things again![^19]
 
 অরে বিধি, তুই বড়ই নিষ্ঠুর ৷  
 অন্যোঽন্য দুর্লভ জন, প্রেমে করাঞা সম্মিলন,  
@@ -588,7 +588,7 @@ in love  making  union
 ‘akṛtārthān’ kene karis dūra?  
 unfulfilled  why  you make  far apart
 
-(47) O Creator, you are very cruel! You bring together in love those who are so hard for each other to win. Why then do you part them before their desires are fulfilled?[^19]
+(47) O Creator, you are very cruel! You bring together in love those who are so hard for each other to win. Why then do you part them before their desires are fulfilled?[^20]
 
 অরে বিধি অকরুণ, দেখাঞা কৃষ্ণানন,  
 নেত্র-মন লোভাইলা মোর ৷  
@@ -608,7 +608,7 @@ snatching  you took  to another  place
 pāpa kaili ‘datta-apahāra’  
 sin  you committed  of the given  taking back
 
-(48) Merciless Creator! You showed Me Kṛṣṇa’s face and stirred a thirst in My eyes and mind. But I had drunk of it for only a moment when you snatched it away and carried it off. You have committed the sin of taking back what you gave.[^20]
+(48) Merciless Creator! You showed Me Kṛṣṇa’s face and stirred a thirst in My eyes and mind. But I had drunk of it for only a moment when you snatched it away and carried it off. You have committed the sin of taking back what you gave.[^21]
 
 ‘অক্রূর করে তোর দোষ, আমায় কেনে কর রোষ’,  
 ইহা যদি কহ ‘দুরাচার’ ৷  
@@ -668,7 +668,7 @@ turning back  not  looks  Hari
 kṣaṇa-mātre bhāṅgila praṇaya  
 in a moment  broke  the love
 
-(51) He whom I serve, having renounced everything, kills Me with His own hand. Kṛṣṇa has no fear of killing a woman. I am dying for Him, yet Hari will not even turn back to look at Me. In a moment He has broken our love.[^21]
+(51) He whom I serve, having renounced everything, kills Me with His own hand. Kṛṣṇa has no fear of killing a woman. I am dying for Him, yet Hari will not even turn back to look at Me. In a moment He has broken our love.[^22]
 
 কৃষ্ণে কেনে করি রোষ, আপন দুর্দ্দৈব-দোষ,  
 পাকিল মোর এই পাপফল ৷  
@@ -728,7 +728,7 @@ the Lord’s  turned  mind
 prabhura kichu sthira haila mana  
 the Lord’s  somewhat  calm  became  mind
 
-(54) Then Svarūpa and Rāmānanda Rāya tried in various ways to console Mahāprabhu. They sang auspicious songs to turn His mind, and the Lord grew somewhat calmer.[^22]
+(54) Then Svarūpa and Rāmānanda Rāya tried in various ways to console Mahāprabhu. They sang auspicious songs to turn His mind, and the Lord grew somewhat calmer.[^23]
 
 এইমত প্রলাপিতে অর্দ্ধরাত্রি গেল ৷  
 গম্ভীরাতে স্বরূপ-গোসাঞি প্রভুরে শোয়াইল ॥ ৫৫ ॥
@@ -760,38 +760,40 @@ Svarūpa  Govinda  lay down  of the Gambhīrā  at the door
 
 [^4]: Heading in the edition: Bhagavān is subject to transcendental parental love (*vātsalya-prema*). *Anubhāṣya*: the mother gave this body, reared and nourished it; to devote it to the service of Kṛṣṇa is itself the purest and best service to one’s mother.
 
-[^5]: *Amṛta-pravāha-bhāṣya*: the people have gone mad with love (prema), and in the market of love there is no longer any place to sell rice — that is, love; the *āul*, the *bāul* mad with love, is no longer engaged in worldly affairs; and Advaita, himself mad with love, has said this. The meaning: the purpose for which the Lord appeared has been fulfilled; now let it be as the Lord wishes. Heading in the edition: a hint that the purpose of Mahāprabhu’s descent has been fulfilled and that it is time to conclude His pastimes. *Anubhāṣya*: there is a variant reading, “the people have become *āul*”; *āul* means “overcome [by feeling]”, that is, full of love, and also “possessing nothing”, “afflicted”.
+[^5]: Heading in the edition: through the Paṇḍita, Śrī Advaita Prabhu sends Mahāprabhu a riddle (*prahelikā*).
 
-[^6]: *Anubhāṣya*: some explain *kāye nāhika āula* thus: in the work of preaching love there is no longer any disorder.
+[^6]: *Amṛta-pravāha-bhāṣya*: the people have gone mad with love (prema), and in the market of love there is no longer any place to sell rice — that is, love; the *āul*, the *bāul* mad with love, is no longer engaged in worldly affairs; and Advaita, himself mad with love, has said this. The meaning: the purpose for which the Lord appeared has been fulfilled; now let it be as the Lord wishes. Heading in the edition: a hint that the purpose of Mahāprabhu’s descent has been fulfilled and that it is time to conclude His pastimes. *Anubhāṣya*: there is a variant reading, “the people have become *āul*”; *āul* means “overcome [by feeling]”, that is, full of love, and also “possessing nothing”, “afflicted”.
 
-[^7]: So in the Gauḍīya Maṭha edition: *jāniyā* (“learning [of this]”). Other editions read *jāniyāo*, “though he knew [the meaning]”: “Though Svarūpa Gosāñi knew it, he still asked.”
+[^7]: *Anubhāṣya*: some explain *kāye nāhika āula* thus: in the work of preaching love there is no longer any disorder.
 
-[^8]: Heading in the edition: the Lord explains the riddle by a hint.
+[^8]: So in the Gauḍīya Maṭha edition: *jāniyā* (“learning [of this]”). Other editions read *jāniyāo*, “though he knew [the meaning]”: “Though Svarūpa Gosāñi knew it, he still asked.”
 
-[^9]: *Amṛta-pravāha-bhāṣya*: *āvāhana* — inviting the Deity before worship; *nirodhana* — keeping the Deity present as long as the worship lasts; *visarjana* (27) — when the worship is over, the Deity is sent to another place.
+[^9]: Heading in the edition: the Lord explains the riddle by a hint.
 
-[^10]: Heading in the edition: Śrī Rādhā, in separation from Kṛṣṇa, asks Viśākhā where Kṛṣṇa is to be found (*citra-jalpa*).
+[^10]: *Amṛta-pravāha-bhāṣya*: *āvāhana* — inviting the Deity before worship; *nirodhana* — keeping the Deity present as long as the worship lasts; *visarjana* (27) — when the worship is over, the Deity is sent to another place.
 
-[^11]: Heading in the edition: the meaning of the verse — Śrī Rādhā, tormented by separation from Kṛṣṇa, describes the qualities of Kṛṣṇa, the life of the people of Vraja; to any melody (*yathā-rāga*).
+[^11]: Heading in the edition: Śrī Rādhā, in separation from Kṛṣṇa, asks Viśākhā where Kṛṣṇa is to be found (*citra-jalpa*).
 
-[^12]: In the edition this verse is marked as the refrain of the song (ধ্রু).
+[^12]: Heading in the edition: the meaning of the verse — Śrī Rādhā, tormented by separation from Kṛṣṇa, describes the qualities of Kṛṣṇa, the life of the people of Vraja; to any melody (*yathā-rāga*).
 
-[^13]: *Anubhāṣya*: the gopīs’ loving desire (*kāma*) is the desire to meet Kṛṣṇa; their hearts, scorched by it, are like night-blooming lotuses under a burning sun, and Kṛṣṇacandra, the moon, gives them the nectar of His own rays — or hands (*kara*).
+[^13]: In the edition this verse is marked as the refrain of the song (ধ্রু).
 
-[^14]: *Amṛta-pravāha-bhāṣya*: the nature of the *seyākul* thorn is that once it catches, it hardly lets go. *Anubhāṣya*: mango sap, once it sticks, is hard to remove.
+[^14]: *Anubhāṣya*: the gopīs’ loving desire (*kāma*) is the desire to meet Kṛṣṇa; their hearts, scorched by it, are like night-blooming lotuses under a burning sun, and Kṛṣṇacandra, the moon, gives them the nectar of His own rays — or hands (*kara*).
 
-[^15]: So in the edition: «জানি’» — a participle, “knowing”: the Creator, knowing his art, fashioned Him. Without the apostrophe («জানি», “I know”) the line would read: “surely the Creator fashioned Him”. *Amṛta-pravāha-bhāṣya*: *chāni’* — straining; *sāni’* — mixing.
+[^15]: *Amṛta-pravāha-bhāṣya*: the nature of the *seyākul* thorn is that once it catches, it hardly lets go. *Anubhāṣya*: mango sap, once it sticks, is hard to remove.
 
-[^16]: *Anubhāṣya*: *kalā-nidhi* — the abode of the sixty-four arts, and in the other sense the moon, full in all its sixteen digits (*kalās*); *viḍambana* — deception.
+[^16]: So in the edition: «জানি’» — a participle, “knowing”: the Creator, knowing his art, fashioned Him. Without the apostrophe («জানি», “I know”) the line would read: “surely the Creator fashioned Him”. *Amṛta-pravāha-bhāṣya*: *chāni’* — straining; *sāni’* — mixing.
 
-[^17]: *Anubhāṣya*: the lament of the gopīs of Vraja when they heard that Akrūra had come to Vraja to take Rāma and Kṛṣṇa to Mathurā.
+[^17]: *Anubhāṣya*: *kalā-nidhi* — the abode of the sixty-four arts, and in the other sense the moon, full in all its sixteen digits (*kalās*); *viḍambana* — deception.
 
-[^18]: *Anubhāṣya*: *pariśrama* — the labour of creation and so on.
+[^18]: *Anubhāṣya*: the lament of the gopīs of Vraja when they heard that Akrūra had come to Vraja to take Rāma and Kṛṣṇa to Mathurā.
 
-[^19]: In the edition this verse is marked as the refrain of the song (ধ্রু).
+[^19]: *Anubhāṣya*: *pariśrama* — the labour of creation and so on.
 
-[^20]: *Anubhāṣya*: *datta-apahāra* — to take back what one has given; it is one of the sins that require atonement (*prāyaścitta*).
+[^20]: In the edition this verse is marked as the refrain of the song (ধ্রু).
 
-[^21]: Heading in the edition: reproaches to Kṛṣṇa in loving anger (*praṇaya-roṣa*).
+[^21]: *Anubhāṣya*: *datta-apahāra* — to take back what one has given; it is one of the sins that require atonement (*prāyaścitta*).
 
-[^22]: Heading in the edition: Svarūpa consoles the Lord with songs in keeping with His mood.
+[^22]: Heading in the edition: reproaches to Kṛṣṇa in loving anger (*praṇaya-roṣa*).
+
+[^23]: Heading in the edition: Svarūpa consoles the Lord with songs in keeping with His mood.
