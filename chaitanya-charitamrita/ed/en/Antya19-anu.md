@@ -426,6 +426,6 @@ Having finished their water pastimes, the queens, their hearts absorbed in thoug
 
 [^108-1]: The edition has হমান্তমর্থম্ (*hamāntam artham*), a misprint for মহান্তমর্থম্ (*mahāntam artham*, “something great”); the Bengali paraphrase likewise has *mahad-artha*.
 
-[^91-1]: The verse translation reads differently: “…attract all women.”
+[^91-1]: The verse translation is broader: “…He draws women to Him.”
 
 [^98-1]: The verse translation reads differently: “…entices customers, the women of the whole world.”
