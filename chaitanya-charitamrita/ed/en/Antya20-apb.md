@@ -22,7 +22,7 @@ This is the nature of *prema*: one who has entered into a true relationship with
 
 ## 29
 
-O Jagadīśa, I do not desire wealth, followers, or beautiful poetry[^29-1]. (In my heart I desire only this:) birth after birth may I have causeless devotion to You.
+O Jagadīśa, I do not desire wealth, followers, or beautiful poetry. (In my heart I desire only this:) birth after birth may I have causeless devotion to You.
 
 ## 32
 
@@ -113,8 +113,6 @@ Now I beg forgiveness for my faults.
 ---
 
 [^12-1]: The verse translation reads differently: “As the night lotus blossoms in the cool rays of the moon, so the heart begins to bloom in the nectar of this name. In the end the soul awakens to its inner treasure — a life of love for Kṛṣṇa.”
-
-[^29-1]: The verse translation reads differently: “I do not desire wealth, followers, or beautiful women.”
 
 [^47-1]: The verse translation reads differently: “Kṛṣṇa may embrace this maidservant who has fallen at His feet and call her His own” (the *Anubhāṣya* understands it the same way); the word *lampaṭa* (libertine) is rendered there as “in His willfulness.”
 
