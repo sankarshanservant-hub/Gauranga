@@ -58,3 +58,73 @@ It is said that Bhagavān Śrī Kṛṣṇa came to Vidura's house, rested both 
 
 > Subheading: One day, in the Jagannātha-vallabha garden, absorbed in *mahābhāva*, the Lord displays the ten kinds of *citra-jalpa* —
 
+## 81
+
+The Malaya breeze itself carried the fragrance of the flowers and, as a dance teacher (*naṭana-guru*), was also teaching the trees and creepers to dance.
+
+## 90
+
+> Subheading: The Lord's *citra-jalpa* —
+
+## 91
+
+> Subheading: The words of Śrī Rādhā, drawn by Kṛṣṇa's fragrance — (*Govinda-līlāmṛta* 8.6: Śrī Rādhikā's words to Viśākhā)
+
+**he sakhi**, **kuraṅga-mada-jid-vapuḥ-parimalormi-kṛṣṭāṅganaḥ** (He who, by the waves of the fragrance of His body, which conquers musk [*mṛga-mada*, *kastūrikā*], attracts [*kṛṣṭā*, *ākṛṣṭā*] the women [*aṅganā*], that is, the maidens of Vraja)[^91-1] **svakāṅga-nalināṣṭake** (in the eight lotuses of His body: His face, navel, two eyes, two hands and two feet) **śaśi-yutābja-gandha-prathaḥ** (He from whom spreads [*prathā*, *vistāra*] the fragrance of a lotus mixed with camphor) **madenduvara-candanāguru-sugandhi-carcārcitaḥ** (anointed [*arcita*, *vilepita*] with fragrant pastes of musk, camphor and white sandalwood) **madana-mohanaḥ** **me** (My) **nāsā-spṛhāṁ** **tanoti** (increases).
+
+## 92
+
+> Subheading: The meaning of the verse; a description of the power of the sweetness of the fragrance of Kṛṣṇa's body — [Any *rāga* as suits (*yathā-rāga*)]
+
+## 93
+
+> Subheading: The fragrance of Kṛṣṇa's body subdues the *gopīs* —
+
+## 94
+
+> Subheading: A description of the sweet fragrance of Kṛṣṇa's lotuslike limbs —
+
+The two eyes, the navel, the face, the two hands and the two feet — these are the eight limbs.
+
+## 95
+
+**carcā** — anointing. Variant readings: *mili’ ḍākā yena kaila curi* (“mingling, it stole like a robber”) and *kāma-devera mana kaila curi* (“it stole the mind of Kāmadeva”).
+
+## 96
+
+> Subheading: The fragrance of Kṛṣṇa's body maddens the hearts of the *gopīs* —
+
+## 97
+
+> Subheading: The hearts of the *gopīs*, longing to taste the fragrance of Kṛṣṇa's body —
+
+## 98
+
+**jagan-nārī-grāhake lobhāya** — in this world He entices the women of Vraja, the *gopīs*, as customers[^98-1].
+
+## 99
+
+> Subheading: The Lord's madness —
+
+## 100
+
+> Subheading: Through the efforts of Svarūpa and Rāya the Lord returns to external consciousness —
+
+## 101
+
+> Subheading: The Lord's devotion to His mother is shown, and His *udghūrṇā* and *citra-jalpa* in separation from Kṛṣṇa are described —
+
+## 103
+
+> Subheading: The transcendental Kṛṣṇa, beyond the senses (*adhokṣaja*), and the pastimes connected with Kṛṣṇa (*kārṣṇa-līlā*) are beyond the reach of those who follow the path of argument — those who think themselves scholars, are intoxicated with material learning and rely on knowledge gained through the senses —
+
+## 105
+
+> Subheading: (*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, Prema-bhakti-laharī 17)
+
+See Madhya 23.36.
+
+## 106
+
+> Subheading: An appeal to establish, with transcendental faith, belief in the Lord's pastimes beyond the senses —
+
