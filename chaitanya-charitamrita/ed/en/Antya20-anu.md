@@ -48,7 +48,7 @@ See Ādi 3.51.
 
 > (The first verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 10)
 
-**ceto-darpaṇa-mārjanam** (that which cleanses the mind — a mirror — that is, removes its dirt), **bhava-mahā-dāvāgni-nirvāpaṇam** (that which extinguishes the great forest fire of *bhava*, that is, *saṁsāra*), **śreyaḥ-kairava-candrikā-vitaraṇam** (that which spreads moonlight for the white lilies [*kumudas*] — the highest goods [*śreyas*]), **vidyā-vadhū-jīvanam** (that which sustains the life of the bride, that is, the wife — Knowledge [*vidyā*]), **ānandāmbudhi-vardhanam** (that which swells the ocean of bliss — *prema*), **prati-padam** (at every moment) **pūrṇāmṛtāsvādanam** (that which gives a taste of the full nectar), **sarvātma-snapanam** (that which bathes all souls, or the whole self in every way), **param** (alone, without a second) **śrī-kṛṣṇa-saṅkīrtanam** **vijayate** (stands supreme above all)[^12-1].
+**ceto-darpaṇa-mārjanam** (that which cleanses the mind — a mirror — that is, removes its dirt), **bhava-mahā-dāvāgni-nirvāpaṇam** (that which extinguishes the great forest fire of *bhava*, that is, *saṁsāra*), **śreyaḥ-kairava-candrikā-vitaraṇam** (that which spreads moonlight for the white lilies [*kumudas*] — the highest goods [*śreyas*]), **vidyā-vadhū-jīvanam** (that which sustains the life of the bride, that is, the wife — Knowledge [*vidyā*]), **ānandāmbudhi-vardhanam** (that which swells the ocean of bliss — *prema*), **prati-padam** (at every moment) **pūrṇāmṛtāsvādanam** (that which gives a taste of the full nectar), **sarvātma-snapanam** (that which bathes all souls, or the whole self in every way), **param** (alone, without a second) **śrī-kṛṣṇa-saṅkīrtanam** **vijayate** (stands supreme above all).
 
 ## 13
 
@@ -441,8 +441,6 @@ and attain love for the Divine Couple. (8)
 *The “Anubhāṣya” on the book “Śrī Caitanya-caritāmṛta” is complete.*
 
 ---
-
-[^12-1]: The verse translation reads differently: “As the night lotus blossoms in the cool rays of the moon, so the heart begins to bloom in the nectar of this name. In the end the soul awakens to its inner treasure — a life of love for Kṛṣṇa.”
 
 [^97-1]: In the edition this comment is numbered ১৪৫ (145), but it stands between the comments on verses 87 and 147, quotes the words of verse 97 (“Śrī Raghunātha dāsa is *śrī-guru*”), and itself refers to “verse 145 below”; checked against the scan — a misprint for ৯৭ (97).
 

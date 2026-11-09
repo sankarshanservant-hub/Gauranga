@@ -10,7 +10,7 @@ Only fortunate people relish the lamentations (*vilāpa*) of Gauracandra, filled
 
 ## 12
 
-Śrī Kṛṣṇa-saṅkīrtana cleanses the mirror of the mind, extinguishes the great forest fire of worldly existence (*bhava*), and spreads moonlight for the white lilies (*kairava*) that are the welfare of the *jīvas*. It is the life of the bride Knowledge (*vidyā*); it swells the ocean of bliss and at every step gives a taste of the full nectar; it bathes the true self (*svarūpa*) of everyone in coolness[^12-1]. May Śrī Kṛṣṇa-saṅkīrtana be especially victorious!
+Śrī Kṛṣṇa-saṅkīrtana cleanses the mirror of the mind, extinguishes the great forest fire of worldly existence (*bhava*), and spreads moonlight for the white lilies (*kairava*) that are the welfare of the *jīvas*. It is the life of the bride Knowledge (*vidyā*); it swells the ocean of bliss and at every step gives a taste of the full nectar; it bathes the true self (*svarūpa*) of everyone in coolness. May Śrī Kṛṣṇa-saṅkīrtana be especially victorious!
 
 ## 16
 
@@ -58,7 +58,7 @@ I am as powerless as a wooden doll, and to suppose that I have written this book
 
 ## 154
 
-Whoever relishes with faith this nectar-like account of the life of Bhagavān Śrī Caitanyadeva, which bestows good fortune and destroys all that is inauspicious — at his pure lotus feet this author becomes a bee and relishes in the highest degree this *rasa*, full of the intoxicating honey of *prema*.[^154-1]
+Whoever relishes with faith this nectar-like account of the life of Bhagavān Śrī Caitanyadeva, which bestows good fortune and destroys all that is inauspicious — at his pure lotus feet this author becomes a bee and relishes in the highest degree this *rasa*, full of the intoxicating honey of *prema*.
 
 ## 155
 
@@ -112,12 +112,8 @@ Now I beg forgiveness for my faults.
 
 ---
 
-[^12-1]: The verse translation reads differently: “As the night lotus blossoms in the cool rays of the moon, so the heart begins to bloom in the nectar of this name. In the end the soul awakens to its inner treasure — a life of love for Kṛṣṇa.”
-
-[^47-1]: The verse translation reads differently: “Kṛṣṇa may embrace this maidservant who has fallen at His feet and call her His own” (the *Anubhāṣya* understands it the same way); the word *lampaṭa* (libertine) is rendered there as “in His willfulness.”
+[^47-1]: The verse translation reads differently: “Let Him embrace Me … and make Me His own” (the *Anubhāṣya* understands it the same way).
 
 [^90-1]: *Ṭunṭunī* is the Bengali name of the tiny tailorbird.
-
-[^154-1]: The verse translation reads differently: “Whoever with faith relishes this nectarean account… becomes a bee at His spotless lotus feet…”
 
 [^158-1]: The 410th year of the Gaura era (Gaurābda) is 1896 CE; Meṣa is a solar month (April–May).
