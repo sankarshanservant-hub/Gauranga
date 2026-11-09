@@ -460,4 +460,4 @@ and attain love for the Divine Couple. (8)
 
 [^158-2]: Dayita-dāsiyā is a homely diminutive of the name Dayita dāsa (“servant of the Beloved”), Bhaktisiddhānta's own signature (compare the opening of the *Anubhāṣya* on Ādi 1: “the servant of the Beloved of Śrī Vārṣabhānavī”).
 
-[^158-3]: The compound *gadādhara-mitra-vara* allows two readings: “Gadādhara's best friend” (then two persons are named, he and Svarūpa Dāmodara) or “Gadādhara, the best of friends.” The first is adopted: the comma between the names and “these two” in the next verse require two persons. For decision.
+[^158-3]: *Gadādhara-mitra-vara* — literally “Gadādhara’s best friend”; the reading “Gadādhara, the best of friends” is also possible. The comma between the names and “these two” in the next stanza point to two persons.
