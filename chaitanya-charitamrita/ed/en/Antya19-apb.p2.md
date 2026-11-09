@@ -12,7 +12,7 @@ In separation from Vraja, which was as dear to Him as countless lives, the incoh
 
 ## 91
 
-His body conquers musk, and by the waves of its fragrance He draws the hearts of women. From the eight parts of His body, the eight lotuses, He spreads the fragrance of a lotus mixed with camphor. He is anointed with the scents of musk, camphor, sandalwood and *aguru*. O friend, this Madana-mohana is increasing the longing of My nostrils.
+The fragrance of His body conquers musk, and by its waves He draws the hearts of women to Himself. From the eight parts of His body, the eight lotuses, He spreads the fragrance of a lotus mixed with camphor. He is anointed with the scents of musk, camphor, sandalwood and *aguru*. O friend, this Madana-mohana is increasing the longing of My nostrils.
 
 ## 95
 
