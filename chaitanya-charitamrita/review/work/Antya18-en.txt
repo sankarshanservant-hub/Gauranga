@@ -34,7 +34,7 @@ fn: Heading in the edition: the moonlit autumn night awakens (*uddīpana*) the f
 ## 5
 w: in garden  after garden  wanders  wonders  to see
 w: of the rāsa  pastime  songs  verses  reciting  hearing
-tr: He wandered from garden to garden, delighting in their wonders, reciting and hearing songs and verses about the *rāsa* dance.
+tr: He wandered from garden to garden, delighting in their wonders, reciting and hearing songs and verses about the rāsa dance.
 
 ## 6
 w: the Lord  absorbed in love  does  singing  dancing
@@ -70,7 +70,7 @@ tr: For fear of excessive length, I have not written down all the pastimes that 
 ## 12
 w: before  as  I have shown  the direction  indicating
 w: so  know  of the transformations  of the ravings  the description
-tr: As before, I have only pointed out the direction; understand this description of His ecstatic transformations and ravings in the same way.
+tr: As before, I have only pointed the way; understand this description of His ecstatic transformations and ravings in the same way.
 
 ## 13
 w: with a thousand  mouths  if  speaks  Ananta
@@ -129,14 +129,14 @@ tr: When a mere living being describes it, he touches but a single drop of it, t
 ## 24
 w: in this way  of the rāsa  verses  all  recited
 w: at the end  of the water  pastimes  a verse  to recite  began
-tr: In this way the Lord recited all the verses about the *rāsa* dance, and at the end He began to recite a verse about the water pastimes:
+tr: In this way the Lord recited all the verses about the rāsa dance, and at the end He began to recite a verse about the water pastimes:
 
 ## 25
 w: with them  accompanied  fatigue  to remove  of bodies  by the contact
 w: crushed  garland’s  He  from the breasts  with kuṅkuma  reddened
 w: by bees like the lords of the Gandharvas  followed  entered  the water
 w: weary  with she-elephants  the king of elephants  like  having broken the dikes
-tr: “Weary, Kṛṣṇa entered the water with the gopīs to relieve His fatigue, as a tired king of elephants, having broken through the dikes, enters the water with his she-elephants: for He too had passed beyond the bounds of worldly convention. Bees followed Him, singing like the lords of the Gandharvas, drawn by His garland, crushed by the contact of their bodies and reddened with the *kuṅkuma* from their breasts.” (Śrīmad-Bhāgavatam, 10.33.22)
+tr: “Weary, Kṛṣṇa entered the water with the gopīs to relieve His fatigue, as a king of elephants who has broken through the dikes enters the water with his she-elephants; for He too had passed beyond the bounds of worldly convention. His garland, crushed by the contact of their bodies, was reddened with *kuṅkuma* from the gopīs’ breasts, and bees followed Him, singing like the lords of the Gandharvas.” (Śrīmad-Bhāgavatam, 10.33.22)
 fn: *Anubhāṣya*: “having broken the dikes” (*bhinna-setuḥ*) is said both of the king of elephants and of Kṛṣṇa — Bhagavān Himself, who passes beyond the bounds of worldly convention; the bees sing like the lords of the Gandharvas (*gandharva-pāḥ*).
 
 ## 26
@@ -184,7 +184,7 @@ tr: Meanwhile Svarūpa and the others, not seeing the Lord, cried out in alarm, 
 ## 34
 w: with the speed of the mind  went  the Lord  to see  could not
 w: the Lord  not  seeing  doubts  to make  began
-tr: The Lord had gone with the speed of the mind, and they could not see Him go. Not seeing Him, they began to wonder:
+tr: The Lord had gone with the speed of the mind, and no one saw Him go. With Him nowhere to be seen, they began to wonder:
 
 ## 35
 w: Jagannātha  to see  or  to a temple  went
@@ -328,7 +328,7 @@ fn: Heading in the edition: Svarūpa reassures the fisherman and frees him from 
 ## 62
 w: three  slaps  giving  says  the spirit  has fled
 w: fear  not  have  saying  calm  made
-tr: He gave the fisherman three slaps and said, “The spirit has fled. Do not be afraid!” — and so he calmed him.
+tr: Then he slapped the fisherman three times and calmed him, saying, “The spirit has fled. Do not be afraid!”
 
 ## 63
 w: on one side  love  on the other  fear  doubly  restless
@@ -394,7 +394,7 @@ tr: Then all of them together began loud saṅkīrtana, chanting the name of K�
 ## 75
 w: after some time  the Lord’s  ear  the sound  touched
 w: a loud cry  making  the Lord  at once  rose
-tr: After some time the sound reached the Lord’s ears, and with a loud cry He at once rose up.
+tr: After some time the sound reached His ears, and with a mighty cry He at once rose up.
 
 ## 76
 w: on rising  bones  all  fitted  in their own places
@@ -448,7 +448,7 @@ w: O  friend  see  Kṛṣṇa’s  water  pastimes’  play
 w: Kṛṣṇa  maddened  best of elephants
 w: restless  hand  lotus
 w: the gopīs  making  His own  companions
-tr: O sakhī, see the play of Kṛṣṇa’s water pastimes! Kṛṣṇa is like a maddened lord of elephants; His lotus hands are restless, and the gopīs are His companions.
+tr: O sakhī, see the play of Kṛṣṇa’s water pastimes! Like a maddened lord of elephants, His lotus hands never still, Kṛṣṇa has taken the gopīs with Him.
 fn: The line “O sakhī, see…” is marked in the edition as a refrain (*dhruva*). *Amṛta-pravāha-bhāṣya*: *kara-puṣkara* — lotus hands; according to another opinion, the tip of the trunk.
 
 ## 85
@@ -458,7 +458,7 @@ w: tumult  rain  water  streams
 w: for all  victory  defeat
 w: not  any  certainty
 w: water  battle  grew  boundless
-tr: The water play began. They splashed one another; there was a tumult, and water rained down in streams. No one could tell who was winning and who was losing, and the water battle grew boundless.
+tr: The water play began. They splashed one another; there was a tumult, and water rained down in streams. No one could tell who was winning and who was losing, and the battle in the water raged beyond all bounds.
 
 ## 86
 w: rain  steady  lightning flashes
@@ -477,7 +477,7 @@ w: after that  battle  face to face
 w: then  battle  heart to heart
 w: then  there was  word against word
 w: then  there was  battle  nail against nail
-tr: First they fought water against water, then hand against hand, after that face to face, then chest to chest; then came a battle of words, and then a battle of nails.
+tr: First they fought water against water, then hand against hand, after that face to face, then chest to chest; then came a battle of words, and last of all a battle of nails.
 fn: The *Anubhāṣya* gives a variant reading: *radā-radi* (“tooth against tooth”) for *hṛdā-hṛdi* (“chest to chest”).
 
 ## 88
@@ -675,7 +675,7 @@ w: someone  makes  betel  eating
 w: Rādhā  Kṛṣṇa  sleep  went
 w: the sakhīs  lying down  did
 w: seeing  My  happy  became  mind
-tr: Someone fanned Them, someone massaged Their feet, someone gave Them betel to chew. Rādhā and Kṛṣṇa fell asleep, and the sakhīs lay down too. My heart was happy to see it.
+tr: Some fanned Them, some massaged Their feet, some gave Them betel to chew. Rādhā and Kṛṣṇa fell asleep, and the sakhīs lay down too. My heart was happy to see it.
 
 ## 109
 w: at that time  Me  seizing
@@ -700,7 +700,7 @@ tr: “Why have you brought Me here?” Then Svarūpa Gosāñi began to speak:
 ## 112
 w: for the Yamunā  mistaking  You  into the ocean  fell
 w: of the ocean  by the waves  coming  so  far  came
-tr: “Taking the ocean for the Yamunā, You fell into it, and the waves of the ocean carried You this far!
+tr: “Taking the ocean for the Yamunā, You fell into it, and the waves carried You this far!
 
 ## 113
 w: this  fisherman  in the net  taking  You  hauled up
@@ -715,12 +715,12 @@ tr: All night long we wandered about searching for You; then we heard the fisher
 ## 115
 w: You  under the guise of a swoon  in Vṛndāvana  see  play
 w: Your  swoon  seeing  all  in the mind  feel  pain
-tr: Under the guise of a swoon You watch pastimes in Vṛndāvana, but seeing You swoon, we all suffer at heart.
+tr: You seem to have swooned, yet You are watching pastimes in Vṛndāvana. But we, seeing You unconscious, suffer with all our hearts.
 
 ## 116
 w: Kṛṣṇa’s  name  on taking  Your  half-external  came
 w: in that  which  ravings  You made  that  indeed  we heard
-tr: When we chanted the name of Kṛṣṇa, You came to half-external consciousness, and we heard the ravings You spoke in that state.”
+tr: When we chanted the name of Kṛṣṇa, You came to half-external consciousness, and we heard Your ravings.”
 
 ## 117
 w: the Lord  says  in a dream  seeing  I went  to Vṛndāvana
@@ -730,7 +730,7 @@ tr: The Lord said, “I dreamt that I had gone to Vṛndāvana, and there I see 
 ## 118
 w: water  play  having done  made  forest  meal
 w: seeing  I  ravings  made  so  it seems  to the mind
-tr: After the water pastimes He enjoyed a forest meal. It seems to Me that, seeing this, I spoke in ravings.”
+tr: After the water pastimes He enjoyed a forest meal. Seeing all this, I suppose I spoke in ravings.”
 
 ## 119
 w: then  Svarūpa  Gosāñi  Him  bath  causing

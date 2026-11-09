@@ -58,7 +58,7 @@ in garden  after garden  wanders  wonders  to see
 rāsa-līlāra gīta-śloka paḍite śunite  
 of the rāsa  pastime  songs  verses  reciting  hearing
 
-(5) He wandered from garden to garden, delighting in their wonders, reciting and hearing songs and verses about the *rāsa* dance.
+(5) He wandered from garden to garden, delighting in their wonders, reciting and hearing songs and verses about the rāsa dance.
 
 প্রভু প্রেমাবেশে করেন গান, নর্ত্তন ৷  
 কভু প্রেমাবেশে রাসলীলানুকরণ ॥ ৬ ॥
@@ -128,7 +128,7 @@ before  as  I have shown  the direction  indicating
 taiche jāniha ‘vikāra’ ‘pralāpa’-varṇana  
 so  know  of the transformations  of the ravings  the description
 
-(12) As before, I have only pointed out the direction; understand this description of His ecstatic transformations and ravings in the same way.
+(12) As before, I have only pointed the way; understand this description of His ecstatic transformations and ravings in the same way.
 
 সহস্র-বদনে যবে কহয়ে ‘অনন্ত’ ৷  
 একদিনের লীলার তবু নাহি পায় অন্ত ॥ ১৩ ॥
@@ -245,7 +245,7 @@ in this way  of the rāsa  verses  all  recited
 śeṣe jala-kelira śloka paḍite lāgilā  
 at the end  of the water  pastimes  a verse  to recite  began
 
-(24) In this way the Lord recited all the verses about the *rāsa* dance, and at the end He began to recite a verse about the water pastimes:
+(24) In this way the Lord recited all the verses about the rāsa dance, and at the end He began to recite a verse about the water pastimes:
 
 তাভির্যুতঃ শ্রমমপোহিতুমঙ্গসঙ্গ-  
 ঘৃষ্টস্রজঃ স কুচকুঙ্কুমরঞ্জিতায়াঃ ৷  
@@ -261,7 +261,7 @@ by bees like the lords of the Gandharvas  followed  entered  the water
 śrānto gajībhir ibha-rāḍ iva bhinna-setuḥ  
 weary  with she-elephants  the king of elephants  like  having broken the dikes
 
-(25) “Weary, Kṛṣṇa entered the water with the gopīs to relieve His fatigue, as a tired king of elephants, having broken through the dikes, enters the water with his she-elephants: for He too had passed beyond the bounds of worldly convention. Bees followed Him, singing like the lords of the Gandharvas, drawn by His garland, crushed by the contact of their bodies and reddened with the *kuṅkuma* from their breasts.” (Śrīmad-Bhāgavatam, 10.33.22)[^6]
+(25) “Weary, Kṛṣṇa entered the water with the gopīs to relieve His fatigue, as a king of elephants who has broken through the dikes enters the water with his she-elephants; for He too had passed beyond the bounds of worldly convention. His garland, crushed by the contact of their bodies, was reddened with *kuṅkuma* from the gopīs’ breasts, and bees followed Him, singing like the lords of the Gandharvas.” (Śrīmad-Bhāgavatam, 10.33.22)[^6]
 
 এইমত মহাপ্রভু ভ্রমিতে ভ্রমিতে ৷  
 আইটোটা হৈতে সমুদ্র দেখেন আচম্বিতে ॥ ২৬ ॥
@@ -351,7 +351,7 @@ with the speed of the mind  went  the Lord  to see  could not
 prabhure nā dekhiyā saṁśaya karite lāgilā  
 the Lord  not  seeing  doubts  to make  began
 
-(34) The Lord had gone with the speed of the mind, and they could not see Him go. Not seeing Him, they began to wonder:
+(34) The Lord had gone with the speed of the mind, and no one saw Him go. With Him nowhere to be seen, they began to wonder:
 
 ‘জগন্নাথ দেখিতে, কিবা দেবালয়ে গেলা ?  
 অন্য উদ্যানে, কিবা উন্মাদে পড়িলা ? ॥ ৩৫ ॥
@@ -628,7 +628,7 @@ three  slaps  giving  says  the spirit  has fled
 bhaya nā pāiha’ — bali’ susthira karila  
 fear  not  have  saying  calm  made
 
-(62) He gave the fisherman three slaps and said, “The spirit has fled. Do not be afraid!” — and so he calmed him.
+(62) Then he slapped the fisherman three times and calmed him, saying, “The spirit has fled. Do not be afraid!”
 
 একে প্রেম, আরে ভয় — দ্বিগুণ অস্থির ৷  
 ভয়-অংশ গেল, — সে হৈল কিছু ধীর ॥ ৬৩ ॥
@@ -758,7 +758,7 @@ after some time  the Lord’s  ear  the sound  touched
 huṅkāra kariyā prabhu tabahim̐ uṭhila  
 a loud cry  making  the Lord  at once  rose
 
-(75) After some time the sound reached the Lord’s ears, and with a loud cry He at once rose up.
+(75) After some time the sound reached His ears, and with a mighty cry He at once rose up.
 
 উঠিতেই অস্থি সব লাগিল নিজ-স্থানে ৷  
 ‘অর্দ্ধবাহ্যে’ ইতি-উতি করেন দরশনে ॥ ৭৬ ॥
@@ -863,7 +863,7 @@ restless  hand  lotus
 gopī-gaṇa kari’ nija saṅge  
 the gopīs  making  His own  companions
 
-(84) O sakhī, see the play of Kṛṣṇa’s water pastimes! Kṛṣṇa is like a maddened lord of elephants; His lotus hands are restless, and the gopīs are His companions.[^18]
+(84) O sakhī, see the play of Kṛṣṇa’s water pastimes! Like a maddened lord of elephants, His lotus hands never still, Kṛṣṇa has taken the gopīs with Him.[^18]
 
 আরম্ভিলা জলকেলি, অন্যোঽন্যে জল ফেলাফেলি,  
 হুড়াহুড়ি, বর্ষে জলধার ৷  
@@ -883,7 +883,7 @@ not  any  certainty
 jala-yuddha bāḍila apāra  
 water  battle  grew  boundless
 
-(85) The water play began. They splashed one another; there was a tumult, and water rained down in streams. No one could tell who was winning and who was losing, and the water battle grew boundless.
+(85) The water play began. They splashed one another; there was a tumult, and water rained down in streams. No one could tell who was winning and who was losing, and the battle in the water raged beyond all bounds.
 
 বর্ষে স্থির তড়িদ্গণ, সিঞ্চে শ্যাম নবঘন্,  
 ঘন বর্ষে তড়িৎ-উপরে ৷  
@@ -923,7 +923,7 @@ then  there was  word against word
 tabe haila yuddha ‘nakhānakhi’  
 then  there was  battle  nail against nail
 
-(87) First they fought water against water, then hand against hand, after that face to face, then chest to chest; then came a battle of words, and then a battle of nails.[^20]
+(87) First they fought water against water, then hand against hand, after that face to face, then chest to chest; then came a battle of words, and last of all a battle of nails.[^20]
 
 সহস্র-করে জল সেকে, সহস্র নেত্রে গোপী দেখে,  
 সহস্র-পদে নিকট গমনে ৷  
@@ -1343,7 +1343,7 @@ the sakhīs  lying down  did
 dekhi’ āmāra sukhī haila mana  
 seeing  My  happy  became  mind
 
-(108) Someone fanned Them, someone massaged Their feet, someone gave Them betel to chew. Rādhā and Kṛṣṇa fell asleep, and the sakhīs lay down too. My heart was happy to see it.
+(108) Some fanned Them, some massaged Their feet, some gave Them betel to chew. Rādhā and Kṛṣṇa fell asleep, and the sakhīs lay down too. My heart was happy to see it.
 
 হেনকালে মোরে ধরি’, মহা কোলাহল করি’,  
 তুমি-সব ইঁহা লঞা আইলা ৷  
@@ -1393,7 +1393,7 @@ for the Yamunā  mistaking  You  into the ocean  fell
 samudrera taraṅge āsi’ eta dūra āilā!  
 of the ocean  by the waves  coming  so  far  came
 
-(112) “Taking the ocean for the Yamunā, You fell into it, and the waves of the ocean carried You this far!
+(112) “Taking the ocean for the Yamunā, You fell into it, and the waves carried You this far!
 
 এই জালিয়া জালে করি’ তোমা উঠাইল ৷  
 তোমার পরশে এই প্রেমে মত্ত হইল ॥ ১১৩ ॥
@@ -1423,7 +1423,7 @@ You  under the guise of a swoon  in Vṛndāvana  see  play
 tomāra mūrcchā dekhi’ sabe mane pāya pīḍā  
 Your  swoon  seeing  all  in the mind  feel  pain
 
-(115) Under the guise of a swoon You watch pastimes in Vṛndāvana, but seeing You swoon, we all suffer at heart.
+(115) You seem to have swooned, yet You are watching pastimes in Vṛndāvana. But we, seeing You unconscious, suffer with all our hearts.
 
 কৃষ্ণনাম লইতে তোমার ‘অর্দ্ধবাহ্য’ হইল ৷  
 তাতে যে প্রলাপ কৈলা, তাহা যে শুনিল ॥ ১১৬ ॥
@@ -1433,7 +1433,7 @@ Kṛṣṇa’s  name  on taking  Your  half-external  came
 tāte ye pralāpa kailā, tāhā ye śunila  
 in that  which  ravings  You made  that  indeed  we heard
 
-(116) When we chanted the name of Kṛṣṇa, You came to half-external consciousness, and we heard the ravings You spoke in that state.”
+(116) When we chanted the name of Kṛṣṇa, You came to half-external consciousness, and we heard Your ravings.”
 
 প্রভু কহে, — স্বপ্নে দেখি’ গেলাঙ বৃন্দাবনে ৷  
 দেখি, — কৃষ্ণ রাস করেন গোপীগণ-সনে ॥ ১১৭ ॥
@@ -1453,7 +1453,7 @@ water  play  having done  made  forest  meal
 dekhi’ āmi pralāpa kailum̐, hena laya mane  
 seeing  I  ravings  made  so  it seems  to the mind
 
-(118) After the water pastimes He enjoyed a forest meal. It seems to Me that, seeing this, I spoke in ravings.”
+(118) After the water pastimes He enjoyed a forest meal. Seeing all this, I suppose I spoke in ravings.”
 
 তবে স্বরূপ-গোসাঞি, তাঁরে স্নান করাঞা ৷  
 প্রভুরে লঞা ঘর আইলা আনন্দিত হঞা ॥ ১১৯ ॥
