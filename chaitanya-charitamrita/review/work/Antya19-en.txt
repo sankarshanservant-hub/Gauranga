@@ -101,7 +101,7 @@ tr: He went to the Ācārya to take leave of him, and Ācārya Gosāñi gave him
 ## 18
 w: a tarjā  riddle  the Ācārya  speaks  in hints
 w: the Lord  only  understands  anyone  understand  not  can
-tr: The Ācārya spoke in riddles and veiled hints (*tarjā-prahelī*), which only the Lord could understand; no one else could.
+tr: The Ācārya spoke in riddles and veiled hints (*tarjā-prahelī*), which only the Lord could understand — no one else.
 fn: Heading in the edition: through the Paṇḍita, Śrī Advaita Prabhu sends Mahāprabhu a riddle (*prahelikā*).
 
 ## 19
@@ -429,7 +429,7 @@ tr: But I could not find the door, and on every side My face struck against the 
 ## 65
 w: in the state of madness  the Lord’s  steady  is not  mind
 w: whatever  He does  whatever  He says  of madness  a symptom
-tr: In the state of divine madness the Lord’s mind was never steady. Whatever He did and whatever He said was a symptom of that madness.
+tr: In His divine madness the Lord’s mind was never steady. Whatever He did and whatever He said was a symptom of that madness.
 
 ## 66
 w: Svarūpa  Gosāñi  then  anxiety  felt  in his mind
