@@ -788,7 +788,7 @@ all  night  makes  in ecstasy  of the face  rubbing
 gom̐-gom̐-śabda karena, — svarūpa śunilā takhana  
 goṅ-goṅ  sounds  makes  Svarūpa  heard  then
 
-(60) All night, in the grip of His feelings, He rubbed His face against the walls and made a low, muffled moaning — goṅ-goṅ. Svarūpa heard it.
+(60) All night, in ecstasy, He rubbed His face against the walls, moaning low and muffled — goṅ-goṅ. Svarūpa heard it.
 
 দীপ জ্বালি’ ঘরে গেলা, দেখি’ প্রভুর মুখ ৷  
 স্বরূপ, গোবিন্দ দুঁহার হৈল বড় দুঃখ ॥ ৬১ ॥
@@ -878,7 +878,7 @@ the Lord’s  feet’s pillow  calling  his  name  became
 pūrve vidure yena śrī-śuka varṇila  
 long ago  of Vidura  as  Śrī  Śuka  described
 
-(69) So he became known as “the pillow for the Lord’s feet,” just as Śrī Śuka once described Vidura:[^26]
+(69) So he became known as “the pillow for the Lord’s feet”, just as Śrī Śuka once described Vidura:[^26]
 
 ইতি ব্রুবাণং বিদুরং বিনীতং  
 সহস্রশীর্ষ্ণশ্চরণোপাধানম্ ৷  
@@ -894,7 +894,7 @@ thrilled  with hairs  in talk of Bhagavān
 praṇīyamāno munir abhyacaṣṭa  
 being urged  the sage  began to speak
 
-(70) “So spoke the humble Vidura, the pillow for the feet of the thousand-headed Lord; and the sage Maitreya, urged on by him to speak of Bhagavān, began, the hairs of his body standing on end with joy.” (Śrīmad-Bhāgavatam, 3.13.5)[^27]
+(70) “So spoke the humble Vidura, the pillow for the feet of the thousand-headed Lord; and the sage Maitreya, urged on by him to speak of Bhagavān, began to speak, the hair on his body standing on end with joy.” (Śrīmad-Bhāgavatam, 3.13.5)[^27]
 
 শঙ্কর করেন প্রভুর পাদ-সম্বাহন ৷  
 ঘুমাঞা পড়েন, তৈছে করেন শয়ন ॥ ৭১ ॥
@@ -1405,7 +1405,7 @@ faith  having  hear  this  in hearing  great joy
 khaṇḍibe ādhyātmikādi kutarkādi-duḥkha  
 will destroy  spiritual and other  of false arguments and others  sufferings
 
-(110) Hear this with faith: there is great joy in hearing it. So you will be freed from the threefold miseries and from the pains that false arguments bring.[^49]
+(110) Hear this with faith: there is great joy in hearing it. It will free you from the threefold miseries and from the pains that false arguments bring.[^49]
 
 শ্রীচৈতন্যচরিতামৃত — নিত্য নূতন ৷  
 শুনিতে শুনিতে জুড়ায় হৃদয়-শ্রবণ ॥ ১১১ ॥
