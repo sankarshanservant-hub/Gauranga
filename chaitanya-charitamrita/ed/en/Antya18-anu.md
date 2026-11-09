@@ -234,7 +234,7 @@ The lotus opens at sunrise, and so the sun is the lotus's friend; at sunrise the
 
 ## 104–105
 
-**koli** — jujube (*kul*, *badarī*); **panasa** — jackfruit (*kā̃ṭāl*); **nāraṅga** — a citrus of the orange kind (*kamalā-lebu*); **drākṣā** — grapes (*āṅgur*); **sāntārā** — a large citrus of the pomelo kind (*bātābi-lebu*) (so called in East Bengal, in the Chittagong division); **meoyā** — pistachios, almonds and other choice, delicious fruits grown in cold countries; **kharamujā** — a fruit related to the watermelon (*taramujā*) but smaller (in some regions also called *phuṭi* or *bāṅgī*); **kṣīrikā** — the *khirāi* cucumber; **tāla** — the soft flesh of the young palm fruit (*tāl-śā̃s*), or *phopal*; **keśura** — a particular grass root of the nut-grass (*muthā*) kind, also known as *kaśeru*, *kaseru* (with short or long *u*); **pānī-phala** — a particular fruit growing in the water of very old ponds and rivers overgrown with weed (*śaivāla*): the *śṛṅgāṭaka*; **mṛṇāla** — the lotus stalk, or the lotus root (?); **dāḍimba** — a fruit of the *maskaṭ* and *bedānā* kind, the pomegranate (*ḍālim*).
+**koli** — jujube (*kul*, *badarī*); **panasa** — jackfruit (*kā̃ṭāl*); **nāraṅga** — a citrus of the orange kind (*kamalā-lebu*); **drākṣā** — grapes (*āṅgur*); **sāntārā** — a large citrus of the pomelo kind (*bātābi-lebu*) (so called in East Bengal, in the Chittagong division); **meoyā** — pistachios, almonds and other choice, delicious fruits grown in cold countries; **kharamujā** — a fruit related to the watermelon (*taramujā*) but smaller (in some regions also called *phuṭi* or *bāṅgī*); **kṣīrikā** — *khirāi* (translator's note: a kind of cucumber); **tāla** — the soft flesh of the young palm fruit (*tāl-śā̃s*), or *phopal*; **keśura** — a particular grass root of the nut-grass (*muthā*) kind, also known as *kaśeru*, *kaseru* (with short or long *u*); **pānī-phala** — a particular fruit growing in the water of very old ponds and rivers overgrown with weed (*śaivāla*): the *śṛṅgāṭaka*; **mṛṇāla** — the lotus stalk, or the lotus root (?); **dāḍimba** — a fruit of the *maskaṭ* and *bedānā* kind, the pomegranate (*ḍālim*).
 
 ## 106
 
@@ -268,8 +268,8 @@ Here *gaṅgājala* and all the rest are sweet balls (*nāḍu*) and various cak
 
 [^25-1]: The verse translation differs: there the words about breaking through the barriers refer only to the king of elephants; the commentator applies them also to Kṛṣṇa.
 
-[^40-1]: Prakrit; in Sanskrit, *snehaḥ pāpa-śaṅkī* and *snehaḥ pāpam āśaṅkate*: “love fears harm.”
+[^40-1]: Prakrit; the sense is “love (affection) fears harm.” The exact Sanskrit form of these lines is not given; in commentaries on the drama the thought appears as the proverb *atisnehaḥ pāpa-śaṅkī*.
 
-[^87-1]: Apparently in place of *vādā-vādi* (“a battle of words”); *rada* means “tooth.”
+[^87-1]: The verse (87) reads *hṛdā-hṛdi* (“chest to chest”); by this variant, “tooth to tooth” (*rada* means “tooth”). *Vādā-vādi* (“a battle of words”) follows in the verse and stays.
 
-[^91-1]: *Svastika* here means the arms crossed over the breast.
+[^91-1]: *Svastika* here apparently means the arms crossed over the breast (cf. Amṛta-pravāha-bhāṣya 91: the hands as a *kañculī*); the edition does not explain it.

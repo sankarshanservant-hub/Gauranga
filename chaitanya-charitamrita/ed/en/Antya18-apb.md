@@ -6,11 +6,11 @@
 
 ## 1
 
-On a night lit by the autumn moon, Śacīnandana saw the ocean and, taking it for the Yamunā, plunged into the burning ocean of separation from Hari: He fell into the water and lay unconscious the whole night, and in the morning He was found (by Svarūpa and others, His own intimate companions). May that Śacīnandana protect us by His pastimes.
+On a night lit by the autumn moon, Śacīnandana saw the ocean and, taking it for the Yamunā, plunged into the burning ocean of separation from Hari, fell into the water, and lay unconscious the whole night, and in the morning He was found (by Svarūpa and others, His own intimate companions). May that Śacīnandana protect us by His pastimes.
 
 ## 25
 
-As the king of elephants sports in the water with his she-elephants, so Bhagavān Śrī Kṛṣṇa, who is beyond worldly codes, tired from the *rāsa-līlā* with the gopīs, entered the water to relieve His fatigue. Bees followed Him (flew close behind Him) like the lords of the Gandharvas. At that time His garland, colored with the kuṅkuma from the gopīs' breasts, had been crushed (pressed) in their embraces.
+As the king of elephants sports in the water with his she-elephants, so Bhagavān Śrī Kṛṣṇa, who is beyond worldly codes, tired from the *rāsa-līlā* with the gopīs, entered the water to relieve His fatigue. Bees followed Him (flew close behind Him) like the lords of the Gandharvas. At that time His garland, colored with the kuṅkuma from the gopīs' breasts, had been crushed (pressed) by contact with their bodies.
 
 ## 31
 
