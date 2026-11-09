@@ -110,7 +110,7 @@ those  all  to describe  the book  becomes  very  long
 
 (10) To describe the meaning of all those verses and all those ecstatic transformations would make the book far too long.
 
-দ্বাদশ বৎসরে যে যে লীলা ক্ষণে-ক্ষণে ৷  
+দ্বাদশ বৎসরে যে যে লীলা ক্ষণে ক্ষণে ৷  
 অতিবাহুল্য-ভয়ে গ্রন্থ না কৈলুঁ লিখনে ॥ ১১ ॥
 
 dvādaśa vatsare ye ye līlā kṣaṇe-kṣaṇe  
@@ -430,7 +430,7 @@ of the ocean  on the shore  in the water  makes  the Lord’s  search
 
 (42) Svarūpa went east with a few others, searching for the Lord along the shore and in the waters of the sea.
 
-বিষাদে বিহ্বল সবে, নাহিক ‘চেতন’ ৷  
+বিষাদে বিহ্বল সবে নাহিক ‘চেতন’ ৷  
 তবু প্রেমে বুলে করি’ প্রভুর অন্বেষণ ॥ ৪৩ ॥
 
 viṣāde vihvala sabe, nāhika ‘cetana’  
@@ -440,7 +440,7 @@ yet  in love  wander  making  the Lord’s  search
 
 (43) They were all overwhelmed with grief and hardly conscious, yet, moved by love, they kept wandering in search of the Lord.
 
-দেখেন — এক জালিয়া আইসে কান্ধে জাল করি’ ৷  
+দেখেন, এক জালিয়া আইসে কান্ধে জাল করি’ ৷  
 হাসে, কান্দে, নাচে, গায়, বলে ‘হরি’ ‘হরি’ ॥ ৪৪ ॥
 
 dekhena — eka jāliyā āise kāndhe jāla kari’  
@@ -630,7 +630,7 @@ fear  not  have  saying  calm  made
 
 (62) Giving him three slaps, he said, “The spirit has fled. Do not be afraid!” — and so he calmed him.
 
-একে প্রেম, আরে ভয়, — দ্বিগুণ অস্থির ৷  
+একে প্রেম, আরে ভয় — দ্বিগুণ অস্থির ৷  
 ভয়-অংশ গেল, — সে হৈল কিছু ধীর ॥ ৬৩ ॥
 
 eke prema, āre bhaya, — dviguṇa asthira  
@@ -641,7 +641,7 @@ of fear  the part  went  he  became  somewhat  calm
 (63) Love on the one hand and fear on the other had made him doubly restless. Now that the fear was gone, he grew somewhat calmer.
 
 স্বরূপ কহে, — যাঁরে তুমি কর ‘ভূত’-জ্ঞান ৷  
-ভূত নহে — তেঁহো কৃষ্ণচৈতন্য ভগবান্ ॥ ৬৪ ॥
+ভূত নহে, — তেঁহো কৃষ্ণচৈতন্য ভগবান্ ॥ ৬৪ ॥
 
 svarūpa kahe, — yāṅre tumi kara ‘bhūta’-jñāna  
 Svarūpa  says  whom  you  make  a spirit  the notion  
