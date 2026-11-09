@@ -750,6 +750,298 @@ Svarūpa  Govinda  lay down  of the Gambhīrā  at the door
 
 (56) After putting the Lord to bed, Rāmānanda went home, and Svarūpa and Govinda lay down at the door of the Gambhīrā.
 
+প্রেমাবেশে মহাপ্রভুর গর-গর মন ৷  
+নামসঙ্কীর্ত্তন করি’ করেন জাগরণ ॥ ৫৭ ॥
+
+premāveśe mahāprabhura gara-gara mana  
+absorbed in love  of Mahāprabhu  overflowing  the mind  
+nāma-saṅkīrtana kari’ karena jāgaraṇa  
+of the name  saṅkīrtana  doing  makes  waking
+
+(57) Mahāprabhu’s mind was overflowing with love, and He stayed awake chanting the holy name.
+
+বিরহে ব্যাকুল প্রভু উদ্বেগে উঠিলা ৷  
+গম্ভীরার ভিত্ত্যে মুখ ঘষিতে লাগিলা ॥ ৫৮ ॥
+
+virahe vyākula prabhu udvege uṭhilā  
+in separation  agitated  the Lord  in distress  rose  
+gambhīrāra bhittye mukha ghaṣite lāgilā  
+of the Gambhīrā  against the walls  His face  to rub  began
+
+(58) Agitated by separation, the Lord rose in distress and began to rub His face against the walls of the Gambhīrā.[^24]
+
+মুখে, গণ্ডে, নাকে ক্ষত হইল অপার ৷  
+ভাবাবেশে না জানেন প্রভু, পড়ে রক্তধার ॥ ৫৯ ॥
+
+mukhe, gaṇḍe, nāke kṣata haila apāra  
+on His face  cheeks  nose  wounds  became  countless  
+bhāvāveśe nā jānena prabhu, paḍe rakta-dhāra  
+absorbed in feeling  not  knows  the Lord  falls  of blood  a stream
+
+(59) His face, cheeks and nose were covered with countless wounds. Absorbed in His feelings, the Lord was unaware of it, and the blood kept flowing.
+
+সর্ব্বরাত্রি করেন ভাবে মুখ সংঘর্ষণ ৷  
+গোঁ-গোঁ-শব্দ করেন, — স্বরূপ শুনিলা তখন ॥ ৬০ ॥
+
+sarva-rātri karena bhāve mukha saṅgharṣaṇa  
+all  night  makes  in ecstasy  of the face  rubbing  
+gom̐-gom̐-śabda karena, — svarūpa śunilā takhana  
+goṅ-goṅ  sounds  makes  Svarūpa  heard  then
+
+(60) All night, in the grip of His feelings, He rubbed His face against the walls and made a low, muffled moaning — goṅ-goṅ. Svarūpa heard it.
+
+দীপ জ্বালি’ ঘরে গেলা, দেখি’ প্রভুর মুখ ৷  
+স্বরূপ, গোবিন্দ দুঁহার হৈল বড় দুঃখ ॥ ৬১ ॥
+
+dīpa jvāli’ ghare gelā, dekhi’ prabhura mukha  
+a lamp  lighting  into the room  went  seeing  the Lord’s  face  
+svarūpa, govinda dum̐hāra haila baḍa duḥkha  
+Svarūpa  Govinda  of both  arose  great  sorrow
+
+(61) With Govinda he lit a lamp, and they went into the room. When they saw the Lord’s face, both were deeply grieved.
+
+প্রভুরে শয্যাতে আনি’ শয়ন করাইলা ৷  
+‘কাঁহে কৈলা এই তুমি ?’ — স্বরূপ পুছিলা ॥ ৬২ ॥
+
+prabhure śayyāte āni’ śayana karāilā  
+the Lord  to the bed  bringing  to lie down  made  
+‘kām̐he kailā ei tumi?’ — svarūpa puchilā  
+why  did  this  You  Svarūpa  asked
+
+(62) They brought the Lord to His bed and made Him lie down, and Svarūpa asked, “Why did You do this?”
+
+প্রভু কহেন, — উদ্বেগে ঘরে না পারি রহিতে ৷  
+দ্বার চাহি’ ফিরি’ শীঘ্র বাহির হইতে ॥ ৬৩ ॥
+
+prabhu kahena, — udvege ghare nā pāri rahite  
+the Lord  says  in distress  in the room  not  I can  remain  
+dvāra cāhi’ phiri’ śīghra bāhira haite  
+the door  seeking  I wandered  quickly  outside  to go
+
+(63) The Lord said, “In My distress I could not stay in the room. I wandered about looking for the door, eager to get out.
+
+দ্বার নাহি’ পাঞা মুখ লাগে চারিভিতে ৷  
+ক্ষত হয়, রক্ত পড়ে, না পাই যাইতে ॥ ৬৪ ॥
+
+dvāra nāhi’ pāñā mukha lāge cāri-bhite  
+the door  not  finding  the face  strikes  on all sides  
+kṣata haya, rakta paḍe, nā pāi yāite  
+wounds  come  blood  falls  not  I can  go
+
+(64) But I could not find the door, and on every side My face struck against the walls. So I was hurt and bleeding, yet I could not get out.”
+
+উন্মাদ-দশায় প্রভুর স্থির নহে মন ৷  
+যেই করে, যেই বোলে, — উন্মাদ-লক্ষণ ॥ ৬৫ ॥
+
+unmāda-daśāya prabhura sthira nahe mana  
+in the state of madness  the Lord’s  steady  is not  mind  
+yei kare, yei bole, — unmāda-lakṣaṇa  
+whatever  He does  whatever  He says  of madness  a symptom
+
+(65) In the state of divine madness the Lord’s mind was never steady. Whatever He did and whatever He said was a symptom of that madness.
+
+স্বরূপ-গোসাঞি তবে চিন্তা পাইলা মনে ৷  
+ভক্তগণ লঞা বিচার কৈলা আর দিনে ॥ ৬৬ ॥
+
+svarūpa-gosāñi tabe cintā pāilā mane  
+Svarūpa  Gosāñi  then  anxiety  felt  in his mind  
+bhakta-gaṇa lañā vicāra kailā āra dine  
+the devotees  gathering  counsel  held  on the next  day
+
+(66) Then Svarūpa Gosāñi became anxious, and the next day he gathered the devotees and took counsel with them.[^25]
+
+সব ভক্ত মেলি’ তবে প্রভুরে সাধিল ৷  
+শঙ্কর-পণ্ডিতে প্রভুর সঙ্গে শোয়াইল ॥ ৬৭ ॥
+
+saba bhakta meli’ tabe prabhure sādhila  
+all  the devotees  together  then  the Lord  entreated  
+śaṅkara-paṇḍite prabhura saṅge śoyāila  
+Śaṅkara  Paṇḍita  the Lord’s  with  made sleep
+
+(67) All the devotees together entreated the Lord, and they had Śaṅkara Paṇḍita sleep beside Him.
+
+প্রভু-পাদতলে শঙ্কর করেন শয়ন ৷  
+প্রভু তাঁর উপর করেন পাদ-প্রসারণ ॥ ৬৮ ॥
+
+prabhu-pāda-tale śaṅkara karena śayana  
+the Lord’s  feet  at the base  Śaṅkara  makes  lying  
+prabhu tām̐ra upara karena pāda-prasāraṇa  
+the Lord  him  upon  makes  of the feet  stretching
+
+(68) Śaṅkara would lie at Mahāprabhu’s feet, and the Lord would stretch His legs out across him.
+
+‘প্রভু-পাদোপাধান’ বলি’ তাঁর নাম হইল ৷  
+পূর্ব্বে বিদুরে যেন শ্রীশুক বর্ণিল ॥ ৬৯ ॥
+
+‘prabhu-pādopādhāna’ bali’ tām̐ra nāma haila  
+the Lord’s  feet’s pillow  calling  his  name  became  
+pūrve vidure yena śrī-śuka varṇila  
+long ago  of Vidura  as  Śrī  Śuka  described
+
+(69) So he became known as “the pillow for the Lord’s feet,” just as Śrī Śuka once described Vidura:[^26]
+
+ইতি ব্রুবাণং বিদুরং বিনীতং  
+সহস্রশীর্ষ্ণশ্চরণোপাধানম্ ৷  
+প্রহৃষ্টরোমা ভগবৎকথায়াং  
+প্রণীয়মানো মুনিরভ্যচষ্ট ॥ ৭০ ॥
+
+iti bruvāṇaṁ viduraṁ vinītaṁ  
+thus  speaking  Vidura  humble  
+sahasra-śīrṣṇaś caraṇopādhānam  
+of the thousand-headed  of the feet  the pillow  
+prahṛṣṭa-romā bhagavat-kathāyāṁ  
+thrilled  with hairs  in talk of Bhagavān  
+praṇīyamāno munir abhyacaṣṭa  
+being urged  the sage  began to speak
+
+(70) “So spoke the humble Vidura, the pillow for the feet of the thousand-headed Lord; and the sage Maitreya, urged on by him to speak of Bhagavān, began, the hairs of his body standing on end with joy.” (Śrīmad-Bhāgavatam, 3.13.5)[^27]
+
+শঙ্কর করেন প্রভুর পাদ-সম্বাহন ৷  
+ঘুমাঞা পড়েন, তৈছে করেন শয়ন ॥ ৭১ ॥
+
+śaṅkara karena prabhura pāda-samvāhana  
+Śaṅkara  makes  the Lord’s  feet  massaging  
+ghumāñā paḍena, taiche karena śayana  
+falling asleep  he drops  so  makes  lying
+
+(71) Śaṅkara would massage the Lord’s feet, fall asleep and lie there just as he was.
+
+উঘাড় অঙ্গে পড়িয়া শঙ্কর নিদ্রা যায় ৷  
+প্রভু উঠি’ আপন কাঁথা তাহারে জড়ায় ॥ ৭২ ॥
+
+ughāḍa aṅge paḍiyā śaṅkara nidrā yāya  
+uncovered  in body  lying  Śaṅkara  sleep  goes  
+prabhu uṭhi’ āpana kām̐thā tāhāre jaḍāya  
+the Lord  rising  His own  quilt  him  wraps
+
+(72) When Śaṅkara lay asleep with his body uncovered, the Lord would rise and wrap him in His own quilt.
+
+নিরন্তর ঘুমায় শঙ্কর শীঘ্র চেতন ৷  
+বসি’ পাদ চাপি’ করে রাত্রি জাগরণ ॥ ৭৩ ॥
+
+nirantara ghumāya śaṅkara śīghra cetana  
+constantly  sleeps  Śaṅkara  quickly  awake  
+vasi’ pāda cāpi’ kare rātri jāgaraṇa  
+sitting  the feet  pressing  makes  of the night  waking
+
+(73) Śaṅkara would keep falling asleep but quickly wake again, and then he would sit up, press the Lord’s feet, and stay awake through the night.
+
+তাঁর ভয়ে নারেন প্রভু বাহিরে যাইতে ৷  
+তাঁর ভয়ে নারেন ভিত্ত্যে মুখাব্জ ঘষিতে ॥ ৭৪ ॥
+
+tām̐ra bhaye nārena prabhu bāhire yāite  
+of him  for fear  cannot  the Lord  outside  go  
+tām̐ra bhaye nārena bhittye mukhābja ghaṣite  
+of him  for fear  cannot  against the wall  His lotus face  rub
+
+(74) For fear of disturbing him, the Lord could not go out, nor could He rub His lotus face against the walls.[^28]
+
+এই লীলা মহাপ্রভুর রঘুনাথ-দাস ৷  
+চৈতন্যস্তবকল্পবৃক্ষে কৈরাছেন প্রকাশ ॥ ৭৫ ॥
+
+ei līlā mahāprabhura raghunātha-dāsa  
+this  pastime  of Mahāprabhu  Raghunātha dāsa  
+caitanya-stava-kalpa-vṛkṣe kairāchena prakāśa  
+in the Caitanya-stava-kalpavṛkṣa  has  described
+
+(75) Raghunātha dāsa has described this pastime of Mahāprabhu in his *Caitanya-stava-kalpavṛkṣa*:
+
+স্বকীয়স্য প্রাণার্ব্বুদসদৃশ-গোষ্ঠস্য বিরহাৎ  
+প্রলাপানুন্মাদাৎ সততমতি কুর্ব্বন্ বিকলধীঃ ৷  
+দধদ্ভিত্তৌ শশ্বদ্বদনবিধুঘর্ষেণ রুধিরং  
+ক্ষতোত্থং গৌরাঙ্গো হৃদয় উদয়ন্মাং মদয়তি ॥ ৭৬ ॥
+
+svakīyasya prāṇārbuda-sadṛśa-goṣṭhasya virahāt  
+from His own  millions of lives  equal to  from Vraja  from separation  
+pralāpān unmādāt satatam ati kurvan vikala-dhīḥ  
+ravings  from madness  constantly  much  making  bewildered in mind  
+dadhad bhittau śaśvad vadana-vidhu-gharṣeṇa rudhiraṁ  
+bearing  on the wall  incessantly  by the rubbing of His moonlike face  blood  
+kṣatotthaṁ gaurāṅgo hṛdaya udayan māṁ madayati  
+from wounds arisen  Gaurāṅga  in my heart  rising  me  maddens
+
+(76) “In separation from His own Vraja, dear to Him as millions of lives, He raved constantly in His madness, His mind bewildered. Again and again He rubbed His moonlike face against the wall, and it was covered with blood from the wounds. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 6)[^29]
+
+এইমত মহাপ্রভু রাত্রি দিবসে ৷  
+প্রেমসিন্ধু-মগ্ন রহে, কভু ডুবে, ভাসে ॥ ৭৭ ॥
+
+ei-mata mahāprabhu rātri divase  
+in this way  Mahāprabhu  night  and day  
+prema-sindhu-magna rahe, kabhu ḍube, bhāse  
+in the ocean of love  immersed  remains  now  sinks  floats
+
+(77) In this way, night and day, Mahāprabhu remained immersed in the ocean of love, now sinking, now rising to the surface.
+
+এককালে বৈশাখের পৌর্ণমাসী-দিনে ৷  
+রাত্রিকালে মহাপ্রভু চলিলা উদ্যানে ॥ ৭৮ ॥
+
+eka-kāle vaiśākhera paurṇamāsī-dine  
+one  time  of Vaiśākha  on the full-moon  day  
+rātri-kāle mahāprabhu calilā udyāne  
+at night  Mahāprabhu  went  to a garden
+
+(78) Once, on the full-moon day of the month of Vaiśākha, Mahāprabhu went to a garden at night.[^30]
+
+‘জগন্নাথবল্লভ’ নাম উদ্যান প্রধানে ৷  
+প্রবেশ করিলা প্রভু লঞা ভক্তগণে ॥ ৭৯ ॥
+
+‘jagannātha-vallabha’ nāma udyāna pradhāne  
+Jagannātha-vallabha  named  of gardens  the foremost  
+praveśa karilā prabhu lañā bhakta-gaṇe  
+entry  made  the Lord  taking  the devotees
+
+(79) Taking the devotees with Him, the Lord entered the finest of gardens, called Jagannātha-vallabha.
+
+প্রফুল্লিত বৃক্ষ-বল্লী, — যেন বৃন্দাবন ৷  
+শুক, শারী, পিক, ভৃঙ্গ করে আলাপন ॥ ৮০ ॥
+
+praphullita vṛkṣa-vallī, — yena vṛndāvana  
+blossoming  trees  creepers  like  Vṛndāvana  
+śuka, śārī, pika, bhṛṅga kare ālāpana  
+parrots  female parrots  cuckoos  bees  make  conversation
+
+(80) The trees and creepers were in full bloom, as in Vṛndāvana, and the parrots, *śuka* and *śārī*, the cuckoos and the bees were calling to one another.
+
+পুষ্পগন্ধ লঞা বহে মলয়-পবন ৷  
+‘গুরু’ হঞা তরুলতায় শিখায় নাচন ॥ ৮১ ॥
+
+puṣpa-gandha lañā vahe malaya-pavana  
+of flowers  the fragrance  carrying  blows  the Malaya  breeze  
+‘guru’ hañā taru-latāya śikhāya nācana  
+a teacher  becoming  the trees and creepers  teaches  dancing
+
+(81) Carrying the fragrance of the flowers, the breeze from the Malaya hills blew, and like a dancing master it taught the trees and creepers to dance.[^31]
+
+পূর্ণচন্দ্র-চন্দ্রিকায় পরম উজ্জ্বল ৷  
+তরুলতাদি জ্যোৎস্নায় করে ঝলমল ॥ ৮২ ॥
+
+pūrṇa-candra-candrikāya parama ujjvala  
+of the full moon  by the light  supremely  bright  
+taru-latādi jyotsnāya kare jhalamala  
+the trees  creepers and all  in the moonlight  make  glittering
+
+(82) Everything shone brightly in the light of the full moon; the trees, the creepers and all else glittered in the moonlight.
+
+ছয় ঋতুগণ যাঁহা বসন্ত প্রধান ৷  
+দেখি’ আনন্দিত হৈলা গৌর ভগবান্ ॥ ৮৩ ॥
+
+chaya ṛtu-gaṇa yām̐hā vasanta pradhāna  
+the six  seasons  where  spring  foremost  
+dekhi’ ānandita hailā gaura bhagavān  
+seeing  delighted  became  Gaura  Bhagavān
+
+(83) All six seasons were present there, with spring foremost among them. Seeing this, Gaura Bhagavān was delighted.
+
+ললিত লবঙ্গলতা পদ গাওয়াঞা ৷  
+নৃত্য করি’ বুলেন প্রভু নিজগণ লঞা ॥ ৮৪ ॥
+
+lalita lavaṅgalatā pada gāoyāñā  
+lalita  lavaṅga-latā  the song  having (them) sing  
+nṛtya kari’ bulena prabhu nija-gaṇa lañā  
+dance  doing  roams  the Lord  His own associates  with
+
+(84) He had His associates sing the song “Lalita-lavaṅga-latā”, and He danced and roamed about with them.[^32]
+
 ---
 
 [^1]: So in the edition: «মধুদ্যানে» (*madhudyāne*); by the rule of sandhi (*madhu* + *udyāna*) — «মধূদ্যানে», as in the *Anubhāṣya*. The sense is the same: “in the spring garden”.
@@ -797,3 +1089,21 @@ Svarūpa  Govinda  lay down  of the Gambhīrā  at the door
 [^22]: Heading in the edition: reproaches to Kṛṣṇa in loving anger (*praṇaya-roṣa*).
 
 [^23]: Heading in the edition: Svarūpa consoles the Lord with songs in keeping with His mood.
+
+[^24]: Heading in the edition: the Lord’s divine madness — the rubbing of His face against the walls (*udghūrṇā*).
+
+[^25]: Heading in the edition: after taking counsel with the devotees, Svarūpa chooses Śaṅkara Paṇḍita to be the pillow for the Lord’s feet.
+
+[^26]: Heading in the edition: Śaṅkara’s service to Bhagavān — like Vidura’s service in the Dvāpara age.
+
+[^27]: *Anubhāṣya*: Vidura asked Maitreya about the deeds of Svāyambhuva Manu and Śatarūpā, and in reply Maitreya began to speak of Hari. “The pillow for the feet” is one on whose lap Kṛṣṇa lovingly stretches out His feet: it is said that Kṛṣṇa came to Vidura’s house, laid both feet on his lap and fell asleep (see the *Sārārtha-darśinī* commentary).
+
+[^28]: Heading in the edition: with Śaṅkara near, the Lord’s madness subsides.
+
+[^29]: Heading in the edition: the Lord in separation from Kṛṣṇa, raving in divine madness. *Anubhāṣya*: *goṣṭha* is Vraja, dear to the Lord as countless lives; *dadhat* — “bearing”: the Lord’s face bore the blood from its wounds.
+
+[^30]: Heading in the edition: one day, in the Jagannātha-vallabha garden, the Lord, overwhelmed by *mahābhāva*, shows the ten kinds of *citra-jalpa*.
+
+[^31]: *Anubhāṣya*: the breeze itself carried the fragrance of the flowers, and besides, like a dancing master, it taught the trees and creepers to dance.
+
+[^32]: “Lalita-lavaṅga-latā” is Jayadeva’s spring song from the *Gīta-govinda* (first canto), about Kṛṣṇa’s pastimes with the gopīs.
