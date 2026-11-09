@@ -234,3 +234,9 @@ Having finished their water pastimes, the queens, their hearts absorbed in thoug
 
 *Thus ends the nineteenth chapter of the “Anubhāṣya.”*
 
+
+---
+
+[^91-1]: The verse translation reads differently: “…attract all women.”
+
+[^98-1]: The verse translation reads differently: “…entices customers, the women of the whole world.”
