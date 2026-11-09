@@ -1,8 +1,8 @@
 # English translation, Antya-līlā 19 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 revision).
 # Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
 # Base: stage-A English (ed/en/work/Antya19.txt), revised against the Bengali, the Anubhāṣya and the Amṛta-pravāha-bhāṣya.
-# Two shifts: shift 1 — verses 1–56 (scan pp. 1056–1061); shift 2 — 57–112.
-# Verbatim from revised chapters: 2 (= Ādi 1.18).
+# Two shifts: shift 1 — verses 1–56 (scan pp. 1056–1061); shift 2 — 57–112 (pp. 1061–1067).
+# Verbatim from revised chapters: 2 (= Ādi 1.18), 75 (= Antya 14.72), 105 (= Madhya 23.36), 112 (= Ādi 1.110); 76 — the Caitanya-stava-kalpavṛkṣa refrain.
 
 ## 0
 tr: The Ravings of Separation, the Rubbing of His Face against the Walls, and Other Pastimes
