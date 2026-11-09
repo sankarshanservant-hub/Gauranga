@@ -465,13 +465,19 @@ a body  is not  of the seyākul  a thorn
 জানি’ বিধি নিরমিলা তায় ॥ ৪১ ॥
 
 jiniyā tamāla-dyuti,  
+surpassing  the tamāla’s  luster  
 indranīla-sama kānti,  
+to the sapphire  equal  the luster  
 se kāntite jagat mātāya  
+by that  luster  the world  maddens  
 śṛṅgāra-rasa-sāra-chāni’,  
+of amorous  rasa  the essence  straining  
 tāte candra-jyotsnā sāni’,  
-jāni’ vidhi niramilā tāya
+with it  of the moon  the light  mixing  
+jāni’ vidhi niramilā tāya  
+I know  the Creator  fashioned  Him
 
-(41) [not yet translated]
+(41) His luster surpasses the luster of the *tamāla* tree, it is like the sapphire, and with that luster He maddens the world. Surely the Creator fashioned Him by straining out the very essence of the *rasa* of love and mixing it with moonlight.
 
 কাঁহা সে মুরলীধ্বনি, নবাম্বুদ-গর্জ্জিত জিনি’,  
 জগৎ আকর্ষে শ্রবণে যাহার ৷  
@@ -479,13 +485,19 @@ jāni’ vidhi niramilā tāya
 আসি’ পিয়ে কান্ত্যমৃত-ধার ॥ ৪২ ॥
 
 kāṅhā se muralī-dhvani,  
+where  that  of the flute  the sound  
 navāmbuda-garjita jini’,  
+of a new cloud  the thunder  surpassing  
 jagat ākarṣe śravaṇe yāhāra  
+the world  attracts  to the hearing  of which  
 uṭhi’ dhāya vraja-jana,  
+rising  run  of Vraja  the people  
 tṛṣita cātaka-gaṇa,  
-āsi’ piye kānty-amṛta-dhāra
+thirsty  cātaka birds  
+āsi’ piye kānty-amṛta-dhāra  
+coming  drink  of luster  the nectar  streams
 
-(42) [not yet translated]
+(42) Where is the sound of that flute which surpasses the thunder of a fresh cloud and draws the whole world to hear it? At its sound the people of Vraja rise and run like thirsty *cātaka* birds, and come to drink the streams of the nectar of His luster.
 
 মোর সেই কলানিধি, প্রাণরক্ষা-মহৌষধি,  
 সখি মোর তেঁহো সুহৃত্তম ৷  
@@ -493,13 +505,19 @@ tṛṣita cātaka-gaṇa,
 বিধি করে এত বিড়ম্বন ! ॥ ৪৩ ॥
 
 mora sei kalā-nidhi,  
+My  that  treasury of arts (the moon)  
 prāṇa-rakṣā-mahauṣadhi,  
+of life  saving  the great medicine  
 sakhi mora teṅho suhṛttama  
+O friend  My  He  dearest friend  
 deha jīye tāṅhā vine,  
+the body  lives  Him  without  
 dhik ei jīvane,  
-vidhi kare eta viḍambana!
+fie  on this  life  
+vidhi kare eta viḍambana!  
+the Creator  makes  such  mockery
 
-(43) [not yet translated]
+(43) He is My moon, the treasury of all arts, the great medicine that saves My life. O friend, He is My dearest friend. Yet My body lives on without Him — fie on such a life! What a mockery the Creator has made of Me!
 
 ‘যে-জন জীতে নাহি চায়, তারে কেনে জীয়ায়’,  
 বিধিপ্রতি উঠে ক্রোধ-শোক ৷  
@@ -507,13 +525,19 @@ vidhi kare eta viḍambana!
 পড়ি’ ভাগবতের এক শ্লোক ॥ ৪৪ ॥
 
 ‘ye-jana jīte nāhi cāya,  
+who  a person  to live  not  wants  
 tāre kene jīyāya’,  
+him  why  makes live  
 vidhi-prati uṭhe krodha-śoka  
+the Creator  against  rises  anger  and grief  
 vidhire kare bhartsana,  
+the Creator  makes  rebuke  
 kṛṣṇe dena olāhana,  
-paḍi’ bhāgavatera eka śloka
+Kṛṣṇa  gives  reproach  
+paḍi’ bhāgavatera eka śloka  
+reciting  of the Bhāgavatam  one  verse
 
-(44) [not yet translated]
+(44) “Why does he make one live who does not want to live?” — so anger and grief rose in Him against the Creator. Reciting a verse from the *Bhāgavatam*, He rebuked the Creator and reproached Kṛṣṇa:
 
 অহো বিধাতস্তব ন ক্বচিদ্দয়া  
 সংযোজ্য মৈত্র্য্যা প্রণয়েন দেহিনঃ ৷  
@@ -521,11 +545,15 @@ paḍi’ bhāgavatera eka śloka
 বিচেষ্টিতং তেঽর্ভকচেষ্টিতং যথা ॥ ৪৫ ॥
 
 aho vidhātas tava na kvacid dayā  
+O  Creator  your  not  anywhere  mercy  
 saṁyojya maitryā praṇayena dehinaḥ  
+having joined  by friendship  by love  embodied beings  
 tāṁś cākṛtārthān viyunaṅkṣy apārthakaṁ  
-viceṣṭitaṁ te ’rbhaka-ceṣṭitaṁ yathā
+them  and  unfulfilled  you separate  pointlessly  
+viceṣṭitaṁ te ’rbhaka-ceṣṭitaṁ yathā  
+the doings  your  of a child  the doings  like
 
-(45) [not yet translated]
+(45) “O Creator, there is no mercy in you anywhere! You join embodied beings in friendship and love, and then, before their desires are fulfilled, you pointlessly separate them. Your doings are like the play of a child.” (Śrīmad-Bhāgavatam, 10.39.19)
 
 না জানিস্ প্রেম-মর্ম্ম, ব্যর্থ করিস্ পরিশ্রম,  
 তোর চেষ্টা — বালক-সমান ৷  
@@ -533,24 +561,34 @@ viceṣṭitaṁ te ’rbhaka-ceṣṭitaṁ yathā
 এমন যেন না করিস্ বিধান ॥ ৪৬ ॥
 
 nā jānis prema-marma,  
+not  you know  of love  the heart  
 vyartha karis pariśrama,  
+in vain  you make  labour  
 tora ceṣṭā — bālaka-samāna  
+your  doings  a child  like  
 tora yadi lāg pāiye,  
+you  if  hold of  I get  
 tabe tore śikṣā diye,  
-emana yena nā karis vidhāna
+then  to you  a lesson  I will give  
+emana yena nā karis vidhāna  
+such  that  not  you make  arrangement
 
-(46) [not yet translated]
+(46) “You do not know the heart of love, and you labour in vain. Your doings are like a child’s. If I can only get hold of you, I will teach you such a lesson that you will never arrange such things again!
 
 অরে বিধি, তুই বড়ই নিষ্ঠুর ৷  
 অন্যোঽন্য দুর্লভ জন, প্রেমে করাঞা সম্মিলন,  
 ‘অকৃতার্থান্’ কেনে করিস্ দূর ? ॥ ৪৭ ॥
 
 are vidhi, tui baḍai niṣṭhura  
+O  Creator  you  very  cruel  
 anyo’nya durlabha jana,  
+for each other  hard to win  people  
 preme karāñā sammilana,  
-‘akṛtārthān’ kene karis dūra?
+in love  making  union  
+‘akṛtārthān’ kene karis dūra?  
+unfulfilled  why  you make  far apart
 
-(47) [not yet translated]
+(47) O Creator, you are very cruel! You bring together in love those who are so hard for each other to win. Why then do you part them before their desires are fulfilled?
 
 অরে বিধি অকরুণ, দেখাঞা কৃষ্ণানন,  
 নেত্র-মন লোভাইলা মোর ৷  
@@ -558,13 +596,19 @@ preme karāñā sammilana,
 পাপ কৈলি ‘দত্ত-অপহার’ ॥ ৪৮ ॥
 
 are vidhi akaruṇa,  
+O  Creator  merciless  
 dekhāñā kṛṣṇānana,  
+showing  Kṛṣṇa’s face  
 netra-mana lobhāilā mora  
+eyes  mind  you tempted  My  
 kṣaṇeke karite pāna,  
+for a moment  to make  drinking  
 kāḍi’ nilā anya-sthāna,  
-pāpa kaili ‘datta-apahāra’
+snatching  you took  to another  place  
+pāpa kaili ‘datta-apahāra’  
+sin  you committed  of the given  taking back
 
-(48) [not yet translated]
+(48) O merciless Creator! You showed Me Kṛṣṇa’s face and tempted My eyes and mind. I had drunk it for only a moment when you snatched it away and took it elsewhere. You have committed the sin of taking back what you gave.
 
 ‘অক্রূর করে তোর দোষ, আমায় কেনে কর রোষ’,  
 ইহা যদি কহ ‘দুরাচার’ ৷  
@@ -572,13 +616,19 @@ pāpa kaili ‘datta-apahāra’
 অন্যের নহে ঐছে ব্যবহার ॥ ৪৯ ॥
 
 ‘akrūra kare tora doṣa,  
+Akrūra  makes  your  offence  
 āmāya kene kara roṣa’,  
+to me  why  you make  anger  
 ihā yadi kaha ‘durācāra’  
+this  if  you say  O villain  
 tui akrūra-mūrti dhari’,  
+you  Akrūra’s  form  assuming  
 kṛṣṇa nili curi kari’,  
-anyera nahe aiche vyavahāra
+Kṛṣṇa  you took  theft  making  
+anyera nahe aiche vyavahāra  
+of another  is not  such  behaviour
 
-(49) [not yet translated]
+(49) If you say, villain, ‘It is Akrūra who has wronged you — why are you angry with me?’ — then know that it was you who took the form of Akrūra and stole Kṛṣṇa away. No one else behaves like this.
 
 আপনার কর্ম্ম-দোষ, তোরে কিবা করি রোষ,  
 তোর আমার সম্বন্ধ বিদূর ৷  
@@ -586,13 +636,19 @@ anyera nahe aiche vyavahāra
 সেই কৃষ্ণ হইলা নিষ্ঠুর ! ॥ ৫০ ॥
 
 āpanāra karma-doṣa,  
+My own  of deeds  the fault  
 tore kibā kari roṣa,  
+with you  why  I make  anger  
 tora āmāra sambandha vidūra  
+your  My  relation  far distant  
 ye āmāra prāṇa-nātha,  
+who  My  of life  the Lord  
 ekatra rahi yāṅra sātha,  
-sei kṛṣṇa hailā niṣṭhura!
+together  I lived  with whom  in company  
+sei kṛṣṇa hailā niṣṭhura!  
+that  Kṛṣṇa  became  cruel
 
-(50) [not yet translated]
+(50) But it is the fault of My own deeds — why should I be angry with you? You and I have nothing to do with each other. It is Kṛṣṇa, the Lord of My life, with whom I lived together, who has become so cruel!
 
 সব ত্যজি’ ভজি যাঁরে, সেই আপনা-হাতে মারে,  
 নারীবধে কৃষ্ণের নাহি ভয় ৷  
@@ -600,13 +656,19 @@ sei kṛṣṇa hailā niṣṭhura!
 ক্ষণমাত্রে ভাঙ্গিল প্রণয় ॥ ৫১ ॥
 
 saba tyaji’ bhaji yāṅre,  
+all  giving up  I serve  whom  
 sei āpanā-hāte māre,  
+He  with His own  hand  kills  
 nārī-vadhe kṛṣṇera nāhi bhaya  
+in killing  a woman  Kṛṣṇa’s  is not  fear  
 tāṅra lāgi’ āmi mari,  
+Him  for  I  die  
 ulaṭi’ nā cāhe hari,  
-kṣaṇa-mātre bhāṅgila praṇaya
+turning back  not  looks  Hari  
+kṣaṇa-mātre bhāṅgila praṇaya  
+in a moment  broke  the love
 
-(51) [not yet translated]
+(51) He whom I serve, having given up everything for Him, kills Me with His own hand. Kṛṣṇa has no fear of killing a woman. I am dying for Him, yet Hari will not even turn back to look at Me. In a moment He has broken our love.
 
 কৃষ্ণে কেনে করি রোষ, আপন দুর্দ্দৈব-দোষ,  
 পাকিল মোর এই পাপফল ৷  
@@ -614,13 +676,19 @@ kṣaṇa-mātre bhāṅgila praṇaya
 এই মোর অভাগ্য প্রবল ॥ ৫২ ॥
 
 kṛṣṇe kene kari roṣa,  
+with Kṛṣṇa  why  I make  anger  
 āpana durdaiva-doṣa,  
+My own  ill fate’s  the fault  
 pākila mora ei pāpa-phala  
+has ripened  My  this  of sin  the fruit  
 ye kṛṣṇa — mora premādhīna,  
+who  Kṛṣṇa  My  to love subject  
 tāre kaila udāsīna,  
-ei mora abhāgya prabala
+Him  made  indifferent  
+ei mora abhāgya prabala  
+this  My  misfortune  mighty
 
-(52) [not yet translated]
+(52) But why should I be angry with Kṛṣṇa? It is the fault of My own ill fate: the fruit of My sins has ripened. Kṛṣṇa, who is subject to My love, has been made indifferent to Me — so mighty is My misfortune!”
 
 এইমত গৌর-রায়, বিষাদে করে হায় হায়,  
 ‘হাহা কৃষ্ণ, তুমি গেলা কতি ?’  
@@ -628,13 +696,19 @@ ei mora abhāgya prabala
 ‘গোবিন্দ দামোদর মাধবেতি’ ॥ ৫৩ ॥
 
 ei-mata gaura-rāya,  
+in this way  Gaura  Rāya  
 viṣāde kare hāya hāya,  
+in grief  makes  alas  alas  
 ‘hāhā kṛṣṇa, tumi gelā kati?’  
+alas  Kṛṣṇa  You  went  where  
 gopī-bhāva hṛdaye,  
+of the gopīs  the feeling  in the heart  
 tāra vākya vilāpaye,  
-‘govinda dāmodara mādhaveti’
+their  words  lamenting  
+‘govinda dāmodara mādhaveti’  
+Govinda  Dāmodara  Mādhava (thus)
 
-(53) [not yet translated]
+(53) In this way Gaura Rāya cried in grief, “Alas! Alas! O Kṛṣṇa, where have You gone?” With the feelings of the *gopīs* in His heart, He lamented in their words: “O Govinda! O Dāmodara! O Mādhava!”
 
 তবে স্বরূপ-রামরায়, করি’ নানা উপায়,  
 মহাপ্রভুর করে আশ্বাসন ৷  
@@ -642,133 +716,169 @@ tāra vākya vilāpaye,
 প্রভুর কিছু স্থির হৈল মন ॥ ৫৪ ॥
 
 tabe svarūpa-rāma-rāya,  
+then  Svarūpa  Rāma  Rāya  
 kari’ nānā upāya,  
+making  various  means  
 mahāprabhura kare āśvāsana  
+of Mahāprabhu  make  consoling  
 gāyena maṅgala-gīta,  
+they sing  auspicious  songs  
 prabhura phirāilā cita,  
-prabhura kichu sthira haila mana
+the Lord’s  turned  mind  
+prabhura kichu sthira haila mana  
+the Lord’s  somewhat  calm  became  mind
 
-(54) [not yet translated]
+(54) Then Svarūpa and Rāmānanda Rāya tried in various ways to console Mahāprabhu. They sang auspicious songs and turned the Lord’s mind, and His mind grew somewhat calm.
 
 এইমত প্রলাপিতে অর্দ্ধরাত্রি গেল ৷  
 গম্ভীরাতে স্বরূপ-গোসাঞি প্রভুরে শোয়াইল ॥ ৫৫ ॥
 
 ei-mata pralāpite ardha-rātri gela  
-gambhīrāte svarūpa-gosāñi prabhure śoyāila
+in this way  in raving  half  the night  passed  
+gambhīrāte svarūpa-gosāñi prabhure śoyāila  
+in the Gambhīrā  Svarūpa  Gosāñi  the Lord  put to bed
 
-(55) [not yet translated]
+(55) In this way half the night passed in His ravings. Then Svarūpa Gosāñi put the Lord to bed in the Gambhīrā.
 
 প্রভুরে শোয়াঞা রামানন্দ গেলা ঘরে ৷  
 স্বরূপ, গোবিন্দ শুইলা গম্ভীরার দ্বারে ॥ ৫৬ ॥
 
 prabhure śoyāñā rāmānanda gelā ghare  
-svarūpa, govinda śuilā gambhīrāra dvāre
+the Lord  having put to bed  Rāmānanda  went  home  
+svarūpa, govinda śuilā gambhīrāra dvāre  
+Svarūpa  Govinda  lay down  of the Gambhīrā  at the door
 
-(56) [not yet translated]
+(56) After putting the Lord to bed, Rāmānanda went home, and Svarūpa and Govinda lay down at the door of the Gambhīrā.
 
 প্রেমাবেশে মহাপ্রভুর গর-গর মন ৷  
 নামসঙ্কীর্ত্তন করি’ করেন জাগরণ ॥ ৫৭ ॥
 
 premāveśe mahāprabhura gara-gara mana  
-nāma-saṅkīrtana kari’ karena jāgaraṇa
+absorbed in love  of Mahāprabhu  overflowing  the mind  
+nāma-saṅkīrtana kari’ karena jāgaraṇa  
+of the name  saṅkīrtana  doing  makes  waking
 
-(57) [not yet translated]
+(57) Mahāprabhu’s mind was overflowing with love, and He stayed awake chanting the holy name.
 
 বিরহে ব্যাকুল প্রভু উদ্বেগে উঠিলা ৷  
 গম্ভীরার ভিত্ত্যে মুখ ঘষিতে লাগিলা ॥ ৫৮ ॥
 
 virahe vyākula prabhu udvege uṭhilā  
-gambhīrāra bhittye mukha ghaṣite lāgilā
+in separation  agitated  the Lord  in distress  rose  
+gambhīrāra bhittye mukha ghaṣite lāgilā  
+of the Gambhīrā  against the walls  His face  to rub  began
 
-(58) [not yet translated]
+(58) Agitated by separation, the Lord rose in distress and began to rub His face against the walls of the Gambhīrā.
 
 মুখে, গণ্ডে, নাকে ক্ষত হইল অপার ৷  
 ভাবাবেশে না জানেন প্রভু, পড়ে রক্তধার ॥ ৫৯ ॥
 
 mukhe, gaṇḍe, nāke kṣata haila apāra  
-bhāvāveśe nā jānena prabhu, paḍe rakta-dhāra
+on His face  cheeks  nose  wounds  became  countless  
+bhāvāveśe nā jānena prabhu, paḍe rakta-dhāra  
+absorbed in feeling  not  knows  the Lord  falls  of blood  a stream
 
-(59) [not yet translated]
+(59) Countless wounds appeared on His face, cheeks and nose, and blood streamed from them, but the Lord, absorbed in feeling, did not know it.
 
 সর্ব্বরাত্রি করেন ভাবে মুখ সংঘর্ষণ ৷  
 গোঁ-গোঁ-শব্দ করেন, — স্বরূপ শুনিলা তখন ॥ ৬০ ॥
 
 sarva-rātri karena bhāve mukha saṅgharṣaṇa  
-goṅ-goṅ-śabda karena, — svarūpa śunilā takhana
+all  night  makes  in ecstasy  of the face  rubbing  
+goṅ-goṅ-śabda karena, — svarūpa śunilā takhana  
+goṅ-goṅ  sounds  makes  Svarūpa  heard  then
 
-(60) [not yet translated]
+(60) All night, in ecstasy, He rubbed His face and made sounds like “goṅ-goṅ.” Then Svarūpa heard Him.
 
 দীপ জ্বালি’ ঘরে গেলা, দেখি’ প্রভুর মুখ ৷  
 স্বরূপ, গোবিন্দ দুঁহার হৈল বড় দুঃখ ॥ ৬১ ॥
 
 dīpa jvāli’ ghare gelā, dekhi’ prabhura mukha  
-svarūpa, govinda duṅhāra haila baḍa duḥkha
+a lamp  lighting  into the room  went  seeing  the Lord’s  face  
+svarūpa, govinda duṅhāra haila baḍa duḥkha  
+Svarūpa  Govinda  of both  arose  great  sorrow
 
-(61) [not yet translated]
+(61) They lit a lamp and went into the room, and when Svarūpa and Govinda saw the Lord’s face, they were both deeply grieved.
 
 প্রভুরে শয্যাতে আনি’ শয়ন করাইলা ৷  
 ‘কাঁহে কৈলা এই তুমি ?’ — স্বরূপ পুছিলা ॥ ৬২ ॥
 
 prabhure śayyāte āni’ śayana karāilā  
-‘kāṅhe kailā ei tumi?’ — svarūpa puchilā
+the Lord  to the bed  bringing  to lie down  made  
+‘kāṅhe kailā ei tumi?’ — svarūpa puchilā  
+why  did  this  You  Svarūpa  asked
 
-(62) [not yet translated]
+(62) They brought the Lord to His bed and made Him lie down, and Svarūpa asked, “Why did You do this?”
 
 প্রভু কহেন, — উদ্বেগে ঘরে না পারি রহিতে ৷  
 দ্বার চাহি’ ফিরি’ শীঘ্র বাহির হইতে ॥ ৬৩ ॥
 
 prabhu kahena, — udvege ghare nā pāri rahite  
-dvāra cāhi’ phiri’ śīghra bāhira haite
+the Lord  says  in distress  in the room  not  I can  remain  
+dvāra cāhi’ phiri’ śīghra bāhira haite  
+the door  seeking  I wandered  quickly  outside  to go
 
-(63) [not yet translated]
+(63) The Lord said, “In My distress I could not stay in the room. I wandered about looking for the door, to get out quickly.
 
 দ্বার নাহি’ পাঞা মুখ লাগে চারিভিতে ৷  
 ক্ষত হয়, রক্ত পড়ে, না পাই যাইতে ॥ ৬৪ ॥
 
 dvāra nāhi’ pāñā mukha lāge cāri-bhite  
-kṣata haya, rakta paḍe, nā pāi yāite
+the door  not  finding  the face  strikes  on all sides  
+kṣata haya, rakta paḍe, nā pāi yāite  
+wounds  come  blood  falls  not  I can  go
 
-(64) [not yet translated]
+(64) Not finding the door, I struck My face against the walls on every side. I was wounded and blood flowed, but I could not get out.”
 
 উন্মাদ-দশায় প্রভুর স্থির নহে মন ৷  
 যেই করে, যেই বোলে, — উন্মাদ-লক্ষণ ॥ ৬৫ ॥
 
 unmāda-daśāya prabhura sthira nahe mana  
-yei kare, yei bole, — unmāda-lakṣaṇa
+in the state of madness  the Lord’s  steady  is not  mind  
+yei kare, yei bole, — unmāda-lakṣaṇa  
+whatever  He does  whatever  He says  of madness  a symptom
 
-(65) [not yet translated]
+(65) In the state of divine madness the Lord’s mind was never steady. Whatever He did and whatever He said was a symptom of that madness.
 
 স্বরূপ-গোসাঞি তবে চিন্তা পাইলা মনে ৷  
 ভক্তগণ লঞা বিচার কৈলা আর দিনে ॥ ৬৬ ॥
 
 svarūpa-gosāñi tabe cintā pāilā mane  
-bhakta-gaṇa lañā vicāra kailā āra dine
+Svarūpa  Gosāñi  then  anxiety  felt  in his mind  
+bhakta-gaṇa lañā vicāra kailā āra dine  
+the devotees  gathering  counsel  held  on the next  day
 
-(66) [not yet translated]
+(66) Then Svarūpa Gosāñi became anxious, and the next day he gathered the devotees and took counsel with them.
 
 সব ভক্ত মেলি’ তবে প্রভুরে সাধিল ৷  
 শঙ্কর-পণ্ডিতে প্রভুর সঙ্গে শোয়াইল ॥ ৬৭ ॥
 
 saba bhakta meli’ tabe prabhure sādhila  
-śaṅkara-paṇḍite prabhura saṅge śoyāila
+all  the devotees  together  then  the Lord  entreated  
+śaṅkara-paṇḍite prabhura saṅge śoyāila  
+Śaṅkara  Paṇḍita  the Lord’s  with  made sleep
 
-(67) [not yet translated]
+(67) All the devotees together entreated the Lord, and they had Śaṅkara Paṇḍita sleep with Him.
 
 প্রভু-পাদতলে শঙ্কর করেন শয়ন ৷  
 প্রভু তাঁর উপর করেন পাদ-প্রসারণ ॥ ৬৮ ॥
 
 prabhu-pāda-tale śaṅkara karena śayana  
-prabhu tāṅra upara karena pāda-prasāraṇa
+the Lord’s  feet  at the base  Śaṅkara  makes  lying  
+prabhu tāṅra upara karena pāda-prasāraṇa  
+the Lord  him  upon  makes  of the feet  stretching
 
-(68) [not yet translated]
+(68) Śaṅkara lay at the Lord’s feet, and the Lord would stretch His feet out over him.
 
 ‘প্রভু-পাদোপাধান’ বলি’ তাঁর নাম হইল ৷  
 পূর্ব্বে বিদুরে যেন শ্রীশুক বর্ণিল ॥ ৬৯ ॥
 
 ‘prabhu-pādopādhāna’ bali’ tāṅra nāma haila  
-pūrve vidure yena śrī-śuka varṇila
+the Lord’s  feet’s pillow  calling  his  name  became  
+pūrve vidure yena śrī-śuka varṇila  
+long ago  of Vidura  as  Śrī  Śuka  described
 
-(69) [not yet translated]
+(69) So he became known as “the pillow for the Lord’s feet,” just as Śrī Śuka once described Vidura:
 
 ইতি ব্রুবাণং বিদুরং বিনীতং  
 সহস্রশীর্ষ্ণশ্চরণোপাধানম্ ৷  
@@ -776,51 +886,65 @@ pūrve vidure yena śrī-śuka varṇila
 প্রণীয়মানো মুনিরভ্যচষ্ট ॥ ৭০ ॥
 
 iti bruvāṇaṁ viduraṁ vinītaṁ  
+thus  speaking  Vidura  humble  
 sahasra-śīrṣṇaś caraṇopādhānam  
+of the thousand-headed  of the feet  the pillow  
 prahṛṣṭa-romā bhagavat-kathāyāṁ  
-praṇīyamāno munir abhyacaṣṭa
+thrilled  with hairs  in talk of Bhagavān  
+praṇīyamāno munir abhyacaṣṭa  
+being urged  the sage  began to speak
 
-(70) [not yet translated]
+(70) “When the humble Vidura, the pillow for the feet of the thousand-headed Lord, had spoken thus, the sage Maitreya, urged on to speak of Bhagavān, his hairs standing on end with joy, began his account.” (Śrīmad-Bhāgavatam, 3.13.5)
 
 শঙ্কর করেন প্রভুর পাদ-সম্বাহন ৷  
 ঘুমাঞা পড়েন, তৈছে করেন শয়ন ॥ ৭১ ॥
 
 śaṅkara karena prabhura pāda-samvāhana  
-ghumāñā paḍena, taiche karena śayana
+Śaṅkara  makes  the Lord’s  feet  massaging  
+ghumāñā paḍena, taiche karena śayana  
+falling asleep  he drops  so  makes  lying
 
-(71) [not yet translated]
+(71) Śaṅkara would massage the Lord’s feet, fall asleep and lie there just as he was.
 
 উঘাড় অঙ্গে পড়িয়া শঙ্কর নিদ্রা যায় ৷  
 প্রভু উঠি’ আপন কাঁথা তাহারে জড়ায় ॥ ৭২ ॥
 
 ughāḍa aṅge paḍiyā śaṅkara nidrā yāya  
-prabhu uṭhi’ āpana kāṅthā tāhāre jaḍāya
+uncovered  in body  lying  Śaṅkara  sleep  goes  
+prabhu uṭhi’ āpana kāṅthā tāhāre jaḍāya  
+the Lord  rising  His own  quilt  him  wraps
 
-(72) [not yet translated]
+(72) When Śaṅkara lay asleep with his body uncovered, the Lord would rise and wrap him in His own quilt.
 
 নিরন্তর ঘুমায় শঙ্কর শীঘ্র চেতন ৷  
 বসি’ পাদ চাপি’ করে রাত্রি জাগরণ ॥ ৭৩ ॥
 
 nirantara ghumāya śaṅkara śīghra cetana  
-vasi’ pāda cāpi’ kare rātri jāgaraṇa
+constantly  sleeps  Śaṅkara  quickly  awake  
+vasi’ pāda cāpi’ kare rātri jāgaraṇa  
+sitting  the feet  pressing  makes  of the night  waking
 
-(73) [not yet translated]
+(73) Śaṅkara would keep falling asleep but quickly wake again, and then he would sit up, press the Lord’s feet, and stay awake through the night.
 
 তাঁর ভয়ে নারেন প্রভু বাহিরে যাইতে ৷  
 তাঁর ভয়ে নারেন ভিত্ত্যে মুখাব্জ ঘষিতে ॥ ৭৪ ॥
 
 tāṅra bhaye nārena prabhu bāhire yāite  
-tāṅra bhaye nārena bhittye mukhābja ghaṣite
+of him  for fear  cannot  the Lord  outside  go  
+tāṅra bhaye nārena bhittye mukhābja ghaṣite  
+of him  for fear  cannot  against the wall  His lotus face  rub
 
-(74) [not yet translated]
+(74) Because of him the Lord could not go out, nor could He rub His lotus face against the walls.
 
 এই লীলা মহাপ্রভুর রঘুনাথ-দাস ৷  
 চৈতন্যস্তবকল্পবৃক্ষে কৈরাছেন প্রকাশ ॥ ৭৫ ॥
 
 ei līlā mahāprabhura raghunātha-dāsa  
-caitanya-stava-kalpa-vṛkṣe kairāchena prakāśa
+this  pastime  of Mahāprabhu  Raghunātha dāsa  
+caitanya-stava-kalpa-vṛkṣe kairāchena prakāśa  
+in the Caitanya-stava-kalpavṛkṣa  has  described
 
-(75) [not yet translated]
+(75) Raghunātha dāsa has described this pastime of Mahāprabhu in his *Caitanya-stava-kalpavṛkṣa*:
 
 স্বকীয়স্য প্রাণার্ব্বুদসদৃশ-গোষ্ঠস্য বিরহাৎ  
 প্রলাপানুন্মাদাৎ সততমতি কুর্ব্বন্ বিকলধীঃ ৷  
@@ -828,43 +952,55 @@ caitanya-stava-kalpa-vṛkṣe kairāchena prakāśa
 ক্ষতোত্থং গৌরাঙ্গো হৃদয় উদয়ন্মাং মদয়তি ॥ ৭৬ ॥
 
 svakīyasya prāṇārbuda-sadṛśa-goṣṭhasya virahāt  
+from His own  millions of lives  equal to  from Vraja  from separation  
 pralāpān unmādāt satatam ati kurvan vikala-dhīḥ  
+ravings  from madness  constantly  much  making  bewildered in mind  
 dadhad bhittau śaśvad vadana-vidhu-gharṣeṇa rudhiraṁ  
-kṣatotthaṁ gaurāṅgo hṛdaya udayan māṁ madayati
+leaving  on the wall  incessantly  by the rubbing of His moonlike face  blood  
+kṣatotthaṁ gaurāṅgo hṛdaya udayan māṁ madayati  
+from wounds arisen  Gaurāṅga  in my heart  rising  me  maddens
 
-(76) [not yet translated]
+(76) “In separation from His Vraja, which He held as dear as millions of lives, He was bewildered in mind and raved constantly in His madness. Ceaselessly rubbing His moonlike face against the wall, He left on it the blood that flowed from His wounds. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 6)
 
 এইমত মহাপ্রভু রাত্রি দিবসে ৷  
 প্রেমসিন্ধু-মগ্ন রহে, কভু ডুবে, ভাসে ॥ ৭৭ ॥
 
 ei-mata mahāprabhu rātri divase  
-prema-sindhu-magna rahe, kabhu ḍube, bhāse
+in this way  Mahāprabhu  night  and day  
+prema-sindhu-magna rahe, kabhu ḍube, bhāse  
+in the ocean of love  immersed  remains  now  sinks  floats
 
-(77) [not yet translated]
+(77) In this way, night and day, Mahāprabhu remained immersed in the ocean of love, now sinking, now rising to the surface.
 
 এককালে বৈশাখের পৌর্ণমাসী-দিনে ৷  
 রাত্রিকালে মহাপ্রভু চলিলা উদ্যানে ॥ ৭৮ ॥
 
 eka-kāle vaiśākhera paurṇamāsī-dine  
-rātri-kāle mahāprabhu calilā udyāne
+one  time  of Vaiśākha  on the full-moon  day  
+rātri-kāle mahāprabhu calilā udyāne  
+at night  Mahāprabhu  went  to a garden
 
-(78) [not yet translated]
+(78) Once, on the full-moon day of the month of Vaiśākha, Mahāprabhu went to a garden at night.
 
 ‘জগন্নাথবল্লভ’ নাম উদ্যান প্রধানে ৷  
 প্রবেশ করিলা প্রভু লঞা ভক্তগণে ॥ ৭৯ ॥
 
 ‘jagannātha-vallabha’ nāma udyāna pradhāne  
-praveśa karilā prabhu lañā bhakta-gaṇe
+Jagannātha-vallabha  named  of gardens  the foremost  
+praveśa karilā prabhu lañā bhakta-gaṇe  
+entry  made  the Lord  taking  the devotees
 
-(79) [not yet translated]
+(79) Taking the devotees with Him, the Lord entered the foremost of gardens, named Jagannātha-vallabha.
 
 প্রফুল্লিত বৃক্ষ-বল্লী, — যেন বৃন্দাবন ৷  
 শুক, শারী, পিক, ভৃঙ্গ করে আলাপন ॥ ৮০ ॥
 
 praphullita vṛkṣa-vallī, — yena vṛndāvana  
-śuka, śārī, pika, bhṛṅga kare ālāpana
+blossoming  trees  creepers  like  Vṛndāvana  
+śuka, śārī, pika, bhṛṅga kare ālāpana  
+parrots  female parrots  cuckoos  bees  make  conversation
 
-(80) [not yet translated]
+(80) The trees and creepers were in full bloom, as in Vṛndāvana, and parrots — *śukas* and *śārīs* — cuckoos and bees were all conversing.
 
 পুষ্পগন্ধ লঞা বহে মলয়-পবন ৷  
 ‘গুরু’ হঞা তরুলতায় শিখায় নাচন ॥ ৮১ ॥
