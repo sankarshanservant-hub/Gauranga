@@ -923,7 +923,7 @@ then  there was  word against word
 tabe haila yuddha ‘nakhānakhi’  
 then  there was  battle  nail against nail
 
-(87) First they fought water against water, then hand against hand, after that face to face, then breast to breast; then came a battle of words, and then a battle of nails.[^20]
+(87) First they fought water against water, then hand against hand, after that face to face, then chest to chest; then came a battle of words, and then a battle of nails.[^20]
 
 সহস্র-করে জল সেকে, সহস্র নেত্রে গোপী দেখে,  
 সহস্র-পদে নিকট গমনে ৷  
@@ -1525,7 +1525,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^19]: *Amṛta-pravāha-bhāṣya*: the gopīs, like steady flashes of lightning, showered water on Kṛṣṇa, dark as a new cloud, and the cloud — Kṛṣṇa — showered water back upon the lightning.
 
-[^20]: The *Anubhāṣya* gives a variant reading: *radā-radi* (“tooth against tooth”) for *hṛdā-hṛdi* (“breast to breast”).
+[^20]: The *Anubhāṣya* gives a variant reading: *radā-radi* (“tooth against tooth”) for *hṛdā-hṛdi* (“chest to chest”).
 
 [^21]: *Amṛta-pravāha-bhāṣya*: a lotus leaf served them like a hand to cover the body; some let down their hair and imagined it a lower garment, and others made a bodice of their hands. The *Anubhāṣya* gives a variant reading: “made a bodice in a svastika” — apparently, with arms crossed over the breast.
 

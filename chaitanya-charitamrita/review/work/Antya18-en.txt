@@ -477,8 +477,8 @@ w: after that  battle  face to face
 w: then  battle  heart to heart
 w: then  there was  word against word
 w: then  there was  battle  nail against nail
-tr: First they fought water against water, then hand against hand, after that face to face, then breast to breast; then came a battle of words, and then a battle of nails.
-fn: The *Anubhāṣya* gives a variant reading: *radā-radi* (“tooth against tooth”) for *hṛdā-hṛdi* (“breast to breast”).
+tr: First they fought water against water, then hand against hand, after that face to face, then chest to chest; then came a battle of words, and then a battle of nails.
+fn: The *Anubhāṣya* gives a variant reading: *radā-radi* (“tooth against tooth”) for *hṛdā-hṛdi* (“chest to chest”).
 
 ## 88
 w: with a thousand  hands  water  sprinkles
