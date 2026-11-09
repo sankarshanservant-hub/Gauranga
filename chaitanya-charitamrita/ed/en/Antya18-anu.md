@@ -70,7 +70,7 @@ Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs
 
 Śrī Śukadeva, the *mahā-bhāgavata*, the crest jewel of the line of *paramahaṁsas*, describes to Parīkṣit, whose heart is pure, the transcendental *rāsa* pastime of Bhagavān Śrī Kṛṣṇa with the transcendental gopīs:
 
-**śrāntaḥ**, **saḥ** (Śrī Kṛṣṇa) **śramam** (the fatigue of play) **apohitum** (to remove) **aṅga-saṅga-ghṛṣṭa-srajaḥ** (of the garland [*srak*] of *kunda* flowers crushed [*ghṛṣṭā*, *sammarditā*] by bodily contact; and therefore) **kuca-kuṅkuma-rañjitāyāḥ** (colored with the kuṅkuma of the breasts; [by bees] connected with it) **gandharva-pālibhiḥ** (*gandharva-pāḥ* are the lords of the Gandharvas; by bees that sing like them) **anudrutaḥ** (followed) **tābhiḥ** **yutaḥ** **bhinna-setuḥ** (having broken through the embankment; as for Kṛṣṇa, Bhagavān Himself, having transgressed the bounds of worldly convention)[^25-1] **gajībhiḥ** **ibha-rāṭ** (the king of elephants) **iva** **vāḥ** (the water) **āviśat** (entered).
+**śrāntaḥ**, **saḥ** (Śrī Kṛṣṇa) **śramam** (the fatigue of play) **apohitum** (to remove) **aṅga-saṅga-ghṛṣṭa-srajaḥ** (of the garland [*srak*] of *kunda* flowers crushed [*ghṛṣṭā*, *sammarditā*] by bodily contact; and therefore) **kuca-kuṅkuma-rañjitāyāḥ** (colored with the kuṅkuma of the breasts; [by bees] connected with it) **gandharva-pālibhiḥ** (*gandharva-pāḥ* are the lords of the Gandharvas; by bees that sing like them) **anudrutaḥ** (followed) **tābhiḥ** **yutaḥ** **bhinna-setuḥ** (having broken through the embankment; as for Kṛṣṇa, Bhagavān Himself, having transgressed the bounds of worldly convention) **gajībhiḥ** **ibha-rāṭ** (the king of elephants) **iva** **vāḥ** (the water) **āviśat** (entered).
 
 ## 26
 
@@ -265,8 +265,6 @@ Here *gaṅgājala* and all the rest are sweet balls (*nāḍu*) and various cak
 ---
 
 [^1-1]: The edition reads নিরসন্ (*nirasan*), a misprint for নিবসন্ (*nivasan*, “remaining”), as in the verse.
-
-[^25-1]: The verse translation differs: there the words about breaking through the barriers refer only to the king of elephants; the commentator applies them also to Kṛṣṇa.
 
 [^40-1]: Prakrit; the sense is “love (affection) fears harm.” The exact Sanskrit form of these lines is not given; in commentaries on the drama the thought appears as the proverb *atisnehaḥ pāpa-śaṅkī*.
 
