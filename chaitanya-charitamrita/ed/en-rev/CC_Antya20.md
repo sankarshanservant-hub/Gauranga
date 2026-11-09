@@ -1134,7 +1134,7 @@ of you all  the dust of the feet  I have made  worship
 tāte caitanya līlā haila, ye kichu likhana  
 by that  Caitanya’s  pastimes  came about  what  little  writing
 
-(101) I have worshipped the dust of the feet of you all; by that has come about whatever little I have written of Caitanya’s pastimes.[^35]
+(101) I have worshipped the dust of the feet of you all; it is by this that whatever little I have written of Caitanya’s pastimes has come about.[^35]
 
 এবে অন্ত্যলীলাগণের করি অনুবাদ ৷  
 ’অনুবাদ’ কৈলে পাই লীলার ‘আস্বাদ’ ॥ ১০২ ॥
@@ -1234,7 +1234,7 @@ of that  in the midst  ‘Bengali’  poet’s  the play rejection
 svarūpa-gosāñi kailā vigrahera mahimā sthāpana  
 Svarūpa Gosāñi  made  of the Deity  glory  establishment
 
-(111) In it: the rejection of the play of a “Bengali” poet, and Svarūpa Gosāñi’s establishing the glory of the Deity (*vigraha*).
+(111) In it: the rejection of a “Bengali” poet’s play, and how Svarūpa Gosāñi established the glory of the Deity (*vigraha*).
 
 ষষ্ঠে — রঘুনাথ-দাস প্রভুরে মিলিলা ৷  
 নিত্যানন্দ-আজ্ঞায় চিড়া-মহোৎসব কৈলা ॥ ১১২ ॥
@@ -1274,7 +1274,7 @@ in the eighth  —  of Rāmacandra Purī  the arrival
 tām̐ra bhaye kailā prabhu bhikṣā saṅkocana  
 of him  out of fear  made  the Lord  meals  reduction
 
-(115) In the eighth: the arrival of Rāmacandra Purī, out of fear of whom the Lord reduced His meals.
+(115) In the eighth: the arrival of Rāmacandra Purī, for fear of whom the Lord reduced His meals.
 
 নবমে — গোপীনাথ-পট্টনায়ক-মোচন ৷  
 ত্রিজগতের লোক প্রভুর পাইল দরশন ॥ ১১৬ ॥

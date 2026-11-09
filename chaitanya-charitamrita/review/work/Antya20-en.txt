@@ -577,7 +577,7 @@ tr: If I did not say it, I would be guilty of ingratitude. Though I speak as if 
 ## 101
 w: of you all  the dust of the feet  I have made  worship
 w: by that  Caitanya’s  pastimes  came about  what  little  writing
-tr: I have worshipped the dust of the feet of you all; by that has come about whatever little I have written of Caitanya’s pastimes.
+tr: I have worshipped the dust of the feet of you all; it is by this that whatever little I have written of Caitanya’s pastimes has come about.
 fn: Heading in the edition: obeisance to the listeners.
 
 ## 102
@@ -629,7 +629,7 @@ tr: In the fifth: the Lord’s mercy to Pradyumna Miśra, whom He sent to hear t
 ## 111
 w: of that  in the midst  ‘Bengali’  poet’s  the play rejection
 w: Svarūpa Gosāñi  made  of the Deity  glory  establishment
-tr: In it: the rejection of the play of a “Bengali” poet, and Svarūpa Gosāñi’s establishing the glory of the Deity (*vigraha*).
+tr: In it: the rejection of a “Bengali” poet’s play, and how Svarūpa Gosāñi established the glory of the Deity (*vigraha*).
 
 ## 112
 w: in the sixth  —  Raghunātha dāsa  the Lord  met
@@ -650,7 +650,7 @@ tr: In the seventh chapter: the meeting with Vallabha Bhaṭṭa, whose pride th
 ## 115
 w: in the eighth  —  of Rāmacandra Purī  the arrival
 w: of him  out of fear  made  the Lord  meals  reduction
-tr: In the eighth: the arrival of Rāmacandra Purī, out of fear of whom the Lord reduced His meals.
+tr: In the eighth: the arrival of Rāmacandra Purī, for fear of whom the Lord reduced His meals.
 
 ## 116
 w: in the ninth  —  Gopīnātha Paṭṭanāyaka’s release
