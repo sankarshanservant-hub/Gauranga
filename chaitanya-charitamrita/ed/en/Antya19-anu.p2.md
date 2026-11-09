@@ -162,7 +162,7 @@ Seeing the bee at her feet, as if it had fallen at her toes to beg pardon for an
 
 “We know how powerful talk of Kṛṣṇa is: it destroys the creeper of the three aims of life (*trivarga*) — *dharma*, *artha* and *kāma*. Having drunk with their ears a drop of the nectar of Kṛṣṇa's pastimes, people become free of attachment and aversion and give up everything. Renouncing enjoyment, they live by begging like birds, and suddenly abandon their homes and kin, full of misery as these are. Even if this is fitting, we are not able to do it.” (7)
 
-“We believed His false words as truth, as a foolish doe believes the hunter’s song. And again and again we, Kṛṣṇa's beloveds, have felt the sharp pain of love from the touch of His nails. O messenger, speak of something else.” (8)
+“We believed His false words as truth, as a foolish doe believes the hunter's song. And again and again we, Kṛṣṇa's beloveds, have felt the sharp pain of love from the touch of His nails. O messenger, speak of something else.” (8)
 
 “O messenger, just as a foolish bird trusts the hunter's song and suffers with an arrow in its heart, so we trusted Kṛṣṇa's words and have found pain. The sharp pain of love (Madana) from the touch of Kṛṣṇa's nails is burning me — speak of something else.” (8)
 
@@ -173,4 +173,64 @@ Having heard all this, the bee flew away and then came back. Seeing this, the *g
 “O gentle one! Alas, Nanda’s son now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (10)
 
 Addressing the bee as “gentle one,” the *gopī*, overflowing with emotion, says: “Having returned from His teacher's house, the Ārya-putra now lives happily in the city of Mathurā and has forgotten the maidens of Vraja. Does He not remember His father's home? We were His maidservants — has He forgotten us so completely that He never speaks of us? When will He consider me worthy of His care and touch me? When will He place His hand, fragrant with *aguru*, on the *gopī's* head?” (10)
+
+## 108
+
+> Subheading: Even the greatest scholars whose knowledge comes from the senses — those bent on pleasing their own senses, who think themselves learned and are intoxicated with material learning — are unable to understand the transcendental *rasa* of separation (*vipralambha*) —
+
+(b) The songs of the queens, as at the end of the Tenth Canto: see *Śrīmad-Bhāgavatam* 10.90.15–24. Namely:
+
+“O *kurarī*! At night, when the whole world sleeps and the Lord sleeps with His awareness hidden, you do not lie down: sleep has left you and you lament. Can it be, friend, that your heart too, like ours, has been deeply pierced by the generous, playful glance of the smiling Lotus-eyed One?” (1)
+
+Having finished their water pastimes, the queens, their hearts absorbed in thoughts of Kṛṣṇa, sank into reflection: “O friend *kurarī*, now, at night, the Lord sleeps, while we stay awake for Kṛṣṇa. His sweet sleep is broken; seeing what has become of us, you weep. Why do you not sleep? Are you wholly absorbed in thinking of Kṛṣṇa, or has His smiling glance pierced you?” Kṛṣṇa's sweet smile, a heart pierced by His glance — such are the feelings of the queens. “Everything that happened to us has happened to you,” the queens all say to her together. (1)
+
+“O *cakravākī*! At night you do not see your companion; you close your eyes and cry piteously. Or, like us, have you become a maidservant of Acyuta, and do you wish to wear in your braid the garland His feet have touched?” (2)
+
+“O *cakravākī*, at night you do not see your companion; you do not open your eyes, and in grief you cry piteously. Or are you remembering something and longing to place on your head the garland that Acyuta's feet have touched and that delights the queens? Tell us plainly, *cakravākī*, why you weep, so that the queens may understand.” (2)
+
+“O ocean! You roar all the time; sleep does not come to you, and you stay awake without end. Or has Mukunda taken away your marks, and have you, like us, fallen into a hopeless state?” (3)
+
+“O ocean, it is not written in your fate to sleep at night or to know happiness. Staying awake and weeping is your lot: your heart is broken, like ours. Mukunda carefully wiped away the marks of *kuṅkuma* and the rest from the queens. Has He not dealt with you in the same way, ocean, and have you not come to the same state?” (3)
+
+“O moon! A grave consumption has seized you: you have wasted away, and with your rays you do not dispel the darkness. Or, like us, have you forgotten Mukunda's words, so that you seem to us to have fallen silent?” (4)
+
+“O moon, consumption has stricken you badly, and with your radiance you cannot dispel the darkness. Or have you lost your way singing of Kṛṣṇa and stopped spending words? We see that you belong to our circle.” (4)
+
+“O breeze from the Malaya hills, how have we displeased you, that you kindle love in our hearts, already pierced by Govinda's glance?” (5)
+
+“Listen, Malaya breeze: what is so wrong in our conduct? Our hearts are pierced by Govinda's glance, and you, so skilled at sending Kandarpa — are you taking revenge on us?” (5)
+
+“O handsome cloud! Surely you are dear to the Lord of the Yādavas, and, like us, bound by love, you think of Him who bears the mark of Śrīvatsa. Like us, you are full of longing, your heart is troubled, and remembering Him again and again, you shed streams of tears. Association with Him brings only sorrow.” (6)
+
+“Listen, cloud, friend of Kṛṣṇa: like the queens bound by love, you think of the Śrīvatsa mark. You meditate on Kṛṣṇa's company, die of longing and grief, and seem to shed streams of tears.” (6)
+
+“O sweet-voiced cuckoo! With a voice that revives the dead you repeat the sounds of my Beloved's voice. Tell me, what can I do today to please you?” (7)
+
+“Listen, sweet-voiced cuckoo: you imitate so skillfully, and your speech revives the dead. Tell us how the queens may please you, and we will do just that.” (7)
+
+“O wise mountain! You do not move or speak — surely you are pondering something great. Or, like us, do you wish to hold the feet of Vasudeva's son to your breast?” (8)
+
+“O wise mountain, you are motionless, the best of silent ones, absorbed in thoughts of something great. Like us, you have vowed to keep the feet of Vasudeva's son in your heart.” (8)
+
+“Alas, O rivers, wives of the ocean! Your pools are drying up; you have grown thin and lost the beauty of your lotuses — just as we, not receiving the loving glance of the Lord of Madhu, our dear husband, have wasted away with hearts laid bare.” (9)
+
+“O rivers, wives of the ocean, I see that your water has dried up and the beauty of the lotuses is gone. You have grown thin, lost your joy in the summer heat, and no longer increase the ocean's happiness. All the queens are wretched: their hearts are parched, their bodies wasted; they are deprived of the love of the Lord of Madhu. Are you not the same — without water, robbed of beauty, deprived of His loving glance?” (9)
+
+“Welcome, swan! Sit down, drink milk and tell us, dear one, about Śauri. We know you are His messenger. Is the Unconquerable One well? Does He, whose friendship is fickle, remember the words He once spoke to us? Why should we serve Him? O servant of a petty master, call Him here, the fulfiller of desires — but without Śrī. Is she the only woman wholly devoted to Him?” (10)
+
+“Welcome, swan; we greet you warmly. Drink milk and tell us Kṛṣṇa's message. We have always known you as Kṛṣṇa's messenger. Has Hari sent us any word? We want to know: is Kṛṣṇa happy? Does He not remember us at all? Lakṣmī alone serves Him, and we are maidservants. Why should we choose one who spends words but does not fulfill desires?” (10)
+
+## 109
+
+> Subheading: Faith in the Lord's transcendental pastimes of separation awakens only by the power of the mercy of the servants of the guru (Nityānanda) and of Gaurāṅga —
+
+## 110
+
+> Subheading: Only by following the mood of separation (*vipralambha*) born in the Lord from separation from Kṛṣṇa does one become free of *anarthas* and attain love for Kṛṣṇa —
+
+## 111
+
+> Subheading: The nectar of Śrī Caitanya's pastimes — an elixir for the heart and ears, eternally new and ever renewing itself —
+
+*Thus ends the nineteenth chapter of the “Anubhāṣya.”*
 
