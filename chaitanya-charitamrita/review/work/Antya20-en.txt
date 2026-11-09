@@ -100,7 +100,7 @@ fn: *Amṛta-pravāha-bhāṣya*: Your name alone brings every good to the jīva
 ## 17
 w: of many  people  the desires  of many  kinds
 w: out of mercy  You made  many  names’  propagation
-tr: “Different people have desires of many kinds, so out of mercy You have spread many names.
+tr: “Different people have desires of many kinds, so in Your mercy You have made known many names.
 
 ## 18
 w: while eating  while lying down  wherever  whenever  the name  one takes
@@ -110,7 +110,7 @@ tr: Whether eating or lying down, wherever one may be, one can chant the name. T
 ## 19
 w: all  potency  in the names  You gave  making  division
 w: my  misfortune  for the name  there is no  attachment
-tr: You divided all Your potency among the names and gave it to them. But such is my misfortune: I have no attachment for the name!”
+tr: In each of the names You have invested all Your potency. But such is my misfortune: I have no attachment for the name!”
 
 ## 20
 w: in what way  by taking  the name  love  is born
@@ -200,7 +200,7 @@ tr: Be merciful and make me like a speck of dust at Your feet, so that as Your s
 ## 35
 w: again  intense  longing  humility  there was  an arising
 w: from Kṛṣṇa  He begs  with love  of the name  the chanting
-tr: Again intense longing and humility arose in Him, and He begged Kṛṣṇa for the chanting of the holy name with love.
+tr: Again intense longing and humility arose in Him, and He begged Kṛṣṇa that He might chant the holy name with love.
 
 ## 36
 w: eyes  of streaming  tears  with a flow
@@ -319,7 +319,7 @@ w: a beloved  with Kṛṣṇa  shows  anger  Kṛṣṇa  gets  satisfaction
 w: joy  He gets  from scolding and rebuke
 w: as is fitting  she shows  pique  Kṛṣṇa  in that  joy  gets
 w: she gives up  her pique  with a little  coaxing
-tr: When a beloved is angry with Kṛṣṇa, He is pleased and takes joy in her scolding and rebukes. When, as is fitting, she shows loving pique (*māna*), Kṛṣṇa delights in it, and at a little coaxing she lets it go.
+tr: When a beloved is angry with Kṛṣṇa, He is pleased and takes joy in her scolding and rebukes. When, as is fitting, she shows loving pique (*māna*), it gives Him delight, and at a little coaxing she lets it go.
 
 ## 55
 w: that  woman  lives  why  Kṛṣṇa’s heart  not  knows
@@ -493,7 +493,7 @@ tr: Although the storehouse of all the pastimes lay before him, he described onl
 ## 84
 w: what  little  I have described  that too  brief  making
 w: to write  not  he could  yet  he has kept  having written
-tr: What little I have described, I too have told in brief: these are the things he could not write out in full, yet he left them recorded.
+tr: Even the little I have described I have told only in brief — things he could not write out in full, though he did record them.
 
 ## 85
 w: in the Caitanya-maṅgala  he  has written  here and there
@@ -577,7 +577,7 @@ tr: If I did not say it, I would be guilty of ingratitude. Though I speak as if 
 ## 101
 w: of you all  the dust of the feet  I have made  worship
 w: by that  Caitanya’s  pastimes  came about  what  little  writing
-tr: I have worshipped the dust of the feet of you all; it is by this that whatever little I have written of Caitanya’s pastimes has come about.
+tr: I have bowed down to the dust of the feet of you all, and by this the little I have written of Caitanya’s pastimes came to be.
 fn: Heading in the edition: obeisance to the listeners.
 
 ## 102
@@ -599,7 +599,7 @@ tr: In it a dog came with Śivānanda, and the Lord, making it say “Kṛṣṇ
 ## 105
 w: in the second  —  to Choṭa Haridāsa  caused  instruction
 w: of that  in the midst  Śivānanda’s  wonderful  vision
-tr: In the second: the lesson the Lord gave Choṭa Haridāsa, and in it Śivānanda’s wonderful vision.
+tr: In the second: the lesson the Lord gave Choṭa Haridāsa, and Śivānanda’s wonderful vision.
 
 ## 106
 w: in the third  —  of Haridāsa  the glory  mighty
@@ -609,7 +609,7 @@ tr: In the third: the mighty glory of Haridāsa, and Dāmodara Paṇḍita’s r
 ## 107
 w: the Lord  ‘the Name’  giving  made  the universe’s deliverance
 w: Haridāsa  made  of the Name  the glory’s establishment
-tr: By giving the Holy Name, the Lord delivered the universe, and Haridāsa established the glory of the Name.
+tr: By giving the holy name, the Lord delivered the universe, and Haridāsa established the glory of the name.
 
 ## 108
 w: in the fourth  —  of Śrī Sanātana  the second meeting
@@ -660,7 +660,7 @@ tr: In the ninth: the release of Gopīnātha Paṭṭanāyaka; and the people of
 ## 117
 w: in the tenth  —  I told  the relishing of what the devotees gave
 w: of Rāghava Paṇḍita  there  of the bags  the packing
-tr: In the tenth I told of the Lord’s relishing what the devotees gave Him, and there of how Rāghava Paṇḍita packed his bags (*jhāli*).
+tr: In the tenth I told how the Lord relished what the devotees gave Him, and how Rāghava Paṇḍita packed his bags (*jhāli*).
 
 ## 118
 w: of that  in the midst  of Govinda  made  testing
@@ -690,7 +690,7 @@ tr: There too is the meeting with Raghunātha Bhaṭṭācārya, whom the Lord i
 ## 123
 w: in the fourteenth  —  of the divine madness the beginning  the description
 w: ‘body’  here  the Lord’s  ‘mind’  went  to Vṛndāvana
-tr: In the fourteenth: the description of the beginning of the divine madness — the Lord’s “body” was here, His “mind” had gone to Vṛndāvana.
+tr: In the fourteenth: the beginning of the divine madness, when the Lord’s “body” was here and His “mind” had gone to Vṛndāvana.
 
 ## 124
 w: of that  in the midst  the Lord’s  at the Siṁha-dvāra  fall
@@ -720,7 +720,7 @@ tr: In the sixteenth the Lord showed mercy to Kālidāsa and revealed the fruit 
 ## 129
 w: Śivānanda’s  the boy  a verse  caused to compose
 w: of the Siṁha-dvāra  the doorkeeper  to the Lord  Kṛṣṇa  showed
-tr: The Lord had Śivānanda’s boy compose a verse, and the doorkeeper of the Siṁha-dvāra showed Kṛṣṇa to the Lord.
+tr: The Lord had Śivānanda’s young son compose a verse, and the doorkeeper of the Siṁha-dvāra showed Kṛṣṇa to the Lord.
 
 ## 130
 w: of mahā-prasāda  there  the glory  described
@@ -730,7 +730,7 @@ tr: There He described the glory of *mahā-prasāda* and relished the verse on t
 ## 131
 w: in the seventeenth  —  among the cows  the Lord’s  fall
 w: of the tortoise-form ecstatic symptom  there  the rise
-tr: In the seventeenth: the Lord’s fall among the cows, and there the appearance of the ecstatic symptom of His tortoise-like form.
+tr: In the seventeenth: the Lord’s fall among the cows, and the ecstatic symptom (*anubhāva*) in which His body took the form of a tortoise.
 
 ## 132
 w: Kṛṣṇa’s  by the qualities of sound  the Lord’s  mind  was drawn
@@ -755,12 +755,12 @@ tr: There too He saw Kṛṣṇa’s meal in the forest. A fisherman pulled Him 
 ## 136
 w: in the nineteenth  —  against the wall  the Lord’s  face rubbing
 w: Kṛṣṇa’s  separation-awakened raving  the description
-tr: In the nineteenth: the Lord’s rubbing His face against the wall, and the description of His raving as separation from Kṛṣṇa flashed within Him.
+tr: In the nineteenth: the Lord’s rubbing His face against the wall, and His ravings as separation from Kṛṣṇa welled up within Him.
 
 ## 137
 w: on a spring night  in the flower garden  wandering
 w: Kṛṣṇa’s  of the fragrance verse  the meaning-explanation
-tr: His wandering in a flower garden on a spring night, and His explanation of the verse on Kṛṣṇa’s fragrance.
+tr: There too: His wandering in a flower garden on a spring night, and His explanation of the verse on Kṛṣṇa’s fragrance.
 
 ## 138
 w: in the twentieth chapter  —  His own ‘Śikṣāṣṭaka’  reciting
@@ -770,7 +770,7 @@ tr: In the twentieth chapter: reciting His own *Śikṣāṣṭaka*, the Lord, a
 ## 139
 w: the devotees  to teach  which  Śikṣāṣṭaka  He spoke
 w: of those  eight verses  the meaning  again  relished
-tr: The *Śikṣāṣṭaka* He had spoken to teach the devotees — the meaning of those eight verses He relished once more.
+tr: He had spoken the *Śikṣāṣṭaka* to teach the devotees, and now He relished the meaning of those eight verses once more.
 
 ## 140
 w: of the principal pastimes  the substance  I have made  telling
@@ -846,7 +846,7 @@ w: the life-story  nectarean  this  of Śrīla Caitanya  Viṣṇu
 w: bestowing good  destroying evil  with faith would relish  who
 w: at his (the relisher’s) spotless lotus feet  bee-hood  attaining  he  this one (the author)
 w: relishes  rasa  intensely  full of the honey-wine of prema
-tr: This nectarean account of the life of Śrīla Caitanya, who is Viṣṇu Himself, bestows all good and destroys all evil. At the spotless lotus feet of whoever relishes it with faith I become a bee, and I relish to the full the rasa that overflows with the intoxicating honey of prema.
+tr: This nectarean account of the life of Śrīla Caitanya, who is Viṣṇu Himself, bestows all good and destroys all evil. At the spotless lotus feet of whoever relishes it with faith I become a bee, and drink to the full the rasa that overflows with the intoxicating honey of prema.
 fn: *Tad-* (“his”) answers *yaḥ* (“whoever”), and *so ’yam* (“this very one”) is the author himself; so the verse is read by the heading in the edition — “the author’s words of humility” (cf. 151–152, where the author drinks the water that has washed the listener’s feet). The stage-A translation followed another reading: “whoever relishes it with faith becomes a bee at His spotless lotus feet”.
 fn: *Amṛta-pravāha-bhāṣya*: at the spotless lotus feet of one who with faith relishes this account, which bestows good and destroys all evil, this writer becomes a bee and relishes to the full the rasa filled with the intoxicating honey of prema.
 
@@ -863,8 +863,8 @@ w: by whose fragrance  perfumed  the world
 w: by its own rasa  intoxicated  the rasa-knowing  bees
 w: Giridhara’s  lotus feet  who
 w: indeed  rasika  seeks  to abandon
-tr: The lotus feet of Giridhara fill the world with their fragrance, and with their own rasa they intoxicate the bees who know rasa. What *rasika* would ever seek to abandon them?
-fn: So in the Gauḍīya Maṭha edition and the *Anubhāṣya*: *rasajña-rolambam*, “bees who know rasa” — according to the *Anubhāṣya*, the *rasika* devotees intoxicated by the rasa of conjugal love (*śṛṅgāra*). Other manuscripts read *rasikālambam*, “the shelter of the *rasikas*”. According to the *Anubhāṣya* (on verse 158), verses 156–158 are not found in many manuscripts. Heading in the edition: the lotus feet of Kṛṣṇa alone are the transcendental, boundless reservoir of rasa.
+tr: The lotus feet of Giridhara fill the world with their fragrance, and with their own rasa they intoxicate the bees who know rasa. What *rasika* could ever bear to leave them?
+fn: So in the Gauḍīya Maṭha edition and the *Anubhāṣya*: *rasajña-rolambam*, “bees who know rasa” — according to the *Anubhāṣya*, the *rasika* devotees intoxicated by the sweet rasa, *śṛṅgāra*. Other manuscripts read *rasikālambam*, “the shelter of the *rasikas*”. According to the *Anubhāṣya* (on verse 158), verses 156–158 are not found in many manuscripts. Heading in the edition: the lotus feet of Kṛṣṇa alone are the transcendental, boundless reservoir of rasa.
 
 ## 157
 w: of my life  the all-in-all  of the lotus feet  of the dust
