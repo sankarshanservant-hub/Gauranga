@@ -414,321 +414,401 @@ harm  fearing  of loved ones  hearts  are  indeed
 চিরায়ু-পর্ব্বত-দিকে কতজন গেলা ॥ ৪১ ॥
 
 samudrera tīre āsi’ yukati karilā  
-cirāyu-parvata-dike kata-jana gelā
+of the ocean  to the shore  coming  counsel  took  
+cirāyu-parvata-dike kata-jana gelā  
+Cirāyu  hill  towards  some people  went
 
-(41) [not yet translated]
+(41) Coming to the seashore, they took counsel together, and some of them went towards Cirāyu-parvata (Caṭaka-parvata).
 
 পূর্ব্ব-দিশায় চলে স্বরূপ লঞা কত জন ৷  
 সিন্ধু-তীরে-নীরে করেন প্রভুর অন্বেষণ ॥ ৪২ ॥
 
 pūrva-diśāya cale svarūpa lañā kata jana  
-sindhu-tīre-nīre karena prabhura anveṣaṇa
+eastern  direction  goes  Svarūpa  taking  some  people  
+sindhu-tīre-nīre karena prabhura anveṣaṇa  
+of the ocean  on the shore  in the water  makes  the Lord’s  search
 
-(42) [not yet translated]
+(42) Svarūpa went east with a few others, searching for the Lord along the shore and in the waters of the sea.
 
 বিষাদে বিহ্বল সবে, নাহিক ‘চেতন’ ৷  
 তবু প্রেমে বুলে করি’ প্রভুর অন্বেষণ ॥ ৪৩ ॥
 
 viṣāde vihvala sabe, nāhika ‘cetana’  
-tabu preme bule kari’ prabhura anveṣaṇa
+with grief  overwhelmed  all  not  consciousness  
+tabu preme bule kari’ prabhura anveṣaṇa  
+yet  in love  wander  making  the Lord’s  search
 
-(43) [not yet translated]
+(43) They were all overwhelmed with grief and hardly conscious, yet, moved by love, they kept wandering in search of the Lord.
 
 দেখেন — এক জালিয়া আইসে কান্ধে জাল করি’ ৷  
 হাসে, কান্দে, নাচে, গায়, বলে ‘হরি’ ‘হরি’ ॥ ৪৪ ॥
 
 dekhena — eka jāliyā āise kāndhe jāla kari’  
-hāse, kānde, nāce, gāya, bale ‘hari’ ‘hari’
+they see  a  fisherman  comes  on his shoulder  net  carrying  
+hāse, kānde, nāce, gāya, bale ‘hari’ ‘hari’  
+laughs  weeps  dances  sings  says  Hari  Hari
 
-(44) [not yet translated]
+(44) Then they saw a fisherman coming along with his net on his shoulder. He was laughing, weeping, dancing and singing, and saying, “Hari! Hari!”
 
 জালিয়ার চেষ্টা দেখি’ সবার চমৎকার ৷  
 স্বরূপ-গোসাঞি তারে পুছেন সমাচার ॥ ৪৫ ॥
 
 jāliyāra ceṣṭā dekhi’ sabāra camatkāra  
-svarūpa-gosāñi tāre puchena samācāra
+the fisherman’s  behaviour  seeing  of all  wonder  
+svarūpa-gosāñi tāre puchena samācāra  
+Svarūpa  Gosāñi  him  asks  news
 
-(45) [not yet translated]
+(45) Everyone was astonished to see how the fisherman was behaving, and Svarūpa Gosāñi asked him what had happened:
 
 কহ, জালিয়া, এইদিকে দেখিলা একজন ?  
 তোমার এই দশা কেনে, — কহ ত’ কারণ ? ॥ ৪৬ ॥
 
 kaha, jāliyā, ei-dike dekhilā eka-jana?  
-tomāra ei daśā kene, — kaha ta’ kāraṇa?
+tell  fisherman  this  way  did you see  one person  
+tomāra ei daśā kene, — kaha ta’ kāraṇa?  
+your  this  state  why  tell  please  the reason
 
-(46) [not yet translated]
+(46) “Tell us, fisherman, have you seen someone around here? And why are you in such a state? Tell us the reason.”
 
 জালিয়া কহে, — ইঁহা এক মনুষ্য না দেখিল ৷  
 জাল বাহিতে এক মৃত মোর জালে আইল ॥ ৪৭ ॥
 
 jāliyā kahe, — iṅhā eka manuṣya nā dekhila  
-jāla vāhite eka mṛta mora jāle āila
+the fisherman  says  here  a single  man  not  I saw  
+jāla vāhite eka mṛta mora jāle āila  
+the net  while drawing  a  dead body  my  into the net  came
 
-(47) [not yet translated]
+(47) The fisherman said, “I have not seen a single person here. But as I was drawing in my net, a dead body came into it.
 
 বড় মৎস্য বলি’ আমি উঠাইলুঁ যতনে ৷  
 মৃতক দেখিতে মোর ভয় হৈল মনে ॥ ৪৮ ॥
 
 baḍa matsya bali’ āmi uṭhāiluṅ yatane  
-mṛtaka dekhite mora bhaya haila mane
+a big  fish  thinking  I  hauled up  with effort  
+mṛtaka dekhite mora bhaya haila mane  
+the corpse  on seeing  my  fear  came  in the mind
 
-(48) [not yet translated]
+(48) Thinking it was a big fish, I hauled it up with great effort, but when I saw the corpse my heart was filled with fear.
 
 জাল খসাইতে তার অঙ্গ-স্পর্শ হইল ৷  
 স্পর্শমাত্রে সেই ভূত হৃদয়ে পশিল ॥ ৪৯ ॥
 
 jāla khasāite tāra aṅga-sparśa haila  
-sparśa-mātre sei bhūta hṛdaye paśila
+the net  while freeing  his  body  touch  there was  
+sparśa-mātre sei bhūta hṛdaye paśila  
+at the mere touch  that  spirit  into my heart  entered
 
-(49) [not yet translated]
+(49) As I was freeing the net, I touched his body, and at that very touch the spirit entered my heart.
 
 ভয়ে কম্প হৈল, মোর নেত্রে বহে জল ৷  
 গদ্গদ বাণী, রোম উঠিল সকল ॥ ৫০ ॥
 
 bhaye kampa haila, mora netre vahe jala  
-gadgada vāṇī, roma uṭhila sakala
+from fear  trembling  came  my  from the eyes  flows  water  
+gadgada vāṇī, roma uṭhila sakala  
+choked  voice  hairs  stood up  all
 
-(50) [not yet translated]
+(50) I began to tremble with fear, tears flowed from my eyes, my voice choked, and all my hair stood on end.
 
 কিবা ব্রহ্মদৈত্য, কিবা ভূত, কহনে না যায় ৷  
 দর্শনমাত্রে মনুষ্যের পৈশে সেই কায় ॥ ৫১ ॥
 
 kibā brahma-daitya, kibā bhūta, kahane nā yāya  
-darśana-mātre manuṣyera paiśe sei kāya
+whether  a brahma-daitya  or  a spirit  to say  not  possible  
+darśana-mātre manuṣyera paiśe sei kāya  
+at the mere sight  a man’s  enters  it  body
 
-(51) [not yet translated]
+(51) Whether it is a *brahma-daitya* or a spirit, I cannot say, but the moment anyone sees it, it enters his body.
 
 শরীর দীঘল তার — হাত পাঁচ-সাত ৷  
 একেক-হস্ত-পদ তার, তিন তিন হাত ॥ ৫২ ॥
 
 śarīra dīghala tāra — hāta pāṅca-sāta  
-ekeka-hasta-pada tāra, tina tina hāta
+the body  long  his  cubits  five or seven  
+ekeka-hasta-pada tāra, tina tina hāta  
+each  arm  leg  his  three  three  cubits
 
-(52) [not yet translated]
+(52) His body is long — five or seven cubits — and each of his arms and legs is three cubits long.
 
 অস্থি-সন্ধি ছুটি’ চর্ম্ম করে নড়-বড়ে ৷  
 তাহা দেখি’ প্রাণ কা’র নাহি রহে ধড়ে ॥ ৫৩ ॥
 
 asthi-sandhi chuṭi’ carma kare naḍa-baḍe  
-tāhā dekhi’ prāṇa kā’ra nāhi rahe dhaḍe
+of the bones  joints  coming loose  the skin  makes  hangs slack  
+tāhā dekhi’ prāṇa kā’ra nāhi rahe dhaḍe  
+that  seeing  life  whose  not  stays  in the body
 
-(53) [not yet translated]
+(53) The joints of his bones have come loose, and his skin hangs slack. Who could see that and not have the life frightened out of him?
 
 মড়া-রূপ ধরি’ রহে উত্তান-নয়ন ৷  
 কভু গোঁ গোঁ করে, কভু দেখি অচেতন ॥ ৫৪ ॥
 
 maḍā-rūpa dhari’ rahe uttāna-nayana  
-kabhu goṅ goṅ kare, kabhu dekhi acetana
+a corpse’s  form  taking  stays  upturned  eyes  
+kabhu goṅ goṅ kare, kabhu dekhi acetana  
+sometimes  goṅ goṅ  makes  sometimes  I see  unconscious
 
-(54) [not yet translated]
+(54) He lies there like a corpse, his eyes turned upward. Sometimes he makes a sound — “goṅ, goṅ” — and sometimes I see him lying unconscious.
 
 সাক্ষাৎ দেখেছোঁ, — মোরে পাইল সেই ভূত ৷  
 মুই মৈলে মোর কৈছে জীবে স্ত্রী-পুত্ ॥ ৫৫ ॥
 
 sākṣāt dekhechoṅ, — more pāila sei bhūta  
-mui maile mora kaiche jīve strī-put
+with my own eyes  I have seen  me  has seized  that  spirit  
+mui maile mora kaiche jīve strī-put  
+I  if I die  my  how  will live  wife  children
 
-(55) [not yet translated]
+(55) I have seen him with my own eyes, and that spirit has seized me. If I die, how will my wife and children live?
 
 সেই ত’ ভূতের কথা কহন না যায় ৷  
 ওঝা-ঠাঞি যাইছো, — যদি সে ভূত ছাড়ায় ॥ ৫৬ ॥
 
 sei ta’ bhūtera kathā kahana nā yāya  
-ojhā-ṭhāñi yāicho, — yadi se bhūta chāḍāya
+of that  indeed  spirit  the story  telling  not  possible  
+ojhā-ṭhāñi yāicho, — yadi se bhūta chāḍāya  
+to the exorcist  I am going  if  he  the spirit  drives out
 
-(56) [not yet translated]
+(56) That spirit is beyond describing. I am going to an exorcist — perhaps he can drive the spirit out.
 
 একা রাত্র্যে বুলি’ মৎস্য মারিয়ে নির্জ্জনে ৷  
 ভূত-প্রেত আমার না লাগে ‘নৃসিংহ’-স্মরণে ॥ ৫৭ ॥
 
 ekā rātrye buli’ matsya māriye nirjane  
-bhūta-preta āmāra nā lāge ‘nṛsiṁha’-smaraṇe
+alone  at night  wandering  fish  I catch  in lonely places  
+bhūta-preta āmāra nā lāge ‘nṛsiṁha’-smaraṇe  
+spirits  ghosts  to me  not  attach  Nṛsiṁha  by remembering
 
-(57) [not yet translated]
+(57) I wander alone at night, catching fish in lonely places, yet spirits and ghosts do not touch me, because I remember Nṛsiṁha.
 
 এই ভূত নৃসিংহ-নামে চাপয়ে দ্বিগুণে ৷  
 তাহার আকার দেখিতে ভয় লাগে মনে ॥ ৫৮ ॥
 
 ei bhūta nṛsiṁha-nāme cāpaye dviguṇe  
-tāhāra ākāra dekhite bhaya lāge mane
+this  spirit  at Nṛsiṁha’s  name  presses  twice as hard  
+tāhāra ākāra dekhite bhaya lāge mane  
+his  form  seeing  fear  strikes  the mind
 
-(58) [not yet translated]
+(58) But at the name of Nṛsiṁha this spirit presses on me twice as hard. The mere sight of his form fills my mind with fear.
 
 ওথা না যাইহ, আমি নিষেধি তোমারে ৷  
 তাঁহা গেলে সেই ভূত লাগিবে সবারে ॥ ৫৯ ॥
 
 othā nā yāiha, āmi niṣedhi tomāre  
-tāṅhā gele sei bhūta lāgibe sabāre
+there  not  go  I  forbid  you  
+tāṅhā gele sei bhūta lāgibe sabāre  
+there  if you go  that  spirit  will seize  all
 
-(59) [not yet translated]
+(59) Do not go there — I forbid you! If you go there, that spirit will seize you all.”
 
 এত শুনি’ স্বরূপ-গোসাঞি সব তত্ত্ব জানি’ ৷  
 জালিয়ারে কিছু কয় সুমধুর বাণী ॥ ৬০ ॥
 
 eta śuni’ svarūpa-gosāñi saba tattva jāni’  
-jāliyāre kichu kaya sumadhura vāṇī
+this  hearing  Svarūpa  Gosāñi  the whole  truth  knowing  
+jāliyāre kichu kaya sumadhura vāṇī  
+to the fisherman  some  speaks  very sweet  words
 
-(60) [not yet translated]
+(60) Hearing this, Svarūpa Gosāñi understood the whole truth and spoke some very sweet words to the fisherman:
 
 ‘আমি — বড় ওঝা, জানি ভূত ছাড়াইতে’ ৷  
 মন্ত্র পড়ি’ শ্রীহস্ত দিলা তাহার মাথাতে ॥ ৬১ ॥
 
 ‘āmi — baḍa ojhā, jāni bhūta chāḍāite’  
-mantra paḍi’ śrī-hasta dilā tāhāra māthāte
+I  a great  exorcist  I know how  spirits  to drive out  
+mantra paḍi’ śrī-hasta dilā tāhāra māthāte  
+a mantra  reciting  holy  hand  placed  his  on the head
 
-(61) [not yet translated]
+(61) “I am a great exorcist; I know how to drive out spirits.” Reciting a mantra, he placed his holy hand on the fisherman’s head.
 
 তিন চাপড় মারি’ কহে, — ‘ভূত পলাইল ৷  
 ভয় না পাইহ’ — বলি’ সুস্থির করিল ॥ ৬২ ॥
 
 tina cāpaḍa māri’ kahe, — ‘bhūta palāila  
-bhaya nā pāiha’ — bali’ susthira karila
+three  slaps  giving  says  the spirit  has fled  
+bhaya nā pāiha’ — bali’ susthira karila  
+fear  not  have  saying  calm  made
 
-(62) [not yet translated]
+(62) Giving him three slaps, he said, “The spirit has fled. Do not be afraid!” — and so he calmed him.
 
 একে প্রেম, আরে ভয়, — দ্বিগুণ অস্থির ৷  
 ভয়-অংশ গেল, — সে হৈল কিছু ধীর ॥ ৬৩ ॥
 
 eke prema, āre bhaya, — dviguṇa asthira  
-bhaya-aṁśa gela, — se haila kichu dhīra
+on one side  love  on the other  fear  doubly  restless  
+bhaya-aṁśa gela, — se haila kichu dhīra  
+of fear  the part  went  he  became  somewhat  calm
 
-(63) [not yet translated]
+(63) Love on the one hand and fear on the other had made him doubly restless. Now that the fear was gone, he grew somewhat calmer.
 
 স্বরূপ কহে, — যাঁরে তুমি কর ‘ভূত’-জ্ঞান ৷  
 ভূত নহে — তেঁহো কৃষ্ণচৈতন্য ভগবান্ ॥ ৬৪ ॥
 
 svarūpa kahe, — yāṅre tumi kara ‘bhūta’-jñāna  
-bhūta nahe — teṅho kṛṣṇa-caitanya bhagavān
+Svarūpa  says  whom  you  make  a spirit  the notion  
+bhūta nahe — teṅho kṛṣṇa-caitanya bhagavān  
+a spirit  is not  He  Kṛṣṇa  Caitanya  the Supreme Lord
 
-(64) [not yet translated]
+(64) Svarūpa said, “The one you take for a spirit is no spirit at all. He is Kṛṣṇa Caitanya, the Supreme Lord.
 
 প্রেমাবেশে পড়িলা তেঁহো সমুদ্রের জলে ৷  
 তাঁরে তুমি উঠাইলা আপনার জালে ॥ ৬৫ ॥
 
 premāveśe paḍilā teṅho samudrera jale  
-tāṅre tumi uṭhāilā āpanāra jāle
+absorbed in love  fell  He  of the ocean  into the water  
+tāṅre tumi uṭhāilā āpanāra jāle  
+Him  you  hauled up  in your own  net
 
-(65) [not yet translated]
+(65) Absorbed in love, He fell into the sea, and you hauled Him up in your net.
 
 তাঁর স্পর্শে হইল তোমার কৃষ্ণপ্রেমোদয় ৷  
 ভূত-প্রেত-জ্ঞানে তোমার হৈল মহাভয় ॥ ৬৬ ॥
 
 tāṅra sparśe haila tomāra kṛṣṇa-premodaya  
-bhūta-preta-jñāne tomāra haila mahā-bhaya
+His  by the touch  arose  your  for Kṛṣṇa  love’s awakening  
+bhūta-preta-jñāne tomāra haila mahā-bhaya  
+a spirit  ghost  thinking  your  arose  great  fear
 
-(66) [not yet translated]
+(66) By His touch love for Kṛṣṇa awoke in you, but because you thought He was a spirit or a ghost, you were terribly afraid.
 
 এবে ভয় গেল, তোমার মন হৈল স্থিরে ৷  
 কাঁহা তাঁরে উঠাঞাছ, দেখাহ আমারে ॥ ৬৭ ॥
 
 ebe bhaya gela, tomāra mana haila sthire  
-kāṅhā tāṅre uṭhāñācha, dekhāha āmāre
+now  the fear  has gone  your  mind  has become  calm  
+kāṅhā tāṅre uṭhāñācha, dekhāha āmāre  
+where  Him  you have hauled up  show  me
 
-(67) [not yet translated]
+(67) Now the fear has gone, and your mind is calm. Show me where you hauled Him up.”
 
 জালিয়া কহে, — প্রভুরে দেখ্যাছোঁ বারবার ৷  
 তেঁহো নহেন, এই অতিবিকৃত আকার ॥ ৬৮ ॥
 
 jāliyā kahe, — prabhure dekhyāchoṅ bāra-bāra  
-teṅho nahena, ei ati-vikṛta ākāra
+the fisherman  says  the Lord  I have seen  again and again  
+teṅho nahena, ei ati-vikṛta ākāra  
+He  is not  this  very  distorted  form
 
-(68) [not yet translated]
+(68) The fisherman said, “I have seen the Lord many times. That is not Him — this one has a terribly distorted form.”
 
 স্বরূপ কহে, — তাঁর হয় প্রেমের বিকার ৷  
 অস্থি-সন্ধি ছাড়ে, হয় অতি দীর্ঘাকার ॥ ৬৯ ॥
 
 svarūpa kahe, — tāṅra haya premera vikāra  
-asthi-sandhi chāḍe, haya ati dīrghākāra
+Svarūpa  says  in Him  occur  of love  transformations  
+asthi-sandhi chāḍe, haya ati dīrghākāra  
+of the bones  joints  come apart  becomes  very  long in form
 
-(69) [not yet translated]
+(69) Svarūpa said, “Transformations of love arise in Him. The joints of His bones come apart, and His body becomes very long.”
 
 শুনি’ সেই জালিয়া আনন্দিত হইল ৷  
 সবা লঞা গেল, মহাপ্রভুরে দেখাইল ॥ ৭০ ॥
 
-śuni, sei jāliyā ānandita haila  
-sabā lañā gela, mahāprabhure dekhāila
+śuni’ sei jāliyā ānandita haila  
+hearing  that  fisherman  delighted  became  
+sabā lañā gela, mahāprabhure dekhāila  
+all  taking  went  Mahāprabhu  showed
 
-(70) [not yet translated]
+(70) Hearing this, the fisherman was delighted. He took them all along and showed them Mahāprabhu.
 
 ভূমিতে পড়ি’ আছেন দীর্ঘ সব কায় ৷  
 জলে শ্বেত-তনু, বালু লাগিয়াছে গায় ॥ ৭১ ॥
 
 bhūmite paḍi’ āchena dīrgha saba kāya  
-jale śveta-tanu, bālu lāgiyāche gāya
+on the ground  fallen  He lies  long  whole  body  
+jale śveta-tanu, bālu lāgiyāche gāya  
+from the water  white  body  sand  has stuck  to the body
 
-(71) [not yet translated]
+(71) He was lying on the ground, His whole body elongated, white from the water and covered with sand.
 
 অতিদীর্ঘ শিথিল তনু-চর্ম্ম নট্কায় ৷  
 দূর পথ উঠাঞা আনান না যায় ॥ ৭২ ॥
 
 ati-dīrgha śithila tanu-carma naṭkāya  
-dūra patha uṭhāñā ānāna nā yāya
+very long  slack  of the body  the skin  hangs loose  
+dūra patha uṭhāñā ānāna nā yāya  
+a long  way  lifting  to bring  not  possible
 
-(72) [not yet translated]
+(72) His body was very long and slack, and its skin hung loose. It was impossible to lift Him and carry Him so far.
 
 আর্দ্র কৌপীন দূর করি’ শুষ্ক পরাঞা ৷  
 বহির্ব্বাসে শোয়াইলা বালুকা ছাড়াঞা ॥ ৭৩ ॥
 
 ārdra kaupīna dūra kari’ śuṣka parāñā  
-bahirvāse śoyāilā vālukā chāḍāñā
+the wet  loincloth  removing  a dry  putting on  
+bahirvāse śoyāilā vālukā chāḍāñā  
+on the outer cloth  laid  the sand  brushing off
 
-(73) [not yet translated]
+(73) They removed His wet loincloth and dressed Him in a dry one, brushed off the sand and laid Him on His outer cloth.
 
 সবে মেলি’ উচ্চ করি’ করেন সঙ্কীর্ত্তনে ৷  
 উচ্চ করি’ কৃষ্ণনাম কহেন প্রভুর কাণে ॥ ৭৪ ॥
 
 sabe meli’ ucca kari’ karena saṅkīrtane  
-ucca kari’ kṛṣṇa-nāma kahena prabhura kāṇe
+all  together  loudly  doing  perform  saṅkīrtana  
+ucca kari’ kṛṣṇa-nāma kahena prabhura kāṇe  
+loudly  doing  Kṛṣṇa’s  name  say  of the Lord  into the ear
 
-(74) [not yet translated]
+(74) Then all of them together began loud *saṅkīrtana*, chanting the name of Kṛṣṇa loudly into the Lord’s ear.
 
 কতক্ষণে প্রভুর কাণে শব্দ পরশিল ৷  
 হুঙ্কার করিয়া প্রভু তবহিঁ উঠিল ॥ ৭৫ ॥
 
 kata-kṣaṇe prabhura kāṇe śabda paraśila  
-huṅkāra kariyā prabhu tabahiṅ uṭhila
+after some time  the Lord’s  ear  the sound  touched  
+huṅkāra kariyā prabhu tabahiṅ uṭhila  
+a loud cry  making  the Lord  at once  rose
 
-(75) [not yet translated]
+(75) After some time the sound reached the Lord’s ears, and with a loud cry He at once rose up.
 
 উঠিতেই অস্থি সব লাগিল নিজ-স্থানে ৷  
 ‘অর্দ্ধবাহ্যে’ ইতি-উতি করেন দরশনে ॥ ৭৬ ॥
 
 uṭhitei asthi saba lāgila nija-sthāne  
-‘arddha-bāhye’ iti-uti karena daraśane
+on rising  bones  all  fitted  in their own places  
+‘arddha-bāhye’ iti-uti karena daraśane  
+in half-external consciousness  here and there  makes  looking
 
-(76) [not yet translated]
+(76) As soon as He rose, all His bones returned to their places. Half-conscious of the outer world, He looked about here and there.
 
 তিন-দশায় মহাপ্রভু রহেন সর্ব্বকাল ৷  
 ‘অন্তর্দ্দশা’, ‘বাহ্যদশা’, ‘অর্দ্ধবাহ্য’ আর ॥ ৭৭ ॥
 
 tina-daśāya mahāprabhu rahena sarva-kāla  
-‘antar-daśā’, ‘bāhya-daśā’, ‘arddha-bāhya’ āra
+in three states  Mahāprabhu  remains  all the time  
+‘antar-daśā’, ‘bāhya-daśā’, ‘arddha-bāhya’ āra  
+the internal state  the external state  half-external  and
 
-(77) [not yet translated]
+(77) Mahāprabhu was always in one of three states: the internal state, the external state, and the half-external.
 
 অন্তর্দ্দশার কিছু ঘোর, কিছু বাহ্য-জ্ঞান ৷  
 সেই দশা কহেন ভক্ত ‘অর্দ্ধবাহ্য’ নাম ॥ ৭৮ ॥
 
 antar-daśāra kichu ghora, kichu bāhya-jñāna  
-sei daśā kahena bhakta ‘arddha-bāhya’ nāma
+of the internal state  some  absorption  some  external  awareness  
+sei daśā kahena bhakta ‘arddha-bāhya’ nāma  
+that  state  call  the devotees  half-external  by name
 
-(78) [not yet translated]
+(78) When something of the absorption of the internal state remains along with some external awareness, the devotees call that state “half-external.”
 
 ‘অর্দ্ধবাহ্যে’ কহেন প্রভু প্রলাপ-বচনে ৷  
 আকাশে কহেন প্রভু, শুনেন ভক্তগণে ॥ ৭৯ ॥
 
 ‘arddha-bāhye’ kahena prabhu pralāpa-vacane  
-ākāśe kahena prabhu, śunena bhakta-gaṇe
+in the half-external  speaks  the Lord  in words of raving  
+ākāśe kahena prabhu, śunena bhakta-gaṇe  
+to the sky  speaks  the Lord  listen  the devotees
 
-(79) [not yet translated]
+(79) In the half-external state the Lord spoke in ravings. He spoke as if to the sky, and the devotees listened:
 
 কালিন্দী দেখিয়া আমি গেলাঙ বৃন্দাবন ৷  
 দেখি, — জলক্রীড়া করেন ব্রজেন্দ্রনন্দন ॥ ৮০ ॥
 
 kālindī dekhiyā āmi gelāṅa vṛndāvana  
-dekhi, — jala-krīḍā karena vrajendra-nandana
+the Kālindī  seeing  I  went  to Vṛndāvana  
+dekhi, — jala-krīḍā karena vrajendra-nandana  
+I see  water  play  does  of the king of Vraja  the son
 
-(80) [not yet translated]
+(80) “Seeing the Kālindī, I went to Vṛndāvana, and I see the son of the king of Vraja playing in the water.
 
 রাধিকাদি গোপীগণ-সঙ্গে একত্র মেলি’ ৷  
 যমুনার জলে মহারঙ্গে করেন কেলি ॥ ৮১ ॥
