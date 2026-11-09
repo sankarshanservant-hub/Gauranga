@@ -100,6 +100,78 @@ See Ādi 17.31.
 
 Those who are poor in the wealth of *prema*, out of hypocrisy and without having attained *prema*, falsely proclaim to the world that they have attained it. But in fact hypocritical paupers, bereft of the wealth of love for Kṛṣṇa, have no possibility of attaining *prema* by displaying it before people or announcing it. To advertise their own good fortune, the community of *prākṛta-sahajiyās* hypocritically show one another, in many places, the outward signs of *prema*. Pure devotees, far from calling these hypocritical *sahajiyās* “filled with *prema*” (*premikas*), know that even associating with them destroys *bhakti*, and so they shun them. Pure devotees do not teach anyone to hypocritically give such a person the title “*bhakta*” and regard him as equal to a pure devotee. When real *prema* awakens, the *jīva* hides his own glory and strives only for the worship (*bhajana*) of Kṛṣṇa. The hypocritical band of *prākṛta-sahajiyās*, greedy for gold, women, prestige, and the like, condemn pure devotees with labels such as “learned philosopher,” “knower of *tattva*,” and “subtle thinker,” and adorn themselves with titles such as “*rasika*,” “blissful in *bhajana*,” “best of the *bhāgavatas*,” “intoxicated with drinking the *rasa* of the pastimes,” “foremost among *sādhakas* of *rāgānugā* devotion,” “knower of *rasa*,” and “crest jewel of *rasikas*.” In fact they pollute the path of *bhajana* with the material feelings of their own minds, become attached to wicked deeds, and extol only their own false Vaiṣṇavism. Writers of this kind, setting out to write about transcendental *rasa*, make their own material feelings a part of service to Kṛṣṇa. Not knowing the nature of transcendental *vipralambha-rasa*, they take as “*rasa*” only material *sambhoga*, which at heart is tasteless.
 
+## 29
+
+> Subheading: The sole desire of the sincere *sādhaka*: the eternal and pure “nature of pure *bhakti*” —
+
+> (The fourth verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 85)
+
+**jagad-īśa** (O Jagannātha), (I) **dhanam** **na**, **janam** **na**, **sundarīm** **kavitām** **vā** (and so on — activity rooted in the *trivarga* and deceitful by nature) **na** **kāmaye** (do not pray for; but) **mama** **janmani** **janmani** (therefore I do not desire even the knowledge that frees one from further births [*apaunarbhava*], but) **tvayi** (for You, the Adhokṣaja) **ahaitukī** (free from desires, uninterrupted) **bhaktiḥ** **bhavatāt** (may there be. The meaning is: “I pray neither for enjoyment [*bhukti*], made of *dharma*, *artha*, and *kāma*, nor for liberation [*mukti*], which unties the bonds of *saṁsāra*; I beg only for unmixed, pure service to His feet”).
+
+## 30
+
+> Subheading: Explanation of the verse —
+
+## 31
+
+> Subheading: The inseparable bond between humility and the urge to serve Kṛṣṇa —
+
+## 32
+
+> Subheading: The *sādhaka*, in his own true nature (*svarūpa*), begs mercy of the Adhokṣaja, who delights in spiritual pastimes —
+
+> (The fifth verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 13)
+
+**ayi** **nanda-tanūja** (O son of the king of Vraja, embodiment of the *rasa* of pastimes full of the bliss of service), **viṣame** **bhavāmbudhau** (in the ocean of *saṁsāra*) **patitam** **kiṅkaram** **kṛpayā** (out of compassion) **tava** **pāda-paṅkaja-sthita-dhūlī-sadṛśam** (the foot is a lotus; like the dust that rests on it, stays there, clinging to it — that is, simply as Your own servant, purchased long ago) **mām** **vicintaya** (consider).
+
+## 33
+
+> Subheading: Explanation of the verse —
+
+## 35
+
+> Subheading: A prayer for perfection in *nāma-saṅkīrtana* —
+
+## 36
+
+> Subheading: The external signs of perfection, that is, of *sādhya-bhakti* —
+
+> (The sixth verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 84)
+
+(O Lord,) **tava** **nāma-grahaṇe** (at the time of worshipping through the name) **mama** **galad-aśru-dhārayā** (with a flowing stream of tears) **nayanam**, **gadgada-ruddhayā** (choked by a trembling voice) **girā** (with speech) **vadanam**, **pulakaiḥ** (with horripilation) **nicitam** (covered) **vapuḥ** **kadā** **bhaviṣyati**?
+
+Compare the verses cited in the *Bhakti-sandarbha* (section 69), such as this one: “Even what is heard from the Upaniṣads is far from the nectar of Hari's narrations, for in it there is no melting of the heart, no trembling, no tears, no horripilation, nothing of the kind.”
+
+## 37
+
+> Subheading: Explanation of the verse —
+
+## 38
+
+> Subheading: The inner signs of perfection, that is, of *sādhya-bhakti*; worship founded on transcendental separation (*vipralambha*, separation from Kṛṣṇa) —
+
+## 39
+
+> (The seventh verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 327)
+
+**govinda-viraheṇa** (in separation from the son of the king of Vraja) **me** (for Me) **nimeṣeṇa** (by a moment — a tiny span the length of a *truṭi* or a *lava*) **yugāyitam** (has become like a *yuga*: it drags on like a span the length of a *yuga*), **cakṣuṣā** (by the eyes) **prāvṛṣāyitam** (it has become like the rainy season: like clouds in the season of rains), **sarvam** **jagat** **śūnyāyitam** (has become like a void — that is, it seems empty).
+
+## 40
+
+> Subheading: Explanation of the verse —
+
+## 44
+
+> Subheading: The Lord, absorbed in the mood of Śrī Rādhā, the crown jewel of those wholly in Kṛṣṇa's power —
+
+## 47
+
+> Subheading: The steadiness (*niṣṭhā*) of perfection, that is, of *sādhya-bhakti*: exclusive dependence on Kṛṣṇa —
+
+> (The eighth verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 134)
+
+**saḥ** **pāda-ratām** (the maidservant wholly devoted to the service of His feet) **mām** (Me — Rādhā) **āśliṣya** (embracing tightly) **vā** **pinaṣṭu** (let Him make His own) **vā** **adarśanāt** (by not appearing — by separation) **mām** **marma-hatām** (wounded to the very core of the heart) **karotu** **vā**; **saḥ** **lampaṭaḥ** (absorbed in the pleasure of gratifying His own senses) **yathā** **tathā** **vā** **vidadhātu** (let Him do as He pleases, or let Him sport with other beloveds), **tu** (still) **saḥ** (Kṛṣṇa) **eva** **mat-prāṇa-nāthaḥ** (He alone is My beloved), **na** **aparaḥ**.
+
 ---
 
 [^12-1]: The verse translation reads differently: “As the night lotus blossoms in the cool rays of the moon, so the heart begins to bloom in the nectar of this name. In the end the soul awakens to its inner treasure — a life of love for Kṛṣṇa.”
