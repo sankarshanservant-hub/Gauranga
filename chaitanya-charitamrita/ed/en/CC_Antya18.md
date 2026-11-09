@@ -814,17 +814,21 @@ I see  water  play  does  of the king of Vraja  the son
 যমুনার জলে মহারঙ্গে করেন কেলি ॥ ৮১ ॥
 
 rādhikādi gopī-gaṇa-saṅge ekatra meli’  
-yamunāra jale mahā-raṅge karena keli
+Rādhikā  and the other  gopīs  with  together  gathering  
+yamunāra jale mahā-raṅge karena keli  
+of the Yamunā  in the water  with great  delight  does  play
 
-(81) [not yet translated]
+(81) Together with Rādhikā and the other gopīs, He is playing in the waters of the Yamunā with great delight.
 
 তীরে রহি’ দেখি আমি সখীগণ-সঙ্গে ৷  
 একসখী সখীগণে দেখায় সেই রঙ্গে ॥ ৮২ ॥
 
 tīre rahi’ dekhi āmi sakhī-gaṇa-saṅge  
-eka-sakhī sakhī-gaṇe dekhāya sei raṅge
+on the bank  staying  watch  I  the sakhīs  with  
+eka-sakhī sakhī-gaṇe dekhāya sei raṅge  
+one sakhī  to the sakhīs  shows  that  play
 
-(82) [not yet translated]
+(82) Standing on the bank with the *sakhīs*, I watch, and one *sakhī* points out that play to the others.
 
 পট্টবস্ত্র, অলঙ্কারে, সমর্পিয়া সখী-করে,  
 সূক্ষ্ম-শুক্লবস্ত্র-পরিধান ৷  
@@ -832,24 +836,34 @@ eka-sakhī sakhī-gaṇe dekhāya sei raṅge
 জলকেলি রচিলা সুঠাম ॥ ৮৩ ॥
 
 paṭṭa-vastra, alaṅkāre,  
+silk  garments  ornaments  
 samarpiyā sakhī-kare,  
+handing over  into the sakhīs’ hands  
 sūkṣma-śukla-vastra-paridhāna  
+fine  white  cloth  wearing  
 kṛṣṇa lañā kāntā-gaṇa,  
+Kṛṣṇa  taking  His beloveds  
 kailā jalāvagāhana,  
-jala-keli racilā suṭhāma
+made  plunging into the water  
+jala-keli racilā suṭhāma  
+water  pastimes  arranged  beautifully
 
-(83) [not yet translated]
+(83) Handing their silk garments and ornaments over to the *sakhīs* and dressed in fine white cloth, Kṛṣṇa entered the water with His beloveds and arranged beautiful water pastimes.
 
 সখি হে, দেখ কৃষ্ণের জলকেলি-রঙ্গে ৷  
 কৃষ্ণ মত্ত করিবর, চঞ্চল কর-পুষ্কর,  
 গোপীগণ করি’ নিজ সঙ্গে ॥ ৮৪ ॥
 
 sakhi he, dekha kṛṣṇera jala-keli-raṅge  
+O  friend  see  Kṛṣṇa’s  water  pastimes’  play  
 kṛṣṇa matta kari-vara,  
+Kṛṣṇa  maddened  best of elephants  
 cañcala kara-puṣkara,  
-gopī-gaṇa kari’ nija saṅge
+restless  hand  lotus  
+gopī-gaṇa kari’ nija saṅge  
+the gopīs  making  His own  companions
 
-(84) [not yet translated]
+(84) O *sakhī*, see the play of Kṛṣṇa’s water pastimes! Kṛṣṇa is like a maddened lord of elephants; His lotus hands are restless, and the gopīs are His companions.
 
 আরম্ভিলা জলকেলি, অন্যোঽন্যে জল ফেলাফেলি,  
 হুড়াহুড়ি, বর্ষে জলধার ৷  
@@ -857,13 +871,19 @@ gopī-gaṇa kari’ nija saṅge
 জলযুদ্ধ বাড়িল অপার ॥ ৮৫ ॥
 
 ārambhilā jala-keli,  
+began  water  play  
 anyo’nye jala phelāpheli,  
+at one another  water  throwing back and forth  
 huḍāhuḍi, varṣe jala-dhāra  
+tumult  rain  water  streams  
 sabe jaya-parājaya,  
+for all  victory  defeat  
 nāhi kichu niścaya,  
-jala-yuddha bāḍila apāra
+not  any  certainty  
+jala-yuddha bāḍila apāra  
+water  battle  grew  boundless
 
-(85) [not yet translated]
+(85) The water play began. They splashed water at one another; there was a tumult, and water rained down in streams. No one could tell who was winning and who was losing, and the water battle grew boundless.
 
 বর্ষে স্থির তড়িদ্গণ, সিঞ্চে শ্যাম নবঘন্,  
 ঘন বর্ষে তড়িৎ-উপরে ৷  
@@ -871,13 +891,19 @@ jala-yuddha bāḍila apāra
 সেই অমৃত সুখে পান করে ॥ ৮৬ ॥
 
 varṣe sthira taḍid-gaṇa,  
+rain  steady  lightning flashes  
 siñce śyāma nava-ghan,  
+sprinkles  dark  new cloud  
 ghana varṣe taḍit-upare  
+the cloud  rains  the lightning  upon  
 sakhī-gaṇera nayana,  
+of the sakhīs  the eyes  
 tṛṣita cātakī-gaṇa,  
-sei amṛta sukhe pāna kare
+thirsty  cātakī birds  
+sei amṛta sukhe pāna kare  
+that  nectar  with joy  drink
 
-(86) [not yet translated]
+(86) The steady flashes of lightning rained water on the dark new cloud, and the cloud rained upon the lightning. The eyes of the *sakhīs*, like thirsty *cātakī* birds, drank that nectar with joy.
 
 প্রথমে যুদ্ধ ‘জলাজলি’, তবে যুদ্ধ ‘করাকরি’,  
 তার পাছে যুদ্ধ ‘মুখামুখি’ ৷  
@@ -885,13 +911,19 @@ sei amṛta sukhe pāna kare
 তবে হৈল যুদ্ধ ‘নখানখি’ ॥ ৮৭ ॥
 
 prathame yuddha ‘jalājali’,  
+first  battle  water against water  
 tabe yuddha ‘karākari’,  
+then  battle  hand against hand  
 tāra pāche yuddha ‘mukhāmukhi’  
+after that  battle  face to face  
 tabe yuddha ‘hṛdāhṛdi’,  
+then  battle  heart to heart  
 tabe haila ‘bādābādi’,  
-tabe haila yuddha ‘nakhānakhi’
+then  there was  word against word  
+tabe haila yuddha ‘nakhānakhi’  
+then  there was  battle  nail against nail
 
-(87) [not yet translated]
+(87) First they fought water against water, then hand against hand, after that face to face, then heart to heart; then came a battle of words, and then a battle of nails.
 
 সহস্র-করে জল সেকে, সহস্র নেত্রে গোপী দেখে,  
 সহস্র-পদে নিকট গমনে ৷  
@@ -899,13 +931,19 @@ tabe haila yuddha ‘nakhānakhi’
 গোপীনর্ম্ম শুনে সহস্র-কাণে ॥ ৮৮ ॥
 
 sahasra-kare jala seke,  
+with a thousand  hands  water  sprinkles  
 sahasra netre gopī dekhe,  
+with a thousand  eyes  the gopīs  sees  
 sahasra-pade nikaṭa gamane  
+with a thousand  feet  near  in going  
 sahasra-mukha-cumbane,  
+with a thousand  mouths  in kissing  
 sahasra-vapu-saṅgame,  
-gopī-narma śune sahasra-kāṇe
+with a thousand  bodies  in embracing  
+gopī-narma śune sahasra-kāṇe  
+the gopīs’  jests  hears  with a thousand  ears
 
-(88) [not yet translated]
+(88) With a thousand hands He sprinkled water, with a thousand eyes He looked at the gopīs, with a thousand feet He drew near them, with a thousand mouths He kissed them, with a thousand bodies He embraced them, and with a thousand ears He heard the gopīs’ playful jests.
 
 কৃষ্ণ রাধা লঞা বলে, গেলা কণ্ঠলগ্ন-জলে,  
 ছাড়িলা তাঁহা, যাঁহা অগাধ পানী ৷  
@@ -913,13 +951,19 @@ gopī-narma śune sahasra-kāṇe
 গজোৎখাতে যৈছে কমলিনী ॥ ৮৯ ॥
 
 kṛṣṇa rādhā lañā bale,  
+Kṛṣṇa  Rādhā  taking  by force  
 gelā kaṇṭha-lagna-jale,  
-chāḍilā tāhāṅ, yāhāṅ agādha pānī  
+went  neck-deep  into the water  
+chāḍilā tāṅhā, yāṅhā agādha pānī  
+left  there  where  fathomless  water  
 teṅho kṛṣṇa-kaṇṭha dhari’,  
+She  Kṛṣṇa’s  neck  holding  
 bhāse jalera upari,  
-gajotkhāte yaiche kamalinī
+floats  the water  upon  
+gajotkhāte yaiche kamalinī  
+uprooted by an elephant  like  a lotus plant
 
-(89) [not yet translated]
+(89) Kṛṣṇa took Rādhā by force into water up to His neck and left Her where the water was fathomless. Clasping Kṛṣṇa’s neck, She floated on the water like a lotus plant uprooted by an elephant.
 
 যত গোপ-সুন্দরী, কৃষ্ণ তত রূপ ধরি’,  
 সবার বস্ত্র করিলা হরণে ৷  
@@ -927,13 +971,19 @@ gajotkhāte yaiche kamalinī
 সুখে কৃষ্ণ করে দরশনে ॥ ৯০ ॥
 
 yata gopa-sundarī,  
+as many  cowherd  beauties  
 kṛṣṇa tata rūpa dhari’,  
+Kṛṣṇa  so many  forms  taking  
 sabāra vastra karilā haraṇe  
+of all  the garments  made  taking away  
 yamunā-jala nirmala,  
+the Yamunā’s  water  clear  
 aṅga kare jhalamala,  
-sukhe kṛṣṇa kare daraśane
+limbs  make  shimmering  
+sukhe kṛṣṇa kare daraśane  
+with joy  Kṛṣṇa  makes  beholding
 
-(90) [not yet translated]
+(90) Assuming as many forms as there were beautiful cowherd girls, Kṛṣṇa took away all their garments. In the clear water of the Yamunā their bodies shimmered, and Kṛṣṇa beheld them with joy.
 
 পদ্মিনীলতা — সখীচয়, কৈল কারো সহায়,  
 তার হস্তে পত্র সমর্পিল ৷  
@@ -941,13 +991,19 @@ sukhe kṛṣṇa kare daraśane
 হস্তে কেহ কঞ্চুলি ধরিল ॥ ৯১ ॥
 
 padminī-latā — sakhī-caya,  
+lotus  creepers  sakhīs  host  
 kaila kāro sahāya,  
+gave  to some  help  
 tāra haste patra samarpila  
+her  into the hand  a leaf  offered  
 keha mukta-keśa-pāśa,  
+some  loosened  locks of hair  
 āge kaila adhovāsa,  
-haste keha kañculi dharila
+in front  made  lower garment  
+haste keha kañculi dharila  
+of the hands  some  a bodice  held
 
-(91) [not yet translated]
+(91) The lotus creepers, like a host of *sakhīs*, came to the help of some of them, placing leaves in their hands. Some let down their hair and made it a lower garment in front, and some made a bodice of their hands.
 
 কৃষ্ণের কলহ রাধা-সনে, গোপীগণ সেইক্ষণে,  
 হেমাব্জ-বনে গেলা লুকাইতে ৷  
@@ -955,13 +1011,19 @@ haste keha kañculi dharila
 পদ্মে-মুখে না পারি চিনিতে ॥ ৯২ ॥
 
 kṛṣṇera kalaha rādhā-sane,  
+Kṛṣṇa’s  quarrel  with Rādhā  
 gopī-gaṇa sei-kṣaṇe,  
+the gopīs  that very moment  
 hemābja-vane gelā lukāite  
+golden lotuses  into the grove  went  to hide  
 ākaṇṭha-vapu jale paiśe,  
+up to the neck  bodies  into the water  enter  
 mukha-mātra jale bhāse,  
-padme-mukhe nā pāri cinite
+faces  only  on the water  float  
+padme-mukhe nā pāri cinite  
+lotuses  faces  not  can  distinguish
 
-(92) [not yet translated]
+(92) When Kṛṣṇa began a quarrel with Rādhā, the gopīs at once went to hide among the golden lotuses. They sank into the water up to their necks, so that only their faces floated on the surface, and one could not tell the faces from the lotuses.
 
 এথা কৃষ্ণ রাধা-সনে, কৈলা যে আছিল মনে,  
 গোপীগণ অন্বেষিতে গেলা ৷  
@@ -969,13 +1031,19 @@ padme-mukhe nā pāri cinite
 সখী-মধ্যে আসিয়া মিলিলা ॥ ৯৩ ॥
 
 ethā kṛṣṇa rādhā-sane,  
+here  Kṛṣṇa  with Rādhā  
 kailā ye āchila mane,  
+did  what  was  in the mind  
 gopī-gaṇa anveṣite gelā  
+the gopīs  to search for  went  
 tabe rādhā sūkṣma-mati,  
+then  Rādhā  subtle-minded  
 jāniyā sakhīra sthiti,  
-sakhī-madhye āsiyā mililā
+knowing  the sakhīs’  whereabouts  
+sakhī-madhye āsiyā mililā  
+the sakhīs  among  coming  joined
 
-(93) [not yet translated]
+(93) Here Kṛṣṇa did with Rādhā as He had wished, and then went to look for the gopīs. Then subtle-minded Rādhā, knowing where Her *sakhīs* were, came and joined them.
 
 যত হেমাব্জ জলে ভাসে, তত নীলাব্জ তার পাশে,  
 আসি’ আসি’ করয়ে মিলন ৷  
@@ -983,13 +1051,19 @@ sakhī-madhye āsiyā mililā
 কৌতুকে দেখে তীরে সখীগণ ॥ ৯৪ ॥
 
 yata hemābja jale bhāse,  
+as many  golden lotuses  in the water  float  
 tata nīlābja tāra pāśe,  
+so many  blue lotuses  them  beside  
 āsi’ āsi’ karaye milana  
+coming  coming  make  meeting  
 nīlābje hemābje ṭheke,  
+blue lotuses  golden lotuses  strike against  
 yuddha haya pratyeke,  
-kautuke dekhe tīre sakhī-gaṇa
+battle  occurs  each  
+kautuke dekhe tīre sakhī-gaṇa  
+with amusement  watch  from the bank  the sakhīs
 
-(94) [not yet translated]
+(94) As many golden lotuses as floated on the water, so many blue lotuses came up beside them and met them. Blue lotus struck against golden lotus, each one in battle, and the *sakhīs* watched from the bank with amusement.
 
 চক্রবাক-মণ্ডল, পৃথক্ পৃথক্ যুগল,  
 জল হৈতে করিল উদ্গম ৷  
@@ -997,13 +1071,19 @@ kautuke dekhe tīre sakhī-gaṇa
 চক্রবাকে কৈল আচ্ছাদন ॥ ৯৫ ॥
 
 cakravāka-maṇḍala,  
+cakravāka birds’  flock  
 pṛthak pṛthak yugala,  
+separate  separate  in pairs  
 jala haite karila udgama  
+the water  from  made  rising  
 uṭhila padma-maṇḍala,  
+rose  of lotuses  a cluster  
 pṛthak pṛthak yugala,  
-cakravāke kaila ācchādana
+separate  separate  in pairs  
+cakravāke kaila ācchādana  
+the cakravākas  made  covering
 
-(95) [not yet translated]
+(95) A flock of *cakravāka* birds rose from the water, pair by pair. Then a cluster of lotuses rose, pair by pair, and covered the *cakravākas*.
 
 উঠিল বহু রক্তোৎপল, পৃথক্ পৃথক্ যুগল,  
 পদ্মগণের কৈল নিবারণ ৷  
@@ -1011,13 +1091,19 @@ cakravāke kaila ācchādana
 ‘চক্রবাক’ লাগি’ দুঁহার রণ ॥ ৯৬ ॥
 
 uṭhila bahu raktotpala,  
+rose  many  red water lilies  
 pṛthak pṛthak yugala,  
+separate  separate  in pairs  
 padma-gaṇera kaila nivāraṇa  
+of the lotuses  made  warding off  
 ‘padma’ cāhe luṭi’ nite,  
+the lotus  wants  plundering  to take  
 ‘utpala’ cāhe rākhite,  
-‘cakravāka’ lāgi’ duṅhāra raṇa
+the water lily  wants  to protect  
+‘cakravāka’ lāgi’ duṅhāra raṇa  
+the cakravākas  for the sake of  of the two  battle
 
-(96) [not yet translated]
+(96) Then many red water lilies (*utpala*) rose, pair by pair, and warded off the lotuses. The lotuses wanted to carry off the *cakravākas* as plunder, and the water lilies wanted to protect them; so for the sake of the *cakravākas* the two fought.
 
 পদ্মোৎপল — অচেতন, চক্রবাক — সচেতন,  
 চক্রবাকে পদ্ম আস্বাদয় ৷  
@@ -1025,13 +1111,19 @@ padma-gaṇera kaila nivāraṇa
 কৃষ্ণের রাজ্যে ঐছে ন্যায় হয় ॥ ৯৭ ॥
 
 padmotpala — acetana,  
+lotuses  water lilies  insentient  
 cakravāka — sacetana,  
+cakravākas  sentient  
 cakravāke padma āsvādaya  
+the cakravākas  the lotuses  taste  
 iṅhā duṅhāra ulṭā sthiti,  
+here  of the two  reversed  position  
 dharma haila viparīti,  
-kṛṣṇera rājye aiche nyāya haya
+nature  became  opposite  
+kṛṣṇera rājye aiche nyāya haya  
+Kṛṣṇa’s  in the kingdom  such  rule  is
 
-(97) [not yet translated]
+(97) Lotuses and water lilies are insentient, while *cakravākas* are sentient; yet here the lotuses taste the *cakravākas*. The positions of the two are reversed, and their natures have turned into their opposites: such is the rule in Kṛṣṇa’s kingdom.
 
 মিত্রের মিত্র সহবাসী, চক্রবাকে লুটে আসি’,  
 কৃষ্ণের রাজ্যে ঐছে ব্যবহার ৷  
@@ -1039,13 +1131,19 @@ kṛṣṇera rājye aiche nyāya haya
 এই বড় ‘বিরোধ-অলঙ্কার’ ॥ ৯৮ ॥
 
 mitrera mitra saha-vāsī,  
+of the friend (the sun)  the friend  the neighbour  
 cakravāke luṭe āsi’,  
+the cakravākas  plunders  coming  
 kṛṣṇera rājye aiche vyavahāra  
+Kṛṣṇa’s  in the kingdom  such  conduct  
 aparicita śatrura mitra,  
+unacquainted  of the enemy  the friend  
 rākhe utpala, — e baḍa citra,  
-ei baḍa ‘virodha-alaṅkāra’
+protects  the water lily  this  great  wonder  
+ei baḍa ‘virodha-alaṅkāra’  
+this  great  contradiction  ornament
 
-(98) [not yet translated]
+(98) The lotus comes and plunders the *cakravāka*, its neighbour and the friend of its own friend, the sun — such is the way in Kṛṣṇa’s kingdom. And the water lily protects the friend of its enemy, though it does not even know him — a great wonder! This is the great ornament called “contradiction” (*virodha*).
 
 অতিশয়োক্তি, বিরোধাভাস, দুই অলঙ্কার প্রকাশ,  
 করি’ কৃষ্ণ প্রকট দেখাইল ৷  
@@ -1053,13 +1151,19 @@ ei baḍa ‘virodha-alaṅkāra’
 নেত্র-কর্ণ যুগ্ম জুড়াইল ॥ ৯৯ ॥
 
 atiśayokti, virodhābhāsa,  
+hyperbole  apparent contradiction  
 dui alaṅkāra prakāśa,  
+two  ornaments  manifestation  
 kari’ kṛṣṇa prakaṭa dekhāila  
+making  Kṛṣṇa  openly  showed  
 yāhā kari’ āsvādana,  
+which  making  tasting  
 ānandita mora mana,  
-netra-karṇa yugma juḍāila
+delighted  My  mind  
+netra-karṇa yugma juḍāila  
+eyes  ears  the pair  were refreshed
 
-(99) [not yet translated]
+(99) Thus Kṛṣṇa openly displayed two figures of speech, hyperbole (*atiśayokti*) and apparent contradiction (*virodhābhāsa*). As I tasted them, My mind was delighted, and My eyes and ears were refreshed.
 
 ঐছে বিচিত্র ক্রীড়া করি’, তীরে আইলা শ্রীহরি,  
 সঙ্গে লঞা সব কান্তাগণ ৷  
@@ -1067,13 +1171,19 @@ netra-karṇa yugma juḍāila
 সেবা করে তীরে সখীগণ ॥ ১০০ ॥
 
 aiche vicitra krīḍā kari’,  
+such  wonderful  play  having made  
 tīre āilā śrī-hari,  
+to the bank  came  Śrī Hari  
 saṅge lañā saba kāntā-gaṇa  
+with  taking  all  beloveds  
 gandha-taila-mardana,  
+fragrant  oil  massage  
 āmalakī-udvartana,  
-sevā kare tīre sakhī-gaṇa
+āmalakī  rubbing with paste  
+sevā kare tīre sakhī-gaṇa  
+service  do  on the bank  the sakhīs
 
-(100) [not yet translated]
+(100) After such wonderful play Śrī Hari came up onto the bank with all His beloveds, and there the *sakhīs* served Them, massaging Them with fragrant oil and rubbing Them with *āmalakī* paste.
 
 পুনরপি কৈল স্নান, শুষ্কবস্ত্র পরিধান,  
 রত্ন-মন্দিরে কৈলা আগমন ৷  
@@ -1081,13 +1191,19 @@ sevā kare tīre sakhī-gaṇa
 বন্যবেশ করিল রচন ॥ ১০১ ॥
 
 punarapi kaila snāna,  
+again  did  bathing  
 śuṣka-vastra paridhāna,  
+dry  clothes  putting on  
 ratna-mandire kailā āgamana  
+to the jewelled  house  made  coming  
 vṛndā-kṛta sambhāra,  
+by Vṛndā  arranged  the articles  
 gandha-puṣpa-alaṅkāra,  
-vanya-veśa karila racana
+fragrances  flowers  ornaments  
+vanya-veśa karila racana  
+forest  dress  made  arranging
 
-(101) [not yet translated]
+(101) Then They bathed again, put on dry clothes and came to a jewelled house. There, with the fragrances, flowers and ornaments Vṛndā had prepared, They were dressed in forest attire.
 
 বৃন্দাবনে তরুলতা, অদ্ভুত তাহার কথা,  
 বারমাস ধরে ফুল-ফল ৷  
@@ -1095,13 +1211,19 @@ vanya-veśa karila racana
 ফল পাড়ি’ আনিয়া সকল ॥ ১০২ ॥
 
 vṛndāvane taru-latā,  
+in Vṛndāvana  trees  creepers  
 adbhuta tāhāra kathā,  
+wonderful  their  story  
 bāra-māsa dhare phula-phala  
+twelve  months  bear  flowers  fruits  
 vṛndāvane devī-gaṇa,  
+in Vṛndāvana  the goddesses  
 kuñja-dāsī yata jana,  
-phala pāḍi’ āniyā sakala
+of the bowers  maidservants  as many  persons  
+phala pāḍi’ āniyā sakala  
+fruits  picking  bringing  all
 
-(102) [not yet translated]
+(102) The trees and creepers of Vṛndāvana are wonderful indeed: all twelve months of the year they bear flowers and fruits. The goddesses of Vṛndāvana and all the maidservants of the bowers picked the fruits and brought them.
 
 উত্তম সংস্কার করি’, বড় বড় থালী ভরি’,  
 রত্ন মন্দিরে পিণ্ডার উপরে ৷  
@@ -1109,13 +1231,19 @@ phala pāḍi’ āniyā sakala
 আগে আসন বসিবার তরে ॥ ১০৩ ॥
 
 uttama saṁskāra kari’,  
+excellent  preparation  making  
 baḍa baḍa thālī bhari’,  
+big  big  platters  filling  
 ratna mandire piṇḍāra upare  
+in the jewelled  house  the dais  upon  
 bhakṣaṇera krama kari’,  
+of eating  order  making  
 dhariyāche sāri sāri,  
-āge āsana vasibāra tare
+have set out  row  by row  
+āge āsana vasibāra tare  
+in front  seats  of sitting  for
 
-(103) [not yet translated]
+(103) Preparing the fruits with great care, they filled large platters with them and set them out in rows on a raised dais in the jewelled house, in the order in which they were to be eaten, with seats in front to sit on.
 
 এক নারিকেল নানা-জাতি, এক আম্র নানা ভাতি,  
 কলা, কোলি — বিবিধপ্রকার ৷  
@@ -1123,13 +1251,19 @@ dhariyāche sāri sāri,
 দ্রাক্ষা, বাদাম, মেওয়া যত আর ॥ ১০৪ ॥
 
 eka nārikela nānā-jāti,  
+just  coconuts  of many  kinds  
 eka āmra nānā bhāti,  
+just  mangoes  of many  sorts  
 kalā, koli — vividha-prakāra  
+bananas  jujubes  of various  kinds  
 panasa, kharjura, kamalā,  
+jackfruits  dates  oranges  
 nāraṅga, jāma, sāntārā,  
-drākṣā, bādāma, meoyā yata āra
+tangerines  jāma fruits  pomelos  
+drākṣā, bādāma, meoyā yata āra  
+grapes  almonds  dried fruits  as many  more
 
-(104) [not yet translated]
+(104) There were coconuts of many kinds and mangoes of many sorts, bananas and jujubes of various kinds, jackfruits, dates, oranges, tangerines, *jāma* fruits, pomelos (*sāntārā*), grapes, almonds, and all kinds of dried fruits and nuts.
 
 খরমুজা, ক্ষীরিকা, তাল, কেশুর, পানীফল, মৃণাল,  
 বিল্ব, পীলু, দাড়িম্বাদি যত ৷  
@@ -1137,13 +1271,19 @@ drākṣā, bādāma, meoyā yata āra
 সহস্রজাতি, লেখা যায় কত ? ॥ ১০৫ ॥
 
 kharamujā, kṣīrikā, tāla,  
+melons  kṣīrikā cucumbers  palm fruits  
 keśura, pānī-phala, mṛṇāla,  
+keśura roots  water chestnuts  lotus stalks  
 bilva, pīlu, dāḍimbādi yata  
+bilva  pīlu  pomegranates and others  as many  
 kona deśe kāra khyāti,  
+in some  land  of which  fame  
 vṛndāvane saba-prāpti,  
-sahasra-jāti, lekhā yāya kata?
+in Vṛndāvana  all  obtainable  
+sahasra-jāti, lekhā yāya kata?  
+a thousand  kinds  to write  possible  how many
 
-(105) [not yet translated]
+(105) Melons, *kṣīrikā* cucumbers, palm fruits, *keśura* roots, water chestnuts, lotus stalks, *bilva*, *pīlu*, pomegranates and many more — whatever fruit is famous in any land is found in Vṛndāvana. There are a thousand kinds; how many can be written down?
 
 গঙ্গাজল, অমৃতকেলি, পীযূষগ্রন্থি, কর্পূরকেলি,  
 সরপূরী, অমৃতি, পদ্মচিনি ৷  
@@ -1151,15 +1291,19 @@ sahasra-jāti, lekhā yāya kata?
 রাধা যাহা কৃষ্ণ লাগি’ আনি ॥ ১০৬ ॥
 
 gaṅgājala, amṛtakeli,  
-gangajala  amritakeli  
+gaṅgājala  amṛtakeli  
 pīyūṣagranthi, karpūrakeli,  
+pīyūṣagranthi  karpūrakeli  
 sarapūrī, amṛti, padmacini  
-sarapuri  amriti  padmacini  
+sarapūrī  amṛti  padmacini  
 khaṇḍa-kṣīrisāra-vṛkṣa,  
+of sugar  kṣīrisāra  trees  
 ghare kari’ nānā bhakṣya,  
-rādhā yāhā kṛṣṇa lāgi’ āni
+at home  making  various  sweets  
+rādhā yāhā kṛṣṇa lāgi’ āni  
+Rādhā  which  Kṛṣṇa  for  brought
 
-(106) [not yet translated]
+(106) *Gaṅgājala*, *amṛtakeli*, *pīyūṣagranthi*, *karpūrakeli*, *sarapūrī*, *amṛti*, *padmacini*, and little trees made of sugar and *kṣīrisāra* — all these various sweets Rādhā had made at home and brought for Kṛṣṇa.
 
 ভক্ষ্যের পরিপাটী দেখি’, কৃষ্ণ হৈলা মহাসুখী,  
 বসি’ কৈল বন্য ভোজন ৷  
@@ -1167,13 +1311,19 @@ rādhā yāhā kṛṣṇa lāgi’ āni
 দুঁহে কৈলা মন্দিরে শয়ন ॥ ১০৭ ॥
 
 bhakṣyera paripāṭī dekhi’,  
+of the food  the fine arrangement  seeing  
 kṛṣṇa hailā mahā-sukhī,  
+Kṛṣṇa  became  very  happy  
 vasi’ kaila vanya bhojana  
+sitting  made  forest  meal  
 saṅge lañā sakhī-gaṇa,  
+with  taking  the sakhīs  
 rādhā kailā bhojana,  
-duṅhe kailā mandire śayana
+Rādhā  made  eating  
+duṅhe kailā mandire śayana  
+the two  made  in the house  lying down
 
-(107) [not yet translated]
+(107) Seeing the fine arrangement of the food, Kṛṣṇa was very happy, and He sat down to the forest meal. Then Rādhā ate with Her *sakhīs*, and the two of Them lay down to rest in the house.
 
 কেহ করে বীজন, কেহ পাদসম্বাহন,  
 কেহ করায় তাম্বূল ভক্ষণ ৷  
@@ -1181,120 +1331,156 @@ duṅhe kailā mandire śayana
 দেখি’ আমার সুখী হৈল মন ॥ ১০৮ ॥
 
 keha kare vījana,  
+someone  does  fanning  
 keha pāda-samvāhana,  
+someone  feet  massaging  
 keha karāya tāmbūla bhakṣaṇa  
+someone  makes  betel  eating  
 rādhā-kṛṣṇa nidrā gelā,  
+Rādhā  Kṛṣṇa  sleep  went  
 sakhī-gaṇa śayana kailā,  
-dekhi’ āmāra sukhī haila mana
+the sakhīs  lying down  did  
+dekhi’ āmāra sukhī haila mana  
+seeing  My  happy  became  mind
 
-(108) [not yet translated]
+(108) Someone fanned Them, someone massaged Their feet, someone gave Them betel to chew. Rādhā and Kṛṣṇa fell asleep, and the *sakhīs* lay down too. My heart was happy to see it.
 
 হেনকালে মোরে ধরি’, মহা কোলাহল করি’,  
 তুমি-সব ইঁহা লঞা আইলা ৷  
 কাঁহা যমুনা, বৃন্দাবন, কাঁহা কৃষ্ণ, গোপীগণ,  
 সেই সুখ ভঙ্গ করাইলা ! ॥ ১০৯ ॥
 
-hena-kāle more dhari,  
+hena-kāle more dhari’,  
+at that time  Me  seizing  
 mahā kolāhala kari’,  
+great  uproar  making  
 tumi-saba iṅhā lañā āilā  
+you all  here  taking  brought  
 kāṅhā yamunā, vṛndāvana,  
+where  the Yamunā  Vṛndāvana  
 kāṅhā kṛṣṇa, gopī-gaṇa,  
-sei sukha bhaṅga karāilā!
+where  Kṛṣṇa  the gopīs  
+sei sukha bhaṅga karāilā!  
+that  happiness  broken  you have caused
 
-(109) [not yet translated]
+(109) Just then you all seized Me, made a great uproar and brought Me here. Where is the Yamunā now, where is Vṛndāvana? Where are Kṛṣṇa and the gopīs? You have broken My happiness!”
 
 এতেক কহিতে প্রভুর কেবল ‘বাহ্য’ হৈল ৷  
 স্বরূপ-গোসাঞিরে দেখি’ তাঁহারে পুছিল ॥ ১১০ ॥
 
 eteka kahite prabhura kevala ‘bāhya’ haila  
-svarūpa-gosāñire dekhi’ tāṅhāre puchila
+this much  while saying  the Lord’s  full  external consciousness  came  
+svarūpa-gosāñire dekhi’ tāṅhāre puchila  
+Svarūpa  Gosāñi  seeing  him  asked
 
-(110) [not yet translated]
+(110) As He said this, the Lord came fully back to external consciousness. Seeing Svarūpa Gosāñi, He asked him,
 
 ‘ইঁহা কেনে তোমরা আমারে লঞা আইলা ?’  
 স্বরূপ-গোসাঞি তবে কহিতে লাগিলা ॥ ১১১ ॥
 
 ‘iṅhā kene tomarā āmāre lañā āilā?’  
-svarūpa-gosāñi tabe kahite lāgilā
+here  why  you  Me  taking  have brought  
+svarūpa-gosāñi tabe kahite lāgilā  
+Svarūpa  Gosāñi  then  to speak  began
 
-(111) [not yet translated]
+(111) “Why have you brought Me here?” Then Svarūpa Gosāñi began to speak:
 
 যমুনার ভ্রমে তুমি সমুদ্রে পড়িলা ৷  
 সমুদ্রের তরঙ্গে আসি’ এত দূর আইলা ! ॥ ১১২ ॥
 
 yamunāra bhrame tumi samudre paḍilā  
-samudrera taraṅge āsi’ eta dūra āilā!
+for the Yamunā  mistaking  You  into the ocean  fell  
+samudrera taraṅge āsi’ eta dūra āilā!  
+of the ocean  by the waves  coming  so  far  came
 
-(112) [not yet translated]
+(112) “Taking the ocean for the Yamunā, You fell into it, and the waves of the ocean carried You this far!
 
 এই জালিয়া জালে করি’ তোমা উঠাইল ৷  
 তোমার পরশে এই প্রেমে মত্ত হইল ॥ ১১৩ ॥
 
 ei jāliyā jāle kari’ tomā uṭhāila  
-tomāra paraśe ei preme matta haila
+this  fisherman  in the net  taking  You  hauled up  
+tomāra paraśe ei preme matta haila  
+Your  by the touch  he  with love  mad  became
 
-(113) [not yet translated]
+(113) This fisherman hauled You up in his net, and by Your touch he became mad with love.
 
 সব রাত্রি সবে বেড়াই তোমারে অন্বেষিয়া ৷  
 জালিয়ার মুখে শুনি’ পাইনু আসিয়া ॥ ১১৪ ॥
 
 saba rātri sabe beḍāi tomāre anveṣiyā  
-jāliyāra mukhe śuni’ pāinu āsiyā
+all  night  all  we wander  You  searching  
+jāliyāra mukhe śuni’ pāinu āsiyā  
+the fisherman’s  from the mouth  hearing  we found  coming
 
-(114) [not yet translated]
+(114) All night long we wandered about searching for You. Hearing from the fisherman, we came here and found You.
 
 তুমি মূর্চ্ছা-ছলে বৃন্দাবনে দেখ ক্রীড়া ৷  
 তোমার মূর্চ্ছা দেখি’ সবে মনে পায় পীড়া ॥ ১১৫ ॥
 
 tumi mūrcchā-chale vṛndāvane dekha krīḍā  
-tomāra mūrcchā dekhi’ sabe mane pāya pīḍā
+You  under the guise of a swoon  in Vṛndāvana  see  play  
+tomāra mūrcchā dekhi’ sabe mane pāya pīḍā  
+Your  swoon  seeing  all  in the mind  feel  pain
 
-(115) [not yet translated]
+(115) Under the guise of a swoon You watch pastimes in Vṛndāvana, but seeing You swoon, we all suffer at heart.
 
 কৃষ্ণনাম লইতে তোমার ‘অর্দ্ধবাহ্য’ হইল ৷  
 তাতে যে প্রলাপ কৈলা, তাহা যে শুনিল ॥ ১১৬ ॥
 
 kṛṣṇa-nāma laite tomāra ‘arddha-bāhya’ haila  
-tāte ye pralāpa kailā, tāhā ye śunila
+Kṛṣṇa’s  name  on taking  Your  half-external  came  
+tāte ye pralāpa kailā, tāhā ye śunila  
+in that  which  ravings  You made  that  indeed  we heard
 
-(116) [not yet translated]
+(116) When we chanted the name of Kṛṣṇa, You came to half-external consciousness, and we heard the ravings You spoke in that state.”
 
 প্রভু কহে, — স্বপ্নে দেখি’ গেলাঙ বৃন্দাবনে ৷  
 দেখি, — কৃষ্ণ রাস করেন গোপীগণ-সনে ॥ ১১৭ ॥
 
 prabhu kahe, — svapne dekhi’ gelāṅa vṛndāvane  
-dekhi, — kṛṣṇa rāsa karena gopīgaṇa-sane
+the Lord  says  in a dream  seeing  I went  to Vṛndāvana  
+dekhi, — kṛṣṇa rāsa karena gopīgaṇa-sane  
+I see  Kṛṣṇa  rāsa  does  the gopīs  with
 
-(117) [not yet translated]
+(117) The Lord said, “In a dream I saw that I went to Vṛndāvana, and I see Kṛṣṇa dancing the *rāsa* with the gopīs.
 
 জলক্রীড়া করি’ কৈলা বন্য-ভোজনে ৷  
 দেখি’ আমি প্রলাপ কৈলুঁ, হেন লয় মনে ॥ ১১৮ ॥
 
 jala-krīḍā kari’ kailā vanya-bhojane  
-dekhi’ āmi pralāpa kailuṅ, hena laya mane
+water  play  having done  made  forest  meal  
+dekhi’ āmi pralāpa kailuṅ, hena laya mane  
+seeing  I  ravings  made  so  it seems  to the mind
 
-(118) [not yet translated]
+(118) After the water pastimes He enjoyed a forest meal. It seems to Me that, seeing this, I spoke in ravings.”
 
 তবে স্বরূপ-গোসাঞি, তাঁরে স্নান করাঞা ৷  
 প্রভুরে লঞা ঘর আইলা আনন্দিত হঞা ॥ ১১৯ ॥
 
 tabe svarūpa-gosāñi, tāṅre snāna karāñā  
-prabhure lañā ghara āilā ānandita hañā
+then  Svarūpa  Gosāñi  Him  bath  causing  
+prabhure lañā ghara āilā ānandita hañā  
+the Lord  taking  home  came  delighted  being
 
-(119) [not yet translated]
+(119) Then Svarūpa Gosāñi bathed the Lord and, overjoyed, brought Him home.
 
 এই ত’ কহিলুঁ প্রভুর সমুদ্র-পতন ৷  
 ইহা যেই শুনে, পায় চৈতন্য-চরণ ॥ ১২০ ॥
 
 ei ta’ kahiluṅ prabhura samudra-patana  
-ihā yei śune, pāya caitanya-caraṇa
+thus  indeed  I have told  the Lord’s  into the ocean  fall  
+ihā yei śune, pāya caitanya-caraṇa  
+this  whoever  hears  attains  Caitanya’s  feet
 
-(120) [not yet translated]
+(120) Thus I have told of the Lord’s fall into the ocean. Whoever hears this attains the feet of Caitanya.
 
 শ্রীরূপ রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১২১ ॥
 
 śrī-rūpa raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(121) [not yet translated]
+(121) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
