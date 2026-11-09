@@ -102,7 +102,7 @@ A variant reading: “Tell the madman (*bāul*): people have become *āul*.” T
 
 ## 36
 
-> Subheading: The meaning of the verse: Śrī Rādhā, tormented by separation from Kṛṣṇa, describes the qualities of Kṛṣṇa, the life of the people of Vraja — [in any suitable melody]
+> Subheading: The meaning of the verse: Śrī Rādhā, tormented by separation from Kṛṣṇa, describes the qualities of Kṛṣṇa, the life of the people of Vraja — [Any *rāga* as suits (*yathā-rāga*)]
 
 ## 37
 
@@ -150,7 +150,7 @@ The *gopīs* of Vraja, whose lives were given to Kṛṣṇa and who were Kṛ�
 
 ## 46
 
-> Subheading: The meaning of the verse; words of *citra-jalpa* — [in any suitable melody]
+> Subheading: The meaning of the verse; words of *citra-jalpa* — [Any *rāga* as suits (*yathā-rāga*)]
 
 **pariśrama** — the work of creation and so on.
 
@@ -320,9 +320,9 @@ See Madhya 23.36.
 
 “O bee, friend of a cheat! Do not touch my feet with your whiskers, smeared with *kuṅkuma* from the garland crushed on my rival's breast. Let the Lord of Madhu please those proud women; He whose messenger is such as you will be mocked in the assembly of the Yadus.” (1)
 
-When Uddhava came to Vraja, the maidens of Vraja sang about Kṛṣṇa, wept and shed garlands of tears. Then one *gopī*, turning her gaze to a bee and meaning Uddhava by “messenger,” remembered her Beloved and said: “O bee, you are the friend of a cheat. How strange is your way of touching feet! Your obeisances will never win my favor. On the tips of your whiskers I see traces of *kuṅkuma*. Kṛṣṇa's forest garland lay on my rival's breast, and seeing the crushed *kuṅkuma*, I burn. Mādhava, the friend of the women of Mathurā, is busy winning the favor of proud women. He no longer has any need of the forests of Vraja and no reason to please the *gopīs*. You are the messenger of the Lord of the Yadus; what business have you here? Because of you Kṛṣṇa will be put to shame in the assembly.” (1)
+When Uddhava came to Vraja, the maidens of Vraja sang about Kṛṣṇa, wept and shed garlands of tears. Then one *gopī*, turning her gaze to a bee and meaning Uddhava by “messenger,” remembered her Beloved and said: “O bee, you are the friend of a cheat. How strange is your way of touching feet! Your obeisances will never win my favor. On the tips of your whiskers I see traces of *kuṅkuma*. Kṛṣṇa's forest garland lay on my rival's breast, and seeing the crushed *kuṅkuma*, I burn. Mādhava, the friend of the people of Mathurā, is busy winning the favor of proud women. He no longer has any need of the forests of Vraja and no reason to please the *gopīs*. You are the messenger of the Lord of the Yadus; what business have you here? Because of you Kṛṣṇa will be put to shame in the assembly.” (1)
 
-“Only once did He make us drink the enchanting nectar of His lips, and then at once He abandoned us, as you abandon flowers. How then does Padmā serve His lotus feet? Alas, her mind too must have been stolen by Uttamaḥśloka's false words.” (2)
+“Only once did He make us drink the enchanting nectar of His lips[^107-1], and then at once He abandoned us, as you abandon flowers. How then does Padmā serve His lotus feet? Alas, her mind too must have been stolen by Uttamaḥśloka's false words.” (2)
 
 What offense did Kṛṣṇa commit against the *gopī* that her heart is so burdened? Hear the reason. Kṛṣṇacandra made her drink His enchanting nectar of the lips, stole the *gopī's* heart and at once abandoned her. Just so a foolish one like you leaves a lovely flower and flies off, its mind already elsewhere. This is how Kṛṣṇa has dealt with us. Why then has the artless Padmā still not left Kṛṣṇa's lotus feet, and why does she serve them so carefully? Padmā has believed Kṛṣṇa's false words. But the *gopīs* are never as unknowing as Padmā. (2)
 
@@ -334,7 +334,7 @@ The bee is singing about Kṛṣṇa to please the *gopī*. Understanding this a
 
 “O bee, do not tell me that Kṛṣṇacandra remembered the *gopīs* and, tormented by the pain of Anaṅga, anxiously sent you as a messenger to console me. I can say this: all the women in heaven and on earth are within Kṛṣṇa's reach. Seeing Kṛṣṇa's brows shining above His deceitful, charming smile, Lakṣmī serves Him constantly. Beside Lakṣmī-devī we are nothing. Though Kṛṣṇa is deceitful, He is sometimes suddenly generous. Tell Him: the name ‘Uttamaḥśloka’ belongs to one who is merciful to the wretched.” (4)
 
-“Take your head away from my feet! I know you are skilled in coaxing: you have come from Mukunda and learned flattering words from Him as His messenger. For His sake we gave up our children, our husbands and everything else in this world and the next, yet He, whose heart is fickle, has abandoned us. How can we make peace with Him?” (5)
+“Take your head away from my feet! I know you are skilled in coaxing: you have come from Mukunda with a messenger's flattering words. For His sake we gave up our children, our husbands and everything else in this world and the next, yet He, whose heart is fickle, has abandoned us. How can we make peace with Him?” (5)
 
 Seeing the bee at her feet, as if it had fallen at her toes to beg pardon for an offense, the *gopī* says: “Take your head away from my feet, clever bee! Tell me, what has Mukunda taught you? I have understood in my heart, bee, that you are skilled in sweet words, in pleading and in a messenger's duty. Do not say, ‘What fault has Mukunda?’ — you wicked bee. I gave up husband and son and even my duty toward the next world; I have no work but service to Kṛṣṇa. Yet Kṛṣṇa, whose heart is fickle, has easily forgotten [us]. There is no need to speak of Him any more; I will not even raise the matter of making peace.” (5)
 
@@ -392,7 +392,7 @@ Having finished their water pastimes, the queens, their hearts absorbed in thoug
 
 “Listen, sweet-voiced cuckoo: you imitate so skillfully, and your speech revives the dead. Tell us how the queens may please you, and we will do just that.” (7)
 
-“O wise mountain! You do not move or speak — surely you are pondering something great. Or, like us, do you wish to hold the feet of Vasudeva's son to your breast?” (8)
+“O wise mountain! You do not move or speak — surely you are pondering something great[^108-1]. Or, like us, do you wish to hold the feet of Vasudeva's son to your breast?” (8)
 
 “O wise mountain, you are motionless, the best of silent ones, absorbed in thoughts of something great. Like us, you have vowed to keep the feet of Vasudeva's son in your heart.” (8)
 
@@ -421,6 +421,10 @@ Having finished their water pastimes, the queens, their hearts absorbed in thoug
 ---
 
 [^21-1]: The verse translation (following the *Amṛta-pravāha-bhāṣya*) understands it differently: “the madman is no longer occupied with worldly affairs.”
+
+[^107-1]: The edition has সুরাং (*surām*, “wine”), a misprint for সুধাং (*sudhām*, “nectar”), as in the *Śrīmad-Bhāgavatam*; the translation follows the correct reading.
+
+[^108-1]: The edition has হমান্তমর্থম্ (*hamāntam artham*), a misprint for মহান্তমর্থম্ (*mahāntam artham*, “something great”); the Bengali paraphrase likewise has *mahad-artha*.
 
 [^91-1]: The verse translation reads differently: “…attract all women.”
 
