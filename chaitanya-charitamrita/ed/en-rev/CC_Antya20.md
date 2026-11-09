@@ -935,6 +935,327 @@ a jīva  being  who  fully  can  describe
 
 (80) So too Mahāprabhu’s pastimes have no shore on either side. Who, being only a *jīva*, can describe them fully?
 
+যাবৎ বুদ্ধির গতি, ততেক বর্ণিলুঁ ৷  
+সমুদ্রের মধ্যে যেন এক কণ ছুঁইলুঁ ॥ ৮১ ॥
+
+yāvat buddhira gati, tateka varṇilum̐  
+as far as  of the intelligence  the reach  so much  I have described  
+samudrera madhye yena eka kaṇa chum̐ilum̐  
+of the ocean  in the midst  as if  one  drop  I have touched
+
+(81) I have described as much as my intelligence could reach — as if I had touched a single drop in the midst of the ocean.
+
+নিত্যানন্দ-কৃপাপাত্র — বৃন্দাবন-দাস ৷  
+চৈতন্যলীলায় তেঁহো হয়েন ‘আদিব্যাস’ ॥ ৮২ ॥
+
+nityānanda-kṛpā-pātra — vṛndāvana-dāsa  
+of Nityānanda  of the mercy  the vessel  —  Vṛndāvana dāsa  
+caitanya-līlāya tem̐ho hayena ‘ādi-vyāsa’  
+in Caitanya’s pastimes  he  is  ‘the original Vyāsa’
+
+(82) Vṛndāvana dāsa, the vessel of Nityānanda’s mercy, is the original Vyāsa (*ādi-vyāsa*) of Caitanya’s pastimes.[^26]
+
+তাঁর আগে যদ্যপি সব লীলার ভাণ্ডার ৷  
+তথাপি অল্প বর্ণিয়া ছাড়িলেন আর ॥ ৮৩ ॥
+
+tām̐ra āge yadyapi saba līlāra bhāṇḍāra  
+of him  before  although  of all  the pastimes  the storehouse  
+tathāpi alpa varṇiyā chāḍilena āra  
+still  a little  having described  he left  the rest
+
+(83) Although the storehouse of all the pastimes lay before him, he described only a little and left the rest.
+
+যে কিছু বর্ণিলুঁ, সেহ সংক্ষেপ করিয়া ৷  
+লিখিতে না পারেন, তবু রাখিয়াছেন লিখিয়া ॥ ৮৪ ॥
+
+ye kichu varṇilum̐, seha saṅkṣepa kariyā  
+what  little  I have described  that too  brief  making  
+likhite nā pārena, tabu rākhiyāchena likhiyā  
+to write  not  he could  yet  he has kept  having written
+
+(84) What little I have described, I too have told in brief: these are the things he could not write out in full, yet he left them recorded.
+
+চৈতন্যমঙ্গলে তেঁহো লিখিয়াছেন স্থানে-স্থানে ৷  
+সেই বচন শুন, সেই পরম-প্রমাণে ॥ ৮৫ ॥
+
+caitanya-maṅgale tem̐ho likhiyāchena sthāne-sthāne  
+in the Caitanya-maṅgala  he  has written  here and there  
+sei vacana śuna, sei parama-pramāṇe  
+those  words  hear  that  the supreme evidence
+
+(85) Here and there in the *Caitanya-maṅgala* he has written of them. Hear those words: they are the supreme evidence.[^27]
+
+সংক্ষেপে কহিলুঁ, বিস্তার না যায় কথনে ৷  
+বিস্তারিয়া বেদব্যাস করিবেন বর্ণনে ॥ ৮৬ ॥
+
+saṅkṣepe kahilum̐, vistāra nā yāya kathane  
+in brief  I have told  in detail  not  is possible  in the telling  
+vistāriyā veda-vyāsa karibena varṇane  
+in detail  Vedavyāsa  will make  the description
+
+(86) I have told it in brief, for it cannot be told in full. Vedavyāsa will describe it in detail.
+
+চৈতন্যমঙ্গলে ইহা লিখিয়াছে স্থানে-স্থানে ৷  
+সত্য কহেন, — আগে ব্যাস করিলা বর্ণনে ॥ ৮৭ ॥
+
+caitanya-maṅgale ihā likhiyāche sthāne-sthāne  
+in the Caitanya-maṅgala  this  he has written  here and there  
+satya kahena, — āge vyāsa karilā varṇane  
+truth  he speaks  —  afterwards  Vyāsa  made  the description
+
+(87) He has written this here and there in the *Caitanya-maṅgala*, and he speaks the truth: afterwards Vyāsa described these pastimes.[^28][^29]
+
+চৈতন্য-লীলামৃত-সিন্ধু — দুগ্ধাব্ধি-সমান ৷  
+তৃষ্ণানুরূপ ঝারী ভরি’ তেঁহো কৈলা পান ॥ ৮৮ ॥
+
+caitanya-līlāmṛta-sindhu — dugdhābdhi-samāna  
+of Caitanya’s pastimes  of the nectar  the ocean  —  to the ocean of milk  equal  
+tṛṣṇānurūpa jhārī bhari’ tem̐ho kailā pāna  
+according to his thirst  the pitcher  filling  he  made  drinking
+
+(88) The nectar-ocean of Caitanya’s pastimes is like the Ocean of Milk. He filled his pitcher as his thirst required and drank.
+
+তাঁর ঝারী-শেষামৃত কিছু মোরে দিলা ৷  
+ততেকে ভরিল পেট, তৃষ্ণা মোর গেলা ॥ ৮৯ ॥
+
+tām̐ra jhārī-śeṣāmṛta kichu more dilā  
+his  of the pitcher  the remnant nectar  a little  to me  gave  
+tateke bharila peṭa, tṛṣṇā mora gelā  
+by that much  was filled  the stomach  thirst  my  went
+
+(89) He gave me a little of the nectar left in his pitcher, and that little filled me and quenched my thirst.[^30]
+
+আমি — অতিক্ষুদ্র জীব, পক্ষী রাঙ্গাটুনি ৷  
+সে যৈছে তৃষ্ণায় পিয়ে সমুদ্রের পানী ॥ ৯০ ॥
+
+তৈছে আমি এক কণ ছুঁইলুঁ লীলার ৷  
+এই দৃষ্টান্তে জানিহ প্রভুর লীলার বিস্তার ॥ ৯১ ॥
+
+āmi — ati-kṣudra jīva, pakṣī rāṅgā-ṭuni  
+I  —  very tiny  soul  a bird  rāṅgā-ṭuni  
+se yaiche tṛṣṇāya piye samudrera pānī  
+it  as  in thirst  drinks  of the ocean  the water  
+taiche āmi eka kaṇa chum̐ilum̐ līlāra  
+so  I  one  drop  have touched  of the pastimes  
+ei dṛṣṭānte jāniha prabhura līlāra vistāra  
+by this  example  know  the Lord’s  pastimes’  vastness
+
+(90–91) I am a very tiny soul, like the little *rāṅgā-ṭuni* bird. As that bird, when thirsty, drinks the water of the ocean, so I have touched a single drop of the pastimes. By this example know how vast the Lord’s pastimes are.[^31]
+
+’আমি লিখি’, — ইহা মিথ্যা করি অনুমান ৷  
+আমার শরীর — কাষ্ঠপুতলী-সমান ॥ ৯২ ॥
+
+’āmi likhi’, — ihā mithyā kari anumāna  
+‘I  write’  —  this  false  I consider  a supposition  
+āmāra śarīra — kāṣṭha-putalī-samāna  
+my  body  —  to a wooden puppet equal
+
+(92) To think “I am writing” is a false notion: my body is like a wooden puppet.[^32]
+
+বৃদ্ধ জরাতুর আমি অন্ধ, বধির ৷  
+হস্ত হালে, মনোবুদ্ধি নহে মোর স্থির ॥ ৯৩ ॥
+
+vṛddha jarātura āmi andha, badhira  
+old  infirm with age  I  blind  deaf  
+hasta hāle, mano-buddhi nahe mora sthira  
+the hands  shake  mind and intelligence  are not  my  steady
+
+(93) I am old and infirm, blind and deaf; my hands shake, and my mind and intelligence are not steady.[^33]
+
+নানা-রোগগ্রস্ত, — চলিতে বসিতে না পারি ৷  
+পঞ্চরোগ-পীড়া-ব্যাকুল, রাত্রি-দিনে মরি ॥ ৯৪ ॥
+
+nānā-roga-grasta, — calite vasite nā pāri  
+by many diseases seized  —  to walk  to sit  not  I can  
+pañca-roga-pīḍā-vyākula, rātri-dine mari  
+by the pain of five diseases tormented  night and day  I die
+
+(94) Many diseases have seized me; I can neither walk nor sit. Tormented by the pain of five ailments, day and night I am all but dying.
+
+পূর্ব্বে গ্রন্থে ইহা কৈরাছি নিবেদন ৷  
+তথাপি লিখিয়ে, শুন ইহার কারণ ॥ ৯৫ ॥
+
+pūrve granthe ihā kairāchi nivedana  
+earlier  in the book  this  I have made  submission  
+tathāpi likhiye, śuna ihāra kāraṇa  
+still  I write  hear  of this  the reason
+
+(95) I have already confessed this earlier in the book. Still I write — hear the reason for it.
+
+শ্রীগোবিন্দ, শ্রীচৈতন্য, শ্রীনিত্যানন্দ ৷  
+শ্রীঅদ্বৈত, শ্রীভক্ত, আর শ্রীশ্রোতৃবৃন্দ ॥ ৯৬ ॥
+
+শ্রীস্বরূপ, শ্রীরূপ, শ্রীসনাতন ৷  
+শ্রীরঘুনাথ দাস শ্রীগুরু, শ্রীজীব-চরণ ॥ ৯৭ ॥
+
+ইঁহা-সবার চরণ-কৃপায় লেখায় আমারে ৷  
+আর এক হয় — তেঁহো অতিকৃপা করে ॥ ৯৮ ॥
+
+śrī govinda, śrī caitanya, śrī nityānanda  
+Śrī  Govinda  Śrī  Caitanya  Śrī  Nityānanda  
+śrī advaita, śrī bhakta, āra śrī śrotṛ-vṛnda  
+Śrī  Advaita  the revered  devotees  and  the revered  listeners  
+śrī svarūpa, śrī rūpa, śrī sanātana  
+Śrī  Svarūpa  Śrī  Rūpa  Śrī  Sanātana  
+śrī raghunātha dāsa śrī guru, śrī jīva-caraṇa  
+Śrī  Raghunātha  dāsa  Śrī  guru  Śrī  Jīva’s feet  
+im̐hā-sabāra caraṇa-kṛpāya lekhāya āmāre  
+of all these  by the mercy of the feet  make write  me  
+āra eka haya — tem̐ho ati-kṛpā kare  
+and  one  there is  —  He  great mercy  shows
+
+(96–98) Śrī Govinda, Śrī Caitanya, Śrī Nityānanda, Śrī Advaita, the devotees and the revered listeners; Śrī Svarūpa, Śrī Rūpa, Śrī Sanātana; Śrī Raghunātha dāsa, my guru, and the feet of Śrī Jīva — by the mercy of the feet of all these I am made to write. And there is One more: He shows me exceptional mercy.[^34]
+
+শ্রীমদনগোপাল মোরে লেখায় আজ্ঞা করি’ ৷  
+কহিতে না যুয়ায়, তবু রহিতে না পারি ॥ ৯৯ ॥
+
+śrī madana-gopāla more lekhāya ājñā kari’  
+Śrī  Madana-Gopāla  me  makes write  order  giving  
+kahite nā yuyāya, tabu rahite nā pāri  
+to say  not  is fitting  yet  to keep (silent)  not  I can
+
+(99) Śrī Madana-Gopāla, by His order, makes me write. It is not fitting to say this, yet I cannot keep silent.
+
+না কহিলে হয় মোর কৃতঘ্নতা-দোষ ৷  
+দম্ভ করি বলি’, শ্রোতা, না করিহ রোষ ॥ ১০০ ॥
+
+nā kahile haya mora kṛta-ghnatā-doṣa  
+not  if I say  is  my  of ingratitude  the fault  
+dambha kari bali’, śrotā, nā kariha roṣa  
+pride  making  I speak  O listeners  not  make  anger
+
+(100) If I did not say it, I would be guilty of ingratitude. Though I speak as if out of pride, O listeners, do not be angry.
+
+তোমা-সবার চরণ-ধূলি করিনু বন্দন ৷  
+তাতে চৈতন্য লীলা হৈল, যে কিছু লিখন ॥ ১০১ ॥
+
+tomā-sabāra caraṇa-dhūli karinu vandana  
+of you all  the dust of the feet  I have made  worship  
+tāte caitanya līlā haila, ye kichu likhana  
+by that  Caitanya’s  pastimes  came about  what  little  writing
+
+(101) I have worshipped the dust of the feet of you all; by that has come about whatever little I have written of Caitanya’s pastimes.[^35]
+
+এবে অন্ত্যলীলাগণের করি অনুবাদ ৷  
+’অনুবাদ’ কৈলে পাই লীলার ‘আস্বাদ’ ॥ ১০২ ॥
+
+ebe antya-līlā-gaṇera kari anuvāda  
+now  of the Antya-līlā pastimes  I make  recapitulation  
+’anuvāda’ kaile pāi līlāra ‘āsvāda’  
+‘recapitulation’  by making  I get  of the pastimes  ‘relish’
+
+(102) Now I shall recapitulate the pastimes of the Antya-līlā: by recapitulating (*anuvāda*) I relish the pastimes again.[^36]
+
+প্রথম পরিচ্ছেদে — রূপের দ্বিতীয়-মিলন ৷  
+তার মধ্যে দুইনাটকের বিধান-শ্রবণ ॥ ১০৩ ॥
+
+prathama paricchede — rūpera dvitīya-milana  
+in the first  chapter  —  Rūpa’s  second meeting  
+tāra madhye dui-nāṭakera vidhāna-śravaṇa  
+of that  in the midst  of the two plays  the plan hearing
+
+(103) In the first chapter: Rūpa’s second meeting with the Lord, and how the Lord heard of his plan for the two plays.
+
+তার মধ্যে শিবানন্দ-সঙ্গে কুক্কুর আইলা ৷  
+প্রভু তারে কৃষ্ণ কহাঞা মুক্ত করিলা ॥ ১০৪ ॥
+
+tāra madhye śivānanda-saṅge kukkura āilā  
+of that  in the midst  with Śivānanda  a dog  came  
+prabhu tāre kṛṣṇa kahāñā mukta karilā  
+the Lord  it  ‘Kṛṣṇa’  making say  liberated  made
+
+(104) In it a dog came with Śivānanda, and the Lord, making it say “Kṛṣṇa”, liberated it.
+
+দ্বিতীয়ে — ছোট-হরিদাসে করাইলা শিক্ষণ ৷  
+তার মধ্যে শিবানন্দের আশ্চর্য্য দর্শন ॥ ১০৫ ॥
+
+dvitīye — choṭa-haridāse karāilā śikṣaṇa  
+in the second  —  to Choṭa Haridāsa  caused  instruction  
+tāra madhye śivānandera āścarya darśana  
+of that  in the midst  Śivānanda’s  wonderful  vision
+
+(105) In the second: the lesson the Lord gave Choṭa Haridāsa, and in it Śivānanda’s wonderful vision.
+
+তৃতীয়ে — হরিদাসের মহিমা প্রচণ্ড ৷  
+দামোদর-পণ্ডিত কৈলা প্রভুরে বাক্যদণ্ড ॥ ১০৬ ॥
+
+tṛtīye — haridāsera mahimā pracaṇḍa  
+in the third  —  of Haridāsa  the glory  mighty  
+dāmodara-paṇḍita kailā prabhure vākya-daṇḍa  
+Dāmodara Paṇḍita  made  to the Lord  rebuke in words
+
+(106) In the third: the mighty glory of Haridāsa, and Dāmodara Paṇḍita’s rebuke to the Lord.
+
+প্রভু ‘নাম’ দিয়া কৈলা ব্রহ্মাণ্ড-মোচন ৷  
+হরিদাস করিলা নামের মহিমা-স্থাপন ॥ ১০৭ ॥
+
+prabhu ‘nāma’ diyā kailā brahmāṇḍa-mocana  
+the Lord  ‘the Name’  giving  made  the universe’s deliverance  
+haridāsa karilā nāmera mahimā-sthāpana  
+Haridāsa  made  of the Name  the glory’s establishment
+
+(107) By giving the Holy Name, the Lord delivered the universe, and Haridāsa established the glory of the Name.
+
+চতুর্থে — শ্রীসনাতনের দ্বিতীয়-মিলন ৷  
+দেহত্যাগ হৈতে তাঁর করিলা রক্ষণ ॥ ১০৮ ॥
+
+caturthe — śrī-sanātanera dvitīya-milana  
+in the fourth  —  of Śrī Sanātana  the second meeting  
+deha-tyāga haite tām̐ra karilā rakṣaṇa  
+giving up the body  from  his  made  protection
+
+(108) In the fourth: Śrī Sanātana’s second meeting with the Lord, who saved him from giving up his body.
+
+জ্যৈষ্ঠ-মাসের ধূপে প্রভু তাঁরে কৈলা পরীক্ষণ ৷  
+শক্তি সঞ্চারিয়া পুনঃ পাঠাইলা বৃন্দাবন ॥ ১০৯ ॥
+
+jyaiṣṭha-māsera dhūpe prabhu tām̐re kailā parīkṣaṇa  
+of the month of Jyaiṣṭha  in the blazing sun  the Lord  him  made  test  
+śakti sañcāriyā punaḥ pāṭhāilā vṛndāvana  
+power  infusing  again  sent  to Vṛndāvana
+
+(109) In the blazing sun of the month of Jyaiṣṭha the Lord tested him; then, investing him with power, He sent him back to Vṛndāvana.
+
+পঞ্চমে — প্রদ্যুম্নমিশ্রে প্রভু কৃপা কৈলা ৷  
+রায়-দ্বারা কৃষ্ণকথা তাঁরে শুনাইলা ॥ ১১০ ॥
+
+pañcame — pradyumna-miśre prabhu kṛpā kailā  
+in the fifth  —  to Pradyumna Miśra  the Lord  mercy  showed  
+rāya-dvārā kṛṣṇa-kathā tām̐re śunāilā  
+through Rāya  talks of Kṛṣṇa  to him  made hear
+
+(110) In the fifth: the Lord’s mercy to Pradyumna Miśra, whom He sent to hear talks of Kṛṣṇa from Rāmānanda Rāya.
+
+তার মধ্যে ‘বাঙ্গাল’ কবির নাটক-উপেক্ষণ ৷  
+স্বরূপ-গোসাঞি কৈলা বিগ্রহের মহিমা স্থাপন ॥ ১১১ ॥
+
+tāra madhye ‘bāṅgāla’ kavira nāṭaka-upekṣaṇa  
+of that  in the midst  ‘Bengali’  poet’s  the play rejection  
+svarūpa-gosāñi kailā vigrahera mahimā sthāpana  
+Svarūpa Gosāñi  made  of the Deity  glory  establishment
+
+(111) In it: the rejection of the play of a “Bengali” poet, and Svarūpa Gosāñi’s establishing the glory of the Deity (*vigraha*).
+
+ষষ্ঠে — রঘুনাথ-দাস প্রভুরে মিলিলা ৷  
+নিত্যানন্দ-আজ্ঞায় চিড়া-মহোৎসব কৈলা ॥ ১১২ ॥
+
+ṣaṣṭhe — raghunātha-dāsa prabhure mililā  
+in the sixth  —  Raghunātha dāsa  the Lord  met  
+nityānanda-ājñāya ciḍā-mahotsava kailā  
+by Nityānanda’s order  the ciḍā festival  held
+
+(112) In the sixth: Raghunātha dāsa met the Lord, and by Nityānanda’s order he held the festival of flat rice (*ciḍā*).
+
+দামোদর-স্বরূপ-ঠাঞি তাঁরে সমর্পিল ৷  
+’গোবর্দ্ধন-শিলা’, ‘গুঞ্জামালা’ তাঁরে দিল ॥ ১১৩ ॥
+
+dāmodara-svarūpa-ṭhāñi tām̐re samarpila  
+in Dāmodara Svarūpa’s care  him  entrusted  
+’govardhana-śilā’, ‘guñjā-mālā’ tām̐re dila  
+‘the Govardhana stone’  ‘the guñjā garland’  to him  gave
+
+(113) The Lord entrusted him to Svarūpa Dāmodara and gave him the *śilā* from Govardhana and the *guñjā* garland.
+
 ---
 
 [^1]: *Anubhāṣya*: the fortunate are the great souls who have gained the wealth of prema. Heading in the edition: only a devotee in whom prema has awakened can follow the feeling of separation the Lord experienced.
@@ -986,3 +1307,25 @@ a jīva  being  who  fully  can  describe
 [^24]: Heading in the edition: though the author is guided by the will of Śrī Caitanya Himself, he speaks in humility.
 
 [^25]: *Anubhāṣya*: compare *Śrīmad-Bhāgavatam* 1.18.23 — as birds fly in the sky as far as their strength allows, so the wise describe the ways of Viṣṇu as far as they are able. Heading in the edition: the ocean of Gaura’s pastimes is beyond this world and beyond the senses (adhokṣaja); a conditioned soul cannot touch it, and the author, thinking himself a jīva, in deep humility only tries to touch a drop of it.
+
+[^26]: *Anubhāṣya*: the later pure ācāryas who described Gaura’s pastimes after him are, as his non-different parts, also called “Vyāsa” (cf. 86–87). Heading in the edition: the greatness of Ṭhākura Vṛndāvana, and Gaura’s pastimes.
+
+[^27]: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35). Heading in the edition: the *Caitanya-bhāgavata*, the definitive book on Viṣṇu, the Vaiṣṇavas and pure devotion to Viṣṇu, is the highest evidence (*pramāṇa*).
+
+[^28]: So in the Gauḍīya Maṭha edition: *karilā varṇane*, “described”; other manuscripts read *karibena varṇane*, “will describe”. *Āge* here means “afterwards”, not “before”: verse 86 too speaks of Vyāsa describing these pastimes in the future. On the *Caitanya-maṅgala* see the note to 85.
+
+[^29]: *Anubhāṣya*: on the variant reading *āge vyāsa karibena varṇane*, “Vyāsa will describe them in the future”, these and similar words of the *Caitanya-bhāgavata* refer to the later pure Vaiṣṇava ācāryas, headed by Kavirāja Gosvāmī, who described Gaura’s pastimes; following the “original Vyāsa” Vṛndāvana dāsa Ṭhākura, such ācāryas are also called “Vyāsa” (on 82).
+
+[^30]: Heading in the edition (before 88): the author, free of pride and honouring others, regards himself as one who eats the remnants of Ṭhākura Vṛndāvana.
+
+[^31]: *Amṛta-pravāha-bhāṣya*: the *rāṅgā-ṭuni* is the tiny *ṭunṭuni* bird (the Bengali tailorbird). Heading in the edition: words of humility once more.
+
+[^32]: *Amṛta-pravāha-bhāṣya*: it is vain to think that I wrote this book; the Lord and His devotees are making me write it. Heading in the edition: unlike worldly poets and men of letters, the author — the emperor of transcendental poets — is not deluded by false ego: he depends wholly on Kṛṣṇa and is guided by Caitanya’s will.
+
+[^33]: Heading in the edition: regarding himself as a mere instrument, the author describes his unfitness and speaks in humility.
+
+[^34]: *Anubhāṣya*: Śrī Raghunātha dāsa is the guru who taught the author bhajana, the best of the followers of Śrī Rūpa (see 145; the succession of Śrī Rūpa’s followers is given at the beginning of the *Anubhāṣya* to Ādi 1). Heading in the edition: the author names those whom he worships; before 98 — the author proclaims his good fortune, the mercy of Madana-mohana.
+
+[^35]: Heading in the edition: obeisance to the listeners.
+
+[^36]: In the Bengali, *anuvāda* (“recapitulation”) rhymes with *āsvāda* (“relish”). Heading in the edition: following Vyāsa’s example in the *Bhāgavatam*, the author recapitulates the Antya-līlā, briefly listing its chapters.
