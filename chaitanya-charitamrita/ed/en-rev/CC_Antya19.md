@@ -86,7 +86,7 @@ on whatever  day  your  wish  to feed (Me)
 se-dine avaśya āmi kariye bhakṣaṇa  
 on that  day  surely  I  do  eat
 
-(8) Whenever you wish to feed Me, on that day I surely come and eat.
+(8) Whenever you wish to feed Me, I surely come and eat.
 
 তোমার সেবা ছাড়ি’ আমি করিলুঁ সন্ন্যাস ৷  
 ‘বাউল’ হঞা আমি কৈলুঁ ধর্ম্মনাশ ॥ ৯ ॥
@@ -246,7 +246,7 @@ learning (of this)  Svarūpa  Gosāñi  the Lord  asked
 ‘ei tarajāra artha bujhite nārila’  
 this  of the tarjā  the meaning  to understand  I could not
 
-(24) Learning of this, Svarūpa Gosāñi asked the Lord, “I could not understand the meaning of this *tarjā*.”[^8]
+(24) Learning of this, Svarūpa Gosāñi asked the Lord about it: “I could not make out the meaning of this *tarjā*.”[^8]
 
 প্রভু কহেন, — ‘আচার্য্য হয় পূজক প্রবল ৷  
 আগম-শাস্ত্রের বিধি-বিধানে কুশল ॥ ২৫ ॥
@@ -397,7 +397,7 @@ not  seeing  breaks  the heart
 śīghra dekhāha, nā rahe jīvana  
 quickly  show  not  remains  life
 
-(37) O friend, where is Kṛṣṇa? Let Me see Him! If I do not see His face even for a moment, My heart breaks. Show Him to Me quickly, or My life will not remain.[^13]
+(37) O friend, where is Kṛṣṇa? Let Me see Him! If I do not see His face even for a moment, My heart breaks. Show Him to Me quickly, or I cannot live![^13]
 
 এই ব্রজের রমণী, কামার্কতপ্ত-কুমুদিনী,  
 নিজ-করামৃত দিয়া দান ৷  
@@ -748,7 +748,7 @@ the Lord  having put to bed  Rāmānanda  went  home
 svarūpa, govinda śuilā gambhīrāra dvāre  
 Svarūpa  Govinda  lay down  of the Gambhīrā  at the door
 
-(56) After putting the Lord to bed, Rāmānanda went home, and Svarūpa and Govinda lay down at the door of the Gambhīrā.
+(56) Once the Lord was in bed, Rāmānanda went home, and Svarūpa and Govinda lay down at the door of the Gambhīrā.
 
 প্রেমাবেশে মহাপ্রভুর গর-গর মন ৷  
 নামসঙ্কীর্ত্তন করি’ করেন জাগরণ ॥ ৫৭ ॥
@@ -1010,7 +1010,7 @@ of flowers  the fragrance  carrying  blows  the Malaya  breeze
 ‘guru’ hañā taru-latāya śikhāya nācana  
 a teacher  becoming  the trees and creepers  teaches  dancing
 
-(81) Carrying the fragrance of the flowers, the breeze from the Malaya hills blew, and like a dancing master it taught the trees and creepers to dance.[^31]
+(81) The breeze from the Malaya hills blew softly, laden with the fragrance of flowers, and like a dancing master it taught the trees and creepers to dance.[^31]
 
 পূর্ণচন্দ্র-চন্দ্রিকায় পরম উজ্জ্বল ৷  
 তরুলতাদি জ্যোৎস্নায় করে ঝলমল ॥ ৮২ ॥
@@ -1070,7 +1070,7 @@ first  found  Kṛṣṇa  Him  again  losing
 bhūmete paḍilā prabhu mūrcchita hañā  
 on the ground  fell  the Lord  unconscious  becoming
 
-(87) He had found Kṛṣṇa, only to lose Him again, and the Lord fell to the ground unconscious.
+(87) Having found Kṛṣṇa only to lose Him again, the Lord fell to the ground unconscious.
 
 কৃষ্ণের শ্রীঅঙ্গগন্ধে ভরিছে উদ্যানে ৷  
 সেই গন্ধ পাঞা প্রভু হৈলা অচেতনে ॥ ৮৮ ॥
@@ -1171,7 +1171,7 @@ its  such as  fragrance
 sei gandha aṣṭa-padma-saṅge  
 that  fragrance  of the eight lotuses  with
 
-(94) His eyes, navel, face, hands and feet are the eight lotuses on Kṛṣṇa’s body. The fragrance of a lotus anointed with camphor — that is the fragrance of those eight lotuses.[^37]
+(94) His eyes, navel, face, hands and feet are the eight lotuses on Kṛṣṇa’s body, and they give forth the fragrance of a lotus anointed with camphor.[^37]
 
 হেম-কীলিত চন্দন, তাহা করি’ ঘর্ষণ,  
 তাহে অগুরু, কুঙ্কুম, কস্তুরী ৷  

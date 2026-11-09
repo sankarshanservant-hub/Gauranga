@@ -49,7 +49,7 @@ tr: Tell her: ‘Please remember — every day I come and bow at your feet.
 ## 8
 w: on whatever  day  your  wish  to feed (Me)
 w: on that  day  surely  I  do  eat
-tr: Whenever you wish to feed Me, on that day I surely come and eat.
+tr: Whenever you wish to feed Me, I surely come and eat.
 
 ## 9
 w: your  service  giving up  I  took  sannyāsa
@@ -134,7 +134,7 @@ tr: Mahāprabhu heard the *tarjā*, smiled slightly and said, “That is his ord
 ## 24
 w: learning (of this)  Svarūpa  Gosāñi  the Lord  asked
 w: this  of the tarjā  the meaning  to understand  I could not
-tr: Learning of this, Svarūpa Gosāñi asked the Lord, “I could not understand the meaning of this *tarjā*.”
+tr: Learning of this, Svarūpa Gosāñi asked the Lord about it: “I could not make out the meaning of this *tarjā*.”
 fn: So in the Gauḍīya Maṭha edition: *jāniyā* (“learning [of this]”). Other editions read *jāniyāo*, “though he knew [the meaning]”: “Though Svarūpa Gosāñi knew it, he still asked.”
 
 ## 25
@@ -212,7 +212,7 @@ w: O friend  O  where  Kṛṣṇa  let (Me) see
 w: for a moment  whose  face
 w: not  seeing  breaks  the heart
 w: quickly  show  not  remains  life
-tr: O friend, where is Kṛṣṇa? Let Me see Him! If I do not see His face even for a moment, My heart breaks. Show Him to Me quickly, or My life will not remain.
+tr: O friend, where is Kṛṣṇa? Let Me see Him! If I do not see His face even for a moment, My heart breaks. Show Him to Me quickly, or I cannot live!
 fn: In the edition this verse is marked as the refrain of the song (ধ্রু).
 
 ## 38
@@ -382,7 +382,7 @@ tr: In this way half the night passed in His ravings. Then Svarūpa Gosāñi put
 ## 56
 w: the Lord  having put to bed  Rāmānanda  went  home
 w: Svarūpa  Govinda  lay down  of the Gambhīrā  at the door
-tr: After putting the Lord to bed, Rāmānanda went home, and Svarūpa and Govinda lay down at the door of the Gambhīrā.
+tr: Once the Lord was in bed, Rāmānanda went home, and Svarūpa and Govinda lay down at the door of the Gambhīrā.
 
 
 ## 57
@@ -519,7 +519,7 @@ tr: The trees and creepers were in full bloom, as in Vṛndāvana, and the parro
 ## 81
 w: of flowers  the fragrance  carrying  blows  the Malaya  breeze
 w: a teacher  becoming  the trees and creepers  teaches  dancing
-tr: Carrying the fragrance of the flowers, the breeze from the Malaya hills blew, and like a dancing master it taught the trees and creepers to dance.
+tr: The breeze from the Malaya hills blew softly, laden with the fragrance of flowers, and like a dancing master it taught the trees and creepers to dance.
 fn: *Anubhāṣya*: the breeze itself carried the fragrance of the flowers, and besides, like a dancing master, it taught the trees and creepers to dance.
 
 ## 82
@@ -552,7 +552,7 @@ tr: At the sight of Kṛṣṇa, Mahāprabhu ran towards Him, but Kṛṣṇa, s
 ## 87
 w: first  found  Kṛṣṇa  Him  again  losing
 w: on the ground  fell  the Lord  unconscious  becoming
-tr: He had found Kṛṣṇa, only to lose Him again, and the Lord fell to the ground unconscious.
+tr: Having found Kṛṣṇa only to lose Him again, the Lord fell to the ground unconscious.
 
 ## 88
 w: Kṛṣṇa’s  holy  body’s  with the fragrance  is filled  the garden
@@ -603,7 +603,7 @@ w: these  eight  lotuses  on Kṛṣṇa’s  body
 w: with camphor  anointed  a lotus
 w: its  such as  fragrance
 w: that  fragrance  of the eight lotuses  with
-tr: His eyes, navel, face, hands and feet are the eight lotuses on Kṛṣṇa’s body. The fragrance of a lotus anointed with camphor — that is the fragrance of those eight lotuses.
+tr: His eyes, navel, face, hands and feet are the eight lotuses on Kṛṣṇa’s body, and they give forth the fragrance of a lotus anointed with camphor.
 fn: *Anubhāṣya*: the eight parts of the body are the two eyes, the navel, the face, the two hands and the two feet.
 
 ## 95
