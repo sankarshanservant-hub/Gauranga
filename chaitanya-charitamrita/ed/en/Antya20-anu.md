@@ -172,6 +172,96 @@ Compare the verses cited in the *Bhakti-sandarbha* (section 69), such as this on
 
 **saḥ** **pāda-ratām** (the maidservant wholly devoted to the service of His feet) **mām** (Me — Rādhā) **āśliṣya** (embracing tightly) **vā** **pinaṣṭu** (let Him make His own) **vā** **adarśanāt** (by not appearing — by separation) **mām** **marma-hatām** (wounded to the very core of the heart) **karotu** **vā**; **saḥ** **lampaṭaḥ** (absorbed in the pleasure of gratifying His own senses) **yathā** **tathā** **vā** **vidadhātu** (let Him do as He pleases, or let Him sport with other beloveds), **tu** (still) **saḥ** (Kṛṣṇa) **eva** **mat-prāṇa-nāthaḥ** (He alone is My beloved), **na** **aparaḥ**.
 
+## 48
+
+> Subheading: Explanation of the verse: “I am Yours, and You are Mine — what need have I of any other wealth?” — [In any suitable *rāga* (*yathā-rāga*)]
+
+## 50
+
+> Subheading: The varied sweetness of *sneha* — the *sneha* of “mine” (*madīyatva*) and the *sneha* of “His” (*tadīyatva*), that is, *sneha* like honey and *sneha* like ghee; and with it: even in the hour of My happiness I, longing to please Kṛṣṇa's senses, am wholly in His power —
+
+## 51
+
+> Subheading: Even in the hour of My suffering — in separation from Him — I, longing to please Kṛṣṇa's senses, am wholly in His power —
+
+## 52
+
+> Subheading: The exclusive desire to please Kṛṣṇa's senses: “Whatever suffering comes in Your service is itself the highest happiness” —
+
+A devotee takes no account of his own happiness and distress: all his endeavors aim only at Kṛṣṇa's happiness. Apart from Kṛṣṇa's happiness, the devotee has no separate happiness of his own at all. If Kṛṣṇa becomes very happy by giving the devotee pain, the devotee considers that pain his own highest happiness. In the community of *prākṛta-sahajiyās*, who do not know *tattva* and fancy themselves *rasikas* in a worldly way, some take their own craving for happiness as the fruit to be desired. Others think, “On the pretext of serving Kṛṣṇa I myself will enjoy a happiness greater than material happiness,” and so on; as the “fruit” of their efforts in *bhajana* they take *karma-kāṇḍa*, whose whole aim is enjoyment of various kinds. In fact such efforts and fancies of theirs are only the fruit of ignorance about pure *bhajana*, an ignorance rooted in hypocrisy.
+
+## 53
+
+> Subheading: The ceaseless endeavor to please Kṛṣṇa's senses, that is, to increase His happiness —
+
+## 55
+
+> Subheading: Rebuke of the woman who craves enjoyment (*sambhoga*) with Kṛṣṇa —
+
+A devotee who thinks himself fulfilled in his own happiness is utterly ruined: he becomes a *sahajiyā*, a “non-devotee” who seeks material enjoyment (*sambhoga*).
+
+## 56
+
+> Subheading: Respect even for a maidservant of Kṛṣṇa who is hostile to Me but gives Kṛṣṇa happiness —
+
+## 57
+
+> Subheading: The *dharma* of a faithful wife (*pātivratya*), as shown by the wife of a leper brahmin —
+
+The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29)[^57-1], and the *Padma Purāṇa* tell of the wife of a certain brahmin afflicted with leprosy. She was the ornament of faithful wives (*pativratās*). To fulfill the desire of her unworthy husband, a leper, she cleaned the house of a prostitute — an abode of sin — and tried to bring her feeble, lustful husband together with the prostitute. When the prostitute agreed, the faithful brahmin wife, as her husband wished, took her leper husband to the prostitute's house. That leprous sinner, a brahmin in name only (*vipra-bandhu*), seeing the faithful wife's devotion, at last turned back from sin. As he was returning home at night, his foot touched the body of the sage Māṇḍavya, and the sage cursed him. The faithful brahmin wife heard that the *ṛṣi*, angry because her husband had unknowingly broken his *samādhi*, had cursed him: “Right after sunrise he will lose his life.” Because of this, despite her faithfulness, widowhood was inevitable for her. Then, to prevent it, she vowed to keep the sun from rising. Seeing her efforts, the three chief deities — Brahmā, Viṣṇu, and Śiva — came to her. Pleased with the faithful wife's devotion to her husband, they arranged for her husband to be cured and to receive a new life. The point is this: only such faithfulness, free of all self-interest (only the desire for the happiness of service), befits pure devotees.
+
+## 58
+
+> Subheading: “She whose mind, senses, and body are imbued with love for Kṛṣṇa” —
+
+## 59
+
+> Subheading: She gives Kṛṣṇa happiness with all her limbs and senses and always regards herself as His maidservant —
+
+## 60
+
+> Subheading: The maidservant finds boundless joy in service rather than in union (*sambhoga*) —
+
+## 61
+
+> Subheading: The Lord, absorbed in the mood of Śrī Rādhā, relishes pure love (*kevala-prema*) —
+
+## 62
+
+> Subheading: In the desire to please Kṛṣṇa's senses there is no desire to please one's own senses; through the *Śikṣāṣṭaka* the supremely magnanimous Gaura — the *avatāra* who came to relish worship of Himself and to distribute it (*sva-bhajana-vibhajana-prayojana-avatāra*) — distributes to the *jīvas* the distilled essence of the fruit of *Śrīmad-Bhāgavatam*: *sambandha*, *abhidheya*, and *prayojana* —
+
+A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another variant: *se prema* (that love)[^62-1].
+
+## 64
+
+> Subheading: He Himself relishes this *Śikṣāṣṭaka* and Himself preaches it —
+
+## 65
+
+> Subheading: Whoever hears and sings the *Śrī Śikṣāṣṭaka* surely attains love for Kṛṣṇa —
+
+## 66
+
+> Subheading: Despite His incomparable depth, the Lord loses His composure in *mahābhāva* — the divine madness born of separation — as the ocean surges when the full moon rises —
+
+## 67
+
+> Subheading: The books eternally relished by the liberated *mahā-bhāgavatas*, the *paramahaṁsas* — the books dear to the Lord when absorbed in the mood of separation —
+
+“Jayadeva” — that is, the *aṣṭa-padīs* he composed, in other words the *Gīta-govinda*.
+
+## 69
+
+> Subheading: In the last twelve years, in the Antya-līlā, the Lord ceaselessly relishes love for Kṛṣṇa —
+
+## 70
+
+> Subheading: Even Bhagavān Śeṣa-Viṣṇu Himself is unable to describe the states of love for Kṛṣṇa that the Lord experienced —
+
 ---
 
 [^12-1]: The verse translation reads differently: “As the night lotus blossoms in the cool rays of the moon, so the heart begins to bloom in the nectar of this name. In the end the soul awakens to its inner treasure — a life of love for Kṛṣṇa.”
+
+[^57-1]: Unclear in the scan: the number can also be read as “১৬।১৯” (16.19).
+
+[^62-1]: The edition's main reading of the verse is *vrajeśvara-śuddha-prema*; the verse text in our edition (and the Russian verse translation, “the purest love of Vṛndāvana…”) follows the first variant, *vrajera viśuddha-prema*.
