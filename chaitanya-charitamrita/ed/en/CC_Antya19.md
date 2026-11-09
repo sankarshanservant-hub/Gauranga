@@ -269,7 +269,7 @@ for worship  some  time  makes  keeping (Him) present
 (26) For worship he invokes the Deity, and for the worship he keeps the Deity present for some time.
 
 পূজা নির্ব্বাহণ হৈলে পাছে করেন বিসর্জ্জন ৷  
-তরজার না জানি অর্থ, কিবা তাঁর মন ॥ ২৭ ॥
+তরজার না জানি অর্থ কিবা তাঁর মন ॥ ২৭ ॥
 
 pūjā nirvāhaṇa haile pāche karena visarjana  
 the worship  completion  when  afterwards  makes  sending away  
@@ -364,7 +364,7 @@ treasure  My  dearest friend  where  alas  alas  ah  fie on  the Creator
 
 (35) “O friend, where is Kṛṣṇa, the moon of Nanda’s dynasty, adorned with peacock feathers? Where is He whose flute sounds so deep, whose luster is like the sapphire? Where is He who dances in the rapture of the *rāsa*? Where is He — My treasure, the medicine that saves My life, My dearest friend? Alas! Alas! Fie on the Creator!” (Lalita-mādhava, 3.25)
 
-ব্রজেন্দ্রকুল — দুগ্ধসিন্ধু, কৃষ্ণ তাহে পূর্ণ ইন্দু,  
+ব্রজেন্দ্রকুল — দুগ্ধসিন্ধু, কৃষ্ণ — তাহে পূর্ণ ইন্দু,  
 জন্মি’ কৈলা জগৎ উজোর ৷  
 কান্ত্যমৃত যেবা পিয়ে, নিরন্তর পিয়া জিয়ে,  
 ব্রজ-জনের নয়ন-চকোর ॥ ৩৬ ॥
@@ -420,7 +420,7 @@ show  O friend  save  My  life
 (38) The women of Vraja are night-blooming lotuses scorched by the sun of loving desire (*kāma*). Where is that moon of Mine who makes them blossom with the gift of the nectar of His rays — His hands? O friend, show Him to Me and save My life!
 
 কাঁহা সে চূড়ার ঠাম, শিখিপিঞ্ছের উড়ান,  
-নব-মেঘে যেন ইন্দ্রধনু ৷  
+নব মেঘে যেন ইন্দ্রধনু ৷  
 পীতাম্বর — তড়িদ্দ্যুতি, মুক্তামালা — বকপাঁতি,  
 নবাম্বুদ জিনি’ শ্যামতনু ॥ ৩৯ ॥
 
@@ -557,7 +557,7 @@ the doings  your  of a child  the doings  like
 
 না জানিস্ প্রেম-মর্ম্ম, ব্যর্থ করিস্ পরিশ্রম,  
 তোর চেষ্টা — বালক-সমান ৷  
-‘তোর যদি লাগ্ পাইয়ে, তবে তোরে শিক্ষা দিয়ে,  
+তোর যদি লাগ্ পাইয়ে, তবে তোরে শিক্ষা দিয়ে,  
 এমন যেন না করিস্ বিধান ॥ ৪৬ ॥
 
 nā jānis prema-marma,  
@@ -1314,7 +1314,7 @@ Kṛṣṇadāsa  of Rūpa Gosāñi  the servant
 (101) His devotion to His mother, His ravings, His rubbing His face against the walls, and His divine dancing when the fragrance of Kṛṣṇa appeared to Him — these four pastimes Kṛṣṇadāsa, the servant of Rūpa Gosāñi, has sung in this chapter.
 
 এইমত মহাপ্রভু পাঞা চেতন ৷  
-স্নান করি’ কৈল জগন্নাথ-দরশন ॥ ১০২ ॥
+স্নান করি’ কৈল জগন্নাথ দরশন ॥ ১০২ ॥
 
 ei-mata mahāprabhu pāñā cetana  
 in this way  Mahāprabhu  regaining  consciousness  
