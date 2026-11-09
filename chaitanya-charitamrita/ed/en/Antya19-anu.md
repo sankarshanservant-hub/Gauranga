@@ -352,7 +352,7 @@ Seeing the bee at her feet, as if it had fallen at her toes to beg pardon for an
 
 “O friend of my Beloved, have you come back? Has my Beloved sent you? You are worthy of honor, dear one: ask for whatever you wish. But how will you take us to Him, from whom it is so hard to part? For on His chest, O gentle one, His consort Śrī always dwells.” (9)
 
-Having heard all this, the bee flew away and then came back. Seeing this, the *gopī*, after reflecting in her heart, says: “You are the friend of my dear Kṛṣṇa; at Kṛṣṇa's bidding you have come here again from there. So you are worthy of my honor, best of messengers. Tell me your request — what do you wish? Śrī Kṛṣṇa will never give up union [with His beloved]. Why, then, should you now take the *gopīs* away? I tell you: Śrī Kṛṣṇa's consort Lakṣmī stays on the Lord's chest and now serves Him constantly.” (9)
+Having heard all this, the bee flew away and then came back. Seeing this, the *gopī*, after reflecting in her heart, says: “You are the friend of my dear Kṛṣṇa; at Kṛṣṇa's bidding you have come here again from there. So you are worthy of my honor, best of messengers. Tell me your request — what do you wish? Śrī Kṛṣṇa will never give up union [with Lakṣmī]. Why, then, should you now take the *gopīs* away? I tell you: Śrī Kṛṣṇa's consort Lakṣmī stays on the Lord's chest and now serves Him constantly.” (9)
 
 “O gentle one! Alas, Nanda’s son now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (10)
 
@@ -400,7 +400,7 @@ Having finished their water pastimes, the queens, their hearts absorbed in thoug
 
 “O rivers, wives of the ocean, I see that your water has dried up and the beauty of the lotuses is gone. You have grown thin, lost your joy in the summer heat, and no longer increase the ocean's happiness. All the queens are wretched: their hearts are parched, their bodies wasted; they are deprived of the love of the Lord of Madhu. Are you not the same — without water, robbed of beauty, deprived of His loving glance?” (9)
 
-“Welcome, swan! Sit down, drink milk and tell us, dear one, about Śauri. We know you are His messenger. Is the Unconquerable One well? Does He, whose friendship is fickle, remember the words He once spoke to us? Why should we serve Him? O servant of a petty master, call Him here, the fulfiller of desires — but without Śrī. Is she the only woman wholly devoted to Him?” (10)
+“Welcome, swan! Sit down, drink milk and tell us, dear one, about Śauri. We know you are His messenger. Is the Unconquerable One well? Does He, whose friendship is fickle, remember the words He once spoke to us? Why should we serve Him? O servant of a petty master[^108-2], call Him here, the fulfiller of desires — but without Śrī. Is she the only woman wholly devoted to Him?” (10)
 
 “Welcome, swan; we greet you warmly. Drink milk and tell us Kṛṣṇa's message. We have always known you as Kṛṣṇa's messenger. Has Hari sent us any word? We want to know: is Kṛṣṇa happy? Does He not remember us at all? Lakṣmī alone serves Him, and we are maidservants. Why should we choose one who spends words but does not fulfill desires?” (10)
 
@@ -425,6 +425,8 @@ Having finished their water pastimes, the queens, their hearts absorbed in thoug
 [^107-1]: The edition has সুরাং (*surām*, “wine”), a misprint for সুধাং (*sudhām*, “nectar”), as in the *Śrīmad-Bhāgavatam*; the translation follows the correct reading.
 
 [^108-1]: The edition has হমান্তমর্থম্ (*hamāntam artham*), a misprint for মহান্তমর্থম্ (*mahāntam artham*, “something great”); the Bengali paraphrase likewise has *mahad-artha*.
+
+[^108-2]: Otherwise (as the Bengali paraphrase below understands it): *kṣaudrālāpa* (“petty talk”) refers to Kṛṣṇa — “why should we serve one who spends words but does not fulfill desires?”
 
 [^91-1]: The verse translation is broader: “…He draws women to Him.”
 
