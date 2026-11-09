@@ -1006,81 +1006,101 @@ parrots  female parrots  cuckoos  bees  make  conversation
 ‘গুরু’ হঞা তরুলতায় শিখায় নাচন ॥ ৮১ ॥
 
 puṣpa-gandha lañā vahe malaya-pavana  
-‘guru’ hañā taru-latāya śikhāya nācana
+of flowers  the fragrance  carrying  blows  the Malaya  breeze  
+‘guru’ hañā taru-latāya śikhāya nācana  
+a teacher  becoming  the trees and creepers  teaches  dancing
 
-(81) [not yet translated]
+(81) Carrying the fragrance of the flowers, the breeze from the Malaya hills blew, and like a teacher it taught the trees and creepers to dance.
 
 পূর্ণচন্দ্র-চন্দ্রিকায় পরম উজ্জ্বল ৷  
 তরুলতাদি জ্যোৎস্নায় করে ঝলমল ॥ ৮২ ॥
 
 pūrṇa-candra-candrikāya parama ujjvala  
-taru-latādi jyotsnāya kare jhalamala
+of the full moon  by the light  supremely  bright  
+taru-latādi jyotsnāya kare jhalamala  
+the trees  creepers and all  in the moonlight  make  glittering
 
-(82) [not yet translated]
+(82) Everything shone brightly in the light of the full moon; the trees, the creepers and all else glittered in the moonlight.
 
 ছয় ঋতুগণ যাঁহা বসন্ত প্রধান ৷  
 দেখি’ আনন্দিত হৈলা গৌর ভগবান্ ॥ ৮৩ ॥
 
 chaya ṛtu-gaṇa yāṅhā vasanta pradhāna  
-dekhi’ ānandita hailā gaura bhagavān
+the six  seasons  where  spring  foremost  
+dekhi’ ānandita hailā gaura bhagavān  
+seeing  delighted  became  Gaura  Bhagavān
 
-(83) [not yet translated]
+(83) All six seasons were present there, with spring foremost among them. Seeing this, Gaura Bhagavān was delighted.
 
 ললিত লবঙ্গলতা পদ গাওয়াঞা ৷  
 নৃত্য করি’ বুলেন প্রভু নিজগণ লঞা ॥ ৮৪ ॥
 
 lalita lavaṅgalatā pada gāoyāñā  
-nṛtya kari’ bulena prabhu nija-gaṇa lañā
+lalita  lavaṅga-latā  the song  having (them) sing  
+nṛtya kari’ bulena prabhu nija-gaṇa lañā  
+dance  doing  roams  the Lord  His own associates  with
 
-(84) [not yet translated]
+(84) Having His associates sing the song “Lalita-lavaṅga-latā,” the Lord danced and roamed about with them.
 
 প্রতিবৃক্ষবল্লী ঐছে ভ্রমিতে ভ্রমিতে ৷  
 অশোকের তলে কৃষ্ণে দেখেন আচম্বিতে ॥ ৮৫ ॥
 
 prati-vṛkṣa-vallī aiche bhramite bhramite  
-aśokera tale kṛṣṇe dekhena ācambite
+each  tree  creeper  in this way  wandering  wandering  
+aśokera tale kṛṣṇe dekhena ācambite  
+of an aśoka  beneath  Kṛṣṇa  sees  suddenly
 
-(85) [not yet translated]
+(85) Wandering in this way from tree to tree and creeper to creeper, He suddenly saw Kṛṣṇa beneath an *aśoka* tree.
 
 কৃষ্ণ দেখি’ মহাপ্রভু ধাঞা চলিলা ৷  
 আগে দেখি’ হাসি’ কৃষ্ণ অন্তর্দ্ধান হইলা ॥ ৮৬ ॥
 
 kṛṣṇa dekhi’ mahāprabhu dhāñā calilā  
-āge dekhi’ hāsi’ kṛṣṇa antardhāna hailā
+Kṛṣṇa  seeing  Mahāprabhu  running  went  
+āge dekhi’ hāsi’ kṛṣṇa antardhāna hailā  
+in front  seeing  smiling  Kṛṣṇa  disappearance  made
 
-(86) [not yet translated]
+(86) Seeing Kṛṣṇa, Mahāprabhu ran towards Him, but Kṛṣṇa, seeing Him before Him, smiled and disappeared.
 
 আগে পাইলা কৃষ্ণে, তাঁরে পুনঃ হারাঞা ৷  
 ভূমেতে পড়িলা প্রভু মূর্চ্ছিত হঞা ॥ ৮৭ ॥
 
 āge pāilā kṛṣṇe, tāṅre punaḥ hārāñā  
-bhūmete paḍilā prabhu mūrcchita hañā
+first  found  Kṛṣṇa  Him  again  losing  
+bhūmete paḍilā prabhu mūrcchita hañā  
+on the ground  fell  the Lord  unconscious  becoming
 
-(87) [not yet translated]
+(87) He had found Kṛṣṇa, only to lose Him again, and the Lord fell to the ground unconscious.
 
 কৃষ্ণের শ্রীঅঙ্গগন্ধে ভরিছে উদ্যানে ৷  
 সেই গন্ধ পাঞা প্রভু হৈলা অচেতনে ॥ ৮৮ ॥
 
 kṛṣṇera śrī-aṅga-gandhe bhariche udyāne  
-sei gandha pāñā prabhu hailā acetane
+Kṛṣṇa’s  holy  body’s  with the fragrance  is filled  the garden  
+sei gandha pāñā prabhu hailā acetane  
+that  fragrance  getting  the Lord  became  unconscious
 
-(88) [not yet translated]
+(88) The garden was filled with the fragrance of Kṛṣṇa’s holy body, and catching that fragrance, the Lord lost consciousness.
 
 নিরন্তর নাসায় পশে কৃষ্ণ-পরিমল ৷  
 গন্ধ আস্বাদিতে প্রভু হইলা পাগল ॥ ৮৯ ॥
 
 nirantara nāsāya paśe kṛṣṇa-parimala  
-gandha āsvādite prabhu hailā pāgala
+constantly  into the nostrils  enters  Kṛṣṇa’s  fragrance  
+gandha āsvādite prabhu hailā pāgala  
+the fragrance  tasting  the Lord  became  mad
 
-(89) [not yet translated]
+(89) The fragrance of Kṛṣṇa entered His nostrils constantly, and as He relished it, the Lord went mad.
 
 কৃষ্ণগন্ধ-লুব্ধা রাধা সখীরে যে কহিলা ৷  
 সেই শ্লোক পড়ি’ প্রভু অর্থ করিলা ॥ ৯০ ॥
 
 kṛṣṇa-gandha-lubdhā rādhā sakhīre ye kahilā  
-sei śloka paḍi’ prabhu artha karilā
+for Kṛṣṇa’s  fragrance  longing  Rādhā  to her friend  which  spoke  
+sei śloka paḍi’ prabhu artha karilā  
+that  verse  reciting  the Lord  the meaning  made
 
-(90) [not yet translated]
+(90) The Lord recited the verse that Rādhā, longing for Kṛṣṇa’s fragrance, spoke to Her friend, and He explained its meaning:
 
 কুরঙ্গমদজিদ্বপুঃপরিমলোর্ম্মিকৃষ্টাঙ্গনঃ  
 স্বকাঙ্গ নলিনাষ্টকে শশিযুতাব্জগন্ধপ্রথঃ ৷  
@@ -1088,11 +1108,15 @@ sei śloka paḍi’ prabhu artha karilā
 স মে মদনমোহনঃ সখি তনোতি নাসাস্পৃহাম্ ॥ ৯১ ॥
 
 kuraṅga-mada-jid-vapuḥ-parimalormi-kṛṣṭāṅganaḥ  
+musk  surpassing  of His body  of fragrance  by the waves  attracting women  
 svakāṅga nalināṣṭake śaśi-yutābja-gandha-prathaḥ  
+of His own body  in the eight lotuses  with camphor  mixed  of the lotus  fragrance  spreading  
 madenduvara-candanāguru-sugandhi-carccāccitaḥ  
-sa me madana-mohanaḥ sakhi tanoti nāsā-spṛhām
+musk  camphor  fine  sandal  aguru  fragrant  with paste  anointed  
+sa me madana-mohanaḥ sakhi tanoti nāsā-spṛhām  
+He  My  Madana-mohana  O friend  increases  of the nostrils  the longing
 
-(91) [not yet translated]
+(91) “O friend, with waves of the fragrance of His body, which surpasses musk, He draws women to Him; from the eight lotuses of His body He spreads the fragrance of the lotus mixed with camphor; and He is anointed with a fragrant paste of musk, camphor, fine sandal and *aguru*. That Madana-mohana of Mine deepens the longing of My nostrils.” (Govinda-līlāmṛta, 8.6)
 
 কস্তুরিকা-নীলোৎপল, তার যেই পরিমল,  
 তাহা জিনি’ কৃষ্ণ-অঙ্গ-গন্ধ ৷  
@@ -1100,24 +1124,34 @@ sa me madana-mohanaḥ sakhi tanoti nāsā-spṛhām
 নারীগণের আঁখি করে অন্ধ ॥ ৯২ ॥
 
 kasturikā-nīlotpala,  
+musk  blue lotus  
 tāra yei parimala,  
+their  which  fragrance  
 tāhā jini’ kṛṣṇa-aṅga-gandha  
+that  surpassing  Kṛṣṇa’s  body’s  fragrance  
 vyāpe caudda-bhuvane,  
+pervades  the fourteen  worlds  
 kare sarva ākarṣaṇe,  
-nārī-gaṇera āṅkhi kare andha
+makes  all  attraction  
+nārī-gaṇera āṅkhi kare andha  
+of women  the eyes  makes  blind
 
-(92) [not yet translated]
+(92) “The fragrance of Kṛṣṇa’s body surpasses the fragrance of musk and the blue lotus. It pervades the fourteen worlds, draws everyone, and makes the eyes of women blind.
 
 সখি হে, কৃষ্ণগন্ধ জগৎ মাতায় ৷  
 নারীর নাসাতে পশে, সর্ব্বকাল তাঁহা বসে,  
 কৃষ্ণপাশ ধরি’ লঞা যায় ॥ ৯৩ ॥
 
 sakhi he, kṛṣṇa-gandha jagat mātāya  
+O friend  O  Kṛṣṇa’s  fragrance  the world  maddens  
 nārīra nāsāte paśe,  
+of a woman  into the nostrils  enters  
 sarva-kāla tāṅhā vase,  
-kṛṣṇa-pāśa dhari’ lañā yāya
+all  time  there  stays  
+kṛṣṇa-pāśa dhari’ lañā yāya  
+to Kṛṣṇa’s  side  seizing  takes  away
 
-(93) [not yet translated]
+(93) O friend, Kṛṣṇa’s fragrance maddens the world! It enters a woman’s nostrils and stays there for ever; it seizes her and carries her away to Kṛṣṇa’s side.
 
 নেত্র-নাভি, বদন, কর-যুগ-চরণ,  
 এই অষ্টপদ্ম কৃষ্ণ-অঙ্গে ৷  
@@ -1125,13 +1159,19 @@ kṛṣṇa-pāśa dhari’ lañā yāya
 সেই গন্ধ অষ্টপদ্ম-সঙ্গে ॥ ৯৪ ॥
 
 netra-nābhi, vadana,  
+eyes  navel  face  
 kara-yuga-caraṇa,  
+pair of hands  feet  
 ei aṣṭa-padma kṛṣṇa-aṅge  
+these  eight  lotuses  on Kṛṣṇa’s  body  
 karpūra-lipta kamala,  
+with camphor  anointed  a lotus  
 tāra yaiche parimala,  
-sei gandha aṣṭa-padma-saṅge
+its  such as  fragrance  
+sei gandha aṣṭa-padma-saṅge  
+that  fragrance  of the eight lotuses  with
 
-(94) [not yet translated]
+(94) His eyes, navel, face, hands and feet are the eight lotuses on Kṛṣṇa’s body. The fragrance of a lotus anointed with camphor — that is the fragrance of those eight lotuses.
 
 হেম-কীলিত চন্দন, তাহা করি’ ঘর্ষণ,  
 তাহে অগুরু, কুঙ্কুম, কস্তুরী ৷  
@@ -1139,13 +1179,19 @@ sei gandha aṣṭa-padma-saṅge
 মিলি’ তারে যেন কৈল চুরি ॥ ৯৫ ॥
 
 hema-kīlita candana,  
+in gold  set  sandal  
 tāhā kari’ gharṣaṇa,  
+it  making  grinding  
 tāhe aguru, kuṅkuma, kasturī  
+with it  aguru  kuṅkuma  musk  
 karpūra-sane carccā aṅge,  
+with camphor  paste  on the body  
 pūrva aṅgera gandha saṅge,  
-mili’ tāre yena kaila curi
+the original  body’s  fragrance  with  
+mili’ tāre yena kaila curi  
+mixing  it  as if  made  theft
 
-(95) [not yet translated]
+(95) Sandalwood set in gold is ground, and *aguru*, *kuṅkuma*, musk and camphor are mixed with it; this paste is applied to His body, and mingling with the body’s own fragrance, it seems to steal it away and hide it.
 
 হরে নারীর তনুমন, নাসা করে ঘূর্ণন,  
 খসায় নীবি, ছুটায় কেশবন্ধ ৷  
@@ -1153,13 +1199,19 @@ mili’ tāre yena kaila curi
 হেন ডাকাতিয়া কৃষ্ণাঙ্গ গন্ধ ॥ ৯৬ ॥
 
 hare nārīra tanu-mana,  
+steals  of women  bodies  and minds  
 nāsā kare ghūrṇana,  
+the nostrils  makes  whirl  
 khasāya nīvi, chuṭāya keśa-bandha  
+loosens  the knots of their garments  undoes  hair  braids  
 kariyā āge bāurī,  
+making  first  mad  
 nācāya jagat-nārī,  
-hena ḍākātiyā kṛṣṇāṅga gandha
+makes dance  the world’s  women  
+hena ḍākātiyā kṛṣṇāṅga gandha  
+such  a robber  Kṛṣṇa’s body’s  fragrance
 
-(96) [not yet translated]
+(96) The fragrance of Kṛṣṇa’s body steals the bodies and minds of women; it sets their nostrils reeling, loosens the knots of their garments and undoes their braided hair. First it drives the women of the world mad, and then it makes them dance — such a robber is the fragrance of Kṛṣṇa’s body!
 
 সেই গন্ধবশ নাসা, সদা করে গন্ধের আশা,  
 কভু পায়, কভু নাহি পায় ৷  
@@ -1167,13 +1219,19 @@ hena ḍākātiyā kṛṣṇāṅga gandha
 না পাইলে তৃষ্ণায় মরি’ যায় ॥ ৯৭ ॥
 
 sei gandha-vaśa nāsā,  
+by that  fragrance  conquered  nostrils  
 sadā kare gandhera āśā,  
+always  make  for the fragrance  hope  
 kabhu pāya, kabhu nāhi pāya  
+sometimes  get  sometimes  not  get  
 pāile piyā peṭa bhare,  
+getting  drinking  the belly  fill  
 piṅa piṅa tabu kare,  
-nā pāile tṛṣṇāya mari’ yāya
+more  more  still  make  
+nā pāile tṛṣṇāya mari’ yāya  
+not  getting  from thirst  dying  go
 
-(97) [not yet translated]
+(97) The nostrils conquered by that fragrance always long for it. Sometimes they get it and sometimes not. When they get it, they drink their fill and still cry, ‘More! More!’ When they do not, they die of thirst.
 
 মদনমোহন-নাট, পসারি গন্ধের হাট,  
 জগন্নারী-গ্রাহকে লোভায় ৷  
@@ -1181,13 +1239,19 @@ nā pāile tṛṣṇāya mari’ yāya
 ঘর যাইতে পথ নাহি পায় ॥ ৯৮ ॥
 
 madana-mohana-nāṭa,  
+Madana-mohana  the actor  
 pasāri gandhera hāṭa,  
+spreading out  of fragrance  a market  
 jagan-nārī-grāhake lobhāya  
+the world’s  women  customers  tempts  
 vinā-mūlye deya gandha,  
+without  price  gives  fragrance  
 gandha diyā kare andha,  
-ghara yāite patha nāhi pāya
+fragrance  giving  makes  blind  
+ghara yāite patha nāhi pāya  
+home  to go  the way  not  find
 
-(98) [not yet translated]
+(98) Madana-mohana, the actor, has opened a market of fragrance and tempts the women of the world to come as customers. He gives the fragrance free of charge, but having given it, He makes them blind, and they cannot find their way home.”
 
 এইমত গৌরহরি, গন্ধে কৈল মন চুরি,  
 ভৃঙ্গপ্রায় ইতি-উতি ধায় ৷  
@@ -1195,13 +1259,19 @@ ghara yāite patha nāhi pāya
 কৃষ্ণ না পায়, গন্ধমাত্র পায় ॥ ৯৯ ॥
 
 ei-mata gaurahari,  
+in this way  Gaurahari  
 gandhe kaila mana curi,  
+by the fragrance  made  mind  theft  
 bhṛṅga-prāya iti-uti dhāya  
+like a bee  here and there  runs  
 yāya vṛkṣa-latā-pāśe,  
+goes  trees  creepers  to the side of  
 kṛṣṇa sphure — sei āśe,  
-kṛṣṇa nā pāya, gandha-mātra pāya
+Kṛṣṇa  will appear  in that  hope  
+kṛṣṇa nā pāya, gandha-mātra pāya  
+Kṛṣṇa  not  finds  fragrance  only  finds
 
-(99) [not yet translated]
+(99) In this way the fragrance stole the mind of Gaurahari, and He ran here and there like a bee. He went to the trees and creepers in the hope that Kṛṣṇa would appear, but He did not find Kṛṣṇa — He found only His fragrance.
 
 স্বরূপ-রামানন্দ গায়, প্রভু নাচে, সুখ পায়,  
 এইমতে প্রাতঃকাল হৈল ৷  
@@ -1209,13 +1279,19 @@ kṛṣṇa nā pāya, gandha-mātra pāya
 মহাপ্রভুর বাহ্যস্ফূর্ত্তি কৈল ॥ ১০০ ॥
 
 svarūpa-rāmānanda gāya,  
+Svarūpa  Rāmānanda  sing  
 prabhu nāce, sukha pāya,  
+the Lord  dances  happiness  feels  
 ei-mate prātaḥ-kāla haila  
+in this way  morning  came  
 svarūpa-rāmānanda-rāya,  
+Svarūpa  Rāmānanda  Rāya  
 kari nānā upāya,  
-mahāprabhura bāhya-sphūrti kaila
+making  various  means  
+mahāprabhura bāhya-sphūrti kaila  
+of Mahāprabhu  external  awareness  made
 
-(100) [not yet translated]
+(100) Svarūpa and Rāmānanda sang, and the Lord danced and was happy. In this way morning came. Then, by various means, Svarūpa and Rāmānanda Rāya brought Mahāprabhu back to external awareness.
 
 মাতৃভক্তি, প্রলাপন, ভিত্ত্যে মুখ-ঘর্ষণ,  
 কৃষ্ণগন্ধ-স্ফূর্ত্ত্যে দিব্যনৃত্য ৷  
@@ -1223,100 +1299,134 @@ mahāprabhura bāhya-sphūrti kaila
 কৃষ্ণদাস রূপগোসাঞি-ভৃত্য ॥ ১০১ ॥
 
 mātṛ-bhakti, pralāpana,  
+devotion to His mother  ravings  
 bhittye mukha-gharṣaṇa,  
+against the walls  the face  rubbing  
 kṛṣṇa-gandha-sphūrttye divya-nṛtya  
+at the appearance of Kṛṣṇa’s  fragrance  divine dancing  
 ei cāri-līlā-bhede,  
+these  four  pastimes  distinguishing  
 gāila ei paricchede,  
-kṛṣṇadāsa rūpa-gosāñi-bhṛtya
+has sung  in this  chapter  
+kṛṣṇadāsa rūpa-gosāñi-bhṛtya  
+Kṛṣṇadāsa  of Rūpa Gosāñi  the servant
 
-(101) [not yet translated]
+(101) His devotion to His mother, His ravings, His rubbing His face against the walls, and His divine dancing when the fragrance of Kṛṣṇa appeared to Him — these four pastimes Kṛṣṇadāsa, the servant of Rūpa Gosāñi, has sung in this chapter.
 
 এইমত মহাপ্রভু পাঞা চেতন ৷  
 স্নান করি’ কৈল জগন্নাথ-দরশন ॥ ১০২ ॥
 
 ei-mata mahāprabhu pāñā cetana  
-snāna kari’ kaila jagannātha-daraśana
+in this way  Mahāprabhu  regaining  consciousness  
+snāna kari’ kaila jagannātha-daraśana  
+bath  taking  made  of Jagannātha  seeing
 
-(102) [not yet translated]
+(102) Having thus regained consciousness, Mahāprabhu bathed and went to see Lord Jagannātha.
 
 অলৌকিক কৃষ্ণলীলা, দিব্যশক্তি তার ৷  
 তর্কের গোচর নহে চরিত্র যাহার ॥ ১০৩ ॥
 
 alaukika kṛṣṇa-līlā, divya-śakti tāra  
-tarkera gocara nahe caritra yāhāra
+unearthly  Kṛṣṇa’s  pastimes  divine power  their  
+tarkera gocara nahe caritra yāhāra  
+of reasoning  the object  is not  the conduct  whose
 
-(103) [not yet translated]
+(103) Kṛṣṇa’s pastimes are unearthly, and divine is their power; His conduct lies beyond the reach of reasoning.
 
 এই প্রেম সদা জাগে যাহার অন্তরে ৷  
 পণ্ডিতেহ তার চেষ্টা বুঝিতে না পারে ॥ ১০৪ ॥
 
 ei prema sadā jāge yāhāra antare  
-paṇḍiteha tāra ceṣṭā bujhite nā pāre
+this  love  always  is awake  in whose  heart  
+paṇḍiteha tāra ceṣṭā bujhite nā pāre  
+even scholars  his  behaviour  to understand  not  can
 
-(104) [not yet translated]
+(104) Even scholars cannot understand the behaviour of one in whose heart this love is always awake.
 
 ধন্যস্যায়ং নবঃ প্রেমা যস্যোন্মীলতি চেতসি ৷  
 অন্তর্ব্বাণীভিরপ্যস্য মুদ্রা সুষ্ঠু সুদুর্গমা ॥ ১০৫ ॥
 
 dhanyasyāyaṁ navaḥ premā  
+of the fortunate  this  new  prema  
 yasyonmīlati cetasi  
+in whose  blossoms  heart  
 antar-vāṇībhir apy asya  
-mudrā suṣṭhu su-durgamā
+by knowers of the scriptures  even  his  
+mudrā suṣṭhu su-durgamā  
+ways  quite  very hard to understand
 
-(105) [not yet translated]
+(105) “The ways of the fortunate soul in whose heart this new *prema* has blossomed are very hard to understand, even for those who know the scriptures.” (Bhakti-rasāmṛta-sindhu, 1.4.17)
 
 অলৌকিক প্রভুর ‘চেষ্টা’, ‘প্রলাপ’ শুনিয়া ৷  
 তর্ক না করিহ, শুন বিশ্বাস করিয়া ॥ ১০৬ ॥
 
 alaukika prabhura ‘ceṣṭā’, ‘pralāpa’ śuniyā  
-tarka nā kariha, śuna viśvāsa kariyā
+unearthly  the Lord’s  behaviour  ravings  hearing  
+tarka nā kariha, śuna viśvāsa kariyā  
+argument  not  make  hear  faith  having
 
-(106) [not yet translated]
+(106) When you hear of the Lord’s unearthly behaviour and ravings, do not argue — hear with faith.
 
 ইহার সত্যত্বে প্রমাণ শ্রীভাগবতে ৷  
 শ্রীরাধার প্রলাপ ‘ভ্রমর-গীতা’তে ॥ ১০৭ ॥
 
 ihāra satyatve pramāṇa śrī-bhāgavate  
-śrī-rādhāra pralāpa ‘bhramara-gītā’te
+of this  for the truth  the evidence  in the Śrī Bhāgavatam  
+śrī-rādhāra pralāpa ‘bhramara-gītā’te  
+of Śrī Rādhā  the ravings  in the Bhramara-gītā
 
-(107) [not yet translated]
+(107) Evidence of their truth is found in the *Śrī Bhāgavatam*: the ravings of Śrī Rādhā in the *Bhramara-gītā*.
 
 মহিষীর গীত যেন ‘দশমে’র শেষে ৷  
 পণ্ডিতে না বুঝে তার অর্থবিশেষে ॥ ১০৮ ॥
 
 mahiṣīra gīta yena ‘daśame’ra śeṣe  
-paṇḍite nā bujhe tāra artha-viśeṣe
+of the queens  the songs  as  of the Tenth  at the end  
+paṇḍite nā bujhe tāra artha-viśeṣe  
+scholars  not  understand  their  meaning  special
 
-(108) [not yet translated]
+(108) So too are the songs of the queens at the end of the Tenth Canto, whose special meaning scholars do not understand.
 
 মহাপ্রভু-নিত্যানন্দ, দোঁহার দাসের দাস ৷  
 যারে কৃপা করেন, তার হয় ইথে বিশ্বাস ॥ ১০৯ ॥
 
 mahāprabhu-nityānanda, doṅhāra dāsera dāsa  
-yāre kṛpā karena, tāra haya ithe viśvāsa
+Mahāprabhu  Nityānanda  of the two  of the servant  the servant  
+yāre kṛpā karena, tāra haya ithe viśvāsa  
+on whom  mercy  bestow  his  is  in this  faith
 
-(109) [not yet translated]
+(109) One on whom Mahāprabhu and Nityānanda, or the servant of Their servant, bestow Their mercy has faith in this.
 
 শ্রদ্ধা করি’ শুন ইহা, শুনিতে মহাসুখ ৷  
 খণ্ডিবে আধ্যাত্মিকাদি কুতর্কাদি-দুঃখ ॥ ১১০ ॥
 
 śraddhā kari’ śuna ihā, śunite mahā-sukha  
-khaṇḍibe ādhyātmikādi kutarkādi-duḥkha
+faith  having  hear  this  in hearing  great joy  
+khaṇḍibe ādhyātmikādi kutarkādi-duḥkha  
+will destroy  spiritual and other  of false arguments and others  sufferings
 
-(110) [not yet translated]
+(110) Hear this with faith — there is great joy in hearing it. It will destroy the threefold miseries, beginning with those of body and mind, and the pain of false arguments.
 
 শ্রীচৈতন্যচরিতামৃত — নিত্য নূতন ৷  
 শুনিতে শুনিতে জুড়ায় হৃদয়-শ্রবণ ॥ ১১১ ॥
 
 śrī-caitanya-caritāmṛta — nitya nūtana  
-śunite śunite juḍāya hṛdaya-śravaṇa
+the Śrī Caitanya-caritāmṛta  ever  new  
+śunite śunite juḍāya hṛdaya-śravaṇa  
+hearing  hearing  are soothed  the heart  and ears
 
-(111) [not yet translated]
+(111) The *Śrī Caitanya-caritāmṛta* is ever new. As one hears it again and again, the heart and the ears are soothed.
 
 শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
 চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১১২ ॥
 
 śrī-rūpa-raghunātha-pade yāra āśa  
-caitanya-caritāmṛta kahe kṛṣṇadāsa
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
 
-(112) [not yet translated]
+(112) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.
+
+---
+
+[^24-1]: So in the Gauḍīya Maṭha edition: *jāniyā* (“learning [of this]”). Other editions read *jāniyāo*, “though he knew [the meaning]”: “Though Svarūpa Gosāñi knew it, he still asked.”
