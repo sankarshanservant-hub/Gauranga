@@ -519,7 +519,7 @@ as  He likes  or  may He act  the unrestrained lover
 mat-prāṇa-nāthas tu sa eva nāparaḥ  
 of My life  the Lord  yet  He  alone  no other
 
-(47) “Let Him embrace this maidservant devoted to His feet and make Me His own, or break My heart by not appearing before Me. Let that unrestrained lover (*lampaṭa*) do with Me whatever He likes — He alone is the Lord of My life, and no one else.” (Śikṣāṣṭaka, 8)[^15]
+(47) “Let Him embrace Me, this maidservant devoted to His feet, and make Me His own, or break My heart by not appearing before Me. Let that unrestrained lover (*lampaṭa*) do with Me whatever He likes — He alone is the Lord of My life, and no one else.” (Śikṣāṣṭaka, 8)[^15]
 
 আমি — কৃষ্ণপদ-দাসী, তেঁহো — রসসুখরাশি,  
 আলিঙ্গিয়া করে আত্মসাথ ৷  
@@ -756,7 +756,7 @@ His own love  to make known  to the world  the Lord  made  this  verse
 pada kailā arthera nirbandha  
 songs (pada)  He made  of the meaning  as the exposition
 
-(62) Pure love for the Lord of Vraja is like gold from the river Jambū: in it there is no trace of desire for one’s own happiness. To make this love known to the world, the Lord composed this verse and set out its meaning at length in songs.[^19][^20]
+(62) In pure love for the Lord of Vraja there is no trace of desire for one’s own happiness: it is like gold from the river Jambū. To make this love known to the world, the Lord composed this verse and set out its meaning at length in songs.[^19][^20]
 
 এইমত মহাপ্রভু ভাবাবিষ্ট হঞা ৷  
 প্রলাপ করিলা কিছু শ্লোক পড়িয়া ॥ ৬৩ ॥
