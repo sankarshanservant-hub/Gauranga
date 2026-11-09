@@ -230,7 +230,7 @@ The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29), and the *Padma
 
 > Subheading: In the desire to please Kṛṣṇa's senses there is no desire to please one's own senses; through the *Śikṣāṣṭaka* the supremely magnanimous Gaura — the *avatāra* who came to relish worship of Himself and to distribute it (*sva-bhajana-vibhajana-prayojana-avatāra*) — distributes to the *jīvas* the distilled essence of the fruit of *Śrīmad-Bhāgavatam*: *sambandha*, *abhidheya*, and *prayojana* —
 
-A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another variant: *se prema* (that love)[^62-1].
+A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another variant: *se prema* (that love).
 
 ## 64
 
@@ -296,7 +296,7 @@ Some say this: the later pure ācāryas who wrote of Gaura's pastimes also follo
 
 ## 87
 
-A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyāsa will describe”).[^87-1] Following it, many statements of the *Caitanya-bhāgavata* — for example, in its first chapter: “In the Śeṣa-khaṇḍa are Caitanya's endless pastimes; Vedavyāsa is yet to describe them in detail” — were written about the later pure Vaiṣṇava ācāryas who described Gaura's pastimes, headed by Śrīla Kavirāja Gosvāmī. Some explain it this way as well.
+A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyāsa will describe”). Following it, many statements of the *Caitanya-bhāgavata* — for example, in its first chapter: “In the Śeṣa-khaṇḍa are Caitanya's endless pastimes; Vedavyāsa is yet to describe them in detail” — were written about the later pure Vaiṣṇava ācāryas who described Gaura's pastimes, headed by Śrīla Kavirāja Gosvāmī. Some explain it this way as well.
 
 ## 88
 
@@ -362,7 +362,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 > Subheading: Only by following Nityānanda's mercy, which is full of Caitanya (consciousness), can the tongue — that is, speech — glorify Caitanya's pastimes —
 
-**upādhyāyī** — “the one to whom people come and from whom they learn”; “He who for his livelihood teaches a part of the Veda, or else the Vedāṅgas, is called an *upādhyāya*.” (*Manu-saṁhitā*)[^147-1] That is, a teacher of the arts (*kalā-vidyā*). A variant reading: “*mora vāṇī — śiṣyā*” (my speech is the pupil).[^147-2]
+**upādhyāyī** — “the one to whom people come and from whom they learn”; “He who for his livelihood teaches a part of the Veda, or else the Vedāṅgas, is called an *upādhyāya*.” (*Manu-saṁhitā*)[^147-1] That is, a teacher of the arts (*kalā-vidyā*). A variant reading: “*mora vāṇī — śiṣyā*” (my speech is the pupil).
 
 ## 150
 
@@ -384,7 +384,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 > Subheading: Kṛṣṇa's lotus feet alone are the transcendental, unlimited reservoir of *rasa* —
 
-**kaḥ** **rasikaḥ** **parimala-vāsita-bhuvanam** (by whose fragrance the world is perfumed) **sva-rasonmādita-rasajña-rolambam** (where the bees are the *rasika* devotees, maddened by the *rasa* of *śṛṅgāra*)[^156-1] **giridhara-caraṇāmbhojam** **hātum** (to give up) **samīhate** (tries)?
+**kaḥ** **rasikaḥ** **parimala-vāsita-bhuvanam** (by whose fragrance the world is perfumed) **sva-rasonmādita-rasajña-rolambam** (where the bees are the *rasika* devotees, maddened by the *rasa* of *śṛṅgāra*) **giridhara-caraṇāmbhojam** **hātum** (to give up) **samīhate** (tries)?
 
 ## 157
 
@@ -444,17 +444,9 @@ and attain love for the Divine Couple. (8)
 
 [^12-1]: The verse translation reads differently: “As the night lotus blossoms in the cool rays of the moon, so the heart begins to bloom in the nectar of this name. In the end the soul awakens to its inner treasure — a life of love for Kṛṣṇa.”
 
-[^62-1]: The edition's main reading of the verse is *vrajeśvara-śuddha-prema*; the verse text in our edition (and the Russian verse translation, “the purest love of Vṛndāvana…”) follows the first variant, *vrajera viśuddha-prema*.
-
-[^87-1]: In the edition, the verse itself reads *karilā* (past tense); the translation of the verse (VCD) gives the future tense, as in this variant.
-
 [^97-1]: In the edition this comment is numbered ১৪৫ (145), but it stands between the comments on verses 87 and 147, quotes the words of verse 97 (“Śrī Raghunātha dāsa is *śrī-guru*”), and itself refers to “verse 145 below”; checked against the scan — a misprint for ৯৭ (97).
 
 [^147-1]: *Manu-saṁhitā* 2.141.
-
-[^147-2]: In the edition, the verse itself reads *tāra vāṇī* (“their speech”); the text and translation of the verse in VCD follow this variant (“my words”).
-
-[^156-1]: In the edition, the verse reads *rasajña-rolambam* (“bees who know *rasa*”); the verse text in VCD reads *rasikālambam*, hence the different verse translation: “…who have found their full shelter in these relationships…”
 
 [^158-1]: The 429th year of the Caitanya era (Gaurābda) is 1915 CE. Trivikrama is the Vaiṣṇava name of a month (May–June).
 

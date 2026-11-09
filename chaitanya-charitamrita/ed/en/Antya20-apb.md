@@ -66,7 +66,7 @@ May this book, the *Śrī Caitanya-caritāmṛta*, be offered to Śrī Kṛṣ�
 
 ## 156
 
-Kṛṣṇa's lotus feet fill the world with fragrance, and with their own *rasa* they madden the bees who know *rasa*. What *rasika* would try to give them up?[^156-1]
+Kṛṣṇa's lotus feet fill the world with fragrance, and with their own *rasa* they madden the bees who know *rasa*. What *rasika* would try to give them up?
 
 ## 157
 
@@ -116,10 +116,8 @@ Now I beg forgiveness for my faults.
 
 [^47-1]: The verse translation reads differently: “Kṛṣṇa may embrace this maidservant who has fallen at His feet and call her His own” (the *Anubhāṣya* understands it the same way); the word *lampaṭa* (libertine) is rendered there as “in His willfulness.”
 
-[^90-1]: *Ṭunṭunī* is the Bengali name of the tiny tailorbird. The verse translation has “a little red-beaked bird.”
+[^90-1]: *Ṭunṭunī* is the Bengali name of the tiny tailorbird.
 
-[^154-1]: The verse translation reads differently: “Anyone who, like a honeybee, is intoxicated by the nectar of the spotless lotus feet of this Supreme Lord will, by his faith and devotion, be able to taste transcendental relationships with the Supreme…”
-
-[^156-1]: The verse translation reads differently: “Those who sense the fragrance of Kṛṣṇa's lotus feet spreading throughout the world, who are intoxicated by the nectar of their own relationship with Him, who have found their full shelter in these relationships — how could such saintly *rasika* Vaiṣṇavas give all this up?” (the verse text in VCD has a different reading; see the *Anubhāṣya* on 156).
+[^154-1]: The verse translation reads differently: “Whoever with faith relishes this nectarean account… becomes a bee at His spotless lotus feet…”
 
 [^158-1]: The 410th year of the Gaura era (Gaurābda) is 1896 CE; Meṣa is a solar month (April–May).
