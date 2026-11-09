@@ -208,7 +208,7 @@ A devotee who thinks himself fulfilled in his own happiness is utterly ruined: h
 
 > Subheading: The *dharma* of a faithful wife (*pātivratya*), as shown by the wife of a leper brahmin —
 
-The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29)[^57-1], and the *Padma Purāṇa* tell of the wife of a certain brahmin afflicted with leprosy. She was the ornament of faithful wives (*pativratās*). To fulfill the desire of her unworthy husband, a leper, she cleaned the house of a prostitute — an abode of sin — and tried to bring her feeble, lustful husband together with the prostitute. When the prostitute agreed, the faithful brahmin wife, as her husband wished, took her leper husband to the prostitute's house. That leprous sinner, a brahmin in name only (*vipra-bandhu*), seeing the faithful wife's devotion, at last turned back from sin. As he was returning home at night, his foot touched the body of the sage Māṇḍavya, and the sage cursed him. The faithful brahmin wife heard that the *ṛṣi*, angry because her husband had unknowingly broken his *samādhi*, had cursed him: “Right after sunrise he will lose his life.” Because of this, despite her faithfulness, widowhood was inevitable for her. Then, to prevent it, she vowed to keep the sun from rising. Seeing her efforts, the three chief deities — Brahmā, Viṣṇu, and Śiva — came to her. Pleased with the faithful wife's devotion to her husband, they arranged for her husband to be cured and to receive a new life. The point is this: only such faithfulness, free of all self-interest (only the desire for the happiness of service), befits pure devotees.
+The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29), and the *Padma Purāṇa* tell of the wife of a certain brahmin afflicted with leprosy. She was the ornament of faithful wives (*pativratās*). To fulfill the desire of her unworthy husband, a leper, she cleaned the house of a prostitute — an abode of sin — and tried to bring her feeble, lustful husband together with the prostitute. When the prostitute agreed, the faithful brahmin wife, as her husband wished, took her leper husband to the prostitute's house. That leprous sinner, a brahmin in name only (*vipra-bandhu*), seeing the faithful wife's devotion, at last turned back from sin. As he was returning home at night, his foot touched the body of the sage Māṇḍavya, and the sage cursed him. The faithful brahmin wife heard that the *ṛṣi*, angry because her husband had unknowingly broken his *samādhi*, had cursed him: “Right after sunrise he will lose his life.” Because of this, despite her faithfulness, widowhood was inevitable for her. Then, to prevent it, she vowed to keep the sun from rising. Seeing her efforts, the three chief deities — Brahmā, Viṣṇu, and Śiva — came to her. Pleased with the faithful wife's devotion to her husband, they arranged for her husband to be cured and to receive a new life. The point is this: only such faithfulness, free of all self-interest (only the desire for the happiness of service), befits pure devotees.
 
 ## 58
 
@@ -423,10 +423,10 @@ nothing in it is mine.
 As long as life lasts, I shall remember him in this world;
 eternally I long for those feet. (5)
 
-Gadādhara's dearest friend, Śrī Svarūpa Dāmodara,
-always worships Gaura-Kṛṣṇa.
-Seeing the suffering of the world, he took the dress of a beggar
-and day and night serves the name of Kṛṣṇa. (6)
+Gadādhara's dearest friend and Śrī Svarūpa Dāmodara[^158-3]
+always worship Gaura-Kṛṣṇa.
+Seeing the suffering of the world, they took the dress of beggars
+and day and night serve the name of Kṛṣṇa. (6)
 
 These two [appeared] by the will of Śrī Gaura — how can I, insignificant, tell their glory? —
 this is an account of transcendental associates.
@@ -444,8 +444,6 @@ and attain love for the Divine Couple. (8)
 
 [^12-1]: The verse translation reads differently: “As the night lotus blossoms in the cool rays of the moon, so the heart begins to bloom in the nectar of this name. In the end the soul awakens to its inner treasure — a life of love for Kṛṣṇa.”
 
-[^57-1]: Unclear in the scan: the number can also be read as “১৬।১৯” (16.19).
-
 [^62-1]: The edition's main reading of the verse is *vrajeśvara-śuddha-prema*; the verse text in our edition (and the Russian verse translation, “the purest love of Vṛndāvana…”) follows the first variant, *vrajera viśuddha-prema*.
 
 [^87-1]: In the edition, the verse itself reads *karilā* (past tense); the translation of the verse (VCD) gives the future tense, as in this variant.
@@ -461,3 +459,5 @@ and attain love for the Divine Couple. (8)
 [^158-1]: The 429th year of the Caitanya era (Gaurābda) is 1915 CE. Trivikrama is the Vaiṣṇava name of a month (May–June).
 
 [^158-2]: Dayita-dāsiyā is a homely diminutive of the name Dayita dāsa (“servant of the Beloved”), Bhaktisiddhānta's own signature (compare the opening of the *Anubhāṣya* on Ādi 1: “the servant of the Beloved of Śrī Vārṣabhānavī”).
+
+[^158-3]: The compound *gadādhara-mitra-vara* allows two readings: “Gadādhara's best friend” (then two persons are named, he and Svarūpa Dāmodara) or “Gadādhara, the best of friends.” The first is adopted: the comma between the names and “these two” in the next verse require two persons. For decision.
