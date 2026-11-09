@@ -1256,6 +1256,473 @@ in Dāmodara Svarūpa’s care  him  entrusted
 
 (113) The Lord entrusted him to Svarūpa Dāmodara and gave him the *śilā* from Govardhana and the *guñjā* garland.
 
+সপ্তম-পরিচ্ছেদে — বল্লভ-ভট্টের মিলন ৷  
+নানা মতে কৈলা তাঁর গর্ব্ব খণ্ডন ॥ ১১৪ ॥
+
+saptama-paricchede — vallabha-bhaṭṭera milana  
+in the seventh chapter  —  of Vallabha Bhaṭṭa  the meeting  
+nānā mate kailā tām̐ra garva khaṇḍana  
+various  in ways  made  his  pride  breaking
+
+(114) In the seventh chapter: the meeting with Vallabha Bhaṭṭa, whose pride the Lord broke in various ways.
+
+অষ্টমে — রামচন্দ্র-পুরীর আগমন ৷  
+তাঁর ভয়ে কৈলা প্রভু ভিক্ষা সঙ্কোচন ॥ ১১৫ ॥
+
+aṣṭame — rāmacandra-purīra āgamana  
+in the eighth  —  of Rāmacandra Purī  the arrival  
+tām̐ra bhaye kailā prabhu bhikṣā saṅkocana  
+of him  out of fear  made  the Lord  meals  reduction
+
+(115) In the eighth: the arrival of Rāmacandra Purī, out of fear of whom the Lord reduced His meals.
+
+নবমে — গোপীনাথ-পট্টনায়ক-মোচন ৷  
+ত্রিজগতের লোক প্রভুর পাইল দরশন ॥ ১১৬ ॥
+
+navame — gopīnātha-paṭṭanāyaka-mocana  
+in the ninth  —  Gopīnātha Paṭṭanāyaka’s release  
+trijagatera loka prabhura pāila daraśana  
+of the three worlds  the people  of the Lord  received  sight
+
+(116) In the ninth: the release of Gopīnātha Paṭṭanāyaka; and the people of the three worlds received the Lord’s *darśana*.
+
+দশমে — কহিলুঁ ভক্তদত্ত-আস্বাদন ৷  
+রাঘব-পণ্ডিতের তাঁহা ঝালির সাজন ॥ ১১৭ ॥
+
+daśame — kahilum̐ bhakta-datta-āsvādana  
+in the tenth  —  I told  the relishing of what the devotees gave  
+rāghava-paṇḍitera tām̐hā jhālira sājana  
+of Rāghava Paṇḍita  there  of the bags  the packing
+
+(117) In the tenth I told of the Lord’s relishing what the devotees gave Him, and there of how Rāghava Paṇḍita packed his bags (*jhāli*).
+
+তার মধ্যে গোবিন্দের কৈলা পরীক্ষণ ৷  
+তার মধ্যে পরিমুণ্ডা-নৃত্যের বর্ণন ॥ ১১৮ ॥
+
+tāra madhye govindera kailā parīkṣaṇa  
+of that  in the midst  of Govinda  made  testing  
+tāra madhye parimuṇḍā-nṛtyera varṇana  
+of that  in the midst  of the dance in a circle  the description
+
+(118) There the Lord tested Govinda, and there too is the description of the dance in a circle (*parimuṇḍā-nṛtya*).
+
+একাদশে — হরিদাস-ঠাকুরের নির্য্যাণ ৷  
+ভক্ত-বাৎসল্য যাঁহা দেখাইলা গৌরভগবান্ ॥ ১১৯ ॥
+
+ekādaśe — haridāsa-ṭhākurera niryāṇa  
+in the eleventh  —  of Haridāsa Ṭhākura  the departure  
+bhakta-vātsalya yām̐hā dekhāilā gaura-bhagavān  
+affection for devotees  where  showed  Gaura Bhagavān
+
+(119) In the eleventh: the departure of Haridāsa Ṭhākura, in which Gaura Bhagavān showed His affection for His devotees.
+
+দ্বাদশে — জগদানন্দের তৈল-ভঞ্জন ৷  
+নিত্যানন্দ কৈলা শিবানন্দেরে তাড়ন ॥ ১২০ ॥
+
+dvādaśe — jagadānandera taila-bhañjana  
+in the twelfth  —  Jagadānanda’s  breaking of the oil pot  
+nityānanda kailā śivānandere tāḍana  
+Nityānanda  made  to Śivānanda  punishment
+
+(120) In the twelfth: Jagadānanda’s breaking of the pitcher of oil, and Nityānanda’s punishment of Śivānanda.
+
+ত্রয়োদশে — জগদানন্দ মথুরা যাই’ আইলা ৷  
+মহাপ্রভু-দেবদাসীর গীত শুনিলা ॥ ১২১ ॥
+
+trayodaśe — jagadānanda mathurā yāi’ āilā  
+in the thirteenth  —  Jagadānanda  to Mathurā  having gone  came back  
+mahāprabhu-deva-dāsīra gīta śunilā  
+Mahāprabhu  of the devadāsī  song  heard
+
+(121) In the thirteenth: Jagadānanda went to Mathurā and came back, and Mahāprabhu heard the song of a *devadāsī*.
+
+রঘুনাথ-ভট্টাচার্য্যের তাঁহাই মিলন ৷  
+প্রভু তাঁরে কৃপা করি’ পাঠাইলা বৃন্দাবন ॥ ১২২ ॥
+
+raghunātha-bhaṭṭācāryera tām̐hāi milana  
+of Raghunātha Bhaṭṭācārya  there too  the meeting  
+prabhu tām̐re kṛpā kari’ pāṭhāilā vṛndāvana  
+the Lord  him  mercy  showing  sent  to Vṛndāvana
+
+(122) There too is the meeting with Raghunātha Bhaṭṭācārya, whom the Lord in His mercy sent to Vṛndāvana.
+
+চতুর্দ্দশে — দিব্যোন্মাদ-আরম্ভ বর্ণন ৷  
+’শরীর’ এথা প্রভুর, ‘মন’ গেলা বৃন্দাবন ॥ ১২৩ ॥
+
+caturdaśe — divyonmāda-ārambha varṇana  
+in the fourteenth  —  of the divine madness the beginning  the description  
+’śarīra’ ethā prabhura, ‘mana’ gelā vṛndāvana  
+‘body’  here  the Lord’s  ‘mind’  went  to Vṛndāvana
+
+(123) In the fourteenth: the description of the beginning of the divine madness — the Lord’s “body” was here, His “mind” had gone to Vṛndāvana.
+
+তার মধ্যে প্রভুর সিংহদ্বারে পতন ৷  
+অস্থি-সন্ধি-ত্যাগ, অনুভাবের উদ্গম ॥ ১২৪ ॥
+
+tāra madhye prabhura siṁha-dvāre patana  
+of that  in the midst  the Lord’s  at the Siṁha-dvāra  fall  
+asthi-sandhi-tyāga, anubhāvera udgama  
+of the bones the joints the loosening  of the ecstatic symptoms  the rise
+
+(124) In it: the Lord’s fall at the Siṁha-dvāra, the loosening of His joints, and the rise of ecstatic symptoms (*anubhāva*).
+
+চটক-পর্ব্বত দেখি’ প্রভুর ধাবন ৷  
+তার মধ্যে প্রভুর কিছু প্রলাপ বর্ণন ॥ ১২৫ ॥
+
+caṭaka-parvata dekhi’ prabhura dhāvana  
+Caṭaka-parvata  seeing  the Lord’s  running  
+tāra madhye prabhura kichu pralāpa varṇana  
+of that  in the midst  the Lord’s  some  ecstatic raving  the description
+
+(125) Seeing Caṭaka-parvata, the Lord ran towards it; and the chapter describes some of His ecstatic ravings (*pralāpa*).
+
+পঞ্চদশ-পরিচ্ছেদে — উদ্যান-বিলাসে ৷  
+বৃন্দাবনভ্রমে যাঁহা করিলা প্রবেশে ॥ ১২৬ ॥
+
+pañcadaśa-paricchede — udyāna-vilāse  
+in the fifteenth chapter  —  in the garden  pastimes  
+vṛndāvana-bhrame yām̐hā karilā praveśe  
+mistaking it for Vṛndāvana  where  made  entry
+
+(126) In the fifteenth chapter: the pastimes in the garden, which the Lord entered, taking it for Vṛndāvana.
+
+তার মধ্যে প্রভুর পঞ্চেন্দ্রিয়-আকর্ষণ ৷  
+তার মধ্যে করিলা রাসে কৃষ্ণ-অন্বেষণ ॥ ১২৭ ॥
+
+tāra madhye prabhura pañcendriya-ākarṣaṇa  
+of that  in the midst  the Lord’s  of the five senses attraction  
+tāra madhye karilā rāse kṛṣṇa-anveṣaṇa  
+of that  in the midst  made  in the rāsa  search for Kṛṣṇa
+
+(127) In it: the attraction of the Lord’s five senses, and His search for Kṛṣṇa in the *rāsa* dance.
+
+ষোড়শে — কালিদাসে প্রভু কৃপা করিলা ৷  
+বৈষ্ণবোচ্ছিষ্ট খাইবার ফল দেখাইলা ॥ ১২৮ ॥
+
+ṣoḍaśe — kālidāse prabhu kṛpā karilā  
+in the sixteenth  —  to Kālidāsa  the Lord  mercy  showed  
+vaiṣṇavocchiṣṭa khāibāra phala dekhāilā  
+the Vaiṣṇavas’ remnants  of eating  the fruit  showed
+
+(128) In the sixteenth the Lord showed mercy to Kālidāsa and revealed the fruit of eating the remnants of Vaiṣṇavas.
+
+শিবানন্দের বালকে শ্লোক করাইলা ৷  
+সিংহদ্বারের দ্বারী প্রভুরে কৃষ্ণ দেখাইলা ॥ ১২৯ ॥
+
+śivānandera bālake śloka karāilā  
+Śivānanda’s  the boy  a verse  caused to compose  
+siṁha-dvārera dvārī prabhure kṛṣṇa dekhāilā  
+of the Siṁha-dvāra  the doorkeeper  to the Lord  Kṛṣṇa  showed
+
+(129) The Lord had Śivānanda’s boy compose a verse, and the doorkeeper of the Siṁha-dvāra showed Kṛṣṇa to the Lord.
+
+মহাপ্রসাদের তাঁহা মহিমা বর্ণিলা ৷  
+কৃষ্ণাধরামৃতের ফল-শ্লোক আস্বাদিলা ॥ ১৩০ ॥
+
+mahā-prasādera tām̐hā mahimā varṇilā  
+of mahā-prasāda  there  the glory  described  
+kṛṣṇādharāmṛtera phala-śloka āsvādilā  
+of the nectar of Kṛṣṇa’s lips  the fruit-verse  relished
+
+(130) There He described the glory of *mahā-prasāda* and relished the verse on the fruit of the nectar of Kṛṣṇa’s lips.
+
+সপ্তদশে — গাভী-মধ্যে প্রভুর পতন ৷  
+কূর্ম্মাকার-অনুভাবের তাঁহাই উদ্গম ॥ ১৩১ ॥
+
+saptadaśe — gābhī-madhye prabhura patana  
+in the seventeenth  —  among the cows  the Lord’s  fall  
+kūrmākāra-anubhāvera tām̐hāi udgama  
+of the tortoise-form ecstatic symptom  there  the rise
+
+(131) In the seventeenth: the Lord’s fall among the cows, and there the appearance of the ecstatic symptom of His tortoise-like form.
+
+কৃষ্ণের শব্দ-গুণে প্রভুর মন আকর্ষিলা ৷  
+‘কাস্ত্র্যঙ্গ তে’ শ্লোকের অর্থ আবেশে করিলা ॥ ১৩২ ॥
+
+kṛṣṇera śabda-guṇe prabhura mana ākarṣilā  
+Kṛṣṇa’s  by the qualities of sound  the Lord’s  mind  was drawn  
+‘kā stry aṅga te’ ślokera artha āveśe karilā  
+‘what  woman  O dear  Your’  of the verse  the meaning  in ecstasy  made
+
+(132) The qualities of Kṛṣṇa’s sound drew the Lord’s mind, and in ecstasy He explained the meaning of the verse *kā stry aṅga te*.
+
+ভাব-শাবল্যে পুনঃ কৈলা প্রলাপন ৷  
+কর্ণামৃত-শ্লোকের অর্থ কৈলা বিবরণ ॥ ১৩৩ ॥
+
+bhāva-śābalye punaḥ kailā pralāpana  
+in the mingling of emotions  again  made  raving  
+karṇāmṛta-ślokera artha kailā vivaraṇa  
+of the Karṇāmṛta verse  the meaning  made  explanation
+
+(133) In a mingling of emotions (*bhāva-śābalya*) He again spoke in ecstatic raving, and He explained the meaning of a verse of the *Karṇāmṛta*.
+
+অষ্টাদশ পরিচ্ছেদে — সমুদ্রে পতন ৷  
+কৃষ্ণ-গোপী-জলকেলি তাঁহা দরশন ॥ ১৩৪ ॥
+
+aṣṭādaśa paricchede — samudre patana  
+eighteenth  in the chapter  —  into the ocean  the fall  
+kṛṣṇa-gopī-jala-keli tām̐hā daraśana  
+of Kṛṣṇa and the gopīs the water-play  there  the vision
+
+(134) In the eighteenth chapter: the Lord’s fall into the ocean, and there His vision of the water-play of Kṛṣṇa and the gopīs.
+
+তাঁহাই দেখিলা কৃষ্ণের বন্য-ভোজন ৷  
+জালিয়া উঠাইল, প্রভু আইলা স্ব-ভবন ॥ ১৩৫ ॥
+
+tām̐hāi dekhilā kṛṣṇera vanya-bhojana  
+there too  He saw  Kṛṣṇa’s  forest meal  
+jāliyā uṭhāila, prabhu āilā sva-bhavana  
+a fisherman  lifted out  the Lord  came  to His own residence
+
+(135) There too He saw Kṛṣṇa’s meal in the forest. A fisherman pulled Him out, and the Lord came back to His residence.
+
+ঊনবিংশে — ভিত্ত্যে প্রভুর মুখসংঘর্ষণ ৷  
+কৃষ্ণের বিরহ-স্ফূর্ত্তি-প্রলাপ বর্ণন ॥ ১৩৬ ॥
+
+ūnaviṁśe — bhittye prabhura mukha-saṅgharṣaṇa  
+in the nineteenth  —  against the wall  the Lord’s  face rubbing  
+kṛṣṇera viraha-sphūrti-pralāpa varṇana  
+Kṛṣṇa’s  separation-awakened raving  the description
+
+(136) In the nineteenth: the Lord’s rubbing His face against the wall, and the description of His raving as separation from Kṛṣṇa flashed within Him.
+
+বসন্ত-রজনীতে পুষ্পোদ্যানে বিহরণ ৷  
+কৃষ্ণের সৌরভ্য-শ্লোকের অর্থ-বিবরণ ॥ ১৩৭ ॥
+
+vasanta-rajanīte puṣpodyāne viharaṇa  
+on a spring night  in the flower garden  wandering  
+kṛṣṇera saurabhya-ślokera artha-vivaraṇa  
+Kṛṣṇa’s  of the fragrance verse  the meaning-explanation
+
+(137) His wandering in a flower garden on a spring night, and His explanation of the verse on Kṛṣṇa’s fragrance.
+
+বিংশতি-পরিচ্ছেদে — নিজ-‘শিক্ষাষ্টক’ পড়িয়া ৷  
+তার অর্থ আস্বাদিলা প্রেমাবিষ্ট হঞা ॥ ১৩৮ ॥
+
+viṁśati-paricchede — nija-‘śikṣāṣṭaka’ paḍiyā  
+in the twentieth chapter  —  His own ‘Śikṣāṣṭaka’  reciting  
+tāra artha āsvādilā premāviṣṭa hañā  
+its  meaning  relished  absorbed in love  becoming
+
+(138) In the twentieth chapter: reciting His own *Śikṣāṣṭaka*, the Lord, absorbed in love, relished its meaning.
+
+ভক্তে শিখাইতে যেই শিক্ষাষ্টক কহিলা ৷  
+সেই শ্লোকাষ্টকের অর্থ পুনঃ আস্বাদিলা ॥ ১৩৯ ॥
+
+bhakte śikhāite yei śikṣāṣṭaka kahilā  
+the devotees  to teach  which  Śikṣāṣṭaka  He spoke  
+sei ślokāṣṭakera artha punaḥ āsvādilā  
+of those  eight verses  the meaning  again  relished
+
+(139) The *Śikṣāṣṭaka* He had spoken to teach the devotees — the meaning of those eight verses He relished once more.
+
+মুখ্য-মুখ্য-লীলার অর্থ করিলুঁ কথন ৷  
+’অনুবাদ’ হৈতে স্মরে গ্রন্থ-বিবরণ ॥ ১৪০ ॥
+
+mukhya-mukhya-līlāra artha karilum̐ kathana  
+of the principal pastimes  the substance  I have made  telling  
+’anuvāda’ haite smare grantha-vivaraṇa  
+‘recapitulation’  from  is remembered  of the book the contents
+
+(140) I have told the substance of the principal pastimes; by recapitulation (*anuvāda*) the contents of the book are remembered.[^37]
+
+এক এক পরিচ্ছেদের কথা — অনেকপ্রকার ৷  
+মুখ্য মুখ্য কহিলুঁ, কথা না যায় বিস্তার ॥ ১৪১ ॥
+
+eka eka paricchedera kathā — aneka-prakāra  
+each  each  of the chapter  the topics  —  of many kinds  
+mukhya mukhya kahilum̐, kathā nā yāya vistāra  
+principal  principal  I have told  the story  not  can  be expanded
+
+(141) Each chapter has topics of many kinds. I have told only the principal ones, for the story cannot be told at length.[^38]
+
+শ্রীরাধা-সহ ‘শ্রীমদনমোহন’ ৷  
+শ্রীরাধা-সহ ‘শ্রীগোবিন্দ’-চরণ ॥ ১৪২ ॥
+
+শ্রীরাধা-সহ শ্রীল ‘শ্রীগোপীনাথ’ ৷  
+এই তিন ঠাকুর হয় ‘গৌড়িয়ার নাথ’ ॥ ১৪৩ ॥
+
+śrī rādhā-saha ‘śrī madana-mohana’  
+Śrī  with Rādhā  ‘Śrī  Madana-mohana’  
+śrī rādhā-saha ‘śrī govinda’-caraṇa  
+Śrī  with Rādhā  ‘Śrī  Govinda’s’ feet  
+śrī rādhā-saha śrīla ‘śrī gopīnātha’  
+Śrī  with Rādhā  the beautiful  ‘Śrī  Gopīnātha’  
+ei tina ṭhākura haya ‘gauḍiyāra nātha’  
+these  three  Deities  are  ‘the Lords of the Gauḍīyas’
+
+(142–143) Śrī Madana-mohana with Śrī Rādhā, the feet of Śrī Govinda with Śrī Rādhā, and beautiful Śrī Gopīnātha with Śrī Rādhā — these three Deities are the Lords of the Gauḍīyas.[^39]
+
+শ্রীকৃষ্ণচৈতন্য, শ্রীযুক্ত নিত্যানন্দ ৷  
+শ্রীঅদ্বৈত-আচার্য্য, শ্রীগৌরভক্তবৃন্দ ॥ ১৪৪ ॥
+
+শ্রীস্বরূপ, শ্রীরূপ, শ্রীসনাতন ৷  
+শ্রীগুরু শ্রীরঘুনাথ, শ্রীজীব-চরণ ॥ ১৪৫ ॥
+
+নিজ-শিরে ধরি’ এই সবার চরণ ৷  
+যাহা হৈতে হয় সব বাঞ্ছিত-পূরণ ॥ ১৪৬ ॥
+
+śrī kṛṣṇa-caitanya, śrī-yukta nityānanda  
+Śrī  Kṛṣṇa Caitanya  the glorious  Nityānanda  
+śrī advaita-ācārya, śrī gaura-bhakta-vṛnda  
+Śrī  Advaita Ācārya  Śrī  Gaura’s devotees  
+śrī svarūpa, śrī rūpa, śrī sanātana  
+Śrī  Svarūpa  Śrī  Rūpa  Śrī  Sanātana  
+śrī guru śrī raghunātha, śrī jīva-caraṇa  
+Śrī  guru  Śrī  Raghunātha  Śrī  Jīva’s feet  
+nija-śire dhari’ ei sabāra caraṇa  
+on my own head  holding  of these  all  the feet  
+yāhā haite haya saba vāñchita-pūraṇa  
+which  from  comes  of all  desires the fulfilment
+
+(144–146) Śrī Kṛṣṇa Caitanya, the glorious Nityānanda, Śrī Advaita Ācārya and the devotees of Śrī Gaura; Śrī Svarūpa, Śrī Rūpa, Śrī Sanātana; Śrī Raghunātha, my guru, and the feet of Śrī Jīva — I hold the feet of all these on my head, for from them comes the fulfilment of every desire.[^40]
+
+সবার চরণ-কৃপা — ‘গুরু উপাধ্যায়ী’ ৷  
+তার বাণী — শিষ্যা, তারে বহুত নাচাই ॥ ১৪৭ ॥
+
+sabāra caraṇa-kṛpā — ‘guru upādhyāyī’  
+of all  the mercy of the feet  —  ‘the guru  the teacher’  
+tāra vāṇī — śiṣyā, tāre bahuta nācāi  
+his  speech  —  the pupil  her  much  makes dance
+
+(147) The mercy of the feet of all of them is the teacher (*upādhyāyī*), and the author’s speech is her pupil, whom she makes dance in many ways.[^41][^42]
+
+শিষ্যার শ্রম দেখি’ গুরু নাচান রাখিলা ৷  
+’কৃপা’ না নাচায়, ‘বাণী’ বসিয়া রহিলা ॥ ১৪৮ ॥
+
+śiṣyāra śrama dekhi’ guru nācāna rākhilā  
+of the pupil  the weariness  seeing  the teacher  dancing  stopped  
+’kṛpā’ nā nācāya, ‘vāṇī’ vasiyā rahilā  
+‘mercy’  not  makes dance  ‘speech’  sitting  remained
+
+(148) Seeing the pupil’s weariness, the teacher stopped the dance. When “mercy” does not make her dance, “speech” sits still.
+
+অনিপুণা বাণী আপনে নাচিতে না জানে ৷  
+যত নাচাইলা, নাচি’ করিলা বিশ্রামে ॥ ১৪৯ ॥
+
+anipuṇā vāṇī āpane nācite nā jāne  
+unskilled  speech  by herself  to dance  not  knows  
+yata nācāilā, nāci’ karilā viśrāme  
+as much as  made dance  having danced  made  rest
+
+(149) Unskilled speech does not know how to dance by herself: she danced as much as she was made to dance, and then she rested.
+
+সব শ্রোতাগণের করি চরণ বন্দন ৷  
+যাঁ-সবার চরণ-কৃপা — শুভের কারণ ॥ ১৫০ ॥
+
+saba śrotā-gaṇera kari caraṇa vandana  
+of all  the listeners  I make  to the feet  obeisance  
+yām̐-sabāra caraṇa-kṛpā — śubhera kāraṇa  
+of whom all  the mercy of the feet  —  of good  the cause
+
+(150) I bow down at the feet of all my listeners, the mercy of whose feet is the cause of all good.[^43]
+
+চৈতন্যচরিতামৃত যেই জন শুনে ৷  
+তাঁর চরণ ধুঞা করোঁ মুঞি পানে ॥ ১৫১ ॥
+
+caitanya-caritāmṛta yei jana śune  
+Caitanya-caritāmṛta  who  person  hears  
+tām̐ra caraṇa dhuñā karom̐ muñi pāne  
+his  feet  washing  I make  I  drinking
+
+(151) Whoever hears the *Caitanya-caritāmṛta* — I wash his feet and drink that water.
+
+শ্রোতার পদরেণু করোঁ মস্তক-ভূষণ ৷  
+তোমরা এ-অমৃত পিলে সফল হৈল শ্রম ॥ ১৫২ ॥
+
+śrotāra pada-reṇu karom̐ mastaka-bhūṣaṇa  
+of the listener  the foot-dust  I make  the head’s ornament  
+tomarā e-amṛta pile saphala haila śrama  
+you  this nectar  having drunk  fruitful  became  the labour
+
+(152) I make the dust of my listeners’ feet the ornament of my head. You have drunk this nectar, and my labour has borne fruit.
+
+শ্রীরূপ-রঘুনাথ-পদে যার আশ ৷  
+চৈতন্যচরিতামৃত কহে কৃষ্ণদাস ॥ ১৫৩ ॥
+
+śrī-rūpa-raghunātha-pade yāra āśa  
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope  
+caitanya-caritāmṛta kahe kṛṣṇadāsa  
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+
+(153) Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.[^44]
+
+চরিতমমৃতমেতচ্ছ্রীলচৈতন্যবিষ্ণোঃ  
+শুভদমশুভনাশি শ্রদ্ধয়াস্বাদয়েদ্যঃ ৷  
+তদমলপদপদ্মে ভৃঙ্গতামেত্য সোঽয়ং  
+রসয়তি রসমুচ্চৈঃ প্রেমমাধ্বীকপূরম্ ॥ ১৫৪ ॥
+
+caritam amṛtam etac chrīla-caitanya-viṣṇoḥ  
+the life-story  nectarean  this  of Śrīla Caitanya  Viṣṇu  
+śubha-dam aśubha-nāśi śraddhayāsvādayed yaḥ  
+bestowing good  destroying evil  with faith would relish  who  
+tad-amala-pada-padme bhṛṅgatām etya so ‘yaṁ  
+at his (the relisher’s) spotless lotus feet  bee-hood  attaining  he  this one (the author)  
+rasayati rasam uccaiḥ prema-mādhvīka-pūram  
+relishes  rasa  intensely  full of the honey-wine of prema
+
+(154) This nectarean account of the life of Śrīla Caitanya, who is Viṣṇu Himself, bestows all good and destroys all evil. At the spotless lotus feet of whoever relishes it with faith I become a bee, and I relish to the full the rasa that overflows with the intoxicating honey of prema.[^45][^46]
+
+শ্রীমন্মদনগোপাল-গোবিন্দদেব-তুষ্টয়ে ৷  
+চৈতন্যার্পিতমস্ত্বেতচ্চৈতন্যচরিতামৃতম্ ॥ ১৫৫ ॥
+
+śrīman-madana-gopāla-  
+of Śrīman Madana-Gopāla  
+govinda-deva-tuṣṭaye  
+and Govinda-deva  for the satisfaction  
+caitanyārpitam astv etac  
+offered to Caitanya  may be  this  
+caitanya-caritāmṛtam  
+Caitanya-caritāmṛta
+
+(155) For the satisfaction of Śrīman Madana-Gopāla and Govinda-deva, may this *Caitanya-caritāmṛta* be offered to Śrī Caitanya.[^47]
+
+পরিমলবাসিতভুবনং  
+স্বরসোন্মাদিত-রসজ্ঞ-রোলম্বম্ ৷  
+গিরিধরচরণাম্ভোজং কঃ  
+খলু রসিকঃ সমীহতে হাতুম্ ॥ ১৫৬ ॥
+
+parimala-vāsita-bhuvanaṁ  
+by whose fragrance  perfumed  the world  
+sva-rasonmādita-rasajña-rolambam  
+by its own rasa  intoxicated  the rasa-knowing  bees  
+giridhara-caraṇāmbhojaṁ kaḥ  
+Giridhara’s  lotus feet  who  
+khalu rasikaḥ samīhate hātum  
+indeed  rasika  seeks  to abandon
+
+(156) The lotus feet of Giridhara fill the world with their fragrance, and with their own rasa they intoxicate the bees who know rasa. What *rasika* would ever seek to abandon them?[^48]
+
+মৎপ্রাণসর্ব্বস্বপদাব্জরেণো-  
+র্মদীশ্বরী-শ্রীযুতরাধিকায়াঃ ৷  
+প্রাণোরুসর্ব্বস্বপদাব্জরেণুং  
+শ্রীশ্রীল-গোবিন্দমহং প্রপদ্যে ॥ ১৫৭ ॥
+
+mat-prāṇa-sarvasva-padābja-reṇor-  
+of my life  the all-in-all  of the lotus feet  of the dust  
+mad-īśvarī-śrī-yuta-rādhikāyāḥ  
+of my Mistress  Śrī  Rādhikā  
+prāṇoru-sarvasva-padābja-reṇuṁ  
+more than life  the all-in-all  lotus feet  whose dust  
+śrī-śrīla-govindam ahaṁ prapadye  
+Śrī Śrīla Govinda  I  surrender to
+
+(157) The dust of the lotus feet of my Mistress, Śrī Rādhikā, is the whole wealth of my life, and by its power I surrender to Śrī Śrīla Govinda, the dust of whose lotus feet is dearer to Her than life and is Her all in all.[^49]
+
+শাকে সিন্ধ্বগ্নিবাণেন্দৌ জ্যৈষ্ঠে বৃন্দাবনান্তরে ৷  
+সূর্য্যাহেঽসিতপঞ্চম্যাং গ্রন্থোঽয়ং পূর্ণতাং গতঃ ॥ ১৫৮ ॥
+
+śāke sindhv-agni-vāṇendau  
+in the Śaka year  ocean-fire-arrow-moon (1537)  
+jyaiṣṭhe vṛndāvanāntare  
+in Jyaiṣṭha  in Vṛndāvana  
+sūryāhe ’sita-pañcamyāṁ  
+on Sunday  on the fifth day of the dark fortnight  
+grantho ’yaṁ pūrṇatāṁ gataḥ  
+book  this  completion  reached
+
+(158) In the Śaka year 1537, in the month of Jyaiṣṭha, in Vṛndāvana, on a Sunday, the fifth day of the dark fortnight, this book was completed.[^50][^51]
+
 ---
 
 [^1]: *Anubhāṣya*: the fortunate are the great souls who have gained the wealth of prema. Heading in the edition: only a devotee in whom prema has awakened can follow the feeling of separation the Lord experienced.
@@ -1329,3 +1796,33 @@ in Dāmodara Svarūpa’s care  him  entrusted
 [^35]: Heading in the edition: obeisance to the listeners.
 
 [^36]: In the Bengali, *anuvāda* (“recapitulation”) rhymes with *āsvāda* (“relish”). Heading in the edition: following Vyāsa’s example in the *Bhāgavatam*, the author recapitulates the Antya-līlā, briefly listing its chapters.
+
+[^37]: Heading in the edition: only recapitulation (*anuvāda*) — review or retelling — awakens the memory of the pastimes.
+
+[^38]: Heading in the edition: fearing excessive length, the author has described only the principal events.
+
+[^39]: Heading in the edition: the author’s worshipful Deities, the Lords of the Gauḍīyas who preside over *sambandha*, *abhidheya* and *prayojana* — Śrī Rādhā-Madana-mohana, Govinda and Gopīnātha.
+
+[^40]: *Anubhāṣya*: Śrī Raghunātha dāsa is the guru who taught the author bhajana (see 97). Heading in the edition: obeisance to Gaura, who is the Pañca-tattva; before 145 — the author, who follows the path of rāga, bows to the gurus, embodiments of Gaura’s potency; before 146 — only obeisance to them leads to the desired goal.
+
+[^41]: So in the Gauḍīya Maṭha edition: *tāra vāṇī*, “his speech” — the author speaks of himself in the third person, as in the closing lines of the chapters; *tāra* is written without the *candrabindu*, as one speaks of oneself (of those he honours the author writes *tāṅra*, 83, 89), and “their” would be *sabāra*. Other manuscripts read *mora vāṇī*, “my speech” (cited in the *Anubhāṣya* as a variant).
+
+[^42]: *Anubhāṣya*: *upādhyāyī* — one to whom pupils come to learn (*Manu-smṛti* 2.141), here a teacher of the arts (*kalā-vidyā*). Heading in the edition: only by following the mercy of Nityānanda, which is full of Caitanya (consciousness), can speech glorify Caitanya’s pastimes.
+
+[^43]: Heading in the edition: obeisance to the listeners and a prayer for their mercy.
+
+[^44]: The same verse as Ādi 1.110 (and Antya 19.112), the refrain that closes the chapters; translation as there.
+
+[^45]: *Tad-* (“his”) answers *yaḥ* (“whoever”), and *so ’yam* (“this very one”) is the author himself; so the verse is read by the heading in the edition — “the author’s words of humility” (cf. 151–152, where the author drinks the water that has washed the listener’s feet). The stage-A translation followed another reading: “whoever relishes it with faith becomes a bee at His spotless lotus feet”.
+
+[^46]: *Amṛta-pravāha-bhāṣya*: at the spotless lotus feet of one who with faith relishes this account, which bestows good and destroys all evil, this writer becomes a bee and relishes to the full the rasa filled with the intoxicating honey of prema.
+
+[^47]: The same verse as Madhya 25.275; translation as there. Heading in the edition: for Kṛṣṇa’s pleasure the author offers the nectar of this book to Śrī Caitanya.
+
+[^48]: So in the Gauḍīya Maṭha edition and the *Anubhāṣya*: *rasajña-rolambam*, “bees who know rasa” — according to the *Anubhāṣya*, the *rasika* devotees intoxicated by the rasa of conjugal love (*śṛṅgāra*). Other manuscripts read *rasikālambam*, “the shelter of the *rasikas*”. According to the *Anubhāṣya* (on verse 158), verses 156–158 are not found in many manuscripts. Heading in the edition: the lotus feet of Kṛṣṇa alone are the transcendental, boundless reservoir of rasa.
+
+[^49]: Translated according to the original and the *Amṛta-pravāha-bhāṣya*. *Amṛta-pravāha-bhāṣya*: “By the power of the dust of the lotus feet of her who is the all-in-all of my life, and meditating on the dust of the lotus feet that is dearer than life and the all-in-all to my Mistress Śrīmatī Rādhikā, I surrender to Śrī Śrī Govinda-deva.” Heading in the edition: surrender to Śrī Rādhā-Govinda, the author’s own worshipful Deity.
+
+[^50]: *Sindhu* (ocean) = 7, *agni* (fire) = 3, *bāṇa* (arrow) = 5, *indu* (moon) = 1. *Anubhāṣya*: by the rule that the digits run from right to left — Śaka 1537 (A.D. 1615). Heading in the edition: the time of the book’s completion.
+
+[^51]: In the edition this verse is unnumbered; the number 158 is from the *Anubhāṣya*. Here the edition gives the colophon: “Thus ends the twentieth chapter of the Antya-khaṇḍa of the *Śrī Caitanya-caritāmṛta*, called Relishing the Meaning of the Verses of Instruction”, and the words: “Thus the Antya-līlā is completed.”
