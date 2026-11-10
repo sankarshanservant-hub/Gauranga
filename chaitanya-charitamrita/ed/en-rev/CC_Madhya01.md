@@ -3057,6 +3057,6 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^60]: Edition heading: “Śrī Raghunātha’s service to Nityānanda and His associates at Pānihāṭi”.
 
-[^61]: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (Vilāpa-kusumāñjali, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
+[^61]: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali*, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
 
 [^62]: Edition heading: “Of the eighteen years, leaving aside six, the pastimes of the last twelve years will be described in sūtras later”. *Anubhāṣya*: the author gives the sūtras of the last twelve years in the second chapter, and then describes the Madhya- and Antya-līlā step by step in detail (cf. Antya 1.10–11).

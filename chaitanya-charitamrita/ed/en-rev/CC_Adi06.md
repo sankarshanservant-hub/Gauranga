@@ -1296,7 +1296,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^35]: *Amṛta-pravāha-bhāṣya*: the ten bodies are the umbrella, slippers, bed, pillow, garments, ornaments, resting place, dwelling, sacred thread and throne.
 
-[^36]: *Anubhāṣya* (following the *Laghu-bhāgavatāmṛta*): the scriptures speak of Rudra in two ways. Śiva who is the Lord’s own part (*svāṁśa*) is counted among the lords (*īśvara-koṭi*), while Rudra the destroyer is in some kalpas a particular jīva, like Brahmā. Hara, the abode of the Puruṣa, is in essence almost free of the guṇas and only appears changeable through his contact with tamas — as milk turns into curd by contact with a culture and yet is not other than milk (Brahma-saṁhitā, 5.45). Sadāśiva, who dwells in Śivaloka within Vaikuṇṭha and is free from tamas, is a vilāsa of Śrī Kṛṣṇa.
+[^36]: *Anubhāṣya* (following the *Laghu-bhāgavatāmṛta*): the scriptures speak of Rudra in two ways. Śiva who is the Lord’s own part (*svāṁśa*) is counted among the lords (*īśvara-koṭi*), while Rudra the destroyer is in some kalpas a particular jīva, like Brahmā. Hara, the abode of the Puruṣa, is in essence almost free of the guṇas and only appears changeable through his contact with tamas — as milk turns into curd by contact with a culture and yet is not other than milk (*Brahma-saṁhitā*, 5.45). Sadāśiva, who dwells in Śivaloka within Vaikuṇṭha and is free from tamas, is a vilāsa of Śrī Kṛṣṇa.
 
 [^37]: *Amṛta-pravāha-bhāṣya*: whatever the mood one has, the mood of service within every mood must be acknowledged. The edition’s heading: “(13) Service to Kṛṣṇa runs through all four rasas — mādhurya, vātsalya, sakhya and dāsya.”
 

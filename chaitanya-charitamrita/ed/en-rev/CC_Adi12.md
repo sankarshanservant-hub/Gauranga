@@ -1004,7 +1004,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^20]: *Anubhāṣya*: Yadunandana Ācārya was the initiating guru of Śrī Raghunātha dāsa Gosvāmī (Antya 6.160–169). Vāsudeva Datta is Madhuvrata, a singer of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 140; see Ādi 10.41).
 
-[^21]: *Anubhāṣya*: Bhāgavata Ācārya was first among Advaita’s followers and later among Gadādhara’s; he wrote the *Prema-taraṅgiṇī* (Śākhā-nirṇayāmṛta, 6). Viṣṇudāsa Ācārya went with Acyutānanda to the festival at Kheturi. Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja; later he too joined the branch of Gadādhara (see 12.80).
+[^21]: *Anubhāṣya*: Bhāgavata Ācārya was first among Advaita’s followers and later among Gadādhara’s; he wrote the *Prema-taraṅgiṇī* (*Śākhā-nirṇayāmṛta*, 6). Viṣṇudāsa Ācārya went with Acyutānanda to the festival at Kheturi. Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja; later he too joined the branch of Gadādhara (see 12.80).
 
 [^22]: *Anubhāṣya*: Śrī Rāma Paṇḍita is the younger brother of Śrīvāsa Paṇḍita (see Ādi 10.8); in the *Gaura-gaṇoddeśa-dīpikā* (91) he is the sage Parvata, Nārada’s friend.
 
@@ -1020,17 +1020,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^28]: Gadādhara Paṇḍita himself is a great branch of the main trunk (Ādi 10.15). Heading in the edition: “Śrī Gadādhara’s disciples, or offshoots.” Other editions read here *paṇḍita śākhāte mahottama*, “Paṇḍita is the most excellent among the branches”.
 
-[^29]: *Anubhāṣya*: Dhruvānanda Brahmacārī is, according to the *Gaura-gaṇoddeśa-dīpikā* (152), Lalitā, one of her manifestations; the *Śākhā-nirṇayāmṛta* says that Śrī Gadādhara in his mercy bestowed his own nature on him. Śrīdhara Brahmacārī is Candralatikā (Gaura-gaṇoddeśa-dīpikā, 194, 199). Haridāsa Brahmacārī is counted among the followers both of Advaita (12.62) and of Gadādhara. The edition’s heading names Bhāgavatācārya “Raghunātha Bhāgavatācārya”.
+[^29]: *Anubhāṣya*: Dhruvānanda Brahmacārī is, according to the *Gaura-gaṇoddeśa-dīpikā* (152), Lalitā, one of her manifestations; the *Śākhā-nirṇayāmṛta* says that Śrī Gadādhara in his mercy bestowed his own nature on him. Śrīdhara Brahmacārī is Candralatikā (*Gaura-gaṇoddeśa-dīpikā*, 194, 199). Haridāsa Brahmacārī is counted among the followers both of Advaita (12.62) and of Gadādhara. The edition’s heading names Bhāgavatācārya “Raghunātha Bhāgavatācārya”.
 
-[^30]: *Anubhāṣya*: Mahāprabhu called Māmu Ṭhākura *māmā*, “uncle” (mother’s brother), and so he came to be known; his real name was Jagannātha Cakravartī, and he was a nephew of Nīlāmbara Cakravartī. After Gadādhara’s departure he took charge of the service of Śrī Ṭoṭā-gopīnātha in Purī. Kaṇṭhābharaṇa is Ananta Caṭṭarāja (Gaura-gaṇoddeśa-dīpikā, 196, 206).
+[^30]: *Anubhāṣya*: Mahāprabhu called Māmu Ṭhākura *māmā*, “uncle” (mother’s brother), and so he came to be known; his real name was Jagannātha Cakravartī, and he was a nephew of Nīlāmbara Cakravartī. After Gadādhara’s departure he took charge of the service of Śrī Ṭoṭā-gopīnātha in Purī. Kaṇṭhābharaṇa is Ananta Caṭṭarāja (*Gaura-gaṇoddeśa-dīpikā*, 196, 206).
 
-[^31]: *Anubhāṣya*: Bhūgarbha Gosvāmī is Prema-mañjarī (Gaura-gaṇoddeśa-dīpikā, 187), the bosom friend of Śrī Lokanātha Gosvāmī; he served Śrī Govindadeva in Vṛndāvana. Bhāgavata dāsa was his companion (Śākhā-nirṇayāmṛta, 31).
+[^31]: *Anubhāṣya*: Bhūgarbha Gosvāmī is Prema-mañjarī (*Gaura-gaṇoddeśa-dīpikā*, 187), the bosom friend of Śrī Lokanātha Gosvāmī; he served Śrī Govindadeva in Vṛndāvana. Bhāgavata dāsa was his companion (*Śākhā-nirṇayāmṛta*, 31).
 
 [^32]: *Anubhāṣya*: Kāṣṭhakāṭā (Kāṭhādiyā) was Jagannātha dāsa’s village in Vikramapura, in the district of Dhaka; the *Śākhā-nirṇayāmṛta* (48) says that he brought the blessing of the holy name to Tripura.
 
-[^33]: *Anubhāṣya*, after the *Śākhā-nirṇayāmṛta* (38): Gopāla dāsa of Sādipura preached the holy name in Vikramapura. Kṛṣṇadāsa Brahmacārī is Indulekhā, one of the eight sakhīs (Gaura-gaṇoddeśa-dīpikā, 164); he lived in Vṛndāvana.
+[^33]: *Anubhāṣya*, after the *Śākhā-nirṇayāmṛta* (38): Gopāla dāsa of Sādipura preached the holy name in Vikramapura. Kṛṣṇadāsa Brahmacārī is Indulekhā, one of the eight sakhīs (*Gaura-gaṇoddeśa-dīpikā*, 164); he lived in Vṛndāvana.
 
-[^34]: *Anubhāṣya*: Śivānanda Cakravartī is a manifestation of Lavaṅga-mañjarī (Gaura-gaṇoddeśa-dīpikā, 183); he lived in Vṛndāvana (see Ādi 8.70).
+[^34]: *Anubhāṣya*: Śivānanda Cakravartī is a manifestation of Lavaṅga-mañjarī (*Gaura-gaṇoddeśa-dīpikā*, 183); he lived in Vṛndāvana (see Ādi 8.70).
 
 [^35]: *Anubhāṣya*: in the *Śākhā-nirṇaya* Yadunandana dāsa names twenty-three more branches of Gadādhara, among them Vallabha Bhaṭṭa (after whom the Vallabha sampradāya, the path of *puṣṭi*, is known), Madhu Paṇḍita (who established the service of Śrī Gopīnātha in Vṛndāvana) and Lokanātha Bhaṭṭa (the guru of Ṭhākura Narottama).
 

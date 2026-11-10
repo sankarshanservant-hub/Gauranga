@@ -1807,7 +1807,7 @@ book  this  completion  reached
 
 [^41]: So in the Gauḍīya Maṭha edition: *tāra vāṇī*, “his speech” — the author speaks of himself in the third person, as in the closing lines of the chapters; *tāra* is written without the *candrabindu*, as one speaks of oneself (of those he honours the author writes *tāṅra*, 83, 89), and “their” would be *sabāra*. Other manuscripts read *mora vāṇī*, “my speech” (cited in the *Anubhāṣya* as a variant).
 
-[^42]: *Anubhāṣya*: *upādhyāyī* — one to whom pupils come to learn (Manu-smṛti, 2.141), here a teacher of the arts (*kalā-vidyā*). Heading in the edition: only by following the mercy of Nityānanda, which is full of Caitanya (consciousness), can speech glorify Caitanya’s pastimes.
+[^42]: *Anubhāṣya*: *upādhyāyī* — one to whom pupils come to learn (*Manu-smṛti* 2.141), here a teacher of the arts (*kalā-vidyā*). Heading in the edition: only by following the mercy of Nityānanda, which is full of Caitanya (consciousness), can speech glorify Caitanya’s pastimes.
 
 [^43]: Heading in the edition: obeisance to the listeners and a prayer for their mercy.
 

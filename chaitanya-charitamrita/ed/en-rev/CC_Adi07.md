@@ -1811,13 +1811,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^40]: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of the Vedas; it stands at the beginning and at the end of every Vedic mantra and is the Lord Himself in sound: “The sound *a* denotes Kṛṣṇa, the one Lord of all the worlds; *u* denotes Rādhā; and *m* the jīva.”
 
-[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (Chāndogya Upaniṣad, 6.8.7) applies only to one part of it.
+[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
 
 [^42]: *Anubhāṣya*: “In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — at the beginning, in the middle and at the end — Hari alone is sung everywhere.”
 
 [^43]: *Amṛta-pravāha-bhāṣya*: “O Śrī Kṛṣṇa Caitanya, the reasoning by which You have refuted Śaṅkara’s meaning is no idle quarrel: a fortunate person accepts it as the truth.”
 
-[^44]: The edition’s heading: “The Lord’s explanation: (1) Bhagavān Kṛṣṇa is the *sambandha*.” *Amṛta-pravāha-bhāṣya*: in the *Bṛhad-āraṇyaka Upaniṣad* (pūrṇam adaḥ…, 5.1) the Supreme Truth, full of the six opulences, is called “the great reality”; the Purāṇas describe the same marks by the word “Bhagavān”. So wherever the Vedas say “Brahman”, the word fulfils its meaning when it is understood as Śrī Bhagavān.
+[^44]: The edition’s heading: “The Lord’s explanation: (1) Bhagavān Kṛṣṇa is the *sambandha*.” *Amṛta-pravāha-bhāṣya*: in the *Bṛhad-āraṇyaka Upaniṣad* (*pūrṇam adaḥ…*, 5.1) the Supreme Truth, full of the six opulences, is called “the great reality”; the Purāṇas describe the same marks by the word “Bhagavān”. So wherever the Vedas say “Brahman”, the word fulfils its meaning when it is understood as Śrī Bhagavān.
 
 [^45]: *Amṛta-pravāha-bhāṣya*: Bhagavān, embracing the featureless aspect within Himself, is eternally endowed with attributes; to call Him featureless is not to accept His *cit-śakti*. Brahman possesses spiritual potency and is therefore personal; one who does not accept half of His being diminishes His fullness.
 

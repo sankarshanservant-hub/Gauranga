@@ -3433,7 +3433,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^15]: *Anubhāṣya*: worship with the sixteen offerings melts the devotee’s heart with bliss only when there is prema in it — the bhakti that delights Kṛṣṇa.
 
-[^16]: Heading of the edition: “Love for Kṛṣṇa is attained only on the path of rāga; vaidhī-bhakti, born of piety, cannot reach it”; the verse is Rāmānanda Rāya’s own (Padyāvalī, 14).
+[^16]: Heading of the edition: “Love for Kṛṣṇa is attained only on the path of rāga; vaidhī-bhakti, born of piety, cannot reach it”; the verse is Rāmānanda Rāya’s own (*Padyāvalī*, 14).
 
 [^17]: *Anubhāṣya*: wherever such a mind is found — in whatever place, time, person or practice — it must be bought, and its only price is eagerness. *Amṛta-pravāha-bhāṣya*: the first of the two verses (69) points to *vaidhī-bhakti*, rooted in faith, the second to *rāgānugā-bhakti*, rooted in greed (*lobha*); from here on Rāmānanda speaks only of rāga-bhakti.
 

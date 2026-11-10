@@ -3119,7 +3119,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^34]: Heading in the edition: a verse of Śrīdhara Svāmī quoted in the *Padyāvalī* (29). *Anubhāṣya*: *kṛta-cetasām* — of the liberated; *sumanasām* (another reading, *sumahatām*) — of the wise, who have passed beyond the three *guṇas*; *aṁhasām* — of both piety and sin, the acts born of absorption in the world; *amūka-loka-sulabha* — within reach of everyone who is not mute.
 
-[^35]: *Anubhāṣya*: Śrī Rūpa Gosvāmī (Upadeśāmṛta, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
+[^35]: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta*, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
 
 [^36]: Heading in the edition: “Mukunda, who seeks no honour himself and honours others, knows Raghunandana to be a devotee of Kṛṣṇa and so sees in him not a son but a guru.”
 
