@@ -6,7 +6,7 @@
 
 The English translation of the verses and the word-for-word glosses were made directly from the Bengali, following the text of the Gauḍīya Maṭha edition and the *Anubhāṣya*. We aimed at a plain, dignified English that stays close to the original. Where the text of the edition differs from other manuscripts in a way that affects the meaning, a note says so.
 
-The companion Russian edition gives the translation of Vṛndāvana Candra dāsa, revised verse by verse against the same edition. Chapters 16–19 of the *Antya-līlā*, which he did not translate, were rendered in 2026 in his style.
+The companion Russian edition gives the translation of Vṛndāvana Candra dāsa, revised verse by verse against the same edition. Chapters 16–19 of the *Antya-līlā*, which he did not translate, were rendered in 2026 in his style. For the first verse of the *Śikṣāṣṭaka* (Antya 20.12) the Russian edition gives the poetic rendering of Śrīla Bhakti Rakṣaka Śrīdhara Deva-Gosvāmī Mahārāja, a disciple of Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura.
 
 ## The commentaries
 
@@ -24,4 +24,4 @@ The translation was checked through the eyes of a Gauḍīya Vaiṣṇava. The L
 
 Bengali and Sanskrit words are given in standard diacritical transliteration. Names and terms are kept uniform throughout the book.
 
-This edition was prepared with a prayer for the mercy of the Vaiṣṇavas. May its faults be forgiven. May the nectar that Kavirāja Gosvāmī drew from the diary of Svarūpa Dāmodara and the accounts of Raghunātha dāsa reach the reader undiluted.
+This edition was prepared with a prayer for the mercy of the Vaiṣṇavas. We ask forgiveness for its shortcomings. May it help the reader come to know Śrī Caitanya Mahāprabhu and His associates more closely.
