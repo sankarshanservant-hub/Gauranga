@@ -181,7 +181,8 @@
     probe().then(function (ok) { st.className = ok ? 'st' : 'st off'; st.textContent = ok ? L.on : L.offNow; var g = pop && pop.querySelector('[data-all]'); if (g) g.disabled = !ok; });
     pop.appendChild(el('p', '', L.base));
     var info = el('p', ''), act = el('div', 'act'), bar = el('div', 'bar'); bar.appendChild(el('i'));
-    pop.appendChild(info); pop.appendChild(act);
+    var act2 = el('div', 'act');
+    pop.appendChild(info); pop.appendChild(act); pop.appendChild(act2);
     files().then(savedSize).then(function (s) {
       if (!pop) return;
       if (job) {
@@ -204,7 +205,7 @@
         act.appendChild(go);
       }
     }).catch(function () { info.textContent = ''; });
-    if (canInstall()) { var ib = el('button', 'b b2', L.install); ib.type = 'button'; ib.onclick = install; act.appendChild(ib); }
+    if (canInstall()) { var ib = el('button', 'b b2', L.install); ib.type = 'button'; ib.onclick = install; act2.appendChild(ib); }
     if (msg) pop.appendChild(el('small', '', msg));
     pop.appendChild(el('small', '', (IOS && !STANDALONE ? L.ios + ' ' : '') + L.music));
     place();
