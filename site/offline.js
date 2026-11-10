@@ -152,6 +152,16 @@
     });
   }
 
+  // есть ли связь на самом деле (navigator.onLine бывает «да» при Wi-Fi без интернета): запрос мимо помощника
+  var NET = { ok: navigator.onLine, at: 0 };
+  function probe() {
+    if (!navigator.onLine) { NET = { ok: false, at: Date.now() }; return Promise.resolve(false); }
+    if (Date.now() - NET.at < 10000) return Promise.resolve(NET.ok);
+    return fetch('data/files.json?probe=' + Date.now(), { cache: 'no-store', headers: { 'x-gl-sync': '1' } })
+      .then(function (r) { return r.ok; }, function () { return false; })
+      .then(function (ok) { NET = { ok: ok, at: Date.now() }; paintBtn(); return ok; });
+  }
+
   // ── окошко ──
   var pop = null, btn = null, msg = '';
   function place() {
@@ -167,7 +177,8 @@
     pop.innerHTML = '';
     var x = el('button', 'x', '×'); x.type = 'button'; x.setAttribute('aria-label', L.close); x.onclick = close; pop.appendChild(x);
     pop.appendChild(el('h3', '', L.title));
-    pop.appendChild(el('p', navigator.onLine ? 'st' : 'st off', navigator.onLine ? L.on : L.offNow));
+    var st = el('p', NET.ok ? 'st' : 'st off', NET.ok ? L.on : L.offNow); pop.appendChild(st);
+    probe().then(function (ok) { st.className = ok ? 'st' : 'st off'; st.textContent = ok ? L.on : L.offNow; var g = pop && pop.querySelector('[data-all]'); if (g) g.disabled = !ok; });
     pop.appendChild(el('p', '', L.base));
     var info = el('p', ''), act = el('div', 'act'), bar = el('div', 'bar'); bar.appendChild(el('i'));
     pop.appendChild(info); pop.appendChild(act);
@@ -182,7 +193,7 @@
         act.appendChild(fr);
       } else {
         info.textContent = L.allWhat;
-        var go = el('button', 'b', L.all(MB(s.all))); go.type = 'button'; go.disabled = !navigator.onLine;
+        var go = el('button', 'b', L.all(MB(s.all))); go.type = 'button'; go.disabled = !NET.ok; go.setAttribute('data-all', '');
         go.onclick = function () {
           set(K_ALL, '1'); msg = '';
           if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(function () {});
@@ -215,19 +226,24 @@
   }
   function paintBtn() {
     if (!btn) return;
-    var L = t(); btn.setAttribute('aria-label', L.btn); btn.title = L.btn; btn.dataset.state = navigator.onLine ? 'on' : 'off';
+    var L = t(); btn.setAttribute('aria-label', L.btn); btn.title = L.btn; btn.dataset.state = NET.ok ? 'on' : 'off';
   }
-  window.addEventListener('online', function () { paintBtn(); render(); sync(); });
-  window.addEventListener('offline', function () { paintBtn(); render(); });
+  window.addEventListener('online', function () { NET.at = 0; probe().then(function () { render(); sync(); }); });
+  window.addEventListener('offline', function () { NET = { ok: false, at: Date.now() }; paintBtn(); render(); });
   window.addEventListener('resize', place);
   document.addEventListener('click', function (e) {
     if (e.target.closest && e.target.closest('[data-lang]')) setTimeout(function () { paintBtn(); render(); }, 0);
-    if (pop && !pop.contains(e.target) && !(btn && btn.contains(e.target))) close();
+    // путь щелчка — на момент щелчка: кнопка внутри окошка к этому времени могла быть уже перерисована
+    var path = e.composedPath ? e.composedPath() : [e.target];
+    if (pop && path.indexOf(pop) < 0 && !(btn && path.indexOf(btn) > -1)) close();
   });
   document.addEventListener('keydown', function (e) { if (e.key === 'Escape') close(); });
 
   // писания скачаны целиком — подтянуть изменения с последней публикации
-  function sync() { if (CAN && get(K_ALL) === '1' && navigator.onLine && !job) download().then(function () { render(); }, function () {}); }
+  function sync() {
+    if (!CAN || get(K_ALL) !== '1' || job) return;
+    probe().then(function (ok) { if (ok && !job) download().then(function () { render(); }, function () {}); });
+  }
 
   // ── установка ──
   var evt = null, ibar = null, forced = /[?&]install=1\b/.test(location.search);
@@ -273,7 +289,7 @@
       if (IOS) { if (forced) iosHelp(); else setTimeout(function () { showBar('ios'); }, 2500); }
       else if (forced) setTimeout(function () { if (!evt && !ibar) showBar('menu'); }, 2500);
     }
-    setTimeout(sync, 6000);
+    probe(); setTimeout(sync, 6000);
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();
 })();
