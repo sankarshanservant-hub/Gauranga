@@ -13,8 +13,9 @@ from md2pdf import verse_md, load_comm, SUB, has_bn, is_tl, TXT
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
 name, lang, chaps = sys.argv[1], sys.argv[2], sys.argv[3:]
-ED = 'full' if chaps and chaps[0] == 'full' else 'comm'
-if chaps and chaps[0] in ('full', 'comm'): chaps = chaps[1:]
+ED = chaps[0] if chaps and chaps[0] in ('full', 'comm', 'text') else 'comm'   # text — лёгкое издание (только перевод)
+if chaps and chaps[0] in ('full', 'comm', 'text'): chaps = chaps[1:]
+BOOK = name == 'book'          # вся книга: титул, предисловие (ed/preface-<lang>.md), шмуцтитулы лил
 T = TXT[lang]
 FONT = 'Times New Roman'
 FONT_BN = 'Nirmala UI'          # есть в Windows; в других системах Word сам подставит бенгальский шрифт
@@ -26,7 +27,7 @@ sec.left_margin = sec.right_margin = Mm(14); sec.top_margin = Mm(14); sec.bottom
 st = doc.styles['Normal']; st.font.name = FONT; st.font.size = Pt(11)
 st.element.rPr.rFonts.set(qn('w:eastAsia'), FONT)
 st.paragraph_format.space_after = Pt(3); st.paragraph_format.line_spacing = 1.1
-for hn, sz in (('Heading 1', 15), ('Heading 2', 11)):
+for hn, sz in (('Heading 1', 15), ('Heading 2', 13 if BOOK else 11), ('Heading 3', 11)):
     h = doc.styles[hn]; h.font.name = FONT; h.font.size = Pt(sz); h.font.color.rgb = RGBColor(0, 0, 0)
 
 def runs(p, text, notes, chap, size=None, italic=False):
@@ -79,25 +80,50 @@ def comm(text, notes, chap, label):
                 r = p.add_run(label + '. '); r.bold = True; r.italic = True; r.font.size = Pt(10); first = False
             runs(p, it, notes, chap, size=10)
 
+LILA = {'ru': {'Adi': 'Ади-лила', 'Madhya': 'Мадхья-лила', 'Antya': 'Антья-лила'},
+        'en': {'Adi': 'Ādi-līlā', 'Madhya': 'Madhya-līlā', 'Antya': 'Antya-līlā'}}[lang]
+if BOOK:
+    TP = {'ru': ('Шри Чайтанья-чаритамрита', 'Шрила Кришнадас Кавирадж Госвами'), 'en': ('Śrī Caitanya-caritāmṛta', 'Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī')}[lang]
+    for k, t in enumerate(TP + ('2026',)):
+        p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        if k == 0: p.paragraph_format.space_before = Pt(120)
+        if k == 2: p.paragraph_format.space_before = Pt(80)
+        r = p.add_run(t); r.font.name = FONT; r.font.size = Pt((26, 14, 11)[k]); r.bold = k == 0
+    pf = os.path.join(ROOT, 'ed', 'preface-%s.md' % lang)
+    if os.path.exists(pf):
+        doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
+        for para in re.split(r'\n\s*\n', open(pf, encoding='utf-8').read().strip()):
+            para = para.strip().replace('***', '**')
+            if para.startswith('# '): p = doc.add_heading(para[2:], level=1); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            elif para.startswith('## '): p = doc.add_heading(para[3:], level=2); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            else:
+                p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+                runs(p, re.sub(r'(?<!\*)\*(?!\*)([^*]+)\*(?!\*)', r'\1', para), [], '')
+lila_prev = None
 for ci, chap in enumerate(chaps):
-    md = verse_md(chap, lang)
+    L = re.match(r'[A-Za-z]+', chap).group()
+    if BOOK and L != lila_prev:
+        doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
+        p = doc.add_heading(LILA[L], level=1); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        lila_prev = L
+    md = verse_md(chap, lang, ED != 'text')
     body, _, foot = md.partition('\n---\n')
-    apb, fa = load_comm(chap, 'apb', lang); anu, fn = load_comm(chap, 'anu', lang)
+    apb, fa = load_comm(chap, 'apb', lang) if ED != 'text' else ({}, ''); anu, fn = load_comm(chap, 'anu', lang) if ED != 'text' else ({}, '')
     foot = foot + '\n' + fa + '\n' + fn
     notes = re.findall(r'^\[\^([\w-]+)\]:', foot, re.M)
     paras = [p for p in body.split('\n\n') if p.strip()]
     hdr = [l.strip().strip('*').strip() for l in paras[0].split('\n')]
-    if ci:
+    if ci or BOOK:
         doc.add_paragraph().add_run().add_break(WD_BREAK.PAGE)
     for k, txt in enumerate(hdr[:5]):
         if k == 3:
-            p = doc.add_heading(level=1); runs(p, '%s. %s' % (hdr[2], txt), notes, chap)
+            p = doc.add_heading(level=2 if BOOK else 1); runs(p, '%s. %s' % (hdr[2], txt), notes, chap)
         elif k == 2: continue
         else:
             p = doc.add_paragraph(); runs(p, txt, notes, chap, size=10 if k == 4 else 11, italic=(k == 4))
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
     if apb.get('0'):
-        p = doc.add_heading(T['apb'], level=2); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p = doc.add_heading(T['apb'], level=3 if BOOK else 2); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         comm(apb['0'], notes, chap, '')
     pend = []                                     # бенгальский и транслит+пословный ждут перевода: подзаголовок — над ними
     for p0 in paras[1:]:
@@ -133,7 +159,7 @@ for ci, chap in enumerate(chaps):
             for k in keys:
                 if k in src: comm(src[k], notes, chap, label)
     if notes:
-        p = doc.add_heading(T['notes'], level=2)
+        p = doc.add_heading(T['notes'], level=3 if BOOK else 2)
         for i, k in enumerate(notes, 1):
             t = re.search(r'^\[\^%s\]:\s*(.*)$' % re.escape(k), foot, re.M).group(1)
             p = doc.add_paragraph(); r = p.add_run('%d. ' % i); r.font.size = Pt(9.5)
