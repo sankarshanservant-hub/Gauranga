@@ -1633,7 +1633,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^12]: The Gauḍīya Maṭha edition reads *candanādi* (“sandalwood and other things”); another reading is *sandhānādi* (“pickles and the like”).
 
-[^13]: *Anubhāṣya*: *munsib* (Arabic *munsif*) — overseer, steward; Makaradhvaja Kara was a resident of Pānihāṭi, a devotee of Gaura and a follower of Rāghava Paṇḍita.
+[^13]: *Anubhāṣya*: *munsib* (Arabic *munsif*) — overseer, steward; Makaradhvaja Kara was a resident of Pāṇihāṭi, a devotee of Gaura and a follower of Rāghava Paṇḍita.
 
 [^14]: *Anubhāṣya* (on verse 52): in the temple of Jagannātha resides Śrī Govindadeva, the *vijaya-mūrti* (the Deity who goes out in procession); it is He who goes to Narendra for the water pastimes.
 

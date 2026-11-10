@@ -2443,7 +2443,7 @@ Jagannātha’s  servants  bringing  garland and prasāda  gave
 tulasī-paḍichā āsi’ caraṇa vandilā  
 Tulasī the paḍichā  coming  the feet  honoured
 
-(226) A servant of Jagannātha brought a garland and *prasāda* and gave them to Him, and Tulasī, the *paḍichā*, came and bowed at His feet.
+(226) A servant of Jagannātha brought a garland and prasāda and gave them to Him, and Tulasī, the *paḍichā*, came and bowed at His feet.
 
 মহাপ্রভু আইলা — গ্রামে কোলাহল হৈল ৷  
 সার্ব্বভৌম, রামানন্দ, বাণীনাথ মিলিল ॥ ২২৭ ॥
@@ -2483,7 +2483,7 @@ then  both  Jagannātha’s  prasāda  brought
 sabā-saṅge mahāprabhu bhojana karilā  
 with all  Mahāprabhu  meal  took
 
-(230) Then the two of them brought Jagannātha’s *prasāda*, and Mahāprabhu ate with everyone.
+(230) Then the two of them brought Jagannātha’s prasāda, and Mahāprabhu ate with everyone.
 
 এই ত’ কহিলুঁ, — প্রভু দেখি’ বৃন্দাবন ৷  
 পুনঃ করিলেন যৈছে নীলাদ্রি-গমন ॥ ২৩১ ॥

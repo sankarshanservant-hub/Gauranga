@@ -56,7 +56,7 @@
 
 ## 20
 
-> Subheading: Loud *saṅkīrtana* brings the Lord to consciousness, and He returns to half-external consciousness —
+> Subheading: Loud saṅkīrtana brings the Lord to consciousness, and He returns to half-external consciousness —
 
 ## 22
 
@@ -78,11 +78,11 @@ See Madhya 24.52.
 
 ## 32
 
-> Subheading: The Lord, absorbed in the mood of the *gopīs*, speaks *citra-jalpa* —
+> Subheading: The Lord, absorbed in the mood of the gopīs, speaks *citra-jalpa* —
 
 ## 33
 
-> Subheading: A *gopī* describes her own feelings for Kṛṣṇa (*citra-jalpa*) — [Any *rāga* as suits (*yathā-rāga*)]
+> Subheading: A gopī describes her own feelings for Kṛṣṇa (*citra-jalpa*) — [Any *rāga* as suits (*yathā-rāga*)]
 
 ## 34
 
@@ -108,7 +108,7 @@ See Madhya 24.52.
 
 > Subheading: Madana-mohana, sweetness embodied —
 
-**he sakhi**, **nadaj-jalada-nisvanaḥ** (He whose deep voice is like the rumble [*nisvana*] of a thundering cloud [*jalada*]) **śravaṇa-karṣi-sac-chiñjitaḥ** (He whose ornaments make a beautiful, most sweet tinkling whose nature is to draw the ears of the *gopīs*) **sanarma-rasa-sūcakākṣara-padārtha-bhaṅgy-uktikaḥ** (He whose speech is full of an artful arrangement [*bhaṅgī*, *paripāṭī*] of the meanings of words, in syllables that hint at *rasa* and are filled with jest [*narma*]) **ramādika-varāṅganā-hṛdaya-hārī-vaṁśī-kalaḥ** (He the sound [*kala*] of whose flute steals, that is, draws, the hearts of the finest women, headed by Lakṣmī) **madana-mohanaḥ** **me** (My) **karṇa-spṛhām** (longing to hear) **tanoti** (increases).
+**he sakhi**, **nadaj-jalada-nisvanaḥ** (He whose deep voice is like the rumble [*nisvana*] of a thundering cloud [*jalada*]) **śravaṇa-karṣi-sac-chiñjitaḥ** (He whose ornaments make a beautiful, most sweet tinkling whose nature is to draw the ears of the *gopīs*) **sanarma-rasa-sūcakākṣara-padārtha-bhaṅgy-uktikaḥ** (He whose speech is full of an artful arrangement [*bhaṅgī*, *paripāṭī*] of the meanings of words, in syllables that hint at rasa and are filled with jest [*narma*]) **ramādika-varāṅganā-hṛdaya-hārī-vaṁśī-kalaḥ** (He the sound [*kala*] of whose flute steals, that is, draws, the hearts of the finest women, headed by Lakṣmī) **madana-mohanaḥ** **me** (My) **karṇa-spṛhām** (longing to hear) **tanoti** (increases).
 
 ## 41
 
@@ -198,15 +198,15 @@ For the story of Piṅgalā, see *Śrīmad-Bhāgavatam* 11.8.22–44 and the *Ma
 
 ## 65
 
-Even Anantadeva, who has infinite power, cannot with His thousand mouths describe the pastimes of Śrī Gaurāṅga — His acts in divine madness. I am a wretched, powerless and utterly incapable *jīva*, and so I cannot describe the pastimes of Gaura fully. Even so, to point out the direction, I have relied only on the maxim of the moon on the branch (*śākhā-candra-nyāya*).
+Even Anantadeva, who has infinite power, cannot with His thousand mouths describe the pastimes of Śrī Gaurāṅga — His acts in divine madness. I am a wretched, powerless and utterly incapable jīva, and so I cannot describe the pastimes of Gaura fully. Even so, to point out the direction, I have relied only on the maxim of the moon on the branch (*śākhā-candra-nyāya*).
 
 ## 66
 
-> Subheading: Whoever hears of the Lord’s divine madness awakens to the truth of *prema* —
+> Subheading: Whoever hears of the Lord’s divine madness awakens to the truth of prema —
 
 ## 67
 
-> Subheading: In the mood of Śrīmatī the Lord Himself relishes love for Kṛṣṇa and distributes it to the *jīvas* —
+> Subheading: In the mood of Śrīmatī the Lord Himself relishes love for Kṛṣṇa and distributes it to the jīvas —
 
 ## 68
 

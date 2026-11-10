@@ -1324,7 +1324,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^29]: According to the *Anubhāṣya*: Cintāmaṇi is the guru who showed the path (*śravaṇa-guru*), Somagiri the mantra-guru, and Kṛṣṇa the *caitya-śikṣā-guru*; *jayaśrī* is Vṛndāvaneśvarī; *līlā-svayaṁvara-rasa* — the joy of choosing Him out of deep love. The *Amṛta-pravāha-bhāṣya* takes “cintāmaṇi” as an epithet of Somagiri.
 
-[^30]: *Anubhāṣya*: *apavarga-vartmani* — “in Hari, in whom ignorance ceases”; *rati* is bhāva, bhakti is prema.
+[^30]: *Anubhāṣya*: *apavarga-vartmani* — “in Hari, in whom ignorance ceases”; *rati* is *bhāva*, bhakti is prema.
 
 [^31]: *Anubhāṣya*: the devotee belongs to the category of potency (*śakti*), not of the possessor of potency; Kṛṣṇa abides in him as in His dwelling.
 

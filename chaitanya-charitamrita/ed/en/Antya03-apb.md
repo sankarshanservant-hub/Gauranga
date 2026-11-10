@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In Puruṣottama a beautiful young brāhmaṇa woman had a very handsome son. Seeing him come to Mahāprabhu every day, Dāmodara Paṇḍita said, “If You show affection to the boy, people will suspect Your character.” Hearing this, Mahāprabhu one day appointed Dāmodara to look after His mother in Śrī Navadvīpa and said, “From time to time I go to My mother and eat there — remind her of this.” Dāmodara took *mahā-prasāda* and other things and went to Navadvīpa. After this, one day Mahāprabhu asked Brahmā Haridāsa, “How will all the *yavanas* be delivered in the age of Kali?” In reply Haridāsa spoke of the glory of loud *saṅkīrtana* and concluded that everyone will be delivered even by the semblance of the holy name (*nāmābhāsa*). At this point, setting out to describe the Ṭhākura’s earlier life, Kavirāja Gosvāmī told of the prostitute whom Rāmacandra Khān — an atheist (*pāṣaṇḍa*) and an unworthy brāhmaṇa (*brahma-bandhu*) — sent to Haridāsa in the forest near Benāpola, and who was delivered by Haridāsa’s mercy. He also describes the ruin that befell Rāmacandra Khān for his offence against a Vaiṣṇava and later through the curse of Nityānanda Prabhu. Coming from Benāpola to Cā̃dapura, Haridāsa stayed in the house of Balarāma Ācārya. Next is described the discussion of the truth of the holy name (*nāma-tattva*) held in the assembly of Hiraṇya and Govardhana Majumadāra between Haridāsa Ṭhākura and a brāhmaṇa named Gopāla Cakravartī, a revenue agent (*ārindā*); also described is the punishment — leprosy — that Gopāla Cakravartī received for offending Haridāsa. From Cā̃dapura Haridāsa went to Śāntipura and stayed in the Ācārya’s house. There Māyā-devī came to beguile him, and by Haridāsa’s mercy she received the name of Kṛṣṇa.
+**Summary.** In Puruṣottama a beautiful young brāhmaṇa woman had a very handsome son. Seeing him come to Mahāprabhu every day, Dāmodara Paṇḍita said, “If You show affection to the boy, people will suspect Your character.” Hearing this, Mahāprabhu one day appointed Dāmodara to look after His mother in Śrī Navadvīpa and said, “From time to time I go to My mother and eat there — remind her of this.” Dāmodara took mahā-prasāda and other things and went to Navadvīpa. After this, one day Mahāprabhu asked Brahmā Haridāsa, “How will all the yavanas be delivered in the age of Kali?” In reply Haridāsa spoke of the glory of loud saṅkīrtana and concluded that everyone will be delivered even by the semblance of the holy name (*nāmābhāsa*). At this point, setting out to describe the Ṭhākura’s earlier life, Kavirāja Gosvāmī told of the prostitute whom Rāmacandra Khān — an atheist (*pāṣaṇḍa*) and an unworthy brāhmaṇa (*brahma-bandhu*) — sent to Haridāsa in the forest near Benāpola, and who was delivered by Haridāsa’s mercy. He also describes the ruin that befell Rāmacandra Khān for his offence against a Vaiṣṇava and later through the curse of Nityānanda Prabhu. Coming from Benāpola to Cā̃dapura, Haridāsa stayed in the house of Balarāma Ācārya. Next is described the discussion of the truth of the holy name (*nāma-tattva*) held in the assembly of Hiraṇya and Govardhana Majumadāra between Haridāsa Ṭhākura and a brāhmaṇa named Gopāla Cakravartī, a revenue agent (*ārindā*); also described is the punishment — leprosy — that Gopāla Cakravartī received for offending Haridāsa. From Cā̃dapura Haridāsa went to Śāntipura and stayed in the Ācārya’s house. There Māyā-devī came to beguile him, and by Haridāsa’s mercy she received the name of Kṛṣṇa.
 
 ## 5
 
@@ -10,7 +10,7 @@ Dāmodara: Dāmodara Paṇḍita.
 
 ## 11
 
-Dāmodara Paṇḍita says to Mahāprabhu: “When it comes to instructing others, You are a *paṇḍita*, and everyone calls You ‘Gosāñi, Gosāñi’ (*ācārya*). Now it will become clear how You remain a Gosāñi.”
+Dāmodara Paṇḍita says to Mahāprabhu: “When it comes to instructing others, You are a paṇḍita, and everyone calls You ‘Gosāñi, Gosāñi’ (*ācārya*). Now it will become clear how You remain a Gosāñi.”
 
 ## 15
 
@@ -42,11 +42,11 @@ The dying Ajāmila went to the abode of Vaikuṇṭha merely by taking the name 
 
 ## 78
 
-O Lord, You have descended into the universe, and all the *jīvas* with whom You have formed a connection will be delivered. Even if the whole universe is delivered in this way, You will once again awaken countless subtle *jīvas* (*sūkṣma-jīva*) in the field of *karma*. Thus the universes will again be filled with *jīvas*.
+O Lord, You have descended into the universe, and all the jīvas with whom You have formed a connection will be delivered. Even if the whole universe is delivered in this way, You will once again awaken countless subtle jīvas (*sūkṣma-jīva*) in the field of karma. Thus the universes will again be filled with jīvas.
 
 ## 83
 
-Kṛṣṇa is the unborn Bhagavān, the Lord of the *yogīs*; through Him this whole world, stationary and moving, is completely liberated. There is no need to be so astonished at His deeds.
+Kṛṣṇa is the unborn Bhagavān, the Lord of the yogīs; through Him this whole world, stationary and moving, is completely liberated. There is no need to be so astonished at His deeds.
 
 ## 84
 
@@ -90,7 +90,7 @@ Even if Kṛṣṇa wishes to give liberation to a pure devotee, the devotee doe
 
 ## 220
 
-***Śrāddha-pātra.*** On the day of *śrāddha*, Vaiṣṇava householders are enjoined to offer the Lord every kind of food and then to feed it to Vaiṣṇavas and *brāhmaṇas*. When such a *śrāddha* day came in Advaita Prabhu’s household, He fed Haridāsa as the *śrāddha-pātra*, regarding him as a transcendental *brāhmaṇa* and guru.
+***Śrāddha-pātra.*** On the day of *śrāddha*, Vaiṣṇava householders are enjoined to offer the Lord every kind of food and then to feed it to Vaiṣṇavas and brāhmaṇas. When such a *śrāddha* day came in Advaita Prabhu’s household, He fed Haridāsa as the *śrāddha-pātra*, regarding him as a transcendental brāhmaṇa and guru.
 
 *Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*
 

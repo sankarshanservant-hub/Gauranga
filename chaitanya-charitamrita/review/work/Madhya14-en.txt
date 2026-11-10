@@ -51,7 +51,7 @@ tr: The Lord lay on the ground with His eyes closed in love, and the king skilfu
 w: of the rāsa-līlā  the verses  reciting  makes  praise
 w: “jayati te ’dhikam”  the chapter  does  recitation
 tr: He offered praise with the verses of the *rāsa-līlā*, reading aloud the chapter that begins “*jayati te ’dhikam*.”
-fn: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the *rāsa* dance (Śrīmad-Bhāgavatam, 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
+fn: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the *rāsa* dance (*Śrīmad-Bhāgavatam* 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
 
 ## 9
 w: hearing  hearing  of the Lord  the joy  boundless

@@ -2,13 +2,13 @@
 
 ## 1
 
-> Subheading: Obeisance to Gaura, who wandered immediately after *sannyāsa* —
+> Subheading: Obeisance to Gaura, who wandered immediately after sannyāsa —
 
-**yaḥ gauraḥ** (Viśvambhara) **nyāsam** (the fourth *āśrama*, *turyāśrama*) **vidhāya** (having accepted the Vedic rites [*saṁskāras*] of *sannyāsa* and so on) **ut-praṇayaḥ** (drawn by *prema*) **vṛndāvanaṁ gantu-manāḥ** (with His mind eager to go to Vraja) **bhramāt** (displaying bewilderment to mundane eyes; by this He showed that Kṛṣṇa’s abode, open only to the eyes of devotion anointed with the salve of *prema*, cannot be reached by mundane endeavour and is attained by pure *bhajana*) **rāḍhe** (in the region west of the Gaṅgā called Rāṣṭra) **bhraman** (wandering) **śānti-purīm** (to Śāntipura) **ayitvā** (having come) **iha** (here — in Śāntipura) **bhaktaiḥ saha** (with the devotees) **lalāsa** (rejoiced), **taṁ gauram** (to that Gaura)[^1-1] **nataḥ asmi** (I bow down).
+**yaḥ gauraḥ** (Viśvambhara) **nyāsam** (the fourth *āśrama*, *turyāśrama*) **vidhāya** (having accepted the Vedic rites [*saṁskāras*] of sannyāsa and so on) **ut-praṇayaḥ** (drawn by *prema*) **vṛndāvanaṁ gantu-manāḥ** (with His mind eager to go to Vraja) **bhramāt** (displaying bewilderment to mundane eyes; by this He showed that Kṛṣṇa’s abode, open only to the eyes of devotion anointed with the salve of prema, cannot be reached by mundane endeavour and is attained by pure *bhajana*) **rāḍhe** (in the region west of the Gaṅgā called Rāṣṭra) **bhraman** (wandering) **śānti-purīm** (to Śāntipura) **ayitvā** (having come) **iha** (here — in Śāntipura) **bhaktaiḥ saha** (with the devotees) **lalāsa** (rejoiced), **taṁ gauram** (to that Gaura)[^1-1] **nataḥ asmi** (I bow down).
 
 ## 3
 
-> Subheading: The Lord accepts *sannyāsa* at the close of His twenty-fourth year —
+> Subheading: The Lord accepts sannyāsa at the close of His twenty-fourth year —
 
 ## 4
 
@@ -22,13 +22,13 @@ The *tridaṇḍī* mendicant of Avantī, scorched by the threefold miseries, at
 
 **pūrvatamaiḥ** (by the ancients) **mahadbhiḥ** (by the *mahā-bhāgavatas*) **upāsitām** (honoured, served) **etāṁ parātma-niṣṭhām** (this fidelity to the Supreme Self. It is said: “The Supreme Lord is Kṛṣṇa, whose form is eternity, knowledge and bliss. He has no beginning and is Himself the beginning of all; He is Govinda, the cause of all causes”[^6-1]. Therefore He who is above all is the Supreme [*para*] Self [*ātmā*]. Fidelity to Him means abiding in natural [*naisargika*] *bhajana* once the *anarthas* have gone) **samāsthāya** (taking up — that is, first performing *bhajana* properly on the path of *śrauta*, following the sequence that begins with faith) **mukundāṅghri-niṣevayā** (by service to the feet of Mukunda, called *sādhana-* and *bhāva-bhakti*) **duranta-pāram** (hard to cross) **tamaḥ** (darkness — the ignorance called worldly existence: enjoyment based on the material ego, devoid of service to Kṛṣṇa) **tariṣyāmi** (I shall cross, giving up the desire to serve anyone but Kṛṣṇa).
 
-In the analysis of the sixty-four limbs of devotion, the dress proper to the fourth *āśrama* falls under the wearing of Vaiṣṇava marks. It is those who wear this dress of the fourth *āśrama* who are delivered from worldly existence by serving Mukunda. Those faithful to the Supreme Self wear the dress of the *tridaṇḍī* mendicant. The most ancient great sages wore the *tridaṇḍa*. Later, in the Kali-yuga, Viṣṇusvāmī declared that the *tridaṇḍa* dress itself is fidelity to the Supreme Self (*parātma-niṣṭhā*), and he established steadfastness in service to Mukunda. Those firmly fixed in exclusive (*aikāntikī*) devotion introduced the rule of *ekadaṇḍa*: to the three *daṇḍas* they joined a fourth, the “*jīva-daṇḍa*.” The rule of *tridaṇḍa* is contained within it. The *ekadaṇḍī* *sampradāya*, however, failed to understand that the *tridaṇḍa* has one single aim. Therefore many Śivasvāmīs of that *sampradāya* later turned their aim to impersonal (*nirviśeṣa*) knowledge of Brahman. They set up the model of Śaṅkarācārya’s *ekadaṇḍa-sannyāsa* and gave up the relationship of the served and the servant (*sevya-sevaka-bhāva*) — that is, service to Mukunda. In place of the *sannyāsīs* of the hundred and eight names introduced by the Viṣṇusvāmī *sampradāya*, the system of ten names spread among the *kevalādvaita-vādīs*.
+In the analysis of the sixty-four limbs of devotion, the dress proper to the fourth *āśrama* falls under the wearing of Vaiṣṇava marks. It is those who wear this dress of the fourth *āśrama* who are delivered from worldly existence by serving Mukunda. Those faithful to the Supreme Self wear the dress of the *tridaṇḍī* mendicant. The most ancient great sages wore the *tridaṇḍa*. Later, in the Kali-yuga, Viṣṇusvāmī declared that the *tridaṇḍa* dress itself is fidelity to the Supreme Self (*parātma-niṣṭhā*), and he established steadfastness in service to Mukunda. Those firmly fixed in exclusive (*aikāntikī*) devotion introduced the rule of *ekadaṇḍa*: to the three *daṇḍas* they joined a fourth, the “*jīva-daṇḍa*.” The rule of *tridaṇḍa* is contained within it. The *ekadaṇḍī* sampradāya, however, failed to understand that the *tridaṇḍa* has one single aim. Therefore many Śivasvāmīs of that sampradāya later turned their aim to impersonal (*nirviśeṣa*) knowledge of Brahman. They set up the model of Śaṅkarācārya’s *ekadaṇḍa-sannyāsa* and gave up the relationship of the served and the servant (*sevya-sevaka-bhāva*) — that is, service to Mukunda. In place of the sannyāsīs of the hundred and eight names introduced by the Viṣṇusvāmī sampradāya, the system of ten names spread among the *kevalādvaita-vādīs*.
 
 Śrī Gaurasundara accepted *ekadaṇḍa-sannyāsa* according to the custom then current in Āryāvarta. Yet to proclaim that within that single *daṇḍa* all four *daṇḍas* were united, He sang the song of the *tridaṇḍī* mendicant told in the *Śrīmad-Bhāgavatam*. An *ekadaṇḍa* without fidelity to the Supreme Self is not approved by Śrī Gaurasundara. The *tridaṇḍīs*, joining the *jīva-daṇḍa* to the three *daṇḍas*, establish exclusive devotion. But the *ekadaṇḍīs*, devoid of transcendental devotion, hold the doctrine of the impersonal and so have turned away from fidelity to the Supreme Self. That is why they think “liberation” means merging into *prakṛti*, called Brahman, and losing all distinguishing features. The Māyāvādīs of Āryāvarta do not know that Śrī Caitanyadeva is a *tridaṇḍī*, and in their external understanding a *vivarta* arises — they take one thing for another. The *Śrīmad-Bhāgavatam* says not a word about *ekadaṇḍa-sannyāsa*: it describes the carrying of the *tridaṇḍa* as the only dress of the fourth *āśrama*. Śrī Gaurasundara held that very word of the *Śrīmad-Bhāgavatam* in high esteem. The Māyāvādīs, whose wisdom faces outward (*bahiḥ-prajña*), cannot understand this.
 
-Following the teaching of Śrī Caitanyadeva, *sannyāsa* with the *śikhā* and the sacred thread (*sūtra*) is current among His followers to this day. The *ekadaṇḍī* Māyāvādīs are without *śikhā* and thread and cannot understand the glory of the *tridaṇḍa*, because they have no inclination to serve Śrī Bhagavān. Their minds are sunk in serving the objects of the senses, and they lack patience. So they take shelter of a *dharma* alien to Him (*atad-dharma*), give up the relationship of the served and the servant, and contemplate merging into *prakṛti* or into Brahman. The ācāryas who establish *daiva-varṇāśrama* accept nothing from those in *āsura-varṇāśrama* — neither their understanding nor the current of their thought.
+Following the teaching of Śrī Caitanyadeva, sannyāsa with the *śikhā* and the sacred thread (*sūtra*) is current among His followers to this day. The *ekadaṇḍī* Māyāvādīs are without *śikhā* and thread and cannot understand the glory of the *tridaṇḍa*, because they have no inclination to serve Śrī Bhagavān. Their minds are sunk in serving the objects of the senses, and they lack patience. So they take shelter of a dharma alien to Him (*atad-dharma*), give up the relationship of the served and the servant, and contemplate merging into *prakṛti* or into Brahman. The ācāryas who establish *daiva-varṇāśrama* accept nothing from those in *āsura-varṇāśrama* — neither their understanding nor the current of their thought.
 
-Śrī Gaurasundara’s most intimate devotee, supremely expert in the *Śrīmad-Bhāgavatam*, Śrīmad Gadādhara Paṇḍita Gosvāmī Prabhu himself accepted the principle of *tridaṇḍa-sannyāsa* and accepted Śrī Mādhava Upādhyāya as his *tridaṇḍī* disciple. From this Mādhavācārya arose, in the west, the *sampradāya* of Śrī Vallabhācārya. Śrīla Gopāla Bhaṭṭa Gosvāmī, the *smṛti-ācārya* of the Gauḍīya Vaiṣṇavas, was initiated under the rule of *tridaṇḍa* introduced by his ācārya and Śrī Gurudeva, Tridaṇḍipāda Śrī Prabodhānanda Sarasvatī Prabhu. There is no clear record of what dress Śrīla Gopāla Bhaṭṭa accepted. Yet his adherence to the rule of *tridaṇḍa* given in the first verse of Śrī Rūpa Gosvāmī’s *Upadeśāmṛta* was plainly evident in this Vaiṣṇava *smṛti-ācārya*. None of Śrī Gaurasundara’s followers accepted *ekadaṇḍa* in the sense of *kevalādvaita*. The *sannyāsīs* who shave off the *śikhā*, wear no thread and hold to impersonalist thinking could not introduce their system into the Gauḍīya Vaiṣṇava *sampradāya*.
+Śrī Gaurasundara’s most intimate devotee, supremely expert in the *Śrīmad-Bhāgavatam*, Śrīmad Gadādhara Paṇḍita Gosvāmī Prabhu himself accepted the principle of *tridaṇḍa-sannyāsa* and accepted Śrī Mādhava Upādhyāya as his *tridaṇḍī* disciple. From this Mādhavācārya arose, in the west, the sampradāya of Śrī Vallabhācārya. Śrīla Gopāla Bhaṭṭa Gosvāmī, the *smṛti-ācārya* of the Gauḍīya Vaiṣṇavas, was initiated under the rule of *tridaṇḍa* introduced by his ācārya and Śrī Gurudeva, Tridaṇḍipāda Śrī Prabodhānanda Sarasvatī Prabhu. There is no clear record of what dress Śrīla Gopāla Bhaṭṭa accepted. Yet his adherence to the rule of *tridaṇḍa* given in the first verse of Śrī Rūpa Gosvāmī’s *Upadeśāmṛta* was plainly evident in this Vaiṣṇava *smṛti-ācārya*. None of Śrī Gaurasundara’s followers accepted *ekadaṇḍa* in the sense of *kevalādvaita*. The sannyāsīs who shave off the *śikhā*, wear no thread and hold to impersonalist thinking could not introduce their system into the Gauḍīya Vaiṣṇava sampradāya.
 
 Śrī Gaurasundara approved only the way of *Tridaṇḍī* Śrī Śrīdhara Svāmipāda. The *kevalādvaita-vādīs*, unable to understand Śrīdhara’s teaching of pure nondualism (*śuddhādvaita*), want to count him as one of their own, but that is not what Gaurasundara intended.
 
@@ -38,7 +38,7 @@ Following the teaching of Śrī Caitanyadeva, *sannyāsa* with the *śikhā* and
 
 ## 10
 
-> Subheading: Intoxicated with *prema*, the Lord sets out for Vṛndāvana —
+> Subheading: Intoxicated with prema, the Lord sets out for Vṛndāvana —
 
 ## 11
 
@@ -196,13 +196,13 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 
 ## 64
 
-> Subheading: On seeing the *prasāda* the Lord rejoices and honours Advaita —
+> Subheading: On seeing the prasāda the Lord rejoices and honours Advaita —
 
 ## 66
 
 > Subheading: Without telling Mahāprabhu, Advaita seats each of the two Prabhus in his own place —
 
-Śrī Advaita Prabhu had served out the *bhoga* equally in three portions (see verse 42 of this chapter). Of these, Kṛṣṇa’s *bhoga* was on the metal plate, and the other two were on banana leaves. Advaita Prabhu himself offered to Kṛṣṇa the *bhoga* on the metal plate. The two portions on banana leaves, meant for Śrī Mahāprabhu and Nityānanda Prabhu, remained unoffered. The Ācārya kept this in his mind and did not reveal it to Mahāprabhu. So Mahāprabhu thought that all three portions were *prasāda* offered to Kṛṣṇa.
+Śrī Advaita Prabhu had served out the *bhoga* equally in three portions (see verse 42 of this chapter). Of these, Kṛṣṇa’s *bhoga* was on the metal plate, and the other two were on banana leaves. Advaita Prabhu himself offered to Kṛṣṇa the *bhoga* on the metal plate. The two portions on banana leaves, meant for Śrī Mahāprabhu and Nityānanda Prabhu, remained unoffered. The Ācārya kept this in his mind and did not reveal it to Mahāprabhu. So Mahāprabhu thought that all three portions were prasāda offered to Kṛṣṇa.
 
 ## 67
 
@@ -222,7 +222,7 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 
 > Subheading: The Lord’s pastime of renunciation on the path of rules, as befits an ācārya —
 
-***Upakaraṇa*** — *dāl*, vegetables and so on: the things that make rice easy to eat. A *sannyāsī* has no right to such tasty dishes. Taking what pleases the senses strengthens the urge to enjoy. That is why Mahāprabhu said to Śrī Raghunātha dāsa Gosvāmī about a devotee for whom renunciation comes first: “Do not dress well, and do not eat well.”[^70-1] Devotees never accept anything other than Kṛṣṇa’s *prasāda*. Wealthy householders offer Kṛṣṇa the finest and tastiest things. There are also *prasāda* articles that accompany Kṛṣṇa’s pastimes — *tāmbūla* to freshen the mouth and other fragrant spices, flower garlands, a bed, clothes, ornaments and so on. Vaiṣṇavas cherish them. Yet by the Lord’s order the selfless (*akiñcana*) Vaiṣṇavas regard their own bodies as mundane and repulsive and know that to accept such things would be an offence. So they declare their own unworthiness. Non-Vaiṣṇavas who pose as Vaiṣṇavas, the *sahajiyās* and others driven by *anarthas* cannot understand the purport of the Lord’s instruction.
+***Upakaraṇa*** — *dāl*, vegetables and so on: the things that make rice easy to eat. A sannyāsī has no right to such tasty dishes. Taking what pleases the senses strengthens the urge to enjoy. That is why Mahāprabhu said to Śrī Raghunātha dāsa Gosvāmī about a devotee for whom renunciation comes first: “Do not dress well, and do not eat well.”[^70-1] Devotees never accept anything other than Kṛṣṇa’s prasāda. Wealthy householders offer Kṛṣṇa the finest and tastiest things. There are also prasāda articles that accompany Kṛṣṇa’s pastimes — *tāmbūla* to freshen the mouth and other fragrant spices, flower garlands, a bed, clothes, ornaments and so on. Vaiṣṇavas cherish them. Yet by the Lord’s order the selfless (*akiñcana*) Vaiṣṇavas regard their own bodies as mundane and repulsive and know that to accept such things would be an offence. So they declare their own unworthiness. Non-Vaiṣṇavas who pose as Vaiṣṇavas, the *sahajiyās* and others driven by *anarthas* cannot understand the purport of the Lord’s instruction.
 
 ## 71
 
@@ -234,9 +234,9 @@ The author, Śrīla Kavirāja Gosvāmī, here shows his own knowledge of cookery
 
 ## 74
 
-> Subheading: A *sannyāsī* is forbidden to leave remnants on his plate —
+> Subheading: A sannyāsī is forbidden to leave remnants on his plate —
 
-A *sannyāsī* must not leave remnants of food. (*Śrīmad-Bhāgavatam* 11.18.19): “Let him go out to a body of water, bathe there, and, restraining his speech, divide the food he has gathered and purified by sprinkling; then let him eat the remainder completely, leaving nothing.” Cakravartī’s commentary: “ ‘Divide’ — among Viṣṇu, Brahmā, the Sun and living beings. ‘Leaving nothing’ — that is, nothing left over on the plate should be kept.”
+A sannyāsī must not leave remnants of food. (*Śrīmad-Bhāgavatam* 11.18.19): “Let him go out to a body of water, bathe there, and, restraining his speech, divide the food he has gathered and purified by sprinkling; then let him eat the remainder completely, leaving nothing.” Cakravartī’s commentary: “ ‘Divide’ — among Viṣṇu, Brahmā, the Sun and living beings. ‘Leaving nothing’ — that is, nothing left over on the plate should be kept.”
 
 ## 75
 
@@ -262,7 +262,7 @@ A *sannyāsī* must not leave remnants of food. (*Śrīmad-Bhāgavatam* 11.18.19
 
 ***Bhraṣṭa*** — “fallen” in the eyes of the mundane *smārta* society, that is, beyond injunctions and prohibitions. The word is used as praise in the guise of censure.
 
-The highest stage of *sannyāsa* is *pāramahaṁsya*; another name for it is *avadhūtatva*. *Avadhūtas* act as they please: though they accept the objects of the senses, they are not bound by them. The marks of *sannyāsa* they sometimes accept and sometimes give up. All these words of Advaita are a jest, not the truth. Some people, seeing Tripurasundarī installed at Khaḍadaha together with Śrī Śyāmasundara, mistake Nityānanda Prabhu’s *avadhūta* conduct for the conduct of a *kaula-avadhūta* of the Śākta *sampradāya*: “Within a Śākta, outside a Śaiva, in the assembly considered a Vaiṣṇava.” In fact it is not so. Śrī Nityānanda Svarūpa is a *svarūpa-brahmacārī* (a *brahmacārī* bearing the name “Svarūpa”) of a Vedic *sannyāsī*, and is Himself a *paramahaṁsa*. Others again say that Lakṣmīpati Tīrtha was His ācārya. Even so, He belongs to the *sampradāya* of Śrī Madhva, not to the Tāntrikas of Bengal.
+The highest stage of sannyāsa is *pāramahaṁsya*; another name for it is *avadhūtatva*. *Avadhūtas* act as they please: though they accept the objects of the senses, they are not bound by them. The marks of sannyāsa they sometimes accept and sometimes give up. All these words of Advaita are a jest, not the truth. Some people, seeing Tripurasundarī installed at Khaḍadaha together with Śrī Śyāmasundara, mistake Nityānanda Prabhu’s *avadhūta* conduct for the conduct of a *kaula-avadhūta* of the Śākta sampradāya: “Within a Śākta, outside a Śaiva, in the assembly considered a Vaiṣṇava.” In fact it is not so. Śrī Nityānanda Svarūpa is a *svarūpa-brahmacārī* (a *brahmacārī* bearing the name “Svarūpa”) of a Vedic sannyāsī, and is Himself a *paramahaṁsa*. Others again say that Lakṣmīpati Tīrtha was His ācārya. Even so, He belongs to the sampradāya of Śrī Madhva, not to the Tāntrikas of Bengal.
 
 ## 87
 
@@ -290,27 +290,27 @@ The highest stage of *sannyāsa* is *pāramahaṁsya*; another name for it is *a
 
 ## 96
 
-***Avadhūta*** — *asaṁskṛta-deha*, one who does not care for his body (see Śrīdhara Svāmī’s commentary on *Śrīmad-Bhāgavatam* 3.1.19). [Advaita says:] “Śrī Nityānanda is playing the pastime of a *paramahaṁsa*’s conduct. He may have scattered the rice as a show of madness. But by the touch of His remnants, though by the rules of the non-devotee *smārta* society I should have become impure and defiled, I have in truth become supremely pure and holy.” The remnants of a Vaiṣṇava, or *paramahaṁsa*, are *mahā-mahā-prasāda*. They are themselves living consciousness, real, like Viṣṇu. They are not the material rice and *dāl* that gratify the senses of a non-devotee. Śrī Gurudeva is the best of *paramahaṁsas*, beyond *varṇāśrama*. To touch, partake of and associate with his remnants and those of other *paramahaṁsas*, that is, Vaiṣṇavas, removes from the heart of the conditioned *jīva* all aversion to Hari. This establishes the *jīva* in pure brāhmaṇahood — in transcendental service to the *paramahaṁsas*. This Ācārya Śrīla Advaita Prabhu himself declared for the good of foolish *jīvas*.
+***Avadhūta*** — *asaṁskṛta-deha*, one who does not care for his body (see Śrīdhara Svāmī’s commentary on *Śrīmad-Bhāgavatam* 3.1.19). [Advaita says:] “Śrī Nityānanda is playing the pastime of a *paramahaṁsa*’s conduct. He may have scattered the rice as a show of madness. But by the touch of His remnants, though by the rules of the non-devotee *smārta* society I should have become impure and defiled, I have in truth become supremely pure and holy.” The remnants of a Vaiṣṇava, or *paramahaṁsa*, are *mahā-mahā-prasāda*. They are themselves living consciousness, real, like Viṣṇu. They are not the material rice and *dāl* that gratify the senses of a non-devotee. Śrī Gurudeva is the best of *paramahaṁsas*, beyond *varṇāśrama*. To touch, partake of and associate with his remnants and those of other *paramahaṁsas*, that is, Vaiṣṇavas, removes from the heart of the conditioned jīva all aversion to Hari. This establishes the jīva in pure brāhmaṇahood — in transcendental service to the *paramahaṁsas*. This Ācārya Śrīla Advaita Prabhu himself declared for the good of foolish jīvas.
 
 ## 97
 
 > Subheading: In the guise of censure Advaita praises Nityānanda —
 
-***Sahaje pāgala*** (“mad by nature”) — devoted to the transcendental *dharma* of the *paramahaṁsas*, which is innate to the self, to consciousness, and at every moment intoxicated with serving Kṛṣṇa with all the senses (see *Śrīmad-Bhāgavatam* 11.18.28–29).
+***Sahaje pāgala*** (“mad by nature”) — devoted to the transcendental dharma of the *paramahaṁsas*, which is innate to the self, to consciousness, and at every moment intoxicated with serving Kṛṣṇa with all the senses (see *Śrīmad-Bhāgavatam* 11.18.28–29).
 
 ## 98
 
-***Āpanāra sama*** (“like Yourself”) — that is, a perfected Vaiṣṇava, a *paramahaṁsa* beyond injunctions and prohibitions. Śrī Guru, Nityānanda, the *paramahaṁsas*, or Vaiṣṇavas, and those who think of themselves as their servants are never governed by the rules of the mundane *smārta* society, averse to Hari, out of fear of it. This is the purport of Ācārya Śrīla Advaita Prabhu’s words. Pure Vaiṣṇavas, the servants of the *paramahaṁsas*, do not see the conscious *mahā-prasāda* as the same as rice and *dāl* born of *prakṛti* that gratify the material senses. Instead of weighing whether someone’s touch has defiled it, they partake of it and honour it. To say nothing of a pure Vaiṣṇava — even if a brāhmaṇa partakes of *mahā-prasāda* fallen from the mouth of a *caṇḍāla*, his brāhmaṇahood stays completely intact: not the slightest impurity touches it. This is what they know. When one partakes of *mahā-prasāda*, all the pure and impure things of the material world are engaged in Kṛṣṇa’s service and are seen as transcendentally pure.
+***Āpanāra sama*** (“like Yourself”) — that is, a perfected Vaiṣṇava, a *paramahaṁsa* beyond injunctions and prohibitions. Śrī Guru, Nityānanda, the *paramahaṁsas*, or Vaiṣṇavas, and those who think of themselves as their servants are never governed by the rules of the mundane *smārta* society, averse to Hari, out of fear of it. This is the purport of Ācārya Śrīla Advaita Prabhu’s words. Pure Vaiṣṇavas, the servants of the *paramahaṁsas*, do not see the conscious mahā-prasāda as the same as rice and *dāl* born of *prakṛti* that gratify the material senses. Instead of weighing whether someone’s touch has defiled it, they partake of it and honour it. To say nothing of a pure Vaiṣṇava — even if a brāhmaṇa partakes of mahā-prasāda fallen from the mouth of a *caṇḍāla*, his brāhmaṇahood stays completely intact: not the slightest impurity touches it. This is what they know. When one partakes of mahā-prasāda, all the pure and impure things of the material world are engaged in Kṛṣṇa’s service and are seen as transcendentally pure.
 
 ## 99
 
 > Subheading: Nityānanda threatens Advaita with punishment and prescribes atonement —
 
-In the *Bṛhad-viṣṇu Purāṇa*: “O twice-born, in eating what is offered to the Lord of the universe — food, drink and the rest — there is no considering what may or may not be eaten. It is changeless like Brahman: as Viṣṇu is, so is it. Those twice-born who, eating it, see change in it are struck with leprosy and deprived of sons and wife. Those brāhmaṇas go to hell, from which they never return.” It is precisely to warn against the offence of regarding *mahā-prasāda* as an object of enjoyment, the same as material rice and *dāl*, that the author has written of the glory of *mahā-prasāda* (Antya, Chapter 16, verses 56–63).
+In the *Bṛhad-viṣṇu Purāṇa*: “O twice-born, in eating what is offered to the Lord of the universe — food, drink and the rest — there is no considering what may or may not be eaten. It is changeless like Brahman: as Viṣṇu is, so is it. Those twice-born who, eating it, see change in it are struck with leprosy and deprived of sons and wife. Those brāhmaṇas go to hell, from which they never return.” It is precisely to warn against the offence of regarding mahā-prasāda as an object of enjoyment, the same as material rice and *dāl*, that the author has written of the glory of mahā-prasāda (Antya, Chapter 16, verses 56–63).
 
 ## 101
 
-> Subheading: The *sannyāsa* of a Vaiṣṇava does away with the rules of the *smārtas* —
+> Subheading: The sannyāsa of a Vaiṣṇava does away with the rules of the *smārtas* —
 
 ## 102
 
@@ -324,7 +324,7 @@ In the *Bṛhad-viṣṇu Purāṇa*: “O twice-born, in eating what is offered
 
 > Subheading: The Lord is embarrassed and tells the Ācārya to eat with Mukunda and Haridāsa —
 
-Mahāprabhu saw that He, a *sannyāsī*, was being given a fine bed, cloves, cardamom, sandalwood paste and a flower garland, and that Advaita himself wanted to massage His feet. So He said, “You have made Me dance plenty — now stop making Me dance.”
+Mahāprabhu saw that He, a sannyāsī, was being given a fine bed, cloves, cardamom, sandalwood paste and a flower garland, and that Advaita himself wanted to massage His feet. So He said, “You have made Me dance plenty — now stop making Me dance.”
 
 ## 108
 
@@ -342,7 +342,7 @@ Mahāprabhu saw that He, a *sannyāsī*, was being given a fine bed, cloves, car
 
 ## 112
 
-> Subheading: Advaita’s *saṅkīrtana* in the evening —
+> Subheading: Advaita’s saṅkīrtana in the evening —
 
 ## 113
 
@@ -374,7 +374,7 @@ A song by Vidyāpati: “What shall I say, friend — there is no limit to my jo
 
 ## 124
 
-In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣṇa with Him, fully manifested the *rasa* of separation (*vipralambha*). Seeing this, Mukunda began a song to match, and Advaita Prabhu stopped dancing. (A similar song of Vidyāpati: “What shall I do, where shall I go? I find no relief. For my beloved’s sake, to what land shall I go?”)
+In a song of the rasa of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣṇa with Him, fully manifested the rasa of separation (*vipralambha*). Seeing this, Mukunda began a song to match, and Advaita Prabhu stopped dancing. (A similar song of Vidyāpati: “What shall I do, where shall I go? I find no relief. For my beloved’s sake, to what land shall I go?”)
 
 ## 127
 
@@ -476,7 +476,7 @@ In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣ
 
 ## 162
 
-> Subheading: During *kīrtana* the Lord, overwhelmed by emotion, falls to the ground —
+> Subheading: During kīrtana the Lord, overwhelmed by emotion, falls to the ground —
 
 ***Pulakāśru*** — (ibid.[^162-1]): “Tears (*aśru*) are water that wells up in the eyes from joy, anger, grief and the like. Tears of joy are cool; tears of anger and the like are hot. With all tears there are agitation of the eyes, redness, wiping and so on.” The water that falls from the eyes without any effort, from joy, anger, grief and the like, is *pulakāśru*. Tears of joy are cool, tears of anger hot, and with both kinds of *pulakāśru* there are agitation of the eyes, redness, wiping and so on.
 
@@ -490,7 +490,7 @@ In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣ
 
 ## 165
 
-***Bālya-kāla haite*** (“since childhood”) — since girlhood, from earliest infancy. Śacīmātā is eternally perfect, *vātsalya* embodied, in her very nature Yaśodā herself. From birth she was devoted to Kṛṣṇa’s service and was never an ordinary *jīva*. Here this is stated from her own lips.
+***Bālya-kāla haite*** (“since childhood”) — since girlhood, from earliest infancy. Śacīmātā is eternally perfect, *vātsalya* embodied, in her very nature Yaśodā herself. From birth she was devoted to Kṛṣṇa’s service and was never an ordinary jīva. Here this is stated from her own lips.
 
 ## 168
 
@@ -524,7 +524,7 @@ In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣ
 
 ## 177
 
-> Subheading: A *sannyāsī* must not return to what he has given up (become a *vāntāśī*, “one who eats what he has vomited”) —
+> Subheading: A sannyāsī must not return to what he has given up (become a *vāntāśī*, “one who eats what he has vomited”) —
 
 ## 178
 
@@ -538,7 +538,7 @@ In a song of the *rasa* of union (*sambhoga*), Śrī Prabhu, not finding Kṛṣ
 
 > Subheading: Śacīmātā’s happiness lies in the Lord’s happiness —
 
-If the son gives up searching for Kṛṣṇa and stays at home, the mother will have pleasure — her senses will be satisfied. But the son, having abandoned Kṛṣṇa’s service, will deserve blame, and a truly loving mother will only grieve. So a real mother wishes her son eternal good and happiness. Her real happiness lies not in her own joy or in the enjoyment of seeing her son, but in her son’s service to Kṛṣṇa. Otherwise the word *mā* (“mother”) means *māyā*. By these words Jaganmātā (the Mother of the world) Śacī Ṭhākurāṇī, the ideal for all mothers, has instructed them all. In this connection one should consider the verse (*Śrīmad-Bhāgavatam* 5.5.18): “He is no guru, he is no kinsman, he is no father, she is no mother, that is no deity and he is no husband, who does not free from death one who has come to him.”
+If the son gives up searching for Kṛṣṇa and stays at home, the mother will have pleasure — her senses will be satisfied. But the son, having abandoned Kṛṣṇa’s service, will deserve blame, and a truly loving mother will only grieve. So a real mother wishes her son eternal good and happiness. Her real happiness lies not in her own joy or in the enjoyment of seeing her son, but in her son’s service to Kṛṣṇa. Otherwise the word *mā* (“mother”) means māyā. By these words Jaganmātā (the Mother of the world) Śacī Ṭhākurāṇī, the ideal for all mothers, has instructed them all. In this connection one should consider the verse (*Śrīmad-Bhāgavatam* 5.5.18): “He is no guru, he is no kinsman, he is no father, she is no mother, that is no deity and he is no husband, who does not free from death one who has come to him.”
 
 ## 182
 
@@ -600,7 +600,7 @@ This verse is a beautiful explanation of the service of Kṛṣṇa’s servant:
 
 ## 201
 
-> Subheading: By day, talks about Kṛṣṇa (*iṣṭa-goṣṭhī*); by night, *saṅkīrtana* —
+> Subheading: By day, talks about Kṛṣṇa (*iṣṭa-goṣṭhī*); by night, saṅkīrtana —
 
 ## 202
 
@@ -644,7 +644,7 @@ This verse is a beautiful explanation of the service of Kṛṣṇa’s servant:
 
 ## 212
 
-***Nirapekṣa*** — free from all dependence on matter and the material, that is, established in one’s *svarūpa*, in servitude to Bhagavān. Mahāprabhu feared that some obstacle might arise in His search for Kṛṣṇa. So, after hearing His relatives weep, He went away, and in the eyes of godless moralists He came to be known as “utterly heartless.” But as Jagad-guru He taught that for the *jīva* the one necessary duty is the endeavour to serve Kṛṣṇa, the highest of all *dharmas*. External vision and the enjoyment of insentient matter (*acit*) breed attachment to matter itself — *māyā*. One bound by it does not serve Kṛṣṇa. Therefore even good morality (*sunīti*), highly honoured in the eyes of the world, if it opposes the service of Kṛṣṇa, is a path contrary to Caitanya. One should consider the words from the Lord’s own lips: “Unless one is *nirapekṣa*, *dharma* cannot be protected.” (*Caitanya-caritāmṛta*, Antya 3.23)
+***Nirapekṣa*** — free from all dependence on matter and the material, that is, established in one’s *svarūpa*, in servitude to Bhagavān. Mahāprabhu feared that some obstacle might arise in His search for Kṛṣṇa. So, after hearing His relatives weep, He went away, and in the eyes of godless moralists He came to be known as “utterly heartless.” But as Jagad-guru He taught that for the jīva the one necessary duty is the endeavour to serve Kṛṣṇa, the highest of all *dharmas*. External vision and the enjoyment of insentient matter (*acit*) breed attachment to matter itself — māyā. One bound by it does not serve Kṛṣṇa. Therefore even good morality (*sunīti*), highly honoured in the eyes of the world, if it opposes the service of Kṛṣṇa, is a path contrary to Caitanya. One should consider the words from the Lord’s own lips: “Unless one is *nirapekṣa*, dharma cannot be protected.” (*Caitanya-caritāmṛta*, Antya 3.23)
 
 ## 213
 

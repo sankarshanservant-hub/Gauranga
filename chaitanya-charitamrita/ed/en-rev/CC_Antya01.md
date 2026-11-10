@@ -202,9 +202,9 @@ food  giving,  taking (it) along  he goes  showing  care
 ekadina eka-sthāne nadī pāra haite  
 one day  in one  place  the river  across  while crossing  
 oḍiyā nāvika kukkura nā caḍāya naukāte  
-an Oriya  boatman  the dog  not  lets board  into the boat
+an Oriyā  boatman  the dog  not  lets board  into the boat
 
-(18) One day, at a river crossing, an Oriya boatman would not let the dog into his boat.
+(18) One day, at a river crossing, an Oriyā boatman would not let the dog into his boat.
 
 কুক্কুর রহিলা, — শিবানন্দ দুঃখী হৈলা ৷  
 দশ পণ কড়ি দিয়া কুক্কুরে পার কৈলা ॥ ১৯ ॥
@@ -420,7 +420,7 @@ to the devotees  he came,  meeting  not  he got
 এক রাত্রি সেই গ্রামে করিলা বিশ্রাম ॥ ৪০ ॥
 
 oḍiyā-deśe ‘satyabhāmā-pura’-nāme grāma  
-in the Oriya land  Satyabhāmā-pura  by name  a village  
+in the Oriyā land  Satyabhāmā-pura  by name  a village  
 eka rātri sei grāme karilā viśrāma  
 one  night  in that  village  he made  rest
 
@@ -600,7 +600,7 @@ so that  to describe  he can  in relation to Kṛṣṇa  in rasa  devotion
 সবার হইল রূপ স্নেহের ভাজন ॥ ৫৮ ॥
 
 gauḍīyā, oḍiyā, yata prabhura bhakta-gaṇa  
-Gauḍīya,  Oriya,  all  of the Lord  the devotees  
+Gauḍīya,  Oriyā,  all  of the Lord  the devotees  
 sabāra haila rūpa snehera bhājana  
 of all  became  Rūpa  of affection  the object
 

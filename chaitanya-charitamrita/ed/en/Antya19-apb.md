@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** Inspired by His devotion to His mother, every year the Lord sent Jagadānanda Paṇḍita to Śrī Navadvīpa with cloth and sweets that were *prasāda*. One year Jagadānanda went to Navadvīpa in this way and brought back a riddle in the form of a *tarjā* (*tarjā-prahelī*) written by Advaita Ācārya. When Mahāprabhu read it, His condition grew ever deeper, and the devotees began to think, “Mahāprabhu will probably soon depart from this world.” The Lord’s state became such that at night He rubbed His face [against the walls], and blood flowed from the wounds on His body. To prevent this, Svarūpa Gosvāmī had Śaṅkara Paṇḍita sleep in the Lord’s room. Once, on the full-moon night of the month of Vaiśākha, the Lord entered the garden of Śrī Jagannātha-vallabha. Manifesting various feelings, under an *aśoka* tree He suddenly saw Kṛṣṇa. Then, maddened by the fragrance of Kṛṣṇa’s body, He began to manifest [divine] feelings.
+**Summary.** Inspired by His devotion to His mother, every year the Lord sent Jagadānanda Paṇḍita to Śrī Navadvīpa with cloth and sweets that were prasāda. One year Jagadānanda went to Navadvīpa in this way and brought back a riddle in the form of a *tarjā* (*tarjā-prahelī*) written by Advaita Ācārya. When Mahāprabhu read it, His condition grew ever deeper, and the devotees began to think, “Mahāprabhu will probably soon depart from this world.” The Lord’s state became such that at night He rubbed His face [against the walls], and blood flowed from the wounds on His body. To prevent this, Svarūpa Gosvāmī had Śaṅkara Paṇḍita sleep in the Lord’s room. Once, on the full-moon night of the month of Vaiśākha, the Lord entered the garden of Śrī Jagannātha-vallabha. Manifesting various feelings, under an *aśoka* tree He suddenly saw Kṛṣṇa. Then, maddened by the fragrance of Kṛṣṇa’s body, He began to manifest [divine] feelings.
 
 ## 1
 
@@ -88,7 +88,7 @@ The fragrance of His body conquers musk, and by its waves He draws the hearts of
 
 ## 101
 
-**kṛṣṇadāsa rūpa-gosāñi-bhṛtya** — Kṛṣṇadāsa, the servant of Rūpa Gosvāmī. Reading this line, many think that Śrī Kṛṣṇadāsa Kavirāja Gosvāmī was a disciple of Rūpa Gosvāmī who received mantra from him. But when one reads other passages, it is hard to reach that conclusion. Here Śrīla Kavirāja Prabhu unfolds *rasa* by following the teaching of Śrī Rūpa’s *Bhakti-rasāmṛta-sindhu*, and so he may have taken only Śrī Rūpa’s name. Or the meaning may also be this: the author, Kṛṣṇadāsa, the servant of the Gosvāmīs, composed this line.
+**kṛṣṇadāsa rūpa-gosāñi-bhṛtya** — Kṛṣṇadāsa, the servant of Rūpa Gosvāmī. Reading this line, many think that Śrī Kṛṣṇadāsa Kavirāja Gosvāmī was a disciple of Rūpa Gosvāmī who received mantra from him. But when one reads other passages, it is hard to reach that conclusion. Here Śrīla Kavirāja Prabhu unfolds rasa by following the teaching of Śrī Rūpa’s *Bhakti-rasāmṛta-sindhu*, and so he may have taken only Śrī Rūpa’s name. Or the meaning may also be this: the author, Kṛṣṇadāsa, the servant of the Gosvāmīs, composed this line.
 
 *Thus ends the nineteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

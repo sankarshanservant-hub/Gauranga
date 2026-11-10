@@ -54,7 +54,7 @@ The festival of Kṛṣṇa’s birth: the day after Janmāṣṭamī, that is, 
 
 > Subheading: Kānāi Khuṭiyā dressed as Nanda and Jagannātha Māhāti as Yaśodā —
 
-Khuṭiyā is a title of Utkala *brāhmaṇas*; Māhāti is a title of the Karaṇas (scribes) of Utkala.
+Khuṭiyā is a title of Utkala brāhmaṇas; Māhāti is a title of the Karaṇas (scribes) of Utkala.
 
 ## 20
 
@@ -88,7 +88,7 @@ Pātra is a title of respected men in Utkala.
 
 ## 27
 
-> Subheading: Tulasī the *paḍichā* brings *prasāda* cloth, and it is tied on the Lord’s head —
+> Subheading: Tulasī the *paḍichā* brings prasāda cloth, and it is tied on the Lord’s head —
 
 ## 29
 
@@ -144,9 +144,9 @@ The mother of the world — Sītā-devī.
 
 > Subheading: Nitāi is ordered to preach —
 
-*He ordered Nityānanda.* The *prākṛta-sahajiyās* look upon Śrī Nityānanda Prabhu, who is not different from the son of Rohiṇī, with mundane vision. They claim that “Śrīman Mahāprabhu sent Śrī Nityānanda Prabhu from Śrī Nīlācala to Śrī Gauḍa-deśa to continue His family line (?)”. Such a godless notion springs only from offence at the feet of Śrī Nityānanda. People of this kind regard Śrīman Nityānanda — the original source of all forms of the Lord, of all *viṣṇu-tattva* — as just like themselves: one of the mortal beings who take the corpse-like body for the self (*kuṇapātma-vādīs*), who pursue material sense gratification and are subject to Yama’s punishment. So they become travellers on the road to hell. These selfish people with a merchant’s nature, greedy for gold, women and fame, invent such an anti-scriptural notion with their fertile brains. Using Nityānanda’s name, they look for a chance to justify through His divine acts — unfairly and against scripture — their trade, their cheating of fools and, out of evil intent, the universally condemned craving for the company of women and the *dharma* of the *gṛha-vratas*, or *gṛhamedhīs*.
+*He ordered Nityānanda.* The *prākṛta-sahajiyās* look upon Śrī Nityānanda Prabhu, who is not different from the son of Rohiṇī, with mundane vision. They claim that “Śrīman Mahāprabhu sent Śrī Nityānanda Prabhu from Śrī Nīlācala to Śrī Gauḍa-deśa to continue His family line (?)”. Such a godless notion springs only from offence at the feet of Śrī Nityānanda. People of this kind regard Śrīman Nityānanda — the original source of all forms of the Lord, of all *viṣṇu-tattva* — as just like themselves: one of the mortal beings who take the corpse-like body for the self (*kuṇapātma-vādīs*), who pursue material sense gratification and are subject to Yama’s punishment. So they become travellers on the road to hell. These selfish people with a merchant’s nature, greedy for gold, women and fame, invent such an anti-scriptural notion with their fertile brains. Using Nityānanda’s name, they look for a chance to justify through His divine acts — unfairly and against scripture — their trade, their cheating of fools and, out of evil intent, the universally condemned craving for the company of women and the dharma of the *gṛha-vratas*, or *gṛhamedhīs*.
 
-In fact, no authoritative book records that Śrīman Mahāprabhu, the supremely magnanimous giver of love for Kṛṣṇa, gave any such order to Śrīman Nityānanda Prabhu, His own manifestation, not different from Him: that He should, like the Prajāpatis who rest in the mode of passion, maintain creation by increasing His line, or serve as some instrument to justify the material sense gratification of *jīvas* averse to Kṛṣṇa. Nor can any book record it, for such talk is wholly unfit to be heard. By spreading such talk the *prākṛta-sahajiyās*, who keep company with worldly women, deprive themselves of the highest goal, deceive a world unable to tell the true from the false, and bring nothing but harm upon it.
+In fact, no authoritative book records that Śrīman Mahāprabhu, the supremely magnanimous giver of love for Kṛṣṇa, gave any such order to Śrīman Nityānanda Prabhu, His own manifestation, not different from Him: that He should, like the Prajāpatis who rest in the mode of passion, maintain creation by increasing His line, or serve as some instrument to justify the material sense gratification of jīvas averse to Kṛṣṇa. Nor can any book record it, for such talk is wholly unfit to be heard. By spreading such talk the *prākṛta-sahajiyās*, who keep company with worldly women, deprive themselves of the highest goal, deceive a world unable to tell the true from the false, and bring nothing but harm upon it.
 
 ## 43
 
@@ -166,9 +166,9 @@ In fact, no authoritative book records that Śrīman Mahāprabhu, the supremely 
 
 ## 48
 
-> Subheading: The Lord reproaches Himself for taking the dress of a *sannyāsī*, contrary to the mood of parental love —
+> Subheading: The Lord reproaches Himself for taking the dress of a sannyāsī, contrary to the mood of parental love —
 
-By taking *sannyāsa* I failed to carry out the *dharma* of serving My mother and fell from *dharma*.
+By taking sannyāsa I failed to carry out the dharma of serving My mother and fell from dharma.
 
 ## 52
 
@@ -176,7 +176,7 @@ By taking *sannyāsa* I failed to carry out the *dharma* of serving My mother an
 
 ## 53
 
-> Subheading: Before too the Lord always met Śacī, but by His *māyā* Śacī doubts it —
+> Subheading: Before too the Lord always met Śacī, but by His māyā Śacī doubts it —
 
 ## 54
 
@@ -218,7 +218,7 @@ By taking *sannyāsa* I failed to carry out the *dharma* of serving My mother an
 
 ## 81–83
 
-Śrī Rāghava Paṇḍita was not like a man sunk in *karma* and sick with the mundane “disease of cleanliness,” nor like a mundane *kaniṣṭha* devotee who thinks in terms of duality and “considers the earth worshipable”[^81-83-1] — that is, attributes spirit to matter and lives by the speculations of the mind. He was an eternally perfect servant of Kṛṣṇa. Absorbed in the mood of transcendental service, free from the slightest scent of mundane desire, he served the object of his worship at every moment. Selfish devotees, on the other hand, whose devotion is mixed with *karma* and tainted, have no understanding of transcendental service. If they imitate his outward conduct and deliberate over artificial mundane purity and impurity, that alone does not show that they have pure devotion to Kṛṣṇa or a desire to please Kṛṣṇa: “In the transcendental there is no notion of things as good or bad. In duality the notion of good and bad is all a speculation of the mind; ‘this is good, this is bad’ — all this is illusion.” (See Antya 4.174, 176 and *Śrīmad-Bhāgavatam* 11.28.4.)
+Śrī Rāghava Paṇḍita was not like a man sunk in karma and sick with the mundane “disease of cleanliness,” nor like a mundane *kaniṣṭha* devotee who thinks in terms of duality and “considers the earth worshipable”[^81-83-1] — that is, attributes spirit to matter and lives by the speculations of the mind. He was an eternally perfect servant of Kṛṣṇa. Absorbed in the mood of transcendental service, free from the slightest scent of mundane desire, he served the object of his worship at every moment. Selfish devotees, on the other hand, whose devotion is mixed with karma and tainted, have no understanding of transcendental service. If they imitate his outward conduct and deliberate over artificial mundane purity and impurity, that alone does not show that they have pure devotion to Kṛṣṇa or a desire to please Kṛṣṇa: “In the transcendental there is no notion of things as good or bad. In duality the notion of good and bad is all a speculation of the mind; ‘this is good, this is bad’ — all this is illusion.” (See Antya 4.174, 176 and *Śrīmad-Bhāgavatam* 11.28.4.)
 
 ## 84
 
@@ -256,7 +256,7 @@ To those who seek the highest goal this book is extremely dear. The foremost Vai
 
 In Śaka 1405, two years before the appearance of Śrī Śrī Mahāprabhu, the book was copied by the hand of Śrī Devānanda Vasu (quoted from the “Introduction” by Śrīmad Bhaktivinoda Ṭhākura to the *Śrī Kṛṣṇa-vijaya*).
 
-The Bengali emperor Ādiśūra brought from Kānyakubja five noble *brāhmaṇas* and with them five noble Kāyasthas; one of those Kāyasthas was Daśaratha Vasu. Śrī Guṇarāja Khān was born in the thirteenth generation of his line. His real name was Śrī Mālādhara Vasu; Guṇarāja Khān was a title given by the emperor of Gauḍa. The generations are as follows:
+The Bengali emperor Ādiśūra brought from Kānyakubja five noble brāhmaṇas and with them five noble Kāyasthas; one of those Kāyasthas was Daśaratha Vasu. Śrī Guṇarāja Khān was born in the thirteenth generation of his line. His real name was Śrī Mālādhara Vasu; Guṇarāja Khān was a title given by the emperor of Gauḍa. The generations are as follows:
 
 1. Daśaratha Vasu, 2. Kuśala, 3. Śubhaśaṅkara, 4. Haṁsa, 5. Śaktirāma (Bāgāṇḍā), 5. Muktirāma (Māinagara), 5. Alaṅkāra (Baṅgaja).
 
@@ -300,7 +300,7 @@ The original line is: “With one-pointed feeling, joining your palms, praise Ha
 
 > Subheading: The Lord gives the marks of a “*kaniṣṭha* Vaiṣṇava” —
 
-Know as a Vaiṣṇava one who has faith that by the name of Śrī Kṛṣṇa alone every perfection is attained, for such faith gives the initial qualification for being a Vaiṣṇava. Still, because his faith in Kṛṣṇa’s name is as yet soft, he does not chant the name constantly. Śrī Rūpa Gosvāmī Prabhu writes in his *Upadeśāmṛta*: “One on whose tongue is the name ‘Kṛṣṇa’ should be honoured in the mind; if he has initiation…”[^106-1] There are those who know that the holy name is a transcendental touchstone, Kṛṣṇa Caitanya Himself, the embodiment of *rasa*, complete, pure, eternally free and not different from the Named, and they worship [the Lord] with great faith. Yet because of their conditioned state they do not deliberate on the conclusions of *bhakti* and so cannot understand that the components of *bhakti* and the pure devotee are wholly transcendental. They too, by serving the pure devotees and Śrī Guru and by hearing the conclusions of pure *bhakti* from their lips, are gradually freed from all sins and attain transcendental realisation, or divine knowledge of *sambandha*. (*Śrīmad-Bhāgavatam* 11.2.47): “One who faithfully worships Hari only in the Deity, but not His devotees or others, is known as a materialistic devotee.” In the teachings to Śrī Sanātana (Madhya 22.64, 67): “One who has faith is qualified for *bhakti*; according to faith there are the topmost, the middle and the neophyte.” “One whose faith is soft is a neophyte; gradually he will become a topmost devotee. *Bhakti* rises by degrees according to the degree of *rati* and *prema*.”
+Know as a Vaiṣṇava one who has faith that by the name of Śrī Kṛṣṇa alone every perfection is attained, for such faith gives the initial qualification for being a Vaiṣṇava. Still, because his faith in Kṛṣṇa’s name is as yet soft, he does not chant the name constantly. Śrī Rūpa Gosvāmī Prabhu writes in his *Upadeśāmṛta*: “One on whose tongue is the name ‘Kṛṣṇa’ should be honoured in the mind; if he has initiation…”[^106-1] There are those who know that the holy name is a transcendental touchstone, Kṛṣṇa Caitanya Himself, the embodiment of rasa, complete, pure, eternally free and not different from the Named, and they worship [the Lord] with great faith. Yet because of their conditioned state they do not deliberate on the conclusions of bhakti and so cannot understand that the components of bhakti and the pure devotee are wholly transcendental. They too, by serving the pure devotees and Śrī Guru and by hearing the conclusions of pure bhakti from their lips, are gradually freed from all sins and attain transcendental realisation, or divine knowledge of *sambandha*. (*Śrīmad-Bhāgavatam* 11.2.47): “One who faithfully worships Hari only in the Deity, but not His devotees or others, is known as a materialistic devotee.” In the teachings to Śrī Sanātana (Madhya 22.64, 67): “One who has faith is qualified for bhakti; according to faith there are the topmost, the middle and the neophyte.” “One whose faith is soft is a neophyte; gradually he will become a topmost devotee. *Bhakti* rises by degrees according to the degree of *rati* and prema.”
 
 “The best of all” means the best in all Devī-dhāma. A neophyte devotee who worships with a mantra consisting of Śrī Viṣṇu’s name is superior even to a pious *karmī* or a *jñānī*. For the *karmī* or *jñānī*, however exalted, does not believe that Śrī Viṣṇu is the Reality and the eternal object of service. So, though they accept the Vedas in word, they are in fact atheists. But one who worships Śrī Viṣṇu — however little greatness he may have in the realm of transcendental *bhajana* — has at least heard from Śrī Guru that the Deity of Śrī Viṣṇu is His real, true form and has faith in Him.
 
@@ -308,9 +308,9 @@ Know as a Vaiṣṇava one who has faith that by the name of Śrī Kṛṣṇa a
 
 > Subheading: The glory of the fruit of a single name of Kṛṣṇa —
 
-The nine kinds of *bhakti* (*Śrīmad-Bhāgavatam* 7.5.23): “Hearing about Viṣṇu and chanting about Him, remembering Him, serving His feet, worshipping Him, offering Him prayers, serving Him, befriending Him and offering Him one’s very self — such is devotion with nine characteristics, if a person offers it to Viṣṇu.”
+The nine kinds of bhakti (*Śrīmad-Bhāgavatam* 7.5.23): “Hearing about Viṣṇu and chanting about Him, remembering Him, serving His feet, worshipping Him, offering Him prayers, serving Him, befriending Him and offering Him one’s very self — such is devotion with nine characteristics, if a person offers it to Viṣṇu.”
 
-One who avoids offences against the name and takes shelter of the name of Kṛṣṇa alone has all his sins destroyed, and all his mundane desires for enjoyment, rooted in piety and sin, perish. One who takes the holy name is the best of all and worthy of honour. The nine kinds of *bhakti* reach fullness only through *bhajana* of the holy name (“Even if other forms of *bhakti* are performed in Kali, they must be joined with the *bhakti* called *kīrtana*,” *Bhakti-sandarbha* 173).
+One who avoids offences against the name and takes shelter of the name of Kṛṣṇa alone has all his sins destroyed, and all his mundane desires for enjoyment, rooted in piety and sin, perish. One who takes the holy name is the best of all and worthy of honour. The nine kinds of bhakti reach fullness only through *bhajana* of the holy name (“Even if other forms of bhakti are performed in Kali, they must be joined with the bhakti called *kīrtana*,” *Bhakti-sandarbha* 173).
 
 ## 108
 
@@ -318,13 +318,13 @@ One who avoids offences against the name and takes shelter of the name of Kṛ�
 
 *Dīkṣā.* A statement of the Āgamas cited by Śrī Jīva Prabhu in the *Bhakti-sandarbha* (283): “Because it gives divine knowledge and completely destroys sin, teachers who know the truth call it *dīkṣā*.” Paṇḍitas versed in the scriptures of truth have precisely defined *dīkṣā* as that from which transcendental, divine knowledge awakens and sin is completely destroyed.
 
-The rule of *dīkṣā* (a statement of the Āgamas cited in the *Hari-bhakti-vilāsa*, second *vilāsa*, and in the *Bhakti-sandarbha* 283): “Twice-born men who have not received the sacred thread have no right to their duties, to Vedic study and so on; they gain it only after *upanayana*. So too here the uninitiated have no right to worship the mantra, the Deity and so on. Therefore one should sanctify oneself with auspiciousness.” As a *brāhmaṇa* without *upanayana* has no right to his duties, to study and so on, and gains it only after taking the sacred thread, so an uninitiated person has no right to worship the deity of the mantra and so on. Therefore one who seeks the highest good should accept *dīkṣā* to sanctify himself with auspiciousness. For it is said (a statement of the *Viṣṇu-yāmala* cited in the *Hari-bhakti-vilāsa*, second *vilāsa*): “O fair-thighed one, all that an uninitiated person does is fruitless. A person without *dīkṣā* takes birth in an animal womb.” (A statement of the Yāmala, or Āgama, cited in the same *Hari-bhakti-vilāsa* and in the *Bhakti-sandarbha* 283): “Therefore, having thus bowed to the guru and offered him everything, one should take a Vaiṣṇava mantra by rule, receiving *dīkṣā*.” (A statement of the *Tattva-sāgara* cited in the *Bhakti-sandarbha* 298): “As bell metal turns to gold by the alchemical process, so by the process of *dīkṣā* men attain the status of the twice-born.”
+The rule of *dīkṣā* (a statement of the Āgamas cited in the *Hari-bhakti-vilāsa*, second *vilāsa*, and in the *Bhakti-sandarbha* 283): “Twice-born men who have not received the sacred thread have no right to their duties, to Vedic study and so on; they gain it only after *upanayana*. So too here the uninitiated have no right to worship the mantra, the Deity and so on. Therefore one should sanctify oneself with auspiciousness.” As a brāhmaṇa without *upanayana* has no right to his duties, to study and so on, and gains it only after taking the sacred thread, so an uninitiated person has no right to worship the deity of the mantra and so on. Therefore one who seeks the highest good should accept *dīkṣā* to sanctify himself with auspiciousness. For it is said (a statement of the *Viṣṇu-yāmala* cited in the *Hari-bhakti-vilāsa*, second *vilāsa*): “O fair-thighed one, all that an uninitiated person does is fruitless. A person without *dīkṣā* takes birth in an animal womb.” (A statement of the Yāmala, or Āgama, cited in the same *Hari-bhakti-vilāsa* and in the *Bhakti-sandarbha* 283): “Therefore, having thus bowed to the guru and offered him everything, one should take a Vaiṣṇava mantra by rule, receiving *dīkṣā*.” (A statement of the *Tattva-sāgara* cited in the *Bhakti-sandarbha* 298): “As bell metal turns to gold by the alchemical process, so by the process of *dīkṣā* men attain the status of the twice-born.”
 
-*Puraścaryā* (a statement of the *Agastya-saṁhitā* cited in the *Hari-bhakti-vilāsa*, seventeenth *vilāsa*): “Daily worship at the three junctures of the day, *japa*, *tarpaṇa*, *homa* and feeding *brāhmaṇas* — this is called *puraścaraṇa*. For the perfection of a mantra received by the guru’s grace, this fivefold worship is prescribed beforehand, according to rule.” Morning, noon and evening — at these three times — daily worship, daily *japa*, daily *tarpaṇa*, daily *homa* and daily feeding of *brāhmaṇas*: these five parts are called *puraścaraṇa*. For the perfection of a mantra obtained by the guru’s grace, the fivefold worship is prescribed first of all; that is why it is called *puraścaraṇa*.
+*Puraścaryā* (a statement of the *Agastya-saṁhitā* cited in the *Hari-bhakti-vilāsa*, seventeenth *vilāsa*): “Daily worship at the three junctures of the day, *japa*, *tarpaṇa*, *homa* and feeding brāhmaṇas — this is called *puraścaraṇa*. For the perfection of a mantra received by the guru’s grace, this fivefold worship is prescribed beforehand, according to rule.” Morning, noon and evening — at these three times — daily worship, daily *japa*, daily *tarpaṇa*, daily *homa* and daily feeding of brāhmaṇas: these five parts are called *puraścaraṇa*. For the perfection of a mantra obtained by the guru’s grace, the fivefold worship is prescribed first of all; that is why it is called *puraścaraṇa*.
 
 The rule of *puraścaryā* (a statement of the Āgamas cited in the *Hari-bhakti-vilāsa*, seventeenth *vilāsa*): “Without it a mantra will not be perfected even in hundreds of years; by performing it the *sādhaka* obtains the desired fruit.[^108-1] A mantra endowed with *puraścaraṇa* bears fruit. Therefore one who knows the mantra and desires perfection should perform the preliminary rite. The preliminary rite is said to be the chief potency of mantras. As an embodied being without strength is unfit for any act, so is a mantra declared to be without *puraścaraṇa*.”
 
-Śrī Jīva Prabhu (*Bhakti-sandarbha* 283): “According to the *Śrī Bhāgavata*, the path of Deity worship is not obligatory as it is in the *Pañcarātra* and similar works, for it is stated that the goal of human life is attained even without it, by just one [form of *bhakti*] such as surrender. Still, those who follow the path of Śrī Nārada and others and wish to establish, through the rite of *dīkṣā* given at the feet of Śrī Guru, a special relationship with the Lord, certainly perform Deity worship once they have received *dīkṣā*.” And (ibid. 284): “Although in essence there is no (dependence on *dīkṣā* and the like), people, through their bond with the body and so on, are usually by nature ill-behaved and distracted in mind. To restrain these [tendencies], the venerable sages and others have set some restrictions here and there on the path of Deity worship.” In the *Rāmārcana-candrikā*: “Even without *dīkṣā*, O best of *brāhmaṇas*, even without *puraścaryā*, even without the rite of *nyāsa* — by *japa* alone [the name] bestows perfection.”
+Śrī Jīva Prabhu (*Bhakti-sandarbha* 283): “According to the *Śrī Bhāgavata*, the path of Deity worship is not obligatory as it is in the *Pañcarātra* and similar works, for it is stated that the goal of human life is attained even without it, by just one [form of bhakti] such as surrender. Still, those who follow the path of Śrī Nārada and others and wish to establish, through the rite of *dīkṣā* given at the feet of Śrī Guru, a special relationship with the Lord, certainly perform Deity worship once they have received *dīkṣā*.” And (ibid. 284): “Although in essence there is no (dependence on *dīkṣā* and the like), people, through their bond with the body and so on, are usually by nature ill-behaved and distracted in mind. To restrain these [tendencies], the venerable sages and others have set some restrictions here and there on the path of Deity worship.” In the *Rāmārcana-candrikā*: “Even without *dīkṣā*, O best of brāhmaṇas, even without *puraścaryā*, even without the rite of *nyāsa* — by *japa* alone [the name] bestows perfection.”
 
 The name does not depend on the rules of *dīkṣā*. The mantras of the *Pañcarātra* awaken transcendental knowledge and destroy absorption in the mundane. When [one’s vision] becomes transcendental, one understands that the mantra and its deity are not different. If one regards the name and the mantra as “ordinary sound” (like other everyday sounds invented by the mind to please the senses), one ends up in hell. The deity of the mantra is to be worshipped only with transcendental understanding. The rule is to receive a mantra through *dīkṣā*, as the scriptures prescribe. But the name of Kṛṣṇa is precious to both the bound and the liberated: by taking Kṛṣṇa’s name the bound soul is freed from mundane understanding, and once liberated he can take the pure name of Kṛṣṇa. “From the Kṛṣṇa-mantra will come release from saṁsāra, and by Kṛṣṇa’s name You will attain Kṛṣṇa’s feet” (see Ādi 7.73). The name of Kṛṣṇa, not different from Kṛṣṇa, is the great mantra itself, and so it is not subject to any injunction of the *Pañcarātra*.
 
@@ -334,7 +334,7 @@ The name delivers by touching the tongue. Here “tongue” must be understood a
 
 ## 109
 
-> Subheading: The awakening of *prema* is the main fruit of serving the holy name, and the end of *saṁsāra* a secondary one —
+> Subheading: The awakening of prema is the main fruit of serving the holy name, and the end of *saṁsāra* a secondary one —
 
 ## 110
 
@@ -466,7 +466,7 @@ In people’s eyes Mukunda held the post of royal physician, but in truth he was
 
 > Subheading: How servant and served should behave towards each other —
 
-*Prabhu* (the Lord) is Kṛṣṇa, the Truth whom the *jīva* eternally serves, honours and worships. See Madhya 4.186, 7.8 and 13.140 (first half); and Antya 4.46–47: “Blessed is the devotee who does not leave his Lord’s feet; blessed is the Lord who does not abandon His own. If by misfortune the servant goes elsewhere, blessed is the master who drags him back by the hair.”[^154-1]
+*Prabhu* (the Lord) is Kṛṣṇa, the Truth whom the jīva eternally serves, honours and worships. See Madhya 4.186, 7.8 and 13.140 (first half); and Antya 4.46–47: “Blessed is the devotee who does not leave his Lord’s feet; blessed is the Lord who does not abandon His own. If by misfortune the servant goes elsewhere, blessed is the master who drags him back by the hair.”[^154-1]
 
 ## 155
 
@@ -500,7 +500,7 @@ The followers of Christ in Western countries believe that their guru, the one gr
 
 In Śrī Vāsudeva Datta Ṭhākura three things were united in an unprecedented way: “selflessness,” the giving up of material self-interest; the spiritual “good of others” (*parārtha*), which is service to Viṣṇu; and “one’s own good” (*svārtha*). He saw Gaurasundara as Reality itself, free of all deceit — Bhagavān Himself. So he took upon his own shoulders the disease of worldly existence of all living beings — their aversion to Kṛṣṇa (not mere “sins,” but a mass of “offences,” more terrible than every kind of sin) — and with body, mind and words, without a trace of duplicity, prayed that they be freed from that disease. Such an ideal of compassion is beyond the imagination of the best *karmīs* and *jñānīs*, not only of the whole world — why only the world? — of all fourteen worlds.
 
-Under the sway of *māyā*, living beings are absorbed in “a second” [something other than the Lord]; they see differences everywhere, and the urge to harm dominates them. In this world of duality they honour above all the ideals of karma and *jñāna*, and so most of them are bad *karmīs* and bad *jñānīs*. When they hear that Vāsudeva Datta Ṭhākura, a servant of Vaikuṇṭha, wishes to suffer hell, they, moved by their natural envy and by a delight rooted in duality, may take him for a “pious” man of good works or rank him with a “knower of Brahman,” and give him great honour and prestige. Yet Datta Ṭhākura’s compassion for living beings is endless millions of times greater than that. This is not exaggerated praise at all, nor *arthavāda* (eulogy), but entirely impartial truth.
+Under the sway of māyā, living beings are absorbed in “a second” [something other than the Lord]; they see differences everywhere, and the urge to harm dominates them. In this world of duality they honour above all the ideals of karma and jñāna, and so most of them are bad *karmīs* and bad *jñānīs*. When they hear that Vāsudeva Datta Ṭhākura, a servant of Vaikuṇṭha, wishes to suffer hell, they, moved by their natural envy and by a delight rooted in duality, may take him for a “pious” man of good works or rank him with a “knower of Brahman,” and give him great honour and prestige. Yet Datta Ṭhākura’s compassion for living beings is endless millions of times greater than that. This is not exaggerated praise at all, nor *arthavāda* (eulogy), but entirely impartial truth.
 
 Indeed, by the coming of Gaura’s servants like him, “pained by the pain of others,” the earth has become blessed; and not only the world — the whole race of living beings has become blessed. The fruit of the eloquent man’s tongue lies only in singing the glories of such a devotee of Gaura. And only in describing the qualities of such a *mahā-bhāgavata*, endowed with selfless (*akiñcanā*) devotion to Bhagavān, does the pen of poets and historians, free from the pursuit of matter, achieve its highest fulfilment. So great is the servant of the supremely magnanimous Śrī Kṛṣṇa Caitanya: he is “greater than the great and weightier than the weighty.”
 
@@ -556,15 +556,15 @@ Outside the transcendental abode of Brahman flows the river Virajā. On its far 
 
 > Subheading: The Causal Ocean, which lies outside Paravyoma —
 
-See Ādi 2.53 and 5.52–55; Madhya 20.268–279 and 21.52. In Vaikuṇṭha-dhāma there is not the slightest limitation (*kuṇṭhā*) of *māyā*. The Causal Ocean surrounds Vaikuṇṭha on all sides. The Kāraṇābdhi is the water that causes the variety of the material Devī-dhāma.
+See Ādi 2.53 and 5.52–55; Madhya 20.268–279 and 21.52. In Vaikuṇṭha-dhāma there is not the slightest limitation (*kuṇṭhā*) of māyā. The Causal Ocean surrounds Vaikuṇṭha on all sides. The Kāraṇābdhi is the water that causes the variety of the material Devī-dhāma.
 
 ## 176
 
-*Gaḍakhāi*: encircling water, a moat. The Virajā river, or Kāraṇābdhi, is like a moat; the endless, countless universes are like countless tiny mustard seeds, and *māyā* is like a pot.
+*Gaḍakhāi*: encircling water, a moat. The Virajā river, or Kāraṇābdhi, is like a moat; the endless, countless universes are like countless tiny mustard seeds, and māyā is like a pot.
 
 ## 178
 
-> Subheading: Even if endless millions of universes perish together with *māyā*, Kṛṣṇa loses nothing —
+> Subheading: Even if endless millions of universes perish together with māyā, Kṛṣṇa loses nothing —
 
 ## 180
 
@@ -572,7 +572,7 @@ See Ādi 2.53 and 5.52–55; Madhya 20.268–279 and 21.52. In Vaikuṇṭha-dh�
 
 In Janaloka, at the *brahma-satra* sacrifice, the *brahmarṣi* Sanandana, one of the four Kumāras, recounts to the sages eager to hear the prayer to Bhagavān offered by the personified Śrutis:
 
-**ajita** (O You who are never overcome by *māyā* or anything else), **jaya jaya** (be sure to reveal Your supremacy — why do You not reveal it? — the repetition expresses respectful insistence) **doṣa-gṛbhīta-guṇām** (her who has taken up the modes for a fault — to cover bliss and so on) **aga-jagad-okasām** (of living beings whose bodies [*okas*] are nonmoving [*aga*] and moving [*jagat*]) **ajām** (*māyā*, *avidyā*) **jahi** (destroy — the sense is: so that she no longer torments the *jīvas* caught up in creation and the rest), **yat** (because) **tvam** **ātmanā** (by Your own essential supreme bliss, that is, by the potency not different from it) **sam-avaruddha-samasta-bhagaḥ** (have attained all opulences in full) **asi** (since *māyā* is subject to You, You alone) **akhila-śakty-avabodhaka** (awaken all potencies, material and spiritual — that is, You are their enjoyer and supreme master). **kvacit** (sometimes — at the time of creation and so on) **ajayā** (by *māyā*) **ātmanā** (by a reflection of Your part, while You Yourself remain untouched) **carataḥ** (who sport by Your glance) **te** (You — a genitive used for the object) **nigamaḥ** (the Veda) **anucaret** (establishes — according to such Śrutis as “From whom these beings are born,” “Who in the beginning created Brahmā and who delivered the Vedas to him,” “Who dwells in the self,” “Brahman is truth, knowledge, infinity”).[^180-1]
+**ajita** (O You who are never overcome by māyā or anything else), **jaya jaya** (be sure to reveal Your supremacy — why do You not reveal it? — the repetition expresses respectful insistence) **doṣa-gṛbhīta-guṇām** (her who has taken up the modes for a fault — to cover bliss and so on) **aga-jagad-okasām** (of living beings whose bodies [*okas*] are nonmoving [*aga*] and moving [*jagat*]) **ajām** (*māyā*, *avidyā*) **jahi** (destroy — the sense is: so that she no longer torments the jīvas caught up in creation and the rest), **yat** (because) **tvam** **ātmanā** (by Your own essential supreme bliss, that is, by the potency not different from it) **sam-avaruddha-samasta-bhagaḥ** (have attained all opulences in full) **asi** (since māyā is subject to You, You alone) **akhila-śakty-avabodhaka** (awaken all potencies, material and spiritual — that is, You are their enjoyer and supreme master). **kvacit** (sometimes — at the time of creation and so on) **ajayā** (by *māyā*) **ātmanā** (by a reflection of Your part, while You Yourself remain untouched) **carataḥ** (who sport by Your glance) **te** (You — a genitive used for the object) **nigamaḥ** (the Veda) **anucaret** (establishes — according to such Śrutis as “From whom these beings are born,” “Who in the beginning created Brahmā and who delivered the Vedas to him,” “Who dwells in the self,” “Brahman is truth, knowledge, infinity”).[^180-1]
 
 ## 181
 
@@ -598,7 +598,7 @@ Yameśvara: in Puruṣottama, southwest of the Śrī Mandira, on the sands, lies
 
 ## 188
 
-> Subheading: The Lord objects on hearing of “a month-long invitation” and shortens the period of meals, since it is against the duty of a *sannyāsī* —
+> Subheading: The Lord objects on hearing of “a month-long invitation” and shortens the period of meals, since it is against the duty of a sannyāsī —
 
 ## 189
 
@@ -618,9 +618,9 @@ Although the Lord is affectionate to His devotees, He keeps the duties of His *�
 
 ## 193
 
-> Subheading: Arranging invitations for the ten *sannyāsīs* —
+> Subheading: Arranging invitations for the ten sannyāsīs —
 
-The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahmānanda Purī, (4) Brahmānanda Bhāratī, (5) Viṣṇu Purī, (6) Keśava Purī, (7) Kṛṣṇānanda Purī, (8) Nṛsiṁha Tīrtha, (9) Sukhānanda Purī, (10) Satyānanda Bhāratī.
+The ten sannyāsīs: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahmānanda Purī, (4) Brahmānanda Bhāratī, (5) Viṣṇu Purī, (6) Keśava Purī, (7) Kṛṣṇānanda Purī, (8) Nṛsiṁha Tīrtha, (9) Sukhānanda Purī, (10) Satyānanda Bhāratī.
 
 ## 194
 
@@ -632,13 +632,13 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 
 ## 196
 
-> Subheading: Meals for the remaining 8 *sannyāsīs* on 16 days —
+> Subheading: Meals for the remaining 8 sannyāsīs on 16 days —
 
-“The other eight *sannyāsīs*”: the remaining eight besides Paramānanda Purī and Dāmodara Svarūpa. “The month was filled”: 5 days for Śrī Mahāprabhu, 5 days for Paramānanda Purī, 4 days for Dāmodara Svarūpa and 16 days for the eight *sannyāsīs* — 30 days in all, a full month.
+“The other eight *sannyāsīs*”: the remaining eight besides Paramānanda Purī and Dāmodara Svarūpa. “The month was filled”: 5 days for Śrī Mahāprabhu, 5 days for Paramānanda Purī, 4 days for Dāmodara Svarūpa and 16 days for the eight sannyāsīs — 30 days in all, a full month.
 
 ## 197
 
-> Subheading: If ten *sannyāsīs* come together, due respect cannot be shown to each, and [Sārvabhauma] fears an offence —
+> Subheading: If ten sannyāsīs come together, due respect cannot be shown to each, and [Sārvabhauma] fears an offence —
 
 ## 198
 
@@ -704,7 +704,7 @@ The ten *sannyāsīs*: (1) Paramānanda Purī, (2) Dāmodara Svarūpa, (3) Brahm
 
 ## 221
 
-He did not mix the rice and other food cooked in his own house, not yet offered (*aprasādi*, *anarpita*), with Jagannātha’s *prasāda*; he took care over this and kept them in separate places so that the two would not mix.
+He did not mix the rice and other food cooked in his own house, not yet offered (*aprasādi*, *anarpita*), with Jagannātha’s prasāda; he took care over this and kept them in separate places so that the two would not mix.
 
 ## 207–221
 
@@ -724,7 +724,7 @@ The author of the book, Śrīmat Kavirāja Gosvāmī, by his fine description of
 
 ## 227
 
-> Subheading: Seeing the *tulasī* buds, [the Lord] infers that the meal has been offered to Kṛṣṇa —
+> Subheading: Seeing the tulasī buds, [the Lord] infers that the meal has been offered to Kṛṣṇa —
 
 ## 229
 
@@ -736,7 +736,7 @@ The author of the book, Śrīmat Kavirāja Gosvāmī, by his fine description of
 
 ## 231
 
-> Subheading: [The Lord] asks that Kṛṣṇa’s seat be removed and *prasāda* given Him on a separate plate —
+> Subheading: [The Lord] asks that Kṛṣṇa’s seat be removed and prasāda given Him on a separate plate —
 
 ## 232
 
@@ -748,7 +748,7 @@ The author of the book, Śrīmat Kavirāja Gosvāmī, by his fine description of
 
 ## 235
 
-> Subheading: The food and the seat Kṛṣṇa has enjoyed are both *prasāda* —
+> Subheading: The food and the seat Kṛṣṇa has enjoyed are both prasāda —
 
 Both the rice and the seat (*pīṭha*, or *piṁḍi*) are remnants (*nirmālya*) enjoyed by Kṛṣṇa. One eats the rice of the offering knowing it to be “Bhagavān’s remnants,” and so honours it. The seat has served as Bhagavān’s seat, and one accepts it too, regarding it as *prasāda*, His remnant. How then can there be any offence?
 
@@ -758,11 +758,11 @@ Both the rice and the seat (*pīṭha*, or *piṁḍi*) are remnants (*nirmālya
 
 ## 237
 
-> Subheading: Only by accepting the *prasāda* Bhagavān has enjoyed is insurmountable *māyā* conquered (*Śrīmad-Bhāgavatam* 11.6.46) —
+> Subheading: Only by accepting the prasāda Bhagavān has enjoyed is insurmountable māyā conquered (*Śrīmad-Bhāgavatam* 11.6.46) —
 
 Before the conversation between Bhagavān and Uddhava, the *Uddhava-gītā*, began, great calamities broke out in Dvārakā by Bhagavān’s will. Then Uddhava, [Kṛṣṇa’s] dearest servant, understanding that Śrī Kṛṣṇa wished to withdraw His manifest pastimes from this world and enter His unmanifest pastimes, offered Kṛṣṇa this prayer with deep love:
 
-**tvayopayukta-srag-gandha-vāso’laṅkāra-carcitāḥ** (adorned with the garlands, sandalwood, clothes and ornaments You have enjoyed)[^237-1] **ucchiṣṭa-bhojinaḥ** (whose custom is to eat the remnants, the *prasāda* food) **dāsāḥ** (we servants) **hi** (in the sense of “certainly”) **tava** **māyām** (insurmountable material nature) **jayema** (shall be able to conquer).
+**tvayopayukta-srag-gandha-vāso’laṅkāra-carcitāḥ** (adorned with the garlands, sandalwood, clothes and ornaments You have enjoyed)[^237-1] **ucchiṣṭa-bhojinaḥ** (whose custom is to eat the remnants, the prasāda food) **dāsāḥ** (we servants) **hi** (in the sense of “certainly”) **tava** **māyām** (insurmountable material nature) **jayema** (shall be able to conquer).
 
 ## 238
 
@@ -798,7 +798,7 @@ Friends — (in the appendix to the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): �
 
 ## 244
 
-> Subheading: Hearing the Bhaṭṭa’s words, the Lord honours the *prasāda* —
+> Subheading: Hearing the Bhaṭṭa’s words, the Lord honours the prasāda —
 
 ## 245
 
@@ -830,7 +830,7 @@ Friends — (in the appendix to the same *Kṛṣṇa-gaṇoddeśa-dīpikā*): �
 
 ## 253
 
-> Subheading: The Lord consoles them both and honours the *prasāda* —
+> Subheading: The Lord consoles them both and honours the prasāda —
 
 ## 254
 
@@ -864,7 +864,7 @@ The fruit of blaspheming Vaiṣṇavas — (*Hari-bhakti-vilāsa*, tenth *vilās
 
 The fruit of blaspheming Viṣṇu — (see *Bhakti-sandarbha* 314, which quotes the commentary on *Śrīmad-Bhāgavatam* 7.1.16 and 22): “Those who blaspheme Hṛṣīkeśa and His devotee, the embodiment of holiness, certainly lose the merit earned in a hundred births. They are cooked in the most dreadful, terrible hell Kumbhīpāka, eaten by swarms of worms for as long as the moon and sun endure. To slight a Śrī Vaiṣṇava is graver than to disrespect Śrī Viṣṇu. One should not even look at those lowest of men who revile His [devotees], nor live together with those deceivers.”
 
-Śrī Jīva Prabhu in the *Bhakti-sandarbha* (section 265), describing the fruit of “blaspheming *sādhus*,” one of the offences against the holy name, quotes (*Śrīmad-Bhāgavatam* 10.74.40): “Whoever hears blasphemy of Bhagavān or of His devotee and does not go away from there also loses his merit and falls down.” Going away is only for one who is powerless [to resist]. One who has the power must cut out the blasphemer’s tongue; and one who lacks even that power should give up his own life. As the Goddess said (*Śrīmad-Bhāgavatam* 4.4.17): “When irresponsible people revile the Lord, the protector of religion, one who is powerless [to stop them] should cover his ears and go away. But if he has the power, he should forcibly cut out the evil-speaking tongue of the wicked, and then give up life as well: that is *dharma*.”
+Śrī Jīva Prabhu in the *Bhakti-sandarbha* (section 265), describing the fruit of “blaspheming sādhus,” one of the offences against the holy name, quotes (*Śrīmad-Bhāgavatam* 10.74.40): “Whoever hears blasphemy of Bhagavān or of His devotee and does not go away from there also loses his merit and falls down.” Going away is only for one who is powerless [to resist]. One who has the power must cut out the blasphemer’s tongue; and one who lacks even that power should give up his own life. As the Goddess said (*Śrīmad-Bhāgavatam* 4.4.17): “When irresponsible people revile the Lord, the protector of religion, one who is powerless [to stop them] should cover his ears and go away. But if he has the power, he should forcibly cut out the evil-speaking tongue of the wicked, and then give up life as well: that is *dharma*.”
 
 ## 262
 
@@ -914,7 +914,7 @@ The Kauravas headed by Duryodhana, led on by Karṇa, came [to the forest] for t
 
 > Subheading: The fruit of hostility to Viṣṇu and the Vaiṣṇavas — (*Śrīmad-Bhāgavatam* 10.4.46) —
 
-Kaṁsa, king of the Bhojas, could not destroy Yogamāyā, who had appeared as the daughter of his sister Devakī, and from her lips he heard the news that Viṣṇu, his old enemy, had appeared. After consulting his ministers — demons by nature, haters of Viṣṇu and the Vaiṣṇavas — he ordered the Dānavas to persecute the devotees of Viṣṇu, the *sādhus* and sages. Then Śrī Śukadeva described to Parīkṣit the fruit of such hostility to Viṣṇu and the Vaiṣṇavas:
+Kaṁsa, king of the Bhojas, could not destroy Yogamāyā, who had appeared as the daughter of his sister Devakī, and from her lips he heard the news that Viṣṇu, his old enemy, had appeared. After consulting his ministers — demons by nature, haters of Viṣṇu and the Vaiṣṇavas — he ordered the Dānavas to persecute the devotees of Viṣṇu, the sādhus and sages. Then Śrī Śukadeva described to Parīkṣit the fruit of such hostility to Viṣṇu and the Vaiṣṇavas:
 
 **mahad-atikramaḥ** (offence against the great — against Viṣṇu and the Vaiṣṇavas, disrespect towards them by body, mind or words, that is, *vaiṣṇava-aparādha*) **puṁsaḥ** (of a man) **āyuḥ**, **śriyam**, **yaśaḥ**, **dharmam**, **lokān** (heaven and the other worlds attained by *dharma*), **āśiṣaḥ** (all his desired **śreyāṁsi sarvāṇi** — goods, ends and means, everything auspicious) **ca** **hanti** (destroys) **eva**. See Antya 3.146 and 163.
 
@@ -936,7 +936,7 @@ Kaṁsa, king of the Bhojas, could not destroy Yogamāyā, who had appeared as t
 
 ## 276
 
-> Subheading: Only when freed from the offence of “dullness” (*jāḍya*) does [the *jīva*] utter the pure name —
+> Subheading: Only when freed from the offence of “dullness” (*jāḍya*) does [the jīva] utter the pure name —
 
 ## 277
 
@@ -946,7 +946,7 @@ Kaṁsa, king of the Bhojas, could not destroy Yogamāyā, who had appeared as t
 
 “Brahman,” “Paramātmā” and “Bhagavān,” or “Viṣṇu,” are the three manifestations of the Truth, nondual Knowledge. One who knows Brahman is called a “brāhmaṇa,” and one who knows Brahman and worships Bhagavān is called a “Vaiṣṇava.” The Truth fully manifest is “Bhagavān,” and the Truth “incompletely manifest” is “Brahman.” From the mouth of a mere brāhmaṇa only *nāmābhāsa* (a shadow of the name) arises. But a brāhmaṇa who knows his relationship (*sambandha-jñāna*) with Viṣṇu, the nondual Knowledge, can become a *bhāgavata*, a Vaiṣṇava, once he takes up the *abhidheya* — that is, once he is bound by the thread of service and worships [the Lord]. Only then is the “impurity,” the “offence” born of ignorance, removed, and the pure name rises in his mouth.
 
-Relying on *vivarta-vāda*, the impersonalists imagine five kinds of worship of Brahman with attributes, but these never point to the Truth of nondual Knowledge. The *vivarta-vādī*, priding himself on being a “brāhmaṇa,” decides that “brahminhood” is confined to a realisation full of selfish desires (*sakāma*). Yet in the true nature of the *jīva* the quality of “knowing Brahman” is eternally present. When by Viṣṇu’s mercy Māyāvāda falls away, the brāhmaṇa becomes an “unmixed brāhmaṇa,” a Vaiṣṇava. There is therefore no doubt that brahminhood is eternally inherent in a Vaiṣṇava. The *Garuḍa Purāṇa* says: “Better than thousands of brāhmaṇas is one who performs sacrifices (*satra-yājī*); better than thousands of sacrificers is one who has mastered all Vedānta; and above ten million knowers of all Vedānta stands a devotee of Viṣṇu.” So without brahminhood shown in conduct (*vṛtta-brāhmaṇatā*) no one can enter the path of devotion.
+Relying on *vivarta-vāda*, the impersonalists imagine five kinds of worship of Brahman with attributes, but these never point to the Truth of nondual Knowledge. The *vivarta-vādī*, priding himself on being a “brāhmaṇa,” decides that “brahminhood” is confined to a realisation full of selfish desires (*sakāma*). Yet in the true nature of the jīva the quality of “knowing Brahman” is eternally present. When by Viṣṇu’s mercy Māyāvāda falls away, the brāhmaṇa becomes an “unmixed brāhmaṇa,” a Vaiṣṇava. There is therefore no doubt that brahminhood is eternally inherent in a Vaiṣṇava. The *Garuḍa Purāṇa* says: “Better than thousands of brāhmaṇas is one who performs sacrifices (*satra-yājī*); better than thousands of sacrificers is one who has mastered all Vedānta; and above ten million knowers of all Vedānta stands a devotee of Viṣṇu.” So without brahminhood shown in conduct (*vṛtta-brāhmaṇatā*) no one can enter the path of devotion.
 
 Nondual Knowledge is present in the heart of a true brāhmaṇa. So there can be in it no envy, jealousy or rivalry born of a dualistic outlook, hostile to the eternally worshipable Viṣṇu or the Vaiṣṇava, arising from the desire for petty self-interest or the gratification of one’s own material senses. Where these are present, then, because the heart is not given to Acyuta,[^274-277-1] certainly (*Śrīmad-Bhāgavatam* 11.5.3) “those who do not worship and who disregard Him fall from their position and go down” — that is, one loses one’s position and falls.
 
@@ -992,7 +992,7 @@ Nondual Knowledge is present in the heart of a true brāhmaṇa. So there can be
 
 ## 289
 
-> Subheading: [The Lord] promises to wait until the Bhaṭṭa honours the *prasāda* —
+> Subheading: [The Lord] promises to wait until the Bhaṭṭa honours the prasāda —
 
 ## 290
 
@@ -1012,19 +1012,19 @@ Nondual Knowledge is present in the heart of a true brāhmaṇa. So there can be
 
 ## 294
 
-> Subheading: [The Lord] tells Gopīnātha to wait and see that the Bhaṭṭa honours the *prasāda* —
+> Subheading: [The Lord] tells Gopīnātha to wait and see that the Bhaṭṭa honours the prasāda —
 
 *Iṅho*: Sārvabhauma Bhaṭṭācārya.
 
 ## 295
 
-> Subheading: The Bhaṭṭa honours the *prasāda* —
+> Subheading: The Bhaṭṭa honours the prasāda —
 
 ## 296
 
 > Subheading: Amogha, the Lord’s exclusive devotee, deeply peaceful by nature —
 
-In the *Śākhā-nirṇayāmṛta*: “I worship Amogha Paṇḍita, whom Śrī Gaura made His own, whose whole being is saturated with *prema*, his voice choked with it, his body covered with bristling hair.”
+In the *Śākhā-nirṇayāmṛta*: “I worship Amogha Paṇḍita, whom Śrī Gaura made His own, whose whole being is saturated with prema, his voice choked with it, his body covered with bristling hair.”
 
 ## 297
 

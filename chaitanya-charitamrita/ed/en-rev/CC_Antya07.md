@@ -274,7 +274,7 @@ servant,  friend,  elder,  beloved  ‘the shelter’  of which
 aiśvarya-jñāne nā pāi vrajendra-kumāra  
 by knowledge of majesty  not  one attains  the son of the king of Vraja
 
-(26) There is bhāva joined with the knowledge of majesty, and there is pure (*kevala*) bhāva. By the knowledge of majesty one does not attain the son of the king of Vraja.[^8]
+(26) There is *bhāva* joined with the knowledge of majesty, and there is pure (*kevala*) *bhāva*. By the knowledge of majesty one does not attain the son of the king of Vraja.[^8]
 
 নায়ং সুখাপো ভগবান্ দেহিনাং গোপিকাসুতঃ ৷  
 জ্ঞানিনাঞ্চাত্মভূতানাং যথা ভক্তিমতামিহ ॥ ২৭ ॥
@@ -324,7 +324,7 @@ in pure bhāva  the friend  does  on the shoulders  climbing
 śuddha-bhāve vrajeśvarī karena bandhana  
 in pure bhāva  the queen of Vraja  does  binding
 
-(30) In pure bhāva His friend climbs on His shoulders, and in pure bhāva the queen of Vraja binds Him.[^12]
+(30) In pure *bhāva* His friend climbs on His shoulders, and in pure *bhāva* the queen of Vraja binds Him.[^12]
 
 ‘মোর সখা’, ‘মোর পুত্র’, — এই ‘শুদ্ধ’ মন ৷  
 অতএব শুক-ব্যাস করে প্রশংসন ॥ ৩১ ॥
@@ -388,7 +388,7 @@ majesty  even on seeing  ‘the pure one’s’  of majesty  is not  awareness
 ataeva aiśvarya haite ‘kevala’-bhāva pradhāna  
 therefore  than majesty  ‘pure’ bhāva  superior
 
-(35) Even when he sees Kṛṣṇa’s majesty, one whose bhāva is pure has no awareness of it. Therefore pure bhāva is superior to the mood of majesty.
+(35) Even when he sees Kṛṣṇa’s majesty, one whose *bhāva* is pure has no awareness of it. Therefore pure *bhāva* is superior to the mood of majesty.
 
 এ সব শিখাইলা মোরে রায়-রামানন্দ ৷  
 সে-সব শুনিতে হয় পরম আনন্দ ॥ ৩৬ ॥
@@ -408,7 +408,7 @@ to tell  not  is possible  Rāmānanda’s  power
 rāya-prasāde jānilum̐ vrajera ‘śuddha’ bhāva  
 by Rāya’s grace  I came to know  of Vraja  the ‘pure’  bhāva
 
-(37) Rāmānanda’s power cannot be described. By Rāya’s grace I came to know the pure bhāva of Vraja.
+(37) Rāmānanda’s power cannot be described. By Rāya’s grace I came to know the pure *bhāva* of Vraja.
 
 দামোদর-স্বরূপ — ‘প্রেমরস’ মূর্ত্তিমান্ ৷  
 য়াঁর সঙ্গে হৈল ব্রজ-মধুর-রস-জ্ঞান ॥ ৩৮ ॥
@@ -496,7 +496,7 @@ of majesty  the knowledge  than  pure bhāva  superior
 pṛthivīte bhakta nāhi uddhava-samāna  
 on earth  devotee  there is not  Uddhava’s  equal
 
-(44) Pure bhāva is superior to the knowledge of majesty. On earth there is no devotee equal to Uddhava,
+(44) Pure *bhāva* is superior to the knowledge of majesty. On earth there is no devotee equal to Uddhava,
 
 তেঁহ যাঁর পদধূলি করেন প্রার্থন ৷  
 স্বরূপের সঙ্গে পাইলুঁ এ সব শিক্ষণ ॥ ৪৫ ॥
@@ -1440,7 +1440,7 @@ of Jagadānanda  Paṇḍita  pure  deep  bhāva
 satyabhāmā-prāya prema ‘vāmya-svabhāva’  
 Satyabhāmā  like  love  ‘contrary nature’
 
-(138) Jagadānanda Paṇḍita’s bhāva was pure and deep. Like Satyabhāmā’s, his love had a contrary nature (*vāmya*).[^42]
+(138) Jagadānanda Paṇḍita’s *bhāva* was pure and deep. Like Satyabhāmā’s, his love had a contrary nature (*vāmya*).[^42]
 
 বার-বার প্রণয় কলহ করে প্রভু-সনে ৷  
 অন্যোঽন্যে খট্মটি চলে দুইজনে ॥ ১৩৯ ॥
@@ -1460,7 +1460,7 @@ of Gadādhara  Paṇḍita  pure  deep  bhāva
 rukmiṇī-devīra yaiche ‘dakṣiṇa-svabhāva’  
 of Rukmiṇī  Devī  as  ‘compliant nature’
 
-(140) Gadādhara Paṇḍita’s bhāva was pure and deep, with a compliant nature (*dakṣiṇa*) like that of Rukmiṇī-devī.[^44]
+(140) Gadādhara Paṇḍita’s *bhāva* was pure and deep, with a compliant nature (*dakṣiṇa*) like that of Rukmiṇī-devī.[^44]
 
 তাঁর প্রণয়-রোষ দেখিতে প্রভুর ইচ্ছা হয় ৷  
 ঐশ্বর্য্য-জ্ঞানে তাঁর রোষ নাহি উপজয় ॥ ১৪১ ॥
@@ -1650,7 +1650,7 @@ of the Paṇḍita  of the bhāva  the marks  description  not  goes
 ‘gadādhara-prāṇa-nātha’ nāma haila yāya  
 ‘Gadādhara’s  life’s  Lord’  name  became  by which
 
-(159) The marks of the Paṇḍita’s bhāva cannot be described; by them the Lord came to be named ‘Gadādhara-prāṇanātha’ (Lord of Gadādhara’s life).
+(159) The marks of the Paṇḍita’s *bhāva* cannot be described; by them the Lord came to be named ‘Gadādhara-prāṇanātha’ (Lord of Gadādhara’s life).
 
 পণ্ডিতে প্রভুর প্রসাদ কহন না যায় ৷  
 ‘গদাই-গৌরাঙ্গ’ বলি’ যাঁরে লোকে গায় ॥ ১৬০ ॥
@@ -1776,7 +1776,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^11]: The same verse as Madhya 8.80 (= 8.231, 9.121); translation as there.
 
-[^12]: *Anubhāṣya*: “in pure bhāva” — not enchanted or bound by the knowledge of majesty, but ruled by pure, unmixed (*kevala*) *rati*. Heading in the edition: the friendship (*sakhya*) and parental love (*vātsalya*) of the people of Vraja are *kevala*, that is, pure *rāgātmikā* bhakti.
+[^12]: *Anubhāṣya*: “in pure *bhāva*” — not enchanted or bound by the knowledge of majesty, but ruled by pure, unmixed (*kevala*) *rati*. Heading in the edition: the friendship (*sakhya*) and parental love (*vātsalya*) of the people of Vraja are *kevala*, that is, pure *rāgātmikā* bhakti.
 
 [^13]: The same verse as Madhya 8.75; translation as there. In the edition the reference is “canto 10, chapter 12, verse 21”; in the standard numbering, 10.12.11.
 
@@ -1792,7 +1792,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^19]: The same verse as Ādi 4.180 (= Madhya 8.92); translation as there.
 
-[^20]: *Anubhāṣya*: another reading cites here Uddhava’s prayer (Śrīmad-Bhāgavatam, 10.47.61): “Ah, if only I could be some bush, creeper or herb in Vṛndāvana that receives the dust of these gopīs’ feet!” — Uddhava, having accepted as his ideal the gopīs’ love, free of the knowledge of majesty, prays for eternal service to them.
+[^20]: *Anubhāṣya*: another reading cites here Uddhava’s prayer (*Śrīmad-Bhāgavatam* 10.47.61): “Ah, if only I could be some bush, creeper or herb in Vṛndāvana that receives the dust of these gopīs’ feet!” — Uddhava, having accepted as his ideal the gopīs’ love, free of the knowledge of majesty, prays for eternal service to them.
 
 [^21]: Heading in the edition: only in the company of a sādhu who himself follows pure bhakti and preaches it does the jīva attain devotion to Kṛṣṇa.
 

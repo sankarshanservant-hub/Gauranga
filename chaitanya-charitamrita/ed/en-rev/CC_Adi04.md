@@ -3265,7 +3265,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^144]: In the edition the verse is headed: “The pure devotee scorns even liberation without devotion to Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: without loving service to Kṛṣṇa the pure devotee never accepts even liberation — *sālokya* and the rest — if it is for his own happiness.
 
-[^145]: In the edition verses 205–207 are headed: “Only unmotivated and uninterrupted devotion to Kṛṣṇa is beyond the guṇas (*nirguṇa*)” (Śrīmad-Bhāgavatam, 3.29.11–13). *Anubhāṣya*: the words of Śrī Kapiladeva to His mother, Devahūti; the mind flows towards the Lord, “who dwells within all”, and that flow cannot be cut by anything else.
+[^145]: In the edition verses 205–207 are headed: “Only unmotivated and uninterrupted devotion to Kṛṣṇa is beyond the guṇas (*nirguṇa*)” (*Śrīmad-Bhāgavatam* 3.29.11–13). *Anubhāṣya*: the words of Śrī Kapiladeva to His mother, Devahūti; the mind flows towards the Lord, “who dwells within all”, and that flow cannot be cut by anything else.
 
 [^146]: *Amṛta-pravāha-bhāṣya*: unmotivated — without cause, self-manifest; uninterrupted — without obstacle and without seeking other fruits. *Anubhāṣya*: unmotivated — free of seeking fruits; uninterrupted — free of obstruction by body, wealth, people, greed, pride and the like; beyond the guṇas — belonging to Bhagavān, who is beyond the three guṇas.
 

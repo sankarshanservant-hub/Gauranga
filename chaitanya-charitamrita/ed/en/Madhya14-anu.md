@@ -24,7 +24,7 @@
 
 ## 10
 
-> Subheading: Absorbed in *prema*, the Lord embraces the king —
+> Subheading: Absorbed in prema, the Lord embraces the king —
 
 ## 11
 
@@ -38,7 +38,7 @@
 
 > Subheading: One who distributes the nectar of narrations about the Lord is the greatest of givers — (*Śrīmad-Bhāgavatam* 10.31.9)
 
-During the *rāsa* dance Śrī Kṛṣṇa suddenly disappeared. The *gopīs*, for whom Kṛṣṇa is their very life (wholly absorbed in Kṛṣṇa), suffered bitterly in separation from Him. With hearts absorbed in Him, they came from the place of the *rāsa* dance to the bank of the Yamunā, and in these songs they glorify Kṛṣṇa’s many qualities:
+During the rāsa dance Śrī Kṛṣṇa suddenly disappeared. The gopīs, for whom Kṛṣṇa is their very life (wholly absorbed in Kṛṣṇa), suffered bitterly in separation from Him. With hearts absorbed in Him, they came from the place of the rāsa dance to the bank of the Yamunā, and in these songs they glorify Kṛṣṇa’s many qualities:
 
 **ye** **janāḥ** **bhuvi** (in *saṁsāra*) **tapta-jīvanam** (the life and soul of those tormented by the fever of separation) **kavibhiḥ** (by the knowers of Kṛṣṇa’s *rasa*) **īḍitam** (worshipped) **kalmaṣāpaham** (destroying the grief of the fever of separation) **śravaṇa-maṅgalam** (a delight to the ear) **śrīmat** (endowed with all potencies) **tava** (Your, O Hari) **kathāmṛtam** (nectarean narration) **ātatam** (at length) **gṛṇanti** (sing), **te** (they alone) **janāḥ** **bhūri-dāḥ** (are the most generous).
 
@@ -82,11 +82,11 @@ The first *ĩho* is Mahāprabhu; the second *ĩho* is King Pratāparudra.
 
 ## 23
 
-> Subheading: After everyone’s midday bath, Vāṇīnātha brings abundant *prasāda* —
+> Subheading: After everyone’s midday bath, Vāṇīnātha brings abundant prasāda —
 
 ## 25
 
-> Subheading: Varied *prasāda* —
+> Subheading: Varied prasāda —
 
 ## 25–34
 
@@ -126,7 +126,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 35
 
-> Subheading: The plates of *prasāda* cover a large area —
+> Subheading: The plates of prasāda cover a large area —
 
 ## 36
 
@@ -138,7 +138,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 38
 
-> Subheading: Bhagavān Himself feeds the devotees tired from *kīrtana* —
+> Subheading: Bhagavān Himself feeds the devotees tired from kīrtana —
 
 ## 39
 
@@ -156,17 +156,17 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 42
 
-> Subheading: The Lord honours the *prasāda* —
+> Subheading: The Lord honours the prasāda —
 
 ## 43
 
-> Subheading: After the meal, rinsing the mouth (*ācamana*); many people receive the remaining *prasāda* —
+> Subheading: After the meal, rinsing the mouth (*ācamana*); many people receive the remaining prasāda —
 
 *Ubarila*: was left over, was in excess.
 
 ## 44
 
-> Subheading: By the Lord’s mercy the poor, the wretched and the destitute receive *prasāda* —
+> Subheading: By the Lord’s mercy the poor, the wretched and the destitute receive prasāda —
 
 ## 45
 
@@ -222,7 +222,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 60
 
-> Subheading: Seeing the Lord’s greatness, the king is overwhelmed with *prema* —
+> Subheading: Seeing the Lord’s greatness, the king is overwhelmed with prema —
 
 ## 61
 
@@ -234,11 +234,11 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 63
 
-> Subheading: The Lord’s *kīrtana* with the devotees in the courtyard —
+> Subheading: The Lord’s kīrtana with the devotees in the courtyard —
 
 ## 64
 
-> Subheading: The Lord’s *prema* drives everyone mad —
+> Subheading: The Lord’s prema drives everyone mad —
 
 ## 65
 
@@ -262,15 +262,15 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 70
 
-> Subheading: After the morning bath and *darśana* of Jagannātha, *kīrtana* and dancing with His associates —
+> Subheading: After the morning bath and darśana of Jagannātha, kīrtana and dancing with His associates —
 
 ## 71
 
-> Subheading: Nitāi, Advaita and others dance; *kīrtana* at Guṇḍicā three times a day —
+> Subheading: Nitāi, Advaita and others dance; kīrtana at Guṇḍicā three times a day —
 
 ## 73
 
-> Subheading: The joy of the Lord, who is in the mood of a *gopī*, Śrī Rādhā’s maidservant, at Kṛṣṇa’s coming to Vraja and meeting Śrī Rādhā —
+> Subheading: The joy of the Lord, who is in the mood of a gopī, Śrī Rādhā’s maidservant, at Kṛṣṇa’s coming to Vraja and meeting Śrī Rādhā —
 
 ## 75
 
@@ -302,7 +302,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 87
 
-> Subheading: By the Lord’s mercy even Sārvabhauma, a man of dry knowledge, now relishes the *rasa* of service to Kṛṣṇa —
+> Subheading: By the Lord’s mercy even Sārvabhauma, a man of dry knowledge, now relishes the rasa of service to Kṛṣṇa —
 
 *Khali*: oil-cake, what remains after oil is pressed. Before Sārvabhauma received Mahāprabhu’s mercy he was a knower of the featureless (*nirviśeṣa*) Brahman and followed the path of logic; so [Gopīnātha] compared him to “the oil-presser’s bullock,” which eats oil-cake.
 
@@ -320,21 +320,21 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 93
 
-> Subheading: The Lord’s associates accept the *prasāda* brought by Vāṇīnātha —
+> Subheading: The Lord’s associates accept the prasāda brought by Vāṇīnātha —
 
 ## 94
 
-> Subheading: In the afternoon *darśana* and dancing; at night sleep in the garden —
+> Subheading: In the afternoon darśana and dancing; at night sleep in the garden —
 
 ## 95
 
-> Subheading: On another day *darśana* of the Lord [Jagannātha] and dancing and singing in the temple courtyard —
+> Subheading: On another day darśana of the Lord [Jagannātha] and dancing and singing in the temple courtyard —
 
 ## 96
 
 > Subheading: Pastimes of Vraja with the devotees in the garden —
 
-Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as an enjoyer (*bhoktā*) — approaching the wives of others, as Kṛṣṇa does in *parakīya-rasa*. He regards Himself as a maidservant (*kiṅkarī*) of Śrī Rādhā and is immersed in an ocean of bliss when Śrī Rādhā — the one He serves, the *āśraya-vigraha* — meets Her most beloved Kṛṣṇa. It was in just this state, intoxicated with this *rasa*, that He performed the pastimes of *vṛndāvana-vihāra* with the devotees (see verses 74 and 75 of this chapter). Therefore the “Gaura-nāgarī” doctrine has no application here whatsoever.
+Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as an enjoyer (*bhoktā*) — approaching the wives of others, as Kṛṣṇa does in *parakīya-rasa*. He regards Himself as a maidservant (*kiṅkarī*) of Śrī Rādhā and is immersed in an ocean of bliss when Śrī Rādhā — the one He serves, the *āśraya-vigraha* — meets Her most beloved Kṛṣṇa. It was in just this state, intoxicated with this rasa, that He performed the pastimes of *vṛndāvana-vihāra* with the devotees (see verses 74 and 75 of this chapter). Therefore the “Gaura-nāgarī” doctrine has no application here whatsoever.
 
 ## 97
 
@@ -342,7 +342,7 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 ## 98
 
-> Subheading: The Lord dances, and Vāsudeva Datta sings *kīrtana* —
+> Subheading: The Lord dances, and Vāsudeva Datta sings kīrtana —
 
 ## 99
 
@@ -354,7 +354,7 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 ## 101
 
-> Subheading: Svarūpa and others sing with the Lord, and all are overwhelmed with *prema* —
+> Subheading: Svarūpa and others sing with the Lord, and all are overwhelmed with prema —
 
 ## 102
 
@@ -362,7 +362,7 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 ## 103
 
-> Subheading: After bathing, [the Lord] honours *prasāda* with the devotees in the garden —
+> Subheading: After bathing, [the Lord] honours prasāda with the devotees in the garden —
 
 ## 104
 
@@ -414,11 +414,11 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 ## 117–119
 
-Out of compassion for the *jīvas*, Śrī Jagannāthadeva sits in the temple at Nīlācala and manifests Kṛṣṇa’s pastimes in Dvārakā. Once a year He feels the greatest longing to see Sundarācala, which is like Vṛndāvana.
+Out of compassion for the jīvas, Śrī Jagannāthadeva sits in the temple at Nīlācala and manifests Kṛṣṇa’s pastimes in Dvārakā. Once a year He feels the greatest longing to see Sundarācala, which is like Vṛndāvana.
 
 ## 122
 
-> Subheading: Svarūpa gives the reason: only the *gopīs*, not Lakṣmī, may take part in the pastimes of Vraja —
+> Subheading: Svarūpa gives the reason: only the gopīs, not Lakṣmī, may take part in the pastimes of Vraja —
 
 Lakṣmī-ṭhākurāṇī may not take part in the pastimes of Vṛndāvana; so when Jagannātha goes to Sundarācala, He does not take Lakṣmī with Him. That is the reason.
 
@@ -462,7 +462,7 @@ See *Bṛhad-bhāgavatāmṛta*, Part One, Chapter Seven.
 
 ## 138
 
-> Subheading: The *māna* of the *gopīs* of Vraja and of Satyabhāmā is just like this —
+> Subheading: The *māna* of the gopīs of Vraja and of Satyabhāmā is just like this —
 
 ## 139
 
@@ -524,31 +524,31 @@ See in the *Ujjvala-nīlamaṇi* the chapters on the kinds of heroines (*nāyik�
 
 > Subheading: Svarūpa describes the signs of Kṛṣṇa’s and the *gopīs’* love for each other —
 
-*Rasa-āsvādaka*: Śrī Kṛṣṇa alone relishes the spiritual *rasa* (*cid-rasa*): He is the enjoyer (*bhoktā*), the *viṣaya*, and all others are His *āśraya*, those He enjoys (*bhogya*).
+*Rasa-āsvādaka*: Śrī Kṛṣṇa alone relishes the spiritual rasa (*cid-rasa*): He is the enjoyer (*bhoktā*), the *viṣaya*, and all others are His *āśraya*, those He enjoys (*bhogya*).
 
 ## 157
 
-*Rasābhāsa*: “Rasas that lack [any of] the characteristics of *rasa* set out earlier are called *rasābhāsas* by the knowers of *rasa*. They are of three kinds — *uparasas*, *anurasas* and *aparasas* — and are called, in that order, the highest, the middling and the lowest.” (*Bhakti-rasāmṛta-sindhu*, Uttara-vibhāga, 9th Laharī) When a *rasa* departs from the characteristics of *rasa* described earlier, the knowers of *rasa* call such a *rasa*, lacking those characteristics, *rasābhāsa*. *Rasābhāsa* is of three kinds — highest, middling and lowest, that is, *uparasa*, *anurasa* and *aparasa*.
+*Rasābhāsa*: “Rasas that lack [any of] the characteristics of rasa set out earlier are called *rasābhāsas* by the knowers of rasa. They are of three kinds — *uparasas*, *anurasas* and *aparasas* — and are called, in that order, the highest, the middling and the lowest.” (*Bhakti-rasāmṛta-sindhu*, Uttara-vibhāga, 9th Laharī) When a rasa departs from the characteristics of rasa described earlier, the knowers of rasa call such a rasa, lacking those characteristics, *rasābhāsa*. *Rasābhāsa* is of three kinds — highest, middling and lowest, that is, *uparasa*, *anurasa* and *aparasa*.
 
 ## 158
 
-> Subheading: Śrī Kṛṣṇa’s spiritual *rāsa* dance — (*Śrīmad-Bhāgavatam* 10.33.25)
+> Subheading: Śrī Kṛṣṇa’s spiritual rāsa dance — (*Śrīmad-Bhāgavatam* 10.33.25)
 
-Śrī Śukadeva, the *mahā-bhāgavata*, crest jewel of the assembly of *paramahaṁsas*, describes to Parīkṣit, pure of heart, Śrī Kṛṣṇa’s *rāsa* dance with the *gopīs*:
+Śrī Śukadeva, the *mahā-bhāgavata*, crest jewel of the assembly of *paramahaṁsas*, describes to Parīkṣit, pure of heart, Śrī Kṛṣṇa’s rāsa dance with the gopīs:
 
-**evam** (in the way described) **satya-kāmaḥ** (Śrī Kṛṣṇa, whose desires are eternally true) **anuratābalā-gaṇaḥ** (He to whom hosts of women are drawn, that is, who is amid a multitude of loving women) **ātmani** (*eva*, within Himself) **avaruddha-saurataḥ** (who held in His love play, that is, the Ātmārāma, the transcendental Kāmadeva) **śarat-kāvya-kathā-rasāśrayāḥ** (the shelter of the *rasas* that occur in autumn and are sung of in poetry; or, the shelter of the *rasas* of poetic narrations befitting autumn; or, construing *rasāśrayāḥ śarat-kāvya-kathāḥ*, the nights that poetry speaks of as the shelter of *śṛṅgāra-rasa*, renowned in autumn) **śaśāṅkāṁśu-virājitāḥ** (shining with the rays of the moon) **sarvāḥ** **eva** **niśāḥ** **siṣeve** (He spent in the *rāsa* dance).
+**evam** (in the way described) **satya-kāmaḥ** (Śrī Kṛṣṇa, whose desires are eternally true) **anuratābalā-gaṇaḥ** (He to whom hosts of women are drawn, that is, who is amid a multitude of loving women) **ātmani** (*eva*, within Himself) **avaruddha-saurataḥ** (who held in His love play, that is, the Ātmārāma, the transcendental Kāmadeva) **śarat-kāvya-kathā-rasāśrayāḥ** (the shelter of the *rasas* that occur in autumn and are sung of in poetry; or, the shelter of the *rasas* of poetic narrations befitting autumn; or, construing *rasāśrayāḥ śarat-kāvya-kathāḥ*, the nights that poetry speaks of as the shelter of *śṛṅgāra-rasa*, renowned in autumn) **śaśāṅkāṁśu-virājitāḥ** (shining with the rays of the moon) **sarvāḥ** **eva** **niśāḥ** **siṣeve** (He spent in the rāsa dance).
 
 ## 159
 
-> Subheading: Among the *gopīs*, a variety of qualities full of the most wondrous traits befitting heroines —
+> Subheading: Among the gopīs, a variety of qualities full of the most wondrous traits befitting heroines —
 
-*Vāmā*: “She who is always ready to take up *māna* and grows angry when *māna* slackens, whom the hero cannot win over and who is mostly harsh with him, is called *vāmā*.” (*Ujjvala-nīlamaṇi*, section on the *sakhīs*, 13) The heroine who always strives to take up *māna*, grows angry when *māna* slackens, does not yield to the hero and is mostly harsh with him is called *vāmā*.
+*Vāmā*: “She who is always ready to take up *māna* and grows angry when *māna* slackens, whom the hero cannot win over and who is mostly harsh with him, is called *vāmā*.” (*Ujjvala-nīlamaṇi*, section on the sakhīs, 13) The heroine who always strives to take up *māna*, grows angry when *māna* slackens, does not yield to the hero and is mostly harsh with him is called *vāmā*.
 
-*Dakṣiṇā*: “She who cannot bear persistence in *māna*, speaks reasonable words to the hero and is won over by his gentle words is called *dakṣiṇā*.” (*Ujjvala-nīlamaṇi*, section on the *sakhīs*, 14) That is, the heroine who cannot bear prolonged *māna*, speaks fitting words to the hero and is softened by his playful words is called *dakṣiṇā*.
+*Dakṣiṇā*: “She who cannot bear persistence in *māna*, speaks reasonable words to the hero and is won over by his gentle words is called *dakṣiṇā*.” (*Ujjvala-nīlamaṇi*, section on the sakhīs, 14) That is, the heroine who cannot bear prolonged *māna*, speaks fitting words to the hero and is softened by his playful words is called *dakṣiṇā*.
 
 ## 160
 
-> Subheading: The nature and qualities of Śrī Rādhā, the best of the *gopīs* and dearest to Kṛṣṇa —
+> Subheading: The nature and qualities of Śrī Rādhā, the best of the gopīs and dearest to Kṛṣṇa —
 
 ## 163
 
@@ -558,11 +558,11 @@ See Madhya, Chapter 8, verse 110.
 
 ## 164
 
-> Subheading: A detailed explanation of the greatness of *mahābhāva*, the essence and the utmost limit [of *prema*] —
+> Subheading: A detailed explanation of the greatness of *mahābhāva*, the essence and the utmost limit [of prema] —
 
 ## 165
 
-*Adhirūḍha-mahābhāva*: “When the *anubhāvas* attain a certain special distinction beyond the *anubhāvas* named for *rūḍha*, that is called *adhirūḍha*.” (*Ujjvala-nīlamaṇi*, section on the *sthāyi-bhāva*, 123) When the *sāttvika-anubhāvas* that appear with the signs of *rūḍha-bhāva* attain an unprecedented distinction, those *sāttvika-bhāvas*, having attained an indescribable distinction, are called *adhirūḍha-mahābhāva*.
+*Adhirūḍha-mahābhāva*: “When the *anubhāvas* attain a certain special distinction beyond the *anubhāvas* named for *rūḍha*, that is called *adhirūḍha*.” (*Ujjvala-nīlamaṇi*, section on the *sthāyi-bhāva*, 123) When the *sāttvika-anubhāvas* that appear with the signs of *rūḍha-bhāva* attain an unprecedented distinction, those sāttvika-bhāvas, having attained an indescribable distinction, are called *adhirūḍha-mahābhāva*.
 
 ## 167
 
@@ -762,7 +762,7 @@ See Ādi, Chapter 5, verses 20–22.
 
 > Subheading: The nature and wondrous properties of everything in Vṛndāvana — (*Brahma-saṁhitā* 5.56)
 
-**tatra** (in the transcendental land) **parama-puruṣaḥ** (*eva*, He alone) — **kāntaḥ** (the One, without a second enjoyer), **śriyaḥ** (the Lakṣmīs, that is, the *gopīs*) — **kāntāḥ** (all take shelter of Kṛṣṇa), **drumāḥ** (the *kadamba* and other trees) — **kalpa-taravaḥ** (indeed giving the fruit of love for Kṛṣṇa), **bhūmiḥ** **cintāmaṇi-gaṇamayī** (full of gems that fulfil all kinds of spiritual desires), **toyam** — **amṛtam** **eva**, **kathā** — **gānam** **eva**, **gamanam** **api** **nāṭyam** **eva**, **vaṁśī** — **priya-sakhī** (*eva*, indeed), **param** **jyotiḥ** (the moon, the sun and so on) **api** **cid-ānandam** (made of it), **tat** **api** **āsvādyam** (that is, everything of theirs is free of material nature, transcendental, and meant for the enjoyment of Kṛṣṇa alone).
+**tatra** (in the transcendental land) **parama-puruṣaḥ** (*eva*, He alone) — **kāntaḥ** (the One, without a second enjoyer), **śriyaḥ** (the Lakṣmīs, that is, the *gopīs*) — **kāntāḥ** (all take shelter of Kṛṣṇa), **drumāḥ** (the kadamba and other trees) — **kalpa-taravaḥ** (indeed giving the fruit of love for Kṛṣṇa), **bhūmiḥ** **cintāmaṇi-gaṇamayī** (full of gems that fulfil all kinds of spiritual desires), **toyam** — **amṛtam** **eva**, **kathā** — **gānam** **eva**, **gamanam** **api** **nāṭyam** **eva**, **vaṁśī** — **priya-sakhī** (*eva*, indeed), **param** **jyotiḥ** (the moon, the sun and so on) **api** **cid-ānandam** (made of it), **tat** **api** **āsvādyam** (that is, everything of theirs is free of material nature, transcendental, and meant for the enjoyment of Kṛṣṇa alone).
 
 See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 137.
 
@@ -778,7 +778,7 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 230
 
-> Subheading: Hearing of Śrī Rādhā’s *rasa*, the Lord too rejoices —
+> Subheading: Hearing of Śrī Rādhā’s rasa, the Lord too rejoices —
 
 ## 231
 
@@ -786,7 +786,7 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 232
 
-> Subheading: The flood of the Lord’s *prema* inundates Purī-dhāma —
+> Subheading: The flood of the Lord’s prema inundates Purī-dhāma —
 
 ## 233
 
@@ -794,7 +794,7 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 234
 
-> Subheading: All four groups are tired from *kīrtana* —
+> Subheading: All four groups are tired from kīrtana —
 
 ## 235
 
@@ -802,11 +802,11 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 236
 
-> Subheading: For fear of disrupting the *rasa*, Nitāi praises the Lord from afar —
+> Subheading: For fear of disrupting the rasa, Nitāi praises the Lord from afar —
 
 ## 237
 
-> Subheading: Nitāi does not come near, and the Lord’s absorption and the *kīrtana* do not stop —
+> Subheading: Nitāi does not come near, and the Lord’s absorption and the kīrtana do not stop —
 
 *Rahe*: stops, or ceases.
 
@@ -820,15 +820,15 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 240
 
-> Subheading: The Lord receives the *prasāda* of Lakṣmī and of Jagannātha —
+> Subheading: The Lord receives the prasāda of Lakṣmī and of Jagannātha —
 
 ## 241
 
-> Subheading: Honouring *prasāda* with the devotees; after the evening bath, *darśana* of Jagannātha —
+> Subheading: Honouring prasāda with the devotees; after the evening bath, darśana of Jagannātha —
 
 ## 242
 
-> Subheading: For eight days, *darśana* of Jagannātha, dancing and *kīrtana*, and then with the devotees water sports in Narendra and a meal in the garden —
+> Subheading: For eight days, darśana of Jagannātha, dancing and kīrtana, and then with the devotees water sports in Narendra and a meal in the garden —
 
 ## 244
 

@@ -1424,7 +1424,7 @@ of mahā-prasāda  there  the glory  described
 kṛṣṇādharāmṛtera phala-śloka āsvādilā  
 of the nectar of Kṛṣṇa’s lips  the fruit-verse  relished
 
-(130) There He described the glory of *mahā-prasāda* and relished the verse on the fruit of the nectar of Kṛṣṇa’s lips.
+(130) There He described the glory of mahā-prasāda and relished the verse on the fruit of the nectar of Kṛṣṇa’s lips.
 
 সপ্তদশে — গাভী-মধ্যে প্রভুর পতন ৷  
 কূর্ম্মাকার-অনুভাবের তাঁহাই উদ্গম ॥ ১৩১ ॥

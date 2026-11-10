@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** The sixteenth chapter describes Mahāprabhu’s pastimes in His youth (*kaiśora*): He teaches, defeats the *paṇḍitas*, sports in the waters of the Jāhnavī, travels to Vaṅga (East Bengal) to gather funds, holds learned debates there and leads *nāma-saṅkīrtana*, meets Tapana Miśra, instructs him about *sādhya* and *sādhana*, and orders him to go to Vārāṇasī. While Mahāprabhu was conquering Vaṅga, Lakṣmī-devī, on the pretext of a snakebite, departed for Vaikuṇṭha. The Lord returned home and consoled Śacīdevī with knowledge of the truth (*tattva-jñāna*). Then He married Viṣṇupriyā. He spoke with the *digvijayī* (conqueror of all directions) Keśava Kāśmīrī, examined his verse on the glory of the Gaṅgā, showed in it five poetic ornaments and excellences and five faults, and crushed his pride. That night the *digvijayī* poet learned from Sarasvatī who the Lord truly is, and the next morning he surrendered to Him.
+**Summary.** The sixteenth chapter describes Mahāprabhu’s pastimes in His youth (*kaiśora*): He teaches, defeats the paṇḍitas, sports in the waters of the Jāhnavī, travels to Vaṅga (East Bengal) to gather funds, holds learned debates there and leads *nāma-saṅkīrtana*, meets Tapana Miśra, instructs him about *sādhya* and *sādhana*, and orders him to go to Vārāṇasī. While Mahāprabhu was conquering Vaṅga, Lakṣmī-devī, on the pretext of a snakebite, departed for Vaikuṇṭha. The Lord returned home and consoled Śacīdevī with knowledge of the truth (*tattva-jñāna*). Then He married Viṣṇupriyā. He spoke with the *digvijayī* (conqueror of all directions) Keśava Kāśmīrī, examined his verse on the glory of the Gaṅgā, showed in it five poetic ornaments and excellences and five faults, and crushed his pride. That night the *digvijayī* poet learned from Sarasvatī who the Lord truly is, and the next morning he surrendered to Him.
 
 ## 1
 
@@ -14,7 +14,7 @@ All glory to the youthful Caitanyadeva! Lakṣmī-devī in person, who had come 
 
 ## 6
 
-The Lord defeated the *paṇḍitas* in every *śāstra*, but His humility was so skilful that the *paṇḍitas* were not hurt.
+The Lord defeated the paṇḍitas in every *śāstra*, but His humility was so skilful that the paṇḍitas were not hurt.
 
 ## 10
 
@@ -26,11 +26,11 @@ The *śāstras* are many, and what each of them defines as *sādhya* and as *sā
 
 ## 15
 
-The Lord said: “Neither knowledge of Brahman as undifferentiated oneness nor enjoyment (*bhukti*) in heaven and other worlds is the goal (*sādhya*) of the *jīva*. The *jīva*’s only goal is love for Kṛṣṇa. *Karma* and *jñāna* are not the *sādhana*, the means of attaining that goal. The only means of attaining it is pure *bhakti* that takes shelter of Kṛṣṇa’s name.”
+The Lord said: “Neither knowledge of Brahman as undifferentiated oneness nor enjoyment (*bhukti*) in heaven and other worlds is the goal (*sādhya*) of the jīva. The jīva’s only goal is love for Kṛṣṇa. *Karma* and jñāna are not the *sādhana*, the means of attaining that goal. The only means of attaining it is pure bhakti that takes shelter of Kṛṣṇa’s name.”
 
 ## 19
 
-“Giving the name”: that is, by giving Kṛṣṇa’s name — “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare” — the Lord made the people of Vaṅga devotees, and by teaching them the *śāstras* He made many of them *paṇḍitas*.
+“Giving the name”: that is, by giving Kṛṣṇa’s name — “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare” — the Lord made the people of Vaṅga devotees, and by teaching them the *śāstras* He made many of them paṇḍitas.
 
 ## 21
 
@@ -42,7 +42,7 @@ The pain of separation from the Lord took the form of a snake and bit Lakṣmī.
 
 ## 25
 
-**The *digvijayī*** was a *paṇḍita* from Kashmir named Keśava Miśra. After being taught by Mahāprabhu he became an *ācārya* in the sampradāya of Śrī Nimbāditya and wrote a gloss (*ṭippanī*) on the commentaries Nimbāditya composed, the *Vedānta-pārijāta* and others.
+**The *digvijayī*** was a paṇḍita from Kashmir named Keśava Miśra. After being taught by Mahāprabhu he became an ācārya in the sampradāya of Śrī Nimbāditya and wrote a gloss (*ṭippanī*) on the commentaries Nimbāditya composed, the *Vedānta-pārijāta* and others.
 
 ## 32
 
@@ -82,7 +82,7 @@ The mental power to arrange speech in ever new ways is called *pratibhā*, poeti
 
 ## 52
 
-“I have not studied poetics, but I have heard about it from the lips of *paṇḍitas*. That is why I see many faults and merits in this verse.”
+“I have not studied poetics, but I have heard about it from the lips of paṇḍitas. That is why I see many faults and merits in this verse.”
 
 ## 54–84
 
@@ -104,7 +104,7 @@ Now I will speak of the merits. This verse of yours has two ornaments of sound (
 
 ## 71
 
-A beautiful, adorned body becomes unsightly when it has a patch of white leprosy (*śvitra*). In the same way poetry endowed with *rasa* and ornaments becomes unsightly if it has a fault.
+A beautiful, adorned body becomes unsightly when it has a patch of white leprosy (*śvitra*). In the same way poetry endowed with rasa and ornaments becomes unsightly if it has a fault.
 
 ## 82
 
@@ -112,7 +112,7 @@ A lotus is born only in water; water is never born from a lotus. But here is the
 
 ## 107
 
-***Bandhana***, bondage: the bondage of *māyā*, that is, pride in learning.
+***Bandhana***, bondage: the bondage of māyā, that is, pride in learning.
 
 *Thus ends the sixteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

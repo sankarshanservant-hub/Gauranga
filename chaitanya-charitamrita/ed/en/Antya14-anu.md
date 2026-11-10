@@ -2,7 +2,7 @@
 
 ## 1
 
-> Subheading: A description of the divine madness (*divyonmāda*: *udghūrṇā*, *citra-jalpa* and so on) that seized the Lord under the sway of *adhirūḍha-mahābhāva* in the *rasa* of separation (*vipralambha*) —
+> Subheading: A description of the divine madness (*divyonmāda*: *udghūrṇā*, *citra-jalpa* and so on) that seized the Lord under the sway of *adhirūḍha-mahābhāva* in the rasa of separation (*vipralambha*) —
 
 **gaurāṅgaḥ** **kṛṣṇa-viccheda-vibhrāntyā** (by the bewilderment born of separation from Kṛṣṇa, by actions full of bewilderment) **manasā** (with the mind, which resolves and rejects) **vapuṣā** (with the body) **dhiyā** (with the intelligence, which reaches decisions) **yad yad** (whatever deeds) **vyadhatta** (He performed, whatever actions He undertook), **adhunā** (now) **tal-leśaḥ** (a small portion of that) **kathyate** (is told).
 
@@ -14,7 +14,7 @@
 
 > Subheading: Without Gaura’s mercy even a great scholar cannot understand the Lord’s transcendental divine madness —
 
-Intelligent people, with their own sense-born knowledge, will not be able to understand Śrī Mahāprabhu’s transcendental, extraordinary, profound madness born of separation from Kṛṣṇa. In our time, people of a new stamp who consider themselves devotees have devised the fanciful mood of “Nadīyā-nāgarī,” which opposes the conclusions of *bhakti*, and a newly invented worship of Viṣṇupriyā-devī. All this only shows that they have not entered Gaura’s pastimes.
+Intelligent people, with their own sense-born knowledge, will not be able to understand Śrī Mahāprabhu’s transcendental, extraordinary, profound madness born of separation from Kṛṣṇa. In our time, people of a new stamp who consider themselves devotees have devised the fanciful mood of “Nadīyā-nāgarī,” which opposes the conclusions of bhakti, and a newly invented worship of Viṣṇupriyā-devī. All this only shows that they have not entered Gaura’s pastimes.
 
 ## 6
 
@@ -24,13 +24,13 @@ Intelligent people, with their own sense-born knowledge, will not be able to und
 
 > Subheading: The source for describing Gaura’s pastimes is the diaries (*kaḍacās*) of the two *prabhus*, Svarūpa and Raghunātha —
 
-Pointers to these profound pastimes (*gambhīra-līlā*) of Mahāprabhu are given only in the diaries (*kaḍacās*) of Śrī Dāmodara Svarūpa and Śrī Raghunātha Dāsa Gosvāmī, that is, in their notes (*ṭippanī*), which serve as guides. Some abandon the holy feet of these two associates of Gaura and, thirsting for their own sense pleasure, wander through the world of *māyā* under the name of Gaura-*bhakti*, driven by the religion of the mind (*mano-dharma*) and following motley doctrines of every kind. Such people cannot understand Śrī Mahāprabhu’s pastimes and turn away from serving Gaura.
+Pointers to these profound pastimes (*gambhīra-līlā*) of Mahāprabhu are given only in the diaries (*kaḍacās*) of Śrī Dāmodara Svarūpa and Śrī Raghunātha Dāsa Gosvāmī, that is, in their notes (*ṭippanī*), which serve as guides. Some abandon the holy feet of these two associates of Gaura and, thirsting for their own sense pleasure, wander through the world of māyā under the name of Gaura-*bhakti*, driven by the religion of the mind (*mano-dharma*) and following motley doctrines of every kind. Such people cannot understand Śrī Mahāprabhu’s pastimes and turn away from serving Gaura.
 
 ## 8
 
 > Subheading: Why the testimony of the two *prabhus*, Svarūpa and Raghunātha, is authoritative —
 
-This verse shows that Śrī Raghunātha and many others recorded much about Mahāprabhu’s final pastimes of divine madness in the diaries (*kaḍacās*) they wrote. These records would have brought the world much good. Sadly, all these diaries remain hidden from people’s eyes to this day, and this shows the misfortune of the *jīvas*.
+This verse shows that Śrī Raghunātha and many others recorded much about Mahāprabhu’s final pastimes of divine madness in the diaries (*kaḍacās*) they wrote. These records would have brought the world much good. Sadly, all these diaries remain hidden from people’s eyes to this day, and this shows the misfortune of the jīvas.
 
 ## 9
 
@@ -38,15 +38,15 @@ These two *gosvāmīs* constantly experienced Śrī Mahāprabhu’s pastimes and
 
 ## 10
 
-*Sūtra*: “Those who know *sūtras* know that a *sūtra* has few syllables, is unambiguous, full of substance, facing every direction, free of filler words, and faultless.” *Vṛtti* means *kārikā*: “*Kārikā* [means] *yātanā* (torment) and *vṛtti*” (Amara-kośa); and its commentary says: “*Vṛtti* is a brief explanation in verses.”
+*Sūtra*: “Those who know sūtras know that a sūtra has few syllables, is unambiguous, full of substance, facing every direction, free of filler words, and faultless.” *Vṛtti* means *kārikā*: “*Kārikā* [means] *yātanā* (torment) and *vṛtti*” (Amara-kośa); and its commentary says: “*Vṛtti* is a brief explanation in verses.”
 
 ## 11
 
-> Subheading: One who hears with transcendental faith of the transcendental mood of separation (*vipralambha*) and follows it attains *prema* —
+> Subheading: One who hears with transcendental faith of the transcendental mood of separation (*vipralambha*) and follows it attains prema —
 
 ## 12
 
-> Subheading: In His last period the moods of Rādhā and the other *gopīs* separated from Kṛṣṇa awaken in the Lord’s heart; these last seven chapters themselves refute the “Gaura-nāgara” doctrine —
+> Subheading: In His last period the moods of Rādhā and the other gopīs separated from Kṛṣṇa awaken in the Lord’s heart; these last seven chapters themselves refute the “Gaura-nāgara” doctrine —
 
 “The state that arose”: prolonged separation (*vipralambha*).
 
@@ -60,7 +60,7 @@ These two *gosvāmīs* constantly experienced Śrī Mahāprabhu’s pastimes and
 
 *Abhimāna* (Ujjvala-nīlamaṇi): “*Abhimāna* is an indirect telling of the excellence of one’s love.” “‘Let there be many beautiful things; this alone is to be desired’ — such a conclusion the wise call *abhimāna*.”
 
-“Always *abhimāna*”: always the transcendental self-conception of a servant (*sevaka-abhimāna*). Although Śrī Gaurasundara is Kṛṣṇa Himself, His body is united with Śrīmatī Rādhikā, and so He was always immersed in Śrīmatī’s mood, nondifferent from her. Had He remained in the mood of Kṛṣṇa, full of the enjoyment of union (*sambhoga*), this would have obstructed His own purpose. In our time non-Vaiṣṇavas hostile to Gaura, through a perverted understanding (*vivarta-buddhi*), turn inside out the path of *bhajana* that He practiced and preached. They dress Śrī Gaurasundara up, by their own invention, as a “mundane *nāgara*,” make themselves into “playful *nāgarīs* of Nadīyā,” and so fall away from devotion to Kṛṣṇa. In our time some members of the “Theosophist” society think as follows: although for the good of the *jīvas* Śrī Gaurasundara showed that “the *sādhana* of separation (*vipralambha*) is the only path to perfection,” He is Svayam Bhagavān and therefore beyond the *jīvas’* reach; so every *jīva* may mold and dress Him out of whatever material it likes and worship Him in any way at all, with means its own mind has devised for sense gratification. To prevent this, Gaurasundara showed the supreme wonder of serving Kṛṣṇa in the transcendental mood of separation, and so brought the world good.
+“Always *abhimāna*”: always the transcendental self-conception of a servant (*sevaka-abhimāna*). Although Śrī Gaurasundara is Kṛṣṇa Himself, His body is united with Śrīmatī Rādhikā, and so He was always immersed in Śrīmatī’s mood, nondifferent from her. Had He remained in the mood of Kṛṣṇa, full of the enjoyment of union (*sambhoga*), this would have obstructed His own purpose. In our time non-Vaiṣṇavas hostile to Gaura, through a perverted understanding (*vivarta-buddhi*), turn inside out the path of *bhajana* that He practiced and preached. They dress Śrī Gaurasundara up, by their own invention, as a “mundane *nāgara*,” make themselves into “playful *nāgarīs* of Nadīyā,” and so fall away from devotion to Kṛṣṇa. In our time some members of the “Theosophist” society think as follows: although for the good of the jīvas Śrī Gaurasundara showed that “the *sādhana* of separation (*vipralambha*) is the only path to perfection,” He is Svayam Bhagavān and therefore beyond the *jīvas’* reach; so every jīva may mold and dress Him out of whatever material it likes and worship Him in any way at all, with means its own mind has devised for sense gratification. To prevent this, Gaurasundara showed the supreme wonder of serving Kṛṣṇa in the transcendental mood of separation, and so brought the world good.
 
 ## 15
 
@@ -124,7 +124,7 @@ Climbing onto the Garuḍa pillar is an offence to a Vaiṣṇava, and putting a
 
 ## 32
 
-> Subheading: The Lord, full of the mood of a *gopī*, His mind absorbed in Kṛṣṇa, sees Kṛṣṇa everywhere —
+> Subheading: The Lord, full of the mood of a gopī, His mind absorbed in Kṛṣṇa, sees Kṛṣṇa everywhere —
 
 ## 33
 
@@ -132,11 +132,11 @@ Climbing onto the Garuḍa pillar is an offence to a Vaiṣṇava, and putting a
 
 ## 34
 
-> Subheading: Seeing Vāsudeva at Kurukṣetra, the Lord is full of the mood of a *gopī* separated from Śyāma —
+> Subheading: Seeing Vāsudeva at Kurukṣetra, the Lord is full of the mood of a gopī separated from Śyāma —
 
 ## 35
 
-> Subheading: The Lord suffers in the mood of a *gopī* deprived of Kṛṣṇa’s company —
+> Subheading: The Lord suffers in the mood of a gopī deprived of Kṛṣṇa’s company —
 
 ## 36
 
@@ -158,7 +158,7 @@ Climbing onto the Garuḍa pillar is an offence to a Vaiṣṇava, and putting a
 
 > Subheading: (A verse spoken by Gosvāmipāda)
 
-**prāpta-praṇaṣṭācyuta-vittaḥ** (whose treasure, Acyuta, was first obtained — met on the path of the eyes — and then *praṇaṣṭa*, lost again, gone from sight), **viṣādojjhita-deha-gehaḥ** (who, from grief — the pain born of separation from Kṛṣṇa — has all but abandoned its house, the body), **gṛhīta-kāpālika-dharmakaḥ** (having accepted the *dharma* — the natural traits and so on — of a *kāpālika*, a particular kind of yogī) **me** (My) **ātmā** (pure mind) **sendriya-śiṣya-vṛndaḥ** (together with its disciples, the senses) **vṛndāvanaṁ** **yayau** (went to Vṛndāvana).
+**prāpta-praṇaṣṭācyuta-vittaḥ** (whose treasure, Acyuta, was first obtained — met on the path of the eyes — and then *praṇaṣṭa*, lost again, gone from sight), **viṣādojjhita-deha-gehaḥ** (who, from grief — the pain born of separation from Kṛṣṇa — has all but abandoned its house, the body), **gṛhīta-kāpālika-dharmakaḥ** (having accepted the dharma — the natural traits and so on — of a *kāpālika*, a particular kind of yogī) **me** (My) **ātmā** (pure mind) **sendriya-śiṣya-vṛndaḥ** (together with its disciples, the senses) **vṛndāvanaṁ** **yayau** (went to Vṛndāvana).
 
 ## 42
 
@@ -196,7 +196,7 @@ The *kāpālikas* are a particular kind of yogī. They wander about with a human
 
 ## 52
 
-> Subheading: In separation from Kṛṣṇa the Lord experiences the ten states of a *gopī* whose beloved has gone abroad (*proṣita-bhartṛkā*) —
+> Subheading: In separation from Kṛṣṇa the Lord experiences the ten states of a gopī whose beloved has gone abroad (*proṣita-bhartṛkā*) —
 
 ## 53
 
@@ -216,7 +216,7 @@ A garland of examples follows. Among them:
 
 (5) *Malināṅgatā*, for example: “O Aghahara! The beauty of Viśākhā’s face has become like a lotus struck by heavy frost, her lips like a *bandhujīva* flower faded by a harsh wind, and her eyes like blue lotuses scorched by the autumn sun: the calamity of separation from You has withered her.” That is: “Uddhava says: ‘Listen, my Aghahara! The lips of Viśākhā, tormented by separation, have dried like a *bandhu* flower in gusts of harsh wind; her lips, red as the *bimba* fruit, are like a lotus struck by a heap of frost. Under the calamity of separation Viśākhā is utterly wretched, and her eyes are like *kumuda* lotuses scorched by the autumn sun.’”
 
-(6) *Pralāpa*, as in the Lalita-mādhava: “Where is the moon of Nanda’s line? Where is He who is adorned with peacock feathers? Where is the deep sound of the flute? Where is the lustre like that of the king of sapphires? Where is He who dances in the rapture of *rasa*? Where, friend, is my dearest friend, the treasure-house of the medicine that preserves my life? Where is He — your [friend]? Alas, ah, shame on the Creator!” That is: “Rādhā, whose beloved has gone abroad, laments in anguish: ‘Friend, where is the moon of Nanda’s line? Tell me, where has He gone whose ornament is peacock feathers? Where has He gone who plays the flute with a deep sound? Where is the best of men, shining like a sapphire, your dearest friend, who dances in the rapture of *rasa*? Tell me, where is the treasure-house of the medicine that preserves my life? Shame on you, Creator, for writing such a fate for me!’”
+(6) *Pralāpa*, as in the Lalita-mādhava: “Where is the moon of Nanda’s line? Where is He who is adorned with peacock feathers? Where is the deep sound of the flute? Where is the lustre like that of the king of sapphires? Where is He who dances in the rapture of rasa? Where, friend, is my dearest friend, the treasure-house of the medicine that preserves my life? Where is He — your [friend]? Alas, ah, shame on the Creator!” That is: “Rādhā, whose beloved has gone abroad, laments in anguish: ‘Friend, where is the moon of Nanda’s line? Tell me, where has He gone whose ornament is peacock feathers? Where has He gone who plays the flute with a deep sound? Where is the best of men, shining like a sapphire, your dearest friend, who dances in the rapture of rasa? Tell me, where is the treasure-house of the medicine that preserves my life? Shame on you, Creator, for writing such a fate for me!’”
 
 (7) *Vyādhi*, as in the Lalita-mādhava: “This mighty fever, born of separation from the Lord of Gokula, burns more than firing in a sealed crucible, torments more than a host of poisons, is more unbearable than a thunderbolt, sharper than a spear lodged in the heart, worse than the most severe cholera — today it pierces my innermost vitals.” That is: “Rādhā in separation says: ‘Listen, Lalitā: I cannot describe the fever of separation from Kṛṣṇa. [It burns me] as fire burns gold in a clay crucible; it torments more than poison and the like and is more unbearable than a thunderbolt; it is like a lodged spear, and in its agony like severe cholera. Friend, she who pierces my heart is mighty in her great strength.’”
 
@@ -224,7 +224,7 @@ A garland of examples follows. Among them:
 
 (9) *Moha*, for example: “O enemy of Kaṁsa! Now only one companion, the swoon of separation from You, serves as counsellor to [Rādhā], whose eyes are like blue lotuses: it holds back the ocean of misery, removes the humiliation of heavy thoughts, destroys madness and forcibly stops the waves of tears.” That is: “Lalitā wrote Kṛṣṇa a letter: ‘In separation from You Rādhikā has fainted. O enemy of Kaṁsa, [the swoon] has become her counsellor: it carries off the ocean of misery, calms the agitation of her mind, and forcibly stops the waves of her tears. Rādhā remains absorbed in heavy thoughts of You. I trust You will obtain the great treasure — the killing of a woman. Stop thinking about Śrī Rādhā: today or tomorrow You will receive the news. Live happily, in special joy.’”
 
-(10) *Mṛtyu*, as in the Haṁsadūta: “O You who relish the *rasa* of the *rāsa* pastime! Alas, You once bound to my friend an ever-new, deep wave of love. If now You have become indifferent to her, then shame on this wisp of cotton: held to her nose, it still stirs!” That is: “Reproaching Kṛṣṇa, who lives in Mathurā, the beautiful Lalitā-devī speaks through the swan: ‘O You who are full of the *rasa* of the *rāsa* pastime, for the sake of *rasa* You bound Rādhikā with the bonds of love. Why then are You indifferent to my dear friend? Rādhikā remembers all this at every moment. I shall hold a wisp of cotton to her nostrils to test her: if her breath still flows, shame on it!’”
+(10) *Mṛtyu*, as in the Haṁsadūta: “O You who relish the rasa of the rāsa pastime! Alas, You once bound to my friend an ever-new, deep wave of love. If now You have become indifferent to her, then shame on this wisp of cotton: held to her nose, it still stirs!” That is: “Reproaching Kṛṣṇa, who lives in Mathurā, the beautiful Lalitā-devī speaks through the swan: ‘O You who are full of the rasa of the rāsa pastime, for the sake of rasa You bound Rādhikā with the bonds of love. Why then are You indifferent to my dear friend? Rādhikā remembers all this at every moment. I shall hold a wisp of cotton to her nostrils to test her: if her breath still flows, shame on it!’”
 
 ## 55
 
@@ -248,7 +248,7 @@ A garland of examples follows. Among them:
 
 ## 60
 
-> Subheading: Hearing no *kīrtana* and no sound at all, everyone searches for the Lord and cannot find Him —
+> Subheading: Hearing no kīrtana and no sound at all, everyone searches for the Lord and cannot find Him —
 
 ## 62
 
@@ -300,7 +300,7 @@ A garland of examples follows. Among them:
 
 ## 79
 
-> Subheading: The Lord goes for *darśana* of Jagannātha —
+> Subheading: The Lord goes for darśana of Jagannātha —
 
 *Pāṇi-śaṅkha* — a conch held in the hand and blown; or else the sound of clapping when the doors are opened. In a variant reading, *pānī-śaṅkha*: a conch [of water] for *ācamana*.
 
@@ -362,13 +362,13 @@ See Madhya 18.34.
 
 ## 99
 
-> Subheading: Seeing the eight *sāttvika* transformations in the Lord, everyone is amazed —
+> Subheading: Seeing the eight sāttvika transformations in the Lord, everyone is amazed —
 
 *Aṣṭa-sāttvika-vikāra* (the eight spiritual transformations) — becoming stunned (*stambha*), perspiration (*sveda*), hair standing on end (*romāñca*), faltering voice (*svara-bheda*), trembling (*vepathu*), change of colour (*vaivarṇya*), tears (*aśru*) and fainting (*pralaya*).
 
 ## 100
 
-> Subheading: Everyone performs loud *saṅkīrtana*; Govinda and others sprinkle water —
+> Subheading: Everyone performs loud saṅkīrtana; Govinda and others sprinkle water —
 
 *Śravaṇe* — right at the ear.
 
@@ -410,7 +410,7 @@ See Madhya 18.34.
 
 ## 116
 
-> Subheading: The Lord’s embarrassment; after bathing in the ocean with the devotees, He honours *prasāda* —
+> Subheading: The Lord’s embarrassment; after bathing in the ocean with the devotees, He honours prasāda —
 
 ## 118
 
@@ -432,13 +432,13 @@ See Madhya 18.34.
 
 ## 122
 
-> Subheading: Only by following the Lord’s separation from Kṛṣṇa does the *jīva* attain Kṛṣṇa’s feet —
+> Subheading: Only by following the Lord’s separation from Kṛṣṇa does the jīva attain Kṛṣṇa’s feet —
 
 *Thus ends the fourteenth chapter of the “Anubhāṣya.”*
 
 ---
 
-[^26-1]: The edition reads «শ্রীমূর্ত্তিকে অপ্রাকৃত কার্ষ্ণজ্ঞান». Another reading is possible: *śrī-mūrti* as the holy form of the Deity (Jagannātha), whom the Lord sees as transcendental, Kṛṣṇa Himself, and so does not hinder her *darśana*.
+[^26-1]: The edition reads «শ্রীমূর্ত্তিকে অপ্রাকৃত কার্ষ্ণজ্ঞান». Another reading is possible: *śrī-mūrti* as the holy form of the Deity (Jagannātha), whom the Lord sees as transcendental, Kṛṣṇa Himself, and so does not hinder her darśana.
 
 [^53-1]: So in the edition: “বক্ষশ্চ-কোরিকা” (the reading is clear in the scan, but the word is unusual); by the sense of the verse, the *koka* (*cakravāka*) birds of the breast.
 

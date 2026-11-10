@@ -14,7 +14,7 @@ A verse composed by the author himself.
 
 Śrī Rūpa Gosvāmī used this verse as the *maṅgalācaraṇa* (blessing the world) at the opening of his play *Vidagdha-mādhava*. The author, his follower, therefore follows in the footsteps of his own beloved guru.
 
-**cirāt** (for a long time) **anarpita-carīm** (never given before) **unnatojjvala-rasām** (in which the *ujjvala-rasa*, the *rasa* of amorous love [*śṛṅgāra*], is exalted, that is, fully developed) **sva-bhakti-śriyam** (the beauty of love for Himself) **samarpayitum** (in order to bestow fully) **kalau** (in the age of Kali) **karuṇayā avatīrṇaḥ** (who has come into the world out of mercy) **puraṭa-sundara-dyuti-kadamba-sandīpitaḥ** (He who is brightly illumined by a mass of beautiful golden radiance) **śacī-nandanaḥ** (the son of Śacī) **hariḥ** (Hari) **vaḥ** (your) **hṛdaya-kandare** (in the cave of the heart, that is, of the mind) **sadā** (always, day and night) **sphuratu** (may He manifest).
+**cirāt** (for a long time) **anarpita-carīm** (never given before) **unnatojjvala-rasām** (in which the *ujjvala-rasa*, the rasa of amorous love [*śṛṅgāra*], is exalted, that is, fully developed) **sva-bhakti-śriyam** (the beauty of love for Himself) **samarpayitum** (in order to bestow fully) **kalau** (in the age of Kali) **karuṇayā avatīrṇaḥ** (who has come into the world out of mercy) **puraṭa-sundara-dyuti-kadamba-sandīpitaḥ** (He who is brightly illumined by a mass of beautiful golden radiance) **śacī-nandanaḥ** (the son of Śacī) **hariḥ** (Hari) **vaḥ** (your) **hṛdaya-kandare** (in the cave of the heart, that is, of the mind) **sadā** (always, day and night) **sphuratu** (may He manifest).
 
 ## 5
 
@@ -38,7 +38,7 @@ Of the 71 *mahā-yugas* of the Vaivasvata *manvantara*, 27 have passed. In the t
 
 > Subheading: The four principal *rasas*, apart from *śānta* —
 
-*Śānta-rasa* is not named here for this reason. In the material world *śānta-rasa* stands highest of all, but in the spiritual world it stands very low. *Śānta-rasa* is transcendental, yet in it the *ālambana* of *rasa* — the *viṣaya* and the *āśrayas*, the object of love and those who love — do not exchange the roles of knower and known. Therefore in *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa* love for Kṛṣṇa rises step by step in excellence.
+*Śānta-rasa* is not named here for this reason. In the material world *śānta-rasa* stands highest of all, but in the spiritual world it stands very low. *Śānta-rasa* is transcendental, yet in it the *ālambana* of rasa — the *viṣaya* and the *āśrayas*, the object of love and those who love — do not exchange the roles of knower and known. Therefore in *dāsya*, *sakhya*, *vātsalya* and *madhura-rasa* love for Kṛṣṇa rises step by step in excellence.
 
 ## 13
 
@@ -84,7 +84,7 @@ Of the 71 *mahā-yugas* of the Vaivasvata *manvantara*, 27 have passed. In the t
 
 > Subheading: The work of the avatāra —
 
-**sādhūnām** (of those wholly devoted to serving Me) **paritrāṇāya** (to remove the obstacles to their service) **duṣkṛtām** (of the enemies of the devotees — Rāvaṇa, Kaṁsa, Keśī and others, whom no one but I can slay) **vināśāya**, **dharma-saṁsthāpanārthāya ca** (and in order to practise and preach properly the *dharma* free of envy — devotion to the service of Bhagavān, which consists of *paricaryā* [service] and *saṅkīrtana*) **yuge yuge** (at the respective times) **sambhavāmi**.
+**sādhūnām** (of those wholly devoted to serving Me) **paritrāṇāya** (to remove the obstacles to their service) **duṣkṛtām** (of the enemies of the devotees — Rāvaṇa, Kaṁsa, Keśī and others, whom no one but I can slay) **vināśāya**, **dharma-saṁsthāpanārthāya ca** (and in order to practise and preach properly the dharma free of envy — devotion to the service of Bhagavān, which consists of *paricaryā* [service] and *saṅkīrtana*) **yuge yuge** (at the respective times) **sambhavāmi**.
 
 ## 24
 
@@ -102,7 +102,7 @@ Arjuna asked a doubting question about action. In reply, Bhagavān, who has no d
 
 ## 26
 
-> Subheading: Preaching the *dharma* of the age is Viṣṇu’s work, but no *aṁśa* of the Viṣṇu-*tattva* other than Kṛṣṇa can give love for Kṛṣṇa —
+> Subheading: Preaching the dharma of the age is Viṣṇu’s work, but no *aṁśa* of the Viṣṇu-*tattva* other than Kṛṣṇa can give love for Kṛṣṇa —
 
 ## 27
 
@@ -122,13 +122,13 @@ Arjuna asked a doubting question about action. In reply, Bhagavān, who has no d
 
 > Subheading: The name “Śrī Kṛṣṇa Caitanya” — the presiding deity of *sambandha*, the relationship with the Lord —
 
-“In His last pastimes”: that is, in the twenty-four years after He accepted *sannyāsa*. In the *sampradāya* of Śrī Viṣṇusvāmī, *tridaṇḍī* Vedic *sannyāsīs* of the ten names and of the hundred and eight names existed long before Śrī Śaṅkarapāda. But when Śaṅkara arose — a Vedāntist in name only, fond of reasoning about the attributeless — the society of the *pañcopāsakas*, the worshippers of five deities, was reorganised in India on the principle of reconciling all doctrines. Therefore Śrī Mahāprabhu accepted Vedic *sannyāsa* according to the custom of the *daṇḍī-sannyāsīs* of the ten names in the *sampradāya* of Śrī Śaṅkarācārya. In Āryāvarta, in an Ārya society that only resembles the Vedic — that is, merely calls itself a follower of the Vedas — many follow Śaṅkarācārya and, by the rule of Śaṅkara’s *sampradāya*, worship the five deities.
+“In His last pastimes”: that is, in the twenty-four years after He accepted sannyāsa. In the sampradāya of Śrī Viṣṇusvāmī, *tridaṇḍī* Vedic sannyāsīs of the ten names and of the hundred and eight names existed long before Śrī Śaṅkarapāda. But when Śaṅkara arose — a Vedāntist in name only, fond of reasoning about the attributeless — the society of the *pañcopāsakas*, the worshippers of five deities, was reorganised in India on the principle of reconciling all doctrines. Therefore Śrī Mahāprabhu accepted Vedic sannyāsa according to the custom of the *daṇḍī-sannyāsīs* of the ten names in the sampradāya of Śrī Śaṅkarācārya. In Āryāvarta, in an Ārya society that only resembles the Vedic — that is, merely calls itself a follower of the Vedas — many follow Śaṅkarācārya and, by the rule of Śaṅkara’s sampradāya, worship the five deities.
 
-The *sannyāsīs* of the ten names are these: “Tīrtha, Āśrama, Vana, Araṇya, Giri, Parvata, Sāgara, Sarasvatī, Bhāratī and Purī — these are the ten names.” Below, for each, the title of the *sannyāsī*, the place and the title of the *brahmacārī* are given in order (see *Mañjuṣā*, issue 2, pp. 104–107). Tīrtha and Āśrama are titles of *sannyāsīs*; the place is Dvārakā; the *brahmacārī*’s name is Svarūpa. Vana and Araṇya are titles of *sannyāsīs*; the place is Puruṣottama; the *brahmacārī*’s name is Prakāśa. Giri, Parvata and Sāgara are titles of *sannyāsīs*; the place is Badarikāśrama; the *brahmacārī*’s name is Ānanda. Sarasvatī, Bhāratī and Purī are titles of *sannyāsīs*; the place is Śṛṅgerī; the *brahmacārī*’s name is Caitanya.
+The sannyāsīs of the ten names are these: “Tīrtha, Āśrama, Vana, Araṇya, Giri, Parvata, Sāgara, Sarasvatī, Bhāratī and Purī — these are the ten names.” Below, for each, the title of the sannyāsī, the place and the title of the *brahmacārī* are given in order (see *Mañjuṣā*, issue 2, pp. 104–107). Tīrtha and Āśrama are titles of sannyāsīs; the place is Dvārakā; the *brahmacārī*’s name is Svarūpa. Vana and Araṇya are titles of sannyāsīs; the place is Puruṣottama; the *brahmacārī*’s name is Prakāśa. Giri, Parvata and Sāgara are titles of sannyāsīs; the place is Badarikāśrama; the *brahmacārī*’s name is Ānanda. Sarasvatī, Bhāratī and Purī are titles of sannyāsīs; the place is Śṛṅgerī; the *brahmacārī*’s name is Caitanya.
 
-Śrī Śaṅkarācārya established four *maṭhas* — in the east, west, north and south of India — and put four of his disciples at their head. Under these four principal *maṭhas* countless branch *maṭhas* gradually arose. The *maṭhas* are assigned to regions, but in many cases this order has been upset. In the four *maṭhas* there are four *sampradāyas*: Ānandavāra, Bhogavāra, Kīṭavāra and Bhūmivāra. Over time the understanding of these *sampradāyas*, too, has become confused. The four *mahāvākyas*, the great sayings, are also divided among the *maṭhas*. To accept *sannyāsa*, one must first go to a *sannyāsī* guru who heads a *maṭha* and become a *brahmacārī*. Whatever kind of *sannyāsī* that guru is, he gives the corresponding *brahmacārī* name. This custom is still strictly kept in this *sampradāya* today.
+Śrī Śaṅkarācārya established four *maṭhas* — in the east, west, north and south of India — and put four of his disciples at their head. Under these four principal *maṭhas* countless branch *maṭhas* gradually arose. The *maṭhas* are assigned to regions, but in many cases this order has been upset. In the four *maṭhas* there are four sampradāyas: Ānandavāra, Bhogavāra, Kīṭavāra and Bhūmivāra. Over time the understanding of these sampradāyas, too, has become confused. The four *mahāvākyas*, the great sayings, are also divided among the *maṭhas*. To accept sannyāsa, one must first go to a sannyāsī guru who heads a *maṭha* and become a *brahmacārī*. Whatever kind of sannyāsī that guru is, he gives the corresponding *brahmacārī* name. This custom is still strictly kept in this sampradāya today.
 
-When Śrī Mahāprabhu went to Keśava Bhāratī to accept *sannyāsa*, His name became “Śrī Kṛṣṇa Caitanya.” Even after accepting *sannyāsa*, Bhagavān made known only His *brahmacārī* name. None of those who wrote of His pastimes says that He introduced Himself by the title “Bhāratī.” In Śaṅkara’s *sampradāya* the *sannyāsa* name is bound up with the conceit of being God (*īśvarābhimāna*); this, I think, is why Śrīman Mahāprabhu did not favour that usage. The *brahmacārī* name carries the self-conception of a servant of the guru (*guru-dāsyābhimāna*) and is not unfavorable to devotion. It is recorded, however, that Mahāprabhu accepted the *daṇḍa*, the *kamaṇḍalu* and the other marks of *sannyāsa*.
+When Śrī Mahāprabhu went to Keśava Bhāratī to accept sannyāsa, His name became “Śrī Kṛṣṇa Caitanya.” Even after accepting sannyāsa, Bhagavān made known only His *brahmacārī* name. None of those who wrote of His pastimes says that He introduced Himself by the title “Bhāratī.” In Śaṅkara’s sampradāya the sannyāsa name is bound up with the conceit of being God (*īśvarābhimāna*); this, I think, is why Śrīman Mahāprabhu did not favour that usage. The *brahmacārī* name carries the self-conception of a servant of the guru (*guru-dāsyābhimāna*) and is not unfavorable to devotion. It is recorded, however, that Mahāprabhu accepted the *daṇḍa*, the *kamaṇḍalu* and the other marks of sannyāsa.
 
 ## 36
 
@@ -154,7 +154,7 @@ In his commentary on the *Muṇḍaka Upaniṣad*, Śrī Madhvācārya cites thi
 
 ## 42–43
 
-*Nyagrodha-parimaṇḍala*: one who is four of his own cubits tall and as many broad, that is, around, measured by his own arms, is a *mahāpuruṣa*. And He who has subdued (*nyak*) all living beings and holds them in check (*rodha*) by His own *māyā* is Viṣṇu in full, possessed of the *catur-vyūha*.
+*Nyagrodha-parimaṇḍala*: one who is four of his own cubits tall and as many broad, that is, around, measured by his own arms, is a *mahāpuruṣa*. And He who has subdued (*nyak*) all living beings and holds them in check (*rodha*) by His own māyā is Viṣṇu in full, possessed of the *catur-vyūha*.
 
 ## 47
 
@@ -162,7 +162,7 @@ In his commentary on the *Muṇḍaka Upaniṣad*, Śrī Madhvācārya cites thi
 
 ## 48
 
-*Ādi*, the first: the householder pastimes (the first 24 years); *śeṣa*, the last: the pastimes of *sannyāsa* (the last 24 years). See verses 32–34. “Four names each”: these are given in the next verse, 49.
+*Ādi*, the first: the householder pastimes (the first 24 years); *śeṣa*, the last: the pastimes of sannyāsa (the last 24 years). See verses 32–34. “Four names each”: these are given in the next verse, 49.
 
 ## 49
 
@@ -170,11 +170,11 @@ In his commentary on the *Muṇḍaka Upaniṣad*, Śrī Madhvācārya cites thi
 
 **suvarṇa-varṇaḥ** (He whose colour is yellow, like the colour of gold) **hemāṅgaḥ** (He whose body is like gold) **varāṅgaḥ** (He whose body bears the marks of a *mahāpuruṣa*) **candanāṅgadī** (He whose armlets are anointed with sandal) (these are four names of Bhagavān Gauracandra in His first pastimes). **sannyāsa-kṛt** (devoted to the duty of a renunciant) **śamaḥ** (free from sense objects) **śāntaḥ** (He whose mind is fixed on Kṛṣṇa alone) **niṣṭhā-śānti-parāyaṇaḥ** (*niṣṭhā* is one-pointedness of mind, and there is *śānti*; *niṣṭhā* and *śānti* are His highest shelter) (the *Sahasra-nāma* also cites these four names of Bhagavān Gaurahari in His last pastimes).
 
-In Śrī Baladeva Vidyābhūṣaṇa’s commentary on the *Viṣṇu-sahasra-nāma*, called *Nāmārtha-sudhā*, it is said: “*Suvarṇa-varṇa*: ‘His colour, that is, His form, is like gold,’ according to the Śruti: ‘When the seer sees the golden Creator, the Lord, the Puruṣa, the source of Brahman.’[^49-1] *Hemāṅga*: ‘His limbs, the bearers of colour, are as desirable as gold.’ *Varāṅga*: ‘His limbs are excellent, that is, full of beauty.’ *Candanāṅgadī*: ‘His armlets (*aṅgada*) are *candana*, that is, they gladden the hearts of the devotees.’ Some apply these four names, beginning with *suvarṇa-varṇa*, to His form as Kṛṣṇa Caitanya. Now, with six names, the verse points to His being Kṛṣṇa Caitanya. *Sannyāsa-kṛt*: ‘He who performs *sannyāsa*, the life of a wandering renunciant.’ *Śama*: ‘He who reflects (*śamayati*) on the secret of Hari’; the root *śam* in the sense of ‘to reflect’ belongs to the tenth class. *Śānta*: ‘He who has withdrawn (*śāmyati*) from everything other than Kṛṣṇa.’ *Niṣṭhā*: ‘That in which the sacrifices of devotion abide (*nitiṣṭhanti*), the chief of which is *hari-kīrtana*’ — for the *smṛti* says, *kṛṣṇa-varṇaṁ tviṣākṛṣṇam* (“He who utters the name of Kṛṣṇa, yet is not dark”).[^49-2] *Śānti*: ‘That by which the opponents of devotion, headed by the followers of *kevalādvaita*, are subdued.’ *Parāyaṇa*: ‘The highest shelter of all kinds of *bhāva*, up to *mahābhāva*.’”
+In Śrī Baladeva Vidyābhūṣaṇa’s commentary on the *Viṣṇu-sahasra-nāma*, called *Nāmārtha-sudhā*, it is said: “*Suvarṇa-varṇa*: ‘His colour, that is, His form, is like gold,’ according to the Śruti: ‘When the seer sees the golden Creator, the Lord, the Puruṣa, the source of Brahman.’[^49-1] *Hemāṅga*: ‘His limbs, the bearers of colour, are as desirable as gold.’ *Varāṅga*: ‘His limbs are excellent, that is, full of beauty.’ *Candanāṅgadī*: ‘His armlets (*aṅgada*) are *candana*, that is, they gladden the hearts of the devotees.’ Some apply these four names, beginning with *suvarṇa-varṇa*, to His form as Kṛṣṇa Caitanya. Now, with six names, the verse points to His being Kṛṣṇa Caitanya. *Sannyāsa-kṛt*: ‘He who performs sannyāsa, the life of a wandering renunciant.’ *Śama*: ‘He who reflects (*śamayati*) on the secret of Hari’; the root *śam* in the sense of ‘to reflect’ belongs to the tenth class. *Śānta*: ‘He who has withdrawn (*śāmyati*) from everything other than Kṛṣṇa.’ *Niṣṭhā*: ‘That in which the sacrifices of devotion abide (*nitiṣṭhanti*), the chief of which is *hari-kīrtana*’ — for the *smṛti* says, *kṛṣṇa-varṇaṁ tviṣākṛṣṇam* (“He who utters the name of Kṛṣṇa, yet is not dark”).[^49-2] *Śānti*: ‘That by which the opponents of devotion, headed by the followers of *kevalādvaita*, are subdued.’ *Parāyaṇa*: ‘The highest shelter of all kinds of *bhāva*, up to *mahābhāva*.’”
 
 ## 51
 
-> Subheading: The *saṅkīrtana* of Kṛṣṇa’s name is the *dharma* of the age (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 5, verse 32) —
+> Subheading: The saṅkīrtana of Kṛṣṇa’s name is the dharma of the age (*Śrīmad-Bhāgavatam*, Canto 11, Chapter 5, verse 32) —
 
 “In which *yuga* and in what way does Bhagavān descend?” In answer to this question of King Nimi, Śrī Karabhājana speaks of the source of avatāras in the age of Kali and of how He is worshipped:
 
@@ -206,17 +206,17 @@ In Śrī Baladeva Vidyābhūṣaṇa’s commentary on the *Viṣṇu-sahasra-n�
 
 ## 63
 
-> Subheading: Whoever sees Gaura is freed of sin and attains *prema* —
+> Subheading: Whoever sees Gaura is freed of sin and attains prema —
 
 ## 64
 
-> Subheading: Other avatāras have weapons and armies, but the Gaura-avatāra has devotees and *saṅkīrtana* —
+> Subheading: Other avatāras have weapons and armies, but the Gaura-avatāra has devotees and saṅkīrtana —
 
 ## 65
 
 > Subheading: (*Stava-mālā*, the first *Caitanyāṣṭaka*, verse 1)
 
-**praṇayitāṁ vahadbhiḥ** (bearing love, that is, intent on nourishing their own attachment) **dhṛta-manuja-kāyaiḥ** (who have taken human bodies) **giriśa-parameṣṭhi-prabhṛtibhiḥ** (Śiva, the four-headed [Brahmā] and others) **gīr-vāṇaiḥ** (by the gods) **sadā** (eternally) **upāsyaḥ** (worshipped) **sva-bhaktebhyaḥ** (to His own intimates — Svarūpa, Rāmānanda and others) **śuddhām** (pure — free of other desires, not covered by *karma*, *jñāna* and the like) **nija-bhajana-mudrām** (the way of worshipping Him) **upadiśan** **saḥ caitanyaḥ kiṁ punaḥ api me** (my) **dṛśoḥ padaṁ yāsyati** (will reach)?
+**praṇayitāṁ vahadbhiḥ** (bearing love, that is, intent on nourishing their own attachment) **dhṛta-manuja-kāyaiḥ** (who have taken human bodies) **giriśa-parameṣṭhi-prabhṛtibhiḥ** (Śiva, the four-headed [Brahmā] and others) **gīr-vāṇaiḥ** (by the gods) **sadā** (eternally) **upāsyaḥ** (worshipped) **sva-bhaktebhyaḥ** (to His own intimates — Svarūpa, Rāmānanda and others) **śuddhām** (pure — free of other desires, not covered by karma, jñāna and the like) **nija-bhajana-mudrām** (the way of worshipping Him) **upadiśan** **saḥ caitanyaḥ kiṁ punaḥ api me** (my) **dṛśoḥ padaṁ yāsyati** (will reach)?
 
 ## 68
 
@@ -230,7 +230,7 @@ See Ādi 2.30.
 
 ## 70
 
-In the realm of *māyā*, *māyā* divides an object and it becomes a part. With *viṣṇu-tattva* it is not so: it cannot come under the control of *māyā*. Therefore, though He is a part, He is not divided either in His nature as Viṣṇu or in His substance. The example of a lamp shows this: another lamp is lit from the original lamp, yet in substance they do not differ. In the same way all the *viṣṇu-tattvas* appear from Baladeva, the *svayaṁ-prakāśa*, or *vilāsa*, of Kṛṣṇa, the original form (*svayaṁ-rūpa*). Their pastimes differ, but in substance they are one. The separated parts (*vibhinnāṁśa*), however — Brahmā and Śiva — can come under the control of *māyā*, and therefore they have acquired a capacity for transformation. All those Viṣṇus are full of spirit and bliss, and all are masters of *māyā*: *māyā* has no power over them. On other *tattvas* *māyā* does act. As curd is a transformation of milk, so are *śambhu-tattva* and the rest.
+In the realm of māyā, māyā divides an object and it becomes a part. With *viṣṇu-tattva* it is not so: it cannot come under the control of māyā. Therefore, though He is a part, He is not divided either in His nature as Viṣṇu or in His substance. The example of a lamp shows this: another lamp is lit from the original lamp, yet in substance they do not differ. In the same way all the *viṣṇu-tattvas* appear from Baladeva, the *svayaṁ-prakāśa*, or *vilāsa*, of Kṛṣṇa, the original form (*svayaṁ-rūpa*). Their pastimes differ, but in substance they are one. The separated parts (*vibhinnāṁśa*), however — Brahmā and Śiva — can come under the control of māyā, and therefore they have acquired a capacity for transformation. All those Viṣṇus are full of spirit and bliss, and all are masters of māyā: *māyā* has no power over them. On other *tattvas* māyā does act. As curd is a transformation of milk, so are *śambhu-tattva* and the rest.
 
 ## 71
 
@@ -238,7 +238,7 @@ In the realm of *māyā*, *māyā* divides an object and it becomes a part. With
 
 ## 72
 
-*Pāṣaṇḍa*: those who imagine that *śiva-tattva* and the like, which are subject to *māyā*, are equal to *viṣṇu-tattva*, the master of *māyā*. They do not realise that Bhagavān’s pastimes are eternal, and they regard even the eternal truth of devotion as mere activity, divided by time and impermanent. Viṣṇu and His own associates labour to rid such *pāṣaṇḍīs* of their wicked intelligence.
+*Pāṣaṇḍa*: those who imagine that *śiva-tattva* and the like, which are subject to māyā, are equal to *viṣṇu-tattva*, the master of māyā. They do not realise that Bhagavān’s pastimes are eternal, and they regard even the eternal truth of devotion as mere activity, divided by time and impermanent. Viṣṇu and His own associates labour to rid such *pāṣaṇḍīs* of their wicked intelligence.
 
 ## 73
 
@@ -246,21 +246,21 @@ In the realm of *māyā*, *māyā* divides an object and it becomes a part. With
 
 ## 74
 
-> Subheading: The devotees are the army, and *kīrtana* of Kṛṣṇa is the weapon —
+> Subheading: The devotees are the army, and kīrtana of Kṛṣṇa is the weapon —
 
 ## 76
 
-> Subheading: Gaurasundara is the very father of *kīrtana* of Kṛṣṇa —
+> Subheading: Gaurasundara is the very father of kīrtana of Kṛṣṇa —
 
 ## 77
 
-> Subheading: As a father is pleased when his son is honoured, so Gaura is pleased by *kīrtana* of Kṛṣṇa —
+> Subheading: As a father is pleased when his son is honoured, so Gaura is pleased by kīrtana of Kṛṣṇa —
 
 ## 78
 
 > Subheading: To think the Lord in the form of the holy name equal to material activities is godlessness —
 
-“To consider [the name] equal to all auspicious activities — *dharma*, vows, renunciation, sacrifices and the like — is also a blunder.” This eighth offence against the holy name must be avoided in every way. “Giving away ten million cows during a solar eclipse, living for a *kalpa* by the waters of the Gaṅgā at Prayāga, performing ten thousand sacrifices, giving away as much gold as there is in Mount Meru — none of this equals even a hundredth part of glorifying Govinda.”
+“To consider [the name] equal to all auspicious activities — dharma, vows, renunciation, sacrifices and the like — is also a blunder.” This eighth offence against the holy name must be avoided in every way. “Giving away ten million cows during a solar eclipse, living for a *kalpa* by the waters of the Gaṅgā at Prayāga, performing ten thousand sacrifices, giving away as much gold as there is in Mount Meru — none of this equals even a hundredth part of glorifying Govinda.”
 
 ## 80
 
@@ -354,7 +354,7 @@ Gaura is Kṛṣṇa, and this is the aim of the scriptures. One can understand 
 
 > Subheading: The devotee’s self-surrender defeats the Unconquerable (words of the *Viṣṇu-dharma* and the *Gautamīya-tantra*) —
 
-**bhakta-vatsalaḥ** (Bhagavān, devoted to His own) **tulasī-dala-mātreṇa** (with merely a *tulasī* leaf, without sandal paste, mantras and the like) **jalasya culukena** (with a mouthful of water) **vā bhaktebhyaḥ ātmānaṁ vikrīṇīte** (places Himself in their power).
+**bhakta-vatsalaḥ** (Bhagavān, devoted to His own) **tulasī-dala-mātreṇa** (with merely a tulasī leaf, without sandal paste, mantras and the like) **jalasya culukena** (with a mouthful of water) **vā bhaktebhyaḥ ātmānaṁ vikrīṇīte** (places Himself in their power).
 
 ## 109
 
@@ -364,7 +364,7 @@ Gaura is Kṛṣṇa, and this is the aim of the scriptures. One can understand 
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 3, Chapter 9, verse 11)
 
-Having attained the *darśana* and mercy of Bhagavān through austerity, Brahmā, wishing to create, offers Him prayers:
+Having attained the darśana and mercy of Bhagavān through austerity, Brahmā, wishing to create, offers Him prayers:
 
 **nanu** (O) **nātha** (O Lord) **śrutekṣita-pathaḥ** (He whose path is seen through *śruta*, hearing the conclusions of scripture) **tvaṁ puṁsāṁ bhakti-yoga-paribhāvita-hṛt-saroja** (in the lotus of the heart, purified, made fit, by *bhakti-yoga*, that is, by *prema*) **āsse** (You dwell). **dhiyā yad yad vibhāvayanti** (contemplate), **[he] urugāya** (O You who are sung of in many ways — Urukrama), **sad-anugrahāya** (to show mercy to the *sat*, the devotees) **tat tad vapuḥ** (body) **praṇayase** (You bring fully near to them, You manifest).
 

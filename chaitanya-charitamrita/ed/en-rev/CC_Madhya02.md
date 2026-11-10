@@ -945,7 +945,7 @@ of mocking  words  the manner  pique  pride  veiled praise
 kabhu nindā, kabhu vā sammāna  
 sometimes  censure  sometimes  even  honour
 
-(66) The signs of madness made Kṛṣṇa appear before Him, and, absorbed in feeling, He was seized by loving pique (*praṇaya-māna*). His words turned mocking, sulky and proud, with praise in the guise of blame: now He censured, now He honoured.[^25]
+(66) The signs of divine madness made Kṛṣṇa appear before Him, and, absorbed in feeling, He was seized by loving pique (*praṇaya-māna*). His words turned mocking, sulky and proud, with praise in the guise of blame: now He censured, now He honoured.[^25]
 
 তুমি দেব — ক্রীড়া-রত, ভুবনের নারী যত,  
 তাহে কর অভীষ্ট ক্রীড়ন ৷  
@@ -1313,7 +1313,7 @@ remains  if  of life a remainder  I shall expand  of the pastimes  the rest
 yadi mahāprabhura kṛpā haya  
 if  Mahāprabhu’s  mercy  comes
 
-(89) I have described something of the *sūtras* of the final pastimes, and my heart wishes to expand them. If some life remains to me and Mahāprabhu’s mercy comes, I shall describe the rest of the pastimes in detail.
+(89) I have described something of the sūtras of the final pastimes, and my heart wishes to expand them. If some life remains to me and Mahāprabhu’s mercy comes, I shall describe the rest of the pastimes in detail.
 
 আমি বৃদ্ধ জরাতুর, লিখিতে কাঁপয়ে কর,  
 মনে কিছু স্মরণ না হয় ৷  
@@ -1345,7 +1345,7 @@ in the meantime  I die  if  to describe  not  I can  then
 ei līlā bhakta-gaṇa-dhana  
 these  pastimes  of the devotees  the wealth
 
-(91) Within the *sūtras* I have described something of this essence of the final pastimes, expanding it a little. If I die before I can describe it, these pastimes will remain the wealth of the devotees.
+(91) Within the sūtras I have described something of this essence of the final pastimes, expanding it a little. If I die before I can describe it, these pastimes will remain the wealth of the devotees.
 
 সংক্ষেপে এই সূত্র কৈল, যেই ইঁহা না লিখিল,  
 আগে তাহা করিব বিচার ৷  
@@ -1361,7 +1361,7 @@ if  so many  days  I live  Mahāprabhu’s  mercy  comes
 icchā bhari’ kariba vistāra  
 to my heart’s content  I shall make  expansion
 
-(92) I have made these *sūtras* in brief; what I have not written here I shall consider later. If I live so long and Mahāprabhu’s mercy comes, I shall expand it to my heart’s content.
+(92) I have made these sūtras in brief; what I have not written here I shall consider later. If I live so long and Mahāprabhu’s mercy comes, I shall expand it to my heart’s content.
 
 ছোট বড় ভক্তগণ, বন্দোঁ সবার চরণ,  
 সবে মোরে করহ সন্তোষ ৷  
@@ -1413,7 +1413,7 @@ of it  a particle  tells  Kṛṣṇadāsa
 
 ---
 
-[^1]: *Anubhāṣya*: the final pastimes are the Lord’s life in sannyāsa; Gaura is the Lord who has taken on the feelings of the gopīs; *pralāpa* is the speech of madness born of separation from the Beloved. Heading in the edition: “The Lord’s raving and other states in separation from Kṛṣṇa”.
+[^1]: *Anubhāṣya*: the final pastimes are the Lord’s life in sannyāsa; Gaura is the Lord who has taken on the feelings of the gopīs; *pralāpa* is the speech of divine madness born of separation from the Beloved. Heading in the edition: “The Lord’s raving and other states in separation from Kṛṣṇa”.
 
 [^2]: *Anubhāṣya*: bewildered actions — *udghūrṇā*; raving speech — the ten kinds of mad speech, beginning with *citra-jalpa*.
 
@@ -1457,7 +1457,7 @@ of it  a particle  tells  Kṛṣṇadāsa
 
 [^22]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): *sandhi* is the joining of two feelings, alike or different; *śābalya*, their clash with one another; *autsukya* — eagerness, *cāpalya* — restlessness, *dainya* — humility, *roṣa* — anger, *amarṣa* — indignation.
 
-[^23]: *Amṛta-pravāha-bhāṣya*: *divyonmāda* is a wondrous state of prema in the *mohana* phase of bhāva, resembling delusion.
+[^23]: *Amṛta-pravāha-bhāṣya*: *divyonmāda* is a wondrous state of prema in the *mohana* phase of *bhāva*, resembling delusion.
 
 [^24]: The names of this verse are explained in order in verses 67–71. *Anubhāṣya*: sole Friend of the world — sole guardian of the land of Vraja; Fickle One — He who acts as He pleases; Lover — He who gives joy to the gopīs.
 

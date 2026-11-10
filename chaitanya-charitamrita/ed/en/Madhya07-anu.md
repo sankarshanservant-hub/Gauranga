@@ -12,7 +12,7 @@
 
 ## 4
 
-> Subheading: In Māgha, *sannyāsa*; in Phālguna, residence in Purī-dhāma; in Caitra, the deliverance of Sārvabhauma; in Vaiśākha, the desire to travel —
+> Subheading: In Māgha, sannyāsa; in Phālguna, residence in Purī-dhāma; in Caitra, the deliverance of Sārvabhauma; in Vaiśākha, the desire to travel —
 
 ## 7
 
@@ -44,13 +44,13 @@ See Madhya 9.299–300.
 
 ## 24
 
-[The Lord says:] “To observe the *dharma* of *sannyāsa* I bathe three times a day even in winter, and I lie on the ground without a bed. Seeing this, Mukunda is grieved. I know that grief has entered Mukunda’s heart because of Me, and that makes Me doubly sad.”
+[The Lord says:] “To observe the dharma of sannyāsa I bathe three times a day even in winter, and I lie on the ground without a bed. Seeing this, Mukunda is grieved. I know that grief has entered Mukunda’s heart because of Me, and that makes Me doubly sad.”
 
 ## 25
 
 > Subheading: The Lord hints at the independence of Dāmodara the *brahmacārī* —
 
-A *sannyāsī* is the guru of a *brahmacārī*. Therefore it is improper for a *brahmacārī* to instruct a *sannyāsī*.
+A sannyāsī is the guru of a *brahmacārī*. Therefore it is improper for a *brahmacārī* to instruct a sannyāsī.
 
 ## 26
 
@@ -92,15 +92,15 @@ The qualities of the devotees described above had bound the Lord. These very qua
 
 ## 37–38
 
-Both of the Lord’s hands were occupied counting the names He chanted by number (*saṅkhyā-nāma*). Therefore, if others did not carry the *kamaṇḍalu*, the outer cloth and the rest, the Lord would not have the things He needed when He needed them. And when He lost consciousness in the rapture of *prema*, someone was needed to look after the things.
+Both of the Lord’s hands were occupied counting the names He chanted by number (*saṅkhyā-nāma*). Therefore, if others did not carry the *kamaṇḍalu*, the outer cloth and the rest, the Lord would not have the things He needed when He needed them. And when He lost consciousness in the rapture of prema, someone was needed to look after the things.
 
-On how Śrī Mahāprabhu counted the names He chanted by number, one should study the words of the *Śrī Caitanya-candrāmṛta*: “With hands trembling under the weight of *prema*, He ties knots in the cord at His waist to keep count, chanting the names ‘Hare Kṛṣṇa’ that bring blessing to His people…” — and the verse of the *Caitanyāṣṭaka* in the *Stava-mālā*: “He loudly calls ‘Hare Kṛṣṇa,’ His tongue quivering; His hand is adorned by a shining waist-cord, beautiful with a row of knots tied to count the names…”
+On how Śrī Mahāprabhu counted the names He chanted by number, one should study the words of the *Śrī Caitanya-candrāmṛta*: “With hands trembling under the weight of prema, He ties knots in the cord at His waist to keep count, chanting the names ‘Hare Kṛṣṇa’ that bring blessing to His people…” — and the verse of the *Caitanyāṣṭaka* in the *Stava-mālā*: “He loudly calls ‘Hare Kṛṣṇa,’ His tongue quivering; His hand is adorned by a shining waist-cord, beautiful with a row of knots tied to count the names…”
 
 ## 39
 
-> Subheading: A request to take the *brāhmaṇa* Kṛṣṇadāsa along —
+> Subheading: A request to take the brāhmaṇa Kṛṣṇadāsa along —
 
-This *brāhmaṇa*, Kālā Kṛṣṇadāsa, and the Kālā Kṛṣṇadāsa of Ādi 11.37 are two different persons. The latter is an eternally perfect friend from Vraja, one of the twelve *gopālas*, for whom Nityānanda is his very life. The *brāhmaṇa* mentioned here later went to Gauḍa (Madhya, Chapter 10, 62–74).
+This brāhmaṇa, Kālā Kṛṣṇadāsa, and the Kālā Kṛṣṇadāsa of Ādi 11.37 are two different persons. The latter is an eternally perfect friend from Vraja, one of the twelve *gopālas*, for whom Nityānanda is his very life. The brāhmaṇa mentioned here later went to Gauḍa (Madhya, Chapter 10, 62–74).
 
 ## 41
 
@@ -164,9 +164,9 @@ This *brāhmaṇa*, Kālā Kṛṣṇadāsa, and the Kālā Kṛṣṇadāsa of 
 
 ## 63
 
-***Śūdra*** — in the society of Utkala the Karaṇa caste is known as “*śaukra-śūdras*” (*śūdras* by birth). Śrī Rāmānanda was born in the Karaṇa caste. Therefore in the world’s eyes he was a *śaukra-śūdra*, but in truth he was a *brāhmaṇa* — or rather a Vaiṣṇava *paramahaṁsa*, the guru of *brāhmaṇas*.
+***Śūdra*** — in the society of Utkala the Karaṇa caste is known as “*śaukra-śūdras*” (*śūdras* by birth). Śrī Rāmānanda was born in the Karaṇa caste. Therefore in the world’s eyes he was a *śaukra-śūdra*, but in truth he was a brāhmaṇa — or rather a Vaiṣṇava *paramahaṁsa*, the guru of brāhmaṇas.
 
-***Viṣayī*** — one absorbed in talk of wife, sons and the like, or one who engages the knowledge-acquiring senses with their objects — external forms, tastes, smells, sounds and touch — and is intoxicated by them. Outwardly Śrī Rāmānanda was not a *sannyāsī* wearing a *kaupīna*. Therefore in the world’s eyes he was a king’s servant, a *viṣayī*; in truth he was a *sannyāsī* — a *vidvat-* or *narottama-sannyāsī*.
+***Viṣayī*** — one absorbed in talk of wife, sons and the like, or one who engages the knowledge-acquiring senses with their objects — external forms, tastes, smells, sounds and touch — and is intoxicated by them. Outwardly Śrī Rāmānanda was not a sannyāsī wearing a *kaupīna*. Therefore in the world’s eyes he was a king’s servant, a *viṣayī*; in truth he was a sannyāsī — a *vidvat-* or *narottama-sannyāsī*.
 
 Sārvabhauma Bhaṭṭācārya had not been a Vaiṣṇava before, yet even then he had perceived Rāmānanda Rāya’s natural (*naisargika*) Vaiṣṇava nature. And after he became a devotee by Śrī Prabhu’s mercy, he reflected on Rāmānanda’s words and understood him to be an “*adhikārī rasika-bhakta*” (a qualified devotee who knows the taste of *rasa*).
 
@@ -192,7 +192,7 @@ The *jñānīs* and *karmīs* who are averse to Caitanya — the *prakṛti-vād
 
 > Subheading: The Lord honours a Vaiṣṇava householder —
 
-Outwardly a servant of Kṛṣṇa may grace the *gṛhastha-āśrama*, but in truth he is not on a level with ordinary *go-dāsas* (servants of the senses), *gṛhavratas* or *gṛhamedhīs*. “When I see *bhajana* at home, the home appears as Goloka” (Ṭhākura Bhaktivinoda’s *Śaraṇāgati*) — only a Vaiṣṇava *gṛhastha* has the right to proclaim these words with body, mind and speech. Therefore a genuine, pure Vaiṣṇava *gṛhastha* who has taken shelter at Śrī Caitanya’s feet is worthy of obeisance even from a *sannyāsī* and is his guru. The Lord showed this by begging Sārvabhauma’s blessing, to teach the *jīvas* who do not know the glory of worshipping Kṛṣṇa (*kṛṣṇa-bhajana*).
+Outwardly a servant of Kṛṣṇa may grace the *gṛhastha-āśrama*, but in truth he is not on a level with ordinary *go-dāsas* (servants of the senses), *gṛhavratas* or *gṛhamedhīs*. “When I see *bhajana* at home, the home appears as Goloka” (Ṭhākura Bhaktivinoda’s *Śaraṇāgati*) — only a Vaiṣṇava *gṛhastha* has the right to proclaim these words with body, mind and speech. Therefore a genuine, pure Vaiṣṇava *gṛhastha* who has taken shelter at Śrī Caitanya’s feet is worthy of obeisance even from a sannyāsī and is his guru. The Lord showed this by begging Sārvabhauma’s blessing, to teach the jīvas who do not know the glory of worshipping Kṛṣṇa (*kṛṣṇa-bhajana*).
 
 ## 70
 
@@ -236,7 +236,7 @@ See Ādi, Chapter 7, 25.
 
 ## 83
 
-> Subheading: Seeing that the people do not want to let the Lord go, He is led away on the pretext of honouring *prasāda* —
+> Subheading: Seeing that the people do not want to let the Lord go, He is led away on the pretext of honouring prasāda —
 
 ***Atikāla*** — because much time had passed.
 
@@ -308,7 +308,7 @@ See the *Anubhāṣya* on Madhya 3.212.
 
 ## 105
 
-> Subheading: The Lord delivers many fortunate *jīvas* —
+> Subheading: The Lord delivers many fortunate jīvas —
 
 ## 106
 
@@ -330,7 +330,7 @@ See the *Anubhāṣya* on Madhya 3.212.
 
 > Subheading: Only faith in the transcendental pastimes brings eternal welfare; otherwise knowledge born of the senses leads to utter ruin —
 
-The transcendental pastimes of Śrī Kṛṣṇa Caitanya are free from all cheating (*projjhita-kaitava*) and from all trickery (*nirasta-kuhaka*). They are beyond matter, full of spiritual majesty, and they grant the *jīvas* their eternal, highest welfare. Therefore they are the true reality. They are not a charlatan’s show rooted in malice (*hiṁsā*), born of the *guṇa*-made conceptions of cheaters and cheated bound by *māyā*. Charlatanry and tricksters throw both the cheater and the cheated away from service to Kṛṣṇa, and so both meet with utter ruin.
+The transcendental pastimes of Śrī Kṛṣṇa Caitanya are free from all cheating (*projjhita-kaitava*) and from all trickery (*nirasta-kuhaka*). They are beyond matter, full of spiritual majesty, and they grant the jīvas their eternal, highest welfare. Therefore they are the true reality. They are not a charlatan’s show rooted in malice (*hiṁsā*), born of the *guṇa*-made conceptions of cheaters and cheated bound by māyā. Charlatanry and tricksters throw both the cheater and the cheated away from service to Kṛṣṇa, and so both meet with utter ruin.
 
 ## 113
 
@@ -338,7 +338,7 @@ The transcendental pastimes of Śrī Kṛṣṇa Caitanya are free from all chea
 
 ***Kūrma-sthāna*** — on the B. N. R. line, in the Ganjam district, eight miles east of “Chicacole Road” station, lies “Kūrmācala,” or “Śrīkūrmam.” It is the most revered *tīrtha* of the Telugu-speaking people (*Ganjam Manual*). The Deity of Kūrma resides there. In the eleventh century of the Śaka era Śrī Jagannāthadeva carried Śrī Rāmānuja to Kūrmācala. Rāmānuja then took the Deity of Kūrma for a form of Śiva and fasted; later he understood that it was a form of Viṣṇu and revealed the service of Kūrmadeva. So it is told in the *Prapannāmṛta*, chapter 36:
 
-“That very night Śrī Hari, by His *yogamāyā*, swiftly brought Lakṣmaṇācārya, the lord of *yogīs*, to Śrī Kūrma. When that night turned to dawn, the wise teacher Lakṣmaṇa suddenly arose, calling, ‘Hari! Hari!’ He looked carefully in all ten directions, his mind troubled with anxiety. Learning that this was the holy place of Śrī Kūrma, he was amazed. He took the Lord of Śrī Kūrma for what is called a Śiva-*liṅga*, and he spent one day there fasting… In a dream Bhagavān, the Lord of Śrī Kūrma, pleased with him, mercifully spoke auspicious words to the king of ascetics: ‘O best of ascetics! Through the fault of ignorance all people, their eyes blinded by *māyā*, falsely call Me a Śiva-*liṅga*. I shall dwell here in My own true form, holding conch, disc and club. Venerable Lakṣmaṇa, now look at Me carefully… Stay here a few days, worshipping Me.’ Rising from the dream, satisfied and full of wonder, the king of *yogīs* did everything just as he had been told. He worshipped the Lord of Kūrma, took the food offered to Him, and lived happily there at His feet. From that time on, owing to the glory of the coming of the king of ascetics, the great Śrī Kūrma became known everywhere as a place of Viṣṇu.”
+“That very night Śrī Hari, by His *yogamāyā*, swiftly brought Lakṣmaṇācārya, the lord of yogīs, to Śrī Kūrma. When that night turned to dawn, the wise teacher Lakṣmaṇa suddenly arose, calling, ‘Hari! Hari!’ He looked carefully in all ten directions, his mind troubled with anxiety. Learning that this was the holy place of Śrī Kūrma, he was amazed. He took the Lord of Śrī Kūrma for what is called a Śiva-*liṅga*, and he spent one day there fasting… In a dream Bhagavān, the Lord of Śrī Kūrma, pleased with him, mercifully spoke auspicious words to the king of ascetics: ‘O best of ascetics! Through the fault of ignorance all people, their eyes blinded by māyā, falsely call Me a Śiva-*liṅga*. I shall dwell here in My own true form, holding conch, disc and club. Venerable Lakṣmaṇa, now look at Me carefully… Stay here a few days, worshipping Me.’ Rising from the dream, satisfied and full of wonder, the king of yogīs did everything just as he had been told. He worshipped the Lord of Kūrma, took the food offered to Him, and lived happily there at His feet. From that time on, owing to the glory of the coming of the king of ascetics, the great Śrī Kūrma became known everywhere as a place of Viṣṇu.”
 
 Later this temple was under the supervision of the Śrī Mādhva *maṭha*, in the domain of the king of Vijayanagara. A stone slab has been found bearing an inscription of nine verses that mentions the guru of the Śrī Mādhva-sampradāya, Śrī Narahari Tīrtha (Śaka 1203). Here is its Bengali translation:
 
@@ -350,7 +350,7 @@ Verse 3. Ānandatīrtha received initiation (*saṁskāra*) from him. With the *
 
 Verse 4. His garland of words is especially dear to Viṣṇu and able to grant perfection — the attainment of Vaikuṇṭha.
 
-Verse 5. His teachings on *bhakti* are able to give a person the lotus feet of Hari.
+Verse 5. His teachings on bhakti are able to give a person the lotus feet of Hari.
 
 Verse 6. Narahari Tīrtha was initiated by him alone and ruled in the land of Kaliṅga.
 
@@ -386,25 +386,25 @@ Verse 9. In the auspicious Śaka year 1203, in the month of Vaiśākha, in the b
 
 ## 121
 
-> Subheading: A *brāhmaṇa* named “Kūrma” worships the Lord —
+> Subheading: A brāhmaṇa named “Kūrma” worships the Lord —
 
 ## 126
 
-> Subheading: The *brāhmaṇa* Kūrma begs to follow the Lord —
+> Subheading: The brāhmaṇa Kūrma begs to follow the Lord —
 
 ## 127
 
-> Subheading: The Lord orders everyone to preach Kṛṣṇa’s name and *bhakti* as *ācāryas* —
+> Subheading: The Lord orders everyone to preach Kṛṣṇa’s name and bhakti as *ācāryas* —
 
 ## 130
 
 There are people who resolve to give up everything and serve Śrīman Mahāprabhu with exclusive surrender. Bhagavān Gaurasundara accepts their *bhajana* and gives them this teaching: “Stay at home — that is, give up the conceit of being ‘wholly devoted to *bhajana*.’ With the humility of one living in a household, chant Kṛṣṇa’s name constantly and preach the pure *bhajana* of Kṛṣṇa’s name.” “I am the best of Vaiṣṇavas; if I accept disciples, pride will ruin my *bhajana*” — one should give up this inflated devotee’s conceit. If one humbly practices pure chanting of the name and does the work of a guru — preaching the pure name — then the waves of worldly objects in the form of mundane fame cannot overwhelm him.
 
-Śrī Rūpa, Śrī Sanātana, Śrī Jīva, Śrī Raghunātha dāsa and the Lord’s other associates, the great souls, as well as Śrīman Narottama, Śrīla Madhva, Rāmānuja and others, accepted many disciples and gave instruction by writing books. Many foolish people imagine that all this is an obstacle to *bhakti* and a wave of worldly objects, and so they become offenders at the feet of genuine *akiñcana* devotees. They should carefully consider this order of the Lord and give up their petty, pride-filled show of humility and, without trying to take revenge on those averse to Hari, follow Gaura and increase their own *bhajana*. For this, Śrī Gaurāṅga — the guru of the world, the *ācārya* — gives exactly this teaching.
+Śrī Rūpa, Śrī Sanātana, Śrī Jīva, Śrī Raghunātha dāsa and the Lord’s other associates, the great souls, as well as Śrīman Narottama, Śrīla Madhva, Rāmānuja and others, accepted many disciples and gave instruction by writing books. Many foolish people imagine that all this is an obstacle to bhakti and a wave of worldly objects, and so they become offenders at the feet of genuine *akiñcana* devotees. They should carefully consider this order of the Lord and give up their petty, pride-filled show of humility and, without trying to take revenge on those averse to Hari, follow Gaura and increase their own *bhajana*. For this, Śrī Gaurāṅga — the guru of the world, the ācārya — gives exactly this teaching.
 
 ## 131
 
-> Subheading: Until His return to Purī, the Lord orders everyone to preach *bhakti* as *ācāryas* —
+> Subheading: Until His return to Purī, the Lord orders everyone to preach bhakti as *ācāryas* —
 
 ## 134
 
@@ -416,7 +416,7 @@ There are people who resolve to give up everything and serve Śrīman Mahāprabh
 
 ## 136
 
-> Subheading: The leper *brāhmaṇa* Vāsudeva comes to Kūrma’s house to see the Lord —
+> Subheading: The leper brāhmaṇa Vāsudeva comes to Kūrma’s house to see the Lord —
 
 ## 139
 
@@ -424,7 +424,7 @@ There are people who resolve to give up everything and serve Śrīman Mahāprabh
 
 ## 141
 
-> Subheading: The Lord embraces him, and the *brāhmaṇa* is freed from leprosy and becomes beautiful —
+> Subheading: The Lord embraces him, and the brāhmaṇa is freed from leprosy and becomes beautiful —
 
 ## 142
 
@@ -436,7 +436,7 @@ See Ādi-līlā, Chapter 17, 78.
 
 ## 147
 
-> Subheading: The Lord orders him to become an *ācārya*, teach Kṛṣṇa’s name and deliver the *jīvas* —
+> Subheading: The Lord orders him to become an ācārya, teach Kṛṣṇa’s name and deliver the jīvas —
 
 ## 149
 
@@ -450,7 +450,7 @@ See Ādi-līlā, Chapter 17, 78.
 
 > Subheading: Simply by hearing Caitanya’s pastimes, an unconscious servant attains Caitanya —
 
-***Ei līlā*** (“these pastimes”). Śrī Kṛṣṇa Caitanya awakens consciousness (*caitanya*) in unconscious (*acaitanya*) *jīvas*. Having gained consciousness and turned towards Kṛṣṇa’s service, these *jīvas* in turn, as *ācāryas*, awaken consciousness in other unconscious *jīvas* and turn them towards Kṛṣṇa’s service. In this way — by increasing the family of Acyuta (*acyuta-gotra*), that is, by spreading the path of *śruti* — Śrī Gaurasundara displays in His pastimes the glory of His descent.
+***Ei līlā*** (“these pastimes”). Śrī Kṛṣṇa Caitanya awakens consciousness (*caitanya*) in unconscious (*acaitanya*) jīvas. Having gained consciousness and turned towards Kṛṣṇa’s service, these jīvas in turn, as *ācāryas*, awaken consciousness in other unconscious jīvas and turn them towards Kṛṣṇa’s service. In this way — by increasing the family of Acyuta (*acyuta-gotra*), that is, by spreading the path of *śruti* — Śrī Gaurasundara displays in His pastimes the glory of His descent.
 
 ## 153
 

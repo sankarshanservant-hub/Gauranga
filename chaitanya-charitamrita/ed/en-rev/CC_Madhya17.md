@@ -2481,9 +2481,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^35]: *Anubhāṣya*: by birth this pure devotee did not belong to those from whose hands water may be taken, yet he was fixed in the truth and in *daiva-varṇāśrama*, favourable to bhakti. So he fearlessly calls “fools” and “wicked” those who oppose Mahāprabhu and pure bhakti and see caste in a Vaiṣṇava.
 
-[^36]: *Anubhāṣya*: the sādhu is the *mahājana*. A mind that relies on the senses cannot recognise the true *mahājana*; in the age of Kali the *mahājanas* are the four ācāryas of the *sampradāyas* of pure Vaiṣṇavas, and in our *sampradāya* — Śrī Svarūpa Dāmodara, Śrī Rūpa and Sanātana and the followers of Śrī Rūpa.
+[^36]: *Anubhāṣya*: the sādhu is the *mahājana*. A mind that relies on the senses cannot recognise the true *mahājana*; in the age of Kali the *mahājanas* are the four ācāryas of the sampradāyas of pure Vaiṣṇavas, and in our sampradāya — Śrī Svarūpa Dāmodara, Śrī Rūpa and Sanātana and the followers of Śrī Rūpa.
 
-[^37]: *Anubhāṣya*: *guhā* — the cave of the heart of the *sampradāya* of pure sādhus, hidden from the eyes of ordinary people; *mahājana* — the sādhu, the servant of Adhokṣaja. *Amṛta-pravāha-bhāṣya*: the truth of dharma is hard to grasp merely by reading the scriptures, so all should follow the path that one whom the sādhus have accepted as a *mahājana* has called “the path of the scriptures”.
+[^37]: *Anubhāṣya*: *guhā* — the cave of the heart of the sampradāya of pure sādhus, hidden from the eyes of ordinary people; *mahājana* — the sādhu, the servant of Adhokṣaja. *Amṛta-pravāha-bhāṣya*: the truth of dharma is hard to grasp merely by reading the scriptures, so all should follow the path that one whom the sādhus have accepted as a *mahājana* has called “the path of the scriptures”.
 
 [^38]: *Amṛta-pravāha-bhāṣya*: the forests are the twelve forests of Vraja: east of the Yamunā — Bhadravana, Bilvavana, Lohavana, Bhāṇḍīravana and Mahāvana; west of it — Madhuvana, Tālavana, Kumudavana, Bahulāvana, Kāmavana, Khadiravana and Vṛndāvana.
 

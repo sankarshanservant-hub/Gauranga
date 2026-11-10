@@ -4,7 +4,7 @@
 
 > Subheading: By worshipping Gaura even the evil-minded gains a good mind — (*Hari-bhakti-vilāsa*, *vilāsa* 7, verse 1)
 
-**ku-manāḥ** (one whose mind is absorbed in objects other than Kṛṣṇa) **yasya** (of Caitanya-deva) **padābjayoḥ** (at the lotus feet) **su-mano-’rpaṇa-mātreṇa** (merely by offering *sumanas*, flowers, or else one’s own mind that is *su*, good, intent on serving Kṛṣṇa) **su-manastvaṁ** (a nature free of other desires, not covered by *jñāna*, karma and the like, and devoted to serving Kṛṣṇa, *kṛṣṇānuśīlana*) **hi** (certainly) **yāti** (attains), **taṁ caitanya-prabhum ahaṁ vande**.
+**ku-manāḥ** (one whose mind is absorbed in objects other than Kṛṣṇa) **yasya** (of Caitanya-deva) **padābjayoḥ** (at the lotus feet) **su-mano-’rpaṇa-mātreṇa** (merely by offering *sumanas*, flowers, or else one’s own mind that is *su*, good, intent on serving Kṛṣṇa) **su-manastvaṁ** (a nature free of other desires, not covered by jñāna, karma and the like, and devoted to serving Kṛṣṇa, *kṛṣṇānuśīlana*) **hi** (certainly) **yāti** (attains), **taṁ caitanya-prabhum ahaṁ vande**.
 
 ## 3
 
@@ -32,9 +32,9 @@ See the *Caitanya-bhāgavata*, Ādi, Chapters 4, 6, 7, 8, 9 and 10.
 
 > Subheading: He leads Mother Śacī to keep the Ekādaśī vow —
 
-Śrī Jīva Prabhu in the *Bhakti-sandarbha* (section 299): “In the *Skanda Purāṇa*: ‘One who eats on Ekādaśī is a killer of his mother, a killer of his father, a killer of his brother and a killer of his guru; he falls from Viṣṇuloka.’ Here fasting (*nirāhāratva*) for Vaiṣṇavas means only giving up the *mahā-prasāda* grain (*anna*), since eating anything else is always forbidden to them. In the *Agni Purāṇa*: ‘One should not eat on Ekādaśī; this vow is the great vow of the Vaiṣṇavas.’ This shows, first of all, that it is obligatory even for a non-Vaiṣṇava.”
+Śrī Jīva Prabhu in the *Bhakti-sandarbha* (section 299): “In the *Skanda Purāṇa*: ‘One who eats on Ekādaśī is a killer of his mother, a killer of his father, a killer of his brother and a killer of his guru; he falls from Viṣṇuloka.’ Here fasting (*nirāhāratva*) for Vaiṣṇavas means only giving up the mahā-prasāda grain (*anna*), since eating anything else is always forbidden to them. In the *Agni Purāṇa*: ‘One should not eat on Ekādaśī; this vow is the great vow of the Vaiṣṇavas.’ This shows, first of all, that it is obligatory even for a non-Vaiṣṇava.”
 
-Vaiṣṇavas never accept anything but *mahā-prasāda*, on any day or at any time. But on the day of Ekādaśī, giving up *mahā-prasāda* is precisely what is called “fasting” (*upavāsa*).
+Vaiṣṇavas never accept anything but mahā-prasāda, on any day or at any time. But on the day of Ekādaśī, giving up mahā-prasāda is precisely what is called “fasting” (*upavāsa*).
 
 ## 11
 
@@ -42,7 +42,7 @@ Vaiṣṇavas never accept anything but *mahā-prasāda*, on any day or at any t
 
 ## 12
 
-> Subheading: Viśvarūpa accepts *sannyāsa* —
+> Subheading: Viśvarūpa accepts sannyāsa —
 
 ## 13
 
@@ -50,7 +50,7 @@ Vaiṣṇavas never accept anything but *mahā-prasāda*, on any day or at any t
 
 ## 14
 
-> Subheading: When a son takes *sannyāsa* to serve Kṛṣṇa, the families of his mother and father are delivered —
+> Subheading: When a son takes sannyāsa to serve Kṛṣṇa, the families of his mother and father are delivered —
 
 ## 15
 
@@ -62,13 +62,13 @@ Vaiṣṇavas never accept anything but *mahā-prasāda*, on any day or at any t
 
 ## 17
 
-> Subheading: The meeting with Viśvarūpa and their conversation about the Lord’s *sannyāsa* —
+> Subheading: The meeting with Viśvarūpa and their conversation about the Lord’s sannyāsa —
 
 ## 23
 
 > Subheading: Miśra’s departure —
 
-The *Caitanya-bhāgavata* (Ādi, Chapter 8): “Some days passed in this way, and then the eternally perfect body of the best of Miśras departed from this world. At Miśra’s departure the Lord wept bitterly, as the best of the Raghus wept at Daśaratha’s departure. All this is full of the *rasa* of sorrow; to tell it in detail is painful, so I have told it briefly.”
+The *Caitanya-bhāgavata* (Ādi, Chapter 8): “Some days passed in this way, and then the eternally perfect body of the best of Miśras departed from this world. At Miśra’s departure the Lord wept bitterly, as the best of the Raghus wept at Daśaratha’s departure. All this is full of the rasa of sorrow; to tell it in detail is painful, so I have told it briefly.”
 
 ## 24
 
@@ -86,7 +86,7 @@ The *Caitanya-bhāgavata* (Ādi, Chapter 8): “Some days passed in this way, an
 
 > Subheading: [Words of *smṛti* (of the Lord?)]
 
-**gṛham** (the dwelling building) **gṛhaṁ na**, **gṛhiṇī** (the mistress who presides over the house, one’s partner in *dharma*) **eva gṛham ucyate**. **tayā** (with the wife) **sahitaḥ** (united) (a man) **sarvān puruṣārthān** (all the four goals — *dharma*, *artha*, *kāma*, *mokṣa* and the rest) **samaśnute** (attains). See the *Mahābhārata*, *Śānti-parva*, Chapter 144, verse 6.
+**gṛham** (the dwelling building) **gṛhaṁ na**, **gṛhiṇī** (the mistress who presides over the house, one’s partner in *dharma*) **eva gṛham ucyate**. **tayā** (with the wife) **sahitaḥ** (united) (a man) **sarvān puruṣārthān** (all the four goals — dharma, *artha*, *kāma*, *mokṣa* and the rest) **samaśnute** (attains). See the *Mahābhārata*, *Śānti-parva*, Chapter 144, verse 6.
 
 ## 28
 

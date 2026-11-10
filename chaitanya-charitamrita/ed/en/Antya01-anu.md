@@ -30,13 +30,13 @@ See Ādi 1.17.
 
 ## 10
 
-> Subheading: The *sūtras* of the Antya-līlā have already been given, in Madhya-līlā, Chapter 1 —
+> Subheading: The sūtras of the Antya-līlā have already been given, in Madhya-līlā, Chapter 1 —
 
 ***Pūrva-granthe*** (in the earlier part of the book) — in the first chapter of the Madhya-līlā.
 
 ## 12
 
-> Subheading: A promise to describe in detail the *sūtras* not mentioned before —
+> Subheading: A promise to describe in detail the sūtras not mentioned before —
 
 ## 13
 
@@ -74,11 +74,11 @@ See Ādi 1.17.
 
 ## 35
 
-***Nāndī.*** The *Nāṭaka-candrikā* says: “At the opening, in the prologue (*prastāvanā*), one should place an auspicious *nāndī*. It contains one of three things — a blessing, an obeisance, or an indication of the subject. It consists of eight, ten, or twelve *padas*, is usually marked with a name of the moon, and shines with auspicious words. Auspicious things are the discus, the lotus, the *cakora* bird, the night lotus (*kumuda*), and so on.” The *Sāhitya-darpaṇa*, in its sixth chapter, at number 282, says: “It is called *nāndī* because in it praise of the gods, the *brāhmaṇas*, kings and others is offered together with a blessing.”
+***Nāndī.*** The *Nāṭaka-candrikā* says: “At the opening, in the prologue (*prastāvanā*), one should place an auspicious *nāndī*. It contains one of three things — a blessing, an obeisance, or an indication of the subject. It consists of eight, ten, or twelve *padas*, is usually marked with a name of the moon, and shines with auspicious words. Auspicious things are the discus, the lotus, the *cakora* bird, the night lotus (*kumuda*), and so on.” The *Sāhitya-darpaṇa*, in its sixth chapter, at number 282, says: “It is called *nāndī* because in it praise of the gods, the brāhmaṇas, kings and others is offered together with a blessing.”
 
 ## 36
 
-> Subheading: Śrī Rūpa sets out for Gauḍa with his younger brother and drafts the play in the form of *sūtras* —
+> Subheading: Śrī Rūpa sets out for Gauḍa with his younger brother and drafts the play in the form of sūtras —
 
 ## 37
 
@@ -118,7 +118,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 47
 
-> Subheading: The Lord comes unexpectedly to give Haridāsa His *darśana* —
+> Subheading: The Lord comes unexpectedly to give Haridāsa His darśana —
 
 ## 48
 
@@ -162,7 +162,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 59
 
-> Subheading: The Lord Himself gives Śrī Rūpa His *darśana* and *prasāda* every day —
+> Subheading: The Lord Himself gives Śrī Rūpa His darśana and prasāda every day —
 
 ## 60
 
@@ -184,7 +184,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 64
 
-> Subheading: Receiving the Lord’s remnants, the two dance, overwhelmed by *prema* —
+> Subheading: Receiving the Lord’s remnants, the two dance, overwhelmed by prema —
 
 ## 65
 
@@ -258,7 +258,7 @@ See Madhya 1.76.
 
 ## 82
 
-> Subheading: The Lord is overwhelmed by *prema* —
+> Subheading: The Lord is overwhelmed by prema —
 
 ## 83
 
@@ -316,7 +316,7 @@ See Madhya 1.76.
 
 ## 98
 
-> Subheading: Seeing a certain verse, the Lord is overwhelmed by *prema* —
+> Subheading: Seeing a certain verse, the Lord is overwhelmed by prema —
 
 ## 99
 
@@ -464,7 +464,7 @@ Now Śrī Rāmānanda asks about the subject of Śrī Rūpa’s play, the *Vidag
 
 See Ādi 3.4.
 
-Śrīmad Viśvanātha Cakravartī’s commentary on the *Vidagdha-mādhava*: “The idea is that without the manifestation (*sphūrti*) of Mahāprabhu one cannot taste the *rasa* of Hari’s pastimes. May Hari, the son of Śacī, appear in the cave of your heart; in the other sense, *hari* means a lion. This son of Śacī mercifully descended in Kali to bestow the treasure of devotion to Himself, that is, the wealth of service to Himself. What kind of treasure? ‘Never given before’ — given by no one before. But did not Kapiladeva and others earlier teach their mothers and others how to serve Bhagavān? To this it is said: although all *rasas* are present in it, in this treasure of *bhakti* the *rasa* is exalted and radiant (*ujjvala*); that is, a *bhakti* in which the *ujjvala-rasa* is foremost had never been taught. What is He like? Lit up by a host of rays more beautiful than even gold (*puraṭa*). This being so, just as a lion that has risen in a mountain cave kills the elephants there, so the lion who is the son of Śacī, risen in the cave of your heart, kills the elephants that are the diseases of the heart. This is the suggested meaning (*dhvani*).”
+Śrīmad Viśvanātha Cakravartī’s commentary on the *Vidagdha-mādhava*: “The idea is that without the manifestation (*sphūrti*) of Mahāprabhu one cannot taste the rasa of Hari’s pastimes. May Hari, the son of Śacī, appear in the cave of your heart; in the other sense, *hari* means a lion. This son of Śacī mercifully descended in Kali to bestow the treasure of devotion to Himself, that is, the wealth of service to Himself. What kind of treasure? ‘Never given before’ — given by no one before. But did not Kapiladeva and others earlier teach their mothers and others how to serve Bhagavān? To this it is said: although all *rasas* are present in it, in this treasure of bhakti the rasa is exalted and radiant (*ujjvala*); that is, a bhakti in which the *ujjvala-rasa* is foremost had never been taught. What is He like? Lit up by a host of rays more beautiful than even gold (*puraṭa*). This being so, just as a lion that has risen in a mountain cave kills the elephants there, so the lion who is the son of Śacī, risen in the cave of your heart, kills the elephants that are the diseases of the heart. This is the suggested meaning (*dhvani*).”
 
 ## 133
 
@@ -550,7 +550,7 @@ See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The 
 
 ## 147
 
-*Bhāva* means *prema*.
+*Bhāva* means prema.
 
 ## 148
 
@@ -576,7 +576,7 @@ See Madhya 2.52.
 
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 41)
 
-**He sakhi**, **yasya** (Kṛṣṇa’s) **utsaṅga-sukhāśayā** (out of an intense desire for the bliss of closeness with Him) **gurubhyaḥ** (before the venerable elders) **gurvī** (great) **trapā** (shyness) **śithilitā** (was cast off), **tathā** (and likewise) **prāṇebhyaḥ api suhṛt-tamāḥ** (the dearest, dearer than life) **yūyaṁ** (you) **parikleśitāḥ** (have been tormented); **sādhvībhiḥ adhyāsitaḥ** (followed by chaste women) **yaḥ mahān dharmaḥ** (the great *dharma* — fidelity to a husband), **saḥ api** (even that) **mayā** (by Me, a wife of a noble family) **na gaṇitaḥ** (was not taken into account); **yat** (since) **ahaṁ pāpīyasī** (I, the sinful one), **tad-upekṣitā api** (even neglected by Him, Kṛṣṇa), **jīvāmi** (live on), (therefore) **dhairyaṁ** (My steadiness) — **dhik** (shame on it)!
+**He sakhi**, **yasya** (Kṛṣṇa’s) **utsaṅga-sukhāśayā** (out of an intense desire for the bliss of closeness with Him) **gurubhyaḥ** (before the venerable elders) **gurvī** (great) **trapā** (shyness) **śithilitā** (was cast off), **tathā** (and likewise) **prāṇebhyaḥ api suhṛt-tamāḥ** (the dearest, dearer than life) **yūyaṁ** (you) **parikleśitāḥ** (have been tormented); **sādhvībhiḥ adhyāsitaḥ** (followed by chaste women) **yaḥ mahān dharmaḥ** (the great dharma — fidelity to a husband), **saḥ api** (even that) **mayā** (by Me, a wife of a noble family) **na gaṇitaḥ** (was not taken into account); **yat** (since) **ahaṁ pāpīyasī** (I, the sinful one), **tad-upekṣitā api** (even neglected by Him, Kṛṣṇa), **jīvāmi** (live on), (therefore) **dhairyaṁ** (My steadiness) — **dhik** (shame on it)!
 
 ## 153
 
@@ -594,7 +594,7 @@ See Madhya 2.52.
 
 > Subheading: (*Vidagdha-mādhava*, Act 3, verse 9)
 
-**He kṛṣṇārṇava** (O Kṛṣṇa, ocean), **dhava-taroḥ** (of the tree — Her husband) **antikaṁ** (the nearness) **dūre pathi** (far off on the way) **hitvā** (leaving), **dharma-setoḥ** (of the bridge — the *dharma* of the family, for that is the bridge) **bhaṅgodagrā** (the breaker, one whose foremost urge is to break it; able to break it), **guru-śikhariṇaṁ** (the mountain — the venerable elders) **raṁhasā** (swiftly) **laṅghayantī** (crossing over), **nava-rasā** (She in whom there is new, fresh *rasa* — the *rasas* from *śānta* to *śṛṅgāra*) **rādhikā-vāhinī** (the river Rādhikā) **tvāṁ** (You, the ocean Kṛṣṇa) **lebhe** (has reached); **tvaṁ ca** (and You) **vāg-vīcībhiḥ** (with mere waves of words) **kim iva** (why) **asyāḥ** (Her — the river Rādhā’s) **vimukhī-bhāvam** (estrangement) **tanoṣi** (spread)?
+**He kṛṣṇārṇava** (O Kṛṣṇa, ocean), **dhava-taroḥ** (of the tree — Her husband) **antikaṁ** (the nearness) **dūre pathi** (far off on the way) **hitvā** (leaving), **dharma-setoḥ** (of the bridge — the dharma of the family, for that is the bridge) **bhaṅgodagrā** (the breaker, one whose foremost urge is to break it; able to break it), **guru-śikhariṇaṁ** (the mountain — the venerable elders) **raṁhasā** (swiftly) **laṅghayantī** (crossing over), **nava-rasā** (She in whom there is new, fresh rasa — the *rasas* from *śānta* to *śṛṅgāra*) **rādhikā-vāhinī** (the river Rādhikā) **tvāṁ** (You, the ocean Kṛṣṇa) **lebhe** (has reached); **tvaṁ ca** (and You) **vāg-vīcībhiḥ** (with mere waves of words) **kim iva** (why) **asyāḥ** (Her — the river Rādhā’s) **vimukhī-bhāvam** (estrangement) **tanoṣi** (spread)?
 
 ## 158
 
@@ -686,7 +686,7 @@ In some manuscripts the three verses 166–168 are not given. For Śrī Rūpa wa
 
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 5)
 
-**Pramada-rasa-taraṅga-smera-gaṇḍa-sthalāyāḥ** (of Her whose cheeks smile — touched with a gentle smile — from the waves of the *rasa* of joy, the flow of the *rasa* of bliss), **smara-dhanur-anubandhi-bhrū-latā-lāsya-bhājaḥ** (of Her whose creeper-brows, like the bow of Kāmadeva, perform a dance [*lāsya*]), **pakṣmalākṣyāḥ** (of Rādhā, whose eyes are graced with lovely lashes), **mada-kala-cala-bhṛṅgī-bhrānti-bhaṅgīṁ** (such a charm [*bhaṅgī*] that one mistakes [*bhrānti*] it for a bee darting, restless and fickle with intoxicated humming [*kala*]) **dadhānaḥ** (bearing), (Rādhā’s) **kaṭākṣaḥ** (glance) **idam** (this, My) **hṛdayam** (heart) **adāṅkṣīt** (has stung).
+**Pramada-rasa-taraṅga-smera-gaṇḍa-sthalāyāḥ** (of Her whose cheeks smile — touched with a gentle smile — from the waves of the rasa of joy, the flow of the rasa of bliss), **smara-dhanur-anubandhi-bhrū-latā-lāsya-bhājaḥ** (of Her whose creeper-brows, like the bow of Kāmadeva, perform a dance [*lāsya*]), **pakṣmalākṣyāḥ** (of Rādhā, whose eyes are graced with lovely lashes), **mada-kala-cala-bhṛṅgī-bhrānti-bhaṅgīṁ** (such a charm [*bhaṅgī*] that one mistakes [*bhrānti*] it for a bee darting, restless and fickle with intoxicated humming [*kala*]) **dadhānaḥ** (bearing), (Rādhā’s) **kaṭākṣaḥ** (glance) **idam** (this, My) **hṛdayam** (heart) **adāṅkṣīt** (has stung).
 
 ## 172
 
@@ -760,7 +760,7 @@ In this verse the *āmukha*, that is, the *prastāvanā*, is named — *udghāty
 
 **Rajaḥ-bharaḥ** (the mass, heap, multitude of dust raised by the cows’ hooves) **harim** **uddiśate** (points to Hari), **tamaḥ** (darkness) **purataḥ** (ahead) **amum** (Kṛṣṇa) **saṅgamayati** (unites [with the gopīs]); (therefore) **vraja-vāma-dṛśāṁ** (of the women of Vraja) **paddhatiḥ** (the path) **sarva-dṛśaḥ** (all-seeing) **śruteḥ** (to the Veda) **api** (even) **prakaṭā na** (is not revealed).
 
-The Veda, whose subject is the three *guṇas*, says nothing of how to point to Kṛṣṇa, who is beyond the *guṇas*, or of meeting Him. The conditioned *jīva*, turned away from Kṛṣṇa, is agitated by the *guṇa* of *rajas*, and so has no pointer to Kṛṣṇa; he is covered by the *guṇa* of *tamas*, and so he does not meet Kṛṣṇa. But in the transcendental Vṛndāvana the dust (*rajas*) raised by the cows’ hooves points out Kṛṣṇa’s coming to the eternally liberated gopīs, and *tamas*, the darkness, lets the eternally liberated gopīs meet Kṛṣṇa. Therefore both the gopīs, whose nature is pure *sattva*, and Śrī Vṛndāvana, whose nature is pure *sattva*, are beyond the reach of the Veda, whose subject is the three *guṇas*. This is the meaning of the verse.
+The Veda, whose subject is the three *guṇas*, says nothing of how to point to Kṛṣṇa, who is beyond the *guṇas*, or of meeting Him. The conditioned jīva, turned away from Kṛṣṇa, is agitated by the *guṇa* of *rajas*, and so has no pointer to Kṛṣṇa; he is covered by the *guṇa* of *tamas*, and so he does not meet Kṛṣṇa. But in the transcendental Vṛndāvana the dust (*rajas*) raised by the cows’ hooves points out Kṛṣṇa’s coming to the eternally liberated gopīs, and *tamas*, the darkness, lets the eternally liberated gopīs meet Kṛṣṇa. Therefore both the gopīs, whose nature is pure *sattva*, and Śrī Vṛndāvana, whose nature is pure *sattva*, are beyond the reach of the Veda, whose subject is the three *guṇas*. This is the meaning of the verse.
 
 ## 189
 
@@ -806,11 +806,11 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 ## 200
 
-> Subheading: The Lord praises Śrī Sanātana and considers him Śrī Rāya’s equal in detachment and in learning — in knowledge of the *siddhānta* and the *rasa* of *prema-bhakti* —
+> Subheading: The Lord praises Śrī Sanātana and considers him Śrī Rāya’s equal in detachment and in learning — in knowledge of the *siddhānta* and the rasa of prema-bhakti —
 
 ## 201
 
-Śrī Mahāprabhu said to Śrī Rāmānanda Rāya: “You have given up all sense objects and serve Kṛṣṇa exclusively. Just so Sanātana Gosvāmī, exactly like you, has left everything other than Kṛṣṇa: he is always ‘humbler than a blade of grass,’ that is, filled with the mood of one who owns nothing (*akiñcana*), and seeks no enjoyment apart from Kṛṣṇa, that is, he is free from the bonds of everything that is not Kṛṣṇa. He has made service to Kṛṣṇa the object of his senses and has fully mastered the knowledge of the highest devotion (*parā-bhakti*). Śrī Sanātana is the ideal embodiment of sincere humility, detachment, and learning. Exactly like you, he is knowledgeable and accomplished in pure renunciation, that is, *yukta-vairāgya*, and in learning — in knowledge of the *siddhānta* and the *rasa* of *prema-bhakti*.”
+Śrī Mahāprabhu said to Śrī Rāmānanda Rāya: “You have given up all sense objects and serve Kṛṣṇa exclusively. Just so Sanātana Gosvāmī, exactly like you, has left everything other than Kṛṣṇa: he is always ‘humbler than a blade of grass,’ that is, filled with the mood of one who owns nothing (*akiñcana*), and seeks no enjoyment apart from Kṛṣṇa, that is, he is free from the bonds of everything that is not Kṛṣṇa. He has made service to Kṛṣṇa the object of his senses and has fully mastered the knowledge of the highest devotion (*parā-bhakti*). Śrī Sanātana is the ideal embodiment of sincere humility, detachment, and learning. Exactly like you, he is knowledgeable and accomplished in pure renunciation, that is, *yukta-vairāgya*, and in learning — in knowledge of the *siddhānta* and the rasa of prema-bhakti.”
 
 ## 202
 
@@ -822,11 +822,11 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 ## 204
 
-> Subheading: In Rāya’s words and in Śrī Rūpa’s writings one and the same *rasa* of *prema-bhakti* is proclaimed —
+> Subheading: In Rāya’s words and in Śrī Rūpa’s writings one and the same rasa of prema-bhakti is proclaimed —
 
 ## 205
 
-> Subheading: The Lord proclaims the glory of the transcendental *rasa* of Vraja through devotees moved by His will —
+> Subheading: The Lord proclaims the glory of the transcendental rasa of Vraja through devotees moved by His will —
 
 ## 206
 
@@ -896,7 +896,7 @@ That Mahāprabhu went to Vṛndāvana again is not heard of.
 
 ## 222
 
-> Subheading: Hearing the account of the meeting of the Lord and Rūpa, the *jīva* devoid of consciousness (*acaitanya*) attains the feet of Caitanya —
+> Subheading: Hearing the account of the meeting of the Lord and Rūpa, the jīva devoid of consciousness (*acaitanya*) attains the feet of Caitanya —
 
 *Thus ends the first chapter of the “Anubhāṣya.”*
 

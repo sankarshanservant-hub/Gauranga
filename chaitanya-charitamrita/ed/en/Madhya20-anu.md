@@ -22,7 +22,7 @@
 
 ## 8
 
-> Subheading: For the sake of pure service to Hari, Sanātana turns even an act condemned by worldly morality to favourable use — this is the true *dharma* —
+> Subheading: For the sake of pure service to Hari, Sanātana turns even an act condemned by worldly morality to favourable use — this is the true dharma —
 
 ## 9
 
@@ -148,7 +148,7 @@
 
 ## 52
 
-> Subheading: The embrace fills Sanātana with *prema*, and he speaks humbly —
+> Subheading: The embrace fills Sanātana with prema, and he speaks humbly —
 
 ## 53
 
@@ -178,7 +178,7 @@ See Madhya 19.50.
 
 Devarṣi Nārada is telling Dharmarāja Yudhiṣṭhira how Bhagavān Śrī Nṛsiṁha slew Hiraṇyakaśipu, and in that account he recites the prayer that the devotee Prahlāda offered to Bhagavān Nṛsiṁha after the slaying.
 
-**aravinda-nābha-pāda-aravinda-vimukhāt** (averse to the lotus feet of Kṛṣṇa, whose navel is like a lotus) **dviṣaḍ-guṇa-yutāt** (possessed of twelve qualities — those named in the previous *śloka*: wealth, noble birth, beauty, austerity, learning, sensory vigour (*ojas*), lustre (*tejas*), influence, bodily strength, diligence, intelligence and *yoga*; or else the twelve qualities named by Sanatsujāta in the *Mahābhārata*: “Righteousness, truthfulness, self-control, austerity, freedom from envy, modesty, forbearance, freedom from malice, sacrifice, charity, steadfastness and learning — these are the twelve vows of a *brāhmaṇa*”; or else the twelve qualities named in the commentary on the *Muktā-phala*: “Tranquillity, self-control, austerity, purity, forbearance, straightforwardness, detachment, knowledge, realisation (*vijñāna*), contentment, truthfulness and faith in God — the twelve qualities” — possessed of these) **viprāt** **api** **tad-arpita-mano-vacanehitārtha-prāṇaṁ** (one who has given to Him — to Kṛṣṇa, whose navel is like a lotus — his mind, words, deeds, wealth and life) **śva-pacaṁ** **variṣṭhaṁ** (the best) **ahaṁ** **manye**; for **saḥ** (such a *śva-paca*) **kulaṁ** (his whole family) **punāti**, **bhūri-mānaḥ** (one whose pride is great) a *brāhmaṇa* **tu** (even himself) **na** (does not purify — what to speak of his family?). For in one who lacks devotion these qualities serve only pride, not purification; the sense, then, is that he is lower.
+**aravinda-nābha-pāda-aravinda-vimukhāt** (averse to the lotus feet of Kṛṣṇa, whose navel is like a lotus) **dviṣaḍ-guṇa-yutāt** (possessed of twelve qualities — those named in the previous *śloka*: wealth, noble birth, beauty, austerity, learning, sensory vigour (*ojas*), lustre (*tejas*), influence, bodily strength, diligence, intelligence and yoga; or else the twelve qualities named by Sanatsujāta in the *Mahābhārata*: “Righteousness, truthfulness, self-control, austerity, freedom from envy, modesty, forbearance, freedom from malice, sacrifice, charity, steadfastness and learning — these are the twelve vows of a *brāhmaṇa*”; or else the twelve qualities named in the commentary on the *Muktā-phala*: “Tranquillity, self-control, austerity, purity, forbearance, straightforwardness, detachment, knowledge, realisation (*vijñāna*), contentment, truthfulness and faith in God — the twelve qualities” — possessed of these) **viprāt** **api** **tad-arpita-mano-vacanehitārtha-prāṇaṁ** (one who has given to Him — to Kṛṣṇa, whose navel is like a lotus — his mind, words, deeds, wealth and life) **śva-pacaṁ** **variṣṭhaṁ** (the best) **ahaṁ** **manye**; for **saḥ** (such a *śva-paca*) **kulaṁ** (his whole family) **punāti**, **bhūri-mānaḥ** (one whose pride is great) a brāhmaṇa **tu** (even himself) **na** (does not purify — what to speak of his family?). For in one who lacks devotion these qualities serve only pride, not purification; the sense, then, is that he is lower.
 
 ## 60
 
@@ -244,11 +244,11 @@ Devarṣi Nārada is telling Dharmarāja Yudhiṣṭhira how Bhagavān Śrī N�
 
 ## 79
 
-> Subheading: Sanātana meets the *brāhmaṇa* from Mahārāṣṭra —
+> Subheading: Sanātana meets the brāhmaṇa from Mahārāṣṭra —
 
 ## 80
 
-> Subheading: The *brāhmaṇa* invites Sanātana to his home every day for as long as he lives in Kāśī —
+> Subheading: The brāhmaṇa invites Sanātana to his home every day for as long as he lives in Kāśī —
 
 ## 81
 
@@ -304,7 +304,7 @@ Devarṣi Nārada is telling Dharmarāja Yudhiṣṭhira how Bhagavān Śrī N�
 
 ## 98
 
-> Subheading: The description of the “instructions to Sanātana” begins. To teach the world, the eternally perfect Sanātana plays the part of a conditioned *jīva*: with humility he bows down, inquires and serves, and like a disciple asks about the truth from the Lord, the teacher of the world, the embodiment of *kīrtana* —
+> Subheading: The description of the “instructions to Sanātana” begins. To teach the world, the eternally perfect Sanātana plays the part of a conditioned jīva: with humility he bows down, inquires and serves, and like a disciple asks about the truth from the Lord, the teacher of the world, the embodiment of kīrtana —
 
 ## 100
 
@@ -312,13 +312,13 @@ Devarṣi Nārada is telling Dharmarāja Yudhiṣṭhira how Bhagavān Śrī N�
 
 ## 102
 
-> Subheading: The question about the true nature of the *jīva* and the cause of the miseries born of his bondage —
+> Subheading: The question about the true nature of the jīva and the cause of the miseries born of his bondage —
 
 *Tāpa-traya* — the three kinds of misery: (1) *ādhyātmika*, (2) *ādhibhautika* and (3) *ādhidaivika*. (1) *Ādhyātmika* misery is of two kinds: (a) bodily, such as fever and other diseases; (b) mental, such as separation from loved ones and the like. (2) *Ādhibhautika* misery is of four kinds: misery caused (a) by creatures born from wombs, (b) by creatures born from eggs, (c) by creatures born from sweat, (d) by creatures born from sprouts. (3) *Ādhidaivika* misery is the misery that comes from the higher gods such as Indra — cold, lightning strikes and so on — and also the harmful calamities and misfortunes brought by malign spirits of violent nature, such as *yakṣas* and *piśācas*.
 
 ## 104
 
-> Subheading: Knowing Sanātana to be eternally perfect, the Lord answers only for the good of conditioned *jīvas* —
+> Subheading: Knowing Sanātana to be eternally perfect, the Lord answers only for the good of conditioned jīvas —
 
 ## 106
 
@@ -328,11 +328,11 @@ Devarṣi Nārada is telling Dharmarāja Yudhiṣṭhira how Bhagavān Śrī N�
 
 ## 107
 
-> Subheading: The Lord accepts Sanātana as an *ācārya* —
+> Subheading: The Lord accepts Sanātana as an ācārya —
 
 ## 108
 
-> Subheading: The instructions to Śrī Śrī Sanātana begin. (A-1) First of all, the true nature of the *jīva* —
+> Subheading: The instructions to Śrī Śrī Sanātana begin. (A-1) First of all, the true nature of the jīva —
 
 ## 108–109
 
@@ -380,39 +380,39 @@ See Ādi 7.118.
 
 ## 118
 
-The eternally liberated *jīva* never forgets Kṛṣṇa: from beginningless time he remains turned towards Kṛṣṇa, established in his eternal function — service to Hari. But those *jīvas* who have forgotten their right to serve Kṛṣṇa and, following a beginningless desire to enjoy the fruits of *karma*, cultivate *māyā* and think themselves the enjoyers of those fruits — for them *māyā* appoints the enjoyment of the fruits of *karma*. As a king rewards and punishes, so the conditioned *jīva*, by the power of pious deeds, rises to heaven, takes the position of a god and enjoys happiness, and again, as the fruit of sin, suffers in hell and elsewhere.
+The eternally liberated jīva never forgets Kṛṣṇa: from beginningless time he remains turned towards Kṛṣṇa, established in his eternal function — service to Hari. But those jīvas who have forgotten their right to serve Kṛṣṇa and, following a beginningless desire to enjoy the fruits of karma, cultivate māyā and think themselves the enjoyers of those fruits — for them māyā appoints the enjoyment of the fruits of karma. As a king rewards and punishes, so the conditioned jīva, by the power of pious deeds, rises to heaven, takes the position of a god and enjoys happiness, and again, as the fruit of sin, suffers in hell and elsewhere.
 
 ## 119
 
-> Subheading: (C) The disease of the conditioned *jīva*, its cause and its cure — that is, the rules of diet and of taking the medicine —
+> Subheading: (C) The disease of the conditioned jīva, its cause and its cure — that is, the rules of diet and of taking the medicine —
 
-In Dvārakā, in answer to Vasudeva’s question, Devarṣi Nārada was glorifying *bhāgavata-dharma* and related the conversation between Nimi, king of Videha, and the nine Yogendras. When the nine Yogendras came to Nimi’s sacrifice, he asked them to describe *bhāgavata-dharma*. One of them, the sage Kavi, first described the characteristics of *bhāgavata-dharma* and now teaches about the plight of the conditioned *jīva* and the duty to worship Bhagavān.
+In Dvārakā, in answer to Vasudeva’s question, Devarṣi Nārada was glorifying *bhāgavata-dharma* and related the conversation between Nimi, king of Videha, and the nine Yogendras. When the nine Yogendras came to Nimi’s sacrifice, he asked them to describe *bhāgavata-dharma*. One of them, the sage Kavi, first described the characteristics of *bhāgavata-dharma* and now teaches about the plight of the conditioned jīva and the duty to worship Bhagavān.
 
-(Since) **īśāt** (from Bhagavān Kṛṣṇa) **apetasya** (of the conditioned *jīva* who has turned away) **tan-māyayā** (by the *māyā* — the external potency — of that Bhagavān Kṛṣṇa) **asmṛtiḥ** (forgetfulness of Bhagavān’s own form, that is, absence of remembrance; then) **viparyayaḥ** (the false notion, created by *māyā*, that one is the enjoyer of the fruits of *karma* — that is, the reversed understanding “I am the body,” rooted in misapprehension (*vivarta*) and arising from forgetting one’s own nature; then) **dvitīyābhiniveśataḥ** (from fancies of one’s own enjoyment — that is, from absorption in what is not one’s own nature, the body and so on; this absorption comes from identifying oneself with the body, and that from forgetting one’s own nature) **bhayaṁ** (the round of birth and death, or anxiety over body, wealth and friends) **syāt** (arises); **ataḥ** **budhaḥ** (an intelligent *jīva* turned towards Kṛṣṇa) **tam** (that Lord — Adhokṣaja alone) **guru-devatātmā** (seeing the guru as his deity — the Lord — and as his self, the dearmost) **ekayā** (single — unwavering, exclusive) **bhaktyā** (by devotion — giving up the pursuit of the other paths, *jñāna* and *karma*) **ābhajet** (should serve fully).
+(Since) **īśāt** (from Bhagavān Kṛṣṇa) **apetasya** (of the conditioned jīva who has turned away) **tan-māyayā** (by the māyā — the external potency — of that Bhagavān Kṛṣṇa) **asmṛtiḥ** (forgetfulness of Bhagavān’s own form, that is, absence of remembrance; then) **viparyayaḥ** (the false notion, created by māyā, that one is the enjoyer of the fruits of karma — that is, the reversed understanding “I am the body,” rooted in misapprehension (*vivarta*) and arising from forgetting one’s own nature; then) **dvitīyābhiniveśataḥ** (from fancies of one’s own enjoyment — that is, from absorption in what is not one’s own nature, the body and so on; this absorption comes from identifying oneself with the body, and that from forgetting one’s own nature) **bhayaṁ** (the round of birth and death, or anxiety over body, wealth and friends) **syāt** (arises); **ataḥ** **budhaḥ** (an intelligent jīva turned towards Kṛṣṇa) **tam** (that Lord — Adhokṣaja alone) **guru-devatātmā** (seeing the guru as his deity — the Lord — and as his self, the dearmost) **ekayā** (single — unwavering, exclusive) **bhaktyā** (by devotion — giving up the pursuit of the other paths, jñāna and *karma*) **ābhajet** (should serve fully).
 
 ## 120
 
-> Subheading: (D) Description of the descent, or avatāra, of the Supreme Lord, the possessor of the spiritual potency; the only way to conquer *māyā* —
+> Subheading: (D) Description of the descent, or avatāra, of the Supreme Lord, the possessor of the spiritual potency; the only way to conquer māyā —
 
-Turned away from Kṛṣṇa, the *jīva* is busy enjoying worldly happiness. When, by the mercy of the Vaiṣṇavas and the grace of the scriptures, he becomes free from the desire to enjoy the fruits of *karma* and turns eagerly to Kṛṣṇa’s service, he is delivered from the thirst for enjoyment or for liberation. When his intelligence becomes devoted to serving Kṛṣṇa, *māyā* — the desire for worldly enjoyment — lets him go. Once turned towards Kṛṣṇa’s service, the *jīva* is no longer intoxicated with *ahaṁgrahopāsanā* (worshipping oneself as God) as a *jñānī* who desires liberation; nor, led by the desire for worldly enjoyment, does he seek to enjoy fruits. He is no longer bound to anything other than Kṛṣṇa, but escapes from the hands of *māyā*.
+Turned away from Kṛṣṇa, the jīva is busy enjoying worldly happiness. When, by the mercy of the Vaiṣṇavas and the grace of the scriptures, he becomes free from the desire to enjoy the fruits of karma and turns eagerly to Kṛṣṇa’s service, he is delivered from the thirst for enjoyment or for liberation. When his intelligence becomes devoted to serving Kṛṣṇa, māyā — the desire for worldly enjoyment — lets him go. Once turned towards Kṛṣṇa’s service, the jīva is no longer intoxicated with *ahaṁgrahopāsanā* (worshipping oneself as God) as a *jñānī* who desires liberation; nor, led by the desire for worldly enjoyment, does he seek to enjoy fruits. He is no longer bound to anything other than Kṛṣṇa, but escapes from the hands of māyā.
 
 ## 121
 
-> Subheading: Only a devotee surrendered to Kṛṣṇa conquers *māyā* —
+> Subheading: Only a devotee surrendered to Kṛṣṇa conquers māyā —
 
-**eṣā** **mama** (of Me, the Supreme Lord) **daivī** (divine — extraordinary, belonging to Viṣṇu) **guṇamayī** (made of *sattva*, *rajas* and *tamas*) **māyā** (the external potency) **duratyayā** (insurmountable for *jīvas* bound by desires for enjoyment and liberation) **hi** (indeed); **mām** (to Kṛṣṇa — Svayaṁ Bhagavān, possessed of His *svarūpa-śakti*) **ye** (those people who) **prapadyante** (surrender with their whole being), **te** (they alone) **etāṁ** **māyāṁ** (the *prakṛti* that bewilders the *jīvas*) **taranti** (cross over, conquer).
+**eṣā** **mama** (of Me, the Supreme Lord) **daivī** (divine — extraordinary, belonging to Viṣṇu) **guṇamayī** (made of *sattva*, *rajas* and *tamas*) **māyā** (the external potency) **duratyayā** (insurmountable for jīvas bound by desires for enjoyment and liberation) **hi** (indeed); **mām** (to Kṛṣṇa — Svayaṁ Bhagavān, possessed of His *svarūpa-śakti*) **ye** (those people who) **prapadyante** (surrender with their whole being), **te** (they alone) **etāṁ** **māyāṁ** (the *prakṛti* that bewilders the *jīvas*) **taranti** (cross over, conquer).
 
 ## 122
 
-> Subheading: Adhokṣaja Viṣṇu, full of causeless mercy towards the *jīvas*, appears as an avatāra —
+> Subheading: Adhokṣaja Viṣṇu, full of causeless mercy towards the jīvas, appears as an avatāra —
 
-The *jīva* bewitched by *māyā*, deluded about his own true nature, is engaged every moment and in every matter in obtaining fruits for his own enjoyment. Sometimes, with a mind in bondage, he longs to be freed from the desire to enjoy fruits; and sometimes, desiring fruits, he prizes fleeting enjoyment. In either case one sees that, covered by *māyā*, he does not remember Kṛṣṇa. Therefore the all-merciful Kṛṣṇa has revealed the Vedas, the Purāṇas and the other scriptures to save from misfortune such a person, deluded in understanding and given to wrong reasoning and enjoyment.
+The jīva bewitched by māyā, deluded about his own true nature, is engaged every moment and in every matter in obtaining fruits for his own enjoyment. Sometimes, with a mind in bondage, he longs to be freed from the desire to enjoy fruits; and sometimes, desiring fruits, he prizes fleeting enjoyment. In either case one sees that, covered by māyā, he does not remember Kṛṣṇa. Therefore the all-merciful Kṛṣṇa has revealed the Vedas, the Purāṇas and the other scriptures to save from misfortune such a person, deluded in understanding and given to wrong reasoning and enjoyment.
 
 ## 123
 
 > Subheading: Kṛṣṇa Himself descends in three manifestations to give knowledge of Kṛṣṇa: (1) the Veda, or the commentary on the *Vedānta*, the *Śrīmad-Bhāgavatam*; (2) the best of *bhāgavatas*, the guru; (3) the Antaryāmī —
 
-Bhagavān appears in three forms — the scripture, the guru and the *caitya-guru* — and awakens in the heart of the conditioned *jīva* such sentiments as “He is the Lord of the *jīva*” or “He is the deliverer of the *jīva*.”
+Bhagavān appears in three forms — the scripture, the guru and the *caitya-guru* — and awakens in the heart of the conditioned jīva such sentiments as “He is the Lord of the *jīva*” or “He is the deliverer of the jīva.”
 
 ## 124
 
@@ -422,11 +422,11 @@ Bhagavān appears in three forms — the scripture, the guru and the *caitya-gur
 
 > Subheading: *Sambandha* is Kṛṣṇa, *abhidheya* is pure devotion, *prayojana* is *prema* —
 
-The Vedic scriptures describe three subjects: “*sambandha*,” “*abhidheya*” and “*prayojana*.” Kṛṣṇa, whom the pure *jīva* is to attain, is the “*sambandha*”; service to Kṛṣṇa as the means of attaining Him is the “*abhidheya*”; and love for Kṛṣṇa — the great treasure higher than the four goals of life (*dharma*, *artha*, the enjoyment of *kāma*, and “*mokṣa*,” which is without enjoyment), the treasure to be attained — is the “*prayojana*.”
+The Vedic scriptures describe three subjects: “*sambandha*,” “*abhidheya*” and “*prayojana*.” Kṛṣṇa, whom the pure jīva is to attain, is the “*sambandha*”; service to Kṛṣṇa as the means of attaining Him is the “*abhidheya*”; and love for Kṛṣṇa — the great treasure higher than the four goals of life (*dharma*, *artha*, the enjoyment of *kāma*, and “*mokṣa*,” which is without enjoyment), the treasure to be attained — is the “*prayojana*.”
 
 ## 126
 
-> Subheading: How *prema*, the goal of *sādhana-bhakti*, acts —
+> Subheading: How prema, the goal of *sādhana-bhakti*, acts —
 
 ## 127
 
@@ -440,27 +440,27 @@ The Vedic scriptures describe three subjects: “*sambandha*,” “*abhidheya*�
 
 ## 129
 
-> Subheading: Devotion, the means to the goal, *prema*, is an obligatory duty; this is the injunction of the scriptures —
+> Subheading: Devotion, the means to the goal, prema, is an obligatory duty; this is the injunction of the scriptures —
 
 ## 130
 
-> Subheading: All the scriptures point to Kṛṣṇa, to whom the *jīva* is eternally related —
+> Subheading: All the scriptures point to Kṛṣṇa, to whom the jīva is eternally related —
 
 ## 131
 
-> Subheading: The *sādhana* of the conditioned *jīva* is simply the awakening of his eternally perfect nature —
+> Subheading: The *sādhana* of the conditioned jīva is simply the awakening of his eternally perfect nature —
 
 ## 132
 
-> Subheading: The paths without devotion — (1) the dangers of the path of *karma*, which seeks worldly enjoyment (*bhukti*) —
+> Subheading: The paths without devotion — (1) the dangers of the path of karma, which seeks worldly enjoyment (*bhukti*) —
 
 ## 133
 
-> Subheading: (2) The dangers of the path of *yoga*, which seeks mystic powers (*vibhūti-siddhi*) —
+> Subheading: (2) The dangers of the path of yoga, which seeks mystic powers (*vibhūti-siddhi*) —
 
 ## 134
 
-> Subheading: (3) The dangers of the path of *jñāna*, which seeks *sāyujya* —
+> Subheading: (3) The dangers of the path of jñāna, which seeks *sāyujya* —
 
 ## 135
 
@@ -472,13 +472,13 @@ What is being compared: in the east — devotion to Kṛṣṇa; in the south �
 
 What they are compared to: in the east — the father’s treasure; in the south — hornets and wasps; in the west — a *yakṣa*; in the north — a black snake.
 
-The practice of the southern path (*dakṣiṇā-mārga*)[^132-135-1] is the *karma-kāṇḍa*, aimed at enjoying fruits: the agents of Yama’s punishment accept the “*dakṣiṇā*” and assign the fruits. On this path of *karma* the *jīva* is stung by the hornets and wasps of the desire for enjoyment and suffers. His hope of enjoyment is not fulfilled by this; it only grows more and more.
+The practice of the southern path (*dakṣiṇā-mārga*)[^132-135-1] is the *karma-kāṇḍa*, aimed at enjoying fruits: the agents of Yama’s punishment accept the “*dakṣiṇā*” and assign the fruits. On this path of karma the jīva is stung by the hornets and wasps of the desire for enjoyment and suffers. His hope of enjoyment is not fulfilled by this; it only grows more and more.
 
-The practice of the northern path (*uttarā-mārga*) is the path of *yoga*, aimed at mystic powers (*siddhis*). On it the black python of *kaivalya* swallows the pure existence of the *jīva*. In the view of some, the practice of the northern path is the path of desireless *jñāna*; there the pure existence of the *jīva* falls into the jaws of the black snake of *brahma-sāyujya*.
+The practice of the northern path (*uttarā-mārga*) is the path of yoga, aimed at mystic powers (*siddhis*). On it the black python of *kaivalya* swallows the pure existence of the jīva. In the view of some, the practice of the northern path is the path of desireless jñāna; there the pure existence of the jīva falls into the jaws of the black snake of *brahma-sāyujya*.
 
-The *yakṣa* guards the treasure: that is, he is its keeper, not its giver. To hope to get treasure from a *yakṣa* without perishing is a vain hope: after tempting one with greed for wealth, the *yakṣa* in the end destroys the very person who wants to take it. In truth, *sāyujya* on the path of *jñāna* and *kaivalya* on the path of *yoga* both destroy the existence of the *jīva*.
+The *yakṣa* guards the treasure: that is, he is its keeper, not its giver. To hope to get treasure from a *yakṣa* without perishing is a vain hope: after tempting one with greed for wealth, the *yakṣa* in the end destroys the very person who wants to take it. In truth, *sāyujya* on the path of jñāna and *kaivalya* on the path of yoga both destroy the existence of the jīva.
 
-Devotion to Kṛṣṇa is the conditioned *jīva’s* “former” treasure, that is, the treasure already his (*siddha-dhana*); attaining it, the pure *jīva* is rich forever. One who lacks the treasure of devotion suffers want in the perishable world of matter. Sometimes he writhes from the stings of the hornets of *karma* and does not get the treasure. Sometimes, turning his back on Kṛṣṇa[^132-135-2] and busying himself with *ahaṁgrahopāsanā* (worshipping oneself as God) or the pursuit of *kaivalya*, he is robbed of the treasure of *prema* by the *yakṣa* of *yoga*. And sometimes, in the north — that is, losing the pure existence of the *jīva* — he falls into the jaws of the snake of *sāyujya* or *kaivalya*, and again does not gain the treasure.
+Devotion to Kṛṣṇa is the conditioned *jīva’s* “former” treasure, that is, the treasure already his (*siddha-dhana*); attaining it, the pure jīva is rich forever. One who lacks the treasure of devotion suffers want in the perishable world of matter. Sometimes he writhes from the stings of the hornets of karma and does not get the treasure. Sometimes, turning his back on Kṛṣṇa[^132-135-2] and busying himself with *ahaṁgrahopāsanā* (worshipping oneself as God) or the pursuit of *kaivalya*, he is robbed of the treasure of prema by the *yakṣa* of yoga. And sometimes, in the north — that is, losing the pure existence of the jīva — he falls into the jaws of the snake of *sāyujya* or *kaivalya*, and again does not gain the treasure.
 
 ## 136
 
@@ -494,7 +494,7 @@ See Ādi 17.76.
 
 Śrī Kṛṣṇa’s words in answer to Uddhava’s question.
 
-**satāṁ** (of the *sādhus*, His eternal servants) **priyaḥ** (the One they serve) **ātmā** (the dearmost) **aham** (I, Svayaṁ Bhagavān Kṛṣṇa) **ekayā** (unwavering, causeless) **śraddhayā** (full of faith) **bhaktyā** **grāhyaḥ** (attainable, that is, I can be reached); **man-niṣṭhā** (dedicated to serving Kṛṣṇa alone) **bhaktiḥ** **śvapākān** (people born in low families) **api** **sambhavāt** (from the defect of birth in a caste by seminal descent, produced by past sins) **punāti**.
+**satāṁ** (of the sādhus, His eternal servants) **priyaḥ** (the One they serve) **ātmā** (the dearmost) **aham** (I, Svayaṁ Bhagavān Kṛṣṇa) **ekayā** (unwavering, causeless) **śraddhayā** (full of faith) **bhaktyā** **grāhyaḥ** (attainable, that is, I can be reached); **man-niṣṭhā** (dedicated to serving Kṛṣṇa alone) **bhaktiḥ** **śvapākān** (people born in low families) **api** **sambhavāt** (from the defect of birth in a caste by seminal descent, produced by past sins) **punāti**.
 
 ## 139
 
@@ -510,11 +510,11 @@ See Ādi 17.76.
 
 ## 142
 
-> Subheading: The chief fruit of service rooted in love for Kṛṣṇa is the bliss of *prema*; the secondary fruit is the end of aversion and liberation —
+> Subheading: The chief fruit of service rooted in love for Kṛṣṇa is the bliss of prema; the secondary fruit is the end of aversion and liberation —
 
 ## 143
 
-> Subheading: In the Vedas Kṛṣṇa is *sambandha*, *bhakti* is *abhidheya*, *prema* is *prayojana* —
+> Subheading: In the Vedas Kṛṣṇa is *sambandha*, bhakti is *abhidheya*, prema is *prayojana* —
 
 ## 144
 
@@ -540,7 +540,7 @@ Whether by the primary sense (*rūḍhi*) or the secondary sense (*lakṣaṇā*
 
 Uddhava asked about the injunctions and prohibitions of the Vedas. In answer Śrī Kṛṣṇa first describes the fruits that the *karma-kāṇḍa* of the Vedas promises (*phala-śruti*), then the various Vedic meters, and He says that He Himself is the one subject to be established and known in the Vedas — full of deep mystery, hard to understand, made up of three divisions (*kāṇḍas*):
 
-(Having said that the great Vedic speech in its entirety is unknowable in its nature, He says that it is unknowable in its meaning too:) **kiṁ** **vidhatte** (what does the *karma-kāṇḍa* — one of the three *kāṇḍas* of the Vedic scriptures: of *karma*, of the *devatās* and of *jñāna* — enjoin by its injunctions), **kim ācaṣṭe** (what does the *devatā-kāṇḍa* reveal by its statements, that is, of what does it speak), **kim anūdya** (relying on what in the *jñāna-kāṇḍa*) **vikalpayet** **iti** (thus) **asyāḥ** (of this *śruti*) **hṛdayaṁ** **loke** (here in the world) **mat** (besides Me) **anyaḥ kaścana** **na veda** (knows). (“Then by Your mercy tell it,” — to this He says:) **mām** (Me in the form of sacrifice, by injunction) **vidhatte** (by the primary sense); **mām eva** (Me in the form of this or that deity) **abhidhatte**; **aham** (I alone) **vikalpya** (having raised doubt) **apohyate** (am rejected: what is rejected is also I; nothing is separate from Me). (He states briefly the meaning of all the Vedas:) **etāvān eva** **sarva-vedārthaḥ** (the meaning of all the Vedas) — **śabdaḥ** (the Veda) **bhidām** (the differences — the forms of the avatāras and the rest) **anūdya** (having named), **māyā-mātram** (the world) **pratiṣidhya** (having rejected), **tad-ante** (at the end) **mām** (Me, the highest goal) **āsthāya** (taking as shelter) **prasīdati** (ceases from activity; that is, resting on Me alone in the form of Śrī Kṛṣṇa, it attains its goal).
+(Having said that the great Vedic speech in its entirety is unknowable in its nature, He says that it is unknowable in its meaning too:) **kiṁ** **vidhatte** (what does the *karma-kāṇḍa* — one of the three *kāṇḍas* of the Vedic scriptures: of karma, of the *devatās* and of jñāna — enjoin by its injunctions), **kim ācaṣṭe** (what does the *devatā-kāṇḍa* reveal by its statements, that is, of what does it speak), **kim anūdya** (relying on what in the *jñāna-kāṇḍa*) **vikalpayet** **iti** (thus) **asyāḥ** (of this *śruti*) **hṛdayaṁ** **loke** (here in the world) **mat** (besides Me) **anyaḥ kaścana** **na veda** (knows). (“Then by Your mercy tell it,” — to this He says:) **mām** (Me in the form of sacrifice, by injunction) **vidhatte** (by the primary sense); **mām eva** (Me in the form of this or that deity) **abhidhatte**; **aham** (I alone) **vikalpya** (having raised doubt) **apohyate** (am rejected: what is rejected is also I; nothing is separate from Me). (He states briefly the meaning of all the Vedas:) **etāvān eva** **sarva-vedārthaḥ** (the meaning of all the Vedas) — **śabdaḥ** (the Veda) **bhidām** (the differences — the forms of the avatāras and the rest) **anūdya** (having named), **māyā-mātram** (the world) **pratiṣidhya** (having rejected), **tad-ante** (at the end) **mām** (Me, the highest goal) **āsthāya** (taking as shelter) **prasīdati** (ceases from activity; that is, resting on Me alone in the form of Śrī Kṛṣṇa, it attains its goal).
 
 ## 149
 
@@ -560,7 +560,7 @@ See Ādi 2.95.
 
 > Subheading: Kṛṣṇa’s nature examined: He is nondual knowledge, all-pervading, eternity, knowledge and bliss, the source of all avatāras, youthful and the son of the King of Vraja —
 
-O Sanātana, this is how Kṛṣṇa’s nature is examined: Kṛṣṇa is the son of Nanda, the king of Vraja, in the abode of Vraja. He is the truth of nondual knowledge (*advaya-jñāna-tattva*). In His four truths — His name, form, qualities and pastimes — no difference or contradiction born of *māyā* is seen. In other words, the order of differences that belongs to *māyā* cannot operate between Kṛṣṇa’s name, form, qualities and pastimes.
+O Sanātana, this is how Kṛṣṇa’s nature is examined: Kṛṣṇa is the son of Nanda, the king of Vraja, in the abode of Vraja. He is the truth of nondual knowledge (*advaya-jñāna-tattva*). In His four truths — His name, form, qualities and pastimes — no difference or contradiction born of māyā is seen. In other words, the order of differences that belongs to māyā cannot operate between Kṛṣṇa’s name, form, qualities and pastimes.
 
 ## 153
 
@@ -636,7 +636,7 @@ The *svayaṁ-rūpa*. In Śrī Rūpa Prabhu’s *Laghu-bhāgavatāmṛta* (*Pūr
 
 The *tad-ekātma-rūpa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 14): “The form that shines forth nondifferent from Him in nature, yet other in shape and so on, is called the *tad-ekātma-rūpa*.” The form that is manifest as one with the *svayaṁ-rūpa* but appears different in shape, opulence and so on (in the build of the body, in character and so on) is called the *tad-ekātma-rūpa*. It is of two kinds: *svāṁśa* and *vilāsa*.
 
-The *āveśa-rūpa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 18): “Those whom Janārdana enters with a portion of His potency of knowledge and so on are called *āveśas*; they are the greatest of *jīvas*.” The greatest *jīvas*, whom Janārdana enters with a portion (*kalā*) of His potency of knowledge and so on, are called *āveśa*.
+The *āveśa-rūpa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 18): “Those whom Janārdana enters with a portion of His potency of knowledge and so on are called *āveśas*; they are the greatest of jīvas.” The greatest jīvas, whom Janārdana enters with a portion (*kalā*) of His potency of knowledge and so on, are called *āveśa*.
 
 ## 166
 
@@ -644,7 +644,7 @@ The *āveśa-rūpa*. In the *Laghu-bhāgavatāmṛta* (*Pūrva-khaṇḍa* 18): 
 
 ## 167
 
-> Subheading: Among the six kinds of *vilāsa* of Kṛṣṇa’s form, (2) the *svayaṁ-prakāśa* is of two kinds, (a) *prābhava* and (b) *vaibhava*; in the *rāsa* — the *prābhava-prakāśa*, at the marriage with the queens — the *vaibhava-prakāśa*[^167-1] —
+> Subheading: Among the six kinds of *vilāsa* of Kṛṣṇa’s form, (2) the *svayaṁ-prakāśa* is of two kinds, (a) *prābhava* and (b) *vaibhava*; in the rāsa — the *prābhava-prakāśa*, at the marriage with the queens — the *vaibhava-prakāśa*[^167-1] —
 
 ## 169
 
@@ -686,7 +686,7 @@ Akrūra was taking Bhagavān Rāma and Kṛṣṇa by chariot from Gokula to Mat
 
 ## 177
 
-> Subheading: The son of the King of Vraja thinks of Himself as a cowherd, Vāsudeva as a *kṣatriya* —
+> Subheading: The son of the King of Vraja thinks of Himself as a cowherd, Vāsudeva as a kṣatriya —
 
 ## 178
 
@@ -738,11 +738,11 @@ See Ādi 4.146.
 
 ## 187
 
-> Subheading: Of them, one form is Balarāma: in Vraja He thinks of Himself as a cowherd, and in the city as a *kṣatriya*; this is why He is called a *vilāsa* —
+> Subheading: Of them, one form is Balarāma: in Vraja He thinks of Himself as a cowherd, and in the city as a kṣatriya; this is why He is called a *vilāsa* —
 
 ## 188
 
-> Subheading: One and the same Balarāma, in the form of the *vaibhava-prakāśa* and in the form of the *prābhava-vilāsa* (the original *catur-vyūha*), by the difference of the mood of a cowherd and of a *kṣatriya* —
+> Subheading: One and the same Balarāma, in the form of the *vaibhava-prakāśa* and in the form of the *prābhava-vilāsa* (the original *catur-vyūha*), by the difference of the mood of a cowherd and of a kṣatriya —
 
 Śrī Baladeva is the *vaibhava-prakāśa* of Kṛṣṇa. He, differing in mood, is also manifest in the four *prābhava-vilāsas*, the original *catur-vyūha*: Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha.
 
@@ -840,9 +840,9 @@ Within the universe Bhagavān abides as *arcā-mūrtis* (Deities) in various for
 
 ## 218
 
-> Subheading: For the joy of the devotees, the establishment of *dharma* and the destruction of *adharma* — that is, for *vilāsa*, or pastimes — they appear in the universe —
+> Subheading: For the joy of the devotees, the establishment of dharma and the destruction of *adharma* — that is, for *vilāsa*, or pastimes — they appear in the universe —
 
-The *sapta-dvīpa* (the seven *dvīpas*). In the *Siddhānta-śiromaṇi* (in the *Golādhyāya*, in the section in praise of the sphere): “The best of *ācāryas* call Jambudvīpa that half of the earth which lies north of the ocean of milk. In the other half, to the south, lie six *dvīpas* and the oceans of salt, milk and the rest. Śāka, then Śālmala, Kuśa, Krauñca, Gomedaka and Puṣkara: each of them, lying between two oceans, is called a *dvīpa*.” (1) Jambu, (2) Śāka, (3) Śālmalī, (4) Kuśa, (5) Krauñca, (6) Gomeda, or Plakṣa, and (7) Puṣkara — these are the seven *dvīpas*.
+The *sapta-dvīpa* (the seven *dvīpas*). In the *Siddhānta-śiromaṇi* (in the *Golādhyāya*, in the section in praise of the sphere): “The best of ācāryas call Jambudvīpa that half of the earth which lies north of the ocean of milk. In the other half, to the south, lie six *dvīpas* and the oceans of salt, milk and the rest. Śāka, then Śālmala, Kuśa, Krauñca, Gomedaka and Puṣkara: each of them, lying between two oceans, is called a *dvīpa*.” (1) Jambu, (2) Śāka, (3) Śālmalī, (4) Kuśa, (5) Krauñca, (6) Gomeda, or Plakṣa, and (7) Puṣkara — these are the seven *dvīpas*.
 
 The *nava-khaṇḍa* (the nine *khaṇḍas*): (1) Bhārata, (2) Kinnara (Kimpuruṣa), (3) Hari, (4) Kuru, (5) Hiraṇmaya, (6) Ramyaka (Ramaṇaka), (7) Ilāvṛta, (8) Bhadrāśva, (9) Ketumāla — these are the nine *khaṇḍas*, or *varṣas* (the nine parts of Jambudvīpa). The region between two mountain ranges is called a *khaṇḍa*, or *varṣa* — see the *Bhuvana-kośa* in the *Golādhyāya*.
 
@@ -900,7 +900,7 @@ It should be noted here that although Varāha and Hayagrīva, who belong to this
 
 > Subheading: An introduction to the *nava-vyūha* — (*Laghu-bhāgavatāmṛta*, *Pūrva-khaṇḍa*, the account of the *nava-vyūha*: Śrī Rūpa’s words) —
 
-**vāsudevādyāḥ** (Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha) **catvāraḥ** (the second *vyūha*), **nārāyaṇa-nṛsiṁhakau** (the two, Nārāyaṇa and Nṛsiṁha), **hayagrīvaḥ**, **varāhaḥ ca**, **brahmā ca** **iti** **nava** (nine forms, *vyūhas*) **uditāḥ** (are named: “By Brahmā here Hari is to be understood, by the rule stated before.” By the rule stated in the words of the *Padma Purāṇa*,[^242-1] “In some great *kalpa* even a *jīva* becomes Brahmā by his worship; and somewhere here Mahā-Viṣṇu takes the position of Brahmā,” Brahmā here is to be understood as belonging to the category of the Lord).
+**vāsudevādyāḥ** (Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha) **catvāraḥ** (the second *vyūha*), **nārāyaṇa-nṛsiṁhakau** (the two, Nārāyaṇa and Nṛsiṁha), **hayagrīvaḥ**, **varāhaḥ ca**, **brahmā ca** **iti** **nava** (nine forms, *vyūhas*) **uditāḥ** (are named: “By Brahmā here Hari is to be understood, by the rule stated before.” By the rule stated in the words of the *Padma Purāṇa*,[^242-1] “In some great *kalpa* even a jīva becomes Brahmā by his worship; and somewhere here Mahā-Viṣṇu takes the position of Brahmā,” Brahmā here is to be understood as belonging to the category of the Lord).
 
 ## 243
 
@@ -936,7 +936,7 @@ The *śaktyāveśa-avatāras*: (a) *bhagavad-āveśa* — Kapila and Ṛṣabhad
 
 > Subheading: The countless avatāras of Kṛṣṇa —
 
-*Śākhā-candra-nyāya* (the maxim of the moon on the branch): just as on level ground one points to the branch of a tree to show the place of the moon in the sky, this is only an indication of direction. Although the avatāras come within the range of worldly sight, they are not “mundane” (*māyika*). Their transcendental pastimes can be known only by a *jīva* who follows them submissively by the positive way (*anvaya*); they cannot be grasped by the mundane senses of people who follow the path of logic.
+*Śākhā-candra-nyāya* (the maxim of the moon on the branch): just as on level ground one points to the branch of a tree to show the place of the moon in the sky, this is only an indication of direction. Although the avatāras come within the range of worldly sight, they are not “mundane” (*māyika*). Their transcendental pastimes can be known only by a jīva who follows them submissively by the positive way (*anvaya*); they cannot be grasped by the mundane senses of people who follow the path of logic.
 
 ## 249
 
@@ -984,7 +984,7 @@ See Ādi 5.77.
 
 ## 259
 
-> Subheading: The refutation of the Sāṅkhya doctrine: inert *māyā*, agitated by the power of Saṅkarṣaṇa’s glance, becomes active and creates the universe —
+> Subheading: The refutation of the Sāṅkhya doctrine: inert māyā, agitated by the power of Saṅkarṣaṇa’s glance, becomes active and creates the universe —
 
 ## 261
 
@@ -1032,7 +1032,7 @@ See Ādi 5.83.
 
 ## 269
 
-> Subheading: On one shore of the Virajā, or Kāraṇābdhi, is the *turīya* Paravyoma, that is, Vaikuṇṭha, the glory of spirit; on the other shore, the realm of *māyā* (*māyā-vilāsa*), that is, the mundane Devī-dhāma, the glory of the nonspiritual —
+> Subheading: On one shore of the Virajā, or Kāraṇābdhi, is the *turīya* Paravyoma, that is, Vaikuṇṭha, the glory of spirit; on the other shore, the realm of māyā (*māyā-vilāsa*), that is, the mundane Devī-dhāma, the glory of the nonspiritual —
 
 ## 270
 
@@ -1062,9 +1062,9 @@ See *Brahma-saṁhitā* 5.10–13.
 
 ## 274
 
-> Subheading: How the *jīva* and the twenty-seven *tattvas* that house his enjoyment came to be; the cause of the origin of the *mahat-tattva*, the first transformation of *prakṛti* and the sprout of the universe in the form of *citta* — (*Śrīmad-Bhāgavatam* 3.26.19)
+> Subheading: How the jīva and the twenty-seven *tattvas* that house his enjoyment came to be; the cause of the origin of the *mahat-tattva*, the first transformation of *prakṛti* and the sprout of the universe in the form of *citta* — (*Śrīmad-Bhāgavatam* 3.26.19)
 
-Devahūti asked about the characteristics of *puruṣa* and *prakṛti*. In reply Bhagavān Kapiladeva describes to her the twenty-eight *tattvas*, beginning with the *mahat*, and then Bhagavān, the *puruṣa-avatāra* who is their master, and how the *jīvas* become manifest from Him.
+Devahūti asked about the characteristics of *puruṣa* and *prakṛti*. In reply Bhagavān Kapiladeva describes to her the twenty-eight *tattvas*, beginning with the *mahat*, and then Bhagavān, the *puruṣa-avatāra* who is their master, and how the jīvas become manifest from Him.
 
 **daivāt** (by time) **kṣubhita-dharmiṇyāṁ** (in her whose properties, the *guṇas*, are agitated) (in His own) **yonau** (in the womb, in *prakṛti*, the place of manifestation) **paraḥ pumān** (the Supreme Person, Bhagavān Kāraṇārṇavaśāyī) **vīryaṁ** (the *jīva-śakti*) **ādhatta** (placed); **sā** (*prakṛti*) **hiraṇmayaṁ** (full of light) **mahat-tattvaṁ** **asūta** (gave birth to).
 
@@ -1072,15 +1072,15 @@ Devahūti asked about the characteristics of *puruṣa* and *prakṛti*. In repl
 
 > Subheading: The history of the manifestation of the *jīva-śakti* — (*Śrīmad-Bhāgavatam* 3.5.26)
 
-The great soul Vidura asked the sage Śrī Maitreya about Śrī Hari’s pastimes as the *puruṣa-avatāras*. Maitreya describes how the *puruṣa-avatāra* creates the world through *māyā*, and then how the *jīvas* are born from Him.
+The great soul Vidura asked the sage Śrī Maitreya about Śrī Hari’s pastimes as the *puruṣa-avatāras*. Maitreya describes how the *puruṣa-avatāra* creates the world through māyā, and then how the jīvas are born from Him.
 
-**vīryavān** (possessing the *cit-śakti*) **adhokṣajaḥ** (Bhagavān beyond the senses, the Lord of Mahā-Vaikuṇṭha) **ātma-bhūtena** (by His own part) **puruṣeṇa** (in the form of the master of *prakṛti*, Kāraṇābdhiśāyī) **kāla-vṛttyā** (by the potency of time, the efficient cause) **guṇa-mayyāṁ** (in her whose *guṇas* are agitated) **māyāyāṁ** **vīryam** (the potency called the *jīva*, a reflection of spirit) **ādhatta** (placed).
+**vīryavān** (possessing the *cit-śakti*) **adhokṣajaḥ** (Bhagavān beyond the senses, the Lord of Mahā-Vaikuṇṭha) **ātma-bhūtena** (by His own part) **puruṣeṇa** (in the form of the master of *prakṛti*, Kāraṇābdhiśāyī) **kāla-vṛttyā** (by the potency of time, the efficient cause) **guṇa-mayyāṁ** (in her whose *guṇas* are agitated) **māyāyāṁ** **vīryam** (the potency called the jīva, a reflection of spirit) **ādhatta** (placed).
 
 ## 276
 
 > Subheading: From the *mahat-tattva*, the constituents of the universe — the “three *ahaṅkāras*” —
 
-The *mahat-tattva* exists as *citta* (consciousness); its presiding deity is Vāsudeva (*Śrīmad-Bhāgavatam* 3.26.21). From the transformation of the *mahat-tattva* arise: (1) the *vaikārika*, that is, the *sāttvika ahaṅkāra*, and from it the eleventh sense, the mind, whose presiding deity is Aniruddha (*Śrīmad-Bhāgavatam* 3.26.27–28); (2) from the *taijasa*, that is, the *rājasika ahaṅkāra*, the intelligence (*buddhi*), whose presiding deity is Pradyumna, and the senses (*Śrīmad-Bhāgavatam* 3.26.30–31); (3) from the *tāmasa ahaṅkāra*, the sound *tanmātra*, and from it ether, the sense of hearing and the rest (*Śrīmad-Bhāgavatam* 3.26.32). The presiding deity of these three *ahaṅkāras* is Saṅkarṣaṇa (*Śrīmad-Bhāgavatam* 3.26.25). The *Sāṅkhya-kārikā* says: “From the *vaikṛta ahaṅkāra* proceeds the *sāttvika* group of eleven; from the *bhūtādi*, the *tanmātras*, which are *tāmasa*; from the *taijasa*, both.”[^276-1]
+The *mahat-tattva* exists as *citta* (consciousness); its presiding deity is Vāsudeva (*Śrīmad-Bhāgavatam* 3.26.21). From the transformation of the *mahat-tattva* arise: (1) the *vaikārika*, that is, the *sāttvika ahaṅkāra*, and from it the eleventh sense, the mind, whose presiding deity is Aniruddha (*Śrīmad-Bhāgavatam* 3.26.27–28); (2) from the *taijasa*, that is, the *rājasika ahaṅkāra*, the intelligence (*buddhi*), whose presiding deity is Pradyumna, and the senses (*Śrīmad-Bhāgavatam* 3.26.30–31); (3) from the *tāmasa ahaṅkāra*, the sound *tanmātra*, and from it ether, the sense of hearing and the rest (*Śrīmad-Bhāgavatam* 3.26.32). The presiding deity of these three *ahaṅkāras* is Saṅkarṣaṇa (*Śrīmad-Bhāgavatam* 3.26.25). The *Sāṅkhya-kārikā* says: “From the *vaikṛta ahaṅkāra* proceeds the sāttvika group of eleven; from the *bhūtādi*, the *tanmātras*, which are *tāmasa*; from the *taijasa*, both.”[^276-1]
 
 ## 277
 
@@ -1088,7 +1088,7 @@ The *mahat-tattva* exists as *citta* (consciousness); its presiding deity is Vā
 
 ## 278
 
-> Subheading: He is Mahā-Viṣṇu, the creator of the *mahat-tattva*; in the pores of His body are the countless *jīvas*, atomic particles of spirit —
+> Subheading: He is Mahā-Viṣṇu, the creator of the *mahat-tattva*; in the pores of His body are the countless jīvas, atomic particles of spirit —
 
 The original *puruṣa-avatāra*, the creator of the *mahat-tattva*, is called “Mahā-Viṣṇu.” Countless universes rest in the pores of Mahā-Viṣṇu’s body.
 
@@ -1098,7 +1098,7 @@ The original *puruṣa-avatāra*, the creator of the *mahat-tattva*, is called �
 
 ## 280
 
-> Subheading: He Himself is the *tattva* who is the master of *māyā* —
+> Subheading: He Himself is the *tattva* who is the master of māyā —
 
 ## 281
 
@@ -1130,9 +1130,9 @@ See Ādi 5.71.
 
 ## 289
 
-> Subheading: (b) The manifestation of Viṣṇu, the maintainer of the world: though He is the presiding deity of *sattva*, He Himself is beyond the *guṇas* and *māyā* —
+> Subheading: (b) The manifestation of Viṣṇu, the maintainer of the world: though He is the presiding deity of *sattva*, He Himself is beyond the *guṇas* and māyā —
 
-Viṣṇu’s *māyā* cannot cover Viṣṇu as it covers Brahmā and Śiva. Viṣṇu is the Reality beyond the *guṇas*, and so the *guṇas* of *māyā* cannot touch Him. The *guṇa-avatāras* Brahmā and Śiva are subject to *māyā*, but Viṣṇu is not, for the Lord is the master of *māyā* and the *jīva* is subject to *māyā* — this is the difference between them.[^289-1]
+Viṣṇu’s māyā cannot cover Viṣṇu as it covers Brahmā and Śiva. Viṣṇu is the Reality beyond the *guṇas*, and so the *guṇas* of māyā cannot touch Him. The *guṇa-avatāras* Brahmā and Śiva are subject to māyā, but Viṣṇu is not, for the Lord is the master of māyā and the jīva is subject to māyā — this is the difference between them.[^289-1]
 
 ## 290
 
@@ -1144,13 +1144,13 @@ Viṣṇu’s *māyā* cannot cover Viṣṇu as it covers Brahmā and Śiva. Vi
 
 ## 292
 
-> Subheading: This Garbhodaśāyī, the indwelling Lord of Hiraṇyagarbha, the aggregate *jīva*, is praised by the hymn of the *Ṛg-veda* —
+> Subheading: This Garbhodaśāyī, the indwelling Lord of Hiraṇyagarbha, the aggregate jīva, is praised by the hymn of the *Ṛg-veda* —
 
 “The Puruṣa has a thousand heads, a thousand eyes, a thousand feet…” and so on — the hymn of the *Ṛg-veda*.[^292-1]
 
 ## 293
 
-> Subheading: He too is Himself the *tattva* who is the master of *māyā* —
+> Subheading: He too is Himself the *tattva* who is the master of māyā —
 
 ## 294
 
@@ -1158,7 +1158,7 @@ Viṣṇu’s *māyā* cannot cover Viṣṇu as it covers Brahmā and Śiva. Vi
 
 ## 295
 
-> Subheading: He abides in all beings; that is, He is the indwelling Lord and maintainer of the Virāṭ, or of the individual *jīva* —
+> Subheading: He abides in all beings; that is, He is the indwelling Lord and maintainer of the Virāṭ, or of the individual jīva —
 
 ## 296
 
@@ -1192,7 +1192,7 @@ Together with the devas, Brahmā offers a prayer for the destruction of the *asu
 
 ## 302
 
-> Subheading: (1) Brahmā in *rajo-guṇa*: sometimes the greatest *jīva* holds the post of Vairāja Brahmā; sometimes, when there is none, Garbhodaśāyī Himself becomes Hiraṇyagarbha Brahmā —
+> Subheading: (1) Brahmā in *rajo-guṇa*: sometimes the greatest jīva holds the post of Vairāja Brahmā; sometimes, when there is none, Garbhodaśāyī Himself becomes Hiraṇyagarbha Brahmā —
 
 ## 304
 
@@ -1212,13 +1212,13 @@ See Ādi 5.141.
 
 ## 307
 
-> Subheading: (2) Rudra in *tamo-guṇa*: Garbhodaśāyī Himself, in a form joined with *māyā*, becomes Rudra —
+> Subheading: (2) Rudra in *tamo-guṇa*: Garbhodaśāyī Himself, in a form joined with māyā, becomes Rudra —
 
-Kṛṣṇa, as Mahā-Viṣṇu Garbhodakaśāyī — the *kalā* of Kāraṇārṇavaśāyī, who is a part of His own Saṅkarṣaṇa form — takes up *tamo-guṇa* and, to destroy the world, assumes the form of the *guṇa-avatāra* Rudra. Though Viṣṇu is acknowledged as presiding over *sattva-guṇa*, He cannot become subject to *māyā*. Where Viṣṇu’s nature is absent, there is the nature of Śiva or of Brahmā, and in it there is a connection with *māyā*. The nature of Śiva and the nature of Brahmā are subject to the influence of Viṣṇu’s *māyā*.
+Kṛṣṇa, as Mahā-Viṣṇu Garbhodakaśāyī — the *kalā* of Kāraṇārṇavaśāyī, who is a part of His own Saṅkarṣaṇa form — takes up *tamo-guṇa* and, to destroy the world, assumes the form of the *guṇa-avatāra* Rudra. Though Viṣṇu is acknowledged as presiding over *sattva-guṇa*, He cannot become subject to māyā. Where Viṣṇu’s nature is absent, there is the nature of Śiva or of Brahmā, and in it there is a connection with māyā. The nature of Śiva and the nature of Brahmā are subject to the influence of Viṣṇu’s māyā.
 
 ## 308
 
-> Subheading: As Kṛṣṇa’s *svāṁśa*, Rudra is in truth a non-separated part of the *īśvara* category; yet as the destroyer of the world, through the transformation caused by contact with *māyā*, He is a separated part, a *jīva* —
+> Subheading: As Kṛṣṇa’s *svāṁśa*, Rudra is in truth a non-separated part of the *īśvara* category; yet as the destroyer of the world, through the transformation caused by contact with māyā, He is a separated part, a jīva —
 
 ## 309
 
@@ -1226,7 +1226,7 @@ Kṛṣṇa, as Mahā-Viṣṇu Garbhodakaśāyī — the *kalā* of Kāraṇār
 
 ## 308–309
 
-Rudra is a *tattva* both different and non-different from Viṣṇu. He undergoes transformation in association with *māyā*, and so He is “different” from Viṣṇu, while in truth He is non-different from Viṣṇu. Viṣṇu is never different from Viṣṇu; but Śiva, Brahmā and others, under the sway of *māyā*, are different from Viṣṇu. Viṣṇu is never subject to transformation. Where a transformation of *māyā* is seen in the nature of the Lord, that is a form different from Viṣṇu — Śiva or Brahmā, called *guṇa-avatāras*. Thus Rudra, endowed with transformation and manifest as different and non-different, is *jīva-tattva*: by His intrinsic nature He is not *viṣṇu-tattva*, Kṛṣṇa’s own form, but the *tattva* of a Vaiṣṇava. The Lord is the milk. Through contact with a sour substance — *māyā* — it passes from the state of milk into a transformation of milk, yogurt. Therefore yogurt, though born of milk, can never present itself as milk.
+Rudra is a *tattva* both different and non-different from Viṣṇu. He undergoes transformation in association with māyā, and so He is “different” from Viṣṇu, while in truth He is non-different from Viṣṇu. Viṣṇu is never different from Viṣṇu; but Śiva, Brahmā and others, under the sway of māyā, are different from Viṣṇu. Viṣṇu is never subject to transformation. Where a transformation of māyā is seen in the nature of the Lord, that is a form different from Viṣṇu — Śiva or Brahmā, called *guṇa-avatāras*. Thus Rudra, endowed with transformation and manifest as different and non-different, is *jīva-tattva*: by His intrinsic nature He is not *viṣṇu-tattva*, Kṛṣṇa’s own form, but the *tattva* of a Vaiṣṇava. The Lord is the milk. Through contact with a sour substance — māyā — it passes from the state of milk into a transformation of milk, yogurt. Therefore yogurt, though born of milk, can never present itself as milk.
 
 ## 310
 
@@ -1238,7 +1238,7 @@ Rudra is a *tattva* both different and non-different from Viṣṇu. He undergoe
 
 > Subheading: The difference between Rudra and Viṣṇu —
 
-Bhagavān Viṣṇu is the independent Supreme Lord, beyond the three *guṇas* and untouched by the influence of His own *māyā*. Śiva by his intrinsic nature is a *bhāgavata* (devotee); yet, becoming the lord of *tamo-guṇa*, one of the three *guṇas*, he is joined with *māyā*, and by force of association with *māyā-śakti* he is involved in it. In Bhagavān Viṣṇu *māyā* has no existence; Śiva’s existence, however, lies in experiencing the existence of *māyā*. Therefore Rudra is not *viṣṇu-tattva* but a particular *tattva* in contact with *māyā*. When, experiencing his own existence as a *bhāgavata*, Śiva gives up the idea that he is the lord of *māyā* or the enjoyer of *māyā*, his nature as a servant of Hari becomes manifest.
+Bhagavān Viṣṇu is the independent Supreme Lord, beyond the three *guṇas* and untouched by the influence of His own māyā. Śiva by his intrinsic nature is a *bhāgavata* (devotee); yet, becoming the lord of *tamo-guṇa*, one of the three *guṇas*, he is joined with māyā, and by force of association with *māyā-śakti* he is involved in it. In Bhagavān Viṣṇu māyā has no existence; Śiva’s existence, however, lies in experiencing the existence of māyā. Therefore Rudra is not *viṣṇu-tattva* but a particular *tattva* in contact with māyā. When, experiencing his own existence as a *bhāgavata*, Śiva gives up the idea that he is the lord of māyā or the enjoyer of māyā, his nature as a servant of Hari becomes manifest.
 
 ## 312
 
@@ -1250,7 +1250,7 @@ Parīkṣit asked about the opposite destinations of those who worship Rudra and
 
 ## 313
 
-> Subheading: Viṣṇu is beyond the *guṇas* and *māyā*; He is Adhokṣaja —
+> Subheading: Viṣṇu is beyond the *guṇas* and māyā; He is Adhokṣaja —
 
 **hariḥ hi** (indeed) **prakṛteḥ paraḥ** (not mixed with the material *guṇas*, as Brahmā, Śiva and others are, for He is Adhokṣaja) **sākṣāt** (uncovered) **nirguṇaḥ** (for *sattva* acts by His mere will) **puruṣaḥ** (Puruṣottama); **saḥ** (Hari) **sarva-dṛk** (the seer for all — for Brahmā, Śiva and the rest: He from whom comes the knowledge that leads to liberation; or, He who sees everything; therefore) **upadraṣṭā** (He sees the liberated near Him and is attainable by the liberated; or, He is the original witness; therefore) **taṁ** (Hari) **bhajan** **nirguṇaḥ** (established in one’s own true nature) **bhavet**.
 
@@ -1312,7 +1312,7 @@ The Manus are: (1) Svāyambhuva, the son of Brahmā Svayambhū; (2) Svārociṣa
 
 > Subheading: In the four *yugas*, avatāras of four colours —
 
-In Satya-yuga, the white *yuga-avatāra*; in Tretā-yuga, the red *yuga-avatāra*; in Dvāpara-yuga, the black *yuga-avatāra*; and in Kali-yuga, the golden *yuga-avatāra*. Assuming these four colours, Kṛṣṇa as the *yuga-avatāra* upholds *dharma*.
+In Satya-yuga, the white *yuga-avatāra*; in Tretā-yuga, the red *yuga-avatāra*; in Dvāpara-yuga, the black *yuga-avatāra*; and in Kali-yuga, the golden *yuga-avatāra*. Assuming these four colours, Kṛṣṇa as the *yuga-avatāra* upholds dharma.
 
 ## 331
 
@@ -1352,9 +1352,9 @@ Nimi, the king of Videha, asked: “In which *yuga*, assuming which colour, and 
 
 ## 338
 
-> Subheading: In Kali-yuga Bhagavān is golden and two-armed, the preacher of the Name and *prema* —
+> Subheading: In Kali-yuga Bhagavān is golden and two-armed, the preacher of the Name and prema —
 
-Kṛṣṇa, assuming a golden colour, established the *dharma* of Kali-yuga — the *saṅkīrtana* of Kṛṣṇa’s name — and together with the devotees bestowed on the people *prema-bhakti* for Kṛṣṇa.
+Kṛṣṇa, assuming a golden colour, established the dharma of Kali-yuga — the saṅkīrtana of Kṛṣṇa’s name — and together with the devotees bestowed on the people prema-bhakti for Kṛṣṇa.
 
 ## 339
 
@@ -1368,15 +1368,15 @@ See Ādi 3.51.
 
 ## 341
 
-> Subheading: The *dharma* of Kali-yuga — the glory of *nāma-kīrtana* —
+> Subheading: The dharma of Kali-yuga — the glory of *nāma-kīrtana* —
 
 ## 342
 
 > Subheading: In praise of Kali-yuga — (*Śrīmad-Bhāgavatam* 12.3.51–52)
 
-Parīkṣit asked about the *dharma* of human beings in the sinful Kali-yuga and the means of destroying *anarthas*. Śrī Śukadeva described the *dharma* of Satya, Tretā and Dvāpara, named the countless faults of Kali-yuga, and at the end of the chapter glorifies its quality.
+Parīkṣit asked about the dharma of human beings in the sinful Kali-yuga and the means of destroying *anarthas*. Śrī Śukadeva described the dharma of Satya, Tretā and Dvāpara, named the countless faults of Kali-yuga, and at the end of the chapter glorifies its quality.
 
-**he rājan** **doṣa-nidheḥ** (even of the abode of faults) **kaleḥ** (of Kali-yuga) **ekaḥ mahān guṇaḥ** **asti**; **hi** (for) **kṛṣṇasya kīrtanāt** (by chanting the names, form, qualities and pastimes of Śrī Hari and of what is His) **eva** **mukta-saṅgaḥ** (free from other desires and uncovered by *jñāna*, *karma* and the like) **paraṁ** (the fifth goal of life, *kṛṣṇa-prema*) **vrajet** (attains).
+**he rājan** **doṣa-nidheḥ** (even of the abode of faults) **kaleḥ** (of Kali-yuga) **ekaḥ mahān guṇaḥ** **asti**; **hi** (for) **kṛṣṇasya kīrtanāt** (by chanting the names, form, qualities and pastimes of Śrī Hari and of what is His) **eva** **mukta-saṅgaḥ** (free from other desires and uncovered by jñāna, karma and the like) **paraṁ** (the fifth goal of life, *kṛṣṇa-prema*) **vrajet** (attains).
 
 ## 343
 
@@ -1422,7 +1422,7 @@ Nimi, the king of Videha, asked: “In which *yuga*, assuming which colour, and 
 
 ## 353
 
-> Subheading: Viṣṇu is recognised by power unattainable for the *jīva* and immeasurable — (*Śrīmad-Bhāgavatam* 10.10.34)
+> Subheading: Viṣṇu is recognised by power unattainable for the jīva and immeasurable — (*Śrīmad-Bhāgavatam* 10.10.34)
 
 When Kṛṣṇa, showing mercy, broke the two *yamala-arjuna* trees, Kuvera’s two sons, Nalakūvara and Maṇigrīva, offer prayers to Kṛṣṇa.
 
@@ -1464,7 +1464,7 @@ See Madhya 8.266.[^357-1]
 
 > Subheading: Before a devotee expert in worship, the hidden nature of Bhagavān is revealed —
 
-In the age of Kali, the *svarūpa-lakṣaṇa* of the *yuga-avatāra* is His form of golden colour, and His *taṭastha-lakṣaṇa* is the work of giving *prema* and of *saṅkīrtana*.
+In the age of Kali, the *svarūpa-lakṣaṇa* of the *yuga-avatāra* is His form of golden colour, and His *taṭastha-lakṣaṇa* is the work of giving prema and of saṅkīrtana.
 
 ## 363
 
@@ -1502,7 +1502,7 @@ In the age of Kali, the *svarūpa-lakṣaṇa* of the *yuga-avatāra* is His for
 
 > Subheading: (2) A description of the *vibhūtis* of the *Gītā* —
 
-On the nature of the *vibhūtis* of *māyā*, see *Śrīmad-Bhāgavatam* 2.7.39.
+On the nature of the *vibhūtis* of māyā, see *Śrīmad-Bhāgavatam* 2.7.39.
 
 ## 373
 
@@ -1582,7 +1582,7 @@ See Ādi 2.20.
 
 ## 379–395
 
-Kṛṣṇa’s pastimes are eternally manifest. In the countless universes, from time to time and one after another, the eternal pastimes become manifest. In one universe, beginning with the pastime of Kṛṣṇa’s birth, the pastimes are manifest for one hundred twenty-five years, up to the pastime that ends with the Mauṣala, and then in that universe the pastimes become unmanifest. One moment of Kṛṣṇa’s pastimes becomes manifest in one universe; when the first moment ends and the second begins, the pastime of the first moment becomes manifest in another universe. Thus, in countless, endless universes the pastime of each moment becomes manifest, and in another universe the pastime of that moment rises again. As an example of this, the path of the sun — its movement along the circle of the heavenly bodies (*jyotiś-cakra*) — has been described. In the endless universes Kṛṣṇa’s countless pastimes rise one after another and become unmanifest again. The knowledge of a *jīva* cannot grasp these endless pastimes. The stream of the Gaṅgā is unbroken, and the whirling of a firebrand wheel (*alāta-cakra*) is continuous and all-encompassing; so too the manifestation of Kṛṣṇa’s pastimes in the various universes is perceived as unbroken. Kṛṣṇa’s birth, childhood, boyhood, youth and other pastimes take place eternally. Even if the *jīvas* in some one universe do not experience the eternal manifestation of Kṛṣṇa’s pastimes, they are still eternal. “*Nitya-līlā*” means the eternal manifestation of all the pastimes at one and the same time; but in the world the pastimes are manifest in sequence. At that time the other pastimes are manifest in other universes, and so in any one universe at one time their eternity is not perceived. In truth the pastimes are eternal: over fourteen *manvantaras*, that is, in the span allotted to a *kalpa*, the circle of Kṛṣṇa’s pastimes is repeated in sequence in some one universe; therefore the pastimes are not transient. The eternal pastimes are not visible in other universes, and so the people of this universe cannot perceive them. That is why the Vedas, the Purāṇas and other scriptures speak precisely of the eternal pastimes: the eternal place of Goloka’s pastimes is manifested gradually in the universes.
+Kṛṣṇa’s pastimes are eternally manifest. In the countless universes, from time to time and one after another, the eternal pastimes become manifest. In one universe, beginning with the pastime of Kṛṣṇa’s birth, the pastimes are manifest for one hundred twenty-five years, up to the pastime that ends with the Mauṣala, and then in that universe the pastimes become unmanifest. One moment of Kṛṣṇa’s pastimes becomes manifest in one universe; when the first moment ends and the second begins, the pastime of the first moment becomes manifest in another universe. Thus, in countless, endless universes the pastime of each moment becomes manifest, and in another universe the pastime of that moment rises again. As an example of this, the path of the sun — its movement along the circle of the heavenly bodies (*jyotiś-cakra*) — has been described. In the endless universes Kṛṣṇa’s countless pastimes rise one after another and become unmanifest again. The knowledge of a jīva cannot grasp these endless pastimes. The stream of the Gaṅgā is unbroken, and the whirling of a firebrand wheel (*alāta-cakra*) is continuous and all-encompassing; so too the manifestation of Kṛṣṇa’s pastimes in the various universes is perceived as unbroken. Kṛṣṇa’s birth, childhood, boyhood, youth and other pastimes take place eternally. Even if the jīvas in some one universe do not experience the eternal manifestation of Kṛṣṇa’s pastimes, they are still eternal. “*Nitya-līlā*” means the eternal manifestation of all the pastimes at one and the same time; but in the world the pastimes are manifest in sequence. At that time the other pastimes are manifest in other universes, and so in any one universe at one time their eternity is not perceived. In truth the pastimes are eternal: over fourteen *manvantaras*, that is, in the span allotted to a *kalpa*, the circle of Kṛṣṇa’s pastimes is repeated in sequence in some one universe; therefore the pastimes are not transient. The eternal pastimes are not visible in other universes, and so the people of this universe cannot perceive them. That is why the Vedas, the Purāṇas and other scriptures speak precisely of the eternal pastimes: the eternal place of Goloka’s pastimes is manifested gradually in the universes.
 
 ## 396
 
@@ -1640,7 +1640,7 @@ On the principle of “the moon on the branch” (*śākhā-candra-nyāya*), see
 
 [^276-1]: *Sāṅkhya-kārikā* 25.
 
-[^289-1]: Cf. Madhya 6.162: “The Lord is the master of *māyā*, and the *jīva* is subject to *māyā* — this is the difference between them.”
+[^289-1]: Cf. Madhya 6.162: “The Lord is the master of māyā, and the jīva is subject to māyā — this is the difference between them.”
 
 [^292-1]: *Ṛg-veda* 10.90.1 (the *Puruṣa-sūkta*).
 

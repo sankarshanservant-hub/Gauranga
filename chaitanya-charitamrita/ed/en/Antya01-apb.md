@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** When the Gauḍīya devotees received word that Mahāprabhu had returned from Śrī Vṛndāvana to Śrī Kṣetra, they set out for Puruṣottama. Śivānanda Sena was taking a dog along with him and paying its fare at the river crossings. One night the dog was not given its rice, and it went away to the Lord. The next day Śivānanda and the others reached Mahāprabhu and saw that very dog eating *prasāda* — coconut pulp the Lord had given it. Afterwards the dog attained liberation and went (to Vaikuṇṭha). Meanwhile Śrī Rūpa Gosvāmī had set out from Vṛndāvana, but he could not travel together with the Gauḍīya devotees: he reached Nīlācala some days later and stayed with Haridāsa. Mahāprabhu read the verse “*priyaḥ so ’yaṁ*” composed by Śrī Rūpa and was overjoyed. One day Mahāprabhu came to Haridāsa’s dwelling with Rāmānanda Rāya, Sārvabhauma and other devotees and heard the introductory and other verses of Śrī Rūpa’s two plays, the *Lalita-mādhava* and the *Vidagdha-mādhava*. Rāmānanda Rāya examined many of their parts, major and minor, and concluded that both plays were of the highest excellence. After the *cāturmāsya* the Gauḍīya devotees, by the Lord’s order, set out for Gauḍa. Śrī Rūpa Gosvāmī remained in Śrī Kṣetra.
+**Summary.** When the Gauḍīya devotees received word that Mahāprabhu had returned from Śrī Vṛndāvana to Śrī Kṣetra, they set out for Puruṣottama. Śivānanda Sena was taking a dog along with him and paying its fare at the river crossings. One night the dog was not given its rice, and it went away to the Lord. The next day Śivānanda and the others reached Mahāprabhu and saw that very dog eating prasāda — coconut pulp the Lord had given it. Afterwards the dog attained liberation and went (to Vaikuṇṭha). Meanwhile Śrī Rūpa Gosvāmī had set out from Vṛndāvana, but he could not travel together with the Gauḍīya devotees: he reached Nīlācala some days later and stayed with Haridāsa. Mahāprabhu read the verse “*priyaḥ so ’yaṁ*” composed by Śrī Rūpa and was overjoyed. One day Mahāprabhu came to Haridāsa’s dwelling with Rāmānanda Rāya, Sārvabhauma and other devotees and heard the introductory and other verses of Śrī Rūpa’s two plays, the *Lalita-mādhava* and the *Vidagdha-mādhava*. Rāmānanda Rāya examined many of their parts, major and minor, and concluded that both plays were of the highest excellence. After the *cāturmāsya* the Gauḍīya devotees, by the Lord’s order, set out for Gauḍa. Śrī Rūpa Gosvāmī remained in Śrī Kṣetra.
 
 ## 1
 
@@ -94,7 +94,7 @@ O wise ones! Though this composition, full of descriptions of Hari’s qualities
 
 ## 140
 
-*Pūrvānurāga* means *pūrva-rāga*, the first attraction, before meeting; *vikāra* is the transformation of love (*praṇaya-vikāra*), that is, the lovesickness (*vyādhi*) born of divine madness; *ceṣṭā* means the bodily actions born of *prema*; *kāma-likhana* is a letter of the gopīs that reveals their love. The Lord[^140-1] asked about the causes from which *prema* arises, and Śrī Rūpa told everything.
+*Pūrvānurāga* means *pūrva-rāga*, the first attraction, before meeting; *vikāra* is the transformation of love (*praṇaya-vikāra*), that is, the lovesickness (*vyādhi*) born of divine madness; *ceṣṭā* means the bodily actions born of prema; *kāma-likhana* is a letter of the gopīs that reveals their love. The Lord[^140-1] asked about the causes from which prema arises, and Śrī Rūpa told everything.
 
 ## 142
 
@@ -118,11 +118,11 @@ Rādhikā, overcome by *pūrva-rāga*, says: “I heard the syllables of the nam
 
 ## 149
 
-When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, Śrī Rūpa answered: “The nature of *prema* is natural (*sāhajika*) in itself.”
+When Rāya asked about the “natural” (*sahaja*) characteristic of prema, Śrī Rūpa answered: “The nature of prema is natural (*sāhajika*) in itself.”
 
 ## 150
 
-*Svārasika* means natural. Natural *prema* acts and plays in this way. When the loving one hears herself praised (by the beloved), she shows indifference but feels a special pain. When she hears herself blamed (by the beloved), she takes it as the charm of a jest, and it gives her (great) joy. When she sees some fault in the one she loves, her love does not diminish at all; and when she sees some virtue in him, (her love) does not grow either.
+*Svārasika* means natural. Natural prema acts and plays in this way. When the loving one hears herself praised (by the beloved), she shows indifference but feels a special pain. When she hears herself blamed (by the beloved), she takes it as the charm of a jest, and it gives her (great) joy. When she sees some fault in the one she loves, her love does not diminish at all; and when she sees some virtue in him, (her love) does not grow either.
 
 ## 151
 
@@ -130,7 +130,7 @@ When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, �
 
 ## 152
 
-“Sakhī, I longed for happiness in His embrace — and for His sake I cast off even My great shyness before the elders. For His sake I caused you so much pain, though you are dearer to Me than life. For His sake I counted as nothing even that *dharma* (of fidelity to a husband) on which chaste women rely. And now Kṛṣṇa Himself has neglected Me, yet I, sinful as I am, still live! Shame on My steadiness!”
+“Sakhī, I longed for happiness in His embrace — and for His sake I cast off even My great shyness before the elders. For His sake I caused you so much pain, though you are dearer to Me than life. For His sake I counted as nothing even that dharma (of fidelity to a husband) on which chaste women rely. And now Kṛṣṇa Himself has neglected Me, yet I, sinful as I am, still live! Shame on My steadiness!”
 
 ## 153
 
@@ -138,11 +138,11 @@ When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, �
 
 ## 154
 
-“With hearts stained by suffering we are going to the abode of Yama this very day, and still this Kṛṣṇa does not give up His affectionate laughter full of deceit (a cruel laughter so full of deceit)! O wise Rādhikā, how could so lofty a *prema* arise in You for this philanderer of the cowherd village, so full of deep guile?”
+“With hearts stained by suffering we are going to the abode of Yama this very day, and still this Kṛṣṇa does not give up His affectionate laughter full of deceit (a cruel laughter so full of deceit)! O wise Rādhikā, how could so lofty a prema arise in You for this philanderer of the cowherd village, so full of deep guile?”
 
 ## 155
 
-“O Kṛṣṇa, ocean! The river Rādhikā, whose nature is ever-new *rasa*, has left far behind the path that ran beside the tree — her lawful husband; she has swiftly broken the bridge of *dharma*, forcibly crossed the mountain of the elders, and reached You. How is it that You now show her estrangement with waves of words?”
+“O Kṛṣṇa, ocean! The river Rādhikā, whose nature is ever-new rasa, has left far behind the path that ran beside the tree — her lawful husband; she has swiftly broken the bridge of dharma, forcibly crossed the mountain of the elders, and reached You. How is it that You now show her estrangement with waves of words?”
 
 ## 158
 
@@ -198,7 +198,7 @@ The beauty of Her eyes forcibly swallows the beauty of a newly blossomed blue lo
 
 ## 171
 
-“Her cheeks, with a gentle, gentle smile, are stirred by waves of the *rasa* of joy; Her creeper-brows dance like the bow of Kāma, resembling a bee that darts about in intoxicated abandon. And the glance that flew from Her lashes has stung My heart.”
+“Her cheeks, with a gentle, gentle smile, are stirred by waves of the rasa of joy; Her creeper-brows dance like the bow of Kāma, resembling a bee that darts about in intoxicated abandon. And the glance that flew from Her lashes has stung My heart.”
 
 ## 175
 
@@ -206,7 +206,7 @@ The *cakravāka* birds — the breasts of the wives of the enemies of the gods �
 
 ## 177
 
-Rising over the earth, He pours out the nectar of the *rasa* of love for Himself; He has accepted the position of supreme king of the twice-born; He dispels the darkness; He wins the minds of the whole world. May that moon named Śacīnandana grant me auspiciousness.
+Rising over the earth, He pours out the nectar of the rasa of love for Himself; He has accepted the position of supreme king of the twice-born; He dispels the darkness; He wins the minds of the whole world. May that moon named Śacīnandana grant me auspiciousness.
 
 ## 184
 

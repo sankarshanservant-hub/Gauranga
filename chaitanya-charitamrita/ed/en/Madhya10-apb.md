@@ -2,15 +2,15 @@
 
 ## 0
 
-**Summary.** When Mahāprabhu set out on His journey to the South, King Pratāparudra had many conversations with Sārvabhauma. The king expressed his wish to see Mahāprabhu, and Sārvabhauma told him that when Mahāprabhu returned from the South he would somehow arrange a meeting with Him. After His return Mahāprabhu lived in the house of Kāśī Miśra. Sārvabhauma introduced to Śrī Mahāprabhu the Vaiṣṇavas who lived in the Kṣetra. Bhavānanda Rāya, the father of Rāmānanda, left Vāṇīnātha Paṭṭanāyaka with Mahāprabhu. Mahāprabhu exposed the fault of Kālā Kṛṣṇadāsa, his association with the Bhaṭṭathāris, and proposed to send him away. Then Nityānanda Prabhu and the other devotees took counsel together and sent him to Śrī Navadvīpa and all over Gauḍa with the news of the Lord’s return. When the news reached Navadvīpa and other places, the devotees began to prepare to come for the Lord’s *darśana*. Meanwhile Paramānanda Purī came to the town of Nadīyā. Hearing that the Lord had reached Nīlācala, he took the brāhmaṇa Kamalākānta with him and came to Mahāprabhu in Puruṣottama. Puruṣottama Bhaṭṭācārya, a resident of Navadvīpa, accepted *sannyāsa* in Vārāṇasī from a guru named “Caitanyānanda,” took the name “Svarūpa,” and appeared at Mahāprabhu’s feet in Nīlācala. After the departure of Śrī Īśvara Purī, his servant Govinda came to Mahāprabhu by his order. Brahmānanda Bhāratī was worthy of the Lord’s respect because of his relation to Keśava Bhāratī. When he came, the Lord mercifully made him give up his garment of skin. By the Lord’s power Brahmānanda understood Mahāprabhu’s greatness and concluded that He was Kṛṣṇa. Sārvabhauma declared Mahāprabhu to be Kṛṣṇa Himself, but Mahāprabhu dismissed those words as “excessive praise.” (Meanwhile, one day) Kāśīśvara Gosvāmī arrived. This chapter describes how devotees from many lands met Mahāprabhu, as rivers meet the ocean.
+**Summary.** When Mahāprabhu set out on His journey to the South, King Pratāparudra had many conversations with Sārvabhauma. The king expressed his wish to see Mahāprabhu, and Sārvabhauma told him that when Mahāprabhu returned from the South he would somehow arrange a meeting with Him. After His return Mahāprabhu lived in the house of Kāśī Miśra. Sārvabhauma introduced to Śrī Mahāprabhu the Vaiṣṇavas who lived in the Kṣetra. Bhavānanda Rāya, the father of Rāmānanda, left Vāṇīnātha Paṭṭanāyaka with Mahāprabhu. Mahāprabhu exposed the fault of Kālā Kṛṣṇadāsa, his association with the Bhaṭṭathāris, and proposed to send him away. Then Nityānanda Prabhu and the other devotees took counsel together and sent him to Śrī Navadvīpa and all over Gauḍa with the news of the Lord’s return. When the news reached Navadvīpa and other places, the devotees began to prepare to come for the Lord’s darśana. Meanwhile Paramānanda Purī came to the town of Nadīyā. Hearing that the Lord had reached Nīlācala, he took the brāhmaṇa Kamalākānta with him and came to Mahāprabhu in Puruṣottama. Puruṣottama Bhaṭṭācārya, a resident of Navadvīpa, accepted sannyāsa in Vārāṇasī from a guru named “Caitanyānanda,” took the name “Svarūpa,” and appeared at Mahāprabhu’s feet in Nīlācala. After the departure of Śrī Īśvara Purī, his servant Govinda came to Mahāprabhu by his order. Brahmānanda Bhāratī was worthy of the Lord’s respect because of his relation to Keśava Bhāratī. When he came, the Lord mercifully made him give up his garment of skin. By the Lord’s power Brahmānanda understood Mahāprabhu’s greatness and concluded that He was Kṛṣṇa. Sārvabhauma declared Mahāprabhu to be Kṛṣṇa Himself, but Mahāprabhu dismissed those words as “excessive praise.” (Meanwhile, one day) Kāśīśvara Gosvāmī arrived. This chapter describes how devotees from many lands met Mahāprabhu, as rivers meet the ocean.
 
 ## 1
 
-I offer my homage to the cloud that is Gaura, who poured down the nectar of His *darśana* and revived the crops of the devotees, withered by the drought of separation.
+I offer my homage to the cloud that is Gaura, who poured down the nectar of His darśana and revived the crops of the devotees, withered by the drought of separation.
 
 ## 13
 
-To travel to holy places in order to purify them, and on that pretext to deliver people caught in worldly life, is the unwavering nature of a Vaiṣṇava. In truth, however, Śrī Kṛṣṇa Caitanya is not a *jīva*: He is the independent Lord. Even so, descending in a hidden way as the *bhakta-avatāra*, He took on the nature of the Vaiṣṇavas.
+To travel to holy places in order to purify them, and on that pretext to deliver people caught in worldly life, is the unwavering nature of a Vaiṣṇava. In truth, however, Śrī Kṛṣṇa Caitanya is not a jīva: He is the independent Lord. Even so, descending in a hidden way as the *bhakta-avatāra*, He took on the nature of the Vaiṣṇavas.
 
 ## 32
 
@@ -22,11 +22,11 @@ Kāśī Miśra hopes that You will live in his house; please mercifully accept t
 
 ## 40
 
-A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the thirsty *cātaka* bird cries out in distress for water, so all these people of Utkala thirst for Your *darśana*. O Lord, accept them *sabe*, all of them.
+A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the thirsty *cātaka* bird cries out in distress for water, so all these people of Utkala thirst for Your darśana. O Lord, accept them *sabe*, all of them.
 
 ## 41
 
-***Anavasare***, during the *anavasara*: the period after the Snāna-yātrā until the *darśana* of the “Nava-yauvana” is the time of *anavasara*.
+***Anavasare***, during the *anavasara*: the period after the Snāna-yātrā until the darśana of the “Nava-yauvana” is the time of *anavasara*.
 
 ## 42
 
@@ -50,15 +50,15 @@ A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the th
 
 ## 108
 
-Seeing the Lord’s *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyāsa* that consists in giving up the *śikhā* and the sacred thread.” His *sannyāsa* name became “Svarūpa-Dāmodara.” He did not accept the rite by which the *yogapaṭṭa* is received. For his *sannyāsa* was not meant to increase any pride in his *āśrama*; he accepted it with only one thought: “I shall serve Kṛṣṇa free from cares.”
+Seeing the Lord’s sannyāsa, Puruṣottama Ācārya accepted “the sannyāsa that consists in giving up the *śikhā* and the sacred thread.” His sannyāsa name became “Svarūpa-Dāmodara.” He did not accept the rite by which the *yogapaṭṭa* is received. For his sannyāsa was not meant to increase any pride in his *āśrama*; he accepted it with only one thought: “I shall serve Kṛṣṇa free from cares.”
 
 ## 111
 
-***Kṛṣṇa-rasa-tattva-vettā*** (knower of the truth of *kṛṣṇa-rasa*). His body was *prema* itself. Seeing him, one felt as if a second form (*svarūpa*) of Mahāprabhu had arisen.
+***Kṛṣṇa-rasa-tattva-vettā*** (knower of the truth of *kṛṣṇa-rasa*). His body was prema itself. Seeing him, one felt as if a second form (*svarūpa*) of Mahāprabhu had arisen.
 
 ## 113
 
-***Bhakti-siddhānta-viruddha*** (contrary to the conclusions of devotion). The conclusion of devotion is *acintya-bhedābheda*; whatever contradicts it is “contrary to the conclusions of devotion.” *Rasābhāsa* is what appears to be *rasa* but is not *rasa*. Vaiṣṇavas should keep far away from these two kinds of non-devotion. For the *jīva* falls by hearing again and again Māyāvāda and other words contrary to the conclusions of devotion. And one who discusses *rasābhāsa* again and again becomes a *prākṛta-sahajiyā*, a *bāul*, and attached to material *rasa*. Śrī Mahāprabhu forbade association with those tainted by these faults, and for that purpose He established the practice of keeping at a distance whatever is contrary to the conclusions of devotion, and *rasābhāsa*.
+***Bhakti-siddhānta-viruddha*** (contrary to the conclusions of devotion). The conclusion of devotion is *acintya-bhedābheda*; whatever contradicts it is “contrary to the conclusions of devotion.” *Rasābhāsa* is what appears to be rasa but is not rasa. Vaiṣṇavas should keep far away from these two kinds of non-devotion. For the jīva falls by hearing again and again Māyāvāda and other words contrary to the conclusions of devotion. And one who discusses *rasābhāsa* again and again becomes a *prākṛta-sahajiyā*, a *bāul*, and attached to material rasa. Śrī Mahāprabhu forbade association with those tainted by these faults, and for that purpose He established the practice of keeping at a distance whatever is contrary to the conclusions of devotion, and *rasābhāsa*.
 
 ## 115
 
@@ -66,11 +66,11 @@ Seeing the Lord’s *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyā
 
 ## 116
 
-Svarūpa Gosvāmī was especially skilled in the science of song and in the *śāstras* in general. Seeing how skilled he was in singing, Śrīman Mahāprabhu had already given him the name “Dāmodara.” To the name “Dāmodara” was joined the name “Svarūpa,” given by his *sannyāsa* guru, and so he came to be called “Dāmodara-Svarūpa.” He also wrote a book on the science of music, the *Saṅgīta-dāmodara*.
+Svarūpa Gosvāmī was especially skilled in the science of song and in the *śāstras* in general. Seeing how skilled he was in singing, Śrīman Mahāprabhu had already given him the name “Dāmodara.” To the name “Dāmodara” was joined the name “Svarūpa,” given by his sannyāsa guru, and so he came to be called “Dāmodara-Svarūpa.” He also wrote a book on the science of music, the *Saṅgīta-dāmodara*.
 
 ## 119
 
-O Śrī Caitanya, ocean of mercy! Your mercy drives away all distress with ease. In it there is perfect purity. In it the highest bliss becomes manifest (eclipsing everything else). When it rises, the disputes over the *śāstras* come to an end. Showering *rasa*, it fills the heart with ecstatic madness. Its activity, the delighting of devotion, always bestows peace. This auspicious mercy of Yours spreads far and wide through the majesty of sweetness (*mādhurya*); may it rise upon me.
+O Śrī Caitanya, ocean of mercy! Your mercy drives away all distress with ease. In it there is perfect purity. In it the highest bliss becomes manifest (eclipsing everything else). When it rises, the disputes over the *śāstras* come to an end. Showering rasa, it fills the heart with ecstatic madness. Its activity, the delighting of devotion, always bestows peace. This auspicious mercy of Yours spreads far and wide through the majesty of sweetness (*mādhurya*); may it rise upon me.
 
 ## 134
 
@@ -110,11 +110,11 @@ The order of my great-souled gurudeva must be carried out by me without delibera
 
 ## 167–169
 
-Listen attentively to my debate with Him. Brahman is *vyāpaka*, that is, all-pervading; the *jīva* is *aṇu*, atomic, that is, pervaded by Brahman. He who removed my skin and purified me is the pervader, and I am the pervaded. Consider, then, who here is “Brahman”: I, Brahmānanda Bhāratī, or He, Kṛṣṇa Caitanya.
+Listen attentively to my debate with Him. Brahman is *vyāpaka*, that is, all-pervading; the jīva is *aṇu*, atomic, that is, pervaded by Brahman. He who removed my skin and purified me is the pervader, and I am the pervaded. Consider, then, who here is “Brahman”: I, Brahmānanda Bhāratī, or He, Kṛṣṇa Caitanya.
 
 ## 171
 
-All the names in the verse *suvarṇa-varṇa* have their abode (*āspada*) in Śrī Kṛṣṇa Caitanya, that is, they have found their place in Him alone. The *prasāda* cord smeared with sandalwood is like bracelets on His two arms.
+All the names in the verse *suvarṇa-varṇa* have their abode (*āspada*) in Śrī Kṛṣṇa Caitanya, that is, they have found their place in Him alone. The prasāda cord smeared with sandalwood is like bracelets on His two arms.
 
 ## 178
 

@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** For the Ratha-yātrā the devotees of Gauḍa set out for Puruṣottama. Rāghava Paṇḍita went carrying many kinds of food in the *jhālis* (bags) his sister Damayantī had given him. Makaradhvaja Kara of Pāṇihāṭī went along too, as the “*munsib*” (steward) of Rāghava’s *jhālis*. On the day the devotees reached Puruṣottama, Govinda had boarded a boat to sport on the waters of Narendra. Mahāprabhu and the devotees also sported in the water. As before, the cleaning of the Guṇḍicā temple and the rest took place. Inside the temple they sang the *kīrtana* “Jagamohana-parimuṇḍā.” When the *kīrtana* ended, Mahāprabhu honoured *prasāda* and lay down at the door of the Gambhīrā. Govinda somehow got close to Him and massaged His feet, but he could not get out, and so that day he did not honour *prasāda*. Through this conduct of Govinda the conclusion of the pure Vaiṣṇavas was made known: “For the sake of service one should accept even an offence, but for one’s own enjoyment one should shun even the shadow of an offence.” Everything the devotees of Gauḍa had given for Mahāprabhu’s service Govinda offered to the Lord, and the Lord partook of it. The Vaiṣṇavas invited the Lord from house to house and fed Him. At the invitation of Caitanya dāsa, the son of Śivānanda, the Lord affectionately ate rice with yogurt.
+**Summary.** For the Ratha-yātrā the devotees of Gauḍa set out for Puruṣottama. Rāghava Paṇḍita went carrying many kinds of food in the *jhālis* (bags) his sister Damayantī had given him. Makaradhvaja Kara of Pāṇihāṭi went along too, as the “*munsib*” (steward) of Rāghava’s *jhālis*. On the day the devotees reached Puruṣottama, Govinda had boarded a boat to sport on the waters of Narendra. Mahāprabhu and the devotees also sported in the water. As before, the cleaning of the Guṇḍicā temple and the rest took place. Inside the temple they sang the kīrtana “Jagamohana-parimuṇḍā.” When the kīrtana ended, Mahāprabhu honoured prasāda and lay down at the door of the Gambhīrā. Govinda somehow got close to Him and massaged His feet, but he could not get out, and so that day he did not honour prasāda. Through this conduct of Govinda the conclusion of the pure Vaiṣṇavas was made known: “For the sake of service one should accept even an offence, but for one’s own enjoyment one should shun even the shadow of an offence.” Everything the devotees of Gauḍa had given for Mahāprabhu’s service Govinda offered to the Lord, and the Lord partook of it. The Vaiṣṇavas invited the Lord from house to house and fed Him. At the invitation of Caitanya dāsa, the son of Śivānanda, the Lord affectionately ate rice with yogurt.
 
 ## 1
 
@@ -46,7 +46,7 @@ A lover strung a garland and, in the presence of her rivals (*sapatnīs*), place
 
 ## 68
 
-Inside the Jagannātha temple there is a large hall called the “*jagamohana*.” On one side of it, set apart, stands the “Garuḍa pillar” (*garuḍa-stambha*). The place in this *jagamohana* where the devotees dance is called the “*parimaṇḍala*”; “*parimuṇḍā*” is the Utkala corruption (*apabhraṁśa*) of “*parimaṇḍala*.”[^68-1] Since the Oriya line is not given here in full, no clear meaning emerges. Such a song is not known in Utkala today; surely it only points to some special feeling.
+Inside the Jagannātha temple there is a large hall called the “*jagamohana*.” On one side of it, set apart, stands the “Garuḍa pillar” (*garuḍa-stambha*). The place in this *jagamohana* where the devotees dance is called the “*parimaṇḍala*”; “*parimuṇḍā*” is the Utkala corruption (*apabhraṁśa*) of “*parimaṇḍala*.”[^68-1] Since the Oriyā line is not given here in full, no clear meaning emerges. Such a song is not known in Utkala today; surely it only points to some special feeling.
 
 ## 96
 
@@ -72,5 +72,5 @@ For the sake of serving the Lord I take no account even of millions upon million
 
 ---
 
-[^68-1]: In the verse translation, otherwise: “May my head bow down in the hall for *kīrtana*, the Jagamohana, before the Deity of Lord Jagannātha” (the *Anubhāṣya* also takes the line this way: *muṇḍā* is “head”).
+[^68-1]: In the verse translation, otherwise: “May my head bow down in the hall for kīrtana, the Jagamohana, before the Deity of Lord Jagannātha” (the *Anubhāṣya* also takes the line this way: *muṇḍā* is “head”).
 

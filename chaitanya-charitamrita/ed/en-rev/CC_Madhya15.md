@@ -476,7 +476,7 @@ this  cloth  to Mother  give  this  all  prasāda
 daṇḍavat kari’ āmāra kṣamāiha aparādha  
 prostration  making  My  have forgiven  offence
 
-(47) Give this cloth and all this *prasāda* to My mother. Fall down before her and beg her to forgive My offence.
+(47) Give this cloth and all this prasāda to My mother. Fall down before her and beg her to forgive My offence.
 
 তাঁর সেবা ছাড়ি’ আমি করিয়াছি সন্ন্যাস ৷  
 ধর্ম্ম নহে, করি আমি নিজ-ধর্ম্ম নাশ ॥ ৪৮ ॥
@@ -563,7 +563,7 @@ the prasāda  taking  in her lap  does  weeping
 nimāira priya mora — esaba vyañjana  
 of Nimāi  favourites  my  —  all these  dishes
 
-(56) She took the *prasāda* on her lap and wept: ‘All these dishes are my Nimāi’s favourites.
+(56) She took the prasāda on her lap and wept: ‘All these dishes are my Nimāi’s favourites.
 
 নিমাঞি নাহিক এথা, কে করে ভোজন ৷  
 মোর ধ্যানে অশ্রুজলে ভরিল নয়ন ॥ ৫৭ ॥
@@ -2228,7 +2228,7 @@ amṛta-guṭikā  cakes and sweet drinks  had brought
 jagannātha-prasāda saba pṛthak dharila  
 Jagannātha’s prasāda  all  separately  placed
 
-(221) He also had *amṛta-guṭikā*, cakes and sweet drinks brought, and he kept all of Jagannātha’s *prasāda* apart.[^56]
+(221) He also had *amṛta-guṭikā*, cakes and sweet drinks brought, and he kept all of Jagannātha’s prasāda apart.[^56]
 
 হেনকালে মহাপ্রভু মধ্যাহ্ন করিয়া ৷  
 একলে আইল তাঁর হৃদয় জানিয়া ॥ ২২২ ॥
@@ -2328,7 +2328,7 @@ Kṛṣṇa’s  seat  keep  removing
 more prasāda deha’ bhinna pātra kariyā  
 to Me  prasāda  give  a separate  plate  making
 
-(231) “Take away Kṛṣṇa’s seat and keep it aside, and give Me *prasāda* on a separate plate.”[^57]
+(231) “Take away Kṛṣṇa’s seat and keep it aside, and give Me prasāda on a separate plate.”[^57]
 
 ভট্টাচার্য্য বলে, — প্রভু, না করহ বিস্ময় ৷  
 যেই খাবে, তাঁর শক্ত্যে ভোগ সিদ্ধ হয় ॥ ২৩২ ॥
@@ -2368,7 +2368,7 @@ Bhaṭṭa  says  the food  the seat  equally  prasāda
 anna khābe, pīṭhe vasite kām̐hā aparādha?  
 the food  You will eat  on the seat  to sit  where  offence
 
-(235) Bhaṭṭa said, “The food and the seat are equally *prasāda*. If You will eat the food, what offence can there be in sitting on the seat?”
+(235) Bhaṭṭa said, “The food and the seat are equally prasāda. If You will eat the food, what offence can there be in sitting on the seat?”
 
 প্রভু কহে, — ভাল কৈলে, শাস্ত্র-আজ্ঞা হয় ৷  
 কৃষ্ণের সকল শেষ ভৃত্য আস্বাদয় ॥ ২৩৬ ॥
@@ -2462,7 +2462,7 @@ this  hearing  smiling  the Lord  sat  to the meal
 jagannāthera prasāda bhaṭṭa dena harṣa mane  
 of Jagannātha  the prasāda  Bhaṭṭa  gives  with joyful  mind
 
-(244) Hearing this, the Lord smiled and sat down to eat, and Bhaṭṭa joyfully served Him Jagannātha’s *prasāda*.
+(244) Hearing this, the Lord smiled and sat down to eat, and Bhaṭṭa joyfully served Him Jagannātha’s prasāda.
 
 হেনকালে ‘অমোঘ’, — ভট্টাচার্য্যের জামাতা ৷  
 কুলীন, নিন্দক তিঁহো ষাঠী-কন্যার ভর্ত্তা ॥ ২৪৫ ॥
@@ -2492,7 +2492,7 @@ he  when  prasāda  in serving  became  distracted
 amogha āsi’ anna dekhi’ karaye nindana  
 Amogha  coming in  the food  seeing  makes  blasphemy
 
-(247) But when the Bhaṭṭācārya’s attention turned to serving the *prasāda*, Amogha came in, saw the food and began to blaspheme:
+(247) But when the Bhaṭṭācārya’s attention turned to serving the prasāda, Amogha came in, saw the food and began to blaspheme:
 
 এই অন্নে তৃপ্ত হয় দশ বার জন ৷  
 একেলা সন্ন্যাসী করে এতেক ভক্ষণ ॥ ২৪৮ ॥
@@ -2917,7 +2917,7 @@ so long  shall stay  I  here  sitting
 yāvat nā pāibā tumi prasāda āniyā  
 as long as  not  honour  you  prasāda  bringing
 
-(289) “I shall sit here until you have brought *prasāda* and honoured it.”
+(289) “I shall sit here until you have brought prasāda and honoured it.”
 
 প্রভু পদ ধরি’ ভট্ট কহিতে লাগিলা ৷  
 মরিত’ অমোঘ, তারে কেনে জীয়াইলা ॥ ২৯০ ॥
@@ -2967,7 +2967,7 @@ the Lord  says  Gopīnātha  right here  stay
 im̐ho prasāda pāile, vārtā āmāke kahibā  
 he  prasāda  having honoured  the news  to Me  tell
 
-(294) The Lord said, “Gopīnātha, stay right here. When he has honoured the *prasāda*, bring Me word.”
+(294) The Lord said, “Gopīnātha, stay right here. When he has honoured the prasāda, bring Me word.”
 
 এত বলি’ প্রভু গেলা ঈশ্বর-দরশনে ৷  
 ভট্ট স্নান দর্শন করি’ করিলা ভোজনে ॥ ২৯৫ ॥
@@ -3093,7 +3093,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^21]: The edition reads *śata-pātra* (literally “a hundred vessels”, or a vessel of that name); the commentaries do not explain the word, and it is rendered neutrally as “a plate”.
 
-[^22]: *Anubhāṣya*: Rāghava Paṇḍita was neither a man of karma afflicted with the worldly “disease of cleanliness” nor a novice devotee who “considers the earth worshipable” (Śrīmad-Bhāgavatam, 10.84.13). He was an eternally perfect servant of Kṛṣṇa, absorbed in transcendental service. Those whose devotion is mixed with karma do not prove their pure devotion by imitating his outward conduct and arguing about worldly purity and impurity (see Antya 4.174, 176; Śrīmad-Bhāgavatam, 11.28.4).
+[^22]: *Anubhāṣya*: Rāghava Paṇḍita was neither a man of karma afflicted with the worldly “disease of cleanliness” nor a novice devotee who “considers the earth worshipable” (*Śrīmad-Bhāgavatam* 10.84.13). He was an eternally perfect servant of Kṛṣṇa, absorbed in transcendental service. Those whose devotion is mixed with karma do not prove their pure devotion by imitating his outward conduct and arguing about worldly purity and impurity (see Antya 4.174, 176; Śrīmad-Bhāgavatam, 11.28.4).
 
 [^23]: *Amṛta-pravāha-bhāṣya*: *huḍuma* is a particular grain; its puffed form (*khai*) is especially common in Utkala.
 
@@ -3113,13 +3113,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^31]: *Anubhāṣya*: these are the marks of a *kaniṣṭha* (novice) Vaiṣṇava. One who believes that every perfection is attained by the name of Kṛṣṇa alone is a Vaiṣṇava, though his faith is still soft and he does not chant the name constantly. “The best of all” — the best in all of Devī-dhāma: even a novice devotee who worships Viṣṇu stands above the pious *karmī* and the *jñānī*, for he believes that Viṣṇu is the eternal Reality.
 
-[^32]: *Anubhāṣya*: for one who avoids offences against the name and takes shelter of the name of Kṛṣṇa alone, all sins and all worldly desires are destroyed; the nine kinds of devotion (Śrīmad-Bhāgavatam, 7.5.23) reach completeness only through service to the name: “in Kali-yuga the other kinds of bhakti too are performed together with kīrtana” (Bhakti-sandarbha, 173).
+[^32]: *Anubhāṣya*: for one who avoids offences against the name and takes shelter of the name of Kṛṣṇa alone, all sins and all worldly desires are destroyed; the nine kinds of devotion (*Śrīmad-Bhāgavatam* 7.5.23) reach completeness only through service to the name: “in Kali-yuga the other kinds of bhakti too are performed together with kīrtana” (*Bhakti-sandarbha* 173).
 
 [^33]: *Anubhāṣya*: initiation awakens divine knowledge and destroys sin; *puraścaryā* is the fivefold worship (worship three times a day, *japa*, *tarpaṇa*, *homa* and feeding *brāhmaṇas*) that brings a mantra to perfection. Śrī Nāma, the *mahā-mantra*, needs none of this: merely uttering it brings every fruit. “Touching the tongue” means a tongue inclined to service: on a tongue that seeks worldly pleasure the name of Kṛṣṇa never appears. Heading in the edition: “Śrī Nāma — the Lord Kṛṣṇa Himself — does not depend on other acts.”
 
 [^34]: Heading in the edition: a verse of Śrīdhara Svāmī quoted in the *Padyāvalī* (29). *Anubhāṣya*: *kṛta-cetasām* — of the liberated; *sumanasām* (another reading, *sumahatām*) — of the wise, who have passed beyond the three *guṇas*; *aṁhasām* — of both piety and sin, the acts born of absorption in the world; *amūka-loka-sulabha* — within reach of everyone who is not mute.
 
-[^35]: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta*, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
+[^35]: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta* 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
 
 [^36]: Heading in the edition: “Mukunda, who seeks no honour himself and honours others, knows Raghunandana to be a devotee of Kṛṣṇa and so sees in him not a son but a guru.”
 
@@ -3141,7 +3141,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^45]: *Anubhāṣya* quotes the verse: “The Lord of Śrī and the Lord of Jānakī are one and the same Supreme Soul; there is no difference between Them. Still, my all in all is lotus-eyed Rāma.”
 
-[^46]: Heading in the edition: “Obeisance to Govinda, the giver of all fruits (Brahma-saṁhitā, 5.54).” *Anubhāṣya*: the *indragopa* is a small red insect; for His devotees Govinda destroys both *prārabdha* and *aprārabdha* karma — all the fruits still to be tasted.
+[^46]: Heading in the edition: “Obeisance to Govinda, the giver of all fruits (*Brahma-saṁhitā* 5.54).” *Anubhāṣya*: the *indragopa* is a small red insect; for His devotees Govinda destroys both *prārabdha* and *aprārabdha* karma — all the fruits still to be tasted.
 
 [^47]: *Anubhāṣya*: on Janaloka, at the *brahma-satra* sacrifice, Sanandana, one of the four Kumāras, recounts to the sages this prayer of the personified *śrutis*; the repeated *jaya* is a reverent insistence (“show Your supremacy!”); the *Anubhāṣya* takes *aga-jagad-okasām* with *ajām*: the māyā that holds sway over moving and unmoving beings.
 
@@ -3161,7 +3161,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^55]: *Anubhāṣya*: a piece of fine cloth was spread on a white wooden board (*piṁḍi*), and so a seat was made.
 
-[^56]: *Anubhāṣya*: the food cooked at his home, not yet offered, he did not mix with Jagannātha’s *prasāda*; he took care to keep them apart.
+[^56]: *Anubhāṣya*: the food cooked at his home, not yet offered, he did not mix with Jagannātha’s prasāda; he took care to keep them apart.
 
 [^57]: The edition reads *pātra* (the earlier text had *pātre*).
 
@@ -3175,7 +3175,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^62]: *Amṛta-pravāha-bhāṣya*: *elāci rasa-vāsa* — cardamom, juicy and fragrant.
 
-[^63]: *Anubhāṣya* cites scripture (*Hari-bhakti-vilāsa*, *Bhakti-sandarbha*) on the fruits of blaspheming Vaiṣṇavas: the blasphemer loses his merit and falls into hell; one who hears blasphemy of Bhagavān or His devotee and does not go away also falls (Śrīmad-Bhāgavatam, 10.74.40); as Satī says (Śrīmad-Bhāgavatam, 4.4.17), one who is powerless should cover his ears and leave, while one who is able should silence the blasphemer’s evil tongue, even at the cost of his own life. Sārvabhauma reasons in the same way (261–263).
+[^63]: *Anubhāṣya* cites scripture (*Hari-bhakti-vilāsa*, *Bhakti-sandarbha*) on the fruits of blaspheming Vaiṣṇavas: the blasphemer loses his merit and falls into hell; one who hears blasphemy of Bhagavān or His devotee and does not go away also falls (*Śrīmad-Bhāgavatam* 10.74.40); as Satī says (*Śrīmad-Bhāgavatam* 4.4.17), one who is powerless should cover his ears and leave, while one who is able should silence the blasphemer’s evil tongue, even at the cost of his own life. Sārvabhauma reasons in the same way (261–263).
 
 [^64]: *Amṛta-pravāha-bhāṣya*: Amogha is a brāhmaṇa and cannot be killed; Sārvabhauma too is a brāhmaṇa, so he may not take his own life; one course remains — never to see the blasphemer’s face.
 

@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** At Sanātana’s request Mahāprabhu gave sixty-one meanings of the verse *ātmārāmāś ca munayaḥ*. He explained each word separately and drew out all these meanings by joining them with the senses of the words *ca* and *api*. At the end, explaining the verse, He established its conclusive meaning: *jñānīs*, *karmīs* and *yogīs* all give up their own faults and, along with that, worship Kṛṣṇa. In the course of the explanation He told the story of Nārada and a hunter and spoke of the glory of the company of sādhus: Nārada brought the sage Parvata and showed him the hunter’s devotion to Hari. Then the Lord heard the prayer (*stava*) in which Sanātana glorified Him and revealed the purport and glory of the *Śrīmad-Bhāgavatam*. Last of all, as Sanātana wished, Mahāprabhu told him the outlines (*sūtras*) of the *Hari-bhakti-vilāsa*.
+**Summary.** At Sanātana’s request Mahāprabhu gave sixty-one meanings of the verse *ātmārāmāś ca munayaḥ*. He explained each word separately and drew out all these meanings by joining them with the senses of the words *ca* and *api*. At the end, explaining the verse, He established its conclusive meaning: *jñānīs*, *karmīs* and yogīs all give up their own faults and, along with that, worship Kṛṣṇa. In the course of the explanation He told the story of Nārada and a hunter and spoke of the glory of the company of sādhus: Nārada brought the sage Parvata and showed him the hunter’s devotion to Hari. Then the Lord heard the prayer (*stava*) in which Sanātana glorified Him and revealed the purport and glory of the *Śrīmad-Bhāgavatam*. Last of all, as Sanātana wished, Mahāprabhu told him the outlines (*sūtras*) of the *Hari-bhakti-vilāsa*.
 
 ## 1
 
@@ -38,7 +38,7 @@ A root that takes both voices (*ubhayapadī*) is marked with the *svarita* accen
 
 ## 30
 
-*Prema-bhakti* is of nine kinds: *rati*, *prema*, *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva* — these nine.
+*Prema-bhakti* is of nine kinds: *rati*, prema, *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva* — these nine.
 
 ## 46
 
@@ -62,7 +62,7 @@ The four kinds of suffering are the sufferings of the four kinds of sin: (1) *p�
 
 ## 57
 
-“O Uddhava, as fire turns wood to ashes, so devotion to Bhagavān at once destroys all the sins of the *jīva*.”
+“O Uddhava, as fire turns wood to ashes, so devotion to Bhagavān at once destroys all the sins of the jīva.”
 
 ## 63
 
@@ -90,7 +90,7 @@ This verse says that if one is *udāra-dhī*, that is, intelligent and able to r
 
 ## 89
 
-“O Arjuna, the distressed, the inquisitive, the seeker of wealth and the *jñānī* — these four kinds of people, when they gain pious merit and turn towards *bhakti*, give up their particular desires and worship Me.”
+“O Arjuna, the distressed, the inquisitive, the seeker of wealth and the *jñānī* — these four kinds of people, when they gain pious merit and turn towards bhakti, give up their particular desires and worship Me.”
 
 ## 93
 
@@ -102,11 +102,11 @@ Through the company of saintly devotees a wise person gives up bad association. 
 
 ## 99
 
-The desireless (*akāma*), the one full of desires (*sarvakāma*) and the one who desires liberation (*mokṣakāma*) — these three give up the fault of their particular desires and attain pure *bhakti* for Kṛṣṇa.
+The desireless (*akāma*), the one full of desires (*sarvakāma*) and the one who desires liberation (*mokṣakāma*) — these three give up the fault of their particular desires and attain pure bhakti for Kṛṣṇa.
 
 ## 102–106
 
-Those who worship on the path of knowledge are of two kinds: *kevala-brahmopāsakas* (who worship Brahman alone) and *mokṣākāṅkṣīs* (who aspire to liberation). One who worships Brahman with the desire for *kaivalya* is a *kevala-brahmopāsaka*. They have three stages: the *sādhaka* (beginner), the (eternally perfect) *brahmamaya* (absorbed in Brahman), and the *prāpta-brahma-laya* (merged in Brahman, that is, the *brahma-bhūta*). Without *bhakti*, knowledge cannot give liberation. Only one who has attained merging in Brahman (that is, has become *brahma-bhūta*) can practice *bhakti*. When the practice of *bhakti* appears, the nature of *bhakti* appears too. By this nature of hers, *bhakti* gradually draws him away from Brahman, gives him a divine body and engages him in the worship of Kṛṣṇa. Having received the body of his choice in which he serves the Lord, the devotee remembers all of Kṛṣṇa’s qualities and, attracted by them, worships Him with pure worship.
+Those who worship on the path of knowledge are of two kinds: *kevala-brahmopāsakas* (who worship Brahman alone) and *mokṣākāṅkṣīs* (who aspire to liberation). One who worships Brahman with the desire for *kaivalya* is a *kevala-brahmopāsaka*. They have three stages: the *sādhaka* (beginner), the (eternally perfect) *brahmamaya* (absorbed in Brahman), and the *prāpta-brahma-laya* (merged in Brahman, that is, the *brahma-bhūta*). Without bhakti, knowledge cannot give liberation. Only one who has attained merging in Brahman (that is, has become *brahma-bhūta*) can practice bhakti. When the practice of bhakti appears, the nature of bhakti appears too. By this nature of hers, bhakti gradually draws him away from Brahman, gives him a divine body and engages him in the worship of Kṛṣṇa. Having received the body of his choice in which he serves the Lord, the devotee remembers all of Kṛṣṇa’s qualities and, attracted by them, worships Him with pure worship.
 
 ## 107
 
@@ -174,7 +174,7 @@ One who wishes to ascend to the stage of yoga is an “*ārurukṣu*.” For suc
 
 ## 160
 
-On the path followed by the *sampradāyas* of the *ṛṣis*, some, in *karma-yoga*, worship the “*udara*,” that is, Brahman situated in the *maṇipūra*: these are the Śārkarākṣa *ṛṣis*, “*kūrpa-dṛk*,” that is, of gross vision. The Āruṇi *ṛṣis*, also followers of a *sampradāya* of *ṛṣis*, worship subtle Brahman in the “*dahara*,” that is, in the space of the heart, where the *nāḍīs* spread out. O Ananta! Higher than this is the path that leads to the head: beginning from the *mūlādhāra*, it passes through the heart and rises to the head, up to the *brahma-randhra*. This is the *suṣumnā* — the place where You are realised, the thousand-petalled lotus, the supreme, effulgent abode. Having risen there, yogīs no longer fall into *saṁsāra*, into the jaws of death.
+On the path followed by the sampradāyas of the *ṛṣis*, some, in *karma-yoga*, worship the “*udara*,” that is, Brahman situated in the *maṇipūra*: these are the Śārkarākṣa *ṛṣis*, “*kūrpa-dṛk*,” that is, of gross vision. The Āruṇi *ṛṣis*, also followers of a sampradāya of *ṛṣis*, worship subtle Brahman in the “*dahara*,” that is, in the space of the heart, where the *nāḍīs* spread out. O Ananta! Higher than this is the path that leads to the head: beginning from the *mūlādhāra*, it passes through the heart and rises to the head, up to the *brahma-randhra*. This is the *suṣumnā* — the place where You are realised, the thousand-petalled lotus, the supreme, effulgent abode. Having risen there, yogīs no longer fall into *saṁsāra*, into the jaws of death.
 
 ## 163
 
@@ -182,7 +182,7 @@ There is a rare treasure that cannot be gained even by wandering through the hig
 
 ## 166
 
-*Bhakti* is very hard to attain in two ways. Without *āsaṅga* (longing for Kṛṣṇa’s love) it is not gained quickly even by thousands upon thousands of spiritual practices (*sādhanas*); and Kṛṣṇa, too, does not give *bhakti* readily.
+*Bhakti* is very hard to attain in two ways. Without *āsaṅga* (longing for Kṛṣṇa’s love) it is not gained quickly even by thousands upon thousands of spiritual practices (*sādhanas*); and Kṛṣṇa, too, does not give bhakti readily.
 
 ## 170
 
@@ -210,11 +210,11 @@ In this world where every living being is unsteady, that is, in transient *saṁ
 
 ## 183
 
-“I am the source (the place of origin) of all, and everything proceeds from Me.” Knowing this, the wise, endowed with *bhakti*, worship Me.
+“I am the source (the place of origin) of all, and everything proceeds from Me.” Knowing this, the wise, endowed with bhakti, worship Me.
 
 ## 184
 
-Women, *śūdras*, Hūṇas, Śabaras and other sinful beings, and even beings of animal species — birds and others — receive instruction from those wholly devoted to Adbhuta-krama (Bhagavān Śrī Urukrama), that is, they follow the conduct of pure devotees and themselves become devotees of Bhagavān. Then they are delivered from (insurmountable, divine) Māyā. What, then, to speak of those who follow the path of the Śrutis?
+Women, śūdras, Hūṇas, Śabaras and other sinful beings, and even beings of animal species — birds and others — receive instruction from those wholly devoted to Adbhuta-krama (Bhagavān Śrī Urukrama), that is, they follow the conduct of pure devotees and themselves become devotees of Bhagavān. Then they are delivered from (insurmountable, divine) Māyā. What, then, to speak of those who follow the path of the Śrutis?
 
 ## 187
 
@@ -222,7 +222,7 @@ Women, *śūdras*, Hūṇas, Śabaras and other sinful beings, and even beings o
 
 ## 200
 
-This land (the land of Vraja) has today become blessed. Blessed are the grasses and creepers that Your feet touch; blessed are the trees and vines that Your fingers touch; blessed are the rivers, hills, birds and beasts on whom You cast Your merciful glance. And blessed are all the *gopīs*, for they have gained the place between Your arms — which even Lakṣmī longs for.
+This land (the land of Vraja) has today become blessed. Blessed are the grasses and creepers that Your feet touch; blessed are the trees and vines that Your fingers touch; blessed are the rivers, hills, birds and beasts on whom You cast Your merciful glance. And blessed are all the gopīs, for they have gained the place between Your arms — which even Lakṣmī longs for.
 
 ## 201
 
@@ -230,7 +230,7 @@ O friends! Kṛṣṇa and Baladeva go from forest to forest with the cows and t
 
 ## 209
 
-(O Sūta!) On this path of *karma* there is nothing to rely on (that is, no hope of a sure result), and we have been blackened by smoke. Yet you are giving us to drink the honeyed nectar (*āsava*) of Govinda’s lotus feet.
+(O Sūta!) On this path of karma there is nothing to rely on (that is, no hope of a sure result), and we have been blackened by smoke. Yet you are giving us to drink the honeyed nectar (*āsava*) of Govinda’s lotus feet.
 
 ## 211
 
@@ -270,7 +270,7 @@ The word *vṛkṣāḥ* (“trees”) expresses the *aśvattha*, the banyan, th
 
 ## 300
 
-By adding *eva* to the four words *urukrama*, *bhakti*, *ahaitukī* and *kurvanti*, I shall give one more meaning.
+By adding *eva* to the four words *urukrama*, bhakti, *ahaitukī* and *kurvanti*, I shall give one more meaning.
 
 ## 304
 
@@ -278,15 +278,15 @@ The word *kṣetrajña* means *ātmā*, *puruṣa*, *pradhāna* and *prakṛti*.
 
 ## 314
 
-Mahādeva said: “I know, Śuka knows, and Vyāsa may know or may not.” The *Bhāgavatam* is grasped by *bhakti* alone; it is never grasped by intellect or by commentaries.
+Mahādeva said: “I know, Śuka knows, and Vyāsa may know or may not.” The *Bhāgavatam* is grasped by bhakti alone; it is never grasped by intellect or by commentaries.
 
 ## 315
 
-Tell us: now that Kṛṣṇa — the Lord of yoga, Brahmaṇyadeva, the very armour of *dharma* — has reached His own *kāṣṭhā* (His eternal abode), with whom has *dharma* taken shelter?
+Tell us: now that Kṛṣṇa — the Lord of yoga, Brahmaṇyadeva, the very armour of dharma — has reached His own *kāṣṭhā* (His eternal abode), with whom has dharma taken shelter?
 
 ## 316
 
-Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge and the rest, this sun among the Purāṇas has risen for the good of people stricken by Kali, who have lost their sight.
+Now that Kṛṣṇa has gone to His own abode together with dharma, knowledge and the rest, this sun among the Purāṇas has risen for the good of people stricken by Kali, who have lost their sight.
 
 ## 320
 
@@ -294,7 +294,7 @@ Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge
 
 ## 343
 
-This Sanātana, Rūpa’s elder brother, was the jewel adorning the court of the lord of Gauḍa, the emperor Husain Shāh. He gave up prosperous royal wealth and embraced the youthful wealth of renunciation. Within, his heart was full of *bhakti-rasa*; outwardly he looked like an *avadhūta*. Like a great lake covered with moss, that Śrī Sanātana delighted those who know the truth of *bhakti*.
+This Sanātana, Rūpa’s elder brother, was the jewel adorning the court of the lord of Gauḍa, the emperor Husain Shāh. He gave up prosperous royal wealth and embraced the youthful wealth of renunciation. Within, his heart was full of *bhakti-rasa*; outwardly he looked like an *avadhūta*. Like a great lake covered with moss, that Śrī Sanātana delighted those who know the truth of bhakti.
 
 ## 344
 

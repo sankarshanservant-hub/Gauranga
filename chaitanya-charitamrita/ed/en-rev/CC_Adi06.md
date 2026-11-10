@@ -1296,7 +1296,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^35]: *Amṛta-pravāha-bhāṣya*: the ten bodies are the umbrella, slippers, bed, pillow, garments, ornaments, resting place, dwelling, sacred thread and throne.
 
-[^36]: *Anubhāṣya* (following the *Laghu-bhāgavatāmṛta*): the scriptures speak of Rudra in two ways. Śiva who is the Lord’s own part (*svāṁśa*) is counted among the lords (*īśvara-koṭi*), while Rudra the destroyer is in some kalpas a particular jīva, like Brahmā. Hara, the abode of the Puruṣa, is in essence almost free of the guṇas and only appears changeable through his contact with tamas — as milk turns into curd by contact with a culture and yet is not other than milk (*Brahma-saṁhitā*, 5.45). Sadāśiva, who dwells in Śivaloka within Vaikuṇṭha and is free from tamas, is a vilāsa of Śrī Kṛṣṇa.
+[^36]: *Anubhāṣya* (following the *Laghu-bhāgavatāmṛta*): the scriptures speak of Rudra in two ways. Śiva who is the Lord’s own part (*svāṁśa*) is counted among the lords (*īśvara-koṭi*), while Rudra the destroyer is in some kalpas a particular jīva, like Brahmā. Hara, the abode of the Puruṣa, is in essence almost free of the guṇas and only appears changeable through his contact with tamas — as milk turns into curd by contact with a culture and yet is not other than milk (*Brahma-saṁhitā* 5.45). Sadāśiva, who dwells in Śivaloka within Vaikuṇṭha and is free from tamas, is a vilāsa of Śrī Kṛṣṇa.
 
 [^37]: *Amṛta-pravāha-bhāṣya*: whatever the mood one has, the mood of service within every mood must be acknowledged. The edition’s heading: “(13) Service to Kṛṣṇa runs through all four rasas — mādhurya, vātsalya, sakhya and dāsya.”
 
@@ -1320,7 +1320,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^47]: The edition’s heading: “Nityānanda, Rāma and the other forms of Viṣṇu taste Kṛṣṇa’s sweetness by accepting the devotee’s mood.”
 
-[^48]: *Anubhāṣya* (on 6.107–6.108): to taste the five rasas — śānta, dāsya, sakhya, vātsalya and mādhurya — Śrī Gaurahari accepted the moods of devotees, and so He is full of every bhāva; taking up the moods of devotees of different kinds, Gauracandra drinks His own sweetness. On 6.106: to know how His devotees taste His sweetness, He Himself became a devotee.
+[^48]: *Anubhāṣya* (on 6.107–6.108): to taste the five rasas — śānta, dāsya, sakhya, vātsalya and mādhurya — Śrī Gaurahari accepted the moods of devotees, and so He is full of every *bhāva*; taking up the moods of devotees of different kinds, Gauracandra drinks His own sweetness. On 6.106: to know how His devotees taste His sweetness, He Himself became a devotee.
 
 [^49]: Before — in Ādi 4: on 6.105–6.106 the *Anubhāṣya* refers to Ādi 4.137–4.158.
 

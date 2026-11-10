@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In the fifth chapter the glory of Śrī Nityānanda is described in five verses, as follows. Śrī Kṛṣṇa is Bhagavān Himself; His *vilāsa-mūrti*, that is, His second body, is Śrī Balarāma. Beyond *prakṛti* there is a spiritual abode called “Paravyoma,” and in its highest part lies “Kṛṣṇaloka.” In Kṛṣṇaloka are Dvārakā, Mathurā and Gokula; there abides the original *catur-vyūha*: Kṛṣṇa, Baladeva, Pradyumna (that is, Kāmadeva) and Aniruddha. The abode in Vṛndāvana within that Kṛṣṇaloka is called “Śvetadvīpa.” Below Kṛṣṇaloka is the Vaikuṇṭha called “Paravyoma,” where four-armed Nārāyaṇa, the *vilāsa-mūrti* of Kṛṣṇa, resides. He who is Baladeva in Kṛṣṇaloka is the original Saṅkarṣaṇa (*mūla-Saṅkarṣaṇa*). His *vilāsa-mūrti* in the Vaikuṇṭha of Paravyoma is Mahā-Saṅkarṣaṇa. By the *cit-śakti* of this Mahā-Saṅkarṣaṇa everything made of *śuddha-sattva* in Paravyoma is manifest, and by His *jīva-śakti* pure *jīvas* dwell there; *māyā-śakti* has no place there. In the abode of Nārāyaṇa is the second *kāya-vyūha*. Beyond Paravyoma lies “Brahmaloka,” the abode of effulgence. Beyond it is the Causal Ocean (*Kāraṇa-samudra*), filled with spiritual water. On the far shore of the Causal Ocean lies *māyā*, untouched by it. In the Causal Ocean is Mahā-Viṣṇu, the original *puruṣa-avatāra*, a part of *mūla-Saṅkarṣaṇa*. From afar He casts His glance (*īkṣaṇa*) upon *māyā*. And by a semblance of His body (*aṅgābhāsa*) — something that appears to be His body but is not — He unites with *māyā* as the material cause. *Māyā* herself, as the material cause (*upādāna-kāraṇa*), is called “*pradhāna*,” and as the efficient cause (*nimitta-kāraṇa*), “*prakṛti*.” The original efficient cause of material *prakṛti* is the glance of Mahā-Viṣṇu; *prakṛti* is therefore only a secondary efficient cause. This same Mahā-Viṣṇu, lying in the Causal Ocean, enters the aggregate universe as Garbhodaśāyī, and enters each universe and each *jīva* as Kṣīrodaśāyī. The Kṣīrodaśāyī Puruṣa manifests a Vaikuṇṭha in each universe and resides there as Viṣṇu, the Paramātmā, the Īśvara and so on; in the waters of the universe He lies on the bed of Śeṣa. He is the father of Brahmā, and one part of Him is conceived of as the Virāṭ. In each universe a “Śvetadvīpa” is manifest in the Ocean of Milk, and Viṣṇu resides there. Thus two Śvetadvīpas are manifest: one in Kṛṣṇaloka, and the other in the Ocean of Milk of every universe. The “Śvetadvīpa” of Kṛṣṇaloka is nondifferent from the Vṛndāvana there; it is the land of certain supplementary pastimes of Kṛṣṇa. Śeṣa within the universe serves Viṣṇu by becoming His umbrella, sandals, bed, pillow, garments, dwelling, sacred thread, throne and so on. The Baladeva of Kṛṣṇaloka is Prabhu Nityānanda Himself; He is therefore *mūla-Saṅkarṣaṇa*. Hence Mahā-Saṅkarṣaṇa of Paravyoma and His *puruṣa-avatāras* are the parts and portions (*aṁśas* and *kalās*) of Nityānanda Prabhu.
+**Summary.** In the fifth chapter the glory of Śrī Nityānanda is described in five verses, as follows. Śrī Kṛṣṇa is Bhagavān Himself; His *vilāsa-mūrti*, that is, His second body, is Śrī Balarāma. Beyond *prakṛti* there is a spiritual abode called “Paravyoma,” and in its highest part lies “Kṛṣṇaloka.” In Kṛṣṇaloka are Dvārakā, Mathurā and Gokula; there abides the original *catur-vyūha*: Kṛṣṇa, Baladeva, Pradyumna (that is, Kāmadeva) and Aniruddha. The abode in Vṛndāvana within that Kṛṣṇaloka is called “Śvetadvīpa.” Below Kṛṣṇaloka is the Vaikuṇṭha called “Paravyoma,” where four-armed Nārāyaṇa, the *vilāsa-mūrti* of Kṛṣṇa, resides. He who is Baladeva in Kṛṣṇaloka is the original Saṅkarṣaṇa (*mūla-Saṅkarṣaṇa*). His *vilāsa-mūrti* in the Vaikuṇṭha of Paravyoma is Mahā-Saṅkarṣaṇa. By the *cit-śakti* of this Mahā-Saṅkarṣaṇa everything made of *śuddha-sattva* in Paravyoma is manifest, and by His *jīva-śakti* pure jīvas dwell there; *māyā-śakti* has no place there. In the abode of Nārāyaṇa is the second *kāya-vyūha*. Beyond Paravyoma lies “Brahmaloka,” the abode of effulgence. Beyond it is the Causal Ocean (*Kāraṇa-samudra*), filled with spiritual water. On the far shore of the Causal Ocean lies māyā, untouched by it. In the Causal Ocean is Mahā-Viṣṇu, the original *puruṣa-avatāra*, a part of *mūla-Saṅkarṣaṇa*. From afar He casts His glance (*īkṣaṇa*) upon māyā. And by a semblance of His body (*aṅgābhāsa*) — something that appears to be His body but is not — He unites with māyā as the material cause. *Māyā* herself, as the material cause (*upādāna-kāraṇa*), is called “*pradhāna*,” and as the efficient cause (*nimitta-kāraṇa*), “*prakṛti*.” The original efficient cause of material *prakṛti* is the glance of Mahā-Viṣṇu; *prakṛti* is therefore only a secondary efficient cause. This same Mahā-Viṣṇu, lying in the Causal Ocean, enters the aggregate universe as Garbhodaśāyī, and enters each universe and each jīva as Kṣīrodaśāyī. The Kṣīrodaśāyī Puruṣa manifests a Vaikuṇṭha in each universe and resides there as Viṣṇu, the Paramātmā, the Īśvara and so on; in the waters of the universe He lies on the bed of Śeṣa. He is the father of Brahmā, and one part of Him is conceived of as the Virāṭ. In each universe a “Śvetadvīpa” is manifest in the Ocean of Milk, and Viṣṇu resides there. Thus two Śvetadvīpas are manifest: one in Kṛṣṇaloka, and the other in the Ocean of Milk of every universe. The “Śvetadvīpa” of Kṛṣṇaloka is nondifferent from the Vṛndāvana there; it is the land of certain supplementary pastimes of Kṛṣṇa. Śeṣa within the universe serves Viṣṇu by becoming His umbrella, sandals, bed, pillow, garments, dwelling, sacred thread, throne and so on. The Baladeva of Kṛṣṇaloka is Prabhu Nityānanda Himself; He is therefore *mūla-Saṅkarṣaṇa*. Hence Mahā-Saṅkarṣaṇa of Paravyoma and His *puruṣa-avatāras* are the parts and portions (*aṁśas* and *kalās*) of Nityānanda Prabhu.
 
 In this chapter the author has included an account of his journey to Vṛndāvana and of how he attained complete perfection there. From it we learn that he formerly lived in the village of Jhāmaṭapura near Naihāṭī, in the region of Kāṭoyā. There were two brothers. Śrī Mīnaketana Rāmadāsa, an associate of Śrī Nityānanda Prabhu, came to his house at his invitation and was displeased with the priest, Guṇārṇava Miśra. The brother of Kavirāja Gosvāmī took the priest’s side and did not acknowledge the glory of Śrī Nityānanda. For this Śrīla Kavirāja Gosvāmī rebuked his brother. Rāmadāsa broke his flute and left, and Kavirāja Gosvāmī’s brother was at once utterly ruined. That same night, in a dream, Kavirāja Gosvāmī received the grace and the command of Śrī Nityānanda Prabhu, and on the very next day he set out for Vṛndāvana.
 
@@ -32,7 +32,7 @@ The meaning of the seventh verse: what is said in the seventh verse I explain in
 
 ## 13
 
-I take shelter of Rāma, who is Nityānanda. In Vaikuṇṭha, which lies beyond *māyā* and pervades all, abides the *catur-vyūha* full of complete majesty — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; among them shines His form named Saṅkarṣaṇa.
+I take shelter of Rāma, who is Nityānanda. In Vaikuṇṭha, which lies beyond māyā and pervades all, abides the *catur-vyūha* full of complete majesty — Vāsudeva, Saṅkarṣaṇa, Pradyumna and Aniruddha; among them shines His form named Saṅkarṣaṇa.
 
 ## 14–16
 
@@ -44,7 +44,7 @@ Highest of all in the abode of Paravyoma are Śrī Gokula, that is, the abode of
 
 ## 19–21
 
-This spiritual abode of Vraja, by Kṛṣṇa’s will, is manifest within the material universe, yet even here it remains in the very same form. Some think that Goloka and the other abodes in Paravyoma are different from the abode of Vraja manifest in the material world. But that is not so: it is one and the same abode, only manifest at the same time both in Paravyoma and in the material world. Even in the Vraja manifest in the material world the ground is *cintāmaṇi* and the forests consist of wish-fulfilling trees. The eyes of *prema* see the true form of this abode, while to material eyes it looks like the material world.
+This spiritual abode of Vraja, by Kṛṣṇa’s will, is manifest within the material universe, yet even here it remains in the very same form. Some think that Goloka and the other abodes in Paravyoma are different from the abode of Vraja manifest in the material world. But that is not so: it is one and the same abode, only manifest at the same time both in Paravyoma and in the material world. Even in the Vraja manifest in the material world the ground is *cintāmaṇi* and the forests consist of wish-fulfilling trees. The eyes of prema see the true form of this abode, while to material eyes it looks like the material world.
 
 ## 22
 
@@ -60,7 +60,7 @@ Kṛṣṇa’s *svarūpa-vigraha*, His original form, is always two-armed. His 
 
 ## 29
 
-Though His nature is pastime alone, out of mercy for the *jīvas* He also performs this pastime: He delivers the *jīvas*.
+Though His nature is pastime alone, out of mercy for the jīvas He also performs this pastime: He delivers the jīvas.
 
 ## 32–34
 
@@ -76,11 +76,11 @@ Wherever scripture says that the enemies of Bhagavān and His beloved ones attai
 
 ## 39
 
-Beyond *tamas*, that is, beyond the world of *māyā*, lies “Siddhaloka,” the abode of Brahman. There dwell the *māyāvādīs* immersed in the happiness of Brahman, and the *asuras* — Kaṁsa and others — slain by Bhagavān. The *yogīs* of Patañjali’s school, even after attaining *kaivalya*, will also reach that world.
+Beyond *tamas*, that is, beyond the world of māyā, lies “Siddhaloka,” the abode of Brahman. There dwell the *māyāvādīs* immersed in the happiness of Brahman, and the *asuras* — Kaṁsa and others — slain by Bhagavān. The yogīs of Patañjali’s school, even after attaining *kaivalya*, will also reach that world.
 
 ## 40–45
 
-The *catur-vyūha* of Dvārakā — Kṛṣṇa, Baladeva and the others — is manifest a second time in Paravyoma. This *catur-vyūha* is called “the second *catur-vyūha*”; it too is spiritual and pure. There the form of Balarāma is Mahā-Saṅkarṣaṇa. In Paravyoma there is a manifestation of the *sandhinī* aspect of the *cit-śakti* called “*śuddha-sattva*”; from it come the abodes of Vaikuṇṭha and the rest, made of *śuddha-sattva*, and the six kinds of majesty. All this is the splendour (*vibhūti*) of Mahā-Saṅkarṣaṇa. Mahā-Saṅkarṣaṇa is the shelter of all *jīvas*, and therefore the shelter of the *jīva-śakti*, called marginal (*taṭastha*). The being of the *jīva*, a particle of spirit, springs from the *jīva-śakti*, yet it is made such that the *māyā-śakti* can overpower it. It therefore stands on the border between two realms — *māyā* and spirit (*cit*) — and so has received the name “marginal” (*taṭastha*).
+The *catur-vyūha* of Dvārakā — Kṛṣṇa, Baladeva and the others — is manifest a second time in Paravyoma. This *catur-vyūha* is called “the second *catur-vyūha*”; it too is spiritual and pure. There the form of Balarāma is Mahā-Saṅkarṣaṇa. In Paravyoma there is a manifestation of the *sandhinī* aspect of the *cit-śakti* called “*śuddha-sattva*”; from it come the abodes of Vaikuṇṭha and the rest, made of *śuddha-sattva*, and the six kinds of majesty. All this is the splendour (*vibhūti*) of Mahā-Saṅkarṣaṇa. Mahā-Saṅkarṣaṇa is the shelter of all jīvas, and therefore the shelter of the *jīva-śakti*, called marginal (*taṭastha*). The being of the jīva, a particle of spirit, springs from the *jīva-śakti*, yet it is made such that the *māyā-śakti* can overpower it. It therefore stands on the border between two realms — māyā and spirit (*cit*) — and so has received the name “marginal” (*taṭastha*).
 
 ## 48
 
@@ -88,15 +88,15 @@ Mahā-Saṅkarṣaṇa is spiritual, pure *sattva* (*viśuddha-sattva*); He is a
 
 ## 50
 
-I bow down to Nityānanda-Rāma, one part of whom is the master of *māyā*, Kāraṇābdhiśāyī, the shelter of the host of universes, the first deity, the Puruṣa-avatāra.
+I bow down to Nityānanda-Rāma, one part of whom is the master of māyā, Kāraṇābdhiśāyī, the shelter of the host of universes, the first deity, the Puruṣa-avatāra.
 
 ## 51–64
 
-Beyond the abode of Paravyoma lies the effulgent “abode of Brahman,” and beyond that the “Causal Ocean” (*Kāraṇa-samudra*). The spiritual world is free of causes, while *māyā* is full of them. The region between the two is called the “Causal Ocean,” an ocean of spiritual water. For the glance of Bhagavān, who lies upon that water, is directed towards *māyā* beyond it, and it carries out creation and the other acts. Kṛṣṇa and the Lord of Paravyoma are Themselves free of creation and such acts, and no act connected with *māyā* takes place in Their *svarūpa*. Mahā-Saṅkarṣaṇa, by a portion of Himself — His glance (*īkṣaṇa*) — lies in that ocean and creates the *mahat-tattva*; He is the first avatāra. *Māyā-śakti* stays outside the Causal Ocean, and Bhagavān casts His glance upon her. *Māyā* cannot touch the Causal Ocean. Bhagavān’s glance enters *māyā* and makes her active. *Māyā* exists in two forms: as “*pradhāna*,” the material cause of the world, and as “*māyā*,” its efficient cause. *Prakṛti* is in truth inert. But when the power of Bhagavān’s glance is infused into her, by that power *prakṛti* becomes the “secondary cause” of creating the world — just as fire, entering iron, gives it the power to burn. Kṛṣṇa, therefore, is the original cause of the world, and *prakṛti*’s being its substantial cause is like the nipples on a goat’s neck. *Māyā* in her portion — that is, the portion made of the *guṇas* — is called the efficient cause; yet even then the efficient cause is Nārāyaṇa. When a pot is made, the wheel, the rod and the like, as well as the potter, are its efficient causes. Nārāyaṇa is the efficient cause in the potter’s place (the chief one), and *māyā* the efficient cause in the place of the wheel and rod (the secondary one). So, just as without a potter there is no pot, without Nārāyaṇa there is no world. The efficient cause made of the *guṇas*, in the place of the wheel and rod, works as the helper of Nārāyaṇa, the root efficient cause.
+Beyond the abode of Paravyoma lies the effulgent “abode of Brahman,” and beyond that the “Causal Ocean” (*Kāraṇa-samudra*). The spiritual world is free of causes, while māyā is full of them. The region between the two is called the “Causal Ocean,” an ocean of spiritual water. For the glance of Bhagavān, who lies upon that water, is directed towards māyā beyond it, and it carries out creation and the other acts. Kṛṣṇa and the Lord of Paravyoma are Themselves free of creation and such acts, and no act connected with māyā takes place in Their *svarūpa*. Mahā-Saṅkarṣaṇa, by a portion of Himself — His glance (*īkṣaṇa*) — lies in that ocean and creates the *mahat-tattva*; He is the first avatāra. *Māyā-śakti* stays outside the Causal Ocean, and Bhagavān casts His glance upon her. *Māyā* cannot touch the Causal Ocean. Bhagavān’s glance enters māyā and makes her active. *Māyā* exists in two forms: as “*pradhāna*,” the material cause of the world, and as “*māyā*,” its efficient cause. *Prakṛti* is in truth inert. But when the power of Bhagavān’s glance is infused into her, by that power *prakṛti* becomes the “secondary cause” of creating the world — just as fire, entering iron, gives it the power to burn. Kṛṣṇa, therefore, is the original cause of the world, and *prakṛti*’s being its substantial cause is like the nipples on a goat’s neck. *Māyā* in her portion — that is, the portion made of the *guṇas* — is called the efficient cause; yet even then the efficient cause is Nārāyaṇa. When a pot is made, the wheel, the rod and the like, as well as the potter, are its efficient causes. Nārāyaṇa is the efficient cause in the potter’s place (the chief one), and māyā the efficient cause in the place of the wheel and rod (the secondary one). So, just as without a potter there is no pot, without Nārāyaṇa there is no world. The efficient cause made of the *guṇas*, in the place of the wheel and rod, works as the helper of Nārāyaṇa, the root efficient cause.
 
 ## 65–67
 
-The Kāraṇābdhiśāyī Puruṣa casts His glance upon *māyā* from afar. That glance, by nature a fruit of *cit*, acts in two ways. As particles of His rays He places countless *jīvas* within *māyā*, and Himself, uniting with *māyā* by a semblance of His body (*aṅgābhāsa*), creates countless universes. He enters each of them in the form of a Puruṣa. “*Aṅgābhāsa*” means a mere semblance of bodily contact; in truth there is no contact of His body.
+The Kāraṇābdhiśāyī Puruṣa casts His glance upon māyā from afar. That glance, by nature a fruit of *cit*, acts in two ways. As particles of His rays He places countless jīvas within māyā, and Himself, uniting with māyā by a semblance of His body (*aṅgābhāsa*), creates countless universes. He enters each of them in the form of a Puruṣa. “*Aṅgābhāsa*” means a mere semblance of bodily contact; in truth there is no contact of His body.
 
 ## 70
 
@@ -116,7 +116,7 @@ Balarāma, the *vilāsa-mūrti* of Kṛṣṇa, is *mūla-Saṅkarṣaṇa*, the
 
 ## 77
 
-In the eternal abode Viṣṇu has three forms. The first is Kāraṇābdhiśāyī Mahā-Viṣṇu, the creator of the *mahat-tattva*. The second is Garbhodaśāyī, the Puruṣa within the aggregate universe. The third is Kṣīrodaśāyī, the Puruṣa within each individual universe; He is the indwelling Lord (*antaryāmī*) and the Paramātmā of every *jīva*. Whoever can know the truth of these three is freed from material intelligence.
+In the eternal abode Viṣṇu has three forms. The first is Kāraṇābdhiśāyī Mahā-Viṣṇu, the creator of the *mahat-tattva*. The second is Garbhodaśāyī, the Puruṣa within the aggregate universe. The third is Kṣīrodaśāyī, the Puruṣa within each individual universe; He is the indwelling Lord (*antaryāmī*) and the Paramātmā of every jīva. Whoever can know the truth of these three is freed from material intelligence.
 
 ## 79
 
@@ -186,7 +186,7 @@ Sometimes, tired from play, Kṛṣṇa Himself lies down with His head on the l
 
 ## 140
 
-“Who is this *māyā*? Where has she come from? Is she divine, human, or demoniac? No *māyā* can bewilder me except the *māyā* of my Lord Kṛṣṇa.”
+“Who is this māyā? Where has she come from? Is she divine, human, or demoniac? No māyā can bewilder me except the māyā of my Lord Kṛṣṇa.”
 
 ## 141
 
@@ -202,7 +202,7 @@ Dividing Himself into parts (*kalās*), Bhagavān manifested various avatāras i
 
 ## 161
 
-Avadhūta Gosāñi is Nityānanda Prabhu. *Prema-dhāma* means the abode of *prema*.
+Avadhūta Gosāñi is Nityānanda Prabhu. *Prema-dhāma* means the abode of prema.
 
 ## 165
 
@@ -238,7 +238,7 @@ Kavirāja Gosvāmī lived in the village of Jhāmaṭapura, near the village of 
 
 ## 214
 
-In the *rāsa* pastime the *gopīs* bitterly lamented in separation. Suddenly Madana-mohana Himself appeared among them — in yellow garments, with a garland of forest flowers, and with a smile on His face.
+In the rāsa pastime the gopīs bitterly lamented in separation. Suddenly Madana-mohana Himself appeared among them — in yellow garments, with a garland of forest flowers, and with a smile on His face.
 
 ## 224
 
@@ -256,4 +256,4 @@ O friend, if you cherish the company of your relatives, do not look at the form 
 [^83-1]: *Śrīmad-Bhāgavatam* 2.6.43–45.
 [^93-1]: The edition reads *loka-draṣṭā* (“who beholds the worlds”); the verse has *loka-sraṣṭuḥ* (“of the creator of the worlds”). Possibly a misprint.
 [^128-1]: The verse translation reads differently: the knowledge that the avatāra and the source of the avatāras are nondifferent is ascribed to those who know the truth; Bhaktivinoda calls “one who sees no difference” the person who confuses them.
-[^166-1]: The verse translation reads differently: it takes *kadamba* as the *kadamba* flower (“like kadamba blossoms”).
+[^166-1]: The verse translation reads differently: it takes kadamba as the kadamba flower (“like kadamba blossoms”).

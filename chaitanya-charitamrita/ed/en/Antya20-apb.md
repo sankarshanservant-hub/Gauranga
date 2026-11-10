@@ -2,23 +2,23 @@
 
 ## 0
 
-**Summary.** This chapter describes how Mahāprabhu spent His nights with Svarūpa and Rāmānanda, relishing the *Śikṣāṣṭaka* with eagerness (*utkaṇṭhā*), humility, anxiety, and other feelings. From time to time the Lord would read verses from *Śrī Gīta-govinda* (composed by Jayadeva), *Śrīmad-Bhāgavatam*, *Śrī Jagannātha-vallabha-nāṭaka* (composed by Śrī Rāmānanda Rāya), and *Śrī Karṇāmṛta* (composed by Śrī Bilvamaṅgala), and would become absorbed in divine feelings — this and more is told in this chapter. The author indicates that, having relished *rasa* in this way for twelve years, Śrīman Mahāprabhu concluded His pastimes at the age of forty-eight. He then gave a brief recapitulation of all that is described in the Antya-līlā and with that concluded the book.
+**Summary.** This chapter describes how Mahāprabhu spent His nights with Svarūpa and Rāmānanda, relishing the *Śikṣāṣṭaka* with eagerness (*utkaṇṭhā*), humility, anxiety, and other feelings. From time to time the Lord would read verses from *Śrī Gīta-govinda* (composed by Jayadeva), *Śrīmad-Bhāgavatam*, *Śrī Jagannātha-vallabha-nāṭaka* (composed by Śrī Rāmānanda Rāya), and *Śrī Karṇāmṛta* (composed by Śrī Bilvamaṅgala), and would become absorbed in divine feelings — this and more is told in this chapter. The author indicates that, having relished rasa in this way for twelve years, Śrīman Mahāprabhu concluded His pastimes at the age of forty-eight. He then gave a brief recapitulation of all that is described in the Antya-līlā and with that concluded the book.
 
 ## 1
 
-Only fortunate people relish the lamentations (*vilāpa*) of Gauracandra, filled with the joy, jealousy, anxiety, humility, and anguish that *prema* evokes.
+Only fortunate people relish the lamentations (*vilāpa*) of Gauracandra, filled with the joy, jealousy, anxiety, humility, and anguish that prema evokes.
 
 ## 12
 
-Śrī Kṛṣṇa-saṅkīrtana cleanses the mirror of the mind, extinguishes the great forest fire of worldly existence (*bhava*), and spreads moonlight for the white lilies (*kairava*) that are the welfare of the *jīvas*. It is the life of the bride Knowledge (*vidyā*); it swells the ocean of bliss and at every step gives a taste of the full nectar; it bathes the true self (*svarūpa*) of everyone in coolness. May Śrī Kṛṣṇa-saṅkīrtana be especially victorious!
+Śrī Kṛṣṇa-saṅkīrtana cleanses the mirror of the mind, extinguishes the great forest fire of worldly existence (*bhava*), and spreads moonlight for the white lilies (*kairava*) that are the welfare of the jīvas. It is the life of the bride Knowledge (*vidyā*); it swells the ocean of bliss and at every step gives a taste of the full nectar; it bathes the true self (*svarūpa*) of everyone in coolness. May Śrī Kṛṣṇa-saṅkīrtana be especially victorious!
 
 ## 16
 
-O Bhagavān, Your name alone bestows every blessing on the *jīvas*, and so You have revealed Your many names — “Kṛṣṇa,” “Govinda,” and others. Into these names You have placed all Your potencies, and You have set no rules (no injunctions or restrictions) of time or anything else for remembering the name. O Lord, You have shown the *jīvas* such mercy and made Your name so easy to obtain. Yet my misfortune — offences against the name (*nāmāparādha*) — does not let attachment (*anurāga*) arise in me even for Your easily obtained name.
+O Bhagavān, Your name alone bestows every blessing on the jīvas, and so You have revealed Your many names — “Kṛṣṇa,” “Govinda,” and others. Into these names You have placed all Your potencies, and You have set no rules (no injunctions or restrictions) of time or anything else for remembering the name. O Lord, You have shown the jīvas such mercy and made Your name so easy to obtain. Yet my misfortune — offences against the name (*nāmāparādha*) — does not let attachment (*anurāga*) arise in me even for Your easily obtained name.
 
 ## 28
 
-This is the nature of *prema*: one who has entered into a true relationship with *prema* humbly thinks, “I have not even a trace of devotion to Kṛṣṇa.”
+This is the nature of prema: one who has entered into a true relationship with prema humbly thinks, “I have not even a trace of devotion to Kṛṣṇa.”
 
 ## 29
 
@@ -46,7 +46,7 @@ Let Kṛṣṇa embrace this maidservant devoted to His feet and crush her in Hi
 
 ## 57
 
-It is said that the faithful wife of a certain brāhmaṇa afflicted with leprosy served a prostitute dear to her husband, to give her husband pleasure. And when the hour of her husband’s death came, by the power of her faithfulness she stopped the movement of the sun, pleased the three deities — Brahmā, Viṣṇu, and Maheśvara — and brought her dead husband back to life. The point is this: firm faithfulness to Kṛṣṇa (*pātivratya*) is the *jīva*’s highest *dharma*, born of *śṛṅgāra-rasa*.
+It is said that the faithful wife of a certain brāhmaṇa afflicted with leprosy served a prostitute dear to her husband, to give her husband pleasure. And when the hour of her husband’s death came, by the power of her faithfulness she stopped the movement of the sun, pleased the three deities — Brahmā, Viṣṇu, and Maheśvara — and brought her dead husband back to life. The point is this: firm faithfulness to Kṛṣṇa (*pātivratya*) is the jīva’s highest dharma, born of *śṛṅgāra-rasa*.
 
 ## 90
 
@@ -58,7 +58,7 @@ I am as powerless as a wooden doll, and to suppose that I have written this book
 
 ## 154
 
-Whoever relishes with faith this nectar-like account of the life of Bhagavān Śrī Caitanyadeva, which bestows good fortune and destroys all that is inauspicious — at his pure lotus feet this author becomes a bee and relishes in the highest degree this *rasa*, full of the intoxicating honey of *prema*.
+Whoever relishes with faith this nectar-like account of the life of Bhagavān Śrī Caitanyadeva, which bestows good fortune and destroys all that is inauspicious — at his pure lotus feet this author becomes a bee and relishes in the highest degree this rasa, full of the intoxicating honey of prema.
 
 ## 155
 
@@ -66,7 +66,7 @@ May this book, the *Śrī Caitanya-caritāmṛta*, be offered to Śrī Kṛṣ�
 
 ## 156
 
-Kṛṣṇa’s lotus feet fill the world with fragrance, and with their own *rasa* they madden the bees who know *rasa*. What *rasika* would try to give them up?
+Kṛṣṇa’s lotus feet fill the world with fragrance, and with their own rasa they madden the bees who know rasa. What *rasika* would try to give them up?
 
 ## 157
 
@@ -90,17 +90,17 @@ and offered it to the devotees: read it and be rid of *anarthas*!
 
 May all my sons who laboured
 to prepare this book
-live free of obstacles, and in the festival of the company of *sādhus*
+live free of obstacles, and in the festival of the company of sādhus
 serve with devotion the feet of Śrī Hari.
 
 Holding the feet of the Vaiṣṇavas, I humbly pray:
 may the rest of this servant’s life
-pass in Śrī Godruma, in the company of *sādhus*, in the joy of spiritual bliss,
+pass in Śrī Godruma, in the company of sādhus, in the joy of spiritual bliss,
 absorbed in the name of Kṛṣṇa.
 
 This world has no substance; fools sink in it,
 but the great soul is indifferent to it:
-in the company of *sādhus* he worships Kṛṣṇa, serves Rādhā and Kṛṣṇa in Vraja,
+in the company of sādhus he worships Kṛṣṇa, serves Rādhā and Kṛṣṇa in Vraja,
 and ever takes shelter of the name of Kṛṣṇa.
 
 In the four hundred tenth year of the Gaura era, in the month of Meṣa, on the Ekādaśī of the bright fortnight,[^158-1]

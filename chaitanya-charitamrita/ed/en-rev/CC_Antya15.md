@@ -1260,7 +1260,7 @@ with lament  together  this  of madness  description
 śrī-rūpa-gosāñi ihā kairāchena likhana  
 Śrī Rūpa Gosāñi  this  has made  writing
 
-(96) Śrī Rūpa Gosāñi too has described this madness of the Lord, together with His lament:
+(96) Śrī Rūpa Gosāñi too has described this divine madness of the Lord, together with His lament:
 
 পয়োরাশেস্তীরে স্ফুরদুপবনালীকলনয়া  
 মুহুর্বৃন্দারণ্যস্মরণজনিতপ্রেমবিবশঃ ৷  

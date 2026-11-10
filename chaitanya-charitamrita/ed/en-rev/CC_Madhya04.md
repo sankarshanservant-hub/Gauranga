@@ -855,7 +855,7 @@ of other  villages  the people  all who  to see  came
 gopāla dekhiyā seha prasāda pāila  
 Gopāla  seeing  they too  prasāda  received
 
-(85) Everyone who came from other villages to look on saw Gopāla and received *prasāda* as well.
+(85) Everyone who came from other villages to look on saw Gopāla and received prasāda as well.
 
 দেখিয়া পুরীর প্রভাব লোকে চমৎকার ৷  
 পূর্ব্ব অন্নকূট যেন হৈল সাক্ষাৎকার ॥ ৮৬ ॥
@@ -965,7 +965,7 @@ mahā-prasāda  ate  coming  all  the people
 gopāla dekhiyā sabāra khaṇḍe duḥkha-śoka  
 Gopāla  seeing  of all  are dispelled  sorrow and grief
 
-(96) Everyone came and ate the *mahā-prasāda*, and seeing Gopāla, they were all freed from sorrow and grief.
+(96) Everyone came and ate the mahā-prasāda, and seeing Gopāla, they were all freed from sorrow and grief.
 
 আশ-পাশ ব্রজভূমের যত লোক সব ৷  
 এক এক দিন সবে করে মহোৎসব ॥ ৯৭ ॥
@@ -2203,7 +2203,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^29]: *Amṛta-pravāha-bhāṣya*: *viḍaka* — rolls of betel; *sañcaya* — a store.
 
-[^30]: *Anubhāṣya*: the Annakūṭa of old — at the end of the Dvāpara-yuga, on Śrī Kṛṣṇa’s advice, the cowherds gave up the worship of Indra and honoured the cows, the brāhmaṇas and Govardhana Hill, and Kṛṣṇa, assuming another form and saying “I am the hill”, ate the abundant offerings (Śrīmad-Bhāgavatam, 10.24). *Amṛta-pravāha-bhāṣya*: just such a great Annakūṭa as at that worship of Govardhana Mādhavendra Purī also held.
+[^30]: *Anubhāṣya*: the Annakūṭa of old — at the end of the Dvāpara-yuga, on Śrī Kṛṣṇa’s advice, the cowherds gave up the worship of Indra and honoured the cows, the brāhmaṇas and Govardhana Hill, and Kṛṣṇa, assuming another form and saying “I am the hill”, ate the abundant offerings (*Śrīmad-Bhāgavatam* 10.24). *Amṛta-pravāha-bhāṣya*: just such a great Annakūṭa as at that worship of Govardhana Mādhavendra Purī also held.
 
 [^31]: Heading in the edition: “By Purī’s mercy the brāhmaṇas became Vaiṣṇavas”.
 

@@ -1640,7 +1640,7 @@ kīrtana  doing  of the Lord  the rising of all ecstasies
 stambha, kampa, pulakāśru, gadgada, pralaya  
 stupor  trembling  hair on end and tears  choked voice  fainting
 
-(162) As He sang kīrtana, every bhāva arose in the Lord: stupor, trembling, hair standing on end, tears, a faltering voice and loss of consciousness (*pralaya*).[^54]
+(162) As He sang kīrtana, every *bhāva* arose in the Lord: stupor, trembling, hair standing on end, tears, a faltering voice and loss of consciousness (*pralaya*).[^54]
 
 ক্ষণে ক্ষণে পড়ে প্রভু আছাড় খাঞা ৷  
 দেখি শচীমাতা কহে রোদন করিয়া ॥ ১৬৩ ॥
@@ -2292,7 +2292,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^39]: *Anubhāṣya*: “like You” — a perfected Vaiṣṇava, a *paramahaṁsa* beyond rules and prohibitions; such souls are never ruled by fear of the worldly smārta society.
 
-[^40]: *Anubhāṣya*: to see *mahā-prasāda* as ordinary rice and dāl is an offence (*Bṛhad-viṣṇu-purāṇa*).
+[^40]: *Anubhāṣya*: to see mahā-prasāda as ordinary rice and dāl is an offence (*Bṛhad-viṣṇu-purāṇa*).
 
 [^41]: Heading in the edition: “A Vaiṣṇava’s sannyāsa sets aside the rules of the smārtas”. *Amṛta-pravāha-bhāṣya*: *smṛti-dharma* — the dharma of the smārtas.
 
@@ -2320,7 +2320,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^53]: The edition reads *āilā*; another reading is *āila*; the sense is the same.
 
-[^54]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): “every bhāva” means the eight sāttvika transformations — stupor, sweat, hair standing on end, a breaking voice, trembling, pallor, tears and *pralaya*; *pralaya* is the cessation of action and awareness through joy or through sorrow, and its sign is falling to the ground.
+[^54]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): “every *bhāva*” means the eight sāttvika transformations — stupor, sweat, hair standing on end, a breaking voice, trembling, pallor, tears and *pralaya*; *pralaya* is the cessation of action and awareness through joy or through sorrow, and its sign is falling to the ground.
 
 [^55]: *Anubhāṣya*: “since my childhood” — from her very infancy. Śacīmātā is eternally perfect, *vātsalya* embodied, by nature Yaśodā herself; devoted to Kṛṣṇa’s service from birth, she was never an ordinary jīva, and here this is told from her own lips.
 
@@ -2340,7 +2340,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^63]: *Anubhāṣya*: *nirapekṣa* — free of all dependence on matter and the material, established in one’s own nature, the service of Bhagavān. Fearing that an obstacle might arise in His search for Kṛṣṇa, the Lord left on hearing His kinsmen weep and was thought heartless by worldly moralists; but as the world’s teacher He showed that the one thing needful for the jīva is the service of Kṛṣṇa, and that even good morality, if it opposes that service, is a path contrary to Caitanya (cf. Antya 3.23).
 
-[^64]: *Amṛta-pravāha-bhāṣya*: the Lord went along the Gaṅgā through Āṭisārā, Pānihāṭi and Varāhanagara. At that time the Gaṅgā south of Calcutta flowed past Kālīghāṭa and Bāruipura and through the Mathurāpura police station into the ocean in a hundred streams; there, at a place called Ambuliṅga, lay the road through Chatrabhoga. *Anubhāṣya*: the village of Chatrabhoga (also called Khāḍi) lies south of Jayanagara in the 24 Parganas district; the Gaṅgā no longer flows there; see *Caitanya-bhāgavata*, Antya 2.
+[^64]: *Amṛta-pravāha-bhāṣya*: the Lord went along the Gaṅgā through Āṭisārā, Pāṇihāṭi and Varāhanagara. At that time the Gaṅgā south of Calcutta flowed past Kālīghāṭa and Bāruipura and through the Mathurāpura police station into the ocean in a hundred streams; there, at a place called Ambuliṅga, lay the road through Chatrabhoga. *Anubhāṣya*: the village of Chatrabhoga (also called Khāḍi) lies south of Jayanagara in the 24 Parganas district; the Gaṅgā no longer flows there; see *Caitanya-bhāgavata*, Antya 2.
 
 [^65]: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35). *Anubhāṣya*: on the way to Nīlācala the Lord passed in Bengal through Āṭisārā, Varāhanagara and Ambuliṅga-Chatrabhoga, and in Utkala through Prayāga-ghāṭa, Suvarṇarekhā, Jaleśvara, Remuṇā, Yājapura, Vaitaraṇī, Daśāśvamedha-ghāṭa, Kaṭaka, Mahānadī, Bhuvaneśvara (Bindu-sarovara), Kamalapura, Āṭhāranālā and other places.
 

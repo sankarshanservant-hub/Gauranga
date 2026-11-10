@@ -832,7 +832,7 @@ of the great mantra of Kṛṣṇa’s name  this  indeed  the nature
 yei jape, tāra kṛṣṇe upajaye bhāva  
 whoever  chants  his  for Kṛṣṇa  arises  bhāva
 
-(83) ‘Such is the nature of the great mantra, Kṛṣṇa’s name: it awakens bhāva for Kṛṣṇa in whoever chants it.[^23]
+(83) ‘Such is the nature of the great mantra, Kṛṣṇa’s name: it awakens *bhāva* for Kṛṣṇa in whoever chants it.[^23]
 
 কৃষ্ণবিষয়ক প্রেমা — পরম পুরুষার্থ ৷  
 যার আগে তৃণতুল্য চারি পুরুষার্থ ॥ ৮৪ ॥
@@ -1779,7 +1779,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^24]: As in the Gauḍīya Maṭha edition: «ব্রহ্মাদি আনন্দ» (“the bliss of Brahman and the rest”; the heading: “Prema, which puts liberation and the rest to shame, is the fifth goal of life”). *Amṛta-pravāha-bhāṣya*: even the bliss of Brahman, the first stage of liberation, cannot be compared with a single drop of prema. Other editions read «মোক্ষাদি» (“liberation and the rest”).
 
-[^25]: *Anubhāṣya*: when those without prema display laughter, tears, dancing and singing, it is only a sign of their misfortune; one who performs bhajana must reject altogether any artificial agitation of body and senses. The laughter, tears, singing, dancing and longing born of bhāva and prema come when the natural function of the soul awakens; they are the guileless movements of one turned towards service. The presumption of one who, without prema, assumes the high station of a devotee brings only harm into the world.
+[^25]: *Anubhāṣya*: when those without prema display laughter, tears, dancing and singing, it is only a sign of their misfortune; one who performs bhajana must reject altogether any artificial agitation of body and senses. The laughter, tears, singing, dancing and longing born of *bhāva* and prema come when the natural function of the soul awakens; they are the guileless movements of one turned towards service. The presumption of one who, without prema, assumes the high station of a devotee brings only harm into the world.
 
 [^26]: *Anubhāṣya*: to those whom Gurudeva sees to be qualified he gives the right to dance, sing and perform saṅkīrtana with like-minded devotees, and they, following in his steps, serve the deliverance of the world; the unqualified should chant Kṛṣṇa’s name in solitude.
 
@@ -1811,7 +1811,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^40]: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of the Vedas; it stands at the beginning and at the end of every Vedic mantra and is the Lord Himself in sound: “The sound *a* denotes Kṛṣṇa, the one Lord of all the worlds; *u* denotes Rādhā; and *m* the jīva.”
 
-[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
+[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad* 6.8.7) applies only to one part of it.
 
 [^42]: *Anubhāṣya*: “In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — at the beginning, in the middle and at the end — Hari alone is sung everywhere.”
 

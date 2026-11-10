@@ -10,7 +10,7 @@ I bow down to all the bees at Nityānanda’s lotus feet, who are maddened by dr
 
 ## 4
 
-Śrī Kṛṣṇa Caitanya is the wish-fulfilling tree of *prema*, and Śrī Avadhūta Nityānanda-candra is its high trunk. I bow down to His associates, the branches of that trunk.
+Śrī Kṛṣṇa Caitanya is the wish-fulfilling tree of prema, and Śrī Avadhūta Nityānanda-candra is its high trunk. I bow down to His associates, the branches of that trunk.
 
 ## 6
 

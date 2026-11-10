@@ -420,7 +420,7 @@ of a madman  the ways  makes,  incoherent  words
 seimata unmāda-pralāpa kare rātridine  
 just so  mad  raving  makes  night and day
 
-(41) Just as Śrī Rādhā raved on seeing Uddhava, so He raved in His madness night and day.
+(41) Just as Śrī Rādhā raved on seeing Uddhava, so He raved in His divine madness night and day.
 
 বিদ্যাপতি, জয়দেব, চণ্ডীদাসের গীত ৷  
 আস্বাদেন রামানন্দ-স্বরূপ-সহিত ॥ ৪২ ॥
@@ -1458,7 +1458,7 @@ the pastime of birth  sang  Kṛṣṇadāsa
 
 [^22]: *Anubhāṣya*: His own home — in Śāntipura; on the day of the Lord’s appearance Haridāsa Ṭhākura was in Śāntipura.
 
-[^23]: *Anubhāṣya*: *mano-bale* — “with eagerness of heart”, or “in the mind”. So too Vasudeva, seeing Hari born as his son, in the joy of Kṛṣṇa’s birth festival gave the brāhmaṇas ten thousand cows in his mind (Śrīmad-Bhāgavatam, 10.3.11).
+[^23]: *Anubhāṣya*: *mano-bale* — “with eagerness of heart”, or “in the mind”. So too Vasudeva, seeing Hari born as his son, in the joy of Kṛṣṇa’s birth festival gave the brāhmaṇas ten thousand cows in his mind (*Śrīmad-Bhāgavatam* 10.3.11).
 
 [^24]: *Anubhāṣya*: Sāvitrī is the consort of Brahmā, Gaurī of Śiva, Sarasvatī of Nṛsiṁha (after the verse quoted by Śrīdhara Svāmī: “in whose mouth dwells the Goddess of speech and on whose breast Lakṣmī…”), Śacī of Indra; Rambhā is a dancer of heaven, and Arundhatī the wife of Vasiṣṭha.
 

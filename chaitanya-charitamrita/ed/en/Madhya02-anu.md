@@ -4,7 +4,7 @@
 
 > Subheading: A description of the Lord’s incoherent words in separation from Kṛṣṇa, and so on —
 
-**asmin vicchede** (in this chapter — the second chapter of the Madhya-līlā of the *Śrī Caitanya-caritāmṛta*) **prabhoḥ** (of Śrī Caitanyadeva) **antya-līlā-sūtrānuvarṇane** (in recounting in *sūtras* His life in *sannyāsa*) **gaurasya** (of Bhagavān Mahāprabhu, who has taken shelter of the mood of the gopīs) **kṛṣṇa-viccheda-pralāpādi** (the words of madness and so on, born of separation from His Beloved) **anuvarṇyate** (are written by me).
+**asmin vicchede** (in this chapter — the second chapter of the Madhya-līlā of the *Śrī Caitanya-caritāmṛta*) **prabhoḥ** (of Śrī Caitanyadeva) **antya-līlā-sūtrānuvarṇane** (in recounting in sūtras His life in *sannyāsa*) **gaurasya** (of Bhagavān Mahāprabhu, who has taken shelter of the mood of the gopīs) **kṛṣṇa-viccheda-pralāpādi** (the words of madness and so on, born of separation from His Beloved) **anuvarṇyate** (are written by me).
 
 ## 3
 
@@ -112,7 +112,7 @@ At the joints the bones joined inside come apart, and only the skin can be seen.
 
 ## 29–34
 
-(*Śrīmad-Bhāgavatam* 2.3.17–24) “Rising and setting, the sun takes away the life span of all men — except of one whose moments are spent in talks about Uttamaśloka. Do the trees not live? Do the bellows not breathe? Do the other beasts in the village not eat and discharge semen? A man into whose ears the name of Gadāgraja has never entered is a beast praised by beasts like himself — dogs, village hogs, camels and asses. The ears of a man that do not hear of the heroic deeds of Urukrama are mere holes, alas. And the tongue that does not sing the songs about Urugāya, O Sūta, is as wicked as the tongue of a frog. The head, though crowned with a silk turban and a diadem, is only a heavy burden if it does not bow down to Mukunda. And the hands, though decked with glittering golden bracelets, are the hands of a corpse if they do not serve Hari. The eyes of men that do not look upon the forms of Viṣṇu are like the eyes on a peacock’s feathers. And the feet of men that do not walk to the holy places of Hari are no better than the feet of trees. A mortal who has never received on his head the dust of the feet of the Lord’s devotees is a living corpse. And one who, though born a man, has never smelled the fragrance of the *tulasī* from Śrī Viṣṇu’s feet is a corpse that breathes. Alas, the heart that does not melt when one chants the names of Hari is as hard as stone: for when it melts, tears come to the eyes and the hairs of the body stand on end.”
+(*Śrīmad-Bhāgavatam* 2.3.17–24) “Rising and setting, the sun takes away the life span of all men — except of one whose moments are spent in talks about Uttamaśloka. Do the trees not live? Do the bellows not breathe? Do the other beasts in the village not eat and discharge semen? A man into whose ears the name of Gadāgraja has never entered is a beast praised by beasts like himself — dogs, village hogs, camels and asses. The ears of a man that do not hear of the heroic deeds of Urukrama are mere holes, alas. And the tongue that does not sing the songs about Urugāya, O Sūta, is as wicked as the tongue of a frog. The head, though crowned with a silk turban and a diadem, is only a heavy burden if it does not bow down to Mukunda. And the hands, though decked with glittering golden bracelets, are the hands of a corpse if they do not serve Hari. The eyes of men that do not look upon the forms of Viṣṇu are like the eyes on a peacock’s feathers. And the feet of men that do not walk to the holy places of Hari are no better than the feet of trees. A mortal who has never received on his head the dust of the feet of the Lord’s devotees is a living corpse. And one who, though born a man, has never smelled the fragrance of the tulasī from Śrī Viṣṇu’s feet is a corpse that breathes. Alas, the heart that does not melt when one chants the names of Hari is as hard as stone: for when it melts, tears come to the eyes and the hairs of the body stand on end.”
 
 ## 35
 
@@ -142,7 +142,7 @@ At the joints the bones joined inside come apart, and only the skin can be seen.
 
 ## 42
 
-**ka-i-avarahi-aṁ** (without deceit — free from the pretended religion of *dharma*, *artha*, *kāma*, *mokṣa* and the like) **pemmaṁ** (*prema*) **māṇuse loe** (in the human world) **ṇa hi hoi** (does not exist). **ja-i** (if) **kassa** (of someone) **virahaḥ** (separation — a break in love — occurs), (then) **virahe** (in separation) **hontammi** (when it occurs) **na ko jīa-i** (who would live)?
+**ka-i-avarahi-aṁ** (without deceit — free from the pretended religion of dharma, *artha*, *kāma*, *mokṣa* and the like) **pemmaṁ** (*prema*) **māṇuse loe** (in the human world) **ṇa hi hoi** (does not exist). **ja-i** (if) **kassa** (of someone) **virahaḥ** (separation — a break in love — occurs), (then) **virahe** (in separation) **hontammi** (when it occurs) **na ko jīa-i** (who would live)?
 
 ## 43
 
@@ -192,7 +192,7 @@ In front of Śrī Jagannātha’s temple, at the far end of the *jagamohana*, st
 
 ## 58
 
-**anātha-bandho** (O friend of the helpless — of the gopīs tormented by separation; O You who are such a friend) **karuṇaika-sindho** (O sole ocean of mercy; the sense is: apart from Kṛṣṇa no one has the wealth of sweetness and *prema*, so no one else can have compassion on the gopīs) **hare** (O Hari — who steals the bodies, minds and words of the gopīs), **tvad-ālokanam** (seeing You) **antareṇa** (without) **hā hanta! hā hanta!** **adhanyāni** (inauspicious) **amūni dināntarāṇi** (these days — that is, these days and nights) **kathaṁ** (how — without serving You) **nayāmi** (shall I pass)?
+**anātha-bandho** (O friend of the helpless — of the gopīs tormented by separation; O You who are such a friend) **karuṇaika-sindho** (O sole ocean of mercy; the sense is: apart from Kṛṣṇa no one has the wealth of sweetness and prema, so no one else can have compassion on the gopīs) **hare** (O Hari — who steals the bodies, minds and words of the gopīs), **tvad-ālokanam** (seeing You) **antareṇa** (without) **hā hanta! hā hanta!** **adhanyāni** (inauspicious) **amūni dināntarāṇi** (these days — that is, these days and nights) **kathaṁ** (how — without serving You) **nayāmi** (shall I pass)?
 
 ## 59
 
@@ -252,7 +252,7 @@ In front of Śrī Jagannātha’s temple, at the far end of the *jagamohana*, st
 
 > Subheading: The symptoms of the Lord’s *mahābhāva* —
 
-***Stambha*** (stupor) — one of the eight *sāttvika* transformations. (*Bhakti-rasāmṛta-sindhu*, Southern Division, third wave) “When the mind is filled with *sattva*, it places itself, agitated, in the *prāṇa*. The *prāṇa*, being transformed, greatly agitates the body. Then these *bhāvas*, *stambha* and the others, appear in the devotee’s body. The *prāṇa*, resting in the element earth, produces *stambha*. *Stambha* arises from joy, fear, wonder, dejection and indignation. In it there is absence of speech and the like,[^72-1] motionlessness, blankness and so on.” When the mind reaches a *sāttvika* state, it places the restless mind in the *prāṇa*. The *prāṇa*, transformed, agitates the body. Then these *bhāvas*, *stambha* and the others, appear in the body of one engaged in *bhajana*. When the *prāṇa* rests in earth, one of the five elements, *stambha* arises. *Stambha* is born of joy, fear, wonder, dejection and anger. In *stambha* the activity of speech, hands, feet and so on ceases, and there is motionlessness, blankness and the like. *Stambha* is a particular state of the mind. The absence of speech and so on — a transformation born of the body — pervades both the outside and the inside. First it is subtle, later gross. Speechlessness and the like — that is, the blankness even of the organs of action — shows that the organs of knowledge, too, have ceased to act.
+***Stambha*** (stupor) — one of the eight sāttvika transformations. (*Bhakti-rasāmṛta-sindhu*, Southern Division, third wave) “When the mind is filled with *sattva*, it places itself, agitated, in the *prāṇa*. The *prāṇa*, being transformed, greatly agitates the body. Then these *bhāvas*, *stambha* and the others, appear in the devotee’s body. The *prāṇa*, resting in the element earth, produces *stambha*. *Stambha* arises from joy, fear, wonder, dejection and indignation. In it there is absence of speech and the like,[^72-1] motionlessness, blankness and so on.” When the mind reaches a sāttvika state, it places the restless mind in the *prāṇa*. The *prāṇa*, transformed, agitates the body. Then these *bhāvas*, *stambha* and the others, appear in the body of one engaged in *bhajana*. When the *prāṇa* rests in earth, one of the five elements, *stambha* arises. *Stambha* is born of joy, fear, wonder, dejection and anger. In *stambha* the activity of speech, hands, feet and so on ceases, and there is motionlessness, blankness and the like. *Stambha* is a particular state of the mind. The absence of speech and so on — a transformation born of the body — pervades both the outside and the inside. First it is subtle, later gross. Speechlessness and the like — that is, the blankness even of the organs of action — shows that the organs of knowledge, too, have ceased to act.
 
 ***Kampa*** (trembling). (Ibid.) “*Vepathu*, which makes the limbs quiver, arises from fright, indignation, joy and the like.” When the body quivers from great fear, anger, joy and the like, it is called *vepathu* or *kampa*.
 
@@ -294,7 +294,7 @@ As a guru keeps his disciples under strict discipline and teaches them the arts,
 
 > Subheading: The Lord’s devotees, sheltered in different *rasas* —
 
-The mood of Śrī Paramānanda Purī (in Vraja, Uddhava), in which *vātsalya-rasa* predominates; the pure friendship (*sakhya*) of Rāmānanda (Arjuna, or Viśākhā); the pure servitude (*dāsya*) of Govinda and others, devoted to service; and the principal *rasa*, *madhura*, of the intimate devotees Gadādhara, Jagadānanda and Dāmodara-Svarūpa. Through these four moods the Lord accepted from them their worship, the joy of their company and their service, and He was beholden to them.
+The mood of Śrī Paramānanda Purī (in Vraja, Uddhava), in which *vātsalya-rasa* predominates; the pure friendship (*sakhya*) of Rāmānanda (Arjuna, or Viśākhā); the pure servitude (*dāsya*) of Govinda and others, devoted to service; and the principal rasa, *madhura*, of the intimate devotees Gadādhara, Jagadānanda and Dāmodara-Svarūpa. Through these four moods the Lord accepted from them their worship, the joy of their company and their service, and He was beholden to them.
 
 ## 79
 

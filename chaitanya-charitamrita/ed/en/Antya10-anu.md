@@ -26,7 +26,7 @@
 
 ## 7
 
-> Subheading: An example: the *gopīs’* service to Kṛṣṇa in the *rāsa* dance —
+> Subheading: An example: the *gopīs’* service to Kṛṣṇa in the rāsa dance —
 
 See Śrīmad-Bhāgavatam 10.29.18–27.
 
@@ -118,7 +118,7 @@ This shows the author’s skill in preparing a variety of offerings (*naivedya*)
 
 > Subheading: Makaradhvaja carefully guards the *jhālis* —
 
-*Munsib* — in Arabic, *munsif*: overseer, manager. Makaradhvaja Kara was a resident of the village of Pāṇihāṭī, a devotee of Gaura and a follower of Rāghava Paṇḍita; the foundation of his house is still shown in Pāṇihāṭī.
+*Munsib* — in Arabic, *munsif*: overseer, manager. Makaradhvaja Kara was a resident of the village of Pāṇihāṭi, a devotee of Gaura and a follower of Rāghava Paṇḍita; the foundation of his house is still shown in Pāṇihāṭi.
 
 ## 41
 
@@ -138,7 +138,7 @@ This shows the author’s skill in preparing a variety of offerings (*naivedya*)
 
 ## 46
 
-> Subheading: The devotees of Gauḍa sing *kīrtana*; the devotees weep —
+> Subheading: The devotees of Gauḍa sing kīrtana; the devotees weep —
 
 ## 47
 
@@ -146,7 +146,7 @@ This shows the author’s skill in preparing a variety of offerings (*naivedya*)
 
 ## 48
 
-> Subheading: The sounds of *kīrtana* and weeping merge into a great roar —
+> Subheading: The sounds of kīrtana and weeping merge into a great roar —
 
 ## 49
 
@@ -184,7 +184,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 58
 
-> Subheading: A description of the *beḍā-saṅkīrtana* (the *kīrtana* around the temple) in seven groups —
+> Subheading: A description of the *beḍā-saṅkīrtana* (the kīrtana around the temple) in seven groups —
 
 *Beḍā-kīrtana* — see Madhya 11.215–238.
 
@@ -194,17 +194,17 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 62
 
-> Subheading: The roar of the great *saṅkīrtana* —
+> Subheading: The roar of the great saṅkīrtana —
 
 ## 63
 
-> Subheading: The king and his queens watch the *saṅkīrtana* —
+> Subheading: The king and his queens watch the saṅkīrtana —
 
 ## 64
 
-> Subheading: The force of the great *saṅkīrtana* —
+> Subheading: The force of the great saṅkīrtana —
 
-*Kīrtanāveśe* (“in absorption in *kīrtana*”) — another reading has “*kīrtanāṭope*,” that is, through the force or vehemence of the *kīrtana*.
+*Kīrtanāveśe* (“in absorption in *kīrtana*”) — another reading has “*kīrtanāṭope*,” that is, through the force or vehemence of the kīrtana.
 
 ## 65
 
@@ -216,7 +216,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 67
 
-> Subheading: The Lord orders Svarūpa to sing a line of an Oriya song —
+> Subheading: The Lord orders Svarūpa to sing a line of an Oriyā song —
 
 ## 68
 
@@ -250,7 +250,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 77
 
-> Subheading: Nityānanda devises a way to bring the *kīrtana* to a close —
+> Subheading: Nityānanda devises a way to bring the kīrtana to a close —
 
 ## 78
 
@@ -262,11 +262,11 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 80
 
-> Subheading: Learning from Nityānanda that the devotees are tired, the Lord ends the *kīrtana*, and everyone bathes in the ocean —
+> Subheading: Learning from Nityānanda that the devotees are tired, the Lord ends the kīrtana, and everyone bathes in the ocean —
 
 ## 81
 
-> Subheading: Everyone honours *prasāda* —
+> Subheading: Everyone honours prasāda —
 
 ## 82
 
@@ -312,7 +312,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 93
 
-> Subheading: The Lord tests whether Govinda’s impulse is towards pure service: He asks why Govinda did not go to honour *prasāda* although the Lord had fallen asleep —
+> Subheading: The Lord tests whether Govinda’s impulse is towards pure service: He asks why Govinda did not go to honour prasāda although the Lord had fallen asleep —
 
 ## 94
 
@@ -328,23 +328,23 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 97
 
-> Subheading: Govinda sees in *mahā-prasāda* the very spiritual reality (Brahman) and the Lord’s own property (*tadīya*). Yet eating it concerns him personally, and, wary of a desire to please his own senses, he waits until the Lord wakes up —
+> Subheading: Govinda sees in mahā-prasāda the very spiritual reality (Brahman) and the Lord’s own property (*tadīya*). Yet eating it concerns him personally, and, wary of a desire to please his own senses, he waits until the Lord wakes up —
 
 See Ādi 4.201: “If the bliss of one’s own love hinders the bliss of serving Kṛṣṇa, the devotee is filled with great anger at that bliss.”
 
 ## 98
 
-> Subheading: On other days, when the Lord fell asleep, Govinda would go to honour *prasāda* —
+> Subheading: On other days, when the Lord fell asleep, Govinda would go to honour prasāda —
 
 ## 99
 
-> Subheading: Why on that day it was hard for Govinda to go and honour *prasāda* —
+> Subheading: Why on that day it was hard for Govinda to go and honour prasāda —
 
 ## 100
 
 > Subheading: Only one who has received Caitanya’s mercy knows the secret of pure devotion —
 
-The *karmīs* cannot grasp the subtle essence of the scriptures on devotion, and they take mere ritual performance for *bhakti*. But *bhakti* is the name for that by which service to the Lord is accomplished. That which brings material fruits — one’s own *dharma*, *artha*, *kāma*, *mokṣa* and the like — is “*karma*.” The *prākṛta-sahajiyā karmīs* do not understand the proper decorum of service in intimate friendship (*viśrambha-sakhya*), in parental love (*vātsalya*) and in conjugal love (*madhura-bhāva*), and so they are deprived of Śrī Caitanya’s mercy.
+The *karmīs* cannot grasp the subtle essence of the scriptures on devotion, and they take mere ritual performance for bhakti. But bhakti is the name for that by which service to the Lord is accomplished. That which brings material fruits — one’s own dharma, *artha*, *kāma*, *mokṣa* and the like — is “*karma*.” The *prākṛta-sahajiyā karmīs* do not understand the proper decorum of service in intimate friendship (*viśrambha-sakhya*), in parental love (*vātsalya*) and in conjugal love (*madhura-bhāva*), and so they are deprived of Śrī Caitanya’s mercy.
 
 ## 101
 
@@ -360,7 +360,7 @@ The *karmīs* cannot grasp the subtle essence of the scriptures on devotion, and
 
 ## 104
 
-> Subheading: Honouring *prasāda* at Āiṭoṭā —
+> Subheading: Honouring prasāda at Āiṭoṭā —
 
 ## 105
 
@@ -382,7 +382,7 @@ The *karmīs* cannot grasp the subtle essence of the scriptures on devotion, and
 
 > Subheading: The variety of offerings —
 
-Variant reading: *paiḍa* (for *peḍā*), and in the second line, “all the costly *prasāda*: sugar lotuses (*padma-cini*), curd cheese (*chānā*).”
+Variant reading: *paiḍa* (for *peḍā*), and in the second line, “all the costly prasāda: sugar lotuses (*padma-cini*), curd cheese (*chānā*).”
 
 ## 110
 
@@ -460,7 +460,7 @@ Here the author’s own skill in cooking comes to light.
 
 ## 138
 
-> Subheading: The Lord eats the offerings together with *prasāda* —
+> Subheading: The Lord eats the offerings together with prasāda —
 
 ## 139
 
@@ -520,7 +520,7 @@ Caitanya dāsa: it was he who wrote a Sanskrit commentary on the *Kṛṣṇa-ka
 
 *Ghāṭāila*: reduced.
 
-In the homes of *brāhmaṇas* by birth (*śaukra-brāhmaṇas*) the Lord accepted cooked food. But at the invitation of those *brāhmaṇas* by birth whose cooked food may not be eaten (*abhojyānna*), and of other people, He accepted *mahā-prasāda* worth two or four *paṇas* of cowries.
+In the homes of brāhmaṇas by birth (*śaukra-brāhmaṇas*) the Lord accepted cooked food. But at the invitation of those brāhmaṇas by birth whose cooked food may not be eaten (*abhojyānna*), and of other people, He accepted mahā-prasāda worth two or four *paṇas* of cowries.
 
 ## 157
 
@@ -536,7 +536,7 @@ In the homes of *brāhmaṇas* by birth (*śaukra-brāhmaṇas*) the Lord accept
 
 ## 161
 
-> Subheading: The narrations of Gaura — an elixir (*rasāyana*) for the hearts and ears of the *jīvas* —
+> Subheading: The narrations of Gaura — an elixir (*rasāyana*) for the hearts and ears of the jīvas —
 
 *Thus ends the tenth chapter of the “Anubhāṣya.”*
 

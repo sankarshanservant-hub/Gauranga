@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In this second chapter the author reveals that Śrī Caitanya and Śrī Kṛṣṇa are one truth (*tattva*), and he proves that Brahman is the radiance of His body and the Paramātmā, the Supersoul, His part (*aṁśa*). He then proves that Śrī Kṛṣṇa is the supreme shelter of the *puruṣa-avatāras* and of all living beings, and so establishes that Kṛṣṇa is the original Nārāyaṇa. He shows why one must know Kṛṣṇa’s intrinsic nature (*svarūpa*) and His three potencies. Kṛṣṇa’s *svarūpa* manifests in two ways, as *prābhava* and *vaibhava*; the avatāras are of two kinds, *aṁśa-avatāras* and *śaktyāveśa-avatāras*; and His original pastimes are of two kinds, marked by childhood (*bālya*) and boyhood (*paugaṇḍa*). Having shown this, the author establishes that Kṛṣṇa in His youthful form (*kiśora*) is Himself the source of all avatāras. He also shows that the spiritual potency (*cit-śakti*) manifests as Vaikuṇṭha and the other abodes, the potency of *māyā* as countless universes, and the potency of living beings (*jīva-śakti*) as countless living beings. He establishes that Kṛṣṇa Caitanya is the cause of all causes and the beginning of all; He Himself has no beginning; He is the eternal form of being, consciousness and bliss, Kṛṣṇacandra Himself. And he concludes that every devotee must know the truth of his relationship with the Lord (*sambandha-jñāna*), that is, must know Kṛṣṇa’s *svarūpa*, His three potencies and His *vilāsas*.
+**Summary.** In this second chapter the author reveals that Śrī Caitanya and Śrī Kṛṣṇa are one truth (*tattva*), and he proves that Brahman is the radiance of His body and the Paramātmā, the Supersoul, His part (*aṁśa*). He then proves that Śrī Kṛṣṇa is the supreme shelter of the *puruṣa-avatāras* and of all living beings, and so establishes that Kṛṣṇa is the original Nārāyaṇa. He shows why one must know Kṛṣṇa’s intrinsic nature (*svarūpa*) and His three potencies. Kṛṣṇa’s *svarūpa* manifests in two ways, as *prābhava* and *vaibhava*; the avatāras are of two kinds, *aṁśa-avatāras* and *śaktyāveśa-avatāras*; and His original pastimes are of two kinds, marked by childhood (*bālya*) and boyhood (*paugaṇḍa*). Having shown this, the author establishes that Kṛṣṇa in His youthful form (*kiśora*) is Himself the source of all avatāras. He also shows that the spiritual potency (*cit-śakti*) manifests as Vaikuṇṭha and the other abodes, the potency of māyā as countless universes, and the potency of living beings (*jīva-śakti*) as countless living beings. He establishes that Kṛṣṇa Caitanya is the cause of all causes and the beginning of all; He Himself has no beginning; He is the eternal form of being, consciousness and bliss, Kṛṣṇacandra Himself. And he concludes that every devotee must know the truth of his relationship with the Lord (*sambandha-jñāna*), that is, must know Kṛṣṇa’s *svarūpa*, His three potencies and His *vilāsas*.
 
 ## 1
 
@@ -10,7 +10,7 @@ I worship Śrī Caitanya Prabhu. By His mercy even an ignorant person easily cro
 
 ## 2
 
-O Caitanyadeva, ocean of mercy! The nectar of Your pastimes is a shining Bhāgīrathī, the Gaṅgā. May it flow unceasingly through the field of my tongue, which is like a desert courtyard. Its lotuses are loud *kīrtana* about Kṛṣṇa, singing, dancing and the like; in it sport the saintly devotees — swans, *cakravāka* birds and bees; and its current makes a soft, sweet murmur that delights everyone’s ears.
+O Caitanyadeva, ocean of mercy! The nectar of Your pastimes is a shining Bhāgīrathī, the Gaṅgā. May it flow unceasingly through the field of my tongue, which is like a desert courtyard. Its lotuses are loud kīrtana about Kṛṣṇa, singing, dancing and the like; in it sport the saintly devotees — swans, *cakravāka* birds and bees; and its current makes a soft, sweet murmur that delights everyone’s ears.
 
 ## 5
 
@@ -34,11 +34,11 @@ I worship Govinda, the original Puruṣa. From His radiance comes Brahman — un
 
 ## 17
 
-Naked sages who practice austerity and keep their seed, and peaceful, pure *sannyāsīs*, attain the abode of Brahman.
+Naked sages who practice austerity and keep their seed, and peaceful, pure sannyāsīs, attain the abode of Brahman.
 
 ## 19
 
-A single sun, reflected in countless pieces of crystal, shows itself in each as a separate image. So too Paramātmā, a part of Govinda, manifests in countless *jīvas*.
+A single sun, reflected in countless pieces of crystal, shows itself in each as a separate image. So too Paramātmā, a part of Govinda, manifests in countless jīvas.
 
 ## 20
 
@@ -58,11 +58,11 @@ Bhagavān’s eternal form (*nitya-vigraha*) cannot be seen with the material se
 
 ## 30
 
-O Adhīśa, Supreme Lord, You are the witness of all the worlds. You are the Self of all embodied beings, that is, what is dearest to them; are You not, then, my father Nārāyaṇa? The water born of Nara is called *nāra*, and He whose resting place (*ayana*) is in it is Nārāyaṇa. He is Your *aṅga*, that is, Your part. None of Your parts — Kāraṇābdhiśāyī, Kṣīrodaśāyī and Garbhodaśāyī — is subject to *māyā*: They are the masters of *māyā*, the supreme Truth beyond *māyā*.
+O Adhīśa, Supreme Lord, You are the witness of all the worlds. You are the Self of all embodied beings, that is, what is dearest to them; are You not, then, my father Nārāyaṇa? The water born of Nara is called *nāra*, and He whose resting place (*ayana*) is in it is Nārāyaṇa. He is Your *aṅga*, that is, Your part. None of Your parts — Kāraṇābdhiśāyī, Kṣīrodaśāyī and Garbhodaśāyī — is subject to māyā: They are the masters of māyā, the supreme Truth beyond māyā.
 
 ## 36–37
 
-The material (*prākṛta*) creation lies within the bounds of *māyā*, *prakṛti*. “Earth, water, fire, air, ether, mind, intelligence and false ego — these are the eight divisions of My separated *prakṛti*. This is the lower…” (*Bhagavad-gītā* 7.4–5). According to these words of the *Gītā*, all of it belongs to *māyā*, that is, is material: both the subtle world — mind, intelligence and false ego — and the five great elements beginning with earth. The pure *jīva* and the spiritual world are transcendental (*aprākṛta*). There are two worlds, the material and the transcendental, and two kinds of *jīvas*, the conditioned and the pure; You are the Self of them all, and therefore their original *svarūpa*. Earth is the cause and shelter of all pots; so too You alone are the *nidāna* of the *jīvas*, that is, their cause and shelter.
+The material (*prākṛta*) creation lies within the bounds of māyā, *prakṛti*. “Earth, water, fire, air, ether, mind, intelligence and false ego — these are the eight divisions of My separated *prakṛti*. This is the lower…” (*Bhagavad-gītā* 7.4–5). According to these words of the *Gītā*, all of it belongs to māyā, that is, is material: both the subtle world — mind, intelligence and false ego — and the five great elements beginning with earth. The pure jīva and the spiritual world are transcendental (*aprākṛta*). There are two worlds, the material and the transcendental, and two kinds of jīvas, the conditioned and the pure; You are the Self of them all, and therefore their original *svarūpa*. Earth is the cause and shelter of all pots; so too You alone are the *nidāna* of the jīvas, that is, their cause and shelter.
 
 ## 40
 
@@ -70,19 +70,19 @@ The material (*prākṛta*) creation lies within the bounds of *māyā*, *prak�
 
 ## 44
 
-*Ithe* (in them) means in the material multitudes of universes and in the transcendental abodes, Vaikuṇṭha and the rest. You are the one witness, that is, the seer, of all the deeds of the conditioned and the pure *jīvas* — past, future and present.
+*Ithe* (in them) means in the material multitudes of universes and in the transcendental abodes, Vaikuṇṭha and the rest. You are the one witness, that is, the seer, of all the deeds of the conditioned and the pure jīvas — past, future and present.
 
 ## 46
 
-*Yāte* means “because”: because You see the *jīvas*, You are Nārāyaṇa, the shelter (*ayana*) of *nāra*. Brahmā establishes by three arguments that Kṛṣṇa is the original Nārāyaṇa. First: Kṛṣṇa is the *nidāna* (cause) and shelter of all *jīvas*, and therefore He is the original Nārāyaṇa. Second: the Lord of all *jīvas* is the Kāraṇābdhiśāyī Puruṣa; the Self of the aggregate *jīva*, that is, of Hiraṇyagarbha, is the Garbhodaśāyī Puruṣa; and the indwelling Lord, the Self of the individual *jīva*, is the Kṣīrodaśāyī Puruṣa. These three Puruṣas and Their avatāras receive Their power from Kṛṣṇa; He is its original source and thus the shelter of *nāra*, and therefore He is the original Nārāyaṇa. Third: in countless universes, in Vaikuṇṭha and in the other abodes, Kṛṣṇa is the witness of the deeds of the conditioned and the pure *jīvas* in all three times; thus He is the shelter of *nāra*, and therefore the original Nārāyaṇa.
+*Yāte* means “because”: because You see the jīvas, You are Nārāyaṇa, the shelter (*ayana*) of *nāra*. Brahmā establishes by three arguments that Kṛṣṇa is the original Nārāyaṇa. First: Kṛṣṇa is the *nidāna* (cause) and shelter of all jīvas, and therefore He is the original Nārāyaṇa. Second: the Lord of all jīvas is the Kāraṇābdhiśāyī Puruṣa; the Self of the aggregate jīva, that is, of Hiraṇyagarbha, is the Garbhodaśāyī Puruṣa; and the indwelling Lord, the Self of the individual jīva, is the Kṣīrodaśāyī Puruṣa. These three Puruṣas and Their avatāras receive Their power from Kṛṣṇa; He is its original source and thus the shelter of *nāra*, and therefore He is the original Nārāyaṇa. Third: in countless universes, in Vaikuṇṭha and in the other abodes, Kṛṣṇa is the witness of the deeds of the conditioned and the pure jīvas in all three times; thus He is the shelter of *nāra*, and therefore the original Nārāyaṇa.
 
 ## 47
 
-*Jīva-hṛdi* means in the heart of the individual and of the aggregate *jīva*. *Jale* (in the water) means in the Kāraṇābdhi, the Garbhodaka and the Kṣīrodaka.
+*Jīva-hṛdi* means in the heart of the individual and of the aggregate jīva. *Jale* (in the water) means in the Kāraṇābdhi, the Garbhodaka and the Kṣīrodaka.
 
 ## 49
 
-*Tāte saba māyī*: because these three Puruṣas create through *māyā*, They are *māyī*, that is, the masters of *māyā*.
+*Tāte saba māyī*: because these three Puruṣas create through māyā, They are *māyī*, that is, the masters of māyā.
 
 ## 50
 
@@ -90,19 +90,19 @@ The material (*prākṛta*) creation lies within the bounds of *māyā*, *prak�
 
 ## 51–52
 
-Hiraṇyagarbha is the aggregate *jīva*; his indwelling Lord is Garbhodakaśāyī. The indwelling Lord of the *vyaṣṭi*, that is, of each separate *jīva*, is the Puruṣa Kṣīrodakaśāyī. The Puruṣa beyond these three Puruṣas is *turīya*, that is, the fourth. He is Kṛṣṇacandra’s *vilāsa-mūrti*, Nārāyaṇa, the Lord of Paravyoma; in Him there is not even a trace of *māyā*.
+Hiraṇyagarbha is the aggregate jīva; his indwelling Lord is Garbhodakaśāyī. The indwelling Lord of the *vyaṣṭi*, that is, of each separate jīva, is the Puruṣa Kṣīrodakaśāyī. The Puruṣa beyond these three Puruṣas is *turīya*, that is, the fourth. He is Kṛṣṇacandra’s *vilāsa-mūrti*, Nārāyaṇa, the Lord of Paravyoma; in Him there is not even a trace of māyā.
 
 ## 53
 
-Virāṭ, Hiraṇyagarbha and Kāraṇa are all designations (*upādhis*) connected with *māyā*. The truth free of *upādhis* is *turīya*, the fourth.
+Virāṭ, Hiraṇyagarbha and Kāraṇa are all designations (*upādhis*) connected with māyā. The truth free of *upādhis* is *turīya*, the fourth.
 
 ## 54
 
-Hiraṇyagarbha and the rest — the aggregate and the individual *jīvas* — are subject to *māyā*. The three Puruṣas mentioned have dealings with *māyā*, yet They are beyond it. They are the truth that rules over *māyā*: They glance at *māyā* but do not touch it.
+Hiraṇyagarbha and the rest — the aggregate and the individual jīvas — are subject to māyā. The three Puruṣas mentioned have dealings with māyā, yet They are beyond it. They are the truth that rules over māyā: They glance at māyā but do not touch it.
 
 ## 55
 
-The Lord’s lordship consists in just this: He abides in *prakṛti* yet does not come under the sway of its modes. When the intelligence of a *jīva* bound by *māyā* takes shelter of the Lord (*Īśa*), it does not join with the modes of *māyā* even when near *māyā*.
+The Lord’s lordship consists in just this: He abides in *prakṛti* yet does not come under the sway of its modes. When the intelligence of a jīva bound by māyā takes shelter of the Lord (*Īśa*), it does not join with the modes of māyā even when near māyā.
 
 ## 57
 
@@ -110,7 +110,7 @@ The Lord’s lordship consists in just this: He abides in *prakṛti* yet does n
 
 ## 59
 
-*Paribhāṣā* means a [defining] *sūtra*. *Sarvatrādhikāra*: you will find this mark everywhere in the *Bhāgavatam*.
+*Paribhāṣā* means a [defining] sūtra. *Sarvatrādhikāra*: you will find this mark everywhere in the *Bhāgavatam*.
 
 ## 60–62
 
@@ -146,7 +146,7 @@ The *Bhāgavatam* describes ten subjects: *sarga*, *visarga*, *sthāna*, *ūti*,
 
 ## 92
 
-In the Tenth Canto Śrī Kṛṣṇa is pointed out as the *āśraya-vigraha*, the form who is the shelter of all who seek shelter. I bow to that supreme abode and abode of the universe whose name is Śrī Kṛṣṇa. The meaning is this. In the world there are two truths: *āśraya*, the shelter, and *āśrita*, that which rests on the shelter. The original truth on which all the *āśrita-tattvas* rest is the *āśraya*. All the truths that exist by resting on it are *āśrita-tattvas*. Everything from *sarga* to *mukti* is *āśrita-tattva*. Thus the *puruṣa-avatāras* and all the avatāras who follow Them, all the potencies, and after them the worlds of *jīvas* and of matter — all of these rest on that shelter, on Kṛṣṇa. In its prayers and narratives the *Bhāgavatam* examines the *āśraya-tattva* partly indirectly, and in its direct teachings directly. Therefore one must know Kṛṣṇa’s *svarūpa* and His three potencies.
+In the Tenth Canto Śrī Kṛṣṇa is pointed out as the *āśraya-vigraha*, the form who is the shelter of all who seek shelter. I bow to that supreme abode and abode of the universe whose name is Śrī Kṛṣṇa. The meaning is this. In the world there are two truths: *āśraya*, the shelter, and *āśrita*, that which rests on the shelter. The original truth on which all the *āśrita-tattvas* rest is the *āśraya*. All the truths that exist by resting on it are *āśrita-tattvas*. Everything from *sarga* to *mukti* is *āśrita-tattva*. Thus the *puruṣa-avatāras* and all the avatāras who follow Them, all the potencies, and after them the worlds of jīvas and of matter — all of these rest on that shelter, on Kṛṣṇa. In its prayers and narratives the *Bhāgavatam* examines the *āśraya-tattva* partly indirectly, and in its direct teachings directly. Therefore one must know Kṛṣṇa’s *svarūpa* and His three potencies.
 
 ## 96
 
@@ -170,7 +170,7 @@ Kṛṣṇa’s *svarūpa* displays six kinds of *vilāsa*: two kinds of manifes
 
 ## 101–103
 
-The *cit-śakti*, or *svarūpa-śakti*, is also called the internal potency. From it come the endless manifestations of splendour in Vaikuṇṭha and the other abodes. From the marginal potency, the *jīva-śakti*, come the countless *jīvas*, conditioned and liberated. From the external potency, the *māyā-śakti*, comes the endless variety of material universes.
+The *cit-śakti*, or *svarūpa-śakti*, is also called the internal potency. From it come the endless manifestations of splendour in Vaikuṇṭha and the other abodes. From the marginal potency, the *jīva-śakti*, come the countless jīvas, conditioned and liberated. From the external potency, the *māyā-śakti*, comes the endless variety of material universes.
 
 ## 107
 

@@ -2309,7 +2309,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^40]: *Amṛta-pravāha-bhāṣya* (on 151–152): near the Guṇḍicā temple lies the Indradyumna lake; the Lord bathed in it, bowed down to Nṛsiṁhadeva and went into the garden.
 
-[^41]: *Anubhāṣya*: *piṇḍā* (an Oriya word) is a wooden seat.
+[^41]: *Anubhāṣya*: *piṇḍā* (an Oriyā word) is a wooden seat.
 
 [^42]: Heading in the edition: “Haridāsa’s natural humility and his reverence for the pure devotees.”
 

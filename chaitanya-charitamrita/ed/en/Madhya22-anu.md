@@ -2,9 +2,9 @@
 
 ## 1
 
-> Subheading: Obeisance to the Lord, the avatāra who purifies the age of Kali, the giver of *prema* —
+> Subheading: Obeisance to the Lord, the avatāra who purifies the age of Kali, the giver of prema —
 
-**kalau** (in the age devoid of *dharma*, the time of disputes based on logic) **yuge** **api** **yena** (by Mahāprabhu) **ati-gūḍhā** (unknown even to the knowers of true *dharma* in the Satya, Tretā and Dvāpara ages, when *dharma* abounded) **iyaṁ** **bhaktiḥ** (unmotivated service to Kṛṣṇa) **prakāśitā** (was proclaimed to all), **taṁ** **karuṇārṇavam** (the ocean of compassion for the *jīvas*) **śrī-kṛṣṇa-caitanya-devam** **ahaṁ** **vande**.
+**kalau** (in the age devoid of dharma, the time of disputes based on logic) **yuge** **api** **yena** (by Mahāprabhu) **ati-gūḍhā** (unknown even to the knowers of true dharma in the Satya, Tretā and Dvāpara ages, when dharma abounded) **iyaṁ** **bhaktiḥ** (unmotivated service to Kṛṣṇa) **prakāśitā** (was proclaimed to all), **taṁ** **karuṇārṇavam** (the ocean of compassion for the *jīvas*) **śrī-kṛṣṇa-caitanya-devam** **ahaṁ** **vande**.
 
 ## 3
 
@@ -28,19 +28,19 @@
 
 > Subheading: Kṛṣṇa and His *svarūpa-śakti*, though one, are joined to each other in embrace for the sake of pastimes (*vilāsa*) —
 
-Kṛṣṇa is the truth of nondual knowledge (*advaya-jñāna-tattva*). The potency and the possessor of potency are the truth of nondifference (*abheda-tattva*). Let no one mistakenly take the word “potency” to mean the *māyā-śakti*, which covers the *jīva*’s true nature. The potency that is engaged solely in the service of Kṛṣṇa Himself, the *svarūpa-śakti*, is distinct from the *māyā-śakti*. The *svarūpa-śakti* and Kṛṣṇa, the possessor of the *svarūpa-śakti*, abide inseparably.
+Kṛṣṇa is the truth of nondual knowledge (*advaya-jñāna-tattva*). The potency and the possessor of potency are the truth of nondifference (*abheda-tattva*). Let no one mistakenly take the word “potency” to mean the *māyā-śakti*, which covers the jīva’s true nature. The potency that is engaged solely in the service of Kṛṣṇa Himself, the *svarūpa-śakti*, is distinct from the *māyā-śakti*. The *svarūpa-śakti* and Kṛṣṇa, the possessor of the *svarūpa-śakti*, abide inseparably.
 
 ## 8
 
-> Subheading: Pastimes (*līlā-vilāsa*) in the countless Vaikuṇṭhas in the form of His own portions, Viṣṇu, and in the universes in the form of the *jīvas* —
+> Subheading: Pastimes (*līlā-vilāsa*) in the countless Vaikuṇṭhas in the form of His own portions, Viṣṇu, and in the universes in the form of the jīvas —
 
 ## 9
 
-> Subheading: The *svāṁśa-vilāsa* — the *catur-vyūha* and the avatāras — is Kṛṣṇa’s own form, or the truth of the possessor of potency (*śaktimat-tattva*); the *jīva* is a separated part, or the truth of potency (*śakti-tattva*) —
+> Subheading: The *svāṁśa-vilāsa* — the *catur-vyūha* and the avatāras — is Kṛṣṇa’s own form, or the truth of the possessor of potency (*śaktimat-tattva*); the jīva is a separated part, or the truth of potency (*śakti-tattva*) —
 
 ## 10
 
-> Subheading: The two kinds of *jīvas* —
+> Subheading: The two kinds of jīvas —
 
 ## 11
 
@@ -48,7 +48,7 @@ Kṛṣṇa is the truth of nondual knowledge (*advaya-jñāna-tattva*). The pot
 
 ## 12
 
-> Subheading: (2) The nature of the eternally conditioned *jīvas* —
+> Subheading: (2) The nature of the eternally conditioned jīvas —
 
 ## 13
 
@@ -66,17 +66,17 @@ Kṛṣṇa is the truth of nondual knowledge (*advaya-jñāna-tattva*). The pot
 
 ## 17
 
-> Subheading: *Bhakti* is the *abhidheya* that depends on nothing, while *karma*, *jñāna*, *yoga* and the rest depend on *bhakti* —
+> Subheading: *Bhakti* is the *abhidheya* that depends on nothing, while karma, jñāna, yoga and the rest depend on bhakti —
 
 ## 18
 
-> Subheading: Without the shelter of *bhakti*, *karma*, *jñāna*, *yoga* and the rest are fruitless —
+> Subheading: Without the shelter of bhakti, karma, jñāna, yoga and the rest are fruitless —
 
 ## 19
 
-> Subheading: Even dry knowledge and selfless *karma* are futile without *bhakti* — (*Śrīmad-Bhāgavatam* 1.5.12) —
+> Subheading: Even dry knowledge and selfless karma are futile without bhakti — (*Śrīmad-Bhāgavatam* 1.5.12) —
 
-Śrī Vyāsadeva had performed many austerities and composed all the scriptures, yet he was deprived of satisfaction of the self (*ātma-prasāda*). Dissatisfied at heart, he sat on the bank of the river Sarasvatī, turning over many arguments in his mind and lamenting. Then his *gurudeva*, who knew his heart, Śrī Nārada Gosvāmī, came there. When Vyāsadeva asked him why there was no satisfaction in his heart, Śrī Nārada glorified pure devotion to Hari as greater than all paths — *karma*, *jñāna* and the rest:
+Śrī Vyāsadeva had performed many austerities and composed all the scriptures, yet he was deprived of satisfaction of the self (*ātma-prasāda*). Dissatisfied at heart, he sat on the bank of the river Sarasvatī, turning over many arguments in his mind and lamenting. Then his *gurudeva*, who knew his heart, Śrī Nārada Gosvāmī, came there. When Vyāsadeva asked him why there was no satisfaction in his heart, Śrī Nārada glorified pure devotion to Hari as greater than all paths — karma, jñāna and the rest:
 
 **acyuta-bhāva-varjitam** (if it lacks feeling for Acyuta, Kṛṣṇa, that is, lacks favourable cultivation [*anukūla-anuśīlana*]) **nirañjanam** (free from *upādhis* — pure, that is, spotless) **naiṣkarmyam** (free even from enjoying fruits) **jñānam** **alam**[^19-1] (exceedingly) **na** **śobhate** (does not lead to full liberation); **punaḥ** **tathā** **śaśvat** (always — both during *sādhana* and at the time of attainment — and therefore) **abhadram** (painful) **yat** **ca** **akāraṇam** **karma** (*karma* aimed at worldly activity [*pravṛtti*], selfish; and even if aimed at withdrawal [*nivṛtti*], selfless, it is still *karma*) **īśvare** (to Viṣṇu) **na** **arpitam** (not offered), **kutaḥ** (how could it shine? — not at all, is the sense).
 
@@ -84,19 +84,19 @@ Kṛṣṇa is the truth of nondual knowledge (*advaya-jñāna-tattva*). The pot
 
 > Subheading: Without offering to Kṛṣṇa, the whole *karma-kāṇḍa* produces worldly existence — (*Śrīmad-Bhāgavatam* 2.4.17) —
 
-When Parīkṣit asked about the creation of the world and the other pastimes of Śrī Hari, the master of *māyā*, Śrī Śukadeva describes the glory of Śrī Hari and of His service:
+When Parīkṣit asked about the creation of the world and the other pastimes of Śrī Hari, the master of māyā, Śrī Śukadeva describes the glory of Śrī Hari and of His service:
 
 **tapasvinaḥ** (the *jñānīs* devoted to austerity) **dāna-parāḥ** (the generous) **yaśasvinaḥ** (the renowned) **manasvinaḥ** (the *yogīs*) **mantra-vidaḥ** (the knowers of the *Nigamas* and *Āgamas*) **sumaṅgalāḥ** (those of righteous conduct) **yad-arpaṇam** (offering to Him, Śrī Hari, the fruits each obtains from the austerity and so on mentioned above) **vinā** (without) **kṣemam** (welfare) **na** **vindanti** (do not obtain), **tasmai** **subhadra-śravase** (to Bhagavān Śrī Hari, the embodiment of auspicious fame) **namo namaḥ**.
 
 ## 21
 
-> Subheading: Knowledge without *bhakti* does not give liberation; liberation is the maidservant of *bhakti* —
+> Subheading: Knowledge without bhakti does not give liberation; liberation is the maidservant of bhakti —
 
-Mere knowledge — that is, the experience of the potency of consciousness (*saṁvit*) devoid of *bhakti* — cannot free the *jīva* from material bondage. However much the *jīva* may reject all that is not the Truth (*atat-nirasana*), through ignorance of Kṛṣṇa’s *svarūpa* the worship of oneself as God (*ahaṅgraha-upāsanā*) grows strong in him, and he falls down. But if the *jīva*, even without cultivating knowledge, is eager to serve Kṛṣṇa, he obtains the fruit of knowledge — liberation from material bondage — and realises Kṛṣṇa’s *svarūpa*. “O Bhagavān, if by fortune we have firm devotion to You, Your divine youthful form will appear to us. Liberation herself, with folded palms, serves us, and *dharma*, *artha* and *kāma* wait for their turn.” (*Kṛṣṇa-karṇāmṛta*)[^21-1]
+Mere knowledge — that is, the experience of the potency of consciousness (*saṁvit*) devoid of bhakti — cannot free the jīva from material bondage. However much the jīva may reject all that is not the Truth (*atat-nirasana*), through ignorance of Kṛṣṇa’s *svarūpa* the worship of oneself as God (*ahaṅgraha-upāsanā*) grows strong in him, and he falls down. But if the jīva, even without cultivating knowledge, is eager to serve Kṛṣṇa, he obtains the fruit of knowledge — liberation from material bondage — and realises Kṛṣṇa’s *svarūpa*. “O Bhagavān, if by fortune we have firm devotion to You, Your divine youthful form will appear to us. Liberation herself, with folded palms, serves us, and dharma, *artha* and *kāma* wait for their turn.” (*Kṛṣṇa-karṇāmṛta*)[^21-1]
 
 ## 22
 
-> Subheading: Eternal good lies only on the path of *bhakti*; apart from it, dry knowledge yields nothing but futile labour — (*Śrīmad-Bhāgavatam* 10.14.4) —
+> Subheading: Eternal good lies only on the path of bhakti; apart from it, dry knowledge yields nothing but futile labour — (*Śrīmad-Bhāgavatam* 10.14.4) —
 
 When, as a result of the stealing of the calves, Śrī Kṛṣṇa crushed Brahmā’s pride, Brahmā surrendered to Śrī Kṛṣṇa completely and offers Him a prayer:
 
@@ -104,45 +104,45 @@ When, as a result of the stealing of the calves, Śrī Kṛṣṇa crushed Brahm
 
 ## 23
 
-> Subheading: Only one who surrenders to Bhagavān is freed from *māyā* — (*Bhagavad-gītā* 7.14) —
+> Subheading: Only one who surrenders to Bhagavān is freed from māyā — (*Bhagavad-gītā* 7.14) —
 
 See Madhya 20.121.
 
 ## 24
 
-> Subheading: The cause of the *jīva*’s bondage in worldly existence —
+> Subheading: The cause of the jīva’s bondage in worldly existence —
 
-The *jīva* forgot the truth: “The *jīva* is Kṛṣṇa’s eternal servant.” Therefore *māyā* tempted and bewildered him in every way and bound the chain of the three *guṇas* around his neck. Since then it has been hard for the conditioned *jīva* to escape the bonds of *māyā*’s chain — the desire to enjoy.
+The jīva forgot the truth: “The jīva is Kṛṣṇa’s eternal servant.” Therefore māyā tempted and bewildered him in every way and bound the chain of the three *guṇas* around his neck. Since then it has been hard for the conditioned jīva to escape the bonds of māyā’s chain — the desire to enjoy.
 
 ## 25
 
 > Subheading: The only means of deliverance and of attaining *prayojana* —
 
-Only by the strength of serving the guru and worshipping Kṛṣṇa is the conditioned *jīva* freed from the net of *māyā* and attains Kṛṣṇa’s lotus feet.
+Only by the strength of serving the guru and worshipping Kṛṣṇa is the conditioned jīva freed from the net of māyā and attains Kṛṣṇa’s lotus feet.
 
 ## 26
 
-> Subheading: Following *varṇāśrama-dharma* without *bhakti* leads to hell —
+> Subheading: Following *varṇāśrama-dharma* without bhakti leads to hell —
 
-*Brāhmaṇas*, *kṣatriyas*, *vaiśyas* and *śūdras* may properly follow the *dharma* of their *varṇa*, and *brahmacārīs*, *gṛhasthas*, *vānaprasthas* and *sannyāsīs* may follow the *dharma* of their *āśrama* in every respect. But if they do not worship Kṛṣṇa, then, though they rise high under the sway of mundane self-conceit, in the end, when their pious merit (*puṇya*) is exhausted, they surely fall into the hell Raurava. Without the cultivation of transcendental *bhakti*, there is no good at all for a worldly-minded follower of *varṇāśrama*.
+*Brāhmaṇas*, kṣatriyas, *vaiśyas* and śūdras may properly follow the dharma of their *varṇa*, and *brahmacārīs*, *gṛhasthas*, *vānaprasthas* and sannyāsīs may follow the dharma of their *āśrama* in every respect. But if they do not worship Kṛṣṇa, then, though they rise high under the sway of mundane self-conceit, in the end, when their pious merit (*puṇya*) is exhausted, they surely fall into the hell Raurava. Without the cultivation of transcendental bhakti, there is no good at all for a worldly-minded follower of *varṇāśrama*.
 
 ## 27
 
 > Subheading: The origin of *daiva-varṇāśrama-dharma* — (*Śrīmad-Bhāgavatam* 11.5.2–3) —
 
-Śrī Nārada, glorifying *bhāgavata-dharma* before Vasudeva, recounts the dialogue between Nimi, the king of Videha, and the nine Yogendras. Mahārāja Nimi asked, “What is the destination of the slaves of the senses (*godāsas*) who are averse to serving Hari?” In answer to this question, one of the nine Yogendras, the sage Camasa, describes in the following two verses the creation of *daiva-varṇāśrama*, favourable to *bhakti*, and the wretched condition of those who deviate from it:
+Śrī Nārada, glorifying *bhāgavata-dharma* before Vasudeva, recounts the dialogue between Nimi, the king of Videha, and the nine Yogendras. Mahārāja Nimi asked, “What is the destination of the slaves of the senses (*godāsas*) who are averse to serving Hari?” In answer to this question, one of the nine Yogendras, the sage Camasa, describes in the following two verses the creation of *daiva-varṇāśrama*, favourable to bhakti, and the wretched condition of those who deviate from it:
 
-**puruṣasya** (of Bhagavān, the universal [*vairāja*] Brahmā) **mukha-bāhūru-pādebhyaḥ** **guṇaiḥ** (according to the *guṇas* — *sattva*, *rajas* and *tamas*) **āśramaiḥ** (with the four *āśramas* — *brahmacarya*, *gṛhastha*, *vānaprastha* and *sannyāsa*) **saha** **pṛthak** **viprādayaḥ** (the *brāhmaṇas*, *kṣatriyas*, *vaiśyas* and *śūdras*) **catvāraḥ** **varṇāḥ** **jajñire**.
+**puruṣasya** (of Bhagavān, the universal [*vairāja*] Brahmā) **mukha-bāhūru-pādebhyaḥ** **guṇaiḥ** (according to the *guṇas* — *sattva*, *rajas* and *tamas*) **āśramaiḥ** (with the four *āśramas* — *brahmacarya*, *gṛhastha*, *vānaprastha* and *sannyāsa*) **saha** **pṛthak** **viprādayaḥ** (the brāhmaṇas, kṣatriyas, *vaiśyas* and *śūdras*) **catvāraḥ** **varṇāḥ** **jajñire**.
 
 ## 28
 
-> Subheading: One who follows non-*daiva varṇāśrama*, hostile to *bhakti*, goes to hell —
+> Subheading: One who follows non-*daiva varṇāśrama*, hostile to bhakti, goes to hell —
 
-**eṣām** (among them — the *brāhmaṇas*, *kṣatriyas*, *vaiśyas* and *śūdras*, the *brahmacārīs*, *gṛhasthas*, *vānaprasthas* and *sannyāsīs*) **ye** (those people who) **sākṣāt** **ātma-prabhavam** (Him from whom comes their birth, or appearance) **īśvaram** (not knowing Him, being ungrateful) **na** **bhajanti**, **avajānanti** (or, though knowing, under the weight of pride in the dignity of *varṇāśrama* think there is no need to serve Kṛṣṇa and are hostile to Him), (they, devoid of service to Hari, guru and the Vaiṣṇavas,) **sthānāt** (from their own *varṇa* and *āśrama*) **bhraṣṭāḥ** (having fallen) **adhaḥ** **patanti** (go to hell; for mundane *varṇāśrama-dharma* is impermanent, shaken by time, yields only temporary fruits, and is designated by the word *asat*).
+**eṣām** (among them — the brāhmaṇas, kṣatriyas, *vaiśyas* and śūdras, the *brahmacārīs*, *gṛhasthas*, *vānaprasthas* and *sannyāsīs*) **ye** (those people who) **sākṣāt** **ātma-prabhavam** (Him from whom comes their birth, or appearance) **īśvaram** (not knowing Him, being ungrateful) **na** **bhajanti**, **avajānanti** (or, though knowing, under the weight of pride in the dignity of *varṇāśrama* think there is no need to serve Kṛṣṇa and are hostile to Him), (they, devoid of service to Hari, guru and the Vaiṣṇavas,) **sthānāt** (from their own *varṇa* and *āśrama*) **bhraṣṭāḥ** (having fallen) **adhaḥ** **patanti** (go to hell; for mundane *varṇāśrama-dharma* is impermanent, shaken by time, yields only temporary fruits, and is designated by the word *asat*).
 
 ## 29
 
-> Subheading: Even the *jñānī* who lacks *bhakti* and thinks himself liberated follows the impure *dharma* of the mind; only the pure devotee follows the pure *dharma* of the soul —
+> Subheading: Even the *jñānī* who lacks bhakti and thinks himself liberated follows the impure dharma of the mind; only the pure devotee follows the pure dharma of the soul —
 
 A *jñānī* may think, “Even while living I have been freed from the bonds of worldly existence.” Yet without devotion to Kṛṣṇa, in the worship of oneself as God (*ahaṅgraha-upāsanā*), the intelligence cannot become pure. For the seeker of liberation, knowing his conditioned state, seeks release from it; and knowing the liberated state, he considers himself bound by all visible things outside it. Therefore he cannot get free from the grip of such impermanent conceptions.
 
@@ -152,23 +152,23 @@ A *jñānī* may think, “Even while living I have been freed from the bonds of
 
 When Bhagavān Śrī Kṛṣṇa appeared in the womb of Devakī, imprisoned in Kaṁsa’s jail, Brahmā and the other gods praised Bhagavān in the hymn known as the “Garbha-stotra”:
 
-**he aravindākṣa** (O You whose eyes are like lotus petals), **anye** (non-devotees) **ye** **vimukta-māninaḥ** (who think, “We are liberated *jñānīs*”) **tvayi** (towards You, Bhagavān) **asta-bhāvāt** (because their feeling [*bhāva*] has been cast off and is therefore absent — because they lack *bhakti* and do not serve You) **aviśuddha-buddhayaḥ** (those whose intelligence is not pure; that is, prizing the witch of liberation, they bear in their minds the fault, the impurity and stain of deceit born of knowledge) **kṛcchreṇa** (by much practice of knowledge and renunciation) **paraṁ** **padam** (in the words of Svāmī, “near to *mokṣa*,” that is, the place immediately next to the seat of *mokṣa*) **āruhya** (having ascended) **anādṛta-yuṣmad-aṅghrayaḥ** (not honouring Your feet: having disregarded eternal service to Your lotus feet, by that offence they are cut off from the rope of Kṛṣṇa’s mercy) **tataḥ** (from there — from the edge of the seat called the highest knowledge) **adhaḥ** **patanti** (sink into the darkness of ignorance, the gloom of worldly existence).
+**he aravindākṣa** (O You whose eyes are like lotus petals), **anye** (non-devotees) **ye** **vimukta-māninaḥ** (who think, “We are liberated *jñānīs*”) **tvayi** (towards You, Bhagavān) **asta-bhāvāt** (because their feeling [*bhāva*] has been cast off and is therefore absent — because they lack bhakti and do not serve You) **aviśuddha-buddhayaḥ** (those whose intelligence is not pure; that is, prizing the witch of liberation, they bear in their minds the fault, the impurity and stain of deceit born of knowledge) **kṛcchreṇa** (by much practice of knowledge and renunciation) **paraṁ** **padam** (in the words of Svāmī, “near to *mokṣa*,” that is, the place immediately next to the seat of *mokṣa*) **āruhya** (having ascended) **anādṛta-yuṣmad-aṅghrayaḥ** (not honouring Your feet: having disregarded eternal service to Your lotus feet, by that offence they are cut off from the rope of Kṛṣṇa’s mercy) **tataḥ** (from there — from the edge of the seat called the highest knowledge) **adhaḥ** **patanti** (sink into the darkness of ignorance, the gloom of worldly existence).
 
 ## 31
 
-> Subheading: Where Kṛṣṇa is seen, *māyā* is not seen; where *māyā* is seen, Kṛṣṇa is not seen —
+> Subheading: Where Kṛṣṇa is seen, māyā is not seen; where māyā is seen, Kṛṣṇa is not seen —
 
-In the “Catuḥ-ślokī” of the *Bhāgavatam* it is written: “Whatever appears apart from the Reality and does not appear in the Self, know that to be My *māyā*, like a reflection (*ābhāsa*) and like darkness.”[^31-1] As there is no darkness where there is light, so the *jīva*, once turned towards Kṛṣṇa, is freed from the grip of *māyic* desires. *Māyā* swallows the *jñānīs*, the *karmīs* and those with other desires (*anyābhilāṣīs*) — all except Kṛṣṇa’s devotees.
+In the “Catuḥ-ślokī” of the *Bhāgavatam* it is written: “Whatever appears apart from the Reality and does not appear in the Self, know that to be My māyā, like a reflection (*ābhāsa*) and like darkness.”[^31-1] As there is no darkness where there is light, so the jīva, once turned towards Kṛṣṇa, is freed from the grip of *māyic* desires. *Māyā* swallows the *jñānīs*, the *karmīs* and those with other desires (*anyābhilāṣīs*) — all except Kṛṣṇa’s devotees.
 
 ## 32
 
-> Subheading: The maidservant *māyā* is ashamed to stand before her Lord, yet she imprisons the one who turns from the Lord by giving him a distorted intelligence (*vivarta-buddhi*) — (*Śrīmad-Bhāgavatam* 2.5.13) —
+> Subheading: The maidservant māyā is ashamed to stand before her Lord, yet she imprisons the one who turns from the Lord by giving him a distorted intelligence (*vivarta-buddhi*) — (*Śrīmad-Bhāgavatam* 2.5.13) —
 
-Devarṣi Nārada, seeing Brahmā, the grandsire of the worlds, engaged in austerity, asked him whether apart from him there was an independent controller, the Lord of all lords. Brahmā then describes the pastimes of Śrī Hari, the Paramātmā, and how He creates the world and so on through *māyā*:
+Devarṣi Nārada, seeing Brahmā, the grandsire of the worlds, engaged in austerity, asked him whether apart from him there was an independent controller, the Lord of all lords. Brahmā then describes the pastimes of Śrī Hari, the Paramātmā, and how He creates the world and so on through māyā:
 
-**yasya** (of Bhagavān) **īkṣā-pathe** (in the path of His sight) **sthātum** **vilajjamānayā** (by her who is ashamed, thinking, “This Lord knows my deceit”) **amuyā** (by that *māyā*) **vimohitāḥ** (bewildered) **durdhiyaḥ** (only *jīvas* of bad intelligence, whose knowledge is covered by *avidyā*) **mama** **aham** **iti** (thus) **vikatthante** (praise themselves) — “to Him obeisance”: thus it connects with the preceding.
+**yasya** (of Bhagavān) **īkṣā-pathe** (in the path of His sight) **sthātum** **vilajjamānayā** (by her who is ashamed, thinking, “This Lord knows my deceit”) **amuyā** (by that *māyā*) **vimohitāḥ** (bewildered) **durdhiyaḥ** (only jīvas of bad intelligence, whose knowledge is covered by *avidyā*) **mama** **aham** **iti** (thus) **vikatthante** (praise themselves) — “to Him obeisance”: thus it connects with the preceding.
 
-In another reading a verse is quoted here (*Śrīmad-Bhāgavatam* 2.7.47): “That which is eternally tranquil, fearless, pure consciousness, pure, equal, beyond cause and effect (*sat* and *asat*) — the supreme truth of the Self; where the word with its many case relations, directed towards action, does not operate, and from which *māyā* flees, ashamed to stand before it — that indeed is the abode (*pada*) of the Supreme Person, Bhagavān, which they know as Brahman, unending happiness without sorrow.” What the sages know as “the great Brahman without attributes (*nirvikalpa*)” is the first perceived feature of the Supreme Person, Bhagavān. That Brahman is full of unending happiness, free from sorrow, eternally tranquil, devoid of distinctions, fearless, consisting of knowledge alone, pure, untouched by objects and senses; it is the supreme truth of the Self. The word of the *karma-kāṇḍa*, which reveals the four kinds of results of action — production and the rest — cannot make Him known,[^32-1] and *māyā* is ashamed to come before Him and flees.
+In another reading a verse is quoted here (*Śrīmad-Bhāgavatam* 2.7.47): “That which is eternally tranquil, fearless, pure consciousness, pure, equal, beyond cause and effect (*sat* and *asat*) — the supreme truth of the Self; where the word with its many case relations, directed towards action, does not operate, and from which māyā flees, ashamed to stand before it — that indeed is the abode (*pada*) of the Supreme Person, Bhagavān, which they know as Brahman, unending happiness without sorrow.” What the sages know as “the great Brahman without attributes (*nirvikalpa*)” is the first perceived feature of the Supreme Person, Bhagavān. That Brahman is full of unending happiness, free from sorrow, eternally tranquil, devoid of distinctions, fearless, consisting of knowledge alone, pure, untouched by objects and senses; it is the supreme truth of the Self. The word of the *karma-kāṇḍa*, which reveals the four kinds of results of action — production and the rest — cannot make Him known,[^32-1] and māyā is ashamed to come before Him and flees.
 
 ## 33
 
@@ -188,7 +188,7 @@ In another reading a verse is quoted here (*Śrīmad-Bhāgavatam* 2.7.47): “Th
 
 > Subheading: Every intelligent person should worship Kṛṣṇa — (*Śrīmad-Bhāgavatam* 2.3.10) —
 
-Parīkṣit asked, “What is the duty of a man about to die?” In answer to this question, Śrī Śukadeva says that the *jīva*’s only eternal *dharma* is unmotivated, pure devotion to Kṛṣṇa, and that even for the weak-hearted who are full of desires, the worship of Śrī Hari is enjoined:
+Parīkṣit asked, “What is the duty of a man about to die?” In answer to this question, Śrī Śukadeva says that the jīva’s only eternal dharma is unmotivated, pure devotion to Kṛṣṇa, and that even for the weak-hearted who are full of desires, the worship of Śrī Hari is enjoined:
 
 **sarva-kāmaḥ** (one with all desires, stated and unstated) **mokṣa-kāmaḥ** (one who seeks liberation) **akāmaḥ** (the exclusive pure devotee) **vā**, **udāra-dhīḥ** (a person of broad intelligence) **tīvreṇa** (firm — by its very nature unobstructed) **bhakti-yogena** **param** (the master of *māyā*) **puruṣam** (the Supreme Person, Puruṣottama) **yajeta** (should serve).
 
@@ -198,7 +198,7 @@ Parīkṣit asked, “What is the duty of a man about to die?” In answer to th
 
 ## 40
 
-> Subheading: By Kṛṣṇa’s mercy even a worshipper with desires comes to desire pure *bhakti*, or becomes free from desires — (*Śrīmad-Bhāgavatam* 5.19.26) —
+> Subheading: By Kṛṣṇa’s mercy even a worshipper with desires comes to desire pure bhakti, or becomes free from desires — (*Śrīmad-Bhāgavatam* 5.19.26) —
 
 Śrī Śukadeva recounts to Mahārāja Parīkṣit how the gods sing of the superiority of human birth over all other births and of its necessity, and of the glory of Śrī Hari, who descends among human beings, and of unmotivated, pure devotion to Hari:
 
@@ -206,7 +206,7 @@ Parīkṣit asked, “What is the duty of a man about to die?” In answer to th
 
 ## 41
 
-> Subheading: Though some worshippers with desires have bad desires other than pure *bhakti*, by the power of the constant joy of service that evil is destroyed; even so, desire is not the cause of desirelessness —
+> Subheading: Though some worshippers with desires have bad desires other than pure bhakti, by the power of the constant joy of service that evil is destroyed; even so, desire is not the cause of desirelessness —
 
 ## 42
 
@@ -216,9 +216,9 @@ Parīkṣit asked, “What is the duty of a man about to die?” In answer to th
 
 ## 43
 
-> Subheading: A description of the *jīva* who has *sukṛti* —
+> Subheading: A description of the jīva who has *sukṛti* —
 
-Countless *jīvas* turned away from Kṛṣṇa wander helplessly through worldly existence, born in higher and lower species. If *sukṛti* arises in one of them, that person reaches the shore by the power of serving the feet of the great souls (*mahat*). Many logs float down a river. Buffeted by the current, one log or another comes to rest on the bank, while the others go on being carried by the stream.
+Countless jīvas turned away from Kṛṣṇa wander helplessly through worldly existence, born in higher and lower species. If *sukṛti* arises in one of them, that person reaches the shore by the power of serving the feet of the great souls (*mahat*). Many logs float down a river. Buffeted by the current, one log or another comes to rest on the bank, while the others go on being carried by the stream.
 
 ## 44
 
@@ -226,19 +226,19 @@ Countless *jīvas* turned away from Kṛṣṇa wander helplessly through worldl
 
 Devarṣi Nārada, having told (Kaṁsa) of the coming slaying of Kaṁsa and the other deeds (of Kṛṣṇa), departed. Then the great soul Akrūra set out for Gokula to bring Rāma and Kṛṣṇa, and on the way he reflected on his good fortune in being about to see Kṛṣṇa:
 
-(“To see Him, who is praised in the finest verses, will be hard for me” — so I think; or else:) **maivam** (no, not so); **adhamasya** (even of one who is low) **mama** **acyuta-darśanam** **syāt** **eva** (will surely be); (for) **kāla-nadyā** **hriyamāṇaḥ** **kaścana** **kvacit** **tarati**. (The sense is this: as of the straws and other things carried along by a river some now and then reach the shore, so among the *jīvas* carried along by time under the sway of *karma*, someone may now and then be saved.)
+(“To see Him, who is praised in the finest verses, will be hard for me” — so I think; or else:) **maivam** (no, not so); **adhamasya** (even of one who is low) **mama** **acyuta-darśanam** **syāt** **eva** (will surely be); (for) **kāla-nadyā** **hriyamāṇaḥ** **kaścana** **kvacit** **tarati**. (The sense is this: as of the straws and other things carried along by a river some now and then reach the shore, so among the jīvas carried along by time under the sway of karma, someone may now and then be saved.)
 
 ## 45
 
-> Subheading: The conditioned *jīva* attains perfection as the fruit of *sukṛti* turned towards *bhakti* —
+> Subheading: The conditioned jīva attains perfection as the fruit of *sukṛti* turned towards bhakti —
 
 ## 46
 
-> Subheading: As the fruit of *sukṛti* comes the company of *sādhus*; as its fruit, the beginning of *bhajana*; and then, as the *anarthas* cease, the perfection of *sādhana*, or the attainment of the goal, *prema* for Kṛṣṇa — (*Śrīmad-Bhāgavatam* 10.51.53) —
+> Subheading: As the fruit of *sukṛti* comes the company of sādhus; as its fruit, the beginning of *bhajana*; and then, as the *anarthas* cease, the perfection of *sādhana*, or the attainment of the goal, prema for Kṛṣṇa — (*Śrīmad-Bhāgavatam* 10.51.53) —
 
 The demon Kālayavana kicked the sleeping Mucukunda. Mucukunda awoke and glanced at him, and by the power of a boon Mucukunda had earlier received from the gods, the demon was burned to ashes. Then Śrī Kṛṣṇa wished to give Mucukunda a boon, and Mucukunda offers a prayer to Śrī Kṛṣṇa:
 
-**he acyuta**, **bhramataḥ** (of a person wandering in worldly existence) **yadā** (by Bhagavān’s mercy) **bhavāpavargaḥ** (the *apavarga* — the end, the destruction — of *bhava*, worldly existence) **bhavet** (that is, when the time has come), (then) **sat-samāgamaḥ** (the company of *sādhus*) **bhavet**; **yarhi** (when) **sat-saṅgamaḥ** **hi** **bhavet**, (then) **eva** **sad-gatau** (for the eternal supreme abode attained by the best of people) **parāvareśe** (for Bhagavān Kṛṣṇa) **tvayi** **ratiḥ** (devotion) **jāyate** (and then the *jīva* is released from worldly existence — this is the sense).
+**he acyuta**, **bhramataḥ** (of a person wandering in worldly existence) **yadā** (by Bhagavān’s mercy) **bhavāpavargaḥ** (the *apavarga* — the end, the destruction — of *bhava*, worldly existence) **bhavet** (that is, when the time has come), (then) **sat-samāgamaḥ** (the company of *sādhus*) **bhavet**; **yarhi** (when) **sat-saṅgamaḥ** **hi** **bhavet**, (then) **eva** **sad-gatau** (for the eternal supreme abode attained by the best of people) **parāvareśe** (for Bhagavān Kṛṣṇa) **tvayi** **ratiḥ** (devotion) **jāyate** (and then the jīva is released from worldly existence — this is the sense).
 
 ## 47
 
@@ -258,23 +258,23 @@ See Ādi 1.48.
 
 > Subheading: The faithful practitioner of *bhakti-yoga* is neither excessively attached nor excessively detached — (*Śrīmad-Bhāgavatam* 11.20.8) —
 
-Telling Śrī Uddhava about the three kinds of *yoga*, Bhagavān Śrī Kṛṣṇa determines who is qualified for *bhakti-yoga*:
+Telling Śrī Uddhava about the three kinds of yoga, Bhagavān Śrī Kṛṣṇa determines who is qualified for *bhakti-yoga*:
 
 **yadṛcchayā** (by some good fortune) **yaḥ** **pumān** **mat-kathādau** (in hearing, chanting and so on — in narrations about Bhagavān) **tu** **jāta-śraddhaḥ** (and at the same time) **nirviṇṇaḥ** (extremely detached, resorting to false [*phalgu*] renunciation) **na**, **ati-saktaḥ** (excessively absorbed in worldly existence) **ca** **na**, **asya** (of just such a faithful person) **bhakti-yogaḥ** **siddhidaḥ** (bestows what is desired).
 
 ## 51
 
-> Subheading: Only by the mercy of the guru and the Vaiṣṇava, or the *sādhu*, do the *anarthas* cease and pure *bhakti* is attained —
+> Subheading: Only by the mercy of the guru and the Vaiṣṇava, or the sādhu, do the *anarthas* cease and pure bhakti is attained —
 
-No mundane *sukṛti* of the *karma-kāṇḍa* leads to transcendental devotion to Kṛṣṇa. Without the mercy of Kṛṣṇa’s devotee, transcendental devotion to Kṛṣṇa has no chance to arise. Let alone devotion to Kṛṣṇa — even worldly existence, the mundane frame of mind, is not destroyed. In no *jīva* other than Kṛṣṇa’s devotee can there be greatness (*mahattva*). Kṛṣṇa’s devotee alone is transcendental. Though some, with mundane vision, think him “mundane,” in truth only Kṛṣṇa’s devotee, who has renounced everything mundane, is incomparably exalted. Whoever recognises him as the *jīva*’s only desirable well-wisher and begs for his mercy no longer has mundane enjoyment and obtains the right to transcendental service to Kṛṣṇa.
+No mundane *sukṛti* of the *karma-kāṇḍa* leads to transcendental devotion to Kṛṣṇa. Without the mercy of Kṛṣṇa’s devotee, transcendental devotion to Kṛṣṇa has no chance to arise. Let alone devotion to Kṛṣṇa — even worldly existence, the mundane frame of mind, is not destroyed. In no jīva other than Kṛṣṇa’s devotee can there be greatness (*mahattva*). Kṛṣṇa’s devotee alone is transcendental. Though some, with mundane vision, think him “mundane,” in truth only Kṛṣṇa’s devotee, who has renounced everything mundane, is incomparably exalted. Whoever recognises him as the jīva’s only desirable well-wisher and begs for his mercy no longer has mundane enjoyment and obtains the right to transcendental service to Kṛṣṇa.
 
 ## 52
 
 > Subheading: Without following the *mahat*, or the pure devotee, attaining Kṛṣṇa is extremely difficult — (*Śrīmad-Bhāgavatam* 5.12.12) —
 
-Rahūgaṇa, king of Sindhu and Sauvīra, heard the science of the Truth from the lips of the *avadhūta* Bharata, who bore the outward marks of a *brāhmaṇa* by birth only (a *dvija-bandhu*). He bowed to Bharata and asked him to explain clearly the hard-to-understand *adhyātma-yoga*. Then Bharata — a *mahā-bhāgavata*, a *paramahaṁsa* in the guise of a *brāhmaṇa* — first told Rahūgaṇa of *avidyā* and of Bhagavān Vāsudeva, the embodiment of pure knowledge, who destroys it, and then describes the means of attaining Bhagavān:
+Rahūgaṇa, king of Sindhu and Sauvīra, heard the science of the Truth from the lips of the *avadhūta* Bharata, who bore the outward marks of a brāhmaṇa by birth only (a *dvija-bandhu*). He bowed to Bharata and asked him to explain clearly the hard-to-understand *adhyātma-yoga*. Then Bharata — a *mahā-bhāgavata*, a *paramahaṁsa* in the guise of a brāhmaṇa — first told Rahūgaṇa of *avidyā* and of Bhagavān Vāsudeva, the embodiment of pure knowledge, who destroys it, and then describes the means of attaining Bhagavān:
 
-**he rahūgaṇa**, **mahat-pāda-rajo-’bhiṣekam** (bathing in the dust of the feet of pure devotees of Kṛṣṇa) **vinā** (without) **etat** (this transcendental truth of Bhagavān, Vāsudeva) **tapasā** (by the *dharma* of *vānaprastha*) **na**, **ijyayā** (by Vedic *karma*, that is, by worship of the gods) **ca** **na**, **nirvapaṇāt** (by giving up the company of women, that is, by *sannyāsa*) **na**, **gṛhāt** (nor by performing the sacrifices of the *gṛhamedhīs*, which are rooted in the company of women) **na**, **chandasā** (by study of the Vedas) **na**, **jalāgni-sūryaiḥ** (by worshipping them) **na** **yāti** (one does not attain) **eva**.
+**he rahūgaṇa**, **mahat-pāda-rajo-’bhiṣekam** (bathing in the dust of the feet of pure devotees of Kṛṣṇa) **vinā** (without) **etat** (this transcendental truth of Bhagavān, Vāsudeva) **tapasā** (by the dharma of *vānaprastha*) **na**, **ijyayā** (by Vedic karma, that is, by worship of the gods) **ca** **na**, **nirvapaṇāt** (by giving up the company of women, that is, by *sannyāsa*) **na**, **gṛhāt** (nor by performing the sacrifices of the *gṛhamedhīs*, which are rooted in the company of women) **na**, **chandasā** (by study of the Vedas) **na**, **jalāgni-sūryaiḥ** (by worshipping them) **na** **yāti** (one does not attain) **eva**.
 
 ## 53
 
@@ -286,17 +286,17 @@ Devarṣi Nārada tells Dharmarāja Yudhiṣṭhira the story of Prahlāda. The 
 
 ## 54
 
-> Subheading: Only as the fruit of association with an awakened soul (*cetana*), even for half a moment, does the *jīva*’s spiritual function — service to Kṛṣṇa — awaken and the goal is attained —
+> Subheading: Only as the fruit of association with an awakened soul (*cetana*), even for half a moment, does the jīva’s spiritual function — service to Kṛṣṇa — awaken and the goal is attained —
 
 A *lava* is the time of a blink (*nimeṣa*); eleven and a quarter (11¼) *lavas* make one second.
 
 ## 55
 
-> Subheading: The glory of the company of *sādhus* — (*Śrīmad-Bhāgavatam* 1.18.13) —
+> Subheading: The glory of the company of sādhus — (*Śrīmad-Bhāgavatam* 1.18.13) —
 
 The sages headed by Śaunaka, mentioning their own futile labour in the trifling *karma-kāṇḍa* — sacrifices and the like — describe the glory of association with Sūta, the *mahā-bhāgavata* who recites narrations about Hari:
 
-(**he sūta**,) **bhagavat-saṅgi-saṅgasya** (of association with Hari’s servant, who associates with Bhagavān) **lavena** (even with the tiniest moment) **svargam** (the place of exemplary happiness and enjoyment) **na** **tulayāma** (we do not consider equal), **apunarbhavam** (nor liberation, *mokṣa*) **na** (do we equate); **martyānām** (of mundane gods, *brāhmaṇas*, kings and the like) **āśiṣaḥ** (the most trifling blessings — wealth, power and so on) **kim uta** (what to speak of them — them we certainly do not equate).
+(**he sūta**,) **bhagavat-saṅgi-saṅgasya** (of association with Hari’s servant, who associates with Bhagavān) **lavena** (even with the tiniest moment) **svargam** (the place of exemplary happiness and enjoyment) **na** **tulayāma** (we do not consider equal), **apunarbhavam** (nor liberation, *mokṣa*) **na** (do we equate); **martyānām** (of mundane gods, brāhmaṇas, kings and the like) **āśiṣaḥ** (the most trifling blessings — wealth, power and so on) **kim uta** (what to speak of them — them we certainly do not equate).
 
 ## 56
 
@@ -310,7 +310,7 @@ The sages headed by Śaunaka, mentioning their own futile labour in the trifling
 
 ## 59
 
-> Subheading: Earlier *karma*, *yoga*, *jñāna* and the rest were spoken of as the *abhidheya*, but the final command is devotion to Kṛṣṇa: it alone is the *abhidheya* and the injunction —
+> Subheading: Earlier karma, yoga, jñāna and the rest were spoken of as the *abhidheya*, but the final command is devotion to Kṛṣṇa: it alone is the *abhidheya* and the injunction —
 
 ## 60
 
@@ -326,7 +326,7 @@ See Madhya 9.266.
 
 > Subheading: The definition of *śraddhā* —
 
-Firm, unwavering faith is called *śraddhā*. One who serves Kṛṣṇa need not perform any of the duties of the mundane realm — paying off the debts to the forefathers, to living beings, to the gods and the like. *Karma* is merely the ritual activity of the conditioned *jīva* aimed at enjoyment. When devotion to Bhagavān awakens, one need not strive for the fruits of *karma*. The best thing to be gained from the fruits of *karma* — “renunciation” (*vairāgya*) — always accompanies the devotee of itself.
+Firm, unwavering faith is called *śraddhā*. One who serves Kṛṣṇa need not perform any of the duties of the mundane realm — paying off the debts to the forefathers, to living beings, to the gods and the like. *Karma* is merely the ritual activity of the conditioned jīva aimed at enjoyment. When devotion to Bhagavān awakens, one need not strive for the fruits of karma. The best thing to be gained from the fruits of karma — “renunciation” (*vairāgya*) — always accompanies the devotee of itself.
 
 ## 63
 
@@ -338,15 +338,15 @@ The Pracetās, sons of Prajāpati Dakṣa,[^63-1] saw their *gurudeva*, Devarṣ
 
 ## 64
 
-> Subheading: Determining the right to *bhakti* (the three kinds of devotees’ right) and its varieties —
+> Subheading: Determining the right to bhakti (the three kinds of devotees’ right) and its varieties —
 
-“One who has *śraddhā*” (*śraddhāvān*) is a person with firm, unwavering faith in Kṛṣṇa — the true Reality, the eternal Truth, the highest goal (*paramārtha*). He alone has the right to *bhakti*. Whether a devotee’s right (*adhikāra*) is highest, middle or lowest depends on how firm and unwavering his faith is.
+“One who has *śraddhā*” (*śraddhāvān*) is a person with firm, unwavering faith in Kṛṣṇa — the true Reality, the eternal Truth, the highest goal (*paramārtha*). He alone has the right to bhakti. Whether a devotee’s right (*adhikāra*) is highest, middle or lowest depends on how firm and unwavering his faith is.
 
 ## 65
 
 > Subheading: (1) The definition of the *uttama-adhikārī* —
 
-(*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, second *laharī*, description of *vaidhī-bhakti*, verse 11.) Śrī Rūpa Gosvāmipāda wrote: “One who is expert in the scriptures and in reasoning, firmly convinced in every way, and has mature faith is considered the highest (*uttama*) in the right to *bhakti*.” Only a person of such mature faith — “skilled in the scriptures of *bhakti* and adept with firm arguments in refuting other paths” — is an *uttama-adhikārī* among devotees.
+(*Bhakti-rasāmṛta-sindhu*, Pūrva-vibhāga, second *laharī*, description of *vaidhī-bhakti*, verse 11.) Śrī Rūpa Gosvāmipāda wrote: “One who is expert in the scriptures and in reasoning, firmly convinced in every way, and has mature faith is considered the highest (*uttama*) in the right to bhakti.” Only a person of such mature faith — “skilled in the scriptures of bhakti and adept with firm arguments in refuting other paths” — is an *uttama-adhikārī* among devotees.
 
 ## 66–68
 
@@ -362,7 +362,7 @@ In the same place, in verse 12, Śrī Rūpapāda wrote: “One who is not so exp
 
 > Subheading: On the gradations of devotees —
 
-*Rati* varies in degree according to the measure of faith of the *vaidhī* devotee in whom taste (*ruci*) has not yet arisen; (the faith of a devotee in whom taste has arisen is itself called *rati*). According to the degree of *rati*, the *rasa* of *prema-bhakti* also varies. In the Eleventh Canto, in the dialogue between Śrī Bhagavān and Uddhava, the right (*adhikāra*) of the devotee is described.
+*Rati* varies in degree according to the measure of faith of the *vaidhī* devotee in whom taste (*ruci*) has not yet arisen; (the faith of a devotee in whom taste has arisen is itself called *rati*). According to the degree of *rati*, the rasa of prema-bhakti also varies. In the Eleventh Canto, in the dialogue between Śrī Bhagavān and Uddhava, the right (*adhikāra*) of the devotee is described.
 
 ## 69
 
@@ -382,7 +382,7 @@ See Madhya 8.275.[^69-1]
 
 > Subheading: The characteristics of the *kaniṣṭha-bhakta* —
 
-**yaḥ** **haraye** (to Bhagavān — having offered himself to the *guru*) **arcāyām** (in the Śrī Vigraha) **śraddhayā** (having received *dīkṣā* — with mixed *bhakti*, with a semblance of *bhakti* [*bhakty-ābhāsa*], according to the rules of the Pañcarātra) **pūjām** **īhate** (performs), **tad-bhakteṣu** (to Hari’s servants) **pūjāṁ** **na** (does not perform — because he does not know the gradations of devotees) **anyeṣu** **ca** (and towards others — that is, he also avoids the company of those averse to Hari), **saḥ** **bhaktaḥ** **prākṛtaḥ** (a *kaniṣṭha*, resembling a Vaiṣṇava — that is, not pure) **smṛtaḥ** (is called).
+**yaḥ** **haraye** (to Bhagavān — having offered himself to the *guru*) **arcāyām** (in the Śrī Vigraha) **śraddhayā** (having received *dīkṣā* — with mixed bhakti, with a semblance of bhakti [*bhakty-ābhāsa*], according to the rules of the Pañcarātra) **pūjām** **īhate** (performs), **tad-bhakteṣu** (to Hari’s servants) **pūjāṁ** **na** (does not perform — because he does not know the gradations of devotees) **anyeṣu** **ca** (and towards others — that is, he also avoids the company of those averse to Hari), **saḥ** **bhaktaḥ** **prākṛtaḥ** (a *kaniṣṭha*, resembling a Vaiṣṇava — that is, not pure) **smṛtaḥ** (is called).
 
 ## 72
 
@@ -408,25 +408,25 @@ The devotee’s only object of worship is Śrī Bhagavān Viṣṇu, and Bhagav�
 
 > Subheading: The evidence — (*Śrīmad-Bhāgavatam* 3.25.21) —
 
-When the sages headed by Śaunaka asked about the pastimes of Bhagavān Kapiladeva, the *mahā-bhāgavata* Sūta describes to them the truth of the Self and the dialogue between Bhagavān Kapila and Devahūti, which the venerable Maitreya, Vyāsa’s friend, once related to Vidura. Kapiladeva calls attachment to the unreal (*asad-vastu*) the cause of the *jīva*’s bondage and attachment to the real (*sad-vastu*) the door to liberation, and he speaks first of the “marginal” (*taṭastha*) and then of the “essential” (*svarūpa*) characteristics of the *sādhus*, who are the *sad-vastu*:
+When the sages headed by Śaunaka asked about the pastimes of Bhagavān Kapiladeva, the *mahā-bhāgavata* Sūta describes to them the truth of the Self and the dialogue between Bhagavān Kapila and Devahūti, which the venerable Maitreya, Vyāsa’s friend, once related to Vidura. Kapiladeva calls attachment to the unreal (*asad-vastu*) the cause of the jīva’s bondage and attachment to the real (*sad-vastu*) the door to liberation, and he speaks first of the “marginal” (*taṭastha*) and then of the “essential” (*svarūpa*) characteristics of the sādhus, who are the *sad-vastu*:
 
-(He states the characteristics of *sādhus*:) **titikṣavaḥ** (tolerant) **kāruṇikāḥ** (with hearts softened by compassion) **sarva-dehinām** (of all *jīvas*) **suhṛdaḥ** (close friends) **ajāta-śatravaḥ** (without enmity towards anyone) **śāntāḥ** (free from desires) **sādhu-bhūṣaṇāḥ** (those whose ornament is *sādhu*, that is, good character) **sādhavaḥ** (who follow the scriptures).
+(He states the characteristics of sādhus:) **titikṣavaḥ** (tolerant) **kāruṇikāḥ** (with hearts softened by compassion) **sarva-dehinām** (of all *jīvas*) **suhṛdaḥ** (close friends) **ajāta-śatravaḥ** (without enmity towards anyone) **śāntāḥ** (free from desires) **sādhu-bhūṣaṇāḥ** (those whose ornament is *sādhu*, that is, good character) **sādhavaḥ** (who follow the scriptures).
 
 ## 79
 
-> Subheading: Only by serving the *mahat*, or the Vaiṣṇavas, is one freed from *māyā*, while serving those who associate with women leads to the bondage of worldly existence, or to hell — (*Śrīmad-Bhāgavatam* 5.5.2) —
+> Subheading: Only by serving the *mahat*, or the Vaiṣṇavas, is one freed from māyā, while serving those who associate with women leads to the bondage of worldly existence, or to hell — (*Śrīmad-Bhāgavatam* 5.5.2) —
 
-Once Bhagavān Ṛṣabhadeva, the father of the royal sage Bharata, having come to Brahmāvarta, spoke of *mokṣa-dharma* and the *dharma* of the *paramahaṁsas* to his sons, who were listening to instructions in the presence of the sages:
+Once Bhagavān Ṛṣabhadeva, the father of the royal sage Bharata, having come to Brahmāvarta, spoke of *mokṣa-dharma* and the dharma of the *paramahaṁsas* to his sons, who were listening to instructions in the presence of the sages:
 
 (The knowers of the Truth) **mahat-sevām** (service to the Vaiṣṇavas) **vimukteḥ** (of release from the bonds of worldly existence) **dvāram** (the cause) **āhuḥ** (call); **yoṣitāṁ** **saṅgi-saṅgam** (association with those who associate with women — with enjoyers of worldly objects) **tamo-dvāram** (the door — the cause — of worldly existence or of hell, they call); (among these) **ye** **sama-cittāḥ** (the wise, who see all equally) **praśāntāḥ** (pure-hearted) **vimanyavaḥ** (free from anger) **suhṛdaḥ** (close friends) **sādhavaḥ** (who do not see faults in others), **te** **mahāntaḥ** (should be known as great).
 
 ## 80
 
-> Subheading: A description of the glory of the company of *sādhus*; only as the fruit of the company of *sādhus* is service to Kṛṣṇa attained —
+> Subheading: A description of the glory of the company of sādhus; only as the fruit of the company of sādhus is service to Kṛṣṇa attained —
 
 ## 81
 
-> Subheading: As the fruit of *sukṛti* comes the company of *sādhus*; as its fruit, devotion to Kṛṣṇa — (*Śrīmad-Bhāgavatam* 10.51.53) —
+> Subheading: As the fruit of *sukṛti* comes the company of sādhus; as its fruit, devotion to Kṛṣṇa — (*Śrīmad-Bhāgavatam* 10.51.53) —
 
 See Madhya 22.46.
 
@@ -448,13 +448,13 @@ See Ādi 1.60.
 
 > Subheading: The conduct of a Vaiṣṇava and the identification of the non-Vaiṣṇava —
 
-Giving up the company of non-Vaiṣṇavas is the Vaiṣṇava’s only good conduct (*sadācāra*). “Non-Vaiṣṇavas” means two classes of people: “those attached to women” and “non-devotees of Kṛṣṇa.” Association with women is of two kinds. One “follows the prescribed *dharma*”: on it *varṇāśrama-dharma* rests. The other is “unprescribed,” aimed at *adharma*: through it the order of *varṇāśrama-dharma* is thrown into disorder, and as the fruit of *karma* one goes to hell and other places. One devoted to sin in this world is entirely unworthy of the name “Vaiṣṇava.” The three goals of life (*trivarga*) — *dharma*, *artha* and *kāma* — are bound up with the non-Vaiṣṇava conduct of association with women. The fourth goal, *mokṣa*, does not arise from association with women; yet, through aversion to Kṛṣṇa, the seeker of *mokṣa* is even more of a non-Vaiṣṇava and more contemptible than one attached to women. The company both of the *māyāvādī* and of the *māyā-vilāsī* (the enjoyer of *māyā*) destroys Vaiṣṇavism, that is, pure *bhakti*. The *māyāvādī* is a *mumukṣu* (seeker of liberation): wishing to enjoy the fruit of *mokṣa*, he renounces material enjoyment for his own elevation. And one attached to women is a *bubhukṣu*, an enjoyer. Both are bent on gratifying their own material senses, seek fruits other than Kṛṣṇa, are full of duplicity, or deceit (*kaitava*), and therefore neither is a “servant of Kṛṣṇa.”
+Giving up the company of non-Vaiṣṇavas is the Vaiṣṇava’s only good conduct (*sadācāra*). “Non-Vaiṣṇavas” means two classes of people: “those attached to women” and “non-devotees of Kṛṣṇa.” Association with women is of two kinds. One “follows the prescribed *dharma*”: on it *varṇāśrama-dharma* rests. The other is “unprescribed,” aimed at *adharma*: through it the order of *varṇāśrama-dharma* is thrown into disorder, and as the fruit of karma one goes to hell and other places. One devoted to sin in this world is entirely unworthy of the name “Vaiṣṇava.” The three goals of life (*trivarga*) — dharma, *artha* and *kāma* — are bound up with the non-Vaiṣṇava conduct of association with women. The fourth goal, *mokṣa*, does not arise from association with women; yet, through aversion to Kṛṣṇa, the seeker of *mokṣa* is even more of a non-Vaiṣṇava and more contemptible than one attached to women. The company both of the *māyāvādī* and of the *māyā-vilāsī* (the enjoyer of *māyā*) destroys Vaiṣṇavism, that is, pure bhakti. The *māyāvādī* is a *mumukṣu* (seeker of liberation): wishing to enjoy the fruit of *mokṣa*, he renounces material enjoyment for his own elevation. And one attached to women is a *bubhukṣu*, an enjoyer. Both are bent on gratifying their own material senses, seek fruits other than Kṛṣṇa, are full of duplicity, or deceit (*kaitava*), and therefore neither is a “servant of Kṛṣṇa.”
 
 ## 85–86
 
 > Subheading: The dreadful results of association with women and with those who associate with women — (*Śrīmad-Bhāgavatam* 3.31.33–35) —
 
-Bhagavān Kapiladeva tells Devahūti how the *jīva* who has turned from Kṛṣṇa and forgotten his true nature, under the sway of sin and piety, wanders through species before birth and suffers in the womb. Then in three verses He tells how after birth — in childhood, boyhood (*paugaṇḍa*) and youth — the *jīva* in various ways gratifies the senses, that is, longs for association with women, and of the power and evil results of this:
+Bhagavān Kapiladeva tells Devahūti how the jīva who has turned from Kṛṣṇa and forgotten his true nature, under the sway of sin and piety, wanders through species before birth and suffers in the womb. Then in three verses He tells how after birth — in childhood, boyhood (*paugaṇḍa*) and youth — the jīva in various ways gratifies the senses, that is, longs for association with women, and of the power and evil results of this:
 
 **yat-saṅgāt** (through association with those *asat* people) **satyaṁ** **śaucaṁ** **dayā** **maunaṁ** **buddhiḥ** (that is, intelligence directed towards the highest goal) **hrīḥ** **śrīḥ** (the wealth of *bhakti*) **yaśaḥ** **kṣamā** **śamaḥ** **damaḥ** **bhagaḥ** (power or opulence) **iti** **saṅkṣayam** (complete destruction) **yāti** (undergoes) — **teṣu** **aśānteṣu** (with those greedy for material enjoyment) **mūḍheṣu** **asādhuṣu** **khaṇḍitātmasu** (with those who take the material body and so on to be the transcendental self) **yoṣit-krīḍā-mṛgeṣu** (with the “pet deer” of women, the henpecked, wholly under their control) **śocyeṣu** (abodes of misery) **asādhuṣu** (with non-Vaiṣṇavas) **saṅgaṁ** **na** **kuryāt**.
 
@@ -572,7 +572,7 @@ Bhagavān Śrī Kṛṣṇa, having described the truths of *sambandha*, *abhidh
 
 “What should a person on the verge of death do?” In reply to this question of King Parīkṣit, Śrīla Śukadeva Gosvāmī first praises the question highly, then describes the bondage of the *gṛhamedhīs* and tells how to be freed from it:
 
-**bhārata** (O descendant of Bharata), **tasmāt** (because the *jīva* averse to Kṛṣṇa sees his own death and yet does not see it — for this reason) **abhayam** (the end of worldly existence for oneself and others, liberation, or self-protection) **icchatā** (by one who wishes to give up absorption in the “second,” in what is other) **sarvātmā** (the Lord within the hearts of all) **bhagavān** **īśvaraḥ** **hariḥ** (alone) **śrotavyaḥ** (is to be heard about) **kīrtitavyaḥ** (is to be glorified) **smartavyaḥ ca** (and is to be remembered).
+**bhārata** (O descendant of Bharata), **tasmāt** (because the jīva averse to Kṛṣṇa sees his own death and yet does not see it — for this reason) **abhayam** (the end of worldly existence for oneself and others, liberation, or self-protection) **icchatā** (by one who wishes to give up absorption in the “second,” in what is other) **sarvātmā** (the Lord within the hearts of all) **bhagavān** **īśvaraḥ** **hariḥ** (alone) **śrotavyaḥ** (is to be heard about) **kīrtitavyaḥ** (is to be glorified) **smartavyaḥ ca** (and is to be remembered).
 
 ## 108
 
@@ -606,7 +606,7 @@ See Madhya 22.27.
 
 ## 127
 
-> Subheading: The glory of worshipping the Śrī Vigraha, of *saṅkīrtana* of the holy name and especially of living in the holy *dhāma* —
+> Subheading: The glory of worshipping the Śrī Vigraha, of saṅkīrtana of the holy name and especially of living in the holy *dhāma* —
 
 **śrī-mūrter aṅghri-sevane** **śraddhā** **viśeṣataḥ** (especially) **prītiḥ** (in external worship, *arcana*, in general; in mental service to the Divine Couple of Vraja, especially: attachment to *bhajana* at all times), **nāma-saṅkīrtanam** (worship of the name), **śrīman-mathurā-maṇḍale** **sthitiḥ** (living where Kṛṣṇa dwells. Śrīman Narottama Prabhu determined in the *Prema-bhakti-candrikā*: to know the land of Śrī Gauḍa-maṇḍala as *cintāmaṇi* — that itself is living in Mathurā. Living in Śrī Māyāpura and the other *dhāmas* — the land of Śrī Gaura’s pastimes — and also in Śrī Kṣetra, in the *dhāmas* of the South (Dākṣiṇātya), in Vraja-maṇḍala and others should be known as nondifferent from living in Mathurā. But for those who see a difference between them, even their so-called living in Mathurā is full of material enjoyment and leads downward).
 
@@ -618,7 +618,7 @@ See Madhya 22.27.
 
 > Subheading: Continuous practice of each of them brings love for Kṛṣṇa —
 
-When, by practicing *bhajana*, the *jīva* is freed from *anarthas*, steadiness (*niṣṭhā*) arises. From *niṣṭhā*, *prema* is born.
+When, by practicing *bhajana*, the jīva is freed from *anarthas*, steadiness (*niṣṭhā*) arises. From *niṣṭhā*, prema is born.
 
 ## 130
 
@@ -628,7 +628,7 @@ When, by practicing *bhajana*, the *jīva* is freed from *anarthas*, steadiness 
 
 > Subheading: The names of devotees each of whom practiced a single limb of the ninefold bhakti —
 
-**parīkṣit** (Viṣṇurāta) **śrī-viṣṇoḥ śravaṇe** (by hearing the names, form, qualities and pastimes of Kṛṣṇa described in *Śrīmad-Bhāgavatam*), **vaiyāsakiḥ** (Brahmarāta Śukadeva) **kīrtane** (by the *kīrtana* of *Śrīmad-Bhāgavatam*, which is *hari-kathā*), **prahlādaḥ** (of Viṣṇu) **smaraṇe** (since his heart was pure), **lakṣmīḥ** **tad-aṅghri-bhajane** (by serving the lotus feet of Nārāyaṇa), **pṛthuḥ** (of Viṣṇu) **pūjane** (by *arcana*), **akrūraḥ** **tu** (to the Yādava) **abhivandane**, **kapi-patiḥ** (Hanumān) **dāsye** (by service to Rāma alone), **arjunaḥ** (with Kṛṣṇa) **sakhye**, **baliḥ** (Prahlāda’s grandson) **sarva-svātma-nivedane** (by self-surrender) **param** (exclusively [in this] was fixed) **abhūt**; **eṣām** (of these servants of Hari — by fidelity to a single limb alone) **kṛṣṇāptiḥ** (the attainment of Kṛṣṇa) **abhūt**.
+**parīkṣit** (Viṣṇurāta) **śrī-viṣṇoḥ śravaṇe** (by hearing the names, form, qualities and pastimes of Kṛṣṇa described in *Śrīmad-Bhāgavatam*), **vaiyāsakiḥ** (Brahmarāta Śukadeva) **kīrtane** (by the kīrtana of *Śrīmad-Bhāgavatam*, which is *hari-kathā*), **prahlādaḥ** (of Viṣṇu) **smaraṇe** (since his heart was pure), **lakṣmīḥ** **tad-aṅghri-bhajane** (by serving the lotus feet of Nārāyaṇa), **pṛthuḥ** (of Viṣṇu) **pūjane** (by *arcana*), **akrūraḥ** **tu** (to the Yādava) **abhivandane**, **kapi-patiḥ** (Hanumān) **dāsye** (by service to Rāma alone), **arjunaḥ** (with Kṛṣṇa) **sakhye**, **baliḥ** (Prahlāda’s grandson) **sarva-svātma-nivedane** (by self-surrender) **param** (exclusively [in this] was fixed) **abhūt**; **eṣām** (of these servants of Hari — by fidelity to a single limb alone) **kṛṣṇāptiḥ** (the attainment of Kṛṣṇa) **abhūt**.
 
 ## 132
 
@@ -636,9 +636,9 @@ When, by practicing *bhajana*, the *jīva* is freed from *anarthas*, steadiness 
 
 ## 132–134
 
-When Viṣṇurāta Parīkṣit asked about the transcendental life of the *mahā-bhāgavata* Ambarīṣa, the guru of the *brāhmaṇas* — a life full of service to Kṛṣṇa — Śrīla Śukadeva Gosvāmī glorifies how Ambarīṣa served Hṛṣīkeśa with all his senses:
+When Viṣṇurāta Parīkṣit asked about the transcendental life of the *mahā-bhāgavata* Ambarīṣa, the guru of the brāhmaṇas — a life full of service to Kṛṣṇa — Śrīla Śukadeva Gosvāmī glorifies how Ambarīṣa served Hṛṣīkeśa with all his senses:
 
-**uttamaḥśloka-janāśrayā** (following the servants of Hari) **ratiḥ** (attraction) **yathā** (might arise, so) **saḥ** **ambarīṣaḥ** **kṛṣṇa-padāravindayoḥ** (on Kṛṣṇa’s lotus feet) **manaḥ**, **vaikuṇṭha-guṇānuvarṇane** (in telling the glories of Hari’s qualities) **vacāṁsi** (his words), **harer mandira-mārjanādiṣu** (in washing, smearing and other service to the Lord’s temple and the Vaiṣṇavas’ feet, in *nīrājana*, or in drawing the marks of the conch, the disc, the *ūrdhva-puṇḍra* and the like) **karau** (his arms), **acyuta-sat-kathodaye** (when the true narrations of Acyuta, Viṣṇu, arise) **śrutim** (his two ears), **mukunda-liṅgālaya-darśane** (in seeing the temples, the abodes of Kṛṣṇa’s “*liṅgas*,” that is, His *arcā* forms) **dṛśau** (his eyes), **tad-bhṛtya-gātra-sparśe** (in touching the bodies of Hari’s servants) **aṅga-saṅgamam** (touch with the skin, with the head), **śrīmat-tulasyāḥ** (of the beautiful Tulasī) **tat-pāda-saroja-saurabhe** (in the fragrance of the Lord’s lotus feet) **ghrāṇam** (his nose), **tad-arpite** (in *mahā-prasāda* and whatever else is offered to Kṛṣṇa) **rasanām** (his tongue), **hareḥ kṣetra-padānusarpaṇe** (in circumambulating the *dhāma* and the like) **pādau**, **hṛṣīkeśa-padābhivandane** (in bowing to Govinda’s feet and the like) **śiraḥ** (his head), **dāsye** (in accepting as *mahā-prasāda* the garlands, scents, garments, ornaments and other things the Lord has used) **kāmaṁ ca**, **na tu kāma-kāmyayā** (with the desire to enjoy), **cakāra** (engaged).
+**uttamaḥśloka-janāśrayā** (following the servants of Hari) **ratiḥ** (attraction) **yathā** (might arise, so) **saḥ** **ambarīṣaḥ** **kṛṣṇa-padāravindayoḥ** (on Kṛṣṇa’s lotus feet) **manaḥ**, **vaikuṇṭha-guṇānuvarṇane** (in telling the glories of Hari’s qualities) **vacāṁsi** (his words), **harer mandira-mārjanādiṣu** (in washing, smearing and other service to the Lord’s temple and the Vaiṣṇavas’ feet, in *nīrājana*, or in drawing the marks of the conch, the disc, the *ūrdhva-puṇḍra* and the like) **karau** (his arms), **acyuta-sat-kathodaye** (when the true narrations of Acyuta, Viṣṇu, arise) **śrutim** (his two ears), **mukunda-liṅgālaya-darśane** (in seeing the temples, the abodes of Kṛṣṇa’s “*liṅgas*,” that is, His *arcā* forms) **dṛśau** (his eyes), **tad-bhṛtya-gātra-sparśe** (in touching the bodies of Hari’s servants) **aṅga-saṅgamam** (touch with the skin, with the head), **śrīmat-tulasyāḥ** (of the beautiful Tulasī) **tat-pāda-saroja-saurabhe** (in the fragrance of the Lord’s lotus feet) **ghrāṇam** (his nose), **tad-arpite** (in mahā-prasāda and whatever else is offered to Kṛṣṇa) **rasanām** (his tongue), **hareḥ kṣetra-padānusarpaṇe** (in circumambulating the *dhāma* and the like) **pādau**, **hṛṣīkeśa-padābhivandane** (in bowing to Govinda’s feet and the like) **śiraḥ** (his head), **dāsye** (in accepting as *mahā-prasāda* the garlands, scents, garments, ornaments and other things the Lord has used) **kāmaṁ ca**, **na tu kāma-kāmyayā** (with the desire to enjoy), **cakāra** (engaged).
 
 ## 135
 
@@ -672,13 +672,13 @@ While describing *bhāgavata-dharma* to Vasudeva, Śrī Nārada recounted the co
 
 > Subheading: *Jñāna* and *vairāgya*, properties of the mind, are never limbs of bhakti, the property of the soul; they are only two sons who follow bhakti —
 
-Many people mistakenly think that *jñāna*, and the *vairāgya* born of *karma*, are steps to devotion to Bhagavān. In truth they certainly are not. Detachment born of *jñāna* or *karma* is not directed to the soul’s own nature (*svarūpa*); it is a particular, changeable property of a temporary state. Therefore it is not a limb of eternal service to Kṛṣṇa (*kṛṣṇa-dāsya*). The fruit of *karma* or *jñāna* is a particular transformation of changeable, temporary experience, and it culminates in enjoyment or liberation. Therefore it has no connection at all with eternal bhakti. Pure bhakti can exist only when *jñāna* or *vairāgya* is given up. A devotee of Kṛṣṇa is by nature free from violence, self-controlled and devoted to regulation. He does not have to acquire these virtues.
+Many people mistakenly think that jñāna, and the *vairāgya* born of karma, are steps to devotion to Bhagavān. In truth they certainly are not. Detachment born of jñāna or karma is not directed to the soul’s own nature (*svarūpa*); it is a particular, changeable property of a temporary state. Therefore it is not a limb of eternal service to Kṛṣṇa (*kṛṣṇa-dāsya*). The fruit of karma or jñāna is a particular transformation of changeable, temporary experience, and it culminates in enjoyment or liberation. Therefore it has no connection at all with eternal bhakti. Pure bhakti can exist only when jñāna or *vairāgya* is given up. A devotee of Kṛṣṇa is by nature free from violence, self-controlled and devoted to regulation. He does not have to acquire these virtues.
 
 ## 141
 
-> Subheading: Without bhakti, *jñāna* and *vairāgya* do not bring the highest good —
+> Subheading: Without bhakti, jñāna and *vairāgya* do not bring the highest good —
 
-Śrīmad Uddhava heard from Kṛṣṇa that the *jīva’s* desire to enjoy arises from the words of the Vedas — the Lord’s commands in the form of injunctions and prohibitions — and that by those same words of the Vedas the sense of separateness is destroyed. Then he asked how to remove the confusion, or bewilderment, that this causes in the *jīva’s* mind. In reply Bhagavān first compares the paths of *karma*, *jñāna* and bhakti, and then describes the supremacy of bhakti:
+Śrīmad Uddhava heard from Kṛṣṇa that the *jīva’s* desire to enjoy arises from the words of the Vedas — the Lord’s commands in the form of injunctions and prohibitions — and that by those same words of the Vedas the sense of separateness is destroyed. Then he asked how to remove the confusion, or bewilderment, that this causes in the *jīva’s* mind. In reply Bhagavān first compares the paths of karma, jñāna and bhakti, and then describes the supremacy of bhakti:
 
 **tasmāt** (since bhakti is free from all *upādhis*) **vai** (certainly) **mad-bhakti-yuktasya** **mad-ātmanaḥ** (of one whose mind is in Me, Kṛṣṇa) **yoginaḥ** (of a person engaged in *bhakti-yoga*) **iha** **na** **jñānam**, **na** **ca** **vairāgyaṁ** **prāyaḥ** **śreyaḥ** (the cause of the highest good) **bhavet**.
 
@@ -712,7 +712,7 @@ In what is favourable to oneself, that is, in the cherished object, *rāga* in t
 
 > Subheading: The nature, or characteristic, of a *rāgānugā* devotee —
 
-To be captivated by the *bhāva* of the residents of Vraja and to follow the desire for that *bhāva* is the natural inclination of *rāgānugā* devotees. Devotees in whom taste has awakened (*jāta-ruci*) are by their very nature highly skilled in scriptural reasoning. And when someone else comes with scriptural arguments against their eternally perfect taste, they do not accept them. One should know that the *prākṛta-sahajiyās* and other *sampradāyas* that have taken to a wrong path in fact lack awakened taste (*ajāta-ruci*). In the conceit of being *rāgānugā*, they give up the study of the books of bhakti and the path that follows Śrī Rūpa, nourish mundane tastes fit for libertines and fools, and so bring about their own ruin. They are deceived and unfortunate.
+To be captivated by the *bhāva* of the residents of Vraja and to follow the desire for that *bhāva* is the natural inclination of *rāgānugā* devotees. Devotees in whom taste has awakened (*jāta-ruci*) are by their very nature highly skilled in scriptural reasoning. And when someone else comes with scriptural arguments against their eternally perfect taste, they do not accept them. One should know that the *prākṛta-sahajiyās* and other sampradāyas that have taken to a wrong path in fact lack awakened taste (*ajāta-ruci*). In the conceit of being *rāgānugā*, they give up the study of the books of bhakti and the path that follows Śrī Rūpa, nourish mundane tastes fit for libertines and fools, and so bring about their own ruin. They are deceived and unfortunate.
 
 ## 149
 
@@ -772,7 +772,7 @@ The venerable (*bhagavān*) sage Maitreya recounts to Vidura the conversation of
 
 ## 159–160
 
-Here is a devotee who acts in this way: externally, in the body of a *sādhaka*, he serves by the *kīrtana* of the *hari-kathā* he has heard, and in his mind, in the *siddha-deha* fit for serving Kṛṣṇa and befitting his own *rasa*, he always serves Rādhā and Kṛṣṇa in Vraja. He walks the *rāgānuga* path not as one walks in *vaidhī-bhakti*, by the force of scripture or of the guru’s instructions, but by the power of his own natural, awakened taste. Walking this path, he attains deep love (*prīti*) for Kṛṣṇa’s feet. Only on the *rāgānuga* path is Kṛṣṇa subdued by the power of *rati*, or *bhāva*, and then one attains loving service to Kṛṣṇa (*kṛṣṇa-prema-sevā*).
+Here is a devotee who acts in this way: externally, in the body of a *sādhaka*, he serves by the kīrtana of the *hari-kathā* he has heard, and in his mind, in the *siddha-deha* fit for serving Kṛṣṇa and befitting his own rasa, he always serves Rādhā and Kṛṣṇa in Vraja. He walks the *rāgānuga* path not as one walks in *vaidhī-bhakti*, by the force of scripture or of the guru’s instructions, but by the power of his own natural, awakened taste. Walking this path, he attains deep love (*prīti*) for Kṛṣṇa’s feet. Only on the *rāgānuga* path is Kṛṣṇa subdued by the power of *rati*, or *bhāva*, and then one attains loving service to Kṛṣṇa (*kṛṣṇa-prema-sevā*).
 
 ## 161
 
@@ -804,7 +804,7 @@ Here is a devotee who acts in this way: externally, in the body of a *sādhaka*,
 
 [^73-1]: According to the *Śrīmad-Bhāgavatam* (5.18), Bhadraśravā and his attendants worship Hayagrīva in Bhadrāśva-varṣa (5.18.1–6), while this verse (5.18.12) belongs to Prahlāda’s prayer to Lord Nṛsiṁha in Hari-varṣa.
 
-[^99-1]: “Nondifferent” (*abhinna*) in nature: as the next subheading explains, the Vaiṣṇava, like Kṛṣṇa, is full of eternity, knowledge and bliss (*sac-cid-ānanda*). This is not an identity of the *jīva* and God; see *Anubhāṣya* 100 and verse 100.
+[^99-1]: “Nondifferent” (*abhinna*) in nature: as the next subheading explains, the Vaiṣṇava, like Kṛṣṇa, is full of eternity, knowledge and bliss (*sac-cid-ānanda*). This is not an identity of the jīva and God; see *Anubhāṣya* 100 and verse 100.
 
 [^126-1]: *Śvetāśvatara Upaniṣad* 6.23.
 

@@ -56,7 +56,7 @@ the Lord’s  madness of separation  mood  profound
 bujhite nā pāre keha, yadyapi haya ‘dhīra’  
 to understand  not  can  anyone  even if  he is  wise
 
-(5) The Lord’s madness in separation is a mood so profound that no one can understand it, however wise he may be.[^2]
+(5) The Lord’s divine madness in separation is a mood so profound that no one can understand it, however wise he may be.[^2]
 
 বুঝিতে না পারি যাহা, বর্ণিতে কে পারে ?  
 সেই বুঝে, বর্ণে, চৈতন্য শক্তি দেন যাঁরে ॥ ৬ ॥
@@ -106,7 +106,7 @@ Svarūpa  the author of the sūtras  Raghunātha  the author of the explanation
 tāra bāhulya varṇi pām̐ji-ṭīkā-vyavahāra  
 their  expansion  I describe  of a pā̃ji-ṭīkā  in the manner
 
-(10) Svarūpa is the author of the *sūtras*, and Raghunātha the author of their explanation (*vṛtti*). I describe them more fully, in the manner of a *pā̃ji-ṭīkā* (an introductory commentary).[^4]
+(10) Svarūpa is the author of the sūtras, and Raghunātha the author of their explanation (*vṛtti*). I describe them more fully, in the manner of a *pā̃ji-ṭīkā* (an introductory commentary).[^4]
 
 তাতে বিশ্বাস করি’ শুন ভাবের বর্ণন ৷  
 হইবে ভাবের জ্ঞান, পাইবা প্রেমধন ॥ ১১ ॥
@@ -136,7 +136,7 @@ Uddhava  on seeing  as  Rādhā’s  lament
 krame krame haila prabhura unmāda-vilāpa  
 gradually  arose  the Lord’s  lament of madness
 
-(13) As Rādhā lamented when She saw Uddhava, so little by little the Lord too began to lament in His madness.[^5]
+(13) As Rādhā lamented when She saw Uddhava, so little by little the Lord too began to lament in His divine madness.[^5]
 
 রাধিকার ভাবে প্রভুর সদা ‘অভিমান’ ৷  
 সেই ভাবে আপনাকে হয় ‘রাধা’-জ্ঞান ॥ ১৪ ॥
@@ -185,7 +185,7 @@ one day  Mahāprabhu  had lain down  to rest
 kṛṣṇa rāsa-līlā kare, — dekhilā svapana  
 Kṛṣṇa  the rāsa-līlā  performs  He saw  a dream
 
-(17) One day, as Mahāprabhu lay asleep, He saw Kṛṣṇa’s rāsa-līlā in a dream.
+(17) One day, as Mahāprabhu lay asleep, He saw Kṛṣṇa’s *rāsa-līlā* in a dream.
 
 ত্রিভঙ্গ-সুন্দর-দেহ, মুরলীবদন ৷  
 পীতাম্বর, বনমালা, মদনমোহন ॥ ১৮ ॥

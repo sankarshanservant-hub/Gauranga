@@ -127,7 +127,7 @@
   (*nirviśeṣa-vādīs*); адвая-гьяна → nondual Knowledge (*advaya-jñāna*); сансара → worldly existence (*saṁsāra*).
 - джива → *jīva* (he/his); ачарья → ācārya; ачарья-вайшнав → Vaiṣṇava ācārya; свадхарма → *svadharma*, one's true duty.
 - «см. Ади 10.85» → “see Ādi 10.85”; «Ади, гл. 6» → “Ādi, Chapter 6”; разделы «Сандарбх» → (section 202).
-- вигьяна → realization (*vijñāna*); майическое проявление → a manifestation of *māyā* (*māyā-vaibhava*); абхаса → *ābhāsa*,
+- вигьяна → realisation (*vijñāna*); майическое проявление → a manifestation of *māyā* (*māyā-vaibhava*); абхаса → *ābhāsa*,
   a reflection; тамас → *tamas*, darkness; атма-таттва → *ātma-tattva*; сварупа-таттва → *svarūpa-tattva*; чит-таттва → the
   spiritual truth (*cit-tattva*); джада-таттва → matter (*jaḍa-tattva*); Параматма → the Supersoul (*Paramātmā*);
   Парамешвара → the Supreme Lord; анвая-вьятирека → *anvaya-vyatireka* (the direct and the indirect method; injunctions and
@@ -204,7 +204,7 @@
 - видхи-бхакти → *vidhi-bhakti*, devotion by rules; вайдхи-бхакти → *vaidhī-bhakti*; айшварья-гьяна → awareness of majesty (*aiśvarya-jñāna*); благоговейное чувство → the mood of reverence.
 - сарштхи, сарупья, самипья, салокья, саюджья → *sārṣṭi*, *sārūpya*, *sāmīpya*, *sālokya*, *sāyujya*.
 - маха-юга, чатур-юга, дивья-юга, сандхи, сандхья, манвантара, кальпа → *mahā-yuga*, *catur-yuga*, *divya-yuga*, junction (*sandhi*), *sandhyā*, *manvantara*, *kalpa*.
-- пашанды → the godless (*pāṣaṇḍīs*); оскорбление святого имени → offense against the holy name.
+- пашанды → the godless (*pāṣaṇḍīs*); оскорбление святого имени → offence against the holy name.
 - санньясины десяти имён → *sannyāsīs* of the ten names; *daṇḍī-sannyāsīs*; панчопасаки → *pañcopāsakas*, worshippers of five deities; ишвара-абхимана → the conceit of being God (*īśvarābhimāna*); гуру-дасья-абхимана → the self-conception of a servant of the guru (*guru-dāsyābhimāna*).
 - махапуруша → *mahāpuruṣa*, great personality; ньягродха-паримандала → *nyagrodha-parimaṇḍala*.
 - адхокшаджа-таттва → the *adhokṣaja-tattva*, the Truth beyond the senses; дайва / асура → *daiva*, godly / *āsura*, demoniac; вибхиннамша → separated part (*vibhinnāṁśa*).
@@ -247,7 +247,7 @@
 - love for Bhagavān (*bhagavat-prīti*); *vastu-śakti*, the potency of the Reality itself; *arthāpatti*.
 - *viśuddha-sattva* / *śuddha-sattva* / mixed *sattva*; *ādhāra-śakti*, the supporting potency; *ātma-vidyā*; *guhya-vidyā*, hidden knowledge; *mūrti*, form.
 - “mere glance” (*īkṣaṇa*); knowledge by cognition (*saṁvedana-jñāna*); direct / by negation / distorted knowledge.
-- the whole (*aṁśinī*); splendor of Her body; reflections of Her image; *vaibhava-vilāsa* / *prābhava-prakāśa*.
+- the whole (*aṁśinī*); splendour of Her body; reflections of Her image; *vaibhava-vilāsa* / *prābhava-prakāśa*.
 - *rūḍha* / *adhirūḍha mahābhāva*; *madana*; semblance of sorrow (*duḥkhābhāsa*); *bhāva-mūrti*, embodiment of *bhāva*; second self.
 - Sources: *Prīti-sandarbha*, *Bhagavat-sandarbha*, *Manaḥ-śikṣā*, *Mukunda-mālā*, *Ujjvala-nīlamaṇi*, *Stava-mālā* (first / second *Caitanyāṣṭaka*), *Brahma-saṁhitā*, *Bṛhad-gautamīya-tantra*, *Gaura-gaṇoddeśa-dīpikā*, *Sarvajña-sūkta*, *Nārada-pañcarātra*.
 - Names/places: Samanta-pañcaka; Kulaśekhara; Puruṣottama Bhaṭṭācārya; Candrāvalī; Viṣṇusvāmī.
@@ -264,7 +264,7 @@
 - চিত্রজল্প → читра-джалпа («пёстрые речи») / *citra-jalpa*, “varied talk”; জল্প → джалпа / *jalpa*.
 - কৌমার, পৌগণ্ড, কৈশোর, যৌবন → каумара, пауганда, кайшора, яувана / *kaumāra*, *paugaṇḍa*, *kaiśora*, *yauvana*; বাল্য → балья / *bālya*.
 - কাম (= Кришна) → Кама, Сам Манматха / *Kāma*, Manmatha Himself.
-- কূটস্থ তত্ত্ব → кутастха-таттва (неизменная Истина в средоточии) / *kūṭastha-tattva*, the unchanging Truth at the center.
+- কূটস্থ তত্ত্ব → кутастха-таттва (неизменная Истина в средоточии) / *kūṭastha-tattva*, the unchanging Truth at the centre.
 - ধীরললিত নায়ক → дхира-лалита-наяка (беззаботный, игривый герой) / *dhīra-lalita-nāyaka*, the carefree and playful hero.
 - সম্প্রয়োগ → сампрайога (соединение) / *samprayoga*; সম্ভোগ → самбхога (единение) / *sambhoga* (union).
 - শৈলূষী → шайлуши (фокусник; искусная танцовщица) / *śailūṣī*, a conjurer; a skilled dancer.
@@ -310,7 +310,7 @@
 - তটস্থা জীবশক্তি → пограничная (татастха) джива-шакти / the marginal (*taṭastha*) *jīva-śakti*; চিৎকণ → частица духа / particle of spirit.
 - ব্রহ্মসাযুজ্য → мукти слияния с Брахманом (брахма-саюджья) / *brahma-sāyujya*; সাযুজ্য-লয় → слияние (саюджья-лая) / merging (*sāyujya-laya*).
 - নির্ব্বিশেষ / সবিশেষ → лишённый признаков (нирвишеша) / имеющий признаки (савишеша) / without features (*nirviśeṣa*) / with features (*saviśeṣa*).
-- প্রতিকূল / অনুকূল অনুশীলন → враждебное / благоприятное служение (пратикула- / анукула-анушилана) / hostile / favorable cultivation (*pratikūla- / anukūla-anuśīlana*).
+- প্রতিকূল / অনুকূল অনুশীলন → враждебное / благоприятное служение (пратикула- / анукула-анушилана) / hostile / favourable cultivation (*pratikūla- / anukūla-anuśīlana*).
 - আলম্বন (о Боге) → опора (аламбана) / support (*ālambana*).
 - তারতম্য → различие в степени (таратамья) / gradation (*tāratamya*); অতিশয় → превосходство (атишая) / pre-eminence (*atiśaya*).
 - অচিন্ত্যশক্তি → непостижимая энергия / inconceivable potency; ইন্দ্রজাল → колдовство (индраджала) / sorcery (*indra-jāla*).
@@ -536,7 +536,7 @@
 - তত্ত্বাভাস → подобие истины (таттва-абхаса) / semblance of truth (*tattvābhāsa*).
 - পরিণামবাদ / বিবর্ত্তবাদ / বিকার → паринама-вада (учение о преобразовании) / виварта-вада / викара (изменение) / *pariṇāma-vāda* / *vivarta-vāda* / *vikāra*; শক্তিপরিণাম → преобразование энергии / transformation of potency.
 - উপাদান / উপাদেয় → материальная причина (упадана) / созданное из неё (упадея) / material cause / product.
-- অসীম- / অণু-ক্রিয়াপ্রবৃত্তি → устремление к безграничному / к крошечному действию / tendency toward unlimited / minute action.
+- অসীম- / অণু-ক্রিয়াপ্রবৃত্তি → устремление к безграничному / к крошечному действию / tendency towards unlimited / minute action.
 - শক্তিমত্তা (বিলাস) → обладание энергией (виласа) / possession of potency (*vilāsa*).
 - পাষণ্ডতা → безбожие (пашандата) / godlessness (*pāṣaṇḍatā*).
 - অধোক্ষজ → за пределами чувств (адхокшаджа) / beyond the senses (*adhokṣaja*).
@@ -557,7 +557,7 @@
 Формат: бенг./санскр. → RU / EN.
 
 - অর্থবাদ → артхавада, преувеличенная хвала / *arthavāda*, exaggerated praise; প্রমাদ (в перечне оскорблений имени) → небрежность (прамада) / negligence (*pramāda*); অসূয়া → зависть (асуя) / envy (*asūyā*).
-- দশ নামাপরাধ → десять оскорблений святого имени / the ten offenses against the holy name; শিবনাম (в шлоке «шивасья…») → двоякое толкование, см. сноску к Ади 8.24.
+- দশ নামাপরাধ → десять оскорблений святого имени / the ten offences against the holy name; শিবনাম (в шлоке «шивасья…») → двоякое толкование, см. сноску к Ади 8.24.
 - যতিধর্ম্ম → дхарма отрёкшегося (яти-дхарма) / the *dharma* of a renunciant (*yati-dharma*).
 - অণুচিদ্ধর্ম্ম → природа крошечной частицы духа (ану-чид-дхарма) / one's nature as a minute particle of spirit (*aṇu-cid-dharma*); চৈতন্যদাস্য → служение Чайтанье / servitude to Caitanya.
 - উদারবিগ্রহ → воплощение великодушия (удара-виграха) / the embodiment of magnanimity (*udāra-vigraha*); অবতারী → источник аватар / the source of the avatāras (*avatārī*).
@@ -570,7 +570,7 @@
 - আজ্ঞামালা → гирлянда-повеление / the garland of command; সেবাধ্যক্ষ, সেবাধিকারী → распорядитель служения / superintendent, custodian of the service; মঠাধিকারী → владельцы матха / proprietors of the *maṭha*.
 - রূপক → иносказание (рупака) / allegory (*rūpaka*); মালাকার, মালী → садовник / gardener; স্কন্ধ, মূল, শাখা, উপশাখা → ствол, корень, ветвь, веточка / trunk, root, branch, sub-branch.
 - অনুশিষ্য → ученик ученика / the disciple's disciple; আত্মীয়বর্গ (о санньяси «Пури», «Бхарати») → связаны родством / related; পূর্ব্বাশ্রম → жизнь до санньясы / life before *sannyāsa*; কাষায় বহির্বাস → шафрановая накидка / saffron outer cloth.
-- শ্রেয় আচরণ → совершать (вечное) благо / doing (eternal) good; কৃষ্ণোন্মুখীকরণ → обращать к Кришне / turning toward Kṛṣṇa.
+- শ্রেয় আচরণ → совершать (вечное) благо / doing (eternal) good; কৃষ্ণোন্মুখীকরণ → обращать к Кришне / turning towards Kṛṣṇa.
 - অষ্টসিদ্ধি (অণিমা…) → восемь сиддхи, начиная с анимы / the eight *siddhis* beginning with *aṇimā*; জায়ন্তেয় → сыновья Джаянти (девять Йогендр) / the sons of Jayantī.
 - Имена/места: Джарасандха; Джагай, Мадхай; Шри Вриндаван дас Тхакур, деревня Денур (участок Мантрешвар, округ Бардхаман); Лочана дас Тхакур; Нараяни (Деви), Амбика, Килимбика; Пандит Харидас (Шри Рагху Гопала, Раса-манджари); Ананта Ачарья (Судеви, Винода-манджари); Гангамата-матх, Лакшмиприя, Гангамата (дочь раджи Путии), Божество Шри Расика-рай, Кришна Мишра из Джайпура; Кашишвара (Пандит) Госвами (род Канджилал Кану, готра Ватсья, титул Чаудхури; Чатра близ Шрирампура; Бхрингара, Шаширекха), Рудра Пандит из Валлабхапура, Шивачандра Чаудхури; Бхугарбха, Шивананда Чакраварти; Мадана-Гопала, Мадана-мохан, пуджари Госани дас; Пандит Госани (= Гададхара Пандит); Кумарахатта (Халисахар); Гопинатха Ачарья; Парамананда Пури (из Трихуты; Уддхава); Кешава Бхарати (Сандипани; Акрура; Катва; Кхатунди, почта Кандра; Нишапати, Ушапати, Накаричандра Видьяратна, Ракхаладаспур близ Байнчи; Мадхава Бхарати, Балабхадра, Мадана (Аурия), Гопала (Дендур)); Брахмананда Пури, Брахмананда Бхарати / Jarāsandha; Jagāi, Mādhāi; Śrī Vṛndāvana dāsa Ṭhākura, Denuḍa (Mantreśvara police station, Barddhamāna district); Locana dāsa Ṭhākura; Nārāyaṇī (Devī), Ambikā, Kilimbikā; Paṇḍita Haridāsa (Śrī Raghu Gopāla, Rāsa Mañjarī); Ananta Ācārya (Sudevī, Vinoda Mañjarī); the Gaṅgāmātā Maṭha, Lakṣmīpriyā, Gaṅgāmātā (daughter of the king of Puṭiyā), the Deity Śrī Rasika-rāya, Kṛṣṇa Miśra of Jaipur; Kāśīśvara (Paṇḍita) Gosvāmī (Kāñjilāla Kānu family, Vātsya *gotra*, title Caudhurī; Cātarā near Śrīrāmapura; Bhṛṅgāra, Śaśirekhā), Rudra Paṇḍita of Vallabhapura, Śivacandra Caudhurī; Bhūgarbha, Śivānanda Cakravartī; Madana-Gopāla, Madana-mohana, the priest Gosāñi dāsa; Paṇḍita Gosāñi (= Gadādhara Paṇḍita); Kumārahaṭṭa (Hālisahara); Gopīnātha Ācārya; Paramānanda Purī (of Trihuta; Uddhava); Keśava Bhāratī (Sāndīpani; Akrūra; Kāṭoyā; Khāṭundi, Kāndarā post office; Niśāpati, Uṣāpati, Nakaṛicandra Vidyāratna, Rākhāladāsapura near Baiṁci; Mādhava Bhāratī, Balabhadra, Madana (Āuriyā), Gopāla (Denduḍa)); Brahmānanda Purī, Brahmānanda Bhāratī.
 - Источники: “Хари-бхакти-виласа” (11.289, слова “Падма-пураны”), “Бхакти-расамрита-синдху”, “Шри Гаура-ганоддеша-дипика”, “Кришна-лиламрита” (Ишвары Пури), “Чайтанья-бхагавата” (Ади, Антья), “Вайшнава-манджуша” (выпуск 2), “Шри Бхагавата-самхита”, “Вишну-пурана” (3.12.45), “Крама-сандарбха” (по-видимому, «Сандарбха» в Ади 8.25) / *Hari-bhakti-vilāsa*, *Padma Purāṇa*, *Bhakti-rasāmṛta-sindhu*, *Śrī Gaura-gaṇoddeśa-dīpikā*, *Kṛṣṇa-līlāmṛta*, *Caitanya-bhāgavata*, *Vaiṣṇava-mañjuṣā*, *Śrī Bhāgavata-saṁhitā*, *Viṣṇu Purāṇa*, *Krama-sandarbha*.
@@ -599,7 +599,7 @@
 - Гададхара Пандит Госани; Лалита (Анурадхика); “Гаурачандродая” (так в издании) / Gadādhara Paṇḍita Gosāñi; Lalitā (Anurādhikā); *Gauracandrodaya*.
 - Вакрешвара Пандит; Анируддха; Шаширекха; Тунгавидья; Шри Дхьяначандра Госвами Прабху; Шри Гопала-гуру; Шри Говинда, поэт из Уткалы, “Шри Гаура-кришнодая”; Девананда / Vakreśvara Paṇḍita; Aniruddha; Śaśirekhā; Tuṅgavidyā; Śrī Dhyānacandra Gosvāmī Prabhu; Śrī Gopāla-guru; Śrī Govinda, the Utkala poet, *Śrī Gaura-kṛṣṇodaya*; Devānanda.
 - Джагадананда Пандит, Сатьябхама, сатваты / Jagadānanda Paṇḍita, Satyabhāmā, the Sātvatas.
-- Рагхава Пандит, Дхаништха; Макарадхваджа Кара, Чандрамукха; Дамаянти, Гунамала; Панихати, Шиялдаха, Содапур; Шри Мадана-мохан; Шри Шивачандра Рай Чаудхури / Rāghava Paṇḍita, Dhaniṣṭhā; Makaradhvaja Kara, Candramukha; Damayantī, Guṇamālā; Pāṇihāṭī, Śiyāladaha, Sodapura; Śrī Madana-mohana; Śrī Śivacandra Rāya Caudhurī.
+- Рагхава Пандит, Дхаништха; Макарадхваджа Кара, Чандрамукха; Дамаянти, Гунамала; Панихати, Шиялдаха, Содапур; Шри Мадана-мохан; Шри Шивачандра Рай Чаудхури / Rāghava Paṇḍita, Dhaniṣṭhā; Makaradhvaja Kara, Candramukha; Damayantī, Guṇamālā; Pāṇihāṭi, Śiyāladaha, Sodapura; Śrī Madana-mohana; Śrī Śivacandra Rāya Caudhurī.
 - Гангадаса Пандит, Васиштха, Сударшана, Дурваса, Нидхувана; Пурандара Ачарья; Дамодара Пандит, Шайбья, Сарасвати; Аи (Шачимата); Шанкара Пандит, Бхадра / Gaṅgādāsa Paṇḍita, Vasiṣṭha, Sudarśana, Durvāsā, Nidhuvana; Purandara Ācārya; Dāmodara Paṇḍita, Śaibyā, Sarasvatī; Āi (Śacīmātā); Śaṅkara Paṇḍita, Bhadrā.
 - Термины: випралабдха / *vipralabdhā*; джхали (мешки Рагхавы) / *jhāli*; Е. B. R. → Восточно-Бенгальская железная дорога / the E.B.R. line; заминдар / zamindar; самадхи / *samādhi*.
 - Садашива Пандит; Прадьюмна Брахмачари (Нрисимхананда, Прадьюмна Мишра); Накула Брахмачари; Кулия; Канай Наташала; Пияригандж, Кална / Sadāśiva Paṇḍita; Pradyumna Brahmacārī (Nṛsiṁhānanda, Pradyumna Miśra); Nakula Brahmacārī; Kuliyā; Kānāi Nāṭaśālā; Piyārīgañja, Kālnā.
@@ -630,7 +630,7 @@
 - দিগ্বিজয়ী পণ্ডিত → дигвиджайи-пандит / *digvijayī paṇḍita*; জয়পত্র → расписка в поражении / a written admission of defeat.
 - জড়প্রতিষ্ঠাভিক্ষু → жаждущий мирской славы / hungering for worldly fame.
 - গুরুদেবতাত্মা → «гуру-деватма» (для кого гуру — божество и сама душа; Бхаг. 11.2.37) / *guru-devatātmā*.
-- তৃণাদপি সুনীচ, মানদ → «смиреннее травы», «чтящий других» / “lower than a blade of grass,” “giving honor to others.”
+- তৃণাদপি সুনীচ, মানদ → «смиреннее травы», «чтящий других» / “lower than a blade of grass,” “giving honour to others.”
 - স্বকীয়-বাদ → учение свакия / the *svakīyā* doctrine; পারকীয়-ব্রজরস → паракия-раса Враджа / the *parakīyā-rasa* of Vraja.
 - শৌক্র কায়স্থ / শৌক্র করণ / শৌক্র ব্রাহ্মণ → каястха / карана / брахман по рождению / Kāyastha / Karaṇa / brāhmaṇa by birth; অশৌক্রব্রাহ্মণ-কুলোদ্ভূত → рождённый не в брахманской семье / not born in a brāhmaṇa family.
 - নাট্যমন্দির, জগমোহন → натья-мандир, джагамохана / *nāṭya-mandira*, *jagamohana*.
@@ -678,7 +678,7 @@
 - Ранга-кшетра, Пандерапур (округ Шолапур), Нидхувана / Raṅga-kṣetra, Pāṇḍerapura (Śolāpura district), Nidhuvana.
 - Валлабхапур, Махеш, Канчарапара, Кумарахатта, Патхурьягхата, Муршидабад, Кхардаха / Vallabhapura, Māheśa, Kāṁcaḍāpāḍā, Kumārahaṭṭa, Pāthuriyāghāṭā, Murśidābāda, Khaḍadaha.
 - Гангаваса (на Алакананде), Белгаон (у Шрикханды), Канчанагария (станция Баджарасау, Аджимгандж), Варахнагар (Малипара), Мамагачхи, Модадрумадвипа, деревня Шар / Gaṅgāvāsa (on the Alakānandā), Belagāṁ (near Śrīkhaṇḍa), Kāñcanagaḍiyā (Bājārasāu, Ājimagañja), Varāhanagara (Mālipāḍā), Māmagāchi, Modadrumadvīpa, Śar.
-- Чампахатта / Чапахати (округ Бардхаман, участок Пурбастхали, почта Самудрагар), Аградвип, Кханакул-Кришнанагар, Джират, Панджинагар, Гхошахат / Мадхаитала, Акаихат, Панихати / Campāhaṭṭa / Cāṁpāhāṭi (Barddhamāna district, Pūrvasthalī police station, Samudragaḍa post office), Agradvīpa, Khānākula-Kṛṣṇanagara, Jīrāṭ, Pāṁjinagara, Ghoṣahāṭ / Mādhāitalā, Ākāihāṭ, Pāṇihāṭī.
+- Чампахатта / Чапахати (округ Бардхаман, участок Пурбастхали, почта Самудрагар), Аградвип, Кханакул-Кришнанагар, Джират, Панджинагар, Гхошахат / Мадхаитала, Акаихат, Панихати / Campāhaṭṭa / Cāṁpāhāṭi (Barddhamāna district, Pūrvasthalī police station, Samudragaḍa post office), Agradvīpa, Khānākula-Kṛṣṇanagara, Jīrāṭ, Pāṁjinagara, Ghoṣahāṭ / Mādhāitalā, Ākāihāṭ, Pāṇihāṭi.
 - Видьянагар (у Навадвипы), Митхила, Брахмагири / Алаланатха, Катак, Ремуна, Малабар, Уттара-Радха, Ванга / Vidyānagara, Mithilā, Brahmagiri / Ālālanātha, Kaṭaka, Remuṇā, Malabar, Uttara-Rāḍha, Vaṅga.
 
 ### Решения по оформлению
@@ -1117,7 +1117,7 @@
 - জগমোহন → джагамохана / *jagamohana*; গরুড়স্তম্ভ → колонна Гаруды / the Garuḍa-stambha, the pillar of Garuḍa (не «статуя Гаруды»).
 - বিতস্তি → витасти (пядь) / *vitasti* (a span).
 - নাগররাজ → царь возлюбленных (нагара-раджа) / the king of lovers (*nāgara-rāja*).
-- অগেয়ান → «агейан» — неразумная, слепая / *ageyān* — senseless, blind; উকাশিতে → освободиться / to free oneself; তনুহীন → бестелесный, Ананга / bodiless, Ananga.
+- অগেয়ান → «агейан» — неразумная, слепая / *ageyān* — senseless, blind; উকাশিতে → освободиться / to free oneself; তনুহীন → бестелесный, Ананга / bodiless, Anaṅga.
 - গুণ (игра слов «достоинство / верёвка») → верёвка достоинств (со сноской) / the rope of the qualities (with a note).
 - ভোগরত (চক্ষু, কর্ণ…) → (глаза, уши…) «занятые наслаждением» / “engaged in enjoyment”; কৃষ্ণভোগ → вкушение Кришны / relishing Kṛṣṇa; ভোগাঙ্গ → органы, которыми наслаждаются / organs of enjoyment.
 - দৈন্য / নির্ব্বেদ / বিষাদ → дайнья (смирение) / нирведа (горькое разочарование) / вишада (уныние) — *dainya* (humility) / *nirveda* (bitter despondency) / *viṣāda* (dejection).
@@ -1196,7 +1196,7 @@
 
 #### Места (по-бенгальски, без осовременивания)
 - Катва (কাটোয়া), Радха-деш, Раштра-деш, Паундра-деш, Пенро (পেঁড়ো) / Kāṭoyā, Rāḍha-deśa, Rāṣṭra-deśa, Pauṇḍra-deśa, Peṁḍo.
-- Чхатрабхога; Амбулинга (Амбулинга-Чхатрабхога); Атисара; Панихати; Варахнагар; Калигхат; Баруипур; участок Матхурапур, подокруг Даймонд-Харбор; округ 24 Парганы, линия И. Б. Р., станция Маграхат; Джаянагар; Кхари; Шива-линга Вайджурка-натха; ярмарка «Нанда» / Chatrabhoga; Ambuliṅga; Āṭisārā; Pāṇihāṭī; Varāhanagara; Kālīghāṭ; Bāruipura; Mathurāpura police station, Diamond Harbour subdivision; Twenty-four Parganas, E. B. R. line, Magrāhāṭ station; Jayanagara; Khāḍi; Vaijurkā-nātha; the “Nandā” fair.
+- Чхатрабхога; Амбулинга (Амбулинга-Чхатрабхога); Атисара; Панихати; Варахнагар; Калигхат; Баруипур; участок Матхурапур, подокруг Даймонд-Харбор; округ 24 Парганы, линия И. Б. Р., станция Маграхат; Джаянагар; Кхари; Шива-линга Вайджурка-натха; ярмарка «Нанда» / Chatrabhoga; Ambuliṅga; Āṭisārā; Pāṇihāṭi; Varāhanagara; Kālīghāṭ; Bāruipura; Mathurāpura police station, Diamond Harbour subdivision; Twenty-four Parganas, E. B. R. line, Magrāhāṭ station; Jayanagara; Khāḍi; Vaijurkā-nātha; the “Nandā” fair.
 - Путь в Пури: Праяга-гхат, Суварнарекха, Джалешвар, Ремуна, Яджапур, Вайтарани, Дашашвамедха-гхат, Катак, Маханади, Бхуванешвар (Бинду-саровара), Камалапур, Атхаранала / Prayāga-ghāṭ, the Suvarṇarekhā, Jaleśvara, Remuṇā, Yājapura, the Vaitaraṇī, Daśāśvamedha-ghāṭ, Kaṭaka, the Mahānadī, Bhuvaneśvara (Bindu-sarovara), Kamalapura, Āṭhāranālā.
 - Сиддха-бакула-матх; Ниладри; Шри Мандир / the Siddha-bakula Maṭha; Nīlādri; the Śrī Mandira.
 
@@ -1247,7 +1247,7 @@
 - দানী → дани: в APB 12 — перевозчики на переправах, в APB 153 — берущие плату за переправу / *dānī*; ঘাটী → гхати, гхатвалы (собирающие дорожную пошлину) / *ghāṭī*, *ghāṭoyāls*; জগাতি → джагати, джагаиты (под видом стражи не спят на дорогах) / *jagāti*, *jagāitas*; রাজলেখা, পরওয়ানা → царская грамота (раджа-лекха), парвана / royal letter (*rāja-lekhā*), *paravānā*; সম্বল → самбала (деньги на дорогу) / *sambala*.
 - বট, কপর্দক → бата (каури), капардака / *baṭa*, *kapardaka*; বাট (уткальское слово) → бата (путь) / *bāṭa* (road).
 - মঠ → матх (храм) / *maṭha* (temple); জগমোহন → джагамохана / *jagamohana*.
-- মানদ-ধর্ম্ম → смирение того, кто воздаёт честь другим (манада-дхарма) / the humility of giving honor to others (*mānada-dharma*).
+- মানদ-ধর্ম্ম → смирение того, кто воздаёт честь другим (манада-дхарма) / the humility of giving honour to others (*mānada-dharma*).
 - প্রতিষ্ঠা → слава (пратиштха) / fame (*pratiṣṭhā*); মৎসর → завистливый (матсара) / envious (*matsara*); তদীয় ভক্ত → Свой преданный (тадия-бхакта) / His own devotee (*tadīya-bhakta*).
 - পারমহংস্য-অবস্থা (সহজ) → естественное состояние парамахамсы / the natural state of a *paramahaṁsa*; উদাস / উদাসীন → удас, удасин (безразличный, беспристрастный) / *udāsa*, *udāsīna*.
 - ষড়্গুণ (বিজিত-ষড়্গুণ) → шесть свойств (шад-гуна) — так в издании / the six qualities (*ṣaḍ-guṇa*).
@@ -1427,7 +1427,7 @@
 - গুণমায়া / জীবমায়া (подзаголовок 164) → гуна-майя / джива-майя / *guṇa-māyā* / *jīva-māyā*.
 - কারাকর্ত্রী (মায়া) → тюремщица / jailer.
 - পাষণ্ডী / যমদণ্ড্য → пашанди / достойный кары Ямы / *pāṣaṇḍī* / liable to Yama's punishment; কৈঙ্কর্য্য → кайнкарья (служение) / *kaiṅkarya*.
-- শৌক্র-বিচার → суждение по рождению (шаукра) / judgment by birth (*śaukra*).
+- শৌক্র-বিচার → суждение по рождению (шаукра) / judgement by birth (*śaukra*).
 
 #### Прасад и быт
 - অরুণোদয়-কাল → арунодая-кала (четыре данды перед восходом) / *aruṇodaya-kāla*; শিষ্ট → достойные люди (шишты) / the cultured (*śiṣṭa*).
@@ -1544,7 +1544,7 @@
 - বিলাসমূর্ত্তি → облик для игр (виласа-мурти) / form for pastimes (*vilāsa-mūrti*); বৈদগ্ধ্য → искусность (вайдагдхья) / cleverness (*vaidagdhya*); সজীবলক্ষণ / ক্রিয়ালক্ষণ / স্বভাবলক্ষণ / স্বভাববিলক্ষণ → саджива-лакшана / крия-лакшана / свабхава-лакшана / свабхава-вилакшана / *sajīva-lakṣaṇa* / *kriyā-lakṣaṇa* / *svabhāva-lakṣaṇa* / *svabhāva-vilakṣaṇa*.
 - উদুখল, উথলি, ঢেঁকি → удукхала (ступа), утхали, дхенки (рисорушка) / *udukhala*, *uthali*, *ḍheṅki* (rice-husking lever).
 - রাসমণ্ডল → круг раса (раса-мандала) / the *rāsa* circle (*rāsa-maṇḍala*); সর্ব্বলক্ষ্মীময়ী → вмещающая в Себе всех Лакшми / who contains all the Lakṣmīs; চিদ্বিগ্রহ → духовный образ / spiritual form; বৈদূর্য্যমণি → камень вайдурья / the *vaidūrya* gem; ছত্র (стиха) → строка / line.
-- মায়াসীতা, ছায়াসীতা → майя-Сита, тень Ситы / *māyā-Sītā*, the shadow Sītā; অধোক্ষজ / অক্ষজ → Адхокшаджа / [усилия] чувств / Adhokṣaja / [endeavors] of the senses; ভক্তাবতার → аватара преданного / the incarnation of a devotee.
+- মায়াসীতা, ছায়াসীতা → майя-Сита, тень Ситы / *māyā-Sītā*, the shadow Sītā; অধোক্ষজ / অক্ষজ → Адхокшаджа / [усилия] чувств / Adhokṣaja / [endeavours] of the senses; ভক্তাবতার → аватара преданного / the incarnation of a devotee.
 
 #### Источники
 - «Бхагавата-татпарья» Мадхвачарьи / *Bhāgavata-tātparya*; «Адхьятма-рамаяна», гл. 12–15 / *Adhyātma-rāmāyaṇa*, chapters 12–15; «Кадача» Говинды даса / Govinda dāsa's *Kaḍacā*.
@@ -1640,7 +1640,7 @@
 - বিশেষত্ব / সবিশেষত্ব / নির্ব্বিশেষ(ত্ব) → личностная природа (вишешатва) / личностная природа (савишешатва) / безличное (нирвишеша) / personal nature (*viśeṣatva*, *saviśeṣatva*) / featureless (*nirviśeṣa*); অচিৎ-নির্ব্বিশেষত্ব → бездуховная безличность / nonspiritual featurelessness (*acit-nirviśeṣatva*); জড়-নির্ব্বিশেষ → материальное безличное / the material featureless.
 - বিরজা, ব্রহ্মলোক → Вираджа, Брахмалока / the Virajā, Brahmaloka; অব্যক্তাবস্থা → непроявленное состояние / the unmanifest state.
 - আরোপসিদ্ধা / সঙ্গসিদ্ধা / স্বরূপসিদ্ধা ভক্তি → аропа-сиддха / санга-сиддха / сварупа-сиддха бхакти / *āropa-siddhā* / *saṅga-siddhā* / *svarūpa-siddhā bhakti*; কৃষ্ণানুশীলন → служение Кришне (кришнанушилана) / the cultivation of Kṛṣṇa (*kṛṣṇānuśīlana*).
-- সাধনভক্তি / ভাবভক্তি / প্রেমভক্তি → садхана-, бхава-, према-бхакти / *sādhana-*, *bhāva-*, *prema-bhakti*; সাধ্যবৃত্তি → стремление к цели (садхья-вритти) / the inclination toward the goal (*sādhya-vṛtti*); শ্রদ্ধা, সাধুসঙ্গ, ভজনানুষ্ঠান, অনর্থনিবৃত্তি, নিষ্ঠা, রুচি, আসক্তি → шраддха, садху-санга, бхаджана-ануштхана, анартха-нивритти, ништха, ручи, асакти.
+- সাধনভক্তি / ভাবভক্তি / প্রেমভক্তি → садхана-, бхава-, према-бхакти / *sādhana-*, *bhāva-*, *prema-bhakti*; সাধ্যবৃত্তি → стремление к цели (садхья-вритти) / the inclination towards the goal (*sādhya-vṛtti*); শ্রদ্ধা, সাধুসঙ্গ, ভজনানুষ্ঠান, অনর্থনিবৃত্তি, নিষ্ঠা, রুচি, আসক্তি → шраддха, садху-санга, бхаджана-ануштхана, анартха-нивритти, ништха, ручи, асакти.
 - নৈরপেক্ষ্য (в шанта-расе) → невозмутимость (найрапекшья) / equanimity (*nairapekṣya*).
 - শ্রদ্ধামূলক বৈধভক্তি / লোভমূলক রাগানুগাভক্তি → вайдхи-бхакти, корень которой — вера (шраддха) / рагануга-бхакти, корень которой — жажда (лобха) / *vaidhī-bhakti* rooted in faith / *rāgānugā-bhakti* rooted in greed (*lobha*); লৌল্য → жажда (лаулья) / greed (*laulya*).
 - প্রেম-সাধারণ্য / সাধারণ প্রেম → према вообще (према-садхаранья), общая према / *prema* in general (*prema-sādhāraṇya*); মমতা → мамата (чувство «Он мой») / *mamatā* (“He is mine”); ভয়, সম্ভ্রম → страх, благоговение (самбхрама) / fear, awe (*sambhrama*); বিশ্রম্ভ → вишрамбха (полное доверие) / *viśrambha* (complete confidence); সমতা ভাব → чувство равенства / sense of equality; স্নেহাধিক্য → избыток нежности (снеха-адхикья) / abundance of affection (*snehādhikya*); নিঃসঙ্কোচ-ভাব → свобода от всякой стеснённости / freedom from all reserve (*niḥsaṅkoca-bhāva*).
@@ -1840,10 +1840,10 @@
 - ক্রোশ, হাত → крош, локоть / *krośa*, cubit; রত্নবেদী → драгоценный алтарь (ратна-веди) / jeweled altar (*ratna-vedī*); নাটমন্দির → натья-мандир / *nāṭya-mandira*; ভোগমন্দির → бхога-мандир / *bhoga-mandira*; জগমোহন → Джагамохана / Jagamohana
 - প্রণালিকা → сток, сточная канава / drain
 - আবরণ-পরিষ্করণ → снятие покровов / removing the coverings
-- সেবাপরাধ → оскорбление в служении (сева-апарадха) / offense in service (*sevāparādha*); গুরুব্রুব → гуру-брува (лишь называющий себя гуру) / *guru-bruva*; বিভিন্নাংশ → отделённая частица (вибхиннамша) / separated part (*vibhinnāṁśa*)
+- সেবাপরাধ → оскорбление в служении (сева-апарадха) / offence in service (*sevāparādha*); গুরুব্রুব → гуру-брува (лишь называющий себя гуру) / *guru-bruva*; বিভিন্নাংশ → отделённая частица (вибхиннамша) / separated part (*vibhinnāṁśa*)
 - মাধ্বগৌড়ীয়েশ্বর → владыка мадхва-гаудиев / lord of the Mādhva-Gauḍīyas
 - ঢেকা → толчок / a shove; গুণ্ডিচাপুরী → обитель (пури) Гундичи / the abode of the Guṇḍicā
-- কুটিনাটি, প্রতিষ্ঠাশা, জীবহিংসা, নিষিদ্ধাচার, লাভ-পূজা → кутинати (лицемерие), пратиштхаша (жажда почёта), джива-химса, нишиддхачара (запретное поведение), лабха-пуджа / *kuṭināṭi* (duplicity), *pratiṣṭhāśā* (hope for honor), *jīva-hiṁsā*, *niṣiddhācāra* (forbidden conduct), *lābha-pūjā*
+- কুটিনাটি, প্রতিষ্ঠাশা, জীবহিংসা, নিষিদ্ধাচার, লাভ-পূজা → кутинати (лицемерие), пратиштхаша (жажда почёта), джива-химса, нишиддхачара (запретное поведение), лабха-пуджа / *kuṭināṭi* (duplicity), *pratiṣṭhāśā* (hope for honour), *jīva-hiṁsā*, *niṣiddhācāra* (forbidden conduct), *lābha-pūjā*
 - বুজরুগী → напускная святость / a show of sanctity; ভাবাভাস → бхавабхаса (тень бхавы) / *bhāvābhāsa*
 - কেবলাভক্তি → беспримесная преданность (кевала-бхакти) / unalloyed devotion (*kevala-bhakti*); আত্মবৃত্তি → природная деятельность души (атма-вритти) / the soul's own function (*ātma-vṛtti*)
 - নৃসিংহ-মন্দির, নৃসিংহচতুর্দ্দশী → храм Нрисимхи, Нрисимха-чатурдаши / the temple of Nṛsiṁha, Nṛsiṁha-caturdaśī
@@ -1981,13 +1981,13 @@
 - শৌক্র ব্রাহ্মণ → брахман по рождению / brāhmaṇa by birth
 - পতনানি ষট্ → шесть [путей] падения / the six [ways of] falling
 - সাধুনিন্দা → хула на садху / blaspheming *sādhus*
-- মহদতিক্রম → оскорбление великих (махад-атикрама) / offense against great souls (*mahad-atikrama*)
+- মহদতিক্রম → оскорбление великих (махад-атикрама) / offence against great souls (*mahad-atikrama*)
 - বৈষ্ণবাপরাধ → вайшнава-апарадха / *vaiṣṇava-aparādha*
 - ঘোষযাত্রা → гхоша-ятра (осмотр пастбищ) / *ghoṣa-yātrā* (inspection of the cattle stations)
 - অসম্যগাবির্ভাব → неполное проявление (Истины) / incomplete manifestation
 - অভিধেয়-বৃত্তি, সেবাসূত্র → склонность к абхидхее, нить служения / taking up the *abhidheya*, the thread of service
 - পঞ্চ সগুণোপাসনা (নির্ব্বিশেষবাদীদের) → пять видов поклонения Брахману, наделённому качествами / five kinds of worship of Brahman with attributes
-- সকাম অনুভূতি → постижение, исполненное корыстных желаний (сакама) / realization full of selfish desires (*sakāma*)
+- সকাম অনুভূতি → постижение, исполненное корыстных желаний (сакама) / realisation full of selfish desires (*sakāma*)
 - অবিমিশ্র ব্রাহ্মণ → «чистый брахман» / “unmixed brāhmaṇa”
 - সত্রযাজী → совершающий жертвоприношения (сатра-яджи) / performer of sacrifices (*satra-yājī*)
 - বৃত্ত-ব্রাহ্মণতা → брахманство, проявленное в поведении (вритта-брахманата) / brahminhood shown in conduct (*vṛtta-brāhmaṇatā*)
@@ -2005,7 +2005,7 @@
 - মাষ-বড়া → клёцки из дала калай (урад) / dumplings of *kalāi* (urad) dal
 - দুগ্ধ-লকলকী → чуши-пули / *cuṣī-puli*
 - শুভ্রপীঠ, পিঁড়ি → белая дощечка (пиди) / white wooden board (*piṁḍi*)
-- সৌরভ্য, বর্ণ → благоухание, белый цвет / fragrance, white color
+- সৌরভ্য, বর্ণ → благоухание, белый цвет / fragrance, white colour
 
 #### Имена
 - Шатхи (ষাঠী), мать Шатхи (жена Сарвабхаумы) / Ṣāṭhī, Ṣāṭhī's mother
@@ -2050,7 +2050,7 @@
 - চিদ্রস, ভোক্তা / ভোগ্য, বিষয় / আশ্রয় → чид-раса, бхокта / бхогья, вишая / ашрая / *cid-rasa*, *bhoktā* / *bhogya*, *viṣaya* / *āśraya*
 - সৌরত, সুরত-ব্যাপার → любовные игры (саурата) / love play (*saurata*) — только как духовные деяния (APB 158)
 - অধিরূঢ় মহাভাব, রূঢ় ভাব → адхирудха-махабхава, рудха-бхава / *adhirūḍha-mahābhāva*, *rūḍha-bhāva*
-- সাত্ত্বিক বিকার (৮): স্তম্ভ, স্বেদ, রোমাঞ্চ, স্বরভঙ্গ, বেপথু, বৈবর্ণ্য, অশ্রু, প্রলয় → оцепенение, пот, трепет волос, срыв голоса, дрожь, изменение цвета, слёзы, обморок (транслитерация в скобках) / becoming stunned, perspiration, hair standing on end, faltering voice, trembling, change of color, tears, fainting
+- সাত্ত্বিক বিকার (৮): স্তম্ভ, স্বেদ, রোমাঞ্চ, স্বরভঙ্গ, বেপথু, বৈবর্ণ্য, অশ্রু, প্রলয় → оцепенение, пот, трепет волос, срыв голоса, дрожь, изменение цвета, слёзы, обморок (транслитерация в скобках) / becoming stunned, perspiration, hair standing on end, faltering voice, trembling, change of colour, tears, fainting
 - ব্যভিচারী / সঞ্চারী ভাব (৩৩) → вьябхичари / санчари-бхавы, названия транслитерацией / *vyabhicārī* / *sañcārī bhāvas*, names in transliteration
 - বিংশতি ভাবালঙ্কার: অঙ্গজ, অযত্নজ (так в APB 167), স্বভাবজ → двадцать украшений-бхав: ангаджа (рождённые телом), айатнаджа (возникающие без усилий), свабхаваджа (рождённые природой) / *aṅgaja*, *ayatnaja*, *svabhāvaja*; মৌগ্ধ্য, চকিত → маугдхья, чакита / *maugdhya*, *cakita*
 - কিলকিঞ্চিত; সঙ্করীকরণ → кила-кинчита; сочетание (санкарикарана) / *kila-kiñcita*; blending (*saṅkarīkaraṇa*); দানঘাটি, দানকেলি → дорога к переправе (дана-гхати), игра со сбором пошлины (дана-кели) / *dāna-ghāṭi*, *dāna-keli*
@@ -2120,7 +2120,7 @@
 - দেহ-দেহী, নাম-নামী → тело и «воплощённый» (дехи), имя и «носитель имени» (нами) / body and the “embodied one” (*dehī*), name and the “bearer of the name” (*nāmī*)
 - চৈতন্যরসবিগ্রহ → воплощение духовной расы / the embodiment of spiritual *rasa*
 - স্বতঃপ্রকাশবস্তু → самопроявляющаяся реальность (свата-пракаша-васту) / self-manifest reality (*svataḥ-prakāśa-vastu*)
-- সেবোন্মুখ → обращённый к служению (севонмукха) / turned toward service (*sevonmukha*)
+- সেবোন্মুখ → обращённый к служению (севонмукха) / turned towards service (*sevonmukha*)
 - লৌল্য, লোভ, রুচি (как «цена») → жадное желание (лаулья), стремление (лобха), вкус (ручи) / eager longing (*laulya*), greed (*lobha*), taste (*ruci*)
 - শ্রদ্ধাভাস → отблеск веры (шраддха-абхаса) / a semblance of faith (*śraddhābhāsa*)
 - অদ্বয়জ্ঞানত্ব (নাম-রূপ-গুণ-লীলার) → то, что имя, облик… — недвойственное знание (адвая-гьяна) / their being nondual knowledge (*advaya-jñāna*)
@@ -2194,7 +2194,7 @@
 - হঠ → хатха (применение силы, принуждение) / *haṭha* (force, compulsion).
 - পয়ান → паяна (= прайана, отправление в путь) / *payāna* (= *prayāṇa*).
 - কড়ার, ডোর → кадар (желтовато-бурый; притирание?), дор (верёвка) / *kaṛāra* (tawny; an ointment?), *ḍora* (rope).
-- অ-মায়া (প্রভুর কৃপা) → «без притворства» / “without pretense”.
+- অ-মায়া (প্রভুর কৃপা) → «без притворства» / “without pretence”.
 - প্রতাপরুদ্র-সংত্রাতা → «Пратапарудра-санстрата» (Спаситель Пратапарудры) / “Pratāparudra-saṁtrātā” (the Savior of Pratāparudra).
 - বিষয়ী → вишайи (царский чиновник, собирающий подати) / *viṣayī* (revenue officer).
 - মহাপাত্র → махапатра / *mahāpātra*.
@@ -2224,9 +2224,9 @@
 - রেমুণা → Ремуна / Remuṇā; ভদ্রক → Бхадрака / Bhadraka; বালেশ্বর → Балешвар / Bāleśvara (как в общем глоссарии).
 - পিছলদা → Пичхалада / Pichaladā (деревня на реке Рупанараяне); রূপনারায়ণ-নদ → река Рупанараяна / the Rūpanārāyaṇa river; তমলুক → Тамлук / Tamluk.
 - ওঢ্রদেশ → Одра-деша / Oḍra-deśa; সুবর্ণরেখা → Суварнарекха / the Suvarṇarekhā; শ্রীপাট গোপীবল্লভপুর → шрипат Гопиваллабхапур / the *śrīpāṭa* of Gopīvallabhapura.
-- ওড়িয়া-কটক → одия-катака (войсковой лагерь, сайнья-катака, на границе Уткалы) / the Oṛiyā *kaṭaka* (army camp, *sainya-kaṭaka*).
+- ওড়িয়া-কটক → одия-катака (войсковой лагерь, сайнья-катака, на границе Уткалы) / the Oriyā *kaṭaka* (army camp, *sainya-kaṭaka*).
 - মন্ত্রেশ্বর (নদ) → река Мантрешвар / the Mantreśvara river; ডায়মণ্ডহারবার → Даймонд-Харбор / Diamond Harbour; দুষ্টনদ → опасная река (душта-нада) / dangerous river (*duṣṭa-nada*).
-- খড়দহ → Кхардаха / Khaḍadaha; পানিহাটী → Панихати / Pāṇihāṭī; কুমারহট্ট → Кумарахатта (Халисахар) / Kumārahaṭṭa (Hālisahara); কাঞ্চনপল্লী → Канчанапалли (= Канчарапара) / Kāñcanapallī (= Kāñcaḍāpāḍā).
+- খড়দহ → Кхардаха / Khaḍadaha; পানিহাটী → Панихати / Pāṇihāṭi; কুমারহট্ট → Кумарахатта (Халисахар) / Kumārahaṭṭa (Hālisahara); কাঞ্চনপল্লী → Канчанапалли (= Канчарапара) / Kāñcanapallī (= Kāñcaḍāpāḍā).
 - জহ্নুদ্বীপ → Джахну-двипа / Jahnu-dvīpa; কুলিয়া-পাহাড়পুর, পাড়পুর → Кулия-Пахарпур, Парпур / Kuliyā-Pāhāḍapura, Pāḍapura; কোলদ্বীপ-পর্ব্বত → Коладвипа-парвата / Koladvīpa-parvata; কুলিয়ার পাট → «Кулияр пат» / “Kuliyār Pāṭ”; কোলের গঞ্জ, কোল-আমাদ, কোলের দহ, গদখালি → Колер-гандж, Кола-амада, Колер-дах, Гадакхали / Koler Gañj, Kola-āmāda, Koler Daha, Gadakhāli.
 - খানাযোড়া, বড়গাছি, দো-গাছিয়া → Кханайора, Барагачхи, До-гачхия / Khānāyoḍā, Baḍagāchi, Do-gāchiyā; রাঢ়-দেশ → Радха-деш / Rāḍha-deśa.
 - বিল্বগ্রাম, পাটুলি, বাঘনাপাড়া, বৈঁচী → Билва-грама, Патули, Багхнапара, Байнчи / Bilva-grāma, Pāṭuli, Bāghnāpāḍā, Baiṁci.
@@ -2338,7 +2338,7 @@
 - আড়াইল-গ্রাম, অড়েলী → Адаила-грама (как у ВЧД, 19.61), Адели / Āḍāila-grāma, Aḍelī.
 - Валлабхачарья (Ану 61): কাঙ্কড়বাড়, কাকুঁরপাড়, নিডাডাভলু, লক্ষ্মণ (ভট্ট) দীক্ষিত, বেল্লনাটী / বেগী-নাটী / মুরকি-নাটী / তেলগু-নাটী / কাশল-নাটী, খম্ভংপাটীবারু, চম্পকারণ্য, রাজিম, চাঁপাঝার, শেষাদ্রি, বিদ্যানগর, বুক্করাজ, কৃষ্ণদেব, মহালক্ষ্মী, গোপীনাথ, বিঠ্ঠলেশ্বর, ষোড়শ-গ্রন্থ, সুবোধিনী → Канкадавад, Какурпад, Нидадаволу, Лакшмана (Бхатта) Дикшита, веланати / веги-нати / мурики-нати / телугу-нати / кашала-нати, «Кхамбхампативару», «Чампакаранья», Раджим, Чампаджхар, Шешадри, Видьянагара, царь Букка, Кришнадева, Махалакшми, Гопинатха, Виттхалешвара, “Шодаша-грантха”, “Субодхини” / Kāṅkaḍavāḍa, Kākũrapāḍa, Niḍāḍāvalu, Lakṣmaṇa (Bhaṭṭa) Dīkṣita, Vellanāṭī / Vegī-nāṭī / Muraki-nāṭī / Telagu-nāṭī / Kāśala-nāṭī, “Khambhampāṭīvāru,” “Campakāraṇya,” Rājima, Cā̃pājhāra, Śeṣādri, Vidyānagara, King Bukka, Kṛṣṇadeva, Mahālakṣmī, Gopīnātha, Viṭhṭhaleśvara, *Ṣoḍaśa-grantha*, *Subodhinī*.
 - চৌবে-ব্রাহ্মণ → брахман-чаубе / a Caube *brāhmaṇa*.
-- জড়-প্রতিষ্ঠা → мирской почёт / mundane honor; বহিরঙ্গ → посторонний / an outsider.
+- জড়-প্রতিষ্ঠা → мирской почёт / mundane honour; বহিরঙ্গ → посторонний / an outsider.
 - স্থূলভিক্ষা → стхула-бхикша (подаяние, после которого не нужно просить ещё) / *sthūla-bhikṣā*; মাধুকরী → мадхукари / *mādhukarī*; করোঁয়া → карон̇йа̄ (сосуд санньяси) / *karoṅyā*.
 - উপশাখা → упашакхи (побочные ветви) / *upaśākhās* (side branches).
 - কেবলচিন্মাত্রবাদী → сторонник учения о «чистом сознании» (кевала-чинматра-вади) / an adherent of the doctrine of “pure consciousness” (*kevala-cinmātra-vādī*); অচিৎ-মিশ্রাতীত → вышедший за пределы смешанного с материей / gone beyond what is mixed with matter.
@@ -2570,7 +2570,7 @@
 - নীবি, ঘাগ্‌রা → ниви (шнур на поясе), гхагра (юбка) / *nīvi* (waist-cord), *ghāgrā* (skirt).
 - অমানী / মানদ → амани (не ищущий почёта) / манада (оказывающий почёт) / *amānī* / *mānada*.
 - রসসন্দর্ভ → повествование о расе (раса-сандарбха) / a composition on *rasa* (*rasa-sandarbha*).
-- ভক্তুন্মুখী সুকৃতি → сукрити, обращающая к бхакти / *sukṛti* that turns one toward *bhakti*.
+- ভক্তুন্মুখী সুকৃতি → сукрити, обращающая к бхакти / *sukṛti* that turns one towards *bhakti*.
 - বিপ্রলম্ভ-রস → раса разлуки (випраламбха) / the *rasa* of separation (*vipralambha*).
 
 #### Источники и имена
@@ -2589,7 +2589,7 @@
 - সম্বিদ্বৃত্তি → энергия сознания (самвит) / the potency of consciousness (*saṁvit*); অতন্নিরসন → отвержение всего, что не есть Истина (атат-нирасана) / *atat-nirasana*; অহংগ্রহোপাসনা → поклонение себе как Богу (ахан̇граха-упасана) / *ahaṅgraha-upāsanā*.
 - আরোহবাদী → (идущий путём логики) восходящего метода (ароха-вада) / the ascending process (*āroha-vāda*); নির্ভেদ-ব্রহ্মবাদী → брахмавади, не признающий различий / *brahmavādīs* who admit no distinctions.
 - আত্মপ্রসাদ → удовлетворение в душе (атма-прасада) / satisfaction of the self (*ātma-prasāda*); অন্তর্য্যামী গুরুদেব → гурудева, знающий сердце / the *gurudeva* who knew his heart; অন্তর্য্যামি-গুরু → гуру в сердце (антарьями-гуру) / the *guru* within the heart (*antaryāmī-guru*).
-- ভক্ত্যুন্মুখী / ভোগোন্মুখী / মোক্ষোন্মুখী সুকৃতি → сукрити, обращённая к бхакти / к наслаждению / к освобождению / *sukṛti* turned toward *bhakti* / enjoyment / liberation.
+- ভক্ত্যুন্মুখী / ভোগোন্মুখী / মোক্ষোন্মুখী সুকৃতি → сукрити, обращённая к бхакти / к наслаждению / к освобождению / *sukṛti* turned towards *bhakti* / enjoyment / liberation.
 - চেতন (о садху) → пробуждённый (четана) / an awakened soul (*cetana*); লব → лава (11¼ лавы = 1 секунда) / *lava*.
 - ফল্গু বৈরাগ্য → ложное (пхалгу) отречение / false (*phalgu*) renunciation; অসদবগ্রহ → дурная привязанность (асад-авограха) / evil attachment (*asad-avagraha*); অসম্ভাবনা → неверие (асамбхавана) / disbelief (*asambhāvanā*).
 - দৈব- / অদৈব-বর্ণাশ্রম → дайва- / не-дайва-варнашрама / *daiva* / non-*daiva varṇāśrama*; গোদাস → раб чувств (годаса) / slave of the senses (*godāsa*).
@@ -2663,12 +2663,12 @@
 #### Термины
 - স্বরূপ-লক্ষণ / তটস্থ-লক্ষণ (ভাবের) → сущностный (сварупа-лакшана) / сопутствующий (татастха-лакшана) признак бхавы — как в Мадхье 22 / essential (*svarūpa-lakṣaṇa*) / accompanying (*taṭastha-lakṣaṇa*) characteristic.
 - শুদ্ধসত্ত্ববিশেষ (= সংবিৎ-বৃত্তি স্বরূপশক্তির) → особая шуддха-саттва (проявление сварупа-шакти, называемое самвит) / a special *śuddha-sattva* (a function of the *svarūpa-śakti* called *saṁvit*).
-- রুচি (БРС 1.3.1): প্রাপ্ত্যভিলাষ, (সকর্ত্তৃক) আনুকূল্যাভিলাষ, সৌহার্দ্দাভিলাষ → желание обрести [Господа], желание самому служить Ему благоприятно, желание сердечной близости / the desire to attain [the Lord], the desire oneself to serve Him favorably, the desire for intimate affection.
+- রুচি (БРС 1.3.1): প্রাপ্ত্যভিলাষ, (সকর্ত্তৃক) আনুকূল্যাভিলাষ, সৌহার্দ্দাভিলাষ → желание обрести [Господа], желание самому служить Ему благоприятно, желание сердечной близости / the desire to attain [the Lord], the desire oneself to serve Him favourably, the desire for intimate affection.
 - মসৃণতা / আর্দ্রতা / চিত্তদ্রব → мягкость / влажность / растапливание сердца / softness / moistness / melting of the heart.
 - মমত্ব, মমতা; অনন্যমমতা → чувство «Он мой» (маматва, мамата); ананья-мамата (чувство «Он мой», обращённое к одному Вишну) — не «единство», не «нераздельность» / the sense “He is mine” (*mamatva*, *mamatā*); *ananya-mamatā* — not “oneness.”
 - সান্দ্রাত্মা / ঘনীভূতস্বরূপ → сгустившийся по своей сути / dense in its very nature.
 - সাধনাভিনিবেশজ / কৃষ্ণ-তদ্ভক্তপ্রসাদজ ভাব → бхава, рождённая поглощённостью садханой / милостью Кришны и Его преданного / *bhāva* born of absorption in *sādhana* / of the grace of Kṛṣṇa and His devotee.
-- ভক্ত্যুন্মুখী সুকৃতি → сукрити, обращённая к бхакти / *sukṛti* that turns one toward *bhakti*.
+- ভক্ত্যুন্মুখী সুকৃতি → сукрити, обращённая к бхакти / *sukṛti* that turns one towards *bhakti*.
 - ভজনক্রিয়া → бхаджана-крия (исполнение служения) / *bhajana-kriyā* (the practice of worship).
 - অবিক্ষেপে সাতত্য (নিষ্ঠা) → неотступное, неотвлекаемое постоянство / undistracted constancy.
 - বুদ্ধিপূর্ব্বিকা ইচ্ছা (রুচি) / স্বারসিকী রুচি (আসক্তি) → желание, которому предшествует разумение / естественный (сварасики) вкус / desire preceded by understanding / spontaneous (*svārasikī*) taste.
@@ -2677,7 +2677,7 @@
 - চিন্ময়ী চমৎকারময়ী অতৃপ্তি → ненасыщение — духовное и полное чудес / a spiritual dissatisfaction full of wonder.
 - প্রায়োপবেশন (Парикшит) → прайопавешана — пост до ухода из этого мира / *prāyopaveśana*, fasting until one's departure from this world.
 - কুহক → волшебное создание (кухака) / a magical creature (*kuhaka*).
-- হীনার্থাধিকসাধক → APB: исполняющий желания тех, у кого нет ничего (акинчан); Ану: дающий плод больше, чем позволяет достоинство / APB: who fulfills the aims of those who have nothing; *Anubhāṣya*: who gives a fruit greater than one's merit warrants.
+- হীনার্থাধিকসাধক → APB: исполняющий желания тех, у кого нет ничего (акинчан); Ану: дающий плод больше, чем позволяет достоинство / APB: who fulfils the aims of those who have nothing; *Anubhāṣya*: who gives a fruit greater than one's merit warrants.
 - রত্যাভাস → ратьябхаса (подобие рати) / *ratyābhāsa* (a semblance of *rati*); বাল → несмышлёные (бала) / the simple-minded (*bāla*).
 - সামগ্রী → составляющие (самагри) расы / the ingredients (*sāmagrī*) of *rasa*.
 - আলম্বন (বিষয় / আধার), উদ্দীপন → аламбана (предмет — вишая / вместилище — адхара), уддипана / *ālambana* (object — *viṣaya* / vessel — *ādhāra*), *uddīpana*; প্রসাধন → убранство / adornment.
@@ -2832,7 +2832,7 @@
 - ঊর্দ্ধ্বপুণ্ড্র, গোপীচন্দন, পদ্মাক্ষ → урдхва-пундра, гопи-чандана, падмакша (бусы из семян лотоса; не кости и не рудракша) / *ūrdhva-puṇḍra*, *gopī-candana*, *padmākṣa*.
 - উপচার: পঞ্চ, দশ, ষোড়শ, পঞ্চাশ, চতুঃষষ্টি (চৌঘন) → подношения: пять, десять, шестнадцать, пятьдесят, шестьдесят четыре («чоу-гхана») / offerings: five, ten, sixteen, fifty, sixty-four (*cau-ghana*).
 - পঞ্চকাল: অরুণোদয়, প্রাতঃ, মধ্যাহ্ন, সায়াহ্ন, প্রদোষ → пять времён: арунодая (предрассветный час), утро, полдень, вечер, прадоша (начало ночи) / *aruṇodaya*, morning, midday, evening, *pradoṣa*.
-- সেবাপরাধ (৩২) → оскорбления в служении / offenses in service; নামাপরাধ → оскорбления имени / offenses against the name.
+- সেবাপরাধ (৩২) → оскорбления в служении / offences in service; নামাপরাধ → оскорбления имени / offences against the name.
 - বিদ্ধা / অবিদ্ধা (ব্রত, একাদশী) → «пронзённый» (виддха) / непронзённый / “pierced” (*viddhā*) / unpierced.
 - দিনকৃত্য, পক্ষকৃত্য, মাসকৃত্য → ежедневные, обязанности пакши, ежемесячные / daily, fortnightly, monthly duties.
 - সাত্বত-পুরাণ → саттвата-пураны / the Sātvata Purāṇas.
@@ -2935,7 +2935,7 @@
 - অঙ্ক (драмы) → действие / Act (как в общем глоссарии: “Лалита-Мадхава”, действие 5).
 - শিখরিণী, রসালা → шикхарини, расала (сладкое питьё) / *śikhariṇī*, *rasālā* (a sweet drink); ঘনসার → гханасара (камфара) / *ghanasāra* (camphor).
 - প্রণয় (Радхи и гопи) → любовь (пранайя) / love (*praṇaya*); নবানুরাগ → новая любовь (анурага) / fresh love (*anurāga*) — не «страсть».
-- গঙ্গাপ্রাপ্তি → уход из этого мира на берегу Ганги / departure from this world on the bank of the Ganges (не «смерть»).
+- গঙ্গাপ্রাপ্তি → уход из этого мира на берегу Ганги / departure from this world on the bank of the Gaṅgā (не «смерть»).
 - কড়চা (о рукописи) → кадача (набросок, черновая рукопись) / *kaḍacā* (a draft).
 - ভক্তবাৎসল্য → любовь Бхагавана к Своим преданным / Bhagavān's love for His devotees.
 - আত্মপর্য্যন্ত প্রসাদ → милость вплоть до того, что отдаёт Самого Себя / mercy to the point of giving Himself.
@@ -3017,7 +3017,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - অষ্টপ্রকার স্ত্রীসংসর্গ → восемь видов общения с женщиной / the eight kinds of contact with women.
 - জিহ্বোদরোপস্থ-লাম্পট্য → распущенность языка, желудка и гениталий / indulgence of the tongue, the belly and the genitals.
 - উপধর্ম্ম / অপধর্ম্ম → упадхарма / ападхарма (побочные / ложные религии) / *upadharma* / *apadharma* (side / false religions); বিদ্ধ প্রাকৃত-সহজিয়া → «смешанные» (виддха) пракрита-сахаджии / “mixed” (*viddha*) *prākṛta-sahajiyās*.
-- অমন্দোদয়া দয়া → щедрая милость / bountiful mercy; ধর্ম্মসেতু ধর্ম্মবর্ম্ম → оплот и щит дхармы / the bulwark and armor of *dharma*; বজ্রাদপি কঠোরতা → строгость твёрже ваджры / sternness harder than a thunderbolt; সদ্ধর্ম্মগোপ্তা → хранитель истинной дхармы / protector of true *dharma*.
+- অমন্দোদয়া দয়া → щедрая милость / bountiful mercy; ধর্ম্মসেতু ধর্ম্মবর্ম্ম → оплот и щит дхармы / the bulwark and armour of *dharma*; বজ্রাদপি কঠোরতা → строгость твёрже ваджры / sternness harder than a thunderbolt; সদ্ধর্ম্মগোপ্তা → хранитель истинной дхармы / protector of true *dharma*.
 - দেহত্যাগ (Харидаса) → оставил тело / gave up his body (не «самоубийство»); আত্মঘাত, আত্মহত্যা (только в догадке преданных, 156) → покончил с собой / killed himself.
 - দিব্য-দেহ, গন্ধর্ব্ব-দেহ → божественное тело, тело гандхарвы / divine body, the body of a Gandharva; ব্রহ্মরাক্ষস → брахма-ракшас / *brahma-rākṣasa*.
 - শ্রৌতপথ / তর্কপন্থা → путь слушания (шраута-патха) / путь логики / the path of hearing (*śrauta-patha*) / the path of argument.
@@ -3114,7 +3114,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - দৈক্ষ-ব্রাহ্মণ → брахман по посвящению (дайкша-брахмана) / a *brāhmaṇa* by initiation (*daikṣa-brāhmaṇa*).
 - নামযজ্ঞ → жертвоприношение имени (нама-ягья) / the sacrifice of the Name (*nāma-yajña*).
 - আচার ও প্রচার → поведение и проповедь (ачара и прачара) / conduct and preaching (*ācāra* and *pracāra*).
-- যমেশ্বর-টোটা, বাগান-পাড়া → Ямешвар-тота (по общему глоссарию), садовый квартал; টোটা (уткал.) → сад / Yameśvara-ṭoṭā, the garden quarter; *ṭoṭā* (Oriya), a garden.
+- যমেশ্বর-টোটা, বাগান-পাড়া → Ямешвар-тота (по общему глоссарию), садовый квартал; টোটা (уткал.) → сад / Yameśvara-ṭoṭā, the garden quarter; *ṭoṭā* (Oriyā), a garden.
 - দোলযাত্রা → Дола-ятра / the Dola-yātrā; চাতুর্ম্মাস্য → чатурмасья / *cāturmāsya*.
 - Имена: Бхишмака, Рукми, Шишупала (царь Чеди), Мурари Гупта; «Брихад-бхагаватамрита», «Хари-бхакти-виласа», «Намаштака», «Шикшаштака» / Bhīṣmaka, Rukmī, Śiśupāla (king of Cedi), Murāri Gupta; *Bṛhad-bhāgavatāmṛta*, *Hari-bhakti-vilāsa*, *Nāmāṣṭaka*, *Śikṣāṣṭaka*.
 
@@ -3128,7 +3128,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - লাল্য / লালক → лелеемый (лалья) / тот, кто лелеет (лалака), как в ч. 1 / the one cherished (*lālya*) / the one who cherishes (*lālaka*); লাল্যামেধ্য → нечистое у лелеемого / what is unclean in the one cherished.
 - মর্য্যাদা (поведение, этикет) → марьяда, подобающее положение, должное почтение / *maryādā*, propriety, one's proper place; ব্যবহার-ভক্তি → проявление марьяды, благопристойности (шиштачары) / showing propriety, good manners (*śiṣṭācāra*).
 - রাগমার্গীয় পরমহংস → парамахамса пути раги (рага-марга) / a *paramahaṁsa* on the path of spontaneous love (*rāga-mārga*); বৈধ অর্চ্চন-মার্গ → путь поклонения по предписаниям (вайдха-арчана-марга) / the path of Deity worship by regulation (*vaidha arcana-mārga*).
-- মানদ / অমানী → почитающий других (манада) / свободный от гордости (амани) / one who honors others (*mānada*) / free of pride (*amānī*).
+- মানদ / অমানী → почитающий других (манада) / свободный от гордости (амани) / one who honours others (*mānada*) / free of pride (*amānī*).
 - দৈন্যবিগ্রহ → воплощённое смирение / the embodiment of humility.
 - নির্ব্বিণ্ণ (APB 150) → исполненный нирведы, то есть отрешённости (вираги) / filled with *nirveda*, that is, detachment (*virāga*).
 - প্রভুদত্ত দেশ → «край, данный Господом» / “the land given by the Lord”.
@@ -3181,7 +3181,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - গৃহব্রত ধর্ম্ম → дхарма привязанных к дому (грихаврата) / the *dharma* of those attached to home (*gṛhavrata*); অদান্তগো → с необузданными чувствами (аданта-го) / one whose senses are uncontrolled (*adānta-go*); প্রবৃত্তিমার্গীয় গৃহস্থ → грихастха на пути правритти / a householder on the path of *pravṛtti*.
 - ঐশ্বর্য্য-স্বভাব, ঐশীশক্তি → природное величие (айшварья-свабхава), сила Владыки (айши-шакти) / natural majesty (*aiśvarya-svabhāva*), the power of the Lord (*aiśī-śakti*).
 - সাবিত্র্যাধিকার → право на посвящение Савитри / the right to Sāvitrī initiation.
-- ভঙ্গী → образ действий, искусный приём, пример / manner, skillful device, example.
+- ভঙ্গী → образ действий, искусный приём, пример / manner, skilful device, example.
 - কর্ম্মকাণ্ডীয় স্মৃতি → смрити раздела кармы (карма-канды) / the *smṛti* of the *karma-kāṇḍa*.
 - উচ্চতম-শূদ্রকুলোদ্ভূত → из рода высших шудр / born in a family of the highest *śūdras*.
 - শ্রোতৃরূপী শিষ্য → ученик, который слушает / the hearing disciple.
@@ -3243,7 +3243,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - পসারি → пасари (торговец, лавочник) / *pasāri* (vendor).
 - গোপাভিমান → ощущение Себя пастушком / feeling Himself a cowherd boy; পুলিন-ভোজন → трапеза на песчаном берегу / the picnic on the sandy bank.
 - Имена: Хиранья дас, Говардхана дас, Ядунандана Ачарья, Васудева Датта, Рагхава Пандит, Абхирама Тхакур (Рамадас), Мурари Чайтаньядас, Парамешвара дас, Кришнадас Хор, Уддхарана Датта; «Рагху Сварупы» / Hiraṇya dāsa, Govardhana dāsa, Yadunandana Ācārya, Vāsudeva Datta, Rāghava Paṇḍita, Abhirāma Ṭhākura (Rāmadāsa), Murāri Caitanyadāsa, Parameśvara dāsa, Kṛṣṇadāsa Hoḍa, Uddhāraṇa Datta; “Svarūpa's Raghu.”
-- Книги и места: “Вилапа-кусуманджали” / *Vilāpa-kusumāñjali*; Яджнавалкья (смрити) / Yājñavalkya; Саптаграм, Панихати, Канаи-Наташала, Пурушоттама, Симха-двара / Saptagrāma, Pāṇihāṭī, Kānāi's Nāṭaśālā, Puruṣottama, the Siṁha-dvāra.
+- Книги и места: “Вилапа-кусуманджали” / *Vilāpa-kusumāñjali*; Яджнавалкья (смрити) / Yājñavalkya; Саптаграм, Панихати, Канаи-Наташала, Пурушоттама, Симха-двара / Saptagrāma, Pāṇihāṭi, Kānāi's Nāṭaśālā, Puruṣottama, the Siṁha-dvāra.
 
 ### Antya06-p2
 
@@ -3290,7 +3290,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - স্বরূপদেহ → истинный духовный облик (сварупа-деха) / one's true spiritual form (*svarūpa-deha*); অন্তরঙ্গ-সেবা → сокровенное служение (антаранга-сева) / intimate service (*antaraṅga-sevā*).
 - বৈষ্ণবী-প্রতিষ্ঠা → слава среди вайшнавов / renown among Vaiṣṇavas; প্রতিষ্ঠা → мирская слава (пратиштха) / worldly prestige (*pratiṣṭhā*).
 - কৃষ্ণভোগ্য ভক্ত / স্ব-ভোগ্য-পুত্রবুদ্ধি → преданный, который принадлежит Кришне и служит Его наслаждению / сын для собственного наслаждения; the devotee who belongs to Kṛṣṇa and exists for His enjoyment / a son for one's own enjoyment.
-- অকৃষ্টপচ্যা (ভূমি) → плодоносящая (созревшая) без вспашки / bearing fruit (ripened) without plowing.
+- অকৃষ্টপচ্যা (ভূমি) → плодоносящая (созревшая) без вспашки / bearing fruit (ripened) without ploughing.
 - অষ্টপণ কৌড়ি → восемь пан — 640 каури, «॥০ আনা» = восемь анн / eight *paṇas* — 640 cowries, “॥০ আনা” = eight annas.
 - ভোক্তাভিমানী বিষয়ী → вишаи, мнящий себя наслаждающимся / a *viṣayī* who thinks himself the enjoyer; চিজ্জড়সমন্বয় → смешение духовного с материальным / mixing spirit with matter.
 - বালিশ → неразумный / the foolish; জন্মৈশ্বর্য্যশ্রুতশ্রী → высокое рождение, богатство, учёность и красота / high birth, wealth, learning and beauty.
@@ -3321,7 +3321,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 
 #### Термины
 - পরিহাস (Господа над Валлабхой) → подшучивание / joking.
-- ছল-ঔদাস্য → притворное безразличие / feigned indifference; ছলনা-চেষ্টা, ছলনোক্তি → притворство, слова с притворством / pretense, words of pretense.
+- ছল-ঔদাস্য → притворное безразличие / feigned indifference; ছলনা-চেষ্টা, ছলনোক্তি → притворство, слова с притворством / pretence, words of pretence.
 - সিদ্ধান্তসকলের সংশোধন → исправление заключений (сиддхант) / correcting his conclusions (*siddhāntas*).
 - স্পর্শমণি (о преданных) → философский камень / touchstone.
 - প্রায়োপবেশ(ন) → решение поститься до самой смерти (прайопавеша) / resolve to fast until death (*prāyopaveśa*).
@@ -3341,7 +3341,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - অক্ষজজ্ঞানী → судящий знанием, рождённым от чувств / judging by sense-born knowledge; ভাগবতানুগত্য → водительство (послушание) преданных-бхагават / the guidance of the *bhāgavatas*.
 - দীর্ঘ গর্ব্ব → давняя гордость (хорошо вскормленное, непомерное самомнение) / long-standing pride (a well-nourished, towering self-conceit); দর্প চূর্ণ → гордость сокрушена / pride crushed; গর্ব্ব-খর্ব্বতা → гордость смирена / pride humbled.
 - ঘৃণা (Господа к толкованиям) → отвергает с неприязнью / rejects with distaste.
-- তোষামোদ → угождать (добиваться расположения) / court the favor of.
+- তোষামোদ → угождать (добиваться расположения) / court the favour of.
 - উভয় সঙ্কট → между двух огней / dilemma.
 - অলাতচক্র → огненное колесо (алата-чакра) / whirling firebrand (*alāta-cakra*).
 - ফল্গু, বল্গন / বল্গু → пхалгу (пустой), валгана / валгу (словесная напыщенность) / *phalgu* (worthless), *valgana* / *valgu* (verbal bombast).
@@ -3362,7 +3362,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 
 - ভক্ত্যেকরক্ষক (о Шридхаре Свами) → «единственный хранитель бхакти» / “the sole guardian of *bhakti*”.
 - চিদেক-বিষ্ণু-স্বামী / চিদেক-বিষ্ণু-স্বামিত্ব → признающий Господином (свами) Вишну, единый Дух / who acknowledges Viṣṇu, the one Spirit, as the Master (*svāmī*).
-- চিৎসমন্বয় / চিজ্জড়-সমন্বয় → согласование с духом (чит-саманвая) / смешение духа и материи — harmonizing with spirit (*cit-samanvaya*) / a mixture of spirit and matter.
+- চিৎসমন্বয় / চিজ্জড়-সমন্বয় → согласование с духом (чит-саманвая) / смешение духа и материи — harmonising with spirit (*cit-samanvaya*) / a mixture of spirit and matter.
 - স্বৈরতা → своеволие (свайрата) / wantonness (*svairatā*).
 - শুদ্ধাদ্বৈত; অদ্বয়জ্ঞান → чистая недвойственность (шуддхадвайта); недвойственное знание (адвая-гьяна) / pure nondualism (*śuddhādvaita*); nondual knowledge (*advaya-jñāna*).
 - অক্ষজজ্ঞানী → полагающийся на знание от чувств; знаток чувственного / one who relies on sense-born knowledge; the knower of sense-born knowledge.
@@ -3377,7 +3377,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - রোষাভাস, কৃত্রিম ক্রোধ → притворный гнев / feigned anger.
 - বাম্য-স্বভাব / দক্ষিণ-স্বভাব → строптивая природа (вамья) / кроткая природа (дакшина) / contrary nature (*vāmya*) / compliant nature (*dakṣiṇa*).
 - স্নেহাত্যাচার → суровости, рождённые нежностью / severity that springs from affection.
-- মানদ (প্রভু) → чтящий других / who gives honor to others.
+- মানদ (প্রভু) → чтящий других / who gives honour to others.
 - পণ্ডিত-গোস্বামী / পণ্ডিত-গোসাঞি (Гададхара) → Пандит Госвами / Paṇḍita Gosvāmī.
 - মূর্খ-পাণ্ডিত্য (বোকা-সেয়ানামি) → глупое умничанье / a fool's cleverness.
 - ওলাহন → наказание словом, выговор / punishment by words, a reproach.
@@ -3456,7 +3456,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 
 - ভিয়ান → «бхияна» — стройное и чинное исполнение служения (парипатья-абхиная) / *bhiyāna*, the orderly and elaborate performance of the service (*pāripāṭya-abhinaya*).
 - নির্ম্মঞ্ছন → «нирманчхана» — особое подношение (аргхья при арати) / *nirmañchana*, a special offering (*arghya* at *ārati*).
-- পূজ্য-গর্ব্বিত → «пуджья-гарвита» — достойный почитания, предмет гордости и почёта / *pūjya-garvita*, worthy of worship, an object of pride and honor.
+- পূজ্য-গর্ব্বিত → «пуджья-гарвита» — достойный почитания, предмет гордости и почёта / *pūjya-garvita*, worthy of worship, an object of pride and honour.
 - নেতধটী, নেতধড়ি → «нетадхати» — шёлковая ткань (паттавастра) / *netadhaṭī*, silk cloth.
 - মাৎ (хинди) → «мат» — «не» / *māt*, “not.”
 - নিলা মূল → «нила мула» — снова купил, заплатив цену / *nilā mūla*, bought again, paying the price.
@@ -3488,7 +3488,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - মনুষ্য-বুদ্ধি → манушья-буддхи (видеть в Нём человека) / *manuṣya-buddhi* (regarding Him as a human being).
 - আম (болезнь) → ама / *āma*; অম্লপিত্ত → амла-питта (кислотно-желчная болезнь) / *amla-pitta* (acid-bile disease).
 - কোটি-সুখ-পোষ → коти-сукха-пош / *koṭi-sukha-poṣa*.
-- অপরাধের আভাস → тень оскорбления / the shadow of an offense.
+- অপরাধের আভাস → тень оскорбления / the shadow of an offence.
 - কুথলী → кутхали (мешочек) / *kuthalī* (small bag); বোঝারি → боджхари (носильщик) / *bojhāri* (porter); আজাড় → аджара (пустой) / *ājāḍa* (empty).
 - কোলশুণ্ঠি → кола-шунтхи (сушёные ягоды кул) / *kola-śuṇṭhi* (dried *kul* berries); নাড়ু-গঙ্গাজলি → нару-гангаджали / *nāḍu-gaṅgājali*.
 - শালিকাচটি ধান্য → шаликачати дханья / *śālikācaṭi dhānya*; উখ্ড়া → укхра / *ukhḍā*; মুড়কি → мудаки / *muḍki*; হুড়ুম্ → хурум / *huḍum*; ফুট্কলাই → пхуткалай (жареный горох) / *phuṭkalāi* (fried peas).
@@ -3504,7 +3504,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - পরিমুণ্ডা-নৃত্য (= পরিমণ্ডল-নৃত্য) → паримунда-нритья, танец по кругу (паримандала-нритья) / *parimuṇḍā-nṛtya*, dancing in a circle (*parimaṇḍala-nṛtya*).
 - পাদ-সম্বাহন → растирание стоп / massaging the feet.
 - বহির্ব্বাস (Говинды, Ану-подзаг. 89) → бахирвас, верхняя ткань / *bahirvāsa*, outer cloth.
-- প্রসাদ-সম্মান → почтить прасад / to honor *prasāda*.
+- প্রসাদ-সম্মান → почтить прасад / to honour *prasāda*.
 - আদিবস্যা → адивасья: (APB) тот, кто давно живёт здесь, со Господом; (Ану) «несчастный», «глупый», «непостоянный», «а-декхла» (кангла, жадный) / *ādivasyā*.
 - আ-দেখ্‌লা, কাঙ্‌লা → «а-декхла» (слишком нетерпеливый), «кангла» (жадный) / *ā-dekhlā* (overeager), *kāṅlā* (greedy).
 - পৈড় (уткальское) → пайда, кокос / *paiḍa* (an Utkala word), coconut.
@@ -3539,7 +3539,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - অন্তর্দ্ধান-লীলা → игра ухода (антардхана-лила) / the pastime of departure (*antardhāna-līlā*).
 - রঞ্চ → ранча, крупица / *rañca*, a particle.
 - গৌরদেহ (Ану 5) → гаура-деха: тот, чьё тело сияет золотистым цветом / *gaura-deha*: He whose body shines with a golden hue.
-- চৈতন্যের আর্য্য → «Чайтаньера арья», почитаемый Махапрабху / *Caitanyera ārya*, the one whom Mahāprabhu honors.
+- চৈতন্যের আর্য্য → «Чайтаньера арья», почитаемый Махапрабху / *Caitanyera ārya*, the one whom Mahāprabhu honours.
 - লঙ্ঘন (пост) → поститься / to fast.
 - নামাশ্রিত সাধক → садхака, принявший прибежище святого имени / a *sādhaka* who has taken shelter of the holy name.
 - সাধনাভিনয় → садхана, которую он лишь являет (садхана-абхиная) / the practice he merely enacts (*sādhanābhinaya*).
@@ -3652,7 +3652,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 
 # Новые термины: Антья 13, часть 2 (стихи 71–139) — RU / EN
 
-- সিজের বাড়ী → сиджера бади (изгородь из кустов сидж) / *sijera bāḍī* (a hedge of *sij* shrubs); মনসাসিজ, কাঁটাসিজ → манаса-сидж, колючий сидж / *manasā-sij*, the thorny *sij*; ফুলবাড়ী → пхул-бади (цветочный сад, уткал.) / *phul-bāḍī* (flower garden, Oriya).
+- সিজের বাড়ী → сиджера бади (изгородь из кустов сидж) / *sijera bāḍī* (a hedge of *sij* shrubs); মনসাসিজ, কাঁটাসিজ → манаса-сидж, колючий сидж / *manasā-sij*, the thorny *sij*; ফুলবাড়ী → пхул-бади (цветочный сад, уткал.) / *phul-bāḍī* (flower garden, Oriyā).
 - বিশ্বাসখানা → Вишваса-кхана (счётная палата правителя Гауды) / the *Viśvāsa-khānā* (accounts office of the ruler of Gauḍa).
 - বৈষ্ণবপ্রায় → «почти вайшнав» (вайшнава-прая) / “almost a Vaiṣṇava” (*vaiṣṇava-prāya*).
 - কাব্যপ্রকাশ; মম্মটভট্ট → “Кавья-пракаша”; Маммата Бхатта / *Kāvya-prakāśa*; Mammaṭa Bhaṭṭa. অলঙ্কার-গ্রন্থ → трактат о поэтических украшениях (аланкара-грантха) / a treatise on poetic ornament (*alaṅkāra-grantha*).
@@ -3717,7 +3717,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - ক্যা কর কিবা = কেয়া করো, কেঁও → «кья кара киба» = «кея каро, кеон» (хиндустани: «Что делаете? Почему?») / *kyā kara kibā* = *keyā karo, keṁo* (Hindustani: “What are you doing? Why?”).
 - পাণিশঙ্খ / পানী-শঙ্খ → па̄н̣и-ш́ан̇кха (раковина, которую держат в руке) / па̄нӣ-ш́ан̇кха (раковина [с водой] для ачаманы) / *pāṇi-śaṅkha* (a hand-held conch) / *pānī-śaṅkha* (a conch [of water] for *ācamana*).
 - অপ্রাকৃত অধোক্ষজ-ভাবমুদ্রা → трансцендентные знаки чувств, обращённых к Адхокшадже / the transcendental signs of emotion for Adhokṣaja.
-- অপ্রাকৃত অনুভূতি → трансцендентное постижение / transcendental realization.
+- অপ্রাকৃত অনুভূতি → трансцендентное постижение / transcendental realisation.
 - অদৃষ্টাশ্রুতপূর্ব্ব → невиданный и неслыханный прежде / never seen or heard of before.
 - চটক-পর্ব্বত (Анубхашья 84) → высокий песчаный холм, похожий на гору; песчаная дюна / a high mound of sand that looks like a mountain; a sand dune.
 - অষ্টসাত্ত্বিকবিকার → ашта-саттвика-викара, восемь духовных преображений / *aṣṭa-sāttvika-vikāra*, the eight spiritual transformations (перечень — как в общем глоссарии, строка «সাত্ত্বিক বিকার (৮)»).
@@ -3778,7 +3778,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - দলিত অঞ্জন → растёртая (истолчённая) сурьма / ground (pounded) collyrium; চিক্কণতা → гладкий блеск / smooth gloss.
 - ইন্দীবর → индивара, голубой лотос / *indīvara*, blue lotus; উৎপল → утпала / *utpala*; কুবলয় → кувалая / *kuvalaya*.
 - বলাহক → валахака, туча / *valāhaka*, a cloud; ঝঞ্ঝা-বাত → вихрь / whirlwind; অকলঙ্ক পূর্ণকল → без пятен и полная во всех шестнадцати фазах / spotless and full in all sixteen digits.
-- বকশ্রেণী → стая журавлей / a row of cranes; বৈজয়ন্তী-মালা (পঞ্চবর্ণ) → (пятицветная) гирлянда Вайджаянти / (five-colored) Vaijayantī garland.
+- বকশ্রেণী → стая журавлей / a row of cranes; বৈজয়ন্তী-মালা (পঞ্চবর্ণ) → (пятицветная) гирлянда Вайджаянти / (five-coloured) Vaijayantī garland.
 - চার (приманка) → приманка, обманная пища / bait, deceptive food; ফাঁদ → силок / snare.
 - ডাকাতিয়া বক্ষ → дакатия бакша, грудь-разбойник / *ḍākātiyā vakṣa*, the robber chest.
 - লক্ষ্মী (знак) → золотая линия на левой стороне груди / a golden line on the left of the chest; শ্রীবৎস → Шриватса, завиток волос, закрученный вправо (দক্ষিণাবর্ত্ত রোমাবলী) / Śrīvatsa, a curl of hair turning right.
@@ -3818,7 +3818,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - মনোময়ী অর্চ্চা; মানস-পূজা → Божество, явленное в уме (маномайи-арча); поклонение в уме / the Deity manifest in the mind (*manomayī arcā*); worship in the mind.
 - অপ্রাকৃত-ব্রাহ্মণতা → трансцендентное брахманство / transcendental *brāhmaṇa* nature.
 - দেহাত্মবুদ্ধি → отождествление себя с телом / identifying the self with the body.
-- অমানিত্ব / মানদত্ব → свобода от гордости (амани) / почитание других (манада) / freedom from pride (*amānī*) / honoring others (*mānada*).
+- অমানিত্ব / মানদত্ব → свобода от гордости (амани) / почитание других (манада) / freedom from pride (*amānī*) / honouring others (*mānada*).
 - নিষ্কপট মহাকৃপা → бескорыстная (нелицемерная) великая милость / great mercy without reserve.
 - পহাচ (ория) → пахач, ступень лестницы; বাইশ পহাচ → двадцать две ступени (у Львиных врат) / *pahāca*, a step; *bāiśa pahāca*, the twenty-two steps.
 - পাটুয়া-খোলা → патуя-кхола: листья и кора [банана] / *pāṭuyā-kholā*: leaves and bark (в переводе стиха — «обёртки из банановых листьев»).
@@ -3846,7 +3846,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - বল্লভভোগ; বাল-ভোগ; বাল্য-ভোগ (подзаг. 88) → валлабха-бхога; бала-бхога; утреннее подношение (балья-бхога) / *vallabha-bhoga*; *bāla-bhoga*; the morning offering (*bālya-bhoga*).
 - ঐশ্বর্য্যাশ্রিত-সেবক → служитель, чьё служение основано на айшварье / a servant whose service rests on *aiśvarya*.
 - অজ্ঞ (о служителе Джаганнатхи) → несведущий / unknowing.
-- কর্ম্মোন্মুখী / ভক্ত্যুন্মুখী সুকৃতি → сукрити, обращённая к карме / к бхакти / *sukṛti* turned toward *karma* / toward *bhakti* (как в общем глоссарии).
+- কর্ম্মোন্মুখী / ভক্ত্যুন্মুখী সুকৃতি → сукрити, обращённая к карме / к бхакти / *sukṛti* turned towards *karma* / towards *bhakti* (как в общем глоссарии).
 - সামান্য ভাগ্য (Ану 99) → обычная удача — удача, рождённая плодами кармы / ordinary fortune, born of the fruits of *karma*.
 - ফেলা, ফেলা-লব, কৃষ্ণ-ফেলা → фела, частица фелы, Кришна-фела (остатки трапезы Кришны; не «объедки») / *phelā*, a particle of *phelā*, Kṛṣṇa-phelā (Kṛṣṇa's remnants).
 - কৃষ্ণোচ্ছিষ্ট → остатки Кришны / Kṛṣṇa's remnants.
@@ -3990,7 +3990,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - Плоды (Ану 104–105): কোলি = কুল, বদরী → ююба / jujube; পনস = কাঁটাল → джекфрут / jackfruit; নারঙ্গ → цитрус из рода апельсинов (камала-лебу) / citrus of the orange kind; দ্রাক্ষা = আঙ্গুর → виноград / grapes; সান্তারা → крупный цитрус из рода помело (батаби-лебу) / large citrus of the pomelo kind; মেওয়া → отборные плоды холодных стран (фисташки, миндаль) / choice fruits of cold countries; খরমুজা → плод, родственный арбузу (пхути, банги) / fruit related to the watermelon (*phuṭi*, *bāṅgī*); ক্ষীরিকা = ক্ষীরাই → огурец кхираи / the *khirāi* cucumber; তাল = তালশাঁস, ফোপল → мякоть пальмового плода (тал-шас), пхопал / palm-fruit flesh (*tāl-śā̃s*), *phopal*; কেশুর = কশেরু, কসেরু → корень травы вроде сыти (мутхи) / nut-grass root; পানীফল = শৃঙ্গাটক → шрингатака (водяной орех) / *śṛṅgāṭaka*; শৈবাল → тина (шайвала) / weed (*śaivāla*); মৃণাল → стебель (корень) лотоса / lotus stalk (root); দাড়িম্ব = ডালিম; মস্কট, বেদানা → гранат (далим); маскат, бедана / pomegranate (*ḍālim*); *maskaṭ*, *bedānā*.
 - নাড়ু → сладкие шарики (нару) / sweet balls (*nāḍu*); পিষ্টক → лепёшки (пиштака) / cake-like foods (*piṣṭaka*); ছানা → творог (чхана) / curd (*chānā*); খণ্ডক্ষীরিসার → кханда-кширисара (сладости в форме деревьев из сахара) / *khaṇḍa-kṣīrisāra* (tree-shaped sugar sweets).
 - কৃষ্ণসুখবাঞ্ছা → жажда счастья Кришны / longing for Kṛṣṇa's happiness.
-- অচৈতন্য / চৈতন্য (игра слов) → лишённый сознания (ачайтанья) / сознание (чайтанья) / bereft of consciousness (*acaitanya*) / consciousness (*caitanya*); কৃষ্ণোন্মুখতা → обращённость к Кришне / being turned toward Kṛṣṇa.
+- অচৈতন্য / চৈতন্য (игра слов) → лишённый сознания (ачайтанья) / сознание (чайтанья) / bereft of consciousness (*acaitanya*) / consciousness (*caitanya*); কৃষ্ণোন্মুখতা → обращённость к Кришне / being turned towards Kṛṣṇa.
 - রদা-রদি (разночтение к বাদাবাদি) → «рада-ради» (рада — зуб) / *radā-radi* (*rada*, tooth).
 
 ## Термины (добавлено по Антья 19; RU и EN)
@@ -4099,7 +4099,7 @@ RU → EN. В общий глоссарий не внесено (решает к
 - মদীয়ত্ব / তদীয়ত্ব স্নেহ; মধু / ঘৃত স্নেহ → снеха «моё» (мадиятва) / «Его» (тадиятва); снеха, подобная мёду / топлёному маслу / the *sneha* of “mine” (*madīyatva*) / “His” (*tadīyatva*); *sneha* like honey / like ghee.
 - কৃষ্ণেন্দ্রিয়তর্পণ, কৃষ্ণেন্দ্রিয়প্রীতিবাঞ্ছা → желание порадовать (усладить) чувства Кришны / the desire to please Kṛṣṇa's senses; আত্মেন্দ্রিয়প্রীতিবাঞ্ছা → желание усладить собственные чувства / the desire to please one's own senses.
 - কৃষ্ণের সম্ভোগ-কামিনী → та, что жаждет наслаждения (самбхоги) с Кришной / the woman who craves enjoyment (*sambhoga*) with Kṛṣṇa.
-- পাতিব্রত্য, পতিব্রতা → верность мужу (пативратья), верная жена (пативрата) / faithfulness (*pātivratya*), faithful wife (*pativratā*); বিপ্রবন্ধু → брахман лишь по рождению (випра-бандху) / a brahmin in name only (*vipra-bandhu*).
+- পাতিব্রত্য, পতিব্রতা → верность мужу (пативратья), верная жена (пативрата) / faithfulness (*pātivratya*), faithful wife (*pativratā*); বিপ্রবন্ধু → брахман лишь по рождению (випра-бандху) / a brāhmaṇa in name only (*vipra-bandhu*).
 - কেবল-প্রেম → чистая любовь (кевала-према) / pure love (*kevala-prema*).
 - স্বভজন-বিভজন-প্রয়োজনাবতার → аватара, явившаяся, чтобы Самому вкушать служение Себе и раздавать его / the *avatāra* who came to relish worship of Himself and to distribute it.
 - দার্শনিক পণ্ডিতপ্রবর, তত্ত্ববিৎ, সূক্ষ্মদর্শী (прозвища, Ану 28) → «учёный философ», «знаток таттвы», «тонкий мыслитель» / “learned philosopher,” “knower of *tattva*,” “subtle thinker”; রসিক, ভজনানন্দী, ভাগবতোত্তম, লীলারসপানোন্মত্ত, রাগানুগীয়-সাধকাগ্রগণ্য, রসজ্ঞ, রসিকচূড়ামণি → «расика», «блаженствующий в бхаджане», «лучший из бхагават», «опьянённый питьём расы лилы», «первый среди садхаков раганугической бхакти», «знаток расы», «венец расиков».

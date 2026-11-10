@@ -2858,7 +2858,7 @@ nevertheless  Madhvācārya  thus  has made  the rule
 sei ācariye sabe sampradāya sambandha  
 that  we practise  all  of the sampradāya  for the connection
 
-(275) Yet Madhvācārya laid down this rule, and because of our connection with his *sampradāya* we all follow it.”
+(275) Yet Madhvācārya laid down this rule, and because of our connection with his sampradāya we all follow it.”
 
 প্রভু কহে, — কর্ম্মী, জ্ঞানী, দুই ভক্তিহীন ৷  
 তোমার সম্প্রদায়ে দেখি সেই দুই চিহ্ন ॥ ২৭৬ ॥
@@ -2868,7 +2868,7 @@ the Lord  said  the karmī  the jñānī  both  devoid of devotion
 tomāra sampradāye dekhi sei dui cihna  
 in your  sampradāya  I see  those  two  signs
 
-(276) The Lord said, “The *karmī* and the *jñānī* are both devoid of devotion, and in your *sampradāya* I see the signs of both.
+(276) The Lord said, “The *karmī* and the *jñānī* are both devoid of devotion, and in your sampradāya I see the signs of both.
 
 সবে, এক গুণ দেখি তোমার সম্প্রদায়ে ৷  
 ‘সত্যবিগ্রহ ঈশ্বরে’ করহ নিশ্চয়ে ॥ ২৭৭ ॥
@@ -2878,7 +2878,7 @@ only  one  merit  I see  in your  sampradāya
 ‘satya-vigraha īśvare’ karaha niścaye  
 ‘the Lord’s form is real’  you hold  firmly
 
-(277) I see only one merit in your *sampradāya*: you firmly hold that the Lord’s form is real (*satya-vigraha*).”[^39]
+(277) I see only one merit in your sampradāya: you firmly hold that the Lord’s form is real (*satya-vigraha*).”[^39]
 
 এইমত তাঁর ঘরে গর্ব্ব চূর্ণ করি’ ৷  
 ফল্গুতীর্থে তবে আইলা শ্রীগৌরহরি ॥ ২৭৮ ॥
@@ -3578,7 +3578,7 @@ much  dancing and singing  He did  absorbed in love  being
 pāṇḍā-pāla āila sabe mālā-prasāda lañā  
 the pāṇḍās and pālas  came  all  garlands and prasāda  bringing
 
-(347) Absorbed in love, He danced and sang at length, and all the temple servants, the *pāṇḍās* and *pālas*, came bringing garlands and *prasāda*.[^45]
+(347) Absorbed in love, He danced and sang at length, and all the temple servants, the *pāṇḍās* and *pālas*, came bringing garlands and prasāda.[^45]
 
 মালা-প্রসাদ পাঞা প্রভু সুস্থির হইলা ৷  
 জগন্নাথের সেবক সব আনন্দে মিলিলা ॥ ৩৪৮ ॥
@@ -3588,7 +3588,7 @@ garlands and prasāda  receiving  the Lord  composed  became
 jagannāthera sevaka saba ānande mililā  
 of Jagannātha  the servants  all  in joy  met Him
 
-(348) Receiving the garlands and *prasāda*, the Lord grew calm, and all the servants of Jagannātha met Him joyfully.
+(348) Receiving the garlands and prasāda, the Lord grew calm, and all the servants of Jagannātha met Him joyfully.
 
 কাশীমিশ্র আসি’ প্রভুর পড়িলা চরণে ৷  
 মান্য করি’ প্রভু তাঁরে কৈল আলিঙ্গনে ॥ ৩৪৯ ॥
@@ -3618,7 +3618,7 @@ excellent  mahā-prasāda  much  he had brought
 pīṭhā-pānā ādi jagannātha ye khāila  
 cakes, sweet drinks  and so on  Jagannātha  that  had eaten
 
-(351) He had a great deal of excellent *mahā-prasāda* brought — cakes, sweet drinks and all that Jagannātha had eaten.
+(351) He had a great deal of excellent mahā-prasāda brought — cakes, sweet drinks and all that Jagannātha had eaten.
 
 মধ্যাহ্ন করিলা প্রভু নিজগণ লঞা ৷  
 সার্ব্বভৌম-ঘরে ভিক্ষা করিল আসিয়া ॥ ৩৫২ ॥
@@ -3838,7 +3838,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^38]: *Anubhāṣya*: from the line of gurus of the Uttararāḍhī Maṭha it is known that in Śrī Mahāprabhu’s time its head was Śrī Raghuvarya Tīrtha (here the edition has “Raghuvīrya”).
 
-[^39]: *Amṛta-pravāha-bhāṣya*: the conclusions of this *sampradāya* are for the most part opposed to pure devotion, yet it has one great merit — it accepts the true and eternal form (*vigraha*) of the Lord. Relying on this principal conclusion, Mahāprabhu’s *parama-guru*, Śrī Mādhavendra Purī, accepted the Madhva *sampradāya*.
+[^39]: *Amṛta-pravāha-bhāṣya*: the conclusions of this sampradāya are for the most part opposed to pure devotion, yet it has one great merit — it accepts the true and eternal form (*vigraha*) of the Lord. Relying on this principal conclusion, Mahāprabhu’s *parama-guru*, Śrī Mādhavendra Purī, accepted the Madhva sampradāya.
 
 [^40]: *Anubhāṣya*: *tāṁra ghare* means “him”: in colloquial Bengali *ghare* after a pronoun in the genitive serves as the accusative. It is the pride of the ācārya himself.
 

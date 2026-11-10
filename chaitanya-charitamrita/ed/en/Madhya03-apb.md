@@ -2,11 +2,11 @@
 
 ## 0
 
-**Summary.** After accepting *sannyāsa* in the village of Kāṭoyā, Śrī Mahāprabhu wandered for three days through Rāḍha-deśa, and by Nityānanda Prabhu’s cleverness He came to the western bank of the Gaṅgā opposite Śāntipura. Taking the Gaṅgā for the Yamunā, the Lord offered her prayers; then Advaita Prabhu came with a boat, bathed Mahāprabhu and took Him to his own house. There the Lord met the residents of Navadvīpa-dhāma and Śrī Śacīmātā. After this meeting Śacīmātā cooked, and while the two Prabhus were eating, Advaita Prabhu played all kinds of jokes with Nityānanda Prabhu. In the afternoon *saṅkīrtana* began with all the devotees. Several days passed in this way. Then the devotees consulted with Śacīmātā and asked Mahāprabhu to live in Nīlācala. Mahāprabhu agreed. Taking with Him Nityānanda, Mukunda, Jagadānanda and Dāmodara, He bade farewell to the devotees of Śāntipura and to Śacīmātā and set out for Śrī Puruṣottama by the road through Chatrabhoga.
+**Summary.** After accepting sannyāsa in the village of Kāṭoyā, Śrī Mahāprabhu wandered for three days through Rāḍha-deśa, and by Nityānanda Prabhu’s cleverness He came to the western bank of the Gaṅgā opposite Śāntipura. Taking the Gaṅgā for the Yamunā, the Lord offered her prayers; then Advaita Prabhu came with a boat, bathed Mahāprabhu and took Him to his own house. There the Lord met the residents of Navadvīpa-dhāma and Śrī Śacīmātā. After this meeting Śacīmātā cooked, and while the two Prabhus were eating, Advaita Prabhu played all kinds of jokes with Nityānanda Prabhu. In the afternoon saṅkīrtana began with all the devotees. Several days passed in this way. Then the devotees consulted with Śacīmātā and asked Mahāprabhu to live in Nīlācala. Mahāprabhu agreed. Taking with Him Nityānanda, Mukunda, Jagadānanda and Dāmodara, He bade farewell to the devotees of Śāntipura and to Śacīmātā and set out for Śrī Puruṣottama by the road through Chatrabhoga.
 
 ## 1
 
-After accepting *sannyāsa*, Śrī Gauracandra, in His love for Kṛṣṇa, wished to go to Vṛndāvana. But His mind was bewildered, and He wandered through Rāḍha-deśa until He reached Śāntipura, where He rejoiced with the devotees. To Him I bow.
+After accepting sannyāsa, Śrī Gauracandra, in His love for Kṛṣṇa, wished to go to Vṛndāvana. But His mind was bewildered, and He wandered through Rāḍha-deśa until He reached Śāntipura, where He rejoiced with the devotees. To Him I bow.
 
 ## 4
 
@@ -18,7 +18,7 @@ The mendicant brāhmaṇa from the land of Avantī said: “I shall take shelter
 
 ## 7–8
 
-Having put on the dress of *sannyāsa*, Mahāprabhu said: “These words of the mendicant are excellent, for they establish the vow of serving Kṛṣṇa’s lotus feet.” The dress of *sannyāsa* spoken of here means fidelity to the Supreme Self (*parātma-niṣṭhā*), which rejects attachment to the material self (*jaḍātma-niṣṭhā*).
+Having put on the dress of sannyāsa, Mahāprabhu said: “These words of the mendicant are excellent, for they establish the vow of serving Kṛṣṇa’s lotus feet.” The dress of sannyāsa spoken of here means fidelity to the Supreme Self (*parātma-niṣṭhā*), which rejects attachment to the material self (*jaḍātma-niṣṭhā*).
 
 ## 28
 
@@ -46,7 +46,7 @@ May the Yamunā, daughter of the Sun, purify our body! She is eternally the vess
 
 ## 101
 
-***Smṛti-dharma*** — the *dharma* of the *smārtas*.
+***Smṛti-dharma*** — the dharma of the *smārtas*.
 
 ## 103
 
@@ -62,6 +62,6 @@ May the Yamunā, daughter of the Sun, purify our body! She is eternally the vess
 
 ## 216
 
-***Chatrabhoga-pathe*** (“by the road through Chatrabhoga”). The Lord went along the bank of the Gaṅgā through Āṭisārā, Pāṇihāṭī and Varāhanagara. At that time the Gaṅgā, south of Calcutta, flowed past Kālīghāṭ, through Bāruipura and other places, then through the “Mathurāpura” police station in the Diamond Harbour subdivision, and fell into the sea in a hundred streams. By that route Mahāprabhu went, along the Chatrabhoga road, at the place called “Ambuliṅga” in the Mathurāpura police station.
+***Chatrabhoga-pathe*** (“by the road through Chatrabhoga”). The Lord went along the bank of the Gaṅgā through Āṭisārā, Pāṇihāṭi and Varāhanagara. At that time the Gaṅgā, south of Calcutta, flowed past Kālīghāṭ, through Bāruipura and other places, then through the “Mathurāpura” police station in the Diamond Harbour subdivision, and fell into the sea in a hundred streams. By that route Mahāprabhu went, along the Chatrabhoga road, at the place called “Ambuliṅga” in the Mathurāpura police station.
 
 *Thus ends the third chapter of the “Amṛta-pravāha-bhāṣya.”*

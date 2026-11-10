@@ -4,7 +4,7 @@
 
 **Summary.** The chapter opens with fourteen verses that establish the truth (*tattva*). In verses 15–17 the author offers the *maṅgalācaraṇa*, the auspicious invocation, glorifying Śrī Madana-mohana, Śrī Govinda and Śrī Gopīnātha. The first of the fourteen verses is a general obeisance to six truths, and the whole chapter is nothing but its detailed explanation. The word “guru” means both the *dīkṣā-guru*, who gives initiation, and the *śikṣā-guru*, who instructs. The disciple must regard them as a manifestation (*prakāśa*) of Kṛṣṇa. The Lord’s devotees (*īśa-bhaktas*) are of two kinds: *siddhas*, who have reached perfection, and *sādhakas*, who are still on the path of practice (*sādhana*). The Lord (*Īśa*) is Kṛṣṇa in His original form, His *svayaṁ-rūpa*, together with His *kāya-vyūhas*, the expansions of His body. The avatāras are of three kinds: *aṁśa-avatāras*, *guṇa-avatāras* and *śaktyāveśa-avatāras*. In this connection the chapter examines the truth of Kṛṣṇa’s *prakāśa*, and with it the truth of *vilāsa*. Kṛṣṇa has three kinds of potency (*śakti*): the Lakṣmīs in Vaikuṇṭha and other abodes, the queens in Dvārakā, and, best of all, the gopīs of Vraja. Kṛṣṇa and His *kāya-vyūhas* are *īśa-tattva*, the truth of the Lord. All the devotees are *āvaraṇa-tattva*, His surrounding retinue, and are therefore a special potency of His. A potency and its possessor are eternally one when they are seen as non-different, and eternally distinct when the potency is seen apart from its possessor. Thus His inconceivable potency establishes one undivided Truth. This conclusion agrees with Vedānta, and its name is *acintya-bhedābheda-tattva*, the truth of inconceivable oneness and difference. The last part of the chapter tells of the true nature (*svarūpa*) and greatness of Śrī Caitanya and Nityānanda.
 
-Śrī Caitanya, Nityānanda, Advaita — the root of *prema* —
+Śrī Caitanya, Nityānanda, Advaita — the root of prema —
 Haridāsa, Svarūpa Gosvāmī,
 Śrī Vaṁśīvadanānanda, Sārvabhauma, Rāmānanda,
 the two brothers Rūpa and Sanātana;
@@ -35,7 +35,7 @@ I am lame and dull-witted. My only refuge is the supremely merciful Śrī Śrī 
 
 ## 17
 
-Śrīmān Gopīnātha, who begins the rapturous *rāsa* dance, stands on the bank by Vaṁśīvaṭa and draws the gopīs with the sound of His flute. May He grant us what is auspicious.
+Śrīmān Gopīnātha, who begins the rapturous rāsa dance, stands on the bank by Vaṁśīvaṭa and draws the gopīs with the sound of His flute. May He grant us what is auspicious.
 
 ## 19
 
@@ -59,7 +59,7 @@ I worship the two gurus, distinguished as the *dīkṣā-guru* and the *śikṣ�
 
 ## 44
 
-All *jīvas* are servants of Kṛṣṇa, so my guru too is in truth Kṛṣṇa’s servant. Even so, I shall know my guru as Kṛṣṇa’s manifestation (*prakāśa*). For the disciple, the guru is the very form of Kṛṣṇa’s manifestation. But Nityānanda, who is Baladeva, is in truth *prakāśa-tattva* whose nature is *vilāsa*.
+All jīvas are servants of Kṛṣṇa, so my guru too is in truth Kṛṣṇa’s servant. Even so, I shall know my guru as Kṛṣṇa’s manifestation (*prakāśa*). For the disciple, the guru is the very form of Kṛṣṇa’s manifestation. But Nityānanda, who is Baladeva, is in truth *prakāśa-tattva* whose nature is *vilāsa*.
 
 ## 46
 
@@ -91,11 +91,11 @@ Before this world was created, I alone existed. Nothing existed apart from Me �
 
 ## 54
 
-The previous verse established knowledge of the nature (*svarūpa*) of the Supreme Truth. But there is no realisation (*vijñāna*) until that knowledge of the *svarūpa-tattva* is made firm by knowing the truth that is other than the *svarūpa*. The truth other than the *svarūpa-tattva* is called *māyā*. This verse sets out knowledge of the *māyā-tattva* in detail. The *svarūpa-tattva* is the *artha*, that is, the true reality. Whatever is perceived outside that truth, and whatever has no place in the perception of the *svarūpa-tattva* itself, should be known as a manifestation of *māyā* (*māyā-vaibhava*) belonging to the *ātma-tattva*. Since this is not easy to grasp, here are two particular examples. Think of the *svarūpa-tattva* as the sun. What is other than the sun is perceived in two forms: as *ābhāsa*, a reflection, and as *tamas*, darkness. The sun’s reflection falls from water onto another place; this is called *ābhāsa*. The side where the sun’s power is not seen is called *tamas*, that is, darkness. The spiritual world is the rays of Bhagavān’s own form. The manifestation of *māyā* is an *ābhāsa* that rests on its likeness to that world; this is the example of *ābhāsa*. The darkness far removed from the spiritual truth (*cit-tattva*) is that same manifestation of *māyā*; this is the second example. The point is this: the *ātma-tattva* and the *māyā-tattva* stand in a twofold relation. First, whatever is manifest as a form other than the *ātma-svarūpa* is *māyā*. And the ignorance, the non-self far removed from the *ātma-svarūpa*, is also *māyā*.
+The previous verse established knowledge of the nature (*svarūpa*) of the Supreme Truth. But there is no realisation (*vijñāna*) until that knowledge of the *svarūpa-tattva* is made firm by knowing the truth that is other than the *svarūpa*. The truth other than the *svarūpa-tattva* is called *māyā*. This verse sets out knowledge of the *māyā-tattva* in detail. The *svarūpa-tattva* is the *artha*, that is, the true reality. Whatever is perceived outside that truth, and whatever has no place in the perception of the *svarūpa-tattva* itself, should be known as a manifestation of māyā (*māyā-vaibhava*) belonging to the *ātma-tattva*. Since this is not easy to grasp, here are two particular examples. Think of the *svarūpa-tattva* as the sun. What is other than the sun is perceived in two forms: as *ābhāsa*, a reflection, and as *tamas*, darkness. The sun’s reflection falls from water onto another place; this is called *ābhāsa*. The side where the sun’s power is not seen is called *tamas*, that is, darkness. The spiritual world is the rays of Bhagavān’s own form. The manifestation of māyā is an *ābhāsa* that rests on its likeness to that world; this is the example of *ābhāsa*. The darkness far removed from the spiritual truth (*cit-tattva*) is that same manifestation of māyā; this is the second example. The point is this: the *ātma-tattva* and the *māyā-tattva* stand in a twofold relation. First, whatever is manifest as a form other than the *ātma-svarūpa* is *māyā*. And the ignorance, the non-self far removed from the *ātma-svarūpa*, is also māyā.
 
 ## 55
 
-The great elements enter beings large and small, yet they also remain independent, as if they had not entered. In the same way I, as the Supersoul (*Paramātmā*), the shelter of their existence, enter all beings in this world of elements, and yet I eternally abide apart in My form as Bhagavān. For the devotees I am the only object of love. The meaning is this. The great elements — earth, water, fire, air and ether — combine and manifest the gross world. They are present within it as its components, yet in their state as great elements they remain independent. In the same way the spiritual Supreme Lord creates the world through His material potency and His potency of the *jīvas*. With one portion of Himself He pervades the world, yet at the same time He eternally abides in His spiritual abode in the fullness of His spiritual form. And the *jīvas*, the tiniest particles of the rays of His spiritual form, taste pure love for Him on the path of pure love. This is the secret.
+The great elements enter beings large and small, yet they also remain independent, as if they had not entered. In the same way I, as the Supersoul (*Paramātmā*), the shelter of their existence, enter all beings in this world of elements, and yet I eternally abide apart in My form as Bhagavān. For the devotees I am the only object of love. The meaning is this. The great elements — earth, water, fire, air and ether — combine and manifest the gross world. They are present within it as its components, yet in their state as great elements they remain independent. In the same way the spiritual Supreme Lord creates the world through His material potency and His potency of the jīvas. With one portion of Himself He pervades the world, yet at the same time He eternally abides in His spiritual abode in the fullness of His spiritual form. And the jīvas, the tiniest particles of the rays of His spiritual form, taste pure love for Him on the path of pure love. This is the secret.
 
 ## 56
 
@@ -105,7 +105,7 @@ One who seeks knowledge of the *ātma-tattva* should examine this subject by *an
 
 The *Śrīmad-Bhāgavatam* contains the teaching of Mahāprabhu Śrī Caitanyadeva in full. The *Bhāgavatam* has 18,000 verses.
 
-The root of everything in those eighteen thousand verses lies in these four. The verse *aham eva* briefly describes the truth of Bhagavān, His own form, His qualities and His *līlās*. The verse *ṛte ’rtham* examines the truths of *māyā*, of the *jīva* and of matter. *Māyā-tattva* appears separately from Bhagavān’s *svarūpa-tattva*. *Jīva-tattva*, through its connection with this *māyā-tattva*, is liable to fall under the control of the *māyā* potency. *Jaḍa-tattva*, matter, is the field of the *jīva*’s enjoyment. From these two verses one should fully grasp knowledge of *sambandha*. The verse *yathā mahānti* says that Bhagavān’s eternal form abides separately, although the truth of Bhagavān is inconceivably one with the *jīvas* and matter and different from them. It also names the supreme goal (*prayojana*): the *jīvas* take shelter at His feet and gain the wealth of great love, *mahā-prema*. The verse *etāvad eva* names the only means to reach this supreme goal: *sādhana-bhakti*. *Sādhana-bhakti* includes injunctions that lead to the goal; as favourable, they are called *anvaya*. Actions that obstruct the goal and produce what is unfavourable are counted among the prohibitions and called *vyatireka*. The truth of practice is called *abhidheya*. *Abhidheya* is the instruction one receives through the direct meaning of the scriptures (*abhidhā-vṛtti*).
+The root of everything in those eighteen thousand verses lies in these four. The verse *aham eva* briefly describes the truth of Bhagavān, His own form, His qualities and His *līlās*. The verse *ṛte ’rtham* examines the truths of māyā, of the jīva and of matter. *Māyā-tattva* appears separately from Bhagavān’s *svarūpa-tattva*. *Jīva-tattva*, through its connection with this *māyā-tattva*, is liable to fall under the control of the māyā potency. *Jaḍa-tattva*, matter, is the field of the jīva’s enjoyment. From these two verses one should fully grasp knowledge of *sambandha*. The verse *yathā mahānti* says that Bhagavān’s eternal form abides separately, although the truth of Bhagavān is inconceivably one with the jīvas and matter and different from them. It also names the supreme goal (*prayojana*): the jīvas take shelter at His feet and gain the wealth of great love, *mahā-prema*. The verse *etāvad eva* names the only means to reach this supreme goal: *sādhana-bhakti*. *Sādhana-bhakti* includes injunctions that lead to the goal; as favourable, they are called *anvaya*. Actions that obstruct the goal and produce what is unfavourable are counted among the prohibitions and called *vyatireka*. The truth of practice is called *abhidheya*. *Abhidheya* is the instruction one receives through the direct meaning of the scriptures (*abhidhā-vṛtti*).
 
 ## 57
 
@@ -141,11 +141,11 @@ Devotees are of two kinds: Bhagavān’s associates and practitioners (*sādhaka
 
 ## 65
 
-The *aṁśa-avatāras* are direct avatāras of Viṣṇu, masters of *māyā*. The *guṇa-avatāras* are avatāras of Bhagavān manifest in the three *guṇas*: *sattva*, *rajas* and *tamas*. The *śaktyāveśa-avatāras* are exalted *jīvas* whom a special potency of Kṛṣṇa enters.
+The *aṁśa-avatāras* are direct avatāras of Viṣṇu, masters of māyā. The *guṇa-avatāras* are avatāras of Bhagavān manifest in the three *guṇas*: *sattva*, *rajas* and *tamas*. The *śaktyāveśa-avatāras* are exalted jīvas whom a special potency of Kṛṣṇa enters.
 
 ## 68–70
 
-Bhagavān manifests in two ways: as *prakāśa* and as *vilāsa*. Kṛṣṇa displayed many forms at once when He married the queens in Dvārakā and when He danced the *rāsa* in Vṛndāvana. Those forms did not differ in shape: one and the same form (*vigraha*) became many. This is Kṛṣṇa’s principal *prakāśa*. But where the *svarūpa* takes another shape, one resembling itself, that manifestation is called *vilāsa*. Baladeva in Vṛndāvana, and Nārāyaṇa, Vāsudeva, Pradyumna, Saṅkarṣaṇa and others in Paravyoma, are *vilāsa* forms in which Bhagavān’s own form appears.
+Bhagavān manifests in two ways: as *prakāśa* and as *vilāsa*. Kṛṣṇa displayed many forms at once when He married the queens in Dvārakā and when He danced the rāsa in Vṛndāvana. Those forms did not differ in shape: one and the same form (*vigraha*) became many. This is Kṛṣṇa’s principal *prakāśa*. But where the *svarūpa* takes another shape, one resembling itself, that manifestation is called *vilāsa*. Baladeva in Vṛndāvana, and Nārāyaṇa, Vāsudeva, Pradyumna, Saṅkarṣaṇa and others in Paravyoma, are *vilāsa* forms in which Bhagavān’s own form appears.
 
 ## 71
 
@@ -153,7 +153,7 @@ What is wonderful is this: the one Kṛṣṇa, each time in a single form, marr
 
 ## 72–74
 
-Śrī Kṛṣṇa, the master of mystic power (*yogeśvara*), by His inconceivable potency manifested a form of Himself between every two gopīs. Adorned by the circle of gopīs, He began the festival of the *rāsa*. When He had entered among them in this way, the gopīs felt that Śrī Kṛṣṇa was embracing them, His arm about their necks. At that moment the gods and their wives appeared in the sky, having come eagerly on hundreds of chariots. Then kettledrums sounded and a rain of flowers began to fall.
+Śrī Kṛṣṇa, the master of mystic power (*yogeśvara*), by His inconceivable potency manifested a form of Himself between every two gopīs. Adorned by the circle of gopīs, He began the festival of the rāsa. When He had entered among them in this way, the gopīs felt that Śrī Kṛṣṇa was embracing them, His arm about their necks. At that moment the gods and their wives appeared in the sky, having come eagerly on hundreds of chariots. Then kettledrums sounded and a rain of flowers began to fall.
 
 ## 75
 
@@ -177,7 +177,7 @@ From *yadyapi āmāra guru* (“although my guru,” verse 44) to *sādhaka-ga�
 
 ## 84
 
-I worship Śrī Kṛṣṇa Caitanya and Nityānanda. Like the sun and the moon, They have risen wondrously at the same time in the land of Gauḍa, which is like Udayācala, the mountain of sunrise. They bestow good fortune and dispel the darkness of the *jīvas*.
+I worship Śrī Kṛṣṇa Caitanya and Nityānanda. Like the sun and the moon, They have risen wondrously at the same time in the land of Gauḍa, which is like Udayācala, the mountain of sunrise. They bestow good fortune and dispel the darkness of the jīvas.
 
 ## 85
 
@@ -189,7 +189,7 @@ I worship Śrī Kṛṣṇa Caitanya and Nityānanda. Like the sun and the moon,
 
 ## 91
 
-This *Śrīmad-Bhāgavatam* was first composed by the great sage Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). It sets forth the highest dharma for those free from envy, that is, kind to all beings. This dharma is free from cheating (*kaitava*), and that cheating includes *dharma*, *artha*, *kāma* and even *mokṣa*. It destroys the threefold miseries of the *jīva*, bestows good fortune and gives knowledge of the true reality. Those who wish to hear the *Bhāgavatam* can hold the Lord captive in their hearts at will. What need, then, is there for any scripture other than the *Bhāgavatam*?
+This *Śrīmad-Bhāgavatam* was first composed by the great sage Śrī Nārāyaṇa in the form of four verses (*catuḥ-ślokī*). It sets forth the highest dharma for those free from envy, that is, kind to all beings. This dharma is free from cheating (*kaitava*), and that cheating includes dharma, *artha*, *kāma* and even *mokṣa*. It destroys the threefold miseries of the jīva, bestows good fortune and gives knowledge of the true reality. Those who wish to hear the *Bhāgavatam* can hold the Lord captive in their hearts at will. What need, then, is there for any scripture other than the *Bhāgavatam*?
 
 ## 92–93
 
@@ -197,11 +197,11 @@ Among these, the chief cheating is the desire for liberation (*mukti*). That is 
 
 ## 94
 
-Śrī Caitanya and Nityānanda, the two brothers, are like the sun and the moon. Rising, They destroy the darkness in the hearts of the *jīvas*. The meaning of these verses is this. The *jīva* is by nature a spiritual truth. The *jīva*’s own original nature (*svadharma*) is devotion to Kṛṣṇa and love for Kṛṣṇa. Pious action (*puṇya*), sinful action (*pāpa*) and the aim of liberation have entered the *jīva* in the guise of his own nature and filled him with the qualities of darkness (*tamo-dharma*). All teachings that establish karma and jñāna are *kaitava*, cheating, and therefore serve the qualities of darkness. Before Caitanya and Nityānanda rose, these qualities of darkness polluted the hearts of the *jīvas*. The two brothers rose, drove the darkness out of the cave of the *jīvas*’ hearts and revealed the true reality (*vastu-tattva*).
+Śrī Caitanya and Nityānanda, the two brothers, are like the sun and the moon. Rising, They destroy the darkness in the hearts of the jīvas. The meaning of these verses is this. The jīva is by nature a spiritual truth. The jīva’s own original nature (*svadharma*) is devotion to Kṛṣṇa and love for Kṛṣṇa. Pious action (*puṇya*), sinful action (*pāpa*) and the aim of liberation have entered the jīva in the guise of his own nature and filled him with the qualities of darkness (*tamo-dharma*). All teachings that establish karma and jñāna are *kaitava*, cheating, and therefore serve the qualities of darkness. Before Caitanya and Nityānanda rose, these qualities of darkness polluted the hearts of the jīvas. The two brothers rose, drove the darkness out of the cave of the jīvas’ hearts and revealed the true reality (*vastu-tattva*).
 
 ## 99
 
-“The two *bhāgavatas*” are the scripture *Bhāgavatam* and the devotee *bhāgavata*, the vessel of the *rasa* of devotion. The brothers let the *jīvas* meet these two face to face, gave them the *rasa* of devotion, and were conquered by the *jīvas*’ love.
+“The two *bhāgavatas*” are the scripture *Bhāgavatam* and the devotee *bhāgavata*, the vessel of the rasa of devotion. The brothers let the jīvas meet these two face to face, gave them the rasa of devotion, and were conquered by the jīvas’ love.
 
 ## 102
 

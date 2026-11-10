@@ -108,7 +108,7 @@ tr: A dog was travelling with Śivānanda. He fed it and took it along with lovi
 
 ## 18
 w: one day  in one  place  the river  across  while crossing
-w: an Oriya  boatman  the dog  not  lets board  into the boat
+w: an Oriyā  boatman  the dog  not  lets board  into the boat
 tr: One day, at a river crossing, an Oriya boatman would not let the dog into his boat.
 
 ## 19
@@ -221,7 +221,7 @@ tr: Because of Anupama he was delayed, and when he came to join the devotees, he
 fn: *Amṛta-pravāha-bhāṣya*: Śrī Rūpa wished to travel to Nīlācala together with Śivānanda and the other devotees, but they had set out before him.
 
 ## 40
-w: in the Oriya land  Satyabhāmā-pura  by name  a village
+w: in the Oriyā land  Satyabhāmā-pura  by name  a village
 w: one  night  in that  village  he made  rest
 tr: In the land of Orissa there is a village called Satyabhāmā-pura. He rested there for one night.
 
@@ -313,7 +313,7 @@ w: so that  to describe  he can  in relation to Kṛṣṇa  in rasa  devotion
 tr: By the mercy of You both, may he gain the power to describe devotion to Kṛṣṇa and its rasas.”
 
 ## 58
-w: Gauḍīya,  Oriya,  all  of the Lord  the devotees
+w: Gauḍīya,  Oriyā,  all  of the Lord  the devotees
 w: of all  became  Rūpa  of affection  the object
 tr: All the Lord’s devotees, from Gauḍa and from Orissa, came to hold Rūpa dear.
 

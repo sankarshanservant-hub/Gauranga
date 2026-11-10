@@ -1350,9 +1350,9 @@ Rāmānanda  with  My  difference of body  only
 শ্রীশিখি মাহিতি, আর মুরারি মাহিতি ॥ ১৩৬ ॥
 
 pratāparudra rājā, āra oḍhra kṛṣṇānanda  
-Pratāparudra  the king,  and  the Oriya  Kṛṣṇānanda  
+Pratāparudra  the king,  and  the Oriyā  Kṛṣṇānanda  
 paramānanda mahāpātra, oḍhra śivānanda  
-Paramānanda  Mahāpātra,  the Oriya  Śivānanda  
+Paramānanda  Mahāpātra,  the Oriyā  Śivānanda  
 bhagavān ācārya, brahmānandākhya bhāratī  
 Bhagavān  Ācārya,  called Brahmānanda  Bhāratī  
 śrī-śikhi māhiti, āra murāri māhiti  
@@ -1474,7 +1474,7 @@ two  kīrtana singers  stay  of Mahāprabhu  at the side
 তপন আচার্য্য, আর রঘু, নীলাম্বর ॥ ১৪৮ ॥
 
 rāmabhadrācārya, āra oḍhra siṁheśvara  
-Rāmabhadrācārya,  and  the Oriya  Siṁheśvara  
+Rāmabhadrācārya,  and  the Oriyā  Siṁheśvara  
 tapana ācārya, āra raghu, nīlāmbara  
 Tapana  Ācārya,  and  Raghu,  Nīlāmbara
 
@@ -1657,11 +1657,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^9]: *Anubhāṣya*: in Navadvīpa he joined the Lord’s kīrtanas at Śrīvāsa’s house and in the home of Candraśekhara; after the Lord’s sannyāsa, on the way to Orissa, he carried His staff and begged alms for Him.
 
-[^10]: *Anubhāṣya*: Rāghava Paṇḍita’s home was in Pānihāṭi on the bank of the Gaṅgā; his samādhi is there, and the Deity Śrī Madana-mohana is still served nearby. Makaradhvaja Kara also lived in Pānihāṭi.
+[^10]: *Anubhāṣya*: Rāghava Paṇḍita’s home was in Pāṇihāṭi on the bank of the Gaṅgā; his samādhi is there, and the Deity Śrī Madana-mohana is still served nearby. Makaradhvaja Kara also lived in Pāṇihāṭi.
 
 [^11]: The bags are described in Antya 10.
 
-[^12]: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came to Pānihāṭi, Purandara Ācārya hurried to Him; the Lord, calling him Father, embraced him in ecstatic love, and seeing the Lord, he wept uncontrollably.
+[^12]: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came to Pāṇihāṭi, Purandara Ācārya hurried to Him; the Lord, calling him Father, embraced him in ecstatic love, and seeing the Lord, he wept uncontrollably.
 
 [^13]: *Amṛta-pravāha-bhāṣya*: the rebuke is described in Antya 3. *Anubhāṣya*: at the Lord’s wish Dāmodara Paṇḍita went to Gauḍa to be with Mother Śacī, and for the Ratha-yātrā he would come to Purī again with the devotees (*Caitanya-bhāgavata*, Antya 9).
 
@@ -1753,11 +1753,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^57]: Heading in the edition: “Their service to Gaura both in Gauḍa and in Oḍra.”
 
-[^58]: Heading in the edition: “The most eminent — (1) Śrī Paramānanda and (2) Śrī Svarūpa.” For the devotees of Nīlācala the numbering of the branches in the headings starts afresh. *Anubhāṣya*: Raghunātha Vaidya (Upādhyāya) came to Nityānanda at Pānihāṭi and in His company showed the mood of Revatī; later he lived in Purī by the sea (*Caitanya-bhāgavata*, Antya 5).
+[^58]: Heading in the edition: “The most eminent — (1) Śrī Paramānanda and (2) Śrī Svarūpa.” For the devotees of Nīlācala the numbering of the branches in the headings starts afresh. *Anubhāṣya*: Raghunātha Vaidya (Upādhyāya) came to Nityānanda at Pāṇihāṭi and in His company showed the mood of Revatī; later he lived in Purī by the sea (*Caitanya-bhāgavata*, Antya 5).
 
 [^59]: *Anubhāṣya*: Sārvabhauma Bhaṭṭācārya, whose name was Vāsudeva, came from Vidyānagara and taught Vedānta in Nīlācala. At first he expounded Vedānta to Mahāprabhu according to Śaṅkara, but then learned its true meaning from Him and saw His six-armed form (Madhya 6); his *Caitanya-śataka* is full of devotion to Gaura. Gopīnātha Ācārya was a brāhmaṇa of Navadvīpa and a companion of the Lord.
 
-[^60]: *Anubhāṣya*: Kāśī Miśra was the king’s priest, and in his house the Lord lived in Nīlācala. Pradyumna Miśra, an Oriya and a great devotee, was sent by the Lord to hear Kṛṣṇa-kathā from Rāmānanda Rāya (Antya 5). Bhavānanda Rāya, the father of Rāmānanda Rāya, lived near Ālālanātha; before, he was King Pāṇḍu.
+[^60]: *Anubhāṣya*: Kāśī Miśra was the king’s priest, and in his house the Lord lived in Nīlācala. Pradyumna Miśra, an Oriyā and a great devotee, was sent by the Lord to hear Kṛṣṇa-kathā from Rāmānanda Rāya (Antya 5). Bhavānanda Rāya, the father of Rāmānanda Rāya, lived near Ālālanātha; before, he was King Pāṇḍu.
 
 [^61]: *Anubhāṣya*: the Lord counted her among Rādhikā’s associates (Antya 2.104–106); in the world, He said, there are three and a half worthy souls — Svarūpa Gosāñi, Rāmānanda Rāya and Śikhi Māhiti, and his sister is the “half.”
 

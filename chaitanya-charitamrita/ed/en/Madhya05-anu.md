@@ -8,7 +8,7 @@
 
 ## 3
 
-> Subheading: At Yājapura the Lord has *darśana* of Varāha-deva —
+> Subheading: At Yājapura the Lord has darśana of Varāha-deva —
 
 ***Yājapura*** is one of the subdivisions of Kaṭaka district. It is called “Nābhi-gayā.” Varāha-deva resides here, in the quarter called “Brāhmaṇanagara.”
 
@@ -48,7 +48,7 @@ Rukmī, the eldest son of Bhīṣmaka, king of Vidarbha, insulted Kṛṣṇa wh
 
 ## 42
 
-The elder brāhmaṇa said: “If I do not give my daughter to the younger brāhmaṇa as I promised, he will call the Deity Śrī Gopāla as witness and win my daughter by force. Then my *dharma* will prove fruitless.”
+The elder brāhmaṇa said: “If I do not give my daughter to the younger brāhmaṇa as I promised, he will call the Deity Śrī Gopāla as witness and win my daughter by force. Then my dharma will prove fruitless.”
 
 ## 43–45
 
@@ -60,7 +60,7 @@ The elder brāhmaṇa’s son was a godless man (*nāstika*), a *smārta*, cleve
 
 ## 63
 
-Greed for wealth makes people lose all discrimination between *dharma* and *adharma*. So the people suspected: “At that time the younger brāhmaṇa, out of greed for money, may even have done violence to the elder brāhmaṇa.”
+Greed for wealth makes people lose all discrimination between dharma and *adharma*. So the people suspected: “At that time the younger brāhmaṇa, out of greed for money, may even have done violence to the elder brāhmaṇa.”
 
 ## 76
 
@@ -112,7 +112,7 @@ Bhagavān asked this question to test the younger brāhmaṇa and to free him fr
 
 ## 140
 
-> Subheading: The *darśana* of Bhuvaneśvara and the rest are described in the *Caitanya-bhāgavata* —
+> Subheading: The darśana of Bhuvaneśvara and the rest are described in the *Caitanya-bhāgavata* —
 
 *Caitanya-bhāgavata*, Antya, Chapter 2: “Then the Lord came to Śrī Bhuvaneśvara, where Śaṅkara lives in Gupta-kāśī. Here Śiva himself, bringing drop by drop the water of all the holy places, created ‘Bindu-sarovara.’ Knowing this lake to be dear to Śiva, Śrī Caitanya bathed in it and so glorified it especially.”
 
@@ -124,13 +124,13 @@ The *Skanda Purāṇa* tells how Śiva obtained Ekāmra-kānana. A king named �
 
 ## 142
 
-> Subheading: The Lord goes for *darśana* of Kapoteśvara, and Nitāi secretly breaks His staff —
+> Subheading: The Lord goes for darśana of Kapoteśvara, and Nitāi secretly breaks His staff —
 
 ***Kapoteśvara*** — a Śiva-liṅga.
 
 ## 143
 
-***The staff.*** At Kāṭoyā Śrī Gaurasundara accepted *ekadaṇḍa-sannyāsa* in the Bhāratī *sampradāya*, which descends from Śaṅkara. Śrī Nityānanda Prabhu broke that *sannyāsa* staff into three pieces and threw it into the Bhārgī River (the present “Daṇḍabhāṅgā”). In the order of *sannyāsa*, the staff is to be kept in the stages of *kuṭīcaka* and *bahūdaka*, but in the stages of *haṁsa* and *paramahaṁsa* one is enjoined to give it up. Gaurahari is the Lord of the fourteen worlds, and, unlike other *sannyāsīs*, He has no need to display a lower stage (*adhikāra*). Knowing this, Nityānanda-svarūpa broke the staff and threw it away.
+***The staff.*** At Kāṭoyā Śrī Gaurasundara accepted *ekadaṇḍa-sannyāsa* in the Bhāratī sampradāya, which descends from Śaṅkara. Śrī Nityānanda Prabhu broke that sannyāsa staff into three pieces and threw it into the Bhārgī River (the present “Daṇḍabhāṅgā”). In the order of sannyāsa, the staff is to be kept in the stages of *kuṭīcaka* and *bahūdaka*, but in the stages of *haṁsa* and *paramahaṁsa* one is enjoined to give it up. Gaurahari is the Lord of the fourteen worlds, and, unlike other sannyāsīs, He has no need to display a lower stage (*adhikāra*). Knowing this, Nityānanda-svarūpa broke the staff and threw it away.
 
 ## 144
 
@@ -140,11 +140,11 @@ The *Skanda Purāṇa* tells how Śiva obtained Ekāmra-kānana. A king named �
 
 ## 145
 
-***Rāja-mārga*** (the royal road) — the road by which pilgrims going for *darśana* of Jagannātha travel from Bengal to Puruṣottama.
+***Rāja-mārga*** (the royal road) — the road by which pilgrims going for darśana of Jagannātha travel from Bengal to Puruṣottama.
 
 ## 146
 
-Śrī Mahāprabhu saw the temple of Śrī Jagannātha from three *krośas* away, and in extreme separation the *sāttvika-vikāras* appeared in Him: He became utterly agitated and full of longing for *darśana* of Bhagavān. In intense separation (*vipralambha*) a moment seems an age, and the *gopīs* blame the Creator for His foolishness in giving the eyes lids. In the same way the three-*krośa* road seemed to Mahāprabhu a distant thousand *yojanas*.
+Śrī Mahāprabhu saw the temple of Śrī Jagannātha from three *krośas* away, and in extreme separation the *sāttvika-vikāras* appeared in Him: He became utterly agitated and full of longing for darśana of Bhagavān. In intense separation (*vipralambha*) a moment seems an age, and the gopīs blame the Creator for His foolishness in giving the eyes lids. In the same way the three-*krośa* road seemed to Mahāprabhu a distant thousand *yojanas*.
 
 ## 147
 
@@ -174,7 +174,7 @@ Nityānanda Prabhu knew that the *ekadaṇḍa* proper to *vaidha-sannyāsa* (*s
 
 ## 154
 
-> Subheading: The Lord expresses His wish to go alone for *darśana* of Jagannātha —
+> Subheading: The Lord expresses His wish to go alone for darśana of Jagannātha —
 
 ## 155
 
@@ -188,13 +188,13 @@ Nityānanda Prabhu knew that the *ekadaṇḍa* proper to *vaidha-sannyāsa* (*s
 
 > Subheading: Only a devotee who sees the Two as nondifferent can understand this pastime —
 
-Only those who have truly understood Śrī Caitanya and Nityānanda, steadily and calmly, will grasp the true nature of the two Prabhus and the meaning of the pastime of breaking the staff. The great souls of the past accepted the staff through service to Kṛṣṇa’s feet and gave up absorption in worldly existence. Mahāprabhu too accepts that a *sādhaka* following the path of the great souls needs *vaidha-sannyāsa*. In *vidvat-sannyāsa* (the *sannyāsa* of those who know) the staff is not needed. But *vivitsā-sannyāsa* — a practice favourable to devotion, a gradual path of renouncing worldly things — is needed in the life of a *sādhaka* in order to teach people: this is Mahāprabhu’s intention. Nityānanda, His servant, knew that carrying the staff, with which Prabhu Gauracandra’s *sannyāsa* began, is in fact unnecessary at the high stage of the *paramahaṁsa*. So that other people of material mind would not commit offence by wrongly thinking that Śrī Mahāprabhu stood at the stage of *kuṭīcaka* or *bahūdaka*, Nityānanda made Him give up the staff and so showed the example of the very highest stage.
+Only those who have truly understood Śrī Caitanya and Nityānanda, steadily and calmly, will grasp the true nature of the two Prabhus and the meaning of the pastime of breaking the staff. The great souls of the past accepted the staff through service to Kṛṣṇa’s feet and gave up absorption in worldly existence. Mahāprabhu too accepts that a *sādhaka* following the path of the great souls needs *vaidha-sannyāsa*. In *vidvat-sannyāsa* (the sannyāsa of those who know) the staff is not needed. But *vivitsā-sannyāsa* — a practice favourable to devotion, a gradual path of renouncing worldly things — is needed in the life of a *sādhaka* in order to teach people: this is Mahāprabhu’s intention. Nityānanda, His servant, knew that carrying the staff, with which Prabhu Gauracandra’s sannyāsa began, is in fact unnecessary at the high stage of the *paramahaṁsa*. So that other people of material mind would not commit offence by wrongly thinking that Śrī Mahāprabhu stood at the stage of *kuṭīcaka* or *bahūdaka*, Nityānanda made Him give up the staff and so showed the example of the very highest stage.
 
 ## 159
 
 > Subheading: Since the speaker and the hearer are both Bhagavān, the story of Sākṣi-gopāla is beyond this world —
 
-(1) The form of Śrī Gopāla is the eternally true *vigraha*. (2) He is Truth Himself embodied: transcending the worldly laws of matter, He always upholds the honour of truth. (3) In a brāhmaṇa’s life it is especially necessary to abide in truth. (4) Kṛṣṇa Himself both establishes brahminhood (*brahmaṇya*) and submits to it; therefore brahminhood that takes shelter of Kṛṣṇa is not merely a thing of *māyā*.
+(1) The form of Śrī Gopāla is the eternally true *vigraha*. (2) He is Truth Himself embodied: transcending the worldly laws of matter, He always upholds the honour of truth. (3) In a brāhmaṇa’s life it is especially necessary to abide in truth. (4) Kṛṣṇa Himself both establishes brahminhood (*brahmaṇya*) and submits to it; therefore brahminhood that takes shelter of Kṛṣṇa is not merely a thing of māyā.
 
 ## 160
 

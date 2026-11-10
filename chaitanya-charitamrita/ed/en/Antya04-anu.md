@@ -26,7 +26,7 @@
 
 ## 9
 
-> Subheading: Regarding himself as a worldly, impure *jīva*, he fears transgressing due reverence (*maryādā*) —
+> Subheading: Regarding himself as a worldly, impure jīva, he fears transgressing due reverence (*maryādā*) —
 
 ## 10
 
@@ -156,7 +156,7 @@ In this connection Śrī Murāri Gupta’s devotion to Śrī Rāma in Madhya 15.
 
 ## 50
 
-> Subheading: The Lord departs and sends *prasāda* to them both —
+> Subheading: The Lord departs and sends prasāda to them both —
 
 ## 51
 
@@ -164,7 +164,7 @@ In this connection Śrī Murāri Gupta’s devotion to Śrī Rāma in Madhya 15.
 
 ## 52
 
-> Subheading: Every day the Lord meets them both and gives them *mahā-prasāda* —
+> Subheading: Every day the Lord meets them both and gives them mahā-prasāda —
 
 ## 54
 
@@ -176,11 +176,11 @@ In this connection Śrī Murāri Gupta’s devotion to Śrī Rāma in Madhya 15.
 
 ## 56
 
-> Subheading: Pure *bhakti* together with *yukta-vairāgya* (fitting renunciation) alone is the means to attain Kṛṣṇa, and nothing else —
+> Subheading: Pure bhakti together with *yukta-vairāgya* (fitting renunciation) alone is the means to attain Kṛṣṇa, and nothing else —
 
 ## 57
 
-> Subheading: Kṛṣṇa abides only in transcendental *bhakti*, made of pure goodness (*viśuddha-sattva*); efforts of *karma* and *jñāna*, made of the mundane *guṇas*, do not bring Kṛṣṇa —
+> Subheading: Kṛṣṇa abides only in transcendental bhakti, made of pure goodness (*viśuddha-sattva*); efforts of karma and jñāna, made of the mundane *guṇas*, do not bring Kṛṣṇa —
 
 ## 58
 
@@ -206,15 +206,15 @@ See Madhya 12.31: “But one who loves has this nature: if he cannot reach the o
 
 > Subheading: Rukmiṇī reveals her *anurāga* to Vāsudeva —
 
-Rukmiṇī, the daughter of Bhīṣmaka, had heard from people of Śrī Kṛṣṇa’s countless excellent qualities and chose Him as her husband. But she learned that her elder brother Rukmī, hostile to Kṛṣṇa, had chosen Śiśupāla, king of Cedi, as her bridegroom. Then in seclusion she wrote a letter full of love and at once sent it to Śrī Kṛṣṇa with a trustworthy *brāhmaṇa*. The *brāhmaṇa* arrived in Dvārakā, Śrī Kṛṣṇa received him with all due honour, and with Śrī Kṛṣṇa’s permission the *brāhmaṇa* began to read Rukmiṇī’s letter:
+Rukmiṇī, the daughter of Bhīṣmaka, had heard from people of Śrī Kṛṣṇa’s countless excellent qualities and chose Him as her husband. But she learned that her elder brother Rukmī, hostile to Kṛṣṇa, had chosen Śiśupāla, king of Cedi, as her bridegroom. Then in seclusion she wrote a letter full of love and at once sent it to Śrī Kṛṣṇa with a trustworthy brāhmaṇa. The brāhmaṇa arrived in Dvārakā, Śrī Kṛṣṇa received him with all due honour, and with Śrī Kṛṣṇa’s permission the brāhmaṇa began to read Rukmiṇī’s letter:
 
 **he ambujākṣa** (O lotus-eyed One), **ātmanaḥ** (their own) **tamaḥ** (ignorance) **apahatyai** (to destroy) **umā-patiḥ** (Śiva) **iva** **mahāntaḥ** (Brahmā and others) **yasya** (Your) **aṅghri-paṅkaja-rajaḥ-snapanam** (bathing in the dust of the lotus feet) **vāñchanti**, (that) **bhavat-prasādam** (Your favour) **yarhi** **aham** **na labheya** (if I do not obtain, then) **vrata-kṛśān** (wasted by vows — fasting and the like) **asūn** (my life) **jahyām** (I shall give up; in this way) **śata-janmabhiḥ** (even after a hundred births, Your favour) **syāt**.
 
 ## 64
 
-> Subheading: The *gopīs*, eager for the *rāsa* dance, reveal their *anurāga* to Śrī Kṛṣṇa —
+> Subheading: The gopīs, eager for the rāsa dance, reveal their *anurāga* to Śrī Kṛṣṇa —
 
-On an autumn night bathed in moonlight, the wives of the cowherds, drawn by the sound of Śrī Kṛṣṇa’s flute, came to Śrī Kṛṣṇa, forgetting themselves. Wishing to increase their *anurāga* still more, He told them to go home. Then the *gopīs*, whose lives were given to Kṛṣṇa, grew sorrowful and, their voices choked and faltering, said to Kṛṣṇa:
+On an autumn night bathed in moonlight, the wives of the cowherds, drawn by the sound of Śrī Kṛṣṇa’s flute, came to Śrī Kṛṣṇa, forgetting themselves. Wishing to increase their *anurāga* still more, He told them to go home. Then the gopīs, whose lives were given to Kṛṣṇa, grew sorrowful and, their voices choked and faltering, said to Kṛṣṇa:
 
 **he aṅga** (O Kṛṣṇa), **tvad-adharāmṛta-pūrakeṇa** (with the flood of nectar from Your lips) **naḥ** (our) **hāsāvaloka-kala-gīta-ja-hṛc-chayāgnim** (the glance with a smile and the sweet song — the sweet sound of the flute; what is born of these and lies, that is, dwells, in the heart is the *hṛc-chaya*, love’s desire; that itself is the fire, the thing that burns — that) **siñca** (quench); **no cet**, **he sakhe**, **vayaṁ** **viraha-jāgny-upayukta-dehāḥ** (our bodies consumed, that is, burned, by the fire born of separation; being such, like *yogīs*) **dhyānena** **te** (Your) **padayoḥ** **padavīm** (nearness) **yāma** (we shall reach).
 
@@ -244,21 +244,21 @@ See Madhya 20.59.
 
 > Subheading: From *abhidheya* come *sambandha* and *prayojana* —
 
-***Nava-vidhā bhakti*** (the nine kinds of devotion): “Hearing about Viṣṇu, chanting, remembering, serving His feet, worship, offering prayers, servitude, friendship and offering oneself.” (*Śrīmad-Bhāgavatam* 7.5.23) The nine kinds of devotion (*abhidheya*) hold the great power to bestow love for Kṛṣṇa (*prayojana*) and Kṛṣṇa Himself (*sambandha*). *Sādhana-bhakti* manifests as *abhidheya* and later attains its true nature, *prema-bhakti*. And love for Kṛṣṇa, the *prayojana*, bestows Kṛṣṇa in full.
+***Nava-vidhā bhakti*** (the nine kinds of devotion): “Hearing about Viṣṇu, chanting, remembering, serving His feet, worship, offering prayers, servitude, friendship and offering oneself.” (*Śrīmad-Bhāgavatam* 7.5.23) The nine kinds of devotion (*abhidheya*) hold the great power to bestow love for Kṛṣṇa (*prayojana*) and Kṛṣṇa Himself (*sambandha*). *Sādhana-bhakti* manifests as *abhidheya* and later attains its true nature, prema-bhakti. And love for Kṛṣṇa, the *prayojana*, bestows Kṛṣṇa in full.
 
 ## 71
 
-> Subheading: Love for Kṛṣṇa is attained only as the fruit of unbroken, untiring *kīrtana* of Kṛṣṇa free of the ten offences —
+> Subheading: Love for Kṛṣṇa is attained only as the fruit of unbroken, untiring kīrtana of Kṛṣṇa free of the ten offences —
 
-Śrī Jīva Gosvāmī Prabhu writes in the *Bhakti-sandarbha* (270): “The *śrutis*, the Purāṇas and other scriptures proclaim that this *bhakti* called *kīrtana* is full of Bhagavān’s boundless compassion, directed exclusively to people poor in wealth, birth, qualities and deeds. <…> Therefore in Kali, when people are by their very nature utterly wretched, it appears among them and, effortlessly granting them the whole fruit of the great *sādhanas* of each age, brings them to fulfilment. That is why in Kali Bhagavān is especially pleased by it alone.” And in the same work (273): “Therefore, even if other forms of *bhakti* are performed in Kali, they should be performed only in conjunction with it (with *kīrtana*).”
+Śrī Jīva Gosvāmī Prabhu writes in the *Bhakti-sandarbha* (270): “The *śrutis*, the Purāṇas and other scriptures proclaim that this bhakti called *kīrtana* is full of Bhagavān’s boundless compassion, directed exclusively to people poor in wealth, birth, qualities and deeds. <…> Therefore in Kali, when people are by their very nature utterly wretched, it appears among them and, effortlessly granting them the whole fruit of the great *sādhanas* of each age, brings them to fulfilment. That is why in Kali Bhagavān is especially pleased by it alone.” And in the same work (273): “Therefore, even if other forms of bhakti are performed in Kali, they should be performed only in conjunction with it (with *kīrtana*).”
 
 Śrī Rūpa Prabhu (*Nāmāṣṭaka* 1): “O Hari-nāma! The tips of Your lotus feet are worshipped, as if with *ārati* lamps, by the radiance of the garland of jewels on the crests of all the *śrutis*. Hosts of liberated souls worship You. I take shelter of You completely.”
 
-Śrī Sanātana Prabhu (*Bṛhad-bhāgavatāmṛta*, ch. 1, verse 9): “All glory, all glory to the name of Murāri, the embodiment of bliss! It puts an end to the labours of one’s own *dharma*, of meditation, worship and the like. Taken up somehow even once, it grants liberation to living beings. It is the supreme nectar, my only life and my ornament.”
+Śrī Sanātana Prabhu (*Bṛhad-bhāgavatāmṛta*, ch. 1, verse 9): “All glory, all glory to the name of Murāri, the embodiment of bliss! It puts an end to the labours of one’s own dharma, of meditation, worship and the like. Taken up somehow even once, it grants liberation to living beings. It is the supreme nectar, my only life and my ornament.”
 
-“O king, for those who are disgusted with the world, for those who seek what they desire and for *yogīs*, one thing has been ascertained: constant chanting of Hari’s name — in it there is no fear at all.” (*Śrīmad-Bhāgavatam* 2.1.11)
+“O king, for those who are disgusted with the world, for those who seek what they desire and for yogīs, one thing has been ascertained: constant chanting of Hari’s name — in it there is no fear at all.” (*Śrīmad-Bhāgavatam* 2.1.11)
 
-“*Bhakti-yoga*, devotion to Bhagavān beginning with chanting His name, is declared the supreme *dharma* for human beings in this world.” (*Śrīmad-Bhāgavatam* 6.3.22)
+“*Bhakti-yoga*, devotion to Bhagavān beginning with chanting His name, is declared the supreme dharma for human beings in this world.” (*Śrīmad-Bhāgavatam* 6.3.22)
 
 Gaurahari (in His own *Śikṣāṣṭaka* 3): “Humbler than a blade of grass, more tolerant than a tree, seeking no honour and honouring others, one should always chant Hari’s name.”
 
@@ -266,13 +266,13 @@ Gaurahari (in His own *Śikṣāṣṭaka* 3): “Humbler than a blade of grass,
 
 ## 72
 
-> Subheading: At the Lord’s wish Sanātana enacts a pastime — giving up the false (*phalgu*) wish to leave his body — and so teaches the *jīvas* —
+> Subheading: At the Lord’s wish Sanātana enacts a pastime — giving up the false (*phalgu*) wish to leave his body — and so teaches the jīvas —
 
 ***Nā bhāya***: it does not seem fitting.
 
 ## 74
 
-> Subheading: The humble words of Sanātana, a Vaiṣṇava *ācārya* who owns nothing (*niṣkiñcana*), his praise of the Lord and his question about what to do with his body —
+> Subheading: The humble words of Sanātana, a Vaiṣṇava ācārya who owns nothing (*niṣkiñcana*), his praise of the Lord and his question about what to do with his body —
 
 ## 76
 
@@ -288,11 +288,11 @@ Gaurahari (in His own *Śikṣāṣṭaka* 3): “Humbler than a blade of grass,
 
 ## 79
 
-> Subheading: In Mathurā-maṇḍala, through Sanātana, the Lord (1) reveals the truth about the devotee and Bhagavān, that is, the truth of *abhidheya*, *sambandha* and *prayojana*; (2) by compiling a Vaiṣṇava *smṛti* establishes the proper conduct of Vaiṣṇavas; (3) shows the ideal of *vaidhī-bhakti* — the worship of Kṛṣṇa’s Deity in *maṭhas*, temples and elsewhere — and the ideal of *rāga*, that is, loving service, within the mind; (4) teaches by restoring the lost holy places and showing a life full of pure *bhakti* with *yukta-vairāgya* —
+> Subheading: In Mathurā-maṇḍala, through Sanātana, the Lord (1) reveals the truth about the devotee and Bhagavān, that is, the truth of *abhidheya*, *sambandha* and *prayojana*; (2) by compiling a Vaiṣṇava *smṛti* establishes the proper conduct of Vaiṣṇavas; (3) shows the ideal of *vaidhī-bhakti* — the worship of Kṛṣṇa’s Deity in *maṭhas*, temples and elsewhere — and the ideal of *rāga*, that is, loving service, within the mind; (4) teaches by restoring the lost holy places and showing a life full of pure bhakti with *yukta-vairāgya* —
 
 ## 79–81
 
-Through Śrī Sanātana Gosvāmī, Śrī Mahāprabhu, first, had him write the *Śrī Bṛhad-bhāgavatāmṛta* and so established the truth about the devotee, devotion and love for Kṛṣṇa. Second, He had him compile the *Śrī Hari-bhakti-vilāsa* and so established the duties and conduct of Vaiṣṇavas. Third, through Sanātana Gosvāmī’s wonderful deeds He introduced in Śrī Vṛndāvana the service of Śrī Vigraha, and through his exemplary character, full of the bliss of *bhajana*, the worship of Vraja (*vraja-bhajana*) within the mind. Fourth, by restoring the *kuṇḍas* and other lost holy places, and by his exemplary devotional life full of the taste of *bhakti* and renunciation, He taught how to live a detached life far from worldly objects, as a pure devotee should be emulated. Śrī Mathurā and Vṛndāvana are a land supremely dear to Śrī Gaurasundara. By settling Śrī Sanātana in that land, the Lord wished to propagate through him all the *dharmas* mentioned above.
+Through Śrī Sanātana Gosvāmī, Śrī Mahāprabhu, first, had him write the *Śrī Bṛhad-bhāgavatāmṛta* and so established the truth about the devotee, devotion and love for Kṛṣṇa. Second, He had him compile the *Śrī Hari-bhakti-vilāsa* and so established the duties and conduct of Vaiṣṇavas. Third, through Sanātana Gosvāmī’s wonderful deeds He introduced in Śrī Vṛndāvana the service of Śrī Vigraha, and through his exemplary character, full of the bliss of *bhajana*, the worship of Vraja (*vraja-bhajana*) within the mind. Fourth, by restoring the *kuṇḍas* and other lost holy places, and by his exemplary devotional life full of the taste of bhakti and renunciation, He taught how to live a detached life far from worldly objects, as a pure devotee should be emulated. Śrī Mathurā and Vṛndāvana are a land supremely dear to Śrī Gaurasundara. By settling Śrī Sanātana in that land, the Lord wished to propagate through him all the *dharmas* mentioned above.
 
 ## 82
 
@@ -314,7 +314,7 @@ Through Śrī Sanātana Gosvāmī, Śrī Mahāprabhu, first, had him write the *
 
 ## 89
 
-> Subheading: Haridāsa’s lesson to the *jīvas*: a conditioned *jīva* should give up false ego only by following the transcendental desire in the heart of the Lord, Adhokṣaja — the desire to please Kṛṣṇa’s senses —
+> Subheading: Haridāsa’s lesson to the jīvas: a conditioned jīva should give up false ego only by following the transcendental desire in the heart of the Lord, Adhokṣaja — the desire to please Kṛṣṇa’s senses —
 
 ## 91
 
@@ -344,7 +344,7 @@ See above, Antya 4.79–81.
 
 ## 97
 
-> Subheading: Through Sanātana the Lord establishes above all pure *bhakti*, and, by compiling a Vaiṣṇava *smṛti*, the conduct of Vaiṣṇavas —
+> Subheading: Through Sanātana the Lord establishes above all pure bhakti, and, by compiling a Vaiṣṇava *smṛti*, the conduct of Vaiṣṇavas —
 
 ## 98
 
@@ -358,7 +358,7 @@ See above, Antya 4.79–81.
 
 ## 100
 
-> Subheading: The *kīrtana*, that is, the preaching, of the pure name of Kṛṣṇa is the very own work of Bhagavān’s avatāra in the form of an *ācārya*; through Haridāsa, the *ācārya* of *kīrtana*, the Lord preaches the Name —
+> Subheading: The kīrtana, that is, the preaching, of the pure name of Kṛṣṇa is the very own work of Bhagavān’s avatāra in the form of an ācārya; through Haridāsa, the ācārya of kīrtana, the Lord preaches the Name —
 
 The Lord carries out His own work, the preaching of Kṛṣṇa’s pure name, through Haridāsa.
 
@@ -372,9 +372,9 @@ The Lord carries out His own work, the preaching of Kṛṣṇa’s pure name, t
 
 ## 103
 
-> Subheading: Only a genuine *ācārya*, all of whose activity is the endeavour to please Kṛṣṇa’s senses, is entitled to preach devotion to the pure Name; the exemplary life of Haridāsa Ṭhākura — a *paramahaṁsa*, a Vaiṣṇava *ācārya*, the guru of the followers of the four *varṇas* and *āśramas* and of the whole world —
+> Subheading: Only a genuine ācārya, all of whose activity is the endeavour to please Kṛṣṇa’s senses, is entitled to preach devotion to the pure Name; the exemplary life of Haridāsa Ṭhākura — a *paramahaṁsa*, a Vaiṣṇava ācārya, the guru of the followers of the four *varṇas* and *āśramas* and of the whole world —
 
-Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*). For both are united in him alone: he is an “*ācārya*,” since he himself, as a *brāhmaṇa* by initiation (*daikṣa-brāhmaṇa*), takes the pure Name; and he is a “preacher,” since by loud *kīrtana* he initiates all the world’s inhabitants into the sacrifice of the Name (*nāma-yajña*). This is his “conduct and preaching” (*ācāra* and *pracāra*).
+Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*). For both are united in him alone: he is an “*ācārya*,” since he himself, as a brāhmaṇa by initiation (*daikṣa-brāhmaṇa*), takes the pure Name; and he is a “preacher,” since by loud kīrtana he initiates all the world’s inhabitants into the sacrifice of the Name (*nāma-yajña*). This is his “conduct and preaching” (*ācāra* and *pracāra*).
 
 ## 104
 
@@ -382,7 +382,7 @@ Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*
 
 ## 105
 
-> Subheading: At the time of the Ratha-yātrā the devotees from Gauḍa come to Purī and have *darśana* —
+> Subheading: At the time of the Ratha-yātrā the devotees from Gauḍa come to Purī and have darśana —
 
 ## 106
 
@@ -428,7 +428,7 @@ Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*
 
 ## 121
 
-> Subheading: Sanātana receives *prasāda*, the remnants of the Lord’s meal —
+> Subheading: Sanātana receives prasāda, the remnants of the Lord’s meal —
 
 ## 122
 
@@ -440,7 +440,7 @@ Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*
 
 ## 126
 
-> Subheading: Sanātana Prabhu is himself a *paramahaṁsa* on the path of spontaneous love (*rāga-mārga*). Yet as an exemplary Vaiṣṇava *ācārya* who honours others (*mānada*), he duly respects, to teach practitioners (*sādhakas*), the propriety (*maryādā*) of the path of Deity worship by regulation (*vaidha arcana-mārga*) —
+> Subheading: Sanātana Prabhu is himself a *paramahaṁsa* on the path of spontaneous love (*rāga-mārga*). Yet as an exemplary Vaiṣṇava ācārya who honours others (*mānada*), he duly respects, to teach practitioners (*sādhakas*), the propriety (*maryādā*) of the path of Deity worship by regulation (*vaidha arcana-mārga*) —
 
 ## 128
 
@@ -452,7 +452,7 @@ Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*
 
 ## 130
 
-> Subheading: The Lord Himself describes the conduct of a devotee, or *sādhu*, and his distinctive qualities —
+> Subheading: The Lord Himself describes the conduct of a devotee, or sādhu, and his distinctive qualities —
 
 ## 131
 
@@ -460,7 +460,7 @@ Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*
 
 ## 132
 
-> Subheading: The Lord, the guru of the world and the teacher of humanity, shows how He values keeping the regulative propriety (*vaidha maryādā*), and, seeing Sanātana’s conduct, accepts him as an *ācārya* —
+> Subheading: The Lord, the guru of the world and the teacher of humanity, shows how He values keeping the regulative propriety (*vaidha maryādā*), and, seeing Sanātana’s conduct, accepts him as an ācārya —
 
 ## 133
 
@@ -502,7 +502,7 @@ Haridāsa Ṭhākura is the universally honoured guru of the world (*jagad-guru*
 
 > Subheading: Sanātana agrees. He knows that Śrī Vṛndāvana-dhāma is Kṛṣṇa’s transcendental abode, yet he sees it above all as “the land the Lord has chosen” — such is Sanātana’s incomparable love for Gaura —
 
-**“Prabhu-datta deśa”** (“the land given by the Lord”). The meaning is this: the place that Śrī Hari, guru and the Vaiṣṇavas — whom the *jīva* eternally worships — have chosen and appointed is itself Śrī Vṛndāvana, the abode of service to Kṛṣṇa that the *jīva* eternally longs for. By living there and giving them pleasure, the *jīva* attains his eternal good.
+**“Prabhu-datta deśa”** (“the land given by the Lord”). The meaning is this: the place that Śrī Hari, guru and the Vaiṣṇavas — whom the jīva eternally worships — have chosen and appointed is itself Śrī Vṛndāvana, the abode of service to Kṛṣṇa that the jīva eternally longs for. By living there and giving them pleasure, the jīva attains his eternal good.
 
 ## 145
 
@@ -596,15 +596,15 @@ Each person has his proper place (*maryādā*). Mahāprabhu did not encourage an
 
 ## 172
 
-> Subheading: Out of humility a devotee free of pride (*amānī*) regards himself as a material *jīva*, the lowest of all. Yet in truth, seen with spiritual vision, he is a transcendental spiritual entity (*brahma-vastu*) whom Bhagavān embraces —
+> Subheading: Out of humility a devotee free of pride (*amānī*) regards himself as a material jīva, the lowest of all. Yet in truth, seen with spiritual vision, he is a transcendental spiritual entity (*brahma-vastu*) whom Bhagavān embraces —
 
 ## 173
 
 A devotee turned towards Kṛṣṇa allows himself no bodily license (*kāmacāra*) to satisfy the desire to enjoy, the desire for his own happiness. He longs for Kṛṣṇa’s happiness and performs all his transcendental worship (*bhajana*) solely for loving service to Kṛṣṇa. The *karmīs* engage the material body, the vessel in which the fruits of action are enjoyed, in enjoying perishable fruits. Devotees have no such aims: wholly and always they accept that their bodies exist only for the service of Hari, and with every bodily act they serve Śrī Kṛṣṇa. The *karmī’s* body is material, because, absorbed in material nature (*prakṛti*), he craves to enjoy material fruits. But a devotee is wholly devoted to Kṛṣṇa’s service: the very existence of his body and all his bodily acts are devoted to transcendental service to Kṛṣṇa. Therefore the devotee’s spiritual (*cinmaya*) body is certainly transcendental (*aprākṛta*).
 
-The *karmīs*, averse to Kṛṣṇa, consider the body of a pure devotee “material,” like their own material bodies, which serve their enjoyment. But pure devotees and their servants never consider the body of a pure devotee “material.” In other words, they do not regard as “equal” or “one” spirit and non-spirit, the transcendental and the material, what is beyond rules and what is subject to them — or Kṛṣṇa and *māyā*, which is other than Kṛṣṇa. They do not invoke, under the pretence of artificial broad-mindedness or impartiality, the doctrine that reconciles spirit and matter (*cij-jaḍa-samanvaya-vāda*), and so they never become offenders against the holy Name. Rather, they know that the pure devotee’s body, full of spiritual bliss, is transcendental in nature, and regard it as fit for Kṛṣṇa’s service.
+The *karmīs*, averse to Kṛṣṇa, consider the body of a pure devotee “material,” like their own material bodies, which serve their enjoyment. But pure devotees and their servants never consider the body of a pure devotee “material.” In other words, they do not regard as “equal” or “one” spirit and non-spirit, the transcendental and the material, what is beyond rules and what is subject to them — or Kṛṣṇa and māyā, which is other than Kṛṣṇa. They do not invoke, under the pretence of artificial broad-mindedness or impartiality, the doctrine that reconciles spirit and matter (*cij-jaḍa-samanvaya-vāda*), and so they never become offenders against the holy Name. Rather, they know that the pure devotee’s body, full of spiritual bliss, is transcendental in nature, and regard it as fit for Kṛṣṇa’s service.
 
-The highest devotee (*uttama-adhikārī*) finds no love for Kṛṣṇa in his own experience, and so he considers himself a pauper, a material *jīva*. But people averse to Kṛṣṇa in the *prākṛta-sahajiyā* and other offshoot sects (*upasampradāyas*) foolishly consider their own material bodies to be “transcendental Vaiṣṇava bodies” — and are cast far away from the pure Vaiṣṇava’s transcendental conduct, that is, from devotion. Seeing this, Ṭhākura Bhaktivinoda, to teach people, wrote in his book *Kalyāṇa-kalpataru*: “If I think, ‘I am a Vaiṣṇava,’ I shall never be free of pride. The desire for prestige will come and defile my heart, and I shall go to hell. Thinking myself the best and giving out my remnants and the like, I shall be weighed down by pride. Therefore I shall always remain your disciple and accept worship from no one.” And Kavirāja Gosvāmī has written (Antya 20.28): “Such is the nature of love: where there is a relation of love, one thinks, ‘I have not even a trace of devotion to Kṛṣṇa.’”
+The highest devotee (*uttama-adhikārī*) finds no love for Kṛṣṇa in his own experience, and so he considers himself a pauper, a material jīva. But people averse to Kṛṣṇa in the *prākṛta-sahajiyā* and other offshoot sects (*upasampradāyas*) foolishly consider their own material bodies to be “transcendental Vaiṣṇava bodies” — and are cast far away from the pure Vaiṣṇava’s transcendental conduct, that is, from devotion. Seeing this, Ṭhākura Bhaktivinoda, to teach people, wrote in his book *Kalyāṇa-kalpataru*: “If I think, ‘I am a Vaiṣṇava,’ I shall never be free of pride. The desire for prestige will come and defile my heart, and I shall go to hell. Thinking myself the best and giving out my remnants and the like, I shall be weighed down by pride. Therefore I shall always remain your disciple and accept worship from no one.” And Kavirāja Gosvāmī has written (Antya 20.28): “Such is the nature of love: where there is a relation of love, one thinks, ‘I have not even a trace of devotion to Kṛṣṇa.’”
 
 ## 174
 
@@ -622,13 +622,13 @@ Bhagavān, while telling Uddhava about pure knowledge of Bhagavān, which He has
 
 > Subheading: The plain essential meaning of the verse —
 
-In the nondual Knowledge, in Vrajendra-nandana, imperishable Truth eternally abides. The *jīva* has become absorbed in a “second” and fallen into the hands of *māyā*, which is other than Kṛṣṇa. Everything such a *jīva* has — judging his own good or ill and the like — is only a property of the mind, whose nature is to accept and reject (*saṅkalpa-vikalpa*). Having forgotten his own true nature (*svarūpa*) and Kṛṣṇa, the *jīva* imagines himself an enjoyer. Therefore his attempts to distinguish good and bad by knowledge born of the senses produce all kinds of delusion.
+In the nondual Knowledge, in Vrajendra-nandana, imperishable Truth eternally abides. The jīva has become absorbed in a “second” and fallen into the hands of māyā, which is other than Kṛṣṇa. Everything such a jīva has — judging his own good or ill and the like — is only a property of the mind, whose nature is to accept and reject (*saṅkalpa-vikalpa*). Having forgotten his own true nature (*svarūpa*) and Kṛṣṇa, the jīva imagines himself an enjoyer. Therefore his attempts to distinguish good and bad by knowledge born of the senses produce all kinds of delusion.
 
 ## 177
 
 > Subheading: (*Bhagavad-gītā* 5.18)
 
-**vidyā-vinaya-sampanne** (endowed with learning and humility — joined with them, shining with every *brāhmaṇa* virtue, and not in one who is foolish and ill-mannered) **brāhmaṇe** (in a *brāhmaṇa*), **śvapāke** (in a *caṇḍāla*, the lowest of all), **gavi** (in the pure cow), **śuni** (in the impure dog), **hastini** (in the elephant, which knows no distinction of pure and impure) **paṇḍitāḥ** (those who know what bondage and liberation are) **sama-darśinaḥ** (those whose nature is to see the same thing, Brahman, in all; that is, those who regard all alike).
+**vidyā-vinaya-sampanne** (endowed with learning and humility — joined with them, shining with every brāhmaṇa virtue, and not in one who is foolish and ill-mannered) **brāhmaṇe** (in a *brāhmaṇa*), **śvapāke** (in a *caṇḍāla*, the lowest of all), **gavi** (in the pure cow), **śuni** (in the impure dog), **hastini** (in the elephant, which knows no distinction of pure and impure) **paṇḍitāḥ** (those who know what bondage and liberation are) **sama-darśinaḥ** (those whose nature is to see the same thing, Brahman, in all; that is, those who regard all alike).
 
 ## 178
 
@@ -640,11 +640,11 @@ In the nondual Knowledge, in Vrajendra-nandana, imperishable Truth eternally abi
 
 > Subheading: Only a *vidvat-sannyāsī*, who has attained *naiṣkarmya* and gone beyond mundane injunctions and prohibitions, or the topmost *mahā-bhāgavata*, sees Viṣṇu everywhere. Therefore his vision is beautiful (*sudarśana*): it has none of the partiality born of the mundane perception of difference —
 
-To see all things alike is the *dharma* of a *sannyāsī*, a *paṇḍita* or a Vaiṣṇava, for he is not absorbed in matter. He has no wish to inhale the fragrance of sandalwood to gratify his senses, nor any wish to avoid the stench of mud for his senses’ pleasure. There are two impulses: to accept material things and to reject them. A Vaiṣṇava who follows *yukta-vairāgya* does not hasten to serve them, that is, to fall under their control. He is indifferent both to mundane enjoyment and to mundane renunciation, and so he is endowed with beautiful vision (*sudarśana*), the vision of spiritual pastimes (*cid-vilāsa*).
+To see all things alike is the dharma of a sannyāsī, a paṇḍita or a Vaiṣṇava, for he is not absorbed in matter. He has no wish to inhale the fragrance of sandalwood to gratify his senses, nor any wish to avoid the stench of mud for his senses’ pleasure. There are two impulses: to accept material things and to reject them. A Vaiṣṇava who follows *yukta-vairāgya* does not hasten to serve them, that is, to fall under their control. He is indifferent both to mundane enjoyment and to mundane renunciation, and so he is endowed with beautiful vision (*sudarśana*), the vision of spiritual pastimes (*cid-vilāsa*).
 
 ## 180
 
-> Subheading: Regarding a transcendental Vaiṣṇava as material is forbidden: by it one may fall from one’s own *dharma* —
+> Subheading: Regarding a transcendental Vaiṣṇava as material is forbidden: by it one may fall from one’s own dharma —
 
 The sixth verse of Śrī Rūpa Prabhu’s *Upadeśāmṛta* says: “Here, in this world, one should not see a devotee as material because of visible defects born of his nature or flaws of his body. For the waters of the Gaṅgā, though bubbles, foam and mud appear in them as properties of water, never lose their nature as liquid Brahman.”
 
@@ -686,7 +686,7 @@ The thought “I am the object of your reverence and respect, that is, of your w
 
 ## 189
 
-> Subheading: The story of the *brāhmaṇa* Vāsudeva, stricken with leprosy —
+> Subheading: The story of the brāhmaṇa Vāsudeva, stricken with leprosy —
 
 **Vāsudevera galat-kuṣṭha** (Vāsudeva’s leprosy, which made his body decay): see Madhya 7.136–148. **Kīḍā-maya**: swarming with worms.
 
@@ -702,9 +702,9 @@ The thought “I am the object of your reverence and respect, that is, of your w
 
 ## 193
 
-> Subheading: It is the *brāhmaṇa* — one who is initiated, that is, who has gained knowledge of his relation with Bhagavān — who, engaging in *viṣṇu-bhakti-yoga* (the *abhidheya*), receives the name “Vaiṣṇava.” Therefore brahminhood is contained in Vaiṣṇavism —
+> Subheading: It is the brāhmaṇa — one who is initiated, that is, who has gained knowledge of his relation with Bhagavān — who, engaging in *viṣṇu-bhakti-yoga* (the *abhidheya*), receives the name “Vaiṣṇava.” Therefore brahminhood is contained in Vaiṣṇavism —
 
-At initiation (*dīkṣā*) the devotee gives up all his mundane perceptions and gains knowledge of his transcendental relation (*sambandha*) with the Lord. Having gained transcendental divine knowledge, he receives, in his transcendental nature, the right to serve Kṛṣṇa. As soon as the surrendered devotee leaves the shelter of *māyā*, which is other than Kṛṣṇa, Kṛṣṇa makes him His own. Then his mundane conception of himself as an “enjoyer” in the realm of material enjoyment vanishes, and in his very sense of self (*asmitā*) eternal service to Kṛṣṇa manifests. Then the devotee realises that in his own true nature, full of eternity, knowledge and bliss, he is an eternal servant, and in a transcendental body he gains the right to serve Kṛṣṇacandra. The devotee serves in *bhāva* with a transcendental body suited to that time. But the *karmīs*, through the fault of mundane thinking, take even this transcendental service for material activity aimed at enjoyment, like their own. By that offence they are deprived of the mercy of the transcendental guru. On this, see Śrī Sanātana Prabhu’s discussion in *Bṛhad-bhāgavatāmṛta* 1.3.45 and 2.3.139.
+At initiation (*dīkṣā*) the devotee gives up all his mundane perceptions and gains knowledge of his transcendental relation (*sambandha*) with the Lord. Having gained transcendental divine knowledge, he receives, in his transcendental nature, the right to serve Kṛṣṇa. As soon as the surrendered devotee leaves the shelter of māyā, which is other than Kṛṣṇa, Kṛṣṇa makes him His own. Then his mundane conception of himself as an “enjoyer” in the realm of material enjoyment vanishes, and in his very sense of self (*asmitā*) eternal service to Kṛṣṇa manifests. Then the devotee realises that in his own true nature, full of eternity, knowledge and bliss, he is an eternal servant, and in a transcendental body he gains the right to serve Kṛṣṇacandra. The devotee serves in *bhāva* with a transcendental body suited to that time. But the *karmīs*, through the fault of mundane thinking, take even this transcendental service for material activity aimed at enjoyment, like their own. By that offence they are deprived of the mercy of the transcendental guru. On this, see Śrī Sanātana Prabhu’s discussion in *Bṛhad-bhāgavatāmṛta* 1.3.45 and 2.3.139.
 
 ## 194
 
@@ -856,7 +856,7 @@ See Madhya 1.31–45 and the Anubhāṣya on those verses, and the *Bhakti-ratn�
 
 ## 235
 
-> Subheading: By Nityānanda’s mercy and by His order Śrī Jīva becomes an *ācārya* —
+> Subheading: By Nityānanda’s mercy and by His order Śrī Jīva becomes an ācārya —
 
 ## 236
 

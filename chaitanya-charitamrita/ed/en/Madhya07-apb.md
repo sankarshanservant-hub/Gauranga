@@ -2,11 +2,11 @@
 
 ## 0
 
-**Summary.** In the bright fortnight of the month of Māgha Mahāprabhu took *sannyāsa*, and in the month of Phālguna He settled in Nīlācala. In Phālguna He saw the Dola-yātrā, in Caitra He delivered Sārvabhauma, and in Vaiśākha He set out on His journey to the south. He proposed to tour the south alone, and so Nityānanda Prabhu gave Him a *brāhmaṇa* named “Kṛṣṇadāsa” as His companion. When the Lord was leaving, Sārvabhauma gave Him four sets of *kaupīnas* and outer cloths (*bahirvāsa*) and asked Him to meet Rāmānanda Rāya on the bank of the Godāvarī. Nityānanda Prabhu and several other devotees went with the Lord as far as Ālālanātha. Leaving them, and taking only Kṛṣṇadāsa with Him, Mahāprabhu walked on, saying, “Kṛṣṇa! Kṛṣṇa!” In whatever village He spent the night, He infused power (*śakti-sañcāra*) into those who surrendered to Him and ordered them to make the whole land Vaiṣṇava. They in turn taught *bhakti* to others, and the number of devotees grew in other villages. In this way the Lord reached Kūrma-sthāna. There He showed mercy to a *brāhmaṇa* named “Kūrma” and delivered a *brāhmaṇa* (*vipra*) named “Vāsudeva” from rotting leprosy. Because He delivered Vāsudeva, the Lord received one of His names, “Vāsudevāmṛta-prada” (He who gave nectar to Vāsudeva).
+**Summary.** In the bright fortnight of the month of Māgha Mahāprabhu took sannyāsa, and in the month of Phālguna He settled in Nīlācala. In Phālguna He saw the Dola-yātrā, in Caitra He delivered Sārvabhauma, and in Vaiśākha He set out on His journey to the south. He proposed to tour the south alone, and so Nityānanda Prabhu gave Him a brāhmaṇa named “Kṛṣṇadāsa” as His companion. When the Lord was leaving, Sārvabhauma gave Him four sets of *kaupīnas* and outer cloths (*bahirvāsa*) and asked Him to meet Rāmānanda Rāya on the bank of the Godāvarī. Nityānanda Prabhu and several other devotees went with the Lord as far as Ālālanātha. Leaving them, and taking only Kṛṣṇadāsa with Him, Mahāprabhu walked on, saying, “Kṛṣṇa! Kṛṣṇa!” In whatever village He spent the night, He infused power (*śakti-sañcāra*) into those who surrendered to Him and ordered them to make the whole land Vaiṣṇava. They in turn taught bhakti to others, and the number of devotees grew in other villages. In this way the Lord reached Kūrma-sthāna. There He showed mercy to a brāhmaṇa named “Kūrma” and delivered a brāhmaṇa (*vipra*) named “Vāsudeva” from rotting leprosy. Because He delivered Vāsudeva, the Lord received one of His names, “Vāsudevāmṛta-prada” (He who gave nectar to Vāsudeva).
 
 ## 1
 
-With a mind softened by compassion, He freed the devotee named “Vāsudeva” from leprosy, endowed him with a beautiful form and made him content in *bhakti*. To that glorious Caitanyadeva I bow.
+With a mind softened by compassion, He freed the devotee named “Vāsudeva” from leprosy, endowed him with a beautiful form and made him content in bhakti. To that glorious Caitanyadeva I bow.
 
 ## 13
 
@@ -18,7 +18,7 @@ Mahāprabhu is all-knowing. He knew full well that Viśvarūpa had already attai
 
 ## 27
 
-[The Lord says:] “Dāmodara Paṇḍita and the others have more of Kṛṣṇa’s mercy. Therefore they do not care what people think, and they want Me to enjoy all sorts of worldly things. But I am a humble *sannyāsī*. I cannot ignore what people think, and so I behave as *dharma* requires.”
+[The Lord says:] “Dāmodara Paṇḍita and the others have more of Kṛṣṇa’s mercy. Therefore they do not care what people think, and they want Me to enjoy all sorts of worldly things. But I am a humble sannyāsī. I cannot ignore what people think, and so I behave as *dharma* requires.”
 
 ## 59
 
@@ -38,7 +38,7 @@ The hearts of extraordinary persons are harder than a thunderbolt and at the sam
 
 ## 99
 
-***Śakti sañcāriyā*** (“infusing power”). The essence of the *hlādinī* potency and the essence of the *saṁvit* potency together constitute “*bhakti-śakti*,” the power of devotion. Anyone into whom Kṛṣṇa or a devotee, out of mercy, infuses this power becomes a “*parama-bhakta*,” a supreme devotee. Whomever Mahāprabhu favoured, He infused with such power and entrusted with preaching Vaiṣṇava *dharma*.
+***Śakti sañcāriyā*** (“infusing power”). The essence of the *hlādinī* potency and the essence of the *saṁvit* potency together constitute “*bhakti-śakti*,” the power of devotion. Anyone into whom Kṛṣṇa or a devotee, out of mercy, infuses this power becomes a “*parama-bhakta*,” a supreme devotee. Whomever Mahāprabhu favoured, He infused with such power and entrusted with preaching Vaiṣṇava dharma.
 
 ## 108
 

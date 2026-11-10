@@ -28,7 +28,7 @@
 
 ## 12
 
-> Subheading: At Paramānanda Purī’s request the Lord sends cloth and *prasāda* to Śacīdevī in Navadvīpa —
+> Subheading: At Paramānanda Purī’s request the Lord sends cloth and prasāda to Śacīdevī in Navadvīpa —
 
 Cloth that is *prasāda* from Śrī Jagannāthadeva’s dress as a cowherd boy (*gopa-veśa*).
 
@@ -98,7 +98,7 @@ A variant reading: “Tell the madman (*bāul*): people have become *āul*.” T
 
 > (*Lalita-mādhava* 3.25; Śrī Rādhā’s words to Viśākhā)
 
-**sakhi** (O friend [Viśākhā]), **nanda-kula-candramāḥ** (Nanda — “he who gladdens”; he is like the ocean of milk, and the moon born in his line is the moon of Nanda’s dynasty) **kva** (where [is He])? **śikhi-candrakālaṅkṛtiḥ** (He whose ornament is the peacock feather) **kva** (where does He stay)? **mandra-muralī-ravaḥ** (He whose flute sounds deep) **kva** (where is He)? **surendra-nīla-dyutiḥ** (He whose lustre is blue like the *surendra* gem, that is, the sapphire [*indranīla*]) **kva**? **rāsa-rasa-tāṇḍavī** (He who in the *rāsa* sport dances with rapture [*tāṇḍava*, dance]) **kva**? **jīva-rakṣauṣadhiḥ** (He who is like a medicine that guards and saves life) **kva**? **mama** **suhṛt-tamaḥ** (dearest) **nidhiḥ** (the source of all riches) **kva**? **bata** (expresses grief) **hā hanta**, **vidhim** (on the Creator) **dhik**.
+**sakhi** (O friend [Viśākhā]), **nanda-kula-candramāḥ** (Nanda — “he who gladdens”; he is like the ocean of milk, and the moon born in his line is the moon of Nanda’s dynasty) **kva** (where [is He])? **śikhi-candrakālaṅkṛtiḥ** (He whose ornament is the peacock feather) **kva** (where does He stay)? **mandra-muralī-ravaḥ** (He whose flute sounds deep) **kva** (where is He)? **surendra-nīla-dyutiḥ** (He whose lustre is blue like the *surendra* gem, that is, the sapphire [*indranīla*]) **kva**? **rāsa-rasa-tāṇḍavī** (He who in the rāsa sport dances with rapture [*tāṇḍava*, dance]) **kva**? **jīva-rakṣauṣadhiḥ** (He who is like a medicine that guards and saves life) **kva**? **mama** **suhṛt-tamaḥ** (dearest) **nidhiḥ** (the source of all riches) **kva**? **bata** (expresses grief) **hā hanta**, **vidhim** (on the Creator) **dhik**.
 
 ## 36
 
@@ -144,9 +144,9 @@ The *gopīs’* loving desire (*kāma*) is like the sun (*arka*), and the *gopī
 
 > (*Śrīmad-Bhāgavatam* 10.39.19)
 
-The *gopīs* of Vraja, whose lives were given to Kṛṣṇa and who were Kṛṣṇa’s beloveds, heard that Śrī Akrūra had come to Vraja only to take Rāma and Kṛṣṇa to Mathurā. Then, fearing the coming separation from Kṛṣṇa, they weep and lament in great grief:
+The gopīs of Vraja, whose lives were given to Kṛṣṇa and who were Kṛṣṇa’s beloveds, heard that Śrī Akrūra had come to Vraja only to take Rāma and Kṛṣṇa to Mathurā. Then, fearing the coming separation from Kṛṣṇa, they weep and lament in great grief:
 
-**aho** (expresses grief) **vidhātaḥ**, **tava** **kvacit** **dayā** **na** (**asti**, there is not, **yataḥ**, because) **maitryā** (by friendship — by acting for their welfare) **praṇayena** (by affection — by tender love) **dehinaḥ** (embodied *jīvas*, one with another) **saṁyojya** **akṛtārthān** (even though they have not yet tasted the happiness [of union]) **tān** **ca** **viyunaṅkṣi** (you separate); **te** (your) **viceṣṭitaṁ** (deeds) **arbhaka-ceṣṭitaṁ** (what a child does out of foolishness) **yathā** (as, [so]) **apārthakaṁ** (are without reason).
+**aho** (expresses grief) **vidhātaḥ**, **tava** **kvacit** **dayā** **na** (**asti**, there is not, **yataḥ**, because) **maitryā** (by friendship — by acting for their welfare) **praṇayena** (by affection — by tender love) **dehinaḥ** (embodied jīvas, one with another) **saṁyojya** **akṛtārthān** (even though they have not yet tasted the happiness [of union]) **tān** **ca** **viyunaṅkṣi** (you separate); **te** (your) **viceṣṭitaṁ** (deeds) **arbhaka-ceṣṭitaṁ** (what a child does out of foolishness) **yathā** (as, [so]) **apārthakaṁ** (are without reason).
 
 ## 46
 
@@ -172,7 +172,7 @@ The *gopīs* of Vraja, whose lives were given to Kṛṣṇa and who were Kṛ�
 
 ## 53
 
-> Subheading: The Lord, seized by divine madness in the mood of the *gopīs* —
+> Subheading: The Lord, seized by divine madness in the mood of the gopīs —
 
 ## 54
 
@@ -184,7 +184,7 @@ The *gopīs* of Vraja, whose lives were given to Kṛṣṇa and who were Kṛ�
 
 ## 57
 
-> Subheading: The night spent in *kīrtana* of the holy names —
+> Subheading: The night spent in kīrtana of the holy names —
 
 ## 58
 
@@ -236,7 +236,7 @@ It is said that Bhagavān Śrī Kṛṣṇa came to Vidura’s house, rested bot
 
 ## 77
 
-> Subheading: The Lord, who relishes the *rasa* of love in separation (*vipralambha*), absorbed in feeling, now sinks, now surfaces —
+> Subheading: The Lord, who relishes the rasa of love in separation (*vipralambha*), absorbed in feeling, now sinks, now surfaces —
 
 ## 78
 
@@ -262,7 +262,7 @@ The Malaya breeze itself carried the fragrance of the flowers and, as a dance te
 
 ## 93
 
-> Subheading: The fragrance of Kṛṣṇa’s body subdues the *gopīs* —
+> Subheading: The fragrance of Kṛṣṇa’s body subdues the gopīs —
 
 ## 94
 
@@ -276,15 +276,15 @@ The two eyes, the navel, the face, the two hands and the two feet — these are 
 
 ## 96
 
-> Subheading: The fragrance of Kṛṣṇa’s body maddens the hearts of the *gopīs* —
+> Subheading: The fragrance of Kṛṣṇa’s body maddens the hearts of the gopīs —
 
 ## 97
 
-> Subheading: The hearts of the *gopīs*, longing to taste the fragrance of Kṛṣṇa’s body —
+> Subheading: The hearts of the gopīs, longing to taste the fragrance of Kṛṣṇa’s body —
 
 ## 98
 
-**jagan-nārī-grāhake lobhāya** — in this world He entices the women of Vraja, the *gopīs*, as customers[^98-1].
+**jagan-nārī-grāhake lobhāya** — in this world He entices the women of Vraja, the gopīs, as customers[^98-1].
 
 ## 99
 
@@ -320,31 +320,31 @@ See Madhya 23.36.
 
 “O bee, friend of a cheat! Do not touch my feet with your whiskers, smeared with *kuṅkuma* from the garland crushed on my rival’s breast. Let the Lord of Madhu please those proud women; He whose messenger is such as you will be mocked in the assembly of the Yadus.” (1)
 
-When Uddhava came to Vraja, the maidens of Vraja sang about Kṛṣṇa, wept and shed garlands of tears. Then one *gopī*, turning her gaze to a bee and meaning Uddhava by “messenger,” remembered her Beloved and said: “O bee, you are the friend of a cheat. How strange is your way of touching feet! Your obeisances will never win my favour. On the tips of your whiskers I see traces of *kuṅkuma*. Kṛṣṇa’s forest garland lay on my rival’s breast, and seeing the crushed *kuṅkuma*, I burn. Mādhava, the friend of the people of Mathurā, is busy winning the favour of proud women. He no longer has any need of the forests of Vraja and no reason to please the *gopīs*. You are the messenger of the Lord of the Yadus; what business have you here? Because of you Kṛṣṇa will be put to shame in the assembly.” (1)
+When Uddhava came to Vraja, the maidens of Vraja sang about Kṛṣṇa, wept and shed garlands of tears. Then one gopī, turning her gaze to a bee and meaning Uddhava by “messenger,” remembered her Beloved and said: “O bee, you are the friend of a cheat. How strange is your way of touching feet! Your obeisances will never win my favour. On the tips of your whiskers I see traces of *kuṅkuma*. Kṛṣṇa’s forest garland lay on my rival’s breast, and seeing the crushed *kuṅkuma*, I burn. Mādhava, the friend of the people of Mathurā, is busy winning the favour of proud women. He no longer has any need of the forests of Vraja and no reason to please the gopīs. You are the messenger of the Lord of the Yadus; what business have you here? Because of you Kṛṣṇa will be put to shame in the assembly.” (1)
 
 “Only once did He make us drink the enchanting nectar of His lips[^107-1], and then at once He abandoned us, as you abandon flowers. How then does Padmā serve His lotus feet? Alas, her mind too must have been stolen by Uttamaḥśloka’s false words.” (2)
 
-What offence did Kṛṣṇa commit against the *gopī* that her heart is so burdened? Hear the reason. Kṛṣṇacandra made her drink His enchanting nectar of the lips, stole the *gopī’s* heart and at once abandoned her. Just so a foolish one like you leaves a lovely flower and flies off, its mind already elsewhere. This is how Kṛṣṇa has dealt with us. Why then has the artless Padmā still not left Kṛṣṇa’s lotus feet, and why does she serve them so carefully? Padmā has believed Kṛṣṇa’s false words. But the *gopīs* are never as unknowing as Padmā. (2)
+What offence did Kṛṣṇa commit against the gopī that her heart is so burdened? Hear the reason. Kṛṣṇacandra made her drink His enchanting nectar of the lips, stole the *gopī’s* heart and at once abandoned her. Just so a foolish one like you leaves a lovely flower and flies off, its mind already elsewhere. This is how Kṛṣṇa has dealt with us. Why then has the artless Padmā still not left Kṛṣṇa’s lotus feet, and why does she serve them so carefully? Padmā has believed Kṛṣṇa’s false words. But the gopīs are never as unknowing as Padmā. (2)
 
 “O six-legged one! Why do you sing so much here, before us homeless women, about the Lord of the Yadus? To us it is an old song. Sing about Him to the friends of Arjuna’s friend: His beloveds, whose burning at the breast He has soothed, will give you what you desire.” (3)
 
-The bee is singing about Kṛṣṇa to please the *gopī*. Understanding this and hearing its sweet tune, the *gopī* says: “Listen, bee: Kṛṣṇa has no home. The Lord of the Yadus has long been known to us. We have heard about Him many times and have come to know Him; we will listen to no more songs. Go to those who are now dear to Kṛṣṇa and sing to them. Those wise ones who have gained Kṛṣṇa’s embrace are free of the burning in the breast and full of love for Kṛṣṇa. Those fortunate ones, His beloveds, will hear your song about Kṛṣṇa, welcome you and give you honour.” (3)
+The bee is singing about Kṛṣṇa to please the gopī. Understanding this and hearing its sweet tune, the gopī says: “Listen, bee: Kṛṣṇa has no home. The Lord of the Yadus has long been known to us. We have heard about Him many times and have come to know Him; we will listen to no more songs. Go to those who are now dear to Kṛṣṇa and sing to them. Those wise ones who have gained Kṛṣṇa’s embrace are free of the burning in the breast and full of love for Kṛṣṇa. Those fortunate ones, His beloveds, will hear your song about Kṛṣṇa, welcome you and give you honour.” (3)
 
 “What women in heaven, on earth or in the lower worlds are beyond the reach of Him whose brows play above His deceitful, charming smile? Śrī herself worships the dust of His feet — what are we? Still, the name ‘Uttamaḥśloka’ befits only one who is merciful to the wretched.” (4)
 
-“O bee, do not tell me that Kṛṣṇacandra remembered the *gopīs* and, tormented by the pain of Anaṅga, anxiously sent you as a messenger to console me. I can say this: all the women in heaven and on earth are within Kṛṣṇa’s reach. Seeing Kṛṣṇa’s brows shining above His deceitful, charming smile, Lakṣmī serves Him constantly. Beside Lakṣmī-devī we are nothing. Though Kṛṣṇa is deceitful, He is sometimes suddenly generous. Tell Him: the name ‘Uttamaḥśloka’ belongs to one who is merciful to the wretched.” (4)
+“O bee, do not tell me that Kṛṣṇacandra remembered the gopīs and, tormented by the pain of Anaṅga, anxiously sent you as a messenger to console me. I can say this: all the women in heaven and on earth are within Kṛṣṇa’s reach. Seeing Kṛṣṇa’s brows shining above His deceitful, charming smile, Lakṣmī serves Him constantly. Beside Lakṣmī-devī we are nothing. Though Kṛṣṇa is deceitful, He is sometimes suddenly generous. Tell Him: the name ‘Uttamaḥśloka’ belongs to one who is merciful to the wretched.” (4)
 
 “Take your head away from my feet! I know you are skilled in coaxing: you have come from Mukunda with a messenger’s flattering words. For His sake we gave up our children, our husbands and everything else in this world and the next, yet He, whose heart is fickle, has abandoned us. How can we make peace with Him?” (5)
 
-Seeing the bee at her feet, as if it had fallen at her toes to beg pardon for an offence, the *gopī* says: “Take your head away from my feet, clever bee! Tell me, what has Mukunda taught you? I have understood in my heart, bee, that you are skilled in sweet words, in pleading and in a messenger’s duty. Do not say, ‘What fault has Mukunda?’ — you wicked bee. I gave up husband and son and even my duty towards the next world; I have no work but service to Kṛṣṇa. Yet Kṛṣṇa, whose heart is fickle, has easily forgotten [us]. There is no need to speak of Him any more; I will not even raise the matter of making peace.” (5)
+Seeing the bee at her feet, as if it had fallen at her toes to beg pardon for an offence, the gopī says: “Take your head away from my feet, clever bee! Tell me, what has Mukunda taught you? I have understood in my heart, bee, that you are skilled in sweet words, in pleading and in a messenger’s duty. Do not say, ‘What fault has Mukunda?’ — you wicked bee. I gave up husband and son and even my duty towards the next world; I have no work but service to Kṛṣṇa. Yet Kṛṣṇa, whose heart is fickle, has easily forgotten [us]. There is no need to speak of Him any more; I will not even raise the matter of making peace.” (5)
 
 “Like a hunter, He cruelly shot the king of the monkeys. Conquered by a woman, He disfigured another woman who came to Him with desire. Having accepted Bali’s gifts, He bound him like a crow. Enough, then, of friendship with the Dark One! Yet it is hard to give up talk of Him.” (6)
 
-“O bee, when the *gopīs* remember Kṛṣṇa’s former incarnations, they grow afraid. When Hari came as Rāma, like a hunter He killed Vāli cruelly and without a thought. When Śūrpaṇakhā came to Rāma full of desire, He, obedient to Sītā, cut off her nose and ears. In the form of Vāmana, Hari received offerings of worship from King Bali, and then, to deceive him, this ‘virtuous’ one bound him like a crow. Friendship with Him is no good, O bee. Yet I know how hard it is to give up the wealth of talk about Him, and so I admit that I have no strength to give it up.” (6)
+“O bee, when the gopīs remember Kṛṣṇa’s former incarnations, they grow afraid. When Hari came as Rāma, like a hunter He killed Vāli cruelly and without a thought. When Śūrpaṇakhā came to Rāma full of desire, He, obedient to Sītā, cut off her nose and ears. In the form of Vāmana, Hari received offerings of worship from King Bali, and then, to deceive him, this ‘virtuous’ one bound him like a crow. Friendship with Him is no good, O bee. Yet I know how hard it is to give up the wealth of talk about Him, and so I admit that I have no strength to give it up.” (6)
 
 “Many who even once taste with their ears a drop of the nectar of His pastimes cast off duality — attachment and aversion — and are ruined. At once leaving their wretched homes and families, they become destitute and live by begging, like birds.” (7)
 
-“We know how powerful talk of Kṛṣṇa is: it destroys the creeper of the three aims of life (*trivarga*) — *dharma*, *artha* and *kāma*. Having drunk with their ears a drop of the nectar of Kṛṣṇa’s pastimes, people become free of attachment and aversion and give up everything. Renouncing enjoyment, they live by begging like birds, and suddenly abandon their homes and kin, full of misery as these are. Even if this is fitting, we are not able to do it.” (7)
+“We know how powerful talk of Kṛṣṇa is: it destroys the creeper of the three aims of life (*trivarga*) — dharma, *artha* and *kāma*. Having drunk with their ears a drop of the nectar of Kṛṣṇa’s pastimes, people become free of attachment and aversion and give up everything. Renouncing enjoyment, they live by begging like birds, and suddenly abandon their homes and kin, full of misery as these are. Even if this is fitting, we are not able to do it.” (7)
 
 “We believed His false words as truth, as a foolish doe believes the hunter’s song. And again and again we, Kṛṣṇa’s beloveds, have felt the sharp pain of love from the touch of His nails. O messenger, speak of something else.” (8)
 
@@ -352,15 +352,15 @@ Seeing the bee at her feet, as if it had fallen at her toes to beg pardon for an
 
 “O friend of my Beloved, have you come back? Has my Beloved sent you? You are worthy of honour, dear one: ask for whatever you wish. But how will you take us to Him, from whom it is so hard to part? For on His chest, O gentle one, His consort Śrī always dwells.” (9)
 
-Having heard all this, the bee flew away and then came back. Seeing this, the *gopī*, after reflecting in her heart, says: “You are the friend of my dear Kṛṣṇa; at Kṛṣṇa’s bidding you have come here again from there. So you are worthy of my honour, best of messengers. Tell me your request — what do you wish? Śrī Kṛṣṇa will never give up union [with Lakṣmī]. Why, then, should you now take the *gopīs* away? I tell you: Śrī Kṛṣṇa’s consort Lakṣmī stays on the Lord’s chest and now serves Him constantly.” (9)
+Having heard all this, the bee flew away and then came back. Seeing this, the gopī, after reflecting in her heart, says: “You are the friend of my dear Kṛṣṇa; at Kṛṣṇa’s bidding you have come here again from there. So you are worthy of my honour, best of messengers. Tell me your request — what do you wish? Śrī Kṛṣṇa will never give up union [with Lakṣmī]. Why, then, should you now take the gopīs away? I tell you: Śrī Kṛṣṇa’s consort Lakṣmī stays on the Lord’s chest and now serves Him constantly.” (9)
 
 “O gentle one! Alas, Nanda’s son now lives in Mathurā. Does He remember His father’s house, His kinsmen and the cowherd boys? Does He ever speak of us, His maidservants? When will He place on our heads His arm, fragrant as aguru?” (10)
 
-Addressing the bee as “gentle one,” the *gopī*, overflowing with emotion, says: “Having returned from His teacher’s house, the Ārya-putra now lives happily in the city of Mathurā and has forgotten the maidens of Vraja. Does He not remember His father’s home? We were His maidservants — has He forgotten us so completely that He never speaks of us? When will He consider me worthy of His care and touch me? When will He place His hand, fragrant with *aguru*, on the *gopī’s* head?” (10)
+Addressing the bee as “gentle one,” the gopī, overflowing with emotion, says: “Having returned from His teacher’s house, the Ārya-putra now lives happily in the city of Mathurā and has forgotten the maidens of Vraja. Does He not remember His father’s home? We were His maidservants — has He forgotten us so completely that He never speaks of us? When will He consider me worthy of His care and touch me? When will He place His hand, fragrant with *aguru*, on the *gopī’s* head?” (10)
 
 ## 108
 
-> Subheading: Even the greatest scholars whose knowledge comes from the senses — those bent on pleasing their own senses, who think themselves learned and are intoxicated with material learning — are unable to understand the transcendental *rasa* of separation (*vipralambha*) —
+> Subheading: Even the greatest scholars whose knowledge comes from the senses — those bent on pleasing their own senses, who think themselves learned and are intoxicated with material learning — are unable to understand the transcendental rasa of separation (*vipralambha*) —
 
 (b) The songs of the queens, as at the end of the Tenth Canto: see *Śrīmad-Bhāgavatam* 10.90.15–24. Namely:
 

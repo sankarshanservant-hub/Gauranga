@@ -2,9 +2,9 @@
 
 ## 1
 
-> Subheading: Only a devotee in whom *prema* has awakened is qualified to follow the Lord’s mood of separation (*vipralambha*) —
+> Subheading: Only a devotee in whom prema has awakened is qualified to follow the Lord’s mood of separation (*vipralambha*) —
 
-**bhāgyavadbhiḥ** (only by great souls who have gained the wealth of *prema*) **gauracandrasya** **premodbhāvita-harṣerṣyodvega-dainyārti-miśritam** (mixed with the feelings evoked, that is, born, of *prema*: elation of heart, intolerance, restlessness, the sense of one’s own smallness, anguish, and so on) **lapitam** (incoherent words) **niṣevyate** (are relished).
+**bhāgyavadbhiḥ** (only by great souls who have gained the wealth of *prema*) **gauracandrasya** **premodbhāvita-harṣerṣyodvega-dainyārti-miśritam** (mixed with the feelings evoked, that is, born, of prema: elation of heart, intolerance, restlessness, the sense of one’s own smallness, anguish, and so on) **lapitam** (incoherent words) **niṣevyate** (are relished).
 
 ## 3
 
@@ -16,7 +16,7 @@
 
 ## 5
 
-> Subheading: The rising of the eight *sāttvika* and thirty-three *vyabhicārī bhāvas* —
+> Subheading: The rising of the eight sāttvika and thirty-three *vyabhicārī bhāvas* —
 
 ## 6
 
@@ -24,7 +24,7 @@
 
 ## 8
 
-> Subheading: The Lord explains that the goal and the means (*sādhya* and *sādhana*, or *upeya* and *upāya*) are not different; the glory of *kīrtana* of the holy name — the highest and most excellent, ultimate *abhidheya*, the avatāra in sound (*śābdika-avatāra*) —
+> Subheading: The Lord explains that the goal and the means (*sādhya* and *sādhana*, or *upeya* and *upāya*) are not different; the glory of kīrtana of the holy name — the highest and most excellent, ultimate *abhidheya*, the avatāra in sound (*śābdika-avatāra*) —
 
 ## 9
 
@@ -60,7 +60,7 @@ See Ādi 3.51.
 
 ## 16
 
-> Subheading: Why the *sādhana* of the name is so easy to obtain, that is, Kṛṣṇa’s great magnanimity; why the *jīva*, in a state of offence — his misfortune — cannot utter the pure name —
+> Subheading: Why the *sādhana* of the name is so easy to obtain, that is, Kṛṣṇa’s great magnanimity; why the jīva, in a state of offence — his misfortune — cannot utter the pure name —
 
 > (The second verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 19)
 
@@ -72,11 +72,11 @@ See Ādi 3.51.
 
 ## 20
 
-> Subheading: The characteristics of chanting the name that leads to *prema* —
+> Subheading: The characteristics of chanting the name that leads to prema —
 
 ## 21
 
-> Subheading: The method of *sādhana* of the name for attaining the goal, *prema* for the name; in other words, the prohibition of identifying oneself with the body (the root of all offences) and the injunction [to chant] without interruption —
+> Subheading: The method of *sādhana* of the name for attaining the goal, prema for the name; in other words, the prohibition of identifying oneself with the body (the root of all offences) and the injunction [to chant] without interruption —
 
 > (The third verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 20)
 
@@ -88,7 +88,7 @@ See Ādi 17.31.
 
 ## 25
 
-> Subheading: Attaining *prema* through *sādhana* of the name joined with knowledge of *sambandha* — seeing Kṛṣṇa everywhere —
+> Subheading: Attaining prema through *sādhana* of the name joined with knowledge of *sambandha* — seeing Kṛṣṇa everywhere —
 
 ## 27
 
@@ -96,9 +96,9 @@ See Ādi 17.31.
 
 ## 28
 
-> Subheading: The mark, or nature, of a devotee filled with *prema* —
+> Subheading: The mark, or nature, of a devotee filled with prema —
 
-Those who are poor in the wealth of *prema*, out of hypocrisy and without having attained *prema*, falsely proclaim to the world that they have attained it. But in fact hypocritical paupers, bereft of the wealth of love for Kṛṣṇa, have no possibility of attaining *prema* by displaying it before people or announcing it. To advertise their own good fortune, the community of *prākṛta-sahajiyās* hypocritically show one another, in many places, the outward signs of *prema*. Pure devotees, far from calling these hypocritical *sahajiyās* “filled with *prema*” (*premikas*), know that even associating with them destroys *bhakti*, and so they shun them. Pure devotees do not teach anyone to hypocritically give such a person the title “*bhakta*” and regard him as equal to a pure devotee. When real *prema* awakens, the *jīva* hides his own glory and strives only for the worship (*bhajana*) of Kṛṣṇa. The hypocritical band of *prākṛta-sahajiyās*, greedy for gold, women, prestige, and the like, condemn pure devotees with labels such as “learned philosopher,” “knower of *tattva*,” and “subtle thinker,” and adorn themselves with titles such as “*rasika*,” “blissful in *bhajana*,” “best of the *bhāgavatas*,” “intoxicated with drinking the *rasa* of the pastimes,” “foremost among *sādhakas* of *rāgānugā* devotion,” “knower of *rasa*,” and “crest jewel of *rasikas*.” In fact they pollute the path of *bhajana* with the material feelings of their own minds, become attached to wicked deeds, and extol only their own false Vaiṣṇavism. Writers of this kind, setting out to write about transcendental *rasa*, make their own material feelings a part of service to Kṛṣṇa. Not knowing the nature of transcendental *vipralambha-rasa*, they take as “*rasa*” only material *sambhoga*, which at heart is tasteless.
+Those who are poor in the wealth of prema, out of hypocrisy and without having attained prema, falsely proclaim to the world that they have attained it. But in fact hypocritical paupers, bereft of the wealth of love for Kṛṣṇa, have no possibility of attaining prema by displaying it before people or announcing it. To advertise their own good fortune, the community of *prākṛta-sahajiyās* hypocritically show one another, in many places, the outward signs of prema. Pure devotees, far from calling these hypocritical *sahajiyās* “filled with *prema*” (*premikas*), know that even associating with them destroys bhakti, and so they shun them. Pure devotees do not teach anyone to hypocritically give such a person the title “*bhakta*” and regard him as equal to a pure devotee. When real prema awakens, the jīva hides his own glory and strives only for the worship (*bhajana*) of Kṛṣṇa. The hypocritical band of *prākṛta-sahajiyās*, greedy for gold, women, prestige, and the like, condemn pure devotees with labels such as “learned philosopher,” “knower of *tattva*,” and “subtle thinker,” and adorn themselves with titles such as “*rasika*,” “blissful in *bhajana*,” “best of the *bhāgavatas*,” “intoxicated with drinking the rasa of the pastimes,” “foremost among *sādhakas* of *rāgānugā* devotion,” “knower of rasa,” and “crest jewel of *rasikas*.” In fact they pollute the path of *bhajana* with the material feelings of their own minds, become attached to wicked deeds, and extol only their own false Vaiṣṇavism. Writers of this kind, setting out to write about transcendental rasa, make their own material feelings a part of service to Kṛṣṇa. Not knowing the nature of transcendental *vipralambha-rasa*, they take as “*rasa*” only material *sambhoga*, which at heart is tasteless.
 
 ## 29
 
@@ -106,7 +106,7 @@ Those who are poor in the wealth of *prema*, out of hypocrisy and without having
 
 > (The fourth verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 85)
 
-**jagad-īśa** (O Jagannātha), (I) **dhanam** **na**, **janam** **na**, **sundarīm** **kavitām** **vā** (and so on — activity rooted in the *trivarga* and deceitful by nature) **na** **kāmaye** (do not pray for; but) **mama** **janmani** **janmani** (therefore I do not desire even the knowledge that frees one from further births [*apaunarbhava*], but) **tvayi** (for You, the Adhokṣaja) **ahaitukī** (free from desires, uninterrupted) **bhaktiḥ** **bhavatāt** (may there be. The meaning is: “I pray neither for enjoyment [*bhukti*], made of *dharma*, *artha*, and *kāma*, nor for liberation [*mukti*], which unties the bonds of *saṁsāra*; I beg only for unmixed, pure service to His feet”).
+**jagad-īśa** (O Jagannātha), (I) **dhanam** **na**, **janam** **na**, **sundarīm** **kavitām** **vā** (and so on — activity rooted in the *trivarga* and deceitful by nature) **na** **kāmaye** (do not pray for; but) **mama** **janmani** **janmani** (therefore I do not desire even the knowledge that frees one from further births [*apaunarbhava*], but) **tvayi** (for You, the Adhokṣaja) **ahaitukī** (free from desires, uninterrupted) **bhaktiḥ** **bhavatāt** (may there be. The meaning is: “I pray neither for enjoyment [*bhukti*], made of dharma, *artha*, and *kāma*, nor for liberation [*mukti*], which unties the bonds of *saṁsāra*; I beg only for unmixed, pure service to His feet”).
 
 ## 30
 
@@ -122,7 +122,7 @@ Those who are poor in the wealth of *prema*, out of hypocrisy and without having
 
 > (The fifth verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 13)
 
-**ayi** **nanda-tanūja** (O son of the king of Vraja, embodiment of the *rasa* of pastimes full of the bliss of service), **viṣame** **bhavāmbudhau** (in the ocean of *saṁsāra*) **patitam** **kiṅkaram** **kṛpayā** (out of compassion) **tava** **pāda-paṅkaja-sthita-dhūlī-sadṛśam** (the foot is a lotus; like the dust that rests on it, stays there, clinging to it — that is, simply as Your own servant, purchased long ago) **mām** **vicintaya** (consider).
+**ayi** **nanda-tanūja** (O son of the king of Vraja, embodiment of the rasa of pastimes full of the bliss of service), **viṣame** **bhavāmbudhau** (in the ocean of *saṁsāra*) **patitam** **kiṅkaram** **kṛpayā** (out of compassion) **tava** **pāda-paṅkaja-sthita-dhūlī-sadṛśam** (the foot is a lotus; like the dust that rests on it, stays there, clinging to it — that is, simply as Your own servant, purchased long ago) **mām** **vicintaya** (consider).
 
 ## 33
 
@@ -206,7 +206,7 @@ A devotee who thinks himself fulfilled in his own happiness is utterly ruined: h
 
 ## 57
 
-> Subheading: The *dharma* of a faithful wife (*pātivratya*), as shown by the wife of a leper brāhmaṇa —
+> Subheading: The dharma of a faithful wife (*pātivratya*), as shown by the wife of a leper brāhmaṇa —
 
 The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29), and the *Padma Purāṇa* tell of the wife of a certain brāhmaṇa afflicted with leprosy. She was the ornament of faithful wives (*pativratās*). To fulfil the desire of her unworthy husband, a leper, she cleaned the house of a prostitute — an abode of sin — and tried to bring her feeble, lustful husband together with the prostitute. When the prostitute agreed, the faithful brāhmaṇa wife, as her husband wished, took her leper husband to the prostitute’s house. That leprous sinner, a brāhmaṇa in name only (*vipra-bandhu*), seeing the faithful wife’s devotion, at last turned back from sin. As he was returning home at night, his foot touched the body of the sage Māṇḍavya, and the sage cursed him. The faithful brāhmaṇa wife heard that the *ṛṣi*, angry because her husband had unknowingly broken his *samādhi*, had cursed him: “Right after sunrise he will lose his life.” Because of this, despite her faithfulness, widowhood was inevitable for her. Then, to prevent it, she vowed to keep the sun from rising. Seeing her efforts, the three chief deities — Brahmā, Viṣṇu, and Śiva — came to her. Pleased with the faithful wife’s devotion to her husband, they arranged for her husband to be cured and to receive a new life. The point is this: only such faithfulness, free of all self-interest (only the desire for the happiness of service), befits pure devotees.
 
@@ -228,7 +228,7 @@ The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29), and the *Padma
 
 ## 62
 
-> Subheading: In the desire to please Kṛṣṇa’s senses there is no desire to please one’s own senses; through the *Śikṣāṣṭaka* the supremely magnanimous Gaura — the avatāra who came to relish worship of Himself and to distribute it (*sva-bhajana-vibhajana-prayojana-avatāra*) — distributes to the *jīvas* the distilled essence of the fruit of *Śrīmad-Bhāgavatam*: *sambandha*, *abhidheya*, and *prayojana* —
+> Subheading: In the desire to please Kṛṣṇa’s senses there is no desire to please one’s own senses; through the *Śikṣāṣṭaka* the supremely magnanimous Gaura — the avatāra who came to relish worship of Himself and to distribute it (*sva-bhajana-vibhajana-prayojana-avatāra*) — distributes to the jīvas the distilled essence of the fruit of *Śrīmad-Bhāgavatam*: *sambandha*, *abhidheya*, and *prayojana* —
 
 A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another variant: *se prema* (that love).
 
@@ -260,7 +260,7 @@ A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another
 
 ## 71
 
-> Subheading: Great pious merit (*sukṛti*) grants a *jīva* the fortune of touching a drop of that ocean —
+> Subheading: Great pious merit (*sukṛti*) grants a jīva the fortune of touching a drop of that ocean —
 
 ## 72
 
@@ -280,7 +280,7 @@ A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another
 
 ## 79
 
-> Subheading: The ocean of Gaura’s pastimes is not of this world and lies beyond the senses (*adhokṣaja*); conditioned souls cannot touch it. Regarding himself as a *jīva*, the author in deep humility merely tries to touch a drop of it —
+> Subheading: The ocean of Gaura’s pastimes is not of this world and lies beyond the senses (*adhokṣaja*); conditioned souls cannot touch it. Regarding himself as a jīva, the author in deep humility merely tries to touch a drop of it —
 
 See *Śrīmad-Bhāgavatam* 1.18.23.
 
@@ -382,9 +382,9 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 156
 
-> Subheading: Kṛṣṇa’s lotus feet alone are the transcendental, unlimited reservoir of *rasa* —
+> Subheading: Kṛṣṇa’s lotus feet alone are the transcendental, unlimited reservoir of rasa —
 
-**kaḥ** **rasikaḥ** **parimala-vāsita-bhuvanam** (by whose fragrance the world is perfumed) **sva-rasonmādita-rasajña-rolambam** (where the bees are the *rasika* devotees, maddened by the *rasa* of *śṛṅgāra*) **giridhara-caraṇāmbhojam** **hātum** (to give up) **samīhate** (tries)?
+**kaḥ** **rasikaḥ** **parimala-vāsita-bhuvanam** (by whose fragrance the world is perfumed) **sva-rasonmādita-rasajña-rolambam** (where the bees are the *rasika* devotees, maddened by the rasa of *śṛṅgāra*) **giridhara-caraṇāmbhojam** **hātum** (to give up) **samīhate** (tries)?
 
 ## 157
 

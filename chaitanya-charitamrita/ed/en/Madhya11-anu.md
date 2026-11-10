@@ -2,9 +2,9 @@
 
 ## 1
 
-> Subheading: Dancing, Gaura plunges the world into the flood of *prema* —
+> Subheading: Dancing, Gaura plunges the world into the flood of prema —
 
-**nānā-bhāvālaṅkṛtāṅgaḥ** (whose body is adorned with the ornaments of many *bhāvas*) **gauracandraḥ** **śrī-jagannātha-gehe** (in the temple of Śrī Jagannāthadeva) **bhaktaiḥ** (with the devotees) **sva-dhāmnā** (by His own sweetness, not of this world) **aty-uddaṇḍaṁ tāṇḍavaṁ** (an exceedingly charming dance and so on) **kurvan** **viśvaṁ** (the world, devoid of spiritual *rasa* and given to material *rasa*) **prema-vanyā-nimagnaṁ cakre** (flooded with waves of love for Kṛṣṇa).
+**nānā-bhāvālaṅkṛtāṅgaḥ** (whose body is adorned with the ornaments of many *bhāvas*) **gauracandraḥ** **śrī-jagannātha-gehe** (in the temple of Śrī Jagannāthadeva) **bhaktaiḥ** (with the devotees) **sva-dhāmnā** (by His own sweetness, not of this world) **aty-uddaṇḍaṁ tāṇḍavaṁ** (an exceedingly charming dance and so on) **kurvan** **viśvaṁ** (the world, devoid of spiritual rasa and given to material *rasa*) **prema-vanyā-nimagnaṁ cakre** (flooded with waves of love for Kṛṣṇa).
 
 ## 3
 
@@ -24,11 +24,11 @@
 
 ## 7
 
-> Subheading: The duty of a *sannyāsī* —
+> Subheading: The duty of a sannyāsī —
 
 ## 8
 
-> Subheading: For one who seeks to rise to *prema*, to look on objects of enjoyment as an enjoyer is strictly forbidden — (the Lord’s words to Sārvabhauma in the *Caitanya-candrodaya*, Act 8, verse 24) —
+> Subheading: For one who seeks to rise to prema, to look on objects of enjoyment as an enjoyer is strictly forbidden — (the Lord’s words to Sārvabhauma in the *Caitanya-candrodaya*, Act 8, verse 24) —
 
 **hā hanta hanta** (an exclamation of extreme grief) **bhava-sāgarasya** (of the ocean of *saṁsāra*) **paraṁ pāraṁ** (to the far shore: to Paravyoma, the abode of the Lord beyond Devī-dhāma) **jigamiṣoḥ** (of one who wishes to go) **niṣkiñcanasya** (free of worldly attachments) **bhagavad-bhajanonmukhasya** (devoted to Kṛṣṇa’s service) **viṣayiṇām** (of those given to enjoying things other than Kṛṣṇa) **atha yoṣitāṁ** (and of the objects of enjoyment) **sandarśanaṁ** (looking at them as objects of enjoyment, and so on) **viṣa-bhakṣaṇataḥ** (than consuming poison that destroys oneself) **api** **asādhu** (is more harmful).
 
@@ -136,7 +136,7 @@ When the chanting of *hari-kathā* by the great devotee, the sage Śrī Maitreya
 
 **yatra** (in whom, in which great *sādhus*) **nityaṁ** (always) **deva-devaḥ** (who contains all the gods) **janārdanaḥ** (Kṛṣṇa) **upagīyate**, **tatra** (in them) **vaikuṇṭha-vartmasu** (in Hari’s servants, who are the path to Vaikuṇṭha, that is, to Śrī Kṛṣṇa, or to the world of Vaikuṇṭha) **sevā** — **alpa-tapasaḥ** (for one of scant pious merit) **durāpā** (is hard to obtain) **hi** (indeed). [The meaning is this: only by serving great souls does one hear *hari-kathā*; from that comes love for Hari, and with it even concern for the body and the like falls away.]
 
-In this connection one should consider the verses: “*Bhakti* is born of association with the Lord’s devotees, and people obtain the association of saints through pious merit accumulated in the past”; and: “O king, those whose pious merit is slight never come to have faith in *mahā-prasāda*, in Govinda, in the Name, which is Brahman, and in the Vaiṣṇava” (*Padma Purāṇa*).
+In this connection one should consider the verses: “*Bhakti* is born of association with the Lord’s devotees, and people obtain the association of saints through pious merit accumulated in the past”; and: “O king, those whose pious merit is slight never come to have faith in mahā-prasāda, in Govinda, in the Name, which is Brahman, and in the Vaiṣṇava” (*Padma Purāṇa*).
 
 ## 33
 
@@ -156,7 +156,7 @@ In this connection one should consider the verses: “*Bhakti* is born of associ
 
 ## 37–38
 
-The *jīva* is like the rider of a chariot; the *jīva’s* feet are the chariot; the *jīva’s* mind is the charioteer who drives it. So wherever the charioteer, the mind, takes the rider, the *jīva*, on the chariot of the feet, there the *jīva* goes.
+The jīva is like the rider of a chariot; the *jīva’s* feet are the chariot; the *jīva’s* mind is the charioteer who drives it. So wherever the charioteer, the mind, takes the rider, the jīva, on the chariot of the feet, there the jīva goes.
 
 The *Kaṭha Upaniṣad* (third *vallī*, 3–6, 9)[^37-1] says: “Know the self to be the rider and the body the chariot. Know the intellect to be the charioteer and the mind the reins. The senses, they say, are the horses, and the sense objects their roads. The one joined with body, senses and mind the wise call the enjoyer. He who lacks understanding and whose mind is always unrestrained — his senses are unruly, like a charioteer’s vicious horses. But he who has understanding and whose mind is always restrained — his senses obey, like a charioteer’s good horses. <…> The man whose charioteer is understanding and who holds the reins of the mind reaches the end of the road — that supreme abode of Viṣṇu.”
 
@@ -232,7 +232,7 @@ The *Kaṭha Upaniṣad* (third *vallī*, 3–6, 9)[^37-1] says: “Know the sel
 
 ## 62
 
-***Anavasara*** — after the Snāna-yātrā, the paint on Śrī Jagannāthadeva’s body (*aṅga-rāga*) and so on is renewed; for this the Śrī Vigraha stays elsewhere, out of sight of those who come for *darśana*. This period is called *anavasara*.
+***Anavasara*** — after the Snāna-yātrā, the paint on Śrī Jagannāthadeva’s body (*aṅga-rāga*) and so on is renewed; for this the Śrī Vigraha stays elsewhere, out of sight of those who come for darśana. This period is called *anavasara*.
 
 ## 63
 
@@ -260,7 +260,7 @@ The *Kaṭha Upaniṣad* (third *vallī*, 3–6, 9)[^37-1] says: “Know the sel
 
 ## 68
 
-> Subheading: News that they have gathered at Narendra lake, and a request to arrange *prasāda*, lodgings and the like for them —
+> Subheading: News that they have gathered at Narendra lake, and a request to arrange prasāda, lodgings and the like for them —
 
 ## 69
 
@@ -276,7 +276,7 @@ The *Kaṭha Upaniṣad* (third *vallī*, 3–6, 9)[^37-1] says: “Know the sel
 
 ## 74
 
-> Subheading: Sent by the Lord, Dāmodara-svarūpa and Govinda welcome the devotees with garlands and *prasāda* —
+> Subheading: Sent by the Lord, Dāmodara-svarūpa and Govinda welcome the devotees with garlands and prasāda —
 
 ## 76
 
@@ -342,21 +342,21 @@ The *Kaṭha Upaniṣad* (third *vallī*, 3–6, 9)[^37-1] says: “Know the sel
 
 ## 94
 
-> Subheading: The king is amazed to see the Vaiṣṇavas’ radiance and hear their unprecedented *kīrtana* —
+> Subheading: The king is amazed to see the Vaiṣṇavas’ radiance and hear their unprecedented kīrtana —
 
 ## 97
 
-> Subheading: Śrī Kṛṣṇa Caitanya, the founder of *saṅkīrtana* —
+> Subheading: Śrī Kṛṣṇa Caitanya, the founder of saṅkīrtana —
 
 ## 98
 
-> Subheading: Preaching that turns averse *jīvas* towards Kṛṣṇa is itself *śrī-kīrtana* —
+> Subheading: Preaching that turns averse jīvas towards Kṛṣṇa is itself *śrī-kīrtana* —
 
 ## 99
 
 > Subheading: One who has gained consciousness shows intelligence in chanting about Gaura, while dullness is foolishness —
 
-A *jīva* who has gained consciousness and is eager to serve sings of Kṛṣṇa, and his word is full of consciousness. Only by the power of such a word does another *jīva* awaken to consciousness, acquire the disposition to serve and become a pure servant. In this way pure devotees increase their own kin, and in such worship lies Kṛṣṇa Caitanya’s joy; in this the *jīva* shows the highest intelligence. A petty *jīva*, selfishly attached to dead matter, also performs wild dancing, *kīrtana* and the like, but all of it is rooted in disbelief and doubt that the Real Entity is the supreme object of service. Therefore it shows only dullness: it is mere fleeting, artificial sentimentality and excitement, or agitation.
+A jīva who has gained consciousness and is eager to serve sings of Kṛṣṇa, and his word is full of consciousness. Only by the power of such a word does another jīva awaken to consciousness, acquire the disposition to serve and become a pure servant. In this way pure devotees increase their own kin, and in such worship lies Kṛṣṇa Caitanya’s joy; in this the jīva shows the highest intelligence. A petty jīva, selfishly attached to dead matter, also performs wild dancing, kīrtana and the like, but all of it is rooted in disbelief and doubt that the Real Entity is the supreme object of service. Therefore it shows only dullness: it is mere fleeting, artificial sentimentality and excitement, or agitation.
 
 ## 100
 
@@ -396,7 +396,7 @@ See Madhya 6.84.
 
 ## 108
 
-> Subheading: Seeing Vāṇīnātha carrying a great deal of *prasāda*, the king asks the reason —
+> Subheading: Seeing Vāṇīnātha carrying a great deal of prasāda, the king asks the reason —
 
 ## 110
 
@@ -404,7 +404,7 @@ See Madhya 6.84.
 
 ## 111
 
-> Subheading: The king asks why they take *prasāda* without observing the rules of fasting and shaving the head —
+> Subheading: The king asks why they take prasāda without observing the rules of fasting and shaving the head —
 
 On coming to a holy place, to destroy one’s sins, one should observe restraint the day before and fast the next day. To destroy the sins that reside in the head, one should shave the head and so on. For what purpose do they give up these rules of the holy place and eat?
 
@@ -432,7 +432,7 @@ On coming to a holy place, to destroy one’s sins, one should observe restraint
 
 > Subheading: The evidence of the *Bhāgavatam* — (*Śrīmad-Bhāgavatam* 4.29.46) —
 
-Through the story of Purañjana, Śrī Nārada Gosvāmī, who is fixed in Brahman, described to King Prācīnabarhi the wretched fate of the enjoying *jīva*, the *karmī*, and of *karma-kāṇḍa*. Then he says that without the Lord’s mercy none of them — not Brahmā, Rudra, Manu, the *prajāpatis* Dakṣa and others, the four Kumāras, lifelong celibates (*naiṣṭhika-brahmacārīs*), Marīci, Atri, Aṅgirā, Pulastya, Pulaha, Kratu, Bhṛgu, Vasiṣṭha, nor he himself — could attain knowledge of the Lord. In this way he describes the fruit of the Lord’s mercy:
+Through the story of Purañjana, Śrī Nārada Gosvāmī, who is fixed in Brahman, described to King Prācīnabarhi the wretched fate of the enjoying jīva, the *karmī*, and of *karma-kāṇḍa*. Then he says that without the Lord’s mercy none of them — not Brahmā, Rudra, Manu, the *prajāpatis* Dakṣa and others, the four Kumāras, lifelong celibates (*naiṣṭhika-brahmacārīs*), Marīci, Atri, Aṅgirā, Pulastya, Pulaha, Kratu, Bhṛgu, Vasiṣṭha, nor he himself — could attain knowledge of the Lord. In this way he describes the fruit of the Lord’s mercy:
 
 **bhagavān** **yadā** **ātma-bhāvitaḥ** (when He is contemplated in the heart, worshipped, and reveals Himself there) **yam** **anugṛhṇāti** (shows mercy to someone), **tadā** **saḥ** **loke** (in worldly dealings) **vede** (in performing Vedic rites) **ca** **pariniṣṭhitām** (attached) **matiṁ** **jahāti** (gives up).
 
@@ -446,7 +446,7 @@ Through the story of Purañjana, Śrī Nārada Gosvāmī, who is fixed in Brahma
 
 ## 120–122
 
-King Pratāparudra told the *paḍichā-pātra* to see to the devotees who had come to Mahāprabhu from Gauḍa and other lands: they were to have good lodgings and good *prasāda*, and nothing was to hinder them in seeing Jagannātha properly and so on. And so that the devotees would be at ease in every way, even without receiving an explicit order from Mahāprabhu they were to understand His hint and at once carry out whatever needed to be done.
+King Pratāparudra told the *paḍichā-pātra* to see to the devotees who had come to Mahāprabhu from Gauḍa and other lands: they were to have good lodgings and good prasāda, and nothing was to hinder them in seeing Jagannātha properly and so on. And so that the devotees would be at ease in every way, even without receiving an explicit order from Mahāprabhu they were to understand His hint and at once carry out whatever needed to be done.
 
 ## 123
 
@@ -602,7 +602,7 @@ King Pratāparudra told the *paḍichā-pātra* to see to the devotees who had c
 
 ## 174
 
-> Subheading: Vāṇīnātha is put in charge of *prasāda* —
+> Subheading: Vāṇīnātha is put in charge of prasāda —
 
 ## 175
 
@@ -620,11 +620,11 @@ This place is now known as the Siddha-bakula Maṭha.
 
 ## 179
 
-> Subheading: Taking leave, they charge Gopīnātha with choosing the lodgings and Vāṇīnātha with arranging *prasāda* —
+> Subheading: Taking leave, they charge Gopīnātha with choosing the lodgings and Vāṇīnātha with arranging prasāda —
 
 ## 182
 
-> Subheading: The Lord invites all the devotees to bathe, see the temple spire, and come to honour *prasāda* —
+> Subheading: The Lord invites all the devotees to bathe, see the temple spire, and come to honour prasāda —
 
 ## 184
 
@@ -656,7 +656,7 @@ This place is now known as the Siddha-bakula Maṭha.
 
 ## 191
 
-> Subheading: Only the devotee of Kṛṣṇa has truly studied the Vedas and Vedānta with their auxiliaries, and he is the guru of all *brāhmaṇas* and *sannyāsīs* —
+> Subheading: Only the devotee of Kṛṣṇa has truly studied the Vedas and Vedānta with their auxiliaries, and he is the guru of all brāhmaṇas and sannyāsīs —
 
 ## 192
 
@@ -664,7 +664,7 @@ This place is now known as the Siddha-bakula Maṭha.
 
 Devahūti offers prayers to the Lord, Kapila, and in this connection glorifies the greatness of His devotee, who possesses every virtue:
 
-**yat** (on whose) **jihvāgre** (tip of the tongue) **tubhyam** (Your) **nāma** **vartate**, **ataḥ** (therefore — because he bears the name of a *brāhmaṇa* by initiation) **saḥ** **śva-pacaḥ** (born in a low family, an *antyaja* or the like by birth) **api** **garīyān** (is the best), **aho bata** (how wonderful!). **ye** **te** (Your) **nāma** **gṛṇanti** (utter), **te** **tapaḥ** **tepuḥ** (have performed austerity — that is, they surpass the ascetics), **juhuvuḥ** (have performed *homa*), **sasnuḥ** (have bathed in all the holy places), **āryāḥ** (of righteous conduct) **brahma** (the Vedas with their auxiliaries) **anūcuḥ** (have studied). For the facts of this and an explanation of the previous verse, see the *Śrī Gauḍīya-bhāṣya*.
+**yat** (on whose) **jihvāgre** (tip of the tongue) **tubhyam** (Your) **nāma** **vartate**, **ataḥ** (therefore — because he bears the name of a brāhmaṇa by initiation) **saḥ** **śva-pacaḥ** (born in a low family, an *antyaja* or the like by birth) **api** **garīyān** (is the best), **aho bata** (how wonderful!). **ye** **te** (Your) **nāma** **gṛṇanti** (utter), **te** **tapaḥ** **tepuḥ** (have performed austerity — that is, they surpass the ascetics), **juhuvuḥ** (have performed *homa*), **sasnuḥ** (have bathed in all the holy places), **āryāḥ** (of righteous conduct) **brahma** (the Vedas with their auxiliaries) **anūcuḥ** (have studied). For the facts of this and an explanation of the previous verse, see the *Śrī Gauḍīya-bhāṣya*.
 
 ## 193
 
@@ -690,7 +690,7 @@ Following the worldly rules of the *smṛti*, Śrī Haridāsa Ṭhākura conside
 
 ## 198
 
-> Subheading: Having seen the temple spire, everyone honours *prasāda* —
+> Subheading: Having seen the temple spire, everyone honours prasāda —
 
 ## 199
 
@@ -702,7 +702,7 @@ Following the worldly rules of the *smṛti*, Śrī Haridāsa Ṭhākura conside
 
 ## 201
 
-> Subheading: Until the Lord eats, no one will honour *prasāda* —
+> Subheading: Until the Lord eats, no one will honour prasāda —
 
 ## 202
 
@@ -714,11 +714,11 @@ Following the worldly rules of the *smṛti*, Śrī Haridāsa Ṭhākura conside
 
 ## 206
 
-> Subheading: The Lord stops serving and sends *prasāda* to Haridāsa through Govinda —
+> Subheading: The Lord stops serving and sends prasāda to Haridāsa through Govinda —
 
 ## 207
 
-> Subheading: The Lord honours *prasāda* with the *sannyāsīs*, and the Ācārya serves —
+> Subheading: The Lord honours prasāda with the sannyāsīs, and the Ācārya serves —
 
 ***The Ācārya*** — Śrī Gopīnātha Ācārya.
 
@@ -728,9 +728,9 @@ Following the worldly rules of the *smṛti*, Śrī Haridāsa Ṭhākura conside
 
 ## 209
 
-> Subheading: Calling out Hari’s name while honouring *prasāda* —
+> Subheading: Calling out Hari’s name while honouring prasāda —
 
-At that time the pure *sampradāya* had the custom of calling out Hari’s name while honouring *prasāda*.
+At that time the pure sampradāya had the custom of calling out Hari’s name while honouring prasāda.
 
 ## 210
 
@@ -746,23 +746,23 @@ At that time the pure *sampradāya* had the custom of calling out Hari’s name 
 
 ## 213
 
-> Subheading: In the evening *kīrtana* begins with the devotees in the temple courtyard —
+> Subheading: In the evening kīrtana begins with the devotees in the temple courtyard —
 
 ## 215
 
-> Subheading: The *paḍichā* gives everyone garlands and sandal paste; on four sides the great *kīrtana* of the four groups begins —
+> Subheading: The *paḍichā* gives everyone garlands and sandal paste; on four sides the great kīrtana of the four groups begins —
 
 ## 218
 
-> Subheading: Hearing the *kīrtana*, many residents of Purī come and are amazed —
+> Subheading: Hearing the kīrtana, many residents of Purī come and are amazed —
 
 ## 220
 
-> Subheading: The “*beḍā-nṛtya*” *kīrtana*, that is, *kīrtana* circling the temple —
+> Subheading: The “*beḍā-nṛtya*” kīrtana, that is, kīrtana circling the temple —
 
 ## 221
 
-> Subheading: The Lord’s eight *sāttvika* transformations —
+> Subheading: The Lord’s eight sāttvika transformations —
 
 ## 225
 
@@ -778,7 +778,7 @@ At that time the pure *sampradāya* had the custom of calling out Hari’s name 
 
 ## 229
 
-> Subheading: The Lord stays in the midst of the *kīrtana* and, to see all four dance, reveals His divine power —
+> Subheading: The Lord stays in the midst of the kīrtana and, to see all four dance, reveals His divine power —
 
 ## 233
 
@@ -790,11 +790,11 @@ At that time the pure *sampradāya* had the custom of calling out Hari’s name 
 
 ## 235
 
-> Subheading: The dancing of the great *saṅkīrtana* —
+> Subheading: The dancing of the great saṅkīrtana —
 
 ## 236
 
-> Subheading: Pratāparudra watches the *kīrtana* from the roof of his palace —
+> Subheading: Pratāparudra watches the kīrtana from the roof of his palace —
 
 ## 237
 
@@ -802,11 +802,11 @@ At that time the pure *sampradāya* had the custom of calling out Hari’s name 
 
 ## 238
 
-> Subheading: After the *kīrtana*, having seen the *puṣpāñjali*, the Lord comes home with the devotees —
+> Subheading: After the kīrtana, having seen the *puṣpāñjali*, the Lord comes home with the devotees —
 
 ## 239
 
-> Subheading: Everyone honours *prasāda* distributed by the Lord’s hand —
+> Subheading: Everyone honours prasāda distributed by the Lord’s hand —
 
 ## 240
 
@@ -814,7 +814,7 @@ At that time the pure *sampradāya* had the custom of calling out Hari’s name 
 
 ## 241
 
-> Subheading: As long as they stayed with the Lord, all enjoyed *kīrtana* like this —
+> Subheading: As long as they stayed with the Lord, all enjoyed kīrtana like this —
 
 ## 242
 

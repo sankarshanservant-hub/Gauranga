@@ -54,7 +54,7 @@ Joy is in Kṛṣṇa’s pastimes of union (*sambhoga*), and sorrow in the gop�
 
 ## 20
 
-> Subheading: The *jīva*, a particle, a spiritual atom (*cit-paramāṇu*), is fit only to touch a drop of the transcendental ocean of love for Kṛṣṇa —
+> Subheading: The jīva, a particle, a spiritual atom (*cit-paramāṇu*), is fit only to touch a drop of the transcendental ocean of love for Kṛṣṇa —
 
 ## 22
 
@@ -68,7 +68,7 @@ Joy is in Kṛṣṇa’s pastimes of union (*sambhoga*), and sorrow in the gop�
 
 > (*Śrīmad-Bhāgavatam* 10.33.22)
 
-Śrī Śukadeva, the *mahā-bhāgavata*, the crest jewel of the line of *paramahaṁsas*, describes to Parīkṣit, whose heart is pure, the transcendental *rāsa* pastime of Bhagavān Śrī Kṛṣṇa with the transcendental gopīs:
+Śrī Śukadeva, the *mahā-bhāgavata*, the crest jewel of the line of *paramahaṁsas*, describes to Parīkṣit, whose heart is pure, the transcendental rāsa pastime of Bhagavān Śrī Kṛṣṇa with the transcendental gopīs:
 
 **śrāntaḥ**, **saḥ** (Śrī Kṛṣṇa) **śramam** (the fatigue of play) **apohitum** (to remove) **aṅga-saṅga-ghṛṣṭa-srajaḥ** (of the garland [*srak*] of *kunda* flowers crushed [*ghṛṣṭā*, *sammarditā*] by bodily contact; and therefore) **kuca-kuṅkuma-rañjitāyāḥ** (coloured with the kuṅkuma of the breasts; [by bees] connected with it) **gandharva-pālibhiḥ** (*gandharva-pāḥ* are the lords of the Gandharvas; by bees that sing like them) **anudrutaḥ** (followed) **tābhiḥ** **yutaḥ** **bhinna-setuḥ** (having broken through the embankment; as for Kṛṣṇa, Bhagavān Himself, having transgressed the bounds of worldly convention) **gajībhiḥ** **ibha-rāṭ** (the king of elephants) **iva** **vāḥ** (the water) **āviśat** (entered).
 
@@ -178,7 +178,7 @@ Cirāyu-parvata is Caṭaka-parvata.
 
 ## 74
 
-> Subheading: Everyone performs loud *saṅkīrtana* —
+> Subheading: Everyone performs loud saṅkīrtana —
 
 ## 75
 
@@ -190,7 +190,7 @@ Cirāyu-parvata is Caṭaka-parvata.
 
 ## 78
 
-> Subheading: The half-external consciousness of the Lord, who thinks of Himself as a maidservant of the *gopīs* (*citra-jalpa*) —
+> Subheading: The half-external consciousness of the Lord, who thinks of Himself as a maidservant of the gopīs (*citra-jalpa*) —
 
 ## 82
 
@@ -198,7 +198,7 @@ Cirāyu-parvata is Caṭaka-parvata.
 
 ## 83
 
-> Subheading: Thinking of Himself as a maidservant of the *gopīs*, the Lord describes Kṛṣṇa’s water pastimes with Śrī Rādhā and the other *gopīs* (*citra-jalpa*) —
+> Subheading: Thinking of Himself as a maidservant of the gopīs, the Lord describes Kṛṣṇa’s water pastimes with Śrī Rādhā and the other gopīs (*citra-jalpa*) —
 
 ## 87
 
@@ -210,7 +210,7 @@ Variant reading: *svastike kā̃culī racila* (“she made a bodice with a *svas
 
 ## 98
 
-The lotus opens at sunrise, and so the sun is the lotus’s friend; at sunrise the *cakravākas*, too, are reunited. But here the lotus, though the sun’s friend, plunders the *cakravāka*, the friend of its own friend the sun. The *cakravāka* is a living being, and the lotus an insentient object. But here the lotus — Kṛṣṇa’s hand — though insentient, attacks the living *cakravāka* — the *gopī*’s breast. This is the ornament *virodhābhāsa* (apparent contradiction). The *utpala* closes at sunrise, and so the sun is the *utpala*’s enemy. The *utpala* opens at night, and so it is a stranger to the *cakravāka*. Here the sun is the *utpala*’s enemy, and the *cakravāka* is that enemy’s friend. Yet here the *cakravāka* — the *gopī*’s breast — is protected by the *utpala* — the *gopī*’s hand. This too is the wonderful ornament *virodha* (contradiction).
+The lotus opens at sunrise, and so the sun is the lotus’s friend; at sunrise the *cakravākas*, too, are reunited. But here the lotus, though the sun’s friend, plunders the *cakravāka*, the friend of its own friend the sun. The *cakravāka* is a living being, and the lotus an insentient object. But here the lotus — Kṛṣṇa’s hand — though insentient, attacks the living *cakravāka* — the gopī’s breast. This is the ornament *virodhābhāsa* (apparent contradiction). The *utpala* closes at sunrise, and so the sun is the *utpala*’s enemy. The *utpala* opens at night, and so it is a stranger to the *cakravāka*. Here the sun is the *utpala*’s enemy, and the *cakravāka* is that enemy’s friend. Yet here the *cakravāka* — the gopī’s breast — is protected by the *utpala* — the gopī’s hand. This too is the wonderful ornament *virodha* (contradiction).
 
 ## 99
 
@@ -220,7 +220,7 @@ The lotus opens at sunrise, and so the sun is the lotus’s friend; at sunrise t
 
 ## 100
 
-> Subheading: The varied service the transcendental *mañjarīs* render to Śrī Kṛṣṇa together with the *gopīs* —
+> Subheading: The varied service the transcendental *mañjarīs* render to Śrī Kṛṣṇa together with the gopīs —
 
 **udvartana** — *ābāṭā*, that is, [the paste] with which the body is cleansed.
 

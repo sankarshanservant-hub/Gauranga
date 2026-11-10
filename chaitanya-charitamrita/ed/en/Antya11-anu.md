@@ -20,15 +20,15 @@
 
 ## 11
 
-> Subheading: The Lord enjoys *kīrtana* with His devotees in Nīlācala —
+> Subheading: The Lord enjoys kīrtana with His devotees in Nīlācala —
 
 ## 12
 
-> Subheading: By day, *nāma-saṅkīrtana* and *darśana* of Jagannātha; by night, together with Svarūpa and Rāmānanda, the Lord relishes the *rasa* of Śrī Rādhā’s love for Kṛṣṇa —
+> Subheading: By day, *nāma-saṅkīrtana* and darśana of Jagannātha; by night, together with Svarūpa and Rāmānanda, the Lord relishes the rasa of Śrī Rādhā’s love for Kṛṣṇa —
 
 ## 13
 
-> Subheading: In separation from Kṛṣṇa the *sāttvika-bhāvas* arise in the Lord’s body —
+> Subheading: In separation from Kṛṣṇa the sāttvika-bhāvas arise in the Lord’s body —
 
 ## 15
 
@@ -36,7 +36,7 @@
 
 ## 16
 
-> Subheading: The story of Haridāsa; Govinda goes to bring *prasāda* to Haridāsa —
+> Subheading: The story of Haridāsa; Govinda goes to bring prasāda to Haridāsa —
 
 ## 17
 
@@ -44,11 +44,11 @@
 
 ## 18
 
-> Subheading: Govinda urges him to accept *prasāda*; Haridāsa wishes to fast —
+> Subheading: Govinda urges him to accept prasāda; Haridāsa wishes to fast —
 
 ## 19
 
-> Subheading: Haridāsa shows how a *sādhaka* who has taken shelter of the holy name should rightly honour *prasāda* —
+> Subheading: Haridāsa shows how a *sādhaka* who has taken shelter of the holy name should rightly honour prasāda —
 
 ## 21
 
@@ -132,7 +132,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 48
 
-> Subheading: In front of Haridāsa’s hut the Lord and His devotees begin a great *kīrtana* —
+> Subheading: In front of Haridāsa’s hut the Lord and His devotees begin a great kīrtana —
 
 ## 50
 
@@ -154,7 +154,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 58
 
-> Subheading: The tumult of the great *kīrtana*; the Lord is overwhelmed with love —
+> Subheading: The tumult of the great kīrtana; the Lord is overwhelmed with love —
 
 ## 59
 
@@ -166,7 +166,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 62
 
-> Subheading: With *kīrtana* the Lord and His devotees bring Ṭhākura Haridāsa to the ocean —
+> Subheading: With kīrtana the Lord and His devotees bring Ṭhākura Haridāsa to the ocean —
 
 ## 64
 
@@ -178,9 +178,9 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 66
 
-> Subheading: How *samādhi* is given to the accompaniment of *kīrtana* —
+> Subheading: How *samādhi* is given to the accompaniment of kīrtana —
 
-*Ḍora* — silk cords (*paṭṭa-ḍorī*), the *prasāda* of Śrī Jagannātha; *kaḍāra* — sandalwood paste that is *prasāda*.
+*Ḍora* — silk cords (*paṭṭa-ḍorī*), the prasāda of Śrī Jagannātha; *kaḍāra* — sandalwood paste that is *prasāda*.
 
 ## 67
 
@@ -196,15 +196,15 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 70
 
-> Subheading: After *kīrtana* and dancing with the devotees and bathing in the ocean, the Lord circumambulates the *samādhi-pīṭha* and comes to the temple —
+> Subheading: After kīrtana and dancing with the devotees and bathing in the ocean, the Lord circumambulates the *samādhi-pīṭha* and comes to the temple —
 
 ## 73
 
-> Subheading: For the festival of separation from Haridāsa (*viraha-mahotsava*) the Lord Himself begs *prasāda* from the shopkeepers at the Lion Gate —
+> Subheading: For the festival of separation from Haridāsa (*viraha-mahotsava*) the Lord Himself begs prasāda from the shopkeepers at the Lion Gate —
 
 ## 75
 
-> Subheading: The shopkeepers want to give all their *prasāda* —
+> Subheading: The shopkeepers want to give all their prasāda —
 
 *Cāṅgaḍā* — a large basket.
 
@@ -218,7 +218,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 79
 
-> Subheading: Plenty of *prasāda* is gathered —
+> Subheading: Plenty of prasāda is gathered —
 
 ## 80
 
@@ -226,19 +226,19 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 81
 
-> Subheading: At the festival of separation the Lord with His own hands serves the Vaiṣṇavas *prasāda* in abundance —
+> Subheading: At the festival of separation the Lord with His own hands serves the Vaiṣṇavas prasāda in abundance —
 
 ## 83
 
-> Subheading: Holding the Lord back, Svarūpa serves *prasāda* together with three devotees —
+> Subheading: Holding the Lord back, Svarūpa serves prasāda together with three devotees —
 
 ## 85
 
-> Subheading: The devotees wait for the Lord to eat; Kāśī Miśra offers the Lord *prasāda* —
+> Subheading: The devotees wait for the Lord to eat; Kāśī Miśra offers the Lord prasāda —
 
 ## 87
 
-> Subheading: The Lord honours *prasāda* together with the *sannyāsīs* —
+> Subheading: The Lord honours prasāda together with the sannyāsīs —
 
 ## 88
 
@@ -296,9 +296,9 @@ At the site of Haridāsa Ṭhākura’s *samādhi*, a little more than a hundred
 
 ## 105
 
-> Subheading: Ṭhākura Haridāsa — a *mahā-bhāgavata*, a learned *sannyāsī* (*vidvat-sannyāsī*), the best of *paramahaṁsas* —
+> Subheading: Ṭhākura Haridāsa — a *mahā-bhāgavata*, a learned sannyāsī (*vidvat-sannyāsī*), the best of *paramahaṁsas* —
 
-*Parama-vidvān* (supremely learned). *Vidyā* (knowledge) is that by which one is freed from the bondage of worldly existence, which is ignorance (*avidyā*), and gains experience of the transcendental, imperishable (*akṣara*) Reality — Viṣṇu, Acyuta, or Adhokṣaja. Ṭhākura Haridāsa was a master of the highest knowledge, the knowledge of Kṛṣṇa (*kṛṣṇa-vidyā*). For he descended as the ācārya and preacher of the chanting of Śrī Hari-nāma, which is the very life of the bride of knowledge (*vidyā-vadhū-jīvanam*). This is especially clear from the words of the *Bhāgavatam*: “If a person dedicates to Viṣṇu devotion of these nine kinds and performs it directly for Bhagavān, that, I consider, is the highest learning.” (*Śrīmad-Bhāgavatam* 7.5.24) From them we know that the one called “learned in all the scriptures” (*sarva-śāstrādhītī*) is precisely the one who cultivates *kīrtana*, the best of the nine parts of devotion to Kṛṣṇa.
+*Parama-vidvān* (supremely learned). *Vidyā* (knowledge) is that by which one is freed from the bondage of worldly existence, which is ignorance (*avidyā*), and gains experience of the transcendental, imperishable (*akṣara*) Reality — Viṣṇu, Acyuta, or Adhokṣaja. Ṭhākura Haridāsa was a master of the highest knowledge, the knowledge of Kṛṣṇa (*kṛṣṇa-vidyā*). For he descended as the ācārya and preacher of the chanting of Śrī Hari-nāma, which is the very life of the bride of knowledge (*vidyā-vadhū-jīvanam*). This is especially clear from the words of the *Bhāgavatam*: “If a person dedicates to Viṣṇu devotion of these nine kinds and performs it directly for Bhagavān, that, I consider, is the highest learning.” (*Śrīmad-Bhāgavatam* 7.5.24) From them we know that the one called “learned in all the scriptures” (*sarva-śāstrādhītī*) is precisely the one who cultivates kīrtana, the best of the nine parts of devotion to Kṛṣṇa.
 
 ## 106
 
@@ -306,7 +306,7 @@ At the site of Haridāsa Ṭhākura’s *samādhi*, a little more than a hundred
 
 ## 107
 
-> Subheading: Whoever wishes to cross beyond *māyā* and serve Kṛṣṇa must hear about Caitanya’s life —
+> Subheading: Whoever wishes to cross beyond māyā and serve Kṛṣṇa must hear about Caitanya’s life —
 
 *Thus ends the eleventh chapter of the “Anubhāṣya.”*
 

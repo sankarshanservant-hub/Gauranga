@@ -2554,7 +2554,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^41]: As in the Gauḍīya Maṭha edition: «বসিয়া» (“sitting”; another reading: «আসিয়া», “having come”). *Amṛta-pravāha-bhāṣya*: Guṇārṇava Miśra, the servant of the Deity, did not greet Nityānanda’s servant who was sitting in the courtyard.
 
-[^42]: *Amṛta-pravāha-bhāṣya* and *Anubhāṣya* (*Bhāgavatam*, 10.78.22–28): in Naimiṣāraṇya Romaharṣaṇa, a disciple of Vyāsa, did not rise to greet Baladeva and was slain by Him; Guṇārṇava Miśra, who had no special regard for Nityānanda, acted just as improperly. The devotees do not blame Mīnaketana for this anger.
+[^42]: *Amṛta-pravāha-bhāṣya* and *Anubhāṣya* (*Bhāgavatam* 10.78.22–28): in Naimiṣāraṇya Romaharṣaṇa, a disciple of Vyāsa, did not rise to greet Baladeva and was slain by Him; Guṇārṇava Miśra, who had no special regard for Nityānanda, acted just as improperly. The devotees do not blame Mīnaketana for this anger.
 
 [^43]: *Amṛta-pravāha-bhāṣya*: “the logic of half a hen” is to take one half of a hen as old and the other as young; so too, by accepting one of the undivided Caitanya and Nityānanda and rejecting the other, you show both unbelief and hypocrisy.
 

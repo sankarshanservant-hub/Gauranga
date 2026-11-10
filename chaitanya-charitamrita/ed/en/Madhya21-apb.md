@@ -14,7 +14,7 @@ The spiritual world is like a lotus. The highest (central) part of that lotus is
 
 ## 9
 
-“O Bhūman! O Bhagavān! O Supreme Soul! O Lord of *yoga*! Who can know where in these three worlds Your pastimes take place, what they are like, and when You, spreading out Yogamāyā, perform them?”
+“O Bhūman! O Bhagavān! O Supreme Soul! O Lord of yoga! Who can know where in these three worlds Your pastimes take place, what they are like, and when You, spreading out Yogamāyā, perform them?”
 
 ## 11
 
@@ -22,7 +22,7 @@ In time learned men have counted the specks of dust on the earth, the snowflakes
 
 ## 13
 
-I, Brahmā, and the sages, your elder brothers — even we cannot know the limit of the Puruṣa, the Lord of *māyā*. Who else, then, will know it? The thousand-faced Ananta-deva sings His qualities on and on, yet even today He has not reached their end.
+I, Brahmā, and the sages, your elder brothers — even we cannot know the limit of the Puruṣa, the Lord of māyā. Who else, then, will know it? The thousand-faced Ananta-deva sings His qualities on and on, yet even today He has not reached their end.
 
 ## 15
 
@@ -62,7 +62,7 @@ Between *pradhāna*, the *māyic* principle, and Paravyoma flows the river Viraj
 
 ## 51
 
-On the far bank of that Virajā lies Paravyoma — immortal, eternal, everlasting, endless, the supreme abode, made up of three quarters (*tripād-bhūta*). The meaning is this: Paravyoma is the spiritual world, and so the *tripād-vibhūti* — free from sorrow and fear, immortal — is eternally present in it. All the workings of *māyā* taken together are only Kṛṣṇa’s *ekapād-vibhūti*.
+On the far bank of that Virajā lies Paravyoma — immortal, eternal, everlasting, endless, the supreme abode, made up of three quarters (*tripād-bhūta*). The meaning is this: Paravyoma is the spiritual world, and so the *tripād-vibhūti* — free from sorrow and fear, immortal — is eternally present in it. All the workings of māyā taken together are only Kṛṣṇa’s *ekapād-vibhūti*.
 
 ## 56
 
@@ -134,7 +134,7 @@ The body of this Kṛṣṇa is sweet; His face is sweeter still; and His gentle
 
 ## 137
 
-When all three disorders (*doṣas*) arise in the bodily constituents (*dhātus*), it is called *sannipāta*. My mind has been struck by three blows — the sweetness of Kṛṣṇa’s body, the sweetness of Kṛṣṇa’s face and the sweetness of Kṛṣṇa’s smile — and there is no doubt that it suffers from the disease of *sannipāta*. Thirsting, it runs towards that ocean of the *rasa* of beauty. The physician for ordinary *sannipāta* does not let the patient drink even a drop of water. In the same way, my disease has no physician but Kṛṣṇa — yet He does not let me drink even a drop from the ocean of the nectar of His beauty. That is the sorrow (the ill fate)!
+When all three disorders (*doṣas*) arise in the bodily constituents (*dhātus*), it is called *sannipāta*. My mind has been struck by three blows — the sweetness of Kṛṣṇa’s body, the sweetness of Kṛṣṇa’s face and the sweetness of Kṛṣṇa’s smile — and there is no doubt that it suffers from the disease of *sannipāta*. Thirsting, it runs towards that ocean of the rasa of beauty. The physician for ordinary *sannipāta* does not let the patient drink even a drop of water. In the same way, my disease has no physician but Kṛṣṇa — yet He does not let me drink even a drop from the ocean of the nectar of His beauty. That is the sorrow (the ill fate)!
 
 ## 143
 
@@ -146,6 +146,6 @@ When all three disorders (*doṣas*) arise in the bodily constituents (*dhātus*
 
 ## 145
 
-In this ecstasy of love, while speaking of the truth of Kṛṣṇa, Mahāprabhu lost external awareness and brought in a composition on *rasa* (*rasa-sandarbha*), but this is not the place to describe it. Therefore He says: “I meant to speak of one thing, and I am speaking of another. Kṛṣṇa, in His mercy, bewildered My mind and let you hear of His own majesty and sweetness.”
+In this ecstasy of love, while speaking of the truth of Kṛṣṇa, Mahāprabhu lost external awareness and brought in a composition on rasa (*rasa-sandarbha*), but this is not the place to describe it. Therefore He says: “I meant to speak of one thing, and I am speaking of another. Kṛṣṇa, in His mercy, bewildered My mind and let you hear of His own majesty and sweetness.”
 
 *Thus ends the twenty-first chapter of the “Amṛta-pravāha-bhāṣya.”*

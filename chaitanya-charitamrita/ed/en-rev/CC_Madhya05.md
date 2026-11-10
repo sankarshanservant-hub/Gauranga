@@ -1639,7 +1639,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^10]: The Gauḍīya Maṭha edition reads ইথে কি বিস্ময় (“what is surprising in that?”); another reading is করিল নিশ্চয় (“I have firmly decided”).
 
-[^11]: *Anubhāṣya*: Bhīṣmaka, king of Vidarbha, had five sons and one daughter; his kinsmen wished to give her to Kṛṣṇa, but his eldest son, Rukmī, who hated Kṛṣṇa, prevented it (Śrīmad-Bhāgavatam, 10.52.21–25). When Kṛṣṇa carried Rukmiṇī away, Rukmī fought Him; at Rukmiṇī’s plea Kṛṣṇa spared his life, but shaved him and so disgraced him.
+[^11]: *Anubhāṣya*: Bhīṣmaka, king of Vidarbha, had five sons and one daughter; his kinsmen wished to give her to Kṛṣṇa, but his eldest son, Rukmī, who hated Kṛṣṇa, prevented it (*Śrīmad-Bhāgavatam* 10.52.21–25). When Kṛṣṇa carried Rukmiṇī away, Rukmī fought Him; at Rukmiṇī’s plea Kṛṣṇa spared his life, but shaved him and so disgraced him.
 
 [^12]: *Anubhāṣya*: the elder brāhmaṇa thought, “If I do not give my daughter as I promised, the younger brāhmaṇa will call Śrī Gopāla as witness and take my daughter by force, and then my dharma will bear no fruit.”
 

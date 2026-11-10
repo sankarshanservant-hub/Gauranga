@@ -26,7 +26,7 @@ Vaikuṇṭha has no measure, as the *māyic* universes have. Vaikuṇṭha exte
 
 > Subheading: Viṣṇu and His abode are both *adhokṣaja*, and so beyond the reach even of Brahmā and others —
 
-The places of Vaikuṇṭha, full of the six opulences, and the limits of the avatāras endowed with the six opulences are beyond the reach even of Brahmā, Śiva and the other lords of the *māyic* realm. What then to speak of the *jīva*, who is subject to *māyā*!
+The places of Vaikuṇṭha, full of the six opulences, and the limits of the avatāras endowed with the six opulences are beyond the reach even of Brahmā, Śiva and the other lords of the *māyic* realm. What then to speak of the jīva, who is subject to māyā!
 
 ## 9
 
@@ -148,7 +148,7 @@ For the explanation and the *kārikās* on this verse, see the *Laghu-bhāgavat�
 
 After Śrī Kṛṣṇa’s departure, Śrīla Uddhava, stricken with the grief of separation from Him, tells Śrī Vidura of Kṛṣṇa’s childhood pastimes and His supreme majesty:
 
-**svayam** (Bhagavān) **tu** **asāmyātiśayaḥ** (He who has no equal and none higher — *asamordhva*), **try-adhīśaḥ** (the Lord and Master: of the abodes Goloka, Paravyoma and Devī-dhāma; or of the abodes Gokula, Mathurā and Dvārakā; or of the three creations — the causal, the aggregate [Hiraṇyagarbha] and the individual [Virāṭ]; or of Viṣṇu, Brahmā and Śiva, the presiding lords of goodness, passion and ignorance; or of the energies — *cit*, *jīva* and *māyā*; or of the three *vyāhṛtis* — *bhūḥ*, *bhuvaḥ* and *svaḥ*; or of the three worlds — heaven, earth and the netherworld), **svārājya-lakṣmy-āpta-samasta-kāmaḥ** (who has gained every enjoyment simply by the wealth of His own supreme nature of spirit and bliss) **baliṁ** (tribute, or an offering) **haradbhiḥ** (bringing) **cira-loka-pālaiḥ** (by the age-old guardians of the worlds — Brahmā, Rudra and others) **kirīṭa-koṭīḍita-pāda-pīṭhaḥ** (He whose footstool, the throne of His feet, is praised, that is, saluted, by the tips of crowns; this connects with the next verse: “that He reported to Ugrasena pains us”).
+**svayam** (Bhagavān) **tu** **asāmyātiśayaḥ** (He who has no equal and none higher — *asamordhva*), **try-adhīśaḥ** (the Lord and Master: of the abodes Goloka, Paravyoma and Devī-dhāma; or of the abodes Gokula, Mathurā and Dvārakā; or of the three creations — the causal, the aggregate [Hiraṇyagarbha] and the individual [Virāṭ]; or of Viṣṇu, Brahmā and Śiva, the presiding lords of goodness, passion and ignorance; or of the energies — *cit*, jīva and māyā; or of the three *vyāhṛtis* — *bhūḥ*, *bhuvaḥ* and *svaḥ*; or of the three worlds — heaven, earth and the netherworld), **svārājya-lakṣmy-āpta-samasta-kāmaḥ** (who has gained every enjoyment simply by the wealth of His own supreme nature of spirit and bliss) **baliṁ** (tribute, or an offering) **haradbhiḥ** (bringing) **cira-loka-pālaiḥ** (by the age-old guardians of the worlds — Brahmā, Rudra and others) **kirīṭa-koṭīḍita-pāda-pīṭhaḥ** (He whose footstool, the throne of His feet, is praised, that is, saluted, by the tips of crowns; this connects with the next verse: “that He reported to Ugrasena pains us”).
 
 ## 34
 
@@ -226,15 +226,15 @@ The three abodes are: (1) the inner abode, Goloka; (2) the middle abode, Paravyo
 
 ## 52
 
-> Subheading: (3) The outer abode, Devī-dhāma, is the realm of *māyā*, the field of the *jīvas’* enjoyment —
+> Subheading: (3) The outer abode, Devī-dhāma, is the realm of māyā, the field of the *jīvas’* enjoyment —
 
 ## 53
 
-*Jīva*: the conditioned *jīva*, bent on enjoyment, lives in Devī-dhāma. Svārājya-lakṣmī, as Kṛṣṇa’s servant, fulfils Kṛṣṇa’s desires, while Jagal-lakṣmī protects the *jīvas* who live in Devī-dhāma. *Yāṅhā*, “where”: in this Devī-dhāma Māyā, the maidservant of Jagal-lakṣmī, is the presiding deity.
+*Jīva*: the conditioned jīva, bent on enjoyment, lives in Devī-dhāma. Svārājya-lakṣmī, as Kṛṣṇa’s servant, fulfils Kṛṣṇa’s desires, while Jagal-lakṣmī protects the jīvas who live in Devī-dhāma. *Yāṅhā*, “where”: in this Devī-dhāma Māyā, the maidservant of Jagal-lakṣmī, is the presiding deity.
 
 ## 54
 
-The three abodes are the topmost abode, Goloka; Hari’s abode, Paravyoma; and Devī-dhāma. A *jīva* freed from Devī-dhāma who does not attain Hari’s service in Paravyoma reaches the abode of Maheśa. Though that abode lies above Devī-dhāma, it is not Hari’s abode, not Paravyoma.
+The three abodes are the topmost abode, Goloka; Hari’s abode, Paravyoma; and Devī-dhāma. A jīva freed from Devī-dhāma who does not attain Hari’s service in Paravyoma reaches the abode of Maheśa. Though that abode lies above Devī-dhāma, it is not Hari’s abode, not Paravyoma.
 
 ## 55
 
@@ -244,7 +244,7 @@ Hari’s abode Paravyoma and Goloka form the transcendental abode endowed with t
 
 ## 56
 
-> Subheading: The *tripād-vibhūti* lies beyond *māyā*, and the *ekapād-vibhūti* is *māyic* — (Laghu-bhāgavatāmṛta 1.563) —
+> Subheading: The *tripād-vibhūti* lies beyond māyā, and the *ekapād-vibhūti* is *māyic* — (*Laghu-bhāgavatāmṛta* 1.563) —
 
 **tat** **padam** **tri-pād-vibhūteḥ** **dhāmatvāt** **tri-pād-bhūtam** **hi** (is called precisely “consisting of three quarters”), **yataḥ** **sarvā** **māyikī** **vibhūtiḥ** **pādātmikā** (one quarter) **proktā** (is said to be).
 
@@ -376,7 +376,7 @@ Kṛṣṇa’s form is so captivating that — to say nothing of all the beings
 
 > Subheading: “When He shines together with Rādhā, then He is Madana-mohana” —
 
-Mounting the chariot of the gopīs’ minds — their favourable disposition of heart — and accepting their service to Himself, Kṛṣṇa agitates the mind of Kandarpa himself, and so He is called “Madana-mohana.” Madana is the lord of five arrows: form, taste, smell, sound and touch. With His own beauty Kṛṣṇa tramples his pride — the pride of enchanting women. And Kṛṣṇa Himself, under the name *nava-kandarpa* (the new, transcendental Madana of Vraja), sports in the *rāsa* dance with the gopīs.
+Mounting the chariot of the gopīs’ minds — their favourable disposition of heart — and accepting their service to Himself, Kṛṣṇa agitates the mind of Kandarpa himself, and so He is called “Madana-mohana.” Madana is the lord of five arrows: form, taste, smell, sound and touch. With His own beauty Kṛṣṇa tramples his pride — the pride of enchanting women. And Kṛṣṇa Himself, under the name *nava-kandarpa* (the new, transcendental Madana of Vraja), sports in the rāsa dance with the gopīs.
 
 ## 108
 
@@ -398,7 +398,7 @@ The very essence of the *bhagavattā* of Bhagavān, who is full of the six opule
 
 > Subheading: While describing Kṛṣṇa’s qualities, the Lord describes the good fortune of the gopīs —
 
-The women of Mathurā, overflowing with feeling, described the extraordinary fortune of the gopīs and the transcendent qualities of Kṛṣṇa. In the same way Śrī Gaurahari, beginning to speak of “the taste of Kṛṣṇa” (*kṛṣṇa-rasa*), was filled with *prema* (love of God), took Sanātana’s hand and, absorbed in love, recited that verse.
+The women of Mathurā, overflowing with feeling, described the extraordinary fortune of the gopīs and the transcendent qualities of Kṛṣṇa. In the same way Śrī Gaurahari, beginning to speak of “the taste of Kṛṣṇa” (*kṛṣṇa-rasa*), was filled with prema (love of God), took Sanātana’s hand and, absorbed in love, recited that verse.
 
 ## 112
 
@@ -434,7 +434,7 @@ See Ādi 4.156.
 
 > Subheading: Without *rāgānugā-bhakti* Kṛṣṇa’s sweetness is very hard to attain —
 
-Karma, austerity, yoga, *jñāna*, *vidhi-bhakti*, *japa*, meditation and other practices (*sādhana*) do not bring one to sweetness. Kṛṣṇa’s sweetness is easily attained only by one who, on the path of *rāga* (*rāga-mārga*), worships Kṛṣṇa’s name with *anurāga*.
+Karma, austerity, yoga, jñāna, *vidhi-bhakti*, *japa*, meditation and other practices (*sādhana*) do not bring one to sweetness. Kṛṣṇa’s sweetness is easily attained only by one who, on the path of *rāga* (*rāga-mārga*), worships Kṛṣṇa’s name with *anurāga*.
 
 ## 120
 
@@ -500,13 +500,13 @@ The dance of this moon of His face surpasses everyone. Setting out the other twe
 
 > Subheading: When the gopīs see the moon of Kṛṣṇa’s face, their unsatisfied longing is ever new, ever growing, supremely wondrous and spiritual; therefore they reproach the Creator —
 
-Only from acts born of *bhakti* does *sukṛti* arise that turns one towards *bhakti*. How much of such a face of Kṛṣṇa can a viewer drink with two eyes? His thirst and greed grow twofold, yet he cannot drink as much as he wishes. His own incapacity and want trouble his mind deeply, and then the viewer, sorrowful at heart, begins to blame the one who created him.
+Only from acts born of bhakti does *sukṛti* arise that turns one towards bhakti. How much of such a face of Kṛṣṇa can a viewer drink with two eyes? His thirst and greed grow twofold, yet he cannot drink as much as he wishes. His own incapacity and want trouble his mind deeply, and then the viewer, sorrowful at heart, begins to blame the one who created him.
 
 ## 133
 
 > Subheading: The Creator does not understand the taste of Kṛṣṇa’s sweetness —
 
-The unsatisfied viewer then says with regret: “I have no hundreds of thousands, no millions of eyes — I have only two, and even these are covered with leaves. Now and then the eyelid falls for a brief moment, and then my seeing of Kṛṣṇa is interrupted again. So Vidhi, the maker of bodies, is utterly foolish. He gave up the service of seeing Kṛṣṇa and took to trivial austerity, and so he is not at all a knower of *rasa* (*rasajña*). He is a mere doer of dry tasks such as creation and knows nothing at all of how and where things should be arranged.”
+The unsatisfied viewer then says with regret: “I have no hundreds of thousands, no millions of eyes — I have only two, and even these are covered with leaves. Now and then the eyelid falls for a brief moment, and then my seeing of Kṛṣṇa is interrupted again. So Vidhi, the maker of bodies, is utterly foolish. He gave up the service of seeing Kṛṣṇa and took to trivial austerity, and so he is not at all a knower of rasa (*rasajña*). He is a mere doer of dry tasks such as creation and knows nothing at all of how and where things should be arranged.”
 
 ## 134
 
@@ -530,7 +530,7 @@ Ordinarily, the first glance sees the ocean of sweetness that is Kṛṣṇa’s
 
 > Subheading: The Lord, filled with the feeling of the gopīs, tastes Kṛṣṇa’s sweetness, and His unsatisfied longing grows eternally —
 
-The Lord, steeped in the feeling of the gopīs in the *rasa* of separation (*vipralambha*), thirsts so intensely to taste Kṛṣṇa’s sweetness that even while tasting Kṛṣṇa’s boundless sweetness He is not satisfied. This lack of satisfaction is transcendental, supremely wondrous and ever increasing. Therefore, out of strong emotion and longing, He laments and grieves that He cannot taste Kṛṣṇa’s sweetness even in a small measure.
+The Lord, steeped in the feeling of the gopīs in the rasa of separation (*vipralambha*), thirsts so intensely to taste Kṛṣṇa’s sweetness that even while tasting Kṛṣṇa’s boundless sweetness He is not satisfied. This lack of satisfaction is transcendental, supremely wondrous and ever increasing. Therefore, out of strong emotion and longing, He laments and grieves that He cannot taste Kṛṣṇa’s sweetness even in a small measure.
 
 ## 138
 

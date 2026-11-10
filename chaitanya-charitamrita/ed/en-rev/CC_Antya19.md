@@ -16,7 +16,7 @@ raving  His face  rubbing
 madhudyāne lalāsa yaḥ  
 in the spring garden  sported  who
 
-(1) I bow down to Śrī Kṛṣṇa Caitanya, the crown jewel of all who are devoted to their mothers — to Him who, raving in His madness, rubbed His face against the walls and sported in the spring garden.[^1][^2]
+(1) I bow down to Śrī Kṛṣṇa Caitanya, the crown jewel of all who are devoted to their mothers — to Him who, raving in His divine madness, rubbed His face against the walls and sported in the spring garden.[^1][^2]
 
 জয় জয় শ্রীচৈতন্য জয় নিত্যানন্দ ৷  
 জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥
@@ -126,7 +126,7 @@ in the cowherd  pastime  received  which  prasāda  cloth
 mātāre pāṭhāna tāhā purīra vacane  
 to Mother  sends  that  of Purī  at the word
 
-(12) At the request of Paramānanda Purī, the Lord would send His mother the cloth *prasāda* He had received at the festival of Jagannātha’s cowherd pastime.[^3]
+(12) At the request of Paramānanda Purī, the Lord would send His mother the cloth prasāda He had received at the festival of Jagannātha’s cowherd pastime.[^3]
 
 জগন্নাথের উত্তম প্রসাদ আনিয়া যতনে ৷  
 মাতারে পৃথক্ পাঠান, আর ভক্তগণে ॥ ১৩ ॥
@@ -136,7 +136,7 @@ Jagannātha’s  best  prasāda  bringing  with care
 mātāre pṛthak pāṭhāna, āra bhakta-gaṇe  
 to Mother  separately  sends  and  to the devotees
 
-(13) He also took care to obtain the best of Jagannātha’s *prasāda*, and He sent it separately to His mother and to the devotees.
+(13) He also took care to obtain the best of Jagannātha’s prasāda, and He sent it separately to His mother and to the devotees.
 
 মাতৃভক্তগণের প্রভু হন শিরোমণি ৷  
 সন্ন্যাস করিয়া সদা সেবেন জননী ॥ ১৪ ॥
@@ -166,7 +166,7 @@ the Ācārya and other  devotees  met  prasāda  giving
 mātā-ṭhāñi ājñā lailā māseka rahiyā  
 from Mother  leave  took  a month  staying
 
-(16) He also visited Advaita Ācārya and the other devotees and gave them *prasāda*. After staying a month, he took leave of Mother Śacī.
+(16) He also visited Advaita Ācārya and the other devotees and gave them prasāda. After staying a month, he took leave of Mother Śacī.
 
 আচার্য্যের ঠাঞি গিয়া আজ্ঞা মাগিলা ৷  
 আচার্য্য-গোসাঞি প্রভুরে সন্দেশ কহিলা ॥ ১৭ ॥
@@ -960,7 +960,7 @@ bearing  on the wall  incessantly  by the rubbing of His moonlike face  blood
 kṣatotthaṁ gaurāṅgo hṛdaya udayan māṁ madayati  
 from wounds arisen  Gaurāṅga  in my heart  rising  me  maddens
 
-(76) “In separation from His own Vraja, dear to Him as millions of lives, He raved constantly in His madness, His mind bewildered. Again and again He rubbed His moonlike face against the wall, and it was covered with blood from the wounds. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 6)[^29]
+(76) “In separation from His own Vraja, dear to Him as millions of lives, He raved constantly in His divine madness, His mind bewildered. Again and again He rubbed His moonlike face against the wall, and it was covered with blood from the wounds. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 6)[^29]
 
 এইমত মহাপ্রভু রাত্রি দিবসে ৷  
 প্রেমসিন্ধু-মগ্ন রহে, কভু ডুবে, ভাসে ॥ ৭৭ ॥
@@ -1433,7 +1433,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^2]: Heading in the edition: obeisance to the Lord, full of matchless tenderness towards His devotee-mother and overwhelmed by *mahābhāva* in the Jagannātha-vallabha garden. *Anubhāṣya*: the *madhūdyāna* is the grove of spring pastimes called Jagannātha-vallabha. *Amṛta-pravāha-bhāṣya*: He rubbed His face against the walls of the house, and He sported in the spring garden to show His longing for love of Kṛṣṇa.
 
-[^3]: *Anubhāṣya*: the cloth *prasāda* from Śrī Jagannātha’s cowherd dress (*gopa-veśa*). Heading in the edition: at the request of Paramānanda Purī the Lord sends Śacīdevī cloth and *prasāda* in Navadvīpa.
+[^3]: *Anubhāṣya*: the cloth prasāda from Śrī Jagannātha’s cowherd dress (*gopa-veśa*). Heading in the edition: at the request of Paramānanda Purī the Lord sends Śacīdevī cloth and prasāda in Navadvīpa.
 
 [^4]: Heading in the edition: Bhagavān is subject to transcendental parental love (*vātsalya-prema*). *Anubhāṣya*: the mother gave this body, reared and nourished it; to devote it to the service of Kṛṣṇa is itself the purest and best service to one’s mother.
 
@@ -1483,7 +1483,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^27]: *Anubhāṣya*: Vidura asked Maitreya about the deeds of Svāyambhuva Manu and Śatarūpā, and in reply Maitreya began to speak of Hari. “The pillow for the feet” is one on whose lap Kṛṣṇa lovingly stretches out His feet: it is said that Kṛṣṇa came to Vidura’s house, laid both feet on his lap and fell asleep (see the *Sārārtha-darśinī* commentary).
 
-[^28]: Heading in the edition: with Śaṅkara near, the Lord’s madness subsides.
+[^28]: Heading in the edition: with Śaṅkara near, the Lord’s divine madness subsides.
 
 [^29]: Heading in the edition: the Lord in separation from Kṛṣṇa, raving in divine madness. *Anubhāṣya*: *goṣṭha* is Vraja, dear to the Lord as countless lives; *dadhat* — “bearing”: the Lord’s face bore the blood from its wounds.
 
@@ -1511,7 +1511,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^41]: *Anubhāṣya*: in this world He tempts the women of Vraja, the gopīs, as His customers.
 
-[^42]: Heading in the edition: the Lord’s madness.
+[^42]: Heading in the edition: the Lord’s divine madness.
 
 [^43]: Heading in the edition: the Lord’s devotion to His mother is described, and His *udghūrṇā* and *citra-jalpa* in separation from Kṛṣṇa. *Amṛta-pravāha-bhāṣya*: from this line many conclude that Kṛṣṇadāsa Kavirāja Gosvāmī was a disciple of Śrī Rūpa who received mantra from him, but other passages of the book make such a conclusion doubtful. Here Kavirāja unfolds rasa according to the teaching of Śrī Rūpa’s *Bhakti-rasāmṛta-sindhu*, and so he may have named Śrī Rūpa alone; or the sense may be that the author, Kṛṣṇadāsa, the servant of the Gosvāmīs, composed this line.
 

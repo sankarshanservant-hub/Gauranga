@@ -48,13 +48,18 @@ re:\b([Bb])rahmin(s?)\b	\1rāhmaṇa\2	# brāhmaṇa (brahminical, brahminhood �
 re:\bCiranjīva\b	Cirañjīva	# IAST: Cirañjīva (চিরঞ্জীব), как в Ади 11, Мадхье 11
 re:\bAnanga\b	Anaṅga	# IAST: Anaṅga
 re:\bGaurachandra\b	Gauracandra	# IAST: Gauracandra
+re:\bP[aā]n?ṇ?ihāṭ[iī]\b	Pāṇihāṭi	# Pāṇihāṭi — везде (решение координатора 2026-11-10)
+re:\bO[rṛ]iy[aā](s?)\b	Oriyā\1	# Oriyā (решение координатора 2026-11-10)
 #
-# 2. Ссылка после цитаты шастры: “…” (Śrīmad-Bhāgavatam, 10.33.3) — прямым шрифтом, с запятой (STYLE-vcd § 9.5)
-re:\(Bhāg\. (\d)	(Śrīmad-Bhāgavatam, \1	# сокращение → полное название
-re:\(\*GGD\* (\d)	(*Gaura-gaṇoddeśa-dīpikā*, \1	# сокращение → полное название (как в остальных 15 ссылках на «Гаура-ганоддешу» в сносках)
-re:(?<=[”’] )\(\*([^*()\[\]]+)\*,? (\d[\d.,–-]*)\)	(\1, \2)	# ссылка после цитаты — прямым шрифтом, с запятой; в сносках-пересказах («… (*Gaura-gaṇoddeśa-dīpikā*, 120)») не трогается — см. отчёт
+# 2. Ссылки. В переводе стиха после цитаты — прямым, с запятой: “…” (Śrīmad-Bhāgavatam, 10.33.3) (STYLE-vcd § 9.5).
+#    В прозе сносок — курсивом, без запятой: (*Gaura-gaṇoddeśa-dīpikā* 120) (решение координатора 2026-11-10; правлено в fn: work-файлов).
+re:^(\(\d[^\[]*?[”’] )\(\*([^*()\[\]]+)\*,? (\d[\d.,–-]*)\)	\1(\2, \3)	# перевод стиха: ссылка после цитаты — прямым, с запятой
+re:\(Bhāg\. (\d)	(*Śrīmad-Bhāgavatam* \1	# сокращение в сносках → полное название, курсивом
+re:\(\*GGD\* (\d)	(*Gaura-gaṇoddeśa-dīpikā* \1	# сокращение → полное название
 #
-# 3. Курсив снят у общих слов традиции (STYLE-vcd § 9.5: guru, avatāra, rasa, prema, bhakti, gopī; списки в шапках выверки Мадхьи 3–25, Антьи 1–20).
+# 3. Курсив снят у общих слов традиции (STYLE-vcd § 9.5; шапки выверки Мадхьи 3–25, Антьи 1–20; координатор 2026-11-10: + prasāda, mahā-prasāda, sūtra).
 #    Оставлен: слово как слово («the word *bhakti*», «is called *prema*»), глосса в скобках «(*rasa*)», в кавычках, в составе сложного слова, лемма сноски «*Anubhāṣya*: *jñāna* — …».
-#    Не входят (решения расходятся — вопрос пользователю): prasāda, mahā-prasāda, rāsa-līlā, bhāva, sūtra.
-re:(?<!\bonly a )(?<!\bword )(?<!\bwords )(?<!\bname )(?<!\bnamed )(?<!\bcall )(?<!\bcalls )(?<!\bcalled )(?<!\bterm )(?<!\btermed )(?<!\bas )(?<!\bis )(?<!“)(?<!‘)(?<!\()(?<!-)(?<!\*: )(?<![\w*])\*(sāttvika\-bhāvas|sāttvika\-bhāva|prema\-bhakti|saṅkīrtana|sannyāsīs|brāhmaṇas|kṣatriyas|Vaiṣṇavas|Vaikuṇṭha|kīrtanas|sāttvika|sannyāsī|sannyāsa|brāhmaṇa|kṣatriya|avatāras|paṇḍitas|Vaiṣṇava|kīrtana|darśana|avatāra|kadamba|mantras|yavanas|paṇḍita|bhakti|śūdras|dharma|sakhīs|tulasī|mantra|ācārya|sādhus|yavana|gopīs|gurus|prema|śūdra|jīvas|karma|jñāna|yogīs|sakhī|sādhu|rasa|rāsa|gopī|guru|jīva|yoga|yogī|māyā)\*(?![\w*])(?! means)(?! here)(?! is called)(?! \(“)(?!”)(?!\))(?!-)	\1	# курсив снят у общих слов традиции (STYLE-vcd § 9.5; решения выверки Мадхьи/Антьи), кроме слова-как-слова/глоссы
+re:(?<!\bonly a )(?<!\bword )(?<!\bwords )(?<!\bname )(?<!\bnamed )(?<!\bcall )(?<!\bcalls )(?<!\bcalled )(?<!\bterm )(?<!\btermed )(?<!\bas )(?<!\bis )(?<!“)(?<!‘)(?<!\()(?<!-)(?<!\*: )(?<![\w*])\*(sāttvika\-bhāvas|sāttvika\-bhāva|prema\-bhakti|mahā\-prasāda|sampradāyas|saṅkīrtana|sampradāya|sannyāsīs|brāhmaṇas|kṣatriyas|Vaiṣṇavas|Vaikuṇṭha|kīrtanas|sāttvika|sannyāsī|sannyāsa|brāhmaṇa|kṣatriya|avatāras|paṇḍitas|Vaiṣṇava|kīrtana|darśana|avatāra|kadamba|mantras|ācāryas|yavanas|paṇḍita|prasāda|bhakti|śūdras|dharma|sakhīs|tulasī|mantra|ācārya|sādhus|yavana|sūtras|gopīs|gurus|prema|śūdra|jīvas|karma|jñāna|yogīs|sakhī|sādhu|sūtra|rasa|rāsa|gopī|guru|jīva|yoga|yogī|māyā)\*(?![\w*])(?! means)(?! here)(?! is called)(?! \(“)(?!”)(?!\))(?!-)	\1	# курсив снят у общих слов традиции
+#
+# 4. Курсивом всегда — технические термины bhāva(s), rāsa-līlā (координатор 2026-11-10)
+re:(?<![\w*\-’])(bhāvas?|rāsa-līlā)(?![\w*\-’])	*\1*	# bhāva, rāsa-līlā — курсивом

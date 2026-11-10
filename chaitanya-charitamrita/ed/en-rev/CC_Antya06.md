@@ -434,11 +434,11 @@ to Nityānanda Gosāñi  he went  the next  day
 কীর্ত্তনীয়া সেবক সঙ্গে আর বহুজন ॥ ৪৩ ॥
 
 pānihāṭi grāme pāilā prabhura daraśana  
-in Pāṇihāṭī  village  he received  the Lord’s  darśana  
+in Pāṇihāṭi  village  he received  the Lord’s  darśana  
 kīrtanīyā sevaka saṅge āra bahu-jana  
 kīrtana singers  servants  with (Him)  and  many people
 
-(43) In the village of Pāṇihāṭī he had darśana of the Lord, who was accompanied by kīrtana singers, servants and many others.
+(43) In the village of Pāṇihāṭi he had darśana of the Lord, who was accompanied by kīrtana singers, servants and many others.
 
 গঙ্গাতীরে বৃক্ষ-মূলে পিণ্ডার উপরে ৷  
 বসিয়াছেন প্রভু, — যেন সূর্য্যোদয় করে ॥ ৪৪ ॥
@@ -3468,7 +3468,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^65]: Heading in the edition: the Lord’s instruction for the sake of unbelievers who see the worshipped Deity of Viṣṇu as stone and the Vaiṣṇava as a caste.
 
-[^66]: Heading in the edition: the pure *sāttvic* worship of a mahā-bhāgavata is service in bhāva, not the mundane *arcana* of a kaniṣṭha-adhikārī; that bhāva itself is prema.
+[^66]: Heading in the edition: the pure *sāttvic* worship of a mahā-bhāgavata is service in *bhāva*, not the mundane *arcana* of a kaniṣṭha-adhikārī; that *bhāva* itself is prema.
 
 [^67]: *Amṛta-pravāha-bhāṣya*: a *vitasti* (span) is half a cubit.
 

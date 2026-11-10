@@ -1449,7 +1449,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^26]: *Amṛta-pravāha-bhāṣya*: the accounts office of the ruler of Gauḍa was called the *Viśvāsa-khānā*; *kāyasthas* worked there because the king trusted them.
 
-[^27]: *Anubhāṣya*: the *Kāvya-prakāśa* is a famous treatise on poetics by Mammaṭa Bhaṭṭa. Heading in the edition: Rāmadāsa belonged to the Rāmānandī *sampradāya* (he was a Rāmāyat). *Amṛta-pravāha-bhāṣya*: one who at heart desires liberation is not counted among pure Vaiṣṇavas; as a worshipper of Rāma, Rāmadāsa was “almost a Vaiṣṇava,” but in those days few could distinguish the degrees of pure Vaiṣṇavas, and so he was known in the world as “a great Vaiṣṇava.”
+[^27]: *Anubhāṣya*: the *Kāvya-prakāśa* is a famous treatise on poetics by Mammaṭa Bhaṭṭa. Heading in the edition: Rāmadāsa belonged to the Rāmānandī sampradāya (he was a Rāmāyat). *Amṛta-pravāha-bhāṣya*: one who at heart desires liberation is not counted among pure Vaiṣṇavas; as a worshipper of Rāma, Rāmadāsa was “almost a Vaiṣṇava,” but in those days few could distinguish the degrees of pure Vaiṣṇavas, and so he was known in the world as “a great Vaiṣṇava.”
 
 [^28]: The Gauḍīya Maṭha edition (p. 1007) reads *bali’*, “saying”; another reading is *jāni*, “knowing (him).”
 

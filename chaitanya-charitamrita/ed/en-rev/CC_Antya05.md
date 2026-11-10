@@ -220,7 +220,7 @@ of Mahāprabhu  of the devotees  unfathomable  glory
 tāhe rāmānandera bhāva-bhakti-prema-sīmā  
 among them  Rāmānanda’s  of bhāva, bhakti and prema  the limit
 
-(21) The glory of Mahāprabhu’s devotees is unfathomable, and in Rāmānanda bhāva, bhakti and prema reach their utmost limit.
+(21) The glory of Mahāprabhu’s devotees is unfathomable, and in Rāmānanda *bhāva*, bhakti and prema reach their utmost limit.
 
 তবে সেই দুইজনে নৃত্য শিখাইলা ৷  
 গীতের গূঢ় অর্থ অভিনয় করাইলা ॥ ২২ ॥
@@ -250,7 +250,7 @@ bhāva-revealing graceful dance  Rāya  which  teaches
 jagannāthera āge dum̐he prakaṭa dekhāya  
 of Jagannātha  before  the two  openly  show
 
-(24) Rāya taught them the graceful feminine dance (*lāsya*) that reveals bhāva, and the two would display it openly before Jagannātha.
+(24) Rāya taught them the graceful feminine dance (*lāsya*) that reveals *bhāva*, and the two would display it openly before Jagannātha.
 
 তবে সেই দুইজনে প্রসাদ খাওয়াইলা ৷  
 নিভৃতে দুঁহারে নিজ-ঘরে পাঠাইলা ॥ ২৫ ॥
@@ -407,7 +407,7 @@ yet  unmoved  of Rāya Rāmānanda  the mind
 nānābhāvodgama tāre karāya śikṣaṇa  
 the rising of various bhāvas  them  he makes  learn
 
-(40) Yet the mind of Rāya Rāmānanda remains unmoved as he teaches them to express the stirrings of many different bhāvas.[^11]
+(40) Yet the mind of Rāya Rāmānanda remains unmoved as he teaches them to express the stirrings of many different *bhāvas*.[^11]
 
 নির্ব্বিকার দেহ-মন — কাষ্ঠ-পাষাণ সম !  
 আশ্চর্য্য, — তরুণী-স্পর্শে নির্ব্বিকার মন ! ॥ ৪১ ॥
@@ -500,7 +500,7 @@ who  hears  who  reads  his  fruit  is such
 sei bhāvāviṣṭa, yei seve ahar-niśi  
 he  absorbed in bhāva  who  serves  day and night
 
-(49) Such is the fruit for whoever hears or reads of these pastimes. But as for one who, absorbed in bhāva, serves day and night —[^15]
+(49) Such is the fruit for whoever hears or reads of these pastimes. But as for one who, absorbed in *bhāva*, serves day and night —[^15]
 
 তাঁর ফল কি কহিমু, কহনে না যায় ৷  
 নিত্যসিদ্ধ সেই, প্রায়-সিদ্ধ তাঁর কায় ॥ ৫০ ॥
@@ -1696,7 +1696,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^10]: The Gauḍīya Maṭha edition reads “তাহাদের সব সেবা”, “every service for them” (*Anubhāṣya*: all kinds of service; cf. 39).
 
-[^11]: *Anubhāṣya*: the thirty-three kinds of bhāva needed to enact the pastimes of Kṛṣṇa.
+[^11]: *Anubhāṣya*: the thirty-three kinds of *bhāva* needed to enact the pastimes of Kṛṣṇa.
 
 [^12]: The second line is the same as Madhya 13.67; translation as there.
 

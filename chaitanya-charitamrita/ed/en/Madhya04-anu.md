@@ -28,13 +28,13 @@
 
 ## 12
 
-> Subheading: The Lord arrives at Remuṇā and has *darśana* of Gopīnātha —
+> Subheading: The Lord arrives at Remuṇā and has darśana of Gopīnātha —
 
 ***Remuṇā*** — see the *Anubhāṣya* on Madhya 1.97. The Deity Gopīnātha resides here, and the *samādhi* of Rasikānanda Prabhu, the servant of Śyāmānanda Prabhu, still exists here.
 
 ## 15
 
-> Subheading: The Lord dances and sings *kīrtana*, and the servants of the Deity honour Him —
+> Subheading: The Lord dances and sings kīrtana, and the servants of the Deity honour Him —
 
 ## 17
 
@@ -78,7 +78,7 @@
 
 ## 34
 
-> Subheading: In *samādhi* Purī receives *darśana* of Kṛṣṇa in the form of a boy —
+> Subheading: In *samādhi* Purī receives darśana of Kṛṣṇa in the form of a boy —
 
 ***Nāma*** — the name of Hari. ***Bāhya-vṛtti-laya*** (“his outward faculties ceased”) — he became absorbed in the *samādhi* of devotion.
 
@@ -202,11 +202,11 @@ See Ādi 3.86–89.
 
 ## 83
 
-> Subheading: Everyone honours the *mahā-prasāda* of the Annakūṭa —
+> Subheading: Everyone honours the mahā-prasāda of the Annakūṭa —
 
 ## 85
 
-> Subheading: All who merely came to see honoured the *prasāda* —
+> Subheading: All who merely came to see honoured the prasāda —
 
 ## 86
 
@@ -242,7 +242,7 @@ See Ādi 3.86–89.
 
 ## 96
 
-> Subheading: Everyone honours the *mahā-prasāda* —
+> Subheading: Everyone honours the mahā-prasāda —
 
 ## 97
 
@@ -294,15 +294,15 @@ See Ādi 3.86–89.
 
 > Subheading: From Śāntipura Purī sets out on the road to Purī —
 
-Advaita Prabhu received the mantra of initiation from Śrī Mādhavendra Purī, the king of ascetics (*yatirāja*) and guru of the Mādhva-sampradāya. And Śrī Mahāprabhu, in keeping with Śrī Mādhavendra Purī’s intention, taught: “Whether one is a *vipra*, a *sannyāsī* or a *śūdra* — whoever knows the truth of Kṛṣṇa is a guru.”[^111-1]
+Advaita Prabhu received the mantra of initiation from Śrī Mādhavendra Purī, the king of ascetics (*yatirāja*) and guru of the Mādhva-sampradāya. And Śrī Mahāprabhu, in keeping with Śrī Mādhavendra Purī’s intention, taught: “Whether one is a *vipra*, a sannyāsī or a śūdra — whoever knows the truth of Kṛṣṇa is a guru.”[^111-1]
 
-According to the *Pañcarātra*, no one but a householder brāhmaṇa has the right to give initiation (*dīkṣā*). For one who receives *dīkṣā* attains the brāhmaṇa status of initiation (*daikṣa* brāhmaṇa status), and a non-brāhmaṇa has no power to pass brāhmaṇa status on to another. Brāhmaṇa status is therefore, as a matter of course, a necessary quality of the one who gives initiation and is inseparable from the position of a Vaiṣṇava *ācārya*. A householder living in *varṇāśrama* can gather the various articles of worship (*upacāras*) with honest money he has earned himself and worship Bhagavān with mantras. A disciple engaged in worldly affairs learns from such an experienced householder guru that the sole aim of *varṇāśrama* is the service of Bhagavān, and he asks for initiation into the mantra so that he himself may be freed from the desires of household life. That is why the guru must be a genuine Vaiṣṇava householder. A *sannyāsī* guru who devotes himself to Deity worship (*arcana*) meets with many difficulties.
+According to the *Pañcarātra*, no one but a householder brāhmaṇa has the right to give initiation (*dīkṣā*). For one who receives *dīkṣā* attains the brāhmaṇa status of initiation (*daikṣa* brāhmaṇa status), and a non-brāhmaṇa has no power to pass brāhmaṇa status on to another. Brāhmaṇa status is therefore, as a matter of course, a necessary quality of the one who gives initiation and is inseparable from the position of a Vaiṣṇava ācārya. A householder living in *varṇāśrama* can gather the various articles of worship (*upacāras*) with honest money he has earned himself and worship Bhagavān with mantras. A disciple engaged in worldly affairs learns from such an experienced householder guru that the sole aim of *varṇāśrama* is the service of Bhagavān, and he asks for initiation into the mantra so that he himself may be freed from the desires of household life. That is why the guru must be a genuine Vaiṣṇava householder. A sannyāsī guru who devotes himself to Deity worship (*arcana*) meets with many difficulties.
 
-When one accepts a guru who leads to the highest goal (*pāramārthika-guru*), the general rule may seem almost disregarded, but in reality it is not disregarded. Brāhmaṇa status by birth (*śaukra-vipratva*) or *śūdra* status by birth (*śaukra-śūdratva*) is not at all the brāhmaṇa qualification meant where a guru is concerned; what is meant is *sāvitrya* and *daikṣya* brāhmaṇa status. Śrī Mahāprabhu saw the weakness of the hearts of the *jīvas* and of society. He knew that common people’s notion of caste rests entirely on birth from seed, and therefore He spoke as He did in the verse *kibā vipra*. He only explained the purport of the scriptures, for there is no doubt that one who knows the truth of Kṛṣṇa is a *sāvitrya* or *daikṣya* brāhmaṇa. “Because it gives divine knowledge and destroys sin, the teachers who know the truth call it *dīkṣā*.” “Householder guru” does not mean *gṛhavratas*, slaves of the senses; nor does “Vaiṣṇava *sannyāsī*” mean a person proud of his place in *varṇāśrama*.
+When one accepts a guru who leads to the highest goal (*pāramārthika-guru*), the general rule may seem almost disregarded, but in reality it is not disregarded. Brāhmaṇa status by birth (*śaukra-vipratva*) or śūdra status by birth (*śaukra-śūdratva*) is not at all the brāhmaṇa qualification meant where a guru is concerned; what is meant is *sāvitrya* and *daikṣya* brāhmaṇa status. Śrī Mahāprabhu saw the weakness of the hearts of the jīvas and of society. He knew that common people’s notion of caste rests entirely on birth from seed, and therefore He spoke as He did in the verse *kibā vipra*. He only explained the purport of the scriptures, for there is no doubt that one who knows the truth of Kṛṣṇa is a *sāvitrya* or *daikṣya* brāhmaṇa. “Because it gives divine knowledge and destroys sin, the teachers who know the truth call it *dīkṣā*.” “Householder guru” does not mean *gṛhavratas*, slaves of the senses; nor does “Vaiṣṇava *sannyāsī*” mean a person proud of his place in *varṇāśrama*.
 
 ## 112
 
-> Subheading: In Remuṇā Purī has *darśana* of Gopīnātha, dances and sings —
+> Subheading: In Remuṇā Purī has darśana of Gopīnātha, dances and sings —
 
 ## 113
 
@@ -348,7 +348,7 @@ The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Pr
 
 ## 125
 
-> Subheading: Solitary *kīrtana* in seclusion —
+> Subheading: Solitary kīrtana in seclusion —
 
 ## 126
 
@@ -446,7 +446,7 @@ Many conditioned souls are envious (*matsara*) by nature. Against anyone who gai
 
 ## 154
 
-> Subheading: Purī arrives in Remuṇā, has *darśana* of Gopīnātha, dances and sings —
+> Subheading: Purī arrives in Remuṇā, has darśana of Gopīnātha, dances and sings —
 
 ## 157
 
@@ -502,7 +502,7 @@ All this effort is for Kṛṣṇa’s pleasure; it is not an attempt to enjoy m
 
 > Subheading: Purī’s love and the greatness of his life —
 
-Separation from Kṛṣṇa, that is, spiritual *vipralambha*, is the *jīva’s* only *sādhana*. *Nirveda* born of material separation reveals only attachment to matter; but *nirveda* born of separation from Kṛṣṇa is the highest sign of the desire to please Kṛṣṇa’s senses. The incomparable desire of the original *mahājana*, Śrīpāda Mādhavendra, to please Kṛṣṇa’s senses is the only model for a *jīva* who seeks to serve Kṛṣṇa, and it deserves special attention. It is just this that Śrīman Mahāprabhu and His intimate potencies (*antaraṅga-śakti*) later showed by Their conduct.
+Separation from Kṛṣṇa, that is, spiritual *vipralambha*, is the *jīva’s* only *sādhana*. *Nirveda* born of material separation reveals only attachment to matter; but *nirveda* born of separation from Kṛṣṇa is the highest sign of the desire to please Kṛṣṇa’s senses. The incomparable desire of the original *mahājana*, Śrīpāda Mādhavendra, to please Kṛṣṇa’s senses is the only model for a jīva who seeks to serve Kṛṣṇa, and it deserves special attention. It is just this that Śrīman Mahāprabhu and His intimate potencies (*antaraṅga-śakti*) later showed by Their conduct.
 
 ## 179
 
@@ -552,7 +552,7 @@ In the natural conduct of those who love deeply one sees that suffering, obstacl
 
 ## 197
 
-**ayi** (the tender address of the daughter of King Vṛṣabhānu to Her beloved) **dīna-dayārdra** (O You whose heart melts with compassion for the wretched. The wretched are the *gopīs*, His own, tormented by separation from Kṛṣṇa; compassion for them is the mercy that drives away the fever of their separation [*vipralambha*] and lets them directly experience His form, qualities and pastimes. Melted by it, with a heart full of *rasa* — that is, with a heart made utterly soft by compassion for the *gopīs*, afflicted by the fever of intense separation) **nātha** (O Lord — the sole beloved of *gopīs* like Me), **he mathurā-nātha** (O Lord of Mathurā, master of the people of Mathurā! If You think of Yourself as the beloved of the *gopīs*, how is it that, forgetting us *gopīs*, You stay there out of a desire for majesty [*aiśvarya*] to please the women of Mathurā, who are only ordinary lovers [*sādhāraṇī*]? So You have a hard heart, without pity for the *gopīs*!) **tvam** (You) **kadā** (when) **avalokyase** (will be seen — by the *gopī* afflicted by separation, and by me, who have taken shelter of Her mood)? **he dayita** (O beloved — dearer than life itself!) **tvad-aloka-kātaraṁ** (afflicted at not seeing You) **hṛdayaṁ** (the heart — the heart of the *gopī*, distressed and agitated with longing for Your *darśana*, full of *udghūrṇā*, *citra-jalpa* and so on) **bhrāmyati** (is losing its senses), **kiṁ karomi** (what shall I do — tell me).
+**ayi** (the tender address of the daughter of King Vṛṣabhānu to Her beloved) **dīna-dayārdra** (O You whose heart melts with compassion for the wretched. The wretched are the gopīs, His own, tormented by separation from Kṛṣṇa; compassion for them is the mercy that drives away the fever of their separation [*vipralambha*] and lets them directly experience His form, qualities and pastimes. Melted by it, with a heart full of rasa — that is, with a heart made utterly soft by compassion for the gopīs, afflicted by the fever of intense separation) **nātha** (O Lord — the sole beloved of gopīs like Me), **he mathurā-nātha** (O Lord of Mathurā, master of the people of Mathurā! If You think of Yourself as the beloved of the gopīs, how is it that, forgetting us gopīs, You stay there out of a desire for majesty [*aiśvarya*] to please the women of Mathurā, who are only ordinary lovers [*sādhāraṇī*]? So You have a hard heart, without pity for the gopīs!) **tvam** (You) **kadā** (when) **avalokyase** (will be seen — by the gopī afflicted by separation, and by me, who have taken shelter of Her mood)? **he dayita** (O beloved — dearer than life itself!) **tvad-aloka-kātaraṁ** (afflicted at not seeing You) **hṛdayaṁ** (the heart — the heart of the gopī, distressed and agitated with longing for Your darśana, full of *udghūrṇā*, *citra-jalpa* and so on) **bhrāmyati** (is losing its senses), **kiṁ karomi** (what shall I do — tell me).
 
 ## 198
 
@@ -574,7 +574,7 @@ In the natural conduct of those who love deeply one sees that suffering, obstacl
 
 > Subheading: The Lord returns to outward consciousness —
 
-***Prema-nāṭa*** — dancing under the sway of *prema*.
+***Prema-nāṭa*** — dancing under the sway of prema.
 
 ## 204
 
@@ -592,13 +592,13 @@ In the natural conduct of those who love deeply one sees that suffering, obstacl
 
 ## 207
 
-> Subheading: The Lord and the four led by Nitāi honour the *prasāda* —
+> Subheading: The Lord and the four led by Nitāi honour the prasāda —
 
 ***Bāhaḍiyā*** — stepping forward, gave back.
 
 ## 208
 
-Although Śrīman Mahāprabhu, in the form of the Deity Śrī Gopīnātha, had already eaten this very *kṣīra*, still, as the teacher of the people, He honoured the *mahā-prasāda* of *kṣīra* in order to demonstrate the worship of Kṛṣṇa.
+Although Śrīman Mahāprabhu, in the form of the Deity Śrī Gopīnātha, had already eaten this very *kṣīra*, still, as the teacher of the people, He honoured the mahā-prasāda of *kṣīra* in order to demonstrate the worship of Kṛṣṇa.
 
 ## 209
 

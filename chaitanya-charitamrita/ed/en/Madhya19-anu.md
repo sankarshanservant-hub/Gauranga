@@ -2,7 +2,7 @@
 
 ## 1
 
-> Subheading: Gaurasundara reveals through Śrī Rūpa the truth of Vraja’s pastimes full of *rasa* —
+> Subheading: Gaurasundara reveals through Śrī Rūpa the truth of Vraja’s pastimes full of rasa —
 
 **saḥ** **prabhuḥ** (Śrī Gaura) **utkaḥ** (being eager) **loka-sṛṣṭim** **prāk** (before the creation of the universe and so on) **vidhau** (into the Creator, Brahmā) **iva** **rūpe** (into Śrī Rūpa Gosvāmī) **nija-śaktim** **sañcārya** (placing) **kālena** (by the course of time) **luptāṁ** (vanished) **vṛndāvanīyāṁ** **rasa-keli-vārtāṁ** (the account of the pastimes of the son of the King of Vraja in Vṛndāvana) **punaḥ** **vyatanot** (revealed).
 
@@ -24,7 +24,7 @@
 
 ## 7
 
-> Subheading: He gives half his wealth to *brāhmaṇas* and Vaiṣṇavas and a quarter to his relatives —
+> Subheading: He gives half his wealth to brāhmaṇas and Vaiṣṇavas and a quarter to his relatives —
 
 ## 8
 
@@ -60,7 +60,7 @@
 
 ## 17
 
-*Bhāgavata-vicāra*: discussing the *Bhāgavatam*. Knowledge is of “two” kinds (Muṇḍaka Upaniṣad 1.1.4–5): “The knowers of Brahman, as is well known, say that two kinds of knowledge are to be known, the higher and the lower. Of these, the lower is the Ṛg Veda, the Yajur Veda, the Sāma Veda, the Atharva Veda, *śikṣā*, *kalpa*, *vyākaraṇa*, *nirukta*, *chandas* and *jyotiṣa*. And the higher is that by which the Imperishable is attained.” The higher knowledge is spoken of in the *Brahma-sūtra*, or Vedānta. Vedāntists who desire liberation are as full of deceit (*kaitava*) as those who desire *dharma*, *artha* and *kāma*. Therefore everything the scriptures of the lower and the higher knowledge say with an intent towards liberation, which opposes pure *bhakti*, is full of deceit. But the scripture *Śrīmad-Bhāgavatam* is not like that. *Karmīs* liable to Yama’s punishment, or *ahaṅgrahopāsakas* (who worship themselves as God), are wholly unfit to discuss the *Śrīmad-Bhāgavatam*. Only the Vaiṣṇavas, discussing the *Bhāgavatam*, are freed from *saṁsāra* by the power of *bhakti*. “The *Śrīmad-Bhāgavatam* is the spotless Purāṇa, dear to the Vaiṣṇavas. In it is sung the one pure, supreme knowledge of the *paramahaṁsas*. In it freedom from *karma* (*naiṣkarmya*) is revealed, together with knowledge, renunciation and *bhakti*. A person who hears it with devotion, reads it properly and reflects on it is liberated.” (*Śrīmad-Bhāgavatam* 12.13.18)
+*Bhāgavata-vicāra*: discussing the *Bhāgavatam*. Knowledge is of “two” kinds (*Muṇḍaka Upaniṣad* 1.1.4–5): “The knowers of Brahman, as is well known, say that two kinds of knowledge are to be known, the higher and the lower. Of these, the lower is the Ṛg Veda, the Yajur Veda, the Sāma Veda, the Atharva Veda, *śikṣā*, *kalpa*, *vyākaraṇa*, *nirukta*, *chandas* and *jyotiṣa*. And the higher is that by which the Imperishable is attained.” The higher knowledge is spoken of in the *Brahma-sūtra*, or Vedānta. Vedāntists who desire liberation are as full of deceit (*kaitava*) as those who desire dharma, *artha* and *kāma*. Therefore everything the scriptures of the lower and the higher knowledge say with an intent towards liberation, which opposes pure bhakti, is full of deceit. But the scripture *Śrīmad-Bhāgavatam* is not like that. *Karmīs* liable to Yama’s punishment, or *ahaṅgrahopāsakas* (who worship themselves as God), are wholly unfit to discuss the *Śrīmad-Bhāgavatam*. Only the Vaiṣṇavas, discussing the *Bhāgavatam*, are freed from *saṁsāra* by the power of bhakti. “The *Śrīmad-Bhāgavatam* is the spotless Purāṇa, dear to the Vaiṣṇavas. In it is sung the one pure, supreme knowledge of the *paramahaṁsas*. In it freedom from karma (*naiṣkarmya*) is revealed, together with knowledge, renunciation and bhakti. A person who hears it with devotion, reads it properly and reflects on it is liberated.” (*Śrīmad-Bhāgavatam* 12.13.18)
 
 ## 18
 
@@ -134,7 +134,7 @@ See Ādi 10.84.
 
 ## 40
 
-> Subheading: Prayāga drowns in a flood of *prema* —
+> Subheading: Prayāga drowns in a flood of prema —
 
 ## 41
 
@@ -146,7 +146,7 @@ See Ādi 10.84.
 
 ## 44
 
-> Subheading: The Lord takes His meal at the house of a South Indian *brāhmaṇa* —
+> Subheading: The Lord takes His meal at the house of a South Indian brāhmaṇa —
 
 ## 45
 
@@ -162,13 +162,13 @@ See Ādi 10.84.
 
 ## 49
 
-> Subheading: The Lord describes how by Kṛṣṇa’s mercy the *jīva* is freed from *saṁsāra* —
+> Subheading: The Lord describes how by Kṛṣṇa’s mercy the jīva is freed from *saṁsāra* —
 
 ## 50
 
 > Subheading: A Vaiṣṇava, in whatever family he is born, is in every way worthy of worship by all, like Bhagavān — (*Hari-bhakti-vilāsa* 10.91) (words of the *Itihāsa-samuccaya*) —
 
-**abhaktaḥ** (devoid of pure *bhakti*) **catur-vedī** (a *brāhmaṇa* expert in the four Vedas) **me** (to Me) **priyaḥ** **na** (is not); **mad-bhaktaḥ** **śva-pacaḥ** (even if born in the very lowest family) **me** **priyaḥ** (is); **tasmai** (to such a pure devotee, even a dog-eater of low birth, the *brāhmaṇas* and others expert in the four Vedas themselves should offer honour and so on) **deyaṁ**; **tataḥ** (from him, from the pure devotee, even a dog-eater of low birth) **grāhyaṁ** (one should accept his remnants and so on); **yathā** **aham** (Śrī Bhagavān Viṣṇu, the Lord of all lords) **pūjyaḥ**, (so) **saḥ** (the devotee, even if born in a family of dog-eaters, by all, the *brāhmaṇas* and others, who stand as his disciples) **pūjyaḥ** **ca**.
+**abhaktaḥ** (devoid of pure *bhakti*) **catur-vedī** (a brāhmaṇa expert in the four Vedas) **me** (to Me) **priyaḥ** **na** (is not); **mad-bhaktaḥ** **śva-pacaḥ** (even if born in the very lowest family) **me** **priyaḥ** (is); **tasmai** (to such a pure devotee, even a dog-eater of low birth, the brāhmaṇas and others expert in the four Vedas themselves should offer honour and so on) **deyaṁ**; **tataḥ** (from him, from the pure devotee, even a dog-eater of low birth) **grāhyaṁ** (one should accept his remnants and so on); **yathā** **aham** (Śrī Bhagavān Viṣṇu, the Lord of all lords) **pūjyaḥ**, (so) **saḥ** (the devotee, even if born in a family of dog-eaters, by all, the brāhmaṇas and others, who stand as his disciples) **pūjyaḥ** **ca**.
 
 ## 51
 
@@ -188,7 +188,7 @@ See Ādi 10.84.
 
 > Subheading: The author’s obeisance to Gaura — (*Govinda-līlāmṛta* 1.2: the author’s words) —
 
-**yaḥ** **dayāluḥ** (the embodiment of mercy) **ajñāna-mattaṁ** (maddened by ignorance, bewildered by the paths of Māyāvāda, enjoyment of the fruits of *karma* and so on) **bhuvanaṁ** (the world) **sva-prema-sampat-sudhayā** (with the nectar of His own treasure, love for Kṛṣṇa: that treasure is itself the nectar) **ullāghayan** (quelling all such knowledge and so on) **pramattam** (free from seeking worldly objects such as enjoyment and liberation, and constantly attached to the cultivation of Kṛṣṇa) **akarot**, **amuṁ** (Him) **adbhutehaṁ**[^54-1] (whose deeds were never heard of before) **śrī-kṛṣṇa-caitanyam** (I) **prapadye** (take shelter).
+**yaḥ** **dayāluḥ** (the embodiment of mercy) **ajñāna-mattaṁ** (maddened by ignorance, bewildered by the paths of Māyāvāda, enjoyment of the fruits of karma and so on) **bhuvanaṁ** (the world) **sva-prema-sampat-sudhayā** (with the nectar of His own treasure, love for Kṛṣṇa: that treasure is itself the nectar) **ullāghayan** (quelling all such knowledge and so on) **pramattam** (free from seeking worldly objects such as enjoyment and liberation, and constantly attached to the cultivation of Kṛṣṇa) **akarot**, **amuṁ** (Him) **adbhutehaṁ**[^54-1] (whose deeds were never heard of before) **śrī-kṛṣṇa-caitanyam** (I) **prapadye** (take shelter).
 
 ## 55
 
@@ -218,9 +218,9 @@ See Ādi 10.84.
 
 > Subheading: Vallabha Bhaṭṭa meets the Lord —
 
-Vallabha Bhaṭṭa was the son of Lakṣmaṇa Dīkṣita of the village of Kāṅkaḍavāḍa, or Kākũrapāḍa, 16 miles from Niḍāḍāvalu railway station in the land of Trailaṅga. The Āndhra *brāhmaṇas* have five divisions: Vellanāṭī, Vegī-nāṭī, Muraki-nāṭī, Telagu-nāṭī and Kāśala-nāṭī. Of these, Śrī Vallabhācārya was born in a family of Vellanāṭī Āndhra *brāhmaṇas* in Śaka 1400. Some say that even before Vallabha’s birth his father took *sannyāsa* and left home, and later returned home again and obtained Vallabhācārya as his son.
+Vallabha Bhaṭṭa was the son of Lakṣmaṇa Dīkṣita of the village of Kāṅkaḍavāḍa, or Kākũrapāḍa, 16 miles from Niḍāḍāvalu railway station in the land of Trailaṅga. The Āndhra brāhmaṇas have five divisions: Vellanāṭī, Vegī-nāṭī, Muraki-nāṭī, Telagu-nāṭī and Kāśala-nāṭī. Of these, Śrī Vallabhācārya was born in a family of Vellanāṭī Āndhra brāhmaṇas in Śaka 1400. Some say that even before Vallabha’s birth his father took sannyāsa and left home, and later returned home again and obtained Vallabhācārya as his son.
 
-According to another view, in Vikrama Saṁvat 1535, that is, Śaka 1400, on the dark *ekādaśī* of the month of Caitra, Vallabhācārya appeared in “Campakāraṇya” as the son of Lakṣmaṇa Bhaṭṭa Dīkṣita, who belonged to a Vellanāṭī *brāhmaṇa* family of the land of Trailaṅga and bore the title “Khambhampāṭīvāru.” According to yet another view, he appeared in the village of Cā̃pājhāra near Rājima station on the B. N. R. line in Madhya Pradesh. He lived in Kāśī until the age of eleven, and when, his studies completed, he was returning home, on the way, at Śeṣādri, he heard of his father’s death. Leaving his brother and mother at home, he went to Vidyānagara on the bank of the Tuṅgabhadrā and delighted Kṛṣṇadeva, the grandson of King Bukka. After this he spent eighteen years in three *digvijayas* of six years each. At the age of thirty, in Kāśī, he married a *brāhmaṇa* girl of his own caste named “Mahālakṣmī.” After installing a Deity on the plateau of Govardhana Hill, he settled in the village of Āḍāila near Prayāga. He had two sons, Gopīnātha and Viṭhṭhaleśvara. In his last years he accepted *tridaṇḍi-sannyāsa*, and in Śaka 1452 he left this world in Vārāṇasī. Besides a few of Vallabha’s books, such as the *Ṣoḍaśa-grantha*, the *Anubhāṣya* on the *Brahma-sūtra* and the *Subodhinī* commentary on the *Śrīmad-Bhāgavatam*, there are many more books of his.
+According to another view, in Vikrama Saṁvat 1535, that is, Śaka 1400, on the dark *ekādaśī* of the month of Caitra, Vallabhācārya appeared in “Campakāraṇya” as the son of Lakṣmaṇa Bhaṭṭa Dīkṣita, who belonged to a Vellanāṭī brāhmaṇa family of the land of Trailaṅga and bore the title “Khambhampāṭīvāru.” According to yet another view, he appeared in the village of Cā̃pājhāra near Rājima station on the B. N. R. line in Madhya Pradesh. He lived in Kāśī until the age of eleven, and when, his studies completed, he was returning home, on the way, at Śeṣādri, he heard of his father’s death. Leaving his brother and mother at home, he went to Vidyānagara on the bank of the Tuṅgabhadrā and delighted Kṛṣṇadeva, the grandson of King Bukka. After this he spent eighteen years in three *digvijayas* of six years each. At the age of thirty, in Kāśī, he married a brāhmaṇa girl of his own caste named “Mahālakṣmī.” After installing a Deity on the plateau of Govardhana Hill, he settled in the village of Āḍāila near Prayāga. He had two sons, Gopīnātha and Viṭhṭhaleśvara. In his last years he accepted *tridaṇḍi-sannyāsa*, and in Śaka 1452 he left this world in Vārāṇasī. Besides a few of Vallabha’s books, such as the *Ṣoḍaśa-grantha*, the *Anubhāṣya* on the *Brahma-sūtra* and the *Subodhinī* commentary on the *Śrīmad-Bhāgavatam*, there are many more books of his.
 
 ## 62
 
@@ -228,7 +228,7 @@ According to another view, in Vikrama Saṁvat 1535, that is, Śaka 1400, on the
 
 ## 63
 
-> Subheading: The Lord is filled with *prema*, but, regarding Vallabha as an outsider, conceals it —
+> Subheading: The Lord is filled with prema, but, regarding Vallabha as an outsider, conceals it —
 
 ## 64
 
@@ -266,9 +266,9 @@ See Madhya 11.192.
 
 ## 74
 
-> Subheading: A devotee of Hari, even if born in a low family, is worthy of worship, while a non-devotee *brāhmaṇa* in name only, even if he knows the Vedas, is contemptible — (*Hari-bhakti-sudhodaya* 3.11–12) —
+> Subheading: A devotee of Hari, even if born in a low family, is worthy of worship, while a non-devotee brāhmaṇa in name only, even if he knows the Vedas, is contemptible — (*Hari-bhakti-sudhodaya* 3.11–12) —
 
-**sad-bhakti-dīptāgni-dagdha-durjāti-kalmaṣaḥ** (one in whom true, exclusive *bhakti* for Kṛṣṇa, a blazing fire, has burned to nothing the taint, that is, the sins that have begun to bear fruit (*prārabdha*), such as low birth; therefore, through service to Kṛṣṇa alone, he is) **śuciḥ** (pure in conduct), **śva-pākaḥ** (born in the very lowest family) **api** **budhaiḥ** (by the wise) **ślāghyaḥ** (is honoured); (but) **nāstikaḥ** (one averse to the service of Bhagavān Kṛṣṇa) **veda-jñaḥ** (a *brāhmaṇa* who has mastered the Vedas and *śāstras*) **api** **na** (is not honoured: because of the bad association he brings, the traveller on the path to the supreme goal must reject him in every way; this is the meaning).
+**sad-bhakti-dīptāgni-dagdha-durjāti-kalmaṣaḥ** (one in whom true, exclusive bhakti for Kṛṣṇa, a blazing fire, has burned to nothing the taint, that is, the sins that have begun to bear fruit (*prārabdha*), such as low birth; therefore, through service to Kṛṣṇa alone, he is) **śuciḥ** (pure in conduct), **śva-pākaḥ** (born in the very lowest family) **api** **budhaiḥ** (by the wise) **ślāghyaḥ** (is honoured); (but) **nāstikaḥ** (one averse to the service of Bhagavān Kṛṣṇa) **veda-jñaḥ** (a brāhmaṇa who has mastered the Vedas and *śāstras*) **api** **na** (is not honoured: because of the bad association he brings, the traveller on the path to the supreme goal must reject him in every way; this is the meaning).
 
 ## 75
 
@@ -284,7 +284,7 @@ See Madhya 11.192.
 
 ## 78
 
-> Subheading: Seeing the dark-blue water of the Yamunā, which awakens the remembrance of Kṛṣṇa, the Lord is overwhelmed with *prema* —
+> Subheading: Seeing the dark-blue water of the Yamunā, which awakens the remembrance of Kṛṣṇa, the Lord is overwhelmed with prema —
 
 ## 79
 
@@ -300,7 +300,7 @@ See Madhya 11.192.
 
 ## 82
 
-> Subheading: Though the Lord tries to restrain Himself near the outsider Bhaṭṭa, He is maddened with *prema* —
+> Subheading: Though the Lord tries to restrain Himself near the outsider Bhaṭṭa, He is maddened with prema —
 
 *Durvāra*: that whose manifestation cannot be checked, that is, stopped. *Uddhaṭa*: generous, excellent, unprecedented, wonderful, renowned, extraordinary, mighty.
 
@@ -308,7 +308,7 @@ See Madhya 11.192.
 
 > Subheading: The Lord regains composure; they land on the other shore —
 
-*Deśa-pātra* (“the place and the people”): on a boat that is nearly sinking, dancing and the like are not convenient. Moreover, near a *paṇḍita* poor in *prema*, such as Vallabha Dīkṣita, the *sāttvika-bhāvas* do not blossom.
+*Deśa-pātra* (“the place and the people”): on a boat that is nearly sinking, dancing and the like are not convenient. Moreover, near a paṇḍita poor in prema, such as Vallabha Dīkṣita, the sāttvika-bhāvas do not blossom.
 
 ## 84
 
@@ -344,7 +344,7 @@ See Madhya 11.192.
 
 ## 92
 
-> Subheading: Raghupati Upādhyāya, a *paṇḍita* from Trihuta, arrives —
+> Subheading: Raghupati Upādhyāya, a paṇḍita from Trihuta, arrives —
 
 “Tiruṭiyā,” or “Tirahuṭiyā”: today four districts, Sāraṇa, Campāraṇa, Majaḥpharapura (Muzaffarpur) and Dvārabhāṅgā (Darbhanga), belong to the Tirhut division. An inhabitant of this region is called a “Tiruṭiyā.”
 
@@ -358,7 +358,7 @@ See Madhya 11.192.
 
 ## 95
 
-> Subheading: The Upādhyāya recites his own *śloka*; the Lord is overwhelmed with *prema* —
+> Subheading: The Upādhyāya recites his own *śloka*; the Lord is overwhelmed with prema —
 
 ## 96
 
@@ -374,7 +374,7 @@ See Madhya 11.192.
 
 ## 99
 
-> Subheading: As Raghupati recites the *śloka*, the Lord is overwhelmed with *prema* —
+> Subheading: As Raghupati recites the *śloka*, the Lord is overwhelmed with prema —
 
 *Āluyāilā*: became disordered. The mind, free of worldly deliberation, became indifferent, and therefore even the actions of the body slackened.
 
@@ -430,7 +430,7 @@ The two sons were Gopīnātha and Viṭhṭhaleśvara. Śrī Mahāprabhu came to
 
 ## 110
 
-> Subheading: The *brāhmaṇas* invite the Lord; Vallabha stops them —
+> Subheading: The brāhmaṇas invite the Lord; Vallabha stops them —
 
 ## 113
 
@@ -440,15 +440,15 @@ The two sons were Gopīnātha and Viṭhṭhaleśvara. Śrī Mahāprabhu came to
 
 > Subheading: In private, at Daśāśvamedha-ghāṭa, the Lord infuses power into Śrī Rūpa and instructs him —
 
-Bhagavān possesses unlimited energies. A *jīva* who has pious merit (*sukṛti*) receives the energy of mercy from Bhagavān, the possessor of energies. Fallen into the jaws of *māyā*, the *jīva*, because of ignorance, that is, aversion to Kṛṣṇa, remains uninitiated into the truth of *sambandha*, *abhidheya* and *prayojana*. Bhagavān Gaurahari mercifully first bestowed on Śrī Rūpa Gosvāmī the power to understand the truth and then taught him the truth.
+Bhagavān possesses unlimited energies. A jīva who has pious merit (*sukṛti*) receives the energy of mercy from Bhagavān, the possessor of energies. Fallen into the jaws of māyā, the jīva, because of ignorance, that is, aversion to Kṛṣṇa, remains uninitiated into the truth of *sambandha*, *abhidheya* and *prayojana*. Bhagavān Gaurahari mercifully first bestowed on Śrī Rūpa Gosvāmī the power to understand the truth and then taught him the truth.
 
 ## 115
 
-> Subheading: The Lord teaches the limits of the truths of Kṛṣṇa, of *bhakti* and of *rasa* —
+> Subheading: The Lord teaches the limits of the truths of Kṛṣṇa, of bhakti and of rasa —
 
 ## 116
 
-> Subheading: The Lord imparts to Śrī Rūpa the conclusions about *bhakti* that Rāmānanda had expounded —
+> Subheading: The Lord imparts to Śrī Rūpa the conclusions about bhakti that Rāmānanda had expounded —
 
 ## 117
 
@@ -462,7 +462,7 @@ Bhagavān possesses unlimited energies. A *jīva* who has pious merit (*sukṛti
 
 > Subheading: Through Śrī Rūpa and Sanātana the Lord reveals the account of His pastimes in Vraja — (*Śrī Caitanya-candrodaya-nāṭaka* 9.38) —
 
-**kālena** (by the force of time, that is, of Bhagavān’s will) **vṛndāvana-keli-vārtā** (the account of the pastimes full of *rasa* connected with Vṛndāvana) **luptā** (had become covered) **iti** (therefore) **tāṁ** (that account) **viśiṣya** (making it special) **khyāpayituṁ** (to reveal) **devaḥ** (Śrī Gaurahari) **tatra eva** (in Vṛndāvana) **rūpaṁ** **ca** **sanātanaṁ** **ca** **kṛpāmṛtena** (with the water of the nectar of compassion) **abhiṣiṣeca** (anointed).
+**kālena** (by the force of time, that is, of Bhagavān’s will) **vṛndāvana-keli-vārtā** (the account of the pastimes full of rasa connected with Vṛndāvana) **luptā** (had become covered) **iti** (therefore) **tāṁ** (that account) **viśiṣya** (making it special) **khyāpayituṁ** (to reveal) **devaḥ** (Śrī Gaurahari) **tatra eva** (in Vṛndāvana) **rūpaṁ** **ca** **sanātanaṁ** **ca** **kṛpāmṛtena** (with the water of the nectar of compassion) **abhiṣiṣeca** (anointed).
 
 ## 120
 
@@ -474,7 +474,7 @@ Bhagavān possesses unlimited energies. A *jīva* who has pious merit (*sukṛti
 
 > Subheading: Through Śrī Rūpa, His second self and His all in all, the Lord spreads the scriptures on the truth of *bhakti-rasa* — (*Śrī Caitanya-candrodaya-nāṭaka*, act 9: Sārvabhauma’s words) —
 
-**priya-svarūpe** (*priya* means a devotee; in one whose *svarūpa* is such, that is, in the form of a devotee) **dayita-svarūpe** (in one to whom [the Lord] gave His own self) **prema-svarūpe** (in a form full of *prema* and nondifferent from Himself) **sahajābhirūpe** (in one whose form is naturally, by nature, beautiful and captivating) **nijānurūpe** (in one whose form resembles [the Lord’s], because it reveals *prema*) **eka-rūpe** (in one whose form is unique, that is, principal) **sva-vilāsa-rūpe** (in one whose form is the *vilāsa* of the Lord’s own *svarūpa*, a form for *līlā*) **rūpe** (in Śrī Rūpa Gosvāmī) **prabhuḥ** (Śrī Mahāprabhu) **tatāna** (spread: through Śrī Rūpa alone He revealed the scriptures of *bhakti-rasa*).
+**priya-svarūpe** (*priya* means a devotee; in one whose *svarūpa* is such, that is, in the form of a devotee) **dayita-svarūpe** (in one to whom [the Lord] gave His own self) **prema-svarūpe** (in a form full of prema and nondifferent from Himself) **sahajābhirūpe** (in one whose form is naturally, by nature, beautiful and captivating) **nijānurūpe** (in one whose form resembles [the Lord’s], because it reveals *prema*) **eka-rūpe** (in one whose form is unique, that is, principal) **sva-vilāsa-rūpe** (in one whose form is the *vilāsa* of the Lord’s own *svarūpa*, a form for *līlā*) **rūpe** (in Śrī Rūpa Gosvāmī) **prabhuḥ** (Śrī Mahāprabhu) **tatāna** (spread: through Śrī Rūpa alone He revealed the scriptures of *bhakti-rasa*).
 
 ## 122
 
@@ -502,7 +502,7 @@ Bhagavān possesses unlimited energies. A *jīva* who has pious merit (*sukṛti
 
 ## 131
 
-In such a life of renunciation they served Kṛṣṇa in various ways: sometimes by writing scriptures on *bhakti-rasa*, sometimes by *nāma-saṅkīrtana*, and sometimes by remembering Gaura’s pastimes, meditating on them and so on. Among the *prākṛta-sahajiyās* and the like there is a firm belief that the “*sādhana*” of *bhakti* is to give up writing, reading and other study of the scriptures on *bhakti* and, in order to cultivate one’s own ignorance, to stop studying the *śāstras* and so on. The true followers of Śrī Rūpa put no faith in such talk. But if a *sādhaka* writes and reads the *śāstras* and so on with some petty side goal, out of a desire to earn money, for gratifying the material senses, for worldly fame or worship, for gain or some other petty purpose, which is called the *upaśākhās* (side shoots), then such a person, given to fallen conduct, never attains any good. A genuine follower of Śrī Rūpa has no such karmic desires rooted in enjoying petty fruits.
+In such a life of renunciation they served Kṛṣṇa in various ways: sometimes by writing scriptures on *bhakti-rasa*, sometimes by *nāma-saṅkīrtana*, and sometimes by remembering Gaura’s pastimes, meditating on them and so on. Among the *prākṛta-sahajiyās* and the like there is a firm belief that the “*sādhana*” of bhakti is to give up writing, reading and other study of the scriptures on bhakti and, in order to cultivate one’s own ignorance, to stop studying the *śāstras* and so on. The true followers of Śrī Rūpa put no faith in such talk. But if a *sādhaka* writes and reads the *śāstras* and so on with some petty side goal, out of a desire to earn money, for gratifying the material senses, for worldly fame or worship, for gain or some other petty purpose, which is called the *upaśākhās* (side shoots), then such a person, given to fallen conduct, never attains any good. A genuine follower of Śrī Rūpa has no such karmic desires rooted in enjoying petty fruits.
 
 ## 132
 
@@ -524,7 +524,7 @@ In such a life of renunciation they served Kṛṣṇa in various ways: sometime
 
 ## 136
 
-> Subheading: The instructions to Śrī Rūpa. In the form of *sūtras* the Lord describes the characteristics of *bhakti-rasa* —
+> Subheading: The instructions to Śrī Rūpa. In the form of sūtras the Lord describes the characteristics of *bhakti-rasa* —
 
 ## 137
 
@@ -534,7 +534,7 @@ In such a life of renunciation they served Kṛṣṇa in various ways: sometime
 
 ## 138
 
-> Subheading: First the Lord describes the conditioned *jīvas* of the universe: their great number —
+> Subheading: First the Lord describes the conditioned jīvas of the universe: their great number —
 
 *Caurāśī-lakṣa yoni*: the eighty-four *lakhs* of species. (*Viṣṇu Purāṇa*): “Aquatics are nine *lakhs*, the immobile twenty *lakhs*, worms as many *lakhs* as there are Rudras,[^138-1] birds ten *lakhs*, beasts thirty *lakhs*, and humans four *lakhs*.”
 
@@ -570,9 +570,9 @@ In Janaloka, at the *brahma-satra* sacrifice, to the sages eager to hear, one of
 
 ## 144
 
-> Subheading: By difference of form *jīvas* are of two kinds: (1) immobile, (2) mobile; the mobile are of three kinds: those that move in water, on land and in the sky —
+> Subheading: By difference of form jīvas are of two kinds: (1) immobile, (2) mobile; the mobile are of three kinds: those that move in water, on land and in the sky —
 
-*Tāra madhye* (“among them”): among the conditioned *jīvas* within the universe.
+*Tāra madhye* (“among them”): among the conditioned jīvas within the universe.
 
 ## 145
 
@@ -588,13 +588,13 @@ Those who in words profess to be “faithful to the Vedas” but act against the
 
 > Subheading: Even among the liberated a devotee of Kṛṣṇa is extremely rare —
 
-*Karma-niṣṭha* (“devoted to *karma*”). Some perform pious and other good deeds out of their own desire for enjoyment. Others, imagining themselves disinterested, offer their deeds [to God]. Among millions of such people devoted to *karma*, one who, though situated in *sattva*, in order to remove *rajas* and *tamas* withdraws from both states, worldly piety and sin, and, seeking the purity of the *ātmā*, searches for the undifferentiated Brahman beyond nature, is a *jñānī*. Among millions of *jñānīs* there is one who on the path of knowledge relies on the mode of *sattva*. He performs the six practices, *śama*, *dama* and the rest, and other good deeds based on mixed and adulterated *bhakti*. While performing them, in his dualistic understanding he rejects the means he has relied on as incomplete; he takes impermanent and untrue *sādhana* to be the cause of eternal perfection. As the fruit of such *sādhana*, he finally becomes free from the sense of his own bondage and fancies that he has attained liberation, that is, the *svarūpa* of *brahma-bhūta*; to that end he erases the distinction of “seer,” “seeing” and “seen,” or of “knower,” “knowledge” and “known.” Such a *jñānī*, who has gone beyond what is mixed with matter, an adherent of the doctrine of “pure consciousness” (*kevala-cinmātra-vādī*), is called “liberated” (*mukta*). Even among millions of such liberated persons a devotee of Kṛṣṇa is rare.
+*Karma-niṣṭha* (“devoted to *karma*”). Some perform pious and other good deeds out of their own desire for enjoyment. Others, imagining themselves disinterested, offer their deeds [to God]. Among millions of such people devoted to karma, one who, though situated in *sattva*, in order to remove *rajas* and *tamas* withdraws from both states, worldly piety and sin, and, seeking the purity of the *ātmā*, searches for the undifferentiated Brahman beyond nature, is a *jñānī*. Among millions of *jñānīs* there is one who on the path of knowledge relies on the mode of *sattva*. He performs the six practices, *śama*, *dama* and the rest, and other good deeds based on mixed and adulterated bhakti. While performing them, in his dualistic understanding he rejects the means he has relied on as incomplete; he takes impermanent and untrue *sādhana* to be the cause of eternal perfection. As the fruit of such *sādhana*, he finally becomes free from the sense of his own bondage and fancies that he has attained liberation, that is, the *svarūpa* of *brahma-bhūta*; to that end he erases the distinction of “seer,” “seeing” and “seen,” or of “knower,” “knowledge” and “known.” Such a *jñānī*, who has gone beyond what is mixed with matter, an adherent of the doctrine of “pure consciousness” (*kevala-cinmātra-vādī*), is called “liberated” (*mukta*). Even among millions of such liberated persons a devotee of Kṛṣṇa is rare.
 
 ## 149
 
 > Subheading: Why a devotee of Kṛṣṇa is extremely rare and the best of all —
 
-Only a devotee of Kṛṣṇa is free from all desires and devoted to Kṛṣṇa alone, and therefore he is peaceful (*śānta*). *Karmīs* who desire enjoyments such as heaven, *jñānīs* who desire liberation such as *nirvāṇa*, and *yogīs* who desire the eighteen *siddhis* such as *aṇimā*, are each under the sway of their own desire and are therefore restless. And even when their desire is fulfilled they are restless, because they have gained what is temporary (*asat*) and are not devoted to Kṛṣṇa.
+Only a devotee of Kṛṣṇa is free from all desires and devoted to Kṛṣṇa alone, and therefore he is peaceful (*śānta*). *Karmīs* who desire enjoyments such as heaven, *jñānīs* who desire liberation such as *nirvāṇa*, and yogīs who desire the eighteen *siddhis* such as *aṇimā*, are each under the sway of their own desire and are therefore restless. And even when their desire is fulfilled they are restless, because they have gained what is temporary (*asat*) and are not devoted to Kṛṣṇa.
 
 ## 150
 
@@ -604,17 +604,17 @@ Only a devotee of Kṛṣṇa is free from all desires and devoted to Kṛṣṇ
 
 ## 151
 
-> Subheading: Devotion is likened to a creeper; another name for devotion is *kṛṣṇānurāga* (attachment to Kṛṣṇa). A description of the path by which the conditioned *jīva*, step by step, attains loving service to Kṛṣṇa: at its root lies the *sukṛti* that bestows devotion, which is Kṛṣṇa’s mercy; the fruit of that *sukṛti* is meeting a genuine guru; by his mercy, through hearing, comes the realisation of *sambandha* and faith awakens —
+> Subheading: Devotion is likened to a creeper; another name for devotion is *kṛṣṇānurāga* (attachment to Kṛṣṇa). A description of the path by which the conditioned jīva, step by step, attains loving service to Kṛṣṇa: at its root lies the *sukṛti* that bestows devotion, which is Kṛṣṇa’s mercy; the fruit of that *sukṛti* is meeting a genuine guru; by his mercy, through hearing, comes the realisation of *sambandha* and faith awakens —
 
 “Brahmāṇḍa” means the fourteen worlds (see Ādi 5.98).
 
-*Bhāgyavān* (fortunate) means a *jīva* endowed with *sukṛti* (pious merit). When a *jīva* unknowingly renders some service to Viṣṇu and the Vaiṣṇavas, *sukṛti* arises in him (see the story of Nārada’s birth, *Śrīmad-Bhāgavatam* 1.5.23–30). Such *sukṛti*, which turns the *jīva* towards devotion, is not material activity: it is the first, still unblossomed stirring of the soul’s own spiritual nature (*cid-vṛtti*). When through *sukṛti* faith appears, and through hearing comes knowledge of *sambandha*, real pure devotion begins.
+*Bhāgyavān* (fortunate) means a jīva endowed with *sukṛti* (pious merit). When a jīva unknowingly renders some service to Viṣṇu and the Vaiṣṇavas, *sukṛti* arises in him (see the story of Nārada’s birth, *Śrīmad-Bhāgavatam* 1.5.23–30). Such *sukṛti*, which turns the jīva towards devotion, is not material activity: it is the first, still unblossomed stirring of the soul’s own spiritual nature (*cid-vṛtti*). When through *sukṛti* faith appears, and through hearing comes knowledge of *sambandha*, real pure devotion begins.
 
 *Guru-prasāda* (the guru’s mercy): out of his mercy the guru grants his disciple the highest grace (*anugraha*) — devotion to Kṛṣṇa. For the highest good of one who has *sukṛti* and is fit for mercy, Śrī Bhagavān empowers the person dearest to Him and sends him into the world as the *mahānta-guru*, to distribute His power of mercy. Śrī Gurudeva grants the disciple his own grace — service to Kṛṣṇa.
 
 *Kṛṣṇa-prasāda* (Kṛṣṇa’s mercy): the gurudeva who gives the seed of the creeper of devotion is a manifestation of Bhagavān of the *āśraya* category (the vessel of love). Kṛṣṇa sends him to the disciple — that is Kṛṣṇa’s mercy. By the guru’s mercy one obtains Kṛṣṇa’s mercy, and by Kṛṣṇa’s mercy, the guru’s mercy.
 
-*Bhakti-latā-bīja* (the seed of the creeper of devotion) is the seed from which the creeper of service to Bhagavān grows. The cause of the creeper of devotion is the guru’s mercy and Kṛṣṇa’s mercy. From the seed of other desires (*anyābhilāṣa*), the seed of *karma* and the seed of *jñāna* grow their own kinds of trees. The seed of the creeper of devotion is different from all these seeds. One obtains it only when the guru and Kṛṣṇa are pleased. If they are displeased, one may get the seed of other desires, of *karma* or of *jñāna*, but the seed of pure devotion is lost. Those who lack true good fortune never receive the seed of the creeper of devotion. Only a *jīva* endowed with faith takes shelter at the lotus feet of the guru. The mantra of grace (*anugraha-mantra*) given by the genuine guru, and the path he shows, are the “path of devotion” (*bhakti-mārga*).
+*Bhakti-latā-bīja* (the seed of the creeper of devotion) is the seed from which the creeper of service to Bhagavān grows. The cause of the creeper of devotion is the guru’s mercy and Kṛṣṇa’s mercy. From the seed of other desires (*anyābhilāṣa*), the seed of karma and the seed of jñāna grow their own kinds of trees. The seed of the creeper of devotion is different from all these seeds. One obtains it only when the guru and Kṛṣṇa are pleased. If they are displeased, one may get the seed of other desires, of karma or of jñāna, but the seed of pure devotion is lost. Those who lack true good fortune never receive the seed of the creeper of devotion. Only a jīva endowed with faith takes shelter at the lotus feet of the guru. The mantra of grace (*anugraha-mantra*) given by the genuine guru, and the path he shows, are the “path of devotion” (*bhakti-mārga*).
 
 ## 152
 
@@ -630,13 +630,13 @@ Within the “brahmāṇḍa,” that is, in the fourteen worlds, there is no tr
 
 ## 154
 
-On one side of Brahmaloka and the Virajā lies the brahmāṇḍa made of *māyā* — this is “Devī-dhāma.” Devī-dhāma, or the “other sky” (*itara-vyoma*), exists in subjection to *prakṛti*. On the far side of *prakṛti* lies “Vaikuṇṭha,” or “Paravyoma.” There *māyā* is unable to “measure” anything. Above the wholly spiritual (*brahma-maya*) Vaikuṇṭha lies “Goloka Vṛndāvana.” There the creeper of devotion takes shelter of the desire tree of Kṛṣṇa’s feet. In Paravyoma the prescribed worship is offered to Śrī Nārāyaṇa, the Lord of Paravyoma, and in that worship one sees the *rasas* of *śānta*, *dāsya* and “half of *sakhya*.” In Goloka Vṛndāvana, however, in the service of Śrī Kṛṣṇa, five *bhāvas* blossom in full measure: *śānta*, *dāsya*, “half of *sakhya* marked by reverence (*gaurava*)” together with “half of *sakhya* marked by complete confidence (*viśrambha*),” *vātsalya* and *madhura*. Here alone the creeper of devotion finds shelter in every respect.
+On one side of Brahmaloka and the Virajā lies the brahmāṇḍa made of māyā — this is “Devī-dhāma.” Devī-dhāma, or the “other sky” (*itara-vyoma*), exists in subjection to *prakṛti*. On the far side of *prakṛti* lies “Vaikuṇṭha,” or “Paravyoma.” There māyā is unable to “measure” anything. Above the wholly spiritual (*brahma-maya*) Vaikuṇṭha lies “Goloka Vṛndāvana.” There the creeper of devotion takes shelter of the desire tree of Kṛṣṇa’s feet. In Paravyoma the prescribed worship is offered to Śrī Nārāyaṇa, the Lord of Paravyoma, and in that worship one sees the *rasas* of *śānta*, *dāsya* and “half of *sakhya*.” In Goloka Vṛndāvana, however, in the service of Śrī Kṛṣṇa, five *bhāvas* blossom in full measure: *śānta*, *dāsya*, “half of *sakhya* marked by reverence (*gaurava*)” together with “half of *sakhya* marked by complete confidence (*viśrambha*),” *vātsalya* and *madhura*. Here alone the creeper of devotion finds shelter in every respect.
 
 ## 155
 
 > Subheading: Attaining the goal (*prayojana*), love for Kṛṣṇa; in the stage of practice, always hearing and chanting —
 
-*Tāṅhā* (there) means in Goloka Vṛndāvana. *Prema-phala* (the fruit of *prema*) is a wondrous transcendental thing, supremely desirable; at its root is the desire to please Kṛṣṇa’s senses. It is the very own treasure of Kṛṣṇacandra, whose form is eternity, knowledge and bliss (*sac-cid-ānanda*); the material intelligence of the conditioned *jīva*, absorbed in enjoyment, cannot grasp it.
+*Tāṅhā* (there) means in Goloka Vṛndāvana. *Prema-phala* (the fruit of *prema*) is a wondrous transcendental thing, supremely desirable; at its root is the desire to please Kṛṣṇa’s senses. It is the very own treasure of Kṛṣṇacandra, whose form is eternity, knowledge and bliss (*sac-cid-ānanda*); the material intelligence of the conditioned jīva, absorbed in enjoyment, cannot grasp it.
 
 *Ihāṅ* (here) means in the material world. Remaining here, one must water the planted seed of the creeper of devotion with the water of hearing, chanting and so on — about Kṛṣṇa’s eternal, transcendental name, form, qualities and pastimes.
 
@@ -656,11 +656,11 @@ The creeper of devotion must be fenced in on all sides. The enclosure, or fence,
 
 > Subheading: Things that look like devotion but are not devotion — kinds of non-devotion —
 
-*Upaśākhā* (side shoots) are not the real creeper’s own branches but branches of another creeper that looks like it. They twine around the real creeper and seem to be “part” of it, but in fact they are not the real creeper. *Bhukti* is what those who preach enjoyment of the fruits of *karma* obtain; *mukti* is what the followers of *jñāna* obtain; *vāñchā* (desires) are the fruits of *yoga* that the followers of *siddhi* seek: mystic powers (*vibhūti*) and the like.
+*Upaśākhā* (side shoots) are not the real creeper’s own branches but branches of another creeper that looks like it. They twine around the real creeper and seem to be “part” of it, but in fact they are not the real creeper. *Bhukti* is what those who preach enjoyment of the fruits of karma obtain; *mukti* is what the followers of jñāna obtain; *vāñchā* (desires) are the fruits of yoga that the followers of *siddhi* seek: mystic powers (*vibhūti*) and the like.
 
 ## 159
 
-*Niṣiddhācāra* (forbidden conduct) means conduct unbecoming a *siddha*, or conduct that obstructs perfection — that is, conduct by which devotion is lost. For example, when a *jīva*, thinking himself the enjoyer and absorbed in enjoyment, keeps company with women and with those not devoted to Kṛṣṇa, or looks at worldly people and at women.
+*Niṣiddhācāra* (forbidden conduct) means conduct unbecoming a *siddha*, or conduct that obstructs perfection — that is, conduct by which devotion is lost. For example, when a jīva, thinking himself the enjoyer and absorbed in enjoyment, keeps company with women and with those not devoted to Kṛṣṇa, or looks at worldly people and at women.
 
 *Kuṭīnāṭī* means play-acting full of crookedness, duplicity; *ku-ṭī* and *nā-ṭī* mean what opposes inner contentment (*ātma-prasāda*) — that is, discontent.
 
@@ -676,19 +676,19 @@ The creeper of devotion must be fenced in on all sides. The enclosure, or fence,
 
 > Subheading: If indulged, non-devotion flourishes, and devotion may weaken and be smothered —
 
-Under the influence of watering with hearing, chanting and so on, the side shoots grow strong and spread, while the main creeper of devotion, unable to grow, comes to a halt. When hearing and chanting are practised not free from offences — that is, without giving up bad association, with offences — the *jīvas* gradually come to be known by many different names. They are devoted to enjoyment, eager to escape bondage, greedy for *siddhis*, given to deceit, debauched with women not lawfully theirs, supporters of false devotion or of the doctrine of the *prākṛta-sahajiyās*. Through the deception of status by seminal lineage they lay claim to spiritual status; they dwell in the five places that Parīkṣit gave to Kali; they see caste in Vaiṣṇavas. They make their living from the holy name, the mantra, the Deity and the *Bhāgavatam*, and are busy amassing wealth and the like by impure means. They seek honour by passing themselves off as those who “delight in solitary worship,” seek fame by supporting the doctrine that reconciles spirit and matter, or else, as servants of a *guru-bruva*, submit to and support an ungodly *varṇāśrama* hostile to Viṣṇu and the Vaiṣṇavas. In other words, maddened by the urge to gratify their own senses, they cheat foolish people for the sake of perishable, extraneous things, not pure devotion, and long to be known in the world as “religious,” “sādhus” or “great souls.” But real pure servants of Hari they cannot become.
+Under the influence of watering with hearing, chanting and so on, the side shoots grow strong and spread, while the main creeper of devotion, unable to grow, comes to a halt. When hearing and chanting are practised not free from offences — that is, without giving up bad association, with offences — the jīvas gradually come to be known by many different names. They are devoted to enjoyment, eager to escape bondage, greedy for *siddhis*, given to deceit, debauched with women not lawfully theirs, supporters of false devotion or of the doctrine of the *prākṛta-sahajiyās*. Through the deception of status by seminal lineage they lay claim to spiritual status; they dwell in the five places that Parīkṣit gave to Kali; they see caste in Vaiṣṇavas. They make their living from the holy name, the mantra, the Deity and the *Bhāgavatam*, and are busy amassing wealth and the like by impure means. They seek honour by passing themselves off as those who “delight in solitary worship,” seek fame by supporting the doctrine that reconciles spirit and matter, or else, as servants of a *guru-bruva*, submit to and support an ungodly *varṇāśrama* hostile to Viṣṇu and the Vaiṣṇavas. In other words, maddened by the urge to gratify their own senses, they cheat foolish people for the sake of perishable, extraneous things, not pure devotion, and long to be known in the world as “religious,” “sādhus” or “great souls.” But real pure servants of Hari they cannot become.
 
 ## 161
 
 > Subheading: First of all the *sādhaka* must see to giving up bad association —
 
-If, noticing that the sprouts of the “side shoots” mentioned above are appearing, one at once destroys them root and all, only then will the branch of the main creeper of devotion bear the transcendental fruit of *prema* in Vṛndāvana. Otherwise, when the side shoots prevail, it is inevitable that one gives up the service of Hari for good — that is, suffers within the brahmāṇḍa (in heaven and other higher worlds, in the world of mortals, or in hell).
+If, noticing that the sprouts of the “side shoots” mentioned above are appearing, one at once destroys them root and all, only then will the branch of the main creeper of devotion bear the transcendental fruit of prema in Vṛndāvana. Otherwise, when the side shoots prevail, it is inevitable that one gives up the service of Hari for good — that is, suffers within the brahmāṇḍa (in heaven and other higher worlds, in the world of mortals, or in hell).
 
 ## 162
 
 > Subheading: Only then is it possible to reach the goal (*prayojana*), love for Kṛṣṇa —
 
-Holding on to the creeper, the devotee-gardener reaches the tree of Kṛṣṇa’s lotus feet. When the fruit of *prema* in Goloka Vṛndāvana ripens and falls, the devotee living in the material world can taste it.
+Holding on to the creeper, the devotee-gardener reaches the tree of Kṛṣṇa’s lotus feet. When the fruit of prema in Goloka Vṛndāvana ripens and falls, the devotee living in the material world can taste it.
 
 ## 163
 
@@ -698,19 +698,19 @@ Holding on to the creeper, the devotee-gardener reaches the tree of Kṛṣṇa�
 
 > Subheading: Love for Kṛṣṇa is the highest goal, which puts the four goals of life (*catur-varga*) to shame —
 
-*Tṛṇa-tulya* (like a blade of grass) means insignificant, worthless by comparison. Before *prema*, the four goals of life — *dharma*, *artha*, *kāma*, *mokṣa* and the rest, which the *karmīs*, *jñānīs*, *yogīs* and others desire — are utterly unacceptable.
+*Tṛṇa-tulya* (like a blade of grass) means insignificant, worthless by comparison. Before prema, the four goals of life — dharma, *artha*, *kāma*, *mokṣa* and the rest, which the *karmīs*, *jñānīs*, yogīs and others desire — are utterly unacceptable.
 
 ## 165
 
 > Subheading: The bliss of serving in love for Kṛṣṇa puts the bliss of Brahman to shame — (*Lalita-mādhava*, Act 5, verse 2; words spoken offstage)
 
-**yāvat** (so long as) **madhu-ripu-vaśī-kāra-siddhauṣadhīnām** (which are perfect herbs for subduing Madhuripu, Kṛṣṇa, and making Him obedient) **premṇām** (of *prema* — of *śānta* and the other *rasas*) **gandha-leśo ’pi** (even the slightest trace) **antaḥ-karaṇa-saraṇī-pānthatām** (the position of a traveller on the path of the heart) **na prayāti** (does not reach), **ṛddhā** (rich) **siddhi-vraja-vijayitā** (supremacy — that is, the position of victor — over the host of *siddhis*, mystic powers; this is the sense), **satya-dharmā** (founded on the *dharma* of truthfulness, cleanliness, charity and austerity) **samādhiḥ** (concentration of the mind), **brahmānandaḥ** (the highest happiness of Brahman) **ca** **guruḥ** (praiseworthy, great) **api** — **tāvat** (until then) **eva** **camatkārayati** (astonishes; the sense is: once the happiness of serving Kṛṣṇa is attained, the happiness of sense objects, *kaivalya* and the happiness of Brahman become insignificant).
+**yāvat** (so long as) **madhu-ripu-vaśī-kāra-siddhauṣadhīnām** (which are perfect herbs for subduing Madhuripu, Kṛṣṇa, and making Him obedient) **premṇām** (of prema — of *śānta* and the other *rasas*) **gandha-leśo ’pi** (even the slightest trace) **antaḥ-karaṇa-saraṇī-pānthatām** (the position of a traveller on the path of the heart) **na prayāti** (does not reach), **ṛddhā** (rich) **siddhi-vraja-vijayitā** (supremacy — that is, the position of victor — over the host of *siddhis*, mystic powers; this is the sense), **satya-dharmā** (founded on the dharma of truthfulness, cleanliness, charity and austerity) **samādhiḥ** (concentration of the mind), **brahmānandaḥ** (the highest happiness of Brahman) **ca** **guruḥ** (praiseworthy, great) **api** — **tāvat** (until then) **eva** **camatkārayati** (astonishes; the sense is: once the happiness of serving Kṛṣṇa is attained, the happiness of sense objects, *kaivalya* and the happiness of Brahman become insignificant).
 
 ## 166
 
 > Subheading: The characteristics of pure devotion: (1) *sādhana-bhakti* —
 
-*Śuddha-bhakti* (pure devotion) is the highest (*uttamā*) devotion: it is beyond the three *guṇas*, unmixed with *karma* and *jñāna*, causeless (*ahaitukī*) and free from the *guṇas* (*nirguṇā*).
+*Śuddha-bhakti* (pure devotion) is the highest (*uttamā*) devotion: it is beyond the three *guṇas*, unmixed with karma and jñāna, causeless (*ahaitukī*) and free from the *guṇas* (*nirguṇā*).
 
 ## 167
 
@@ -720,25 +720,25 @@ This verse is not quoted in the *Amṛta-pravāha-bhāṣya*. Here is its transl
 
 The highest devotion is constant worship for Kṛṣṇa’s sake — that is, connected with Kṛṣṇa or directed towards Kṛṣṇa. It is free from all desires rooted in immorality (such as unlawful association with women) that are hostile to the service of Kṛṣṇa; it is not covered by the desire for liberation or the desire for enjoyment; and it consists entirely of efforts favourable for pleasing Kṛṣṇa’s senses.
 
-(First its marginal characteristic, *taṭastha-lakṣaṇa*, is given:) **anyābhilāṣitā-śūnyam** (empty of, devoid of *anyābhilāṣitā* — desire rooted in immorality, such as association with women, which is hostile to performing worship of Kṛṣṇa), **jñāna-karmādy-anāvṛtam** (not covered, not screened off [from Kṛṣṇa], not obstructed by *jñāna*, *karma* and so on: *jñāna* here means the search for undifferentiated Brahman, but not the search for knowledge of the One who is worshipped, since that is indispensable; *karma* means the daily and occasional duties (*nitya-naimittika*) and the like enjoined in the *smṛti* and other scriptures, but not service to the One who is worshipped and so on, since that is itself the cultivation [of devotion]; the word “and so on” (*ādi*) means renunciation, *yoga*, the study of *sāṅkhya* and the like), **ānukūlyena** (favourably: favorableness here means an inclination pleasing to Śrī Kṛṣṇa, for whom the worship is performed; unfavorableness is to be understood as its opposite, since it opposes worship; the instrumental case here is defining (*viśeṣaṇa*), not incidental (*upalakṣaṇa*), so favorableness too must be understood as part of the definition of devotion) **kṛṣṇānuśīlanam** (cultivation directed to Kṛṣṇa: the word “Kṛṣṇa” here should be understood to denote Bhagavān Śrī Kṛṣṇa Himself, and also His forms and the others — all who are *viṣṇu-tattva*; *anuśīlana*, connected with Kṛṣṇa or done for Kṛṣṇa’s sake, means activities of body, speech and mind directed to Him as the object of love (*prīti*) — that is, carrying out one service after another again and again, without slackness) **eva** **uttamā bhaktiḥ** (this alone is the highest devotion; this clearly states its excellence on both paths, *vaidhī* and *rāgānugā*, and in both stages, that of the *sādhaka* and that of the *siddha*).
+(First its marginal characteristic, *taṭastha-lakṣaṇa*, is given:) **anyābhilāṣitā-śūnyam** (empty of, devoid of *anyābhilāṣitā* — desire rooted in immorality, such as association with women, which is hostile to performing worship of Kṛṣṇa), **jñāna-karmādy-anāvṛtam** (not covered, not screened off [from Kṛṣṇa], not obstructed by jñāna, karma and so on: *jñāna* here means the search for undifferentiated Brahman, but not the search for knowledge of the One who is worshipped, since that is indispensable; *karma* means the daily and occasional duties (*nitya-naimittika*) and the like enjoined in the *smṛti* and other scriptures, but not service to the One who is worshipped and so on, since that is itself the cultivation [of devotion]; the word “and so on” (*ādi*) means renunciation, yoga, the study of *sāṅkhya* and the like), **ānukūlyena** (favourably: favorableness here means an inclination pleasing to Śrī Kṛṣṇa, for whom the worship is performed; unfavorableness is to be understood as its opposite, since it opposes worship; the instrumental case here is defining (*viśeṣaṇa*), not incidental (*upalakṣaṇa*), so favorableness too must be understood as part of the definition of devotion) **kṛṣṇānuśīlanam** (cultivation directed to Kṛṣṇa: the word “Kṛṣṇa” here should be understood to denote Bhagavān Śrī Kṛṣṇa Himself, and also His forms and the others — all who are *viṣṇu-tattva*; *anuśīlana*, connected with Kṛṣṇa or done for Kṛṣṇa’s sake, means activities of body, speech and mind directed to Him as the object of love (*prīti*) — that is, carrying out one service after another again and again, without slackness) **eva** **uttamā bhaktiḥ** (this alone is the highest devotion; this clearly states its excellence on both paths, *vaidhī* and *rāgānugā*, and in both stages, that of the *sādhaka* and that of the *siddha*).
 
 ## 168
 
 > Subheading: The first two quarters give the “marginal” (*taṭastha*) characteristic, the last two the characteristic of the “essence” (*svarūpa*) of pure devotion —
 
-*Anya-vāñchā* (other desires) means desires other than for the service of Kṛṣṇa. *Anya-pūjā* (worship of others) means worship of anyone other than Kṛṣṇa. *Karma* means the pious acts prescribed for those who, having forgotten their true nature, thirst to enjoy the fruits. *Jñāna* means the endeavour of *saṁvit* alone, without its two eternally inseparable potencies, *sandhinī* and *hlādinī*; it is undertaken for self-elevation by those who, having forgotten their true nature, seek freedom from enjoyment (*mukti*). *Ānukūlye kṛṣṇānuśīlana* (cultivating service to Kṛṣṇa favourably) means serving Kṛṣṇa for Kṛṣṇa’s pleasure: giving up the cultivation of [service to] *māyā*, which is other than Kṛṣṇa, and serving Kṛṣṇa in a favourable spirit. *Sarvendriye* (with all the senses) means with all the organs of sense. With the material senses one cultivates only [service to] *māyā*. The “material senses” are speech, hands, feet, anus and genitals, and eyes, ears, nose, tongue, skin and the “mind.” If one serves *māyā*, which is other than Kṛṣṇa, with the material senses, it all ends in one’s own enjoyment. For this reason, at the stage of *sādhana-bhakti*, sixty-four limbs (*aṅgas*) of devotion are prescribed. By the strength of this *sādhana-bhakti* the conditioned *jīva* escapes the clutches of material enjoyment, becomes free of *anarthas* and becomes qualified for transcendental service.
+*Anya-vāñchā* (other desires) means desires other than for the service of Kṛṣṇa. *Anya-pūjā* (worship of others) means worship of anyone other than Kṛṣṇa. *Karma* means the pious acts prescribed for those who, having forgotten their true nature, thirst to enjoy the fruits. *Jñāna* means the endeavour of *saṁvit* alone, without its two eternally inseparable potencies, *sandhinī* and *hlādinī*; it is undertaken for self-elevation by those who, having forgotten their true nature, seek freedom from enjoyment (*mukti*). *Ānukūlye kṛṣṇānuśīlana* (cultivating service to Kṛṣṇa favourably) means serving Kṛṣṇa for Kṛṣṇa’s pleasure: giving up the cultivation of [service to] māyā, which is other than Kṛṣṇa, and serving Kṛṣṇa in a favourable spirit. *Sarvendriye* (with all the senses) means with all the organs of sense. With the material senses one cultivates only [service to] māyā. The “material senses” are speech, hands, feet, anus and genitals, and eyes, ears, nose, tongue, skin and the “mind.” If one serves māyā, which is other than Kṛṣṇa, with the material senses, it all ends in one’s own enjoyment. For this reason, at the stage of *sādhana-bhakti*, sixty-four limbs (*aṅgas*) of devotion are prescribed. By the strength of this *sādhana-bhakti* the conditioned jīva escapes the clutches of material enjoyment, becomes free of *anarthas* and becomes qualified for transcendental service.
 
 ## 169
 
 > Subheading: The goal (*prayojana*), love for Kṛṣṇa, comes only from the means (*abhidheya*), pure devotion; this is the view of the *Sātvata-pañcarātra* and the *Bhāgavatam* —
 
-The characteristics of pure devotion: the *Pāñcarātrika* and the *Bhāgavata* *sampradāyas* both establish the same meaning.
+The characteristics of pure devotion: the *Pāñcarātrika* and the *Bhāgavata* sampradāyas both establish the same meaning.
 
 ## 170
 
 > Subheading: The view of the whole *Pañcarātra* — (words of the Śrī *Nārada-pañcarātra* quoted in the *Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, first wave)
 
-**sarvopādhi-vinirmuktam** (free from all coverings of difference, devoid of other desires apart from Kṛṣṇa) **tat-paratvena** (with the sole aim of serving Kṛṣṇa, in a favourable spirit) **nirmalam** (free from the impurity of designations — the covering of *karma*, the bewilderment of *jñāna* and so on) **hṛṣīkeṇa** (with senses turned towards service) **hṛṣīkeśa-sevanam** (cultivation [of service] to Viṣṇu, the master of all the senses — this alone) **bhaktiḥ** **ucyate** (is called).
+**sarvopādhi-vinirmuktam** (free from all coverings of difference, devoid of other desires apart from Kṛṣṇa) **tat-paratvena** (with the sole aim of serving Kṛṣṇa, in a favourable spirit) **nirmalam** (free from the impurity of designations — the covering of karma, the bewilderment of jñāna and so on) **hṛṣīkeṇa** (with senses turned towards service) **hṛṣīkeśa-sevanam** (cultivation [of service] to Viṣṇu, the master of all the senses — this alone) **bhaktiḥ** **ucyate** (is called).
 
 ## 171
 
@@ -758,7 +758,7 @@ The words of Bhagavān Śrī Kapiladeva to his mother Devahūti, who wished to h
 
 > Subheading: If there is cheating (*kaitava*) or offence, practice even for millions of births is all in vain —
 
-If the heart holds the desire to enjoy the fruits of *karma* or the desire for liberation from the bondage of worldly existence, then however much a person who seeks such fruits performs the sixty-four kinds of *sādhana-bhakti*, such so-called mixed (*viddha*) worship will turn into mere *karma* or fruitless endeavours of *jñāna*. Therefore the fruit of *sādhana-bhakti* — attaining love for Kṛṣṇa — will not fall to his lot.
+If the heart holds the desire to enjoy the fruits of karma or the desire for liberation from the bondage of worldly existence, then however much a person who seeks such fruits performs the sixty-four kinds of *sādhana-bhakti*, such so-called mixed (*viddha*) worship will turn into mere karma or fruitless endeavours of jñāna. Therefore the fruit of *sādhana-bhakti* — attaining love for Kṛṣṇa — will not fall to his lot.
 
 ## 176
 
@@ -768,17 +768,17 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 ## 177
 
-> Subheading: From *sādhana-bhakti* comes (2) *bhāva-bhakti*, or *rati*, and from *rati* comes (3) *prema-bhakti* —
+> Subheading: From *sādhana-bhakti* comes (2) *bhāva-bhakti*, or *rati*, and from *rati* comes (3) prema-bhakti —
 
 *Sādhana-bhakti* (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, second wave): “Devotion attained through the activity of the senses, whose goal is *bhāva*, is called *sādhana*. Its goal is to manifest in the heart the eternally perfect *bhāva*.” Devotion performed with the senses that assist hearing, chanting and so on is called “*sādhana-bhakti*.” To manifest the eternally perfect *bhāva* in the heart is “*sādhana*.” It extends through faith (*śraddhā*), the company of sādhus (*sādhu-saṅga*: initiation and hearing), worship (*bhajana*: offenseless service to Viṣṇu and the Vaiṣṇavas), steadiness (*niṣṭhā*), taste (*ruci*) and up to attachment (*āsakti*). See Madhya 23.11–15.
 
 *Rati* (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, third wave): “The sign of *rati* is a manifest softness seen within. If such softness appears in those who seek liberation and the like, it is not *rati*.” When the softness that lies within becomes manifest, it is called “the sign of *rati*.” If such softness appears in those who seek liberation or enjoyment, it cannot be called “*rati*.”
 
-*Prema* (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, fourth wave, 1): “When *bhāva* has fully softened the heart, is marked by an intense sense of ‘mine,’ and has become dense, the wise call it *prema*.” When the heart has been thoroughly softened and *bhāva* full of the feeling “He is mine” grows dense, the learned call it “*prema*.”
+*Prema* (*Bhakti-rasāmṛta-sindhu*, *Pūrva-vibhāga*, fourth wave, 1): “When *bhāva* has fully softened the heart, is marked by an intense sense of ‘mine,’ and has become dense, the wise call it prema.” When the heart has been thoroughly softened and *bhāva* full of the feeling “He is mine” grows dense, the learned call it “*prema*.”
 
 ## 178
 
-> Subheading: The varied degrees of the intensity of *prema-bhakti*; the highest is *mahābhāva* —
+> Subheading: The varied degrees of the intensity of prema-bhakti; the highest is *mahābhāva* —
 
 *Sneha* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, third wave): “*Prema* that grows dense and melts the heart is called *sneha*. It cannot tolerate separation even for a moment.” When the melting of the heart becomes dense, *prema* is called “*sneha*.” Then even a moment’s separation is unbearable.
 
@@ -794,7 +794,7 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 > Subheading: *Rati* runs through all of them —
 
-*Sthāyi-bhāva* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, first wave): “When this love for Kṛṣṇa (*kṛṣṇa-rati*), the *sthāyi-bhāva*, is made tasteable in the hearts of devotees through hearing and so on, by means of *vibhāvas*, *anubhāvas*, *sāttvikas* and *vyabhicārīs*, it becomes *bhakti-rasa*.” *Kṛṣṇa-rati* is the *sthāyi-bhāva*. When through hearing and so on, combined with *vibhāva*, *anubhāva*, and the *sāttvika* and *vyabhicārī bhāvas*, it is brought to a tasteable state in the hearts of devotees, it becomes “*bhakti-rasa*.”
+*Sthāyi-bhāva* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, first wave): “When this love for Kṛṣṇa (*kṛṣṇa-rati*), the *sthāyi-bhāva*, is made tasteable in the hearts of devotees through hearing and so on, by means of *vibhāvas*, *anubhāvas*, *sāttvikas* and *vyabhicārīs*, it becomes *bhakti-rasa*.” *Kṛṣṇa-rati* is the *sthāyi-bhāva*. When through hearing and so on, combined with *vibhāva*, *anubhāva*, and the sāttvika and *vyabhicārī bhāvas*, it is brought to a tasteable state in the hearts of devotees, it becomes “*bhakti-rasa*.”
 
 *Vibhāva* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, first wave): “Here the causes of tasting *rati* are to be known as *vibhāvas*. They are of two kinds: some are *ālambanas*, the others *uddīpanas*.” The causes of tasting *rati* are called “*vibhāva*”; *vibhāva* is of two kinds, *ālambana* and *uddīpana*.
 
@@ -802,7 +802,7 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 ## 181
 
-> Subheading: When four kinds of *bhāva* combine with *rati*, *rasa* arises —
+> Subheading: When four kinds of *bhāva* combine with *rati*, rasa arises —
 
 *Sāttvika* and *vyabhicārī* — see Madhya 3.162 and Madhya 14.167.
 
@@ -818,7 +818,7 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 *Śānta-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Freedom of the mind from wavering is called *śama*” — that is, a state of mind free from doubt and the like is called “*śama*.” (The same:) “When, turning away from sense objects, one abides in one’s own bliss, this is here called the nature of the self — *śama*. In those in whom *śama* predominates, there usually arises towards Kṛṣṇa as the Paramātmā *śānta-rati*, devoid of even a trace of the sense of ‘mine.’” Abiding in one’s own bliss after giving up the desire for sense objects is called the nature of “*śama*.” In those in whom *śama* predominates, through realisation of the Paramātmā, *śānta-rati* towards Kṛṣṇa arises, devoid of even a trace of the feeling “He is mine.”
 
-*Dāsya-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Those who are lower than He are considered recipients of Hari’s mercy. Their *rati*, whose essence is [seeing Him as] the One to be worshipped, is called *prīti*. It creates attachment to Him and destroys love for everything else.” When the *jīva*’s *rati* is full of the consciousness of being lower than Śrī Bhagavān, he becomes a fit recipient of Hari’s mercy. The *rati* called “*prīti*” — “Bhagavān is the One to be worshipped” — produces “attachment” (*āsakti*) to the worshipable Bhagavān Kṛṣṇacandra and destroys love for things of *māyā* other than Bhagavān.
+*Dāsya-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Those who are lower than He are considered recipients of Hari’s mercy. Their *rati*, whose essence is [seeing Him as] the One to be worshipped, is called *prīti*. It creates attachment to Him and destroys love for everything else.” When the jīva’s *rati* is full of the consciousness of being lower than Śrī Bhagavān, he becomes a fit recipient of Hari’s mercy. The *rati* called “*prīti*” — “Bhagavān is the One to be worshipped” — produces “attachment” (*āsakti*) to the worshipable Bhagavān Kṛṣṇacandra and destroys love for things of māyā other than Bhagavān.
 
 *Sakhya-rati* (*Bhakti-rasāmṛta-sindhu*, *Dakṣiṇa-vibhāga*, fifth wave): “Those who are equal to Mukunda are, in the view of the saintly, His friends. Their *rati*, whose nature is confidence (*viśrambha*) born of equality, is here called *sakhya*. It gives rise to joking, laughter and the like, and is free from restraint.” In the view of the wise and the saintly, *sakhās* (friends) are those whose *rati* is full of the consciousness of equality with Mukunda. *Rati* full of trust, which, owing to mutual equality with Śrī Kṛṣṇa, shows itself as freedom from all constraint, is called “*sakhya-rati*.” This *sakhya-rati* gives rise to joking, laughter and the like; it is called *ayantraṇā* — *rati* free of constraint.
 
@@ -838,7 +838,7 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 *Dāsya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, second wave): “When *prīti*, through *vibhāvas* and the rest suited to it, is made tasteable in the hearts of devotees, it is considered *prīta-bhakti-rasa*. According to whether the recipient of mercy is a servant or one who is cared for, it is divided in two: *sambhrama-prīta* and *gaurava-prīta*.” When, through suitable *vibhāvas* and the rest, *prīti-rati* becomes tasteable in the hearts of devotees, it becomes “*prīti*,” or “*dāsya-bhakti-rasa*.” Since the servants who are fit for mercy may be servants or those who are cared for, two kinds of *prīti* are seen in *dāsya-rasa*: *sambhrama-dāsya* (with awe) and *gaurava-dāsya* (with reverence for a superior).
 
-*Sakhya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, fourth wave): “When the *sthāyi-bhāva*, *sakhya*, through suitable *vibhāvas* and the rest, is brought to fullness in the hearts of the saintly, it is called the *rasa* of *preyas*.” When the *sthāyi-bhāva*, *sakhya-rati*, through suitable *vibhāvas* and the rest, reaches fullness in the hearts of devotees, it becomes “*preyo-rasa*,” or “*sakhya-bhakti-rasa*.”
+*Sakhya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, fourth wave): “When the *sthāyi-bhāva*, *sakhya*, through suitable *vibhāvas* and the rest, is brought to fullness in the hearts of the saintly, it is called the rasa of *preyas*.” When the *sthāyi-bhāva*, *sakhya-rati*, through suitable *vibhāvas* and the rest, reaches fullness in the hearts of devotees, it becomes “*preyo-rasa*,” or “*sakhya-bhakti-rasa*.”
 
 *Vātsalya-bhakti-rasa* (*Bhakti-rasāmṛta-sindhu*, *Paścima-vibhāga*, fourth wave): “When the *sthāyī*, *vātsalya*, reaches fullness through *vibhāvas* and the rest, the wise call it the *bhakti-rasa* named *vatsala*.” When the *sthāyi-bhāva*, *vātsalya-rati*, reaches fullness in the devotee’s heart through *vibhāvas* and the rest, learned devotees call it “*vātsalya-bhakti-rasa*.”
 
@@ -860,7 +860,7 @@ If the heart holds the desire to enjoy the fruits of *karma* or the desire for l
 
 *Adbhuta-bhakti-rasa* (the same, second wave): “When *vismaya-rati*, through *vibhāvas* and the rest suited to it, is made tasteable in the devotee’s heart, it becomes *adbhuta-bhakti-rasa*.” When, through suitable *vibhāvas* and the rest, “*vismaya-rati*” (the *rati* of wonder) becomes tasteable in the devotee’s heart, there is “*adbhuta-bhakti-rasa*.”
 
-*Vīra-bhakti-rasa* (the same, third wave): “When that same *utsāha-rati*, the *sthāyī*, is made tasteable through *vibhāvas* and the rest suited to it, it becomes *vīra-bhakti-rasa*. The hero (*vīra*) is said to be of four kinds — in battle, in giving, in compassion and in *dharma*.” When, through suitable *vibhāvas* and the rest, “*utsāha-rati*” (the *rati* of enthusiasm) becomes tasteable in the devotee’s heart, there is “*vīra-bhakti-rasa*.” According to four activities — “battle,” “giving,” “compassion” and “*dharma*” — four kinds of “hero” (*vīra*) are spoken of.
+*Vīra-bhakti-rasa* (the same, third wave): “When that same *utsāha-rati*, the *sthāyī*, is made tasteable through *vibhāvas* and the rest suited to it, it becomes *vīra-bhakti-rasa*. The hero (*vīra*) is said to be of four kinds — in battle, in giving, in compassion and in dharma.” When, through suitable *vibhāvas* and the rest, “*utsāha-rati*” (the *rati* of enthusiasm) becomes tasteable in the devotee’s heart, there is “*vīra-bhakti-rasa*.” According to four activities — “battle,” “giving,” “compassion” and “*dharma*” — four kinds of “hero” (*vīra*) are spoken of.
 
 *Karuṇa-bhakti-rasa* (the same, fourth wave): “When *śoka-rati*, through *vibhāvas* and the rest suited to it, reaches fullness in the hearts of the saintly, it becomes the *bhakti-rasa* called *karuṇa*.” When, through suitable *vibhāvas* and the rest, “*śoka-rati*” (the *rati* of sorrow) reaches fullness in the devotee’s heart, it is called “*karuṇa-bhakti-rasa*.”
 
@@ -948,7 +948,7 @@ Once, in her own home, Rukmiṇī began to serve Śrī Kṛṣṇa with her own 
 
 > Subheading: In Vraja, in *kevalā-rati*, devoid of majesty, Kṛṣṇa is regarded as one’s own, subject to oneself —
 
-A devotee in whom majesty predominates cannot understand the greatness of the pure *prema* of *kevalā*. Even when seeing Bhagavān’s majesty, a devotee wholly given to *kevalā-rati* acknowledges only his own relationship [with Him].
+A devotee in whom majesty predominates cannot understand the greatness of the pure prema of *kevalā*. Even when seeing Bhagavān’s majesty, a devotee wholly given to *kevalā-rati* acknowledges only his own relationship [with Him].
 
 ## 204
 
@@ -956,7 +956,7 @@ A devotee in whom majesty predominates cannot understand the greatness of the pu
 
 When Yaśodā saw in Śrī Kṛṣṇa’s mouth the universal form full of majesty, knowledge of the truth (*tattva-jñāna*) awakened awe (*sambhrama*) in her. But at once, by Kṛṣṇa’s will, in her heart, in which natural *mamatā* (the feeling “he is mine”) is strong, her love for Kṛṣṇa grew still deeper and increased:
 
-**trayyā** (by the three Vedas — the *Ṛg*, *Yajur* and *Sāma* — consisting of *karma* and *upāsanā*, as Indra and others), **upaniṣadbhiḥ** (by the *śrutis* forming the *jñāna-kāṇḍa*, the higher part of the Vedas, as “Brahman”), **sāṅkhyaiḥ** (as “the Puruṣa”), **yogaiḥ** (as “the Paramātmā”), **sātvataiḥ** (by the *Pañcarātras* and *āgamas*, as “Bhagavān”) **upagīyamāna-māhātmyam** (whose greatness is sung and praised) **harim** **sā** (Yaśodā, endowed with *kevalā-rati*) **ātmajam** (as her son) **amanyata** (regarded).
+**trayyā** (by the three Vedas — the *Ṛg*, *Yajur* and *Sāma* — consisting of karma and *upāsanā*, as Indra and others), **upaniṣadbhiḥ** (by the *śrutis* forming the *jñāna-kāṇḍa*, the higher part of the Vedas, as “Brahman”), **sāṅkhyaiḥ** (as “the Puruṣa”), **yogaiḥ** (as “the Paramātmā”), **sātvataiḥ** (by the *Pañcarātras* and *āgamas*, as “Bhagavān”) **upagīyamāna-māhātmyam** (whose greatness is sung and praised) **harim** **sā** (Yaśodā, endowed with *kevalā-rati*) **ātmajam** (as her son) **amanyata** (regarded).
 
 ## 205
 
@@ -964,7 +964,7 @@ When Yaśodā saw in Śrī Kṛṣṇa’s mouth the universal form full of maje
 
 To see His mother’s love, playful Kṛṣṇa broke a pot of yogurt in Yaśodā’s house and began secretly eating fresh butter. This describes what the angry Yaśodā did:
 
-**avyaktam** (beyond the reach of the material senses and so on) **adhokṣajam** (Bhagavān Himself, who has surpassed *akṣaja*, knowledge born of the senses) **martya-liṅgam** (who out of compassion for the *jīvas* had accepted a human body) **ātmajam** (her son) **matvā** **gopikā** (Yaśodā), **yathā** (as a mother) **prākṛtam** (an ordinary child), [so] **dāmnā** (with a rope) **ulūkhale** (to the mortar) **babandha** (tried to bind).
+**avyaktam** (beyond the reach of the material senses and so on) **adhokṣajam** (Bhagavān Himself, who has surpassed *akṣaja*, knowledge born of the senses) **martya-liṅgam** (who out of compassion for the jīvas had accepted a human body) **ātmajam** (her son) **matvā** **gopikā** (Yaśodā), **yathā** (as a mother) **prākṛtam** (an ordinary child), [so] **dāmnā** (with a rope) **ulūkhale** (to the mortar) **babandha** (tried to bind).
 
 ## 206
 
@@ -980,7 +980,7 @@ Once, in the forests of Vraja, while the cows were grazing, Kṛṣṇa saw that
 
 ## 207–209
 
-Śrī Kṛṣṇa vanished from the *rāsa* dance, taking with Him Śrīmatī Rādhikā alone. Then pride arose in Śrīmatī, and these are her proud words:
+Śrī Kṛṣṇa vanished from the rāsa dance, taking with Him Śrīmatī Rādhikā alone. Then pride arose in Śrīmatī, and these are her proud words:
 
 (*asau priyaḥ kṛṣṇaḥ* — this beloved Kṛṣṇa) **kāmayānāḥ** (for whom desire is the “vehicle,” what brought them to Him) **gopīḥ** (all the gopīs) **hitvā** (leaving) **mām** (me, Rādhikā) **bhajate** (serves; proud of this) **sā** (Rādhikā) **ātmānam** (herself) **sarva-yoṣitām** (among all the gopīs) **variṣṭhām** (the best) **mene** (considered); **tataḥ** (after such self-esteem) **vanoddeśam** (to a certain part of the forest) **gatvā**: “**aham** **calitum** **na pāraye** (am unable), so **yatra** (wherever) **te** (Your) **manaḥ** (desire) [to go], (there, O Keśava,) **mām** **naya** (carry),” **iti** **sā** **keśavam** **abravīt**; **evam** **uktaḥ** (on hearing this, Śrī Kṛṣṇa) **priyām** (to His beloved, Rādhikā) “(onto My) **skandham** (shoulder) **ārūhyatām** (climb)” **iti** **āha**; **tataḥ** **kṛṣṇaḥ** (who delights in pastimes) **ca** **antardadhe** (vanished); (seeing this,) **sā** **vadhūḥ** (Rādhikā) **ca** **anvatapyata** (began to lament).
 
@@ -988,7 +988,7 @@ Once, in the forests of Vraja, while the cows were grazing, Kṛṣṇa saw that
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 31, verse 16)
 
-During the *rāsa* dance with the gopīs Śrī Kṛṣṇa suddenly vanished, and the gopīs, pining in separation, sang a lament addressed to Kṛṣṇa:
+During the rāsa dance with the gopīs Śrī Kṛṣṇa suddenly vanished, and the gopīs, pining in separation, sang a lament addressed to Kṛṣṇa:
 
 **he acyuta**, **gati-vidaḥ** (You who know why we have come, or who know the courses of melodies; or else *gati-vidaḥ* refers to us) **tava** **udgīta-mohitāḥ** (we gopīs, enchanted by Your *udgīta*, Your loud song) **pati-sutānvaya-bhrātṛ-bāndhavān** (husbands, sons, *anvaya* — the descendants related to them — brothers and all friends) **ativilaṅghya** (disregarding) **te** (Your) **anti** (nearness) **āgatāḥ**; **he kitava** (deceiver, rogue), **niśi** **evam-bhūtāḥ** **yoṣitaḥ** (such women, who came of their own accord; except You) **kaḥ** **tyajet** — no one; this is the sense.
 
@@ -996,7 +996,7 @@ During the *rāsa* dance with the gopīs Śrī Kṛṣṇa suddenly vanished, an
 
 > Subheading: The qualities and nature of *śānta-rasa* —
 
-In *śānta-rasa*, once the notion of material enjoyment has been removed, awareness of one’s true nature (*svarūpa-buddhi*) dawns in the *jīva*. Its eternal nature is endowed with the property of eternal, exclusive devotion to Kṛṣṇa. Śrī Bhagavān Himself told Uddhava that the word *śama* means “exclusive devotion to Kṛṣṇa.”
+In *śānta-rasa*, once the notion of material enjoyment has been removed, awareness of one’s true nature (*svarūpa-buddhi*) dawns in the jīva. Its eternal nature is endowed with the property of eternal, exclusive devotion to Kṛṣṇa. Śrī Bhagavān Himself told Uddhava that the word *śama* means “exclusive devotion to Kṛṣṇa.”
 
 ## 212
 
@@ -1112,7 +1112,7 @@ See Madhya 8.87.
 
 ## 251
 
-> Subheading: Indicating that the company of Māyāvādī *sannyāsīs* is bad association, the Lord agrees to the devotee’s request —
+> Subheading: Indicating that the company of Māyāvādī sannyāsīs is bad association, the Lord agrees to the devotee’s request —
 
 ## 252
 
@@ -1128,7 +1128,7 @@ See Madhya 8.87.
 
 ## 256
 
-> Subheading: Whoever hears of the teaching to Śrī Rūpa attains *prema-bhakti* at the feet of Caitanya —
+> Subheading: Whoever hears of the teaching to Śrī Rūpa attains prema-bhakti at the feet of Caitanya —
 
 *Thus ends the nineteenth chapter of the “Anubhāṣya.”*
 

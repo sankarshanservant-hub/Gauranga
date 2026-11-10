@@ -2,11 +2,11 @@
 
 ## 0
 
-**Summary.** At Āriṭ-grāma Mahāprabhu discovered Rādhā-kuṇḍa and Śyāma-kuṇḍa, and then at Govardhana He had *darśana* of Harideva. The Lord would not climb Govardhana to see Gopāla, and so Gopāla, on the pretext (*chala*) of fear of the *mlecchas*, came down from Annakūṭa-grāma to the village of Gāṭholī. Mahāprabhu went there and had His *darśana*. Long afterwards, to mercifully give *darśana* to the best of devotees, Śrī Rūpa Gosvāmī, Gopāla came to Mathurā and stayed “for a month” in the temple of Viṭhṭhaleśvara; Kavirāja Gosvāmī tells of this here, in passing. Mahāprabhu saw Nandīśvara, Pāvana-sarovara, Śeṣaśāyī, Khelā-tīrtha, Bhāṇḍīravana, Bhadravana, Lohavana, Mahāvana and other places, and after seeing Gokula He returned to Mathurā. He took up lodging at Akrūra-ghāṭa and every day went to Vṛndāvana, visiting Kālīya-hrada, Dvādaśāditya-ghāṭa, Keśī-ghāṭa, Rāsa-sthalī, Cīra-ghāṭa, Āmli-talā and other places. At night a fisherman used to catch fish in Kālīya-hrada, and many people took him for “Kṛṣṇa” and came looking for him. But when they saw Mahāprabhu, their mistaken notion (*vivarta-buddhi*) was dispelled, and Kṛṣṇa was revealed to them all. Then the Lord established that a *sannyāsī*, that is, a *jīva*, is a particle of spirit (*cit-kaṇa*). At Akrūra-ghāṭa the Lord would stay submerged in the water for a long time, and so Balabhadra Bhaṭṭācārya decided to take Mahāprabhu from Vraja-maṇḍala to Prayāga. Resolving, “We shall bathe in the Gaṅgā at Soro-kṣetra and then go to Prayāga,” they set out. On the way, in a certain village, Bijalī Khān, who was riding with Paṭhān horsemen, saw the Lord lying unconscious in ecstatic love. He said, “His companions have drugged Him with *dhuturā*, killed Him, and are taking His wealth,” and he had the Lord’s companions bound. When the Lord’s ecstasy subsided, He conversed with a Muslim teacher (*mleccha-ācārya*) of Bijalī Khān’s band and examined the scriptures with him; in this way the Lord established “devotion to Kṛṣṇa” from the Koran itself. Bijalī Khān and the horsemen under him took shelter at Mahāprabhu’s feet and became “devotees of Kṛṣṇa.” At that place there still stands a village known as “the village of the Paṭhān Vaiṣṇavas.” After bathing in the Gaṅgā at Soro, the Lord reached Triveṇī.
+**Summary.** At Āriṭ-grāma Mahāprabhu discovered Rādhā-kuṇḍa and Śyāma-kuṇḍa, and then at Govardhana He had darśana of Harideva. The Lord would not climb Govardhana to see Gopāla, and so Gopāla, on the pretext (*chala*) of fear of the *mlecchas*, came down from Annakūṭa-grāma to the village of Gāṭholī. Mahāprabhu went there and had His darśana. Long afterwards, to mercifully give darśana to the best of devotees, Śrī Rūpa Gosvāmī, Gopāla came to Mathurā and stayed “for a month” in the temple of Viṭhṭhaleśvara; Kavirāja Gosvāmī tells of this here, in passing. Mahāprabhu saw Nandīśvara, Pāvana-sarovara, Śeṣaśāyī, Khelā-tīrtha, Bhāṇḍīravana, Bhadravana, Lohavana, Mahāvana and other places, and after seeing Gokula He returned to Mathurā. He took up lodging at Akrūra-ghāṭa and every day went to Vṛndāvana, visiting Kālīya-hrada, Dvādaśāditya-ghāṭa, Keśī-ghāṭa, Rāsa-sthalī, Cīra-ghāṭa, Āmli-talā and other places. At night a fisherman used to catch fish in Kālīya-hrada, and many people took him for “Kṛṣṇa” and came looking for him. But when they saw Mahāprabhu, their mistaken notion (*vivarta-buddhi*) was dispelled, and Kṛṣṇa was revealed to them all. Then the Lord established that a sannyāsī, that is, a jīva, is a particle of spirit (*cit-kaṇa*). At Akrūra-ghāṭa the Lord would stay submerged in the water for a long time, and so Balabhadra Bhaṭṭācārya decided to take Mahāprabhu from Vraja-maṇḍala to Prayāga. Resolving, “We shall bathe in the Gaṅgā at Soro-kṣetra and then go to Prayāga,” they set out. On the way, in a certain village, Bijalī Khān, who was riding with Paṭhān horsemen, saw the Lord lying unconscious in ecstatic love. He said, “His companions have drugged Him with *dhuturā*, killed Him, and are taking His wealth,” and he had the Lord’s companions bound. When the Lord’s ecstasy subsided, He conversed with a Muslim teacher (*mleccha-ācārya*) of Bijalī Khān’s band and examined the scriptures with him; in this way the Lord established “devotion to Kṛṣṇa” from the Koran itself. Bijalī Khān and the horsemen under him took shelter at Mahāprabhu’s feet and became “devotees of Kṛṣṇa.” At that place there still stands a village known as “the village of the Paṭhān Vaiṣṇavas.” After bathing in the Gaṅgā at Soro, the Lord reached Triveṇī.
 
 ## 1
 
-In Vṛndāvana, Gaurāṅgacandra gave His *darśana* to all beings, moving and unmoving, and so delighted them; and seeing them, He Himself felt joy. In this way He wandered everywhere.
+In Vṛndāvana, Gaurāṅgacandra gave His darśana to all beings, moving and unmoving, and so delighted them; and seeing them, He Himself felt joy. In this way He wandered everywhere.
 
 ## 3–5
 
@@ -26,7 +26,7 @@ By its own qualities this lake, Rādhā-kuṇḍa, is as supremely dear to Kṛ�
 
 ## 25
 
-Gauracandra had vowed, “I will not climb the hill of Govardhana,” and He thought of Himself as a devotee of Kṛṣṇa. So Gopāla Himself came down from Govardhana and gave Him *darśana*.
+Gauracandra had vowed, “I will not climb the hill of Govardhana,” and He thought of Himself as a devotee of Kṛṣṇa. So Gopāla Himself came down from Govardhana and gave Him darśana.
 
 ## 27
 
@@ -42,7 +42,7 @@ May you be protected by the left arm of lotus-eyed Śrī Kṛṣṇa, with which
 
 ## 45–47
 
-Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew the hill of Śrī Govardhana to be directly the form of Bhagavān, and they did not climb it. Just as Gopāla gave *darśana* to Śrī Mahāprabhu, so He gave *darśana* to them as well. In his old age Śrī Rūpa Gosvāmī could no longer go to Govardhana, and the desire arose in him to see Gopāla’s beauty. Wishing to show mercy to Śrī Rūpa Gosvāmī too, Gopāla raised the same “pretext” of fear of the *mlecchas* and stayed for a month in Mathurā, in the house of Viṭhṭhaleśvara.
+Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew the hill of Śrī Govardhana to be directly the form of Bhagavān, and they did not climb it. Just as Gopāla gave darśana to Śrī Mahāprabhu, so He gave darśana to them as well. In his old age Śrī Rūpa Gosvāmī could no longer go to Govardhana, and the desire arose in him to see Gopāla’s beauty. Wishing to show mercy to Śrī Rūpa Gosvāmī too, Gopāla raised the same “pretext” of fear of the *mlecchas* and stayed for a month in Mathurā, in the house of Viṭhṭhaleśvara.
 
 ## 52
 
@@ -58,11 +58,11 @@ Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew t
 
 ## 112–113
 
-Māyāvādī *sannyāsīs* call themselves “Brahman” and keep saying “Nārāyaṇa, Nārāyaṇa.” By smārta custom, everyone — householder brāhmaṇas and others — bows to such a *sannyāsī* on seeing him, taking him for Nārāyaṇa. To put an end to this mistaken custom, Mahāprabhu said that a *sannyāsī* is nothing more than a *jīva*. He can never be like the sun of Kṛṣṇa, full in all six opulences. He is only a particle of consciousness (*cit-kaṇa*); the *jīva* is therefore like a particle of a ray of the Kṛṣṇa-sun, and one should never bow to him as “Nārāyaṇa.”
+Māyāvādī sannyāsīs call themselves “Brahman” and keep saying “Nārāyaṇa, Nārāyaṇa.” By smārta custom, everyone — householder brāhmaṇas and others — bows to such a sannyāsī on seeing him, taking him for Nārāyaṇa. To put an end to this mistaken custom, Mahāprabhu said that a sannyāsī is nothing more than a jīva. He can never be like the sun of Kṛṣṇa, full in all six opulences. He is only a particle of consciousness (*cit-kaṇa*); the jīva is therefore like a particle of a ray of the Kṛṣṇa-sun, and one should never bow to him as “Nārāyaṇa.”
 
 ## 114
 
-The Lord (*Īśvara*) is always full of eternal being, consciousness and bliss, and is embraced by His *hlādinī* and *saṁvit* potencies. The *jīva*, however, is always covered by his own (superimposed) ignorance (*avidyā*), and is therefore a mine of manifold suffering.
+The Lord (*Īśvara*) is always full of eternal being, consciousness and bliss, and is embraced by His *hlādinī* and *saṁvit* potencies. The jīva, however, is always covered by his own (superimposed) ignorance (*avidyā*), and is therefore a mine of manifold suffering.
 
 ## 116
 
@@ -98,7 +98,7 @@ Akrūra-ghāṭa: this *ghāṭa* lies halfway between Vṛndāvana and Mathurā
 
 ## 194
 
-Unless one serves that Lord with *ibādat* — that is, with prayer (*namāz*) five times a day and so on — the *jīva* does not attain the goal of life. Your scripture calls love (*prīti*) itself the goal of life. Therefore, after first establishing *karma*, *yoga*, *jñāna* and the rest, at the very end it refutes them and establishes the supremacy of the Lord’s *ibādat*, that is, of service to Him.
+Unless one serves that Lord with *ibādat* — that is, with prayer (*namāz*) five times a day and so on — the jīva does not attain the goal of life. Your scripture calls love (*prīti*) itself the goal of life. Therefore, after first establishing karma, yoga, jñāna and the rest, at the very end it refutes them and establishes the supremacy of the Lord’s *ibādat*, that is, of service to Him.
 
 ## 199–200
 

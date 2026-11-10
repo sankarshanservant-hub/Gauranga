@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** This chapter tells the story of Rāmacandra Purī. He was a disciple of Mādhavendra Purī, but through association with the community of dry speculators (*śuṣka-jñānīs*) he took up their corrupt conclusions and began to teach what is contrary to *dharma*. For this Purī Gosāñi rejected him, calling him an “offender.” From then on Rāmacandra Purī blamed others, hunted for their faults and taught dry knowledge, and for all this the Vaiṣṇavas came to shun him. Later he blamed even the way Mahāprabhu ate. Mahāprabhu saw in him a relation to His own guru, so He said nothing to him; He only silently reduced His own food, the *prasāda*. When Rāmacandra Purī left Puruṣottama, the Lord gave up this reduction.
+**Summary.** This chapter tells the story of Rāmacandra Purī. He was a disciple of Mādhavendra Purī, but through association with the community of dry speculators (*śuṣka-jñānīs*) he took up their corrupt conclusions and began to teach what is contrary to dharma. For this Purī Gosāñi rejected him, calling him an “offender.” From then on Rāmacandra Purī blamed others, hunted for their faults and taught dry knowledge, and for all this the Vaiṣṇavas came to shun him. Later he blamed even the way Mahāprabhu ate. Mahāprabhu saw in him a relation to His own guru, so He said nothing to him; He only silently reduced His own food, the prasāda. When Rāmacandra Purī left Puruṣottama, the Lord gave up this reduction.
 
 ## 1
 
@@ -30,7 +30,7 @@ Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāpra
 
 ## 47
 
-“Last night there was cane molasses (*guḍa*) here; that is why the ants are crawling about. Alas, such is the craving of renounced *sannyāsīs* for sense enjoyment!” Saying this, he got up and left.
+“Last night there was cane molasses (*guḍa*) here; that is why the ants are crawling about. Alas, such is the craving of renounced sannyāsīs for sense enjoyment!” Saying this, he got up and left.
 
 ## 48
 
@@ -38,7 +38,7 @@ Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāpra
 
 ## 65–66
 
-O Arjuna, by eating much there is no *yoga*; by not eating at all there is no *yoga* either; nor does it come by much sleep or by giving up sleep. But when eating, recreation and all activities — effort, sleep, waking and so on — are kept in proper measure, the *yoga* that destroys suffering arises.
+O Arjuna, by eating much there is no yoga; by not eating at all there is no yoga either; nor does it come by much sleep or by giving up sleep. But when eating, recreation and all activities — effort, sleep, waking and so on — are kept in proper measure, the yoga that destroys suffering arises.
 
 ## 76
 
@@ -50,7 +50,7 @@ Of an earlier and a later injunction, the later is the stronger.
 
 ## 86
 
-*Abhojyānna vipra* — a *brāhmaṇa* in whose house one may not eat the food (*anna*) he cooks.
+*Abhojyānna vipra* — a brāhmaṇa in whose house one may not eat the food (*anna*) he cooks.
 
 ## 95
 

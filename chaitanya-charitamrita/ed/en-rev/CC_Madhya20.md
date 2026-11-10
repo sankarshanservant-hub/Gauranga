@@ -1974,7 +1974,7 @@ that same  body  in a different appearance  somewhat  different in shape
 bhāvāveśākṛti-bhede ‘tad-ekātma’ nāma tām̐ra  
 of absorption in bhāva  of form  by the difference  tad-ekātma  the name  His
 
-(183) When that same body appears in another guise, somewhat different in shape, with a different bhāva absorbing it and different features, it is called *tad-ekātma*.
+(183) When that same body appears in another guise, somewhat different in shape, with a different *bhāva* absorbing it and different features, it is called *tad-ekātma*.
 
 তদেকাত্মরূপে ‘বিলাস’, ‘স্বাংশ’, — দুই ভেদ ৷  
 বিলাস, স্বাংশের ভেদে বিবিধ বিভেদ ॥ ১৮৪ ॥

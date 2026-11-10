@@ -40,7 +40,7 @@ See Antya 10.5 and 10.8.
 
 ## 14
 
-> Subheading: Bowing to Śacī, all set out singing *kīrtana* —
+> Subheading: Bowing to Śacī, all set out singing kīrtana —
 
 ## 15
 
@@ -178,7 +178,7 @@ Later he came to Purī with his father. The Lord tried at length to get him to u
 
 ## 59
 
-> Subheading: The Lord — the guru of the world and teacher of mankind, who was enacting the pastime of a *sannyāsī* — is embarrassed to hear a woman’s name, though she was old and like a mother —
+> Subheading: The Lord — the guru of the world and teacher of mankind, who was enacting the pastime of a sannyāsī — is embarrassed to hear a woman’s name, though she was old and like a mother —
 
 ## 60
 
@@ -196,7 +196,7 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 64
 
-> Subheading: By day, *saṅkīrtana* with His devotees; by night, in solitude, separation from Kṛṣṇa —
+> Subheading: By day, saṅkīrtana with His devotees; by night, in solitude, separation from Kṛṣṇa —
 
 ## 65
 
@@ -336,7 +336,7 @@ Having prepared fragrant oil in Gauḍa, he brings it to Śrī Kṣetra.
 
 > Subheading: The Lord, the guru of the world and teacher of mankind, teaches the *sādhaka* or ācārya how improper it is to strive for enjoyment to please one’s own senses —
 
-A mendicant (*bhikṣu*), that is, a *sannyāsī*, has no helpers and must not accept help from others. Here the Lord says how pleasant it would be to hire, as pleasure-loving enjoyers do, someone like a servant to rub Him with fragrant oil, the companion of luxury. This is sarcasm (*śleṣokti*).
+A mendicant (*bhikṣu*), that is, a sannyāsī, has no helpers and must not accept help from others. Here the Lord says how pleasant it would be to hire, as pleasure-loving enjoyers do, someone like a servant to rub Him with fragrant oil, the companion of luxury. This is sarcasm (*śleṣokti*).
 
 ## 114
 
@@ -392,7 +392,7 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 130
 
-> Subheading: The Lord praises the *prasāda* the Paṇḍita cooked with love and glorifies his good fortune —
+> Subheading: The Lord praises the prasāda the Paṇḍita cooked with love and glorifies his good fortune —
 
 ## 134
 
@@ -418,7 +418,7 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 143
 
-> Subheading: Rāmāi and Raghunātha Bhaṭṭa, servants of the Lord and companions of Govinda, receive the Lord’s *prasāda* after cooking the offering —
+> Subheading: Rāmāi and Raghunātha Bhaṭṭa, servants of the Lord and companions of Govinda, receive the Lord’s prasāda after cooking the offering —
 
 ## 144
 

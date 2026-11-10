@@ -152,11 +152,11 @@ Having collected twenty lakhs, Hiraṇya should have kept back a quarter (five l
 
 ## 42
 
-> Subheading: Nityānanda Prabhu comes to Pāṇihāṭī, and Raghunātha sees His feet —
+> Subheading: Nityānanda Prabhu comes to Pāṇihāṭi, and Raghunātha sees His feet —
 
 ## 43
 
-> Subheading: With Nityānanda Prabhu are many servants and *kīrtana* singers —
+> Subheading: With Nityānanda Prabhu are many servants and kīrtana singers —
 
 ## 44
 
@@ -240,15 +240,15 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 ## 64
 
-> Subheading: *Brāhmaṇas* who do not see caste in Vaiṣṇavas honour the *mahā-prasāda* —
+> Subheading: *Brāhmaṇas* who do not see caste in Vaiṣṇavas honour the mahā-prasāda —
 
 ## 71
 
-> Subheading: Rāghava Paṇḍita arrives there with *prasāda* —
+> Subheading: Rāghava Paṇḍita arrives there with prasāda —
 
 ## 72
 
-> Subheading: He serves the *prasāda* first to Nityānanda and then to the devotees —
+> Subheading: He serves the prasāda first to Nityānanda and then to the devotees —
 
 *Ni-sakḍi* — what is not *sakḍi*, that is, not defiled by contact with cooked rice (*anna*).
 
@@ -326,7 +326,7 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 ## 91
 
-> Subheading: Vendors come to sell their goods, earn money by selling, and then eat what they sold, now made *prasāda* —
+> Subheading: Vendors come to sell their goods, earn money by selling, and then eat what they sold, now made prasāda —
 
 *Pasāri* — a vendor, a shopkeeper.
 
@@ -340,7 +340,7 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 ## 95
 
-> Subheading: The *prasāda* is distributed among the devotees —
+> Subheading: The prasāda is distributed among the devotees —
 
 ## 96
 
@@ -360,11 +360,11 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 ## 101
 
-> Subheading: In the evening — *kīrtana* in Rāghava’s temple —
+> Subheading: In the evening — kīrtana in Rāghava’s temple —
 
 ## 102
 
-> Subheading: Nityānanda dances in the *kīrtana* —
+> Subheading: Nityānanda dances in the kīrtana —
 
 ## 103
 
@@ -392,11 +392,11 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 ## 109
 
-> Subheading: First the two Lords, then the devotees honour the *prasāda* —
+> Subheading: First the two Lords, then the devotees honour the prasāda —
 
 ## 110
 
-> Subheading: Description of the variety of *prasāda* in Rāghava’s house —
+> Subheading: Description of the variety of prasāda in Rāghava’s house —
 
 
 ## 111
@@ -413,7 +413,7 @@ Uddhāraṇa — see the *Anubhāṣya* on Ādi 11.41.
 
 ## 115
 
-> Subheading: The two Lords eat many kinds of wonderful *prasāda*, leaving nothing —
+> Subheading: The two Lords eat many kinds of wonderful prasāda, leaving nothing —
 
 ## 116
 
@@ -559,7 +559,7 @@ See Madhya 23.24.
 
 ## 161–162
 
-These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya’s order call themselves his followers. Yet, swayed by a mood hostile to pure devotion, they did not recognise Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the *jīva* eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a *brāhmaṇa* family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
+These words too show that the godless (*pāṣaṇḍīs*) who oppose the teaching and disobey Śrī Advaitācārya’s order call themselves his followers. Yet, swayed by a mood hostile to pure devotion, they did not recognise Śrī Mahāprabhu as Svayaṁ Bhagavān Kṛṣṇa, whom the jīva eternally worships. Śrī Yadunandana was an intimate disciple of Śrī Advaita Prabhu, whose only life is Śrī Caitanya. Therefore he was never tainted by the fault of seeing Viṣṇu and the Vaiṣṇava as mere members of a common caste. Vāsudeva Datta Ṭhākura was not born in a brāhmaṇa family by seminal descent, yet Yadunandana regarded him as his own guru, who had bestowed mercy (*anugraha*) on him.
 
 ## 163
 
@@ -647,7 +647,7 @@ These words too show that the godless (*pāṣaṇḍīs*) who oppose the teachi
 
 > Subheading: On the occasion of the eternally perfect (*nitya-siddha*) Raghunātha’s leaving home, the Lord instructs the practitioner of devotion who still has *anarthas*; the greatness of Kṛṣṇa’s mercy —
 
-Kṛṣṇa’s mercy is more powerful than the fruits of past *karma* and all else. It is this compassion of Kṛṣṇa that has rescued you from the cesspit of worldly life. A *jīva* attached to worldly things cannot give them up by his own strength. And for a *jīva* who is a pure servant of Kṛṣṇa, worldly things are all the more like a cesspit. Mahāprabhu knew that Śrīla Raghunātha was free from worldliness, yet He said this, using him as the occasion, only to teach suffering worldly people.
+Kṛṣṇa’s mercy is more powerful than the fruits of past karma and all else. It is this compassion of Kṛṣṇa that has rescued you from the cesspit of worldly life. A jīva attached to worldly things cannot give them up by his own strength. And for a jīva who is a pure servant of Kṛṣṇa, worldly things are all the more like a cesspit. Mahāprabhu knew that Śrīla Raghunātha was free from worldliness, yet He said this, using him as the occasion, only to teach suffering worldly people.
 
 ## 194
 
@@ -657,25 +657,25 @@ Kṛṣṇa’s mercy is more powerful than the fruits of past *karma* and all e
 
 > Subheading: The Lord describes the character of Hiraṇya and Govardhana —
 
-Nīlāmbara Cakravartī knew Raghunātha’s father and uncle to be noble Kāyasthas younger than himself, and so he called them *bhāyā* (brother). The two brothers, knowing Nīlāmbara to be a *brāhmaṇa* older than they, addressed him as *dādā* (elder brother). Therefore Śrī Mahāprabhu, regarding them as brothers of His maternal grandfather, considered them people He could tease. Because of this form of address many mistakenly think that Raghunātha was much older than Mahāprabhu, but in fact this is not so.
+Nīlāmbara Cakravartī knew Raghunātha’s father and uncle to be noble Kāyasthas younger than himself, and so he called them *bhāyā* (brother). The two brothers, knowing Nīlāmbara to be a brāhmaṇa older than they, addressed him as *dādā* (elder brother). Therefore Śrī Mahāprabhu, regarding them as brothers of His maternal grandfather, considered them people He could tease. Because of this form of address many mistakenly think that Raghunātha was much older than Mahāprabhu, but in fact this is not so.
 
 ## 197
 
 > Subheading: The poison of worldliness destroys the self: it is a terrible obstacle to the *jīva’s* attaining his true nature (*svarūpa*), his real health —
 
-Worldly objects (*viṣaya*) give great suffering to the worldly man who enjoys them. Yet people bound to worldly existence, their hearts absorbed in worldliness, take these painful worldly objects for “happiness.” The objects enjoyed by the material senses are fit to be rejected: they are like a cesspit. The *jīva* absorbed in them is like a worm in loathsome excrement. In other words, in the eyes of one who seeks the highest goal, the worldly enjoyer of matter is like a worm in a cesspit: in that worm’s form he revels with great delight in the taste of the most loathsome excrement of worldliness.
+Worldly objects (*viṣaya*) give great suffering to the worldly man who enjoys them. Yet people bound to worldly existence, their hearts absorbed in worldliness, take these painful worldly objects for “happiness.” The objects enjoyed by the material senses are fit to be rejected: they are like a cesspit. The jīva absorbed in them is like a worm in loathsome excrement. In other words, in the eyes of one who seeks the highest goal, the worldly enjoyer of matter is like a worm in a cesspit: in that worm’s form he revels with great delight in the taste of the most loathsome excrement of worldliness.
 
 ## 198
 
-> Subheading: Other desires born of the conceit of being an enjoyer or of identifying the self with the body, service mixed with *karma* and *jñāna*, a mere semblance of following Viṣṇu and the Vaiṣṇavas, though not hostile — worldly faith — this is not pure devotion but only the stage of the *kaniṣṭha-adhikārī* —
+> Subheading: Other desires born of the conceit of being an enjoyer or of identifying the self with the body, service mixed with karma and jñāna, a mere semblance of following Viṣṇu and the Vaiṣṇavas, though not hostile — worldly faith — this is not pure devotion but only the stage of the *kaniṣṭha-adhikārī* —
 
-The two brothers, Hiraṇya and Govardhana, honoured the *brāhmaṇas* and were their patrons, supporters, and helpers. Therefore by the standards of worldly judgement they were respected as excellent, “good” people, and among ordinary people they were known as “Vaiṣṇavas.” But in the judgement of pure devotees who seek the highest goal they are not “pure Vaiṣṇavas”: the pure Vaiṣṇavas regarded them as *vaiṣṇava-prāya* (almost Vaiṣṇavas) or *vaiṣṇavābhāsa* (a semblance of Vaiṣṇavas), that is, as *kaniṣṭhas* or *bāliśa* (the uninformed) — but not as *vidveṣī* (hostile).
+The two brothers, Hiraṇya and Govardhana, honoured the brāhmaṇas and were their patrons, supporters, and helpers. Therefore by the standards of worldly judgement they were respected as excellent, “good” people, and among ordinary people they were known as “Vaiṣṇavas.” But in the judgement of pure devotees who seek the highest goal they are not “pure Vaiṣṇavas”: the pure Vaiṣṇavas regarded them as *vaiṣṇava-prāya* (almost Vaiṣṇavas) or *vaiṣṇavābhāsa* (a semblance of Vaiṣṇavas), that is, as *kaniṣṭhas* or *bāliśa* (the uninformed) — but not as *vidveṣī* (hostile).
 
 ## 199
 
 > Subheading: Giving up the desire to please Kṛṣṇa, one pursues worldly objects through enjoyment or renunciation, relying on knowledge gained through the senses; as a result even the slightest seed of faith is stifled and worldly existence grows —
 
-Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *anyābhilāṣīs* (those with other desires). Therefore the very *karma*, *jñāna*, and other practices they perform sink them, without their knowing it, into worldliness, and they become as inert as matter.
+Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *anyābhilāṣīs* (those with other desires). Therefore the very karma, jñāna, and other practices they perform sink them, without their knowing it, into worldliness, and they become as inert as matter.
 
 ## 200
 
@@ -703,7 +703,7 @@ Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *an
 
 ## 208
 
-> Subheading: The Lord tells Raghunātha to bathe in the sea, take *darśana* of Jagannātha, and then honour *prasāda* —
+> Subheading: The Lord tells Raghunātha to bathe in the sea, take darśana of Jagannātha, and then honour prasāda —
 
 ## 209
 
@@ -719,17 +719,17 @@ Worldly enjoyers give up pure devotion and become *karmīs*, *jñānīs*, or *an
 
 ## 213
 
-> Subheading: For five days Raghunātha stays near Svarūpa and receives the Lord’s *prasāda* —
+> Subheading: For five days Raghunātha stays near Svarūpa and receives the Lord’s prasāda —
 
 ## 214
 
-> Subheading: From the next day Raghunātha stands at night at the Lion Gate, waiting for *prasāda* —
+> Subheading: From the next day Raghunātha stands at night at the Lion Gate, waiting for prasāda —
 
 **Puṣpa-añjali** — the evening service to Jagannātha: the offering of handfuls of flowers (*puṣpāñjali*).
 
 ## 215
 
-> Subheading: How Jagannātha’s servants, who are householders, give *prasāda* at night, after finishing the worship and setting out for home, to a Vaiṣṇava waiting at the gate —
+> Subheading: How Jagannātha’s servants, who are householders, give prasāda at night, after finishing the worship and setting out for home, to a Vaiṣṇava waiting at the gate —
 
 ## 217
 
@@ -743,7 +743,7 @@ If both non-devotee worldly people and pure devotees look carefully and impartia
 
 ## 221
 
-> Subheading: Govinda informs the Lord that Raghunātha is waiting for *prasāda* at the Lion Gate —
+> Subheading: Govinda informs the Lord that Raghunātha is waiting for prasāda at the Lion Gate —
 
 ## 222
 
@@ -751,11 +751,11 @@ If both non-devotee worldly people and pure devotees look carefully and impartia
 
 ## 223
 
-> Subheading: The Lord describes the conduct, that is, the *dharma*, of a *vairāgī* — one who has left home: what befits him and what does not —
+> Subheading: The Lord describes the conduct, that is, the dharma, of a *vairāgī* — one who has left home: what befits him and what does not —
 
 ## 226
 
-“These duties are described mainly for pious, wealthy householders, not for great souls who have given up all possessions. Those who sing of Hari at dawn, at midnight, at midday and at the close of day cross the ocean of worldly existence. So those wholly devoted to the Lord (*ekāntins*) usually sing of Him and remember Him with the highest love, and no other duty appeals to them.” (*Hari-bhakti-vilāsa*, *vilāsa* 20, at the very end) The observances described in the *Hari-bhakti-vilāsa* are meant for wealthy householders who are almost Vaiṣṇavas. They are not for pure Vaiṣṇavas — those who have given up everything, are detached from the world and have taken shelter of the holy name alone. Whoever sings of Hari in the morning, at midnight, at midday and in the evening — that is, throughout all eight periods of the day (*aṣṭa-kāla*) — crosses the ocean of worldly existence. Pure devotees wholly devoted to the Lord sing of Him and remember Him with the highest love; apart from *kīrtana* and the like, they have no other observances.
+“These duties are described mainly for pious, wealthy householders, not for great souls who have given up all possessions. Those who sing of Hari at dawn, at midnight, at midday and at the close of day cross the ocean of worldly existence. So those wholly devoted to the Lord (*ekāntins*) usually sing of Him and remember Him with the highest love, and no other duty appeals to them.” (*Hari-bhakti-vilāsa*, *vilāsa* 20, at the very end) The observances described in the *Hari-bhakti-vilāsa* are meant for wealthy householders who are almost Vaiṣṇavas. They are not for pure Vaiṣṇavas — those who have given up everything, are detached from the world and have taken shelter of the holy name alone. Whoever sings of Hari in the morning, at midnight, at midday and in the evening — that is, throughout all eight periods of the day (*aṣṭa-kāla*) — crosses the ocean of worldly existence. Pure devotees wholly devoted to the Lord sing of Him and remember Him with the highest love; apart from kīrtana and the like, they have no other observances.
 
 Śrī Jīva Gosvāmī Prabhu writes in the *Bhakti-sandarbha* (*anuccheda* 83[^226-1]): “Although according to the *Śrīmad-Bhāgavatam* the path of Deity worship (*arcana*), as in the *Pañcarātra* and other scriptures, is not obligatory — since it says that even without it the highest goal of human life is attained by any one of such means as surrender (*śaraṇāpatti*) …”
 
@@ -777,7 +777,7 @@ If both non-devotee worldly people and pure devotees look carefully and impartia
 
 ## 234
 
-> Subheading: Śrī Svarūpa Dāmodara — the eternal master, that is, the guru, of the Mādhva-Gauḍīyas — is the *ācārya* of the entire truth of the goal and the means (*sādhya* and *sādhana*) —
+> Subheading: Śrī Svarūpa Dāmodara — the eternal master, that is, the guru, of the Mādhva-Gauḍīyas — is the ācārya of the entire truth of the goal and the means (*sādhya* and *sādhana*) —
 
 ## 236
 
@@ -861,7 +861,7 @@ See Ādi 17.31.
 
 > Subheading: Raghunātha’s incomparable good fortune —
 
-**yaḥ** (Dāsa Gosvāmī) **sarva-lokaika-manobhirucyā** (by the single, that is, the chief, inclination of the mind — the love — of all devotee people; by that) **kācit** (indescribable) **akṛṣṭa-pacyā** (ripened without ploughing, that is, perfected even before perfection is reached through *sādhana*, or perfected without *sādhana*) **saubhāgya-bhūḥ** (soil of good fortune), **yasyām** (in which — in that soil) **samāropaṇa-tulya-kālam** (at the very time the seed was sown) **atulyaḥ** (matchless) **tat-prema-śākhī** (*tat* — His, Śrī Caitanya’s; *prema* — that itself is the tree) **phalavān** (fruitful; “became” is understood).
+**yaḥ** (Dāsa Gosvāmī) **sarva-lokaika-manobhirucyā** (by the single, that is, the chief, inclination of the mind — the love — of all devotee people; by that) **kācit** (indescribable) **akṛṣṭa-pacyā** (ripened without ploughing, that is, perfected even before perfection is reached through *sādhana*, or perfected without *sādhana*) **saubhāgya-bhūḥ** (soil of good fortune), **yasyām** (in which — in that soil) **samāropaṇa-tulya-kālam** (at the very time the seed was sown) **atulyaḥ** (matchless) **tat-prema-śākhī** (*tat* — His, Śrī Caitanya’s; prema — that itself is the tree) **phalavān** (fruitful; “became” is understood).
 
 ## 266
 
@@ -897,13 +897,13 @@ See Ādi 17.31.
 
 > Subheading: An attempt to perform[^275-1] spiritual service to Viṣṇu with material things enjoyed by a person bewildered by false ego only increases *anarthas*; it is rooted in mixing spirit with matter, and its fruit is mere worldly prestige —
 
-A person with the false sense of “I” and “mine” — a worldly *viṣayī* who enjoys matter — may try to serve Hari, guru and the Vaiṣṇavas, the substance of eternity, knowledge and bliss beyond matter, with money meant for his own enjoyment. Such an attempt yields only worldly prestige (*pratiṣṭhā*); in reality he does not serve the transcendental Hari, guru and Vaiṣṇavas. A *jīva* who desires his eternal good should surrender completely, that is, dedicate himself wholly, and serve the transcendental Hari, guru and Vaiṣṇavas with all the money he has earned himself, and with body, mind, speech and life.
+A person with the false sense of “I” and “mine” — a worldly *viṣayī* who enjoys matter — may try to serve Hari, guru and the Vaiṣṇavas, the substance of eternity, knowledge and bliss beyond matter, with money meant for his own enjoyment. Such an attempt yields only worldly prestige (*pratiṣṭhā*); in reality he does not serve the transcendental Hari, guru and Vaiṣṇavas. A jīva who desires his eternal good should surrender completely, that is, dedicate himself wholly, and serve the transcendental Hari, guru and Vaiṣṇavas with all the money he has earned himself, and with body, mind, speech and life.
 
 ## 276
 
 > Subheading: The Lord’s bountiful mercy for the eternal good of the foolish —
 
-*Viṣayīs* intoxicated with pride in high birth, wealth, learning and beauty have others perform so-called service to the Śrī Mūrti and then distribute [the offered food] to Vaiṣṇavas, thinking it *prasāda*. In their foolishness they do not know that Adhokṣaja, Ajita, accepts nothing offered in a mood devoid of *bhakti*. Therefore Vaiṣṇavas wholly devoted to serving Kṛṣṇa and impartial — that is, detached from worldly enjoyment — in many cases do not accept help from such *viṣayīs*, enjoyers of matter: that help is tinged with the smell of material conceit, and by accepting it they would become those people’s servants. Then the wealthy worldly *viṣayīs*, out of a foolishness born of identifying themselves with the body and so on, nurse hostility towards the Vaiṣṇava and are pained by his conduct.
+*Viṣayīs* intoxicated with pride in high birth, wealth, learning and beauty have others perform so-called service to the Śrī Mūrti and then distribute [the offered food] to Vaiṣṇavas, thinking it prasāda. In their foolishness they do not know that Adhokṣaja, Ajita, accepts nothing offered in a mood devoid of bhakti. Therefore Vaiṣṇavas wholly devoted to serving Kṛṣṇa and impartial — that is, detached from worldly enjoyment — in many cases do not accept help from such *viṣayīs*, enjoyers of matter: that help is tinged with the smell of material conceit, and by accepting it they would become those people’s servants. Then the wealthy worldly *viṣayīs*, out of a foolishness born of identifying themselves with the body and so on, nurse hostility towards the Vaiṣṇava and are pained by his conduct.
 
 ## 277
 
@@ -911,9 +911,9 @@ A person with the false sense of “I” and “mine” — a worldly *viṣayī
 
 ## 278
 
-> Subheading: The Lord instructs *sādhakas* and *ācāryas* how to associate and conduct themselves — their duty —
+> Subheading: The Lord instructs *sādhakas* and ācāryas how to associate and conduct themselves — their duty —
 
-Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhaka* accepts food that they give without *bhakti*, or eats with them, that contact infects the Vaiṣṇava *sādhaka* with their association, and as a result *sādhakas* acquire the same nature as theirs. Suppose someone, even in the slightest degree, even with hidden sympathy, engages in the six kinds of association (giving, receiving, eating with them and feeding them, revealing confidences and inquiring) with non-Vaiṣṇavas and with *prākṛta-sahajiyās* who bear the name “Vaiṣṇava.” Then worldly enjoyment, based on gratifying the material senses, takes the place of transcendental pure devotion to Kṛṣṇa and robs the *sādhaka* of devotion to Kṛṣṇa. Therefore people with impure hearts, soiled by sense objects and bent on gratifying their own senses, can never remember the transcendental Kṛṣṇa or serve Him in other such ways.
+Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhaka* accepts food that they give without bhakti, or eats with them, that contact infects the Vaiṣṇava *sādhaka* with their association, and as a result *sādhakas* acquire the same nature as theirs. Suppose someone, even in the slightest degree, even with hidden sympathy, engages in the six kinds of association (giving, receiving, eating with them and feeding them, revealing confidences and inquiring) with non-Vaiṣṇavas and with *prākṛta-sahajiyās* who bear the name “Vaiṣṇava.” Then worldly enjoyment, based on gratifying the material senses, takes the place of transcendental pure devotion to Kṛṣṇa and robs the *sādhaka* of devotion to Kṛṣṇa. Therefore people with impure hearts, soiled by sense objects and bent on gratifying their own senses, can never remember the transcendental Kṛṣṇa or serve Him in other such ways.
 
 ## 279
 
@@ -921,7 +921,7 @@ Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhak
 
 ## 280
 
-> Subheading: By the Lord’s bountiful mercy sound judgement arises in the *sādhaka*: he gives up devotion mixed with *karma* and turns to pure service —
+> Subheading: By the Lord’s bountiful mercy sound judgement arises in the *sādhaka*: he gives up devotion mixed with karma and turns to pure service —
 
 ## 281
 
@@ -939,7 +939,7 @@ Non-Vaiṣṇavas, or *prākṛta-sahajiyās*, are *viṣayīs*. When a *sādhak
 
 ## 284
 
-> Subheading: Waiting for food from another, at his whim, is contrary to the *dharma* of impartial renunciation —
+> Subheading: Waiting for food from another, at his whim, is contrary to the dharma of impartial renunciation —
 
 ## 285
 
@@ -1013,7 +1013,7 @@ There are, however, non-Vaiṣṇavas reared and nourished by *adaiva varṇāś
 
 ## 308
 
-> Subheading: The service to Gaura of Raghunātha, who has lost himself in *prema* —
+> Subheading: The service to Gaura of Raghunātha, who has lost himself in prema —
 
 ## 309
 
@@ -1023,7 +1023,7 @@ There are, however, non-Vaiṣṇavas reared and nourished by *adaiva varṇāś
 
 > Subheading: Serving Kṛṣṇa at every moment —
 
-A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtana*; to eating and sleeping, four *daṇḍas*, and even that not every day.”
+A variant reading: “Seven and a half *praharas* go to remembrance and kīrtana; to eating and sleeping, four *daṇḍas*, and even that not every day.”
 
 ## 311
 
@@ -1043,7 +1043,7 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 
 ## 315
 
-> Subheading: Raghunātha washes the unsold, stale, mud-soiled *prasāda* rice of the shopkeepers and honours it, seeing in it Kṛṣṇa’s remnants, a spiritual substance —
+> Subheading: Raghunātha washes the unsold, stale, mud-soiled prasāda rice of the shopkeepers and honours it, seeing in it Kṛṣṇa’s remnants, a spiritual substance —
 
 ## 316
 
@@ -1059,7 +1059,7 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 
 ## 320
 
-> Subheading: The *prasāda* taken by Raghunātha, the dearest of Gaura-Kṛṣṇa, is spiritual nectar enjoyed by Kṛṣṇa —
+> Subheading: The prasāda taken by Raghunātha, the dearest of Gaura-Kṛṣṇa, is spiritual nectar enjoyed by Kṛṣṇa —
 
 ## 321
 
@@ -1075,7 +1075,7 @@ A variant reading: “Seven and a half *praharas* go to remembrance and *kīrtan
 
 ## 324
 
-> Subheading: The Lord praises the *prasāda* taken by His dearest Raghunātha —
+> Subheading: The Lord praises the prasāda taken by His dearest Raghunātha —
 
 ## 325
 

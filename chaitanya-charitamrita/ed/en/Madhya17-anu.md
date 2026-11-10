@@ -90,7 +90,7 @@ When autumn came, Kṛṣṇa began to wander from forest to forest, playing His
 
 > Subheading: In Vṛndāvana there is no feeling opposed to nondual Knowledge —
 
-Brahmā stole the calves and cowherd boys of Vraja. After a moment (*truṭi*) he again saw, in that same Vraja, calves and cowherd boys endowed with supreme majesty, playing with Kṛṣṇa, and he was utterly bewildered by Kṛṣṇa’s *māyā*. Then Kṛṣṇa mercifully lifted the curtain of His *māyā*. Brahmā looked around like one awakened from sleep and beheld Śrī Vṛndāvana, full of the greatest splendour:
+Brahmā stole the calves and cowherd boys of Vraja. After a moment (*truṭi*) he again saw, in that same Vraja, calves and cowherd boys endowed with supreme majesty, playing with Kṛṣṇa, and he was utterly bewildered by Kṛṣṇa’s māyā. Then Kṛṣṇa mercifully lifted the curtain of His māyā. Brahmā looked around like one awakened from sleep and beheld Śrī Vṛndāvana, full of the greatest splendour:
 
 **yatra** **naisarga-durvairāḥ** (though by nature bearing an enmity that cannot be removed) **nṛ-mṛgādayaḥ** (men, lions and others) **mitrāṇi** **iva** (like friends) **saha** **āsan** (lived together); (such a Vṛndāvana) **ajitāvāsa-druta-ruṭ-tarṣaṇādikam** (the dwelling of Ajita, Śrī Kṛṣṇa, the place where He always abides, from which anger, greed, thirst and the like have swiftly fled before its own glory)—“he saw Vṛndāvana”: so it connects with the preceding verse.
 
@@ -146,7 +146,7 @@ On this one should especially study Madhya 8.11, 273 and 277, and the verses *Ś
 
 > Subheading: Brāhmaṇas by initiation serve the Lord —
 
-Where there were no brāhmaṇas by birth (*śaukra-vipras*), the Bhaṭṭācārya was invited to the homes of “*śūdra mahājanas*,” that is, of great souls (*mahājanas*) who, though born *śūdras*, were brāhmaṇas by initiation (*daikṣya*) and the like. By the rules of Śaṅkara’s *sannyāsīs*, alms may be accepted only in the home of a brāhmaṇa by birth. Yet where there were no Vaiṣṇava brāhmaṇas, Mahāprabhu took no account of birth, either by seed (*śaukra*) or by the Sāvitrī initiation (*sāvitrya*). He looked only at whether a person was a Vaiṣṇava, that is, at pure devotion, and accepted food and other things from brāhmaṇas by initiation and others.
+Where there were no brāhmaṇas by birth (*śaukra-vipras*), the Bhaṭṭācārya was invited to the homes of “*śūdra mahājanas*,” that is, of great souls (*mahājanas*) who, though born śūdras, were brāhmaṇas by initiation (*daikṣya*) and the like. By the rules of Śaṅkara’s sannyāsīs, alms may be accepted only in the home of a brāhmaṇa by birth. Yet where there were no Vaiṣṇava brāhmaṇas, Mahāprabhu took no account of birth, either by seed (*śaukra*) or by the Sāvitrī initiation (*sāvitrya*). He looked only at whether a person was a Vaiṣṇava, that is, at pure devotion, and accepted food and other things from brāhmaṇas by initiation and others.
 
 ## 61
 
@@ -204,17 +204,17 @@ Maṇikarṇikā: at this *ghāṭa* a jewel (*maṇi*) fell from the ear (*kar�
 
 ## 86
 
-> Subheading: Miśra takes the Lord for *darśana* of Viśveśvara and Bindu-mādhava —
+> Subheading: Miśra takes the Lord for darśana of Viśveśvara and Bindu-mādhava —
 
 Bindu-mādhava is an ancient temple of Viṣṇu; today it is the temple known as Veṇī-mādhava. It stands above the Pañcagaṅgā. Of the five rivers (the “Pañcanadī”)—the Dhūtapāpā, the Kiraṇā, the Sarasvatī, the Gaṅgā and the Yamunā—only the Gaṅgā flows visibly. It is said that the ancient temple of Bindu-mādhava, which Śrī Mahāprabhu visited, was destroyed by the Mughal emperor Aurangzeb, “the hater of Hindus,” who built a large mosque in its place. The huge old mosque stands right beside the present temple.
 
-In the temple reside the Deities of four-armed Śrī Nārāyaṇa and Lakṣmī-devī; before Them is the Deity of Śrī Garuḍa, and to the side the Deities of Śrī Rāma, Sītā, Lakṣmaṇa and others, and of Śrī Hanumān. The Deities’ service and all the temple’s expenses are borne by Śrīmant Bālāsāheb Pant Mahārāj, the *pratinidhi* of Āundh—a tributary native state in the Sātārā district of Mahārāṣṭra, in the Bombay Presidency—a Mahārāṣṭrian brāhmaṇa who follows a Vaiṣṇava *sampradāya*. The service of Śrī Veṇī-mādhava is said to have been entrusted to this royal family for about 200 years; the first servitor (*pratinidhi*) of the line was named Mahārāj Jagatjīvan Rāo Sāheb.
+In the temple reside the Deities of four-armed Śrī Nārāyaṇa and Lakṣmī-devī; before Them is the Deity of Śrī Garuḍa, and to the side the Deities of Śrī Rāma, Sītā, Lakṣmaṇa and others, and of Śrī Hanumān. The Deities’ service and all the temple’s expenses are borne by Śrīmant Bālāsāheb Pant Mahārāj, the *pratinidhi* of Āundh—a tributary native state in the Sātārā district of Mahārāṣṭra, in the Bombay Presidency—a Mahārāṣṭrian brāhmaṇa who follows a Vaiṣṇava sampradāya. The service of Śrī Veṇī-mādhava is said to have been entrusted to this royal family for about 200 years; the first servitor (*pratinidhi*) of the line was named Mahārāj Jagatjīvan Rāo Sāheb.
 
 ## 87
 
 > Subheading: Miśra brings the Lord to his home and rejoices at having received Him —
 
-(In Tapana Miśra’s house.) While staying in Kāśī, Śrīman Mahāprabhu would bathe at the nearby “Pañcanadī Ghāṭa,” then first of all go for *darśana* of Śrī Bindu-mādhava-jīu, and afterwards accept His meal in the house of Śrī Tapana Miśra. A little way from that temple stands a banyan tree under which, tradition says, Śrīman Mahāprabhu used to rest. It is said that the tree was later named “Caitanya-vaṭa” after Him and in time came to be called “Yatana-vaṭa,” and it is still known by that name. Today, in a lane there, one can see the *samādhi* of Śrī Vallabhācārya, but no memorial of Śrī Gaurasundara is to be found. Vallabhācārya, too, is known to his followers by the name “Mahāprabhu.” Śrīman Mahāprabhu may have stayed at the “Yatana-vaṭa,” but even the traces of Śrī Candraśekhara’s house, of Śrī Tapana Miśra’s home, of the place of Prakāśānanda Sarasvatī, the leader of the Māyāvādīs, and so on, are now lost. Nearby, however, in the house of the late Śaśībhūṣaṇa Niyogī of Calcutta, the Deities (*arcā-vigrahas*) of Śrī Gaura and Nityānanda are installed. The present service is carried on under the care of his mother-in-law and of his wife’s sister’s husband, Śrī Nārāyaṇacandra Ghoṣa.
+(In Tapana Miśra’s house.) While staying in Kāśī, Śrīman Mahāprabhu would bathe at the nearby “Pañcanadī Ghāṭa,” then first of all go for darśana of Śrī Bindu-mādhava-jīu, and afterwards accept His meal in the house of Śrī Tapana Miśra. A little way from that temple stands a banyan tree under which, tradition says, Śrīman Mahāprabhu used to rest. It is said that the tree was later named “Caitanya-vaṭa” after Him and in time came to be called “Yatana-vaṭa,” and it is still known by that name. Today, in a lane there, one can see the *samādhi* of Śrī Vallabhācārya, but no memorial of Śrī Gaurasundara is to be found. Vallabhācārya, too, is known to his followers by the name “Mahāprabhu.” Śrīman Mahāprabhu may have stayed at the “Yatana-vaṭa,” but even the traces of Śrī Candraśekhara’s house, of Śrī Tapana Miśra’s home, of the place of Prakāśānanda Sarasvatī, the leader of the Māyāvādīs, and so on, are now lost. Nearby, however, in the house of the late Śaśībhūṣaṇa Niyogī of Calcutta, the Deities (*arcā-vigrahas*) of Śrī Gaura and Nityānanda are installed. The present service is carried on under the care of his mother-in-law and of his wife’s sister’s husband, Śrī Nārāyaṇacandra Ghoṣa.
 
 ## 88
 
@@ -286,13 +286,13 @@ Though they are very close to the Lord, they address Him with the greatest rever
 
 ## 103
 
-> Subheading: The Lord, playing the role of an *ācārya*, avoids the company of Māyāvādīs —
+> Subheading: The Lord, playing the role of an ācārya, avoids the company of Māyāvādīs —
 
 ## 104
 
 > Subheading: Prakāśānanda, with many disciples, expounds Māyāvāda —
 
-Prakāśānanda was an *ekadaṇḍī* *sannyāsī* of the Śaṅkara *sampradāya* who lived in Kāśī in the time of Śrī Mahāprabhu. *Caitanya-bhāgavata*, Madhya, Chapter 3: “‘I have no hands, no feet, no face, no eyes’—so he mocks Me with the Vedas. In Kāśī that rascal Prakāśānanda teaches; that rascal cuts My body to pieces. He explains the Vedas but does not accept My form (*vigraha*). His whole body is stricken with leprosy, yet he does not know it. My body, the embodiment of all sacrifices, is pure; Aja, Bhava and others sing of its deeds. By touching that body even ‘*puṇya*’ gains purity. How does that rascal dare call it ‘false’!” Again, Madhya, Chapter 20: “The ‘*sannyāsī*’ ‘Prakāśānanda’ sits in Kāśī; that rascal cuts Me thoroughly to pieces. He teaches ‘Vedānta’ but does not accept My ‘*vigraha*.’ I have struck his body with leprosy, yet he does not know it. My ‘pastimes and deeds’ are ‘true,’ My ‘abode’ is ‘true.’ He calls this ‘false’ and hacks Me to bits.”
+Prakāśānanda was an *ekadaṇḍī* sannyāsī of the Śaṅkara sampradāya who lived in Kāśī in the time of Śrī Mahāprabhu. *Caitanya-bhāgavata*, Madhya, Chapter 3: “‘I have no hands, no feet, no face, no eyes’—so he mocks Me with the Vedas. In Kāśī that rascal Prakāśānanda teaches; that rascal cuts My body to pieces. He explains the Vedas but does not accept My form (*vigraha*). His whole body is stricken with leprosy, yet he does not know it. My body, the embodiment of all sacrifices, is pure; Aja, Bhava and others sing of its deeds. By touching that body even ‘*puṇya*’ gains purity. How does that rascal dare call it ‘false’!” Again, Madhya, Chapter 20: “The ‘*sannyāsī*’ ‘Prakāśānanda’ sits in Kāśī; that rascal cuts Me thoroughly to pieces. He teaches ‘Vedānta’ but does not accept My ‘*vigraha*.’ I have struck his body with leprosy, yet he does not know it. My ‘pastimes and deeds’ are ‘true,’ My ‘abode’ is ‘true.’ He calls this ‘false’ and hacks Me to bits.”
 
 The guru of Śrīla Gopāla Bhaṭṭa Gosvāmī, his uncle in his former *āśrama*, who lived in Śrī Raṅga-kṣetra, was the Rāmānujīya *jīyar svāmī*, the *tridaṇḍipāda* Śrī Śrīmat Prabodhānanda Sarasvatī. He and this Prakāśānanda are by no means one and the same person.
 
@@ -352,7 +352,7 @@ His: Prakāśānanda’s.
 
 ## 126–127
 
-*Doṣa*: reviling. Names such as “Brahman,” “Caitanya,” “Ātmā,” “Paramātmā,” “Jagadīśa,” “Īśvara,” “Virāṭ,” “Vibhu,” “Bhūmā,” “Viśvarūpa” and “Vyāpaka,” as the one who utters them understands them, do not point to Kṛṣṇa’s magnanimity (*audārya*) or sweetness (*mādhurya*); they point only partly to His majesty (*aiśvarya*). Therefore these names do not reveal that Kṛṣṇa is the embodiment of spiritual *rasa*, as His principal names do. This is why the Māyāvādīs, the worshippers of *prakṛti*, are great offenders. In the end they hold the Truth to be featureless, devoid of spiritual play: they disbelieve and doubt that the Truth’s spiritual name, form, qualities, pastimes and distinctive associates are nondual knowledge (*advaya-jñāna*). Nor do they revere Bhagavān Kṛṣṇa’s principal names with faith as the sole goal (*sādhya*) and the sole means (*sādhana*). No one who seeks the eternal, highest good should hear any talk of the highest goal from their mouths.
+*Doṣa*: reviling. Names such as “Brahman,” “Caitanya,” “Ātmā,” “Paramātmā,” “Jagadīśa,” “Īśvara,” “Virāṭ,” “Vibhu,” “Bhūmā,” “Viśvarūpa” and “Vyāpaka,” as the one who utters them understands them, do not point to Kṛṣṇa’s magnanimity (*audārya*) or sweetness (*mādhurya*); they point only partly to His majesty (*aiśvarya*). Therefore these names do not reveal that Kṛṣṇa is the embodiment of spiritual rasa, as His principal names do. This is why the Māyāvādīs, the worshippers of *prakṛti*, are great offenders. In the end they hold the Truth to be featureless, devoid of spiritual play: they disbelieve and doubt that the Truth’s spiritual name, form, qualities, pastimes and distinctive associates are nondual knowledge (*advaya-jñāna*). Nor do they revere Bhagavān Kṛṣṇa’s principal names with faith as the sole goal (*sādhya*) and the sole means (*sādhana*). No one who seeks the eternal, highest good should hear any talk of the highest goal from their mouths.
 
 ## 128
 
@@ -372,13 +372,13 @@ Māyāvādī: see Ādi 7.29 and 39.
 
 > Subheading: The nature of Śrī Kṛṣṇa’s name — (a statement of the *Padma Purāṇa* and the *Viṣṇu-dharmottara*)
 
-**nāma-nāminoḥ** (of the name and of the bearer of the name, Kṛṣṇa; that is, of the bearer of the name, Kṛṣṇa, together with the name) **abhinnatvāt** (because there is no difference) (Kṛṣṇa’s) **nāma**—**cintāmaṇiḥ** (the giver of everything desired for service), **kṛṣṇaḥ** (directly Kṛṣṇa Himself in His original form), **caitanya-rasa-vigrahaḥ** (the embodiment of spiritual *rasa*, not the abode of the tastelessness of insentient matter, for it is beyond *māyā* and cannot mix with it), **pūrṇaḥ** (whose form cannot be fragmented by *māyā*), **śuddhaḥ** (unmixed with *māyā*, having cast *māyā* off), **nitya-muktaḥ** (ever beyond matter).
+**nāma-nāminoḥ** (of the name and of the bearer of the name, Kṛṣṇa; that is, of the bearer of the name, Kṛṣṇa, together with the name) **abhinnatvāt** (because there is no difference) (Kṛṣṇa’s) **nāma**—**cintāmaṇiḥ** (the giver of everything desired for service), **kṛṣṇaḥ** (directly Kṛṣṇa Himself in His original form), **caitanya-rasa-vigrahaḥ** (the embodiment of spiritual rasa, not the abode of the tastelessness of insentient matter, for it is beyond māyā and cannot mix with it), **pūrṇaḥ** (whose form cannot be fragmented by *māyā*), **śuddhaḥ** (unmixed with māyā, having cast māyā off), **nitya-muktaḥ** (ever beyond matter).
 
 ## 134
 
 > Subheading: Kṛṣṇa’s name, Kṛṣṇa’s body and Kṛṣṇa’s pastimes are transcendental, spiritual and self-manifest —
 
-Kṛṣṇa’s body, Kṛṣṇa’s name, Kṛṣṇa’s form, Kṛṣṇa’s qualities, Kṛṣṇa’s pastimes—the distinctive features of His associates—and the rest are full of eternity, knowledge and bliss. Therefore a *jīva* who identifies with the three modes, *sattva* and the others, cannot perceive them as material form, taste, smell, sound or touch; that is, they are not objects of enjoyment for the *jīva’s* senses, which crave to enjoy fruits. All of them are self-manifest reality (*svataḥ-prakāśa-vastu*), eternal, spiritual and blissful. Material things, which fall under the modes, have name, form, qualities and actions that differ from one another materially; there is no oneness among them. But in Kṛṣṇa, Adhokṣaja (He who is beyond the senses), there is no such “difference.”
+Kṛṣṇa’s body, Kṛṣṇa’s name, Kṛṣṇa’s form, Kṛṣṇa’s qualities, Kṛṣṇa’s pastimes—the distinctive features of His associates—and the rest are full of eternity, knowledge and bliss. Therefore a jīva who identifies with the three modes, *sattva* and the others, cannot perceive them as material form, taste, smell, sound or touch; that is, they are not objects of enjoyment for the *jīva’s* senses, which crave to enjoy fruits. All of them are self-manifest reality (*svataḥ-prakāśa-vastu*), eternal, spiritual and blissful. Material things, which fall under the modes, have name, form, qualities and actions that differ from one another materially; there is no oneness among them. But in Kṛṣṇa, Adhokṣaja (He who is beyond the senses), there is no such “difference.”
 
 ## 135
 
@@ -388,7 +388,7 @@ Kṛṣṇa’s body, Kṛṣṇa’s name, Kṛṣṇa’s form, Kṛṣṇa’
 
 > Subheading: Kṛṣṇa’s transcendental name, form, qualities and pastimes are grasped only by pure devotion; by the path of argument, by knowledge born of the senses, they cannot be reached — (a statement of the *Padma Purāṇa*)
 
-**ataḥ** (because Kṛṣṇa’s name and the rest have no mundane difference from Kṛṣṇa Himself) **śrī-kṛṣṇa-nāmādi** (Śrī Kṛṣṇa’s name, form, qualities, pastimes and the distinctive features of His associates) **indriyaiḥ** (by the material senses bent on enjoyment—eyes, ears, nose, tongue, skin and the others) **grāhyam** (made an object of form, sound, smell, taste, touch and so on) **na bhavet** (never becomes). (If one objects, “Since it is Adhokṣaja, it is wholly beyond the reach of senses that crave material enjoyment; how then, and by what kind of *jīvas*, can shelter be taken in it?”—to this he says:) **sevonmukhe** (inclined, with transcendental intelligence, to pure service to Kṛṣṇa) **jihvādau** (in the tongue and the others—in senses made of *śuddha-sattva*) **hi** (indeed) **adaḥ** (Kṛṣṇa’s name and the rest) **svayam eva** **sphurati** (manifests by itself).
+**ataḥ** (because Kṛṣṇa’s name and the rest have no mundane difference from Kṛṣṇa Himself) **śrī-kṛṣṇa-nāmādi** (Śrī Kṛṣṇa’s name, form, qualities, pastimes and the distinctive features of His associates) **indriyaiḥ** (by the material senses bent on enjoyment—eyes, ears, nose, tongue, skin and the others) **grāhyam** (made an object of form, sound, smell, taste, touch and so on) **na bhavet** (never becomes). (If one objects, “Since it is Adhokṣaja, it is wholly beyond the reach of senses that crave material enjoyment; how then, and by what kind of jīvas, can shelter be taken in it?”—to this he says:) **sevonmukhe** (inclined, with transcendental intelligence, to pure service to Kṛṣṇa) **jihvādau** (in the tongue and the others—in senses made of *śuddha-sattva*) **hi** (indeed) **adaḥ** (Kṛṣṇa’s name and the rest) **svayam eva** **sphurati** (manifests by itself).
 
 ## 137
 
@@ -414,15 +414,15 @@ See Madhya 6.186.
 
 ## 141
 
-> Subheading: The *tulasī* from Kṛṣṇa’s feet captivates the minds even of the knowers of Brahman —
+> Subheading: The tulasī from Kṛṣṇa’s feet captivates the minds even of the knowers of Brahman —
 
 ## 142
 
-> Subheading: The *tulasī* from Nārāyaṇa’s feet produces pure *sāttvika* transformations in the body and mind even of the four Sanas, knowers of Brahman — (*Śrīmad-Bhāgavatam*, Canto 3, ch. 15, verse 43)
+> Subheading: The tulasī from Nārāyaṇa’s feet produces pure sāttvika transformations in the body and mind even of the four Sanas, knowers of Brahman — (*Śrīmad-Bhāgavatam*, Canto 3, ch. 15, verse 43)
 
 The dialogue of Maitreya and Vidura. The demigods were terrified by the power of the child in Diti’s womb, and Brahmā tells them the background of the two *asuras* she carries. Once, long ago, the *brahmarṣis*—the four Sanas, or Kumāras—wished to see Śrī Nārāyaṇa and entered Vaikuṇṭha, but at the seventh gate the two doorkeepers named Jaya and Vijaya stopped them. Then the Kumāras, in anger driven by the urge to violence that is born of a sense of difference, cursed them to take birth in the wombs of *asuras*. The all-knowing Bhagavān Padmanābha learned of this and at once came there Himself with Lakṣmī. The *ṛṣis* saw before them the One they worshipped, Bhagavān Nārāyaṇa Himself, the fruit of their *brahma-samādhi*, and bowed down. The verse describes the transformations of feeling in these *ātmārāmas*, knowers of Brahman:
 
-**aravinda-nayanasya** (of the lotus-eyed) **tasya** (of that Bhagavān) **padāravinda-kiñjalka-miśra-tulasī-makaranda-vāyuḥ** (the breeze carrying the nectar of the *tulasī* mixed with the filaments [*keśara*] of His lotus feet) **sva-vivareṇa** (through their nostrils) **antar-gataḥ** (having entered within) **akṣara-juṣām** (devoted to the featureless Brahman) **api** **teṣāṁ** (of those Kumāras, Sanaka and the others) **citta-tanvoḥ** (in mind and body) **saṅkṣobham** (in the mind, rapture; in the body, hair standing on end and the like) **cakāra** (produced).
+**aravinda-nayanasya** (of the lotus-eyed) **tasya** (of that Bhagavān) **padāravinda-kiñjalka-miśra-tulasī-makaranda-vāyuḥ** (the breeze carrying the nectar of the tulasī mixed with the filaments [*keśara*] of His lotus feet) **sva-vivareṇa** (through their nostrils) **antar-gataḥ** (having entered within) **akṣara-juṣām** (devoted to the featureless Brahman) **api** **teṣāṁ** (of those Kumāras, Sanaka and the others) **citta-tanvoḥ** (in mind and body) **saṅkṣobham** (in the mind, rapture; in the body, hair standing on end and the like) **cakāra** (produced).
 
 ## 143
 
@@ -430,11 +430,11 @@ The dialogue of Maitreya and Vidura. The demigods were terrified by the power of
 
 ## 144
 
-> Subheading: The Lord came to flood Kāśī with a deluge of *prema* —
+> Subheading: The Lord came to flood Kāśī with a deluge of prema —
 
 ## 145
 
-> Subheading: The Lord promises to give out *prema* for a single price—eager longing (*laulya*) —
+> Subheading: The Lord promises to give out prema for a single price—eager longing (*laulya*) —
 
 The small price is eager longing (*laulya*)—greed (*lobha*), or taste (*ruci*)—for service to Kṛṣṇa; it cannot be gained without self-surrender. The verse of the *Padyāvalī* quoted at Madhya 8.70 should be considered here.
 
@@ -452,7 +452,7 @@ The small price is eager longing (*laulya*)—greed (*lobha*), or taste (*ruci*)
 
 ## 149
 
-> Subheading: Coming to Prayāga and bathing, the Lord dances and sings *kīrtana* on seeing Bindu-mādhava[^149-1] —
+> Subheading: Coming to Prayāga and bathing, the Lord dances and sings kīrtana on seeing Bindu-mādhava[^149-1] —
 
 Prayāga: “that from which comes the excellent (*prakṛṣṭa*) sacrifice (*yāga*), the fruit of sacrifices.” It is the king of *tīrthas*, the confluence of the Gaṅgā and the Yamunā, or Triveṇī. Not far from the present Allahabad fort lies ancient Pratiṣṭhānapura, the present Jhusi.
 
@@ -478,23 +478,23 @@ Prayāga: “that from which comes the excellent (*prakṛṣṭa*) sacrifice (*
 
 ## 155
 
-> Subheading: At the sight of Mathurā the Lord is overwhelmed by *prema* —
+> Subheading: At the sight of Mathurā the Lord is overwhelmed by prema —
 
 ## 156
 
-> Subheading: Bathing at Viśrāma-ghāṭa and *darśana* of Keśava at the Yogapīṭha —
+> Subheading: Bathing at Viśrāma-ghāṭa and darśana of Keśava at the Yogapīṭha —
 
 ## 157
 
-> Subheading: The people are amazed to see the Lord overwhelmed by *prema* —
+> Subheading: The people are amazed to see the Lord overwhelmed by prema —
 
 ## 158
 
-> Subheading: A brāhmaṇa, following the Lord, dances and sings in the ecstasy of *prema* —
+> Subheading: A brāhmaṇa, following the Lord, dances and sings in the ecstasy of prema —
 
 ## 159
 
-> Subheading: Both dance and sing *kīrtana* —
+> Subheading: Both dance and sing kīrtana —
 
 ## 160
 
@@ -502,7 +502,7 @@ Prayāga: “that from which comes the excellent (*prakṛṣṭa*) sacrifice (*
 
 ## 161
 
-> Subheading: The people are convinced that the Lord’s *prema* is “not of this world” —
+> Subheading: The people are convinced that the Lord’s prema is “not of this world” —
 
 ## 162
 
@@ -514,7 +514,7 @@ Prayāga: “that from which comes the excellent (*prakṛṣṭa*) sacrifice (*
 
 ## 164
 
-> Subheading: Seeing that brāhmaṇa’s *prema*, the Lord asks him about himself —
+> Subheading: Seeing that brāhmaṇa’s prema, the Lord asks him about himself —
 
 ## 166
 
@@ -554,7 +554,7 @@ Earlier, in Pāṇḍarapura, Śrī Raṅga Purī too said something similar to 
 
 ## 176
 
-> Subheading: In humility the brāhmaṇa has the Bhaṭṭācārya cook; the Lord, who upholds the *daiva-varṇāśrama-dharma* favourable to pure *bhakti*, reveals the true meaning of the scriptures and so teaches the people —
+> Subheading: In humility the brāhmaṇa has the Bhaṭṭācārya cook; the Lord, who upholds the *daiva-varṇāśrama-dharma* favourable to pure bhakti, reveals the true meaning of the scriptures and so teaches the people —
 
 ## 177
 
@@ -562,7 +562,7 @@ Earlier, in Pāṇḍarapura, Śrī Raṅga Purī too said something similar to 
 
 ## 178
 
-> Subheading: The conduct of the *ācārya* is the standard for the people — (*Bhagavad-gītā*, ch. 3, verse 21)
+> Subheading: The conduct of the ācārya is the standard for the people — (*Bhagavad-gītā*, ch. 3, verse 21)
 
 See Ādi 3.25.
 
@@ -586,37 +586,37 @@ In this connection see Madhya 10.136–140.
 
 > Subheading: The brāhmaṇa’s love for Gaura; he censures the followers of *adaiva-varṇāśrama* —
 
-By his family, by birth, that brāhmaṇa, a pure devotee, did not belong to those from whose hands water may be accepted. But he was established in truth and in the *daiva-varṇāśrama* favourable to *bhakti*. Therefore he fearlessly, without hesitation, called “fools” and “wicked” the followers of *adaiva-varṇāśrama*—those who oppose Mahāprabhu and pure *bhakti*, who see caste in a Vaiṣṇava and quibble about *mahā-prasāda*. Here he makes no attempt, under the cover of humility, to lick the feet of the prevailing *smārta* society, hostile to Viṣṇu.
+By his family, by birth, that brāhmaṇa, a pure devotee, did not belong to those from whose hands water may be accepted. But he was established in truth and in the *daiva-varṇāśrama* favourable to bhakti. Therefore he fearlessly, without hesitation, called “fools” and “wicked” the followers of *adaiva-varṇāśrama*—those who oppose Mahāprabhu and pure bhakti, who see caste in a Vaiṣṇava and quibble about mahā-prasāda. Here he makes no attempt, under the cover of humility, to lick the feet of the prevailing *smārta* society, hostile to Viṣṇu.
 
 ## 184
 
 > Subheading: A description of the various paths of those who follow the religion of the mind (*manodharmī*) —
 
-“One opinion”: only the true *dharma* established on the plane of nondual knowledge (*advaya-jñāna*) is “eternal,” “everlasting” (*sanātana*) and one. In it the goal (*upeya*), or *sādhya*, is one, and so too the means (*upāya*), or *sādhana*, the path (*panthā*), is one, not different from the goal. “Various *dharmas*”: the particular properties of the body and mind of each *jīva*, differing from one *jīva* to another; they are rooted in external vision rather than in the vision of one’s self (*ātma-darśana*).
+“One opinion”: only the true dharma established on the plane of nondual knowledge (*advaya-jñāna*) is “eternal,” “everlasting” (*sanātana*) and one. In it the goal (*upeya*), or *sādhya*, is one, and so too the means (*upāya*), or *sādhana*, the path (*panthā*), is one, not different from the goal. “Various *dharmas*”: the particular properties of the body and mind of each jīva, differing from one jīva to another; they are rooted in external vision rather than in the vision of one’s self (*ātma-darśana*).
 
 ## 185
 
 > Subheading: The saintly act for the good of the people; therefore only the path Mādhavendra showed carries certain meaning, that is, bestows real truth —
 
-*Sādhu*, or *mahājana*: a great person is called a *mahājana*. Spiritual and worldly thinking hold different notions of what is “great.” The conditioned *jīva* judges by the religion of the mind (*manodharma*), that is, by knowledge born of the senses, and so he regards as *mahājanas* those who supply him with objects of enjoyment and fuel for gratifying his senses. For a businessman a *mahājana* may be his “creditor” (*uttamarṇa*); for a *karmī* bent on enjoyment, “the sage Jaimini and others,” or the authors of the *dharma-śāstras* who uphold various opinions; for those who wish to restrain the mind, “the sage Patañjali and others”; for those who walk the path of dry knowledge, the *kevalādvaita-vādīs*—the godless Kapila, Vasiṣṭha, Durvāsā, Dattātreya and the rest. For those under *rajas* and *tamas*, the *mahājanas* are kings proud of brute strength and matchless in their persistence in opposing Viṣṇu—Hiraṇyākṣa, Hiraṇyakaśipu, Rāvaṇa and his son Meghanāda, Jarāsandha and others—and devotees of their gurus such as Ekalavya and Karṇa. For those who think themselves men and love the company of women, the *mahājanas* are the *prajāpatis* headed by Dakṣa, who worshipped women. Worldly people may choose as *mahājanas* those who wish or strive to rid them of bodily and mental disease, grief, suffering, fear or petty wants. A *jīva* bewitched by *prakṛti* may decide that his *mahājanas* are “philosophers,” “scientists,” “historians,” “men of letters,” “poets,” “orators,” “leaders of society” or “leaders of the nation” who have no connection with Viṣṇu. For the self-deceived, the *mahājanas* are cheats and greedy hirelings. They believe that devotion to Bhagavān, the highest goal and the very nature of the soul, is bound by semen and blood; that is, appealing only to their family by birth, they lay claim to devotion to Bhagavān, the mother of self-knowledge, or to the position of guru. Others may count as *mahājanas* the opponents of a true *sādhu* like Śrī Haridāsa—such as the “hypocrite brāhmaṇa” (*ḍhaṅga-vipra*)[^185-1]—and those who artificially, outwardly imitate his transcendental service to Hari; experts in tricks and sorcery; *asuras* such as Pūtanā, Tṛṇāvarta, Vatsa, Baka, Agha, Dhenuka, Kālīya and Pralamba; or the enemies of Viṣṇu—Pauṇḍraka, Śṛgāla-vāsudeva, Śukra the guru of the Daityas, the atheist Cārvāka, Veṇa, Sugata, Arhat and the rest. So too the cheats who do not believe that Gaura-Kṛṣṇa is the real Truth and the Supreme Lord imitate Him: they proclaim themselves avatāras, or else, using charming words that suit the anti-Viṣṇu *manodharma* of the deceived, they want the deceived to proclaim them avatāras. Foolish, deceived, unfortunate people may imagine them to be *mahājanas*. In short, for those without devotion to Bhagavān, such people—“*anyābhilāṣīs*” (those with other desires), “*karmīs*,” “dry *jñānīs*,” “yogīs without *bhakti*,” or those greedy for gold, women and fame—may indeed be called “*mahājanas*.” But the *Śrīmad-Bhāgavatam*, free of envy and of all deceit, which establishes the Supreme Truth, the real substance, says (6.3.25): “As a rule, even these *mahājanas* do not know this [the glory of *bhakti*], for the divine *māyā* has thoroughly bewildered their minds. Their minds are dulled by the flowery, honeyed words of the three Vedas, and they are engaged in great sacrificial rites.” That is, the *karmīs* famed in the world as “*mahājanas*,” these preachers of *dharma*, do not know the glory of devotion to Bhagavān. Their intelligence is bewildered by Viṣṇu’s *māyā*, made of the three modes; so they disregard devotion to Bhagavān, which belongs to Vaikuṇṭha, busy themselves with the sprawling *karma-kāṇḍa* founded on the worship of *prakṛti*, and are caught in the net of *māyā*. The minds of these *mahājanas* are dulled by the sweet, superficially charming eulogies (*arthavāda*) of the Ṛg, Sāma and Yajur Vedas. Although worldly people take them to be “*mahājanas*,” they have no intelligence directed to the eternal service of Puruṣottama, Śrī Bhagavān.
+*Sādhu*, or *mahājana*: a great person is called a *mahājana*. Spiritual and worldly thinking hold different notions of what is “great.” The conditioned jīva judges by the religion of the mind (*manodharma*), that is, by knowledge born of the senses, and so he regards as *mahājanas* those who supply him with objects of enjoyment and fuel for gratifying his senses. For a businessman a *mahājana* may be his “creditor” (*uttamarṇa*); for a *karmī* bent on enjoyment, “the sage Jaimini and others,” or the authors of the *dharma-śāstras* who uphold various opinions; for those who wish to restrain the mind, “the sage Patañjali and others”; for those who walk the path of dry knowledge, the *kevalādvaita-vādīs*—the godless Kapila, Vasiṣṭha, Durvāsā, Dattātreya and the rest. For those under *rajas* and *tamas*, the *mahājanas* are kings proud of brute strength and matchless in their persistence in opposing Viṣṇu—Hiraṇyākṣa, Hiraṇyakaśipu, Rāvaṇa and his son Meghanāda, Jarāsandha and others—and devotees of their gurus such as Ekalavya and Karṇa. For those who think themselves men and love the company of women, the *mahājanas* are the *prajāpatis* headed by Dakṣa, who worshipped women. Worldly people may choose as *mahājanas* those who wish or strive to rid them of bodily and mental disease, grief, suffering, fear or petty wants. A jīva bewitched by *prakṛti* may decide that his *mahājanas* are “philosophers,” “scientists,” “historians,” “men of letters,” “poets,” “orators,” “leaders of society” or “leaders of the nation” who have no connection with Viṣṇu. For the self-deceived, the *mahājanas* are cheats and greedy hirelings. They believe that devotion to Bhagavān, the highest goal and the very nature of the soul, is bound by semen and blood; that is, appealing only to their family by birth, they lay claim to devotion to Bhagavān, the mother of self-knowledge, or to the position of guru. Others may count as *mahājanas* the opponents of a true sādhu like Śrī Haridāsa—such as the “hypocrite brāhmaṇa” (*ḍhaṅga-vipra*)[^185-1]—and those who artificially, outwardly imitate his transcendental service to Hari; experts in tricks and sorcery; *asuras* such as Pūtanā, Tṛṇāvarta, Vatsa, Baka, Agha, Dhenuka, Kālīya and Pralamba; or the enemies of Viṣṇu—Pauṇḍraka, Śṛgāla-vāsudeva, Śukra the guru of the Daityas, the atheist Cārvāka, Veṇa, Sugata, Arhat and the rest. So too the cheats who do not believe that Gaura-Kṛṣṇa is the real Truth and the Supreme Lord imitate Him: they proclaim themselves avatāras, or else, using charming words that suit the anti-Viṣṇu *manodharma* of the deceived, they want the deceived to proclaim them avatāras. Foolish, deceived, unfortunate people may imagine them to be *mahājanas*. In short, for those without devotion to Bhagavān, such people—“*anyābhilāṣīs*” (those with other desires), “*karmīs*,” “dry *jñānīs*,” “yogīs without bhakti,” or those greedy for gold, women and fame—may indeed be called “*mahājanas*.” But the *Śrīmad-Bhāgavatam*, free of envy and of all deceit, which establishes the Supreme Truth, the real substance, says (6.3.25): “As a rule, even these *mahājanas* do not know this [the glory of bhakti], for the divine māyā has thoroughly bewildered their minds. Their minds are dulled by the flowery, honeyed words of the three Vedas, and they are engaged in great sacrificial rites.” That is, the *karmīs* famed in the world as “*mahājanas*,” these preachers of dharma, do not know the glory of devotion to Bhagavān. Their intelligence is bewildered by Viṣṇu’s māyā, made of the three modes; so they disregard devotion to Bhagavān, which belongs to Vaikuṇṭha, busy themselves with the sprawling *karma-kāṇḍa* founded on the worship of *prakṛti*, and are caught in the net of māyā. The minds of these *mahājanas* are dulled by the sweet, superficially charming eulogies (*arthavāda*) of the Ṛg, Sāma and Yajur Vedas. Although worldly people take them to be “*mahājanas*,” they have no intelligence directed to the eternal service of Puruṣottama, Śrī Bhagavān.
 
-People of this world may be known as “heroes of action” (*karma-vīras*), honoured as “heroes of *dharma*,” renowned as “heroes of knowledge,” revered as “models of detachment and renunciation.” But the *Śrīmad-Bhāgavatam* says (3.23.56): “One whose work here does not lead to *dharma*, whose *dharma* does not lead to detachment, and whose detachment does not lead to service to the feet of Him whose feet are a holy place, is dead though alive.” That is, in this world the “hero of action” who does not act for the sake of *dharma*, the “hero of *dharma*” who does not follow *dharma* for the sake of detachment, and the “hero of renunciation” who does not give up enjoyment “for Śrī Viṣṇu’s pleasure” is “dead while living.” In truth, “service” is the name for pleasing Hari. And work, *dharma* or renunciation that has no love for Śrī Kṛṣṇa and no connection with Him is in reality only “sense gratification,” or “enjoyment.” Such is service to the nation, service to the public, service to society, service to the *adaiva-varṇāśrama* of birth-lineage (*śaukra*) or caste, service to the sick, the poor, the destitute, the rich, service to women, service to various gods and the like, even though the world proclaims them “the finest virtues” or “deeds worthy of remembrance at dawn.” The unfortunate *jīvas* of this world regard as famous “*mahājanas*” those who supply fuel for such sense gratification—the speakers, preachers or authors of scriptures who foster it.
+People of this world may be known as “heroes of action” (*karma-vīras*), honoured as “heroes of dharma,” renowned as “heroes of knowledge,” revered as “models of detachment and renunciation.” But the *Śrīmad-Bhāgavatam* says (3.23.56): “One whose work here does not lead to dharma, whose dharma does not lead to detachment, and whose detachment does not lead to service to the feet of Him whose feet are a holy place, is dead though alive.” That is, in this world the “hero of action” who does not act for the sake of dharma, the “hero of *dharma*” who does not follow dharma for the sake of detachment, and the “hero of renunciation” who does not give up enjoyment “for Śrī Viṣṇu’s pleasure” is “dead while living.” In truth, “service” is the name for pleasing Hari. And work, dharma or renunciation that has no love for Śrī Kṛṣṇa and no connection with Him is in reality only “sense gratification,” or “enjoyment.” Such is service to the nation, service to the public, service to society, service to the *adaiva-varṇāśrama* of birth-lineage (*śaukra*) or caste, service to the sick, the poor, the destitute, the rich, service to women, service to various gods and the like, even though the world proclaims them “the finest virtues” or “deeds worthy of remembrance at dawn.” The unfortunate jīvas of this world regard as famous “*mahājanas*” those who supply fuel for such sense gratification—the speakers, preachers or authors of scriptures who foster it.
 
-The *jīva* whose intelligence rests on *prakṛti* sees only the external world; he is a slave of the senses, stricken with the disease of worldly existence. With his distorted intelligence he cannot understand or recognise a real *mahājana*, for his intelligence is always corrupted by the four defects, error (*bhrama*) and the rest.
+The jīva whose intelligence rests on *prakṛti* sees only the external world; he is a slave of the senses, stricken with the disease of worldly existence. With his distorted intelligence he cannot understand or recognise a real *mahājana*, for his intelligence is always corrupted by the four defects, error (*bhrama*) and the rest.
 
 Since beginningless time, people who see themselves in a corpse made of seven elements—blood, flesh, semen and the rest—and take pleasure in it have drifted, like a flock of sheep, in the stream of knowledge born of the senses. Some of them, of the *prākṛta-sahajiyā* community, disregard even the words of a *mahājana* like Śrī Mādhavendra Purīpāda, pile up offences at the *mahājana’s* feet, call him “narrow-minded” and so on, and so bring trouble on themselves. Others create imaginary *mahājanas* according to their own notions, founded on sense gratification, and plunge into countless offensive deeds: debauchery, lechery, the pursuit of gain, honour and fame, intrigue, violence to living beings and the like.
 
 In truth, until the real “*mahājana*” is identified, none of the *jīva’s* efforts can bear good fruit. On what a *mahājana* is, Madhya 25.54–57 says: “None of them accepts Īśvara as the supreme cause. Each establishes his own doctrine by refuting the doctrines of others. So we do not come to know the truth from the six philosophies; we accept as truth what the *mahājanas* say. <…> The words of Śrī Kṛṣṇa Caitanya are a stream of nectar. Whatever He declares is the truth, the very essence.” (Madhya 25.54, 55, 57)[^185-2]. That is, none of the authors of the *darśanas*—Sāṅkhya, Pātañjala and the rest—truly accepts Viṣṇu as “Īśvara.” In a word, they are all “covert” or “overt” atheists; that is, none of them is an *āstika*. They merely tried, by argument, to refute the views of others and to establish their own, so as to show off the prowess of their doctrines. Therefore, although the teachers of these scriptures are known in the world as “*mahājanas*,” in fact they are not “*mahājanas*” at all; they themselves are the most “narrow” and “narrow-minded.”
 
-Hearing this, the followers of these so-called *mahājanas*, with their mundane knowledge born of the senses, will offend the feet of Śrī Mahāprabhu and of the pure devotee and say, “This is mere ‘bigotry’!” In their view, Śrī Kṛṣṇa Caitanya Prabhu and Śrī Mādhavendra Purīpāda too are just more *mahājanas* among those named above! Sunk in the stream of thought of the *prākṛta-sahaja-dharma* and turned into advocates of blending spirit and matter, they will of course arrive at just such a conclusion—what doubt or wonder is there in that? But those in whom the transcendental inherent nature (*svarūpa-dharma*) has awakened are illumined by its light and can see the *svarūpa* of every *jīva*. Only the *mahā-bhāgavata*, or *paramahaṁsa*, sees Adhokṣaja, and this is true vision (*sudarśana*); therefore these *niṣkiñcanas* alone are the only real “*mahājanas*.” Śrīla Mādhavendra Purī Gosvāmī too is a *niṣkiñcana mahājana*: there is no envy or deception of people in his conduct. By his conduct he preached the *daiva-varṇāśrama-dharma*; if one follows it, seeing it as the model, the *jīva* who seeks the highest good (*niḥśreyasa*) will surely attain it. Mahāprabhu taught this by showing the model of *daiva-varṇāśrama-dharma*.
+Hearing this, the followers of these so-called *mahājanas*, with their mundane knowledge born of the senses, will offend the feet of Śrī Mahāprabhu and of the pure devotee and say, “This is mere ‘bigotry’!” In their view, Śrī Kṛṣṇa Caitanya Prabhu and Śrī Mādhavendra Purīpāda too are just more *mahājanas* among those named above! Sunk in the stream of thought of the *prākṛta-sahaja-dharma* and turned into advocates of blending spirit and matter, they will of course arrive at just such a conclusion—what doubt or wonder is there in that? But those in whom the transcendental inherent nature (*svarūpa-dharma*) has awakened are illumined by its light and can see the *svarūpa* of every jīva. Only the *mahā-bhāgavata*, or *paramahaṁsa*, sees Adhokṣaja, and this is true vision (*sudarśana*); therefore these *niṣkiñcanas* alone are the only real “*mahājanas*.” Śrīla Mādhavendra Purī Gosvāmī too is a *niṣkiñcana mahājana*: there is no envy or deception of people in his conduct. By his conduct he preached the *daiva-varṇāśrama-dharma*; if one follows it, seeing it as the model, the jīva who seeks the highest good (*niḥśreyasa*) will surely attain it. Mahāprabhu taught this by showing the model of *daiva-varṇāśrama-dharma*.
 
-The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In the age of Kali the “*mahājanas*” are the four *ācāryas* of the *sampradāyas* of pure Vaiṣṇavas, who preach devotion to Bhagavān. In our *sampradāya* the original “*mahājana*” is the lord of the Gauḍīyas, Śrī Dāmodara Svarūpa. Śrī Rūpa and Sanātana, the dearest associates of the Supreme Truth, Śrī Gaurasundara, whose form is nondifferent from him, and the *sādhus* who follow Śrī Rūpa—all are “*mahājanas*.” Śrīdhara Svāmī, a follower of Śrī Viṣṇusvāmī and a *śuddhādvaita-vādī*, is also a “*mahājana*.” Caṇḍīdāsa, Vidyāpati and Jayadeva are all “*mahājanas*.” But those who see these *mahājanas* as objects of enjoyment—who, instead of “serving” them, rush to measure them as tools for their own petty ends, or to “play guru over the *guru*”—those unfortunate people stand very far from these *mahājanas*. Sense gratification, or servitude to *māyā*, comes to them in the guise of an “imaginary *mahājana*”; it deceives them, hides the real path of truth from their senses and leads them astray. Therefore the endeavours of a pure devotee of Bhagavān never become the object of their mundane understanding.
+The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In the age of Kali the “*mahājanas*” are the four ācāryas of the sampradāyas of pure Vaiṣṇavas, who preach devotion to Bhagavān. In our sampradāya the original “*mahājana*” is the lord of the Gauḍīyas, Śrī Dāmodara Svarūpa. Śrī Rūpa and Sanātana, the dearest associates of the Supreme Truth, Śrī Gaurasundara, whose form is nondifferent from him, and the sādhus who follow Śrī Rūpa—all are “*mahājanas*.” Śrīdhara Svāmī, a follower of Śrī Viṣṇusvāmī and a *śuddhādvaita-vādī*, is also a “*mahājana*.” Caṇḍīdāsa, Vidyāpati and Jayadeva are all “*mahājanas*.” But those who see these *mahājanas* as objects of enjoyment—who, instead of “serving” them, rush to measure them as tools for their own petty ends, or to “play guru over the *guru*”—those unfortunate people stand very far from these *mahājanas*. Sense gratification, or servitude to māyā, comes to them in the guise of an “imaginary *mahājana*”; it deceives them, hides the real path of truth from their senses and leads them astray. Therefore the endeavours of a pure devotee of Bhagavān never become the object of their mundane understanding.
 
 ## 186
 
 > Subheading: Only the path of the pure devotee is to be followed — (*Mahābhārata*, Vana-parva, Āraṇeya-parva, ch. 313, verse 117)
 
-(The variant reading *vedā vibhinnāḥ smṛtayo vibhinnāḥ*, “the Vedas differ, the *smṛtis* differ,” is also found.) **tarkaḥ** **apratiṣṭhaḥ** (unsteady, not firm), **śrutayaḥ** **api** (*vibhinnāḥ*: differ, for they show contradictions in addressing people of different qualification); **asau** **ṛṣiḥ** **na** (cannot be called a sage), **yasya** **mataṁ** (conclusion) **bhinnaṁ** **na** (was not); (in such an age, ruled by argument) **dharmasya** (of the eternal *dharma* of the *jīva*) **tattvaṁ** **guhāyāṁ** (in the cave of the heart of the *sampradāya* of pure *sādhus* alone, hidden from the eyes of ordinary people) **nihitam** (is concealed, hidden; therefore) **yena** (by which good path) **mahājanaḥ** (a *sādhu* of earlier times, a servant of Adhokṣaja Acyuta) **gataḥ** (has gone), **saḥ** (that alone) **panthāḥ** (is the pure path).
+(The variant reading *vedā vibhinnāḥ smṛtayo vibhinnāḥ*, “the Vedas differ, the *smṛtis* differ,” is also found.) **tarkaḥ** **apratiṣṭhaḥ** (unsteady, not firm), **śrutayaḥ** **api** (*vibhinnāḥ*: differ, for they show contradictions in addressing people of different qualification); **asau** **ṛṣiḥ** **na** (cannot be called a sage), **yasya** **mataṁ** (conclusion) **bhinnaṁ** **na** (was not); (in such an age, ruled by argument) **dharmasya** (of the eternal dharma of the *jīva*) **tattvaṁ** **guhāyāṁ** (in the cave of the heart of the sampradāya of pure sādhus alone, hidden from the eyes of ordinary people) **nihitam** (is concealed, hidden; therefore) **yena** (by which good path) **mahājanaḥ** (a sādhu of earlier times, a servant of Adhokṣaja Acyuta) **gataḥ** (has gone), **saḥ** (that alone) **panthāḥ** (is the pure path).
 
 ## 187
 
@@ -624,11 +624,11 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 ## 188
 
-> Subheading: Countless people have *darśana* of the Lord —
+> Subheading: Countless people have darśana of the Lord —
 
 ## 189
 
-> Subheading: At the Lord’s *kīrtana* everyone dances —
+> Subheading: At the Lord’s kīrtana everyone dances —
 
 ## 190
 
@@ -640,7 +640,7 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 ## 194
 
-> Subheading: The sight of the herd of cows awakens the memory of the pastimes of Vraja and overwhelms the Lord with *prema* —
+> Subheading: The sight of the herd of cows awakens the memory of the pastimes of Vraja and overwhelms the Lord with prema —
 
 ## 198
 
@@ -668,7 +668,7 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 ## 207
 
-> Subheading: The Lord weeps with *prema*, embracing a deer —
+> Subheading: The Lord weeps with prema, embracing a deer —
 
 ## 208
 
@@ -718,7 +718,7 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 ## 223
 
-> Subheading: In the ecstasy of *prema* the Lord calls on all to chant the name of Hari —
+> Subheading: In the ecstasy of prema the Lord calls on all to chant the name of Hari —
 
 ## 224
 
@@ -730,11 +730,11 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 ## 226
 
-> Subheading: On the way from Purī to Vṛndāvana the Lord’s *prema* grows stronger —
+> Subheading: On the way from Purī to Vṛndāvana the Lord’s prema grows stronger —
 
 ## 227
 
-> Subheading: At the sight of Mathurā His *prema* is stronger still, and wandering in Vṛndāvana, stronger yet —
+> Subheading: At the sight of Mathurā His prema is stronger still, and wandering in Vṛndāvana, stronger yet —
 
 ## 228
 
@@ -746,11 +746,11 @@ The *Śrīmad-Bhāgavatam* (6.3.19–21) names the “twelve” *mahājanas*. In
 
 ## 230
 
-> Subheading: This *prema* of the Lord is indescribable —
+> Subheading: This prema of the Lord is indescribable —
 
 ## 231
 
-> Subheading: Even Bhagavān Śeṣa cannot describe the *prema* the Lord showed while wandering in Vṛndāvana —
+> Subheading: Even Bhagavān Śeṣa cannot describe the prema the Lord showed while wandering in Vṛndāvana —
 
 ## 232
 

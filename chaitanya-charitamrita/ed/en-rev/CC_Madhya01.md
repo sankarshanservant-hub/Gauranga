@@ -104,7 +104,7 @@ earlier  I told  of the Ādi-līlā  the sūtras
 yāhā vistāriyāchena dāsa-vṛndāvana  
 which  has described in full  Vṛndāvana dāsa
 
-(8) Earlier I told the *sūtras* (brief threads) of the Ādi-līlā, which Vṛndāvana dāsa has described in full.
+(8) Earlier I told the sūtras (brief threads) of the Ādi-līlā, which Vṛndāvana dāsa has described in full.
 
 অতএব তার আমি সূত্রমাত্র কৈল ৷  
 যে কিছু বিশেষ, সূত্রমধ্যেই কহিল ॥ ৯ ॥
@@ -2997,7 +2997,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^30]: The Gauḍīya Maṭha edition reads *vākya siddha haya* (“His word comes true”).
 
-[^31]: *Anubhāṣya*: of the king it is said, “For a great deity dwells in the form of a man” (Manu-saṁhitā, 7.8).
+[^31]: *Anubhāṣya*: of the king it is said, “For a great deity dwells in the form of a man” (*Manu-saṁhitā* 7.8).
 
 [^32]: *Amṛta-pravāha-bhāṣya*: just as Śrī Rūpa was then called Dabira Khāsa, Śrī Sanātana was known by the name the king had given him, Sākara Mallika.
 
@@ -3055,8 +3055,8 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^59]: Edition heading: “The Lord’s embarrassment and His feigned reproach of Śrīvāsa”. *Amṛta-pravāha-bhāṣya*: some manuscripts read instead, “You do all that pains Me.”
 
-[^60]: Edition heading: “Śrī Raghunātha’s service to Nityānanda and His associates at Pānihāṭi”.
+[^60]: Edition heading: “Śrī Raghunātha’s service to Nityānanda and His associates at Pāṇihāṭi”.
 
-[^61]: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali*, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
+[^61]: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali* 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
 
 [^62]: Edition heading: “Of the eighteen years, leaving aside six, the pastimes of the last twelve years will be described in sūtras later”. *Anubhāṣya*: the author gives the sūtras of the last twelve years in the second chapter, and then describes the Madhya- and Antya-līlā step by step in detail (cf. Antya 1.10–11).

@@ -3091,7 +3091,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^53]: *Anubhāṣya*: the Māyāvādī abandons the direct sense (*abhidhā-vṛtti*) and through *lakṣaṇā* sets up the doctrine of featurelessness; yet even this “featurelessness” serves only to distinguish Brahman from material features.
 
-[^54]: *Anubhāṣya*: the pure monists hold potency to be a passing state born of ignorance, but the three potencies abide in Brahman eternally. *Amṛta-pravāha-bhāṣya*: these three natural potencies are accepted in many statements of scripture that go back to the śruti “His supreme potency is heard to be manifold” (Śvetāśvatara Upaniṣad, 6.8).
+[^54]: *Anubhāṣya*: the pure monists hold potency to be a passing state born of ignorance, but the three potencies abide in Brahman eternally. *Amṛta-pravāha-bhāṣya*: these three natural potencies are accepted in many statements of scripture that go back to the śruti “His supreme potency is heard to be manifold” (*Śvetāśvatara Upaniṣad* 6.8).
 
 [^55]: The verse is Ādi 7.119; the translation follows it.
 

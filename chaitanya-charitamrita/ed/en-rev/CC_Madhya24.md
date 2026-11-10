@@ -3576,7 +3576,7 @@ sūtras  making  direction  if  You give  instruction
 āpane karaha yadi hṛdaye praveśa  
 Yourself  You make  if  in the heart  entrance
 
-(321) “If You instruct me, showing the direction in the form of *sūtras*, and if You Yourself enter my heart,
+(321) “If You instruct me, showing the direction in the form of sūtras, and if You Yourself enter my heart,
 
 তবে তার দিশা স্ফুরে মো-নীচের হৃদয়ে ৷  
 ঈশ্বর তুমি, — যে করাহ, সেই সিদ্ধ হয়ে ॥ ৩২২ ॥
@@ -3606,7 +3606,7 @@ still  these  of the sūtras  hear  an outline
 sakāraṇa likhi ādau guru āśrayaṇa  
 with reasons  writing  first  of the guru  taking shelter
 
-(324) “Still, hear an outline of these *sūtras*. First describe, with its reasons, taking shelter of a guru;
+(324) “Still, hear an outline of these sūtras. First describe, with its reasons, taking shelter of a guru;
 
 গুরুলক্ষণ, শিষ্যলক্ষণ, দোঁহার পরীক্ষণ ৷  
 সেব্য — ভগবান্, সর্ব্বমন্ত্র-বিচারণ ॥ ৩২৫ ॥
@@ -3696,7 +3696,7 @@ puraścaraṇa  rules  Kṛṣṇa’s  prasāda  eating
 anivedita-tyāga, vaiṣṇava-nindādi-varjana  
 unoffered  rejecting  of Vaiṣṇavas  blasphemy and the like  avoiding
 
-(333) “the rules of *puraścaraṇa*; honouring Kṛṣṇa’s *prasāda*; rejecting what has not been offered; avoiding blasphemy of Vaiṣṇavas and the like;
+(333) “the rules of *puraścaraṇa*; honouring Kṛṣṇa’s prasāda; rejecting what has not been offered; avoiding blasphemy of Vaiṣṇavas and the like;
 
 সাধুলক্ষণ, সাধুসঙ্গ, সাধুসেবন ৷  
 অসৎসঙ্গ-ত্যাগ, শ্রীভাগবত-শ্রবণ ॥ ৩৩৪ ॥

@@ -4,7 +4,7 @@
 
 > Subheading: Obeisances to Gaura, who teaches devotion by His own example —
 
-**yaḥ** (Mahāprabhu) **kṛṣṇa-bhāvāmṛtam** (the elevated, radiant *rasa*, *unnatojjvala-rasa*) **svayam** **āsvādya** **bhaktān** (those who had taken shelter of Him) **āsvādayan** **prema-dīkṣām** (the method of worship rooted in pure love) **ca** **aśikṣayat** (taught), **taṁ** **śrī-kṛṣṇa-caitanyam** (I) **vande**.
+**yaḥ** (Mahāprabhu) **kṛṣṇa-bhāvāmṛtam** (the elevated, radiant rasa, *unnatojjvala-rasa*) **svayam** **āsvādya** **bhaktān** (those who had taken shelter of Him) **āsvādayan** **prema-dīkṣām** (the method of worship rooted in pure love) **ca** **aśikṣayat** (taught), **taṁ** **śrī-kṛṣṇa-caitanyam** (I) **vande**.
 
 ## 3
 
@@ -24,7 +24,7 @@
 
 ## 7
 
-Śrī Kālidāsa had dedicated himself to Viṣṇu and the Vaiṣṇavas, was devoted to them alone, and possessed transcendental faith. Suppose some *jīva* full of *anarthas* does not follow his steadfast devotion to Kṛṣṇa’s name, but instead, for the gratification of his own senses and seeing with outward, sense-born vision, imitates his misleading pastime and becomes attached to the futile vice of playing dice (*pāśā*, *dyūta*) and the like. Then (according to *Śrīmad-Bhāgavatam* 1.17.38–41[^7-1]) his servitude to Kali will increase his sin, that is, his inclination towards irreligion (*adharma*). And if he outwardly imitates chanting the name and makes a show of chanting it, that very imitation will lead him to sin on the strength of the name, and so it will end only in offence against the name (*nāmāparādha*). All the educated, self-controlled, and virtuous people of the world will condemn such hypocrisy, an immoral deceit practiced in the name of religion.
+Śrī Kālidāsa had dedicated himself to Viṣṇu and the Vaiṣṇavas, was devoted to them alone, and possessed transcendental faith. Suppose some jīva full of *anarthas* does not follow his steadfast devotion to Kṛṣṇa’s name, but instead, for the gratification of his own senses and seeing with outward, sense-born vision, imitates his misleading pastime and becomes attached to the futile vice of playing dice (*pāśā*, *dyūta*) and the like. Then (according to *Śrīmad-Bhāgavatam* 1.17.38–41[^7-1]) his servitude to Kali will increase his sin, that is, his inclination towards irreligion (*adharma*). And if he outwardly imitates chanting the name and makes a show of chanting it, that very imitation will lead him to sin on the strength of the name, and so it will end only in offence against the name (*nāmāparādha*). All the educated, self-controlled, and virtuous people of the world will condemn such hypocrisy, an immoral deceit practiced in the name of religion.
 
 ## 8
 
@@ -36,13 +36,13 @@
 
 ## 10
 
-*Brāhmaṇa-Vaiṣṇava*: a Vaiṣṇava born in a family of *brāhmaṇas* by birth (*śaukra-brāhmaṇas*).
+*Brāhmaṇa-Vaiṣṇava*: a Vaiṣṇava born in a family of brāhmaṇas by birth (*śaukra-brāhmaṇas*).
 
 ## 13
 
 > Subheading: Kālidāsa is free from caste-consciousness towards Vaiṣṇavas —
 
-*Śūdra-Vaiṣṇava*: a Vaiṣṇava born in a family of *śūdras* by birth (*śaukra-śūdras*).
+*Śūdra-Vaiṣṇava*: a Vaiṣṇava born in a family of śūdras by birth (*śaukra-śūdras*).
 
 ## 14
 
@@ -90,11 +90,11 @@ See Madhya 11.192.
 
 ## 28–29
 
-The *Mahābhārata* says in the *Vana-parva* (chapter 180): “If the mark [of a *brāhmaṇa*] is found in a *śūdra* and is not found in a twice-born, then that *śūdra* is not a *śūdra*, and that *brāhmaṇa* is not a *brāhmaṇa*.” Again in the *Vana-parva* (chapter 211): “When one born of a *śūdra* womb has acquired good qualities and lives in straightforwardness, *brāhmaṇa* nature arises in him.” And in the *Anuśāsana-parva* (chapter 163): “A *kṣatriya* or a *vaiśya* who is established in the *dharma* of a *brāhmaṇa* and lives by *brāhmaṇa* nature attains the state of a *brāhmaṇa*. By these acts, O goddess, and by such auspicious conduct, a *śūdra* becomes a *brāhmaṇa* and a *vaiśya* becomes a *kṣatriya*. Neither birth, nor purificatory rites (*saṁskāras*), nor learning, nor lineage is the cause of being twice-born; conduct alone is the cause.”
+The *Mahābhārata* says in the *Vana-parva* (chapter 180): “If the mark [of a brāhmaṇa] is found in a śūdra and is not found in a twice-born, then that śūdra is not a śūdra, and that brāhmaṇa is not a brāhmaṇa.” Again in the *Vana-parva* (chapter 211): “When one born of a śūdra womb has acquired good qualities and lives in straightforwardness, brāhmaṇa nature arises in him.” And in the *Anuśāsana-parva* (chapter 163): “A kṣatriya or a *vaiśya* who is established in the dharma of a brāhmaṇa and lives by brāhmaṇa nature attains the state of a brāhmaṇa. By these acts, O goddess, and by such auspicious conduct, a śūdra becomes a brāhmaṇa and a *vaiśya* becomes a kṣatriya. Neither birth, nor purificatory rites (*saṁskāras*), nor learning, nor lineage is the cause of being twice-born; conduct alone is the cause.”
 
-The *Śrīmad-Bhāgavatam* (4.21.12) says: “His command was never disobeyed anywhere, and he alone held the scepter over the seven islands, except over the *brāhmaṇa* families and the family of Acyuta.” The *Śrīmad-Bhāgavatam* (7.11.35) says: “If the marks said to reveal a person’s *varṇa* are seen in someone else, he too should be designated by them.” The *Padma Purāṇa* says: “The devotees of the Lord are not *śūdras*; they are regarded as *bhāgavatas*. The *śūdras* in every *varṇa* are those who are not devoted to Janārdana.” “One should not even look at a *brāhmaṇa* who is not a Vaiṣṇava, just as one does not look at a dog-eater; but a Vaiṣṇava, even one outside the *varṇas*, purifies the three worlds.” “Whoever looks upon a devotee of the Lord who is a *śūdra*, a *niṣāda*, or a dog-eater as a member of his caste surely goes to hell.” The *Garuḍa Purāṇa* says: “One in whom this eightfold devotion is present, even if he is a *mleccha*, is the best of *brāhmaṇas* and the best of sages; he is wise and learned.” The *Tattva-sāgara* says: “As bell metal becomes gold when treated with mercury, so by the rite of initiation (*dīkṣā*) men become twice-born.”
+The *Śrīmad-Bhāgavatam* (4.21.12) says: “His command was never disobeyed anywhere, and he alone held the scepter over the seven islands, except over the brāhmaṇa families and the family of Acyuta.” The *Śrīmad-Bhāgavatam* (7.11.35) says: “If the marks said to reveal a person’s *varṇa* are seen in someone else, he too should be designated by them.” The *Padma Purāṇa* says: “The devotees of the Lord are not śūdras; they are regarded as *bhāgavatas*. The śūdras in every *varṇa* are those who are not devoted to Janārdana.” “One should not even look at a brāhmaṇa who is not a Vaiṣṇava, just as one does not look at a dog-eater; but a Vaiṣṇava, even one outside the *varṇas*, purifies the three worlds.” “Whoever looks upon a devotee of the Lord who is a śūdra, a *niṣāda*, or a dog-eater as a member of his caste surely goes to hell.” The *Garuḍa Purāṇa* says: “One in whom this eightfold devotion is present, even if he is a *mleccha*, is the best of brāhmaṇas and the best of sages; he is wise and learned.” The *Tattva-sāgara* says: “As bell metal becomes gold when treated with mercury, so by the rite of initiation (*dīkṣā*) men become twice-born.”
 
-From these and many other statements of scripture we know that transcendental *brāhmaṇa* nature is eternally inherent in a Vaiṣṇava. Therefore, once even a person born in a low family has devotion to Kṛṣṇa, he can no longer have a low caste.
+From these and many other statements of scripture we know that transcendental brāhmaṇa nature is eternally inherent in a Vaiṣṇava. Therefore, once even a person born in a low family has devotion to Kṛṣṇa, he can no longer have a low caste.
 
 “I am not a Vaiṣṇava”: these words only show Jhaḍu Ṭhākura’s magnanimity, worthy of a Vaiṣṇava, and his freedom from pride. *Mahā-bhāgavatas* are free from identifying the self with the body, and it is truly their nature to speak with the humility worthy of pure devotees: “By the truth of scripture all the devotees of Kṛṣṇa except me stand at the highest level; I alone am devoid of devotion and born in a low family; I have no power to rise to a high level,” and so on.
 
@@ -110,7 +110,7 @@ From these and many other statements of scripture we know that transcendental *b
 
 ## 33
 
-> Subheading: Jhaḍu Ṭhākura, the guru of all *brāhmaṇas*, worships in his mind the Deity manifest in the mind (*manomayī arcā*) and then eats the mangoes as Kṛṣṇa’s remnants —
+> Subheading: Jhaḍu Ṭhākura, the guru of all brāhmaṇas, worships in his mind the Deity manifest in the mind (*manomayī arcā*) and then eats the mangoes as Kṛṣṇa’s remnants —
 
 ## 34
 
@@ -146,7 +146,7 @@ From these and many other statements of scripture we know that transcendental *b
 
 ## 43
 
-> Subheading: The strict rule of the Lord, who acts as an *ācārya* to teach the world —
+> Subheading: The strict rule of the Lord, who acts as an ācārya to teach the world —
 
 ## 44
 
@@ -192,7 +192,7 @@ From these and many other statements of scripture we know that transcendental *b
 
 ## 54
 
-> Subheading: The Lord partakes of *prasāda* —
+> Subheading: The Lord partakes of prasāda —
 
 ## 55
 
@@ -282,7 +282,7 @@ If one reveals to someone else the mantra received from Śrī Gurudeva, the mant
 
 ## 78
 
-> Subheading: In the company of the Gauḍīya devotees, in His external state, [the Lord] preached talks about Kṛṣṇa and *kīrtana*; leaving this aside, in His inner state He becomes mad in the mood of a *gopī* separated from Kṛṣṇa —
+> Subheading: In the company of the Gauḍīya devotees, in His external state, [the Lord] preached talks about Kṛṣṇa and kīrtana; leaving this aside, in His inner state He becomes mad in the mood of a gopī separated from Kṛṣṇa —
 
 ## 79
 
@@ -312,43 +312,43 @@ If one reveals to someone else the mantra received from Śrī Gurudeva, the mant
 
 ## 89
 
-> Subheading: Jagannātha’s servants give *mahā-prasāda* to the Lord —
+> Subheading: Jagannātha’s servants give mahā-prasāda to the Lord —
 
 ## 91
 
-> Subheading: The *pāṇḍās* try to have the Lord accept *prasāda* —
+> Subheading: The *pāṇḍās* try to have the Lord accept prasāda —
 
 ## 92
 
-> Subheading: The Lord accepts a little *mahā-prasāda* —
+> Subheading: The Lord accepts a little mahā-prasāda —
 
 ## 93
 
-> Subheading: Tasting *mahā-prasāda*, the Lord is amazed and shows *sāttvika* transformations —
+> Subheading: Tasting mahā-prasāda, the Lord is amazed and shows sāttvika transformations —
 
 ## 94
 
-> Subheading: Recognising the nectar of Kṛṣṇa’s lips, [the Lord] is overwhelmed by *prema*; seeing a servant whose service rests on *aiśvarya*, He conceals it —
+> Subheading: Recognising the nectar of Kṛṣṇa’s lips, [the Lord] is overwhelmed by prema; seeing a servant whose service rests on *aiśvarya*, He conceals it —
 
 ## 96
 
-> Subheading: *Mahā-prasāda* is obtained by great *sukṛti* turned towards *bhakti*; the question of Jagannātha’s unknowing servant —
+> Subheading: *Mahā-prasāda* is obtained by great *sukṛti* turned towards bhakti; the question of Jagannātha’s unknowing servant —
 
-In the *Mahābhārata* and in the *Skanda Purāṇa* (Utkala-khaṇḍa): “O king, those whose piety is small never come to have faith in *mahā-prasāda*, in Govinda, in the Name, who is Brahman, and in the Vaiṣṇava.”
+In the *Mahābhārata* and in the *Skanda Purāṇa* (Utkala-khaṇḍa): “O king, those whose piety is small never come to have faith in mahā-prasāda, in Govinda, in the Name, who is Brahman, and in the Vaiṣṇava.”
 
 ## 97
 
-> Subheading: The Lord explains the glory of Kṛṣṇa’s remnants, that is, of *mahā-prasāda* —
+> Subheading: The Lord explains the glory of Kṛṣṇa’s remnants, that is, of mahā-prasāda —
 
 ## 98
 
-> Subheading: What *phelā*, that is, *mahā-prasāda*, means —
+> Subheading: What *phelā*, that is, mahā-prasāda, means —
 
 ## 99
 
-> Subheading: How the fruits of *sukṛti* turned towards *karma* and of *sukṛti* turned towards *bhakti* differ —
+> Subheading: How the fruits of *sukṛti* turned towards karma and of *sukṛti* turned towards bhakti differ —
 
-**sāmānya bhāgya** (ordinary fortune) — fortune born of the fruits of *karma*.
+**sāmānya bhāgya** (ordinary fortune) — fortune born of the fruits of karma.
 
 ## 100
 
@@ -364,7 +364,7 @@ In the *Mahābhārata* and in the *Skanda Purāṇa* (Utkala-khaṇḍa): “O k
 
 ## 103
 
-> Subheading: [The Lord] is overwhelmed by *prema* and restrains it with difficulty —
+> Subheading: [The Lord] is overwhelmed by prema and restrains it with difficulty —
 
 ## 104
 
@@ -372,25 +372,25 @@ In the *Mahābhārata* and in the *Skanda Purāṇa* (Utkala-khaṇḍa): “O k
 
 ## 105
 
-> Subheading: Govinda distributes *mahā-prasāda* to Purī, Bhāratī, Svarūpa, Rāya, Bhaṭṭācārya and the other devotees —
+> Subheading: Govinda distributes mahā-prasāda to Purī, Bhāratī, Svarūpa, Rāya, Bhaṭṭācārya and the other devotees —
 
 ## 107
 
-> Subheading: Tasting the extraordinary *prasāda*, all are amazed —
+> Subheading: Tasting the extraordinary prasāda, all are amazed —
 
 ## 108
 
-> Subheading: The Lord describes how the material objects that the conditioned *jīva* enjoys differ in quality from *naivedya* — transcendental, spiritual offerings that Kṛṣṇa’s spiritual senses enjoy —
+> Subheading: The Lord describes how the material objects that the conditioned jīva enjoys differ in quality from *naivedya* — transcendental, spiritual offerings that Kṛṣṇa’s spiritual senses enjoy —
 
 **aikṣava** — jaggery or sugar made from sugarcane; **gavya** — milk, ghee and the like.
 
 ## 109
 
-**rasavāsa** — fragrant and juicy cardamom and cloves; **guḍatvaka** — cinnamon (*dārucini*) or *jaitrī* (mace); **prākṛta** — all that the conditioned *jīva* enjoys with his senses, out of a desire to arrange his own happiness. All these are material objects: fragmentary, limited, perishable, and subject to the agitations of time.
+**rasavāsa** — fragrant and juicy cardamom and cloves; **guḍatvaka** — cinnamon (*dārucini*) or *jaitrī* (mace); **prākṛta** — all that the conditioned jīva enjoys with his senses, out of a desire to arrange his own happiness. All these are material objects: fragmentary, limited, perishable, and subject to the agitations of time.
 
 ## 111
 
-> Subheading: The spiritual power of *mahā-prasāda*, Kṛṣṇa’s remnants —
+> Subheading: The spiritual power of mahā-prasāda, Kṛṣṇa’s remnants —
 
 ## 112
 
@@ -402,11 +402,11 @@ In the *Mahābhārata* and in the *Skanda Purāṇa* (Utkala-khaṇḍa): “O k
 
 ## 114
 
-> Subheading: [The Lord] tells everyone to honour *prasāda* with transcendental faith —
+> Subheading: [The Lord] tells everyone to honour prasāda with transcendental faith —
 
 ## 115
 
-> Subheading: Tasting the nectar of Kṛṣṇa’s lips, all are overwhelmed by *prema* —
+> Subheading: Tasting the nectar of Kṛṣṇa’s lips, all are overwhelmed by prema —
 
 ## 116
 
@@ -414,9 +414,9 @@ In the *Mahābhārata* and in the *Skanda Purāṇa* (Utkala-khaṇḍa): “O k
 
 ## 117
 
-> Subheading: The *gopīs* beg for the nectar of Kṛṣṇa’s lips (*citra-jalpa*) — (*Śrīmad-Bhāgavatam*, canto 10, chapter 31, verse 14)
+> Subheading: The gopīs beg for the nectar of Kṛṣṇa’s lips (*citra-jalpa*) — (*Śrīmad-Bhāgavatam*, canto 10, chapter 31, verse 14)
 
-During the *rāsa* dance Kṛṣṇa suddenly disappeared. The *gopīs*, whose very life is Kṛṣṇa, grew utterly distressed in separation from Him. They came from the place of the *rāsa* dance to the bank of the Yamunā and lament thus:
+During the rāsa dance Kṛṣṇa suddenly disappeared. The gopīs, whose very life is Kṛṣṇa, grew utterly distressed in separation from Him. They came from the place of the rāsa dance to the bank of the Yamunā and lament thus:
 
 **he vīra** (O hero [of generosity, *dāna-vīra*]), **surata-vardhanam** (that which increases the desire for union [*sambhoga*]) **śoka-nāśanam** (that destroys the grief of not attaining You) **svarita-veṇunā** (by the flute that is blown, that sounds) **suṣṭhu cumbitam** (infused with the nectar of its sound) **itara-rāga-vismāraṇam** (that makes one forget, that erases, *rāga* — attachment — to other things, to pleasures from objects unrelated to Kṛṣṇa) **te** (Your) **adharāmṛtam** (the nectar, which is the lips themselves) **naḥ** (to us) **vitara** (give).
 
@@ -458,7 +458,7 @@ During the *rāsa* dance Kṛṣṇa suddenly disappeared. The *gopīs*, whose v
 
 ## 129
 
-> Subheading: Śrī Rādhā and the other *gopīs* keep silent —
+> Subheading: Śrī Rādhā and the other gopīs keep silent —
 
 ## 130
 
@@ -492,11 +492,11 @@ During the *rāsa* dance Kṛṣṇa suddenly disappeared. The *gopīs*, whose v
 
 ## 140
 
-> Subheading: The *gopīs* praise the flute, which delights in the touch of Kṛṣṇa’s lips — (*Śrīmad-Bhāgavatam*, canto 10, chapter 21, verse 9)
+> Subheading: The gopīs praise the flute, which delights in the touch of Kṛṣṇa’s lips — (*Śrīmad-Bhāgavatam*, canto 10, chapter 21, verse 9)
 
-When autumn came to Vraja, Śrī Kṛṣṇa herded the cows in the forest and played His flute. The *gopīs*, longing for Kṛṣṇa’s company, wandered here and there singing His enchanting qualities, and thus describe the good fortune of Kṛṣṇa’s flute:
+When autumn came to Vraja, Śrī Kṛṣṇa herded the cows in the forest and played His flute. The gopīs, longing for Kṛṣṇa’s company, wandered here and there singing His enchanting qualities, and thus describe the good fortune of Kṛṣṇa’s flute:
 
-Some said to others: **gopyaḥ** (O *gopīs*), **ayam** **veṇuḥ** **kim** **kuśalam** (pious deed) **ācarat** (performed) **sma**, **yat** (so that) **gopikānām** (though it is for the *gopīs* alone to enjoy) **dāmodarādhara-sudhām** (the nectar of Kṛṣṇa’s lips) **svayam** (of its own accord) **avaśiṣṭa-rasam** (so that only a remnant of the taste is left) **bhuṅkte**? **hradinyaḥ** (the rivers by whose water it was nourished — like mothers to it) **hṛṣyat-tvacaḥ** (their hair stands on end with delight: in the guise of clusters of blossoming lotuses they appear thrilled); **āryāḥ** ([as] the elders of a family, seeing a servant of the Lord in their own line, thrill and shed tears, so too) **taravaḥ** (the trees in whose line it was born) **aśru** (tears of bliss — in the guise of streams of honey) **mumucuḥ**.
+Some said to others: **gopyaḥ** (O *gopīs*), **ayam** **veṇuḥ** **kim** **kuśalam** (pious deed) **ācarat** (performed) **sma**, **yat** (so that) **gopikānām** (though it is for the gopīs alone to enjoy) **dāmodarādhara-sudhām** (the nectar of Kṛṣṇa’s lips) **svayam** (of its own accord) **avaśiṣṭa-rasam** (so that only a remnant of the taste is left) **bhuṅkte**? **hradinyaḥ** (the rivers by whose water it was nourished — like mothers to it) **hṛṣyat-tvacaḥ** (their hair stands on end with delight: in the guise of clusters of blossoming lotuses they appear thrilled); **āryāḥ** ([as] the elders of a family, seeing a servant of the Lord in their own line, thrill and shed tears, so too) **taravaḥ** (the trees in whose line it was born) **aśru** (tears of bliss — in the guise of streams of honey) **mumucuḥ**.
 
 ## 141
 
@@ -504,7 +504,7 @@ Some said to others: **gopyaḥ** (O *gopīs*), **ayam** **veṇuḥ** **kim** *
 
 ## 142
 
-> Subheading: The meaning of the verse; seeing the good fortune of the flute that drinks the nectar of Kṛṣṇa’s lips, the *gopīs* speak with jealousy — and yet in praise (*citra-jalpa*) —
+> Subheading: The meaning of the verse; seeing the good fortune of the flute that drinks the nectar of Kṛṣṇa’s lips, the gopīs speak with jealousy — and yet in praise (*citra-jalpa*) —
 
 ## 144
 
@@ -516,7 +516,7 @@ Some said to others: **gopyaḥ** (O *gopīs*), **ayam** **veṇuḥ** **kim** *
 
 ## 150
 
-> Subheading: The Lord’s madness of love for Kṛṣṇa in the mood of a *gopī* —
+> Subheading: The Lord’s madness of love for Kṛṣṇa in the mood of a gopī —
 
 *Thus ends the sixteenth chapter of the “Anubhāṣya.”*
 

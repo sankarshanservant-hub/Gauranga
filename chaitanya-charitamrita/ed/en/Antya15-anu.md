@@ -36,7 +36,7 @@
 
 ## 15
 
-> Subheading: The *gopī* describes the power of the sweetness of the transcendental god of love (*Puṣpabāṇa*, the flower-arrowed one) (*citra-jalpa*) —
+> Subheading: The gopī describes the power of the sweetness of the transcendental god of love (*Puṣpabāṇa*, the flower-arrowed one) (*citra-jalpa*) —
 
 My five senses, drawn by Kṛṣṇa, are like five robbers, and they all plot together: “Come, let us all join together and carry off, that is, steal, this wealth that belongs to another — the horse of the mind.”
 
@@ -46,7 +46,7 @@ My five senses, drawn by Kṛṣṇa, are like five robbers, and they all plot t
 
 ## 17
 
-> Subheading: The *gopī* under Kṛṣṇa’s sway —
+> Subheading: The gopī under Kṛṣṇa’s sway —
 
 ## 18
 
@@ -82,37 +82,37 @@ My five senses, drawn by Kṛṣṇa, are like five robbers, and they all plot t
 
 ## 28
 
-> Subheading: Feeling Himself a maidservant (*kiṅkarī*) of the *gopī*, the Lord sees Kṛṣṇa’s pastimes everywhere and searches for Him —
+> Subheading: Feeling Himself a maidservant (*kiṅkarī*) of the gopī, the Lord sees Kṛṣṇa’s pastimes everywhere and searches for Him —
 
 ## 32
 
-> Subheading: Separated from Kṛṣṇa, the *gopīs* see everywhere Kṛṣṇa and all that belongs to Kṛṣṇa as living and conscious, and so they search for Kṛṣṇa (*udghūrṇā*); they ask every tree where Kṛṣṇa is — (*Śrīmad-Bhāgavatam* 10.30.9 and 7–8)
+> Subheading: Separated from Kṛṣṇa, the gopīs see everywhere Kṛṣṇa and all that belongs to Kṛṣṇa as living and conscious, and so they search for Kṛṣṇa (*udghūrṇā*); they ask every tree where Kṛṣṇa is — (*Śrīmad-Bhāgavatam* 10.30.9 and 7–8)
 
-While Bhagavān Śrī Kṛṣṇa was playing the *rāsa* with the *gopīs*, He suddenly disappeared. Unable to see Him, the *gopīs*, their minds wholly absorbed in Kṛṣṇa, set out to search for Him.
+While Bhagavān Śrī Kṛṣṇa was playing the rāsa with the gopīs, He suddenly disappeared. Unable to see Him, the gopīs, their minds wholly absorbed in Kṛṣṇa, set out to search for Him.
 
-**cūta-priyāla-panasāsana-kovidāra-jambv-arka-bilva-bakulāmra-kadamba-nīpāḥ** (they address the fruit trees and others growing nearby: “O *cūta*, O *priyāla*, O *kaṇṭaka* [*panasa*], O *pītaśāla* [*asana*], O *kovidāra*, O *jambu*, O *arka*, O *bilva*, O *bakula*, O mango, O *kadamba*, O *nīpa* — you”) **ye** **’nye** (and you other trees) **parārtha-bhavakāḥ** (whose birth is only for the sake of others) **yamunopakūlāḥ** (the trees that stand on the bank, at the water’s edge of the Yamunā, the Kālindī) **rahitātmanām** (whose minds are empty) **naḥ** (to us) **kṛṣṇa-padavīm** (Kṛṣṇa’s path) **śaṁsantu** (tell).
+**cūta-priyāla-panasāsana-kovidāra-jambv-arka-bilva-bakulāmra-kadamba-nīpāḥ** (they address the fruit trees and others growing nearby: “O *cūta*, O *priyāla*, O *kaṇṭaka* [*panasa*], O *pītaśāla* [*asana*], O *kovidāra*, O *jambu*, O *arka*, O *bilva*, O *bakula*, O mango, O kadamba, O *nīpa* — you”) **ye** **’nye** (and you other trees) **parārtha-bhavakāḥ** (whose birth is only for the sake of others) **yamunopakūlāḥ** (the trees that stand on the bank, at the water’s edge of the Yamunā, the Kālindī) **rahitātmanām** (whose minds are empty) **naḥ** (to us) **kṛṣṇa-padavīm** (Kṛṣṇa’s path) **śaṁsantu** (tell).
 
 ## 33
 
-> Subheading: [The *gopīs*] ask Śrī Tulasī where Kṛṣṇa is —
+> Subheading: [The gopīs] ask Śrī Tulasī where Kṛṣṇa is —
 
 **kalyāṇi** (O fortunate one) **govinda-caraṇa-priye** (dear to Govinda’s feet) **tulasi**, **ali-kulaiḥ** **saha** **tvā** (you) **bibhrat** **te** (your) **ati-priyaḥ** **acyutaḥ** (Govinda) **kaccit** **tvayā** **kiṁ** **dṛṣṭaḥ** (has He been seen by you?)
 
 ## 34
 
-> Subheading: [The *gopīs*] ask the flowering plants where Kṛṣṇa is —
+> Subheading: [The gopīs] ask the flowering plants where Kṛṣṇa is —
 
 **mālati**, **mallike**, **jāti**, **yūthike**, **kara-sparśena** **vaḥ** (your) **prītiṁ** **janayan** **yātaḥ** (who has gone) **mādhavaḥ** **vaḥ** (by you) **kaccit** **adarśi** (was He seen)?
 
 ## 35
 
-> Subheading: The meaning of the verse; the *gopīs*, wholly absorbed in Kṛṣṇa and separated from Him, search for Him and lament —
+> Subheading: The meaning of the verse; the gopīs, wholly absorbed in Kṛṣṇa and separated from Him, search for Him and lament —
 
 ## 44
 
-> Subheading: [The *gopīs*] ask the doe where Kṛṣṇa is — (*Śrīmad-Bhāgavatam* 10.30.11)
+> Subheading: [The gopīs] ask the doe where Kṛṣṇa is — (*Śrīmad-Bhāgavatam* 10.30.11)
 
-While Bhagavān Śrī Kṛṣṇa was playing the *rāsa* with the *gopīs*, He disappeared. The *gopīs*, their minds wholly fixed on Kṛṣṇa, were searching for Him in separation.
+While Bhagavān Śrī Kṛṣṇa was playing the rāsa with the gopīs, He disappeared. The gopīs, their minds wholly fixed on Kṛṣṇa, were searching for Him in separation.
 
 **he sakhi** (O friend) **eṇa-patni** (doe) **acyutaḥ** (Kṛṣṇa) **priyayā** (together [with His beloved]) **gātraiḥ** (by the contact of Their bodies) **vaḥ** (your) **dṛśām** (of the eyes) **su-nirvṛtim** (happiness) **tanvan** (increasing) **iha** **api** (whether) **upagataḥ** (has passed by here)? (For) **kula-pateḥ** (of Kṛṣṇa) **kāntāṅga-saṅga-kuca-kuṅkuma-rañjitāyāḥ** (adorned with the colour of the *kuṅkuma* from His beloved’s breasts, [left] by the touch of Her body) **kunda-srajaḥ** (of the garland of *kunda* flowers) **gandhaḥ** **iha** **vāti** (wafts).
 
@@ -122,15 +122,15 @@ While Bhagavān Śrī Kṛṣṇa was playing the *rāsa* with the *gopīs*, He 
 
 ## 49
 
-> Subheading: [The *gopīs*] ask the trees where Kṛṣṇa is —
+> Subheading: [The gopīs] ask the trees where Kṛṣṇa is —
 
 ## 51
 
 > Subheading: An example from scripture — (*Śrīmad-Bhāgavatam* 10.30.12)
 
-During the *rāsa* pastime, Bhagavān Śrī Kṛṣṇa suddenly vanished. Seeing this, the *gopīs*, whose only life is Kṛṣṇa, are searching for Him —
+During the rāsa pastime, Bhagavān Śrī Kṛṣṇa suddenly vanished. Seeing this, the gopīs, whose only life is Kṛṣṇa, are searching for Him —
 
-**taravaḥ** (O trees!) **priyāṁse** (on His beloved’s shoulder) **bāhum** (His left arm) **upadhāya** (placing) **gṛhīta-padmaḥ** (holding a pastime lotus in His right hand) **madāndhaiḥ** (blinded by the intoxication of drinking nectar) **tulasikāli-kulaiḥ** (by swarms of *tulasī* bees) **anvīyamānaḥ** (accompanied — followed) **rāmānujaḥ** (Kṛṣṇa) **iha** (here) **caran** (passing by) **praṇayālokaiḥ** (with loving glances) **vaḥ** (your) **praṇāmam** (obeisance) **kim abhinandati vā?** (does He welcome?)
+**taravaḥ** (O trees!) **priyāṁse** (on His beloved’s shoulder) **bāhum** (His left arm) **upadhāya** (placing) **gṛhīta-padmaḥ** (holding a pastime lotus in His right hand) **madāndhaiḥ** (blinded by the intoxication of drinking nectar) **tulasikāli-kulaiḥ** (by swarms of tulasī bees) **anvīyamānaḥ** (accompanied — followed) **rāmānujaḥ** (Kṛṣṇa) **iha** (here) **caran** (passing by) **praṇayālokaiḥ** (with loving glances) **vaḥ** (your) **praṇāmam** (obeisance) **kim abhinandati vā?** (does He welcome?)
 
 ## 52
 
@@ -142,7 +142,7 @@ During the *rāsa* pastime, Bhagavān Śrī Kṛṣṇa suddenly vanished. Seein
 
 ## 55
 
-> Subheading: The *gopīs* behold Kṛṣṇa’s form —
+> Subheading: The gopīs behold Kṛṣṇa’s form —
 
 ## 57
 
@@ -160,7 +160,7 @@ During the *rāsa* pastime, Bhagavān Śrī Kṛṣṇa suddenly vanished. Seein
 
 > Subheading: Words spoken in *citra-jalpa* — (Govinda-līlāmṛta 8.4: Śrī Rādhikā’s words)
 
-**sakhi** (O friend!) **navāmbuda-lasad-dyutiḥ** (whose lustre [*dyuti*, radiance] shines even brighter than a fresh cloud) **nava-taḍin-manojñāmbaraḥ** (whose garment [*ambara*, clothing] is more charming and lovely even than fresh lightning) **sucitra-muralī-sphurac-charad-amanda-candrānanaḥ** (whose face, shining with a wonderfully charming flute, is like the full moon of autumn) **mayūra-dala-bhūṣitaḥ** (adorned with peacock feathers) **subhaga-tāra-hāra-prabhaḥ** (whose necklace shines like beautiful, brilliant stars) **saḥ** **madana-mohanaḥ** (He maddens: to nourish the *rasa* of union [*sambhoga*], He makes [His beloved] languish in the phase of separation [*vipralambha*] and then brings union to fullness — therefore He is Madana; by these two He brings [her] under His sway — therefore He is Mohana; He is both — Madana-mohana)[^63-2] **me** (My) **netra-spṛhām** (the thirst of the eyes — the eyes’ longing to see Him) **tanoti** (increases).
+**sakhi** (O friend!) **navāmbuda-lasad-dyutiḥ** (whose lustre [*dyuti*, radiance] shines even brighter than a fresh cloud) **nava-taḍin-manojñāmbaraḥ** (whose garment [*ambara*, clothing] is more charming and lovely even than fresh lightning) **sucitra-muralī-sphurac-charad-amanda-candrānanaḥ** (whose face, shining with a wonderfully charming flute, is like the full moon of autumn) **mayūra-dala-bhūṣitaḥ** (adorned with peacock feathers) **subhaga-tāra-hāra-prabhaḥ** (whose necklace shines like beautiful, brilliant stars) **saḥ** **madana-mohanaḥ** (He maddens: to nourish the rasa of union [*sambhoga*], He makes [His beloved] languish in the phase of separation [*vipralambha*] and then brings union to fullness — therefore He is Madana; by these two He brings [her] under His sway — therefore He is Mohana; He is both — Madana-mohana)[^63-2] **me** (My) **netra-spṛhām** (the thirst of the eyes — the eyes’ longing to see Him) **tanoti** (increases).
 
 ## 64
 
@@ -192,7 +192,7 @@ See Madhya 24.48.
 
 ## 71
 
-> Subheading: The meaning of the verse; a description of how the sweetness of Kṛṣṇa’s form overpowers the *gopīs* (*citra-jalpa*) — [Any *rāga* as suits (*yathā-rāga*)]
+> Subheading: The meaning of the verse; a description of how the sweetness of Kṛṣṇa’s form overpowers the gopīs (*citra-jalpa*) — [Any *rāga* as suits (*yathā-rāga*)]
 
 ## 74
 
@@ -218,7 +218,7 @@ See Madhya 24.48.
 
 ## 81
 
-> Subheading: Kṛṣṇa, the Lord bound by the *gopīs’* love, vanishes from the *rāsa* dance — (*Śrīmad-Bhāgavatam* 10.29.48)
+> Subheading: Kṛṣṇa, the Lord bound by the *gopīs’* love, vanishes from the rāsa dance — (*Śrīmad-Bhāgavatam* 10.29.48)
 
 The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa’s *rāsa-līlā* to Parīkṣit, who is eager to hear —
 
@@ -236,13 +236,13 @@ The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa’s *rās
 
 ## 84
 
-> Subheading: A *gopī* remembers Kṛṣṇa, the enjoyer of the *rāsa* — (Gīta-govinda 2.3)
+> Subheading: A gopī remembers Kṛṣṇa, the enjoyer of the rāsa — (*Gīta-govinda* 2.3)
 
-**sakhi** (O friend!) **iha** (here) **rāse** (in the *rāsa* dance) **mama** (My) **manaḥ** (mind) **vihita-vilāsam** (Him by whom pastimes were performed [*vihita*, carried out]) **kṛta-parihāsam** (Him by whom jests were made [*kṛta*, done]) **harim** (Hari) **smarati** (remembers).
+**sakhi** (O friend!) **iha** (here) **rāse** (in the rāsa dance) **mama** (My) **manaḥ** (mind) **vihita-vilāsam** (Him by whom pastimes were performed [*vihita*, carried out]) **kṛta-parihāsam** (Him by whom jests were made [*kṛta*, done]) **harim** (Hari) **smarati** (remembers).
 
 ## 85
 
-> Subheading: Hearing the song, the Lord dances, overwhelmed by *prema* —
+> Subheading: Hearing the song, the Lord dances, overwhelmed by prema —
 
 ## 86
 
@@ -250,7 +250,7 @@ The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa’s *rās
 
 ## 87
 
-*Bhāvodaya*: the arising of the eight *sāttvika-bhāvas*; *bhāva-sandhi*: the meeting of two *bhāvas*, alike or different; *bhāva-śābalya*: the clash of many *bhāvas* with one another.
+*Bhāvodaya*: the arising of the eight sāttvika-bhāvas; *bhāva-sandhi*: the meeting of two *bhāvas*, alike or different; *bhāva-śābalya*: the clash of many *bhāvas* with one another.
 
 ## 88
 
@@ -258,7 +258,7 @@ The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa’s *rās
 
 ## 89
 
-> Subheading: Svarūpa ends the *kīrtana* —
+> Subheading: Svarūpa ends the kīrtana —
 
 ## 90
 
@@ -274,17 +274,17 @@ The *mahā-bhāgavata* Śrī Śukadeva is describing Śrī Kṛṣṇa’s *rās
 
 ## 93
 
-> Subheading: The Lord bathes, takes *prasāda* and lies down to rest —
+> Subheading: The Lord bathes, takes prasāda and lies down to rest —
 
 ## 95
 
-> Subheading: The Lord’s divine madness (*udghūrṇā* and *citra-jalpa*): thinking Himself a maidservant of the *gopīs*, He is reminded of the pastimes of Vṛndāvana —
+> Subheading: The Lord’s divine madness (*udghūrṇā* and *citra-jalpa*): thinking Himself a maidservant of the gopīs, He is reminded of the pastimes of Vṛndāvana —
 
 ## 97
 
-> Subheading: The Lord, reminded of Vṛndāvana, chants Kṛṣṇa’s name, overwhelmed by *prema* — (*Stava-mālā*, first *Caitanyāṣṭaka*, verse 6)
+> Subheading: The Lord, reminded of Vṛndāvana, chants Kṛṣṇa’s name, overwhelmed by prema — (*Stava-mālā*, first *Caitanyāṣṭaka*, verse 6)
 
-**kvacit** (at times) **yaḥ** (He who) **payo-rāśeḥ** (of the ocean) **tīre** (on the shore — on the strip of sand) **sphurad-upavanālī-kalanayā** (by seeing [*kalana*, beholding] the rows, the clusters, of gardens shining in their beauty) **muhuḥ** (at every moment) **vṛndāraṇya-smaraṇa-janita-prema-vivaśaḥ** (helpless with *prema*: the thought of Vṛndāvana arose in Him, and He lost control of Himself in His longing for love of Kṛṣṇa) **abhūt** (became), **kṛṣṇāvṛtti-pracala-rasanaḥ** (He whose tongue is restless, unsteady, from constantly chanting the name “Kṛṣṇa”), **bhakti-rasikaḥ** **saḥ** **caitanyaḥ** **me** (my) **dṛśoḥ** (of the eyes) **padam** (path) **punar api** **kim** **yāsyati** (will He attain — enter again)?
+**kvacit** (at times) **yaḥ** (He who) **payo-rāśeḥ** (of the ocean) **tīre** (on the shore — on the strip of sand) **sphurad-upavanālī-kalanayā** (by seeing [*kalana*, beholding] the rows, the clusters, of gardens shining in their beauty) **muhuḥ** (at every moment) **vṛndāraṇya-smaraṇa-janita-prema-vivaśaḥ** (helpless with prema: the thought of Vṛndāvana arose in Him, and He lost control of Himself in His longing for love of Kṛṣṇa) **abhūt** (became), **kṛṣṇāvṛtti-pracala-rasanaḥ** (He whose tongue is restless, unsteady, from constantly chanting the name “Kṛṣṇa”), **bhakti-rasikaḥ** **saḥ** **caitanyaḥ** **me** (my) **dṛśoḥ** (of the eyes) **padam** (path) **punar api** **kim** **yāsyati** (will He attain — enter again)?
 
 *Thus ends the fifteenth chapter of the “Anubhāṣya.”*
 

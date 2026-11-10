@@ -14,7 +14,7 @@ The people of the South, like Gajendra, had been seized by the crocodiles of man
 
 ## 11
 
-**Worshipers of Rāma** (*rāma-upāsakas*): the Rāmāt Vaiṣṇavas. **Tattvavādīs**: those who accept the *tattva* (truths) of Madhva’s teaching and establish *śuddha-dvaita-vāda*, the doctrine of pure duality. **Śrī Vaiṣṇavas**: the Vaiṣṇavas of Rāmānuja’s *sampradāya*.
+**Worshipers of Rāma** (*rāma-upāsakas*): the Rāmāt Vaiṣṇavas. **Tattvavādīs**: those who accept the *tattva* (truths) of Madhva’s teaching and establish *śuddha-dvaita-vāda*, the doctrine of pure duality. **Śrī Vaiṣṇavas**: the Vaiṣṇavas of Rāmānuja’s sampradāya.
 
 ## 14
 
@@ -62,11 +62,11 @@ The result obtained by reciting the sacred thousand names (of Viṣṇu) three t
 
 ## 48
 
-***Asambhāṣya***: one not fit to be spoken with, because he opposes the Vedas and has turned away from *bhakti*. **It is improper to see them**: of one who has seen godless Buddhists and their like, scripture (the *sātvata* scripture) says, “Let him enter the water with his clothes on.” That is, by the word of scripture it is improper to see atheistic Buddhists and their like.
+***Asambhāṣya***: one not fit to be spoken with, because he opposes the Vedas and has turned away from bhakti. **It is improper to see them**: of one who has seen godless Buddhists and their like, scripture (the *sātvata* scripture) says, “Let him enter the water with his clothes on.” That is, by the word of scripture it is improper to see atheistic Buddhists and their like.
 
 ## 49
 
-The Buddhist doctrine has two paths, the *hīnayāna* and the *mahāyāna*. The starting point for following these paths is nine propositions: (1) the universe is without beginning, and therefore without an Īśvara; (2) the world is untrue; (3) [the truth is] the “I” (*ahaṁ-tattva*); (4) birth after birth and the other world are real; (5) only the Buddha is the means of attaining truth; (6) *nirvāṇa* is the supreme truth; (7) only Buddhist philosophy is [true] philosophy; (8) the Vedas were composed by human beings; (9) Buddhist life is the practice of true *dharma*—compassion and the like.
+The Buddhist doctrine has two paths, the *hīnayāna* and the *mahāyāna*. The starting point for following these paths is nine propositions: (1) the universe is without beginning, and therefore without an Īśvara; (2) the world is untrue; (3) [the truth is] the “I” (*ahaṁ-tattva*); (4) birth after birth and the other world are real; (5) only the Buddha is the means of attaining truth; (6) *nirvāṇa* is the supreme truth; (7) only Buddhist philosophy is [true] philosophy; (8) the Vedas were composed by human beings; (9) Buddhist life is the practice of true dharma—compassion and the like.
 
 ## 53
 
@@ -94,11 +94,11 @@ Nārāyaṇa is Kṛṣṇa’s form for pastimes (*vilāsa-mūrti*). So althoug
 
 ## 117
 
-By *siddhānta* there is no difference at all between the *svarūpas* of “Nārāyaṇa” and “Kṛṣṇa.” Yet when *śṛṅgāra-rasa* is considered, the form of Śrī Kṛṣṇa excels by virtue of *rasa*. This is precisely how the *tattva* of *rasa* is arranged.
+By *siddhānta* there is no difference at all between the *svarūpas* of “Nārāyaṇa” and “Kṛṣṇa.” Yet when *śṛṅgāra-rasa* is considered, the form of Śrī Kṛṣṇa excels by virtue of rasa. This is precisely how the *tattva* of rasa is arranged.
 
 ## 118–119
 
-Lakṣmī saw that in Kṛṣṇa’s company chastity is not violated, while the greater gain—the pastimes of the *rāsa*—can be had only in Kṛṣṇa’s company; in Nārāyaṇa’s company it cannot be had.
+Lakṣmī saw that in Kṛṣṇa’s company chastity is not violated, while the greater gain—the pastimes of the rāsa—can be had only in Kṛṣṇa’s company; in Nārāyaṇa’s company it cannot be had.
 
 ## 127
 
@@ -114,13 +114,13 @@ The residents of Vraja know Him as “Nanda’s son.” Any other relationship w
 
 ## 133–140
 
-The Śrutis tried to enter Śrī Kṛṣṇa’s *rāsa* circle (*rāsa-maṇḍala*), but their desire was not fulfilled. Nor could they enter when they took up the mood of the gopīs only within their hearts. Then, taking up the mood of the gopīs both in body and in heart, they followed the gopīs and entered Śrī Kṛṣṇa’s *rāsa* dance. Śrī Kṛṣṇa is a cowherd by birth, and only the gopīs are His beloveds. So neither in the form of a goddess full of majesty nor in the form of any other woman can “Kṛṣṇa’s company” be had. The goddess Lakṣmī prayed for Kṛṣṇa’s company in her own divine body, but she did not serve Him following the natural love (*anurāga*) of the gopīs. Therefore in a body other than a gopī’s she could not obtain the pastimes of the *rāsa*. That is why Vyāsadeva wrote the verse “*nāyaṁ sukhāpo bhagavān*.”
+The Śrutis tried to enter Śrī Kṛṣṇa’s rāsa circle (*rāsa-maṇḍala*), but their desire was not fulfilled. Nor could they enter when they took up the mood of the gopīs only within their hearts. Then, taking up the mood of the gopīs both in body and in heart, they followed the gopīs and entered Śrī Kṛṣṇa’s rāsa dance. Śrī Kṛṣṇa is a cowherd by birth, and only the gopīs are His beloveds. So neither in the form of a goddess full of majesty nor in the form of any other woman can “Kṛṣṇa’s company” be had. The goddess Lakṣmī prayed for Kṛṣṇa’s company in her own divine body, but she did not serve Him following the natural love (*anurāga*) of the gopīs. Therefore in a body other than a gopī’s she could not obtain the pastimes of the rāsa. That is why Vyāsadeva wrote the verse “*nāyaṁ sukhāpo bhagavān*.”
 
 In Veṅkaṭa Bhaṭṭa’s mind there was a conceit: “Nārāyaṇa, who dwells in Paravyoma, is Himself Śrī Bhagavān; His worship is the highest of all grades of worship; therefore the worship of the Vaiṣṇavas of the Śrī-sampradāya is the highest of all.” To break this empty pride, Mahāprabhu raised this question in jest.
 
 ## 144–149
 
-Śrī Nārāyaṇa has sixty qualities. Beyond these sixty Śrī Kṛṣṇa has four more unique qualities that Śrī Nārāyaṇa does not have: (1) He is distinguished by an ocean of pastimes more wonderful than all others; (2) He is surrounded by dear associates adorned with incomparable sweet *prema*; (3) He is absorbed in the song of His flute, which attracts the three worlds; (4) His beauty, which astonishes all moving and nonmoving beings, has no equal and no superior. Śrī Kṛṣṇa possesses these four unique qualities, and so even Lakṣmī, the embodiment of majesty, constantly thirsts for Him. The verse you recited, “*siddhāntatas tv abhede ’pi*,” establishes that Kṛṣṇa alone is Bhagavān Himself. Only Kṛṣṇa, endowed with the qualities of Bhagavān Himself, steals Lakṣmī’s heart. Śrī Nārāyaṇa lacks the four qualities that can steal the hearts of the gopīs, so He cannot steal their hearts. What to speak of Nārāyaṇa: even when Śrī Kṛṣṇa in jest manifested Himself in the form of Nārāyaṇa Himself, the gopīs felt no love (*anurāga*) for Him.
+Śrī Nārāyaṇa has sixty qualities. Beyond these sixty Śrī Kṛṣṇa has four more unique qualities that Śrī Nārāyaṇa does not have: (1) He is distinguished by an ocean of pastimes more wonderful than all others; (2) He is surrounded by dear associates adorned with incomparable sweet prema; (3) He is absorbed in the song of His flute, which attracts the three worlds; (4) His beauty, which astonishes all moving and nonmoving beings, has no equal and no superior. Śrī Kṛṣṇa possesses these four unique qualities, and so even Lakṣmī, the embodiment of majesty, constantly thirsts for Him. The verse you recited, “*siddhāntatas tv abhede ’pi*,” establishes that Kṛṣṇa alone is Bhagavān Himself. Only Kṛṣṇa, endowed with the qualities of Bhagavān Himself, steals Lakṣmī’s heart. Śrī Nārāyaṇa lacks the four qualities that can steal the hearts of the gopīs, so He cannot steal their hearts. What to speak of Nārāyaṇa: even when Śrī Kṛṣṇa in jest manifested Himself in the form of Nārāyaṇa Himself, the gopīs felt no love (*anurāga*) for Him.
 
 Here one point must be considered. Śrī Rūpa Gosvāmī’s *Bhakti-rasāmṛta-sindhu* was composed many days after this (after the Lord’s meeting with Veṅkaṭa Bhaṭṭa). How, then, could Śrī Veṅkaṭa Bhaṭṭa recite a verse from that book as evidence? We conclude as follows. The verses that the *Bhakti-rasāmṛta-sindhu* and other books cite as having been in use before those books were written were current even among very ancient devotees of Kṛṣṇa. Śrī Rūpa Gosvāmī used precisely those in his books. And since Śrī Rūpa’s books were composed before Kavirāja Gosvāmī wrote, (Kavirāja Gosvāmī in his book) cited all these verses as quotations from those books of Śrī Rūpa. In many places Kavirāja Gosvāmī, relying only on their meaning, brought verses of the earlier Gosvāmīs into conversations.
 
@@ -150,7 +150,7 @@ Mahāprabhu had new leaves written into the book of the *Kūrma Purāṇa* and b
 
 ## 224
 
-**Bhaṭṭathāris**: in some regions the common speech calls them “Bhāṭwārīs.” They have neither house nor home. Wherever they happen to stay, they live in *śirkis*, that is, in simple tents. Outwardly they wear the dress of *sannyāsīs*, but their trade is theft and deceit. By deceit they gather many women and keep them in their *śirkis*; then they lure other people by showing them these women, and so swell their band. What the camps of the Bedes (nomads) are in Bengal, the *śirkis* of the Bhāṭwārīs are in western and southern India.
+**Bhaṭṭathāris**: in some regions the common speech calls them “Bhāṭwārīs.” They have neither house nor home. Wherever they happen to stay, they live in *śirkis*, that is, in simple tents. Outwardly they wear the dress of sannyāsīs, but their trade is theft and deceit. By deceit they gather many women and keep them in their *śirkis*; then they lure other people by showing them these women, and so swell their band. What the camps of the Bedes (nomads) are in Bengal, the *śirkis* of the Bhāṭwārīs are in western and southern India.
 
 ## 237
 
@@ -158,11 +158,11 @@ Mahāprabhu had new leaves written into the book of the *Kūrma Purāṇa* and b
 
 ## 245–247
 
-In the Dākṣiṇātya, in the village of Uḍupī, is the seat (*gādi*) of Madhvācārya. The *ācāryas* of this *sampradāya* are called “Tattvavādīs.” The Deity of the Dancing Gopāla resides there. Śrī Madhvācārya found Gopāla beneath *gopī-candana* in a sunken *ḍiṅgā*, that is, a large boat.
+In the Dākṣiṇātya, in the village of Uḍupī, is the seat (*gādi*) of Madhvācārya. The ācāryas of this sampradāya are called “Tattvavādīs.” The Deity of the Dancing Gopāla resides there. Śrī Madhvācārya found Gopāla beneath *gopī-candana* in a sunken *ḍiṅgā*, that is, a large boat.
 
 ## 250–258
 
-The Tattvavādīs, adherents of pure dualism (*śuddha-dvaita*), saw on Mahāprabhu the marks of *sannyāsa* of Śaṅkara’s school and at first did not speak to the Lord. But then, seeing Him overwhelmed with *prema*, they recognised Him as a Vaiṣṇava and honoured Him, that is, served Him. In the hearts of the Tattvavādīs lived pride in their own Vaiṣṇavism. Seeing this, the Lord smiled slightly and spoke with them. The Lord said, “I do not know well what the goal (*sādhya*) is and what the means (*sādhana*). Please be kind and teach Me.” The Tattvavāda *ācārya* replied, “To offer *varṇāśrama-dharma* to Kṛṣṇa is the best *sādhana* of a devotee of Kṛṣṇa. By the power of this *sādhana* the perfected person attains the five kinds of liberation, the best *sādhya*, and goes to Vaikuṇṭha.” To this the Lord said that according to the *śāstras* the best *sādhana* is hearing and chanting: by the power of this *sādhana* one attains the fruit, the *sādhya*, which is loving service to Kṛṣṇa.
+The Tattvavādīs, adherents of pure dualism (*śuddha-dvaita*), saw on Mahāprabhu the marks of sannyāsa of Śaṅkara’s school and at first did not speak to the Lord. But then, seeing Him overwhelmed with prema, they recognised Him as a Vaiṣṇava and honoured Him, that is, served Him. In the hearts of the Tattvavādīs lived pride in their own Vaiṣṇavism. Seeing this, the Lord smiled slightly and spoke with them. The Lord said, “I do not know well what the goal (*sādhya*) is and what the means (*sādhana*). Please be kind and teach Me.” The Tattvavāda ācārya replied, “To offer *varṇāśrama-dharma* to Kṛṣṇa is the best *sādhana* of a devotee of Kṛṣṇa. By the power of this *sādhana* the perfected person attains the five kinds of liberation, the best *sādhya*, and goes to Vaikuṇṭha.” To this the Lord said that according to the *śāstras* the best *sādhana* is hearing and chanting: by the power of this *sādhana* one attains the fruit, the *sādhya*, which is loving service to Kṛṣṇa.
 
 ## 259–260
 
@@ -170,23 +170,23 @@ Hearing about Śrī Kṛṣṇa, chanting His glories, remembering Him, serving 
 
 ## 261
 
-The nine kinds of *sādhana-bhakti*, beginning with hearing and chanting, awaken loving devotion (*prema-bhakti*) to Kṛṣṇa. That is the “fifth” *puruṣārtha* (goal of life), and that is the limit of the *puruṣārthas*. The point is this: *dharma*, *artha*, *kāma*, and *mokṣa* — these four *puruṣārthas* are “with cheating” (*sa-kaitava*); only the *puruṣārtha* of *prema* is “without cheating” (*a-kaitava*).
+The nine kinds of *sādhana-bhakti*, beginning with hearing and chanting, awaken loving devotion (*prema-bhakti*) to Kṛṣṇa. That is the “fifth” *puruṣārtha* (goal of life), and that is the limit of the *puruṣārthas*. The point is this: dharma, *artha*, *kāma*, and *mokṣa* — these four *puruṣārthas* are “with cheating” (*sa-kaitava*); only the *puruṣārtha* of prema is “without cheating” (*a-kaitava*).
 
 ## 263
 
-Scriptures that establish *karma* contain, in many places, instruction in *karma* and praise of it, yet in the end all the *śāstras* censure *karma* and prescribe giving it up. Neither by *karma* nor by offering *karma* can loving devotion to Kṛṣṇa ever be attained. The point is this: offering *karma* and the like purifies the heart. When the heart is purified, by the power of the company of *sādhus* (*sat-saṅga*) faith (*śraddhā*) in exclusive devotion to Kṛṣṇa arises. When faith arises, *sādhana-bhakti* begins — hearing, chanting, and the rest. The more one is freed from *anarthas* while practicing devotion — hearing, chanting, and the rest — the higher *prema* rises. Therefore *karma* or offering *karma* by no means always and inevitably awakens devotion to Kṛṣṇa. For (pure devotion to Kṛṣṇa) depends on faith whose sign is the birth of [the eagerness] to hear, born of the company of *sādhus*.
+Scriptures that establish karma contain, in many places, instruction in karma and praise of it, yet in the end all the *śāstras* censure karma and prescribe giving it up. Neither by karma nor by offering karma can loving devotion to Kṛṣṇa ever be attained. The point is this: offering karma and the like purifies the heart. When the heart is purified, by the power of the company of sādhus (*sat-saṅga*) faith (*śraddhā*) in exclusive devotion to Kṛṣṇa arises. When faith arises, *sādhana-bhakti* begins — hearing, chanting, and the rest. The more one is freed from *anarthas* while practicing devotion — hearing, chanting, and the rest — the higher prema rises. Therefore karma or offering karma by no means always and inevitably awakens devotion to Kṛṣṇa. For (pure devotion to Kṛṣṇa) depends on faith whose sign is the birth of [the eagerness] to hear, born of the company of sādhus.
 
 ## 266
 
-Until detachment (*nirveda*) has arisen on the path of *karma*, or faith in hearing about Me and the like has been born, let the *nitya* and *naimittika karma* (regular and occasional duties) and the rest be performed.
+Until detachment (*nirveda*) has arisen on the path of karma, or faith in hearing about Me and the like has been born, let the *nitya* and *naimittika karma* (regular and occasional duties) and the rest be performed.
 
 ## 267
 
-(You) have heard the conclusion of the *śāstras* about *karma* that obstructs devotion. Now see: devotees must surely give up the thirst for the five kinds of liberation, for they regard liberation as worthless as hell.
+(You) have heard the conclusion of the *śāstras* about karma that obstructs devotion. Now see: devotees must surely give up the thirst for the five kinds of liberation, for they regard liberation as worthless as hell.
 
 ## 269
 
-Mahārāja Bharata did not desire property, sons, relatives, wealth, or wife, so hard to give up, nor even royal fortune (Lakṣmī) with her kindly glance, whom the chief demigods long for. That was indeed fitting for him. For to *sādhus* like him, whose minds are devoted to serving Kṛṣṇa, even the liberation of *nirvāṇa* is worthless, to say nothing of earthly happiness.
+Mahārāja Bharata did not desire property, sons, relatives, wealth, or wife, so hard to give up, nor even royal fortune (Lakṣmī) with her kindly glance, whom the chief demigods long for. That was indeed fitting for him. For to sādhus like him, whose minds are devoted to serving Kṛṣṇa, even the liberation of *nirvāṇa* is worthless, to say nothing of earthly happiness.
 
 ## 270
 
@@ -194,19 +194,19 @@ The devotees of Nārāyaṇa, who see heaven, liberation, and hell as of equal w
 
 ## 271
 
-O *ācārya* of Tattvavāda! All pure devotees give up these two, “*mukti*” and “*karma*.” How sad that you have established that very *mukti* as the “*sādhya*” and *karma* as the “*sādhana*”!
+O ācārya of Tattvavāda! All pure devotees give up these two, “*mukti*” and “*karma*.” How sad that you have established that very *mukti* as the “*sādhya*” and karma as the “*sādhana*”!
 
 ## 277
 
-The Lord said, “O *ācārya* of the Tattvavādīs, the conclusions of your *sampradāya* are for the most part opposed to pure devotion. Still, I see in your *sampradāya* one great virtue: you accept the true and eternal form (*vigraha*) of the Lord.” The point is this: My *parama-guru* Śrī Mādhavendra Purī, relying on this chief conclusion, accepted the Mādhva-sampradāya.
+The Lord said, “O ācārya of the Tattvavādīs, the conclusions of your sampradāya are for the most part opposed to pure devotion. Still, I see in your sampradāya one great virtue: you accept the true and eternal form (*vigraha*) of the Lord.” The point is this: My *parama-guru* Śrī Mādhavendra Purī, relying on this chief conclusion, accepted the Mādhva-sampradāya.
 
 ## 282
 
-**Pāṇḍarapura** is the town of “Pāṇḍupura,” or “Pāṇḍarapura,” on the bank of the river Bhīmā. Research shows that here Mahāprabhu bestowed His mercy on Tukārāmācārya by giving him *harināma*. Tukārāma himself acknowledged this in his *abhaṅgas*. From Tukārāma, *kīrtana* with *mṛdaṅgas* and other instruments spread through that region.
+**Pāṇḍarapura** is the town of “Pāṇḍupura,” or “Pāṇḍarapura,” on the bank of the river Bhīmā. Research shows that here Mahāprabhu bestowed His mercy on Tukārāmācārya by giving him *harināma*. Tukārāma himself acknowledged this in his *abhaṅgas*. From Tukārāma, kīrtana with *mṛdaṅgas* and other instruments spread through that region.
 
 ## 300
 
-Mahāprabhu’s elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received the name “Śaṅkarāraṇya Svāmī.” While travelling through the land, he attained perfection (*siddhi*) at the holy place of Pāṇḍarapura, that is, he entered the spiritual abode. This news was given to Mahāprabhu by Śrī Raṅga Purī, a disciple of Mādhavendra Purī and a godbrother of Īśvara Purī.
+Mahāprabhu’s elder brother, Śrīmad Viśvarūpa, took sannyāsa and received the name “Śaṅkarāraṇya Svāmī.” While travelling through the land, he attained perfection (*siddhi*) at the holy place of Pāṇḍarapura, that is, he entered the spiritual abode. This news was given to Mahāprabhu by Śrī Raṅga Purī, a disciple of Mādhavendra Purī and a godbrother of Īśvara Purī.
 
 ## 347
 
@@ -224,7 +224,7 @@ Sārvabhauma: “My Lord, that is why I said You must certainly see him.”
 
 ## 361–362
 
-With natural compassion for other *jīvas* — that is, giving up altogether any hostility towards them (attempts, rooted in the urge to enjoy, to turn them away from Kṛṣṇa) — say with your lips, “Hari! Hari!” (Apart from this) in the age of Kali there is no other *dharma*: to serve pure Vaiṣṇavas and to read the scriptures of pure Vaiṣṇavas is the *jīva*’s only *dharma*.
+With natural compassion for other jīvas — that is, giving up altogether any hostility towards them (attempts, rooted in the urge to enjoy, to turn them away from Kṛṣṇa) — say with your lips, “Hari! Hari!” (Apart from this) in the age of Kali there is no other dharma: to serve pure Vaiṣṇavas and to read the scriptures of pure Vaiṣṇavas is the jīva’s only dharma.
 
 *Thus ends the ninth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

@@ -6,7 +6,7 @@
 
 ## 1
 
-The flood of *prema* of Caitanya’s countless devotees filled with water the desert that was the hearts of unfortunate people.
+The flood of prema of Caitanya’s countless devotees filled with water the desert that was the hearts of unfortunate people.
 
 ## 13
 

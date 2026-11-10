@@ -310,7 +310,7 @@ mahā-prasāda  giving  there  met (Him)  the servants
 mahāprabhu sabākāre kaila āliṅgana  
 Mahāprabhu  all of them  gave  embrace
 
-(30) There the servants of the Deity met Him and gave Him *mahā-prasāda*, and Mahāprabhu embraced them all.
+(30) There the servants of the Deity met Him and gave Him mahā-prasāda, and Mahāprabhu embraced them all.
 
 দরশন করি’ প্রভু চলিলা বাহিরে ৷  
 ভট্টাচার্য্য আনিল তাঁরে কাশীমিশ্র-ঘরে ॥ ৩১ ॥
@@ -750,7 +750,7 @@ then  that  Kṛṣṇadāsa  to Gauḍa  they sent
 vaiṣṇava-sabāke dite mahā-prasāda dila  
 to the Vaiṣṇavas all  to give  mahā-prasāda  they gave (him)
 
-(74) So they sent Kṛṣṇadāsa to Gauḍa with *mahā-prasāda* for all the Vaiṣṇavas.
+(74) So they sent Kṛṣṇadāsa to Gauḍa with mahā-prasāda for all the Vaiṣṇavas.
 
 তবে গৌড়দেশে আইলা কালা-কৃষ্ণদাস ৷  
 নবদ্বীপে গেল তেঁহ শচী-আই-পাশ ॥ ৭৫ ॥
@@ -770,7 +770,7 @@ mahā-prasāda  giving  to her  he made  obeisance
 dakṣiṇa haite āilā prabhu, — kahe samācāra  
 the south  from  has come  the Lord  he tells  the news
 
-(76) He gave her the *mahā-prasāda*, bowed to her and told her the news: the Lord had come back from the south.
+(76) He gave her the mahā-prasāda, bowed to her and told her the news: the Lord had come back from the south.
 
 শুনিয়া আনন্দিত হৈল শচীমাতার মন ৷  
 শ্রীবাসাদি আর যত যত ভক্তগণ ॥ ৭৭ ॥
@@ -800,7 +800,7 @@ to the Ācārya  prasāda  giving  making  obeisance
 samyak kahila mahāprabhura samācāra  
 fully  he told  of Mahāprabhu  the news
 
-(79) He gave the Ācārya the *prasāda*, bowed to Him and told Him all the news of Mahāprabhu.
+(79) He gave the Ācārya the prasāda, bowed to Him and told Him all the news of Mahāprabhu.
 
 শুনি’ আচার্য্য-গোসাঞির আনন্দ হইল ৷  
 প্রেমাবেশে বহু নৃত্য-গীত-হুঙ্কার কৈল ॥ ৮০ ॥
@@ -1993,7 +1993,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: *Anubhāṣya* (heading): the Lord keeps to propriety (*maryādā*); at 173 Brahmānanda Bhāratī is called “equal to a guru.” *Amṛta-pravāha-bhāṣya*: Brahmānanda Bhāratī was worthy of the Lord’s respect through his relation to Keśava Bhāratī.
 
-[^33]: *Anubhāṣya* (on 154): a garment of skin, grass or bark is worn only by one who has left home for the forest (Manu-saṁhitā, ch. 6); but to wear a skin out of pride, to win people’s regard, does not free one from saṁsāra: “Though the fruit of the kataka tree clears water, the water does not become clear merely by uttering its name” (Manu, 6.67) — so the mere bearing of outer signs is not the cause of dharma.
+[^33]: *Anubhāṣya* (on 154): a garment of skin, grass or bark is worn only by one who has left home for the forest (*Manu-saṁhitā*, ch. 6); but to wear a skin out of pride, to win people’s regard, does not free one from saṁsāra: “Though the fruit of the kataka tree clears water, the water does not become clear merely by uttering its name” (*Manu* 6.67) — so the mere bearing of outer signs is not the cause of dharma.
 
 [^34]: *Anubhāṣya*: “Your conduct is only to teach people. If I do not keep the right conduct You expect of me, You Yourself will not bow to me again and will disregard me. That is what I fear.”
 

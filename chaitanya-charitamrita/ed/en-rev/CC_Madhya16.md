@@ -450,7 +450,7 @@ Vāṇīnātha  Kāśī Miśra  prasāda  brought
 svahaste sabāre prabhu prasāda khāoyāila  
 with His own hand  all  the Lord  prasāda  fed
 
-(45) Vāṇīnātha and Kāśī Miśra brought *prasāda*, and the Lord served it to everyone with His own hand.
+(45) Vāṇīnātha and Kāśī Miśra brought prasāda, and the Lord served it to everyone with His own hand.
 
 পূর্ব্ব-বৎসরে যাঁর যেই বাসা-স্থান ৷  
 তাঁহা সবা পাঠাঞা করাইল বিশ্রাম ॥ ৪৬ ॥
@@ -530,7 +530,7 @@ of the Balagaṇḍi offering  much  prasāda  came
 sabā saṅge mahāprabhu prasāda khāila  
 all  with  Mahāprabhu  prasāda  ate
 
-(53) A great deal of *prasāda* came from the Balagaṇḍi offering, and Mahāprabhu honoured it with them all.
+(53) A great deal of prasāda came from the Balagaṇḍi offering, and Mahāprabhu honoured it with them all.
 
 পূর্ব্ববৎ রথযাত্রা কৈল দরশন ৷  
 হেরাপঞ্চমী-যাত্রা দেখে লঞা ভক্তগণ ॥ ৫৪ ॥
@@ -950,7 +950,7 @@ of Jagannātha  the prasāda  the Lord  as much as  had received
 kaḍāra candana, ḍora, saba saṅge laila  
 kaḍāra  sandalwood  ropes  all  with  He took
 
-(95) He took with Him all the *prasāda* of Jagannātha that He had received — *kaḍāra* ointment, sandalwood paste and ropes.
+(95) He took with Him all the prasāda of Jagannātha that He had received — *kaḍāra* ointment, sandalwood paste and ropes.
 
 জগন্নাথে আজ্ঞা মাগি’ প্রভাতে চলিলা ৷  
 ওড়িয়া ভক্তগণ সঙ্গে পাছে চলি’ আইলা ॥ ৯৬ ॥
@@ -980,7 +980,7 @@ Rāmānanda  came  behind  in a palanquin  riding
 vāṇīnātha bahu prasāda dila pāṭhāñā  
 Vāṇīnātha  much  prasāda  gave  sending
 
-(98) Rāmānanda came after Him, riding in a palanquin, and Vāṇīnātha sent a great deal of *prasāda*.
+(98) Rāmānanda came after Him, riding in a palanquin, and Vāṇīnātha sent a great deal of prasāda.
 
 প্রসাদ ভোজন করি’ তথায় রহিলা ৷  
 প্রাতঃকালে চলি’ প্রভু ‘ভুবনেশ্বর’ আইলা ॥ ৯৯ ॥
@@ -990,7 +990,7 @@ prasāda  eating  having done  there  He stayed
 prātaḥ-kāle cali’ prabhu ‘bhuvaneśvara’ āilā  
 in the morning  going  the Lord  to Bhuvaneśvara  came
 
-(99) After taking the *prasāda* He stayed there, and setting out in the morning, the Lord came to Bhuvaneśvara.
+(99) After taking the prasāda He stayed there, and setting out in the morning, the Lord came to Bhuvaneśvara.
 
 ‘কটকে’ আসিয়া কৈল ‘গোপাল’ দরশন ৷  
 স্বপ্নেশ্বর-বিপ্র কৈল প্রভুর নিমন্ত্রণ ॥ ১০০ ॥
@@ -1230,7 +1230,7 @@ at night  there  staying  in the morning  bathing  made
 hena-kāle jagannāthera mahā-prasāda āila  
 at that time  of Jagannātha  mahā-prasāda  came
 
-(123) He stayed there that night and bathed in the morning. Just then Jagannātha’s *mahā-prasāda* arrived.
+(123) He stayed there that night and bathed in the morning. Just then Jagannātha’s mahā-prasāda arrived.
 
 রাজার আজ্ঞায় পড়িছা পাঠায় দিনে দিনে ৷  
 বহুত প্রসাদ পাঠায় দিয়া বহু-জনে ॥ ১২৪ ॥
@@ -1240,7 +1240,7 @@ of the king  by the order  the paḍichā  sends  day  by day
 bahuta prasāda pāṭhāya diyā bahu-jane  
 abundant  prasāda  sends  by  many people
 
-(124) By the king’s order the *paḍichā* sent *prasāda* day after day — a great quantity of it, carried by many people.
+(124) By the king’s order the *paḍichā* sent prasāda day after day — a great quantity of it, carried by many people.
 
 স্বগণ-সহিতে প্রভু প্রসাদ অঙ্গীকরি’ ৷  
 উঠিয়া চলিলা প্রভু বলি’ ‘হরি’ ‘হরি’ ॥ ১২৫ ॥
@@ -1250,7 +1250,7 @@ with His own associates  the Lord  prasāda  accepting
 uṭhiyā calilā prabhu bali’ ‘hari’ ‘hari’  
 rising  set out  the Lord  saying  Hari  Hari
 
-(125) The Lord accepted the *prasāda* with His associates, then rose and set out, calling “Hari! Hari!”
+(125) The Lord accepted the prasāda with His associates, then rose and set out, calling “Hari! Hari!”
 
 রামানন্দ, মঙ্গরাজ, শ্রীহরিচন্দন ৷  
 সঙ্গে সেবা করি’ চলে এই তিন জন ॥ ১২৬ ॥

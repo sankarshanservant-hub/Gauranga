@@ -24,7 +24,7 @@
 
 ## 10
 
-> Subheading: The first 24 years, His household pastimes in Navadvīpa; the last 24 years, His enactment of *sannyāsa* in Nīlācala —
+> Subheading: The first 24 years, His household pastimes in Navadvīpa; the last 24 years, His enactment of sannyāsa in Nīlācala —
 
 ## 12
 
@@ -32,7 +32,7 @@
 
 ## 14
 
-> Subheading: The household pastimes are the Ādi-līlā, and the *sannyāsa* pastimes the Madhya- and Antya-līlā —
+> Subheading: The household pastimes are the Ādi-līlā, and the sannyāsa pastimes the Madhya- and Antya-līlā —
 
 ## 15
 
@@ -40,7 +40,7 @@
 
 ## 17
 
-> Subheading: The *sūtras* of these two are the source of every description of the Lord’s pastimes —
+> Subheading: The sūtras of these two are the source of every description of the Lord’s pastimes —
 
 ## 18
 
@@ -54,7 +54,7 @@
 
 ## 20
 
-> Subheading: Using the lunar eclipse as a pretext, the Lord moves the *jīvas* to chant Hari’s name —
+> Subheading: Using the lunar eclipse as a pretext, the Lord moves the jīvas to chant Hari’s name —
 
 ## 22
 
@@ -74,7 +74,7 @@
 
 ## 26
 
-> Subheading: As He grows, He moves the *jīvas* to chant the name at all times —
+> Subheading: As He grows, He moves the jīvas to chant the name at all times —
 
 ## 28
 
@@ -82,7 +82,7 @@
 
 ## 28–29
 
-The *Caitanya-bhāgavata* (Madhya-khaṇḍa, Chapter 1) says: “Absorbed, the Lord explains: in every *sūtra*, *vṛtti* and *ṭīkā* there is only the name of Hari. The Lord says, ‘At all times Kṛṣṇa’s name is true. All the scriptures speak of Kṛṣṇa and nothing else. Whoever leaves Kṛṣṇa’s feet and explains anything else wastes his life in unspeakable talk. Whoever explains the scriptures while giving up the worship of Kṛṣṇa is low and will never know their inner meaning. Not knowing the inner meaning of the scriptures, he takes up teaching them — and, like an ass, he only carries the scriptures about until he dies.’”
+The *Caitanya-bhāgavata* (Madhya-khaṇḍa, Chapter 1) says: “Absorbed, the Lord explains: in every sūtra, *vṛtti* and *ṭīkā* there is only the name of Hari. The Lord says, ‘At all times Kṛṣṇa’s name is true. All the scriptures speak of Kṛṣṇa and nothing else. Whoever leaves Kṛṣṇa’s feet and explains anything else wastes his life in unspeakable talk. Whoever explains the scriptures while giving up the worship of Kṛṣṇa is low and will never know their inner meaning. Not knowing the inner meaning of the scriptures, he takes up teaching them — and, like an ass, he only carries the scriptures about until he dies.’”
 
 ## 30
 
@@ -90,15 +90,15 @@ The *Caitanya-bhāgavata* (Madhya-khaṇḍa, Chapter 1) says: “Absorbed, the 
 
 ## 31
 
-> Subheading: In His youth He Himself performs *kīrtana* and so moves everyone to the name —
+> Subheading: In His youth He Himself performs kīrtana and so moves everyone to the name —
 
 ## 33
 
-> Subheading: For all 24 years in Navadvīpa He moves the *jīvas* to the name —
+> Subheading: For all 24 years in Navadvīpa He moves the jīvas to the name —
 
 ## 34
 
-> Subheading: Six of the last 24 years, spent in Nīlācala: preaching the name and *prema* from the ocean to the Himālayas —
+> Subheading: Six of the last 24 years, spent in Nīlācala: preaching the name and prema from the ocean to the Himālayas —
 
 ## 37
 
@@ -106,13 +106,13 @@ The *Caitanya-bhāgavata* (Madhya-khaṇḍa, Chapter 1) says: “Absorbed, the 
 
 ## 38
 
-> Subheading: Of the remaining 18 years, six: preaching *prema* by *kīrtana* and dance alone —
+> Subheading: Of the remaining 18 years, six: preaching prema by kīrtana and dance alone —
 
 ## 39
 
-> Subheading: The last 12 years: in separation from Kṛṣṇa He Himself tastes love for Kṛṣṇa at every moment and displays the states of *prema* —
+> Subheading: The last 12 years: in separation from Kṛṣṇa He Himself tastes love for Kṛṣṇa at every moment and displays the states of prema —
 
-One in whom *prema* has awakened abides in the transcendental *vipralambha-rasa*, the *rasa* of separation, which nourishes *sambhoga*, union. Śrī Gaurasundara wished to taste this state of *prema* Himself, and in this way He taught it to the *jīvas* of the world. Unless *vipralambha* arises, *sambhoga* is not nourished.
+One in whom prema has awakened abides in the transcendental *vipralambha-rasa*, the rasa of separation, which nourishes *sambhoga*, union. Śrī Gaurasundara wished to taste this state of prema Himself, and in this way He taught it to the jīvas of the world. Unless *vipralambha* arises, *sambhoga* is not nourished.
 
 ## 41
 
@@ -124,16 +124,16 @@ One in whom *prema* has awakened abides in the transcendental *vipralambha-rasa*
 
 > Subheading: With Svarūpa and Rāya He relishes Caṇḍīdāsa, Vidyāpati and the *Gīta-govinda* —
 
-Vidyāpati was a Vaiṣṇava poet who lived in Mithilā. He flourished during the reign of King Śivasiṁha and Queen Lachimādevī; that is, he composed his songs in the first quarter of the fourteenth century of the Śaka era. He appeared about a hundred years before Śrī Mahāprabhu’s manifest pastimes. He was a Maithila *brāhmaṇa*, and his descendant in the twelfth generation is alive today. His songs about Kṛṣṇa abound in examples of transcendental *vipralambha-rasa*. Those moods were what Śrī Mahāprabhu relished.
+Vidyāpati was a Vaiṣṇava poet who lived in Mithilā. He flourished during the reign of King Śivasiṁha and Queen Lachimādevī; that is, he composed his songs in the first quarter of the fourteenth century of the Śaka era. He appeared about a hundred years before Śrī Mahāprabhu’s manifest pastimes. He was a Maithila brāhmaṇa, and his descendant in the twelfth generation is alive today. His songs about Kṛṣṇa abound in examples of transcendental *vipralambha-rasa*. Those moods were what Śrī Mahāprabhu relished.
 
-Jayadeva was born, during the reign of Lakṣmaṇasena, the king of Bengal, to Bhojadeva and Vāmādevī. That period, according to some, is the eleventh or the twelfth century of the Śaka era. He lived for a long time in the city of Navadvīpa, the capital of Bengal. Jayadeva’s birthplace is the village of Kenduvilva in the district of Birbhum; according to others, Utkala (Orissa); according to still others, the South. He spent the last part of his life at Śrī Jagannātha-kṣetra. His book of poetry is called the *Gīta-govinda*, or *Aṣṭapadī*. It too abounds in transcendental *vipralambha-rasa*. It describes the *vipralambha-rasa* that nourishes the *rasa* of *sambhoga* — the separation that arose when the prince of Vraja left the place of the *rāsa* dance, as the *Śrīmad-Bhāgavatam* tells. For the commentaries on the *Aṣṭapadī* and the names of the commentators, see the *Vaiṣṇava-mañjuṣā* (issue 1).
+Jayadeva was born, during the reign of Lakṣmaṇasena, the king of Bengal, to Bhojadeva and Vāmādevī. That period, according to some, is the eleventh or the twelfth century of the Śaka era. He lived for a long time in the city of Navadvīpa, the capital of Bengal. Jayadeva’s birthplace is the village of Kenduvilva in the district of Birbhum; according to others, Utkala (Orissa); according to still others, the South. He spent the last part of his life at Śrī Jagannātha-kṣetra. His book of poetry is called the *Gīta-govinda*, or *Aṣṭapadī*. It too abounds in transcendental *vipralambha-rasa*. It describes the *vipralambha-rasa* that nourishes the rasa of *sambhoga* — the separation that arose when the prince of Vraja left the place of the rāsa dance, as the *Śrīmad-Bhāgavatam* tells. For the commentaries on the *Aṣṭapadī* and the names of the commentators, see the *Vaiṣṇava-mañjuṣā* (issue 1).
 
-Caṇḍīdāsa was born in a *brāhmaṇa* family in the village of Nānnura in the district of Birbhum, at the close of the first quarter of the fourteenth century of the Śaka era. He was probably a friend of Vidyāpati Ṭhākura. His writings abound in transcendental *vipralambha-rasa*.
+Caṇḍīdāsa was born in a brāhmaṇa family in the village of Nānnura in the district of Birbhum, at the close of the first quarter of the fourteenth century of the Śaka era. He was probably a friend of Vidyāpati Ṭhākura. His writings abound in transcendental *vipralambha-rasa*.
 
 The moods that blossomed in Caṇḍīdāsa and other devotees were Śrī Mahāprabhu’s most beloved delicacy. Steeped in the mood of Śrī Rādhā, Kṛṣṇacandra tasted *vipralambha-rasa* with His two intimate devotees, Śrī Dāmodara Svarūpa and Śrī Rāmānanda Rāya, and so fulfilled His own desire.
 
 
-Svayaṁ Bhagavān Śrī Gaurasundara, together with unequalled knowers of the truth of spiritual *kṛṣṇa-rasa* — Śrī Dāmodara Svarūpa, the crest jewel of the *paramahaṁsas*, and Śrī Rāya Rāmānanda — relished the transcendental songs composed by these three devotees. These songs unfold the countless varieties of the *mahābhāva* of Śrī Rādhikā, “full of Kṛṣṇa” (*kṛṣṇamayī*), towards Śrī Nandanandana, the unequalled Enjoyer, whose form is eternity, knowledge and bliss. Only the most fortunate person can always follow them: one who is indifferent both to enjoyment and to renunciation in this perishable gross and subtle world, who is supremely liberated and owns nothing (*niṣkiñcana*), and who eternally longs to serve Śrī Rādhā. People who delight in mundane poetic *rasa*, who love godless literature, who take pleasure in the body — for the sake of research — and the *prākṛta-sahajiyā* sect — to gratify their material senses, fancying themselves *rāgānuga* — show the impudence of discussing the songs of Caṇḍīdāsa, Vidyāpati and Jayadeva. As a result, licentiousness and atheism grow in the world, and this leads them to hell. Unqualified people, who take the body for the self, are full of thirst for what is unworthy and burdened with *anarthas*, may take the supramundane pastimes of Śrī Rādhā and Kṛṣṇa, worshipped by the supremely liberated, to be the tasteless, vile amorous sports of a mundane hero and heroine, or something like them — and end up gratifying their senses. Therefore any kind of discussion of the pastimes of Rādhā and Kṛṣṇa is strictly forbidden to them.
+Svayaṁ Bhagavān Śrī Gaurasundara, together with unequalled knowers of the truth of spiritual *kṛṣṇa-rasa* — Śrī Dāmodara Svarūpa, the crest jewel of the *paramahaṁsas*, and Śrī Rāya Rāmānanda — relished the transcendental songs composed by these three devotees. These songs unfold the countless varieties of the *mahābhāva* of Śrī Rādhikā, “full of Kṛṣṇa” (*kṛṣṇamayī*), towards Śrī Nandanandana, the unequalled Enjoyer, whose form is eternity, knowledge and bliss. Only the most fortunate person can always follow them: one who is indifferent both to enjoyment and to renunciation in this perishable gross and subtle world, who is supremely liberated and owns nothing (*niṣkiñcana*), and who eternally longs to serve Śrī Rādhā. People who delight in mundane poetic rasa, who love godless literature, who take pleasure in the body — for the sake of research — and the *prākṛta-sahajiyā* sect — to gratify their material senses, fancying themselves *rāgānuga* — show the impudence of discussing the songs of Caṇḍīdāsa, Vidyāpati and Jayadeva. As a result, licentiousness and atheism grow in the world, and this leads them to hell. Unqualified people, who take the body for the self, are full of thirst for what is unworthy and burdened with *anarthas*, may take the supramundane pastimes of Śrī Rādhā and Kṛṣṇa, worshipped by the supremely liberated, to be the tasteless, vile amorous sports of a mundane hero and heroine, or something like them — and end up gratifying their senses. Therefore any kind of discussion of the pastimes of Rādhā and Kṛṣṇa is strictly forbidden to them.
 
 ## 43
 
@@ -145,11 +145,11 @@ Svayaṁ Bhagavān Śrī Gaurasundara, together with unequalled knowers of the t
 
 ## 46
 
-> Subheading: Murāri and Śrī Svarūpa compiled the Ādi-līlā and the last pastimes in *sūtras* of their own —
+> Subheading: Murāri and Śrī Svarūpa compiled the Ādi-līlā and the last pastimes in sūtras of their own —
 
 ## 47
 
-> Subheading: Relying on those *sūtras*, Ṭhākura Vṛndāvana dāsa describes Gaura’s pastimes —
+> Subheading: Relying on those sūtras, Ṭhākura Vṛndāvana dāsa describes Gaura’s pastimes —
 
 ## 48
 
@@ -165,7 +165,7 @@ Svayaṁ Bhagavān Śrī Gaurasundara, together with unequalled knowers of the t
 
 ## 51
 
-> Subheading: The *sūtras* of the Ādi-līlā begin —
+> Subheading: The sūtras of the Ādi-līlā begin —
 
 ## 52
 
@@ -211,7 +211,7 @@ In the temple stands the Deity of Kṛṣṇa installed by Śrīman Nityānanda 
 
 The servitors, the “Gosvāmīs,” are a branch of the family of Śrī Gopījana-vallabhānanda, a descendant of Nityānanda. An estate (*zamindari*) is settled in the Gosvāmīs’ name for the service, and the service is maintained from its income. The “Gosvāmīs” are three shareholders, and they serve by turns. Śrīyukta Goṣṭhavihārī “Gosvāmī” holds a share of eight annas eight *gaṇḍās* in the estate; Śrīyukta Vijayacandra “Gosvāmī” and others, five annas fourteen *gaṇḍās*; and Śrīyukta Prasanna Kumāra Bandyopādhyāya (a daughter’s son of the “Gosvāmīs”), one anna eighteen *gaṇḍās*[^61-1].
 
-Not far from the temple is a place called Viśrāmatalā. Legend has it that here, in His childhood, Śrī Nityānanda Prabhu acted out various pastimes of Vraja and the *rāsa* dance with His friends.
+Not far from the temple is a place called Viśrāmatalā. Legend has it that here, in His childhood, Śrī Nityānanda Prabhu acted out various pastimes of Vraja and the rāsa dance with His friends.
 
 At a place called Āmlītalā stands a spreading tamarind tree. The Neḍās and similar sects have invented many fanciful stories about this place. Legend has it that a pond called “Śvetagaṅgā” was dug by Vīrabhadra Prabhu’s twelve hundred Neḍās. A little farther on are the memorial pillars over the Gosvāmīs’ tombs. Crossing the Yamunā, which flows north from Mauḍeśvara to the river Dvārakeśvara, one comes within half a mile to the temple at Śrī Nityānanda Prabhu’s birthplace (*sūtikā-mandira*). In front of it stood an old *nāṭa-mandira*; it is now in ruins and covered by a spreading banyan. Later a temple was built in that courtyard, and the Deities of Śrī Gaura and Nityānanda reside in it. A stone tablet in the *jagamohana* records that this temple was restored in the month of Vaiśākha, 1323, in memory of the late Prasannakumāra, the steward (*kārpharmā*).
 
@@ -237,7 +237,7 @@ See Ādi 3.93.
 
 ## 64
 
-> Subheading: Advaita explains *bhakti* —
+> Subheading: Advaita explains bhakti —
 
 ## 65
 
@@ -249,7 +249,7 @@ See Ādi 3.93.
 
 ## 67
 
-> Subheading: Having appeared in the world, the Ācārya sees the *jīvas* bent on sense pleasure and grieves —
+> Subheading: Having appeared in the world, the Ācārya sees the jīvas bent on sense pleasure and grieves —
 
 ## 68
 
@@ -283,7 +283,7 @@ See Ādi 3.95–109 and the *Caitanya-bhāgavata*, Ādi-khaṇḍa, Chapter 2.
 
 > Subheading: Their ninth child, Viśvarūpa —
 
-Viśvarūpa was the elder brother of Śrī Gaurahari. Before marrying He took *sannyāsa* and received the name “Śaṅkarāraṇya.” In Śaka 1431 He departed from this world at Pāṇḍerapura in the district of Sholapur, in the Bombay Presidency. He is both causes of the universe, the “material” (*upādāna*) and the “efficient” (*nimitta*). The *Gaura-gaṇoddeśa* (verses 58–59) says: “Because the part and the whole are not different, the son of Śacī is the original *vyūha*; Baladeva is Viśvarūpa, considered the *vyūha* Saṅkarṣaṇa; and Nityānanda Avadhūta is also called He, by way of *prakāśa*.” In the *Gauracandrodaya*, Kali says to Dharma: “His elder brother, without ever taking a wife — Saṅkarṣaṇa, that Bhagavān who on earth was Viśvarūpa — gave, it is said, His own effulgence to Purīśvara, took *sannyāsa* before Him and left this world.”
+Viśvarūpa was the elder brother of Śrī Gaurahari. Before marrying He took sannyāsa and received the name “Śaṅkarāraṇya.” In Śaka 1431 He departed from this world at Pāṇḍerapura in the district of Sholapur, in the Bombay Presidency. He is both causes of the universe, the “material” (*upādāna*) and the “efficient” (*nimitta*). The *Gaura-gaṇoddeśa* (verses 58–59) says: “Because the part and the whole are not different, the son of Śacī is the original *vyūha*; Baladeva is Viśvarūpa, considered the *vyūha* Saṅkarṣaṇa; and Nityānanda Avadhūta is also called He, by way of *prakāśa*.” In the *Gauracandrodaya*, Kali says to Dharma: “His elder brother, without ever taking a wife — Saṅkarṣaṇa, that Bhagavān who on earth was Viśvarūpa — gave, it is said, His own effulgence to Purīśvara, took sannyāsa before Him and left this world.”
 
 And there too: “…Nityānanda Avadhūta, glorified as the Effulgence — indeed, Saṅkarṣaṇa…”[^74-1] And further: “When this eternal Śrī Viśvarūpa left this world, He joined with Nityānanda Avadhūta and remained [in Him].”
 
@@ -329,9 +329,9 @@ Referring to the pastime in which Baladeva killed the demon Dhenuka, Śukadeva s
 
 ## 80–86
 
-The conclusion is this. Jagannātha and Śacī are eternally perfect (*nitya-siddha*), and so their hearts and bodies consist of pure goodness (*śuddha-sattva*) and are not at all like those of ordinary mundane *jīvas*. Pure goodness (*viśuddha-sattva*) is called “Vasudeva”; it is in Vasudeva that Vāsudeva, who enjoys spiritual pastimes, becomes manifest (see the *Vivṛti* in the *Gauḍīya-bhāṣya* on *Śrīmad-Bhāgavatam* 4.3.23). The union of Śrī Jagannātha and Śacīdevī and the conception in Śacīdevī were not like the amorous play and the pregnancy of men and women with mundane bodies of blood and flesh, absorbed in gratifying their material senses. Therefore even to think so in one’s mind is an offence. One who reflects with a heart turned towards the service of Bhagavān will grasp the glory of the transcendental womb of Śrī Śacīdevī, who is made entirely of pure goodness. The *Śrīmad-Bhāgavatam* (10.2.16) says: “Bhagavān, the Soul of the universe, who frees His devotees from fear, entered the mind of Ānakadundubhi with His portion.” Śrīdhara Svāmī comments: “‘Entered the mind’ — He became manifest in the mind; the meaning is that He has no connection with bodily elements (*dhātu*), as the *jīvas* do.” In this connection see also *Śrīmad-Bhāgavatam* 10.2.18 and 19.
+The conclusion is this. Jagannātha and Śacī are eternally perfect (*nitya-siddha*), and so their hearts and bodies consist of pure goodness (*śuddha-sattva*) and are not at all like those of ordinary mundane jīvas. Pure goodness (*viśuddha-sattva*) is called “Vasudeva”; it is in Vasudeva that Vāsudeva, who enjoys spiritual pastimes, becomes manifest (see the *Vivṛti* in the *Gauḍīya-bhāṣya* on *Śrīmad-Bhāgavatam* 4.3.23). The union of Śrī Jagannātha and Śacīdevī and the conception in Śacīdevī were not like the amorous play and the pregnancy of men and women with mundane bodies of blood and flesh, absorbed in gratifying their material senses. Therefore even to think so in one’s mind is an offence. One who reflects with a heart turned towards the service of Bhagavān will grasp the glory of the transcendental womb of Śrī Śacīdevī, who is made entirely of pure goodness. The *Śrīmad-Bhāgavatam* (10.2.16) says: “Bhagavān, the Soul of the universe, who frees His devotees from fear, entered the mind of Ānakadundubhi with His portion.” Śrīdhara Svāmī comments: “‘Entered the mind’ — He became manifest in the mind; the meaning is that He has no connection with bodily elements (*dhātu*), as the jīvas do.” In this connection see also *Śrīmad-Bhāgavatam* 10.2.18 and 19.
 
-On the same subject, here is a rendering of the sense of verses 160–165 from the section on the manifestation of the manifest pastimes in Śrī Rūpa Gosvāmī Prabhu’s *Laghu-bhāgavatāmṛta*. The words of the *Śrīmad-Bhāgavatam* (10.2.16), “He entered the mind of Ānakadundubhi with His portion,” mean that Kṛṣṇa first became manifest in the heart of Ānakadundubhi. Then from Ānakadundubhi’s heart He became manifest in Devakī’s heart. Fondled by the nectar of loving bliss, Devakī’s parental love, Śrī Kṛṣṇa grew more and more in her heart, like the waxing moon. Then Śrī Kṛṣṇa vanished from Devakī’s heart and appeared on her bed in the birth chamber of Kaṁsa’s prison. Devakī and the others, under the sway of *yogamāyā*, then thought that the child had been born in the ordinary way, easily and happily. Such humanlike yet transcendental feelings of the devotee and Bhagavān, supremely delightful, serve the most wonderful spiritual pastimes. They bewilder even great sages enchanted by *māyā*, and they establish that Mathurā-dhāma is higher even than Paravyoma-Vaikuṇṭha. Thus Śrī Kṛṣṇa eternally remains the eternal son of the eternal Yaśodā, and in the same way He enjoys pastimes in the endless unmanifest *līlā* as well. Śrī Līlā-puruṣottama Śrī Kṛṣṇa eternally sports in Vraja, rejoicing in such pastimes: they give bliss to His dearest devotees and astonish Him as well. Under the sway of the transcendental parental love of the transcendental Nanda and Yaśodā — a love that has no equal and none higher — Bhagavān eternally knows Himself as their eternal son. In the Tenth Canto (10.5.1): “When a son was born to the great-hearted Nanda, he was overjoyed.” In the same Tenth Canto (10.6.43): “Generous-hearted Nanda, returning from abroad, took his son Kṛṣṇa on his lap, smelled His head and was filled with supreme bliss.” And again (10.9.21): “This Bhagavān Śrī Kṛṣṇa, the son of a cowherd woman, so easily reached by devotees, is never easily attained by those who take the body for the self, by ascetics, or by *jñānīs* who contemplate the self.”
+On the same subject, here is a rendering of the sense of verses 160–165 from the section on the manifestation of the manifest pastimes in Śrī Rūpa Gosvāmī Prabhu’s *Laghu-bhāgavatāmṛta*. The words of the *Śrīmad-Bhāgavatam* (10.2.16), “He entered the mind of Ānakadundubhi with His portion,” mean that Kṛṣṇa first became manifest in the heart of Ānakadundubhi. Then from Ānakadundubhi’s heart He became manifest in Devakī’s heart. Fondled by the nectar of loving bliss, Devakī’s parental love, Śrī Kṛṣṇa grew more and more in her heart, like the waxing moon. Then Śrī Kṛṣṇa vanished from Devakī’s heart and appeared on her bed in the birth chamber of Kaṁsa’s prison. Devakī and the others, under the sway of *yogamāyā*, then thought that the child had been born in the ordinary way, easily and happily. Such humanlike yet transcendental feelings of the devotee and Bhagavān, supremely delightful, serve the most wonderful spiritual pastimes. They bewilder even great sages enchanted by māyā, and they establish that Mathurā-dhāma is higher even than Paravyoma-Vaikuṇṭha. Thus Śrī Kṛṣṇa eternally remains the eternal son of the eternal Yaśodā, and in the same way He enjoys pastimes in the endless unmanifest *līlā* as well. Śrī Līlā-puruṣottama Śrī Kṛṣṇa eternally sports in Vraja, rejoicing in such pastimes: they give bliss to His dearest devotees and astonish Him as well. Under the sway of the transcendental parental love of the transcendental Nanda and Yaśodā — a love that has no equal and none higher — Bhagavān eternally knows Himself as their eternal son. In the Tenth Canto (10.5.1): “When a son was born to the great-hearted Nanda, he was overjoyed.” In the same Tenth Canto (10.6.43): “Generous-hearted Nanda, returning from abroad, took his son Kṛṣṇa on his lap, smelled His head and was filled with supreme bliss.” And again (10.9.21): “This Bhagavān Śrī Kṛṣṇa, the son of a cowherd woman, so easily reached by devotees, is never easily attained by those who take the body for the self, by ascetics, or by *jñānīs* who contemplate the self.”
 
 Śrīpāda Baladeva Vidyābhūṣaṇa writes: “This [portion], having become one with Kṛṣṇa — Svayaṁ Bhagavān in His form, who dwelt in Ānakadundubhi’s heart — becomes manifest in Devakī’s heart. For Śrī Śuka says: ‘Then the goddess (“meaning: made of pure goodness,” says Svāmipāda) held in her mind the portion of Acyuta — the auspiciousness of the world, the Soul of all, the Self — placed in her (“properly placed, that is, imparted through initiation according to the rules,” says Svāmipāda) by the son of Śūra, as the east holds the delightful moon’ (*Śrīmad-Bhāgavatam* 10.2.18). Although it says ‘in Devakī’s heart,’ it should be understood that He was in her womb, as the gods’ prayer shows: ‘Fortunately, O mother, the Supreme Person is in your womb’ (*Śrīmad-Bhāgavatam* 10.2.41). *** And in the section on the birth: ‘In Devakī, whose form is divine, Viṣṇu, who dwells in everyone’s heart, appeared, like the full moon in the east’ (*Śrīmad-Bhāgavatam* 10.3.8).”
 
@@ -365,11 +365,11 @@ The *aṣṭa-varga*: the *aṣṭa-varga* is calculated by drawing prescribed l
 
 ## 92
 
-> Subheading: The lunar eclipse, and on that occasion the *jīvas* chant Hari’s name —
+> Subheading: The lunar eclipse, and on that occasion the jīvas chant Hari’s name —
 
 ## 94
 
-> Subheading: The Lord descends while the *jīvas* chant Hari’s name —
+> Subheading: The Lord descends while the jīvas chant Hari’s name —
 
 ## 95
 
@@ -385,7 +385,7 @@ The *aṣṭa-varga*: the *aṣṭa-varga* is calculated by drawing prescribed l
 
 ## 98
 
-> Subheading: The *sūtra* of the Lord’s birth: Gaurahari appears amid the *kīrtana* of Hari’s name —
+> Subheading: The sūtra of the Lord’s birth: Gaurahari appears amid the kīrtana of Hari’s name —
 
 ## 99
 
@@ -397,7 +397,7 @@ The *aṣṭa-varga*: the *aṣṭa-varga* is calculated by drawing prescribed l
 
 > Subheading: The lunar eclipse: the people chant Hari’s name —
 
-*Uparāga* means an eclipse. *Manobale*: with eagerness of mind; or else, He gave gifts to the *brāhmaṇas* in His mind. The *Śrīmad-Bhāgavatam* (10.3.11) says: “Then Ānakadundubhi, his eyes wide with wonder, saw that his son was Hari. Stirred by the festival of Kṛṣṇa’s descent, he joyfully bathed [in his mind] and [in his mind] gave ten thousand cows to the *brāhmaṇas*.” Seeing Bhagavān Hari as his son, Vasudeva rejoiced at the festival of Kṛṣṇa’s birth and in the prison gave ten thousand cows to the *brāhmaṇas* in his mind.
+*Uparāga* means an eclipse. *Manobale*: with eagerness of mind; or else, He gave gifts to the brāhmaṇas in His mind. The *Śrīmad-Bhāgavatam* (10.3.11) says: “Then Ānakadundubhi, his eyes wide with wonder, saw that his son was Hari. Stirred by the festival of Kṛṣṇa’s descent, he joyfully bathed [in his mind] and [in his mind] gave ten thousand cows to the brāhmaṇas.” Seeing Bhagavān Hari as his son, Vasudeva rejoiced at the festival of Kṛṣṇa’s birth and in the prison gave ten thousand cows to the brāhmaṇas in his mind.
 
 ## 101
 
@@ -491,7 +491,7 @@ The two brothers are Viśvarūpa and Viśvambhara. *Ḍākinīs* and *śākhinī
 
 > Subheading: Śacī and Miśra show honour —
 
-“On the day of the mother’s bath”: that is, on the day of the *niṣkrāmaṇa*, the child’s first going out of the house. In Bengal in former times the *brāhmaṇas* and other *varṇas* observed the impurity of childbirth (*jananāśauca*) for four months, followed by the rite of seeing the sun (*sūrya-darśana*). Later, instead of four months, twenty-one days of birth impurity were prescribed for the twice-born *varṇas*, the *brāhmaṇas* and others, while among the *śūdras* and others a month is still observed. Among the Kartābhajās and in the Satīmā group the birth impurity ends at once, with a *harinuṭ* (a scattering of sweets in Hari’s name).
+“On the day of the mother’s bath”: that is, on the day of the *niṣkrāmaṇa*, the child’s first going out of the house. In Bengal in former times the brāhmaṇas and other *varṇas* observed the impurity of childbirth (*jananāśauca*) for four months, followed by the rite of seeing the sun (*sūrya-darśana*). Later, instead of four months, twenty-one days of birth impurity were prescribed for the twice-born *varṇas*, the brāhmaṇas and others, while among the śūdras and others a month is still observed. Among the Kartābhajās and in the Satīmā group the birth impurity ends at once, with a *harinuṭ* (a scattering of sweets in Hari’s name).
 
 This custom at parting is still seen in Bengali social life. When relatives or in-laws visit someone’s home, the householder honours them at their departure with cloth and other gifts. Having received such honour from Jagannātha Miśra and Śacīdevī, Sītā Ṭhākurāṇī returned to Śāntipura.
 
@@ -505,7 +505,7 @@ This custom at parting is still seen in Bengali social life. When relatives or i
 
 > Subheading: Miśra, a peaceful, self-controlled and generous Vaiṣṇava —
 
-Mundane, worldly people, for the sake of wife, sons and the like, take pride in enjoying wealth and bustle after it. The pure devotee Jagannātha Miśra was not like that. He offered everything he had to Bhagavān and gave the remnants to worthy recipients, *brāhmaṇas* and others. He accepted nothing for the sake of his own enjoyment.
+Mundane, worldly people, for the sake of wife, sons and the like, take pride in enjoying wealth and bustle after it. The pure devotee Jagannātha Miśra was not like that. He offered everything he had to Bhagavān and gave the remnants to worthy recipients, brāhmaṇas and others. He accepted nothing for the sake of his own enjoyment.
 
 ## 121
 
@@ -523,15 +523,15 @@ Mundane, worldly people, for the sake of wife, sons and the like, take pride in 
 
 *Amṛta-dhunī*: a river of nectar. Whoever refuses to drink the water of the nectarean stream of devotion to Kṛṣṇa and drinks the water of the poisonous well of sense objects (harmful to the soul) is utterly dead, and should not go on living.
 
-In Śrīmat Prabodhānanda Sarasvatīpāda’s *Caitanya-candrāmṛta*: “This world is without consciousness (*acaitanya*) if it does not worship Caitanya, the Lord whom the best of the immortals worship: death surrounds it on every side.” “This world is without consciousness if it does not know Caitanya, the Lord: such people, though they know all the scriptures, wander astray.” “Now that the moon of Caitanya has risen and the ocean of the nectarean *rasa* of great *prema* has spread wide, whoever remains poor is poor indeed.” “Now that Gauracandra has descended, the ocean of *prema* has spread wide and its heaps of jewels shine brightly, whoever remains poor is poor indeed.”
+In Śrīmat Prabodhānanda Sarasvatīpāda’s *Caitanya-candrāmṛta*: “This world is without consciousness (*acaitanya*) if it does not worship Caitanya, the Lord whom the best of the immortals worship: death surrounds it on every side.” “This world is without consciousness if it does not know Caitanya, the Lord: such people, though they know all the scriptures, wander astray.” “Now that the moon of Caitanya has risen and the ocean of the nectarean rasa of great prema has spread wide, whoever remains poor is poor indeed.” “Now that Gauracandra has descended, the ocean of prema has spread wide and its heaps of jewels shine brightly, whoever remains poor is poor indeed.”
 
-The *Śrīmad-Bhāgavatam* (2.3.19, 20, 23) says: “A man into whose ears the name of Gadāgraja has never entered is an animal, praised by dogs, dung-eating hogs, camels and asses.” “O Sūta, the ears of a man who does not hear of the exploits of Urukrama are mere holes; and the wicked tongue that does not sing the songs of Urugāya is like the tongue of a frog.” “A mortal who has never taken on himself the dust of the feet of a *bhāgavata* is a corpse though alive; and a man who has never known the fragrance of the *tulasī* from Śrī Viṣṇu’s feet is a breathing corpse.” (*Śrīmad-Bhāgavatam* 10.1.4): “The recounting of Uttamaśloka’s qualities is sung by those free of thirst; it is the medicine for the disease of worldly existence and a delight to the ear and the mind. Who, except a killer of animals, would turn away from it?” (*Śrīmad-Bhāgavatam* 3.23.56): “… whoever does not live for the service of Him whose feet are holy places is dead though alive.”
+The *Śrīmad-Bhāgavatam* (2.3.19, 20, 23) says: “A man into whose ears the name of Gadāgraja has never entered is an animal, praised by dogs, dung-eating hogs, camels and asses.” “O Sūta, the ears of a man who does not hear of the exploits of Urukrama are mere holes; and the wicked tongue that does not sing the songs of Urugāya is like the tongue of a frog.” “A mortal who has never taken on himself the dust of the feet of a *bhāgavata* is a corpse though alive; and a man who has never known the fragrance of the tulasī from Śrī Viṣṇu’s feet is a breathing corpse.” (*Śrīmad-Bhāgavatam* 10.1.4): “The recounting of Uttamaśloka’s qualities is sung by those free of thirst; it is the medicine for the disease of worldly existence and a delight to the ear and the mind. Who, except a killer of animals, would turn away from it?” (*Śrīmad-Bhāgavatam* 3.23.56): “… whoever does not live for the service of Him whose feet are holy places is dead though alive.”
 
 ## 124
 
-The lotus feet of Śrī Mahāprabhu, Nityānanda, Advaita, Dāmodara Svarūpa, Rūpa and Raghunātha dāsa are the very own wealth of Śrī Kṛṣṇadāsa Kavirāja Gosvāmī and of the pure, or intimate, devotees who follow him. The wealth of worldly people is a price set by *māyā*; in truth it deserves the name “debt.” The *jīva* who has turned away from Kṛṣṇa does not know that the highest goal is wealth, and takes lust (*kāma*), a debt in the form of material enjoyment, to be “wealth.” Worldly *jīvas* bustle after the things they take for wealth, but in these the servants of Hari see only a growth of debt, not a growth of wealth. On the other hand, when Bhagavān makes someone rich by giving him the wealth of His mercy, He takes away his material riches. “Upon whom I bestow My mercy, I gradually take away his wealth”[^124-1]. Ṭhākura Narottama says: “My wealth is Nityānanda”; “The holy feet of Rādhā and Kṛṣṇa are the wealth of my life”; “Glory to You, O purifier of the fallen! Give me this wealth; nothing but You appeals to me”; “The feet of Śrī Rūpa-mañjarī are my treasure, my worship and adoration, the wealth of my life”; “Carelessly I lost the jewel-wealth of *prema*. Striving for what is no wealth, I gave up true wealth” — and so on.
+The lotus feet of Śrī Mahāprabhu, Nityānanda, Advaita, Dāmodara Svarūpa, Rūpa and Raghunātha dāsa are the very own wealth of Śrī Kṛṣṇadāsa Kavirāja Gosvāmī and of the pure, or intimate, devotees who follow him. The wealth of worldly people is a price set by māyā; in truth it deserves the name “debt.” The jīva who has turned away from Kṛṣṇa does not know that the highest goal is wealth, and takes lust (*kāma*), a debt in the form of material enjoyment, to be “wealth.” Worldly jīvas bustle after the things they take for wealth, but in these the servants of Hari see only a growth of debt, not a growth of wealth. On the other hand, when Bhagavān makes someone rich by giving him the wealth of His mercy, He takes away his material riches. “Upon whom I bestow My mercy, I gradually take away his wealth”[^124-1]. Ṭhākura Narottama says: “My wealth is Nityānanda”; “The holy feet of Rādhā and Kṛṣṇa are the wealth of my life”; “Glory to You, O purifier of the fallen! Give me this wealth; nothing but You appeals to me”; “The feet of Śrī Rūpa-mañjarī are my treasure, my worship and adoration, the wealth of my life”; “Carelessly I lost the jewel-wealth of prema. Striving for what is no wealth, I gave up true wealth” — and so on.
 
-The *smārtas*, guided by the notion of kinship by seed, impute *śūdra*-hood — the lack of *brāhmaṇa* status — to the lotus feet of Śrī Raghunātha dāsa; in their wealth of devotion this is only a debt. But to realise transcendental *brāhmaṇa*-hood in his lotus feet is the devotee’s very own wealth.
+The *smārtas*, guided by the notion of kinship by seed, impute *śūdra*-hood — the lack of brāhmaṇa status — to the lotus feet of Śrī Raghunātha dāsa; in their wealth of devotion this is only a debt. But to realise transcendental *brāhmaṇa*-hood in his lotus feet is the devotee’s very own wealth.
 
 *Thus ends the thirteenth chapter of the “Anubhāṣya.”*
 

@@ -634,7 +634,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^5]: Heading in the edition: “His glory: though Viṣṇu Himself, He acts as a Vaiṣṇava.” *Amṛta-pravāha-bhāṣya*: Vīracandra Prabhu is the vyūha of Śrī Saṅkarṣaṇa who lies on the ocean of milk; though He is the Lord Himself, He regarded Himself as a Vaiṣṇava.
 
-[^6]: “His side” is Nityānanda’s: by verse 14, Mahāprabhu sent these two to Gauḍa with Him; so too the edition’s heading to verse 14: “Together with Nitāi both preach in Gauḍa.” Heading in the edition: “Ṭhākura Abhirāma (the first of the twelve gopālas) and Dāsa Gadādhara.” *Amṛta-pravāha-bhāṣya*: Rāmadāsa is Abhirāma dāsa. *Anubhāṣya*: Abhirāma, whose very life was Nityānanda, is Śrīdāma of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 126); at Nityānanda’s command he became an ācārya and preacher of bhakti, and love for Kṛṣṇa awoke in anyone he struck with his whip “Jayamaṅgala”. On Gadādhara dāsa see Ādi 10.53.
+[^6]: “His side” is Nityānanda’s: by verse 14, Mahāprabhu sent these two to Gauḍa with Him; so too the edition’s heading to verse 14: “Together with Nitāi both preach in Gauḍa.” Heading in the edition: “Ṭhākura Abhirāma (the first of the twelve gopālas) and Dāsa Gadādhara.” *Amṛta-pravāha-bhāṣya*: Rāmadāsa is Abhirāma dāsa. *Anubhāṣya*: Abhirāma, whose very life was Nityānanda, is Śrīdāma of Vraja (*Gaura-gaṇoddeśa-dīpikā* 126); at Nityānanda’s command he became an ācārya and preacher of bhakti, and love for Kṛṣṇa awoke in anyone he struck with his whip “Jayamaṅgala”. On Gadādhara dāsa see Ādi 10.53.
 
 [^7]: Heading in the edition: “Mādhava and Vāsu Ghoṣa Ṭhākura.” *Amṛta-pravāha-bhāṣya* (on 14–15): when Mahāprabhu sent Nityānanda to Gauḍa, He gave Him Rāmadāsa and Gadādhara dāsa as companions; that is why they are named both among Mahāprabhu’s devotees and among Nityānanda’s. The same is true of Mādhava and Vāsu Ghoṣa.
 
@@ -646,51 +646,51 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^11]: *Anubhāṣya*, quoting the *Caitanya-bhāgavata* (Antya 5): oblivious of his body, Caitanya dāsa would chase tigers through the forest and ride on them, take a huge python into his lap, and stay under water for two or three days. *Amṛta-pravāha-bhāṣya*: he was born at Sar-Vṛndāvanapura (Bardhamān district), and on coming to Modadruma (Māmgāchi) in Navadvīpa he received the name Śārṅga Murāri-caitanya dāsa.
 
-[^12]: Heading in the edition: “Nitāi’s associates are pure devotees, the friends of Vraja.” *Anubhāṣya*: all who took shelter of Nityānanda Prabhu belong to the sakhya-rasa of Vraja and wear the dress of cowherd boys. His consort, Īśvarī Jāhnavā Mātā, is Anaṅga-mañjarī, the younger sister of Śrīmatī Rādhikā (*Gaura-gaṇoddeśa-dīpikā*, 66), and the devotees who took shelter of her are also counted among Nityānanda’s associates.
+[^12]: Heading in the edition: “Nitāi’s associates are pure devotees, the friends of Vraja.” *Anubhāṣya*: all who took shelter of Nityānanda Prabhu belong to the sakhya-rasa of Vraja and wear the dress of cowherd boys. His consort, Īśvarī Jāhnavā Mātā, is Anaṅga-mañjarī, the younger sister of Śrīmatī Rādhikā (*Gaura-gaṇoddeśa-dīpikā* 66), and the devotees who took shelter of her are also counted among Nityānanda’s associates.
 
-[^13]: By the heading in the edition, the second of the twelve gopālas. *Anubhāṣya*: in Vraja he is Sudāma (*Gaura-gaṇoddeśa-dīpikā*, 127); the *Caitanya-bhāgavata* (Antya 6) calls him “an ocean of the rasa of love, the chief of Nityānanda’s companions”.
+[^13]: By the heading in the edition, the second of the twelve gopālas. *Anubhāṣya*: in Vraja he is Sudāma (*Gaura-gaṇoddeśa-dīpikā* 127); the *Caitanya-bhāgavata* (Antya 6) calls him “an ocean of the rasa of love, the chief of Nityānanda’s companions”.
 
-[^14]: By the heading in the edition, the third of the twelve gopālas. *Anubhāṣya*: in Vraja he is Mahābala (*Gaura-gaṇoddeśa-dīpikā*, 128); he installed the Deity of Jagannātha at Māhesh, and his descendants serve Him.
+[^14]: By the heading in the edition, the third of the twelve gopālas. *Anubhāṣya*: in Vraja he is Mahābala (*Gaura-gaṇoddeśa-dīpikā* 128); he installed the Deity of Jagannātha at Māhesh, and his descendants serve Him.
 
-[^15]: *Anubhāṣya*: Sūryadāsa Sarakhela lived at Śāligrāma near Navadvīpa; he received the title “Sarakhela” in the service of the Muslim ruler of Gauḍa. His daughters Vasudhā and Jāhnavā are the consorts of Śrī Nityānanda (*Gaura-gaṇoddeśa-dīpikā*, 65). Kṛṣṇadāsa Sarakhela was the younger brother of Sūryadāsa and of Gaurīdāsa Paṇḍita.
+[^15]: *Anubhāṣya*: Sūryadāsa Sarakhela lived at Śāligrāma near Navadvīpa; he received the title “Sarakhela” in the service of the Muslim ruler of Gauḍa. His daughters Vasudhā and Jāhnavā are the consorts of Śrī Nityānanda (*Gaura-gaṇoddeśa-dīpikā* 65). Kṛṣṇadāsa Sarakhela was the younger brother of Sūryadāsa and of Gaurīdāsa Paṇḍita.
 
-[^16]: By the heading in the edition, the fourth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Subala (*Gaura-gaṇoddeśa-dīpikā*, 128); the brother of Sūryadāsa Sarakhela, he moved from Śāligrāma to Ambikā-Kālnā on the bank of the Gaṅgā.
+[^16]: By the heading in the edition, the fourth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Subala (*Gaura-gaṇoddeśa-dīpikā* 128); the brother of Sūryadāsa Sarakhela, he moved from Śāligrāma to Ambikā-Kālnā on the bank of the Gaṅgā.
 
 [^17]: *Amṛta-pravāha-bhāṣya*: *pā̐ti* is the common meal (*paṅkti-bhojana*), the right to sit and eat in one row with one’s caste. Heading in the edition: “Gaurīdāsa Paṇḍita, whose life is Gaura and Nitāi.”
 
 [^18]: *Anubhāṣya*, quoting the *Caitanya-bhāgavata* (Antya 5): at Khaḍadaha, at the home of Purandara Paṇḍita, Nityānanda danced tirelessly, and Purandara, frenzied with love, climbed a tree, roared like a lion and leapt down crying, “I am Aṅgada!”
 
-[^19]: By the heading in the edition, the fifth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Arjuna (*Gaura-gaṇoddeśa-dīpikā*, 132); he accompanied Jāhnavā Mātā to the festival at Kheturi and at her command installed the Deities of Śrī Rādhā-Gopīnātha at Āṭpur. The *Vaiṣṇava-vandanā* says that he made even jackals utter the holy name.
+[^19]: By the heading in the edition, the fifth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Arjuna (*Gaura-gaṇoddeśa-dīpikā* 132); he accompanied Jāhnavā Mātā to the festival at Kheturi and at her command installed the Deities of Śrī Rādhā-Gopīnātha at Āṭpur. The *Vaiṣṇava-vandanā* says that he made even jackals utter the holy name.
 
 [^20]: *Anubhāṣya*: his śrīpāṭa is Yaśaḍā near Cākdaha; at Mahāprabhu’s command he preached the holy name in Nīlācala, and from there he brought a Deity of Jagannātha, whom he installed at Yaśaḍā.
 
-[^21]: By the heading in the edition, the sixth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Vasudāma (*Gaura-gaṇoddeśa-dīpikā*, 127); the *Caitanya-bhāgavata* (Antya 6) calls him “a wonderful mahānta, in whose heart Nityānanda ever dwells”. His chief śrīpāṭa is Śītalagrāma near Kāṭoyā.
+[^21]: By the heading in the edition, the sixth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Vasudāma (*Gaura-gaṇoddeśa-dīpikā* 127); the *Caitanya-bhāgavata* (Antya 6) calls him “a wonderful mahānta, in whose heart Nityānanda ever dwells”. His chief śrīpāṭa is Śītalagrāma near Kāṭoyā.
 
-[^22]: By the heading in the edition, the seventh of the twelve gopālas. *Anubhāṣya*: in Vraja he is Mahābāhu (*Gaura-gaṇoddeśa-dīpikā*, 129); he was with Nityānanda at the festival in Pānihāṭi and then went with Him to Saptagrāma.
+[^22]: By the heading in the edition, the seventh of the twelve gopālas. *Anubhāṣya*: in Vraja he is Mahābāhu (*Gaura-gaṇoddeśa-dīpikā* 129); he was with Nityānanda at the festival in Pāṇihāṭi and then went with Him to Saptagrāma.
 
-[^23]: By the heading in the edition, the eighth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Stoka-kṛṣṇa (*Gaura-gaṇoddeśa-dīpikā*, 130); the *Caitanya-bhāgavata* (Antya 6) says he was “born in Navadvīpa, the intimate great servant of Nityānanda”.
+[^23]: By the heading in the edition, the eighth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Stoka-kṛṣṇa (*Gaura-gaṇoddeśa-dīpikā* 130); the *Caitanya-bhāgavata* (Antya 6) says he was “born in Navadvīpa, the intimate great servant of Nityānanda”.
 
 [^24]: *Anubhāṣya*, quoting the *Caitanya-bhāgavata* (Antya 6): “Balarāma dāsa, drunk with the rasa of love — even a breeze from him destroys all sins.”
 
 [^25]: *Anubhāṣya* (from the *Caitanya-bhāgavata*): Yadunātha Kavicandra was the son of Ratnagarbha Ācārya, a friend of Nityānanda’s father from the same village; his brothers were Kṛṣṇānanda and Jīva (11.44, 11.50).
 
-[^26]: By the heading in the edition, the ninth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Lavaṅga (*Gaura-gaṇoddeśa-dīpikā*, 132); the *Caitanya-bhāgavata* (Antya 6): “Kāliyā Kṛṣṇadāsa is famed in the three worlds; whoever remembers him attains Gauracandra.” His śrīpāṭa is Ākāihāṭ near Kāṭoyā.
+[^26]: By the heading in the edition, the ninth of the twelve gopālas. *Anubhāṣya*: in Vraja he is Lavaṅga (*Gaura-gaṇoddeśa-dīpikā* 132); the *Caitanya-bhāgavata* (Antya 6): “Kāliyā Kṛṣṇadāsa is famed in the three worlds; whoever remembers him attains Gauracandra.” His śrīpāṭa is Ākāihāṭ near Kāṭoyā.
 
-[^27]: By the heading in the edition, Puruṣottama is the tenth of the twelve gopālas. *Anubhāṣya*: Sadāśiva Kavirāja was formerly, in Vraja, Candrāvalī, Kṛṣṇa’s beloved (*Gaura-gaṇoddeśa-dīpikā*, 156); his son is “Nāgara” Puruṣottama, the cowherd boy Dāma of Vraja (ibid., 131); Sadāśiva’s father was Kaṁsāri Sena (11.51). Rarely does one find, as in this family, four generations of perfected devotees of Gaura: Kaṁsāri Sena, Sadāśiva, Puruṣottama and Kānu Ṭhākura.
+[^27]: By the heading in the edition, Puruṣottama is the tenth of the twelve gopālas. *Anubhāṣya*: Sadāśiva Kavirāja was formerly, in Vraja, Candrāvalī, Kṛṣṇa’s beloved (*Gaura-gaṇoddeśa-dīpikā* 156); his son is “Nāgara” Puruṣottama, the cowherd boy Dāma of Vraja (ibid., 131); Sadāśiva’s father was Kaṁsāri Sena (11.51). Rarely does one find, as in this family, four generations of perfected devotees of Gaura: Kaṁsāri Sena, Sadāśiva, Puruṣottama and Kānu Ṭhākura.
 
 [^28]: Heading in the edition: “‘Nāgara’ Puruṣottama.”
 
 [^29]: *Anubhāṣya*: some count Kānu Ṭhākura among the twelve gopālas. According to his family tradition, his mother left the world soon after his birth, and Nityānanda Prabhu took the infant to Khaḍadaha and named him Śiśu Kṛṣṇadāsa; in Vṛndāvana, Śrī Jīva Gosvāmī and the people of Vraja gave him the name Ṭhākura Kānāi. His śrīpāṭa is Bodhkhānā (Yaśohar district).
 
-[^30]: By the heading in the edition, the eleventh of the twelve gopālas. *Anubhāṣya*: in Vraja he is Subāhu (*Gaura-gaṇoddeśa-dīpikā*, 129). According to the *Caitanya-bhāgavata* (Antya 5), Nityānanda stayed in his house at Saptagrāma on the bank of the Triveṇī, and through Uddhāraṇa the whole community of merchants (*vaṇiks*) was purified.
+[^30]: By the heading in the edition, the eleventh of the twelve gopālas. *Anubhāṣya*: in Vraja he is Subāhu (*Gaura-gaṇoddeśa-dīpikā* 129). According to the *Caitanya-bhāgavata* (Antya 5), Nityānanda stayed in his house at Saptagrāma on the bank of the Triveṇī, and through Uddhāraṇa the whole community of merchants (*vaṇiks*) was purified.
 
 [^31]: *Anubhāṣya*: the *Gaura-gaṇoddeśa-dīpikā* (97) names Raghunātha Purī among the eight Purīs who embody the eight mystic perfections (*aṇimā* and the rest).
 
 [^32]: *Anubhāṣya*: the three brothers were brāhmaṇas of Navadvīpa; Viṣṇudāsa and Gaṅgādāsa lived for some time with Mahāprabhu in Nīlācala (Ādi 10.151). In the house of Nandana Ācārya, Mahāprabhu and Advaita once hid, and Nityānanda, on coming to Navadvīpa, stayed there for some time.
 
-[^33]: *Anubhāṣya*: Jīva Paṇḍita was the middle son of Ratnagarbha Ācārya (11.35); in Vraja he is Indirā (*Gaura-gaṇoddeśa-dīpikā*, 169).
+[^33]: *Anubhāṣya*: Jīva Paṇḍita was the middle son of Ratnagarbha Ācārya (11.35); in Vraja he is Indirā (*Gaura-gaṇoddeśa-dīpikā* 169).
 
-[^34]: *Anubhāṣya*: in Vraja he is Mañjumedhā (*Gaura-gaṇoddeśa-dīpikā*, 194, 199); he composed a garland of hymns to Kṛṣṇa.
+[^34]: *Anubhāṣya*: in Vraja he is Mañjumedhā (*Gaura-gaṇoddeśa-dīpikā* 194, 199); he composed a garland of hymns to Kṛṣṇa.
 
 [^35]: *Anubhāṣya*: Hoḍa Kṛṣṇadāsa is Rājā Kṛṣṇadāsa of Baḍagāchi, the son of Hari Hoḍa; at his initiative Śrī Nityānanda’s wedding took place in nearby Śāligrāma. The *Caitanya-bhāgavata* (Antya 6): “the pious Kṛṣṇadāsa of Baḍagāchi, in whose house Nityānanda showed His pastimes”.
 
@@ -698,7 +698,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^37]: *Anubhāṣya*: Navanī Hoḍa is the son of Hoḍa Kṛṣṇadāsa (11.47); Kṛṣṇānanda is the brother of Yadunātha Kavicandra (11.35).
 
-[^38]: *Anubhāṣya*: Kaṁsāri Sena is the father of Sadāśiva Kavirāja (11.38), in Vraja Ratnāvalī (*Gaura-gaṇoddeśa-dīpikā*, 194, 200). Rāmacandra Kavirāja was the son of Cirañjīva and Sunandā of Śrīkhaṇḍa, a disciple of Śrīnivāsa Ācārya and the dear friend of Narottama Ṭhākura, who prayed for his company birth after birth. Govinda Kavirāja was his younger brother, also a disciple of Śrīnivāsa Ācārya, the author of the play *Saṅgīta-mādhava* and of the *Gītāmṛta*; both received the title “Kavirāja” from Śrī Jīva Gosvāmī.
+[^38]: *Anubhāṣya*: Kaṁsāri Sena is the father of Sadāśiva Kavirāja (11.38), in Vraja Ratnāvalī (*Gaura-gaṇoddeśa-dīpikā* 194, 200). Rāmacandra Kavirāja was the son of Cirañjīva and Sunandā of Śrīkhaṇḍa, a disciple of Śrīnivāsa Ācārya and the dear friend of Narottama Ṭhākura, who prayed for his company birth after birth. Govinda Kavirāja was his younger brother, also a disciple of Śrīnivāsa Ācārya, the author of the play *Saṅgīta-mādhava* and of the *Gītāmṛta*; both received the title “Kavirāja” from Śrī Jīva Gosvāmī.
 
 [^39]: *Caitanya-maṅgala* was the first name of the *Caitanya-bhāgavata* (see Ādi 8.33–35). *Anubhāṣya*: according to the *Gaura-gaṇoddeśa-dīpikā* (109), Vṛndāvana dāsa was formerly Vedavyāsa, and Kṛṣṇa’s friend Kusumāpīḍa also dwells in him. He was the son of Nārāyaṇī, the niece of Śrīvāsa, and the author of the *Caitanya-bhāgavata*.
 

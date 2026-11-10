@@ -196,7 +196,7 @@ permission  give  a brāhmaṇa’s  to the house  provisions  taking  I will gi
 tām̐hā tumi prasāda pāo, tabe āmi jīye  
 there  you  prasāda  take  then  I  shall live
 
-(19) Give me leave to take provisions to a brāhmaṇa’s house. There you can take *prasāda*, and that will give me life.”
+(19) Give me leave to take provisions to a brāhmaṇa’s house. There you can take prasāda, and that will give me life.”
 
 কালিদাস কহে, — ঠাকুর, কৃপা কর মোরে ৷  
 তোমার দর্শনে আইনু মুই পতিত পামরে ॥ ২০ ॥
@@ -932,7 +932,7 @@ the offering  being over  Jagannātha’s  servants
 prasāda lañā prabhu-ṭhāñi kaila āgamana  
 prasāda  taking  to the Lord  made  coming
 
-(89) When the offering was over, Jagannātha’s servants came to the Lord with *prasāda*.
+(89) When the offering was over, Jagannātha’s servants came to the Lord with prasāda.
 
 মালা পরাঞা প্রসাদ দিল প্রভুর হাতে ৷  
 আস্বাদ দূরে রহু, যার গন্ধে মন মাতে ॥ ৯০ ॥
@@ -942,7 +942,7 @@ a garland  putting on  prasāda  gave  the Lord’s  into the hands
 āsvāda dūre rahu, yāra gandhe mana māte  
 the taste  far  let it remain  whose  by the fragrance  the mind  is intoxicated
 
-(90) Placing a garland on Him, they put the *prasāda* into the Lord’s hands. Let alone its taste — its very fragrance intoxicated the mind.
+(90) Placing a garland on Him, they put the prasāda into the Lord’s hands. Let alone its taste — its very fragrance intoxicated the mind.
 
 বহুমূল্য প্রসাদ সেই বস্তু সর্ব্বোত্তম ৷  
 তার অল্প খাওয়াইতে সেবক করিল যতন ॥ ৯১ ॥
@@ -952,7 +952,7 @@ very valuable  prasāda  that  the thing  the most excellent
 tāra alpa khāoyāite sevaka karila yatana  
 of it  a little  to make eat  the servant  made  effort
 
-(91) That *prasāda* was very precious, the finest of all things, and the servant did his best to have the Lord taste a little of it.
+(91) That prasāda was very precious, the finest of all things, and the servant did his best to have the Lord taste a little of it.
 
 তার অল্প লঞা প্রভু জিহ্বাতে যদি দিলা ৷  
 আর সব গোবিন্দের আঁচলে বান্ধিলা ॥ ৯২ ॥
@@ -1092,7 +1092,7 @@ the Lord’s  at the sign  Govinda  the prasāda  brought
 purī-bhāratīre prabhu kichu pāṭhāilā  
 to Purī  and Bhāratī  the Lord  some  sent
 
-(105) At the Lord’s sign Govinda brought the *prasāda*, and the Lord sent some to Paramānanda Purī and Brahmānanda Bhāratī.
+(105) At the Lord’s sign Govinda brought the prasāda, and the Lord sent some to Paramānanda Purī and Brahmānanda Bhāratī.
 
 রামানন্দ-সার্ব্বভৌম-স্বরূপাদি-গণে ৷  
 সবারে প্রসাদ দিল করিয়া বণ্টনে ॥ ১০৬ ॥
@@ -1102,7 +1102,7 @@ to Rāmānanda  Sārvabhauma  Svarūpa  and the others
 sabāre prasāda dila kariyā vaṇṭane  
 to all  prasāda  gave  having made  distribution
 
-(106) He divided the *prasāda* and gave it to all — Rāmānanda, Sārvabhauma, Svarūpa and the others.
+(106) He divided the prasāda and gave it to all — Rāmānanda, Sārvabhauma, Svarūpa and the others.
 
 প্রসাদের সৌরভ্য-মাধুর্য্য করি’ আস্বাদন ৷  
 অলৌকিক আস্বাদে সবার বিস্ময় হৈল মন ॥ ১০৭ ॥
@@ -1112,7 +1112,7 @@ of the prasāda  the fragrance  the sweetness  having made  tasting
 alaukika āsvāde sabāra vismaya haila mana  
 at the unearthly  taste  of all  amazed  became  the minds
 
-(107) When they savoured the fragrance and sweetness of the *prasāda*, all were amazed at its unearthly taste.
+(107) When they savoured the fragrance and sweetness of the prasāda, all were amazed at its unearthly taste.
 
 প্রভু কহে, — এই সব হয় ‘প্রাকৃত’ দ্রব্য ৷  
 ঐক্ষব, কর্পূর, মরিচ, এলাইচ, লবঙ্গ, গব্য ॥ ১০৮ ॥
@@ -1790,7 +1790,7 @@ sings  lowly  and fallen  Kṛṣṇadāsa
 
 [^2]: *Amṛta-pravāha-bhāṣya*: in his worldly dealings he used the name of Kṛṣṇa as a conventional sign (*saṅketa*).
 
-[^3]: *Anubhāṣya*: if a soul full of *anarthas* does not follow Kālidāsa’s firm devotion to the holy name, but for the pleasure of the senses imitates this outward play of his and grows addicted to dice, its bondage to Kali will only increase its bent for sin (Śrīmad-Bhāgavatam, 1.17.38–41). And its outward imitation of chanting, which prompts it to sin in reliance on the power of the name, will end only in offence to the name (*nāmāparādha*).
+[^3]: *Anubhāṣya*: if a soul full of *anarthas* does not follow Kālidāsa’s firm devotion to the holy name, but for the pleasure of the senses imitates this outward play of his and grows addicted to dice, its bondage to Kali will only increase its bent for sin (*Śrīmad-Bhāgavatam* 1.17.38–41). And its outward imitation of chanting, which prompts it to sin in reliance on the power of the name, will end only in offence to the name (*nāmāparādha*).
 
 [^4]: *Amṛta-pravāha-bhāṣya*: the bhūṅimālis are a caste like the haḍḍis. *Anubhāṣya*: the homes of Kālidāsa and Jhaḍu Ṭhākura were in the village of Bhedo (Bhaduyā), about three miles south of Kṛṣṇapura, the birthplace of Śrīla Raghunātha dāsa Gosvāmī.
 
@@ -1844,7 +1844,7 @@ sings  lowly  and fallen  Kṛṣṇadāsa
 
 [^29]: Heading in the edition: recognising the nectar of Kṛṣṇa’s lips, the Lord is overcome by prema, but on seeing a servant whose service rests on majesty (*aiśvarya*) He conceals it.
 
-[^30]: *Anubhāṣya*: the *Mahābhārata* and the *Skanda-purāṇa* (Utkala-khaṇḍa) say: “O king, those of little piety never come to have faith in *mahā-prasāda*, in Govinda, in the Name who is Brahman, and in the Vaiṣṇava.”
+[^30]: *Anubhāṣya*: the *Mahābhārata* and the *Skanda-purāṇa* (Utkala-khaṇḍa) say: “O king, those of little piety never come to have faith in mahā-prasāda, in Govinda, in the Name who is Brahman, and in the Vaiṣṇava.”
 
 [^31]: *Anubhāṣya*: “ordinary fortune” is good fortune born of the fruits of karma. Heading in the edition: here the fruits of *sukṛti* directed to karma and of *sukṛti* directed to bhakti are distinguished.
 

@@ -944,7 +944,7 @@ fn: The Gauḍīya Maṭha edition reads *vākya siddha haya* (“His word comes
 w: me  why  you ask  you  ask  your own mind
 w: you  a ruler of men  are  a part of Viṣṇu  like
 tr: Why do you ask me? Ask your own heart. As a ruler of men you are like a part of Viṣṇu.
-fn: *Anubhāṣya*: of the king it is said, “For a great deity dwells in the form of a man” (Manu-saṁhitā, 7.8).
+fn: *Anubhāṣya*: of the king it is said, “For a great deity dwells in the form of a man” (*Manu-saṁhitā* 7.8).
 
 ## 179
 w: in your  mind  of Caitanya  what kind of  is  knowledge
@@ -1509,7 +1509,7 @@ fn: Edition heading: “Śrī Raghunātha’s service to Nityānanda and His ass
 w: His  permission  taking  went  to the Lord’s  feet
 w: the Lord  him  entrusted  of Svarūpa  to the care
 tr: With Nityānanda’s permission he went to the Lord’s feet, and the Lord entrusted him to Svarūpa’s care.
-fn: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali*, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
+fn: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali* 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
 
 ## 285
 w: of Brahmānanda Bhāratī  He removed  the garment of skin

@@ -3499,7 +3499,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^52]: *Amṛta-pravāha-bhāṣya*: the Muslim mocked them thus: “Some of you are Kṛṣṇadāsas, some Rāmadāsas and Haridāsas, and you keep saying ‘Hari! Hari!’ — but *hari* also means ‘I steal’, so you must be planning to rob someone.” From the day he made this jest, his tongue has been saying “Hari! Hari!” against his will.
 
-[^53]: *Anubhāṣya*: mockery (*parihāsa*) is one of the four kinds of *nāmābhāsa*: “The name of Vaikuṇṭha, uttered to indicate something else, in jest, to fill out a song, or with contempt, destroys all sins” (Śrīmad-Bhāgavatam, 6.2.14). *Nāmābhāsa* is not the mere sounding of letters: it points to the eternal Reality and awakens the remembrance of Viṣṇu; it destroys worldly desire, and then the liberated soul, turned towards service, gains the right to chant the pure name.
+[^53]: *Anubhāṣya*: mockery (*parihāsa*) is one of the four kinds of *nāmābhāsa*: “The name of Vaikuṇṭha, uttered to indicate something else, in jest, to fill out a song, or with contempt, destroys all sins” (*Śrīmad-Bhāgavatam* 6.2.14). *Nāmābhāsa* is not the mere sounding of letters: it points to the eternal Reality and awakens the remembrance of Viṣṇu; it destroys worldly desire, and then the liberated soul, turned towards service, gains the right to chant the pure name.
 
 [^54]: *Anubhāṣya*: the *pāṣaṇḍīs* are those sunk in ritual (*karma-jaḍa*), worshippers of many gods, hostile to Viṣṇu and the Vaiṣṇavas, idolaters.
 
@@ -3527,7 +3527,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^66]: *Amṛta-pravāha-bhāṣya*: *doṣodgāra* — reproach mixed with mockery. *Anubhāṣya* on 247–263: the Lord’s anger at Kṛṣṇa and His reproaches in the mood of a gopī are not of this world. Failing to understand this, a student, a smārta sunk in ritual, argued with Him, and the Lord, filled with the gopīs’ mood, took him for a partisan of Kṛṣṇa and chased him in anger. The student fled; and brāhmaṇas by birth, sunk in ritual and turned away from Hari, conspired in their delusion to beat the Lord. To free them from this calamity the Lord resolved to accept the fourth āśrama, which is honoured even by those proud of their birth and caste. See *Caitanya-bhāgavata*, Madhya 25.
 
-[^67]: *Anubhāṣya*: the true meaning of the śruti is revealed only to one who has supreme devotion to God and the same devotion to the guru (Śvetāśvatara Upaniṣad, 6.23). Prahlāda says that the best learning is when a person first offers himself to Viṣṇu and then serves Him (Śrīmad-Bhāgavatam, 7.5.24, with Śrīdhara Svāmī’s comment). But one who, proud of worldly learning, disregards Viṣṇu finds that knowledge does not dawn in him: a master of the Vedas who is not devoted to the Supreme labours in vain (Śrīmad-Bhāgavatam, 11.11.18).
+[^67]: *Anubhāṣya*: the true meaning of the śruti is revealed only to one who has supreme devotion to God and the same devotion to the guru (*Śvetāśvatara Upaniṣad* 6.23). Prahlāda says that the best learning is when a person first offers himself to Viṣṇu and then serves Him (*Śrīmad-Bhāgavatam* 7.5.24, with Śrīdhara Svāmī’s comment). But one who, proud of worldly learning, disregards Viṣṇu finds that knowledge does not dawn in him: a master of the Vedas who is not devoted to the Supreme labours in vain (*Śrīmad-Bhāgavatam* 11.11.18).
 
 [^68]: *Anubhāṣya* quotes the Lord’s words from the *Caitanya-bhāgavata* (Madhya 25): “I gave pippali to cure the phlegm, but the phlegm in the body only grew worse.”
 
@@ -3555,7 +3555,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^80]: The edition’s heading: “Without following the *rūpānugas* one cannot fathom Gaura’s rasa of separation (*vipralambha*).”
 
-[^81]: *Anubhāṣya*: Kumbhīpāka is a hell where sinners are cooked in a pot (*kumbhī*); there goes one who cooks animals and birds alive (Śrīmad-Bhāgavatam, 5.26.13). The edition’s heading: “The fate of the arguer — ‘the doubter perishes’” (Bhagavad-gītā, 4.40).
+[^81]: *Anubhāṣya*: Kumbhīpāka is a hell where sinners are cooked in a pot (*kumbhī*); there goes one who cooks animals and birds alive (*Śrīmad-Bhāgavatam* 5.26.13). The edition’s heading: “The fate of the arguer — ‘the doubter perishes’” (*Bhagavad-gītā* 4.40).
 
 [^82]: *Amṛta-pravāha-bhāṣya*: the mark of the inconceivable is that it lies beyond material nature; argument is material and cannot touch that truth, and so it is not to be applied to what is inconceivable. *Anubhāṣya*: in the *Mahābhārata* this is Sañjaya’s reply to Dhṛtarāṣṭra, who wished to hear of the rivers, mountains and forests of the earth; “inconceivable” means beyond the reach of the worldly, pleasure-seeking mind.
 

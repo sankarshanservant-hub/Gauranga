@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** This chapter gives the *sūtras* (brief notes) of the whole of Mahāprabhu’s Madhya-līlā and of His pastimes in the first six years of the Śeṣa-līlā. By reciting the verse “*yaḥ kaumāra-haraḥ*,” Mahāprabhu expressed the mood that had seized Him. Śrī Rūpa Gosvāmī made that mood clear in his verse “*so ’yaṁ kṛṣṇaḥ*,” and for this reason Mahāprabhu showed Rūpa special mercy. This chapter names the books written by Rūpa, Sanātana and Jīva Gosvāmī. In the village of Rāmakeli, Mahāprabhu bestowed His mercy on Rūpa and Sanātana.
+**Summary.** This chapter gives the sūtras (brief notes) of the whole of Mahāprabhu’s Madhya-līlā and of His pastimes in the first six years of the Śeṣa-līlā. By reciting the verse “*yaḥ kaumāra-haraḥ*,” Mahāprabhu expressed the mood that had seized Him. Śrī Rūpa Gosvāmī made that mood clear in his verse “*so ’yaṁ kṛṣṇaḥ*,” and for this reason Mahāprabhu showed Rūpa special mercy. This chapter names the books written by Rūpa, Sanātana and Jīva Gosvāmī. In the village of Rāmakeli, Mahāprabhu bestowed His mercy on Rūpa and Sanātana.
 
 ## 1
 
@@ -58,7 +58,7 @@ The pastime of the *gopīs’* separation from Kṛṣṇa was always awake in t
 
 ## 53
 
-When Kṛṣṇa performed a sacrifice at Kurukṣetra and invited the residents of Vraja, the *gopīs* went there and gained the happiness of seeing Kṛṣṇa. In the Lord’s inner being the mood of separation from Kṛṣṇa was awake, and only when He gazed at Jagannātha did the mood of the meeting at Kurukṣetra arise in His heart.
+When Kṛṣṇa performed a sacrifice at Kurukṣetra and invited the residents of Vraja, the gopīs went there and gained the happiness of seeing Kṛṣṇa. In the Lord’s inner being the mood of separation from Kṛṣṇa was awake, and only when He gazed at Jagannātha did the mood of the meeting at Kurukṣetra arise in His heart.
 
 ## 56
 
@@ -66,7 +66,7 @@ Not finding satisfaction in the meeting at Kurukṣetra, He constantly felt in H
 
 ## 58
 
-He who stole My heart in My girlhood, on the bank of the river Revā, has now become My husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love’s doings. Even so, in this state My heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
+He who stole My heart in My girlhood, on the bank of the river Revā, has now become My husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the kadamba grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love’s doings. Even so, in this state My heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
 
 ## 59
 
@@ -90,13 +90,13 @@ O friend! My most beloved Kṛṣṇa has met Me today at Kurukṣetra, and I am
 
 ## 81
 
-The *gopīs* said: “O Lotus-navelled One! Your lotus feet are the one support that rescues those who have fallen into the well of *saṁsāra*, and the *yogeśvaras* of deep intelligence must always contemplate them in their hearts. May they arise in the minds of us who are engaged in household life.”
+The gopīs said: “O Lotus-navelled One! Your lotus feet are the one support that rescues those who have fallen into the well of *saṁsāra*, and the *yogeśvaras* of deep intelligence must always contemplate them in their hearts. May they arise in the minds of us who are engaged in household life.”
 
 In some readings the following verse is found: (*Śrīmad-Bhāgavatam* 10.83.2) “Thus questioned by the Lord of the worlds and honoured well, they replied with glad minds, for their sins had been destroyed by the sight of His feet.”
 
 ## 84
 
-O Kṛṣṇa! Vṛndāvana, the blessed land where You play, is spread over with forests that diffuse the fragrance of the *rasa* of Your pastimes, surrounded by the beauties of the Mathurā district, and served by us *gopīs*, whose minds are enchanted by love. O Vaṁśīvadana, join us and engage in that pastime.
+O Kṛṣṇa! Vṛndāvana, the blessed land where You play, is spread over with forests that diffuse the fragrance of the rasa of Your pastimes, surrounded by the beauties of the Mathurā district, and served by us gopīs, whose minds are enchanted by love. O Vaṁśīvadana, join us and engage in that pastime.
 
 ## 87
 
@@ -104,7 +104,7 @@ O Kṛṣṇa! Vṛndāvana, the blessed land where You play, is spread over wit
 
 ## 94
 
-***The first alms.*** After wandering for several days following His *sannyāsa*, He accepted the first offering of food (*anna-bhikṣā*) at the house of Advaita Prabhu.
+***The first alms.*** After wandering for several days following His sannyāsa, He accepted the first offering of food (*anna-bhikṣā*) at the house of Advaita Prabhu.
 
 ## 110
 

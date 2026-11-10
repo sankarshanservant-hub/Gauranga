@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** Sārvabhauma tried to arrange a meeting between Pratāparudra and Mahāprabhu, but Mahāprabhu refused. Rāmānanda Rāya came to Puruṣottama, met Mahāprabhu and described the king’s many Vaiṣṇava qualities, and the Lord’s heart changed. The king revealed his humility and his vow to Sārvabhauma. Sārvabhauma told the king of a way to see Mahāprabhu’s feet. When the time of *anavasara* came, Mahāprabhu, distraught at being unable to see the Lord, went to Ālālanātha. Some time later He heard that the devotees were coming from Gauḍa and returned to Puruṣottama. As Śrī Advaita and the other devotees approached, Svarūpa and Govinda took garlands given by the Lord and went to bring them. The king watched the Vaiṣṇavas arrive from the roof of his palace. At Sārvabhauma’s wish, Śrī Gopīnātha Ācārya identified each of these Vaiṣṇavas. The king and Sārvabhauma then discussed at length Śrī Caitanya’s being Kṛṣṇa, and the newly arrived Vaiṣṇavas’ honouring *prasāda* without first shaving their heads and fasting. After this the king arranged lodgings and *prasāda* for the Vaiṣṇavas. Mahāprabhu had many joyful conversations with Vāsudeva Datta and the other Vaiṣṇavas. Seeing Haridāsa’s humility, He gave him a secluded place in the garden (the Ṭoṭā) and spoke of Haridāsa’s glory. Then, in the temple of Jagannātha, He divided the devotees into four groups, and a great *saṅkīrtana* took place. (After this) the Vaiṣṇavas went to their own lodgings at the Lord’s order.
+**Summary.** Sārvabhauma tried to arrange a meeting between Pratāparudra and Mahāprabhu, but Mahāprabhu refused. Rāmānanda Rāya came to Puruṣottama, met Mahāprabhu and described the king’s many Vaiṣṇava qualities, and the Lord’s heart changed. The king revealed his humility and his vow to Sārvabhauma. Sārvabhauma told the king of a way to see Mahāprabhu’s feet. When the time of *anavasara* came, Mahāprabhu, distraught at being unable to see the Lord, went to Ālālanātha. Some time later He heard that the devotees were coming from Gauḍa and returned to Puruṣottama. As Śrī Advaita and the other devotees approached, Svarūpa and Govinda took garlands given by the Lord and went to bring them. The king watched the Vaiṣṇavas arrive from the roof of his palace. At Sārvabhauma’s wish, Śrī Gopīnātha Ācārya identified each of these Vaiṣṇavas. The king and Sārvabhauma then discussed at length Śrī Caitanya’s being Kṛṣṇa, and the newly arrived Vaiṣṇavas’ honouring prasāda without first shaving their heads and fasting. After this the king arranged lodgings and prasāda for the Vaiṣṇavas. Mahāprabhu had many joyful conversations with Vāsudeva Datta and the other Vaiṣṇavas. Seeing Haridāsa’s humility, He gave him a secluded place in the garden (the Ṭoṭā) and spoke of Haridāsa’s glory. Then, in the temple of Jagannātha, He divided the devotees into four groups, and a great saṅkīrtana took place. (After this) the Vaiṣṇavas went to their own lodgings at the Lord’s order.
 
 ## 1
 
@@ -58,11 +58,11 @@ Having seen Jagannātha, go straight home and meet your family.
 
 ## 47
 
-“He gives His *darśana* to those not fit to be looked at, the low-born, yet He will not give it to me. Has He descended having resolved to show mercy to all *jīvas* but me?”
+“He gives His darśana to those not fit to be looked at, the low-born, yet He will not give it to me. Has He descended having resolved to show mercy to all jīvas but me?”
 
 ## 56
 
-Reciting the verses of the five chapters on Śrī Kṛṣṇa’s *rāsa* (*Śrīmad-Bhāgavatam*, Canto 10, Chapters 29–33), you will go alone and clasp Mahāprabhu’s feet.
+Reciting the verses of the five chapters on Śrī Kṛṣṇa’s rāsa (*Śrīmad-Bhāgavatam*, Canto 10, Chapters 29–33), you will go alone and clasp Mahāprabhu’s feet.
 
 ## 63
 
@@ -88,15 +88,15 @@ Sārvabhauma said, “I do not know any of them, (but) I wish to know.”
 
 ## 99
 
-In the age of Kali, whoever worships Kṛṣṇa Caitanya with the sacrifice of *saṅkīrtana* is truly intelligent. Those who do not worship Him are *kali-hata*: their intelligence has been struck down by Kali.
+In the age of Kali, whoever worships Kṛṣṇa Caitanya with the sacrifice of saṅkīrtana is truly intelligent. Those who do not worship Him are *kali-hata*: their intelligence has been struck down by Kali.
 
 ## 103
 
-One who lacks His mercy, even if he is a *paṇḍita*, cannot accept Kṛṣṇa Caitanya as the Lord (*Īśvara*), though he sees all His divine majesty and hears of it: he is without His mercy.
+One who lacks His mercy, even if he is a paṇḍita, cannot accept Kṛṣṇa Caitanya as the Lord (*Īśvara*), though he sees all His divine majesty and hears of it: he is without His mercy.
 
 ## 111–113
 
-The king said: “The scriptures prescribe that on entering a holy place one must fast that day and have one’s head shaved there. Why do these Vaiṣṇavas not do so, and for what reason do they partake of food and water?” The Bhaṭṭācārya replied: “What you describe is *vaidhī-dharma*, the path of rules. But the *dharma* of the path of *rāga* holds another subtle secret. The Lord ordered shaving and fasting indirectly, through the sages, in the scriptures; but the order to eat *prasāda* He proclaimed Himself.”
+The king said: “The scriptures prescribe that on entering a holy place one must fast that day and have one’s head shaved there. Why do these Vaiṣṇavas not do so, and for what reason do they partake of food and water?” The Bhaṭṭācārya replied: “What you describe is *vaidhī-dharma*, the path of rules. But the dharma of the path of *rāga* holds another subtle secret. The Lord ordered shaving and fasting indirectly, through the sages, in the scriptures; but the order to eat prasāda He proclaimed Himself.”
 
 ## 118
 
@@ -142,7 +142,7 @@ O Lord, those on whose lips is Your name are the best, even if they are *śva-pa
 
 ## 214
 
-***A variant reading:*** “Seeing the evening offering of incense (*dhūpa*), He began *saṅkīrtana*. The *paḍichā* brought garlands and sandal paste. On four sides four groups performed *saṅkīrtana*, and in the middle the Lord, the son of Śacī, danced.”
+***A variant reading:*** “Seeing the evening offering of incense (*dhūpa*), He began saṅkīrtana. The *paḍichā* brought garlands and sandal paste. On four sides four groups performed saṅkīrtana, and in the middle the Lord, the son of Śacī, danced.”
 
 ## 223
 

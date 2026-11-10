@@ -678,7 +678,7 @@ that  verse’s  makes  meaning
 yei artha nāhi jāne loka  
 which  meaning  not  know  people
 
-(50) Rādhā’s words, spoken in such a mixture of feelings, had been revealed to Līlāśuka. In that same mood the Lord recited one of his verses and, by the power of His madness, drew out a meaning that people do not know:[^12]
+(50) Rādhā’s words, spoken in such a mixture of feelings, had been revealed to Līlāśuka. In that same mood the Lord recited one of his verses and, by the power of His divine madness, drew out a meaning that people do not know:[^12]
 
 কিমিহ কৃণুমঃ কস্য ব্রূমঃ কৃতং কৃতমাশয়া  
 কথয়ত কথামন্যাং ধন্যামহো হৃদয়েশয়ঃ ৷  
@@ -1055,7 +1055,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^13]: *Anubhāṣya*: “we” — Rādhā and Her friends, for they are in the same plight; the one lying in the heart is the enemy Kāma, who cannot be driven out and who is killing Her; the thirst is “wretched, most wretched”, that is, faint with longing.
 
-[^14]: *Amṛta-pravāha-bhāṣya*: Piṅgalā said, “Hope is the greatest misery; giving up hope is the greatest happiness” (Śrīmad-Bhāgavatam, 11.8.44). *Anubhāṣya*: for the story of Piṅgalā see Śrīmad-Bhāgavatam, 11.8.22–44, and the *Mahābhārata*, *Śānti-parva* (*Mokṣa-dharma-parva*), ch. 174.
+[^14]: *Amṛta-pravāha-bhāṣya*: Piṅgalā said, “Hope is the greatest misery; giving up hope is the greatest happiness” (*Śrīmad-Bhāgavatam* 11.8.44). *Anubhāṣya*: for the story of Piṅgalā see Śrīmad-Bhāgavatam, 11.8.22–44, and the *Mahābhārata*, *Śānti-parva* (*Mokṣa-dharma-parva*), ch. 174.
 
 [^15]: Heading in the edition: Kṛṣṇa, as the transcendental Kāmadeva, takes possession of the heart.
 

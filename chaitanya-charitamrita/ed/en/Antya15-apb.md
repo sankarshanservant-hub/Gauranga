@@ -2,11 +2,11 @@
 
 ## 0
 
-**Summary.** After the *upala-bhoga* [offering to Lord Jagannātha], Mahāprabhu began to lament: a feeling stirred by Kṛṣṇa’s form awoke in Him. When Kṛṣṇa disappeared on the night of the *rāsa*, the *gopīs* searched for Him from forest to forest; the same feelings now began to awaken in the Lord. Svarūpa Gosvāmī sang a song from the *Gīta-govinda*, and emotions (*bhāvas*) arose in Mahāprabhu: their rising (*bhāvodaya*), their meeting (*bhāva-sandhi*), their mingling (*bhāva-śābalya*), the eight spiritual transformations (*aṣṭa-sāttvika-vikāra*) and more, and all of it became for Him an object of the highest relish. When He saw a garden on the seashore, the memory of Vṛndāvana awoke in Him, and all these feelings rose up with great force.
+**Summary.** After the *upala-bhoga* [offering to Lord Jagannātha], Mahāprabhu began to lament: a feeling stirred by Kṛṣṇa’s form awoke in Him. When Kṛṣṇa disappeared on the night of the rāsa, the gopīs searched for Him from forest to forest; the same feelings now began to awaken in the Lord. Svarūpa Gosvāmī sang a song from the *Gīta-govinda*, and emotions (*bhāvas*) arose in Mahāprabhu: their rising (*bhāvodaya*), their meeting (*bhāva-sandhi*), their mingling (*bhāva-śābalya*), the eight spiritual transformations (*aṣṭa-sāttvika-vikāra*) and more, and all of it became for Him an object of the highest relish. When He saw a garden on the seashore, the memory of Vṛndāvana awoke in Him, and all these feelings rose up with great force.
 
 ## 1
 
-Plunged into the unfathomable ocean of feeling for Kṛṣṇa, Gaurahari, whose heart [now sank and now] rose to the surface, revealed the glory of *prema* in its many forms.
+Plunged into the unfathomable ocean of feeling for Kṛṣṇa, Gaurahari, whose heart [now sank and now] rose to the surface, revealed the glory of prema in its many forms.
 
 ## 8–9
 
@@ -26,11 +26,11 @@ The hearts of all the women in the three worlds are indeed like high mountains, 
 
 ## 32
 
-O *cūta* (a kind of mango), *piyāla*, *kā̃ṭhāla* (jackfruit), *āsana*, *kovidāra*, *jambu*, *arka*, *bilva*, *bakula*, mango, *kadamba*, *nīpa* (a kind of *kadamba*) and other trees! O all you other trees who dwell on the banks of the Yamunā and care for the highest good [of others] (who have vowed to do good to others)! Tell us, who have lost our very selves (whose minds are empty), where Kṛṣṇa is.
+O *cūta* (a kind of mango), *piyāla*, *kā̃ṭhāla* (jackfruit), *āsana*, *kovidāra*, *jambu*, *arka*, *bilva*, *bakula*, mango, kadamba, *nīpa* (a kind of *kadamba*) and other trees! O all you other trees who dwell on the banks of the Yamunā and care for the highest good [of others] (who have vowed to do good to others)! Tell us, who have lost our very selves (whose minds are empty), where Kṛṣṇa is.
 
 ## 33
 
-O auspicious *tulasī*, dear to Govinda’s feet! Acyuta loves you dearly. Did you see Kṛṣṇa pass by here, wearing you, with a swarm of bees around Him?
+O auspicious tulasī, dear to Govinda’s feet! Acyuta loves you dearly. Did you see Kṛṣṇa pass by here, wearing you, with a swarm of bees around Him?
 
 ## 34
 
@@ -42,7 +42,7 @@ From here comes the fragrance of Kṛṣṇa, who wears a garland of *kunda* flo
 
 ## 51
 
-O trees, tell us: Kṛṣṇa, the younger brother of Balarāma (Rāmānuja), is walking along with His arm on Rādhikā’s shoulder and a lotus in His hand, followed (pursued) by bees maddened by the *tulasī*. As He passes, does He accept your bows and answer them with a loving glance?
+O trees, tell us: Kṛṣṇa, the younger brother of Balarāma (Rāmānuja), is walking along with His arm on Rādhikā’s shoulder and a lotus in His hand, followed (pursued) by bees maddened by the tulasī. As He passes, does He accept your bows and answer them with a loving glance?
 
 ## 63
 
@@ -70,7 +70,7 @@ O friend, Śrī Kṛṣṇa is a wondrous cloud. The *cātaka* bird of My eyes c
 
 ## 71–76
 
-Defeating the moon and the lotus, Kṛṣṇa has set the snare of His face to catch the does (the *gopīs*). In that snare the bait of His sweet smile has been laid, that is, a deceptive food to lure the (*gopī*) does. Leaving home and hearth, husband and shame, the does — the women of Vraja — fall into that snare and become His maidservants. Ah, our friend Śrī Kṛṣṇa behaves just like a hunter! This hunter cares nothing for *dharma* or *adharma*; he devises many tricks to steal the hearts of the does, the beauties of Vraja. His *makara* earrings glitter and dance on His cheeks and steal the women’s minds. He pierces their hearts with the arrows of His smiling sidelong glances and has no fear at all of killing women. Kṛṣṇa’s broad chest (given to plunder, like a bandit) bears two marks as ornaments: Lakṣmī and Śrīvatsa (a curl of hair turning to the right). It forcibly draws hundreds of thousands of goddesses of Vraja, their minds and their breasts, and makes them maidservants of that very Hari. Kṛṣṇa’s two arms, exquisitely beautiful, are like long door-bolts, almost like the bodies of black serpents. They enter the gap (the middle) between the two mountain-like breasts of the women and bite the heart. (From the poison of that bite, His touch, the *gopī* burns in the fever of loving desire.) The palms and soles of Kṛṣṇa surpass camphor, *veṇāmūla* root and sandalwood and are cooler than millions of moons. Whoever they touch even once is freed from the burning poison of Kandarpa.
+Defeating the moon and the lotus, Kṛṣṇa has set the snare of His face to catch the does (the *gopīs*). In that snare the bait of His sweet smile has been laid, that is, a deceptive food to lure the (*gopī*) does. Leaving home and hearth, husband and shame, the does — the women of Vraja — fall into that snare and become His maidservants. Ah, our friend Śrī Kṛṣṇa behaves just like a hunter! This hunter cares nothing for dharma or *adharma*; he devises many tricks to steal the hearts of the does, the beauties of Vraja. His *makara* earrings glitter and dance on His cheeks and steal the women’s minds. He pierces their hearts with the arrows of His smiling sidelong glances and has no fear at all of killing women. Kṛṣṇa’s broad chest (given to plunder, like a bandit) bears two marks as ornaments: Lakṣmī and Śrīvatsa (a curl of hair turning to the right). It forcibly draws hundreds of thousands of goddesses of Vraja, their minds and their breasts, and makes them maidservants of that very Hari. Kṛṣṇa’s two arms, exquisitely beautiful, are like long door-bolts, almost like the bodies of black serpents. They enter the gap (the middle) between the two mountain-like breasts of the women and bite the heart. (From the poison of that bite, His touch, the gopī burns in the fever of loving desire.) The palms and soles of Kṛṣṇa surpass camphor, *veṇāmūla* root and sandalwood and are cooler than millions of moons. Whoever they touch even once is freed from the burning poison of Kandarpa.
 
 ## 74
 
@@ -90,11 +90,11 @@ Seeing their pride in their good fortune, Kṛṣṇa vanished right there, to q
 
 ## 84
 
-My mind remembers Hari, who here, in the *rāsa* dance, enjoyed many pastimes and jested.
+My mind remembers Hari, who here, in the rāsa dance, enjoyed many pastimes and jested.
 
 ## 97
 
-Seeing the rows of beautiful gardens on the seashore, the Lord again and again remembered the forest of Vṛndāvana and became helpless with *prema*. Gaurāṅga, the connoisseur of the taste of *bhakti*, is saying “Kṛṣṇa! Kṛṣṇa!” with a restless (*pracala*, unsteady) tongue. Will such a Caitanyadeva come again within the path of my sight?
+Seeing the rows of beautiful gardens on the seashore, the Lord again and again remembered the forest of Vṛndāvana and became helpless with prema. Gaurāṅga, the connoisseur of the taste of bhakti, is saying “Kṛṣṇa! Kṛṣṇa!” with a restless (*pracala*, unsteady) tongue. Will such a Caitanyadeva come again within the path of my sight?
 
 *Thus ends the fifteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

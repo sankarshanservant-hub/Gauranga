@@ -2796,7 +2796,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^25]: *Anubhāṣya*: *sthūla-bhikṣā* is alms after which one need beg for no more food; *mādhukarī* — as the bee gathers honey from many flowers, so the renunciant collects a little food in many places. Renouncing everything that excites the senses, they sustained the body for bhajana on dry bread and parched chickpeas.
 
-[^26]: Edition heading: a verse quoted in the commentary on the *Śruti-stava* (Śrīmad-Bhāgavatam, 10.87).
+[^26]: Edition heading: a verse quoted in the commentary on the *Śruti-stava* (*Śrīmad-Bhāgavatam* 10.87).
 
 [^27]: *Anubhāṣya*: the fortunate soul is one who has *sukṛti* that turns it towards devotion. The guru who gives the seed of the creeper of devotion is a manifestation of Bhagavān sent by Kṛṣṇa: by the guru’s mercy one obtains Kṛṣṇa’s mercy, and by Kṛṣṇa’s mercy the guru’s.
 

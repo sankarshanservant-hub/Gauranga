@@ -78,7 +78,7 @@ Although, because of separation, you do not see Me directly with your outward vi
 
 ## 42
 
-> Subheading: Dāmodara comes to Navadvīpa and gives the *mahā-prasāda* he has brought to Śacī, Advaita and the other devotees —
+> Subheading: Dāmodara comes to Navadvīpa and gives the mahā-prasāda he has brought to Śacī, Advaita and the other devotees —
 
 ## 44
 
@@ -116,7 +116,7 @@ In another reading the following verse is found here: “Having accepted Dāmoda
 
 > Subheading: (words of the *Nṛsiṁha Purāṇa*)
 
-**daṁṣṭri-daṁṣṭrāhataḥ** (a *daṁṣṭrī* is a boar; one wounded by its tusk, that is, its tooth) **mlecchaḥ** (a *yavana*), **‘hā rāma’ iti** (a particular word that in the language of the *yavanas* denotes something impure, untouchable) **punaḥ punaḥ** **uktvā** **api** **muktim** (release from the bondage of worldly existence by the power of *nāmābhāsa*) **āpnoti** (attains); **śraddhayā** **gṛṇan** (one who chants [the Name] with faith — by the power of the Name) **kiṁ punaḥ** **vaktavyam** (what more need be said)?
+**daṁṣṭri-daṁṣṭrāhataḥ** (a *daṁṣṭrī* is a boar; one wounded by its tusk, that is, its tooth) **mlecchaḥ** (a *yavana*), **‘hā rāma’ iti** (a particular word that in the language of the yavanas denotes something impure, untouchable) **punaḥ punaḥ** **uktvā** **api** **muktim** (release from the bondage of worldly existence by the power of *nāmābhāsa*) **āpnoti** (attains); **śraddhayā** **gṛṇan** (one who chants [the Name] with faith — by the power of the Name) **kiṁ punaḥ** **vaktavyam** (what more need be said)?
 
 ## 57
 
@@ -130,7 +130,7 @@ In another reading the following verse is found here: “Having accepted Dāmoda
 
 > Subheading: The incomparable power of the Name —
 
-**vyavahita** (interrupted): Here what is meant is not an interval in the sounds or letters, nor an “interval” in truth (*tattva*). For such a material interval arises in a faithless *jīva* from his tendency to gratify his own senses or to enjoy matter. It is therefore not the pure Name but merely a collection of material sounds or letters; it only obstructs the fruit of chanting the pure Name — attaining love for Kṛṣṇa. Here, on the other hand, the interval meant is the indistinct, broken or partial utterance of the Name by one turned towards service (*sevonmukha*). For in spite of it, Śrī Nāma-Prabhu manifests His own power in the faithful heart of one turned towards service — the power to bestow the fruit: the destruction of *anarthas* and the dawning of *prema*.
+**vyavahita** (interrupted): Here what is meant is not an interval in the sounds or letters, nor an “interval” in truth (*tattva*). For such a material interval arises in a faithless jīva from his tendency to gratify his own senses or to enjoy matter. It is therefore not the pure Name but merely a collection of material sounds or letters; it only obstructs the fruit of chanting the pure Name — attaining love for Kṛṣṇa. Here, on the other hand, the interval meant is the indistinct, broken or partial utterance of the Name by one turned towards service (*sevonmukha*). For in spite of it, Śrī Nāma-Prabhu manifests His own power in the faithful heart of one turned towards service — the power to bestow the fruit: the destruction of *anarthas* and the dawning of prema.
 
 ## 60
 
@@ -178,13 +178,13 @@ At the time of death Ajāmila obtained the fruit of *nāmābhāsa* by way of an 
 
 ## 68
 
-> Subheading: A description of how hearing the loud *saṅkīrtana* of the Name affects both kinds of living beings, stationary and moving —
+> Subheading: A description of how hearing the loud saṅkīrtana of the Name affects both kinds of living beings, stationary and moving —
 
-On the power of loud *saṅkīrtana*, see *Caitanya-bhāgavata*, Ādi 16.277–291; on how the Lord inaugurated *saṅkīrtana*, see Ādi 3.76 and Madhya 11.97–98.
+On the power of loud saṅkīrtana, see *Caitanya-bhāgavata*, Ādi 16.277–291; on how the Lord inaugurated saṅkīrtana, see Ādi 3.76 and Madhya 11.97–98.
 
 ## 72
 
-> Subheading: An example from the Lord’s pastimes of living beings hearing loud *saṅkīrtana* —
+> Subheading: An example from the Lord’s pastimes of living beings hearing loud saṅkīrtana —
 
 See Madhya 17.24–54.
 
@@ -194,7 +194,7 @@ See Madhya 15.159–179.
 
 ## 74
 
-> Subheading: The mystery of the Lord’s pastime of delivering the *jīvas* is revealed: as the guru of the world in the form of an *ācārya*, He preaches the Name and *prema* —
+> Subheading: The mystery of the Lord’s pastime of delivering the jīvas is revealed: as the guru of the world in the form of an ācārya, He preaches the Name and prema —
 
 ## 75
 
@@ -206,23 +206,23 @@ See Madhya 15.159–179.
 
 ## 77
 
-> Subheading: Haridāsa’s answer: by the Lord’s mercy all the *jīvas* living during His manifest presence are delivered, and then the world is filled again with *jīvas* manifested by Mahā-Viṣṇu Kāraṇodaśāyī —
+> Subheading: Haridāsa’s answer: by the Lord’s mercy all the jīvas living during His manifest presence are delivered, and then the world is filled again with jīvas manifested by Mahā-Viṣṇu Kāraṇodaśāyī —
 
 ## 80
 
-> Subheading: An example — the former pastime of Śrī Rāmacandra delivering the *jīvas* —
+> Subheading: An example — the former pastime of Śrī Rāmacandra delivering the jīvas —
 
 See the *Rāmāyaṇa* (Baṅgavāsī edition), Uttara-kāṇḍa, *sarga* 122, verses 21–22, and *sarga* 123.
 
 ## 82
 
-> Subheading: An example — the former pastime of Śrī Kṛṣṇa delivering the *jīvas* —
+> Subheading: An example — the former pastime of Śrī Kṛṣṇa delivering the jīvas —
 
 ## 83
 
 > Subheading: Bhagavān Himself, Kṛṣṇa, has the power to deliver countless millions of universes — (*Śrīmad-Bhāgavatam* 10.29.16)
 
-On the night of the Rāsa full moon the *gopīs* heard Kṛṣṇa’s flute and longed to meet Him and be with Him. While describing their good fortune, Śrī Śukadeva glorifies to Parīkṣit the greatness of the Supreme Lord Śrī Kṛṣṇa and gives him this instruction:
+On the night of the Rāsa full moon the gopīs heard Kṛṣṇa’s flute and longed to meet Him and be with Him. While describing their good fortune, Śrī Śukadeva glorifies to Parīkṣit the greatness of the Supreme Lord Śrī Kṛṣṇa and gives him this instruction:
 
 O King, **yataḥ** (from whom — from Śrī Kṛṣṇa) **etat** (this — every living being without exception, stationary, moving and the rest — is liberated; therefore) **bhavatā** (by you) **bhagavati** (endowed with all opulences) **aje** (self-manifest) **yogeśvareśvare** (the supreme Lord of the mystic perfections, the Supreme Soul) **kṛṣṇe** **evam** (about [His] power to grant liberation) **vismayaḥ na ca eva kāryaḥ** (no astonishment should be felt).
 
@@ -230,11 +230,11 @@ O King, **yataḥ** (from whom — from Śrī Kṛṣṇa) **etat** (this — ev
 
 > Subheading: (*Viṣṇu Purāṇa* 4.15.10)
 
-**dveṣānubandhena api** (even in the mood of an enemy) **ayam bhagavān hi** **dṛṣṭaḥ** (seen), **kīrtitaḥ** (uttered in speech), **manasā** (in the mind) **saṁsmṛtaḥ ca** (and remembered) **akhila-surāsurādi-durlabham** **phalam** (liberation and the like) **prayacchati**; **uta** **samyag-bhaktimatām** (of those who on the path of *bhakti* are wholly intent on giving up the three — other desires, *karma*, *jñāna* and the like — that is, of pure devotees) **kim vaktavyam?** (what need be said?)
+**dveṣānubandhena api** (even in the mood of an enemy) **ayam bhagavān hi** **dṛṣṭaḥ** (seen), **kīrtitaḥ** (uttered in speech), **manasā** (in the mind) **saṁsmṛtaḥ ca** (and remembered) **akhila-surāsurādi-durlabham** **phalam** (liberation and the like) **prayacchati**; **uta** **samyag-bhaktimatām** (of those who on the path of bhakti are wholly intent on giving up the three — other desires, karma, jñāna and the like — that is, of pure devotees) **kim vaktavyam?** (what need be said?)
 
 ## 85
 
-> Subheading: While the Lord is manifestly present in the world, the *jīvas* of all the universes are delivered —
+> Subheading: While the Lord is manifestly present in the world, the jīvas of all the universes are delivered —
 
 ## 86
 
@@ -248,7 +248,7 @@ See Madhya 21.25–26 and *Śrīmad-Bhāgavatam* 10.14.36.
 
 > Subheading: Even Bhagavān is astonished at the devotee’s power to reveal the mystery of His pastimes —
 
-The confidential pastime is the pastime of delivering the *jīvas*.
+The confidential pastime is the pastime of delivering the jīvas.
 
 ## 89
 
@@ -302,13 +302,13 @@ Benāpola: on the E.B.R. line, on the way to Khulnā, Benāpola station comes af
 
 ## 123
 
-> Subheading: Ṭhākura Haridāsa describes his own initiation into the *mahā-mantra*; a *brāhmaṇa* by initiation —
+> Subheading: Ṭhākura Haridāsa describes his own initiation into the *mahā-mantra*; a brāhmaṇa by initiation —
 
-If one chants the name of Hari every day, counting more than three hundred thirty-three thousand three hundred thirty-three names, in one month the count reaches a *koṭi* (ten million) names. In this sacrifice of chanting the Name, Bhagavān, the Bearer of the Name (*nāmī*), is worshipped. By ordinary worldly notions Haridāsa Ṭhākura was not regarded as entitled to perform sacrifice, either by birth (*śaukra*) or by Sāvitrī initiation. Yet, because he was initiated into the sacrifice of the Name, he performed it as a Vedic *brāhmaṇa* by initiation (*daikṣa-brāhmaṇa*) of the Ekāyana branch. The twice-born Haridāsa Ṭhākura is a transcendental *brāhmaṇa* priest (*yājñika*), and the sacrifice concerning the Name that he had begun was nearly complete. And yet he let it be known that, if it were not completed, his sacrifice would again be broken[^123-1].
+If one chants the name of Hari every day, counting more than three hundred thirty-three thousand three hundred thirty-three names, in one month the count reaches a *koṭi* (ten million) names. In this sacrifice of chanting the Name, Bhagavān, the Bearer of the Name (*nāmī*), is worshipped. By ordinary worldly notions Haridāsa Ṭhākura was not regarded as entitled to perform sacrifice, either by birth (*śaukra*) or by Sāvitrī initiation. Yet, because he was initiated into the sacrifice of the Name, he performed it as a Vedic brāhmaṇa by initiation (*daikṣa-brāhmaṇa*) of the Ekāyana branch. The twice-born Haridāsa Ṭhākura is a transcendental brāhmaṇa priest (*yājñika*), and the sacrifice concerning the Name that he had begun was nearly complete. And yet he let it be known that, if it were not completed, his sacrifice would again be broken[^123-1].
 
 ## 129
 
-> Subheading: The company of a *sādhu* awakens detachment (*nirveda*) in the prostitute, and she begs the Ṭhākura for mercy —
+> Subheading: The company of a sādhu awakens detachment (*nirveda*) in the prostitute, and she begs the Ṭhākura for mercy —
 
 ## 132
 
@@ -328,7 +328,7 @@ If one chants the name of Hari every day, counting more than three hundred thirt
 
 ## 136
 
-> Subheading: Only through service to the Vaiṣṇavas and constant chanting of Kṛṣṇa’s name does the *jīva* attain the goal (*prayojana*) —
+> Subheading: Only through service to the Vaiṣṇavas and constant chanting of Kṛṣṇa’s name does the jīva attain the goal (*prayojana*) —
 
 ## 137
 
@@ -338,7 +338,7 @@ If one chants the name of Hari every day, counting more than three hundred thirt
 
 > Subheading: The prostitute carries out her guru’s order —
 
-***Guru*** — Śrī Haridāsa’s. ***Gṛha-vitta*** (household wealth) — another reading has the word *gṛha-vṛtti* here, which does not fit. She certainly did not give away her occupation (*vṛtti*), the prostitute’s trade; what she handed over to the *brāhmaṇas* was the wealth (*vitta*) she had amassed by that trade. Although everything a disciple owns rightfully belongs to the *gurudeva*, a Vaiṣṇava guru does not himself take the disciple’s household wealth and other worldly filth. Those who accept *dakṣiṇā* (the priest’s fee) are led by the path of *dakṣiṇā*, the southern path, to the abode of Yama. The Vaiṣṇava guru is no traveller to Yama’s abode: he walks the northern path. That is why the rule is to give worldly riches to *brāhmaṇas* devoted to *karma* and to others like them. The Vaiṣṇava guru does not take for himself the disciple’s objects of enjoyment and worldly riches, which turn one away from Hari, and so he never becomes dependent on the disciple or looks to him for favour. On the contrary, knowing that such riches turn one away from Hari, he invariably rejects them. To free the disciple from his former worldly self-conception, and not to take for oneself the worldly filth the disciple has discarded — this is the duty of a Vaiṣṇava guru faithful to right conduct. This is what Ṭhākura Haridāsa teaches.
+***Guru*** — Śrī Haridāsa’s. ***Gṛha-vitta*** (household wealth) — another reading has the word *gṛha-vṛtti* here, which does not fit. She certainly did not give away her occupation (*vṛtti*), the prostitute’s trade; what she handed over to the brāhmaṇas was the wealth (*vitta*) she had amassed by that trade. Although everything a disciple owns rightfully belongs to the *gurudeva*, a Vaiṣṇava guru does not himself take the disciple’s household wealth and other worldly filth. Those who accept *dakṣiṇā* (the priest’s fee) are led by the path of *dakṣiṇā*, the southern path, to the abode of Yama. The Vaiṣṇava guru is no traveller to Yama’s abode: he walks the northern path. That is why the rule is to give worldly riches to brāhmaṇas devoted to karma and to others like them. The Vaiṣṇava guru does not take for himself the disciple’s objects of enjoyment and worldly riches, which turn one away from Hari, and so he never becomes dependent on the disciple or looks to him for favour. On the contrary, knowing that such riches turn one away from Hari, he invariably rejects them. To free the disciple from his former worldly self-conception, and not to take for oneself the worldly filth the disciple has discarded — this is the duty of a Vaiṣṇava guru faithful to right conduct. This is what Ṭhākura Haridāsa teaches.
 
 ## 139
 
@@ -346,7 +346,7 @@ If one chants the name of Hari every day, counting more than three hundred thirt
 
 ## 140
 
-> Subheading: The fruit of practicing the Name: steadiness, mastery of the senses, and perfection, the dawning of *prema* —
+> Subheading: The fruit of practicing the Name: steadiness, mastery of the senses, and perfection, the dawning of prema —
 
 ## 141
 
@@ -368,7 +368,7 @@ If one chants the name of Hari every day, counting more than three hundred thirt
 
 > Subheading: Because of his offence against a Vaiṣṇava, Rāmacandra Khān, averse to the Lord since time without beginning, hates the Vaiṣṇavas all the more —
 
-Rāvaṇa, the son of Viśravā, was born in a *brāhmaṇa* family, yet because of his offence at the feet of Viṣṇu he came to be called an *asura*. In the same way, by offending the feet of a devotee, Rāmacandra Khān came to be known in society as “like an *asura*.”
+Rāvaṇa, the son of Viśravā, was born in a brāhmaṇa family, yet because of his offence at the feet of Viṣṇu he came to be called an *asura*. In the same way, by offending the feet of a devotee, Rāmacandra Khān came to be known in society as “like an *asura*.”
 
 ## 147
 
@@ -430,7 +430,7 @@ Rāvaṇa, the son of Viśravā, was born in a *brāhmaṇa* family, yet because
 
 ## 169
 
-> Subheading: Caitanya is attained only through the company and mercy of a *sādhu* —
+> Subheading: Caitanya is attained only through the company and mercy of a sādhu —
 
 ## 170
 
@@ -468,7 +468,7 @@ See Ādi 7.94.
 
 ## 179
 
-> Subheading: *Nāmābhāsa* and its fruit, the removal of *anarthas*, are already contained within the pure Name and its fruit, the dawning of *prema* —
+> Subheading: *Nāmābhāsa* and its fruit, the removal of *anarthas*, are already contained within the pure Name and its fruit, the dawning of prema —
 
 As a secondary fruit, the Name frees one from the bondage of *saṁsāra* and destroys sin, which is attachment to *saṁsāra*. The definition of initiation into a mantra containing the Name is recorded thus: “Because it gives divine knowledge and destroys sin, the teachers who know the truth call it *dīkṣā*.”[^179-1] As an example, one can say this: the chief fruit of sunrise is that the sun shines by itself, illuminates other things, gives joy, and so on; besides these, as a by-product, the absence of darkness is also seen.
 
@@ -476,7 +476,7 @@ As a secondary fruit, the Name frees one from the bondage of *saṁsāra* and de
 
 > Subheading: When the sun of the Name rises, the darkness of ignorance perishes —
 
-**jagan-maṅgalam** (the good of the world, bestowing every good up to *prema*) **hareḥ nāma** (the Lord who is Hari’s holy Name) **sakṛt** (once) **udayāt** (by rising, that is, by appearing in senses and the rest that are turned towards service, as one performs *kīrtana*, hearing and so on) **eva** **taraṇiḥ** (the sun) **timira-jaladhim** (an ocean of dense darkness) **iva** (just as it destroys, so) **sakala-lokasya** (of the whole world) **akhilam aṁhaḥ** (sin, the cause of *saṁsāra*) **saṁharat** (removing) **jayati** (prevails above all).
+**jagan-maṅgalam** (the good of the world, bestowing every good up to *prema*) **hareḥ nāma** (the Lord who is Hari’s holy Name) **sakṛt** (once) **udayāt** (by rising, that is, by appearing in senses and the rest that are turned towards service, as one performs kīrtana, hearing and so on) **eva** **taraṇiḥ** (the sun) **timira-jaladhim** (an ocean of dense darkness) **iva** (just as it destroys, so) **sakala-lokasya** (of the whole world) **akhilam aṁhaḥ** (sin, the cause of *saṁsāra*) **saṁharat** (removing) **jayati** (prevails above all).
 
 ## 181
 
@@ -516,7 +516,7 @@ See Ādi 4.207.[^187-1]
 
 ## 193
 
-> Subheading: The Ṭhākura cites scriptural evidence and shows how trivial liberation is for one wholly devoted to *prema-bhakti* —
+> Subheading: The Ṭhākura cites scriptural evidence and shows how trivial liberation is for one wholly devoted to prema-bhakti —
 
 ## 195
 
@@ -524,7 +524,7 @@ See Ādi 7.98.
 
 ## 196
 
-> Subheading: The *brāhmaṇa* makes a vow before the Ṭhākura —
+> Subheading: The brāhmaṇa makes a vow before the Ṭhākura —
 
 ## 197
 
@@ -604,11 +604,11 @@ See Ādi 7.98.
 
 ## 220
 
-The *Bhakti-sandarbha* (117) quotes these words of the *Garuḍa Purāṇa*: “Better than thousands of *brāhmaṇas* is one who performs *satra* sacrifices; better than thousands of *satra* performers is one who has mastered all of Vedānta; better than ten million knowers of all Vedānta is a devotee of Viṣṇu; and better than thousands of Vaiṣṇavas is a single one wholly devoted (*ekāntī*).” “Even a *mleccha*, if this eightfold *bhakti* is present in him, is the best of *brāhmaṇas*, the best of sages; he is wise, and he is learned. To him one should give, from him one should accept, and he is to be worshipped as Hari is.” “One who knows the four Vedas but is not My devotee is not dear to Me; My devotee, though born among dog-eaters, is dear to Me. To him one should give, from him one should accept, and he is to be worshipped as I am.”
+The *Bhakti-sandarbha* (117) quotes these words of the *Garuḍa Purāṇa*: “Better than thousands of brāhmaṇas is one who performs *satra* sacrifices; better than thousands of *satra* performers is one who has mastered all of Vedānta; better than ten million knowers of all Vedānta is a devotee of Viṣṇu; and better than thousands of Vaiṣṇavas is a single one wholly devoted (*ekāntī*).” “Even a *mleccha*, if this eightfold bhakti is present in him, is the best of brāhmaṇas, the best of sages; he is wise, and he is learned. To him one should give, from him one should accept, and he is to be worshipped as Hari is.” “One who knows the four Vedas but is not My devotee is not dear to Me; My devotee, though born among dog-eaters, is dear to Me. To him one should give, from him one should accept, and he is to be worshipped as I am.”
 
 ## 221
 
-> Subheading: Śrī Advaita Ācārya’s incomparable mercy towards the *jīvas* —
+> Subheading: Śrī Advaita Ācārya’s incomparable mercy towards the jīvas —
 
 ## 222
 
@@ -620,7 +620,7 @@ The *Bhakti-sandarbha* (117) quotes these words of the *Garuḍa Purāṇa*: “
 
 ## 224
 
-> Subheading: At the call of the two, Kṛṣṇa Caitanya descends to deliver the *jīvas*, and by distributing the Name and *prema* He delivers the whole world —
+> Subheading: At the call of the two, Kṛṣṇa Caitanya descends to deliver the jīvas, and by distributing the Name and prema He delivers the whole world —
 
 ## 225
 
@@ -636,7 +636,7 @@ The *Bhakti-sandarbha* (117) quotes these words of the *Garuḍa Purāṇa*: “
 
 ## 234
 
-> Subheading: Māyā, who enchants the *jīvas*, tests Ṭhākura Haridāsa —
+> Subheading: Māyā, who enchants the jīvas, tests Ṭhākura Haridāsa —
 
 ## 238
 
@@ -664,7 +664,7 @@ While chanting the holy name of Hari, Haridāsa’s mind was always absorbed in 
 
 > Subheading: Māyā admits her defeat —
 
-Māyā-devī bewilders every living being of every kind, from Brahmā down to a blade of grass (*ābrahma-stamba*) — that is, beginning with Brahmā: the demigods, humans, beasts, birds and other creatures (*tiryak*), down to the immobile beings. She makes them feel that they are her “enjoyers” (*bhoktā*) and that she is their “object of enjoyment” (*bhogyā*). But the mood in Haridāsa’s heart — wholly given to serving Kṛṣṇa and pleasing Kṛṣṇa’s senses — was in no way overcome by Māyā’s deceitful temptations. Like Haridāsa, all pure Vaiṣṇavas hold this Vedāntic conviction: the pure devotee eternally exists for Kṛṣṇa’s enjoyment and is never an enjoyer of Māyā. He is an eternal entity of Vaikuṇṭha, beyond the senses (*adhokṣaja*) and beyond the *guṇas* — that is, transcendental (*aprākṛta*). And the *jīva* is freed from Māyā’s power, from *anarthas*, when he gives up the misapprehension (*vivarta*) of identifying himself with the body and knows himself to be a servant of Kṛṣṇa, a Vaiṣṇava — that is, as the fruit of service to Adhokṣaja.
+Māyā-devī bewilders every living being of every kind, from Brahmā down to a blade of grass (*ābrahma-stamba*) — that is, beginning with Brahmā: the demigods, humans, beasts, birds and other creatures (*tiryak*), down to the immobile beings. She makes them feel that they are her “enjoyers” (*bhoktā*) and that she is their “object of enjoyment” (*bhogyā*). But the mood in Haridāsa’s heart — wholly given to serving Kṛṣṇa and pleasing Kṛṣṇa’s senses — was in no way overcome by Māyā’s deceitful temptations. Like Haridāsa, all pure Vaiṣṇavas hold this Vedāntic conviction: the pure devotee eternally exists for Kṛṣṇa’s enjoyment and is never an enjoyer of Māyā. He is an eternal entity of Vaikuṇṭha, beyond the senses (*adhokṣaja*) and beyond the *guṇas* — that is, transcendental (*aprākṛta*). And the jīva is freed from Māyā’s power, from *anarthas*, when he gives up the misapprehension (*vivarta*) of identifying himself with the body and knows himself to be a servant of Kṛṣṇa, a Vaiṣṇava — that is, as the fruit of service to Adhokṣaja.
 
 ## 250
 
@@ -676,7 +676,7 @@ Māyā-devī bewilders every living being of every kind, from Brahmā down to a 
 
 ## 252
 
-> Subheading: Without cultivating devotion to Kṛṣṇa under the shelter of Caitanya, who descended out of causeless mercy, the *jīva* is no better than dull matter —
+> Subheading: Without cultivating devotion to Kṛṣṇa under the shelter of Caitanya, who descended out of causeless mercy, the jīva is no better than dull matter —
 
 ## 253
 
@@ -728,7 +728,7 @@ One *mahā-yuga* is 4,320,000 solar years; a thousand such *mahā-yugas* make on
 
 ## 266
 
-> Subheading: By the power of *kīrtana* of Kṛṣṇa, all the forms of God (*īśa-tattva*), beginning with Bhagavān Śrī Kṛṣṇa Himself, and all *jīvas*, immobile and mobile, become maddened with love of Kṛṣṇa —
+> Subheading: By the power of kīrtana of Kṛṣṇa, all the forms of God (*īśa-tattva*), beginning with Bhagavān Śrī Kṛṣṇa Himself, and all jīvas, immobile and mobile, become maddened with love of Kṛṣṇa —
 
 ## 267
 
@@ -740,7 +740,7 @@ One *mahā-yuga* is 4,320,000 solar years; a thousand such *mahā-yugas* make on
 
 ## 269
 
-> Subheading: Pure devotees rejoice to hear the glory of the Ṭhākura, the *ācārya* of the holy Name —
+> Subheading: Pure devotees rejoice to hear the glory of the Ṭhākura, the ācārya of the holy Name —
 
 *Thus ends the third chapter of the “Anubhāṣya.”*
 

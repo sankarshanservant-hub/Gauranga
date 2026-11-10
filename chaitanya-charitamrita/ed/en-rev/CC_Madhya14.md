@@ -2659,7 +2659,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^4]: Heading in the edition: “Dressed as a humble Vaiṣṇava, with the permission of all the Vaiṣṇavas, [the king] massages the feet of the Lord, who lies with His eyes closed.”
 
-[^5]: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the rāsa dance (Śrīmad-Bhāgavatam, 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
+[^5]: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the rāsa dance (*Śrīmad-Bhāgavatam* 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
 
 [^6]: *Anubhāṣya*: the gopīs sing this verse when Kṛṣṇa has vanished from the rāsa dance; *tapta-jīvanam* — the life of those who burn in separation from Him; *kalmaṣāpaham* — taking away the anguish of the fever of separation; *kavi* — those who know the rasa of Kṛṣṇa. Heading in the edition: “One who gives away the nectar of the Lord’s narrations is the most munificent of givers.”
 

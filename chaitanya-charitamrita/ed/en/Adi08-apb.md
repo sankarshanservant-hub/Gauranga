@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In the eighth chapter the greatness of Śrī Caitanya and Nityānanda is described in this way: even if a person chants the name of Kṛṣṇa birth after birth, he does not obtain the treasure of *prema* as long as offences against the holy name remain in him. From this one must understand that the *sāttvika-vikāras* (spiritual transformations) and other signs shown by one who offends the name are mere pretence. But whoever takes the names of Caitanya and Nityānanda without duplicity and expresses joy — the two Lords directly free his heart from offences, and then, when he chants Kṛṣṇa’s name, love awakens in him. Śrī Vṛndāvana dāsa Ṭhākura had noted the final pastimes of Mahāprabhu only briefly in his *Śrī Caitanya-bhāgavata*, and they remained to be described. Therefore, at the order of the Vaiṣṇavas living in Śrī Vṛndāvana, and after receiving the garland of command from Śrīla Madana-mohana, Kavirāja Gosvāmī composed this book.
+**Summary.** In the eighth chapter the greatness of Śrī Caitanya and Nityānanda is described in this way: even if a person chants the name of Kṛṣṇa birth after birth, he does not obtain the treasure of prema as long as offences against the holy name remain in him. From this one must understand that the *sāttvika-vikāras* (spiritual transformations) and other signs shown by one who offends the name are mere pretence. But whoever takes the names of Caitanya and Nityānanda without duplicity and expresses joy — the two Lords directly free his heart from offences, and then, when he chants Kṛṣṇa’s name, love awakens in him. Śrī Vṛndāvana dāsa Ṭhākura had noted the final pastimes of Mahāprabhu only briefly in his *Śrī Caitanya-bhāgavata*, and they remained to be described. Therefore, at the order of the Vaiṣṇavas living in Śrī Vṛndāvana, and after receiving the garland of command from Śrīla Madana-mohana, Kavirāja Gosvāmī composed this book.
 
 ## 1
 
@@ -14,7 +14,7 @@ I bow down to Bhagavān Caitanyadeva. By His will I, a fool like a painted puppe
 
 ## 16
 
-A person burdened with the ten kinds of offences against the holy name may hear and chant for many births, yet he never obtains the treasure of *prema* at Kṛṣṇa’s feet.
+A person burdened with the ten kinds of offences against the holy name may hear and chant for many births, yet he never obtains the treasure of prema at Kṛṣṇa’s feet.
 
 ## 17
 
@@ -32,7 +32,7 @@ Nārada said: “O child Yudhiṣṭhira! For you and for the Yadus, Bhagavān K
 
 ## 21–22
 
-There is one wonderful feature of the avatāra of Śrī Caitanya. To anyone who comes near Him He gives the hidden storehouse of *prema*, without considering whether that person is worthy or not, for He is the independent Lord. Consider also that Caitanyacandra has descended as the guru of the whole world. Whether one is an offender or free from offence, if he surrenders and calls out to Him, “O Gaurāṅga! O Kṛṣṇa Caitanya!” he is overwhelmed by the thrill and the tears of love for Kṛṣṇa.
+There is one wonderful feature of the avatāra of Śrī Caitanya. To anyone who comes near Him He gives the hidden storehouse of prema, without considering whether that person is worthy or not, for He is the independent Lord. Consider also that Caitanyacandra has descended as the guru of the whole world. Whether one is an offender or free from offence, if he surrenders and calls out to Him, “O Gaurāṅga! O Kṛṣṇa Caitanya!” he is overwhelmed by the thrill and the tears of love for Kṛṣṇa.
 
 ## 24
 
@@ -44,11 +44,11 @@ If, when a person takes Hari’s name, his heart does not change, his eyes do no
 
 ## 26
 
-He reveals the *sādhana-bhakti* that awakens *prema*.
+He reveals the *sādhana-bhakti* that awakens prema.
 
 ## 31
 
-If someone takes shelter of Caitanya and Nityānanda with faith, all his past offences are washed away in a moment; and as soon as Kṛṣṇa’s name rises on his lips, the Lord gives him *prema*.
+If someone takes shelter of Caitanya and Nityānanda with faith, all his past offences are washed away in a moment; and as soon as Kṛṣṇa’s name rises on his lips, the Lord gives him prema.
 
 ## 33
 
@@ -56,7 +56,7 @@ If someone takes shelter of Caitanya and Nityānanda with faith, all his past of
 
 ## 41
 
-Nārāyaṇī was the daughter of Śrīvāsa Paṇḍita’s brother. As a child she used to receive the remnants of Mahāprabhu’s meal at the end of *kīrtana*.
+Nārāyaṇī was the daughter of Śrīvāsa Paṇḍita’s brother. As a child she used to receive the remnants of Mahāprabhu’s meal at the end of kīrtana.
 
 ## 57
 

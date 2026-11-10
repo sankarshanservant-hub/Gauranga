@@ -4,7 +4,7 @@
 
 > Subheading: By the mercy of Gaura’s devotees even lowly worldly people (*viṣayīs*) attain love for Kṛṣṇa —
 
-**agaṇya-dhanya-caitanya-gaṇānām** (of Caitanya’s associates, the devotees who have taken shelter at His feet, who are countless, impossible to count, and blessed, having attained perfection) **prema-vanyayā** (by the flood of *prema* — by a stream of water overflowing the bed of the river of love) **adhanya-jana-svānta-maruḥ** (the desert of the hearts of the unfortunate — the waterless desert that the hearts of lowly people devoid of *bhakti* resemble) **śaśvat** (constantly) **anūpatām** (to the state of a well-watered land, almost wholly covered with water) **ninye** (was brought).
+**agaṇya-dhanya-caitanya-gaṇānām** (of Caitanya’s associates, the devotees who have taken shelter at His feet, who are countless, impossible to count, and blessed, having attained perfection) **prema-vanyayā** (by the flood of prema — by a stream of water overflowing the bed of the river of love) **adhanya-jana-svānta-maruḥ** (the desert of the hearts of the unfortunate — the waterless desert that the hearts of lowly people devoid of bhakti resemble) **śaśvat** (constantly) **anūpatām** (to the state of a well-watered land, almost wholly covered with water) **ninye** (was brought).
 
 ## 4
 
@@ -16,7 +16,7 @@
 
 ## 6
 
-> Subheading: By day, dancing, *kīrtana* and *darśana*; by night, relishing *rasa* with Svarūpa and Rāya —
+> Subheading: By day, dancing, kīrtana and darśana; by night, relishing rasa with Svarūpa and Rāya —
 
 ## 7
 
@@ -46,7 +46,7 @@ See Antya 2.10.
 
 ## 11
 
-> Subheading: Outside, people clamour to see the Lord, Who is within the house; the Lord gives them *darśana* and tells everyone to chant the narrations of Kṛṣṇa —
+> Subheading: Outside, people clamour to see the Lord, Who is within the house; the Lord gives them darśana and tells everyone to chant the narrations of Kṛṣṇa —
 
 ## 12
 
@@ -98,7 +98,7 @@ See Antya 2.10.
 
 ## 35
 
-> Subheading: As an example of the *dharma* of *sannyāsa*, the Lord shows indifference, or detachment, towards talk of worldly affairs —
+> Subheading: As an example of the dharma of sannyāsa, the Lord shows indifference, or detachment, towards talk of worldly affairs —
 
 ## 36
 
@@ -110,7 +110,7 @@ See Antya 2.10.
 
 ## 40
 
-> Subheading: A *sannyāsī* is not fit to involve himself in worldly affairs —
+> Subheading: A sannyāsī is not fit to involve himself in worldly affairs —
 
 *Sannyāsī brāhmaṇa* — one who has no money, who has given up worldly things and lives by begging.
 
@@ -196,11 +196,11 @@ See Śrīmad-Bhāgavatam 7.10.4.
 
 ## 68
 
-*Vyavahāra* — a livelihood or material enjoyments. Worldly people (*viṣayīs*), each wanting his own worldly object, with minds full of craving for fruits and enjoyment, seek the help of Viṣṇu or of the Vaiṣṇavas. In the book *Saptaśatī*, for people with just such minds devoid of *bhakti*, the fulfilment of various practical desires is described as the fruit of worshipping the Devī. All such selfish endeavours are only the efforts of fools who lack the eye of knowledge. Even when they set out to worship Īśvara purely, worldly people are driven by their own material interest: *dharma*, *artha*, *kāma* and *mokṣa*. They hope for “*mukti*” attained through knowledge of Brahman, for the enjoyments of heaven and the like, and for practical freedom from the dualities (*advandva*), and so they turn away from pure service to Kṛṣṇa and the *kārṣṇas* (His own).
+*Vyavahāra* — a livelihood or material enjoyments. Worldly people (*viṣayīs*), each wanting his own worldly object, with minds full of craving for fruits and enjoyment, seek the help of Viṣṇu or of the Vaiṣṇavas. In the book *Saptaśatī*, for people with just such minds devoid of bhakti, the fulfilment of various practical desires is described as the fruit of worshipping the Devī. All such selfish endeavours are only the efforts of fools who lack the eye of knowledge. Even when they set out to worship Īśvara purely, worldly people are driven by their own material interest: dharma, *artha*, *kāma* and *mokṣa*. They hope for “*mukti*” attained through knowledge of Brahman, for the enjoyments of heaven and the like, and for practical freedom from the dualities (*advandva*), and so they turn away from pure service to Kṛṣṇa and the *kārṣṇas* (His own).
 
 ## 69
 
-Nowadays mantra-merchants and worldly people who live off the garb of religion have taken up a pretence of preaching the holy name. They must maintain wife and children, fill their own bellies, and procure clothes and ornaments for wife and children. They live in Śrī Vṛndāvana and Navadvīpa, sell books to feed and clothe themselves and maintain their families, recite the *śāstras*, perform as *kathakas* and lecturers, serve the Śrī Vigraha, give initiation, beg alms, cure their relatives’ illnesses, take the *bhek* (the renunciant’s garb), worship the poor, work for social improvement, and so on. Spreading many kinds of nets of deceit, they cheat foolish people who do not know the truth about *bhakti*, acquire money and the like, and so worship only worldly things. But they cannot understand that the treasure of *prema* for You, which even Brahmā and others find hard to attain, comes only as the fruit of pure service to You, causeless and free from deceit.
+Nowadays mantra-merchants and worldly people who live off the garb of religion have taken up a pretence of preaching the holy name. They must maintain wife and children, fill their own bellies, and procure clothes and ornaments for wife and children. They live in Śrī Vṛndāvana and Navadvīpa, sell books to feed and clothe themselves and maintain their families, recite the *śāstras*, perform as *kathakas* and lecturers, serve the Śrī Vigraha, give initiation, beg alms, cure their relatives’ illnesses, take the *bhek* (the renunciant’s garb), worship the poor, work for social improvement, and so on. Spreading many kinds of nets of deceit, they cheat foolish people who do not know the truth about bhakti, acquire money and the like, and so worship only worldly things. But they cannot understand that the treasure of prema for You, which even Brahmā and others find hard to attain, comes only as the fruit of pure service to You, causeless and free from deceit.
 
 ## 70
 
@@ -252,7 +252,7 @@ See Madhya 6.261.
 
 ## 87
 
-> Subheading: The Lord, the embodiment and guardian of *dharma*, sharply rebukes Gopīnātha for misappropriating the king’s money; a description of the social, political and economic rules — that is, the rules of earning money honestly (*śukla-vitta*) —
+> Subheading: The Lord, the embodiment and guardian of dharma, sharply rebukes Gopīnātha for misappropriating the king’s money; a description of the social, political and economic rules — that is, the rules of earning money honestly (*śukla-vitta*) —
 
 ## 92
 
@@ -268,7 +268,7 @@ See Madhya 6.261.
 
 ## 95
 
-> Subheading: Even a moment’s *darśana* of the Lord is supremely desirable —
+> Subheading: Even a moment’s darśana of the Lord is supremely desirable —
 
 ## 97
 
@@ -328,7 +328,7 @@ The present town of Rājamahendrī stands on the northern bank of the Godāvarī
 
 > Subheading: The chief fruit of remembering Gaura is love for Gaura; the secondary fruit is worldly happiness —
 
-Remembering Śrī Mahāprabhu can bring every perfection. The three worldly aims (*trivarga*) — *dharma*, *artha* and *kāma* — and liberation (*apavarga*), *mokṣa* and the rest, are secondary fruits. They are a “semblance of fruit” (*phalābhāsa*), gained by those who thirst after fickle worldly objects. Compared with the complete, eternally perfect fruit — attaining love for Kṛṣṇa — they are utterly contemptible and bring only a small gain.
+Remembering Śrī Mahāprabhu can bring every perfection. The three worldly aims (*trivarga*) — dharma, *artha* and *kāma* — and liberation (*apavarga*), *mokṣa* and the rest, are secondary fruits. They are a “semblance of fruit” (*phalābhāsa*), gained by those who thirst after fickle worldly objects. Compared with the complete, eternally perfect fruit — attaining love for Kṛṣṇa — they are utterly contemptible and bring only a small gain.
 
 ## 139
 
@@ -336,23 +336,23 @@ Remembering Śrī Mahāprabhu can bring every perfection. The three worldly aims
 
 ## 140
 
-> Subheading: The Lord disregards the outward dress of *sannyāsa*; knowing Gopīnātha’s qualification (*adhikāra*), He tells him to worship Hari while remaining in the household *āśrama* —
+> Subheading: The Lord disregards the outward dress of sannyāsa; knowing Gopīnātha’s qualification (*adhikāra*), He tells him to worship Hari while remaining in the household *āśrama* —
 
 ## 141
 
-> Subheading: The teaching that the perfected servants of Gaura, indifferent to whether they wear a householder’s or a *sannyāsī*’s dress, worship Kṛṣṇa in every condition —
+> Subheading: The teaching that the perfected servants of Gaura, indifferent to whether they wear a householder’s or a sannyāsī’s dress, worship Kṛṣṇa in every condition —
 
-When the *jīva* has the pure self-conception “I am the Lord’s eternal, very own servant,” neither the outward acceptance of *sannyāsa* nor outward service to vast worldly affairs can do him any outward harm. For the *jīva* falls into bondage only when he forgets Kṛṣṇa’s happiness and becomes intent on material enjoyment for himself. And when he becomes transcendental, devoted to serving Kṛṣṇa, then even living at home he is in great renunciation (*mahā-sannyāsa*). In that state he is absorbed in Kṛṣṇa at every moment, so even the greatest worldly affairs, which frighten people, cannot trouble him at all: in every condition he remains equally Kṛṣṇa’s servant.
+When the jīva has the pure self-conception “I am the Lord’s eternal, very own servant,” neither the outward acceptance of sannyāsa nor outward service to vast worldly affairs can do him any outward harm. For the jīva falls into bondage only when he forgets Kṛṣṇa’s happiness and becomes intent on material enjoyment for himself. And when he becomes transcendental, devoted to serving Kṛṣṇa, then even living at home he is in great renunciation (*mahā-sannyāsa*). In that state he is absorbed in Kṛṣṇa at every moment, so even the greatest worldly affairs, which frighten people, cannot trouble him at all: in every condition he remains equally Kṛṣṇa’s servant.
 
 ## 142
 
 > Subheading: Moral and religious instruction to Gopīnātha: to fulfil his duty to the king and to spend only what has been honestly earned (*śukla-artha*) —
 
-When the *jīva* forgets his transcendental self-conception as the Lord’s servant and becomes an enjoyer of material things, he takes to sins contrary to *dharma* and morality. This is what the Lord forbids.
+When the jīva forgets his transcendental self-conception as the Lord’s servant and becomes an enjoyer of material things, he takes to sins contrary to dharma and morality. This is what the Lord forbids.
 
 ## 144
 
-When the *jīva* takes to sin, he meets obstacles in attaining both — material welfare and transcendental realisation.
+When the jīva takes to sin, he meets obstacles in attaining both — material welfare and transcendental realisation.
 
 ## 145
 
@@ -368,9 +368,9 @@ When the *jīva* takes to sin, he meets obstacles in attaining both — material
 
 ## 148
 
-> Subheading: A description of the hidden secret of the Lord’s conduct in the pastime of Gopīnātha’s rescue, and of its meaning: (1) at first He does not agree to rescue Gopīnātha; (2) after Gopīnātha’s rescue He rebukes him for acquiring money dishonestly; (3) as the ideal for a renounced *sannyāsī* Vaiṣṇava, He wishes for solitude — that is, to leave bad association, the talk of worldly affairs; (4) Gopīnātha’s worldly fortune increases; (5) to Gopīnātha, who fears worldly enjoyment, He teaches that whether one stays at home or leaves home, in every condition one is fit to worship Kṛṣṇa —
+> Subheading: A description of the hidden secret of the Lord’s conduct in the pastime of Gopīnātha’s rescue, and of its meaning: (1) at first He does not agree to rescue Gopīnātha; (2) after Gopīnātha’s rescue He rebukes him for acquiring money dishonestly; (3) as the ideal for a renounced sannyāsī Vaiṣṇava, He wishes for solitude — that is, to leave bad association, the talk of worldly affairs; (4) Gopīnātha’s worldly fortune increases; (5) to Gopīnātha, who fears worldly enjoyment, He teaches that whether one stays at home or leaves home, in every condition one is fit to worship Kṛṣṇa —
 
-Gopīnātha is a *jīva*, and if he serves worldly affairs, harm to him is inevitable. Bringing about material welfare must be understood as the Lord’s secondary mercy. If Śrī Gaurasundara Himself, in the dress of a renounced devotee, set out to help a worldly man, then people would imitate such conduct of His, and the ideal of the renounced Vaiṣṇava would be belittled and despised. Therefore a *bhāgavata* who is free from worldly dependence (*nirapekṣa*) and wears the dress of a renunciant should never take up the affairs of worldly people.
+Gopīnātha is a jīva, and if he serves worldly affairs, harm to him is inevitable. Bringing about material welfare must be understood as the Lord’s secondary mercy. If Śrī Gaurasundara Himself, in the dress of a renounced devotee, set out to help a worldly man, then people would imitate such conduct of His, and the ideal of the renounced Vaiṣṇava would be belittled and despised. Therefore a *bhāgavata* who is free from worldly dependence (*nirapekṣa*) and wears the dress of a renunciant should never take up the affairs of worldly people.
 
 ## 151
 

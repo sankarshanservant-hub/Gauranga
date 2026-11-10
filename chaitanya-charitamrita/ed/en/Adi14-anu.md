@@ -220,7 +220,7 @@ Lakṣmī-devī: *Gaura-gaṇoddeśa-dīpikā* (45): “Śrī Jānakī and Rukmi
 
 > Subheading: (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 22, verse 25)
 
-Śrī Kṛṣṇa’s words. The *gopīs*, who desired Kṛṣṇa, were keeping the Kātyāyanī vow; He stole their clothes, then gave them back, and seeing their desire to attain Kṛṣṇa, He said:
+Śrī Kṛṣṇa’s words. The gopīs, who desired Kṛṣṇa, were keeping the Kātyāyanī vow; He stole their clothes, then gave them back, and seeing their desire to attain Kṛṣṇa, He said:
 
 **sādhvyaḥ** (O chaste ones)! **mad-arcanam** (worship for the sake of attaining Me — just this) **bhavatīnām** (your, the *gopīs’*) **saṅkalpaḥ** (desire, that is, the feeling in your hearts — though out of shyness you did not speak of it) **mayā viditaḥ** (is known to Me) **anumoditaḥ** (and accepted); (therefore) **saḥ asau** (that desire) **satyaḥ** (true, fulfilled) **bhavitum arhati** (deserves to become).
 
@@ -282,7 +282,7 @@ The *Caitanya-bhāgavata* (Ādi, Chapter 7): “The Lord made all the discarded 
 
 > Subheading: The brāhmaṇa’s words and Miśra’s reply —
 
-See Antya 4.174–176. The Lord’s words to Uddhava (*Śrīmad-Bhāgavatam* 11.28.4): “What is good and what is bad in duality, which is not reality — and to what extent? Whatever is spoken in words and conceived in the mind is false.” That is, “in the transcendental there is no notion of things as good and bad” (*Caitanya-caritāmṛta*, Antya 4.174). “In duality, every notion of good and bad is a mere product of the mind; ‘this is good, this is bad’ — all this is error” (*Caitanya-caritāmṛta*, Antya 4.176). (*Śrīmad-Bhāgavatam* 11.19.45): “To see good and bad qualities is itself the fault; the virtue is to be free of both.” And (*Śrīmad-Bhāgavatam* 11.21.3): “O sinless one, purity and impurity, merit and fault, the auspicious and the inauspicious are prescribed even for things of the same kind — to discern the nature of a substance, for the sake of *dharma*, for worldly dealings and for the maintenance of life.”
+See Antya 4.174–176. The Lord’s words to Uddhava (*Śrīmad-Bhāgavatam* 11.28.4): “What is good and what is bad in duality, which is not reality — and to what extent? Whatever is spoken in words and conceived in the mind is false.” That is, “in the transcendental there is no notion of things as good and bad” (*Caitanya-caritāmṛta*, Antya 4.174). “In duality, every notion of good and bad is a mere product of the mind; ‘this is good, this is bad’ — all this is error” (*Caitanya-caritāmṛta*, Antya 4.176). (*Śrīmad-Bhāgavatam* 11.19.45): “To see good and bad qualities is itself the fault; the virtue is to be free of both.” And (*Śrīmad-Bhāgavatam* 11.21.3): “O sinless one, purity and impurity, merit and fault, the auspicious and the inauspicious are prescribed even for things of the same kind — to discern the nature of a substance, for the sake of dharma, for worldly dealings and for the maintenance of life.”
 
 Miśra regarded his son Nimāi as untaught and ignorant and wished to teach Him and awaken knowledge in Him. Seeing this, the brāhmaṇa said to Miśra: “Your son is an eternally perfect deity. Yet you take His eternally perfect, natural knowledge for such foolishness, and so your attempt to teach Him proves futile. Therefore it does not become you.”
 
@@ -290,7 +290,7 @@ Miśra regarded his son Nimāi as untaught and ignorant and wished to teach Him 
 
 > Subheading: Miśra’s pure parental affection for the Lord —
 
-*Bhakti-rasāmṛta-sindhu* (*Paścima-vibhāga*, fourth wave): “The *sthāyi-bhāva* of *vātsalya*, brought to fullness by *vibhāva* and the rest, is here called ‘*vatsala*’ [*rasa*].” (*Śrīmad-Bhāgavatam* 10.8.45): “Hari, whose glory is sung by the three Vedas, the Upaniṣads, the Sāṅkhya and Yoga scriptures and the Sātvata scriptures — she regarded Him as her own son.”
+*Bhakti-rasāmṛta-sindhu* (*Paścima-vibhāga*, fourth wave): “The *sthāyi-bhāva* of *vātsalya*, brought to fullness by *vibhāva* and the rest, is here called ‘*vatsala*’ [rasa].” (*Śrīmad-Bhāgavatam* 10.8.45): “Hari, whose glory is sung by the three Vedas, the Upaniṣads, the Sāṅkhya and Yoga scriptures and the Sātvata scriptures — she regarded Him as her own son.”
 
 ## 91
 

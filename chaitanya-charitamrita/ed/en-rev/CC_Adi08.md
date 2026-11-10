@@ -895,7 +895,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^8]: *Amṛta-pravāha-bhāṣya*: liberation comes easily through knowledge, and the pleasures of heaven through pious works, but devotion to Hari is not easily attained even by thousands of practices: something more is needed — service to a pure devotee and knowledge of one’s relationship with the Supreme Truth (*sambandha-jñāna*). The reference is confirmed by the edition.
 
-[^9]: Edition heading: “Until bhāva (rati) has awakened in the jīva, Kṛṣṇa grants liberation; when He sees rati, He grants loving devotion.” *Amṛta-pravāha-bhāṣya*: if devotees hope for enjoyment and liberation, Kṛṣṇa hides pure devotion from them, grants them these and leaves them (*chuṭe* — “goes away, leaving them”).
+[^9]: Edition heading: “Until *bhāva* (rati) has awakened in the jīva, Kṛṣṇa grants liberation; when He sees rati, He grants loving devotion.” *Amṛta-pravāha-bhāṣya*: if devotees hope for enjoyment and liberation, Kṛṣṇa hides pure devotion from them, grants them these and leaves them (*chuṭe* — “goes away, leaving them”).
 
 [^10]: *Anubhāṣya*: these are Śukadeva’s words to Parīkṣit in the account of Ṛṣabhadeva. *Daivam* — “the Deity you worship”; *priyaḥ* — “your very self”; *kva ca* — “sometimes, as when He acted as a messenger”; *bhajatām* — “to those who worship Him with desires (*sakāma-bhaktas*)”: to them He grants liberation, but He never gives bhakti-yoga. Edition heading: “Without a relationship of rasa with Kṛṣṇa one gains only liberation.” The edition misprints *kulavatiḥ*; the *Anubhāṣya* explains *kula-patiḥ*.
 
@@ -927,7 +927,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^24]: *Anubhāṣya*: Śukadeva speaks these words to Parīkṣit while describing the qualities of the great devotee Prahlāda. *Akiñcanā* — “free of desire”; *samāsate* — “dwell eternally”; *asati* — “in the passing happiness of sense objects”; *mahad-guṇāḥ* — the virtues of the great, such as knowledge and detachment. *Amṛta-pravāha-bhāṣya*: in one who has pure devotion to Kṛṣṇa the gods abide with all their qualities; but the mind of one without devotion to Hari always runs after what is external and unreal, and great qualities are impossible for him.
 
-[^25]: *Amṛta-pravāha-bhāṣya*: *Paṇḍita Gosāñi* is Śrī Gadādhara Paṇḍita. *Anubhāṣya* to 59–60: in Gaura’s pastimes Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 165). From him comes the well-known Gaṅgāmātā Maṭha of Purī; in that line Ananta Ācārya is called Vinoda-mañjarī, and his disciple Haridāsa Paṇḍita (also called Raghu-gopāla) is Rāsa-mañjarī. Haridāsa’s disciple was Lakṣmīpriyā, and hers Gaṅgāmātā, a daughter of the Rājā of Puṭiyā, who brought the Deity of Śrī Rasikarāya from Jaipur and established His service in the house of Sārvabhauma in Purī.
+[^25]: *Amṛta-pravāha-bhāṣya*: *Paṇḍita Gosāñi* is Śrī Gadādhara Paṇḍita. *Anubhāṣya* to 59–60: in Gaura’s pastimes Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja (*Gaura-gaṇoddeśa-dīpikā* 165). From him comes the well-known Gaṅgāmātā Maṭha of Purī; in that line Ananta Ācārya is called Vinoda-mañjarī, and his disciple Haridāsa Paṇḍita (also called Raghu-gopāla) is Rāsa-mañjarī. Haridāsa’s disciple was Lakṣmīpriyā, and hers Gaṅgāmātā, a daughter of the Rājā of Puṭiyā, who brought the Deity of Śrī Rasikarāya from Jaipur and established His service in the house of Sārvabhauma in Purī.
 
 [^26]: Edition heading: “His reading of the *Caitanya-bhāgavata* in the assembly of Vaiṣṇavas.”
 
