@@ -102,7 +102,8 @@ async function cacheFirst(e, store) {
 
 self.addEventListener('fetch', (e) => {
   const req = e.request;
-  if (req.method !== 'GET' || req.headers.has('range')) return;
+  // range — музыка частями; x-gl-sync — закачку «Скачать все писания» кладёт в gl-data сам offline.js (со своей меткой)
+  if (req.method !== 'GET' || req.headers.has('range') || req.headers.has('x-gl-sync')) return;
   const url = new URL(req.url);
   if (url.origin === self.location.origin) {
     if (!url.href.startsWith(BASE) || /\.mp3$/i.test(url.pathname)) return;
