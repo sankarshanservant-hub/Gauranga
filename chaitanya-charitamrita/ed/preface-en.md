@@ -22,6 +22,8 @@ The text and the numbering of the verses follow the Gauḍīya Maṭha edition o
 
 The translation was checked through the eyes of a Gauḍīya Vaiṣṇava. The Lord is never subject to *māyā*. The Deity is not an image but the Lord Himself. The love of the *gopīs* is not worldly passion but the purest *prema*. The divine madness of Śrī Caitanya is not an illness but the highest expression of that love. The passing of the Lord and His associates from this world is called their departure, not their death.
 
+**On the words “māyā” and “illusion”.** Wherever the book says that the Lord or His associates “forgot”, “did not know”, or were “under illusion” or “*māyā*”, what is meant is *yogamāyā*, the Lord’s own internal potency. It serves His pastimes by veiling His majesty from Him and His eternal associates, so that their love may be full and sweet. The Lord and His associates are never subject to the external *māyā* that covers the conditioned souls. This note applies to every such passage and is not repeated in the footnotes.
+
 Bengali and Sanskrit words are given in standard diacritical transliteration. Names and terms are kept uniform throughout the book.
 
 This edition was prepared with a prayer for the mercy of the Vaiṣṇavas. We ask forgiveness for its shortcomings. May it help the reader come to know Śrī Caitanya Mahāprabhu and His associates more closely.
