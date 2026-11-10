@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 2  
 **A Brief Account of the Antya-līlā: The Ravings of Love’s Madness**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বিচ্ছেদেঽস্মিন্ প্রভোরন্ত্যলীলা-সূত্রানুবর্ণনে ৷  
 গৌরস্য কৃষ্ণবিচ্ছেদপ্রলাপাদ্যনুবর্ণ্যতে ॥ ১ ॥

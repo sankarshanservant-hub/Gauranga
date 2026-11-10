@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 9  
 **The Pilgrimage to the Holy Places of the South**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 নানামতগ্রাহগ্রস্তান্ দাক্ষিণাত্যজনদ্বিপান্ ৷  
 কৃপারিণা বিমুচ্যৈতান্ গৌরশ্চক্রে স বৈষ্ণবান্ ॥ ১ ॥

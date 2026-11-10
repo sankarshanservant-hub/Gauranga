@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 3  
 **The Auspicious Invocation of Blessing: The General Cause of Caitanya’s Descent**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রীচৈতন্যপ্রভুং বন্দে যৎপাদাশ্রয়বীর্য্যতঃ ৷  
 সংগৃহ্ণাত্যাকরব্রাতাদজ্ঞঃ সিদ্ধান্তসন্মণীন্ ॥ ১ ॥

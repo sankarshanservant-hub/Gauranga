@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 7  
 **Setting Forth the Account of the Pañca-tattva**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 অগত্যেকগতিং নত্বা হীনার্থাধিকসাধকম্ ৷  
 শ্রীচৈতন্যং লিখ্যতেঽস্য প্রেমভক্তিবদান্যতা ॥ ১ ॥

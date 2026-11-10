@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 18  
 **Beholding Śrī Vṛndāvana**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বৃন্দাবনে স্থিরচরান্নন্দয়ন্ স্বাবলোকনৈঃ ৷  
 আত্মানঞ্চ তদালোকাদ্গৌরাঙ্গঃ পরিতোঽভ্রমৎ ॥ ১ ॥

@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 13  
 **How Jagadānanda Went to Vṛndāvana**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 কৃষ্ণবিচ্ছেদজাতার্ত্ত্যা ক্ষীণে চাপি মনস্তনূ ৷  
 দধাতে ফুল্লতাং ভাবৈর্যস্য তং গৌরমাশ্রয়ে ॥ ১ ॥

@@ -17,13 +17,13 @@ T = {'ru': {'book': 'Шри Чайтанья-чаритамрита', 'author': 
             'full': 'Полное издание: бенгальский текст, транслитерация, пословный и литературный перевод, «Амрита-праваха-бхашья» Шрилы Бхактивиноды Тхакура и «Анубхашья» Шрилы Бхактисиддханты Сарасвати Тхакура',
             'text': 'Лёгкое издание: перевод стихов',
             'trans': 'Перевод стихов — Вриндаван Чандра дас (Антья-лила, главы 16–19, — перевод в его стиле, 2026); выверка по изданию Гаудия Матха и «Анубхашье»; перевод комментариев — впервые для этого издания',
-            'trial': 'Пробная сборка, 2026', 'pref': 'Предисловие', 'pref_t': 'Предисловие будет добавлено.',
+            'trial': '2026', 'pref': 'Предисловие', 'pref_t': 'Предисловие будет добавлено.',
             'toc': 'Содержание', 'ch': 'Глава', 'lila': {'Adi': 'Ади-лила', 'Madhya': 'Мадхья-лила', 'Antya': 'Антья-лила'}},
      'en': {'book': 'Śrī Caitanya-caritāmṛta', 'author': 'Śrīla Kṛṣṇadāsa Kavirāja Gosvāmī',
             'full': 'Complete edition: Bengali text, transliteration, word-for-word and verse translation, Śrīla Bhaktivinoda Ṭhākura’s «Amṛta-pravāha-bhāṣya» and Śrīla Bhaktisiddhānta Sarasvatī Ṭhākura’s «Anubhāṣya»',
             'text': 'Concise edition: translation of the verses',
             'trans': 'English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya»; the commentaries are translated for the first time for this edition',
-            'trial': 'Trial build, 2026', 'pref': 'Preface', 'pref_t': 'The preface will be added.',
+            'trial': '2026', 'pref': 'Preface', 'pref_t': 'The preface will be added.',
             'toc': 'Contents', 'ch': 'Chapter', 'lila': {'Adi': 'Ādi-līlā', 'Madhya': 'Madhya-līlā', 'Antya': 'Antya-līlā'}}}[lang]
 
 def title(chap):
@@ -91,4 +91,18 @@ open(hp, 'w', encoding='utf-8').write(doc)
 subprocess.run([CHROME, '--headless', '--no-sandbox', '--disable-gpu', '--no-pdf-header-footer', '--generate-pdf-document-outline',
                 '--print-to-pdf=' + pp, 'file://' + os.path.abspath(hp)], check=True, capture_output=True, timeout=3600)
 os.remove(hp)
+# закладки: Chrome берёт заголовки по строкам вёрстки и склеивает перенесённые слова («Гуру идругим») —
+# верхний уровень (предисловие, содержание, лилы, главы) переписываем точными названиями
+if ed != 'preface':
+    import pypdf
+    from pypdf.generic import TextStringObject, NameObject
+    want = [T['pref'], T['toc']]
+    for L, n in LILAS: want += [T['lila'][L]] + [title('%s%02d' % (L, i)) for i in range(1, n + 1)]
+    w = pypdf.PdfWriter(clone_from=pp)
+    it = w._root_object['/Outlines'].get_object().get('/First'); k = 0
+    while it is not None and k < len(want):
+        o = it.get_object(); o[NameObject('/Title')] = TextStringObject(want[k]); k += 1
+        it = o.get('/Next')
+    if k != len(want): print('!! закладок верхнего уровня: %d, ожидалось %d' % (k, len(want)))
+    w.write(pp)
 print(pp)

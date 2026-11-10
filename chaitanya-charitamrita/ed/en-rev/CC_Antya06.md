@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 6  
 **The Meeting with Śrī Raghunātha dāsa**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 কৃপাগুণৈর্য্যঃ কুগৃহান্ধকূপা-  
 দুদ্ধৃত্য ভঙ্গ্যা রঘুনাথদাসম্ ৷  

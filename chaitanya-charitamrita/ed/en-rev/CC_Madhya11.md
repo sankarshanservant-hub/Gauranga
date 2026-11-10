@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 11  
 **The Description of the Beḍā-kīrtana Pastimes**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 অত্যুদ্দণ্ডং তাণ্ডবং গৌরচন্দ্রঃ  
 কুর্ব্বন্ ভক্তৈঃ শ্রীজগন্নাথগেহে ৷  

@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 10  
 **Relishing the Devotees’ Offerings**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে শ্রীকৃষ্ণচৈতন্যং ভক্তানুগ্রহকারকম্ ৷  
 যেন কেনাপি সন্তুষ্টং ভক্তদত্তেন শ্রদ্ধয়া ॥ ১ ॥

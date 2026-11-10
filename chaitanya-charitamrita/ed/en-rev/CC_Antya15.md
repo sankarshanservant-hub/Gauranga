@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 15  
 **The Lord’s Pastime in the Garden**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 দুর্গমে কৃষ্ণভাবাব্ধৌ নিমগ্নোন্মগ্নচেতসা ৷  
 গৌরেণ হরিণা প্রেমমর্য্যাদা ভূরি দর্শিতা ॥ ১ ॥

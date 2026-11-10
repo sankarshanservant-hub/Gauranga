@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 14  
 **Beholding the Herā-pañcamī Festival**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 গৌরঃ পশ্যন্নাত্মবৃন্দৈঃ শ্রীলক্ষ্মীবিজয়োৎসবম্ ৷  
 শ্রুত্বা গোপীরসোল্লাসং হৃষ্টঃ প্রেম্ণা ননর্ত্ত সঃ ॥ ১ ॥

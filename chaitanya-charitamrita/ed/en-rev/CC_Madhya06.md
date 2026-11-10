@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 6  
 **The Deliverance of Sārvabhauma**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 নৌমি তং গৌরচন্দ্রং যঃ কুতর্ক-কর্কশাশয়ম্ ৷  
 সার্ব্বভৌমং সর্ব্বভূমা ভক্তিভূমানমাচরৎ ॥ ১ ॥

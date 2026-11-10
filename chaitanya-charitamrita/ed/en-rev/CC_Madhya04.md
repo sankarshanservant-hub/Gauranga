@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 4  
 **Relishing the Life of Śrī Mādhavendra Purī**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 যস্মৈ দাতুং চোরয়ন্ ক্ষীরভাণ্ডং  
 গোপীনাথঃ ক্ষীরচোরাভিধোঽভূৎ ৷  

@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 19  
 **The Ravings of Separation, the Rubbing of His Face against the Walls, and Other Pastimes**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে তং কৃষ্ণচৈতন্যং মাতৃভক্তশিরোমণিম্ ৷  
 প্রলপ্য মুখসংঘর্ষী মধুদ্যানে ললাস যঃ ॥ ১ ॥

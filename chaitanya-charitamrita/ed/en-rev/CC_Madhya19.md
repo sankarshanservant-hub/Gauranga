@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 19  
 **The Mercy Shown to Śrī Rūpa**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বৃন্দাবনীয়াং রসকেলিবার্ত্তাং  
 কালেন লুপ্তাং নিজশক্তিমুৎকঃ ৷  

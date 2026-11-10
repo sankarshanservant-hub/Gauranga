@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 1  
 **The Festival of Association with Śrī Rūpa**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 পঙ্গুং লঙ্ঘয়তে শৈলং মূকমাবর্ত্তয়েচ্ছ্রুতিম্ ৷  
 যৎকৃপা তমহং বন্দে কৃষ্ণচৈতন্যমীশ্বরম্ ॥ ১ ॥

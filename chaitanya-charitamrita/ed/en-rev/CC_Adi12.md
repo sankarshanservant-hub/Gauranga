@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 12  
 **The Description of the Branches of the Advaita Trunk**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 অদ্বৈতাঙ্ঘ্র্যব্জভৃঙ্গাংস্তান্ সারাসারভৃতোঽখিলান্ ৷  
 হিত্বাঽসারান্ সারভৃতো নৌমি চৈতন্যজীবনান্ ॥ ১ ॥

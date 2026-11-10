@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 12  
 **The Cleansing of the Guṇḍicā Temple**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রীগুণ্ডিচা-মন্দিরমাত্মবৃন্দৈঃ  
 সংমার্জ্জয়ন্ ক্ষালনতঃ স গৌরঃ ৷  

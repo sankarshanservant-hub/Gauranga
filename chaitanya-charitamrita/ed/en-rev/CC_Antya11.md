@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 11  
 **The Description of Śrī Haridāsa’s Departure**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 নমামি হরিদাসং তং চৈতন্যং তঞ্চ তৎপ্রভুম্ ৷  
 সংস্থিতামপি যন্মূর্ত্তিং স্বাঙ্কে কৃত্বা ননর্ত্ত যঃ ॥ ১ ॥

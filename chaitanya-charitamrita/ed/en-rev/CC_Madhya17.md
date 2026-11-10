@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 17  
 **The Journey to Śrī Vṛndāvana**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 গচ্ছন্ বৃন্দাবনং গৌরো  
 ব্যাঘ্রেভৈণখগান্ বনে ৷  

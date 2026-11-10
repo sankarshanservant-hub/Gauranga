@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 8  
 **An Account of the Vaiṣṇavas’ Command to Compose the Book**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে চৈতন্যদেবং তং ভগবন্তং যদিচ্ছয়া ৷  
 প্রসভং নর্ত্ত্যতে চিত্রং লেখরঙ্গে জড়োঽপ্যয়ম্ ॥ ১ ॥

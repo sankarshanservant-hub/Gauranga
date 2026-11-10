@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 11  
 **The Description of the Branches of the Nityānanda Trunk**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 নিত্যানন্দপদাম্ভোজ-ভৃঙ্গান্ প্রেমমধুন্মদান্ ৷  
 নত্বাখিলান্ তেষু মুখ্যা লিখ্যন্তে কতিচিন্ময়া ॥ ১ ॥

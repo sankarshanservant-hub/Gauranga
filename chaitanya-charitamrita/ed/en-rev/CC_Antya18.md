@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 18  
 **The Fall into the Ocean**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শরজ্জ্যোৎস্না-সিন্ধোরবকলনয়া জাতযমুনা-  
 ভ্রমাদ্ধাবন্ যোঽস্মিন্ হরিবিরহতাপার্ণব ইব ৷  

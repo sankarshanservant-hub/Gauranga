@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 1  
 **The Auspicious Invocation: Obeisance to the Guru and Others**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে গুরূনীশভক্তানীশমীশাবতারকান্ ৷  
 তৎপ্রকাশাংশ্চ তচ্চক্তীঃ কৃষ্ণচৈতন্যসংজ্ঞকম্ ॥ ১ ॥

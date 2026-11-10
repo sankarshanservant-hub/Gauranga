@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 7  
 **The Journey to the South: The Deliverance of Vāsudeva**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 ধন্যং তং নৌমি চৈতন্যং বাসুদেবং দয়ার্দ্দ্রধীঃ ৷  
 নষ্টকুষ্ঠং রূপপুষ্টং ভক্তিতুষ্টং চকার যঃ ॥ ১ ॥

@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 12  
 **How Jagadānanda Broke the Pitcher of Oil**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রূয়তাং শ্রূয়তাং নিত্যং গীয়তাং গীয়তাং মুদা ৷  
 চিন্ত্যতাং চিন্ত্যতাং ভক্তাশ্চৈতন্যচরিতামৃতম্ ॥ ১ ॥

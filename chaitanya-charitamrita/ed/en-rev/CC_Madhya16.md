@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 16  
 **The Journey to Gauḍa Once Again**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 গৌড়োদ্যানং গৌরমেঘঃ সিঞ্চন্স্বালোকনামৃতৈঃ ৷  
 ভবাগ্নিদগ্ধজনতা-বীরুধঃ সমজীবয়ৎ ॥ ১ ॥

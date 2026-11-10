@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 23  
 **The Discourse on Prema as the Prayojana**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 চিরাদদত্তং নিজ গুপ্তবিত্তং  
 স্বপ্রেম-নামামৃতমত্যুদারঃ ৷  

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 5  
 **Determining the Truth of Śrī Nityānanda**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দেঽনন্তাদ্ভুতৈশ্বর্য্যং শ্রীনিত্যানন্দমীশ্বরম্ ৷  
 যস্যেচ্ছয়া তৎস্বরূপমজ্ঞেনাপি নিরূপ্যতে ॥ ১ ॥

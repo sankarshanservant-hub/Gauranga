@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 8  
 **The Festival of Association with Rāmānanda Rāya**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 সঞ্চার্য্য রামাভিধ-ভক্তমেঘে  
 স্বভক্তিসিদ্ধান্তচয়ামৃতানি ৷  

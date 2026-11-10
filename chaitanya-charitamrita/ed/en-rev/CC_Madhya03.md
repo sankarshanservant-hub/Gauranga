@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 3  
 **The Description of the Acceptance of Sannyāsa and the Feast in Advaita’s House**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 ন্যাসং বিধায়োৎপ্রণয়োঽথ গৌরো  
 বৃন্দাবনং গন্তুমনা ভ্রমাদ্ যঃ ৷  

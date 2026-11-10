@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 22  
 **The Discourse on the Truth of Bhakti as the Abhidheya**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে শ্রীকৃষ্ণচৈতন্যদেবং তং করুণার্ণবম্ ৷  
 কলাবপ্যতিগূঢ়েয়ং ভক্তির্যেন প্রকাশিতা ॥ ১ ॥

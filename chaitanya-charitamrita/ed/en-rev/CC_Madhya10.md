@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 10  
 **The Meeting with the Vaiṣṇavas**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 তং বন্দে গৌরজলদং স্বস্য যো দর্শনামৃতৈঃ ৷  
 বিচ্ছেদাবগ্রহম্লান-ভক্তশস্যান্যজীবয়ৎ ॥ ১ ॥

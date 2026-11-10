@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 20  
 **Relishing the Meaning of the Verses of Instruction**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 প্রেমোদ্ভাবিতহর্ষের্ষ্যোদ্বেগদৈন্যার্ত্তিমিশ্রিতম্ ৷  
 লপিতং গৌরচন্দ্রস্য ভাগ্যবদ্ভির্নিষেব্যতে ॥ ১ ॥

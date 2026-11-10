@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 17  
 **The Tortoise Form in Ecstasy, and the Ravings of Madness**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 লিখ্যতে শ্রীল-গৌরেন্দোরত্যদ্ভুতমলৌকিকম্ ৷  
 যৈর্দৃষ্টং তন্মুখাচ্ছ্রুত্বা দিব্যোন্মাদ-বিচেষ্টিতম্ ॥ ১ ॥

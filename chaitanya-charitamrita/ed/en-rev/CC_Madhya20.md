@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 20  
 **The Truth of the Svarūpa: A Discourse on the Distinctions among the Forms of Śrī Bhagavān**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দেঽনন্তাদ্ভুতৈশ্বর্য্যং শ্রীচৈতন্যমহাপ্রভুম্ ৷  
 নীচোঽপি যৎপ্রসাদাৎ স্যাদ্ভক্তিশাস্ত্রপ্রবর্ত্তকঃ ॥ ১ ॥

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 17  
 **A Brief Description of the Pastimes of Young Manhood**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে স্বৈরাদ্ভুতেঽহং তং চৈতন্যং যৎপ্রসাদতঃ ৷  
 যবনাঃ সুমনায়ন্তে কৃষ্ণনামপ্রজল্পকাঃ ॥ ১ ॥

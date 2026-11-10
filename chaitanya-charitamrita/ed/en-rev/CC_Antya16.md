@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 16  
 **Grace to Kālidāsa, and the Ravings of Madness in Separation**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে শ্রীকৃষ্ণচৈতন্যং কৃষ্ণভাবামৃতং হি যঃ ৷  
 আস্বাদ্যাস্বাদয়ন্ ভক্তান্ প্রেমদীক্ষামশিক্ষয়ৎ ॥ ১ ॥

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 2  
 **The Auspicious Invocation Indicating the Object: Determining the Truth of Caitanya**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রীচৈতন্যপ্রভুং বন্দে বালোঽপি যদনুগ্রহাৎ ৷  
 তরেন্নানামতগ্রাহব্যাপ্তং সিদ্ধান্তসাগরম্ ॥ ১ ॥

@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 1  
 **A Brief Description of the Madhya-līlā**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 যস্য প্রসাদাদজ্ঞোঽপি সদ্যঃ সর্ব্বজ্ঞতাং ব্রজেৎ ৷  
 স শ্রীচৈতন্যদেবো মে ভগবান্ সংপ্রসীদতু ॥ ১ ॥

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 15  
 **A Brief Description of the Boyhood Pastimes**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 কুমনাঃ সুমনস্ত্বং হি যাতি যস্য পদাব্জয়োঃ ৷  
 সুমনোঽর্পণমাত্রেণ তং চৈতন্যপ্রভুং ভজে ॥ ১ ॥

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 13  
 **The Description of the Great Festival of the Lord’s Appearance**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 স প্রসীদতু চৈতন্যদেবো যস্য প্রসাদতঃ ৷  
 তল্লীলাবর্ণনে যোগ্যঃ সদ্যঃ স্যাদধমোঽপ্যয়ম্ ॥ ১ ॥

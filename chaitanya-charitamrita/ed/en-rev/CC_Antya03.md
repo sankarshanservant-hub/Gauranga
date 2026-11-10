@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 3  
 **An Account of the Glories of Śrī Haridāsa Ṭhākura**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দেঽহং শ্রীগুরোঃ শ্রীযুতপদকমলং শ্রীগুরূন্ বৈষ্ণবাংশ্চ  
 শ্রীরূপং সাগ্রজাতং সহগণরঘুনাথান্বিতং তং সজীবম্ ৷  

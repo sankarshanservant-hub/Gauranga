@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 10  
 **The Description of the Branches of the Main Trunk**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রীচৈতন্যপদাম্ভোজ-মধুপেভ্যো নমো নমঃ ৷  
 কথঞ্চিদাশ্রয়াদ্ যেষাং শ্বাপি তদ্গন্ধভাগ্ভবেৎ ॥ ১ ॥

@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 5  
 **The Description of the Deeds of Sākṣi-gopāla**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 পদ্ভ্যাং চলন্ যঃ প্রতিমা-স্বরূপো  
 ব্রহ্মণ্যদেবো হি শতাহগম্যম্ ৷  

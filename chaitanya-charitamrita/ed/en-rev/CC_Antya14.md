@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 14  
 **A Description of the Divine Madness: the Lord Hastens to Caṭaka Hill**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 কৃষ্ণবিচ্ছেদবিভ্রান্ত্যা মনসা বপুষা ধিয়া ৷  
 যদ্যদ্ব্যধত্ত গৌরাঙ্গস্তল্লেশঃ কথ্যতেঽধুনা ॥ ১ ॥

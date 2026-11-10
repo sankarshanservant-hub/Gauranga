@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 13  
 **The Dance before the Chariot**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 স জীয়াৎ কৃষ্ণচৈতন্যঃ শ্রীরথাগ্রে ননর্ত্ত যঃ ৷  
 যেনাসীজ্জগতাং চিত্রং জগন্নাথোঽপি বিস্মিতঃ ॥ ১ ॥

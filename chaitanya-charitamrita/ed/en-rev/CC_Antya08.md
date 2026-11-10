@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 8  
 **The Reduction of the Meals**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 তং বন্দে কৃষ্ণচৈতন্যং রামচন্দ্রপুরীভয়াৎ ৷  
 লৌকিকাহারতঃ স্বং যো ভিক্ষান্নং সমকোচয়ৎ ॥ ১ ॥

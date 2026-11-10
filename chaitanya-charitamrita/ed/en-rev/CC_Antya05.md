@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 5  
 **The Story of Pradyumna Miśra**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বৈগুণ্যকীটকলিতঃ পৈশুন্য-ব্রণপীড়িতঃ ৷  
 দৈন্যার্ণবে নিমগ্নোঽহং চৈতন্য-বৈদ্যমাশ্রয়ে ॥ ১ ॥

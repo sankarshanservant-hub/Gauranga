@@ -117,8 +117,8 @@ def build(ch, check=False):
         tl = [k for k, l in enumerate(out) if l.strip().startswith('**')]
         if tl: out[tl[0]] = f"**{ru['0']['tr']}**  "
         else: out.append(f"**{ru['0']['tr']}**  ")
-    out += [('(перевод выполнен в стиле Вриндавана Чандры даса, 2026; выверка по изд. Гаудия Матха и «Анубхашье» — проект)' if style
-             else '(перевод Вриндавана Чандры даса; выверка по изд. Гаудия Матха и «Анубхашье», 2026 — проект)'), '']
+    out += [('(перевод выполнен в стиле Вриндавана Чандры даса, 2026; выверка по изданию Гаудия Матха и «Анубхашье»)' if style
+             else '(перевод Вриндавана Чандры даса; выверка по изданию Гаудия Матха и «Анубхашье», 2026)'), '']
     fnl = []; n = 1
     oldnotes = {re.match(r'\[\^([\d–-]+)\]', x).group(1): x.split(':', 1)[1].strip() for x in notes}
     for b in blocks:
@@ -146,7 +146,7 @@ def build(ch, check=False):
     out = ['“Śrī Caitanya-caritāmṛta”  ', f'{lila}  ', f'Chapter {num}  ']
     if '0' in en and en['0']['tr']:
         out.append(f"**{en['0']['tr']}**  ")
-    out += ['(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)', '']
+    out += ['(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)', '']
     fnl = []; n = 1; missing = []
     for b in blocks:
         e = en.get(b['num'])

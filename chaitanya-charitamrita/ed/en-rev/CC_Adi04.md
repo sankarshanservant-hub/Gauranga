@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 4  
 **An Account of the Root Purpose of Caitanya’s Descent**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রীচৈতন্যপ্রসাদেন তদ্রূপস্য বিনির্ণয়ম্ ৷  
 বালোঽপি কুরুতে শাস্ত্রং দৃষ্ট্বা ব্রজবিলাসিনঃ ॥ ১ ॥

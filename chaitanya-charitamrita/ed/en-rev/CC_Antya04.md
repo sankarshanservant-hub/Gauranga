@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 4  
 **The Festival of Association with Sanātana Once Again**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বৃন্দাবনাৎ পুনঃ প্রাপ্তং শ্রীগৌরঃ শ্রীসনাতনম্ ৷  
 দেহপাতাদবন্ স্নেহাৎ শুদ্ধং চক্রে পরীক্ষয়া ॥ ১ ॥

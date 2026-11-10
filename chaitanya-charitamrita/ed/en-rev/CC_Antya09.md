@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 9  
 **The Deliverance of Gopīnātha Paṭṭanāyaka**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 অগণ্যধন্যচৈতন্যগণানাং প্রেমবন্যয়া ৷  
 নিন্যেঽধন্যজনস্বান্তমরুঃ শশ্বদনূপতাম্ ॥ ১ ॥

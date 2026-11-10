@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 25  
 **Making the Residents of Kāśī Vaiṣṇavas, and the Return to Nīlācala**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বৈষ্ণবীকৃত্য সন্ন্যাসিমুখান্ কাশীনিবাসিনঃ ৷  
 সনাতনং সুসংস্কৃত্য প্রভুর্নীলাদ্রিমাগমৎ ॥ ১ ॥

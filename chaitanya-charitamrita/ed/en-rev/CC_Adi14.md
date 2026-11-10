@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 14  
 **A Brief Description of the Childhood Pastimes**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 কথঞ্চন স্মৃতে যস্মিন্ দুষ্করং সুকরং ভবেৎ ৷  
 বিস্মৃতে বিপরীতং স্যাৎ শ্রীচৈতন্যমমুং ভজে ॥ ১ ॥

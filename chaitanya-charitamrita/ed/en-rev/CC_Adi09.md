@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 9  
 **The Description of the Wish-fulfilling Tree of Bhakti**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 তং শ্রীমৎকৃষ্ণচৈতন্যদেবং বন্দে জগদ্গুরুম্ ৷  
 যস্যানুকম্পয়া শ্বাপি মহাব্ধিং সন্তরেৎ সুখম্ ॥ ১ ॥

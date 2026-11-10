@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 24  
 **Mercy to Sanātana: The Explanation of the Ātmārāma Verse**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 আত্মারামেতি পদ্যার্কস্যার্থাংশূন্ যঃ প্রকাশয়ন্ ৷  
 জগত্তমো জহারাব্যাৎ স চৈতন্যোদয়াচলঃ ॥ ১ ॥

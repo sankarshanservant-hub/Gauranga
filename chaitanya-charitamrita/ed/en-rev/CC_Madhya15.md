@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 15  
 **The Feast at Sārvabhauma’s House**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 সার্ব্বভৌমগৃহে ভুঞ্জন্ স্বনিন্দকমমোঘকম্ ৷  
 অঙ্গীকুর্ব্বন্ স্ফুটাং চক্রে গৌরঃ স্বাং ভক্তবশ্যতাম্ ॥ ১ ॥

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 6  
 **Determining the Truth of Śrī Advaita**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 বন্দে তং শ্রীমদদ্বৈতাচার্য্যমদ্ভুতচেষ্টিতম্ ৷  
 যস্য প্রসাদাদজ্ঞোঽপি তৎস্বরূপং নিরূপয়েৎ ॥ ১ ॥

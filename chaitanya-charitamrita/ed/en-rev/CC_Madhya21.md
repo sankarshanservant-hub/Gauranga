@@ -2,7 +2,7 @@
 Madhya-līlā  
 Chapter 21  
 **The Discourse on Sambandha-tattva: A Description of Śrī Kṛṣṇa’s Majesty and Sweetness**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 অগত্যেকগতিং নত্বা হীনার্থাধিকসাধকম্ ৷  
 শ্রীচৈতন্যং লিখাম্যস্য মাধুর্য্যৈশ্বর্য্যশীকরম্ ॥ ১ ॥

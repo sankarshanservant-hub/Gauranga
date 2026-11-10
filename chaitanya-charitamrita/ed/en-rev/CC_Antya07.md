@@ -2,7 +2,7 @@
 Antya-līlā  
 Chapter 7  
 **The Meeting with Vallabha Bhaṭṭa**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 চৈতন্যচরণাম্ভোজমকরন্দলিহো ভজে ৷  
 যেষাং প্রসাদমাত্রেণ পামরোঽপ্যমরো ভবেৎ ॥ ১ ॥
