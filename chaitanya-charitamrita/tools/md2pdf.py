@@ -137,7 +137,7 @@ def build(chap, ed='full', size='a5', lang='ru', ret=False):
             nodia = lang == 'ru' and not any(is_tl(x) for x in ls)   # транслитерация без диакритики (Мадхья 6.122): пословный — с двумя пробелами
             for k, l in enumerate(ls):
                 if (('  ' not in l) if nodia else is_tl(l) if lang == 'ru' else k % 2 == 0): rows.append('<div class="tl">%s</div>' % html.escape(l))
-                else: rows.append('<div class="ww">%s</div>' % html.escape(l).replace('  ', '&ensp;&ensp;'))
+                else: rows.append('<div class="ww">%s</div>' % re.sub(r'(?<![\w*])\*(?![\s*])(.+?)(?<![\s*])\*(?![*])(?!(?!s\b)\w)', r'<i>\1</i>', html.escape(l)).replace('  ', '&ensp;&ensp;'))
             blk.append('<div class="tlww">%s</div>' % ''.join(rows))
     if notes:
         H.append('<section class="notes"><h2>%s</h2><ol>' % T['notes'])

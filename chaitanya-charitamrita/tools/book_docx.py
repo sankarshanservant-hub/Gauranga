@@ -64,10 +64,14 @@ def tlww_par(lines):
         p.paragraph_format.left_indent = Mm(4)
         tl = ('  ' not in l) if nodia else is_tl(l) if lang == 'ru' else k % 2 == 0
         p.paragraph_format.space_after = Pt(0 if tl else 2)
-        r = p.add_run(l if tl else l.replace('  ', '\u2002\u2002'))
-        r.font.name = FONT
-        if tl: r.italic = True; r.font.size = Pt(10)
-        else: r.font.size = Pt(9); r.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
+        if tl:
+            r = p.add_run(l); r.font.name = FONT; r.italic = True; r.font.size = Pt(10)
+        else:
+            for part in re.split(r'((?<![\w*])\*(?![\s*]).+?(?<![\s*])\*(?![*])(?!(?!s\b)\w))', l.replace('  ', '\u2002\u2002')):
+                if not part: continue
+                it = len(part) > 2 and part[0] == '*' and part[-1] == '*'
+                r = p.add_run(part[1:-1] if it else part); r.font.name = FONT; r.italic = it
+                r.font.size = Pt(9); r.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
 
 def comm(text, notes, chap, label):
     first = True
