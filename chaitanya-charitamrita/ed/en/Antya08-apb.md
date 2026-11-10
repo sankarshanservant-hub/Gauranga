@@ -10,7 +10,7 @@ I offer obeisances to Kṛṣṇa Caitanya, who out of fear of Rāmacandra Purī
 
 ## 5
 
-Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāprabhu and Paramānanda Purī showed him honor.
+Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāprabhu and Paramānanda Purī showed him honour.
 
 ## 14
 
@@ -26,7 +26,7 @@ Rāmacandra Purī was a disciple of Śrī Mādhavendra Purī; therefore Mahāpra
 
 ## 37
 
-*Anyera bhikṣāra sthitira* — he found out the rule of other people's meals: what and how much they eat.
+*Anyera bhikṣāra sthitira* — he found out the rule of other people’s meals: what and how much they eat.
 
 ## 47
 
@@ -54,11 +54,11 @@ Of an earlier and a later injunction, the later is the stronger.
 
 ## 95
 
-*Śirera pāthara* — just as one feels light when a heavy stone suddenly falls from one's head, so it happened.
+*Śirera pāthara* — just as one feels light when a heavy stone suddenly falls from one’s head, so it happened.
 
 *Thus ends the eighth chapter of the “Amṛta-pravāha-bhāṣya.”*
 
 ---
 
-[^24-1]: In the verse translation, otherwise: “This offense against his teacher awakened many worldly desires in Rāmacandra Purī”; for the commentator, *vāsanā* is the desire for dry knowledge.
+[^24-1]: In the verse translation, otherwise: “This offence against his teacher awakened many worldly desires in Rāmacandra Purī”; for the commentator, *vāsanā* is the desire for dry knowledge.
 

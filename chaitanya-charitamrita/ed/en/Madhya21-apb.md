@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In this chapter the Lord described the truth of Kṛṣṇaloka, the truth of Paravyoma, the truth of the Causal Waters and the truth of the *māyic* universes (*brahmāṇḍas*), and then told of one of Kṛṣṇa's pastimes in Dvārakā — how He humbled Brahmā's pride. After that the author, presenting them as Mahāprabhu's words, wrote several sweet verses that reveal the beauty of Kṛṣṇa's form. With this the explanation of *sambandha-tattva* comes to an end.
+**Summary.** In this chapter the Lord described the truth of Kṛṣṇaloka, the truth of Paravyoma, the truth of the Causal Waters and the truth of the *māyic* universes (*brahmāṇḍas*), and then told of one of Kṛṣṇa’s pastimes in Dvārakā — how He humbled Brahmā’s pride. After that the author, presenting them as Mahāprabhu’s words, wrote several sweet verses that reveal the beauty of Kṛṣṇa’s form. With this the explanation of *sambandha-tattva* comes to an end.
 
 ## 1
 
@@ -30,7 +30,7 @@ You are endless, and so those gods did not find Your limit. You Yourself do not 
 
 ## 17–20
 
-When Kṛṣṇa descended, Brahmā, wishing to test His glory, stole the calves and the cowherd boys. Then Kṛṣṇa, by His inconceivable power, manifested everything, both material and transcendental. By manifesting spiritual cows, cowherd boys and countless Vaikuṇṭha realities, He performed a transcendental creation. By creating countless universes, each with its own Brahmā, He performed a material creation. Whoever hears this wondrous account has the impurity of the mind washed away. The words “countless calves of Kṛṣṇa” mean that Kṛṣṇa's calves and cowherd boys appeared in countless forms.
+When Kṛṣṇa descended, Brahmā, wishing to test His glory, stole the calves and the cowherd boys. Then Kṛṣṇa, by His inconceivable power, manifested everything, both material and transcendental. By manifesting spiritual cows, cowherd boys and countless Vaikuṇṭha realities, He performed a transcendental creation. By creating countless universes, each with its own Brahmā, He performed a material creation. Whoever hears this wondrous account has the impurity of the mind washed away. The words “countless calves of Kṛṣṇa” mean that Kṛṣṇa’s calves and cowherd boys appeared in countless forms.
 
 ## 27
 
@@ -62,7 +62,7 @@ Between *pradhāna*, the *māyic* principle, and Paravyoma flows the river Viraj
 
 ## 51
 
-On the far bank of that Virajā lies Paravyoma — immortal, eternal, everlasting, endless, the supreme abode, made up of three quarters (*tripād-bhūta*). The meaning is this: Paravyoma is the spiritual world, and so the *tripād-vibhūti* — free from sorrow and fear, immortal — is eternally present in it. All the workings of *māyā* taken together are only Kṛṣṇa's *ekapād-vibhūti*.
+On the far bank of that Virajā lies Paravyoma — immortal, eternal, everlasting, endless, the supreme abode, made up of three quarters (*tripād-bhūta*). The meaning is this: Paravyoma is the spiritual world, and so the *tripād-vibhūti* — free from sorrow and fear, immortal — is eternally present in it. All the workings of *māyā* taken together are only Kṛṣṇa’s *ekapād-vibhūti*.
 
 ## 56
 
@@ -74,7 +74,7 @@ That form of Śrī Kṛṣṇa was accepted in order to display the strength of 
 
 ## 103
 
-Śrī Kṛṣṇa's form is the transformation (*pariṇāma*) of *viśuddha-sattva* (pure goodness), which abides in the *sandhinī* of His Yogamāyā, called the *cit-śakti*.
+Śrī Kṛṣṇa’s form is the transformation (*pariṇāma*) of *viśuddha-sattva* (pure goodness), which abides in the *sandhinī* of His Yogamāyā, called the *cit-śakti*.
 
 ## 104
 
@@ -86,7 +86,7 @@ Beauty and the other qualities are the supreme good fortune of the spiritual tru
 
 ## 113
 
-Like the waves of the great ocean of eternal youth, the essence of loveliness (*lāvaṇya*) is seen in Kṛṣṇa's body. In that ocean the awakening of feelings (*bhāva*) is the whirlpool, and the sound of the flute is the whirlwind. In such a place, once a woman's heart falls like a blade of grass, it can no longer rise.
+Like the waves of the great ocean of eternal youth, the essence of loveliness (*lāvaṇya*) is seen in Kṛṣṇa’s body. In that ocean the awakening of feelings (*bhāva*) is the whirlpool, and the sound of the flute is the whirlwind. In such a place, once a woman’s heart falls like a blade of grass, it can no longer rise.
 
 ## 117
 
@@ -102,15 +102,15 @@ The qualities that shine in Nārāyaṇa — beauty (*śrī*), modesty, compassi
 
 ## 123
 
-The moon of His (Kṛṣṇa's) face, the ears adorned with *makara*-shaped earrings, the shining cheeks, the beauty, the playful smile — all this is a perpetual festival. Men and women drank it with their eyes and were filled with supreme joy, and they grew angry at the blinking of their eyes, which hindered their seeing.
+The moon of His (Kṛṣṇa’s) face, the ears adorned with *makara*-shaped earrings, the shining cheeks, the beauty, the playful smile — all this is a perpetual festival. Men and women drank it with their eyes and were filled with supreme joy, and they grew angry at the blinking of their eyes, which hindered their seeing.
 
 ## 125
 
-The Kāma-gāyatrī mantra is Kṛṣṇa's *svarūpa*. Counting the *kāma-bīja* as half a syllable, it has twenty-four and a half syllables.
+The Kāma-gāyatrī mantra is Kṛṣṇa’s *svarūpa*. Counting the *kāma-bīja* as half a syllable, it has twenty-four and a half syllables.
 
 ## 126
 
-*Dvija-rāja-rāja* means the king of the moons. The moon of Kṛṣṇa's face, having become king, sits on the throne of Kṛṣṇa's body and, together with the society of moons (His limbs and their parts), rules the kingdom of sweetness. Which moon is where is told next.
+*Dvija-rāja-rāja* means the king of the moons. The moon of Kṛṣṇa’s face, having become king, sits on the throne of Kṛṣṇa’s body and, together with the society of moons (His limbs and their parts), rules the kingdom of sweetness. Which moon is where is told next.
 
 ## 127
 
@@ -118,15 +118,15 @@ The Kāma-gāyatrī mantra is Kṛṣṇa's *svarūpa*. Counting the *kāma-bīj
 
 ## 131
 
-*Vipula* means wide. The two wide eyes, reddish in hue, are the ministers of the king — Kṛṣṇa's face; they destroy the intoxication of Madana.
+*Vipula* means wide. The two wide eyes, reddish in hue, are the ministers of the king — Kṛṣṇa’s face; they destroy the intoxication of Madana.
 
 ## 132
 
-*Dui āṅkhi ki karibe pāne* (“how much can two eyes drink?”): how can the viewer's two eyes drink that ocean of nectar?
+*Dui āṅkhi ki karibe pāne* (“how much can two eyes drink?”): how can the viewer’s two eyes drink that ocean of nectar?
 
 ## 135
 
-*E-tine lāgila mana* (“the mind clung to these three”): the sweetness of Kṛṣṇa's body is like an ocean, His most sweet face is like the moon risen from that ocean, and His exceedingly sweet smile is like the rays of that moon. To these three the mind clung.
+*E-tine lāgila mana* (“the mind clung to these three”): the sweetness of Kṛṣṇa’s body is like an ocean, His most sweet face is like the moon risen from that ocean, and His exceedingly sweet smile is like the rays of that moon. To these three the mind clung.
 
 ## 136
 
@@ -134,7 +134,7 @@ The body of this Kṛṣṇa is sweet; His face is sweeter still; and His gentle
 
 ## 137
 
-When all three disorders (*doṣas*) arise in the bodily constituents (*dhātus*), it is called *sannipāta*. My mind has been struck by three blows — the sweetness of Kṛṣṇa's body, the sweetness of Kṛṣṇa's face and the sweetness of Kṛṣṇa's smile — and there is no doubt that it suffers from the disease of *sannipāta*. Thirsting, it runs toward that ocean of the *rasa* of beauty. The physician for ordinary *sannipāta* does not let the patient drink even a drop of water. In the same way, my disease has no physician but Kṛṣṇa — yet He does not let me drink even a drop from the ocean of the nectar of His beauty. That is the sorrow (the ill fate)!
+When all three disorders (*doṣas*) arise in the bodily constituents (*dhātus*), it is called *sannipāta*. My mind has been struck by three blows — the sweetness of Kṛṣṇa’s body, the sweetness of Kṛṣṇa’s face and the sweetness of Kṛṣṇa’s smile — and there is no doubt that it suffers from the disease of *sannipāta*. Thirsting, it runs towards that ocean of the *rasa* of beauty. The physician for ordinary *sannipāta* does not let the patient drink even a drop of water. In the same way, my disease has no physician but Kṛṣṇa — yet He does not let me drink even a drop from the ocean of the nectar of His beauty. That is the sorrow (the ill fate)!
 
 ## 143
 

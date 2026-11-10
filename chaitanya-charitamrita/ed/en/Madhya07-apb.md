@@ -18,7 +18,7 @@ Mahāprabhu is all-knowing. He knew full well that Viśvarūpa had already attai
 
 ## 27
 
-[The Lord says:] “Dāmodara Paṇḍita and the others have more of Kṛṣṇa's mercy. Therefore they do not care what people think, and they want Me to enjoy all sorts of worldly things. But I am a humble *sannyāsī*. I cannot ignore what people think, and so I behave as *dharma* requires.”
+[The Lord says:] “Dāmodara Paṇḍita and the others have more of Kṛṣṇa’s mercy. Therefore they do not care what people think, and they want Me to enjoy all sorts of worldly things. But I am a humble *sannyāsī*. I cannot ignore what people think, and so I behave as *dharma* requires.”
 
 ## 59
 
@@ -26,7 +26,7 @@ The road south runs along the seashore. Six *krośas* from Purī lies the villag
 
 ## 62
 
-***Adhikārī*** — the king's chief officer. Vidyānagara is nowadays called “Porabandara.”
+***Adhikārī*** — the king’s chief officer. Vidyānagara is nowadays called “Porabandara.”
 
 ## 73
 
@@ -38,7 +38,7 @@ The hearts of extraordinary persons are harder than a thunderbolt and at the sam
 
 ## 99
 
-***Śakti sañcāriyā*** (“infusing power”). The essence of the *hlādinī* potency and the essence of the *saṁvit* potency together constitute “*bhakti-śakti*,” the power of devotion. Anyone into whom Kṛṣṇa or a devotee, out of mercy, infuses this power becomes a “*parama-bhakta*,” a supreme devotee. Whomever Mahāprabhu favored, He infused with such power and entrusted with preaching Vaiṣṇava *dharma*.
+***Śakti sañcāriyā*** (“infusing power”). The essence of the *hlādinī* potency and the essence of the *saṁvit* potency together constitute “*bhakti-śakti*,” the power of devotion. Anyone into whom Kṛṣṇa or a devotee, out of mercy, infuses this power becomes a “*parama-bhakta*,” a supreme devotee. Whomever Mahāprabhu favoured, He infused with such power and entrusted with preaching Vaiṣṇava *dharma*.
 
 ## 108
 

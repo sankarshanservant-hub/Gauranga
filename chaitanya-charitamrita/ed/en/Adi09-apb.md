@@ -10,7 +10,7 @@ I bow down to Kṛṣṇa Caitanyadeva, the guru of the world, by whose mercy ev
 
 ## 5
 
-“*Āpana-śodhana*”: for one's own purification.
+“*Āpana-śodhana*”: for one’s own purification.
 
 ## 6
 
@@ -30,7 +30,7 @@ All the *sannyāsīs* named “Purī” are related to Śrī Īśvara Purī, and
 
 ## 42
 
-The fulfillment of birth for an embodied *jīva* is always to do good to others with his life, wealth, intelligence and speech.
+The fulfilment of birth for an embodied *jīva* is always to do good to others with his life, wealth, intelligence and speech.
 
 ## 43
 

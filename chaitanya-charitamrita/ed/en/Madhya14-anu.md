@@ -4,7 +4,7 @@
 
 > Subheading: Gaurasundara dances while watching the Herā-pañcamī —
 
-**saḥ** **gauraḥ** **ātma-vṛndaiḥ** (with His own associates) **śrī-lakṣmī-vijayotsavam** **paśyan** **gopī-rasollāsam** (the highest degree of the *gopīs'* *parakīya-rasa*) **śrutvā** **hṛṣṭaḥ** **san** **premṇā** (with love full of *prema*) **nanarta**.
+**saḥ** **gauraḥ** **ātma-vṛndaiḥ** (with His own associates) **śrī-lakṣmī-vijayotsavam** **paśyan** **gopī-rasollāsam** (the highest degree of the *gopīs’* *parakīya-rasa*) **śrutvā** **hṛṣṭaḥ** **san** **premṇā** (with love full of *prema*) **nanarta**.
 
 ## 4
 
@@ -38,9 +38,9 @@
 
 > Subheading: One who distributes the nectar of narrations about the Lord is the greatest of givers — (*Śrīmad-Bhāgavatam* 10.31.9)
 
-During the *rāsa* dance Śrī Kṛṣṇa suddenly disappeared. The *gopīs*, for whom Kṛṣṇa is their very life (wholly absorbed in Kṛṣṇa), suffered bitterly in separation from Him. With hearts absorbed in Him, they came from the place of the *rāsa* dance to the bank of the Yamunā, and in these songs they glorify Kṛṣṇa's many qualities:
+During the *rāsa* dance Śrī Kṛṣṇa suddenly disappeared. The *gopīs*, for whom Kṛṣṇa is their very life (wholly absorbed in Kṛṣṇa), suffered bitterly in separation from Him. With hearts absorbed in Him, they came from the place of the *rāsa* dance to the bank of the Yamunā, and in these songs they glorify Kṛṣṇa’s many qualities:
 
-**ye** **janāḥ** **bhuvi** (in *saṁsāra*) **tapta-jīvanam** (the life and soul of those tormented by the fever of separation) **kavibhiḥ** (by the knowers of Kṛṣṇa's *rasa*) **īḍitam** (worshipped) **kalmaṣāpaham** (destroying the grief of the fever of separation) **śravaṇa-maṅgalam** (a delight to the ear) **śrīmat** (endowed with all potencies) **tava** (Your, O Hari) **kathāmṛtam** (nectarean narration) **ātatam** (at length) **gṛṇanti** (sing), **te** (they alone) **janāḥ** **bhūri-dāḥ** (are the most generous).
+**ye** **janāḥ** **bhuvi** (in *saṁsāra*) **tapta-jīvanam** (the life and soul of those tormented by the fever of separation) **kavibhiḥ** (by the knowers of Kṛṣṇa’s *rasa*) **īḍitam** (worshipped) **kalmaṣāpaham** (destroying the grief of the fever of separation) **śravaṇa-maṅgalam** (a delight to the ear) **śrīmat** (endowed with all potencies) **tava** (Your, O Hari) **kathāmṛtam** (nectarean narration) **ātatam** (at length) **gṛṇanti** (sing), **te** (they alone) **janāḥ** **bhūri-dāḥ** (are the most generous).
 
 ## 14
 
@@ -50,11 +50,11 @@ The first *ĩho* is Mahāprabhu; the second *ĩho* is King Pratāparudra.
 
 ## 15
 
-> Subheading: Seeing the king's earlier service, the Lord shows him mercy —
+> Subheading: Seeing the king’s earlier service, the Lord shows him mercy —
 
 ## 16
 
-> Subheading: Caitanya's mercy does not weigh a person's qualification and needs no cause —
+> Subheading: Caitanya’s mercy does not weigh a person’s qualification and needs no cause —
 
 ## 17
 
@@ -74,7 +74,7 @@ The first *ĩho* is Mahāprabhu; the second *ĩho* is King Pratāparudra.
 
 ## 21
 
-> Subheading: The devotees praise the king's good fortune —
+> Subheading: The devotees praise the king’s good fortune —
 
 ## 22
 
@@ -82,7 +82,7 @@ The first *ĩho* is Mahāprabhu; the second *ĩho* is King Pratāparudra.
 
 ## 23
 
-> Subheading: After everyone's midday bath, Vāṇīnātha brings abundant *prasāda* —
+> Subheading: After everyone’s midday bath, Vāṇīnātha brings abundant *prasāda* —
 
 ## 25
 
@@ -90,7 +90,7 @@ The first *ĩho* is Mahāprabhu; the second *ĩho* is King Pratāparudra.
 
 ## 25–34
 
-Here the author's knowledge of the variety of offerings (*naivedya*) to Kṛṣṇa comes to light.
+Here the author’s knowledge of the variety of offerings (*naivedya*) to Kṛṣṇa comes to light.
 
 ## 26
 
@@ -156,7 +156,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 42
 
-> Subheading: The Lord honors the *prasāda* —
+> Subheading: The Lord honours the *prasāda* —
 
 ## 43
 
@@ -166,7 +166,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 44
 
-> Subheading: By the Lord's mercy the poor, the wretched and the destitute receive *prasāda* —
+> Subheading: By the Lord’s mercy the poor, the wretched and the destitute receive *prasāda* —
 
 ## 45
 
@@ -214,7 +214,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 58
 
-> Subheading: By the Lord's power the chariot reaches Guṇḍicā —
+> Subheading: By the Lord’s power the chariot reaches Guṇḍicā —
 
 ## 59
 
@@ -222,11 +222,11 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 60
 
-> Subheading: Seeing the Lord's greatness, the king is overwhelmed with *prema* —
+> Subheading: Seeing the Lord’s greatness, the king is overwhelmed with *prema* —
 
 ## 61
 
-> Subheading: Jagannātha's *pahāṇḍi* —
+> Subheading: Jagannātha’s *pahāṇḍi* —
 
 ## 62
 
@@ -234,11 +234,11 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 63
 
-> Subheading: The Lord's *kīrtana* with the devotees in the courtyard —
+> Subheading: The Lord’s *kīrtana* with the devotees in the courtyard —
 
 ## 64
 
-> Subheading: The Lord's *prema* drives everyone mad —
+> Subheading: The Lord’s *prema* drives everyone mad —
 
 ## 65
 
@@ -270,11 +270,11 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 73
 
-> Subheading: The joy of the Lord, who is in the mood of a *gopī*, Śrī Rādhā's maidservant, at Kṛṣṇa's coming to Vraja and meeting Śrī Rādhā —
+> Subheading: The joy of the Lord, who is in the mood of a *gopī*, Śrī Rādhā’s maidservant, at Kṛṣṇa’s coming to Vraja and meeting Śrī Rādhā —
 
 ## 75
 
-> Subheading: The Lord's various water pastimes with the devotees —
+> Subheading: The Lord’s various water pastimes with the devotees —
 
 ## 77
 
@@ -294,7 +294,7 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 85
 
-> Subheading: Gopīnātha describes the greatness of the Lord's mercy —
+> Subheading: Gopīnātha describes the greatness of the Lord’s mercy —
 
 ## 86
 
@@ -302,9 +302,9 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 87
 
-> Subheading: By the Lord's mercy even Sārvabhauma, a man of dry knowledge, now relishes the *rasa* of service to Kṛṣṇa —
+> Subheading: By the Lord’s mercy even Sārvabhauma, a man of dry knowledge, now relishes the *rasa* of service to Kṛṣṇa —
 
-*Khali*: oil-cake, what remains after oil is pressed. Before Sārvabhauma received Mahāprabhu's mercy he was a knower of the featureless (*nirviśeṣa*) Brahman and followed the path of logic; so [Gopīnātha] compared him to “the oil-presser's bullock,” which eats oil-cake.
+*Khali*: oil-cake, what remains after oil is pressed. Before Sārvabhauma received Mahāprabhu’s mercy he was a knower of the featureless (*nirviśeṣa*) Brahman and followed the path of logic; so [Gopīnātha] compared him to “the oil-presser’s bullock,” which eats oil-cake.
 
 ## 88
 
@@ -316,11 +316,11 @@ Lime pickles and jujube pickles (*ācāra*). In the colloquial speech of East Be
 
 ## 92
 
-> Subheading: The chief devotees accept the Ācārya's invitation —
+> Subheading: The chief devotees accept the Ācārya’s invitation —
 
 ## 93
 
-> Subheading: The Lord's associates accept the *prasāda* brought by Vāṇīnātha —
+> Subheading: The Lord’s associates accept the *prasāda* brought by Vāṇīnātha —
 
 ## 94
 
@@ -362,7 +362,7 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 ## 103
 
-> Subheading: After bathing, [the Lord] honors *prasāda* with the devotees in the garden —
+> Subheading: After bathing, [the Lord] honours *prasāda* with the devotees in the garden —
 
 ## 104
 
@@ -386,7 +386,7 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 > Subheading: He orders everything to be beautifully decorated —
 
-*Citra-vastra*: colored (printed, *chopāna*) cloth; *kiṅkiṇī*: small bells.
+*Citra-vastra*: coloured (printed, *chopāna*) cloth; *kiṅkiṇī*: small bells.
 
 ## 111
 
@@ -414,7 +414,7 @@ Although the Lord here began the pastimes of Vṛndāvana, He has no pastimes as
 
 ## 117–119
 
-Out of compassion for the *jīvas*, Śrī Jagannāthadeva sits in the temple at Nīlācala and manifests Kṛṣṇa's pastimes in Dvārakā. Once a year He feels the greatest longing to see Sundarācala, which is like Vṛndāvana.
+Out of compassion for the *jīvas*, Śrī Jagannāthadeva sits in the temple at Nīlācala and manifests Kṛṣṇa’s pastimes in Dvārakā. Once a year He feels the greatest longing to see Sundarācala, which is like Vṛndāvana.
 
 ## 122
 
@@ -446,15 +446,15 @@ See *Bṛhad-bhāgavatāmṛta*, Part One, Chapter Seven.
 
 ## 132
 
-> Subheading: Lakṣmī's maidservants tie up Jagannātha's chief servants, bring them to their mistress and beat them —
+> Subheading: Lakṣmī’s maidservants tie up Jagannātha’s chief servants, bring them to their mistress and beat them —
 
 ## 135
 
-> Subheading: Seeing the insolence of Lakṣmī's maidservants, the devotees laugh —
+> Subheading: Seeing the insolence of Lakṣmī’s maidservants, the devotees laugh —
 
 ## 136
 
-> Subheading: Dāmodara explains Lakṣmī's unprecedented, extraordinary *māna* —
+> Subheading: Dāmodara explains Lakṣmī’s unprecedented, extraordinary *māna* —
 
 ## 137
 
@@ -466,11 +466,11 @@ See *Bṛhad-bhāgavatāmṛta*, Part One, Chapter Seven.
 
 ## 139
 
-> Subheading: Lakṣmī's *māna* is quite different —
+> Subheading: Lakṣmī’s *māna* is quite different —
 
 ## 140
 
-> Subheading: Answering the Lord's question, Svarūpa describes the *gopīs'* *māna* —
+> Subheading: Answering the Lord’s question, Svarūpa describes the *gopīs’* *māna* —
 
 ## 141
 
@@ -482,7 +482,7 @@ See in the *Ujjvala-nīlamaṇi* the chapters on the kinds of heroines (*nāyik�
 
 ## 142
 
-> Subheading: A brief description of the *gopīs'* indescribable *māna* —
+> Subheading: A brief description of the *gopīs’* indescribable *māna* —
 
 ## 143
 
@@ -518,11 +518,11 @@ See in the *Ujjvala-nīlamaṇi* the chapters on the kinds of heroines (*nāyik�
 
 ## 154
 
-> Subheading: The Lord rejoices to hear of the *gopīs'* traits as heroines —
+> Subheading: The Lord rejoices to hear of the *gopīs’* traits as heroines —
 
 ## 155
 
-> Subheading: Svarūpa describes the signs of Kṛṣṇa's and the *gopīs'* love for each other —
+> Subheading: Svarūpa describes the signs of Kṛṣṇa’s and the *gopīs’* love for each other —
 
 *Rasa-āsvādaka*: Śrī Kṛṣṇa alone relishes the spiritual *rasa* (*cid-rasa*): He is the enjoyer (*bhoktā*), the *viṣaya*, and all others are His *āśraya*, those He enjoys (*bhogya*).
 
@@ -532,9 +532,9 @@ See in the *Ujjvala-nīlamaṇi* the chapters on the kinds of heroines (*nāyik�
 
 ## 158
 
-> Subheading: Śrī Kṛṣṇa's spiritual *rāsa* dance — (*Śrīmad-Bhāgavatam* 10.33.25)
+> Subheading: Śrī Kṛṣṇa’s spiritual *rāsa* dance — (*Śrīmad-Bhāgavatam* 10.33.25)
 
-Śrī Śukadeva, the *mahā-bhāgavata*, crest jewel of the assembly of *paramahaṁsas*, describes to Parīkṣit, pure of heart, Śrī Kṛṣṇa's *rāsa* dance with the *gopīs*:
+Śrī Śukadeva, the *mahā-bhāgavata*, crest jewel of the assembly of *paramahaṁsas*, describes to Parīkṣit, pure of heart, Śrī Kṛṣṇa’s *rāsa* dance with the *gopīs*:
 
 **evam** (in the way described) **satya-kāmaḥ** (Śrī Kṛṣṇa, whose desires are eternally true) **anuratābalā-gaṇaḥ** (He to whom hosts of women are drawn, that is, who is amid a multitude of loving women) **ātmani** (*eva*, within Himself) **avaruddha-saurataḥ** (who held in His love play, that is, the Ātmārāma, the transcendental Kāmadeva) **śarat-kāvya-kathā-rasāśrayāḥ** (the shelter of the *rasas* that occur in autumn and are sung of in poetry; or, the shelter of the *rasas* of poetic narrations befitting autumn; or, construing *rasāśrayāḥ śarat-kāvya-kathāḥ*, the nights that poetry speaks of as the shelter of *śṛṅgāra-rasa*, renowned in autumn) **śaśāṅkāṁśu-virājitāḥ** (shining with the rays of the moon) **sarvāḥ** **eva** **niśāḥ** **siṣeve** (He spent in the *rāsa* dance).
 
@@ -582,13 +582,13 @@ See Madhya, Chapter 8, verse 110.
 
 ## 169
 
-> Subheading: Kṛṣṇa's deep happiness at seeing the form of Śrī Rādhā, who fulfills Kṛṣṇa's desires and is adorned with many ornaments of *bhāva* —
+> Subheading: Kṛṣṇa’s deep happiness at seeing the form of Śrī Rādhā, who fulfils Kṛṣṇa’s desires and is adorned with many ornaments of *bhāva* —
 
 See Ādi, Chapter 4, verses 243, 250 and 256.
 
 ## 170
 
-> Subheading: Where Śrī Rādhā's *kila-kiñcita* *bhāva* appears —
+> Subheading: Where Śrī Rādhā’s *kila-kiñcita* *bhāva* appears —
 
 ## 174
 
@@ -608,11 +608,11 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 ## 179
 
-> Subheading: Kṛṣṇa's deepest happiness at seeing the beauty of Śrī Rādhā's *kila-kiñcita* *bhāva* —
+> Subheading: Kṛṣṇa’s deepest happiness at seeing the beauty of Śrī Rādhā’s *kila-kiñcita* *bhāva* —
 
 ## 180
 
-> Subheading: An example of Śrī Rādhā's *kila-kiñcita* *bhāva* — (words of Śrī Rūpa Gosvāmī, *Dāna-keli-kaumudī* 1)
+> Subheading: An example of Śrī Rādhā’s *kila-kiñcita* *bhāva* — (words of Śrī Rūpa Gosvāmī, *Dāna-keli-kaumudī* 1)
 
 **pathi** (on the road to the *dāna-ghāṭa*) **mādhavena** (by Śrī Rādhā-ramaṇa, on the pretext of collecting a toll) **ruddhāyāḥ** **rādhāyāḥ** **antaḥ-smeratayā** (with an inner, unmanifest smile, slightly laughing) **ujjvalā** (shining — this is “laughter,” *smita*) **jala-kaṇa-vyākīrṇa-pakṣmāṅkurā** (whose eyelash-shoots, the tips of the lashes, are strewn with drops of water — this is “weeping,” *rodana*) **kiñcit-pāṭalitāñcalā** (with white and pink eye corners: the whiteness is natural and the redness comes from anger — this is “anger,” *krodha*) **rasikatotsiktā** (brimming with wit, *rasikatā* — this is “pride,” *garva*, or “longing,” *abhilāṣa*) **puraḥ** (in front) **kuñcatī** (shrinking — this is “fear,” *bhaya*) **madhura-vyābhugna-tārottarā** (excellent with its sweetly curved, crooked pupils — this is “longing,” “pride” or “jealous displeasure,” *asūyā*) **kila-kiñcita-stavakinī** (bearing the bouquet of *kila-kiñcita* — a special *bhāva*, unmanifest because of its depth, a cluster of flowers of many *bhāvas*) **dṛṣṭiḥ** (glance) **vaḥ** (to you) **śriyam** **kriyāt**.
 
@@ -624,11 +624,11 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 ## 182
 
-> Subheading: Hearing of Śrī Rādhā's *bhāva*, the Lord embraces Svarūpa —
+> Subheading: Hearing of Śrī Rādhā’s *bhāva*, the Lord embraces Svarūpa —
 
 ## 183
 
-> Subheading: Answering the Lord's question, Svarūpa describes Śrī Rādhā's *vilāsa* *bhāva* —
+> Subheading: Answering the Lord’s question, Svarūpa describes Śrī Rādhā’s *vilāsa* *bhāva* —
 
 ## 184
 
@@ -638,13 +638,13 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 > Subheading: (*Ujjvala-nīlamaṇi*, Vibhāva-kathana, 67)
 
-**gati-sthānāsanādīnām** (of the beloved's walking, standing, sitting and so on) **mukha-netrādi-karmaṇām** **ca** (and of the actions of the limbs) **priya-saṅga-jam** (born of meeting the beloved) **tātkālikam** (occurring at the time of meeting the beloved) **vaiśiṣṭyam** (distinctiveness) **tu** **vilāsaḥ** (is called).
+**gati-sthānāsanādīnām** (of the beloved’s walking, standing, sitting and so on) **mukha-netrādi-karmaṇām** **ca** (and of the actions of the limbs) **priya-saṅga-jam** (born of meeting the beloved) **tātkālikam** (occurring at the time of meeting the beloved) **vaiśiṣṭyam** (distinctiveness) **tu** **vilāsaḥ** (is called).
 
 ## 189
 
 > Subheading: (*Govinda-līlāmṛta* 9.11)
 
-**asyāḥ** (Śrī Rādhā's) **gatiḥ** **puraḥ** (in front) **kṛṣṇālokāt** (on seeing Kṛṣṇa) **sthagita-kuṭilā** (halted — stopped — and crooked — slow) **abhūt**; **śrī-mukham** **api** **tiraścīnam** (turned aside) **kṛṣṇāmbara-darāvṛtam** (slightly covered with a dark veil) **abhūt**; **calat-tāram** (with restless pupils) **sphāram** (wide open) **nayana-yugam** (the pair of eyes) **ābhugnam** (curved) **abhūt** — **iti** **sā** (Rādhā) **priya-mude** (to increase Kṛṣṇa's bliss) **vilāsākhya-svālaṅkaraṇa-valitā** (endowed with Her own ornament called *vilāsa*) **āsīt**.
+**asyāḥ** (Śrī Rādhā’s) **gatiḥ** **puraḥ** (in front) **kṛṣṇālokāt** (on seeing Kṛṣṇa) **sthagita-kuṭilā** (halted — stopped — and crooked — slow) **abhūt**; **śrī-mukham** **api** **tiraścīnam** (turned aside) **kṛṣṇāmbara-darāvṛtam** (slightly covered with a dark veil) **abhūt**; **calat-tāram** (with restless pupils) **sphāram** (wide open) **nayana-yugam** (the pair of eyes) **ābhugnam** (curved) **abhūt** — **iti** **sā** (Rādhā) **priya-mude** (to increase Kṛṣṇa’s bliss) **vilāsākhya-svālaṅkaraṇa-valitā** (endowed with Her own ornament called *vilāsa*) **āsīt**.
 
 ## 190
 
@@ -658,13 +658,13 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 > Subheading: (*Ujjvala-nīlamaṇi*, Vibhāva-kathana, 75)
 
-**yatra** **aṅgānām** **sukumārā** (very delicate) **vinyāsa-bhaṅgiḥ** (skillful arrangement) **bhrū-vilāsa-manoharā** **bhavet**, **tat** **lalitam** **iti** **udāhṛtam**.
+**yatra** **aṅgānām** **sukumārā** (very delicate) **vinyāsa-bhaṅgiḥ** (skilful arrangement) **bhrū-vilāsa-manoharā** **bhavet**, **tat** **lalitam** **iti** **udāhṛtam**.
 
 ## 194
 
 > Subheading: (*Govinda-līlāmṛta* 9.14)
 
-**sā** (Rādhā) **hriyā** (out of shyness) **tiryag-grīvā-caraṇa-kaṭi-bhaṅgī-sumadhurā** (sweet with the curve of Her neck, knees and hips, gracefully set aslant — enchanting Kṛṣṇa) **calac-cillī-vallī-dalita-ratināthorjita-dhanuḥ** (She by whom, with the creeper of Her restless brow — a brow like the *cillī* bird[^194-1] — the mighty bow of Ratinātha, Kāmadeva, is broken, that is, conquered) **priya-premollāsollasita-lalitā-lālita-tanuḥ** (She whose body is cherished, that is, devotedly served, by *lalita* — the play and dance born of the joy of love of Her Beloved, Kṛṣṇa) **priya-prītyai** (to increase the Beloved's love) **udita-lalitālaṅkṛti-yutā** (endowed with the manifest special *bhāva* of *lalita*, the ornament of *lalita*) **āsīt**.
+**sā** (Rādhā) **hriyā** (out of shyness) **tiryag-grīvā-caraṇa-kaṭi-bhaṅgī-sumadhurā** (sweet with the curve of Her neck, knees and hips, gracefully set aslant — enchanting Kṛṣṇa) **calac-cillī-vallī-dalita-ratināthorjita-dhanuḥ** (She by whom, with the creeper of Her restless brow — a brow like the *cillī* bird[^194-1] — the mighty bow of Ratinātha, Kāmadeva, is broken, that is, conquered) **priya-premollāsollasita-lalitā-lālita-tanuḥ** (She whose body is cherished, that is, devotedly served, by *lalita* — the play and dance born of the joy of love of Her Beloved, Kṛṣṇa) **priya-prītyai** (to increase the Beloved’s love) **udita-lalitālaṅkṛti-yutā** (endowed with the manifest special *bhāva* of *lalita*, the ornament of *lalita*) **āsīt**.
 
 ## 195
 
@@ -680,7 +680,7 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 > Subheading: (a verse of Gosvāmipāda)
 
-**karabhoruḥ** (Rādhikā, whose thighs are strong like a young elephant's trunk) **mādhavasya** **avirodhita-vāñcham** (in which the desire meets no obstacle) **pāṇi-rodham** (warding off the touch of the hand) **madhura-smita-garbhāḥ** (holding a sweet, gentle smile within) **bhartsanāḥ** (rebukes), **api** **ca** **mukhe** **hāri-śuṣka-ruditam** (a feigned weeping that captivates Kṛṣṇa's mind) **kurute**.
+**karabhoruḥ** (Rādhikā, whose thighs are strong like a young elephant’s trunk) **mādhavasya** **avirodhita-vāñcham** (in which the desire meets no obstacle) **pāṇi-rodham** (warding off the touch of the hand) **madhura-smita-garbhāḥ** (holding a sweet, gentle smile within) **bhartsanāḥ** (rebukes), **api** **ca** **mukhe** **hāri-śuṣka-ruditam** (a feigned weeping that captivates Kṛṣṇa’s mind) **kurute**.
 
 ## 201
 
@@ -688,13 +688,13 @@ When the seven *bhāvas*, pride and the rest, join the root cause, joy, the comb
 
 ## 202
 
-> Subheading: Even Viṣṇu in the form of Śeṣa, with a thousand mouths, cannot describe Kṛṣṇa's pastimes —
+> Subheading: Even Viṣṇu in the form of Śeṣa, with a thousand mouths, cannot describe Kṛṣṇa’s pastimes —
 
 See Madhya, Chapter 21, verses 10 and 12; *Śrīmad-Bhāgavatam* 2.7.41 and 10.14.7.
 
 ## 203
 
-> Subheading: A conversation between Svarūpa, the servant of Śrī Rādhā, and Śrīvāsa, the servant of Śrī Lakṣmī-Nārāyaṇa; Śrīvāsa is proud of his mistress's majesty —
+> Subheading: A conversation between Svarūpa, the servant of Śrī Rādhā, and Śrīvāsa, the servant of Śrī Lakṣmī-Nārāyaṇa; Śrīvāsa is proud of his mistress’s majesty —
 
 Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, Śrīvāsa starts a loving quarrel with Śrī Dāmodara Svarūpa, taking him for a “resident of Vraja” who has no majesty.
 
@@ -706,7 +706,7 @@ Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, 
 
 ## 207
 
-“Your Ṭhākura”: the words of Lakṣmī's maidservants addressed to Jagannātha's servants.
+“Your Ṭhākura”: the words of Lakṣmī’s maidservants addressed to Jagannātha’s servants.
 
 ## 208
 
@@ -714,7 +714,7 @@ Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, 
 
 ## 209
 
-> Subheading: Lakṣmī's maidservants tie up and punish the Lord's servants, who share His guilt —
+> Subheading: Lakṣmī’s maidservants tie up and punish the Lord’s servants, who share His guilt —
 
 *Prabhura*: of Jagannātha.
 
@@ -728,15 +728,15 @@ Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, 
 
 ## 214
 
-> Subheading: Speaking of Lakṣmī's majesty, Śrīvāsa teases Svarūpa —
+> Subheading: Speaking of Lakṣmī’s majesty, Śrīvāsa teases Svarūpa —
 
 *Āuṭi*: boiling down.
 
 ## 215
 
-> Subheading: Hearing Śrīvāsa's words, the Lord's devotees on the path of *rāga* laugh —
+> Subheading: Hearing Śrīvāsa’s words, the Lord’s devotees on the path of *rāga* laugh —
 
-*Nija-dāsa*: Gadādhara and the others who form the Lord's potency (*śakti*); they are wholly devoted to the service of Śrī Rādhā-Govinda and absorbed in *rāgātmika-bhakti*.
+*Nija-dāsa*: Gadādhara and the others who form the Lord’s potency (*śakti*); they are wholly devoted to the service of Śrī Rādhā-Govinda and absorbed in *rāgātmika-bhakti*.
 
 ## 216
 
@@ -752,7 +752,7 @@ Regarding himself as established in the majesty (*aiśvarya*) of *dāsya-rasa*, 
 
 ## 220
 
-> Subheading: A description of Kṛṣṇa's Vṛndāvana-dhāma —
+> Subheading: A description of Kṛṣṇa’s Vṛndāvana-dhāma —
 
 ## 220–226
 
@@ -762,7 +762,7 @@ See Ādi, Chapter 5, verses 20–22.
 
 > Subheading: The nature and wondrous properties of everything in Vṛndāvana — (*Brahma-saṁhitā* 5.56)
 
-**tatra** (in the transcendental land) **parama-puruṣaḥ** (*eva*, He alone) — **kāntaḥ** (the One, without a second enjoyer), **śriyaḥ** (the Lakṣmīs, that is, the *gopīs*) — **kāntāḥ** (all take shelter of Kṛṣṇa), **drumāḥ** (the *kadamba* and other trees) — **kalpa-taravaḥ** (indeed giving the fruit of love for Kṛṣṇa), **bhūmiḥ** **cintāmaṇi-gaṇamayī** (full of gems that fulfill all kinds of spiritual desires), **toyam** — **amṛtam** **eva**, **kathā** — **gānam** **eva**, **gamanam** **api** **nāṭyam** **eva**, **vaṁśī** — **priya-sakhī** (*eva*, indeed), **param** **jyotiḥ** (the moon, the sun and so on) **api** **cid-ānandam** (made of it), **tat** **api** **āsvādyam** (that is, everything of theirs is free of material nature, transcendental, and meant for the enjoyment of Kṛṣṇa alone).
+**tatra** (in the transcendental land) **parama-puruṣaḥ** (*eva*, He alone) — **kāntaḥ** (the One, without a second enjoyer), **śriyaḥ** (the Lakṣmīs, that is, the *gopīs*) — **kāntāḥ** (all take shelter of Kṛṣṇa), **drumāḥ** (the *kadamba* and other trees) — **kalpa-taravaḥ** (indeed giving the fruit of love for Kṛṣṇa), **bhūmiḥ** **cintāmaṇi-gaṇamayī** (full of gems that fulfil all kinds of spiritual desires), **toyam** — **amṛtam** **eva**, **kathā** — **gānam** **eva**, **gamanam** **api** **nāṭyam** **eva**, **vaṁśī** — **priya-sakhī** (*eva*, indeed), **param** **jyotiḥ** (the moon, the sun and so on) **api** **cid-ānandam** (made of it), **tat** **api** **āsvādyam** (that is, everything of theirs is free of material nature, transcendental, and meant for the enjoyment of Kṛṣṇa alone).
 
 See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 137.
 
@@ -774,11 +774,11 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 229
 
-> Subheading: Śrīvāsa's supreme bliss —
+> Subheading: Śrīvāsa’s supreme bliss —
 
 ## 230
 
-> Subheading: Hearing of Śrī Rādhā's *rasa*, the Lord too rejoices —
+> Subheading: Hearing of Śrī Rādhā’s *rasa*, the Lord too rejoices —
 
 ## 231
 
@@ -786,7 +786,7 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 232
 
-> Subheading: The flood of the Lord's *prema* inundates Purī-dhāma —
+> Subheading: The flood of the Lord’s *prema* inundates Purī-dhāma —
 
 ## 233
 
@@ -798,7 +798,7 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 235
 
-> Subheading: The Lord in Śrī Rādhā's loving absorption —
+> Subheading: The Lord in Śrī Rādhā’s loving absorption —
 
 ## 236
 
@@ -806,13 +806,13 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 237
 
-> Subheading: Nitāi does not come near, and the Lord's absorption and the *kīrtana* do not stop —
+> Subheading: Nitāi does not come near, and the Lord’s absorption and the *kīrtana* do not stop —
 
 *Rahe*: stops, or ceases.
 
 ## 238
 
-> Subheading: Svarūpa's stratagem brings the Lord to outward consciousness —
+> Subheading: Svarūpa’s stratagem brings the Lord to outward consciousness —
 
 ## 239
 
@@ -824,7 +824,7 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 241
 
-> Subheading: Honoring *prasāda* with the devotees; after the evening bath, *darśana* of Jagannātha —
+> Subheading: Honouring *prasāda* with the devotees; after the evening bath, *darśana* of Jagannātha —
 
 ## 242
 
@@ -832,9 +832,9 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 244
 
-> Subheading: Jagannātha's return journey to Purī —
+> Subheading: Jagannātha’s return journey to Purī —
 
-*Bhitara-vijaya*: the procession during the return *yātrā* (*punar-yātrā*) to go back inside the Śrī Mandira: having come out of the Guṇḍicā temple (*bahir-vijaya*), [Jagannātha] again proceeds toward the temple.
+*Bhitara-vijaya*: the procession during the return *yātrā* (*punar-yātrā*) to go back inside the Śrī Mandira: having come out of the Guṇḍicā temple (*bahir-vijaya*), [Jagannātha] again proceeds towards the temple.
 
 ## 245
 
@@ -856,7 +856,7 @@ See the *Anubhāṣya* on the word “Vṛndāvana,” Madhya, Chapter 8, verse 
 
 ## 251
 
-> Subheading: Jagannātha's silken rope is the *arcā* of Bhagavān Viṣṇu Himself in the form of Ananta —
+> Subheading: Jagannātha’s silken rope is the *arcā* of Bhagavān Viṣṇu Himself in the form of Ananta —
 
 ## 252
 
@@ -882,6 +882,6 @@ See Ādi, Chapter 10, verses 162–163, and Chapter 17, verse 331.[^256-1]
 
 ---
 
-[^194-1]: The edition's gloss continues: *calantī kampanavatī cillī bhrūḥ; cillī-pakṣiṇīva bhrūḥ klinnākṣī-vā* (*cillī* = brow; “a brow like the *cillī* bird”); the last word is printed *klinnākṣī-vā* (ক্লিন্নাক্ষীবা, apparently “or moist-eyed”); its sense is unclear and it is not rendered in the translation.
+[^194-1]: The edition’s gloss continues: *calantī kampanavatī cillī bhrūḥ; cillī-pakṣiṇīva bhrūḥ klinnākṣī-vā* (*cillī* = brow; “a brow like the *cillī* bird”); the last word is printed *klinnākṣī-vā* (ক্লিন্নাক্ষীবা, apparently “or moist-eyed”); its sense is unclear and it is not rendered in the translation.
 
 [^256-1]: The edition gives no verse number (the note stands after the chapter colophon); by its content (“even the thousand-mouthed One cannot describe them”) it belongs to verse 256.

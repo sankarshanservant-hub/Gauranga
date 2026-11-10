@@ -16,11 +16,11 @@
 
 ## 5
 
-Pāṇḍu-vijaya, or *pahāṇḍi*: the [Deity's] ascent from the throne onto the chariot.
+Pāṇḍu-vijaya, or *pahāṇḍi*: the [Deity’s] ascent from the throne onto the chariot.
 
 ## 6
 
-> Subheading: The king and his retinue help [the Lord's associates] see the *pahāṇḍi* —
+> Subheading: The king and his retinue help [the Lord’s associates] see the *pahāṇḍi* —
 
 ## 7
 
@@ -36,7 +36,7 @@ Pāṇḍu-vijaya, or *pahāṇḍi*: the [Deity's] ascent from the throne onto 
 
 ## 12
 
-> Subheading: Jagannātha's weight —
+> Subheading: Jagannātha’s weight —
 
 *Prabhu*: Śrī Jagannāthadeva.
 
@@ -54,7 +54,7 @@ Pāṇḍu-vijaya, or *pahāṇḍi*: the [Deity's] ascent from the throne onto 
 
 ## 17
 
-> Subheading: Seeing the king's humble service, the Lord shows him mercy —
+> Subheading: Seeing the king’s humble service, the Lord shows him mercy —
 
 ## 19
 
@@ -76,7 +76,7 @@ Pāṇḍu-vijaya, or *pahāṇḍi*: the [Deity's] ascent from the throne onto 
 
 ## 24
 
-> Subheading: After the pastimes, with Lakṣmī's consent, He mounts the chariot —
+> Subheading: After the pastimes, with Lakṣmī’s consent, He mounts the chariot —
 
 ## 25
 
@@ -84,7 +84,7 @@ Pāṇḍu-vijaya, or *pahāṇḍi*: the [Deity's] ascent from the throne onto 
 
 ## 23–25
 
-During the *anavasara* Jagannāthadeva spent a fortnight in seclusion, freely enjoying pastimes with Mahālakṣmī while keeping to due majesty and decorum (*maryādā*). Now, with Lakṣmī's consent, He mounted the chariot and went out for pastimes free of restraint, to give joy to the devotees on the path of *anurāga*, who are devoted to Kṛṣṇa alone. Needless to say, the mood of wedded love (*svakīya*) is loosened here. The road the chariot travels is covered with fine white sand, like the bank of the Yamunā. Both sides of the road are surrounded by groves, as in Vṛndāvana.
+During the *anavasara* Jagannāthadeva spent a fortnight in seclusion, freely enjoying pastimes with Mahālakṣmī while keeping to due majesty and decorum (*maryādā*). Now, with Lakṣmī’s consent, He mounted the chariot and went out for pastimes free of restraint, to give joy to the devotees on the path of *anurāga*, who are devoted to Kṛṣṇa alone. Needless to say, the mood of wedded love (*svakīya*) is loosened here. The road the chariot travels is covered with fine white sand, like the bank of the Yamunā. Both sides of the road are surrounded by groves, as in Vṛndāvana.
 
 ## 27
 
@@ -96,11 +96,11 @@ During the *anavasara* Jagannāthadeva spent a fortnight in seclusion, freely en
 
 ## 30
 
-> Subheading: First of all, honor to the elders —
+> Subheading: First of all, honour to the elders —
 
 ## 32
 
-> Subheading: Honor to the chief *kīrtana* singers, Śrī Svarūpa and Śrīvāsa —
+> Subheading: Honour to the chief *kīrtana* singers, Śrī Svarūpa and Śrīvāsa —
 
 ## 33
 
@@ -144,7 +144,7 @@ During the *anavasara* Jagannāthadeva spent a fortnight in seclusion, freely en
 
 ## 45
 
-> Subheading: On the other side, Advaita's followers —
+> Subheading: On the other side, Advaita’s followers —
 
 ## 46
 
@@ -158,9 +158,9 @@ During the *anavasara* Jagannāthadeva spent a fortnight in seclusion, freely en
 
 *Gāyana*: singer. The seven groups are described below in order.
 
-Before Jagannātha's chariot: (a) In the first group the chief (lead) singer was Dāmodara Svarūpa; the singers (chorus) were 1) Dāmodara Paṇḍita, 2) Nārāyaṇa, 3) Govinda Datta, 4) Rāghava Paṇḍita, 5) Govindānanda; the dancer was Advaita. (b) In the second group the lead singer was Śrīvāsa; the chorus were 1) Gaṅgādāsa, 2) Haridāsa (the elder?), 3) Śrīmān, 4) Śubhānanda, 5) Śrīrāma; the dancer was Nityānanda. (c) In the third group the lead singer was Mukunda; the chorus were 1) Vāsudeva Datta, 2) Gopīnātha, 3) Murāri, 4) Śrīkānta, 5) Vallabha Sena; the dancer was Ṭhākura Haridāsa. (d) In the fourth group the lead singer was Govinda [Ghoṣa]; the chorus were 1) Haridāsa (the younger?), 2) Viṣṇudāsa, 3) Rāghava, 4) Mādhava, 5) Vāsu Ghoṣa; the dancer was Vakreśvara.
+Before Jagannātha’s chariot: (a) In the first group the chief (lead) singer was Dāmodara Svarūpa; the singers (chorus) were 1) Dāmodara Paṇḍita, 2) Nārāyaṇa, 3) Govinda Datta, 4) Rāghava Paṇḍita, 5) Govindānanda; the dancer was Advaita. (b) In the second group the lead singer was Śrīvāsa; the chorus were 1) Gaṅgādāsa, 2) Haridāsa (the elder?), 3) Śrīmān, 4) Śubhānanda, 5) Śrīrāma; the dancer was Nityānanda. (c) In the third group the lead singer was Mukunda; the chorus were 1) Vāsudeva Datta, 2) Gopīnātha, 3) Murāri, 4) Śrīkānta, 5) Vallabha Sena; the dancer was Ṭhākura Haridāsa. (d) In the fourth group the lead singer was Govinda [Ghoṣa]; the chorus were 1) Haridāsa (the younger?), 2) Viṣṇudāsa, 3) Rāghava, 4) Mādhava, 5) Vāsu Ghoṣa; the dancer was Vakreśvara.
 
-On the left side of the chariot: (e) in the fifth group the singers were the residents of Kulīnagrāma; the dancers were Rāmānanda and Satyarāja. On the right side of the chariot: (f) in the sixth group the singers were Advaita's followers; the dancer was Acyutānanda. Behind the chariot: (g) in the seventh group the singers were the residents of Khaṇḍa; the dancers were Narahari and Raghunandana.
+On the left side of the chariot: (e) in the fifth group the singers were the residents of Kulīnagrāma; the dancers were Rāmānanda and Satyarāja. On the right side of the chariot: (f) in the sixth group the singers were Advaita’s followers; the dancer was Acyutānanda. Behind the chariot: (g) in the seventh group the singers were the residents of Khaṇḍa; the dancers were Narahari and Raghunandana.
 
 ## 49
 
@@ -176,7 +176,7 @@ On the left side of the chariot: (e) in the fifth group the singers were the res
 
 ## 54
 
-> Subheading: The Lord's power is known only to pure devotees —
+> Subheading: The Lord’s power is known only to pure devotees —
 
 ## 55
 
@@ -196,21 +196,21 @@ On the left side of the chariot: (e) in the fifth group the singers were the res
 
 ## 59
 
-> Subheading: He is realized only by His mercy; by the path of reasoning He cannot be known even by Brahmā —
+> Subheading: He is realised only by His mercy; by the path of reasoning He cannot be known even by Brahmā —
 
 See Madhya 6.82–84, 86, 87, 89–91.
 
 ## 60
 
-> Subheading: Seeing the king's humble service, the Lord is pleased —
+> Subheading: Seeing the king’s humble service, the Lord is pleased —
 
-*Rahasya-darśana* (seeing the secret): Śrī Jagannāthadeva, amazed at seeing Mahāprabhu's dancing, singing and so on, stopped His own chariot. And Mahāprabhu, by dancing and so on before Him, gave joy to Jagannātha. Although the “seer” and the “seen” here are one and the same Reality, this wonderful secret was revealed in all the variety of the pastimes, and by Mahāprabhu's mercy the king was able to understand it. The king also realized that the Lord's simultaneous presence in the seven groups was another part of this secret.
+*Rahasya-darśana* (seeing the secret): Śrī Jagannāthadeva, amazed at seeing Mahāprabhu’s dancing, singing and so on, stopped His own chariot. And Mahāprabhu, by dancing and so on before Him, gave joy to Jagannātha. Although the “seer” and the “seen” here are one and the same Reality, this wonderful secret was revealed in all the variety of the pastimes, and by Mahāprabhu’s mercy the king was able to understand it. The king also realised that the Lord’s simultaneous presence in the seven groups was another part of this secret.
 
 ## 61
 
 > Subheading: Openly, aversion to the king; out of sight, mercy —
 
-The Lord was then playing the role of an *ācārya*, and so He openly showed intense aversion even to the word “king.” Out of sight, however, He was so merciful to the king that by His mercy the king was able to penetrate even the secret of His hidden pastimes. Truly, the meaning of this pastime of Mahāprabhu's, in which mercy goes together with deception — that is, in which He acts at once as the Lord (*Īśvara*) and as if He were a *jīva* — can be understood by no one but His exclusive devotees.
+The Lord was then playing the role of an *ācārya*, and so He openly showed intense aversion even to the word “king.” Out of sight, however, He was so merciful to the king that by His mercy the king was able to penetrate even the secret of His hidden pastimes. Truly, the meaning of this pastime of Mahāprabhu’s, in which mercy goes together with deception — that is, in which He acts at once as the Lord (*Īśvara*) and as if He were a *jīva* — can be understood by no one but His exclusive devotees.
 
 ## 62
 
@@ -228,7 +228,7 @@ The Lord was then playing the role of an *ācārya*, and so He openly showed int
 
 > Subheading: The dependent *līlā-śakti* serves her own Lord —
 
-In the seven *kīrtana* groups the Lord — independent, His will unchecked — manifested, as He wished, sometimes one form and sometimes many. He Himself danced and sang and made the devotees dance, and He was so intoxicated with tasting bliss that He had no leisure at all to recall or attend to who He was — as if He had completely forgotten Himself! (This, too, is one feature of the variety of His transcendental, spiritual, endless pastimes — of His spiritual play.) But at His mere wish, His *icchā-śakti* (energy of will), a form of the *svarūpa-śakti*, manifested the Lord's *prakāśa* forms and so arranged service for her own Lord.
+In the seven *kīrtana* groups the Lord — independent, His will unchecked — manifested, as He wished, sometimes one form and sometimes many. He Himself danced and sang and made the devotees dance, and He was so intoxicated with tasting bliss that He had no leisure at all to recall or attend to who He was — as if He had completely forgotten Himself! (This, too, is one feature of the variety of His transcendental, spiritual, endless pastimes — of His spiritual play.) But at His mere wish, His *icchā-śakti* (energy of will), a form of the *svarūpa-śakti*, manifested the Lord’s *prakāśa* forms and so arranged service for her own Lord.
 
 ## 66
 
@@ -238,7 +238,7 @@ In the seven *kīrtana* groups the Lord — independent, His will unchecked — 
 
 > Subheading: “A transcendental reality is never within the range of the material”[^67-1] —
 
-In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dance, and at the wedding with the queens one form appeared as many. In the same way, in Gaura's pastimes Bhagavān Gaurasundara appeared in many forms before the devotees of the seven different *kīrtana* groups and before the eyes of Pratāparudra and the other onlookers. No one but the devotees is entitled to see His supramundane pastimes. The evidence[^67-2] that Kṛṣṇa appeared simultaneously in many forms in the *rāsa* dance and at the wedding with the queens is found in the *Śrīmad-Bhāgavatam*.
+In Kṛṣṇa’s pastimes Kṛṣṇa became many at the site of the *rāsa* dance, and at the wedding with the queens one form appeared as many. In the same way, in Gaura’s pastimes Bhagavān Gaurasundara appeared in many forms before the devotees of the seven different *kīrtana* groups and before the eyes of Pratāparudra and the other onlookers. No one but the devotees is entitled to see His supramundane pastimes. The evidence[^67-2] that Kṛṣṇa appeared simultaneously in many forms in the *rāsa* dance and at the wedding with the queens is found in the *Śrīmad-Bhāgavatam*.
 
 ## 68
 
@@ -250,7 +250,7 @@ In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dan
 
 ## 72
 
-> Subheading: Wishing to dance, [the Lord] forms Svarūpa's *kīrtana* group with nine devotees —
+> Subheading: Wishing to dance, [the Lord] forms Svarūpa’s *kīrtana* group with nine devotees —
 
 ## 75
 
@@ -262,7 +262,7 @@ In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dan
 
 ## 77
 
-**go-brāhmaṇa-hitāya** (to Him who wishes well to cows and to all things that bring auspiciousness) **brahmaṇya-devāya** (to Him who is worshiped by those devoted to brahminical culture) **jagad-dhitāya** (to the abode of the people's welfare) **govindāya** **kṛṣṇāya** **namaḥ namaḥ namaḥ** (obeisances again and again).
+**go-brāhmaṇa-hitāya** (to Him who wishes well to cows and to all things that bring auspiciousness) **brahmaṇya-devāya** (to Him who is worshipped by those devoted to brahminical culture) **jagad-dhitāya** (to the abode of the people’s welfare) **govindāya** **kṛṣṇāya** **namaḥ namaḥ namaḥ** (obeisances again and again).
 
 ## 78
 
@@ -272,7 +272,7 @@ In Kṛṣṇa's pastimes Kṛṣṇa became many at the site of the *rāsa* dan
 
 > Subheading: Glory to the transcendental, ever-youthful Kāmadeva —
 
-The great devotee (*mahā-bhāgavata*) Śrī Śukadeva, at the end of the Tenth Canto, briefly describes Śrī Kṛṣṇa's pastimes and declares Śrī Kṛṣṇa's supremacy over all:
+The great devotee (*mahā-bhāgavata*) Śrī Śukadeva, at the end of the Tenth Canto, briefly describes Śrī Kṛṣṇa’s pastimes and declares Śrī Kṛṣṇa’s supremacy over all:
 
 **jana-nivāsaḥ** (He whose dwelling is among people — among the cowherds, the Yādavas and others; or He who is the abode, the shelter, of people, the *jīvas*; or He who dwells in the *jīvas* as the Antaryāmī) **devakī-janma-vādaḥ** (of whom it is only said that He was born of Devakī; or He in whom the “birth” from the two Devakīs — the wives of Nanda and Vasudeva — is only a statement (*vāda*), an accepted view; in reality He is unborn) **yadu-vara-pariṣat** (He whose assembly (*pariṣat*), His circle of servants, consists of the best of the Yadus — the cowherds living in Vraja and the *kṣatriyas* living in the cities) **svaiḥ dorbhiḥ** (with His own arms: though able to destroy by His will alone, He does it with His arms for the sake of play; or with His arms, that is, His devotees — Arjuna and others) **adharmam** (the hosts of *asuras*, the enemies of *dharma*) **asyan** (casting away, removing, killing), **sthira-cara-vṛjina-ghnaḥ** (He who destroys the *vṛjina*, the misery of worldly existence, of the *sthira*, the nonmoving, and the *cara*, the moving beings; or He who destroys the misery of separation from Him felt by His servants living in Vraja and in the cities) **vraja-pura-vanitānām** (of the women of Vraja and of the women of the cities — of those women full of *anurāga* who live in Mathurā and Dvārakā) **kāma-devam** (it is *kāma*, and it is also *deva*, because it “plays” — it seeks to conquer *saṁsāra*; or *deva* means transcendental: it is His own nature, His self-manifest *svarūpa*) **susmita-śrī-mukhena** (with His face, beautiful by its very nature, adorned with a lovely smile and with what that smile bespeaks — grace, playfulness and so on) **vardhayan** (kindling — such a Śrī Kṛṣṇa) **jayati** (exists as the highest of all).
 
@@ -288,13 +288,13 @@ The great devotee (*mahā-bhāgavata*) Śrī Śukadeva, at the end of the Tenth 
 
 ## 82
 
-> Subheading: The Lord's wild dancing described —
+> Subheading: The Lord’s wild dancing described —
 
 *Alāta-cakra*: when a burning coal is whirled very fast, it appears to be one unbroken wheel of fire, though in reality there is no wheel of fire. In the same way Mahāprabhu, dancing wildly, though a single form, was seen everywhere, as though He were “all-pervading.”
 
 ## 84
 
-> Subheading: The Lord's eight *sāttvika-vikāras* —
+> Subheading: The Lord’s eight *sāttvika-vikāras* —
 
 ## 86
 
@@ -310,11 +310,11 @@ The great devotee (*mahā-bhāgavata*) Śrī Śukadeva, at the end of the Tenth 
 
 *Mahābala*: Śrī Baladeva.
 
-*Tina maṇḍala* (three rings): to keep the crowd from crushing Mahāprabhu, the devotees placed Him in the center and, encircling Him in rings, formed three separate circles. In the first circle was Nityānanda Prabhu with other devotees. Around the first circle Kāśīśvara, Mukunda and others again formed a ring. And around the second circle King Pratāparudra had his men form a ring, and so made the third circle.
+*Tina maṇḍala* (three rings): to keep the crowd from crushing Mahāprabhu, the devotees placed Him in the centre and, encircling Him in rings, formed three separate circles. In the first circle was Nityānanda Prabhu with other devotees. Around the first circle Kāśīśvara, Mukunda and others again formed a ring. And around the second circle King Pratāparudra had his men form a ring, and so made the third circle.
 
 ## 91
 
-> Subheading: Leaning on Haricandana's shoulder, the king watches the Lord dance —
+> Subheading: Leaning on Haricandana’s shoulder, the king watches the Lord dance —
 
 ## 92
 
@@ -350,21 +350,21 @@ By enclosing [everyone] with the third circle, the king set apart from the crowd
 
 ## 98
 
-> Subheading: Motionless and unblinking, Jagannātha watches the Lord's dance in supreme bliss —
+> Subheading: Motionless and unblinking, Jagannātha watches the Lord’s dance in supreme bliss —
 
 ## 100
 
-> Subheading: Seeing the Lord's dance, Subhadrā and Balarāma rejoice —
+> Subheading: Seeing the Lord’s dance, Subhadrā and Balarāma rejoice —
 
 ## 101
 
-> Subheading: The Lord's form and pastimes, adorned with all eight *sāttvika-bhāvas* —
+> Subheading: The Lord’s form and pastimes, adorned with all eight *sāttvika-bhāvas* —
 
 Eight kinds of *sāttvika-bhāva* arise at the same time.
 
 ## 102
 
-The hairs on the Lord's body stood on end, and the pores of His skin looked like little fleshy pimples.
+The hairs on the Lord’s body stood on end, and the pores of His skin looked like little fleshy pimples.
 
 ## 104
 
@@ -376,7 +376,7 @@ The hairs on the Lord's body stood on end, and the pores of His skin looked like
 
 ## 109
 
-> Subheading: Streams of nectarean foam on the Lord's moonlike face —
+> Subheading: Streams of nectarean foam on the Lord’s moonlike face —
 
 ## 110
 
@@ -416,7 +416,7 @@ See Madhya 1.53–56.
 
 ## 118–119
 
-Śrī Mahāprabhu's *bhāva* is this. Vrajendra-nandana left the women of Gokula and became absorbed in the pastimes of the city;[^118-119-1] later, at the meeting in Kurukṣetra, He regained their company. Here Śrī Gaurasundara, enriched with Rādhā's *bhāva*, is drawing Śrī Jagannāthadeva, who is Vrajendra-nandana, from Śrī Kṣetra Nīlācala, the field of the pastimes of majesty (*aiśvarya*), toward the Guṇḍicā, the land of the pastimes of sweetness (*mādhurya*). Gaurahari, filled with the *bhāva* of Śrī Rādhā and the *gopīs*, falls behind for this purpose. Vrajendra-nandana had forgotten the mood of Vraja and neglected them — Śrī Rādhā and the other *gopīs*. Yet by their efforts Kṛṣṇa's sweetness of Vraja awakens again; so one realizes that the pastimes of sweetness surpass the pastimes of majesty — and Kṛṣṇa's chariot sets out. Śrīman Mahāprabhu falls behind to dispel a doubt: is Kṛṣṇa really going out of heartfelt love for Śrī Rādhā and the other people of Vraja, or has He some other purpose? Understanding the *bhāva* in Mahāprabhu's heart, Śrī Jagannāthadeva also stops and waits for Him. For without the Queen of Vṛndāvana (Vṛndāvaneśvarī) the mood of Vraja cannot reach its full beauty. Seeing Jagannātha waiting, Gaurasundara understands the power of the *gopīs'* *bhāva*, takes heart and goes forward; then Śrī Jagannāthadeva too, abashed, slowly follows Him. We see that it is Jagannāthadeva who follows Gaura, absorbed in the *bhāva* of the *gopīs* — of Śrī Rādhā and the others — and who is fit to wait for Gaura. Therefore, in this pushing back and forth, this clash, of the two *bhāvas* — Mahāprabhu's *bhāva* toward Jagannātha and Jagannātha's *bhāva* toward Mahāprabhu — Mahāprabhu, enriched with Śrī Rādhā's *bhāva*, that is, His *prema*, proves the stronger.
+Śrī Mahāprabhu’s *bhāva* is this. Vrajendra-nandana left the women of Gokula and became absorbed in the pastimes of the city;[^118-119-1] later, at the meeting in Kurukṣetra, He regained their company. Here Śrī Gaurasundara, enriched with Rādhā’s *bhāva*, is drawing Śrī Jagannāthadeva, who is Vrajendra-nandana, from Śrī Kṣetra Nīlācala, the field of the pastimes of majesty (*aiśvarya*), towards the Guṇḍicā, the land of the pastimes of sweetness (*mādhurya*). Gaurahari, filled with the *bhāva* of Śrī Rādhā and the *gopīs*, falls behind for this purpose. Vrajendra-nandana had forgotten the mood of Vraja and neglected them — Śrī Rādhā and the other *gopīs*. Yet by their efforts Kṛṣṇa’s sweetness of Vraja awakens again; so one realises that the pastimes of sweetness surpass the pastimes of majesty — and Kṛṣṇa’s chariot sets out. Śrīman Mahāprabhu falls behind to dispel a doubt: is Kṛṣṇa really going out of heartfelt love for Śrī Rādhā and the other people of Vraja, or has He some other purpose? Understanding the *bhāva* in Mahāprabhu’s heart, Śrī Jagannāthadeva also stops and waits for Him. For without the Queen of Vṛndāvana (Vṛndāvaneśvarī) the mood of Vraja cannot reach its full beauty. Seeing Jagannātha waiting, Gaurasundara understands the power of the *gopīs’* *bhāva*, takes heart and goes forward; then Śrī Jagannāthadeva too, abashed, slowly follows Him. We see that it is Jagannāthadeva who follows Gaura, absorbed in the *bhāva* of the *gopīs* — of Śrī Rādhā and the others — and who is fit to wait for Gaura. Therefore, in this pushing back and forth, this clash, of the two *bhāvas* — Mahāprabhu’s *bhāva* towards Jagannātha and Jagannātha’s *bhāva* towards Mahāprabhu — Mahāprabhu, enriched with Śrī Rādhā’s *bhāva*, that is, His *prema*, proves the stronger.
 
 ## 120
 
@@ -424,7 +424,7 @@ See Madhya 1.53–56.
 
 ## 122
 
-> Subheading: Śrī Svarūpa knows the taste (*rasa*) of the feelings in the Lord's heart —
+> Subheading: Śrī Svarūpa knows the taste (*rasa*) of the feelings in the Lord’s heart —
 
 ## 121–122
 
@@ -460,7 +460,7 @@ See Madhya 1.81 and 13.136.
 
 ## 135
 
-> Subheading: In the midst of the dance [the Lord] recites a verse whose taste He always savors —
+> Subheading: In the midst of the dance [the Lord] recites a verse whose taste He always savours —
 
 ## 133–135
 
@@ -474,17 +474,17 @@ See Madhya 1.81.
 
 ## 137
 
-> Subheading: It is fitting for Kṛṣṇa to appear only in Vṛndāvana — the pure heart filled with the desire to please Kṛṣṇa's senses —
+> Subheading: It is fitting for Kṛṣṇa to appear only in Vṛndāvana — the pure heart filled with the desire to please Kṛṣṇa’s senses —
 
-A worldly person calls “mind” the heart, whose nature is to form and to reject resolves (*saṅkalpa* and *vikalpa*). But I have given up the worldly desire to enjoy, and I know My heart, devoted to Kṛṣṇa's service, as “Vṛndāvana,” the place of Śrī Rādhā and Kṛṣṇa's pastimes. The mind free from striving after worldly objects I know to be “nondifferent” from Vṛndāvana.
+A worldly person calls “mind” the heart, whose nature is to form and to reject resolves (*saṅkalpa* and *vikalpa*). But I have given up the worldly desire to enjoy, and I know My heart, devoted to Kṛṣṇa’s service, as “Vṛndāvana,” the place of Śrī Rādhā and Kṛṣṇa’s pastimes. The mind free from striving after worldly objects I know to be “nondifferent” from Vṛndāvana.
 
 ## 138
 
-> Subheading: The pure heart longs for Kṛṣṇa's company —
+> Subheading: The pure heart longs for Kṛṣṇa’s company —
 
 ## 139
 
-> Subheading: The desire to please Kṛṣṇa's senses loosens the knowledge that points to His majesty —
+> Subheading: The desire to please Kṛṣṇa’s senses loosens the knowledge that points to His majesty —
 
 *Uddhava-dvāre* (through Uddhava): see *Śrīmad-Bhāgavatam* 10.47.
 
@@ -496,7 +496,7 @@ A worldly person calls “mind” the heart, whose nature is to form and to reje
 
 ## 141
 
-> Subheading: The *gopīs* are averse to cultivating knowledge of [Kṛṣṇa's] majesty —
+> Subheading: The *gopīs* are averse to cultivating knowledge of [Kṛṣṇa’s] majesty —
 
 *Kuṭināṭī*: duplicity.
 
@@ -516,11 +516,11 @@ A worldly person calls “mind” the heart, whose nature is to form and to reje
 
 ## 145
 
-> Subheading: Telling of Yaśodā's grief, [Rādhā] tries by this plea to stir Kṛṣṇa's compassion; the residents of Vraja would rather die than be separated from Kṛṣṇa —
+> Subheading: Telling of Yaśodā’s grief, [Rādhā] tries by this plea to stir Kṛṣṇa’s compassion; the residents of Vraja would rather die than be separated from Kṛṣṇa —
 
 ## 146
 
-> Subheading: Kṛṣṇa's pastimes of majesty do not please the residents of Vraja; yet they cannot leave Vraja, and in separation from Kṛṣṇa they are as if dead —
+> Subheading: Kṛṣṇa’s pastimes of majesty do not please the residents of Vraja; yet they cannot leave Vraja, and in separation from Kṛṣṇa they are as if dead —
 
 ## 147
 
@@ -528,7 +528,7 @@ A worldly person calls “mind” the heart, whose nature is to form and to reje
 
 ## 148
 
-> Subheading: Kṛṣṇa's embarrassment and agitation; He consoles Śrī Rādhā —
+> Subheading: Kṛṣṇa’s embarrassment and agitation; He consoles Śrī Rādhā —
 
 *Ṛṇī* (indebted): see Ādi 4.179–180.
 
@@ -542,15 +542,15 @@ A worldly person calls “mind” the heart, whose nature is to form and to reje
 
 ## 151
 
-> Subheading: The separation from the residents of Vraja is the fruit of Kṛṣṇa's own misfortune —
+> Subheading: The separation from the residents of Vraja is the fruit of Kṛṣṇa’s own misfortune —
 
 ## 152
 
-> Subheading: Though separation from each other is deadly to them, the Beloved and His beloved wish to live for each other's joy —
+> Subheading: Though separation from each other is deadly to them, the Beloved and His beloved wish to live for each other’s joy —
 
 ## 153
 
-> Subheading: To wish for the welfare or joy of one's beloved even in separation is the sign of true love —
+> Subheading: To wish for the welfare or joy of one’s beloved even in separation is the sign of true love —
 
 ## 154
 
@@ -580,17 +580,17 @@ A worldly person calls “mind” the heart, whose nature is to form and to reje
 
 ## 160
 
-> Subheading: The *gopīs'* love for Kṛṣṇa is the cause of their attaining Kṛṣṇa —
+> Subheading: The *gopīs’* love for Kṛṣṇa is the cause of their attaining Kṛṣṇa —
 
 See Ādi 4.23.
 
 ## 161
 
-> Subheading: The Lord savors [the meaning of the verses] together with Svarūpa —
+> Subheading: The Lord savours [the meaning of the verses] together with Svarūpa —
 
 ## 162
 
-> Subheading: Seeing Jagannātha, the Lord, filled with Rādhā's *bhāva*, recites the verse —
+> Subheading: Seeing Jagannātha, the Lord, filled with Rādhā’s *bhāva*, recites the verse —
 
 ## 163
 
@@ -598,11 +598,11 @@ See Ādi 4.23.
 
 ## 164
 
-> Subheading: The senses of the Lord and of Svarūpa, engaged in Kṛṣṇa's service, are nondifferent —
+> Subheading: The senses of the Lord and of Svarūpa, engaged in Kṛṣṇa’s service, are nondifferent —
 
 ## 165
 
-> Subheading: The Lord is absorbed in the mood of Śrī Rādhā, hurt (*māna*) and downcast at her Beloved's indifference —
+> Subheading: The Lord is absorbed in the mood of Śrī Rādhā, hurt (*māna*) and downcast at her Beloved’s indifference —
 
 ## 166
 
@@ -612,7 +612,7 @@ See Ādi 4.23.
 
 ## 167
 
-> Subheading: In Svarūpa's *kīrtana*, all the variety of Rādhā's *bhāva* in the Lord's heart takes visible form —
+> Subheading: In Svarūpa’s *kīrtana*, all the variety of Rādhā’s *bhāva* in the Lord’s heart takes visible form —
 
 ## 168
 
@@ -624,7 +624,7 @@ See Ādi 4.23.
 
 ## 170
 
-> Subheading: The Lord's divine madness —
+> Subheading: The Lord’s divine madness —
 
 *Unmāda*: see Madhya 2.66.
 
@@ -634,11 +634,11 @@ See Madhya 2.63.
 
 ## 173
 
-> Subheading: The Lord's body is compared to a golden mountain, and the *sāttvika-bhāvas* to flowering trees —
+> Subheading: The Lord’s body is compared to a golden mountain, and the *sāttvika-bhāvas* to flowering trees —
 
 ## 174
 
-> Subheading: Seeing the Lord's love, everyone becomes mad with love for Kṛṣṇa —
+> Subheading: Seeing the Lord’s love, everyone becomes mad with love for Kṛṣṇa —
 
 ## 174–176
 
@@ -646,7 +646,7 @@ See Madhya 2.81–82.
 
 ## 177
 
-> Subheading: Everyone raises a joyous clamor of love —
+> Subheading: Everyone raises a joyous clamour of love —
 
 ## 178
 
@@ -654,7 +654,7 @@ See Madhya 2.81–82.
 
 ## 179
 
-> Subheading: Halting, the Two of Them watch the Lord's dance —
+> Subheading: Halting, the Two of Them watch the Lord’s dance —
 
 ## 180
 
@@ -670,17 +670,17 @@ See Madhya 2.81–82.
 
 ## 184
 
-> Subheading: Seeing the king's humble service to Kṛṣṇa, the Lord is inwardly pleased, but for the good of those practicing *bhakti* He outwardly shows a semblance of anger —
+> Subheading: Seeing the king’s humble service to Kṛṣṇa, the Lord is inwardly pleased, but for the good of those practicing *bhakti* He outwardly shows a semblance of anger —
 
-*Hāḍira sevana* (a sweeper's service): the work of a street sweeper (see Madhya 13.15–18).
+*Hāḍira sevana* (a sweeper’s service): the work of a street sweeper (see Madhya 13.15–18).
 
 ## 185
 
-*Āpana-gaṇa* (His own people): devotees who play the part of those who wish to cross the ocean of worldly existence, who are *akiñcana* and turned toward the service of Bhagavān — that is, who long to rise to *prema*.
+*Āpana-gaṇa* (His own people): devotees who play the part of those who wish to cross the ocean of worldly existence, who are *akiñcana* and turned towards the service of Bhagavān — that is, who long to rise to *prema*.
 
 ## 186
 
-> Subheading: The Lord's words frighten the king; Sārvabhauma reassures him —
+> Subheading: The Lord’s words frighten the king; Sārvabhauma reassures him —
 
 ## 189
 
@@ -696,7 +696,7 @@ See Madhya 2.81–82.
 
 ## 192
 
-> Subheading: Then, dancing before Jagannātha's chariot —
+> Subheading: Then, dancing before Jagannātha’s chariot —
 
 ## 193
 
@@ -728,11 +728,11 @@ In Utkala a *brāhmaṇa* village is called a “*vipra-śāsana*.”
 
 ## 205
 
-> Subheading: Such was the Lord's great *saṅkīrtana* —
+> Subheading: Such was the Lord’s great *saṅkīrtana* —
 
 ## 206
 
-> Subheading: The Lord's dance before the chariot is described in Śrī Rūpa's *Caitanyāṣṭaka* —
+> Subheading: The Lord’s dance before the chariot is described in Śrī Rūpa’s *Caitanyāṣṭaka* —
 
 ## 207
 
@@ -744,7 +744,7 @@ In Utkala a *brāhmaṇa* village is called a “*vipra-śāsana*.”
 
 ## 208
 
-> Subheading: Hearing of Śrī Caitanya's dance before the chariot, one attains *prema-bhakti* for Caitanya —
+> Subheading: Hearing of Śrī Caitanya’s dance before the chariot, one attains *prema-bhakti* for Caitanya —
 
 *Thus ends the thirteenth chapter of the “Anubhāṣya.”*
 

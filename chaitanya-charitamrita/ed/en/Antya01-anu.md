@@ -4,7 +4,7 @@
 
 > Subheading: Homage to the all-merciful Supreme Lord, Śrī Kṛṣṇa Caitanya Mahāprabhu —
 
-**yat-kṛpā** (*yat*, whose — that is, Caitanyacandra's — mercy) **paṅguṁ** (a person without the strength to take a step) **śailaṁ** (to the peak of the highest mountain) **laṅghayate** (makes cross), **mūkam** (a person without the power of speech) **śrutiṁ** (the Veda) **āvartayet** (makes recite), **tam īśvaram** (that Supreme Lord, Kṛṣṇa Caitanya Mahāprabhu) **ahaṁ vande** (I worship).
+**yat-kṛpā** (*yat*, whose — that is, Caitanyacandra’s — mercy) **paṅguṁ** (a person without the strength to take a step) **śailaṁ** (to the peak of the highest mountain) **laṅghayate** (makes cross), **mūkam** (a person without the power of speech) **śrutiṁ** (the Veda) **āvartayet** (makes recite), **tam īśvaram** (that Supreme Lord, Kṛṣṇa Caitanya Mahāprabhu) **ahaṁ vande** (I worship).
 
 ## 2
 
@@ -58,7 +58,7 @@ See Ādi 1.17.
 
 ## 17
 
-> Subheading: The story of Śivānanda's dog, a devotee of the Lord —
+> Subheading: The story of Śivānanda’s dog, a devotee of the Lord —
 
 ## 32
 
@@ -82,7 +82,7 @@ See Ādi 1.17.
 
 ## 37
 
-> Subheading: In Gauḍa Anupama leaves this world on the bank of the Ganges —
+> Subheading: In Gauḍa Anupama leaves this world on the bank of the Gaṅgā —
 
 **The two brothers** — Śrī Rūpa and his younger brother, Śrī Anupama.
 
@@ -92,17 +92,17 @@ See Ādi 1.17.
 
 ## 39
 
-> Subheading: Anupama's departure delayed Śrī Rūpa, and he missed the Gauḍīya devotees going to see the Lord —
+> Subheading: Anupama’s departure delayed Śrī Rūpa, and he missed the Gauḍīya devotees going to see the Lord —
 
 ## 40
 
-> Subheading: Satyabhāmā-devī's instruction in Satyabhāmāpura is the origin of the *Lalita-mādhava* —
+> Subheading: Satyabhāmā-devī’s instruction in Satyabhāmāpura is the origin of the *Lalita-mādhava* —
 
 The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 43
 
-> Subheading: Śrī Rūpa's reflections —
+> Subheading: Śrī Rūpa’s reflections —
 
 ## 44
 
@@ -114,7 +114,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 46
 
-> Subheading: The Ṭhākura's affectionate words —
+> Subheading: The Ṭhākura’s affectionate words —
 
 ## 47
 
@@ -138,7 +138,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 52
 
-> Subheading: News of Anupama's departure on the bank of the Ganges —
+> Subheading: News of Anupama’s departure on the bank of the Gaṅgā —
 
 ## 53
 
@@ -150,7 +150,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 55
 
-> Subheading: Śrī Rūpa honors the feet of all the devotees, and all of them embrace Rūpa —
+> Subheading: Śrī Rūpa honours the feet of all the devotees, and all of them embrace Rūpa —
 
 ## 56
 
@@ -158,7 +158,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 58
 
-> Subheading: Śrī Rūpa, beloved of all the Lord's devotees —
+> Subheading: Śrī Rūpa, beloved of all the Lord’s devotees —
 
 ## 59
 
@@ -170,11 +170,11 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 61
 
-> Subheading: Śrī Rūpa's joy at receiving the Lord's mercy —
+> Subheading: Śrī Rūpa’s joy at receiving the Lord’s mercy —
 
 ## 62
 
-> Subheading: The Lord's pastimes with the devotees in Nīlācala —
+> Subheading: The Lord’s pastimes with the devotees in Nīlācala —
 
 **Āiṭoṭā** — a garden near the Guṇḍicā.
 
@@ -184,7 +184,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 64
 
-> Subheading: Receiving the Lord's remnants, the two dance, overwhelmed by *prema* —
+> Subheading: Receiving the Lord’s remnants, the two dance, overwhelmed by *prema* —
 
 ## 65
 
@@ -192,7 +192,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 66
 
-> Subheading: The Lord's merciful order is the origin of the *Vidagdha-mādhava* —
+> Subheading: The Lord’s merciful order is the origin of the *Vidagdha-mādhava* —
 
 ## 67
 
@@ -202,7 +202,7 @@ The village of Satyabhāmāpura lies near Jānkādeipura in Cuttack district.
 
 ## 68
 
-> Subheading: Śrī Rūpa reflects on the Lord's words —
+> Subheading: Śrī Rūpa reflects on the Lord’s words —
 
 ## 69
 
@@ -238,7 +238,7 @@ The *Sāhitya-darpaṇa*, in its sixth chapter, verse 287, says: “Where the ac
 
 ## 77
 
-> Subheading: Śrī Rūpa composes a verse after the Lord's own heart —
+> Subheading: Śrī Rūpa composes a verse after the Lord’s own heart —
 
 ## 78
 
@@ -254,7 +254,7 @@ See Madhya 1.76.
 
 ## 81
 
-> Subheading: The story of Śrī Rūpa's verse and the Lord: the Lord reads the verse composed by Rūpa —
+> Subheading: The story of Śrī Rūpa’s verse and the Lord: the Lord reads the verse composed by Rūpa —
 
 ## 82
 
@@ -262,7 +262,7 @@ See Madhya 1.76.
 
 ## 83
 
-> Subheading: The Lord's unfeigned affection and mercy toward Śrī Rūpa —
+> Subheading: The Lord’s unfeigned affection and mercy towards Śrī Rūpa —
 
 ## 84
 
@@ -274,7 +274,7 @@ See Madhya 1.76.
 
 ## 87
 
-> Subheading: Svarūpa infers that Śrī Rūpa has received the Lord's mercy —
+> Subheading: Svarūpa infers that Śrī Rūpa has received the Lord’s mercy —
 
 ## 88
 
@@ -282,7 +282,7 @@ See Madhya 1.76.
 
 ## 90
 
-> Subheading: Svarūpa's inference is correct —
+> Subheading: Svarūpa’s inference is correct —
 
 ## 91
 
@@ -290,9 +290,9 @@ See Madhya 1.76.
 
 ## 92
 
-> Subheading: (The swan's words to Damayantī; *Naiṣadhīya*, canto 3, verse 17)
+> Subheading: (The swan’s words to Damayantī; *Naiṣadhīya*, canto 3, verse 17)
 
-**he damayanti**, **svargāpagā-hema-mṛṇālinīnāṁ** (*svargāpagāyāḥ*, of the heavenly Ganges, the Mandākinī; *hema-mṛṇālinīnāṁ*, of lotuses like gold) **nānā-mṛṇālāgra-bhujaḥ** (we, who are accustomed to eat the tips of various tender lotus roots) **annānurūpāṁ** (matching what is eaten) **tanu-rūpa-ṛddhiṁ** (a wealth of bodily beauty) **bhajāmaḥ** (have gained); **hi** (for) **kāryaṁ** (the effect) **nidānāt** (from its original cause) **guṇān adhīte** (receives its qualities).
+**he damayanti**, **svargāpagā-hema-mṛṇālinīnāṁ** (*svargāpagāyāḥ*, of the heavenly Gaṅgā, the Mandākinī; *hema-mṛṇālinīnāṁ*, of lotuses like gold) **nānā-mṛṇālāgra-bhujaḥ** (we, who are accustomed to eat the tips of various tender lotus roots) **annānurūpāṁ** (matching what is eaten) **tanu-rūpa-ṛddhiṁ** (a wealth of bodily beauty) **bhajāmaḥ** (have gained); **hi** (for) **kāryaṁ** (the effect) **nidānāt** (from its original cause) **guṇān adhīte** (receives its qualities).
 
 ## 93
 
@@ -312,7 +312,7 @@ See Madhya 1.76.
 
 ## 97
 
-> Subheading: The Lord praises Śrī Rūpa's handwriting —
+> Subheading: The Lord praises Śrī Rūpa’s handwriting —
 
 ## 98
 
@@ -320,7 +320,7 @@ See Madhya 1.76.
 
 ## 99
 
-> Subheading: A verse that reveals the taste of the sweetness of Kṛṣṇa's name (Paurṇamāsī's words to Nāndīmukhī; *Vidagdha-mādhava*, Act 1, verse 15) —
+> Subheading: A verse that reveals the taste of the sweetness of Kṛṣṇa’s name (Paurṇamāsī’s words to Nāndīmukhī; *Vidagdha-mādhava*, Act 1, verse 15) —
 
 **kṛṣṇa iti varṇa-dvayī** **kiyadbhiḥ** (with how great a measure) **amṛtaiḥ** (together with nectars) **janitā** (it was born — this) (I) **no jāne** (do not know; for it), **he nāndīmukhi**, **tuṇḍe** (on the lips) **tāṇḍavinī** (by the saying “a male dance is called *tāṇḍava*,” *tāṇḍava* means “dance”; performing it) **tuṇḍāvalī-labdhaye** (to obtain many mouths) **ratiṁ** (craving) **vitanute** (displays); **karṇa-kroḍa-kaḍambinī** (sprouting in the passage of the ears) **karṇārbudebhyaḥ** (to obtain ears numbering an *arbuda*) **spṛhām** (desire) **ghaṭayate**; **cetaḥ-prāṅgaṇa-saṅginī** (the mind itself is a courtyard — becoming a companion there) **sarvendriyāṇāṁ** (of all the senses) **kṛtiṁ** (the activity) **vijayate** (conquers: it takes hold of them and stops all their movement).
 
@@ -330,7 +330,7 @@ See Madhya 1.76.
 
 ## 101
 
-> Subheading: The verse reveals the unequaled glory of Kṛṣṇa's name —
+> Subheading: The verse reveals the unequaled glory of Kṛṣṇa’s name —
 
 ## 102
 
@@ -346,15 +346,15 @@ See Madhya 1.76.
 
 ## 105
 
-> Subheading: The Lord praises Śrī Rūpa's verses “*priyaḥ so 'yaṁ*” and “*tuṇḍe tāṇḍavinī*” —
+> Subheading: The Lord praises Śrī Rūpa’s verses “*priyaḥ so ’yaṁ*” and “*tuṇḍe tāṇḍavinī*” —
 
 ## 106
 
-> Subheading: The Lord Himself describes Śrī Rūpa's qualities to Rāya and the Bhaṭṭācārya —
+> Subheading: The Lord Himself describes Śrī Rūpa’s qualities to Rāya and the Bhaṭṭācārya —
 
 ## 107
 
-> Subheading: Bhagavān's love for His devotees —
+> Subheading: Bhagavān’s love for His devotees —
 
 ***Ātma-paryanta prasāda*** — He bestows mercy even to the point of giving His *ātmā*, that is, Himself.
 
@@ -362,7 +362,7 @@ See Madhya 1.76.
 
 > Subheading: How Bhagavān treats His devotee (*Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, Vibhāva-laharī, verse 138) —
 
-**ayaṁ nirmala-matiḥ** (He whose mind is pure, that is, free from innate attachment, aversion and the like) **puruṣottamaḥ** (Kṛṣṇa; another reading has *kamalekṣaṇaḥ*, “the lotus-eyed”) **śīlena** (by His good nature) **bhṛtyasya** (of His servant) **gurūn** (grave) **api aparādhān na paśyati**; **manāk** (the slightest) **api kṛtāṁ** (performed) **sevāṁ** **bahudhā** (manifold) **abhyupaiti** (accepts); **piśuneṣu** (toward the wicked or evil-minded) **api abhyasūyāṁ** (a fault-finding eye) **na āviṣkaroti** (does not show).
+**ayaṁ nirmala-matiḥ** (He whose mind is pure, that is, free from innate attachment, aversion and the like) **puruṣottamaḥ** (Kṛṣṇa; another reading has *kamalekṣaṇaḥ*, “the lotus-eyed”) **śīlena** (by His good nature) **bhṛtyasya** (of His servant) **gurūn** (grave) **api aparādhān na paśyati**; **manāk** (the slightest) **api kṛtāṁ** (performed) **sevāṁ** **bahudhā** (manifold) **abhyupaiti** (accepts); **piśuneṣu** (towards the wicked or evil-minded) **api abhyasūyāṁ** (a fault-finding eye) **na āviṣkaroti** (does not show).
 
 ## 109
 
@@ -374,7 +374,7 @@ See Madhya 1.76.
 
 ## 112
 
-> Subheading: The Lord tells Śrī Rūpa to recite the verse “*priyaḥ so 'yaṁ*”; Śrī Rūpa is embarrassed and stays silent —
+> Subheading: The Lord tells Śrī Rūpa to recite the verse “*priyaḥ so ’yaṁ*”; Śrī Rūpa is embarrassed and stays silent —
 
 ## 113
 
@@ -388,7 +388,7 @@ See Madhya 1.76.
 
 ## 115
 
-> Subheading: Rāmānanda and the other devotees conclude that Śrī Rūpa grasped the Lord's mood only by His mercy —
+> Subheading: Rāmānanda and the other devotees conclude that Śrī Rūpa grasped the Lord’s mood only by His mercy —
 
 ## 116
 
@@ -418,7 +418,7 @@ See Antya 1.99.
 
 ## 122
 
-> Subheading: A verse that reveals the unequaled sweetness of Kṛṣṇa's name —
+> Subheading: A verse that reveals the unequaled sweetness of Kṛṣṇa’s name —
 
 ## 123
 
@@ -438,13 +438,13 @@ The *Vidagdha-mādhava* was written in Śaka 1454, and the *Lalita-mādhava* in 
 
 > Subheading: Rāya asks Śrī Rūpa to recite the *nāndī* of the *Vidagdha-mādhava* —
 
-Now Śrī Rāmānanda asks about the subject of Śrī Rūpa's play, the *Vidagdha-mādhava*.
+Now Śrī Rāmānanda asks about the subject of Śrī Rūpa’s play, the *Vidagdha-mādhava*.
 
 ## 128
 
-> Subheading: Kṛṣṇa's pastimes, which bring blessing to the world (*Vidagdha-mādhava*, *maṅgalācaraṇa*, Act 1, verse 1) —
+> Subheading: Kṛṣṇa’s pastimes, which bring blessing to the world (*Vidagdha-mādhava*, *maṅgalācaraṇa*, Act 1, verse 1) —
 
-**cāndrīṇām** (connected with the moon) **sudhānām api madhurimonmāda-damanī** (she whose nature is to subdue the madness born of sweetness, that is, the pride “I alone am full of sweetness in every way”), **rādhādi-praṇaya-ghana-sāraiḥ** (the love of Rādhā and the others is itself *ghanasāra*, camphor; with it) **surabhitām** (fragrance; in the other sense, charm) **dadhānā** **hari-līlā-śikhariṇī** (a sweet drink, a *rasālā*, in the form of Hari's pastimes) **samantāt** (on every side) **te** (your) **santāpodgama-viṣama-saṁsāra-saraṇī-praṇītāṁ** (in which sufferings — *ādhyātmika* and the rest — arise; such a harsh worldly existence, which leads to birth as a god, a human or an immobile being, is itself the path; born of it, that is, produced by wandering along it) **tṛṣṇāṁ** (thirst) **haratu** (may remove).[^128-1]
+**cāndrīṇām** (connected with the moon) **sudhānām api madhurimonmāda-damanī** (she whose nature is to subdue the madness born of sweetness, that is, the pride “I alone am full of sweetness in every way”), **rādhādi-praṇaya-ghana-sāraiḥ** (the love of Rādhā and the others is itself *ghanasāra*, camphor; with it) **surabhitām** (fragrance; in the other sense, charm) **dadhānā** **hari-līlā-śikhariṇī** (a sweet drink, a *rasālā*, in the form of Hari’s pastimes) **samantāt** (on every side) **te** (your) **santāpodgama-viṣama-saṁsāra-saraṇī-praṇītāṁ** (in which sufferings — *ādhyātmika* and the rest — arise; such a harsh worldly existence, which leads to birth as a god, a human or an immobile being, is itself the path; born of it, that is, produced by wandering along it) **tṛṣṇāṁ** (thirst) **haratu** (may remove).[^128-1]
 
 ## 129
 
@@ -452,7 +452,7 @@ Now Śrī Rāmānanda asks about the subject of Śrī Rūpa's play, the *Vidagdh
 
 ## 130
 
-> Subheading: The Lord's insistent order —
+> Subheading: The Lord’s insistent order —
 
 ## 131
 
@@ -464,7 +464,7 @@ Now Śrī Rāmānanda asks about the subject of Śrī Rūpa's play, the *Vidagdh
 
 See Ādi 3.4.
 
-Śrīmad Viśvanātha Cakravartī's commentary on the *Vidagdha-mādhava*: “The idea is that without the manifestation (*sphūrti*) of Mahāprabhu one cannot taste the *rasa* of Hari's pastimes. May Hari, the son of Śacī, appear in the cave of your heart; in the other sense, *hari* means a lion. This son of Śacī mercifully descended in Kali to bestow the treasure of devotion to Himself, that is, the wealth of service to Himself. What kind of treasure? ‘Never given before’ — given by no one before. But did not Kapiladeva and others earlier teach their mothers and others how to serve Bhagavān? To this it is said: although all *rasas* are present in it, in this treasure of *bhakti* the *rasa* is exalted and radiant (*ujjvala*); that is, a *bhakti* in which the *ujjvala-rasa* is foremost had never been taught. What is He like? Lit up by a host of rays more beautiful than even gold (*puraṭa*). This being so, just as a lion that has risen in a mountain cave kills the elephants there, so the lion who is the son of Śacī, risen in the cave of your heart, kills the elephants that are the diseases of the heart. This is the suggested meaning (*dhvani*).”
+Śrīmad Viśvanātha Cakravartī’s commentary on the *Vidagdha-mādhava*: “The idea is that without the manifestation (*sphūrti*) of Mahāprabhu one cannot taste the *rasa* of Hari’s pastimes. May Hari, the son of Śacī, appear in the cave of your heart; in the other sense, *hari* means a lion. This son of Śacī mercifully descended in Kali to bestow the treasure of devotion to Himself, that is, the wealth of service to Himself. What kind of treasure? ‘Never given before’ — given by no one before. But did not Kapiladeva and others earlier teach their mothers and others how to serve Bhagavān? To this it is said: although all *rasas* are present in it, in this treasure of *bhakti* the *rasa* is exalted and radiant (*ujjvala*); that is, a *bhakti* in which the *ujjvala-rasa* is foremost had never been taught. What is He like? Lit up by a host of rays more beautiful than even gold (*puraṭa*). This being so, just as a lion that has risen in a mountain cave kills the elephants there, so the lion who is the son of Śacī, risen in the cave of your heart, kills the elephants that are the diseases of the heart. This is the suggested meaning (*dhvani*).”
 
 ## 133
 
@@ -490,7 +490,7 @@ See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The 
 
 ## 137
 
-***Prarocanā.*** The *Nāṭaka-candrikā* says: “Turning the attention of the audience toward the performance by praising the place, the time, the story, the subject, the assembly and so on is called *prarocanā*.” The *Sāhitya-darpaṇa*, in its sixth chapter, verse 286, says: “Its (the *prastāvanā*'s) parts are the *prarocanā*, the *vīthī*, as well as the *prahasana* and the *āmukha*. Turning attention by means of praise is *prarocanā*”; and further: “*Prarocanā* is making the audience eager to attend to the performance at hand by means of praise.” That is, awakening the audience's eagerness to attend by means of praise is called *prarocanā*.
+***Prarocanā.*** The *Nāṭaka-candrikā* says: “Turning the attention of the audience towards the performance by praising the place, the time, the story, the subject, the assembly and so on is called *prarocanā*.” The *Sāhitya-darpaṇa*, in its sixth chapter, verse 286, says: “Its (the *prastāvanā*’s) parts are the *prarocanā*, the *vīthī*, as well as the *prahasana* and the *āmukha*. Turning attention by means of praise is *prarocanā*”; and further: “*Prarocanā* is making the audience eager to attend to the performance at hand by means of praise.” That is, awakening the audience’s eagerness to attend by means of praise is called *prarocanā*.
 
 ## 138
 
@@ -502,11 +502,11 @@ See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The 
 
 > Subheading: (*Vidagdha-mādhava*, Act 1, verse 6)
 
-**bhoḥ budhāḥ** (O you assembled), **prakṛti-laghu-rūpāt** (from one insignificant by nature — wretched. But Sarasvatī, unable to bear the author's humility, praises Rūpa Gosvāmī: “from one who swiftly [*laghu*] brings forth, that is, composes, an excellent work”) **mattaḥ** (from me) **abhivyaktā** (brought forth) **iyaṁ hari-guṇa-mayī** (that is, full of their description) **kṛtiḥ** (the poem in the form of the play *Vidagdha-mādhava*) **api vaḥ** (you) **siddhārthān** (with your cherished, longed-for desires fulfilled) **vidhātrī** (she whose nature is to make; that is, may it make. For) **pulindena** (by a man of the lowest, untouchable birth) **api samidham** (wood) **unmathya janitaḥ** (born of rubbing or friction) **agniḥ** **api** **hiraṇya-śreṇīnām** (of heaps of gold) **antaḥ-kaluṣatām** **kim u na apaharati** (does it not remove? In the same way this work will surely remove your boundless pain of separation).
+**bhoḥ budhāḥ** (O you assembled), **prakṛti-laghu-rūpāt** (from one insignificant by nature — wretched. But Sarasvatī, unable to bear the author’s humility, praises Rūpa Gosvāmī: “from one who swiftly [*laghu*] brings forth, that is, composes, an excellent work”) **mattaḥ** (from me) **abhivyaktā** (brought forth) **iyaṁ hari-guṇa-mayī** (that is, full of their description) **kṛtiḥ** (the poem in the form of the play *Vidagdha-mādhava*) **api vaḥ** (you) **siddhārthān** (with your cherished, longed-for desires fulfilled) **vidhātrī** (she whose nature is to make; that is, may it make. For) **pulindena** (by a man of the lowest, untouchable birth) **api samidham** (wood) **unmathya janitaḥ** (born of rubbing or friction) **agniḥ** **api** **hiraṇya-śreṇīnām** (of heaps of gold) **antaḥ-kaluṣatām** **kim u na apaharati** (does it not remove? In the same way this work will surely remove your boundless pain of separation).
 
 ## 140
 
-*Kāma-likhana*, a love letter: the *Ujjvala-nīlamaṇi* (section on *vipralambha*, verse 26) says: “A message that reveals one's own love, sent by a young woman to a young man or by a young man to a young woman, is called a love letter (*kāma-lekha*).”
+*Kāma-likhana*, a love letter: the *Ujjvala-nīlamaṇi* (section on *vipralambha*, verse 26) says: “A message that reveals one’s own love, sent by a young woman to a young man or by a young man to a young woman, is called a love letter (*kāma-lekha*).”
 
 ## 142
 
@@ -514,13 +514,13 @@ See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The 
 
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 9)
 
-(**He sakhi**,) **ekasya** (of another man) **“kṛṣṇa” iti nāmākṣaraṁ** (the syllables of the name “Kṛṣṇa”) **śrutam eva** (merely heard) **matim** (the mind — of Me, Rādhā — the sense of fidelity to a husband proper to a woman) **lumpati** (cut away: hearing for the first time only the syllables of Kṛṣṇa's name, I tasted their supreme sweetness and felt *rati* for Kṛṣṇa who bears that name). **anyasya** (of a second, other man) **vaṁśī-kalaḥ** (the sound of the flute, when I heard it) **sāndronmāda-paramparām** (a stream of thickened divine madness) **upanayati** (brings: then, tasting the supreme sweetness of the flute's sound, I felt *rati* for the one who plays that flute). **vīkṣaṇāt** (because I saw him) **eṣaḥ** (another, a third man) **snigdha-ghana-dyutiḥ** (shining like a cloud that gives delight) **paṭe** (in a picture) **me** (My) **manasi** (in the heart) **lagnaḥ** (merged with it, clung, became joined: then, tasting with My eyes just once a picture of Kṛṣṇa's form and taking him to be different, I felt *rati* for him as well). **Dhik kaṣṭaṁ** (alas, woe!), **puruṣa-traye** (for three heroes — one named Kṛṣṇa, one who plays the flute, and one dark as a sapphire and a rain cloud; for Me, a woman of a noble family, even *rati* for one other man is improper, what to speak of three!) My **ratiḥ abhūt** (*rati* has arisen); (therefore) **mṛtiḥ** (death alone) **śreyasī** (is the good) — so I **manye** (think: without death there is no escape from this shameful *rati* — this is the sense).
+(**He sakhi**,) **ekasya** (of another man) **“kṛṣṇa” iti nāmākṣaraṁ** (the syllables of the name “Kṛṣṇa”) **śrutam eva** (merely heard) **matim** (the mind — of Me, Rādhā — the sense of fidelity to a husband proper to a woman) **lumpati** (cut away: hearing for the first time only the syllables of Kṛṣṇa’s name, I tasted their supreme sweetness and felt *rati* for Kṛṣṇa who bears that name). **anyasya** (of a second, other man) **vaṁśī-kalaḥ** (the sound of the flute, when I heard it) **sāndronmāda-paramparām** (a stream of thickened divine madness) **upanayati** (brings: then, tasting the supreme sweetness of the flute’s sound, I felt *rati* for the one who plays that flute). **vīkṣaṇāt** (because I saw him) **eṣaḥ** (another, a third man) **snigdha-ghana-dyutiḥ** (shining like a cloud that gives delight) **paṭe** (in a picture) **me** (My) **manasi** (in the heart) **lagnaḥ** (merged with it, clung, became joined: then, tasting with My eyes just once a picture of Kṛṣṇa’s form and taking him to be different, I felt *rati* for him as well). **Dhik kaṣṭaṁ** (alas, woe!), **puruṣa-traye** (for three heroes — one named Kṛṣṇa, one who plays the flute, and one dark as a sapphire and a rain cloud; for Me, a woman of a noble family, even *rati* for one other man is improper, what to speak of three!) My **ratiḥ abhūt** (*rati* has arisen); (therefore) **mṛtiḥ** (death alone) **śreyasī** (is the good) — so I **manye** (think: without death there is no escape from this shameful *rati* — this is the sense).
 
 ## 143
 
 > Subheading: An example of *vikāra*, transformation —
 
-> Subheading: (*Vidagdha-mādhava*, Act 2, verse 8; Śrī Rādhā's words to Lalitā and Viśākhā)
+> Subheading: (*Vidagdha-mādhava*, Act 2, verse 8; Śrī Rādhā’s words to Lalitā and Viśākhā)
 
 **He sakhi**, **iyaṁ rādhā-hṛdaya-vedanā** (this heartache of Rādhā) **su-duḥsādhyā** (is almost incurable), **yatra** (for in it) **kṛtā api cikitsā** (even the treatment undertaken) **kutsāyāṁ paryavasyati** (ends in disgrace: if the pain does not subside, the physician himself will be blamed; besides, I long for all three men at one and the same moment, so even if one of them is brought, the pain will not go — this is the sense).
 
@@ -546,7 +546,7 @@ See Antya 1.17.[^134-1] The *āmukha*, or *prastāvanā*, is of five kinds. The 
 
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 47)
 
-**He viśākhe** (O Viśākhā), **yadi kṛṣṇaḥ mayi akāruṇyaḥ** (if Kṛṣṇa has become cruel to Me), (then) **katham** (how) **tava** **mayi** **āgaḥ** (could the fault toward Me be yours)? (Therefore) **mudhā** (in vain) **mā rodīḥ** (do not weep). **He sakhi**, **param** (only) **imām uttara-kṛtim** (this funeral rite) **kuru** (perform), **yathā** (so that) **iyaṁ me tanuḥ** (this body of Mine), **tamālasya skandhe kalita-dor-vallariḥ** (whose creeper-arms are laid on the trunk of a *tamāla*), **vṛndāraṇye** (in Vṛndāvana) **ciram** (forever) **avicalā** (motionless) **tiṣṭhati** (may remain) (that is, when I give up My life, see that My body, its creeper-arms wound around the trunk of a *tamāla*, remains in Vṛndāvana).
+**He viśākhe** (O Viśākhā), **yadi kṛṣṇaḥ mayi akāruṇyaḥ** (if Kṛṣṇa has become cruel to Me), (then) **katham** (how) **tava** **mayi** **āgaḥ** (could the fault towards Me be yours)? (Therefore) **mudhā** (in vain) **mā rodīḥ** (do not weep). **He sakhi**, **param** (only) **imām uttara-kṛtim** (this funeral rite) **kuru** (perform), **yathā** (so that) **iyaṁ me tanuḥ** (this body of Mine), **tamālasya skandhe kalita-dor-vallariḥ** (whose creeper-arms are laid on the trunk of a *tamāla*), **vṛndāraṇye** (in Vṛndāvana) **ciram** (forever) **avicalā** (motionless) **tiṣṭhati** (may remain) (that is, when I give up My life, see that My body, its creeper-arms wound around the trunk of a *tamāla*, remains in Vṛndāvana).
 
 ## 147
 
@@ -566,7 +566,7 @@ See Madhya 2.52.
 
 ## 151
 
-> Subheading: An example of Śrī Kṛṣṇa's remorse after He has tested her *rāga* —
+> Subheading: An example of Śrī Kṛṣṇa’s remorse after He has tested her *rāga* —
 
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 40)
 
@@ -576,7 +576,7 @@ See Madhya 2.52.
 
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 41)
 
-**He sakhi**, **yasya** (Kṛṣṇa's) **utsaṅga-sukhāśayā** (out of an intense desire for the bliss of closeness with Him) **gurubhyaḥ** (before the venerable elders) **gurvī** (great) **trapā** (shyness) **śithilitā** (was cast off), **tathā** (and likewise) **prāṇebhyaḥ api suhṛt-tamāḥ** (the dearest, dearer than life) **yūyaṁ** (you) **parikleśitāḥ** (have been tormented); **sādhvībhiḥ adhyāsitaḥ** (followed by chaste women) **yaḥ mahān dharmaḥ** (the great *dharma* — fidelity to a husband), **saḥ api** (even that) **mayā** (by Me, a wife of a noble family) **na gaṇitaḥ** (was not taken into account); **yat** (since) **ahaṁ pāpīyasī** (I, the sinful one), **tad-upekṣitā api** (even neglected by Him, Kṛṣṇa), **jīvāmi** (live on), (therefore) **dhairyaṁ** (My steadiness) — **dhik** (shame on it)!
+**He sakhi**, **yasya** (Kṛṣṇa’s) **utsaṅga-sukhāśayā** (out of an intense desire for the bliss of closeness with Him) **gurubhyaḥ** (before the venerable elders) **gurvī** (great) **trapā** (shyness) **śithilitā** (was cast off), **tathā** (and likewise) **prāṇebhyaḥ api suhṛt-tamāḥ** (the dearest, dearer than life) **yūyaṁ** (you) **parikleśitāḥ** (have been tormented); **sādhvībhiḥ adhyāsitaḥ** (followed by chaste women) **yaḥ mahān dharmaḥ** (the great *dharma* — fidelity to a husband), **saḥ api** (even that) **mayā** (by Me, a wife of a noble family) **na gaṇitaḥ** (was not taken into account); **yat** (since) **ahaṁ pāpīyasī** (I, the sinful one), **tad-upekṣitā api** (even neglected by Him, Kṛṣṇa), **jīvāmi** (live on), (therefore) **dhairyaṁ** (My steadiness) — **dhik** (shame on it)!
 
 ## 153
 
@@ -594,7 +594,7 @@ See Madhya 2.52.
 
 > Subheading: (*Vidagdha-mādhava*, Act 3, verse 9)
 
-**He kṛṣṇārṇava** (O Kṛṣṇa, ocean), **dhava-taroḥ** (of the tree — Her husband) **antikaṁ** (the nearness) **dūre pathi** (far off on the way) **hitvā** (leaving), **dharma-setoḥ** (of the bridge — the *dharma* of the family, for that is the bridge) **bhaṅgodagrā** (the breaker, one whose foremost urge is to break it; able to break it), **guru-śikhariṇaṁ** (the mountain — the venerable elders) **raṁhasā** (swiftly) **laṅghayantī** (crossing over), **nava-rasā** (She in whom there is new, fresh *rasa* — the *rasas* from *śānta* to *śṛṅgāra*) **rādhikā-vāhinī** (the river Rādhikā) **tvāṁ** (You, the ocean Kṛṣṇa) **lebhe** (has reached); **tvaṁ ca** (and You) **vāg-vīcībhiḥ** (with mere waves of words) **kim iva** (why) **asyāḥ** (Her — the river Rādhā's) **vimukhī-bhāvam** (estrangement) **tanoṣi** (spread)?
+**He kṛṣṇārṇava** (O Kṛṣṇa, ocean), **dhava-taroḥ** (of the tree — Her husband) **antikaṁ** (the nearness) **dūre pathi** (far off on the way) **hitvā** (leaving), **dharma-setoḥ** (of the bridge — the *dharma* of the family, for that is the bridge) **bhaṅgodagrā** (the breaker, one whose foremost urge is to break it; able to break it), **guru-śikhariṇaṁ** (the mountain — the venerable elders) **raṁhasā** (swiftly) **laṅghayantī** (crossing over), **nava-rasā** (She in whom there is new, fresh *rasa* — the *rasas* from *śānta* to *śṛṅgāra*) **rādhikā-vāhinī** (the river Rādhikā) **tvāṁ** (You, the ocean Kṛṣṇa) **lebhe** (has reached); **tvaṁ ca** (and You) **vāg-vīcībhiḥ** (with mere waves of words) **kim iva** (why) **asyāḥ** (Her — the river Rādhā’s) **vimukhī-bhāvam** (estrangement) **tanoṣi** (spread)?
 
 ## 158
 
@@ -620,25 +620,25 @@ See Madhya 2.52.
 
 > Subheading: (*Vidagdha-mādhava*, Act 3, verse 1)
 
-**Ubhayataḥ** (at both ends — at the head and at the tail of the flute) **aṅguṣṭha-trayam** (over a span three thumbs wide) **asita-ratnaiḥ** (with sapphires, *indranīlas*) **parāmṛṣṭā** (covered, inlaid), **aruṇaiḥ maṇibhiḥ** (with rubies) **saṅkīrṇau** (inlaid) **tat-parisarau** (the two adjoining spans, also three thumbs each, at the head and at the tail) **vahantī** (bearing), **tayoḥ** (of these two spans) **madhye** (in the middle) **hīrojjvala-vimala-jāmbūnada-mayī** (made of pure gold [*jāmbūnada*] brightly glittering with diamonds), **iyaṁ kalyāṇī** (full of auspiciousness) **keli-muralī** (Kṛṣṇa's flute of play) **hareḥ** (Kṛṣṇa's) **kare** (in the hand) **viharati** (sports).
+**Ubhayataḥ** (at both ends — at the head and at the tail of the flute) **aṅguṣṭha-trayam** (over a span three thumbs wide) **asita-ratnaiḥ** (with sapphires, *indranīlas*) **parāmṛṣṭā** (covered, inlaid), **aruṇaiḥ maṇibhiḥ** (with rubies) **saṅkīrṇau** (inlaid) **tat-parisarau** (the two adjoining spans, also three thumbs each, at the head and at the tail) **vahantī** (bearing), **tayoḥ** (of these two spans) **madhye** (in the middle) **hīrojjvala-vimala-jāmbūnada-mayī** (made of pure gold [*jāmbūnada*] brightly glittering with diamonds), **iyaṁ kalyāṇī** (full of auspiciousness) **keli-muralī** (Kṛṣṇa’s flute of play) **hareḥ** (Kṛṣṇa’s) **kare** (in the hand) **viharati** (sports).
 
 ## 162
 
 > Subheading: (*Vidagdha-mādhava*, Act 5, verse 17)
 
-**He muralike**, **sad-vaṁśataḥ** (from the finest bamboo, that is, from a good family) **tava janiḥ** (you were born); **puruṣottamasya** (Kṛṣṇa's) **pāṇau** (in the hand) **tava sthitiḥ** (you dwell); **jātyā** (by birth) **saralā** (not crooked, straight) **asi** (you are); (**he sakhi**,) **kasmāt guroḥ** (from which guru, by whose grace) **tvayā** (by you) **viṣamā** (not straight, crooked) **gopāṅganā-gaṇa-vimohana-mantra-dīkṣā** (initiation into the mantra that bewilders the gopīs) **gṛhītā** (was received — you have been initiated into a mantra able to steal the gopīs' hearts)?
+**He muralike**, **sad-vaṁśataḥ** (from the finest bamboo, that is, from a good family) **tava janiḥ** (you were born); **puruṣottamasya** (Kṛṣṇa’s) **pāṇau** (in the hand) **tava sthitiḥ** (you dwell); **jātyā** (by birth) **saralā** (not crooked, straight) **asi** (you are); (**he sakhi**,) **kasmāt guroḥ** (from which guru, by whose grace) **tvayā** (by you) **viṣamā** (not straight, crooked) **gopāṅganā-gaṇa-vimohana-mantra-dīkṣā** (initiation into the mantra that bewilders the gopīs) **gṛhītā** (was received — you have been initiated into a mantra able to steal the gopīs’ hearts)?
 
 ## 163
 
 > Subheading: (*Vidagdha-mādhava*, Act 4, verse 7)
 
-**He sakhi murali**, **tvaṁ** **viśāla-cchidra-jālena** (with a mass of great flaws) **pūrṇā** (are filled), **laghuḥ** (light, without dignity), **ati-kaṭhinā** (cruel by nature), **granthilā** (you undo the knots of the sashes [*nīvi*]), **nīrasā** (dry) **ca asi**; **tad api** (and yet) **kena puṇyodayena** (by what previous pious merit) **śaśvat** (unceasingly) **cumbanānanda-sāndraṁ** (dense with the happiness born of a kiss) **hari-kara-parirambhaṁ** (the embrace of Kṛṣṇa's hand) **bhajasi** (do you obtain)?
+**He sakhi murali**, **tvaṁ** **viśāla-cchidra-jālena** (with a mass of great flaws) **pūrṇā** (are filled), **laghuḥ** (light, without dignity), **ati-kaṭhinā** (cruel by nature), **granthilā** (you undo the knots of the sashes [*nīvi*]), **nīrasā** (dry) **ca asi**; **tad api** (and yet) **kena puṇyodayena** (by what previous pious merit) **śaśvat** (unceasingly) **cumbanānanda-sāndraṁ** (dense with the happiness born of a kiss) **hari-kara-parirambhaṁ** (the embrace of Kṛṣṇa’s hand) **bhajasi** (do you obtain)?
 
 ## 164
 
 > Subheading: (*Vidagdha-mādhava*, Act 1, verse 27)
 
-**Vaṁśī-dhvaniḥ** (the sound of Kṛṣṇa's flute) **ambu-bhṛtaḥ** (the clouds) **rundhan** (stopping), **tumburuṁ** (the king of the Gandharvas) **muhuḥ** (again and again) **camatkṛti-paraṁ** (filled with wonder) **kurvan** (making), **sanandana-mukhān** (the sages headed by the four Sanas, absorbed in knowledge of Brahman) **dhyānāt antarayan** (making them abandon their meditation), **vedhasam** (Brahmā) **vismāpayan** (astonishing), **autsukyāvalibhiḥ** (with heaps of eager, curious delight) **baliṁ caṭulayan** (making Bali restless), **bhogīndram** (the king of the Nāgas, Śeṣa) **āghūrṇayan** (setting spinning), **aṇḍa-kaṭāha-bhittim** (the covering of the universe) **bhindan** (piercing), **abhitaḥ** (in all directions, everywhere) **babhrāma** (spread).
+**Vaṁśī-dhvaniḥ** (the sound of Kṛṣṇa’s flute) **ambu-bhṛtaḥ** (the clouds) **rundhan** (stopping), **tumburuṁ** (the king of the Gandharvas) **muhuḥ** (again and again) **camatkṛti-paraṁ** (filled with wonder) **kurvan** (making), **sanandana-mukhān** (the sages headed by the four Sanas, absorbed in knowledge of Brahman) **dhyānāt antarayan** (making them abandon their meditation), **vedhasam** (Brahmā) **vismāpayan** (astonishing), **autsukyāvalibhiḥ** (with heaps of eager, curious delight) **baliṁ caṭulayan** (making Bali restless), **bhogīndram** (the king of the Nāgas, Śeṣa) **āghūrṇayan** (setting spinning), **aṇḍa-kaṭāha-bhittim** (the covering of the universe) **bhindan** (piercing), **abhitaḥ** (in all directions, everywhere) **babhrāma** (spread).
 
 ## 165
 
@@ -646,7 +646,7 @@ See Madhya 2.52.
 
 > Subheading: (*Vidagdha-mādhava*, Act 1, verse 17)
 
-**Ayaṁ hariḥ** (this Hari), **nayana-daṇḍita-pravara-puṇḍarīka-prabhaḥ** (He who by the beauty of His eyes has punished and subdued the luster — the beauty — of the finest *puṇḍarīka*, the full-blown white lotus), **nava-jāguḍa-dyuti-viḍambi-pītāmbaraḥ** (He whose yellow garment seems accustomed to mock the luster — the glow — of fresh *kuṅkuma*), **araṇyaja-pariṣkriyā-damita-divya-veśādaraḥ** (He who with forest-born ornaments has overcome all fondness for divine attire), **harin-maṇi-manohara-dyutibhiḥ** (with a luster as enchanting as an emerald) **ujjvalāṅgaḥ** (He whose body is radiant), **prabhāti** (shines).
+**Ayaṁ hariḥ** (this Hari), **nayana-daṇḍita-pravara-puṇḍarīka-prabhaḥ** (He who by the beauty of His eyes has punished and subdued the lustre — the beauty — of the finest *puṇḍarīka*, the full-blown white lotus), **nava-jāguḍa-dyuti-viḍambi-pītāmbaraḥ** (He whose yellow garment seems accustomed to mock the lustre — the glow — of fresh *kuṅkuma*), **araṇyaja-pariṣkriyā-damita-divya-veśādaraḥ** (He who with forest-born ornaments has overcome all fondness for divine attire), **harin-maṇi-manohara-dyutibhiḥ** (with a lustre as enchanting as an emerald) **ujjvalāṅgaḥ** (He whose body is radiant), **prabhāti** (shines).
 
 ## 166
 
@@ -664,29 +664,29 @@ See Madhya 2.52.
 
 > Subheading: (*Lalita-mādhava*, Act 1, verse 49)
 
-**He sakhi**, **yasya** (He whose) **sthira-kulāṅganā-nikara-nīvi-bandhārgala-cchidā-karaṇa-kautukī** (for the many steadfast noble wives, the chaste women, the very knot of the sash [*nīvi*] serves as a bolt, a bar, or an obstacle, and this sound delights in cutting that bolt, in breaking those bonds) **vaṁśī-dhvaniḥ** (the sound of the flute) **jayati** (is supreme), **saḥ** (He) **mahendra-maṇi-maṇḍalī-mada-viḍambi-deha-dyutiḥ** (He the luster, the radiance, of whose body seems accustomed to mock the pride of clusters of great sapphires), **kaḥ api navyaḥ yuvā** (a certain youth in the freshness of youth), **vrajendra-kula-candramāḥ** (the moon of Nanda's dynasty), **sphurati** (shines).
+**He sakhi**, **yasya** (He whose) **sthira-kulāṅganā-nikara-nīvi-bandhārgala-cchidā-karaṇa-kautukī** (for the many steadfast noble wives, the chaste women, the very knot of the sash [*nīvi*] serves as a bolt, a bar, or an obstacle, and this sound delights in cutting that bolt, in breaking those bonds) **vaṁśī-dhvaniḥ** (the sound of the flute) **jayati** (is supreme), **saḥ** (He) **mahendra-maṇi-maṇḍalī-mada-viḍambi-deha-dyutiḥ** (He the lustre, the radiance, of whose body seems accustomed to mock the pride of clusters of great sapphires), **kaḥ api navyaḥ yuvā** (a certain youth in the freshness of youth), **vrajendra-kula-candramāḥ** (the moon of Nanda’s dynasty), **sphurati** (shines).
 
 ## 166–168
 
-In some manuscripts the three verses 166–168 are not given. For Śrī Rūpa was describing the *Vidagdha-mādhava*, and describing the *Lalita-mādhava* was neither timely nor relevant for him: as is known, he receives Śrī Rāmānanda's instruction to describe the *Lalita-mādhava* only further on, in verse 172.
+In some manuscripts the three verses 166–168 are not given. For Śrī Rūpa was describing the *Vidagdha-mādhava*, and describing the *Lalita-mādhava* was neither timely nor relevant for him: as is known, he receives Śrī Rāmānanda’s instruction to describe the *Lalita-mādhava* only further on, in verse 172.
 
 ## 169
 
 > Subheading: (*Vidagdha-mādhava*, Act 1, verse 32)
 
-(Śrī Rādhā's) **akṣṇoḥ** (eyes') **lakṣmīḥ** (beauty) **navyaṁ** (newly blossomed) **kuvalayaṁ** (the blue lotus) **balāt kavalayati** (forcibly swallows), **mukhollāsaḥ** (the beauty of Her face) **phullaṁ** (blossomed) **kamala-vanam** (forest of lotuses) **ullaṅghayati** (surpasses, sets aside), **āṅgika-ruciḥ** (the luster of Her body) **aṣṭāpadam** (gold) **api** **kaṣṭāṁ** (full of distress) **daśāṁ** (into a state) **nayati** (brings); (therefore) **rādhāyāḥ rūpaṁ** (Rādhā's beauty) **kila kim api vicitraṁ** (truly something wondrous) **vilasati** (shines).
+(Śrī Rādhā’s) **akṣṇoḥ** (eyes’) **lakṣmīḥ** (beauty) **navyaṁ** (newly blossomed) **kuvalayaṁ** (the blue lotus) **balāt kavalayati** (forcibly swallows), **mukhollāsaḥ** (the beauty of Her face) **phullaṁ** (blossomed) **kamala-vanam** (forest of lotuses) **ullaṅghayati** (surpasses, sets aside), **āṅgika-ruciḥ** (the lustre of Her body) **aṣṭāpadam** (gold) **api** **kaṣṭāṁ** (full of distress) **daśāṁ** (into a state) **nayati** (brings); (therefore) **rādhāyāḥ rūpaṁ** (Rādhā’s beauty) **kila kim api vicitraṁ** (truly something wondrous) **vilasati** (shines).
 
 ## 170
 
 > Subheading: (*Vidagdha-mādhava*, Act 5, verse 20)
 
-**Vidhuḥ** (the moon) **divā** (by day), **śata-patraṁ** (the lotus) **śarvarī-mukhe** (in the evening) **bata** (alas) **virūpatāṁ** (loss of luster) **eti** (attain); **iti** (thus) **sadā** (always, day and night) **śriyā** (with beauty) **ujjvalam** (shining) **mat-priyānanam** (Śrī Rādhikā's face) **kena** (with what object of comparison) **tulanāṁ na arhati**[^170-1] (does it not bear comparison — that is, it can be compared with nothing)?
+**Vidhuḥ** (the moon) **divā** (by day), **śata-patraṁ** (the lotus) **śarvarī-mukhe** (in the evening) **bata** (alas) **virūpatāṁ** (loss of lustre) **eti** (attain); **iti** (thus) **sadā** (always, day and night) **śriyā** (with beauty) **ujjvalam** (shining) **mat-priyānanam** (Śrī Rādhikā’s face) **kena** (with what object of comparison) **tulanāṁ na arhati**[^170-1] (does it not bear comparison — that is, it can be compared with nothing)?
 
 ## 171
 
 > Subheading: (*Vidagdha-mādhava*, Act 2, verse 5)
 
-**Pramada-rasa-taraṅga-smera-gaṇḍa-sthalāyāḥ** (of Her whose cheeks smile — touched with a gentle smile — from the waves of the *rasa* of joy, the flow of the *rasa* of bliss), **smara-dhanur-anubandhi-bhrū-latā-lāsya-bhājaḥ** (of Her whose creeper-brows, like the bow of Kāmadeva, perform a dance [*lāsya*]), **pakṣmalākṣyāḥ** (of Rādhā, whose eyes are graced with lovely lashes), **mada-kala-cala-bhṛṅgī-bhrānti-bhaṅgīṁ** (such a charm [*bhaṅgī*] that one mistakes [*bhrānti*] it for a bee darting, restless and fickle with intoxicated humming [*kala*]) **dadhānaḥ** (bearing), (Rādhā's) **kaṭākṣaḥ** (glance) **idam** (this, My) **hṛdayam** (heart) **adāṅkṣīt** (has stung).
+**Pramada-rasa-taraṅga-smera-gaṇḍa-sthalāyāḥ** (of Her whose cheeks smile — touched with a gentle smile — from the waves of the *rasa* of joy, the flow of the *rasa* of bliss), **smara-dhanur-anubandhi-bhrū-latā-lāsya-bhājaḥ** (of Her whose creeper-brows, like the bow of Kāmadeva, perform a dance [*lāsya*]), **pakṣmalākṣyāḥ** (of Rādhā, whose eyes are graced with lovely lashes), **mada-kala-cala-bhṛṅgī-bhrānti-bhaṅgīṁ** (such a charm [*bhaṅgī*] that one mistakes [*bhrānti*] it for a bee darting, restless and fickle with intoxicated humming [*kala*]) **dadhānaḥ** (bearing), (Rādhā’s) **kaṭākṣaḥ** (glance) **idam** (this, My) **hṛdayam** (heart) **adāṅkṣīt** (has stung).
 
 ## 172
 
@@ -696,7 +696,7 @@ Of the second drama: that is, of the drama *Lalita-mādhava*. From here on Śrī
 
 ## 173
 
-> Subheading: Comparing himself with Rāya's greatness, Śrī Rūpa expresses his humility —
+> Subheading: Comparing himself with Rāya’s greatness, Śrī Rūpa expresses his humility —
 
 ## 175
 
@@ -704,11 +704,11 @@ Of the second drama: that is, of the drama *Lalita-mādhava*. From here on Śrī
 
 > Subheading: (*Lalita-mādhava*, Act 1, verse 1)
 
-**Sura-ripu-sudṛśām** (of the wives of Naraka and the other asuras) **uroja-kokān** (the *kokas*, *cakravākas*, that are their breasts) **mukha-kamalāni ca** (and the lotuses that are their faces) **khedayan** (casting into dejection), **akhila-suhṛc-cakora-nandī** (He who is wont to delight the *cakoras* — all His friends), **akhaṇḍaḥ** (full) **mukunda-yaśaḥ-śaśī** (the moon that is Mukunda's fame) **vaḥ** (you) **mudaṁ** (happiness) **ciram** (for long) **diśatu** (may it give).
+**Sura-ripu-sudṛśām** (of the wives of Naraka and the other asuras) **uroja-kokān** (the *kokas*, *cakravākas*, that are their breasts) **mukha-kamalāni ca** (and the lotuses that are their faces) **khedayan** (casting into dejection), **akhila-suhṛc-cakora-nandī** (He who is wont to delight the *cakoras* — all His friends), **akhaṇḍaḥ** (full) **mukunda-yaśaḥ-śaśī** (the moon that is Mukunda’s fame) **vaḥ** (you) **mudaṁ** (happiness) **ciram** (for long) **diśatu** (may it give).
 
 ## 176
 
-> Subheading: Rāya asks Śrī Rūpa to describe his own worshipful Lord; Śrī Rūpa's embarrassment —
+> Subheading: Rāya asks Śrī Rūpa to describe his own worshipful Lord; Śrī Rūpa’s embarrassment —
 
 ## 177
 
@@ -736,7 +736,7 @@ See above (Antya, Chapter 1) verse 134 and its *Anubhāṣya*. By which part of 
 
 > Subheading: (*Lalita-mādhava*, Act 1, verse 11)
 
-**Naṭatā** (playing a role) **tena kalā-nidhinā** (by the actor named Kalānidhi) **raṅga-sthale** (on the stage) **kirāta-rājaṁ** (the ruler of the land of the Kirātas) **nihatya** (having slain), **guṇavati** (presided over by a favorable constellation) **samaye** (at the time) **tārā-kara-grahaṇam** (marriage to the girl named Tārā) **vidheyam** (is to be performed). In the other sense: **raṅga-sthale** (in the arena) **tena** **kalā-nidhinā** (by Śrī Kṛṣṇa, the treasury of the sixty-four arts) **kirāta-rājaṁ** (Kaṁsa) **nihatya** (having slain), **guṇavati samaye** (at the time called “Pūrṇa-manoratha,” in the tenth act) **tārā-kara-grahaṇam** (marriage to Śrī Rādhikā) **vidheyam** (is to be performed).
+**Naṭatā** (playing a role) **tena kalā-nidhinā** (by the actor named Kalānidhi) **raṅga-sthale** (on the stage) **kirāta-rājaṁ** (the ruler of the land of the Kirātas) **nihatya** (having slain), **guṇavati** (presided over by a favourable constellation) **samaye** (at the time) **tārā-kara-grahaṇam** (marriage to the girl named Tārā) **vidheyam** (is to be performed). In the other sense: **raṅga-sthale** (in the arena) **tena** **kalā-nidhinā** (by Śrī Kṛṣṇa, the treasury of the sixty-four arts) **kirāta-rājaṁ** (Kaṁsa) **nihatya** (having slain), **guṇavati samaye** (at the time called “Pūrṇa-manoratha,” in the tenth act) **tārā-kara-grahaṇam** (marriage to Śrī Rādhikā) **vidheyam** (is to be performed).
 
 In this verse the *āmukha*, that is, the *prastāvanā*, is named — *udghātyaka* — and the part of the *bhāratī-vṛtti* — *vīthī*. The *Sāhitya-darpaṇa* (Chapter 6, no. 520) says: “In a *vīthī* there is one act, and in it some single [hero] is presented. Addressing imagined voices from the sky, he carries on varied speeches and replies, abundantly suggests *śṛṅgāra* and to some extent other *rasas* as well; it has the opening and closing junctures (*mukha* and *nirvahaṇa*) and all the *artha-prakṛtis*.” That is, in a *vīthī* there is only one act. In this act some single hero is presented; through voices from the sky he resorts to varied speeches and replies, abundantly suggests *śṛṅgāra-rasa* and to some extent other *rasas* as well; and in its opening (*mukha*) and junctures (*sandhis*) all the *artha-prakṛtis*, that is, the *bīja*, should be employed. Here, if the word *naṭatā* (playing a role) is applied to the moon, the meaning is unclear; therefore it is applied to Kṛṣṇa, and since the meaning thus becomes clear, the *prastāvanā* called *udghātyaka* has been formed. Taking the meaning that relates to Kṛṣṇa, Paurṇamāsī, too, entered the stage.
 
@@ -758,15 +758,15 @@ In this verse the *āmukha*, that is, the *prastāvanā*, is named — *udghāty
 
 > Subheading: (*Lalita-mādhava*, Act 1, verse 23)
 
-**Rajaḥ-bharaḥ** (the mass, heap, multitude of dust raised by the cows' hooves) **harim** **uddiśate** (points to Hari), **tamaḥ** (darkness) **purataḥ** (ahead) **amum** (Kṛṣṇa) **saṅgamayati** (unites [with the gopīs]); (therefore) **vraja-vāma-dṛśāṁ** (of the women of Vraja) **paddhatiḥ** (the path) **sarva-dṛśaḥ** (all-seeing) **śruteḥ** (to the Veda) **api** (even) **prakaṭā na** (is not revealed).
+**Rajaḥ-bharaḥ** (the mass, heap, multitude of dust raised by the cows’ hooves) **harim** **uddiśate** (points to Hari), **tamaḥ** (darkness) **purataḥ** (ahead) **amum** (Kṛṣṇa) **saṅgamayati** (unites [with the gopīs]); (therefore) **vraja-vāma-dṛśāṁ** (of the women of Vraja) **paddhatiḥ** (the path) **sarva-dṛśaḥ** (all-seeing) **śruteḥ** (to the Veda) **api** (even) **prakaṭā na** (is not revealed).
 
-The Veda, whose subject is the three *guṇas*, says nothing of how to point to Kṛṣṇa, who is beyond the *guṇas*, or of meeting Him. The conditioned *jīva*, turned away from Kṛṣṇa, is agitated by the *guṇa* of *rajas*, and so has no pointer to Kṛṣṇa; he is covered by the *guṇa* of *tamas*, and so he does not meet Kṛṣṇa. But in the transcendental Vṛndāvana the dust (*rajas*) raised by the cows' hooves points out Kṛṣṇa's coming to the eternally liberated gopīs, and *tamas*, the darkness, lets the eternally liberated gopīs meet Kṛṣṇa. Therefore both the gopīs, whose nature is pure *sattva*, and Śrī Vṛndāvana, whose nature is pure *sattva*, are beyond the reach of the Veda, whose subject is the three *guṇas*. This is the meaning of the verse.
+The Veda, whose subject is the three *guṇas*, says nothing of how to point to Kṛṣṇa, who is beyond the *guṇas*, or of meeting Him. The conditioned *jīva*, turned away from Kṛṣṇa, is agitated by the *guṇa* of *rajas*, and so has no pointer to Kṛṣṇa; he is covered by the *guṇa* of *tamas*, and so he does not meet Kṛṣṇa. But in the transcendental Vṛndāvana the dust (*rajas*) raised by the cows’ hooves points out Kṛṣṇa’s coming to the eternally liberated gopīs, and *tamas*, the darkness, lets the eternally liberated gopīs meet Kṛṣṇa. Therefore both the gopīs, whose nature is pure *sattva*, and Śrī Vṛndāvana, whose nature is pure *sattva*, are beyond the reach of the Veda, whose subject is the three *guṇas*. This is the meaning of the verse.
 
 ## 189
 
 > Subheading: (*Lalita-mādhava*, Act 1, verse 24)
 
-**Yā** (she who), **hriyam** (shyness) **avagṛhya** (taking away, that is, destroying), **gṛhebhyaḥ** (from home) **vanāya** (to the forest, so that She goes to the forest) **rādhāṁ karṣati** (draws Rādhā), **sā nipuṇā** (skillful) **nisṛṣṭārthā** (bearing the task entrusted to her) **vara-vaṁśaja-kākalī** (the sound of the flute) **dūtī** (messenger) **jayati** (is supreme).
+**Yā** (she who), **hriyam** (shyness) **avagṛhya** (taking away, that is, destroying), **gṛhebhyaḥ** (from home) **vanāya** (to the forest, so that She goes to the forest) **rādhāṁ karṣati** (draws Rādhā), **sā nipuṇā** (skilful) **nisṛṣṭārthā** (bearing the task entrusted to her) **vara-vaṁśaja-kākalī** (the sound of the flute) **dūtī** (messenger) **jayati** (is supreme).
 
 *Nisṛṣṭārthā*: the *Ujjvala-nīlamaṇi* (section on the kinds of messengers, verse 29) says: “She to whom one of the two has entrusted the task, and who by her skill unites them both, is called *nisṛṣṭārthā*.”
 
@@ -774,7 +774,7 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 > Subheading: (*Lalita-mādhava*, Act 2, verse 10)
 
-**He saha-cari** (O friend), **ahaha** (ah!), **iha** (here, in the forest of Vṛndā) **yaḥ** (He who) **caṭulaiḥ** (restless) **utsarpadbhiḥ** (gliding in every direction) **dṛg-añcala-taskaraiḥ** (with the thieves — His sidelong glances) **mama cetaḥ-koṣāt** (from the treasury of My heart) **dhṛti-dhanaṁ** (the wealth that is My composure) **viluṇṭhayati** (plunders) — **mudira-dyutiḥ** (He whose luster is like that of a cloud [*mudira*], shining like a fresh cloud), **mādyan-mataṅ-gaja-vibhramaḥ** (He whose play [*vibhrama*, *vilāsa*] is like an intoxicated elephant's, restless like an elephant deep in intoxication), **nirātaṅkaḥ** (fearless) — **kaḥ ayaṁ yuvā** (who is this youth)? **Kutaḥ** (from where) **ca** **vraja-bhuvi** (to the land of Vraja) **prāptaḥ** (has He come)?
+**He saha-cari** (O friend), **ahaha** (ah!), **iha** (here, in the forest of Vṛndā) **yaḥ** (He who) **caṭulaiḥ** (restless) **utsarpadbhiḥ** (gliding in every direction) **dṛg-añcala-taskaraiḥ** (with the thieves — His sidelong glances) **mama cetaḥ-koṣāt** (from the treasury of My heart) **dhṛti-dhanaṁ** (the wealth that is My composure) **viluṇṭhayati** (plunders) — **mudira-dyutiḥ** (He whose lustre is like that of a cloud [*mudira*], shining like a fresh cloud), **mādyan-mataṅ-gaja-vibhramaḥ** (He whose play [*vibhrama*, *vilāsa*] is like an intoxicated elephant’s, restless like an elephant deep in intoxication), **nirātaṅkaḥ** (fearless) — **kaḥ ayaṁ yuvā** (who is this youth)? **Kutaḥ** (from where) **ca** **vraja-bhuvi** (to the land of Vraja) **prāptaḥ** (has He come)?
 
 ## 191
 
@@ -784,21 +784,21 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 ## 192
 
-> Subheading: Rāya praises Śrī Rūpa's poetic gift without end, as if with a thousand mouths —
+> Subheading: Rāya praises Śrī Rūpa’s poetic gift without end, as if with a thousand mouths —
 
 ## 195
 
 > Subheading: (a verse of an ancient author)
 
-**Tasya kaveḥ** (of that poet) **kāvyena** (with the poetry, words full of *rasa*) **kim** (what use)? **Dhanuṣ-mataḥ** (of the archer) **kāṇḍena** (with the arrow) **kim** (what use)? — **yat** (if) [the poetry or the arrow], **parasya hṛdaye lagnaṁ** (having pierced another's heart), **tasya śiraḥ** (his head) **na ghūrṇayati** (does not make spin).
+**Tasya kaveḥ** (of that poet) **kāvyena** (with the poetry, words full of *rasa*) **kim** (what use)? **Dhanuṣ-mataḥ** (of the archer) **kāṇḍena** (with the arrow) **kim** (what use)? — **yat** (if) [the poetry or the arrow], **parasya hṛdaye lagnaṁ** (having pierced another’s heart), **tasya śiraḥ** (his head) **na ghūrṇayati** (does not make spin).
 
 ## 196
 
-> Subheading: [Rāya] infers the Lord's mercy upon Śrī Rūpa —
+> Subheading: [Rāya] infers the Lord’s mercy upon Śrī Rūpa —
 
 ## 197
 
-> Subheading: The Lord praises Śrī Rūpa's poetic gift —
+> Subheading: The Lord praises Śrī Rūpa’s poetic gift —
 
 ## 199
 
@@ -806,7 +806,7 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 ## 200
 
-> Subheading: The Lord praises Śrī Sanātana and considers him Śrī Rāya's equal in detachment and in learning — in knowledge of the *siddhānta* and the *rasa* of *prema-bhakti* —
+> Subheading: The Lord praises Śrī Sanātana and considers him Śrī Rāya’s equal in detachment and in learning — in knowledge of the *siddhānta* and the *rasa* of *prema-bhakti* —
 
 ## 201
 
@@ -822,7 +822,7 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 ## 204
 
-> Subheading: In Rāya's words and in Śrī Rūpa's writings one and the same *rasa* of *prema-bhakti* is proclaimed —
+> Subheading: In Rāya’s words and in Śrī Rūpa’s writings one and the same *rasa* of *prema-bhakti* is proclaimed —
 
 ## 205
 
@@ -838,7 +838,7 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 ## 208
 
-> Subheading: All are amazed at the Lord's mercy on Śrī Rūpa and at Śrī Rūpa's qualities that attract Kṛṣṇa —
+> Subheading: All are amazed at the Lord’s mercy on Śrī Rūpa and at Śrī Rūpa’s qualities that attract Kṛṣṇa —
 
 ## 209
 
@@ -846,7 +846,7 @@ The Veda, whose subject is the three *guṇas*, says nothing of how to point to 
 
 ## 210
 
-> Subheading: Haridāsa praises Śrī Rūpa's good fortune —
+> Subheading: Haridāsa praises Śrī Rūpa’s good fortune —
 
 ## 211
 
@@ -868,7 +868,7 @@ See Madhya 19.134.
 
 ## 215
 
-> Subheading: Śrī Rūpa stays at the Lord's feet until the Dola-yātrā —
+> Subheading: Śrī Rūpa stays at the Lord’s feet until the Dola-yātrā —
 
 ## 216
 
@@ -904,12 +904,12 @@ That Mahāprabhu went to Vṛndāvana again is not heard of.
 
 [^128-1]: In the head word of the gloss the edition reads “…*viṣaya-saṁsāra*…” (as does the *Amṛta-pravāha-bhāṣya*: “worldly existence”), while the verse and the explanation have *viṣamā* (harsh); translated according to the verse (checked against the scan).
 
-[^134-1]: So in the edition (checked against the scan). Verse 17 concerns Śivānanda's dog; the *āmukha* and *prastāvanā* are explained in the *Anubhāṣya* on Antya 1.71 — the digits are probably transposed.
+[^134-1]: So in the edition (checked against the scan). Verse 17 concerns Śivānanda’s dog; the *āmukha* and *prastāvanā* are explained in the *Anubhāṣya* on Antya 1.71 — the digits are probably transposed.
 
 [^136-1]: The words “An example of this” (*tasyodāharaṇaṁ yathā*) are printed in the edition in the bold type of the verses, between verses 135 and 136; they are absent from the verse translation.
 
 [^153-1]: Bakī is Pūtanā, the sister of the demon Baka.
 
-[^170-1]: The edition's gloss has a negative (*tulanāṁ na arhati*); the verse reads *tulanām arhati* (“with what can it be compared?”). The sense is the same: there is nothing to compare it with.
+[^170-1]: The edition’s gloss has a negative (*tulanāṁ na arhati*); the verse reads *tulanām arhati* (“with what can it be compared?”). The sense is the same: there is nothing to compare it with.
 
 [^191-1]: So in the edition (checked against the scan): both verse 190 and verse 191 are marked “Act 2, verse 10.”

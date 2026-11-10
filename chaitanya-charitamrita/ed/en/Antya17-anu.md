@@ -2,17 +2,17 @@
 
 ## 1
 
-> Subheading: A description of Gaura's[^1-1] transcendental pastimes, heard from the mouth of the guru by the path of *śrauta* —
+> Subheading: A description of Gaura’s[^1-1] transcendental pastimes, heard from the mouth of the guru by the path of *śrauta* —
 
 **yaiḥ** (by the most fortunate intimate devotees headed by Dāmodara and Raghunātha) **śrīla-gaurendoḥ** (of Gauracandra) **adbhutam** (never heard of before) **alaukikam** (never seen before) **divyonmāda-viceṣṭitam** (the conduct of one maddened by *mahābhāva*) **dṛṣṭam** (was seen with their own eyes), **tan-mukhāt** (from the holy mouths of those very *śrī-gurus* who sang of it) **tat śrutvā** (having heard it, [by me]) **likhyate** (is described).
 
 ## 3
 
-> Subheading: The Lord's madness (*unmāda*) and incoherent words (*pralāpa*) —
+> Subheading: The Lord’s madness (*unmāda*) and incoherent words (*pralāpa*) —
 
 ## 4
 
-> Subheading: The Lord's constant companions at that time —
+> Subheading: The Lord’s constant companions at that time —
 
 ## 5
 
@@ -36,11 +36,11 @@
 
 ## 10
 
-> Subheading: The Lord's divine madness —
+> Subheading: The Lord’s divine madness —
 
 ## 13
 
-> Subheading: Not hearing the Lord's voice, all search for Him and find Him —
+> Subheading: Not hearing the Lord’s voice, all search for Him and find Him —
 
 ## 14
 
@@ -48,7 +48,7 @@
 
 ## 16
 
-> Subheading: The Lord's condition —
+> Subheading: The Lord’s condition —
 
 ## 19
 
@@ -64,15 +64,15 @@
 
 ## 28
 
-> Subheading: The lament of the Lord, deprived of hearing Kṛṣṇa's sounds —
+> Subheading: The lament of the Lord, deprived of hearing Kṛṣṇa’s sounds —
 
 ## 30
 
-> Subheading: At Gaura's bidding, Svarūpa recites a verse —
+> Subheading: At Gaura’s bidding, Svarūpa recites a verse —
 
 ## 31
 
-> Subheading: The sweetness of Kṛṣṇa's flute enchants and attracts His servants of every kind — (Śrīmad-Bhāgavatam 10.29.40)
+> Subheading: The sweetness of Kṛṣṇa’s flute enchants and attracts His servants of every kind — (*Śrīmad-Bhāgavatam* 10.29.40)
 
 See Madhya 24.52.
 
@@ -90,7 +90,7 @@ See Madhya 24.52.
 
 ## 35
 
-> Subheading: A description of the power of the flute's sweetness —
+> Subheading: A description of the power of the flute’s sweetness —
 
 ## 36
 
@@ -102,7 +102,7 @@ See Madhya 24.52.
 
 ## 39
 
-> Subheading: In the mood of Rādhā the Lord relishes Kṛṣṇa's sweetness —
+> Subheading: In the mood of Rādhā the Lord relishes Kṛṣṇa’s sweetness —
 
 ## 40
 
@@ -112,15 +112,15 @@ See Madhya 24.52.
 
 ## 41
 
-> Subheading: The meaning of the verse; the sweetness of Kṛṣṇa's voice described —
+> Subheading: The meaning of the verse; the sweetness of Kṛṣṇa’s voice described —
 
 ## 43
 
-> Subheading: The sweetness of the tinkling of Kṛṣṇa's ankle bells described —
+> Subheading: The sweetness of the tinkling of Kṛṣṇa’s ankle bells described —
 
 ## 44
 
-> Subheading: The sweetness of Kṛṣṇa's words described —
+> Subheading: The sweetness of Kṛṣṇa’s words described —
 
 ## 46
 
@@ -128,7 +128,7 @@ See Madhya 24.52.
 
 ## 47
 
-> Subheading: Even Lakṣmī longs to relish Kṛṣṇa's sweetness, but cannot —
+> Subheading: Even Lakṣmī longs to relish Kṛṣṇa’s sweetness, but cannot —
 
 ## 48
 
@@ -146,7 +146,7 @@ A variant reading: *Līlāsukha*.
 
 ## 51
 
-> Subheading: Śrī Rādhā's words —
+> Subheading: Śrī Rādhā’s words —
 
 **he sakhyaḥ** (O friends), (**tat**) **iha** (in this calamity, separation, *vipralambha*) **kiṁ kṛṇumaḥ** (what shall we do so that He may be seen?) **kasya brūmaḥ** (for you too are in the same state) **tasya**[^51-1] **āśayā** (in the hope of attaining Kṛṣṇa) **yat kṛtam** (what was done, performed), **tat kṛtam**; **anyāṁ kām api dhanyāṁ** (auspicious) **kathāṁ kathayata**; **aho** (what pain!) **hṛdaye śayaḥ** (Kāma, the enemy, dwells in My heart and so cannot be cast out; it is he who is killing Me — what can we do?) **bata** (alas) **madhura-madhura-smerākāre** (in Him whose form is sweeter than sweetness itself, smiling and blossoming with the rapture of Madana and the like) **mano-nayanotsave** (in Him who gives a festival to the mind and eyes) **kṛṣṇe** **kṛpaṇa-kṛpaṇā** (wretched, more wretched than the wretched, sorely distressed with longing) **tṛṣṇā** **ciram** (incessantly) **lambate** (grows).
 
@@ -178,7 +178,7 @@ For the story of Piṅgalā, see *Śrīmad-Bhāgavatam* 11.8.22–44 and the *Ma
 
 ## 59
 
-> Subheading: Śrīmatī wholly in Kṛṣṇa's power —
+> Subheading: Śrīmatī wholly in Kṛṣṇa’s power —
 
 ## 60
 
@@ -190,11 +190,11 @@ For the story of Piṅgalā, see *Śrīmad-Bhāgavatam* 11.8.22–44 and the *Ma
 
 ## 62
 
-> Subheading: Through Svarūpa's efforts the Lord regains consciousness; Svarūpa sings songs suited to His mood —
+> Subheading: Through Svarūpa’s efforts the Lord regains consciousness; Svarūpa sings songs suited to His mood —
 
 ## 63
 
-> Subheading: The Lord's *mahābhāva* — divine madness and the rest — is beyond the measure of the mortal mind —
+> Subheading: The Lord’s *mahābhāva* — divine madness and the rest — is beyond the measure of the mortal mind —
 
 ## 65
 
@@ -202,7 +202,7 @@ Even Anantadeva, who has infinite power, cannot with His thousand mouths describ
 
 ## 66
 
-> Subheading: Whoever hears of the Lord's divine madness awakens to the truth of *prema* —
+> Subheading: Whoever hears of the Lord’s divine madness awakens to the truth of *prema* —
 
 ## 67
 
@@ -220,7 +220,7 @@ Even Anantadeva, who has infinite power, cannot with His thousand mouths describ
 
 ## 70
 
-> Subheading: The Lord's divine madness (*udghūrṇā* and *citra-jalpa*) described —
+> Subheading: The Lord’s divine madness (*udghūrṇā* and *citra-jalpa*) described —
 
 ## 71
 
@@ -228,7 +228,7 @@ Even Anantadeva, who has infinite power, cannot with His thousand mouths describ
 
 ## 72
 
-**aho**, (in Kāśī Miśra's house) **dvāra-trayam** **anudghāṭya** (without unbolting) **uru** (high) **bhitti-trayam** (three walls) **ca** **uccaiḥ** **vilaṅghya** (crossing over) **kāliṅgika-surabhi-madhye** (among cows born in the land of Kaliṅga, within Trailaṅga) **nipatitaḥ** **kṛṣṇoru-virahāt** (from severe separation from Kṛṣṇa) **tanūdyat-saṅkocāt** (from the contraction, that is, the shrinking, that arose in His body) **kamaṭhaḥ** (a tortoise) **iva** **virājan** **gaurāṅgaḥ** **mama** **hṛdaye** **udayan** **mām** **madayati** (fills with bliss).
+**aho**, (in Kāśī Miśra’s house) **dvāra-trayam** **anudghāṭya** (without unbolting) **uru** (high) **bhitti-trayam** (three walls) **ca** **uccaiḥ** **vilaṅghya** (crossing over) **kāliṅgika-surabhi-madhye** (among cows born in the land of Kaliṅga, within Trailaṅga) **nipatitaḥ** **kṛṣṇoru-virahāt** (from severe separation from Kṛṣṇa) **tanūdyat-saṅkocāt** (from the contraction, that is, the shrinking, that arose in His body) **kamaṭhaḥ** (a tortoise) **iva** **virājan** **gaurāṅgaḥ** **mama** **hṛdaye** **udayan** **mām** **madayati** (fills with bliss).
 
 Where the Godāvarī River meets the sea stood the capital of the land of Tailaṅga, “Kariṅga,” or “Dakṣiṇa-Kaliṅga” (South Kaliṅga). In Sanskrit a Tailaṅga cow is called *kāliṅgika-surabhi*.
 

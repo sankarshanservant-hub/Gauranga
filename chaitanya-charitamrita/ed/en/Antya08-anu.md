@@ -8,7 +8,7 @@
 
 ## 3–4
 
-> Subheading: Gaura's pastimes with the devotees in Nīlācala —
+> Subheading: Gaura’s pastimes with the devotees in Nīlācala —
 
 Here another reading has: “Glory, glory to Nityānanda, the moon among *avadhūtas*, who bound the world with the noose of *prema*! Glory, glory to Śrī Advaita, the incarnation of Īśvara, who made Kṛṣṇa descend and delivered the world!”
 
@@ -16,7 +16,7 @@ Here another reading has: “Glory, glory to Nityānanda, the moon among *avadh�
 
 > Subheading: Rāmacandra Purī arrives —
 
-> Subheading: Paramānanda Purī and the Lord give Rāmacandra Purī the honor due to his position —
+> Subheading: Paramānanda Purī and the Lord give Rāmacandra Purī the honour due to his position —
 
 By nature Rāmacandra Purī was envious and hostile to Hari, guru and the Vaiṣṇavas. Outwardly, however, he had left home, that is, he wore the dress of a *sannyāsī*, and for that reason alone people of that time called him “Gosāñi” (Gosvāmī). This shows that the title, befitting those who have left home, was not then given by caste, family or heredity, as it is now by a distorted social custom.
 
@@ -36,15 +36,15 @@ Taking Mahāprabhu to be a follower of Īśvara Purī, Rāmacandra Purī embrace
 
 ## 10
 
-> Subheading: Having himself fed Jagadānanda abundantly, he blames Gaura's associates as gluttons —
+> Subheading: Having himself fed Jagadānanda abundantly, he blames Gaura’s associates as gluttons —
 
 ## 13
 
-> Subheading: Gaura's associates, truly possessed of pure renunciation, he blames as lacking renunciation —
+> Subheading: Gaura’s associates, truly possessed of pure renunciation, he blames as lacking renunciation —
 
 ## 15
 
-> Subheading: Rāmacandra Purī's nature —
+> Subheading: Rāmacandra Purī’s nature —
 
 ## 16
 
@@ -66,11 +66,11 @@ Taking Mahāprabhu to be a follower of Īśvara Purī, Rāmacandra Purī embrace
 
 > Subheading: His guru, Mādhavendra Purī, seeing Rāmacandra as an offender, angrily rejects and rebukes him —
 
-Rāmacandra Purī saw that his guru, Śrī Mādhavendra, was suffering in separation from Śrī Kṛṣṇa, but he could not understand that this was the manifestation of transcendental separation (*vipralambha*). Reasoning in a worldly way and thinking his guru mortal, he concluded that his guru was grieving over some material lack, and he hastened to make him realize the impersonal Brahman. Then Mādhavendra Purī, seeing his disciple's foolishness and disrespect for the guru, ceased wishing him well, rejected him and drove him away.
+Rāmacandra Purī saw that his guru, Śrī Mādhavendra, was suffering in separation from Śrī Kṛṣṇa, but he could not understand that this was the manifestation of transcendental separation (*vipralambha*). Reasoning in a worldly way and thinking his guru mortal, he concluded that his guru was grieving over some material lack, and he hastened to make him realise the impersonal Brahman. Then Mādhavendra Purī, seeing his disciple’s foolishness and disrespect for the guru, ceased wishing him well, rejected him and drove him away.
 
 ## 24
 
-> Subheading: Through the offense of disrespect for the guru arises the desire for sense enjoyment, that is, worldly desire —
+> Subheading: Through the offence of disrespect for the guru arises the desire for sense enjoyment, that is, worldly desire —
 
 On this subject see such statements of scripture as these. The *Bhakti-sandarbha* (no. 111) quotes the words of the *Bhagavat-pariśiṣṭa* from the *Vāsanā-bhāṣya*: “Even those liberated in this life return to worldly desires if they offend the Lord of inconceivable, great power.” Śrī Jīva Gosvāmī, in his commentary *Laghu-toṣaṇī* on *Śrīmad-Bhāgavatam* 10.2.32, quotes another reading of the same words of the *Bhagavat-pariśiṣṭa* from the *Vāsanā-bhāṣya*: “Even those liberated in this life again fall into bondage through *karma* if they offend the Lord of inconceivable, great power.” And the *Śrī Viṣṇu-bhakti-candrodaya*, in connection with the Ratha-yātrā, quotes the words of another Purāṇa: “Those liberated in this life sometimes fall into worldly desires; but *yogīs* devoted to the Lord are not stained by *karma*.”
 
@@ -78,11 +78,11 @@ On this subject see such statements of scripture as these. The *Bhakti-sandarbha
 
 > Subheading: Not seeing the spiritual variety — Kṛṣṇa and what belongs to Kṛṣṇa (*kārṣṇa*), that is, His *svarūpa*, *tad-rūpa-vaibhava* and so on — he begins to blaspheme Viṣṇu —
 
-*Nirbandha* — a stubborn attachment to blaming others. The impersonalist Māyāvādīs are unskilled in knowledge of relationship (*sambandha-jñāna*), and so they cannot accept a relationship with Kṛṣṇa. By the force of mundane argument they apply mundane logic to Brahman. They take devotion to Kṛṣṇa for one of the rites of *karma-kāṇḍa*, which the seeker of liberation resorts to and which is rooted in the thirst to enjoy fruits. And they blame the Lord's devotees and their transcendental cultivation of devotion, thinking it merely a karmic practice that yields the four goals of life (*catur-varga*). A living being falls into such terrible ignorance only when he offends the feet of the guru or devotee who is beyond the senses (*adhokṣaja*).
+*Nirbandha* — a stubborn attachment to blaming others. The impersonalist Māyāvādīs are unskilled in knowledge of relationship (*sambandha-jñāna*), and so they cannot accept a relationship with Kṛṣṇa. By the force of mundane argument they apply mundane logic to Brahman. They take devotion to Kṛṣṇa for one of the rites of *karma-kāṇḍa*, which the seeker of liberation resorts to and which is rooted in the thirst to enjoy fruits. And they blame the Lord’s devotees and their transcendental cultivation of devotion, thinking it merely a karmic practice that yields the four goals of life (*catur-varga*). A living being falls into such terrible ignorance only when he offends the feet of the guru or devotee who is beyond the senses (*adhokṣaja*).
 
 ## 26
 
-> Subheading: Śrīla Īśvara Purī's exclusive devotion to his guru —
+> Subheading: Śrīla Īśvara Purī’s exclusive devotion to his guru —
 
 *Śrīpāda-sevana* — service to Śrī Mādhavendra Purīpāda.
 
@@ -92,11 +92,11 @@ On this subject see such statements of scripture as these. The *Bhakti-sandarbha
 
 ## 28
 
-> Subheading: Śrī Īśvara Purī receives his guru's grace —
+> Subheading: Śrī Īśvara Purī receives his guru’s grace —
 
 ## 29
 
-> Subheading: The difference in results: one obtained the guru's mercy, the other his displeasure and was therefore left deprived —
+> Subheading: The difference in results: one obtained the guru’s mercy, the other his displeasure and was therefore left deprived —
 
 ## 30
 
@@ -118,7 +118,7 @@ See Madhya 4.197.
 
 > Subheading: The inner meaning, that is, the purport of the verse —
 
-*Bhāva-viśeṣa* (a special feeling) — the manifestation of the feeling of separation. In the community of the *prākṛta-sahajiyās*, practitioners commit all kinds of excesses in the name of *sambhoga* (union), and so they obstruct the realization of the true nature of separation (*vipralambha*).
+*Bhāva-viśeṣa* (a special feeling) — the manifestation of the feeling of separation. In the community of the *prākṛta-sahajiyās*, practitioners commit all kinds of excesses in the name of *sambhoga* (union), and so they obstruct the realisation of the true nature of separation (*vipralambha*).
 
 ## 34
 
@@ -126,21 +126,21 @@ See Madhya 4.197.
 
 ## 35
 
-> Subheading: Hearing of Mādhavendra's departure, living beings learn service born of separation from Kṛṣṇa —
+> Subheading: Hearing of Mādhavendra’s departure, living beings learn service born of separation from Kṛṣṇa —
 
 ## 36
 
-> Subheading: Rāmacandra Purī's dry renunciation —
+> Subheading: Rāmacandra Purī’s dry renunciation —
 
 ## 37
 
 > Subheading: Rāmacandra Purī hunts for the faults of others —
 
-“Rāmacandra Purī passes his days keeping an account of others' affairs: where another *sannyāsī* takes alms and how much, where he stays, and so on.” *Niścaya* — account.
+“Rāmacandra Purī passes his days keeping an account of others’ affairs: where another *sannyāsī* takes alms and how much, where he stays, and so on.” *Niścaya* — account.
 
 ## 38
 
-> Subheading: The Lord's daily meals: Govinda and Kāśīśvara, disciples of Śrī Īśvara Purī, ate together with the Lord —
+> Subheading: The Lord’s daily meals: Govinda and Kāśīśvara, disciples of Śrī Īśvara Purī, ate together with the Lord —
 
 ## 40
 
@@ -164,21 +164,21 @@ See Madhya 4.197.
 
 ## 45
 
-> Subheading: Even hearing Himself blamed, the Lord gives Purī the honor due to his position, and thereby deceives him —
+> Subheading: Even hearing Himself blamed, the Lord gives Purī the honour due to his position, and thereby deceives him —
 
 ## 46
 
-> Subheading: One morning, seeing lines of ants in the Lord's house, he blames the renunciation of the Lord, Svayam Bhagavān, and leaves —
+> Subheading: One morning, seeing lines of ants in the Lord’s house, he blames the renunciation of the Lord, Svayam Bhagavān, and leaves —
 
 ## 47
 
 > Subheading: (The words of Rāmacandra Purī)
 
-Mahāprabhu is Svayam Bhagavān, the complete and faultless form, beyond such material qualities as contemptibility. Rāmacandra tried hard to find some fault or other in Him but did not succeed. He saw no sweets of any kind in the Lord's house, but, noticing many ants crawling about, he guessed that there had been molasses there at night. His aim was to point out some fault and thereby magnify himself.
+Mahāprabhu is Svayam Bhagavān, the complete and faultless form, beyond such material qualities as contemptibility. Rāmacandra tried hard to find some fault or other in Him but did not succeed. He saw no sweets of any kind in the Lord’s house, but, noticing many ants crawling about, he guessed that there had been molasses there at night. His aim was to point out some fault and thereby magnify himself.
 
 ## 48
 
-> Subheading: With His own ears the Lord hears Purī's false blame —
+> Subheading: With His own ears the Lord hears Purī’s false blame —
 
 ## 49
 
@@ -200,7 +200,7 @@ The rice *prasāda* of Jagannāthadeva is obtained in clay pots. A quarter of a 
 
 ## 53
 
-> Subheading: The Lord's stern order is announced to all the devotees; all are in terrible grief —
+> Subheading: The Lord’s stern order is announced to all the devotees; all are in terrible grief —
 
 ## 54
 
@@ -228,7 +228,7 @@ The rice *prasāda* of Jagannāthadeva is obtained in clay pots. A quarter of a 
 
 ## 61
 
-> Subheading: The Lord, in the role of the *ācārya* who honors others (*mānada*), always honors Rāmacandra —
+> Subheading: The Lord, in the role of the *ācārya* who honours others (*mānada*), always honours Rāmacandra —
 
 ## 62
 
@@ -254,19 +254,19 @@ O Arjuna, **atyaśnataḥ** (of one accustomed to eating too much) **tu** **yoga
 
 ## 67
 
-> Subheading: The Lord's humble words — the ideal of the *dharma* of one who seeks no honor (*amānī*) —
+> Subheading: The Lord’s humble words — the ideal of the *dharma* of one who seeks no honour (*amānī*) —
 
 ## 68
 
-> Subheading: He hears that the Lord's devotees eat half —
+> Subheading: He hears that the Lord’s devotees eat half —
 
 ## 69
 
-> Subheading: One day the devotees headed by Paramānanda Purī appeal to the Lord about how much He should eat (literally, “about taking measured food”) and censure before Him Rāmacandra Purī's nature and conduct —
+> Subheading: One day the devotees headed by Paramānanda Purī appeal to the Lord about how much He should eat (literally, “about taking measured food”) and censure before Him Rāmacandra Purī’s nature and conduct —
 
 ## 75
 
-> Subheading: Seeking others' weak points and faults in order to harm them is contrary to scripture and forbidden —
+> Subheading: Seeking others’ weak points and faults in order to harm them is contrary to scripture and forbidden —
 
 ## 76
 
@@ -294,21 +294,21 @@ In the verse *para-svabhāva…* we find an earlier injunction, “do not praise
 
 ## 80
 
-> Subheading: Rāmacandra's conduct and nature cause the devotees piercing pain —
+> Subheading: Rāmacandra’s conduct and nature cause the devotees piercing pain —
 
 *Pāya* — “having suffered.”
 
 ## 81
 
-> Subheading: Taking Rāmacandra's words as worthless, they ask the Lord to eat —
+> Subheading: Taking Rāmacandra’s words as worthless, they ask the Lord to eat —
 
 ## 82
 
-> Subheading: The Lord, guru of the world and teacher of people, establishes the rules of the *dharma* of renunciants. One who equates Īśvara, who is above all rules, with the dependent conditioned *jīva* is a *prākṛta-sahajiyā*. And the Lord, though Himself Īśvara, regards Himself as a *jīva* bound by the rules of renunciation and teaches the *ācārya* in a renunciant's dress detachment (*nairapekṣya*) —[^82-1]
+> Subheading: The Lord, guru of the world and teacher of people, establishes the rules of the *dharma* of renunciants. One who equates Īśvara, who is above all rules, with the dependent conditioned *jīva* is a *prākṛta-sahajiyā*. And the Lord, though Himself Īśvara, regards Himself as a *jīva* bound by the rules of renunciation and teaches the *ācārya* in a renunciant’s dress detachment (*nairapekṣya*) —[^82-1]
 
 ## 84
 
-> Subheading: At the devotees' insistence the Lord agrees to eat half —
+> Subheading: At the devotees’ insistence the Lord agrees to eat half —
 
 ## 86
 
@@ -320,7 +320,7 @@ In the verse *para-svabhāva…* we find an earlier injunction, “do not praise
 
 ## 90
 
-> Subheading: The purpose of the Lord's descent and the way He acts —
+> Subheading: The purpose of the Lord’s descent and the way He acts —
 
 ## 91
 
@@ -340,7 +340,7 @@ In the verse *para-svabhāva…* we find an earlier injunction, “do not praise
 
 ## 95
 
-> Subheading: The devotees' hearts are relieved, and they breathe freely again —
+> Subheading: The devotees’ hearts are relieved, and they breathe freely again —
 
 ## 96
 
@@ -360,10 +360,10 @@ In the verse *para-svabhāva…* we find an earlier injunction, “do not praise
 
 ## 100
 
-> Subheading: Simply by hearing of Caitanya's deeds one attains love for Kṛṣṇa —
+> Subheading: Simply by hearing of Caitanya’s deeds one attains love for Kṛṣṇa —
 
 *Thus ends the eighth chapter of the “Anubhāṣya.”*
 
 ---
 
-[^82-1]: It is not clear from the text who this *ācārya* in a renunciant's dress is; from the course of the story, probably Paramānanda Purī, who together with the devotees appeals to the Lord (vv. 69–81). Another reading is also possible: the “ācārya in a renunciant’s dress” is the Lord Himself, who, accepting the reproach, thereby teaches others (cf. subheadings 50 and 61).
+[^82-1]: It is not clear from the text who this *ācārya* in a renunciant’s dress is; from the course of the story, probably Paramānanda Purī, who together with the devotees appeals to the Lord (vv. 69–81). Another reading is also possible: the “ācārya in a renunciant’s dress” is the Lord Himself, who, accepting the reproach, thereby teaches others (cf. subheadings 50 and 61).

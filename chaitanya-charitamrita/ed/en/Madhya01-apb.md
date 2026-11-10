@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** This chapter gives the *sūtras* (brief notes) of the whole of Mahāprabhu's Madhya-līlā and of His pastimes in the first six years of the Śeṣa-līlā. By reciting the verse “*yaḥ kaumāra-haraḥ*,” Mahāprabhu expressed the mood that had seized Him. Śrī Rūpa Gosvāmī made that mood clear in his verse “*so 'yaṁ kṛṣṇaḥ*,” and for this reason Mahāprabhu showed Rūpa special mercy. This chapter names the books written by Rūpa, Sanātana and Jīva Gosvāmī. In the village of Rāmakeli, Mahāprabhu bestowed His mercy on Rūpa and Sanātana.
+**Summary.** This chapter gives the *sūtras* (brief notes) of the whole of Mahāprabhu’s Madhya-līlā and of His pastimes in the first six years of the Śeṣa-līlā. By reciting the verse “*yaḥ kaumāra-haraḥ*,” Mahāprabhu expressed the mood that had seized Him. Śrī Rūpa Gosvāmī made that mood clear in his verse “*so ’yaṁ kṛṣṇaḥ*,” and for this reason Mahāprabhu showed Rūpa special mercy. This chapter names the books written by Rūpa, Sanātana and Jīva Gosvāmī. In the village of Rāmakeli, Mahāprabhu bestowed His mercy on Rūpa and Sanātana.
 
 ## 1
 
@@ -30,7 +30,7 @@ See Ādi 1.17.
 
 ## 35
 
-***Bhāgavatāmṛta*** — the *Bṛhad-bhāgavatāmṛta*. ***Daśama-ṭippanī*** — the commentary on the Tenth Canto called *Bṛhad-vaiṣṇava-toṣaṇī*. ***Daśama-carita*** — the account of Kṛṣṇa's pastimes described in the Tenth Canto.
+***Bhāgavatāmṛta*** — the *Bṛhad-bhāgavatāmṛta*. ***Daśama-ṭippanī*** — the commentary on the Tenth Canto called *Bṛhad-vaiṣṇava-toṣaṇī*. ***Daśama-carita*** — the account of Kṛṣṇa’s pastimes described in the Tenth Canto.
 
 ## 37
 
@@ -50,15 +50,15 @@ See Ādi 1.17.
 
 ## 50
 
-The Lord and the Lord's devotees were not happy without meeting one another.
+The Lord and the Lord’s devotees were not happy without meeting one another.
 
 ## 51
 
-The pastime of the *gopīs'* separation from Kṛṣṇa was always awake in the Lord's inner being, that is, in His *antaḥkaraṇa*.
+The pastime of the *gopīs’* separation from Kṛṣṇa was always awake in the Lord’s inner being, that is, in His *antaḥkaraṇa*.
 
 ## 53
 
-When Kṛṣṇa performed a sacrifice at Kurukṣetra and invited the residents of Vraja, the *gopīs* went there and gained the happiness of seeing Kṛṣṇa. In the Lord's inner being the mood of separation from Kṛṣṇa was awake, and only when He gazed at Jagannātha did the mood of the meeting at Kurukṣetra arise in His heart.
+When Kṛṣṇa performed a sacrifice at Kurukṣetra and invited the residents of Vraja, the *gopīs* went there and gained the happiness of seeing Kṛṣṇa. In the Lord’s inner being the mood of separation from Kṛṣṇa was awake, and only when He gazed at Jagannātha did the mood of the meeting at Kurukṣetra arise in His heart.
 
 ## 56
 
@@ -66,7 +66,7 @@ Not finding satisfaction in the meeting at Kurukṣetra, He constantly felt in H
 
 ## 58
 
-He who stole My heart in My girlhood, on the bank of the river Revā, has now become My husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love's doings. Even so, in this state My heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
+He who stole My heart in My girlhood, on the bank of the river Revā, has now become My husband; that same night of the month of Madhu has come again; there is the fragrance of the opened *mālatī* flowers; from the *kadamba* grove the breeze blows sweet as honey; and I, that same heroine, am present in the play of love’s doings. Even so, in this state My heart is not content, but longs intensely for the shade of the *vetasī* trees on the bank of the Revā.
 
 ## 59
 
@@ -74,7 +74,7 @@ He who stole My heart in My girlhood, on the bank of the river Revā, has now be
 
 ## 63
 
-Haridāsa Ṭhākura was a Kazi's son; fearing to violate the order of the temple, he did not go into the Śrī-mandira. Rūpa and Sanātana, considering themselves “lower than a blade of grass” and thinking that their right of entry was the same as that of people of low birth, also did not go into the Śrī-mandira.
+Haridāsa Ṭhākura was a Kazi’s son; fearing to violate the order of the temple, he did not go into the Śrī-mandira. Rūpa and Sanātana, considering themselves “lower than a blade of grass” and thinking that their right of entry was the same as that of people of low birth, also did not go into the Śrī-mandira.
 
 ## 64
 
@@ -92,7 +92,7 @@ O friend! My most beloved Kṛṣṇa has met Me today at Kurukṣetra, and I am
 
 The *gopīs* said: “O Lotus-navelled One! Your lotus feet are the one support that rescues those who have fallen into the well of *saṁsāra*, and the *yogeśvaras* of deep intelligence must always contemplate them in their hearts. May they arise in the minds of us who are engaged in household life.”
 
-In some readings the following verse is found: (*Śrīmad-Bhāgavatam* 10.83.2) “Thus questioned by the Lord of the worlds and honored well, they replied with glad minds, for their sins had been destroyed by the sight of His feet.”
+In some readings the following verse is found: (*Śrīmad-Bhāgavatam* 10.83.2) “Thus questioned by the Lord of the worlds and honoured well, they replied with glad minds, for their sins had been destroyed by the sight of His feet.”
 
 ## 84
 
@@ -128,13 +128,13 @@ On His way to Vṛndāvana the Lord came to Gauḍa-maṇḍala and stayed in th
 
 ## 151
 
-After staying five days at Vidyānagara and seeing great crowds gather, the Lord came at night to the village of Kuliyā. In the *Śrī Caitanya-bhāgavata*, in the third chapter of the Antya-khaṇḍa, it is written: “With great love for the Gaṅgā, He came very quickly to the land of Gauḍa. Sārvabhauma's brother was named ‘Vidyā-vācaspati.’ … Suddenly He came and stopped at his house. From Navadvīpa onward the news spread in every direction: ‘The jewel of renunciates has come to Vācaspati's house.’ The Lord of Vaikuṇṭha came to Kuliyā. … Only the Gaṅgā lies between Nadiyā and Kuliyā. As soon as they heard, all the people ran in great joy.”
+After staying five days at Vidyānagara and seeing great crowds gather, the Lord came at night to the village of Kuliyā. In the *Śrī Caitanya-bhāgavata*, in the third chapter of the Antya-khaṇḍa, it is written: “With great love for the Gaṅgā, He came very quickly to the land of Gauḍa. Sārvabhauma’s brother was named ‘Vidyā-vācaspati.’ … Suddenly He came and stopped at his house. From Navadvīpa onward the news spread in every direction: ‘The jewel of renunciates has come to Vācaspati’s house.’ The Lord of Vaikuṇṭha came to Kuliyā. … Only the Gaṅgā lies between Nadiyā and Kuliyā. As soon as they heard, all the people ran in great joy.”
 
-If this chapter of the *Caitanya-bhāgavata* is read together with Locana dāsa's account, it will be clear that the place now known as “Navadvīpa” is the Kuliyā village of that time, on the other bank from ancient Navadvīpa. It was there that the offenses of Devānanda Paṇḍita, Gopāla Cāpāla and several others were forgiven. At that time, to go from Vidyānagara to Kuliyā one had to cross one branch of the Gaṅgā, and to go from Kuliyā to Navadvīpa one had to cross the main stream of the Bhāgīrathī. Even today a look at these places shows that the quarters of the Kuliyā of that time, such as “Cināḍāṅgā,” and the *gañja* (market) of Kuliyā, now called “Koler-gañja” — all that land is what remains of the Kuliyā of that time.
+If this chapter of the *Caitanya-bhāgavata* is read together with Locana dāsa’s account, it will be clear that the place now known as “Navadvīpa” is the Kuliyā village of that time, on the other bank from ancient Navadvīpa. It was there that the offences of Devānanda Paṇḍita, Gopāla Cāpāla and several others were forgiven. At that time, to go from Vidyānagara to Kuliyā one had to cross one branch of the Gaṅgā, and to go from Kuliyā to Navadvīpa one had to cross the main stream of the Bhāgīrathī. Even today a look at these places shows that the quarters of the Kuliyā of that time, such as “Cināḍāṅgā,” and the *gañja* (market) of Kuliyā, now called “Koler-gañja” — all that land is what remains of the Kuliyā of that time.
 
 ## 160–162
 
-When it was said that Mahāprabhu would go from Kuliyā to Vṛndāvana, His supreme devotee Śrī Nṛsiṁhānanda in meditation began to pave the road from Kuliyā to Vṛndāvana. The road was paved as far as Kānāi's Nāṭaśālā, near Gauḍa, but then his mind became disturbed and his meditation broke. Nṛsiṁhānanda then said, “This time Mahāprabhu will go only as far as Kānāi's Nāṭaśālā, not as far as Vṛndāvana.”
+When it was said that Mahāprabhu would go from Kuliyā to Vṛndāvana, His supreme devotee Śrī Nṛsiṁhānanda in meditation began to pave the road from Kuliyā to Vṛndāvana. The road was paved as far as Kānāi’s Nāṭaśālā, near Gauḍa, but then his mind became disturbed and his meditation broke. Nṛsiṁhānanda then said, “This time Mahāprabhu will go only as far as Kānāi’s Nāṭaśālā, not as far as Vṛndāvana.”
 
 ## 166
 
@@ -166,11 +166,11 @@ We keep company with those low people who are born in low castes, and we do low 
 
 ## 190
 
-There is no sinner like me, and no offender like me. O Puruṣottama, I am ashamed even to mention the sins and offenses I have committed and to try to be rid of them.
+There is no sinner like me, and no offender like me. O Puruṣottama, I am ashamed even to mention the sins and offences I have committed and to try to be rid of them.
 
 ## 192–195
 
-You did not have to labor greatly to deliver Jagāi and Mādhāi. We are lower than they, and delivering us is a special task. Jagāi and Mādhāi were brāhmaṇas by birth who had not fallen from their position, and they lived in the great holy place Navadvīpa. Unlike us, they never served low people. They were not the “elbow” (*kūrpara*) of low people — low people did not maintain them; they were merely sinners. All sins are burned up by the mere *nāmābhāsa* of Your name. And since, while uttering Your name, they blasphemed You, that very name became the cause of their release from sin.
+You did not have to labour greatly to deliver Jagāi and Mādhāi. We are lower than they, and delivering us is a special task. Jagāi and Mādhāi were brāhmaṇas by birth who had not fallen from their position, and they lived in the great holy place Navadvīpa. Unlike us, they never served low people. They were not the “elbow” (*kūrpara*) of low people — low people did not maintain them; they were merely sinners. All sins are burned up by the mere *nāmābhāsa* of Your name. And since, while uttering Your name, they blasphemed You, that very name became the cause of their release from sin.
 
 ## 197
 
@@ -194,7 +194,7 @@ A woman in love with another man, even while busy with household chores, tastes 
 
 ## 227
 
-*Kṛṣṇa-caritra-līlā*. In those days in many places in Gauḍa there was an arrangement called a “Kānāi-Nāṭaśālā.” At the Kānāi-Nāṭaśālā near Gauḍa the Lord saw many kinds of depictions of Kṛṣṇa's pastimes.
+*Kṛṣṇa-caritra-līlā*. In those days in many places in Gauḍa there was an arrangement called a “Kānāi-Nāṭaśālā.” At the Kānāi-Nāṭaśālā near Gauḍa the Lord saw many kinds of depictions of Kṛṣṇa’s pastimes.
 
 ## 281
 

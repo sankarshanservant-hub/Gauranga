@@ -32,6 +32,6 @@ It is not the house that is called “home”; the mistress of the house is call
 
 ---
 
-[^0-1]: Purandara Miśra is another name of Jagannātha Miśra, the Lord's father.
+[^0-1]: Purandara Miśra is another name of Jagannātha Miśra, the Lord’s father.
 
 [^1-1]: A play on words: *sumanas* means both “flower” and “good mind.”

@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** At Āriṭ-grāma Mahāprabhu discovered Rādhā-kuṇḍa and Śyāma-kuṇḍa, and then at Govardhana He had *darśana* of Harideva. The Lord would not climb Govardhana to see Gopāla, and so Gopāla, on the pretext (*chala*) of fear of the *mlecchas*, came down from Annakūṭa-grāma to the village of Gāṭholī. Mahāprabhu went there and had His *darśana*. Long afterwards, to mercifully give *darśana* to the best of devotees, Śrī Rūpa Gosvāmī, Gopāla came to Mathurā and stayed “for a month” in the temple of Viṭhṭhaleśvara; Kavirāja Gosvāmī tells of this here, in passing. Mahāprabhu saw Nandīśvara, Pāvana-sarovara, Śeṣaśāyī, Khelā-tīrtha, Bhāṇḍīravana, Bhadravana, Lohavana, Mahāvana and other places, and after seeing Gokula He returned to Mathurā. He took up lodging at Akrūra-ghāṭa and every day went to Vṛndāvana, visiting Kālīya-hrada, Dvādaśāditya-ghāṭa, Keśī-ghāṭa, Rāsa-sthalī, Cīra-ghāṭa, Āmli-talā and other places. At night a fisherman used to catch fish in Kālīya-hrada, and many people took him for “Kṛṣṇa” and came looking for him. But when they saw Mahāprabhu, their mistaken notion (*vivarta-buddhi*) was dispelled, and Kṛṣṇa was revealed to them all. Then the Lord established that a *sannyāsī*, that is, a *jīva*, is a particle of spirit (*cit-kaṇa*). At Akrūra-ghāṭa the Lord would stay submerged in the water for a long time, and so Balabhadra Bhaṭṭācārya decided to take Mahāprabhu from Vraja-maṇḍala to Prayāga. Resolving, “We shall bathe in the Gaṅgā at Soro-kṣetra and then go to Prayāga,” they set out. On the way, in a certain village, Bijalī Khān, who was riding with Paṭhān horsemen, saw the Lord lying unconscious in ecstatic love. He said, “His companions have drugged Him with *dhuturā*, killed Him, and are taking His wealth,” and he had the Lord's companions bound. When the Lord's ecstasy subsided, He conversed with a Muslim teacher (*mleccha-ācārya*) of Bijalī Khān's band and examined the scriptures with him; in this way the Lord established “devotion to Kṛṣṇa” from the Koran itself. Bijalī Khān and the horsemen under him took shelter at Mahāprabhu's feet and became “devotees of Kṛṣṇa.” At that place there still stands a village known as “the village of the Paṭhān Vaiṣṇavas.” After bathing in the Gaṅgā at Soro, the Lord reached Triveṇī.
+**Summary.** At Āriṭ-grāma Mahāprabhu discovered Rādhā-kuṇḍa and Śyāma-kuṇḍa, and then at Govardhana He had *darśana* of Harideva. The Lord would not climb Govardhana to see Gopāla, and so Gopāla, on the pretext (*chala*) of fear of the *mlecchas*, came down from Annakūṭa-grāma to the village of Gāṭholī. Mahāprabhu went there and had His *darśana*. Long afterwards, to mercifully give *darśana* to the best of devotees, Śrī Rūpa Gosvāmī, Gopāla came to Mathurā and stayed “for a month” in the temple of Viṭhṭhaleśvara; Kavirāja Gosvāmī tells of this here, in passing. Mahāprabhu saw Nandīśvara, Pāvana-sarovara, Śeṣaśāyī, Khelā-tīrtha, Bhāṇḍīravana, Bhadravana, Lohavana, Mahāvana and other places, and after seeing Gokula He returned to Mathurā. He took up lodging at Akrūra-ghāṭa and every day went to Vṛndāvana, visiting Kālīya-hrada, Dvādaśāditya-ghāṭa, Keśī-ghāṭa, Rāsa-sthalī, Cīra-ghāṭa, Āmli-talā and other places. At night a fisherman used to catch fish in Kālīya-hrada, and many people took him for “Kṛṣṇa” and came looking for him. But when they saw Mahāprabhu, their mistaken notion (*vivarta-buddhi*) was dispelled, and Kṛṣṇa was revealed to them all. Then the Lord established that a *sannyāsī*, that is, a *jīva*, is a particle of spirit (*cit-kaṇa*). At Akrūra-ghāṭa the Lord would stay submerged in the water for a long time, and so Balabhadra Bhaṭṭācārya decided to take Mahāprabhu from Vraja-maṇḍala to Prayāga. Resolving, “We shall bathe in the Gaṅgā at Soro-kṣetra and then go to Prayāga,” they set out. On the way, in a certain village, Bijalī Khān, who was riding with Paṭhān horsemen, saw the Lord lying unconscious in ecstatic love. He said, “His companions have drugged Him with *dhuturā*, killed Him, and are taking His wealth,” and he had the Lord’s companions bound. When the Lord’s ecstasy subsided, He conversed with a Muslim teacher (*mleccha-ācārya*) of Bijalī Khān’s band and examined the scriptures with him; in this way the Lord established “devotion to Kṛṣṇa” from the Koran itself. Bijalī Khān and the horsemen under him took shelter at Mahāprabhu’s feet and became “devotees of Kṛṣṇa.” At that place there still stands a village known as “the village of the Paṭhān Vaiṣṇavas.” After bathing in the Gaṅgā at Soro, the Lord reached Triveṇī.
 
 ## 1
 
@@ -34,7 +34,7 @@ Gauracandra had vowed, “I will not climb the hill of Govardhana,” and He tho
 
 ## 34
 
-This hill, Govardhana, is the foremost of Vaiṣṇavas, because, thrilled by the bliss of the touch of Rāma's and Kṛṣṇa's feet, he regales Rādhā and Kṛṣṇa[^34-1] together with the cows and cowherd boys: he gives water for the cowherds to drink and food — grass, bulbs, roots and the like.
+This hill, Govardhana, is the foremost of Vaiṣṇavas, because, thrilled by the bliss of the touch of Rāma’s and Kṛṣṇa’s feet, he regales Rādhā and Kṛṣṇa[^34-1] together with the cows and cowherd boys: he gives water for the cowherds to drink and food — grass, bulbs, roots and the like.
 
 ## 38
 
@@ -42,11 +42,11 @@ May you be protected by the left arm of lotus-eyed Śrī Kṛṣṇa, with which
 
 ## 45–47
 
-Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew the hill of Śrī Govardhana to be directly the form of Bhagavān, and they did not climb it. Just as Gopāla gave *darśana* to Śrī Mahāprabhu, so He gave *darśana* to them as well. In his old age Śrī Rūpa Gosvāmī could no longer go to Govardhana, and the desire arose in him to see Gopāla's beauty. Wishing to show mercy to Śrī Rūpa Gosvāmī too, Gopāla raised the same “pretext” of fear of the *mlecchas* and stayed for a month in Mathurā, in the house of Viṭhṭhaleśvara.
+Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew the hill of Śrī Govardhana to be directly the form of Bhagavān, and they did not climb it. Just as Gopāla gave *darśana* to Śrī Mahāprabhu, so He gave *darśana* to them as well. In his old age Śrī Rūpa Gosvāmī could no longer go to Govardhana, and the desire arose in him to see Gopāla’s beauty. Wishing to show mercy to Śrī Rūpa Gosvāmī too, Gopāla raised the same “pretext” of fear of the *mlecchas* and stayed for a month in Mathurā, in the house of Viṭhṭhaleśvara.
 
 ## 52
 
-*Laghu-haridāsa*: many Vaiṣṇavas bore the name “Haridāsa,” so other Vaiṣṇavas would add epithets such as “Laghu” (junior) and “Madhyama” (middle) to the Haridāsas' names. The “Laghu-haridāsa” (Choṭa Haridāsa) of Mahāprabhu's time gave up his body at Prayāga; this “Laghu Haridāsa” is someone else.
+*Laghu-haridāsa*: many Vaiṣṇavas bore the name “Haridāsa,” so other Vaiṣṇavas would add epithets such as “Laghu” (junior) and “Madhyama” (middle) to the Haridāsas’ names. The “Laghu-haridāsa” (Choṭa Haridāsa) of Mahāprabhu’s time gave up his body at Prayāga; this “Laghu Haridāsa” is someone else.
 
 ## 75
 
@@ -54,7 +54,7 @@ Later, when Śrī Rūpa and Sanātana came and settled in Vraja, they too knew t
 
 ## 106–108
 
-*Sthāṇu* is a tree without leaves. Seeing a leafless tree from a distance, one mistakenly thinks, “Some man is coming.” In the same way the people of Vraja fell into error: they took the fisherman's boat for Kāliya, the lamp on it for a jewel, and the fisherman catching fish for Kṛṣṇa.
+*Sthāṇu* is a tree without leaves. Seeing a leafless tree from a distance, one mistakenly thinks, “Some man is coming.” In the same way the people of Vraja fell into error: they took the fisherman’s boat for Kāliya, the lamp on it for a jewel, and the fisherman catching fish for Kṛṣṇa.
 
 ## 112–113
 
@@ -70,7 +70,7 @@ One who sees Śrī Nārāyaṇa as “equal” to Brahmā, Rudra and the other g
 
 ## 126
 
-The characteristic by which a thing is known of itself (*svataḥ-siddha-lakṣaṇa*), without comparison with other things, is its *svarūpa-lakṣaṇa* (essential characteristic). The characteristic by which a thing becomes known through comparison with other things is called *taṭastha* (marginal). All the glories described above, as marginal characteristics, have established that You are “Vrajendra-nandana.” But the realization that arises the moment one sees You — “This is Vrajendra-nandana” — is Your *svarūpa-lakṣaṇa*; it is by this essential characteristic that You are recognized as “Kṛṣṇa.”
+The characteristic by which a thing is known of itself (*svataḥ-siddha-lakṣaṇa*), without comparison with other things, is its *svarūpa-lakṣaṇa* (essential characteristic). The characteristic by which a thing becomes known through comparison with other things is called *taṭastha* (marginal). All the glories described above, as marginal characteristics, have established that You are “Vrajendra-nandana.” But the realisation that arises the moment one sees You — “This is Vrajendra-nandana” — is Your *svarūpa-lakṣaṇa*; it is by this essential characteristic that You are recognised as “Kṛṣṇa.”
 
 ## 135
 
@@ -82,7 +82,7 @@ Akrūra-ghāṭa: this *ghāṭa* lies halfway between Vṛndāvana and Mathurā
 
 ## 165
 
-*Bāṭoyāra*: those who rob on the roads; *māri' ḍāriyāche*: they have killed.
+*Bāṭoyāra*: those who rob on the roads; *māri’ ḍāriyāche*: they have killed.
 
 ## 170
 
@@ -98,7 +98,7 @@ Akrūra-ghāṭa: this *ghāṭa* lies halfway between Vṛndāvana and Mathurā
 
 ## 194
 
-Unless one serves that Lord with *ibādat* — that is, with prayer (*namāz*) five times a day and so on — the *jīva* does not attain the goal of life. Your scripture calls love (*prīti*) itself the goal of life. Therefore, after first establishing *karma*, *yoga*, *jñāna* and the rest, at the very end it refutes them and establishes the supremacy of the Lord's *ibādat*, that is, of service to Him.
+Unless one serves that Lord with *ibādat* — that is, with prayer (*namāz*) five times a day and so on — the *jīva* does not attain the goal of life. Your scripture calls love (*prīti*) itself the goal of life. Therefore, after first establishing *karma*, *yoga*, *jñāna* and the rest, at the very end it refutes them and establishes the supremacy of the Lord’s *ibādat*, that is, of service to Him.
 
 ## 199–200
 

@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** Next the Lord described the characteristics of *bhāva*, the characteristics of *prema* and of its appearance, and the characteristic behavior of those in whom *bhāva* has arisen. He explained how *prema* gradually becomes *mahābhāva*. Explaining the five kinds of *rati*, He explained the corresponding *rasas*, spoke of the position (*sthiti*) of the *rasas*, established the supremacy of *śṛṅgāra-rasa* over all the others, and described its two kinds, *svakīya* and *parakīya*. He explained Kṛṣṇa's sixty-four qualities and Rādhikā's twenty-five qualities, and described the nature of one qualified for *kṛṣṇa-bhakti-rasa* and his eight characteristics (*aṣṭāṅga-lakṣaṇa*). The Lord taught Sanātana the confidential conclusions of the *Bhāgavatam*, the eternal pastimes of Goloka described in the *Harivaṁśa*, and the wrong and the true explanation of the *keśa-avatāra* (the “hair incarnation”). Having taught him all this, He placed His hand on Sanātana's head and invested him with His power.
+**Summary.** Next the Lord described the characteristics of *bhāva*, the characteristics of *prema* and of its appearance, and the characteristic behaviour of those in whom *bhāva* has arisen. He explained how *prema* gradually becomes *mahābhāva*. Explaining the five kinds of *rati*, He explained the corresponding *rasas*, spoke of the position (*sthiti*) of the *rasas*, established the supremacy of *śṛṅgāra-rasa* over all the others, and described its two kinds, *svakīya* and *parakīya*. He explained Kṛṣṇa’s sixty-four qualities and Rādhikā’s twenty-five qualities, and described the nature of one qualified for *kṛṣṇa-bhakti-rasa* and his eight characteristics (*aṣṭāṅga-lakṣaṇa*). The Lord taught Sanātana the confidential conclusions of the *Bhāgavatam*, the eternal pastimes of Goloka described in the *Harivaṁśa*, and the wrong and the true explanation of the *keśa-avatāra* (the “hair incarnation”). Having taught him all this, He placed His hand on Sanātana’s head and invested him with His power.
 
 ## 1
 
@@ -22,11 +22,11 @@ When that *bhāva* softens the heart completely, is marked by an intense sense o
 
 ## 8
 
-“Exclusive *mamatā* toward Viṣṇu” means that Viṣṇu alone is the object of the sense “He is mine,” and no one else. Bhīṣma, Prahlāda, Uddhava, Nārada and other Vaiṣṇavas call such *mamatā*, joined with *prema*, (*prema-*)*bhakti*.
+“Exclusive *mamatā* towards Viṣṇu” means that Viṣṇu alone is the object of the sense “He is mine,” and no one else. Bhīṣma, Prahlāda, Uddhava, Nārada and other Vaiṣṇavas call such *mamatā*, joined with *prema*, (*prema-*)*bhakti*.
 
 ## 9–13
 
-If by some *sukṛti* that turns one toward *bhakti* a *jīva* comes to have faith (*śraddhā*) in exclusive devotion (*ananya-bhakti*), that *jīva* seeks the company of sādhus, pure devotees. From that company of sādhus arise hearing and chanting (*śravaṇa-kīrtana*). To the extent that hearing and chanting go on, to that extent *sādhana-bhakti* removes all *anarthas*. From the time faith arises, hearing and chanting remove the gross *anarthas*, and then faith itself rises as *niṣṭhā*, steadiness in exclusive devotion. *Niṣṭhā* gradually becomes *ruci*. Then from that taste *āsakti* is born. When *āsakti* becomes pure, *bhāva*, or *rati*, appears — the sprout of love for Kṛṣṇa (*kṛṣṇa-prīti*). When that *rati* deepens, it receives the name *prema*. That *prema* is the *prayojana-tattva*, the abode of all bliss.
+If by some *sukṛti* that turns one towards *bhakti* a *jīva* comes to have faith (*śraddhā*) in exclusive devotion (*ananya-bhakti*), that *jīva* seeks the company of sādhus, pure devotees. From that company of sādhus arise hearing and chanting (*śravaṇa-kīrtana*). To the extent that hearing and chanting go on, to that extent *sādhana-bhakti* removes all *anarthas*. From the time faith arises, hearing and chanting remove the gross *anarthas*, and then faith itself rises as *niṣṭhā*, steadiness in exclusive devotion. *Niṣṭhā* gradually becomes *ruci*. Then from that taste *āsakti* is born. When *āsakti* becomes pure, *bhāva*, or *rati*, appears — the sprout of love for Kṛṣṇa (*kṛṣṇa-prīti*). When that *rati* deepens, it receives the name *prema*. That *prema* is the *prayojana-tattva*, the abode of all bliss.
 
 ## 14–15
 
@@ -34,7 +34,7 @@ First faith; from it, the company of sādhus; from that, *bhajana-kriyā* (the p
 
 ## 18–19
 
-*Kṣānti* means forbearance (*kṣamā*); *avyartha-kālatva*, such effort that no time passes in vain; *virakti*, detachment from everything not related to Kṛṣṇa; *māna-śūnyatā*, freedom from pride even when there is reason for pride; *āśā-bandha* (firm hope); *samutkaṇṭhā* (eager longing); a constant taste for singing Kṛṣṇa's name; attachment to describing His qualities; love for the places where He lived. Such *anubhāvas* are seen in a person's nature when the sprout of *bhāva* has been born in him.
+*Kṣānti* means forbearance (*kṣamā*); *avyartha-kālatva*, such effort that no time passes in vain; *virakti*, detachment from everything not related to Kṛṣṇa; *māna-śūnyatā*, freedom from pride even when there is reason for pride; *āśā-bandha* (firm hope); *samutkaṇṭhā* (eager longing); a constant taste for singing Kṛṣṇa’s name; attachment to describing His qualities; love for the places where He lived. Such *anubhāvas* are seen in a person’s nature when the sprout of *bhāva* has been born in him.
 
 ## 21
 
@@ -42,7 +42,7 @@ First faith; from it, the company of sādhus; from that, *bhajana-kriyā* (the p
 
 ## 23
 
-Tears stream from the devotees' eyes as they praise the Lord with words, remember Him with the mind and bow to Him with the body — and still they cannot be satisfied. By such acts they offer their whole life to Śrī Hari (that is, spend it for His sake).
+Tears stream from the devotees’ eyes as they praise the Lord with words, remember Him with the mind and bow to Him with the body — and still they cannot be satisfied. By such acts they offer their whole life to Śrī Hari (that is, spend it for His sake).
 
 ## 24
 
@@ -54,7 +54,7 @@ Filled with *rati* for Hari, this crest jewel of kings, begging alms in the city
 
 ## 27
 
-“I have no *prema*, no hearing and so on, no *bhakti*, no Vaiṣṇava *yoga*, no knowledge, no pious deeds, no good birth — nothing at all. O Gopījana-vallabha, You fulfill the aims of those who have nothing (*akiñcana*). And in my heart there is a pure hope turned toward You, whose roots cannot be severed — and it torments me.”
+“I have no *prema*, no hearing and so on, no *bhakti*, no Vaiṣṇava *yoga*, no knowledge, no pious deeds, no good birth — nothing at all. O Gopījana-vallabha, You fulfil the aims of those who have nothing (*akiñcana*). And in my heart there is a pure hope turned towards You, whose roots cannot be severed — and it torments me.”
 
 ## 30
 
@@ -70,7 +70,7 @@ In the fortunate person in whose heart new *prema* has arisen, the acts and *mud
 
 ## 47
 
-*Udbhāsvara* is a particular bodily (*āṅgika*) *anubhāva*. It is of five kinds: disorder in one's dress and ornaments, stretching the body, yawning, flaring of the nostrils, and exhaling and inhaling.
+*Udbhāsvara* is a particular bodily (*āṅgika*) *anubhāva*. It is of five kinds: disorder in one’s dress and ornaments, stretching the body, yawning, flaring of the nostrils, and exhaling and inhaling.
 
 ## 56
 
@@ -92,7 +92,7 @@ Svayaṁ Bhagavān Kṛṣṇa is the crest jewel of all heroes (*nāyakas*); in
 
 ## 66–72
 
-This Kṛṣṇa in the role of the hero (*nāyaka*) is: 1) beautifully formed, 2) endowed with all auspicious marks, 3) handsome, 4) full of great radiance, 5) strong, 6) ever in the age of *kiśora* (youth), 7) a knower of various wonderful languages, 8) truthful, 9) pleasant in speech, 10) eloquent, 11) highly learned, 12) intelligent, 13) gifted with inspired insight (*pratibhā*), 14) artful (*vidagdha*), 15) clever, 16) expert, 17) grateful, 18) firm in His vows, 19) a knower of what suits place, time and person, 20) one who sees through the eyes of the *śāstra*, 21) pure, 22) self-controlled, 23) steady, 24) restrained, 25) forgiving, 26) deep, 27) steadfast, 28) even and gentle in conduct, 29) generous, 30) righteous, 31) heroic, 32) compassionate, 33) one who shows honor to others, 34) courteous (*dakṣiṇa*), 35) humble, 36) modest, 37) the protector of the surrendered, 38) happy, 39) the friend of His devotees, 40) subject to love, 41) the benefactor of all, 42) mighty, 43) famous, 44) beloved of the people, 45) the shelter of the *sādhus*, 46) the captivator of women's hearts, 47) worshipable by all, 48) full of opulence, 49) supreme over all, and 50) full of majesty (*aiśvarya*). These are His fifty qualities.
+This Kṛṣṇa in the role of the hero (*nāyaka*) is: 1) beautifully formed, 2) endowed with all auspicious marks, 3) handsome, 4) full of great radiance, 5) strong, 6) ever in the age of *kiśora* (youth), 7) a knower of various wonderful languages, 8) truthful, 9) pleasant in speech, 10) eloquent, 11) highly learned, 12) intelligent, 13) gifted with inspired insight (*pratibhā*), 14) artful (*vidagdha*), 15) clever, 16) expert, 17) grateful, 18) firm in His vows, 19) a knower of what suits place, time and person, 20) one who sees through the eyes of the *śāstra*, 21) pure, 22) self-controlled, 23) steady, 24) restrained, 25) forgiving, 26) deep, 27) steadfast, 28) even and gentle in conduct, 29) generous, 30) righteous, 31) heroic, 32) compassionate, 33) one who shows honour to others, 34) courteous (*dakṣiṇa*), 35) humble, 36) modest, 37) the protector of the surrendered, 38) happy, 39) the friend of His devotees, 40) subject to love, 41) the benefactor of all, 42) mighty, 43) famous, 44) beloved of the people, 45) the shelter of the *sādhus*, 46) the captivator of women’s hearts, 47) worshipable by all, 48) full of opulence, 49) supreme over all, and 50) full of majesty (*aiśvarya*). These are His fifty qualities.
 
 ## 73
 
@@ -104,7 +104,7 @@ Beyond these fifty there are five more great qualities. They are present in full
 
 ## 76–77
 
-In Nārāyaṇa, the Lord of Paravyoma, and in His other forms there are five more qualities. They are fully present in Kṛṣṇa as well, but neither Śiva and the other gods nor the *jīvas* possess them: 1) inconceivable great energy, 2) a form that holds millions of universes, 3) being the seed of all *avatāras*, 4) granting a good destination to the enemies He slays, 5) attracting the *ātmārāmas* (those content in the self). Though these five qualities are found in Nārāyaṇa and His other forms as well, in Kṛṣṇa they are manifest in a wondrous way.
+In Nārāyaṇa, the Lord of Paravyoma, and in His other forms there are five more qualities. They are fully present in Kṛṣṇa as well, but neither Śiva and the other gods nor the *jīvas* possess them: 1) inconceivable great energy, 2) a form that holds millions of universes, 3) being the seed of all avatāras, 4) granting a good destination to the enemies He slays, 5) attracting the *ātmārāmas* (those content in the self). Though these five qualities are found in Nārāyaṇa and His other forms as well, in Kṛṣṇa they are manifest in a wondrous way.
 
 ## 78–79
 
@@ -112,19 +112,19 @@ Beyond these sixty qualities four more are manifest in Kṛṣṇa. They are not
 
 ## 80
 
-Such (love-filled) pastimes, the incomparable company of His beloveds (that is, His tenderness toward the dear ones who love Him), the sweetness of His form and the sweetness of His flute — these are the four unique qualities of Śrī Kṛṣṇa. By distinguishing four levels — ordinary *jīvas*, Śiva and the other gods, Nārāyaṇa and the other forms of the Supreme Lord, and Govinda Himself (the *svayaṁ-rūpa*) — sixty-four qualities in all have been enumerated.
+Such (love-filled) pastimes, the incomparable company of His beloveds (that is, His tenderness towards the dear ones who love Him), the sweetness of His form and the sweetness of His flute — these are the four unique qualities of Śrī Kṛṣṇa. By distinguishing four levels — ordinary *jīvas*, Śiva and the other gods, Nārāyaṇa and the other forms of the Supreme Lord, and Govinda Himself (the *svayaṁ-rūpa*) — sixty-four qualities in all have been enumerated.
 
 ## 82–86
 
-Now the chief qualities of Śrī Rādhikā, the Queen of Vṛndāvana, are glorified. She is: 1) sweet, 2) youthful, 3) with restless eyes, 4) with a radiant smile, 5) with beautiful lines of good fortune, 6) maddening Kṛṣṇa with Her fragrance, 7) versed in the art of song, 8) charming in speech, 9) expert in joking (*narma*), 10) humble, 11) full of compassion, 12) clever, 13) skillful, 14) modest, 15) keeping proper bounds (*sumaryādā*), 16) steadfast, 17) full of depth, 18) rich in play (*suvilāsā*), 19) full of *mahābhāva* in its highest degree, 20) the abode of Gokula's love, 21) one whose fame shines among the *āśrayas* of the whole world, 22) one on whom the elders bestow great affection, 23) subject to the friendly love (*praṇaya*) of the *sakhīs*, 24) the chief among Kṛṣṇa's beloveds, 25) one who always keeps Keśava under Her control.
+Now the chief qualities of Śrī Rādhikā, the Queen of Vṛndāvana, are glorified. She is: 1) sweet, 2) youthful, 3) with restless eyes, 4) with a radiant smile, 5) with beautiful lines of good fortune, 6) maddening Kṛṣṇa with Her fragrance, 7) versed in the art of song, 8) charming in speech, 9) expert in joking (*narma*), 10) humble, 11) full of compassion, 12) clever, 13) skilful, 14) modest, 15) keeping proper bounds (*sumaryādā*), 16) steadfast, 17) full of depth, 18) rich in play (*suvilāsā*), 19) full of *mahābhāva* in its highest degree, 20) the abode of Gokula’s love, 21) one whose fame shines among the *āśrayas* of the whole world, 22) one on whom the elders bestow great affection, 23) subject to the friendly love (*praṇaya*) of the *sakhīs*, 24) the chief among Kṛṣṇa’s beloveds, 25) one who always keeps Keśava under Her control.
 
 ## 89–92
 
-Devotion has washed away all their faults; their hearts are clear and bright; they are devoted to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*; the happiness and beauty of devotion to Govinda's feet is their very life; they perform the acts that are intimate (*antaraṅga*) to *prema*. In the hearts of such devotees *rati*, whose nature is bliss, made radiant by past and present *saṁskāras*, becomes relishable and shines forth. Through the *vibhāvas* — Kṛṣṇa and the rest — on the path of experience it reaches its highest limit: the wonder (*camatkāra*) of mature bliss.
+Devotion has washed away all their faults; their hearts are clear and bright; they are devoted to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*; the happiness and beauty of devotion to Govinda’s feet is their very life; they perform the acts that are intimate (*antaraṅga*) to *prema*. In the hearts of such devotees *rati*, whose nature is bliss, made radiant by past and present *saṁskāras*, becomes relishable and shines forth. Through the *vibhāvas* — Kṛṣṇa and the rest — on the path of experience it reaches its highest limit: the wonder (*camatkāra*) of mature bliss.
 
 ## 94
 
-For nondevotees this *bhagavad-rasa* is in every way unattainable. *Bhakti-rasa* is attainable only by those for whom Kṛṣṇa's lotus feet are everything.
+For nondevotees this *bhagavad-rasa* is in every way unattainable. *Bhakti-rasa* is attainable only by those for whom Kṛṣṇa’s lotus feet are everything.
 
 ## 98
 
@@ -136,7 +136,7 @@ To use the world in relation to Kṛṣṇa is *yukta-vairāgya* (fitting renunc
 
 ## 100–101
 
-The devotee who bears no enmity toward any living being, who is friendly and compassionate, free of the sense of “mine,” free of self-conceit, equal in happiness and distress, forgiving, always content, self-controlled, firm in resolve, practicing *bhakti-yoga*, and who has given Me his mind and intelligence — he is dear to Me.
+The devotee who bears no enmity towards any living being, who is friendly and compassionate, free of the sense of “mine,” free of self-conceit, equal in happiness and distress, forgiving, always content, self-controlled, firm in resolve, practicing *bhakti-yoga*, and who has given Me his mind and intelligence — he is dear to Me.
 
 ## 102
 
@@ -144,7 +144,7 @@ He on whose account people are not disturbed, who does not disturb people,[^102-
 
 ## 103
 
-My devotee who expects nothing, who is pure, skillful, impartial, free from distress, and who has given up all undertakings — he is dear to Me.
+My devotee who expects nothing, who is pure, skilful, impartial, free from distress, and who has given up all undertakings — he is dear to Me.
 
 ## 104
 
@@ -152,7 +152,7 @@ He who is free of elation, aversion, grief and longing, who has given up results
 
 ## 105–106
 
-The person who is equal toward enemy and friend, in honor and dishonor, in cold and heat, in happiness and distress, who is free of attachment, equal in blame and praise, silent, content with whatever comes, homeless, steady in mind and full of devotion — he is dear to Me.
+The person who is equal towards enemy and friend, in honour and dishonor, in cold and heat, in happiness and distress, who is free of attachment, equal in blame and praise, silent, content with whatever comes, homeless, steady in mind and full of devotion — he is dear to Me.
 
 ## 107
 
@@ -164,7 +164,7 @@ Oh, do worn-out rags not lie on the road? Do the trees that nourish others not g
 
 ## 111
 
-The interpretation that Kṛṣṇa is an *avatāra* in the form of “a hair black as a crow” is contrary to the truth. Rejecting it, [the Lord] taught the pure interpretation: “*ka* + *īśa* = *keśa*,” that is, Kṛṣṇa is “the Lord of Brahmā.”
+The interpretation that Kṛṣṇa is an avatāra in the form of “a hair black as a crow” is contrary to the truth. Rejecting it, [the Lord] taught the pure interpretation: “*ka* + *īśa* = *keśa*,” that is, Kṛṣṇa is “the Lord of Brahmā.”
 
 *Thus ends the twenty-third chapter of the “Amṛta-pravāha-bhāṣya.”*
 

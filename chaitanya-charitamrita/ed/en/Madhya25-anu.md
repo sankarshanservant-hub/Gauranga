@@ -2,7 +2,7 @@
 
 ## 1
 
-> Subheading: Gaurasundara turns the Māyāvādīs, averse to Kṛṣṇa, toward Kṛṣṇa —
+> Subheading: Gaurasundara turns the Māyāvādīs, averse to Kṛṣṇa, towards Kṛṣṇa —
 
 **prabhuḥ** (Śrī Kṛṣṇa Caitanyacandra) **kāśī-nivāsinaḥ** (living in Vārāṇasī) **sannyāsi-mukhān** (the *sannyāsīs* headed by Prakāśānanda and others) **vaiṣṇavī-kṛtya** (having brought onto the path of pure devotion) **sanātanaṁ** **su-saṁskṛtya** (and having given him the dress of a pure Vaiṣṇava)[^1-1] **nīlādrim** (to Śrī Puruṣottama-kṣetra) **āgamat**.
 
@@ -12,7 +12,7 @@
 
 ## 4
 
-> Subheading: Paramānanda Kīrtanīyā's service to the Lord —
+> Subheading: Paramānanda Kīrtanīyā’s service to the Lord —
 
 ## 5
 
@@ -70,11 +70,11 @@
 
 ## 20
 
-> Subheading: With irrefutable arguments full of the conclusions of pure devotion, the Lord demolishes everyone's false reasoning —
+> Subheading: With irrefutable arguments full of the conclusions of pure devotion, the Lord demolishes everyone’s false reasoning —
 
 ## 21
 
-> Subheading: Everyone receives the Lord's teaching and sings the names of Hari —
+> Subheading: Everyone receives the Lord’s teaching and sings the names of Hari —
 
 ## 22
 
@@ -84,7 +84,7 @@ The *sannyāsīs* gave up their own study of Vedānta, gathered among themselves
 
 ## 23
 
-> Subheading: At an assembly, one of Prakāśānanda Sarasvatī's disciples, weighing the doctrines, recognizes the Lord as Nārāyaṇa, praises His explanation of Vedānta as spiritual pastimes (*cid-vilāsa*), and condemns Śaṅkara's Māyāvāda interpretation —
+> Subheading: At an assembly, one of Prakāśānanda Sarasvatī’s disciples, weighing the doctrines, recognises the Lord as Nārāyaṇa, praises His explanation of Vedānta as spiritual pastimes (*cid-vilāsa*), and condemns Śaṅkara’s Māyāvāda interpretation —
 
 ## 28
 
@@ -92,7 +92,7 @@ The *sannyāsīs* gave up their own study of Vedānta, gathered among themselves
 
 ## 29
 
-> Subheading: Praise of the Lord's explanation of the verse *harer nāma* —
+> Subheading: Praise of the Lord’s explanation of the verse *harer nāma* —
 
 ## 30
 
@@ -118,13 +118,13 @@ To declare Bhagavān featureless (*nirviśeṣa*) is to deny His transcendental 
 
 ## 34
 
-> Subheading: By the descending path (*avaroha*) the Śrutis and Purāṇas reveal transcendental spiritual pastimes (*cid-vilāsa*); to regard these spiritual pastimes beyond *māyā* as *māyic* pastimes of matter, following the ascending path of logic (*āroha*), is itself irreligion (*pāṣaṇḍatā*), or a great offense (*mahāparādha*) —
+> Subheading: By the descending path (*avaroha*) the Śrutis and Purāṇas reveal transcendental spiritual pastimes (*cid-vilāsa*); to regard these spiritual pastimes beyond *māyā* as *māyic* pastimes of matter, following the ascending path of logic (*āroha*), is itself irreligion (*pāṣaṇḍatā*), or a great offence (*mahāparādha*) —
 
-The Vedic scriptures and all the Purāṇas establish the supreme eternality of the pastimes of Kṛṣṇa's spiritual potency (*cic-chakti*). The *jñānī* who fancies himself a *paṇḍita*, with his worldly learning full of the desire to enjoy, sinks ever deeper into self-conceit. Deluded by the false notion that “the spiritual potency cannot have pastimes; they are one of the forms of *māyā-śakti*,” he ridicules [them].
+The Vedic scriptures and all the Purāṇas establish the supreme eternality of the pastimes of Kṛṣṇa’s spiritual potency (*cic-chakti*). The *jñānī* who fancies himself a *paṇḍita*, with his worldly learning full of the desire to enjoy, sinks ever deeper into self-conceit. Deluded by the false notion that “the spiritual potency cannot have pastimes; they are one of the forms of *māyā-śakti*,” he ridicules [them].
 
 ## 35
 
-The *nirviśeṣa-vādī* regards Kṛṣṇa's *sac-cid-ānanda* form as a form of Īśvara imagined and fashioned by *māyā*, and so he cannot understand Bhagavān's eternal possession of attributes. This arrogance, or atheism (*nāstikatā*), is itself the gravest offense. In the words of Śrīman Mahāprabhu, Kṛṣṇa's *sac-cid-ānanda* form, possessed of attributes, is full of eternal, true spiritual pastimes — that is the real truth.
+The *nirviśeṣa-vādī* regards Kṛṣṇa’s *sac-cid-ānanda* form as a form of Īśvara imagined and fashioned by *māyā*, and so he cannot understand Bhagavān’s eternal possession of attributes. This arrogance, or atheism (*nāstikatā*), is itself the gravest offence. In the words of Śrīman Mahāprabhu, Kṛṣṇa’s *sac-cid-ānanda* form, possessed of attributes, is full of eternal, true spiritual pastimes — that is the real truth.
 
 ## 36
 
@@ -138,7 +138,7 @@ Brahmā was born from the navel of Garbhodakaśāyī, yet he could not know that
 
 > Subheading: The *nirviśeṣa-vādī* regards the form of Bhagavān, the master of *māyā*, as “*māyic*” — and this leads to hell —
 
-**bhuvana-maṅgala** (O sole abode of the *jīvas'* welfare), **tat vai** (this very form) **upāsakānām** **naḥ** (us) **maṅgalāya** **dhyāne** **te** (by You) **darśitaṁ** **sma**. **asat-prasaṅgaiḥ** (by those devoted to false reasoning and absorbed in speculation on featureless Brahman opposed to the path of *śruti* — whose words are fabricated by ignorance) **naraka-bhāgbhiḥ** (by certain atheists bound for hell) **yaḥ** (You, the Puruṣa) **na** **ādṛtaḥ** (are not accepted at all), **tasmai** **bhagavate** **tubhyaṁ** **namaḥ** **anuvidhema** (following [You], we bow down).
+**bhuvana-maṅgala** (O sole abode of the *jīvas’* welfare), **tat vai** (this very form) **upāsakānām** **naḥ** (us) **maṅgalāya** **dhyāne** **te** (by You) **darśitaṁ** **sma**. **asat-prasaṅgaiḥ** (by those devoted to false reasoning and absorbed in speculation on featureless Brahman opposed to the path of *śruti* — whose words are fabricated by ignorance) **naraka-bhāgbhiḥ** (by certain atheists bound for hell) **yaḥ** (You, the Puruṣa) **na** **ādṛtaḥ** (are not accepted at all), **tasmai** **bhagavate** **tubhyaṁ** **namaḥ** **anuvidhema** (following [You], we bow down).
 
 ## 38
 
@@ -150,7 +150,7 @@ Brahmā was born from the navel of Garbhodakaśāyī, yet he could not know that
 
 > Subheading: The destination of the irreligious — (*Bhagavad-gītā*, Chapter 16, verse 19)
 
-(Me) **dviṣataḥ** (given to hatred) **krūrān** (cruel) **aśubhān** (given to forbidden conduct) **narādhamān** **tān** (those people) **eva** **saṁsāreṣu** (on the paths of birth and death) **āsurīṣu** **yoniṣu** (into the wombs of animals, beasts and the like, endowed with cruelty and greed) **ajasram** (again and again) **aham** **kṣipāmi** (that is, for their terrible offenses I give them just such a fruit).
+(Me) **dviṣataḥ** (given to hatred) **krūrān** (cruel) **aśubhān** (given to forbidden conduct) **narādhamān** **tān** (those people) **eva** **saṁsāreṣu** (on the paths of birth and death) **āsurīṣu** **yoniṣu** (into the wombs of animals, beasts and the like, endowed with cruelty and greed) **ajasram** (again and again) **aham** **kṣipāmi** (that is, for their terrible offences I give them just such a fruit).
 
 ## 40
 
@@ -172,7 +172,7 @@ See Ādi 7.121–126.
 
 ## 44
 
-> Subheading: “Caitanya's teaching alone is the essence”; teachings without Caitanya (*acaitanya*, “unconscious”) are all “empty” —
+> Subheading: “Caitanya’s teaching alone is the essence”; teachings without Caitanya (*acaitanya*, “unconscious”) are all “empty” —
 
 ## 45
 
@@ -250,7 +250,7 @@ See Madhya 17.186.
 
 ## 66
 
-> Subheading: Seeing the Lord's dancing, His love and His beauty, he too joins the *kīrtana* —
+> Subheading: Seeing the Lord’s dancing, His love and His beauty, he too joins the *kīrtana* —
 
 ## 67
 
@@ -270,7 +270,7 @@ See Madhya 17.186.
 
 ## 73
 
-> Subheading: Prakāśānanda declares that by touching the Lord's feet his offenses are removed —
+> Subheading: Prakāśānanda declares that by touching the Lord’s feet his offences are removed —
 
 ## 74
 
@@ -280,11 +280,11 @@ See Madhya 17.186.
 
 ## 75
 
-> Subheading: The touch of Bhagavān's feet removes offenses — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 34, verse 9)
+> Subheading: The touch of Bhagavān’s feet removes offences — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 34, verse 9)
 
-Once in Vraja the king of the cowherds, Śrī Nanda, was performing with his kinsmen the rite of pilgrimage to a deity (*deva-yātrā*). He came to the bank of the river Sarasvatī, took a vow, and himself lay down to sleep in the forest. Just then a Gandharva named Sudarśana attacked Nanda: he had laughed at the sages of the Aṅgirasa line, and by their curse he had been born a serpent. At Nanda's piteous cry Kṛṣṇa came, struck the serpent with His foot, and rescued Nanda from its jaws.
+Once in Vraja the king of the cowherds, Śrī Nanda, was performing with his kinsmen the rite of pilgrimage to a deity (*deva-yātrā*). He came to the bank of the river Sarasvatī, took a vow, and himself lay down to sleep in the forest. Just then a Gandharva named Sudarśana attacked Nanda: he had laughed at the sages of the Aṅgirasa line, and by their curse he had been born a serpent. At Nanda’s piteous cry Kṛṣṇa came, struck the serpent with His foot, and rescued Nanda from its jaws.
 
-How the touch of Kṛṣṇa's feet removed the serpent's inauspiciousness, Śrī Śuka describes to Parīkṣit.
+How the touch of Kṛṣṇa’s feet removed the serpent’s inauspiciousness, Śrī Śuka describes to Parīkṣit.
 
 **saḥ** (the serpent) **vai** **bhagavataḥ** (of Kṛṣṇa) **śrīmat-pāda-sparśa-hatāśubhaḥ** (he whose inauspiciousness — the curse of the sages of the Aṅgirasa line, whom he had mocked on seeing their ugliness — was destroyed by the touch of the glorious foot) **sarpa-vapuḥ** (that is, his birth as a serpent) **hitvā** (giving up) **vidyādharārcitam** (honoured, worshipped among the Vidyādharas) **rūpam** **bheje** (attained).
 
@@ -304,7 +304,7 @@ See Madhya 18.116.
 
 ## 79
 
-> Subheading: Prakāśānanda's firm faith in the Lord, or his reverence for Him —
+> Subheading: Prakāśānanda’s firm faith in the Lord, or his reverence for Him —
 
 ## 81
 
@@ -326,11 +326,11 @@ See Madhya 22.53.
 
 ## 84
 
-> Subheading: Whoever gives up pride and bows at Kṛṣṇa's feet attains pure devotion —
+> Subheading: Whoever gives up pride and bows at Kṛṣṇa’s feet attains pure devotion —
 
 ## 85
 
-> Subheading: All sit down there; Prakāśānanda wishes to hear from the Lord's lips a critique of Śaṅkara's Māyāvāda and the true purport of the *Brahma-sūtra* —
+> Subheading: All sit down there; Prakāśānanda wishes to hear from the Lord’s lips a critique of Śaṅkara’s Māyāvāda and the true purport of the *Brahma-sūtra* —
 
 ## 89
 
@@ -370,7 +370,7 @@ See Madhya 22.53.
 
 Parīkṣit heard the genealogy of Svāyambhuva Manu and asked about the other Manus and the deeds of the *manvantara* avatāras. Then Śrī Śuka first relates the words of Manu.
 
-**jagatyām** (in the world) **yat kiñcit jagat** (whatever the conditioned *jīvas* enjoy — the transformation of *māyā-śakti* that gives pleasure to the senses), **idaṁ** **viśvaṁ** (all of it) **ātmāvāsyam** (is pervaded by the Ātmā, that is, by Bhagavān — by His being and consciousness; this is seen with transcendental vision, with the eyes of devotion anointed with the salve of *prema*). **tena** (therefore) **tyaktena** (by offering to Bhagavān out of the desire to serve) — or else: **tena** (by Īśvara) **tyaktena** (with whatever little wealth He has left, that is, given — as Bhagavān's remnants) — **bhuñjīthāḥ** (accept, that is, take). **kasyasvit** (of one attached to matter, thinking himself an enjoyer) **dhanam** (worldly objects of enjoyment and the like, for he sees *māyā* rather than Bhagavān) **mā gṛdhaḥ** (do not covet at all). So too the *śruti* says: *īśāvāsyam idam* — just like this verse.
+**jagatyām** (in the world) **yat kiñcit jagat** (whatever the conditioned *jīvas* enjoy — the transformation of *māyā-śakti* that gives pleasure to the senses), **idaṁ** **viśvaṁ** (all of it) **ātmāvāsyam** (is pervaded by the Ātmā, that is, by Bhagavān — by His being and consciousness; this is seen with transcendental vision, with the eyes of devotion anointed with the salve of *prema*). **tena** (therefore) **tyaktena** (by offering to Bhagavān out of the desire to serve) — or else: **tena** (by Īśvara) **tyaktena** (with whatever little wealth He has left, that is, given — as Bhagavān’s remnants) — **bhuñjīthāḥ** (accept, that is, take). **kasyasvit** (of one attached to matter, thinking himself an enjoyer) **dhanam** (worldly objects of enjoyment and the like, for he sees *māyā* rather than Bhagavān) **mā gṛdhaḥ** (do not covet at all). So too the *śruti* says: *īśāvāsyam idam* — just like this verse.
 
 ## 100
 
@@ -388,7 +388,7 @@ See Ādi 1.51.
 
 ## 104
 
-> Subheading: By the descending path (*avaroha*), through the power of Bhagavān's mercy, the Truth is revealed in the heart —
+> Subheading: By the descending path (*avaroha*), through the power of Bhagavān’s mercy, the Truth is revealed in the heart —
 
 “These three” are *sambandha*, *abhidheya* and *prayojana*.
 
@@ -414,7 +414,7 @@ See Ādi 1.53.
 
 ## 112
 
-> Subheading: The purport of the verse — Kṛṣṇa's form is full of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*) —
+> Subheading: The purport of the verse — Kṛṣṇa’s form is full of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*) —
 
 In the verse *aham eva* the word *aham* occurs three times: in the first line in the words *aham eva*, in the third in the words *paścād aham*, and in the fourth in the words *so ’smy aham*. This establishes the personal form (*vigraha*) of Bhagavān: He is not merely featureless.
 
@@ -422,11 +422,11 @@ In the verse *aham eva* the word *aham* occurs three times: in the first line in
 
 > Subheading: The refutation of one who teaches that He is formless —
 
-The *nirviśeṣa-vādī* does not accept Bhagavān's personal form, possessed of attributes. To fix in the heart that his reasoning is full of error and must be rejected in every respect, the Lord said *aham eva* three times and so established the “*sambandha*.”
+The *nirviśeṣa-vādī* does not accept Bhagavān’s personal form, possessed of attributes. To fix in the heart that his reasoning is full of error and must be rejected in every respect, the Lord said *aham eva* three times and so established the “*sambandha*.”
 
 ## 114
 
-> Subheading: In the second verse, besides the “internal nature” (*antaraṅga-svarūpa*), the marks of the potencies of the “marginal *jīva*” and the “external *guṇa-māyā*,” and a consideration of how they are perceived. To see the nature that lies beyond the *jīva* and *guṇa-māyā*, that is, the internal potency, is independent, pure realization of the *svarūpa*, or “*vijñāna*”; to see the *jīva* or *guṇa-māyā* is not “seeing the *svarūpa*” —
+> Subheading: In the second verse, besides the “internal nature” (*antaraṅga-svarūpa*), the marks of the potencies of the “marginal *jīva*” and the “external *guṇa-māyā*,” and a consideration of how they are perceived. To see the nature that lies beyond the *jīva* and *guṇa-māyā*, that is, the internal potency, is independent, pure realisation of the *svarūpa*, or “*vijñāna*”; to see the *jīva* or *guṇa-māyā* is not “seeing the *svarūpa*” —
 
 ## 115
 
@@ -438,7 +438,7 @@ The *nirviśeṣa-vādī* does not accept Bhagavān's personal form, possessed o
 
 ## 114–116
 
-*Jñāna* is the meaning of the scriptures; *vijñāna* is realization (*anubhava*). Discrimination (*viveka*) that comes from any source other than the guru or the scriptures is often a product of the mind (*manodharma*) or leans toward the featureless. When discrimination dawns from one's own realization, one perceives the form of Bhagavān. Bhagavān's own form is distinct from *māyā* and from *māyic* activity. Until *vijñāna* arises, the *jīva* has no such understanding. The rays are manifest in the sun, yet the rays are distinct from the sun, and without the sun the rays cannot manifest on their own. In the same way Bhagavān and *māyā* are two different (heterogeneous) perceptions. Unless the *jīva* has gone beyond *māyā*, he does not realize this: with an intellect confined within *māyā*, the form of Bhagavān cannot be understood.
+*Jñāna* is the meaning of the scriptures; *vijñāna* is realisation (*anubhava*). Discrimination (*viveka*) that comes from any source other than the guru or the scriptures is often a product of the mind (*manodharma*) or leans towards the featureless. When discrimination dawns from one’s own realisation, one perceives the form of Bhagavān. Bhagavān’s own form is distinct from *māyā* and from *māyic* activity. Until *vijñāna* arises, the *jīva* has no such understanding. The rays are manifest in the sun, yet the rays are distinct from the sun, and without the sun the rays cannot manifest on their own. In the same way Bhagavān and *māyā* are two different (heterogeneous) perceptions. Unless the *jīva* has gone beyond *māyā*, he does not realise this: with an intellect confined within *māyā*, the form of Bhagavān cannot be understood.
 
 ## 117
 
@@ -468,7 +468,7 @@ See Ādi 1.56.
 
 ## 122
 
-> Subheading: The fourth verse describes the “secret,” the whole of which the *abhidheya* is a limb — that is, the *prayojana*. In the devotee's heart is Bhagavān, conquered by the devotee's love; in Bhagavān's heart is the devotee, conquered by love for Bhagavān: their forms are joined together, locked in embrace. Between the devotee and Bhagavān there is inconceivable oneness and difference (*acintya-bhedābheda*) —
+> Subheading: The fourth verse describes the “secret,” the whole of which the *abhidheya* is a limb — that is, the *prayojana*. In the devotee’s heart is Bhagavān, conquered by the devotee’s love; in Bhagavān’s heart is the devotee, conquered by love for Bhagavān: their forms are joined together, locked in embrace. Between the devotee and Bhagavān there is inconceivable oneness and difference (*acintya-bhedābheda*) —
 
 ## 123
 
@@ -482,7 +482,7 @@ See Ādi 1.55.
 
 ## 125
 
-> Subheading: Bhagavān is bound by the ropes of His devotee's love —
+> Subheading: Bhagavān is bound by the ropes of His devotee’s love —
 
 ## 126
 
@@ -490,7 +490,7 @@ See Ādi 1.55.
 
 When Nimi, the king of Videha, asked about the marks, conduct and gradations of the three kinds of devotees, or *bhāgavatas*, Havi Ṛṣi, one of the nine Yogendras, said in reply:
 
-**avaśābhihitaḥ** (uttered unwittingly) **api** **aghaugha-nāśaḥ** (He who destroys heaps of sins, that is, multitudes of offenses) **hariḥ** (indeed) **sākṣāt** **yasya** **hṛdayaṁ** **na** **visṛjati** (does not leave), **praṇaya-rasanayā** (with the rope of love) **dhṛtāṅghri-padmaḥ** (he by whom the lotus feet are held, bound within), **saḥ** **bhāgavata-pradhānaḥ** **uktaḥ** **bhavati** (is called “the foremost of *bhāgavatas*”).
+**avaśābhihitaḥ** (uttered unwittingly) **api** **aghaugha-nāśaḥ** (He who destroys heaps of sins, that is, multitudes of offences) **hariḥ** (indeed) **sākṣāt** **yasya** **hṛdayaṁ** **na** **visṛjati** (does not leave), **praṇaya-rasanayā** (with the rope of love) **dhṛtāṅghri-padmaḥ** (he by whom the lotus feet are held, bound within), **saḥ** **bhāgavata-pradhānaḥ** **uktaḥ** **bhavati** (is called “the foremost of *bhāgavatas*”).
 
 ## 127
 
@@ -502,7 +502,7 @@ See Madhya 8.274.
 
 > Subheading: The spiritual shelter (*āśraya*) everywhere sees spiritual objects related to Kṛṣṇa — (*Śrīmad-Bhāgavatam*, Canto 10, Chapter 30, verse 4)
 
-Śrī Kṛṣṇa suddenly vanished from the place of the *rāsa* together with Śrī Rādhā. The *gopīs*, their minds absorbed in Kṛṣṇa, full of Kṛṣṇa, began to imitate Kṛṣṇa's various deeds and, tormented by separation, searched for Him everywhere. Śrī Śukadeva sings of this before Parīkṣit.
+Śrī Kṛṣṇa suddenly vanished from the place of the *rāsa* together with Śrī Rādhā. The *gopīs*, their minds absorbed in Kṛṣṇa, full of Kṛṣṇa, began to imitate Kṛṣṇa’s various deeds and, tormented by separation, searched for Him everywhere. Śrī Śukadeva sings of this before Parīkṣit.
 
 **saṁhatāḥ** (gathering together with one another) **uccaiḥ** **gāyantyaḥ** **vanād** **vanam** (from one forest to another) **amum** (Kṛṣṇa) **eva** **unmattaka-vat** **vicikyuḥ** (searched); **ākāśa-vat** (like the great element) **bhūteṣu** (in living beings) **bahiḥ** **antaram** (within) **santam** (present) **puruṣam** (they, to whom, through the bewilderment of love [*prema-vivarta*], Kṛṣṇa appeared everywhere) **vanaspatīn** (seeing them as full of consciousness) **papracchuḥ** (asked).
 
@@ -542,7 +542,7 @@ Here, as one can see, a variant reading quotes two more verses. (1) *Śrīmad-Bh
 
 > Subheading: (*Śrīmad-Bhāgavatam* 11.3.31)
 
-While describing the *bhāgavata-dharma* to Vasudeva, Śrī Nārada recounts the dialogue between Nimi, the king of Videha, and the nine Yogendras. Nimi asked, “How can people who lack understanding and take themselves to be the body easily conquer *māyā*?” In answer, Prabuddha Ṛṣi, one of the nine Yogendras, describes what the conditioned soul attains. Taking shelter at the lotus feet of the guru, he practices without offense the devotion called *kīrtana*; thus he is freed from *anarthas* and then attains the goal of practice, *bhāva-bhakti*.
+While describing the *bhāgavata-dharma* to Vasudeva, Śrī Nārada recounts the dialogue between Nimi, the king of Videha, and the nine Yogendras. Nimi asked, “How can people who lack understanding and take themselves to be the body easily conquer *māyā*?” In answer, Prabuddha Ṛṣi, one of the nine Yogendras, describes what the conditioned soul attains. Taking shelter at the lotus feet of the guru, he practices without offence the devotion called *kīrtana*; thus he is freed from *anarthas* and then attains the goal of practice, *bhāva-bhakti*.
 
 (Of the *sādhakas* who live in this way,) **bhaktyā** (by *sādhana-bhakti*) **sañjātayā** (attained) **bhaktyā** (by devotion whose mark is *prema*) **aghaugha-haraṁ** (who destroys heaps of sins) **hariṁ** **smarantaḥ** **mithaḥ** (to one another) **smārayantaḥ** (chanting together) **ca** (these devotees) **utpulakāṁ** (with hair standing on end) **tanuṁ** **bibhrati** (bear).
 
@@ -612,7 +612,7 @@ The *Śrī Bhāgavatam* is the very form of the *rasa* of devotion to Kṛṣṇ
 
 In the third verse of the first chapter of the first canto of the *Śrīmad-Bhāgavatam*, [the author] offers a *maṅgalācaraṇa* in the form of a blessing:
 
-**aho** (O) **rasikāḥ** (knowers of the *rasa* of service to Bhagavān), **bhāvukāḥ** (adept at contemplating particular *rasas*), **śuka-mukhāt** (from the mouth of Śuka — in the succession of Vyāsa's disciples and their disciples) **bhuvi** (to the earth) **galitam** (descended whole and unbroken; fallen of itself because it is ripe, not plucked by force) **amṛta-drava-saṁyutam** (joined with, marked by, the juice — the *rasa* that is nectar, supreme bliss) **nigama-kalpa-taroḥ** (of the wish-fulfilling tree of the Vedas) **rasam** (free of hard, useless parts — rind, stones and the like — consisting of *rasa* alone) **phalaṁ** **bhāgavatam** **ā-layam** (up to and including the bliss of liberation) **muhuḥ** **pibata** (relish with the greatest reverence).
+**aho** (O) **rasikāḥ** (knowers of the *rasa* of service to Bhagavān), **bhāvukāḥ** (adept at contemplating particular *rasas*), **śuka-mukhāt** (from the mouth of Śuka — in the succession of Vyāsa’s disciples and their disciples) **bhuvi** (to the earth) **galitam** (descended whole and unbroken; fallen of itself because it is ripe, not plucked by force) **amṛta-drava-saṁyutam** (joined with, marked by, the juice — the *rasa* that is nectar, supreme bliss) **nigama-kalpa-taroḥ** (of the wish-fulfilling tree of the Vedas) **rasam** (free of hard, useless parts — rind, stones and the like — consisting of *rasa* alone) **phalaṁ** **bhāgavatam** **ā-layam** (up to and including the bliss of liberation) **muhuḥ** **pibata** (relish with the greatest reverence).
 
 ## 145
 
@@ -620,7 +620,7 @@ In the third verse of the first chapter of the first canto of the *Śrīmad-Bhā
 
 > Subheading: (*Śrīmad-Bhāgavatam* 1.1.19)
 
-In Naimiṣāraṇya the sages headed by Śaunaka, seating the *mahā-bhāgavata* Śrīla Sūta Gosvāmī before them, ask him to tell of Śrī Hari's pastimes and His avatāras, and describe their ever-growing thirst to hear:
+In Naimiṣāraṇya the sages headed by Śaunaka, seating the *mahā-bhāgavata* Śrīla Sūta Gosvāmī before them, ask him to tell of Śrī Hari’s pastimes and His avatāras, and describe their ever-growing thirst to hear:
 
 **yat** (whose exploits) **śṛṇvatāṁ** (of those who hear) **rasa-jñānāṁ** (of the *rasikas*) **pade pade** (at every moment) **svādu svādu** (become sweeter than sweet — this must be supplied), **tasmin** **uttamaḥśloka-vikrame** (in the exploits of Kṛṣṇa — in the accounts of His qualities, His prowess and so on; His fame (*śloka*) is such that darkness (*tamas*) departs (*ud-gacchati*) from it, and this is what *uttama* means) **vayaṁ** **tu** (let others be satisfied if they will) **na** **vitṛpyāmaḥ** (are not fully satisfied, that is, we never think, “Enough”).
 
@@ -666,15 +666,15 @@ See Madhya 6.186.
 
 ## 153
 
-> Subheading: The Mahārāṣṭrian brāhmaṇa praises the Lord's ability to give 61 explanations —
+> Subheading: The Mahārāṣṭrian brāhmaṇa praises the Lord’s ability to give 61 explanations —
 
 ## 155
 
-> Subheading: At everyone's urging the Lord sets forth the 61 explanations —
+> Subheading: At everyone’s urging the Lord sets forth the 61 explanations —
 
 ## 156
 
-> Subheading: The Lord's learning amazes everyone, and they recognize Him as the Supreme Lord, Śrī Kṛṣṇa —
+> Subheading: The Lord’s learning amazes everyone, and they recognise Him as the Supreme Lord, Śrī Kṛṣṇa —
 
 ## 157
 
@@ -690,11 +690,11 @@ See Madhya 6.186.
 
 ## 160
 
-> Subheading: With the Lord's coming, Kāśī resounds with the tumult of Kṛṣṇa's names —
+> Subheading: With the Lord’s coming, Kāśī resounds with the tumult of Kṛṣṇa’s names —
 
 ## 161
 
-> Subheading: At the devotees' urging, the Lord distributes to the people of Kāśī — gripped by Māyāvāda and averse to Kṛṣṇa's name and to *prema* — without regard to qualification and for the trifling price of faith, His inexhaustible treasury of the name and *prema*, rare even for Brahmā —
+> Subheading: At the devotees’ urging, the Lord distributes to the people of Kāśī — gripped by Māyāvāda and averse to Kṛṣṇa’s name and to *prema* — without regard to qualification and for the trifling price of faith, His inexhaustible treasury of the name and *prema*, rare even for Brahmā —
 
 ## 164
 
@@ -794,7 +794,7 @@ See Madhya 6.186.
 
 ## 197
 
-> Subheading: Rāya's renunciation and humility —
+> Subheading: Rāya’s renunciation and humility —
 
 ## 199
 
@@ -842,7 +842,7 @@ See Madhya 6.186.
 
 ## 211
 
-> Subheading: Śrī Rūpa and his younger brother also lodge in Śekhara's house and take their meals in Tapana Miśra's house —
+> Subheading: Śrī Rūpa and his younger brother also lodge in Śekhara’s house and take their meals in Tapana Miśra’s house —
 
 ## 212
 
@@ -850,7 +850,7 @@ See Madhya 6.186.
 
 ## 213
 
-> Subheading: Śrī Rūpa is happy to see the people's devotion to the Lord and to hear their *kīrtana* —
+> Subheading: Śrī Rūpa is happy to see the people’s devotion to the Lord and to hear their *kīrtana* —
 
 ## 214
 
@@ -866,7 +866,7 @@ See Madhya 6.186.
 
 ## 218
 
-> Subheading: Hearing of the Lord's arrival, the devotees seem to receive the mantra that revives the dead (*mṛta-sañjīvanī*) —
+> Subheading: Hearing of the Lord’s arrival, the devotees seem to receive the mantra that revives the dead (*mṛta-sañjīvanī*) —
 
 ## 219
 
@@ -890,23 +890,23 @@ See Madhya 6.186.
 
 ## 226
 
-> Subheading: [The Lord] receives Jagannātha's garland and *prasāda*; the *paḍichā* bows to Him —
+> Subheading: [The Lord] receives Jagannātha’s garland and *prasāda*; the *paḍichā* bows to Him —
 
 ## 227
 
-> Subheading: The news of the Lord's arrival spreads everywhere; Rāya and the Bhaṭṭācārya come from Kaṭaka and see the Lord —
+> Subheading: The news of the Lord’s arrival spreads everywhere; Rāya and the Bhaṭṭācārya come from Kaṭaka and see the Lord —
 
 ## 228
 
-> Subheading: The Lord stays in Kāśī Miśra's house; Sārvabhauma invites Him —
+> Subheading: The Lord stays in Kāśī Miśra’s house; Sārvabhauma invites Him —
 
 ## 229
 
-> Subheading: Wishing to honor *prasāda* with the devotees, [the Lord] has the *prasāda* brought —
+> Subheading: Wishing to honour *prasāda* with the devotees, [the Lord] has the *prasāda* brought —
 
 ## 230
 
-> Subheading: Mahāprabhu honors *mahā-prasāda* with the devotees —
+> Subheading: Mahāprabhu honours *mahā-prasāda* with the devotees —
 
 ## 231
 
@@ -926,7 +926,7 @@ See Madhya 6.186.
 
 ## 235
 
-> Subheading: Following Vyāsa's practice in the *Bhāgavatam*, [the author] reviews the Madhya-līlā again by briefly describing its chapters —
+> Subheading: Following Vyāsa’s practice in the *Bhāgavatam*, [the author] reviews the Madhya-līlā again by briefly describing its chapters —
 
 ## 256
 
@@ -960,7 +960,7 @@ See Madhya 6.186.
 
 ## 265
 
-> Subheading: The author's humble prayer —
+> Subheading: The author’s humble prayer —
 
 ## 266
 
@@ -972,27 +972,27 @@ Kṛṣṇa-līlā alone is “the essence of nectar” (*amṛta-sāra-vastu*);
 
 In our time, regarding Caitanya-līlā as separate from Kṛṣṇa-līlā, people are trying to create new doctrines — “Nadīyā-nāgarī,” the “Gaura-nāgarī līlā” and others — produced by ever newer fancies. Some members of the Theosophical Society, and some of the other groups hostile to devotion, the *prākṛta* Bāuls and the Sahajiyās, cast Śrī Gaurāṅga in the mold of their own unruly worldly tendencies. Some imagine Him a political leader, others a worshipper of Śakti, still others a libertine with illicit lovers (*nāgarīs*).
 
-The eternal *līlā* of Goloka rises in the material world at the time of the Lord's manifestation. Yet at that time none of the associates of Gaura's *līlā*, headed by Śrī Rūpa, ever saw or knew of any “Gaura-nāgara-līlā”; so it is certainly not Caitanya-līlā. Devotion to Gaura must be practiced only by following in the footsteps of a Vaiṣṇava guru who follows Śrī Rūpa. There is no gain at all in plunging into the lake of fancy and forming “the party of the new Gorā”[^264-266-1].
+The eternal *līlā* of Goloka rises in the material world at the time of the Lord’s manifestation. Yet at that time none of the associates of Gaura’s *līlā*, headed by Śrī Rūpa, ever saw or knew of any “Gaura-nāgara-līlā”; so it is certainly not Caitanya-līlā. Devotion to Gaura must be practiced only by following in the footsteps of a Vaiṣṇava guru who follows Śrī Rūpa. There is no gain at all in plunging into the lake of fancy and forming “the party of the new Gorā”[^264-266-1].
 
-Caitanya-līlā is the inexhaustible lake; the conclusions of devotion to Kṛṣṇa are the lotus forest of that lake, the *rasa* of *prema* is the forest of *kumuda* lilies, and the devotees' minds are the bees.
+Caitanya-līlā is the inexhaustible lake; the conclusions of devotion to Kṛṣṇa are the lotus forest of that lake, the *rasa* of *prema* is the forest of *kumuda* lilies, and the devotees’ minds are the bees.
 
 ## 267
 
-> Subheading: The varieties of Kṛṣṇa's pastimes are the very life of the devotees —
+> Subheading: The varieties of Kṛṣṇa’s pastimes are the very life of the devotees —
 
-The lotus stems of Kṛṣṇa's pastimes are the “food” of the swanlike devotees. The pastimes of Kṛṣṇacandra, the embodiment of the *rasa* of eternal *sambhoga*, are the food of the eternal servants who have taken shelter of Śrī Gaurasundara — the embodiment of the eternal *rasa* of *vipralambha*, whose body is nondifferent from Kṛṣṇa.
+The lotus stems of Kṛṣṇa’s pastimes are the “food” of the swanlike devotees. The pastimes of Kṛṣṇacandra, the embodiment of the *rasa* of eternal *sambhoga*, are the food of the eternal servants who have taken shelter of Śrī Gaurasundara — the embodiment of the eternal *rasa* of *vipralambha*, whose body is nondifferent from Kṛṣṇa.
 
 ## 268
 
 > Subheading: By such relishing, the joy of *prema* grows —
 
-O devotees of Gaura, plunge into the lake of Caitanya-līlā and, eternally serving Kṛṣṇa as swans and *cakravākas* sheltered at Śrī Gaura's feet, sport in the lake of worship of Śrī Gaura. Then you will not have to suffer the “sorrow” of serving someone other than Kṛṣṇa, which comes from imagining Gaurāṅga, as the “Nadīyā-nāgarī” do, to be some material object of enjoyment. You will attain the supreme happiness, service to Kṛṣṇa, and become intoxicated with the joy of love for Kṛṣṇa.
+O devotees of Gaura, plunge into the lake of Caitanya-līlā and, eternally serving Kṛṣṇa as swans and *cakravākas* sheltered at Śrī Gaura’s feet, sport in the lake of worship of Śrī Gaura. Then you will not have to suffer the “sorrow” of serving someone other than Kṛṣṇa, which comes from imagining Gaurāṅga, as the “Nadīyā-nāgarī” do, to be some material object of enjoyment. You will attain the supreme happiness, service to Kṛṣṇa, and become intoxicated with the joy of love for Kṛṣṇa.
 
 ## 269
 
 > Subheading: The pure devotees distribute to the people of the world the nectar of the pastimes of Gaura and Kṛṣṇa —
 
-The saintly *mahāntas* sheltered at Gaura's feet, like clouds, always shower the nectar of Kṛṣṇa-līlā on the garden of this world. This watering by streams of rain yields fruits — the nectar of *prema*; the devotees eat them constantly, and the people of the world live by that *prema*.
+The saintly *mahāntas* sheltered at Gaura’s feet, like clouds, always shower the nectar of Kṛṣṇa-līlā on the garden of this world. This watering by streams of rain yields fruits — the nectar of *prema*; the devotees eat them constantly, and the people of the world live by that *prema*.
 
 ## 270
 
@@ -1000,13 +1000,13 @@ The saintly *mahāntas* sheltered at Gaura's feet, like clouds, always shower th
 
 The nectar of Caitanya-līlā is like the *pūra*, the filling made of that nectar of *prema*, and Kṛṣṇa-līlā is like fine camphor; only when these two nectars are joined is there excellent sweetness. The sweetness of Kṛṣṇa-līlā, nourished by the nectar of Caitanya-līlā, has become full of excellent sweetness.
 
-The band of *asuras* hostile to Gaura do not accept Gaura's *līlā* or the Gaura-mantra; so they have no chance of tasting the sweetness of Kṛṣṇa-līlā. The band of *daityas* hostile to Kṛṣṇa, on the other hand, are indifferent to the nectar of Kṛṣṇa-līlā. Imagining themselves *nāgarīs* and following the “Nadīyā-nāgarī,” they separate from Kṛṣṇa Gaura — the embodiment of the *rasa* of *vipralambha*, whose body is nondifferent from Rādhā and Kṛṣṇa — that is, they make Him an embodiment of the *rasa* of *sambhoga*; thus they uproot the sweetness of the variety of Gaura's *līlā*.
+The band of *asuras* hostile to Gaura do not accept Gaura’s *līlā* or the Gaura-mantra; so they have no chance of tasting the sweetness of Kṛṣṇa-līlā. The band of *daityas* hostile to Kṛṣṇa, on the other hand, are indifferent to the nectar of Kṛṣṇa-līlā. Imagining themselves *nāgarīs* and following the “Nadīyā-nāgarī,” they separate from Kṛṣṇa Gaura — the embodiment of the *rasa* of *vipralambha*, whose body is nondifferent from Rādhā and Kṛṣṇa — that is, they make Him an embodiment of the *rasa* of *sambhoga*; thus they uproot the sweetness of the variety of Gaura’s *līlā*.
 
 Abundant sweetness is relished only by joining the two *līlās* — when, by the mercy of sādhus and gurus who follow Śrī Rūpa, that is, by following Śrī Rūpa, one knows the nectar of Gaura-līlā and the nectar of Kṛṣṇa-līlā to be nondifferent from each other. A follower of Śrī Rūpa firmly believes in this alone.
 
 ## 271
 
-> Subheading: The nectar of these two *līlās* is the devotee's food; the two are inseparably one —
+> Subheading: The nectar of these two *līlās* is the devotee’s food; the two are inseparably one —
 
 A variant reading: *khāya yadi anupāne* (“if he takes [food] with a drink”).
 
@@ -1030,7 +1030,7 @@ If, regarding the pastimes of Kṛṣṇa and of Gaura as different from each ot
 
 ## 276
 
-> Subheading: Indifferent to the blame and praise of non-devotees, the author considers himself fulfilled by the devotees' happiness alone —
+> Subheading: Indifferent to the blame and praise of non-devotees, the author considers himself fulfilled by the devotees’ happiness alone —
 
 **ati-rahasyaṁ** (most confidential) **tat** **gaura-līlāmṛtam** (this jewel of a book) **khalu** (certainly) **samudaya-lokaiḥ** (by all the wicked, unqualified people) **na** **ādṛtam**, **yataḥ** ([for] it) **taiḥ** (for the wicked) **alabhyam** (is impossible to obtain). **iha** (in this) **me** (my) **iyaṁ** **kā** **kṣatiḥ** (what loss)? — **yat** (since here) **sahṛdaya-sumanobhiḥ** (by guileless sages whose hearts are wholly devoted) **samantāt** (on all sides) **svāditam** (being relished) **eṣām** (of these noble souls) **modam** **tanoti** (increases).
 

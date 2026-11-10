@@ -4,7 +4,7 @@
 
 > Subheading: By worshipping Gaura even the evil-minded gains a good mind — (*Hari-bhakti-vilāsa*, *vilāsa* 7, verse 1)
 
-**ku-manāḥ** (one whose mind is absorbed in objects other than Kṛṣṇa) **yasya** (of Caitanya-deva) **padābjayoḥ** (at the lotus feet) **su-mano-'rpaṇa-mātreṇa** (merely by offering *sumanas*, flowers, or else one's own mind that is *su*, good, intent on serving Kṛṣṇa) **su-manastvaṁ** (a nature free of other desires, not covered by *jñāna*, karma and the like, and devoted to serving Kṛṣṇa, *kṛṣṇānuśīlana*) **hi** (certainly) **yāti** (attains), **taṁ caitanya-prabhum ahaṁ vande**.
+**ku-manāḥ** (one whose mind is absorbed in objects other than Kṛṣṇa) **yasya** (of Caitanya-deva) **padābjayoḥ** (at the lotus feet) **su-mano-’rpaṇa-mātreṇa** (merely by offering *sumanas*, flowers, or else one’s own mind that is *su*, good, intent on serving Kṛṣṇa) **su-manastvaṁ** (a nature free of other desires, not covered by *jñāna*, karma and the like, and devoted to serving Kṛṣṇa, *kṛṣṇānuśīlana*) **hi** (certainly) **yāti** (attains), **taṁ caitanya-prabhum ahaṁ vande**.
 
 ## 3
 
@@ -12,7 +12,7 @@
 
 ## 4
 
-> Subheading: The Lord's very extensive pastimes of the *paugaṇḍa* age —
+> Subheading: The Lord’s very extensive pastimes of the *paugaṇḍa* age —
 
 **caitanya-kṛṣṇasya** (of Bhagavān Viśvambhara, whose form is non-different from Rādhā-Kṛṣṇa) **vidyārambha-mukhā** (those whose beginning is the start of schooling) **pāṇi-grahaṇāntā** (and whose end, conclusion, is His marriage) **mano-harā** (captivating all hearts) **paugaṇḍa-līlā** (*paugaṇḍa* is the period from the fifth year to the tenth; the pastimes in that period) **ati-suvistṛtā** (are very extensive).
 
@@ -62,13 +62,13 @@ Vaiṣṇavas never accept anything but *mahā-prasāda*, on any day or at any t
 
 ## 17
 
-> Subheading: The meeting with Viśvarūpa and their conversation about the Lord's *sannyāsa* —
+> Subheading: The meeting with Viśvarūpa and their conversation about the Lord’s *sannyāsa* —
 
 ## 23
 
-> Subheading: Miśra's departure —
+> Subheading: Miśra’s departure —
 
-The *Caitanya-bhāgavata* (Ādi, Chapter 8): “Some days passed in this way, and then the eternally perfect body of the best of Miśras departed from this world. At Miśra's departure the Lord wept bitterly, as the best of the Raghus wept at Daśaratha's departure. All this is full of the *rasa* of sorrow; to tell it in detail is painful, so I have told it briefly.”
+The *Caitanya-bhāgavata* (Ādi, Chapter 8): “Some days passed in this way, and then the eternally perfect body of the best of Miśras departed from this world. At Miśra’s departure the Lord wept bitterly, as the best of the Raghus wept at Daśaratha’s departure. All this is full of the *rasa* of sorrow; to tell it in detail is painful, so I have told it briefly.”
 
 ## 24
 
@@ -86,7 +86,7 @@ The *Caitanya-bhāgavata* (Ādi, Chapter 8): “Some days passed in this way, an
 
 > Subheading: [Words of *smṛti* (of the Lord?)]
 
-**gṛham** (the dwelling building) **gṛhaṁ na**, **gṛhiṇī** (the mistress who presides over the house, one's partner in *dharma*) **eva gṛham ucyate**. **tayā** (with the wife) **sahitaḥ** (united) (a man) **sarvān puruṣārthān** (all the four goals — *dharma*, *artha*, *kāma*, *mokṣa* and the rest) **samaśnute** (attains). See the *Mahābhārata*, *Śānti-parva*, Chapter 144, verse 6.
+**gṛham** (the dwelling building) **gṛhaṁ na**, **gṛhiṇī** (the mistress who presides over the house, one’s partner in *dharma*) **eva gṛham ucyate**. **tayā** (with the wife) **sahitaḥ** (united) (a man) **sarvān puruṣārthān** (all the four goals — *dharma*, *artha*, *kāma*, *mokṣa* and the rest) **samaśnute** (attains). See the *Mahābhārata*, *Śānti-parva*, Chapter 144, verse 6.
 
 ## 28
 
@@ -96,16 +96,16 @@ The *Caitanya-bhāgavata* (Ādi, Chapter 8): “Some days passed in this way, an
 
 > Subheading: Vanamālī Paṇḍita as matchmaker —
 
-Vanamālī the matchmaker (*ghaṭaka*) was a brāhmaṇa living in Navadvīpa. He arranged Mahāprabhu's marriage. *Gaura-gaṇoddeśa-dīpikā* (49): “Viśvāmitra, who was the matchmaker at Śrī Rāma's wedding, and the brāhmaṇa whom Rukmiṇī sent to Śrī Keśava — both are now this Vanamālī, who by his deed attained the title of ācārya.”
+Vanamālī the matchmaker (*ghaṭaka*) was a brāhmaṇa living in Navadvīpa. He arranged Mahāprabhu’s marriage. *Gaura-gaṇoddeśa-dīpikā* (49): “Viśvāmitra, who was the matchmaker at Śrī Rāma’s wedding, and the brāhmaṇa whom Rukmiṇī sent to Śrī Keśava — both are now this Vanamālī, who by his deed attained the title of ācārya.”
 
 ## 30
 
-> Subheading: The match and the Lord's marriage to Lakṣmī-devī —
+> Subheading: The match and the Lord’s marriage to Lakṣmī-devī —
 
 ## 31
 
 > Subheading: The *Caitanya-bhāgavata* describes the *paugaṇḍa* pastimes in detail —
 
-See the *Caitanya-bhāgavata*, Ādi, Chapter 10. The *Caitanya-bhāgavata* (Ādi, Chapter 8) describes in more detail the sacred-thread ceremony (*upanayana*) and the Lord's gift of gold to His mother.
+See the *Caitanya-bhāgavata*, Ādi, Chapter 10. The *Caitanya-bhāgavata* (Ādi, Chapter 8) describes in more detail the sacred-thread ceremony (*upanayana*) and the Lord’s gift of gold to His mother.
 
 *Thus ends the fifteenth chapter of the “Anubhāṣya.”*

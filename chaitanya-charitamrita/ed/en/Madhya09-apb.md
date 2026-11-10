@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** This chapter tells how Mahāprabhu set out from Vidyānagara and passed through Gautamī-gaṅgā, Mallikārjuna, Ahobala-nṛsiṁha, Siddhavaṭa, Skanda-kṣetra, Trimaṭha, Vṛddhakāśī, the place of the Buddhists, Tripati, Trimalla, Pānā-nṛsiṁha, Śiva-kāñcī, Viṣṇu-kāñcī, Trikālahastī, Vṛddhakola, Śiyālī-bhairavī, the bank of the Kāverī, and Kumbhakarṇa-kapāla. Then He reached Śrī Raṅga-kṣetra and made Śrī Veṅkaṭa Bhaṭṭa and his family devotees of Kṛṣṇa. From Śrīraṅgam He went to Ṛṣabha hill and met Paramānanda Purī Gosāñi there. Śrī Purī Gosvāmī left for Puruṣottama, and Mahāprabhu went on toward Setubandha. On Śrī Śaila hill He spoke with Śiva and Durgā, who were living there in the guise of a brāhmaṇa and his wife. From there He passed Kāmakoṣṭhī-purī and came to Southern Mathurā, where He spoke with a renounced brāhmaṇa, a devotee of Rāma. Next He bathed in the Kṛtamālā and saw Paraśurāma on Mahendra hill. From there the Lord went to Setubandha, bathed at Dhanus-tīrtha, and saw Śrī Rāmeśvara. There He obtained an old manuscript of the *Kūrma Purāṇa*—the leaves about the *māyā-Sītā*—and brought it to the brāhmaṇa Rāmadāsa mentioned before. After this, in the land of Pāṇḍya, He visited the Tāmraparṇī, then Naya-tripadī, Ciyaḍatalā, Tila-kāñcī, Gajendra-mokṣaṇa, Pānāgaḍi, Cāmtāpura, Śrī Vaikuṇṭha, Malaya hill, Dhanus-tīrtha, and Kanyākumārī, and in the land of Mallāra He saw the Bhaṭṭathāris. He rescued Kālā Kṛṣṇadāsa from their hands. Then, on the bank of the Payasvinī, He obtained the *Brahma-saṁhitā* (its fifth chapter). From there He went by way of the Payasvinī, the Śṛṅgavera-purī monastery, and Matsya-tīrtha to the village of Uḍupī, where He saw Madhvācārya's Gopāla. After defeating the Tattvavādīs in debate, He passed through Phalgu-tīrtha, Trita-kūpa, Pañcāpsarā, Sūrpāraka, and Kolāpura and reached Pāṇḍarapura. There He learned from Śrī Raṅgapurī that Śaṅkarāraṇya had attained perfection (*siddhi*). On the bank of the Kṛṣṇaveṇvā, in a community of Vaiṣṇava brāhmaṇas, He obtained the book *Kṛṣṇa-karṇāmṛta*, composed by Śrī Bilvamaṅgala. From there, by way of the Tāptī, Māhiṣmatī-pura, the bank of the Narmadā, and Ṛṣyamūka hill, He came to Daṇḍakāraṇya and delivered the seven palm trees (*sapta-tāla*). Then He visited many holy places—Pampā lake, Pañcavaṭī, Nāsika, Brahmagiri, Kuśāvarta (where the Godāvarī has its source), and others—and arrived in Vidyānagara. From Vidyānagara He went on by the same road as before, saw Ālālanātha, and arrived in Śrī Kṣetra.
+**Summary.** This chapter tells how Mahāprabhu set out from Vidyānagara and passed through Gautamī-gaṅgā, Mallikārjuna, Ahobala-nṛsiṁha, Siddhavaṭa, Skanda-kṣetra, Trimaṭha, Vṛddhakāśī, the place of the Buddhists, Tripati, Trimalla, Pānā-nṛsiṁha, Śiva-kāñcī, Viṣṇu-kāñcī, Trikālahastī, Vṛddhakola, Śiyālī-bhairavī, the bank of the Kāverī, and Kumbhakarṇa-kapāla. Then He reached Śrī Raṅga-kṣetra and made Śrī Veṅkaṭa Bhaṭṭa and his family devotees of Kṛṣṇa. From Śrīraṅgam He went to Ṛṣabha hill and met Paramānanda Purī Gosāñi there. Śrī Purī Gosvāmī left for Puruṣottama, and Mahāprabhu went on towards Setubandha. On Śrī Śaila hill He spoke with Śiva and Durgā, who were living there in the guise of a brāhmaṇa and his wife. From there He passed Kāmakoṣṭhī-purī and came to Southern Mathurā, where He spoke with a renounced brāhmaṇa, a devotee of Rāma. Next He bathed in the Kṛtamālā and saw Paraśurāma on Mahendra hill. From there the Lord went to Setubandha, bathed at Dhanus-tīrtha, and saw Śrī Rāmeśvara. There He obtained an old manuscript of the *Kūrma Purāṇa*—the leaves about the *māyā-Sītā*—and brought it to the brāhmaṇa Rāmadāsa mentioned before. After this, in the land of Pāṇḍya, He visited the Tāmraparṇī, then Naya-tripadī, Ciyaḍatalā, Tila-kāñcī, Gajendra-mokṣaṇa, Pānāgaḍi, Cāmtāpura, Śrī Vaikuṇṭha, Malaya hill, Dhanus-tīrtha, and Kanyākumārī, and in the land of Mallāra He saw the Bhaṭṭathāris. He rescued Kālā Kṛṣṇadāsa from their hands. Then, on the bank of the Payasvinī, He obtained the *Brahma-saṁhitā* (its fifth chapter). From there He went by way of the Payasvinī, the Śṛṅgavera-purī monastery, and Matsya-tīrtha to the village of Uḍupī, where He saw Madhvācārya’s Gopāla. After defeating the Tattvavādīs in debate, He passed through Phalgu-tīrtha, Trita-kūpa, Pañcāpsarā, Sūrpāraka, and Kolāpura and reached Pāṇḍarapura. There He learned from Śrī Raṅgapurī that Śaṅkarāraṇya had attained perfection (*siddhi*). On the bank of the Kṛṣṇaveṇvā, in a community of Vaiṣṇava brāhmaṇas, He obtained the book *Kṛṣṇa-karṇāmṛta*, composed by Śrī Bilvamaṅgala. From there, by way of the Tāptī, Māhiṣmatī-pura, the bank of the Narmadā, and Ṛṣyamūka hill, He came to Daṇḍakāraṇya and delivered the seven palm trees (*sapta-tāla*). Then He visited many holy places—Pampā lake, Pañcavaṭī, Nāsika, Brahmagiri, Kuśāvarta (where the Godāvarī has its source), and others—and arrived in Vidyānagara. From Vidyānagara He went on by the same road as before, saw Ālālanātha, and arrived in Śrī Kṣetra.
 
 ## 1
 
@@ -14,15 +14,15 @@ The people of the South, like Gajendra, had been seized by the crocodiles of man
 
 ## 11
 
-**Worshipers of Rāma** (*rāma-upāsakas*): the Rāmāt Vaiṣṇavas. **Tattvavādīs**: those who accept the *tattva* (truths) of Madhva's teaching and establish *śuddha-dvaita-vāda*, the doctrine of pure duality. **Śrī Vaiṣṇavas**: the Vaiṣṇavas of Rāmānuja's *sampradāya*.
+**Worshipers of Rāma** (*rāma-upāsakas*): the Rāmāt Vaiṣṇavas. **Tattvavādīs**: those who accept the *tattva* (truths) of Madhva’s teaching and establish *śuddha-dvaita-vāda*, the doctrine of pure duality. **Śrī Vaiṣṇavas**: the Vaiṣṇavas of Rāmānuja’s *sampradāya*.
 
 ## 14
 
-In describing the Lord's pilgrimage Śrīla Kavirāja Gosvāmī does not keep to a geographical order, and he admits this himself. The order found in Govinda dāsa's *Kaḍacā* (?) largely agrees with geographical descriptions. Let readers look at the order in that book and judge for themselves. According to Govinda dāsa, Mahāprabhu went from Rājamahendrī to Trimanda and from there to Ḍhuṇḍirāma-tīrtha. According to this book, however, the Lord went from Rājamahendrī to Gautamī-gaṅgā and then to Mallikārjuna-tīrtha.
+In describing the Lord’s pilgrimage Śrīla Kavirāja Gosvāmī does not keep to a geographical order, and he admits this himself. The order found in Govinda dāsa’s *Kaḍacā* (?) largely agrees with geographical descriptions. Let readers look at the order in that book and judge for themselves. According to Govinda dāsa, Mahāprabhu went from Rājamahendrī to Trimanda and from there to Ḍhuṇḍirāma-tīrtha. According to this book, however, the Lord went from Rājamahendrī to Gautamī-gaṅgā and then to Mallikārjuna-tīrtha.
 
 ## 25
 
-The habit of chanting Rāma's name had been his from birth. Now it changed, and chanting Kṛṣṇa's name became his nature.
+The habit of chanting Rāma’s name had been his from birth. Now it changed, and chanting Kṛṣṇa’s name became his nature.
 
 ## 29
 
@@ -42,7 +42,7 @@ If one accepts the meaning of the two verses just cited, the names of Rāma and 
 
 ## 33
 
-The result obtained by reciting the sacred thousand names (of Viṣṇu) three times is given by uttering the name of Kṛṣṇa once. The point is this: one name of Rāma equals a thousand names of Viṣṇu, and so the result of chanting Rāma's name three times is obtained from a single name of Kṛṣṇa.
+The result obtained by reciting the sacred thousand names (of Viṣṇu) three times is given by uttering the name of Kṛṣṇa once. The point is this: one name of Rāma equals a thousand names of Viṣṇu, and so the result of chanting Rāma’s name three times is obtained from a single name of Kṛṣṇa.
 
 ## 42
 
@@ -50,11 +50,11 @@ The result obtained by reciting the sacred thousand names (of Viṣṇu) three t
 
 ## 43
 
-***Śāstrodgrāha***: upholding [one's own] scriptures.
+***Śāstrodgrāha***: upholding [one’s own] scriptures.
 
 ## 44–45
 
-**The Lord's *siddhānta*, “by this doctrine”**: the Lord's doctrine, that is, the *siddhānta* of *acintya-bhedābheda* established by the Vedas, the Vedānta, and the *Brahma-sūtra*.
+**The Lord’s *siddhānta*, “by this doctrine”**: the Lord’s doctrine, that is, the *siddhānta* of *acintya-bhedābheda* established by the Vedas, the Vedānta, and the *Brahma-sūtra*.
 
 ## 46
 
@@ -78,19 +78,19 @@ The Buddhist doctrine has two paths, the *hīnayāna* and the *mahāyāna*. The 
 
 ## 78
 
-**At Kumbhakarṇa-kapāla**: seeing the lake that had formed in Kumbhakarṇa's skull.
+**At Kumbhakarṇa-kapāla**: seeing the lake that had formed in Kumbhakarṇa’s skull.
 
 ## 82
 
-Veṅkaṭa Bhaṭṭa, his brother Trimalla Bhaṭṭa, and Prabodhānanda Sarasvatī had formerly been ācāryas in the Śrī-sampradāya. Veṅkaṭa Bhaṭṭa's son is none other than Śrī Gopāla Bhaṭṭa Gosvāmī.
+Veṅkaṭa Bhaṭṭa, his brother Trimalla Bhaṭṭa, and Prabodhānanda Sarasvatī had formerly been ācāryas in the Śrī-sampradāya. Veṅkaṭa Bhaṭṭa’s son is none other than Śrī Gopāla Bhaṭṭa Gosvāmī.
 
 ## 93
 
-**A Vaiṣṇava brāhmaṇa**: in “Govinda's *Kaḍacā*” (?) this brāhmaṇa is called “Yudhiṣṭhira.”
+**A Vaiṣṇava brāhmaṇa**: in “Govinda’s *Kaḍacā*” (?) this brāhmaṇa is called “Yudhiṣṭhira.”
 
 ## 115–116
 
-Nārāyaṇa is Kṛṣṇa's form for pastimes (*vilāsa-mūrti*). So although He differs from Kṛṣṇa in having four arms rather than two, in His *svarūpa* He is not separate from Kṛṣṇa. Nārāyaṇa has grace like Kṛṣṇa's, but He does not have pastimes full of cleverness (*vaidagdhya*) and the like, as Kṛṣṇa does. Kṛṣṇa Himself, in His form for pastimes, is Nārāyaṇa, and so Nārāyaṇa's wife Lakṣmī does not lose her chastity by Śrī Kṛṣṇa's touch. It is natural, then, that Lakṣmī should playfully desire Kṛṣṇa's company.
+Nārāyaṇa is Kṛṣṇa’s form for pastimes (*vilāsa-mūrti*). So although He differs from Kṛṣṇa in having four arms rather than two, in His *svarūpa* He is not separate from Kṛṣṇa. Nārāyaṇa has grace like Kṛṣṇa’s, but He does not have pastimes full of cleverness (*vaidagdhya*) and the like, as Kṛṣṇa does. Kṛṣṇa Himself, in His form for pastimes, is Nārāyaṇa, and so Nārāyaṇa’s wife Lakṣmī does not lose her chastity by Śrī Kṛṣṇa’s touch. It is natural, then, that Lakṣmī should playfully desire Kṛṣṇa’s company.
 
 ## 117
 
@@ -98,11 +98,11 @@ By *siddhānta* there is no difference at all between the *svarūpas* of “Nār
 
 ## 118–119
 
-Lakṣmī saw that in Kṛṣṇa's company chastity is not violated, while the greater gain—the pastimes of the *rāsa*—can be had only in Kṛṣṇa's company; in Nārāyaṇa's company it cannot be had.
+Lakṣmī saw that in Kṛṣṇa’s company chastity is not violated, while the greater gain—the pastimes of the *rāsa*—can be had only in Kṛṣṇa’s company; in Nārāyaṇa’s company it cannot be had.
 
 ## 127
 
-**“*Sajīva-lakṣaṇa*”**: a characteristic shown in action (*kriyā-lakṣaṇa*). Another reading has “*svabhāva-lakṣaṇa*” (a characteristic of nature); its meaning is clear. A third reading is “*svabhāva-vilakṣaṇa*”: Kṛṣṇa's nature is unlike the nature of others; or else the word *vilakṣaṇa* means a distinctive characteristic.
+**“*Sajīva-lakṣaṇa*”**: a characteristic shown in action (*kriyā-lakṣaṇa*). Another reading has “*svabhāva-lakṣaṇa*” (a characteristic of nature); its meaning is clear. A third reading is “*svabhāva-vilakṣaṇa*”: Kṛṣṇa’s nature is unlike the nature of others; or else the word *vilakṣaṇa* means a distinctive characteristic.
 
 ## 129
 
@@ -110,27 +110,27 @@ Lakṣmī saw that in Kṛṣṇa's company chastity is not violated, while the 
 
 ## 130–131
 
-The residents of Vraja know Him as “Nanda's son.” Any other relationship with Him—as with “Parameśvara,” the possessor of supreme majesty—they do not accept. One who worships the Supreme Truth in one of the four moods of the residents of Vraja—*dāsya*, *sakhya*, *vātsalya*, or *madhura*—finally attains Kṛṣṇa, the son of the king of Vraja, in His pure form in Vraja.
+The residents of Vraja know Him as “Nanda’s son.” Any other relationship with Him—as with “Parameśvara,” the possessor of supreme majesty—they do not accept. One who worships the Supreme Truth in one of the four moods of the residents of Vraja—*dāsya*, *sakhya*, *vātsalya*, or *madhura*—finally attains Kṛṣṇa, the son of the king of Vraja, in His pure form in Vraja.
 
 ## 133–140
 
-The Śrutis tried to enter Śrī Kṛṣṇa's *rāsa* circle (*rāsa-maṇḍala*), but their desire was not fulfilled. Nor could they enter when they took up the mood of the gopīs only within their hearts. Then, taking up the mood of the gopīs both in body and in heart, they followed the gopīs and entered Śrī Kṛṣṇa's *rāsa* dance. Śrī Kṛṣṇa is a cowherd by birth, and only the gopīs are His beloveds. So neither in the form of a goddess full of majesty nor in the form of any other woman can “Kṛṣṇa's company” be had. The goddess Lakṣmī prayed for Kṛṣṇa's company in her own divine body, but she did not serve Him following the natural love (*anurāga*) of the gopīs. Therefore in a body other than a gopī's she could not obtain the pastimes of the *rāsa*. That is why Vyāsadeva wrote the verse “*nāyaṁ sukhāpo bhagavān*.”
+The Śrutis tried to enter Śrī Kṛṣṇa’s *rāsa* circle (*rāsa-maṇḍala*), but their desire was not fulfilled. Nor could they enter when they took up the mood of the gopīs only within their hearts. Then, taking up the mood of the gopīs both in body and in heart, they followed the gopīs and entered Śrī Kṛṣṇa’s *rāsa* dance. Śrī Kṛṣṇa is a cowherd by birth, and only the gopīs are His beloveds. So neither in the form of a goddess full of majesty nor in the form of any other woman can “Kṛṣṇa’s company” be had. The goddess Lakṣmī prayed for Kṛṣṇa’s company in her own divine body, but she did not serve Him following the natural love (*anurāga*) of the gopīs. Therefore in a body other than a gopī’s she could not obtain the pastimes of the *rāsa*. That is why Vyāsadeva wrote the verse “*nāyaṁ sukhāpo bhagavān*.”
 
-In Veṅkaṭa Bhaṭṭa's mind there was a conceit: “Nārāyaṇa, who dwells in Paravyoma, is Himself Śrī Bhagavān; His worship is the highest of all grades of worship; therefore the worship of the Vaiṣṇavas of the Śrī-sampradāya is the highest of all.” To break this empty pride, Mahāprabhu raised this question in jest.
+In Veṅkaṭa Bhaṭṭa’s mind there was a conceit: “Nārāyaṇa, who dwells in Paravyoma, is Himself Śrī Bhagavān; His worship is the highest of all grades of worship; therefore the worship of the Vaiṣṇavas of the Śrī-sampradāya is the highest of all.” To break this empty pride, Mahāprabhu raised this question in jest.
 
 ## 144–149
 
-Śrī Nārāyaṇa has sixty qualities. Beyond these sixty Śrī Kṛṣṇa has four more unique qualities that Śrī Nārāyaṇa does not have: (1) He is distinguished by an ocean of pastimes more wonderful than all others; (2) He is surrounded by dear associates adorned with incomparable sweet *prema*; (3) He is absorbed in the song of His flute, which attracts the three worlds; (4) His beauty, which astonishes all moving and nonmoving beings, has no equal and no superior. Śrī Kṛṣṇa possesses these four unique qualities, and so even Lakṣmī, the embodiment of majesty, constantly thirsts for Him. The verse you recited, “*siddhāntatas tv abhede 'pi*,” establishes that Kṛṣṇa alone is Bhagavān Himself. Only Kṛṣṇa, endowed with the qualities of Bhagavān Himself, steals Lakṣmī's heart. Śrī Nārāyaṇa lacks the four qualities that can steal the hearts of the gopīs, so He cannot steal their hearts. What to speak of Nārāyaṇa: even when Śrī Kṛṣṇa in jest manifested Himself in the form of Nārāyaṇa Himself, the gopīs felt no love (*anurāga*) for Him.
+Śrī Nārāyaṇa has sixty qualities. Beyond these sixty Śrī Kṛṣṇa has four more unique qualities that Śrī Nārāyaṇa does not have: (1) He is distinguished by an ocean of pastimes more wonderful than all others; (2) He is surrounded by dear associates adorned with incomparable sweet *prema*; (3) He is absorbed in the song of His flute, which attracts the three worlds; (4) His beauty, which astonishes all moving and nonmoving beings, has no equal and no superior. Śrī Kṛṣṇa possesses these four unique qualities, and so even Lakṣmī, the embodiment of majesty, constantly thirsts for Him. The verse you recited, “*siddhāntatas tv abhede ’pi*,” establishes that Kṛṣṇa alone is Bhagavān Himself. Only Kṛṣṇa, endowed with the qualities of Bhagavān Himself, steals Lakṣmī’s heart. Śrī Nārāyaṇa lacks the four qualities that can steal the hearts of the gopīs, so He cannot steal their hearts. What to speak of Nārāyaṇa: even when Śrī Kṛṣṇa in jest manifested Himself in the form of Nārāyaṇa Himself, the gopīs felt no love (*anurāga*) for Him.
 
-Here one point must be considered. Śrī Rūpa Gosvāmī's *Bhakti-rasāmṛta-sindhu* was composed many days after this (after the Lord's meeting with Veṅkaṭa Bhaṭṭa). How, then, could Śrī Veṅkaṭa Bhaṭṭa recite a verse from that book as evidence? We conclude as follows. The verses that the *Bhakti-rasāmṛta-sindhu* and other books cite as having been in use before those books were written were current even among very ancient devotees of Kṛṣṇa. Śrī Rūpa Gosvāmī used precisely those in his books. And since Śrī Rūpa's books were composed before Kavirāja Gosvāmī wrote, (Kavirāja Gosvāmī in his book) cited all these verses as quotations from those books of Śrī Rūpa. In many places Kavirāja Gosvāmī, relying only on their meaning, brought verses of the earlier Gosvāmīs into conversations.
+Here one point must be considered. Śrī Rūpa Gosvāmī’s *Bhakti-rasāmṛta-sindhu* was composed many days after this (after the Lord’s meeting with Veṅkaṭa Bhaṭṭa). How, then, could Śrī Veṅkaṭa Bhaṭṭa recite a verse from that book as evidence? We conclude as follows. The verses that the *Bhakti-rasāmṛta-sindhu* and other books cite as having been in use before those books were written were current even among very ancient devotees of Kṛṣṇa. Śrī Rūpa Gosvāmī used precisely those in his books. And since Śrī Rūpa’s books were composed before Kavirāja Gosvāmī wrote, (Kavirāja Gosvāmī in his book) cited all these verses as quotations from those books of Śrī Rūpa. In many places Kavirāja Gosvāmī, relying only on their meaning, brought verses of the earlier Gosvāmīs into conversations.
 
 ## 151–156
 
-Setting aside His joking words, Mahāprabhu finally said, “Bhaṭṭa, do not be sad.” As there is no difference between “Kṛṣṇa” and “Nārāyaṇa,” so there is no difference between the gopīs and Lakṣmī: Rādhikā, who contains all the Lakṣmīs, manifests many different forms in a single being. Through the gopīs Lakṣmī tastes Kṛṣṇa's company. That is, the *svarūpa-śakti* in the form of sweetness (*mādhurya*) tastes Kṛṣṇa's company in the bodies of the gopīs, and in the body of majesty (*aiśvarya*), as Lakṣmī, tastes Nārāyaṇa's company. In the *tattva* of Īśvara there is no difference. One should understand that because the moods of the devotees differ, the one spiritual form differs only in the forms of meditation—in its shapes and appearances.
+Setting aside His joking words, Mahāprabhu finally said, “Bhaṭṭa, do not be sad.” As there is no difference between “Kṛṣṇa” and “Nārāyaṇa,” so there is no difference between the gopīs and Lakṣmī: Rādhikā, who contains all the Lakṣmīs, manifests many different forms in a single being. Through the gopīs Lakṣmī tastes Kṛṣṇa’s company. That is, the *svarūpa-śakti* in the form of sweetness (*mādhurya*) tastes Kṛṣṇa’s company in the bodies of the gopīs, and in the body of majesty (*aiśvarya*), as Lakṣmī, tastes Nārāyaṇa’s company. In the *tattva* of Īśvara there is no difference. One should understand that because the moods of the devotees differ, the one spiritual form differs only in the forms of meditation—in its shapes and appearances.
 
 ## 157
 
-The *vaidūrya* gem, according to the substances it touches and where it lies, is seen in different colors—blue, yellow, and so on—and takes on different appearances. In the same way, in meditation on the one Acyuta, who has no second, different states are seen according to the devotee's mood—by the difference in meditation.
+The *vaidūrya* gem, according to the substances it touches and where it lies, is seen in different colours—blue, yellow, and so on—and takes on different appearances. In the same way, in meditation on the one Acyuta, who has no second, different states are seen according to the devotee’s mood—by the difference in meditation.
 
 ## 188
 
@@ -142,7 +142,7 @@ Sītā is Herself the embodiment of spirit and bliss. Rāvaṇa kidnapped the *m
 
 ## 211–212
 
-At Sītā's request Agni created a “shadow Sītā” (*chāyā-Sītā*). Ten-headed Rāvaṇa carried off this shadow Sītā, while the original Sītā remained in “the abode of Agni” (*vahni-pura*). When Rāmacandra held the ordeal, the shadow Sītā entered the fire, and Agnideva, the god of fire, brought the original Sītā and presented her to Rāmacandra.
+At Sītā’s request Agni created a “shadow Sītā” (*chāyā-Sītā*). Ten-headed Rāvaṇa carried off this shadow Sītā, while the original Sītā remained in “the abode of Agni” (*vahni-pura*). When Rāmacandra held the ordeal, the shadow Sītā entered the fire, and Agnideva, the god of fire, brought the original Sītā and presented her to Rāmacandra.
 
 ## 213
 
@@ -162,11 +162,11 @@ In the Dākṣiṇātya, in the village of Uḍupī, is the seat (*gādi*) of Ma
 
 ## 250–258
 
-The Tattvavādīs, adherents of pure dualism (*śuddha-dvaita*), saw on Mahāprabhu the marks of *sannyāsa* of Śaṅkara's school and at first did not speak to the Lord. But then, seeing Him overwhelmed with *prema*, they recognized Him as a Vaiṣṇava and honored Him, that is, served Him. In the hearts of the Tattvavādīs lived pride in their own Vaiṣṇavism. Seeing this, the Lord smiled slightly and spoke with them. The Lord said, “I do not know well what the goal (*sādhya*) is and what the means (*sādhana*). Please be kind and teach Me.” The Tattvavāda *ācārya* replied, “To offer *varṇāśrama-dharma* to Kṛṣṇa is the best *sādhana* of a devotee of Kṛṣṇa. By the power of this *sādhana* the perfected person attains the five kinds of liberation, the best *sādhya*, and goes to Vaikuṇṭha.” To this the Lord said that according to the *śāstras* the best *sādhana* is hearing and chanting: by the power of this *sādhana* one attains the fruit, the *sādhya*, which is loving service to Kṛṣṇa.
+The Tattvavādīs, adherents of pure dualism (*śuddha-dvaita*), saw on Mahāprabhu the marks of *sannyāsa* of Śaṅkara’s school and at first did not speak to the Lord. But then, seeing Him overwhelmed with *prema*, they recognised Him as a Vaiṣṇava and honoured Him, that is, served Him. In the hearts of the Tattvavādīs lived pride in their own Vaiṣṇavism. Seeing this, the Lord smiled slightly and spoke with them. The Lord said, “I do not know well what the goal (*sādhya*) is and what the means (*sādhana*). Please be kind and teach Me.” The Tattvavāda *ācārya* replied, “To offer *varṇāśrama-dharma* to Kṛṣṇa is the best *sādhana* of a devotee of Kṛṣṇa. By the power of this *sādhana* the perfected person attains the five kinds of liberation, the best *sādhya*, and goes to Vaikuṇṭha.” To this the Lord said that according to the *śāstras* the best *sādhana* is hearing and chanting: by the power of this *sādhana* one attains the fruit, the *sādhya*, which is loving service to Kṛṣṇa.
 
 ## 259–260
 
-Hearing about Śrī Kṛṣṇa, chanting His glories, remembering Him, serving His feet, worshiping Him, offering Him prayers, serving Him as a servant, being His friend, and surrendering one's whole self to Him — when devotion with these nine features is offered to Śrī Kṛṣṇa and carried out, every perfection is attained. This is the highest purport of the *śāstras*.
+Hearing about Śrī Kṛṣṇa, chanting His glories, remembering Him, serving His feet, worshipping Him, offering Him prayers, serving Him as a servant, being His friend, and surrendering one’s whole self to Him — when devotion with these nine features is offered to Śrī Kṛṣṇa and carried out, every perfection is attained. This is the highest purport of the *śāstras*.
 
 ## 261
 
@@ -206,7 +206,7 @@ The Lord said, “O *ācārya* of the Tattvavādīs, the conclusions of your *sa
 
 ## 300
 
-Mahāprabhu's elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received the name “Śaṅkarāraṇya Svāmī.” While traveling through the land, he attained perfection (*siddhi*) at the holy place of Pāṇḍarapura, that is, he entered the spiritual abode. This news was given to Mahāprabhu by Śrī Raṅga Purī, a disciple of Mādhavendra Purī and a godbrother of Īśvara Purī.
+Mahāprabhu’s elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received the name “Śaṅkarāraṇya Svāmī.” While travelling through the land, he attained perfection (*siddhi*) at the holy place of Pāṇḍarapura, that is, he entered the spiritual abode. This news was given to Mahāprabhu by Śrī Raṅga Purī, a disciple of Mādhavendra Purī and a godbrother of Īśvara Purī.
 
 ## 347
 
@@ -216,15 +216,15 @@ Mahāprabhu's elder brother, Śrīmad Viśvarūpa, took *sannyāsa* and received
 
 In the eighth act of the *Śrī Caitanya-candrodaya-nāṭaka* the conversation of Sārvabhauma and Śrī Kṛṣṇa Caitanya is written thus.
 
-Śrī Kṛṣṇa Caitanya: “Sārvabhauma, I have traveled so far, yet I have met no one like you — only Rāmānanda Rāya, and he is truly extraordinary.”
+Śrī Kṛṣṇa Caitanya: “Sārvabhauma, I have travelled so far, yet I have met no one like you — only Rāmānanda Rāya, and he is truly extraordinary.”
 
 Sārvabhauma: “My Lord, that is why I said You must certainly see him.”
 
-Śrī Kṛṣṇa Caitanya: “I did see a few Vaiṣṇavas, but they too are only worshipers of Nārāyaṇa. Others are Tattvavādīs, and they are of the same kind: their doctrine is not faultless. The rest are mostly Śaivas, and the *pāṣaṇḍīs* are very powerful and numerous. But, Bhaṭṭācārya, only Rāmānanda's view is dear to Me.”
+Śrī Kṛṣṇa Caitanya: “I did see a few Vaiṣṇavas, but they too are only worshippers of Nārāyaṇa. Others are Tattvavādīs, and they are of the same kind: their doctrine is not faultless. The rest are mostly Śaivas, and the *pāṣaṇḍīs* are very powerful and numerous. But, Bhaṭṭācārya, only Rāmānanda’s view is dear to Me.”
 
 ## 361–362
 
-With natural compassion for other *jīvas* — that is, giving up altogether any hostility toward them (attempts, rooted in the urge to enjoy, to turn them away from Kṛṣṇa) — say with your lips, “Hari! Hari!” (Apart from this) in the age of Kali there is no other *dharma*: to serve pure Vaiṣṇavas and to read the scriptures of pure Vaiṣṇavas is the *jīva*'s only *dharma*.
+With natural compassion for other *jīvas* — that is, giving up altogether any hostility towards them (attempts, rooted in the urge to enjoy, to turn them away from Kṛṣṇa) — say with your lips, “Hari! Hari!” (Apart from this) in the age of Kali there is no other *dharma*: to serve pure Vaiṣṇavas and to read the scriptures of pure Vaiṣṇavas is the *jīva*’s only *dharma*.
 
 *Thus ends the ninth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

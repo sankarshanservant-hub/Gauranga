@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In telling where Mahāprabhu gave direct *darśana* (*sākṣāt-darśana*), where He entered someone (*āveśa*) and where He appeared (*āvirbhāva*), the author writes of Nakula Brahmacārī, of Nṛsiṁhānanda's glory and of other devotees. Bhagavān Ācārya was devoted to the Lord, yet Svarūpa Dāmodara forbade him to hear the Māyāvāda commentary from the mouth of his brother, Gopāla Bhaṭṭācārya. After this, on Bhagavān Ācārya's instruction, Choṭa Haridāsa begged rice from Mādhavī-devī. A renunciant (*vairāgī*) had spoken with a woman, and for this fault the Lord rejected him, forbidding him to enter His door. The Vaiṣṇavas pleaded for him, but the Lord would not accept him again. A year later Choṭa Haridāsa submerged himself in the Triveṇī at Prayāga and gave up his body; then, in a transcendental (*aprākṛta*) body, he sang for Mahāprabhu. Gauḍīya Vaiṣṇavas came and told this news, and Svarūpa and all the others learned what had happened.
+**Summary.** In telling where Mahāprabhu gave direct *darśana* (*sākṣāt-darśana*), where He entered someone (*āveśa*) and where He appeared (*āvirbhāva*), the author writes of Nakula Brahmacārī, of Nṛsiṁhānanda’s glory and of other devotees. Bhagavān Ācārya was devoted to the Lord, yet Svarūpa Dāmodara forbade him to hear the Māyāvāda commentary from the mouth of his brother, Gopāla Bhaṭṭācārya. After this, on Bhagavān Ācārya’s instruction, Choṭa Haridāsa begged rice from Mādhavī-devī. A renunciant (*vairāgī*) had spoken with a woman, and for this fault the Lord rejected him, forbidding him to enter His door. The Vaiṣṇavas pleaded for him, but the Lord would not accept him again. A year later Choṭa Haridāsa submerged himself in the Triveṇī at Prayāga and gave up his body; then, in a transcendental (*aprākṛta*) body, he sang for Mahāprabhu. Gauḍīya Vaiṣṇavas came and told this news, and Svarūpa and all the others learned what had happened.
 
 ## 1
 
@@ -26,7 +26,7 @@ The Lord delivers the *jīvas* in three ways: to some He gives direct *darśana*
 
 ## 95
 
-***Śārīraka-bhāṣya*** — Śrīmat Śaṅkarācārya's commentary on the *Vedānta-sūtra*.
+***Śārīraka-bhāṣya*** — Śrīmat Śaṅkarācārya’s commentary on the *Vedānta-sūtra*.
 
 ## 96
 
@@ -34,7 +34,7 @@ Even a *mahā-bhāgavata* whose treasure of life is Kṛṣṇa — if he hears 
 
 ## 98–99
 
-Your hearts may be fixed on Kṛṣṇa, and so hearing Śaṅkara's commentary and the like may not corrupt them. Yet that Māyāvāda contains such arguments as these: “Brahman is by nature pure consciousness and formless”; “this world is mere *māyā*, that is, false”; “the *jīva* does not really exist — it is only an imagination of ignorance”; “in Īśvara there is only ignorance — He is bewildered by *māyā*.” Hearing such words, a devotee feels deep pain.
+Your hearts may be fixed on Kṛṣṇa, and so hearing Śaṅkara’s commentary and the like may not corrupt them. Yet that Māyāvāda contains such arguments as these: “Brahman is by nature pure consciousness and formless”; “this world is mere *māyā*, that is, false”; “the *jīva* does not really exist — it is only an imagination of ignorance”; “in Īśvara there is only ignorance — He is bewildered by *māyā*.” Hearing such words, a devotee feels deep pain.
 
 ## 109
 
@@ -54,11 +54,11 @@ Never stay in a secluded place with your mother, sister or daughter: the powerfu
 
 ## 120
 
-Only one in whom, while he practices *sādhana-bhakti*, *bhāva* has awakened and detachment has been born has the right to renunciation. When people take the *bhek* (the renunciant's dress) before reaching that state, their renunciation is called *markaṭa-vairāgya*, monkey renunciation. Unqualified souls, for one reason or another, take up renunciation before their time; then, driven by their senses, they go to converse with *prakṛti*, that is, with women. Know them to be *dharma-dhvajīs* — those who make a show of *dharma* — a disgrace to *dharma*, and keep them far away.
+Only one in whom, while he practices *sādhana-bhakti*, *bhāva* has awakened and detachment has been born has the right to renunciation. When people take the *bhek* (the renunciant’s dress) before reaching that state, their renunciation is called *markaṭa-vairāgya*, monkey renunciation. Unqualified souls, for one reason or another, take up renunciation before their time; then, driven by their senses, they go to converse with *prakṛti*, that is, with women. Know them to be *dharma-dhvajīs* — those who make a show of *dharma* — a disgrace to *dharma*, and keep them far away.
 
 ## 123
 
-**A slight offense.** In begging rice from Mādhavī, Choṭa Haridāsa had no other aim; he desired only the joy of serving Mahāprabhu. Yet that act contained an offense. To take the *bhek* and then converse with a woman again is an offense, and for a *vairāgī* it is certainly a great offense; but since it was done to serve the Lord, it may also be called “slight.”
+**A slight offense.** In begging rice from Mādhavī, Choṭa Haridāsa had no other aim; he desired only the joy of serving Mahāprabhu. Yet that act contained an offence. To take the *bhek* and then converse with a woman again is an offence, and for a *vairāgī* it is certainly a great offence; but since it was done to serve the Lord, it may also be called “slight.”
 
 ## 144
 

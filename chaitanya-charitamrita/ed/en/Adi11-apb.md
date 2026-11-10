@@ -6,7 +6,7 @@
 
 ## 1
 
-I bow down to all the bees at Nityānanda's lotus feet, who are maddened by drinking the honey of love, and I will name a few of the chief devotees among them.
+I bow down to all the bees at Nityānanda’s lotus feet, who are maddened by drinking the honey of love, and I will name a few of the chief devotees among them.
 
 ## 4
 
@@ -26,7 +26,7 @@ Rāmadāsa is Abhirāma dāsa.
 
 ## 14–15
 
-These two are like Nityānanda's own associates. When Mahāprabhu ordered Nityānanda Prabhu to go to Gauḍa, He sent Rāmadāsa and Gadādhara dāsa with Him. So these two were counted once among Mahāprabhu's associates, and now they are counted among Nityānanda's as well. Mādhava and Vāsu Ghoṣa are likewise counted in both groups.
+These two are like Nityānanda’s own associates. When Mahāprabhu ordered Nityānanda Prabhu to go to Gauḍa, He sent Rāmadāsa and Gadādhara dāsa with Him. So these two were counted once among Mahāprabhu’s associates, and now they are counted among Nityānanda’s as well. Mādhava and Vāsu Ghoṣa are likewise counted in both groups.
 
 ## 20
 

@@ -2,11 +2,11 @@
 
 ## 0
 
-**Summary.** In this second chapter the author has described in *sūtras* the pastimes of Mahāprabhu's last twelve years, when He relished divine emotions (*bhāvas*); along the way he has explained why he quotes verses. People cannot easily grasp the truth of the depth of these emotions. But as one hears again and again the pastimes of Śrī Caitanya described in this book, the truth of natural (*sahaja*) *bhāva* will dawn in the heart of the *jīva*. Kavirāja Gosvāmī was writing this book in his old age, so for the benefit of the devotees he gathered in this chapter the *sūtras* up to the Antya-līlā. Kavirāja Gosvāmī has said that in worship (*bhajana*) the principal view is that of Śrī Svarūpa Gosvāmī. By Svarūpa's mercy Raghunātha dāsa Gosvāmī learned by heart the diary (*kaḍacā*) that Svarūpa had composed, and after Svarūpa's departure he came to Vraja. Kavirāja Gosvāmī came there too. By the mercy of Śrī Rūpa and Raghunātha he learned the meaning of that memorized diary and composed this book.
+**Summary.** In this second chapter the author has described in *sūtras* the pastimes of Mahāprabhu’s last twelve years, when He relished divine emotions (*bhāvas*); along the way he has explained why he quotes verses. People cannot easily grasp the truth of the depth of these emotions. But as one hears again and again the pastimes of Śrī Caitanya described in this book, the truth of natural (*sahaja*) *bhāva* will dawn in the heart of the *jīva*. Kavirāja Gosvāmī was writing this book in his old age, so for the benefit of the devotees he gathered in this chapter the *sūtras* up to the Antya-līlā. Kavirāja Gosvāmī has said that in worship (*bhajana*) the principal view is that of Śrī Svarūpa Gosvāmī. By Svarūpa’s mercy Raghunātha dāsa Gosvāmī learned by heart the diary (*kaḍacā*) that Svarūpa had composed, and after Svarūpa’s departure he came to Vraja. Kavirāja Gosvāmī came there too. By the mercy of Śrī Rūpa and Raghunātha he learned the meaning of that memorised diary and composed this book.
 
 ## 1
 
-In describing the *sūtras* of the Lord's last pastimes, in this chapter I describe His incoherent words (*pralāpa*) in separation from Kṛṣṇa and other expressions of His emotions.
+In describing the *sūtras* of the Lord’s last pastimes, in this chapter I describe His incoherent words (*pralāpa*) in separation from Kṛṣṇa and other expressions of His emotions.
 
 ## 3
 
@@ -30,25 +30,25 @@ In describing the *sūtras* of the Lord's last pastimes, in this chapter I descr
 
 ## 18
 
-“Our Kṛṣṇa does not feel the pain of the wounds that love has dealt us. And what can we say of love itself? It strikes without knowing where it should strike and where it should not! Of Madana there is nothing to say at all: he never understood how weak we are! And to whom could we say anything? No one understands the whole of another's pain! Our life is not in our control, and youth lasts only two or three days — so brief! Alas! O Creator, what will become of us in such a state?”
+“Our Kṛṣṇa does not feel the pain of the wounds that love has dealt us. And what can we say of love itself? It strikes without knowing where it should strike and where it should not! Of Madana there is nothing to say at all: he never understood how weak we are! And to whom could we say anything? No one understands the whole of another’s pain! Our life is not in our control, and youth lasts only two or three days — so brief! Alas! O Creator, what will become of us in such a state?”
 
 Another reading is *vidhe* (“O Creator!”).
 
 ## 19–26
 
-Śrīmatī says: “Ah, what can I say of My sorrow! When I met Kṛṣṇa, the sprout of love grew within Me. Then, in separation from Kṛṣṇa, that sprout was wounded, and now a stream of sorrow is flowing. Kṛṣṇa is the only physician for this disease, yet Kṛṣṇa makes no effort at all to protect that sprout of love! What can I say about how Kṛṣṇa behaves! Outwardly He is the king of lovers (*nāgara-rāja*), but inwardly He is full of deceit: His one endeavor is to destroy other men's wives. This is what comes of loving Kṛṣṇa! *Sakhī*, I did not understand this law of the Creator, and I loved Him for the sake of happiness. But this wretched girl received the very opposite — great sorrow! It has come to this: My life is leaving Me, if not now, then any moment! Such is our Kṛṣṇa. And what can I say of that other *tattva* called ‘*prema*’! *Prema* is crooked by nature and *ageyān* — senseless, blind. It does not consider where it is fitting and where not, nor does it weigh the bad consequences. With the rope of the qualities[^19-2] of that cruel cheat, Kṛṣṇa, it has bound Me by the hands and neck, and I cannot get free! This is how Kṛṣṇa and *prema* act! But in this affair of love there is yet another *tattva* — ‘Madana.’ His nature is this: he himself has no body, yet he is a great expert in harming others. Fitting his five arrows, he pierces the bodies of helpless women through and through! If he took their lives at once, that would be good; but instead he only gives pain. The scriptures say that one cannot know another's sorrow. What to speak of others in this matter? Even My dearest friends, Lalitā and the rest, cannot understand My sorrow, and they keep saying again and again, ‘*Sakhī*, be patient.’ *Sakhī*, you say, ‘Kṛṣṇa is an ocean of mercy; sometime or other He will surely accept You.’ But these words of yours will be of no use. For the life of a *jīva* is as unsteady as a drop of water on a lotus leaf. By the time Kṛṣṇa's mercy comes, who will still be alive? A man does not live more than a hundred years. And consider this as well: the wealth of youth of a woman who captivates Kṛṣṇa's heart lasts only a few days. And if you say that Kṛṣṇa is an ocean of good qualities and will surely be merciful, I answer: fire displays its light, draws the moths to it and kills them. So too Kṛṣṇa's qualities: they glitter, draw the hearts of women, and then drown them in an ocean of sorrow — in separation.”
+Śrīmatī says: “Ah, what can I say of My sorrow! When I met Kṛṣṇa, the sprout of love grew within Me. Then, in separation from Kṛṣṇa, that sprout was wounded, and now a stream of sorrow is flowing. Kṛṣṇa is the only physician for this disease, yet Kṛṣṇa makes no effort at all to protect that sprout of love! What can I say about how Kṛṣṇa behaves! Outwardly He is the king of lovers (*nāgara-rāja*), but inwardly He is full of deceit: His one endeavour is to destroy other men’s wives. This is what comes of loving Kṛṣṇa! *Sakhī*, I did not understand this law of the Creator, and I loved Him for the sake of happiness. But this wretched girl received the very opposite — great sorrow! It has come to this: My life is leaving Me, if not now, then any moment! Such is our Kṛṣṇa. And what can I say of that other *tattva* called ‘*prema*’! *Prema* is crooked by nature and *ageyān* — senseless, blind. It does not consider where it is fitting and where not, nor does it weigh the bad consequences. With the rope of the qualities[^19-2] of that cruel cheat, Kṛṣṇa, it has bound Me by the hands and neck, and I cannot get free! This is how Kṛṣṇa and *prema* act! But in this affair of love there is yet another *tattva* — ‘Madana.’ His nature is this: he himself has no body, yet he is a great expert in harming others. Fitting his five arrows, he pierces the bodies of helpless women through and through! If he took their lives at once, that would be good; but instead he only gives pain. The scriptures say that one cannot know another’s sorrow. What to speak of others in this matter? Even My dearest friends, Lalitā and the rest, cannot understand My sorrow, and they keep saying again and again, ‘*Sakhī*, be patient.’ *Sakhī*, you say, ‘Kṛṣṇa is an ocean of mercy; sometime or other He will surely accept You.’ But these words of yours will be of no use. For the life of a *jīva* is as unsteady as a drop of water on a lotus leaf. By the time Kṛṣṇa’s mercy comes, who will still be alive? A man does not live more than a hundred years. And consider this as well: the wealth of youth of a woman who captivates Kṛṣṇa’s heart lasts only a few days. And if you say that Kṛṣṇa is an ocean of good qualities and will surely be merciful, I answer: fire displays its light, draws the moths to it and kills them. So too Kṛṣṇa’s qualities: they glitter, draw the hearts of women, and then drown them in an ocean of sorrow — in separation.”
 
 ## 28
 
-*Sakhī*, without serving Śrī Kṛṣṇa's form, qualities and pastimes, My days and all My senses are going to waste. How then, shameless as I am, can I go on bearing these senses, which are like stones and loads of dry firewood?
+*Sakhī*, without serving Śrī Kṛṣṇa’s form, qualities and pastimes, My days and all My senses are going to waste. How then, shameless as I am, can I go on bearing these senses, which are like stones and loads of dry firewood?
 
 ## 29
 
-Śrī Kṛṣṇa's moonlike face — the abode of the nectar of His flute-song and the birthplace of the nectar of beauty (*lāvaṇya*).
+Śrī Kṛṣṇa’s moonlike face — the abode of the nectar of His flute-song and the birthplace of the nectar of beauty (*lāvaṇya*).
 
 ## 36
 
-When by chance Śrī Kṛṣṇa's form came before My eyes, My heart was struck down by the intoxication of the good fortune of seeing Him. And certain *tattvas* named “Madana” and “Ānanda” stole it away — they did not let Me gaze to My heart's content on the beauty of that form. If I am able to see Kṛṣṇa again, I will adorn that time with many jewels.
+When by chance Śrī Kṛṣṇa’s form came before My eyes, My heart was struck down by the intoxication of the good fortune of seeing Him. And certain *tattvas* named “Madana” and “Ānanda” stole it away — they did not let Me gaze to My heart’s content on the beauty of that form. If I am able to see Kṛṣṇa again, I will adorn that time with many jewels.
 
 ## 39
 
@@ -108,7 +108,7 @@ O Deva! O Dayita! O sole Friend of the world! O Kṛṣṇa! O Capala! O ocean o
 
 ## 81
 
-The wealth of Lord Caitanyadeva is the *cintāmaṇi* of *prema*; by that wealth He is rich. The *cintāmaṇi* of *prema* works like a material *cintāmaṇi*: it produces many, many other *cintāmaṇis* of *prema* and yet remains in all its fullness in the Lord's storehouse. And from the *cintāmaṇi* of *prema* that the Lord gave them, the devotees have spread countless millions of *cintāmaṇis* throughout the whole world.
+The wealth of Lord Caitanyadeva is the *cintāmaṇi* of *prema*; by that wealth He is rich. The *cintāmaṇi* of *prema* works like a material *cintāmaṇi*: it produces many, many other *cintāmaṇis* of *prema* and yet remains in all its fullness in the Lord’s storehouse. And from the *cintāmaṇi* of *prema* that the Lord gave them, the devotees have spread countless millions of *cintāmaṇis* throughout the whole world.
 
 ## 83
 
@@ -116,11 +116,11 @@ Ordinary people have no right to this truth of the emotions that follow Rādhā.
 
 ## 84
 
-Svarūpa Gosvāmī set down Mahāprabhu's last pastimes as *sūtras* of his diary (*kaḍacā*) and placed them in the throat of Śrī Raghunātha dāsa Gosvāmī — that is, he had him learn them by heart. And through Kavirāja Gosvāmī he made them known to the world. Therefore the diary composed by Śrī Svarūpa was never written down as a separate book. This very *Śrī Caitanya-caritāmṛta* is the essence of Svarūpa's diary.
+Svarūpa Gosvāmī set down Mahāprabhu’s last pastimes as *sūtras* of his diary (*kaḍacā*) and placed them in the throat of Śrī Raghunātha dāsa Gosvāmī — that is, he had him learn them by heart. And through Kavirāja Gosvāmī he made them known to the world. Therefore the diary composed by Śrī Svarūpa was never written down as a separate book. This very *Śrī Caitanya-caritāmṛta* is the essence of Svarūpa’s diary.
 
 ## 86
 
-Nowhere in this book of mine is there a contradictory conclusion, and nowhere do I defer to anyone else's opinion. I have written after considering the *sahaja-tattva*, the natural truth. For the *jīva* the truth of *rāga* is natural (*sahaja*), while the path of reasoning is not natural to it. Only what dawns in the truth of *rāga* is the truth of *bhajana* that Śrī Mahāprabhu revealed. But if one's *rāga* is directed toward another doctrine or toward conclusions reached by some other kind of reasoning, one becomes absorbed in them and loses impartiality. And then the *jīva*'s own inherent nature, its *sahaja*, cannot be written down.
+Nowhere in this book of mine is there a contradictory conclusion, and nowhere do I defer to anyone else’s opinion. I have written after considering the *sahaja-tattva*, the natural truth. For the *jīva* the truth of *rāga* is natural (*sahaja*), while the path of reasoning is not natural to it. Only what dawns in the truth of *rāga* is the truth of *bhajana* that Śrī Mahāprabhu revealed. But if one’s *rāga* is directed towards another doctrine or towards conclusions reached by some other kind of reasoning, one becomes absorbed in them and loses impartiality. And then the *jīva*’s own inherent nature, its *sahaja*, cannot be written down.
 
 *Thus ends the second chapter of the Madhya-līlā in the “Amṛta-pravāha-bhāṣya.”*
 

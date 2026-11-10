@@ -8,7 +8,7 @@
 
 ## 3
 
-> Subheading: The Lord's intense separation from Kṛṣṇa —
+> Subheading: The Lord’s intense separation from Kṛṣṇa —
 
 ## 4
 
@@ -18,7 +18,7 @@
 
 > Subheading: Reading and explaining all the “Five Chapters on the Rāsa,” the Lord feels joy and sorrow at once —
 
-Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs' pastimes of separation (*vipralambha*).
+Joy is in Kṛṣṇa’s pastimes of union (*sambhoga*), and sorrow in the gopīs’ pastimes of separation (*vipralambha*).
 
 ## 10
 
@@ -30,7 +30,7 @@ Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs
 
 ## 13
 
-> Subheading: Even Bhagavān Śeṣa is unable to measure the Lord's pastimes —
+> Subheading: Even Bhagavān Śeṣa is unable to measure the Lord’s pastimes —
 
 ## 14
 
@@ -42,7 +42,7 @@ Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs
 
 ## 16
 
-> Subheading: To fathom the gopīs' love and know the measure of its taste, Kṛṣṇa accepts the mood of the gopīs —
+> Subheading: To fathom the gopīs’ love and know the measure of its taste, Kṛṣṇa accepts the mood of the gopīs —
 
 ## 18
 
@@ -50,7 +50,7 @@ Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs
 
 ## 19
 
-> Subheading: Love, which is the relishing of Kṛṣṇa's sweetness, is beyond the power of description even of Bhagavān Himself —
+> Subheading: Love, which is the relishing of Kṛṣṇa’s sweetness, is beyond the power of description even of Bhagavān Himself —
 
 ## 20
 
@@ -58,11 +58,11 @@ Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs
 
 ## 22
 
-> Subheading: Only Svarūpa, Rāma Rāya and others — the host of Kṛṣṇa's potencies — are fit to perceive the Lord's feelings —
+> Subheading: Only Svarūpa, Rāma Rāya and others — the host of Kṛṣṇa’s potencies — are fit to perceive the Lord’s feelings —
 
 ## 24
 
-> Subheading: The Lord recites the verse on Kṛṣṇa's water pastimes with the gopīs —
+> Subheading: The Lord recites the verse on Kṛṣṇa’s water pastimes with the gopīs —
 
 ## 25
 
@@ -70,7 +70,7 @@ Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs
 
 Śrī Śukadeva, the *mahā-bhāgavata*, the crest jewel of the line of *paramahaṁsas*, describes to Parīkṣit, whose heart is pure, the transcendental *rāsa* pastime of Bhagavān Śrī Kṛṣṇa with the transcendental gopīs:
 
-**śrāntaḥ**, **saḥ** (Śrī Kṛṣṇa) **śramam** (the fatigue of play) **apohitum** (to remove) **aṅga-saṅga-ghṛṣṭa-srajaḥ** (of the garland [*srak*] of *kunda* flowers crushed [*ghṛṣṭā*, *sammarditā*] by bodily contact; and therefore) **kuca-kuṅkuma-rañjitāyāḥ** (colored with the kuṅkuma of the breasts; [by bees] connected with it) **gandharva-pālibhiḥ** (*gandharva-pāḥ* are the lords of the Gandharvas; by bees that sing like them) **anudrutaḥ** (followed) **tābhiḥ** **yutaḥ** **bhinna-setuḥ** (having broken through the embankment; as for Kṛṣṇa, Bhagavān Himself, having transgressed the bounds of worldly convention) **gajībhiḥ** **ibha-rāṭ** (the king of elephants) **iva** **vāḥ** (the water) **āviśat** (entered).
+**śrāntaḥ**, **saḥ** (Śrī Kṛṣṇa) **śramam** (the fatigue of play) **apohitum** (to remove) **aṅga-saṅga-ghṛṣṭa-srajaḥ** (of the garland [*srak*] of *kunda* flowers crushed [*ghṛṣṭā*, *sammarditā*] by bodily contact; and therefore) **kuca-kuṅkuma-rañjitāyāḥ** (coloured with the kuṅkuma of the breasts; [by bees] connected with it) **gandharva-pālibhiḥ** (*gandharva-pāḥ* are the lords of the Gandharvas; by bees that sing like them) **anudrutaḥ** (followed) **tābhiḥ** **yutaḥ** **bhinna-setuḥ** (having broken through the embankment; as for Kṛṣṇa, Bhagavān Himself, having transgressed the bounds of worldly convention) **gajībhiḥ** **ibha-rāṭ** (the king of elephants) **iva** **vāḥ** (the water) **āviśat** (entered).
 
 ## 26
 
@@ -78,9 +78,9 @@ Joy is in Kṛṣṇa's pastimes of union (*sambhoga*), and sorrow in the gopīs
 
 ## 31
 
-> Subheading: Unconscious, the Lord floats on the waves toward Koṇārka —
+> Subheading: Unconscious, the Lord floats on the waves towards Koṇārka —
 
-Koṇārka stands on the seashore 19 miles north of Puri, at latitude 19°53′25″ north. At the beginning of the thirteenth century of the Śaka era, an attempt was made here to build a temple of the Sun of black stone — an outstanding example of architectural skill.
+Koṇārka stands on the seashore 19 miles north of Purī, at latitude 19°53′25″ north. At the beginning of the thirteenth century of the Śaka era, an attempt was made here to build a temple of the Sun of black stone — an outstanding example of architectural skill.
 
 ## 32
 
@@ -114,7 +114,7 @@ See Antya 18.80–82.
 
 ## 40
 
-> Subheading: When the beloved is not seen, the loving heart fears misfortune — (*Abhijñāna-śakuntala*, Act 4: Priyaṁvadā's words to Śakuntalā)
+> Subheading: When the beloved is not seen, the loving heart fears misfortune — (*Abhijñāna-śakuntala*, Act 4: Priyaṁvadā’s words to Śakuntalā)
 
 In the drama itself this reading is found: “*sineho pāvasaṅkī*” or “*sineho pāvamāsaṅkadi*.”[^40-1]
 
@@ -146,7 +146,7 @@ Cirāyu-parvata is Caṭaka-parvata.
 
 ## 60
 
-> Subheading: Svarūpa rightly infers that he has found the Lord's trail —
+> Subheading: Svarūpa rightly infers that he has found the Lord’s trail —
 
 ## 61
 
@@ -166,15 +166,15 @@ Cirāyu-parvata is Caṭaka-parvata.
 
 ## 69
 
-> Subheading: Svarūpa speaks of the Lord's love —
+> Subheading: Svarūpa speaks of the Lord’s love —
 
 ## 70
 
-> Subheading: The fisherman shows the Lord to everyone; the Lord's condition —
+> Subheading: The fisherman shows the Lord to everyone; the Lord’s condition —
 
 ## 73
 
-> Subheading: Efforts and service to restore the Lord's consciousness —
+> Subheading: Efforts and service to restore the Lord’s consciousness —
 
 ## 74
 
@@ -186,7 +186,7 @@ Cirāyu-parvata is Caṭaka-parvata.
 
 ## 77
 
-> Subheading: What the Lord's three states are —
+> Subheading: What the Lord’s three states are —
 
 ## 78
 
@@ -194,11 +194,11 @@ Cirāyu-parvata is Caṭaka-parvata.
 
 ## 82
 
-[The friends are] I and other young, cherished maidservants like Me (*mañjarīs*), each wholly devoted to the happiness and joy of serving her own group leader (*yūtheśvarī*). This forbids the *ahaṅgrahopāsanā* (worshipping oneself as God) of a *sādhaka*, rooted in the desire to gratify one's own senses. See the *Anubhāṣya* on Madhya 8.202–204.
+[The friends are] I and other young, cherished maidservants like Me (*mañjarīs*), each wholly devoted to the happiness and joy of serving her own group leader (*yūtheśvarī*). This forbids the *ahaṅgrahopāsanā* (worshipping oneself as God) of a *sādhaka*, rooted in the desire to gratify one’s own senses. See the *Anubhāṣya* on Madhya 8.202–204.
 
 ## 83
 
-> Subheading: Thinking of Himself as a maidservant of the *gopīs*, the Lord describes Kṛṣṇa's water pastimes with Śrī Rādhā and the other *gopīs* (*citra-jalpa*) —
+> Subheading: Thinking of Himself as a maidservant of the *gopīs*, the Lord describes Kṛṣṇa’s water pastimes with Śrī Rādhā and the other *gopīs* (*citra-jalpa*) —
 
 ## 87
 
@@ -210,7 +210,7 @@ Variant reading: *svastike kā̃culī racila* (“she made a bodice with a *svas
 
 ## 98
 
-The lotus opens at sunrise, and so the sun is the lotus's friend; at sunrise the *cakravākas*, too, are reunited. But here the lotus, though the sun's friend, plunders the *cakravāka*, the friend of its own friend the sun. The *cakravāka* is a living being, and the lotus an insentient object. But here the lotus — Kṛṣṇa's hand — though insentient, attacks the living *cakravāka* — the *gopī*'s breast. This is the ornament *virodhābhāsa* (apparent contradiction). The *utpala* closes at sunrise, and so the sun is the *utpala*'s enemy. The *utpala* opens at night, and so it is a stranger to the *cakravāka*. Here the sun is the *utpala*'s enemy, and the *cakravāka* is that enemy's friend. Yet here the *cakravāka* — the *gopī*'s breast — is protected by the *utpala* — the *gopī*'s hand. This too is the wonderful ornament *virodha* (contradiction).
+The lotus opens at sunrise, and so the sun is the lotus’s friend; at sunrise the *cakravākas*, too, are reunited. But here the lotus, though the sun’s friend, plunders the *cakravāka*, the friend of its own friend the sun. The *cakravāka* is a living being, and the lotus an insentient object. But here the lotus — Kṛṣṇa’s hand — though insentient, attacks the living *cakravāka* — the *gopī*’s breast. This is the ornament *virodhābhāsa* (apparent contradiction). The *utpala* closes at sunrise, and so the sun is the *utpala*’s enemy. The *utpala* opens at night, and so it is a stranger to the *cakravāka*. Here the sun is the *utpala*’s enemy, and the *cakravāka* is that enemy’s friend. Yet here the *cakravāka* — the *gopī*’s breast — is protected by the *utpala* — the *gopī*’s hand. This too is the wonderful ornament *virodha* (contradiction).
 
 ## 99
 
@@ -234,15 +234,15 @@ The lotus opens at sunrise, and so the sun is the lotus's friend; at sunrise the
 
 ## 104–105
 
-**koli** — jujube (*kul*, *badarī*); **panasa** — jackfruit (*kā̃ṭāl*); **nāraṅga** — a citrus of the orange kind (*kamalā-lebu*); **drākṣā** — grapes (*āṅgur*); **sāntārā** — a large citrus of the pomelo kind (*bātābi-lebu*) (so called in East Bengal, in the Chittagong division); **meoyā** — pistachios, almonds and other choice, delicious fruits grown in cold countries; **kharamujā** — a fruit related to the watermelon (*taramujā*) but smaller (in some regions also called *phuṭi* or *bāṅgī*); **kṣīrikā** — *khirāi* (translator's note: a kind of cucumber); **tāla** — the soft flesh of the young palm fruit (*tāl-śā̃s*), or *phopal*; **keśura** — a particular grass root of the nut-grass (*muthā*) kind, also known as *kaśeru*, *kaseru* (with short or long *u*); **pānī-phala** — a particular fruit growing in the water of very old ponds and rivers overgrown with weed (*śaivāla*): the *śṛṅgāṭaka*; **mṛṇāla** — the lotus stalk, or the lotus root (?); **dāḍimba** — a fruit of the *maskaṭ* and *bedānā* kind, the pomegranate (*ḍālim*).
+**koli** — jujube (*kul*, *badarī*); **panasa** — jackfruit (*kā̃ṭāl*); **nāraṅga** — a citrus of the orange kind (*kamalā-lebu*); **drākṣā** — grapes (*āṅgur*); **sāntārā** — a large citrus of the pomelo kind (*bātābi-lebu*) (so called in East Bengal, in the Chittagong division); **meoyā** — pistachios, almonds and other choice, delicious fruits grown in cold countries; **kharamujā** — a fruit related to the watermelon (*taramujā*) but smaller (in some regions also called *phuṭi* or *bāṅgī*); **kṣīrikā** — *khirāi* (translator’s note: a kind of cucumber); **tāla** — the soft flesh of the young palm fruit (*tāl-śā̃s*), or *phopal*; **keśura** — a particular grass root of the nut-grass (*muthā*) kind, also known as *kaśeru*, *kaseru* (with short or long *u*); **pānī-phala** — a particular fruit growing in the water of very old ponds and rivers overgrown with weed (*śaivāla*): the *śṛṅgāṭaka*; **mṛṇāla** — the lotus stalk, or the lotus root (?); **dāḍimba** — a fruit of the *maskaṭ* and *bedānā* kind, the pomegranate (*ḍālim*).
 
 ## 106
 
-Here *gaṅgājala* and all the rest are sweet balls (*nāḍu*) and various cake-like foods (*piṣṭaka*) made from curd (*chānā*) of cow's milk with sugar. **khaṇḍa-kṣīrisāra** — various tree-shaped sweets made of sugar.
+Here *gaṅgājala* and all the rest are sweet balls (*nāḍu*) and various cake-like foods (*piṣṭaka*) made from curd (*chānā*) of cow’s milk with sugar. **khaṇḍa-kṣīrisāra** — various tree-shaped sweets made of sugar.
 
 ## 109
 
-> Subheading: The Lord longs for Kṛṣṇa's happiness —
+> Subheading: The Lord longs for Kṛṣṇa’s happiness —
 
 ## 110
 
@@ -258,7 +258,7 @@ Here *gaṅgājala* and all the rest are sweet balls (*nāḍu*) and various cak
 
 ## 120
 
-> Subheading: Whoever hears of this *mahābhāva* of the Lord, even one bereft of consciousness (*acaitanya*), gains consciousness (*caitanya*) — the state of being turned toward Kṛṣṇa —
+> Subheading: Whoever hears of this *mahābhāva* of the Lord, even one bereft of consciousness (*acaitanya*), gains consciousness (*caitanya*) — the state of being turned towards Kṛṣṇa —
 
 *Thus ends the eighteenth chapter of the “Anubhāṣya.”*
 

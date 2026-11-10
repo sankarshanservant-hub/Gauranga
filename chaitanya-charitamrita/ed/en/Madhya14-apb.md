@@ -2,15 +2,15 @@
 
 ## 0
 
-**Summary.** When the Lord became absorbed in love (*premāveśa*) in the Balagaṇḍi garden, King Pratāparudradeva came alone, dressed as a Vaiṣṇava, and began to massage the Lord's feet while reciting verses of the *Bhāgavatam*. Absorbed in *prema*, the Lord embraced him and so showed him mercy. Together with the devotees Mahāprabhu honored the *prasāda* of the Balagaṇḍi *bhoga*. After that the chariot would not move. The king harnessed many mighty elephants to it, but even they could not move it; then Mahāprabhu Himself pushed the chariot with His head and set it moving, while the devotees began pulling the ropes. Mahāprabhu's resting place was Āiṭoṭā, near Guṇḍicā. When Jagannātha was seated at Sundarācala, the pastimes of Vṛndāvana appeared to Mahāprabhu. In Indradyumna Lake the Lord sported in the water with His associates. During the festival of nine nights (*nava-rātra-yātrā*) Mahāprabhu stayed at Jagannātha-vallabha. On the day of *pañcamī*, while watching the Herā-pañcamī pastime, He had a long conversation (with Śrī Svarūpa) about the nature of Lakṣmī and of the *gopīs*. Hearing from Śrī Svarūpa's lips that Rādhikā's *bhāva* surpasses everything, Mahāprabhu attained supreme bliss. During the return journey (*punar-yātrā*) there was *kīrtana* and so on, and afterward Śrīman Mahāprabhu ordered Rāmānanda Vasu and Satyarāja Khān of Kulīnagrāma to bring silken ropes (*paṭṭa-ḍorī*) (for Śrī Jagannātha) every year.
+**Summary.** When the Lord became absorbed in love (*premāveśa*) in the Balagaṇḍi garden, King Pratāparudradeva came alone, dressed as a Vaiṣṇava, and began to massage the Lord’s feet while reciting verses of the *Bhāgavatam*. Absorbed in *prema*, the Lord embraced him and so showed him mercy. Together with the devotees Mahāprabhu honoured the *prasāda* of the Balagaṇḍi *bhoga*. After that the chariot would not move. The king harnessed many mighty elephants to it, but even they could not move it; then Mahāprabhu Himself pushed the chariot with His head and set it moving, while the devotees began pulling the ropes. Mahāprabhu’s resting place was Āiṭoṭā, near Guṇḍicā. When Jagannātha was seated at Sundarācala, the pastimes of Vṛndāvana appeared to Mahāprabhu. In Indradyumna Lake the Lord sported in the water with His associates. During the festival of nine nights (*nava-rātra-yātrā*) Mahāprabhu stayed at Jagannātha-vallabha. On the day of *pañcamī*, while watching the Herā-pañcamī pastime, He had a long conversation (with Śrī Svarūpa) about the nature of Lakṣmī and of the *gopīs*. Hearing from Śrī Svarūpa’s lips that Rādhikā’s *bhāva* surpasses everything, Mahāprabhu attained supreme bliss. During the return journey (*punar-yātrā*) there was *kīrtana* and so on, and afterward Śrīman Mahāprabhu ordered Rāmānanda Vasu and Satyarāja Khān of Kulīnagrāma to bring silken ropes (*paṭṭa-ḍorī*) (for Śrī Jagannātha) every year.
 
 ## 1
 
-Together with His devotees Gauracandra watched Lakṣmī-devī's festival procession (*vijayotsava*) and heard of the *gopīs'* joy in the *rāsa* dance.[^1-1] His heart filled with delight, and He danced.
+Together with His devotees Gauracandra watched Lakṣmī-devī’s festival procession (*vijayotsava*) and heard of the *gopīs’* joy in the *rāsa* dance.[^1-1] His heart filled with delight, and He danced.
 
 ## 8
 
-*Jayati te 'dhikam* — the chapter: the *Gopī-gītā* among the five chapters on the *rāsa* dance (*rāsa-pañcādhyāya*), Canto 10, Chapter 31.
+*Jayati te ’dhikam* — the chapter: the *Gopī-gītā* among the five chapters on the *rāsa* dance (*rāsa-pañcādhyāya*), Canto 10, Chapter 31.
 
 ## 13
 
@@ -54,11 +54,11 @@ The day of Herā-pañcamī: the fifth day after the Ratha-yātrā is called Her�
 
 ## 132–133
 
-When Jagannātha sets out on His chariot, He tells Lakṣmī, “I will come back tomorrow.” Two or three days pass and Jagannātha does not return, and loving Lakṣmī, seeing even a trace of her Beloved's indifference, by her very nature flares up in anger. Then Lakṣmī, dressed and seated in a palanquin (*vimāna*) by her maidservants, comes out of the temple. At this time a supreme mystery unfolds at Jagannātha's temple: Lakṣmī's attendants tie up Jagannātha's chief attendants and bring them before her.
+When Jagannātha sets out on His chariot, He tells Lakṣmī, “I will come back tomorrow.” Two or three days pass and Jagannātha does not return, and loving Lakṣmī, seeing even a trace of her Beloved’s indifference, by her very nature flares up in anger. Then Lakṣmī, dressed and seated in a palanquin (*vimāna*) by her maidservants, comes out of the temple. At this time a supreme mystery unfolds at Jagannātha’s temple: Lakṣmī’s attendants tie up Jagannātha’s chief attendants and bring them before her.
 
 ## 136–139
 
-Seeing such boldness (*prāgalbhya*) on Lakṣmī's part, Svarūpa Gosvāmī, to show the excellence of the wealth of love of the people of Vraja, said: “Prabhu, I have never heard of such *māna* as Lakṣmī's anywhere in the three worlds. When a beloved is in *māna* (a *māninī*), she loses all zest and puts off her ornaments; with a downcast face she sits on the ground and scratches at random with her nail. Such is the *māna* of the *gopīs* in Vraja, and Satyabhāmā, who lives in the city, is known to show the same *māna*. But Lakṣmī-devī's *māna*, I see, is just the opposite: she displays her wealth, musters her troops and goes to attack her beloved.”
+Seeing such boldness (*prāgalbhya*) on Lakṣmī’s part, Svarūpa Gosvāmī, to show the excellence of the wealth of love of the people of Vraja, said: “Prabhu, I have never heard of such *māna* as Lakṣmī’s anywhere in the three worlds. When a beloved is in *māna* (a *māninī*), she loses all zest and puts off her ornaments; with a downcast face she sits on the ground and scratches at random with her nail. Such is the *māna* of the *gopīs* in Vraja, and Satyabhāmā, who lives in the city, is known to show the same *māna*. But Lakṣmī-devī’s *māna*, I see, is just the opposite: she displays her wealth, musters her troops and goes to attack her beloved.”
 
 ## 141
 
@@ -86,7 +86,7 @@ The *gopīs* are of two kinds, *vāmā* and *dakṣiṇā*. Among the *gopīs* t
 
 ## 167
 
-*Sāttvika*: the *sāttvika-vikāras* (spiritual transformations) are of eight kinds: (1) becoming stunned (*stambha*), (2) perspiration (*sveda*), (3) hair standing on end (*romāñca*), (4) faltering of the voice (*svara-bhaṅga*), (5) trembling (*vepathu*), (6) change of color (*vaivarṇya*), (7) tears (*aśru*) and (8) fainting (*pralaya*).
+*Sāttvika*: the *sāttvika-vikāras* (spiritual transformations) are of eight kinds: (1) becoming stunned (*stambha*), (2) perspiration (*sveda*), (3) hair standing on end (*romāñca*), (4) faltering of the voice (*svara-bhaṅga*), (5) trembling (*vepathu*), (6) change of colour (*vaivarṇya*), (7) tears (*aśru*) and (8) fainting (*pralaya*).
 
 *Vyabhicārī*: the *vyabhicārī*, or *sañcārī*, *bhāvas* are thirty-three: (1) *nirveda*, (2) *viṣāda*, (3) *dainya*, (4) *glāni*, (5) *śrama*, (6) *mada*, (7) *garva*, (8) *śaṅkā*, (9) *trāsa*, (10) *āvega*, (11) *unmāda*, (12) *apasmāra*, (13) *vyādhi*, (14) *moha*, (15) *mati*,[^167-1] (16) *ālasya*, (17) *jāḍya*, (18) *vrīḍā*, (19) *avahitthā*, (20) *smṛti*, (21) *vitarka*, (22) *cintā*, (23) *mati*, (24) *dhṛti*, (25) *harṣa*, (26) *autsukya*, (27) *augrya*, (28) *amarṣa*, (29) *asūyā*, (30) *cāpalya*, (31) *nidrā*, (32) *supti* and (33) *prabodha*.
 
@@ -94,7 +94,7 @@ The ornaments that are *bhāvas* are twenty: (a) *aṅgaja* (born of the body) �
 
 ## 171–173
 
-When, seeing Śrīmatī's ornaments of feeling, Kṛṣṇa wants to touch Her, He arranges this pastime either on the road to the ferry crossing (*dāna-ghāṭi*) or in the flower forest. On the road to the *dāna-ghāṭi* the pastime goes like this: standing on the road along which Śrīmatī is going with Her wares, or at the crossing, Kṛṣṇa says, “Until You pay the toll, I forbid You to go along this road,” and on this pretext He begins the pastime of *dāna-keli* (the toll-collecting game). And when Rādhikā goes to gather flowers, Kṛṣṇa, posing as the owner of the flower garden, says, “You are stealing My flowers,” and begins a pastime. In such places and at such times Śrī Rādhā's *kila-kiñcita* *bhāva* arises.
+When, seeing Śrīmatī’s ornaments of feeling, Kṛṣṇa wants to touch Her, He arranges this pastime either on the road to the ferry crossing (*dāna-ghāṭi*) or in the flower forest. On the road to the *dāna-ghāṭi* the pastime goes like this: standing on the road along which Śrīmatī is going with Her wares, or at the crossing, Kṛṣṇa says, “Until You pay the toll, I forbid You to go along this road,” and on this pretext He begins the pastime of *dāna-keli* (the toll-collecting game). And when Rādhikā goes to gather flowers, Kṛṣṇa, posing as the owner of the flower garden, says, “You are stealing My flowers,” and begins a pastime. In such places and at such times Śrī Rādhā’s *kila-kiñcita* *bhāva* arises.
 
 ## 174
 
@@ -102,11 +102,11 @@ The blending (*saṅkarīkaraṇa*), that is, the mixing, of seven *bhāvas* —
 
 ## 180
 
-May the glance of Śrī Rādhikā, full of the *kila-kiñcita* *bhāva* born of joy and joined with the seven *bhāvas*, pride and the rest, bring you good fortune. When Śrī Kṛṣṇa came on the road to the *dāna-ghāṭi* and blocked Her way, laughter arose in Rādhā's heart. Then Her eyes shone, Her eyelashes filled with freshly welling tears, the corners of both eyes reddened slightly; from the surge of *rasa* liveliness rose in Her eyes; Her tearful eyes began to close a little, and both pupils, wondrously beautiful, turned upward.
+May the glance of Śrī Rādhikā, full of the *kila-kiñcita* *bhāva* born of joy and joined with the seven *bhāvas*, pride and the rest, bring you good fortune. When Śrī Kṛṣṇa came on the road to the *dāna-ghāṭi* and blocked Her way, laughter arose in Rādhā’s heart. Then Her eyes shone, Her eyelashes filled with freshly welling tears, the corners of both eyes reddened slightly; from the surge of *rasa* liveliness rose in Her eyes; Her tearful eyes began to close a little, and both pupils, wondrously beautiful, turned upward.
 
 ## 181
 
-Rādhikā's eyes clouded with tears and their reddish corners quivered; from the surge of *rasa* and amorous feeling (*kandarpa-bhāva*) Her lips trembled; Her brows arched; a faint smile appeared on Her lotus face. Śrī Kṛṣṇa saw the happiness born of the *kila-kiñcita* *bhāva* becoming manifest, and looking at Rādhikā's face He attained a happiness ten million times greater than in meeting with Her — it cannot be described in words.
+Rādhikā’s eyes clouded with tears and their reddish corners quivered; from the surge of *rasa* and amorous feeling (*kandarpa-bhāva*) Her lips trembled; Her brows arched; a faint smile appeared on Her lotus face. Śrī Kṛṣṇa saw the happiness born of the *kila-kiñcita* *bhāva* becoming manifest, and looking at Rādhikā’s face He attained a happiness ten million times greater than in meeting with Her — it cannot be described in words.
 
 ## 187
 
@@ -122,15 +122,15 @@ Where the arrangement and curve of the limbs and the play of the brows are charm
 
 ## 194
 
-When Rādhikā, to increase Kṛṣṇa's love, adorned Herself with the ornament of *lalita*, Her neck bent in shyness, Her feet and waist took on a sweet curve, and the play of Her creeper-like brows defeated even Kāmadeva's mighty bow. And Her beautiful form became visible, full of the *lalita* *bhāva* and radiant with the joy of love for the Most Beloved.
+When Rādhikā, to increase Kṛṣṇa’s love, adorned Herself with the ornament of *lalita*, Her neck bent in shyness, Her feet and waist took on a sweet curve, and the play of Her creeper-like brows defeated even Kāmadeva’s mighty bow. And Her beautiful form became visible, full of the *lalita* *bhāva* and radiant with the joy of love for the Most Beloved.
 
 ## 197
 
-When [Kṛṣṇa] seizes [Rādhā's] bodice (*kāñculi*) and the veil over Her face, Her heart blossoms, yet out of reverential awe (*sambhrama*) She outwardly shows anger, as if She were hurt. These signs are called *kuṭṭamita*.
+When [Kṛṣṇa] seizes [Rādhā’s] bodice (*kāñculi*) and the veil over Her face, Her heart blossoms, yet out of reverential awe (*sambhrama*) She outwardly shows anger, as if She were hurt. These signs are called *kuṭṭamita*.
 
 ## 200
 
-Although Rādhikā, whose thighs are like a young elephant's trunk, showed unwillingness when Kṛṣṇa held Her back with His hand, Her rebukes in return concealed a sweet smile, and on Her face was a charming dry weeping (a pretense of weeping).
+Although Rādhikā, whose thighs are like a young elephant’s trunk, showed unwillingness when Kṛṣṇa held Her back with His hand, Her rebukes in return concealed a sweet smile, and on Her face was a charming dry weeping (a pretence of weeping).
 
 ## 205
 
@@ -138,7 +138,7 @@ Although Rādhikā, whose thighs are like a young elephant's trunk, showed unwil
 
 ## 207–208
 
-Lakṣmī's maidservants say: “O servants of Jagannātha! Look: leaving such wealth, your Ṭhākura has gone to a flower garden for the sake of fruits, leaves and flowers. (Now) bring your master before Lakṣmī-devī.”
+Lakṣmī’s maidservants say: “O servants of Jagannātha! Look: leaving such wealth, your Ṭhākura has gone to a flower garden for the sake of fruits, leaves and flowers. (Now) bring your master before Lakṣmī-devī.”
 
 ## 211
 
@@ -154,7 +154,7 @@ There dwell countless millions of Lakṣmīs full of sweetness (*mādhurya*), wh
 
 ## 227
 
-In that Vṛndāvana the beloveds are the Vraja-lakṣmīs, the *gopīs*; the Beloved is the Supreme Person, Śrī Kṛṣṇa; all the trees are wish-fulfilling trees; all the land is spiritual, the water is nectar, speech is song, walking is dance, and Kṛṣṇa's flute is a dear friend; and everywhere the light of spiritual bliss (*cid-ānanda-jyoti*) is felt. Therefore Śrī Vṛndāvana alone is the supreme object of relish.
+In that Vṛndāvana the beloveds are the Vraja-lakṣmīs, the *gopīs*; the Beloved is the Supreme Person, Śrī Kṛṣṇa; all the trees are wish-fulfilling trees; all the land is spiritual, the water is nectar, speech is song, walking is dance, and Kṛṣṇa’s flute is a dear friend; and everywhere the light of spiritual bliss (*cid-ānanda-jyoti*) is felt. Therefore Śrī Vṛndāvana alone is the supreme object of relish.
 
 ## 228
 
@@ -162,13 +162,13 @@ The ankle ornaments of the beautiful women of Vraja in Śrī Vṛndāvana are *c
 
 ## 235–238
 
-Seeing that the Lord, absorbed in Rādhā's love, had manifested the form of Rādhikā, Prabhu Nityānanda kept at a distance, for this did not befit his position (*adhikāra-virodha*). And Svarūpa Gosvāmī, by a stratagem, broke the Lord's loving absorption.
+Seeing that the Lord, absorbed in Rādhā’s love, had manifested the form of Rādhikā, Prabhu Nityānanda kept at a distance, for this did not befit his position (*adhikāra-virodha*). And Svarūpa Gosvāmī, by a stratagem, broke the Lord’s loving absorption.
 
 ## 240–241
 
-Some *viṭilas* (hypocrites who make a show of piety) have doubts about whether one may accept Lakṣmī-devī's *prasāda*.
+Some *viṭilas* (hypocrites who make a show of piety) have doubts about whether one may accept Lakṣmī-devī’s *prasāda*.
 
-Note this: Śrī Mahāprabhu Himself, together with the devotees, honored that *prasāda*. The meaning is this: Lakṣmī and all the other potencies (*śaktis*) are maidservants of Śrī Bhagavān. When devotees offer them delicious food, the potencies offer it to their Lord, Śrī Kṛṣṇa, and only then partake of it. Therefore the *prasāda* of the servants and maidservants of Bhagavān should always be honored as the *prasāda* of Bhagavān Himself. One further point remains to be considered here: whether the potencies of Bhagavān accept food offered by atheistic Māyāvādīs is very doubtful. Therefore it befits Vaiṣṇavas to partake only of food that pure Vaiṣṇavas have offered to the servants and maidservants of Bhagavān.
+Note this: Śrī Mahāprabhu Himself, together with the devotees, honoured that *prasāda*. The meaning is this: Lakṣmī and all the other potencies (*śaktis*) are maidservants of Śrī Bhagavān. When devotees offer them delicious food, the potencies offer it to their Lord, Śrī Kṛṣṇa, and only then partake of it. Therefore the *prasāda* of the servants and maidservants of Bhagavān should always be honoured as the *prasāda* of Bhagavān Himself. One further point remains to be considered here: whether the potencies of Bhagavān accept food offered by atheistic Māyāvādīs is very doubtful. Therefore it befits Vaiṣṇavas to partake only of food that pure Vaiṣṇavas have offered to the servants and maidservants of Bhagavān.
 
 ## 244
 
@@ -186,7 +186,7 @@ The silken ropes (*paṭṭa-ḍorī*) with which the Pāṇḍu-vijaya of the t
 
 ---
 
-[^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs'* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs'* *parakīya-rasa*.
+[^1-1]: The edition has *rāsollāsa* (the joy of the *rāsa* dance); the verse reads *gopī-rasollāsam* (the joy of the *gopīs’* *rasa*), which the *Anubhāṣya* explains as the highest degree of the *gopīs’* *parakīya-rasa*.
 
 [^167-1]: The edition (scan checked) reads *mati* here, as in item 23; in the list of the *Bhakti-rasāmṛta-sindhu* this place belongs to *mṛti* (a deathlike swoon); apparently a misprint.
 

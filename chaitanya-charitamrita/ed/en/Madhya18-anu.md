@@ -18,11 +18,11 @@
 
 ## 5
 
-> Subheading: Gaura, endowed with Rādhā's mood and radiance, discovers the hidden Śrī Rādhā-kuṇḍa —
+> Subheading: Gaura, endowed with Rādhā’s mood and radiance, discovers the hidden Śrī Rādhā-kuṇḍa —
 
 ## 6
 
-> Subheading: The villagers' wonder —
+> Subheading: The villagers’ wonder —
 
 ## 7
 
@@ -36,7 +36,7 @@ See Ādi 4.215.
 
 ## 12
 
-> Subheading: The glory and sweetness of Śrī Rādhā-kuṇḍa cannot be described — (the author's words in the *Govinda-līlāmṛta*, canto 7, verse 102)
+> Subheading: The glory and sweetness of Śrī Rādhā-kuṇḍa cannot be described — (the author’s words in the *Govinda-līlāmṛta*, canto 7, verse 102)
 
 **śrī-rādhā** **iva** **tadīya-sarasī** (Rādhā-kuṇḍa) **svaiḥ** **adbhutaiḥ** (unprecedented) **guṇaiḥ** **hareḥ** (to Kṛṣṇa) **preṣṭhā** (giving the highest delight) — **yasyāṁ** (in which lake) **śrī-yuta-mādhavenduḥ** (Śrī Kṛṣṇacandra) **tayā** (with Rādhā) **prītyā** **aniśam** (ceaselessly) **krīḍati**; **bata** (oh! — expressing wonder) **yasyāṁ** (in which lake) **sakṛt** (once) **snāna-kṛt** (one who bathes) **asmin** (for Kṛṣṇa) **rādhikā** **iva** **prema** **labhate** — **tasyāḥ** (of that lake of Rādhā) **mahimā** **tathā** **madhurimā** **kṣitau** (on earth) **kena** (by whom) **varṇyaḥ** (can be described)? (No one is able to fathom it.)
 
@@ -58,7 +58,7 @@ See Ādi 4.215.
 
 ## 20
 
-> Subheading: Everyone is amazed to see the Lord; Harideva's servant honors the Lord —
+> Subheading: Everyone is amazed to see the Lord; Harideva’s servant honours the Lord —
 
 ## 21
 
@@ -66,7 +66,7 @@ See Ādi 4.215.
 
 ## 22
 
-> Subheading: The Lord spends the night in Harideva's temple and thinks of how to see Gopāla, who stays on Govardhana —
+> Subheading: The Lord spends the night in Harideva’s temple and thinks of how to see Gopāla, who stays on Govardhana —
 
 ## 24
 
@@ -80,9 +80,9 @@ See Ādi 4.215.
 
 ## 26
 
-> Subheading: Spreading a rumor of the *mlecchas'* violence, Gopāla comes down to the village of Gāṭholī —
+> Subheading: Spreading a rumour of the *mlecchas’* violence, Gopāla comes down to the village of Gāṭholī —
 
-In the fifth wave of the *Bhakti-ratnākara*: “He feeds the cowherd men and women — there is no end to His fun. That is why this place is called ‘Āniyor.’ Look, Śrīnivāsa: here is the place of Annakūṭa. Seeing this place, one's every desire is fulfilled.” In the *Vraja-vilāsa-stava* of the *Stavāvalī*: “I take shelter of Annakūṭa, the place where Kṛṣṇa, the enemy of Agha, assuming a huge, towering body, eagerly eats the offering presented by Nanda, the best of Vraja, while deceiving the beautiful Rādhā.” “Look: near the *kuṇḍa* is a dense forest. Here ‘Gopāla’ stayed in hiding.”
+In the fifth wave of the *Bhakti-ratnākara*: “He feeds the cowherd men and women — there is no end to His fun. That is why this place is called ‘Āniyor.’ Look, Śrīnivāsa: here is the place of Annakūṭa. Seeing this place, one’s every desire is fulfilled.” In the *Vraja-vilāsa-stava* of the *Stavāvalī*: “I take shelter of Annakūṭa, the place where Kṛṣṇa, the enemy of Agha, assuming a huge, towering body, eagerly eats the offering presented by Nanda, the best of Vraja, while deceiving the beautiful Rādhā.” “Look: near the *kuṇḍa* is a dense forest. Here ‘Gopāla’ stayed in hiding.”
 
 ## 27
 
@@ -100,9 +100,9 @@ In the fifth wave of the *Bhakti-ratnākara*: “He feeds the cowherd men and wo
 
 > Subheading: Praise of Śrī Govardhana — (*Śrīmad-Bhāgavatam* 10.21.18)
 
-When autumn came to Vraja, Śrī Kṛṣṇa went from forest to forest herding the cows and playing His flute. Then the gopīs, longing for Kṛṣṇa's company, began to sing of His enchanting qualities. Wandering here and there, they saw before them Govardhana, the king of hills, nondifferent from Vrajendranandana, and sang:
+When autumn came to Vraja, Śrī Kṛṣṇa went from forest to forest herding the cows and playing His flute. Then the gopīs, longing for Kṛṣṇa’s company, began to sing of His enchanting qualities. Wandering here and there, they saw before them Govardhana, the king of hills, nondifferent from Vrajendranandana, and sang:
 
-**he abalāḥ** (O friends) **hanta** (expressing joy) **ayam** **adriḥ** (this Govardhana — surely) **hari-dāsa-varyaḥ** (the best of Hari's servants) — **yat** (because) **rāma-kṛṣṇa-caraṇa-sparśa-pramodaḥ** (he rejoices at the touch of the feet of Rāma and Kṛṣṇa: one can see his hair stand on end in the form of sprouting grass and the like) **yat** (and because) **pānīya-sūyavasa-kandara-kanda-mūlaiḥ** (with drinking water, with lush, tender, beautiful grass, with caves, bulbs and roots — with fitting food) **saha-go-gaṇayoḥ** (who are accompanied by the cows and the band of friends) **tayoḥ** (to Rāma and Kṛṣṇa) **mānam** (honor) **tanoti** (offers; therefore he is supremely blessed — this is the meaning).
+**he abalāḥ** (O friends) **hanta** (expressing joy) **ayam** **adriḥ** (this Govardhana — surely) **hari-dāsa-varyaḥ** (the best of Hari’s servants) — **yat** (because) **rāma-kṛṣṇa-caraṇa-sparśa-pramodaḥ** (he rejoices at the touch of the feet of Rāma and Kṛṣṇa: one can see his hair stand on end in the form of sprouting grass and the like) **yat** (and because) **pānīya-sūyavasa-kandara-kanda-mūlaiḥ** (with drinking water, with lush, tender, beautiful grass, with caves, bulbs and roots — with fitting food) **saha-go-gaṇayoḥ** (who are accompanied by the cows and the band of friends) **tayoḥ** (to Rāma and Kṛṣṇa) **mānam** (honour) **tanoti** (offers; therefore he is supremely blessed — this is the meaning).
 
 ## 35
 
@@ -110,7 +110,7 @@ When autumn came to Vraja, Śrī Kṛṣṇa went from forest to forest herding 
 
 Govinda-kuṇḍa is in the village of “Āniyor” on Śrī Govardhana hill, on the way from the village of Paiṭhā. Here there are two temples, of Govinda and of Baladeva, and a pond called “Govinda-kuṇḍa”; according to some, it was built by Queen Padmāvatī.
 
-In the fifth wave of the *Bhakti-ratnākara*: “Great is the glory of this Śrī Govinda-kuṇḍa: here Indra performed Govinda's *abhiṣeka*.” In the *Vraja-vilāsa-stava* of the *Stavāvalī*: “May Govinda-kuṇḍa always shine before my eyes — the *kuṇḍa* that arose from the waters of the heavenly Gaṅgā with which the king of the gods himself, humbly, in fear of His might, clasping His feet, celebrated here, with the help of Surabhi, the festival of the *abhiṣeka* of Govinda, who had just gained the kingdom of the cows — clearly for the sake of play.” In the *Mathurā-khaṇḍa*: “Where Maghavān, the enemy of the Yadus, anointed Bhagavān, there arose Govinda-kuṇḍa; a single bath in it grants liberation.”
+In the fifth wave of the *Bhakti-ratnākara*: “Great is the glory of this Śrī Govinda-kuṇḍa: here Indra performed Govinda’s *abhiṣeka*.” In the *Vraja-vilāsa-stava* of the *Stavāvalī*: “May Govinda-kuṇḍa always shine before my eyes — the *kuṇḍa* that arose from the waters of the heavenly Gaṅgā with which the king of the gods himself, humbly, in fear of His might, clasping His feet, celebrated here, with the help of Surabhi, the festival of the *abhiṣeka* of Govinda, who had just gained the kingdom of the cows — clearly for the sake of play.” In the *Mathurā-khaṇḍa*: “Where Maghavān, the enemy of the Yadus, anointed Bhagavān, there arose Govinda-kuṇḍa; a single bath in it grants liberation.”
 
 Gāṭholī-grāma is a village near Gopālapura, or Bilchu. Tradition says that here the knot of love of the young couple of Vraja was tied. In the *Bhakti-ratnākara* (wave 5): “A friend secretly tied the garments of the two of Them in a knot… * * Someone, receiving a *phaguā* (festive gift), untied the knot.” That is why this village is called “Gā̃ṭholī.”
 
@@ -134,11 +134,11 @@ Gāṭholī-grāma is a village near Gopālapura, or Bilchu. Tradition says that
 
 ## 41
 
-> Subheading: The Lord's desire to see Gopāla is fulfilled —
+> Subheading: The Lord’s desire to see Gopāla is fulfilled —
 
 ## 42
 
-> Subheading: The devotees' feelings on seeing the all-merciful Gopāla —
+> Subheading: The devotees’ feelings on seeing the all-merciful Gopāla —
 
 ## 43
 
@@ -158,13 +158,13 @@ Gāṭholī-grāma is a village near Gopālapura, or Bilchu. Tradition says that
 
 ## 47
 
-> Subheading: Gopāla stays for a month in Mathurā, in the house of Viṭhṭhaleśvara, Vallabha's son —
+> Subheading: Gopāla stays for a month in Mathurā, in the house of Viṭhṭhaleśvara, Vallabha’s son —
 
 *Viṭhṭhaleśvara.* In the fifth wave of the *Bhakti-ratnākara*: “Viṭhṭhala served [Gopāla]; Kṛṣṇa Caitanya longed intensely to see Him.[^47-1] Śrī Viṭhṭhalanātha was the son of Vallabha Bhaṭṭa; how much love he showed cannot be told. Gopāla came to the village of ‘Gāṭholī’ ‘on a pretext’; seeing Him, Gaurahari was absorbed in singing and dancing. Śrī Dāsa Gosvāmī and others took counsel together and made Śrī Viṭhṭhaleśvara the one in charge of the service. After the departure of his father, Śrī Vallabha Bhaṭṭa, he lived for some time in Mathurā in seclusion.”
 
 Śrī Vallabha Bhaṭṭa had two sons. The elder, “Gopīnātha,” was born in 1432 of the Śaka era, and the younger, “Viṭhṭhalanātha,” was born in 1437 Śaka and left this world in 1507 Śaka. Viṭhṭhala had seven sons: Giridhara, Govinda, Bālakṛṣṇa, Gokuleśa, Raghunātha, Yadunātha and Ghanaśyāma. Viṭhṭhala completed the remaining part of the commentary on the *Brahma-sūtra* that his father had left unfinished, wrote notes (*ṭippanī*) on the *Subodhinī*, and composed the *Vidvan-maṇḍana*, the *Śṛṅgāra-rasa-maṇḍana*, the *Nyāsādeśa-vivaraṇa* and other books. “For a full seventy years and twenty-eight days Śrīmad Viṭhṭhala Dīkṣita shone upon the earth.”
 
-Śrī Mahāprabhu went to Śrī Vṛndāvana in the year before the birth of Viṭhṭhala, Vallabha's son, or in the year before that. When Śrī Rūpa Gosvāmī was old, Śrī Gopāla stayed for a month at the Mathurā residence of Viṭhṭhalanātha, Vallabha's son.
+Śrī Mahāprabhu went to Śrī Vṛndāvana in the year before the birth of Viṭhṭhala, Vallabha’s son, or in the year before that. When Śrī Rūpa Gosvāmī was old, Śrī Gopāla stayed for a month at the Mathurā residence of Viṭhṭhalanātha, Vallabha’s son.
 
 ## 48
 
@@ -172,7 +172,7 @@ Gāṭholī-grāma is a village near Gopālapura, or Bilchu. Tradition says that
 
 ## 49
 
-Lokanātha was an utterly detached associate of Śrī Mahāprabhu, a *mahā-bhāgavata* and a *gosvāmī*. Formerly he lived in the village of “Tālakhaḍi” in Yaśohara, and before that in Kācanāpāḍā. His father's name was Padmanābha, and his only younger brother was “Pragalbha.” On the Lord's order Lokanātha lived in Vraja and performed his worship; he gave initiation to only one person, Śrī Narottama Ṭhākura Mahāśaya. Probably out of great humility he forbade anyone to describe his life, and so the *Caritāmṛta* does not tell of him in any detail. To reach “Tālakhaḍi,” one takes the Eastern Bengal Railway line to “Yaśohara” station, from there goes by motorcar to Sonākhāli, from there to Khejurā, and then on foot, or by boat in the rainy season. The descendants of his own brother are especially respected in society under the name “the Bhaṭṭācāryas of Tālakhaḍi.” For an account of his brother's family, see the *Vaiṣṇava-mañjuṣā-samāhṛti*, issue 4.
+Lokanātha was an utterly detached associate of Śrī Mahāprabhu, a *mahā-bhāgavata* and a *gosvāmī*. Formerly he lived in the village of “Tālakhaḍi” in Yaśohara, and before that in Kācanāpāḍā. His father’s name was Padmanābha, and his only younger brother was “Pragalbha.” On the Lord’s order Lokanātha lived in Vraja and performed his worship; he gave initiation to only one person, Śrī Narottama Ṭhākura Mahāśaya. Probably out of great humility he forbade anyone to describe his life, and so the *Caritāmṛta* does not tell of him in any detail. To reach “Tālakhaḍi,” one takes the Eastern Bengal Railway line to “Yaśohara” station, from there goes by motorcar to Sonākhāli, from there to Khejurā, and then on foot, or by boat in the rainy season. The descendants of his own brother are especially respected in society under the name “the Bhaṭṭācāryas of Tālakhaḍi.” For an account of his brother’s family, see the *Vaiṣṇava-mañjuṣā-samāhṛti*, issue 4.
 
 ## 49–52
 
@@ -186,7 +186,7 @@ In the sixth wave of the *Bhakti-ratnākara*: “Gopāla Bhaṭṭa Gosvāmī, s
 
 > Subheading: The Lord comes to Kāmyavana —
 
-*Kāmyavana.* In the *Ādi-vārāha*: “The fourth is the forest Kāmyaka, the best of forests. O goddess, one who goes there is honored in My world.” In the fifth wave of the *Bhakti-ratnākara*: “In this Kāmyavana are Kṛṣṇa's enchanting pastimes. You will see many places and *kuṇḍas* here. The *tīrthas* in Kāmyavana are beyond counting.”
+*Kāmyavana.* In the *Ādi-vārāha*: “The fourth is the forest Kāmyaka, the best of forests. O goddess, one who goes there is honoured in My world.” In the fifth wave of the *Bhakti-ratnākara*: “In this Kāmyavana are Kṛṣṇa’s enchanting pastimes. You will see many places and *kuṇḍas* here. The *tīrthas* in Kāmyavana are beyond counting.”
 
 ## 56
 
@@ -194,9 +194,9 @@ In the sixth wave of the *Bhakti-ratnākara*: “Gopāla Bhaṭṭa Gosvāmī, s
 
 ## 57
 
-> Subheading: From Vṛndāvana the Lord comes to Nandīśvara, sees Nanda's home and is overwhelmed with love —
+> Subheading: From Vṛndāvana the Lord comes to Nandīśvara, sees Nanda’s home and is overwhelmed with love —
 
-*Nandīśvara* is Nanda's home. In the *Bhakti-ratnākara* (wave 5): “Look: around Nandīśvara are *kuṇḍas* and forests; this place of Kṛṣṇa's pastimes purifies the world.”
+*Nandīśvara* is Nanda’s home. In the *Bhakti-ratnākara* (wave 5): “Look: around Nandīśvara are *kuṇḍas* and forests; this place of Kṛṣṇa’s pastimes purifies the world.”
 
 ## 58
 
@@ -240,7 +240,7 @@ See Ādi 4.173.
 
 ## 67
 
-> Subheading: The Lord sees Śrīvana, Lohavana and Gokula, Kṛṣṇa's birthplace —
+> Subheading: The Lord sees Śrīvana, Lohavana and Gokula, Kṛṣṇa’s birthplace —
 
 *Śrīvana.* “The forest named Bilvavana, the tenth, worshipped by the gods.” (*Bhakti-ratnākara*, ibid.:) “Beautiful is Bilvavana, worshipped by the gods.”
 
@@ -252,7 +252,7 @@ See Ādi 4.173.
 
 *Pāvana-sarovara.*[^58-67-1] In the *Mathurā-māhātmya*: “Bathing in the lake Pāvana on the hill of Nandīśvara and seeing Nanda and Yaśodā, one obtains all that one desires.”[^58-67-2] (*Bhakti-ratnākara*, ibid.:) “This Pāvana-sarovara is very dear to Kṛṣṇa.”
 
-In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their son, Śrī Nanda and Yaśodā shine in a wondrous cave. O Śrīnivāsa, Śrī Caitanya Rāya came here and entered the cave to see Them. Śrī Nanda and Yaśodā are on either side, and in the middle is Kṛṣṇacandra; seeing Him, the Lord's eyes lit up with joy. Bowing at the feet of Śrī Nanda and Yaśodā, He touched all of Kṛṣṇa's body in delight, and in the ecstasy of love He began to sing and dance.”
+In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their son, Śrī Nanda and Yaśodā shine in a wondrous cave. O Śrīnivāsa, Śrī Caitanya Rāya came here and entered the cave to see Them. Śrī Nanda and Yaśodā are on either side, and in the middle is Kṛṣṇacandra; seeing Him, the Lord’s eyes lit up with joy. Bowing at the feet of Śrī Nanda and Yaśodā, He touched all of Kṛṣṇa’s body in delight, and in the ecstasy of love He began to sing and dance.”
 
 ## 68
 
@@ -274,17 +274,17 @@ In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their s
 
 > Subheading: The Lord comes to see Vṛndāvana and bathes in Kālīya-hrada and in Praskandana —
 
-*Vṛndāvana.* “Oh, how lovely is Vṛndāvana, where the hill of Govardhana stands!” “The twelfth is Vṛndāvana, guarded by Vṛndā.” (*Bhakti-ratnākara*, wave 5:) “The abode most dear to Kṛṣṇa is Vṛndāvana; this forest of ‘five *yojanas*’ is Kṛṣṇa's body. * * Vṛndāvana measures sixteen *krośas*: so people say.”
+*Vṛndāvana.* “Oh, how lovely is Vṛndāvana, where the hill of Govardhana stands!” “The twelfth is Vṛndāvana, guarded by Vṛndā.” (*Bhakti-ratnākara*, wave 5:) “The abode most dear to Kṛṣṇa is Vṛndāvana; this forest of ‘five *yojanas*’ is Kṛṣṇa’s body. * * Vṛndāvana measures sixteen *krośas*: so people say.”
 
-*Kālīya-hrada.* “To the east of Kālīya-hrada is a revered *kadamba* tree. Beyond it is the *tīrtha* called Kālīya-tīrtha, which destroys sin: here Bhagavān, as a child, danced on Kālīya's head.” (*Bhakti-ratnākara*, wave 5:) “This Kālīya-tīrtha destroys sins; at the place of Kālīya-tīrtha many aims are fulfilled.”
+*Kālīya-hrada.* “To the east of Kālīya-hrada is a revered *kadamba* tree. Beyond it is the *tīrtha* called Kālīya-tīrtha, which destroys sin: here Bhagavān, as a child, danced on Kālīya’s head.” (*Bhakti-ratnākara*, wave 5:) “This Kālīya-tīrtha destroys sins; at the place of Kālīya-tīrtha many aims are fulfilled.”
 
-*Praskandana.* “The place named Praskandana is auspicious and takes away all sins. A person who bathes there is freed from all sins.” (*Bhakti-ratnākara*, wave 5:) “Look: bathing at the place of Praskandana takes away sins, and one who gives up his life here attains the world of Viṣṇu. O Śrīnivāsa, through the heat of the suns the cold went away, and sweat appeared on [Kṛṣṇa's] body. That sweat mingled with the daughter of the Sun; that is why the *tīrtha* came to be named ‘Praskandana.’ Śrī Advaita Īśvara, nondifferent from Śrī Kṛṣṇa Caitanya, lived in this forest for some time.”
+*Praskandana.* “The place named Praskandana is auspicious and takes away all sins. A person who bathes there is freed from all sins.” (*Bhakti-ratnākara*, wave 5:) “Look: bathing at the place of Praskandana takes away sins, and one who gives up his life here attains the world of Viṣṇu. O Śrīnivāsa, through the heat of the suns the cold went away, and sweat appeared on [Kṛṣṇa’s] body. That sweat mingled with the daughter of the Sun; that is why the *tīrtha* came to be named ‘Praskandana.’ Śrī Advaita Īśvara, nondifferent from Śrī Kṛṣṇa Caitanya, lived in this forest for some time.”
 
 ## 72
 
 > Subheading: From Dvādaśāditya the Lord comes to Keśī-tīrtha and, seeing the Rāsa-sthalī, faints —
 
-*Dvādaśa-āditya.* “The *tīrtha* called Dvādaśāditya-tīrtha purifies beyond compare; merely by seeing it people's sins are destroyed.” (*Bhakti-ratnākara*, ibid.:) “Behold: here is Dvādaśāditya-tīrtha.”
+*Dvādaśa-āditya.* “The *tīrtha* called Dvādaśāditya-tīrtha purifies beyond compare; merely by seeing it people’s sins are destroyed.” (*Bhakti-ratnākara*, ibid.:) “Behold: here is Dvādaśāditya-tīrtha.”
 
 *Keśī-tīrtha.* In the *Ādi-vārāha*: “Where Keśī was struck down, the merit is a hundred times that of the Gaṅgā.” (*Bhakti-ratnākara*, ibid.:) “Kṛṣṇa killed Keśī with the greatest delight.”
 
@@ -340,11 +340,11 @@ In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their s
 
 > Subheading: Kṛṣṇadāsa tells how, on seeing the Lord, he found that his dream had come true —
 
-*Parateka*: “before one's eyes” (*pratyakṣa*, *sākṣāt*).
+*Parateka*: “before one’s eyes” (*pratyakṣa*, *sākṣāt*).
 
 ## 88
 
-> Subheading: The Lord shows him mercy; Kṛṣṇadāsa's love —
+> Subheading: The Lord shows him mercy; Kṛṣṇadāsa’s love —
 
 ## 89
 
@@ -352,11 +352,11 @@ In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their s
 
 ## 90
 
-> Subheading: From then on Kṛṣṇadāsa carries the Lord's *kamaṇḍalu* and is His constant companion —
+> Subheading: From then on Kṛṣṇadāsa carries the Lord’s *kamaṇḍalu* and is His constant companion —
 
 ## 91
 
-> Subheading: The rumor that Kṛṣṇa has appeared in Vṛndāvana —
+> Subheading: The rumour that Kṛṣṇa has appeared in Vṛndāvana —
 
 ## 92
 
@@ -368,7 +368,7 @@ In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their s
 
 ## 94
 
-> Subheading: The rumor of Kṛṣṇa's appearance; the delusion (*vivarta*) of foolish people —
+> Subheading: The rumour of Kṛṣṇa’s appearance; the delusion (*vivarta*) of foolish people —
 
 ## 95
 
@@ -412,11 +412,11 @@ In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their s
 
 ## 106
 
-> Subheading: The fools' delusion (*vivarta-buddhi*) —
+> Subheading: The fools’ delusion (*vivarta-buddhi*) —
 
 ## 107
 
-> Subheading: On the other hand, both the rumour and the people's seeing of Kṛṣṇa are true —
+> Subheading: On the other hand, both the rumour and the people’s seeing of Kṛṣṇa are true —
 
 ## 108
 
@@ -428,7 +428,7 @@ In the *Bhakti-ratnākara* (wave 5): “Look: on the hill, together with their s
 
 ## 111
 
-> Subheading: The Lord's teaching to the people: the *jīva* is not “Kṛṣṇa,” and therefore to think of a *jīva* as Kṛṣṇa is forbidden —
+> Subheading: The Lord’s teaching to the people: the *jīva* is not “Kṛṣṇa,” and therefore to think of a *jīva* as Kṛṣṇa is forbidden —
 
 ## 112
 
@@ -450,7 +450,7 @@ See Ādi 2.96.
 
 > Subheading: To regard the *jīva* and Nārāyaṇa as equal is itself godlessness (*pāṣaṇḍatā*) —
 
-*Pāṣaṇḍī*: see Ādi 3.78. A *pāṣaṇḍī* is one who considers Śrī Viṣṇu — the master of *māyā*, whose form is pure *sattva* and consciousness — to be “one” with the *jīva*, who is subject to *māyā*, or with some material object made of *māyā*, or who considers them equal. The *Bhakti-sandarbha* uses the word *pāṣaṇḍa* in many places. In section 255, where the offenses against the holy name are described, it says, in describing one of them — blasphemy of the *śruti* and *śāstra*: “…as, for example, among the *pāṣaṇḍīs*, the worshippers of Dattātreya and Ṛṣabhadeva, who follow the path of *pāṣaṇḍa*.” Again, in describing another offense — the idea of “I” and “mine,” that is, identifying oneself with the body: “By the word *pāṣaṇḍa* arising from the body, wealth and so on, the ten offenses themselves are meant, for they are made of godlessness.” Again, in section 223: “One who offers oblations and gives gifts for the sake of the gods, or who acts on his own authority in his deeds, should be known as a *pāṣaṇḍī*”; that is, to be a *pāṣaṇḍī* means simply to fall from the Vaiṣṇava path. Again, in section 179, following the *Viṣṇu-dharma*, it relates how Uparicara Vasu, a devotee of Viṣṇu, delivered the *pāṣaṇḍī* demons. It describes how, at the order of Śukra, the guru of the Daityas, the *pāṣaṇḍīs* tried to instruct Uparicara Vasu in the path of *pāṣaṇḍa*, and how he nevertheless remained unshaken. And again, in section 153, describing *arthavāda* about the holy name of Hari and offenses against Vaiṣṇavas: “And we hear that such an offense paralyzes devotion… The *pāṣaṇḍas* who, out of greed for the body and so on, are guilty of the ten offenses, beginning with disregard for the guru…” The godlessness of the *pāṣaṇḍī* is described in many verses: *Śrīmad-Bhāgavatam* 4.2.28, 30, 32; 5.6.9; 12.2.13, 43, and others.
+*Pāṣaṇḍī*: see Ādi 3.78. A *pāṣaṇḍī* is one who considers Śrī Viṣṇu — the master of *māyā*, whose form is pure *sattva* and consciousness — to be “one” with the *jīva*, who is subject to *māyā*, or with some material object made of *māyā*, or who considers them equal. The *Bhakti-sandarbha* uses the word *pāṣaṇḍa* in many places. In section 255, where the offences against the holy name are described, it says, in describing one of them — blasphemy of the *śruti* and *śāstra*: “…as, for example, among the *pāṣaṇḍīs*, the worshippers of Dattātreya and Ṛṣabhadeva, who follow the path of *pāṣaṇḍa*.” Again, in describing another offence — the idea of “I” and “mine,” that is, identifying oneself with the body: “By the word *pāṣaṇḍa* arising from the body, wealth and so on, the ten offences themselves are meant, for they are made of godlessness.” Again, in section 223: “One who offers oblations and gives gifts for the sake of the gods, or who acts on his own authority in his deeds, should be known as a *pāṣaṇḍī*”; that is, to be a *pāṣaṇḍī* means simply to fall from the Vaiṣṇava path. Again, in section 179, following the *Viṣṇu-dharma*, it relates how Uparicara Vasu, a devotee of Viṣṇu, delivered the *pāṣaṇḍī* demons. It describes how, at the order of Śukra, the guru of the Daityas, the *pāṣaṇḍīs* tried to instruct Uparicara Vasu in the path of *pāṣaṇḍa*, and how he nevertheless remained unshaken. And again, in section 153, describing *arthavāda* about the holy name of Hari and offences against Vaiṣṇavas: “And we hear that such an offence paralyses devotion… The *pāṣaṇḍas* who, out of greed for the body and so on, are guilty of the ten offences, beginning with disregard for the guru…” The godlessness of the *pāṣaṇḍī* is described in many verses: *Śrīmad-Bhāgavatam* 4.2.28, 30, 32; 5.6.9; 12.2.13, 43, and others.
 
 ## 116
 
@@ -464,7 +464,7 @@ See Ādi 2.96.
 
 ## 119
 
-> Subheading: Before His dear devotee, Bhagavān's true nature (*svarūpa*) reveals itself of its own accord —
+> Subheading: Before His dear devotee, Bhagavān’s true nature (*svarūpa*) reveals itself of its own accord —
 
 See Ādi 3.85–89. Even when musk is tied in the corner of a cloth, its scent breaks through the fabric and fills every direction; in the same way, though You hide Yourself under the covering of a devotee-*jīva*, Your nature as Bhagavān does not stay hidden.
 
@@ -484,7 +484,7 @@ See Madhya 16.186.
 
 ## 126
 
-> Subheading: All this describes the Lord's marginal characteristics (*taṭastha-lakṣaṇa*); in His essence the Lord is Kṛṣṇa Himself in His original form (*svayaṁ-rūpa*) —
+> Subheading: All this describes the Lord’s marginal characteristics (*taṭastha-lakṣaṇa*); in His essence the Lord is Kṛṣṇa Himself in His original form (*svayaṁ-rūpa*) —
 
 ## 127
 
@@ -520,7 +520,7 @@ Kānyakubja, Sārasvata, Gauḍa, Maithila and Utkala are the five Gauḍa brāh
 
 ## 135
 
-> Subheading: Sitting at Akrūra-ghāṭa, the Lord reflects on how the *dhāma* was seen, each according to his own capacity, by Akrūra, a worshipper of the Lord's majesty (*aiśvarya*), and by the people of Vraja, servants of His sweetness (*mādhurya*) —
+> Subheading: Sitting at Akrūra-ghāṭa, the Lord reflects on how the *dhāma* was seen, each according to his own capacity, by Akrūra, a worshipper of the Lord’s majesty (*aiśvarya*), and by the people of Vraja, servants of His sweetness (*mādhurya*) —
 
 ## 137
 
@@ -536,7 +536,7 @@ Kānyakubja, Sārasvata, Gauḍa, Maithila and Utkala are the five Gauḍa brāh
 
 ## 141
 
-> Subheading: Fearing the crowds, the pressing invitations to meals, and the Lord's constant absorption in love, the Bhaṭṭa wishes to take the Lord away from Vṛndāvana —
+> Subheading: Fearing the crowds, the pressing invitations to meals, and the Lord’s constant absorption in love, the Bhaṭṭa wishes to take the Lord away from Vṛndāvana —
 
 ## 142
 
@@ -570,11 +570,11 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 151
 
-> Subheading: The Bhaṭṭa's impatience —
+> Subheading: The Bhaṭṭa’s impatience —
 
 ## 152
 
-> Subheading: Though the Lord did not wish to leave Vṛndāvana, He fulfils the Bhaṭṭa's wish and praises him —
+> Subheading: Though the Lord did not wish to leave Vṛndāvana, He fulfils the Bhaṭṭa’s wish and praises him —
 
 ## 155
 
@@ -610,7 +610,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 164
 
-> Subheading: Taking all four of the Lord's companions for robbers who had killed Him, the leader of the troop wants to put them to death —
+> Subheading: Taking all four of the Lord’s companions for robbers who had killed Him, the leader of the troop wants to put them to death —
 
 ## 165
 
@@ -662,7 +662,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 179
 
-> Subheading: The *mleccha* at once releases all four, so the Lord had no occasion to see hostility toward His devotees —
+> Subheading: The *mleccha* at once releases all four, so the Lord had no occasion to see hostility towards His devotees —
 
 ## 180
 
@@ -720,7 +720,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 199
 
-> Subheading: The *maulānā* accepts the Lord's words as “true” and agrees with them, admitting the weakness of heart of the Muslim scholars —
+> Subheading: The *maulānā* accepts the Lord’s words as “true” and agrees with them, admitting the weakness of heart of the Muslim scholars —
 
 ## 200
 
@@ -730,7 +730,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 201
 
-> Subheading: He recognizes the Lord as “the Supreme Lord” and begs for mercy —
+> Subheading: He recognises the Lord as “the Supreme Lord” and begs for mercy —
 
 ## 202
 
@@ -738,7 +738,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 203
 
-> Subheading: At the sight of the Lord the name of Kṛṣṇa appears of itself on the *maulānā*'s tongue, and his material pride disappears —
+> Subheading: At the sight of the Lord the name of Kṛṣṇa appears of itself on the *maulānā*’s tongue, and his material pride disappears —
 
 ## 204
 
@@ -746,11 +746,11 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 205
 
-> Subheading: The Lord reassures him: even the semblance (*ābhāsa*) of Kṛṣṇa's name has destroyed his heap of sins —
+> Subheading: The Lord reassures him: even the semblance (*ābhāsa*) of Kṛṣṇa’s name has destroyed his heap of sins —
 
 ## 206
 
-> Subheading: At the Lord's instruction, everyone takes up the name of Kṛṣṇa —
+> Subheading: At the Lord’s instruction, everyone takes up the name of Kṛṣṇa —
 
 ## 207
 
@@ -762,7 +762,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 209
 
-> Subheading: He too takes shelter at the Lord's feet, and the Lord places His foot on his head —
+> Subheading: He too takes shelter at the Lord’s feet, and the Lord places His foot on his head —
 
 ## 210
 
@@ -770,7 +770,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 211
 
-> Subheading: Their fame as “Paṭhān Vaiṣṇavas”; everywhere they sing the Lord's qualities —
+> Subheading: Their fame as “Paṭhān Vaiṣṇavas”; everywhere they sing the Lord’s qualities —
 
 ## 212
 
@@ -818,19 +818,19 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ## 223
 
-> Subheading: The Lord's pastimes are fathomless; even Śeṣa Himself cannot describe the love in Vṛndāvana —
+> Subheading: The Lord’s pastimes are fathomless; even Śeṣa Himself cannot describe the love in Vṛndāvana —
 
 ## 224
 
-> Subheading: The author's humility: he describes only a general outline —
+> Subheading: The author’s humility: he describes only a general outline —
 
 ## 225
 
-> Subheading: Only the unfortunate do not believe in Caitanya's pastimes —
+> Subheading: Only the unfortunate do not believe in Caitanya’s pastimes —
 
 ## 226
 
-> Subheading: The author asks all his listeners to have firm faith in Caitanya's pastimes and to accept them as the genuine, true reality —
+> Subheading: The author asks all his listeners to have firm faith in Caitanya’s pastimes and to accept them as the genuine, true reality —
 
 ## 227
 
@@ -844,7 +844,7 @@ For those devoted to *karma*, bathing at Prayāga in the month of Māgha gives s
 
 ---
 
-[^47-1]: Literally: “Viṭhṭhala's service — the Kṛṣṇa Caitanya *vigraha*; great eagerness to see Him”; the sense of the line is ambiguous.
+[^47-1]: Literally: “Viṭhṭhala’s service — the Kṛṣṇa Caitanya *vigraha*; great eagerness to see Him”; the sense of the line is ambiguous.
 
 [^58-67-1]: So in the edition (checked against the scan); in content the note concerns verses 58–62.
 

@@ -4,11 +4,11 @@
 
 > Subheading: Obeisance to Mādhavendra Purī, the servant of “Kṣīra-corā Gopīnātha” —
 
-**gopīnāthaḥ** (the famous Deity of that name in the village of Remuṇā) **kṣīra-bhāṇḍaṁ** (a vessel full of *pāyasa*) **corayan** (stealing) **yasmai** (for Śrī Mādhavendra) **dātuṁ** (to give) **kṣīra-corābhidhaḥ abhūt** (received the name “Kṣīra-corā Gopīnātha”); **yat** (whose — Mādhavendra's) **premṇā** (by the love) **vaśaḥ** (conquered) **śrī gopālaḥ** (the Deity installed by Vajra, the Holder of Govardhana) **prādurāsīt** (appeared), **taṁ mādhavendraṁ** (to that Mādhavendra Purī — the disciple of Lakṣmīpati, the guru of the Mādhva-sampradāya) **nataḥ asmi** (I bow down).
+**gopīnāthaḥ** (the famous Deity of that name in the village of Remuṇā) **kṣīra-bhāṇḍaṁ** (a vessel full of *pāyasa*) **corayan** (stealing) **yasmai** (for Śrī Mādhavendra) **dātuṁ** (to give) **kṣīra-corābhidhaḥ abhūt** (received the name “Kṣīra-corā Gopīnātha”); **yat** (whose — Mādhavendra’s) **premṇā** (by the love) **vaśaḥ** (conquered) **śrī gopālaḥ** (the Deity installed by Vajra, the Holder of Govardhana) **prādurāsīt** (appeared), **taṁ mādhavendraṁ** (to that Mādhavendra Purī — the disciple of Lakṣmīpati, the guru of the Mādhva-sampradāya) **nataḥ asmi** (I bow down).
 
 ## 3
 
-> Subheading: The Lord's other pastimes after His arrival in Nīlācala are sweetly described in the *Caitanya-bhāgavata* —
+> Subheading: The Lord’s other pastimes after His arrival in Nīlācala are sweetly described in the *Caitanya-bhāgavata* —
 
 ## 6
 
@@ -20,7 +20,7 @@
 
 ## 9
 
-> Subheading: The author's incomparable humility of giving honor to others (*mānada-dharma*) — obeisance to Vṛndāvana dāsa —
+> Subheading: The author’s incomparable humility of giving honour to others (*mānada-dharma*) — obeisance to Vṛndāvana dāsa —
 
 ## 10
 
@@ -34,7 +34,7 @@
 
 ## 15
 
-> Subheading: The Lord dances and sings *kīrtana*, and the servants of the Deity honor Him —
+> Subheading: The Lord dances and sings *kīrtana*, and the servants of the Deity honour Him —
 
 ## 17
 
@@ -42,7 +42,7 @@
 
 ## 18
 
-> Subheading: The Lord stays there to honor the *kṣīra-prasāda*, which, as He had heard from His guru, awakens remembrance of Kṛṣṇa's love for His devotees —
+> Subheading: The Lord stays there to honour the *kṣīra-prasāda*, which, as He had heard from His guru, awakens remembrance of Kṛṣṇa’s love for His devotees —
 
 ## 19
 
@@ -148,7 +148,7 @@
 
 ## 60
 
-Cleansing (*sammārjana*) is done with powdered barley, wheat flour, *lodhra*, *kuṅkuma*, lentils (*masūra*) or *māṣa* beans. Dirt is removed from the body by rubbing with a paste (*udvartana*, or *ābāṭā*) of *kalāya* peas and ground flour, and with brushes (*kūrcas*) made of *uśīra* and the like, brushes made of the hair of a cow's tail, and so on. The same *Hari-bhakti-vilāsa* says: “There, first of all, let him with devotion gently anoint Śrī Hari (perform *abhyaṅga*) with divine fragrant substances such as oils.” The substances for *abhyaṅga*: “People who with devotion take *mālatī* and *yūthī*, or other fragrant flowers, or flowers of other kinds… He who anoints Viṣṇu with flower oil mixed with divine herbs, adding *kuṅkuma* to it… Scented oils, divine, fragrant and pure.”
+Cleansing (*sammārjana*) is done with powdered barley, wheat flour, *lodhra*, *kuṅkuma*, lentils (*masūra*) or *māṣa* beans. Dirt is removed from the body by rubbing with a paste (*udvartana*, or *ābāṭā*) of *kalāya* peas and ground flour, and with brushes (*kūrcas*) made of *uśīra* and the like, brushes made of the hair of a cow’s tail, and so on. The same *Hari-bhakti-vilāsa* says: “There, first of all, let him with devotion gently anoint Śrī Hari (perform *abhyaṅga*) with divine fragrant substances such as oils.” The substances for *abhyaṅga*: “People who with devotion take *mālatī* and *yūthī*, or other fragrant flowers, or flowers of other kinds… He who anoints Viṣṇu with flower oil mixed with divine herbs, adding *kuṅkuma* to it… Scented oils, divine, fragrant and pure.”
 
 ## 61
 
@@ -202,21 +202,21 @@ See Ādi 3.86–89.
 
 ## 83
 
-> Subheading: Everyone honors the *mahā-prasāda* of the Annakūṭa —
+> Subheading: Everyone honours the *mahā-prasāda* of the Annakūṭa —
 
 ## 85
 
-> Subheading: All who merely came to see honored the *prasāda* —
+> Subheading: All who merely came to see honoured the *prasāda* —
 
 ## 86
 
-> Subheading: Purī's power astonishes everyone, and the Annakūṭa recalls the festival of Nanda —
+> Subheading: Purī’s power astonishes everyone, and the Annakūṭa recalls the festival of Nanda —
 
-***The Annakūṭa of old.*** At the end of the Dvāpara-yuga, on Śrī Kṛṣṇa's advice, the cowherds gave up the worship of Indra and worshipped the cows, the brāhmaṇas and Govardhana Hill. Śrī Kṛṣṇa assumed another form, said, “I am the hill,” and ate the abundant offerings. (*Śrīmad-Bhāgavatam* 10.24.26, 31–33): “Let various dishes be cooked, from *pāyasa* to soup; let *saṁyāva*, *āpūpas* and *śaṣkulīs* be made, and let all the milk be collected. Hearing these words, Nanda and the other cowherds accepted them as good and did everything as Madhusūdana had said. Having had [the brāhmaṇas] recite blessings (*svastyayana*), with those provisions they respectfully presented offerings to the hill and to the twice-born, and gave grass to the cows.”
+***The Annakūṭa of old.*** At the end of the Dvāpara-yuga, on Śrī Kṛṣṇa’s advice, the cowherds gave up the worship of Indra and worshipped the cows, the brāhmaṇas and Govardhana Hill. Śrī Kṛṣṇa assumed another form, said, “I am the hill,” and ate the abundant offerings. (*Śrīmad-Bhāgavatam* 10.24.26, 31–33): “Let various dishes be cooked, from *pāyasa* to soup; let *saṁyāva*, *āpūpas* and *śaṣkulīs* be made, and let all the milk be collected. Hearing these words, Nanda and the other cowherds accepted them as good and did everything as Madhusūdana had said. Having had [the brāhmaṇas] recite blessings (*svastyayana*), with those provisions they respectfully presented offerings to the hill and to the twice-born, and gave grass to the cows.”
 
 ## 87
 
-> Subheading: By Purī's mercy the brāhmaṇas became Vaiṣṇavas —
+> Subheading: By Purī’s mercy the brāhmaṇas became Vaiṣṇavas —
 
 ## 88
 
@@ -224,11 +224,11 @@ See Ādi 3.86–89.
 
 ## 89
 
-> Subheading: Word of Gopāla's appearance spreads everywhere, and *annakūṭa* is offered to Him —
+> Subheading: Word of Gopāla’s appearance spreads everywhere, and *annakūṭa* is offered to Him —
 
 ## 91
 
-> Subheading: Purī Gosāñi's evening meal —
+> Subheading: Purī Gosāñi’s evening meal —
 
 ***Gavya*** — milk.
 
@@ -242,7 +242,7 @@ See Ādi 3.86–89.
 
 ## 96
 
-> Subheading: Everyone honors the *mahā-prasāda* —
+> Subheading: Everyone honours the *mahā-prasāda* —
 
 ## 97
 
@@ -262,11 +262,11 @@ See Ādi 3.86–89.
 
 ## 101
 
-> Subheading: The building of Gopāla's temple —
+> Subheading: The building of Gopāla’s temple —
 
 ## 102
 
-> Subheading: Gopāla's many cows —
+> Subheading: Gopāla’s many cows —
 
 ## 103
 
@@ -288,17 +288,17 @@ See Ādi 3.86–89.
 
 ## 110
 
-> Subheading: Purī comes to Advaita's house in Śāntipura and initiates Advaita —
+> Subheading: Purī comes to Advaita’s house in Śāntipura and initiates Advaita —
 
 ## 111
 
 > Subheading: From Śāntipura Purī sets out on the road to Purī —
 
-Advaita Prabhu received the mantra of initiation from Śrī Mādhavendra Purī, the king of ascetics (*yatirāja*) and guru of the Mādhva-sampradāya. And Śrī Mahāprabhu, in keeping with Śrī Mādhavendra Purī's intention, taught: “Whether one is a *vipra*, a *sannyāsī* or a *śūdra* — whoever knows the truth of Kṛṣṇa is a guru.”[^111-1]
+Advaita Prabhu received the mantra of initiation from Śrī Mādhavendra Purī, the king of ascetics (*yatirāja*) and guru of the Mādhva-sampradāya. And Śrī Mahāprabhu, in keeping with Śrī Mādhavendra Purī’s intention, taught: “Whether one is a *vipra*, a *sannyāsī* or a *śūdra* — whoever knows the truth of Kṛṣṇa is a guru.”[^111-1]
 
 According to the *Pañcarātra*, no one but a householder brāhmaṇa has the right to give initiation (*dīkṣā*). For one who receives *dīkṣā* attains the brāhmaṇa status of initiation (*daikṣa* brāhmaṇa status), and a non-brāhmaṇa has no power to pass brāhmaṇa status on to another. Brāhmaṇa status is therefore, as a matter of course, a necessary quality of the one who gives initiation and is inseparable from the position of a Vaiṣṇava *ācārya*. A householder living in *varṇāśrama* can gather the various articles of worship (*upacāras*) with honest money he has earned himself and worship Bhagavān with mantras. A disciple engaged in worldly affairs learns from such an experienced householder guru that the sole aim of *varṇāśrama* is the service of Bhagavān, and he asks for initiation into the mantra so that he himself may be freed from the desires of household life. That is why the guru must be a genuine Vaiṣṇava householder. A *sannyāsī* guru who devotes himself to Deity worship (*arcana*) meets with many difficulties.
 
-When one accepts a guru who leads to the highest goal (*pāramārthika-guru*), the general rule may seem almost disregarded, but in reality it is not disregarded. Brāhmaṇa status by birth (*śaukra-vipratva*) or *śūdra* status by birth (*śaukra-śūdratva*) is not at all the brāhmaṇa qualification meant where a guru is concerned; what is meant is *sāvitrya* and *daikṣya* brāhmaṇa status. Śrī Mahāprabhu saw the weakness of the hearts of the *jīvas* and of society. He knew that common people's notion of caste rests entirely on birth from seed, and therefore He spoke as He did in the verse *kibā vipra*. He only explained the purport of the scriptures, for there is no doubt that one who knows the truth of Kṛṣṇa is a *sāvitrya* or *daikṣya* brāhmaṇa. “Because it gives divine knowledge and destroys sin, the teachers who know the truth call it *dīkṣā*.” “Householder guru” does not mean *gṛhavratas*, slaves of the senses; nor does “Vaiṣṇava *sannyāsī*” mean a person proud of his place in *varṇāśrama*.
+When one accepts a guru who leads to the highest goal (*pāramārthika-guru*), the general rule may seem almost disregarded, but in reality it is not disregarded. Brāhmaṇa status by birth (*śaukra-vipratva*) or *śūdra* status by birth (*śaukra-śūdratva*) is not at all the brāhmaṇa qualification meant where a guru is concerned; what is meant is *sāvitrya* and *daikṣya* brāhmaṇa status. Śrī Mahāprabhu saw the weakness of the hearts of the *jīvas* and of society. He knew that common people’s notion of caste rests entirely on birth from seed, and therefore He spoke as He did in the verse *kibā vipra*. He only explained the purport of the scriptures, for there is no doubt that one who knows the truth of Kṛṣṇa is a *sāvitrya* or *daikṣya* brāhmaṇa. “Because it gives divine knowledge and destroys sin, the teachers who know the truth call it *dīkṣā*.” “Householder guru” does not mean *gṛhavratas*, slaves of the senses; nor does “Vaiṣṇava *sannyāsī*” mean a person proud of his place in *varṇāśrama*.
 
 ## 112
 
@@ -314,15 +314,15 @@ When one accepts a guru who leads to the highest goal (*pāramārthika-guru*), t
 
 ## 116
 
-> Subheading: The priest tells of the glory of Gopīnātha's *kṣīra-bhoga* and praises it —
+> Subheading: The priest tells of the glory of Gopīnātha’s *kṣīra-bhoga* and praises it —
 
 ## 119
 
-> Subheading: Purī's desire to please Kṛṣṇa —
+> Subheading: Purī’s desire to please Kṛṣṇa —
 
 ## 120
 
-> Subheading: The desire to offer Gopāla *bhoga* like Gopīnātha's *kṣīra-bhoga* —
+> Subheading: The desire to offer Gopāla *bhoga* like Gopīnātha’s *kṣīra-bhoga* —
 
 ***Ayācita*** — without asking.
 
@@ -334,13 +334,13 @@ When one accepts a guru who leads to the highest goal (*pāramārthika-guru*), t
 
 ## 122
 
-> Subheading: Having seen Gopīnātha's *bhoga* and *ārati*, Purī leaves —
+> Subheading: Having seen Gopīnātha’s *bhoga* and *ārati*, Purī leaves —
 
 ## 123
 
-> Subheading: Purī's conduct —
+> Subheading: Purī’s conduct —
 
-The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Prabhu: he delighted in the name of Kṛṣṇa and was indifferent (*udāsa*), that is, detached (*udāsīna*), toward matter.
+The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Prabhu: he delighted in the name of Kṛṣṇa and was indifferent (*udāsa*), that is, detached (*udāsīna*), towards matter.
 
 ## 124
 
@@ -380,7 +380,7 @@ The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Pr
 
 ## 136
 
-> Subheading: Hearing from the priest of Gopīnātha's theft, Purī is filled with love —
+> Subheading: Hearing from the priest of Gopīnātha’s theft, Purī is filled with love —
 
 ## 137
 
@@ -390,7 +390,7 @@ The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Pr
 
 ## 138
 
-> Subheading: Purī honors the *kṣīra-prasāda* not to gratify his own senses —
+> Subheading: Purī honours the *kṣīra-prasāda* not to gratify his own senses —
 
 ## 139
 
@@ -406,11 +406,11 @@ The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Pr
 
 ## 143
 
-> Subheading: Purī's love on seeing Jagannātha in Purī-dhāma —
+> Subheading: Purī’s love on seeing Jagannātha in Purī-dhāma —
 
 ## 145
 
-> Subheading: News of Purī's arrival spreads everywhere —
+> Subheading: News of Purī’s arrival spreads everywhere —
 
 ## 146
 
@@ -418,11 +418,11 @@ The natural (*sahaja*) state of a *paramahaṁsa* in Śrī Mādhavendra Purī Pr
 
 ## 146–147
 
-Many conditioned souls are envious (*matsara*) by nature. Against anyone who gains a good name, the envious are by nature inclined to act. Therefore one who craves fame (*pratiṣṭhā*) usually meets with ill will from spiteful people instead of fame. But those who out of humility do not desire fame are encouraged by the society of the envious, who think them quite incapable and wretched (*dīna*) and pity them — and so bring them fame. Vaiṣṇavas in the material world do not beg for such fame. So as not to gain worldly fame, Śrī Mādhavendra, the king of Vaiṣṇavas, tried to hide from people's eyes the incident that showed how dear he was to Bhagavān. But seeing his other displays of love for Kṛṣṇa, all the people of the world say that it is a sign of Śrī Bhagavān's eagerness and care for His own devotee (*tadīya-bhakta*). In truth the highest fame rightly belongs to Śrī Purīpāda. But some imitate him: they hide behind the walls of his mood, put on a false humility, and pretend that they have nothing to do with fame. It is impossible for them to become established in the humility that befits a Vaiṣṇava.
+Many conditioned souls are envious (*matsara*) by nature. Against anyone who gains a good name, the envious are by nature inclined to act. Therefore one who craves fame (*pratiṣṭhā*) usually meets with ill will from spiteful people instead of fame. But those who out of humility do not desire fame are encouraged by the society of the envious, who think them quite incapable and wretched (*dīna*) and pity them — and so bring them fame. Vaiṣṇavas in the material world do not beg for such fame. So as not to gain worldly fame, Śrī Mādhavendra, the king of Vaiṣṇavas, tried to hide from people’s eyes the incident that showed how dear he was to Bhagavān. But seeing his other displays of love for Kṛṣṇa, all the people of the world say that it is a sign of Śrī Bhagavān’s eagerness and care for His own devotee (*tadīya-bhakta*). In truth the highest fame rightly belongs to Śrī Purīpāda. But some imitate him: they hide behind the walls of his mood, put on a false humility, and pretend that they have nothing to do with fame. It is impossible for them to become established in the humility that befits a Vaiṣṇava.
 
 ## 148
 
-> Subheading: Though unwilling to stay where he is honored, Purī remains for the sake of the Lord's service —
+> Subheading: Though unwilling to stay where he is honoured, Purī remains for the sake of the Lord’s service —
 
 Śrī Mādhavendra Purī, wishing to escape the grip of fame, began to look for a way to flee from Purī. Yet the service of Gopāla — gathering sandalwood — became the cause of his bondage and kept him in Nīlācala, beset with fame.
 
@@ -454,11 +454,11 @@ Many conditioned souls are envious (*matsara*) by nature. Against anyone who gai
 
 ## 159–160
 
-Gopāla did not wear the sandalwood Himself but had Gopīnātha wear it. The meaning is this. Gopāla's land, Vṛndāvana, lies many *yojanas* from Remuṇā; moreover, to get there one has to cross regions ruled by *mlecchas* of another faith, and that means many obstacles. Gopāla, who loves His devotees and is controlled by their love, knew that Purī Gosvāmī, the dearest and best of devotees, would suffer. Therefore He told him to smear the sandalwood on the body of Śrī Gopīnātha, the Deity nondifferent from Himself, and so crowned the devotee's labor with success and lightened it. See verses 176–177 below.
+Gopāla did not wear the sandalwood Himself but had Gopīnātha wear it. The meaning is this. Gopāla’s land, Vṛndāvana, lies many *yojanas* from Remuṇā; moreover, to get there one has to cross regions ruled by *mlecchas* of another faith, and that means many obstacles. Gopāla, who loves His devotees and is controlled by their love, knew that Purī Gosvāmī, the dearest and best of devotees, would suffer. Therefore He told him to smear the sandalwood on the body of Śrī Gopīnātha, the Deity nondifferent from Himself, and so crowned the devotee’s labour with success and lightened it. See verses 176–177 below.
 
 ## 162
 
-> Subheading: Purī tells the servants Gopāla's command —
+> Subheading: Purī tells the servants Gopāla’s command —
 
 ## 164
 
@@ -470,7 +470,7 @@ Gopāla did not wear the sandalwood Himself but had Gopīnātha wear it. The mea
 
 ## 167
 
-> Subheading: At Purī's word the servants joyfully smear [Gopīnātha] with sandalwood —
+> Subheading: At Purī’s word the servants joyfully smear [Gopīnātha] with sandalwood —
 
 ## 168
 
@@ -484,15 +484,15 @@ Gopāla did not wear the sandalwood Himself but had Gopīnātha wear it. The mea
 
 ## 47–169
 
-All this effort is for Kṛṣṇa's pleasure; it is not an attempt to enjoy material objects.
+All this effort is for Kṛṣṇa’s pleasure; it is not an attempt to enjoy material objects.
 
 ## 170
 
-> Subheading: The Lord rejoices in telling of Purī's life —
+> Subheading: The Lord rejoices in telling of Purī’s life —
 
 ## 171
 
-> Subheading: The Lord tells Nitāi of the greatness of Purī's love —
+> Subheading: The Lord tells Nitāi of the greatness of Purī’s love —
 
 ## 176
 
@@ -500,13 +500,13 @@ All this effort is for Kṛṣṇa's pleasure; it is not an attempt to enjoy mat
 
 ## 178
 
-> Subheading: Purī's love and the greatness of his life —
+> Subheading: Purī’s love and the greatness of his life —
 
-Separation from Kṛṣṇa, that is, spiritual *vipralambha*, is the *jīva's* only *sādhana*. *Nirveda* born of material separation reveals only attachment to matter; but *nirveda* born of separation from Kṛṣṇa is the highest sign of the desire to please Kṛṣṇa's senses. The incomparable desire of the original *mahājana*, Śrīpāda Mādhavendra, to please Kṛṣṇa's senses is the only model for a *jīva* who seeks to serve Kṛṣṇa, and it deserves special attention. It is just this that Śrīman Mahāprabhu and His intimate potencies (*antaraṅga-śakti*) later showed by Their conduct.
+Separation from Kṛṣṇa, that is, spiritual *vipralambha*, is the *jīva’s* only *sādhana*. *Nirveda* born of material separation reveals only attachment to matter; but *nirveda* born of separation from Kṛṣṇa is the highest sign of the desire to please Kṛṣṇa’s senses. The incomparable desire of the original *mahājana*, Śrīpāda Mādhavendra, to please Kṛṣṇa’s senses is the only model for a *jīva* who seeks to serve Kṛṣṇa, and it deserves special attention. It is just this that Śrīman Mahāprabhu and His intimate potencies (*antaraṅga-śakti*) later showed by Their conduct.
 
 ## 179
 
-***Grāmya-vārtā*** — talk of the dealings of men and women, all village gossip. On the word *grāmya*, the *Śrīmad-Bhāgavatam* (11.25.25) says: “The village is called *rājasic*,” and in verses 28 and 29 of the same chapter: “…and what is dear to the senses is *rājasic*,” “but what is born of sense objects is *rājasic*.” Everything that pleases one's own senses or arises from enjoying sense objects — that is, whatever kindles mundane desire — is *rājasic*, or *grāmya*.
+***Grāmya-vārtā*** — talk of the dealings of men and women, all village gossip. On the word *grāmya*, the *Śrīmad-Bhāgavatam* (11.25.25) says: “The village is called *rājasic*,” and in verses 28 and 29 of the same chapter: “…and what is dear to the senses is *rājasic*,” “but what is born of sense objects is *rājasic*.” Everything that pleases one’s own senses or arises from enjoying sense objects — that is, whatever kindles mundane desire — is *rājasic*, or *grāmya*.
 
 ## 180
 
@@ -514,7 +514,7 @@ Separation from Kṛṣṇa, that is, spiritual *vipralambha*, is the *jīva's* 
 
 ## 182
 
-> Subheading: Despite his own many hardships, Purī rejoices only in the Lord's service —
+> Subheading: Despite his own many hardships, Purī rejoices only in the Lord’s service —
 
 ## 183
 
@@ -524,7 +524,7 @@ Separation from Kṛṣṇa, that is, spiritual *vipralambha*, is the *jīva's* 
 
 > Subheading: The sign of one who loves Kṛṣṇa —
 
-In the natural conduct of those who love deeply one sees that suffering, obstacles and everything contrary to the fulfillment of their own desires do not hinder them. On the contrary, it is amid hundreds of thousands of obstacles and ceaseless suffering that they show their love in full measure. It is because such a person is fit to be freed from the bound perception of this material world and from absorption in “the second” (*dvitīyābhiniveśa*) that the *Bhāgavatam* verse *tat te ’nukampāṁ su-samīkṣamāṇaḥ* (“one who earnestly waits for Your mercy”) is cited.[^186-1] The intimate beloveds of Bhagavān take no account of any want, obstacle or suffering in the external world. “Whatever suffering you see in a Vaiṣṇava's life, know for certain that it is the happiness of supreme bliss.” In Śrīman Mahāprabhu's words *āśliṣya vā pāda-ratām* (“Let Him embrace me, who am devoted to His feet…”)[^186-2] we see just this ultimate teaching.
+In the natural conduct of those who love deeply one sees that suffering, obstacles and everything contrary to the fulfilment of their own desires do not hinder them. On the contrary, it is amid hundreds of thousands of obstacles and ceaseless suffering that they show their love in full measure. It is because such a person is fit to be freed from the bound perception of this material world and from absorption in “the second” (*dvitīyābhiniveśa*) that the *Bhāgavatam* verse *tat te ’nukampāṁ su-samīkṣamāṇaḥ* (“one who earnestly waits for Your mercy”) is cited.[^186-1] The intimate beloveds of Bhagavān take no account of any want, obstacle or suffering in the external world. “Whatever suffering you see in a Vaiṣṇava’s life, know for certain that it is the happiness of supreme bliss.” In Śrīman Mahāprabhu’s words *āśliṣya vā pāda-ratām* (“Let Him embrace me, who am devoted to His feet…”)[^186-2] we see just this ultimate teaching.
 
 ## 187
 
@@ -560,11 +560,11 @@ In the natural conduct of those who love deeply one sees that suffering, obstacl
 
 ## 199
 
-> Subheading: Gaura in Nitāi's arms —
+> Subheading: Gaura in Nitāi’s arms —
 
 ## 200
 
-> Subheading: The Lord's madness in the mood of separation (*vipralambha*) —
+> Subheading: The Lord’s madness in the mood of separation (*vipralambha*) —
 
 ## 202
 
@@ -592,13 +592,13 @@ In the natural conduct of those who love deeply one sees that suffering, obstacl
 
 ## 207
 
-> Subheading: The Lord and the four led by Nitāi honor the *prasāda* —
+> Subheading: The Lord and the four led by Nitāi honour the *prasāda* —
 
 ***Bāhaḍiyā*** — stepping forward, gave back.
 
 ## 208
 
-Although Śrīman Mahāprabhu, in the form of the Deity Śrī Gopīnātha, had already eaten this very *kṣīra*, still, as the teacher of the people, He honored the *mahā-prasāda* of *kṣīra* in order to demonstrate the worship of Kṛṣṇa.
+Although Śrīman Mahāprabhu, in the form of the Deity Śrī Gopīnātha, had already eaten this very *kṣīra*, still, as the teacher of the people, He honoured the *mahā-prasāda* of *kṣīra* in order to demonstrate the worship of Kṛṣṇa.
 
 ## 209
 

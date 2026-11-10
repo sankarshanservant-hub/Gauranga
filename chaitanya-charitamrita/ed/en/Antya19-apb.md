@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** Inspired by His devotion to His mother, every year the Lord sent Jagadānanda Paṇḍita to Śrī Navadvīpa with cloth and sweets that were *prasāda*. One year Jagadānanda went to Navadvīpa in this way and brought back a riddle in the form of a *tarjā* (*tarjā-prahelī*) written by Advaita Ācārya. When Mahāprabhu read it, His condition grew ever deeper, and the devotees began to think, “Mahāprabhu will probably soon depart from this world.” The Lord's state became such that at night He rubbed His face [against the walls], and blood flowed from the wounds on His body. To prevent this, Svarūpa Gosvāmī had Śaṅkara Paṇḍita sleep in the Lord's room. Once, on the full-moon night of the month of Vaiśākha, the Lord entered the garden of Śrī Jagannātha-vallabha. Manifesting various feelings, under an *aśoka* tree He suddenly saw Kṛṣṇa. Then, maddened by the fragrance of Kṛṣṇa's body, He began to manifest [divine] feelings.
+**Summary.** Inspired by His devotion to His mother, every year the Lord sent Jagadānanda Paṇḍita to Śrī Navadvīpa with cloth and sweets that were *prasāda*. One year Jagadānanda went to Navadvīpa in this way and brought back a riddle in the form of a *tarjā* (*tarjā-prahelī*) written by Advaita Ācārya. When Mahāprabhu read it, His condition grew ever deeper, and the devotees began to think, “Mahāprabhu will probably soon depart from this world.” The Lord’s state became such that at night He rubbed His face [against the walls], and blood flowed from the wounds on His body. To prevent this, Svarūpa Gosvāmī had Śaṅkara Paṇḍita sleep in the Lord’s room. Once, on the full-moon night of the month of Vaiśākha, the Lord entered the garden of Śrī Jagannātha-vallabha. Manifesting various feelings, under an *aśoka* tree He suddenly saw Kṛṣṇa. Then, maddened by the fragrance of Kṛṣṇa’s body, He began to manifest [divine] feelings.
 
 ## 1
 
@@ -22,11 +22,11 @@ I bow down to Kṛṣṇa Caitanya, the crown jewel of all who are devoted to th
 
 ## 35
 
-O friend, where is that moon of Nanda's dynasty? Where is Kṛṣṇa, adorned with the peacock feather (*śikhi-candraka*)? Where is Kṛṣṇa, whose flute sounds softly[^35-1]? Where is Kṛṣṇa, lustrous like the sapphire (*indranīla*)? Where is He who dances, enraptured by the taste of the *rāsa-līlā*? Where is Śyāma, the medicine that protects life? Where is My treasure, My dearest friend? Alas! Alas! Fie on the Creator!
+O friend, where is that moon of Nanda’s dynasty? Where is Kṛṣṇa, adorned with the peacock feather (*śikhi-candraka*)? Where is Kṛṣṇa, whose flute sounds softly[^35-1]? Where is Kṛṣṇa, lustrous like the sapphire (*indranīla*)? Where is He who dances, enraptured by the taste of the *rāsa-līlā*? Where is Śyāma, the medicine that protects life? Where is My treasure, My dearest friend? Alas! Alas! Fie on the Creator!
 
 ## 36
 
-The dynasty of the king of Vraja is like the ocean of milk; Kṛṣṇa, like the full moon, was born in it and lit up the world. The eyes of the people of Vraja are like *cakora* birds, and they receive a nectar — Kṛṣṇa's luster. Only one who constantly drinks this nectar remains alive.
+The dynasty of the king of Vraja is like the ocean of milk; Kṛṣṇa, like the full moon, was born in it and lit up the world. The eyes of the people of Vraja are like *cakora* birds, and they receive a nectar — Kṛṣṇa’s lustre. Only one who constantly drinks this nectar remains alive.
 
 **ujora** — illuminated (*ujjvala*).
 
@@ -36,7 +36,7 @@ To the women of Vraja, who are like night-blooming lotuses (*kumudinī*) scorche
 
 ## 40
 
-“**tanu nahe — seyā-kulera kāṅṭā**” (it is not a body but a thorn of the *seyākul*): Kṛṣṇa's body can be compared to a thorn of the *seyākul* bush. Its nature is that once it catches, it is hard to get free of it.
+“**tanu nahe — seyā-kulera kāṅṭā**” (it is not a body but a thorn of the *seyākul*): Kṛṣṇa’s body can be compared to a thorn of the *seyākul* bush. Its nature is that once it catches, it is hard to get free of it.
 
 ## 41
 
@@ -48,7 +48,7 @@ To the women of Vraja, who are like night-blooming lotuses (*kumudinī*) scorche
 
 ## 45
 
-O Creator, you have no mercy! You join embodied beings through friendship and love (*praṇaya*), and while they are still unfulfilled you separate them again. Such deeds of yours can only be called a child's doings.
+O Creator, you have no mercy! You join embodied beings through friendship and love (*praṇaya*), and while they are still unfulfilled you separate them again. Such deeds of yours can only be called a child’s doings.
 
 ## 47
 
@@ -56,7 +56,7 @@ Those who find it so hard to meet each other you unite through love. Why, then, 
 
 ## 49
 
-O wicked Creator, if you say, “Akrūra has committed the offense — why are you angry with me?” then here is what I say.
+O wicked Creator, if you say, “Akrūra has committed the offence — why are you angry with me?” then here is what I say.
 
 ## 50
 
@@ -88,7 +88,7 @@ The fragrance of His body conquers musk, and by its waves He draws the hearts of
 
 ## 101
 
-**kṛṣṇadāsa rūpa-gosāñi-bhṛtya** — Kṛṣṇadāsa, the servant of Rūpa Gosvāmī. Reading this line, many think that Śrī Kṛṣṇadāsa Kavirāja Gosvāmī was a disciple of Rūpa Gosvāmī who received *mantra* from him. But when one reads other passages, it is hard to reach that conclusion. Here Śrīla Kavirāja Prabhu unfolds *rasa* by following the teaching of Śrī Rūpa's *Bhakti-rasāmṛta-sindhu*, and so he may have taken only Śrī Rūpa's name. Or the meaning may also be this: the author, Kṛṣṇadāsa, the servant of the Gosvāmīs, composed this line.
+**kṛṣṇadāsa rūpa-gosāñi-bhṛtya** — Kṛṣṇadāsa, the servant of Rūpa Gosvāmī. Reading this line, many think that Śrī Kṛṣṇadāsa Kavirāja Gosvāmī was a disciple of Rūpa Gosvāmī who received mantra from him. But when one reads other passages, it is hard to reach that conclusion. Here Śrīla Kavirāja Prabhu unfolds *rasa* by following the teaching of Śrī Rūpa’s *Bhakti-rasāmṛta-sindhu*, and so he may have taken only Śrī Rūpa’s name. Or the meaning may also be this: the author, Kṛṣṇadāsa, the servant of the Gosvāmīs, composed this line.
 
 *Thus ends the nineteenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

@@ -12,11 +12,11 @@
 
 ## 5
 
-> Subheading: The Lord's severe renunciation —
+> Subheading: The Lord’s severe renunciation —
 
 ## 6
 
-> Subheading: Seeing this, the devotees, intent on the Lord's happiness, suffer; Jagadānanda tries to provide for the Lord's comfort —
+> Subheading: Seeing this, the devotees, intent on the Lord’s happiness, suffer; Jagadānanda tries to provide for the Lord’s comfort —
 
 ## 7
 
@@ -38,7 +38,7 @@
 
 ## 11
 
-> Subheading: The Lord asks who made it; hearing the Paṇḍita's name, the Lord becomes afraid —
+> Subheading: The Lord asks who made it; hearing the Paṇḍita’s name, the Lord becomes afraid —
 
 ## 12
 
@@ -54,7 +54,7 @@
 
 ## 16
 
-> Subheading: Svarūpa conveys the Lord's words to Jagadānanda; the Paṇḍita is pained —
+> Subheading: Svarūpa conveys the Lord’s words to Jagadānanda; the Paṇḍita is pained —
 
 ## 17
 
@@ -72,11 +72,11 @@
 
 ## 21
 
-> Subheading: The Paṇḍita wishes to go to Vṛndāvana; he had wished this before too, but could not go without the Lord's order —
+> Subheading: The Paṇḍita wishes to go to Vṛndāvana; he had wished this before too, but could not go without the Lord’s order —
 
 ## 22
 
-> Subheading: Now, hurt by the affair of the Lord's bed, he asks permission to go to Mathurā —
+> Subheading: Now, hurt by the affair of the Lord’s bed, he asks permission to go to Mathurā —
 
 ## 23
 
@@ -84,7 +84,7 @@
 
 ## 24
 
-> Subheading: Though contrary by nature (*vāmya-svabhāva*), Jagadānanda makes a respectful, plaintive appeal at the Lord's feet —
+> Subheading: Though contrary by nature (*vāmya-svabhāva*), Jagadānanda makes a respectful, plaintive appeal at the Lord’s feet —
 
 ## 26
 
@@ -100,21 +100,21 @@
 
 ## 29
 
-> Subheading: He asks Svarūpa to obtain the Lord's consent for his journey —
+> Subheading: He asks Svarūpa to obtain the Lord’s consent for his journey —
 
 ## 30
 
-> Subheading: Svarūpa puts this before the Lord's feet and asks for permission —
+> Subheading: Svarūpa puts this before the Lord’s feet and asks for permission —
 
 ## 33
 
-> Subheading: At Svarūpa's request the Lord calls Jagadānanda and instructs him in what he must do there —
+> Subheading: At Svarūpa’s request the Lord calls Jagadānanda and instructs him in what he must do there —
 
 ## 34
 
 > Subheading: Instructions about the road —
 
-*Kṣatriyādi-sāthe* — together with *kṣatriyas*, who protect travelers from the hands of robbers.
+*Kṣatriyādi-sāthe* — together with *kṣatriyas*, who protect travellers from the hands of robbers.
 
 ## 35
 
@@ -140,7 +140,7 @@ No authoritative book says that the Lord went to Vṛndāvana again. But in vers
 
 ## 41
 
-> Subheading: The Lord embraces the Paṇḍita in farewell; the Paṇḍita bows to the Lord's feet —
+> Subheading: The Lord embraces the Paṇḍita in farewell; the Paṇḍita bows to the Lord’s feet —
 
 ## 42
 
@@ -164,7 +164,7 @@ No authoritative book says that the Lord went to Vṛndāvana again. But in vers
 
 ## 48
 
-> Subheading: Sanātana, who gives honor to others (*mānada*), serves the Paṇḍita —
+> Subheading: Sanātana, who gives honour to others (*mānada*), serves the Paṇḍita —
 
 *Samādhāna* — carrying out all his affairs, or serving him.
 
@@ -174,11 +174,11 @@ No authoritative book says that the Lord went to Vṛndāvana again. But in vers
 
 ## 50
 
-> Subheading: Wearing on his head a cloth given by a *sannyāsī*, Sanātana comes to the Paṇḍita's lodging —
+> Subheading: Wearing on his head a cloth given by a *sannyāsī*, Sanātana comes to the Paṇḍita’s lodging —
 
 ## 52
 
-> Subheading: Taking Sanātana's cloth for a gift from the Lord, the Paṇḍita is filled with love —
+> Subheading: Taking Sanātana’s cloth for a gift from the Lord, the Paṇḍita is filled with love —
 
 ## 53
 
@@ -190,7 +190,7 @@ No authoritative book says that the Lord went to Vṛndāvana again. But in vers
 
 ## 55
 
-> Subheading: Sanātana's embarrassment —
+> Subheading: Sanātana’s embarrassment —
 
 *Jāni* — having let him know; or else, knowing that the Paṇḍita was full of love for Gaura.
 
@@ -200,11 +200,11 @@ No authoritative book says that the Lord went to Vṛndāvana again. But in vers
 
 ## 58
 
-> Subheading: The humility of Sanātana Gosvāmī, who seeks no honor, gives honor to others and is supremely self-possessed, and his praise of the Paṇḍita's steadfast love for Gaura —
+> Subheading: The humility of Sanātana Gosvāmī, who seeks no honour, gives honour to others and is supremely self-possessed, and his praise of the Paṇḍita’s steadfast love for Gaura —
 
 ## 60
 
-> Subheading: Sanātana tests the Paṇḍita's love and sees it with his own eyes —
+> Subheading: Sanātana tests the Paṇḍita’s love and sees it with his own eyes —
 
 ## 61
 
@@ -214,7 +214,7 @@ Vaiṣṇavas are *paramahaṁsas* and *akiñcanas* (they have nothing but Kṛ�
 
 ## 62
 
-> Subheading: The food is offered to the Lord, and the two honor *prasāda* together —
+> Subheading: The food is offered to the Lord, and the two honour *prasāda* together —
 
 ## 63
 
@@ -238,7 +238,7 @@ Vaiṣṇavas are *paramahaṁsas* and *akiñcanas* (they have nothing but Kṛ�
 
 ## 69
 
-> Subheading: A temple (*maṭha*) on the Dvādaśāditya mound is chosen as the Lord's residence and put in order —
+> Subheading: A temple (*maṭha*) on the Dvādaśāditya mound is chosen as the Lord’s residence and put in order —
 
 *Maṭha* — a temple (*devālaya*).
 
@@ -248,7 +248,7 @@ Vaiṣṇavas are *paramahaṁsas* and *akiñcanas* (they have nothing but Kṛ�
 
 ## 73
 
-> Subheading: The Paṇḍita conveys Sanātana's obeisances to the Lord and presents his gifts —
+> Subheading: The Paṇḍita conveys Sanātana’s obeisances to the Lord and presents his gifts —
 
 ## 74
 
@@ -256,13 +256,13 @@ Vaiṣṇavas are *paramahaṁsas* and *akiñcanas* (they have nothing but Kṛ�
 
 ## 77
 
-> Subheading: Jagadānanda's return from Vṛndāvana delights everyone —
+> Subheading: Jagadānanda’s return from Vṛndāvana delights everyone —
 
 ## 78
 
 > Subheading: The account of the Lord and the *devadāsī* who sang in the *gurjarī rāgiṇī* —
 
-> Subheading: Hearing a song about Kṛṣṇa, the Lord, half in external consciousness and overwhelmed by love, sees in her singing transcendental service to Kṛṣṇa and runs toward her —
+> Subheading: Hearing a song about Kṛṣṇa, the Lord, half in external consciousness and overwhelmed by love, sees in her singing transcendental service to Kṛṣṇa and runs towards her —
 
 ## 82
 
@@ -290,7 +290,7 @@ Vaiṣṇavas are *paramahaṁsas* and *akiñcanas* (they have nothing but Kṛ�
 
 ## 88
 
-> Subheading: Hearing the news and remembering the Lord's condition, Svarūpa and the others grow anxious —
+> Subheading: Hearing the news and remembering the Lord’s condition, Svarūpa and the others grow anxious —
 
 ## 89
 
@@ -320,11 +320,11 @@ The *Kāvya-prakāśa* is a well-known treatise on poetic ornament (an *alaṅk�
 
 ## 97
 
-> Subheading: Rāmadāsa's humble words; serving a Vaiṣṇava *brāhmaṇa* is his joy —
+> Subheading: Rāmadāsa’s humble words; serving a Vaiṣṇava *brāhmaṇa* is his joy —
 
 ## 99
 
-> Subheading: Rāmadāsa chants Rāma's name without cease —
+> Subheading: Rāmadāsa chants Rāma’s name without cease —
 
 ## 100
 
@@ -332,7 +332,7 @@ The *Kāvya-prakāśa* is a well-known treatise on poetic ornament (an *alaṅk�
 
 ## 102
 
-> Subheading: Raghunātha conveys to the Lord's feet the obeisances of Tapana Miśra and Candraśekhara; Bhagavān asks after the welfare of His devotees —
+> Subheading: Raghunātha conveys to the Lord’s feet the obeisances of Tapana Miśra and Candraśekhara; Bhagavān asks after the welfare of His devotees —
 
 *Miśra* and *Śekhara* — Tapana Miśra and Candraśekhara.
 
@@ -358,7 +358,7 @@ The *Kāvya-prakāśa* is a well-known treatise on poetic ornament (an *alaṅk�
 
 ## 108
 
-> Subheading: Bhaṭṭa Gosvāmī receives the Lord's remnants —
+> Subheading: Bhaṭṭa Gosvāmī receives the Lord’s remnants —
 
 ## 109
 
@@ -378,11 +378,11 @@ The *Kāvya-prakāśa* is a well-known treatise on poetic ornament (an *alaṅk�
 
 > Subheading: Through Raghunātha the Lord tells the *sādhaka* who has no wish to enter household life and has not yet entered it to remain in his own position, and forbids him excess (*atyāhāra*), overendeavour (*prayāsa*), greed (*laulya*) and the like, which are rooted in the craving for sense pleasure through association with women —
 
-Śrī Mahāprabhu saw that Raghunātha Bhaṭṭa had not yet entered household life (*saṁsāra*) and was already devoted to Kṛṣṇa. So He forbade him to take a wife — which is excess (*atyāhāra*) — and to enter the *saṁsāra* of *māyā*, the house of enjoyment. Worldly people ruled by their wives, having taken up the *dharma* of the home-bound (*gṛhavratas*), often turn away from Kṛṣṇa's service: they are driven by the conceit that they are enjoying males (*puruṣas*) and by the urge to enjoy. Therefore their chance of attaining devotion to Hari is small.
+Śrī Mahāprabhu saw that Raghunātha Bhaṭṭa had not yet entered household life (*saṁsāra*) and was already devoted to Kṛṣṇa. So He forbade him to take a wife — which is excess (*atyāhāra*) — and to enter the *saṁsāra* of *māyā*, the house of enjoyment. Worldly people ruled by their wives, having taken up the *dharma* of the home-bound (*gṛhavratas*), often turn away from Kṛṣṇa’s service: they are driven by the conceit that they are enjoying males (*puruṣas*) and by the urge to enjoy. Therefore their chance of attaining devotion to Hari is small.
 
 ## 113
 
-> Subheading: The Lord tells him to go back to Kāśī and serve the Vaiṣṇavas, and, for the sake of Kṛṣṇa's service, to study the spiritual *Bhāgavatam* only from a *bhāgavata* who is free of *anarthas* and intent on Kṛṣṇa's happiness —
+> Subheading: The Lord tells him to go back to Kāśī and serve the Vaiṣṇavas, and, for the sake of Kṛṣṇa’s service, to study the spiritual *Bhāgavatam* only from a *bhāgavata* who is free of *anarthas* and intent on Kṛṣṇa’s happiness —
 
 Here the *ācārya*, the teacher of the world and instructor of the people, through Śrī Raghunātha Bhaṭṭa told the *sādhaka* to serve his father and mother if they are Vaiṣṇavas wholly devoted to Gaura, the Supreme, and to serve them only in a way that helps his own service of Hari. He did not tell every servant who seeks to serve Kṛṣṇa to serve a father and mother who are averse to Hari, guru and the Vaiṣṇavas. In this connection two verses should be considered. (*Śrīmad-Bhāgavatam* 5.5.18): “He is no guru, he is no kinsman, he is no father, she is no mother, that is no deity and he is no husband, who does not free from death one to whom it has drawn near.” And: “One who desires *bhakti*, O sage, should perform only those acts, worldly or Vedic, that are favourable to service of Hari.”[^113-1]
 
@@ -406,7 +406,7 @@ Whoever goes to a non-Vaiṣṇava grammarian to read the *Bhāgavatam* will rea
 
 ## 118
 
-> Subheading: When his parents have reached the Lord's abode, Raghunātha, detached from the world, comes to the Lord in Purī —
+> Subheading: When his parents have reached the Lord’s abode, Raghunātha, detached from the world, comes to the Lord in Purī —
 
 ## 119
 
@@ -466,9 +466,9 @@ Whoever goes to a non-Vaiṣṇava grammarian to read the *Bhāgavatam* will rea
 
 ## 133
 
-> Subheading: Raghunātha does not blame others; everywhere he sees and feels Kṛṣṇa's service —
+> Subheading: Raghunātha does not blame others; everywhere he sees and feels Kṛṣṇa’s service —
 
-*Vaiṣṇavera nindya-karma* — conduct by which a Vaiṣṇava ruins his Vaiṣṇava nature. These are two faults that oppose pure Vaiṣṇavism, that is, that are blameworthy for a Vaiṣṇava: aversion to Kṛṣṇa's service and association with women. The duty of a Vaiṣṇava *ācārya* is to protect by his instruction the Vaiṣṇava who has taken shelter of him and is eager to serve Hari, or one who has received his mercy: the *ācārya* must strive so that these two kinds of misconduct can in no way turn them away from *bhajana*. Raghunātha Bhaṭṭa did not try, as a *bhāgavata* of the middle stage (*madhyama-adhikārī*) would, to correct the blameworthy character of any faithless person. He knew that everyone serves Kṛṣṇa, that is: “Some accept Him and some do not, yet all are His servants. One who does not accept Him is destroyed by that very sin.” (CC, Ādi 6.83)
+*Vaiṣṇavera nindya-karma* — conduct by which a Vaiṣṇava ruins his Vaiṣṇava nature. These are two faults that oppose pure Vaiṣṇavism, that is, that are blameworthy for a Vaiṣṇava: aversion to Kṛṣṇa’s service and association with women. The duty of a Vaiṣṇava *ācārya* is to protect by his instruction the Vaiṣṇava who has taken shelter of him and is eager to serve Hari, or one who has received his mercy: the *ācārya* must strive so that these two kinds of misconduct can in no way turn them away from *bhajana*. Raghunātha Bhaṭṭa did not try, as a *bhāgavata* of the middle stage (*madhyama-adhikārī*) would, to correct the blameworthy character of any faithless person. He knew that everyone serves Kṛṣṇa, that is: “Some accept Him and some do not, yet all are His servants. One who does not accept Him is destroyed by that very sin.” (CC, Ādi 6.83)
 
 ## 134
 
@@ -478,7 +478,7 @@ Whoever goes to a non-Vaiṣṇava grammarian to read the *Bhāgavatam* will rea
 
 ## 135
 
-> Subheading: Raghunātha's unobstructed love for Kṛṣṇa —
+> Subheading: Raghunātha’s unobstructed love for Kṛṣṇa —
 
 ## 136
 
@@ -486,7 +486,7 @@ Whoever goes to a non-Vaiṣṇava grammarian to read the *Bhāgavatam* will rea
 
 ## 138
 
-> Subheading: In one who hears about Gaura and Gaura's devotees, love for Kṛṣṇa awakens by Gaura's mercy —
+> Subheading: In one who hears about Gaura and Gaura’s devotees, love for Kṛṣṇa awakens by Gaura’s mercy —
 
 *Thus ends the thirteenth chapter of the “Anubhāṣya.”*
 

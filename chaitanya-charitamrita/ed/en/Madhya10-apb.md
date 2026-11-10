@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** When Mahāprabhu set out on His journey to the South, King Pratāparudra had many conversations with Sārvabhauma. The king expressed his wish to see Mahāprabhu, and Sārvabhauma told him that when Mahāprabhu returned from the South he would somehow arrange a meeting with Him. After His return Mahāprabhu lived in the house of Kāśī Miśra. Sārvabhauma introduced to Śrī Mahāprabhu the Vaiṣṇavas who lived in the Kṣetra. Bhavānanda Rāya, the father of Rāmānanda, left Vāṇīnātha Paṭṭanāyaka with Mahāprabhu. Mahāprabhu exposed the fault of Kālā Kṛṣṇadāsa, his association with the Bhaṭṭathāris, and proposed to send him away. Then Nityānanda Prabhu and the other devotees took counsel together and sent him to Śrī Navadvīpa and all over Gauḍa with the news of the Lord's return. When the news reached Navadvīpa and other places, the devotees began to prepare to come for the Lord's *darśana*. Meanwhile Paramānanda Purī came to the town of Nadīyā. Hearing that the Lord had reached Nīlācala, he took the brāhmaṇa Kamalākānta with him and came to Mahāprabhu in Puruṣottama. Puruṣottama Bhaṭṭācārya, a resident of Navadvīpa, accepted *sannyāsa* in Vārāṇasī from a guru named “Caitanyānanda,” took the name “Svarūpa,” and appeared at Mahāprabhu's feet in Nīlācala. After the departure of Śrī Īśvara Purī, his servant Govinda came to Mahāprabhu by his order. Brahmānanda Bhāratī was worthy of the Lord's respect because of his relation to Keśava Bhāratī. When he came, the Lord mercifully made him give up his garment of skin. By the Lord's power Brahmānanda understood Mahāprabhu's greatness and concluded that He was Kṛṣṇa. Sārvabhauma declared Mahāprabhu to be Kṛṣṇa Himself, but Mahāprabhu dismissed those words as “excessive praise.” (Meanwhile, one day) Kāśīśvara Gosvāmī arrived. This chapter describes how devotees from many lands met Mahāprabhu, as rivers meet the ocean.
+**Summary.** When Mahāprabhu set out on His journey to the South, King Pratāparudra had many conversations with Sārvabhauma. The king expressed his wish to see Mahāprabhu, and Sārvabhauma told him that when Mahāprabhu returned from the South he would somehow arrange a meeting with Him. After His return Mahāprabhu lived in the house of Kāśī Miśra. Sārvabhauma introduced to Śrī Mahāprabhu the Vaiṣṇavas who lived in the Kṣetra. Bhavānanda Rāya, the father of Rāmānanda, left Vāṇīnātha Paṭṭanāyaka with Mahāprabhu. Mahāprabhu exposed the fault of Kālā Kṛṣṇadāsa, his association with the Bhaṭṭathāris, and proposed to send him away. Then Nityānanda Prabhu and the other devotees took counsel together and sent him to Śrī Navadvīpa and all over Gauḍa with the news of the Lord’s return. When the news reached Navadvīpa and other places, the devotees began to prepare to come for the Lord’s *darśana*. Meanwhile Paramānanda Purī came to the town of Nadīyā. Hearing that the Lord had reached Nīlācala, he took the brāhmaṇa Kamalākānta with him and came to Mahāprabhu in Puruṣottama. Puruṣottama Bhaṭṭācārya, a resident of Navadvīpa, accepted *sannyāsa* in Vārāṇasī from a guru named “Caitanyānanda,” took the name “Svarūpa,” and appeared at Mahāprabhu’s feet in Nīlācala. After the departure of Śrī Īśvara Purī, his servant Govinda came to Mahāprabhu by his order. Brahmānanda Bhāratī was worthy of the Lord’s respect because of his relation to Keśava Bhāratī. When he came, the Lord mercifully made him give up his garment of skin. By the Lord’s power Brahmānanda understood Mahāprabhu’s greatness and concluded that He was Kṛṣṇa. Sārvabhauma declared Mahāprabhu to be Kṛṣṇa Himself, but Mahāprabhu dismissed those words as “excessive praise.” (Meanwhile, one day) Kāśīśvara Gosvāmī arrived. This chapter describes how devotees from many lands met Mahāprabhu, as rivers meet the ocean.
 
 ## 1
 
@@ -50,7 +50,7 @@ A variant reading: *taiche ei saba, sabā kara aṅgīkāra*. That is, as the th
 
 ## 108
 
-Seeing the Lord's *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyāsa* that consists in giving up the *śikhā* and the sacred thread.” His *sannyāsa* name became “Svarūpa-Dāmodara.” He did not accept the rite by which the *yogapaṭṭa* is received. For his *sannyāsa* was not meant to increase any pride in his *āśrama*; he accepted it with only one thought: “I shall serve Kṛṣṇa free from cares.”
+Seeing the Lord’s *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyāsa* that consists in giving up the *śikhā* and the sacred thread.” His *sannyāsa* name became “Svarūpa-Dāmodara.” He did not accept the rite by which the *yogapaṭṭa* is received. For his *sannyāsa* was not meant to increase any pride in his *āśrama*; he accepted it with only one thought: “I shall serve Kṛṣṇa free from cares.”
 
 ## 111
 
@@ -62,7 +62,7 @@ Seeing the Lord's *sannyāsa*, Puruṣottama Ācārya accepted “the *sannyāsa
 
 ## 115
 
-**Vidyāpati** — an ancient Vaiṣṇava poet of the land of Mithilā. **Caṇḍīdāsa** — an ancient Bengali Vaiṣṇava poet from the village of Nānnura (Sākullipura police station, Bīrbhūm district). ***Śrī Gīta-govinda*** — the famous poem of Śrī Jayadeva, full of Sanskrit songs centered on *kṛṣṇa-rasa*.
+**Vidyāpati** — an ancient Vaiṣṇava poet of the land of Mithilā. **Caṇḍīdāsa** — an ancient Bengali Vaiṣṇava poet from the village of Nānnura (Sākullipura police station, Bīrbhūm district). ***Śrī Gīta-govinda*** — the famous poem of Śrī Jayadeva, full of Sanskrit songs centreed on *kṛṣṇa-rasa*.
 
 ## 116
 
@@ -74,19 +74,19 @@ O Śrī Caitanya, ocean of mercy! Your mercy drives away all distress with ease.
 
 ## 134
 
-**Kāśīśvara and Govinda** were both with Śrī Īśvara Purī. Kāśīśvara would come to Mahāprabhu later, after visiting other holy places. Govinda, however, took shelter at the Lord's feet immediately after Śrī Īśvara Purī attained perfection (*siddhi*) and departed.
+**Kāśīśvara and Govinda** were both with Śrī Īśvara Purī. Kāśīśvara would come to Mahāprabhu later, after visiting other holy places. Govinda, however, took shelter at the Lord’s feet immediately after Śrī Īśvara Purī attained perfection (*siddhi*) and departed.
 
 ## 139
 
-Śrī Kṛṣṇa's mercy depends on nothing but service with affection. Service is of two kinds: service with affection (*sneha-sevā*) and service with formal respect (*maryādā-sevā*). Kṛṣṇa's mercy comes only where there is service with affection. Where there is service with formal respect, Kṛṣṇa's mercy is not easily obtained. Mercy makes no distinction of caste or family.
+Śrī Kṛṣṇa’s mercy depends on nothing but service with affection. Service is of two kinds: service with affection (*sneha-sevā*) and service with formal respect (*maryādā-sevā*). Kṛṣṇa’s mercy comes only where there is service with affection. Where there is service with formal respect, Kṛṣṇa’s mercy is not easily obtained. Mercy makes no distinction of caste or family.
 
 ## 142–143
 
-The guru's servant is worthy of respect in any case; one should not let him serve oneself.
+The guru’s servant is worthy of respect in any case; one should not let him serve oneself.
 
 ## 145
 
-Lakṣmaṇa heard that Paraśurāma, by his father's command, had killed his own mother (Reṇukā) as if she were an enemy. And so he accepted the order of his elder brother, Śrī Rāmacandra, for the orders of one's elders (*guru-varga*) are not to be debated.
+Lakṣmaṇa heard that Paraśurāma, by his father’s command, had killed his own mother (Reṇukā) as if she were an enemy. And so he accepted the order of his elder brother, Śrī Rāmacandra, for the orders of one’s elders (*guru-varga*) are not to be debated.
 
 ## 146
 
@@ -98,7 +98,7 @@ The order of my great-souled gurudeva must be carried out by me without delibera
 
 ## 155
 
-***Chadma*** — a pretense, a feint.
+***Chadma*** — a pretence, a feint.
 
 ## 158
 
@@ -118,7 +118,7 @@ All the names in the verse *suvarṇa-varṇa* have their abode (*āspada*) in �
 
 ## 178
 
-Though I am worshiped by those who walk the path of *advaita*, though I was initiated on the throne of the bliss of the self, I have been forcibly made a maidservant by some cheat, a rogue enamored of the cowherd wives.
+Though I am worshipped by those who walk the path of *advaita*, though I was initiated on the throne of the bliss of the self, I have been forcibly made a maidservant by some cheat, a rogue enamored of the cowherd wives.
 
 *Thus ends the tenth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

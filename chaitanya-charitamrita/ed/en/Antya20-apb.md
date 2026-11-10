@@ -14,7 +14,7 @@ Only fortunate people relish the lamentations (*vilāpa*) of Gauracandra, filled
 
 ## 16
 
-O Bhagavān, Your name alone bestows every blessing on the *jīvas*, and so You have revealed Your many names — “Kṛṣṇa,” “Govinda,” and others. Into these names You have placed all Your potencies, and You have set no rules (no injunctions or restrictions) of time or anything else for remembering the name. O Lord, You have shown the *jīvas* such mercy and made Your name so easy to obtain. Yet my misfortune — offenses against the name (*nāmāparādha*) — does not let attachment (*anurāga*) arise in me even for Your easily obtained name.
+O Bhagavān, Your name alone bestows every blessing on the *jīvas*, and so You have revealed Your many names — “Kṛṣṇa,” “Govinda,” and others. Into these names You have placed all Your potencies, and You have set no rules (no injunctions or restrictions) of time or anything else for remembering the name. O Lord, You have shown the *jīvas* such mercy and made Your name so easy to obtain. Yet my misfortune — offences against the name (*nāmāparādha*) — does not let attachment (*anurāga*) arise in me even for Your easily obtained name.
 
 ## 28
 
@@ -46,7 +46,7 @@ Let Kṛṣṇa embrace this maidservant devoted to His feet and crush her in Hi
 
 ## 57
 
-It is said that the faithful wife of a certain brahmin afflicted with leprosy served a prostitute dear to her husband, to give her husband pleasure. And when the hour of her husband's death came, by the power of her faithfulness she stopped the movement of the sun, pleased the three deities — Brahmā, Viṣṇu, and Maheśvara — and brought her dead husband back to life. The point is this: firm faithfulness to Kṛṣṇa (*pātivratya*) is the *jīva*'s highest *dharma*, born of *śṛṅgāra-rasa*.
+It is said that the faithful wife of a certain brāhmaṇa afflicted with leprosy served a prostitute dear to her husband, to give her husband pleasure. And when the hour of her husband’s death came, by the power of her faithfulness she stopped the movement of the sun, pleased the three deities — Brahmā, Viṣṇu, and Maheśvara — and brought her dead husband back to life. The point is this: firm faithfulness to Kṛṣṇa (*pātivratya*) is the *jīva*’s highest *dharma*, born of *śṛṅgāra-rasa*.
 
 ## 90
 
@@ -66,7 +66,7 @@ May this book, the *Śrī Caitanya-caritāmṛta*, be offered to Śrī Kṛṣ�
 
 ## 156
 
-Kṛṣṇa's lotus feet fill the world with fragrance, and with their own *rasa* they madden the bees who know *rasa*. What *rasika* would try to give them up?
+Kṛṣṇa’s lotus feet fill the world with fragrance, and with their own *rasa* they madden the bees who know *rasa*. What *rasika* would try to give them up?
 
 ## 157
 
@@ -88,13 +88,13 @@ under the name “Amṛta-pravāha,”
 an explanation of the “Caitanya-caritāmṛta”
 and offered it to the devotees: read it and be rid of *anarthas*!
 
-May all my sons who labored
+May all my sons who laboured
 to prepare this book
 live free of obstacles, and in the festival of the company of *sādhus*
 serve with devotion the feet of Śrī Hari.
 
 Holding the feet of the Vaiṣṇavas, I humbly pray:
-may the rest of this servant's life
+may the rest of this servant’s life
 pass in Śrī Godruma, in the company of *sādhus*, in the joy of spiritual bliss,
 absorbed in the name of Kṛṣṇa.
 

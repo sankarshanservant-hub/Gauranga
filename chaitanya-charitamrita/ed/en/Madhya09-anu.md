@@ -4,11 +4,11 @@
 
 > Subheading: Gaurahari delivers the people of the South, seized by non-Vaiṣṇava doctrines —
 
-**saḥ gauraḥ** **nānā-mata-grāha-grastān** (seized and swallowed by crocodiles—*nakras*, *kumbhīras*, and *makaras*—that is, by many doctrines) **dākṣiṇātya-jana-dvipān** (the elephants, that is, the people of the South) **kṛpāriṇā** (with the disc of mercy) **vimucya** (freeing [them from these], rescuing them from non-Vaiṣṇava doctrines) **etān** **vaiṣṇavān** (worshipers of Kṛṣṇa) **cakre** (made).
+**saḥ gauraḥ** **nānā-mata-grāha-grastān** (seized and swallowed by crocodiles—*nakras*, *kumbhīras*, and *makaras*—that is, by many doctrines) **dākṣiṇātya-jana-dvipān** (the elephants, that is, the people of the South) **kṛpāriṇā** (with the disc of mercy) **vimucya** (freeing [them from these], rescuing them from non-Vaiṣṇava doctrines) **etān** **vaiṣṇavān** (worshippers of Kṛṣṇa) **cakre** (made).
 
 ## 3
 
-> Subheading: The Lord's journey to the South —
+> Subheading: The Lord’s journey to the South —
 
 ## 4
 
@@ -16,7 +16,7 @@
 
 ## 5
 
-> Subheading: The Lord wandered back and forth through the South, so the geographical order is broken in the author's account; only a general direction is given here —
+> Subheading: The Lord wandered back and forth through the South, so the geographical order is broken in the author’s account; only a general direction is given here —
 
 ## 7
 
@@ -28,25 +28,25 @@
 
 ## 10
 
-> Subheading: By the Lord's mercy *karmīs*, *jñānīs*, and *pāṣaṇḍīs* become Vaiṣṇavas —
+> Subheading: By the Lord’s mercy *karmīs*, *jñānīs*, and *pāṣaṇḍīs* become Vaiṣṇavas —
 
 ## 11
 
-> Subheading: Mādhvas and Śrī Vaiṣṇavas who worshiped Rāma begin to worship Kṛṣṇa —
+> Subheading: Mādhvas and Śrī Vaiṣṇavas who worshipped Rāma begin to worship Kṛṣṇa —
 
-**Tattvavādīs.** To distinguish the Vaiṣṇavas of Śrī Madhva from the Māyāvādīs of Śrī Śaṅkara, the Mādhva Vaiṣṇavas are called “Tattvavādīs.” The ācāryas of Tattvavāda refuted *nirviśeṣa-brahma-vāda*—the false reasoning of *kevala-advaita-vāda*—and established *bhagavat-tattva*, the truth of Bhagavān. The Mādhva Vaiṣṇavas are Brahma Vaiṣṇavas (they belong to the Brahma-sampradāya). Therefore they do not accept that their original guru, Brahmā, was bewildered (Tenth Canto), for in his commentary *Bhāgavata-tātparya* Śrīman Madhvācārya left out this “pastime of Brahmā's bewilderment.” Śrī Mādhavendra Purī was one of the Śrī Mādhva Vaiṣṇavas, and he preached *prema-bhakti*, the final goal of Tattvavāda. Although the Gauḍīya Vaiṣṇavas are Mādhvas, they did not receive the name “Tattvavādī.”
+**Tattvavādīs.** To distinguish the Vaiṣṇavas of Śrī Madhva from the Māyāvādīs of Śrī Śaṅkara, the Mādhva Vaiṣṇavas are called “Tattvavādīs.” The ācāryas of Tattvavāda refuted *nirviśeṣa-brahma-vāda*—the false reasoning of *kevala-advaita-vāda*—and established *bhagavat-tattva*, the truth of Bhagavān. The Mādhva Vaiṣṇavas are Brahma Vaiṣṇavas (they belong to the Brahma-sampradāya). Therefore they do not accept that their original guru, Brahmā, was bewildered (Tenth Canto), for in his commentary *Bhāgavata-tātparya* Śrīman Madhvācārya left out this “pastime of Brahmā’s bewilderment.” Śrī Mādhavendra Purī was one of the Śrī Mādhva Vaiṣṇavas, and he preached *prema-bhakti*, the final goal of Tattvavāda. Although the Gauḍīya Vaiṣṇavas are Mādhvas, they did not receive the name “Tattvavādī.”
 
-**Śrī Vaiṣṇavas.** The original guru of Śrī Rāmānuja's *sampradāya* is “Lakṣmī,” and so they are called “Śrī Vaiṣṇavas.”
+**Śrī Vaiṣṇavas.** The original guru of Śrī Rāmānuja’s *sampradāya* is “Lakṣmī,” and so they are called “Śrī Vaiṣṇavas.”
 
 The Tattvavādīs worship Śrī Kṛṣṇa and the Śrī Vaiṣṇavas worship Lakṣmī-Nārāyaṇa, yet in both a strong worship of Śrī Rāmacandra is seen.
 
-A present-day writer of the Tattvavādī *sampradāya*, Śrī Padmanābhācārya, says: “In our principal Mādhva monasteries the Deities of Śrī Rāma and Sītā are especially worshiped. In the book *Adhyātma-rāmāyaṇa*, in chapters 12, 13, 14, and 15, the story of the original Deities of Śrī Rāma and Sītā is told as follows. A brāhmaṇa vowed not to eat any food without first seeing Śrī Rāmacandra each day. Once, because of affairs of state, Śrī Rāmacandra could not come out before His subjects for a whole week. So the brāhmaṇa, steadfast in his vow to see Rāma, did not take even a drop of water for that week. At last, after eight days, on the ninth day, the brāhmaṇa was brought before Śrī Rāma and received His *darśana*. Hearing of the brāhmaṇa's steadfastness, Śrī Rāmacandra told Lakṣmaṇa, ‘Give this true devotee brāhmaṇa the pair of Rāma and Sītā Deities kept in My own house.’ The brāhmaṇa received Them from Lakṣmaṇa and served these two Deities all his life, and before leaving this world he gave Them to Śrī Hanumān. Śrī Hanumān served these two Deities for a long time, holding Them to his heart. Long afterward Bhīmasena came to Gandhamādana mountain, and when Hanumān took leave of him, he gave him these two Deities. Bhīma kept Them in the royal palace. Up to the time of the last king of that dynasty, ‘Kṣemakānta,’ these two Deities were served in the royal palace. Then They came into the possession of the Gajapati kings of Utkala and were kept in their royal treasury. Śrī Madhvācārya permitted his disciple Śrī Narahari Tīrthapāda to take the original Rāma and Sītā Deities from the royal treasury and serve Them. From the time of King Ikṣvāku these Rāma and Sītā Deities had been kept in the palace of the kings of the solar dynasty, and even before Rāmacandra's birth Daśaratha served Them. Later, while Lakṣmaṇa was serving Them, by Rāmacandra's order They were given to the brāhmaṇa mentioned above.” Three months and sixteen days before his departure Śrī Madhva obtained these two Deities and installed Them in the Uttara-rāḍhī Maṭha, the principal monastery of the village of Uḍupī. Since then the ācāryas of Śrī Madhva have been Their custodians.
+A present-day writer of the Tattvavādī *sampradāya*, Śrī Padmanābhācārya, says: “In our principal Mādhva monasteries the Deities of Śrī Rāma and Sītā are especially worshipped. In the book *Adhyātma-rāmāyaṇa*, in chapters 12, 13, 14, and 15, the story of the original Deities of Śrī Rāma and Sītā is told as follows. A brāhmaṇa vowed not to eat any food without first seeing Śrī Rāmacandra each day. Once, because of affairs of state, Śrī Rāmacandra could not come out before His subjects for a whole week. So the brāhmaṇa, steadfast in his vow to see Rāma, did not take even a drop of water for that week. At last, after eight days, on the ninth day, the brāhmaṇa was brought before Śrī Rāma and received His *darśana*. Hearing of the brāhmaṇa’s steadfastness, Śrī Rāmacandra told Lakṣmaṇa, ‘Give this true devotee brāhmaṇa the pair of Rāma and Sītā Deities kept in My own house.’ The brāhmaṇa received Them from Lakṣmaṇa and served these two Deities all his life, and before leaving this world he gave Them to Śrī Hanumān. Śrī Hanumān served these two Deities for a long time, holding Them to his heart. Long afterward Bhīmasena came to Gandhamādana mountain, and when Hanumān took leave of him, he gave him these two Deities. Bhīma kept Them in the royal palace. Up to the time of the last king of that dynasty, ‘Kṣemakānta,’ these two Deities were served in the royal palace. Then They came into the possession of the Gajapati kings of Utkala and were kept in their royal treasury. Śrī Madhvācārya permitted his disciple Śrī Narahari Tīrthapāda to take the original Rāma and Sītā Deities from the royal treasury and serve Them. From the time of King Ikṣvāku these Rāma and Sītā Deities had been kept in the palace of the kings of the solar dynasty, and even before Rāmacandra’s birth Daśaratha served Them. Later, while Lakṣmaṇa was serving Them, by Rāmacandra’s order They were given to the brāhmaṇa mentioned above.” Three months and sixteen days before his departure Śrī Madhva obtained these two Deities and installed Them in the Uttara-rāḍhī Maṭha, the principal monastery of the village of Uḍupī. Since then the ācāryas of Śrī Madhva have been Their custodians.
 
-In Rāmānuja's *sampradāya* the path of “Śrī Rāmāyaṇa-guru-karaṇa” (accepting a guru according to the Śrī Rāmāyaṇa) is current.[^11-1] In Tirupati and elsewhere the Rāmānujīyas worship the Deity of Śrī Rāma. In the “Rāmānandī,” “Jamāyet,” or “Rāmāt” *sampradāya*, which came out of Rāmānuja's *sampradāya*, the worship of Śrī Rāma and Sītā is firmly established. The Rāmānujīyas are more devoted to Rāma than to Kṛṣṇa.
+In Rāmānuja’s *sampradāya* the path of “Śrī Rāmāyaṇa-guru-karaṇa” (accepting a guru according to the Śrī Rāmāyaṇa) is current.[^11-1] In Tirupati and elsewhere the Rāmānujīyas worship the Deity of Śrī Rāma. In the “Rāmānandī,” “Jamāyet,” or “Rāmāt” *sampradāya*, which came out of Rāmānuja’s *sampradāya*, the worship of Śrī Rāma and Sītā is firmly established. The Rāmānujīyas are more devoted to Rāma than to Kṛṣṇa.
 
 ## 13
 
-> Subheading: The Lord's song on the road —
+> Subheading: The Lord’s song on the road —
 
 ## 14
 
@@ -58,7 +58,7 @@ In Rāmānuja's *sampradāya* the path of “Śrī Rāmāyaṇa-guru-karaṇa”
 
 > Subheading: At Mallikārjuna-tīrtha the Lord sees Śambhu, the servant of Rāma —
 
-**Mallikārjuna** is Śrīśailam. It lies 70 miles downstream from Kurnool, on the southern bank of the river Kṛṣṇā. In the center of a walled courtyard stands the temple of the chief deity, Śiva “Mallikārjuna.” This Śiva-liṅga is renowned as one of the *jyotir-liṅgas* (*Kurnool Manual*).
+**Mallikārjuna** is Śrīśailam. It lies 70 miles downstream from Kurnool, on the southern bank of the river Kṛṣṇā. In the centre of a walled courtyard stands the temple of the chief deity, Śiva “Mallikārjuna.” This Śiva-liṅga is renowned as one of the *jyotir-liṅgas* (*Kurnool Manual*).
 
 ## 16
 
@@ -88,11 +88,11 @@ In Rāmānuja's *sampradāya* the path of “Śrī Rāmāyaṇa-guru-karaṇa”
 
 ## 22
 
-> Subheading: The same brāhmaṇa chants Kṛṣṇa's name in place of Rāma's —
+> Subheading: The same brāhmaṇa chants Kṛṣṇa’s name in place of Rāma’s —
 
 ## 23
 
-> Subheading: The Lord's question and the brāhmaṇa's answer —
+> Subheading: The Lord’s question and the brāhmaṇa’s answer —
 
 ## 29
 
@@ -126,25 +126,25 @@ Both names, “Rāma” and “Kṛṣṇa,” are the Supreme Brahman; everythi
 
 ## 34
 
-> Subheading: The glory of Kṛṣṇa's name is supreme —
+> Subheading: The glory of Kṛṣṇa’s name is supreme —
 
 ## 35
 
-> Subheading: The brāhmaṇa's other reason concerning [not] taking Kṛṣṇa's name —
+> Subheading: The brāhmaṇa’s other reason concerning [not] taking Kṛṣṇa’s name —
 
 ## 36
 
-> Subheading: Only Kṛṣṇa can give Kṛṣṇa's name, so the brāhmaṇa recognizes the Lord as Kṛṣṇa —
+> Subheading: Only Kṛṣṇa can give Kṛṣṇa’s name, so the brāhmaṇa recognises the Lord as Kṛṣṇa —
 
 ## 37
 
-> Subheading: The Lord's mercy to the brāhmaṇa —
+> Subheading: The Lord’s mercy to the brāhmaṇa —
 
 ## 38
 
 > Subheading: *Darśana* of Śambhu at Vṛddhakāśī —
 
-**Vṛddhakāśī**: its present name is “Vṛddhācalam.” It lies in the South Arcot district on the bank of the “Maṇimukha,” one of the tributaries of the river Vellar. Formerly it was called “Vṛddhakāśī” (*South Arcot Manual*). Some call Vṛddhakāśī “Kālahastipura.” Govinda, the son of Rāmānuja's mother's sister, served this Śiva for a long time.
+**Vṛddhakāśī**: its present name is “Vṛddhācalam.” It lies in the South Arcot district on the bank of the “Maṇimukha,” one of the tributaries of the river Vellar. Formerly it was called “Vṛddhakāśī” (*South Arcot Manual*). Some call Vṛddhakāśī “Kālahastipura.” Govinda, the son of Rāmānuja’s mother’s sister, served this Śiva for a long time.
 
 ## 39
 
@@ -164,7 +164,7 @@ Both names, “Rāma” and “Kṛṣṇa,” are the Supreme Brahman; everythi
 
 ## 45
 
-> Subheading: Those defeated by the Lord's irrefutable *siddhānta* accept the *siddhānta* of *bhakti* —
+> Subheading: Those defeated by the Lord’s irrefutable *siddhānta* accept the *siddhānta* of *bhakti* —
 
 ## 46
 
@@ -208,23 +208,23 @@ A non-Vaiṣṇava may announce a thousand times, with a thousand voices, that t
 
 ## 57
 
-> Subheading: Seeing their guru's condition, the disciples take shelter at the Lord's feet —
+> Subheading: Seeing their guru’s condition, the disciples take shelter at the Lord’s feet —
 
 ## 59
 
-> Subheading: When they surrender, the Lord gives them Kṛṣṇa's name —
+> Subheading: When they surrender, the Lord gives them Kṛṣṇa’s name —
 
 ## 60
 
-> Subheading: Simply by hearing Kṛṣṇa's name sung by Caitanya's lips, an unconscious Māyāvādī *jīva* gains consciousness, that is, becomes a Vaiṣṇava —
+> Subheading: Simply by hearing Kṛṣṇa’s name sung by Caitanya’s lips, an unconscious Māyāvādī *jīva* gains consciousness, that is, becomes a Vaiṣṇava —
 
 ## 61
 
-> Subheading: The Buddhist ācārya praises the Lord, recognizing Him as Kṛṣṇa —
+> Subheading: The Buddhist ācārya praises the Lord, recognising Him as Kṛṣṇa —
 
 ## 59–61
 
-**All the Buddhists.** The Buddhists received from the Lord's holy lips initiation (*dīkṣā*) into Kṛṣṇa's name. After that they were no longer the Buddhists they had been, acting like *pāṣaṇḍīs*: they became “Vaiṣṇavas” and began to worship Viṣṇu, practicing the *dharma* inherent in the nature of the *jīva*. The guru delivers the disciple: he awakens consciousness in the unconscious disciple, inspires him to worship Viṣṇu, and engages him in that service. This is “*dīkṣā*,” or divine knowledge. Here, however, the former disciples of the unconscious Buddhist ācārya gained consciousness in Kṛṣṇa's name by the Lord's mercy, uttered Kṛṣṇa's name into the ear of their *guru-bruva*, and did the work of an ācārya. Outwardly, guru and disciples—the Buddhist ācārya and his disciples—exchanged places. In truth, however, the one who received Kṛṣṇa's mercy, gained consciousness, and utters Kṛṣṇa's name became the “guru” (the great one), and the unconscious person became the “*laghu*” (the small one), that is, his disciple. This is the teaching of the Lord, the guru of the whole world.
+**All the Buddhists.** The Buddhists received from the Lord’s holy lips initiation (*dīkṣā*) into Kṛṣṇa’s name. After that they were no longer the Buddhists they had been, acting like *pāṣaṇḍīs*: they became “Vaiṣṇavas” and began to worship Viṣṇu, practicing the *dharma* inherent in the nature of the *jīva*. The guru delivers the disciple: he awakens consciousness in the unconscious disciple, inspires him to worship Viṣṇu, and engages him in that service. This is “*dīkṣā*,” or divine knowledge. Here, however, the former disciples of the unconscious Buddhist ācārya gained consciousness in Kṛṣṇa’s name by the Lord’s mercy, uttered Kṛṣṇa’s name into the ear of their *guru-bruva*, and did the work of an ācārya. Outwardly, guru and disciples—the Buddhist ācārya and his disciples—exchanged places. In truth, however, the one who received Kṛṣṇa’s mercy, gained consciousness, and utters Kṛṣṇa’s name became the “guru” (the great one), and the unconscious person became the “*laghu*” (the small one), that is, his disciple. This is the teaching of the Lord, the guru of the whole world.
 
 ## 63
 
@@ -244,13 +244,13 @@ Here the places the Lord visited are described almost exactly.
 
 ## 66
 
-> Subheading: Mahāprabhu's *darśana* of Pānā-nṛsiṁha; absorbed in love, He bows down and offers prayers —
+> Subheading: Mahāprabhu’s *darśana* of Pānā-nṛsiṁha; absorbed in love, He bows down and offers prayers —
 
 **Pānā-nṛsiṁha** (Panakal Narasiṁha) is a famous temple in the Kistna district, 7 miles from the town of Bezwada, on “Maṅgalagiri”; one reaches it by climbing 600 steps. Tradition says that when sherbet is offered to this Nṛsiṁhadeva, He accepts no more than half of it. A former Mahārāja of Tanjore gave this temple a conch said to have been used by Kṛṣṇa. In the month of March a very large fair is held here.
 
 ## 68
 
-> Subheading: *Darśana* of Śiva at Śiva-kāñcī; by the Lord's mercy the Śaivas become Vaiṣṇavas —
+> Subheading: *Darśana* of Śiva at Śiva-kāñcī; by the Lord’s mercy the Śaivas become Vaiṣṇavas —
 
 **Śiva-kāñcī**, Conjeeveram, is known as “Southern Kāśī.” Here there are countless Śiva-liṅgas; among them the temple of “Ekāmbara Kailāsanātha” is very ancient.
 
@@ -284,7 +284,7 @@ Here the places the Lord visited are described almost exactly.
 
 > Subheading: *Darśana* of Śambhu Pītāmbara —
 
-**Pītāmbara**, “Chidambaram,” lies 26 miles south of the town of “Cuddalore.” The Deity's name is Śiva “Ākāśa-liṅga.” This huge temple stands on a plot of 39 acres and is surrounded on all sides by a road 60 feet wide (*South Arcot Manual*).
+**Pītāmbara**, “Chidambaram,” lies 26 miles south of the town of “Cuddalore.” The Deity’s name is Śiva “Ākāśa-liṅga.” This huge temple stands on a plot of 39 acres and is surrounded on all sides by a road 60 feet wide (*South Arcot Manual*).
 
 ## 74
 
@@ -302,7 +302,7 @@ Here the places the Lord visited are described almost exactly.
 
 ## 76
 
-> Subheading: By the Lord's mercy the Śaivas become Vaiṣṇavas —
+> Subheading: By the Lord’s mercy the Śaivas become Vaiṣṇavas —
 
 ## 77
 
@@ -324,11 +324,11 @@ Here the places the Lord visited are described almost exactly.
 
 **Śrī Raṅga-kṣetra.** Śrīraṅgam stands near Trichinopoly on the river Kāverī, or Coleroon, in the Tanjore district, 45 *krośas*[^79-1] west of Kumbhakonam. The temple of Śrī Raṅganātha is larger than any other temple in India; it has seven enclosures. The ancient names of the seven streets of Śrīraṅgam are: (1) the road of Dharma, (2) the road of Rājamahendra, (3) the road of Kulaśekhara, (4) the road of Ālināḍan, (5) the road of Tiruvikrama, (6) the Tiruviḍi road of “Māḍamāḍi Gāisa,” and (7) the road of Aḍaiyāvalandān. Before the Cola king Ādikulottuṅga, Rājamahendra ruled; before him, Dharmavarmā; and earlier still Śrīraṅgam was founded. Kulaśekhara and several others, as well as Ālavandāru, lived in the temple of Śrī Raṅga. Yāmunācārya, Śrī Rāmānuja, Sudarśanācārya, and others were the chief superintendents of the service of Śrī Raṅganātha. The incarnation of Lakṣmī “Godādevī,” one of the twelve perfected *divya-sūris*, was married to Śrī Raṅganātha and entered the body of Bhagavān. Tirumaṅgai, the incarnation of the bow, used wealth gained by robbery to build the fourth enclosure, or wall, of Śrī Raṅganātha and other buildings.
 
-It is said that Toṇḍaraḍippoḍi Ālvār was born in the year 289 of the Kali era. While engaged in *bhakti-yajña*, he fell to the lure of a courtesan. Seeing His servant's plight, Śrī Raṅganātha wanted to save him and sent His golden vessel to that woman's house by one of the temple servants. Finding no golden vessel in the temple, people searched long and found it in the Ālvār's house. Seeing Raṅganātha's mercy, the devotee was freed from his delusion. Even before the appearance of Tirumaṅgai, he had laid out a *tulasī* garden in the third enclosure of Raṅganātha.
+It is said that Toṇḍaraḍippoḍi Ālvār was born in the year 289 of the Kali era. While engaged in *bhakti-yajña*, he fell to the lure of a courtesan. Seeing His servant’s plight, Śrī Raṅganātha wanted to save him and sent His golden vessel to that woman’s house by one of the temple servants. Finding no golden vessel in the temple, people searched long and found it in the Ālvār’s house. Seeing Raṅganātha’s mercy, the devotee was freed from his delusion. Even before the appearance of Tirumaṅgai, he had laid out a *tulasī* garden in the third enclosure of Raṅganātha.
 
-Śrī Rāmānuja's disciple was Kureśa; his younger son, Śrī Rāmapillāi; his son, Vāgvijaya Bhaṭṭa; and his son, Vedavyāsa Bhaṭṭa, or Śrī Sudarśanācārya. When this great soul was old, the Muslims attacked the temple of Raṅganātha and killed twelve thousand Śrī Vaiṣṇavas. Śrī Raṅganāthadeva was taken to Tirupati. The governor of Giṅgi under the kingdom of Vijayanagara, the Śrī Vaiṣṇava brāhmaṇa “Kampanna Udeyar,” or “Goppaṇārya,” at the request of the Śrī Vaiṣṇavas brought Śrī Raṅganāthadeva from “Tirupati” to “Siṁhabrahma” and kept Him there for three years. Then, in Śaka 1293, he reinstalled Him in Śrī Raṅga-kṣetra. On the eastern wall of the enclosure of Śrī Raṅganātha's temple this verse composed by Śrīla Vedānta-deśika is carved:
+Śrī Rāmānuja’s disciple was Kureśa; his younger son, Śrī Rāmapillāi; his son, Vāgvijaya Bhaṭṭa; and his son, Vedavyāsa Bhaṭṭa, or Śrī Sudarśanācārya. When this great soul was old, the Muslims attacked the temple of Raṅganātha and killed twelve thousand Śrī Vaiṣṇavas. Śrī Raṅganāthadeva was taken to Tirupati. The governor of Giṅgi under the kingdom of Vijayanagara, the Śrī Vaiṣṇava brāhmaṇa “Kampanna Udeyar,” or “Goppaṇārya,” at the request of the Śrī Vaiṣṇavas brought Śrī Raṅganāthadeva from “Tirupati” to “Siṁhabrahma” and kept Him there for three years. Then, in Śaka 1293, he reinstalled Him in Śrī Raṅga-kṣetra. On the eastern wall of the enclosure of Śrī Raṅganātha’s temple this verse composed by Śrīla Vedānta-deśika is carved:
 
-“Goppaṇārya, the mirror of fame, brought Raṅganātha from Añjana hill, whose blue peaks delight the world with their luster, and worshiped Him for some time at Ceñji.[^79-2] Then, having slain the Tuluṣkas with their raised bows, he installed Raṅganātha with Lakṣmī and Bhū in His own city and again performed the finest worship.” “Goppaṇa, a god on earth, slew with his own strength the arrogant army of the Tuluṣkas. He brought Raṅgarāja, the Lord of the universe, from the slope of Vṛṣabha hill to his capital. Then, making the land of Śrī Raṅga like the Satya-yuga, he installed Him there with Lakṣmī and Mahī, and like the lotus-born [Brahmā] he offers Him worthy worship.”
+“Goppaṇārya, the mirror of fame, brought Raṅganātha from Añjana hill, whose blue peaks delight the world with their lustre, and worshipped Him for some time at Ceñji.[^79-2] Then, having slain the Tuluṣkas with their raised bows, he installed Raṅganātha with Lakṣmī and Bhū in His own city and again performed the finest worship.” “Goppaṇa, a god on earth, slew with his own strength the arrogant army of the Tuluṣkas. He brought Raṅgarāja, the Lord of the universe, from the slope of Vṛṣabha hill to his capital. Then, making the land of Śrī Raṅga like the Satya-yuga, he installed Him there with Lakṣmī and Mahī, and like the lotus-born [Brahmā] he offers Him worthy worship.”
 
 ## 80
 
@@ -340,7 +340,7 @@ On the devotion to Bhagavān that comes from drinking the water of the Kāverī,
 
 > Subheading: Veṅkaṭa Bhaṭṭa, living in Raṅga-kṣetra, invites the Lord —
 
-**Śrī Veṅkaṭa Bhaṭṭa** was a brāhmaṇa of the Śrī-sampradāya who had settled in Śrī Raṅga-kṣetra. Śrī Raṅga is in the Tamil country, and so names like “Veṅkaṭa” and “Tirumalaya” are not found among the people there in our time. This family had probably been living in Śrīraṅgam for a short time. Veṅkaṭa Bhaṭṭa was a Rāmānujīya Vaiṣṇava of the “Baḍa-galai” branch. One of his brothers was the *tridaṇḍi-svāmī* of the Rāmānujīya ācāryas, Śrīpāda Prabodhānanda Sarasvatī. Veṅkaṭa's son was Śrī Gopāla Bhaṭṭa Gosvāmī; see Ādi 10.105 and the *Bhakti-ratnākara*, first wave.
+**Śrī Veṅkaṭa Bhaṭṭa** was a brāhmaṇa of the Śrī-sampradāya who had settled in Śrī Raṅga-kṣetra. Śrī Raṅga is in the Tamil country, and so names like “Veṅkaṭa” and “Tirumalaya” are not found among the people there in our time. This family had probably been living in Śrīraṅgam for a short time. Veṅkaṭa Bhaṭṭa was a Rāmānujīya Vaiṣṇava of the “Baḍa-galai” branch. One of his brothers was the *tridaṇḍi-svāmī* of the Rāmānujīya ācāryas, Śrīpāda Prabodhānanda Sarasvatī. Veṅkaṭa’s son was Śrī Gopāla Bhaṭṭa Gosvāmī; see Ādi 10.105 and the *Bhakti-ratnākara*, first wave.
 
 ## 83
 
@@ -348,7 +348,7 @@ On the devotion to Bhagavān that comes from drinking the water of the Kāverī,
 
 ## 86
 
-> Subheading: The Lord spends Cāturmāsya in Veṅkaṭa Bhaṭṭa's house —
+> Subheading: The Lord spends Cāturmāsya in Veṅkaṭa Bhaṭṭa’s house —
 
 ## 87
 
@@ -402,7 +402,7 @@ See *Śrīmad-Bhāgavatam* 7.5.23,[^102-1] as well as “*bhaktyā bhāgavataṁ
 
 ## 104
 
-> Subheading: The brāhmaṇa recognizes the Lord as Kṛṣṇa —
+> Subheading: The brāhmaṇa recognises the Lord as Kṛṣṇa —
 
 ## 105
 
@@ -412,15 +412,15 @@ See Madhya 6.83–84.
 
 ## 106
 
-> Subheading: The Lord's prohibition against making Him known accords with worldly custom, but it also deceives the demons —
+> Subheading: The Lord’s prohibition against making Him known accords with worldly custom, but it also deceives the demons —
 
 ## 107
 
-> Subheading: The brāhmaṇa becomes the Lord's devotee —
+> Subheading: The brāhmaṇa becomes the Lord’s devotee —
 
 ## 108
 
-> Subheading: Lord Gauracandra in Veṅkaṭa Bhaṭṭa's house —
+> Subheading: Lord Gauracandra in Veṅkaṭa Bhaṭṭa’s house —
 
 ## 109
 
@@ -428,15 +428,15 @@ See Madhya 6.83–84.
 
 ## 110
 
-> Subheading: His friendly feeling toward the Lord —
+> Subheading: His friendly feeling towards the Lord —
 
 ## 111
 
-> Subheading: The Lord wishes to give him service to Kṛṣṇa; the conversation of the Lord and the Bhaṭṭa; the Lord's playful question: how Lakṣmī's service to Kṛṣṇa differs from the gopīs' —
+> Subheading: The Lord wishes to give him service to Kṛṣṇa; the conversation of the Lord and the Bhaṭṭa; the Lord’s playful question: how Lakṣmī’s service to Kṛṣṇa differs from the gopīs’ —
 
 ## 112
 
-> Subheading: Although sheltered by Nārāyaṇa, Lakṣmī is drawn by Kṛṣṇa's sweetness and longs for His company —
+> Subheading: Although sheltered by Nārāyaṇa, Lakṣmī is drawn by Kṛṣṇa’s sweetness and longs for His company —
 
 ## 113
 
@@ -448,7 +448,7 @@ See Madhya 8.147.[^114-1]
 
 ## 115
 
-> Subheading: The Bhaṭṭa answers simply: in Kṛṣṇa's company Nārāyaṇa's wife cannot lose her chastity —
+> Subheading: The Bhaṭṭa answers simply: in Kṛṣṇa’s company Nārāyaṇa’s wife cannot lose her chastity —
 
 ## 111–116
 
@@ -482,17 +482,17 @@ See Madhya 8.224.
 
 ## 124
 
-> Subheading: The Bhaṭṭa cannot answer the Lord's question —
+> Subheading: The Bhaṭṭa cannot answer the Lord’s question —
 
 ## 126
 
-> Subheading: By the Lord's mercy one can know His pastimes —
+> Subheading: By the Lord’s mercy one can know His pastimes —
 
 “*yam evaiṣa vṛṇute tena labhyas tasyaiṣa ātmā vivṛṇute tanuṁ svām*” (“He is attained only by one whom He Himself chooses; to such a person the Self reveals His own form”) (*Kaṭha Upaniṣad* 2.23; *Muṇḍaka Upaniṣad* 3.2.3).
 
 ## 127
 
-> Subheading: The Lord's true answer: a description of the nature of Kṛṣṇa and of the residents of Vraja—their natural *rāgātmikā* —
+> Subheading: The Lord’s true answer: a description of the nature of Kṛṣṇa and of the residents of Vraja—their natural *rāgātmikā* —
 
 See Ādi 4.137–158 and Madhya 8.138, 142, 144, 145, 148.
 
@@ -514,7 +514,7 @@ See Madhya 8.227.
 
 ## 136
 
-> Subheading: With Lakṣmī's awareness of majesty, Kṛṣṇa's company cannot be had —
+> Subheading: With Lakṣmī’s awareness of majesty, Kṛṣṇa’s company cannot be had —
 
 ## 138
 
@@ -538,11 +538,11 @@ See Madhya 9.117.
 
 ## 147
 
-> Subheading: Lakṣmī longs for Kṛṣṇa's sweetness, but the gopīs do not want the majesty of four-armed Nārāyaṇa —
+> Subheading: Lakṣmī longs for Kṛṣṇa’s sweetness, but the gopīs do not want the majesty of four-armed Nārāyaṇa —
 
 ## 148
 
-> Subheading: The gopīs disregard even Kṛṣṇa's own four-armed form —
+> Subheading: The gopīs disregard even Kṛṣṇa’s own four-armed form —
 
 ## 148–149
 
@@ -564,11 +564,11 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 155
 
-> Subheading: To see a difference between the *tattva* of Kṛṣṇa and the *tattva* of Viṣṇu, or between the *tattva* of Śrī Rādhā and the *tattva* of Lakṣmī, is an offense —
+> Subheading: To see a difference between the *tattva* of Kṛṣṇa and the *tattva* of Viṣṇu, or between the *tattva* of Śrī Rādhā and the *tattva* of Lakṣmī, is an offence —
 
 ## 156
 
-> Subheading: According to the service suited to the devotee's own nature, the object of worship appears in sweetness or in majesty —
+> Subheading: According to the service suited to the devotee’s own nature, the object of worship appears in sweetness or in majesty —
 
 ## 157
 
@@ -576,19 +576,19 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 158
 
-> Subheading: The Bhaṭṭa recognizes the Lord as “Kṛṣṇa” —
+> Subheading: The Bhaṭṭa recognises the Lord as “Kṛṣṇa” —
 
 ## 159
 
-> Subheading: The Bhaṭṭa firmly believes in the Lord's *siddhānta* —
+> Subheading: The Bhaṭṭa firmly believes in the Lord’s *siddhānta* —
 
 ## 160
 
-> Subheading: He obtained the Lord's mercy only by the mercy of Lakṣmī-Nārāyaṇa, whom he worships —
+> Subheading: He obtained the Lord’s mercy only by the mercy of Lakṣmī-Nārāyaṇa, whom he worships —
 
 ## 161
 
-> Subheading: By the Lord's mercy the Bhaṭṭa begins to serve Kṛṣṇa —
+> Subheading: By the Lord’s mercy the Bhaṭṭa begins to serve Kṛṣṇa —
 
 ## 163
 
@@ -618,7 +618,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 169
 
-> Subheading: The Lord bows to Purī, honoring him as His guru, and Purī embraces Him —
+> Subheading: The Lord bows to Purī, honouring him as His guru, and Purī embraces Him —
 
 ## 170
 
@@ -648,7 +648,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 181
 
-> Subheading: After bathing, the Lord comes to honor *prasāda*, but the brāhmaṇa has not cooked —
+> Subheading: After bathing, the Lord comes to honour *prasāda*, but the brāhmaṇa has not cooked —
 
 **Kṛtamālā** is one of the streams of the basin of the present river “Vaigai,” or “Vagai.” Three streams—the “Suruli,” the “Varāha-nadī,” and the “Battilagundu”—flow into the river Vaigai. (*Śrīmad-Bhāgavatam* 11.5.39): “where [flow] the river Tāmraparṇī, the Kṛtamālā, and the Payasvinī.”
 
@@ -658,7 +658,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 183
 
-> Subheading: The brāhmaṇa's worship in the mind —
+> Subheading: The brāhmaṇa’s worship in the mind —
 
 ## 185
 
@@ -682,7 +682,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 192
 
-> Subheading: Adhokṣaja is beyond the endeavors of the senses —
+> Subheading: Adhokṣaja is beyond the endeavours of the senses —
 
 ## 193
 
@@ -690,7 +690,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 194
 
-> Subheading: Rāvaṇa kidnapped Sītā's reflection, or shadow —
+> Subheading: Rāvaṇa kidnapped Sītā’s reflection, or shadow —
 
 ## 195
 
@@ -704,7 +704,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 197
 
-> Subheading: The brāhmaṇa trusts the Lord's words and eats —
+> Subheading: The brāhmaṇa trusts the Lord’s words and eats —
 
 ## 198
 
@@ -722,7 +722,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 > Subheading: Bathing at Dhanuṣkoṭi-tīrtha, *darśana* of Rāmeśvara, and rest —
 
-**Setubandha, Dhanus-tīrtha, and Rāmeśvara.** In the sea between “Maṇḍapam” and the island of “Pāmbam” there is a path, partly sandy and partly under water. Pāmbam island is 5½ *krośas* long and 3 *krośas* wide. Four miles north of Pāmbam-bandar is the temple of “Rāmeśvara”: “Starting from Devī-pattana, let them go to Setubandha.” There are 24 *tīrthas* here; one of them is “Dhanuṣkoṭi” *tīrtha*. It lies 12 miles southeast of Rāmeśvara, near “Ramnad,” the terminal station of the S. I. R. line. At Vibhīṣaṇa's request, before returning to Ayodhyā, Śrī Rāmacandra (according to another view, Lakṣmaṇa) broke the bridge with the tip of His bow. One who sees this Dhanus-tīrtha is not born again, and bathing at Dhanus-tīrtha brings a greater result than the *agniṣṭoma* and other sacrifices. In Setubandha, on Pāmbam island, is the Deity of Śiva as Rāmeśvara—that is, Śiva, the incarnation of a devotee, “whose Īśvara is Rāma.”
+**Setubandha, Dhanus-tīrtha, and Rāmeśvara.** In the sea between “Maṇḍapam” and the island of “Pāmbam” there is a path, partly sandy and partly under water. Pāmbam island is 5½ *krośas* long and 3 *krośas* wide. Four miles north of Pāmbam-bandar is the temple of “Rāmeśvara”: “Starting from Devī-pattana, let them go to Setubandha.” There are 24 *tīrthas* here; one of them is “Dhanuṣkoṭi” *tīrtha*. It lies 12 miles southeast of Rāmeśvara, near “Ramnad,” the terminal station of the S. I. R. line. At Vibhīṣaṇa’s request, before returning to Ayodhyā, Śrī Rāmacandra (according to another view, Lakṣmaṇa) broke the bridge with the tip of His bow. One who sees this Dhanus-tīrtha is not born again, and bathing at Dhanus-tīrtha brings a greater result than the *agniṣṭoma* and other sacrifices. In Setubandha, on Pāmbam island, is the Deity of Śiva as Rāmeśvara—that is, Śiva, the incarnation of a devotee, “whose Īśvara is Rāma.”
 
 ## 201
 
@@ -744,11 +744,11 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 211
 
-> Subheading: The verse on Rāvaṇa's carrying off the *māyā-Sītā* —
+> Subheading: The verse on Rāvaṇa’s carrying off the *māyā-Sītā* —
 
 ## 211–212
 
-**sītayā** (by the daughter of Janaka) **vahniḥ** (Agni, the god of fire) **ārādhitaḥ** (being worshiped) **chāyā-sītām** (an image made of *māyā*, exactly like her) **ajījanat** (manifested). **daśa-grīvaḥ** (Rāvaṇa, given to enjoyment through his ten senses) **tām** (only the mundane shadow Sītā, not the original Sītā, for Sītā is *adhokṣaja*, beyond the reach of the senses) **jahāra** (carried off). (The original) **sītā** (however) **vahni-puraṁ** **gatā**. **parīkṣā-samaye** **sā** **chāyā-sītā** **vahniṁ** **viveśa**. **vahniḥ** **tat-purastāt** **sītāṁ** (the original Sītā) **samānīya** **anīnayat**.
+**sītayā** (by the daughter of Janaka) **vahniḥ** (Agni, the god of fire) **ārādhitaḥ** (being worshipped) **chāyā-sītām** (an image made of *māyā*, exactly like her) **ajījanat** (manifested). **daśa-grīvaḥ** (Rāvaṇa, given to enjoyment through his ten senses) **tām** (only the mundane shadow Sītā, not the original Sītā, for Sītā is *adhokṣaja*, beyond the reach of the senses) **jahāra** (carried off). (The original) **sītā** (however) **vahni-puraṁ** **gatā**. **parīkṣā-samaye** **sā** **chāyā-sītā** **vahniṁ** **viveśa**. **vahniḥ** **tat-purastāt** **sītāṁ** (the original Sītā) **samānīya** **anīnayat**.
 
 ## 213
 
@@ -760,11 +760,11 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 215
 
-> Subheading: The brāhmaṇa's humility; he invites the Lord and feeds Him —
+> Subheading: The brāhmaṇa’s humility; he invites the Lord and feeds Him —
 
 ## 218
 
-> Subheading: A night in the brāhmaṇa's house and bathing in the Tāmraparṇī —
+> Subheading: A night in the brāhmaṇa’s house and bathing in the Tāmraparṇī —
 
 **Pāṇḍya-deśa**[^218-1] is the region of the Dākṣiṇātya (the South) between the kingdoms of Kerala and Cola. Here many kings bearing the title “Pāṇḍya” ruled in Madura and Rāmeśvara. The *Rāmāyaṇa* says: “You will cross the great river Tāmraparṇī, where crocodiles dwell, whose islands and waters are hidden by wondrous sandal forests. Going there, O monkeys, you will see the strong gate of the Pāṇḍyas.”[^218-2]
 
@@ -790,7 +790,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 **Gajendra-mokṣaṇa.** Some mistakenly give this name to “Sthāṇu-liṅga,” or “Devendra-mokṣaṇa-Śiva,” two miles south of Nagercoil. In truth this is a Deity of Śrī Viṣṇu.
 
-**Pānāgaḍi** is “Pānāgaḍi,” 30 miles south of Tinnevelly, slightly to the southwest, on the way to Trivandrum. Formerly a Deity of Śrī Rāma was here; later the Śaivas began worshiping Him as “Rāmeśvara,” or “Rāmaliṅga Śiva,” and do so to this day.
+**Pānāgaḍi** is “Pānāgaḍi,” 30 miles south of Tinnevelly, slightly to the southwest, on the way to Trivandrum. Formerly a Deity of Śrī Rāma was here; later the Śaivas began worshipping Him as “Rāmeśvara,” or “Rāmaliṅga Śiva,” and do so to this day.
 
 ## 222
 
@@ -804,7 +804,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 > Subheading: *Darśana* of Agastya at Kumārikā —
 
-**Malaya Mountain** is the range in the Dākṣiṇātya that stretches from Kerala to Cape Kumārikā. There are four views about Agastya. First: in the Tanjore district, at Point Calimere near Vedāraṇyam, in the village of Agastyampalli, there is a temple of the sage Agastya. Second: in the Madura district, on the summit of the Śivagiri hill, there is a temple of Subrahmaṇya (Skanda) built by Agastya. Third: some say the Pothiya mountain near Cape Kumārikā is Agastya's abode. Fourth: the peak shaped like a banana flower, on both sides of the river Tāmraparṇī, is called “Agastya-malaya.”
+**Malaya Mountain** is the range in the Dākṣiṇātya that stretches from Kerala to Cape Kumārikā. There are four views about Agastya. First: in the Tanjore district, at Point Calimere near Vedāraṇyam, in the village of Agastyampalli, there is a temple of the sage Agastya. Second: in the Madura district, on the summit of the Śivagiri hill, there is a temple of Subrahmaṇya (Skanda) built by Agastya. Third: some say the Pothiya mountain near Cape Kumārikā is Agastya’s abode. Fourth: the peak shaped like a banana flower, on both sides of the river Tāmraparṇī, is called “Agastya-malaya.”
 
 **Kanyākumārī** is Cape Kumārikā.
 
@@ -816,25 +816,25 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 225
 
-> Subheading: In the land of Malabar: *darśana* of Tamāla-kārttika and of Rāma at Vetāpani, and a night's stay —
+> Subheading: In the land of Malabar: *darśana* of Tamāla-kārttika and of Rāma at Vetāpani, and a night’s stay —
 
 **Tamāla-kārttika** is a temple of Subrahmaṇya, or Kārttikeyadeva, 44 miles south of Tinnevelly and 2 miles south of the “Aramvallī” pass, within the Tovala *tāluk*.
 
-**Vetāpani** is “Bhūtapaṇḍi,” in the kingdom of Travancore, north of Nagercoil, within the Tovala *tāluk*. Formerly a Deity of Rāmacandra was in this temple. Later, it seems, He came to be worshiped under the name Rāmeśvara, or the Śiva-liṅga Bhūtanātha.
+**Vetāpani** is “Bhūtapaṇḍi,” in the kingdom of Travancore, north of Nagercoil, within the Tovala *tāluk*. Formerly a Deity of Rāmacandra was in this temple. Later, it seems, He came to be worshipped under the name Rāmeśvara, or the Śiva-liṅga Bhūtanātha.
 
 ## 226
 
-> Subheading: The Lord's companion, the brāhmaṇa Kṛṣṇadāsa, in the clutches of the Bhaṭṭathāris —
+> Subheading: The Lord’s companion, the brāhmaṇa Kṛṣṇadāsa, in the clutches of the Bhaṭṭathāris —
 
 **Bhaṭṭathāri**: see Madhya 1.112.
 
 ## 227
 
-> Subheading: Because of bad company Kṛṣṇadāsa leaves the Lord's company —
+> Subheading: Because of bad company Kṛṣṇadāsa leaves the Lord’s company —
 
 ## 228
 
-> Subheading: Searching for Kṛṣṇadāsa, the Lord comes to the Bhaṭṭathāris' dwelling —
+> Subheading: Searching for Kṛṣṇadāsa, the Lord comes to the Bhaṭṭathāris’ dwelling —
 
 ## 229
 
@@ -880,7 +880,7 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 ## 237–240
 
-**The chapter of the *Brahma-saṁhitā*** is the fifth chapter of the book *Brahma-saṁhitā*. It describes: the state of inconceivable oneness and difference, practice (*abhyāsa*), the eighteen-syllable mantra, the *ātmā*, the *ātmārāma*, *karma*, the *kāma-gāyatrī*, the *kāma-bīja*, Kāraṇābdhiśāyī, the spiritual distinctiveness of Kṛṣṇa's abode, Gaṇeśa, Garbhodakaśāyī, the origin of the *gāyatrī*, Gokula, the form of Govinda, *svarūpa-tattva* and *dhāma*, *jīva-tattva*, the *svarūpa* the *jīva* attains, Durgā, austerity (*tapas*), the five elements, *prema*, Brahman, Brahmā's initiation, the eye of devotion, the steps of devotion, the mind, Mahā-Viṣṇu, *yoga-nidrā*, Ramā, devotion on the path of *rāga*, Rāma and the other avatāras, the meaning of the word *liṅga* and others, the conditioned *jīva* and his *sādhana*, *viṣṇu-tattva*, the hymn that is the essence of the Vedas, Śambhu, *śruta*,[^237-1] *svakīya*, *pārakīya*, *sadācāra*, Sūrya, the golden egg (*haimāṇḍa*), and other subjects.
+**The chapter of the *Brahma-saṁhitā*** is the fifth chapter of the book *Brahma-saṁhitā*. It describes: the state of inconceivable oneness and difference, practice (*abhyāsa*), the eighteen-syllable mantra, the *ātmā*, the *ātmārāma*, *karma*, the *kāma-gāyatrī*, the *kāma-bīja*, Kāraṇābdhiśāyī, the spiritual distinctiveness of Kṛṣṇa’s abode, Gaṇeśa, Garbhodakaśāyī, the origin of the *gāyatrī*, Gokula, the form of Govinda, *svarūpa-tattva* and *dhāma*, *jīva-tattva*, the *svarūpa* the *jīva* attains, Durgā, austerity (*tapas*), the five elements, *prema*, Brahman, Brahmā’s initiation, the eye of devotion, the steps of devotion, the mind, Mahā-Viṣṇu, *yoga-nidrā*, Ramā, devotion on the path of *rāga*, Rāma and the other avatāras, the meaning of the word *liṅga* and others, the conditioned *jīva* and his *sādhana*, *viṣṇu-tattva*, the hymn that is the essence of the Vedas, Śambhu, *śruta*,[^237-1] *svakīya*, *pārakīya*, *sadācāra*, Sūrya, the golden egg (*haimāṇḍa*), and other subjects.
 
 ## 241
 
@@ -907,26 +907,26 @@ Just as Kṛṣṇa and Nārāyaṇa do not differ in essence—that is, they ar
 
 The succession of the gurus of the Śṛṅgeri Maṭha, with the years in which they took *sannyāsa*, is as follows: (1) Śaṅkarācārya, Śaka 22; (2) Sureśvarācārya, 30; (3) Bodhanācārya, 680; (4) Jñānadhanācārya, 768; (5) Jñānottama Śivācārya, 827; (6) Jñānagiri Ācārya, 871; (7) Siṁhagiri Ācārya, 958; (8) Īśvaratīrtha, 1019; (9) Nārasiṁha Tīrtha, 1067; (10) Vidyātīrtha Vidyāśaṅkara, 1150; (11) Bhāratīkṛṣṇa Tīrtha, 1250; (12) Vidyāraṇya Bhāratī, 1253; (13) Candraśekhara Bhāratī, 1290; (14) Narasiṁha Bhāratī, 1309; (15) Puruṣottama Bhāratī, 1328; (16) Śaṅkarānanda, 1350; (17) Candraśekhara Bhāratī, 1371; (18) Narasiṁha Bhāratī, 1386; (19) Puruṣottama Bhāratī, 1394; (20) Rāmacandra Bhāratī, 1430; (21) Narasiṁha Bhāratī, 1479; (22) Narasiṁha Bhāratī, 1485; (23) Dhanamaḍi Narasiṁha Bhāratī, 1498; (24) Abhinava Narasiṁha Bhāratī, 1521; (25) Saccidānanda Bhāratī, 1544; (26) Narasiṁha Bhāratī, 1585; (27) Saccidānanda Bhāratī, 1627; (28) Abhinava Saccidānanda Bhāratī, 1663; (29) Nṛsiṁha Bhāratī, 1689; (30) Saccidānanda Bhāratī, 1692; (31) Abhinava Saccidānanda Bhāratī, 1730; (32) Narasiṁha Bhāratī, Śaka 1739. For their *samādhis*, see the *Vaiṣṇava-mañjuṣā-samāhṛti* (issue 4). (33) Saccidānanda Śivābhinava Vidyā Narasiṁha Bhāratī, Śaka 1788.
 
-**Śaṅkarācārya** was born in the Dākṣiṇātya, in the land of Kerala, in the village of Kālāḍi, in Śaka 608, on the third day of the bright fortnight of Vaiśākha. His father's name was Śivaguru. He lost his father in early childhood. Before he had even passed his eighth year he finished studying the *śāstras*, and on the bank of the Narmadā he took *sannyāsa* from Govinda. After taking *sannyāsa* he stayed some days with Govinda, and then with his permission went to Vārāṇasī. From there he went to Badarikāśrama, and there, at the age of twelve, he composed a commentary (*bhāṣya*) on the *Brahma-sūtra*. Later he also wrote commentaries on the ten Upaniṣads, the *Gītā*, the *Sanatsujātīya*, the *Nṛsiṁha-tāpanī*, and other books.
+**Śaṅkarācārya** was born in the Dākṣiṇātya, in the land of Kerala, in the village of Kālāḍi, in Śaka 608, on the third day of the bright fortnight of Vaiśākha. His father’s name was Śivaguru. He lost his father in early childhood. Before he had even passed his eighth year he finished studying the *śāstras*, and on the bank of the Narmadā he took *sannyāsa* from Govinda. After taking *sannyāsa* he stayed some days with Govinda, and then with his permission went to Vārāṇasī. From there he went to Badarikāśrama, and there, at the age of twelve, he composed a commentary (*bhāṣya*) on the *Brahma-sūtra*. Later he also wrote commentaries on the ten Upaniṣads, the *Gītā*, the *Sanatsujātīya*, the *Nṛsiṁha-tāpanī*, and other books.
 
-Among Śaṅkarācārya's disciples four were chief: Padmapāda, Sureśvara, Hastāmalaka, and Troṭaka. From Vārāṇasī Śaṅkarācārya went to Prayāga and met Kumārila Bhaṭṭa. Kumārila was at the point of death, so he did not debate with him himself but sent him to his chief disciple, Maṇḍana, in the city of Māhiṣmatī. There Śaṅkara defeated Maṇḍana in debate. Maṇḍana's wife, Sarasvatī, or Ubhaya-bhāratī, was the arbiter of their debate. It is said that she expressed the wish to debate with Śaṅkara on the *kāma-śāstra*. Śaṅkara, however, from boyhood
- was a *brahmacārī* and therefore knew nothing of the *kāma-śāstra*. He asked Ubhaya-bhāratī for a month's time, by yogic power entered the body of a king who had just died, studied the subject in question, and, having gained experience, asked Ubhaya-bhāratī for the debate. But she did not debate any further. At Śaṅkara's request she gave the boon that she would remain unmoving in his Śṛṅgeri Maṭha, and she took leave of this world. Maṇḍana took *sannyāsa* from Śaṅkarācārya and became known by the name Sureśvara. Step by step Śaṅkarācārya traveled through almost all of India, defeated in debate people of many doctrines, and brought them over to his own. He left his body at the age of thirty-three.
+Among Śaṅkarācārya’s disciples four were chief: Padmapāda, Sureśvara, Hastāmalaka, and Troṭaka. From Vārāṇasī Śaṅkarācārya went to Prayāga and met Kumārila Bhaṭṭa. Kumārila was at the point of death, so he did not debate with him himself but sent him to his chief disciple, Maṇḍana, in the city of Māhiṣmatī. There Śaṅkara defeated Maṇḍana in debate. Maṇḍana’s wife, Sarasvatī, or Ubhaya-bhāratī, was the arbiter of their debate. It is said that she expressed the wish to debate with Śaṅkara on the *kāma-śāstra*. Śaṅkara, however, from boyhood
+ was a *brahmacārī* and therefore knew nothing of the *kāma-śāstra*. He asked Ubhaya-bhāratī for a month’s time, by yogic power entered the body of a king who had just died, studied the subject in question, and, having gained experience, asked Ubhaya-bhāratī for the debate. But she did not debate any further. At Śaṅkara’s request she gave the boon that she would remain unmoving in his Śṛṅgeri Maṭha, and she took leave of this world. Maṇḍana took *sannyāsa* from Śaṅkarācārya and became known by the name Sureśvara. Step by step Śaṅkarācārya travelled through almost all of India, defeated in debate people of many doctrines, and brought them over to his own. He left his body at the age of thirty-three.
 
 **Matsya-tīrtha** is probably the present town of “Mahé” on the seacoast of the Malabar district. Some say that Matsya-tīrtha is a wondrous whirlpool of the Macheru river near the village of Matam, 6 miles north of “Pāderu” in the Padwa *tāluk* of Vizagapatam (*Vizagapatam Gazetteer*). But that, it seems, is not what is meant here.
 
 ## 245
 
-> Subheading: At Uḍupī, *darśana* of the Tattvavādīs, the *ācāryas* of Madhvācārya's *maṭha*, and of the Deity of Kṛṣṇa alone —
+> Subheading: At Uḍupī, *darśana* of the Tattvavādīs, the *ācāryas* of Madhvācārya’s *maṭha*, and of the Deity of Kṛṣṇa alone —
 
-**Śrī Madhvācārya.** In the Dākṣiṇātya, west of the Sahyādri, lies the Kanara district. The chief town of the South Kanara district is “Mangalore,” and to its north is “Uḍupī” (Udipi). In the village of Uḍupī, at Pājakā-kṣetra, in a family of Śivallī brāhmaṇas, Śrī Madhvācārya was born in Śaka 1040 (by another view, in Śaka 1160). His father was Madhyageha Bhaṭṭa and his mother Vedavidyā. As a child Madhvācārya was known by the name Vāsudeva. Several wondrous stories are told about him. As a child he came back alone and unharmed from Uḍupī to Pājakā-kṣetra. When his mother was away, he ate, before his elder sister's eyes, a whole tub of husks meant for the cows, to stop himself from crying. He hung on to the tail of a fierce bull. When a creditor sat at their door demanding a debt, he turned tamarind seeds into money and with it paid off his father's debt. In his boyhood (*paugaṇḍa*) Madhva vanished during a festival in the village of Neḍiūru, and later he was found again at the temple of Ananteśvara in Uḍupī. In the village of Neyampalli he pointed out the error of a brāhmaṇa named Śiva. Other incidents are also described. In his fifth year he received the *upanayana* initiation. An *asura* named “Maṇimān,” mentioned in the *Mahābhārata*, lived there in the form of a snake. Right after his *upanayana* “Vāsudeva” killed that snake with his big toe. When his mother grew anxious, he reached her in a single leap. At this time he showed special skill in his studies. Entirely against his father's wishes he took *sannyāsa* at the age of twelve from “Acyutaprekṣa” and received the name “Pūrṇaprajña Tīrtha.” After traveling through many lands of the South, he held many debates with Vidyāśaṅkara, the head of the Śṛṅgeri Maṭha. Vidyāśaṅkara's lofty position bowed before Madhva.
- Together with an ascetic named “Satyatīrtha,” Śrī Madhva went to Badrikā. There he had Śrī Vyāsa hear his *Gītā-bhāṣya* and received his approval. In a short time he learned many subjects from Vyāsa. Already on the way back from Badrikā to the Ānanda Maṭha Śrī Madhva finished his commentary on the *sūtras* (*sūtra-bhāṣya*); Satyatīrtha wrote it down. From Badri Śrī Madhva went to Ganjam, in the Godāvarī region. There he met two paṇḍitas, “Śobhana Bhaṭṭa” and “Svāmī Śāstrī.” It is they who, in Śrī Madhva's succession, received the names “Padmanābha Tīrtha” and “Narahari Tīrtha.” Back in Uḍupī, one day, on his way to bathe in the sea, he composed a hymn in five chapters. Absorbed in thoughts of Śrī Kṛṣṇa, he sat on the sand and saw that a boat full of goods gathered for Dvārakā was in distress at sea. Seeing the boat sinking into the sand, he showed a *mudrā* to set it afloat, and the boat was able to come to shore. The boatmen wished to give him something, and he agreed to take some *gopī-candana* that was in the boat. He took a large lump of *gopī-candana*. On the way, at a place called “Baḍabandeśvara,” the lump broke, and inside was found a beautiful “Deity of the child Kṛṣṇa.” In one hand the Deity holds a churning rod for curd, in the other the churning rope. Having obtained Kṛṣṇa, he composed that very day the remaining seven chapters of his *Dvādaśa-stotra*. Thirty strong men could not lift this Deity of Kṛṣṇa. Then Śrī Madhva — the avatāra of the all-pervading Vāyu who dwells in Paravyoma, of Hanumān, or of Bhīmasena — himself lifted Mādhava and carried Him to his own *maṭha* in Uḍupī. His eight chief *sannyāsī* disciples were the heads of the eight *maṭhas* of Uḍupī. Just as the eight *gopīs* of Vṛndāvana serve Kṛṣṇa, so Śrī Madhvācārya himself served this child Kṛṣṇa, and after him the Śrī Madhvācāryas, the heads of the Uttararāḍhī Maṭha, have had Him served in turn through the ascetics who head the eight *maṭhas*. So it continues to this day.
+**Śrī Madhvācārya.** In the Dākṣiṇātya, west of the Sahyādri, lies the Kanara district. The chief town of the South Kanara district is “Mangalore,” and to its north is “Uḍupī” (Udipi). In the village of Uḍupī, at Pājakā-kṣetra, in a family of Śivallī brāhmaṇas, Śrī Madhvācārya was born in Śaka 1040 (by another view, in Śaka 1160). His father was Madhyageha Bhaṭṭa and his mother Vedavidyā. As a child Madhvācārya was known by the name Vāsudeva. Several wondrous stories are told about him. As a child he came back alone and unharmed from Uḍupī to Pājakā-kṣetra. When his mother was away, he ate, before his elder sister’s eyes, a whole tub of husks meant for the cows, to stop himself from crying. He hung on to the tail of a fierce bull. When a creditor sat at their door demanding a debt, he turned tamarind seeds into money and with it paid off his father’s debt. In his boyhood (*paugaṇḍa*) Madhva vanished during a festival in the village of Neḍiūru, and later he was found again at the temple of Ananteśvara in Uḍupī. In the village of Neyampalli he pointed out the error of a brāhmaṇa named Śiva. Other incidents are also described. In his fifth year he received the *upanayana* initiation. An *asura* named “Maṇimān,” mentioned in the *Mahābhārata*, lived there in the form of a snake. Right after his *upanayana* “Vāsudeva” killed that snake with his big toe. When his mother grew anxious, he reached her in a single leap. At this time he showed special skill in his studies. Entirely against his father’s wishes he took *sannyāsa* at the age of twelve from “Acyutaprekṣa” and received the name “Pūrṇaprajña Tīrtha.” After travelling through many lands of the South, he held many debates with Vidyāśaṅkara, the head of the Śṛṅgeri Maṭha. Vidyāśaṅkara’s lofty position bowed before Madhva.
+ Together with an ascetic named “Satyatīrtha,” Śrī Madhva went to Badrikā. There he had Śrī Vyāsa hear his *Gītā-bhāṣya* and received his approval. In a short time he learned many subjects from Vyāsa. Already on the way back from Badrikā to the Ānanda Maṭha Śrī Madhva finished his commentary on the *sūtras* (*sūtra-bhāṣya*); Satyatīrtha wrote it down. From Badri Śrī Madhva went to Ganjam, in the Godāvarī region. There he met two paṇḍitas, “Śobhana Bhaṭṭa” and “Svāmī Śāstrī.” It is they who, in Śrī Madhva’s succession, received the names “Padmanābha Tīrtha” and “Narahari Tīrtha.” Back in Uḍupī, one day, on his way to bathe in the sea, he composed a hymn in five chapters. Absorbed in thoughts of Śrī Kṛṣṇa, he sat on the sand and saw that a boat full of goods gathered for Dvārakā was in distress at sea. Seeing the boat sinking into the sand, he showed a *mudrā* to set it afloat, and the boat was able to come to shore. The boatmen wished to give him something, and he agreed to take some *gopī-candana* that was in the boat. He took a large lump of *gopī-candana*. On the way, at a place called “Baḍabandeśvara,” the lump broke, and inside was found a beautiful “Deity of the child Kṛṣṇa.” In one hand the Deity holds a churning rod for curd, in the other the churning rope. Having obtained Kṛṣṇa, he composed that very day the remaining seven chapters of his *Dvādaśa-stotra*. Thirty strong men could not lift this Deity of Kṛṣṇa. Then Śrī Madhva — the avatāra of the all-pervading Vāyu who dwells in Paravyoma, of Hanumān, or of Bhīmasena — himself lifted Mādhava and carried Him to his own *maṭha* in Uḍupī. His eight chief *sannyāsī* disciples were the heads of the eight *maṭhas* of Uḍupī. Just as the eight *gopīs* of Vṛndāvana serve Kṛṣṇa, so Śrī Madhvācārya himself served this child Kṛṣṇa, and after him the Śrī Madhvācāryas, the heads of the Uttararāḍhī Maṭha, have had Him served in turn through the ascetics who head the eight *maṭhas*. So it continues to this day.
 
-Śrī Madhva traveled to Badrikā a second time. As he passed through the kingdom of Mahārāṣṭra, its king, named “Mahādeva,” was having his subjects dig a pond for the public good. By the king's order Śrī Madhva and his disciples too were compelled to dig earth. After a while he met the king, set the king himself to that work, and suddenly went on his way. In the region of the Gaṅgā there was a Hindu kingdom on one bank and a Muslim kingdom on the other. Their hostility had grown so fierce that no boat could be found to cross, and the enemy army on the far bank of the broad river kept blocking the way. Paying no heed to all these dangers, Śrī Madhva and all his companions joined hands and swam across the river. As soon as they climbed onto the bank, soldiers seized them. Because he had disobeyed the royal order, he was brought before the king himself. When he explained his situation, the Muslim king wished to give him half his kingdom, but Śrī Madhva did not accept it. On the road robbers attacked them, and with the strength of Bhīma he destroyed them. And when a tiger attacked “Satyatīrtha,” he tore the tiger away by force and drove it off. When he met Vyāsa he received eight *śālagrāmas*. Soon after this he wrote the *Mahābhārata-tātparya*.
+Śrī Madhva travelled to Badrikā a second time. As he passed through the kingdom of Mahārāṣṭra, its king, named “Mahādeva,” was having his subjects dig a pond for the public good. By the king’s order Śrī Madhva and his disciples too were compelled to dig earth. After a while he met the king, set the king himself to that work, and suddenly went on his way. In the region of the Gaṅgā there was a Hindu kingdom on one bank and a Muslim kingdom on the other. Their hostility had grown so fierce that no boat could be found to cross, and the enemy army on the far bank of the broad river kept blocking the way. Paying no heed to all these dangers, Śrī Madhva and all his companions joined hands and swam across the river. As soon as they climbed onto the bank, soldiers seized them. Because he had disobeyed the royal order, he was brought before the king himself. When he explained his situation, the Muslim king wished to give him half his kingdom, but Śrī Madhva did not accept it. On the road robbers attacked them, and with the strength of Bhīma he destroyed them. And when a tiger attacked “Satyatīrtha,” he tore the tiger away by force and drove it off. When he met Vyāsa he received eight *śālagrāmas*. Soon after this he wrote the *Mahābhārata-tātparya*.
 
-The fame of Śrī Madhva's extraordinary learning and his devotion to the Lord spread throughout India. The Śaṅkarācārya who headed the Śṛṅgeri Maṭha grew very uneasy. Śaṅkara's followers, seeing their greatness diminished, set about persecuting Madhva. The followers of Madhva were cut off from society, and attempts were made to prove that Madhva's doctrine was un-Vedic and contrary to the *śāstras*. Padmatīrtha, together with a Śaṅkarite paṇḍita named Puṇḍarīka Purī, engaged the *ācārya* in a battle of words. The books the *ācārya* had collected and written were stolen, but later, after great anxiety, they were found. Puṇḍarīka was defeated.
- Jayasiṁha, the ruler of Kumla, helped Śrī Madhvācārya recover the books. Trivikramācārya of Viṣṇumaṅgala, a paṇḍita famous throughout the land, became his disciple. His son is Śrī Nārāyaṇācārya, the author of the *Śrī Madhva-vijaya*. After the father passed away, the *ācārya*'s younger brother took *sannyāsa* and received the name “Viṣṇutīrtha.”
+The fame of Śrī Madhva’s extraordinary learning and his devotion to the Lord spread throughout India. The Śaṅkarācārya who headed the Śṛṅgeri Maṭha grew very uneasy. Śaṅkara’s followers, seeing their greatness diminished, set about persecuting Madhva. The followers of Madhva were cut off from society, and attempts were made to prove that Madhva’s doctrine was un-Vedic and contrary to the *śāstras*. Padmatīrtha, together with a Śaṅkarite paṇḍita named Puṇḍarīka Purī, engaged the *ācārya* in a battle of words. The books the *ācārya* had collected and written were stolen, but later, after great anxiety, they were found. Puṇḍarīka was defeated.
+ Jayasiṁha, the ruler of Kumla, helped Śrī Madhvācārya recover the books. Trivikramācārya of Viṣṇumaṅgala, a paṇḍita famous throughout the land, became his disciple. His son is Śrī Nārāyaṇācārya, the author of the *Śrī Madhva-vijaya*. After the father passed away, the *ācārya*’s younger brother took *sannyāsa* and received the name “Viṣṇutīrtha.”
 
-Śrī Pūrṇaprajña's bodily strength had no limit. A strongman named “Kaḍañjari” boasted that he had the strength of thirty men. The *ācārya* pressed his big toe to the ground and told him to pull it away. Though this extraordinary strongman applied all his immense strength, he could not do it. On a stone slab in the village of Mudgeri, in the Kadur district, it is written: “The stone brought and set up by Śrī Madhvācārya with one hand.” When he rode about on the shoulders of a frail boy, the bearer felt no weight at all.
+Śrī Pūrṇaprajña’s bodily strength had no limit. A strongman named “Kaḍañjari” boasted that he had the strength of thirty men. The *ācārya* pressed his big toe to the ground and told him to pull it away. Though this extraordinary strongman applied all his immense strength, he could not do it. On a stone slab in the village of Mudgeri, in the Kadur district, it is written: “The stone brought and set up by Śrī Madhvācārya with one hand.” When he rode about on the shoulders of a frail boy, the bearer felt no weight at all.
 
 On the ninth lunar day of the bright fortnight of Māgha, while explaining his commentary on the *Aitareya Upaniṣad*, Śrī Madhva left this world at the age of eighty. For details, see the book *Madhva-vijaya*, written by Nārāyaṇa Paṇḍita, son of Trivikramācārya, a disciple of Śrī Madhva. For a brief account of that book, see the *Mañjuṣā-samāhṛti* (issue 2).
 
@@ -950,7 +950,7 @@ From (19) Rāmacandra Tīrtha comes yet another line of disciples: (20) Vibudhen
 
 ## 248
 
-> Subheading: Madhva's disciples in succession serve the Deity of Kṛṣṇa —
+> Subheading: Madhva’s disciples in succession serve the Deity of Kṛṣṇa —
 
 ## 249
 
@@ -964,7 +964,7 @@ The age-old enmity between those who hold to the featureless Brahman — the *ke
 
 ## 251
 
-> Subheading: Then, seeing the Lord's spiritual transformations (*sāttvika-vikāras*), they recognize Him as a Vaiṣṇava —
+> Subheading: Then, seeing the Lord’s spiritual transformations (*sāttvika-vikāras*), they recognise Him as a Vaiṣṇava —
 
 ## 252
 
@@ -984,7 +984,7 @@ The age-old enmity between those who hold to the featureless Brahman — the *ke
 
 ## 256
 
-> Subheading: The Tattvavāda *ācārya*'s answer: (1) the *sādhana* is devotion mixed with *karma* — *varṇāśrama-dharma* and offering it to Kṛṣṇa —
+> Subheading: The Tattvavāda *ācārya*’s answer: (1) the *sādhana* is devotion mixed with *karma* — *varṇāśrama-dharma* and offering it to Kṛṣṇa —
 
 ## 257
 
@@ -992,9 +992,9 @@ The age-old enmity between those who hold to the featureless Brahman — the *ke
 
 ## 258
 
-> Subheading: The Lord's answer: (1) the *sādhana* is the ninefold devotion of the surrendered devotee —
+> Subheading: The Lord’s answer: (1) the *sādhana* is the ninefold devotion of the surrendered devotee —
 
-The Tattvavādīs' “*sādhana*” is *varṇāśrama-dharma* (*Śrīmad-Bhāgavatam* 11.19.47). But the one and only “*sādhana*” intended by the *śāstras* that Mahāprabhu revealed is hearing and chanting. The Tattvavādīs' “*sādhya*” is to attain the five kinds of liberation and then go to Vaikuṇṭha. But the “*sādhya*” of the *śāstras* that Mahāprabhu revealed is love for Kṛṣṇa (*kṛṣṇa-prema*).
+The Tattvavādīs’ “*sādhana*” is *varṇāśrama-dharma* (*Śrīmad-Bhāgavatam* 11.19.47). But the one and only “*sādhana*” intended by the *śāstras* that Mahāprabhu revealed is hearing and chanting. The Tattvavādīs’ “*sādhya*” is to attain the five kinds of liberation and then go to Vaikuṇṭha. But the “*sādhya*” of the *śāstras* that Mahāprabhu revealed is love for Kṛṣṇa (*kṛṣṇa-prema*).
 
 ## 259–260
 
@@ -1006,7 +1006,7 @@ The Daitya king Hiraṇyakaśipu, whose only wealth was knowledge born of the se
 
 > Subheading: Love for Kṛṣṇa is the fruit of pure hearing and chanting alone —
 
-*Dharma*, *artha*, *kāma*, and *mokṣa* — these are the four goals of life (*puruṣārthas*). “Love for Kṛṣṇa” is the “fifth” *puruṣārtha*: it lies beyond these four and is the best of all. Love for Kṛṣṇa awakens only from hearing and chanting Kṛṣṇa's name and so on. Even when one must practice other kinds of devotion, one should practice them together with *kīrtana*. This is Śrī Mahāprabhu's intention. It is said (*Caitanya-caritāmṛta*, Madhya 22.105[^261-1]): “Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices awaken it in the purified heart.”
+*Dharma*, *artha*, *kāma*, and *mokṣa* — these are the four goals of life (*puruṣārthas*). “Love for Kṛṣṇa” is the “fifth” *puruṣārtha*: it lies beyond these four and is the best of all. Love for Kṛṣṇa awakens only from hearing and chanting Kṛṣṇa’s name and so on. Even when one must practice other kinds of devotion, one should practice them together with *kīrtana*. This is Śrī Mahāprabhu’s intention. It is said (*Caitanya-caritāmṛta*, Madhya 22.105[^261-1]): “Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices awaken it in the purified heart.”
 
 ## 262
 
@@ -1018,7 +1018,7 @@ See Ādi 7.94.
 
 > Subheading: The censure of the aim of enjoying fruits; *kāma* does not give rise to *prema* —
 
-Good *karma* is better than bad *karma*, but even from such *karma* loving devotion to Kṛṣṇa never arises. *Karma* is the cause of the *jīva*'s gaining happiness or suffering. And from the *jīva*'s gaining happiness or suffering, devotion cannot arise. Devotion is service for Kṛṣṇa's happiness. All the *śāstras*, even the *śāstras* of *jñāna*, censure the aim of one's own enjoyment and prescribe giving it up. The *Śrīmad-Bhāgavatam*, the crown of spotless evidence, discusses and establishes only *naiṣkarmya* (freedom from *karma*) accompanied by pure knowledge, detachment, and devotion. In this Purāṇa, the best of all *śāstras* — at its beginning, in its middle, and at its end, everywhere — *karma* and *jñāna* whose mark is the intent to enjoy utterly trivial fruits are censured. Therefore, deeming it superfluous, we cite no verse here as evidence.
+Good *karma* is better than bad *karma*, but even from such *karma* loving devotion to Kṛṣṇa never arises. *Karma* is the cause of the *jīva*’s gaining happiness or suffering. And from the *jīva*’s gaining happiness or suffering, devotion cannot arise. Devotion is service for Kṛṣṇa’s happiness. All the *śāstras*, even the *śāstras* of *jñāna*, censure the aim of one’s own enjoyment and prescribe giving it up. The *Śrīmad-Bhāgavatam*, the crown of spotless evidence, discusses and establishes only *naiṣkarmya* (freedom from *karma*) accompanied by pure knowledge, detachment, and devotion. In this Purāṇa, the best of all *śāstras* — at its beginning, in its middle, and at its end, everywhere — *karma* and *jñāna* whose mark is the intent to enjoy utterly trivial fruits are censured. Therefore, deeming it superfluous, we cite no verse here as evidence.
 
 ## 264
 
@@ -1046,7 +1046,7 @@ See Ādi 4.207.
 
 > Subheading: For the pure devotee even liberation is insignificant —
 
-Śrī Śukadeva glorifies before Mahārāja Parīkṣit the virtues of the *mahā-bhāgavata* Bharata — his pure service to Bhagavān: **yaḥ** **nṛpaḥ** (the royal sage Bharata) **dustyajān** (hard to give up) **kṣiti-suta-svajanārtha-dārān** (land, sons, relatives, wealth, wife, and the rest), **sura-varaiḥ** (even by the best of the demigods) **prārthyāṁ** (desired) **śriyaṁ** (Lakṣmī) **sadayāvalokām** (she whose glance is such that it awakens Bharata's kindness; or else
+Śrī Śukadeva glorifies before Mahārāja Parīkṣit the virtues of the *mahā-bhāgavata* Bharata — his pure service to Bhagavān: **yaḥ** **nṛpaḥ** (the royal sage Bharata) **dustyajān** (hard to give up) **kṣiti-suta-svajanārtha-dārān** (land, sons, relatives, wealth, wife, and the rest), **sura-varaiḥ** (even by the best of the demigods) **prārthyāṁ** (desired) **śriyaṁ** (Lakṣmī) **sadayāvalokām** (she whose glance is such that it awakens Bharata’s kindness; or else
  she whose glance is full of kindness: “Let Bharata not accept the bodily hardship born of renunciation; let him stay at home, cherished by me”), **na aicchat** (did not desire) — that he did not desire her (his indifference to Śrī) — **ucitam** (was indeed fitting), (for) **madhu-dviṭ-sevānurakta-manasām** (of those whose minds are attached to the service of the Enemy of Madhu) **mahatām** **abhavaḥ** (freedom from rebirth, liberation) **api** **phalguḥ** (is indeed worthless).
 
 ## 270
@@ -1055,7 +1055,7 @@ See Ādi 4.207.
 
 Citraketu showed disrespect to the *paramahaṁsa* Śambhu, and Pārvatī cursed him: “Be born as the *asura* Vṛtra.” The sādhu Citraketu accepted it with bowed head, pleased them both, and went to his own place. Seeing this, the great Vaiṣṇava Śambhu describes to Pārvatī the conduct and nature of the devotees of Viṣṇu: **sarve** **nārāyaṇa-parāḥ** (the devotees of Viṣṇu) **kutaścana** **na** **bibhyati** (that is, they fear nothing), (for they) **svargāpavarga-narakeṣu** (in heaven and liberation, the abodes of happiness, and in hell and the other abodes of suffering) **api** **tulyārtha-darśinaḥ** (those whose nature is to see “the purpose is the same,” that is, who see an equal result).
 
-The “fear” mentioned in this verse in the words *kutaścana na bibhyati*, that is, *akutobhaya* (fearing nothing), arises from absorption in a second thing (*dvitīyābhiniveśa*). The “second” is *māyā*, perceived as something other than Kṛṣṇa, the nondual Knowledge, or other than the conscious Reality who is to be served; absorption in it is enjoyment pleasing to the senses (*Śrīmad-Bhāgavatam* 11.2.37; *Bṛhad-āraṇyaka Upaniṣad* 1.4.2). That enjoyment is “*kāma*,” the desire to please one's own senses, whose mark is selfish intent. Endeavor made of it is “*matsaratā*” (envy), or “*hiṁsā*” (violence). Only one wholly devoted to Nārāyaṇa — the pure devotee — having gained “fearlessness,” can say, “I see nothing here worth enjoying.” (*Chāndogya Upaniṣad* 8.9.1) Therefore heaven, hell, or liberation — all of these are for him a “second thing,” something foreign to the self, and so unwelcome.
+The “fear” mentioned in this verse in the words *kutaścana na bibhyati*, that is, *akutobhaya* (fearing nothing), arises from absorption in a second thing (*dvitīyābhiniveśa*). The “second” is *māyā*, perceived as something other than Kṛṣṇa, the nondual Knowledge, or other than the conscious Reality who is to be served; absorption in it is enjoyment pleasing to the senses (*Śrīmad-Bhāgavatam* 11.2.37; *Bṛhad-āraṇyaka Upaniṣad* 1.4.2). That enjoyment is “*kāma*,” the desire to please one’s own senses, whose mark is selfish intent. Endeavour made of it is “*matsaratā*” (envy), or “*hiṁsā*” (violence). Only one wholly devoted to Nārāyaṇa — the pure devotee — having gained “fearlessness,” can say, “I see nothing here worth enjoying.” (*Chāndogya Upaniṣad* 8.9.1) Therefore heaven, hell, or liberation — all of these are for him a “second thing,” something foreign to the self, and so unwelcome.
 
 ## 271
 
@@ -1065,28 +1065,28 @@ In the hymn *Mukunda-mālā* of Śrī Kulaśekhara: “Not for freedom from dual
 
 ## 272
 
-> Subheading: The Lord, who gives honor to others, reproaches the Tattvavāda *ācārya* for his error —
+> Subheading: The Lord, who gives honour to others, reproaches the Tattvavāda *ācārya* for his error —
 
 ## 273
 
-> Subheading: The Tattvavāda *ācārya* is ashamed and realizes the Lord's greatness —
+> Subheading: The Tattvavāda *ācārya* is ashamed and realises the Lord’s greatness —
 
-**The Tattva *ācārya*.** From the succession of gurus of the Uttararāḍhī Maṭha (see the *Anubhāṣya* to number 247[^273-1]) it is known that in Śrī Mahāprabhu's time the Madhvācārya there was Śrī Raghuvīrya Tīrtha.[^273-2]
+**The Tattva *ācārya*.** From the succession of gurus of the Uttararāḍhī Maṭha (see the *Anubhāṣya* to number 247[^273-1]) it is known that in Śrī Mahāprabhu’s time the Madhvācārya there was Śrī Raghuvīrya Tīrtha.[^273-2]
 
 ## 274
 
-> Subheading: The Tattvavāda *ācārya* accepts the Lord's view —
+> Subheading: The Tattvavāda *ācārya* accepts the Lord’s view —
 
 ## 275
 
-> Subheading: By Ānandatīrtha's order, devotion mixed with *karma* is practiced in the Tattvavāda *sampradāya* —
+> Subheading: By Ānandatīrtha’s order, devotion mixed with *karma* is practiced in the Tattvavāda *sampradāya* —
 
 The *Sadācāra-smṛti* says: “
 Having duly accomplished by *dharma* what serves as the means of worship, all the *varṇas* and *āśramas* always worship Viṣṇu alone. The sage Ānandatīrtha drew out the words of Vyāsa and set them down, auspiciously and in brief, on the subject of *sadācāra*.”
 
 ## 276
 
-> Subheading: The Lord does not honor the *karmīs* and *jñānīs* —
+> Subheading: The Lord does not honour the *karmīs* and *jñānīs* —
 
 ## 277
 
@@ -1096,7 +1096,7 @@ Having duly accomplished by *dharma* what serves as the means of worship, all th
 
 > Subheading: The Lord comes to Phalgu-tīrtha —
 
-***Tā̃ra ghare*** means *tā̃hāke* (him). Even today, on the Howrah–Amta line, in places like “Mājhu,” and in Burdwan toward Katwa, the colloquial language regularly uses the word *ghare* together with the genitive ending *-r* of the pronouns *tat*, *yuṣmad*, and *asmad* in the sense of the accusative, singular and plural. For example, *tādera ghare*, *tomādera ghare*, and *āmādera ghare* mean *tāhādigake* (them), *tomādigake* (you), and *āmādigake* (us). In East Bengal, in the accusative of these words, and only in the plural, the word *gore* is used, a corruption of *ghare*, but the genitive ending *-r* is not added to them. For example, instead of *tomādigake ḍākiyāche* (“you are being called”), the colloquial language of East Bengal says *tomāgore ḍākche*.
+***Tā̃ra ghare*** means *tā̃hāke* (him). Even today, on the Howrah–Amta line, in places like “Mājhu,” and in Burdwan towards Katwa, the colloquial language regularly uses the word *ghare* together with the genitive ending *-r* of the pronouns *tat*, *yuṣmad*, and *asmad* in the sense of the accusative, singular and plural. For example, *tādera ghare*, *tomādera ghare*, and *āmādera ghare* mean *tāhādigake* (them), *tomādigake* (you), and *āmādigake* (us). In East Bengal, in the accusative of these words, and only in the plural, the word *gore* is used, a corruption of *ghare*, but the genitive ending *-r* is not added to them. For example, instead of *tomādigake ḍākiyāche* (“you are being called”), the colloquial language of East Bengal says *tomāgore ḍākche*.
 
 ## 279
 
@@ -1138,7 +1138,7 @@ Having duly accomplished by *dharma* what serves as the means of worship, all th
 
 ## 288
 
-> Subheading: Seeing the Lord's emotions, Purī concludes that He is connected with Mādhavendra Purī —
+> Subheading: Seeing the Lord’s emotions, Purī concludes that He is connected with Mādhavendra Purī —
 
 ## 289
 
@@ -1160,7 +1160,7 @@ Before Śrīpāda Mādhavendra Purī, down to Śrīpāda Lakṣmīpati Tīrtha, 
 
 ## 294
 
-> Subheading: Asking the Lord's birthplace, Śrī Raṅga Purī hears the name “Navadvīpa” —
+> Subheading: Asking the Lord’s birthplace, Śrī Raṅga Purī hears the name “Navadvīpa” —
 
 ## 295
 
@@ -1218,7 +1218,7 @@ Before Śrīpāda Mādhavendra Purī, down to Śrīpāda Lakṣmīpati Tīrtha, 
 
 **The Tāptī**, present name “Tāpī,” rises in the Multai hills of Central India and falls into the Western Sea in the northern part of Saurāṣṭra.
 
-**Māhiṣmatīpura** is “Chuli Maheshwar.” The *Mahābhārata*, Sabhā-parva, in the account of Sahadeva's conquest of the quarters (chapter 31, verse 21), says: “
+**Māhiṣmatīpura** is “Chuli Maheshwar.” The *Mahābhārata*, Sabhā-parva, in the account of Sahadeva’s conquest of the quarters (chapter 31, verse 21), says: “
 Then, taking the jewels, he went to the city of Māhiṣmatī. There that bull among men fought with King Nīla.” Formerly this was the place of Kārtavīrya Arjuna, in the Broach district of Gujarat.
 
 ## 311
@@ -1227,7 +1227,7 @@ Then, taking the jewels, he went to the city of Māhiṣmatī. There that bull a
 
 **The river Nirvindhyā** lies near Ujjayinī, to its northeast, west of the river Pārā and south of the river Pāvanī.
 
-**Ṛṣyamūka.** Some say that Ṛṣyamūka Mountain is the mountain near the village of Hampi in the Bellary district, beside the narrowest pass on the bank of the Tuṅgabhadrā; it extends into the Nizam's state. According to some, it lies in the Central Provinces and is now called “Rampa”; according to others, it is “Anamalaya” in the kingdom of Travancore; and according to still others, the river Pampā flows out of Ṛṣyamūka Mountain and joins the Tuṅgabhadrā near Anagundi.
+**Ṛṣyamūka.** Some say that Ṛṣyamūka Mountain is the mountain near the village of Hampi in the Bellary district, beside the narrowest pass on the bank of the Tuṅgabhadrā; it extends into the Nizam’s state. According to some, it lies in the Central Provinces and is now called “Rampa”; according to others, it is “Anamalaya” in the kingdom of Travancore; and according to still others, the river Pampā flows out of Ṛṣyamūka Mountain and joins the Tuṅgabhadrā near Anagundi.
 
 **Daṇḍakāraṇya.** Over the broad tract along the banks of the Godāvarī — from Khandesh in the north to Ahmednagar in the south, and in between as far as “Nasik” and “Aurangabad” — there was a vast forest called “Daṇḍakāraṇya.”
 
@@ -1239,15 +1239,15 @@ Then, taking the jewels, he went to the city of Māhiṣmatī. There that bull a
 
 ## 314
 
-> Subheading: The people recognize the Lord as the avatāra Rāma —
+> Subheading: The people recognise the Lord as the avatāra Rāma —
 
 ## 316
 
 > Subheading: Bathing in Lake Pampā and resting at Pañcavaṭī —
 
-**Pampā.** “Ṛṣyamūka, covered with flowering trees, lies before the Pampā.” Some say that “Pampā” is the ancient name of the river Tuṅgabhadrā itself. According to another view, the village of Hampi, the ancient and famous capital of Vijayanagara, was first known as the holy place Pampā. According to a third view, “Lake Pampā” is a lake on the bank of the Tuṅgabhadrā near Anagundi, toward Hyderabad. According to a fourth, Lake Pampā is the Pambe river of Travancore. According to a fifth, the river is called a lake because its water is still.
+**Pampā.** “Ṛṣyamūka, covered with flowering trees, lies before the Pampā.” Some say that “Pampā” is the ancient name of the river Tuṅgabhadrā itself. According to another view, the village of Hampi, the ancient and famous capital of Vijayanagara, was first known as the holy place Pampā. According to a third view, “Lake Pampā” is a lake on the bank of the Tuṅgabhadrā near Anagundi, towards Hyderabad. According to a fourth, Lake Pampā is the Pambe river of Travancore. According to a fifth, the river is called a lake because its water is still.
 
-**Pañcavaṭī** is a forest in Daṇḍakāraṇya, now within the town of “Nasik.” Here Lakṣmaṇa cut off Śūrpaṇakhā's nose. In the town of Nasik resides the Mahādeva named “Tryambaka” (*Bombay Gazetteer*).
+**Pañcavaṭī** is a forest in Daṇḍakāraṇya, now within the town of “Nasik.” Here Lakṣmaṇa cut off Śūrpaṇakhā’s nose. In the town of Nasik resides the Mahādeva named “Tryambaka” (*Bombay Gazetteer*).
 
 ## 317
 
@@ -1283,7 +1283,7 @@ From the source of the Godāvarī the Lord passed through the northern part of p
 
 ## 324
 
-> Subheading: Both books confirm the *siddhānta* and the judgments on *rasa* that Rāya had spoken —
+> Subheading: Both books confirm the *siddhānta* and the judgements on *rasa* that Rāya had spoken —
 
 ## 325
 
@@ -1309,7 +1309,7 @@ From the source of the Godāvarī the Lord passed through the northern part of p
 
 ## 330
 
-> Subheading: Rāya reports that, by the Lord's order, he is preparing to go to Purī —
+> Subheading: Rāya reports that, by the Lord’s order, he is preparing to go to Purī —
 
 ## 332
 
@@ -1329,7 +1329,7 @@ From the source of the Godāvarī the Lord passed through the northern part of p
 
 ## 337
 
-> Subheading: Seeing the Lord, the people chant Hari's names, and the Lord rejoices —
+> Subheading: Seeing the Lord, the people chant Hari’s names, and the Lord rejoices —
 
 ## 338
 
@@ -1387,7 +1387,7 @@ From the source of the Godāvarī the Lord passed through the northern part of p
 
 ## 354
 
-> Subheading: A night in the Bhaṭṭācārya's house —
+> Subheading: A night in the Bhaṭṭācārya’s house —
 
 ## 355
 
@@ -1399,35 +1399,35 @@ From the source of the Godāvarī the Lord passed through the northern part of p
 
 ## 358
 
-> Subheading: In this book the Lord's pilgrimage is described only briefly —
+> Subheading: In this book the Lord’s pilgrimage is described only briefly —
 
 In verse 74 of this chapter, instead of the reading “having had *darśana* of Bhairavī Devī at Śiyālī,” it should be “having had *darśana* of Śrī Bhū-varāha at Śiyālī.” Near Śiyālī and Chidambaram stands the famous temple of “Śrīmuṣṇam.” The Deity of Śrī Bhū-varāhadeva resides there. Near Śiyālī, in the South Arcot district, in the Chidambaram *tāluk*, it is “Śrī Bhū-varāhadeva” who resides, not “Bhairavī Devī.”
 
 ## 359
 
-> Subheading: The author's longing to describe Caitanya's pastimes —
+> Subheading: The author’s longing to describe Caitanya’s pastimes —
 
-***Lajjā khāñā*** means casting off all shame; ***tāra*** means of Śrī Caitanya's pastimes.
+***Lajjā khāñā*** means casting off all shame; ***tāra*** means of Śrī Caitanya’s pastimes.
 
 ## 360
 
 > Subheading: The fruit of hearing how the Lord delivered people on the pretext of pilgrimage —
 
-The *pañcopāsakas* (worshipers of five deities) attribute worshipability to things manifest in the world and accessible to the knowledge of the material senses. But the *Śrīmad-Bhāgavatam* and Śrī Kṛṣṇa Caitanyadeva do not call “the highest goal” (*paramārtha*) what is known by such sense-born (*akṣaja*) knowledge devoted to pleasing the senses. The Māyāvādī *ahaṅgrahopāsakas*, who worship themselves as God, cut off the hands, feet, and so on of the Supreme Reality and, deluded, call an indefinable “sky-flower” *adhokṣaja*. Sometimes by the word *upāsya* (object of worship) they mean a featureless state devoid of variety and “covered by darkness,” or the wild dance (*tāṇḍava*) of inertness. Śrī Gaurasundara, on the basis of the teaching of inconceivable oneness and difference (*acintya-bhedābheda*) established by the *Śrīmad-Bhāgavatam*, showed the futility of the experience of such *karmīs*, *jñānīs*, and *yogīs*. In doing so He everywhere saw only Bhagavān — the Reality in which the name, form, qualities, and pastimes of the nondual Knowledge are revealed. The way non-Vaiṣṇavas see Śiva and various other gods, or Śākyasiṁha (“Dharma,” “Saṅgha,” and “Buddha”), is not Vaiṣṇava vision. To make this known Mahāprabhu saw only the *adhokṣaja*. External, sense-born (*akṣaja*) vision stands in complete opposition to seeing the *adhokṣaja* by the soul's own faculty (*ātma-vṛtti*). This is what the servants of Gaura must follow. The *prākṛta-sahajiyās* say that seeing Gopījana-vallabha in the hearts of the *gopīs*, Kṛṣṇa's associates, is “the same as” or “equal to” seeing various gods such as “Mahāmāyā,” an instrument of enjoyment — and so fall into the pit of *vivarta*. Argumentative *haitukas*, unable to grasp the path of *śruti*, become “henotheists,” or *pañcopāsakas*. They meditate on the five worshipable gods as one among the many manifestations of power in the external world, believe one of the five to be “Parameśvara,” and, though the others are of the same kind, rank them lower and disregard them. This seeing of symbols (*pratīka*) of the featureless Brahman throughout the universe is “*pañcopāsanā*.” Such vision belongs to idolatry (*pauttalikatā-vāda*)[^360-2], that is, to the worship of images (*pratimā-pūjā*); later it turned into the Māyāvādīs' “*nirviśeṣa-vāda*.” Only from a famine of seeing Kṛṣṇa does a *jīva* become a non-Vaiṣṇava — a *pañcopāsaka*, and sometimes an atheist. But Mahāprabhu, as it is said, “sees the moving and the nonmoving but does not see their forms; everywhere the form of His worshipable Lord appears.”[^360-1]
+The *pañcopāsakas* (worshippers of five deities) attribute worshipability to things manifest in the world and accessible to the knowledge of the material senses. But the *Śrīmad-Bhāgavatam* and Śrī Kṛṣṇa Caitanyadeva do not call “the highest goal” (*paramārtha*) what is known by such sense-born (*akṣaja*) knowledge devoted to pleasing the senses. The Māyāvādī *ahaṅgrahopāsakas*, who worship themselves as God, cut off the hands, feet, and so on of the Supreme Reality and, deluded, call an indefinable “sky-flower” *adhokṣaja*. Sometimes by the word *upāsya* (object of worship) they mean a featureless state devoid of variety and “covered by darkness,” or the wild dance (*tāṇḍava*) of inertness. Śrī Gaurasundara, on the basis of the teaching of inconceivable oneness and difference (*acintya-bhedābheda*) established by the *Śrīmad-Bhāgavatam*, showed the futility of the experience of such *karmīs*, *jñānīs*, and *yogīs*. In doing so He everywhere saw only Bhagavān — the Reality in which the name, form, qualities, and pastimes of the nondual Knowledge are revealed. The way non-Vaiṣṇavas see Śiva and various other gods, or Śākyasiṁha (“Dharma,” “Saṅgha,” and “Buddha”), is not Vaiṣṇava vision. To make this known Mahāprabhu saw only the *adhokṣaja*. External, sense-born (*akṣaja*) vision stands in complete opposition to seeing the *adhokṣaja* by the soul’s own faculty (*ātma-vṛtti*). This is what the servants of Gaura must follow. The *prākṛta-sahajiyās* say that seeing Gopījana-vallabha in the hearts of the *gopīs*, Kṛṣṇa’s associates, is “the same as” or “equal to” seeing various gods such as “Mahāmāyā,” an instrument of enjoyment — and so fall into the pit of *vivarta*. Argumentative *haitukas*, unable to grasp the path of *śruti*, become “henotheists,” or *pañcopāsakas*. They meditate on the five worshipable gods as one among the many manifestations of power in the external world, believe one of the five to be “Parameśvara,” and, though the others are of the same kind, rank them lower and disregard them. This seeing of symbols (*pratīka*) of the featureless Brahman throughout the universe is “*pañcopāsanā*.” Such vision belongs to idolatry (*pauttalikatā-vāda*)[^360-2], that is, to the worship of images (*pratimā-pūjā*); later it turned into the Māyāvādīs’ “*nirviśeṣa-vāda*.” Only from a famine of seeing Kṛṣṇa does a *jīva* become a non-Vaiṣṇava — a *pañcopāsaka*, and sometimes an atheist. But Mahāprabhu, as it is said, “sees the moving and the nonmoving but does not see their forms; everywhere the form of His worshipable Lord appears.”[^360-1]
 
 ## 361
 
-> Subheading: Firm faith in Kṛṣṇa Caitanya and *hari-saṅkīrtana* with a heart free of cheating are the *jīva*'s only highest *dharma* —
+> Subheading: Firm faith in Kṛṣṇa Caitanya and *hari-saṅkīrtana* with a heart free of cheating are the *jīva*’s only highest *dharma* —
 
 ## 362
 
 > Subheading: Apart from this, “there is no other path to the goal”[^362-1] —
 
-The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures is this: when a *jīva* hears Śrī Caitanya's pastimes with faith and devotion, no envy (*mātsarya*) can remain in him. In the age of Kali, for the pure *jīva* free from envy, the only eternal *dharma* is to take shelter of Śrī Gaura's feet and chant *harināma*. The Vaiṣṇava is the pure devotee, the *mahājana*, or the experience of the wise (*vidvad-anubhava*); the Vaiṣṇava scripture is *śruti*, or the testimony of revelation (*śabda-pramāṇa*). To follow both is to stand on the path of *śruti*. For anyone who seeks the ultimate good there is no other means. (*Śrīmad-Bhāgavatam* 11.19.17) — “*Śruti*, direct perception, tradition, and inference are the four sources of knowledge (*pramāṇas*). Seeing that the *pramāṇas* have no stability and that they disagree, one becomes detached.”
+The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures is this: when a *jīva* hears Śrī Caitanya’s pastimes with faith and devotion, no envy (*mātsarya*) can remain in him. In the age of Kali, for the pure *jīva* free from envy, the only eternal *dharma* is to take shelter of Śrī Gaura’s feet and chant *harināma*. The Vaiṣṇava is the pure devotee, the *mahājana*, or the experience of the wise (*vidvad-anubhava*); the Vaiṣṇava scripture is *śruti*, or the testimony of revelation (*śabda-pramāṇa*). To follow both is to stand on the path of *śruti*. For anyone who seeks the ultimate good there is no other means. (*Śrīmad-Bhāgavatam* 11.19.17) — “*Śruti*, direct perception, tradition, and inference are the four sources of knowledge (*pramāṇas*). Seeing that the *pramāṇas* have no stability and that they disagree, one becomes detached.”
 
 ## 363
 
-> Subheading: The pastimes of Śrī Śrī Caitanyacandra have no equal and none higher; their depth, and the author's humility —
+> Subheading: The pastimes of Śrī Śrī Caitanyacandra have no equal and none higher; their depth, and the author’s humility —
 
 ## 364
 
@@ -1447,9 +1447,9 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 
 [^102-1]: The edition numbers this section “২০২,” an obvious misprint for 102: it stands between sections 94–96 and 105 and in content belongs to verse 102.
 
-[^111-1]: So in the edition (“আদি ৫ম পঃ ২২৭”). The subject here is Lakṣmī, captivated by Kṛṣṇa's beauty and engaged in austerities; this is treated in Ādi 5.223 in our numbering (where the *Anubhāṣya* also gives the story from the *Padma Purāṇa*). Ādi 5.227 in our numbering is the verse on Nityānanda's mercy. Not corrected.
+[^111-1]: So in the edition (“আদি ৫ম পঃ ২২৭”). The subject here is Lakṣmī, captivated by Kṛṣṇa’s beauty and engaged in austerities; this is treated in Ādi 5.223 in our numbering (where the *Anubhāṣya* also gives the story from the *Padma Purāṇa*). Ādi 5.227 in our numbering is the verse on Nityānanda’s mercy. Not corrected.
 
-[^114-1]: So in the edition (“মধ্য ৮ম পঃ ১৪৭”). The verse *kasyānubhāvo 'sya na deva vidmahe…* is Madhya 8.146 (both in our numbering and in the edition itself; the edition refers to 8.146 in its *Anubhāṣya* to verses 111–116). Madhya 8.147 is a different verse. Not corrected.
+[^114-1]: So in the edition (“মধ্য ৮ম পঃ ১৪৭”). The verse *kasyānubhāvo ’sya na deva vidmahe…* is Madhya 8.146 (both in our numbering and in the edition itself; the edition refers to 8.146 in its *Anubhāṣya* to verses 111–116). Madhya 8.147 is a different verse. Not corrected.
 
 [^143-1]: So in the edition (checked against the scan). The verse “*ete cāṁśa-kalāḥ puṁsaḥ*” is cited at Ādi 2.67; “Madhya” seems to have been printed in place of “Ādi.”
 
@@ -1467,11 +1467,11 @@ The essence carried by the Vaiṣṇavas and by all the Vaiṣṇava scriptures 
 
 [^261-1]: The edition reads “মধ্য ২২ পঃ ১০৫”; in our numbering this verse is Madhya 22.104.
 
-[^273-1]: The edition's cross-reference reads “২৪৭ সংখ্যার অনুভাষ্য” (the *Anubhāṣya* to number 247). The succession list of the Uttararāḍhī Maṭha is in the *Anubhāṣya* to verse 245 (section 245–247; see above).
+[^273-1]: The edition’s cross-reference reads “২৪৭ সংখ্যার অনুভাষ্য” (the *Anubhāṣya* to number 247). The succession list of the Uttararāḍhī Maṭha is in the *Anubhāṣya* to verse 245 (section 245–247; see above).
 
 [^273-2]: So in the edition (“রঘুবীর্য্যতীর্থ”); in the succession list and in the subheading to verse 254, “Raghuvarya.”
 
-[^360-1]: *Caitanya-caritāmṛta*, Madhya 8.273 (numbering of Vṛndāvana Candra Dāsa's translation); the edition quotes it with a slight variant.
+[^360-1]: *Caitanya-caritāmṛta*, Madhya 8.273 (numbering of Vṛndāvana Candra Dāsa’s translation); the edition quotes it with a slight variant.
 
 [^360-2]: “Idolatry” (*pauttalika-vāda*) here is a term of Bhaktisiddhānta Sarasvatī Ṭhākura: it refers to the worship of worldly symbols of the featureless Brahman (*pañcopāsanā*), not to the worship of the Deity (*arcā-vigraha*), who is not an “image.”
 

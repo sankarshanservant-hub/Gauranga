@@ -2,9 +2,9 @@
 
 ## 1
 
-> Subheading: Homage to Gaura, who danced holding Haridāsa's body in His arms —
+> Subheading: Homage to Gaura, who danced holding Haridāsa’s body in His arms —
 
-**yaḥ** (Caitanyadeva) **yan-mūrtiṁ** (whose body, that is, Haridāsa's body) **saṁsthitām** (which had entered *samādhi*) **api** **svāṅke** (in His own arms) **kṛtvā** **nanarta**, **taṁ** **haridāsaṁ** **tat-prabhuṁ** **taṁ** **caitanyaṁ** **ca** **namāmi**.
+**yaḥ** (Caitanyadeva) **yan-mūrtiṁ** (whose body, that is, Haridāsa’s body) **saṁsthitām** (which had entered *samādhi*) **api** **svāṅke** (in His own arms) **kṛtvā** **nanarta**, **taṁ** **haridāsaṁ** **tat-prabhuṁ** **taṁ** **caitanyaṁ** **ca** **namāmi**.
 
 ## 5
 
@@ -12,11 +12,11 @@
 
 ## 7
 
-*Caitanyera ārya* — the one whom Mahāprabhu honors.
+*Caitanyera ārya* — the one whom Mahāprabhu honours.
 
 ## 10
 
-> Subheading: The author's humble words; to purify himself he describes Caitanya's qualities and pastimes —
+> Subheading: The author’s humble words; to purify himself he describes Caitanya’s qualities and pastimes —
 
 ## 11
 
@@ -24,15 +24,15 @@
 
 ## 12
 
-> Subheading: By day, *nāma-saṅkīrtana* and *darśana* of Jagannātha; by night, together with Svarūpa and Rāmānanda, the Lord relishes the *rasa* of Śrī Rādhā's love for Kṛṣṇa —
+> Subheading: By day, *nāma-saṅkīrtana* and *darśana* of Jagannātha; by night, together with Svarūpa and Rāmānanda, the Lord relishes the *rasa* of Śrī Rādhā’s love for Kṛṣṇa —
 
 ## 13
 
-> Subheading: In separation from Kṛṣṇa the *sāttvika-bhāvas* arise in the Lord's body —
+> Subheading: In separation from Kṛṣṇa the *sāttvika-bhāvas* arise in the Lord’s body —
 
 ## 15
 
-> Subheading: The Lord's two constant companions in His transcendental pastimes of separation (*vipralambha*) —
+> Subheading: The Lord’s two constant companions in His transcendental pastimes of separation (*vipralambha*) —
 
 ## 16
 
@@ -40,7 +40,7 @@
 
 ## 17
 
-> Subheading: Haridāsa Ṭhākura's condition at the time of his departure —
+> Subheading: Haridāsa Ṭhākura’s condition at the time of his departure —
 
 ## 18
 
@@ -48,7 +48,7 @@
 
 ## 19
 
-> Subheading: Haridāsa shows how a *sādhaka* who has taken shelter of the holy name should rightly honor *prasāda* —
+> Subheading: Haridāsa shows how a *sādhaka* who has taken shelter of the holy name should rightly honour *prasāda* —
 
 ## 21
 
@@ -56,11 +56,11 @@
 
 ## 22
 
-> Subheading: Haridāsa's humble words —
+> Subheading: Haridāsa’s humble words —
 
 ## 23
 
-> Subheading: Answering the Lord's question, Haridāsa tells of his sorrow: he cannot chant the name by count (*saṅkhyā-nāma*) —
+> Subheading: Answering the Lord’s question, Haridāsa tells of his sorrow: he cannot chant the name by count (*saṅkhyā-nāma*) —
 
 Here too we learn that every *sādhaka* who has taken shelter of the holy name has only one rule to keep: following Ṭhākura Haridāsa, to chant aloud the “Hare Kṛṣṇa” *mahā-mantra* (sixteen names, thirty-two syllables), taking up a fixed number and holding firmly to the vow. See Antya 3.99, 113–115, 120, 123–124, 129, 175, 223, 227, 238–242 and other verses.
 
@@ -70,13 +70,13 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 25
 
-> Subheading: The Lord's own words: “Haridāsa descended as the ācārya and preacher of the holy name” —
+> Subheading: The Lord’s own words: “Haridāsa descended as the ācārya and preacher of the holy name” —
 
-“Your descent” (*tomāra avatāra*): by the Lord's will His devotees and associates descend to earth to serve Him.
+“Your descent” (*tomāra avatāra*): by the Lord’s will His devotees and associates descend to earth to serve Him.
 
 ## 27
 
-> Subheading: Haridāsa's humble words, which would melt a stone, and his glorification of the Lord's greatness —
+> Subheading: Haridāsa’s humble words, which would melt a stone, and his glorification of the Lord’s greatness —
 
 ## 30
 
@@ -88,7 +88,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 32
 
-> Subheading: Haridāsa wishes to conclude his pastimes even before the Lord's departure —
+> Subheading: Haridāsa wishes to conclude his pastimes even before the Lord’s departure —
 
 ## 33
 
@@ -96,7 +96,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 37
 
-> Subheading: The Lord fulfills Haridāsa's desire —
+> Subheading: The Lord fulfils Haridāsa’s desire —
 
 ## 38
 
@@ -124,7 +124,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 46
 
-> Subheading: The account of Haridāsa's departure (*niryāṇa*); Haridāsa bows at the feet of the devotees and of Bhagavān —
+> Subheading: The account of Haridāsa’s departure (*niryāṇa*); Haridāsa bows at the feet of the devotees and of Bhagavān —
 
 ## 47
 
@@ -132,7 +132,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 48
 
-> Subheading: In front of Haridāsa's hut the Lord and His devotees begin a great *kīrtana* —
+> Subheading: In front of Haridāsa’s hut the Lord and His devotees begin a great *kīrtana* —
 
 ## 50
 
@@ -140,7 +140,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 52
 
-> Subheading: All the devotees are amazed and bow at Haridāsa's feet —
+> Subheading: All the devotees are amazed and bow at Haridāsa’s feet —
 
 ## 53
 
@@ -150,7 +150,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 > Subheading: Everyone remembers how in the Dvāpara-yuga Bhīṣma departed at will (*icchā-mṛtyu*) —
 
-*Bhīṣmera niryāṇa* (Bhīṣma's departure) — see Śrīmad-Bhāgavatam 1.9.29–43.
+*Bhīṣmera niryāṇa* (Bhīṣma’s departure) — see Śrīmad-Bhāgavatam 1.9.29–43.
 
 ## 58
 
@@ -158,7 +158,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 59
 
-> Subheading: The Lord dances holding Haridāsa's transcendental body in His arms —
+> Subheading: The Lord dances holding Haridāsa’s transcendental body in His arms —
 
 ## 60
 
@@ -170,7 +170,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 64
 
-> Subheading: The Lord bathes Haridāsa in the ocean; from then on, by Haridāsa's touch, the ocean became a great holy place (*mahā-tīrtha*) —
+> Subheading: The Lord bathes Haridāsa in the ocean; from then on, by Haridāsa’s touch, the ocean became a great holy place (*mahā-tīrtha*) —
 
 ## 65
 
@@ -238,7 +238,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 87
 
-> Subheading: The Lord honors *prasāda* together with the *sannyāsīs* —
+> Subheading: The Lord honours *prasāda* together with the *sannyāsīs* —
 
 ## 88
 
@@ -268,11 +268,11 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 98
 
-> Subheading: Cries of “Glory to Haridāsa!” and the Lord's dance —
+> Subheading: Cries of “Glory to Haridāsa!” and the Lord’s dance —
 
 ## 99
 
-> Subheading: The song of Haridāsa's glory —
+> Subheading: The song of Haridāsa’s glory —
 
 ## 100
 
@@ -284,7 +284,7 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 102
 
-> Subheading: Gaura-Bhagavān, who loves His devotees, fulfills their desires —
+> Subheading: Gaura-Bhagavān, who loves His devotees, fulfils their desires —
 
 ## 103
 
@@ -292,21 +292,21 @@ Here too we learn that every *sādhaka* who has taken shelter of the holy name h
 
 ## 103–104
 
-At the site of Haridāsa Ṭhākura's *samādhi*, a little more than a hundred years ago, the service of three Deities — Śrī Gaura, Nityānanda and Advaita — was established. With the help of a devotee of Utkala, “Bhramaradhara of Kendrāpāḍā,” a permanent temple (*śrī-mandira*) was built at Svarga-dvāra in Purī. This service was under the supervision of the *gosvāmīs* who are the servitors of Ṭoṭā-Gopīnātha. Now that property has been sold and has passed into other hands, and the new owners conduct the service. Near Haridāsa's *samādhi* Śrīla Bhaktivinoda Ṭhākura built his own place of worship, the “Bhakti-kuṭī.” In the Bengali year 1329 the Śrī Puruṣottama Maṭha was established in this Bhakti-kuṭī. The *Bhakti-ratnākara*, third wave, says: “Śrīnivāsa hastened to the seashore and saw the *samādhi* of Haridāsa Ṭhākura. Falling to the ground, he bowed down again and again. The devotees at the holy *samādhi* calmed Śrīnivāsa with affectionate words. Once more Śrīnivāsa bowed to the holy *samādhi* — and he wept so that the heart melts just to hear of it.”
+At the site of Haridāsa Ṭhākura’s *samādhi*, a little more than a hundred years ago, the service of three Deities — Śrī Gaura, Nityānanda and Advaita — was established. With the help of a devotee of Utkala, “Bhramaradhara of Kendrāpāḍā,” a permanent temple (*śrī-mandira*) was built at Svarga-dvāra in Purī. This service was under the supervision of the *gosvāmīs* who are the servitors of Ṭoṭā-Gopīnātha. Now that property has been sold and has passed into other hands, and the new owners conduct the service. Near Haridāsa’s *samādhi* Śrīla Bhaktivinoda Ṭhākura built his own place of worship, the “Bhakti-kuṭī.” In the Bengali year 1329 the Śrī Puruṣottama Maṭha was established in this Bhakti-kuṭī. The *Bhakti-ratnākara*, third wave, says: “Śrīnivāsa hastened to the seashore and saw the *samādhi* of Haridāsa Ṭhākura. Falling to the ground, he bowed down again and again. The devotees at the holy *samādhi* calmed Śrīnivāsa with affectionate words. Once more Śrīnivāsa bowed to the holy *samādhi* — and he wept so that the heart melts just to hear of it.”
 
 ## 105
 
 > Subheading: Ṭhākura Haridāsa — a *mahā-bhāgavata*, a learned *sannyāsī* (*vidvat-sannyāsī*), the best of *paramahaṁsas* —
 
-*Parama-vidvān* (supremely learned). *Vidyā* (knowledge) is that by which one is freed from the bondage of worldly existence, which is ignorance (*avidyā*), and gains experience of the transcendental, imperishable (*akṣara*) Reality — Viṣṇu, Acyuta, or Adhokṣaja. Ṭhākura Haridāsa was a master of the highest knowledge, the knowledge of Kṛṣṇa (*kṛṣṇa-vidyā*). For he descended as the ācārya and preacher of the chanting of Śrī Hari-nāma, which is the very life of the bride of knowledge (*vidyā-vadhū-jīvanam*). This is especially clear from the words of the *Bhāgavatam*: “If a person dedicates to Viṣṇu devotion of these nine kinds and performs it directly for Bhagavān, that, I consider, is the highest learning.” (Śrīmad-Bhāgavatam 7.5.24) From them we know that the one called “learned in all the scriptures” (*sarva-śāstrādhītī*) is precisely the one who cultivates *kīrtana*, the best of the nine parts of devotion to Kṛṣṇa.
+*Parama-vidvān* (supremely learned). *Vidyā* (knowledge) is that by which one is freed from the bondage of worldly existence, which is ignorance (*avidyā*), and gains experience of the transcendental, imperishable (*akṣara*) Reality — Viṣṇu, Acyuta, or Adhokṣaja. Ṭhākura Haridāsa was a master of the highest knowledge, the knowledge of Kṛṣṇa (*kṛṣṇa-vidyā*). For he descended as the ācārya and preacher of the chanting of Śrī Hari-nāma, which is the very life of the bride of knowledge (*vidyā-vadhū-jīvanam*). This is especially clear from the words of the *Bhāgavatam*: “If a person dedicates to Viṣṇu devotion of these nine kinds and performs it directly for Bhagavān, that, I consider, is the highest learning.” (*Śrīmad-Bhāgavatam* 7.5.24) From them we know that the one called “learned in all the scriptures” (*sarva-śāstrādhītī*) is precisely the one who cultivates *kīrtana*, the best of the nine parts of devotion to Kṛṣṇa.
 
 ## 106
 
-> Subheading: Even a drop of the ocean of Caitanya's pastimes is an elixir (*rasāyana*) for the heart and ears —
+> Subheading: Even a drop of the ocean of Caitanya’s pastimes is an elixir (*rasāyana*) for the heart and ears —
 
 ## 107
 
-> Subheading: Whoever wishes to cross beyond *māyā* and serve Kṛṣṇa must hear about Caitanya's life —
+> Subheading: Whoever wishes to cross beyond *māyā* and serve Kṛṣṇa must hear about Caitanya’s life —
 
 *Thus ends the eleventh chapter of the “Anubhāṣya.”*
 

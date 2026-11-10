@@ -4,7 +4,7 @@
 
 > Subheading: Obeisance to Śrī Kṛṣṇa Caitanya Mahāprabhu, who displays His pastimes in six forms together with His entourage, and to Śrī Rādhā-Kṛṣṇa, surrounded by Their dearest friends, who are absorbed in service —
 
-**aham** (I) **śrī-guroḥ** (of the guru who gave mantra initiation, or of the guru who teaches *bhajana*) **śrī-yuta-pada-kamalaṁ** (the beautiful lotus feet) **śrī-gurūn** (the gurus — the *parama-guru*, the *parātpara-guru* and the others, the whole line of gurus headed by Śrīmad Ānandatīrtha and Śrīman Mādhavendra Purī) **vaiṣṇavān** (the *bhāgavatas* who have appeared in all four *yugas*) **ca**; **sāgrajātaṁ** (present together with his elder brother, Śrīmat Sanātana Gosvāmī) **saha-gaṇa-raghunāthānvitaṁ** (together with his own devotees and with Śrī Raghunātha dāsa Gosvāmī, a follower of Rūpa) **sa-jīvaṁ** (present together with Śrī Jīva Gosvāmī, his follower, on whom he bestowed his favor) **taṁ śrī-rūpaṁ** (that Śrī Rūpa); **sādvaitaṁ** (together with Advaita Prabhu) **sāvadhūtaṁ** (together with Nityānanda Prabhu) **parijana-sahitaṁ** (with His entourage of associates) **kṛṣṇa-caitanya-devaṁ** (Mahāprabhu); **saha-gaṇa-lalitā-śrī-viśākhānvitān** (accompanied by Lalitā and Viśākhā, who are surrounded by their companions, the *sakhīs* and *mañjarīs*) **śrī-rādhā-kṛṣṇa-pādān** **ca** **vande** (I worship).
+**aham** (I) **śrī-guroḥ** (of the guru who gave mantra initiation, or of the guru who teaches *bhajana*) **śrī-yuta-pada-kamalaṁ** (the beautiful lotus feet) **śrī-gurūn** (the gurus — the *parama-guru*, the *parātpara-guru* and the others, the whole line of gurus headed by Śrīmad Ānandatīrtha and Śrīman Mādhavendra Purī) **vaiṣṇavān** (the *bhāgavatas* who have appeared in all four *yugas*) **ca**; **sāgrajātaṁ** (present together with his elder brother, Śrīmat Sanātana Gosvāmī) **saha-gaṇa-raghunāthānvitaṁ** (together with his own devotees and with Śrī Raghunātha dāsa Gosvāmī, a follower of Rūpa) **sa-jīvaṁ** (present together with Śrī Jīva Gosvāmī, his follower, on whom he bestowed his favour) **taṁ śrī-rūpaṁ** (that Śrī Rūpa); **sādvaitaṁ** (together with Advaita Prabhu) **sāvadhūtaṁ** (together with Nityānanda Prabhu) **parijana-sahitaṁ** (with His entourage of associates) **kṛṣṇa-caitanya-devaṁ** (Mahāprabhu); **saha-gaṇa-lalitā-śrī-viśākhānvitān** (accompanied by Lalitā and Viśākhā, who are surrounded by their companions, the *sakhīs* and *mañjarīs*) **śrī-rādhā-kṛṣṇa-pādān** **ca** **vande** (I worship).
 
 ## 3
 
@@ -24,11 +24,11 @@
 
 ## 5–6
 
-Mahāprabhu delivered people by giving “direct” *darśana*, by “entering” (*āviṣṭa*) the body of Nakula Brahmacārī, and by “appearing” (*āvirbhūta*) before Pradyumna, or Nṛsiṁhānanda Brahmacārī. In four places Mahāprabhu constantly displayed His “appearance” (*āvirbhāva*): (1) in Śrī Śacī's household temple, (2) where Śrī Nityānanda danced, (3) at the *kīrtana* in Śrīvāsa's courtyard, and (4) in Śrī Rāghava's house. (See verse 34.)
+Mahāprabhu delivered people by giving “direct” *darśana*, by “entering” (*āviṣṭa*) the body of Nakula Brahmacārī, and by “appearing” (*āvirbhūta*) before Pradyumna, or Nṛsiṁhānanda Brahmacārī. In four places Mahāprabhu constantly displayed His “appearance” (*āvirbhāva*): (1) in Śrī Śacī’s household temple, (2) where Śrī Nityānanda danced, (3) at the *kīrtana* in Śrīvāsa’s courtyard, and (4) in Śrī Rāghava’s house. (See verse 34.)
 
 ## 7
 
-> Subheading: The fruits of the three kinds of manifestation; the fruit of the Lord's direct *darśana* —
+> Subheading: The fruits of the three kinds of manifestation; the fruit of the Lord’s direct *darśana* —
 
 ## 10
 
@@ -46,7 +46,7 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 16
 
-> Subheading: An example of “entering”: the Lord “enters” Nakula Brahmacārī; Nakula's condition —
+> Subheading: An example of “entering”: the Lord “enters” Nakula Brahmacārī; Nakula’s condition —
 
 ## 20
 
@@ -54,17 +54,17 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 21
 
-> Subheading: The Brahmacārī's instruction —
+> Subheading: The Brahmacārī’s instruction —
 
 ***Premoddāma*** — intoxicated with *prema*.
 
 ## 23
 
-> Subheading: Śivānanda's doubt and his wish to test the Brahmacārī —
+> Subheading: Śivānanda’s doubt and his wish to test the Brahmacārī —
 
 ## 24
 
-> Subheading: Śivānanda's reasoning; he stays at a distance —
+> Subheading: Śivānanda’s reasoning; he stays at a distance —
 
 ## 27
 
@@ -76,7 +76,7 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 30
 
-> Subheading: Śivānanda's doubt is dispelled —
+> Subheading: Śivānanda’s doubt is dispelled —
 
 ## 31
 
@@ -104,7 +104,7 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 39
 
-> Subheading: The Lord's mercy to him, and His order —
+> Subheading: The Lord’s mercy to him, and His order —
 
 ## 40
 
@@ -120,7 +120,7 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 44
 
-> Subheading: Śrīkānta comes to Gauḍa and makes known the Lord's order; the devotees joyfully stay in Gauḍa —
+> Subheading: Śrīkānta comes to Gauḍa and makes known the Lord’s order; the devotees joyfully stay in Gauḍa —
 
 ***Sandeśa*** — the news that the Lord would come to Gauḍa in the coming month of Pauṣa.
 
@@ -182,7 +182,7 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 69
 
-> Subheading: After eating, the Lord goes to Pāṇihāṭi, to Rāghava's house, where He constantly abides —
+> Subheading: After eating, the Lord goes to Pāṇihāṭi, to Rāghava’s house, where He constantly abides —
 
 ## 70
 
@@ -190,11 +190,11 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 72
 
-> Subheading: Śivānanda's doubt —
+> Subheading: Śivānanda’s doubt —
 
 ## 73
 
-> Subheading: The Brahmacārī tells Śivānanda to gather what is needed for Śrī Nṛsiṁha's *bhoga* —
+> Subheading: The Brahmacārī tells Śivānanda to gather what is needed for Śrī Nṛsiṁha’s *bhoga* —
 
 ## 74
 
@@ -212,23 +212,23 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 78
 
-> Subheading: The Lord's words dispel Śivānanda's earlier doubt —
+> Subheading: The Lord’s words dispel Śivānanda’s earlier doubt —
 
 ## 79
 
-> Subheading: The Lord's “constant appearance” in four places —
+> Subheading: The Lord’s “constant appearance” in four places —
 
 ## 81
 
-> Subheading: Gaurasundara is subdued by His devotees' love —
+> Subheading: Gaurasundara is subdued by His devotees’ love —
 
 ## 82
 
-> Subheading: Śivānanda's indescribable love for Gaura —
+> Subheading: Śivānanda’s indescribable love for Gaura —
 
 ## 83
 
-> Subheading: Whoever hears of Gaura's appearance comes to know the glory of Kṛṣṇa Caitanya —
+> Subheading: Whoever hears of Gaura’s appearance comes to know the glory of Kṛṣṇa Caitanya —
 
 ## 84
 
@@ -242,7 +242,7 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 87
 
-***Ghare bhāta kari*** (having cooked rice at home). One may bring Śrī Jagannāthadeva's *prasāda* and satisfy one's family, beggars or invited guests with it. When instead one feeds them at home and for that cooks rice and the rest — that is, cooks from raw foodstuffs — this is called *ghara-bhāta* (“home rice”). In Utkala two words are used, *āmānī* and *prasādī*. When cooked food (*naivedya-bhoga*) has been offered to Śrī Jagannāthadeva, it is *prasāda*; and what is cooked from raw foodstuffs is *āmānī*, which is to be understood as “not Jagannāthadeva's remnants.”
+***Ghare bhāta kari*** (having cooked rice at home). One may bring Śrī Jagannāthadeva’s *prasāda* and satisfy one’s family, beggars or invited guests with it. When instead one feeds them at home and for that cooks rice and the rest — that is, cooks from raw foodstuffs — this is called *ghara-bhāta* (“home rice”). In Utkala two words are used, *āmānī* and *prasādī*. When cooked food (*naivedya-bhoga*) has been offered to Śrī Jagannāthadeva, it is *prasāda*; and what is cooked from raw foodstuffs is *āmānī*, which is to be understood as “not Jagannāthadeva’s remnants.”
 
 ## 88
 
@@ -250,17 +250,17 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 89
 
-***Vedānta*** — here, Śaṅkarācārya's commentary on the Vedānta, or *Śārīraka-sūtras*, which upholds the impersonal Brahman.
+***Vedānta*** — here, Śaṅkarācārya’s commentary on the Vedānta, or *Śārīraka-sūtras*, which upholds the impersonal Brahman.
 
 **Ācārya** — his elder brother, Bhagavān Ācārya.
 
 ## 91
 
-> Subheading: Only pure service to Kṛṣṇa pleases Gaura; He disregards the mixed (*viddha*) endeavors of a nondevotee, which oppose *bhakti* —
+> Subheading: Only pure service to Kṛṣṇa pleases Gaura; He disregards the mixed (*viddha*) endeavours of a nondevotee, which oppose *bhakti* —
 
 ## 92
 
-> Subheading: One day the Ācārya asks Svarūpa to hear Śaṅkara's Māyāvāda commentary from the mouth of the Ācārya's younger brother —
+> Subheading: One day the Ācārya asks Svarūpa to hear Śaṅkara’s Māyāvāda commentary from the mouth of the Ācārya’s younger brother —
 
 ## 94
 
@@ -268,9 +268,9 @@ Mahāprabhu delivered people by giving “direct” *darśana*, by “entering�
 
 ## 95
 
-> Subheading: Śrī Dāmodara-svarūpa Prabhu, the guru of all Vaiṣṇavas, describes the faults of Māyāvāda and condemns it; how one who wishes to serve Viṣṇu purely should treat Śaṅkara's Māyāvāda commentary —
+> Subheading: Śrī Dāmodara-svarūpa Prabhu, the guru of all Vaiṣṇavas, describes the faults of Māyāvāda and condemns it; how one who wishes to serve Viṣṇu purely should treat Śaṅkara’s Māyāvāda commentary —
 
-Śaṅkara, the advocate of *kevalādvaita*, relied on speculation and established in his commentary on the *Śārīraka-* or *Brahma-sūtras* “Māyāvāda,” or “mixed (*viddha*) *kevalādvaita*.” But other commentaries on the *Brahma-sūtras* declare the purport of Vedānta as follows: the *Śrī-bhāṣya* of Śrī Rāmānuja of the Śrī-sampradāya — “*viśiṣṭādvaita*”; the *Pūrṇaprajña-bhāṣya* of Śrī Madhva of the Brahma-sampradāya — “*śuddha-dvaita*”; the *Pārijāta-saurabha-bhāṣya* of Śrī Nimbārka of the Catuḥ-sana-sampradāya — “*dvaitādvaita*”; and the *Sarvajña-bhāṣya* of Śrī Viṣṇusvāmī of the Rudra-sampradāya — “*śuddhādvaita*.” In these commentaries the relationship between the servant and the one he serves (*sevya-sevaka-bhāva*) is preserved. Therefore the devotees of Bhagavān Viṣṇu study them, and the truths they contain have always been honored in the genuine *sampradāyas* (*sat-sampradāyas*), that is, among the Vaiṣṇavas. See the *Anubhāṣya* on Ādi 7.101. Śaṅkara's commentary, however, in explaining the *Brahma-sūtras*, or Vedānta, strives to establish mixed *kevalādvaita*, the doctrine of the impersonal Brahman. It is therefore nothing but a false doctrine (*kumata-vāda*), wholly opposed to pure *bhakti*.
+Śaṅkara, the advocate of *kevalādvaita*, relied on speculation and established in his commentary on the *Śārīraka-* or *Brahma-sūtras* “Māyāvāda,” or “mixed (*viddha*) *kevalādvaita*.” But other commentaries on the *Brahma-sūtras* declare the purport of Vedānta as follows: the *Śrī-bhāṣya* of Śrī Rāmānuja of the Śrī-sampradāya — “*viśiṣṭādvaita*”; the *Pūrṇaprajña-bhāṣya* of Śrī Madhva of the Brahma-sampradāya — “*śuddha-dvaita*”; the *Pārijāta-saurabha-bhāṣya* of Śrī Nimbārka of the Catuḥ-sana-sampradāya — “*dvaitādvaita*”; and the *Sarvajña-bhāṣya* of Śrī Viṣṇusvāmī of the Rudra-sampradāya — “*śuddhādvaita*.” In these commentaries the relationship between the servant and the one he serves (*sevya-sevaka-bhāva*) is preserved. Therefore the devotees of Bhagavān Viṣṇu study them, and the truths they contain have always been honoured in the genuine *sampradāyas* (*sat-sampradāyas*), that is, among the Vaiṣṇavas. See the *Anubhāṣya* on Ādi 7.101. Śaṅkara’s commentary, however, in explaining the *Brahma-sūtras*, or Vedānta, strives to establish mixed *kevalādvaita*, the doctrine of the impersonal Brahman. It is therefore nothing but a false doctrine (*kumata-vāda*), wholly opposed to pure *bhakti*.
 
 ## 96
 
@@ -290,11 +290,11 @@ See Ādi 5.58, and also Ādi 7.113 and 7.121–126.
 
 ## 100
 
-> Subheading: The Ācārya grasps the meaning of Svarūpa's words and sends his younger brother back to his home village —
+> Subheading: The Ācārya grasps the meaning of Svarūpa’s words and sends his younger brother back to his home village —
 
 ## 101
 
-> Subheading: On another day [the Ācārya] sends Choṭa Haridāsa to Mādhavī-devī for rice for the Lord's meal —
+> Subheading: On another day [the Ācārya] sends Choṭa Haridāsa to Mādhavī-devī for rice for the Lord’s meal —
 
 ## 103
 
@@ -306,7 +306,7 @@ Another reading has *āroyā cāul*, that is, rice of the *śāli* variety calle
 
 ## 105
 
-> Subheading: Among all the Lord's devotees, only three and a half belong to Śrīmatī's circle —
+> Subheading: Among all the Lord’s devotees, only three and a half belong to Śrīmatī’s circle —
 
 ## 107
 
@@ -330,7 +330,7 @@ Another reading has *āroyā cāul*, that is, rice of the *śāli* variety calle
 
 ## 114
 
-> Subheading: Haridāsa's deep sorrow and his fast —
+> Subheading: Haridāsa’s deep sorrow and his fast —
 
 ## 116
 
@@ -338,7 +338,7 @@ Another reading has *āroyā cāul*, that is, rice of the *śāli* variety calle
 
 ## 117
 
-> Subheading: The Lord's reply: He cannot bear to see the face of a *vairāgī* who converses with a *prakṛti* (a woman) —
+> Subheading: The Lord’s reply: He cannot bear to see the face of a *vairāgī* who converses with a *prakṛti* (a woman) —
 
 “Simplicity” is the chief mark of a Vaiṣṇava, and “duplicity” is a side shoot (*upaśākhā*) hostile to devotion. As attachment to Kṛṣṇa grows, the devotee loses his taste for all that is not Kṛṣṇa and gives up the sense objects born of a gaze that seeks worldly enjoyment. But if people see such an attachment in him and his duplicity comes to light, they can no longer trust his conduct.
 
@@ -352,15 +352,15 @@ To take in the five objects — form, sound, smell, taste and touch — is the n
 
 > Subheading: For one who thinks himself a man, the company of women is forbidden, as fire must be kept from ghee — (*Śrīmad-Bhāgavatam* 9.19.17 and *Manu-saṁhitā* 2.215)
 
-Mahārāja Yayāti, ruled by lust and conquered by a woman, long enjoyed gross worldly objects. At last, realizing that he was ruining himself completely, he became disillusioned (*nirveda*); describing his own character and conduct to his wife Devayānī, he condemns the company of women:
+Mahārāja Yayāti, ruled by lust and conquered by a woman, long enjoyed gross worldly objects. At last, realising that he was ruining himself completely, he became disillusioned (*nirveda*); describing his own character and conduct to his wife Devayānī, he condemns the company of women:
 
-**mātrā** (with one's mother) **svasrā** (with one's sister) **duhitrā** **vā** (or with one's daughter) **aviviktāsanaḥ** (one whose seat is not apart, that is, close beside them) **na** **vaset** (one should not stay; there is a variant reading *bhavet*[^119-1]; for) **balavān** (possessing great strength) **indriya-grāmaḥ** (the host of the senses) **vidvāṁsam** (a man who knows about bondage and liberation) **api** (even) **karṣati** (draws, that is, binds him in bondage).
+**mātrā** (with one’s mother) **svasrā** (with one’s sister) **duhitrā** **vā** (or with one’s daughter) **aviviktāsanaḥ** (one whose seat is not apart, that is, close beside them) **na** **vaset** (one should not stay; there is a variant reading *bhavet*[^119-1]; for) **balavān** (possessing great strength) **indriya-grāmaḥ** (the host of the senses) **vidvāṁsam** (a man who knows about bondage and liberation) **api** (even) **karṣati** (draws, that is, binds him in bondage).
 
 ## 120
 
-> Subheading: Once one gives up the concern of pleasing Kṛṣṇa's senses, the unqualified pseudo-*vairāgī*, conceiving himself a man, enjoys *prakṛti*; his renunciation rests on outer dress, artificial and unsteady, and so he indulges the tongue, the belly and the genitals —
+> Subheading: Once one gives up the concern of pleasing Kṛṣṇa’s senses, the unqualified pseudo-*vairāgī*, conceiving himself a man, enjoys *prakṛti*; his renunciation rests on outer dress, artificial and unsteady, and so he indulges the tongue, the belly and the genitals —
 
-**Markaṭa** — from the root *mark* (known from the *sūtras*, meaning “to move”) with the suffix *aṭan* in the agent sense: fickle, unsteady. **Indriya carāñā** — giving free rein to the senses; **bule** — wanders. Some make a show of outer renunciation and gather honor from people, yet cannot free their hearts from the desire for worldly enjoyment: they converse with women, think of themselves as “men,” and desire the eight kinds of contact with women. Such a soul, a *prākṛta-sahajiyā*, can never be called by the word *mahat* (great). For *vividiṣā*[^120-1] or *dhīra sannyāsīs*, the offense of conversing with *prakṛti* is a cause of special misfortune for themselves. But if someone whose knowledge rests on the senses (an *akṣaja-jñānī*), through his own misfortune, takes the *paramahaṁsa sannyāsīs* — the *vidvats* or *narottamas*, headed by Śrī Rāmānanda — to be conversing with *prakṛti*, his fall is inevitable.
+**Markaṭa** — from the root *mark* (known from the *sūtras*, meaning “to move”) with the suffix *aṭan* in the agent sense: fickle, unsteady. **Indriya carāñā** — giving free rein to the senses; **bule** — wanders. Some make a show of outer renunciation and gather honour from people, yet cannot free their hearts from the desire for worldly enjoyment: they converse with women, think of themselves as “men,” and desire the eight kinds of contact with women. Such a soul, a *prākṛta-sahajiyā*, can never be called by the word *mahat* (great). For *vividiṣā*[^120-1] or *dhīra sannyāsīs*, the offence of conversing with *prakṛti* is a cause of special misfortune for themselves. But if someone whose knowledge rests on the senses (an *akṣaja-jñānī*), through his own misfortune, takes the *paramahaṁsa sannyāsīs* — the *vidvats* or *narottamas*, headed by Śrī Rāmānanda — to be conversing with *prakṛti*, his fall is inevitable.
 
 ## 121
 
@@ -378,15 +378,15 @@ Mahārāja Yayāti, ruled by lust and conquered by a woman, long enjoyed gross w
 
 ## 125
 
-> Subheading: The Lord's stern command —
+> Subheading: The Lord’s stern command —
 
 ## 126
 
-> Subheading: Hearing the Lord's words, everyone is frightened and abashed —
+> Subheading: Hearing the Lord’s words, everyone is frightened and abashed —
 
 ## 127
 
-> Subheading: The meaning of the Lord's unfathomable pastime —
+> Subheading: The meaning of the Lord’s unfathomable pastime —
 
 ## 128
 
@@ -422,7 +422,7 @@ Mahārāja Yayāti, ruled by lust and conquered by a woman, long enjoyed gross w
 
 ## 143
 
-> Subheading: The supreme compassion of the Lord, the bulwark and armor of *dharma* —
+> Subheading: The supreme compassion of the Lord, the bulwark and armour of *dharma* —
 
 Illicit contact with a woman, cloaked in duplicity, is only one sin among others. Even so, the Lord punished His devotee Haridāsa. He did so to show that the position of a Vaiṣṇava is beyond the three *guṇas*, transcendental and supreme. He also wished to show that the conduct of the future denizens of hell who follow side religions and false religions (*upadharma* and *apadharma*) — the “mixed” (*viddha*) *prākṛta-sahajiyās* and their like — rests entirely on the foundation of *adharma*: it is the complete opposite of pure Vaiṣṇava *dharma* and has nothing to do with it. Śrī Mādhavī-devī is a *mahā-bhāgavata* of high standing, and for an associate of the Lord like Haridāsa, to accept rice from her as alms was not an improper act. But in the future many, imitating such an example or model and spreading cunning and duplicity, could preach non-Vaiṣṇava views befitting the people of Kali. To prevent this, Bhagavān — the guru of the world, the teacher of the people — enacted this pastime of punishing Haridāsa. Śrī Gaurasundara is an ocean of extraordinary mercy; precisely because He understood the weakness of the souls of Kali, He imposed so severe a punishment — the loss of His company — and thereby showed the height of His bountiful mercy.
 
@@ -438,7 +438,7 @@ Illicit contact with a woman, cloaked in duplicity, is only one sin among others
 
 ## 146
 
-> Subheading: Seeing this, Choṭa Haridāsa resolves to attain the Lord's service, comes to Prayāga and gives up his body at the Triveṇī —
+> Subheading: Seeing this, Choṭa Haridāsa resolves to attain the Lord’s service, comes to Prayāga and gives up his body at the Triveṇī —
 
 ## 148
 
@@ -466,7 +466,7 @@ Illicit contact with a woman, cloaked in duplicity, is only one sin among others
 
 ## 158
 
-> Subheading: Svarūpa praises Choṭa Haridāsa's virtues and his good destination —
+> Subheading: Svarūpa praises Choṭa Haridāsa’s virtues and his good destination —
 
 ## 160
 
@@ -494,7 +494,7 @@ Illicit contact with a woman, cloaked in duplicity, is only one sin among others
 
 ## 167
 
-> Subheading: The Lord's pastimes, an elixir for the hearts and ears of the devotees —
+> Subheading: The Lord’s pastimes, an elixir for the hearts and ears of the devotees —
 
 ## 168
 
@@ -504,7 +504,7 @@ Illicit contact with a woman, cloaked in duplicity, is only one sin among others
 
 A *sādhaka* who desires pure service to Gaura-Kṛṣṇa should take note of the following lessons that Mahāprabhu taught through the pastime of punishing Choṭa Haridāsa.
 
-1. Bhagavān Gaurasundara, supremely merciful to the *jīvas*, openly rejected even His own associate and devotee Choṭa Haridāsa. Had the Lord not rejected him, the weak souls of the age of Kali would have received improper indulgence: they would have taken *prākṛta-sahajiyā*-ism and other material false and side religions to be “Vaiṣṇava *dharma*” and would have gone on rotting in hell. That would not have revealed the Lord's mercy.
+1. Bhagavān Gaurasundara, supremely merciful to the *jīvas*, openly rejected even His own associate and devotee Choṭa Haridāsa. Had the Lord not rejected him, the weak souls of the age of Kali would have received improper indulgence: they would have taken *prākṛta-sahajiyā*-ism and other material false and side religions to be “Vaiṣṇava *dharma*” and would have gone on rotting in hell. That would not have revealed the Lord’s mercy.
 
 2. By imposing this punishment, the Lord taught everyone what the position of a preaching Vaiṣṇava ācārya should be, and what the position of a devotee who keeps the rules of conduct should be.
 
@@ -512,9 +512,9 @@ A *sādhaka* who desires pure service to Gaura-Kṛṣṇa should take note of t
 
 4. The Lord showed how lofty and attractive an ideal is the spotless character of His devotees; how He accepts (pure) true devotees as His own; and what poisonous fruit is born of even a shadow of attachment to what is not Kṛṣṇa.
 
-5. The Lord wished to show how great His bountiful mercy toward Haridāsa was — shown in the punishment — and how great Haridāsa's desire to serve the Lord, his deep love (*anurāga*), was. So He would not tolerate even his slightest fault. If pure devotees who long to serve wish to become objects of the Lord's deep love, they must give up in every way all craving for worldly sense pleasure; otherwise Śrī Gaurahari does not accept them.
+5. The Lord wished to show how great His bountiful mercy towards Haridāsa was — shown in the punishment — and how great Haridāsa’s desire to serve the Lord, his deep love (*anurāga*), was. So He would not tolerate even his slightest fault. If pure devotees who long to serve wish to become objects of the Lord’s deep love, they must give up in every way all craving for worldly sense pleasure; otherwise Śrī Gaurahari does not accept them.
 
-6. If someone gives up his body at Prayāga or another holy place of Viṣṇu, he is cleansed of offenses and the like, becomes liberated, and attains *sukṛti* and a good destination.
+6. If someone gives up his body at Prayāga or another holy place of Viṣṇu, he is cleansed of offences and the like, becomes liberated, and attains *sukṛti* and a good destination.
 
 7. To teach the people, the Lord did not accept His devotee Haridāsa. But later He accepted his service — hearing *kīrtana* of Kṛṣṇa from his mouth — and so accepted him as His own devotee.
 
@@ -530,6 +530,6 @@ A *sādhaka* who desires pure service to Gaura-Kṛṣṇa should take note of t
 
 ---
 
-[^119-1]: The edition's verse reads *vaset* (checked against the scan; so also in the verse text of our translation); the variant *bhavet* is noted in Bhaktisiddhānta's own comment.
+[^119-1]: The edition’s verse reads *vaset* (checked against the scan; so also in the verse text of our translation); the variant *bhavet* is noted in Bhaktisiddhānta’s own comment.
 
 [^120-1]: The edition reads *vivitsā* (checked against the scan); the sense is probably *vividiṣā* (the desire to know), as in the pair *vividiṣā-* and *vidvat-sannyāsa*.

@@ -2,13 +2,13 @@
 
 ## 1
 
-> Subheading: By the mercy of Gaura's devotees even lowly worldly people (*viṣayīs*) attain love for Kṛṣṇa —
+> Subheading: By the mercy of Gaura’s devotees even lowly worldly people (*viṣayīs*) attain love for Kṛṣṇa —
 
-**agaṇya-dhanya-caitanya-gaṇānām** (of Caitanya's associates, the devotees who have taken shelter at His feet, who are countless, impossible to count, and blessed, having attained perfection) **prema-vanyayā** (by the flood of *prema* — by a stream of water overflowing the bed of the river of love) **adhanya-jana-svānta-maruḥ** (the desert of the hearts of the unfortunate — the waterless desert that the hearts of lowly people devoid of *bhakti* resemble) **śaśvat** (constantly) **anūpatām** (to the state of a well-watered land, almost wholly covered with water) **ninye** (was brought).
+**agaṇya-dhanya-caitanya-gaṇānām** (of Caitanya’s associates, the devotees who have taken shelter at His feet, who are countless, impossible to count, and blessed, having attained perfection) **prema-vanyayā** (by the flood of *prema* — by a stream of water overflowing the bed of the river of love) **adhanya-jana-svānta-maruḥ** (the desert of the hearts of the unfortunate — the waterless desert that the hearts of lowly people devoid of *bhakti* resemble) **śaśvat** (constantly) **anūpatām** (to the state of a well-watered land, almost wholly covered with water) **ninye** (was brought).
 
 ## 4
 
-> Subheading: The Lord's pastimes with His devotees in Nīlācala —
+> Subheading: The Lord’s pastimes with His devotees in Nīlācala —
 
 ## 5
 
@@ -38,7 +38,7 @@ See Antya 2.10.
 
 *Prahlāda.* According to some historians, he appeared in the Tretā-yuga at Multan, the capital of the Punjab, as the Vaiṣṇava son of King Hiraṇyakaśipu of the Kaśyapa dynasty. His father Hiraṇyakaśipu hated Viṣṇu, and so his son Prahlāda had to endure many kinds of torment. Then Bhagavān Nṛsiṁhadeva appeared and slew that *asura* emperor, the hater of Vaiṣṇavas.
 
-*Bali.* Prahlāda's son was Virocana, and his son was Bali. Bhagavān descended as Vāmana and, on the pretext of begging three steps of land, showed mercy to Bali, who surrendered himself to Him. Of Bali's hundred sons, Bāṇa was the eldest.
+*Bali.* Prahlāda’s son was Virocana, and his son was Bali. Bhagavān descended as Vāmana and, on the pretext of begging three steps of land, showed mercy to Bali, who surrendered himself to Him. Of Bali’s hundred sons, Bāṇa was the eldest.
 
 *Vyāsa* — the son of Parāśara, Sātyavateya (the son of Satyavatī), or Kṛṣṇa-dvaipāyana Bādarāyaṇa Muni. He divided the Veda and is therefore called “Vedavyāsa.” He composed the eighteen *mahā-purāṇas*, the *Brahma-sūtra* and its commentary, the book *Śrīmad-Bhāgavatam*. He was a disciple of Śrī Nārada Ṛṣi of the Brahma-sampradāya.
 
@@ -46,7 +46,7 @@ See Antya 2.10.
 
 ## 11
 
-> Subheading: Outside, people clamor to see the Lord, Who is within the house; the Lord gives them *darśana* and tells everyone to chant the narrations of Kṛṣṇa —
+> Subheading: Outside, people clamour to see the Lord, Who is within the house; the Lord gives them *darśana* and tells everyone to chant the narrations of Kṛṣṇa —
 
 ## 12
 
@@ -54,25 +54,25 @@ See Antya 2.10.
 
 ## 13
 
-> Subheading: The Lord is told that Pratāparudra's son is about to put to death Gopīnātha, the son of Bhavānanda —
+> Subheading: The Lord is told that Pratāparudra’s son is about to put to death Gopīnātha, the son of Bhavānanda —
 
 ## 14
 
-> Subheading: Without the Lord's mercy there is no way to be saved —
+> Subheading: Without the Lord’s mercy there is no way to be saved —
 
 *Ḍāribe* — they will throw down.
 
 ## 15
 
-> Subheading: Begging the Lord's mercy to protect His servant —
+> Subheading: Begging the Lord’s mercy to protect His servant —
 
 ## 16
 
-> Subheading: Answering the Lord's question, the messenger tells how Gopīnātha is to be executed —
+> Subheading: Answering the Lord’s question, the messenger tells how Gopīnātha is to be executed —
 
 ## 17
 
-*Rāja-viṣayī* — the keeper of the king's property.
+*Rāja-viṣayī* — the keeper of the king’s property.
 
 ## 20
 
@@ -98,15 +98,15 @@ See Antya 2.10.
 
 ## 35
 
-> Subheading: As an example of the *dharma* of *sannyāsa*, the Lord shows indifference, or detachment, toward talk of worldly affairs —
+> Subheading: As an example of the *dharma* of *sannyāsa*, the Lord shows indifference, or detachment, towards talk of worldly affairs —
 
 ## 36
 
-> Subheading: Svarūpa Dāmodara and the other devotees beg the Lord to give up His indifference and protect Rāmānanda's kinsmen —
+> Subheading: Svarūpa Dāmodara and the other devotees beg the Lord to give up His indifference and protect Rāmānanda’s kinsmen —
 
 ## 38
 
-> Subheading: The Lord's anger and rebuke —
+> Subheading: The Lord’s anger and rebuke —
 
 ## 40
 
@@ -124,7 +124,7 @@ See Antya 2.10.
 
 ## 43
 
-> Subheading: He tells everyone to pray for this at Jagannātha's feet —
+> Subheading: He tells everyone to pray for this at Jagannātha’s feet —
 
 ## 44
 
@@ -132,7 +132,7 @@ See Antya 2.10.
 
 ## 45
 
-> Subheading: Haricandana Mahāpātra begs Pratāparudra for Gopīnātha's life —
+> Subheading: Haricandana Mahāpātra begs Pratāparudra for Gopīnātha’s life —
 
 ## 46
 
@@ -150,11 +150,11 @@ See Antya 2.10.
 
 ## 51
 
-> Subheading: Telling the crown prince the king's will, Haricandana saves Gopīnātha's life —
+> Subheading: Telling the crown prince the king’s will, Haricandana saves Gopīnātha’s life —
 
 ## 52
 
-> Subheading: Gopīnātha is asked how he will repay the king's money, and he answers —
+> Subheading: Gopīnātha is asked how he will repay the king’s money, and he answers —
 
 ## 55
 
@@ -190,17 +190,17 @@ We learn from this that every *sādhaka* who has taken exclusive shelter of the 
 
 ## 68–69
 
-> Subheading: To ask Viṣṇu for fruits to gratify one's own material senses, and not out of a desire to please Viṣṇu, is foolishness and mere trade —
+> Subheading: To ask Viṣṇu for fruits to gratify one’s own material senses, and not out of a desire to please Viṣṇu, is foolishness and mere trade —
 
 See Śrīmad-Bhāgavatam 7.10.4.
 
 ## 68
 
-*Vyavahāra* — a livelihood or material enjoyments. Worldly people (*viṣayīs*), each wanting his own worldly object, with minds full of craving for fruits and enjoyment, seek the help of Viṣṇu or of the Vaiṣṇavas. In the book *Saptaśatī*, for people with just such minds devoid of *bhakti*, the fulfillment of various practical desires is described as the fruit of worshiping the Devī. All such selfish endeavors are only the efforts of fools who lack the eye of knowledge. Even when they set out to worship Īśvara purely, worldly people are driven by their own material interest: *dharma*, *artha*, *kāma* and *mokṣa*. They hope for “*mukti*” attained through knowledge of Brahman, for the enjoyments of heaven and the like, and for practical freedom from the dualities (*advandva*), and so they turn away from pure service to Kṛṣṇa and the *kārṣṇas* (His own).
+*Vyavahāra* — a livelihood or material enjoyments. Worldly people (*viṣayīs*), each wanting his own worldly object, with minds full of craving for fruits and enjoyment, seek the help of Viṣṇu or of the Vaiṣṇavas. In the book *Saptaśatī*, for people with just such minds devoid of *bhakti*, the fulfilment of various practical desires is described as the fruit of worshipping the Devī. All such selfish endeavours are only the efforts of fools who lack the eye of knowledge. Even when they set out to worship Īśvara purely, worldly people are driven by their own material interest: *dharma*, *artha*, *kāma* and *mokṣa*. They hope for “*mukti*” attained through knowledge of Brahman, for the enjoyments of heaven and the like, and for practical freedom from the dualities (*advandva*), and so they turn away from pure service to Kṛṣṇa and the *kārṣṇas* (His own).
 
 ## 69
 
-Nowadays mantra-merchants and worldly people who live off the garb of religion have taken up a pretense of preaching the holy name. They must maintain wife and children, fill their own bellies, and procure clothes and ornaments for wife and children. They live in Śrī Vṛndāvana and Navadvīpa, sell books to feed and clothe themselves and maintain their families, recite the *śāstras*, perform as *kathakas* and lecturers, serve the Śrī Vigraha, give initiation, beg alms, cure their relatives' illnesses, take the *bhek* (the renunciant's garb), worship the poor, work for social improvement, and so on. Spreading many kinds of nets of deceit, they cheat foolish people who do not know the truth about *bhakti*, acquire money and the like, and so worship only worldly things. But they cannot understand that the treasure of *prema* for You, which even Brahmā and others find hard to attain, comes only as the fruit of pure service to You, causeless and free from deceit.
+Nowadays mantra-merchants and worldly people who live off the garb of religion have taken up a pretence of preaching the holy name. They must maintain wife and children, fill their own bellies, and procure clothes and ornaments for wife and children. They live in Śrī Vṛndāvana and Navadvīpa, sell books to feed and clothe themselves and maintain their families, recite the *śāstras*, perform as *kathakas* and lecturers, serve the Śrī Vigraha, give initiation, beg alms, cure their relatives’ illnesses, take the *bhek* (the renunciant’s garb), worship the poor, work for social improvement, and so on. Spreading many kinds of nets of deceit, they cheat foolish people who do not know the truth about *bhakti*, acquire money and the like, and so worship only worldly things. But they cannot understand that the treasure of *prema* for You, which even Brahmā and others find hard to attain, comes only as the fruit of pure service to You, causeless and free from deceit.
 
 ## 70
 
@@ -208,7 +208,7 @@ Nowadays mantra-merchants and worldly people who live off the garb of religion h
 
 ## 73
 
-> Subheading: Gopīnātha, Rāmānanda's younger brother, is no trader seeking his own gain —
+> Subheading: Gopīnātha, Rāmānanda’s younger brother, is no trader seeking his own gain —
 
 ## 74
 
@@ -232,7 +232,7 @@ See Madhya 6.261.
 
 ## 79
 
-> Subheading: Only by the Lord's mercy will Gopīnātha be protected in the future as well —
+> Subheading: Only by the Lord’s mercy will Gopīnātha be protected in the future as well —
 
 ## 80
 
@@ -240,7 +240,7 @@ See Madhya 6.261.
 
 ## 81
 
-> Subheading: The king's rule of serving his guru —
+> Subheading: The king’s rule of serving his guru —
 
 ## 84
 
@@ -252,7 +252,7 @@ See Madhya 6.261.
 
 ## 87
 
-> Subheading: The Lord, the embodiment and guardian of *dharma*, sharply rebukes Gopīnātha for misappropriating the king's money; a description of the social, political and economic rules — that is, the rules of earning money honestly (*śukla-vitta*) —
+> Subheading: The Lord, the embodiment and guardian of *dharma*, sharply rebukes Gopīnātha for misappropriating the king’s money; a description of the social, political and economic rules — that is, the rules of earning money honestly (*śukla-vitta*) —
 
 ## 92
 
@@ -268,7 +268,7 @@ See Madhya 6.261.
 
 ## 95
 
-> Subheading: Even a moment's *darśana* of the Lord is supremely desirable —
+> Subheading: Even a moment’s *darśana* of the Lord is supremely desirable —
 
 ## 97
 
@@ -276,19 +276,19 @@ See Madhya 6.261.
 
 ## 98
 
-> Subheading: The king explains that he did not know of Gopīnātha's punishment —
+> Subheading: The king explains that he did not know of Gopīnātha’s punishment —
 
 ## 100
 
-> Subheading: The king asks Miśra to please the Lord and to tell Him of the king's natural affection for the descendants of Bhavānanda —
+> Subheading: The king asks Miśra to please the Lord and to tell Him of the king’s natural affection for the descendants of Bhavānanda —
 
 ## 104
 
-> Subheading: The crown prince shows Gopīnātha favor and gives him leave —
+> Subheading: The crown prince shows Gopīnātha favour and gives him leave —
 
 ## 108
 
-> Subheading: The account of Gopīnātha's punishment leads to a description of the advancement, both worldly and spiritual — that is, of the higher good (*śreyas*) — that the Lord's mercy brings —
+> Subheading: The account of Gopīnātha’s punishment leads to a description of the advancement, both worldly and spiritual — that is, of the higher good (*śreyas*) — that the Lord’s mercy brings —
 
 ## 115
 
@@ -300,29 +300,29 @@ See Madhya 6.261.
 
 ## 117
 
-For the Lord's sake, at Kāśī Miśra's word, the king gave up money due to him that Gopīnātha was to pay. Therefore, in the Lord's view, it came about that He had accepted a gift from the king's funds (*rājārtha-pratigraha*).
+For the Lord’s sake, at Kāśī Miśra’s word, the king gave up money due to him that Gopīnātha was to pay. Therefore, in the Lord’s view, it came about that He had accepted a gift from the king’s funds (*rājārtha-pratigraha*).
 
 ## 122
 
-> Subheading: Earlier, by Pratāparudra's favor, Rāmānanda Rāya had been appointed governor (*bhūmy-adhikārī*) of Rājamahendrī —
+> Subheading: Earlier, by Pratāparudra’s favour, Rāmānanda Rāya had been appointed governor (*bhūmy-adhikārī*) of Rājamahendrī —
 
-The present town of Rājamahendrī stands on the northern bank of the Godāvarī. The capital in Rāmānanda Rāya's time, Vidyānagara, lay on the southern bank of the Godāvarī. Vidyānagara, or Vidyāpura, was where the Godāvarī meets the sea — that is, in Koṭadeśa. That province was then known as Rājamahendrī. The northern part of the land of Kaliṅga is Utkaliṅga, or Utkala. Rājamahendrī was precisely the capital of the southern province of the Utkaliṅga kingdom. In our time the town of Rājamahendrī has moved to another site.
+The present town of Rājamahendrī stands on the northern bank of the Godāvarī. The capital in Rāmānanda Rāya’s time, Vidyānagara, lay on the southern bank of the Godāvarī. Vidyānagara, or Vidyāpura, was where the Godāvarī meets the sea — that is, in Koṭadeśa. That province was then known as Rājamahendrī. The northern part of the land of Kaliṅga is Utkaliṅga, or Utkala. Rājamahendrī was precisely the capital of the southern province of the Utkaliṅga kingdom. In our time the town of Rājamahendrī has moved to another site.
 
 ## 127
 
-> Subheading: The Lord rejoices to hear of the king's humility; Bhavānanda Rāya arrives with his sons and humbly proclaims the glory of the Lord's mercy —
+> Subheading: The Lord rejoices to hear of the king’s humility; Bhavānanda Rāya arrives with his sons and humbly proclaims the glory of the Lord’s mercy —
 
 ## 130
 
-> Subheading: Bhavānanda declares that he and his whole family have sold themselves at the Lord's feet —
+> Subheading: Bhavānanda declares that he and his whole family have sold themselves at the Lord’s feet —
 
 ## 131
 
-> Subheading: The Lord's affection for His devotees, described by comparison with His rescue of the five Pāṇḍavas from danger —
+> Subheading: The Lord’s affection for His devotees, described by comparison with His rescue of the five Pāṇḍavas from danger —
 
 ## 132
 
-> Subheading: Gopīnātha gives thanks for his rescue and sings the Lord's glory —
+> Subheading: Gopīnātha gives thanks for his rescue and sings the Lord’s glory —
 
 ## 137
 
@@ -332,31 +332,31 @@ Remembering Śrī Mahāprabhu can bring every perfection. The three worldly aims
 
 ## 139
 
-> Subheading: Seeing his worldly fortune grow and fearing to lose the good fortune of serving the Lord, Gopīnātha prays at the Lord's feet for genuine mercy (*amāyā-kṛpā*) and for freedom from the urge to enjoy worldly things —
+> Subheading: Seeing his worldly fortune grow and fearing to lose the good fortune of serving the Lord, Gopīnātha prays at the Lord’s feet for genuine mercy (*amāyā-kṛpā*) and for freedom from the urge to enjoy worldly things —
 
 ## 140
 
-> Subheading: The Lord disregards the outward dress of *sannyāsa*; knowing Gopīnātha's qualification (*adhikāra*), He tells him to worship Hari while remaining in the household *āśrama* —
+> Subheading: The Lord disregards the outward dress of *sannyāsa*; knowing Gopīnātha’s qualification (*adhikāra*), He tells him to worship Hari while remaining in the household *āśrama* —
 
 ## 141
 
-> Subheading: The teaching that the perfected servants of Gaura, indifferent to whether they wear a householder's or a *sannyāsī*'s dress, worship Kṛṣṇa in every condition —
+> Subheading: The teaching that the perfected servants of Gaura, indifferent to whether they wear a householder’s or a *sannyāsī*’s dress, worship Kṛṣṇa in every condition —
 
-When the *jīva* has the pure self-conception “I am the Lord's eternal, very own servant,” neither the outward acceptance of *sannyāsa* nor outward service to vast worldly affairs can do him any outward harm. For the *jīva* falls into bondage only when he forgets Kṛṣṇa's happiness and becomes intent on material enjoyment for himself. And when he becomes transcendental, devoted to serving Kṛṣṇa, then even living at home he is in great renunciation (*mahā-sannyāsa*). In that state he is absorbed in Kṛṣṇa at every moment, so even the greatest worldly affairs, which frighten people, cannot trouble him at all: in every condition he remains equally Kṛṣṇa's servant.
+When the *jīva* has the pure self-conception “I am the Lord’s eternal, very own servant,” neither the outward acceptance of *sannyāsa* nor outward service to vast worldly affairs can do him any outward harm. For the *jīva* falls into bondage only when he forgets Kṛṣṇa’s happiness and becomes intent on material enjoyment for himself. And when he becomes transcendental, devoted to serving Kṛṣṇa, then even living at home he is in great renunciation (*mahā-sannyāsa*). In that state he is absorbed in Kṛṣṇa at every moment, so even the greatest worldly affairs, which frighten people, cannot trouble him at all: in every condition he remains equally Kṛṣṇa’s servant.
 
 ## 142
 
-> Subheading: Moral and religious instruction to Gopīnātha: to fulfill his duty to the king and to spend only what has been honestly earned (*śukla-artha*) —
+> Subheading: Moral and religious instruction to Gopīnātha: to fulfil his duty to the king and to spend only what has been honestly earned (*śukla-artha*) —
 
-When the *jīva* forgets his transcendental self-conception as the Lord's servant and becomes an enjoyer of material things, he takes to sins contrary to *dharma* and morality. This is what the Lord forbids.
+When the *jīva* forgets his transcendental self-conception as the Lord’s servant and becomes an enjoyer of material things, he takes to sins contrary to *dharma* and morality. This is what the Lord forbids.
 
 ## 144
 
-When the *jīva* takes to sin, he meets obstacles in attaining both — material welfare and transcendental realization.
+When the *jīva* takes to sin, he meets obstacles in attaining both — material welfare and transcendental realisation.
 
 ## 145
 
-> Subheading: The Lord's abundant mercy (*amandodayā dayā*), which came together with the increase of worldly fortune, is a *kṛpā-vivarta*, a seeming mercy; it shows that the Lord is subject to His devotees —
+> Subheading: The Lord’s abundant mercy (*amandodayā dayā*), which came together with the increase of worldly fortune, is a *kṛpā-vivarta*, a seeming mercy; it shows that the Lord is subject to His devotees —
 
 ## 146
 
@@ -364,20 +364,20 @@ When the *jīva* takes to sin, he meets obstacles in attaining both — material
 
 ## 147
 
-> Subheading: Not understanding the Lord's dealings, everyone is amazed —
+> Subheading: Not understanding the Lord’s dealings, everyone is amazed —
 
 ## 148
 
-> Subheading: A description of the hidden secret of the Lord's conduct in the pastime of Gopīnātha's rescue, and of its meaning: (1) at first He does not agree to rescue Gopīnātha; (2) after Gopīnātha's rescue He rebukes him for acquiring money dishonestly; (3) as the ideal for a renounced *sannyāsī* Vaiṣṇava, He wishes for solitude — that is, to leave bad association, the talk of worldly affairs; (4) Gopīnātha's worldly fortune increases; (5) to Gopīnātha, who fears worldly enjoyment, He teaches that whether one stays at home or leaves home, in every condition one is fit to worship Kṛṣṇa —
+> Subheading: A description of the hidden secret of the Lord’s conduct in the pastime of Gopīnātha’s rescue, and of its meaning: (1) at first He does not agree to rescue Gopīnātha; (2) after Gopīnātha’s rescue He rebukes him for acquiring money dishonestly; (3) as the ideal for a renounced *sannyāsī* Vaiṣṇava, He wishes for solitude — that is, to leave bad association, the talk of worldly affairs; (4) Gopīnātha’s worldly fortune increases; (5) to Gopīnātha, who fears worldly enjoyment, He teaches that whether one stays at home or leaves home, in every condition one is fit to worship Kṛṣṇa —
 
-Gopīnātha is a *jīva*, and if he serves worldly affairs, harm to him is inevitable. Bringing about material welfare must be understood as the Lord's secondary mercy. If Śrī Gaurasundara Himself, in the dress of a renounced devotee, set out to help a worldly man, then people would imitate such conduct of His, and the ideal of the renounced Vaiṣṇava would be belittled and despised. Therefore a *bhāgavata* who is free from worldly dependence (*nirapekṣa*) and wears the dress of a renunciant should never take up the affairs of worldly people.
+Gopīnātha is a *jīva*, and if he serves worldly affairs, harm to him is inevitable. Bringing about material welfare must be understood as the Lord’s secondary mercy. If Śrī Gaurasundara Himself, in the dress of a renounced devotee, set out to help a worldly man, then people would imitate such conduct of His, and the ideal of the renounced Vaiṣṇava would be belittled and despised. Therefore a *bhāgavata* who is free from worldly dependence (*nirapekṣa*) and wears the dress of a renunciant should never take up the affairs of worldly people.
 
 ## 151
 
-> Subheading: Only one attracted by Caitanya, who does not waver before desire and enjoyment, is able to realize the inner meaning of Caitanya's deeds —
+> Subheading: Only one attracted by Caitanya, who does not waver before desire and enjoyment, is able to realise the inner meaning of Caitanya’s deeds —
 
 ## 152
 
-> Subheading: One who hears of the Lord's affection for His devotees is freed from *anarthas*, and love for the Lord awakens in him —
+> Subheading: One who hears of the Lord’s affection for His devotees is freed from *anarthas*, and love for the Lord awakens in him —
 
 *Thus ends the ninth chapter of the “Anubhāṣya.”*

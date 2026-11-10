@@ -2,9 +2,9 @@
 
 ## 1
 
-> Subheading: Only a devotee in whom *prema* has awakened is qualified to follow the Lord's mood of separation (*vipralambha*) —
+> Subheading: Only a devotee in whom *prema* has awakened is qualified to follow the Lord’s mood of separation (*vipralambha*) —
 
-**bhāgyavadbhiḥ** (only by great souls who have gained the wealth of *prema*) **gauracandrasya** **premodbhāvita-harṣerṣyodvega-dainyārti-miśritam** (mixed with the feelings evoked, that is, born, of *prema*: elation of heart, intolerance, restlessness, the sense of one's own smallness, anguish, and so on) **lapitam** (incoherent words) **niṣevyate** (are relished).
+**bhāgyavadbhiḥ** (only by great souls who have gained the wealth of *prema*) **gauracandrasya** **premodbhāvita-harṣerṣyodvega-dainyārti-miśritam** (mixed with the feelings evoked, that is, born, of *prema*: elation of heart, intolerance, restlessness, the sense of one’s own smallness, anguish, and so on) **lapitam** (incoherent words) **niṣevyate** (are relished).
 
 ## 3
 
@@ -12,7 +12,7 @@
 
 ## 4
 
-> Subheading: The Lord's two dearest, most intimate eternal companions —
+> Subheading: The Lord’s two dearest, most intimate eternal companions —
 
 ## 5
 
@@ -24,7 +24,7 @@
 
 ## 8
 
-> Subheading: The Lord explains that the goal and the means (*sādhya* and *sādhana*, or *upeya* and *upāya*) are not different; the glory of *kīrtana* of the holy name — the highest and most excellent, ultimate *abhidheya*, the *avatāra* in sound (*śābdika-avatāra*) —
+> Subheading: The Lord explains that the goal and the means (*sādhya* and *sādhana*, or *upeya* and *upāya*) are not different; the glory of *kīrtana* of the holy name — the highest and most excellent, ultimate *abhidheya*, the avatāra in sound (*śābdika-avatāra*) —
 
 ## 9
 
@@ -40,11 +40,11 @@ See Ādi 3.51.
 
 ## 11
 
-> Subheading: The fruit of *nāmābhāsa* free from offense: the destruction of all *anarthas*; then the fruit of the pure name: the highest good (*niḥśreyasa*) and the awakening of love for Kṛṣṇa —
+> Subheading: The fruit of *nāmābhāsa* free from offence: the destruction of all *anarthas*; then the fruit of the pure name: the highest good (*niḥśreyasa*) and the awakening of love for Kṛṣṇa —
 
 ## 12
 
-> Subheading: The *Śrī Śikṣāṣṭaka*, which came from the Lord's holy mouth (in other words, the essence of the *Śrī Bhāgavatam*); the fruits of *nāmābhāsa* and of the name —
+> Subheading: The *Śrī Śikṣāṣṭaka*, which came from the Lord’s holy mouth (in other words, the essence of the *Śrī Bhāgavatam*); the fruits of *nāmābhāsa* and of the name —
 
 > (The first verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 10)
 
@@ -60,7 +60,7 @@ See Ādi 3.51.
 
 ## 16
 
-> Subheading: Why the *sādhana* of the name is so easy to obtain, that is, Kṛṣṇa's great magnanimity; why the *jīva*, in a state of offense — his misfortune — cannot utter the pure name —
+> Subheading: Why the *sādhana* of the name is so easy to obtain, that is, Kṛṣṇa’s great magnanimity; why the *jīva*, in a state of offence — his misfortune — cannot utter the pure name —
 
 > (The second verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 19)
 
@@ -76,7 +76,7 @@ See Ādi 3.51.
 
 ## 21
 
-> Subheading: The method of *sādhana* of the name for attaining the goal, *prema* for the name; in other words, the prohibition of identifying oneself with the body (the root of all offenses) and the injunction [to chant] without interruption —
+> Subheading: The method of *sādhana* of the name for attaining the goal, *prema* for the name; in other words, the prohibition of identifying oneself with the body (the root of all offences) and the injunction [to chant] without interruption —
 
 > (The third verse of the *Śikṣāṣṭaka*, cited in the *Padyāvalī* as number 20)
 
@@ -140,7 +140,7 @@ Those who are poor in the wealth of *prema*, out of hypocrisy and without having
 
 (O Lord,) **tava** **nāma-grahaṇe** (at the time of worshipping through the name) **mama** **galad-aśru-dhārayā** (with a flowing stream of tears) **nayanam**, **gadgada-ruddhayā** (choked by a trembling voice) **girā** (with speech) **vadanam**, **pulakaiḥ** (with horripilation) **nicitam** (covered) **vapuḥ** **kadā** **bhaviṣyati**?
 
-Compare the verses cited in the *Bhakti-sandarbha* (section 69), such as this one: “Even what is heard from the Upaniṣads is far from the nectar of Hari's narrations, for in it there is no melting of the heart, no trembling, no tears, no horripilation, nothing of the kind.”
+Compare the verses cited in the *Bhakti-sandarbha* (section 69), such as this one: “Even what is heard from the Upaniṣads is far from the nectar of Hari’s narrations, for in it there is no melting of the heart, no trembling, no tears, no horripilation, nothing of the kind.”
 
 ## 37
 
@@ -162,7 +162,7 @@ Compare the verses cited in the *Bhakti-sandarbha* (section 69), such as this on
 
 ## 44
 
-> Subheading: The Lord, absorbed in the mood of Śrī Rādhā, the crown jewel of those wholly in Kṛṣṇa's power —
+> Subheading: The Lord, absorbed in the mood of Śrī Rādhā, the crown jewel of those wholly in Kṛṣṇa’s power —
 
 ## 47
 
@@ -178,21 +178,21 @@ Compare the verses cited in the *Bhakti-sandarbha* (section 69), such as this on
 
 ## 50
 
-> Subheading: The varied sweetness of *sneha* — the *sneha* of “mine” (*madīyatva*) and the *sneha* of “His” (*tadīyatva*), that is, *sneha* like honey and *sneha* like ghee; and with it: even in the hour of My happiness I, longing to please Kṛṣṇa's senses, am wholly in His power —
+> Subheading: The varied sweetness of *sneha* — the *sneha* of “mine” (*madīyatva*) and the *sneha* of “His” (*tadīyatva*), that is, *sneha* like honey and *sneha* like ghee; and with it: even in the hour of My happiness I, longing to please Kṛṣṇa’s senses, am wholly in His power —
 
 ## 51
 
-> Subheading: Even in the hour of My suffering — in separation from Him — I, longing to please Kṛṣṇa's senses, am wholly in His power —
+> Subheading: Even in the hour of My suffering — in separation from Him — I, longing to please Kṛṣṇa’s senses, am wholly in His power —
 
 ## 52
 
-> Subheading: The exclusive desire to please Kṛṣṇa's senses: “Whatever suffering comes in Your service is itself the highest happiness” —
+> Subheading: The exclusive desire to please Kṛṣṇa’s senses: “Whatever suffering comes in Your service is itself the highest happiness” —
 
-A devotee takes no account of his own happiness and distress: all his endeavors aim only at Kṛṣṇa's happiness. Apart from Kṛṣṇa's happiness, the devotee has no separate happiness of his own at all. If Kṛṣṇa becomes very happy by giving the devotee pain, the devotee considers that pain his own highest happiness. In the community of *prākṛta-sahajiyās*, who do not know *tattva* and fancy themselves *rasikas* in a worldly way, some take their own craving for happiness as the fruit to be desired. Others think, “On the pretext of serving Kṛṣṇa I myself will enjoy a happiness greater than material happiness,” and so on; as the “fruit” of their efforts in *bhajana* they take *karma-kāṇḍa*, whose whole aim is enjoyment of various kinds. In fact such efforts and fancies of theirs are only the fruit of ignorance about pure *bhajana*, an ignorance rooted in hypocrisy.
+A devotee takes no account of his own happiness and distress: all his endeavours aim only at Kṛṣṇa’s happiness. Apart from Kṛṣṇa’s happiness, the devotee has no separate happiness of his own at all. If Kṛṣṇa becomes very happy by giving the devotee pain, the devotee considers that pain his own highest happiness. In the community of *prākṛta-sahajiyās*, who do not know *tattva* and fancy themselves *rasikas* in a worldly way, some take their own craving for happiness as the fruit to be desired. Others think, “On the pretext of serving Kṛṣṇa I myself will enjoy a happiness greater than material happiness,” and so on; as the “fruit” of their efforts in *bhajana* they take *karma-kāṇḍa*, whose whole aim is enjoyment of various kinds. In fact such efforts and fancies of theirs are only the fruit of ignorance about pure *bhajana*, an ignorance rooted in hypocrisy.
 
 ## 53
 
-> Subheading: The ceaseless endeavor to please Kṛṣṇa's senses, that is, to increase His happiness —
+> Subheading: The ceaseless endeavour to please Kṛṣṇa’s senses, that is, to increase His happiness —
 
 ## 55
 
@@ -206,9 +206,9 @@ A devotee who thinks himself fulfilled in his own happiness is utterly ruined: h
 
 ## 57
 
-> Subheading: The *dharma* of a faithful wife (*pātivratya*), as shown by the wife of a leper brahmin —
+> Subheading: The *dharma* of a faithful wife (*pātivratya*), as shown by the wife of a leper brāhmaṇa —
 
-The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29), and the *Padma Purāṇa* tell of the wife of a certain brahmin afflicted with leprosy. She was the ornament of faithful wives (*pativratās*). To fulfill the desire of her unworthy husband, a leper, she cleaned the house of a prostitute — an abode of sin — and tried to bring her feeble, lustful husband together with the prostitute. When the prostitute agreed, the faithful brahmin wife, as her husband wished, took her leper husband to the prostitute's house. That leprous sinner, a brahmin in name only (*vipra-bandhu*), seeing the faithful wife's devotion, at last turned back from sin. As he was returning home at night, his foot touched the body of the sage Māṇḍavya, and the sage cursed him. The faithful brahmin wife heard that the *ṛṣi*, angry because her husband had unknowingly broken his *samādhi*, had cursed him: “Right after sunrise he will lose his life.” Because of this, despite her faithfulness, widowhood was inevitable for her. Then, to prevent it, she vowed to keep the sun from rising. Seeing her efforts, the three chief deities — Brahmā, Viṣṇu, and Śiva — came to her. Pleased with the faithful wife's devotion to her husband, they arranged for her husband to be cured and to receive a new life. The point is this: only such faithfulness, free of all self-interest (only the desire for the happiness of service), befits pure devotees.
+The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29), and the *Padma Purāṇa* tell of the wife of a certain brāhmaṇa afflicted with leprosy. She was the ornament of faithful wives (*pativratās*). To fulfil the desire of her unworthy husband, a leper, she cleaned the house of a prostitute — an abode of sin — and tried to bring her feeble, lustful husband together with the prostitute. When the prostitute agreed, the faithful brāhmaṇa wife, as her husband wished, took her leper husband to the prostitute’s house. That leprous sinner, a brāhmaṇa in name only (*vipra-bandhu*), seeing the faithful wife’s devotion, at last turned back from sin. As he was returning home at night, his foot touched the body of the sage Māṇḍavya, and the sage cursed him. The faithful brāhmaṇa wife heard that the *ṛṣi*, angry because her husband had unknowingly broken his *samādhi*, had cursed him: “Right after sunrise he will lose his life.” Because of this, despite her faithfulness, widowhood was inevitable for her. Then, to prevent it, she vowed to keep the sun from rising. Seeing her efforts, the three chief deities — Brahmā, Viṣṇu, and Śiva — came to her. Pleased with the faithful wife’s devotion to her husband, they arranged for her husband to be cured and to receive a new life. The point is this: only such faithfulness, free of all self-interest (only the desire for the happiness of service), befits pure devotees.
 
 ## 58
 
@@ -228,7 +228,7 @@ The *Āditya Purāṇa*, the *Mārkaṇḍeya Purāṇa* (15.29), and the *Padma
 
 ## 62
 
-> Subheading: In the desire to please Kṛṣṇa's senses there is no desire to please one's own senses; through the *Śikṣāṣṭaka* the supremely magnanimous Gaura — the *avatāra* who came to relish worship of Himself and to distribute it (*sva-bhajana-vibhajana-prayojana-avatāra*) — distributes to the *jīvas* the distilled essence of the fruit of *Śrīmad-Bhāgavatam*: *sambandha*, *abhidheya*, and *prayojana* —
+> Subheading: In the desire to please Kṛṣṇa’s senses there is no desire to please one’s own senses; through the *Śikṣāṣṭaka* the supremely magnanimous Gaura — the avatāra who came to relish worship of Himself and to distribute it (*sva-bhajana-vibhajana-prayojana-avatāra*) — distributes to the *jīvas* the distilled essence of the fruit of *Śrīmad-Bhāgavatam*: *sambandha*, *abhidheya*, and *prayojana* —
 
 A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another variant: *se prema* (that love).
 
@@ -264,7 +264,7 @@ A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another
 
 ## 72
 
-> Subheading: Fearing to swell the book, the author stops describing the Lord's actions of love —
+> Subheading: Fearing to swell the book, the author stops describing the Lord’s actions of love —
 
 ## 73
 
@@ -276,11 +276,11 @@ A variant reading: *vrajera viśuddha prema* (the purest love of Vraja); another
 
 ## 78
 
-> Subheading: The author, who honors others (*mānada*), bows to the listeners —
+> Subheading: The author, who honours others (*mānada*), bows to the listeners —
 
 ## 79
 
-> Subheading: The ocean of Gaura's pastimes is not of this world and lies beyond the senses (*adhokṣaja*); conditioned souls cannot touch it. Regarding himself as a *jīva*, the author in deep humility merely tries to touch a drop of it —
+> Subheading: The ocean of Gaura’s pastimes is not of this world and lies beyond the senses (*adhokṣaja*); conditioned souls cannot touch it. Regarding himself as a *jīva*, the author in deep humility merely tries to touch a drop of it —
 
 See *Śrīmad-Bhāgavatam* 1.18.23.
 
@@ -288,7 +288,7 @@ See *Śrīmad-Bhāgavatam* 1.18.23.
 
 > Subheading: The glory of Ṭhākura Vṛndāvana, and the pastimes of Gaura —
 
-Some say this: the later pure ācāryas who wrote of Gaura's pastimes also follow the “original Vyāsa” (*ādi-vyāsa*), Śrīla Vṛndāvana dāsa Ṭhākura; as parts, or manifestations, nondifferent from him, they too are denoted by the word “Vyāsa.”
+Some say this: the later pure ācāryas who wrote of Gaura’s pastimes also follow the “original Vyāsa” (*ādi-vyāsa*), Śrīla Vṛndāvana dāsa Ṭhākura; as parts, or manifestations, nondifferent from him, they too are denoted by the word “Vyāsa.”
 
 ## 85
 
@@ -296,11 +296,11 @@ Some say this: the later pure ācāryas who wrote of Gaura's pastimes also follo
 
 ## 87
 
-A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyāsa will describe”). Following it, many statements of the *Caitanya-bhāgavata* — for example, in its first chapter: “In the Śeṣa-khaṇḍa are Caitanya's endless pastimes; Vedavyāsa is yet to describe them in detail” — were written about the later pure Vaiṣṇava ācāryas who described Gaura's pastimes, headed by Śrīla Kavirāja Gosvāmī. Some explain it this way as well.
+A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyāsa will describe”). Following it, many statements of the *Caitanya-bhāgavata* — for example, in its first chapter: “In the Śeṣa-khaṇḍa are Caitanya’s endless pastimes; Vedavyāsa is yet to describe them in detail” — were written about the later pure Vaiṣṇava ācāryas who described Gaura’s pastimes, headed by Śrīla Kavirāja Gosvāmī. Some explain it this way as well.
 
 ## 88
 
-> Subheading: The author, free of pride (*amānī*) and honoring others (*mānada*), regards himself as one who eats the remnants of Ṭhākura Vṛndāvana —
+> Subheading: The author, free of pride (*amānī*) and honouring others (*mānada*), regards himself as one who eats the remnants of Ṭhākura Vṛndāvana —
 
 ## 90
 
@@ -308,7 +308,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 92
 
-> Subheading: Unlike mundane poets and men of letters, the author — the emperor of transcendental poets — is not bewildered by false ego: he depends wholly on Kṛṣṇa and is guided by Caitanya's will —
+> Subheading: Unlike mundane poets and men of letters, the author — the emperor of transcendental poets — is not bewildered by false ego: he depends wholly on Kṛṣṇa and is guided by Caitanya’s will —
 
 ## 93
 
@@ -320,7 +320,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 97
 
-Śrī Raghunātha dāsa is *śrī-guru*: the guru who taught the author, Śrī Kavirāja Gosvāmī Prabhu, how to worship (*bhajana*) is Śrī Raghunātha dāsa Gosvāmī Prabhu, the best of the followers of Śrī Rūpa. (See verse 145 below, and in Ādi 1, at the very beginning of the *Anubhāṣya*, the line of Śrī Rūpa's followers, the succession of gurus.)[^97-1]
+Śrī Raghunātha dāsa is *śrī-guru*: the guru who taught the author, Śrī Kavirāja Gosvāmī Prabhu, how to worship (*bhajana*) is Śrī Raghunātha dāsa Gosvāmī Prabhu, the best of the followers of Śrī Rūpa. (See verse 145 below, and in Ādi 1, at the very beginning of the *Anubhāṣya*, the line of Śrī Rūpa’s followers, the succession of gurus.)[^97-1]
 
 ## 98
 
@@ -332,7 +332,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 102
 
-> Subheading: Following Vyāsa's way in the *Bhāgavatam*, the author recapitulates the Antya-līlā by briefly listing its chapters —
+> Subheading: Following Vyāsa’s way in the *Bhāgavatam*, the author recapitulates the Antya-līlā by briefly listing its chapters —
 
 ## 140
 
@@ -344,7 +344,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 142
 
-> Subheading: The author's own worshipable Deities — the Lords of the Gauḍīyas, the presiding Deities of *sambandha*, *abhidheya* and *prayojana* — Śrī Rādhā-Madana-mohana, Govinda and Gopīnātha —
+> Subheading: The author’s own worshipable Deities — the Lords of the Gauḍīyas, the presiding Deities of *sambandha*, *abhidheya* and *prayojana* — Śrī Rādhā-Madana-mohana, Govinda and Gopīnātha —
 
 ## 144
 
@@ -352,7 +352,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 145
 
-> Subheading: The author, who follows the path of *rāga*, bows to the gurus, embodiments of Gaura's potency —
+> Subheading: The author, who follows the path of *rāga*, bows to the gurus, embodiments of Gaura’s potency —
 
 ## 146
 
@@ -360,7 +360,7 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 147
 
-> Subheading: Only by following Nityānanda's mercy, which is full of Caitanya (consciousness), can the tongue — that is, speech — glorify Caitanya's pastimes —
+> Subheading: Only by following Nityānanda’s mercy, which is full of Caitanya (consciousness), can the tongue — that is, speech — glorify Caitanya’s pastimes —
 
 **upādhyāyī** — “the one to whom people come and from whom they learn”; “He who for his livelihood teaches a part of the Veda, or else the Vedāṅgas, is called an *upādhyāya*.” (*Manu-saṁhitā*)[^147-1] That is, a teacher of the arts (*kalā-vidyā*). A variant reading: “*mora vāṇī — śiṣyā*” (my speech is the pupil).
 
@@ -370,19 +370,19 @@ A variant reading: “*āge vyāsa karibena varṇane*” (“in the future Vyā
 
 ## 154
 
-> Subheading: The author's words of humility —
+> Subheading: The author’s words of humility —
 
 **yaḥ** **śraddhayā** **śrīla-caitanya-viṣṇoḥ** **etat** **aśubha-nāśi** **śubha-dam** **caritam** **āsvādayet**, **saḥ ayam** **tad-amala-pada-padme** **bhṛṅgatām** **etya** (attaining) **prema-mādhvīka-pūram** (full of the intoxicating drink of *prema*) **rasam** **uccaiḥ** (in the highest degree) **rasayati** (relishes).
 
 ## 155
 
-> Subheading: For Kṛṣṇa's pleasure the author offers the nectar of this book to Śrī Caitanya —
+> Subheading: For Kṛṣṇa’s pleasure the author offers the nectar of this book to Śrī Caitanya —
 
 **śrīman-madana-gopāla-govinda-deva-tuṣṭaye** **etat** **caitanya-caritāmṛtam** **grantham** **caitanyārpitam** (offered to Śrī Caitanya) **astu**.
 
 ## 156
 
-> Subheading: Kṛṣṇa's lotus feet alone are the transcendental, unlimited reservoir of *rasa* —
+> Subheading: Kṛṣṇa’s lotus feet alone are the transcendental, unlimited reservoir of *rasa* —
 
 **kaḥ** **rasikaḥ** **parimala-vāsita-bhuvanam** (by whose fragrance the world is perfumed) **sva-rasonmādita-rasajña-rolambam** (where the bees are the *rasika* devotees, maddened by the *rasa* of *śṛṅgāra*) **giridhara-caraṇāmbhojam** **hātum** (to give up) **samīhate** (tries)?
 
@@ -403,7 +403,7 @@ on the thirty-first day of Jyaiṣṭha, in the month of Trivikrama,[^158-1]
 living at Śrī Vraja-pattana and calling out, “Gaurahari!” —
 I, Dayita-dāsiyā,[^158-2] the lowest of men, (1)
 
-in Navadvīpa, at Māyāpura, not far from the Lord's house,
+in Navadvīpa, at Māyāpura, not far from the Lord’s house,
 have completed the “Anubhāṣya” —
 the servant of Śrī Gaurakiśora dāsa, who now lives at Kuliyā,
 this unworthy one. (2)
@@ -418,12 +418,12 @@ have no equal in the three worlds.
 No one else, having taken this human body,
 gave away the treasure of love for Kṛṣṇa as he did. (4)
 
-Having received that master's power, I now sing the “Anubhāṣya”;
+Having received that master’s power, I now sing the “Anubhāṣya”;
 nothing in it is mine.
 As long as life lasts, I shall remember him in this world;
 eternally I long for those feet. (5)
 
-Gadādhara's dearest friend and Śrī Svarūpa Dāmodara[^158-3]
+Gadādhara’s dearest friend and Śrī Svarūpa Dāmodara[^158-3]
 always worship Gaura-Kṛṣṇa.
 Seeing the suffering of the world, they took the dress of beggars
 and day and night serve the name of Kṛṣṇa. (6)
@@ -448,6 +448,6 @@ and attain love for the Divine Couple. (8)
 
 [^158-1]: The 429th year of the Caitanya era (Gaurābda) is 1915 CE. Trivikrama is the Vaiṣṇava name of a month (May–June).
 
-[^158-2]: Dayita-dāsiyā is a homely diminutive of the name Dayita dāsa (“servant of the Beloved”), Bhaktisiddhānta's own signature (compare the opening of the *Anubhāṣya* on Ādi 1: “the servant of the Beloved of Śrī Vārṣabhānavī”).
+[^158-2]: Dayita-dāsiyā is a homely diminutive of the name Dayita dāsa (“servant of the Beloved”), Bhaktisiddhānta’s own signature (compare the opening of the *Anubhāṣya* on Ādi 1: “the servant of the Beloved of Śrī Vārṣabhānavī”).
 
 [^158-3]: *Gadādhara-mitra-vara* — literally “Gadādhara’s best friend”; the reading “Gadādhara, the best of friends” is also possible. The comma between the names and “these two” in the next stanza point to two persons.

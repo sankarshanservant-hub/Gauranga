@@ -2,11 +2,11 @@
 
 ## 0
 
-**Summary.** After His morning bath the Lord watched the Pāṇḍu-vijaya of Jagannātha, Baladeva and Subhadrā, as They were brought out and raised onto Their chariots. At that time the king was sweeping the road with a golden broom. Taking Lakṣmī's permission, Jagannātha set out for the Guṇḍicā-bāḍī. The road was broad and sandy, with houses and gardens on both sides, and along the middle of it the Gauḍas began to pull the chariot. Mahāprabhu divided His own people into seven groups (*sampradāyas*) and began *kīrtana* with fourteen *mṛdaṅgas* (*mādalas*). During the *kīrtana* many kinds of *bhāva* arose in Mahāprabhu; it even seemed that Jagannātha and Mahāprabhu were exchanging their feelings with each other. When the chariot reached Balagaṇḍi, an offering of *bhoga* from the common people began to be made there. In a grove near a garden Mahāprabhu rested a little from the fatigue of dancing.
+**Summary.** After His morning bath the Lord watched the Pāṇḍu-vijaya of Jagannātha, Baladeva and Subhadrā, as They were brought out and raised onto Their chariots. At that time the king was sweeping the road with a golden broom. Taking Lakṣmī’s permission, Jagannātha set out for the Guṇḍicā-bāḍī. The road was broad and sandy, with houses and gardens on both sides, and along the middle of it the Gauḍas began to pull the chariot. Mahāprabhu divided His own people into seven groups (*sampradāyas*) and began *kīrtana* with fourteen *mṛdaṅgas* (*mādalas*). During the *kīrtana* many kinds of *bhāva* arose in Mahāprabhu; it even seemed that Jagannātha and Mahāprabhu were exchanging their feelings with each other. When the chariot reached Balagaṇḍi, an offering of *bhoga* from the common people began to be made there. In a grove near a garden Mahāprabhu rested a little from the fatigue of dancing.
 
 ## 1
 
-All glory to Kṛṣṇa Caitanya, who danced before Jagannātha's chariot! Seeing that dance of His, the whole world and Jagannātha Himself were struck with wonder.
+All glory to Kṛṣṇa Caitanya, who danced before Jagannātha’s chariot! Seeing that dance of His, the whole world and Jagannātha Himself were struck with wonder.
 
 ## 5
 
@@ -14,7 +14,7 @@ The servants tie Jagannātha, Baladeva and Subhadrā — these three Śrī-mūrt
 
 ## 8
 
-*Dayitās*: the word *dayitā* comes from *dayita* (beloved). There is a class of servants called *dayitās*. By birth they do not belong to the respectable (*bhadra*) castes, but having obtained the service of Jagannātha, they have gained the respect given to the higher castes. From the day of the Snāna-yātrā until the return from the chariot, the *dayitās* hold special rights in the service of Śrī Jagannātha. In the *Kṣetra-māhātmya* the *dayitās* are called Śabaras. Those among them who are *brāhmaṇas* are called *dayitā-patis*. During the *anavasara* they offer Jagannātha sweet *bhoga*, and every morning they offer the sweets of the *bāla-bhoga*. During the *anavasara* too, saying, “Jagannātha has a fever,” they offer Him medicines and *pā̃cana* (a drink of sweet juice). The essence is this: before Śrī Jagannātha was installed, the Deity of Śrī Nīla-mādhava dwelt among the Śabaras, and that Nīla-mādhava later became “Jagannātha.” That is why the Śabara *dayitās* have gained the right to Jagannātha's intimate service.
+*Dayitās*: the word *dayitā* comes from *dayita* (beloved). There is a class of servants called *dayitās*. By birth they do not belong to the respectable (*bhadra*) castes, but having obtained the service of Jagannātha, they have gained the respect given to the higher castes. From the day of the Snāna-yātrā until the return from the chariot, the *dayitās* hold special rights in the service of Śrī Jagannātha. In the *Kṣetra-māhātmya* the *dayitās* are called Śabaras. Those among them who are *brāhmaṇas* are called *dayitā-patis*. During the *anavasara* they offer Jagannātha sweet *bhoga*, and every morning they offer the sweets of the *bāla-bhoga*. During the *anavasara* too, saying, “Jagannātha has a fever,” they offer Him medicines and *pā̃cana* (a drink of sweet juice). The essence is this: before Śrī Jagannātha was installed, the Deity of Śrī Nīla-mādhava dwelt among the Śabaras, and that Nīla-mādhava later became “Jagannātha.” That is why the Śabara *dayitās* have gained the right to Jagannātha’s intimate service.
 
 ## 11
 
@@ -22,11 +22,11 @@ The servants tie Jagannātha, Baladeva and Subhadrā — these three Śrī-mūrt
 
 ## 14
 
-*Maṇimā*: the people of Utkala address those worthy of honor, and the king, as “*maṇimā*.”
+*Maṇimā*: the people of Utkala address those worthy of honour, and the king, as “*maṇimā*.”
 
 ## 23
 
-The fortnight that Śrī Jagannātha spends in seclusion after His bath is called the *anavasara*, the time of seclusion. After that, taking Lakṣmī's permission, He goes out on the chariot.
+The fortnight that Śrī Jagannātha spends in seclusion after His bath is called the *anavasara*, the time of seclusion. After that, taking Lakṣmī’s permission, He goes out on the chariot.
 
 ## 27
 
@@ -54,7 +54,7 @@ All glory to this God, the son of Devakī! All glory to Kṛṣṇa, the lamp of
 
 ## 79
 
-All glory to Kṛṣṇacandra — the abode of people, renowned as born from Devakī's womb (*devakī-janma-vāda*), the head of the assembly of the Yadus. With His own arms He destroys *adharma*, He takes away the sins of moving and nonmoving beings, and with His sweetly smiling face He increases the loving desire (*kāma*) of the women of Vraja-pura.
+All glory to Kṛṣṇacandra — the abode of people, renowned as born from Devakī’s womb (*devakī-janma-vāda*), the head of the assembly of the Yadus. With His own arms He destroys *adharma*, He takes away the sins of moving and nonmoving beings, and with His sweetly smiling face He increases the loving desire (*kāma*) of the women of Vraja-pura.
 
 ## 80
 
@@ -86,7 +86,7 @@ O Kṛṣṇa, when You were in Mathurā, You sent instruction in “*jñāna-yo
 
 ## 152
 
-That a beloved woman deprived of her beloved's company, and a beloved man deprived of his beloved's company, cannot live — this is true proof. Yet (each of the two thinking this) they stay alive only because “if my beloved hears that I have died, my beloved will die too.”
+That a beloved woman deprived of her beloved’s company, and a beloved man deprived of his beloved’s company, cannot live — this is true proof. Yet (each of the two thinking this) they stay alive only because “if my beloved hears that I have died, my beloved will die too.”
 
 ## 154
 
@@ -94,7 +94,7 @@ You are My eternal beloved. Knowing that You will not survive separation from Me
 
 ## 164
 
-When Svarūpa Dāmodara sings of these *bhāvas*, the Lord's own senses — His eyes, ears and the rest — enter Svarūpa's senses and taste the song. In other words, a oneness of heart and a perfect attunement arise in both to the full.
+When Svarūpa Dāmodara sings of these *bhāvas*, the Lord’s own senses — His eyes, ears and the rest — enter Svarūpa’s senses and taste the song. In other words, a oneness of heart and a perfect attunement arise in both to the full.
 
 ## 170
 

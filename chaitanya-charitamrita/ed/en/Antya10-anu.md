@@ -22,11 +22,11 @@
 
 ## 6
 
-> Subheading: A consideration of Nityānanda's transgressing Gaura's order; the sign of *anurāga* —
+> Subheading: A consideration of Nityānanda’s transgressing Gaura’s order; the sign of *anurāga* —
 
 ## 7
 
-> Subheading: An example: the *gopīs'* service to Kṛṣṇa in the *rāsa* dance —
+> Subheading: An example: the *gopīs’* service to Kṛṣṇa in the *rāsa* dance —
 
 See Śrīmad-Bhāgavatam 10.29.18–27.
 
@@ -50,11 +50,11 @@ See Śrīmad-Bhāgavatam 10.29.18–27.
 
 ## 13–39
 
-This shows the author's skill in preparing a variety of offerings (*naivedya*) to Kṛṣṇa. See Madhya 14.26–34, Madhya 15.68–91 and 15.207–218.
+This shows the author’s skill in preparing a variety of offerings (*naivedya*) to Kṛṣṇa. See Madhya 14.26–34, Madhya 15.68–91 and 15.207–218.
 
 ## 14
 
-> Subheading: A description of Rāghava's *jhālis* —
+> Subheading: A description of Rāghava’s *jhālis* —
 
 ## 16
 
@@ -64,17 +64,17 @@ This shows the author's skill in preparing a variety of offerings (*naivedya*) t
 
 > Subheading: The transcendental Bhagavān accepts the feeling —
 
-*Bhāva* (feeling) is a transcendental, causeless disposition of the heart, made of pure goodness (*śuddha-sattva*) and devoted to pleasing Kṛṣṇa's senses. It is not the contemptible mental state of the *prākṛta-sahajiyās*, which seeks its own pleasure.
+*Bhāva* (feeling) is a transcendental, causeless disposition of the heart, made of pure goodness (*śuddha-sattva*) and devoted to pleasing Kṛṣṇa’s senses. It is not the contemptible mental state of the *prākṛta-sahajiyās*, which seeks its own pleasure.
 
 ## 19
 
-> Subheading: Evidence of Damayantī's pure, spontaneous (*svārasikī*) and exceedingly deep love for Gaura —
+> Subheading: Evidence of Damayantī’s pure, spontaneous (*svārasikī*) and exceedingly deep love for Gaura —
 
 *Manuṣya-buddhi* (regarding Him as a human being) is the awareness of the residents of Gauḍa and Vraja. Their hearts are made of pure goodness and know nothing of His majesty (*aiśvarya*), and they know Gaura-Kṛṣṇa in His human form as controlled solely by their own pure, unmixed love. *Āma* — acid-bile disease (*amla-pitta*) caused by indigestion from a weakened digestive fire.
 
 ## 21
 
-> Subheading: Only what is offered with love is endowed with great virtue; in a gift of love one does not weigh outward faults and merits — (Bhāravi's *Kirātārjunīya*, canto 8, verse 20)
+> Subheading: Only what is offered with love is endowed with great virtue; in a gift of love one does not weigh outward faults and merits — (Bhāravi’s *Kirātārjunīya*, canto 8, verse 20)
 
 **kācit** (a beloved) **priyeṇa** (by the one she loves, her lover) **saṅgrathya** (strung by himself) **vipakṣa-sannidhau** (near her rivals) **pīvara-stane** (full-bosomed) **vakṣasi** (on the breast) **upāhitām** (placed, set) **jalāvilāṁ** (though soiled with mud and the like) **srajaṁ** (the garland) **na vijahau** (did not cast off); **hi** (for) **guṇāḥ** **premṇi** **vasanti**, **na vastuni** (the sense: only a thing offered with love has virtue; any other, even if it has good qualities, is without virtue and full of faults; love, however, does not need to test the thing).
 
@@ -92,7 +92,7 @@ This shows the author's skill in preparing a variety of offerings (*naivedya*) t
 
 ## 33
 
-> Subheading: The author's humility, though he himself is supremely skilled in making delicious foods —
+> Subheading: The author’s humility, though he himself is supremely skilled in making delicious foods —
 
 ## 34
 
@@ -112,7 +112,7 @@ This shows the author's skill in preparing a variety of offerings (*naivedya*) t
 
 ## 39
 
-> Subheading: Hence the name “Rāghava's *jhālis*” —
+> Subheading: Hence the name “Rāghava’s *jhālis*” —
 
 ## 40
 
@@ -122,11 +122,11 @@ This shows the author's skill in preparing a variety of offerings (*naivedya*) t
 
 ## 41
 
-> Subheading: On the day the devotees of Gauḍa arrived in Purī, the festival of Śrī Govindadeva's water pastimes takes place on Lake Narendra —
+> Subheading: On the day the devotees of Gauḍa arrived in Purī, the festival of Śrī Govindadeva’s water pastimes takes place on Lake Narendra —
 
 ## 43
 
-> Subheading: At that very time the Lord too, with the devotees who live in Purī, comes to watch Kṛṣṇa's water pastimes —
+> Subheading: At that very time the Lord too, with the devotees who live in Purī, comes to watch Kṛṣṇa’s water pastimes —
 
 ## 44
 
@@ -142,7 +142,7 @@ This shows the author's skill in preparing a variety of offerings (*naivedya*) t
 
 ## 47
 
-> Subheading: Govindadeva's water pastimes with the devotees —
+> Subheading: Govindadeva’s water pastimes with the devotees —
 
 ## 48
 
@@ -150,11 +150,11 @@ This shows the author's skill in preparing a variety of offerings (*naivedya*) t
 
 ## 49
 
-> Subheading: The Lord's water pastimes with the devotees —
+> Subheading: The Lord’s water pastimes with the devotees —
 
 ## 50
 
-> Subheading: The Lord's water pastimes are described in the *Caitanya-bhāgavata* —
+> Subheading: The Lord’s water pastimes are described in the *Caitanya-bhāgavata* —
 
 ## 51
 
@@ -208,7 +208,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 65
 
-> Subheading: The Lord's constant desire —[^65-1]
+> Subheading: The Lord’s constant desire —[^65-1]
 
 ## 66
 
@@ -230,11 +230,11 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 70
 
-> Subheading: From the Lord's mouth comes only the sound “Haribol!” —
+> Subheading: From the Lord’s mouth comes only the sound “Haribol!” —
 
 ## 71
 
-> Subheading: The Lord's *sāttvika-vikāras* (transcendental transformations) —
+> Subheading: The Lord’s *sāttvika-vikāras* (transcendental transformations) —
 
 ## 74
 
@@ -266,7 +266,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 81
 
-> Subheading: Everyone honors *prasāda* —
+> Subheading: Everyone honours *prasāda* —
 
 ## 82
 
@@ -276,7 +276,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 83
 
-> Subheading: The custom: every day Govinda gently massages the Lord's feet, the Lord falls asleep, and then Govinda receives His remnants —
+> Subheading: The custom: every day Govinda gently massages the Lord’s feet, the Lord falls asleep, and then Govinda receives His remnants —
 
 ## 85
 
@@ -284,11 +284,11 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 86
 
-> Subheading: To massage the Lord's feet, Govinda asks Him to turn on His side; the Lord replies that He has no strength to move —
+> Subheading: To massage the Lord’s feet, Govinda asks Him to turn on His side; the Lord replies that He has no strength to move —
 
 ## 87
 
-> Subheading: Govinda asks again and again, but the Lord's answer stays the same —
+> Subheading: Govinda asks again and again, but the Lord’s answer stays the same —
 
 ## 88
 
@@ -296,11 +296,11 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 89
 
-> Subheading: Govinda lays his own *bahirvāsa* over the Lord's body and steps over Him —
+> Subheading: Govinda lays his own *bahirvāsa* over the Lord’s body and steps over Him —
 
 ## 90
 
-> Subheading: Govinda's soft, gentle massage takes away the Lord's fatigue —
+> Subheading: Govinda’s soft, gentle massage takes away the Lord’s fatigue —
 
 ## 91
 
@@ -312,7 +312,7 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 93
 
-> Subheading: The Lord tests whether Govinda's impulse is toward pure service: He asks why Govinda did not go to honor *prasāda* although the Lord had fallen asleep —
+> Subheading: The Lord tests whether Govinda’s impulse is towards pure service: He asks why Govinda did not go to honour *prasāda* although the Lord had fallen asleep —
 
 ## 94
 
@@ -320,39 +320,39 @@ In the Jagannātha temple resides the Deity of Śrī Govindadeva, the *vijaya-m�
 
 ## 95
 
-> Subheading: A description of the one ideal for all pure servants of Gaura-Kṛṣṇa who are filled with *anurāga*: the desire to please the senses of Gaura-Kṛṣṇa is the servant's only aim —
+> Subheading: A description of the one ideal for all pure servants of Gaura-Kṛṣṇa who are filled with *anurāga*: the desire to please the senses of Gaura-Kṛṣṇa is the servant’s only aim —
 
 ## 96
 
-> Subheading: In serving for the pleasure of Gaura-Kṛṣṇa's senses, a pure devotee loathes even a drop of desire to gratify his own senses and fears offense in it —
+> Subheading: In serving for the pleasure of Gaura-Kṛṣṇa’s senses, a pure devotee loathes even a drop of desire to gratify his own senses and fears offence in it —
 
 ## 97
 
-> Subheading: Govinda sees in *mahā-prasāda* the very spiritual reality (Brahman) and the Lord's own property (*tadīya*). Yet eating it concerns him personally, and, wary of a desire to please his own senses, he waits until the Lord wakes up —
+> Subheading: Govinda sees in *mahā-prasāda* the very spiritual reality (Brahman) and the Lord’s own property (*tadīya*). Yet eating it concerns him personally, and, wary of a desire to please his own senses, he waits until the Lord wakes up —
 
 See Ādi 4.201: “If the bliss of one’s own love hinders the bliss of serving Kṛṣṇa, the devotee is filled with great anger at that bliss.”
 
 ## 98
 
-> Subheading: On other days, when the Lord fell asleep, Govinda would go to honor *prasāda* —
+> Subheading: On other days, when the Lord fell asleep, Govinda would go to honour *prasāda* —
 
 ## 99
 
-> Subheading: Why on that day it was hard for Govinda to go and honor *prasāda* —
+> Subheading: Why on that day it was hard for Govinda to go and honour *prasāda* —
 
 ## 100
 
-> Subheading: Only one who has received Caitanya's mercy knows the secret of pure devotion —
+> Subheading: Only one who has received Caitanya’s mercy knows the secret of pure devotion —
 
-The *karmīs* cannot grasp the subtle essence of the scriptures on devotion, and they take mere ritual performance for *bhakti*. But *bhakti* is the name for that by which service to the Lord is accomplished. That which brings material fruits — one's own *dharma*, *artha*, *kāma*, *mokṣa* and the like — is “*karma*.” The *prākṛta-sahajiyā karmīs* do not understand the proper decorum of service in intimate friendship (*viśrambha-sakhya*), in parental love (*vātsalya*) and in conjugal love (*madhura-bhāva*), and so they are deprived of Śrī Caitanya's mercy.
+The *karmīs* cannot grasp the subtle essence of the scriptures on devotion, and they take mere ritual performance for *bhakti*. But *bhakti* is the name for that by which service to the Lord is accomplished. That which brings material fruits — one’s own *dharma*, *artha*, *kāma*, *mokṣa* and the like — is “*karma*.” The *prākṛta-sahajiyā karmīs* do not understand the proper decorum of service in intimate friendship (*viśrambha-sakhya*), in parental love (*vātsalya*) and in conjugal love (*madhura-bhāva*), and so they are deprived of Śrī Caitanya’s mercy.
 
 ## 101
 
-> Subheading: The Lord reveals the glory of His devotees' pure devotion —
+> Subheading: The Lord reveals the glory of His devotees’ pure devotion —
 
 ## 102
 
-> Subheading: The Lord's dance in a circle (*parimuṇḍā-nṛtya*), which Gaura's devotees sing of eternally —
+> Subheading: The Lord’s dance in a circle (*parimuṇḍā-nṛtya*), which Gaura’s devotees sing of eternally —
 
 ## 103
 
@@ -360,7 +360,7 @@ The *karmīs* cannot grasp the subtle essence of the scriptures on devotion, and
 
 ## 104
 
-> Subheading: Honoring *prasāda* at Āiṭoṭā —
+> Subheading: Honouring *prasāda* at Āiṭoṭā —
 
 ## 105
 
@@ -424,11 +424,11 @@ Variant reading: *paiḍa* (for *peḍā*), and in the second line, “all the c
 
 ## 128
 
-> Subheading: When all the offerings have been eaten, Rāghava's *jhālis* remain —
+> Subheading: When all the offerings have been eaten, Rāghava’s *jhālis* remain —
 
 ## 129
 
-> Subheading: The next day, eating alone, the Lord eats the excellent foods in Rāghava's *jhālis* and praises them —
+> Subheading: The next day, eating alone, the Lord eats the excellent foods in Rāghava’s *jhālis* and praises them —
 
 ## 130
 
@@ -436,7 +436,7 @@ Variant reading: *paiḍa* (for *peḍā*), and in the second line, “all the c
 
 ## 131
 
-> Subheading: Even a year later the Lord eats from Rāghava's *jhālis* offerings that have not spoiled at all —
+> Subheading: Even a year later the Lord eats from Rāghava’s *jhālis* offerings that have not spoiled at all —
 
 ## 132
 
@@ -456,7 +456,7 @@ Variant reading: *paiḍa* (for *peḍā*), and in the second line, “all the c
 
 ## 135–137
 
-Here the author's own skill in cooking comes to light.
+Here the author’s own skill in cooking comes to light.
 
 ## 138
 
@@ -482,7 +482,7 @@ Caitanya dāsa: it was he who wrote a Sanskrit commentary on the *Kṛṣṇa-ka
 
 ## 145
 
-> Subheading: Śivānanda's answer; he invites the Lord —
+> Subheading: Śivānanda’s answer; he invites the Lord —
 
 ## 147
 
@@ -490,11 +490,11 @@ Caitanya dāsa: it was he who wrote a Sanskrit commentary on the *Kṛṣṇa-ka
 
 ## 148
 
-> Subheading: Understanding the Lord's wish, Caitanya dāsa, son of Śivānanda, serves Him on his own initiative (*svārasikī*) with foods that revive a weak digestive fire —
+> Subheading: Understanding the Lord’s wish, Caitanya dāsa, son of Śivānanda, serves Him on his own initiative (*svārasikī*) with foods that revive a weak digestive fire —
 
 ## 150
 
-> Subheading: The indwelling Lord (*antaryāmī*) rejoices at Caitanya dāsa's genuine impulse toward pure service —
+> Subheading: The indwelling Lord (*antaryāmī*) rejoices at Caitanya dāsa’s genuine impulse towards pure service —
 
 ## 151
 

@@ -8,7 +8,7 @@
 
 ## 3
 
-> Subheading: The author prays to Gaura's devotees for the power to describe the qualities and pastimes of Kṛṣṇa Caitanya —
+> Subheading: The author prays to Gaura’s devotees for the power to describe the qualities and pastimes of Kṛṣṇa Caitanya —
 
 ## 4
 
@@ -16,11 +16,11 @@
 
 ## 5
 
-> Subheading: For the sake of *darśana*, the king writes to the Bhaṭṭācārya asking him to obtain the Lord's permission —
+> Subheading: For the sake of *darśana*, the king writes to the Bhaṭṭācārya asking him to obtain the Lord’s permission —
 
 ## 6
 
-> Subheading: The Bhaṭṭācārya reports the Lord's refusal; the king, eager, sends another letter —
+> Subheading: The Bhaṭṭācārya reports the Lord’s refusal; the king, eager, sends another letter —
 
 ## 7
 
@@ -30,27 +30,27 @@
 
 In the book *Kalyāṇa-kalpataru*, Śrīla Bhaktivinoda Ṭhākura writes:
 
-“Weeping and weeping I shall tell of my many sorrows and beg for relief from the fire of worldly life. Hearing of my sorrow, the Vaiṣṇava Ṭhākura will plead with Kṛṣṇa for me earnestly. At the Vaiṣṇava's plea, merciful Kṛṣṇa will become kind even to a sinner like me.”
+“Weeping and weeping I shall tell of my many sorrows and beg for relief from the fire of worldly life. Hearing of my sorrow, the Vaiṣṇava Ṭhākura will plead with Kṛṣṇa for me earnestly. At the Vaiṣṇava’s plea, merciful Kṛṣṇa will become kind even to a sinner like me.”
 
 ## 10
 
-> Subheading: Without the Lord's mercy, the king in humility and detachment vows to give up his kingdom —
+> Subheading: Without the Lord’s mercy, the king in humility and detachment vows to give up his kingdom —
 
 ## 11
 
-> Subheading: The Bhaṭṭācārya shows the king's letter to all the devotees —
+> Subheading: The Bhaṭṭācārya shows the king’s letter to all the devotees —
 
 ## 13
 
-> Subheading: Seeing the king's devotion to the Lord, all the devotees are amazed —
+> Subheading: Seeing the king’s devotion to the Lord, all the devotees are amazed —
 
 ## 14
 
-> Subheading: Everyone trusts in the Lord's firm resolve; so they are afraid and do not want to tell the king an unwelcome truth —
+> Subheading: Everyone trusts in the Lord’s firm resolve; so they are afraid and do not want to tell the king an unwelcome truth —
 
 ## 15
 
-> Subheading: Sārvabhauma's counsel: to tell the Lord of the king's steady devotion to Bhagavān —
+> Subheading: Sārvabhauma’s counsel: to tell the Lord of the king’s steady devotion to Bhagavān —
 
 ## 16
 
@@ -66,15 +66,15 @@ In the book *Kalyāṇa-kalpataru*, Śrīla Bhaktivinoda Ṭhākura writes:
 
 ## 20
 
-> Subheading: Report of the king's vow should Gaura withhold His mercy —
+> Subheading: Report of the king’s vow should Gaura withhold His mercy —
 
 ## 21
 
-> Subheading: The king's deep attachment to Gaura —
+> Subheading: The king’s deep attachment to Gaura —
 
 ## 22
 
-> Subheading: The Lord's stern words, true to the strict duty of a *sannyāsī*, as befits an *ācārya* —
+> Subheading: The Lord’s stern words, true to the strict duty of a *sannyāsī*, as befits an *ācārya* —
 
 ## 23
 
@@ -82,7 +82,7 @@ In the book *Kalyāṇa-kalpataru*, Śrīla Bhaktivinoda Ṭhākura writes:
 
 ## 24
 
-> Subheading: Breaking the rules would bring people's censure, and Dāmodara Paṇḍita would likely punish Him with words —
+> Subheading: Breaking the rules would bring people’s censure, and Dāmodara Paṇḍita would likely punish Him with words —
 
 ## 25
 
@@ -90,7 +90,7 @@ In the book *Kalyāṇa-kalpataru*, Śrīla Bhaktivinoda Ṭhākura writes:
 
 ## 26
 
-> Subheading: Dāmodara's hurt feelings and reproach —
+> Subheading: Dāmodara’s hurt feelings and reproach —
 
 ## 29
 
@@ -98,7 +98,7 @@ You are Īśvara and so are bound to no one in any way. And yet, by Your own nat
 
 ## 30
 
-> Subheading: Agreeing with the Lord, Nityānanda takes up the cause of the king's love —
+> Subheading: Agreeing with the Lord, Nityānanda takes up the cause of the king’s love —
 
 ## 31
 
@@ -114,7 +114,7 @@ On how the wives of the sacrificing *brāhmaṇas* attained Kṛṣṇa, see *Ś
 
 ## 33
 
-> Subheading: Nityānanda's counsel —
+> Subheading: Nityānanda’s counsel —
 
 ## 34
 
@@ -126,7 +126,7 @@ The king is destined never to obtain Your *darśana*, and deprived of that *dar�
 
 ## 36
 
-> Subheading: Nityānanda obtains the Lord's outer cloth from Govinda —
+> Subheading: Nityānanda obtains the Lord’s outer cloth from Govinda —
 
 ## 37
 
@@ -134,9 +134,9 @@ The king is destined never to obtain Your *darśana*, and deprived of that *dar�
 
 ## 38
 
-> Subheading: Knowing the Lord's cloth to be non-different from the Lord, the king serves it —
+> Subheading: Knowing the Lord’s cloth to be non-different from the Lord, the king serves it —
 
-The king had meant to worship the Lord with great eagerness. In the same way he began to worship the piece of outer cloth the Lord had given, regarding it as like the Lord Himself. The clothes, ornaments and other things the Lord wears are eternally non-different from His transcendental body. Śrī Baladeva is the form (*vigraha*) that possesses the *sandhinī* energy. His portion (*kalā*), Śeṣa, serves his worshipable Kṛṣṇacandra in many forms — as Viṣṇu's bed, His clothing and so on. Therefore all of these are objects of service for a pure servant, and in all of them one and the same Kṛṣṇa is perceived. Mahāprabhu, moreover, is the nondual truth (*advaya-jñāna*), the form of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*), Svayam Bhagavān. In the same way, the guru and the Vaiṣṇavas, who are full of eternity, knowledge and bliss, and the articles they use must be known as non-different from one another — that is, as the eternal, supremely worshipable forms for the *jīva*.
+The king had meant to worship the Lord with great eagerness. In the same way he began to worship the piece of outer cloth the Lord had given, regarding it as like the Lord Himself. The clothes, ornaments and other things the Lord wears are eternally non-different from His transcendental body. Śrī Baladeva is the form (*vigraha*) that possesses the *sandhinī* energy. His portion (*kalā*), Śeṣa, serves his worshipable Kṛṣṇacandra in many forms — as Viṣṇu’s bed, His clothing and so on. Therefore all of these are objects of service for a pure servant, and in all of them one and the same Kṛṣṇa is perceived. Mahāprabhu, moreover, is the nondual truth (*advaya-jñāna*), the form of eternity, knowledge and bliss (*sac-cid-ānanda-vigraha*), Svayam Bhagavān. In the same way, the guru and the Vaiṣṇavas, who are full of eternity, knowledge and bliss, and the articles they use must be known as non-different from one another — that is, as the eternal, supremely worshipable forms for the *jīva*.
 
 ## 39
 
@@ -144,7 +144,7 @@ The king had meant to worship the Lord with great eagerness. In the same way he 
 
 ## 40
 
-> Subheading: The king asks Rāya to obtain the Lord's *darśana* for him —
+> Subheading: The king asks Rāya to obtain the Lord’s *darśana* for him —
 
 ## 42
 
@@ -152,7 +152,7 @@ The king had meant to worship the Lord with great eagerness. In the same way he 
 
 ## 43
 
-> Subheading: A petition to the Lord on the king's behalf —
+> Subheading: A petition to the Lord on the king’s behalf —
 
 ## 44
 
@@ -164,7 +164,7 @@ The king had meant to worship the Lord with great eagerness. In the same way he 
 
 ## 47
 
-> Subheading: The Lord asks Rāya himself for sound judgment —
+> Subheading: The Lord asks Rāya himself for sound judgement —
 
 ## 49
 
@@ -194,7 +194,7 @@ The king had meant to worship the Lord with great eagerness. In the same way he 
 
 ## 55
 
-> Subheading: At last, yielding to Rāya's insistence, the Lord agrees to meet the prince —
+> Subheading: At last, yielding to Rāya’s insistence, the Lord agrees to meet the prince —
 
 The son: Puruṣottama Jānā (?).
 
@@ -206,7 +206,7 @@ The words of Bhagavān (*Śrīmad-Bhāgavatam* 10.78.36): “‘The self is born
 
 ## 57
 
-> Subheading: Rāya tells the king of the Lord's mercy and brings the prince to the Lord —
+> Subheading: Rāya tells the king of the Lord’s mercy and brings the prince to the Lord —
 
 ## 58
 
@@ -218,7 +218,7 @@ The words of Bhagavān (*Śrīmad-Bhāgavatam* 10.78.36): “‘The self is born
 
 ## 59–61
 
-The Lord sees the self (*ātmā*), and so He has no external vision turned toward objects of enjoyment — toward the body and mind, which are not the self. Therefore He has no notion at all that the prince is a *viṣayī*, the son of a *viṣayī*, and so “a woman” or “one who keeps company with women,” and that He Himself is “a man who enjoys women.” In other words, when one sees the real substance, full of eternity, knowledge and bliss, there is no room at all for fancies or impositions born of the mind. Such is, for instance, the habit of imposing spirit onto matter, or of taking what is made of earth to be worshipable[^59-61-1] — the natural tendency of *jīvas* who are Māyāvādīs averse to Kṛṣṇa. The Lord Himself is the nondual truth (*advaya-jñāna*), the *viṣaya-vigraha*, the one toward whom love is directed. Yet He perceived Himself as a *gopī*, of the class of the “*āśraya*” (the abode of love) — one who gives delight and on whom the gaze rests — and He perceived the prince as Vrajendra-nandana Himself. This is the vision of nondual truth proper to the pure *jīvātmā*, the “vision of a Vaiṣṇava” (see Madhya 8.277). “Only one whom He Himself chooses can attain Him; to him the Self reveals His own form.” (*Kaṭha* and *Muṇḍaka Upaniṣads*)[^59-61-2] Because the *jīva* lacks this fearless vision, he invites all the misfortunes (*anarthas*) born of ignorance — the round of birth and death: “Coming into this world, I serve *prakṛti* and perish in the conceit of being a ‘*puruṣa*’” (Ṭhākura Śrī Bhaktivinoda, *Kalyāṇa-kalpataru*).
+The Lord sees the self (*ātmā*), and so He has no external vision turned towards objects of enjoyment — towards the body and mind, which are not the self. Therefore He has no notion at all that the prince is a *viṣayī*, the son of a *viṣayī*, and so “a woman” or “one who keeps company with women,” and that He Himself is “a man who enjoys women.” In other words, when one sees the real substance, full of eternity, knowledge and bliss, there is no room at all for fancies or impositions born of the mind. Such is, for instance, the habit of imposing spirit onto matter, or of taking what is made of earth to be worshipable[^59-61-1] — the natural tendency of *jīvas* who are Māyāvādīs averse to Kṛṣṇa. The Lord Himself is the nondual truth (*advaya-jñāna*), the *viṣaya-vigraha*, the one towards whom love is directed. Yet He perceived Himself as a *gopī*, of the class of the “*āśraya*” (the abode of love) — one who gives delight and on whom the gaze rests — and He perceived the prince as Vrajendra-nandana Himself. This is the vision of nondual truth proper to the pure *jīvātmā*, the “vision of a Vaiṣṇava” (see Madhya 8.277). “Only one whom He Himself chooses can attain Him; to him the Self reveals His own form.” (*Kaṭha* and *Muṇḍaka Upaniṣads*)[^59-61-2] Because the *jīva* lacks this fearless vision, he invites all the misfortunes (*anarthas*) born of ignorance — the round of birth and death: “Coming into this world, I serve *prakṛti* and perish in the conceit of being a ‘*puruṣa*’” (Ṭhākura Śrī Bhaktivinoda, *Kalyāṇa-kalpataru*).
 
 ## 62
 
@@ -238,11 +238,11 @@ The Lord sees the self (*ātmā*), and so He has no external vision turned towar
 
 ## 66
 
-> Subheading: Seeing and embracing his son, the king feels the Lord's touch —
+> Subheading: Seeing and embracing his son, the king feels the Lord’s touch —
 
 ## 68
 
-> Subheading: The prince becomes one of Gaura's devotees —
+> Subheading: The prince becomes one of Gaura’s devotees —
 
 ## 69
 
@@ -266,11 +266,11 @@ The Guṇḍicā temple stands one *krośa* northeast of the Śrī Mandira. Duri
 
 ## 74
 
-> Subheading: The *paḍichā*'s humble words —
+> Subheading: The *paḍichā*’s humble words —
 
 ## 75
 
-> Subheading: By the king's order he is entitled to serve the Lord —
+> Subheading: By the king’s order he is entitled to serve the Lord —
 
 ## 76
 
@@ -302,7 +302,7 @@ In the main temple of the Guṇḍicā there is a jeweled altar (*ratna-vedī*) 
 
 ## 85
 
-> Subheading: The devotees follow the Lord's example —
+> Subheading: The devotees follow the Lord’s example —
 
 ## 86
 
@@ -324,7 +324,7 @@ The *bhoga-mandira* is 40 cubits long and 17 wide.
 
 ## 91
 
-> Subheading: The Lord's own cleaning made the Guṇḍicā cleanest of all —
+> Subheading: The Lord’s own cleaning made the Guṇḍicā cleanest of all —
 
 ## 92
 
@@ -348,11 +348,11 @@ The *bhoga-mandira* is 40 cubits long and 17 wide.
 
 ## 99
 
-> Subheading: With His own hands the Lord washes Bhagavān's throne —
+> Subheading: With His own hands the Lord washes Bhagavān’s throne —
 
 ## 100
 
-> Subheading: The devotees' varied service —
+> Subheading: The devotees’ varied service —
 
 ## 103
 
@@ -364,7 +364,7 @@ The *bhoga-mandira* is 40 cubits long and 17 wide.
 
 ## 105
 
-> Subheading: The cleaned and washed temple is likened to Śrī Rādhā's pure heart —
+> Subheading: The cleaned and washed temple is likened to Śrī Rādhā’s pure heart —
 
 ## 107
 
@@ -386,7 +386,7 @@ The Vaiṣṇavas were busy bringing water. But Nityānanda Prabhu, Advaita, Dā
 
 ## 114
 
-> Subheading: The Lord constantly chants Kṛṣṇa's name and alone does the service of a hundred devotees —
+> Subheading: The Lord constantly chants Kṛṣṇa’s name and alone does the service of a hundred devotees —
 
 ## 115
 
@@ -394,7 +394,7 @@ The Vaiṣṇavas were busy bringing water. But Nityānanda Prabhu, Advaita, Dā
 
 ## 116
 
-> Subheading: Praise for a good servant's service —
+> Subheading: Praise for a good servant’s service —
 
 ## 117
 
@@ -410,7 +410,7 @@ The Vaiṣṇavas were busy bringing water. But Nityānanda Prabhu, Advaita, Dā
 
 ## 122
 
-> Subheading: What one Gauḍīya devotee did: suddenly washing the Lord's feet, he drinks that water —
+> Subheading: What one Gauḍīya devotee did: suddenly washing the Lord’s feet, he drinks that water —
 
 ## 124
 
@@ -424,15 +424,15 @@ The Vaiṣṇavas were busy bringing water. But Nityānanda Prabhu, Advaita, Dā
 
 ## 126
 
-> Subheading: Washing the feet in Bhagavān's temple is an offense in service for the *jīva* —
+> Subheading: Washing the feet in Bhagavān’s temple is an offence in service for the *jīva* —
 
 ## 127
 
-> Subheading: The Lord is distressed by fear of an offense in service (?) —
+> Subheading: The Lord is distressed by fear of an offence in service (?) —
 
 ## 126–127
 
-Bhagavān is the eternal master of the *jīva*. If the *jīva*, His eternal servant, washes his feet or does anything of the kind in Bhagavān's temple, it is an offense in service (*sevāparādha*), because it violates the rules of reverence (*Hari-bhakti-vilāsa*). But the Lord is Bhagavān Himself, and to attribute an offense or anything of the sort to Him is utterly impossible and contrary to the Vedas. Still, outwardly He acts as *jagad-guru*, the teacher of people, and *ācārya*. So He took on the role of a mere *jīva*, a separated part (*vibhinnāṁśa*), and taught this lesson to guard foolish *guru-bruvas* — those who only call themselves gurus — against offenses in service.
+Bhagavān is the eternal master of the *jīva*. If the *jīva*, His eternal servant, washes his feet or does anything of the kind in Bhagavān’s temple, it is an offence in service (*sevāparādha*), because it violates the rules of reverence (*Hari-bhakti-vilāsa*). But the Lord is Bhagavān Himself, and to attribute an offence or anything of the sort to Him is utterly impossible and contrary to the Vedas. Still, outwardly He acts as *jagad-guru*, the teacher of people, and *ācārya*. So He took on the role of a mere *jīva*, a separated part (*vibhinnāṁśa*), and taught this lesson to guard foolish *guru-bruvas* — those who only call themselves gurus — against offences in service.
 
 ## 128
 
@@ -442,7 +442,7 @@ Bhagavān is the eternal master of the *jīva*. If the *jīva*, His eternal serv
 
 ## 129
 
-> Subheading: A plea for forgiveness at the Lord's feet —
+> Subheading: A plea for forgiveness at the Lord’s feet —
 
 ## 130
 
@@ -468,23 +468,23 @@ Bhagavān is the eternal master of the *jīva*. If the *jīva*, His eternal serv
 
 > Subheading: All the roads to the Guṇḍicā are cleared —
 
-The secret of the pastime of cleaning the Guṇḍicā. Through this pastime Mahāprabhu, the teacher of the world (*jagad-guru*), teaches that if a fortunate *jīva* wishes to seat Śrī Kṛṣṇa on the throne of his heart, he must first wash the dirt from his heart. He must make his heart pure, peaceful and radiant with devotion. If the field of the heart holds even a trace of *anarthas* — thorny grass or weeds, dust, pebbles and the like — Bhagavān, the supreme object of service, cannot be seated there. This dirt, this rubbish of the heart, is nothing but other desires (*anyābhilāṣa*), *karma*, *jñāna*, the endeavors of *yoga* and so on. Śrīla Rūpa Gosvāmī Prabhu says: “The highest devotion is the cultivation of service to Kṛṣṇa in a favorable spirit, free from other desires and not covered by *jñāna*, *karma* and the like.”[^135-1]
+The secret of the pastime of cleaning the Guṇḍicā. Through this pastime Mahāprabhu, the teacher of the world (*jagad-guru*), teaches that if a fortunate *jīva* wishes to seat Śrī Kṛṣṇa on the throne of his heart, he must first wash the dirt from his heart. He must make his heart pure, peaceful and radiant with devotion. If the field of the heart holds even a trace of *anarthas* — thorny grass or weeds, dust, pebbles and the like — Bhagavān, the supreme object of service, cannot be seated there. This dirt, this rubbish of the heart, is nothing but other desires (*anyābhilāṣa*), *karma*, *jñāna*, the endeavours of *yoga* and so on. Śrīla Rūpa Gosvāmī Prabhu says: “The highest devotion is the cultivation of service to Kṛṣṇa in a favourable spirit, free from other desires and not covered by *jñāna*, *karma* and the like.”[^135-1]
 
 *Bhakti* is the eternal, natural function of the soul. Where it is covered by desires other than *bhakti*, by *jñāna*, *karma*, *yoga*, austerity and the like, or by a mood hostile to *bhakti*, there is no pure *bhakti*. And without pure *bhakti*, made of pure goodness (*śuddha-sattva*), Kṛṣṇa does not appear.
 
-Other desires (*anyābhilāṣa*) are low desires such as “As long as I am in this world, I will only gratify my senses.” Like thorny grass, they pierce the tenderest movement of the pure *jīva*'s heart — unalloyed devotion (*kevala-bhakti*). The endeavor for *karma* is activity full of desires — sacrifices (*yāga*, *yajña*), charity, austerity and so on — with the thought “I will enjoy happiness in the higher worlds such as Svarga, or in this world.” It is like dust. In the whirlwind of *karma*, heaps of dust — desires (*vāsanās*) — cover the clear and spotless mirror of our heart. Countless heaps of dust — desires born of good and bad deeds — have soiled the heart of the *jīva* averse to Hari through birth after birth. That is why his urge for *karma* does not go away. The *jīva* averse to Hari thinks that the thorn of *karma* can perhaps be removed by *karma* itself. But this notion is wrong: led by it, he only goes on deceiving himself. Bathe an elephant, and it smears itself with dust again. In the same way, *karma* cannot drive away the desire for *karma*. Only unalloyed devotion removes all the *jīva*'s troubles. Then, on the pure throne of his heart, Śrī Bhagavān finds a place fit for His rest. Therefore a devotee-poet has sung: “In the devotee's heart Govinda always rests.”
+Other desires (*anyābhilāṣa*) are low desires such as “As long as I am in this world, I will only gratify my senses.” Like thorny grass, they pierce the tenderest movement of the pure *jīva*’s heart — unalloyed devotion (*kevala-bhakti*). The endeavour for *karma* is activity full of desires — sacrifices (*yāga*, *yajña*), charity, austerity and so on — with the thought “I will enjoy happiness in the higher worlds such as Svarga, or in this world.” It is like dust. In the whirlwind of *karma*, heaps of dust — desires (*vāsanās*) — cover the clear and spotless mirror of our heart. Countless heaps of dust — desires born of good and bad deeds — have soiled the heart of the *jīva* averse to Hari through birth after birth. That is why his urge for *karma* does not go away. The *jīva* averse to Hari thinks that the thorn of *karma* can perhaps be removed by *karma* itself. But this notion is wrong: led by it, he only goes on deceiving himself. Bathe an elephant, and it smears itself with dust again. In the same way, *karma* cannot drive away the desire for *karma*. Only unalloyed devotion removes all the *jīva*’s troubles. Then, on the pure throne of his heart, Śrī Bhagavān finds a place fit for His rest. Therefore a devotee-poet has sung: “In the devotee’s heart Govinda always rests.”
 
-The endeavors for the impersonal (*nirviśeṣa*), *kaivalya-yoga*, *jñāna-yoga* and the like are exactly like pebbles. Far from pleasing or serving Śrī Hari, they are only attempts to drive a spear into Śrī Hari's body. True, in seeking the impersonal Brahman one at first, as one who longs for liberation (*mumukṣu*), accepts Śrī Hari's name and so on as something secondary. But once one thinks oneself liberated, Brahman, one no longer accepts His separate existence. So Bhagavān does not appear in the hearts of such unfortunate *jīvas* who think themselves liberated. That is why Śrī Gaurasundara did not leave all this heap of rubbish — the straw, dust, gravel and so on — even within the boundary of Bhagavān's temple. He carried it all outside in His own outer cloth and threw it away, so that the wind would not blow that refuse back into the Śrī Mandira.
+The endeavours for the impersonal (*nirviśeṣa*), *kaivalya-yoga*, *jñāna-yoga* and the like are exactly like pebbles. Far from pleasing or serving Śrī Hari, they are only attempts to drive a spear into Śrī Hari’s body. True, in seeking the impersonal Brahman one at first, as one who longs for liberation (*mumukṣu*), accepts Śrī Hari’s name and so on as something secondary. But once one thinks oneself liberated, Brahman, one no longer accepts His separate existence. So Bhagavān does not appear in the hearts of such unfortunate *jīvas* who think themselves liberated. That is why Śrī Gaurasundara did not leave all this heap of rubbish — the straw, dust, gravel and so on — even within the boundary of Bhagavān’s temple. He carried it all outside in His own outer cloth and threw it away, so that the wind would not blow that refuse back into the Śrī Mandira.
 
-Often, even when the endeavors for *karma*, *jñāna* and so on are gone, very subtle dirt remains in the heart. It can be likened to *kuṭināṭi*, *pratiṣṭhāśā*, *jīva-hiṁsā*, *niṣiddhācāra*, *lābha*, *pūjā* and the like. *Kuṭināṭi* means duplicity. *Pratiṣṭhāśā* is the hope for worldly honor and so on: “Let foolish people, seeing my solitary *bhajana* or my show of sanctity, call me a great *sādhu* or *mahānta*.” Or it is the hope to pass for a “devotee” or an “*avatāra*” by displaying artificial ecstatic symptoms — a mere shadow of *bhāva* (*bhāvābhāsa*) — while the heart has hardened in pursuit of worldly enjoyment and seeks its own gain. *Jīva-hiṁsā* (violence to living beings) means timidity or stinginess in preaching pure *bhakti*, indulging Māyāvādīs, *karmīs* and *anyābhilāṣīs*, or speaking so as to please them. *Lābha-pūjā* means making a living in the name of religion from the holy name, *mantra*, the Deity and the *Bhāgavata*, and cheating foolish people to obtain money or honor. *Niṣiddhācāra* (forbidden conduct) means association with women, and association with those who are not devoted to Kṛṣṇa — *karmīs*, *jñānīs*, *anyābhilāṣīs* and others.
+Often, even when the endeavours for *karma*, *jñāna* and so on are gone, very subtle dirt remains in the heart. It can be likened to *kuṭināṭi*, *pratiṣṭhāśā*, *jīva-hiṁsā*, *niṣiddhācāra*, *lābha*, *pūjā* and the like. *Kuṭināṭi* means duplicity. *Pratiṣṭhāśā* is the hope for worldly honour and so on: “Let foolish people, seeing my solitary *bhajana* or my show of sanctity, call me a great *sādhu* or *mahānta*.” Or it is the hope to pass for a “devotee” or an “*avatāra*” by displaying artificial ecstatic symptoms — a mere shadow of *bhāva* (*bhāvābhāsa*) — while the heart has hardened in pursuit of worldly enjoyment and seeks its own gain. *Jīva-hiṁsā* (violence to living beings) means timidity or stinginess in preaching pure *bhakti*, indulging Māyāvādīs, *karmīs* and *anyābhilāṣīs*, or speaking so as to please them. *Lābha-pūjā* means making a living in the name of religion from the holy name, mantra, the Deity and the *Bhāgavata*, and cheating foolish people to obtain money or honour. *Niṣiddhācāra* (forbidden conduct) means association with women, and association with those who are not devoted to Kṛṣṇa — *karmīs*, *jñānīs*, *anyābhilāṣīs* and others.
 
 So Śrī Gaurasundara swept out the large pebbles, the straw, the heaps of dust and so on that had accumulated over many days. Then He cleaned the whole temple twice and washed it twice with water. And in case some subtle stain still remained anywhere, He began to rub the Śrī Mandira and the throne — the seat of Bhagavān — over and over with the dry cloth He was wearing.
 
-After all this washing, cleaning and rubbing, not a speck of dust, not even a faint stain, remained in the Śrī Mandira: it became as clear as crystal. Not only that, it also became cool. That is, the *sādhaka*'s heart, once like a desert scorched by the sun, became free of heat: the burning fire of the three miseries — *ādhyātmika* and the others — born of the desire for worldly enjoyment was put out. Indeed, when other desires and the craving for *bhukti* and *mukti* — the endeavors of *karma*, *jñāna*, *yoga* and so on — leave the heart, and pure *bhakti*, the soul's own function (*ātma-vṛtti*), becomes manifest, the heart becomes just like this, peaceful and cool.
+After all this washing, cleaning and rubbing, not a speck of dust, not even a faint stain, remained in the Śrī Mandira: it became as clear as crystal. Not only that, it also became cool. That is, the *sādhaka*’s heart, once like a desert scorched by the sun, became free of heat: the burning fire of the three miseries — *ādhyātmika* and the others — born of the desire for worldly enjoyment was put out. Indeed, when other desires and the craving for *bhukti* and *mukti* — the endeavours of *karma*, *jñāna*, *yoga* and so on — leave the heart, and pure *bhakti*, the soul’s own function (*ātma-vṛtti*), becomes manifest, the heart becomes just like this, peaceful and cool.
 
-Often, even when all desires and cravings are gone, one or another subtle stain remains in some unknown corner of the heart, and the foolish *jīva* does not notice it. That is the desire for liberation. Not to speak of the impersonalists' desire for *sāyujya-mukti* — Śrīman Mahāprabhu rubbed away with His own cloth even the subtle stains of the desire for the other four kinds of liberation.
+Often, even when all desires and cravings are gone, one or another subtle stain remains in some unknown corner of the heart, and the foolish *jīva* does not notice it. That is the desire for liberation. Not to speak of the impersonalists’ desire for *sāyujya-mukti* — Śrīman Mahāprabhu rubbed away with His own cloth even the subtle stains of the desire for the other four kinds of liberation.
 
-In this way Śrī Gaurasundara, for the good of the *jīvas*, took on the role of a *jīva* and Himself, as *jagad-guru*, began to teach how a *sādhaka* should clean his heart for Kṛṣṇa. The heart must be turned into Vṛndāvana, the place where self-sufficient (*svarāṭ*) Kṛṣṇa freely enjoys His pastimes. And it must be cleaned out of the desire to please Kṛṣṇa's senses, with great enthusiasm, loudly chanting Kṛṣṇa's name. “Even if other forms of *bhakti* are performed in the age of Kali, they must be performed together with the *bhakti* called *kīrtana*.” Mahāprabhu went to each devotee and, taking him by the hand, taught him the service of the temple. He praised the one whose work was going well. The Lord is endowed with the *bhāva* of Śrī Rādhā, who is wholly devoted to fulfilling Kṛṣṇa's desires. And the one whose service was not to the Lord's liking He too took by the hand, after a holy rebuke, and taught the method of serving Kṛṣṇa. More than that: He encouraged the pure-hearted devotees who follow Caitanya's teaching, who have mastered the art of *bhajana* and are engaged in *bhakti-yoga* in nondual knowledge, and ordered them to do the work of an “*ācārya*” for other *jīvas* who are averse to the Lord (see verse 117). Further, the more inauspicious things one can draw out of the heart and clean away, the dearer one will be to the Lord. And for one whose *anarthas* have hardly been removed, service to Hari, guru and the Vaiṣṇavas is prescribed as the penalty.
+In this way Śrī Gaurasundara, for the good of the *jīvas*, took on the role of a *jīva* and Himself, as *jagad-guru*, began to teach how a *sādhaka* should clean his heart for Kṛṣṇa. The heart must be turned into Vṛndāvana, the place where self-sufficient (*svarāṭ*) Kṛṣṇa freely enjoys His pastimes. And it must be cleaned out of the desire to please Kṛṣṇa’s senses, with great enthusiasm, loudly chanting Kṛṣṇa’s name. “Even if other forms of *bhakti* are performed in the age of Kali, they must be performed together with the *bhakti* called *kīrtana*.” Mahāprabhu went to each devotee and, taking him by the hand, taught him the service of the temple. He praised the one whose work was going well. The Lord is endowed with the *bhāva* of Śrī Rādhā, who is wholly devoted to fulfilling Kṛṣṇa’s desires. And the one whose service was not to the Lord’s liking He too took by the hand, after a holy rebuke, and taught the method of serving Kṛṣṇa. More than that: He encouraged the pure-hearted devotees who follow Caitanya’s teaching, who have mastered the art of *bhajana* and are engaged in *bhakti-yoga* in nondual knowledge, and ordered them to do the work of an “*ācārya*” for other *jīvas* who are averse to the Lord (see verse 117). Further, the more inauspicious things one can draw out of the heart and clean away, the dearer one will be to the Lord. And for one whose *anarthas* have hardly been removed, service to Hari, guru and the Vaiṣṇavas is prescribed as the penalty.
 
 ## 136
 
@@ -496,11 +496,11 @@ In this way Śrī Gaurasundara, for the good of the *jīvas*, took on the role o
 
 ## 138
 
-> Subheading: The Lord's eight *sāttvika* transformations and streams of tears —
+> Subheading: The Lord’s eight *sāttvika* transformations and streams of tears —
 
 ## 141
 
-> Subheading: To Svarūpa's loud *kīrtana* the Lord dances in bliss —
+> Subheading: To Svarūpa’s loud *kīrtana* the Lord dances in bliss —
 
 ## 142
 
@@ -508,7 +508,7 @@ In this way Śrī Gaurasundara, for the good of the *jīvas*, took on the role o
 
 ## 143
 
-> Subheading: The Lord tells Gopāla, Advaita's son, to dance —
+> Subheading: The Lord tells Gopāla, Advaita’s son, to dance —
 
 On Śrī Gopāla, see Ādi 12.19–26.
 
@@ -518,11 +518,11 @@ On Śrī Gopāla, see Ādi 12.19–26.
 
 ## 145
 
-> Subheading: The Ācārya's alarm —
+> Subheading: The Ācārya’s alarm —
 
 ## 146
 
-> Subheading: With the *mantra* of Nṛsiṁha, Advaita tries to bring his son back to consciousness —
+> Subheading: With the mantra of Nṛsiṁha, Advaita tries to bring his son back to consciousness —
 
 ## 147
 
@@ -530,7 +530,7 @@ On Śrī Gopāla, see Ādi 12.19–26.
 
 ## 148
 
-> Subheading: By Śrī Caitanya's mercy Gopāla regains consciousness; the devotees rejoice —
+> Subheading: By Śrī Caitanya’s mercy Gopāla regains consciousness; the devotees rejoice —
 
 ## 150
 
@@ -556,7 +556,7 @@ This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
 
 ## 156
 
-> Subheading: The Lord and His associates sit down to honor *prasāda* —
+> Subheading: The Lord and His associates sit down to honour *prasāda* —
 
 ## 158
 
@@ -568,7 +568,7 @@ This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
 
 ## 161
 
-> Subheading: Haridāsa's natural humility and his reverence for pure devotees —
+> Subheading: Haridāsa’s natural humility and his reverence for pure devotees —
 
 ## 162
 
@@ -580,13 +580,13 @@ This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
 
 ## 164
 
-> Subheading: While *prasāda* is honored, the cry of “Hari!” resounds —
+> Subheading: While *prasāda* is honoured, the cry of “Hari!” resounds —
 
 *Hari-dhvani*: see Madhya 11.209.
 
 ## 165
 
-> Subheading: The remembrance of Kṛṣṇa's riverbank picnic in the Dvāpara-yuga awakens —
+> Subheading: The remembrance of Kṛṣṇa’s riverbank picnic in the Dvāpara-yuga awakens —
 
 ## 166
 
@@ -594,7 +594,7 @@ This account of Gopāla is not found in the *Śrī Caitanya-bhāgavata*.
 
 ## 167
 
-> Subheading: The Lord's pastime of renunciation —
+> Subheading: The Lord’s pastime of renunciation —
 
 See Madhya 6.43–44.
 
@@ -604,7 +604,7 @@ See Madhya 6.43–44.
 
 ## 169
 
-> Subheading: An example of Jagadānanda's love for the Lord —
+> Subheading: An example of Jagadānanda’s love for the Lord —
 
 ## 170
 
@@ -612,7 +612,7 @@ See Madhya 6.43–44.
 
 ## 171
 
-> Subheading: Fearing Jagadānanda's sulking, the Lord eats a little at a time —
+> Subheading: Fearing Jagadānanda’s sulking, the Lord eats a little at a time —
 
 ## 173
 
@@ -620,7 +620,7 @@ See Madhya 6.43–44.
 
 ## 175
 
-> Subheading: The Lord fulfills Svarūpa's wish —
+> Subheading: The Lord fulfils Svarūpa’s wish —
 
 ## 176
 
@@ -632,25 +632,25 @@ See Madhya 6.43–44.
 
 ## 178
 
-> Subheading: The Lord's affection for Sārvabhauma —
+> Subheading: The Lord’s affection for Sārvabhauma —
 
 ## 179
 
-> Subheading: At the Lord's order Gopīnātha gives the Bhaṭṭācārya the best *prasāda* —
+> Subheading: At the Lord’s order Gopīnātha gives the Bhaṭṭācārya the best *prasāda* —
 
 ## 180
 
-> Subheading: Sārvabhauma's former and present conduct compared —
+> Subheading: Sārvabhauma’s former and present conduct compared —
 
-Formerly Śrī Sārvabhauma Bhaṭṭācārya held to the reasoning of the *smārtas* and to mundane, materialistic beliefs. He had no transcendental faith in *prasāda*, in the name of Govinda or in the Vaiṣṇavas. Now, by Mahāprabhu's mercy, he gained faith in transcendental vision and found supreme bliss in honoring *prasāda* and the like. This is what is to be considered here.
+Formerly Śrī Sārvabhauma Bhaṭṭācārya held to the reasoning of the *smārtas* and to mundane, materialistic beliefs. He had no transcendental faith in *prasāda*, in the name of Govinda or in the Vaiṣṇavas. Now, by Mahāprabhu’s mercy, he gained faith in transcendental vision and found supreme bliss in honouring *prasāda* and the like. This is what is to be considered here.
 
 ## 181
 
-> Subheading: The Bhaṭṭācārya's humility and his gratitude to Gopīnātha —
+> Subheading: The Bhaṭṭācārya’s humility and his gratitude to Gopīnātha —
 
 ## 182
 
-> Subheading: The glory of the Lord's causeless mercy —
+> Subheading: The glory of the Lord’s causeless mercy —
 
 ## 183
 
@@ -658,11 +658,11 @@ Formerly Śrī Sārvabhauma Bhaṭṭācārya held to the reasoning of the *smā
 
 ## 184
 
-*Bahirmukha* (turned outward): those who think themselves enjoyers of external forms, tastes and the like, who are busy gratifying their own senses and are averse to serving Kṛṣṇa — they are *bahirmukha*. (*Śrīmad-Bhāgavatam* 7.5.31)[^184-1]: “Those vowed to household life, whose senses are uncontrolled, who enter darkness, chewing the chewed again and again, do not turn their minds to Kṛṣṇa — not by the instruction of others, not by themselves, not together. They do not know that their own goal is Viṣṇu. With wicked hopes, taking external things to be of value, they are like the blind led by the blind: they too are bound by the long rope of the Lord's law.” Knowledge devoted to enjoying material objects does not reveal the true nature of service to Kṛṣṇa. This Devī-dhāma, the realm of Durgā, lies on the outer border of the transcendental kingdom, and everything in this realm is material. Yet the conditioned soul, confused about his own nature, sees in it something worth serving.
+*Bahirmukha* (turned outward): those who think themselves enjoyers of external forms, tastes and the like, who are busy gratifying their own senses and are averse to serving Kṛṣṇa — they are *bahirmukha*. (*Śrīmad-Bhāgavatam* 7.5.31)[^184-1]: “Those vowed to household life, whose senses are uncontrolled, who enter darkness, chewing the chewed again and again, do not turn their minds to Kṛṣṇa — not by the instruction of others, not by themselves, not together. They do not know that their own goal is Viṣṇu. With wicked hopes, taking external things to be of value, they are like the blind led by the blind: they too are bound by the long rope of the Lord’s law.” Knowledge devoted to enjoying material objects does not reveal the true nature of service to Kṛṣṇa. This Devī-dhāma, the realm of Durgā, lies on the outer border of the transcendental kingdom, and everything in this realm is material. Yet the conditioned soul, confused about his own nature, sees in it something worth serving.
 
 ## 185
 
-> Subheading: The Lord, who honors others, praises Sārvabhauma —
+> Subheading: The Lord, who honours others, praises Sārvabhauma —
 
 ## 186
 
@@ -708,7 +708,7 @@ Pure Vaiṣṇavas, that is, those on the path of pure *bhakti*, firmly believe 
 
 > Subheading: A hint that one must not associate with materialistic dualists or Māyāvādīs, opponents of nondual knowledge —
 
-Śrī Rūpa Prabhu says in the *Upadeśāmṛta*: “Giving and accepting gifts, revealing one's secrets and inquiring, eating and feeding — these are the six signs of love.”[^195-1] Therefore a pure devotee must strictly observe the rules of association, including those about eating. By this Nityānanda Prabhu also hinted that a pure devotee should never eat together with a disguised Māyāvādī or a *prākṛta-sahajiyā* absorbed in a “second.”
+Śrī Rūpa Prabhu says in the *Upadeśāmṛta*: “Giving and accepting gifts, revealing one’s secrets and inquiring, eating and feeding — these are the six signs of love.”[^195-1] Therefore a pure devotee must strictly observe the rules of association, including those about eating. By this Nityānanda Prabhu also hinted that a pure devotee should never eat together with a disguised Māyāvādī or a *prākṛta-sahajiyā* absorbed in a “second.”
 
 ## 196
 
@@ -724,7 +724,7 @@ On the playful quarrel of the two, see Madhya 3.93–101.
 
 ## 198
 
-> Subheading: Having honored *prasāda*, everyone rises with cries of “Hari!” and rinses his mouth —
+> Subheading: Having honoured *prasāda*, everyone rises with cries of “Hari!” and rinses his mouth —
 
 ## 199
 
@@ -736,11 +736,11 @@ On the playful quarrel of the two, see Madhya 3.93–101.
 
 ## 201
 
-> Subheading: With Govinda's help Haridāsa receives the remnants of the Lord's meal —
+> Subheading: With Govinda’s help Haridāsa receives the remnants of the Lord’s meal —
 
 ## 202
 
-> Subheading: Govinda receives the Lord's remnants last of all —
+> Subheading: Govinda receives the Lord’s remnants last of all —
 
 ## 203
 
@@ -752,13 +752,13 @@ On the playful quarrel of the two, see Madhya 3.93–101.
 
 ## 205
 
-> Subheading: After fifteen days people see the Lord to their hearts' content —
+> Subheading: After fifteen days people see the Lord to their hearts’ content —
 
-After the Snāna-yātrā on the full moon, for fifteen days the Deity of Śrī Jagannātha is not a delight to the eyes of those who come for *darśana*. On the day when, after the fortnight of *anavasara*, those longing for *darśana* see Śrī Bhagavān and their eyes find their fulfillment — that first *darśana* after the fortnight of separation is called the “Netrotsava” (“festival of the eyes”).
+After the Snāna-yātrā on the full moon, for fifteen days the Deity of Śrī Jagannātha is not a delight to the eyes of those who come for *darśana*. On the day when, after the fortnight of *anavasara*, those longing for *darśana* see Śrī Bhagavān and their eyes find their fulfilment — that first *darśana* after the fortnight of separation is called the “Netrotsava” (“festival of the eyes”).
 
 ## 206
 
-> Subheading: The Lord goes with the devotees for Jagannātha's *darśana* —
+> Subheading: The Lord goes with the devotees for Jagannātha’s *darśana* —
 
 ## 207
 
@@ -780,11 +780,11 @@ After the Snāna-yātrā on the full moon, for fifteen days the Deity of Śrī J
 
 ## 211
 
-> Subheading: The Lord, absorbed in Rādhā's *bhāva*, gazes at Kṛṣṇa's face with unblinking eyes —
+> Subheading: The Lord, absorbed in Rādhā’s *bhāva*, gazes at Kṛṣṇa’s face with unblinking eyes —
 
 ## 210–211
 
-Śrī Mahāprabhu always took *darśana* of Śrī Jagannātha from the edge of the Jagamohana, from behind the Garuḍa pillar. But for a fortnight He had not had *darśana*, and under the force of intense separation (*vipralambha*) He passed beyond the Jagamohana, went into the *bhoga-maṇḍapa* and gazed at the holy face. Coming very close to the object of worship is what is to be understood as transgressing the *maryādā*. A bee tormented by thirst strives with all its might for the honey of a flower. So the Lord's two eyes are likened to two bees, and Jagannātha's holy face to a lotus flower. Seized by deep thirst, the Lord drank, as it were, by gazing at Kṛṣṇa's lotus face, and this revealed His boundless thirst.
+Śrī Mahāprabhu always took *darśana* of Śrī Jagannātha from the edge of the Jagamohana, from behind the Garuḍa pillar. But for a fortnight He had not had *darśana*, and under the force of intense separation (*vipralambha*) He passed beyond the Jagamohana, went into the *bhoga-maṇḍapa* and gazed at the holy face. Coming very close to the object of worship is what is to be understood as transgressing the *maryādā*. A bee tormented by thirst strives with all its might for the honey of a flower. So the Lord’s two eyes are likened to two bees, and Jagannātha’s holy face to a lotus flower. Seized by deep thirst, the Lord drank, as it were, by gazing at Kṛṣṇa’s lotus face, and this revealed His boundless thirst.
 
 ## 212
 
@@ -792,11 +792,11 @@ After the Snāna-yātrā on the full moon, for fifteen days the Deity of Śrī J
 
 ## 213
 
-*Bāndhulī*: here a red flower of that kind is to be understood; *suraṅga*: the color of vermilion (*hiṅgula*).
+*Bāndhulī*: here a red flower of that kind is to be understood; *suraṅga*: the colour of vermilion (*hiṅgula*).
 
 ## 215
 
-The longer Śrī Mahāprabhu gazed at the holy face, the more His thirst to see it grew. Between the Lord's eyes and Kṛṣṇa's lotus face there remained no difference and no barrier.
+The longer Śrī Mahāprabhu gazed at the holy face, the more His thirst to see it grew. Between the Lord’s eyes and Kṛṣṇa’s lotus face there remained no difference and no barrier.
 
 ## 212–215
 
@@ -814,7 +814,7 @@ On the sweetness of the Śrī Vigraha, Śrī Rūpa Prabhu writes in the *Śrī L
 
 ## 218
 
-> Subheading: The Lord's *darśana* and *kīrtana* during the offering of *bhoga* —
+> Subheading: The Lord’s *darśana* and *kīrtana* during the offering of *bhoga* —
 
 ## 219
 

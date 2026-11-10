@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** Sanātana Gosvāmī was held in prison in Gauḍa when Rūpa Gosvāmī wrote to him: “Mahāprabhu has gone to Mathurā.” With sweet words and a gift of seven thousand coins Sanātana won over the jailer, crossed the Gaṅgā and fled. His companion Īśāna carried eight gold coins, and the *bhaumika* (landholder) of the Pātaḍā hills received Sanātana as a guest, hoping to kill them and take the coins. By questioning Īśāna, Sanātana learned that he had gold coins with him. Knowing those coins to be a source of calamity (*anartha*), he gave them to the *bhūñā* and crossed the hill country. Once over the hills, he sent Īśāna back home. When Sanātana reached Hājipura, his sister's husband Śrīkānta, a royal official, saw him, heard the whole story and took him across the Gaṅgā. Walking on and on, Sanātana came to Kāśī and arrived at Candraśekhara's door. Mahāprabhu called him in and, showing him mercy, told him to change his dress and shave (*bhadra*). When Sanātana came back shaven, he put on an old cloth given by Tapana Miśra, making of it a *kaupīna* and an outer garment. He exchanged the woollen Bhoṭa blanket he carried for a torn quilt (*kāṅthā*) from the bank of the Gaṅgā, and so gave the Lord joy. Staying there, Sanātana asked Mahāprabhu about the truth. First the Lord explained to him the “true nature (*svarūpa*) of the *jīva*” and “Kṛṣṇa's potency.” Then He taught him knowledge of *sambandha* (relationship with the Lord) and explained devotion, which is the *abhidheya* (the means). In considering Kṛṣṇa's *svarūpa*, He explained Brahman, Paramātmā and Bhagavān; He spoke of the *svayaṁ-rūpa*, the *tad-ekātma-rūpa* and the *āveśa*, and within them, in the order of *vaibhava-* and *prābhava-vilāsa* and the rest, of the different forms of Bhagavān. After that He explained the manifestation of *māyā* (*māyā-vaibhava*) of the *puruṣa-avatāras*, the *manvantara-avatāras*, the *guṇa-avatāras*, the *śaktyāveśa-avatāras*, the pastimes that differ by age — childhood (*bālya*) and boyhood (*paugaṇḍa*) — and the eternity of the pastimes of youth (*kaiśora*).
+**Summary.** Sanātana Gosvāmī was held in prison in Gauḍa when Rūpa Gosvāmī wrote to him: “Mahāprabhu has gone to Mathurā.” With sweet words and a gift of seven thousand coins Sanātana won over the jailer, crossed the Gaṅgā and fled. His companion Īśāna carried eight gold coins, and the *bhaumika* (landholder) of the Pātaḍā hills received Sanātana as a guest, hoping to kill them and take the coins. By questioning Īśāna, Sanātana learned that he had gold coins with him. Knowing those coins to be a source of calamity (*anartha*), he gave them to the *bhūñā* and crossed the hill country. Once over the hills, he sent Īśāna back home. When Sanātana reached Hājipura, his sister’s husband Śrīkānta, a royal official, saw him, heard the whole story and took him across the Gaṅgā. Walking on and on, Sanātana came to Kāśī and arrived at Candraśekhara’s door. Mahāprabhu called him in and, showing him mercy, told him to change his dress and shave (*bhadra*). When Sanātana came back shaven, he put on an old cloth given by Tapana Miśra, making of it a *kaupīna* and an outer garment. He exchanged the woollen Bhoṭa blanket he carried for a torn quilt (*kāṅthā*) from the bank of the Gaṅgā, and so gave the Lord joy. Staying there, Sanātana asked Mahāprabhu about the truth. First the Lord explained to him the “true nature (*svarūpa*) of the *jīva*” and “Kṛṣṇa’s potency.” Then He taught him knowledge of *sambandha* (relationship with the Lord) and explained devotion, which is the *abhidheya* (the means). In considering Kṛṣṇa’s *svarūpa*, He explained Brahman, Paramātmā and Bhagavān; He spoke of the *svayaṁ-rūpa*, the *tad-ekātma-rūpa* and the *āveśa*, and within them, in the order of *vaibhava-* and *prābhava-vilāsa* and the rest, of the different forms of Bhagavān. After that He explained the manifestation of *māyā* (*māyā-vaibhava*) of the *puruṣa-avatāras*, the *manvantara-avatāras*, the *guṇa-avatāras*, the *śaktyāveśa-avatāras*, the pastimes that differ by age — childhood (*bālya*) and boyhood (*paugaṇḍa*) — and the eternity of the pastimes of youth (*kaiśora*).
 
 ## 1
 
@@ -10,7 +10,7 @@ I bow down to Śrī Caitanya Mahāprabhu, who possesses unlimited and wondrous o
 
 ## 3
 
-*Patrī* (letter). The commentator on the book *Udbhaṭa-candrikā* writes that Śrī Rūpa wrote the following *śloka* in Bākalā and sent it to Sanātana in the prison of Gauḍa. Since the *śloka* hints that Mahāprabhu had gone to Mathurā, it can be trusted as Rūpa Gosvāmī's letter: “Where now is Mathurā, the city of the Lord of the Yadus? Where is Uttara-Kośalā of the Lord of the Raghus? Reflecting on this, make your mind steady and know for certain that this world is not lasting.”
+*Patrī* (letter). The commentator on the book *Udbhaṭa-candrikā* writes that Śrī Rūpa wrote the following *śloka* in Bākalā and sent it to Sanātana in the prison of Gauḍa. Since the *śloka* hints that Mahāprabhu had gone to Mathurā, it can be trusted as Rūpa Gosvāmī’s letter: “Where now is Mathurā, the city of the Lord of the Yadus? Where is Uttara-Kośalā of the Lord of the Raghus? Reflecting on this, make your mind steady and know for certain that this world is not lasting.”
 
 ## 5
 
@@ -26,7 +26,7 @@ Hājipura lies opposite Patna, across the river, where the river Gaṅgā meets 
 
 ## 59
 
-I consider even a *śva-paca* (dog-eater) whose mind, words, endeavours, wealth and life are offered to Kṛṣṇa to be better than a *brāhmaṇa* who has twelve qualities but is averse to Kṛṣṇa's lotus feet. For he — the devotee born in a family of *śva-pacas* — purifies his own family, whereas the *brāhmaṇa* swollen with pride cannot do so.
+I consider even a *śva-paca* (dog-eater) whose mind, words, endeavours, wealth and life are offered to Kṛṣṇa to be better than a *brāhmaṇa* who has twelve qualities but is averse to Kṛṣṇa’s lotus feet. For he — the devotee born in a family of *śva-pacas* — purifies his own family, whereas the *brāhmaṇa* swollen with pride cannot do so.
 
 ## 61
 
@@ -38,7 +38,7 @@ O Vaiṣṇava, the fruit of the eyes is to see a person like you; the fruit of 
 
 ## 97
 
-Bhagavān mercifully instructed Sanātana in the truth — in the sweetness (*mādhurya*) of Śrī Kṛṣṇa's own form, in the majesty (*aiśvarya*) of that form, and in the shelter of *bhakti-rasa*.
+Bhagavān mercifully instructed Sanātana in the truth — in the sweetness (*mādhurya*) of Śrī Kṛṣṇa’s own form, in the majesty (*aiśvarya*) of that form, and in the shelter of *bhakti-rasa*.
 
 ## 102–103
 
@@ -50,7 +50,7 @@ Those who are firmly resolved to awaken the true *dharma* within themselves soon
 
 ## 108–109
 
-In answer to the question “Who am I?” Mahāprabhu says: “You are a *jīva*. Are you this body born of matter? No. Or are you, perhaps, the subtle body (*liṅga-śarīra*) made of mind, intelligence and false ego? No, not that either. By your intrinsic nature you are Kṛṣṇa's eternal servant. You are Kṛṣṇa's marginal potency (*taṭastha-śakti*): you stand on the boundary between Kṛṣṇa's spiritual world and the world of *māyā*, and you are related to both worlds; that is why you are the marginal potency. Your relationship with Kṛṣṇa is twofold: you are His manifestation both different and nondifferent from Him (*bhedābheda-prakāśa*). In your spiritual nature you are a nondifferent manifestation of Kṛṣṇa; and because you are an atomic consciousness (*aṇu-caitanya*), you are a different manifestation of Kṛṣṇa, who is the great consciousness (*bṛhat-caitanya*). Difference and nondifference (between you and Kṛṣṇa) hold at the same time.” This simultaneous manifestation of difference and nondifference follows from the *jīva's* marginal nature itself. The *jīva* is a ray, a particle, of Kṛṣṇa, who is like the sun; or again, the mass of sparks from a blazing fire also illustrates the *jīvas*.
+In answer to the question “Who am I?” Mahāprabhu says: “You are a *jīva*. Are you this body born of matter? No. Or are you, perhaps, the subtle body (*liṅga-śarīra*) made of mind, intelligence and false ego? No, not that either. By your intrinsic nature you are Kṛṣṇa’s eternal servant. You are Kṛṣṇa’s marginal potency (*taṭastha-śakti*): you stand on the boundary between Kṛṣṇa’s spiritual world and the world of *māyā*, and you are related to both worlds; that is why you are the marginal potency. Your relationship with Kṛṣṇa is twofold: you are His manifestation both different and nondifferent from Him (*bhedābheda-prakāśa*). In your spiritual nature you are a nondifferent manifestation of Kṛṣṇa; and because you are an atomic consciousness (*aṇu-caitanya*), you are a different manifestation of Kṛṣṇa, who is the great consciousness (*bṛhat-caitanya*). Difference and nondifference (between you and Kṛṣṇa) hold at the same time.” This simultaneous manifestation of difference and nondifference follows from the *jīva’s* marginal nature itself. The *jīva* is a ray, a particle, of Kṛṣṇa, who is like the sun; or again, the mass of sparks from a blazing fire also illustrates the *jīvas*.
 
 ## 110
 
@@ -62,7 +62,7 @@ The potencies of all that exists, which only inconceivable knowledge can grasp, 
 
 ## 117
 
-The *jīva* falls into the bondage of *māyā* precisely by forgetting, “I am Kṛṣṇa's eternal servant.” The *jīva*, being the marginal potency, is situated where the spiritual world and the world of *māyā* meet; while there, he desired to enjoy *māyā*, and so he entered *māyā*. The reckoning of māyic time begins only from this entry into *māyā*. Since the *jīva* turned away from Kṛṣṇa before that reckoning of time began, his aversion is called “beginningless”: it arose before māyic time.
+The *jīva* falls into the bondage of *māyā* precisely by forgetting, “I am Kṛṣṇa’s eternal servant.” The *jīva*, being the marginal potency, is situated where the spiritual world and the world of *māyā* meet; while there, he desired to enjoy *māyā*, and so he entered *māyā*. The reckoning of māyic time begins only from this entry into *māyā*. Since the *jīva* turned away from Kṛṣṇa before that reckoning of time began, his aversion is called “beginningless”: it arose before māyic time.
 
 ## 119
 
@@ -70,7 +70,7 @@ Because the *jīva* is absorbed in *māyā*, which is other than Kṛṣṇa, �
 
 ## 120
 
-That the *jīva* fell because he turned away from Kṛṣṇa is learned by the mercy of the *sādhus* and the scriptures. The *jīva* who learns this and turns toward Kṛṣṇa again is delivered, and *māyā* leaves him.
+That the *jīva* fell because he turned away from Kṛṣṇa is learned by the mercy of the *sādhus* and the scriptures. The *jīva* who learns this and turns towards Kṛṣṇa again is delivered, and *māyā* leaves him.
 
 ## 121
 
@@ -86,7 +86,7 @@ When the *jīva* turned away from Kṛṣṇa and gradually lost the memory of h
 
 ## 135
 
-The Vedas and Purāṇas speak in many places of many kinds of means. On one side is the *karma-kāṇḍa*, like hornets and wasps (*bhīmarula-barulī*); on another, the *jñāna-kāṇḍa*, like a *yakṣa*; on another, *kaivalya* attained by *yoga*, like a black python; and on yet another, a pot of hidden treasure that comes into one's hands with little effort. Therefore the Vedic scriptures say that Kṛṣṇa is attained only on the path of devotion, by giving up *karma*, *jñāna* and *yoga*.
+The Vedas and Purāṇas speak in many places of many kinds of means. On one side is the *karma-kāṇḍa*, like hornets and wasps (*bhīmarula-barulī*); on another, the *jñāna-kāṇḍa*, like a *yakṣa*; on another, *kaivalya* attained by *yoga*, like a black python; and on yet another, a pot of hidden treasure that comes into one’s hands with little effort. Therefore the Vedic scriptures say that Kṛṣṇa is attained only on the path of devotion, by giving up *karma*, *jñāna* and *yoga*.
 
 ## 138
 
@@ -94,7 +94,7 @@ I, who am dear to the *sādhus*, am attained only by devotion born of exclusive 
 
 ## 142
 
-The chief fruit of tasting service to Kṛṣṇa is the happiness of love. The *jīva's* poverty is his aversion to Kṛṣṇa. The end of this poverty and the end of *saṁsāra* come along with the taste of service to Kṛṣṇa as by-products; in truth they are not the chief fruit.
+The chief fruit of tasting service to Kṛṣṇa is the happiness of love. The *jīva’s* poverty is his aversion to Kṛṣṇa. The end of this poverty and the end of *saṁsāra* come along with the taste of service to Kṛṣṇa as by-products; in truth they are not the chief fruit.
 
 ## 145
 
@@ -122,7 +122,7 @@ Know this Śrī Kṛṣṇa to be the Self of all selves. Wishing the good of th
 
 ## 164–165
 
-When one worships Bhagavān in *bhakti*, one experiences His full form: in that one eternal form (*vigraha*) countless forms shine forth. First of all Bhagavān is seen in three forms: *svayaṁ-rūpa*, *tad-ekātma-rūpa* and *āveśa-rūpa*. In the *svayaṁ-rūpa* He appears in two ways, as *svayam* and *prakāśa*; of these, in the *svayaṁ-rūpa* Śrī Kṛṣṇa appears in Vraja in the form of a cowherd boy. According to the *Bhāgavatāmṛta*, the *svayaṁ-rūpa* is Kṛṣṇa's cowherd form, because it depends on no other form of His. That form of His which is nondifferent from the *svayaṁ-rūpa* but differs in shape, opulence and so on is called *tad-ekātma-rūpa*. And the *jīvas* whom Bhagavān's potency enters and who perform great works are Bhagavān's *āveśa* forms.
+When one worships Bhagavān in *bhakti*, one experiences His full form: in that one eternal form (*vigraha*) countless forms shine forth. First of all Bhagavān is seen in three forms: *svayaṁ-rūpa*, *tad-ekātma-rūpa* and *āveśa-rūpa*. In the *svayaṁ-rūpa* He appears in two ways, as *svayam* and *prakāśa*; of these, in the *svayaṁ-rūpa* Śrī Kṛṣṇa appears in Vraja in the form of a cowherd boy. According to the *Bhāgavatāmṛta*, the *svayaṁ-rūpa* is Kṛṣṇa’s cowherd form, because it depends on no other form of His. That form of His which is nondifferent from the *svayaṁ-rūpa* but differs in shape, opulence and so on is called *tad-ekātma-rūpa*. And the *jīvas* whom Bhagavān’s potency enters and who perform great works are Bhagavān’s *āveśa* forms.
 
 ## 169
 
@@ -154,15 +154,15 @@ The four — Vāsudeva and the others — and Nārāyaṇa, Nṛsiṁha, Hayagr�
 
 ## 249
 
-O twice-born, just as thousands upon thousands of small pools flow out of a vast reservoir, so the *avatāras* of Hari, the ocean of goodness (*sattva*), are countless.
+O twice-born, just as thousands upon thousands of small pools flow out of a vast reservoir, so the avatāras of Hari, the ocean of goodness (*sattva*), are countless.
 
 ## 250
 
-Up to the words “That Puruṣa is of three kinds,” Kṛṣṇa's many forms have been examined. Now Kṛṣṇa's potencies will be examined.
+Up to the words “That Puruṣa is of three kinds,” Kṛṣṇa’s many forms have been examined. Now Kṛṣṇa’s potencies will be examined.
 
 ## 252–256
 
-Kṛṣṇa, the nondual Truth, has unlimited potencies; among them, every action bears three distinguishing marks: *icchā-śakti*, *jñāna-śakti* and *kriyā-śakti*. He in whom *icchā-śakti* predominates is “Kṛṣṇa,” by whose will everything takes place. He in whom *jñāna-śakti* predominates is “Vāsudeva,” and He in whom *kriyā-śakti* predominates is “Saṅkarṣaṇa.” These three, with Their three potencies, have created, or manifested, the material and the transcendental worlds. “Saṅkarṣaṇa,” the presiding Lord of *ahaṅkāra*, by Kṛṣṇa's will and through the *cit-śakti* has manifested the abodes Goloka, Vaikuṇṭha and the others, the display (*vilāsa*) of the *cit-śakti*.
+Kṛṣṇa, the nondual Truth, has unlimited potencies; among them, every action bears three distinguishing marks: *icchā-śakti*, *jñāna-śakti* and *kriyā-śakti*. He in whom *icchā-śakti* predominates is “Kṛṣṇa,” by whose will everything takes place. He in whom *jñāna-śakti* predominates is “Vāsudeva,” and He in whom *kriyā-śakti* predominates is “Saṅkarṣaṇa.” These three, with Their three potencies, have created, or manifested, the material and the transcendental worlds. “Saṅkarṣaṇa,” the presiding Lord of *ahaṅkāra*, by Kṛṣṇa’s will and through the *cit-śakti* has manifested the abodes Goloka, Vaikuṇṭha and the others, the display (*vilāsa*) of the *cit-śakti*.
 
 ## 258
 
@@ -174,7 +174,7 @@ These two, Rāma and Kṛṣṇa, are the source of the *jīvas* of this world (
 
 ## 270
 
-In that Vaikuṇṭha there is neither *rajas* nor *tamas*, nor *sattva* mixed with them, nor the might of time; even *māyā* is not there — what to speak of the rest. There live the associates, the devotees faithful to Śrī Kṛṣṇa, who are worshiped by gods and *asuras* alike.
+In that Vaikuṇṭha there is neither *rajas* nor *tamas*, nor *sattva* mixed with them, nor the might of time; even *māyā* is not there — what to speak of the rest. There live the associates, the devotees faithful to Śrī Kṛṣṇa, who are worshipped by gods and *asuras* alike.
 
 ## 274
 
@@ -202,7 +202,7 @@ The sun displays its brilliance in small measure in various separate stones. So 
 
 ## 307–308
 
-Taking up *tamo-guṇa* through His own *aṁśa-kalā*, for the sake of destruction He assumes the form of “Rudra” in association with *māyā*. Because of the transformation caused by association with *māyā*, Rudra is a *tattva* manifest as both different and non-different. Therefore He is counted within the *jīva-tattva* and is not Kṛṣṇa's “*svarūpa*.”
+Taking up *tamo-guṇa* through His own *aṁśa-kalā*, for the sake of destruction He assumes the form of “Rudra” in association with *māyā*. Because of the transformation caused by association with *māyā*, Rudra is a *tattva* manifest as both different and non-different. Therefore He is counted within the *jīva-tattva* and is not Kṛṣṇa’s “*svarūpa*.”
 
 ## 310
 
@@ -226,11 +226,11 @@ The flame of a lamp, in another vessel, acts as a separate lamp; that is, it has
 
 ## 318
 
-Brahmā said: “Only by Hari's appointment do I create; by His command Śiva destroys. And this very Hari, the holder of the three *śaktis*, maintains the universe in the form of the Puruṣa.”
+Brahmā said: “Only by Hari’s appointment do I create; by His command Śiva destroys. And this very Hari, the holder of the three *śaktis*, maintains the universe in the form of the Puruṣa.”
 
 ## 320
 
-The *manvantara-avatāras*: in one day of Brahmā there are fourteen *manvantaras*, and in them fourteen avatāras. In one month of Brahmā there are 420, and in one year (of 360 days) 5,040 avatāras; in Brahmā's lifetime, 504,000 *manvantara-avatāras*.
+The *manvantara-avatāras*: in one day of Brahmā there are fourteen *manvantaras*, and in them fourteen avatāras. In one month of Brahmā there are 420, and in one year (of 360 days) 5,040 avatāras; in Brahmā’s lifetime, 504,000 *manvantara-avatāras*.
 
 ## 325
 
@@ -274,7 +274,7 @@ Where Bhagavān enters by a *kalā* of the *jñāna-śakti* and other *śaktis*,
 
 ## 373
 
-Those *jīvas* who are endowed with *vibhūti* and splendor (*śrī*) — know them as born of a portion of My radiance.
+Those *jīvas* who are endowed with *vibhūti* and splendour (*śrī*) — know them as born of a portion of My radiance.
 
 ## 378
 
@@ -290,7 +290,7 @@ Hari who displays few qualities is *pūrṇa* (complete); Hari who displays all 
 
 ## 399
 
-In Gokula Kṛṣṇa's most complete fullness (*pūrṇatamatā*) was manifest, in Dvārakā and Mathurā His greater fullness (*pūrṇataratā*), and in Paravyoma His fullness (*pūrṇatā*).
+In Gokula Kṛṣṇa’s most complete fullness (*pūrṇatamatā*) was manifest, in Dvārakā and Mathurā His greater fullness (*pūrṇataratā*), and in Paravyoma His fullness (*pūrṇatā*).
 
 *Thus ends the twentieth chapter of the “Amṛta-pravāha-bhāṣya.”*
 

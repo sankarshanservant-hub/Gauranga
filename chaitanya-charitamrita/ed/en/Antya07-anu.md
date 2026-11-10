@@ -2,9 +2,9 @@
 
 ## 1
 
-> Subheading: Obeisances to Gaura's devotees, who are touchstones —
+> Subheading: Obeisances to Gaura’s devotees, who are touchstones —
 
-**yeṣām** (of the devotees who have taken shelter at Gaura's feet) **prasāda-mātreṇa** (by a mere particle of mercy) **pāmaraḥ** (a godless person devoid of *bhakti*) **api** **amaraḥ** (possessed of a transcendental body) **bhavet**, (them) **caitanya-caraṇāmbhoja-makaranda-lihaḥ** (the devotees of Gaura who lick the honey of the lotuses that are the feet of Caitanya, Bhagavān Gaura — them I) **bhaje**.
+**yeṣām** (of the devotees who have taken shelter at Gaura’s feet) **prasāda-mātreṇa** (by a mere particle of mercy) **pāmaraḥ** (a godless person devoid of *bhakti*) **api** **amaraḥ** (possessed of a transcendental body) **bhavet**, (them) **caitanya-caraṇāmbhoja-makaranda-lihaḥ** (the devotees of Gaura who lick the honey of the lotuses that are the feet of Caitanya, Bhagavān Gaura — them I) **bhaje**.
 
 ## 3
 
@@ -18,11 +18,11 @@ Vallabha Bhaṭṭa: see the *Anubhāṣya* on Madhya 19.61.
 
 ## 5
 
-> Subheading: The Bhaṭṭa bows to the Lord's feet, and the Lord embraces him, regarding him as a Vaiṣṇava —
+> Subheading: The Bhaṭṭa bows to the Lord’s feet, and the Lord embraces him, regarding him as a Vaiṣṇava —
 
 ## 6
 
-> Subheading: The Bhaṭṭa's humble words —
+> Subheading: The Bhaṭṭa’s humble words —
 
 ## 7
 
@@ -46,19 +46,19 @@ King Parīkṣit, resolved to fast until death (*prāyopaveśa*), asked the asse
 
 ## 11
 
-> Subheading: Only Kṛṣṇa's *svarūpa-śakti* brings forth the ācārya who chants the holy name —
+> Subheading: Only Kṛṣṇa’s *svarūpa-śakti* brings forth the ācārya who chants the holy name —
 
 Śrī Madhva cites the words of the *Śrī Nārāyaṇa-saṁhitā*: “In Dvāpara people worship Viṣṇu by the *Pañcarātras* alone, but in Kali Bhagavān Hari is worshipped by the name alone.”
 
-Without Kṛṣṇa's direct will — the power of His mercy — no human being can become an ācārya, a guru of the world, by the strength of the mind's own functions (*mano-dharma*). On his own he cannot chant the pure name of Kṛṣṇa — transcendental, of Vaikuṇṭha, beyond the senses (*adhokṣaja*), nondifferent from Śrī Kṛṣṇa — and so establish Kṛṣṇa's manifestation in the world. Nor can he cleanse the mirror of the hearts of bound *jīvas*, extinguish the great forest fire of worldly existence, and spread the moonlight that makes the white lotus of the highest good bloom. The ācārya who is devoted solely to chanting the pure name is a manifest form (*prakāśa-vigraha*) nondifferent from Kṛṣṇa, a direct incarnation of Kṛṣṇa's potency, one whom Kṛṣṇa embraces. He is the guru of people of all four *varṇas* and *āśramas*, a *mahā-bhāgavata*, a *paramahaṁsa* Ṭhākura.
+Without Kṛṣṇa’s direct will — the power of His mercy — no human being can become an ācārya, a guru of the world, by the strength of the mind’s own functions (*mano-dharma*). On his own he cannot chant the pure name of Kṛṣṇa — transcendental, of Vaikuṇṭha, beyond the senses (*adhokṣaja*), nondifferent from Śrī Kṛṣṇa — and so establish Kṛṣṇa’s manifestation in the world. Nor can he cleanse the mirror of the hearts of bound *jīvas*, extinguish the great forest fire of worldly existence, and spread the moonlight that makes the white lotus of the highest good bloom. The ācārya who is devoted solely to chanting the pure name is a manifest form (*prakāśa-vigraha*) nondifferent from Kṛṣṇa, a direct incarnation of Kṛṣṇa’s potency, one whom Kṛṣṇa embraces. He is the guru of people of all four *varṇas* and *āśramas*, a *mahā-bhāgavata*, a *paramahaṁsa* Ṭhākura.
 
 ## 12
 
-> Subheading: Because the Lord establishes the chanting of Kṛṣṇa's name, Vallabha knows that He possesses the *svarūpa-śakti* —
+> Subheading: Because the Lord establishes the chanting of Kṛṣṇa’s name, Vallabha knows that He possesses the *svarūpa-śakti* —
 
 ## 13
 
-> Subheading: Whoever sees Gaura, who gives Kṛṣṇa's name to those inclined to serve, awakens to love for Kṛṣṇa —
+> Subheading: Whoever sees Gaura, who gives Kṛṣṇa’s name to those inclined to serve, awakens to love for Kṛṣṇa —
 
 ## 14
 
@@ -72,7 +72,7 @@ See Ādi 3.27.
 
 ## 16
 
-> Subheading: Bhagavān's humility and His pretense —
+> Subheading: Bhagavān’s humility and His pretence —
 
 ## 17
 
@@ -110,7 +110,7 @@ The goals of human life (*puruṣārthas*) are four: *dharma*, *artha*, *kāma* 
 
 ## 26
 
-> Subheading: In *madhura-rasa* there are two kinds of disposition (*vṛtti*): (a) in the cities, one “mixed with majesty”; (b) in Vraja, one that is *kevala*, pure. Yaśodā's son is attained only by the pure disposition of *parakīyā* found in Vraja, not by the *svakīyā* disposition “mixed with majesty” —
+> Subheading: In *madhura-rasa* there are two kinds of disposition (*vṛtti*): (a) in the cities, one “mixed with majesty”; (b) in Vraja, one that is *kevala*, pure. Yaśodā’s son is attained only by the pure disposition of *parakīyā* found in Vraja, not by the *svakīyā* disposition “mixed with majesty” —
 
 *Bhāva* is of two kinds: “joined with the knowledge of majesty” and *kevala*, “pure.” In *bhāva* joined with the knowledge of majesty one cannot know the supreme glory of Vrajendranandana. See Madhya 19.192.
 
@@ -162,19 +162,19 @@ See Madhya 8.77.
 
 > Subheading: The Lord proclaims Rāya as His *śikṣā-guru* —
 
-At this point some manuscripts read: *anargala rasa-vettā prema-sukhānanda* (“the boundless knower of *rasa*, [full of] the bliss of *prema's* joy”).
+At this point some manuscripts read: *anargala rasa-vettā prema-sukhānanda* (“the boundless knower of *rasa*, [full of] the bliss of *prema’s* joy”).
 
 ## 37
 
-> Subheading: Rāmānanda's greatness —
+> Subheading: Rāmānanda’s greatness —
 
 ## 38
 
-> Subheading: (5) The qualities of Svarūpa Dāmodara: he is the embodiment of the *rasa* of *prema* and the knower of the truth and glory of the gopīs, that is, the ācārya of the truth of the *rasa* of Vraja's sweetness —
+> Subheading: (5) The qualities of Svarūpa Dāmodara: he is the embodiment of the *rasa* of *prema* and the knower of the truth and glory of the gopīs, that is, the ācārya of the truth of the *rasa* of Vraja’s sweetness —
 
 ## 39
 
-> Subheading: The glory of the gopīs, who please Kṛṣṇa's senses —
+> Subheading: The glory of the gopīs, who please Kṛṣṇa’s senses —
 
 ## 40
 
@@ -200,17 +200,17 @@ See Ādi 4.180.
 
 ## 44
 
-> Subheading: The pure (*kevala*) *bhāva* of Vraja is supreme; Uddhava's prayer is the proof —
+> Subheading: The pure (*kevala*) *bhāva* of Vraja is supreme; Uddhava’s prayer is the proof —
 
 ## 45
 
-Here another reading cites the verse (*Bhāgavatam* 10.47.61): “Ah! If only I could become any one of the bushes, creepers or herbs in Vṛndāvana that receive the dust of these gopīs' feet! They gave up their kinsmen, so hard to give up, and the path of the noble, and followed the path to Mukunda that the Śrutis seek.”
+Here another reading cites the verse (*Bhāgavatam* 10.47.61): “Ah! If only I could become any one of the bushes, creepers or herbs in Vṛndāvana that receive the dust of these gopīs’ feet! They gave up their kinsmen, so hard to give up, and the path of the noble, and followed the path to Mukunda that the Śrutis seek.”
 
-Sent by Kṛṣṇa, Uddhava came to Vraja and stayed there for some months, delighting the residents of Vraja by chanting the topics of Kṛṣṇa. Yet he saw the anguish of the gopīs' hearts, wholly possessed by Kṛṣṇa and burning in separation from Him. He then recognized their deepest love for Kṛṣṇa, free from any knowledge of majesty, as the ideal, honored it greatly, and in this verse prays for eternal servitude to them:
+Sent by Kṛṣṇa, Uddhava came to Vraja and stayed there for some months, delighting the residents of Vraja by chanting the topics of Kṛṣṇa. Yet he saw the anguish of the gopīs’ hearts, wholly possessed by Kṛṣṇa and burning in separation from Him. He then recognised their deepest love for Kṛṣṇa, free from any knowledge of majesty, as the ideal, honoured it greatly, and in this verse prays for eternal servitude to them:
 
 **yāḥ** (the gopīs, in order to serve Kṛṣṇa) **svajanam** (their own people — husbands, sons and other relatives) **dustyajam** (hard to give up) **ārya-patham** (the path of the *āryas*, that is, their *dharma*, fidelity to a husband) **ca** **hitvā** (having given up) **śrutibhiḥ** (by the Vedas) **vimṛgyām** (to be sought, that is, worshipped) **mukunda-padavīm** (the path to Kṛṣṇa) **bhejuḥ** (followed) — **aho** (a celebration of their good fortune) **vṛndāvane** (in this Vraja) **āsām** (their) **caraṇa-reṇu-juṣām** (receiving the dust of their feet) **gulma-latauṣadhīnām** (among the bushes and the rest — whichever) **kim api** **aham** **syām** (may I become — this is a wish).
 
-They left their kinsmen — husbands, sons and others, so hard to give up — and the path of the *āryas*, and worshipped the lotus feet of Mukunda, whom the Vedas seek. The bushes, creepers and herbs here in Vṛndāvana serve the dust of those gopīs' feet. Ah, if only I (by great good fortune) could become even one of them!
+They left their kinsmen — husbands, sons and others, so hard to give up — and the path of the *āryas*, and worshipped the lotus feet of Mukunda, whom the Vedas seek. The bushes, creepers and herbs here in Vṛndāvana serve the dust of those gopīs’ feet. Ah, if only I (by great good fortune) could become even one of them!
 
 ## 46
 
@@ -226,7 +226,7 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 51
 
-> Subheading: To remove Vallabha's pride, the Lord describes the qualities of devotees far more qualified than he —
+> Subheading: To remove Vallabha’s pride, the Lord describes the qualities of devotees far more qualified than he —
 
 ## 52
 
@@ -234,13 +234,13 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 53
 
-> Subheading: By the Lord's mercy Vallabha's pride is crushed —
+> Subheading: By the Lord’s mercy Vallabha’s pride is crushed —
 
 “Long-standing pride”: a well-nourished, towering self-conceit.
 
 ## 54
 
-> Subheading: The wish to see the Vaiṣṇavas, Gaura's devotees, of whom he had heard from the Lord's lips —
+> Subheading: The wish to see the Vaiṣṇavas, Gaura’s devotees, of whom he had heard from the Lord’s lips —
 
 ## 56
 
@@ -260,7 +260,7 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 60
 
-> Subheading: Beside Gaura's devotees, Vallabha Bhaṭṭa is like a dim firefly before the blazing sun —
+> Subheading: Beside Gaura’s devotees, Vallabha Bhaṭṭa is like a dim firefly before the blazing sun —
 
 ## 61
 
@@ -280,7 +280,7 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 65
 
-> Subheading: Seeing Gaura's devotees, the Bhaṭṭa bows to them —
+> Subheading: Seeing Gaura’s devotees, the Bhaṭṭa bows to them —
 
 ## 66
 
@@ -296,7 +296,7 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 69
 
-> Subheading: After the rinsing of hands and mouth, the Bhaṭṭa honors everyone —
+> Subheading: After the rinsing of hands and mouth, the Bhaṭṭa honours everyone —
 
 ## 70
 
@@ -316,15 +316,15 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 74
 
-> Subheading: Vallabha's amazement and boundless joy —
+> Subheading: Vallabha’s amazement and boundless joy —
 
 ## 75
 
-> Subheading: When the dancing and *kīrtana* end, Vallabha is amazed to see the splendor of the Lord's *prema* —
+> Subheading: When the dancing and *kīrtana* end, Vallabha is amazed to see the splendour of the Lord’s *prema* —
 
 ## 76
 
-> Subheading: Vallabha's request to the Lord —
+> Subheading: Vallabha’s request to the Lord —
 
 ## 77
 
@@ -332,7 +332,7 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 78
 
-> Subheading: Regarding Himself as unqualified, the Lord speaks humbly and with pretense; without the aim of pleasing Kṛṣṇa and His own (*kārṣṇa*), the meaning of the *Bhāgavatam* cannot be grasped by worldly learning and erudition —
+> Subheading: Regarding Himself as unqualified, the Lord speaks humbly and with pretence; without the aim of pleasing Kṛṣṇa and His own (*kārṣṇa*), the meaning of the *Bhāgavatam* cannot be grasped by worldly learning and erudition —
 
 ## 79
 
@@ -348,9 +348,9 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 82
 
-> Subheading: The *rūḍhi* meaning of the name “Kṛṣṇa” — (a verse from Śrī Lakṣmīdhara's *Nāma-kaumudī*, quoted in the *Kṛṣṇa-sandarbha*)
+> Subheading: The *rūḍhi* meaning of the name “Kṛṣṇa” — (a verse from Śrī Lakṣmīdhara’s *Nāma-kaumudī*, quoted in the *Kṛṣṇa-sandarbha*)
 
-**tamāla-śyāmala-tviṣi** (in Him whose luster is dark like the *tamāla* tree) **śrī-yaśodā-stanan-dhaye** (in the infant who sucks at Śrī Yaśodā's breast) **kṛṣṇa-nāmnaḥ** (of the name “Kṛṣṇa”) **rūḍhiḥ** (the principal, accepted meaning) **iti** **sarva-śāstra-vinirṇayaḥ** (the verdict of all scriptures, that is, the conclusion of all scriptures).
+**tamāla-śyāmala-tviṣi** (in Him whose lustre is dark like the *tamāla* tree) **śrī-yaśodā-stanan-dhaye** (in the infant who sucks at Śrī Yaśodā’s breast) **kṛṣṇa-nāmnaḥ** (of the name “Kṛṣṇa”) **rūḍhiḥ** (the principal, accepted meaning) **iti** **sarva-śāstra-vinirṇayaḥ** (the verdict of all scriptures, that is, the conclusion of all scriptures).
 
 *Rūḍhi* is the power of a word to convey the meaning of the word as a whole, without depending on the meanings of root and suffix.
 
@@ -360,7 +360,7 @@ They left their kinsmen — husbands, sons and others, so hard to give up — an
 
 ## 84
 
-> Subheading: Explanations of Kṛṣṇa's name and of the *Bhāgavatam*, which is nondifferent from Kṛṣṇa, produced by worldly learning, intellect or talent for one's own pleasure, give Kṛṣṇa no pleasure; therefore the Lord rejects them with distaste —
+> Subheading: Explanations of Kṛṣṇa’s name and of the *Bhāgavatam*, which is nondifferent from Kṛṣṇa, produced by worldly learning, intellect or talent for one’s own pleasure, give Kṛṣṇa no pleasure; therefore the Lord rejects them with distaste —
 
 Other readings have *phalgu valgu-prāya* and *phalgu valgana-prāya*. *Phalgu* means worthless; *valgana*, or *valgu*, means verbal bombast.
 
@@ -368,21 +368,21 @@ Other readings have *phalgu valgu-prāya* and *phalgu valgana-prāya*. *Phalgu* 
 
 > Subheading: The Bhaṭṭa leaves with a heavy heart; because his pride was humbled, his devotion to the Lord weakens —
 
-His deep devotion to Śrī Mahāprabhu's lotus feet diminished.
+His deep devotion to Śrī Mahāprabhu’s lotus feet diminished.
 
 ## 86
 
-> Subheading: He begins to court Śrī Gadādhara's favor —
+> Subheading: He begins to court Śrī Gadādhara’s favour —
 
 Paṇḍita Gosāñi: Śrī Gadādhara Paṇḍita Gosvāmī.
 
 ## 87
 
-> Subheading: Because the Lord disregarded the Bhaṭṭa's explanations, the devotees look on them with distaste —
+> Subheading: Because the Lord disregarded the Bhaṭṭa’s explanations, the devotees look on them with distaste —
 
 ## 88
 
-> Subheading: The Bhaṭṭa's shame; he courts Gadādhara's favor —
+> Subheading: The Bhaṭṭa’s shame; he courts Gadādhara’s favour —
 
 ## 89
 
@@ -390,35 +390,35 @@ Paṇḍita Gosāñi: Śrī Gadādhara Paṇḍita Gosvāmī.
 
 ## 90
 
-> Subheading: He asks Gadādhara to hear his explanation of Kṛṣṇa's name —
+> Subheading: He asks Gadādhara to hear his explanation of Kṛṣṇa’s name —
 
 ## 91
 
-> Subheading: Gadādhara's dilemma —
+> Subheading: Gadādhara’s dilemma —
 
 Śrī Mahāprabhu has disregarded Vallabha Bhaṭṭa. And if I listen to his writings explaining the name, it will grieve Him[^91-1]. Which of the two sides should I protect? Thinking this, Paṇḍita Gosvāmī was caught in a dilemma.
 
 ## 92
 
-> Subheading: At first Gadādhara does not agree to hear Vallabha's explanation, but the Bhaṭṭa insists —
+> Subheading: At first Gadādhara does not agree to hear Vallabha’s explanation, but the Bhaṭṭa insists —
 
-Paṇḍita Gosvāmī did not openly express any wish to hear Vallabha's composition. Yet Vallabha imagined a bond of friendship between them and, though the Paṇḍita did not want it, began to read it to him.
+Paṇḍita Gosvāmī did not openly express any wish to hear Vallabha’s composition. Yet Vallabha imagined a bond of friendship between them and, though the Paṇḍita did not want it, began to read it to him.
 
 ## 93
 
-> Subheading: Gadādhara, who honors others and does not wish to trouble anyone, is caught between two fires and begs Kṛṣṇa for mercy —
+> Subheading: Gadādhara, who honours others and does not wish to trouble anyone, is caught between two fires and begs Kṛṣṇa for mercy —
 
-**Ābhijātye**[^93-1] — (1) out of embarrassment; (2) because Vallabha's learning was not utterly hostile to *bhakti*; (3) for the sake of the respect society expects.
+**Ābhijātye**[^93-1] — (1) out of embarrassment; (2) because Vallabha’s learning was not utterly hostile to *bhakti*; (3) for the sake of the respect society expects.
 
 ## 94
 
-> Subheading: At heart the Paṇḍita did not wish it, yet out of regard for the Bhaṭṭa's dignity he listened to the commentary the Lord had disregarded. He therefore trusts the judgment of the Lord, the indwelling Lord, but fears His associates —
+> Subheading: At heart the Paṇḍita did not wish it, yet out of regard for the Bhaṭṭa’s dignity he listened to the commentary the Lord had disregarded. He therefore trusts the judgement of the Lord, the indwelling Lord, but fears His associates —
 
-Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhagavān Gaurasundara knew the position Gadādhara Paṇḍita Gosvāmī was in and how he was compelled to deal with Vallabha. The Paṇḍita therefore had no fear of incurring Mahāprabhu's displeasure. What he feared was something else: that some of the Vaiṣṇavas who had taken shelter of Mahāprabhu, learning all that had gone on, might call Paṇḍita Gosvāmī “Vallabha's companion” and speak out against him.
+Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone’s heart. Bhagavān Gaurasundara knew the position Gadādhara Paṇḍita Gosvāmī was in and how he was compelled to deal with Vallabha. The Paṇḍita therefore had no fear of incurring Mahāprabhu’s displeasure. What he feared was something else: that some of the Vaiṣṇavas who had taken shelter of Mahāprabhu, learning all that had gone on, might call Paṇḍita Gosvāmī “Vallabha’s companion” and speak out against him.
 
 ## 95
 
-> Subheading: Listening to Vallabha's commentary was no offense, yet the Lord's associates pick a loving quarrel (*praṇaya-kalaha*) with the Paṇḍita —
+> Subheading: Listening to Vallabha’s commentary was no offence, yet the Lord’s associates pick a loving quarrel (*praṇaya-kalaha*) with the Paṇḍita —
 
 ## 96
 
@@ -428,11 +428,11 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 
 ## 97
 
-> Subheading: Advaita Ācārya refutes all of Vallabha's conclusions that oppose *bhakti* —
+> Subheading: Advaita Ācārya refutes all of Vallabha’s conclusions that oppose *bhakti* —
 
 ## 98
 
-> Subheading: Among Gaura's devotees the Bhaṭṭa is like a heron among swans —
+> Subheading: Among Gaura’s devotees the Bhaṭṭa is like a heron among swans —
 
 ## 99
 
@@ -444,11 +444,11 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 
 ## 102
 
-> Subheading: To show Vallabha mercy and reveal his eternal good, the Lord gives a sharp, stern, yet true answer: the *jīva*, who is *prakṛti*, is enjoined always to utter Kṛṣṇa's name by the order of Kṛṣṇa Himself, her husband —
+> Subheading: To show Vallabha mercy and reveal his eternal good, the Lord gives a sharp, stern, yet true answer: the *jīva*, who is *prakṛti*, is enjoined always to utter Kṛṣṇa’s name by the order of Kṛṣṇa Himself, her husband —
 
 ## 104
 
-> Subheading: In one who utters the name of Kṛṣṇa, the husband, love for Kṛṣṇa's feet awakens —
+> Subheading: In one who utters the name of Kṛṣṇa, the husband, love for Kṛṣṇa’s feet awakens —
 
 ## 105
 
@@ -458,7 +458,7 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 
 > Subheading: Vallabha, who holds prestige (*pratiṣṭhā*) dear, imagines a future victory and dreams happily —
 
-**Kakṣā-pāta**: *kakṣā* (rivalry) + *pāta* (destruction) — defeat. **Upare haya** — prevails, having refuted everyone else's statements.
+**Kakṣā-pāta**: *kakṣā* (rivalry) + *pāta* (destruction) — defeat. **Upare haya** — prevails, having refuted everyone else’s statements.
 
 ## 108
 
@@ -470,11 +470,11 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 
 ## 111
 
-> Subheading: The Lord upholds the commentary of Śrī Śrīdhara Svāmipāda, “the sole guardian of *bhakti*,” as favorable to *bhakti*. Only Śrīdhara acknowledges Viṣṇu, the one Spirit, as the Master (*svāmī*), that is, he harmonizes everything with spirit (*cit-samanvaya*); only Śrīdhara's opponent is wanton (*svairatā*), for he upholds a mixture of spirit and matter —
+> Subheading: The Lord upholds the commentary of Śrī Śrīdhara Svāmipāda, “the sole guardian of *bhakti*,” as favourable to *bhakti*. Only Śrīdhara acknowledges Viṣṇu, the one Spirit, as the Master (*svāmī*), that is, he harmonises everything with spirit (*cit-samanvaya*); only Śrīdhara’s opponent is wanton (*svairatā*), for he upholds a mixture of spirit and matter —
 
 ## 112
 
-> Subheading: The Lord's words delight all the devotees —
+> Subheading: The Lord’s words delight all the devotees —
 
 ## 113
 
@@ -484,19 +484,19 @@ Bhagavān Śrī Mahāprabhu Himself knows the feelings in everyone's heart. Bhag
 
 > Subheading: By disregard alone the Lord, who is beyond the senses (*adhokṣaja*), showers mercy on a proud man who relies on knowledge born of the senses and opposes the sole guardian of *bhakti*: He frees him from ignorance —
 
-In place of the worship of Indra, who is other than Kṛṣṇa, Kṛṣṇa introduced in Vraja the worship of Girirāja Govardhana. Then, lifting Govardhana, He protected Gokula, which was being flooded by the rain of the angry Indra, a worldly being of bewildered mind. Thus Indra's material pride was broken and crushed.
+In place of the worship of Indra, who is other than Kṛṣṇa, Kṛṣṇa introduced in Vraja the worship of Girirāja Govardhana. Then, lifting Govardhana, He protected Gokula, which was being flooded by the rain of the angry Indra, a worldly being of bewildered mind. Thus Indra’s material pride was broken and crushed.
 
 ## 115
 
-> Subheading: One who relies on sense-born knowledge and lies in the grip of ignorance takes the pleasant (*preyas*) for the good (*śreyas*); and the Lord's mercy, which leads to the highest good (*niḥśreyasa*) but goes against the mind, he regards as misfortune and suffering —
+> Subheading: One who relies on sense-born knowledge and lies in the grip of ignorance takes the pleasant (*preyas*) for the good (*śreyas*); and the Lord’s mercy, which leads to the highest good (*niḥśreyasa*) but goes against the mind, he regards as misfortune and suffering —
 
 ## 116
 
-> Subheading: At night the Bhaṭṭa remembers the Lord's former mercy toward him —
+> Subheading: At night the Bhaṭṭa remembers the Lord’s former mercy towards him —
 
 ## 118
 
-> Subheading: It is the Lord's nature to bring eternal good to all *jīvas* —
+> Subheading: It is the Lord’s nature to bring eternal good to all *jīvas* —
 
 ## 119
 
@@ -504,17 +504,17 @@ In place of the worship of Indra, who is other than Kṛṣṇa, Kṛṣṇa int
 
 ## 120
 
-> Subheading: Intelligent is one who sees the Lord's grace in the fruits of karma that are painful at first but auspicious in the end —
+> Subheading: Intelligent is one who sees the Lord’s grace in the fruits of karma that are painful at first but auspicious in the end —
 
 ## 121
 
-> Subheading: The next morning Vallabha takes shelter at the Lord's feet —
+> Subheading: The next morning Vallabha takes shelter at the Lord’s feet —
 
 ## 122
 
-> Subheading: Vallabha's distress, humility and words of repentance —
+> Subheading: Vallabha’s distress, humility and words of repentance —
 
-There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakāśiluṅ* (“before You I displayed a fool's learning”) and *tomāra āge mūrkha hañā pāṇḍitya prakāśiluṅ* (“having become a fool before You, I displayed learning”). **Mūrkha-pāṇḍitya** — a fool's cleverness.
+There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakāśiluṅ* (“before You I displayed a fool’s learning”) and *tomāra āge mūrkha hañā pāṇḍitya prakāśiluṅ* (“having become a fool before You, I displayed learning”). **Mūrkha-pāṇḍitya** — a fool’s cleverness.
 
 ## 123
 
@@ -522,19 +522,19 @@ There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakā�
 
 ## 124
 
-> Subheading: The example of Indra's folly: he took the Lord's mercy, painful at first but bringing eternal good, for harm —
+> Subheading: The example of Indra’s folly: he took the Lord’s mercy, painful at first but bringing eternal good, for harm —
 
 ## 125
 
-> Subheading: The salve of the Lord's mercy cures the blindness caused by the darkness of false ego —
+> Subheading: The salve of the Lord’s mercy cures the blindness caused by the darkness of false ego —
 
 ## 126
 
-> Subheading: Vallabha takes shelter at the Lord's feet and begs forgiveness —
+> Subheading: Vallabha takes shelter at the Lord’s feet and begs forgiveness —
 
 ## 127
 
-> Subheading: The Lord, who gives honor to others, consoles the Bhaṭṭa with praise —
+> Subheading: The Lord, who gives honour to others, consoles the Bhaṭṭa with praise —
 
 ## 128
 
@@ -542,11 +542,11 @@ There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakā�
 
 ## 129
 
-> Subheading: The Lord proclaims the honor due to Śrīdhara —
+> Subheading: The Lord proclaims the honour due to Śrīdhara —
 
 ## 130
 
-> Subheading: Whoever sets himself above Śrīdhara, “the sole guardian of *bhakti*,” distorts the meaning of the *Bhāgavatam* and earns people's censure —
+> Subheading: Whoever sets himself above Śrīdhara, “the sole guardian of *bhakti*,” distorts the meaning of the *Bhāgavatam* and earns people’s censure —
 
 ## 131
 
@@ -558,7 +558,7 @@ There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakā�
 
 ## 133
 
-> Subheading: *Kīrtana* of Kṛṣṇa free of the ten offenses against the holy name leads to Kṛṣṇa's feet —
+> Subheading: *Kīrtana* of Kṛṣṇa free of the ten offences against the holy name leads to Kṛṣṇa’s feet —
 
 ## 134
 
@@ -566,7 +566,7 @@ There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakā�
 
 ## 135
 
-> Subheading: An example of the causeless mercy toward the *jīvas* of the Lord, who purifies the worlds —
+> Subheading: An example of the causeless mercy towards the *jīvas* of the Lord, who purifies the worlds —
 
 ## 136
 
@@ -584,7 +584,7 @@ There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakā�
 
 ## 139
 
-> Subheading: Jagadānanda's loving quarrels with the Lord —
+> Subheading: Jagadānanda’s loving quarrels with the Lord —
 
 ## 140
 
@@ -596,11 +596,11 @@ There are two variant readings: *tomāra āge āmi mūrkha pāṇḍitya prakā�
 
 ## 140–141
 
-In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 117) Śrī Sanātana Prabhu writes: “All the queens, led by the daughter of Bhīṣmaka, together with Satyabhāmā, at once ran up, touched their heads to His feet, praised their husband, imploring Him with words wet with tears, and little by little calmed Him.” Once in Dvārakā Śrī Kṛṣṇa jestingly advised Śrī Rukmiṇī to take another husband endowed with other virtues. Rukmiṇī was frightened and, by her compliant nature (*dakṣiṇa*), fell at His feet. In Gaura's pastimes Jagadānanda Paṇḍita Gosvāmī is contrary (*vāmya*), given to loving quarrels and endowed with Satyabhāmā's mood. Gadādhara Paṇḍita Gosvāmī is compliant like Rukmiṇī: instead of loving quarrels he is apprehensive and always follows the Lord in everything.
+In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 117) Śrī Sanātana Prabhu writes: “All the queens, led by the daughter of Bhīṣmaka, together with Satyabhāmā, at once ran up, touched their heads to His feet, praised their husband, imploring Him with words wet with tears, and little by little calmed Him.” Once in Dvārakā Śrī Kṛṣṇa jestingly advised Śrī Rukmiṇī to take another husband endowed with other virtues. Rukmiṇī was frightened and, by her compliant nature (*dakṣiṇa*), fell at His feet. In Gaura’s pastimes Jagadānanda Paṇḍita Gosvāmī is contrary (*vāmya*), given to loving quarrels and endowed with Satyabhāmā’s mood. Gadādhara Paṇḍita Gosvāmī is compliant like Rukmiṇī: instead of loving quarrels he is apprehensive and always follows the Lord in everything.
 
 ## 142
 
-> Subheading: On the pretext of His affection for Vallabha, the Lord outwardly shows feigned anger and tests Gadādhara's love; Gadādhara is frightened —
+> Subheading: On the pretext of His affection for Vallabha, the Lord outwardly shows feigned anger and tests Gadādhara’s love; Gadādhara is frightened —
 
 ## 143
 
@@ -630,7 +630,7 @@ In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 117) �
 
 ## 149
 
-> Subheading: Vallabha receives the Lord's mercy —
+> Subheading: Vallabha receives the Lord’s mercy —
 
 ## 150
 
@@ -658,17 +658,17 @@ In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 117) �
 
 ## 156
 
-> Subheading: The Lord, conquered by the Paṇḍita's love, embraces and reassures Gadādhara with tender love —
+> Subheading: The Lord, conquered by the Paṇḍita’s love, embraces and reassures Gadādhara with tender love —
 
 ## 157
 
-> Subheading: The Lord Himself describes Gadādhara's incomparable, tender and firm love for Gaura —
+> Subheading: The Lord Himself describes Gadādhara’s incomparable, tender and firm love for Gaura —
 
 **Cālāiluṅ** — I showed anger.
 
 ## 159
 
-> Subheading: The Lord's name “Gadādhara-prāṇanātha” —
+> Subheading: The Lord’s name “Gadādhara-prāṇanātha” —
 
 ## 160
 
@@ -676,11 +676,11 @@ In the *Bṛhad-bhāgavatāmṛta* (*Pūrva-khaṇḍa*, Chapter 7, verse 117) �
 
 ## 161
 
-> Subheading: Every wave of the inconceivable ocean of Caitanya's pastimes fulfills many purposes —
+> Subheading: Every wave of the inconceivable ocean of Caitanya’s pastimes fulfils many purposes —
 
 ## 162
 
-> Subheading: The Lord proclaims (1) the Paṇḍita's love for Gaura; (2) the destruction of Vallabha's pride and his deliverance; (3) that outward disregard for a *jīva* who relies on sense-born knowledge is the mercy shown him by the Lord, who is beyond the senses; and (4) that the *jīva*'s eternal good and intelligence lie in seeing such painful punishment as the Lord's compassion —
+> Subheading: The Lord proclaims (1) the Paṇḍita’s love for Gaura; (2) the destruction of Vallabha’s pride and his deliverance; (3) that outward disregard for a *jīva* who relies on sense-born knowledge is the mercy shown him by the Lord, who is beyond the senses; and (4) that the *jīva*’s eternal good and intelligence lie in seeing such painful punishment as the Lord’s compassion —
 
 ## 164
 

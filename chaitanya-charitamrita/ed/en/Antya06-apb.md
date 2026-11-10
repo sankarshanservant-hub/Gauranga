@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** When intense feelings of love for Kṛṣṇa arose in Mahāprabhu, Svarūpa and Rāmānanda would console Him at length. At this time Raghunātha dāsa arrived. For a long time Raghunātha dāsa had been trying to take shelter at the Lord's feet. When Mahāprabhu, on the pretext of going to Vṛndāvana, came to Śāntipura, Raghunātha prayed to be allowed to take shelter at His feet, but Mahāprabhu instructed him to follow *yukta-vairāgya* (renunciation fit for devotion). Meanwhile a certain *mleccha caudhurī*, hostile to Hiraṇya dāsa, brought the vizier (*ujir*) from Gauḍa, and Hiraṇya dāsa fled. Through Raghunātha dāsa's intelligence the trouble passed. Raghunātha dāsa went to Pāṇihāṭī and, at Nityānanda Prabhu's order, held a festival of *ciḍā* and *dadhi* (flat rice and yogurt). The day after the festival Nityānanda Prabhu mercifully blessed Raghunātha to attain Caitanya's feet. Then at night Śrī Yadunandana Ācārya came to his house — a recipient of Vāsudeva Datta's mercy, and Raghunātha's own guru and family priest (*purohita*). Raghunātha went some distance with him and then ran away alone. By hidden paths he reached Puruṣottama in twelve days and fell at Mahāprabhu's feet. Mahāprabhu gave him the name “Svarūpa's Raghu” and placed him in Svarūpa Gosvāmī's hands. For five days Raghunātha honoured *prasāda*; then for a long time he lived at the Siṁha-dvāra without asking for anything (*ayācaka-vṛtti*)[^0-1], and later he began to beg *mahā-prasāda* at the *chatra* and eat it. Raghunātha's father, hearing the news, sent men and money, but Raghunātha accepted no large sums from them. When Mahāprabhu heard that Raghunātha was begging at the *chatra*, He gave him His own *guñjā* garland and the *govardhana-śilā*. Later Dāsa Gosvāmī began to wash and eat rotten *prasāda* thrown away on the road. Svarūpa and Mahāprabhu were pleased by this, and one day They forcibly tasted that *prasāda* and so showed Raghunātha mercy.
+**Summary.** When intense feelings of love for Kṛṣṇa arose in Mahāprabhu, Svarūpa and Rāmānanda would console Him at length. At this time Raghunātha dāsa arrived. For a long time Raghunātha dāsa had been trying to take shelter at the Lord’s feet. When Mahāprabhu, on the pretext of going to Vṛndāvana, came to Śāntipura, Raghunātha prayed to be allowed to take shelter at His feet, but Mahāprabhu instructed him to follow *yukta-vairāgya* (renunciation fit for devotion). Meanwhile a certain *mleccha caudhurī*, hostile to Hiraṇya dāsa, brought the vizier (*ujir*) from Gauḍa, and Hiraṇya dāsa fled. Through Raghunātha dāsa’s intelligence the trouble passed. Raghunātha dāsa went to Pāṇihāṭī and, at Nityānanda Prabhu’s order, held a festival of *ciḍā* and *dadhi* (flat rice and yogurt). The day after the festival Nityānanda Prabhu mercifully blessed Raghunātha to attain Caitanya’s feet. Then at night Śrī Yadunandana Ācārya came to his house — a recipient of Vāsudeva Datta’s mercy, and Raghunātha’s own guru and family priest (*purohita*). Raghunātha went some distance with him and then ran away alone. By hidden paths he reached Puruṣottama in twelve days and fell at Mahāprabhu’s feet. Mahāprabhu gave him the name “Svarūpa’s Raghu” and placed him in Svarūpa Gosvāmī’s hands. For five days Raghunātha honoured *prasāda*; then for a long time he lived at the Siṁha-dvāra without asking for anything (*ayācaka-vṛtti*)[^0-1], and later he began to beg *mahā-prasāda* at the *chatra* and eat it. Raghunātha’s father, hearing the news, sent men and money, but Raghunātha accepted no large sums from them. When Mahāprabhu heard that Raghunātha was begging at the *chatra*, He gave him His own *guñjā* garland and the *govardhana-śilā*. Later Dāsa Gosvāmī began to wash and eat rotten *prasāda* thrown away on the road. Svarūpa and Mahāprabhu were pleased by this, and one day They forcibly tasted that *prasāda* and so showed Raghunātha mercy.
 
 ## 1
 
@@ -22,7 +22,7 @@ By the power of His mercy He skilfully drew Raghunātha dāsa out of the blind w
 
 ## 23
 
-The *mleccha* vizier[^23-1] knew that Śrī Raghunātha was the son of a respected and wealthy man, was himself learned and, above all, was born into the very eminent Kāyastha community, which follows the *brāhmaṇas*. Therefore he could no longer beat him. It has been known since the Satya-yuga that the Kāyasthas are royal officers and are honoured equally with the *kṣatriyas*. Thus Yājñavalkya says: “The king should protect his subjects when they are oppressed by cheats, thieves, wicked men, violent robbers and the like — and especially by Kāyasthas.” That is, the king's duty is to protect his subjects from the hands of wicked people, and also to keep a special watch over his own chief officers, the Kāyasthas who are close to the king, if in the course of their work they oppress the subjects. For if the king's chief officers commit any outrage, there is no protection from it without the king's special attention.
+The *mleccha* vizier[^23-1] knew that Śrī Raghunātha was the son of a respected and wealthy man, was himself learned and, above all, was born into the very eminent Kāyastha community, which follows the *brāhmaṇas*. Therefore he could no longer beat him. It has been known since the Satya-yuga that the Kāyasthas are royal officers and are honoured equally with the *kṣatriyas*. Thus Yājñavalkya says: “The king should protect his subjects when they are oppressed by cheats, thieves, wicked men, violent robbers and the like — and especially by Kāyasthas.” That is, the king’s duty is to protect his subjects from the hands of wicked people, and also to keep a special watch over his own chief officers, the Kāyasthas who are close to the king, if in the course of their work they oppress the subjects. For if the king’s chief officers commit any outrage, there is no protection from it without the king’s special attention.
 
 ## 40
 
@@ -42,7 +42,7 @@ The *mleccha* vizier[^23-1] knew that Śrī Raghunātha was the son of a respect
 
 ## 158
 
-When Gaura's devotees travel to Nīlācala, their company is in plain view and known to everyone. Raghunātha fears that if he goes with them his father will seize him and bring him back, and so he cannot go with them.
+When Gaura’s devotees travel to Nīlācala, their company is in plain view and known to everyone. Raghunātha fears that if he goes with them his father will seize him and bring him back, and so he cannot go with them.
 
 ## 185
 
@@ -74,11 +74,11 @@ A man and a woman marry, beget children and so build a household (*saṁsāra*).
 
 ## 263
 
-Śrī Vāsudeva Datta (who lived in Kāñcanapallī) loved the very gentle Yadunandana Ācārya; his disciple is Raghunātha dāsa. By his virtues Raghunātha is dearer than life to all of us. By Śrī Caitanya's boundless mercy he is always full of tender love; he is dear to Svarūpa Gosvāmī and is the sole treasure in the kingdom of renunciation. Who among those living in Nīlācala does not know him?
+Śrī Vāsudeva Datta (who lived in Kāñcanapallī) loved the very gentle Yadunandana Ācārya; his disciple is Raghunātha dāsa. By his virtues Raghunātha is dearer than life to all of us. By Śrī Caitanya’s boundless mercy he is always full of tender love; he is dear to Svarūpa Gosvāmī and is the sole treasure in the kingdom of renunciation. Who among those living in Nīlācala does not know him?
 
 ## 264
 
-By delighting the minds of all people (enchanting their hearts), he became a certain (indescribable) soil of good fortune — one that bears fruit without plowing (manifest by itself) — that is, its very abode. In him the incomparable (matchless) tree of love (Śrī Caitanya's) bore fruit at the very time the seed was sown.
+By delighting the minds of all people (enchanting their hearts), he became a certain (indescribable) soil of good fortune — one that bears fruit without ploughing (manifest by itself) — that is, its very abode. In him the incomparable (matchless) tree of love (Śrī Caitanya’s) bore fruit at the very time the seed was sown.
 
 ## 279
 
@@ -94,7 +94,7 @@ A “*rājasic*” invitation. Invitations are of three kinds: *sāttvic*, *rāj
 
 ## 309
 
-“Raghunātha's rules were like a line on stone”: Śrīla Raghunātha's rules of renunciation were as firm as a line carved in stone.
+“Raghunātha’s rules were like a line on stone”: Śrīla Raghunātha’s rules of renunciation were as firm as a line carved in stone.
 
 ## 314
 

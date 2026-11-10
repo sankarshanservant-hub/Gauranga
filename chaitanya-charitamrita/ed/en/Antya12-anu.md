@@ -12,7 +12,7 @@
 
 ## 5
 
-> Subheading: The Lord longs for Kṛṣṇa's company —
+> Subheading: The Lord longs for Kṛṣṇa’s company —
 
 ## 6
 
@@ -30,13 +30,13 @@ Variant reading: *svāsthya nāhi māne* (for *svasti nāhi mane*).
 
 ## 10
 
-> Subheading: Despite the Lord's prohibition, Nityānanda sets out —
+> Subheading: Despite the Lord’s prohibition, Nityānanda sets out —
 
 See Antya 10.5 and 10.8.
 
 ## 11
 
-> Subheading: Gaura's devotees who live as householders set out with their families —
+> Subheading: Gaura’s devotees who live as householders set out with their families —
 
 ## 14
 
@@ -46,7 +46,7 @@ See Antya 10.5 and 10.8.
 
 > Subheading: The well-to-do Śivānanda pays the road toll and serves the devotees by guiding them —
 
-*Ghāṭī-samādhāna* (settling matters at the toll post). When pilgrims or travellers passed through a *zamindar's* estate (*mahāl*), a toll was levied on them. In former times road taxes and the like were not collected [by the state], so this toll went to the owners of the roads and landings. At each post Śivānanda Sena paid the toll collectors (*ghāṭoyālas*) the road toll owed by the pilgrims to Jagannātha.
+*Ghāṭī-samādhāna* (settling matters at the toll post). When pilgrims or travellers passed through a *zamindar’s* estate (*mahāl*), a toll was levied on them. In former times road taxes and the like were not collected [by the state], so this toll went to the owners of the roads and landings. At each post Śivānanda Sena paid the toll collectors (*ghāṭoyālas*) the road toll owed by the pilgrims to Jagannātha.
 
 ## 16
 
@@ -64,17 +64,17 @@ The toll collectors behaved outrageously, extorting excess duties from the pilgr
 
 ## 21
 
-> Subheading: Hearing Nityānanda's curse, Śivānanda's wife weeps and tells her husband of it —
+> Subheading: Hearing Nityānanda’s curse, Śivānanda’s wife weeps and tells her husband of it —
 
 ## 23
 
 > Subheading: Śivānanda comforts his wife —
 
-*Bāulī* — *bātulī*, that is, “madwoman.” Variant reading: *bāunī*, “brāhmaṇa lady.” Although [Śivānanda's wife] was not a *brāhmaṇī* by birth, in those days it was proper to address respectable women that way.
+*Bāulī* — *bātulī*, that is, “madwoman.” Variant reading: *bāunī*, “brāhmaṇa lady.” Although [Śivānanda’s wife] was not a *brāhmaṇī* by birth, in those days it was proper to address respectable women that way.
 
 ## 24
 
-> Subheading: Śivānanda is blessed with a kick from Nityānanda's foot —
+> Subheading: Śivānanda is blessed with a kick from Nityānanda’s foot —
 
 ## 25
 
@@ -114,13 +114,13 @@ The toll collectors behaved outrageously, extorting excess duties from the pilgr
 
 ## 37
 
-> Subheading: Govinda instructs Śrīkānta in the rules of reverence toward the Lord's form —
+> Subheading: Govinda instructs Śrīkānta in the rules of reverence towards the Lord’s form —
 
 The Tantras say: “A man who bows down to Hari with his body covered by cloth, O lovely one, is a fool, and for seven births he will suffer from white leprosy.”
 
 ## 38
 
-> Subheading: The Lord, who knows all hearts, reveals what is on Śrīkānta's mind —
+> Subheading: The Lord, who knows all hearts, reveals what is on Śrīkānta’s mind —
 
 ## 39
 
@@ -128,7 +128,7 @@ The Tantras say: “A man who bows down to Hari with his body covered by cloth, 
 
 ## 41
 
-> Subheading: Realizing that the Lord knows his mind and dwells within the heart, Śrīkānta keeps silent about the kick —
+> Subheading: Realising that the Lord knows his mind and dwells within the heart, Śrīkānta keeps silent about the kick —
 
 ## 42
 
@@ -140,7 +140,7 @@ The Tantras say: “A man who bows down to Hari with his body covered by cloth, 
 
 ## 44
 
-> Subheading: The Lord's mercy to Śivānanda and his sons —
+> Subheading: The Lord’s mercy to Śivānanda and his sons —
 
 ## 45
 
@@ -148,17 +148,17 @@ The Tantras say: “A man who bows down to Hari with his body covered by cloth, 
 
 ## 46
 
-> Subheading: How the name Paramānanda-purī-dāsa first came about; the child is named by the Lord's order —
+> Subheading: How the name Paramānanda-purī-dāsa first came about; the child is named by the Lord’s order —
 
 ## 50
 
-> Subheading: Paramānanda (Purī) dāsa sucks the Lord's big toe —
+> Subheading: Paramānanda (Purī) dāsa sucks the Lord’s big toe —
 
-Later he came to Purī with his father. The Lord tried at length to get him to utter the name of Kṛṣṇa, and in the end the boy composed a verse about Kṛṣṇa's pastimes — see Antya 16.65–75.
+Later he came to Purī with his father. The Lord tried at length to get him to utter the name of Kṛṣṇa, and in the end the boy composed a verse about Kṛṣṇa’s pastimes — see Antya 16.65–75.
 
 ## 51
 
-> Subheading: Śivānanda's supreme good fortune —
+> Subheading: Śivānanda’s supreme good fortune —
 
 ## 53
 
@@ -170,7 +170,7 @@ Later he came to Purī with his father. The Lord tried at length to get him to u
 
 ## 55
 
-> Subheading: The Lord's childhood pastimes and Parameśvara —
+> Subheading: The Lord’s childhood pastimes and Parameśvara —
 
 ## 57
 
@@ -178,11 +178,11 @@ Later he came to Purī with his father. The Lord tried at length to get him to u
 
 ## 59
 
-> Subheading: The Lord — the guru of the world and teacher of mankind, who was enacting the pastime of a *sannyāsī* — is embarrassed to hear a woman's name, though she was old and like a mother —
+> Subheading: The Lord — the guru of the world and teacher of mankind, who was enacting the pastime of a *sannyāsī* — is embarrassed to hear a woman’s name, though she was old and like a mother —
 
 ## 60
 
-> Subheading: In his simple affection Parameśvara lacks outward courtesy, that is, any sense of outer propriety; yet the Lord, who accepts the heart's feeling, is pleased with his guilelessness —
+> Subheading: In his simple affection Parameśvara lacks outward courtesy, that is, any sense of outer propriety; yet the Lord, who accepts the heart’s feeling, is pleased with his guilelessness —
 
 Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* means affection, affectionate respect, humility, trust, fond insistence (*ābdār*). *Prāgalbhya* means boldness, arrogance, spirit. *Vaidagdhī* means cleverness, refined taste, grace, skill, learning, artfulness, a cultivated manner.
 
@@ -192,7 +192,7 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 62
 
-> Subheading: Having seen the Lord's [Jagannātha's] festivals, Śrīvāsa's wife feeds the Lord —
+> Subheading: Having seen the Lord’s [Jagannātha’s] festivals, Śrīvāsa’s wife feeds the Lord —
 
 ## 64
 
@@ -204,11 +204,11 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 67
 
-> Subheading: The devotees' suffering is Bhagavān's suffering —
+> Subheading: The devotees’ suffering is Bhagavān’s suffering —
 
 ## 68
 
-> Subheading: Because of the devotees' hardships the Lord forbids them to come to see Him — and yet He longs for their company —
+> Subheading: Because of the devotees’ hardships the Lord forbids them to come to see Him — and yet He longs for their company —
 
 ## 69
 
@@ -216,11 +216,11 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 72
 
-> Subheading: Comparing it with the devotees' love for Him, the Lord humbly calls Himself lacking in love for them —
+> Subheading: Comparing it with the devotees’ love for Him, the Lord humbly calls Himself lacking in love for them —
 
 ## 73
 
-> Subheading: The Lord's unpayable debt to His devotees —
+> Subheading: The Lord’s unpayable debt to His devotees —
 
 ## 74
 
@@ -228,7 +228,7 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 75
 
-> Subheading: Hearing Bhagavān's humble lament, the devotees weep —
+> Subheading: Hearing Bhagavān’s humble lament, the devotees weep —
 
 ## 76
 
@@ -240,11 +240,11 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 78
 
-> Subheading: Nityānanda and Advaita speak of the Lord's affection (*vātsalya*) for His devotees —
+> Subheading: Nityānanda and Advaita speak of the Lord’s affection (*vātsalya*) for His devotees —
 
 ## 79
 
-> Subheading: The devotees are bound by Bhagavān's affectionate love —
+> Subheading: The devotees are bound by Bhagavān’s affectionate love —
 
 ## 80
 
@@ -252,7 +252,7 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 81
 
-> Subheading: The Lord's instruction to Nityānanda —
+> Subheading: The Lord’s instruction to Nityānanda —
 
 ## 82
 
@@ -260,7 +260,7 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 83
 
-> Subheading: Even the debt of Bhagavān's affection is beyond any devotee's power to repay —
+> Subheading: Even the debt of Bhagavān’s affection is beyond any devotee’s power to repay —
 
 ## 84
 
@@ -280,11 +280,11 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 92
 
-> Subheading: In the fullness of her motherly love Śacī takes the Lord's eating before her very eyes for a dream —
+> Subheading: In the fullness of her motherly love Śacī takes the Lord’s eating before her very eyes for a dream —
 
 ## 93
 
-> Subheading: Śacī's words, full of the highest motherly love —
+> Subheading: Śacī’s words, full of the highest motherly love —
 
 ## 95
 
@@ -296,19 +296,19 @@ Variant reading: *praśraya pāgala śuddha-vaidagdhī nā jāne*. *Praśraya* m
 
 ## 101
 
-> Subheading: Jagadānanda's virtues —
+> Subheading: Jagadānanda’s virtues —
 
 ## 102
 
-> Subheading: Jagadānanda obtains sandalwood oil in Kāñcanapallī, goes to Purī and gives it to Govinda for the Lord's use —
+> Subheading: Jagadānanda obtains sandalwood oil in Kāñcanapallī, goes to Purī and gives it to Govinda for the Lord’s use —
 
 ## 105
 
-> Subheading: Govinda tells the Lord of Jagadānanda's wish —
+> Subheading: Govinda tells the Lord of Jagadānanda’s wish —
 
 ## 106
 
-> Subheading: Jagadānanda's transcendental, matchless love for the Lord, whose human-like body is transcendental —
+> Subheading: Jagadānanda’s transcendental, matchless love for the Lord, whose human-like body is transcendental —
 
 ## 107
 
@@ -322,25 +322,25 @@ Having prepared fragrant oil in Gauḍa, he brings it to Śrī Kṣetra.
 
 ## 109
 
-> Subheading: Addressing the Paṇḍita, the Lord, the guru of the world, teaches the *sādhaka* his duty: to serve with the finest things the Lord alone, the only enjoyer, and to serve out of the heart's natural inclination (*svārasikī*); only in this is the *jīva's* labor of service fulfilled —
+> Subheading: Addressing the Paṇḍita, the Lord, the guru of the world, teaches the *sādhaka* his duty: to serve with the finest things the Lord alone, the only enjoyer, and to serve out of the heart’s natural inclination (*svārasikī*); only in this is the *jīva’s* labour of service fulfilled —
 
 ## 110
 
-> Subheading: Govinda conveys the Lord's words to Jagadānanda; Jagadānanda's anger is the hurt pride of love (*praṇayābhimāna*) —
+> Subheading: Govinda conveys the Lord’s words to Jagadānanda; Jagadānanda’s anger is the hurt pride of love (*praṇayābhimāna*) —
 
 ## 111
 
-> Subheading: Govinda again tells the Lord of Jagadānanda's wish —
+> Subheading: Govinda again tells the Lord of Jagadānanda’s wish —
 
 ## 112
 
-> Subheading: The Lord, the guru of the world and teacher of mankind, teaches the *sādhaka* or ācārya how improper it is to strive for enjoyment to please one's own senses —
+> Subheading: The Lord, the guru of the world and teacher of mankind, teaches the *sādhaka* or ācārya how improper it is to strive for enjoyment to please one’s own senses —
 
 A mendicant (*bhikṣu*), that is, a *sannyāsī*, has no helpers and must not accept help from others. Here the Lord says how pleasant it would be to hire, as pleasure-loving enjoyers do, someone like a servant to rub Him with fragrant oil, the companion of luxury. This is sarcasm (*śleṣokti*).
 
 ## 114
 
-> Subheading: Censure of one who wears a renunciant's dress yet loves enjoyments that gratify his senses —
+> Subheading: Censure of one who wears a renunciant’s dress yet loves enjoyments that gratify his senses —
 
 *Dārī sannyāsī* — one who enjoys women: a fallen tantric renunciant (*yati*) whose conduct is hypocritical.
 
@@ -354,7 +354,7 @@ A mendicant (*bhikṣu*), that is, a *sannyāsī*, has no helpers and must not a
 
 ## 117
 
-> Subheading: On the pretext of instructing the Paṇḍita, the Lord teaches that a *jīva's* service succeeds only when he serves with the finest things Bhagavān, the enjoyer of all spiritual paraphernalia —
+> Subheading: On the pretext of instructing the Paṇḍita, the Lord teaches that a *jīva’s* service succeeds only when he serves with the finest things Bhagavān, the enjoyer of all spiritual paraphernalia —
 
 ## 118
 
@@ -372,11 +372,11 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 121
 
-> Subheading: Bhagavān, conquered by His devotee's love, dispels the devotee's sulking (*māna*), that is, begs for his mercy —
+> Subheading: Bhagavān, conquered by His devotee’s love, dispels the devotee’s sulking (*māna*), that is, begs for his mercy —
 
 ## 122
 
-> Subheading: In the devotee's house Bhagavān Himself asks to be fed —
+> Subheading: In the devotee’s house Bhagavān Himself asks to be fed —
 
 ## 123
 
@@ -384,7 +384,7 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 127
 
-> Subheading: Bhagavān, conquered by His devotee's love, wishes to eat together with His beloved devotee, one with Him in heart —
+> Subheading: Bhagavān, conquered by His devotee’s love, wishes to eat together with His beloved devotee, one with Him in heart —
 
 ## 129
 
@@ -400,7 +400,7 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 135
 
-> Subheading: Fearing His devotee's hurt pride, Bhagavān eats a great deal —
+> Subheading: Fearing His devotee’s hurt pride, Bhagavān eats a great deal —
 
 ## 139
 
@@ -414,11 +414,11 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 142
 
-> Subheading: The Paṇḍita, contrary by nature (*vāmya-svabhāva*), mindful of the Lord's majesty, guards His dignity and begs Him to go and rest —
+> Subheading: The Paṇḍita, contrary by nature (*vāmya-svabhāva*), mindful of the Lord’s majesty, guards His dignity and begs Him to go and rest —
 
 ## 143
 
-> Subheading: Rāmāi and Raghunātha Bhaṭṭa, servants of the Lord and companions of Govinda, receive the Lord's *prasāda* after cooking the offering —
+> Subheading: Rāmāi and Raghunātha Bhaṭṭa, servants of the Lord and companions of Govinda, receive the Lord’s *prasāda* after cooking the offering —
 
 ## 144
 
@@ -426,27 +426,27 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 145
 
-> Subheading: The Paṇḍita, intent only on the Lord's happiness, seeks no pleasure for himself and sends Govinda to serve the Lord —
+> Subheading: The Paṇḍita, intent only on the Lord’s happiness, seeks no pleasure for himself and sends Govinda to serve the Lord —
 
 ## 147
 
-> Subheading: The Paṇḍita asks Govinda to come when the Lord is asleep and honor His remnants —
+> Subheading: The Paṇḍita asks Govinda to come when the Lord is asleep and honour His remnants —
 
 ## 148
 
-> Subheading: Having distributed them to all, the Paṇḍita honors the Lord's remnants —
+> Subheading: Having distributed them to all, the Paṇḍita honours the Lord’s remnants —
 
 ## 149
 
-> Subheading: The Paṇḍita himself takes the Lord's remnants —
+> Subheading: The Paṇḍita himself takes the Lord’s remnants —
 
 ## 150
 
-> Subheading: Bhagavān, conquered by His devotee's love, also gives up concern for His own happiness and makes sure His devotee is satisfied —
+> Subheading: Bhagavān, conquered by His devotee’s love, also gives up concern for His own happiness and makes sure His devotee is satisfied —
 
 ## 151
 
-> Subheading: The Paṇḍita has eaten, and the Lord lies down: only in His devotee's satisfaction and contentment does the Lord see His own work done and find happiness —
+> Subheading: The Paṇḍita has eaten, and the Lord lies down: only in His devotee’s satisfaction and contentment does the Lord see His own work done and find happiness —
 
 ## 152
 
@@ -454,7 +454,7 @@ Jagadānanda lived on the seashore near the *samādhi* of Haridāsa Ṭhākura, 
 
 ## 154
 
-> Subheading: Whoever hears the Paṇḍita's *Prema-vivarta* attains love for Gaura-Kṛṣṇa —
+> Subheading: Whoever hears the Paṇḍita’s *Prema-vivarta* attains love for Gaura-Kṛṣṇa —
 
 *Thus ends the twelfth chapter of the “Anubhāṣya.”*
 

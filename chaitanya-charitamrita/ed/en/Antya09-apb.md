@@ -2,11 +2,11 @@
 
 ## 0
 
-**Summary.** This chapter tells how Gopīnātha Paṭṭanāyaka, the son of Bhavānanda Rāya, squandered the king's money and so fell out of favor with the Baḍa Jānā. For this he was first raised onto the *cāṅga* (the execution platform), and afterward the Lord, bestowing His mercy in disguise, rescued and elevated him.
+**Summary.** This chapter tells how Gopīnātha Paṭṭanāyaka, the son of Bhavānanda Rāya, squandered the king’s money and so fell out of favour with the Baḍa Jānā. For this he was first raised onto the *cāṅga* (the execution platform), and afterward the Lord, bestowing His mercy in disguise, rescued and elevated him.
 
 ## 1
 
-The flood of *prema* of Caitanya's countless devotees filled with water the desert that was the hearts of unfortunate people.
+The flood of *prema* of Caitanya’s countless devotees filled with water the desert that was the hearts of unfortunate people.
 
 ## 13
 
@@ -26,7 +26,7 @@ The prince who was setting the price of the horses had a habit of craning his ne
 
 ## 32
 
-*Rāja-vilāt* — the money due to the king from the lands under him (the king's treasury or property). *Dārī, nāṭuyā* — harlots and dancers. He spends the money on such people and has no fear that the king's money must be paid.
+*Rāja-vilāt* — the money due to the king from the lands under him (the king’s treasury or property). *Dārī, nāṭuyā* — harlots and dancers. He spends the money on such people and has no fear that the king’s money must be paid.
 
 ## 44
 
@@ -34,7 +34,7 @@ The prince who was setting the price of the horses had a habit of craning his ne
 
 ## 54
 
-*Muddatī kari'* — making him pledge to pay the money by a term, that is, by an appointed, fixed date.
+*Muddatī kari’* — making him pledge to pay the money by a term, that is, by an appointed, fixed date.
 
 ## 82
 
@@ -46,7 +46,7 @@ The prince who was setting the price of the horses had a habit of craning his ne
 
 ## 103
 
-“*Pūjya-garvita*”: worthy of worship, an object of pride and honor.
+“*Pūjya-garvita*”: worthy of worship, an object of pride and honour.
 
 ## 107
 
@@ -54,7 +54,7 @@ The prince who was setting the price of the horses had a habit of craning his ne
 
 ## 119
 
-“Speak in such a way that He will not think I gave up the money for Mahāprabhu's sake.”
+“Speak in such a way that He will not think I gave up the money for Mahāprabhu’s sake.”
 
 ## 126
 
@@ -66,7 +66,7 @@ The prince who was setting the price of the horses had a habit of craning his ne
 
 ## 137
 
-The chief fruit of remembering Your lotus feet is love for You. The protection of life, honor and wealth is only a semblance of the fruit (*phalābhāsa*) of that good deed — of serving Your feet. Material objects are fickle by nature, so a fruit connected with them is not the “chief” one.
+The chief fruit of remembering Your lotus feet is love for You. The protection of life, honour and wealth is only a semblance of the fruit (*phalābhāsa*) of that good deed — of serving Your feet. Material objects are fickle by nature, so a fruit connected with them is not the “chief” one.
 
 ## 145
 

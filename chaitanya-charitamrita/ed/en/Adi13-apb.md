@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** This thirteenth chapter describes Mahāprabhu's birth. The Ādi-līlā is the Lord's pastimes in household life, and the Antya-līlā His pastimes in *sannyāsa*. The first six years of the Antya-līlā are called the “Madhya-līlā”: the journeys to the south, to Vṛndāvana and to other holy places, the returns, and the preaching of the holy name. Jagannātha Miśra was the son of Upendra Miśra, a resident of Śrīhaṭṭa. He settled in Navadvīpa and married Śacīdevī, the daughter of Nīlāmbara Cakravartī. First eight daughters were born to him. These daughters, once born, left this world, and then, as the ninth child, Viśvarūpa was born. In Śaka 1407, on the evening of the full moon of the month of Phālguna, with Leo rising (*siṁha-lagna*) and the moon in the sign of Leo (*siṁha-rāśi*), at the time of a lunar eclipse, Gauracandra descended amid the chanting of Kṛṣṇa's names. Hearing of the child's birth, the respectable ladies came to see Him with many gifts. Nīlāmbara Cakravartī cast His horoscope, examined the lines of His hand, and found in them the marks of a great personality (*mahāpuruṣa*).
+**Summary.** This thirteenth chapter describes Mahāprabhu’s birth. The Ādi-līlā is the Lord’s pastimes in household life, and the Antya-līlā His pastimes in *sannyāsa*. The first six years of the Antya-līlā are called the “Madhya-līlā”: the journeys to the south, to Vṛndāvana and to other holy places, the returns, and the preaching of the holy name. Jagannātha Miśra was the son of Upendra Miśra, a resident of Śrīhaṭṭa. He settled in Navadvīpa and married Śacīdevī, the daughter of Nīlāmbara Cakravartī. First eight daughters were born to him. These daughters, once born, left this world, and then, as the ninth child, Viśvarūpa was born. In Śaka 1407, on the evening of the full moon of the month of Phālguna, with Leo rising (*siṁha-lagna*) and the moon in the sign of Leo (*siṁha-rāśi*), at the time of a lunar eclipse, Gauracandra descended amid the chanting of Kṛṣṇa’s names. Hearing of the child’s birth, the respectable ladies came to see Him with many gifts. Nīlāmbara Cakravartī cast His horoscope, examined the lines of His hand, and found in them the marks of a great personality (*mahāpuruṣa*).
 
 ## 1
 
@@ -10,17 +10,17 @@ By His grace even this fallen soul at once becomes able to describe His pastimes
 
 ## 17
 
-Śrī Murāri Gupta's *sūtras*, his brief notes, on the Ādi-līlā still exist. The Vaiṣṇavas study them, and they hear the *sūtras* of Śrī Svarūpa Gosvāmī's diary from the lips of Śrī Raghunātha dāsa Gosvāmī — and so they describe the Lord's pastimes.
+Śrī Murāri Gupta’s *sūtras*, his brief notes, on the Ādi-līlā still exist. The Vaiṣṇavas study them, and they hear the *sūtras* of Śrī Svarūpa Gosvāmī’s diary from the lips of Śrī Raghunātha dāsa Gosvāmī — and so they describe the Lord’s pastimes.
 
 ## 19
 
-“In the twenty-eighth *yuga* of Vaivasvata Manu, in the year fourteen hundred and seven, on the lovely bank of the Bhāgīrathī, from the great ocean of Śacī's womb, on the full moon seized by Rāhu, Gaurāṅga appeared.”
+“In the twenty-eighth *yuga* of Vaivasvata Manu, in the year fourteen hundred and seven, on the lovely bank of the Bhāgīrathī, from the great ocean of Śacī’s womb, on the full moon seized by Rāhu, Gaurāṅga appeared.”
 
 I worship that full moon of Phālguna, filled with every good quality, on which Śrī Kṛṣṇa Caitanya descended together with the names of Kṛṣṇa.
 
 ## 29
 
-While explaining to His students the *sūtras* of grammar and their commentaries, the *vṛtti* and the *ṭīkā*, the Lord taught them the meaning of Kṛṣṇa's name. Building on that teaching, the venerable Gosvāmīs (Śrī Jīva Prabhu) later wrote two grammars called *Harināmāmṛta-vyākaraṇa*, the “Laghu” (short) and the “Bṛhat” (long). Whoever studies these two grammars gains a knowledge of words, and devotion to Kṛṣṇa awakens in him.
+While explaining to His students the *sūtras* of grammar and their commentaries, the *vṛtti* and the *ṭīkā*, the Lord taught them the meaning of Kṛṣṇa’s name. Building on that teaching, the venerable Gosvāmīs (Śrī Jīva Prabhu) later wrote two grammars called *Harināmāmṛta-vyākaraṇa*, the “Laghu” (short) and the “Bṛhat” (long). Whoever studies these two grammars gains a knowledge of words, and devotion to Kṛṣṇa awakens in him.
 
 ## 32
 
@@ -49,7 +49,7 @@ Day (*dinam*)[^89-1]:
 40 · 37 · 40  
 13 · 6 · 23
 
-At the hour of the Lord's birth, Venus (*Śukra*) was in Aries (*Meṣa*), in the *nakṣatra* (lunar mansion) Aśvinī; Ketu in Leo (*Siṁha*), in the *nakṣatra* Uttara-phalgunī; the moon (*Candra*) in the *nakṣatra* Pūrva-phalgunī; Saturn (*Śani*) in Scorpio (*Vṛścika*), in the *nakṣatra* Jyeṣṭhā; Jupiter (*Bṛhaspati*) in Sagittarius (*Dhanu*), in the *nakṣatra* Pūrvāṣāḍhā; Mars (*Maṅgala*) in Capricorn (*Makara*), in the *nakṣatra* Śravaṇā; the sun (*Ravi*) in Aquarius (*Kumbha*), in Pūrva-bhādrapadā; Rāhu in the *nakṣatra* Pūrva-bhādrapadā; Mercury (*Budha*) in Pisces (*Mīna*), in the *nakṣatra* Uttara-bhādrapadā. The ascendant (*lagna*) is Leo.
+At the hour of the Lord’s birth, Venus (*Śukra*) was in Aries (*Meṣa*), in the *nakṣatra* (lunar mansion) Aśvinī; Ketu in Leo (*Siṁha*), in the *nakṣatra* Uttara-phalgunī; the moon (*Candra*) in the *nakṣatra* Pūrva-phalgunī; Saturn (*Śani*) in Scorpio (*Vṛścika*), in the *nakṣatra* Jyeṣṭhā; Jupiter (*Bṛhaspati*) in Sagittarius (*Dhanu*), in the *nakṣatra* Pūrvāṣāḍhā; Mars (*Maṅgala*) in Capricorn (*Makara*), in the *nakṣatra* Śravaṇā; the sun (*Ravi*) in Aquarius (*Kumbha*), in Pūrva-bhādrapadā; Rāhu in the *nakṣatra* Pūrva-bhādrapadā; Mercury (*Budha*) in Pisces (*Mīna*), in the *nakṣatra* Uttara-bhādrapadā. The ascendant (*lagna*) is Leo.
 
 Mars, the lord of the ninth house, is exalted (*ucca*); Venus and Saturn are nearly exalted. Jupiter, in its own house (*svagṛha*), aspects Venus, which stands in the house of *dharma*. Venus, the lord of the tenth house, aspected by Jupiter (*Guru*), stands in the ninth house.
 

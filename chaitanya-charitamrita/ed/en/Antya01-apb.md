@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** When the Gauḍīya devotees received word that Mahāprabhu had returned from Śrī Vṛndāvana to Śrī Kṣetra, they set out for Puruṣottama. Śivānanda Sena was taking a dog along with him and paying its fare at the river crossings. One night the dog was not given its rice, and it went away to the Lord. The next day Śivānanda and the others reached Mahāprabhu and saw that very dog eating *prasāda* — coconut pulp the Lord had given it. Afterwards the dog attained liberation and went (to Vaikuṇṭha). Meanwhile Śrī Rūpa Gosvāmī had set out from Vṛndāvana, but he could not travel together with the Gauḍīya devotees: he reached Nīlācala some days later and stayed with Haridāsa. Mahāprabhu read the verse “*priyaḥ so 'yaṁ*” composed by Śrī Rūpa and was overjoyed. One day Mahāprabhu came to Haridāsa's dwelling with Rāmānanda Rāya, Sārvabhauma and other devotees and heard the introductory and other verses of Śrī Rūpa's two plays, the *Lalita-mādhava* and the *Vidagdha-mādhava*. Rāmānanda Rāya examined many of their parts, major and minor, and concluded that both plays were of the highest excellence. After the *cāturmāsya* the Gauḍīya devotees, by the Lord's order, set out for Gauḍa. Śrī Rūpa Gosvāmī remained in Śrī Kṣetra.
+**Summary.** When the Gauḍīya devotees received word that Mahāprabhu had returned from Śrī Vṛndāvana to Śrī Kṣetra, they set out for Puruṣottama. Śivānanda Sena was taking a dog along with him and paying its fare at the river crossings. One night the dog was not given its rice, and it went away to the Lord. The next day Śivānanda and the others reached Mahāprabhu and saw that very dog eating *prasāda* — coconut pulp the Lord had given it. Afterwards the dog attained liberation and went (to Vaikuṇṭha). Meanwhile Śrī Rūpa Gosvāmī had set out from Vṛndāvana, but he could not travel together with the Gauḍīya devotees: he reached Nīlācala some days later and stayed with Haridāsa. Mahāprabhu read the verse “*priyaḥ so ’yaṁ*” composed by Śrī Rūpa and was overjoyed. One day Mahāprabhu came to Haridāsa’s dwelling with Rāmānanda Rāya, Sārvabhauma and other devotees and heard the introductory and other verses of Śrī Rūpa’s two plays, the *Lalita-mādhava* and the *Vidagdha-mādhava*. Rāmānanda Rāya examined many of their parts, major and minor, and concluded that both plays were of the highest excellence. After the *cāturmāsya* the Gauḍīya devotees, by the Lord’s order, set out for Gauḍa. Śrī Rūpa Gosvāmī remained in Śrī Kṣetra.
 
 ## 1
 
@@ -22,7 +22,7 @@ May the saints give me the staff of their mercy and become my support, for I am 
 
 ## 34
 
-***Kṛṣṇa-līlā-nāṭaka*** — a play about Kṛṣṇa's pastimes.
+***Kṛṣṇa-līlā-nāṭaka*** — a play about Kṛṣṇa’s pastimes.
 
 ## 35
 
@@ -38,7 +38,7 @@ May the saints give me the staff of their mercy and become my support, for I am 
 
 ## 53
 
-***Tāṅhā*** — in Haridāsa's dwelling, that is, in the Siddha-bakula Maṭha.
+***Tāṅhā*** — in Haridāsa’s dwelling, that is, in the Siddha-bakula Maṭha.
 
 ## 67
 
@@ -54,23 +54,23 @@ The cause of a fruit is inferred from the fruit itself.
 
 ## 92
 
-We eat the tips of the stems of the golden lotuses of the heavenly Ganges, and so we have gained a corresponding beauty of body: qualities appear in keeping with their original cause.
+We eat the tips of the stems of the golden lotuses of the heavenly Gaṅgā, and so we have gained a corresponding beauty of body: qualities appear in keeping with their original cause.
 
 ## 99
 
-I do not know with how much nectar these two syllables, “Kṛṣ-ṇa,” were born. See: when they dance on the lips like an actress, they awaken a longing to obtain many mouths — that is, they increase one's attachment. When they enter the hollows of the ears and sprout there, they create a craving for millions of ears. When they rise in the courtyard of the mind as a companion, they conquer the activity of all the senses.
+I do not know with how much nectar these two syllables, “Kṛṣ-ṇa,” were born. See: when they dance on the lips like an actress, they awaken a longing to obtain many mouths — that is, they increase one’s attachment. When they enter the hollows of the ears and sprout there, they create a craving for millions of ears. When they rise in the courtyard of the mind as a companion, they conquer the activity of all the senses.
 
 ## 108
 
-This Bhagavān, Puruṣottama, is pure in mind. By His good nature He does not notice even the grave offenses of His servant. He considers the slightest service great. Even toward a wicked person who reviles Him He shows no ill will.
+This Bhagavān, Puruṣottama, is pure in mind. By His good nature He does not notice even the grave offences of His servant. He considers the slightest service great. Even towards a wicked person who reviles Him He shows no ill will.
 
 ## 128
 
-May this sweet drink (*śikhariṇī*) — the pastimes of Hari — wholly take away your unholy thirst, born of wandering along the path of worldly existence, which breeds suffering. This *śikhariṇī* of Hari's pastimes subdues the intoxication born of the sweetness of the moon's nectar, and through the camphor of the love (*praṇaya*) of Śrī Rādhā and others it bears a special fragrance.
+May this sweet drink (*śikhariṇī*) — the pastimes of Hari — wholly take away your unholy thirst, born of wandering along the path of worldly existence, which breeds suffering. This *śikhariṇī* of Hari’s pastimes subdues the intoxication born of the sweetness of the moon’s nectar, and through the camphor of the love (*praṇaya*) of Śrī Rādhā and others it bears a special fragrance.
 
 ## 134
 
-Those who play the roles — the hero and the other persons spoken of in the play — are called *pātra*. For example, the *Sāhitya-darpaṇa*, in its sixth chapter, verse 283, says: “In a play about the divine or the mortal he takes the same kind of form, and in a mixed one, either of the two. Let him hint at the subject (*vastu*), the seed (*bīja*), the opening (*mukha*), or else a character (*pātra*).” The meaning of the word *āmukha* is given in the *Nāṭaka-candrikā*: “When the *sūtradhāra*, answering the actress, speaks of his own business in striking words that hint at what is to come, this is called the *āmukha*.” The point of Rāmānanda Rāya's question is this: in which *āmukha* (*prastāvanā*) do the actors who play the characters come onto the stage in this play? Śrī Rūpa's answer: the characters appear in the *āmukha* called *pravartaka* (entrance onto the stage) — *kāla-sāmye*, that is, at the time that has arrived.
+Those who play the roles — the hero and the other persons spoken of in the play — are called *pātra*. For example, the *Sāhitya-darpaṇa*, in its sixth chapter, verse 283, says: “In a play about the divine or the mortal he takes the same kind of form, and in a mixed one, either of the two. Let him hint at the subject (*vastu*), the seed (*bīja*), the opening (*mukha*), or else a character (*pātra*).” The meaning of the word *āmukha* is given in the *Nāṭaka-candrikā*: “When the *sūtradhāra*, answering the actress, speaks of his own business in striking words that hint at what is to come, this is called the *āmukha*.” The point of Rāmānanda Rāya’s question is this: in which *āmukha* (*prastāvanā*) do the actors who play the characters come onto the stage in this play? Śrī Rūpa’s answer: the characters appear in the *āmukha* called *pravartaka* (entrance onto the stage) — *kāla-sāmye*, that is, at the time that has arrived.
 
 ## 135
 
@@ -90,7 +90,7 @@ Devotees whose intelligence knows no obstruction and whose nature is radiant hav
 
 ## 139
 
-O wise ones! Though this composition, full of descriptions of Hari's qualities, has been brought forth by me, insignificant by nature, may it fulfil your cherished desires. Cannot fire, kindled by rubbing wood even by a Pulinda (a man of the lowest birth), remove the inner impurity (the dross) of bars of gold?
+O wise ones! Though this composition, full of descriptions of Hari’s qualities, has been brought forth by me, insignificant by nature, may it fulfil your cherished desires. Cannot fire, kindled by rubbing wood even by a Pulinda (a man of the lowest birth), remove the inner impurity (the dross) of bars of gold?
 
 ## 140
 
@@ -98,11 +98,11 @@ O wise ones! Though this composition, full of descriptions of Hari's qualities, 
 
 ## 142
 
-Rādhikā, overcome by *pūrva-rāga*, says: “I heard the syllables of the name ‘Kṛṣṇa’ belonging to some other man — and I lost My senses. The sound of another man's flute awakens a deep madness in My heart. And ever since I saw in a picture the soft, cloudlike luster of yet another man, it has remained fixed in My heart. Alas, shame on Me! How could such *rati* for three different men arise in Me? It is better for Me to die.”
+Rādhikā, overcome by *pūrva-rāga*, says: “I heard the syllables of the name ‘Kṛṣṇa’ belonging to some other man — and I lost My senses. The sound of another man’s flute awakens a deep madness in My heart. And ever since I saw in a picture the soft, cloudlike lustre of yet another man, it has remained fixed in My heart. Alas, shame on Me! How could such *rati* for three different men arise in Me? It is better for Me to die.”
 
 ## 143
 
-“Sakhī, Rādhā's heartache can hardly be cured: even if She is treated, it all ends only in disgrace.”
+“Sakhī, Rādhā’s heartache can hardly be cured: even if She is treated, it all ends only in disgrace.”
 
 ## 144
 
@@ -158,7 +158,7 @@ When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, �
 
 ## 161
 
-“Inlaid with sapphires (*indranīla*) for three fingers' length at each end, adorned with rubies (*aruṇa-maṇi*) for the same length, and in between made of pure gold and glittering with diamonds — this auspicious flute of Kṛṣṇa's play sports in Kṛṣṇa's hand.”
+“Inlaid with sapphires (*indranīla*) for three fingers’ length at each end, adorned with rubies (*aruṇa-maṇi*) for the same length, and in between made of pure gold and glittering with diamonds — this auspicious flute of Kṛṣṇa’s play sports in Kṛṣṇa’s hand.”
 
 ## 162
 
@@ -170,11 +170,11 @@ When Rāya asked about the “natural” (*sahaja*) characteristic of *prema*, �
 
 ## 164
 
-The sound of Śrī Kṛṣṇa's flute stopped the movement of the clouds, struck Tumburu and the other Gandharvas with wonder, broke the meditation of Sanandana and the other sages, astonished Brahmā, stirred the composed (that is, unshakable and unmoving) King Bali with impatient longing, set Ananta, the king of serpents who holds up the earth, spinning, pierced the walls of the shell of the universe — and spread in all directions.
+The sound of Śrī Kṛṣṇa’s flute stopped the movement of the clouds, struck Tumburu and the other Gandharvas with wonder, broke the meditation of Sanandana and the other sages, astonished Brahmā, stirred the composed (that is, unshakable and unmoving) King Bali with impatient longing, set Ananta, the king of serpents who holds up the earth, spinning, pierced the walls of the shell of the universe — and spread in all directions.
 
 ## 165
 
-By the beauty of His eyes this Kṛṣṇa has stolen the luster of the finest white lotus. His yellow garments, which outshine the glow of fresh *kuṅkuma*, sparkle. By His forest dress, ornaments, and the like He has taken away all regard for divine attire. So the radiant Kṛṣṇacandra shines, with a luster more enchanting than a sapphire (*indranīla*).
+By the beauty of His eyes this Kṛṣṇa has stolen the lustre of the finest white lotus. His yellow garments, which outshine the glow of fresh *kuṅkuma*, sparkle. By His forest dress, ornaments, and the like He has taken away all regard for divine attire. So the radiant Kṛṣṇacandra shines, with a lustre more enchanting than a sapphire (*indranīla*).
 
 ## 166
 
@@ -186,11 +186,11 @@ By the beauty of His eyes this Kṛṣṇa has stolen the luster of the finest w
 
 ## 168
 
-“Sakhī, a youth in the freshness of youth has appeared — the moon of the dynasty of the king of Vraja; the luster of His body crushes the pride of clusters of great sapphires. Glory to the sound of His flute, which playfully breaks the knots of the sashes of steadfast noble wives!”
+“Sakhī, a youth in the freshness of youth has appeared — the moon of the dynasty of the king of Vraja; the lustre of His body crushes the pride of clusters of great sapphires. Glory to the sound of His flute, which playfully breaks the knots of the sashes of steadfast noble wives!”
 
 ## 169
 
-The beauty of Her eyes forcibly swallows the beauty of a newly blossomed blue lotus; the joy shining on Her blooming face surpasses a forest of lotuses; the luster of Her body plunges even beautiful gold into distress. So wondrously does Śrī Rādhikā's beauty play, that is, manifest itself.
+The beauty of Her eyes forcibly swallows the beauty of a newly blossomed blue lotus; the joy shining on Her blooming face surpasses a forest of lotuses; the lustre of Her body plunges even beautiful gold into distress. So wondrously does Śrī Rādhikā’s beauty play, that is, manifest itself.
 
 ## 170
 
@@ -202,7 +202,7 @@ The beauty of Her eyes forcibly swallows the beauty of a newly blossomed blue lo
 
 ## 175
 
-The *cakravāka* birds — the breasts of the wives of the enemies of the gods — and the lotuses — their faces — the moon of Mukunda's fame casts into dejection, into sorrow, while it forever delights the *cakora* birds — all His friends. May that full moon of Mukunda's fame give you happiness.
+The *cakravāka* birds — the breasts of the wives of the enemies of the gods — and the lotuses — their faces — the moon of Mukunda’s fame casts into dejection, into sorrow, while it forever delights the *cakora* birds — all His friends. May that full moon of Mukunda’s fame give you happiness.
 
 ## 177
 
@@ -218,11 +218,11 @@ When people join words whose meaning is unclear with other words in order to gra
 
 ## 188
 
-The dust raised by the cows' hooves points to Hari; the darkness ahead unites Him with the gopīs. Therefore the path of the cowherd women is beyond the reach even of the all-knowing Śruti.
+The dust raised by the cows’ hooves points to Hari; the darkness ahead unites Him with the gopīs. Therefore the path of the cowherd women is beyond the reach even of the all-knowing Śruti.
 
 ## 189
 
-Glory to that messenger — the sweet, soft tone (*kākalī*) of the flute born of the finest bamboo! Skillful and entrusted with the purpose, she frees Śrī Rādhā from shyness and draws Her from home into the forest.
+Glory to that messenger — the sweet, soft tone (*kākalī*) of the flute born of the finest bamboo! Skilful and entrusted with the purpose, she frees Śrī Rādhā from shyness and draws Her from home into the forest.
 
 ## 190
 
@@ -234,7 +234,7 @@ Glory to that messenger — the sweet, soft tone (*kākalī*) of the flute born 
 
 ## 195
 
-If the poet's poetry and the archer's bow, having entered another's heart, cannot make his head spin — what use are they?
+If the poet’s poetry and the archer’s bow, having entered another’s heart, cannot make his head spin — what use are they?
 
 *Thus ends the first chapter of the “Amṛta-pravāha-bhāṣya.”*
 
