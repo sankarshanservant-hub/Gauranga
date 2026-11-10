@@ -38,7 +38,7 @@ now  hear  of bhakti  the fruit  prema  the goal
 yāhāra śravaṇe haya bhakti-rasa-jñāna  
 of which  by hearing  there is  knowledge of bhakti-rasa
 
-(3) “Now hear of the fruit of *bhakti*: *prema*, the ultimate goal (*prayojana*). By hearing of it one comes to know *bhakti-rasa*.[^3]
+(3) “Now hear of the fruit of bhakti: *prema*, the ultimate goal (*prayojana*). By hearing of it one comes to know *bhakti-rasa*.[^3]
 
 কৃষ্ণে রতি গাঢ় হৈলে ‘প্রেম’-অভিধান ৷  
 কৃষ্ণভক্তি-রসের সেই ‘স্থায়ীভাব’ নাম ॥ ৪ ॥
@@ -48,7 +48,7 @@ for Kṛṣṇa  rati  deep  when it becomes  prema  is the name
 kṛṣṇa-bhakti-rasera sei ‘sthāyī-bhāva’ nāma  
 of the rasa of devotion to Kṛṣṇa  that  sthāyī-bhāva  is the name
 
-(4) When *rati* for Kṛṣṇa deepens, it is called *prema*; and that *prema* is the abiding emotion (*sthāyī-bhāva*) of the *rasa* of devotion to Kṛṣṇa.[^4]
+(4) When *rati* for Kṛṣṇa deepens, it is called *prema*; and that prema is the abiding emotion (*sthāyī-bhāva*) of the rasa of devotion to Kṛṣṇa.[^4]
 
 শুদ্ধসত্ত্ববিশেষাত্মা প্রেম-সূর্য্যাংশু-সাম্যভাক্ ৷  
 রুচিভিশ্চিত্তমাসৃণ্যকৃদসৌ ভাব উচ্যতে ॥ ৫ ॥
@@ -62,7 +62,7 @@ by tastes  of the heart  softness
 kṛd asau bhāva ucyate  
 producing  this  bhāva  is called
 
-(5) “*Bhāva* is in essence a special *śuddha-sattva*, pure spiritual existence; it is like a ray of the sun of *prema*, and by its tastes (*ruci*) it softens the heart.” (Bhakti-rasāmṛta-sindhu, 1.3.1)[^5]
+(5) “*Bhāva* is in essence a special *śuddha-sattva*, pure spiritual existence; it is like a ray of the sun of prema, and by its tastes (*ruci*) it softens the heart.” (Bhakti-rasāmṛta-sindhu, 1.3.1)[^5]
 
 এই দুই, — ভাবের ‘স্বরূপ’, ‘তটস্থ’ লক্ষণ ৷  
 প্রেমের লক্ষণ এবে শুন, সনাতন ॥ ৬ ॥
@@ -72,7 +72,7 @@ these  two  of bhāva  essential  marginal  characteristics
 premera lakṣaṇa ebe śuna, sanātana  
 of prema  the characteristics  now  hear  Sanātana
 
-(6) These, then, are the two marks of *bhāva*: its essential (*svarūpa*) and its attendant (*taṭastha*) characteristic. Now, Sanātana, hear the marks of *prema*.
+(6) These, then, are the two marks of *bhāva*: its essential (*svarūpa*) and its attendant (*taṭastha*) characteristic. Now, Sanātana, hear the marks of prema.
 
 সম্যঙ্মসৃণিতস্বান্তো মমত্বাতিশয়াঙ্কিতঃ ৷  
 ভাবঃ স এব সান্দ্রাত্মা বুধৈঃ প্রেমা নিগদ্যতে ॥ ৭ ॥
@@ -86,13 +86,13 @@ bhāva  that  itself  dense in nature
 budhaiḥ premā nigadyate  
 by the wise  prema  is called
 
-(7) “When *bhāva* has completely softened the heart, is marked by an intense feeling that ‘He is mine’ (*mamatva*), and has become dense in its nature, the wise call it *prema*.” (Bhakti-rasāmṛta-sindhu, 1.4.1)
+(7) “When *bhāva* has completely softened the heart, is marked by an intense feeling that ‘He is mine’ (*mamatva*), and has become dense in its nature, the wise call it prema.” (Bhakti-rasāmṛta-sindhu, 1.4.1)
 
 অনন্যমমতা বিষ্ণৌ মমতা প্রেমসঙ্গতা ৷  
 ভক্তিরিত্যুচ্যতে ভীষ্মপ্রহ্লাদোদ্ধবনারদৈঃ ॥ ৮ ॥
 
 ananya-mamatā viṣṇau  
-the exclusive feeling ‘He is mine’  toward Viṣṇu  
+the exclusive feeling ‘He is mine’  towards Viṣṇu  
 mamatā prema-saṅgatā  
 the feeling ‘He is mine’  with prema  joined  
 bhaktir ity ucyate bhīṣma-  
@@ -100,7 +100,7 @@ bhakti  thus  is called  by Bhīṣma
 prahlādoddhava-nāradaiḥ  
 by Prahlāda, Uddhava and Nārada
 
-(8) “The exclusive feeling ‘He is mine’ (*ananya-mamatā*) toward Viṣṇu alone, joined with *prema* — this is what Bhīṣma, Prahlāda, Uddhava and Nārada call *bhakti*.” (Bhakti-rasāmṛta-sindhu, 1.4.2)[^6]
+(8) “The exclusive feeling ‘He is mine’ (*ananya-mamatā*) towards Viṣṇu alone, joined with prema — this is what Bhīṣma, Prahlāda, Uddhava and Nārada call *bhakti*.” (Bhakti-rasāmṛta-sindhu, 1.4.2)[^6]
 
 কোন ভাগ্যে কোন জীবের ‘শ্রদ্ধা’ যদি হয় ৷  
 তবে সেই জীব ‘সাধুসঙ্গ’ করয় ॥ ৯ ॥
@@ -110,7 +110,7 @@ by some  good fortune  of some  jīva  faith  if  arises
 tabe sei jīva ‘sādhu-saṅga’ karaya  
 then  that  jīva  the company of sādhus  keeps
 
-(9) If by some good fortune faith (*śraddhā*) awakens in a *jīva*, he then seeks the company of *sādhus*.
+(9) If by some good fortune faith (*śraddhā*) awakens in a jīva, he then seeks the company of sādhus.
 
 সাধুসঙ্গ হৈতে হয় ‘শ্রবণ-কীর্ত্তন’ ৷  
 সাধনভক্ত্যে হয় ‘সর্ব্বানর্থনিবর্ত্তন’ ॥ ১০ ॥
@@ -120,7 +120,7 @@ the company of sādhus  from  arise  hearing and chanting
 sādhana-bhaktye haya ‘sarvānartha-nivartana’  
 through sādhana-bhakti  there is  the removal of all anarthas
 
-(10) From the company of *sādhus* come hearing and chanting (*śravaṇa-kīrtana*), and by *sādhana-bhakti* all *anarthas* are removed.
+(10) From the company of sādhus come hearing and chanting (*śravaṇa-kīrtana*), and by *sādhana-bhakti* all *anarthas* are removed.
 
 অনর্থনিবৃত্তি হৈলে ভক্ত্যে ‘নিষ্ঠা’ হয় ৷  
 নিষ্ঠা হৈতে শ্রবণাদ্যে ‘রুচি’ উপজয় ॥ ১১ ॥
@@ -130,7 +130,7 @@ of anarthas  removal  when there is  in bhakti  steadiness  arises
 niṣṭhā haite śravaṇādye ‘ruci’ upajaya  
 steadiness  from  for hearing and the rest  taste  is born
 
-(11) When the *anarthas* have been removed, steadiness (*niṣṭhā*) in *bhakti* arises. From steadiness, taste (*ruci*) for hearing and the other practices is born.
+(11) When the *anarthas* have been removed, steadiness (*niṣṭhā*) in bhakti arises. From steadiness, taste (*ruci*) for hearing and the other practices is born.
 
 রুচি হৈতে ভক্ত্যে হয় ‘আসক্তি’ প্রচুর ৷  
 আসক্তি হৈতে চিত্তে জন্মে কৃষ্ণে প্রীত্যঙ্কুর ॥ ১২ ॥
@@ -140,7 +140,7 @@ taste  from  for bhakti  there is  attachment  deep
 āsakti haite citte janme kṛṣṇe prīty-aṅkura  
 attachment  from  in the heart  is born  for Kṛṣṇa  the sprout of love
 
-(12) From taste comes deep attachment (*āsakti*) to *bhakti*, and from attachment the sprout of love for Kṛṣṇa is born in the heart.
+(12) From taste comes deep attachment (*āsakti*) to bhakti, and from attachment the sprout of love for Kṛṣṇa is born in the heart.
 
 সেই ‘রতি’ গাঢ় হৈলে ধরে ‘প্রেম’-নাম ৷  
 সেই প্রেমা — ‘প্রয়োজন’ সর্ব্বানন্দ ধাম ॥ ১৩ ॥
@@ -150,7 +150,7 @@ that  rati  deep  when it becomes  takes  the name prema
 sei premā — ‘prayojana’ sarvānanda dhāma  
 that  prema  the goal  of all bliss  the abode
 
-(13) When that *rati* deepens, it takes the name *prema*. That *prema* is the ultimate goal (*prayojana*), the abode of all bliss.
+(13) When that *rati* deepens, it takes the name *prema*. That prema is the ultimate goal (*prayojana*), the abode of all bliss.
 
 আদৌ শ্রদ্ধা ততঃ সাধুসঙ্গোঽথ ভজনক্রিয়া ৷  
 ততোঽনর্থনিবৃত্তিঃ স্যাৎ ততো নিষ্ঠা রুচিস্ততঃ ॥ ১৪ ॥
@@ -164,7 +164,7 @@ then  the removal of anarthas  comes
 tato niṣṭhā rucis tataḥ  
 then  steadiness  taste  then
 
-(14) “First comes faith, then the company of *sādhus*, and then the practice of worship (*bhajana-kriyā*). From it comes the removal of *anarthas*, then steadiness (*niṣṭhā*), and after that taste (*ruci*).[^7]
+(14) “First comes faith, then the company of sādhus, and then the practice of worship (*bhajana-kriyā*). From it comes the removal of *anarthas*, then steadiness (*niṣṭhā*), and after that taste (*ruci*).[^7]
 
 অথাসক্তিস্ততো ভাবস্ততঃ প্রেমাভ্যুদঞ্চতি ৷  
 সাধকানাময়ং প্রেম্ণঃ প্রাদুর্ভাবে ভবেৎ ক্রমঃ ॥ ১৫ ॥
@@ -178,7 +178,7 @@ of practitioners  this  of prema
 prādurbhāve bhavet kramaḥ  
 in the appearance  is  the order
 
-(15) Then come attachment (*āsakti*) and *bhāva*, and then *prema* arises. This is the order in which *prema* appears in those who practise *sādhana*.” (Bhakti-rasāmṛta-sindhu, 1.4.15–16)
+(15) Then come attachment (*āsakti*) and *bhāva*, and then prema arises. This is the order in which prema appears in those who practise *sādhana*.” (Bhakti-rasāmṛta-sindhu, 1.4.15–16)
 
 সতাং প্রসঙ্গান্মম বীর্য্যসংবিদো  
 ভবন্তি হৃৎকর্ণরসায়নাঃ কথাঃ ৷  
@@ -255,7 +255,7 @@ sent by a brāhmaṇa  a magic creature  Takṣaka  or
 daśatv alaṁ gāyata viṣṇu-gāthāḥ  
 let it bite  as it will  sing  the narrations of Viṣṇu
 
-(21) “O *brāhmaṇas*, and you, goddess Gaṅgā, know me as one who has surrendered, whose heart is fixed on the Lord. Let a magic creature sent by the *brāhmaṇa*, or Takṣaka himself, bite me as it will — you go on singing the narrations of Viṣṇu.” (Śrīmad-Bhāgavatam, 1.19.15)[^11]
+(21) “O brāhmaṇas, and you, goddess Gaṅgā, know me as one who has surrendered, whose heart is fixed on the Lord. Let a magic creature sent by the brāhmaṇa, or Takṣaka himself, bite me as it will — you go on singing the narrations of Viṣṇu.” (Śrīmad-Bhāgavatam, 1.19.15)[^11]
 
 কৃষ্ণ-সম্বন্ধ বিনা কাল ব্যর্থ নাহি যায় ৷  
 ভুক্তি, সিদ্ধি, ইন্দ্রিয়ার্থ তাঁরে নাহি ভায় ॥ ২২ ॥
@@ -335,7 +335,7 @@ to the lowly granting more than their due  in You  yet  with roots unbreakable  
 he gopī-jana-vallabha vyathayate hā hā mad-āśaiva mām  
 O  Beloved of the gopīs  torments  alas  alas  my hope  indeed  me
 
-(27) “I have no *prema*, no *bhakti* of hearing and the rest, no Vaiṣṇava *yoga*, no knowledge, no pious deeds — alas, not even a good birth. Yet, O Beloved of the *gopīs*, my hope in You, who grant the lowly more than they deserve, has roots that cannot be cut, and it torments me — alas, alas!” (Bhakti-rasāmṛta-sindhu, 1.3.35)[^15]
+(27) “I have no prema, no bhakti of hearing and the rest, no Vaiṣṇava yoga, no knowledge, no pious deeds — alas, not even a good birth. Yet, O Beloved of the gopīs, my hope in You, who grant the lowly more than they deserve, has roots that cannot be cut, and it torments me — alas, alas!” (Bhakti-rasāmṛta-sindhu, 1.3.35)[^15]
 
 সমুৎকণ্ঠা হয় সদা লালসা-প্রধান ৷  
 নাম-গানে সদা রুচি, লয় কৃষ্ণনাম ॥ ২৮ ॥
@@ -445,7 +445,7 @@ by knowers of the scriptures  even  his
 mudrā suṣṭhu su-durgamā  
 ways  quite  very hard to understand
 
-(36) “The ways of the fortunate soul in whose heart this new *prema* has blossomed are very hard to understand, even for those who know the scriptures.” (Bhakti-rasāmṛta-sindhu, 1.4.17)
+(36) “The ways of the fortunate soul in whose heart this new prema has blossomed are very hard to understand, even for those who know the scriptures.” (Bhakti-rasāmṛta-sindhu, 1.4.17)
 
 এবংব্রতঃ স্বপ্রিয়নামকীর্ত্ত্যা-  
 জাতানুরাগো দ্রুতচিত্ত উচ্চৈঃ ৷  
@@ -471,7 +471,7 @@ prema  gradually  increasing  becomes  sneha  māna  praṇaya
 rāga, anurāga, bhāva, mahābhāva haya  
 rāga  anurāga  bhāva  mahābhāva  are
 
-(38) As *prema* gradually increases, it becomes *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*.[^22]
+(38) As prema gradually increases, it becomes *sneha*, *māna*, *praṇaya*, *rāga*, *anurāga*, *bhāva* and *mahābhāva*.[^22]
 
 যৈছে বীজ, ইক্ষু, রস, গুড়, খণ্ড, সার ৷  
 শর্করা, সিতা, মিছরি, শুদ্ধমিছরি আর ॥ ৩৯ ॥
@@ -491,7 +491,7 @@ these  as  step by step  become pure  step by step  increases  the taste
 rati-premādira taiche bāḍaye āsvāda  
 of rati, prema and the rest  so  increases  the relish
 
-(40) Just as these become purer step by step and their taste increases, so the relish of *rati*, *prema* and the stages beyond grows ever richer.[^24]
+(40) Just as these become purer step by step and their taste increases, so the relish of *rati*, prema and the stages beyond grows ever richer.[^24]
 
 অধিকারি-ভেদে রতি — পঞ্চ প্রকার ৷  
 শান্ত, দাস্য, সখ্য, বাৎসল্য, মধুর আর ॥ ৪১ ॥
@@ -521,7 +521,7 @@ prema and the rest  sthāyī-bhāva  with the ingredients  on meeting
 kṛṣṇa-bhakti rasa-rūpe pāya pariṇāme  
 devotion to Kṛṣṇa  the form of rasa  attains  in its transformation
 
-(43) When *prema* and the other abiding emotions (*sthāyī-bhāva*) meet with their ingredients (*sāmagrī*), devotion to Kṛṣṇa at last takes the form of *rasa*.
+(43) When prema and the other abiding emotions (*sthāyī-bhāva*) meet with their ingredients (*sāmagrī*), devotion to Kṛṣṇa at last takes the form of rasa.
 
 বিভাব, অনুভাব, সাত্ত্বিক, ব্যভিচারী ৷  
 স্থায়ীভাব ‘রস’ হয় এই চারি মিলি’ ॥ ৪৪ ॥
@@ -531,7 +531,7 @@ vibhāva  anubhāva  sāttvika  vyabhicārī
 sthāyī-bhāva ‘rasa’ haya ei cāri mili’  
 sthāyī-bhāva  rasa  becomes  these  four  meeting
 
-(44) *Vibhāva*, *anubhāva*, *sāttvika* and *vyabhicārī*: when these four combine with it, the *sthāyī-bhāva* becomes *rasa*.
+(44) *Vibhāva*, *anubhāva*, sāttvika and *vyabhicārī*: when these four combine with it, the *sthāyī-bhāva* becomes rasa.
 
 দধি যেন খণ্ড-মরিচ-কর্পূর-মিলনে ৷  
 ’রসালাখ্য’ রস হয় অপূর্ব্বাস্বাদনে ॥ ৪৫ ॥
@@ -561,7 +561,7 @@ anubhāva  smiling  dancing  singing and the rest  outward signs
 stambhādi — ‘sāttvika’ anubhāvera bhitara  
 being stunned and the rest  sāttvika  of anubhāvas  among
 
-(47) The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the *sāttvika* states, are counted among the *anubhāvas*.[^28]
+(47) The *anubhāvas* are smiling, dancing, singing and other outward signs (*udbhāsvara*). Being stunned (*stambha*) and the rest, the sāttvika states, are counted among the *anubhāvas*.[^28]
 
 নির্ব্বেদ-হর্ষাদি — তেত্রিশ ‘ব্যভিচারী’ ৷  
 সব মিলি’ ‘রস’ হয় চমৎকারকারী ॥ ৪৮ ॥
@@ -571,7 +571,7 @@ despondency, joy and the rest  thirty-three  vyabhicārī
 saba mili’ ‘rasa’ haya camatkāra-kārī  
 all  combining  rasa  becomes  wonder-producing
 
-(48) Despondency (*nirveda*), joy (*harṣa*) and the rest are the thirty-three *vyabhicārī-bhāvas*. When all these combine, *rasa* becomes wonderful.[^29]
+(48) Despondency (*nirveda*), joy (*harṣa*) and the rest are the thirty-three *vyabhicārī-bhāvas*. When all these combine, rasa becomes wonderful.[^29]
 
 পঞ্চবিধ রস — শান্ত, দাস্য, সখ্য, বাৎসল্য ৷  
 মধুর-রসে শৃঙ্গারভাবের প্রাবল্য ॥ ৪৯ ॥
@@ -601,7 +601,7 @@ sakhya- and vātsalya-rati  reaches  anurāga  the limit
 subalādyera ‘bhāva’ paryanta premera mahimā  
 of Subala and others  bhāva  up to  of prema  the glory
 
-(51) *Sakhya-rati* and *vātsalya-rati* reach the limit of *anurāga*. In Subala and his companions the glory of *prema* extends as far as *bhāva*.
+(51) *Sakhya-rati* and *vātsalya-rati* reach the limit of *anurāga*. In Subala and his companions the glory of prema extends as far as *bhāva*.
 
 শান্তাদি রসের ‘যোগ’, ‘বিয়োগ’ — দুই ভেদ ৷  
 সখ্য-বাৎসল্যে যোগাদির অনেক বিভেদ ॥ ৫২ ॥
@@ -621,7 +621,7 @@ rūḍha  adhirūḍha  bhāva  only  in madhura
 mahiṣī-gaṇera ‘rūḍha’, ‘adhirūḍha’ gopikā-nikare  
 of the queens  rūḍha  adhirūḍha  in the host of gopīs
 
-(53) The *bhāvas* called *rūḍha* and *adhirūḍha* are found only in *madhura-rasa*: *rūḍha* in the queens, and *adhirūḍha* in the *gopīs*.[^31]
+(53) The *bhāvas* called *rūḍha* and *adhirūḍha* are found only in *madhura-rasa*: *rūḍha* in the queens, and *adhirūḍha* in the gopīs.[^31]
 
 অধিরূঢ়-মহাভাব — দুই ত’ প্রকার ৷  
 সম্ভোগে ‘মাদন’, বিরহে ‘মোহন’ নাম তার ॥ ৫৪ ॥
@@ -661,7 +661,7 @@ udghūrṇā  helpless actions  divine madness  by name
 virahe kṛṣṇa-sphūrti, āpanāke ‘kṛṣṇa’-jñāna  
 in separation  Kṛṣṇa’s appearing  oneself  as Kṛṣṇa  thinking
 
-(57) Bewildered agitation (*udghūrṇā*) and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before the *gopī*, and she even takes herself to be Kṛṣṇa.[^33]
+(57) Bewildered agitation (*udghūrṇā*) and helpless actions (*vivaśa-ceṣṭā*) are called divine madness (*divyonmāda*). In separation Kṛṣṇa appears before the gopī, and she even takes herself to be Kṛṣṇa.[^33]
 
 ’সম্ভোগ’ ‘বিপ্রলম্ভ’ ভেদে দ্বিবিধ শৃঙ্গার ৷  
 সম্ভোগের অনন্ত অঙ্গ, নাহি অন্ত তার ॥ ৫৮ ॥
@@ -691,7 +691,7 @@ in Rādhikā and others  pūrva-rāga  well known  pravāsa  māna
 ’prema-vaicittya’ śrī-daśame mahiṣī-gaṇe  
 prema-vaicittya  in the Tenth (Canto)  in the queens
 
-(60) *Pūrva-rāga*, *pravāsa* and *māna* are well known in Rādhikā and the other *gopīs*; *prema-vaicittya* is seen in the queens, as the Tenth Canto describes.
+(60) *Pūrva-rāga*, *pravāsa* and *māna* are well known in Rādhikā and the other gopīs; *prema-vaicittya* is seen in the queens, as the Tenth Canto describes.
 
 কুররি বিলপসি ত্বং বীতনিদ্রা ন শেষে  
 স্বপিতি জগতি রাত্র্যামীশ্বরো গুপ্তবোধঃ ৷  
@@ -923,7 +923,7 @@ the self-satisfied  attracting  thus
 amī kṛṣṇe kilādbhutāḥ  
 these  in Kṛṣṇa  truly  wondrous
 
-(77) “(58) He is the seed of all the *avatāras*; (59) He grants liberation to the enemies He slays; (60) He attracts even the self-satisfied (*ātmārāma*). In Kṛṣṇa these qualities are truly wondrous.” (Bhakti-rasāmṛta-sindhu, 2.1.40)
+(77) “(58) He is the seed of all the avatāras; (59) He grants liberation to the enemies He slays; (60) He attracts even the self-satisfied (*ātmārāma*). In Kṛṣṇa these qualities are truly wondrous.” (Bhakti-rasāmṛta-sindhu, 2.1.40)
 
 সর্ব্বাদ্ভুতচমৎকারলীলাকল্লোলবারিধিঃ ৷  
 অতুল্যমধুরপ্রেম-মণ্ডিতপ্রিয়মণ্ডলঃ ॥ ৭৮ ॥
@@ -1048,7 +1048,7 @@ the hero  the heroine  the two  of rasa  supports
 sei dui śreṣṭha, — rādhā, vrajendra-nandana  
 of these  two  the best  Rādhā  the son of the king of Vraja
 
-(87) The hero and the heroine are the two supports (*ālambana*) of *rasa*, and the best of these two are Rādhā and the son of the king of Vraja.
+(87) The hero and the heroine are the two supports (*ālambana*) of rasa, and the best of these two are Rādhā and the son of the king of Vraja.
 
 এইমত দাস্যে দাস, সখ্যে সখাগণ ৷  
 যৈছে রস হয়, শুন তাহার লক্ষণ ॥ ৮৮ ॥
@@ -1058,7 +1058,7 @@ in the same way  in servitude  the servants  in friendship  the friends
 yaiche rasa haya, śuna tāhāra lakṣaṇa  
 how  rasa  arises  hear  its  characteristics
 
-(88) In the same way, in servitude the servants and in friendship the friends are its supports. Now hear how *rasa* arises and what its marks are.[^44]
+(88) In the same way, in servitude the servants and in friendship the friends are its supports. Now hear how rasa arises and what its marks are.[^44]
 
 ভক্তিনির্ধূত-দোষাণাং প্রসন্নোজ্জ্বলচেতসাম্ ৷  
 শ্রীভাগবতরক্তানাং রসিকাসঙ্গরঙ্গিণাম্ ॥ ৮৯ ॥
@@ -1094,7 +1094,7 @@ rati  bliss  in form  indeed
 nīyamānā tu rasyatām  
 being led  indeed  to the state of rasa
 
-(89–91) “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimately bound up with *prema*. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it attains the state of *rasa*.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
+(89–91) “There are devotees whose faults have been washed away by devotion and whose hearts are clear and bright. They are attached to the *Śrīmad-Bhāgavatam* and delight in the company of *rasikas*. The wealth of happiness in devotion to Govinda’s feet has become their very life, and they perform only those practices that are intimately bound up with prema. In the hearts of such devotees *rati* shines — bliss by its very nature, illumined by two kinds of impressions (*saṁskāra*), past and present — and it attains the state of rasa.” (Bhakti-rasāmṛta-sindhu, 2.1.7–9)
 
 কৃষ্ণাদিভির্বিভাবাদ্যৈর্গতৈরনুভবাধ্বনি ৷  
 প্রৌঢ়ানন্দশ্চমৎকারকাষ্ঠামাপদ্যতে পরাম্ ॥ ৯২ ॥
@@ -1108,7 +1108,7 @@ mature bliss (becoming)  of wonder
 kāṣṭhām āpadyate parām  
 the limit  reaches  the highest
 
-(92) “When Kṛṣṇa and the other *vibhāvas*, together with the remaining ingredients of *rasa*, have entered the path of experience, this *rati* rises to the very summit of mature, wondrous bliss.” (Bhakti-rasāmṛta-sindhu, 2.1.10)[^45]
+(92) “When Kṛṣṇa and the other *vibhāvas*, together with the remaining ingredients of rasa, have entered the path of experience, this *rati* rises to the very summit of mature, wondrous bliss.” (Bhakti-rasāmṛta-sindhu, 2.1.10)[^45]
 
 এই রস-আস্বাদ নাহি অভক্তের গণে ৷  
 কৃষ্ণভক্তগণ করে রস আস্বাদনে ॥ ৯৩ ॥
@@ -1118,7 +1118,7 @@ this  of rasa  the taste  is not  of non-devotees  in the company
 kṛṣṇa-bhakta-gaṇa kare rasa āsvādane  
 Kṛṣṇa’s  devotees  do  of rasa  the relishing
 
-(93) Non-devotees cannot taste this *rasa*; it is Kṛṣṇa’s devotees who relish it.[^46]
+(93) Non-devotees cannot taste this rasa; it is Kṛṣṇa’s devotees who relish it.[^46]
 
 সর্ব্বথৈব দুরূহোঽয়মভক্তৈর্ভগবদ্রসঃ ৷  
 তৎপাদাম্বুজসর্ব্বস্বৈর্ভক্তৈরেবানুরস্যতে ॥ ৯৪ ॥
@@ -1132,7 +1132,7 @@ His  lotus feet  whose all
 bhaktair evānurasyate  
 by devotees  only  is relished
 
-(94) “This *rasa* of the Lord is in every way inaccessible to non-devotees; it is relished only by devotees for whom His lotus feet are everything.” (Bhakti-rasāmṛta-sindhu, 2.5.131)
+(94) “This rasa of the Lord is in every way inaccessible to non-devotees; it is relished only by devotees for whom His lotus feet are everything.” (Bhakti-rasāmṛta-sindhu, 2.5.131)
 
 সংক্ষেপে কহিলুঁ এই ‘প্রয়োজন’-বিবরণ ৷  
 পঞ্চম-পুরুষার্থ — এই ‘কৃষ্ণপ্রেম’ মহাধন ॥ ৯৫ ॥
@@ -1152,7 +1152,7 @@ earlier  at Prayāga  I  of rasa  for the discussion
 tomāra bhāi rūpe kailum̐ śakti-sañcāre  
 your  brother  into Rūpa  I made  of power  the infusion
 
-(96) Earlier, at Prayāga, I infused power into your brother Rūpa so that he could expound *rasa*.[^47]
+(96) Earlier, at Prayāga, I infused power into your brother Rūpa so that he could expound rasa.[^47]
 
 তুমিহ করিহ ভক্তিশাস্ত্রের প্রচার ৷  
 মথুরায় লুপ্ততীর্থের করিহ উদ্ধার ॥ ৯৭ ॥
@@ -1191,7 +1191,7 @@ dry  renunciation  knowledge  all  He forbade
 ময্যর্পিতমনোবুদ্ধির্যো মদ্ভক্তঃ স মে প্রিয়ঃ ॥ ১০১ ॥
 
 adveṣṭā sarva-bhūtānāṁ  
-free from hatred  toward all  beings  
+free from hatred  towards all  beings  
 maitraḥ karuṇa eva ca  
 friendly  compassionate  indeed  and  
 nirmamo nirahaṅkāraḥ  
@@ -1207,7 +1207,7 @@ in Me  fixed  mind and intelligence
 yo mad-bhaktaḥ sa me priyaḥ  
 who  My devotee  he  to Me  dear
 
-(100–101) “One who bears no hatred toward any being, who is friendly and compassionate, free from the sense of ‘mine’ and from false ego, equal in sorrow and joy, and forbearing; who is ever content, a *yogī*, self-controlled and firm in resolve, with mind and intelligence fixed on Me — such a devotee of Mine is dear to Me.” (Bhagavad-gītā, 12.13–14)[^50]
+(100–101) “One who bears no hatred towards any being, who is friendly and compassionate, free from the sense of ‘mine’ and from false ego, equal in sorrow and joy, and forbearing; who is ever content, a yogī, self-controlled and firm in resolve, with mind and intelligence fixed on Me — such a devotee of Mine is dear to Me.” (Bhagavad-gītā, 12.13–14)[^50]
 
 যস্মান্নোদ্বিজতে লোকো লোকান্নোদ্বিজতে তু যঃ ৷  
 হর্ষামর্ষভয়োদ্বেগৈর্মুক্তো যঃ স চ মে প্রিয়ঃ ॥ ১০২ ॥
@@ -1288,7 +1288,7 @@ full of faith  for whom I am the highest
 bhaktās te ‘tīva me priyāḥ  
 devotees  they  exceedingly  to Me  dear
 
-(107) “But those who, full of faith and holding Me as the highest, devotedly follow this nectar of *dharma* as I have declared it — such devotees are exceedingly dear to Me.” (Bhagavad-gītā, 12.20)
+(107) “But those who, full of faith and holding Me as the highest, devotedly follow this nectar of dharma as I have declared it — such devotees are exceedingly dear to Me.” (Bhagavad-gītā, 12.20)
 
 চিরাণি কিং পথি ন সন্তি দিশন্তি ভিক্ষাং  
 নৈবাঙ্ঘ্রিপাঃ পরভৃতঃ সরিতোঽপ্যশুষ্যন্ ৷  
@@ -1411,7 +1411,7 @@ briefly  I have told  of prema  as the goal  the account
 vistāri’ kahana nā yāya prabhura prasāda  
 in detail  to tell  not  is possible  of the Lord  the grace
 
-(119) Thus I have briefly told the account of *prema* as the goal (*prayojana*). The Lord’s grace cannot be told in full.
+(119) Thus I have briefly told the account of prema as the goal (*prayojana*). The Lord’s grace cannot be told in full.
 
 প্রভুর উপদেশামৃত শুনে যেই জন ৷  
 অচিরাৎ মিলয়ে তাঁরে কৃষ্ণপ্রেমধন ॥ ১২০ ॥
@@ -1441,11 +1441,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^3]: The Lord’s instruction to Sanātana continues from Madhya 22. The edition’s heading: “Instructions to Śrī Sanātana — (3) the *prayojana*: the fruit of the *abhidheya*, *sādhana-bhakti*, is the *sādhya*, *prema-bhakti*”.
 
-[^4]: *Anubhāṣya* (heading): *bhāva*, or *rati*, is the fluid, budding state of *prema*; in its dense, mature state it is *prema* itself.
+[^4]: *Anubhāṣya* (heading): *bhāva*, or *rati*, is the fluid, budding state of prema; in its dense, mature state it is *prema* itself.
 
 [^5]: *Anubhāṣya*: the *śuddha-sattva* here is a function of Kṛṣṇa’s own potency (*svarūpa-śakti*) called *saṁvit*; the tastes are the desire to attain the Lord, to serve Him favourably and to be intimate with Him.
 
-[^6]: The edition’s heading: the definition of *prema* according to the Pañcarātra — words of the *Nārada-pañcarātra*, quoted in the *Bhakti-rasāmṛta-sindhu*, 1.4.2.
+[^6]: The edition’s heading: the definition of prema according to the Pañcarātra — words of the *Nārada-pañcarātra*, quoted in the *Bhakti-rasāmṛta-sindhu*, 1.4.2.
 
 [^7]: The verse number is not printed in the edition (only “॥”).
 
@@ -1463,7 +1463,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^14]: The edition’s heading: “an example of humility — words of the *Padma Purāṇa*”. The king is not named in the verse.
 
-[^15]: The edition’s heading: “words of one full of *āśā-bandha* — words of Śrī Prabhupāda, quoted by Śrī Rūpa Gosvāmī”. *Anubhāṣya*: Vaiṣṇava *yoga* — *yoga* full of meditation on Viṣṇu, pure *bhakti-yoga*.
+[^15]: The edition’s heading: “words of one full of *āśā-bandha* — words of Śrī Prabhupāda, quoted by Śrī Rūpa Gosvāmī”. *Anubhāṣya*: Vaiṣṇava yoga — yoga full of meditation on Viṣṇu, pure *bhakti-yoga*.
 
 [^16]: The same verse as Madhya 2.61; translation as there, with the speaker’s pronouns in lower case: here, by the edition’s heading, these are the words of a devotee full of *samutkaṇṭhā* — Bilvamaṅgala. *Anubhāṣya*: *viralam* — “in solitude”, or “seldom seen”.
 
@@ -1473,7 +1473,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^19]: The edition’s heading: “so far the signs of *bhāva-bhakti* have been described; now the signs of (3) *prema-bhakti*”.
 
-[^20]: *Anubhāṣya*: the words, actions and gestures (*mudrā*) of a devotee in whom *prema* has awakened cannot be understood even by a discerning *paṇḍita*.
+[^20]: *Anubhāṣya*: the words, actions and gestures (*mudrā*) of a devotee in whom prema has awakened cannot be understood even by a discerning paṇḍita.
 
 [^21]: The same verse as Ādi 7.94 (= Madhya 9.262); translation as there.
 
@@ -1481,13 +1481,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^23]: As Madhya 19.179, except for the last item: there *uttama-michari*, “the finest rock candy”, here *śuddha-michari*, “pure rock candy”.
 
-[^24]: *Anubhāṣya* (heading): *rati* is the seed, and *prema* has stages of thickening; as they differ, so does the fullness of the taste of *rasa*.
+[^24]: *Anubhāṣya* (heading): *rati* is the seed, and prema has stages of thickening; as they differ, so does the fullness of the taste of rasa.
 
-[^25]: *Madhura* is the love of the beloveds; in the *gopīs* it is *parakīyā*, so it is not rendered as “conjugal”.
+[^25]: *Madhura* is the love of the beloveds; in the gopīs it is *parakīyā*, so it is not rendered as “conjugal”.
 
 [^26]: *Anubhāṣya*: the *sthāyī-bhāva* subdues the *bhāvas* both favourable and hostile to it and reigns like a good king; here the *sthāyī-bhāva* is *rati* whose object is Kṛṣṇa.
 
-[^27]: *Anubhāṣya*: *ālambana* — Kṛṣṇa as the object (*viṣaya*) of *rati* and His devotee as its abode (*āśraya*); *uddīpana* — His qualities, deeds, dress, smile, fragrance, flute, horn, ankle bells, conch, footprints, holy places, *tulasī*, devotees, the day of Hari and the like.
+[^27]: *Anubhāṣya*: *ālambana* — Kṛṣṇa as the object (*viṣaya*) of *rati* and His devotee as its abode (*āśraya*); *uddīpana* — His qualities, deeds, dress, smile, fragrance, flute, horn, ankle bells, conch, footprints, holy places, tulasī, devotees, the day of Hari and the like.
 
 [^28]: *Anubhāṣya*: the *anubhāvas* reveal the *bhāvas* dwelling in the heart — dancing, rolling on the ground, singing, loud weeping, roaring, heavy breathing and the like.
 
@@ -1503,7 +1503,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^34]: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): without separation union does not reach its fullness; separation nourishes union.
 
-[^35]: *Anubhāṣya*: *māna* is a *bhāva* of the hero and heroine who love each other which, even when they are together, prevents the embraces and glances they long for; *prema-vaicittya* is the pain that, from the nature of the highest *prema*, comes even in the beloved’s presence, from fear of separation.
+[^35]: *Anubhāṣya*: *māna* is a *bhāva* of the hero and heroine who love each other which, even when they are together, prevents the embraces and glances they long for; *prema-vaicittya* is the pain that, from the nature of the highest prema, comes even in the beloved’s presence, from fear of separation.
 
 [^36]: *Anubhāṣya*: the queens’ hearts were absorbed in Kṛṣṇa, and though they were right beside Him, the feeling “We are losing Him!” never left them; as if mad, they spoke thus. The edition’s heading: “even near Kṛṣṇa the queens, from *prema-vaicittya*, fear separation from Him”.
 
@@ -1515,23 +1515,23 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^40]: *Anubhāṣya*: in one reading the last two quarters, beginning with *sva-vaśa…*, are absent.
 
-[^41]: *Amṛta-pravāha-bhāṣya*: these five are found neither in Śiva and the other gods nor in the *jīvas*; in Kṛṣṇa they are present in full.
+[^41]: *Amṛta-pravāha-bhāṣya*: these five are found neither in Śiva and the other gods nor in the jīvas; in Kṛṣṇa they are present in full.
 
 [^42]: *Anubhāṣya*: the three worlds — Goloka, Paravyoma and Devī-dhāma.
 
-[^43]: *Amṛta-pravāha-bhāṣya*: the four kinds correspond to four levels — ordinary *jīvas*, Śiva and the other gods, Nārāyaṇa and the other forms of the Lord, and Govinda Himself.
+[^43]: *Amṛta-pravāha-bhāṣya*: the four kinds correspond to four levels — ordinary jīvas, Śiva and the other gods, Nārāyaṇa and the other forms of the Lord, and Govinda Himself.
 
 [^44]: *Anubhāṣya*: the best supports in *dāsya-rasa* are the son of the king of Vraja and Citraka, Raktaka, Patraka and others; in *sakhya-rasa*, Śrīdāmā, Sudāmā, Subala and others; in *vātsalya*, Nanda, Yaśodā and others.
 
 [^45]: Verses 89–92 form a single sentence (the edition’s heading: *Bhakti-rasāmṛta-sindhu*, 2.1.7–10).
 
-[^46]: *Anubhāṣya*: non-devotees (*abhakta*) are those who crave enjoyment and liberation and have turned away from Hari. The edition’s heading: “only a liberated devotee of Kṛṣṇa can taste this spiritual *rasa*; for a worldly, crude relisher (*kurasika*) it is impossible”.
+[^46]: *Anubhāṣya*: non-devotees (*abhakta*) are those who crave enjoyment and liberation and have turned away from Hari. The edition’s heading: “only a liberated devotee of Kṛṣṇa can taste this spiritual rasa; for a worldly, crude relisher (*kurasika*) it is impossible”.
 
 [^47]: The edition’s heading: “earlier, at Prayāga, at the Daśāśvamedha-ghāṭa, Śrī Rūpa was taught *kṛṣṇa-rasa*”.
 
-[^48]: *Amṛta-pravāha-bhāṣya*: the *bhakti-smṛti* scripture is the *Hari-bhakti-vilāsa*. *Anubhāṣya* (to 97–98): the Lord entrusts Sanātana, a Vaiṣṇava *ācārya*, with four duties — preaching the scriptures of *bhakti*, recovering the forgotten holy places, establishing the service of Kṛṣṇa in Vṛndāvana by revealing the Deity, and Vaiṣṇava conduct through a book of Vaiṣṇava *smṛti*. Here the Lord’s instruction, begun in verse 3, ends.
+[^48]: *Amṛta-pravāha-bhāṣya*: the *bhakti-smṛti* scripture is the *Hari-bhakti-vilāsa*. *Anubhāṣya* (to 97–98): the Lord entrusts Sanātana, a Vaiṣṇava ācārya, with four duties — preaching the scriptures of bhakti, recovering the forgotten holy places, establishing the service of Kṛṣṇa in Vṛndāvana by revealing the Deity, and Vaiṣṇava conduct through a book of Vaiṣṇava *smṛti*. Here the Lord’s instruction, begun in verse 3, ends.
 
-[^49]: *Amṛta-pravāha-bhāṣya*: to use the world in relation to Kṛṣṇa is *yukta-vairāgya*; to take *sannyāsa* thinking the world worthless is dry renunciation.
+[^49]: *Amṛta-pravāha-bhāṣya*: to use the world in relation to Kṛṣṇa is *yukta-vairāgya*; to take sannyāsa thinking the world worthless is dry renunciation.
 
 [^50]: The edition’s heading: “the Gītā gives the external marks (*taṭastha-lakṣaṇa*) of a devotee dear to Kṛṣṇa — 12.13–20”.
 
@@ -1541,6 +1541,6 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^53]: *Anubhāṣya*: after Kṛṣṇa lifted Govardhana, Indra glorified Him: above Vaikuṇṭha is Goloka, the supreme abode, hard to attain even for those who serve Nārāyaṇa (*Harivaṁśa*, Viṣṇu-parva, 19).
 
-[^54]: *Anubhāṣya*: these accounts are not the eternal transcendental pastimes; they were told to bewilder the *asuras*, hostile to Viṣṇu. *Amṛta-pravāha-bhāṣya*: the Lord rejected the explanation that Kṛṣṇa is an *avatāra* of a hair and taught the pure one: *ka + īśa = keśa*, Kṛṣṇa, “the Lord of Brahmā”.
+[^54]: *Anubhāṣya*: these accounts are not the eternal transcendental pastimes; they were told to bewilder the *asuras*, hostile to Viṣṇu. *Amṛta-pravāha-bhāṣya*: the Lord rejected the explanation that Kṛṣṇa is an avatāra of a hair and taught the pure one: *ka + īśa = keśa*, Kṛṣṇa, “the Lord of Brahmā”.
 
 [^55]: The same verse as Madhya 7.155 (the colophon refrain); translation as there.

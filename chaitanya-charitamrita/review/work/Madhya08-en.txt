@@ -614,7 +614,7 @@ fn: The same verse as Ādi 4.219; translation as there.
 
 ## 106
 w: here  there  Her  searching for  Rādhikā
-w: of Ananga  by the arrows  by the wounds  wearied  in mind
+w: of Anaṅga  by the arrows  by the wounds  wearied  in mind
 w: filled with remorse  He  of Kalinda’s daughter (the Yamunā)
 w: on the edge of the bank  in a grove  sank in despair  Mādhava
 tr: “Searching here and there for Rādhikā, His mind wearied by the wounds of Ananga’s arrows and filled with remorse, Mādhava sank down in despair in a grove on the edge of the Yamunā’s bank.” (Gīta-govinda, 3.2)
@@ -818,7 +818,7 @@ tr: He bears a form made of *śṛṅgāra*, the king of *rasas*; therefore He s
 
 ## 143
 w: of all  by gladdening  producing  bliss  of blue lotuses
-w: a row  dark  tender  bringing  with His limbs  a festival of Ananga
+w: a row  dark  tender  bringing  with His limbs  a festival of Anaṅga
 w: freely  by the Vraja beauties  all around  limb by limb  embraced
 w: śṛṅgāra  O friend  embodied  as it were  in spring  enchanted  Hari  sports
 tr: “O friend, see how Hari sports in spring! Delighting all and giving them bliss, with limbs dark and tender as a row of blue lotuses He brings a festival to the god of love; freely embraced on every side by the beauties of Vraja, He is, as it were, *śṛṅgāra* embodied, enchanted Himself.” (Gīta-govinda, 1.11)
@@ -953,7 +953,7 @@ w: Lalitā and the other  sakhīs  Her  of the body  of the expansions  the form
 tr: Rādhā’s own nature is the *cintāmaṇi* of *mahābhāva*, and Lalitā and the other *sakhīs* are expansions of Her body (*kāya-vyūha*).
 
 ## 165
-w: toward Rādhā  Kṛṣṇa’s  affection  fragrant  unguent
+w: towards Rādhā  Kṛṣṇa’s  affection  fragrant  unguent
 w: by that  fragrant  the body  bright  of complexion
 tr: Kṛṣṇa’s affection (*sneha*) for Rādhā is the fragrant unguent, and by it Her body is fragrant and radiant in complexion.
 fn: *Anubhāṣya*: *udvartana* is a fragrant paste with which the body is cleansed; here it is Kṛṣṇa’s affection (*sneha*), and from it Rādhā’s body is full of fragrance and radiance.
@@ -1039,7 +1039,7 @@ tr: She is the mine of the jewel of pure love for Kṛṣṇa, and Her body is f
 w: who  of Kṛṣṇa  of love  the birthplace  Śrīmatī  Rādhikā alone
 w: who  His  beloved  of matchless virtues  Rādhikā alone  not  and  another
 w: crookedness  in the hair  in the eyes  restlessness  firmness  in the breasts  whose
-w: of the desires  for the fulfillment  is able  of Hari  Rādhikā alone  not  and  another
+w: of the desires  for the fulfilment  is able  of Hari  Rādhikā alone  not  and  another
 tr: “Who is the birthplace of Kṛṣṇa’s love? Śrīmatī Rādhikā alone. Who is His beloved of matchless virtues? Rādhikā alone, and no other. Crookedness in Her hair, restlessness in Her eyes, firmness in Her breasts — Rādhikā alone, and no other, is able to fulfil Hari’s desires.” (Govinda-līlāmṛta, 11.122)
 
 ## 182
@@ -1121,7 +1121,7 @@ fn: *Anubhāṣya*: “He was not the lover, nor was I the beloved” — we had
 ## 194
 w: of Rādhā  of You  and  the lac of the hearts  with the sweat  melting  gradually
 w: joining  of the hill  of the bowers  of the elephants  O lord  with removed  of difference  the illusion
-w: for wonder  himself  colored  here  of the universe  of the palace  within
+w: for wonder  himself  coloured  here  of the universe  of the palace  within
 w: with abundant  of new  rāga  of vermilion  masses  of śṛṅgāra  the skilled artist
 tr: “O lord of elephants, You who sport in the bowers of the hill! The artist skilled in *śṛṅgāra* gradually melted the lac of Rādhā’s heart and of Yours with the sweat of ecstasy and joined them, so that all thought of difference vanished. Then, here within the palace of the universe, he himself coloured them, to the wonder of all, with abundant vermilion of fresh *rāga*.” (Ujjvala-nīlamaṇi, 14.155)
 fn: *Anubhāṣya*: the artist skilled in *śṛṅgāra* is the subject, distinct from Kṛṣṇa, who is addressed: he melted and joined the hearts of Rādhā and Kṛṣṇa and coloured them “for wonder” (*citrāya*), to increase the world’s astonishment.
@@ -1295,7 +1295,7 @@ tr: The phrase *aṅghri-padma-sudhā* means the bliss of Kṛṣṇa’s compan
 ## 226
 w: not  this  easily attained  Bhagavān
 w: for the embodied  of the gopī  the son
-w: for the jñānīs  and  for those who realized the self
+w: for the jñānīs  and  for those who realised the self
 w: as  for those who have devotion  here
 tr: “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
 fn: The same verse as Madhya 9.132; translation as there. *Anubhāṣya*: “the embodied” — those who identify with the body; “those who have realized the self” — *ātmārāmas*, detached from matter and engaged in austerities and vows.

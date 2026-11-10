@@ -283,7 +283,7 @@ let her make  as she wishes  Jagannātha’s  darśana
 āste-vyaste sei nārī bhūmete nāmilā  
 hurriedly  that  woman  to the ground  came down  
 mahāprabhure dekhi’ tām̐ra caraṇa vandilā  
-Mahāprabhu  seeing  His  feet  she honored
+Mahāprabhu  seeing  His  feet  she honoured
 
 (27) The woman hurriedly climbed down, and when she saw Mahāprabhu she bowed at His feet.
 
@@ -311,7 +311,7 @@ on My  shoulder  foot  she has placed  that  not  she knows
 ইহার প্রসাদে ঐছে আর্ত্তি আমার বা হয় ॥ ৩০ ॥
 
 aho bhāgyavatī ei, vandi ihāra pāya  
-oh  fortunate  is she  I honor  her  feet  
+oh  fortunate  is she  I honour  her  feet  
 ihāra prasāde aiche ārti āmāra vā haya  
 her  by the grace  such  eagerness  in Me  may  arise
 
@@ -373,9 +373,9 @@ dejected  becoming  the Lord  to His own  residence  came
 bhūmira upara vasi’ nija-nakhe bhūmi likhe  
 the ground  upon  sitting  with His own nails  the ground  He scratches  
 aśru-gaṅgā netre vahe, kichui nā dekhe  
-a Ganges of tears  from the eyes  flows  anything  not  He sees
+a Gaṅgā of tears  from the eyes  flows  anything  not  He sees
 
-(36) Sitting on the ground, He scratched at the earth with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
+(36) Sitting on the ground, He scratched at the earth with His nails; a Gaṅgā of tears flowed from His eyes, and He saw nothing at all.
 
 পাইনু বৃন্দাবননাথ, পুনঃ হারাইনু ৷  
 কে মোর নিলেক কৃষ্ণ? কাঁহা মুই আইনু ? ॥ ৩৭ ॥
@@ -979,9 +979,9 @@ Caṭaka  hill  He saw  suddenly
 govardhana-śaila-jñāne āviṣṭa hailā  
 Govardhana  hill  in the thought  absorbed  became  
 parvata-diśāte prabhu dhāñā calilā  
-hill  toward  the Lord  running  went
+hill  towards  the Lord  running  went
 
-(85) Taking it for Govardhana Hill, the Lord was overcome with feeling and ran toward it.
+(85) Taking it for Govardhana Hill, the Lord was overcome with feeling and ran towards it.
 
 হন্তায়মদ্রিরবলা হরিদাসবর্য্যো  
 যদ্রামকৃষ্ণচরণ-স্পর্শ-প্রমোদঃ ৷  

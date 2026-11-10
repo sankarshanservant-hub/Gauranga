@@ -1450,7 +1450,7 @@ soon  without obstacles  you will attain  Caitanya’s feet
 saba bhakta-dvāre tām̐re āśīrvāda karāilā  
 all  through the devotees  on him  blessing  He had bestowed  
 tām̐-sabāra caraṇa raghunātha vandilā  
-their  all  the feet  Raghunātha  honored
+their  all  the feet  Raghunātha  honoured
 
 (144) Through all the devotees the Lord had him blessed, and Raghunātha bowed at the feet of them all.[^34]
 
@@ -1618,7 +1618,7 @@ Yadunandana Ācārya  then  made  his entrance
 রঘুনাথের ‘গুরু’ তেঁহো হয় ‘পুরোহিত’ ॥ ১৬১ ॥
 
 vāsudeva-dattera tem̐ha haya ‘anugṛhīta’  
-of Vāsudeva Datta  he  is  ‘favored’  
+of Vāsudeva Datta  he  is  ‘favoured’  
 raghunāthera ‘guru’ tem̐ho haya ‘purohita’  
 Raghunātha’s  ‘guru’  he  is  ‘purohita’
 
@@ -1928,7 +1928,7 @@ rising  the Lord  in mercy  him  embraced
 প্রভু-কৃপা দেখি’ সবে আলিঙ্গন কৈলা ॥ ১৯২ ॥
 
 svarūpādi saba bhaktera caraṇa vandilā  
-of Svarūpa and all  the devotees  the feet  he honored  
+of Svarūpa and all  the devotees  the feet  he honoured  
 prabhu-kṛpā dekhi’ sabe āliṅgana kailā  
 the Lord’s mercy  seeing  all  embraced him
 
@@ -1988,7 +1988,7 @@ as happiness  they take  of the poison of sense objects  the great torment
 ‘শুদ্ধবৈষ্ণব’ নহে, ‘বৈষ্ণবের প্রায়’ ॥ ১৯৮ ॥
 
 yadyapi brahmaṇya kare brāhmaṇera sahāya  
-although  piety toward brāhmaṇas  they show  of the brāhmaṇas  helpers  
+although  piety towards brāhmaṇas  they show  of the brāhmaṇas  helpers  
 ‘śuddha-vaiṣṇava’ nahe, ‘vaiṣṇavera prāya’  
 ‘pure Vaiṣṇavas’  not  ‘almost Vaiṣṇavas’
 
@@ -2994,7 +2994,7 @@ one  jug  of water  and  tulasī mañjarīs
 sāttvika-sevā ei — śuddha-bhāve kari  
 sāttvic service  this  in a pure spirit  doing
 
-(296) A jug of water and *tulasī* buds (*mañjarīs*): this is *sāttvic* service, performed in a pure spirit.
+(296) A jug of water and tulasī buds (*mañjarīs*): this is *sāttvic* service, performed in a pure spirit.
 
 দুইদিকে দুইপত্র-মধ্যে কোমল মঞ্জরী ৷  
 এইমত অষ্টমঞ্জরী দিবে শ্রদ্ধা করি’ ॥ ২৯৭ ॥
@@ -3054,7 +3054,7 @@ with water and tulasī  in the service  as much  happiness arising
 ṣoḍaśopacāra-pūjāya tata sukha naya  
 in worship with sixteen articles  as much  happiness  is not
 
-(302) The happiness that arose in this service with water and *tulasī* is not found even in worship with sixteen articles.
+(302) The happiness that arose in this service with water and tulasī is not found even in worship with sixteen articles.
 
 এইমত কত দিন করেন পূজন ৷  
 তবে স্বরূপ-গোসাঞি তাঁরে কহিলা বচন ॥ ৩০৩ ॥
@@ -3314,7 +3314,7 @@ from His chest  the guñjā garland  dear  though  and  the Govardhana śilā
 dadau me gaurāṅgo hṛdaya udayan māṁ madayati  
 gave  to me  Gaurāṅga  in my heart  rising  me  maddens
 
-(327) “Fallen as I was, He mercifully lifted me out of the forest fire of great wealth, and joyfully entrusted me, wretched as I am, to His own Svarūpa. Though they were dear to Him, He gave me the *guñjā* garland from His chest and the *govardhana-śilā*. That Gaurāṅga, rising in my heart, makes me mad with joy.” (*Caitanya-stava-kalpavṛkṣa*, 11)[^75]
+(327) “Fallen as I was, He mercifully lifted me out of the forest fire of great wealth, and joyfully entrusted me, wretched as I am, to His own Svarūpa. Though they were dear to Him, He gave me the *guñjā* garland from His chest and the *govardhana-śilā*. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 11)[^75]
 
 এই ত’ কহিলুঁ রঘুনাথের মিলন ৷  
 ইহা যেই শুনে, পায় চৈতন্যচরণ ॥ ৩২৮ ॥
@@ -3366,7 +3366,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^14]: Edition heading: he runs away again and again, is caught, and is kept under guard.
 
-[^15]: *Amṛta-pravāha-bhāṣya*: *prārabdha* — the deeds of past lives that have begun to bear fruit. Edition heading: the father who begets the body is not the eternal Lord, not Īśvara: he cannot destroy the *jīva*’s *prārabdha-karma*.
+[^15]: *Amṛta-pravāha-bhāṣya*: *prārabdha* — the deeds of past lives that have begun to bear fruit. Edition heading: the father who begets the body is not the eternal Lord, not Īśvara: he cannot destroy the jīva’s *prārabdha-karma*.
 
 [^16]: Edition heading: only a servant absorbed in Caitanya is free, that is, beyond this world.
 

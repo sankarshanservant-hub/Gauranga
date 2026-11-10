@@ -96,7 +96,7 @@ on the neck  a garland  puts  on the head  placed  tulasī buds
 yoḍa hāte stuti kare pade namaskari’  
 joined  with hands  prayers  offers  at the feet  bowing
 
-(9) He put a garland around the Lord’s neck and placed *tulasī* buds on His head; then He bowed at His feet and offered prayers with joined palms.
+(9) He put a garland around the Lord’s neck and placed tulasī buds on His head; then He bowed at His feet and offered prayers with joined palms.
 
 পূজা-পাত্রে পুষ্প-তুলসী শেষ যে আছিল ৷  
 সেই সব লঞা প্রভু আচার্য্যে পূজিল ॥ ১০ ॥
@@ -106,7 +106,7 @@ on the worship plate  of flowers and tulasī  remnant  that  was
 sei saba lañā prabhu ācārye pūjila  
 that  all  taking  the Lord  the Ācārya  worshipped
 
-(10) Taking whatever flowers and *tulasī* were left on the worship plate, the Lord worshipped the Ācārya with them.
+(10) Taking whatever flowers and tulasī were left on the worship plate, the Lord worshipped the Ācārya with them.
 
 ‘যোঽসি সোঽসি নমোঽস্তু তে’ এই মন্ত্র পড়ে ৷  
 মুখবাদ্য করি’ প্রভু হাসায় আচার্য্যেরে ॥ ১১ ॥
@@ -116,7 +116,7 @@ who  You are  that  You are  obeisance  be  to You  this  mantra  recites
 mukha-vādya kari’ prabhu hāsāya ācāryere  
 mouth-music  making  the Lord  makes laugh  the Ācārya
 
-(11) He recited the *mantra* “Whoever You are, that You are — obeisance to You,” and, making funny sounds with His mouth, set the Ācārya laughing.[^4]
+(11) He recited the mantra “Whoever You are, that You are — obeisance to You,” and, making funny sounds with His mouth, set the Ācārya laughing.[^4]
 
 এইমত অন্যোন্যে করেন নমস্কার ৷  
 প্রভুরে নিমন্ত্রণ করে আচার্য্য বার বার ॥ ১২ ॥
@@ -486,7 +486,7 @@ her  service  leaving  I  have taken  sannyāsa
 dharma nahe, kari āmi nija-dharma nāśa  
 dharma  it is not  do  I  My own dharma  destruction
 
-(48) I gave up serving her and took *sannyāsa*. That is not *dharma*: I am destroying My own *dharma*.[^16]
+(48) I gave up serving her and took sannyāsa. That is not dharma: I am destroying My own dharma.[^16]
 
 তাঁর প্রেম বশ আমি, তাঁর সেবা — ধর্ম্ম ৷  
 তাহা ছাড়ি’ করিয়াছি বাতুলের কর্ম্ম ॥ ৪৯ ॥
@@ -496,7 +496,7 @@ her  love  subject to  I am  her  service  —  dharma
 tāhā chāḍi’ kariyāchi vātulera karma  
 that  leaving  I have done  of a madman  deed
 
-(49) I am subject to her love, and serving her is My *dharma*. In giving that up I have acted like a madman.
+(49) I am subject to her love, and serving her is My dharma. In giving that up I have acted like a madman.
 
 বাতুল বালকের মাতা নাহি লয় দোষ ৷  
 এই জানি’ মাতা মোরে না করয় রোষ ॥ ৫০ ॥
@@ -516,7 +516,7 @@ what  use  in sannyāsa  to Me  love  own wealth
 ye-kāle sannyāsa kailum̐, channa haila mana  
 at the time  sannyāsa  I took  deranged  became  mind
 
-(51) What use is *sannyāsa* to Me? Love is My real wealth. When I took *sannyāsa*, My mind was deranged.
+(51) What use is *sannyāsa* to Me? Love is My real wealth. When I took sannyāsa, My mind was deranged.
 
 নীলাচলে আছি মুঞি তাঁহার আজ্ঞাতে ৷  
 মধ্যে মধ্যে আসিমু তাঁর চরণ দেখিতে ॥ ৫২ ॥
@@ -1043,7 +1043,7 @@ the Lord  says  —  service to Kṛṣṇa  service to the Vaiṣṇavas
 ‘nirantara kara kṛṣṇa-nāma-saṁkīrtana’  
 constantly  do  saṅkīrtana of Kṛṣṇa’s name
 
-(104) The Lord said, “Serve Kṛṣṇa, serve the Vaiṣṇavas, and always chant the name of Kṛṣṇa in *saṅkīrtana*.”
+(104) The Lord said, “Serve Kṛṣṇa, serve the Vaiṣṇavas, and always chant the name of Kṛṣṇa in saṅkīrtana.”
 
 সত্যরাজ বলে, — বৈষ্ণব চিনিব কেমনে ?  
 কে বৈষ্ণব, কহ তাঁর সামান্য লক্ষণে ॥ ১০৫ ॥
@@ -1109,7 +1109,7 @@ not  initiation  nor  and  pious rites  nor  and  puraścaryā  in the least  lo
 mantro ’yaṁ rasanā-spṛg eva phalati śrī-kṛṣṇa-nāmātmakaḥ  
 mantra  this  touching the tongue  merely  bears fruit  consisting of Śrī Kṛṣṇa’s name
 
-(110) “This *mantra*, the name of Śrī Kṛṣṇa, draws the liberated and the wise and uproots all sins. Down to the *caṇḍāla*, it is within easy reach of everyone who is not mute, and it holds the wealth of liberation in its power. It does not look in the least for initiation, pious rites or *puraścaryā*: merely by touching the tongue it bears fruit.” (Padyāvalī, 29)[^34]
+(110) “This mantra, the name of Śrī Kṛṣṇa, draws the liberated and the wise and uproots all sins. Down to the *caṇḍāla*, it is within easy reach of everyone who is not mute, and it holds the wealth of liberation in its power. It does not look in the least for initiation, pious rites or *puraścaryā*: merely by touching the tongue it bears fruit.” (Padyāvalī, 29)[^34]
 
 ‘অতএব যাঁর মুখে এক কৃষ্ণনাম ৷  
 সেই ত’ বৈষ্ণব, করিহ তাঁহার সম্মান’ ॥ ১১১ ॥
@@ -1117,7 +1117,7 @@ mantra  this  touching the tongue  merely  bears fruit  consisting of Śrī Kṛ
 ‘ataeva yām̐ra mukhe eka kṛṣṇa-nāma  
 therefore  in whose  mouth  one  name of Kṛṣṇa  
 sei ta’ vaiṣṇava, kariha tām̐hāra sammāna’  
-he  indeed  a Vaiṣṇava  do  his  honor
+he  indeed  a Vaiṣṇava  do  his  honour
 
 (111) Therefore anyone on whose lips is even one name of Kṛṣṇa is a Vaiṣṇava; show him honour.”[^35]
 
@@ -1299,7 +1299,7 @@ of kadamba  one  on a tree  bloom  twelve months
 nitya dui phula haya kṛṣṇa-avataṁse  
 daily  two  flowers  are  for Kṛṣṇa’s ornament
 
-(129) stands a *kadamba* tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Kṛṣṇa.[^40]
+(129) stands a kadamba tree that blossoms all twelve months of the year; every day it gives two flowers to adorn Kṛṣṇa.[^40]
 
 মুকুন্দেরে কহে পুনঃ মধুর বচন ৷  
 ‘তোমার কার্য্য — ধর্ম্ম-ধন-উপার্জ্জন ॥ ১৩০ ॥
@@ -1309,7 +1309,7 @@ to Mukunda  says  again  sweet  words
 ‘tomāra kārya — dharma-dhana-upārjana  
 your  duty  —  earning dharma and wealth
 
-(130) Again He spoke sweet words to Mukunda: “Your duty is to earn wealth in keeping with *dharma*.[^41]
+(130) Again He spoke sweet words to Mukunda: “Your duty is to earn wealth in keeping with dharma.[^41]
 
 রঘুনন্দনের কার্য্য — কৃষ্ণের সেবন ৷  
 কৃষ্ণ-সেবা বিনা ইঁহার অন্য নাহি মন ॥ ১৩১ ॥
@@ -1399,7 +1399,7 @@ Himself  the Lord  Kṛṣṇa  —  the source of all portions  the shelter of 
 viśuddha-nirmala-prema, sarva-rasamaya  
 pure spotless love  full of all rasas
 
-(139) Kṛṣṇa is Bhagavān Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every *rasa* is found in Him.
+(139) Kṛṣṇa is Bhagavān Himself, the source of all His portions and the shelter of all. He is pure, spotless love, and every rasa is found in Him.
 
 সকল-সদ্গুণ-বৃন্দ-রত্ন-রত্নাকর ৷  
 বিদগ্ধ, চতুর, ধীর, রসিক শেখর ॥ ১৪০ ॥
@@ -1407,9 +1407,9 @@ pure spotless love  full of all rasas
 sakala-sadguṇa-vṛnda-ratna-ratnākara  
 a jewel-mine of the jewels of all good qualities  
 vidagdha, catura, dhīra, rasika śekhara  
-clever  skillful  composed  of rasikas  the crest
+clever  skilful  composed  of rasikas  the crest
 
-(140) He is a mine filled with the jewels of every good quality. He is expert, clever and composed — the crown of all who relish *rasa*.
+(140) He is a mine filled with the jewels of every good quality. He is expert, clever and composed — the crown of all who relish rasa.
 
 মধুর-চরিত্র কৃষ্ণের মধুর বিলাস ৷  
 চাতুর্য্য, বৈদগ্ধ্য করে যাঁর লীলা-রস ॥ ১৪১ ॥
@@ -1419,7 +1419,7 @@ of sweet character  Kṛṣṇa’s  sweet  pastimes
 cāturya, vaidagdhya kare yām̐ra līlā-rasa  
 cleverness  skill  make  whose  the rasa of pastimes
 
-(141) Kṛṣṇa’s nature is sweet, and His pastimes are sweet; cleverness and skill fill the *rasa* of His play.
+(141) Kṛṣṇa’s nature is sweet, and His pastimes are sweet; cleverness and skill fill the rasa of His play.
 
 সেই কৃষ্ণ ভজ তুমি, হও কৃষ্ণাশ্রয় ৷  
 কৃষ্ণ বিনা অন্য-উপাসনা মনে নাহি লয় ॥ ১৪২ ॥
@@ -1775,7 +1775,7 @@ in it  float  māyā  with  infinite  universes
 gaḍa-khāite bhāse yena rāi-pūrṇa bhāṇḍa  
 in the moat  floats  as  with mustard seeds filled  a pot
 
-(176) “On it the infinite universes float together with *māyā*, like a pot full of mustard seeds floating in a moat.
+(176) “On it the infinite universes float together with māyā, like a pot full of mustard seeds floating in a moat.
 
 তার এক রাই-নাশে, হানি নাহি মানি ৷  
 ঐছে এক অণ্ড-নাশে কৃষ্ণের নাহি হানি ॥ ১৭৭ ॥
@@ -1795,7 +1795,7 @@ all  universes  along with  if  of māyā  there is  destruction
 tathāpi nā māne kṛṣṇa kichu apacaya  
 still  not  considers  Kṛṣṇa  any  loss
 
-(178) “Even if *māyā* herself is destroyed along with all the universes, Kṛṣṇa does not consider it any loss.
+(178) “Even if māyā herself is destroyed along with all the universes, Kṛṣṇa does not consider it any loss.
 
 কোটি-কামধেনু-পতির ছাগী যৈছে মরে ৷  
 ষড়ৈশ্বর্য্যপতি কৃষ্ণের মায়া কিবা করে ? ॥ ১৭৯ ॥
@@ -1805,7 +1805,7 @@ of millions of wish-fulfilling cows  of the owner  a she-goat  as  dies
 ṣaḍ-aiśvarya-pati kṛṣṇera māyā kibā kare?  
 of the six opulences the Lord  of Kṛṣṇa  māyā  what  does
 
-(179) “It is like the death of a she-goat for the owner of millions of wish-fulfilling cows. What can *māyā* mean to Kṛṣṇa, the Lord of the six opulences?
+(179) “It is like the death of a she-goat for the owner of millions of wish-fulfilling cows. What can māyā mean to Kṛṣṇa, the Lord of the six opulences?
 
 জয় জয় জহ্যজামজিত দোষগৃভীতগুণাং  
 ত্বমসি যদাত্মনা সমবরুদ্ধসমস্তভগঃ ৷  
@@ -1821,7 +1821,7 @@ of the unmoving and the moving beings  of all potencies  the awakener  of You
 kvacid ajayātmanā ca carato ’nucaren nigamaḥ  
 sometimes  with māyā and with Your own potency  and  acting  describe  the Vedas
 
-(180) “Glory, glory to You, O unconquered one! Destroy the unborn *māyā*, who has taken up the qualities to bring about faults, for in Yourself You hold all excellences in full. O awakener of all the potencies of moving and unmoving beings, the Vedas describe You sometimes as acting through *māyā* and sometimes through Your own potency.” (Śrīmad-Bhāgavatam, 10.87.14)[^47]
+(180) “Glory, glory to You, O unconquered one! Destroy the unborn māyā, who has taken up the qualities to bring about faults, for in Yourself You hold all excellences in full. O awakener of all the potencies of moving and unmoving beings, the Vedas describe You sometimes as acting through māyā and sometimes through Your own potency.” (Śrīmad-Bhāgavatam, 10.87.14)[^47]
 
 এই মত সর্ব্বভক্তের কহি’ সব গুণ ৷  
 সবারে বিদায় দিল করি’ আলিঙ্গন ॥ ১৮১ ॥
@@ -1898,7 +1898,7 @@ now  my  in the house  meals  take  a month  full
 prabhu kahe, — dharma nahe, karite nā pāri  
 the Lord  says  dharma  it is not  to do  not  I can
 
-(188) “Please take Your meals at my house for a whole month.” The Lord said, “That is not *dharma*; I cannot do it.”
+(188) “Please take Your meals at my house for a whole month.” The Lord said, “That is not dharma; I cannot do it.”
 
 সার্ব্বভৌম কহে, — ভিক্ষা করহ ‘বিশ’ দিন ৷  
 প্রভু কহে, — এ নহে যতিধর্ম্ম-চিহ্ন ॥ ১৮৯ ॥
@@ -1908,7 +1908,7 @@ Sārvabhauma  says  meals  take  twenty  days
 prabhu kahe, — e nahe yati-dharma-cihna  
 the Lord  says  this  not  of a renunciant’s dharma  the mark
 
-(189) Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s *dharma*.”
+(189) Sārvabhauma said, “Then take Your meals with me for twenty days.” The Lord said, “That is not in keeping with a renunciant’s dharma.”
 
 সার্ব্বভৌম কহে পুনঃ, — দিন ‘পঞ্চদশ’ ৷  
 প্রভু কহে, — তোমার ভিক্ষা ‘এক’ দিবস ॥ ১৯০ ॥
@@ -1948,7 +1948,7 @@ then  Sārvabhauma  makes  another  petition
 tomāra saṅge sannyāsī āche daśajana  
 You  with  sannyāsīs  there are  ten persons
 
-(193) Then Sārvabhauma made another request: “Ten *sannyāsīs* are with You.
+(193) Then Sārvabhauma made another request: “Ten sannyāsīs are with You.
 
 পুরী-গোসাঞির ভিক্ষা পাঁচদিন মোর ঘরে ৷  
 পূর্ব্বে আমি কহিয়াছোঁ তোমার গোচরে ॥ ১৯৪ ॥
@@ -1978,7 +1978,7 @@ the other  eight  sannyāsīs’  meals  two  two  days
 eka ekadina eka eka jane pūrṇa haila māse  
 one  a day  one  one  person  full  became  the month
 
-(196) “The other eight *sannyāsīs* will take their meals with me for two days each, one person each day. In this way the month will be filled.
+(196) “The other eight sannyāsīs will take their meals with me for two days each, one person each day. In this way the month will be filled.
 
 বহুত সন্ন্যাসী যদি আইসে এক ঠাঞি ৷  
 সম্মান করিতে নারি, অপরাধ পাই ॥ ১৯৭ ॥
@@ -1988,7 +1988,7 @@ many  sannyāsīs  if  come  to one  place
 sammāna karite nāri, aparādha pāi  
 honour  to give  I cannot  offence  I incur
 
-(197) “If many *sannyāsīs* come at once, I will not be able to honour them properly and will commit an offence.
+(197) “If many sannyāsīs come at once, I will not be able to honour them properly and will commit an offence.
 
 তুমিহ নিজ-ছায়ে আসিবে মোর ঘরে ৷  
 কভু সঙ্গে আনিবে স্বরূপ-দামোদরে ॥ ১৯৮ ॥
@@ -2392,7 +2392,7 @@ remnants  eating  servants
 tava māyāṁ jayema hi  
 Your  māyā  shall conquer  surely
 
-(237) “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your *māyā*.’ (Śrīmad-Bhāgavatam, 11.6.46)[^58]
+(237) “ ‘Adorned with the garlands, scents, clothes and ornaments You have used, and eating Your remnants, we, Your servants, shall surely conquer Your māyā.’ (Śrīmad-Bhāgavatam, 11.6.46)[^58]
 
 তথাপি এতেক অন্ন খাওন না যায় ৷  
 ভট্ট কহে, — জানি, খাও, যতেক যুয়ায় ॥ ২৩৮ ॥
@@ -2502,7 +2502,7 @@ with this  food  satisfied  become  ten  twelve  people
 ekelā sannyāsī kare eteka bhakṣaṇa  
 alone  a sannyāsī  does  so much  eating
 
-(248) “This food would satisfy ten or twelve people, and one *sannyāsī* eats so much all by himself!”
+(248) “This food would satisfy ten or twelve people, and one sannyāsī eats so much all by himself!”
 
 শুনি’ ভট্টাচার্য্য তবে উলটি’ চাহিল ৷  
 তাঁর অবধান দেখি’ অমোঘ পলাইল ॥ ২৪৯ ॥
@@ -2727,7 +2727,7 @@ destroys  benefits  all
 puṁso mahad-atikramaḥ  
 of a man  offence against the great
 
-(270) “Offence against great souls destroys a man’s life, fortune, fame and *dharma*, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)[^67]
+(270) “Offence against great souls destroys a man’s life, fortune, fame and dharma, his higher worlds and blessings — all that is good for him.” (Śrīmad-Bhāgavatam, 10.4.46)[^67]
 
 গোপীনাথাচার্য্য গেলা প্রভু-দরশনে ৷  
 প্রভু তাঁরে পুছিল ভট্টাচার্য্য-বিবরণে ॥ ২৭১ ॥
@@ -2977,7 +2977,7 @@ this  saying  the Lord  went  to see Īśvara
 bhaṭṭa snāna darśana kari’ karilā bhojane  
 Bhaṭṭa  bath  sight  having made  took  meal
 
-(295) With these words the Lord went to see Jagannātha, and Bhaṭṭa bathed, took *darśana* and ate.
+(295) With these words the Lord went to see Jagannātha, and Bhaṭṭa bathed, took darśana and ate.
 
 সেই অমোঘ হৈল প্রভুর ভক্ত ‘একান্ত’ ৷  
 প্রেমে নাচে, কৃষ্ণনাম লয় মহাশান্ত ॥ ২৯৬ ॥
@@ -3057,7 +3057,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^3]: *Anubhāṣya*: the *upala-bhoga* is offered at midday in the *bhoga-vardhana* hall. Before leaving the temple, the Lord would stand behind the Garuḍa pillar, fall prostrate and offer prayers; on the way back He met Haridāsa Ṭhākura at Siddha-bakula and returned to His dwelling, the house of Kāśī Miśra.
 
-[^4]: *Anubhāṣya*: some give the *mantra* in a fuller form: “O Rādhā, O Kṛṣṇa, O Rāma, O Viṣṇu, O Sītā, O Rāma, O Śiva, O Śiva! Whoever You are, that You are — I always bow to You; whoever You are, that You are — obeisance to You.”
+[^4]: *Anubhāṣya*: some give the mantra in a fuller form: “O Rādhā, O Kṛṣṇa, O Rāma, O Viṣṇu, O Sītā, O Rāma, O Śiva, O Śiva! Whoever You are, that You are — I always bow to You; whoever You are, that You are — obeisance to You.”
 
 [^5]: *Amṛta-pravāha-bhāṣya*: see the *Śrī Caitanya-bhāgavata*, Antya-khaṇḍa, chapter 9.
 
@@ -3081,11 +3081,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^15]: The edition reads তোমার নিকটে (locative: “near You”); the Bengali text and transliteration are corrected accordingly (scan, p. 582).
 
-[^16]: *Anubhāṣya*: by taking *sannyāsa* the Lord failed in the *dharma* of serving His mother.
+[^16]: *Anubhāṣya*: by taking sannyāsa the Lord failed in the dharma of serving His mother.
 
 [^17]: Heading in the edition: “The Lord promises that even now He will come to Māyāpura from time to time to see Śacī.”
 
-[^18]: Heading in the edition: “The Lord has always visited Śacī, but by the power of His *māyā* Śacī doubts it.”
+[^18]: Heading in the edition: “The Lord has always visited Śacī, but by the power of His māyā Śacī doubts it.”
 
 [^19]: Money was counted in cowrie shells: a *gaṇḍā* is four cowries, so five *gaṇḍās* are twenty. Heading in the edition: “The wonderful variety of Rāghava’s coconut offerings.”
 
@@ -3093,7 +3093,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^21]: The edition reads *śata-pātra* (literally “a hundred vessels”, or a vessel of that name); the commentaries do not explain the word, and it is rendered neutrally as “a plate”.
 
-[^22]: *Anubhāṣya*: Rāghava Paṇḍita was neither a man of *karma* afflicted with the worldly “disease of cleanliness” nor a novice devotee who “considers the earth worshipable” (Śrīmad-Bhāgavatam, 10.84.13). He was an eternally perfect servant of Kṛṣṇa, absorbed in transcendental service. Those whose devotion is mixed with *karma* do not prove their pure devotion by imitating his outward conduct and arguing about worldly purity and impurity (see Antya 4.174, 176; Śrīmad-Bhāgavatam, 11.28.4).
+[^22]: *Anubhāṣya*: Rāghava Paṇḍita was neither a man of karma afflicted with the worldly “disease of cleanliness” nor a novice devotee who “considers the earth worshipable” (Śrīmad-Bhāgavatam, 10.84.13). He was an eternally perfect servant of Kṛṣṇa, absorbed in transcendental service. Those whose devotion is mixed with karma do not prove their pure devotion by imitating his outward conduct and arguing about worldly purity and impurity (see Antya 4.174, 176; Śrīmad-Bhāgavatam, 11.28.4).
 
 [^23]: *Amṛta-pravāha-bhāṣya*: *huḍuma* is a particular grain; its puffed form (*khai*) is especially common in Utkala.
 
@@ -3113,13 +3113,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^31]: *Anubhāṣya*: these are the marks of a *kaniṣṭha* (novice) Vaiṣṇava. One who believes that every perfection is attained by the name of Kṛṣṇa alone is a Vaiṣṇava, though his faith is still soft and he does not chant the name constantly. “The best of all” — the best in all of Devī-dhāma: even a novice devotee who worships Viṣṇu stands above the pious *karmī* and the *jñānī*, for he believes that Viṣṇu is the eternal Reality.
 
-[^32]: *Anubhāṣya*: for one who avoids offences against the name and takes shelter of the name of Kṛṣṇa alone, all sins and all worldly desires are destroyed; the nine kinds of devotion (Śrīmad-Bhāgavatam, 7.5.23) reach completeness only through service to the name: “in Kali-yuga the other kinds of bhakti too are performed together with kīrtana” (*Bhakti-sandarbha*, 173).
+[^32]: *Anubhāṣya*: for one who avoids offences against the name and takes shelter of the name of Kṛṣṇa alone, all sins and all worldly desires are destroyed; the nine kinds of devotion (Śrīmad-Bhāgavatam, 7.5.23) reach completeness only through service to the name: “in Kali-yuga the other kinds of bhakti too are performed together with kīrtana” (Bhakti-sandarbha, 173).
 
-[^33]: *Anubhāṣya*: initiation awakens divine knowledge and destroys sin; *puraścaryā* is the fivefold worship (worship three times a day, *japa*, *tarpaṇa*, *homa* and feeding *brāhmaṇas*) that brings a *mantra* to perfection. Śrī Nāma, the *mahā-mantra*, needs none of this: merely uttering it brings every fruit. “Touching the tongue” means a tongue inclined to service: on a tongue that seeks worldly pleasure the name of Kṛṣṇa never appears. Heading in the edition: “Śrī Nāma — the Lord Kṛṣṇa Himself — does not depend on other acts.”
+[^33]: *Anubhāṣya*: initiation awakens divine knowledge and destroys sin; *puraścaryā* is the fivefold worship (worship three times a day, *japa*, *tarpaṇa*, *homa* and feeding *brāhmaṇas*) that brings a mantra to perfection. Śrī Nāma, the *mahā-mantra*, needs none of this: merely uttering it brings every fruit. “Touching the tongue” means a tongue inclined to service: on a tongue that seeks worldly pleasure the name of Kṛṣṇa never appears. Heading in the edition: “Śrī Nāma — the Lord Kṛṣṇa Himself — does not depend on other acts.”
 
 [^34]: Heading in the edition: a verse of Śrīdhara Svāmī quoted in the *Padyāvalī* (29). *Anubhāṣya*: *kṛta-cetasām* — of the liberated; *sumanasām* (another reading, *sumahatām*) — of the wise, who have passed beyond the three *guṇas*; *aṁhasām* — of both piety and sin, the acts born of absorption in the world; *amūka-loka-sulabha* — within reach of everyone who is not mute.
 
-[^35]: *Anubhāṣya*: Śrī Rūpa Gosvāmī (*Upadeśāmṛta*, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
+[^35]: *Anubhāṣya*: Śrī Rūpa Gosvāmī (Upadeśāmṛta, 5) says that one on whose lips is the name of Kṛṣṇa should be honoured in the mind. *Amṛta-pravāha-bhāṣya*: a Vaiṣṇava householder need only serve a Vaiṣṇava devoted to the name of Kṛṣṇa alone. One initiated into a Viṣṇu-*mantra* who does not know the truth may be tainted by Māyāvāda — he is “almost a Vaiṣṇava”; but one who has uttered the name of Kṛṣṇa even once without offence, even as a novice, is “a pure Vaiṣṇava”.
 
 [^36]: Heading in the edition: “Mukunda, who seeks no honour himself and honours others, knows Raghunandana to be a devotee of Kṛṣṇa and so sees in him not a son but a guru.”
 
@@ -3131,7 +3131,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^40]: *Anubhāṣya*: *avataṁsa* — an ornament for the ears or the head.
 
-[^41]: *Anubhāṣya*: Mahāprabhu knew Mukunda to be a very dear, intimate devotee. Dividing the service among the two brothers and the son, He gave Mukunda *dharma* and earning a living, Raghunandana the service of the Deity, and Narahari life among the devotees.
+[^41]: *Anubhāṣya*: Mahāprabhu knew Mukunda to be a very dear, intimate devotee. Dividing the service among the two brothers and the son, He gave Mukunda dharma and earning a living, Raghunandana the service of the Deity, and Narahari life among the devotees.
 
 [^42]: *Amṛta-pravāha-bhāṣya*: Sārvabhauma worships Jagannāthadeva, the Dāru-brahma (Brahman in the form of wood), while Vidyā-vācaspati, living in Vidyānagara within Navadvīpa-dhāma, serves the Gaṅgā, the Jala-brahma (Brahman in the form of water).
 
@@ -3143,7 +3143,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^46]: Heading in the edition: “Obeisance to Govinda, the giver of all fruits (Brahma-saṁhitā, 5.54).” *Anubhāṣya*: the *indragopa* is a small red insect; for His devotees Govinda destroys both *prārabdha* and *aprārabdha* karma — all the fruits still to be tasted.
 
-[^47]: *Anubhāṣya*: on Janaloka, at the *brahma-satra* sacrifice, Sanandana, one of the four Kumāras, recounts to the sages this prayer of the personified *śrutis*; the repeated *jaya* is a reverent insistence (“show Your supremacy!”); the *Anubhāṣya* takes *aga-jagad-okasām* with *ajām*: the *māyā* that holds sway over moving and unmoving beings.
+[^47]: *Anubhāṣya*: on Janaloka, at the *brahma-satra* sacrifice, Sanandana, one of the four Kumāras, recounts to the sages this prayer of the personified *śrutis*; the repeated *jaya* is a reverent insistence (“show Your supremacy!”); the *Anubhāṣya* takes *aga-jagad-okasām* with *ajām*: the māyā that holds sway over moving and unmoving beings.
 
 [^48]: *Anubhāṣya*: Yameśvara-ṭoṭā is a garden on the sands south-west of the Śrī Mandira; there Mahāprabhu gave Gadādhara Paṇḍita a place to live. *Amṛta-pravāha-bhāṣya*: the reading “at Jaleśvara” does not seem right; in Yameśvara-ṭoṭā stands the temple of Śrī Ṭoṭā-Gopīnātha, where Gadādhara Paṇḍita lived, serving Gopīnātha and Mahāprabhu.
 

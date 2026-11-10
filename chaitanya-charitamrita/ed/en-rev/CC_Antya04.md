@@ -1655,7 +1655,7 @@ me  You make drink  of respectful praise  of nimba  of niśindā  the juice
 মোর অভাগ্য, তুমি — স্বতন্ত্র ভগবান্! ॥ ১৬৪ ॥
 
 ājiha nahila more ātmīyatā-jñāna!  
-even today  there was not  toward me  of intimacy  the feeling  
+even today  there was not  towards me  of intimacy  the feeling  
 mora abhāgya, tumi — svatantra bhagavān!  
 my  misfortune  You  are  the independent  Bhagavān
 
@@ -1725,11 +1725,11 @@ by your  qualities  praise  you make Me give  such are  your  qualities
 প্রীতি-স্বভাবে কাঁহাতে কোন ভাবোদয় ॥ ১৭১ ॥
 
 yadyapi kāhāra ‘mamatā’ bahu-jane haya  
-although  of someone  the sense of “mine”  toward many people  is  
+although  of someone  the sense of “mine”  towards many people  is  
 prīti-svabhāve kām̐hāte kona bhāvodaya  
-by love’s nature  toward someone  some  feeling arises
+by love’s nature  towards someone  some  feeling arises
 
-(171) Although one may feel many people to be one’s own, by the nature of love a particular feeling arises toward each.
+(171) Although one may feel many people to be one’s own, by the nature of love a particular feeling arises towards each.
 
 তোমার দেহ তুমি কর বীভৎস-জ্ঞান ৷  
 তোমার দেহ আমারে লাগে অমৃত-সমান ॥ ১৭২ ॥
@@ -1877,7 +1877,7 @@ of the one who cherishes  in the cherished  is not  of faults  the perception
 তোমা-সবারে করোঁ মুঞি বালক-অভিমান ॥ ১৮৫ ॥
 
 āpanāre haya mora amānya-samāna  
-toward Myself  is  My  like one not to be honoured  
+towards Myself  is  My  like one not to be honoured  
 tomā-sabāre karom̐ muñi bālaka-abhimāna  
 you all  I hold  I  as children  the conception
 
@@ -2479,7 +2479,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^24]: The same verse as Madhya 22.100; translation as there. The reference follows the edition heading; the *Anubhāṣya* refers to Madhya 22.101 in the edition’s numbering (22.100 in ours).
 
-[^25]: *Anubhāṣya*: *catuḥsama* is a perfume of two parts musk, four of sandal, three of *kuṅkuma* (saffron) and one of camphor (*Garuḍa Purāṇa*; see *Hari-bhakti-vilāsa*, 6.115). *Anubhāṣya*: only to a sense of smell led by a mind turned toward worldly enjoyment could the body of Sanātana, an associate wholly given to Kṛṣṇa’s service, seem foul.
+[^25]: *Anubhāṣya*: *catuḥsama* is a perfume of two parts musk, four of sandal, three of *kuṅkuma* (saffron) and one of camphor (*Garuḍa Purāṇa*; see *Hari-bhakti-vilāsa*, 6.115). *Anubhāṣya*: only to a sense of smell led by a mind turned towards worldly enjoyment could the body of Sanātana, an associate wholly given to Kṛṣṇa’s service, seem foul.
 
 [^26]: *Anubhāṣya*: *pānī-lakṣye* — making the drinking water of Jhārikhaṇḍa the pretext. Edition heading to 202: Sanātana’s body, wholly guided by the Lord’s will, only displayed to the eye of the senses the suffering of oozing sores.
 

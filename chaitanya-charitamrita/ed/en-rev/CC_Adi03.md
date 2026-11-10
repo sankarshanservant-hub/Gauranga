@@ -322,7 +322,7 @@ thus  having thought  of the age of Kali  in the first  junction
 avatīrṇa hailā kṛṣṇa āpani nadīyāya  
 descended  became  Kṛṣṇa  Himself  in Nadīyā
 
-(29) Thinking thus, Kṛṣṇa Himself descended in Nadia in the first junction (*sandhyā*) of the age of Kali.[^12]
+(29) Thinking thus, Kṛṣṇa Himself descended in Nadīyā in the first junction (*sandhyā*) of the age of Kali.[^12]
 
 চৈতন্যসিংহের নবদ্বীপে অবতার ৷  
 সিংহগ্রীব, সিংহবীর্য্য, সিংহের হুঙ্কার ॥ ৩০ ॥
@@ -1267,7 +1267,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^15]: *Anubhāṣya*: Śrī Madhvācārya, in his commentary on the *Muṇḍaka Upaniṣad*, quotes the *Nārāyaṇa-saṁhitā*: “In Dvāpara people worship Viṣṇu by the Pañcarātra, but in Kali the Lord Hari is worshipped by the name alone.” The *Kali-santaraṇa Upaniṣad*: “Hare Kṛṣṇa Hare Kṛṣṇa Kṛṣṇa Kṛṣṇa Hare Hare / Hare Rāma Hare Rāma Rāma Rāma Hare Hare — these sixteen names destroy the contamination of Kali; no higher means is seen in all the Vedas.”
 
-[^16]: *Anubhāṣya*: *nyagrodha-parimaṇḍala* is one whose height and girth are four of his own cubits — a *mahāpuruṣa*; so too is Viṣṇu called, complete in all four of His forms (*catur-vyūha*), who, surpassing all beings, holds them in check by His *māyā*.
+[^16]: *Anubhāṣya*: *nyagrodha-parimaṇḍala* is one whose height and girth are four of his own cubits — a *mahāpuruṣa*; so too is Viṣṇu called, complete in all four of His forms (*catur-vyūha*), who, surpassing all beings, holds them in check by His māyā.
 
 [^17]: *Anubhāṣya*: the *Thousand Names* is the *Viṣṇu-sahasra-nāma* of the *Mahābhārata*, Dāna-dharma, chapter 149; commentaries on it were written by Śaṅkarācārya, Śrī Baladeva Vidyābhūṣaṇa and other Vaiṣṇava ācāryas.
 
@@ -1275,7 +1275,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^19]: *Anubhāṣya*: the first four names belong to the early pastimes, the last four to the later. According to the *Anubhāṣya* and the commentary *Nāmārtha-sudhā* of Śrī Baladeva Vidyābhūṣaṇa which it quotes: *varāṅga* — a body bearing the marks of a *mahāpuruṣa*; *candanāṅgadī* — wearing sandal armlets that gladden the hearts of the devotees; *śama* — free from worldly attraction (Baladeva: contemplating the secrets of Hari); *śānta* — whose mind is fixed on Kṛṣṇa alone; *niṣṭhā* — steadfastness, one-pointedness of mind (Baladeva: in Him the sacrifice of Hari-kīrtana is established); *śānti* — peace (Baladeva: He subdues the opponents of bhakti, the *kevalādvaitins*); *parāyaṇa* — the highest shelter (Baladeva: of all the moods up to *mahābhāva*). The source is given as in the edition; the second *Sahasra-nāma* verse is 75 (so the edition gives it at Madhya 6.104; here it misprints “95”).
 
-[^20]: *Anubhāṣya*: *kṛṣṇa-varṇam* — “who sings of Kṛṣṇa”, or “in whom are the two syllables ‘Kṛṣ-ṇa’” (3.53); *tviṣākṛṣṇam* — not dark by lustre, that is, golden: of the white, red and yellow (3.36) the third remains; the *aṅgas* are Nityānanda and Advaita, the *upāṅgas* Śrīvāsa and the other devotees, the weapons the holy name and the like, the associates Gadādhara, Svarūpa Dāmodara and others; *saṅkīrtana* is many people singing together the names of Hari and His glories. That He is Kṛṣṇa Himself the author shows below (3.79–80).
+[^20]: *Anubhāṣya*: *kṛṣṇa-varṇam* — “who sings of Kṛṣṇa”, or “in whom are the two syllables ‘Kṛṣ-ṇa’” (3.53); *tviṣākṛṣṇam* — not dark by lustre, that is, golden: of the white, red and yellow (3.36) the third remains; the *aṅgas* are Nityānanda and Advaita, the *upāṅgas* Śrīvāsa and the other devotees, the weapons the holy name and the like, the associates Gadādhara, Svarūpa Dāmodara and others; saṅkīrtana is many people singing together the names of Hari and His glories. That He is Kṛṣṇa Himself the author shows below (3.79–80).
 
 [^21]: As in the Gauḍīya Maṭha edition: «অকৃষ্ণবরণে তাঁর কহে» (in other copies «তাঁর» is missing).
 

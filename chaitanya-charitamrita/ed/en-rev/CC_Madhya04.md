@@ -1015,7 +1015,7 @@ one  very wealthy  kṣatriya  had built  a temple
 keha pāka-bhāṇḍāra kaila, keha ta’ prācīra  
 someone  kitchen and storehouse  made  someone  indeed  a wall
 
-(101) A very wealthy *kṣatriya* had a temple built; someone built the kitchen and storehouse, and someone else the surrounding wall.
+(101) A very wealthy kṣatriya had a temple built; someone built the kitchen and storehouse, and someone else the surrounding wall.
 
 এক এক ব্রজবাসী এক এক গাভী দিল ৷  
 দশসহস্র গাভী গোপালের হৈল ॥ ১০২ ॥
@@ -1285,7 +1285,7 @@ of My cloth  by the edge  covered  sweet rice  one  there is
 tomarā nā jānilā tāhā āmāra māyāya  
 you  not  knew  of it  by My  māyā
 
-(128) One pot of sweet rice is there, covered by the edge of My cloth; by My own *māyā* none of you noticed it.
+(128) One pot of sweet rice is there, covered by the edge of My cloth; by My own māyā none of you noticed it.
 
 মাধব-পুরী সন্ন্যাসী আছে হাটেতে বসিঞা ৷  
 তাহাকে ত’ এই ক্ষীর শীঘ্র দেহ লঞা ॥ ১২৯ ॥
@@ -1575,7 +1575,7 @@ that  night  in the temple  he did  lying down
 śeṣa-rātri haile purī dekhila svapana  
 the end of the night  when it came  Purī  saw  a dream
 
-(157) That night he slept in the temple, and toward the end of the night Purī had a dream.
+(157) That night he slept in the temple, and towards the end of the night Purī had a dream.
 
 গোপাল আসিয়া কহে, — শুনহ, মাধব ৷  
 কর্পূর-চন্দন আমি পাইলাম সব ॥ ১৫৮ ॥

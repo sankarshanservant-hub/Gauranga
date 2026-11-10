@@ -1529,7 +1529,7 @@ of the faithful to the Vedas  among  half  the Vedas  with the mouth  accept
 veda-niṣiddha pāpa kare, dharma nāhi gaṇe  
 forbidden by the Vedas  sins  they commit  dharma  not  regard
 
-(146) Of those faithful to the Vedas, half accept the Vedas only with their lips: they commit sins the Vedas forbid and have no regard for *dharma*.
+(146) Of those faithful to the Vedas, half accept the Vedas only with their lips: they commit sins the Vedas forbid and have no regard for dharma.
 
 ধর্ম্মাচারী-মধ্যে বহুত ‘কর্ম্মনিষ্ঠ’ ৷  
 কোটি-কর্ম্মনিষ্ঠ-মধ্যে এক ‘জ্ঞানী’ শ্রেষ্ঠ ॥ ১৪৭ ॥
@@ -1539,7 +1539,7 @@ of those who practise dharma  among  many  devoted to karma
 koṭi-karma-niṣṭha-madhye eka ‘jñānī’ śreṣṭha  
 of millions  devoted to karma  among  one  jñānī  the best
 
-(147) Among those who practise *dharma*, many are devoted to *karma*; among millions devoted to *karma*, one *jñānī* is best.
+(147) Among those who practise dharma, many are devoted to karma; among millions devoted to karma, one *jñānī* is best.
 
 কোটিজ্ঞানী-মধ্যে হয় একজন ‘মুক্ত’ ৷  
 কোটিমুক্ত-মধ্যে ‘দুর্ল্লভ’ এক কৃষ্ণ-ভক্ত ॥ ১৪৮ ॥
@@ -1729,7 +1729,7 @@ as long as  of prema  of Madhu’s foe  subduing  the perfect herbs
 gandho ’py antaḥ-karaṇa-saraṇī-pānthatāṁ na prayāti  
 the fragrance  even  of the heart  on the road  wayfaring  not  attains
 
-(165) “Rich mastery over the host of mystic perfections, *samādhi* grounded in truth and *dharma*, even the great bliss of Brahman — these astonish one only so long as not even the fragrance of prema, the sovereign herb that brings Kṛṣṇa, the foe of Madhu, under control, has set out on the road of the heart.” (Lalita-mādhava, 5.2)[^28]
+(165) “Rich mastery over the host of mystic perfections, *samādhi* grounded in truth and dharma, even the great bliss of Brahman — these astonish one only so long as not even the fragrance of prema, the sovereign herb that brings Kṛṣṇa, the foe of Madhu, under control, has set out on the road of the heart.” (Lalita-mādhava, 5.2)[^28]
 
 ‘শুদ্ধভক্তি’ হৈতে হয় ‘প্রেমা’ উৎপন্ন ৷  
 অতএব শুদ্ধভক্তির কহিয়ে ‘লক্ষণ’ ॥ ১৬৬ ॥
@@ -1753,7 +1753,7 @@ favourably  of Kṛṣṇa
 śīlanaṁ bhaktir uttamā  
 the cultivation  devotion  highest
 
-(167) “Devotion of the highest kind is the favourable cultivation of service to Kṛṣṇa, free from all other desires and unobscured by *jñāna*, *karma* and the like.” (Bhakti-rasāmṛta-sindhu, 1.1.11)
+(167) “Devotion of the highest kind is the favourable cultivation of service to Kṛṣṇa, free from all other desires and unobscured by jñāna, karma and the like.” (Bhakti-rasāmṛta-sindhu, 1.1.11)
 
 অন্য-বাঞ্ছা, অন্য-পূজা ছাড়ি’ ‘জ্ঞান’, ‘কর্ম্ম’ ৷  
 আনুকূল্যে সর্ব্বেন্দ্রিয়ে কৃষ্ণানুশীলন ॥ ১৬৮ ॥
@@ -1763,7 +1763,7 @@ other  desires  other  worship  giving up  jñāna  karma
 ānukūlye sarvendriye kṛṣṇānuśīlana  
 favourably  with all the senses  the cultivation of Kṛṣṇa
 
-(168) Giving up other desires, the worship of others, *jñāna* and *karma*, one cultivates service to Kṛṣṇa with all the senses in a favourable spirit.
+(168) Giving up other desires, the worship of others, jñāna and karma, one cultivates service to Kṛṣṇa with all the senses in a favourable spirit.
 
 এই ‘শুদ্ধভক্তি’ — ইহা হৈতে ‘প্রেমা’ হয় ৷  
 পঞ্চরাত্রে, ভাগবতে এই লক্ষণ কয় ॥ ১৬৯ ॥
@@ -1812,7 +1812,7 @@ unmotivated  uninterrupted
 yā bhaktiḥ puruṣottame  
 which  devotion  to the Supreme Person
 
-(171–172) “Merely by hearing of My qualities the mind flows unbroken toward Me, who dwell in all hearts, as the waters of the Gaṅgā flow into the ocean. Such is the mark of bhakti-yoga beyond the guṇas (*nirguṇa*): devotion to the Supreme Person that is unmotivated and uninterrupted.” (Śrīmad-Bhāgavatam, 3.29.11–12)[^29]
+(171–172) “Merely by hearing of My qualities the mind flows unbroken towards Me, who dwell in all hearts, as the waters of the Gaṅgā flow into the ocean. Such is the mark of bhakti-yoga beyond the guṇas (*nirguṇa*): devotion to the Supreme Person that is unmotivated and uninterrupted.” (Śrīmad-Bhāgavatam, 3.29.11–12)[^29]
 
 সালোক্যসার্ষ্টিসারূপ্যসামীপ্যৈকত্বমপ্যুত ৷  
 দীয়মানং ন গৃহ্ণন্তি বিনা মৎসেবনং জনাঃ ॥ ১৭৩ ॥
@@ -1914,7 +1914,7 @@ sāttvika  of the vyabhicārī-bhāvas  in the union
 kṛṣṇa-bhakti-rasa haya amṛta āsvādane  
 of Kṛṣṇa  devotion  rasa  becomes  nectar  in the tasting
 
-(181) together with the *sāttvika* and *vyabhicārī-bhāvas*, then by their union the rasa of devotion to Kṛṣṇa becomes nectar to taste.
+(181) together with the sāttvika and *vyabhicārī-bhāvas*, then by their union the rasa of devotion to Kṛṣṇa becomes nectar to taste.
 
 যৈছে দধি, সিতা, ঘৃত, মরীচ, কর্পূর ৷  
 মিলনে, ‘রসালা’ হয় অমৃত মধুর ॥ ১৮২ ॥
@@ -2682,7 +2682,7 @@ the Lord  knows  days  five or seven  He  will stay
 sannyāsīra saṅge bhikṣā kām̐hā nā kariba  
 sannyāsīs  with  meals  anywhere  not  will take
 
-(251) The Lord knew that He would stay only five or seven days, and that He would not take meals with the *sannyāsīs* anywhere.[^40]
+(251) The Lord knew that He would stay only five or seven days, and that He would not take meals with the sannyāsīs anywhere.[^40]
 
 এত জানি’ তাঁর ভিক্ষা কৈলা অঙ্গীকার ৷  
 বাসা-নিষ্ঠা কৈলা চন্দ্রশেখরের ঘর ॥ ২৫২ ॥
@@ -2756,7 +2756,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^5]: *Anubhāṣya*: the ruler of Gauḍa was ʿAlāʾuddīn Sayyid Husain Shāh, who held the throne of Gauḍa from 1420 to 1443 of the Śaka era; it was he who came to Śrī Sanātana’s assembly.
 
-[^6]: According to the *Amṛta-pravāha-bhāṣya*, the “elder brother” (in quotation marks in the edition) is the emperor himself: Husain Shāh regarded Sanātana as his “younger brother,” and in loving anger he says of himself that he only marches against other lands and, being a *yavana* by birth, hunts and kills many living beings and animals in the districts of Gauḍa.
+[^6]: According to the *Amṛta-pravāha-bhāṣya*, the “elder brother” (in quotation marks in the edition) is the emperor himself: Husain Shāh regarded Sanātana as his “younger brother,” and in loving anger he says of himself that he only marches against other lands and, being a yavana by birth, hunts and kills many living beings and animals in the districts of Gauḍa.
 
 [^7]: According to the *Amṛta-pravāha-bhāṣya*, these words carry a hidden meaning: the king, who himself behaves like a robber, will reap the fruit of that, and the minister who has neglected his duties deserves the fruit of dismissal.
 
@@ -2798,9 +2798,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^26]: Edition heading: a verse quoted in the commentary on the *Śruti-stava* (Śrīmad-Bhāgavatam, 10.87).
 
-[^27]: *Anubhāṣya*: the fortunate soul is one who has *sukṛti* that turns it toward devotion. The guru who gives the seed of the creeper of devotion is a manifestation of Bhagavān sent by Kṛṣṇa: by the guru’s mercy one obtains Kṛṣṇa’s mercy, and by Kṛṣṇa’s mercy the guru’s.
+[^27]: *Anubhāṣya*: the fortunate soul is one who has *sukṛti* that turns it towards devotion. The guru who gives the seed of the creeper of devotion is a manifestation of Bhagavān sent by Kṛṣṇa: by the guru’s mercy one obtains Kṛṣṇa’s mercy, and by Kṛṣṇa’s mercy the guru’s.
 
-[^28]: *Anubhāṣya*: *satya-dharmā samādhiḥ* is concentration of mind founded on the *dharma* of truthfulness, purity, charity and austerity; *prema* here is love in *śānta* and the other *rasas*. Once the happiness of service to Kṛṣṇa is attained, the happiness of sense enjoyment, of *kaivalya* and of Brahman becomes insignificant.
+[^28]: *Anubhāṣya*: *satya-dharmā samādhiḥ* is concentration of mind founded on the dharma of truthfulness, purity, charity and austerity; *prema* here is love in *śānta* and the other *rasas*. Once the happiness of service to Kṛṣṇa is attained, the happiness of sense enjoyment, of *kaivalya* and of Brahman becomes insignificant.
 
 [^29]: The same verses as Ādi 4.205–206; translation as there.
 
@@ -2808,13 +2808,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^31]: The Gauḍīya Maṭha edition reads *karile* (“performing”; elsewhere *karileo*, “even performing”); the sense is the same.
 
-[^32]: *Amṛta-pravāha-bhāṣya*: the *sthāyi-bhāva* is the “root” of *rasa*, *vibhāva* its “cause”, and *anubhāva* and the *sāttvika-bhāvas* its “effects”.
+[^32]: *Amṛta-pravāha-bhāṣya*: the *sthāyi-bhāva* is the “root” of rasa, *vibhāva* its “cause”, and *anubhāva* and the sāttvika-bhāvas its “effects”.
 
 [^33]: *Anubhāṣya*: the three Vedas sing of Him as Indra and the other gods, the Upaniṣads as Brahman, Sāṅkhya as the Puruṣa, yoga as the Paramātmā, and the Pañcarātras and Āgamas as Bhagavān.
 
 [^34]: References in 207–209 as in the edition’s heading: Śrīmad-Bhāgavatam, 10.30.37–39 (elsewhere numbered 10.30.36–38).
 
-[^35]: *Anubhāṣya*: when the idea of material enjoyment is dispelled, the *jīva* awakens to its own true nature, and that eternal nature is exclusive devotion to Kṛṣṇa.
+[^35]: *Anubhāṣya*: when the idea of material enjoyment is dispelled, the jīva awakens to its own true nature, and that eternal nature is exclusive devotion to Kṛṣṇa.
 
 [^36]: Reference as in the edition’s heading: *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, “Śānta-bhakti-rasa-laharī”, verse 21 (the verse stands in the fifth wave of the Dakṣiṇa-vibhāga, among the descriptions of *śānta-rati*).
 
@@ -2824,4 +2824,4 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^39]: Edition heading: “Tapana Miśra invites the Lord, and Candraśekhara invites Balabhadra.”
 
-[^40]: Edition heading: “Indicating that association with Māyāvādī *sannyāsīs* is bad association, the Lord grants His devotee’s request.”
+[^40]: Edition heading: “Indicating that association with Māyāvādī sannyāsīs is bad association, the Lord grants His devotee’s request.”

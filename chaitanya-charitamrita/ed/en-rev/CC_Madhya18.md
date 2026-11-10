@@ -1565,7 +1565,7 @@ of the Lord  whatever  order  is  that  on the head  I hold
 yadyapi vṛndāvana-tyāge nāhi prabhura mana  
 although  Vṛndāvana-leaving  is not  the Lord’s  mind  
 bhakta-icchā pūrite kahe madhura vacana  
-the devotee’s wish  to fulfill  speaks  sweet  words
+the devotee’s wish  to fulfil  speaks  sweet  words
 
 (152) Although the Lord had no wish to leave Vṛndāvana, to fulfil His devotee’s wish He spoke sweet words:
 

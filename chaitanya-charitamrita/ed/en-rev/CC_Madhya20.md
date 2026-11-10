@@ -72,9 +72,9 @@ from worldly existence  him  liberated  makes  the Lord
 তুমি আমা ছাড়ি’ কর প্রত্যুপকার ॥ ৭ ॥
 
 pūrve āmi tomāra kairāchi upakāra  
-before  I  for you  have done  favors  
+before  I  for you  have done  favours  
 tumi āmā chāḍi’ kara pratyupakāra  
-you  me  releasing  do  a favor in return
+you  me  releasing  do  a favour in return
 
 (7) I have done you favours in the past. Now release me and return the favour.
 
@@ -111,9 +111,9 @@ to the south  he has gone  if  coming back  he returns
 tām̐hāre kahio — sei bāhya-kṛtye gela  
 to him  say  he  to relieve himself  went  
 gaṅgāra nikaṭa gaṅgā dekhi’ jhām̐pa dila  
-of the Ganges  near  the Ganges  seeing  a leap  he made
+of the Gaṅgā  near  the Gaṅgā  seeing  a leap  he made
 
-(10–11) Sanātana said, “Do not fear the king. He has gone south. If he comes back, tell him that I went out to relieve myself and, coming near the Ganges and seeing it, jumped in.
+(10–11) Sanātana said, “Do not fear the king. He has gone south. If he comes back, tell him that I went out to relieve myself and, coming near the Gaṅgā and seeing it, jumped in.
 
 অনেক দেখিল, তার লাগ্ না পাইল ৷  
 দাড়ুকা-সহিত ডুবি কাঁহা বহি’ গেল ॥ ১২ ॥
@@ -151,9 +151,9 @@ seven thousand  coins  before him  in a heap  he made
 lobha haila yavanera mudrā dekhiyā  
 greed  arose  of the yavana  the coins  seeing  
 rātre gaṅgā-pāra kaila dāḍukā kāṭiyā  
-at night  the crossing of the Ganges  he made  the fetters  cutting
+at night  the crossing of the Gaṅgā  he made  the fetters  cutting
 
-(15) At the sight of the coins the yavana grew greedy. That night he cut off Sanātana’s fetters and took him across the Ganges.
+(15) At the sight of the coins the yavana grew greedy. That night he cut off Sanātana’s fetters and took him across the Gaṅgā.
 
 গড়দ্বার-পথ ছাড়িলা, নারে তাঁহা যাইতে ৷  
 রাত্রি-দিন চলি’ আইলা পাতড়া-পর্ব্বতে ॥ ১৬ ॥
@@ -431,9 +431,9 @@ become presentable  give up  these  dirty  clothes
 gosāñi kahe, — eka-kṣaṇa ihā nā rahiba  
 the Gosvāmī  says  even a moment  here  not  I will stay  
 gaṅgā pāra kari’ deha’ e-kṣaṇe caliba  
-the Ganges  across  take me  at once  I will go
+the Gaṅgā  across  take me  at once  I will go
 
-(43) Sanātana Gosvāmī said, “I will not stay here even a moment. Take me across the Ganges; I must go at once.”
+(43) Sanātana Gosvāmī said, “I will not stay here even a moment. Take me across the Gaṅgā; I must go at once.”
 
 যত্ন করি’ তিঁহো এক ভোটকম্বল দিল ৷  
 গঙ্গা পার করি’ দিল — গোসাঞি চলিল ॥ ৪৪ ॥
@@ -441,9 +441,9 @@ the Ganges  across  take me  at once  I will go
 yatna kari’ tim̐ho eka bhoṭa-kambala dila  
 with care  he  a  woollen Bhoṭa blanket  gave  
 gaṅgā pāra kari’ dila — gosāñi calila  
-the Ganges  across  he took  the Gosvāmī  went on
+the Gaṅgā  across  he took  the Gosvāmī  went on
 
-(44) Śrīkānta lovingly gave him a woollen Bhoṭa blanket and took him across the Ganges, and Sanātana Gosvāmī went on his way.
+(44) Śrīkānta lovingly gave him a woollen Bhoṭa blanket and took him across the Gaṅgā, and Sanātana Gosvāmī went on his way.
 
 তবে বারাণসী গোসাঞি আইলা কতদিনে ৷  
 শুনি’ আনন্দিত হইলা প্রভুর আগমনে ॥ ৪৫ ॥
@@ -719,11 +719,11 @@ this  garb  away  put  go  him  taking
 শেখর আনিয়া তাঁরে নূতন বস্ত্র দিল ॥ ৭০ ॥
 
 bhadra karāñā tām̐re gaṅgā-snāna karāila  
-shaved  having made  him  a bath in the Ganges  had him take  
+shaved  having made  him  a bath in the Gaṅgā  had him take  
 śekhara āniyā tām̐re nūtana vastra dila  
 Śekhara  bringing  him  new  cloth  gave
 
-(70) Candraśekhara had him shaved and bathed in the Ganges, and then brought him new cloth.
+(70) Candraśekhara had him shaved and bathed in the Gaṅgā, and then brought him new cloth.
 
 সেই বস্ত্র সনাতন না কৈলা অঙ্গীকার ৷  
 শুনিয়া প্রভুর মনে আনন্দ অপার ॥ ৭১ ॥
@@ -841,7 +841,7 @@ of a brāhmaṇa  in the house  why  in one place  food  should I take
 sanātanera vairāgye prabhura ānanda apāra  
 at Sanātana’s  renunciation  of the Lord  joy  boundless  
 bhoṭa-kambala pāne prabhu cāhe bāre bāra  
-the Bhoṭa blanket  toward  the Lord  looks  again  and again
+the Bhoṭa blanket  towards  the Lord  looks  again  and again
 
 (82) The Lord was boundlessly pleased by Sanātana’s renunciation, yet again and again He glanced at the woollen Bhoṭa blanket.
 
@@ -859,17 +859,17 @@ the blanket  giving up  to do  he thought of  a means
 এক গৌড়িয়া কান্থা ধুঞা দিয়াছে শুকাইতে ॥ ৮৪ ॥
 
 eta cinti’ gelā gaṅgāya madhyāhna karite  
-so  thinking  he went  to the Ganges  the midday bath  to take  
+so  thinking  he went  to the Gaṅgā  the midday bath  to take  
 eka gauḍiyā kānthā dhuñā diyāche śukāite  
 a  Bengali  quilt  having washed  had put  to dry
 
-(84) With this in mind he went to the Ganges for his midday bath. There a Bengali had washed his quilt and spread it out to dry.
+(84) With this in mind he went to the Gaṅgā for his midday bath. There a Bengali had washed his quilt and spread it out to dry.
 
 তারে কহে, — ওরে ভাই, কর উপকারে ৷  
 এই ভোট লঞা এই কাঁথা দেহ’ মোরে ॥ ৮৫ ॥
 
 tāre kahe, — ore bhāi, kara upakāre  
-to him  he says  O  brother  do  a favor  
+to him  he says  O  brother  do  a favour  
 ei bhoṭa lañā ei kām̐thā deha’ more  
 this  blanket  taking  this  quilt  give  me
 
@@ -1259,11 +1259,11 @@ with devotion  exclusive  the Lord  seeing the guru as his deity and his self
 সেই জীব নিস্তরে, মায়া তাহারে ছাড়য় ॥ ১২০ ॥
 
 sādhu-śāstra-kṛpāya yadi kṛṣṇonmukha haya  
-by the mercy of the sādhus and scriptures  if  turned toward Kṛṣṇa  it becomes  
+by the mercy of the sādhus and scriptures  if  turned towards Kṛṣṇa  it becomes  
 sei jīva nistare, māyā tāhāre chāḍaya  
 that  jīva  crosses over  māyā  it  releases
 
-(120) If by the mercy of the sādhus and the scriptures the jīva turns toward Kṛṣṇa, it crosses over, and māyā releases it.
+(120) If by the mercy of the sādhus and the scriptures the jīva turns towards Kṛṣṇa, it crosses over, and māyā releases it.
 
 দৈবী হ্যেষা গুণময়ী মম মায়া দুরত্যয়া ৷  
 মামেব যে প্রপদ্যন্তে মায়ামেতাং তরন্তি তে ॥ ১২১ ॥
@@ -1317,7 +1317,7 @@ of the abhidheya  the name  devotion  prema  the prayojana
 puruṣārtha-śiromaṇi prema — mahā-dhana  
 of the human goals  the crown jewel  prema  the great treasure
 
-(125) Bhakti is called the *abhidheya*, and prema is the *prayojana*. Prema, the crown of all human goals, is the greatest treasure.
+(125) Bhakti is called the *abhidheya*, and prema is the *prayojana*. Prema, the crown jewel of all human goals, is the greatest treasure.
 
 কৃষ্ণমাধুর্য্য-সেবানন্দ-প্রাপ্তির কারণ ৷  
 কৃষ্ণে সেবা করে, কৃষ্ণরস-আস্বাদন ॥ ১২৬ ॥
@@ -2334,7 +2334,7 @@ everywhere  the manifestation  His  to the devotees  joy  to give
 jagatera adharma nāśi’ dharma sthāpite  
 of the world  the irreligion  destroying  religion  to establish
 
-(219) He is manifest everywhere to give joy to His devotees, to destroy the irreligion of the world and to establish *dharma*.
+(219) He is manifest everywhere to give joy to His devotees, to destroy the irreligion of the world and to establish dharma.
 
 ইঁহার মধ্যে কারো হয় ‘অবতারে’ গণন ৷  
 যৈছে বিষ্ণু, ত্রিবিক্রম, নৃসিংহ, বামন ॥ ২২০ ॥
@@ -2903,11 +2903,11 @@ māyā  the efficient  cause  of the universe  the material cause  pradhāna
 প্রকৃতি ক্ষোভিত করি’ করে বীর্য্যের আধান ॥ ২৭২ ॥
 
 sei puruṣa māyā-pāne kare avadhāna  
-that  Puruṣa  toward māyā  directs  His glance  
+that  Puruṣa  towards māyā  directs  His glance  
 prakṛti kṣobhita kari’ kare vīryera ādhāna  
 prakṛti  agitated  making  makes  of the seed  the placing
 
-(272) That Puruṣa turns His glance toward māyā. Agitating *prakṛti*, He deposits the seed in her.
+(272) That Puruṣa turns His glance towards māyā. Agitating *prakṛti*, He deposits the seed in her.
 
 স্বাঙ্গ-বিশেষাভাসরূপে প্রকৃতি স্পর্শন ৷  
 জীব-রূপ ‘বীজ’ তাতে কৈলা সমর্পণ ॥ ২৭৩ ॥
@@ -3645,7 +3645,7 @@ dharma  establishing  makes  the son of the king of Vraja
 preme gāya nāce loka kare saṅkīrtana  
 in love  sing  dance  the people  perform  saṅkīrtana
 
-(339) The son of the king of Vraja establishes the dharma, and in love the people sing and dance and perform *saṅkīrtana*.
+(339) The son of the king of Vraja establishes the dharma, and in love the people sing and dance and perform saṅkīrtana.
 
 কৃষ্ণবর্ণং ত্বিষাঽকৃষ্ণং সাঙ্গোপাঙ্গাস্ত্রপার্ষদম্ ৷  
 যজ্ঞৈঃ সঙ্কীর্ত্তন-প্রায়ৈর্যজন্তি হি সুমেধসঃ ॥ ৩৪০ ॥
@@ -3725,7 +3725,7 @@ in which  by saṅkīrtana  alone
 sarva-svārtho ’bhilabhyate  
 every  goal  is attained
 
-(345) “The noble, who know its merit and take the essence, honour the age of Kali, for in it every goal of life is attained by *saṅkīrtana* alone.” (Śrīmad-Bhāgavatam, 11.5.36)
+(345) “The noble, who know its merit and take the essence, honour the age of Kali, for in it every goal of life is attained by saṅkīrtana alone.” (Śrīmad-Bhāgavatam, 11.5.36)
 
 পূর্ব্ববৎ লিখি যবে গুণাবতারগণ ৷  
 অসংখ্য সংখ্যা তাঁর, না হয় গণন ॥ ৩৪৬ ॥
@@ -3905,7 +3905,7 @@ Sanātana  said  in whom  the Lord’s  characteristics
 pīta-varṇa, — kārya — prema-dāna-saṅkīrtana  
 golden colour  the activity  the giving of prema  saṅkīrtana
 
-(362) Sanātana said, “He in whom the Lord’s characteristics are found — a golden colour, and the work of giving prema and of *saṅkīrtana* —
+(362) Sanātana said, “He in whom the Lord’s characteristics are found — a golden colour, and the work of giving prema and of saṅkīrtana —
 
 কলিকালে সেই ‘কৃষ্ণাবতার’ নিশ্চয় ৷  
 সুদৃঢ় করিয়া কহ, যাউক সংশয় ॥ ৩৬৩ ॥
@@ -4107,11 +4107,11 @@ some  pastime  in some  universe  is  manifested
 সে সে লীলা প্রকট করে ব্রজেন্দ্রকুমার ॥ ৩৮১ ॥
 
 ei-mata saba līlā — yena gaṅgā-dhāra  
-in this way  all  pastimes  like  the Ganges’ stream  
+in this way  all  pastimes  like  the Gaṅgā’ stream  
 se se līlā prakaṭa kare vrajendra-kumāra  
 those  those  pastimes  manifests  the prince of Vraja
 
-(381) In this way all the pastimes flow like the stream of the Ganges, and the prince of Vraja manifests each of them.
+(381) In this way all the pastimes flow like the stream of the Gaṅgā, and the prince of Vraja manifests each of them.
 
 ক্রমে বাল্য পৌগণ্ড-কৈশোরতা-প্রাপ্তি ৷  
 রাস-আদি লীলা করে, কৈশোরে নিত্যস্থিতি ॥ ৩৮২ ॥
@@ -4333,7 +4333,7 @@ endless  forms  Kṛṣṇa’s  there is no  counting
 śākhā-candra-nyāye kari dig-daraśana  
 of the branch  and the moon  by the maxim  I give  a glimpse
 
-(402) Kṛṣṇa’s forms are endless, beyond counting. I have only pointed toward them, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).”
+(402) Kṛṣṇa’s forms are endless, beyond counting. I have only pointed towards them, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).”
 
 ইহা যেই শুনে, পড়ে, সেই ভাগ্যবান্ ৷  
 কৃষ্ণের স্বরূপতত্ত্বের হয় কিছু জ্ঞান ॥ ৪০৩ ॥

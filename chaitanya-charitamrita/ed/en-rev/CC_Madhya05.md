@@ -1683,7 +1683,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: Heading in the edition: “The Lord goes to see Kapoteśvara, and Nitāi secretly breaks His staff”. *Anubhāṣya*: Kapoteśvara is a Śiva-liṅga.
 
-[^33]: *Anubhāṣya*: Śrī Gaurasundara had accepted *eka-daṇḍa sannyāsa* at Kāṭoyā in the Bhāratī line, which descends from Śaṅkara. At the stages of *kuṭīcaka* and *bahūdaka* the staff is to be kept; at the stages of *haṁsa* and *paramahaṁsa* it is given up. Gaurahari is the Lord of the fourteen worlds and has no need, like other *sannyāsīs*, to display a lower stage; knowing this, Nityānanda broke the staff and threw it into the Bhārgī.
+[^33]: *Anubhāṣya*: Śrī Gaurasundara had accepted *eka-daṇḍa sannyāsa* at Kāṭoyā in the Bhāratī line, which descends from Śaṅkara. At the stages of *kuṭīcaka* and *bahūdaka* the staff is to be kept; at the stages of *haṁsa* and *paramahaṁsa* it is given up. Gaurahari is the Lord of the fourteen worlds and has no need, like other sannyāsīs, to display a lower stage; knowing this, Nityānanda broke the staff and threw it into the Bhārgī.
 
 [^34]: Heading in the edition: “Seeing the temple at Purī, the Lord, pained by separation from Kṛṣṇa, dances, overwhelmed”. *Anubhāṣya*: the temple (*deula*) is the present temple of Śrī Jagannātha, built by King Anaṅgabhīma.
 
@@ -1695,11 +1695,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^38]: The Gauḍīya Maṭha edition reads সেই দণ্ড কাঁহা পড়িল (“where that staff fell”); another reading is সেই খণ্ড (“those pieces”).
 
-[^39]: *Anubhāṣya*: Nityānanda knew that Mahāprabhu had no need of the staff of a *sannyāsa* taken by rule (*vaidha-sannyāsa*), and relieved Him of it. The Lord showed anger for the people’s sake: if the staff were given up in this way, the Vedic rules would slacken, and some, following the conduct of the great, would mistake a lawless life for the path of *anurāga* and neglect the path of rules favourable to bhakti.
+[^39]: *Anubhāṣya*: Nityānanda knew that Mahāprabhu had no need of the staff of a sannyāsa taken by rule (*vaidha-sannyāsa*), and relieved Him of it. The Lord showed anger for the people’s sake: if the staff were given up in this way, the Vedic rules would slacken, and some, following the conduct of the great, would mistake a lawless life for the path of *anurāga* and neglect the path of rules favourable to bhakti.
 
 [^40]: Heading in the edition: “The Lord expresses His wish to go alone to see Jagannātha”.
 
-[^41]: *Anubhāṣya*: only those who have truly, firmly and calmly understood Śrī Caitanya and Nityānanda will grasp this pastime. Mahāprabhu accepts that a *sādhaka* following the path of the great souls needs *sannyāsa* by rule, and takes the staff to teach the world; Nityānanda knew that at the highest, *paramahaṁsa* stage the staff is not needed, and so that people would not mistake Mahāprabhu for a *sannyāsī* of a lower stage, He made Him give it up, showing the example of the very highest stage.
+[^41]: *Anubhāṣya*: only those who have truly, firmly and calmly understood Śrī Caitanya and Nityānanda will grasp this pastime. Mahāprabhu accepts that a *sādhaka* following the path of the great souls needs sannyāsa by rule, and takes the staff to teach the world; Nityānanda knew that at the highest, *paramahaṁsa* stage the staff is not needed, and so that people would not mistake Mahāprabhu for a sannyāsī of a lower stage, He made Him give it up, showing the example of the very highest stage.
 
 [^42]: Heading in the edition: “Narrator and listener are both Bhagavān; therefore the story of Sākṣi-gopāla is not of this world”. *Anubhāṣya*: Śrī Gopāla’s form is the eternally true vigraha; He is Truth itself and, overriding worldly laws, always upholds the honour of truth; truthfulness is especially needed in a brāhmaṇa’s life; Kṛṣṇa Himself both establishes brahminhood and is subdued by it, so brahminhood that has taken shelter of Kṛṣṇa is not mundane.
 

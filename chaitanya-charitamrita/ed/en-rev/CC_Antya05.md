@@ -108,7 +108,7 @@ of Viṣvaksena  for the narrations  which
 notpādayed yadi ratiṁ  
 not  awakens  if  attraction  
 śrama eva hi kevalam  
-labor  only  certainly  merely
+labour  only  certainly  merely
 
 (10) “Dharma, however well a person performs it, is nothing but wasted labour if it does not awaken attraction (*rati*) to the narrations about the Lord, Viṣvaksena.” (Śrīmad-Bhāgavatam, 1.2.8)[^3]
 
@@ -240,7 +240,7 @@ transitory  sāttvika  of the abiding emotions  the signs
 mukhe-netre abhinaya kare prakaṭana  
 in face and eyes  acting  they make  manifest
 
-(23) By acting with face and eyes, they brought out the signs of the transitory (*sañcārī*), the *sāttvika* and the abiding (*sthāyi*) feelings.
+(23) By acting with face and eyes, they brought out the signs of the transitory (*sañcārī*), the sāttvika and the abiding (*sthāyi*) feelings.
 
 ভাবপ্রকটন-লাস্য রায় যে শিখায় ৷  
 জগন্নাথের আগে দুঁহে প্রকট দেখায় ॥ ২৪ ॥
@@ -298,7 +298,7 @@ submission  he makes  something  humble  becoming
 bahu-kṣaṇa āilā, more keha nā kahila  
 long ago  you came  me  anyone  not  told  
 tomāra caraṇe mora aparādha haila  
-at your  feet  my  offense  has been
+at your  feet  my  offence  has been
 
 (29) “You have been here a long while, and no one told me. I have committed an offence at your feet.
 
@@ -1095,7 +1095,7 @@ to hear  joy  increases  whose  in the prologue
 bhagavān-ācārya kahe, — śuna eka-bāra  
 Bhagavān Ācārya  says  —  hear  once  
 tumi śunile bhāla-manda jānibe vicāra  
-you  having heard  good or bad  will know  the judgment
+you  having heard  good or bad  will know  the judgement
 
 (109) Bhagavān Ācārya said, “Just hear it once. When you have heard it, you will be able to judge whether it is good or bad.”
 

@@ -103,7 +103,7 @@ those  all  people  of the Lord  of the sight  by the power
 nija-nija-mata chāḍi’ haila vaiṣṇave  
 their  own  doctrines  giving up  became  Vaiṣṇavas
 
-(10) Such was the power of the Lord’s *darśana* that all those people gave up their own doctrines and became Vaiṣṇavas.
+(10) Such was the power of the Lord’s darśana that all those people gave up their own doctrines and became Vaiṣṇavas.
 
 বৈষ্ণবের মধ্যে রাম-উপাসক সব ৷  
 কেহ ‘তত্ত্ববাদী’, কেহ হয় ‘শ্রীবৈষ্ণব’ ॥ ১১ ॥
@@ -163,7 +163,7 @@ the servant of Rāma  Mahādeva  He made  sight
 ahovala-nṛsiṁhere karilā gamana  
 to Ahovala-nṛsiṁha  He made  going
 
-(16) He had *darśana* of Mahādeva, the servant of Rāma, and then went to Ahovala-nṛsiṁha.
+(16) He had darśana of Mahādeva, the servant of Rāma, and then went to Ahovala-nṛsiṁha.
 
 নৃসিংহ দেখিয়া তাঁরে কৈল নতি-স্তুতি ৷  
 সিদ্ধবট গেলা যাঁহা মূর্ত্তি সীতাপতি ॥ ১৭ ॥
@@ -1237,9 +1237,9 @@ the rāsa  not  obtained  Lakṣmī  in the scriptures  this  I hear
 লব্ধাশিষাং য উদগাদ্ব্রজসুন্দরীণাম্ ॥ ১২১ ॥
 
 nāyaṁ śriyo ’ṅga u nitānta-rateḥ prasādaḥ  
-not  this  of Śrī  on the chest  indeed  wholly attached  favor  
+not  this  of Śrī  on the chest  indeed  wholly attached  favour  
 svar-yoṣitāṁ nalina-gandha-rucāṁ kuto ’nyāḥ  
-of the celestial women  of lotuses  the fragrance  having the luster  how then  others  
+of the celestial women  of lotuses  the fragrance  having the lustre  how then  others  
 rāsotsave ’sya bhuja-daṇḍa-gṛhīta-kaṇṭha-  
 at the festival of rāsa  His  by the arms  embraced  around the neck  
 labdhāśiṣāṁ ya udagād vraja-sundarīṇām  
@@ -1361,11 +1361,11 @@ not  this  easily attained  Bhagavān
 dehināṁ gopikā-sutaḥ  
 for the embodied  of the gopī  the son  
 jñānināṁ cātma-bhūtānāṁ  
-for the jñānīs  and  for those who realized the self  
+for the jñānīs  and  for those who realised the self  
 yathā bhakti-matām iha  
 as  for those who have devotion  here
 
-(132) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
+(132) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realised the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
 
 শ্রুতিগণ গোপীগণের অনুগত হঞা ৷  
 ব্রজেশ্বরীসুত ভজে গোপীভাব লঞা ॥ ১৩৩ ॥
@@ -2053,7 +2053,7 @@ in Durvaśana  of Raghunātha  He had  darśana
 mahendra-śaile paraśurāmera kaila vandana  
 on the Mahendra hill  to Paraśurāma  He offered  homage
 
-(199) In Durvaśana He had *darśana* of Raghunātha, and on the Mahendra hill He offered homage to Paraśurāma.
+(199) In Durvaśana He had darśana of Raghunātha, and on the Mahendra hill He offered homage to Paraśurāma.
 
 সেতুবন্ধে আসি’ কৈল ধনুস্তীর্থে স্নান ৷  
 রামেশ্বর দেখি’ তাঁহা করিল বিশ্রাম ॥ ২০০ ॥
@@ -2211,7 +2211,7 @@ the brāhmaṇa  said  You  directly  Śrī Raghunandana
 sannyāsīra veṣe more dilā daraśana  
 of a sannyāsī  in the garb  to me  You gave  darśana
 
-(214) The brāhmaṇa said, “You are Śrī Raghunandana Himself, and You have given me *darśana* in the garb of a sannyāsī.
+(214) The brāhmaṇa said, “You are Śrī Raghunandana Himself, and You have given me darśana in the garb of a sannyāsī.
 
 মহা-দুঃখ হইতে মোরে করিলা নিস্তার ৷  
 আজি মোর ঘরে ভিক্ষা কর অঙ্গীকার ॥ ২১৫ ॥
@@ -2271,7 +2271,7 @@ at Ciyaḍatalā  holy place  seeing  Śrī Rāma and Lakṣmaṇa
 tila-kāñcī āsi’ kaila śiva daraśana  
 to Tilakāñcī  coming  He had  of Śiva  darśana
 
-(220) At the holy place of Ciyaḍatalā He saw Śrī Rāma and Lakṣmaṇa, and coming to Tilakāñcī, He had *darśana* of Śiva.
+(220) At the holy place of Ciyaḍatalā He saw Śrī Rāma and Lakṣmaṇa, and coming to Tilakāñcī, He had darśana of Śiva.
 
 গজেন্দ্রমোক্ষণ-তীর্থে দেখি’ বিষ্ণুমূর্ত্তি ৷  
 পানাগড়ি-তীর্থে আসি’ দেখিল সীতাপতি ॥ ২২১ ॥
@@ -2291,7 +2291,7 @@ to Cāmtāpura  coming  seeing  Śrī Rāma and Lakṣmaṇa
 śrī-vaikuṇṭhe āsi’ kaila viṣṇu daraśana  
 to Śrī Vaikuṇṭha  coming  He had  of Viṣṇu  darśana
 
-(222) Coming to Cāmtāpura, He saw Śrī Rāma and Lakṣmaṇa; coming to Śrī Vaikuṇṭha, He had *darśana* of Viṣṇu.
+(222) Coming to Cāmtāpura, He saw Śrī Rāma and Lakṣmaṇa; coming to Śrī Vaikuṇṭha, He had darśana of Viṣṇu.
 
 মলয়-পর্ব্বতে কৈল অগস্ত্য-বন্দন ৷  
 কন্যাকুমারী তাঁহা কৈল দরশন ॥ ২২৩ ॥
@@ -2301,7 +2301,7 @@ on the Malaya hill  He offered  homage to Agastya
 kanyā-kumārī tām̐hā kaila daraśana  
 Kanyākumārī  there  He had  darśana
 
-(223) On the Malaya hill He offered homage to Agastya, and there He had *darśana* of Kanyākumārī.
+(223) On the Malaya hill He offered homage to Agastya, and there He had darśana of Kanyākumārī.
 
 আম্লিতলায় দেখি’ শ্রীরাম গৌরহরি ৷  
 মল্লার-দেশেতে আইলা যথা ভট্টথারি ॥ ২২৪ ॥
@@ -2491,7 +2491,7 @@ for two days  of Padmanābha  He had  darśana
 ānande dekhite āilā śrī-janārdana  
 in bliss  to see  He came  Śrī Janārdana
 
-(242) For two days He had *darśana* of Padmanābha, and then joyfully came to see Śrī Janārdana.
+(242) For two days He had darśana of Padmanābha, and then joyfully came to see Śrī Janārdana.
 
 দিন-দুই তাঁহা করি’ কীর্ত্তন-নর্ত্তন ৷  
 পয়স্বিনী আসিয়া দেখে শঙ্কর নারায়ণ ॥ ২৪৩ ॥
@@ -2501,7 +2501,7 @@ for two days  there  performing  kīrtana and dancing
 payasvinī āsiyā dekhe śaṅkara nārāyaṇa  
 to the Payasvinī  coming  He sees  Śaṅkara  Nārāyaṇa
 
-(243) For two days He sang and danced there in *kīrtana*; then, coming to the Payasvinī, He saw Śaṅkara-nārāyaṇa.
+(243) For two days He sang and danced there in kīrtana; then, coming to the Payasvinī, He saw Śaṅkara-nārāyaṇa.
 
 শৃঙ্গেরি-মঠে আইলা শঙ্করাচার্য্য-স্থানে ৷  
 মৎস্য-তীর্থ দেখি’ কৈল তুঙ্গভদ্রায় স্নানে ॥ ২৪৪ ॥
@@ -2712,7 +2712,7 @@ censure of karma  renunciation of karma  in all the scriptures  is said
 karma haite prema-bhakti kṛṣṇe kabhu nahe  
 from karma  loving devotion  to Kṛṣṇa  ever  is not
 
-(263) All the scriptures censure *karma* and enjoin its renunciation: loving devotion (*prema-bhakti*) to Kṛṣṇa never arises from *karma*.
+(263) All the scriptures censure karma and enjoin its renunciation: loving devotion (*prema-bhakti*) to Kṛṣṇa never arises from karma.
 
 আজ্ঞায়ৈবং গুণান্ দোষান্ময়াদিষ্টানপি স্বকান্ ৷  
 ধর্ম্মান্ সন্ত্যজ্য যঃ সর্ব্বান্মাং ভজেৎ স চ সত্তমঃ ॥ ২৬৪ ॥
@@ -2818,7 +2818,7 @@ liberation  karma  two  things  give up  the devotees
 sei dui sthāpa’ tumi ‘sādhya’, ‘sādhana’  
 those  two  establish  you  as ‘goal’  and ‘means’
 
-(271) Liberation and *karma* — these two things the devotees give up, yet you establish those very two as the ‘goal’ and the ‘means.’
+(271) Liberation and karma — these two things the devotees give up, yet you establish those very two as the ‘goal’ and the ‘means.’
 
 সন্ন্যাসী দেখিয়া মোরে করহ বঞ্চন ৷  
 না কহিলা তেঞি সাধ্য-সাধন-লক্ষণ ॥ ২৭২ ॥
@@ -2898,7 +2898,7 @@ at Tritakūpa  of Viśālākṣī  He had  darśana
 pañcāpsarā-tīrthe āilā śacīra nandana  
 to Pañcāpsarā-tīrtha  came  of Śacī  the son
 
-(279) At Tritakūpa He had *darśana* of Viśālākṣī, and then the son of Śacī came to Pañcāpsarā-tīrtha.
+(279) At Tritakūpa He had darśana of Viśālākṣī, and then the son of Śacī came to Pañcāpsarā-tīrtha.
 
 গোকর্ণে শিব দেখি’ আইলা দ্বৈপায়নি ৷  
 সূর্পারক তীর্থে আইলা ন্যাসিশিরোমণি ॥ ২৮০ ॥
@@ -2938,7 +2938,7 @@ in ecstatic love  He did  much  kīrtana and dancing
 tām̐hā eka vipra tām̐re kaila nimantraṇa  
 there  a  brāhmaṇa  Him  made  invitation
 
-(283) In ecstatic love He sang and danced at length in *kīrtana*, and a brāhmaṇa there invited Him.
+(283) In ecstatic love He sang and danced at length in kīrtana, and a brāhmaṇa there invited Him.
 
 বহুত আদরে প্রভুকে ভিক্ষা করাইল ৷  
 ভিক্ষা করি’ তথা এক শুভবার্ত্তা পাইল ॥ ২৮৪ ॥
@@ -3098,7 +3098,7 @@ her  one  worthy  son  has taken  sannyāsa
 ‘śaṅkarāraṇya’ nāma tām̐ra alpa vayasa  
 ‘Śaṅkarāraṇya’  name  his  young  age
 
-(299) One worthy son of hers took *sannyāsa*. His name was Śaṅkarāraṇya, and he was young.
+(299) One worthy son of hers took sannyāsa. His name was Śaṅkarāraṇya, and he was young.
 
 এই তীর্থে শঙ্করারণ্যের সিদ্ধিপ্রাপ্তি হৈল ৷  
 প্রস্তাবে শ্রীরঙ্গ-পুরী এতেক কহিল ॥ ৩০০ ॥
@@ -3138,7 +3138,7 @@ for four days  there  the Lord  kept  the brāhmaṇa
 bhīmā-nadī snāna kari’ karena viṭhṭhala darśana  
 in the river Bhīmā  a bath  taking  He has  of Viṭhṭhala  darśana
 
-(303) The brāhmaṇa kept the Lord there for four days, and the Lord bathed in the river Bhīmā and had *darśana* of Viṭhṭhala.
+(303) The brāhmaṇa kept the Lord there for four days, and the Lord bathed in the river Bhīmā and had darśana of Viṭhṭhala.
 
 তবে মহাপ্রভু আইলা কৃষ্ণবেণ্বা-তীরে ৷  
 নানা তীর্থ দেখি’ তাঁহা দেবতা-মন্দিরে ॥ ৩০৪ ॥
@@ -3348,7 +3348,7 @@ the Lord  said  you  that  ‘conclusion about love’  spoke
 ei dui pustake sei rasera sākṣī dile  
 these  two  books  of that  rasa  witness  have given
 
-(324) The Lord said, “These two books bear witness to that very *rasa* — the conclusions about love (*prema-siddhānta*) that you spoke to Me.”
+(324) The Lord said, “These two books bear witness to that very rasa — the conclusions about love (*prema-siddhānta*) that you spoke to Me.”
 
 রায়ের আনন্দ হৈল পুস্তক পাইয়া ৷  
 প্রভু-সহ আস্বাদিল, রাখিল লিখিয়া ॥ ৩২৫ ॥
@@ -3568,7 +3568,7 @@ Jagannātha’s darśana  in ecstatic love  He had
 kampa-sveda-pulakāśrute śarīra bhāsila  
 in trembling, sweat, horripilation and tears  His body  was bathed
 
-(346) In ecstatic love He had *darśana* of Jagannātha, and His body was flooded with trembling, sweat, horripilation and tears.
+(346) In ecstatic love He had darśana of Jagannātha, and His body was flooded with trembling, sweat, horripilation and tears.
 
 বহু নৃত্যগীত কৈল প্রেমাবিষ্ট হঞা ৷  
 পাণ্ডাপাল আইল সবে মালা-প্রসাদ লঞা ॥ ৩৪৭ ॥
@@ -3728,7 +3728,7 @@ in this  Kali age  other  there is not  any  dharma
 vaiṣṇava, vaiṣṇava-śāstra, ei kahe marma  
 the Vaiṣṇavas  the Vaiṣṇava scriptures  this  declare  the heart of the matter
 
-(362) In this age of Kali there is no other *dharma*: this is the heart of the matter, as the Vaiṣṇavas and the Vaiṣṇava scriptures declare.[^46][^47]
+(362) In this age of Kali there is no other dharma: this is the heart of the matter, as the Vaiṣṇavas and the Vaiṣṇava scriptures declare.[^46][^47]
 
 চৈতন্যচন্দ্রের লীলা — অগাধ, গম্ভীর ৷  
 প্রবেশ করিতে নারি, — স্পর্শি রহি’ তীর ॥ ৩৬৩ ॥
@@ -3788,7 +3788,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^13]: *Anubhāṣya*: in essence Nārāyaṇa and Kṛṣṇa are not different, but in rasa it is the form of Kṛṣṇa that excels; see Ādi, chapters 2 and 3, and the *Laghu-bhāgavatāmṛta*.
 
-[^14]: *Amṛta-pravāha-bhāṣya*: the Śrutis could not enter the *rāsa* circle while they took the gopīs’ mood only in the heart; when they took it both in body and in heart, they followed the gopīs and entered Kṛṣṇa’s *rāsa* dance. Lakṣmī, however, prayed for Kṛṣṇa’s company in her own body and did not serve Him by following the gopīs’ love, and so she did not attain the *rāsa* pastimes.
+[^14]: *Amṛta-pravāha-bhāṣya*: the Śrutis could not enter the rāsa circle while they took the gopīs’ mood only in the heart; when they took it both in body and in heart, they followed the gopīs and entered Kṛṣṇa’s rāsa dance. Lakṣmī, however, prayed for Kṛṣṇa’s company in her own body and did not serve Him by following the gopīs’ love, and so she did not attain the rāsa pastimes.
 
 [^15]: The same verse as Ādi 2.67 and Ādi 5.79; translation as there.
 
@@ -3808,13 +3808,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^23]: *Amṛta-pravāha-bhāṣya*: the Bhaṭṭathāris (in common speech, “Bhāṭwārīs”) have neither house nor home; wherever they stop, they live in simple tents. Outwardly they wear the dress of sannyāsīs, but their trade is theft and deceit; with the women they keep in their tents they lure others and so swell their band.
 
-[^24]: *Amṛta-pravāha-bhāṣya*: the chapter of the *Brahma-saṁhitā* is its fifth chapter, now available in Bengal with the commentary of Śrī Jīva Gosvāmī. The *Anubhāṣya* lists its subjects: inconceivable oneness and difference, the eighteen-syllable mantra, the *kāma-gāyatrī*, the form of Govinda, Gokula, the truth of the *jīva*, *prema*, devotion on the path of *rāga*, *svakīyā* and *parakīyā*, and much else.
+[^24]: *Amṛta-pravāha-bhāṣya*: the chapter of the *Brahma-saṁhitā* is its fifth chapter, now available in Bengal with the commentary of Śrī Jīva Gosvāmī. The *Anubhāṣya* lists its subjects: inconceivable oneness and difference, the eighteen-syllable mantra, the *kāma-gāyatrī*, the form of Govinda, Gokula, the truth of the jīva, prema, devotion on the path of *rāga*, *svakīyā* and *parakīyā*, and much else.
 
 [^25]: Heading in the edition: the Lord humbly questions the great paṇḍita Raghuvarya Tīrtha.
 
-[^26]: *Anubhāṣya*: the *sādhana* the ācārya of the Tattvavādīs names is devotion mixed with *karma*: *varṇāśrama-dharma* offered to Kṛṣṇa. His *sādhya* is the five kinds of liberation and going to Vaikuṇṭha (257); but the *sādhana* of the scriptures Mahāprabhu revealed is hearing and chanting, and their *sādhya* is love for Kṛṣṇa (258).
+[^26]: *Anubhāṣya*: the *sādhana* the ācārya of the Tattvavādīs names is devotion mixed with karma: *varṇāśrama-dharma* offered to Kṛṣṇa. His *sādhya* is the five kinds of liberation and going to Vaikuṇṭha (257); but the *sādhana* of the scriptures Mahāprabhu revealed is hearing and chanting, and their *sādhya* is love for Kṛṣṇa (258).
 
-[^27]: *Anubhāṣya*: this was Prahlāda’s answer to his father, Hiraṇyakaśipu, who asked what he had learned from the sons of his guru. Devotion is first offered to the Lord and then performed — directly, not through *jñāna* and *karma*, and not first performed and only afterwards offered; and one who serves in this way regards pure service to Hari as the fruit of studying all the scriptures.
+[^27]: *Anubhāṣya*: this was Prahlāda’s answer to his father, Hiraṇyakaśipu, who asked what he had learned from the sons of his guru. Devotion is first offered to the Lord and then performed — directly, not through jñāna and karma, and not first performed and only afterwards offered; and one who serves in this way regards pure service to Hari as the fruit of studying all the scriptures.
 
 [^28]: *Anubhāṣya*: these words were spoken by Kavi, one of the nine Yogendras, to King Nimi. *Evaṁ-vrataḥ* — one whose vow is the service of hearing, chanting and the like; *druta-cittaḥ* — with a heart full of longing; *loka-bāhyaḥ* — indifferent to people’s laughter, blame or praise.
 
@@ -3826,7 +3826,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: The same verse as Madhya 8.63; translation as there.
 
-[^33]: *Anubhāṣya*: this is Śrī Bhagavān’s answer to Uddhava, who asked who must perform *karma* and who may give it up. Weariness (*nirveda*) is detachment from all talk other than talk of Kṛṣṇa; *karma* here means the regular and occasional duties (*nitya-* and *naimittika-karma*).
+[^33]: *Anubhāṣya*: this is Śrī Bhagavān’s answer to Uddhava, who asked who must perform karma and who may give it up. Weariness (*nirveda*) is detachment from all talk other than talk of Kṛṣṇa; *karma* here means the regular and occasional duties (*nitya-* and *naimittika-karma*).
 
 [^34]: *Amṛta-pravāha-bhāṣya* (on Ādi 4.207): *sālokya* — residence in Vaikuṇṭha, *sārṣṭi* — opulence, *sāmīpya* — nearness, *sārūpya* — a four-armed form, oneness — *sāyujya*, merging; the devotees do not accept them, for apart from transcendental service to the Lord they have nothing to desire.
 
@@ -3834,7 +3834,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^36]: *Amṛta-pravāha-bhāṣya*: if even liberation, *nirvāṇa*, is worthless to such sādhus, what to speak of earthly happiness.
 
-[^37]: *Anubhāṣya*: Śambhu (Śiva) spoke these words to Pārvatī when she had cursed Citraketu and he had humbly accepted the curse. Fear arises from absorption in a “second thing” — in *māyā*, perceived as something other than Kṛṣṇa; for the pure devotee heaven, hell and *mokṣa* are all such a “second thing”, foreign to the soul and therefore not dear to him.
+[^37]: *Anubhāṣya*: Śambhu (Śiva) spoke these words to Pārvatī when she had cursed Citraketu and he had humbly accepted the curse. Fear arises from absorption in a “second thing” — in māyā, perceived as something other than Kṛṣṇa; for the pure devotee heaven, hell and *mokṣa* are all such a “second thing”, foreign to the soul and therefore not dear to him.
 
 [^38]: *Anubhāṣya*: from the line of gurus of the Uttararāḍhī Maṭha it is known that in Śrī Mahāprabhu’s time its head was Śrī Raghuvarya Tīrtha (here the edition has “Raghuvīrya”).
 
@@ -3852,6 +3852,6 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^45]: *Amṛta-pravāha-bhāṣya*: the *pāṇḍās* perform the worship of Śrī Jagannātha, and the “*paśupālas*” render other services; from the two words together comes “*pāṇḍāpāla*”.
 
-[^46]: *Anubhāṣya*: the essence the Vaiṣṇavas and all the Vaiṣṇava scriptures convey is this: for a pure *jīva*, free from envy, the one eternal *dharma* in the age of Kali is to take shelter at Śrī Gaura’s feet and chant the holy name. The Vaiṣṇava is the experience of the wise (*vidvad-anubhava*), the Vaiṣṇava scripture is the evidence of revelation (*śabda-pramāṇa*); to follow both is to walk the path of *śrauta*.
+[^46]: *Anubhāṣya*: the essence the Vaiṣṇavas and all the Vaiṣṇava scriptures convey is this: for a pure jīva, free from envy, the one eternal dharma in the age of Kali is to take shelter at Śrī Gaura’s feet and chant the holy name. The Vaiṣṇava is the experience of the wise (*vidvad-anubhava*), the Vaiṣṇava scripture is the evidence of revelation (*śabda-pramāṇa*); to follow both is to walk the path of *śrauta*.
 
-[^47]: *Amṛta-pravāha-bhāṣya*: apart from this there is no other *dharma* in the age of Kali; to serve the pure Vaiṣṇavas and read the scriptures of the pure Vaiṣṇavas is the one *dharma* of the *jīva*.
+[^47]: *Amṛta-pravāha-bhāṣya*: apart from this there is no other dharma in the age of Kali; to serve the pure Vaiṣṇavas and read the scriptures of the pure Vaiṣṇavas is the one dharma of the jīva.

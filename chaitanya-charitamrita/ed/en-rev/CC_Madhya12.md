@@ -2243,7 +2243,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^7]: *Amṛta-pravāha-bhāṣya*: from the standpoint of the highest goal a sannyāsī incurs fault by meeting a king; and he must avoid the censure of people because his task is to preach dharma, and the preaching of one who is censured does not go well.
 
-[^8]: Heading in the edition: “Under the guise of respect, a jibe at Dāmodara’s judging what is not his to judge.” *Amṛta-pravāha-bhāṣya*: the Lord is won by Dāmodara’s devotion, yet his verbal chastisements are often unfitting toward the Lord; by these words the Lord lets it be understood that Dāmodara will have to give up that habit.
+[^8]: Heading in the edition: “Under the guise of respect, a jibe at Dāmodara’s judging what is not his to judge.” *Amṛta-pravāha-bhāṣya*: the Lord is won by Dāmodara’s devotion, yet his verbal chastisements are often unfitting towards the Lord; by these words the Lord lets it be understood that Dāmodara will have to give up that habit.
 
 [^9]: *Anubhāṣya*: You are Īśvara and so are bound to no one; yet by Your own nature You are subject only to the love of Your exclusive (*aikāntika*) devotees.
 

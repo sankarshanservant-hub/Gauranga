@@ -284,11 +284,11 @@ not  this  easily attained  Bhagavān
 dehināṁ gopikā-sutaḥ  
 for the embodied  of the gopī  the son  
 jñānināṁ cātma-bhūtānāṁ  
-for the jñānīs  and  for those who realized the self  
+for the jñānīs  and  for those who realised the self  
 yathā bhaktimatām iha  
 as  for those who have devotion  here
 
-(27) ‘This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.’ (Śrīmad-Bhāgavatam, 10.9.21)[^9]
+(27) ‘This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realised the self, as He is by those who have devotion.’ (Śrīmad-Bhāgavatam, 10.9.21)[^9]
 
 ‘আত্মভূত’-শব্দে কহে ‘পারিষদগণ’ ৷  
 ঐশ্বর্য্য-জ্ঞানে লক্ষ্মী না পাইলা ব্রজেন্দ্রনন্দন ॥ ২৮ ॥
@@ -350,7 +350,7 @@ for those under māyā  a human boy
 sārdhaṁ vijahruḥ kṛta-puṇya-puñjāḥ  
 with (Him)  played  who had amassed  of pious deeds  heaps
 
-(32) ‘Thus the cowherd boys, who had amassed heaps of pious deeds, played with Him who is to the sages the experience of Brahman’s bliss, to those who have taken up His service the Supreme Deity, and to those under the spell of *māyā* a human child.’ (Śrīmad-Bhāgavatam, 10.12.11)[^13]
+(32) ‘Thus the cowherd boys, who had amassed heaps of pious deeds, played with Him who is to the sages the experience of Brahman’s bliss, to those who have taken up His service the Supreme Deity, and to those under the spell of māyā a human child.’ (Śrīmad-Bhāgavatam, 10.12.11)[^13]
 
 ত্রয়্যা চোপনিষদ্ভিশ্চ সাংখ্যযোগৈশ্চ সাত্বতৈঃ ৷  
 উপগীয়মানমাহাত্ম্যং হরিং সাঽমন্যতাত্মজম্ ॥ ৩৩ ॥
@@ -872,7 +872,7 @@ the Lord  says  of Kṛṣṇa’s name  many  meanings  not  I accept
 কৃষ্ণনাম্নো রূঢ়িরিতি সর্ব্বশাস্ত্র-বিনির্ণয়ঃ ॥ ৮২ ॥
 
 tamāla-śyāmala-tviṣi  
-in Him whose luster is dark like the tamāla tree  
+in Him whose lustre is dark like the tamāla tree  
 śrī-yaśodā-stanan-dhaye  
 in the One who drinks at Śrī Yaśodā’s breast  
 kṛṣṇa-nāmno rūḍhir iti  
@@ -908,7 +908,7 @@ all-knowing  the Lord  knowing  them  does  disregard
 vimanā hañā bhaṭṭa gelā nija-ghara  
 dejected  becoming  the Bhaṭṭa  went  to his own  home  
 prabhu-viṣaye bhakti kichu haila antara  
-toward the Lord  devotion  somewhat  became  removed
+towards the Lord  devotion  somewhat  became  removed
 
 (85) Dejected, the Bhaṭṭa went home, and his devotion to the Lord partly ebbed away.[^31]
 
@@ -1228,9 +1228,9 @@ earlier  in Prayāga  to me  great  mercy  He showed
 svagaṇa-sahite mora mānilā nimantraṇa  
 His associates  together with  my  accepted  invitation  
 ebe kene prabhura mote phiri’ gela mana?  
-now  why  the Lord’s  toward me  turned  went  mind
+now  why  the Lord’s  towards me  turned  went  mind
 
-(117) With His associates He accepted my invitation. Why is the Lord’s mind now so changed toward me?
+(117) With His associates He accepted my invitation. Why is the Lord’s mind now so changed towards me?
 
 ‘আমি জিতি’, — এই গর্ব্ব-শূন্য হউক ইঁহার চিত ৷  
 ঈশ্বর-স্বভাব, — করেন সবাকার হিত ॥ ১১৮ ॥
@@ -1258,9 +1258,9 @@ that  pride  to break  me  does  dishonour
 āmāra ‘hita’ karena, — iho āmi māni ‘duḥkha’  
 my  ‘good’  He does,  this  I  regard  ‘sorrow’  
 kṛṣṇera upare kaila yena indra mahāmūrkha  
-Kṛṣṇa  toward  did  as  Indra  great fool
+Kṛṣṇa  towards  did  as  Indra  great fool
 
-(120) He is doing me good, yet I take it as sorrow — just as Indra, that great fool, behaved toward Kṛṣṇa.”[^40]
+(120) He is doing me good, yet I take it as sorrow — just as Indra, that great fool, behaved towards Kṛṣṇa.”[^40]
 
 এত চিন্তি’ প্রাতে আসি’ প্রভুর চরণে ৷  
 দৈন্য করি’ স্তুতি করি’ লইল শরণে ॥ ১২১ ॥
@@ -1842,7 +1842,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^44]: Heading in the edition: Gadādhara is the avatāra of Rukmiṇī; his compliant nature (*dakṣiṇa*) and pure, deep love for Gaura. *Anubhāṣya* (on 140–141): once in Dvārakā Kṛṣṇa jokingly advised Rukmiṇī to choose another husband; she was frightened and, by her compliant nature, fell at His feet. So too in Gaura’s pastimes: Jagadānanda, like Satyabhāmā, is contrary and quarrels out of love, while Gadādhara, like Rukmiṇī, is timid and always follows the Lord in everything.
 
-[^45]: Heading in the edition: on the pretext of goodwill toward Vallabha, the Lord outwardly shows feigned anger and so tests Gadādhara’s love; Gadādhara is frightened.
+[^45]: Heading in the edition: on the pretext of goodwill towards Vallabha, the Lord outwardly shows feigned anger and so tests Gadādhara’s love; Gadādhara is frightened.
 
 [^46]: Heading in the edition: association with Gadādhara inclines Vallabha to worship in *madhura-rasa*.
 

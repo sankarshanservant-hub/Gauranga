@@ -317,7 +317,7 @@ of the word bhakti  the meaning  is  of ten kinds
 eka — ‘sādhana’, ‘prema-bhakti’ — nava prakāra  
 one  sādhana  prema-bhakti  nine  kinds
 
-(30) The word *bhakti* has ten meanings: one is *sādhana-bhakti*, and *prema-bhakti* is of nine kinds.
+(30) The word *bhakti* has ten meanings: one is *sādhana-bhakti*, and prema-bhakti is of nine kinds.
 
 ‘রতি’-লক্ষণা, ‘প্রেম’-লক্ষণা, ইত্যাদি প্রচার ৷  
 ভাবরূপা, মহাভাব-লক্ষণরূপা আর ॥ ৩১ ॥
@@ -625,7 +625,7 @@ as  fire  brightly blazing
 karoty edhāṁsi bhasma-sāt  
 makes  firewood  into ashes  
 tathā mad-viṣayā bhaktir  
-so  toward Me  directed  devotion  
+so  towards Me  directed  devotion  
 uddhavaināṁsi kṛtsnaśaḥ  
 O Uddhava  sins  entirely
 
@@ -901,11 +901,11 @@ not  this  easily attained  Bhagavān
 dehināṁ gopikā-sutaḥ  
 for the embodied  of the gopī  the son  
 jñānināṁ cātma-bhūtānāṁ  
-for the jñānīs  and  for those who realized the self  
+for the jñānīs  and  for those who realised the self  
 yathā bhaktimatām iha  
 as  for those who have devotion  here
 
-(82) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)[^15]
+(82) “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realised the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)[^15]
 
 যচ্চ ব্রজন্ত্যনিমিষামৃষভানুবৃত্ত্যা  
 দূরে-যমা হ্যুপরি নঃ স্পৃহণীয়শীলাঃ ৷  
@@ -1404,7 +1404,7 @@ by dry knowledge  liberated while living  through offences  down  sinks
 ye ’nye ’ravindākṣa vimukta-māninas  
 those who  others  O lotus-eyed Lord  who think themselves liberated  
 tvayy asta-bhāvād aviśuddha-buddhayaḥ  
-toward You  for want of love  of impure intelligence  
+towards You  for want of love  of impure intelligence  
 āruhya kṛcchreṇa paraṁ padaṁ tataḥ  
 having risen  with hardship  to the supreme  position  from there  
 patanty adho ‘nādṛta-yuṣmad-aṅghrayaḥ  
@@ -1472,9 +1472,9 @@ in one’s own true nature  being established
 kṛṣṇa-bahirmukhatā-doṣa māyā haite haya  
 from Kṛṣṇa  of turning away  the fault  from māyā  comes  is  
 kṛṣṇonmukhī mukti haite māyā-mukti haya  
-turned toward Kṛṣṇa  liberation  from  from māyā  freedom  comes
+turned towards Kṛṣṇa  liberation  from  from māyā  freedom  comes
 
-(131) The fault of turning away from Kṛṣṇa comes from māyā, and freedom from māyā comes from liberation that is turned toward Kṛṣṇa.[^28]
+(131) The fault of turning away from Kṛṣṇa comes from māyā, and freedom from māyā comes from liberation that is turned towards Kṛṣṇa.[^28]
 
 ভয়ং দ্বিতীয়াভিনিবেশতঃ স্যা-  
 দীশাদপেতস্য বিপর্য্যয়োঽস্মৃতিঃ ৷  
@@ -1540,7 +1540,7 @@ nothing else  as  for those who pound empty husks
 ye ‘nye ‘ravindākṣa vimukta-māninas  
 those who  others  O lotus-eyed Lord  who think themselves liberated  
 tvayy asta-bhāvād aviśuddha-buddhayaḥ  
-toward You  for want of love  of impure intelligence  
+towards You  for want of love  of impure intelligence  
 āruhya kṛcchreṇa paraṁ padaṁ tataḥ  
 having risen  with hardship  to the supreme  position  from there  
 patanty adho ‘nādṛta-yuṣmad-aṅghrayaḥ  
@@ -2121,7 +2121,7 @@ if  of Adbhuta-krama (Urukrama)  of those devoted  in the conduct  trained
 tiryag janā api kim u śruta-dhāraṇā ye  
 animal  beings  even  what  then  holding to the Śruti  those who
 
-(184) “Women, *śūdras*, Hūṇas, Śabaras and other sinful beings — even animals and birds — come to know (the Lord) and cross beyond the divine māyā if they learn the conduct of those devoted to Adbhuta-krama, the Lord of wondrous deeds. What then to speak of those who hold to the Śruti!” (Śrīmad-Bhāgavatam, 2.7.46)
+(184) “Women, śūdras, Hūṇas, Śabaras and other sinful beings — even animals and birds — come to know (the Lord) and cross beyond the divine māyā if they learn the conduct of those devoted to Adbhuta-krama, the Lord of wondrous deeds. What then to speak of those who hold to the Śruti!” (Śrīmad-Bhāgavatam, 2.7.46)
 
 বিচার করিয়া যবে ভজে কৃষ্ণ-পায় ৷  
 সেই বুদ্ধি দেন তাঁরে, যাতে কৃষ্ণ পায় ॥ ১৮৫ ॥
@@ -2245,7 +2245,7 @@ by the word ātmā  nature  is meant  in it  who  delights
 দেহে আত্ম-জ্ঞানে আচ্ছাদিত সেই ‘জ্ঞান’ ॥ ১৯৫ ॥
 
 jīvera svabhāva — kṛṣṇe ‘dāsa’-abhimāna  
-of the jīva  the nature  toward Kṛṣṇa  servant  self-conception  
+of the jīva  the nature  towards Kṛṣṇa  servant  self-conception  
 dehe ātma-jñāne ācchādita sei ‘jñāna’  
 in the body  by the notion of self  covered  that  awareness
 
@@ -2269,7 +2269,7 @@ these  jīvas  Sanaka and the others  all  sages
 ‘nirgrantha’ — mūrkha, nīca, sthāvara-jaṅgama  
 the nirgranthas  the foolish  the low  stationary  moving
 
-(197) These *jīvas* include all the sages (*munis*), Sanaka and the rest; and the *nirgranthas* are the foolish, the low, and all beings, stationary and moving.
+(197) These jīvas include all the sages (*munis*), Sanaka and the rest; and the *nirgranthas* are the foolish, the low, and all beings, stationary and moving.
 
 ব্যাস-শুক-সনকাদির প্রসিদ্ধ ভজন ৷  
 ‘নির্গ্রন্থ’ স্থাবরাদির শুন বিবরণ ॥ ১৯৮ ॥
@@ -3512,7 +3512,7 @@ to His own  abode  now  having gone
 dharmaḥ kaṁ śaraṇaṁ gataḥ  
 dharma  to which  shelter  has gone
 
-(315) “Tell us: now that Kṛṣṇa — the master of yoga, devoted to the *brāhmaṇas*, the armour of *dharma* — has gone to His own abode, to whom has *dharma* gone for shelter?” (Śrīmad-Bhāgavatam, 1.1.23)
+(315) “Tell us: now that Kṛṣṇa — the master of yoga, devoted to the brāhmaṇas, the armour of dharma — has gone to His own abode, to whom has dharma gone for shelter?” (Śrīmad-Bhāgavatam, 1.1.23)
 
 কৃষ্ণে স্বধামোপগতে ধর্ম্মজ্ঞানাদিভিঃ সহ ৷  
 কলৌ নষ্টদৃশামেষ পুরাণার্কোঽধুনোদিতঃ ॥ ৩১৬ ॥
@@ -3526,7 +3526,7 @@ in Kali  for those who have lost their sight  this
 purāṇārko ‘dhunoditaḥ  
 Purāṇa-sun  now  has risen
 
-(316) “Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge and the rest, this Purāṇa has risen like the sun in the age of Kali for those who have lost their sight.” (Śrīmad-Bhāgavatam, 1.3.43)
+(316) “Now that Kṛṣṇa has gone to His own abode together with dharma, knowledge and the rest, this Purāṇa has risen like the sun in the age of Kali for those who have lost their sight.” (Śrīmad-Bhāgavatam, 1.3.43)
 
 এই মত কহিলুঁ এক শ্লোকের ব্যাখ্যান ৷  
 বাতুলের প্রলাপ করি’ কে করে প্রমাণ ? ॥ ৩১৭ ॥
@@ -3616,7 +3616,7 @@ guru  marks  disciple  marks  of both  testing
 sevya — bhagavān, sarva-mantra-vicāraṇa  
 the object of service  Bhagavān  all  mantras  consideration
 
-(325) “the marks of a guru and of a disciple, and how each tests the other; Bhagavān as the object of service; a consideration of all the *mantras*;
+(325) “the marks of a guru and of a disciple, and how each tests the other; Bhagavān as the object of service; a consideration of all the mantras;
 
 মন্ত্র-অধিকারী, মন্ত্র-সিদ্ধ্যাদি-শোধন ৷  
 দীক্ষা, প্রাতঃস্মৃতি-কৃত্য, শৌচ, আচমন ॥ ৩২৬ ॥
@@ -3626,7 +3626,7 @@ mantra  qualified person  mantra  perfection  and so on  purification
 dīkṣā, prātaḥ-smṛti-kṛtya, śauca, ācamana  
 initiation  morning  remembrance  duties  cleanliness  ācamana
 
-(326) “who is qualified to receive a *mantra*; the purification of a *mantra*, its perfection and the like; initiation; the morning duties of remembrance; cleanliness; *ācamana*;
+(326) “who is qualified to receive a mantra; the purification of a mantra, its perfection and the like; initiation; the morning duties of remembrance; cleanliness; *ācamana*;
 
 দন্তধাবন, স্নান, সন্ধ্যাদি বন্দন ৷  
 গুরুসেবা, ঊর্দ্ধ্বপুণ্ড্রচক্রাদি-ধারণ ॥ ৩২৭ ॥
@@ -3646,7 +3646,7 @@ gopī-candana  beads  wearing  tulasī  gathering
 vastra-pīṭha-gṛha-saṁskāra, kṛṣṇa-prabodhana  
 cloth  seat  house  purification  Kṛṣṇa  awakening
 
-(328) “wearing *gopī-candana* and beads; gathering *tulasī*; purifying the cloth, the altar and the house; awakening Kṛṣṇa;
+(328) “wearing *gopī-candana* and beads; gathering tulasī; purifying the cloth, the altar and the house; awakening Kṛṣṇa;
 
 পঞ্চ, ষোড়শ, পঞ্চাশৎ উপচারে অর্চ্চন ৷  
 পঞ্চকাল পূজা আরতি, কৃষ্ণের ভোজন-শয়ন ॥ ৩২৯ ॥
@@ -3802,7 +3802,7 @@ within  of devotion  with the rasa  a full lake  outwardly  in the form of an av
 śaivālaiḥ pihitaṁ mahā-sara iva prīti-pradas tad-vidām  
 with moss  covered  a great  lake  like  delight  giving  to those who know it
 
-(343) “This very one — the elder brother of Rūpa, once the jewel adorning the court of the king of Gauḍa — gave up abundant wealth and took as his own the youthful goddess of renunciation. Within he is brimming with the *rasa* of devotion; outwardly he looks like an *avadhūta*. Like a deep lake covered with moss, he delights those who know the truth.” (Caitanya-candrodaya, Act 9)[^66]
+(343) “This very one — the elder brother of Rūpa, once the jewel adorning the court of the king of Gauḍa — gave up abundant wealth and took as his own the youthful goddess of renunciation. Within he is brimming with the rasa of devotion; outwardly he looks like an *avadhūta*. Like a deep lake covered with moss, he delights those who know the truth.” (Caitanya-candrodaya, Act 9)[^66]
 
 তং সনাতনমুপাগতমক্ষ্ণো-  
 র্দৃষ্টিমাত্রমতিমাত্রদয়ার্দ্রঃ ৷  
@@ -3940,9 +3940,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^26]: The same verse as Madhya 10.178; translation as there. The source is given as in the heading of the edition (p. 803): words of Bilvamaṅgala in the *Śrī Kṛṣṇa-karṇāmṛta*.
 
-[^27]: *Anubhāṣya*: *nirodha* and *mukti* are two of the ten characteristics of a *mahā-purāṇa*; the “potencies” are the *jīva*’s *upādhis*; the “other form” is the notion, imposed by ignorance (*avidyā*), that one is the doer; *svarūpa* is the pure nature of the *jīva*, who serves Bhagavān.
+[^27]: *Anubhāṣya*: *nirodha* and *mukti* are two of the ten characteristics of a *mahā-purāṇa*; the “potencies” are the jīva’s *upādhis*; the “other form” is the notion, imposed by ignorance (*avidyā*), that one is the doer; *svarūpa* is the pure nature of the jīva, who serves Bhagavān.
 
-[^28]: The Gauḍīya Maṭha edition reads *kṛṣṇonmukhī mukti*, “liberation turned toward Kṛṣṇa”; another reading has *kṛṣṇonmukha bhakti … māyā-mukta haya*, “through devotion turned toward Kṛṣṇa one is freed from māyā.” According to the *Anubhāṣya*, freedom from māyā comes through serving Kṛṣṇa, that is, through turning toward Him.
+[^28]: The Gauḍīya Maṭha edition reads *kṛṣṇonmukhī mukti*, “liberation turned towards Kṛṣṇa”; another reading has *kṛṣṇonmukha bhakti … māyā-mukta haya*, “through devotion turned towards Kṛṣṇa one is freed from māyā.” According to the *Anubhāṣya*, freedom from māyā comes through serving Kṛṣṇa, that is, through turning towards Him.
 
 [^29]: The same verse as Madhya 20.119; translation as there.
 
@@ -3984,7 +3984,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^48]: The same verse as 98 (= Madhya 22.40); translation as there. Numbered as in the heading of the edition (p. 811) and the *Anubhāṣya* (5.19.26); in other editions — 5.19.27.
 
-[^49]: Heading of the edition: the nature of the pure, uncovered self of the *jīva* and of the covered self; the pure “I” and the impure “I”.
+[^49]: Heading of the edition: the nature of the pure, uncovered self of the jīva and of the covered self; the pure “I” and the impure “I”.
 
 [^50]: The same verse as Madhya 8.275; translation as there.
 

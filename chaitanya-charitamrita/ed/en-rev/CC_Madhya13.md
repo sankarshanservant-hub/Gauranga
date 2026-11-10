@@ -663,7 +663,7 @@ formerly  as  the rāsa and other  pastimes  made  in Vṛndāvana
 alaukika līlā gaura kaila kṣaṇe kṣaṇe  
 beyond this world  pastimes  Gaura  made  moment  by moment
 
-(66) Just as He once enjoyed the *rāsa* and other pastimes in Vṛndāvana, so now, moment after moment, Gaura revealed pastimes beyond this world.
+(66) Just as He once enjoyed the rāsa and other pastimes in Vṛndāvana, so now, moment after moment, Gaura revealed pastimes beyond this world.
 
 ভক্তগণ অনুভবে, নাহি জানে আন ৷  
 শ্রীভাগবত-শাস্ত্র তাহাতে প্রমাণ ॥ ৬৭ ॥
@@ -858,7 +858,7 @@ with its seas and mountains  the earth  makes  trembling
 নানা-ভাবে বিবশতা, গর্ব্ব, হর্ষ, দৈন্য ॥ ৮৪ ॥
 
 stambha, sveda, pulaka, aśru, kampa, vaivarṇya  
-stupor  perspiration  hair standing on end  tears  trembling  change of color  
+stupor  perspiration  hair standing on end  tears  trembling  change of colour  
 nānā-bhāve vivaśatā, garva, harṣa, dainya  
 from various feelings  helplessness  pride  joy  humility
 
@@ -1032,7 +1032,7 @@ in the high-leaping  dance  of the Lord  wonderful  transformations
 aṣṭa sāttvika bhāva-udaya haya sama-kāla  
 eight  sāttvika  the rising of bhāvas  happens  at the same time
 
-(101) In the Lord’s wild, leaping dance wonderful transformations appeared: all eight *sāttvika* ecstasies arose in Him at once.
+(101) In the Lord’s wild, leaping dance wonderful transformations appeared: all eight sāttvika ecstasies arose in Him at once.
 
 মাংস-ব্রণ সম রোমবৃন্দ পুলকিত ৷  
 শিমুলীর বৃক্ষ যেন কণ্টক-বেষ্টিত ॥ ১০২ ॥
@@ -1503,7 +1503,7 @@ of that  Vraja  the people  mother  father  friends
 baḍa citra, kemane pāsarilā  
 very  strange  how  You forgot
 
-(143) Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the *rāsa* dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? This amazes Me most of all!
+(143) Vṛndāvana, Govardhana, the bank of the Yamunā and the forest; the rāsa dance and the other pastimes in those groves; the people of Vraja — Your mother, father and friends: how could You forget them? This amazes Me most of all!
 
 বিদগ্ধ, মৃদু, সদ্গুণ, সুশীল, স্নিগ্ধ, করুণ,  
 তুমি, তোমার নাহি দোষাভাস ৷  
@@ -1887,7 +1887,7 @@ the rising of a feeling  the calming of a feeling  the meeting  the mingling
 sañcārī, sāttvika, sthāyī svabhāva-prābalya  
 the transitory  the sāttvika  the abiding  natural  predominance
 
-(172) Feelings arose and subsided, met and mingled; the transitory feelings, the *sāttvika* ecstasies and the abiding mood showed all their natural strength.[^54]
+(172) Feelings arose and subsided, met and mingled; the transitory feelings, the sāttvika ecstasies and the abiding mood showed all their natural strength.[^54]
 
 প্রভুর শরীর যেন শুদ্ধ-হেমাচল ৷  
 ভাব-পুষ্পদ্রুম তাহে পুষ্পিত সকল ॥ ১৭৩ ॥
@@ -2313,7 +2313,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^23]: *Anubhāṣya*: the group from Khaṇḍa went behind the chariot.
 
-[^24]: *Amṛta-pravāha-bhāṣya*: just as in the *rāsa* dance and at His wedding with the queens Śrī Kṛṣṇa manifested Himself at once in many forms (*prakāśa*), so Śrī Kṛṣṇa Caitanya, showing the same power, manifested Himself in every group.
+[^24]: *Amṛta-pravāha-bhāṣya*: just as in the rāsa dance and at His wedding with the queens Śrī Kṛṣṇa manifested Himself at once in many forms (*prakāśa*), so Śrī Kṛṣṇa Caitanya, showing the same power, manifested Himself in every group.
 
 [^25]: Heading in the edition: “Seeing this, the king is amazed.”
 
@@ -2321,11 +2321,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^27]: *Anubhāṣya*: Jagannātha, amazed at Mahāprabhu’s dancing and singing, stopped His chariot, and Mahāprabhu delighted Jagannātha by dancing before Him. Though the seer and the seen are here one and the same Reality, this wondrous secret was revealed in the variety of the pastimes, and by Mahāprabhu’s mercy the king understood it, and understood too that the Lord’s presence in all seven groups at once was part of the same secret.
 
-[^28]: *Anubhāṣya*: playing the role of an *ācārya*, the Lord openly showed aversion even to the word “king”, yet in secret He was so merciful to Pratāparudra that the king entered into the mystery of His intimate pastimes. The meaning of this play, in which the Lord acts both as Īśvara and as if He were a *jīva*, no one but His one-pointed devotees can understand.
+[^28]: *Anubhāṣya*: playing the role of an ācārya, the Lord openly showed aversion even to the word “king”, yet in secret He was so merciful to Pratāparudra that the king entered into the mystery of His intimate pastimes. The meaning of this play, in which the Lord acts both as Īśvara and as if He were a jīva, no one but His one-pointed devotees can understand.
 
 [^29]: *Anubhāṣya*: the Lord was so absorbed in the bliss of dancing and singing that He seemed to have forgotten Himself completely; but as soon as He wished, His potency of will (*icchā-śakti*), a form of the *svarūpa-śakti*, manifested His *prakāśa* forms and so served her Lord.
 
-[^30]: *Anubhāṣya*: the *Bhāgavatam* testifies that at the *rāsa* dance and at the wedding with the queens Kṛṣṇa appeared in many forms at once; so too Gaurasundara appeared in many forms before the seven kīrtana groups and before Pratāparudra. Only devotees are allowed to see His transcendental pastimes.
+[^30]: *Anubhāṣya*: the *Bhāgavatam* testifies that at the rāsa dance and at the wedding with the queens Kṛṣṇa appeared in many forms at once; so too Gaurasundara appeared in many forms before the seven kīrtana groups and before Pratāparudra. Only devotees are allowed to see His transcendental pastimes.
 
 [^31]: Heading in the edition: “By His dance the Lord delivers the people.”
 
@@ -2333,7 +2333,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^33]: Heading in the edition: “Glory to the transcendental, ever-new Kāmadeva.” *Anubhāṣya*: *kāma-deva* here is transcendental loving desire, which He kindles with His beautiful smile; *deva* means “transcendental”: this *kāma* is His own self-luminous nature. The women of Vrajapura are the women of Vraja and of the cities (Mathurā and Dvārakā), full of *anurāga*.
 
-[^34]: Heading in the edition: the verse was spoken by Śrī Kṛṣṇa Caitanya and is quoted in the *Padyāvalī* (74). *Anubhāṣya*: “I” here is the soul, the *jīva*, by its own nature; it identifies itself neither with a *varṇa* nor with an *āśrama*, but is established in service to the servants of the Vaiṣṇavas.
+[^34]: Heading in the edition: the verse was spoken by Śrī Kṛṣṇa Caitanya and is quoted in the *Padyāvalī* (74). *Anubhāṣya*: “I” here is the soul, the jīva, by its own nature; it identifies itself neither with a *varṇa* nor with an *āśrama*, but is established in service to the servants of the Vaiṣṇavas.
 
 [^35]: *Anubhāṣya*: a burning coal whirled very fast looks like a solid ring of fire, though there is no ring; so Mahāprabhu, dancing wildly, was one, yet He was seen everywhere.
 

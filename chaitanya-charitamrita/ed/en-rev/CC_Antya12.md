@@ -721,7 +721,7 @@ many  difficult  roads  crossing  they come  running
 āmi ei nīlācale rahi ye vasiyā  
 I  this  in Nīlācala  stay  indeed  sitting  
 pariśrama nāhi mora sabāra lāgiyā  
-labor  there is not  My  of all  for the sake of
+labour  there is not  My  of all  for the sake of
 
 (72) And I simply stay here, sitting in Nīlācala; I take no trouble for any of you.[^17]
 
@@ -1605,7 +1605,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^24]: The Gauḍīya Maṭha edition (p. 998) reads *gauḍe*; another reading is *gauḍete*. The sense is the same: “in Gauḍa.”
 
-[^25]: Heading in the edition: the Lord, guru of the world and teacher of mankind in the role of an *ācārya*, shows exemplary conduct. The *Anubhāṣya* quotes the *smṛti*: at the morning bath, during a vow, at a *śrāddha*, on Dvādaśī and during an eclipse, anointing with oil is like anointing with wine (some take “vow” to mean the vow of a renunciant); while for a householder, according to the *smārta* Raghunandana, anointing with ghee, mustard oil, flower-scented oil or boiled oil is not a fault.
+[^25]: Heading in the edition: the Lord, guru of the world and teacher of mankind in the role of an ācārya, shows exemplary conduct. The *Anubhāṣya* quotes the *smṛti*: at the morning bath, during a vow, at a *śrāddha*, on Dvādaśī and during an eclipse, anointing with oil is like anointing with wine (some take “vow” to mean the vow of a renunciant); while for a householder, according to the *smārta* Raghunandana, anointing with ghee, mustard oil, flower-scented oil or boiled oil is not a fault.
 
 [^26]: Heading in the edition: Govinda conveys the Lord’s words to Jagadānanda; Jagadānanda’s anger is the wounded pride of love (*praṇayābhimāna*).
 
@@ -1615,7 +1615,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^29]: *Amṛta-pravāha-bhāṣya*: a *dārī-sannyāsī* is a sannyāsī who lives with a wife. *Anubhāṣya*: one who enjoys women — a fallen Tantric ascetic, hypocritical in conduct.
 
-[^30]: Heading in the edition: although the Lord Himself is the enjoyer of all things, when Jagadānanda comes He, as the *ācārya* and teacher of mankind, shows the practitioner the example of renouncing sensual pleasure.
+[^30]: Heading in the edition: although the Lord Himself is the enjoyer of all things, when Jagadānanda comes He, as the ācārya and teacher of mankind, shows the practitioner the example of renouncing sensual pleasure.
 
 [^31]: Heading in the edition: the Paṇḍita, who loves the Lord, is angry with Him — this is the wounded pride of love.
 

@@ -572,7 +572,7 @@ then  the Lord  made  of Jagannātha  darśana
 ghare āsi’ karilā madhyāhna-bhojana  
 home  coming  made  the midday  meal
 
-(54) Then the Lord had *darśana* of Jagannātha, and on returning home He took His midday meal.
+(54) Then the Lord had darśana of Jagannātha, and on returning home He took His midday meal.
 
 বহির্দ্বারে আছে কালিদাস প্রত্যাশা করিয়া ৷  
 গোবিন্দেরে ঠারে প্রভু কহেন জানিয়া ॥ ৫৫ ॥

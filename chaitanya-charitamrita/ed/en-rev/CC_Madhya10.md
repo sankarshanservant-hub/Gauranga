@@ -1941,7 +1941,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^6]: *Anubhāṣya*: Kāśī Miśra’s house is the present Śrī Rādhākānta Maṭha in the Bālisāhi quarter, a little south of the temple; in those days the place was secluded.
 
-[^7]: *Anubhāṣya*: Mahāprabhu, Nityānanda and Advaita are called “Prabhupāda” because They are *viṣṇu-tattva*, the eternal Lord of the *jīva*; the Gurudeva is called “Oṁ Viṣṇupāda”, and a pure Vaiṣṇava “Śrīpāda”.
+[^7]: *Anubhāṣya*: Mahāprabhu, Nityānanda and Advaita are called “Prabhupāda” because They are *viṣṇu-tattva*, the eternal Lord of the jīva; the Gurudeva is called “Oṁ Viṣṇupāda”, and a pure Vaiṣṇava “Śrīpāda”.
 
 [^8]: Heading in the edition: “The longing to serve is the thread that binds the devotee and Bhagavān.”
 

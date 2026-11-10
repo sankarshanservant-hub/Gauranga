@@ -52,21 +52,21 @@ in whose  conduct  the Lord  finds  joy
 বিচ্ছেদ-দুঃখিতা জানি’ জননী আশ্বাসিতে ॥ ৫ ॥
 
 prati-vatsara prabhu tām̐re pāṭhāna nadīyāte  
-every  year  the Lord  him  sends  to Nadia  
+every  year  the Lord  him  sends  to Nadīyā  
 viccheda-duḥkhitā jāni’ jananī āśvāsite  
 by separation  grieved  knowing  His mother  to console
 
-(5) Every year the Lord sent him to Nadia to console His mother, for He knew how she grieved in separation from Him.
+(5) Every year the Lord sent him to Nadīyā to console His mother, for He knew how she grieved in separation from Him.
 
 নদীয়া চলহ, মাতারে কহিহ নমস্কার ৷  
 আমার নামে পাদপদ্ম ধরিহ তাঁহার ॥ ৬ ॥
 
 nadīyā calaha, mātāre kahiha namaskāra  
-to Nadia  go  to Mother  tell  My obeisances  
+to Nadīyā  go  to Mother  tell  My obeisances  
 āmāra nāme pāda-padma dhariha tām̐hāra  
 in My  name  the lotus feet  touch  her
 
-(6) “Go to Nadia and convey My obeisances to Mother. Touch her lotus feet on My behalf.
+(6) “Go to Nadīyā and convey My obeisances to Mother. Touch her lotus feet on My behalf.
 
 কহিহ তাঁহারে — ‘তুমি করহ স্মরণ ৷  
 নিত্য আসি’ তোমার বন্দিয়ে চরণ ॥ ৭ ॥
@@ -96,7 +96,7 @@ your  service  giving up  I  took  sannyāsa
 ‘bāula’ hañā āmi kailum̐ dharma-nāśa  
 a madman  becoming  I  made  of duty  ruin
 
-(9) I gave up serving you and took *sannyāsa*. I became a madman and abandoned My duty.
+(9) I gave up serving you and took sannyāsa. I became a madman and abandoned My duty.
 
 এই অপরাধ তুমি না লইহ আমার ৷  
 তোমার অধীন আমি — পুত্র সে তোমার ॥ ১০ ॥
@@ -146,17 +146,17 @@ of those devoted to their mothers  the Lord  is  the crown jewel
 sannyāsa kariyā sadā sevena jananī  
 sannyāsa  having taken  always  serves  His mother
 
-(14) The Lord is the crown jewel of all who are devoted to their mothers. Even after taking *sannyāsa*, He always served His mother.[^4]
+(14) The Lord is the crown jewel of all who are devoted to their mothers. Even after taking sannyāsa, He always served His mother.[^4]
 
 জগদানন্দ নদীয়া গিয়া মাতারে মিলিলা ৷  
 প্রভুর যত নিবেদন, সকল কহিলা ॥ ১৫ ॥
 
 jagadānanda nadīyā giyā mātāre mililā  
-Jagadānanda  to Nadia  going  with Mother  met  
+Jagadānanda  to Nadīyā  going  with Mother  met  
 prabhura yata nivedana, sakala kahilā  
 the Lord’s  as many  messages  all  told
 
-(15) Arriving in Nadia, Jagadānanda met Mother Śacī and gave her all the Lord’s messages.
+(15) Arriving in Nadīyā, Jagadānanda met Mother Śacī and gave her all the Lord’s messages.
 
 আচার্য্যাদি ভক্তগণে মিলিলা প্রসাদ দিয়া ৷  
 মাতা-ঠাঞি আজ্ঞা লইলা মাসেক রহিয়া ॥ ১৬ ॥
@@ -186,7 +186,7 @@ a tarjā  riddle  the Ācārya  speaks  in hints
 prabhu-mātra bujhena, keha bujhite nā pāre  
 the Lord  only  understands  anyone  understand  not  can
 
-(18) The Ācārya spoke in riddles and veiled hints (*tarjā-prahelī*), which only the Lord could understand; no one else could.[^5]
+(18) The Ācārya spoke in riddles and veiled hints (*tarjā-prahelī*), which only the Lord could understand — no one else.[^5]
 
 প্রভুরে কহিহ আমার কোটি নমস্কার ৷  
 এই নিবেদন তাঁর চরণে আমার ॥ ১৯ ॥
@@ -362,7 +362,7 @@ where  in the rāsa  with rapture  dancing  where  O friend  of life  the saving
 nidhir mama suhṛt-tamaḥ kva bata hanta hā dhig vidhim  
 treasure  My  dearest friend  where  alas  alas  ah  fie on  the Creator
 
-(35) “O friend, where is the moon of Nanda’s line? Where is He who is adorned with a peacock feather? Where is He whose flute sounds so deep, whose lustre is like the sapphire’s? Where is He who dances, enraptured by the taste of the *rāsa*? Where is He — the medicine that saves My life, My treasure, My dearest friend? Alas, alas! Fie on the Creator!” (Lalita-mādhava, 3.25)[^11]
+(35) “O friend, where is the moon of Nanda’s line? Where is He who is adorned with a peacock feather? Where is He whose flute sounds so deep, whose lustre is like the sapphire’s? Where is He who dances, enraptured by the taste of the rāsa? Where is He — the medicine that saves My life, My treasure, My dearest friend? Alas, alas! Fie on the Creator!” (Lalita-mādhava, 3.25)[^11]
 
 ব্রজেন্দ্রকুল — দুগ্ধসিন্ধু, কৃষ্ণ — তাহে পূর্ণ ইন্দু,  
 জন্মি’ কৈলা জগৎ উজোর ৷  
@@ -477,7 +477,7 @@ with it  of the moon  the light  mixing
 jāni’ vidhi niramilā tāya  
 knowing  the Creator  fashioned  Him
 
-(41) His lustre, like a sapphire’s, outshines the dark *tamāla* tree, and with it He maddens the world. With all his skill the Creator fashioned Him: he strained out the very essence of the *rasa* of love and mixed it with moonlight.[^16]
+(41) His lustre, like a sapphire’s, outshines the dark *tamāla* tree, and with it He maddens the world. With all his skill the Creator fashioned Him: he strained out the very essence of the rasa of love and mixed it with moonlight.[^16]
 
 কাঁহা সে মুরলীধ্বনি, নবাম্বুদ-গর্জ্জিত জিনি’,  
 জগৎ আকর্ষে শ্রবণে যাহার ৷  
@@ -708,7 +708,7 @@ their  words  lamenting
 ‘govinda dāmodara mādhaveti’  
 Govinda  Dāmodara  Mādhava (thus)
 
-(53) In this way Gaura Rāya cried in grief, “Alas! Alas! O Kṛṣṇa, where have You gone?” With the feelings of the *gopīs* in His heart, He lamented in their words: “O Govinda! O Dāmodara! O Mādhava!”
+(53) In this way Gaura Rāya cried in grief, “Alas! Alas! O Kṛṣṇa, where have You gone?” With the feelings of the gopīs in His heart, He lamented in their words: “O Govinda! O Dāmodara! O Mādhava!”
 
 তবে স্বরূপ-রামরায়, করি’ নানা উপায়,  
 মহাপ্রভুর করে আশ্বাসন ৷  
@@ -838,7 +838,7 @@ in the state of madness  the Lord’s  steady  is not  mind
 yei kare, yei bole, — unmāda-lakṣaṇa  
 whatever  He does  whatever  He says  of madness  a symptom
 
-(65) In the state of divine madness the Lord’s mind was never steady. Whatever He did and whatever He said was a symptom of that madness.
+(65) In His divine madness the Lord’s mind was never steady. Whatever He did and whatever He said was a symptom of that madness.
 
 স্বরূপ-গোসাঞি তবে চিন্তা পাইলা মনে ৷  
 ভক্তগণ লঞা বিচার কৈলা আর দিনে ॥ ৬৬ ॥
@@ -1355,7 +1355,7 @@ by knowers of the scriptures  even  his
 mudrā suṣṭhu su-durgamā  
 ways  quite  very hard to understand
 
-(105) “The ways of the fortunate soul in whose heart this new *prema* has blossomed are very hard to understand, even for those who know the scriptures.” (Bhakti-rasāmṛta-sindhu, 1.4.17)[^45]
+(105) “The ways of the fortunate soul in whose heart this new prema has blossomed are very hard to understand, even for those who know the scriptures.” (Bhakti-rasāmṛta-sindhu, 1.4.17)[^45]
 
 অলৌকিক প্রভুর ‘চেষ্টা’, ‘প্রলাপ’ শুনিয়া ৷  
 তর্ক না করিহ, শুন বিশ্বাস করিয়া ॥ ১০৬ ॥
@@ -1513,7 +1513,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^42]: Heading in the edition: the Lord’s madness.
 
-[^43]: Heading in the edition: the Lord’s devotion to His mother is described, and His *udghūrṇā* and *citra-jalpa* in separation from Kṛṣṇa. *Amṛta-pravāha-bhāṣya*: from this line many conclude that Kṛṣṇadāsa Kavirāja Gosvāmī was a disciple of Śrī Rūpa who received mantra from him, but other passages of the book make such a conclusion doubtful. Here Kavirāja unfolds *rasa* according to the teaching of Śrī Rūpa’s *Bhakti-rasāmṛta-sindhu*, and so he may have named Śrī Rūpa alone; or the sense may be that the author, Kṛṣṇadāsa, the servant of the Gosvāmīs, composed this line.
+[^43]: Heading in the edition: the Lord’s devotion to His mother is described, and His *udghūrṇā* and *citra-jalpa* in separation from Kṛṣṇa. *Amṛta-pravāha-bhāṣya*: from this line many conclude that Kṛṣṇadāsa Kavirāja Gosvāmī was a disciple of Śrī Rūpa who received mantra from him, but other passages of the book make such a conclusion doubtful. Here Kavirāja unfolds rasa according to the teaching of Śrī Rūpa’s *Bhakti-rasāmṛta-sindhu*, and so he may have named Śrī Rūpa alone; or the sense may be that the author, Kṛṣṇadāsa, the servant of the Gosvāmīs, composed this line.
 
 [^44]: Heading in the edition: the transcendental Kṛṣṇa, beyond the senses (*adhokṣaja*), and the pastimes connected with Kṛṣṇa (*kārṣṇa-līlā*) are beyond the reach of those who follow the path of reasoning, think themselves learned and are intoxicated with mundane learning.
 
@@ -1521,7 +1521,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^46]: *Anubhāṣya*: see Śrīmad-Bhāgavatam, 10.47.12–21. Heading in the edition: the ravings of Śrī Rādhā in the *Bhramara-gītā* and the ten kinds of *citra-jalpa* in the songs of the queens.
 
-[^47]: *Anubhāṣya*: see Śrīmad-Bhāgavatam, 10.90.15–24. Heading in the edition: even the greatest scholars, intoxicated with mundane learning and with knowledge gained through the senses, cannot grasp the transcendental *rasa* of separation (*vipralambha*).
+[^47]: *Anubhāṣya*: see Śrīmad-Bhāgavatam, 10.90.15–24. Heading in the edition: even the greatest scholars, intoxicated with mundane learning and with knowledge gained through the senses, cannot grasp the transcendental rasa of separation (*vipralambha*).
 
 [^48]: Heading in the edition: faith in the Lord’s transcendental pastimes of separation awakens only by the power of the mercy of the servants of the guru (Nityānanda) and of Gaurāṅga.
 

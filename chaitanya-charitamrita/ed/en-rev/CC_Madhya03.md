@@ -38,7 +38,7 @@ of the twenty-fourth  year  at the end  which  the month of Māgha
 tāra śukla-pakṣe prabhu karilā sannyāsa  
 in its  bright fortnight  the Lord  took  sannyāsa
 
-(3) At the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, the Lord accepted *sannyāsa*.[^3]
+(3) At the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, the Lord accepted sannyāsa.[^3]
 
 সন্ন্যাস করি’ প্রেমাবেশে চলিলা বৃন্দাবন ৷  
 রাঢ়-দেশে তিন দিন করিলা ভ্রমণ ॥ ৪ ॥
@@ -182,7 +182,7 @@ instructed  all of them  having made  a plan
 vṛndāvana patha prabhu puchena tomāre  
 of Vṛndāvana  the way  the Lord  asks  you  
 gaṅgā-tīra-patha tabe dekhāiha tām̐re  
-along the bank of the Ganges  the path  then  show  Him
+along the bank of the Gaṅgā  the path  then  show  Him
 
 (17) “When the Lord asks you the way to Vṛndāvana, show Him the path along the bank of the Gaṅgā.”
 
@@ -200,7 +200,7 @@ tell  please  by which  path  shall I go  to Vṛndāvana
 সেই পথে আবেশে প্রভু গমন করিল ॥ ১৯ ॥
 
 śiśu saba gaṅgātīrapatha dekhāila  
-the children  all  the path along the Ganges’ bank  showed  
+the children  all  the path along the Gaṅgā’ bank  showed  
 sei pathe āveśe prabhu gamana karila  
 that  by path  in absorption  the Lord  going  made
 
@@ -270,9 +270,9 @@ He  says  take  this  of the Yamunā  sight
 আবেশে প্রভুর হৈল গঙ্গারে যমুনা-জ্ঞানে ॥ ২৬ ॥
 
 eta bali’ ānila tām̐re gaṅgā-sannidhāne  
-thus  saying  brought  Him  to the Ganges’  vicinity  
+thus  saying  brought  Him  to the Gaṅgā’  vicinity  
 āveśe prabhura haila gaṅgāre yamunā-jñāne  
-in ecstasy  the Lord’s  arose  the Ganges  as the Yamunā perceiving
+in ecstasy  the Lord’s  arose  the Gaṅgā  as the Yamunā perceiving
 
 (26) With these words He brought Mahāprabhu to the Gaṅgā, and in His rapture the Lord saw the Gaṅgā as the Yamunā.[^11]
 
@@ -306,7 +306,7 @@ may she purify  our  bodies  of the sun  the daughter
 এক কৌপীন, নাহি দ্বিতীয় পরিধান ॥ ২৯ ॥
 
 eta bali’ namaskari’ kaila gaṅgā-snāna  
-thus  saying  bowing down  did  bath in the Ganges  
+thus  saying  bowing down  did  bath in the Gaṅgā  
 eka kaupīna, nāhi dvitīya paridhāna  
 one  kaupīna  not  second  garment
 
@@ -348,7 +348,7 @@ I  in Vṛndāvana  You  how  knew
 ācārya kahe, — tumi yām̐hā, sei vṛndāvana  
 the Ācārya  says  You  wherever  that  is Vṛndāvana  
 mora bhāgye gaṅgā-tīre tomāra āgamana  
-by My  fortune  to the Ganges’ bank  Your  coming
+by My  fortune  to the Gaṅgā’ bank  Your  coming
 
 (33) The Ācārya said, “Wherever You are, that is Vṛndāvana. It is My good fortune that You have come to the bank of the Gaṅgā.”
 
@@ -358,7 +358,7 @@ by My  fortune  to the Ganges’ bank  Your  coming
 prabhu kahe, — nityānanda āmāre vañcilā  
 the Lord  says  Nityānanda  Me  has deceived  
 gaṅgāke āniyā more yamunā kahilā  
-to the Ganges  bringing  to Me  the Yamunā  called it
+to the Gaṅgā  bringing  to Me  the Yamunā  called it
 
 (34) The Lord said, “Nityānanda has deceived Me! He brought Me to the Gaṅgā and told Me it was the Yamunā.”[^14]
 
@@ -376,9 +376,9 @@ in the Yamunā  bath  You  took  just now
 পশ্চিমে যমুনা বহে, পূর্ব্বে গঙ্গাধার ॥ ৩৬ ॥
 
 gaṅgāya yamunā vahe hañā eka-dhāra  
-in the Ganges  the Yamunā  flows  becoming  one stream  
+in the Gaṅgā  the Yamunā  flows  becoming  one stream  
 paścime yamunā vahe, pūrve gaṅgā-dhāra  
-on the west  the Yamunā  flows  on the east  the Ganges’ stream
+on the west  the Yamunā  flows  on the east  the Gaṅgā’ stream
 
 (36) Here the Yamunā flows in the Gaṅgā, and the two run as one stream: on the west flows the Yamunā, on the east the Gaṅgā.
 
@@ -2320,7 +2320,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^53]: The edition reads *āilā*; another reading is *āila*; the sense is the same.
 
-[^54]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): “every bhāva” means the eight *sāttvika* transformations — stupor, sweat, hair standing on end, a breaking voice, trembling, pallor, tears and *pralaya*; *pralaya* is the cessation of action and awareness through joy or through sorrow, and its sign is falling to the ground.
+[^54]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu*): “every bhāva” means the eight sāttvika transformations — stupor, sweat, hair standing on end, a breaking voice, trembling, pallor, tears and *pralaya*; *pralaya* is the cessation of action and awareness through joy or through sorrow, and its sign is falling to the ground.
 
 [^55]: *Anubhāṣya*: “since my childhood” — from her very infancy. Śacīmātā is eternally perfect, *vātsalya* embodied, by nature Yaśodā herself; devoted to Kṛṣṇa’s service from birth, she was never an ordinary jīva, and here this is told from her own lips.
 

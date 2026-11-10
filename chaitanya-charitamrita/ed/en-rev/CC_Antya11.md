@@ -396,7 +396,7 @@ the feet  clasping  says  Haridāsa  not  do  māyā (guile)
 avaśya mo-adhame, prabhu, kara ei ‘dayā’  
 surely  to me, the fallen  O Lord  show  this  mercy
 
-(39) Clasping His feet, Haridāsa said, “Lord, do not try Your *māyā* on me! Do show this mercy (*dayā*) to one so fallen.[^10]
+(39) Clasping His feet, Haridāsa said, “Lord, do not try Your māyā on me! Do show this mercy (*dayā*) to one so fallen.[^10]
 
 মোর শিরোমণি কত কত মহাশয় ৷  
 তোমার লীলার সহায় কোটিভক্ত হয় ॥ ৪০ ॥

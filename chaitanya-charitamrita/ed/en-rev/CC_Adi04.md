@@ -288,7 +288,7 @@ those  those  pastimes  I shall perform  in which  My  wonder
 যোগমায়া করিবেক আপনপ্রভাবে ॥ ২৯ ॥
 
 mo-viṣaye gopī-gaṇera upapati-bhāve  
-toward Me  of the gopīs  in the mood of a paramour (*upapati*)  
+towards Me  of the gopīs  in the mood of a paramour (*upapati*)  
 yoga-māyā karibeka āpana-prabhāve  
 Yogamāyā  will make  by her own  power
 
@@ -852,7 +852,7 @@ of them  among  in Vraja  various  of moods  of rasas  by the differences
 kṛṣṇake karāya rāsādika-līlāsvāde  
 Kṛṣṇa  make  the rāsa and other  pastimes  taste
 
-(81) Among them the girls of Vraja, differing in moods and rasas, make Kṛṣṇa taste the *rāsa* dance and His other pastimes.[^56]
+(81) Among them the girls of Vraja, differing in moods and rasas, make Kṛṣṇa taste the rāsa dance and His other pastimes.[^56]
 
 গোবিন্দানন্দিনী, রাধা, গোবিন্দমোহিনী ৷  
 গোবিন্দসর্ব্বস্ব, সর্ব্বকান্তা-শিরোমণি ॥ ৮২ ॥
@@ -1067,7 +1067,7 @@ descending  the Lord  preached  saṅkīrtana
 eho bāhya hetu, pūrve kariyāchi sūcana  
 this  external  reason  before  I have made  indication
 
-(102) The Lord descended and preached *saṅkīrtana*; but that, as I have indicated before, is an external reason.[^74]
+(102) The Lord descended and preached saṅkīrtana; but that, as I have indicated before, is an external reason.[^74]
 
 অবতারের আর এক আছে মুখ্যবীজ ৷  
 রসিকশেখর কৃষ্ণের সেই কার্য্য নিজ ॥ ১০৩ ॥
@@ -1187,7 +1187,7 @@ Rādhikā and others  taking  made  the rāsa and other  pastimes
 vāñchā bhari’ āsvādila rasera niryāsa  
 the desire  filling  tasted  of rasa  the essence
 
-(114) And with Rādhikā and the other gopīs He performed the *rāsa* dance and other pastimes, and tasted the very essence of rasa to His heart’s content.[^84]
+(114) And with Rādhikā and the other gopīs He performed the rāsa dance and other pastimes, and tasted the very essence of rasa to His heart’s content.[^84]
 
 কৈশোর-বয়সে কাম, জগৎসকল ৷  
 রাসাদি-লীলায় তিন করিল সফল ॥ ১১৫ ॥
@@ -1197,7 +1197,7 @@ in the age of youth  Kāma  the world  whole
 rāsādi-līlāya tina karila saphala  
 by the rāsa and other  pastimes  the three  made  fruitful
 
-(115) By the *rāsa* dance and other pastimes He made three things fruitful: His youth, Kāma (the god of love), and the whole world.[^85]
+(115) By the rāsa dance and other pastimes He made three things fruitful: His youth, Kāma (the god of love), and the whole world.[^85]
 
 সোঽপি কৈশোরক-বয়ো মানয়ন্মধুসূদনঃ ৷  
 রেমে স্ত্রীরত্নকূটস্থঃ ক্ষপাসু ক্ষপিতাহিতঃ ॥ ১১৬ ॥
@@ -1392,7 +1392,7 @@ of that  love  Rādhikā  the supreme  ‘shelter’
 sei premāra āmi hai kevala ‘viṣaya’  
 of that  love  I  am  only  ‘object’
 
-(132) Rādhikā is the supreme *āśraya* of that love — the one in whom it dwells; and I am only its *viṣaya* — the One toward whom it flows.[^97]
+(132) Rādhikā is the supreme *āśraya* of that love — the one in whom it dwells; and I am only its *viṣaya* — the One towards whom it flows.[^97]
 
 বিষয়জাতীয় সুখ আমার আস্বাদ ৷  
 আমা হৈতে কোটিগুণ আশ্রয়ের আহ্লাদ ॥ ১৩৩ ॥
@@ -2140,7 +2140,7 @@ of love  of the object  in the happiness  of the shelter  the love
 nija-premānande kṛṣṇa-sevānanda bādhe  
 by own  love’s bliss  of Kṛṣṇa’s  service’s bliss  is hindered  
 se ānandera prati bhaktera haya mahā-krodhe  
-that  bliss  toward  of the devotee  is  great anger
+that  bliss  towards  of the devotee  is  great anger
 
 (201) If the bliss of one’s own love hinders the bliss of serving Kṛṣṇa, the devotee is filled with great anger at that bliss.[^141]
 
@@ -2196,7 +2196,7 @@ of the mind  the flow  unbroken
 yathā gaṅgāmbhaso ’mbudhau  
 as  of the Gaṅgā’s waters  into the ocean
 
-(205) “Merely by hearing of My qualities the mind flows unbroken toward Me, who dwell in all hearts, as the waters of the Gaṅgā flow into the ocean.” (Śrīmad-Bhāgavatam, 3.29.11)[^145]
+(205) “Merely by hearing of My qualities the mind flows unbroken towards Me, who dwell in all hearts, as the waters of the Gaṅgā flow into the ocean.” (Śrīmad-Bhāgavatam, 3.29.11)[^145]
 
 লক্ষণং ভক্তিযোগস্য নির্গুণস্য হ্যুদাহৃতম্ ৷  
 অহৈতুক্যব্যবহিতা যা ভক্তিঃ পুরুষোত্তমে ॥ ২০৬ ॥
@@ -2368,7 +2368,7 @@ Rādhā  placing  in the heart
 tatyāja vraja-sundarīḥ  
 left  of Vraja  the beauties
 
-(219) “Placing Rādhā in His heart — the chain that bound His desire for the very essence of the *rāsa* — Kṛṣṇa, the enemy of Kaṁsa, left the other beauties of Vraja.” (Gīta-govinda, 3.1)[^159]
+(219) “Placing Rādhā in His heart — the chain that bound His desire for the very essence of the rāsa — Kṛṣṇa, the enemy of Kaṁsa, left the other beauties of Vraja.” (Gīta-govinda, 3.1)[^159]
 
 সেই রাধাভাব লঞা চৈতন্যাবতার ৷  
 যুগধর্ম্ম নাম-প্রেম কৈল পরচার ॥ ২২০ ॥
@@ -2418,7 +2418,7 @@ incidentally  made  of all  rasas  the preaching
 viśveṣām anurañjanena janayann ānandam indīvara-  
 of all  by gladdening  producing  bliss  of blue lotuses  
 śreṇī-śyāmala-komalair upanayann aṅgair anaṅgotsavam  
-a row  dark  tender  bringing  with His limbs  a festival of Ananga  
+a row  dark  tender  bringing  with His limbs  a festival of Anaṅga  
 svacchandaṁ vraja-sundarībhir abhitaḥ praty-aṅgam āliṅgitaḥ  
 freely  by the Vraja beauties  all around  limb by limb  embraced  
 śṛṅgāraḥ sakhi mūrtimān iva madhau mugdho hariḥ krīḍati  
@@ -3001,7 +3001,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^12]: *Amṛta-pravāha-bhāṣya*: the pastimes not found in Vaikuṇṭha and the other worlds Kṛṣṇa will show in this descent, and in them He Himself will be astonished. *Anubhāṣya*: in Vaikuṇṭha and the other realms beyond māyā the Lord’s pastimes do not give Him Himself the ever-new joy of wonder; the excellence of the pastimes of Goloka, where He lives for His own joy, He wishes to show in the world to devotees in whom the sense of majesty prevails.
 
-[^13]: *Amṛta-pravāha-bhāṣya*: Yogamāyā is Kṛṣṇa’s own potency (*svarūpa-śakti*); by His will and by her inconceivable power she awakens in the hearts of His eternal beloveds, the gopīs, the mood of *upapati* toward Him. *Anubhāṣya*: the tendency to *parakīyā* service, in which the lover, drawn by a sweetness (*mādhurya*) that surpasses majesty, passes beyond all ordained reverence, comes from Yogamāyā; this working of the spiritual (*cinmayī*) māyā is unknown even to the Beloved Himself, and is possible only through Yogamāyā, the embodiment of His grace.
+[^13]: *Amṛta-pravāha-bhāṣya*: Yogamāyā is Kṛṣṇa’s own potency (*svarūpa-śakti*); by His will and by her inconceivable power she awakens in the hearts of His eternal beloveds, the gopīs, the mood of *upapati* towards Him. *Anubhāṣya*: the tendency to *parakīyā* service, in which the lover, drawn by a sweetness (*mādhurya*) that surpasses majesty, passes beyond all ordained reverence, comes from Yogamāyā; this working of the spiritual (*cinmayī*) māyā is unknown even to the Beloved Himself, and is possible only through Yogamāyā, the embodiment of His grace.
 
 [^14]: *Amṛta-pravāha-bhāṣya*: for the nourishment of rasa My inconceivable potency will cover My omniscience and give rise to a wondrous rasa, and the gopīs, though they are the Lord’s own potency, will not know it either.
 
@@ -3023,7 +3023,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^23]: *Anubhāṣya*: “in ascending order” — rising step by step; “by inclination” — by the difference of inclinations. *Amṛta-pravāha-bhāṣya*: *rati*, full of delight, reveals itself in ever new tastes and, according to inclination, shows in the best hearts the highest taste — *madhura-rasa*.
 
-[^24]: *Amṛta-pravāha-bhāṣya*: when *madhura-rasa* awakens toward Kṛṣṇa as one’s husband, it is *svakīyā*; when toward Him as a lover who is not one’s husband (*upapati*), it is *parakīyā*. The *Anubhāṣya*, after the *Ujjvala-nīlamaṇi*: *svakīyā* are the beloveds who became His wives by the law of scripture and are faithful to Him as husband (the queens of Dvārakā); *parakīyā* are those who out of rāga alone have given themselves to Kṛṣṇa, regarding neither this world nor the next, though dharma does not recognise them as His wives.
+[^24]: *Amṛta-pravāha-bhāṣya*: when *madhura-rasa* awakens towards Kṛṣṇa as one’s husband, it is *svakīyā*; when towards Him as a lover who is not one’s husband (*upapati*), it is *parakīyā*. The *Anubhāṣya*, after the *Ujjvala-nīlamaṇi*: *svakīyā* are the beloveds who became His wives by the law of scripture and are faithful to Him as husband (the queens of Dvārakā); *parakīyā* are those who out of rāga alone have given themselves to Kṛṣṇa, regarding neither this world nor the next, though dharma does not recognise them as His wives.
 
 [^25]: In the edition the verse is headed: “Of these, Kṛṣṇa’s pleasure is greatest in the *parakīyā* mood, and its only abode is Vraja.” *Amṛta-pravāha-bhāṣya*: the knowers of *madhura-rasa* have unanimously concluded that in the *parakīyā* mood the delight of rasa is greatest and that outside Vraja it does not exist. Some think that Kṛṣṇa, who sports eternally in Goloka, only for a short time appeared in Vraja in this mood; but that is not the view of the Gosvāmīs: the pastimes of Vraja too are eternal, and Vraja is the innermost chamber of eternal Goloka.
 
@@ -3055,23 +3055,23 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^39]: *Anubhāṣya* (after Śrī Jīva’s *Bhagavat-sandarbha*, 102): Sandhinī is the potency by which the Lord upholds His own being and that of all, and manifests time, place and all else; Samvit is that by which He knows and makes others know; Hlādinī is that by which He Himself tastes bliss and makes others taste it. The self-luminous working of this one supreme potency is called *viśuddha-sattva*: in it there is no touch of māyā, and from it the abode of Vaikuṇṭha is manifest.
 
-[^40]: In the edition, “the words of Dhruva”. *Amṛta-pravāha-bhāṣya*: in You, the shelter of all and beyond the guṇas, the three workings of the potency — Hlādinī, Sandhinī and Samvit — are wholly spiritual; only the *jīva*, a tiny spark subject to māyā, dwelling in the three guṇas, knows this potency as giving joy (*hlādakarī*), pain (*tāpakarī*) or both (*miśrā*); in You it is pure and one. *Anubhāṣya* (after Śrī Jīva’s *Prīti-sandarbha*, 65): the potency by which the Lord delights in His bliss is not the worldly bliss of *sattva*, as the Sāṅkhyas hold, for māyā has no power over the Lord; nor the bliss of His impersonal essence, as those who hold Him to be without attributes say; nor the bliss of the *jīva*, for the *jīva* is tiny. It is His own potency Hlādinī: through it He tastes a special bliss, and through it He gives that bliss to His devotees; and so the conclusion of the impersonalists must be rejected.
+[^40]: In the edition, “the words of Dhruva”. *Amṛta-pravāha-bhāṣya*: in You, the shelter of all and beyond the guṇas, the three workings of the potency — Hlādinī, Sandhinī and Samvit — are wholly spiritual; only the jīva, a tiny spark subject to māyā, dwelling in the three guṇas, knows this potency as giving joy (*hlādakarī*), pain (*tāpakarī*) or both (*miśrā*); in You it is pure and one. *Anubhāṣya* (after Śrī Jīva’s *Prīti-sandarbha*, 65): the potency by which the Lord delights in His bliss is not the worldly bliss of *sattva*, as the Sāṅkhyas hold, for māyā has no power over the Lord; nor the bliss of His impersonal essence, as those who hold Him to be without attributes say; nor the bliss of the jīva, for the jīva is tiny. It is His own potency Hlādinī: through it He tastes a special bliss, and through it He gives that bliss to His devotees; and so the conclusion of the impersonalists must be rejected.
 
 [^41]: In the edition the verse is headed: “The service of Sandhinī — to make Bhagavān manifest.” *Amṛta-pravāha-bhāṣya*: the essence of Sandhinī, the potency that extends being, is called *śuddha-sattva*. *Sattva* is of two kinds, mixed (*miśra*) and pure (*śuddha*); *sattva* is the name of being itself, and without the working of Sandhinī there is no being at all; the manifestation of Bhagavān’s being is also her work.
 
-[^42]: In the edition the verse is headed: “Though Kṛṣṇa is the Lord of Sandhinī, all that He enjoys is her transformation.” *Amṛta-pravāha-bhāṣya*: the Sandhinī of the spiritual world manifests the being of all that is spiritual — Bhagavān’s form, His servants and maidservants, His companions, His father and mother; Sandhinī in māyā extends the being of the material world, and in the *jīva* potency, the being of the *jīva*, a spiritual spark. *Anubhāṣya*: *śuddha-sattva* is not worldly *sattva* (goodness): the guṇas belong to the *jīvas*, not to the Lord.
+[^42]: In the edition the verse is headed: “Though Kṛṣṇa is the Lord of Sandhinī, all that He enjoys is her transformation.” *Amṛta-pravāha-bhāṣya*: the Sandhinī of the spiritual world manifests the being of all that is spiritual — Bhagavān’s form, His servants and maidservants, His companions, His father and mother; Sandhinī in māyā extends the being of the material world, and in the jīva potency, the being of the jīva, a spiritual spark. *Anubhāṣya*: *śuddha-sattva* is not worldly *sattva* (goodness): the guṇas belong to the jīvas, not to the Lord.
 
 [^43]: The words of Śiva to Satī when she was about to go to the sacrifice of her father Dakṣa, who was hostile to Viṣṇu (*Anubhāṣya*). *Amṛta-pravāha-bhāṣya*: the eternal truth in the form of *śuddha-sattva*, born of the working of Sandhinī in the Lord’s own potency, is called *vasudeva*; in that *śuddha-sattva* Bhagavān, conscious by nature, is eternally manifest, and His name is Vāsudeva; He is beyond all material senses, and to Him, with a heart purified by bhakti, Śiva offers obeisance.
 
-[^44]: In the edition the verse is headed: “Through Samvit are known His mastery of experience and His enjoyment of bliss, and, within non-dual knowledge, the knowledge of Bhagavān.” *Amṛta-pravāha-bhāṣya*: the working of Samvit is called knowledge. When the spiritual Samvit, joined with Hlādinī, shows mercy to the *jīva*, the knowledge that Kṛṣṇa is Bhagavān awakens in him — this is the essence of Samvit; the knowledge of Brahman and the knowledge of the world are its “retinue”, that is, only coverings at different stages.
+[^44]: In the edition the verse is headed: “Through Samvit are known His mastery of experience and His enjoyment of bliss, and, within non-dual knowledge, the knowledge of Bhagavān.” *Amṛta-pravāha-bhāṣya*: the working of Samvit is called knowledge. When the spiritual Samvit, joined with Hlādinī, shows mercy to the jīva, the knowledge that Kṛṣṇa is Bhagavān awakens in him — this is the essence of Samvit; the knowledge of Brahman and the knowledge of the world are its “retinue”, that is, only coverings at different stages.
 
-[^45]: *Amṛta-pravāha-bhāṣya*: the working of Hlādinī is called prema. Prema is pure or mixed: when Hlādinī in Kṛṣṇa, giving Him bliss, together with pure Samvit shows mercy to the *jīva*, love for Kṛṣṇa is born in the *jīva*; but when the transformation of Hlādinī in the *jīva* draws him, through māyā, toward the world, the *jīva*, intoxicated with worldly love, loses love for Kṛṣṇa and falls under the sway of joy and sorrow. The ideal of love for the *jīvas* is the gopīs of Vraja, and highest among them is Śrī Rādhā.
+[^45]: *Amṛta-pravāha-bhāṣya*: the working of Hlādinī is called prema. Prema is pure or mixed: when Hlādinī in Kṛṣṇa, giving Him bliss, together with pure Samvit shows mercy to the jīva, love for Kṛṣṇa is born in the jīva; but when the transformation of Hlādinī in the jīva draws him, through māyā, towards the world, the jīva, intoxicated with worldly love, loses love for Kṛṣṇa and falls under the sway of joy and sorrow. The ideal of love for the jīvas is the gopīs of Vraja, and highest among them is Śrī Rādhā.
 
 [^46]: In the edition verse 68 is headed “The divisions of Hlādinī”, and verse 69 “Śrī Rādhikā — the summit of love for Kṛṣṇa in person”.
 
 [^47]: *Anubhāṣya*: the two are Śrī Rādhā and Candrāvalī; “the embodiment of *mahābhāva*” — She in whom is the *mahābhāva* called *madana*, whose form unites the eight *bhāvas*; “in virtues” — in Her twenty-five qualities. The reference follows the edition.
 
-[^48]: In the edition the verse is headed: “Within and without, in every part of Her form, love for Kṛṣṇa is manifest.” *Amṛta-pravāha-bhāṣya*: Śrīmatī Rādhikā is wholly spiritual: unlike the conditioned *jīva* She has no material senses, body or subtle mind — Her mind, senses and body are spiritual and steeped in love for Kṛṣṇa. She is Kṛṣṇa’s own potency and therefore the only helper in His play: Kṛṣṇa, the possessor of potency, cannot play apart from His potency.
+[^48]: In the edition the verse is headed: “Within and without, in every part of Her form, love for Kṛṣṇa is manifest.” *Amṛta-pravāha-bhāṣya*: Śrīmatī Rādhikā is wholly spiritual: unlike the conditioned jīva She has no material senses, body or subtle mind — Her mind, senses and body are spiritual and steeped in love for Kṛṣṇa. She is Kṛṣṇa’s own potency and therefore the only helper in His play: Kṛṣṇa, the possessor of potency, cannot play apart from His potency.
 
 [^49]: In the edition the verse is headed: “Govinda in Goloka eternally sports in rasa with the gopīs.” *Anubhāṣya*: “the Soul of all” — the beloved of all the dwellers of Gokula; “imbued with rasa” — steeped at every moment in blissful spiritual rasa; “one with Him in nature” — known as His own essence; the *kalās* are forms of the Hlādinī potency, that is, the beauties of Vraja.
 
@@ -3101,7 +3101,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^62]: In the edition the verse is headed: “(3) The name ‘Rādhā’ — because She worships Kṛṣṇa by fulfilling His desires.”
 
-[^63]: In the edition the verse is headed: “A hint of Rādhā’s name in the *Bhāgavatam*.” The words of the gopīs searching for Kṛṣṇa on the night of the *rāsa* dance: *anayārādhitaḥ*, “worshipped by Her”, holds within it the name of Rādhā.
+[^63]: In the edition the verse is headed: “A hint of Rādhā’s name in the *Bhāgavatam*.” The words of the gopīs searching for Kṛṣṇa on the night of the rāsa dance: *anayārādhitaḥ*, “worshipped by Her”, holds within it the name of Rādhā.
 
 [^64]: In the edition the verse is headed: “(4) As the one who attracts Kṛṣṇa She is highest of all; She nourishes all devotees and all devotion and is their original source.”
 
@@ -3129,7 +3129,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^76]: *Amṛta-pravāha-bhāṣya*: the chief reason for Gaura’s descent is very hidden, and it is of three kinds; it is told later in the root verse “*Śrī-rādhāyāḥ praṇaya-mahimā…*” (4.230).
 
-[^77]: *Anubhāṣya*: Śrī Puruṣottama Bhaṭṭācārya lived in Navadvīpa. Even before Mahāprabhu’s *sannyāsa*, wishing to take *sannyāsa*, he went to Vārāṇasī and became a *brahmacārī* among the Daśanāmī *daṇḍīs*; then he was named Śrī Dāmodara-svarūpa. Without waiting for full *sannyāsa*, he lived for the rest of his life at Mahāprabhu’s lotus feet in Nīlācala, always beside Him, and by singing what He asked for gave Him the highest joy at every moment; by his grace the devotees came to know the hidden moods of the Lord’s heart. In the pastimes of Vraja he is Lalitā-devī, Rādhikā’s second self; according to Kavi Karṇapūra’s *Gaura-gaṇoddeśa-dīpikā*, Viśākhā-devī: “She who in Vraja taught Rādhā the arts, Viśākhā, is now Svarūpa Gosvāmī, who delights in those moods.”
+[^77]: *Anubhāṣya*: Śrī Puruṣottama Bhaṭṭācārya lived in Navadvīpa. Even before Mahāprabhu’s sannyāsa, wishing to take sannyāsa, he went to Vārāṇasī and became a *brahmacārī* among the Daśanāmī *daṇḍīs*; then he was named Śrī Dāmodara-svarūpa. Without waiting for full sannyāsa, he lived for the rest of his life at Mahāprabhu’s lotus feet in Nīlācala, always beside Him, and by singing what He asked for gave Him the highest joy at every moment; by his grace the devotees came to know the hidden moods of the Lord’s heart. In the pastimes of Vraja he is Lalitā-devī, Rādhikā’s second self; according to Kavi Karṇapūra’s *Gaura-gaṇoddeśa-dīpikā*, Viśākhā-devī: “She who in Vraja taught Rādhā the arts, Viśākhā, is now Svarūpa Gosvāmī, who delights in those moods.”
 
 [^78]: In the edition the verse is headed: “Gaurasundara, immersed in Rādhā’s *mahābhāva*.” *Anubhāṣya*: the heart of Śrī Gaurasundara is filled with a form woven of the moods of Śrī Rādhikā; people of gross mind, busy gratifying the senses, cannot understand what “the embodiment of a mood” means. Rādhikā’s mood is the highest and complete stage of *mādhurya*; it is *rūḍha* or *adhirūḍha*, and here the *adhirūḍha-mahābhāva* of Śrī Gaurasundara is meant.
 
@@ -3145,7 +3145,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^84]: In the edition verse 113 is headed “Different pastimes in the different ages of Kṛṣṇa”, and verse 114 “In the pastimes of youth — the fulfilment of the purpose of all”.
 
-[^85]: The *Amṛta-pravāha-bhāṣya* reads the verse otherwise: Kāma is Kṛṣṇa Himself, Manmatha in person, who by His own will, performing the *rāsa* dance and other pastimes in His youth, made the whole world and His three ages — childhood, boyhood and youth — fruitful. The translation follows the plain sense of the verse, which 4.116 (youth) and 4.118 (the world and Kāma) explain.
+[^85]: The *Amṛta-pravāha-bhāṣya* reads the verse otherwise: Kāma is Kṛṣṇa Himself, Manmatha in person, who by His own will, performing the rāsa dance and other pastimes in His youth, made the whole world and His three ages — childhood, boyhood and youth — fruitful. The translation follows the plain sense of the verse, which 4.116 (youth) and 4.118 (the world and Kāma) explain.
 
 [^86]: *Anubhāṣya*: *kṣapitāhita* — “He by whom all that is inauspicious is destroyed”; “honouring His youth” — making it fruitful; “jewels among women” — the gopīs; “at night” — on autumn nights. *Amṛta-pravāha-bhāṣya*: amid Rādhā, full of *mahābhāva*, and the gopīs, full of *bhāva*, Śrī Kṛṣṇa, the supreme Consciousness, is the central (*kūṭa-stha*) Truth.
 
@@ -3169,7 +3169,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^96]: *Anubhāṣya*: “all-pervading” — omnipresent; “free of pride” — free of service out of mere courtesy, for it is born of a honeyed affection (*madhu-sneha*) full of the sense “He is mine”; “crookedness” — contrariness (*vāmya*); “pure” — unmotivated. *Amṛta-pravāha-bhāṣya*: Rādhikā’s love, though it has reached its limit, ever grows; though weighty, it does not act with importance; though pure, it again and again takes a crooked path. Glory to such love of Rādhikā for Kṛṣṇa!
 
-[^97]: In the edition the verse is headed: “The *viṣaya* of that love is Kṛṣṇa, the *āśraya* Rādhikā.” *Amṛta-pravāha-bhāṣya*: the one who loves is the *āśraya* of love, the one who is loved its *viṣaya*. In the science of rasa there are four ingredients: *vibhāva*, *anubhāva*, *sāttvika* and *vyabhicārī*; *vibhāva* is *ālambana* and *uddīpana*; *ālambana* is *viṣaya* and *āśraya*. The *āśraya* of Rādhā’s love is Rādhikā, its only *viṣaya* Kṛṣṇa. The happiness Kṛṣṇa tastes is the happiness of the *viṣaya*; the bliss of the *āśraya* is ten million times greater, and only by becoming the *āśraya* of that love can He taste it — this longing is His first desire.
+[^97]: In the edition the verse is headed: “The *viṣaya* of that love is Kṛṣṇa, the *āśraya* Rādhikā.” *Amṛta-pravāha-bhāṣya*: the one who loves is the *āśraya* of love, the one who is loved its *viṣaya*. In the science of rasa there are four ingredients: *vibhāva*, *anubhāva*, sāttvika and *vyabhicārī*; *vibhāva* is *ālambana* and *uddīpana*; *ālambana* is *viṣaya* and *āśraya*. The *āśraya* of Rādhā’s love is Rādhikā, its only *viṣaya* Kṛṣṇa. The happiness Kṛṣṇa tastes is the happiness of the *viṣaya*; the bliss of the *āśraya* is ten million times greater, and only by becoming the *āśraya* of that love can He taste it — this longing is His first desire.
 
 [^98]: In the edition the verse is headed: “A comparison of the happiness of the *viṣaya* and of the *āśraya*.”
 
@@ -3193,9 +3193,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^108]: *Anubhāṣya*: Śukadeva describes the gopīs’ feelings for Kṛṣṇa after the meeting of the cowherds with the Vṛṣṇis at Kurukṣetra: gazing at Kṛṣṇa, they rebuked the Creator who made the eyelids that hinder sight; “the ever-united” — yogīs who have reached perfection; “that state” — dense supreme bliss. *Amṛta-pravāha-bhāṣya*: that state is unattainable even for yogīs who meditate on Brahman.
 
-[^109]: *Anubhāṣya*: the song of the gopīs’ lament when Kṛṣṇa vanished during the *rāsa* dance; “a moment” (*truṭi*) — even half an instant becomes for them a *yuga*; “the maker of eyelids” — the Creator who made blinking — is a fool.
+[^109]: *Anubhāṣya*: the song of the gopīs’ lament when Kṛṣṇa vanished during the rāsa dance; “a moment” (*truṭi*) — even half an instant becomes for them a *yuga*; “the maker of eyelids” — the Creator who made blinking — is a fool.
 
-[^110]: In the edition the verse is headed: “For a fortunate *jīva*, the purpose of the eyes is to see Kṛṣṇa’s form.”
+[^110]: In the edition the verse is headed: “For a fortunate jīva, the purpose of the eyes is to see Kṛṣṇa’s form.”
 
 [^111]: *Anubhāṣya*: the song of the gopīs about Kṛṣṇa at the coming of autumn; the two sons of the lord of Vraja are Rāma and Kṛṣṇa, who drive the cows from forest to forest playing the flute; “loving glances” — tender glances, drunk by those who serve Them with their eyes.
 
@@ -3205,7 +3205,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^114]: In the edition the verse is headed: “Dāmodara-svarūpa alone is the original *mahājana* of the nectar of *bhakti-rasa*.”
 
-[^115]: In the edition the verse is headed: “The name of the gopīs’ love.” *Amṛta-pravāha-bhāṣya*: the name of this love is *rūḍha-bhāva*; pure prema cannot in truth be expressed by the word *kāma*. *Anubhāṣya*: in the gopīs’ *mahābhāva* the *sāttvika-bhāvas* blaze, and so their love is called *rūḍha-bhāva* (“where the *sāttvika-bhāvas* blaze, that *bhāva* is called *rūḍha*”); their love is wholly directed to Kṛṣṇa’s happiness and is therefore pure — the contemptible word *kāma*, which means enjoyment of anything other than Kṛṣṇa, cannot apply to it.
+[^115]: In the edition the verse is headed: “The name of the gopīs’ love.” *Amṛta-pravāha-bhāṣya*: the name of this love is *rūḍha-bhāva*; pure prema cannot in truth be expressed by the word *kāma*. *Anubhāṣya*: in the gopīs’ *mahābhāva* the sāttvika-bhāvas blaze, and so their love is called *rūḍha-bhāva* (“where the sāttvika-bhāvas blaze, that *bhāva* is called *rūḍha*”); their love is wholly directed to Kṛṣṇa’s happiness and is therefore pure — the contemptible word *kāma*, which means enjoyment of anything other than Kṛṣṇa, cannot apply to it.
 
 [^116]: In the edition the verse is headed: “In the gopīs, *kāma* and prema are one.” *Amṛta-pravāha-bhāṣya*: it became customary to call the pure prema of the cowherd women *kāma*; devotees of the Lord such as Uddhava thirst for that love. *Anubhāṣya*: “Uddhava and others” — devotees who relish other rasas.
 
@@ -3221,11 +3221,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^122]: In the edition the verse is headed: “*Kāma* and the gopīs’ love for Kṛṣṇa.”
 
-[^123]: In the edition the verse is headed: “The depth of the gopīs’ love for Kṛṣṇa.” *Anubhāṣya*: the song of the gopīs’ lament when Kṛṣṇa vanished during the *rāsa* dance; “afraid” — fearing that the touch might hurt; “pebbles” — small sharp stones.
+[^123]: In the edition the verse is headed: “The depth of the gopīs’ love for Kṛṣṇa.” *Anubhāṣya*: the song of the gopīs’ lament when Kṛṣṇa vanished during the rāsa dance; “afraid” — fearing that the touch might hurt; “pebbles” — small sharp stones.
 
 [^124]: In the edition the verse is headed: “The gopīs’ pure love for Kṛṣṇa.”
 
-[^125]: In the edition the verse is headed: “Kṛṣṇa, bound by the gopīs’ love, asks forgiveness for disappearing.” *Anubhāṣya*: the words of Kṛṣṇa, who returned to the place of the *rāsa* dance on hearing the gopīs’ words; “the laws of society” — worldly dharma, “of the Vedas” — dharma for the world beyond; “loving invisibly” — doing them good unseen by them.
+[^125]: In the edition the verse is headed: “Kṛṣṇa, bound by the gopīs’ love, asks forgiveness for disappearing.” *Anubhāṣya*: the words of Kṛṣṇa, who returned to the place of the rāsa dance on hearing the gopīs’ words; “the laws of society” — worldly dharma, “of the Vedas” — dharma for the world beyond; “loving invisibly” — doing them good unseen by them.
 
 [^126]: In the edition the verse is headed: “The degree to which Kṛṣṇa is attained according to the kind of pure bhakti.”
 
@@ -3265,19 +3265,19 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^144]: In the edition the verse is headed: “The pure devotee scorns even liberation without devotion to Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: without loving service to Kṛṣṇa the pure devotee never accepts even liberation — *sālokya* and the rest — if it is for his own happiness.
 
-[^145]: In the edition verses 205–207 are headed: “Only unmotivated and uninterrupted devotion to Kṛṣṇa is beyond the guṇas (*nirguṇa*)” (Śrīmad-Bhāgavatam, 3.29.11–13). *Anubhāṣya*: the words of Śrī Kapiladeva to His mother, Devahūti; the mind flows toward the Lord, “who dwells within all”, and that flow cannot be cut by anything else.
+[^145]: In the edition verses 205–207 are headed: “Only unmotivated and uninterrupted devotion to Kṛṣṇa is beyond the guṇas (*nirguṇa*)” (Śrīmad-Bhāgavatam, 3.29.11–13). *Anubhāṣya*: the words of Śrī Kapiladeva to His mother, Devahūti; the mind flows towards the Lord, “who dwells within all”, and that flow cannot be cut by anything else.
 
 [^146]: *Amṛta-pravāha-bhāṣya*: unmotivated — without cause, self-manifest; uninterrupted — without obstacle and without seeking other fruits. *Anubhāṣya*: unmotivated — free of seeking fruits; uninterrupted — free of obstruction by body, wealth, people, greed, pride and the like; beyond the guṇas — belonging to Bhagavān, who is beyond the three guṇas.
 
 [^147]: *Amṛta-pravāha-bhāṣya*: *sālokya* — residence in Vaikuṇṭha, *sārṣṭi* — opulence, *sāmīpya* — nearness, *sārūpya* — a four-armed form, oneness — *sāyujya*, merging; the devotees do not accept them, for apart from transcendental service to the Lord they have nothing to desire.
 
-[^148]: In the edition the verse is headed: “Not to speak of perishable enjoyment, even liberation is not desired by the devotee.” *Anubhāṣya*: the Lord’s words to Durvāsā as He described the qualities of devotees such as Ambarīṣa; “anything else, destroyed by time” — heaven and the like. *Amṛta-pravāha-bhāṣya*: neither worldly enjoyment nor *sāyujya-mukti*, in which the *jīva*’s existence falls into the jaws of time, is lasting.
+[^148]: In the edition the verse is headed: “Not to speak of perishable enjoyment, even liberation is not desired by the devotee.” *Anubhāṣya*: the Lord’s words to Durvāsā as He described the qualities of devotees such as Ambarīṣa; “anything else, destroyed by time” — heaven and the like. *Amṛta-pravāha-bhāṣya*: neither worldly enjoyment nor *sāyujya-mukti*, in which the jīva’s existence falls into the jaws of time, is lasting.
 
 [^149]: In the edition the verse is headed: “A description of the gopīs’ love.”
 
 [^150]: In the edition the verse is headed: “The gopīs’ relationship with Kṛṣṇa.”
 
-[^151]: The source follows the edition (“the words of the *Ādi Purāṇa*”). *Anubhāṣya*: helpers — in the *rāsa* dance and other pastimes; teachers — in the science of love; disciples — ever attentive to My instruction; servants — serving Me like maidservants; friends — loving like friends; *striyaḥ* — beloveds (“as dear as one’s own consort”); “what are they not to Me?” — that is, they are My all-in-all.
+[^151]: The source follows the edition (“the words of the *Ādi Purāṇa*”). *Anubhāṣya*: helpers — in the rāsa dance and other pastimes; teachers — in the science of love; disciples — ever attentive to My instruction; servants — serving Me like maidservants; friends — loving like friends; *striyaḥ* — beloveds (“as dear as one’s own consort”); “what are they not to Me?” — that is, they are My all-in-all.
 
 [^152]: *Amṛta-pravāha-bhāṣya*: *iṣṭa-samīhita* — the endeavours He desires.
 
@@ -3289,11 +3289,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^156]: In the edition the verse is headed: “Among places Vṛndāvana is highest, among devotees Śrī Rādhā”; the source is given as *Laghu-bhāgavatāmṛta*, Uttara-khaṇḍa, 46, “the words of the *Ādi Purāṇa*”. *Amṛta-pravāha-bhāṣya*: because the abode of Vṛndāvana has appeared on earth, all three worlds are blessed; among them the gopīs are blessed, for among them is the gopī named Rādhā, dearer to Me than anyone.
 
-[^157]: In the edition the verse is headed: “In *madhura-rasa* the principal pastimes are with Śrī Rādhā; all else serves them.” *Anubhāṣya*: Śrī Rādhikā is everything to Śrī Kṛṣṇa, and the other gopīs only serve the rasa of His play with Rādhā. From the *Ujjvala-nīlamaṇi*: “All the fair-browed ones whose charms attract Mādhava are friends of the Mistress of Vṛndāvana, and they are of five kinds: *sakhī*, *nitya-sakhī*, *prāṇa-sakhī*, *priya-sakhī* and *parama-preṣṭha-sakhī*.”
+[^157]: In the edition the verse is headed: “In *madhura-rasa* the principal pastimes are with Śrī Rādhā; all else serves them.” *Anubhāṣya*: Śrī Rādhikā is everything to Śrī Kṛṣṇa, and the other gopīs only serve the rasa of His play with Rādhā. From the *Ujjvala-nīlamaṇi*: “All the fair-browed ones whose charms attract Mādhava are friends of the Mistress of Vṛndāvana, and they are of five kinds: sakhī, *nitya-sakhī*, *prāṇa-sakhī*, *priya-sakhī* and *parama-preṣṭha-sakhī*.”
 
 [^158]: In the edition the verse is headed: “Rādhā, dearest to Kṛṣṇa.” *Amṛta-pravāha-bhāṣya*: without Rādhikā the other gopīs cannot be the cause of Kṛṣṇa’s happiness.
 
-[^159]: *Anubhāṣya*: the words of Śrī Jayadeva about how Kṛṣṇa left the place of the *rāsa* dance and went toward Rādhā, the principal shelter of His *rāsa*; *saṁsāra* here means “the complete essence” (*samyak sāra*): Rādhā is the chain that fastens His desire for the *rāsa* dance, the very essence of His pastimes.
+[^159]: *Anubhāṣya*: the words of Śrī Jayadeva about how Kṛṣṇa left the place of the rāsa dance and went towards Rādhā, the principal shelter of His rāsa; *saṁsāra* here means “the complete essence” (*samyak sāra*): Rādhā is the chain that fastens His desire for the rāsa dance, the very essence of His pastimes.
 
 [^160]: In the edition the verse is headed: “The principal aim — the fulfilment of the three desires in Rādhā’s mood; the secondary aim — the preaching of the name and of prema.” *Anubhāṣya*: Rādhā’s mood is the disposition of the heart of Śrīmatī Gāndharvikā — Kṛṣṇa’s all-in-all, the *āśraya* of love — wholly given to the service of Kṛṣṇa alone.
 
@@ -3313,7 +3313,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^168]: The same verse as Ādi 1.6; in the edition, “a verse from the *Kaḍacā* of Śrī Svarūpa Gosvāmī”. *Anubhāṣya*: *mad-anubhavataḥ* — “from experiencing Me”: Rādhā’s happiness comes from relishing Kṛṣṇa’s sweetness; *tad-bhāvāḍhyaḥ* — “rich with Her mood”; *harīnduḥ* — the moon Kṛṣṇa. *Amṛta-pravāha-bhāṣya*: longing to know these three — the greatness of Śrī Rādhā’s love, His wondrous sweetness that Śrī Rādhā tastes, and the happiness that arises in Her from relishing His sweetness — the moon Kṛṣṇa was born in the ocean of Śacī’s womb.
 
-[^169]: In the edition the verse is headed: “Though hidden, it is described for the sake of devotees who relish rasa.” *Anubhāṣya*: this hidden truth of Gaura’s descent — the desire in Kṛṣṇa’s heart — is not fit to be revealed to the world and is beyond the listeners’ capacity; yet if it is not revealed, the *jīva* cannot by his own effort grasp its depth.
+[^169]: In the edition the verse is headed: “Though hidden, it is described for the sake of devotees who relish rasa.” *Anubhāṣya*: this hidden truth of Gaura’s descent — the desire in Kṛṣṇa’s heart — is not fit to be revealed to the world and is beyond the listeners’ capacity; yet if it is not revealed, the jīva cannot by his own effort grasp its depth.
 
 [^170]: In the edition the verse is headed: “Only the servants of Śrī Guru and Gaurāṅga are qualified for the conclusions about rasa.”
 

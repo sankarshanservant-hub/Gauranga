@@ -910,9 +910,9 @@ it  stealing  enjoyment  does  a great sinner  person
 rājāra vartana khāya, āra curi kare  
 the king’s  salary  he eats,  and  theft  does  
 rāja-daṇḍya haya sei śāstrera vicāre  
-punishable by the king  is  he  of scripture  by the judgment
+punishable by the king  is  he  of scripture  by the judgement
 
-(90) He lives on the king’s salary and steals besides; by the judgment of scripture he deserves the king’s punishment.
+(90) He lives on the king’s salary and steals besides; by the judgement of scripture he deserves the king’s punishment.
 
 নিজ-কৌড়ি মাগে, রাজা নাহি করে দণ্ড ৷  
 রাজা — মহাধার্ম্মিক, এই হয় পাপী ভণ্ড ! ॥ ৯১ ॥

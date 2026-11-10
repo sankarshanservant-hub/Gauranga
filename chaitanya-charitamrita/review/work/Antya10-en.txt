@@ -96,7 +96,7 @@ tr: Mahāprabhu receives the feeling (*bhāva-grāhī*): it is the affection alo
 fn: Edition heading: the transcendental Bhagavān accepts the feeling. *Anubhāṣya*: *bhāva* here is a transcendental, causeless movement of the heart, made of pure goodness and aimed at pleasing Kṛṣṇa — not a mundane feeling that seeks its own pleasure.
 
 ## 19
-w: human  regard  Damayantī  holds  the Lord’s  toward the feet
+w: human  regard  Damayantī  holds  the Lord’s  towards the feet
 w: from heavy eating  in the stomach  sometimes  āma  becoming  goes
 tr: Damayantī, in her affection, regarded the Lord as a human being (*manuṣya-buddhi*): “From heavy food, *āma* (indigestion) may sometimes form in His stomach.
 fn: *Anubhāṣya*: to see Him as a human being (*manuṣya-buddhi*) is the consciousness of the residents of Gauḍa and Vraja: their hearts, made of pure goodness, know nothing of His majesty, and they know Gaura-Kṛṣṇa in His human form as won over by their pure love alone. *Āma* is an acid-bilious disorder that comes from indigestion.
@@ -488,12 +488,12 @@ tr: The Lord said, “Then how did you come inside? Why didn’t you go out the 
 
 ## 95
 w: Govinda  said (to himself)  my  service  that  rule
-w: offense  let there be,  or  to hell  going
+w: offence  let there be,  or  to hell  going
 tr: Govinda said within himself, “For me, service is the rule. Let it be an offence; let me even go to hell.
 
 ## 96
-w: service  for the sake of  ten million  offenses  not  I count
-w: for my own sake  of the shadow of offense  fear  I feel
+w: service  for the sake of  ten million  offences  not  I count
+w: for my own sake  of the shadow of offence  fear  I feel
 tr: For the sake of service I do not count even ten million offences, but for my own sake I fear even the shadow of an offence.”
 fn: Edition heading (to verses 95–96): the one aim of a servant of Gaura-Kṛṣṇa is the wish to please His senses; serving for His pleasure, the pure devotee abhors even a drop of desire to please his own senses and fears offence in it.
 
@@ -510,7 +510,7 @@ tr: Every day, when the Lord slept, he would go to take prasāda; but that day, 
 
 ## 99
 w: even to go  way  there is not;  he would go  how
-w: great  offense  is  of the Lord  in stepping over
+w: great  offence  is  of the Lord  in stepping over
 tr: And there was no way out: how could he leave? To step over the Lord is a great offence.
 
 ## 100
@@ -589,7 +589,7 @@ tr: Govinda put them off, telling each one something. Then one day he spoke to t
 fn: Edition heading: with evasive words Govinda consoles the givers.
 
 ## 114
-w: the Ācārya  and other  honored men  with  care
+w: the Ācārya  and other  honoured men  with  care
 w: You  to feed  things  give  my  in the place
 tr: “Advaita Ācārya and the other honoured devotees carefully give me things to feed You.
 

@@ -184,7 +184,7 @@ of the twenty-fourth  year  at the end  which  the month of Māgha
 tāra śukla-pakṣe prabhu karilā sannyāsa  
 in its  bright fortnight  the Lord  took  sannyāsa
 
-(16) At the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, the Lord accepted *sannyāsa*.
+(16) At the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, the Lord accepted sannyāsa.
 
 সন্ন্যাস করিয়া চব্বিশ বৎসর অবস্থান ৷  
 তাঁহা যেই লীলা, তার ‘শেষলীলা’ নাম ॥ ১৭ ॥
@@ -464,7 +464,7 @@ Gopāla-campū  named  a book  most mighty
 nitya-līlā sthāpana yāhe vraja-rasa-pūra  
 of the eternal pastimes  the establishment  in which  with the rasa of Vraja  full
 
-(44) In his renowned *Gopāla-campū*, full of the *rasa* of Vraja, he established the eternity of Kṛṣṇa’s pastimes.
+(44) In his renowned *Gopāla-campū*, full of the rasa of Vraja, he established the eternity of Kṛṣṇa’s pastimes.
 
 এইমত নানা গ্রন্থ করিয়া প্রকাশ ৷  
 গোষ্ঠী সহিতে কৈলা বৃন্দাবনে বাস ॥ ৪৫ ॥
@@ -554,7 +554,7 @@ at whatever  time  He takes  of Jagannātha  darśana
 mane bhāvena, kurukṣetre pāñāchi milana  
 in the mind  He thinks  at Kurukṣetra  I have found  union
 
-(53) Whenever He took *darśana* of Jagannātha, He thought, “I have found Him again at Kurukṣetra.”
+(53) Whenever He took darśana of Jagannātha, He thought, “I have found Him again at Kurukṣetra.”
 
 রথযাত্রার আগে যবে করেন নর্ত্তন ৷  
 তাঁহা এই পদ মাত্র করয়ে গায়ন ॥ ৫৪ ॥
@@ -770,7 +770,7 @@ a worthy  recipient  he is  of confidential  rasa  for discerning
 tumio kahio tāre gūḍha-rasākhyāne  
 you also  speak  to him  in explaining the confidential rasa
 
-(74) He is a worthy vessel for understanding the hidden *rasa*, and you too should instruct him in its secrets.”
+(74) He is a worthy vessel for understanding the hidden rasa, and you too should instruct him in its secrets.”
 
 এসব কহিব আগে বিস্তার করিঞা ৷  
 সংক্ষেপে উদ্দেশ কৈল প্রস্তাব পাইঞা ॥ ৭৫ ॥
@@ -1008,7 +1008,7 @@ on the way  various  pastimes  of all  the Deities  the sight
 mādhava-purīra kathā, gopāla-sthāpana  
 of Mādhava Purī  the story  of Gopāla  the installation
 
-(96) On the way there were many pastimes: *darśana* of all the Deities, the story of Mādhava Purī and the installation of Gopāla.[^18]
+(96) On the way there were many pastimes: darśana of all the Deities, the story of Mādhava Purī and the installation of Gopāla.[^18]
 
 ক্ষীর-চুরি-কথা, সাক্ষী-গোপাল-বিবরণ ৷  
 নিত্যানন্দ কৈল প্রভুর দণ্ড ভঞ্জন ॥ ৯৭ ॥
@@ -1108,7 +1108,7 @@ then  indeed  the atheists  He made  crushing
 ahovala-nṛsiṁhādi kaila daraśana  
 Ahovala-nṛsiṁha and others  He made  the sight
 
-(106) Then He subdued the unbelievers, and He had *darśana* of Ahovala-nṛsiṁha and other Deities.[^20]
+(106) Then He subdued the unbelievers, and He had darśana of Ahovala-nṛsiṁha and other Deities.[^20]
 
 শ্রীরঙ্গক্ষেত্র আইলা কাবেরীর তীর ৷  
 শ্রীরঙ্গ দেখিয়া প্রেমে হইলা অস্থির ॥ ১০৭ ॥
@@ -1166,9 +1166,9 @@ Paramānanda Purī  with  there  meeting
 tabe bhaṭṭathāri haite kṛṣṇadāsera uddhāra  
 then  from the Bhaṭṭathāris  of Kṛṣṇadāsa  the rescue  
 rāma-japī vipra-mukhe kṛṣṇa-nāma pracāra  
-who chanted Rāma’s name  through the mouths of brahmins  of Kṛṣṇa’s name  the spreading
+who chanted Rāma’s name  through the mouths of brāhmaṇas  of Kṛṣṇa’s name  the spreading
 
-(112) Then came the rescue of Kṛṣṇadāsa from the Bhaṭṭathāris, and the spreading of Kṛṣṇa’s name through the mouths of brahmins who chanted Rāma’s name.
+(112) Then came the rescue of Kṛṣṇadāsa from the Bhaṭṭathāris, and the spreading of Kṛṣṇa’s name through the mouths of brāhmaṇas who chanted Rāma’s name.
 
 শ্রীরঙ্গপুরী সহ তাহাঞি মিলন ৷  
 রামদাস বিপ্রের কৈল দুঃখবিমোচন ॥ ১১৩ ॥
@@ -1176,9 +1176,9 @@ who chanted Rāma’s name  through the mouths of brahmins  of Kṛṣṇa’s n
 śrī-raṅga-purī saha tāhāñi milana  
 Śrī Raṅga Purī  with  there  meeting  
 rāma-dāsa viprera kaila duḥkha-vimocana  
-Rāmadāsa  the brahmin’s  He made  of sorrow  removal
+Rāmadāsa  the brāhmaṇa’s  He made  of sorrow  removal
 
-(113) There He met Śrī Raṅga Purī, and He relieved the sorrow of the brahmin Rāmadāsa.
+(113) There He met Śrī Raṅga Purī, and He relieved the sorrow of the brāhmaṇa Rāmadāsa.
 
 তত্ত্ববাদী সহ কৈল তত্ত্বের বিচার ৷  
 আপনাকে হীনবুদ্ধি হৈল তাঁ-সবার ॥ ১১৪ ॥
@@ -1198,7 +1198,7 @@ Ananta  Puruṣottama  Śrī Janārdana
 padmanābha, vāsudeva kaila daraśana  
 Padmanābha  Vāsudeva  He made  the sight
 
-(115) He had *darśana* of Ananta, Puruṣottama, Śrī Janārdana, Padmanābha and Vāsudeva.
+(115) He had darśana of Ananta, Puruṣottama, Śrī Janārdana, Padmanābha and Vāsudeva.
 
 তবে প্রভু কৈল সপ্ততাল বিমোচন ৷  
 সেতুবন্ধে স্নান, রামেশ্বর দরশন ॥ ১১৬ ॥
@@ -1208,7 +1208,7 @@ then  the Lord  made  of the seven palms  the liberation
 setu-bandhe snāna, rāmeśvara daraśana  
 at Setubandha  bathing  of Rāmeśvara  the sight
 
-(116) Then the Lord liberated the seven palm trees (Sapta-tāla), bathed at Setubandha and had *darśana* of Rāmeśvara.
+(116) Then the Lord liberated the seven palm trees (Sapta-tāla), bathed at Setubandha and had darśana of Rāmeśvara.
 
 তাহাঞি করিল কূর্ম্মপুরাণ শ্রবণ ৷  
 মায়াসীতা নিলেক রাবণ, তাহাতে লিখন ॥ ১১৭ ॥
@@ -1226,9 +1226,9 @@ the illusory Sītā  carried off  Rāvaṇa  in it  written
 śuniyā prabhura ānandita haila mana  
 hearing  the Lord’s  delighted  became  mind  
 rāma-dāsa viprera kathā haila smaraṇa  
-of Rāmadāsa  the brahmin  the words  came  to remembrance
+of Rāmadāsa  the brāhmaṇa  the words  came  to remembrance
 
-(118) Hearing this, the Lord was delighted at heart, and He remembered the words of the brahmin Rāmadāsa.
+(118) Hearing this, the Lord was delighted at heart, and He remembered the words of the brāhmaṇa Rāmadāsa.
 
 সেই পুরাতন পত্র আগ্রহ করি’ নিল ৷  
 রামদাসে দেখাইয়া দুঃখ খণ্ডাইল ॥ ১১৯ ॥
@@ -1308,7 +1308,7 @@ all  gathering  counsel  taking  kīrtana  began
 kīrtana-āveśe prabhura mana sthira haila  
 in the absorption of kīrtana  the Lord’s  mind  steady  became
 
-(126) They all gathered, took counsel and began *kīrtana*; absorbed in the kīrtana, the Lord’s mind grew calm.
+(126) They all gathered, took counsel and began kīrtana; absorbed in the kīrtana, the Lord’s mind grew calm.
 
 পূর্ব্বে যবে প্রভু রামানন্দেরে মিলিলা ৷  
 নীলাচলে আসিবারে তাঁরে আজ্ঞা দিলা ॥ ১২৭ ॥
@@ -1576,7 +1576,7 @@ millions  upon millions  people  coming  had  sight of Him
 kuliyā-grāme kaila devānandere prasāda  
 in the village of Kuliyā  He showed  to Devānanda  grace  
 gopāla-viprere kṣamāila śrīvāsāparādha  
-the brāhmaṇa Gopāla  He forgave  the offense to Śrīvāsa
+the brāhmaṇa Gopāla  He forgave  the offence to Śrīvāsa
 
 (153) In Kuliyā He showed His grace to Devānanda and forgave the brāhmaṇa Gopāla his offence against Śrīvāsa.[^24]
 
@@ -1586,7 +1586,7 @@ the brāhmaṇa Gopāla  He forgave  the offense to Śrīvāsa
 pāṣaṇḍī nindaka āsi’ paḍilā caraṇe  
 heretics  blasphemers  coming  fell  at His feet  
 aparādha kṣami’ tāre dila kṛṣṇa-preme  
-the offenses  forgiving  to them  He gave  love for Kṛṣṇa
+the offences  forgiving  to them  He gave  love for Kṛṣṇa
 
 (154) Unbelievers and blasphemers came and fell at His feet; He forgave their offences and gave them love for Kṛṣṇa.
 
@@ -2314,7 +2314,7 @@ to Vṛndāvana  for going  this  is not  the proper manner
 yadyapi vastutaḥ prabhura kichu nāhi bhaya  
 although  in truth  of the Lord  any  there is no  fear  
 tathāpi laukika-līlā, loka-ceṣṭā-maya  
-still  a worldly pastime  of human behavior  full
+still  a worldly pastime  of human behaviour  full
 
 (225) Although in truth the Lord has nothing to fear, His pastimes in this world follow the ways of ordinary people.[^45]
 
@@ -2971,11 +2971,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^17]: *Anubhāṣya*: Kṛṣṇa offered Śrīmatī Rādhikā any boon She desired, and She answered with this verse; *kṣauṇī* — the land of Vraja.
 
-[^18]: *Anubhāṣya*: Mādhava Purī is Śrī Mādhavendra Purī. Edition heading: “On the way to Purī: the story of Mādhavendra Purī at Remuṇā, and *darśana* of Gopīnātha”.
+[^18]: *Anubhāṣya*: Mādhava Purī is Śrī Mādhavendra Purī. Edition heading: “On the way to Purī: the story of Mādhavendra Purī at Remuṇā, and darśana of Gopīnātha”.
 
 [^19]: The verse does not say who tells the stories: the Lord Himself tells of Kṣīra-corā Gopīnātha (Madhya 4), and Nityānanda of Sākṣi-gopāla (Madhya 5).
 
-[^20]: Edition heading: “The deliverance of the Buddhist unbelievers, and *darśana* of Nṛsiṁha at Ahovala”.
+[^20]: Edition heading: “The deliverance of the Buddhist unbelievers, and darśana of Nṛsiṁha at Ahovala”.
 
 [^21]: Edition heading: “The Lord’s meal at Sārvabhauma’s house; the offence of his son-in-law Amogha, and his deliverance” (Madhya 15).
 
@@ -3057,6 +3057,6 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^60]: Edition heading: “Śrī Raghunātha’s service to Nityānanda and His associates at Pānihāṭi”.
 
-[^61]: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (*Vilāpa-kusumāñjali*, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
+[^61]: Edition heading: “Then, by Nityānanda’s mercy, Raghunātha leaves home, comes to the Lord’s feet in Purī and surrenders himself to Dāmodara Svarūpa”. The *Anubhāṣya* quotes Raghunātha’s own verse (Vilāpa-kusumāñjali, 5): with the ropes of His mercy Caitanya-candra drew him out of the well of household life, brought him to His feet and Himself gave him to Śrī Dāmodara.
 
 [^62]: Edition heading: “Of the eighteen years, leaving aside six, the pastimes of the last twelve years will be described in sūtras later”. *Anubhāṣya*: the author gives the sūtras of the last twelve years in the second chapter, and then describes the Madhya- and Antya-līlā step by step in detail (cf. Antya 1.10–11).

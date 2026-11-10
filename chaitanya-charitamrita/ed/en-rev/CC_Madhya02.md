@@ -649,7 +649,7 @@ the insect of life  I make  maintenance
 শুক্লবস্ত্রে যৈছে মসীবিন্দু ॥ ৪৮ ॥
 
 kṛṣṇa-premā sunirmala, yena śuddha-gaṅgā-jala,  
-love for Kṛṣṇa  spotless  like  pure  Ganges  water  
+love for Kṛṣṇa  spotless  like  pure  Gaṅgā  water  
 sei premā — amṛtera sindhu  
 that  love  of nectar  an ocean  
 nirmala se anurāge, nā lukāya anya dāge,  
@@ -657,7 +657,7 @@ spotless  in that  attachment (anurāga)  not  hides  another  stain
 śukla-vastre yaiche masī-bindu  
 on white cloth  like  an ink  drop
 
-(48) Love for Kṛṣṇa is spotless, like the pure water of the Ganges; that love is an ocean of nectar. In that spotless attachment (*anurāga*) no other stain can hide, just as a drop of ink cannot hide on white cloth.[^17]
+(48) Love for Kṛṣṇa is spotless, like the pure water of the Gaṅgā; that love is an ocean of nectar. In that spotless attachment (*anurāga*) no other stain can hide, just as a drop of ink cannot hide on white cloth.[^17]
 
 শুদ্ধপ্রেম-সুখসিন্ধু, পাই তার এক বিন্দু,  
 সেই বিন্দু জগৎ ডুবায় ৷  
@@ -1281,7 +1281,7 @@ for Kṛṣṇa  will arise  love  he will know  rasa’s  ways
 śunilei baḍa haya hita  
 by merely hearing  great  comes  benefit
 
-(87) Even one who does not understand will, by hearing again and again how wonderful is Caitanya’s life, come to love Kṛṣṇa and know the ways of *rasa*. Simply by hearing, great good comes.
+(87) Even one who does not understand will, by hearing again and again how wonderful is Caitanya’s life, come to love Kṛṣṇa and know the ways of rasa. Simply by hearing, great good comes.
 
 ভাগবত — শ্লোকময়, টীকা তার সংস্কৃত হয়,  
 তবু কৈছে বুঝে ত্রিভুবন ৷  

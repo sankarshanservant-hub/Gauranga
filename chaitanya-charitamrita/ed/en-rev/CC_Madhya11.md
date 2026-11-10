@@ -86,7 +86,7 @@ seeing a woman  like  of poison  the eating
 হা হন্ত হন্ত বিষভক্ষণতোঽপ্যসাধু ॥ ৮ ॥
 
 niṣkiñcanasya bhagavad-bhajanonmukhasya  
-of one who owns nothing  toward the worship of the Lord  turned  
+of one who owns nothing  towards the worship of the Lord  turned  
 pāraṁ paraṁ jigamiṣor bhava-sāgarasya  
 the shore  far  wishing to cross  of worldly existence  of the ocean  
 sandarśanaṁ viṣayiṇām atha yoṣitāṁ ca  
@@ -94,7 +94,7 @@ the seeing  of worldly people  and also  of women  and
 hā hanta hanta viṣa-bhakṣaṇato ’py asādhu  
 alas  alas  alas  than drinking poison  even  more evil
 
-(8) “Alas, alas! For one who owns nothing in this world, who is turned toward the worship of the Lord and longs to cross to the far shore of the ocean of worldly existence, to look upon worldly people and women is worse even than drinking poison.” (Caitanya-candrodaya-nāṭaka, 8.24)[^3]
+(8) “Alas, alas! For one who owns nothing in this world, who is turned towards the worship of the Lord and longs to cross to the far shore of the ocean of worldly existence, to look upon worldly people and women is worse even than drinking poison.” (Caitanya-candrodaya-nāṭaka, 8.24)[^3]
 
 সার্ব্বভৌম কহে, — সত্য তোমার বচন ৷  
 জগন্নাথ-সেবক রাজা, কিন্তু ভক্তোত্তম ॥ ৯ ॥
@@ -1058,7 +1058,7 @@ they worship  indeed  the intelligent
 rājā kahe, — śāstra-pramāṇe caitanya hana kṛṣṇa  
 the king  says  by the evidence of scripture  Caitanya  is  Kṛṣṇa  
 tabe kene paṇḍita saba tām̐hāte vitṛṣṇa?  
-then  why  the scholars  all  toward Him  averse
+then  why  the scholars  all  towards Him  averse
 
 (101) The king said, “By the evidence of scripture Caitanya is Kṛṣṇa. Why, then, are the scholars all averse to Him?”
 
@@ -1965,7 +1965,7 @@ moment  by moment  do  you  sacrifice, austerity and charity
 nirantara kara tumi veda adhyayana  
 constantly  do  you  of the Vedas  study  
 dvija-nyāsī haite tumi parama-pāvana  
-than brahmins and sannyāsīs  you  supremely purifying
+than brāhmaṇas and sannyāsīs  you  supremely purifying
 
 (191) You study the Vedas without cease, and you are far more purifying than any brāhmaṇa or sannyāsī.
 
@@ -2553,7 +2553,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^28]: Heading in the edition: “Śrī Kṛṣṇa Caitanya is the founder of saṅkīrtana.”
 
-[^29]: *Amṛta-pravāha-bhāṣya*: one who worships Kṛṣṇa Caitanya with the sacrifice of saṅkīrtana is truly intelligent; those who do not are *kali-hata* — Kali has destroyed their intelligence. *Anubhāṣya*: only the word of a pure devotee who sings of Kṛṣṇa awakens another *jīva* to service; the “kīrtana” and dancing of one devoted to the world are rooted in unbelief and remain a passing excitement.
+[^29]: *Amṛta-pravāha-bhāṣya*: one who worships Kṛṣṇa Caitanya with the sacrifice of saṅkīrtana is truly intelligent; those who do not are *kali-hata* — Kali has destroyed their intelligence. *Anubhāṣya*: only the word of a pure devotee who sings of Kṛṣṇa awakens another jīva to service; the “kīrtana” and dancing of one devoted to the world are rooted in unbelief and remain a passing excitement.
 
 [^30]: The same verse as Ādi 3.51 and Madhya 6.103; translation as there.
 

@@ -244,9 +244,9 @@ in love for Kṛṣṇa  with thrills and tears  overwhelmed  he  becomes
 ‘nityānanda’ balite haya kṛṣṇa-premodaya  
 ‘Nityānanda’  on saying  there is  the rising of love for Kṛṣṇa  
 āulāya sakala aṅga, aśru-gaṅgā vaya  
-are thrown into turmoil  all  the limbs  a Ganges of tears  flows
+are thrown into turmoil  all  the limbs  a Gaṅgā of tears  flows
 
-(23) At the name “Nityānanda” love for Kṛṣṇa awakens; every limb is shaken, and a Ganges of tears flows.
+(23) At the name “Nityānanda” love for Kṛṣṇa awakens; every limb is shaken, and a Gaṅgā of tears flows.
 
 ‘কৃষ্ণনাম’ করে অপরাধের বিচার ৷  
 কৃষ্ণ বলিলে অপরাধীর না হয় বিকার ॥ ২৪ ॥
@@ -603,7 +603,7 @@ with all  qualities  there  dwell  the gods
 harāv abhaktasya kuto mahad-guṇā  
 to Hari  of one not devoted  whence  great qualities  
 mano-rathenāsati dhāvato bahiḥ  
-by the chariot of the mind  toward the unreal  running  outward
+by the chariot of the mind  towards the unreal  running  outward
 
 (58) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)[^24]
 
@@ -927,7 +927,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^24]: *Anubhāṣya*: Śukadeva speaks these words to Parīkṣit while describing the qualities of the great devotee Prahlāda. *Akiñcanā* — “free of desire”; *samāsate* — “dwell eternally”; *asati* — “in the passing happiness of sense objects”; *mahad-guṇāḥ* — the virtues of the great, such as knowledge and detachment. *Amṛta-pravāha-bhāṣya*: in one who has pure devotion to Kṛṣṇa the gods abide with all their qualities; but the mind of one without devotion to Hari always runs after what is external and unreal, and great qualities are impossible for him.
 
-[^25]: *Amṛta-pravāha-bhāṣya*: *Paṇḍita Gosāñi* is Śrī Gadādhara Paṇḍita. *Anubhāṣya* to 59–60: in Gaura’s pastimes Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja (*Gaura-gaṇoddeśa-dīpikā*, 165). From him comes the well-known Gaṅgāmātā Maṭha of Purī; in that line Ananta Ācārya is called Vinoda-mañjarī, and his disciple Haridāsa Paṇḍita (also called Raghu-gopāla) is Rāsa-mañjarī. Haridāsa’s disciple was Lakṣmīpriyā, and hers Gaṅgāmātā, a daughter of the Rājā of Puṭiyā, who brought the Deity of Śrī Rasikarāya from Jaipur and established His service in the house of Sārvabhauma in Purī.
+[^25]: *Amṛta-pravāha-bhāṣya*: *Paṇḍita Gosāñi* is Śrī Gadādhara Paṇḍita. *Anubhāṣya* to 59–60: in Gaura’s pastimes Ananta Ācārya is Sudevī, one of the eight sakhīs of Vraja (Gaura-gaṇoddeśa-dīpikā, 165). From him comes the well-known Gaṅgāmātā Maṭha of Purī; in that line Ananta Ācārya is called Vinoda-mañjarī, and his disciple Haridāsa Paṇḍita (also called Raghu-gopāla) is Rāsa-mañjarī. Haridāsa’s disciple was Lakṣmīpriyā, and hers Gaṅgāmātā, a daughter of the Rājā of Puṭiyā, who brought the Deity of Śrī Rasikarāya from Jaipur and established His service in the house of Sārvabhauma in Purī.
 
 [^26]: Edition heading: “His reading of the *Caitanya-bhāgavata* in the assembly of Vaiṣṇavas.”
 

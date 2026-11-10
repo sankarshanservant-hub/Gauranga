@@ -59,7 +59,7 @@ tr: You have a taste for talks about Kṛṣṇa — you are greatly fortunate! 
 w: dharma  well performed  of people
 w: of Viṣvaksena  for the narrations  which
 w: not  awakens  if  attraction
-w: labor  only  certainly  merely
+w: labour  only  certainly  merely
 tr: “Dharma, however well a person performs it, is nothing but wasted labour if it does not awaken attraction (*rati*) to the narrations about the Lord, Viṣvaksena.” (Śrīmad-Bhāgavatam, 1.2.8)
 fn: *Anubhāṣya*: the dharma of varṇa and āśrama; if it does not awaken attraction (*rati*) to the narrations about the Lord, it is wholly fruitless labour.
 
@@ -160,7 +160,7 @@ tr: Showing him respect, he bowed to Miśra and humbly said:
 
 ## 29
 w: long ago  you came  me  anyone  not  told
-w: at your  feet  my  offense  has been
+w: at your  feet  my  offence  has been
 tr: “You have been here a long while, and no one told me. I have committed an offence at your feet.
 
 ## 30
@@ -575,7 +575,7 @@ tr: Take the two dramas Rūpa has composed: merely hearing their prologues makes
 
 ## 109
 w: Bhagavān Ācārya  says  —  hear  once
-w: you  having heard  good or bad  will know  the judgment
+w: you  having heard  good or bad  will know  the judgement
 tr: Bhagavān Ācārya said, “Just hear it once. When you have heard it, you will be able to judge whether it is good or bad.”
 
 ## 110

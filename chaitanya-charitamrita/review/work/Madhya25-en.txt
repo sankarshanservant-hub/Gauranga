@@ -169,7 +169,7 @@ fn: The same verse as Madhya 22.22; translation as there.
 
 ## 32
 w: those who  others  O lotus-eyed Lord  who think themselves liberated
-w: toward You  for want of love  of impure intelligence
+w: towards You  for want of love  of impure intelligence
 w: having risen  with hardship  to the supreme  position  from there
 w: fall  down  having neglected Your feet
 tr: “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
@@ -400,8 +400,8 @@ tr: Prakāśānanda replied, “The blasphemy of You that I committed before has
 ## 74
 w: liberated in this life  even  again
 w: go  to worldly  desires
-w: if  toward the possessor of inconceivable great potencies
-w: toward Bhagavān  offenders
+w: if  towards the possessor of inconceivable great potencies
+w: towards Bhagavān  offenders
 tr: “Even those liberated in this life fall back into worldly desires if they offend Bhagavān, whose potencies are great and inconceivable.” (a saying of the *Pariśiṣṭa*, quoted in the *Vāsanā-bhāṣya*)
 
 ## 75
@@ -1189,7 +1189,7 @@ w: to the sannyāsīs  mercy  hearing  he felt  great  happiness
 tr: Hearing from the three about the Lord’s deeds in Kāśī, and of His mercy to the sannyāsīs, he was overjoyed.
 
 ## 213
-w: toward Mahāprabhu  of the people  reverence  seeing
+w: towards Mahāprabhu  of the people  reverence  seeing
 w: happy  became  from the people’s mouths  kīrtana  hearing
 tr: Seeing the people’s reverence for Mahāprabhu and hearing kīrtana from their lips, he rejoiced.
 

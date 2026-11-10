@@ -300,9 +300,9 @@ the sun  as  with its form  see  the gods
 jñāna-yoga-mārge tām̐re bhaje yei saba  
 on the path of knowledge and yoga  Him  worship  who  all  
 brahma-ātma-rūpe tām̐re kare anubhava  
-as Brahman and the Self  Him  they  realize
+as Brahman and the Self  Him  they  realise
 
-(26) Those who worship Him on the paths of knowledge and yoga realize Him as Brahman and as the Supersoul.
+(26) Those who worship Him on the paths of knowledge and yoga realise Him as Brahman and as the Supersoul.
 
 উপাসনা-ভেদে জানি ঈশ্বর-মহিমা ৷  
 অতএব সূর্য্য তাঁর দিয়ে ত’ উপমা ॥ ২৭ ॥
@@ -1307,7 +1307,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^6]: *Amṛta-pravāha-bhāṣya*: “The conclusion of the scriptures is this: the supreme truth of *viṣṇu-tattva* is Bhagavān Himself, Kṛṣṇacandra.”
 
-[^7]: *Amṛta-pravāha-bhāṣya*: the first realization of that non-dual knowledge is Brahman, the second Paramātmā, the third Bhagavān.
+[^7]: *Amṛta-pravāha-bhāṣya*: the first realisation of that non-dual knowledge is Brahman, the second Paramātmā, the third Bhagavān.
 
 [^8]: *Amṛta-pravāha-bhāṣya*: “… the Brahman distinct from the unlimited opulences — earths and the rest — in millions upon millions of universes, undivided, infinite and complete, has arisen from the effulgence of that original Person, Govinda.”
 

@@ -481,11 +481,11 @@ unbearable  pain  in agony  burns  his heart
 একদিন বলে কিছু প্রভুকে দেখিয়া ॥ ৪৭ ॥
 
 gaṅgā-ghāṭe vṛkṣa-tale rahe ta’ vasiyā  
-at a Ganges ghāṭa  under a tree  remains  indeed  sitting  
+at a Gaṅgā ghāṭa  under a tree  remains  indeed  sitting  
 ekadina bale kichu prabhuke dekhiyā  
 one day  says  something  the Lord  seeing
 
-(47) He sat under a tree at a ghāṭa on the Ganges, and one day, seeing the Lord, he spoke to Him:
+(47) He sat under a tree at a ghāṭa on the Gaṅgā, and one day, seeing the Lord, he spoke to Him:
 
 গ্রাম সম্বন্ধে আমি তোমার মাতুল ৷  
 ভাগিনা, মুই কুষ্ঠব্যাধিতে হঞাছি ব্যাকুল ॥ ৪৮ ॥
@@ -551,11 +551,11 @@ the unbelievers  destroying  bhakti  I shall  spread
 সেই পাপী দুঃখ ভোগে, না যায় পরাণ ॥ ৫৪ ॥
 
 eta bali’ gelā prabhu karite gaṅgā-snāna  
-this  saying  went  the Lord  to take  His bath in the Ganges  
+this  saying  went  the Lord  to take  His bath in the Gaṅgā  
 sei pāpī duḥkha bhoge, nā yāya parāṇa  
 that  sinner  suffering  endures  not  goes  life
 
-(54) With these words the Lord went to bathe in the Ganges, and the sinner went on suffering, unable to die.
+(54) With these words the Lord went to bathe in the Gaṅgā, and the sinner went on suffering, unable to die.
 
 সন্ন্যাস করিয়া যবে প্রভু নীলাচলে গেলা ৷  
 তথা হৈতে যবে কুলিয়া গ্রামে আইলা ॥ ৫৫ ॥
@@ -620,9 +620,9 @@ at the door  the bolt  not  could  inside  go
 phiri’ gela vipra ghare mane duḥkha pāñā  
 returning  went  the brāhmaṇa  home  in his mind  grief  feeling  
 āra dina prabhuke kahe gaṅgāya dekhiyā  
-another  day  to the Lord  says  at the Ganges  seeing
+another  day  to the Lord  says  at the Gaṅgā  seeing
 
-(61) He went home with a heavy heart, and the next day, seeing the Lord at the Ganges, he said to Him:[^19]
+(61) He went home with a heavy heart, and the next day, seeing the Lord at the Gaṅgā, he said to Him:[^19]
 
 শাপিব তোমারে মুঞি, পাঞাছি মনোদুঃখ ৷  
 পৈতা ছিণ্ডিয়া শাপে প্রচণ্ড দুর্ম্মুখ ॥ ৬২ ॥
@@ -748,11 +748,11 @@ to all  He forbade  his  not  you shall see  face
 ভক্তির মহিমা তাঁহা করিল ব্যাখ্যান ॥ ৭৪ ॥
 
 sagaṇe sacele giyā kaila gaṅgā-snāna  
-with His associates  in their clothes  going  made  bath in the Ganges  
+with His associates  in their clothes  going  made  bath in the Gaṅgā  
 bhaktira mahimā tām̐hā karila vyākhyāna  
 of bhakti  the glory  there  made  explanation
 
-(74) Then He went with His companions and bathed in the Ganges in His clothes, and there He explained the glory of devotion.
+(74) Then He went with His companions and bathed in the Gaṅgā in His clothes, and there He explained the glory of devotion.
 
 জ্ঞান-কর্ম্ম-যোগ-ধর্ম্মে নহে কৃষ্ণ বশ ৷  
 কৃষ্ণবশ-হেতু এক — কৃষ্ণপ্রেমরস ॥ ৭৫ ॥
@@ -1178,9 +1178,9 @@ one  day  the Lord  in the hall of Viṣṇu  sitting
 nityānanda-gosāñi prabhura āveśa jānila  
 Nityānanda Gosāñi  of the Lord  the mood  understood  
 gaṅgā-jala-pātra āni’ sammukhe dharila  
-Ganges water  a pot of  bringing  before Him  held
+Gaṅgā water  a pot of  bringing  before Him  held
 
-(116) Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Ganges water and held it before the Lord.
+(116) Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Gaṅgā water and held it before the Lord.
 
 জল পান করিয়া নাচে হঞা বিহ্বল ৷  
 যমুনাকর্ষণ-লীলা দেখয়ে সকল ॥ ১১৭ ॥
@@ -1218,9 +1218,9 @@ all  together  dance  in bliss  overwhelmed
 ei-mata nṛtya haila cāri prahara  
 in this way  the dancing  went on  four  praharas  
 sandhyāya gaṅgā-snāna kari’ sabe gelā ghara  
-in the evening  bath in the Ganges  taking  all  went  home
+in the evening  bath in the Gaṅgā  taking  all  went  home
 
-(120) So the dancing went on for four praharas; in the evening they all bathed in the Ganges and went home.
+(120) So the dancing went on for four praharas; in the evening they all bathed in the Gaṅgā and went home.
 
 নগরিয়া লোকে প্রভু যবে আজ্ঞা দিলা ৷  
 ঘরে ঘরে সংকীর্ত্তন করিতে লাগিলা ॥ ১২১ ॥
@@ -2226,9 +2226,9 @@ this  mercy  do  that  in You  may remain  devotion
 prabhu kahe, — eka dāna māgiye tomāya  
 the Lord  says  one  gift  I beg  from you  
 saṁkīrtana vāda yaiche nahe nadīyāya  
-saṅkīrtana  obstruction  so that  not be  in Nadia
+saṅkīrtana  obstruction  so that  not be  in Nadīyā
 
-(221) The Lord said, “I beg one gift of you: let there be no obstruction to the saṅkīrtana in Nadia.”
+(221) The Lord said, “I beg one gift of you: let there be no obstruction to the saṅkīrtana in Nadīyā.”
 
 কাজী কহে, — মোর বংশে যত উপজিবে ৷  
 তাহাকে ‘তালাক’ দিব, কীর্ত্তন না বাধিবে ॥ ২২২ ॥
@@ -2464,11 +2464,11 @@ seeing  the Lord’s  sorrow  was  boundless
 নিত্যানন্দ হরিদাস ধরি’ উঠাইল ॥ ২৪৫ ॥
 
 sei-kṣaṇe dhāñā prabhu gaṅgāte paḍila  
-at that very moment  running  the Lord  into the Ganges  fell  
+at that very moment  running  the Lord  into the Gaṅgā  fell  
 nityānanda haridāsa dhari’ uṭhāila  
 Nityānanda  Haridāsa  catching hold  lifted out
 
-(245) At once the Lord ran and threw Himself into the Ganges; Nityānanda and Haridāsa caught hold of Him and brought Him out.
+(245) At once the Lord ran and threw Himself into the Gaṅgā; Nityānanda and Haridāsa caught hold of Him and brought Him out.
 
 বিজয় আচার্য্যের ঘরে সে রাত্রে রহিলা ৷  
 প্রাতঃকালে ভক্ত সবে ঘরে লঞা গেলা ॥ ২৪৬ ॥
@@ -2696,9 +2696,9 @@ other  any  means  there is not  this  plan  the best
 ei dṛḍha yukti kari’ prabhu āche ghare  
 this  firm  resolve  making  the Lord  is  at home  
 keśava bhāratī āilā nadīyā-nagare  
-Keśava  Bhāratī  came  to the town of Nadia
+Keśava  Bhāratī  came  to the town of Nadīyā
 
-(268) Having made this firm resolve, the Lord remained at home. Then Keśava Bhāratī came to the town of Nadia.
+(268) Having made this firm resolve, the Lord remained at home. Then Keśava Bhāratī came to the town of Nadīyā.
 
 প্রভু তাঁরে নমস্করি’ কৈল নিমন্ত্রণ ৷  
 ভিক্ষা করাইয়া তাঁরে কৈল নিবেদন ॥ ২৬৯ ॥
@@ -3018,7 +3018,7 @@ Kṛṣṇa  bringing down  made  of devotion  the preaching
 sakhya, dāsya, — dui bhāva sahaja tām̐hāra  
 friendship  servitude  two  moods  natural  His  
 kabhu prabhu karena tām̐re guru-vyavahāra  
-sometimes  the Lord  makes  toward Him  guru-like  dealing
+sometimes  the Lord  makes  towards Him  guru-like  dealing
 
 (299) Friendship and servitude are His two natural moods, and at times the Lord treats Him as His guru.
 
@@ -3395,7 +3395,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 ---
 
-[^1]: *Anubhāṣya*: the *yavanas* are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
+[^1]: *Anubhāṣya*: the yavanas are the mlecchas, those outside Vedic society; devoted to chanting the name, they behave like the good (*sumanasaḥ*). The Lord’s deeds are free (*svaira*) and wondrous — not of this world, and beyond the rules of the smārtas.
 
 [^2]: *Anubhāṣya*: young manhood — once the fifteenth year was past; learning — knowledge of the supreme truth; enjoyment — of garments, garlands, sandal paste and the like; the Lord gave the name of Kṛṣṇa together with love (prema).
 
@@ -3413,11 +3413,11 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^9]: *Amṛta-pravāha-bhāṣya*: Śacī saw this in a dream: Kṛṣṇa and Balarāma, the two Deities of her house, were snatching the offerings with Gaurāṅga and Nityānanda. The next day, as Viśvambhara and Nityānanda were eating in her house, she saw before her eyes that they were Kṛṣṇa and Balarāma.
 
-[^10]: *Amṛta-pravāha-bhāṣya*: on that day Mahāprabhu sat on the couch of Viṣṇu in Śrīvāsa’s house; the devotees bathed Him with Ganges water, reciting the *Puruṣa-sūkta*, and offered Him many foods. For seven praharas He showed the moods of all the avatāras, revealed to the devotees the secrets of their past, removed their doubts and granted boons. This is called the *sāta-prahariyā bhāva*, “the mood of seven praharas”, or the *mahā-prakāśa*, “the great revelation”.
+[^10]: *Amṛta-pravāha-bhāṣya*: on that day Mahāprabhu sat on the couch of Viṣṇu in Śrīvāsa’s house; the devotees bathed Him with Gaṅgā water, reciting the *Puruṣa-sūkta*, and offered Him many foods. For seven praharas He showed the moods of all the avatāras, revealed to the devotees the secrets of their past, removed their doubts and granted boons. This is called the *sāta-prahariyā bhāva*, “the mood of seven praharas”, or the *mahā-prakāśa*, “the great revelation”.
 
 [^11]: *Amṛta-pravāha-bhāṣya*: crying “Boar! Boar!”, the Lord entered Murāri Gupta’s house in the form of Varāha, lifted a water pot with His teeth, as Varāha lifted the earth, and drank. On another day He climbed onto Murāri’s shoulders and danced for a long time.
 
-[^12]: *Amṛta-pravāha-bhāṣya*: Śuklāmbara Brahmacārī lived in Navadvīpa on the bank of the Ganges. Once, while the Lord was dancing, he came with his bag of begged rice, and Mahāprabhu, out of love for His devotee, took the rice from his bag and ate it with great love.
+[^12]: *Amṛta-pravāha-bhāṣya*: Śuklāmbara Brahmacārī lived in Navadvīpa on the bank of the Gaṅgā. Once, while the Lord was dancing, he came with his bag of begged rice, and Mahāprabhu, out of love for His devotee, took the rice from his bag and ate it with great love.
 
 [^13]: *Anubhāṣya*: see Ādi 7.76.
 
@@ -3429,7 +3429,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^17]: *Anubhāṣya*: the worship of Bhavānī is not the act of a Vaiṣṇava. By condemning it the Lord taught that a worldly, mixed (*viddha*) Vaiṣṇava, who at heart holds to many lords and favours the worship of many gods, is bad company.
 
-[^18]: *Anubhāṣya*: Kuliyā is the present town of Navadvīpa on the western bank of the Ganges; in Mahāprabhu’s time Navadvīpa (Antardvīpa, today’s Śrī Māyāpura) lay on the eastern bank. The Kuliyā near Kāñcaḍāpāḍā is not the place where offences were forgiven.
+[^18]: *Anubhāṣya*: Kuliyā is the present town of Navadvīpa on the western bank of the Gaṅgā; in Mahāprabhu’s time Navadvīpa (Antardvīpa, today’s Śrī Māyāpura) lay on the eastern bank. The Kuliyā near Kāñcaḍāpāḍā is not the place where offences were forgiven.
 
 [^19]: In the edition this verse is misnumbered “62”.
 
@@ -3455,7 +3455,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^30]: *Amṛta-pravāha-bhāṣya*: one day, tired during the city kīrtana, the Lord came to the courtyard of a devotee and planted a mango seed there; at once the fruit ripened, and a mango festival began. The place is now known as Āmraghaṭṭa (Āmghāṭā). *Anubhāṣya*: this event is not in the *Caitanya-bhāgavata*.
 
-[^31]: *Amṛta-pravāha-bhāṣya*: one day Mahāprabhu was holding saṅkīrtana far from home when great storm clouds gathered. The Lord willed them to go, and they scattered at once. That sandbank of the Ganges was therefore called Megher Car, “the Sandbank of the Clouds”; since the river has changed its course, it now lies by the village of Belpukhuriyā.
+[^31]: *Amṛta-pravāha-bhāṣya*: one day Mahāprabhu was holding saṅkīrtana far from home when great storm clouds gathered. The Lord willed them to go, and they scattered at once. That sandbank of the Gaṅgā was therefore called Megher Car, “the Sandbank of the Clouds”; since the river has changed its course, it now lies by the village of Belpukhuriyā.
 
 [^32]: The edition’s heading: “The Lord reveals that He is a cowherd.” *Anubhāṣya*: these are the Lord’s confidential words; the story of the astrologer is not in the *Caitanya-bhāgavata*.
 
@@ -3499,7 +3499,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^52]: *Amṛta-pravāha-bhāṣya*: the Muslim mocked them thus: “Some of you are Kṛṣṇadāsas, some Rāmadāsas and Haridāsas, and you keep saying ‘Hari! Hari!’ — but *hari* also means ‘I steal’, so you must be planning to rob someone.” From the day he made this jest, his tongue has been saying “Hari! Hari!” against his will.
 
-[^53]: *Anubhāṣya*: mockery (*parihāsa*) is one of the four kinds of *nāmābhāsa*: “The name of Vaikuṇṭha, uttered to indicate something else, in jest, to fill out a song, or with contempt, destroys all sins” (Bhāg. 6.2.14). *Nāmābhāsa* is not the mere sounding of letters: it points to the eternal Reality and awakens the remembrance of Viṣṇu; it destroys worldly desire, and then the liberated soul, turned towards service, gains the right to chant the pure name.
+[^53]: *Anubhāṣya*: mockery (*parihāsa*) is one of the four kinds of *nāmābhāsa*: “The name of Vaikuṇṭha, uttered to indicate something else, in jest, to fill out a song, or with contempt, destroys all sins” (Śrīmad-Bhāgavatam, 6.2.14). *Nāmābhāsa* is not the mere sounding of letters: it points to the eternal Reality and awakens the remembrance of Viṣṇu; it destroys worldly desire, and then the liberated soul, turned towards service, gains the right to chant the pure name.
 
 [^54]: *Anubhāṣya*: the *pāṣaṇḍīs* are those sunk in ritual (*karma-jaḍa*), worshippers of many gods, hostile to Viṣṇu and the Vaiṣṇavas, idolaters.
 
@@ -3527,13 +3527,13 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^66]: *Amṛta-pravāha-bhāṣya*: *doṣodgāra* — reproach mixed with mockery. *Anubhāṣya* on 247–263: the Lord’s anger at Kṛṣṇa and His reproaches in the mood of a gopī are not of this world. Failing to understand this, a student, a smārta sunk in ritual, argued with Him, and the Lord, filled with the gopīs’ mood, took him for a partisan of Kṛṣṇa and chased him in anger. The student fled; and brāhmaṇas by birth, sunk in ritual and turned away from Hari, conspired in their delusion to beat the Lord. To free them from this calamity the Lord resolved to accept the fourth āśrama, which is honoured even by those proud of their birth and caste. See *Caitanya-bhāgavata*, Madhya 25.
 
-[^67]: *Anubhāṣya*: the true meaning of the śruti is revealed only to one who has supreme devotion to God and the same devotion to the guru (Śvetāśvatara Upaniṣad, 6.23). Prahlāda says that the best learning is when a person first offers himself to Viṣṇu and then serves Him (Bhāg. 7.5.24, with Śrīdhara Svāmī’s comment). But one who, proud of worldly learning, disregards Viṣṇu finds that knowledge does not dawn in him: a master of the Vedas who is not devoted to the Supreme labours in vain (Bhāg. 11.11.18).
+[^67]: *Anubhāṣya*: the true meaning of the śruti is revealed only to one who has supreme devotion to God and the same devotion to the guru (Śvetāśvatara Upaniṣad, 6.23). Prahlāda says that the best learning is when a person first offers himself to Viṣṇu and then serves Him (Śrīmad-Bhāgavatam, 7.5.24, with Śrīdhara Svāmī’s comment). But one who, proud of worldly learning, disregards Viṣṇu finds that knowledge does not dawn in him: a master of the Vedas who is not devoted to the Supreme labours in vain (Śrīmad-Bhāgavatam, 11.11.18).
 
 [^68]: *Anubhāṣya* quotes the Lord’s words from the *Caitanya-bhāgavata* (Madhya 25): “I gave pippali to cure the phlegm, but the phlegm in the body only grew worse.”
 
 [^69]: *Amṛta-pravāha-bhāṣya*: when a brāhmaṇa takes sannyāsa according to the śāstra, everyone — householders and brāhmaṇas alike — bows to him, knowing that a sannyāsī is worthy of homage: “When I take sannyāsa, the blaspheming brāhmaṇas will surely bow to Me and receive a good understanding from Me.” *Anubhāṣya* on 265–266: in those days even brāhmaṇas by birth of godless nature bowed before a Vaiṣṇava sannyāsī — such was good custom; and by the śāstra, one who sees the Deity or a Vaiṣṇava *tridaṇḍī* and does not bow must perform atonement or purify himself by fasting.
 
-[^70]: *Amṛta-pravāha-bhāṣya*: at the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, on the day of the saṅkrānti, before dawn, Mahāprabhu left Navadvīpa, swam across the Ganges at the Nidayā ghāṭa and reached Kāṭoyā (Kaṇṭaka-nagara), where He accepted the (single) daṇḍa from Keśava Bhāratī. At the Lord’s wish Candraśekhara Ācāryaratna performed the rites of sannyāsa; kīrtana went on all day, and only towards evening was the Lord’s head shaved. The next morning Śrī Kṛṣṇa Caitanya, staff in hand, set out to wander through Rāḍha-deśa, and Keśava Bhāratī went some way with Him.
+[^70]: *Amṛta-pravāha-bhāṣya*: at the close of His twenty-fourth year, in the bright fortnight of the month of Māgha, on the day of the saṅkrānti, before dawn, Mahāprabhu left Navadvīpa, swam across the Gaṅgā at the Nidayā ghāṭa and reached Kāṭoyā (Kaṇṭaka-nagara), where He accepted the (single) daṇḍa from Keśava Bhāratī. At the Lord’s wish Candraśekhara Ācāryaratna performed the rites of sannyāsa; kīrtana went on all day, and only towards evening was the Lord’s head shaved. The next morning Śrī Kṛṣṇa Caitanya, staff in hand, set out to wander through Rāḍha-deśa, and Keśava Bhāratī went some way with Him.
 
 [^71]: *Anubhāṣya*: see *Caitanya-bhāgavata*, Madhya 26.
 
@@ -3555,7 +3555,7 @@ Caitanya-caritāmṛta  tells  Kṛṣṇadāsa
 
 [^80]: The edition’s heading: “Without following the *rūpānugas* one cannot fathom Gaura’s rasa of separation (*vipralambha*).”
 
-[^81]: *Anubhāṣya*: Kumbhīpāka is a hell where sinners are cooked in a pot (*kumbhī*); there goes one who cooks animals and birds alive (Bhāg. 5.26.13). The edition’s heading: “The fate of the arguer — ‘the doubter perishes’” (Bhagavad-gītā, 4.40).
+[^81]: *Anubhāṣya*: Kumbhīpāka is a hell where sinners are cooked in a pot (*kumbhī*); there goes one who cooks animals and birds alive (Śrīmad-Bhāgavatam, 5.26.13). The edition’s heading: “The fate of the arguer — ‘the doubter perishes’” (Bhagavad-gītā, 4.40).
 
 [^82]: *Amṛta-pravāha-bhāṣya*: the mark of the inconceivable is that it lies beyond material nature; argument is material and cannot touch that truth, and so it is not to be applied to what is inconceivable. *Anubhāṣya*: in the *Mahābhārata* this is Sañjaya’s reply to Dhṛtarāṣṭra, who wished to hear of the rivers, mountains and forests of the earth; “inconceivable” means beyond the reach of the worldly, pleasure-seeking mind.
 

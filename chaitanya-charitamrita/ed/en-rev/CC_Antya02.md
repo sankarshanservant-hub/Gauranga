@@ -1456,7 +1456,7 @@ in this way  of Haridāsa  one  year  passed
 tabu mahāprabhura mane prasāda nahila  
 yet  Mahāprabhu’s  in the mind  grace  did not arise
 
-(145) In this way a year passed for Haridāsa, yet no grace toward him arose in Mahāprabhu’s mind.
+(145) In this way a year passed for Haridāsa, yet no grace towards him arose in Mahāprabhu’s mind.
 
 রাত্রি-শেষে প্রভুরে দণ্ডবৎ হঞা ৷  
 প্রয়াগেতে গেল কারেহ কিছু না বলিয়া ॥ ১৪৬ ॥

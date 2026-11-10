@@ -86,7 +86,7 @@ in this  way  the six opulences  the abodes  the avatāras
 brahmā, śiva anta nā pāya — jīva kon chāra  
 Brahmā  Śiva  the end  do not  find  the jīva  what  a trifle
 
-(8) Such are His six opulences, His abodes and His *avatāras*. Even Brahmā and Śiva cannot find their end — what then of the insignificant *jīva*?
+(8) Such are His six opulences, His abodes and His avatāras. Even Brahmā and Śiva cannot find their end — what then of the insignificant jīva?
 
 কো বেত্তি ভূমন্ ভগবন্ পরাত্মন্  
 যোগেশ্বরোতীর্ভবতস্ত্রিলোক্যাম্ ৷  
@@ -334,7 +334,7 @@ boundless  opulence  Kṛṣṇa’s  there is no  counting
 śākhā-candra-nyāye kari dig-daraśana  
 of the branch  and the moon  by the maxim  I give  a glimpse
 
-(30) Kṛṣṇa’s opulence is boundless, beyond counting. I have only pointed toward it, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).”
+(30) Kṛṣṇa’s opulence is boundless, beyond counting. I have only pointed towards it, as one shows the moon by pointing to a branch (*śākhā-candra-nyāya*).”
 
 ঐশ্বর্য্য কহিতে স্ফুরিল ঐশ্বর্য্য সাগর ৷  
 মনেন্দ্রিয় ডুবিলা, প্রভু হইলা ফাঁপর ॥ ৩১ ॥
@@ -494,7 +494,7 @@ of sweet majesty  of sweetness  of mercy and the rest  the storehouse
 yogamāyā dāsī yām̐hā rāsādi līlā-sāra  
 Yogamāyā  maidservant  where  the rāsa and the rest  of the pastimes  the essence
 
-(44) It is the storehouse of sweet majesty, sweetness, mercy and every other treasure. There Yogamāyā is the maidservant, and there are the *rāsa* and the other pastimes, the essence of all *līlā*.
+(44) It is the storehouse of sweet majesty, sweetness, mercy and every other treasure. There Yogamāyā is the maidservant, and there are the rāsa and the other pastimes, the essence of all *līlā*.
 
 করুণানিকুরম্বকোমলে মধুরৈশ্বর্য্যবিশেষশালিনি ৷  
 জয়তি ব্রজরাজনন্দনে ন হি চিন্তাকণিকাভ্যুদেতি নঃ ॥ ৪৫ ॥
@@ -602,7 +602,7 @@ Devī-dhāma  the name  its  the jīvas  whose  residents
 jagal-lakṣmī rākhe, yām̐hā rahe māyā-dāsī  
 Jagal-lakṣmī  maintains  where  remains  Māyā  maidservant
 
-(53) Its name is Devī-dhāma, and its residents are the *jīvas*. Jagal-lakṣmī maintains it, and there Māyā remains as a maidservant.
+(53) Its name is Devī-dhāma, and its residents are the jīvas. Jagal-lakṣmī maintains it, and there Māyā remains as a maidservant.
 
 এই তিন ধামের হয় কৃষ্ণ অধীশ্বর ৷  
 গোলোক-পরব্যোম — প্রকৃতির পর ॥ ৫৪ ॥
@@ -1196,7 +1196,7 @@ conquering  of the five-arrowed one  the pride  Himself  a new Cupid
 rāsa kare lañā gopī-gaṇa  
 the rāsa  performs  taking  the gopīs
 
-(107) Mounted on the chariot of the gopīs’ heartfelt desire, He stirs the mind of Cupid himself, and so He is called Madana-mohana. Conquering the pride of the five-arrowed god, He Himself, the new Kandarpa (*nava-kandarpa*), dances the *rāsa* with the gopīs.[^22]
+(107) Mounted on the chariot of the gopīs’ heartfelt desire, He stirs the mind of Cupid himself, and so He is called Madana-mohana. Conquering the pride of the five-arrowed god, He Himself, the new Kandarpa (*nava-kandarpa*), dances the rāsa with the gopīs.[^22]
 
 নিজ-সম সখা-সঙ্গে, গোগণ-চারণ-রঙ্গে,  
 বৃন্দাবনে স্বচ্ছন্দ বিহার ৷  
@@ -1260,7 +1260,7 @@ the gopīs’ fortune  Kṛṣṇa’s qualities  which  made  description
 bhāvāveśe mathurā-nāgarī  
 in ecstatic absorption  of Mathurā  the city women
 
-(111) Speaking of the *rasa* of Kṛṣṇa, the Lord, rapt in love, tenderly took Sanātana’s hand and recited the verse in which the women of Mathurā, absorbed in ecstasy, described the gopīs’ fortune and Kṛṣṇa’s qualities.
+(111) Speaking of the rasa of Kṛṣṇa, the Lord, rapt in love, tenderly took Sanātana’s hand and recited the verse in which the women of Mathurā, absorbed in ecstasy, described the gopīs’ fortune and Kṛṣṇa’s qualities.
 
 গোপ্যস্তপঃ কিমচরন্ যদমুষ্য রূপং  
 লাবণ্যসারমসমোর্দ্ধ্বমনন্যসিদ্ধম্ ৷  
@@ -1321,7 +1321,7 @@ who  the source of all avatāras  of Paravyoma  the ruler
 e mādhurya nāhi nārāyaṇe  
 this  sweetness  there is not  in Nārāyaṇa
 
-(115) Among all the divine forms in Paravyoma there is nothing higher than this sweetness, nor anything equal to it. Even Nārāyaṇa, the source of all the *avatāras* and the ruler of Paravyoma, does not possess this sweetness.
+(115) Among all the divine forms in Paravyoma there is nothing higher than this sweetness, nor anything equal to it. Even Nārāyaṇa, the source of all the avatāras and the ruler of Paravyoma, does not possess this sweetness.
 
 তাতে সাক্ষী সেই রমা, নারায়ণের প্রিয়তমা,  
 পতিব্রতাগণের উপাস্যা ৷  
@@ -1385,7 +1385,7 @@ only  who  on the path of spontaneous love  worships  Kṛṣṇa  with deep att
 tām̐re kṛṣṇa-mādhurya sulabha  
 for him  Kṛṣṇa’s sweetness  easy to attain
 
-(119) Through *karma*, austerity, yoga, knowledge, devotion according to rules (*vidhi-bhakti*), *japa* or meditation this sweetness is hard to attain. Only one who worships Kṛṣṇa with deep attachment (*anurāga*) on the path of spontaneous love (*rāga-mārga*) attains Kṛṣṇa’s sweetness easily.
+(119) Through karma, austerity, yoga, knowledge, devotion according to rules (*vidhi-bhakti*), *japa* or meditation this sweetness is hard to attain. Only one who worships Kṛṣṇa with deep attachment (*anurāga*) on the path of spontaneous love (*rāga-mārga*) attains Kṛṣṇa’s sweetness easily.
 
 সেইরূপ ব্রজাশ্রয়, ঐশ্বর্য্য-মাধুর্য্যময়,  
 দিব্যগুণগণ-রত্নালয় ৷  

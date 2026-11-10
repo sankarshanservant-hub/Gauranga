@@ -760,7 +760,7 @@ tr: Go home free from care. Soon, without obstacles, you will attain the feet of
 
 ## 144
 w: all  through the devotees  on him  blessing  He had bestowed
-w: their  all  the feet  Raghunātha  honored
+w: their  all  the feet  Raghunātha  honoured
 tr: Through all the devotees the Lord had him blessed, and Raghunātha bowed at the feet of them all.
 fn: *Karāilā*, causative: Nityānanda had the devotees bless him (so also the edition heading).
 
@@ -848,7 +848,7 @@ w: Yadunandana Ācārya  then  made  his entrance
 tr: When four *daṇḍas* of the night remained, Yadunandana Ācārya came in.
 
 ## 161
-w: of Vāsudeva Datta  he  is  ‘favored’
+w: of Vāsudeva Datta  he  is  ‘favoured’
 w: Raghunātha’s  ‘guru’  he  is  ‘purohita’
 tr: He had received the favour of Vāsudeva Datta; he was Raghunātha’s guru and family priest (*purohita*).
 fn: *Anubhāṣya*: Vāsudeva Datta Ṭhākura was not a brāhmaṇa by birth, yet Yadunandana honoured him as the guru who had shown him grace (*anugraha*); he did not regard a Vaiṣṇava as a member of a caste.
@@ -1009,7 +1009,7 @@ w: rising  the Lord  in mercy  him  embraced
 tr: The Lord said, “Come!” Raghunātha clasped His feet, and the Lord rose and mercifully embraced him.
 
 ## 192
-w: of Svarūpa and all  the devotees  the feet  he honored
+w: of Svarūpa and all  the devotees  the feet  he honoured
 w: the Lord’s mercy  seeing  all  embraced him
 tr: He bowed at the feet of Svarūpa and all the devotees, and they all, seeing the Lord’s mercy on him, embraced him.
 
@@ -1040,7 +1040,7 @@ w: as happiness  they take  of the poison of sense objects  the great torment
 tr: Your father and uncle are worms in the cesspit of worldly stool: the great torment caused by the poison of sense objects they take for happiness.
 
 ## 198
-w: although  piety toward brāhmaṇas  they show  of the brāhmaṇas  helpers
+w: although  piety towards brāhmaṇas  they show  of the brāhmaṇas  helpers
 w: ‘pure Vaiṣṇavas’  not  ‘almost Vaiṣṇavas’
 tr: Though they are devoted to brāhmaṇas and help them, they are not pure Vaiṣṇavas — only ‘almost Vaiṣṇavas’.
 

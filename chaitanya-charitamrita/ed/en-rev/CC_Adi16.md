@@ -1152,7 +1152,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^5]: *Amṛta-pravāha-bhāṣya*: *sādhya* is what is attained; *sādhana* is the means by which it is attained.
 
-[^6]: *Anubhāṣya*: one who seeks the highest good should not study many books or live by expounding scripture (*Śrīmad-Bhāgavatam* 7.13.8); the flowery words of scriptures that nourish karma and knowledge lead the inexperienced away from pure devotion (11.21.30, 36). Through Tapana Miśra’s doubts the Lord teaches those who follow many scriptures and many teachers. Later, in Vārāṇasī, Tapana Miśra heard the Lord’s answers to Śrī Sanātana’s questions on the goal and the means, and his doubts were resolved.
+[^6]: *Anubhāṣya*: one who seeks the highest good should not study many books or live by expounding scripture (Śrīmad-Bhāgavatam, 7.13.8); the flowery words of scriptures that nourish karma and knowledge lead the inexperienced away from pure devotion (11.21.30, 36). Through Tapana Miśra’s doubts the Lord teaches those who follow many scriptures and many teachers. Later, in Vārāṇasī, Tapana Miśra heard the Lord’s answers to Śrī Sanātana’s questions on the goal and the means, and his doubts were resolved.
 
 [^7]: *Amṛta-pravāha-bhāṣya*: the Lord said that neither knowledge of the non-dual Brahman nor the pleasures of heaven is the goal of the soul; its only goal is love for Kṛṣṇa. Karma and knowledge are not the means to it; the only means is pure devotion that takes shelter of the name of Kṛṣṇa.
 

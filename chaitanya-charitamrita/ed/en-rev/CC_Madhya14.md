@@ -1595,7 +1595,7 @@ enjoyed  within Himself  keeping His amorous feelings
 sarvāḥ śarat-kāvya-kathā-rasāśrayāḥ  
 all  of autumn  of poetic narrations  the abodes of rasa
 
-(158) “Thus Kṛṣṇa, whose desires are ever true, spent in the *rāsa* dance all those autumn nights resplendent with moonlight — nights that poetry sings of as the abode of rasa. The maidens devoted to Him were all around Him, yet He kept His amorous feelings within Himself.” (Śrīmad-Bhāgavatam, 10.33.25)[^35]
+(158) “Thus Kṛṣṇa, whose desires are ever true, spent in the rāsa dance all those autumn nights resplendent with moonlight — nights that poetry sings of as the abode of rasa. The maidens devoted to Him were all around Him, yet He kept His amorous feelings within Himself.” (Śrīmad-Bhāgavatam, 10.33.25)[^35]
 
 ‘বামা’ এক গোপীগণ, ‘দক্ষিণা’ এক গণ ৷  
 নানা-ভাবে করায় কৃষ্ণের রস আস্বাদন ॥ ১৫৯ ॥
@@ -1689,7 +1689,7 @@ eight  sāttvika  joy and the rest  vyabhicārī  whose
 ‘sahaja prema’, viṁśati ‘bhāva’-alaṅkāra  
 natural  love  twenty  bhāva ornaments
 
-(167) Hers are the eight *sāttvika* transformations, the *vyabhicārī-bhāvas* beginning with joy, Her natural love and the twenty ornaments of *bhāva*:
+(167) Hers are the eight sāttvika transformations, the *vyabhicārī-bhāvas* beginning with joy, Her natural love and the twenty ornaments of *bhāva*:
 
 ‘কিলকিঞ্চিত’, ‘কুট্টমিত’, ‘বিলাস’, ‘ললিত’ ৷  
 ‘বিব্বোক’, ‘মোট্টায়িত’, আর ‘মৌগ্ধ্য’, ‘চকিত’ ॥ ১৬৮ ॥
@@ -2659,9 +2659,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^4]: Heading in the edition: “Dressed as a humble Vaiṣṇava, with the permission of all the Vaiṣṇavas, [the king] massages the feet of the Lord, who lies with His eyes closed.”
 
-[^5]: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the *rāsa* dance (Śrīmad-Bhāgavatam, 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
+[^5]: *Amṛta-pravāha-bhāṣya*: the chapter “*Jayati te ’dhikam*” is the *Gopī-gītā*, one of the five chapters of the rāsa dance (Śrīmad-Bhāgavatam, 10.31). Heading in the edition: “The king recites the *Gopī-gītā*.”
 
-[^6]: *Anubhāṣya*: the gopīs sing this verse when Kṛṣṇa has vanished from the *rāsa* dance; *tapta-jīvanam* — the life of those who burn in separation from Him; *kalmaṣāpaham* — taking away the anguish of the fever of separation; *kavi* — those who know the rasa of Kṛṣṇa. Heading in the edition: “One who gives away the nectar of the Lord’s narrations is the most munificent of givers.”
+[^6]: *Anubhāṣya*: the gopīs sing this verse when Kṛṣṇa has vanished from the rāsa dance; *tapta-jīvanam* — the life of those who burn in separation from Him; *kalmaṣāpaham* — taking away the anguish of the fever of separation; *kavi* — those who know the rasa of Kṛṣṇa. Heading in the edition: “One who gives away the nectar of the Lord’s narrations is the most munificent of givers.”
 
 [^7]: Heading in the edition: “Unaware [of who was before Him, the Lord] embraces the king.” *Anubhāṣya*: the first *iṅho* is Mahāprabhu, the second the king Pratāparudra.
 
@@ -2703,7 +2703,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^26]: Heading in the edition: “Kāśī Miśra seats the Lord in the best place.”
 
-[^27]: *Anubhāṣya*: out of compassion for the *jīvas*, Śrī Jagannāthadeva sits in the temple at Nīlācala and shows Kṛṣṇa’s pastimes of Dvārakā; once a year there awakens in Him an intense longing to see Sundarācala, which is like Vṛndāvana.
+[^27]: *Anubhāṣya*: out of compassion for the jīvas, Śrī Jagannāthadeva sits in the temple at Nīlācala and shows Kṛṣṇa’s pastimes of Dvārakā; once a year there awakens in Him an intense longing to see Sundarācala, which is like Vṛndāvana.
 
 [^28]: *Anubhāṣya*: Lakṣmī cannot take part in the pastimes of Vṛndāvana, and so Jagannātha does not take her with Him when He goes to Sundarācala.
 
@@ -2719,7 +2719,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^34]: *Anubhāṣya*: *rasābhāsa* is a “semblance of rasa”, a rasa in which its defining marks are distorted (*Bhakti-rasāmṛta-sindhu*, Uttara-vibhāga, 9th wave); it is of three kinds — *uparasa*, *anurasa* and *aparasa*.
 
-[^35]: *Anubhāṣya*: *avaruddha-saurata* — He is *ātmārāma*, the transcendental Kāmadeva. *Amṛta-pravāha-bhāṣya*: the gopīs, Vṛndāvana, those nights and the *rāsa* dance itself are wholly spiritual; Kṛṣṇa never so much as glances at material love.
+[^35]: *Anubhāṣya*: *avaruddha-saurata* — He is *ātmārāma*, the transcendental Kāmadeva. *Amṛta-pravāha-bhāṣya*: the gopīs, Vṛndāvana, those nights and the rāsa dance itself are wholly spiritual; Kṛṣṇa never so much as glances at material love.
 
 [^36]: *Anubhāṣya* (after the *Ujjvala-nīlamaṇi*): the *vāmā* heroine is ever ready for *māna*, is angered when it slackens and does not yield to the hero; the *dakṣiṇā* cannot bear prolonged *māna* and softens at his tender words.
 

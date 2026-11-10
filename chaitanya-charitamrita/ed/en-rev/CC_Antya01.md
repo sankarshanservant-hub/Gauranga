@@ -270,7 +270,7 @@ of all  the Vaiṣṇavas  in the minds  wonder  arose
 পূর্ব্ববৎ মহাপ্রভু মিলিলা সকলে ॥ ২৫ ॥
 
 utkaṇṭhāya cali’ sabe āilā nīlācale  
-anxiously  traveling  all  came  to Nīlācala  
+anxiously  travelling  all  came  to Nīlācala  
 pūrvavat mahāprabhu mililā sakale  
 as before  Mahāprabhu  met  with all
 
@@ -332,7 +332,7 @@ seeing  of the people  in the minds  arose  wonder
 śivānanda kukkura dekhi’ daṇḍavat kailā  
 Śivānanda  the dog  seeing  obeisance  offered  
 dainya kari’ nija aparādha kṣamāilā  
-humility  showing  his own  offense  had forgiven
+humility  showing  his own  offence  had forgiven
 
 (31) When Śivānanda saw the dog, he bowed down before it and humbly begged forgiveness for his offence.
 
@@ -380,7 +380,7 @@ the invocation  the nāndī verse  right there  he wrote
 কড়চা করিয়া কিছু লাগিলা লিখিতে ॥ ৩৬ ॥
 
 pathe cali’ āise nāṭakera ghaṭanā bhāvite  
-on the road  traveling  he comes  of the drama  the plot  pondering  
+on the road  travelling  he comes  of the drama  the plot  pondering  
 kaḍacā kariyā kichu lāgilā likhite  
 a draft  making  something  he began  to write
 
@@ -1112,7 +1112,7 @@ of Śrī  Rūpa  the qualities  to both  He began  to tell
 অল্পসেবা বহু মানে আত্মপর্য্যন্ত প্রসাদ ॥ ১০৭ ॥
 
 ‘īśvara-svabhāva’ — bhaktera nā laya aparādha  
-the nature of the Lord:  of the devotee  not  He takes  the offenses  
+the nature of the Lord:  of the devotee  not  He takes  the offences  
 alpa-sevā bahu māne ātma-paryanta prasāda  
 small service  great  He considers,  up to Himself  grace
 
@@ -1124,15 +1124,15 @@ small service  great  He considers,  up to Himself  grace
 শীলেন নির্ম্মলমতিঃ পুরুষোত্তমোঽয়ম্ ॥ ১০৮ ॥
 
 bhṛtyasya paśyati gurūn api nāparādhān  
-of the servant  He sees  grave  even  not  the offenses  
+of the servant  He sees  grave  even  not  the offences  
 sevāṁ manāg api kṛtāṁ bahudhābhyupaiti  
 service  slight  even  done  manifold  He accepts  
 āviṣkaroti piśuneṣv api nābhyasūyāṁ  
-He shows  toward slanderers  even  not  ill will  
+He shows  towards slanderers  even  not  ill will  
 śīlena nirmala-matiḥ puruṣottamo ’yam  
 by nature  pure in mind  Puruṣottama  this
 
-(108) “This Lord Puruṣottama, pure in mind by nature, does not see even the grave offences of His servant; He accepts even the slightest service as many times greater; and even toward those who slander Him He shows no ill will.” (Bhakti-rasāmṛta-sindhu, 2.1.138)[^24]
+(108) “This Lord Puruṣottama, pure in mind by nature, does not see even the grave offences of His servant; He accepts even the slightest service as many times greater; and even towards those who slander Him He shows no ill will.” (Bhakti-rasāmṛta-sindhu, 2.1.138)[^24]
 
 ভক্তসঙ্গে প্রভু আইলা, দেখি’ দুই জন ৷  
 দণ্ডবৎ হঞা কৈলা চরণ বন্দন ॥ ১০৯ ॥
@@ -1591,7 +1591,7 @@ Rāya  says  tell  let us see  of bhāva  the nature
 rūpa kahe, — aiche haya kṛṣṇa-viṣayaka ‘bhāva’  
 Rūpa  says  such  is  Kṛṣṇa  concerning  bhāva
 
-(147) Rāya said, “Tell us now the nature of *bhāva*.” Rūpa answered that *bhāva* directed toward Kṛṣṇa is like this:
+(147) Rāya said, “Tell us now the nature of *bhāva*.” Rūpa answered that *bhāva* directed towards Kṛṣṇa is like this:
 
 পীড়াভির্নবকালকূটকটুতা-গর্ব্বস্য নির্ব্বাসনো  
 নিঃস্যন্দেন মুদাং সুধা-মধুরিমাহঙ্কার-সঙ্কোচনঃ ৷  
@@ -1711,7 +1711,7 @@ eager to break  the mountain of elders  swiftly  crossing
 lebhe kṛṣṇārṇava nava-rasā rādhikā-vāhinī tvāṁ  
 has reached  O Kṛṣṇa-ocean  full of fresh rasa  the river Rādhikā  You  
 vāg-vīcibhiḥ kim iva vimukhī-bhāvam asyās tanoṣi  
-with waves of words  why  then  estrangement  toward her  You show
+with waves of words  why  then  estrangement  towards her  You show
 
 (155) “O ocean Kṛṣṇa, the river Rādhikā, full of fresh rasa, has left far behind on her way the tree of her husband that stood beside her, broken through the bridge of dharma, and swiftly crossed the mountain of her elders, and she has reached You. Why, then, do You turn her away with the waves of Your words?” (Vidagdha-mādhava, 3.9)
 

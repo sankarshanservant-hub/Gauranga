@@ -264,7 +264,7 @@ Me  you made  chastisement  others  who  are
 mātāra gṛhe raha yāi’ mātāra caraṇe  
 of My mother  in the house  stay  going  of My mother  at the feet  
 tomāra āge nāhi kāro svacchandācaraṇe  
-you  before  there is not  of anyone  willful behaviour
+you  before  there is not  of anyone  wilful behaviour
 
 (25) Go and stay in My mother’s house, at her feet. Before you no one will dare to behave as he pleases.
 
@@ -2291,7 +2291,7 @@ Kṛṣṇa  to make descend  Advaita  a vow  made
 jala-tulasī diyā pūjā karite lāgilā  
 water and tulasī  offering  worship  to do  began
 
-(222) Advaita vowed to bring Kṛṣṇa down to this world, and He began to worship Him with water and *tulasī*.
+(222) Advaita vowed to bring Kṛṣṇa down to this world, and He began to worship Him with water and tulasī.
 
 হরিদাস করে গোঁফায় নাম-সঙ্কীর্ত্তন ৷  
 কৃষ্ণ অবতীর্ণ হইবেন, — এই তাঁর মন ॥ ২২৩ ॥

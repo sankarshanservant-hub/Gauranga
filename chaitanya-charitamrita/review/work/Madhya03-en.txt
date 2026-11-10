@@ -99,7 +99,7 @@ fn: *Anubhāṣya*: *prabandha* — a well-composed story.
 
 ## 17
 w: of Vṛndāvana  the way  the Lord  asks  you
-w: along the bank of the Ganges  the path  then  show  Him
+w: along the bank of the Gaṅgā  the path  then  show  Him
 tr: “When the Lord asks you the way to Vṛndāvana, show Him the path along the bank of the Gaṅgā.”
 
 ## 18
@@ -108,7 +108,7 @@ w: tell  please  by which  path  shall I go  to Vṛndāvana
 tr: Then the Lord asked, “Listen, children! Tell Me, which way should I take to Vṛndāvana?”
 
 ## 19
-w: the children  all  the path along the Ganges’ bank  showed
+w: the children  all  the path along the Gaṅgā’ bank  showed
 w: that  by path  in absorption  the Lord  going  made
 tr: The children showed Him the path along the bank of the Gaṅgā, and the Lord, absorbed in rapture, went that way.
 fn: Heading in the edition: “At Nitāi’s word they show the Lord the way to Navadvīpa”.
@@ -146,8 +146,8 @@ w: He  says  take  this  of the Yamunā  sight
 tr: The Lord asked, “How far is Vṛndāvana?” Nityānanda replied, “Look, here is the Yamunā!”
 
 ## 26
-w: thus  saying  brought  Him  to the Ganges’  vicinity
-w: in ecstasy  the Lord’s  arose  the Ganges  as the Yamunā perceiving
+w: thus  saying  brought  Him  to the Gaṅgā’  vicinity
+w: in ecstasy  the Lord’s  arose  the Gaṅgā  as the Yamunā perceiving
 tr: With these words He brought Mahāprabhu to the Gaṅgā, and in His rapture the Lord saw the Gaṅgā as the Yamunā.
 fn: Heading in the edition: “The Gaṅgā awakens in Mahāprabhu the remembrance of the Yamunā”.
 
@@ -165,7 +165,7 @@ tr: “She is ever the object of the supreme love of Nanda’s son, the sun of c
 fn: Heading in the edition: the words of the *Padma Purāṇa*, quoted in the *Caitanya-candrodaya-nāṭaka* (5.13). *Anubhāṣya*: *cid-ānanda-bhānu* — Kṛṣṇa, who reveals knowledge and love (*saṁvit* and *prīti*); *drava-brahma-gātrī* — whose form is spiritual water; *aghānām* — of offences; the body is purified by divine knowledge.
 
 ## 29
-w: thus  saying  bowing down  did  bath in the Ganges
+w: thus  saying  bowing down  did  bath in the Gaṅgā
 w: one  kaupīna  not  second  garment
 tr: Saying this, He bowed down and bathed in the Gaṅgā. He had only a single *kaupīna* and no other cloth.
 
@@ -187,12 +187,12 @@ tr: “You are Ācārya Gosāñi, aren’t You? Why have You come here? How did 
 
 ## 33
 w: the Ācārya  says  You  wherever  that  is Vṛndāvana
-w: by My  fortune  to the Ganges’ bank  Your  coming
+w: by My  fortune  to the Gaṅgā’ bank  Your  coming
 tr: The Ācārya said, “Wherever You are, that is Vṛndāvana. It is My good fortune that You have come to the bank of the Gaṅgā.”
 
 ## 34
 w: the Lord  says  Nityānanda  Me  has deceived
-w: to the Ganges  bringing  to Me  the Yamunā  called it
+w: to the Gaṅgā  bringing  to Me  the Yamunā  called it
 tr: The Lord said, “Nityānanda has deceived Me! He brought Me to the Gaṅgā and told Me it was the Yamunā.”
 fn: *Anubhāṣya*: *gaṅgāke* (“to the Gaṅgā”) — a form of the speech of Rāḍha, where the author lived before taking sannyāsa: there the locative ending *-e* is still replaced by *-ke*.
 
@@ -202,8 +202,8 @@ w: in the Yamunā  bath  You  took  just now
 tr: The Ācārya said, “Śrīpāda’s words are not false. Just now You did bathe in the Yamunā.
 
 ## 36
-w: in the Ganges  the Yamunā  flows  becoming  one stream
-w: on the west  the Yamunā  flows  on the east  the Ganges’ stream
+w: in the Gaṅgā  the Yamunā  flows  becoming  one stream
+w: on the west  the Yamunā  flows  on the east  the Gaṅgā’ stream
 tr: Here the Yamunā flows in the Gaṅgā, and the two run as one stream: on the west flows the Yamunā, on the east the Gaṅgā.
 
 ## 37

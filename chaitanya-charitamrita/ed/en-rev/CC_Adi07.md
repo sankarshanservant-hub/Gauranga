@@ -1407,7 +1407,7 @@ in His own form and majesty  His  there is not  of māyā  a trace
 sakala vedera haya bhagavān se ‘sambandha’  
 of all  the Vedas  is  Bhagavān  that  ‘sambandha’
 
-(139) In His own form and majesty there is not a trace of *māyā*; in all the Vedas Bhagavān is the *sambandha* — the One to whom everything is related.
+(139) In His own form and majesty there is not a trace of māyā; in all the Vedas Bhagavān is the *sambandha* — the One to whom everything is related.
 
 তাঁরে ‘নির্ব্বিশেষ’ কহি, চিচ্ছক্তি না মানি’ ৷  
 অর্দ্ধ স্বরূপ না মানিলে পূর্ণতা হয় হানি ॥ ১৪০ ॥
@@ -1745,7 +1745,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^7]: *Anubhāṣya*: Śrī Mahāprabhu is the highest Truth, above all, while Śrī Nityānanda and Śrī Advaita are *īśvara-tattvas* subordinate to Him; all three are worshipable by everyone else. The fourth truth is the pure devotees, the fifth the intimate (*antaraṅga*) devotees; both are worshippers. The two worshipable truths, though the last two worship them, are themselves engaged in the service of Śrī Gaurāṅga.
 
-[^8]: *Anubhāṣya*: the truths of *śakti* — the intimate devotees — abide in *madhura-rasa*, which includes *vātsalya*, *sakhya* and *dāsya*; the servants of Śrī Nityānanda and Śrī Advaita, the pure devotees, usually abide in *vātsalya*, *sakhya*, *dāsya* and *śānta*. When their love for Śrī Gaurasundara grows intense, they take shelter of *madhura-rasa* under the guidance of the intimate devotees. Pure devotees are those who, free from other desires, do not cover their service to Kṛṣṇa with *karma* or *jñāna*; the intimate devotees are those wholly given to *madhura-rasa* alone.
+[^8]: *Anubhāṣya*: the truths of *śakti* — the intimate devotees — abide in *madhura-rasa*, which includes *vātsalya*, *sakhya* and *dāsya*; the servants of Śrī Nityānanda and Śrī Advaita, the pure devotees, usually abide in *vātsalya*, *sakhya*, *dāsya* and *śānta*. When their love for Śrī Gaurasundara grows intense, they take shelter of *madhura-rasa* under the guidance of the intimate devotees. Pure devotees are those who, free from other desires, do not cover their service to Kṛṣṇa with karma or jñāna; the intimate devotees are those wholly given to *madhura-rasa* alone.
 
 [^9]: *Anubhāṣya*: “with them” — with all four: with His *prakāśa* (Śrī Nityānanda), with the avatāra of the Puruṣa (Śrī Advaita), with the intimate devotees and with the pure devotees. The edition’s heading: “With the four truths — the Lord’s pastimes, preaching, tasting and giving.”
 
@@ -1795,7 +1795,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: The edition’s heading to 7.109: “Hearing Śaṅkara’s commentary, composed in the secondary sense to bewilder the asuras, brings ruin.” *Amṛta-pravāha-bhāṣya*: Śaṅkara, an avatāra of Śiva, was carrying out the Lord’s will, and therefore he is not at fault. In the *Padma Purāṇa* Śiva says: “Māyāvāda is a false doctrine, Buddhism in disguise. In the age of Kali I Myself, in the form of a brāhmaṇa, shall set it forth to bewilder the world.”
 
-[^33]: *Anubhāṣya*: *yayā* — “by that conscious potency called the jīva”; *dhāryate* — “is taken up for one’s own enjoyment”. *Amṛta-pravāha-bhāṣya*: earth, water, fire, air, ether, mind, intelligence and false ego make up the inferior nature, *māyā*; the other, superior nature is the jīvas, and *māyā* has no part in forming the jīva — only its seeming material self belongs to *māyā*.
+[^33]: *Anubhāṣya*: *yayā* — “by that conscious potency called the jīva”; *dhāryate* — “is taken up for one’s own enjoyment”. *Amṛta-pravāha-bhāṣya*: earth, water, fire, air, ether, mind, intelligence and false ego make up the inferior nature, māyā; the other, superior nature is the jīvas, and māyā has no part in forming the jīva — only its seeming material self belongs to māyā.
 
 [^34]: *Amṛta-pravāha-bhāṣya*: Viṣṇu’s potency is threefold: the superior (*parā*) is the spiritual potency (*cit-śakti*); the *kṣetrajña* is the jīva potency; that called ignorance and karma is *māyā*.
 
@@ -1811,13 +1811,13 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^40]: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of the Vedas; it stands at the beginning and at the end of every Vedic mantra and is the Lord Himself in sound: “The sound *a* denotes Kṛṣṇa, the one Lord of all the worlds; *u* denotes Rādhā; and *m* the jīva.”
 
-[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
+[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (Chāndogya Upaniṣad, 6.8.7) applies only to one part of it.
 
 [^42]: *Anubhāṣya*: “In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — at the beginning, in the middle and at the end — Hari alone is sung everywhere.”
 
 [^43]: *Amṛta-pravāha-bhāṣya*: “O Śrī Kṛṣṇa Caitanya, the reasoning by which You have refuted Śaṅkara’s meaning is no idle quarrel: a fortunate person accepts it as the truth.”
 
-[^44]: The edition’s heading: “The Lord’s explanation: (1) Bhagavān Kṛṣṇa is the *sambandha*.” *Amṛta-pravāha-bhāṣya*: in the *Bṛhad-āraṇyaka Upaniṣad* (*pūrṇam adaḥ…*, 5.1) the Supreme Truth, full of the six opulences, is called “the great reality”; the Purāṇas describe the same marks by the word “Bhagavān”. So wherever the Vedas say “Brahman”, the word fulfils its meaning when it is understood as Śrī Bhagavān.
+[^44]: The edition’s heading: “The Lord’s explanation: (1) Bhagavān Kṛṣṇa is the *sambandha*.” *Amṛta-pravāha-bhāṣya*: in the *Bṛhad-āraṇyaka Upaniṣad* (pūrṇam adaḥ…, 5.1) the Supreme Truth, full of the six opulences, is called “the great reality”; the Purāṇas describe the same marks by the word “Bhagavān”. So wherever the Vedas say “Brahman”, the word fulfils its meaning when it is understood as Śrī Bhagavān.
 
 [^45]: *Amṛta-pravāha-bhāṣya*: Bhagavān, embracing the featureless aspect within Himself, is eternally endowed with attributes; to call Him featureless is not to accept His *cit-śakti*. Brahman possesses spiritual potency and is therefore personal; one who does not accept half of His being diminishes His fullness.
 

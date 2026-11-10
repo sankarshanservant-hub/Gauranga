@@ -76,7 +76,7 @@ in the rāsa  as  home  to go  to the gopīs  an order  He gave
 tām̐ra ājñā bhāṅgi’ tām̐ra saṅge se rahilā  
 His  order  breaking  with Him  they  remained
 
-(7) So it was in the *rāsa* dance: He told the gopīs to go home, but they broke His order and stayed with Him.
+(7) So it was in the rāsa dance: He told the gopīs to go home, but they broke His order and stayed with Him.
 
 আজ্ঞা-পালনে কৃষ্ণের যৈছে পরিতোষ ৷  
 প্রেমে আজ্ঞা ভাঙ্গিলে হয় কোটি-সুখ-পোষ ॥ ৮ ॥
@@ -183,7 +183,7 @@ in śuktā leaves and kāśandi  great joy  there is
 গুরু-ভোজনে উদরে কভু ‘আম’ হঞা যায় ॥ ১৯ ॥
 
 ‘manuṣya’-buddhi damayantī kare prabhura pāya  
-human  regard  Damayantī  holds  the Lord’s  toward the feet  
+human  regard  Damayantī  holds  the Lord’s  towards the feet  
 guru-bhojane udare kabhu ‘āma’ hañā yāya  
 from heavy eating  in the stomach  sometimes  āma  becoming  goes
 
@@ -942,7 +942,7 @@ in the same way  why  prasāda  to take  not  did you  go
 govinda kahe, — āmāra ‘sevā’ se ‘niyama’  
 Govinda  said (to himself)  my  service  that  rule  
 aparādha hauka, kibā narake gamana  
-offense  let there be,  or  to hell  going
+offence  let there be,  or  to hell  going
 
 (95) Govinda said within himself, “For me, service is the rule. Let it be an offence; let me even go to hell.
 
@@ -950,9 +950,9 @@ offense  let there be,  or  to hell  going
 স্ব-নিমিত্ত ‘অপরাধাভাসে’ ভয় মানি ॥ ৯৬ ॥
 
 ‘sevā’ lāgi’ koṭi ‘aparādha’ nāhi gaṇi  
-service  for the sake of  ten million  offenses  not  I count  
+service  for the sake of  ten million  offences  not  I count  
 sva-nimitta ‘aparādhābhāse’ bhaya māni  
-for my own sake  of the shadow of offense  fear  I feel
+for my own sake  of the shadow of offence  fear  I feel
 
 (96) For the sake of service I do not count even ten million offences, but for my own sake I fear even the shadow of an offence.”[^23]
 
@@ -982,7 +982,7 @@ of that  day  the weariness  seeing  he began  to press
 yāiteha patha nāhi, yāibena kemane?  
 even to go  way  there is not;  he would go  how  
 mahā-aparādha haya prabhura laṅghane  
-great  offense  is  of the Lord  in stepping over
+great  offence  is  of the Lord  in stepping over
 
 (99) And there was no way out: how could he leave? To step over the Lord is a great offence.
 
@@ -1130,7 +1130,7 @@ another  day  to the Lord  says  words of despair
 তোমারে খাওয়াইতে বস্তু দেন মোর স্থানে ॥ ১১৪ ॥
 
 ācāryādi mahāśaya kariyā yatane  
-the Ācārya  and other  honored men  with  care  
+the Ācārya  and other  honoured men  with  care  
 tomāre khāoyāite vastu dena mora sthāne  
 You  to feed  things  give  my  in the place
 

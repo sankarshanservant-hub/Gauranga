@@ -257,7 +257,7 @@ w: unbearable  pain  in agony  burns  his heart
 tr: Worms covered his whole body and gnawed at him without rest; the pain was unbearable, and his heart burned with agony.
 
 ## 47
-w: at a Ganges ghāṭa  under a tree  remains  indeed  sitting
+w: at a Gaṅgā ghāṭa  under a tree  remains  indeed  sitting
 w: one day  says  something  the Lord  seeing
 tr: He sat under a tree at a ghāṭa on the Ganges, and one day, seeing the Lord, he spoke to Him:
 
@@ -293,7 +293,7 @@ w: the unbelievers  destroying  bhakti  I shall  spread
 tr: I have come to destroy the unbelievers, and when they are gone I shall spread devotion everywhere.”
 
 ## 54
-w: this  saying  went  the Lord  to take  His bath in the Ganges
+w: this  saying  went  the Lord  to take  His bath in the Gaṅgā
 w: that  sinner  suffering  endures  not  goes  life
 tr: With these words the Lord went to bathe in the Ganges, and the sinner went on suffering, unable to die.
 
@@ -327,7 +327,7 @@ tr: Another brāhmaṇa came to see the kīrtana, but the door was shut and he c
 
 ## 61
 w: returning  went  the brāhmaṇa  home  in his mind  grief  feeling
-w: another  day  to the Lord  says  at the Ganges  seeing
+w: another  day  to the Lord  says  at the Gaṅgā  seeing
 tr: He went home with a heavy heart, and the next day, seeing the Lord at the Ganges, he said to Him:
 fn: In the edition this verse is misnumbered “62”.
 
@@ -399,7 +399,7 @@ tr: Hearing the name called an exaggeration, the Lord was pained, and He forbade
 fn: *Anubhāṣya*: to think the glory of the holy name, which is not different from Kṛṣṇa, an exaggeration (*arthavāda*) — something unreal — is sheer unbelief, opposition to the Lord. *Amṛta-pravāha-bhāṣya*: this is an offence against the name, and no offence is more terrible; on seeing the face of one who offends the name, one should bathe in one’s clothes.
 
 ## 74
-w: with His associates  in their clothes  going  made  bath in the Ganges
+w: with His associates  in their clothes  going  made  bath in the Gaṅgā
 w: of bhakti  the glory  there  made  explanation
 tr: Then He went with His companions and bathed in the Ganges in His clothes, and there He explained the glory of devotion.
 
@@ -620,7 +620,7 @@ tr: One day, sitting in the hall of Viṣṇu, the Lord called out, “Bring hon
 
 ## 116
 w: Nityānanda Gosāñi  of the Lord  the mood  understood
-w: Ganges water  a pot of  bringing  before Him  held
+w: Gaṅgā water  a pot of  bringing  before Him  held
 tr: Nityānanda Gosāñi understood the Lord’s mood; He brought a pot of Ganges water and held it before the Lord.
 
 ## 117
@@ -643,7 +643,7 @@ fn: *Anubhāṣya*: according to the *Caitanya-maṅgala*, Vanamālī was a brā
 
 ## 120
 w: in this way  the dancing  went on  four  praharas
-w: in the evening  bath in the Ganges  taking  all  went  home
+w: in the evening  bath in the Gaṅgā  taking  all  went  home
 tr: So the dancing went on for four praharas; in the evening they all bathed in the Ganges and went home.
 
 ## 121
@@ -1167,7 +1167,7 @@ tr: “By Your grace my evil mind is gone. Be merciful to me, so that devotion t
 
 ## 221
 w: the Lord  says  one  gift  I beg  from you
-w: saṅkīrtana  obstruction  so that  not be  in Nadia
+w: saṅkīrtana  obstruction  so that  not be  in Nadīyā
 tr: The Lord said, “I beg one gift of you: let there be no obstruction to the saṅkīrtana in Nadia.”
 
 ## 222
@@ -1294,7 +1294,7 @@ w: seeing  the Lord’s  sorrow  was  boundless
 tr: Again and again she took the dust of His feet, and seeing this, the Lord was overcome with sorrow.
 
 ## 245
-w: at that very moment  running  the Lord  into the Ganges  fell
+w: at that very moment  running  the Lord  into the Gaṅgā  fell
 w: Nityānanda  Haridāsa  catching hold  lifted out
 tr: At once the Lord ran and threw Himself into the Ganges; Nityānanda and Haridāsa caught hold of Him and brought Him out.
 
@@ -1414,7 +1414,7 @@ tr: Then these unbelievers will be delivered. There is no other way — this is 
 
 ## 268
 w: this  firm  resolve  making  the Lord  is  at home
-w: Keśava  Bhāratī  came  to the town of Nadia
+w: Keśava  Bhāratī  came  to the town of Nadīyā
 tr: Having made this firm resolve, the Lord remained at home. Then Keśava Bhāratī came to the town of Nadia.
 
 ## 269
@@ -1581,7 +1581,7 @@ fn: “Bringing Kṛṣṇa down”: by His call Advaita brought Kṛṣṇa int
 
 ## 299
 w: friendship  servitude  two  moods  natural  His
-w: sometimes  the Lord  makes  toward Him  guru-like  dealing
+w: sometimes  the Lord  makes  towards Him  guru-like  dealing
 tr: Friendship and servitude are His two natural moods, and at times the Lord treats Him as His guru.
 
 ## 300

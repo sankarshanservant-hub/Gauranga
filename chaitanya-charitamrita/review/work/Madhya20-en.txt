@@ -41,8 +41,8 @@ w: from worldly existence  him  liberated  makes  the Lord
 tr: If someone, true to his own religion, releases a prisoner, the Lord frees him from worldly existence.
 
 ## 7
-w: before  I  for you  have done  favors
-w: you  me  releasing  do  a favor in return
+w: before  I  for you  have done  favours
+w: you  me  releasing  do  a favour in return
 tr: I have done you favours in the past. Now release me and return the favour.
 
 ## 8
@@ -59,7 +59,7 @@ tr: The yavana replied, “Listen, sir. I would release you, but I fear the king
 w: Sanātana  says  you  do not  have  fear of the king
 w: to the south  he has gone  if  coming back  he returns
 w: to him  say  he  to relieve himself  went
-w: of the Ganges  near  the Ganges  seeing  a leap  he made
+w: of the Gaṅgā  near  the Gaṅgā  seeing  a leap  he made
 tr: Sanātana said, “Do not fear the king. He has gone south. If he comes back, tell him that I went out to relieve myself and, coming near the Ganges and seeing it, jumped in.
 
 ## 12
@@ -79,7 +79,7 @@ tr: Still Sanātana saw that the yavana was not satisfied, so he heaped seven th
 
 ## 15
 w: greed  arose  of the yavana  the coins  seeing
-w: at night  the crossing of the Ganges  he made  the fetters  cutting
+w: at night  the crossing of the Gaṅgā  he made  the fetters  cutting
 tr: At the sight of the coins the yavana grew greedy. That night he cut off Sanātana’s fetters and took him across the Ganges.
 
 ## 16
@@ -220,12 +220,12 @@ tr: Śrīkānta said, “Stay here a couple of days. Make yourself presentable a
 
 ## 43
 w: the Gosvāmī  says  even a moment  here  not  I will stay
-w: the Ganges  across  take me  at once  I will go
+w: the Gaṅgā  across  take me  at once  I will go
 tr: Sanātana Gosvāmī said, “I will not stay here even a moment. Take me across the Ganges; I must go at once.”
 
 ## 44
 w: with care  he  a  woollen Bhoṭa blanket  gave
-w: the Ganges  across  he took  the Gosvāmī  went on
+w: the Gaṅgā  across  he took  the Gosvāmī  went on
 tr: Śrīkānta lovingly gave him a woollen Bhoṭa blanket and took him across the Ganges, and Sanātana Gosvāmī went on his way.
 
 ## 45
@@ -365,7 +365,7 @@ w: this  garb  away  put  go  him  taking
 tr: Calling Candraśekhara, the Lord said, “Take him with you and remove this garb.”
 
 ## 70
-w: shaved  having made  him  a bath in the Ganges  had him take
+w: shaved  having made  him  a bath in the Gaṅgā  had him take
 w: Śekhara  bringing  him  new  cloth  gave
 tr: Candraśekhara had him shaved and bathed in the Ganges, and then brought him new cloth.
 
@@ -426,7 +426,7 @@ tr: Sanātana said, “I shall live by *mādhukarī*, begging a little from hous
 
 ## 82
 w: at Sanātana’s  renunciation  of the Lord  joy  boundless
-w: the Bhoṭa blanket  toward  the Lord  looks  again  and again
+w: the Bhoṭa blanket  towards  the Lord  looks  again  and again
 tr: The Lord was boundlessly pleased by Sanātana’s renunciation, yet again and again He glanced at the woollen Bhoṭa blanket.
 
 ## 83
@@ -435,12 +435,12 @@ w: the blanket  giving up  to do  he thought of  a means
 tr: Sanātana understood that the Lord did not like it, and he thought of a way to give the blanket up.
 
 ## 84
-w: so  thinking  he went  to the Ganges  the midday bath  to take
+w: so  thinking  he went  to the Gaṅgā  the midday bath  to take
 w: a  Bengali  quilt  having washed  had put  to dry
 tr: With this in mind he went to the Ganges for his midday bath. There a Bengali had washed his quilt and spread it out to dry.
 
 ## 85
-w: to him  he says  O  brother  do  a favor
+w: to him  he says  O  brother  do  a favour
 w: this  blanket  taking  this  quilt  give  me
 tr: Sanātana said to him, “Brother, do me a favour: take this blanket and give me this quilt.”
 
@@ -639,7 +639,7 @@ w: with devotion  exclusive  the Lord  seeing the guru as his deity and his self
 tr: “For one who has turned away from the Lord, fear arises from absorption in what is other than Him; by His māyā come forgetfulness of the Lord and a false idea of oneself. Therefore the wise, seeing the guru as his worshipful deity and his very self, should worship the Lord with exclusive devotion.” (Śrīmad-Bhāgavatam, 11.2.37)
 
 ## 120
-w: by the mercy of the sādhus and scriptures  if  turned toward Kṛṣṇa  it becomes
+w: by the mercy of the sādhus and scriptures  if  turned towards Kṛṣṇa  it becomes
 w: that  jīva  crosses over  māyā  it  releases
 tr: If by the mercy of the sādhus and the scriptures the jīva turns toward Kṛṣṇa, it crosses over, and māyā releases it.
 
@@ -1476,7 +1476,7 @@ w: māyā  the efficient  cause  of the universe  the material cause  pradhāna
 tr: Māyā has two functions, called māyā and *pradhāna*. Māyā is the efficient cause of the universe, and *pradhāna* is its material cause.
 
 ## 272
-w: that  Puruṣa  toward māyā  directs  His glance
+w: that  Puruṣa  towards māyā  directs  His glance
 w: prakṛti  agitated  making  makes  of the seed  the placing
 tr: That Puruṣa turns His glance toward māyā. Agitating *prakṛti*, He deposits the seed in her.
 
@@ -2081,7 +2081,7 @@ w: some  pastime  in some  universe  is  manifested
 tr: The universes are endless, beyond counting, and in one universe or another some pastime is being manifested.
 
 ## 381
-w: in this way  all  pastimes  like  the Ganges’ stream
+w: in this way  all  pastimes  like  the Gaṅgā’ stream
 w: those  those  pastimes  manifests  the prince of Vraja
 tr: In this way all the pastimes flow like the stream of the Ganges, and the prince of Vraja manifests each of them.
 

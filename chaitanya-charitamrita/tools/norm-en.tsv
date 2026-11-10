@@ -1,0 +1,60 @@
+# Сквозные замены EN (tools/build_rev.py → norm(): только строки перевода «(N) …», сносок «[^…]» и заголовок «**…**»).
+# Формат: было<TAB>стало<TAB># причина; «re:» — регулярное выражение Python. Сводка — review/consistency-en.md (2026-11-10).
+# Пословный (строки w:) этим словарём не покрывается — те же замены внесены прямо в review/work/*-en.txt.
+#
+# 1. Орфография и имена
+re:\b([Cc])olor(s|ed|ful|less|ing)?\b	\1olour\2	# брит. colour
+re:\b([Hh])onor(s|ed|ing|able|ably)?\b	\1onour\2	# брит. honour (honorific — без изменений)
+re:\b([Ff])avor(s|ed|ing|able|ably|ite|ites)?\b	\1avour\2	# брит. favour
+re:\b([Ll])abor(s|ed|ing|er|ers)?\b	\1abour\2	# брит. labour (laborious — без изменений)
+re:\b([Bb])ehavior(s)?\b	\1ehaviour\2	# брит. behaviour
+re:\b([Ss])plendor(s)?\b	\1plendour\2	# брит. splendour
+re:\b([Cc])lamor(s|ed|ing)?\b	\1lamour\2	# брит. clamour
+re:\b([Aa])rdor\b	\1rdour	# брит. ardour
+re:\b([Ff])ervor\b	\1ervour	# брит. fervour
+re:\b([Vv])igor\b	\1igour	# брит. vigour (vigorous — без изменений)
+re:\b([Oo])dor(s)?\b	\1dour\2	# брит. odour
+re:\b([Ee])ndeavor(s|ed|ing)?\b	\1ndeavour\2	# брит. endeavour
+re:\b([Nn])eighbor(s|ing|hood)?\b	\1eighbour\2	# брит. neighbour
+re:\b([Vv])alor\b	\1alour	# брит. valour
+re:\b([Aa])rmor\b	\1rmour	# брит. armour
+re:\b([Rr])umor(s|ed)?\b	\1umour\2	# брит. rumour
+re:\b([Hh])umor(s)?\b	\1umour\2	# брит. humour
+re:\b([Ss])avor(s|ed|ing)?\b	\1avour\2	# брит. savour
+re:\b([Hh])arbor(s|ed|ing)?\b	\1arbour\2	# брит. harbour
+re:\b([Rr])ancor\b	\1ancour	# брит. rancour
+re:\b([Oo])ffense(s)?\b	\1ffence\2	# брит. offence
+re:\b([Dd])efense(s)?\b	\1efence\2	# брит. defence
+re:\b([Pp])retense(s)?\b	\1retence\2	# брит. pretence
+re:\b([Cc])enter(s|ed)?\b	\1entre\2	# брит. centre
+re:\b([Ll])uster\b	\1ustre	# брит. lustre
+re:\b([Tt])ravel(ed|ing|er|ers)\b	\1ravell\2	# брит. travelled
+re:\b([Ww])orship(ed|ing|er|ers)\b	\1orshipp\2	# брит. worshipped
+re:\b([Qq])uarrel(ed|ing)\b	\1uarrell\2	# брит. quarrelled
+re:\b([Mm])arvel(ed|ing)\b	\1arvell\2	# брит. marvelled
+re:\b([Cc])ounselor(s)?\b	\1ounsellor\2	# брит. counsellor
+re:\b([Ff])ulfill(s|ment)?\b	\1ulfil\2	# брит. fulfil, fulfilment
+re:\b([Ss])kill(ful|fully)\b	\1kil\2	# брит. skilful
+re:\b([Ww])ill(ful|fully)\b	\1il\2	# брит. wilful
+re:\b([Pp])low(s|ed|ing)?\b	\1lough\2	# брит. plough
+re:\b([Gg])ray\b	\1rey	# брит. grey
+re:\b([Jj])udgment(s)?\b	\1udgement\2	# брит. judgement (Мадхья 1 и больш.)
+re:\b([Tt])oward\b	\1owards	# брит. towards
+re:\b([Rr]eali|[Rr]ecogni|[Cc]ritici|[Cc]ivili|[Mm]emori|[Hh]armoni|[Ss]ummari|[Pp]atroni|[Cc]rystalli|[Oo]rgani|[Rr]eorgani|[Ss]ymboli|[Ee]mphasi|[Aa]pologi|[Ss]ympathi|[Uu]nrecogni|[Ss]candali|[Ii]mmortali|[Aa]uthori|[Cc]haracteri|[Ss]ubsidi|[Ss]tandardi|[Mm]agneti|[Mm]esmeri|[Tt]antali|[Ee]ulogi)z(e|es|ed|ing|ation|ations|er|ers)\b	\1s\2	# брит. -ise (realise, recognise — как в большинстве глав)
+re:\b([Aa]naly|[Pp]araly)z(e|es|ed|ing)\b	\1s\2	# брит. analyse, paralyse
+re:\bGanges\b	Gaṅgā	# Gaṅgā, не Ganges (выверка Мадхьи 3, 16–17; глоссарий: «Ганга → the Gaṅgā»)
+re:\bNadia\b	Nadīyā	# Nadīyā (выверка; 17 против 7)
+re:\b([Bb])rahmin(s?)\b	\1rāhmaṇa\2	# brāhmaṇa (brahminical, brahminhood — без изменений)
+re:\bCiranjīva\b	Cirañjīva	# IAST: Cirañjīva (চিরঞ্জীব), как в Ади 11, Мадхье 11
+re:\bAnanga\b	Anaṅga	# IAST: Anaṅga
+re:\bGaurachandra\b	Gauracandra	# IAST: Gauracandra
+#
+# 2. Ссылки на источники в стихах и сносках: “…” (Śrīmad-Bhāgavatam, 10.33.3) — прямым шрифтом, с запятой (STYLE-vcd § 9.5; 823 из 877)
+re:\(Bhāg\. (\d)	(Śrīmad-Bhāgavatam, \1	# сокращение → полное название
+re:\(\*GGD\* (\d)	(Gaura-gaṇoddeśa-dīpikā, \1	# сокращение → полное название
+re:\(\*([^*()\[\]]+)\*,? (\d[\d.,–-]*)\)	(\1, \2)	# ссылка в скобках — прямым шрифтом, с запятой
+#
+# 3. Курсив снят у общих слов традиции (STYLE-vcd § 9.5: guru, avatāra, rasa, prema, bhakti, gopī; списки в шапках выверки Мадхьи 3–25, Антьи 1–20).
+#    Оставлен: слово как слово («the word *bhakti*», «is called *prema*»), глосса в скобках «(*rasa*)», в кавычках, в составе сложного слова, лемма сноски «*Anubhāṣya*: *jñāna* — …».
+#    Не входят (решения расходятся — вопрос пользователю): prasāda, mahā-prasāda, rāsa-līlā, bhāva, sūtra.
+re:(?<!\bonly a )(?<!\bword )(?<!\bwords )(?<!\bname )(?<!\bnamed )(?<!\bcall )(?<!\bcalls )(?<!\bcalled )(?<!\bterm )(?<!\btermed )(?<!\bas )(?<!\bis )(?<!“)(?<!‘)(?<!\()(?<!-)(?<!\*: )(?<![\w*])\*(sāttvika\-bhāvas|sāttvika\-bhāva|prema\-bhakti|saṅkīrtana|sannyāsīs|brāhmaṇas|kṣatriyas|Vaiṣṇavas|Vaikuṇṭha|kīrtanas|sāttvika|sannyāsī|sannyāsa|brāhmaṇa|kṣatriya|avatāras|paṇḍitas|Vaiṣṇava|kīrtana|darśana|avatāra|kadamba|mantras|yavanas|paṇḍita|bhakti|śūdras|dharma|sakhīs|tulasī|mantra|ācārya|sādhus|yavana|gopīs|gurus|prema|śūdra|jīvas|karma|jñāna|yogīs|sakhī|sādhu|rasa|rāsa|gopī|guru|jīva|yoga|yogī|māyā)\*(?![\w*])(?! means)(?! here)(?! is called)(?! \(“)(?!”)(?!\))(?!-)	\1	# курсив снят у общих слов традиции (STYLE-vcd § 9.5; решения выверки Мадхьи/Антьи), кроме слова-как-слова/глоссы

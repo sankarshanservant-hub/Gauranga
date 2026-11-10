@@ -56,7 +56,7 @@ of the sannyāsīs  the host  the Lord  when  disregarded
 bhakta-duḥkha khaṇḍāite tāre kṛpā haila  
 the devotees’ sorrow  to dispel  for them  mercy  arose
 
-(5) When the sannyāsīs disregarded the Lord, mercy toward them arose in Him, so that He might dispel the sorrow of His devotees.
+(5) When the sannyāsīs disregarded the Lord, mercy towards them arose in Him, so that He might dispel the sorrow of His devotees.
 
 সন্ন্যাসীরে কৃপা পূর্ব্বে লিখিয়াছোঁ বিস্তারিয়া ৷  
 উদ্দেশে কহিয়ে ইঁহা সংক্ষেপ করিয়া ॥ ৬ ॥
@@ -286,7 +286,7 @@ with his mouth  ‘yes’  ‘yes’  he says  the heart  not  accepts
 kali-kāle sannyāse ‘saṁsāra’ nāhi jini  
 in the age of Kali  by sannyāsa  saṁsāra  not  we conquer
 
-(28) I accept the words of Śrī Kṛṣṇa Caitanya as firmly true: in the age of Kali one does not conquer *saṁsāra* by *sannyāsa*.
+(28) I accept the words of Śrī Kṛṣṇa Caitanya as firmly true: in the age of Kali one does not conquer *saṁsāra* by sannyāsa.
 
 হরের্নাম-শ্লোকের যেই করিলা ব্যাখ্যান ৷  
 সেই সত্য সুখদার্থ পরম প্রমাণ ॥ ২৯ ॥
@@ -332,7 +332,7 @@ nothing else  as  for those who pound empty husks
 ye ’nye ’ravindākṣa vimukta-māninas  
 those who  others  O lotus-eyed Lord  who think themselves liberated  
 tvayy asta-bhāvād aviśuddha-buddhayaḥ  
-toward You  for want of love  of impure intelligence  
+towards You  for want of love  of impure intelligence  
 āruhya kṛcchreṇa paraṁ padaṁ tataḥ  
 having risen  with hardship  to the supreme  position  from there  
 patanty adho ’nādṛta-yuṣmad-aṅghrayaḥ  
@@ -784,9 +784,9 @@ liberated in this life  even  again
 yānti saṁsāra-vāsanām  
 go  to worldly  desires  
 yady acintya-mahā-śaktau  
-if  toward the possessor of inconceivable great potencies  
+if  towards the possessor of inconceivable great potencies  
 bhagavaty aparādhinaḥ  
-toward Bhagavān  offenders
+towards Bhagavān  offenders
 
 (74) “Even those liberated in this life fall back into worldly desires if they offend Bhagavān, whose potencies are great and inconceivable.” (a saying of the *Pariśiṣṭa*, quoted in the *Vāsanā-bhāṣya*)
 
@@ -1226,7 +1226,7 @@ in these  all  words  there is  of jñāna  of vijñāna  the discernment
 māyā-kārya, māyā haite āmi — vyatireka  
 māyā’s works  from māyā  I  am distinct
 
-(114) In all these words lies the discernment of *jñāna* and *vijñāna*: I am distinct from the works of māyā and from māyā itself.
+(114) In all these words lies the discernment of jñāna and *vijñāna*: I am distinct from the works of māyā and from māyā itself.
 
 যৈছে সূর্য্যের স্থানে ভাসয়ে ‘আভাস’ ৷  
 সূর্য্য বিনা স্বতঃ তার না হয় প্রকাশ ॥ ১১৫ ॥
@@ -1773,7 +1773,7 @@ the sannyāsīs  the paṇḍitas  do  of the Bhāgavata  study
 vārāṇasī-pura prabhu karilā nistāra  
 Vārāṇasī  the city  the Lord  made  deliverance
 
-(159) The sannyāsīs and *paṇḍitas* began to study the *Bhāgavatam*. Thus the Lord delivered the city of Vārāṇasī.
+(159) The sannyāsīs and paṇḍitas began to study the *Bhāgavatam*. Thus the Lord delivered the city of Vārāṇasī.
 
 নিজ-লোক লঞা প্রভু আইলা বাসাঘর ৷  
 বারাণসী হৈল দ্বিতীয় নদীয়া-নগর ॥ ১৬০ ॥
@@ -2063,7 +2063,7 @@ atonement  asked  he  of the paṇḍitas  the group
 tām̐rā kahe, — tapta-ghṛta khāñā chāḍa’ prāṇe  
 they  say  —  boiling  ghee  drinking  give up  your life
 
-(188) He asked the *paṇḍitas* what atonement he should perform. They said, “Drink boiling ghee and give up your life.”
+(188) He asked the paṇḍitas what atonement he should perform. They said, “Drink boiling ghee and give up your life.”
 
 কেহ কহে, — এই নহে, ‘অল্প’ দোষ হয় ৷  
 শুনিয়া রহিলা রায় করিয়া সংশয় ॥ ১৮৯ ॥
@@ -2309,7 +2309,7 @@ to the sannyāsīs  mercy  hearing  he felt  great  happiness
 সুখী হৈলা লোকমুখে কীর্ত্তন শুনিয়া ॥ ২১৩ ॥
 
 mahāprabhura upara lokera praṇati dekhiyā  
-toward Mahāprabhu  of the people  reverence  seeing  
+towards Mahāprabhu  of the people  reverence  seeing  
 sukhī hailā loka-mukhe kīrtana śuniyā  
 happy  became  from the people’s mouths  kīrtana  hearing
 
@@ -2333,7 +2333,7 @@ meanwhile  Mahāprabhu  when  to Nīlādri  went
 nirjana vana-pathe mahā-sukha pāilā  
 on the solitary  forest path  great  happiness  He felt
 
-(215) Meanwhile, as Mahāprabhu went toward Nīlādri, He felt great joy on the solitary forest path.
+(215) Meanwhile, as Mahāprabhu went towards Nīlādri, He felt great joy on the solitary forest path.
 
 সুখে চলি’ আইসে প্রভু বলভদ্র-সঙ্গে ৷  
 পূর্ব্ববৎ মৃগাদি সঙ্গে কৈলা নানারঙ্গে ॥ ২১৬ ॥
@@ -2563,7 +2563,7 @@ in the third  chapter  —  the Lord’s  I have told  sannyāsa
 ācāryera ghare yaiche karilā vilāsa  
 in the Ācārya’s  house  how  He enjoyed  pastimes
 
-(238) In the Third Chapter I have told of the Lord’s *sannyāsa* and of His pastimes in the house of the Ācārya.
+(238) In the Third Chapter I have told of the Lord’s sannyāsa and of His pastimes in the house of the Ācārya.
 
 চতুর্থে মাধব-পুরীর চরিত্র-আস্বাদন ৷  
 গোপাল-স্থাপন, ক্ষীর-চুরীর বর্ণন ॥ ২৩৯ ॥
@@ -2663,7 +2663,7 @@ in the sixteenth  —  the journey to Vṛndāvana  by the road through Gauḍa
 punaḥ nīlācale āilā, nāṭaśālā haite  
 again  to Nīlācala  came  Nāṭaśālā  from
 
-(248) In the Sixteenth: the journey toward Vṛndāvana by way of Gauḍa, and the return to Nīlācala from Nāṭaśālā.
+(248) In the Sixteenth: the journey towards Vṛndāvana by way of Gauḍa, and the return to Nīlācala from Nāṭaśālā.
 
 সপ্তদশে — বনপথে মথুরা-গমন ৷  
 অষ্টাদশে — বৃন্দাবন বিহার-গমন ॥ ২৪৯ ॥
@@ -2713,7 +2713,7 @@ in the twenty-third  —  of loving devotion  of the rasas  the telling
 caturviṁśe — ‘ātmārāmāḥ’-ślokārtha-varṇana  
 in the twenty-fourth  —  ‘ātmārāmāḥ’  of the verse’s meaning  the description
 
-(253) In the Twenty-third: an account of the *rasas* of *prema-bhakti*; in the Twenty-fourth: an explanation of the meanings of the *ātmārāma* verse.
+(253) In the Twenty-third: an account of the *rasas* of prema-bhakti; in the Twenty-fourth: an explanation of the meanings of the *ātmārāma* verse.
 
 পঞ্চবিংশে — কাশীবাসীরে বৈষ্ণবকরণ ৷  
 কাশী হৈতে পুনঃ নীলাচলে আগমন ॥ ২৫৪ ॥

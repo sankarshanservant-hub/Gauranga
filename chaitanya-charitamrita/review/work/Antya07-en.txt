@@ -153,7 +153,7 @@ fn: Heading in the edition: in the madhura-rasa there are two dispositions — i
 ## 27
 w: not  this  easily attained  Bhagavān
 w: for the embodied  of the gopī  the son
-w: for the jñānīs  and  for those who realized the self
+w: for the jñānīs  and  for those who realised the self
 w: as  for those who have devotion  here
 tr: ‘This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.’ (Śrīmad-Bhāgavatam, 10.9.21)
 fn: The same verse as Madhya 8.226 (= 9.132, 24.82); translation as there. In this chapter the word *ātma-bhūtānām* is taken to mean “the associates” (v. 28): *Anubhāṣya* on 28 — Lakṣmī and the associates called *ātma-bhūta* are potencies non-different from Kṛṣṇa, yet Lakṣmī is full of the mood of majesty. In the edition the reference is “canto 10, chapter 9, verse 31”; in the standard numbering, 10.9.21.
@@ -463,7 +463,7 @@ w: ‘the dark beauty’  ‘the son of Yaśodā’  this only  I know
 tr: The Lord said, “I do not accept many meanings of Kṛṣṇa’s name. I know only this: Śyāmasundara, the dark and beautiful One, and Yaśodā-nandana, the son of Yaśodā.
 
 ## 82
-w: in Him whose luster is dark like the tamāla tree
+w: in Him whose lustre is dark like the tamāla tree
 w: in the One who drinks at Śrī Yaśodā’s breast
 w: of the name ‘Kṛṣṇa’  the conventional meaning  thus
 w: of all scriptures  the conclusion
@@ -482,7 +482,7 @@ tr: The Bhaṭṭa’s explanations of the name and the rest were all nearly wor
 
 ## 85
 w: dejected  becoming  the Bhaṭṭa  went  to his own  home
-w: toward the Lord  devotion  somewhat  became  removed
+w: towards the Lord  devotion  somewhat  became  removed
 tr: Dejected, the Bhaṭṭa went home, and his devotion to the Lord partly ebbed away.
 fn: *Amṛta-pravāha-bhāṣya*: the devotion he had for the Lord partly ebbed away. Heading in the edition: the Bhaṭṭa leaves with a heavy heart; his pride is humbled, and therefore his devotion to the Lord weakens.
 
@@ -650,7 +650,7 @@ tr: Back at home that night, the Bhaṭṭa began to think: “Earlier, in Pray�
 
 ## 117
 w: His associates  together with  my  accepted  invitation
-w: now  why  the Lord’s  toward me  turned  went  mind
+w: now  why  the Lord’s  towards me  turned  went  mind
 tr: With His associates He accepted my invitation. Why is the Lord’s mind now so changed toward me?
 
 ## 118
@@ -666,7 +666,7 @@ fn: Heading in the edition: by disregard, dishonour and other dealings unpleasan
 
 ## 120
 w: my  ‘good’  He does,  this  I  regard  ‘sorrow’
-w: Kṛṣṇa  toward  did  as  Indra  great fool
+w: Kṛṣṇa  towards  did  as  Indra  great fool
 tr: He is doing me good, yet I take it as sorrow — just as Indra, that great fool, behaved toward Kṛṣṇa.”
 fn: Heading in the edition: wise is one who sees the Lord’s mercy in the fruits of karma that are painful at first but beneficial in the end.
 

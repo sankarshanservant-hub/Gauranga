@@ -156,7 +156,7 @@ such  when  I find  then  I take  one  person
 svarūpa kahe, — ei balabhadra-bhaṭṭācārya  
 Svarūpa  says  —  here is  Balabhadra Bhaṭṭācārya  
 tomāte su-snigdha baḍa, paṇḍita, sādhu, ārya  
-toward You  affectionate  very  learned  saintly  noble
+towards You  affectionate  very  learned  saintly  noble
 
 (15) Svarūpa said, “Here is Balabhadra Bhaṭṭācārya. He is full of love for You, and he is learned, saintly and noble.
 
@@ -488,7 +488,7 @@ which  village  through  He goes  where  He makes  a stay
 se-saba grāmera lokera haya ‘prema-bhakti’  
 of all those  villages  in the people  arises  loving devotion
 
-(47) In every village He passed through or stayed in, the people gained loving devotion, *prema-bhakti*.
+(47) In every village He passed through or stayed in, the people gained loving devotion, prema-bhakti.
 
 কেহ যদি তাঁর মুখে শুনে কৃষ্ণনাম ৷  
 তাঁর মুখে আন শুনে, তাঁর মুখে আন ॥ ৪৮ ॥
@@ -615,7 +615,7 @@ where  brāhmaṇas  there are none  there  respectable śūdras
 āsi’ sabe bhaṭṭācārye kare nimantraṇa  
 coming  all  the Bhaṭṭācārya  make  invitation
 
-(60) Where there were no brāhmaṇas, respectable men of the *śūdra* community came and invited the Bhaṭṭācārya.[^11]
+(60) Where there were no brāhmaṇas, respectable men of the śūdra community came and invited the Bhaṭṭācārya.[^11]
 
 ভট্টাচার্য্য পাক করে বন্য-ব্যঞ্জন ৷  
 বন্য-ব্যঞ্জনে প্রভুর আনন্দিত মন ॥ ৬১ ॥
@@ -856,7 +856,7 @@ earlier  I have heard  the Lord  has taken  sannyāsa
 niścaya kariyā, haila hṛdaye ullāsa  
 certainty  making  arose  in his heart  joy
 
-(84) “I heard earlier that the Lord had taken *sannyāsa*,” he thought, and when he was sure it was He, his heart filled with joy.
+(84) “I heard earlier that the Lord had taken sannyāsa,” he thought, and when he was sure it was He, his heart filled with joy.
 
 প্রভুর চরণ ধরি’ করেন রোদন ৷  
 প্রভু তাঁরে উঠাঞা কৈল আলিঙ্গন ॥ ৮৫ ॥
@@ -1046,7 +1046,7 @@ thus  every day  He does  evading
 sannyāsīra saṅga-bhaye nā mānena nimantraṇa  
 of the sannyāsīs  of the company  in fear  not  He accepts  invitations
 
-(103) In this way He evaded them every day. Wary of the company of the *sannyāsīs*, He accepted no invitations.[^21]
+(103) In this way He evaded them every day. Wary of the company of the sannyāsīs, He accepted no invitations.[^21]
 
 প্রকাশানন্দ শ্রীপাদ সভাতে বসিয়া ৷  
 ‘বেদান্ত’ পড়ান বহু শিষ্যগণ লঞা ॥ ১০৪ ॥
@@ -1076,7 +1076,7 @@ one  sannyāsī  has come  Jagannātha  from
 tām̐hāra mahimā-pratāpa nā pāri varṇite  
 His  glory and power  not  I can  describe
 
-(106) “A *sannyāsī* has come from Jagannātha Purī. I cannot describe His glory and power.
+(106) “A sannyāsī has come from Jagannātha Purī. I cannot describe His glory and power.
 
 সকল দেখিয়ে তাঁতে অদ্ভুত-কথন ৷  
 প্রকাণ্ড-শরীর, শুদ্ধকাঞ্চন-বরণ ॥ ১০৭ ॥
@@ -1176,7 +1176,7 @@ I have heard  of Gauḍa  the sannyāsī  —  a sentimentalist
 keśava-bhāratī-śiṣya, loka-pratāraka  
 a disciple of Keśava Bhāratī  a deceiver of people
 
-(116) “I have heard of Him — the sentimental *sannyāsī* from Gauḍa, a disciple of Keśava Bhāratī and a deceiver of people.[^23]
+(116) “I have heard of Him — the sentimental sannyāsī from Gauḍa, a disciple of Keśava Bhāratī and a deceiver of people.[^23]
 
 ‘চৈতন্য’-নাম তাঁর, ভাবুকগণ লঞা ৷  
 দেশে-দেশে, গ্রামে-গ্রামে বুলে নাচাঞা ॥ ১১৭ ॥
@@ -1216,7 +1216,7 @@ a sannyāsī  in name only  a great conjurer
 ‘kāśīpure’ nā vikābe tām̐ra bhāvakāli  
 in Kāśī  not  will sell  His  wares of emotion
 
-(120) He is a *sannyāsī* in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.[^24]
+(120) He is a sannyāsī in name only; in fact He is a great conjurer. But here in Kāśī His wares of emotion will not sell.[^24]
 
 ‘বেদান্ত’ শ্রবণ কর, না যাইহ তাঁর পাশ ৷  
 উচ্ছৃঙ্খল-লোক-সঙ্গে দুইলোক-নাশ ॥ ১২১ ॥
@@ -1380,11 +1380,11 @@ therefore  Śrī Kṛṣṇa’s name and the rest
 na bhaved grāhyam indriyaiḥ  
 not  can be  grasped  by the senses  
 sevonmukhe hi jihvādau  
-when turned toward service  indeed  on the tongue and the rest  
+when turned towards service  indeed  on the tongue and the rest  
 svayam eva sphuraty adaḥ  
 of itself  alone  manifests  this
 
-(136) “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned toward service, they reveal themselves of their own accord, beginning on the tongue.” (Padma Purāṇa; cited in Bhakti-rasāmṛta-sindhu, 1.2.234)
+(136) “Therefore Śrī Kṛṣṇa’s name, form, qualities and pastimes cannot be grasped by the material senses. When one is turned towards service, they reveal themselves of their own accord, beginning on the tongue.” (Padma Purāṇa; cited in Bhakti-rasāmṛta-sindhu, 1.2.234)
 
 ব্রহ্মানন্দ হৈতে পূর্ণানন্দ লীলারস ৷  
 ব্রহ্মজ্ঞানী আকর্ষিয়া করে আত্মবশ ॥ ১৩৭ ॥
@@ -1750,7 +1750,7 @@ hearing  astonished  the brāhmaṇa  says  fear  feeling
 aiche bāt kaha kene sannyāsī hañā  
 such  words  You speak  why  a sannyāsī  being
 
-(171) Hearing this, the brāhmaṇa was astonished and said in fear, “You are a *sannyāsī* — why do You speak like this?
+(171) Hearing this, the brāhmaṇa was astonished and said in fear, “You are a sannyāsī — why do You speak like this?
 
 কিন্তু তোমার প্রেম দেখি’ মনে অনুমানি ৷  
 মাধবেন্দ্র-পুরীর ‘সম্বন্ধ’ ধর, জানি ॥ ১৭২ ॥
@@ -1834,7 +1834,7 @@ although  a Sanoḍiyā  was  that very  brāhmaṇa
 sanoḍiyā-ghare sannyāsī nā kare bhojana  
 in a Sanoḍiyā’s house  a sannyāsī  not  does  eat
 
-(179) That brāhmaṇa was a Sanoḍiyā, and *sannyāsīs* do not eat in a Sanoḍiyā’s house.[^34]
+(179) That brāhmaṇa was a Sanoḍiyā, and sannyāsīs do not eat in a Sanoḍiyā’s house.[^34]
 
 তথাপি পুরী দেখি’ তাঁর ‘বৈষ্ণব’-আচার ৷  
 ‘শিষ্য’ করি’ তাঁর ভিক্ষা কৈল অঙ্গীকার ॥ ১৮০ ॥
@@ -2246,7 +2246,7 @@ of the peacocks  the dance  the Lord  watches  with eagerness
 প্রেমাবেশে মহাপ্রভু ভূমিতে পড়িল ॥ ২১৮ ॥
 
 mayūrera kaṇṭha dekhi’ prabhura kṛṣṇa-kānti-smṛti haila  
-of the peacocks  the necks  seeing  in the Lord  of Kṛṣṇa’s luster  the remembrance  arose  
+of the peacocks  the necks  seeing  in the Lord  of Kṛṣṇa’s lustre  the remembrance  arose  
 premāveśe mahāprabhu bhūmite paḍila  
 in the rapture of love  Mahāprabhu  to the ground  fell
 
@@ -2465,25 +2465,25 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^27]: *Amṛta-pravāha-bhāṣya*: the Māyāvādī calls the form of Bhagavān “a form made of *māyā*” and holds His name, form, qualities and pastimes to be non-eternal. Rejecting Kṛṣṇa’s principal names (*mukhya-nāma*), he utters secondary ones (*gauṇa-nāma*) — ‘Brahman’, ‘Ātmā’, ‘Caitanya’. Even if “Kṛṣṇa” or “Govinda” escapes his lips, the name of Kṛṣṇa still does not come from his mouth, for he takes it to be an ordinary, mundane word.
 
-[^28]: The source as in the edition’s heading: “a saying of the *Padma Purāṇa* and the *Viṣṇu-dharmottara*”. *Anubhāṣya*: *kṛṣṇaḥ* — the name is Kṛṣṇa Himself in His original form; *pūrṇaḥ* — *māyā* cannot divide it; *śuddhaḥ* — it is unmixed with *māyā*.
+[^28]: The source as in the edition’s heading: “a saying of the *Padma Purāṇa* and the *Viṣṇu-dharmottara*”. *Anubhāṣya*: *kṛṣṇaḥ* — the name is Kṛṣṇa Himself in His original form; *pūrṇaḥ* — māyā cannot divide it; *śuddhaḥ* — it is unmixed with māyā.
 
 [^29]: *Anubhāṣya*: having finished telling the *Bhāgavatam* to the sages headed by Śaunaka, Śrī Sūta Gosvāmī bows down to his guru, Śrīla Śuka Gosvāmī, Brahmarāta; *sva-sukha-nibhṛta-cetāḥ* — one whose heart is full of the happiness of the self, an *ātmārāma*.
 
 [^30]: The same verse as Madhya 6.186; translation as there.
 
-[^31]: *Anubhāṣya*: the small price is eager longing (*laulya*), greed (*lobha*), or taste (*ruci*) for the service of Kṛṣṇa; it cannot be had without self-surrender (compare the verse of the *Padyāvalī* cited in Madhya 8.70). *Amṛta-pravāha-bhāṣya*: the Lord sells this heavy load to the *jīvas* for its full price, faith (*śraddhā*), but here He will give it even for a small one — a mere semblance of faith (*śraddhābhāsa*).
+[^31]: *Anubhāṣya*: the small price is eager longing (*laulya*), greed (*lobha*), or taste (*ruci*) for the service of Kṛṣṇa; it cannot be had without self-surrender (compare the verse of the *Padyāvalī* cited in Madhya 8.70). *Amṛta-pravāha-bhāṣya*: the Lord sells this heavy load to the jīvas for its full price, faith (*śraddhā*), but here He will give it even for a small one — a mere semblance of faith (*śraddhābhāsa*).
 
 [^32]: *Amṛta-pravāha-bhāṣya*: Mādhava is Veṇī-Mādhava, the Deity of Prayāga (the edition’s heading names Bindu-Mādhava). *Anubhāṣya*: Prayāga is the king of tīrthas, the confluence of the Gaṅgā and the Yamunā (Triveṇī).
 
 [^33]: The same verse as Ādi 3.25; translation as there.
 
-[^34]: *Amṛta-pravāha-bhāṣya*: in the western country the vaiśyas are divided into several groups — Agarwals, Kalwars, Sanwars and others; the Kalwars, Sanwars and some others have fallen through faults in their occupations. Brāhmaṇas who serve as their priests are called Sanoḍiyā brāhmaṇas; they have fallen by such service, and so *sannyāsīs* do not eat in their homes. Edition heading: “by birth-lineage (*śaukra*) that brāhmaṇa’s food is not accepted.”
+[^34]: *Amṛta-pravāha-bhāṣya*: in the western country the vaiśyas are divided into several groups — Agarwals, Kalwars, Sanwars and others; the Kalwars, Sanwars and some others have fallen through faults in their occupations. Brāhmaṇas who serve as their priests are called Sanoḍiyā brāhmaṇas; they have fallen by such service, and so sannyāsīs do not eat in their homes. Edition heading: “by birth-lineage (*śaukra*) that brāhmaṇa’s food is not accepted.”
 
 [^35]: *Anubhāṣya*: by birth this pure devotee did not belong to those from whose hands water may be taken, yet he was fixed in the truth and in *daiva-varṇāśrama*, favourable to bhakti. So he fearlessly calls “fools” and “wicked” those who oppose Mahāprabhu and pure bhakti and see caste in a Vaiṣṇava.
 
-[^36]: *Anubhāṣya*: the *sādhu* is the *mahājana*. A mind that relies on the senses cannot recognise the true *mahājana*; in the age of Kali the *mahājanas* are the four ācāryas of the *sampradāyas* of pure Vaiṣṇavas, and in our *sampradāya* — Śrī Svarūpa Dāmodara, Śrī Rūpa and Sanātana and the followers of Śrī Rūpa.
+[^36]: *Anubhāṣya*: the sādhu is the *mahājana*. A mind that relies on the senses cannot recognise the true *mahājana*; in the age of Kali the *mahājanas* are the four ācāryas of the *sampradāyas* of pure Vaiṣṇavas, and in our *sampradāya* — Śrī Svarūpa Dāmodara, Śrī Rūpa and Sanātana and the followers of Śrī Rūpa.
 
-[^37]: *Anubhāṣya*: *guhā* — the cave of the heart of the *sampradāya* of pure *sādhus*, hidden from the eyes of ordinary people; *mahājana* — the *sādhu*, the servant of Adhokṣaja. *Amṛta-pravāha-bhāṣya*: the truth of dharma is hard to grasp merely by reading the scriptures, so all should follow the path that one whom the *sādhus* have accepted as a *mahājana* has called “the path of the scriptures”.
+[^37]: *Anubhāṣya*: *guhā* — the cave of the heart of the *sampradāya* of pure sādhus, hidden from the eyes of ordinary people; *mahājana* — the sādhu, the servant of Adhokṣaja. *Amṛta-pravāha-bhāṣya*: the truth of dharma is hard to grasp merely by reading the scriptures, so all should follow the path that one whom the sādhus have accepted as a *mahājana* has called “the path of the scriptures”.
 
 [^38]: *Amṛta-pravāha-bhāṣya*: the forests are the twelve forests of Vraja: east of the Yamunā — Bhadravana, Bilvavana, Lohavana, Bhāṇḍīravana and Mahāvana; west of it — Madhuvana, Tālavana, Kumudavana, Bahulāvana, Kāmavana, Khadiravana and Vṛndāvana.
 

@@ -1324,7 +1324,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^29]: According to the *Anubhāṣya*: Cintāmaṇi is the guru who showed the path (*śravaṇa-guru*), Somagiri the mantra-guru, and Kṛṣṇa the *caitya-śikṣā-guru*; *jayaśrī* is Vṛndāvaneśvarī; *līlā-svayaṁvara-rasa* — the joy of choosing Him out of deep love. The *Amṛta-pravāha-bhāṣya* takes “cintāmaṇi” as an epithet of Somagiri.
 
-[^30]: *Anubhāṣya*: *apavarga-vartmani* — “in Hari, in whom ignorance ceases”; *rati* is bhāva, *bhakti* is prema.
+[^30]: *Anubhāṣya*: *apavarga-vartmani* — “in Hari, in whom ignorance ceases”; *rati* is bhāva, bhakti is prema.
 
 [^31]: *Anubhāṣya*: the devotee belongs to the category of potency (*śakti*), not of the possessor of potency; Kṛṣṇa abides in him as in His dwelling.
 
@@ -1340,7 +1340,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^37]: *Amṛta-pravāha-bhāṣya*: *kāya-vyūha* — “the expansion of His own body”; the entourage and the One it surrounds are one when seen through *acintya-bhedābheda*, and so the six truths of 1.32 are one.
 
-[^38]: *Amṛta-pravāha-bhāṣya*: *nija-dhāma* — “Their effulgence”; *pūrva-śaile* — “in Gauḍa as the eastern mountain of sunrise, on the eastern bank of the Ganges”.
+[^38]: *Amṛta-pravāha-bhāṣya*: *nija-dhāma* — “Their effulgence”; *pūrva-śaile* — “in Gauḍa as the eastern mountain of sunrise, on the eastern bank of the Gaṅgā”.
 
 [^39]: The Gauḍīya Maṭha edition reads «…বাঞ্ছা আদি এই সব» (“and so on”). *Amṛta-pravāha-bhāṣya* (on 1.91): *kaitava* is the desire for *dharma*, *artha*, *kāma* and *mokṣa*; the chief of them is the desire for liberation (1.92).
 

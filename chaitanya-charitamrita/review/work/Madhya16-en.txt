@@ -782,7 +782,7 @@ w: in a new house  with all kinds of  provisions  do  service
 tr: In every village, by royal order, the king’s servants served Him with a new house and all kinds of provisions.
 
 ## 153
-w: in this  way  traveling  the Lord  to Remuṇā  came
+w: in this  way  travelling  the Lord  to Remuṇā  came
 w: from there  to Rāmānanda Rāya  leave  gave
 tr: Travelling in this way, the Lord came to Remuṇā, and from there He sent Rāmānanda Rāya back.
 fn: *Anubhāṣya*: another reading has “from Bhadraka”, which agrees with Madhya 1.149 (“Rāmānanda Rāya accompanied Him as far as Bhadraka”); Bhadraka lies south of Bāleśvara, and Remuṇā close beside it. *Amṛta-pravāha-bhāṣya*: many accounts say that the Lord sent Rāmānanda Rāya back from Bhadraka, before He reached Remuṇā.
@@ -799,7 +799,7 @@ tr: Rāya’s grief at parting was unbearable; I cannot describe it.
 fn: Heading in the edition: “It is impossible to describe how Rāya felt his separation from the Lord.”
 
 ## 156
-w: then  to the border of the land of Oḍhra  the Lord  traveling  came
+w: then  to the border of the land of Oḍhra  the Lord  travelling  came
 w: there  the royal governor  the Lord  met
 tr: Then the Lord came to the border of the land of Oḍhra, and there the king’s governor met Him.
 
@@ -999,7 +999,7 @@ w: the Lord  to bring  he did  the secretary  sending
 tr: In the morning the *yavana* fitted out many boats and sent his secretary to bring the Lord.
 
 ## 195
-w: the Mahāpātra  traveling  came  Mahāprabhu  with
+w: the Mahāpātra  travelling  came  Mahāprabhu  with
 w: the mleccha  coming  made  the Lord’s  feet  worship
 tr: The Mahāpātra came along with Mahāprabhu, and the *mleccha* came and worshipped the Lord’s feet.
 
@@ -1368,7 +1368,7 @@ tr: ‘When hundreds of thousands, even millions of people go along with one, th
 
 ## 267
 w: yet  I  heard  only  not  I paid  attention
-w: in the morning  traveling  I came  to the village of Kānāira Nāṭaśālā
+w: in the morning  travelling  I came  to the village of Kānāira Nāṭaśālā
 tr: Yet I only heard it and paid it no heed. In the morning I set out and came to the village of Kānāira Nāṭaśālā.
 
 ## 268

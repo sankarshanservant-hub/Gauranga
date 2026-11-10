@@ -67,7 +67,7 @@ w: one  eternally liberated  one  eternally in worldly existence
 tr: Those jīvas, His separated parts, are of two kinds: some are eternally liberated (*nitya-mukta*), and some are eternally in worldly existence (*nitya-saṁsāra*).
 
 ## 11
-w: the eternally liberated  ever  toward Kṛṣṇa’s feet  turned
+w: the eternally liberated  ever  towards Kṛṣṇa’s feet  turned
 w: Kṛṣṇa’s associates  named  they enjoy  the joy of service
 tr: The eternally liberated are ever turned toward Kṛṣṇa’s feet. They are called Kṛṣṇa’s associates (*pārṣadas*), and they enjoy the happiness of serving Him.
 
@@ -93,7 +93,7 @@ tr: by the mantra of that sādhu’s instruction the witch flees. The soul obtai
 
 ## 16
 w: of lust and the rest  how many  not  in how many ways  were obeyed  the evil commands
-w: of them  arose  toward me  no  pity  no  shame  nor peace
+w: of them  arose  towards me  no  pity  no  shame  nor peace
 w: having abandoned them  now  O Lord of the Yadus  at present  having gained good sense
 w: to You  I have come  for shelter  fearless  me  engage in Your service
 tr: “How many evil commands of lust and the rest have I not obeyed, and in how many ways! Yet they never took pity on me, nor did I feel shame or find peace. Now, O Lord of the Yadus, I have cast them off; good sense has dawned in me, and I have come to You, the fearless shelter. Engage me in Your service.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Prīti-bhakti-laharī, 6)
@@ -126,7 +126,7 @@ tr: “Ascetics, the generous, the renowned, the thoughtful, the knowers of mant
 
 ## 21
 w: mere  knowledge  liberation  to give  cannot  bhakti  without
-w: to one turned toward Kṛṣṇa  that  liberation  comes  without knowledge
+w: to one turned towards Kṛṣṇa  that  liberation  comes  without knowledge
 tr: Knowledge alone cannot give liberation without bhakti; but to one turned toward Kṛṣṇa that liberation comes even without knowledge.
 
 ## 22
@@ -183,7 +183,7 @@ tr: The jñānī thinks, ‘I have attained the state of liberation in this life
 
 ## 30
 w: those who  others  O lotus-eyed Lord  who think themselves liberated
-w: toward You  for want of love  of impure intelligence
+w: towards You  for want of love  of impure intelligence
 w: having risen  with hardship  to the supreme  position  from there
 w: fall  down  having neglected Your feet
 tr: “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
@@ -456,7 +456,7 @@ tr: All great qualities dwell in a Vaiṣṇava; all of Kṛṣṇa’s qualitie
 w: in whom  there is  devotion  to the Lord  free of desire
 w: with all  qualities  there  dwell  the gods
 w: to Hari  of one not devoted  whence  great qualities
-w: by the chariot of the mind  toward the unreal  running  outward
+w: by the chariot of the mind  towards the unreal  running  outward
 tr: “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)
 fn: The same verse as Ādi 8.58; translation as there.
 
@@ -477,7 +477,7 @@ w: without desire  free from worldly striving  steady  having conquered the six
 tr: he is a benefactor of all, peaceful, with Kṛṣṇa as his only shelter, free from desire, free from worldly striving, steady, the conqueror of the six (*ṣaḍ-guṇa*);
 
 ## 77
-w: moderate in eating  sober  giving honor to others  seeking no honor
+w: moderate in eating  sober  giving honour to others  seeking no honour
 w: grave  compassionate  friendly  a poet  expert  silent
 tr: he is moderate in eating, sober, giving honour to others while seeking none for himself, grave, compassionate, friendly, a poet, expert and sparing in speech.
 

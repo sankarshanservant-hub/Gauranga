@@ -1322,7 +1322,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^7]: Heading in the edition: the meaning of the verse; the gopīs, wholly absorbed in Kṛṣṇa and separated from Him, search for Him and lament.
 
-[^8]: The edition prints *sakhī* (a misprint; the vocative is *sakhi*, as in the Anubhāṣya: *he sakhi*). In the verse the beloved is not named; that She is Rādhā is said in verses 45–47 and in the Amṛta-pravāha-bhāṣya.
+[^8]: The edition prints sakhī (a misprint; the vocative is *sakhi*, as in the Anubhāṣya: *he sakhi*). In the verse the beloved is not named; that She is Rādhā is said in verses 45–47 and in the Amṛta-pravāha-bhāṣya.
 
 [^9]: *Anubhāṣya*: His left arm rests on His beloved’s shoulder, and in His right hand He holds a lotus for play; the bees are blind with the intoxication of the nectar they have drunk.
 

@@ -172,7 +172,7 @@ fn: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came
 
 ## 31
 w: Dāmodara  Paṇḍita  the branch  in love  fierce
-w: of the Lord  toward  who  made  a chastisement in words
+w: of the Lord  towards  who  made  a chastisement in words
 tr: Dāmodara Paṇḍita, another branch, was so fierce in his love that he even rebuked the Lord.
 
 ## 32
@@ -427,7 +427,7 @@ fn: In the edition the heading is “(5a) the branch of Devānanda Paṇḍita,�
 
 ## 78–79
 w: of Khaṇḍa  the residents  Mukunda dāsa,  Śrī  Raghunandana
-w: Narahari dāsa,  Ciranjīva,  Sulocana
+w: Narahari dāsa,  Cirañjīva,  Sulocana
 w: these  all  great branches —  of Caitanya’s  mercy  abodes
 w: of love  fruits  flowers  make  everywhere  gift
 tr: Mukunda dāsa, Śrī Raghunandana, Narahari dāsa, Ciranjīva and Sulocana, all of Śrīkhaṇḍa, are great branches, abodes of Śrī Caitanya’s mercy. Everywhere they give away the fruits and flowers of love.
@@ -650,7 +650,7 @@ tr: Śrī Rāmadāsa, Mādhava and Vāsudeva Ghoṣa. Govinda stayed with the Lo
 fn: Heading in the edition to 10.117: “Abhirāma, Mādhava and Vāsu Ghoṣa preach the holy name in Gauḍa with Nitāi.”
 
 ## 119
-w: Bhāgavatācārya,  Ciranjīva  Śrī  Raghunandana
+w: Bhāgavatācārya,  Cirañjīva  Śrī  Raghunandana
 w: Śrī Mādhavācārya,  Kamalākānta,  Śrī  Yadunandana
 tr: Other branches are Bhāgavatācārya, Ciranjīva, Śrī Raghunandana, Śrī Mādhavācārya, Kamalākānta and Śrī Yadunandana.
 fn: In the edition’s heading Bhāgavatācārya, Ciranjīva and Raghunandana are marked with their earlier numbers (75, 41, 39a) — they are the same persons named above; the new branches are (85) Mādhavācārya, (86) Kamalākānta and (87) Yadunandana. *Anubhāṣya*: Kamalākānta is Kamalākānta Viśvāsa of Advaita’s party; Yadunandana Ācārya belongs to Advaita’s branch (Antya 6.160–169).

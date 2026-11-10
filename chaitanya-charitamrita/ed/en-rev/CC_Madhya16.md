@@ -153,7 +153,7 @@ nevertheless  set out  Mahāprabhu  to see
 nityānandera prema-ceṣṭā ke pāre bujhite  
 Nityānanda’s  loving dealings  who  can  understand
 
-(14–15) Although the Lord had ordered Nityānanda Prabhu to stay in Gauḍa and reveal *prema-bhakti*, Nityānanda set out all the same to see Mahāprabhu. Who can understand the ways of His love?
+(14–15) Although the Lord had ordered Nityānanda Prabhu to stay in Gauḍa and reveal prema-bhakti, Nityānanda set out all the same to see Mahāprabhu. Who can understand the ways of His love?
 
 আচার্য্যরত্ন, বিদ্যানিধি, শ্রীবাস, রামাই ৷  
 বাসুদেব, মুরারি, গোবিন্দাদি তিন-ভাই ॥ ১৬ ॥
@@ -280,7 +280,7 @@ to Remuṇā  coming  they made  of Gopīnātha  darśana
 ācārya karila tām̐hā kīrtana, nartana  
 the Ācārya  did  there  kīrtana  dancing
 
-(28) Coming to Remuṇā, they had *darśana* of Gopīnātha, and there the Ācārya sang and danced.
+(28) Coming to Remuṇā, they had darśana of Gopīnātha, and there the Ācārya sang and danced.
 
 নিত্যানন্দের পরিচয় সব-লোক-সনে ৷  
 বহুত সম্মান আসি’ কৈল সেবকগণে ॥ ২৯ ॥
@@ -440,7 +440,7 @@ all  taking  He made  Jagannātha-darśana
 sabā lañā āilā punaḥ āpana-bhavana  
 all  taking  came  again  to His own residence
 
-(44) Taking them all with Him, He had *darśana* of Jagannātha, and then He brought them all back to His own residence.
+(44) Taking them all with Him, He had darśana of Jagannātha, and then He brought them all back to His own residence.
 
 বাণীনাথ, কাশীমিশ্র প্রসাদ আনিল ৷  
 স্বহস্তে সবারে প্রভু প্রসাদ খাওয়াইল ॥ ৪৫ ॥
@@ -470,7 +470,7 @@ in this way  the devotees  stayed  four  months
 prabhura sahita kare kīrtana-vilāsa  
 the Lord  with  do  the pastimes of kīrtana
 
-(47) In this way the devotees stayed four months, enjoying the pastimes of *kīrtana* with the Lord.
+(47) In this way the devotees stayed four months, enjoying the pastimes of kīrtana with the Lord.
 
 পূর্ব্ববৎ রথযাত্রা-কাল যবে আইল ৷  
 সবা লঞা গুণ্ডিচা-মন্দির প্রক্ষালিল ॥ ৪৮ ॥
@@ -700,7 +700,7 @@ the Lord  says  —  of the Vaiṣṇavas  service  saṅkīrtana of the name
 dui kara, śīghra pābe śrī-kṛṣṇa-caraṇa  
 two  do  quickly  you will obtain  the feet of Śrī Kṛṣṇa
 
-(70) The Lord said, “Serve the Vaiṣṇavas and chant the holy name in *saṅkīrtana*. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
+(70) The Lord said, “Serve the Vaiṣṇavas and chant the holy name in saṅkīrtana. Do these two, and you will quickly attain the feet of Śrī Kṛṣṇa.”
 
 তেঁহো কহে, — কে বৈষ্ণব, কি তাঁর লক্ষণ ?  
 তবে হাসি’ কহে প্রভু জানি’ তাঁর মন ॥ ৭১ ॥
@@ -780,7 +780,7 @@ to Gadādhara Paṇḍita  he  again  mantra  gave
 oḍana-ṣaṣṭhīra dine yātrā ye dekhila  
 of Oḍana-ṣaṣṭhī  on the day  the festival  which  he saw
 
-(78) He gave the *mantra* to Gadādhara Paṇḍita a second time, and he saw the festival on the day of Oḍana-ṣaṣṭhī.
+(78) He gave the mantra to Gadādhara Paṇḍita a second time, and he saw the festival on the day of Oḍana-ṣaṣṭhī.
 
 জগন্নাথ পরেন তথা ‘মাড়ুয়া’ বসন ৷  
 দেখিয়া সঘৃণ হৈল বিদ্যানিধির মন ॥ ৭৯ ॥
@@ -1000,7 +1000,7 @@ to Kaṭaka  coming  He made  of Gopāla  darśana
 svapneśvara-vipra kaila prabhura nimantraṇa  
 the brāhmaṇa Svapneśvara  made  of the Lord  invitation
 
-(100) Coming to Kaṭaka, He had *darśana* of Gopāla, and the brāhmaṇa Svapneśvara invited the Lord for a meal.
+(100) Coming to Kaṭaka, He had darśana of Gopāla, and the brāhmaṇa Svapneśvara invited the Lord for a meal.
 
 রামানন্দ-রায় সব-গণে নিমন্ত্রিল ৷  
 বাহির উদ্যানে আসি, প্রভু বাসা কৈল ॥ ১০১ ॥
@@ -1526,7 +1526,7 @@ in a new house  with all kinds of  provisions  do  service
 তথা হৈতে রামানন্দ-রায়ে বিদায় দিলা ॥ ১৫৩ ॥
 
 ei mata cali’ prabhu ‘remuṇā’ āilā  
-in this  way  traveling  the Lord  to Remuṇā  came  
+in this  way  travelling  the Lord  to Remuṇā  came  
 tathā haite rāmānanda-rāye vidāya dilā  
 from there  to Rāmānanda Rāya  leave  gave
 
@@ -1556,7 +1556,7 @@ to tell  not  I can  this  its  description
 তথা রাজ-অধিকারী প্রভুরে মিলিলা ॥ ১৫৬ ॥
 
 tabe ‘oḍhra-deśa-sīmā’ prabhu cali’ āilā  
-then  to the border of the land of Oḍhra  the Lord  traveling  came  
+then  to the border of the land of Oḍhra  the Lord  travelling  came  
 tathā rāja-adhikārī prabhure mililā  
 there  the royal governor  the Lord  met
 
@@ -1580,7 +1580,7 @@ drunken  of the yavana king  ahead  the domain
 tām̐ra bhaye pathe keha nāre calibāra  
 his  from fear  on the road  anyone  cannot  travel
 
-(158) “Ahead lies the domain of a drunken *yavana* king. For fear of him no one can travel this road.
+(158) “Ahead lies the domain of a drunken yavana king. For fear of him no one can travel this road.
 
 পিছলদা পর্য্যন্ত সব তাঁর অধিকার ৷  
 তাঁর ভয়ে নদী কেহ হৈতে নারে পার ॥ ১৫৯ ॥
@@ -1610,7 +1610,7 @@ at that  time  that  yavana’s  one  follower
 oḍiyā-kaṭake āilā kari’ veśāntara  
 to the Oriyā camp  came  making  a change of dress
 
-(161) At that time one of that *yavana*’s men came to the Oriyā camp in disguise.[^26]
+(161) At that time one of that yavana’s men came to the Oriyā camp in disguise.[^26]
 
 প্রভুর সেই অদ্ভুত চরিত্র দেখিয়া ৷  
 হিন্দু-চর কহে, সেই যবন-পাশ গিয়া ॥ ১৬২ ॥
@@ -1620,7 +1620,7 @@ the Lord’s  that  wonderful  conduct  seeing
 hindu-cara kahe, sei yavana-pāśa giyā  
 the Hindu spy  says  to that  yavana  going
 
-(162) Seeing the Lord’s wonderful ways, the spy in his Hindu guise went back to the *yavana* and said,
+(162) Seeing the Lord’s wonderful ways, the spy in his Hindu guise went back to the yavana and said,
 
 এক সন্ন্যাসী আইল জগন্নাথ হৈতে ৷  
 অনেক সিদ্ধ-পুরুষ হয় তাঁহার সহিতে ॥ ১৬৩ ॥
@@ -1630,7 +1630,7 @@ one  sannyāsī  has come  Jagannātha  from
 aneka siddha-puruṣa haya tām̐hāra sahite  
 many  perfected men  are  Him  with
 
-(163) “A *sannyāsī* has come from Jagannātha, and many perfected souls are with Him.
+(163) “A sannyāsī has come from Jagannātha, and many perfected souls are with Him.
 
 নিরন্তর করে সবে কৃষ্ণ-সংকীর্ত্তন ৷  
 সবে হাসে, নাচে, গায়, করয়ে ক্রন্দন ॥ ১৬৪ ॥
@@ -1640,7 +1640,7 @@ constantly  perform  all  the saṅkīrtana of Kṛṣṇa
 sabe hāse, nāce, gāya, karaye krandana  
 all  laugh  dance  sing  do  weeping
 
-(164) All of them constantly perform the *saṅkīrtana* of Kṛṣṇa, laughing, dancing, singing and weeping.
+(164) All of them constantly perform the saṅkīrtana of Kṛṣṇa, laughing, dancing, singing and weeping.
 
 লক্ষ লক্ষ লোক আইসে তাহা দেখিবারে ৷  
 তাঁরে দেখি’ পুনরপি যাইতে নারে ঘরে ॥ ১৬৫ ॥
@@ -1690,7 +1690,7 @@ this  hearing  the yavana’s  mind  turning  went
 āpana ‘viśvāsa’ oḍiyā sthāne pāṭhāila  
 his own  secretary (*viśvāsa*)  of the Oriyā  to the place  sent
 
-(169) Hearing this, the *yavana* had a change of heart, and he sent his own secretary (*viśvāsa*) to the Oriyā officer.[^27]
+(169) Hearing this, the yavana had a change of heart, and he sent his own secretary (*viśvāsa*) to the Oriyā officer.[^27]
 
 ‘বিশ্বাস’ আসিয়া প্রভুর চরণ বন্দিল ৷  
 ‘কৃষ্ণ’ ‘কৃষ্ণ’ কহি’ প্রেমে বিহ্বল হইল ॥ ১৭০ ॥
@@ -1720,7 +1720,7 @@ you  if  permission  give  here  coming
 yavana adhikārī yāya prabhuke miliyā  
 the yavana  governor  will go  the Lord  having met
 
-(172) If you give permission, the *yavana* governor will come here, meet the Lord and go back.
+(172) If you give permission, the yavana governor will come here, meet the Lord and go back.
 
 বহুত উৎকণ্ঠা তাঁর, কর্য্যাছে বিনয় ৷  
 তোমা-সনে এই সন্ধি, নাহি যুদ্ধ ভয় ॥ ১৭৩ ॥
@@ -1740,7 +1740,7 @@ hearing  the Mahāpātra  says  becoming  amazed
 madyapa yavanera citta aiche ke karaya!  
 of the drunken  yavana  the heart  like this  who  makes
 
-(174) Hearing this, the Mahāpātra was amazed and said, “Who could make the heart of a drunken *yavana* like this?
+(174) Hearing this, the Mahāpātra was amazed and said, “Who could make the heart of a drunken yavana like this?
 
 আপনে মহাপ্রভু তাঁর মন ফিরাইল ৷  
 দর্শন-স্মরণে যাঁর জগৎ তারিল ॥ ১৭৫ ॥
@@ -1780,7 +1780,7 @@ the secretary  going  to him  everything  told
 hindu-veśa dhari’ sei yavana āila  
 a Hindu’s dress  putting on  that  yavana  came
 
-(178) The secretary went and told him everything, and the *yavana* came dressed as a Hindu.
+(178) The secretary went and told him everything, and the yavana came dressed as a Hindu.
 
 দূর হৈতে প্রভু দেখি’ ভূমেতে পড়িয়া ৷  
 দণ্ডবৎ করে অশ্রু-পুলকিত হঞা ॥ ১৭৯ ॥
@@ -1810,7 +1810,7 @@ in a low  yavana family  why  birth  took place
 vidhi more hindu-kule kene nā janmāila  
 Providence  me  in a Hindu family  why  not  caused to be born
 
-(181) “Why was I born in a low *yavana* family? Why did Providence not have me born in a Hindu family?
+(181) “Why was I born in a low yavana family? Why did Providence not have me born in a Hindu family?
 
 ‘হিন্দু’ হৈলে পাইতাম তোমার চরণ-সন্নিধান ৷  
 ব্যর্থ মোর এই দেহ, যাউক পরাণ ॥ ১৮২ ॥
@@ -1946,13 +1946,13 @@ in the morning  he  many  boats  fitting out
 prabhuke ānite dila viśvāsa pāṭhāñā  
 the Lord  to bring  he did  the secretary  sending
 
-(194) In the morning the *yavana* fitted out many boats and sent his secretary to bring the Lord.
+(194) In the morning the yavana fitted out many boats and sent his secretary to bring the Lord.
 
 মহাপাত্র চলি’ আইলা মহাপ্রভুর সনে ৷  
 ম্লেচ্ছ আসি’ কৈল প্রভুর চরণ বন্দনে ॥ ১৯৫ ॥
 
 mahā-pātra cali’ āilā mahāprabhura sane  
-the Mahāpātra  traveling  came  Mahāprabhu  with  
+the Mahāpātra  travelling  came  Mahāprabhu  with  
 mleccha āsi’ kaila prabhura caraṇa vandane  
 the mleccha  coming  made  the Lord’s  feet  worship
 
@@ -1986,7 +1986,7 @@ for fear of river pirates  that  yavana  went along
 daśa naukā bhari’ bahu sainya saṅge nila  
 ten  boats  filling  many  soldiers  with him  took
 
-(198) For fear of river pirates the *yavana* went along too, taking many soldiers with him in ten boats.
+(198) For fear of river pirates the yavana went along too, taking many soldiers with him in ten boats.
 
 ‘মন্ত্রেশ্বর’-দুষ্টনদে পার করাইল ৷  
 ‘পিছল্দা’ পর্য্যন্ত যেই যবন আইল ॥ ১৯৯ ॥
@@ -1996,7 +1996,7 @@ Mantreśvara  the dangerous river  across  he brought them
 ‘pichaldā’ paryanta yei yavana āila  
 Picchaldā  as far as  who  yavana  came
 
-(199) He brought them across the dangerous Mantreśvara river, and the *yavana* came with them all the way to Picchaldā.[^29]
+(199) He brought them across the dangerous Mantreśvara river, and the yavana came with them all the way to Picchaldā.[^29]
 
 তাঁরে বিদায় দিল প্রভু সেই গ্রাম হৈতে ৷  
 সে-কালে তাঁর প্রেম-চেষ্টা না পারি বর্ণিতে ॥ ২০০ ॥
@@ -2086,7 +2086,7 @@ in Mādhava dāsa’s house  there  of Śacī  the son
 lakṣa-koṭī loka tathā pāila darśana  
 hundreds of thousands and millions  people  there  obtained  darśana
 
-(208) In Kuliyā the son of Śacī lodged in the house of Mādhava dāsa, and countless millions of people had His *darśana*.
+(208) In Kuliyā the son of Śacī lodged in the house of Mādhava dāsa, and countless millions of people had His darśana.
 
 সাত দিন রহি’ তথা লোক নিস্তারিলা ৷  
 সব অপরাধিগণে প্রকারে তারিলা ॥ ২০৯ ॥
@@ -2236,7 +2236,7 @@ sannyāsa  taking  the Lord  when  to Śāntipura  came
 tabe āsi’ raghunātha prabhure mililā  
 then  coming  Raghunātha  the Lord  met
 
-(223) When the Lord came to Śāntipura after taking *sannyāsa*, Raghunātha had come and met Him.
+(223) When the Lord came to Śāntipura after taking sannyāsa, Raghunātha had come and met Him.
 
 প্রভুর চরণে পড়ে প্রেমাবিষ্ট হঞা ৷  
 প্রভু পাদস্পর্শ কৈল করুণা করিয়া ॥ ২২৪ ॥
@@ -2674,7 +2674,7 @@ to Vṛndāvana  of going  this  is not  the proper way
 tabu āmi śunilum̐ mātra, nā kailum̐ avadhāna  
 yet  I  heard  only  not  I paid  attention  
 prāte cali’ āilāṅa ‘kānāira nāṭaśālā’-grāma  
-in the morning  traveling  I came  to the village of Kānāira Nāṭaśālā
+in the morning  travelling  I came  to the village of Kānāira Nāṭaśālā
 
 (267) Yet I only heard it and paid it no heed. In the morning I set out and came to the village of Kānāira Nāṭaśālā.
 
@@ -2930,7 +2930,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^10]: *Amṛta-pravāha-bhāṣya*: body and life are never apart; that the Lord lives in Nīlācala and Nityānanda in Gauḍa is due only to the Lord’s inconceivable power.
 
-[^11]: *Anubhāṣya*: one on whose lips the name of Kṛṣṇa is present “constantly” is the intermediate devotee (*madhyama-bhāgavata*), higher than the beginner (*kaniṣṭha*), who utters the name once (Madhya 15.106). “Constantly” means without any gap — free of other desires, *karma*, *jñāna* and slackness.
+[^11]: *Anubhāṣya*: one on whose lips the name of Kṛṣṇa is present “constantly” is the intermediate devotee (*madhyama-bhāgavata*), higher than the beginner (*kaniṣṭha*), who utters the name once (Madhya 15.106). “Constantly” means without any gap — free of other desires, karma, jñāna and slackness.
 
 [^12]: *Anubhāṣya*: this is the *mahā-bhāgavata* (*uttama-adhikārī*): at the sight of him the name of Kṛṣṇa comes of itself to the lips of the beholder, and by his mercy the intermediate devotee becomes the highest.
 
@@ -2960,7 +2960,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^25]: Heading in the edition: “It is impossible to describe how Rāya felt his separation from the Lord.”
 
-[^26]: *Anubhāṣya*: “in disguise” — being a *yavana*, he had exchanged a *yavana*’s dress for a Hindu’s; hence “the Hindu spy” in 162. *Amṛta-pravāha-bhāṣya*: the Oriyā camp (*kaṭaka*) was the army post on the border of the king of Utkala’s lands.
+[^26]: *Anubhāṣya*: “in disguise” — being a yavana, he had exchanged a yavana’s dress for a Hindu’s; hence “the Hindu spy” in 162. *Amṛta-pravāha-bhāṣya*: the Oriyā camp (*kaṭaka*) was the army post on the border of the king of Utkala’s lands.
 
 [^27]: *Amṛta-pravāha-bhāṣya*: the ruler of Gauḍa had a department called the *viśvāsa-khānā*, staffed only by the most trusted Kāyasthas; these *viśvāsas* were sent wherever the king had important business.
 

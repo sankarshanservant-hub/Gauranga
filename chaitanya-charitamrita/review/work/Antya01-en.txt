@@ -143,7 +143,7 @@ w: of all  the Vaiṣṇavas  in the minds  wonder  arose
 tr: In the morning they searched for the dog but found it nowhere, and all the Vaiṣṇavas were astonished.
 
 ## 25
-w: anxiously  traveling  all  came  to Nīlācala
+w: anxiously  travelling  all  came  to Nīlācala
 w: as before  Mahāprabhu  met  with all
 tr: Restless at heart, they all travelled on to Nīlācala, and Mahāprabhu met them all as before.
 
@@ -175,7 +175,7 @@ fn: The second line is the same as Madhya 7.80; translated as there.
 
 ## 31
 w: Śivānanda  the dog  seeing  obeisance  offered
-w: humility  showing  his own  offense  had forgiven
+w: humility  showing  his own  offence  had forgiven
 tr: When Śivānanda saw the dog, he bowed down before it and humbly begged forgiveness for his offence.
 
 ## 32
@@ -199,7 +199,7 @@ w: the invocation  the nāndī verse  right there  he wrote
 tr: He began the drama in Vṛndāvana and wrote its invocation, the *nāndī* verse, right there.
 
 ## 36
-w: on the road  traveling  he comes  of the drama  the plot  pondering
+w: on the road  travelling  he comes  of the drama  the plot  pondering
 w: a draft  making  something  he began  to write
 tr: As he travelled, he pondered the plot of the drama, and he began to set some of it down in a draft (*kaḍacā*).
 fn: *Amṛta-pravāha-bhāṣya*: *kaḍacā* — a sketch, a rough draft.
@@ -573,15 +573,15 @@ w: of Śrī  Rūpa  the qualities  to both  He began  to tell
 tr: To test Sārvabhauma and Rāmānanda, He began to describe Śrī Rūpa’s qualities to them both.
 
 ## 107
-w: the nature of the Lord:  of the devotee  not  He takes  the offenses
+w: the nature of the Lord:  of the devotee  not  He takes  the offences
 w: small service  great  He considers,  up to Himself  grace
 tr: It is the Lord’s nature not to hold His devotee’s offences against him. He regards a little service as great, and His grace goes so far that He gives Himself.
 fn: *Anubhāṣya*: *ātma-paryanta prasāda* — His grace goes so far that He gives His *ātmā*, Himself.
 
 ## 108
-w: of the servant  He sees  grave  even  not  the offenses
+w: of the servant  He sees  grave  even  not  the offences
 w: service  slight  even  done  manifold  He accepts
-w: He shows  toward slanderers  even  not  ill will
+w: He shows  towards slanderers  even  not  ill will
 w: by nature  pure in mind  Puruṣottama  this
 tr: “This Lord Puruṣottama, pure in mind by nature, does not see even the grave offences of His servant; He accepts even the slightest service as many times greater; and even toward those who slander Him He shows no ill will.” (Bhakti-rasāmṛta-sindhu, 2.1.138)
 fn: Reference as in the edition heading (p. 855): *Bhakti-rasāmṛta-sindhu*, Dakṣiṇa-vibhāga, Vibhāva-laharī, 138. *Anubhāṣya*: *nirmala-matiḥ* — a mind free from inborn attachment and aversion; another reading has *kamalekṣaṇaḥ* (“lotus-eyed”) for *puruṣottamaḥ*.
@@ -875,7 +875,7 @@ tr: “Stained by inner suffering, we are surely going today to the city of Yama
 w: leaving  far  on the way  of the husband-tree  the nearness  of the bridge of dharma
 w: eager to break  the mountain of elders  swiftly  crossing
 w: has reached  O Kṛṣṇa-ocean  full of fresh rasa  the river Rādhikā  You
-w: with waves of words  why  then  estrangement  toward her  You show
+w: with waves of words  why  then  estrangement  towards her  You show
 tr: “O ocean Kṛṣṇa, the river Rādhikā, full of fresh rasa, has left far behind on her way the tree of her husband that stood beside her, broken through the bridge of dharma, and swiftly crossed the mountain of her elders, and she has reached You. Why, then, do You turn her away with the waves of Your words?” (Vidagdha-mādhava, 3.9)
 
 ## 156

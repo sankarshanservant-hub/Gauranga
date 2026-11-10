@@ -490,21 +490,21 @@ seeing  the marvel  became  astonished  all
 কন্যাগণ আইলা তাঁহা দেবতা পূজিতে ॥ ৪৮ ॥
 
 kabhu śiśu-saṅge snāna karila gaṅgāte  
-sometimes  with the children  bath  He took  in the Ganges  
+sometimes  with the children  bath  He took  in the Gaṅgā  
 kanyāgaṇa āilā tām̐hā devatā pūjite  
 the girls  came  there  the gods  to worship
 
-(48) Sometimes He bathed in the Ganges with the other children, and the girls would come there to worship the gods.
+(48) Sometimes He bathed in the Gaṅgā with the other children, and the girls would come there to worship the gods.
 
 গঙ্গাস্নান করি’ পূজা করিতে লাগিলা ৷  
 কন্যাগণ-মধ্যে প্রভু আসিয়া বসিলা ॥ ৪৯ ॥
 
 gaṅgā-snāna kari’ pūjā karite lāgilā  
-bath in the Ganges  having taken  worship  to do  they began  
+bath in the Gaṅgā  having taken  worship  to do  they began  
 kanyāgaṇa-madhye prabhu āsiyā basilā  
 of the girls  in the midst  the Lord  coming  sat down
 
-(49) When they had bathed in the Ganges and begun their worship, the Lord would come and sit down among them.
+(49) When they had bathed in the Gaṅgā and begun their worship, the Lord would come and sit down among them.
 
 কন্যারে কহে, — আমা পূজ, আমি দিব বর ৷  
 গঙ্গা-দুর্গা — দাসী মোর, মহেশ — কিঙ্কর ॥ ৫০ ॥
@@ -632,9 +632,9 @@ sorrow  anyone’s  in the mind  is not,  all  happiness  get
 ekadina vallabhācārya-kanyā ‘lakṣmī’ nāma  
 one day  Vallabhācārya’s daughter  ‘Lakṣmī’  by name  
 devatā pūjite āila kari’ gaṅgā-snāna  
-the gods  to worship  came  having taken  a bath in the Ganges
+the gods  to worship  came  having taken  a bath in the Gaṅgā
 
-(62) One day Vallabhācārya’s daughter, Lakṣmī by name, bathed in the Ganges and came to worship the gods.[^16]
+(62) One day Vallabhācārya’s daughter, Lakṣmī by name, bathed in the Gaṅgā and came to worship the gods.[^16]
 
 তাঁরে দেখি’ প্রভুর হৈল সাভিলাষ মন ৷  
 লক্ষ্মী চিত্তে সুখ পাইল প্রভুর দর্শন ॥ ৬৩ ॥
@@ -756,9 +756,9 @@ is seated  happily  the Lord  divine  Viśvambhara
 śacī āsi’ kahe, — kene aśuci chum̐ilā  
 Śacī  coming  says  —  why  the impure  You touched  
 gaṅgā-snāna kara yāi’ — apavitra hailā  
-bath in the Ganges  take  going  —  unclean  You have become
+bath in the Gaṅgā  take  going  —  unclean  You have become
 
-(74) Śacī came and said, “Why have You touched these unclean things? Go and bathe in the Ganges — You have made Yourself impure.”
+(74) Śacī came and said, “Why have You touched these unclean things? Go and bathe in the Gaṅgā — You have made Yourself impure.”
 
 ইহা শুনি’ মাতাকে কহিল ব্রহ্মজ্ঞান ৷  
 বিস্মিতা হইয়া মাতা করাইল স্নান ॥ ৭৫ ॥
@@ -1012,7 +1012,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^10]: *Amṛta-pravāha-bhāṣya*: a wandering brāhmaṇa came as a guest to the house of Śrī Jagannātha Miśra. Miśra gave him all he needed for cooking, and he prepared a meal; but as soon as he offered it in meditation to Gopāla, Nimāi came and began to eat it. The brāhmaṇa cooked again, and the same thing happened. The third time he cooked when everyone in the house was asleep, and again Nimāi came and began to eat. The brāhmaṇa cried out in despair, and then Nimāi said, “O brāhmaṇa, when I was Yaśodā’s darling in Vraja, this happened to you before. Now too, drawn by your devotion, I have shown Myself to you out of mercy.” Seeing his worshipful Lord, the brāhmaṇa, enraptured with great love, honoured the remnants of the prasāda, and the Lord forbade him to reveal this hidden pastime. *Anubhāṣya*: see the *Caitanya-bhāgavata*, Ādi 3.
 
-[^11]: *Amṛta-pravāha-bhāṣya*: Mahāprabhu, still very small and decked in gold ornaments, was playing outside the gate. Two thieves lifted Him onto their shoulders and carried Him off, promising Him sweets, but they meant to kill the child in the forest and take His ornaments. Mahāprabhu, however, spread His *māyā* and led them astray, and with Him on their shoulders they arrived at the gate of His own house. There the relatives who had been running about searching for Him saw them; the thieves set the child down and fled, and He was carried with great care into Śacī’s courtyard. *Anubhāṣya*: see the *Caitanya-bhāgavata*, Ādi 3.
+[^11]: *Amṛta-pravāha-bhāṣya*: Mahāprabhu, still very small and decked in gold ornaments, was playing outside the gate. Two thieves lifted Him onto their shoulders and carried Him off, promising Him sweets, but they meant to kill the child in the forest and take His ornaments. Mahāprabhu, however, spread His māyā and led them astray, and with Him on their shoulders they arrived at the gate of His own house. There the relatives who had been running about searching for Him saw them; the thieves set the child down and fled, and He was carried with great care into Śacī’s courtyard. *Anubhāṣya*: see the *Caitanya-bhāgavata*, Ādi 3.
 
 [^12]: Heading in the edition: “On Ekādaśī He eats the offering to Viṣṇu from the house of Hiraṇya and Jagadīśa.” *Amṛta-pravāha-bhāṣya*: on Ekādaśī an offering for Viṣṇu was being prepared in the house of Jagadīśa and Hiraṇya Paṇḍita. Mahāprabhu wanted to taste it and sent His father there. Hiraṇya and Jagadīśa were amazed: “Today is Ekādaśī, and an offering for Viṣṇu is being cooked in our house — how could so small a child know of it? Surely there is a Vaiṣṇava power in Him.” And they sent the food to the child. Mahāprabhu had asked for it on the pretext of illness, saying that if He ate the offering to Viṣṇu His illness would pass. He fed it to the other children, ate some Himself, and so was “cured”. Their house lay about a *krośa* south-east of Miśra’s, and a child could not have known what was happening there. *Anubhāṣya*: see the *Caitanya-bhāgavata*, Ādi 4.
 

@@ -966,7 +966,7 @@ you  a great  man,  a paṇḍita,  a great  bhāgavata
 sevā nā kariha, sukhe cala mora sāthe  
 service  not  do,  happily  walk  me  with
 
-(96) “You are a great man, a *paṇḍita*, a *mahā-bhāgavata*. Do not serve me; just walk happily with me.”
+(96) “You are a great man, a paṇḍita, a *mahā-bhāgavata*. Do not serve me; just walk happily with me.”
 
 রামদাস কহে, — আমি শূদ্র অধম !  
 ‘ব্রাহ্মণের সেবা’, — এই মোর নিজ-ধর্ম্ম ॥ ৯৭ ॥
@@ -976,7 +976,7 @@ Rāmadāsa  says  I  a śūdra  lowly
 ‘brāhmaṇera sevā’, — ei mora nija-dharma  
 of the brāhmaṇa  service  this  my  own  dharma
 
-(97) Rāmadāsa said, “I am a lowly *śūdra*! To serve a brāhmaṇa is my own *dharma*.
+(97) Rāmadāsa said, “I am a lowly śūdra! To serve a brāhmaṇa is my own dharma.
 
 সঙ্কোচ না কর তুমি, আমি — তোমার ‘দাস’ ৷  
 তোমার সেবা করিলে হয় হৃদয়ে উল্লাস ॥ ৯৮ ॥
@@ -1176,7 +1176,7 @@ four  years  at home  father  mother’s  service  did
 vaiṣṇava-paṇḍita-ṭhāñi bhāgavata paḍilā  
 a Vaiṣṇava  paṇḍita  from  the Bhāgavata  studied
 
-(117) For four years he served his father and mother at home, and he studied the *Bhāgavata* under a Vaiṣṇava *paṇḍita*.
+(117) For four years he served his father and mother at home, and he studied the *Bhāgavata* under a Vaiṣṇava paṇḍita.
 
 পিতা-মাতা কাশী পাইলে উদাসীন হঞা ৷  
 পুনঃ প্রভুর ঠাঞি আইলা গৃহাদি ছাড়িয়া ॥ ১১৮ ॥
@@ -1439,9 +1439,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^21]: The Gauḍīya Maṭha edition (p. 1006) reads *laya*, “He takes (the way through the hedge)”; another reading is *haya*. *Amṛta-pravāha-bhāṣya*: in Utkala a flower garden is called *phul-bāḍī*; *sij* shrubs grow there—*manasā-sij* and thorny *sij*—and so a hedge of them is called *sijera bāḍī*; *bāḍī* here means “a hedge.”
 
-[^22]: Heading in the edition: the Lord, filled with the mood of the *āśraya* (the abode of love), is the *ācārya*, the teacher of the world; the doctrine of “Gaura-nāgara” is refuted here; the Lord turns back.
+[^22]: Heading in the edition: the Lord, filled with the mood of the *āśraya* (the abode of love), is the ācārya, the teacher of the world; the doctrine of “Gaura-nāgara” is refuted here; the Lord turns back.
 
-[^23]: Heading in the edition: to touch a woman or keep company with her is death for an *ācārya* and a preacher, and so it must be avoided in every way; by thanking Govinda, the Lord teaches this lesson.
+[^23]: Heading in the edition: to touch a woman or keep company with her is death for an ācārya and a preacher, and so it must be avoided in every way; by thanking Govinda, the Lord teaches this lesson.
 
 [^24]: Heading in the edition: the story of Raghunātha Bhaṭṭa Gosvāmī, who from his youth kept the great vow of a lifelong celibate (*naiṣṭhika-brahmacārī*).
 
@@ -1461,7 +1461,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: *Anubhāṣya*: the Paṭṭanāyaka family—the descendants of Bhavānanda.
 
-[^33]: *Anubhāṣya*: Mahāprabhu saw that Raghunātha, before entering family life, was already devoted to Kṛṣṇa, and so He forbade him to take a wife—an excess (*atyāhāra*)—and to enter the world of *māyā*, the abode of enjoyment; worldly people ruled by their wives often turn away from the service of Kṛṣṇa, and there is little hope of their attaining devotion to Hari.
+[^33]: *Anubhāṣya*: Mahāprabhu saw that Raghunātha, before entering family life, was already devoted to Kṛṣṇa, and so He forbade him to take a wife—an excess (*atyāhāra*)—and to enter the world of māyā, the abode of enjoyment; worldly people ruled by their wives often turn away from the service of Kṛṣṇa, and there is little hope of their attaining devotion to Hari.
 
 [^34]: *Anubhāṣya*: through Raghunātha the Lord teaches that one should serve a father and mother who are Vaiṣṇavas wholly devoted to Gaura, and serve them only in a way that helps one’s own service to Hari; He does not tell anyone to serve parents averse to Hari, guru and Vaiṣṇavas. The *Bhāgavata* is to be studied only under a *bhāgavata* free from *anarthas*: under a non-Vaiṣṇava grammarian it becomes a worldly poem.
 
@@ -1471,7 +1471,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^37]: *Anubhāṣya*: *āulāya*—the mind loses its support, grows weak, agitated and unsteady, as if mad. Heading in the edition: Raghunātha, the best of the followers of Rūpa (*rūpānuga*), reads the *Bhāgavata* before Śrī Rūpa Prabhu.
 
-[^38]: The Gauḍīya Maṭha edition (p. 1009) reads *netra rodha kare bāṣpa*, “tears veil the eyes”; another reading is *netra kaṇṭha rodhe bāṣpa*, “tears choke the eyes and throat.” Heading in the edition: the eight *sāttvika-bhāvas* (spiritual transformations) appear in Raghunātha.
+[^38]: The Gauḍīya Maṭha edition (p. 1009) reads *netra rodha kare bāṣpa*, “tears veil the eyes”; another reading is *netra kaṇṭha rodhe bāṣpa*, “tears choke the eyes and throat.” Heading in the edition: the eight sāttvika-bhāvas (spiritual transformations) appear in Raghunātha.
 
 [^39]: Heading in the edition: through his own disciple he builds the temple of Govinda and makes ornaments for the Deity.
 

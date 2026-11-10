@@ -96,7 +96,7 @@ by the sacrifice of saṅkīrtana  in Kali  of Kṛṣṇa  worship
 sei ta’ sumedhā pāya kṛṣṇera caraṇa  
 he  indeed  intelligent  attains  Kṛṣṇa’s  feet
 
-(9) In the age of Kali, Kṛṣṇa is worshipped by the sacrifice of *saṅkīrtana*. One who worships Him so is truly intelligent and attains Kṛṣṇa’s feet.”
+(9) In the age of Kali, Kṛṣṇa is worshipped by the sacrifice of saṅkīrtana. One who worships Him so is truly intelligent and attains Kṛṣṇa’s feet.”
 
 কৃষ্ণবর্ণং ত্বিষাঽকৃষ্ণং সাঙ্গোপাঙ্গাস্ত্রপার্ষদম্ ৷  
 যজ্ঞৈঃ সঙ্কীর্ত্তনপ্রায়ৈর্যজন্তি হি সুমেধসঃ ॥ ১০ ॥
@@ -153,7 +153,7 @@ of love for Kṛṣṇa  the awakening,  of the nectar of love  the tasting
 kṛṣṇa-prāpti, sevāmṛta-samudre majjana  
 of Kṛṣṇa  the attainment,  in the ocean of the nectar of service  immersion
 
-(13–14) “Through *saṅkīrtana* sin and material existence are destroyed, the heart is purified, and all the practices of devotion awaken. Love for Kṛṣṇa awakens, and one tastes the nectar of that love. One attains Kṛṣṇa and is immersed in the nectarean ocean of His service.”
+(13–14) “Through saṅkīrtana sin and material existence are destroyed, the heart is purified, and all the practices of devotion awaken. Love for Kṛṣṇa awakens, and one tastes the nectar of that love. One attains Kṛṣṇa and is immersed in the nectarean ocean of His service.”
 
 উঠিল বিষাদ, দৈন্য, পড়ে আপন-শ্লোক ৷  
 যাহার অর্থ শুনি’ সব যায় দুঃখ-শোক ॥ ১৫ ॥
@@ -365,7 +365,7 @@ Your  eternal  servant  I  You  forgetting
 paḍiyāchom̐ bhavārṇave māyā-baddha hañā  
 I have fallen  into the ocean of material existence  by māyā  bound  becoming
 
-(33) “I am Your eternal servant, but I forgot You and fell into the ocean of material existence, bound by *māyā*.
+(33) “I am Your eternal servant, but I forgot You and fell into the ocean of material existence, bound by māyā.
 
 কৃপা করি’ কর মোরে পদধূলী-সম ৷  
 তোমার সেবক করোঁ তোমার সেবন ॥ ৩৪ ॥
@@ -652,7 +652,7 @@ Kṛṣṇa’s  only  we desire  satisfaction
 তবে মোর সুখের উল্লাস ॥ ৫৬ ॥
 
 ye gopī mora kare dveṣe, kṛṣṇera kare santoṣe,  
-whichever  gopī  toward Me  bears  enmity  Kṛṣṇa’s  makes  satisfaction  
+whichever  gopī  towards Me  bears  enmity  Kṛṣṇa’s  makes  satisfaction  
 kṛṣṇa yāre kare abhilāṣa  
 Kṛṣṇa  whom  makes  desire  
 mui tāra ghare yāñā, tāre sevom̐ dāsī hañā,  
@@ -676,7 +676,7 @@ she stopped  the sun’s  course  she revived  dead  husband
 tuṣṭa kaila mukhya tina-devā  
 pleased  made  the chief  three gods
 
-(57) The wife of a leprous *brāhmaṇa*, the crest jewel of chaste wives, served a prostitute for her husband’s sake. She stopped the course of the sun, brought her dead husband back to life, and pleased the three principal deities.[^17]
+(57) The wife of a leprous brāhmaṇa, the crest jewel of chaste wives, served a prostitute for her husband’s sake. She stopped the course of the sun, brought her dead husband back to life, and pleased the three principal deities.[^17]
 
 কৃষ্ণ — মোর জীবন, কৃষ্ণ — মোর প্রাণধন,  
 কৃষ্ণ — মোর প্রাণের পরাণ ৷  
@@ -909,7 +909,7 @@ of the intellect  entry  there is none  into them  not  I can  describe
 চৈতন্যচরিত্র-বর্ণন কৈলুঁ সমাপন ॥ ৭৮ ॥
 
 saba śrotā-vaiṣṇavera vandiyā caraṇa  
-of all  the listening  Vaiṣṇavas  honoring  the feet  
+of all  the listening  Vaiṣṇavas  honouring  the feet  
 caitanya-caritra-varṇana kailum̐ samāpana  
 Caitanya’s  deeds  the description  I have  concluded
 
@@ -1284,7 +1284,7 @@ in the ninth  —  Gopīnātha Paṭṭanāyaka’s release
 trijagatera loka prabhura pāila daraśana  
 of the three worlds  the people  of the Lord  received  sight
 
-(116) In the ninth: the release of Gopīnātha Paṭṭanāyaka; and the people of the three worlds received the Lord’s *darśana*.
+(116) In the ninth: the release of Gopīnātha Paṭṭanāyaka; and the people of the three worlds received the Lord’s darśana.
 
 দশমে — কহিলুঁ ভক্তদত্ত-আস্বাদন ৷  
 রাঘব-পণ্ডিতের তাঁহা ঝালির সাজন ॥ ১১৭ ॥
@@ -1394,7 +1394,7 @@ of that  in the midst  the Lord’s  of the five senses attraction
 tāra madhye karilā rāse kṛṣṇa-anveṣaṇa  
 of that  in the midst  made  in the rāsa  search for Kṛṣṇa
 
-(127) In it: the attraction of the Lord’s five senses, and His search for Kṛṣṇa in the *rāsa* dance.
+(127) In it: the attraction of the Lord’s five senses, and His search for Kṛṣṇa in the rāsa dance.
 
 ষোড়শে — কালিদাসে প্রভু কৃপা করিলা ৷  
 বৈষ্ণবোচ্ছিষ্ট খাইবার ফল দেখাইলা ॥ ১২৮ ॥
@@ -1807,7 +1807,7 @@ book  this  completion  reached
 
 [^41]: So in the Gauḍīya Maṭha edition: *tāra vāṇī*, “his speech” — the author speaks of himself in the third person, as in the closing lines of the chapters; *tāra* is written without the *candrabindu*, as one speaks of oneself (of those he honours the author writes *tāṅra*, 83, 89), and “their” would be *sabāra*. Other manuscripts read *mora vāṇī*, “my speech” (cited in the *Anubhāṣya* as a variant).
 
-[^42]: *Anubhāṣya*: *upādhyāyī* — one to whom pupils come to learn (*Manu-smṛti* 2.141), here a teacher of the arts (*kalā-vidyā*). Heading in the edition: only by following the mercy of Nityānanda, which is full of Caitanya (consciousness), can speech glorify Caitanya’s pastimes.
+[^42]: *Anubhāṣya*: *upādhyāyī* — one to whom pupils come to learn (Manu-smṛti, 2.141), here a teacher of the arts (*kalā-vidyā*). Heading in the edition: only by following the mercy of Nityānanda, which is full of Caitanya (consciousness), can speech glorify Caitanya’s pastimes.
 
 [^43]: Heading in the edition: obeisance to the listeners and a prayer for their mercy.
 

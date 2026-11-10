@@ -601,12 +601,12 @@ tr: After the Cāturmāsya He again went south, and there He met Paramānanda Pu
 
 ## 112
 w: then  from the Bhaṭṭathāris  of Kṛṣṇadāsa  the rescue
-w: who chanted Rāma’s name  through the mouths of brahmins  of Kṛṣṇa’s name  the spreading
+w: who chanted Rāma’s name  through the mouths of brāhmaṇas  of Kṛṣṇa’s name  the spreading
 tr: Then came the rescue of Kṛṣṇadāsa from the Bhaṭṭathāris, and the spreading of Kṛṣṇa’s name through the mouths of brahmins who chanted Rāma’s name.
 
 ## 113
 w: Śrī Raṅga Purī  with  there  meeting
-w: Rāmadāsa  the brahmin’s  He made  of sorrow  removal
+w: Rāmadāsa  the brāhmaṇa’s  He made  of sorrow  removal
 tr: There He met Śrī Raṅga Purī, and He relieved the sorrow of the brahmin Rāmadāsa.
 
 ## 114
@@ -631,7 +631,7 @@ tr: There He heard the *Kūrma Purāṇa*, in which it is written that Rāvaṇa
 
 ## 118
 w: hearing  the Lord’s  delighted  became  mind
-w: of Rāmadāsa  the brahmin  the words  came  to remembrance
+w: of Rāmadāsa  the brāhmaṇa  the words  came  to remembrance
 tr: Hearing this, the Lord was delighted at heart, and He remembered the words of the brahmin Rāmadāsa.
 
 ## 119
@@ -810,13 +810,13 @@ tr: Hearing that the Lord had come to Kuliyā, millions upon millions of people 
 
 ## 153
 w: in the village of Kuliyā  He showed  to Devānanda  grace
-w: the brāhmaṇa Gopāla  He forgave  the offense to Śrīvāsa
+w: the brāhmaṇa Gopāla  He forgave  the offence to Śrīvāsa
 tr: In Kuliyā He showed His grace to Devānanda and forgave the brāhmaṇa Gopāla his offence against Śrīvāsa.
 fn: *Anubhāṣya*: on the deliverance of Gopāla Cāpala, see Ādi 17.55–59.
 
 ## 154
 w: heretics  blasphemers  coming  fell  at His feet
-w: the offenses  forgiving  to them  He gave  love for Kṛṣṇa
+w: the offences  forgiving  to them  He gave  love for Kṛṣṇa
 tr: Unbelievers and blasphemers came and fell at His feet; He forgave their offences and gave them love for Kṛṣṇa.
 
 ## 155
@@ -1199,7 +1199,7 @@ tr: To travel to Vṛndāvana followed by hundreds of thousands of people is not
 
 ## 225
 w: although  in truth  of the Lord  any  there is no  fear
-w: still  a worldly pastime  of human behavior  full
+w: still  a worldly pastime  of human behaviour  full
 tr: Although in truth the Lord has nothing to fear, His pastimes in this world follow the ways of ordinary people.
 fn: Edition heading: “Though He is the Supreme Lord Himself, in the role of ācārya He gives beginners (*kaniṣṭha-adhikārīs*) a chance to learn”.
 

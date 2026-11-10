@@ -153,7 +153,7 @@ fn: *Anubhāṣya* refers to Antya 10.116, where *ādivasyā* is explained as �
 
 ## 27
 w: hurriedly  that  woman  to the ground  came down
-w: Mahāprabhu  seeing  His  feet  she honored
+w: Mahāprabhu  seeing  His  feet  she honoured
 tr: The woman hurriedly climbed down, and when she saw Mahāprabhu she bowed at His feet.
 
 ## 28
@@ -169,7 +169,7 @@ tr: Her body, mind and life are absorbed in Jagannātha; she does not even know 
 fn: Heading in the edition: a lesson — not to look upon a servant of Kṛṣṇa with sense-born knowledge, by outward marks such as “woman” or “man”.
 
 ## 30
-w: oh  fortunate  is she  I honor  her  feet
+w: oh  fortunate  is she  I honour  her  feet
 w: her  by the grace  such  eagerness  in Me  may  arise
 tr: Oh, how fortunate she is! I bow to her feet. By her grace may such eagerness arise in Me too.
 
@@ -202,7 +202,7 @@ tr: Like one who has lost a jewel he had just found, He was in turmoil, and He r
 
 ## 36
 w: the ground  upon  sitting  with His own nails  the ground  He scratches
-w: a Ganges of tears  from the eyes  flows  anything  not  He sees
+w: a Gaṅgā of tears  from the eyes  flows  anything  not  He sees
 tr: Sitting on the ground, He scratched at the earth with His nails; a Ganges of tears flowed from His eyes, and He saw nothing at all.
 
 ## 37
@@ -508,7 +508,7 @@ fn: *Anubhāṣya*: Caṭaka-parvata is a high sand hill that looks like a mount
 
 ## 85
 w: Govardhana  hill  in the thought  absorbed  became
-w: hill  toward  the Lord  running  went
+w: hill  towards  the Lord  running  went
 tr: Taking it for Govardhana Hill, the Lord was overcome with feeling and ran toward it.
 
 ## 86

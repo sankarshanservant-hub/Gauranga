@@ -118,11 +118,11 @@ one  eternally liberated  one  eternally in worldly existence
 ‘কৃষ্ণ-পারিষদ’ নাম, ভুঞ্জে সেবা-সুখ ॥ ১১ ॥
 
 ‘nitya-mukta’ — nitya kṛṣṇa-caraṇe unmukha  
-the eternally liberated  ever  toward Kṛṣṇa’s feet  turned  
+the eternally liberated  ever  towards Kṛṣṇa’s feet  turned  
 ‘kṛṣṇa-pāriṣada’ nāma, bhuñje sevā-sukha  
 Kṛṣṇa’s associates  named  they enjoy  the joy of service
 
-(11) The eternally liberated are ever turned toward Kṛṣṇa’s feet. They are called Kṛṣṇa’s associates (*pārṣadas*), and they enjoy the happiness of serving Him.
+(11) The eternally liberated are ever turned towards Kṛṣṇa’s feet. They are called Kṛṣṇa’s associates (*pārṣadas*), and they enjoy the happiness of serving Him.
 
 ‘নিত্যবদ্ধ’ — কৃষ্ণ হৈতে নিত্য-বহির্ম্মুখ ৷  
 ‘নিত্যসংসার’, ভুঞ্জে নরকাদি-দুঃখ ॥ ১২ ॥
@@ -172,7 +172,7 @@ devotion to Kṛṣṇa  he obtains  then  near Kṛṣṇa  he goes
 kāmādīnāṁ kati na katidhā pālitā durnideśās  
 of lust and the rest  how many  not  in how many ways  were obeyed  the evil commands  
 teṣāṁ jātā mayi na karuṇā na trapā nopaśāntiḥ  
-of them  arose  toward me  no  pity  no  shame  nor peace  
+of them  arose  towards me  no  pity  no  shame  nor peace  
 utsṛjyaitān atha yadu-pate sāmprataṁ labdha-buddhis  
 having abandoned them  now  O Lord of the Yadus  at present  having gained good sense  
 tvām āyātaḥ śaraṇam abhayaṁ māṁ niyuṅkṣvātma-dāsye  
@@ -238,9 +238,9 @@ to Him  of auspicious fame  obeisance  obeisance
 kevala jñāna ‘mukti’ dite nāre bhakti vine  
 mere  knowledge  liberation  to give  cannot  bhakti  without  
 kṛṣṇonmukhe sei mukti haya vinā-jñāne  
-to one turned toward Kṛṣṇa  that  liberation  comes  without knowledge
+to one turned towards Kṛṣṇa  that  liberation  comes  without knowledge
 
-(21) Knowledge alone cannot give liberation without bhakti; but to one turned toward Kṛṣṇa that liberation comes even without knowledge.
+(21) Knowledge alone cannot give liberation without bhakti; but to one turned towards Kṛṣṇa that liberation comes even without knowledge.
 
 শ্রেয়ঃসৃতিং ভক্তিমুদস্য তে বিভো  
 ক্লিশ্যন্তি যে কেবলবোধলব্ধয়ে ৷  
@@ -348,7 +348,7 @@ in truth  the intelligence  pure  is not  devotion to Kṛṣṇa  without
 ye ‘nye ‘ravindākṣa vimukta-māninas  
 those who  others  O lotus-eyed Lord  who think themselves liberated  
 tvayy asta-bhāvād aviśuddha-buddhayaḥ  
-toward You  for want of love  of impure intelligence  
+towards You  for want of love  of impure intelligence  
 āruhya kṛcchreṇa paraṁ padaṁ tataḥ  
 having risen  with hardship  to the supreme  position  from there  
 patanty adho ‘nādṛta-yuṣmad-aṅghrayaḥ  
@@ -712,7 +712,7 @@ the earlier  commands  Vedic dharma  karma  yoga  jñāna
 saba sādhi’ avaśeṣa-ājñā — balavān  
 all  having established  the final command  is strongest
 
-(59) His earlier commands concerned Vedic *dharma*, karma, yoga and jñāna. Having established all of these, He gave His final command, and it is the strongest.
+(59) His earlier commands concerned Vedic dharma, karma, yoga and jñāna. Having established all of these, He gave His final command, and it is the strongest.
 
 এই আজ্ঞাবলে ভক্তের ‘শ্রদ্ধা’ যদি হয় ৷  
 সর্ব্বকর্ম্ম ত্যাগ করি’ সে কৃষ্ণেরে ভজয় ॥ ৬০ ॥
@@ -878,7 +878,7 @@ with all  qualities  there  dwell  the gods
 harāv abhaktasya kuto mahad-guṇā  
 to Hari  of one not devoted  whence  great qualities  
 mano-rathenāsati dhāvato bahiḥ  
-by the chariot of the mind  toward the unreal  running  outward
+by the chariot of the mind  towards the unreal  running  outward
 
 (73) “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)[^29]
 
@@ -916,7 +916,7 @@ without desire  free from worldly striving  steady  having conquered the six
 গম্ভীর, করুণ, মৈত্র, কবি, দক্ষ, মৌনী ॥ ৭৭ ॥
 
 mita-bhuk apramatta, mānada, amānī  
-moderate in eating  sober  giving honor to others  seeking no honor  
+moderate in eating  sober  giving honour to others  seeking no honour  
 gambhīra, karuṇa, maitra, kavi, dakṣa, maunī  
 grave  compassionate  friendly  a poet  expert  silent
 
@@ -1092,7 +1092,7 @@ these  all  giving up  and  of varṇa and āśrama  the dharma
 akiñcana hañā laya kṛṣṇaika-śaraṇa  
 owning nothing  becoming  he takes  of Kṛṣṇa alone  shelter
 
-(90) Giving up all this, and the *dharma* of *varṇa* and *āśrama* as well, he becomes *akiñcana*, one who owns nothing, and takes shelter of Kṛṣṇa alone.[^34]
+(90) Giving up all this, and the dharma of *varṇa* and *āśrama* as well, he becomes *akiñcana*, one who owns nothing, and takes shelter of Kṛṣṇa alone.[^34]
 
 সর্ব্বধর্ম্মান্ পরিত্যজ্য মামেকং শরণং ব্রজ ৷  
 অহং ত্বাং সর্ব্বপাপেভ্যো মোক্ষয়িষ্যামি মা শুচঃ ॥ ৯১ ॥
@@ -1349,7 +1349,7 @@ shelter at the guru’s feet  initiation  of the guru  service
 sad-dharma-śikṣā-pṛcchā, sādhu-mārgānugamana  
 of true dharma  learning  inquiry  of the saints  the path  following
 
-(111) Taking shelter at the feet of the guru; initiation (*dīkṣā*); serving the guru; learning true *dharma* and inquiring about it; following the path of the saints;
+(111) Taking shelter at the feet of the guru; initiation (*dīkṣā*); serving the guru; learning true dharma and inquiring about it; following the path of the saints;
 
 কৃষ্ণপ্রীত্যে ভোগত্যাগ, কৃষ্ণতীর্থে বাস ৷  
 যাবৎ নির্ব্বাহ-প্রতিগ্রহ, একাদশ্যুপবাস ॥ ১১২ ॥
@@ -1429,7 +1429,7 @@ circumambulation  of prayers  reciting  japa  congregational chanting
 dhūpa-mālya-gandha-mahāprasāda-bhojana  
 of incense  garlands  fragrance  mahāprasāda  eating
 
-(119) circumambulation; reciting prayers; *japa*; *saṅkīrtana*; smelling the incense, garlands and fragrances offered to the Lord; honouring *mahāprasāda*;
+(119) circumambulation; reciting prayers; *japa*; saṅkīrtana; smelling the incense, garlands and fragrances offered to the Lord; honouring *mahāprasāda*;
 
 আরাত্রিক-মহোৎসব-শ্রীমূর্ত্তি-দর্শন ৷  
 নিজপ্রিয়-দান, ধ্যান, তদীয়-সেবন ॥ ১২০ ॥
@@ -1513,7 +1513,7 @@ of the Name  congregational chanting  in the beautiful
 mathurā-maṇḍale sthitiḥ  
 of Mathurā  region  residence
 
-(127) “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in *saṅkīrtana*, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 41)[^45]
+(127) “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in saṅkīrtana, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 41)[^45]
 
 দুরূহাদ্ভুতবীর্য্যেঽস্মিন্ শ্রদ্ধা দূরেঽস্তু পঞ্চকে ৷  
 যত্র স্বল্পোঽপি সম্বন্ধঃ সদ্ধিয়াং ভাবজন্মনে ॥ ১২৮ ॥
@@ -1647,7 +1647,7 @@ of rules  the dharma  giving up  worships  of Kṛṣṇa  the feet
 niṣiddha pāpācāre tāra kabhu nahe mana  
 to forbidden  sinful conduct  his  ever  does not go  mind
 
-(137) One who gives up the *dharma* of rules and worships Kṛṣṇa’s feet never turns his mind to forbidden, sinful conduct.[^50]
+(137) One who gives up the dharma of rules and worships Kṛṣṇa’s feet never turns his mind to forbidden, sinful conduct.[^50]
 
 অজ্ঞানে বা হয় যদি ‘পাপ’ উপস্থিত ৷  
 কৃষ্ণ তাঁরে শুদ্ধ করে, না করায় প্রায়শ্চিত্ত ॥ ১৩৮ ॥
@@ -1697,7 +1697,7 @@ not  knowledge  nor  and  renunciation
 prāyaḥ śreyo bhaved iha  
 as a rule  the highest good  is  here
 
-(141) “Therefore, for the *yogī* engaged in devotion to Me, whose mind is in Me, neither knowledge nor renunciation is, as a rule, the means to the highest good in this world.” (Śrīmad-Bhāgavatam, 11.20.31)[^52]
+(141) “Therefore, for the yogī engaged in devotion to Me, whose mind is in Me, neither knowledge nor renunciation is, as a rule, the means to the highest good in this world.” (Śrīmad-Bhāgavatam, 11.20.31)[^52]
 
 এতে ন হ্যদ্ভুতা ব্যাধ তবাহিংসাদয়ো গুণাঃ ৷  
 হরিভক্তৌ প্রবৃত্তা যে ন তে স্যুঃ পরতাপিনঃ ॥ ১৪২ ॥
@@ -1965,7 +1965,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 ---
 
-[^1]: *Anubhāṣya*: *bhakti*, causeless service to Kṛṣṇa, was unknown even to the knowers of *dharma* in the Satya, Tretā and Dvāpara ages; Mahāprabhu proclaimed it to all in the age of Kali, the age of quarrel.
+[^1]: *Anubhāṣya*: *bhakti*, causeless service to Kṛṣṇa, was unknown even to the knowers of dharma in the Satya, Tretā and Dvāpara ages; Mahāprabhu proclaimed it to all in the age of Kali, the age of quarrel.
 
 [^2]: The same verse as Ādi 10.2 (= Madhya 13.2); translation as there.
 
@@ -1973,7 +1973,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^4]: Heading of the edition: “words of a sage” (*muni-vākya*); the source of the verse is not named.
 
-[^5]: *Anubhāṣya*: the potency and its possessor are non-different. “Potency” here must not be taken as *māyā-śakti*, which covers the nature of the *jīva*: the *svarūpa-śakti*, engaged only in the service of Kṛṣṇa Himself, abides inseparably with Him.
+[^5]: *Anubhāṣya*: the potency and its possessor are non-different. “Potency” here must not be taken as *māyā-śakti*, which covers the nature of the jīva: the *svarūpa-śakti*, engaged only in the service of Kṛṣṇa Himself, abides inseparably with Him.
 
 [^6]: Heading of the edition: in the countless Vaikuṇṭhas He sports in the forms of His own parts, the Viṣṇu forms, and in the universes in the forms of the jīvas.
 
@@ -2007,7 +2007,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^21]: *Anubhāṣya*: *nirviṇṇa* — one who holds to false (*phalgu*) renunciation; just such a person, full of faith, is qualified for bhakti-yoga.
 
-[^22]: *Anubhāṣya*: the *avadhūta* Bharata instructs Rahūgaṇa, king of Sindhu and Sauvīra, thus; *ijyā* — Vedic rites, the worship of the gods; *nirvapaṇa* — *sannyāsa*; *gṛha* — the sacrifices of the householder.
+[^22]: *Anubhāṣya*: the *avadhūta* Bharata instructs Rahūgaṇa, king of Sindhu and Sauvīra, thus; *ijyā* — Vedic rites, the worship of the gods; *nirvapaṇa* — sannyāsa; *gṛha* — the sacrifices of the householder.
 
 [^23]: *Anubhāṣya*: Prahlāda answers Hiraṇyakaśipu, who asked where his Vaiṣṇava disposition came from.
 
@@ -2065,9 +2065,9 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^50]: *Anubhāṣya* (heading): a Vaiṣṇava is never a sinner, and a sinner is never a Vaiṣṇava.
 
-[^51]: *Amṛta-pravāha-bhāṣya* (on 141): at first they may be of slight help to bhakti, but they are not counted among its limbs. The edition’s heading: *jñāna* and *vairāgya* are only two sons who follow bhakti.
+[^51]: *Amṛta-pravāha-bhāṣya* (on 141): at first they may be of slight help to bhakti, but they are not counted among its limbs. The edition’s heading: jñāna and *vairāgya* are only two sons who follow bhakti.
 
-[^52]: *Amṛta-pravāha-bhāṣya*: bhakti is independent; *jñāna*, *vairāgya* and *yoga* may at first be of slight help to it, but they are not counted among its limbs. The verse number is not printed in the edition.
+[^52]: *Amṛta-pravāha-bhāṣya*: bhakti is independent; jñāna, *vairāgya* and yoga may at first be of slight help to it, but they are not counted among its limbs. The verse number is not printed in the edition.
 
 [^53]: *Mukhyā*, “principal”: such bhakti exists nowhere else (*Amṛta-pravāha-bhāṣya*); the path of the practitioner is *rāgānugā*, following the people of Vraja.
 

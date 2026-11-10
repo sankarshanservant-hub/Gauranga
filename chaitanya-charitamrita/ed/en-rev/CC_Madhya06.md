@@ -116,7 +116,7 @@ sitting  the Bhaṭṭācārya  in his mind  makes  reflection
 ei kṛṣṇa-mahāpremera sāttvika vikāra  
 this  of great love for Kṛṣṇa  the sāttvika  transformation
 
-(11) Sitting there, the Bhaṭṭācārya reflected: “This is a *sāttvika* transformation of great love for Kṛṣṇa.
+(11) Sitting there, the Bhaṭṭācārya reflected: “This is a sāttvika transformation of great love for Kṛṣṇa.
 
 ‘সূদ্দীপ্ত সাত্ত্বিক’ এই নাম যে ‘প্রলয়’ ৷  
 নিত্যসিদ্ধ ভক্তে সে ‘সূদ্দীপ্ত ভাব’ হয় ॥ ১২ ॥
@@ -2239,7 +2239,7 @@ the next  day  the Lord  went  to see Jagannātha
 darśana karilā jagannātha-śayyotthāne  
 darśana  He had  at Jagannātha’s rising from bed
 
-(216) The next day the Lord went to see Jagannātha and had *darśana* of Him as He rose from His bed.
+(216) The next day the Lord went to see Jagannātha and had darśana of Him as He rose from His bed.
 
 পূজারী আনিয়া মালা-প্রসাদান্ন দিলা ৷  
 প্রসাদান্ন-মালা পাঞা প্রভু হর্ষ হৈলা ॥ ২১৭ ॥
@@ -2961,7 +2961,7 @@ this  whoever  faith  having  does  hearing
 jñāna-karma-pāśa haite haya vimocana  
 of jñāna and karma  the snare  from  there is  release
 
-(284–285) all this I shall describe in detail later. This is Mahāprabhu’s pastime of meeting with Sārvabhauma; whoever hears it with faith is freed from the snares of *jñāna* and *karma*.
+(284–285) all this I shall describe in detail later. This is Mahāprabhu’s pastime of meeting with Sārvabhauma; whoever hears it with faith is freed from the snares of jñāna and karma.
 
 শ্রদ্ধায় চৈতন্যলীলা শুনে যেই জন ৷  
 অচিরে মিলয়ে তাঁরে চৈতন্যচরণ ॥ ২৮৬ ॥
@@ -2993,7 +2993,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^4]: *Anubhāṣya*: Sārvabhauma then lived south of the temple, in Bālukhaṇḍa, on the bank of the Mārkaṇḍeya-saras pond; the house is now known as the Gaṅgāmātā Maṭha.
 
-[^5]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu* and the *Ujjvala-nīlamaṇi*): the *sāttvika* symptoms may be “smouldering”, “flaming”, “burning” or “blazing” (*uddīpta*); *sūddīpta* is a special kind of the blazing, when all the *sāttvika* symptoms, multiplied many times over, reach the highest limit of prema. An eternally perfect (*nitya-siddha*) devotee is an eternal associate of the Lord.
+[^5]: *Anubhāṣya* (after the *Bhakti-rasāmṛta-sindhu* and the *Ujjvala-nīlamaṇi*): the sāttvika symptoms may be “smouldering”, “flaming”, “burning” or “blazing” (*uddīpta*); *sūddīpta* is a special kind of the blazing, when all the sāttvika symptoms, multiplied many times over, reach the highest limit of prema. An eternally perfect (*nitya-siddha*) devotee is an eternal associate of the Lord.
 
 [^6]: *Anubhāṣya*: *adhirūḍha-mahābhāva* is beyond the reach even of the queens of Dvārakā — only the gopīs of Vraja experience it; its highest stage, *mādana*, is found in Śrī Rādhikā alone. Heading in the edition: “Unworldly *mahābhāva* in the Lord’s body”.
 
@@ -3091,7 +3091,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^53]: *Anubhāṣya*: the Māyāvādī abandons the direct sense (*abhidhā-vṛtti*) and through *lakṣaṇā* sets up the doctrine of featurelessness; yet even this “featurelessness” serves only to distinguish Brahman from material features.
 
-[^54]: *Anubhāṣya*: the pure monists hold potency to be a passing state born of ignorance, but the three potencies abide in Brahman eternally. *Amṛta-pravāha-bhāṣya*: these three natural potencies are accepted in many statements of scripture that go back to the śruti “His supreme potency is heard to be manifold” (*Śvetāśvatara Upaniṣad*, 6.8).
+[^54]: *Anubhāṣya*: the pure monists hold potency to be a passing state born of ignorance, but the three potencies abide in Brahman eternally. *Amṛta-pravāha-bhāṣya*: these three natural potencies are accepted in many statements of scripture that go back to the śruti “His supreme potency is heard to be manifold” (Śvetāśvatara Upaniṣad, 6.8).
 
 [^55]: The verse is Ādi 7.119; the translation follows it.
 
@@ -3137,7 +3137,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^76]: *Anubhāṣya*: *ātmārāmāḥ* — those who delight in the ātmā, that is, in Bhagavān, whose nature is to play with Kṛṣṇa; *nirgranthāḥ* — free from the knot of desires born in the heart; *ahaitukī* — free from other desires, not covered by karma, jñāna and the like; *itthaṁ-bhūta-guṇaḥ* — Hari has the quality of attracting jīvas in every condition, liberated or not, and by His mercy frees those devoted to Māyāvāda from their doctrines.
 
-[^77]: *Amṛta-pravāha-bhāṣya*: eleven meanings for the eleven words of the verse, and seven more when *ātmārāma* is joined to each of the seven chief words — *munayaḥ*, *nirgranthāḥ*, *urukrama*, *ahaitukī*, *bhakti*, *guṇa* and *hari*; eighteen in all. *Anubhāṣya*: see Madhya 24.
+[^77]: *Amṛta-pravāha-bhāṣya*: eleven meanings for the eleven words of the verse, and seven more when *ātmārāma* is joined to each of the seven chief words — *munayaḥ*, *nirgranthāḥ*, *urukrama*, *ahaitukī*, bhakti, *guṇa* and *hari*; eighteen in all. *Anubhāṣya*: see Madhya 24.
 
 [^78]: *Anubhāṣya*: eclipsing all the relationships and means invented by jñānīs, karmīs and those with other desires, these three realities — Bhagavān of inconceivable power, His potency and His qualities — steal the minds of both sādhakas and siddhas.
 

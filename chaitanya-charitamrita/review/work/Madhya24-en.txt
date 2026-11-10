@@ -319,7 +319,7 @@ tr: He frees from the four kinds of distress anyone who remembers Him, in whatev
 ## 57
 w: as  fire  brightly blazing
 w: makes  firewood  into ashes
-w: so  toward Me  directed  devotion
+w: so  towards Me  directed  devotion
 w: O Uddhava  sins  entirely
 tr: “As a blazing fire turns firewood to ashes, so, O Uddhava, devotion to Me burns up all sins.” (Śrīmad-Bhāgavatam, 11.14.19)
 
@@ -464,7 +464,7 @@ tr: By *rāga-bhakti* one attains Svayam Bhagavān in Vraja; by *vidhi-bhakti* o
 ## 82
 w: not  this  easily attained  Bhagavān
 w: for the embodied  of the gopī  the son
-w: for the jñānīs  and  for those who realized the self
+w: for the jñānīs  and  for those who realised the self
 w: as  for those who have devotion  here
 tr: “This Bhagavān, the son of the gopī, is not so easily attained by the embodied, nor by the jñānīs, nor by those who have realized the self, as He is by those who have devotion.” (Śrīmad-Bhāgavatam, 10.9.21)
 fn: The same verse as Madhya 8.226 (the *Anubhāṣya* cites it as Madhya 8.227, by the numbering of the edition); translation as there.
@@ -718,7 +718,7 @@ fn: The edition (p. 802) has no “কৃষ্ণ” in the first line (the ear
 
 ## 126
 w: those who  others  O lotus-eyed Lord  who think themselves liberated
-w: toward You  for want of love  of impure intelligence
+w: towards You  for want of love  of impure intelligence
 w: having risen  with hardship  to the supreme  position  from there
 w: fall  down  having neglected Your feet
 tr: “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
@@ -755,7 +755,7 @@ fn: *Anubhāṣya*: *nirodha* and *mukti* are two of the ten characteristics of 
 
 ## 131
 w: from Kṛṣṇa  of turning away  the fault  from māyā  comes  is
-w: turned toward Kṛṣṇa  liberation  from  from māyā  freedom  comes
+w: turned towards Kṛṣṇa  liberation  from  from māyā  freedom  comes
 tr: The fault of turning away from Kṛṣṇa comes from māyā, and freedom from māyā comes from liberation that is turned toward Kṛṣṇa.
 fn: The Gauḍīya Maṭha edition reads *kṛṣṇonmukhī mukti*, “liberation turned toward Kṛṣṇa”; another reading has *kṛṣṇonmukha bhakti … māyā-mukta haya*, “through devotion turned toward Kṛṣṇa one is freed from māyā.” According to the *Anubhāṣya*, freedom from māyā comes through serving Kṛṣṇa, that is, through turning toward Him.
 
@@ -790,7 +790,7 @@ fn: The same verse as Madhya 22.22; translation as there.
 
 ## 136
 w: those who  others  O lotus-eyed Lord  who think themselves liberated
-w: toward You  for want of love  of impure intelligence
+w: towards You  for want of love  of impure intelligence
 w: having risen  with hardship  to the supreme  position  from there
 w: fall  down  having neglected Your feet
 tr: “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
@@ -1150,7 +1150,7 @@ w: ātmārāmas  living beings  all  stationary  moving
 tr: The word *ātmā* also means one’s nature (*svabhāva*), and one who delights in it is an *ātmārāma*. Thus all living beings, stationary and moving, are *ātmārāmas*.
 
 ## 195
-w: of the jīva  the nature  toward Kṛṣṇa  servant  self-conception
+w: of the jīva  the nature  towards Kṛṣṇa  servant  self-conception
 w: in the body  by the notion of self  covered  that  awareness
 tr: The nature of the jīva is to know himself as Kṛṣṇa’s servant; that awareness becomes covered when he takes the body to be the self.
 fn: Heading of the edition: the nature of the pure, uncovered self of the *jīva* and of the covered self; the pure “I” and the impure “I”.

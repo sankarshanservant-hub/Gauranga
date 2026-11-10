@@ -266,7 +266,7 @@ the gopīs  with  pastimes  laughter  jesting
 kaṇṭha-dhvani-ukti śuni’ mora karṇollāsa  
 voice’s  sound  words  hearing  My  ears’ joy
 
-(26) Kṛṣṇa was enjoying His pastimes with the *gopīs*, laughing and jesting, and My ears rejoiced to hear His voice and His words.
+(26) Kṛṣṇa was enjoying His pastimes with the gopīs, laughing and jesting, and My ears rejoiced to hear His voice and His words.
 
 হেনকালে তুমি সব কোলাহল করি’ ৷  
 আমা ইঁহা লঞা আইলা বলাৎকার করি’ ॥ ২৭ ॥
@@ -296,7 +296,7 @@ absorbed in feeling  to Svarūpa  says  choked  words
 ‘karṇa tṛṣṇāya mari, paḍa ‘rasāmṛta’ śuni’  
 My ears  with thirst  I die  recite  nectar of rasa  I shall hear
 
-(29) Absorbed in feeling, the Lord said to Svarūpa in a choked voice, “My ears are dying of thirst. Recite something full of the nectar of *rasa* — let Me hear it.”
+(29) Absorbed in feeling, the Lord said to Svarūpa in a choked voice, “My ears are dying of thirst. Recite something full of the nectar of rasa — let Me hear it.”
 
 স্বরূপ-গোসাঞি প্রভুর ভাব জানিয়া ৷  
 ভাগবতের শ্লোক পড়ে মধুর করিয়া ॥ ৩০ ॥
@@ -332,7 +332,7 @@ hearing  the Lord  in the mood of the gopīs  absorbed  became
 bhāgavatera ślokārtha karite lāgilā  
 of the Bhāgavata  the verse’s meaning  to make  began
 
-(32) Hearing this, the Lord became absorbed in the mood of the *gopīs* and began to explain the meaning of the verse:
+(32) Hearing this, the Lord became absorbed in the mood of the gopīs and began to explain the meaning of the verse:
 
 হৈল গোপী-ভাবাবেশ, কৈল রাসে পরবেশ,  
 কৃষ্ণের শুনি’ উপেক্ষা-বচন ৷  
@@ -352,7 +352,7 @@ as rejection  them  true  taking
 roṣe kṛṣṇe dena olāhana  
 in anger  to Kṛṣṇa  gives  reproach
 
-(33) Immersed in that mood, He entered the *rāsa* dance. There He heard Kṛṣṇa, smiling, speak words of indifference, and, taking them for a true rejection, He reproached Kṛṣṇa in anger:[^4]
+(33) Immersed in that mood, He entered the rāsa dance. There He heard Kṛṣṇa, smiling, speak words of indifference, and, taking them for a true rejection, He reproached Kṛṣṇa in anger:[^4]
 
 নাগর, কহ, তুমি করিয়া নিশ্চয় ৷  
 এই ত্রিজগৎ ভরি’, আছে যত যোগ্যা নারী,  
@@ -407,7 +407,7 @@ saying  husbands  in leaving  a fault
 dhārmika hañā dharma śikhāo  
 righteous  becoming  dharma  You teach
 
-(36) With Your flute You make us abandon *dharma*; You strike us with the arrows of Kāma, Your sidelong glances, and make us cast off shame and fear and everything else. And now You are angry with us, You say it is wrong to leave our husbands, and, like a man of virtue, You teach us *dharma*![^5]
+(36) With Your flute You make us abandon dharma; You strike us with the arrows of Kāma, Your sidelong glances, and make us cast off shame and fear and everything else. And now You are angry with us, You say it is wrong to leave our husbands, and, like a man of virtue, You teach us dharma![^5]
 
 অন্যকথা, অন্যমন, বাহিরে অন্য আচরণ,  
 এই সব শঠ-পরিপাটী ৷  
@@ -483,7 +483,7 @@ of Ramā and the others  of the fairest women  the hearts  stealing  of the flut
 sa me madana-mohanaḥ sakhi tanoti karṇa-spṛhām  
 He  My  Madana-mohana  O friend  increases  of the ears  the longing
 
-(40) “O friend, His voice is like the rumbling of a thundercloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at *rasa*; and the soft note of His flute steals the hearts of Lakṣmī and other lovely women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
+(40) “O friend, His voice is like the rumbling of a thundercloud; the lovely jingling of His ornaments draws the ear; in the artful turns of His speech every syllable, word and meaning is playful and hints at rasa; and the soft note of His flute steals the hearts of Lakṣmī and other lovely women. That Madana-mohana of Mine deepens the longing of My ears.” (Govinda-līlāmṛta, 8.5)
 
 কণ্ঠের গম্ভীর ধ্বনি, নবঘন-ধ্বনি জিনি’,  
 যার গুণে কোকিল লাজায় ৷  
@@ -558,7 +558,7 @@ various  rasas  make  manifest
 pratyakṣara — narma-vibhūṣita  
 every syllable  with jest  adorned
 
-(44) The words of His holy mouth are a nectar higher than nectar, and the camphor of His smile is mixed into them. Their two powers, sound and meaning, bring out every kind of *rasa*, and every syllable is adorned with jest.[^9]
+(44) The words of His holy mouth are a nectar higher than nectar, and the camphor of His smile is mixed into them. Their two powers, sound and meaning, bring out every kind of rasa, and every syllable is adorned with jest.[^9]
 
 সে অমৃতের এক-কণ, কর্ণ-চকোর-জীবন,  
 কর্ণ-চকোর জীয়ে সেই আশে ৷  
@@ -869,7 +869,7 @@ alas  alas  yellow cloth  wearing
 hā hā rāsa-vilāsa nāgara!  
 alas  alas  of the rāsa  pastimes  lover
 
-(60) Alas, Kṛṣṇa, treasure of My life! Alas, lotus-eyed one! Alas, divine ocean of virtues! Alas, Śyāmasundara! Alas, You who wear yellow cloth! Alas, Beloved, playful hero of the *rāsa* dance!
+(60) Alas, Kṛṣṇa, treasure of My life! Alas, lotus-eyed one! Alas, divine ocean of virtues! Alas, Śyāmasundara! Alas, You who wear yellow cloth! Alas, Beloved, playful hero of the rāsa dance!
 
 কাঁহা গেলে তোমা পাই, তুমি কহ, — তাঁহা যাই,  
 এত কহি’ চলিলা ধাঞা ৷  
@@ -939,7 +939,7 @@ a jīva  lowly  what  will make  of it  description
 śākhā-candra-nyāya kari’ dig-daraśana  
 of the branch and the moon  by the logic  I make  an indication
 
-(65) What can a lowly *jīva* like me describe of it? As one shows the moon by pointing to a branch, I give only an indication.
+(65) What can a lowly jīva like me describe of it? As one shows the moon by pointing to a branch, I give only an indication.
 
 ইহা যেই শুনে, তার জুড়ায় মন-কাণ ৷  
 অলৌকিক গূঢ়প্রেম-চেষ্টা হয় জ্ঞান ॥ ৬৬ ॥
@@ -1031,7 +1031,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^1]: *Anubhāṣya*: those who saw it were the most fortunate intimate devotees headed by Dāmodara and Raghunātha; “wonderful” — such as had never been heard of, “unearthly” — such as had never been seen. Heading in the edition: the transcendental pastimes of Gaura, heard from the lips of the guru by the path of *śrauta* (hearing).
 
-[^2]: Heading in the edition: by the loud *saṅkīrtana* the Lord regains consciousness — a half-outward consciousness (*ardha-bāhya*).
+[^2]: Heading in the edition: by the loud saṅkīrtana the Lord regains consciousness — a half-outward consciousness (*ardha-bāhya*).
 
 [^3]: The same verse as Madhya 24.52; translation as there. The *Anubhāṣya* refers to Madhya 24.52. Heading in the edition: the sweetness of Kṛṣṇa’s flute enchants and draws all His servants, whatever they may be.
 
