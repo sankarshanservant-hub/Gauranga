@@ -37,7 +37,8 @@ EXTRA = """
 .tp .t3 { font-size: 10.5pt; margin: 0 6mm 6mm; } .tp .t4 { font-size: 9.5pt; font-style: italic; margin: 0 6mm; }
 .tp .t5 { font-size: 9pt; color: #777; margin-top: 30mm; }
 .pref { break-after: page; } .pref h1, .toc h1 { font-size: 16pt; text-align: center; margin: 6mm 0 8mm; }
-.pref p { font-style: italic; text-align: center; color: #555; }
+.pref p.ph { font-style: italic; text-align: center; color: #555; }
+.pref p { text-align: justify; hyphens: auto; text-indent: 6mm; margin: 0 0 1.5mm; } .pref h2 { font-size: 12pt; text-align: center; margin: 6mm 0 3mm; }
 .toc { break-after: page; font-size: 10pt; } .toc h2 { font-size: 11.5pt; margin: 5mm 0 2mm; }
 .toc ol { margin: 0; padding-left: 7mm; } .toc li { margin: 0 0 0.8mm; } .toc a { color: #111; text-decoration: none; }
 .lp { break-before: page; break-after: page; text-align: center; padding-top: 55mm; }
@@ -46,8 +47,21 @@ header.ch:first-of-type { break-before: page; }
 """
 
 H = ['<section class="tp"><div class="t1">%s</div><div class="t2">%s</div><div class="t3">%s</div><div class="t4">%s</div><div class="t5">%s</div></section>'
-     % tuple(html.escape(x) for x in (T['book'], T['author'], T[ed], T['trans'] if ed == 'full' else re.split(r'; (?:перевод комментариев|the commentaries)', T['trans'])[0], T['trial']))]
-H.append('<section class="pref"><h1>%s</h1><p>%s</p></section>' % (T['pref'], T['pref_t']))
+     % tuple(html.escape(x) for x in (T['book'], T['author'], T.get(ed, ''), T['trans'] if ed == 'full' else re.split(r'; (?:перевод комментариев|the commentaries)', T['trans'])[0], T['trial']))]
+def preface():
+    f = os.path.join(ROOT, 'ed', 'preface-%s.md' % lang)
+    if not os.path.exists(f): return '<section class="pref"><h1>%s</h1><p class="ph">%s</p></section>' % (T['pref'], T['pref_t'])
+    out = []
+    for para in re.split(r'\n\s*\n', open(f, encoding='utf-8').read().strip()):
+        t = html.escape(para.strip())
+        t = re.sub(r'\*\*\*(.+?)\*\*\*', r'<b><i>\1</i></b>', t)
+        t = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', t); t = re.sub(r'\*(.+?)\*', r'<i>\1</i>', t)
+        if t.startswith('# '): out.append('<h1>%s</h1>' % t[2:])
+        elif t.startswith('## '): out.append('<h2>%s</h2>' % t[3:])
+        else: out.append('<p>%s</p>' % t)
+    return '<section class="pref">%s</section>' % ''.join(out)
+H.append(preface())
+if ed == 'preface': H = [preface()]
 toc = ['<section class="toc"><h1>%s</h1>' % T['toc']]
 for L, n in LILAS:
     toc.append('<h2>%s</h2><ol>' % T['lila'][L])
@@ -55,8 +69,8 @@ for L, n in LILAS:
         c = '%s%02d' % (L, i)
         toc.append('<li><a href="#ch-%s">%s</a></li>' % (c, html.escape(title(c))))
     toc.append('</ol>')
-H.append(''.join(toc) + '</section>')
-for L, n in LILAS:
+if ed != 'preface': H.append(''.join(toc) + '</section>')
+for L, n in ([] if ed == 'preface' else LILAS):
     H.append('<section class="lp"><h1>%s</h1><div>%s</div></section>' % (T['lila'][L], html.escape(T['book'])))
     for i in range(1, n + 1):
         c = '%s%02d' % (L, i)
