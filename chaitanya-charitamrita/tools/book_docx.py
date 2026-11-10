@@ -32,13 +32,15 @@ for hn, sz in (('Heading 1', 15), ('Heading 2', 13 if BOOK else 11), ('Heading 3
 
 def runs(p, text, notes, chap, size=None, italic=False):
     """**жирный**, [^id] -> верхний индекс с номером сноски главы"""
-    for part in re.split(r'(\*\*.+?\*\*|\[\^[\w-]+\])', text):
+    for part in re.split(r'(\*\*.+?\*\*|(?<![\w*])\*(?![\s*]).+?(?<![\s*])\*(?![\w*])|\[\^[\w-]+\])', text):
         if not part: continue
         m = re.match(r'\[\^([\w-]+)\]', part)
         if m:
             r = p.add_run(str(notes.index(m.group(1)) + 1) if m.group(1) in notes else '?'); r.font.superscript = True
         elif part.startswith('**') and part.endswith('**'):
             r = p.add_run(part[2:-2]); r.bold = True
+        elif len(part) > 2 and part.startswith('*') and part.endswith('*'):
+            r = p.add_run(part[1:-1]); r.italic = True
         else:
             r = p.add_run(part)
         r.font.name = FONT; r.italic = italic or r.italic
@@ -98,7 +100,7 @@ if BOOK:
             elif para.startswith('## '): p = doc.add_heading(para[3:], level=2); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
             else:
                 p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-                runs(p, re.sub(r'(?<!\*)\*(?!\*)([^*]+)\*(?!\*)', r'\1', para), [], '')
+                runs(p, para, [], '')
 lila_prev = None
 for ci, chap in enumerate(chaps):
     L = re.match(r'[A-Za-z]+', chap).group()
