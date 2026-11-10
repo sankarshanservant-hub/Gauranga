@@ -49,7 +49,7 @@ def has_bn(s): return any('ঀ' <= c <= '৿' for c in s)
 def inline(t, notes):
     t = html.escape(t)
     t = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', t)
-    t = re.sub(r'(?<![\w*])\*(?![\s*])(.+?)(?<![\s*])\*(?![\w*])', r'<i>\1</i>', t)   # *курсив*
+    t = re.sub(r'(?<![\w*])\*(?![\s*])(.+?)(?<![\s*])\*(?![*])(?!(?!s\b)\w)', r'<i>\1</i>', t)   # *курсив*
     t = re.sub(r'\[\^([\w-]+)\]', lambda m: '<sup class="fn"><a href="#fn-%s" id="ref-%s">%d</a></sup>'
                % (m.group(1), m.group(1), notes.index(m.group(1)) + 1 if m.group(1) in notes else 0), t)
     return t

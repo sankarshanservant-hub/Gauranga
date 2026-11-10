@@ -32,7 +32,7 @@ for hn, sz in (('Heading 1', 15), ('Heading 2', 13 if BOOK else 11), ('Heading 3
 
 def runs(p, text, notes, chap, size=None, italic=False):
     """**жирный**, [^id] -> верхний индекс с номером сноски главы"""
-    for part in re.split(r'(\*\*.+?\*\*|(?<![\w*])\*(?![\s*]).+?(?<![\s*])\*(?![\w*])|\[\^[\w-]+\])', text):
+    for part in re.split(r'(\*\*.+?\*\*|(?<![\w*])\*(?![\s*]).+?(?<![\s*])\*(?![*])(?!(?!s\b)\w)|\[\^[\w-]+\])', text):
         if not part: continue
         m = re.match(r'\[\^([\w-]+)\]', part)
         if m:
