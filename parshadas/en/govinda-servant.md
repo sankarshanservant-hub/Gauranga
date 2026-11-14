@@ -62,8 +62,12 @@ Krishna Chaitanya and become His servant. Kashishvara will also come here when h
 following my guru's command, I came to You at once.’” (CC, Madhya 10.130–134)
 
 Kashishvara came later, after first visiting the holy places (Madhya 10.185); Govinda went straight to the Lord.[^6] In
-Karnapura's drama “Chaitanya-chandrodaya” the Lord guesses even before Govinda has spoken: “Ah, it seems someone is
-coming from Puri-ishvara.” And in the “Charitamrita” He answers the newcomer:
+Karnapura's drama “Chaitanya-chandrodaya” a voice behind the scenes speaks of Govinda as he approaches: “Devoted to the
+service of Ishvara Puri and himself a devotee of Krishna, here comes this man pure of heart, detached from all objects
+of the senses” (act 8, verse 12); the Lord guesses even before Govinda has spoken: “Ah, it seems someone is coming from
+Puri-ishvara,” — and Govinda himself, drawing near, thinks that he cannot grasp the greatness of his good fortune. When
+Sarvabhauma asks whether he is Ishvara Puri's servant, he answers: “Of course.” <!-- F65 --> And in the “Charitamrita”
+the Lord answers the newcomer:
 
 “Sri Ishvara Puri always regarded Me with a father's love. Therefore in his sending you to Me I see his causeless
 mercy.” (CC, Madhya 10.135)
@@ -112,9 +116,10 @@ gave them His service.” (CC, Adi 10.140) <!-- F13 Q1 -->
 
 Srila Bhaktisiddhanta puts the meaning of this verse into a heading of his “Anubhashya”: honouring everything connected
 with the guru, and following the rule that “the guru's orders are not to be questioned,” the Lord accepts their service.
-The Lord Himself, the Master of all, needs no one's service. He accepted a guru in His lila to teach the world that
-without taking shelter of a true guru there is no real good — and for the same reason He accepted initiation from Ishvara
-Puri in Gaya. Therefore His guru's servant, whom He honoured as an elder, He accepted only on the guru's order. Two
+One of the biographies explains: it was to teach people that without taking shelter of a true guru there is no real
+good that Mahaprabhu accepted initiation from Ishvara Puri in Gaya, — and so His guru's servant, whom He honoured as an
+elder, He accepted only on the guru's order. The Lord Himself, the Master of all, needs no one's service: He accepted a
+guru in His lila to teach the world. Two
 lessons meet in this event: everything connected with the guru is worthy of honour, and the guru's word is carried out
 without question. And in it there is also the Lord's mercy both to Ishvara Puri, whose wish He fulfilled, and to
 Govinda, to whom He granted service to Himself. <!-- F14 I3 -->
@@ -127,8 +132,8 @@ Through the dense crowd the Lord passed untouched, for the mighty Kashishvara pu
 Ramai and Nandai, both servants of the Lord, served constantly alongside Govinda. Every day Ramai filled twenty-two jars
 of water, and Nandai served as Govinda directed.” (CC, Adi 10.141–144) <!-- F16 -->
 
-Among the Lord's servants in Puri Govinda was the chief: he served the Lord's meals, kept the stores and saw to
-everything else, while Kashishvara, Ramai and Nandai worked under his direction. Ramai and Nandai carried water and did
+According to one of the biographies, Govinda headed all who served the Lord in Puri: he served the Lord's meals, kept
+the stores and saw to everything else, while Kashishvara, Ramai and Nandai worked under his direction. Ramai and Nandai carried water and did
 other work; and they too had served Krishna before, in Vrindavana:
 
 “The two, Payoda and Varida, who formerly prepared the water, are now the servants known as Ramai and Nandai.”
@@ -145,23 +150,23 @@ The “Charitamrita” names four rasas that the Lord tasted with His companions
 others service, and the rasa of conjugal love with Gadadhara, Jagadananda and Svarupa Damodara. These four rasas gave
 Him indescribable joy, and for this He felt Himself forever indebted to these devotees.” (CC, Madhya 2.78)
 
-Srila Bhaktisiddhanta explains that Govinda and others were devoted to the Lord's service and possessed pure *dasya* —
-a servant's love, free of any other motive; it was by this pure dasya-rasa of Govinda, he writes in the “Anubhashya,”
-that the Lord was conquered. <!-- F45 Q4 -->
+The Bengali verse says more precisely: the Lord is conquered by the *shuddha-dasya-rasa* of Govinda and others — pure
+*dasya*, a servant's love unmixed with any other motive. These very words Srila Bhaktisiddhanta quotes in his
+“Anubhashya” when he speaks of Govinda. <!-- F45 Q4 -->
 
 When the Lord went for darshan of Jagannatha, Kashishvara cleared the way for Him and Govinda followed:
 
 “Kashishvara went first, clearing a path through the crowd, and behind Sri Chaitanya, holding a vessel of water, came
 Govinda.” (CC, Madhya 12.207)
 
-With this water the Lord washed His feet before entering the temple. So it was every day:
+With this water the Lord washed His feet before He went in to see Jagannatha. So it was every day:
 
 “Every day, when Sri Chaitanya went for darshan of Lord Jagannatha, Govinda accompanied Him with a jug of water. To the
 north of the Lion Gate, behind a leaf of the gate, beneath the twenty-two steps, there was a small hollow. There Sri
 Chaitanya washed His feet and then went for darshan of Lord Jagannatha. Mahaprabhu instructed Govinda: ‘See that no one
 takes the water with which I wash My feet.’” (CC, Antya 16.40–43)
 
-In his drama Karnapura says: behind the Lord comes Govinda, “guarding His playful gait” (“Chaitanya-chandrodaya,” act 10,
+In his drama Karnapura says: behind the Lord walks Govinda, watching over His “playful gait” (“Chaitanya-chandrodaya,” act 10,
 verse 41), and in his mahakavya he sees him with a water jug in hand beside Damodara. <!-- F18 Q9 -->
 
 Yet to Kalidasa, Raghunatha Dasa's uncle, the Lord, knowing his faith in the Vaishnavas, allowed three handfuls of this
@@ -200,7 +205,8 @@ remnants to them both through Govinda every day. To Sanatana Gosvami, too, the L
 4.50), and in the Yameshvara garden Govinda gave Sanatana a plate with the remnants of the Lord's meal (4.121).
 <!-- F46 F48 -->
 
-Govinda fed the poor as well. After the Hera-panchami festival the Lord had prasada distributed to the needy:
+Govinda fed the poor as well. During the Ratha-yatra, when the Lord and the devotees had taken prasada in the garden and
+enough was left over to feed thousands more (CC, Madhya 14.43), He had it distributed to the needy:
 
 “At Sri Chaitanya's order the compassionate Govinda called together all the destitute and the beggars and fed them all
 with prasada.” (CC, Madhya 14.44)
@@ -209,7 +215,8 @@ The Lord moved them to chant the name of Hari, and, repeating “Haribol,” the
 greatest fortune, bhakti. <!-- F22 -->
 
 He also kept the stores that Raghava Pandita sent every year from Panihati. Govinda stacked the bags in a corner of the
-dining room, clearing away those of the year before (CC, Antya 10.55–56), and the Lord ate from them all year long. In
+dining room, while last year's bags he emptied and filled with provisions in another room (CC, Antya 10.55–56), and the
+Lord ate from them all year long. In
 the same way, according to one of the biographies, he carefully kept the stores of Raghava's sister Damayanti and gave
 the Lord a little of them at each meal. <!-- F25 -->
 
@@ -239,7 +246,7 @@ devotees, names “Govinda, the Lord's faithful doorkeeper” (CB, Antya 8.56–
 
 He welcomed the Gaudiya devotees in other years too. In Karnapura's drama Svarupa and Govinda announce Shrikanta's
 arrival to the Lord, and the Lord sends Govinda with a prasada garland to meet the Bengalis; at the Ratha-yatra, when
-three rings of singers circle round the Lord, “the most excellent Govinda” is in the middle one (“Chaitanya-chandrodaya,”
+three rings of singers circle round the Lord, “Govinda, the most excellent,” is in the middle one (“Chaitanya-chandrodaya,”
 act 10, verse 46). And in the third year Govinda went to meet them alone:
 
 “Learning that the devotees had already reached the Atharanala bridge, Sri Chaitanya sent His servant Govinda to meet
@@ -322,15 +329,15 @@ heaven; only pure devotees understand it — and here, says the biography, one s
 
 ## The Food Kept for a Month
 The Lord gladly accepts whatever His devotees bring Him with love. In Dvaraka Krishna snatched a handful of flat rice
-from His childhood friend, the poor brahmana Sudama, with whom He had studied under Sandipani Muni, and ate it; He Himself
-says:
+from Sudama, the poor brahmana who had been His friend in boyhood and His fellow pupil at Sandipani Muni's, and ate it; He
+Himself says:
 
 “A leaf, a flower, a fruit or water — whatever one pure of heart offers Me with devotion, that offering brought with love
 I eat.” (“Srimad-Bhagavatam” 10.81.4; “Bhagavad-gita” 9.26)[^9]
 
 So too Mahaprabhu in Navadvipa snatched from Shuklambara Brahmachari a handful of raw rice gathered by begging and ate
 it, saying: “I eat your broken rice, and I will not even look at the nectar of a non-devotee” (CB, Madhya
-16.124–127).[^10] The Lord is ready to repay His devotees for all they bring Him. Of this the “Charitamrita” tells in
+16.124–127). The Lord is ready to repay His devotees for all they bring Him. Of this the “Charitamrita” tells in
 the same tenth chapter of the Antya-lila. <!-- F33 I2 Q7 -->
 
 “When the Vaishnavas first arrived from Bengal in Jagannatha Puri, each of them wanted to treat Sri Chaitanya
@@ -386,9 +393,12 @@ Krishna, rushed straight toward the sound through the thickets:
 Sri Chaitanya had almost reached the singing girl, but Govinda caught Him firmly in his arms and cried: ‘It is a woman
 singing!’ Hearing the word ‘woman,’ Sri Chaitanya came to Himself and turned back to His former path. Then Sri Chaitanya
 said: ‘O My Govinda! Today you have saved My life, for to touch a woman would have been like death to Me. From now on I am
-in your debt, and I do not know how I can ever repay it.’ But Govinda answered: ‘It was not I who saved You, but Lord
-Jagannatha.’ Sri Chaitanya said: ‘My dear Govinda, please never leave Me. Everywhere and always you must take care of Me
-and protect Me from every danger.’” (CC, Antya 13.82–87) <!-- F41 -->
+in your debt, and I do not know how I can ever repay it.’” (CC, Antya 13.82–86)
+
+But Govinda answered that it was not he who had saved the Lord, but Lord Jagannatha. And then:
+
+“Sri Chaitanya said: ‘My dear Govinda, please never leave Me. Everywhere and always you must take care of Me and protect
+Me from every danger.’” (CC, Antya 13.87) <!-- F41 -->
 
 There is nothing worldly in this story — neither in the Lord nor in the singer, whose song was a service to Jagannatha.
 The Lord, absorbed in Radha's separation, ran toward a song about Krishna; and Govinda guarded His pastime as a
@@ -416,10 +426,10 @@ after Him:
 “Repeating this verse again and again, Sri Chaitanya ran to the dune with the speed of the wind. Govinda ran after Him
 but could not catch up.” (CC, Antya 14.87)
 
-And when the Lord fell to the ground in ecstasy, Govinda was at once beside Him:
+And when the Lord, shaking with violent trembling, collapsed on the ground, Govinda at once ran to Him:
 
-“Shaking with this violent trembling, Sri Chaitanya fell to the ground. Govinda ran to Him at once. He sprinkled Sri
-Chaitanya's whole body with water from his vessel and then began to fan Him with His outer cloth.” (CC, Antya 14.96–97)
+“He sprinkled Sri Chaitanya's whole body with water from his vessel and then began to fan Him with His outer cloth.” (CC,
+Antya 14.97)
 
 At night Govinda slept at the door of the Gambhira. Once Svarupa and Govinda lay down at the door while the Lord loudly
 chanted Krishna's names all night; when His voice fell silent they opened the door — the Lord was gone, though all three
@@ -442,7 +452,7 @@ Advaita's servant, had slighted his guru's honour in a letter to the king, the L
 When the Lord refused to see King Prataparudra, Nityananda asked Govinda for one of the Lord's outer cloths and sent it to
 the king through Sarvabhauma (CC, Madhya 12.36). And when after the Ratha-yatra the Lord fell before the king, neither
 Nityananda, lost in bliss, nor Kashishvara, nor Govinda and the others were beside Him: they were elsewhere (Madhya
-13.183).[^11] In Lochana Dasa, Prataparudra in the Lord's garden implores Govinda: “How may I see the Gosani's feet?” —
+13.183).[^10] In Lochana Dasa, Prataparudra in the Lord's garden implores Govinda: “How may I see the Gosani's feet?” —
 and he answers: “King, do not be distressed: you will not see Him here — now is not the time” (CM, Shesha-khanda, part 6,
 verses 87–89). <!-- F43 F63 -->
 
@@ -451,7 +461,7 @@ When the junior Haridasa begged rice for the Lord from a venerable woman, the Lo
 “‘From now on My house is closed to the junior Haridasa. Do not let him come here any more.’” (CC, Antya 2.113)
 
 One of the biographies adds that this order troubled and saddened Govinda, who knew how dear Haridasa was to the
-Lord.[^12] When the devotees began to plead for Haridasa, the Lord wished to go to Alalanatha and live there in
+Lord.[^11] When the devotees began to plead for Haridasa, the Lord wished to go to Alalanatha and live there in
 seclusion “with Govinda alone,” and He called him (2.132–133). And later Govinda, Svarupa, Jagadananda, Kashishvara and
 others, coming to the ocean, heard Haridasa singing without seeing him, and Govinda and the others wondered whether he had
 become a brahma-rakshasa (2.153–156). <!-- F47 -->
@@ -489,8 +499,8 @@ My meal every day.’” (CC, Antya 12.53) <!-- F52 -->
 
 Jagadananda Pandita's gifts, too, passed through Govinda. He brought a jar of fragrant sandalwood oil from Gauda and left
 it with Govinda; Govinda told the Lord that the oil was a remedy for disorders of bile and wind. The Lord told him to give
-it to the temple for the lamps; ten days later Govinda reminded Him again, and the Lord answered in anger that for this
-He would have to hire a masseur — and Govinda fell silent (CC, Antya 12.104–115). When Jagadananda, having broken the jar,
+it to the temple for the lamps; ten days later Govinda reminded Him again, and the Lord, strictly keeping the rules of sannyasa,
+answered in anger that for this He would have to hire a masseur — and Govinda fell silent (CC, Antya 12.104–115). When Jagadananda, having broken the jar,
 stopped eating, the Lord Himself came to him and asked him to cook Him a meal; after eating, the Lord left Govinda
 behind to tell Him whether Jagadananda had eaten. Jagadananda sent Govinda to massage the Lord's feet, fed Ramai,
 Raghunatha Bhatta, Govinda and Nandai, and himself ate the Lord's remnants; Govinda reported this — and the Lord fell
@@ -520,9 +530,10 @@ books. Srinivasa is the embodiment of My pure prema; seeing him, all will rejoic
 
 ## In Other Original Sources
 Vrindavana Dasa Thakura, opening chapters of the “Chaitanya-bhagavata,” more than once glorifies the Lord as “the Master
-of the doorkeeper Govinda” (CB, Adi 10.2, 13.2; Madhya 6.6; Antya 7.5) — the doorkeeper who guards the Lord's rest. In
+of the doorkeeper Govinda” (CB, Adi 10.2, 13.2; Madhya 6.6; Antya 7.5) — the doorkeeper who guards the Lord's rest; Srila Bhaktisiddhanta in his
+“Gaudiya-bhashya” explains that Sri Govinda guarded the Lord's chambers and was always at His door. In
 the Antya-khanda “the supremely fortunate servant Govinda” informs the Lord that Vaishnavas are waiting at the door and,
-with His permission, lets them in (CB, Antya 9.195–196).[^13] <!-- F59 -->
+with His permission, lets them in (CB, Antya 9.195–196).[^12] <!-- F59 F66 -->
 
 Karnapura in his mahakavya shows him in many scenes: with Kashishvara and Kashi Mishra he drinks in the Lord's dance with
 his eyes (16.33); after the bath he offers the Lord fresh clothing (17.43–52); in the evening the Lord goes with him once
@@ -534,8 +545,8 @@ Murari Gupta mentions how Govinda with Kashishvara and others serves the Lord in
 pure service arising from Govinda” (2). In a pada of Narahari, Govinda is with the Lord at sankirtan by the sea
 (“Padakalpataru” 2241). The late “Prema-vilasa” recalls that the Lord forbade Govinda to give anyone the water from His
 feet (16.261). In Lochana Dasa the Lord sends Govinda to see who is standing at the garden door — and there is Vibhishana
-in the form of a brahmana (CM, Shesha-khanda, part 6, verses 48–51); Lochana also names “Sri Govinda” among those
-weeping on the day of the Lord's disappearance (verse 94+30).[^14] <!-- F64 -->
+in the form of a brahmana (CM, Shesha-khanda, part 7, verses 48–51); Lochana also names “Sri Govinda” among those
+weeping on the day of the Lord's disappearance (ibid., verse 94+30).[^13] <!-- F64 -->
 
 Krishnadasa Kaviraja names him, too, among those who stayed to live with the Lord in Puri:
 
@@ -549,7 +560,7 @@ With them, and with Govinda among them, the Lord went every morning for darshan 
 ## After the Lord's Disappearance
 When the Lord withdrew from the world, Govinda lived in the deep sorrow of separation. Soon young Srinivasa came to
 Nilachala, sent by Narahari Thakura from Shrikhanda; he had learned of the Lord's disappearance on the way. In Puri he
-found the devotees in an ocean of grief:
+found the devotees drowned in grief:
 
 “Receiving leave, Srinivasa, with tears in his eyes, went to see Govinda and Shankara. Arriving, he sees the two sitting
 in solitude, withered in separation from Gauranga — swaying in the wind. Srinivasa falls to the ground before both; both
@@ -558,18 +569,18 @@ lifted Srinivasa and embraced him. With troubled hearts they said many things; o
 
 Seeing Srinivasa weep, they comforted him and told him to go and see everyone (3.192–193). One of the biographies adds
 that Govinda embraced Srinivasa with great love, seeing in him the future chief preacher of Mahaprabhu's teaching, and
-that after this he did not live long.[^15] When and how he entered the Lord's eternal pastimes is not known. His sorrow
+that after this he did not live long.[^14] When and how he entered the Lord's eternal pastimes is not known. His sorrow
 is not worldly grief but the separation of an eternal servant from his Master, that same vipralambha in which Mahaprabhu
 spent His last years. <!-- F57 -->
 
 The memory of his service was kept by later generations. According to one of the biographies, Gopala Guru as a child
-served Mahaprabhu under Govinda's direction;[^16] and the “Bhakti-ratnakara” tells how Gopala Guru, showing Narottama the
+served Mahaprabhu under Govinda's direction;[^15] and the “Bhakti-ratnakara” tells how Gopala Guru, showing Narottama the
 house of Kashi Mishra, said: “Here Mahaprabhu slept, and Sri Govinda massaged His feet” (8.382–392). <!-- F58 -->
 
 ## Significance
 Govinda is Bhangura, an eternal servant of Krishna, and in Gaura's pastimes the one to whom the Lord entrusted the care
-of His body. The Lord Himself acknowledges that with him He tasted the sweetness of service (*dasya*), and Srila
-Bhaktisiddhanta calls his dasya pure. <!-- F3 F45 -->
+of His body. According to Krishnadasa Kaviraja, with him the Lord tasted the sweetness of service (*dasya*) and was
+conquered by his pure dasya-rasa; Srila Bhaktisiddhanta quotes these words too. <!-- F3 F45 -->
 
 In his coming to the Lord, Mahaprabhu taught a lesson about the guru. Accepting His guru's servant, He honoured him as
 an elder and yet accepted his service, because the guru had so ordered: everything connected with the guru is worthy of
@@ -596,7 +607,7 @@ Lord and His devotees, was for them the one through whom their love reached the 
     according to the “Charitamrita” (Madhya 10.130–134) and Karnapura's drama (“Chaitanya-chandrodaya,” act 8), the
     servant Govinda first came to the Lord in Puri, at Ishvara Puri's order, after the southern journey, and we do not
     accept this supposition. Most Gaudiya Vaishnava authorities regard the “Karcha” itself as a late work.
-[^2]: Some biographies add that Bhringara and Bhangura carried water from the Yamuna for Krishna. Verse 137 says only
+[^2]: Some biographies add that Bhringara and Bhangura fetched Krishna's water from the Yamuna. Verse 137 says only
     “servants”; those who prepared the water are named in verse 139 — Payoda and Varida, that is, Ramai and Nandai. One
     biography also mentions the view that Kashishvara is the sakhi Shashirekha.
 [^3]: The “Gaura-ganoddesha-dipika” has Pundarikaksha. The verse stands among the associates born in Gauda and does not
@@ -610,7 +621,7 @@ Lord and His devotees, was for them the one through whom their love reached the 
     (“Chaitanya-chandrodaya,” act 8, verse 13). Ishvara Puri had seen the Lord as a householder and did not wish to see
     Him in the robes of a sannyasi. We follow the “Charitamrita” (Adi 10.139; Madhya 10.133): Ishvara Puri gave this
     order before leaving the world.
-[^6]: One of the biographies writes that Govinda and Kashishvara came to the Lord together. Karnapura says in his
+[^6]: One of the biographies writes that Govinda and Kashishvara arrived together. Karnapura says in his
     mahakavya that Govinda, “a great ocean of merit,” came to Purushottama “after wandering through many holy places”
     (“Chaitanya-charita-mahakavya” 13.130–131). We follow the “Charitamrita”: Govinda went straight to the Lord, and
     Kashishvara came later.
@@ -619,16 +630,17 @@ Lord and His devotees, was for them the one through whom their love reached the 
 [^8]: In the “Anubhashya” on CC, Adi 10.138 this incident is referred to “Madhya 10.82–100”; in fact it is described in
     Antya 10.82–100.
 [^9]: In one of the biographies the “Bhagavatam” reference is given as “10.81.41”; the verse is 10.81.4.
-[^10]: Our translation, from the Bengali text (*abhaktera amrita ulati' nahi chao*); our Russian translation of the
-    “Chaitanya-bhagavata” has “I turn away from nectar offered by the godless.”
-[^11]: The Bengali text has “Kashishvara, Govinda and others were elsewhere” (*kashishvara, govindadi chhila
+[^10]: The Bengali text has “Kashishvara, Govinda and others were elsewhere” (*kashishvara, govindadi chhila
     anya-sthane*); our Russian translation of this verse mistakenly reads “Kashi Mishra and Govinda were not near.”
-[^12]: The “Charitamrita” does not say this; there it is Haridasa himself who is grieved (Antya 2.114).
-[^13]: Right after the Lord's sannyasa the “Chaitanya-bhagavata” names “Govinda” among those who went with the Lord from
-    Katwa to Puri (Antya 1.52, 2.35), and one of the biographies refers this to the Lord's servant. But according to the
-    “Charitamrita” Ishvara Puri's servant came to the Lord only after His southern journey, and who this Govinda of
-    Vrindavana Dasa is remains unspecified; we therefore do not include these verses in his story.
-[^14]: This chapter is found only in the 1983 edition; it is possible that Govinda Ghosha is meant here.
-[^15]: The “Bhakti-ratnakara” (3.188–193) has no such details.
-[^16]: One of the biographies reports this without reference to an original source, from the tradition of the
+[^11]: The “Charitamrita” does not say this; there it is Haridasa himself who is grieved (Antya 2.114).
+[^12]: In Vrindavana Dasa a “Govinda” is with the Lord earlier too: already in Navadvipa (Adi 11.39–40; Madhya 8.114,
+    13.338, 23.152, 23.451) and right after the sannyasa, on the way from Katwa to Puri (Antya 1.52, 2.35); one of the
+    biographies refers the latter verses to the Lord's servant. Srila Bhaktisiddhanta in his “Gaudiya-bhashya” on CB, Adi
+    10.2 writes: “Sri Govinda guarded the chambers of Sri Vishvambhara. He was always at His door,” — and brings all these
+    places together, so that in Vrindavana Dasa this is one doorkeeper Govinda. But according to the “Charitamrita”
+    Ishvara Puri's servant first came to the Lord only after His southern journey, and whether this is the same Govinda
+    neither Vrindavana Dasa nor the commentary says; we therefore do not include these verses in his story.
+[^13]: This chapter is found only in the 1983 edition; it is possible that Govinda Ghosha is meant here.
+[^14]: The “Bhakti-ratnakara” (3.188–193) has no such details.
+[^15]: One of the biographies reports this without reference to an original source, from the tradition of the
     Radhakanta Math in Puri.
