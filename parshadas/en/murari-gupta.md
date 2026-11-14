@@ -6,8 +6,8 @@ Sri Murari Gupta was a physician of Navadvipa, a fellow student of Nimai Pandita
 the one who first set down the Lord's pastimes in writing. Kavi Karnapura's “Gaura-ganoddesha-dipika” reveals who he
 was in the Lord's earlier pastimes:
 
-“Murari Gupta is Hanuman; Angada is Sri Purandara; he who was called Sugriva is Govindananda.” (“Gaura-ganoddesha-
-dipika” 91)
+“Murari Gupta is Hanuman; Angada is Sri Purandara; he who was called Sugriva is Govindananda.” 
+(“Gaura-ganoddesha-dipika” 91)
 
 So all the original sources see him. Lochana Dasa, at the opening of his “Chaitanya-mangala,” glorifies Murari as
 Hanuman; the Lord Himself tells him, “I am Ramachandra, and you are Hanuman” (CB, Madhya 10.14) — and many years later,
@@ -94,11 +94,11 @@ your own? Better go home and treat the sick.’” (CB, Adi 10.21–23) <!-- F20
 Vrindavana Dasa remarks here that Murari is a portion of Rudra and by nature extremely fiery, yet Vishvambhara's words
 did not anger him (Adi 10.24). The words “a portion of Rudra” do not reproach him with a worldly flaw but point to his
 nature: Hanuman, the eternal servant of Rama, is himself a portion of Rudra. And so his meekness is all the more
-precious: fiery by nature, he bears Nimai's mockery without anger and answers Him with dignity, as is fitting<!-- F4 -->:
+precious: fiery by nature, he bears Nimai's mockery without anger and answers Him with dignity, as is fitting:
 
 “Murari replied: ‘Dear sir, why are You so proud? Why do You argue with everyone? Did You ask me a question about the
 sutra, the vritti, the panji or the tika, and get no answer? You have asked me nothing, yet You declare that I know
-nothing. You are a respectable brahmana — what can I say in reply?’” (CB, Adi 10.25–27)
+nothing. You are a respectable brahmana — what can I say in reply?’” (CB, Adi 10.25–27) <!-- F4 -->
 
 Then Nimai told him to explain that day's lesson. Murari drew a conclusion from the earlier rules, and the Lord brought
 forward another, opposite one and refuted his explanation; then He refuted His own and established it again. “So the
@@ -528,9 +528,9 @@ all went to Murari's house, and from there to the abode of Vijaya (“Kadacha”
 
 In the play the Lord staged in Chandrashekhara's house, Haridasa played the guard of Vaikuntha and, twirling his
 moustache, “joined Murari Gupta. These two dear servants of Krishna were filled with love, for Gaurasundara was
-enjoying His pastimes in their bodies” (CB, Madhya 18.48–49). When the Lord came out in the form of the Goddess, Murari,
-by his own account, was commended to Her: “Goddess, look upon this wretched Murari!” (“Kadacha” 2.16.19), and, according
-to Lochana, She looked on him with mercy. There is also a tradition that once Gaura seated Gadadhara at the foot of a
+enjoying His pastimes in their bodies” (CB, Madhya 18.48–49). When the Lord came out in the form of the Goddess, someone, Murari
+relates, asked Her: “Goddess, look upon this wretched Murari!” — and She shed tears of compassion (“Kadacha”
+2.16.19–20); according to Lochana, She looked on him with mercy. There is also a tradition that once Gaura seated Gadadhara at the foot of a
 tree, Advaita performed arati, and Murari Gupta sang the Lord's glory. <!-- F71 -->
 
 On the night of the great city kirtan, when the Lord went to subdue Chand Kazi, Murari, as the biographies remember, was
@@ -863,7 +863,7 @@ collection); of Nityananda bringing Shachi the news of the sannyasa (one variant
 people of Nadia going to Shantipura, and of Shachi in Shantipura. <!-- F31 -->
 
 ## Last Years and Departure
-Murari outlived his Lord. While Mahaprabhu was still present, when Nityananda by His will married, Shrivasa, Advaita,
+Murari outlived his Lord. While Mahaprabhu was still present, when Nityananda married, Shrivasa, Advaita,
 Chandrashekhara, Murari Gupta and others gathered for the wedding and sang sankirtana; Jayananda, listing the wonders of
 Nityananda's associates, names also “Murari Gupta as Hanuman.” When Jagadananda came from Puri to Navadvipa with news of
 the Lord, Murari Gupta and Vasudeva Datta joyfully kept him with them and would not let him go (CC, Antya 12.98)[^17].
@@ -873,13 +873,13 @@ After the Lord withdrew from sight, His associates in Navadvipa, says the “Bha
 separation, but the Lord kept them in the manifest world so that they might bestow mercy on Shrinivasa Acharya.
 Shrinivasa, coming to Navadvipa, received the darshan and mercy of Murari Gupta, Shrivasa Pandita, Damodara Pandita,
 Sanjaya, Shuklambara and Gadadhara Dasa (“Bhakti-ratnakara” 4.57–60). Later, wandering through Gauda, Narottama too
-visited Mayapura and met the aged followers of Mahaprabhu — Shuklambara, Ishana, Murari, Damodara and Gadadhara Dasa,
+came to Mayapura and met there the aged followers of Mahaprabhu — Shuklambara, Ishana, Murari, Damodara and Gadadhara Dasa,
 deeply grieving over the Lord's disappearance. In Narottama's dreams Murari Gupta appears among the Lord's associates
 (“Narottama-vilasa” 4.127, 7.355), and the “Prema-vilasa” relates that in the great kirtan at Kheturi Gaura appeared
 together with Murari and other associates (ch. 19). <!-- F95 F96 Q29 -->
 
-The sources name neither the year nor the place of Murari's departure; it is known only that he was still living after
-1534, when the Lord withdrew from sight. The day of his departure is honoured on the Sharad Purnima — the full moon of
+The sources name neither the year nor the place of Murari's departure; it is known only that he was still living after the
+Lord withdrew from sight in 1534. The day of his departure is honoured on the Sharad Purnima — the full moon of
 the autumn rasa-lila. In our calendar it is the purnima of the month of Padmanabha, the Sharadiya Rasa-yatra of Sri
 Krishna (in 2026, October 26); with this purnima the month of Damodara begins. The day of his appearance is not in the
 calendar, and the sources do not give it. <!-- F97 -->

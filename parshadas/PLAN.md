@@ -135,7 +135,7 @@ B — вероятно, больше сотни).
 | @bhavananda-raya (036) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @prabodhananda-sarasvati (037) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @shridhara (038, Шридхара Кхолавеча) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @murari-gupta (039) | ✓ | в работе | — |
+| @murari-gupta (039) | ✓ | ✓ (PDF) | — |
 | @shivananda-sena (040) | ✓ | ✓ (PDF) | — |
 | @paramananda-puri (041) | ✓ | ✓ (PDF) | — |
 
