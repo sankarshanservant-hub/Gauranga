@@ -87,8 +87,7 @@ bowed down before His guru’s godbrother — and so taught us to honour the gur
 “Sri Ranga Puri was astonished at the sight and said: ‘Rise, Sripada! Sripada, You hold a relation with my Gosani;
 without that, the fragrance of such prema is found nowhere else.’” (CC, Madhya 9.288–289)
 
-Ranga Puri speaks of fragrance: apart from the connection with his Gosani, there is not even the scent of such prema
-anywhere. From the love alone that showed itself in the Lord’s body he understood that the Lord belonged to his
+Apart from the connection with his Gosani, Ranga Puri says, there is not even the fragrance of such prema anywhere. From the love alone that showed itself in the Lord’s body he understood that the Lord belonged to his
 guru’s line. <!-- F15 F16 -->
 
 Why so? One of the biographies explains it — apparently following Srila Bhaktisiddhanta. Before Madhavendra Puri, up
@@ -126,7 +125,7 @@ And here, in this very holy place, he said, Shankararanya had attained siddhi �
 of the biographies, it was Ranga Puri who first told Mahaprabhu of the siddhi of Shankararanya — Srila Vishvarupa.
 <!-- F22 F23 -->
 
-Shankararanya is the sannyasa name of Vishvarupa, the Lord’s elder brother. And he is no ordinary man: according to
+Shankararanya is the sannyasa name of Vishvarupa, the Lord’s elder brother. And Vishvarupa is no ordinary man: according to
 the “Gaura-ganoddesha-dipika” (58), Vishvarupa is Baladeva, the vyuha Sankarshana. His “siddhi,” therefore, is not
 death but disappearance: he withdrew from the Lord’s manifest pastimes.[^4] So too Srila Bhaktisiddhanta speaks of it.
 In his “Anubhashya” he explains that Shankararanya, one of the branches of Mahaprabhu’s tree (CC, Adi 10.106), is
