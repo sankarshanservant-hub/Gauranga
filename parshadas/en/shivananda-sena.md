@@ -396,7 +396,191 @@ The Lord appearing in Nakula’s body, before Nrisimhananda and in four homes of
 the devotee’s equality with God: it is the inconceivable power of the Lord, by which He, conquered by love, comes to His
 devotees.
 
-<!-- ДАЛЬШЕ -->
+## News of Raghunatha
+One year, when Shivananda was already leading the pilgrims to Puri, Raghunatha Dasa, the son of the wealthy landholder
+Govardhana Majumdar, ran away from home. His guru, Yadunandana Acharya, had taken him along to persuade another of his
+disciples to return to the service of the Deity, and Raghunatha halfway sent the guru home and, having received his
+leave, went away (CC, Antya 6.161–169). His father, deciding that his son had gone with the Bengali Vaishnavas, sent ten
+men after them with a letter to Shivananda:
+
+“At once he wrote a letter to Shivananda Sena, humbly asking him: ‘Please, return my son to me.’” (CC, Antya 6.180)
+
+The messengers overtook the pilgrims at Jhankra, but Raghunatha was not among them, and they returned empty-handed
+(Antya 6.181–183). In Puri Shivananda, meeting Raghunatha with the Lord, told him of this pursuit (Antya 6.246–247).
+<!-- F70 F71 Q15 -->
+
+Four months later, when Shivananda had returned to Gauda, Govardhana sent a man to him again, and Shivananda told him
+how his son was living: the Lord had placed him in the care of Svarupa Damodara; day and night he sang the names of
+Krishna, cared neither for food nor clothing, and in the evening stood at the Lion Gate begging alms (Antya 6.248–256).
+The parents were grieved and sent to Shivananda two servants and a brahmana with four hundred coins for their son’s
+service; Shivananda told them to come when he went to Puri again, and the next year took them with him (Antya
+6.258–261, 266).[^10] Raghunatha took nothing for himself. Only for his father’s good did he begin to use part of this
+money to feast the Lord twice a month, and after two years he stopped (Antya 6.267–275). <!-- F71 F72 -->
+
+Kavi Karnapura in the “Chaitanya-chandrodaya” puts Raghunatha’s glory into his father’s mouth: to Govardhana’s messenger
+Shivananda replies with verses asking who among those living at Nilachala does not know this disciple of Yadunandana,
+follower of Svarupa, sole treasury of renunciation — and promises to take the messenger under his own care and lead him
+to Puri (10.3–4). The “Charitamrita” quotes these verses and remarks:
+
+“Thus Kavi Karnapura described the greatness of Sri Raghunatha Dasa, of whom Shivananda Sena had spoken.” (CC, Antya
+6.265) <!-- F73 -->
+
+## Chaitanya Dasa’s Feast
+Once in Puri Shivananda brought his eldest son to the Lord. Hearing his name — Chaitanya Dasa — the Lord asked: “What
+sort of name is this?” Shivananda answered: “He bears the name that came to me from within” (CC, Antya 10.142–145). He
+invited the Lord to his lodging and fed Him the finest and costliest prasada of Jagannatha. Out of regard for Shivananda
+the Lord ate it all, but ate too much. The next day Chaitanya Dasa invited the Lord: understanding what He wanted, he
+served rice with yogurt, lime, ginger and salt. The Lord was very pleased — “this boy has understood what I really
+need” — and gave him the remnants of His meal (Antya 10.146–151). <!-- F69 -->
+
+## Nityananda’s Foot
+Nityananda Prabhu, the deliverer of the fallen, was boundlessly merciful to Shivananda too, and His dearest mercy came
+as a blow of His foot. It happened in the year of Haridasa Thakura’s departure. The devotees, as usual, gathered in
+Navadvipa to go to Puri; Nityananda went with them, although the Lord had told Him to stay in Bengal. Shivananda went
+with his wife and three sons and, as always, led everyone and settled the tolls at the toll-posts (CC, Antya 12.7–16).
+<!-- F56 -->
+
+This time he was long detained by the collectors. The devotees reached a village, but without him no lodging could be
+found, and all settled down under a tree. And here Nityananda, in the guise of a wondrous cowherd boy of Vraja, as if
+faint with hunger, displayed a feigned anger:
+
+“‘Because Shivananda has not seen to a place to stay, I am now dying of hunger. Since he is not here when he is needed,
+let his three sons die!’” (CC, Antya 12.20)
+
+Shivananda’s wife, hearing this “curse,” began to weep. Returning, Shivananda comforted her: why weep? Let our sons die
+— for we have caused Nityananda inconvenience (Antya 12.21–23). There is no indifference to his children in these words:
+it is complete devotion to Nityananda, for whom he is ready to give up everything. <!-- F57 F58 -->
+
+“Having said these words, Shivananda went without delay to Nityananda. But Nityananda rose and kicked him.” (CC, Antya
+12.24)
+
+Under the guise of a blow Nityananda placed His foot upon him — the foot that even Brahma cannot touch.[^11] Shivananda
+rejoiced at this good fortune, quickly found lodging in a milkman’s house, led Nityananda there with prayers at His feet,
+and glorified Him: <!-- F59 -->
+
+“‘Today You have accepted me as Your servant and rightly punished me for my fault. Under the pretext of punishment You
+have given me Your mercy. Who can understand the nature and greatness of Your deeds? Even Brahma cannot touch the dust
+of Your beautiful feet, yet You have touched my sinful body with Your foot. Today my birth, my family and my deeds have
+become wholly successful. Today I have attained all goals — dharma, wealth, worldly joy and, at last, love for Sri
+Krishna.’” (CC, Antya 12.27–30) <!-- F59 Q10 -->
+
+Shivananda himself calls this not a penalty but acceptance as a servant, and says that together with love for Krishna
+he has obtained all that people strive for. He begged to be touched by those feet again and again. Pleased with the
+praise, Nityananda smiled, rose and lovingly embraced him (Antya 12.31). Krishnadasa Kaviraja explains:
+
+“Extraordinarily contradictory are all the qualities of Sri Nityananda. When He kicks someone in anger, that person
+attains good fortune.” (CC, Antya 12.33)
+
+The anger of Nityananda, the guru of the whole world, is only a veil hiding the highest mercy and eternal good; all His
+conduct is the opposite of the ordinary. <!-- F61 I3 -->
+
+But not everyone understood this lila. Shivananda’s nephew Shrikanta — then still very young — loved his uncle dearly
+and was hurt that Nityananda had kicked an associate of Mahaprabhu known to all. He went ahead alone to the Lord and bowed
+to Him without taking off his *petangi*, his upper shirt. Govinda, the Lord’s servant, told him that the shirt must be
+taken off before bowing, but the Lord stopped him:[^12]
+
+“But Sri Chaitanya objected: ‘Please, do not bother Shrikanta. Let him do as he likes, for he has come here already
+deeply upset about something.’” (CC, Antya 12.38) <!-- F62 Q11 -->
+
+From these words Shrikanta understood that the Lord is all-knowing, and said not a word about what had happened (Antya
+12.40–41). So the Lord soothed his childlike attachment to his uncle. One of the biographies recalls here the Lord’s
+words in the “Bhagavatam”: “I am wholly dependent on My devotees and, as it were, not free, O twice-born: the saints
+have taken possession of My heart, and dear to Me are those who are dear to My devotees” (9.4.63). <!-- F62 I6 Q15 -->
+
+Soon all the Vaishnavas arrived. The Lord met them as before; the women saw Him from a distance. All were lodged where
+they had stayed in former years and fed with Jagannatha’s mahaprasada (Antya 12.41–43).[^13] <!-- F63 -->
+
+## Puri Dasa
+And now Shivananda brought his three sons to the Lord, and the Lord was especially merciful to them — for their father’s
+sake (CC, Antya 12.44). He asked the name of the youngest, and Shivananda answered: “Paramananda Dasa.” That name had its
+own story:
+
+“Once Sri Chaitanya had said to Shivananda: ‘When a son is born to you, give him the name Puri Dasa.’” (CC, Antya
+12.46–47)
+
+The boy was then still in his mother’s womb, and was born when Shivananda returned home.
+
+“By Sri Chaitanya’s instruction he received the name Paramananda Dasa, but in jest Sri Chaitanya always called him Puri
+Dasa.” (CC, Antya 12.49)[^14] <!-- F64 Q12 -->
+
+The “Chaitanya-chandrodaya” gives this conversation its own way: Shrikanta reports to the Lord that coming too are the two
+sons of his uncle, whom the Lord has already seen, and the youngest, who has not yet seen His feet; and the Lord, turning
+to Paramananda Puri, says: “Svami, this is your servant” (Act 10).[^15] <!-- F64 -->
+
+When Shivananda brought the infant to the Lord, the Lord put the great toe of His foot into his mouth (Antya 12.50);
+according to one of the biographies, the boy, having bowed, began of himself to suck the toe of His foot.
+
+“The good fortune of Shivananda Sena is boundless! Who can surpass it? For Sri Chaitanya Mahaprabhu Himself called his
+whole family His own.” (CC, Antya 12.51)
+
+After His meal the Lord gave Govinda this instruction:
+
+“‘As long as Shivananda Sena’s wife and children are staying here in the town, give them a plate of the remnants of My
+meal every day.’” (CC, Antya 12.53) <!-- F65 Q12 F8 -->
+
+Some years later Shivananda again came to the Ratha-yatra with his wife and youngest son, still a small child, and told
+him to bow at the Lord’s feet. The Lord again and again said to the boy: “Say: Krishna!” — but he was silent. His father
+too urged him — in vain (CC, Antya 16.65–68). The Lord wondered:
+
+“Then Mahaprabhu said: ‘I have made the whole world chant the holy name. Even trees and stones I have made utter the name
+of Krishna! But him I could not make utter the name of Krishna!’ Hearing this, Svarupa Damodara said: ‘You gave him the
+mantra of Krishna’s name. Having received the mantra, he does not wish to reveal it to anyone. He chants it within, but
+does not utter it aloud. I think that is his intention.’” (CC, Antya 16.69–72) <!-- F66 -->
+
+The child’s silence is not obstinacy but faithfulness to the mantra received from the Lord Himself. Srila
+Bhaktisiddhanta explains in the “Anubhashya”: a mantra received from the guru is not revealed to others, or it loses its
+power — and he recalls that this can be seen also in the story of Gadadhara Pandita. Puri Dasa at his age already kept
+this rule. <!-- F67 I4 -->
+
+On another day the Lord said: “Puri Dasa, recite!” — and the boy at once composed and recited a verse:
+
+“Glory to Hari, the ornament of all the girls of Vrindavana! He is the blue lotus at their ears, the collyrium of their
+eyes and the necklace of wondrous sapphires on their breasts.” (CC, Antya 16.74)
+
+All were amazed: a seven-year-old child who had not yet studied anything had composed such a verse. “Such is the
+greatness of the mercy of Sri Chaitanya Mahaprabhu, whose limit even Brahma and the other gods cannot find” (Antya
+16.75–76). With this verse Kavi Karnapura’s “Arya-shataka” opens. <!-- F68 Q13 -->
+
+## Oil for the Lord
+Shivananda’s house was always open to the Lord’s service. Once Jagadananda Pandita, returning from Navadvipa, stayed
+with him:
+
+“When he was staying at Shivananda’s house, about fifteen kilograms of sandalwood oil was prepared there with many
+fragrant ingredients. With this fragrant sandal oil they filled a large pot, and Jagadananda carried it with care to Sri
+Jagannatha Puri.” (CC, Antya 12.102–103)
+
+The oil was meant for the Lord’s head; how this story ended is told in the article on Jagadananda. <!-- F74 -->
+
+## Everything for Service
+Power, wealth and all that this world gives are justified only when they serve Hari, guru and the Vaishnavas. Shivananda
+disposed of his possessions — his lands and property — in just this way: all he had he gave to the service of Sri
+Gauranga and His devotees. Not only his sons but the servants in his house were devotees of the Lord. <!-- F75 I2 F8 -->
+
+The sources have preserved neither the year, nor the day, nor the place of his appearance and departure; nor do they
+name the place of his samadhi. The days of Shivananda Sena’s appearance and departure are not in our calendar (Sri
+Chaitanya Saraswat Math) either. <!-- F60 F5 -->
+
+## Vira-duti
+Who Shivananda was in Krishna’s pastimes, his son reveals:
+
+“The messenger Vira, who once in Vrindavana led all the gopis to Krishna, is now my father; she who in Vraja was
+Bindumati is now my mother.” (“Gaura-ganoddesha-dipika” 176) <!-- F2 Q1 F3 -->
+
+A *duti* is a messenger, a sakhi-friend who serves the meetings of Radha and Krishna and brings the gopis to Krishna.
+As Vira nourished the pastimes of Krishna and the gopis, so Shivananda, descending into Gaura’s lila, nourished the
+pastimes of Gaurahari: he led His devotees to Him, year after year, across the rivers and toll-posts of Orissa.
+<!-- F2 -->
+
+## Significance
+The life of Shivananda Sena is the life of a householder given wholly to the Lord. His wealth, house, family and
+strength served one purpose — that the devotees of Gauda might see their Lord. He paid for all, fed all, found lodging
+for all, and did not leave even a stray dog without care; and the Lord, captivated by his love, came to him again and
+again. <!-- I2 I5 -->
+
+The Lord’s mercy came to him in all its kinds — face to face, through Nakula and through Nrisimhananda; and Nityananda’s
+mercy came in the form in which only a true servant recognizes it: under the guise of anger. And the Lord so loved him
+that He accepted his whole family as His own: dear to Him are also those who are dear to His devotees. <!-- I3 I6 -->
+
 
 [^1]: One of the biographies calls “Kumarahatta and Kanchrapara” the homes of these two associates, Shrivasa and
     Shivananda; the other biographies and Srila Bhaktisiddhanta place Shivananda’s home in Kumarahatta (Halisahar).
@@ -432,3 +616,19 @@ devotees.
     Shivananda’s house was in Kumarahatta is known from other passages. In the “Chaitanya-chandrodaya” Nrisimhananda says:
     “The Lord has been brought to Raghava’s house” (in Panihati). And according to the “Charitamrita” itself, having eaten
     the offerings, the Lord went to Panihati, to the house of Raghava Pandita (Antya 2.69).
+[^10]: One of the biographies gives the sum as “four hundred rupees”; in the “Charitamrita” it is four hundred coins
+    (*mudra*).
+[^11]: The biographies write that Nityananda struck Shivananda and placed His foot “on his head.” The “Charitamrita”
+    says only that He “kicked him” (Antya 12.24) and that His foot “touched the body” of Shivananda (12.29); the head is
+    not mentioned.
+[^12]: According to one of the biographies, the Lord Himself first told Govinda to correct Shrikanta. According to the
+    “Charitamrita,” Govinda made the remark on his own, and the Lord stopped him (Antya 12.37–38).
+[^13]: One of the biographies writes that Shivananda arranged lodging and mahaprasada for everyone. In the
+    “Charitamrita” (Antya 12.43) the one who lodged and fed the devotees is not named outright; in the translation it is
+    the Lord.
+[^14]: According to one of the biographies, the Lord told them to name the boy “Paramananda.” According to the
+    “Charitamrita,” the Lord said: “Name him Puri Dasa” (Antya 12.47), and the boy was named Paramananda Dasa by His
+    instruction as well (12.49).
+[^15]: According to the “Chaitanya-chandrodaya,” the Lord had already seen Shivananda’s two elder sons, and the youngest
+    was coming to Him for the first time. According to the “Charitamrita,” Shivananda brings all three to the Lord (Antya
+    12.44).
