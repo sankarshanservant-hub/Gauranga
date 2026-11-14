@@ -3,7 +3,7 @@
 - id: cc-4001
   source: cc
   ref: "Антья 1.1–12"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: PX
   order: 995.01
   title: "Мангалачарана Антья-лилы: поклон Чайтанье, святым, шести Госвами, Радха-Мадана-мохану, Говинде и Гопинатхе; автор, старый и близкий к смерти, приступает к Антья-лиле"
@@ -15,12 +15,12 @@
   themes: [author]
   cc: "Антья 1"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "1", to: "12"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "1", to: "12"}
 
 - id: cc-4002
   source: cc
   ref: "Антья 1.13–33"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 10
   title: "Собака Шивананды Сены: Шивананда кормит пса в пути и платит за его переправу; пропавший пёс у Господа в Пури повторяет «Кришна» и уходит на Вайкунтху"
@@ -34,12 +34,12 @@
   cc: "Антья 1"
   event: ev-shivananda-dog
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "13", to: "33"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "13", to: "33"}
 
 - id: cc-4003
   source: cc
   ref: "Антья 1.34–39"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 9
   title: "Рупа начинает во Врадже драму о Кришне; по пути в Гауду кончается Анупама"
@@ -52,12 +52,12 @@
   cc: "Антья 1"
   event: ev-rupa-gauda-anupama-passing
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "34", to: "39"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "34", to: "39"}
 
 - id: cc-4004
   source: cc
   ref: "Антья 1.40–44"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 9.5
   title: "Сон в Сатьябхама-пуре: Сатьябхама велит Рупе написать о Ней отдельную драму"
@@ -70,12 +70,12 @@
   cc: "Антья 1"
   event: ev-satyabhama-dream-rupa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "40", to: "44"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "40", to: "44"}
 
 - id: cc-4005
   source: cc
   ref: "Антья 1.45–61"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 10.5
   title: "Рупа приходит в Пури к Харидасу; Господь встречает его и просит Адвайту и Нитьянанду благословить его"
@@ -88,12 +88,12 @@
   cc: "Антья 1"
   event: ev-rupa-arrives-haridasa-puri
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "45", to: "61"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "45", to: "61"}
 
 - id: cc-4006
   source: cc
   ref: "Антья 1.62–64"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 10.6
   title: "Уборка Гундичи и трапеза в саду Айтота: Говинда приносит Рупе и Харидасу остатки Господа"
@@ -107,12 +107,12 @@
   cc: "Антья 1"
   event: ev-rupa-arrives-haridasa-puri
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "62", to: "64"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "62", to: "64"}
 
 - id: cc-4007
   source: cc
   ref: "Антья 1.65–71"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 11.9
   title: "«Не уводи Кришну из Вриндавана»: Господь подтверждает сон Рупы, и тот решает написать две драмы"
@@ -127,12 +127,12 @@
   cc: "Антья 1"
   event: ev-rupa-puri-dramas
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "65", to: "71"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "65", to: "71"}
 
 - id: cc-4008
   source: cc
   ref: "Антья 1.72–92"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 11.5
   title: "Шлока Рупы «прийах со ’йам»: Господь находит пальмовый лист на крыше и спрашивает, как Рупа узнал Его сердце"
@@ -148,12 +148,12 @@
   cc: "Антья 1"
   event: ev-priyah-so-yam-rupa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "72", to: "92"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "72", to: "92"}
 
 - id: cc-4009
   source: cc
   ref: "Антья 1.93–102"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 11.7
   title: "Стих «тунде тандавини»: Господь читает в рукописи Рупы о сладости имени «Кришна», Харидас пляшет"
@@ -168,12 +168,12 @@
   cc: "Антья 1"
   event: ev-tunde-tandavini
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "93", to: "102"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "93", to: "102"}
 
 - id: cc-4010
   source: cc
   ref: "Антья 1.103–133"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 12
   title: "Испытание Рупы при Сарвабхауме и Рамананде: «прийах со ’йам», «тунде тандавини», вступление «Видагдха-мадхавы» и шлока о Гауре"
@@ -188,12 +188,12 @@
   cc: "Антья 1"
   event: ev-rupa-puri-dramas
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "103", to: "133"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "103", to: "133"}
 
 - id: cc-4011
   source: cc
   ref: "Антья 1.134–170"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 12.1
   title: "Рамананда расспрашивает Рупу о «Видагдха-мадхаве»: правартака, прарочана, пурва-рага, природа премы, Вриндаван, флейта, красота Кришны и Радхи"
@@ -208,12 +208,12 @@
   cc: "Антья 1"
   event: ev-rupa-puri-dramas
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "134", to: "170"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "134", to: "170"}
 
 - id: cc-4012
   source: cc
   ref: "Антья 1.171–212"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 12.2
   title: "Вступление «Лалита-мадхавы»; Господь недоволен похвалой Себе — «дёготь в мёде», Рамананда — «камфора»; Господь уполномочивает Рупу и Санатану писать о бхакти"
@@ -228,12 +228,12 @@
   cc: "Антья 1"
   event: ev-rupa-puri-dramas
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "171", to: "212"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "171", to: "212"}
 
 - id: cc-4013
   source: cc
   ref: "Антья 1.213–221"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: P14
   order: 12.8
   title: "Рупа остаётся до Дола-ятры; Господь посылает его во Вриндаван: писать о расах, восстанавливать святые места, прислать Санатану"
@@ -246,12 +246,12 @@
   cc: "Антья 1"
   event: ev-rupa-sent-vrindavana-after-dola
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "213", to: "221"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "213", to: "221"}
 
 - id: cc-4014
   source: cc
-  ref: "Антья 1.222"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt"
+  ref: "Антья 1.222–223"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md"
   period: PX
   order: 995.02
   title: "Колофон Антья 1: о второй встрече Рупы с Господом"
@@ -264,12 +264,12 @@
   themes: [author]
   cc: "Антья 1"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya01.txt", from: "222", to: "2:222"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya01.md", from: "222", to: "223"}
 
 - id: cc-4015
   source: cc
   ref: "Антья 2.1–2"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: PX
   order: 995.03
   title: "Мангалачарана Антья 2"
@@ -281,12 +281,12 @@
   themes: [author]
   cc: "Антья 2"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "1", to: "2"}
 
 - id: cc-4016
   source: cc
   ref: "Антья 2.3–15"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: PX
   order: 117.1
   title: "Три способа, которыми Гаура спасает мир: личная встреча (сакшад-даршана), вхождение в достойного преданного (авеша) и явление (авирбхава)"
@@ -300,12 +300,12 @@
   cc: "Антья 2"
   event: ev-tattva-three-ways-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "3", to: "15"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "3", to: "15"}
 
 - id: cc-4017
   source: cc
   ref: "Антья 2.16–32"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: P14
   order: 20
   title: "Господь входит в Накулу Брахмачари из Амбуи; Накула угадывает мантру Шивананды Сены"
@@ -319,12 +319,12 @@
   cc: "Антья 2"
   event: ev-nakula-brahmachari
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "16", to: "32"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "16", to: "32"}
 
 - id: cc-4018
   source: cc
   ref: "Антья 2.33–35"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: P14
   order: 18.9
   title: "Господь, привлекаемый любовью, всегда является в четырёх местах: у Шачи, в пляске Нитьянанды, на киртане Шриваса и в доме Рагхавы"
@@ -338,12 +338,12 @@
   cc: "Антья 2"
   event: ev-avirbhava-four-places
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "33", to: "35"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "33", to: "35"}
 
 - id: cc-4019
   source: cc
   ref: "Антья 2.36–78"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: P14
   order: 21
   title: "Нрисимхананда «приводит» Господа в Бенгалию: Господь съедает подношения Джаганнатхе, Нрисимхе и Себе"
@@ -359,12 +359,12 @@
   cc: "Антья 2"
   event: ev-nrisimhananda-three-offerings
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "36", to: "78"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "36", to: "78"}
 
 - id: cc-4020
   source: cc
   ref: "Антья 2.79–83"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: P14
   order: 19
   title: "Четыре места постоянного явления Господа; Гаурасундара покоряется любви — ради Шивананды Он приходит снова и снова"
@@ -378,12 +378,12 @@
   cc: "Антья 2"
   event: ev-avirbhava-four-places
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "79", to: "83"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "79", to: "83"}
 
 - id: cc-4021
   source: cc
   ref: "Антья 2.84–100"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: P14
   order: 24
   title: "Бхагаван Ачарья и его брат-майявади Гопала: Сварупа запрещает слушать толкование Веданты Шанкары"
@@ -398,12 +398,12 @@
   cc: "Антья 2"
   event: ev-gopala-bhattacharya-mayavada
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "84", to: "100"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "84", to: "100"}
 
 - id: cc-4022
   source: cc
   ref: "Антья 2.101–145"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: P14
   order: 25
   title: "Наказание Младшего Харидаса: за то, что он просил рис у Мадхави-деви, Господь закрывает ему дверь; даже Парамананда Пури не может умилостивить Господа"
@@ -419,12 +419,12 @@
   cc: "Антья 2"
   event: ev-chhota-haridasa-punished
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "101", to: "145"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "101", to: "145"}
 
 - id: cc-4023
   source: cc
   ref: "Антья 2.146–166"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: P14
   order: 25.5
   title: "Младший Харидас оставляет тело в Праяге и в облике гандхарвы поёт Господу; «таково искупление санньяси, глядящего на женщин»"
@@ -439,12 +439,12 @@
   cc: "Антья 2"
   event: ev-chhota-haridasa-prayaga
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "146", to: "166"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "146", to: "166"}
 
 - id: cc-4024
   source: cc
   ref: "Антья 2.167–172"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md"
   period: PX
   order: 995.04
   title: "Смысл наказания Младшего Харидаса: одной игрой Господь достигает многих целей; колофон Антья 2"
@@ -456,12 +456,12 @@
   themes: [author]
   cc: "Антья 2"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya02.txt", from: "167", to: "172"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md", from: "167", to: "172"}
 
 - id: cc-4025
   source: cc
   ref: "Антья 3.1–2"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: PX
   order: 995.05
   title: "Мангалачарана Антья 3"
@@ -473,12 +473,12 @@
   themes: [author]
   cc: "Антья 3"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "1", to: "2"}
 
 - id: cc-4026
   source: cc
   ref: "Антья 3.3–19"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P14
   order: 14.9
   title: "Упрёк Дамодары Пандита: Господь ласков к сыну молодой вдовы-брахманки — «что скажут люди?»"
@@ -492,12 +492,12 @@
   cc: "Антья 3"
   event: ev-damodara-sent-navadvipa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "3", to: "19"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "3", to: "19"}
 
 - id: cc-4027
   source: cc
   ref: "Антья 3.20–48"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P14
   order: 15
   title: "Господь посылает Дамодару в Надию охранять Шачи и передаёт тайное послание: «Я ел твои подношения на Макара-санкранти»"
@@ -511,12 +511,12 @@
   cc: "Антья 3"
   event: ev-damodara-sent-navadvipa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "20", to: "48"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "20", to: "48"}
 
 - id: cc-4028
   source: cc
   ref: "Антья 3.49–64"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P14
   order: 57
   title: "Беседа с Харидасом: как спасутся яваны? — «харам» содержит имя Рамы; сила проблеска имени (намабхасы), пример Аджамилы"
@@ -531,12 +531,12 @@
   cc: "Антья 3"
   event: ev-haridasa-namabhasa-yavanas
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "49", to: "64"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "49", to: "64"}
 
 - id: cc-4029
   source: cc
   ref: "Антья 3.65–92"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P14
   order: 57.5
   title: "Как освободятся движущиеся и неподвижные существа? — Харидас: санкиртаной Господа; «Твои игры — океан, мне не постичь и капли»"
@@ -551,12 +551,12 @@
   cc: "Антья 3"
   event: ev-haridasa-sthavara-jangama-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "65", to: "92"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "65", to: "92"}
 
 - id: cc-4030
   source: cc
   ref: "Антья 3.93–97"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: PX
   order: 995.06
   title: "Достоинства Харидаса неисчислимы; автор дополнит то, что Вриндаван Дас не описал подробно"
@@ -568,12 +568,12 @@
   themes: [author]
   cc: "Антья 3"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "93", to: "97"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "93", to: "97"}
 
 - id: cc-4031
   source: cc
   ref: "Антья 3.98–142"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P01
   order: 2.6
   title: "Блудница, подосланная Рамачандрой Ханом, слушает имя три ночи и становится вайшнави"
@@ -587,12 +587,12 @@
   cc: "Антья 3"
   event: ev-haridasa-prostitute
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "98", to: "142"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "98", to: "142"}
 
 - id: cc-4032
   source: cc
   ref: "Антья 3.143–163"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P14
   order: 27
   title: "Рамачандра Хан оскорбляет Нитьянанду, сев на которого место он велит перекопать; мусульманский чиновник разоряет его дом и деревню"
@@ -606,12 +606,12 @@
   cc: "Антья 3"
   event: ev-nityananda-ramachandra-khan
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "143", to: "163"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "143", to: "163"}
 
 - id: cc-4033
   source: cc
   ref: "Антья 3.164–212"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P05
   order: 20
   title: "Харидас в Чандапуре у Баларамы Ачарьи; на собрании у Хираньи и Говардханы: плод имени — према, освобождение лишь побочно; Гопала Чакраварти, оскорбивший Харидаса, заболевает проказой"
@@ -627,12 +627,12 @@
   cc: "Антья 3"
   event: ev-haridasa-gopala-chakravarti
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "164", to: "212"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "164", to: "212"}
 
 - id: cc-4034
   source: cc
   ref: "Антья 3.213–224"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P01
   order: 2.95
   title: "Харидас у Адвайты в Шантипуре: пещера на берегу Ганги, шраддха-патра; молитвы Адвайты и имя Харидаса призывают Кришну"
@@ -646,12 +646,12 @@
   cc: "Антья 3"
   event: ev-shraddha-patra-haridasa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "213", to: "224"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "213", to: "224"}
 
 - id: cc-4035
   source: cc
   ref: "Антья 3.225–258"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: P01
   order: 2.97
   title: "Майя-деви испытывает Харидаса три лунные ночи и получает от него имя Кришны"
@@ -666,12 +666,12 @@
   cc: "Антья 3"
   event: ev-maya-tests-haridasa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "225", to: "258"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "225", to: "258"}
 
 - id: cc-4036
   source: cc
   ref: "Антья 3.259–266"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: PX
   order: 117.2
   title: "Почему Майя просит имя: ради премы, раздаваемой Чайтаньей, родились на земле Брахма, Шива, Кумары, Прахлада, Нарада, Лакшми — и пришёл Сам Кришна"
@@ -685,12 +685,12 @@
   cc: "Антья 3"
   event: ev-maya-tests-haridasa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "259", to: "266"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "259", to: "266"}
 
 - id: cc-4037
   source: cc
   ref: "Антья 3.267–270"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md"
   period: PX
   order: 995.07
   title: "Источник рассказа — Рагхунатха Дас со слов Сварупы; колофон Антья 3"
@@ -702,12 +702,12 @@
   themes: [author]
   cc: "Антья 3"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya03.txt", from: "267", to: "270"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya03.md", from: "267", to: "270"}
 
 - id: cc-4038
   source: cc
   ref: "Антья 4.1–2"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: PX
   order: 995.08
   title: "Вступление Антья 4: Санатана снова у Господа — испытание и исцеление"
@@ -719,12 +719,12 @@
   themes: [author]
   cc: "Антья 4"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "1", to: "2"}
 
 - id: cc-4039
   source: cc
   ref: "Антья 4.3–25"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 13.9
   title: "Санатана идёт через Джхарикханду, покрывается язвами и решает броситься под колесо колесницы; в Пури у Харидаса Господь силой обнимает его"
@@ -737,12 +737,12 @@
   cc: "Антья 4"
   event: ev-sanatana-puri-sores
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "3", to: "25"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "3", to: "25"}
 
 - id: cc-4040
   source: cc
   ref: "Антья 4.26–47"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 13.95
   title: "Санатана рассказывает о твёрдой преданности Анупамы Рамачандре; Господь: «так Я испытал Мурари Гупту»"
@@ -757,12 +757,12 @@
   cc: "Антья 4"
   event: ev-anupama-rama-devotion
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "26", to: "47"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "26", to: "47"}
 
 - id: cc-4041
   source: cc
   ref: "Антья 4.48–53"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 14.05
   title: "Санатана поселён с Харидасом; Господь ежедневно приносит им прасад Джаганнатхи"
@@ -775,12 +775,12 @@
   cc: "Антья 4"
   event: ev-sanatana-puri-sores
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "48", to: "53"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "48", to: "53"}
 
 - id: cc-4042
   source: cc
   ref: "Антья 4.54–103"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 14.1
   title: "Господь запрещает Санатане самоубийство: «Кришну не обрести, оставив тело; твоё тело — Моя собственность и инструмент Моей миссии»; Харидас и Санатана славят друг друга"
@@ -796,12 +796,12 @@
   cc: "Антья 4"
   event: ev-sanatana-suicide-forbidden
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "54", to: "103"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "54", to: "103"}
 
 - id: cc-4043
   source: cc
   ref: "Антья 4.104–114"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 14.15
   title: "Санатана видит танец Господа на Ратха-ятре; Господь представляет его бенгальским преданным; Санатана остаётся до Дола-ятры"
@@ -815,12 +815,12 @@
   cc: "Антья 4"
   event: ev-sanatana-puri-sores
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "104", to: "114"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "104", to: "114"}
 
 - id: cc-4044
   source: cc
   ref: "Антья 4.115–134"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 14.2
   title: "Испытание в джьяиштху: Санатана идёт к Господу в сад Ямешвары по раскалённому песку, избегая Львиных ворот, чтобы не коснуться служителей Джаганнатхи"
@@ -835,12 +835,12 @@
   cc: "Антья 4"
   event: ev-sanatana-hot-sand-test
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "115", to: "134"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "115", to: "134"}
 
 - id: cc-4045
   source: cc
   ref: "Антья 4.135–164"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 14.3
   title: "Джагадананда советует Санатане вернуться во Вриндаван; Господь бранит Джагадананду, а Санатана сетует, что его поят «соком нимба»"
@@ -854,12 +854,12 @@
   cc: "Антья 4"
   event: ev-jagadananda-advises-sanatana
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "135", to: "164"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "135", to: "164"}
 
 - id: cc-4046
   source: cc
   ref: "Антья 4.165–204"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 14.4
   title: "«Твоё тело для Меня — сосуд нектара»: тело вайшнава духовно; Господь обнимает Санатану, и язвы исчезают"
@@ -875,12 +875,12 @@
   cc: "Антья 4"
   event: ev-sanatana-puri-sores
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "165", to: "204"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "165", to: "204"}
 
 - id: cc-4047
   source: cc
   ref: "Антья 4.205–213"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 14.9
   title: "После Дола-ятры Санатана уходит во Вриндаван лесным путём Господа, расспросив Балабхадру о местах Его игр"
@@ -893,12 +893,12 @@
   cc: "Антья 4"
   event: ev-sanatana-returns-vrindavana-forest-path
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "205", to: "213"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "205", to: "213"}
 
 - id: cc-4048
   source: cc
   ref: "Антья 4.214–216"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 16
   title: "Рупа год живёт в Гауде, раздаёт накопленное родным, брахманам и храмам и возвращается во Вриндаван"
@@ -911,12 +911,12 @@
   cc: "Антья 4"
   event: ev-rupa-year-gauda
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "214", to: "216"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "214", to: "216"}
 
 - id: cc-4049
   source: cc
   ref: "Антья 4.217–226"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P14
   order: 17.1
   title: "Рупа и Санатана во Вриндаване собирают писания, открывают святые места и пишут книги: «Брихад-бхагаватамрита», «Хари-бхакти-виласа», «Бхакти-расамрита-синдху», «Уджвала-ниламани»"
@@ -930,12 +930,12 @@
   cc: "Антья 4"
   event: ev-rupa-sanatana-books-vrindavana
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "217", to: "226"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "217", to: "226"}
 
 - id: cc-4050
   source: cc
   ref: "Антья 4.227–231"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P15
   order: 120
   title: "Джива, сын Анупамы, во Вриндаване: «Бхагават-сандарбха», «Гопала-чампу», «Шат-сандарбха»"
@@ -949,12 +949,12 @@
   cc: "Антья 4"
   event: ev-jiva-gosvami-writings
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "227", to: "231"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "227", to: "231"}
 
 - id: cc-4051
   source: cc
   ref: "Антья 4.232–235"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: P15
   order: 11.5
   title: "Нитьянанда благословляет Дживу и посылает его во Вриндаван"
@@ -968,12 +968,12 @@
   cc: "Антья 4"
   event: ev-jiva-meets-nityananda-navadvipa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "232", to: "235"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "232", to: "235"}
 
 - id: cc-4052
   source: cc
   ref: "Антья 4.236–239"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md"
   period: PX
   order: 995.09
   title: "Поклон четырём Госвами-гуру; колофон Антья 4"
@@ -985,12 +985,12 @@
   themes: [author]
   cc: "Антья 4"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya04.txt", from: "236", to: "239"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya04.md", from: "236", to: "239"}
 
 - id: cc-4053
   source: cc
   ref: "Антья 5.1–3"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: PX
   order: 995.1
   title: "Мангалачарана Антья 5"
@@ -1002,12 +1002,12 @@
   themes: [author]
   cc: "Антья 5"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "1", to: "3"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "1", to: "3"}
 
 - id: cc-4054
   source: cc
   ref: "Антья 5.4–32"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: P14
   order: 35
   title: "Прадьюмна Мишра просит рассказать о Кришне; Господь посылает его к Рамананде, который в саду учит двух девадаси танцу для Джаганнатхи"
@@ -1022,12 +1022,12 @@
   cc: "Антья 5"
   event: ev-pradyumna-mishra-hears-ramananda
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "4", to: "32"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "4", to: "32"}
 
 - id: cc-4055
   source: cc
   ref: "Антья 5.33–54"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: P14
   order: 35.1
   title: "Господь о Рамананде: «даже имя женщины волнует Мой ум — а он невозмутим»; кто с верой слушает о расе, освобождается от вожделения; тело Рамананды духовно"
@@ -1042,12 +1042,12 @@
   cc: "Антья 5"
   event: ev-pradyumna-mishra-hears-ramananda
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "33", to: "54"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "33", to: "54"}
 
 - id: cc-4056
   source: cc
   ref: "Антья 5.55–76"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: P14
   order: 35.2
   title: "Рамананда весь день рассказывает Прадьюмне Мишре о Кришне: «Я лишь вина, на которой играет Господь»"
@@ -1062,12 +1062,12 @@
   cc: "Антья 5"
   event: ev-pradyumna-mishra-hears-ramananda
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "55", to: "76"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "55", to: "76"}
 
 - id: cc-4057
   source: cc
   ref: "Антья 5.77–90"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: PX
   order: 117.3
   title: "Господь прославляет Своих преданных: дхарму Он учит и через «шудр» — Рамананду, Харидаса, Санатану, Рупу"
@@ -1081,12 +1081,12 @@
   cc: "Антья 5"
   event: ev-pradyumna-mishra-hears-ramananda
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "77", to: "90"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "77", to: "90"}
 
 - id: cc-4058
   source: cc
   ref: "Антья 5.91–108"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: P14
   order: 36
   title: "Бенгальский поэт привозит драму о Господе; правило Сварупы: всё сначала слушает он; о расабхасе и неумелых поэтах"
@@ -1100,12 +1100,12 @@
   cc: "Антья 5"
   event: ev-bengali-poet-drama-svarupa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "91", to: "108"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "91", to: "108"}
 
 - id: cc-4059
   source: cc
   ref: "Антья 5.109–127"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: P14
   order: 36.1
   title: "Шлока поэта: Чайтанья — «душа» тела Джаганнатхи; Сварупа: тело и душа Господа едины, Джаганнатха — не тленное тело, Чайтанья — не искра-джива"
@@ -1120,12 +1120,12 @@
   cc: "Антья 5"
   event: ev-bengali-poet-drama-svarupa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "109", to: "127"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "109", to: "127"}
 
 - id: cc-4060
   source: cc
   ref: "Антья 5.128–158"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: P14
   order: 36.2
   title: "Сварупа открывает в шлоке поэта молитву Сарасвати: Джаганнатха — неподвижный Дару-брахман, Чайтанья — движущийся Брахман; поэт предаётся и остаётся в Пури"
@@ -1140,12 +1140,12 @@
   cc: "Антья 5"
   event: ev-bengali-poet-drama-svarupa
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "128", to: "158"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "128", to: "158"}
 
 - id: cc-4061
   source: cc
   ref: "Антья 5.159–164"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md"
   period: PX
   order: 995.11
   title: "Итог Антья 5 и колофон"
@@ -1157,12 +1157,12 @@
   themes: [author]
   cc: "Антья 5"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya05.txt", from: "159", to: "164"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya05.md", from: "159", to: "164"}
 
 - id: cc-4062
   source: cc
   ref: "Антья 6.1–2"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: PX
   order: 995.12
   title: "Мангалачарана Антья 6: Господь верёвкой милости вытащил Рагхунатху из колодца семейной жизни"
@@ -1174,12 +1174,12 @@
   themes: [author]
   cc: "Антья 6"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "1", to: "2"}
 
 - id: cc-4063
   source: cc
   ref: "Антья 6.3–12"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 100
   title: "Ночами Господь томится в разлуке с Кришной; Рамананда, как Субала, и Сварупа, как Лалита, утешают Его"
@@ -1194,12 +1194,12 @@
   cc: "Антья 6"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "3", to: "12"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "3", to: "12"}
 
 - id: cc-4064
   source: cc
   ref: "Антья 6.13–41"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 28
   title: "Рагхунатха Дас дома в Саптаграме: мусульманский чиновник арестовывает его вместо Хираньи, Рагхунатха смягчает его; попытки бегства"
@@ -1213,12 +1213,12 @@
   cc: "Антья 6"
   event: ev-raghunatha-dasa-saptagrama-arrest
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "13", to: "41"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "13", to: "41"}
 
 - id: cc-4065
   source: cc
   ref: "Антья 6.42–100"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 29
   title: "Чида-дадхи в Панихати: Нитьянанда «наказывает вора» Рагхунатху — накормить всех плющеным рисом с йогуртом; Нитьянанда призывает Господа и кормит Его"
@@ -1233,12 +1233,12 @@
   cc: "Антья 6"
   event: ev-panihati-chida-dadhi
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "42", to: "100"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "42", to: "100"}
 
 - id: cc-4066
   source: cc
   ref: "Антья 6.101–125"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 29.1
   title: "Вечером в доме Рагхавы Пандита: пляска Нитьянанды, которую тайно видит Господь, и угощение для двух братьев; Рагхава даёт Рагхунатхе их остатки"
@@ -1251,12 +1251,12 @@
   cc: "Антья 6"
   event: ev-panihati-chida-dadhi
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "101", to: "125"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "101", to: "125"}
 
 - id: cc-4067
   source: cc
   ref: "Антья 6.126–156"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 29.2
   title: "Нитьянанда благословляет Рагхунатху: «Гаурачандра пришёл спасти тебя и поручит тебя Сварупе»; Рагхунатха одаривает спутников Нитьянанды и возвращается домой"
@@ -1270,12 +1270,12 @@
   cc: "Антья 6"
   event: ev-panihati-chida-dadhi
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "126", to: "156"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "126", to: "156"}
 
 - id: cc-4068
   source: cc
   ref: "Антья 6.157–188"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 29.5
   title: "Бегство Рагхунатхи: ночью, проводив гуру Ядунандану Ачарью, он уходит лесными тропами и за двадцать дней доходит до Пури"
@@ -1288,12 +1288,12 @@
   cc: "Антья 6"
   event: ev-raghunatha-dasa-escape
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "157", to: "188"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "157", to: "188"}
 
 - id: cc-4069
   source: cc
   ref: "Антья 6.189–227"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 30
   title: "Рагхунатха у Господа: «Кришна вытащил тебя из выгребной ямы»; Господь отдаёт его Сварупе — «Рагху Сварупы»; Рагхунатха просит подаяние у Львиных ворот, и Господь хвалит его отречение"
@@ -1307,12 +1307,12 @@
   cc: "Антья 6"
   event: ev-raghunatha-dasa-joins-lord
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "189", to: "227"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "189", to: "227"}
 
 - id: cc-4070
   source: cc
   ref: "Антья 6.228–241"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 30.3
   title: "Наставления Господа Рагхунатхе: не слушай и не веди мирских разговоров, не ешь вкусного, не носи хорошего, почитай всех, не жди почёта, повторяй имя и мысленно служи Радха-Кришне во Врадже"
@@ -1327,12 +1327,12 @@
   cc: "Антья 6"
   event: ev-raghunatha-lord-instructions
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "228", to: "241"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "228", to: "241"}
 
 - id: cc-4071
   source: cc
   ref: "Антья 6.242–265"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 30.6
   title: "Рагхунатха видит Ратха-ятру; Шивананда сообщает отцу Рагхунатхи о его отречении; стихи Карнапуры о Рагхунатхе"
@@ -1347,12 +1347,12 @@
   cc: "Антья 6"
   event: ev-raghunatha-dasa-joins-lord
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "242", to: "265"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "242", to: "265"}
 
 - id: cc-4072
   source: cc
   ref: "Антья 6.266–286"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 30.7
   title: "Рагхунатха перестаёт приглашать Господа на деньги отца и просить у Львиных ворот: «пища мирских людей оскверняет ум», «у ворот думают, как блудница»"
@@ -1366,12 +1366,12 @@
   cc: "Антья 6"
   event: ev-raghunatha-stops-invitations
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "266", to: "286"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "266", to: "286"}
 
 - id: cc-4073
   source: cc
   ref: "Антья 6.287–308"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 31
   title: "Господь дарит Рагхунатхе камень с Говардханы и ожерелье из гунджи, привезённые Шанкаранандой Сарасвати, и учит поклоняться шиле водой и туласи"
@@ -1384,12 +1384,12 @@
   cc: "Антья 6"
   event: ev-govardhana-shila-gunja-gift
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "287", to: "308"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "287", to: "308"}
 
 - id: cc-4074
   source: cc
   ref: "Антья 6.309–325"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: P14
   order: 31.5
   title: "Отречение Рагхунатхи: полтора часа на сон и еду, лоскутная накидка; он ест промытый гнилой рис, и Господь с Сварупой отнимают у него «нектар»"
@@ -1402,12 +1402,12 @@
   cc: "Антья 6"
   event: ev-raghunatha-rotten-rice
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "309", to: "325"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "309", to: "325"}
 
 - id: cc-4075
   source: cc
   ref: "Антья 6.326–329"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md"
   period: PX
   order: 995.13
   title: "Рагхунатха о своём спасении («Чайтанья-става-калпаврикша», 11); колофон Антья 6"
@@ -1420,12 +1420,12 @@
   scriptures: ["Чайтанья-става-калпаврикша, 11"]
   cc: "Антья 6"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya06.txt", from: "326", to: "329"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya06.md", from: "326", to: "329"}
 
 - id: cc-4076
   source: cc
   ref: "Антья 7.1–3"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: PX
   order: 995.14
   title: "Мангалачарана Антья 7; бенгальские преданные снова в Пури"
@@ -1437,12 +1437,12 @@
   themes: [author]
   cc: "Антья 7"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "1", to: "3"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "1", to: "3"}
 
 - id: cc-4077
   source: cc
   ref: "Антья 7.4–57"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: P14
   order: 32
   title: "Валлабха Бхатта приходит к Господу; Господь отвечает, что Сам — санньяси-майявади, а бхакти постиг через Адвайту, Нитьянанду, Сарвабхауму, Рамананду, Сварупу и Харидаса"
@@ -1458,12 +1458,12 @@
   cc: "Антья 7"
   event: ev-vallabha-bhatta-puri
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "4", to: "57"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "4", to: "57"}
 
 - id: cc-4078
   source: cc
   ref: "Антья 7.58–75"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: P14
   order: 32.1
   title: "Валлабха Бхатта угощает Господа и Его спутников махапрасадом; на Ратха-ятре видит семь групп киртана"
@@ -1476,12 +1476,12 @@
   cc: "Антья 7"
   event: ev-vallabha-bhatta-puri
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "58", to: "75"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "58", to: "75"}
 
 - id: cc-4079
   source: cc
   ref: "Антья 7.76–95"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: P14
   order: 32.2
   title: "Господь не желает слушать комментарий Валлабхи и его толкования имени «Кришна»: «Кришна — тёмный, сын Яшоды»; Валлабха читает их Гададхаре"
@@ -1496,12 +1496,12 @@
   cc: "Антья 7"
   event: ev-vallabha-bhatta-puri
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "76", to: "95"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "76", to: "95"}
 
 - id: cc-4080
   source: cc
   ref: "Антья 7.96–112"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: P14
   order: 32.5
   title: "Споры Валлабхи с вайшнавами: «жена не зовёт мужа по имени» — Господь: «если муж велит, верная жена повторяет его имя»; «кто не признаёт Свами — блудница»"
@@ -1515,12 +1515,12 @@
   cc: "Антья 7"
   event: ev-vallabha-sridhara-svami
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "96", to: "112"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "96", to: "112"}
 
 - id: cc-4081
   source: cc
   ref: "Антья 7.113–137"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: P14
   order: 32.6
   title: "Валлабха понимает, что Господь смиряет его гордость, как Кришна — гордость Индры, и предаётся; Господь велит толковать «Бхагавату», следуя Шридхаре Свами"
@@ -1534,12 +1534,12 @@
   cc: "Антья 7"
   event: ev-vallabha-sridhara-svami
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "113", to: "137"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "113", to: "137"}
 
 - id: cc-4082
   source: cc
   ref: "Антья 7.138–167"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: P14
   order: 32.8
   title: "Любовь Гададхары — как у Рукмини, Джагадананды — как у Сатьябхамы; Господь испытывает Гададхару и обнимает его; Валлабха получает посвящение от Гададхары"
@@ -1553,12 +1553,12 @@
   cc: "Антья 7"
   event: ev-gadadhara-vallabha-initiation
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "138", to: "167"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "138", to: "167"}
 
 - id: cc-4083
   source: cc
   ref: "Антья 7.168–169"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md"
   period: PX
   order: 995.15
   title: "Колофон Антья 7"
@@ -1570,12 +1570,12 @@
   themes: [author]
   cc: "Антья 7"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya07.txt", from: "168", to: "169"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya07.md", from: "168", to: "169"}
 
 - id: cc-4084
   source: cc
   ref: "Антья 8.1–4"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md"
   period: PX
   order: 995.16
   title: "Мангалачарана Антья 8: Господь, страшась укоров Рамачандры Пури, стал есть меньше"
@@ -1587,12 +1587,12 @@
   themes: [author]
   cc: "Антья 8"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "1", to: "4"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md", from: "1", to: "4"}
 
 - id: cc-4085
   source: cc
   ref: "Антья 8.5–15"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md"
   period: P14
   order: 37
   title: "Рамачандра Пури приходит в Пури; у Джагадананды он перекармливает хозяина и упрекает его: «последователи Чайтаньи обжоры»"
@@ -1606,12 +1606,12 @@
   cc: "Антья 8"
   event: ev-ramachandra-puri-criticism
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "5", to: "15"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md", from: "5", to: "15"}
 
 - id: cc-4086
   source: cc
   ref: "Антья 8.16–35"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md"
   period: P05
   order: 3
   title: "Уход Мадхавендры Пури: он отвергает Рамачандру Пури, советовавшего «помнить Брахман», и благословляет служившего ему Ишвару Пури премой; «айи дина-даярдра натха»"
@@ -1626,12 +1626,12 @@
   cc: "Антья 8"
   event: ev-madhavendra-puri-departure
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "16", to: "35"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md", from: "16", to: "35"}
 
 - id: cc-4087
   source: cc
   ref: "Антья 8.36–68"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md"
   period: P14
   order: 37.1
   title: "Рамачандра Пури выискивает недостатки Господа; из-за муравьёв он обвиняет Его в любви к сладостям, и Господь сокращает еду наполовину"
@@ -1647,12 +1647,12 @@
   cc: "Антья 8"
   event: ev-ramachandra-puri-criticism
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "36", to: "68"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md", from: "36", to: "68"}
 
 - id: cc-4088
   source: cc
   ref: "Антья 8.69–93"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md"
   period: P14
   order: 37.2
   title: "Парамананда Пури и преданные просят Господа есть как прежде; Господь защищает Рамачандру Пури, но увеличивает порцию до половины; Господь подвластен желаниям близких спутников"
@@ -1667,12 +1667,12 @@
   cc: "Антья 8"
   event: ev-ramachandra-puri-criticism
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "69", to: "93"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md", from: "69", to: "93"}
 
 - id: cc-4089
   source: cc
   ref: "Антья 8.94–101"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md"
   period: P14
   order: 37.3
   title: "Рамачандра Пури уходит из Пури, и всё возвращается к прежнему; урок: отвергнутый гуру оскорбляет даже Господа; колофон Антья 8"
@@ -1685,12 +1685,12 @@
   cc: "Антья 8"
   event: ev-ramachandra-puri-criticism
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya08.txt", from: "94", to: "101"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya08.md", from: "94", to: "101"}
 
 - id: cc-4090
   source: cc
   ref: "Антья 9.1–3"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md"
   period: PX
   order: 995.17
   title: "Мангалачарана Антья 9"
@@ -1702,12 +1702,12 @@
   themes: [author]
   cc: "Антья 9"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "1", to: "3"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md", from: "1", to: "3"}
 
 - id: cc-4091
   source: cc
   ref: "Антья 9.4–12"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md"
   period: P14
   order: 100.1
   title: "Господь в Пури в волнах разлуки; к Нему в облике людей приходят обитатели всех миров — Прахлада, Бали, Вьяса, Шука"
@@ -1721,12 +1721,12 @@
   cc: "Антья 9"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "4", to: "12"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md", from: "4", to: "12"}
 
 - id: cc-4092
   source: cc
   ref: "Антья 9.13–54"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md"
   period: P14
   order: 38
   title: "Гопинатху Паттанаяка, брата Рамананды, за недоимку царевич хочет сбросить на мечи; Господь отказывается вмешиваться и отсылает преданных к Джаганнатхе; по слову Харичанданы царь отменяет казнь"
@@ -1740,12 +1740,12 @@
   cc: "Антья 9"
   event: ev-gopinatha-pattanayaka-pardoned
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "13", to: "54"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md", from: "13", to: "54"}
 
 - id: cc-4093
   source: cc
   ref: "Антья 9.55–79"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md"
   period: P14
   order: 38.1
   title: "Господь хочет уйти в Алаланатху от мирских тревог; Каши Мишра: чистый преданный служит Тебе ради Твоего счастья, а семья Рамананды прибегла к Тебе, не имея иного прибежища"
@@ -1760,12 +1760,12 @@
   cc: "Антья 9"
   event: ev-gopinatha-pattanayaka-pardoned
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "55", to: "79"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md", from: "55", to: "79"}
 
 - id: cc-4094
   source: cc
   ref: "Антья 9.80–115"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md"
   period: P14
   order: 38.2
   title: "Пратапарудра, растирая стопы Каши Мишры, узнаёт о намерении Господа уйти и прощает Гопинатхе долг, удваивает ему жалованье и дарует шёлковую накидку"
@@ -1778,12 +1778,12 @@
   cc: "Антья 9"
   event: ev-gopinatha-pattanayaka-pardoned
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "80", to: "115"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md", from: "80", to: "115"}
 
 - id: cc-4095
   source: cc
   ref: "Антья 9.116–152"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md"
   period: P14
   order: 38.3
   title: "Господь упрекает Каши Мишру, но слышит о смирении царя; Бхавананда с сыновьями благодарит Господа; Гопинатха просит отрешённости, и Господь велит ему не тратить царские деньги"
@@ -1797,12 +1797,12 @@
   cc: "Антья 9"
   event: ev-gopinatha-pattanayaka-pardoned
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "116", to: "152"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md", from: "116", to: "152"}
 
 - id: cc-4096
   source: cc
   ref: "Антья 9.153"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md"
   period: PX
   order: 995.18
   title: "Колофон Антья 9"
@@ -1814,12 +1814,12 @@
   themes: [author]
   cc: "Антья 9"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya09.txt", from: "153", to: "153"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya09.md", from: "153", to: "153"}
 
 - id: cc-4097
   source: cc
   ref: "Антья 10.1–2"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: PX
   order: 995.19
   title: "Мангалачарана Антья 10"
@@ -1831,12 +1831,12 @@
   themes: [author]
   cc: "Антья 10"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "1", to: "2"}
 
 - id: cc-4098
   source: cc
   ref: "Антья 10.3–12"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 5
   title: "Бенгальцы во главе с Адвайтой снова идут в Пури; Нитьянанда идёт вопреки велению Господа — любовь не признаёт правил"
@@ -1850,12 +1850,12 @@
   cc: "Антья 10"
   event: ev-gauda-devotees-yearly-visit
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "3", to: "12"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "3", to: "12"}
 
 - id: cc-4099
   source: cc
   ref: "Антья 10.13–40"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 49
   title: "«Рагхавера джхали»: Дамаянти, сестра Рагхавы Пандита, готовит для Господа на год вперёд сотни приправ и сладостей"
@@ -1870,12 +1870,12 @@
   cc: "Антья 10"
   event: ev-raghavera-jhali
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "13", to: "40"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "13", to: "40"}
 
 - id: cc-4100
   source: cc
   ref: "Антья 10.41–56"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 6
   title: "Бенгальцы встречают Господа на озере Нарендра в день водных игр Говинды; Господь играет в воде с преданными"
@@ -1889,12 +1889,12 @@
   cc: "Антья 10"
   event: ev-narendra-jala-keli
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "41", to: "56"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "41", to: "56"}
 
 - id: cc-4101
   source: cc
   ref: "Антья 10.57–102"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 51
   title: "Киртан семи групп вокруг храма; Господь пляшет под строку песни на ория «да склонится моя голова в джагамохане»; Говинда переступает через спящего Господа, чтобы служить, но не ради себя"
@@ -1908,12 +1908,12 @@
   cc: "Антья 10"
   event: ev-jagamohana-dance-govinda-crosses
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "57", to: "102"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "57", to: "102"}
 
 - id: cc-4102
   source: cc
   ref: "Антья 10.103–106"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 51.5
   title: "Уборка Гундичи, Ратха-ятра, Хера-панчами и чатурмасья с бенгальцами — как прежде"
@@ -1927,12 +1927,12 @@
   cc: "Антья 10"
   event: ev-gauda-devotees-yearly-visit
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "103", to: "106"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "103", to: "106"}
 
 - id: cc-4103
   source: cc
   ref: "Антья 10.107–131"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 50
   title: "Господь за один раз съедает угощения, которые преданные месяц приносили через Говинду, и пробует мешки Рагхавы"
@@ -1946,12 +1946,12 @@
   cc: "Антья 10"
   event: ev-month-stored-prasada
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "107", to: "131"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "107", to: "131"}
 
 - id: cc-4104
   source: cc
   ref: "Антья 10.132–141"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 51.5
   title: "Приглашения вайшнавов во время чатурмасьи: брахманы готовят сами, небрахманы покупают прасад Джаганнатхи"
@@ -1965,12 +1965,12 @@
   cc: "Антья 10"
   event: ev-chaitanya-dasa-feast
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "132", to: "141"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "132", to: "141"}
 
 - id: cc-4105
   source: cc
   ref: "Антья 10.142–157"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: P14
   order: 52
   title: "Пир Шивананды и пир его сына Чайтаньи Даса: «что за имя?»; Господь переел у отца, а сын угадал Его желание — рис с йогуртом, лимоном и имбирём"
@@ -1983,12 +1983,12 @@
   cc: "Антья 10"
   event: ev-chaitanya-dasa-feast
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "142", to: "157"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "142", to: "157"}
 
 - id: cc-4106
   source: cc
   ref: "Антья 10.158–162"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md"
   period: PX
   order: 995.2
   title: "Итог Антья 10 и колофон"
@@ -2000,12 +2000,12 @@
   themes: [author]
   cc: "Антья 10"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya10.txt", from: "158", to: "162"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya10.md", from: "158", to: "162"}
 
 - id: cc-4107
   source: cc
   ref: "Антья 11.1–10"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md"
   period: PX
   order: 995.21
   title: "Мангалачарана Антья 11: поклон Харидасу и Господу, Который плясал, держа его тело"
@@ -2017,12 +2017,12 @@
   themes: [author]
   cc: "Антья 11"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "1", to: "10"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md", from: "1", to: "10"}
 
 - id: cc-4108
   source: cc
   ref: "Антья 11.11–15"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md"
   period: P14
   order: 100.2
   title: "Господь в Нилачале: днём киртан и даршан, ночами с Раманандой и Сварупой — растущие проявления разлуки"
@@ -2036,12 +2036,12 @@
   cc: "Антья 11"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "11", to: "15"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md", from: "11", to: "15"}
 
 - id: cc-4109
   source: cc
   ref: "Антья 11.16–44"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md"
   period: P14
   order: 59
   title: "Харидас ослаб и не может закончить норму имени; он просит Господа позволить ему оставить тело прежде, чем Господь завершит Свои игры"
@@ -2055,12 +2055,12 @@
   cc: "Антья 11"
   event: ev-haridasa-departure
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "16", to: "44"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md", from: "16", to: "44"}
 
 - id: cc-4110
   source: cc
   ref: "Антья 11.45–60"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md"
   period: P14
   order: 60
   title: "Уход Харидаса: при киртане Господа и преданных он, глядя на лицо Господа и повторяя «Шри Кришна Чайтанья», оставляет тело; Господь пляшет с его телом на руках"
@@ -2073,12 +2073,12 @@
   cc: "Антья 11"
   event: ev-haridasa-departure
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "45", to: "60"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md", from: "45", to: "60"}
 
 - id: cc-4111
   source: cc
   ref: "Антья 11.61–100"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md"
   period: P14
   order: 60.1
   title: "Господь омывает тело Харидаса в океане и сам засыпает его песком; просит прасад у лавочников у Львиных ворот и устраивает праздник ухода Харидаса"
@@ -2091,12 +2091,12 @@
   cc: "Антья 11"
   event: ev-haridasa-departure
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "61", to: "100"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md", from: "61", to: "100"}
 
 - id: cc-4112
   source: cc
   ref: "Антья 11.101–108"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md"
   period: PX
   order: 995.22
   title: "Итог Антья 11: любовь Господа к преданным в уходе Харидаса; колофон"
@@ -2108,12 +2108,12 @@
   themes: [author]
   cc: "Антья 11"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya11.txt", from: "101", to: "108"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya11.md", from: "101", to: "108"}
 
 - id: cc-4113
   source: cc
   ref: "Антья 12.1–3"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: PX
   order: 995.23
   title: "Мангалачарана Антья 12"
@@ -2125,12 +2125,12 @@
   themes: [author]
   cc: "Антья 12"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "1", to: "3"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "1", to: "3"}
 
 - id: cc-4114
   source: cc
   ref: "Антья 12.4–6"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 100.3
   title: "«О Кришна, владыка Моей жизни, где Мне найти Тебя?» — Господь днём и ночью в разлуке"
@@ -2144,12 +2144,12 @@
   cc: "Антья 12"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "4", to: "6"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "4", to: "6"}
 
 - id: cc-4115
   source: cc
   ref: "Антья 12.7–33"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 5.5
   title: "Нитьянанда, оставшись без ночлега, «проклинает» сыновей Шивананды и пинает его; Шивананда счастлив: «Ты коснулся стопой моего тела»"
@@ -2162,12 +2162,12 @@
   cc: "Антья 12"
   event: ev-nityananda-kicks-shivananda
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "7", to: "33"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "7", to: "33"}
 
 - id: cc-4116
   source: cc
   ref: "Антья 12.34–43"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 5.6
   title: "Шриканта Сен, оскорбившись за дядю, уходит вперёд к Господу; Господь не позволяет Говинде поправлять его"
@@ -2180,12 +2180,12 @@
   cc: "Антья 12"
   event: ev-nityananda-kicks-shivananda
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "34", to: "43"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "34", to: "43"}
 
 - id: cc-4117
   source: cc
   ref: "Антья 12.44–53"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 15
   title: "Господь даёт младшему сыну Шивананды, Парамананде (Пури Дасу), пососать палец Своей стопы и велит каждый день давать семье Шивананды Свои остатки"
@@ -2199,12 +2199,12 @@
   cc: "Антья 12"
   event: ev-karnapura-child-mercy
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "44", to: "53"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "44", to: "53"}
 
 - id: cc-4118
   source: cc
   ref: "Антья 12.54–60"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 6.5
   title: "Кондитер Парамешвара из Надии: «Я тот самый Парамешвара! Со мной пришла и мать Мукунды» — Господь рад простодушной любви"
@@ -2217,12 +2217,12 @@
   cc: "Антья 12"
   event: ev-parameshvara-modaka
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "54", to: "60"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "54", to: "60"}
 
 - id: cc-4119
   source: cc
   ref: "Антья 12.61–85"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 7
   title: "Чатурмасья с бенгальцами; прощаясь, Господь говорит: «Я ваш должник — отдаю вам Своё тело, хоть продайте его»"
@@ -2235,12 +2235,12 @@
   cc: "Антья 12"
   event: ev-lord-debt-gauda-devotees
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "61", to: "85"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "61", to: "85"}
 
 - id: cc-4120
   source: cc
   ref: "Антья 12.86–101"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 69
   title: "Джагадананда в Навадвипе у Шачи передаёт прасад и слова Господа: «Я прихожу и ем твою пищу»; Шачи: «мне кажется, что это сон»"
@@ -2253,12 +2253,12 @@
   cc: "Антья 12"
   event: ev-jagadananda-visits-shachi
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "86", to: "101"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "86", to: "101"}
 
 - id: cc-4121
   source: cc
   ref: "Антья 12.102–151"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: P14
   order: 70
   title: "Сосуд сандалового масла: Господь отказывается — «санньяси не нанимает массажиста», и Джагадананда в гневе разбивает сосуд; через три дня Господь приходит к нему обедать и съедает вдесятеро больше"
@@ -2272,12 +2272,12 @@
   cc: "Антья 12"
   event: ev-jagadananda-sandal-oil
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "102", to: "151"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "102", to: "151"}
 
 - id: cc-4122
   source: cc
   ref: "Антья 12.152–155"
-  file: "chaitanya-charitamrita/vcd/txt/ШБ.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md"
   period: PX
   order: 995.24
   title: "Любовь Джагадананды — как у Сатьябхамы; «Према-виварта»; колофон Антья 12"
@@ -2289,12 +2289,12 @@
   themes: [author]
   cc: "Антья 12"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/ШБ.txt", from: "152", to: "155"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya12.md", from: "152", to: "155"}
 
 - id: cc-4123
   source: cc
   ref: "Антья 13.1–2"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md"
   period: PX
   order: 995.25
   title: "Мангалачарана Антья 13"
@@ -2306,12 +2306,12 @@
   themes: [author]
   cc: "Антья 13"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md", from: "1", to: "2"}
 
 - id: cc-4124
   source: cc
   ref: "Антья 13.3–20"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md"
   period: P14
   order: 71.5
   title: "Постель для исхудавшего Господа: Господь отвергает подстилку Джагадананды с ватой шимулы, но принимает ложе из банановых волокон, сделанное Сварупой"
@@ -2325,12 +2325,12 @@
   cc: "Антья 13"
   event: ev-jagadananda-bed-banana
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "3", to: "20"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md", from: "3", to: "20"}
 
 - id: cc-4125
   source: cc
   ref: "Антья 13.21–77"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md"
   period: P14
   order: 72
   title: "Джагадананда во Вриндаване: наставления Господа в пути, жизнь с Санатаной, гнев на шафрановую ткань Мукунды Сарасвати; плоды пилу для Господа"
@@ -2344,12 +2344,12 @@
   cc: "Антья 13"
   event: ev-jagadananda-vrindavana-pilu
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "21", to: "77"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md", from: "21", to: "77"}
 
 - id: cc-4126
   source: cc
   ref: "Антья 13.78–88"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md"
   period: P14
   order: 73
   title: "Господь бежит сквозь колючки на пение «Гита-говинды» девадаси; Говинда удерживает Его: «Это поёт женщина!»"
@@ -2363,12 +2363,12 @@
   cc: "Антья 13"
   event: ev-devadasi-gita-govinda-song
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "78", to: "88"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md", from: "78", to: "88"}
 
 - id: cc-4127
   source: cc
   ref: "Антья 13.89–117"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md"
   period: P14
   order: 74
   title: "Рагхунатха Бхатта приходит к Господу с Рамадасом Вишвасом, который несёт его поклажу; Господь не милостив к гордому учёностью Рамадасу; через восемь месяцев отпускает Рагхунатху служить родителям, запретив жениться"
@@ -2381,12 +2381,12 @@
   cc: "Антья 13"
   event: ev-raghunatha-bhatta-first-visit-puri
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "89", to: "117"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md", from: "89", to: "117"}
 
 - id: cc-4128
   source: cc
   ref: "Антья 13.118–135"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md"
   period: P14
   order: 75
   title: "После смерти родителей Рагхунатха Бхатта вновь у Господа; Господь посылает его во Вриндаван к Рупе и Санатане и дарит гирлянду туласи Джаганнатхи; его чтение «Бхагаваты» и служение Говинде"
@@ -2400,12 +2400,12 @@
   cc: "Антья 13"
   event: ev-raghunatha-bhatta-sent-vrindavana
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "118", to: "135"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md", from: "118", to: "135"}
 
 - id: cc-4129
   source: cc
   ref: "Антья 13.136–139"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md"
   period: PX
   order: 995.26
   title: "Три истории Антья 13; колофон"
@@ -2418,12 +2418,12 @@
   themes: [author]
   cc: "Антья 13"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya13.txt", from: "136", to: "139"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya13.md", from: "136", to: "139"}
 
 - id: cc-4130
   source: cc
   ref: "Антья 14.1–4"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: PX
   order: 995.27
   title: "Мангалачарана Антья 14: о деяниях Господа в смятении разлуки"
@@ -2435,12 +2435,12 @@
   themes: [author]
   cc: "Антья 14"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "1", to: "4"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "1", to: "4"}
 
 - id: cc-4131
   source: cc
   ref: "Антья 14.5–16"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: P14
   order: 100
   title: "Божественное безумие (дивьонмада) Господа: как Радха при виде Уддхавы; источники — записи Сварупы и Рагхунатхи Даса"
@@ -2456,12 +2456,12 @@
   cc: "Антья 14"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "5", to: "16"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "5", to: "16"}
 
 - id: cc-4132
   source: cc
   ref: "Антья 14.17–21"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: P14
   order: 100.4
   title: "Господь видит во сне Кришну, танцующего расу с Радхой: «Я обрёл Кришну во Вриндаване!» — и Говинда будит Его"
@@ -2475,12 +2475,12 @@
   cc: "Антья 14"
   event: ev-rasa-dream-separation
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "17", to: "21"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "17", to: "21"}
 
 - id: cc-4133
   source: cc
   ref: "Антья 14.22–30"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: P14
   order: 100.45
   title: "Орийская женщина, ставшая на плечо Господа у колонны Гаруды: «Джаганнатха не дал Мне такого стремления, как у неё»"
@@ -2495,12 +2495,12 @@
   cc: "Антья 14"
   event: ev-oriya-woman-garuda-pillar
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "22", to: "30"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "22", to: "30"}
 
 - id: cc-4134
   source: cc
   ref: "Антья 14.31–56"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: P14
   order: 100.46
   title: "После сна Господь видит в храме Кришну на Курукшетре и горюет: «Кто похитил Моего Кришну?»; песнь об уме-йоге, ушедшем во Вриндаван; десять состояний разлуки"
@@ -2515,12 +2515,12 @@
   cc: "Антья 14"
   event: ev-rasa-dream-separation
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "31", to: "56"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "31", to: "56"}
 
 - id: cc-4135
   source: cc
   ref: "Антья 14.57–82"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: P14
   order: 100.5
   title: "Господь, исчезнув из запертого дома, лежит у Львиных ворот: суставы разошлись, тело удлинилось; при пении имени Он встаёт: «Я видел Кришну, как молнию»"
@@ -2535,12 +2535,12 @@
   cc: "Антья 14"
   event: ev-limbs-elongated-separation
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "57", to: "82"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "57", to: "82"}
 
 - id: cc-4136
   source: cc
   ref: "Антья 14.83–120"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: P14
   order: 100.6
   title: "Чатака-парвата: Господь принимает дюну за Говардхану, бежит к ней и падает в экстазе; очнувшись: «Я видел, как Кришна с Радхой вошли в пещеру, а вы вернули Меня»"
@@ -2555,12 +2555,12 @@
   cc: "Антья 14"
   event: ev-chataka-parvata-govardhana
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "83", to: "120"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "83", to: "120"}
 
 - id: cc-4137
   source: cc
   ref: "Антья 14.121–123"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md"
   period: PX
   order: 995.28
   title: "Колофон Антья 14"
@@ -2572,12 +2572,12 @@
   themes: [author]
   cc: "Антья 14"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya14.txt", from: "121", to: "123"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya14.md", from: "121", to: "123"}
 
 - id: cc-4138
   source: cc
   ref: "Антья 15.1–3"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md"
   period: PX
   order: 995.29
   title: "Мангалачарана Антья 15"
@@ -2589,12 +2589,12 @@
   themes: [author]
   cc: "Антья 15"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "1", to: "3"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md", from: "1", to: "3"}
 
 - id: cc-4139
   source: cc
   ref: "Антья 15.4–6"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md"
   period: P14
   order: 99
   title: "Три состояния Господа — полное погружение, полувнешнее и внешнее сознание; обязанности Он исполнял, как вращается гончарный круг"
@@ -2609,12 +2609,12 @@
   cc: "Антья 15"
   event: ev-last-twelve-years-gambhira
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "4", to: "6"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md", from: "4", to: "6"}
 
 - id: cc-4140
   source: cc
   ref: "Антья 15.7–27"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md"
   period: P14
   order: 99.8
   title: "В храме Господь видит вместо Джаганнатхи Кришну: пять Его качеств тянут пять чувств в разные стороны; толкование шлоки «Говинда-лиламриты» о «лошади ума»"
@@ -2629,12 +2629,12 @@
   cc: "Антья 15"
   event: ev-jagannatha-darshan-gopi-bhava
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "7", to: "27"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md", from: "7", to: "27"}
 
 - id: cc-4141
   source: cc
   ref: "Антья 15.28–94"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md"
   period: P14
   order: 100.65
   title: "Цветочный сад у моря Господь принимает за Вриндаван и, как гопи после исчезновения Кришны с расы, расспрашивает деревья, лианы и ланей; видит Кришну под кадамбой и падает; танец под «Гита-говинду»"
@@ -2650,12 +2650,12 @@
   cc: "Антья 15"
   event: ev-flower-garden-vrindavana-search
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "28", to: "94"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md", from: "28", to: "94"}
 
 - id: cc-4142
   source: cc
   ref: "Антья 15.95–99"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md"
   period: PX
   order: 995.3
   title: "Шлока Рупы о Господе в саду у моря («Чайтанья-аштака», 6); колофон Антья 15"
@@ -2668,12 +2668,12 @@
   scriptures: ["Става-мала, Чайтанья-аштака, 6"]
   cc: "Антья 15"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya15.txt", from: "95", to: "99"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya15.md", from: "95", to: "99"}
 
 - id: cc-4143
   source: cc
   ref: "Антья 16.1–3"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md"
   period: PX
   order: 995.31
   title: "Мангалачарана Антья 16"
@@ -2685,12 +2685,12 @@
   themes: [author]
   cc: "Антья 16"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "1", to: "3"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md", from: "1", to: "3"}
 
 - id: cc-4144
   source: cc
   ref: "Антья 16.4–38"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md"
   period: P14
   order: 69.5
   title: "Калидас, дядя Рагхунатхи, тайно вкушает остатки всех вайшнавов Бенгалии; у Джхаду Тхакура из касты бхуинмали он облизывает выброшенные манговые косточки"
@@ -2705,12 +2705,12 @@
   cc: "Антья 16"
   event: ev-kalidasa-foot-water
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "4", to: "38"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md", from: "4", to: "38"}
 
 - id: cc-4145
   source: cc
   ref: "Антья 16.39–64"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md"
   period: P14
   order: 70
   title: "Калидас пьёт воду со стоп Господа у Львиных ворот и получает Его остатки; поклон Нрисимхе у двадцати двух ступеней; слава маха-маха-прасада"
@@ -2725,12 +2725,12 @@
   cc: "Антья 16"
   event: ev-kalidasa-foot-water
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "39", to: "64"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md", from: "39", to: "64"}
 
 - id: cc-4146
   source: cc
   ref: "Антья 16.65–77"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md"
   period: P14
   order: 15.1
   title: "Семилетний Пури Дас не произносит имя Кришны, храня мантру; на другой день сочиняет шлоку «шраваса кувалайам»"
@@ -2745,12 +2745,12 @@
   cc: "Антья 16"
   event: ev-karnapura-child-mercy
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "65", to: "77"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md", from: "65", to: "77"}
 
 - id: cc-4147
   source: cc
   ref: "Антья 16.78–87"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md"
   period: P14
   order: 100.7
   title: "«Где Кришна, владыка Моей жизни? Покажи Мне Его!» — Господь берёт за руку привратника у Львиных ворот, и тот ведёт Его к Пурушоттаме"
@@ -2765,12 +2765,12 @@
   cc: "Антья 16"
   event: ev-doorkeeper-show-me-krishna
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "78", to: "87"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md", from: "78", to: "87"}
 
 - id: cc-4148
   source: cc
   ref: "Антья 16.88–150"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md"
   period: P14
   order: 100.75
   title: "Прасад «гопала-валлабха» со вкусом нектара уст Кришны: «частица фелы, обретаемая благодаря сукрити»; ночью Господь толкует шлоки о нектаре губ Кришны и о флейте"
@@ -2786,12 +2786,12 @@
   cc: "Антья 16"
   event: ev-krishna-adharamrita-phela
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "88", to: "150"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md", from: "88", to: "150"}
 
 - id: cc-4149
   source: cc
   ref: "Антья 16.151"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md"
   period: PX
   order: 995.32
   title: "Колофон Антья 16"
@@ -2803,12 +2803,12 @@
   themes: [author]
   cc: "Антья 16"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya16.md", from: "151", to: "151"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya16.md", from: "151", to: "151"}
 
 - id: cc-4150
   source: cc
   ref: "Антья 17.1–2"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md"
   period: PX
   order: 995.33
   title: "Мангалачарана Антья 17: со слов очевидцев"
@@ -2820,12 +2820,12 @@
   themes: [author]
   cc: "Антья 17"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md", from: "1", to: "2"}
 
 - id: cc-4151
   source: cc
   ref: "Антья 17.3–30"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md"
   period: P14
   order: 100.8
   title: "Услышав флейту Кришны, Господь из запертой Гамбхиры оказывается среди телингских коров у Львиных ворот, сжавшись, как черепаха; очнувшись: «Я был во Вриндаване и слышал Кришну с гопи»"
@@ -2839,12 +2839,12 @@
   cc: "Антья 17"
   event: ev-kurma-form-telinga-cows
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "3", to: "30"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md", from: "3", to: "30"}
 
 - id: cc-4152
   source: cc
   ref: "Антья 17.31–62"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md"
   period: P14
   order: 100.81
   title: "Толкования Господа: «какая женщина в трёх мирах не сойдёт с пути от Твоей флейты?»; четыре нектарных звука Кришны; шлока «Кришна-карнамриты» «ким иха кринумах» — смешение чувств Радхи"
@@ -2859,12 +2859,12 @@
   cc: "Антья 17"
   event: ev-kurma-form-telinga-cows
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "31", to: "62"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md", from: "31", to: "62"}
 
 - id: cc-4153
   source: cc
   ref: "Антья 17.63–73"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md"
   period: PX
   order: 995.34
   title: "Проявления премы за один день не описал бы и Ананта; щедрость Чайтаньи; шлока Рагхунатхи о «черепахе»; колофон Антья 17"
@@ -2877,12 +2877,12 @@
   scriptures: ["Чайтанья-става-калпаврикша, 5"]
   cc: "Антья 17"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya17.md", from: "63", to: "73"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya17.md", from: "63", to: "73"}
 
 - id: cc-4154
   source: cc
   ref: "Антья 18.1–2"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md"
   period: PX
   order: 995.35
   title: "Мангалачарана Антья 18: сын Шачи, принявший океан за Ямуну"
@@ -2894,12 +2894,12 @@
   themes: [author]
   cc: "Антья 18"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md", from: "1", to: "2"}
 
 - id: cc-4155
   source: cc
   ref: "Антья 18.3–23"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md"
   period: P14
   order: 101.1
   title: "Осенние лунные ночи: Господь бродит по садам, изображая раса-лилу и толкуя её шлоки; о непостижимости премы — Кришна принимает настроение преданного, чтобы её вкусить"
@@ -2914,12 +2914,12 @@
   cc: "Антья 18"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "3", to: "23"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md", from: "3", to: "23"}
 
 - id: cc-4156
   source: cc
   ref: "Антья 18.24–75"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md"
   period: P14
   order: 101.2
   title: "Падение в океан: приняв море у Айтоты за Ямуну, Господь бросается в него, волны уносят Его к Конарку; рыбак вытаскивает Его сетью, принимает за духа и сходит с ума от премы; Сварупа «изгоняет духа» и находит Господа"
@@ -2934,12 +2934,12 @@
   cc: "Антья 18"
   event: ev-fall-into-ocean-fisherman
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "24", to: "75"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md", from: "24", to: "75"}
 
 - id: cc-4157
   source: cc
   ref: "Антья 18.76–120"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md"
   period: P14
   order: 101.25
   title: "В полувнешнем сознании Господь описывает водные игры Кришны с Радхой и гопи в Ямуне и лесную трапезу; «зачем вы принесли Меня сюда?»"
@@ -2954,12 +2954,12 @@
   cc: "Антья 18"
   event: ev-fall-into-ocean-fisherman
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "76", to: "120"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md", from: "76", to: "120"}
 
 - id: cc-4158
   source: cc
   ref: "Антья 18.121"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md"
   period: PX
   order: 995.36
   title: "Колофон Антья 18"
@@ -2971,12 +2971,12 @@
   themes: [author]
   cc: "Антья 18"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya18.md", from: "121", to: "121"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya18.md", from: "121", to: "121"}
 
 - id: cc-4159
   source: cc
   ref: "Антья 19.1–3"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md"
   period: PX
   order: 995.37
   title: "Мангалачарана Антья 19: Господь — венец преданных матери; трение лица о стены и игры в весеннем саду"
@@ -2988,12 +2988,12 @@
   themes: [author]
   cc: "Антья 19"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "1", to: "3"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md", from: "1", to: "3"}
 
 - id: cc-4160
   source: cc
   ref: "Антья 19.4–16"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md"
   period: P14
   order: 120
   title: "Каждый год Господь посылает Джагадананду в Надию к Шачи с поклонами, прасадом и одеждой Джаганнатхи: «Я в твоей власти — Я твой сын»"
@@ -3006,12 +3006,12 @@
   cc: "Антья 19"
   event: ev-jagadananda-visits-shachi
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "4", to: "16"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md", from: "4", to: "16"}
 
 - id: cc-4161
   source: cc
   ref: "Антья 19.17–30"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md"
   period: P14
   order: 95
   title: "Загадка (тарджа) Адвайты: «Скажи безумцу: на рынке больше не продают рис…»; Господь: «Таково его повеление» — и разлука Господа удваивается"
@@ -3024,12 +3024,12 @@
   cc: "Антья 19"
   event: ev-advaita-tarja
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "17", to: "30"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md", from: "17", to: "30"}
 
 - id: cc-4162
   source: cc
   ref: "Антья 19.31–54"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md"
   period: P14
   order: 100.85
   title: "Удгхурна: Господь, как Радха, переживает уход Кришны в Матхуру — «Где Кришна, луна рода Нанды?»; упрёки Творцу и Кришне"
@@ -3044,12 +3044,12 @@
   cc: "Антья 19"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "31", to: "54"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md", from: "31", to: "54"}
 
 - id: cc-4163
   source: cc
   ref: "Антья 19.55–77"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md"
   period: P14
   order: 100.9
   title: "Господь, ища выхода из Гамбхиры, трёт лицо о стены до крови; Шанкара Пандит становится «подушкой для стоп Господа»"
@@ -3064,12 +3064,12 @@
   cc: "Антья 19"
   event: ev-face-rubbing-gambhira
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "55", to: "77"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md", from: "55", to: "77"}
 
 - id: cc-4164
   source: cc
   ref: "Антья 19.78–102"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md"
   period: P14
   order: 100.95
   title: "Полнолуние вайшакхи в саду Джаганнатха-валлабха: Господь видит Кришну под ашокой, Тот исчезает; толкование шлоки о благоухании тела Кришны"
@@ -3085,12 +3085,12 @@
   cc: "Антья 19"
   event: ev-krishna-ashoka-spring-garden
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "78", to: "102"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md", from: "78", to: "102"}
 
 - id: cc-4165
   source: cc
   ref: "Антья 19.103–112"
-  file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md"
   period: PX
   order: 995.38
   title: "Поступки охваченного премой не постигнуть логикой — слушайте с верой (Бхрамара-гита, песни цариц Двараки); колофон Антья 19"
@@ -3103,12 +3103,12 @@
   scriptures: ["Бхакти-расамрита-синдху, 1.4.17"]
   cc: "Антья 19"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/new/CC_Antya19.md", from: "103", to: "112"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya19.md", from: "103", to: "112"}
 
 - id: cc-4166
   source: cc
   ref: "Антья 20.1–2"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: PX
   order: 995.39
   title: "Мангалачарана Антья 20"
@@ -3120,12 +3120,12 @@
   themes: [author]
   cc: "Антья 20"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "1", to: "2"}
 
 - id: cc-4167
   source: cc
   ref: "Антья 20.3–7"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: P14
   order: 109
   title: "Ночи напролёт с Сварупой и Раманандой Господь в противоречивых чувствах вкушает шлоки, в том числе Свои собственные"
@@ -3139,12 +3139,12 @@
   cc: "Антья 20"
   event: ev-last-twelve-years-gambhira
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "3", to: "7"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "3", to: "7"}
 
 - id: cc-4168
   source: cc
   ref: "Антья 20.8–37"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: P14
   order: 110
   title: "Шикшаштака 1–6: санкиртана — высший путь века Кали; бесчисленные имена без правил о времени и месте; «тринад апи суничена»; «на дханам»; «Я Твой вечный слуга»; «когда потекут слёзы при имени?»"
@@ -3160,12 +3160,12 @@
   cc: "Антья 20"
   event: ev-shikshashtaka-recitation
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "8", to: "37"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "8", to: "37"}
 
 - id: cc-4169
   source: cc
   ref: "Антья 20.38–60"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: P14
   order: 110.1
   title: "Шикшаштака 7–8 в бхаве Радхи: «юга — как мгновение в разлуке с Говиндой»; «пусть обнимет или разобьёт сердце — Он Владыка Моей жизни»; служение счастью Кришны"
@@ -3181,12 +3181,12 @@
   cc: "Антья 20"
   event: ev-shikshashtaka-recitation
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "38", to: "60"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "38", to: "60"}
 
 - id: cc-4170
   source: cc
   ref: "Антья 20.61–70"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: P14
   order: 109.5
   title: "Восемь шлок Шикшаштаки — наставление миру; двенадцать лет Господь вкушает «Бхагавату», «Гита-говинду», «Джаганнатха-валлабху» и «Кришна-карнамриту» с Сварупой и Раманандой"
@@ -3201,12 +3201,12 @@
   cc: "Антья 20"
   event: ev-last-twelve-years-gambhira
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "61", to: "70"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "61", to: "70"}
 
 - id: cc-4171
   source: cc
   ref: "Антья 20.71–101"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: PX
   order: 995.4
   title: "Автор о своём труде: Вриндаван Дас — Вьяса игр Чайтаньи, автор лишь пьёт остатки из его кувшина; старость и немощь; книгу велел написать Мадана-гопала"
@@ -3219,12 +3219,12 @@
   themes: [author]
   cc: "Антья 20"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "71", to: "101"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "71", to: "101"}
 
 - id: cc-4172
   source: cc
   ref: "Антья 20.102–141"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: PX
   order: 995.41
   title: "Перечень глав Антья-лилы"
@@ -3236,12 +3236,12 @@
   themes: [author]
   cc: "Антья 20"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "102", to: "141"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "102", to: "141"}
 
 - id: cc-4173
   source: cc
   ref: "Антья 20.142–158"
-  file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md"
   period: PX
   order: 995.42
   title: "Колофон «Чайтанья-чаритамриты»: три Божества гаудиев, поклон слушателям; книга поднесена Мадана-гопале, Говинде и стопам Чайтаньи; дата завершения"
@@ -3255,4 +3255,4 @@
   themes: [author]
   cc: "Антья 20"
   verses:
-    - {file: "chaitanya-charitamrita/vcd/txt/CC_Antya20.txt", from: "142", to: "158"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Antya20.md", from: "142", to: "158"}

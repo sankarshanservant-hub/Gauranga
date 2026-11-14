@@ -3,7 +3,7 @@
 - id: cc-1001
   source: cc
   ref: "Мадхья 2.1–2"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: PX
   order: 995
   title: "Мадхья 2: вступление — о пралапе Гауры в разлуке с Кришной; слава Чайтанье, Нитьянанде, Адвайте и преданным"
@@ -15,12 +15,12 @@
   themes: [author]
   cc: "Мадхья 2"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "1", to: "2"}
 
 - id: cc-1002
   source: cc
   ref: "Мадхья 2.3–14"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100
   title: "Последние двенадцать лет: Господь, как Радха при встрече с Уддхавой, в безумии разлуки; Гамбхира, Львиные врата, океан, дюны-Говардхана"
@@ -34,12 +34,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "3", to: "14"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "3", to: "14"}
 
 - id: cc-1003
   source: cc
   ref: "Мадхья 2.15–34"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.1
   title: "Пралапа: «Где Мой владыка жизни?» — Господь произносит шлоку из драмы Рамананды и сетует, что без Кришны глаза, уши, язык, нос и тело напрасны"
@@ -54,12 +54,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "15", to: "34"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "15", to: "34"}
 
 - id: cc-1004
   source: cc
   ref: "Мадхья 2.35–38"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.2
   title: "Пралапа: «Если вновь увижу Кришну, украшу те мгновения драгоценностями»"
@@ -74,12 +74,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "35", to: "38"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "35", to: "38"}
 
 - id: cc-1005
   source: cc
   ref: "Мадхья 2.39–49"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.3
   title: "Вернувшись во внешнее сознание, Господь говорит Сварупе и Рамананде: «Во Мне нет и запаха любви к Кришне»"
@@ -94,12 +94,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "39", to: "49"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "39", to: "49"}
 
 - id: cc-1006
   source: cc
   ref: "Мадхья 2.50–52"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.4
   title: "Яд и нектар любви: снаружи — муки, внутри — блаженство"
@@ -115,12 +115,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "50", to: "52"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "50", to: "52"}
 
 - id: cc-1007
   source: cc
   ref: "Мадхья 2.53–56"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.5
   title: "Даршан Джаганнатхи у колонны Гаруды: «Я пришёл на Курукшетру»; канава у колонны наполняется слезами; «Где же Вриндаван?»"
@@ -135,12 +135,12 @@
   cc: "Мадхья 2"
   event: ev-garuda-stambha-darshan
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "53", to: "56"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "53", to: "56"}
 
 - id: cc-1008
   source: cc
   ref: "Мадхья 2.57–65"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.6
   title: "Пралапа в шлоках «Кришна-карнамриты»: «Как пережить дни и ночи, не видя Тебя?»; битва бхав в теле Господа"
@@ -155,12 +155,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "57", to: "65"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "57", to: "65"}
 
 - id: cc-1009
   source: cc
   ref: "Мадхья 2.66–71"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.7
   title: "Пралапа: Кришна то порицаем, то прославляем — «Ты коварный обольститель… Ты — отрада Моих глаз»"
@@ -174,12 +174,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "66", to: "71"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "66", to: "71"}
 
 - id: cc-1010
   source: cc
   ref: "Мадхья 2.72–76"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 100.8
   title: "Господь видит Кришну в беспамятстве и вскакивает с криком «Кришна пришёл!» (шлока «Карнамриты», 68)"
@@ -194,12 +194,12 @@
   cc: "Мадхья 2"
   event: ev-gambhira-divine-madness
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "72", to: "76"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "72", to: "76"}
 
 - id: cc-1011
   source: cc
   ref: "Мадхья 2.77–78"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: P14
   order: 99
   title: "Со Сварупой и Раманандой Господь дни и ночи поёт Чандидаса, Видьяпати, «Гита-говинду», «Карнамриту» и драму Рамананды; четыре расы со спутниками"
@@ -213,12 +213,12 @@
   cc: "Мадхья 2"
   event: ev-last-twelve-years-gambhira
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "77", to: "78"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "77", to: "78"}
 
 - id: cc-1012
   source: cc
   ref: "Мадхья 2.79–80"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: PX
   order: 114.9
   title: "Если Билвамангала являл такие бхавы, что говорить о Самом Господе; Кришна принял сердце и сияние Радхи, чтобы вкусить три сокровенных чувства"
@@ -232,12 +232,12 @@
   cc: "Мадхья 2"
   event: ev-krishna-resolves-advent-radha-bhava
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "79", to: "80"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "79", to: "80"}
 
 - id: cc-1013
   source: cc
   ref: "Мадхья 2.81–83"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: PX
   order: 122.1
   title: "Вкушая прему, Господь учит ей и раздаёт её всем без разбора — Он самый милостивый из аватар; Его деяния понятны лишь по Его милости, в кругу преданных"
@@ -251,12 +251,12 @@
   cc: "Мадхья 2"
   event: ev-tattva-chaitanya-gives-rare-prema
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "81", to: "83"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "81", to: "83"}
 
 - id: cc-1014
   source: cc
   ref: "Мадхья 2.84–95"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md"
   period: PX
   order: 995.1
   title: "Сокровище лил Сварупы Дамодары через Рагхунатху Даса — в этой книге; ответ критикам о санскритских шлоках; старость автора; поклон и колофон"
@@ -269,12 +269,12 @@
   themes: [author]
   cc: "Мадхья 2"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya02.md", from: "84", to: "95"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya02.md", from: "84", to: "95"}
 
 - id: cc-1015
   source: cc
   ref: "Мадхья 3.1–2"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: PX
   order: 995.2
   title: "Мадхья 3: вступление — после санньясы Господь хотел идти во Врадж, но в преме блуждал по Радха-деше и пришёл в Шантипур"
@@ -286,12 +286,12 @@
   themes: [author]
   cc: "Мадхья 3"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "1", to: "2"}
 
 - id: cc-1016
   source: cc
   ref: "Мадхья 3.3–15"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 10
   title: "Три дня в Радха-деше: Господь в преме повторяет шлоку авантийского брахмана; пастушки кричат «Хари!», и Он благословляет их"
@@ -307,12 +307,12 @@
   cc: "Мадхья 3"
   event: ev-radha-desha-wandering
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "3", to: "15"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "3", to: "15"}
 
 - id: cc-1017
   source: cc
   ref: "Мадхья 3.16–39"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 25
   title: "Нитьянанда ведёт Господа к Ганге как к Ямуне; Адвайта на лодке с новой одеждой: «Где Ты — там Вриндаван»"
@@ -327,12 +327,12 @@
   cc: "Мадхья 3"
   event: ev-advaita-boat-ganga-vrindavana
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "16", to: "39"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "16", to: "39"}
 
 - id: cc-1018
   source: cc
   ref: "Мадхья 3.40–107"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 40
   title: "Пир у Адвайты: три подношения Кришне; «санньяси не подобает есть роскошно»; шутливая перебранка Адвайты и Нитьянанды, брошенный рис; Харидас и Мукунда едят после"
@@ -346,12 +346,12 @@
   cc: "Мадхья 3"
   event: ev-advaita-feast-shantipura
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "40", to: "107"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "40", to: "107"}
 
 - id: cc-1019
   source: cc
   ref: "Мадхья 3.108–136"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 45
   title: "Шантипур стекается к Господу; вечерний киртан: Адвайта пляшет со шлокой «Сегодня Кришна в Моём доме», Мукунда поёт песнь разлуки, Господь в экстазе пляшет три часа"
@@ -365,12 +365,12 @@
   cc: "Мадхья 3"
   event: ev-shantipura-reunion
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "108", to: "136"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "108", to: "136"}
 
 - id: cc-1020
   source: cc
   ref: "Мадхья 3.137–167"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 46
   title: "Чандрашекхара привозит Шачи и жителей Надии: Шачи плачет над бритой головой сына — «Не будь жесток, как Вишварупа»; «Это тело — твоё»; молитва Шачи Нараяне"
@@ -385,12 +385,12 @@
   cc: "Мадхья 3"
   event: ev-shantipura-reunion
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "137", to: "167"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "137", to: "167"}
 
 - id: cc-1021
   source: cc
   ref: "Мадхья 3.168–192"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 55
   title: "Шачи просит позволить ей одной готовить для Нимая; «как исполнить две дхармы?» — Шачи велит Господу жить в Пури; Господь просит всех совершать Кришна-санкиртану"
@@ -404,12 +404,12 @@
   cc: "Мадхья 3"
   event: ev-farewell-shantipura
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "168", to: "192"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "168", to: "192"}
 
 - id: cc-1022
   source: cc
   ref: "Мадхья 3.193–215"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 56
   title: "Харидас: «Как я буду жить без Тебя?» — Господь обещает взять его в Пури; ещё несколько дней праздника у Адвайты; прощание, Адвайта со слезами идёт следом"
@@ -422,12 +422,12 @@
   cc: "Мадхья 3"
   event: ev-farewell-shantipura
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "193", to: "215"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "193", to: "215"}
 
 - id: cc-1023
   source: cc
   ref: "Мадхья 3.216–217"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: P09
   order: 70
   title: "Через Чхатрабхогу вдоль Ганги — в Пури; путь подробно описан Вриндаваном Дасом"
@@ -441,12 +441,12 @@
   cc: "Мадхья 3"
   event: ev-journey-to-puri
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "216", to: "217"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "216", to: "217"}
 
 - id: cc-1024
   source: cc
   ref: "Мадхья 3.218–219"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md"
   period: PX
   order: 995.3
   title: "Плод слушания об играх в доме Адвайты; колофон"
@@ -458,12 +458,12 @@
   themes: [author]
   cc: "Мадхья 3"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya03.md", from: "218", to: "219"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md", from: "218", to: "219"}
 
 - id: cc-1025
   source: cc
   ref: "Мадхья 4.1–9"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: PX
   order: 995.4
   title: "Мадхья 4: поклон Мадхавендре Пури, ради которого Гопинатха украл сладкий рис и явился Гопала; автор лишь упоминает подробно описанное Вриндаваном Дасом"
@@ -475,12 +475,12 @@
   themes: [author]
   cc: "Мадхья 4"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "1", to: "9"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "1", to: "9"}
 
 - id: cc-1026
   source: cc
   ref: "Мадхья 4.10–20"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P09
   order: 80
   title: "Путь в Пури: милость сборщикам пошлин; в Ремуне с Гопинатхи на голову Господа падает венец; Господь остаётся ради кширы и рассказывает историю Кширачоры"
@@ -493,12 +493,12 @@
   cc: "Мадхья 4"
   event: ev-remuna-gopala
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "10", to: "20"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "10", to: "20"}
 
 - id: cc-1027
   source: cc
   ref: "Мадхья 4.21–102"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P01
   order: 1.72
   title: "Рассказ Господа: пастушок приносит Мадхавендре молоко у Говинда-кунды; во сне Гопала велит вынести Его из рощи; установление на Говардхане, абхишека и Аннакута"
@@ -512,12 +512,12 @@
   cc: "Мадхья 4"
   event: ev-madhavendra-gopala-govardhana
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "21", to: "102"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "21", to: "102"}
 
 - id: cc-1028
   source: cc
   ref: "Мадхья 4.103–109"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P01
   order: 1.73
   title: "Два бенгальских брахмана — слуги Гопалы; через два года Гопала во сне велит принести сандал из Нилачалы"
@@ -531,12 +531,12 @@
   cc: "Мадхья 4"
   event: ev-madhavendra-kshira-chora
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "103", to: "109"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "103", to: "109"}
 
 - id: cc-1029
   source: cc
   ref: "Мадхья 4.110–111"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P01
   order: 1.7
   title: "Мадхавендра Пури в Шантипуре посвящает Адвайту"
@@ -550,12 +550,12 @@
   cc: "Мадхья 4"
   event: ev-advaita-madhavendra-initiation
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "110", to: "111"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "110", to: "111"}
 
 - id: cc-1030
   source: cc
   ref: "Мадхья 4.112–142"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P01
   order: 1.75
   title: "Кширачора-Гопинатха: Мадхавендра устыдился желания попробовать кширу; Гопинатха прячет горшок под накидкой и во сне велит пуджари отнести его санньяси на базаре"
@@ -568,12 +568,12 @@
   cc: "Мадхья 4"
   event: ev-madhavendra-kshira-chora
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "112", to: "142"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "112", to: "142"}
 
 - id: cc-1031
   source: cc
   ref: "Мадхья 4.143–169"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P01
   order: 1.76
   title: "Мадхавендра в Пури собирает сандал и камфару; в Ремуне Гопала во сне велит умастить сандалом Гопинатху — «Его тело тождественно Моему»"
@@ -586,12 +586,12 @@
   cc: "Мадхья 4"
   event: ev-madhavendra-kshira-chora
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "143", to: "169"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "143", to: "169"}
 
 - id: cc-1032
   source: cc
   ref: "Мадхья 4.170–190"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P09
   order: 80.1
   title: "Господь спрашивает Нитьянанду: «Кто удачливее Мадхавендры Пури?» — о его отречении и любви, испытанной Гопалой"
@@ -605,12 +605,12 @@
   cc: "Мадхья 4"
   event: ev-remuna-gopala
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "170", to: "190"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "170", to: "190"}
 
 - id: cc-1033
   source: cc
   ref: "Мадхья 4.191–209"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: P09
   order: 80.2
   title: "Шлока Мадхавендры «Айи дина-дайардра натха» — Господь в высшей преме перед Гопинатхой; двенадцать горшков кширы-прасада"
@@ -626,12 +626,12 @@
   cc: "Мадхья 4"
   event: ev-remuna-gopala
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "191", to: "209"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "191", to: "209"}
 
 - id: cc-1034
   source: cc
   ref: "Мадхья 4.210–213"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md"
   period: PX
   order: 995.5
   title: "Плод слушания о Гопале, Гопинатхе и Мадхавендре; колофон"
@@ -643,12 +643,12 @@
   themes: [author]
   cc: "Мадхья 4"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya04.md", from: "210", to: "213"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md", from: "210", to: "213"}
 
 - id: cc-1035
   source: cc
   ref: "Мадхья 5.1–2"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: PX
   order: 995.6
   title: "Мадхья 5: поклон Господу, который как Сакши-гопала за сто дней прошёл пешком ради брахмана"
@@ -660,12 +660,12 @@
   themes: [author]
   cc: "Мадхья 5"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "1", to: "2"}
 
 - id: cc-1036
   source: cc
   ref: "Мадхья 5.3–4"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: P09
   order: 82
   title: "Яджапур: Господь поёт и пляшет перед Варахадевой и ночует в храме"
@@ -679,12 +679,12 @@
   cc: "Мадхья 5"
   event: ev-jajpur-viraja
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "3", to: "4"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "3", to: "4"}
 
 - id: cc-1037
   source: cc
   ref: "Мадхья 5.5–9"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: P09
   order: 85
   title: "Катак: даршан Сакши-гопалы; ночью Нитьянанда рассказывает Его историю"
@@ -697,12 +697,12 @@
   cc: "Мадхья 5"
   event: ev-sakshi-gopala
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "5", to: "9"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "5", to: "9"}
 
 - id: cc-1038
   source: cc
   ref: "Мадхья 5.10–118"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: P01
   order: 1.7
   title: "Рассказ Нитьянанды: обет старого брахмана перед Гопалой во Вриндаване; отказ под давлением семьи; Гопала идёт за юным брахманом, звеня колокольчиками, и свидетельствует"
@@ -716,12 +716,12 @@
   cc: "Мадхья 5"
   event: ev-sakshi-gopala-two-brahmins
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "10", to: "118"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "10", to: "118"}
 
 - id: cc-1039
   source: cc
   ref: "Мадхья 5.119–133"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: P01
   order: 1.71
   title: "Царь Пурушоттама-дэва переносит Сакши-гопалу в Катак; Маникья-симхасана — Джаганнатхе; жемчужина царицы в ноздре Гопалы"
@@ -734,12 +734,12 @@
   cc: "Мадхья 5"
   event: ev-sakshi-gopala-two-brahmins
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "119", to: "133"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "119", to: "133"}
 
 - id: cc-1040
   source: cc
   ref: "Мадхья 5.134–140"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: P09
   order: 85.1
   title: "Господь перед Сакши-гопалой — Они схожи обликом; путь до Бхуванешвары описан Вриндаваном Дасом"
@@ -753,12 +753,12 @@
   cc: "Мадхья 5"
   event: ev-sakshi-gopala
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "134", to: "140"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "134", to: "140"}
 
 - id: cc-1041
   source: cc
   ref: "Мадхья 5.141–158"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: P09
   order: 88
   title: "Камалапур: Нитьянанда ломает посох Господа и бросает в Бхаргинади; Господь видит храм Джаганнатхи, в преме идёт до Атхараналы, гневается и уходит вперёд один"
@@ -772,12 +772,12 @@
   cc: "Мадхья 5"
   event: ev-danda-broken
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "141", to: "158"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "141", to: "158"}
 
 - id: cc-1042
   source: cc
   ref: "Мадхья 5.159–161"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md"
   period: PX
   order: 995.7
   title: "Слава Гопалы, воспетая Нитьянандой; плод слушания; колофон"
@@ -789,12 +789,12 @@
   themes: [author]
   cc: "Мадхья 5"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya05.md", from: "159", to: "161"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya05.md", from: "159", to: "161"}
 
 - id: cc-1043
   source: cc
   ref: "Мадхья 6.1–2"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: PX
   order: 995.8
   title: "Мадхья 6: поклон Гаурачандре, наполнившему бхакти окаменевшее от логики сердце Сарвабхаумы"
@@ -806,12 +806,12 @@
   themes: [author]
   cc: "Мадхья 6"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "1", to: "2"}
 
 - id: cc-1044
   source: cc
   ref: "Мадхья 6.3–4"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 10
   title: "Первый даршан: Господь бросается обнять Джаганнатху и падает без чувств в храме"
@@ -824,12 +824,12 @@
   cc: "Мадхья 6"
   event: ev-first-darshan-jagannatha
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "3", to: "4"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "3", to: "4"}
 
 - id: cc-1045
   source: cc
   ref: "Мадхья 6.5–13"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 11
   title: "Сарвабхаума удерживает стражника и уносит бесчувственного Господа к себе; ватка у ноздрей; «как адхирудха-махабхава проявилась в теле человека?»"
@@ -842,12 +842,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-meeting
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "5", to: "13"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "5", to: "13"}
 
 - id: cc-1046
   source: cc
   ref: "Мадхья 6.14–36"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 12
   title: "Спутники у Львиных врат встречают Гопинатху Ачарью; в доме Сарвабхаумы; Чанданешвара ведёт их к Джаганнатхе, Нитьянанда в экстазе"
@@ -860,12 +860,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-meeting
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "14", to: "36"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "14", to: "36"}
 
 - id: cc-1047
   source: cc
   ref: "Мадхья 6.37–67"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 13
   title: "Господь приходит в себя с криком «Хари!»; махапрасад в доме Сарвабхаумы; родство с Ниламбарой Чакраварти; «принимаю тебя гуру»; Господь будет смотреть на Джаганнатху от колонны Гаруды"
@@ -879,12 +879,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-meeting
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "37", to: "67"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "37", to: "67"}
 
 - id: cc-1048
   source: cc
   ref: "Мадхья 6.68–117"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 20
   title: "Сарвабхаума хочет обучить юного санньяси Веданте и заново посвятить; Гопинатха Ачарья спорит с ним и учениками: Бога постигают по Его милости; юга-аватара в Кали; Господь заступается за Сарвабхауму"
@@ -899,12 +899,12 @@
   cc: "Мадхья 6"
   event: ev-gopinatha-sarvabhauma-debate
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "68", to: "117"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "68", to: "117"}
 
 - id: cc-1049
   source: cc
   ref: "Мадхья 6.118–138"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 30
   title: "Семь дней Господь молча слушает Веданту у Сарвабхаумы; на восьмой: «Смысл сутр ясен, а твои толкования скрывают его» — мукхья-вритти выше лакшаны"
@@ -918,12 +918,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "118", to: "138"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "118", to: "138"}
 
 - id: cc-1050
   source: cc
   ref: "Мадхья 6.139–182"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 31
   title: "Господь опровергает майяваду: Брахман — Бхагаван с шестью совершенствами; три энергии; джива — энергия; парината-вада, а не виварта; пранава — маха-вакья; Шанкара учил по велению Господа"
@@ -938,12 +938,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "139", to: "182"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "139", to: "182"}
 
 - id: cc-1051
   source: cc
   ref: "Мадхья 6.183–198"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 32
   title: "Шлока «атмарама»: девять толкований Сарвабхаумы и восемнадцать — Господа"
@@ -958,12 +958,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "183", to: "198"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "183", to: "198"}
 
 - id: cc-1052
   source: cc
   ref: "Мадхья 6.199–215"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 33
   title: "Сарвабхаума узнаёт в Господе Кришну и кается; Господь являет ему четырёхрукий облик и облик Кришны с флейтой; сто шлок; экстаз Сарвабхаумы"
@@ -977,12 +977,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "199", to: "215"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "199", to: "215"}
 
 - id: cc-1053
   source: cc
   ref: "Мадхья 6.216–238"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 34
   title: "Господь приносит Сарвабхауме махапрасад на рассвете, и тот ест его, не умывшись; «Сегодня Я покорил весь мир»"
@@ -997,12 +997,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "216", to: "238"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "216", to: "238"}
 
 - id: cc-1054
   source: cc
   ref: "Мадхья 6.239–247"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 35
   title: "«Что важнее всего в бхакти?» — «Нама-санкиртана»: шлока «харер нама»; Сарвабхаума приписывает милость общению с Гопинатхой"
@@ -1017,12 +1017,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "239", to: "247"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "239", to: "247"}
 
 - id: cc-1055
   source: cc
   ref: "Мадхья 6.248–258"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 36
   title: "Две шлоки Сарвабхаумы на пальмовом листе: Мукунда переписывает их на стену, Господь рвёт лист"
@@ -1036,12 +1036,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "248", to: "258"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "248", to: "258"}
 
 - id: cc-1056
   source: cc
   ref: "Мадхья 6.259–278"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 37
   title: "«Бхакти-паде» вместо «мукти-паде»: Сарвабхаума меняет слова молитвы Брахмы; пять видов мукти; саюджья страшна преданному"
@@ -1056,12 +1056,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "259", to: "278"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "259", to: "278"}
 
 - id: cc-1057
   source: cc
   ref: "Мадхья 6.279–281"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: P10
   order: 38
   title: "Видя перемену в Сарвабхауме, жители Пури во главе с Каши Мишрой принимают прибежище у Господа"
@@ -1074,12 +1074,12 @@
   cc: "Мадхья 6"
   event: ev-sarvabhauma-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "279", to: "281"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "279", to: "281"}
 
 - id: cc-1058
   source: cc
   ref: "Мадхья 6.282–287"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md"
   period: PX
   order: 995.9
   title: "Анонс: путь на юг, служение и пир Сарвабхаумы будут описаны позже; колофон"
@@ -1091,12 +1091,12 @@
   themes: [author]
   cc: "Мадхья 6"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya06.md", from: "282", to: "287"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya06.md", from: "282", to: "287"}
 
 - id: cc-1059
   source: cc
   ref: "Мадхья 7.1–2"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: PX
   order: 996
   title: "Мадхья 7: слава Господу, исцелившему от проказы брахмана Васудеву"
@@ -1108,12 +1108,12 @@
   themes: [author]
   cc: "Мадхья 7"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "1", to: "2"}
 
 - id: cc-1060
   source: cc
   ref: "Мадхья 7.3–6"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P10
   order: 40
   title: "Хронология: санньяса в магху, приход в Пури в пхалгуну, Дола-ятра в конце пхалгуны, Сарвабхаума в чайтру, уход на юг в начале вайшакхи"
@@ -1129,12 +1129,12 @@
   cc: "Мадхья 7"
   event: ev-first-year-festivals-puri
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "3", to: "6"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "3", to: "6"}
 
 - id: cc-1061
   source: cc
   ref: "Мадхья 7.7–41"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P11
   order: 5
   title: "«Я пойду искать Вишварупу один»: Господь «упрекает» Нитьянанду, Джагадананду, Мукунду и Дамодару; по просьбе Нитьянанды берёт Кала Кришнадаса"
@@ -1147,12 +1147,12 @@
   cc: "Мадхья 7"
   event: ev-departure-for-south
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "7", to: "41"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "7", to: "41"}
 
 - id: cc-1062
   source: cc
   ref: "Мадхья 7.42–75"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P11
   order: 6
   title: "Прощание с Сарвабхаумой: пять дней угощения у него, гирлянда-позволение Джаганнатхи; «встреться с Раманандой Раем»; Сарвабхаума без чувств"
@@ -1167,12 +1167,12 @@
   cc: "Мадхья 7"
   event: ev-departure-for-south
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "42", to: "75"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "42", to: "75"}
 
 - id: cc-1063
   source: cc
   ref: "Мадхья 7.76–94"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P11
   order: 7
   title: "Алаланатха: Господь пляшет среди толпы, народ становится вайшнавами; Нитьянанда предсказывает киртан в каждой деревне; наутро — прощание, преданные падают без чувств"
@@ -1185,12 +1185,12 @@
   cc: "Мадхья 7"
   event: ev-alalanatha-prema-chain
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "76", to: "94"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "76", to: "94"}
 
 - id: cc-1064
   source: cc
   ref: "Мадхья 7.95–112"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P11
   order: 8
   title: "Господь идёт на юг, как безумный лев, с шлокой «Кришна! Кешава! Рама Рагхава!»; встреченные Им становятся вайшнавами и обращают свои деревни — так Юг становится вайшнавским"
@@ -1203,12 +1203,12 @@
   cc: "Мадхья 7"
   event: ev-south-conversions
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "95", to: "112"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "95", to: "112"}
 
 - id: cc-1065
   source: cc
   ref: "Мадхья 7.113–120"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P11
   order: 10
   title: "Курма-кшетра: Господь в преме пляшет перед Божеством Курмы; люди становятся вайшнавами"
@@ -1221,12 +1221,12 @@
   cc: "Мадхья 7"
   event: ev-kurma-vasudeva
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "113", to: "120"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "113", to: "120"}
 
 - id: cc-1066
   source: cc
   ref: "Мадхья 7.121–135"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P11
   order: 10.1
   title: "Брахман Курма с семьёй пьёт воду с Его стоп; «Возьми меня с Собой» — «Нет: стань гуру, воспевай имя Кришны и учи каждого встречного — „йаре декха таре каха кришна-упадеша“»"
@@ -1240,12 +1240,12 @@
   cc: "Мадхья 7"
   event: ev-kurma-vasudeva
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "121", to: "135"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "121", to: "135"}
 
 - id: cc-1067
   source: cc
   ref: "Мадхья 7.136–151"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: P11
   order: 10.2
   title: "Прокажённый брахман Васудева: Господь возвращается и обнимает его — болезнь исчезает; Господь — Васудевамрита-прада"
@@ -1260,12 +1260,12 @@
   cc: "Мадхья 7"
   event: ev-kurma-vasudeva
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "136", to: "151"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "136", to: "151"}
 
 - id: cc-1068
   source: cc
   ref: "Мадхья 7.152–155"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md"
   period: PX
   order: 996.1
   title: "Плод слушания; автор пишет услышанное от вайшнавов; колофон"
@@ -1277,12 +1277,12 @@
   themes: [author]
   cc: "Мадхья 7"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya07.md", from: "152", to: "155"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya07.md", from: "152", to: "155"}
 
 - id: cc-1069
   source: cc
   ref: "Мадхья 8.1–2"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: PX
   order: 996.2
   title: "Мадхья 8: Господь, океан знания о бхакти, наполнил им Рамананду, как тучу, чтобы он пролил его на мир"
@@ -1294,12 +1294,12 @@
   themes: [author]
   cc: "Мадхья 8"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "1", to: "2"}
 
 - id: cc-1070
   source: cc
   ref: "Мадхья 8.3–8"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 20
   title: "Джияда-Нрисимха: Господь в преме поёт и пляшет, славит Нрисимху шлоками"
@@ -1314,12 +1314,12 @@
   cc: "Мадхья 8"
   event: ev-jiyada-nrisimha
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "3", to: "8"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "3", to: "8"}
 
 - id: cc-1071
   source: cc
   ref: "Мадхья 8.9–47"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30
   title: "Годавари как Ямуна; Рамананда Рай приходит омыться; Господь и Рамананда в объятии падают в экстазе; изумление ведических брахманов; взаимные хвалы"
@@ -1333,12 +1333,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "9", to: "47"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "9", to: "47"}
 
 - id: cc-1072
   source: cc
   ref: "Мадхья 8.48–56"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.1
   title: "Господь принимает приглашение брахмана-вайшнава; Рамананда просит остаться неделю; вечером он приходит со слугой"
@@ -1351,12 +1351,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "48", to: "56"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "48", to: "56"}
 
 - id: cc-1073
   source: cc
   ref: "Мадхья 8.57–81"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.2
   title: "Садхья-нирная: варнашрама — «это внешне»; карма, отданная Кришне; отказ от сва-дхармы; джняна-мишра-бхакти — «внешне»; бхакти без джняны — «это так»; према-бхакти; дасья, сакхья, ватсалья, мадхурья"
@@ -1371,12 +1371,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "57", to: "81"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "57", to: "81"}
 
 - id: cc-1074
   source: cc
   ref: "Мадхья 8.82–94"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.3
   title: "Постепенность рас: каждая последующая содержит качества предыдущих, как первоэлементы; према пленяет Кришну, и Он — должник гопи"
@@ -1391,12 +1391,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "82", to: "94"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "82", to: "94"}
 
 - id: cc-1075
   source: cc
   ref: "Мадхья 8.95–115"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.4
   title: "Любовь Радхи — высшая: Кришна оставляет раса-лилу и ищет Её в слезах («Гита-говинда» 3.1–2); противоречивый нрав Её премы"
@@ -1411,12 +1411,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "95", to: "115"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "95", to: "115"}
 
 - id: cc-1076
   source: cc
   ref: "Мадхья 8.116–132"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.5
   title: "«Расскажи о Радха- и Кришна-таттве» — «Я лишь попугай, говорю то, что Ты внушаешь»; «Кто знает науку о Кришне, тот гуру — будь он брахман, санньяси или шудра»"
@@ -1430,12 +1430,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "116", to: "132"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "116", to: "132"}
 
 - id: cc-1077
   source: cc
   ref: "Мадхья 8.133–148"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.6
   title: "Кришна-таттва: Кришна — источник всех аватар, сач-чид-ананда, юный Купидон Вриндавана; чарует все расы, Нараяну, Лакшми и даже Самого Себя"
@@ -1450,12 +1450,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "133", to: "148"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "133", to: "148"}
 
 - id: cc-1078
   source: cc
   ref: "Мадхья 8.149–184"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.7
   title: "Радха-таттва: три энергии; хладини, её суть — према, вершина — махабхава, воплощённая в Радхе; убранство Радхи из бхав; Её качества желают Сатьябхама, Лакшми и Парвати"
@@ -1470,12 +1470,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "149", to: "184"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "149", to: "184"}
 
 - id: cc-1079
   source: cc
   ref: "Мадхья 8.185–194"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.8
   title: "Виласа Радхи и Кришны: Кришна — дхира-лалита; према-виласа-виварта — Господь закрывает рукой уста Рамананды, поющего свою песню"
@@ -1490,12 +1490,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "185", to: "194"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "185", to: "194"}
 
 - id: cc-1080
   source: cc
   ref: "Мадхья 8.195–231"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 30.9
   title: "Садхана: лилы Радхи и Кришны доступны лишь через гопи; гопи-бхава — не кама; рагануга в настроении сакхи; шрути обрели Кришну; Лакшми не смогла"
@@ -1510,12 +1510,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "195", to: "231"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "195", to: "231"}
 
 - id: cc-1081
   source: cc
   ref: "Мадхья 8.232–239"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 31
   title: "Слёзы и объятия; ночь в беседе; Рамананда просит остаться на десять дней — «Пока Я жив, Я не расстанусь с тобой»"
@@ -1528,12 +1528,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "232", to: "239"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "232", to: "239"}
 
 - id: cc-1082
   source: cc
   ref: "Мадхья 8.241–260"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 31.1
   title: "Вопросы и ответы: высшее знание — Кришна-бхакти, высшая слава — быть преданным, высшее горе — разлука с преданным; жить во Врадже; лучшее — общение с преданным; вороны и кукушки"
@@ -1547,12 +1547,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "241", to: "260"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "241", to: "260"}
 
 - id: cc-1083
   source: cc
   ref: "Мадхья 8.261–290"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 31.2
   title: "Рамананда видит Господа Шьямасундарой с флейтой; «Махабхагавата видит Кришну во всём»; Господь являет облик Расараджи-Махабхавы — Рамананда без чувств; «Моё тело не светлое — его коснулась Радха»"
@@ -1568,12 +1568,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "261", to: "290"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "261", to: "290"}
 
 - id: cc-1084
   source: cc
   ref: "Мадхья 8.291–301"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: P11
   order: 31.3
   title: "Десять ночей Кришна-катхи; «Оставь мирские дела и приходи в Пури»; храм Ханумана; жители Видьянагары становятся вайшнавами; Рамананда в разлуке"
@@ -1586,12 +1586,12 @@
   cc: "Мадхья 8"
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "291", to: "301"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "291", to: "301"}
 
 - id: cc-1085
   source: cc
   ref: "Мадхья 8.302–312"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md"
   period: PX
   order: 996.3
   title: "Беседа Господа и Рамананды — сгущённое молоко с сахаром и камфарой; слушать с верой, без споров; описано по записям Сварупы Дамодары; колофон"
@@ -1603,12 +1603,12 @@
   themes: [author]
   cc: "Мадхья 8"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya08.md", from: "302", to: "312"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md", from: "302", to: "312"}
 
 - id: cc-1086
   source: cc
   ref: "Мадхья 9.1–2"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: PX
   order: 996.4
   title: "Мадхья 9: диском милости Господь спас жителей Юга из пасти крокодилов буддизма, джайнизма и майявады"
@@ -1620,12 +1620,12 @@
   themes: [author]
   cc: "Мадхья 9"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "1", to: "2"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "1", to: "2"}
 
 - id: cc-1087
   source: cc
   ref: "Мадхья 9.3–13"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 25
   title: "Тысячи святынь Юга: Господь делает их местами паломничества; вайшнавы Рамы, мадхвы и рамануджи становятся преданными Кришны"
@@ -1638,12 +1638,12 @@
   cc: "Мадхья 9"
   event: ev-south-conversions
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "3", to: "13"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "3", to: "13"}
 
 - id: cc-1088
   source: cc
   ref: "Мадхья 9.14–37"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 35
   title: "Гаутами-ганга, Малликарджуна, Ахобала-Нрисимха; в Сиддхавате брахман, повторявший имя Рамы, начинает повторять имя Кришны: «Ты — Сам Кришна»"
@@ -1658,12 +1658,12 @@
   cc: "Мадхья 9"
   event: ev-rama-name-to-krishna-name
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "14", to: "37"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "14", to: "37"}
 
 - id: cc-1089
   source: cc
   ref: "Мадхья 9.38–45"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 25.1
   title: "Вриддхакаши и деревня брахманов: миллионы приходят к Господу; Он опровергает последователей Гаутамы, Канады, Шанкары, Капилы и Патанджали и утверждает Кришна-бхакти"
@@ -1677,12 +1677,12 @@
   cc: "Мадхья 9"
   event: ev-south-conversions
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "38", to: "45"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "38", to: "45"}
 
 - id: cc-1090
   source: cc
   ref: "Мадхья 9.46–52"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 46.5
   title: "Спор с буддистами: Господь разбивает девять положений буддийского учителя"
@@ -1696,12 +1696,12 @@
   cc: "Мадхья 9"
   event: ev-debate-buddhists
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "46", to: "52"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "46", to: "52"}
 
 - id: cc-1091
   source: cc
   ref: "Мадхья 9.53–63"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 47
   title: "Нечистая пища под видом махапрасада: птица уносит блюдо, оно падает на голову буддийского учителя; ученики поют «Кришна! Хари!» ему на ухо — он приходит в себя и поёт «Хари»"
@@ -1715,12 +1715,12 @@
   cc: "Мадхья 9"
   event: ev-bird-snatches-impure-food
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "53", to: "63"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "53", to: "63"}
 
 - id: cc-1092
   source: cc
   ref: "Мадхья 9.64–65"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 38
   title: "Трипати и Тирумала: четырёхрукое Божество на холме Венката; молитвы Раме в Трипати"
@@ -1734,12 +1734,12 @@
   cc: "Мадхья 9"
   event: ev-tripadi-ramats
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "64", to: "65"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "64", to: "65"}
 
 - id: cc-1093
   source: cc
   ref: "Мадхья 9.66–67"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 39
   title: "Пана-Нрисимха: Господь в преме молится Нрисимхе"
@@ -1753,12 +1753,12 @@
   cc: "Мадхья 9"
   event: ev-pana-nrisimha
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "66", to: "67"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "66", to: "67"}
 
 - id: cc-1094
   source: cc
   ref: "Мадхья 9.68–70"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 41
   title: "Шива-канчи и Вишну-канчи: шиваиты становятся вайшнавами; два дня перед Лакшми-Нараяной"
@@ -1772,12 +1772,12 @@
   cc: "Мадхья 9"
   event: ev-vishnu-kanchi
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "68", to: "70"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "68", to: "70"}
 
 - id: cc-1095
   source: cc
   ref: "Мадхья 9.71–73"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 42
   title: "Трикала-хасти, Пакши-тиртха, Вриддхакола (Швета-Вараха), Шива в жёлтых одеждах"
@@ -1791,12 +1791,12 @@
   cc: "Мадхья 9"
   event: ev-pakshitirtha-tiger
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "71", to: "73"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "71", to: "73"}
 
 - id: cc-1096
   source: cc
   ref: "Мадхья 9.74–76"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 43
   title: "Шияли-Бхайрави, Кавери, Госамадж, Ведаван; Амрита-линга — шиваиты становятся вайшнавами"
@@ -1810,12 +1810,12 @@
   cc: "Мадхья 9"
   event: ev-amrita-linga-gosamaja
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "74", to: "76"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "74", to: "76"}
 
 - id: cc-1097
   source: cc
   ref: "Мадхья 9.77–79"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 44
   title: "Девастхана — беседы со шри-вайшнавами; Кумбхакарна-капала, Шива-кшетра, Папанашана"
@@ -1829,12 +1829,12 @@
   cc: "Мадхья 9"
   event: ev-tanjore-dhaleshvara
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "77", to: "79"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "77", to: "79"}
 
 - id: cc-1098
   source: cc
   ref: "Мадхья 9.80–92"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 50
   title: "Шрирангам: Господь пляшет перед Ранганатхой; Венката Бхатта омывает Его стопы и просит провести у него чатурмасью; толпы и приглашения брахманов"
@@ -1848,12 +1848,12 @@
   cc: "Мадхья 9"
   event: ev-srirangam-chaturmasya
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "80", to: "92"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "80", to: "92"}
 
 - id: cc-1099
   source: cc
   ref: "Мадхья 9.93–107"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 45
   title: "Брахман, неправильно читающий Гиту, плачет от любви: «Я вижу Кришну, возницу Арджуны»; «Твоё чтение совершенно»"
@@ -1867,12 +1867,12 @@
   cc: "Мадхья 9"
   event: ev-gita-reading-brahmana
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "93", to: "107"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "93", to: "107"}
 
 - id: cc-1100
   source: cc
   ref: "Мадхья 9.108–126"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 50.1
   title: "Шутка Господа с Венкатой Бхаттой: «Почему целомудренная Лакшми ищет общества пастушка Кришны и всё же не попадает на расу, а шрути — попадают?»"
@@ -1887,12 +1887,12 @@
   cc: "Мадхья 9"
   event: ev-srirangam-chaturmasya
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "108", to: "126"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "108", to: "126"}
 
 - id: cc-1101
   source: cc
   ref: "Мадхья 9.127–150"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 50.2
   title: "Ответ Господа: Кришну обретают лишь в настроении жителей Враджа; Лакшми хотела Его, не приняв тела гопи; Кришна — Сваям Бхагаван, Нараяна — Его виласа; четырёхрукий облик не влечёт гопи"
@@ -1907,12 +1907,12 @@
   cc: "Мадхья 9"
   event: ev-srirangam-chaturmasya
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "127", to: "150"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "127", to: "150"}
 
 - id: cc-1102
   source: cc
   ref: "Мадхья 9.151–166"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 50.3
   title: "«Я пошутил»: Кришна и Нараяна, гопи и Лакшми едины, как камень вайдурья в разных оттенках; Венката Бхатта принимает Кришна-бхакти; конец чатурмасьи, Бхатта падает без чувств при расставании"
@@ -1927,12 +1927,12 @@
   cc: "Мадхья 9"
   event: ev-srirangam-chaturmasya
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "151", to: "166"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "151", to: "166"}
 
 - id: cc-1103
   source: cc
   ref: "Мадхья 9.167–175"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 60
   title: "Гора Ришабха; встреча с Парамананда Пури: три дня бесед о Кришне; «приходи в Нилачалу»"
@@ -1945,12 +1945,12 @@
   cc: "Мадхья 9"
   event: ev-paramananda-puri-meeting
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "167", to: "175"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "167", to: "175"}
 
 - id: cc-1104
   source: cc
   ref: "Мадхья 9.176–178"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 62
   title: "Шри-шайла: Шива и Дурга в облике брахманов; три дня сокровенных бесед"
@@ -1963,12 +1963,12 @@
   cc: "Мадхья 9"
   event: ev-shri-shaila-shiva-durga
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "176", to: "178"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "176", to: "178"}
 
 - id: cc-1105
   source: cc
   ref: "Мадхья 9.179–197"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 75
   title: "Южная Матхура: брахман-почитатель Рамы скорбит, что Равана коснулся Ситы; Господь: духовное тело Ситы недоступно мирским чувствам — Равана похитил её иллюзорный облик"
@@ -1983,12 +1983,12 @@
   cc: "Мадхья 9"
   event: ev-maya-sita-kurma-purana
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "179", to: "197"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "179", to: "197"}
 
 - id: cc-1106
   source: cc
   ref: "Мадхья 9.198–200"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 80
   title: "Дурвашана и Махендра-шайла (Парашурама); Сетубандха: омовение в Дханус-тиртхе, ночь у Рамешвары"
@@ -2001,12 +2001,12 @@
   cc: "Мадхья 9"
   event: ev-setubandha-rameshvara
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "198", to: "200"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "198", to: "200"}
 
 - id: cc-1107
   source: cc
   ref: "Мадхья 9.201–217"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 80.1
   title: "Рамешвара: в «Курма-пуране» — Агни укрыл Ситу у Парвати, а Равана похитил Майя-Ситу; Господь берёт ветхие листы и приносит их брахману Рамадасу в Южную Матхуру"
@@ -2020,12 +2020,12 @@
   cc: "Мадхья 9"
   event: ev-maya-sita-kurma-purana
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "201", to: "217"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "201", to: "217"}
 
 - id: cc-1108
   source: cc
   ref: "Мадхья 9.218–223"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 82
   title: "Пандья-деша: Тамрапарни, девять храмов Вишну в Найя-трипати, Гаджендра-мокшана; холм Малая — Агастья; Каньякумари"
@@ -2039,12 +2039,12 @@
   cc: "Мадхья 9"
   event: ev-tamraparni-kanyakumari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "218", to: "223"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "218", to: "223"}
 
 - id: cc-1109
   source: cc
   ref: "Мадхья 9.224–233"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 82.5
   title: "Маллара-деша: бхаттатхари соблазняют Кришнадаса; их оружие ранит их самих; Господь за волосы вытаскивает слугу"
@@ -2057,12 +2057,12 @@
   cc: "Мадхья 9"
   event: ev-krishnadasa-bhattathari
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "224", to: "233"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "224", to: "233"}
 
 - id: cc-1110
   source: cc
   ref: "Мадхья 9.234–240"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 83.5
   title: "Ади-Кешава у Пайясвини: Господь пляшет в преме и находит главу «Брахма-самхиты»"
@@ -2076,12 +2076,12 @@
   cc: "Мадхья 9"
   event: ev-brahma-samhita-adikeshava
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "234", to: "240"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "234", to: "240"}
 
 - id: cc-1111
   source: cc
   ref: "Мадхья 9.241–244"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 84
   title: "Список «Брахма-самхиты»; Ананта-Падманабха, Джанардана, Шанкара-Нараяна; Шрингери-матх; Матсья-тиртха на Тунгабхадре"
@@ -2095,12 +2095,12 @@
   cc: "Мадхья 9"
   event: ev-shringeri-debate
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "241", to: "244"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "241", to: "244"}
 
 - id: cc-1112
   source: cc
   ref: "Мадхья 9.245–253"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 84.5
   title: "Удупи: Господь в преме пляшет перед Танцующим Гопалой Мадхвачарьи; таттвавади, приняв Его за майявади, затем почтительно принимают Его"
@@ -2113,12 +2113,12 @@
   cc: "Мадхья 9"
   event: ev-udupi-tattvavadis
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "245", to: "253"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "245", to: "253"}
 
 - id: cc-1113
   source: cc
   ref: "Мадхья 9.254–278"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 84.6
   title: "Беседа с ачарьей таттвавади: «варнашрама, отданная Кришне, и пять видов мукти» — Господь: шравана-киртана и према — цель; преданные отвергают мукти и карму; единственное достоинство — признание вечного облика Господа"
@@ -2133,12 +2133,12 @@
   cc: "Мадхья 9"
   event: ev-udupi-tattvavadis
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "254", to: "278"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "254", to: "278"}
 
 - id: cc-1114
   source: cc
   ref: "Мадхья 9.279–303"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 85.5
   title: "Гокарна, Колхапур — и Пандарпур: Господь пляшет перед Виттхалой; встреча с Шри Ранга Пури, учеником Мадхавендры; весть о том, что Шанкараранья (Вишварупа) ушёл здесь из мира"
@@ -2152,12 +2152,12 @@
   cc: "Мадхья 9"
   event: ev-ranga-puri-pandharpur
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "279", to: "303"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "279", to: "303"}
 
 - id: cc-1115
   source: cc
   ref: "Мадхья 9.304–309"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 86.5
   title: "На берегу Кришна-веньи: брахманы-вайшнавы изучают «Кришна-карнамриту» Билвамангалы; Господь переписывает её"
@@ -2171,12 +2171,12 @@
   cc: "Мадхья 9"
   event: ev-krishna-karnamrita-found
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "304", to: "309"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "304", to: "309"}
 
 - id: cc-1116
   source: cc
   ref: "Мадхья 9.310–315"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 70
   title: "Тапи, Махишматипур, Нармада, Ришьямука, Дандакаранья: Господь обнимает семь пальм, и они исчезают — «Он — Рамачандра»"
@@ -2190,12 +2190,12 @@
   cc: "Мадхья 9"
   event: ev-saptatala-deliverance
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "310", to: "315"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "310", to: "315"}
 
 - id: cc-1117
   source: cc
   ref: "Мадхья 9.316–318"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 40
   title: "Пампа, Панчавати, Насик (Трьямбака), Брахма-гири, Кушаварта, Сапта-Годавари — и снова Видьянагара"
@@ -2209,12 +2209,12 @@
   cc: "Мадхья 9"
   event: ev-panchavati-rama-bhava
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "316", to: "318"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "316", to: "318"}
 
 - id: cc-1118
   source: cc
   ref: "Мадхья 9.319–335"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 89.5
   title: "Снова у Рамананды: Господь передаёт ему «Брахма-самхиту» и «Кришна-карнамриту» — «они подтверждают всё, что ты говорил»; неделя бесед; Рамананда отпросился у царя и вскоре придёт в Пури"
@@ -2227,12 +2227,12 @@
   cc: "Мадхья 9"
   event: ev-return-visit-ramananda
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "319", to: "335"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "319", to: "335"}
 
 - id: cc-1119
   source: cc
   ref: "Мадхья 9.336–357"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: P11
   order: 90
   title: "Возвращение в Пури: вайшнавы на пути; из Алаланатхи посылает Кришнадаса; встреча с Нитьянандой и спутниками, Сарвабхаумой на берегу океана; даршан Джаганнатхи; ночь у Сарвабхаумы — «нигде не встретил вайшнава, равного тебе, лишь Рамананда»"
@@ -2245,12 +2245,12 @@
   cc: "Мадхья 9"
   event: ev-return-from-south
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "336", to: "357"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "336", to: "357"}
 
 - id: cc-1120
   source: cc
   ref: "Мадхья 9.358–365"
-  file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md"
+  file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md"
   period: PX
   order: 996.5
   title: "Паломничество описано кратко; плод слушания; в Кали единственная дхарма — следовать вайшнавам и вайшнавским писаниям; колофон"
@@ -2262,4 +2262,4 @@
   themes: [author]
   cc: "Мадхья 9"
   verses:
-    - {file: "chaitanya-charitamrita/ed/vcd/CC_Madhya09.md", from: "358", to: "365"}
+    - {file: "chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md", from: "358", to: "365"}
