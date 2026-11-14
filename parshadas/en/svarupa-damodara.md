@@ -127,8 +127,10 @@ in meditation, Svarupa in kirtana, and “these two sannyasis were like the arms
 10.49). <!-- F115 Q34 -->
 
 Krishnadasa Kaviraja, listing the branches of Chaitanya's tree in Puri, names the same two first: “two were foremost, the Lord’s very heart: Paramananda Puri and Svarupa Damodara” (CC, Adi 10.124–126). When Sarvabhauma invited the
-Lord and ten sannyasis for a whole month, he gave the Lord five days, Paramananda Puri five, Svarupa four and the
-rest two each, and asked the Lord to come alone or with Svarupa. In the list of these ten sannyasi companions —
+Lord and ten sannyasis for a whole month, he gave the Lord five days, Paramananda Puri five and the rest two
+each, while Svarupa, his close friend, came both with the Lord and on his own (CC, Madhya 15.194–196; the “four days”
+the biographies give Svarupa are inferred from the count of the month); and he asked the Lord to come alone or with
+Svarupa. In the list of these ten sannyasi companions —
 Paramananda Puri, Svarupa, Brahmananda Puri, Brahmananda Bharati, Vishnu Puri, Keshava Puri, Krishnananda Puri,
 Nrisimha Tirtha, Sukhananda Puri and Satyananda Bharati — he is named second. <!-- F112 F124 -->
 

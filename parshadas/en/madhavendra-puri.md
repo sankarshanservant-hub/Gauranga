@@ -396,7 +396,7 @@ His guru, says Srila Bhaktisiddhanta, in order to reveal his glory. <!-- F113 F1
 
 Paramananda Puri, a brahmana from Tirhut, likewise received initiation from Madhavendra; the “Chaitanya-bhagavata”
 (Antya 3.178) calls him a dear disciple of Madhava Puri, full of the taste of divine love. For this reason Mahaprabhu
-honoured him as a dear elder, and on first seeing him exclaimed, “Today My sannyasa is fulfilled — it is as if
+honoured him as a dear elder, and on meeting him in Puri exclaimed, “Today My sannyasa is fulfilled — it is as if
 Madhavendra himself has appeared to Me!” (CB, Antya 3.168–175). Later, at the devotees' request, it was he who
 interceded with the Lord on behalf of Chhota Haridasa. In the tree of devotion of the “Charitamrita” he is the middle
 one of the nine roots; the other roots are Keshava Bharati, Brahmananda Puri, Brahmananda Bharati, Vishnu Puri,
