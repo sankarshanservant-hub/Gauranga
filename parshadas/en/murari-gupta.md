@@ -40,7 +40,7 @@ him one more name — “Ramadasa,” of which we shall speak below — and late
 
 ## Origin
 Murari came from Shrihatta (Sylhet), the land from which many of the Lord's associates came. Vrindavana Dasa, having
-named Shrivasa Pandita, Shrirama Pandita and Chandrashekhara, continues:
+named Shrivasa Pandita, Sri Rama Pandita and Chandrashekhara, continues:
 
 “All these Vaishnavas appeared in Shrihatta. A native of Shrihatta, too, was Sri Murari Gupta, who could heal the soul
 of the disease of worldliness.” (CB, Adi 2.35)
@@ -180,7 +180,7 @@ Saying this, he burst into tears and bowed before the Lord (3.34); his life, he 
 Murari's own poem, in Lochana Dasa and in Karnapura, he answers the Lord in the words of the “Bhagavad-gita”: “You
 alone know Yourself by Yourself, O Supreme Person” (10.15). <!-- F36 -->
 
-His prayer satisfied the Lord, and He, angry at the Vedas, said:
+His prayer satisfied the Lord, and in anger He spoke of the Vedas — of how wrongly their words are understood:
 
 “‘The Vedas slander Me, claiming that I have no hands, feet, mouth or eyes. In Kashi lives a rogue named Prakashananda
 who hacks My body to pieces. He explains the Vedas, yet rejects My eternal form. Though leprosy has already covered his
@@ -873,7 +873,7 @@ collection); of Nityananda bringing Shachi the news of the sannyasa (one variant
 people of Nadia going to Shantipura, and of Shachi in Shantipura. <!-- F31 -->
 
 ## Last Years and Departure
-Murari outlived his Lord. While Mahaprabhu was still present, when Nityananda married, Shrivasa, Advaita,
+Murari remained in the manifest world even after the Lord's disappearance. While Mahaprabhu was still present, when Nityananda married, Shrivasa, Advaita,
 Chandrashekhara, Murari Gupta and others gathered for the wedding and sang sankirtana; Jayananda, listing the wonders of
 Nityananda's associates, names also “Murari Gupta as Hanuman.” When Jagadananda came from Puri to Navadvipa with news of
 the Lord, Murari Gupta and Vasudeva Datta joyfully kept him with them and would not let him go (CC, Antya 12.98)[^17].
