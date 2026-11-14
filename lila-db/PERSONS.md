@@ -747,3 +747,5 @@
 | @lala-dasa | Лал Дас (Лаладас Бабаджи) | Lal Dasa (Laladasa Babaji) | автор бенгальской «Бхакта-малы» (XIX в.?), отождествившей @prakashananda-sarasvati с @prabodhananda-sarasvati (B 607, 768) |
 | @nabhadasa | Набхадас (Набхаджи) | Nabhadasa (Nabhaji) | рамананди, автор хинди «Бхактамала» (ок. 1600); чхаппай 182 называет Прабодхананду (`vallabha/ru/03.md`; B 768) |
 | @gaura-gopala-kanchrapara | Гаура-Гопала — Божество Шивананды Сены (Канчрапара) | Gaura-Gopala, the Deity of Shivananda Sena (Kanchrapara) | установлен Шиванандой Сеной; ныне в храме Шри Кришна-раи в Канчрапаре (B 779; T 76); не путать с Гаура-Гопалой Джагадиши в #jashra |
+| @paramananda-mahapatra | Парамананда Махапатра | Paramananda Mahapatra | ориец, спутник Господа в Пури (ЧЧ Ади 10.135, Мадхья 10.46; ЧБ Антья 3.184, 5.212); не путать с @paramananda-puri |
+| @kamalakanta-vipra | Камалаканта (брахман, спутник Парамананды Пури) | Kamalakanta (the brahmana companion of Paramananda Puri) | преданный-брахман, с которым Парамананда Пури пришёл из Гауды в Пури (ЧЧ Мадхья 10.94); отождествление с @kamalananda (ЧЧ Ади 10.149; Карнапура 13.121) и @kamalakanta-vishvasa не установлено |
