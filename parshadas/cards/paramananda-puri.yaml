@@ -40,8 +40,8 @@ relations:
   - {type: companion, who: "@svarupa-damodara", facts: [F24, F30, F32, F33, F43, F52, F62, F66], events: [ev-svarupa-paramananda-arrive, ev-gadadhara-reads-bhagavata-puri], note: "Двое главных санньяси-спутников, «две руки» Господа (ЧБ Антья 10.46–49); Сварупа по приходе поклонился его стопам (ЧЧ Мадхья 10.128)."}
   - {type: companion, who: "@brahmananda-bharati", facts: [F49, F50, F56, F58], events: [ev-ratha-yatra-gundicha, ev-chataka-parvata-govardhana], note: "Вместе — старшие санньяси при Господе: сандал и гирлянды на Ратха-ятре, Чатака-парвата, трапезы."}
   - {type: host, who: "@shachi", facts: [F21, F25], events: [ev-svarupa-paramananda-arrive], note: "Гостил у Шачи в Майяпуре и ел из её рук (ЧЧ Мадхья 10.92; B 791 по скану; T 129); по Карнапуре — почтила его, как родного сына (13.118). Поправка к @shachi F58."}
-  - {type: companion, who: "@kamalakanta-vipra", facts: [F22], note: "С этим брахманом пришёл из Гауды в Пури (ЧЧ Мадхья 10.94)."}
-  - {type: companion, who: "@kamalananda", facts: [F25, F68], note: "По Карнапуре (13.121–123) и «Гаура-кришнодае» (11.28) пришёл в Пури с Камаланандой; ЧЧ — с Камалакантой."}
+  - {type: companion, who: "@kamalakanta-vipra", facts: [F22, F74], note: "С этим брахманом пришёл из Гауды в Пури (ЧЧ Мадхья 10.94); по «Анубхашье» к ЧЧ Ади 12 — житель Навадвипы, по-видимому, он же Камалананда (Ади 10.149)."}
+  - {type: companion, who: "@kamalananda", facts: [F25, F68, F74], note: "По Карнапуре (13.121–123) и «Гаура-кришнодае» (11.28) пришёл в Пури с Камаланандой; ЧЧ — с Камалакантой (по «Анубхашье» — по-видимому, одно лицо)."}
   - {type: other, who: "@chandrashekhara-acharya", facts: [F25], note: "По Карнапуре (13.119) — принял подаяние у Ачарьяратны в Навадвипе."}
   - {type: companion, who: "@gadadhara-pandita", facts: [F25], note: "По Карнапуре (13.123) — пришёл в Пури вместе с Гададхарой и Джагаданандой (≠ ЧЧ, ⚠7)."}
   - {type: other, who: "@jagadananda-pandita", facts: [F25, F53], events: [ev-ramachandra-puri-criticism], note: "По Карнапуре — спутник по пути в Пури; Джагадананда пригласил его с Господом и Рамачандрой Пури (ЧЧ Антья 8.8)."}
