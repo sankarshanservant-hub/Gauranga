@@ -129,6 +129,273 @@ thousand suns’ — so my father said as he danced.” (“Gaura-ganoddesha-dip
 And where he speaks of Saranga Thakura, the son also passes on his father’s judgement: Saranga was Nandimukhi in Vraja;
 “some consider him Prahlada, but my father does not accept this” (“Gaura-ganoddesha-dipika” 172). <!-- F24 F25 Q15 -->
 
+## “From the Very Beginning I Have Known Your Love”
+When the news reached Bengal that the Lord had returned to Puri from His tour of the South, Shivananda was among the
+devotees of Gauda who rejoiced beyond words (CC, Madhya 10.84). Soon they all set out for Nilachala. Murari Gupta names
+among those going “Sri Shivananda Sena with his sons and wife” (4.17.6). And Kavi Karnapura in the
+“Chaitanya-charita-mahakavya” relates that his father came together with Murari Gupta and then saw the Lord for the
+first time — “like a heap of his own good fortune made visible” (13.127). The Lord, His heart softened with compassion,
+again and again touched his head with the great toe of His foot and said: “Why, I know you” (13.128). <!-- F21 F19 -->
+
+King Prataparudra was then watching the Bengali Vaishnavas arrive from the roof of his palace, and Gopinatha Acharya
+named them for him one by one: “This is Hari Bhatta, and this is Nrisimhananda. And these are Vasudeva Datta and
+Shivananda Sena.” (CC, Madhya 11.87) Meeting the devotees, the Lord had a kind word for each, and for Shivananda a
+special one:
+
+“Then Sri Chaitanya said to Shivananda: ‘From the very beginning I have known your deep love for Me.’ Hearing this,
+Shivananda Sena was overwhelmed with divine love and fell flat before the Lord. Then he recited this verse: ‘O Lord,
+having lost count of time, I was sinking in the fathomless, boundless ocean of material existence, and now at last I
+have reached the shore — I have found You, my Deity. And in me You have at last found one who needs Your mercy more than
+any other.’” (CC, Madhya 11.149–151)
+
+The verse with which Shivananda answered comes from Yamunacharya’s “Stotra-ratna” (21). Kavi Karnapura describes the
+same scene in the “Chaitanya-chandrodaya”: “Shivananda! I know that you are very attached to Me,” says the Lord, and
+Shivananda answers with the same words of Yamunacharya (8.40–41). <!-- F19 -->
+
+## Every Year to Nilachala
+Taking leave of the Bengali devotees, the Lord wished to see them every year at the Ratha-yatra, and He Himself
+entrusted Shivananda with leading them and caring for them on the way:
+
+“Come every year with all My devotees for the festival of cleaning the Gundicha temple. Please, take care of them too
+on the way.” (CC, Madhya 15.97)
+
+From then on this became the service of his whole life. Every spring the devotees of Gauda, headed by Advaita, set out
+for Puri, and Shivananda took everything upon himself — the costs of the road, food, lodging (CC, Madhya 1.138–139). He
+knew that this was what the Lord desired, and he did it not as an organizer of pilgrimages but as a servant carrying
+out His will. Vrindavana Dasa writes:
+
+“In accordance with the Lord’s instructions they came every year to celebrate the Ratha-yatra… Mukunda Datta too came,
+the singer of Lord Krishna. Shivananda Sena and others brought their families with them.” (CB, Antya 8.5, 15)
+<!-- F27 F28 Q2 -->
+
+Krishnadasa Kaviraja describes how Shivananda led the pilgrims:
+
+“Shivananda Sena gladly took upon himself the expenses and the care of all the pilgrims. He led everyone, knowing all
+the roads of Orissa perfectly, and at the halts he provided the devotees with shelter and all they needed.” (CC, Madhya
+16.19–20)
+
+On the roads and river crossings of Orissa a levy was taken from travellers, and Shivananda settled it himself for
+everyone; usually, having paid for each, he let them all go on ahead and crossed the toll-post last (CC, Antya
+12.15–17). Kavi Karnapura in the “Chaitanya-chandrodaya” puts these words into the mouth of a wayfarer who wants to join
+the pilgrims: they are looked after by one Shivananda, an associate of the Lord; he removes all the obstacles that the
+guards of the crossings put in the way, those thorns on the road, and takes everyone along with him, even chandalas
+(Act 10). <!-- F29 Q3 F33 -->
+
+With him went the people of Khanda headed by Narahari (CC, Madhya 1.132), Vasu Ghosha with his brothers, and many
+others; and in the year when the Younger Haridasa left this world the Bengalis came to Puri, “taking all the devotees
+with them,” in Shivananda’s care (CC, Antya 2.162). Rupa Gosvami, delayed in Bengal by the death of his brother Anupama,
+no longer found on the road the Vaishnavas of Gauda headed by Shivananda (CC, Antya 1.37–39). <!-- F30 -->
+
+He fixed the day of departure himself, but waited for Advaita’s word. In the “Chaitanya-chandrodaya” Advaita sends His
+servant Gandharva to him: “Tell Shivananda to fix the day of departure,” and Shivananda replies that he himself is
+awaiting this command (Act 10). In the “Advaita-prakasha” a messenger from Shivananda announces to Advaita that he will
+lead Gaura’s associates to the chariot festival (18.15–18). According to the “Chaitanya-charita-mahakavya,” Shrivasa,
+Vasudeva and Shivananda fixed the day of departure together; the Lord, meeting them in Puri, spoke joyfully with
+Vasudeva and Shivananda, and Shivananda bowed to Him after Advaita and Nityananda. He and Vasudeva brought the Lord two
+vessels of water — one for Jagannatha’s bathing festival, the other for Himself (canto 14). <!-- F33 F21 -->
+
+In the third year the wives of the Vaishnavas also set out, carrying from home the dishes the Lord loved:
+
+“With Shrivasa Pandita went his wife Malini. Shivananda Sena’s wife also set out for Nilachala with her husband.
+Shivananda Sena’s son, named Chaitanya Dasa, went joyfully with his parents to see Mahaprabhu.” (CC, Madhya 16.22–23)
+
+“Shivananda Sena looked after all the devotees. He paid all the expenses and tolls and found the best places to stay.
+Thus Shivananda Sena went in bliss to meet the Lord, caring for all the devotees and providing them with food.” (CC,
+Madhya 16.26–27) <!-- F31 Q4 -->
+
+One scene of such an arrival Kavi Karnapura recorded in the “Chaitanya-chandrodaya” as an eyewitness — he was the very
+son to whom his father spoke. Advaita, seeing the Lord from afar, dances and falls to the ground, and Shivananda tells
+his son, so that all can hear: “Look, look, there He is, there!” — and in verses he describes Gauranga, whose arms are
+like golden bolts, and the embrace of Advaita and the Lord in which no one can tell which is Advaita and which Chaitanya
+(10.7–9). <!-- F21 -->
+
+## Vasudeva Datta’s Sarakhela
+Shivananda’s closest friend and neighbour was Vasudeva Datta, generous beyond measure: whatever he earned he gave away
+the same day. The Lord, caring for his household, gave Shivananda a special charge:
+
+“Sri Chaitanya respectfully said to Shivananda Sena: ‘Please look after Vasudeva Datta. He is very generous. As soon as
+he earns anything, he spends it all at once. He is a family man, and therefore he must keep some money in reserve. It is
+hard to maintain a family without savings for unforeseen needs. Take upon yourself the care of his house and his money
+affairs. Do whatever is needed for this.’” (CC, Madhya 15.93–96)
+
+In the Bengali text the Lord calls Shivananda Vasudeva’s *sarakhela* — the steward, the guardian of his household. In
+this charge the biographies see the Lord’s instruction to all householder Vaishnavas: a family given to the service of
+God is also part of their duty, and even the most generous devotion must not leave it without support. And for
+Shivananda it was one more service by the direct word of the Lord. <!-- F32 Q5 F15 -->
+
+## The Lord in Kumarahatta
+In 1514, going from Puri to Vrindavana by way of Bengal, the Lord visited Kumarahatta too. Vrindavana Dasa writes:
+
+“The Lord stayed a few days in Advaita’s house, and then went to Kumarahatta, to the house of Shrivasa Pandita.” (CB,
+Antya 5.5)
+
+“At that moment Vasudeva Datta came, accompanied by Shivananda Sena and other devotees.” (CB, Antya 5.18)
+
+Jayananda tells the same in his “Chaitanya-mangala”: “Shivananda Sena and Vasudeva Datta came there” (Vijaya-khanda,
+5.26). And according to the “Charitamrita,” the Lord not only received them at Shrivasa’s but came to them Himself:
+
+“Then He visited Shivananda Sena and Vasudeva Datta.” (CC, Madhya 16.206) <!-- F17 Q14 F18 -->
+
+Kavi Karnapura in the “Chaitanya-chandrodaya” describes this visit in detail, and Jagadananda appears again in the
+story. As soon as the Lord stepped ashore, Jagadananda, who had long lived in Shivananda’s house and loved it, slipped
+away ahead and with special art decorated the whole way to it with banana trunks, full pitchers, buds and rows of lamps.
+At the end of the night Shivananda led the Lord along the river. Vasudeva begged the Lord to visit Shivananda’s house
+first; the Lord entered his household shrine, Jagadananda washed His feet, sprinkled the roof with that water and gave
+it out to the household, and then the Lord looked in on Vasudeva for a moment (Act 9). In the
+“Chaitanya-charita-mahakavya” the Lord at night secretly slips away by boat from the crowd that pressed upon Him and
+comes to Vasudeva’s house, and then to Shivananda’s (20.11–19).[^4] <!-- F18 -->
+
+## Held at the Toll-Post
+Shivananda’s service was not always easy. The “Charitamrita” mentions briefly that once a toll collector detained him
+(Antya 1.20). Kavi Karnapura in the “Chaitanya-chandrodaya” tells of it at length. In the region of Remuna, while the
+great king Gajapati was away on campaign in the south, one of his officials, the head of the guards of the crossings, was
+doing as he pleased. He counted all the pilgrims head by head, demanded the toll for past years as well, and to extract it
+put Shivananda in wooden stocks. At night the official sent for him; Shivananda, offering praise to the Lord’s feet,
+went. “Whose man are you?” asked the official. “Sri Krishna Chaitanya’s.” — “You are Chaitanya’s, and I am Jagannatha’s.
+Who is greater — Jagannatha or Chaitanya?” — “For me Krishna Chaitanya is greater.” And then the official confessed: in a
+dream Sri Krishna Chaitanya had told him to release “His man” at once. He begged forgiveness and let them all go without
+any toll (Act 10). So the Lord Himself protected the one who for the sake of His devotees bore hardship and humiliation.
+<!-- F34 -->
+
+## The Dog
+The best-known story about Shivananda is the story of the dog. On the way to Puri a stray dog attached itself to the
+pilgrims, and Shivananda took it under his care and fed it himself (CC, Antya 1.17). When an Oriya boatman at a
+crossing would not let it into the boat, Shivananda paid ten panas of cowries for its passage — no small sum. Once, when
+he had been detained at a toll-post, the servant forgot to give the dog its rice, and it was lost. Shivananda was
+grieved, sent ten men to look for it, and, when they did not find it, did not eat that evening himself (Antya
+1.18–24). <!-- F35 F36 F37 -->
+
+Anxious, they all reached Nilachala, met the Lord, saw Jagannatha, took prasada and went to their lodgings (Antya
+1.25–27). And next morning, coming to the Lord, they were astonished:
+
+“Coming there, they saw that the very dog that had been lost was sitting right in front of the Lord. Sri Chaitanya was
+feeding it the pulp of a green coconut and saying with a smile: ‘Chant the names Rama, Krishna and Hari!’ Seeing the
+dog eat the coconut and say ‘Krishna, Krishna’ again and again, everyone was amazed to the depths of their hearts.”
+(CC, Antya 1.28–30)[^5] <!-- F38 F39 -->
+
+“Seeing this, Shivananda humbly fell flat before the dog, begging its forgiveness. From that day no one saw the dog
+again, for it had obtained a spiritual body and gone to Vaikuntha. Such are the divine deeds of the Son of Mother Shachi.
+He delivered even a dog, making it chant the name of Krishna.” (CC, Antya 1.31–33) <!-- F40 F41 Q6 -->
+
+Krishnadasa Kaviraja says the same at the beginning of the “Charitamrita”: “With Shivananda Sena came a supremely
+fortunate dog, which attained liberation by seeing the lotus feet of Sri Chaitanya.” (Madhya 1.140) <!-- F41 -->
+
+Shivananda’s bow is not the worship of an animal. It is the humility of a Vaishnava who saw the Lord’s mercy upon a
+dumb creature and felt himself at fault before one whom the Lord had so exalted. And this mercy did not come to the dog
+by chance: it came through the service of a Vaishnava. The “Advaita-prakasha” relates that the dog lived in Shivananda’s
+house and was purified by eating the remnants of the Vaishnavas’ food; with him it went to Purushottama and, chanting
+“Hare Krishna,” obtained a perfect body. The author glorifies here the power of the Vaishnavas’ remnants and of the dust
+of their feet: eating a particle of their prasada, one obtains devotion to Krishna (18.113–124). In the
+“Chaitanya-chandrodaya” Shivananda gave the dog pure food at every halt and paid separately for its passage; it was lost
+two thirds of the way, and found on the seashore beside the Lord, who was tossing it bits of coconut — Jagannatha’s
+prasada — and saying: “Say: Krishna!” In Karnapura’s words, it seems that in that very body it took on another form and
+reached another world (Act 10). And the “Gaura-krishnodaya” says that the dog came to the Lord’s feet, loudly uttered
+the name of Hari and shone (16.48). Its liberation is not a “merging,” but departure to Vaikuntha in a spiritual body,
+by the mercy of the Lord given to it through His devotee. <!-- F42 -->
+
+## Three Kinds of Mercy
+Krishnadasa Kaviraja, naming Shivananda as a branch of the tree of Sri Chaitanya, adds that he tasted the Lord’s mercy
+in all its kinds:
+
+“The Lord shows His mercy to the devotees in three ways: by being with them in person (sakshat), by entering someone
+with His power (avesha), and by appearing where He is not present in person (avirbhava). In His direct presence all the
+devotees see Him alike; in the body of Nakula Brahmachari there was the Lord’s avesha. His earlier name was Pradyumna
+Brahmachari; afterwards the Lord gave him the name Nrisimhananda. In him Sri Chaitanya manifested Himself (avirbhava).
+The Lord has many such wonderful, unearthly ways. Shivananda Sena tasted all these rasas.” (CC, Adi 10.56–60)
+
+In person, *sakshat*, he saw the Lord year after year in Puri. Of the avesha and the avirbhava Krishnadasa Kaviraja tells
+in the second chapter of the Antya-lila.[^6] <!-- F48 -->
+
+## Nakula Brahmachari
+In Ambika, a village by the town of Kalna in the present Burdwan district, lived the great Vaishnava Nakula Brahmachari.
+The country was then divided into *muluks* — districts where the revenue offices of the Muslim rulers were seated — and
+Ambika was such a district: the “Charitamrita” calls it Ambuya (Antya 2.16), and the biographies write that the district
+court of Kalna was in the Ambika quarter, now Pyari-ganj. <!-- F43 -->
+
+“And to deliver the people of Bengal, Chaitanya entered the heart of Sri Nakula.” (CC, Antya 2.17)
+
+Nakula laughed and wept, danced and roared as if possessed;[^7] all the signs of ecstasy appeared on his body, his face
+shone with the same light as the Lord’s, and he asked all who came to him to sing the names of Krishna. People flocked to
+him from all over Bengal (Antya 2.18–21). The word “possessed” here is only a comparison: no alien power had seized
+Nakula; the Lord Himself had entered a pure Vaishnava, and this was His *avesha*. <!-- F44 -->
+
+Hearing of this, Shivananda came to Ambika, but did not at once believe the report. To test Nakula, he stopped at a
+distance and resolved: if he himself calls me and names the mantra with which I worship the Lord, then Sri Chaitanya is
+in him (Antya 2.22–25). Kavi Karnapura in the “Chaitanya-chandrodaya” adds that at first Shivananda thought of not going
+at all: “I have seen the Lord Himself face to face — what is this man to me?” (Act 9). The crowd was countless, people
+came and went, and Nakula suddenly said: “Shivananda Sena is standing somewhere here; let him be found and called.”
+Shivananda was found; he came up, bowed and sat down (Antya 2.26–29). <!-- F45 F46 F47 -->
+
+“Nakula said: ‘You still doubt. But listen to me attentively. I know that you chant the four-syllable Gaura-Gopala
+mantra. Cleanse your heart of all doubt.’” (CC, Antya 2.30–31)
+
+Shivananda became convinced that the Lord Himself was present in Nakula, bowed to him, and began to serve him with
+heartfelt devotion (Antya 2.32). In the “Chaitanya-chandrodaya” Nakula says: “Your chosen mantra has four syllables; its
+deity is Gaura-Gopala.” And the “Gaura-krishnodaya” relates that the brahmachari exposed the pride with which Shivananda
+had come to test him, named the Gaura-Gopala mantra, and at his request set out the order of worship of Gaura for
+householders — the name, the mantra, the Gaura-gayatri, nyasa and meditation (18.20–27). <!-- F46 Q7 F10 F47 -->
+
+Shivananda’s doubt does not diminish his faith. It is part of the lila: thus the Lord who had entered Nakula revealed
+Himself both to Shivananda and to all who hear this story — and Shivananda himself, in Krishnadasa Kaviraja’s words,
+thereby tasted yet another kind of His mercy. <!-- F48 -->
+
+## Nrisimhananda and the Three Offerings
+Once Shivananda’s nephew Shrikanta came alone to Puri. The Lord in His mercy kept him with Him for two months, and,
+sending him back to Bengal, told him to say that no one should come that year: He would come to Gauda Himself and meet
+Advaita and all the devotees.
+
+“Gladden Shivananda Sena with the news that in the winter month of Pausha I shall come to his house as an unexpected
+guest. Jagadananda also lives with him, and he will cook for Me.” (CC, Antya 2.42–43)[^8] <!-- F49 -->
+
+The devotees rejoiced. Advaita, who was already setting out, stayed at home, while Shivananda and Jagadananda prepared
+everything and all through Pausha waited every day for the Lord until evening (Antya 2.44–46). According to the
+“Chaitanya-chandrodaya,” Shivananda laid in what the Lord especially loved: vastuka greens, banana pith, ears of grain.
+But the month passed, the Lord did not come, and both grew sad. Karnapura explains why: Ramananda Raya had come to Puri
+from the Godavari and begged the Lord to stay (Act 9). <!-- F50 -->
+
+Then Pradyumna Brahmachari, to whom the Lord had given the name Nrisimhananda, came to them. Learning the cause of their
+sadness, he promised to bring the Lord to them in three days, and they, knowing his power and his love, believed him
+without a shadow of doubt (Antya 2.48–53). He spent two days in meditation and said to Shivananda: “I have brought Sri
+Chaitanya to Panihati; tomorrow at noon He will come to your house” — and told him to make ready provisions and utensils
+(Antya 2.54–58).[^9] <!-- F51 F52 -->
+
+At dawn Nrisimhananda himself cooked many dishes and divided them into three offerings — for Jagannatha, for Sri
+Chaitanya and for his own chosen Deity, Nrisimhadeva. Having offered them, he sat outside and became absorbed in
+meditation — and saw the Lord come, sit down and eat all three offerings, leaving not a crumb. Nrisimhananda was beside
+himself with happiness, but, keeping faith with his own Deity, he lamented on purpose: “You are one with Jagannatha and
+may eat His offering, but why did You eat what was meant for Nrisimhadeva? It seems Nrisimha must fast today!” (Antya
+2.59–66). <!-- F53 -->
+
+He did not lament in earnest: Sri Chaitanya, Nrisimha and Jagannatha are not different in essence (Antya 2.67), and,
+in the words of the biographies, by this lila the Lord showed that He is one with Jagannatha and Nrisimha. Shivananda
+asked what grieved him, and heard:
+
+“He alone has eaten the offerings for the three Deities, leaving Lord Jagannatha and Lord Nrisimhadeva hungry.” (CC,
+Antya 2.71) <!-- F54 Q8 -->
+
+Shivananda wondered: was it true, or was Nrisimhananda speaking so in a transport of love? But he did not argue — he
+brought provisions again, and Nrisimhananda cooked and offered food to Nrisimhadeva once more (Antya 2.72–74). A year
+later Shivananda, as usual, brought the Bengali devotees to Puri, and there the Lord praised Nrisimhananda before
+everyone:
+
+“‘Last winter Nrisimhananda Brahmachari fed Me such wonderful sweets and vegetable dishes as I had never tasted
+before.’” (CC, Antya 2.77)
+
+All were amazed, and Shivananda’s doubt vanished of itself (Antya 2.78). The biographies see in this one more example of
+the Lord’s mercy to Shivananda: He Himself, before everyone, answered the question that Shivananda carried in his
+heart. <!-- F55 Q9 I5 -->
+
+In the same chapter Krishnadasa Kaviraja says that the Lord constantly manifested Himself (*avirbhava*) in four places
+— in Shachi’s household shrine, where Nityananda dances, at the kirtana at Shrivasa’s, and in the house of Raghava
+Pandita (Antya 2.34–35, 79–80) — and he concludes the story of Shivananda thus:
+
+“Who can describe the greatness of Shivananda Sena’s love? Captivated by his pure love, Sri Chaitanya came to him again
+and again.” (CC, Antya 2.82) <!-- F48 F20 -->
+
+The Lord appearing in Nakula’s body, before Nrisimhananda and in four homes of Bengal is not “possession,” nor is it
+the devotee’s equality with God: it is the inconceivable power of the Lord, by which He, conquered by love, comes to His
+devotees.
+
 <!-- ДАЛЬШЕ -->
 
 [^1]: One of the biographies calls “Kumarahatta and Kanchrapara” the homes of these two associates, Shrivasa and
@@ -145,3 +412,23 @@ And where he speaks of Saranga Thakura, the son also passes on his father’s ju
     yet in the “Charitamrita” the Lord tells him: “From the very beginning I have known your deep love for Me” (Madhya
     11.149). The padas that Majumdar considers to have been composed in Navadvipa and Shantipura imply that Shivananda
     knew the Lord while still in Bengal. We do not undertake to reconcile these testimonies.
+[^4]: The sources differ as to whose house the Lord came to first: according to the “Chaitanya-chandrodaya,” to
+    Shivananda’s and then to Vasudeva’s; according to the “Chaitanya-charita-mahakavya,” first to Vasudeva’s, then to
+    Shivananda’s; the “Charitamrita” names both without stressing the order (Madhya 16.206).
+[^5]: According to the “Charitamrita,” the Lord told the dog to chant “Rama, Krishna, Hari.” The biographies give His
+    words differently — “Krishna, Hari” and “Hare Krishna, Hare Rama”; in the “Chaitanya-chandrodaya” it is “Say:
+    Krishna!”, and in the “Advaita-prakasha” the dog chants “Hare Krishna.” We follow the “Charitamrita.”
+[^6]: Srila Bhaktisiddhanta in the “Anubhashya” on this passage, citing the “Gaura-ganoddesha-dipika” (74), assigns these
+    kinds of mercy the other way round: avirbhava in Nakula Brahmachari, avesha in Pradyumna. We follow the words of the
+    “Charitamrita.”
+[^7]: “As if possessed” is the “Charitamrita’s” own comparison (Antya 2.18); one of the biographies says “as if
+    possessed by a planet,” another “as if under celestial influence.” It is not a matter of possession: the Lord Himself
+    had entered Nakula (Antya 2.17).
+[^8]: One of the biographies writes that the Lord promised “to eat in Jagadananda’s house.” According to the
+    “Charitamrita,” He promised to come to the house of Shivananda, where Jagadananda lives, and Jagadananda would cook
+    for Him (Antya 2.42–43).
+[^9]: According to one of the biographies, Nrisimhananda said that the Lord would come “to Kumarahatta, to Shivananda’s
+    house”; the “Charitamrita” names Panihati and then “your house,” without naming the place (Antya 2.54–55); that
+    Shivananda’s house was in Kumarahatta is known from other passages. In the “Chaitanya-chandrodaya” Nrisimhananda says:
+    “The Lord has been brought to Raghava’s house” (in Panihati). And according to the “Charitamrita” itself, having eaten
+    the offerings, the Lord went to Panihati, to the house of Raghava Pandita (Antya 2.69).
