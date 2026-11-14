@@ -20,6 +20,27 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
+def norm(text, lang):
+    """Сквозные замены по всей книге (единообразие имён и терминов): tools/norm-<lang>.tsv, строки «было<TAB>стало<TAB># причина».
+    Замена — по точной подстроке (regex, если «было» начинается с «re:»); бенгальские и транслитерационные строки не трогаются."""
+    f = ROOT / f'tools/norm-{lang}.tsv'
+    if not f.exists(): return text
+    rules = []
+    for l in f.read_text(encoding='utf-8').split('\n'):
+        if not l.strip() or l.startswith('#'): continue
+        a, b = (l.split('\t') + [''])[:2]
+        rules.append((a, b))
+    TLM = '\u0301\u0303\u0304\u0307\u0310\u0323'
+    out = []
+    for line in text.split('\n'):
+        keep = line.startswith(('(', '[^', '**')) if lang == 'en' else not (any(c in TLM for c in line) and not line.startswith(('(', '[^')))
+        if any('\u0980' <= c <= '\u09ff' for c in line) or not keep:   # EN: только перевод, сноски, заголовок; RU: всё, кроме транслитерации
+            out.append(line); continue
+        for a, b in rules:
+            line = re.sub(a[3:], b, line) if a.startswith('re:') else line.replace(a, b)
+        out.append(line)
+    return '\n'.join(out)
+
 def parse_ed(path):
     """→ шапка (строки), список блоков {num, bn:[...], pairs:[(tr,wbw)], text}"""
     lines = path.read_text(encoding='utf-8').split('\n')
@@ -111,21 +132,23 @@ def build(ch, check=False):
         if k not in nums:
             raise SystemExit(f'нет блока {k}')
     # RU
-    out = [l for l in head if l.strip() and l.strip() != '(перевод Вриндавана Чандры даса)']
+    style = any(l.strip().startswith('(перевод выполнен в стиле') for l in head)   # Антья 16–19: у ВЧД нет, перевод наш
+    out = [l for l in head if l.strip() and l.strip() != '(перевод Вриндавана Чандры даса)' and not l.strip().startswith('(перевод выполнен в стиле')]
     if '0' in ru and ru['0']['tr']:   # заголовок главы — по колофону издания
         tl = [k for k, l in enumerate(out) if l.strip().startswith('**')]
         if tl: out[tl[0]] = f"**{ru['0']['tr']}**  "
         else: out.append(f"**{ru['0']['tr']}**  ")
-    out += ['(перевод Вриндавана Чандры даса; выверка по изд. Гаудия Матха и «Анубхашье», 2026 — проект)', '']
+    out += [('(перевод выполнен в стиле Вриндавана Чандры даса, 2026; выверка по изданию Гаудия Матха и «Анубхашье»)' if style
+             else '(перевод Вриндавана Чандры даса; выверка по изданию Гаудия Матха и «Анубхашье», 2026)'), '']
     fnl = []; n = 1
-    oldnotes = {re.match(r'\[\^(\d+)\]', x).group(1): x.split(':', 1)[1].strip() for x in notes}
+    oldnotes = {re.match(r'\[\^([\d–-]+)\]', x).group(1): x.split(':', 1)[1].strip() for x in notes}
     for b in blocks:
         e = ru.get(b['num'], {'w': [], 'wn': {}, 'tn': {}, 'bn': {}, 'fn': [], 'tr': None})
         b['bn'] = [e['bn'].get(i + 1, x) for i, x in enumerate(b['bn'])]
         b['pairs'] = [(e['tn'].get(i + 1, t), w) for i, (t, w) in enumerate(b['pairs'])]
-        text = e['tr'] if e['tr'] else re.sub(r'\[\^\d+\]', '', b['text'])
+        text = e['tr'] if e['tr'] else re.sub(r'\[\^[\d–-]+\]', '', b['text'])
         fns = []
-        for m in re.findall(r'\[\^(\d+)\]', b['text']):
+        for m in re.findall(r'\[\^([\d–-]+)\]', b['text']):
             if not e['tr']: fns.append(oldnotes[m])
         fns += e['fn']
         pairs = [(t, e['wn'].get(i + 1, w)) for i, (t, w) in enumerate(b['pairs'])]
@@ -136,7 +159,7 @@ def build(ch, check=False):
         out += ['---', ''] + [x + '\n' for x in fnl]
     if not check:
         p = ROOT / f'ed/vcd-rev/CC_{ch}.md'; p.parent.mkdir(exist_ok=True)
-        p.write_text('\n'.join(out).rstrip() + '\n', encoding='utf-8')
+        p.write_text(norm(('\n'.join(out).rstrip() + '\n').replace('Нарайян', 'Нараян'), 'ru'), encoding='utf-8')   # «Нараяна» — решение пользователя 2026-10-30
     # EN
     lila = {'Adi': 'Ādi-līlā', 'Madhya': 'Madhya-līlā', 'Antya': 'Antya-līlā'}[re.match(r'[A-Za-z]+', ch).group()]
     num = int(re.search(r'\d+', ch).group())
@@ -144,7 +167,7 @@ def build(ch, check=False):
     out = ['“Śrī Caitanya-caritāmṛta”  ', f'{lila}  ', f'Chapter {num}  ']
     if '0' in en and en['0']['tr']:
         out.append(f"**{en['0']['tr']}**  ")
-    out += ['(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)', '']
+    out += ['(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)', '']
     fnl = []; n = 1; missing = []
     for b in blocks:
         e = en.get(b['num'])
@@ -159,7 +182,7 @@ def build(ch, check=False):
         out += ['---', ''] + [x + '\n' for x in fnl]
     if not check and en:
         p = ROOT / f'ed/en-rev/CC_{ch}.md'; p.parent.mkdir(exist_ok=True)
-        p.write_text('\n'.join(out).rstrip() + '\n', encoding='utf-8')
+        p.write_text(norm('\n'.join(out).rstrip() + '\n', 'en'), encoding='utf-8')
     print(f'{ch}: блоков {len(blocks)}; RU правок {len([k for k in ru if ru[k]["tr"] or ru[k]["wn"] or ru[k]["fn"] or ru[k]["bn"] or ru[k]["tn"]])}; '
           f'EN готово {len(blocks) - len(missing)}' + (f'; EN нет: {missing[0]}…{missing[-1]}' if missing else ''))
 

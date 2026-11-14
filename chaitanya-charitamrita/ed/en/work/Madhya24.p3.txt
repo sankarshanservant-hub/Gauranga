@@ -1,0 +1,601 @@
+# CC Madhya 24, stage A, part 3 (verses 235–350); read by build_en.py together with Madhya24.txt
+# Verses 267 (= Madhya 22.142), 303 (= Ādi 7.119), 345 (= Madhya 19.119), 350 (= Ādi 1.110): word-by-word and translation verbatim
+# from ed/en-rev; 349, line 1 = Madhya 8.309. Repeats within the chapter: 293 = 291; 346 = 341.
+
+@235
+Nārada  says  if  living beings  you strike  you  with an arrow
+half-killed  you make  why  not  you take  life
+= Nārada said, “If you shoot living beings with your arrows, why do you leave them half-dead instead of taking their lives?”
+
+@236
+the hunter  says  listen  O gosāñi  Mṛgāri  my  name
+of the father  by the teaching  I  do  such  work
+= The hunter replied, “Listen, gosāñi: my name is Mṛgāri, ‘enemy of the beasts.’ I do this work just as my father taught me.
+
+@237
+half  killed  creature  when  writhes  does
+then  indeed  joy  my  swells  in the heart
+= “When a half-killed creature writhes and thrashes about, the joy in my heart swells.”
+
+@238
+Nārada  says  one thing  I ask  from you
+the hunter  says  deer and others  take  whichever  in your  mind
+= Nārada said, “I ask one thing of you.” The hunter said, “Take a deer or any other animal you like.
+
+@239
+deerskin  you want  if  come  my  to the house
+whatever  you want  that  I will give  among deer and tiger skins
+= “If you want a deerskin, come to my house. I will give you whatever you want — a deerskin or a tiger skin.”
+
+@240
+Nārada  says  this  I  any  not  want
+another  one  gift  I  ask  from you
+= Nārada said, “I want none of these. I ask another gift of you:
+
+@241
+tomorrow  from  you  whichever  deer and others  you will kill
+at once  kill  half-killed  not  make
+= “From tomorrow on, whatever animals you kill, kill them outright; do not leave them half-dead.”
+
+@242
+the hunter  says  what  gift  you asked  of me
+half  killing  what  happens  that  tell  me
+= The hunter said, “What a gift to ask of me! What harm is there in half-killing them? Tell me that.”
+
+@243
+Nārada  says  half  killing  creature  gets  pain
+to creatures  pain  you are giving  yours  will be  such  plight
+= Nārada said, “A half-killed creature suffers pain. You are giving pain to living beings, and the same plight will be yours.
+
+@244
+hunter  you  creatures  you kill  small  offense  your
+torment  giving  you kill  this  sin  boundless
+= “You are a hunter and you kill animals — that is a small offense. But to kill them by torment — that sin is boundless.
+
+@245
+tormenting  you  as many  you killed  creatures
+they  likewise  you  will kill  birth after birth
+= “All the creatures you have tormented to death will kill you in the same way, birth after birth.”
+
+@246
+in the company of Nārada  of the hunter  mind  pure  became
+his  words  hearing  in the mind  fear  arose
+= In Nārada’s company the hunter’s mind became clear, and on hearing his words he grew afraid.
+
+@247
+the hunter  says  childhood  from  this  my  work
+how  will cross over  I  sinful  fallen
+= The hunter said, “This has been my work since childhood. How can I, a sinful and fallen wretch, be delivered?
+
+@248
+this  sin  goes  my  what  by means
+deliverance  do  to me  I fall  your  at the feet
+= “By what means will this sin of mine be removed? Deliver me — I fall at your feet.”
+
+@249
+Nārada  says  if  you hold  my  word
+then  only  to do  I can  your  release
+= Nārada said, “If you accept my word, then I can set you free.”
+
+@250
+the hunter  says  whatever  you say  that  indeed  I will do
+Nārada  says  bow  break  then  only  I will tell
+= The hunter said, “Whatever you say, I will do.” Nārada said, “Break your bow; then I will tell you.”
+
+@251
+the hunter  says  bow  breaking  I will live  how
+Nārada  says  I  food  will give  every day
+= The hunter said, “If I break my bow, how will I live?” Nārada said, “I will give you food every day.”
+
+@252
+bow  breaking  the hunter  his  at the feet  fell
+him  raising  Nārada  instruction  gave
+= The hunter broke his bow and fell at Nārada’s feet. Nārada raised him up and instructed him:
+
+@253
+home  going  to the brāhmaṇas  give  whatever  there is  wealth
+one  one  cloth  wearing  outside  go  two  persons
+= “Go home and give the brāhmaṇas whatever wealth you have. Then leave home, both of you, each wearing a single cloth.
+
+@254
+of a river  on the bank  one  hut  making
+it  in front of  on a raised mound  tulasī  planting
+= “Build a small hut on the bank of a river, and in front of it plant a tulasī on a raised mound.
+
+@255
+tulasī  circumambulation  do  tulasī  service
+constantly  Kṛṣṇa’s  name  do  chanting
+= “Walk around the tulasī and serve her, and chant the name of Kṛṣṇa without cease.
+
+@256
+I  to you  much  food  will send  daily
+that  food  take  as much as  you eat  two persons
+= “I will send you plenty of food every day. Take of it only as much as the two of you eat.”
+
+@257
+then  those  deer and others  three  Nārada  healthy  made
+healthy  becoming  deer and others  three  running  fled
+= Then Nārada healed the three wounded animals, and once healed they ran off and were gone.
+
+@258
+seeing  of the hunter  in the mind  arose  wonder
+home  went  the hunter  to the guru  making  obeisance
+= Seeing this, the hunter was astonished. He bowed to his guru and went home.
+
+@259
+to his destination  Nārada  went  the hunter  home  came
+of Nārada  by the instruction  everything  did
+= Nārada went on his way, and the hunter went home and did everything Nārada had told him.
+
+@260
+in the village  word  went  the hunter  a Vaiṣṇava  became
+of the village  people  all  food  to bring  began
+= Word spread through the village that the hunter had become a Vaiṣṇava, and all the villagers began to bring him food.
+
+@261
+in one day  food  bring  ten or twenty  persons
+daily  that much  he takes  as much as  eat  two  persons
+= In a single day ten or twenty people would bring food, but each day he took only as much as the two of them would eat.
+
+@262
+one day  Nārada  says  listen  to Parvata
+my  one  disciple  there is  let us go  to see
+= One day Nārada said to Parvata, “Listen, I have a disciple. Let us go and see him.”
+
+@263
+then  two  sages  came  that  to the hunter’s place
+far  from  the hunter  obtained  of the guru  sight
+= So the two sages came to the hunter’s place, and the hunter caught sight of his guru from afar.
+
+@264
+hurriedly  running  he comes  path  not  finds
+of the path  ants  here and there  touch  feet
+= He came running in haste, yet he could find no place to step, for here and there the ants on the path were at his feet.
+
+@265
+for prostration  at the place  the ants  seeing
+with the cloth  the place  sweeping  he falls  a rod  becoming
+= Seeing ants where he was to offer his prostration, he swept the place clear with his cloth and then fell flat like a rod.
+
+@266
+Nārada  says  hunter  this  not  is  a wonder
+by devotion to Hari  of violence  free  becomes  the best of saints
+= Nārada said, “Hunter, this is no wonder. Through devotion to Hari the best of saints becomes free of all violence.”
+
+@267
+these  not  indeed  wonderful  O hunter
+your  non-violence and the other  virtues
+in devotion to Hari  engaged  who
+not  they  are  causing pain to others
+= “O hunter, it is no wonder that you have non-violence and these other virtues: those who are engaged in devotion to Hari never cause pain to others.” (Skanda-purāṇa)
+
+@268
+then  that  hunter  the two  into the courtyard  brought
+kuśa seats  bringing  the two  with devotion  seated
+= Then the hunter brought the two sages into his courtyard, fetched seats of *kuśa* grass and reverently seated them.
+
+@269
+water  bringing  with devotion  of the two  the feet  washed
+that  water  wife and husband  drinking  on the head  placed
+= He brought water and reverently washed the feet of both, and he and his wife drank that water and placed it on their heads.
+
+@270
+trembling  horripilation  tears  arose  Kṛṣṇa’s  name  singing
+arms raised  dance  he does  cloth  waving
+= As he sang the name of Kṛṣṇa, he trembled, his hair stood on end and tears flowed; and he danced with arms raised, waving his cloth.
+
+@271
+seeing  of the hunter  the love  Parvata  the great sage
+to Nārada  says  you  are  a touchstone
+= Seeing the hunter’s love, the great sage Parvata said to Nārada, “You are a touchstone!
+
+@272
+ah  blessed  you are  O sage among the gods
+by the mercy  of whom  instantly
+lowly  even  with hair standing on end  obtained
+a hunter  love  for Acyuta
+= “Ah, O sage among the gods, you are blessed! By your mercy even a lowly hunter at once attained love (*rati*) for Acyuta, his hair standing on end.” (Skanda-purāṇa)
+
+@273
+Nārada  says  Vaiṣṇava  your  food  any  comes
+the hunter  says  whom  you send  he  giving  goes
+= Nārada said, “Vaiṣṇava, does any food come to you?” The hunter said, “Whoever you send brings something and leaves it.
+
+@274
+so much  food  not  send  any  need  there is not
+only  for two persons  fitting  food  only  we want
+= “Do not send so much food; there is no need. We want only as much food as is fit for two people.”
+
+@275
+Nārada  says  thus  remain  you  fortunate
+this much  saying  the two  became  vanished
+= Nārada said, “Live like this — you are fortunate.” With these words the two sages vanished.
+
+@276
+this  indeed  I told  to you  of the hunter  the story
+which  hearing  arises  of the company of sādhus  of the power  knowledge
+= Thus I have told you the story of the hunter. Whoever hears it comes to know the power of the company of *sādhus*.
+
+@277
+these  further  three  meanings  in the count  were obtained
+these  two  meanings  combining  twenty-six  meanings  became
+= These three further meanings are added to the count, and the two sets of meanings together come to twenty-six.
+
+@278
+another  meaning  hear  which  of meanings  a storehouse
+broadly  two  meanings  in finer detail  thirty-two  kinds
+= Hear another meaning — a storehouse of meanings: broadly it is twofold, and in finer detail it is of thirty-two kinds.
+
+@279
+ātmā  by the word  is meant  of all kinds  Bhagavān
+one  Svayaṁ Bhagavān  others  Bhagavān  so named
+= The word *ātmā* means Bhagavān in all His forms: one is Svayaṁ Bhagavān, the Lord Himself, and the others are called Bhagavān.
+
+@280
+in Him  delight  who  all they  ātmārāmas
+vidhi-bhaktas  rāga-bhaktas  two kinds  names
+= All who delight in Him are *ātmārāmas*. They are of two kinds by name: devotees who follow the rules (*vidhi-bhakta*) and devotees of spontaneous attachment (*rāga-bhakta*).
+
+@281
+two kinds  devotees  are  four  four  kinds
+eternal associates  perfected by practice  practitioners  and
+= Each of these two kinds of devotees is of four kinds: the eternal associates (*pārṣada*), those perfected by practice (*sādhana-siddha*) and the practitioners (*sādhaka*).
+
+@282
+awakened  unawakened  rati  by the difference  practitioners  two  kinds
+vidhi  rāga  on the paths  four  four  eight  kinds
+= The practitioners are of two kinds, according to whether *rati* has awakened in them or not. So on the paths of *vidhi* and *rāga* there are four and four — eight kinds.
+
+@283
+in vidhi-bhakti  eternally perfect  associates  servants
+friends  elders  beloveds  four kinds  manifestation
+= On the path of *vidhi-bhakti*, the eternally perfect associates (*nitya-siddha pārṣada*) appear in four kinds: servants, friends, elders and beloveds.
+
+@284
+perfected by practice  servants  friends  elders  beloveds
+with awakened rati  practitioner-devotees  four kinds  persons
+= Those perfected by practice are servants, friends, elders and beloveds; and the practitioners in whom *rati* has awakened are also of four kinds.
+
+@285
+with unawakened rati  practitioner-devotees  these  four  kinds
+on the path of vidhi  among devotees  sixteen  kinds  known
+= The practitioners in whom *rati* has not yet awakened are of these four kinds as well. Thus on the path of *vidhi* the devotees are known in sixteen kinds.
+
+@286
+on the path of rāga  likewise  among devotees  sixteen  kinds
+on the two  paths  of ātmārāmas  thirty-two  kinds
+= On the path of *rāga* the devotees are likewise of sixteen kinds, so that on the two paths there are thirty-two kinds of *ātmārāmas*.
+
+@287
+muni  nirgrantha  ca  api  four  of words  meanings
+where  which  fits  that  I make  apt
+= The meanings of the four words *muni*, *nirgrantha*, *ca* and *api* I apply wherever each of them fits.
+
+@288
+thirty-two  with twenty-six  combining  fifty-eight
+another  one  kind  hear  of meaning  disclosure
+= The thirty-two and the twenty-six together make fifty-eight. Now hear yet another way of bringing out the meaning.
+
+@289
+mutual (itaretara)  ca  adding  compound  I make
+fifty-eight times  ātmārāma  word  I take
+= Joining them with *ca* in the sense of mutual conjunction (*itaretara*), I take the word *ātmārāma* fifty-eight times:
+
+@290
+ātmārāmas  and  ātmārāmas  and  fifty-eight times
+at the end  all  elision  making  I keep  once
+= “*ātmārāmāś ca ātmārāmāś ca*” — fifty-eight times. Then, dropping all the rest, I keep the word only once.
+
+@291
+of words of the same form  one  remains  in the same case
+of words whose meaning is already expressed  non-use  thus
+= “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used.” (Viśva-prakāśa)
+
+@292
+fifty-eight  of the word ca  all  elision  takes place
+one  ātmārāma  in the word  fifty-eight  meanings  expresses
+= All fifty-eight occurrences of *ca* are elided, and the single word *ātmārāma* expresses fifty-eight meanings.
+
+@293
+of words of the same form  one  remains  in the same case
+of words whose meaning is already expressed  non-use
+= “Of words of the same form in the same case only one remains (*eka-śeṣa*); words whose meaning has already been expressed are not used.” (Pāṇini, 1.2.64)
+
+@294
+aśvattha trees  and  banyan trees  and
+kapittha trees  and  mango trees  and  trees
+= “*Aśvattha* trees and banyan trees and *kapittha* trees and mango trees — trees.”
+
+@295
+in this  forest  trees  bear fruit  as  it is
+so  all  ātmārāmas  to Kṛṣṇa  devotion  render
+= Just as one says, “In this forest the trees bear fruit,” so all the *ātmārāmas* render devotion to Kṛṣṇa.
+
+@296
+ātmārāmas  and  in the sense of conjunction  I take  the word ca
+munis  and  devotion  render  this  meaning  its
+= In “*ātmārāmāś ca*” I take the word *ca* in the sense of conjunction (*samuccaya*): “and the *munis* render devotion” — this is its meaning.
+
+@297
+nirgranthas  indeed  becoming  api  in the sense of specification
+this  fifty-ninth  kind  of meaning  I made  in the explanation
+= Taking “*nirgranthā eva*” — “having become *nirgranthas*” — and *api* in the sense of specification (*nirdhāraṇa*), I have explained the fifty-ninth kind of meaning.
+
+@298
+in the conjunction of all  further  one  meaning  there is
+ātmārāmas  and  munis  and  nirgranthas  and  worship
+= Conjoining them all, there is one more meaning: “The *ātmārāmas*, the *munis* and the *nirgranthas*” all worship Kṛṣṇa.
+
+@299
+api  the word  in the sense of certainty  that  four  times
+four words  with  eva  I will make  utterance
+= Taking the word *api* in the sense of certainty (*avadhāraṇa*), I will pronounce *eva* four times, once with each of the four words:
+
+@300
+to Urukrama  alone  devotion  alone
+causeless  alone  they render  indeed
+= “To Urukrama alone, devotion alone, causeless devotion alone — this indeed they render.”
+
+@301
+this  indeed  I told  of the verse  sixty  in number  meanings
+another  one  meaning  hear  by evidence  supported
+= Thus I have told you sixty meanings of the verse. Now hear one more meaning, well supported by evidence.
+
+@302
+ātmā  by the word  denotes  kṣetrajña  jīva  the sense
+Brahmā and others  down to the insect  His  in the potency  counted
+= The word *ātmā* also denotes the *jīva*, the knower of the field (*kṣetrajña*). All beings, from Brahmā down to the insect, are counted as His potency.
+
+@303
+Viṣṇu’s potency  superior  is declared
+called the knower of the field  likewise  superior
+called ignorance and karma  another
+a third  potency  is held to be
+= “The potency of Viṣṇu is declared to be superior; the potency called the knower of the field (*kṣetrajña*) is likewise superior; and the other, called ignorance and karma, is held to be a third potency.” (Viṣṇu Purāṇa, 6.7.61)
+
+@304
+kṣetrajña  ātmā  puruṣa
+pradhāna  prakṛti  in the feminine
+= “*Kṣetrajña*: *ātmā*, *puruṣa*, *pradhāna* and *prakṛti* (the last in the feminine).” (Amara-kośa)
+
+@305
+wandering  wandering  if  of a sādhu  the company  he finds
+everything  giving up  then  he  Kṛṣṇa  worships
+= If, after wandering and wandering, such a soul finds the company of a *sādhu*, he gives up everything and worships Kṛṣṇa.
+
+@306
+sixty  meanings  I told  all  Kṛṣṇa’s  in the worship
+that  meaning  is  these  all  in the examples
+= I have told you sixty meanings, and all of them concern the worship of Kṛṣṇa; that same meaning holds in all these examples.
+
+@307
+sixty-first  meaning  now  came to light  in your company
+your  devotion  by the power  rise  of meaning  waves
+= Now, in your company, the sixty-first meaning has come to light. By the power of your devotion, waves of meaning rise up.
+
+@308
+the meanings  hearing  Sanātana  amazed  becoming
+prayers  offers  of Mahāprabhu  the feet  clasping
+= Hearing these meanings, Sanātana was amazed. Clasping Mahāprabhu’s feet, he offered prayers:
+
+@309
+directly  the Lord  You  of the king of Vraja  the son
+Your  by the breath  of all the Vedas  the coming forth
+= “You are the Lord Himself, the son of the king of Vraja. All the Vedas come forth with Your breath.
+
+@310
+You  the speaker  of the Bhāgavatam  You  know  the meaning
+You  except  another  to know  not  able
+= “You are the speaker of the *Bhāgavatam*, and You know its meaning. No one but You is able to know it.”
+
+@311
+the Lord  says  why  you make  My  praise
+of the Bhāgavatam  the true nature  why  not  you make  consideration
+= The Lord said, “Why do you praise Me? Why do you not consider the true nature of the *Bhāgavatam*?
+
+@312
+to Kṛṣṇa  equal  the Bhāgavatam  all-pervading  the shelter of all
+in every  verse  in every  syllable  many  meanings  expresses
+= “The *Bhāgavatam* is equal to Kṛṣṇa — all-pervading, the shelter of all. In every verse and every syllable it expresses many meanings.
+
+@313
+in questions and answers  in the Bhāgavatam  has made  the conclusion
+which  at the hearing  to people  comes  wonder
+= “In the *Bhāgavatam* the truth is established through questions and answers, and hearing it, people are struck with wonder.
+
+@314
+I  know  Śuka  knows
+Vyāsa  knows  not  knows  or
+by devotion  the Bhāgavatam  to be grasped
+not  by intellect  not  and  by commentary
+= “I know, Śuka knows, and Vyāsa may or may not know. The *Bhāgavatam* is to be grasped by devotion — not by the intellect, nor by commentaries.” (An ancient verse: the words of Śiva)
+
+@315
+tell  to the master of yoga  to Kṛṣṇa
+devoted to the brāhmaṇas  of dharma  the armour
+to His own  abode  now  having gone
+dharma  to which  shelter  has gone
+= “Tell us: now that Kṛṣṇa — the master of *yoga*, devoted to the *brāhmaṇas*, the armour of *dharma* — has gone to His own abode, to whom has *dharma* gone for shelter?” (Śrīmad-Bhāgavatam, 1.1.23)
+
+@316
+Kṛṣṇa  to His own abode  having gone
+dharma  knowledge and the rest  with
+in Kali  for those who have lost their sight  this
+Purāṇa-sun  now  has risen
+= “Now that Kṛṣṇa has gone to His own abode together with *dharma*, knowledge and the rest, this Purāṇa has risen like the sun in the age of Kali for those who have lost their sight.” (Śrīmad-Bhāgavatam, 1.3.43)
+
+@317
+this  way  I told  one  of the verse  explanation
+of a madman  raving  taking  who  makes  authority
+= “In this way I have explained a single verse. Who would take a madman’s raving as authority?
+
+@318
+like Me  whoever  anyone  a madman  becomes
+with this vision  of the Bhāgavatam  the meaning  knows
+= “Only one who becomes ‘mad’ like Me comes to know the meaning of the *Bhāgavatam* with such vision.”
+
+@319
+again  Sanātana  says  joining  two  palms
+Lord  order  You gave  Vaiṣṇava-smṛti  to make
+= Joining his palms, Sanātana spoke again: “Lord, You ordered me to compile a *Vaiṣṇava-smṛti*.
+
+@320
+I  of low  birth  anything  not  I know  reasoning
+through me  how  happens  of the smṛti  promulgation
+= “I am of low birth and know nothing of reasoning. How can a *smṛti* be set forth through me?
+
+@321
+sūtras  making  direction  if  You give  instruction
+Yourself  You make  if  in the heart  entrance
+= “If You instruct me, showing the direction in the form of *sūtras*, and if You Yourself enter my heart,
+
+@322
+then  its  direction  appears  of lowly me  in the heart
+the Lord  You  what  You cause to do  that  accomplished  becomes
+= “then the way to write it will dawn in this lowly one’s heart. You are the Lord: whatever You have one do is accomplished.”
+
+@323
+the Lord  says  what  to do  you will make  you  mind
+Kṛṣṇa  that  that  to you  will cause  revelation
+= The Lord said, “Whatever you resolve to do, Kṛṣṇa will reveal it to you.
+
+@324
+still  these  of the sūtras  hear  an outline
+with reasons  writing  first  of the guru  taking shelter
+= “Still, hear an outline of these *sūtras*. First describe, with its reasons, taking shelter of a guru.
+
+@325
+guru  marks  disciple  marks  of both  testing
+the object of service  Bhagavān  all  mantras  consideration
+= “the marks of a guru and of a disciple, and how each tests the other; Bhagavān as the object of service; a consideration of all the *mantras*;
+
+@326
+mantra  qualified person  mantra  perfection  and so on  purification
+initiation  morning  remembrance  duties  cleanliness  ācamana
+= “who is qualified to receive a *mantra*; the purification of a *mantra*, its perfection and the like; initiation; the morning duties of remembrance; cleanliness; *ācamana*;
+
+@327
+teeth  cleaning  bathing  sandhyā and the rest  prayers
+guru  service  ūrdhva-puṇḍra  cakra and the rest  wearing
+= “cleaning the teeth, bathing, the *sandhyā* and other prayers; service to the guru; wearing the *ūrdhva-puṇḍra*, the *cakra* and the other marks;
+
+@328
+gopī-candana  beads  wearing  tulasī  gathering
+cloth  seat  house  purification  Kṛṣṇa  awakening
+= “wearing *gopī-candana* and beads; gathering *tulasī*; purifying the cloth, the altar and the house; awakening Kṛṣṇa;
+
+@329
+five  sixteen  fifty  with articles  worship
+five  times  pūjā  ārati  Kṛṣṇa’s  feeding  laying to rest
+= “worship with five, sixteen or fifty articles of offering; *pūjā* and *ārati* at the five times of day; offering Kṛṣṇa His meals and laying Him to rest;
+
+@330
+the Deity  marks  and  śālagrāma  marks
+Kṛṣṇa’s  holy places  pilgrimage  Kṛṣṇa’s  Deity  beholding
+= “the marks of the Deity and of the *śālagrāma*; pilgrimage to Kṛṣṇa’s holy places; beholding Kṛṣṇa’s Deity form;
+
+@331
+the name  glory  offenses against the name  far  avoiding
+Vaiṣṇava  marks  offenses in service  dispelling
+= “the glory of the name and keeping far from offenses against the name; the marks of a Vaiṣṇava; overcoming offenses in service;
+
+@332
+conch  water  fragrance  flowers  incense and the rest  characteristics
+japa  prayers  circumambulation  like a rod  obeisance
+= “the characteristics of the conch, water, fragrance, flowers, incense and the rest; *japa*, prayers, circumambulation and prostrate obeisances;
+
+@333
+puraścaraṇa  rules  Kṛṣṇa’s  prasāda  eating
+unoffered  rejecting  of Vaiṣṇavas  blasphemy and the like  avoiding
+= “the rules of *puraścaraṇa*; honouring Kṛṣṇa’s *prasāda*; rejecting what has not been offered; avoiding blasphemy of Vaiṣṇavas and the like;
+
+@334
+sādhu  marks  sādhu  company  sādhu  service
+bad company  giving up  Śrī Bhāgavatam  hearing
+= “the marks of a *sādhu*, the company of *sādhus* and service to them; giving up bad company; hearing *Śrīmad-Bhāgavatam*;
+
+@335
+daily duties  fortnightly duties  Ekādaśī and the rest  account
+monthly duties  Janmāṣṭamī and the rest  rules  consideration
+= “the daily and fortnightly duties, with an account of Ekādaśī and other days; the monthly duties; a consideration of the rules for Janmāṣṭamī and the other holy days —
+
+@336
+Ekādaśī  Janmāṣṭamī  Vāmana-dvādaśī
+Śrī Rāma-navamī  and  Nṛsiṁha-caturdaśī
+= “Ekādaśī, Janmāṣṭamī, Vāmana-dvādaśī, Śrī Rāma-navamī and Nṛsiṁha-caturdaśī.
+
+@337
+in these  all  pierced  rejecting  unpierced  observing
+in not doing  a fault  in doing  of bhakti  attainment
+= “For all of these, reject a ‘pierced’ (*viddhā*) day and observe an unpierced one. Not observing them is a fault; by observing them one attains *bhakti*.
+
+@338
+everywhere  evidence  you will give  of the Purāṇas  words
+Deity  Viṣṇu  temple  making  rules
+= “Everywhere give the words of the Purāṇas as evidence. Describe also the rules for installing Deities and building temples of Viṣṇu;
+
+@339
+general  good conduct  and  Vaiṣṇava  conduct
+what should and should not be done  smārta  practice
+= “general good conduct and Vaiṣṇava conduct; what should and should not be done; and the practices of the *smārtas*.
+
+@340
+this  indeed  briefly  I told  outline
+when  you  will write  Kṛṣṇa  will cause  revelation
+= “Thus I have given you a brief outline. When you write, Kṛṣṇa will reveal it to you.”
+
+@341
+this  indeed  I told  of the Lord  to Sanātana  mercy
+of which  at the hearing  of the heart  is dispelled  despondency
+= Thus I have told of the Lord’s mercy to Sanātana. Hearing of it dispels the heart’s despondency.
+
+@342
+own  in the book  Karṇapūra  at length  making
+to Sanātana  of the Lord  mercy  has kept  writing
+= Karṇapūra has described at length in his own book the Lord’s mercy to Sanātana and set it down in writing:
+
+@343
+of the king of Gauḍa  of the court  ornament  the jewel  having left  who  abundant  wealth
+of Rūpa  the elder brother  this  very one  youthful  of renunciation  goddess  took
+within  of devotion  with the rasa  a full lake  outwardly  in the form of an avadhūta
+with moss  covered  a great  lake  like  delight  giving  to those who know it
+= “This very one — the elder brother of Rūpa, once the jewel adorning the court of the king of Gauḍa — gave up abundant wealth and took as his own the youthful goddess of renunciation. Within he is a lake brimming with the *rasa* of devotion; outwardly he looks like an *avadhūta*. Like a great lake covered with moss, he gives delight to those who know him.” (Caitanya-candrodaya, Act 9)
+
+@344
+that  Sanātana  approached  of the eyes
+the mere sight  boundlessly  melted with compassion
+embraced  with bolt-like long  arms
+compassionately  then  golden as a campaka
+= “The moment Sanātana came within sight of His eyes, the Lord, golden as a *campaka* flower, melted with boundless compassion and tenderly embraced him with His long arms, mighty as bolts.” (Caitanya-candrodaya, Act 9)
+
+@345
+by time  of the pastimes of Vṛndāvana  the account
+lost  therefore  it  to make known  in a special way
+with the nectar of mercy  sprinkled  the Lord
+there indeed  Rūpa  and  Sanātana  and
+= “Since over time the account of the pastimes of Vṛndāvana had been lost, the Lord, to make it known in a special way, sprinkled Rūpa and Sanātana there with the nectar of His mercy.” (Caitanya-candrodaya, 9.38)
+
+@346
+this  indeed  I told  of the Lord  to Sanātana  mercy
+of which  at the hearing  of the heart  is dispelled  despondency
+= Thus I have told of the Lord’s mercy to Sanātana. Hearing of it dispels the heart’s despondency.
+
+@347
+Kṛṣṇa’s  of the forms  all  there is  knowledge
+vidhi  rāga  on the paths  of sādhana-bhakti  the injunctions
+= Here is knowledge of all of Kṛṣṇa’s forms (*svarūpa*) and the injunctions of *sādhana-bhakti* on the paths of *vidhi* and *rāga*;
+
+@348
+love of Kṛṣṇa  rasa of devotion  of bhakti  conclusions
+of this  at the hearing  a devotee  knows  all  to the end
+= love of Kṛṣṇa, the *rasa* of devotion and the conclusions of *bhakti*. By hearing this a devotee comes to know them all to the very end.
+
+@349
+Śrī  Caitanya’s  Nityānanda’s  Advaita’s  feet
+whose  life’s treasure  he  attains  this  treasure
+= One whose life’s treasure is the feet of Śrī Caitanya, Nityānanda and Advaita attains this treasure.
+
+@350
+Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+“Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+= Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 15  
 **A Brief Description of the Boyhood Pastimes**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 কুমনাঃ সুমনস্ত্বং হি যাতি যস্য পদাব্জয়োঃ ৷  
 সুমনোঽর্পণমাত্রেণ তং চৈতন্যপ্রভুং ভজে ॥ ১ ॥
@@ -370,7 +370,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^6]: *Caitanya-maṅgala* is the original title of the *Caitanya-bhāgavata* (cf. Ādi 8.33–35). *Anubhāṣya*: see *Caitanya-bhāgavata*, Ādi 4 and 6–10.
 
-[^7]: *Anubhāṣya*: in the *Bhakti-sandarbha* (299) Śrī Jīva Gosvāmī cites the *Skanda Purāṇa* and the *Agni Purāṇa*: to eat on Ekādaśī is a grave sin, and the fast on that day is the great vow of the Vaiṣṇavas, binding even on those who are not Vaiṣṇavas. Vaiṣṇavas never eat anything but *mahā-prasāda*, and so for them the Ekādaśī fast means giving up grains, even as *mahā-prasāda*.
+[^7]: *Anubhāṣya*: in the *Bhakti-sandarbha* (299) Śrī Jīva Gosvāmī cites the *Skanda Purāṇa* and the *Agni Purāṇa*: to eat on Ekādaśī is a grave sin, and the fast on that day is the great vow of the Vaiṣṇavas, binding even on those who are not Vaiṣṇavas. Vaiṣṇavas never eat anything but mahā-prasāda, and so for them the Ekādaśī fast means giving up grains, even as *mahā-prasāda*.
 
 [^8]: Heading in the edition: “When a son takes sannyāsa for the worship of Kṛṣṇa, the lines of his mother and father are delivered.”
 

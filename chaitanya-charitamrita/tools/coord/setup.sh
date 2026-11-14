@@ -17,7 +17,7 @@ fi
 python3 -c "import PIL, yaml, docx, gdown, fitz" 2>/dev/null || python3 -m pip install -q pillow pyyaml python-docx gdown pymupdf || python3 -m pip install -q --user --break-system-packages pillow pyyaml python-docx gdown pymupdf
 # Скан издания 1928 г. (Гаудия Матх, 1079 с.) — в .gitignore, лежит на Google Диске пользователя (публичная ссылка)
 if [ ! -s "$CC/src/CC_SS.pdf" ]; then
-  gdown --id 12GBJMUhBfyjsnnOgwlTuz3SHJWX5niAM -O "$CC/src/CC_SS.pdf"
+  gdown 12GBJMUhBfyjsnnOgwlTuz3SHJWX5niAM -O "$CC/src/CC_SS.pdf"
 fi
 # Chromium для md2pdf.py (headless печать в PDF)
 CH=$(ls -d /opt/pw-browsers/chromium-*/chrome-linux/chrome 2>/dev/null | head -1)

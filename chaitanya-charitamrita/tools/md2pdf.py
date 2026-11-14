@@ -49,6 +49,7 @@ def has_bn(s): return any('ঀ' <= c <= '৿' for c in s)
 def inline(t, notes):
     t = html.escape(t)
     t = re.sub(r'\*\*(.+?)\*\*', r'<b>\1</b>', t)
+    t = re.sub(r'(?<![\w*])\*(?![\s*])(.+?)(?<![\s*])\*(?![*])(?!(?!s\b)\w)', r'<i>\1</i>', t)   # *курсив*
     t = re.sub(r'\[\^([\w-]+)\]', lambda m: '<sup class="fn"><a href="#fn-%s" id="ref-%s">%d</a></sup>'
                % (m.group(1), m.group(1), notes.index(m.group(1)) + 1 if m.group(1) in notes else 0), t)
     return t
@@ -132,9 +133,11 @@ def build(chap, ed='full', size='a5', lang='ru', ret=False):
             H.append('<section class="v">%s%s</section>' % (('<h3 class="sub">%s</h3>' % inline(sh, notes)) if sh else '', ''.join(blk))); blk = []
         elif ed == 'full':
             rows = []
-            for k, l in enumerate(x.strip() for x in lines):
-                if (is_tl(l) if lang == 'ru' else k % 2 == 0): rows.append('<div class="tl">%s</div>' % html.escape(l))
-                else: rows.append('<div class="ww">%s</div>' % html.escape(l).replace('  ', '&ensp;&ensp;'))
+            ls = [x.strip() for x in lines]
+            nodia = lang == 'ru' and not any(is_tl(x) for x in ls)   # транслитерация без диакритики (Мадхья 6.122): пословный — с двумя пробелами
+            for k, l in enumerate(ls):
+                if (('  ' not in l) if nodia else is_tl(l) if lang == 'ru' else k % 2 == 0): rows.append('<div class="tl">%s</div>' % html.escape(l))
+                else: rows.append('<div class="ww">%s</div>' % re.sub(r'(?<![\w*])\*(?![\s*])(.+?)(?<![\s*])\*(?![*])(?!(?!s\b)\w)', r'<i>\1</i>', html.escape(l)).replace('  ', '&ensp;&ensp;'))
             blk.append('<div class="tlww">%s</div>' % ''.join(rows))
     if notes:
         H.append('<section class="notes"><h2>%s</h2><ol>' % T['notes'])

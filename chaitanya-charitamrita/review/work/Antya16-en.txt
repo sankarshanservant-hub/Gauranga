@@ -1,0 +1,918 @@
+# English translation, Antya-līlā 16 — from the Bengali/Sanskrit, following the «Anubhāṣya» (2026 revision).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Antya16.txt), revised against the Bengali, the Anubhāṣya and the Amṛta-pravāha-bhāṣya.
+# Shift 1: verses 1–75 (scan pp. 1030–1035); shift 2: 76–151.
+# Verbatim from revised chapters: 2 (= Ādi 1.18), 25 (= Madhya 19.50), 26 (= Antya 4.69), 27 (= Madhya 11.192).
+
+## 0
+tr: Grace to Kālidāsa, and the Ravings of Madness in Separation
+
+## 1
+w: I bow down  to Śrī Kṛṣṇa Caitanya
+w: of Kṛṣṇa  of feelings  the nectar  indeed  who
+w: having tasted  making taste  the devotees
+w: of prema  the initiation  taught
+tr: I bow down to Śrī Kṛṣṇa Caitanya, who Himself tasted the nectar of feelings for Kṛṣṇa and gave it to His devotees to taste; so He taught them the path of divine love.
+fn: *Anubhāṣya*: the nectar of feelings for Kṛṣṇa is the exalted, radiant *ujjvala-rasa*; initiation into prema (*prema-dīkṣā*) is the path of service rooted in pure love. Heading in the edition: obeisance to Gaura, who teaches bhakti by His own example.
+
+## 2
+w: glory  glory  to Śrī Caitanya  glory  to Nityānanda
+w: glory  to Advaitacandra  glory  to Gaura’s  devotees  host
+tr: Glory, glory to Śrī Caitanya! Glory to Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+
+## 3
+w: in this way  Mahāprabhu  stays  in Nīlācala
+w: the devotees  with  always  by love  overwhelmed
+tr: In this way Mahāprabhu lived in Nīlācala with His devotees, always overwhelmed by love.
+
+## 4
+w: the next year  came  all  of Gauḍa  the devotees
+w: as before  coming  made  with the Lord  meeting
+tr: The next year all the devotees of Gauḍa came again and, as before, met the Lord.
+
+## 5
+w: them all  with  came  Kālidāsa  by name
+w: Kṛṣṇa’s  name  except  he  not  knew  anything else
+tr: With them came a devotee named Kālidāsa, who knew nothing but the name of Kṛṣṇa.
+
+## 6
+w: a great  devotee  he  simple  generous
+w: of Kṛṣṇa’s  name  by the signs  conducted  his dealings
+tr: He was a great devotee, simple and generous, and even in his everyday dealings the name of Kṛṣṇa served him as a sign.
+fn: *Amṛta-pravāha-bhāṣya*: in his worldly dealings he used the name of Kṛṣṇa as a conventional sign (*saṅketa*).
+
+## 7
+w: in fun  he  if  at dice  played
+w: Hare Kṛṣṇa  Hare Kṛṣṇa  saying  the dice  threw
+tr: When he played at dice for fun, he would cast them saying, “Hare Kṛṣṇa! Hare Kṛṣṇa!”
+fn: *Anubhāṣya*: if a soul full of *anarthas* does not follow Kālidāsa’s firm devotion to the holy name, but for the pleasure of the senses imitates this outward play of his and grows addicted to dice, its bondage to Kali will only increase its bent for sin (*Śrīmad-Bhāgavatam* 1.17.38–41). And its outward imitation of chanting, which prompts it to sin in reliance on the power of the name, will end only in offence to the name (*nāmāparādha*).
+
+## 8
+w: of Raghunātha  dāsa  he  was  a kinsman  uncle
+w: of Vaiṣṇavas  the remnants  eating  he  became  old
+tr: He was Raghunātha dāsa’s uncle within the clan, and he had grown old honouring the remnants of Vaiṣṇavas.
+
+## 9
+w: in the land of Gauḍa  are  as many  of Vaiṣṇavas  as
+w: of all  the remnants  he  did  eat
+tr: There was no Vaiṣṇava in Gauḍa whose remnants he had not taken.
+
+## 10
+w: brāhmaṇa  Vaiṣṇavas  as many as  small  great  are
+w: the best  things  as gifts  taking  to them  goes
+tr: He would go to every Vaiṣṇava of brāhmaṇa birth, great and small, bringing the finest things as gifts.
+
+## 11
+w: from them  the plates of remnants  takes  begging
+w: wherever  not  gets  then  stays  hiding
+tr: He would beg them for the plates with their remnants, and where he was refused, he would hide nearby.
+
+## 12
+w: eating  having done  the plate  throwing away  goes
+w: secretly  that  plate  bringing  licking  eats
+tr: When a Vaiṣṇava had eaten and thrown his plate away, Kālidāsa would secretly take it up and lick it clean.
+
+## 13
+w: of śūdra  Vaiṣṇavas  to the homes  goes  gifts  taking
+w: in this way  their  remnants  eats  secretly
+tr: He went with gifts to the homes of Vaiṣṇavas of śūdra birth as well, and in the same way secretly took their remnants.
+
+## 14
+w: bhūṅimāli  by caste  a Vaiṣṇava  Jhaḍu  his  name
+w: mangoes  taking  he  went  to his  place
+tr: There was a Vaiṣṇava named Jhaḍu, of the *bhūṅimāli* caste. Kālidāsa went to his home, taking mangoes with him.
+fn: *Amṛta-pravāha-bhāṣya*: the bhūṅimālis are a caste like the haḍḍis. *Anubhāṣya*: the homes of Kālidāsa and Jhaḍu Ṭhākura were in the village of Bhedo (Bhaduyā), about three miles south of Kṛṣṇapura, the birthplace of Śrīla Raghunātha dāsa Gosvāmī.
+
+## 15
+w: the mangoes  as a gift  giving  his  feet  he honoured
+w: his  wife  then  obeisance  made
+tr: He presented the mangoes, bowed at his feet, and then paid his respects to his wife.
+
+## 16
+w: his wife  with  he  was  seated
+w: much  honour  showed  Kālidāsa  seeing
+tr: Jhaḍu Ṭhākura was sitting with his wife; seeing Kālidāsa, he received him with great respect.
+
+## 17
+w: friendly talk  for some time  having made  with him
+w: Jhaḍu  Ṭhākura  says  to him  in sweet  words
+tr: After talking with him a while, Jhaḍu Ṭhākura said to him sweetly:
+
+## 18
+w: I  low  born  you  guest  the most excellent
+w: in what  way  shall I do  you  service
+tr: “I am of low birth, and you are a most honoured guest. How shall I serve you?
+
+## 19
+w: permission  give  a brāhmaṇa’s  to the house  provisions  taking  I will give
+w: there  you  prasāda  take  then  I  shall live
+tr: Give me leave to take provisions to a brāhmaṇa’s house. There you can take *prasāda*, and that will give me life.”
+
+## 20
+w: Kālidāsa  says  Ṭhākura  mercy  show  to me
+w: your  for the sight  have come  I  fallen  sinner
+tr: Kālidāsa said, “Ṭhākura, be merciful to me! I, a fallen sinner, have come to see you.
+
+## 21
+w: pure  have become  I  have gained  the sight
+w: fulfilled  I have become  my  successful  life
+tr: By seeing you I have become pure. My purpose is fulfilled, and my life has borne its fruit.
+
+## 22
+w: one  desire  there is  if  mercy  showing  you do
+w: of the feet  the dust  give  your foot  my  on the head  place
+tr: I have one desire, if you will be merciful: give me the dust of your feet, and place your foot on my head.”
+
+## 23
+w: the Ṭhākura  says  such  words  to speak  not  is fitting
+w: I  low  born  you  a noble  gentleman
+tr: The Ṭhākura said, “It is not fitting to say such things. I am of low birth, and you are a noble gentleman.”
+
+## 24
+w: then  Kālidāsa  verses  reciting  made him hear
+w: hearing  Jhaḍu  Ṭhākura’s  great  joy  was
+tr: Then Kālidāsa recited verses for him, and hearing them, Jhaḍu Ṭhākura was greatly pleased.
+
+## 25
+w: not  to Me  a nondevotee  a knower of the four Vedas
+w: My devotee  a dog-eater  dear
+w: to him  should be given  from him  should be accepted
+w: he  and  is to be worshipped  as  indeed  I
+tr: “Even a knower of the four Vedas is not dear to Me if he is not devoted to Me, but My devotee is dear to Me even if he was born a dog-eater. One should give to him and accept from him; he is to be worshipped just as I am.” (Itihāsa-samuccaya, quoted in Hari-bhakti-vilāsa, 10.91)
+fn: The same verse as Madhya 19.50 and 20.58; translation as there. Heading in the edition here: “Words of the Lord in the *Itihāsa-samuccaya*” (at Madhya 19.50: *Hari-bhakti-vilāsa* 10.91, words of the *Itihāsa-samuccaya*). The *Anubhāṣya* refers to Madhya 19.50.
+
+## 26
+w: than a brāhmaṇa  twelve  qualities  endowed with  of the lotus-naveled Lord
+w: from the lotus feet  averse  a dog-eater  better
+w: I consider  to Him offered  mind  words  deeds  wealth
+w: and life  purifies  he  his family  not  but  one full of pride
+tr: “I consider a dog-eater whose mind, words, deeds, wealth and very life are offered to the Lord of the lotus navel better than a brāhmaṇa endowed with the twelve qualities who has turned away from His lotus feet. Such a devotee purifies his whole family; the brāhmaṇa swollen with pride cannot.” (Śrīmad-Bhāgavatam, 7.9.10)
+fn: The same verse as Antya 4.69 and Madhya 20.59; translation as there. The *Anubhāṣya* refers to Madhya 20.59.
+
+## 27
+w: oh  how wonderful  a dog-eater  therefore  most worthy
+w: on the tip of whose tongue  is present  the name  Your
+w: have performed  austerities  they  have offered sacrifice  have bathed (in all holy waters)  noble ones
+w: have recited the Vedas  the name  utter  who  Your
+tr: “Oh, how wonderful! Even a dog-eater is worthy of the highest honour if Your name is on the tip of his tongue. Those who utter Your name have already performed austerities and offered sacrifices; they have bathed in all the holy waters, they are truly noble, and they have studied the Vedas.” (Śrīmad-Bhāgavatam, 3.33.7)
+fn: The same verse as Madhya 11.192 and 19.72; translation as there. The *Anubhāṣya* refers to Madhya 11.192.
+
+## 28
+w: hearing  the Ṭhākura  says  scripture  this  true  is
+w: he  low  is not  in whom  devotion to Kṛṣṇa  is spoken of
+tr: Hearing this, the Ṭhākura said, “What scripture says is true: one in whom there is devotion to Kṛṣṇa is not low.
+fn: So in the Gauḍīya Maṭha edition: *śāstra ei satya haya / sei nīca nahe, — yāṅte kṛṣṇa-bhakti kaya*. Other editions read *śāstra ei satya kaya / sei śreṣṭha, aiche yāṅte kṛṣṇa-bhakti haya*, “the scriptures speak this truth: the best is one in whom there is devotion to Kṛṣṇa.”
+fn: *Anubhāṣya*: the *Mahābhārata*, the *Śrīmad-Bhāgavatam*, the *Padma-purāṇa* and many other scriptures make it clear that transcendental brahminhood belongs eternally to a Vaiṣṇava. Therefore one who has gained devotion to Kṛṣṇa, even if born in a low family, can no longer be of low caste.
+
+## 29
+w: I  low  born  my  is no  devotion to Kṛṣṇa
+w: others  such  are  in me  is no  such  power
+tr: But I am of low birth, and I have no devotion to Kṛṣṇa. Others may be so blessed, but I have no such power.”
+fn: *Anubhāṣya*: the words “I have no devotion” show only Jhaḍu Ṭhākura’s magnanimity, worthy of a Vaiṣṇava, and his freedom from pride. Great devotees do not identify with the body, and by nature they speak with the humility of pure devotees: “All the devotees of Kṛṣṇa stand high; I alone have no devotion and am born in a low family.”
+
+## 30
+w: to him  bowing  Kālidāsa  leave  asked
+w: Jhaḍu  Ṭhākura  then  him  following  went
+tr: Bowing to him, Kālidāsa asked leave to go, and Jhaḍu Ṭhākura walked after him to see him off.
+
+## 31
+w: him  leave  giving  the Ṭhākura  when  home  came
+w: his  feet’s  marks  where  fell
+tr: When the Ṭhākura had seen him off and returned home, Kālidāsa went to the spot where Jhaḍu’s footprints lay.
+
+## 32
+w: that  dust  taking  Kālidāsa  all over his body  smeared
+w: him  near  in one place  hiding  stayed
+tr: He gathered up that dust, smeared it all over his body, and then hid near Jhaḍu’s house.
+
+## 33
+w: Jhaḍu  Ṭhākura  home  going  seeing  the mangoes
+w: in his mind alone  to Kṛṣṇacandra  offered  all
+tr: Entering the house, Jhaḍu Ṭhākura saw the mangoes and offered them all to Kṛṣṇacandra within his mind.
+fn: Heading in the edition: Jhaḍu Ṭhākura, the guru of all brāhmaṇas, worships within his mind the Deity revealed in the mind, and then eats the mangoes as Kṛṣṇa’s remnants.
+
+## 34
+w: banana  leaves  bark  from  the mangoes  taking out
+w: his  wife  to him  gives  he eats  sucking
+tr: His wife took the mangoes out of their wrappings of banana leaf and bark and handed them to him, and he ate them, sucking out the juice.
+fn: *Anubhāṣya*: *pāṭuyā-kholā* — leaves and bark; *nikāśiyā* — taking out.
+
+## 35
+w: sucking  sucking  the sucked  stones  threw  into the wrappings
+w: him  having fed  his  wife  eats  afterwards
+tr: He sucked the stones and threw them into the wrappings; and when his wife had fed him, she ate after him.
+fn: Heading in the edition: the wife of a Vaiṣṇava honours the remnants of her Vaiṣṇava husband’s meal.
+
+## 36
+w: stones  sucked  those  wrappings  filling
+w: outside  into the pit for remnants  threw  taking
+tr: She filled the wrappings with the sucked stones, carried them outside and threw them into the pit for remnants.
+
+## 37
+w: those  wrappings  stones  skins  sucks  Kālidāsa
+w: sucking  sucking  comes  in love  jubilation
+tr: Kālidāsa sucked those wrappings, stones and skins, and as he went on, he grew ever more jubilant with divine love.
+fn: Heading in the edition: the most fortunate Kālidāsa, in great bliss, honours the remnants of a Vaiṣṇava’s meal, seeing them as transcendental.
+
+## 38
+w: in this way  as many  Vaiṣṇavas  live  in the land of Gauḍa
+w: Kālidāsa  thus  of all  took  the remnants
+tr: In this way Kālidāsa honoured the remnants of all the Vaiṣṇavas who lived in the land of Gauḍa.
+
+## 39
+w: that  Kālidāsa  when  to Nīlācala  came
+w: Mahāprabhu  on him  great  mercy  showed
+tr: When Kālidāsa came to Nīlācala, Mahāprabhu showed him great mercy.
+
+## 40
+w: every  day  the Lord  when  goes  for darśana
+w: water  pot  taking  Govinda  goes  with the Lord
+tr: Every day, when the Lord went to see Lord Jagannātha, Govinda accompanied Him with His waterpot.
+
+## 41
+w: of the Siṁha-dvāra  on the north  side  of the gate  behind
+w: twenty-two  steps  at the foot  is  one  low  pit
+tr: On the north side of the Siṁha-dvāra, sheltered behind the gate, at the foot of the twenty-two steps, there was a small pit.
+fn: *Amṛta-pravāha-bhāṣya*: the Oriyās call each step of a stair a *pahāca*; to go up through the Siṁha-dvāra one must climb twenty-two such steps. *Anubhāṣya*: *āḍe* — in a secluded spot, behind a screen; these places are no longer empty, for houses have been built there.
+
+## 42
+w: in that  pit  does  the Lord  feet  washing
+w: then  to do  goes  of the Lord  darśana
+tr: In that pit the Lord would wash His feet, and then He would go to see Lord Jagannātha.
+
+## 43
+w: for Govinda  Mahāprabhu  has made  a rule
+w: My  feet  water  that  not  takes  any  person
+tr: Mahāprabhu had given Govinda a rule: “See that no one takes the water that washes My feet.”
+fn: Heading in the edition: the strict rule of the Lord, who as an ācārya teaches the world.
+
+## 44
+w: living beings  any  to take  not  can  that  water
+w: intimate  devotees  take  making  some  pretext
+tr: No living being could take that water; only intimate devotees contrived to get it, on one pretext or another.
+
+## 45
+w: one  day  the Lord  there  feet  to wash
+w: Kālidāsa  coming  there  held out  his hands
+tr: One day, as the Lord was washing His feet there, Kālidāsa came and held out his cupped hands.
+
+## 46
+w: one  palmful  two  palmfuls  three  palmfuls  he drank
+w: then  Mahāprabhu  him  prohibition  made
+tr: He drank one palmful, two palmfuls, three palmfuls, and then Mahāprabhu stopped him:
+
+## 47
+w: from now on  more  not  do  again
+w: thus far  of your desire  the fulfilment  I have made  your
+tr: “From now on, do not do this again. With this much I have fulfilled your desire.”
+
+## 48
+w: of the omniscient  the crest jewel  Caitanya  the Lord
+w: in Vaiṣṇavas  his  faith  knows  the heart
+tr: Lord Caitanya, crest jewel of the all-knowing, knew Kālidāsa’s heart and his faith in the Vaiṣṇavas.
+
+## 49
+w: that  quality  on account of  the Lord  with him  pleased  became
+w: to others  rare  mercy  to him  showed
+tr: Pleased with him for that quality, the Lord showed him a mercy rarely granted to others.
+fn: Heading in the edition: for his transcendental faith in the Vaiṣṇavas the Lord shows Kālidāsa a mercy rare even for Brahmā and the other gods.
+
+## 50
+w: twenty-two  steps  behind  above  on the south  side
+w: one  Nṛsiṁha  Deity  is present  going up  on the left side
+tr: Beyond the twenty-two steps, at the top on the south side, on the left as one goes up, stands a Deity of Lord Nṛsiṁha.
+
+## 51
+w: every  day  to Him  the Lord  makes  obeisance
+w: bowing  this  verse  recites  again and again
+tr: Every day the Lord would bow down to Him and recite this verse again and again:
+
+## 52
+w: obeisance  to You  to Narasiṁha
+w: to Prahlāda  joy  who gives
+w: of Hiraṇyakaśipu  the chest
+w: the stone  chisel  whose nails
+tr: “Obeisance to You, Lord Narasiṁha, who give joy to Prahlāda, and whose nails are a chisel on the stone of Hiraṇyakaśipu’s chest.” (Nṛsiṁha-purāṇa)
+fn: Heading in the edition: obeisance to Śrī Nṛsiṁha, the sole protector of the devotees who preach pure bhakti, the crusher of the godless, to whom the devotees are dear (two verses of the *Nṛsiṁha-purāṇa*).
+
+## 53
+w: here  Nṛsiṁha  there  Nṛsiṁha
+w: wherever  wherever  I go  there  Nṛsiṁha
+w: outside  Nṛsiṁha  in the heart  Nṛsiṁha
+w: in Nṛsiṁha  the original  shelter  I take
+tr: “Nṛsiṁha is here, Nṛsiṁha is there; wherever I go, there is Nṛsiṁha. Nṛsiṁha is outside, Nṛsiṁha is in the heart. I take shelter of Nṛsiṁha, the original Lord.” (Nṛsiṁha-purāṇa)
+fn: *Anubhāṣya*: “here” — in this world (Devī-dhāma); “there” — in the spiritual sky (Paravyoma); “outside” — in the manifest world; “in the heart” — in the inner world. Heading in the edition: the preacher of pure bhakti sees Śrī Nṛsiṁhadeva everywhere as his protector.
+
+## 54
+w: then  the Lord  made  of Jagannātha  darśana
+w: home  coming  made  the midday  meal
+tr: Then the Lord had *darśana* of Jagannātha, and on returning home He took His midday meal.
+
+## 55
+w: at the outer door  is  Kālidāsa  hoping  waiting
+w: to Govinda  by a sign  the Lord  speaks  knowing
+tr: Kālidāsa was waiting hopefully at the outer door. Knowing this, the Lord gave Govinda a sign.
+
+## 56
+w: the Lord’s  sign  Govinda  all  understands
+w: to Kālidāsa  gave  the Lord’s  plate of remnants  as a gift
+tr: Govinda understood all the Lord’s signs and gave Kālidāsa the plate with the Lord’s remnants.
+
+## 57
+w: of Vaiṣṇavas  remnants  of eating  such  greatness
+w: to Kālidāsa  made obtain  the Lord’s  mercy  the limit
+tr: Such is the greatness of the remnants of Vaiṣṇavas: by taking them Kālidāsa received the Lord’s mercy in its fullest measure.
+
+## 58
+w: therefore  Vaiṣṇavas’  leftovers  eat  giving up  disgust  shame
+w: which  from  you will obtain  desired  all  aims
+tr: Therefore, casting off disgust and shame, take the remnants (*jhuṭā*) of Vaiṣṇavas; through them you will obtain all you desire.
+
+## 59
+w: of Kṛṣṇa  the remnants  are  mahā-prasāda  named
+w: devotee’s  remnants  if they become  mahā-mahā-prasāda  called
+tr: The remnants of Kṛṣṇa are called *mahā-prasāda*; when they become the remnants of a devotee, they are called *mahā-mahā-prasāda*.
+
+## 60
+w: devotee’s  feet  dust  and  devotee’s  feet  water
+w: by the devotee  eaten  remnants  these  three  of practice  the strength
+tr: The dust of a devotee’s feet, the water that has washed his feet, and the remnants of what he has eaten — these three are the strength of spiritual practice.
+fn: *Amṛta-pravāha-bhāṣya*: to take the dust of a devotee’s feet, the water that has washed his feet, and the nectar of his lips (*adharāmṛta*) — in these three lies the strength of every spiritual practice.
+
+## 61
+w: these  three  serving  from  for Kṛṣṇa  love  arises
+w: again  again  in all  scriptures  loudly  they declare
+tr: By serving these three one attains love for Kṛṣṇa; all the scriptures declare this loudly again and again.
+
+## 62
+w: therefore  again  again  I say  hear  devotees
+w: faith  having  do  these three  service
+tr: Therefore I tell you over and over: listen, O devotees! Serve these three with faith.
+
+## 63
+w: the three  from  Kṛṣṇa’s  name  of love  jubilation
+w: Kṛṣṇa’s  grace  of that  witness  Kālidāsa
+tr: These three bring the joy of Kṛṣṇa’s name and of love for Him, and through them one gains Kṛṣṇa’s grace. Kālidāsa is the witness to this.
+
+## 64
+w: in Nīlācala  Mahāprabhu  stays  in this way
+w: to Kālidāsa  great  mercy  showed  unnoticed
+tr: In this way Mahāprabhu lived in Nīlācala, and without anyone noticing He showed Kālidāsa great mercy.
+
+## 65
+w: that  year  Śivānanda  his wife  taking  came
+w: Purī dāsa  his youngest  son  with him  brought
+tr: That year Śivānanda came with his wife and brought with him his youngest son, Purī dāsa.
+fn: Heading in the edition: for the Ratha-yātrā Śivānanda comes to Purī with his son Paramānanda Purī dāsa. This is the future poet Kavi-karṇapūra: the edition gives verse 74 as the first verse of his *Āryā-śataka*.
+
+## 66
+w: son  with  taking  he  came  to the Lord’s place
+w: the son  he made  the Lord’s  feet  honour
+tr: Taking his son, he came to the Lord and had the boy bow at His feet.
+
+## 67
+w: Kṛṣṇa  say  saying  the Lord  says  again  again
+w: still  Kṛṣṇa’s  name  the boy  not  makes  utterance
+tr: Again and again the Lord said, “Say ‘Kṛṣṇa’!” But the boy stayed silent and would not utter the name of Kṛṣṇa.
+
+## 68
+w: Śivānanda  with the boy  much  effort  made
+w: still  that  boy  Kṛṣṇa’s  name  not  said
+tr: Śivānanda did all he could to persuade the boy, but still the boy did not say the name of Kṛṣṇa.
+
+## 69
+w: the Lord  says  I  the name  the world  made take
+w: the unmoving  even  Kṛṣṇa’s  name  I made say
+tr: The Lord said, “I have made the whole world chant the holy name; I have made even trees and stones say the name of Kṛṣṇa.
+
+## 70
+w: this one  I could not  Kṛṣṇa’s  name  make say
+w: hearing  Svarūpa  Gosāñi  began  to speak
+tr: Yet I could not make this boy say the name of Kṛṣṇa!” Hearing this, Svarūpa Gosāñi said:
+
+## 71
+w: You  Kṛṣṇa’s  name  mantra  made  instruction
+w: the mantra  having received  anyone  before  not  makes  disclosure
+tr: “You have instructed him in the mantra of Kṛṣṇa’s name. Having received the mantra, he will not disclose it to anyone.
+fn: *Anubhāṣya*: if a mantra received from Śrī Gurudeva is disclosed to another, it loses its potency; we know this already from the story of Śrī Gadādhara Paṇḍita.
+
+## 72
+w: in the mind  in the mind  he chants  with the mouth  not  makes  utterance
+w: this  his  mind’s  thought  I make  guess
+tr: He chants it silently, within, but does not speak it aloud. That, I think, is his intention.”
+
+## 73
+w: another  day  says  the Lord  recite  Purī dāsa
+w: this  verse  composing  he  made  manifest
+tr: Another day the Lord said, “Recite, Purī dāsa!” and the boy composed and recited this verse:
+
+## 74
+w: in the ears  a blue lotus  for the eyes  collyrium
+w: for the chest  of great sapphires  a garland
+w: of Vṛndāvana’s  beautiful girls  the ornament
+w: complete  Hari  is glorious
+tr: “Glory to Hari! He is all the adornment of the girls of Vṛndāvana: the blue lotus at their ears, the collyrium of their eyes, the necklace of great sapphires upon their breast.” (Āryā-śataka, 1)
+fn: *Anubhāṣya*: *akhilaṁ maṇḍanam* — “every adornment”: Hari Himself is the whole adornment of the girls of Vraja; *mahendra-maṇi* — sapphire (*indranīla*). Heading in the edition: glory to Kṛṣṇa, the ornament of the gopīs’ hearts; the first verse of Kavi-karṇapūra’s *Āryā-śataka*.
+
+## 75
+w: seven  years  a child  no  study
+w: such  verse  makes  people  amazed  minds
+tr: He was a child of seven, who had not studied, yet he composed such a verse! Everyone was amazed.
+
+## 76
+w: Caitanya  Prabhu’s  this  of mercy  greatness
+w: Brahmā and the other  gods  of which  not  find  the limit
+tr: Such is the greatness of Caitanya Prabhu’s mercy; even Brahmā and the other gods cannot find its limit.
+
+## 77
+w: the devotees  with the Lord  stayed  four months
+w: the Lord  leave  gave  all  went  to the land of Gauḍa
+tr: The devotees stayed with the Lord for four months; then He gave them leave, and they all went back to Gauḍa.
+
+## 78
+w: them all  with  the Lord’s  was  external  awareness
+w: they  gone  again  became  madness  dominant
+tr: In their company the Lord kept His external awareness, but when they had gone, His divine madness again prevailed.
+fn: Heading in the edition: in the company of the devotees of Gauḍa, in His outward state, the Lord preached through talks about Kṛṣṇa and kīrtana; left without them, in His inner state He became mad in the mood of a gopī separated from Kṛṣṇa.
+
+## 79
+w: night and day  appear  Kṛṣṇa’s  form  fragrance  taste
+w: directly  experiencing  as if  Kṛṣṇa’s  touch
+tr: Night and day Kṛṣṇa’s form, fragrance and taste appeared to Him; He experienced them directly, as if Kṛṣṇa were touching Him.
+fn: Heading in the edition: in separation the Lord constantly feels Kṛṣṇa’s nearness — Kṛṣṇa appears to Him (*sphūrti*).
+
+## 80
+w: one  day  the Lord  went  for Jagannātha’s  darśana
+w: at the Siṁha-dvāra  the doorkeeper  coming  made  obeisance
+tr: One day, when the Lord went to see Jagannātha, the doorkeeper came up to Him at the Siṁha-dvāra and bowed down.
+fn: Heading in the edition: the Lord’s words in *udghūrṇā* (bewilderment of feeling); in the form of Jagannātha He sees Śyāmasundara.
+
+## 81
+w: to him  says  where  Kṛṣṇa  My  life’s  Lord
+w: to Me  Kṛṣṇa  show  saying  takes  his  hand
+tr: The Lord said to him, “Where is Kṛṣṇa, the Lord of My life? Show Me Kṛṣṇa!” and took him by the hand.
+
+## 82
+w: he  says  here  is  of the king of Vraja  the son
+w: come  You  me  with  I will make  see
+tr: The doorkeeper said, “The son of the king of Vraja is here. Come with me and I will show Him to You.”
+
+## 83
+w: you  My  friend  show  where  life’s  Lord
+w: this  saying  to the jagamohana  went  holding  his  hand
+tr: “You are My friend. Show Me where the Lord of My life is!” Saying this, the Lord went into the *jagamohana*, holding the man’s hand.
+
+## 84
+w: he  says  here  see  Śrī Puruṣottama
+w: the eyes  filling  You  make  darśana
+tr: The doorkeeper said, “Here is Śrī Puruṣottama. Fill Your eyes with the sight of Him.”
+
+## 85
+w: of Garuḍa  behind  staying  He makes  darśana
+w: He sees  Jagannātha  is  with the flute at His lips
+tr: Standing behind the Garuḍa pillar, the Lord gazed, and He saw that Jagannātha was Kṛṣṇa with the flute at His lips.
+
+## 86
+w: this  pastime  in his own  book  Raghunātha  dāsa
+w: in the Caitanya-stava-kalpavṛkṣa  has  described
+tr: Raghunātha dāsa has described this pastime in his own book, the *Caitanya-stava-kalpavṛkṣa*:
+
+## 87
+w: where  My  beloved  Kṛṣṇa  quickly  here  Him  show  friend
+w: you  alone  so  to the doorkeeper  saying  mad  as if
+w: quickly  go  to see  the Beloved  so  by his words  holding  his
+w: hand  Gaurāṅga  in my heart  rising  me  maddens
+tr: “‘Friend, where is My beloved Kṛṣṇa? Show Him to Me here, quickly — only you can!’ So, as if mad, Gaurāṅga spoke to the doorkeeper; and when the man said, ‘Come quickly and see Your Beloved,’ He took hold of his hand. That Gaurāṅga, rising in my heart, makes me mad with joy.” (Caitanya-stava-kalpavṛkṣa, 7)
+fn: *Anubhāṣya*: *madayati* — “fills with bliss”; so too the refrain of this prayer in Antya 6.327. Heading in the edition: *Stava-mālā*, *Caitanya-stava-kalpavṛkṣa*, verse 7.
+
+## 88
+w: at that time  gopāla-vallabha  offering  was placed
+w: conch  bells  and so on  with  the ārati  sounded
+tr: At that time the *gopāla-vallabha* offering was placed before Jagannātha, and the *ārati* began to the sound of conchshells, bells and other instruments.
+fn: Heading in the edition: the morning offering (*bālya-bhoga*) to Jagannātha. *Amṛta-pravāha-bhāṣya*: in these parts the *vallabha-bhoga* is called *bāla-bhoga*.
+
+## 89
+w: the offering  being over  Jagannātha’s  servants
+w: prasāda  taking  to the Lord  made  coming
+tr: When the offering was over, Jagannātha’s servants came to the Lord with *prasāda*.
+
+## 90
+w: a garland  putting on  prasāda  gave  the Lord’s  into the hands
+w: the taste  far  let it remain  whose  by the fragrance  the mind  is intoxicated
+tr: Placing a garland on Him, they put the *prasāda* into the Lord’s hands. Let alone its taste — its very fragrance intoxicated the mind.
+
+## 91
+w: very valuable  prasāda  that  the thing  the most excellent
+w: of it  a little  to make eat  the servant  made  effort
+tr: That *prasāda* was very precious, the finest of all things, and the servant did his best to have the Lord taste a little of it.
+
+## 92
+w: of it  a little  taking  the Lord  on the tongue  when  put
+w: the rest  all  Govinda’s  in the cloth’s end  tied
+tr: The Lord took a little of it and put it on His tongue; all the rest He tied in the end of Govinda’s cloth.
+
+## 93
+w: of millions of nectars  the taste  getting  the Lord’s  wonder
+w: on all the limbs  thrill  from the eyes  flows  of tears  a stream
+tr: Tasting what was sweeter than millions of nectars, the Lord was struck with wonder. His hair stood on end all over His body, and streams of tears flowed from His eyes.
+
+## 94
+w: in this  food  such  taste  from where  has come
+w: of Kṛṣṇa  the lip-nectar  into it  has entered
+tr: “How has this food come by such a taste? The nectar of Kṛṣṇa’s lips has entered it!”
+
+## 95
+w: by this  thought  Mahāprabhu’s  absorption in love  was
+w: of Jagannātha  the servant  seeing  restraint  made
+tr: At this thought Mahāprabhu was overcome by love, but seeing Jagannātha’s servant, He restrained Himself.
+fn: Heading in the edition: recognising the nectar of Kṛṣṇa’s lips, the Lord is overcome by prema, but on seeing a servant whose service rests on majesty (*aiśvarya*) He conceals it.
+
+## 96
+w: by sukṛti  to be gained  of the remnants  a particle  He says  again and again
+w: the Lord’s  servant  asks  what  meaning  of this
+tr: Again and again He said, “A particle of the remnants, gained by *sukṛti*!” Jagannātha’s servant asked, “What does this mean?”
+fn: *Anubhāṣya*: the *Mahābhārata* and the *Skanda-purāṇa* (Utkala-khaṇḍa) say: “O king, those of little piety never come to have faith in *mahā-prasāda*, in Govinda, in the Name who is Brahman, and in the Vaiṣṇava.”
+
+## 97
+w: the Lord  says  this  that  you have given  Kṛṣṇa’s lip-nectar
+w: for Brahmā and others  rare  this  puts to shame  nectar
+tr: The Lord said, “What you have given Me is the nectar of Kṛṣṇa’s lips. Even Brahmā and the gods can hardly obtain it, and it puts nectar itself to shame.
+
+## 98
+w: Kṛṣṇa’s  which  eaten  remnants  of that  phelā  the name
+w: of it  one  particle  who  obtains  he  fortunate
+tr: The remnants of what Kṛṣṇa has eaten are called *phelā*. Whoever obtains even a particle of it is fortunate.
+
+## 99
+w: ordinary  fortune  from  its  attainment  not  is
+w: Kṛṣṇa’s  on whom  full  mercy  he  it  obtains
+tr: It cannot be attained by ordinary good fortune. Only one on whom Kṛṣṇa’s full mercy rests obtains it.
+fn: *Anubhāṣya*: “ordinary fortune” is good fortune born of the fruits of karma. Heading in the edition: here the fruits of *sukṛti* directed to karma and of *sukṛti* directed to bhakti are distinguished.
+
+## 100
+w: sukṛti  by the word  is meant  of Kṛṣṇa’s mercy  the cause  piety
+w: this  whose  is  phelā  obtains  he  blessed
+tr: The word *sukṛti* means the piety that is the cause of Kṛṣṇa’s mercy. Whoever has it obtains *phelā* and is blessed.”
+fn: *Amṛta-pravāha-bhāṣya*: *sukṛti* is the pious act that gives rise to Kṛṣṇa’s mercy (*sukṛti* directed to bhakti).
+
+## 101
+w: this  having said  the Lord  them all  leave  gave
+w: the upala-bhoga  seeing  the Lord  to His own  residence  came
+tr: Having said this, the Lord gave the servants leave to go, and after seeing the *upala-bhoga* offering He returned to His residence.
+
+## 102
+w: the midday duties  having done  made  the meal  completion
+w: Kṛṣṇa’s lip-nectar  always  in the heart  remembrance
+tr: He performed His midday duties and finished His meal, but all the while He remembered the nectar of Kṛṣṇa’s lips within His heart.
+
+## 103
+w: external  duties  He does  with love  overflowing  the mind
+w: with difficulty  restraint  He makes  absorption  intense
+tr: He carried out His outward duties, but His mind was overflowing with love; His absorption was intense, and He restrained it only with great difficulty.
+
+## 104
+w: evening  duties  having done  again  His own  associates  with
+w: in seclusion  sat  of various  Kṛṣṇa  talks  in the delight
+tr: After His evening duties He again sat in seclusion with His own associates, delighting in many talks about Kṛṣṇa.
+
+## 105
+w: the Lord’s  at the sign  Govinda  the prasāda  brought
+w: to Purī  and Bhāratī  the Lord  some  sent
+tr: At the Lord’s sign Govinda brought the *prasāda*, and the Lord sent some to Paramānanda Purī and Brahmānanda Bhāratī.
+
+## 106
+w: to Rāmānanda  Sārvabhauma  Svarūpa  and the others
+w: to all  prasāda  gave  having made  distribution
+tr: He divided the *prasāda* and gave it to all — Rāmānanda, Sārvabhauma, Svarūpa and the others.
+
+## 107
+w: of the prasāda  the fragrance  the sweetness  having made  tasting
+w: at the unearthly  taste  of all  amazed  became  the minds
+tr: When they savoured the fragrance and sweetness of the *prasāda*, all were amazed at its unearthly taste.
+
+## 108–109
+w: the Lord  says  these  all  are  material  substances
+w: sugar  camphor  black pepper  cardamom  clove  ghee
+w: spices  cinnamon  and so on  as many  as all
+w: material  things’  taste  of all  the experience
+tr: The Lord said, “All these are material substances — sugar, camphor, black pepper, cardamom, cloves, ghee, spices, cinnamon and the rest. Everyone knows the taste of material things.
+fn: *Anubhāṣya*: *rasavāsa* — fragrant cardamom and cloves; *guḍatvaka* — cinnamon or mace; “material” (*prākṛta*) — whatever the conditioned soul enjoys for the sake of its own happiness: fragmentary, limited and perishable. Heading in the edition: the Lord shows how the material things enjoyed by the conditioned soul differ from *naivedya*, the spiritual offerings enjoyed by Kṛṣṇa’s spiritual senses.
+
+## 110
+w: in these  substances  such  taste  fragrance  beyond this world
+w: tasting  see  of all  conviction
+tr: Yet these substances have a taste and a fragrance beyond this world. Taste them and see for yourselves.
+
+## 111
+w: the taste  far  let it remain  whose  by the fragrance  is intoxicated  the mind
+w: itself  except  other  sweetness  makes  forget
+tr: Let alone its taste — its fragrance alone intoxicates the mind and makes one forget every sweetness but its own.
+
+## 112
+w: therefore  this  food  Kṛṣṇa’s lips’  touch  received
+w: of the lips  the qualities  all  into it  have passed
+tr: Therefore Kṛṣṇa’s lips must have touched this food, and all the qualities of His lips have passed into it.
+
+## 113
+w: unearthly  fragrance  taste  of others  forgetting
+w: great  intoxicating  are  these  of Kṛṣṇa’s lips  qualities
+tr: An unearthly fragrance and taste, and the power to make one forget everything else — such are the greatly intoxicating qualities of Kṛṣṇa’s lips.
+fn: Heading in the edition: the spiritual offerings touched by Kṛṣṇa’s lips intoxicate the devotee’s spiritual senses.
+
+## 114
+w: by many  sukṛtis  this  has been  obtained
+w: all  this  tasting  do  with  great devotion
+tr: We have gained this through much *sukṛti*. Now all of you, taste it with great devotion.”
+
+## 115
+w: Hari  calling  all  made  tasting
+w: while tasting  with love  mad  became  of all  the minds
+tr: Calling out the name of Hari, they all tasted it, and as they did so their minds grew mad with love.
+
+## 116
+w: absorbed in love  Mahāprabhu  when  order  gave
+w: Rāmānanda Rāya  verses  to recite  began
+tr: When Mahāprabhu, absorbed in love, gave the order, Rāmānanda Rāya began to recite verses.
+
+## 117
+w: union  increasing  grief  destroying
+w: by the sounding  flute  well  kissed
+w: other  attachments  making forget  of men
+w: bestow  O hero  on us  Your  lip-nectar
+tr: “O hero, grant us the nectar of Your lips. It deepens the longing for union and destroys grief; Your sounding flute kisses it tenderly, and it makes men forget every other attachment.” (Śrīmad-Bhāgavatam, 10.31.14)
+fn: *Anubhāṣya*: the gopīs pray for this in separation, when Kṛṣṇa has vanished during the rāsa dance; “hero” — hero of generosity (*dāna-vīra*); “longing for union” — the desire for *sambhoga*; “other attachments” — attachment to any happiness unconnected with Kṛṣṇa. Heading in the edition: the gopīs pray for the nectar of Kṛṣṇa’s lips (*citra-jalpa*).
+
+## 118
+w: the verse  hearing  Mahāprabhu  greatly  pleased  became
+w: of Rādhā  longing  verse  to recite  began
+tr: Mahāprabhu was greatly pleased to hear it, and He began to recite a verse of Rādhā’s eager longing:
+
+## 119
+w: of Vraja  of the incomparable  noble ladies  other  tastes  the thirst  removing
+w: shining  whose lip-nectar  by sukṛti  to be gained  of the remnants  a particle
+w: than nectar  surpassing  of betel  fine leaves  rolls  chewing
+w: He  My  Madana-mohana  O friend  increases  of the tongue  the craving
+tr: “O friend, the shining nectar of His lips takes from the incomparable noble ladies of Vraja all thirst for any other taste; a particle of His remnants is gained only by *sukṛti*; and He chews rolls of fine betel leaves sweeter than nectar. That Madana-mohana of Mine deepens the craving of My tongue.” (Govinda-līlāmṛta, 8.8)
+fn: *Anubhāṣya*: “the craving of the tongue” — the craving of a tongue eager to serve Kṛṣṇa. Heading in the edition: Śrī Rādhā’s words to Viśākhā.
+
+## 120
+w: this  having said  Gaura  Prabhu  absorbed in feeling  becoming
+w: of the two  verses  the meaning  makes  raving  doing
+tr: Having said this, Gaura Prabhu, absorbed in feeling, explained the meaning of the two verses in raving words (*pralāpa*).
+
+## 121–122
+w: body  mind  makes  agitation
+w: increases  for union  the longing
+w: of joy  grief  and so on  the burden  destroys
+w: makes forget  other  tastes
+w: the world  makes  its own  subject
+w: shame  duty  composure  makes  destruction
+w: O lover  hear  Your  of the lips  conduct
+w: intoxicates  of women  the mind
+w: the tongue  makes  attraction
+w: on reflection  all  contrary
+tr: “O Beloved, hear the ways of Your lips! They stir the body and mind, increase the longing for union, and take away the burden of joy, grief and all the rest. They make one forget every other taste, bring the whole world under their sway, and destroy shame, duty and composure. They intoxicate the minds of women and draw them on, kindling the craving of the tongue. Yet when I think it over, everything about them is contrary.
+fn: Heading in the edition: explanation of the first verse; the spiritual power of the nectar of Kṛṣṇa’s lips; tune — any (*yathā-rāga*). The line “O Beloved, hear…” is marked in the edition as a refrain (*dhruva*). *Amṛta-pravāha-bhāṣya*: Kṛṣṇa’s lips intoxicate the minds of women and draw them, kindling the craving of the tongue.
+
+## 123
+w: let alone  of women  the matter
+w: to say  I feel  shame
+w: Your  lips  very  bold  lord
+w: a man  they make  attraction
+w: themselves  to give to drink  desire
+w: other  tastes  all  make forget
+tr: Let alone women — I am ashamed even to say it: Your lips are the boldest of masters. They draw even a man to them, longing to give themselves to him to drink, and make him forget every other taste.
+fn: *Anubhāṣya*: *dhṛṣṭa-rāya* — brazen, the first among the insolent.
+
+## 124
+w: the conscious  let remain  far
+w: the unconscious  conscious  they make
+w: Your  lips  a great  magician
+w: Your  flute  dry fuel
+w: in it  they produce  senses  mind
+w: to it  themselves  give to drink  constantly
+tr: Let alone the conscious — Your lips make even the unconscious conscious; they are a great magician! Your flute is nothing but dry firewood, yet they give it senses and a mind and let it drink of them ceaselessly.
+fn: Heading in the edition: Śrī Rādhā’s jealousy of Kṛṣṇa’s flute.
+
+## 125
+w: the flute  a bold  man  being
+w: a man’s lips  drinking  drinking
+w: to the gopīs  announces  its own  drinking
+w: oh  hear  gopīs
+w: by force  I drink  your  wealth
+w: yours  if  there is  pride
+tr: The flute, a brazen man, drinks and drinks the lips of a man and tells the gopīs of its drinking: ‘Listen, O gopīs! I am drinking your wealth by force. If you have any pride,
+
+## 126
+w: then  at me  anger  making
+w: shame  fear  duty  giving up
+w: I will give up  do  coming  drinking
+w: otherwise  I will drink  constantly
+w: of you  my  is no  fear
+w: others  I see  to straw  equal
+tr: then be angry with me, cast off shame, fear and duty, and I will yield it to you: come and drink. Otherwise I shall drink it without end. I have no fear of you, and all others I count as straw.’
+
+## 127
+w: lip-nectar  with its own sound
+w: mixing  by that  force
+w: attracts  of the three worlds  the people
+w: we  of duty  fear  having
+w: remain  if  composure  holding
+w: then  us  it makes  mockery
+tr: The flute mixes the nectar of Your lips with its own sound, and by that power it draws the people of the three worlds. And if we, fearing for our duty, try to keep our composure, it makes a mockery of us.
+
+## 128
+w: the waist-knot  loosens  before the elders
+w: shame  duty  makes  give up
+w: by the hair  seizing  as if  taking  goes
+w: bringing  makes  Your  maidservants
+w: hearing  people  make  laughter
+w: in this way  women  makes dance
+tr: Before our elders it loosens the knots at our waists and makes us abandon shame and duty. As if seizing us by the hair, it leads us away, brings us to You and makes us Your maidservants, and people laugh to hear of it. This is how it makes women dance!
+
+## 129
+w: dry  of bamboo  a stick
+w: so much  makes  insult
+w: this  state  has made  a master
+w: not  bearing  what  to do  can we
+w: so  we remain  silence  keeping
+w: of the thief  the mother  calling  to weep  not
+tr: A stick of dry bamboo heaps such insults on us! Like a master, it has brought us to this state. What can we do but bear it? So we keep silent: when a thief is punished, his mother cannot call out and weep.
+fn: *Amṛta-pravāha-bhāṣya*: the flute is only a stick of dry bamboo, yet like a master it humiliates the gopīs; a thief’s mother cannot call people and weep to have him saved — so the gopīs keep silent.
+
+## 130
+w: of the lips  this  the way
+w: further  hear  the bad custom
+w: those  lips  with  which  meeting
+w: that  food  edible  drink
+w: becomes  nectar  equal
+w: the name  its  is  Kṛṣṇa  phelā
+tr: Such is the way of Your lips. Now hear the bad custom of whatever meets those lips: any food or drink they touch becomes like nectar and is called ‘Kṛṣṇa’s *phelā*’.
+fn: Heading in the edition: explanation of the second verse; the glory of the nectar of Kṛṣṇa’s lips. *Amṛta-pravāha-bhāṣya*: the “bad custom” belongs to whatever meets the lips: food and drink they have touched become nectar, and the *phelā* is so proud that ordinary people cannot believe it.
+
+## 131
+w: that  phelā’s  one  particle
+w: not  obtain  the gods  all
+w: this  boast  who  would believe
+w: many  births  pious acts  does
+w: then  sukṛti  the name  takes
+w: by that  sukṛti  its  particle  obtains
+tr: Not one of the gods can obtain a particle of that *phelā* — who would believe such a boast? Only piety gathered over many births bears the name *sukṛti*, and by that *sukṛti* one obtains a particle of it.
+
+## 132
+w: Kṛṣṇa  which  chews  betel
+w: they say  its  is no  price
+w: to that  further  of boasting  the artfulness
+w: its  whatever  chewed remnant
+w: that  they call  nectar’s  essence
+w: the gopīs’  mouths  they make  a bowl for saliva
+tr: The betel Kṛṣṇa chews is said to be beyond price, and on top of that comes this artful boast: what He has chewed they call ‘the essence of nectar’, and they make the gopīs’ mouths its cup, its *ālabāṭī*.
+fn: *Anubhāṣya*: *ālabāṭī* — a *bāṭī* (bowl) for *āla* (saliva), a spittoon.
+
+## 133
+w: all this  Your  wiles
+w: give up  this  artfulness
+w: by the flute  why  You steal  lives
+w: for Your own  amusement  for the sake of
+w: do not be  of women  the killing  sharer
+w: give  Your own lip-nectar  as a gift
+tr: All this is Your trickery. Give up this artfulness! Why do You steal our lives with Your flute? Do not, for Your own amusement, make Yourself guilty of killing women. Give us the gift of the nectar of Your lips.”
+fn: The *Amṛta-pravāha-bhāṣya* gives two readings: “if You become a killer of women, You Yourself will be blamed — so do not do it”, and “do not kill women for Your own amusement”.
+
+## 134
+w: speaking  speaking  the Lord’s  mind  turned  went
+w: angry  mind  calm  became  longing  increased
+tr: As He spoke, the Lord’s mood changed: His angry mind grew calm, and His longing increased.
+
+## 135
+w: supremely  rare  this  Kṛṣṇa’s lip-nectar
+w: it  whoever  obtains  his  successful  life
+tr: “This nectar of Kṛṣṇa’s lips is supremely rare. Whoever obtains it has found the fruit of life.
+
+## 136
+w: worthy  being  someone  to do  not  gets  drinking
+w: still  he  shameless  in vain  holds  life
+tr: If one who is worthy cannot drink it and still clings to life, he is shameless and lives in vain.
+
+## 137
+w: unworthy  being  it  someone  always  drinking  does
+w: worthy  person  not  gets  from longing  only  dies
+tr: The unworthy drink it constantly, while the worthy do not get it and only die of longing.
+
+## 138
+w: therefore  I know  some  austerity’s  is  power
+w: to the unworthy  gives  Kṛṣṇa’s lip-nectar  the fruit
+tr: So I know there is power in some austerity: as its fruit, the unworthy are given the nectar of Kṛṣṇa’s lips.
+
+## 139
+w: tell  Rāma Rāya  something  to hear  is  My mind
+w: the mood  knowing  recites  Rāya  of the gopīs  the words
+tr: Tell Me something, Rāmarāya — My mind longs to hear.” Knowing His mood, Rāmānanda recited the words of the gopīs:
+
+## 140
+w: O gopīs  what  performed  this  good deed  indeed  flute
+w: of Dāmodara  of the lips  the nectar  even  of the gopīs
+w: enjoys  itself  of which  the left-over  taste  the rivers
+w: thrilled  in skin  tears  shed  the trees  like  the elders
+tr: “O gopīs, what good deed did this flute perform, that it enjoys of its own accord the nectar of Dāmodara’s lips, which belongs to the gopīs, leaving only a taste of it behind? The rivers that nourished it thrill with joy, their lotuses like hair standing on end, and the trees shed tears, like elders of a family rejoicing in a descendant.” (Śrīmad-Bhāgavatam, 10.21.9)
+fn: *Anubhāṣya*: the gopīs say this in autumn, when Kṛṣṇa is herding the cows in the forest and playing His flute. The rivers nourished the flute with their water and are like mothers to it; the trees are its kin: as the elders of a family tremble and weep on seeing a servant of the Lord born in their line, so the trees shed tears of bliss — streams of honey.
+
+## 141
+w: this  verse  hearing  the Lord  absorbed in feeling  becoming
+w: in longing  the meaning  makes  raving  doing
+tr: Hearing this verse, the Lord became absorbed in feeling, and in His longing He explained its meaning in raving words.
+
+## 142
+w: ah  of the king of Vraja  the son
+w: of Vraja  some  maidens
+w: certainly  will make  marriage
+w: by that  relation  the gopīs
+w: which  know  their own wealth
+w: that  nectar  for others  attainable  is not
+tr: “Ah, the son of the king of Vraja will certainly marry some maidens of Vraja. Because of that bond the gopīs know this nectar as their own wealth, and it is not for others to attain.
+fn: Heading in the edition: seeing the good fortune of the flute that drinks the nectar of Kṛṣṇa’s lips, the gopīs speak of it jealously — and yet praise it (*citra-jalpa*).
+
+## 143
+w: O gopīs  tell  all  making  consideration
+w: which  holy place  which  austerity
+w: which  perfected  mantra  chanting
+w: this  flute  did  in a former birth
+tr: O gopīs, think it over together and tell Me: what holy place, what austerity, what chanting of a perfect mantra did this flute perform in a former birth?
+fn: The line “O gopīs, think it over…” is marked in the edition as a refrain (*dhruva*).
+
+## 144
+w: such  Kṛṣṇa’s lips’  nectar
+w: which  made  nectar  eclipsed
+w: of which  in the hope  the gopīs  hold  life
+w: this  flute  unworthy  very
+w: unmoving  of the male  sex
+w: that  nectar  always  makes  drinking
+tr: Such is the nectar of Kṛṣṇa’s lips: it has eclipsed nectar itself, and only in the hope of it do the gopīs keep their lives. Yet this flute, utterly unworthy, an unmoving thing, and of the male sex besides, drinks that nectar all the time.
+fn: *Anubhāṣya*: *ye kaila amṛta-mudā* — according to some, the nectar of Kṛṣṇa’s lips by the power of its sweetness covers (conquers) even nectar.
+
+## 145
+w: whose  wealth  not  tells  them
+w: drinking  makes  by force
+w: to drink  them  calling  announces
+w: its  austerity’s  the fruit
+w: see  its  fortune’s  power
+w: its  remnants  the great  eat
+tr: Without asking those to whom this wealth belongs, it drinks it by force and loudly calls them to come and drink. See the fruit of its austerity, the power of its good fortune: even the great partake of its remnants.
+fn: *Amṛta-pravāha-bhāṣya*: “the great” (*mahājana*) are the Mānasa-gaṅgā and the Yamunā: they are holy rivers.
+
+## 146
+w: the Mānasa-gaṅgā  the Kālindī
+w: the world  purifying  rivers
+w: Kṛṣṇa  when  in them  makes  bath
+w: of the flute  left over  of the lips  the taste
+w: being  by longing  overpowered
+w: at that  time  with joy  make  drinking
+tr: The Mānasa-gaṅgā and the Kālindī are rivers that purify the world. When Kṛṣṇa bathes in them, they are overpowered by longing and joyfully drink the taste of His lips left over by the flute.
+
+## 147
+w: these  rivers  let remain  far
+w: trees  all  their  on the banks
+w: austerity  perform  to others  beneficent
+w: of the rivers  the left-over  taste  getting
+w: by the roots  drawing up
+w: why  they drink  to understand  not  I can
+tr: But let alone the rivers! The trees on their banks perform austerities and do good to others; yet they take the taste the rivers have left, draw it up through their roots and drink it — why, I cannot understand.
+fn: So in the Gauḍīya Maṭha edition: *e-ta nadī rahu dūre*, “let alone the rivers”. Other editions read *e-ta nārī bahu dūre*, “let alone women”.
+fn: *Amṛta-pravāha-bhāṣya*: holy though they are, they are still rivers; so they can drink the taste of Kṛṣṇa’s lips left over by the flute.
+
+## 148
+w: with their own shoots  thrilled
+w: in flowers  laughter  blossoming
+w: of honey  in the guise  flow  of tears  streams
+w: the flute  regarding  as their own  kin
+w: of a noble man  as  sons  grandsons
+w: Vaiṣṇavas  becoming  of bliss  transformation
+tr: Their new shoots are their hair standing on end, their flowers are blossoming laughter, and in the guise of honey streams of tears flow from them. They regard the flute as their own kin and are overcome with bliss, as a noble man is when his sons and grandsons become Vaiṣṇavas.
+
+## 149
+w: the flute’s  austerity  we know  when
+w: that  austerity  we will do  then
+w: it  unworthy  we  worthy  women
+w: what  not  getting  in grief  we die
+w: the unworthy  drinks  to bear  we cannot
+w: that  for the sake of  austerity  we consider
+tr: When we know what austerity the flute performed, we will perform the same. It is unworthy, and we are worthy women. We are dying of grief for want of what the unworthy one drinks, and we cannot bear it. That is why we are pondering its austerity.”
+
+## 150
+w: so much  lamentation  making
+w: absorbed in love  Gaurahari
+w: with  taking  Svarūpa  Rāma Rāya
+w: sometimes  dances  sometimes  sings
+w: in absorption of feeling  into a swoon  goes
+w: in this way  night  day  passes
+tr: Thus Gaurahari lamented, absorbed in love. With Svarūpa and Rāmarāya at His side He sometimes danced, sometimes sang, and sometimes, overcome by feeling, fell into a swoon. In this way His nights and days passed.
+fn: Heading in the edition: the Lord’s madness of love for Kṛṣṇa in the mood of the gopīs.
+
+## 151
+w: of Svarūpa  Rūpa  Sanātana
+w: of Raghunātha  the holy feet
+w: on my head  placing  I make  whose  hope
+w: the Caitanya-caritāmṛta
+w: than nectar  surpassing nectar
+w: sings  lowly  and fallen  Kṛṣṇadāsa
+tr: Placing on my head the holy feet of Svarūpa, Rūpa, Sanātana and Raghunātha, and hoping for their mercy, I, Kṛṣṇadāsa, lowly and fallen, sing the *Caitanya-caritāmṛta*, a nectar surpassing nectar.

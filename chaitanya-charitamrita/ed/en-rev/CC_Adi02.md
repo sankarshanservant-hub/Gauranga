@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 2  
 **The Auspicious Invocation Indicating the Object: Determining the Truth of Caitanya**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রীচৈতন্যপ্রভুং বন্দে বালোঽপি যদনুগ্রহাৎ ৷  
 তরেন্নানামতগ্রাহব্যাপ্তং সিদ্ধান্তসাগরম্ ॥ ১ ॥
@@ -300,9 +300,9 @@ the sun  as  with its form  see  the gods
 jñāna-yoga-mārge tām̐re bhaje yei saba  
 on the path of knowledge and yoga  Him  worship  who  all  
 brahma-ātma-rūpe tām̐re kare anubhava  
-as Brahman and the Self  Him  they  realize
+as Brahman and the Self  Him  they  realise
 
-(26) Those who worship Him on the paths of knowledge and yoga realize Him as Brahman and as the Supersoul.
+(26) Those who worship Him on the paths of knowledge and yoga realise Him as Brahman and as the Supersoul.
 
 উপাসনা-ভেদে জানি ঈশ্বর-মহিমা ৷  
 অতএব সূর্য্য তাঁর দিয়ে ত’ উপমা ॥ ২৭ ॥
@@ -1307,7 +1307,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^6]: *Amṛta-pravāha-bhāṣya*: “The conclusion of the scriptures is this: the supreme truth of *viṣṇu-tattva* is Bhagavān Himself, Kṛṣṇacandra.”
 
-[^7]: *Amṛta-pravāha-bhāṣya*: the first realization of that non-dual knowledge is Brahman, the second Paramātmā, the third Bhagavān.
+[^7]: *Amṛta-pravāha-bhāṣya*: the first realisation of that non-dual knowledge is Brahman, the second Paramātmā, the third Bhagavān.
 
 [^8]: *Amṛta-pravāha-bhāṣya*: “… the Brahman distinct from the unlimited opulences — earths and the rest — in millions upon millions of universes, undivided, infinite and complete, has arisen from the effulgence of that original Person, Govinda.”
 
@@ -1329,7 +1329,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^17]: *Anubhāṣya*: the verse gives three meanings of the name Nārāyaṇa, corresponding to the three Puruṣa-avatāras: “the Self of all the embodied” (*nāra* — the aggregate of souls, *ayana* — their shelter) is Kṣīrodakaśāyī; “the witness of all the worlds” (*ayase* — “You know”) is Garbhodakaśāyī; “He whose abode is the waters born of Nara” is Kāraṇodakaśāyī. All of Them are Your portions, and You are the original Nārāyaṇa. “Not māyā” — not transient like what māyā produces: māyā cannot touch Your spiritual body, even in the avatāras.
 
-[^18]: This is the first reason why Kṛṣṇa is the original Nārāyaṇa: *nāra* — all souls, *ayana* — their shelter (2.38). *Amṛta-pravāha-bhāṣya*: the material creation lies within māyā (Gītā, 7.4–5).
+[^18]: This is the first reason why Kṛṣṇa is the original Nārāyaṇa: *nāra* — all souls, *ayana* — their shelter (2.38). *Amṛta-pravāha-bhāṣya*: the material creation lies within māyā (*Gītā* 7.4–5).
 
 [^19]: *Amṛta-pravāha-bhāṣya*: “Because They create through māyā, these three Puruṣas are *māyī*, that is, lords in relation to māyā.” Māyā does not touch Them (2.54).
 

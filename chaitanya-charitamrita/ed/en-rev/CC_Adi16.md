@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 16  
 **A Brief Description of the Youthful Pastimes**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 কৃপাসুধা-সরিদ্ যস্য বিশ্বমাপ্লাবয়ন্ত্যপি ৷  
 নীচগৈব সদা ভাতি তং চৈতন্যপ্রভুং ভজে ॥ ১ ॥

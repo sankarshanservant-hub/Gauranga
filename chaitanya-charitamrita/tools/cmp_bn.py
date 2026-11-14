@@ -31,7 +31,9 @@ def diffs(chap):
     out = []
     for r in rows:
         for i, n in enumerate(r['nums']):
-            k, bl = vbt(n)
+            hit = vbt(n)
+            if hit is None: continue          # у vedabase стиха нет (глава короче) — пропустить
+            k, bl = hit
             mine = ' '.join(r['bn'][i])
             if '-' in k:   # сдвоенный у vedabase: взять нужное двустишие
                 parts = re.findall(r'.*?॥\s*[০-৯]+\s*॥', ' '.join(bl), re.S)

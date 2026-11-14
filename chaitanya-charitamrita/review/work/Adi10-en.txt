@@ -172,7 +172,7 @@ fn: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came
 
 ## 31
 w: Dāmodara  Paṇḍita  the branch  in love  fierce
-w: of the Lord  toward  who  made  a chastisement in words
+w: of the Lord  towards  who  made  a chastisement in words
 tr: Dāmodara Paṇḍita, another branch, was so fierce in his love that he even rebuked the Lord.
 
 ## 32
@@ -427,7 +427,7 @@ fn: In the edition the heading is “(5a) the branch of Devānanda Paṇḍita,�
 
 ## 78–79
 w: of Khaṇḍa  the residents  Mukunda dāsa,  Śrī  Raghunandana
-w: Narahari dāsa,  Ciranjīva,  Sulocana
+w: Narahari dāsa,  Cirañjīva,  Sulocana
 w: these  all  great branches —  of Caitanya’s  mercy  abodes
 w: of love  fruits  flowers  make  everywhere  gift
 tr: Mukunda dāsa, Śrī Raghunandana, Narahari dāsa, Ciranjīva and Sulocana, all of Śrīkhaṇḍa, are great branches, abodes of Śrī Caitanya’s mercy. Everywhere they give away the fruits and flowers of love.
@@ -650,7 +650,7 @@ tr: Śrī Rāmadāsa, Mādhava and Vāsudeva Ghoṣa. Govinda stayed with the Lo
 fn: Heading in the edition to 10.117: “Abhirāma, Mādhava and Vāsu Ghoṣa preach the holy name in Gauḍa with Nitāi.”
 
 ## 119
-w: Bhāgavatācārya,  Ciranjīva  Śrī  Raghunandana
+w: Bhāgavatācārya,  Cirañjīva  Śrī  Raghunandana
 w: Śrī Mādhavācārya,  Kamalākānta,  Śrī  Yadunandana
 tr: Other branches are Bhāgavatācārya, Ciranjīva, Śrī Raghunandana, Śrī Mādhavācārya, Kamalākānta and Śrī Yadunandana.
 fn: In the edition’s heading Bhāgavatācārya, Ciranjīva and Raghunandana are marked with their earlier numbers (75, 41, 39a) — they are the same persons named above; the new branches are (85) Mādhavācārya, (86) Kamalākānta and (87) Yadunandana. *Anubhāṣya*: Kamalākānta is Kamalākānta Viśvāsa of Advaita’s party; Yadunandana Ācārya belongs to Advaita’s branch (Antya 6.160–169).
@@ -730,8 +730,8 @@ w: Rāmānanda  with  My  difference of body  only
 tr: “These five sons of yours are dear to Me, and between Rāmānanda and Me there is a difference of body alone.”
 
 ## 135–136
-w: Pratāparudra  the king,  and  the Oriya  Kṛṣṇānanda
-w: Paramānanda  Mahāpātra,  the Oriya  Śivānanda
+w: Pratāparudra  the king,  and  the Oriyā  Kṛṣṇānanda
+w: Paramānanda  Mahāpātra,  the Oriyā  Śivānanda
 w: Bhagavān  Ācārya,  called Brahmānanda  Bhāratī
 w: Śrī  Śikhi  Māhiti,  and  Murāri  Māhiti
 tr: Other branches are King Pratāparudra, Kṛṣṇānanda of Orissa, Paramānanda Mahāpātra, Śivānanda of Orissa, Bhagavān Ācārya, Brahmānanda Bhāratī, Śrī Śikhi Māhiti and Murāri Māhiti.
@@ -797,7 +797,7 @@ w: two  kīrtana singers  stay  of Mahāprabhu  at the side
 tr: Baḍa Haridāsa and Choṭa Haridāsa, two kīrtana singers, stayed by Mahāprabhu’s side.
 
 ## 148
-w: Rāmabhadrācārya,  and  the Oriya  Siṁheśvara
+w: Rāmabhadrācārya,  and  the Oriyā  Siṁheśvara
 w: Tapana  Ācārya,  and  Raghu,  Nīlāmbara
 tr: There were also Rāmabhadra Ācārya, Siṁheśvara of Orissa, Tapana Ācārya, Raghu and Nīlāmbara;
 

@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 7  
 **Setting Forth the Account of the Pañca-tattva**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 অগত্যেকগতিং নত্বা হীনার্থাধিকসাধকম্ ৷  
 শ্রীচৈতন্যং লিখ্যতেঽস্য প্রেমভক্তিবদান্যতা ॥ ১ ॥
@@ -832,7 +832,7 @@ of the great mantra of Kṛṣṇa’s name  this  indeed  the nature
 yei jape, tāra kṛṣṇe upajaye bhāva  
 whoever  chants  his  for Kṛṣṇa  arises  bhāva
 
-(83) ‘Such is the nature of the great mantra, Kṛṣṇa’s name: it awakens bhāva for Kṛṣṇa in whoever chants it.[^23]
+(83) ‘Such is the nature of the great mantra, Kṛṣṇa’s name: it awakens *bhāva* for Kṛṣṇa in whoever chants it.[^23]
 
 কৃষ্ণবিষয়ক প্রেমা — পরম পুরুষার্থ ৷  
 যার আগে তৃণতুল্য চারি পুরুষার্থ ॥ ৮৪ ॥
@@ -1407,7 +1407,7 @@ in His own form and majesty  His  there is not  of māyā  a trace
 sakala vedera haya bhagavān se ‘sambandha’  
 of all  the Vedas  is  Bhagavān  that  ‘sambandha’
 
-(139) In His own form and majesty there is not a trace of *māyā*; in all the Vedas Bhagavān is the *sambandha* — the One to whom everything is related.
+(139) In His own form and majesty there is not a trace of māyā; in all the Vedas Bhagavān is the *sambandha* — the One to whom everything is related.
 
 তাঁরে ‘নির্ব্বিশেষ’ কহি, চিচ্ছক্তি না মানি’ ৷  
 অর্দ্ধ স্বরূপ না মানিলে পূর্ণতা হয় হানি ॥ ১৪০ ॥
@@ -1745,7 +1745,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^7]: *Anubhāṣya*: Śrī Mahāprabhu is the highest Truth, above all, while Śrī Nityānanda and Śrī Advaita are *īśvara-tattvas* subordinate to Him; all three are worshipable by everyone else. The fourth truth is the pure devotees, the fifth the intimate (*antaraṅga*) devotees; both are worshippers. The two worshipable truths, though the last two worship them, are themselves engaged in the service of Śrī Gaurāṅga.
 
-[^8]: *Anubhāṣya*: the truths of *śakti* — the intimate devotees — abide in *madhura-rasa*, which includes *vātsalya*, *sakhya* and *dāsya*; the servants of Śrī Nityānanda and Śrī Advaita, the pure devotees, usually abide in *vātsalya*, *sakhya*, *dāsya* and *śānta*. When their love for Śrī Gaurasundara grows intense, they take shelter of *madhura-rasa* under the guidance of the intimate devotees. Pure devotees are those who, free from other desires, do not cover their service to Kṛṣṇa with *karma* or *jñāna*; the intimate devotees are those wholly given to *madhura-rasa* alone.
+[^8]: *Anubhāṣya*: the truths of *śakti* — the intimate devotees — abide in *madhura-rasa*, which includes *vātsalya*, *sakhya* and *dāsya*; the servants of Śrī Nityānanda and Śrī Advaita, the pure devotees, usually abide in *vātsalya*, *sakhya*, *dāsya* and *śānta*. When their love for Śrī Gaurasundara grows intense, they take shelter of *madhura-rasa* under the guidance of the intimate devotees. Pure devotees are those who, free from other desires, do not cover their service to Kṛṣṇa with karma or jñāna; the intimate devotees are those wholly given to *madhura-rasa* alone.
 
 [^9]: *Anubhāṣya*: “with them” — with all four: with His *prakāśa* (Śrī Nityānanda), with the avatāra of the Puruṣa (Śrī Advaita), with the intimate devotees and with the pure devotees. The edition’s heading: “With the four truths — the Lord’s pastimes, preaching, tasting and giving.”
 
@@ -1779,7 +1779,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^24]: As in the Gauḍīya Maṭha edition: «ব্রহ্মাদি আনন্দ» (“the bliss of Brahman and the rest”; the heading: “Prema, which puts liberation and the rest to shame, is the fifth goal of life”). *Amṛta-pravāha-bhāṣya*: even the bliss of Brahman, the first stage of liberation, cannot be compared with a single drop of prema. Other editions read «মোক্ষাদি» (“liberation and the rest”).
 
-[^25]: *Anubhāṣya*: when those without prema display laughter, tears, dancing and singing, it is only a sign of their misfortune; one who performs bhajana must reject altogether any artificial agitation of body and senses. The laughter, tears, singing, dancing and longing born of bhāva and prema come when the natural function of the soul awakens; they are the guileless movements of one turned towards service. The presumption of one who, without prema, assumes the high station of a devotee brings only harm into the world.
+[^25]: *Anubhāṣya*: when those without prema display laughter, tears, dancing and singing, it is only a sign of their misfortune; one who performs bhajana must reject altogether any artificial agitation of body and senses. The laughter, tears, singing, dancing and longing born of *bhāva* and prema come when the natural function of the soul awakens; they are the guileless movements of one turned towards service. The presumption of one who, without prema, assumes the high station of a devotee brings only harm into the world.
 
 [^26]: *Anubhāṣya*: to those whom Gurudeva sees to be qualified he gives the right to dance, sing and perform saṅkīrtana with like-minded devotees, and they, following in his steps, serve the deliverance of the world; the unqualified should chant Kṛṣṇa’s name in solitude.
 
@@ -1795,7 +1795,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: The edition’s heading to 7.109: “Hearing Śaṅkara’s commentary, composed in the secondary sense to bewilder the asuras, brings ruin.” *Amṛta-pravāha-bhāṣya*: Śaṅkara, an avatāra of Śiva, was carrying out the Lord’s will, and therefore he is not at fault. In the *Padma Purāṇa* Śiva says: “Māyāvāda is a false doctrine, Buddhism in disguise. In the age of Kali I Myself, in the form of a brāhmaṇa, shall set it forth to bewilder the world.”
 
-[^33]: *Anubhāṣya*: *yayā* — “by that conscious potency called the jīva”; *dhāryate* — “is taken up for one’s own enjoyment”. *Amṛta-pravāha-bhāṣya*: earth, water, fire, air, ether, mind, intelligence and false ego make up the inferior nature, *māyā*; the other, superior nature is the jīvas, and *māyā* has no part in forming the jīva — only its seeming material self belongs to *māyā*.
+[^33]: *Anubhāṣya*: *yayā* — “by that conscious potency called the jīva”; *dhāryate* — “is taken up for one’s own enjoyment”. *Amṛta-pravāha-bhāṣya*: earth, water, fire, air, ether, mind, intelligence and false ego make up the inferior nature, māyā; the other, superior nature is the jīvas, and māyā has no part in forming the jīva — only its seeming material self belongs to māyā.
 
 [^34]: *Amṛta-pravāha-bhāṣya*: Viṣṇu’s potency is threefold: the superior (*parā*) is the spiritual potency (*cit-śakti*); the *kṣetrajña* is the jīva potency; that called ignorance and karma is *māyā*.
 
@@ -1811,7 +1811,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^40]: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of the Vedas; it stands at the beginning and at the end of every Vedic mantra and is the Lord Himself in sound: “The sound *a* denotes Kṛṣṇa, the one Lord of all the worlds; *u* denotes Rādhā; and *m* the jīva.”
 
-[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
+[^41]: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad* 6.8.7) applies only to one part of it.
 
 [^42]: *Anubhāṣya*: “In the Vedas, in the *Rāmāyaṇa*, in the Purāṇas and in the *Mahābhārata* — at the beginning, in the middle and at the end — Hari alone is sung everywhere.”
 

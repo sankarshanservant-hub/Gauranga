@@ -4,7 +4,7 @@
 # оставить редакторское (разночтения изданий, источник цитаты, расхождения с ВЧД, игра слов и т. п.).
 import re
 
-COMM = re.compile(r'''^[«“*(]*(
+COMM = re.compile(r'''^[«“„*(]*(
     Анубхашь|АПБ|Амрита-праваха|Заголов(ок|ки|ку)\s+издани|В\s+издании\s+(стих|стихи|шлок\w*)\s+предвар|
     По\s+(«Анубхашь|«Амрита|АПБ|заголовк)|Подзаголов|
     У\s+ВЧД|В\s+ed\s+был|Прежде\s+—|Стих\s+пропущен\s+у|Перевод\s+шлоки\s+\(=|В\s+заголовке\s+издани|Катхасар|
@@ -14,7 +14,7 @@ COMM = re.compile(r'''^[«“*(]*(
     Edition\s+heading|In\s+the\s+edition\s+the\s+(verse|verses|heading)\s+(is|are)\s+head|In\s+the\s+edition,?\s+the\s+heading|
     By\s+the\s+heading|According\s+to\s+the\s+(Anubhāṣya|Amṛta|heading|edition[’']s\s+heading)|The\s+Anubhāṣya|The\s+Amṛta
 )''', re.X)
-SPLIT = re.compile(r'(?<=[.;!?»”)])\s+(?=[«“*(]*[A-ZА-ЯЁĀŚṢṚ])')
+SPLIT = re.compile(r'(?<=[.;!?»”“)])\s+(?=[«“„*(]*[A-ZА-ЯЁĀŚṢṚ])')
 
 def trim(text):
     """-> текст сноски для полного издания ('' — сноску снять)"""

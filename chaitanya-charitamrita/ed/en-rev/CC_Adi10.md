@@ -2,7 +2,7 @@
 Ādi-līlā  
 Chapter 10  
 **The Description of the Branches of the Main Trunk**  
-(English translation from the Bengali, following the Gauḍīya Maṭha edition and the «Anubhāṣya», 2026 — draft)
+(English translation from the Bengali, following the Gauḍīya Maṭha edition and the Anubhāṣya, 2026)
 
 শ্রীচৈতন্যপদাম্ভোজ-মধুপেভ্যো নমো নমঃ ৷  
 কথঞ্চিদাশ্রয়াদ্ যেষাং শ্বাপি তদ্গন্ধভাগ্ভবেৎ ॥ ১ ॥
@@ -318,7 +318,7 @@ father  calling  whom  addresses  Gaurāṅgasundara
 dāmodara-paṇḍita śākhā premete pracaṇḍa  
 Dāmodara  Paṇḍita  the branch  in love  fierce  
 prabhura upare yem̐ho kaila vākya-daṇḍa  
-of the Lord  toward  who  made  a chastisement in words
+of the Lord  towards  who  made  a chastisement in words
 
 (31) Dāmodara Paṇḍita, another branch, was so fierce in his love that he even rebuked the Lord.
 
@@ -791,13 +791,13 @@ of the Bhāgavata  the devotional meaning  received  the Lord  from
 khaṇḍavāsī mukunda-dāsa, śrī-raghunandana  
 of Khaṇḍa  the residents  Mukunda dāsa,  Śrī  Raghunandana  
 narahari-dāsa, cirañjīva, sulocana  
-Narahari dāsa,  Ciranjīva,  Sulocana  
+Narahari dāsa,  Cirañjīva,  Sulocana  
 ei saba mahāśākhā — caitanya-kṛpādhāma  
 these  all  great branches —  of Caitanya’s  mercy  abodes  
 prema-phala-phula kare yāhām̐ tāhām̐ dāna  
 of love  fruits  flowers  make  everywhere  gift
 
-(78–79) Mukunda dāsa, Śrī Raghunandana, Narahari dāsa, Ciranjīva and Sulocana, all of Śrīkhaṇḍa, are great branches, abodes of Śrī Caitanya’s mercy. Everywhere they give away the fruits and flowers of love.[^33]
+(78–79) Mukunda dāsa, Śrī Raghunandana, Narahari dāsa, Cirañjīva and Sulocana, all of Śrīkhaṇḍa, are great branches, abodes of Śrī Caitanya’s mercy. Everywhere they give away the fruits and flowers of love.[^33]
 
 কুলীনগ্রামবাসী সত্যরাজ, রামানন্দ ৷  
 যদুনাথ, পুরুষোত্তম, শঙ্কর, বিদ্যানন্দ ॥ ৮০ ॥
@@ -1193,11 +1193,11 @@ the Lord  with  stayed  Govinda  getting  joy
 শ্রীমাধবাচার্য্য, কমলাকান্ত, শ্রীযদুনন্দন ॥ ১১৯ ॥
 
 bhāgavatācārya, cirañjīva śrī-raghunandana  
-Bhāgavatācārya,  Ciranjīva  Śrī  Raghunandana  
+Bhāgavatācārya,  Cirañjīva  Śrī  Raghunandana  
 śrī-mādhavācārya, kamalākānta, śrī-yadunandana  
 Śrī Mādhavācārya,  Kamalākānta,  Śrī  Yadunandana
 
-(119) Other branches are Bhāgavatācārya, Ciranjīva, Śrī Raghunandana, Śrī Mādhavācārya, Kamalākānta and Śrī Yadunandana.[^55]
+(119) Other branches are Bhāgavatācārya, Cirañjīva, Śrī Raghunandana, Śrī Mādhavācārya, Kamalākānta and Śrī Yadunandana.[^55]
 
 মহা-কৃপাপাত্র প্রভুর জগাই, মাধাই ৷  
 ‘পতিতপাবন’ নামের সাক্ষী দুই ভাই ॥ ১২০ ॥
@@ -1350,9 +1350,9 @@ Rāmānanda  with  My  difference of body  only
 শ্রীশিখি মাহিতি, আর মুরারি মাহিতি ॥ ১৩৬ ॥
 
 pratāparudra rājā, āra oḍhra kṛṣṇānanda  
-Pratāparudra  the king,  and  the Oriya  Kṛṣṇānanda  
+Pratāparudra  the king,  and  the Oriyā  Kṛṣṇānanda  
 paramānanda mahāpātra, oḍhra śivānanda  
-Paramānanda  Mahāpātra,  the Oriya  Śivānanda  
+Paramānanda  Mahāpātra,  the Oriyā  Śivānanda  
 bhagavān ācārya, brahmānandākhya bhāratī  
 Bhagavān  Ācārya,  called Brahmānanda  Bhāratī  
 śrī-śikhi māhiti, āra murāri māhiti  
@@ -1474,7 +1474,7 @@ two  kīrtana singers  stay  of Mahāprabhu  at the side
 তপন আচার্য্য, আর রঘু, নীলাম্বর ॥ ১৪৮ ॥
 
 rāmabhadrācārya, āra oḍhra siṁheśvara  
-Rāmabhadrācārya,  and  the Oriya  Siṁheśvara  
+Rāmabhadrācārya,  and  the Oriyā  Siṁheśvara  
 tapana ācārya, āra raghu, nīlāmbara  
 Tapana  Ācārya,  and  Raghu,  Nīlāmbara
 
@@ -1657,11 +1657,11 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^9]: *Anubhāṣya*: in Navadvīpa he joined the Lord’s kīrtanas at Śrīvāsa’s house and in the home of Candraśekhara; after the Lord’s sannyāsa, on the way to Orissa, he carried His staff and begged alms for Him.
 
-[^10]: *Anubhāṣya*: Rāghava Paṇḍita’s home was in Pānihāṭi on the bank of the Gaṅgā; his samādhi is there, and the Deity Śrī Madana-mohana is still served nearby. Makaradhvaja Kara also lived in Pānihāṭi.
+[^10]: *Anubhāṣya*: Rāghava Paṇḍita’s home was in Pāṇihāṭi on the bank of the Gaṅgā; his samādhi is there, and the Deity Śrī Madana-mohana is still served nearby. Makaradhvaja Kara also lived in Pāṇihāṭi.
 
 [^11]: The bags are described in Antya 10.
 
-[^12]: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came to Pānihāṭi, Purandara Ācārya hurried to Him; the Lord, calling him Father, embraced him in ecstatic love, and seeing the Lord, he wept uncontrollably.
+[^12]: *Anubhāṣya* (from the *Caitanya-bhāgavata*, Antya 5): when the Lord came to Pāṇihāṭi, Purandara Ācārya hurried to Him; the Lord, calling him Father, embraced him in ecstatic love, and seeing the Lord, he wept uncontrollably.
 
 [^13]: *Amṛta-pravāha-bhāṣya*: the rebuke is described in Antya 3. *Anubhāṣya*: at the Lord’s wish Dāmodara Paṇḍita went to Gauḍa to be with Mother Śacī, and for the Ratha-yātrā he would come to Purī again with the devotees (*Caitanya-bhāgavata*, Antya 9).
 
@@ -1703,7 +1703,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^32]: In the edition the heading is “(5a) the branch of Devānanda Paṇḍita,” that is, an offshoot of Vakreśvara’s branch (5). *Anubhāṣya*: Devānanda, who sought liberation, used to recite the *Bhāgavata*; once his students drove out Śrīvāsa, who was weeping at the reading, and Mahāprabhu sternly rebuked Devānanda for his disrespect to a Vaiṣṇava. Later Vakreśvara Paṇḍita stayed in his house and sang of Kṛṣṇa; by his mercy Devānanda came to understand the Lord’s glory, and the Lord told him to explain the *Bhāgavata* in the light of bhakti (Madhya 1: the mercy at Kuliyā). In Kṛṣṇa’s pastimes he is Bhāguri Muni, the paṇḍita of Nanda’s court.
 
-[^33]: *Anubhāṣya*: Mukunda dāsa was the elder brother of Narahari Sarakāra Ṭhākura, and Raghunandana was Mukunda’s son; Raghunandana’s descendants still live in Śrīkhaṇḍa, four miles west of Kāṭoyā. Narahari’s disciple was Locana dāsa Ṭhākura, the author of the *Caitanya-maṅgala*. The sons of Ciranjīva were Rāmacandra Kavirāja, a disciple of Śrīnivāsa Ācārya, and the poet Govinda dāsa Kavirāja. Mukunda’s wonderful love for Kṛṣṇa is described in Madhya 15.113–131.
+[^33]: *Anubhāṣya*: Mukunda dāsa was the elder brother of Narahari Sarakāra Ṭhākura, and Raghunandana was Mukunda’s son; Raghunandana’s descendants still live in Śrīkhaṇḍa, four miles west of Kāṭoyā. Narahari’s disciple was Locana dāsa Ṭhākura, the author of the *Caitanya-maṅgala*. The sons of Cirañjīva were Rāmacandra Kavirāja, a disciple of Śrīnivāsa Ācārya, and the poet Govinda dāsa Kavirāja. Mukunda’s wonderful love for Kṛṣṇa is described in Madhya 15.113–131.
 
 [^34]: In the edition they are offshoots of Haridāsa’s branch (20a–20e), like all the people of Kulīna-grāma (10.48). *Anubhāṣya*: all of them belonged to the Vasu family, devotees of Kṛṣṇa skilled in enacting His pastimes and followers of Haridāsa Ṭhākura; in the *Gaura-gaṇoddeśa-dīpikā* Rāmānanda Vasu and Satyarāja are Kalakaṇṭhī and Sukaṇṭhī.
 
@@ -1731,7 +1731,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^46]: *Anubhāṣya*: Gopāla Bhaṭṭa, a brāhmaṇa from the south, was a friend of Śrī Rūpa and Sanātana; in his name Sanātana compiled the *Hari-bhakti-vilāsa*; he made the first draft of the *Ṣaṭ-sandarbha*, which Śrī Jīva later put in order, and he installed the Deity of Śrī Rādhā-ramaṇa. His disciples were Śrīnivāsa Ācārya and Gopīnātha Pūjārī. He forbade Kavirāja Gosvāmī to write about him in this book, and so only his name is given here.
 
-[^47]: *Anubhāṣya*: Śaṅkarāraṇya is Viśvarūpa, the elder brother of Mahāprabhu (according to the *Gaura-gaṇoddeśa-dīpikā*, Saṅkarṣaṇa); He took sannyāsa and withdrew from view (aprakaṭa) in Śaka 1432 at Pāṇḍarapura (Madhya 9.299–300). Mukunda is Mukunda Sañjaya, in whose house Viśvambhara taught; Kāśīnātha is the brāhmaṇa who arranged the Lord’s marriage with Viṣṇupriyā; Rudra is Rudra Paṇḍita.
+[^47]: *Anubhāṣya*: Śaṅkarāraṇya is Viśvarūpa, the elder brother of Mahāprabhu (according to the *Gaura-gaṇoddeśa-dīpikā*, Saṅkarṣaṇa); he took sannyāsa and left this world in Śaka 1432 at Pāṇḍarapura (Madhya 9.299–300). Mukunda is Mukunda Sañjaya, in whose house Viśvambhara taught; Kāśīnātha is the brāhmaṇa who arranged the Lord’s marriage with Viṣṇupriyā; Rudra is Rudra Paṇḍita.
 
 [^48]: *Anubhāṣya*: Śrīnātha Paṇḍita lived in Kāñcaḍāpāḍā and installed the Deity Śrī Kṛṣṇa-rāya there; he was the guru of Kavi Karṇapūra.
 
@@ -1747,17 +1747,17 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^54]: Heading in the edition to 10.117: “Abhirāma, Mādhava and Vāsu Ghoṣa preach the holy name in Gauḍa with Nitāi.”
 
-[^55]: In the edition’s heading Bhāgavatācārya, Ciranjīva and Raghunandana are marked with their earlier numbers (75, 41, 39a) — they are the same persons named above; the new branches are (85) Mādhavācārya, (86) Kamalākānta and (87) Yadunandana. *Anubhāṣya*: Kamalākānta is Kamalākānta Viśvāsa of Advaita’s party; Yadunandana Ācārya belongs to Advaita’s branch (Antya 6.160–169).
+[^55]: In the edition’s heading Bhāgavatācārya, Cirañjīva and Raghunandana are marked with their earlier numbers (75, 41, 39a) — they are the same persons named above; the new branches are (85) Mādhavācārya, (86) Kamalākānta and (87) Yadunandana. *Anubhāṣya*: Kamalākānta is Kamalākānta Viśvāsa of Advaita’s party; Yadunandana Ācārya belongs to Advaita’s branch (Antya 6.160–169).
 
 [^56]: *Anubhāṣya* (after the *Gaura-gaṇoddeśa-dīpikā*): Jagāi and Mādhāi are Jaya and Vijaya, the gatekeepers of Vaikuṇṭha, born of their own will in Navadvīpa. Brāhmaṇas by birth, they lived as robbers and were steeped in every sin, but by the mercy of Mahāprabhu and Nityānanda they received the holy name and became great devotees.
 
 [^57]: Heading in the edition: “Their service to Gaura both in Gauḍa and in Oḍra.”
 
-[^58]: Heading in the edition: “The most eminent — (1) Śrī Paramānanda and (2) Śrī Svarūpa.” For the devotees of Nīlācala the numbering of the branches in the headings starts afresh. *Anubhāṣya*: Raghunātha Vaidya (Upādhyāya) came to Nityānanda at Pānihāṭi and in His company showed the mood of Revatī; later he lived in Purī by the sea (*Caitanya-bhāgavata*, Antya 5).
+[^58]: Heading in the edition: “The most eminent — (1) Śrī Paramānanda and (2) Śrī Svarūpa.” For the devotees of Nīlācala the numbering of the branches in the headings starts afresh. *Anubhāṣya*: Raghunātha Vaidya (Upādhyāya) came to Nityānanda at Pāṇihāṭi and in His company showed the mood of Revatī; later he lived in Purī by the sea (*Caitanya-bhāgavata*, Antya 5).
 
 [^59]: *Anubhāṣya*: Sārvabhauma Bhaṭṭācārya, whose name was Vāsudeva, came from Vidyānagara and taught Vedānta in Nīlācala. At first he expounded Vedānta to Mahāprabhu according to Śaṅkara, but then learned its true meaning from Him and saw His six-armed form (Madhya 6); his *Caitanya-śataka* is full of devotion to Gaura. Gopīnātha Ācārya was a brāhmaṇa of Navadvīpa and a companion of the Lord.
 
-[^60]: *Anubhāṣya*: Kāśī Miśra was the king’s priest, and in his house the Lord lived in Nīlācala. Pradyumna Miśra, an Oriya and a great devotee, was sent by the Lord to hear Kṛṣṇa-kathā from Rāmānanda Rāya (Antya 5). Bhavānanda Rāya, the father of Rāmānanda Rāya, lived near Ālālanātha; before, he was King Pāṇḍu.
+[^60]: *Anubhāṣya*: Kāśī Miśra was the king’s priest, and in his house the Lord lived in Nīlācala. Pradyumna Miśra, an Oriyā and a great devotee, was sent by the Lord to hear Kṛṣṇa-kathā from Rāmānanda Rāya (Antya 5). Bhavānanda Rāya, the father of Rāmānanda Rāya, lived near Ālālanātha; before, he was King Pāṇḍu.
 
 [^61]: *Anubhāṣya*: the Lord counted her among Rādhikā’s associates (Antya 2.104–106); in the world, He said, there are three and a half worthy souls — Svarūpa Gosāñi, Rāmānanda Rāya and Śikhi Māhiti, and his sister is the “half.”
 

@@ -687,7 +687,7 @@ fn: *Anubhāṣya*: oṁ, the *praṇava*, is the great utterance, the source of
 w: the shelter of all  of Īśvara  makes  praṇava  indication
 w: ‘tat tvam asi’  the utterance  is  of the Veda  one  part
 tr: The *praṇava* points to the Lord, the shelter of all, whereas the utterance *tat tvam asi* is one particular statement of the Veda.
-fn: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad*, 6.8.7) applies only to one part of it.
+fn: The edition’s heading: “The Lord is the denoted, the *praṇava* the denoting; *tat tvam asi* and the like point only to one part of the Veda.” *Amṛta-pravāha-bhāṣya*: a great utterance (*mahā-vākya*) is one that embraces the whole Veda; *tat tvam asi* (*Chāndogya Upaniṣad* 6.8.7) applies only to one part of it.
 
 ## 130
 w: ‘praṇava’  the great utterance  that  making  covering

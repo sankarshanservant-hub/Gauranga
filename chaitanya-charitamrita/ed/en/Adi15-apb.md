@@ -2,7 +2,7 @@
 
 ## 0
 
-**Summary.** In the fifteenth chapter the Lord studies grammar with Gaṅgādāsa Paṇḍita, becomes expert in the *Pañjī-ṭīkā* and forbids His mother to eat grains on Ekādaśī. He tells a story: Viśvarūpa, having taken *sannyāsa*, called Him to take *sannyāsa* too, but He did not listen and said He wished to serve His parents — and so Viśvarūpa sent Him back home. The departure of Purandara Miśra[^0-1] from this world, the marriage to Lakṣmī-devī, daughter of Vallabhācārya, and other events are described in brief.
+**Summary.** In the fifteenth chapter the Lord studies grammar with Gaṅgādāsa Paṇḍita, becomes expert in the *Pañjī-ṭīkā* and forbids His mother to eat grains on Ekādaśī. He tells a story: Viśvarūpa, having taken sannyāsa, called Him to take sannyāsa too, but He did not listen and said He wished to serve His parents — and so Viśvarūpa sent Him back home. The departure of Purandara Miśra[^0-1] from this world, the marriage to Lakṣmī-devī, daughter of Vallabhācārya, and other events are described in brief.
 
 ## 1
 
@@ -32,6 +32,6 @@ It is not the house that is called “home”; the mistress of the house is call
 
 ---
 
-[^0-1]: Purandara Miśra is another name of Jagannātha Miśra, the Lord's father.
+[^0-1]: Purandara Miśra is another name of Jagannātha Miśra, the Lord’s father.
 
 [^1-1]: A play on words: *sumanas* means both “flower” and “good mind.”

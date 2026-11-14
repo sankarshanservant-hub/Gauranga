@@ -1,0 +1,1023 @@
+# English translation, Madhya-līlā 22 — from the Bengali/Sanskrit, following the *Anubhāṣya* (2026 draft).
+# Format: tools/build_rev.py. «w:» — word-for-word for each transliteration line, in order.
+# Base: stage-A English (ed/en/work/Madhya22.txt; verses 83–164 — .p2.txt), revised against the Bengali and the *Anubhāṣya*.
+# Shift 1: verses 1–82 (scan pp. 745–760); shift 2 — 83–164.
+
+## 0
+tr: The Discourse on the Truth of Bhakti as the Abhidheya
+
+## 1
+w: I worship  Śrī Kṛṣṇa Caitanya
+w: the Lord  Him  the ocean of mercy
+w: in Kali  even  this most hidden
+w: bhakti  by whom  was revealed
+tr: I worship Śrī Kṛṣṇa Caitanyadeva, the ocean of mercy, by whom this most hidden bhakti was revealed even in the age of Kali.
+fn: *Anubhāṣya*: *bhakti*, causeless service to Kṛṣṇa, was unknown even to the knowers of *dharma* in the Satya, Tretā and Dvāpara ages; Mahāprabhu proclaimed it to all in the age of Kali, the age of quarrel.
+
+## 2
+w: glory  glory  to Śrī Kṛṣṇa Caitanya  to Nityānanda
+w: glory to Advaitacandra  glory  to the host of Gaura’s devotees
+tr: Glory, glory to Śrī Kṛṣṇa Caitanya and Nityānanda! Glory to Advaitacandra, and glory to all the devotees of Gaura!
+fn: The same verse as Ādi 10.2 (= Madhya 13.2); translation as there.
+
+## 3
+w: thus  indeed  I have told  of sambandha-tattva  the analysis
+w: of the Vedas and śāstras  in the teaching  Kṛṣṇa  the one  essence
+tr: “Thus I have explained to you the truth of *sambandha*. All the Vedas and śāstras teach that Kṛṣṇa is the one essence.
+fn: The chapter continues the Lord’s instruction to Sanātana (Madhya 20–21). Heading of the edition: “in all the Vedas and śāstras Kṛṣṇa alone is established as the *sambandha*”.
+
+## 4
+w: now  I speak  listen  of abhidheya  the characteristics
+w: which  through  one attains  Kṛṣṇa  the treasure of love for Kṛṣṇa
+tr: Now listen as I describe *abhidheya*, the means by which one attains Kṛṣṇa and the treasure of love for Kṛṣṇa.
+
+## 5
+w: devotion to Kṛṣṇa  is the abhidheya  all the scriptures  declare
+w: therefore  the sages  have made  the conclusion
+tr: All the scriptures declare that devotion to Kṛṣṇa is the *abhidheya*, and so the sages have concluded.
+
+## 6
+w: śruti  the mother  when asked  points out  of Your worship  the method
+w: as  of the mother  the words  smṛti  too  so  speaks  the sister
+w: the Purāṇas and the rest  which  and  the brothers  they  following her
+w: therefore  truly  it is known  O slayer of Mura  You  alone  the shelter
+tr: “When Mother Śruti is asked, she points out the way to worship You. Smṛti, her sister, speaks just as the mother does, and the Purāṇas and the rest, like brothers, follow her. Therefore, O slayer of Mura, I have truly understood that You alone are my shelter.” (Words of a sage)
+fn: Heading of the edition: “words of a sage” (*muni-vākya*); the source of the verse is not named.
+
+## 7
+w: the Truth of nondual knowledge  Kṛṣṇa  Himself  Bhagavān
+w: of svarūpa-śakti  in the form  His  is  abiding
+tr: Kṛṣṇa, the nondual Truth (*advaya-jñāna-tattva*), is Bhagavān Himself. He abides in the form of His own potency (*svarūpa-śakti*).
+fn: *Anubhāṣya*: the potency and its possessor are non-different. “Potency” here must not be taken as *māyā-śakti*, which covers the nature of the *jīva*: the *svarūpa-śakti*, engaged only in the service of Kṛṣṇa Himself, abides inseparably with Him.
+
+## 8
+w: as His own parts and separated parts  in the form  having become  expanded
+w: in endless  Vaikuṇṭhas and universes  He performs  pastimes
+tr: Expanding Himself as His own parts (*svāṁśa*) and separated parts (*vibhinnāṁśa*), He enjoys His pastimes in endless Vaikuṇṭhas and universes.
+fn: Heading of the edition: in the countless Vaikuṇṭhas He sports in the forms of His own parts, the Viṣṇu forms, and in the universes in the forms of the jīvas.
+
+## 9
+w: the expansion of His own parts  the catur-vyūha  the host of avatāras
+w: the separated part  the jīva  His  among the energies  is counted
+tr: His own parts are the *catur-vyūha* and the host of avatāras. The jīva is His separated part and is counted among His energies.
+
+## 10
+w: those  separated parts  the jīvas  two  indeed  kinds
+w: one  eternally liberated  one  eternally in worldly existence
+tr: Those jīvas, His separated parts, are of two kinds: some are eternally liberated (*nitya-mukta*), and some are eternally in worldly existence (*nitya-saṁsāra*).
+
+## 11
+w: the eternally liberated  ever  towards Kṛṣṇa’s feet  turned
+w: Kṛṣṇa’s associates  named  they enjoy  the joy of service
+tr: The eternally liberated are ever turned toward Kṛṣṇa’s feet. They are called Kṛṣṇa’s associates (*pārṣadas*), and they enjoy the happiness of serving Him.
+
+## 12
+w: the eternally bound  from Kṛṣṇa  eternally turned away
+w: eternally in worldly existence  they suffer  the miseries of hell and the like
+tr: The eternally bound (*nitya-baddha*) jīva is forever turned away from Kṛṣṇa. Eternally caught in worldly existence, he suffers the miseries of hell and the like.
+
+## 13
+w: for that  fault  the witch Māyā  punishment  inflicts  on him
+w: beginning with those of body and mind  the threefold miseries  him  wearing down  torment
+tr: For this fault the witch Māyā punishes him: the threefold miseries, beginning with those of body and mind (*ādhyātmika*), wear him down and torment him.
+
+## 14
+w: of lust and anger  the servant  having become  her  kicks  he suffers
+w: wandering  wandering  if  a sādhu-physician  he finds
+tr: Having become the servant of lust and anger, he suffers her kicks. But if, wandering on and on, he meets a sādhu, a physician of the soul,
+
+## 15
+w: his  by the mantra of instruction  the witch  flees
+w: devotion to Kṛṣṇa  he obtains  then  near Kṛṣṇa  he goes
+tr: by the mantra of that sādhu’s instruction the witch flees. The soul obtains devotion to Kṛṣṇa and then draws near to Kṛṣṇa.
+
+## 16
+w: of lust and the rest  how many  not  in how many ways  were obeyed  the evil commands
+w: of them  arose  towards me  no  pity  no  shame  nor peace
+w: having abandoned them  now  O Lord of the Yadus  at present  having gained good sense
+w: to You  I have come  for shelter  fearless  me  engage in Your service
+tr: “How many evil commands of lust and the rest have I not obeyed, and in how many ways! Yet they never took pity on me, nor did I feel shame or find peace. Now, O Lord of the Yadus, I have cast them off; good sense has dawned in me, and I have come to You, the fearless shelter. Engage me in Your service.” (Bhakti-rasāmṛta-sindhu, Paścima-vibhāga, Prīti-bhakti-laharī, 6)
+
+## 17
+w: devotion to Kṛṣṇa  is  the chief abhidheya
+w: on the face of bhakti  looking  karma  yoga  jñāna
+tr: Devotion to Kṛṣṇa is the chief *abhidheya*. Karma, yoga and jñāna all look to the face of bhakti for their results.
+fn: *Amṛta-pravāha-bhāṣya*: only by taking shelter of bhakti can karma and haṭha-yoga give the fruit of worldly enjoyment, and jñāna and rāja-yoga the fruits of liberation and mystic perfection.
+
+## 18
+w: of these  all  practices  very  feeble  the strength
+w: devotion to Kṛṣṇa  without  they  to give  cannot  fruit
+tr: The strength of all these practices is very feeble: without devotion to Kṛṣṇa they cannot give any fruit.
+
+## 19
+w: freedom from action  even  love for Acyuta  devoid of
+w: not  shines  knowledge  at all  stainless
+w: how then  again  ever  inauspicious  to the Lord
+w: not  offered  action  which  even  free of motive
+tr: “Even stainless knowledge, free from all action (*naiṣkarmya*), does not shine if it is devoid of love for Acyuta. How then can action shine, ever inauspicious as it is, if it is not offered to the Lord, even when it is free of selfish motive?” (Śrīmad-Bhāgavatam, 1.5.12)
+fn: *Anubhāṣya*: Śrī Nārada speaks thus to Vyāsadeva, who had found no satisfaction of heart, glorifying pure devotion to Hari, which is above all paths — karma, jñāna and the rest.
+
+## 20
+w: ascetics  devoted to charity  the renowned
+w: the thoughtful  knowers of mantras  of auspicious conduct
+w: welfare  not  attain  without  offering to Him
+w: to Him  of auspicious fame  obeisance  obeisance
+tr: “Ascetics, the generous, the renowned, the thoughtful, the knowers of mantras and those of auspicious conduct — none of them attains true welfare without offering everything to Him. Again and again I bow to Him, whose fame is auspicious.” (Śrīmad-Bhāgavatam, 2.4.17)
+
+## 21
+w: mere  knowledge  liberation  to give  cannot  bhakti  without
+w: to one turned towards Kṛṣṇa  that  liberation  comes  without knowledge
+tr: Knowledge alone cannot give liberation without bhakti; but to one turned toward Kṛṣṇa that liberation comes even without knowledge.
+
+## 22
+w: the path to the highest good  bhakti  having rejected  Your  O almighty Lord
+w: toil  those who  for attaining mere knowledge
+w: for them  this  toil  only  remains
+w: nothing else  as  for those who pound empty husks
+tr: “O almighty Lord, bhakti to You is the path to the highest good. Those who reject it and toil only to gain knowledge are left with nothing but their toil, like those who pound empty husks.” (Śrīmad-Bhāgavatam, 10.14.4)
+
+## 23
+w: divine  indeed  this  made of the guṇas
+w: My  māyā  hard to overcome
+w: to Me  alone  those who  surrender
+w: māyā  this  cross over  they
+tr: “This divine māyā of Mine, made of the guṇas, is hard to overcome. But those who surrender to Me alone cross beyond this māyā.” (Bhagavad-gītā, 7.14)
+fn: The same verse as Madhya 20.121; translation as there.
+
+## 24
+w: Kṛṣṇa’s eternal servant  the jīva  that  having forgotten  went
+w: for that  fault  Māyā  his  around the neck  bound
+tr: The jīva is Kṛṣṇa’s eternal servant, but he has forgotten it. For that fault Māyā has bound him by the neck.
+fn: *Anubhāṣya*: māyā blinded the jīva who had forgotten that he is Kṛṣṇa’s eternal servant, and put on his neck the chain of the three guṇas — the desire to enjoy.
+
+## 25
+w: therefore  Kṛṣṇa  he worships  he renders  the guru’s  service
+w: the net of Māyā  falls away  he attains  Kṛṣṇa’s  feet
+tr: If he then worships Kṛṣṇa and serves his guru, the net of Māyā falls away and he attains Kṛṣṇa’s feet.
+
+## 26
+w: of the four  followers of varṇa and āśrama  if  Kṛṣṇa  do not  worship
+w: their own duties  even performing  they  in the hell Raurava  having fallen  sink
+tr: If the followers of the four *varṇas* and *āśramas* do not worship Kṛṣṇa, then even while performing their own duties they fall into the hell Raurava and sink there.
+fn: *Anubhāṣya*: though under worldly pride they may rise high, when their merit is spent they surely fall into the hell Raurava.
+
+## 27
+w: from the mouth, arms, thighs and feet
+w: of the Puruṣa  with the āśramas  together
+w: four  were born  the varṇas
+w: by their qualities  brāhmaṇas and the rest  distinct
+tr: “From the mouth, arms, thighs and feet of the Puruṣa the four *varṇas*, beginning with the brāhmaṇas, were born together with the *āśramas*, each distinct by its qualities.” (Śrīmad-Bhāgavatam, 11.5.2)
+fn: Heading of the edition: *Śrīmad-Bhāgavatam*, 11.5.2–3 (on verses 27–28). *Anubhāṣya*: the Puruṣa is the universal (*vairāja*) Brahmā; the sage Camasa answers King Nimi thus, describing the *daiva-varṇāśrama* favourable to bhakti and the fate of those who depart from it.
+
+## 28
+w: who  of them  the Puruṣa  directly
+w: their own source  the Lord
+w: not  worship  disregard
+w: from their position  fallen  they fall  down
+tr: “Those among them who do not worship the Puruṣa, their own source and Lord, but disregard Him, fall from their position and sink into the depths.” (Śrīmad-Bhāgavatam, 11.5.3)
+
+## 29
+w: the jñānī  of liberation in this life  the state  “I have attained”  thus  thinks
+w: in truth  the intelligence  pure  is not  devotion to Kṛṣṇa  without
+tr: The jñānī thinks, ‘I have attained the state of liberation in this life (*jīvan-mukti*).’ But in truth the intelligence does not become pure without devotion to Kṛṣṇa.
+
+## 30
+w: those who  others  O lotus-eyed Lord  who think themselves liberated
+w: towards You  for want of love  of impure intelligence
+w: having risen  with hardship  to the supreme  position  from there
+w: fall  down  having neglected Your feet
+tr: “O lotus-eyed Lord, others think themselves liberated, but their intelligence is impure, for they have no love for You. Though they rise with great hardship to the supreme position, they fall down from there, having neglected Your feet.” (Śrīmad-Bhāgavatam, 10.2.32)
+fn: *Anubhāṣya*: Brahmā and the gods pray thus to Bhagavān, who has appeared in the womb of Devakī; the “supreme position” (*paraṁ padam*), according to Śrīdhara Svāmī, is the place immediately next to *mokṣa*.
+
+## 31
+w: Kṛṣṇa  like the sun  Māyā  is  darkness
+w: where  Kṛṣṇa  there  is no  of Māyā  dominion
+tr: Kṛṣṇa is like the sun, and Māyā is darkness. Where Kṛṣṇa is, Māyā has no power.
+fn: Heading of the edition: where Kṛṣṇa is seen, māyā is not seen; where māyā is seen, Kṛṣṇa is not seen.
+
+## 32
+w: ashamed  whose
+w: to stand  in the path of the sight  by her
+w: bewildered  boast
+w: “mine” and “I”  thus  the foolish
+tr: “Māyā is ashamed to stand in the path of His sight; yet the foolish, bewildered by her, boast of ‘I’ and ‘mine’.” (Śrīmad-Bhāgavatam, 2.5.13)
+
+## 33
+w: “Kṛṣṇa  Yours  I am”  if  he says  once
+w: from the bondage of Māyā  Kṛṣṇa  him  makes  carried across
+tr: If someone says even once, ‘Kṛṣṇa, I am Yours’, Kṛṣṇa carries him across, beyond the bondage of Māyā.
+fn: *Amṛta-pravāha-bhāṣya*: not by habit, with the lips alone, but from the whole heart — with body, mind and words.
+
+## 34
+w: once  only  surrendered  who
+w: “I am Yours”  thus  and  begs
+w: fearlessness  always  to him
+w: I give  this  vow  My
+tr: “To one who surrenders to Me even once and prays, ‘I am Yours’, I always grant fearlessness. This is My vow.” (Rāmāyaṇa, Yuddha-kāṇḍa, 18.33)
+fn: Heading of the edition: the words of Śrī Rāmacandra in the *Rāmāyaṇa*, when Vibhīṣaṇa came to Him.
+
+## 35
+w: desiring liberation, enjoyment and perfections  truly intelligent  if  he becomes
+w: by deep bhakti-yoga  then  Kṛṣṇa  he worships
+tr: If one who desires liberation, worldly enjoyment or mystic perfections becomes truly intelligent, he then worships Kṛṣṇa with deep *bhakti-yoga*.
+
+## 36
+w: without desire  full of all desires  or
+w: desiring liberation  of broad intelligence
+w: with intense  bhakti-yoga
+w: should worship  the Person  Supreme
+tr: “Whether he is without desire, full of every desire, or desirous of liberation, a person of broad intelligence should worship the Supreme Person with intense *bhakti-yoga*.” (Śrīmad-Bhāgavatam, 2.3.10)
+
+## 37
+w: one with other desires  if  performs  Kṛṣṇa’s  worship
+w: not  even having asked  Kṛṣṇa  to him  gives  His own feet
+tr: If one who has other desires worships Kṛṣṇa, Kṛṣṇa gives him His own feet even though he has not asked for them.
+
+## 38
+w: Kṛṣṇa  says  Me  he worships  he asks for  sense  pleasure
+w: nectar  giving up  poison  he asks for  this one  a great  fool
+tr: Kṛṣṇa says, ‘He worships Me, yet asks for sense pleasure. Giving up nectar, he asks for poison — he is a great fool.
+
+## 39
+w: I  am wise  to this  fool  sense objects  why  should I give
+w: the nectar of My own feet  giving  sense objects  I shall make him forget
+tr: But I am wise: why should I give sense objects to this fool? I will give him the nectar of My own feet and make him forget sense objects.’
+
+## 40
+w: truly  He grants  what is asked  when asked  to men
+w: not indeed  giver of that  which  again  asking  from which
+w: Himself  He grants  to those who worship  though not desiring
+w: covering all desires  His own  feet like tender shoots
+tr: “It is true that when men ask, the Lord grants what they ask for; but He does not give what would make them ask again. To those who worship Him, though they do not desire it, He Himself gives His own feet, tender as new shoots, which put an end to all other desires.” (Śrīmad-Bhāgavatam, 5.19.26)
+fn: Numbered as in the heading of the edition and the *Anubhāṣya* (5.19.26); in other editions — 5.19.27.
+
+## 41
+w: desire  for the sake of  Kṛṣṇa  he worships  he attains  the taste of Kṛṣṇa
+w: desire  giving up  a servant  to become  there arises  the longing
+tr: One who worships Kṛṣṇa for the sake of some desire comes to taste Kṛṣṇa’s sweetness (*kṛṣṇa-rasa*). Then, giving up that desire, he longs to become His servant.
+
+## 42
+w: desiring a position  in austerity  engaged  I
+w: You  have attained  hidden from the gods and the best of sages
+w: glass  searching for  though  a divine jewel
+w: O Master  fulfilled  I am  a boon  not  I ask
+tr: “Desiring a high position, I engaged in austerities, and I have attained You, who are hidden even from the gods and the greatest sages. I was searching for a piece of glass and found a divine jewel. O Master, my purpose is fulfilled; I ask for no boon.” (Hari-bhakti-sudhodaya, 7.28)
+
+## 43
+w: in worldly existence  while wandering  by some  fortune  someone  is delivered
+w: of a river  in the current  as  a log  touches  the bank
+tr: While wandering in worldly existence, someone by some good fortune is delivered, as a log carried by a river’s current comes to rest on the bank.
+
+## 44
+w: not so  of me  lowly  even
+w: there will be  surely  the sight of Acyuta
+w: being carried away  by the river of time
+w: at times  crosses over  someone
+tr: “But no — even I, lowly as I am, will surely see Acyuta. For even among those swept along by the river of time, someone at times reaches the shore.” (Śrīmad-Bhāgavatam, 10.38.5)
+fn: *Anubhāṣya*: Akrūra reflects thus on the road to Gokula, where he is going to bring Rāma and Kṛṣṇa.
+
+## 45
+w: by some  fortune  someone’s  worldly existence  near its end  becomes
+w: in the company of sādhus  he is delivered  for Kṛṣṇa  attraction  arises
+tr: When by some good fortune someone’s worldly existence nears its end, he is delivered through the company of sādhus, and attraction (*rati*) for Kṛṣṇa awakens in him.
+
+## 46
+w: the end of worldly existence  of one wandering  when  comes
+w: of a person  then  O Acyuta  meeting with the saints
+w: association with the saints  when  at that very time  for the goal of the saints
+w: for the Lord of the high and the low  for You  is born  attraction
+tr: “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)
+fn: *Anubhāṣya*: Mucukunda prays thus to Śrī Kṛṣṇa; the end of worldly existence (*bhavāpavarga*) comes by the Lord’s mercy, when its time arrives.
+
+## 47
+w: Kṛṣṇa  if  mercy  shows  to some  fortunate soul
+w: in the forms of guru and the Indweller  teaches  Himself
+tr: If Kṛṣṇa shows mercy to some fortunate soul, He Himself teaches him in the forms of the guru and the Indweller (*antaryāmī*).
+
+## 48
+w: not  attain  repayment  the wise  Your,  O Lord
+w: with Brahmā’s lifespan  even  Your deeds  with growing joy  remembering
+w: who  within  without  of the embodied  the inauspicious  dispelling
+w: as ācārya  and Supersoul  in forms  Your own path  reveal
+tr: “O Lord! Even if the wise lived as long as Brahmā and remembered with ever-growing joy all that You have done for them, they could not repay their debt to You. For, dispelling all that is inauspicious in embodied souls, You come to them from without as the ācārya and from within as the Supersoul, and reveal to them the way to Yourself.” (Śrīmad-Bhāgavatam, 11.29.6)
+fn: The same verse as Ādi 1.48; translation as there.
+
+## 49
+w: in the company of sādhus  in devotion to Kṛṣṇa  faith  if  arises
+w: the fruit of bhakti  prema  comes  worldly existence  goes  to its end
+tr: If, in the company of sādhus, faith in devotion to Kṛṣṇa arises, then prema, the fruit of bhakti, appears, and worldly existence comes to an end.
+
+## 50
+w: by good fortune  in narrations about Me and the rest
+w: in whom faith is born  but  who  the person
+w: not  disgusted  not overly attached
+w: bhakti-yoga  for him  gives perfection
+tr: “For one who by good fortune has come to have faith in narrations about Me and the like, and who is neither disgusted with the world nor overly attached to it, *bhakti-yoga* grants perfection.” (Śrīmad-Bhāgavatam, 11.20.8)
+fn: *Anubhāṣya*: *nirviṇṇa* — one who holds to false (*phalgu*) renunciation; just such a person, full of faith, is qualified for bhakti-yoga.
+
+## 51
+w: of the great souls  the mercy  without  by any  activity  bhakti  is not
+w: devotion to Kṛṣṇa  aside  let it be  worldly existence  does not  end
+tr: Without the mercy of great souls no activity yields bhakti. Without it, worldly existence does not even come to an end, let alone devotion to Kṛṣṇa arise.
+
+## 52
+w: O Rahūgaṇa  this  by austerity  not  is attained
+w: not  and by worship  by renunciation  by household life  or
+w: not  by the Vedas  nor  by water, fire and sun
+w: without  bathing in the dust of the feet of great souls
+tr: “O Rahūgaṇa, this is not attained by austerity, by worship, by renunciation or by household duties, nor by the Vedas, nor by worship of water, fire and the sun, without bathing in the dust of the feet of great souls.” (Śrīmad-Bhāgavatam, 5.12.12)
+fn: *Anubhāṣya*: the *avadhūta* Bharata instructs Rahūgaṇa, king of Sindhu and Sauvīra, thus; *ijyā* — Vedic rites, the worship of the gods; *nirvapaṇa* — *sannyāsa*; *gṛha* — the sacrifices of the householder.
+
+## 53
+w: not  their  mind  so long  Urukrama’s feet
+w: touches  the removal of anarthas  whose purpose
+w: of the great  bathing in the dust of the feet
+w: of those who own nothing  not  accepts  as long as
+tr: “So long as people do not accept a bath in the dust of the feet of the great, who own nothing (*niṣkiñcana*), their minds cannot touch the feet of Urukrama, whose purpose is to remove all *anarthas*.” (Śrīmad-Bhāgavatam, 7.5.32)
+fn: *Anubhāṣya*: Prahlāda answers Hiraṇyakaśipu, who asked where his Vaiṣṇava disposition came from.
+
+## 54
+w: sādhu-saṅga  sādhu-saṅga  all the scriptures  declare
+w: a mere moment of  sādhu-saṅga  all perfection  comes
+tr: ‘The company of sādhus, the company of sādhus!’ — so declare all the scriptures. Even a moment of *sādhu-saṅga* brings every perfection.
+
+## 55
+w: we compare  with a moment  even
+w: not  heaven  not liberation
+w: of association with those who associate with the Lord
+w: of mortals  what  then  the blessings
+tr: “We would not compare even heaven or liberation with a single moment in the company of those who are ever with the Lord — what then of the blessings mortals seek?” (Śrīmad-Bhāgavatam, 1.18.13)
+fn: *Anubhāṣya*: the sages headed by Śaunaka glorify thus their association with Sūta, the *mahā-bhāgavata*.
+
+## 56
+w: Kṛṣṇa  merciful  Arjuna  the aim  making
+w: the world  has protected  instruction  giving
+tr: Addressing Arjuna, merciful Kṛṣṇa protected the whole world with this instruction:
+
+## 57
+w: the most secret of all  again
+w: hear  My  supreme  word
+w: dear  you are  to Me  very  thus
+w: therefore  I shall speak  to you  your good
+tr: “Hear again My supreme word, the most secret of all. You are very dear to Me, and therefore I shall tell you what is for your good.” (Bhagavad-gītā, 18.64)
+
+## 58
+w: with mind fixed on Me  be  My devotee
+w: worshipping Me  to Me  bow down
+w: to Me  surely you will come  truly  to you
+w: I promise  dear  you are  to Me
+tr: “Fix your mind on Me, be My devotee, worship Me and bow down to Me. You will surely come to Me — truly I promise you this, for you are dear to Me.” (Bhagavad-gītā, 18.65)
+
+## 59
+w: the earlier  commands  Vedic dharma  karma  yoga  jñāna
+w: all  having established  the final command  is strongest
+tr: His earlier commands concerned Vedic *dharma*, karma, yoga and jñāna. Having established all of these, He gave His final command, and it is the strongest.
+
+## 60
+w: of this  by the force of the command  in the devotee  faith  if  arises
+w: all activities  giving up  having made  he  Kṛṣṇa  worships
+tr: If by the force of this command faith arises in the devotee, he gives up all other activities and worships Kṛṣṇa.
+
+## 61
+w: so long  duties  one should perform
+w: not  one becomes weary  as long as
+w: in hearing My narrations and the rest  or
+w: faith  as long as  not  is born
+tr: “One should go on performing one’s prescribed duties only so long as one has not grown weary of them, or so long as faith has not been born in hearing about Me and the like.” (Śrīmad-Bhāgavatam, 11.20.9)
+fn: The same verse as Madhya 9.266; translation as there.
+
+## 62
+w: by the word “śraddhā”  trust  is meant  very firm  conviction
+w: to Kṛṣṇa  devotion  when one renders  all duties  done  become
+tr: The word *śraddhā* means trust: a very firm conviction that by rendering devotion to Kṛṣṇa one has fulfilled all one’s duties.
+fn: *Anubhāṣya*: one who serves Kṛṣṇa need not discharge the duties of the worldly realm — the debts to the forefathers, to beings, to the gods and others; detachment, the best fruit of karma, accompanies the devotee of itself.
+
+## 63
+w: as  of a tree  by watering the root
+w: are satisfied  its trunk, branches and twigs
+w: by feeding the life-breath  and  as  of the senses
+w: just so  the worship of all  is the worship of Acyuta
+tr: “As by watering the root of a tree its trunk, branches and twigs are all nourished, and as by feeding the life-breath (*prāṇa*) all the senses are satisfied, so the worship of Acyuta is the worship of all.” (Śrīmad-Bhāgavatam, 4.31.14)
+
+## 64
+w: having faith  a person  is  qualified for bhakti
+w: highest  middle  lowest  according to faith
+tr: A person who has faith is qualified for bhakti. According to his faith he is of the highest, the middle or the lowest level (*uttama*, *madhyama*, *kaniṣṭha*).
+
+## 65
+w: in scripture and reasoning  very expert  firm faith  whose
+w: of the highest  qualification  he  delivers  the world
+tr: One who is expert in scripture and reasoning and whose faith is firm is an *uttama adhikārī*, of the highest qualification; he delivers the world.
+
+## 66
+w: the reasoning of scripture  not  knows  firmly  having faith
+w: of middle qualification  he  greatly fortunate
+tr: One who does not firmly know the reasoning of scripture but has faith is a *madhyama adhikārī*, of the middle qualification; he is most fortunate.
+fn: The *Anubhāṣya* cites Śrī Rūpa: “One who is not so expert in the śāstras and the rest, but has faith, is of the middle level.”
+
+## 67
+w: whose  tender  faith  he  a kaniṣṭha  person
+w: step by step  step by step  he  a devotee  will become  of the highest
+tr: One whose faith is still tender is a *kaniṣṭha*, a beginner. Step by step he too will become a devotee of the highest level.
+
+## 68
+w: by the degree of rati and prema  devotees  higher and highest
+w: in the eleventh  canto  their  has been given  description
+tr: According to the degree of their *rati* and prema, devotees stand at different levels. The Eleventh Canto has described their characteristics.
+
+## 69
+w: in all beings  who  sees
+w: of the Lord  the presence  of the Self
+w: the beings  in the Lord  in the Self
+w: he  the best of devotees
+tr: “One who sees the Lord, the Soul of all, present in all beings, and sees all beings in the Lord, is the best of devotees (*bhāgavatottama*).” (Śrīmad-Bhāgavatam, 11.2.45)
+fn: The same verse as Madhya 8.274; translation as there. Heading of the edition: *Śrīmad-Bhāgavatam*, 11.2.45–47 (on verses 69–71).
+
+## 70
+w: to the Lord  to those dependent on Him
+w: to the ignorant  to the hostile  and
+w: love, friendship, mercy and indifference
+w: who  shows  he  is of the middle level
+tr: “One who shows love for the Lord, friendship for those who depend on Him, mercy to the ignorant and indifference to the hostile is a devotee of the middle level (*madhyama*).” (Śrīmad-Bhāgavatam, 11.2.46)
+
+## 71
+w: in the Deity  only  to Hari
+w: worship  who  with faith performs
+w: not  to His devotees  and to others
+w: he  a devotee  on the worldly level  is considered
+tr: “One who with faith worships Hari only in the Deity, but does not honour His devotees or others, is known as a *prākṛta* devotee, one still on the worldly level.” (Śrīmad-Bhāgavatam, 11.2.47)
+
+## 72
+w: all  the great qualities  in the person of a Vaiṣṇava
+w: into Kṛṣṇa’s devotee  Kṛṣṇa’s  qualities  all  pass
+tr: All great qualities dwell in a Vaiṣṇava; all of Kṛṣṇa’s qualities pass into His devotee.
+
+## 73
+w: in whom  there is  devotion  to the Lord  free of desire
+w: with all  qualities  there  dwell  the gods
+w: to Hari  of one not devoted  whence  great qualities
+w: by the chariot of the mind  towards the unreal  running  outward
+tr: “In one whose devotion to the Lord is free of desire all the gods dwell, and with them every virtue. But how can great qualities be found in one who is not devoted to Hari? Driven by his desires, his mind is forever running outward after what is passing.” (Śrīmad-Bhāgavatam, 5.18.12)
+fn: The same verse as Ādi 8.58; translation as there.
+
+## 74
+w: those  all  qualities  are  the marks of a Vaiṣṇava
+w: all  to tell  not  possible  I give  an indication
+tr: All these qualities are the marks of a Vaiṣṇava. They cannot all be told, so I shall only point to some of them.
+
+## 75
+w: merciful  harming no one  devoted to truth  equal to all
+w: faultless  magnanimous  gentle  pure  owning nothing
+tr: A Vaiṣṇava is merciful, harms no one, is devoted to truth, equal to all, faultless, magnanimous, gentle, pure and without possessions (*akiñcana*);
+fn: Heading of the edition: “the secondary (*taṭastha*) marks”. *Anubhāṣya*: the essential (*svarūpa*) mark of a Vaiṣṇava is that Kṛṣṇa is his only shelter (*kṛṣṇaika-śaraṇa*, verse 76); all the rest are secondary.
+
+## 76
+w: benefactor of all  peaceful  having Kṛṣṇa as the only shelter
+w: without desire  free from worldly striving  steady  having conquered the six
+tr: he is a benefactor of all, peaceful, with Kṛṣṇa as his only shelter, free from desire, free from worldly striving, steady, the conqueror of the six (*ṣaḍ-guṇa*);
+
+## 77
+w: moderate in eating  sober  giving honour to others  seeking no honour
+w: grave  compassionate  friendly  a poet  expert  silent
+tr: he is moderate in eating, sober, giving honour to others while seeking none for himself, grave, compassionate, friendly, a poet, expert and sparing in speech.
+
+## 78
+w: tolerant  compassionate
+w: well-wishers  of all embodied beings
+w: with no enemies  peaceful
+w: following the scriptures  adorned with saintliness
+tr: “The sādhus are tolerant and compassionate, well-wishers of all embodied beings. They have no enemies and are peaceful; they follow the scriptures, and saintly conduct is their ornament.” (Śrīmad-Bhāgavatam, 3.25.21)
+
+## 79
+w: service to the great  the door  they call  of liberation
+w: the door to darkness  of those attached to women  the company
+w: the great  they  equal-minded  peaceful
+w: free from anger  well-wishers  saintly  who
+tr: “Service to the great is called the door to liberation, and the company of those attached to women the door to darkness. The great are those who are equal-minded, peaceful, free from anger, well-wishers of all and saintly.” (Śrīmad-Bhāgavatam, 5.5.2)
+
+## 80
+w: of the birth of devotion to Kṛṣṇa  the root  is  sādhu-saṅga
+w: love for Kṛṣṇa  is born  it  again  the principal  limb
+tr: The root from which devotion to Kṛṣṇa is born is *sādhu-saṅga*. And even when love for Kṛṣṇa is born, *sādhu-saṅga* remains its principal limb.
+
+## 81
+w: the end of worldly existence  of one wandering  when  comes
+w: of a person  then  O Acyuta  meeting with the saints
+w: association with the saints  when  at that very time  for the goal of the saints
+w: for the Lord of the high and the low  for You  is born  attraction
+tr: “O Acyuta, when a wandering soul’s worldly existence comes to its end, he meets the saints. And when he associates with the saints, attraction (*rati*) is born in him for You, the goal of the saints and the Lord of the high and the low.” (Śrīmad-Bhāgavatam, 10.51.53)
+fn: The same verse as 46; translation as there.
+
+## 82
+w: therefore  the ultimate  good
+w: we ask  you  O sinless ones
+w: in worldly existence  this  half a moment  even
+w: association with saints  a treasure  for men
+tr: “Therefore, O sinless ones, we ask you about the ultimate good. In this world even half a moment of association with saints is a treasure for humankind.” (Śrīmad-Bhāgavatam, 11.2.30)
+
+## 83
+w: of the saints  in the company  My  prowess  revealing
+w: become  to heart and ear  delightful  talks
+w: by relishing them  quickly  on the path of liberation
+w: faith,  attraction,  love  will follow in turn
+tr: (Lord Kapila to His mother Devahūti:) “In the company of the saints there are talks revealing My power, delightful to the heart and to the ear. By relishing them one quickly comes to faith in Me, the path of liberation, and after it to attraction (*rati*) and love (*prema-bhakti*).” (Śrīmad-Bhāgavatam, 3.25.25)
+fn: The same verse as Ādi 1.60; translation as there.
+
+## 84
+w: of bad association  the rejection  this  Vaiṣṇava  conduct
+w: one attached to women  one kind  of the unholy  one who is not Kṛṣṇa’s devotee  another
+tr: To give up bad association — this is the conduct of a Vaiṣṇava. One who is attached to women is one kind of unholy person (*asādhu*); one who is not a devotee of Kṛṣṇa is the other.
+
+## 85
+w: truthfulness  purity  compassion  silence
+w: intelligence  modesty  beauty  fame  forbearance
+w: control of the mind  control of the senses  fortune  and  thus
+w: by the company of whom  goes  to ruin
+tr: “Truthfulness, purity, compassion, silence, intelligence, modesty, beauty, fame, forbearance, control of the mind and of the senses, and fortune — all go to ruin through the company of such people.” (Śrīmad-Bhāgavatam, 3.31.33)
+
+## 86
+w: with those  restless  foolish
+w: who have lost sight of the self  unholy
+w: company  not  one should keep  pitiable
+w: of women  play-  pets  and
+tr: “One should never keep company with the restless and the foolish, with the unholy who have lost sight of the self, with those pitiable men who are pets for women to play with.” (Śrīmad-Bhāgavatam, 3.31.34)
+
+## 87
+w: not  so  for him  arises  delusion
+w: bondage  and  from other  attachment
+w: from the company of women  as  for a man
+w: as  of those attached to them  from the company
+tr: “From no other attachment does a man fall into such delusion and bondage as from the company of women and of those attached to women.” (Śrīmad-Bhāgavatam, 3.31.35)
+
+## 88
+w: better  of fire  of the flames
+w: inside a cage  to dwell
+w: not  from thought of Kṛṣṇa (Śauri)  turned away
+w: of people  living with  the torment
+tr: “Better to dwell in a cage amid blazing flames than to suffer the torment of living with people who have turned away from the thought of Kṛṣṇa.” (Kātyāyana-saṁhitā)
+
+## 89
+w: do not  look at  whose piety is spent  ever  even
+w: for the Lord  devotion  devoid of  people
+tr: “Never even look upon people who are devoid of devotion to the Lord, whose piety is spent.” (Words of the Gosvāmipāda)
+fn: The edition’s heading: “words of the Gosvāmipāda” (*gosvāmipādokti*).
+
+## 90
+w: these  all  giving up  and  of varṇa and āśrama  the dharma
+w: owning nothing  becoming  he takes  of Kṛṣṇa alone  shelter
+tr: Giving up all this, and the *dharma* of *varṇa* and *āśrama* as well, he becomes *akiñcana*, one who owns nothing, and takes shelter of Kṛṣṇa alone.
+fn: “All this” is the two kinds of bad association named in verse 84 (*Amṛta-pravāha-bhāṣya*). *Anubhāṣya* (heading): this is the conduct of the *paramahaṁsa*, the Vaiṣṇava who has nothing of his own.
+
+## 91
+w: all  dharmas  giving up
+w: to Me  alone  for shelter  come
+w: I  you  from all  sins
+w: shall free  do not  grieve
+tr: “Give up all *dharmas* and take shelter of Me alone. I shall free you from all sins; do not grieve.” (Bhagavad-gītā, 18.66)
+fn: The same verse as Madhya 8.63 and 9.265; translation as there. The verse number is not printed in the edition.
+
+## 92
+w: affectionate to His devotees  grateful  all-capable  generous
+w: such  Kṛṣṇa  leaving  a wise man  does not  worship  another
+tr: Kṛṣṇa is affectionate to His devotees, grateful, all-capable and generous. No wise man would leave such a Kṛṣṇa to worship another.
+
+## 93
+w: what  wise man  other than You  shelter  would approach
+w: than the One who loves His devotees  true to His word  the friend  grateful
+w: all  He gives  to His friends  who worship Him  desires
+w: Himself  even  increase and decrease  not  of whom
+tr: “What wise man would approach any shelter but You? You love Your devotees, You are true to Your word, You are their friend and are grateful. To the friends who worship You, You give all they desire, and even Your own self — and You neither increase nor diminish.” (Śrīmad-Bhāgavatam, 10.48.26)
+
+## 94
+w: of a wise  person  arises  if  of Kṛṣṇa’s  qualities  knowledge
+w: others  giving up  he worships (Him)  of that  Uddhava  the proof
+tr: When a wise person comes to know Kṛṣṇa’s qualities, he gives up all else and worships Him. Of this Uddhava is the proof:
+
+## 95
+w: ah  Pūtanā (sister of Baka)  whom  from her breast  deadly poison
+w: wishing to kill  made drink  even though  wicked
+w: attained  the destination  befitting a nurse  than Him  other
+w: whom  indeed  merciful  for shelter  should we approach
+tr: “Ah! Wishing to kill Him, the wicked Pūtanā made Him drink deadly poison from her breast — and still she attained the destination befitting His nurse. To whom else so merciful should we go for shelter?” (Śrīmad-Bhāgavatam, 3.2.23)
+
+## 96
+w: of the surrendered  of the one who owns nothing  the very same  characteristics
+w: of them  within  enters  self-offering
+tr: The surrendered soul (*śaraṇāgata*) and the one who owns nothing (*akiñcana*) have the same characteristics; and within surrender there is also self-offering (*ātma-samarpaṇa*).
+
+## 97
+w: of what is favourable  acceptance
+w: of what is unfavourable  rejection
+w: He will protect  thus  faith  as protector  acceptance  likewise
+w: offering of the self  humility  six kinds of  surrender
+tr: “Surrender (*śaraṇāgati*) is of six kinds: the resolve to accept what is favourable to devotion; the rejection of what is unfavourable; faith that He will protect; acceptance of Him as one’s guardian; the offering of oneself; and humility.” (Hari-bhakti-vilāsa, 11.417)
+fn: The edition’s heading: “words of the *Vaiṣṇava-tantra*”; the *Hari-bhakti-vilāsa* (11.417) quotes the verse from it.
+
+## 98
+w: ‘Yours  I am’  thus  saying  with speech
+w: just so  with the mind  knowing
+w: of Him  the abode  taking shelter of  with the body
+w: rejoices  the surrendered soul
+tr: “Saying with his words, ‘I am Yours’, knowing it so in his mind, and with his body taking shelter of the Lord’s abode, the surrendered soul rejoices.” (Hari-bhakti-vilāsa, 11.418)
+fn: The edition’s heading: *Hari-bhakti-vilāsa*, 11.418, quoting the *Vaiṣṇava-tantra*.
+
+## 99
+w: shelter  taking  he makes  to Kṛṣṇa  the offering of himself
+w: Kṛṣṇa  him  makes  at that moment  like Himself
+tr: Taking shelter, he offers himself to Kṛṣṇa, and at that very moment Kṛṣṇa makes him like Himself.
+fn: *Anubhāṣya* (headings to 99–100): the Vaiṣṇava is non-different from Kṛṣṇa in nature — like Him, full of eternity, knowledge and bliss; this is not an identity of the jīva with God.
+
+## 100
+w: a mortal  when  having given up  all  works
+w: having offered himself  whom I wish to exalt  by Me
+w: then  immortality  attaining
+w: with Me  for a nature like Mine  and  becomes fit  indeed
+tr: “When a mortal gives up all works and offers himself to Me, I wish to exalt him. Then he attains immortality and becomes fit to share with Me a nature like My own.” (Śrīmad-Bhāgavatam, 11.29.34)
+
+## 101
+w: now  of sādhana-bhakti  the characteristics  hear  Sanātana
+w: from which  one obtains  of love for Kṛṣṇa  the great treasure
+tr: Now hear, Sanātana, the characteristics of *sādhana-bhakti*, devotion in practice, by which one obtains the great treasure of love for Kṛṣṇa.
+
+## 102
+w: by action  to be accomplished  becomes  whose goal
+w: is bhāva  it  is called sādhana
+w: of the eternally  perfect  bhāva
+w: the manifestation  in the heart  is the attainment
+tr: “Devotion carried out by the senses, whose goal is *bhāva*, is called *sādhana-bhakti*. *Bhāva* is eternally perfect; to ‘attain’ it is to make it manifest in the heart.” (Bhakti-rasāmṛta-sindhu, 1.2.2)
+
+## 103
+w: hearing and the rest  the activities  its  essential  characteristic
+w: by the marginal  characteristic  arises  the treasure of love
+tr: Hearing and the other activities are its essential characteristic (*svarūpa-lakṣaṇa*). Its marginal characteristic (*taṭastha-lakṣaṇa*) is that the treasure of love arises from it.
+
+## 104
+w: eternally perfect  for Kṛṣṇa  love  something to be produced  ever  is not
+w: hearing and the rest  in the purified  heart  cause  its rising
+tr: Love for Kṛṣṇa is eternally perfect; it is never something produced by effort. Hearing and the other practices awaken it in the purified heart.
+fn: *Amṛta-pravāha-bhāṣya*: it cannot be obtained by any *abhidheya* other than pure bhakti; prema itself is the *prayojana*, the supreme goal. The edition’s heading: “attaining the pure *prayojana*”.
+
+## 105
+w: this  indeed  sādhana-bhakti  two  indeed  kinds
+w: one  vaidhī-bhakti  rāgānugā-bhakti  the other
+tr: This *sādhana-bhakti* is of two kinds: one is *vaidhī-bhakti*, devotion according to rules, and the other is *rāgānugā-bhakti*, devotion that follows spontaneous love.
+fn: *Rāgānugā* means “following *rāga*”: the spontaneous love is that of the eternal residents of Vraja (*rāgātmikā-bhakti*), and *rāgānugā* follows it (verses 147–150).
+
+## 106
+w: of rāga  devoid  a person  worships  of scripture  by the command
+w: vaidhī-bhakti  calling  it  in all scriptures  they sing
+tr: When one in whom *rāga*, spontaneous love, has not yet awakened worships at the bidding of the śāstra, the scriptures call this *vaidhī-bhakti*.
+
+## 107
+w: therefore  O descendant of Bharata  the Soul of all
+w: the Lord  Hari  the Controller
+w: is to be heard of  is to be glorified  and
+w: is to be remembered  and  by one who desires  fearlessness
+tr: “Therefore, O descendant of Bharata, one who desires fearlessness must hear about, glorify and remember the Lord Hari, the Controller and the Soul of all.” (Śrīmad-Bhāgavatam, 2.1.5)
+
+## 108
+w: from the mouth  arms  thighs  feet
+w: of the Puruṣa  the āśramas  together with
+w: four  were born  varṇas
+w: by their guṇas  the brāhmaṇas and the rest  separately
+tr: “From the mouth, arms, thighs and feet of the Puruṣa the four *varṇas*, beginning with the brāhmaṇas, were born together with the *āśramas*, each distinct by its qualities.” (Śrīmad-Bhāgavatam, 11.5.2)
+fn: The same verse as 27; translation as there. *Anubhāṣya* (heading): at the start of *vaidhī-bhakti*, before the stage of the *paramahaṁsa*, the *daiva-varṇāśrama-dharma* is followed; here is its origin.
+
+## 109
+w: is to be remembered  always  Viṣṇu
+w: is to be forgotten  not  ever
+w: all  injunctions and prohibitions  should be
+w: of these two  only  the servants
+tr: “Viṣṇu is always to be remembered and never to be forgotten. All injunctions and prohibitions are servants of these two rules alone.” (Padma-purāṇa)
+
+## 110
+w: of many limbs  of sādhana-bhakti  great  indeed  the extent
+w: in brief  I shall tell  something  of the limbs of practice  the essence
+tr: *Sādhana-bhakti*, with its many limbs, is very vast. In brief I shall tell you something of their essence.
+
+## 111
+w: shelter at the guru’s feet  initiation  of the guru  service
+w: of true dharma  learning  inquiry  of the saints  the path  following
+tr: Taking shelter at the feet of the guru; initiation (*dīkṣā*); serving the guru; learning true *dharma* and inquiring about it; following the path of the saints;
+
+## 112
+w: for Kṛṣṇa’s pleasure  of enjoyment  giving up  in Kṛṣṇa’s holy place  living
+w: as much as  for maintenance  accepting  on Ekādaśī  fasting
+tr: giving up one’s own enjoyment for Kṛṣṇa’s pleasure; living in a holy place of Kṛṣṇa; accepting only what is needed to maintain life; fasting on Ekādaśī;
+
+## 113
+w: the dhātrī  aśvattha  cows  brāhmaṇas  Vaiṣṇavas  honouring
+w: in service  to the Name  offences and the like  far away  casting off
+tr: honouring the *dhātrī* (*āmalakī*) and *aśvattha* trees, the cows, the brāhmaṇas and the Vaiṣṇavas; keeping far from offences in service, offences to the Holy Name and the like;
+
+## 114
+w: of non-Vaiṣṇavas  company  giving up  many  disciples  not  I shall make
+w: of many  books  partial study  expounding  I shall avoid
+tr: giving up the company of non-Vaiṣṇavas; not taking many disciples; not dabbling in many books, nor expounding them for the sake of argument;
+
+## 115
+w: in loss  in gain  even-minded  of grief and the like  under the sway  not  I shall be
+w: other  gods  other  scriptures  blasphemy  not  I shall do
+tr: remaining even-minded in loss and gain; not falling under the sway of grief and the like; not blaspheming other gods or other scriptures;
+
+## 116
+w: of Viṣṇu  of Vaiṣṇavas  blasphemy  worldly  talk  not  I shall hear
+w: to any living being  in mind  in speech  distress  not  I shall give
+tr: not listening to blasphemy of Viṣṇu or the Vaiṣṇavas, nor to worldly talk; not causing distress to any living being in mind or in speech;
+
+## 117
+w: hearing  glorifying  remembering  worship  offering prayers
+w: attending  servitude  friendship  offering of the self
+tr: hearing, glorifying, remembering, worshipping, offering prayers (*vandana*), attending on the Lord (*paricaryā*), servitude (*dāsya*), friendship (*sakhya*) and the offering of oneself (*ātma-nivedana*);
+
+## 118
+w: before (the Deity)  dancing  singing  opening the heart  prostrate obeisance
+w: rising to greet  following behind  to holy places  to temples  going
+tr: dancing and singing before the Deity; opening one’s heart to Him (*vijñapti*); bowing down flat; rising to greet Him; following behind Him; going to holy places and temples;
+
+## 119
+w: circumambulation  of prayers  reciting  japa  congregational chanting
+w: of incense  garlands  fragrance  mahāprasāda  eating
+tr: circumambulation; reciting prayers; *japa*; *saṅkīrtana*; smelling the incense, garlands and fragrances offered to the Lord; honouring *mahāprasāda*;
+
+## 120
+w: of the ārati  festivals  of the Deity  seeing
+w: of what is dear to oneself  offering  meditation  of tadīya  service
+tr: seeing the *ārati*, the festivals and the Deity (*śrī-mūrti*); offering what is dear to oneself; meditation; serving *tadīya*, what is His own.
+fn: *Tadīya*, “what is His own”: by verse 121, Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*.
+
+## 121
+w: tadīya  Tulasī  Vaiṣṇavas  Mathurā  the Bhāgavatam
+w: of these four  service  is  of Kṛṣṇa  the desire
+tr: *Tadīya*, “His own”, means Tulasī, the Vaiṣṇavas, Mathurā and the *Bhāgavatam*. Service to these four is what Kṛṣṇa desires.
+
+## 122
+w: for Kṛṣṇa  all  endeavours  of His  mercy  looking for
+w: of His birthday and the like  festivals  together with  the devotees
+tr: Making every endeavour for Kṛṣṇa’s sake; looking to His mercy; celebrating His birthday and other festivals with the devotees;
+
+## 123
+w: in every way  surrender  Kārttika and other  vows
+w: sixty-four  limbs  these  supreme  greatness
+tr: surrendering to Him in every way; observing Kārttika and other vows — these are the sixty-four limbs (*aṅgas*) of devotion, and supreme is their greatness.
+
+## 124
+w: of the saints  the company  of the Name  chanting  the Bhāgavatam  hearing
+w: in Mathurā  living  of the Deity  with faith  service
+tr: The company of saints; chanting the Holy Name; hearing the *Bhāgavatam*; living in Mathurā; serving the Deity with faith —
+
+## 125
+w: of all  practices  the best  these  five  limbs
+w: for Kṛṣṇa  love  gives birth to  of these  five  slight  contact
+tr: these five limbs are the best of all practices. Even slight contact with these five gives birth to love for Kṛṣṇa.
+fn: The condition is freedom from offence (verse 128).
+
+## 126
+w: of like aspiration  affectionate  with a saint  association  than oneself  superior
+w: of Śrīmad-Bhāgavatam  of the meanings  the relishing  with rasikas  together
+tr: “One should associate with a saint who shares one’s aspiration, is affectionate and is superior to oneself, and one should relish the meaning of the *Śrīmad-Bhāgavatam* together with *rasikas*, those who know its taste.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 40)
+fn: Reference by the edition’s heading (in another numbering, 1.2.91). *Anubhāṣya*: *rasikas* are those versed in service to Kṛṣṇa; the meaning of the *Bhāgavatam* is not to be relished with a grammarian who has abandoned bhakti, a mere scholar of words, one attached to women, a Māyāvādī, an offender to the Name, one who makes a living from the *Bhāgavatam*, or a worldly man.
+
+## 127
+w: faith  special  love
+w: of the Deity  of the feet  in the service
+w: of the Name  congregational chanting  in the beautiful
+w: of Mathurā  region  residence
+tr: “With faith and with special love one should serve the feet of the Deity, chant the Holy Name in *saṅkīrtana*, and live in the beautiful region of Mathurā.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 41)
+fn: Reference by the edition’s heading (in another numbering, 1.2.90). *Anubhāṣya*: living in Śrī Māyāpura and the other abodes of Śrī Gaura’s pastimes, in Śrī Kṣetra and in Vraja-maṇḍala is not different from living in Mathurā.
+
+## 128
+w: hard to grasp  wondrous  in power  in this
+w: faith  far away  let it be  in the group of five
+w: where  slight  even  connection
+w: for those of good understanding  for the birth of bhāva
+tr: “The power of these five limbs is wondrous and hard to grasp. Let alone faith in them: even the slightest connection with them gives birth to *bhāva* in those of good understanding, who are free from offence.” (Bhakti-rasāmṛta-sindhu, Pūrva-vibhāga, Sādhana-bhakti-laharī, 87)
+fn: Reference by the edition’s heading (in another numbering, 1.2.238).
+
+## 129
+w: one  limb  practises (one)  someone  practises  many  limbs
+w: steadiness  from  arise  of love  the waves
+tr: Some practise one limb, some practise many; from steadiness (*niṣṭhā*) arise the waves of love.
+
+## 130
+w: by one  limb  perfection  attained  many  devotees
+w: Ambarīṣa and other  devotees’  of many  limbs  practice
+tr: Many devotees have attained perfection through a single limb; devotees such as Ambarīṣa practised many limbs.
+
+## 131
+w: of Śrī Viṣṇu  in hearing  Parīkṣit  was  the son of Vyāsa  in glorifying
+w: Prahlāda  in remembering  His  feet  in serving  Lakṣmī  Pṛthu  in worship
+w: Akrūra  and  in offering prayers  the lord of the monkeys  in servitude  and  in friendship  Arjuna
+w: of all he had and himself  in the offering  Bali  was  the attainment of Kṛṣṇa  of these  the highest
+tr: “Parīkṣit attained perfection by hearing about Śrī Viṣṇu; Śukadeva, the son of Vyāsa, by glorifying Him; Prahlāda by remembering Him; Lakṣmī by serving His feet; Pṛthu by worship; Akrūra by offering prayers; Hanumān, lord of the monkeys, by servitude; Arjuna by friendship; and Bali by offering all he had and himself. All of them attained Kṛṣṇa in the highest way.” (Bhakti-rasāmṛta-sindhu, 1.2.265)
+fn: The edition’s heading: “a verse cited in the *Padyāvalī* and in the *Bhakti-rasāmṛta-sindhu* (Pūrva-vibhāga, Sādhana-bhakti-laharī)”. The verse number is not printed in the edition.
+
+## 132
+w: he  indeed  the mind  of Kṛṣṇa  on the lotus feet
+w: words  of the Lord of Vaikuṇṭha  of the qualities  in describing
+w: the hands  of Hari  of the temple  in cleaning and the like
+w: the ears  he engaged  about Acyuta  holy  narrations  in the telling
+tr: “King Ambarīṣa engaged his mind on Kṛṣṇa’s lotus feet, his words in describing the qualities of the Lord of Vaikuṇṭha, his hands in cleaning Hari’s temple and similar service, and his ears in hearing the holy narrations of Acyuta.” (Śrīmad-Bhāgavatam, 9.4.18)
+fn: The edition’s heading: *Śrīmad-Bhāgavatam*, 9.4.18–20 (on verses 132–134).
+
+## 133
+w: of Mukunda  of the images  of the temples  in seeing  the eyes
+w: of His  servants  of the bodies  in touching  the touch of his limbs
+w: the sense of smell  and  of His  feet  lotus  in the fragrance
+w: of the beautiful  Tulasī  the tongue  offered to Him  in what was
+tr: “He engaged his eyes in seeing Mukunda’s Deities and temples, his body in touching the bodies of the Lord’s servants, his sense of smell in the fragrance of the beautiful Tulasī at the Lord’s lotus feet, and his tongue in what had been offered to Him.” (Śrīmad-Bhāgavatam, 9.4.19)
+
+## 134
+w: the feet  of Hari  holy places  along the paths  in walking
+w: the head  of Hṛṣīkeśa  to the feet  in bowing
+w: desire  and  in servitude  not  but  for the sake of enjoyment
+w: so that  of Uttamaśloka  in the devotees  sheltered  attraction
+tr: “He engaged his feet in walking to the Lord’s holy places, his head in bowing to the feet of Hṛṣīkeśa, and his desire in servitude, not in seeking enjoyment — so that there arose in him the attraction (*rati*) that takes shelter of the devotees of Uttamaśloka.” (Śrīmad-Bhāgavatam, 9.4.20)
+fn: *Amṛta-pravāha-bhāṣya*: a *rati* whose shelter is the devotees of Kṛṣṇa; *Anubhāṣya*: “following the servants of Hari”.
+
+## 135
+w: desires  giving up  Kṛṣṇa  worships  of scripture  the command  honouring
+w: to the gods  the sages  the forefathers  ever  is not  a debtor
+tr: One who gives up desires and worships Kṛṣṇa, honouring the command of scripture, is never in debt to the gods, the sages or the forefathers.
+
+## 136
+w: of the gods  sages  beings  kinsmen  men  of the forefathers
+w: not  a servant  nor  he  a debtor  and  O king
+w: with his whole being  who  for shelter  to the giver of shelter
+w: has gone  to Mukunda  giving up  his duties
+tr: “O king, one who has given up his duties and with his whole being has gone for shelter to Mukunda, the giver of shelter, is no longer a servant or a debtor to the gods, the sages, other beings, his kinsmen, mankind or the forefathers.” (Śrīmad-Bhāgavatam, 11.5.41)
+
+## 137
+w: of rules  the dharma  giving up  worships  of Kṛṣṇa  the feet
+w: to forbidden  sinful conduct  his  ever  does not go  mind
+tr: One who gives up the *dharma* of rules and worships Kṛṣṇa’s feet never turns his mind to forbidden, sinful conduct.
+fn: *Anubhāṣya* (heading): a Vaiṣṇava is never a sinner, and a sinner is never a Vaiṣṇava.
+
+## 138
+w: through ignorance  or  happens  if  sin  occurs
+w: Kṛṣṇa  him  pure  makes  not  makes him perform  atonement
+tr: And if through ignorance he should fall into ‘sin’, Kṛṣṇa purifies him; He does not make him perform atonement.
+
+## 139
+w: His own  of the feet  the root  of one who worships  the dear one
+w: who has given up  other  feelings  Hari  the Supreme Lord
+w: sinful act  which  and  has occurred  somehow
+w: removes  all  in the heart  residing
+tr: “Should a dear devotee who worships the root of His feet, having given up every other feeling, somehow commit a sinful act, Hari, the Supreme Lord, seated in his heart, removes it all.” (Śrīmad-Bhāgavatam, 11.5.42)
+
+## 140
+w: knowledge  renunciation and the like  of bhakti  ever  are not  limbs
+w: non-violence  yama  niyama and the like  accompany  of Kṛṣṇa’s devotees  the company
+tr: Knowledge (jñāna), renunciation (*vairāgya*) and the like are never limbs of devotion. Non-violence, restraint (*yama*), regulation (*niyama*) and the like follow along in the company of Kṛṣṇa’s devotees.
+fn: *Amṛta-pravāha-bhāṣya* (on 141): at first they may be of slight help to bhakti, but they are not counted among its limbs. The edition’s heading: *jñāna* and *vairāgya* are only two sons who follow bhakti.
+
+## 141
+w: therefore  in devotion to Me  engaged
+w: of a yogī  indeed  whose mind is in Me
+w: not  knowledge  nor  and  renunciation
+w: as a rule  the highest good  is  here
+tr: “Therefore, for the *yogī* engaged in devotion to Me, whose mind is in Me, neither knowledge nor renunciation is, as a rule, the means to the highest good in this world.” (Śrīmad-Bhāgavatam, 11.20.31)
+fn: *Amṛta-pravāha-bhāṣya*: bhakti is independent; *jñāna*, *vairāgya* and *yoga* may at first be of slight help to it, but they are not counted among its limbs. The verse number is not printed in the edition.
+
+## 142
+w: these  not  indeed  wonderful  O hunter
+w: your  non-violence and the other  virtues
+w: in devotion to Hari  engaged  who
+w: not  they  are  causing pain to others
+tr: “O hunter, it is no wonder that you have non-violence and these other virtues: those who are engaged in devotion to Hari never cause pain to others.” (Skanda-purāṇa)
+
+## 143
+w: of vaidhī-bhakti  of the practice  I have told  the description
+w: of rāgānugā-bhakti  the characteristics  hear  Sanātana
+tr: I have described to you the practice of *vaidhī-bhakti*. Now, Sanātana, hear the characteristics of *rāgānugā-bhakti*.
+
+## 144
+w: rāgātmikā-bhakti  pre-eminent  in the people of Vraja
+w: it  following  of the devotion  rāgānugā  by name
+tr: *Rāgātmikā-bhakti*, devotion whose very nature is *rāga*, is found pre-eminently in the people of Vraja. Devotion that follows it is called *rāgānugā*.
+fn: *Mukhyā*, “principal”: such bhakti exists nowhere else (*Amṛta-pravāha-bhāṣya*); the path of the practitioner is *rāgānugā*, following the people of Vraja.
+
+## 145
+w: for the beloved  natural  rāga
+w: supreme absorption  is
+w: with it  filled  which  is  devotion
+w: it  here  rāgātmikā  is called
+tr: “Natural, intense absorption in one’s beloved is *rāga*. Devotion filled with such *rāga* is here called *rāgātmikā*.” (Bhakti-rasāmṛta-sindhu, 1.2.272)
+fn: Reference as in the edition’s heading (Sādhana-bhakti-laharī, 272).
+
+## 146
+w: for the beloved  intense  thirst  of rāga  the essential  characteristic
+w: in the beloved  absorption  the marginal  characteristic  is said to be
+tr: Intense thirst for the beloved is the essential characteristic of *rāga*; absorption in the beloved is said to be its marginal characteristic.
+
+## 147
+w: filled with rāga  of devotion  is  rāgātmikā  the name
+w: of it  hearing  filled with longing  becomes  some  fortunate one
+tr: Devotion full of *rāga* is named *rāgātmikā*. Hearing of it, some fortunate soul is filled with longing (*lobha*) for it.
+
+## 148
+w: out of longing  of the people of Vraja  the mood  he makes  following
+w: of scripture  the arguments  does not  heed  of the rāgānugā  the nature
+tr: Out of that longing he follows the mood of the people of Vraja. Such is the nature of *rāgānugā*: it does not wait upon the arguments of scripture.
+fn: That is, his longing was not awakened by scriptural argument, and he does not accept arguments raised against his awakened taste (see verse 150). This is not a disregard of scripture: according to the *Anubhāṣya*, devotees in whom taste has truly awakened (*jāta-ruci*) are deeply versed in the reasoning of scripture, while the *prākṛta-sahajiyās*, who imagine themselves *rāgānugās* and abandon the books of devotion and the path of Śrī Rūpa, have no such taste.
+
+## 149
+w: shining  clearly manifest
+w: in the people of Vraja and others
+w: rāgātmikā  following
+w: which  it  rāgānugā  is called
+tr: “Devotion that follows the *rāgātmikā* devotion shining, clearly manifest, in the people of Vraja is called *rāgānugā*.” (Bhakti-rasāmṛta-sindhu, 1.2.270)
+
+## 150
+w: of their  respective  moods and the like  in the sweetness
+w: when it is heard  the intellect  that  depends on
+w: not  here  scripture  nor  reasoning  and
+w: that  of longing  of the arising  the sign
+tr: “When one hears of the sweetness of their moods and the rest, and the intellect is drawn to it without waiting upon scripture or reasoning — that is the sign that longing has arisen.” (Bhakti-rasāmṛta-sindhu, 1.2.292)
+fn: This is how longing (*lobha*) is born, not a rejection of scripture (see the note to verse 148). *Amṛta-pravāha-bhāṣya*: on hearing of the sweetness of the moods of the people of Vraja, the intellect rests on this longing — and it is this that gives the right to *rāgānugā-bhakti*.
+
+## 151
+w: external  internal  of it  two  indeed  practices
+w: externally  in the body of a sādhaka  he does  hearing and chanting
+tr: Its practice is of two kinds, external and internal. Externally, in the body of a practitioner (*sādhaka*), he hears and chants;
+fn: *Anubhāṣya* (heading): thus, in two ways — in the body of a *sādhaka* and in the *siddha-deha* — *rāgānugā-bhakti* is practised by one who is free from *anarthas*.
+
+## 152
+w: in the mind  his own perfected body  making  contemplation
+w: night and day  he does  in Vraja  to Kṛṣṇa  service
+tr: and in his mind, contemplating his own perfected spiritual body (*siddha-deha*), he serves Kṛṣṇa in Vraja night and day.
+
+## 153
+w: service  in the form of a sādhaka
+w: in the perfected form  and  here  indeed
+w: for their bhāva  by one who longs  is to be done
+w: the people of Vraja  following
+tr: “One who longs for the *bhāva* of the people of Vraja should serve, following them, both in the form of a *sādhaka* and in the perfected form.” (Bhakti-rasāmṛta-sindhu, 1.2.295)
+
+## 154
+w: his own chosen  of Kṛṣṇa  dear one  behind  indeed  keeping close
+w: constantly  service  he does  with mind turned within  becoming
+tr: Keeping close behind the dear one of Kṛṣṇa whom his heart has chosen, he serves without cease, his mind turned within.
+fn: The *rāgānugā* devotee serves by following a resident of Vraja (*ānugatya*), not by imitating him; *Anubhāṣya* (heading): following the guru at every moment.
+
+## 155
+w: Kṛṣṇa  remembering  the person  and  His
+w: dearest  his own chosen
+w: in their  respective  narrations  absorbed  and  he
+w: should make  residence  in Vraja  always
+tr: “Remembering Kṛṣṇa and that dearest devotee of His whom he has chosen as his own, and absorbed in narrations about them, he should always live in Vraja.” (Bhakti-rasāmṛta-sindhu, 1.2.294)
+
+## 156
+w: of servants  friends  parents and others  beloveds  the groups
+w: on the path of rāga  of each one’s own  bhāva  the reckoning
+tr: Servants, friends, parents and the others, and the beloveds: on the path of *rāga* each devotee is reckoned among them according to his own *bhāva*.
+fn: *Anubhāṣya* (heading): the *rāgānugā* devotee serves Kṛṣṇa in four rasas; *śānta-rasa* has no place here.
+
+## 157
+w: never  ever  devoted to Me  in the abode of peace
+w: will perish  not  My  time  devours  weapon
+w: for whom  I  the beloved  the Self  son  and
+w: friend  guru  well-wisher  deity  the desired
+tr: (Lord Kapila to Devahūti:) “Those devoted to Me, for whom I am the beloved, the Self, son, friend, guru, well-wisher, deity and all they desire, are never lost in My abode of peace, and My weapon, time, does not devour them.” (Śrīmad-Bhāgavatam, 3.25.38)
+fn: *Anubhāṣya*: *śānta-rūpe* — in Me, or in the eternal abode of Vaikuṇṭha; *na naṅkṣyanti* — they never become impersonal, bereft of enjoyment.
+
+## 158
+w: husband  son  well-wisher  brother
+w: as father  as friend  on Hari
+w: who  meditate  always  zealous
+w: to them  even  here  obeisance  obeisance
+tr: “Again and again I bow to those in this world who always zealously meditate on Hari as their husband, son, well-wisher, brother, father or friend.” (Bhakti-rasāmṛta-sindhu, 1.2.308)
+fn: The verse number is not printed in the edition.
+
+## 159
+w: in this  way  practises  whoever  rāgānugā-bhakti
+w: of Kṛṣṇa  for the feet  in him  arises  love
+tr: In whoever practises *rāgānugā-bhakti* in this way, love (*prīti*) for Kṛṣṇa’s feet arises.
+
+## 160
+w: of love  in the sprout  rati  bhāva  are  two  names
+w: by which  subdued  becomes  Śrī Bhagavān
+tr: When love is still a sprout, it has two names, *rati* and *bhāva*; by it Śrī Bhagavān Himself is won over.
+fn: *Anubhāṣya* (heading): this is *bhāva-bhakti*, or *rati* — love for Kṛṣṇa not yet fully developed, which draws Kṛṣṇa.
+
+## 161
+w: by which  one obtains  to Kṛṣṇa  in love  service
+w: thus  indeed  I have told  of the abhidheya  the description
+tr: Thus I have described the *abhidheya*, the means by which one obtains loving service to Kṛṣṇa (*prema-sevā*).
+fn: *Anubhāṣya* (heading): until *bhāva*, or *rati*, awakens, the *abhidheya* is *sādhana*; from it the *prayojana* is obtained.
+
+## 162
+w: the abhidheya  sādhana-bhakti  now  I have told  Sanātana
+w: in brief  I have told it  in full  not  can be  described
+tr: Now, Sanātana, I have told you of the *abhidheya*, *sādhana-bhakti*. I have told it in brief; it cannot be described in full.”
+fn: The second line is the same as in Madhya 9.358. Here ends Mahāprabhu’s speech begun in verse 3.
+
+## 163
+w: the abhidheya  sādhana-bhakti  hears  whatever  person
+w: very soon  obtains  that one  of love for Kṛṣṇa  the treasure
+tr: Whoever hears of *sādhana-bhakti*, the *abhidheya*, very soon obtains the treasure of love for Kṛṣṇa.
+
+## 164
+w: Śrī  Rūpa’s,  Raghunātha’s  at the feet  whose  hope
+w: “Caitanya-caritāmṛta”  narrates  Kṛṣṇadāsa
+tr: Praying at the feet of Śrī Rūpa and Śrī Raghunātha, I, Kṛṣṇadāsa, narrate the *Caitanya-caritāmṛta*.

@@ -48,7 +48,7 @@ def is_bn_gap(L, a, b):
 
 def raw_edits(path, L, log):
     """ed/fixes/<Гл>-raw.txt — правки исходной выгрузки ВЧД до разбора (нумерация, пропущенные стихи):
-    `@raw: <было> => <стало>  # причина` — замена в строке; блок `@insert-before: <фрагмент строки>` … `@end` —
+    `@raw: <было> => <стало>  # причина` — замена в строке; `@split: <фрагмент>` — разбить строку перед фрагментом; блок `@insert-before: <фрагмент строки>` … `@end` —
     вставка строк (бенгальский с ॥N॥, пустая, транслитерация, пустая, «(N) перевод») перед первой строкой с фрагментом."""
     if not os.path.exists(path): return L
     E = open(path, encoding='utf-8').read().split('\n'); i = 0
@@ -67,6 +67,14 @@ def raw_edits(path, L, log):
             if k is None: print('  ! вставка не применена:', m.group(1))
             else: L[k:k] = blk + ['']; log.append(('insert', m.group(1), '%d строк' % len(blk), ''))
             i = j
+        # `@split: <фрагмент>  # причина` — разбить строку перед фрагментом (номер перевода «(N)» приклеен к концу пословного, Антья 10.22)
+        m = re.match(r'^@split:\s*(.*?)\s*(?:#\s*(.*))?$', l)
+        if m:
+            k = next((q for q, x in enumerate(L) if m.group(1) in x), None)
+            if k is None: print('  ! разбиение не применено:', m.group(1))
+            else:
+                p = L[k].index(m.group(1)); L[k:k + 1] = [L[k][:p].rstrip(), L[k][p:]]
+                log.append(('split', m.group(1), 'строка разбита', m.group(2) or ''))
         # `@delete: <фрагмент первой строки> => <фрагмент последней строки>  # причина` — удалить строки (стих, которого нет в издании)
         m = re.match(r'^@delete:\s*(.*?)\s*=>\s*(.*?)\s*(?:#\s*(.*))?$', l)
         if m:
@@ -102,6 +110,7 @@ def norm_nums(L, log):
 
 def parse(path, edits=None, log=None):
     L = [l.rstrip('\n') for l in open(path, encoding='utf-8')]
+    L = [l for l in L if l.strip() != '৷']          # одинокая данда отдельной строкой — дефект выгрузки ВЧД (Мадхья 16.115)
     L = norm_nums(L, log if log is not None else [])
     if edits: L = raw_edits(edits, L, log if log is not None else [])
     pend = [l.endswith('\xa0') for l in L]           # конец абзаца в выгрузке antiword
@@ -190,10 +199,14 @@ def split_body(v, vb):
     def tlish(t): return any(c in TLM for c in t) and not any(c in RUS for c in t)
     near = []                         # нумерация сдвоенных стихов у vedabase может быть сдвинута (Ади 1.72–73 / 73–74)
     for n in range(v['nums'][0] - 1, v['nums'][-1] + 2): near += vb_lines(vb, n)
+    if HALVES: near += [h.strip() for x in near if '\u2003' in x for h in x.split('\u2003')]   # полустроки трипади (Антья 16.126: «нахе пиму нирантара,»); только Антья 16–19 из vcd/new
     def is_tl(l):
         # похожесть на строку vedabase — только для строк без русских букв-маркеров и не с заглавной (пословный ВЧД бывает
         # почти дословным: «Брахма, Вишну, Шива — три гуна-Аватары», Ади 1.67)
+        # строка с двумя пробелами между словами без диакритики после транслитерации без пословного — это пословный
+        # (Антья 19.53: «так  Гаура  Рай» похоже на «эи-мата гаура-ра̄йа»)
         return tlish(l) or (bool(near) and not any(c in RUS for c in l) and not l[:1].isupper()
+                            and not ('  ' in l and pairs and pairs[-1][1] is None)
                             and max(sim(l, e) for e in near) > 0.7)
     def is_gloss(l):
         if ' — ' not in l: return False
@@ -205,6 +218,8 @@ def split_body(v, vb):
         if gloss: gloss.append(l); continue
         if pairs and pairs[-1][1] is not None and is_gloss(l): gloss.append(l); continue
         if is_tl(l): pairs.append([squash(l), None]); continue
+        # первая строка тела без русских букв-маркеров — транслитерация, даже без диакритики (Антья 7.136: «джагатера ‘хита’ хаука…»)
+        if not pairs and not any(c in RUS for c in l) and not l[:1].isupper(): pairs.append([squash(l), None]); continue
         if pairs and pairs[-1][1] is None: pairs[-1][1] = squash(l); continue
         if pairs: pairs[-1][1] += '  ' + squash(l); continue    # перенос строки пословного в .doc
         gloss.append(l)
@@ -252,7 +267,10 @@ def load_fixes(path):
 
 def bnum(n): return ''.join(BD[int(c)] for c in str(n))
 
+HALVES = False
 def run(chap):
+    global HALVES
+    HALVES = os.path.exists(os.path.join(ROOT, 'vcd', 'new', 'CC_%s.md' % chap))
     lila, nn = re.match(r'([A-Za-z]+)(\d+)', chap).groups()
     src = os.path.join(ROOT, 'vcd', 'txt', 'CC_%s.txt' % chap)
     vbp = os.path.join(ROOT, 'ed', 'work', 'vb-%s.json' % chap)
@@ -260,8 +278,8 @@ def run(chap):
     raw_log = []
     hdr, verses, removed = parse(src, os.path.join(ROOT, 'ed', 'fixes', '%s-raw.txt' % chap), raw_log)
     for r in raw_log: print('  raw: %s %s => %s %s' % r)
-    # вторая часть этапа А длинной главы (параллельный исполнитель) — ed/fixes/<Гл>.p2.txt
-    fixes = [f for suf in ('', '.p2') for f in load_fixes(os.path.join(ROOT, 'ed', 'fixes', '%s%s.txt' % (chap, suf)))]
+    # вторая и третья части этапа А длинной главы (параллельные исполнители) — ed/fixes/<Гл>.p2.txt, .p3.txt
+    fixes = [f for suf in ('', '.p2', '.p3') for f in load_fixes(os.path.join(ROOT, 'ed', 'fixes', '%s%s.txt' % (chap, suf)))]
     # @N reorder: 74 71 72-73 => 71 72 73-74 — переставить и перенумеровать стихи по изданию Гаудия Матха
     for f in fixes:
         if f['f'] != 'reorder': continue
@@ -286,7 +304,7 @@ def run(chap):
         if f['f'] == 'title' and f['old'] in title:
             title = title.replace(f['old'], f['new']); f['used'] += 1
     out += ['“Шри Чайтанья-чаритамрита”  ', LILA[lila] + '  ', 'Глава %d  ' % int(nn), '**%s**  ' % title,
-            '(перевод Вриндавана Чандры даса)', '']
+            next((x.strip() for x in open(src, encoding='utf-8').readlines()[:12] if x.strip().startswith('(перевод выполнен')), '(перевод Вриндавана Чандры даса)'), '']   # Антья 16–19 — «в стиле…»
     expect = 1
     rows = []
     notes = []
@@ -367,6 +385,7 @@ def run(chap):
         # проверка транслитерации и бенгальского против vedabase
     if notes: out += ['---', ''] + [x + '\n' for x in notes]
     md = '\n'.join(out).rstrip() + '\n'
+    md = md.replace('Нарайян', 'Нараян')   # единое написание «Нараяна», «Нараяни» (решение пользователя 2026-10-30; у ВЧД в Ади — «Нарайяна»)
     od = os.path.join(ROOT, 'ed')
     for d in ('vcd', 'review'): os.makedirs(os.path.join(od, d), exist_ok=True)
     open(os.path.join(od, 'vcd', 'CC_%s.md' % chap), 'w', encoding='utf-8').write(md)

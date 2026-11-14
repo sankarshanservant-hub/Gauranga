@@ -2,19 +2,19 @@
 
 ## 0
 
-**Summary.** The tenth chapter describes Śrīman Mahāprabhu's own branches.
+**Summary.** The tenth chapter describes Śrīman Mahāprabhu’s own branches.
 
 ## 1
 
-Again and again I bow down to the bees who drink the honey of Śrī Caitanya's lotus feet. If one takes shelter of them in any way at all, even a dog obtains the fragrance of those lotus feet.
+Again and again I bow down to the bees who drink the honey of Śrī Caitanya’s lotus feet. If one takes shelter of them in any way at all, even a dog obtains the fragrance of those lotus feet.
 
 ## 7
 
-Śrī Kṛṣṇa Caitanya is the wish-fulfilling tree of *prema*. Its branches are His dear devotees, who give the fruit of love for Kṛṣṇa. I offer my obeisances to them.
+Śrī Kṛṣṇa Caitanya is the wish-fulfilling tree of prema. Its branches are His dear devotees, who give the fruit of love for Kṛṣṇa. I offer my obeisances to them.
 
 ## 13
 
-Śrī Candraśekhara Ācāryaratna, according to some books, was the husband of Śrīman Mahāprabhu's maternal aunt.
+Śrī Candraśekhara Ācāryaratna, according to some books, was the husband of Śrīman Mahāprabhu’s maternal aunt.
 
 ## 14
 
@@ -42,7 +42,7 @@ See Antya, Chapters 4, 7, 12 and 13.
 
 ## 50
 
-“*Ātma-vṛtti*”: the occupation of one's own *varṇa*; Murāri Gupta's profession as a physician (*kavirāja*).
+“*Ātma-vṛtti*”: the occupation of one’s own *varṇa*; Murāri Gupta’s profession as a physician (*kavirāja*).
 
 ## 53
 
@@ -50,11 +50,11 @@ Gadādhara dāsa was a resident of Eṅḍiyādaha.
 
 ## 56
 
-To all the devotees He gave *darśana* in one and the same form, and so bestowed “*sākṣāt*,” direct mercy. But at times He entered (*āviṣṭa*) the body of Nakula or of Pradyumna Brahmacārī; in that *brahmacārī*'s body Śrī Caitanya's “*āvirbhāva*,” manifestation, took place.
+To all the devotees He gave darśana in one and the same form, and so bestowed “*sākṣāt*,” direct mercy. But at times He entered (*āviṣṭa*) the body of Nakula or of Pradyumna Brahmacārī; in that *brahmacārī*’s body Śrī Caitanya’s “*āvirbhāva*,” manifestation, took place.
 
 ## 89
 
-Through contact with the *yavanas*, the people of the western lands had partly lost the sense of their duty, and compared with the good customs of Bengal they lived largely without proper conduct. At that time, under the influence of the Muslims, they had strayed still further from proper conduct. By the mercy of Śrī Rūpa and Sanātana they became inclined to good conduct (*sadācāra*).
+Through contact with the yavanas, the people of the western lands had partly lost the sense of their duty, and compared with the good customs of Bengal they lived largely without proper conduct. At that time, under the influence of the Muslims, they had strayed still further from proper conduct. By the mercy of Śrī Rūpa and Sanātana they became inclined to good conduct (*sadācāra*).
 
 ## 90
 
@@ -62,7 +62,7 @@ The lost holy places are Śrī Śrī Rādhā-kuṇḍa and others. The Deities: 
 
 ## 92–93
 
-“Hidden service”: those services to which outsiders have no access. The intimate services dear to the Lord, needed when He bathes, eats, rests, sings *kīrtana* and so on, are here also called *antaraṅga-sevā*, intimate service.
+“Hidden service”: those services to which outsiders have no access. The intimate services dear to the Lord, needed when He bathes, eats, rests, sings kīrtana and so on, are here also called *antaraṅga-sevā*, intimate service.
 
 ## 94
 
@@ -74,7 +74,7 @@ The lost holy places are Śrī Śrī Rādhā-kuṇḍa and others. The Deities: 
 
 ## 104
 
-“Later”: for the Lord's meeting with Raghunātha see Antya, Chapter 6.
+“Later”: for the Lord’s meeting with Raghunātha see Antya, Chapter 6.
 
 ## 107
 
