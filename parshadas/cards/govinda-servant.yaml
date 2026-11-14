@@ -1,0 +1,165 @@
+# Карточка лица (формат — parshadas/CARDS.md § 3). Источник — только parshadas/facts/govinda-servant.md и lila-db.
+id: "@govinda-servant"
+names:
+  ru: "Говинда (слуга Господа)"
+  en: "Govinda (the Lord's servant)"
+  variants: ["Шри Говинда", "Шри Говинда дас (B)", "Govinda Das (T)", "слуга Говинда (ЧЧ)", "привратник Говинда, двара-пала (ЧБ)", "слуга лучшего из Пури («Гаура-кришнодая»)"]
+  facts: [F1]
+kind: associate
+circle: [puri]
+period: [P12, P13, P14, P15]
+period_note: "Лично — с прихода к Господу в Пури после южного странствия (P12; F9–F14) до сокрытия Господа (P14) и после него — встреча со Шринивасой (P15; F57). P13 — шёл с Господом в Гауду на пути во Вриндаван и встречал Его по возвращении (F23, F24). В ЧБ «Говинда» идёт за Господом уже после санньясы (P09; ЧБ Антья 1.52, 2.35) — отождествление спорно (⚠10), в period не включено; мангалы ЧБ с «привратником Говиндой» (lila-db cb-0094, cb-0073 — P05/PX) — лишь упоминания."
+life:
+  appearance:
+    date: ""
+    tithi: ""
+    place: ""
+    conf: "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-14) дня явления нет"
+    facts: [F5]
+  disappearance:
+    date: ""
+    tithi: ""
+    place: "#puri?"
+    conf: "день и год ухода неизвестны; по B — прожил недолго после прихода Шринивасы в Пури (F57, без первоисточника, ⚠8); в календаре ШЧСМ (541/ru, проверено 2026-11-14) дня ухода нет"
+    facts: [F5, F57]
+origin:
+  places: []
+  family: []
+  varna: "шудра по рождению (ЧЧ Мадхья 10.136; ЧЧН 8 — «не-брахман»; T 115)"
+  facts: [F4, F5]
+sampradaya:
+  name: "ученик Ишвары Пури (линия Мадхавендры Пури)"
+  facts: [F6, F7]
+relations:
+  - {type: guru, who: "@ishvara-puri", facts: [F6, F7, F8, F9, F10, I3], events: [ev-govinda-ishvara-puri-servant],
+     note: "Ученик и слуга; по велению гуру перед его уходом пришёл служить Господу (ЧЧ Ади 10.138–139; Мадхья 10.132–134); ЧЧН 8.13 — послан ещё при жизни Ишвары Пури (⚠4). = @ishvara-puri F59–F64."}
+  - {type: served-by, who: "@mahaprabhu", facts: [F9, F11, F12, F13, F15, F16, F17, F18, F19, F21, F22, F23, F24, F25, F26, F28, F29, F30, F31, F34, F36, F37, F38, F39, F40, F41, F45, I1, I2],
+     events: [ev-govinda-ishvara-puri-servant, ev-jagamohana-dance-govinda-crosses, ev-month-stored-prasada, ev-devadasi-gita-govinda-song],
+     note: "Личный и главный слуга Господа в Пури (служение телу, пища, припасы, сосуд для омовения стоп, привратник); Господь принял его как слугу своего гуру, по приказу гуру (Ади 10.140; Мадхья 10.142–147, ⚠Б2); дасья-раса (Мадхья 2.78); «никогда не покидай Меня» (Антья 13.87); переход через тело Господа ради служения (Антья 10, ⚠Б1)."}
+  - {type: sibling, who: "@kashishvara", facts: [F3, F6, F8, F9, F16, F18, F51],
+     note: "Духовный брат (оба — ученики Ишвары Пури); вместе служили Господу: Кашишвара впереди в толпе, Говинда — позади с сосудом воды (ЧЧ Мадхья 12.207); по ГГД 137 — Бхрингара и Бхангура; пришёл позже Говинды (Мадхья 10.134, 10.185)."}
+  - {type: co-worker, who: "@ramai-puri", facts: [F13, F15], note: "Помогал Говинде, носил воду (ЧЧ Ади 10.143–144); по ГГД 139 — Пайода."}
+  - {type: co-worker, who: "@nandai", facts: [F13, F15], note: "Помощник Говинды (ЧЧ Ади 10.143–144); по ГГД 139 — Варида."}
+  - {type: co-worker, who: "@svarupa-damodara", facts: [F20, F38, F49, F54], events: [ev-gauda-devotees-arrive-puri, ev-kurma-form-telinga-cows, ev-limbs-elongated-separation, ev-face-rubbing-gambhira],
+     note: "Вместе встречали гаудийцев гирляндами (ЧЧ Мадхья 11.74–81); вместе спали у двери Гамбхиры и искали Господа (Антья 14, 17, 19); Сварупа представил Говинду Адвайте. = @svarupa-damodara F20, F62, F67, F75, F77."}
+  - {type: other, who: "@sarvabhauma", facts: [F9, F11, F12], note: "При нём Говинда пришёл к Господу; спросил о слуге-шудре и посоветовал исполнить приказ гуру (ЧЧ Мадхья 10.136–146)."}
+  - {type: other, who: "@advaita", facts: [F13, F20, F36], events: [ev-gauda-devotees-arrive-puri], note: "Поднёс ему гирлянду и простёрся перед ним; Адвайта его ещё не знал (ЧЧ Мадхья 11.78–81); угощения Адвайты Говинда первыми называл Господу (Антья 10.118)."}
+  - {type: other, who: "@nityananda", facts: [F20, F43], events: [ev-lord-refuses-to-see-king], note: "Гирлянда на третий год (Мадхья 16.38–39); Нитьянанда попросил у Говинды накидку Господа для царя (Мадхья 12.36)."}
+  - {type: served-by, who: "@haridasa-thakura", facts: [F21, F44, F46], events: [ev-haridasa-departure, ev-rupa-arrives-haridasa-puri], note: "Носил ему остатки Господа; в последний день — махапрасад (ЧЧ Антья 11.16–20)."}
+  - {type: other, who: "@raghava-pandita", facts: [F25, F36], events: [ev-month-stored-prasada], note: "Хранил его мешки с угощениями на весь год (ЧЧ Антья 10.55–56, 10.128)."}
+  - {type: other, who: "@damayanti", facts: [F25], note: "B 822: бережно хранил её припасы и давал Господу понемногу."}
+  - {type: other, who: "@kalidasa", facts: [F18, F19], events: [ev-kalidasa-foot-water], note: "Не давал никому воды со стоп Господа; по знаку Господа отдал Калидасу остатки (ЧЧ Антья 16.40–57)."}
+  - {type: served-by, who: "@raghunatha-dasa", facts: [F49], events: [ev-raghunatha-dasa-joins-lord, ev-raghunatha-stops-invitations, ev-raghunatha-rotten-rice, ev-govardhana-shila-gunja-gift],
+     note: "Пять дней кормил его остатками Господа; Рагхунатха обращался к Господу через Сварупу или Говинду (ЧЧ Антья 6). = @raghunatha-dasa F102–F103."}
+  - {type: served-by, who: "@raghunatha-bhatta", facts: [F53, F55], events: [ev-raghunatha-bhatta-first-visit-puri], note: "По велению Господа нашёл ему жильё (ЧЧ Антья 13.104); M — дал прасад, убрал гостинцы."}
+  - {type: other, who: "@jagadananda-pandita", facts: [F53, F54], events: [ev-jagadananda-sandal-oil, ev-jagadananda-bed-banana], note: "Через Говинду — масло и постель; Говинда докладывал Господу, поел ли Джагадананда (ЧЧ Антья 12–13)."}
+  - {type: other, who: "@shrikanta-sena", facts: [F52], events: [ev-nityananda-kicks-shivananda], note: "Велел снять рубашку перед поклоном; Господь: «не говорите ему ничего» (ЧЧ Антья 12.37–38)."}
+  - {type: served-by, who: "@shivananda-sena", facts: [F52], events: [ev-karnapura-child-mercy], note: "По велению Господа давал семье Шивананды остатки Господа (ЧЧ Антья 12.52–53)."}
+  - {type: other, who: "@ramachandra-puri", facts: [F51], events: [ev-ramachandra-puri-criticism], note: "Через Говинду Господь установил урезанную меру пищи (ЧЧ Антья 8.50–59)."}
+  - {type: other, who: "@chhota-haridasa", facts: [F47], events: [ev-chhota-haridasa-punished, ev-chhota-haridasa-prayaga], note: "Господь велел Говинде не пускать его; позже Говинда и другие слышали его пение у моря (ЧЧ Антья 2)."}
+  - {type: other, who: "@sanatana-gosvami", facts: [F48], events: [ev-sanatana-puri-sores, ev-sanatana-hot-sand-test], note: "Приносил ему махапрасад; дал тарелку остатков в саду Ямешвары (ЧЧ Антья 4.50, 4.121)."}
+  - {type: other, who: "@rupa-gosvami", facts: [F46], events: [ev-rupa-arrives-haridasa-puri], note: "Принёс ему и Харидасу прасад от Господа (ЧЧ Антья 1.64)."}
+  - {type: other, who: "@kamalakanta-vishvasa", facts: [F42], events: [ev-kamalakanta-letter-prataparudra], note: "Господь велел больше его не пускать (ЧЧ Ади 12.36)."}
+  - {type: other, who: "@prataparudra", facts: [F43, F63], events: [ev-lord-refuses-to-see-king], note: "Накидка Господа для царя — через Говинду (Мадхья 12.36); у Лочана царь просит Говинду о встрече (Шеша, 51.87–90)."}
+  - {type: other, who: "@gadadhara-pandita", facts: [F50], events: [ev-gadadhara-vallabha-initiation], note: "Послан за ним вместе со Сварупой и Джагаданандой (ЧЧ Антья 7.150)."}
+  - {type: other, who: "@paramananda-puri", facts: [F19, F23, F47], note: "По знаку Господа принёс прасад для него (Антья 16.105); с ним шёл в Гауду; спор о Младшем Харидасе."}
+  - {type: other, who: "@shankara-pandita", facts: [F57, F60], events: [ev-srinivasa-gadadhara-puri], note: "ЧЧН 8: Господь велит Говинде быть благосклонным к Шанкаре; после сокрытия Господа Шриниваса застал их обоих в разлуке (БР 3.188–193)."}
+  - {type: met, who: "@srinivasa-acharya", facts: [F56, F57], events: [ev-prema-for-srinivasa, ev-srinivasa-gadadhara-puri], note: "Господь открыл Говинде о рождении Шринивасы (БР 2); после сокрытия Господа обнял его (B 807; БР 3). = @srinivasa-acharya F12, F36."}
+  - {type: other, who: "@chaitanya-dasa", facts: [F56], events: [ev-prema-for-srinivasa], note: "Проводил его с женой к Джаганнатхе (БР 2)."}
+  - {type: other, who: "@gopala-guru", facts: [F58], note: "По T — ребёнком служил Господу под началом Говинды; в БР 8 вспоминает, как Говинда растирал стопы Господа. = @gopala-guru F4."}
+  - {type: other, who: "@govinda-karmakara", facts: [], note: "Тёзка, не путать: автор «Карчи»; B 769 приписывает её «личному слуге Говинде» (⚠9); гипотеза Д. Ч. Сена о тождестве — не принимаем."}
+  - {type: other, who: "@bhaktisiddhanta", facts: [F3, F12, F31, F45], note: "«Анубхашья» к ЧЧ Ади 10.138–143 и Мадхья 2.78: Бхангура (ГГД 137), чистая дасья-раса, переход через Господа ради служения."}
+identities:
+  - in: krishna-lila
+    as: "Бхангура, слуга (чета) Кришны во Вриндаване"
+    source: "ГГД 137"
+    level: A
+    facts: [F3]
+    variants: ["B 827 и M 76 добавляют «носивший воду (из Ямуны)» — смешение с ГГД 139 (⚠3); соответствие Говинда = Бхангура — по порядку пар (так T 139)."]
+  - in: other-avatara
+    as: "Пундарикакша, спутник Вайкунтхи"
+    source: "ГГД 116 (по B 804)"
+    level: B
+    facts: [F2]
+    variants: ["B называет его «Пундарика»; что Говинда ГГД 116 — именно слуга Господа, ГГД прямо не говорит (⚠1)."]
+events:
+  - ev-govinda-ishvara-puri-servant
+  - ev-svarupa-paramananda-arrive
+  - ev-devotees-gather-nilachala
+  - ev-prataparudra-watches-devotees-roof
+  - ev-gauda-devotees-arrive-puri
+  - ev-advaita-gaura-kirtan
+  - ev-lord-refuses-to-see-king
+  - ev-gundicha-garden-feast
+  - ev-netrotsava-darshan
+  - ev-ratha-yatra-gundicha
+  - ev-prataparudra-mercy
+  - ev-gauda-devotees-come-with-wives
+  - ev-departure-for-gauda
+  - ev-return-to-puri-from-vrindavana
+  - ev-puri-eighteen-years-associates
+  - ev-lord-daily-routine-puri
+  - ev-gauda-devotees-yearly-visit
+  - ev-nilachala-sankirtana
+  - ev-kamalakanta-letter-prataparudra
+  - ev-rupa-arrives-haridasa-puri
+  - ev-chhota-haridasa-punished
+  - ev-chhota-haridasa-prayaga
+  - ev-sanatana-puri-sores
+  - ev-sanatana-hot-sand-test
+  - ev-raghunatha-dasa-joins-lord
+  - ev-raghunatha-lord-instructions
+  - ev-raghunatha-stops-invitations
+  - ev-govardhana-shila-gunja-gift
+  - ev-raghunatha-rotten-rice
+  - ev-gadadhara-vallabha-initiation
+  - ev-ramachandra-puri-criticism
+  - ev-narendra-jala-keli
+  - ev-jagamohana-dance-govinda-crosses
+  - ev-month-stored-prasada
+  - ev-haridasa-departure
+  - ev-nityananda-kicks-shivananda
+  - ev-karnapura-child-mercy
+  - ev-jagadananda-sandal-oil
+  - ev-jagadananda-bed-banana
+  - ev-devadasi-gita-govinda-song
+  - ev-raghunatha-bhatta-first-visit-puri
+  - ev-prema-for-srinivasa
+  - ev-last-twelve-years-gambhira
+  - ev-gambhira-divine-madness
+  - ev-rasa-dream-separation
+  - ev-oriya-woman-garuda-pillar
+  - ev-limbs-elongated-separation
+  - ev-chataka-parvata-govardhana
+  - ev-krishna-adharamrita-phela
+  - ev-kurma-form-telinga-cows
+  - ev-face-rubbing-gambhira
+  - ev-kalidasa-foot-water
+  - ev-dravida-brahmana-vibhishana
+  - ev-srinivasa-gadadhara-puri
+  - ev-jahnava-vrindavana
+events_note: "ev-govinda-ishvara-puri-servant — ЧЧ Ади 10.138–142, Мадхья 10.130–150, ЧЧН 8, ГКД 11.20 (не путать с ev-govinda-joins-lord — это Говинда-кузнец из «Карчи», @govinda-karmakara); ev-jagamohana-dance-govinda-crosses — ЧЧ Антья 10.66–101; ev-month-stored-prasada — Антья 10.106–130, ГКД 17.35–41; ev-devotees-gather-nilachala — ЧЧН 8, Карнапура 13.130–131 (в lila-db — P10); ev-dravida-brahmana-vibhishana — Лочан, Шеша 52.48–51; ev-jahnava-vrindavana — «Према-виласа» 16.261 (ур. C); ev-advaita-gaura-kirtan — ЧБ Антья 9.195–196; ev-nilachala-sankirtana — пада Нарахари; ev-lord-daily-routine-puri — Карнапура 18, «Шачисуну-аштака». Не включены: ev-radha-desha-wandering, ev-journey-to-puri (ЧБ Антья 1.52, 2.35 — «Говинда» после санньясы; по ЧЧ слуга пришёл позже — ⚠10, в lila-db cb-3005, cb-3019 тег сомнителен) и ev-nimai-pandit-teaching (лишь мангала ЧБ Ади 13.2 «привратник Говинда»)."
+teachings_given: []
+teachings_received: []
+works: []
+places: ["#puri", "#house-kashi-mishra", "#gundicha", "#aitota", "#narendra-sarovara", "#alalanatha", "#yameshvara-tota", "#chataka-parvata"]
+places_facts: [F9, F18, F20, F24, F28, F38, F44, F46, F47, F48, F58]
+character:
+  - {trait: "служение ради радости Господа, а не своей: ради служения не боится оскорбления, ради себя боится и его тени", facts: [F31, F32, I1], events: [ev-jagamohana-dance-govinda-crosses]}
+  - {trait: "послушание гуру: сразу, не обходя святых мест, пришёл к Господу по слову Ишвары Пури", facts: [F8, F9]}
+  - {trait: "смирение: спасение Господа приписывает Джаганнатхе; на упрёк отвечает смиренно", facts: [F31, F41]}
+  - {trait: "бдительная забота о Господе: следует повсюду, ищет Его ночью, бережёт Его обет санньяси", facts: [F37, F38, F41]}
+  - {trait: "сострадание и услужливость ко всем вайшнавам (остатки Господа Харидасу, Санатане, Рагхунатхе, семье Шивананды; кормит бедных)", facts: [F13, F21, F22, F48, F49, F52]}
+  - {trait: "мука разлуки после сокрытия Господа: иссох так, что качался от ветра", facts: [F57]}
+significance: {facts: [F3, F12, F31, F45, I1, I2, I3, I4]}
+sources:
+  T: "глав нет; 3, 21, 75, 81–82, 107, 109–110, 115, 119, 131, 137–140, 148, 158, 173, 184–186, 201, 204"
+  M: "глав нет; 56, 75–76, 146, 151, 187, 189"
+  B: "804–807 (гл.); 206, 219–225, 276, 447, 451, 499, 660, 663, 721, 756–757, 769, 785–786, 799, 822, 827–828, 878, 882–884, 948, 953, 958, 1015, 1024–1025, 1089"
+  other: ["ГГД 116, 137, 139", "ЧЧ Ади 4.199–201, 10.138–144, 12.36", "ЧЧ Мадхья 1.253, 2.78, 10.130–150, 11.74–81, 11.206, 12.36, 12.162, 12.201–207, 13.183, 14.44, 15.184, 16.38–39, 16.127–129, 25.218–221", "ЧЧ Антья 1.62–64, 2.112–156, 4.50, 4.121, 6.211–321, 7.150, 8.38–59, 10.55–130, 11.16–20, 12.37–151, 13.8–12, 13.82–104, 14.21–25, 14.58–97, 16.40–105, 17.9–13, 19.56–61, 20.118", "«Анубхашья» к ЧЧ Ади 10.138–143 (и Мадхья 2.78 — по T)", "ЧБ Ади 10.2, 13.2; Мадхья 6.6; Антья 1.52, 2.35, 7.5, 8.56–61, 9.195–196", "«Чайтанья-чандродая», акты 8–10", "Махакавья Карнапуры 13.130–131, 14.67–82, 16.33, 17.43–62, 18.17–45, 19.6–9", "«Гаура-кришнодая» 11.20, 11.37, 17.35–41", "Лочан, Шеша-кханда (51.87–90; 52.48–51, 52.94+30)", "Мурари 4.24.13", "«Шачисуну-аштака» 2", "пада Нарахари ПК 2241", "БР 2.120–123, 3.188–193, 8.382–392", "«Према-виласа» 16.261", "«Карча» Говинды Даса и предисловие 1926 г. — для разведения тёзок"]
+article: {ru: "parshadas/ru/govinda-servant.md", en: "parshadas/en/govinda-servant.md"}
+open_questions:
+  - "Кто «Говинда», идущий за Господом сразу после санньясы в ЧБ Антья 1.52, 2.35: по ЧЧ слуга Ишвары Пури пришёл лишь после южного странствия (⚠10)."
+  - "Когда Ишвара Пури послал его: перед уходом (ЧЧ) или ещё при жизни (ЧЧН 8.13) (⚠4); пришёл ли он прямо (ЧЧ) или после тиртх (Карнапура 13.130) (⚠5)."
+  - "ГГД 116 (Пундарикакша Вайкунтхи) — тот ли это Говинда (⚠1)."
+  - "Родина, годы жизни, день и место ухода неизвестны; в календаре ШЧСМ его дней нет; «прожил недолго после Шринивасы» — только B (⚠8)."

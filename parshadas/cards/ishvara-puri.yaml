@@ -41,7 +41,7 @@ relations:
      note: "Господь являет игру принятия дикши (десятисложная мантра — T, B 70, ЧБ; M — «гаятри», F52). Порядок угощения и дикши: B, T, ЧБ — угощение до дикши; M — после (F50)."}
   - {type: met, who: "@mahaprabhu", facts: [F31, F32, F33, F35, F38, F39, F40, F41, F42, F47], event: ev-ishvara-puri-navadvipa,
      note: "Встречи в Навадвипе до Гаи: на дороге (B, M) ≠ у Адвайты (T 19, F31); обед у Шачи; спор о «Кришна-лиламрите»."}
-  - {type: disciple, who: "@govinda-servant", facts: [F59, F60, F61, F62, F63, F64], event: ev-govinda-joins-lord,
+  - {type: disciple, who: "@govinda-servant", facts: [F59, F60, F61, F62, F63, F64], event: ev-govinda-ishvara-puri-servant,
      note: "Его любимый слуга; по его наказу пришёл к Господу первым (F61). Шудра — вопрос Сарвабхаумы (F63)."}
   - {type: disciple, who: "@kashishvara", facts: [F59, F60, F61, F62, F64], note: "Брахмачари; пришёл к Господу после паломничества (F61)."}
   - {type: disciple, who: "@nityananda", facts: [F75],
