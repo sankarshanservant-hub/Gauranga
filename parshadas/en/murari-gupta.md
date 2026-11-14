@@ -347,6 +347,167 @@ Shrivasa bathed Him with the waters of the Ganga, Nityananda held an umbrella ov
 sang and danced (“Kadacha” 2.12.5–17). Lochana Dasa and Karnapura (“Chaitanya-charitamrita-mahakavya” 7.98–106) tell it
 the same way, and in a song of Krishnadasa about this bathing “Mukunda and Murari sing.” <!-- F48 -->
 
+## The Glory of Murari Gupta
+Vrindavana Dasa devotes a whole chapter of the “Chaitanya-bhagavata” to “the glory of Murari Gupta” (Madhya 20).
+Through Murari, the biographies say, the Lord taught the truth about Himself and about Nityananda, and how a devotee
+ought to conduct himself. <!-- F49 I2 -->
+
+### The Dream of the Elder Brother
+One day, when Mahaprabhu was relishing bliss with Nityananda in Shrivasa's house, Murari came and bowed first to the
+Lord and then to Nityananda. The Lord, very pleased with him, said plainly: “Murari, you have acted wrongly: you have
+broken the proper order. You teach people right conduct — why do you break it yourself?” “Lord, how was I to know?”
+Murari replied. “You Yourself moved me to act so.” “Very well,” said the Lord. “Go home. Tomorrow I will explain it to
+you, and you will understand everything” (CB, Madhya 20.5–12). <!-- F49 -->
+
+With joy and anxiety Murari returned home and lay down to sleep. And in a dream he saw:
+
+“Nityananda held a plough and a club in His hands, and over His head swayed the hoods of a gigantic serpent. Nityananda
+was exactly like Haladhara. Behind Him stood Vishvambhara, fanning Him with a whisk. The Lord smiled and said to Murari
+in the dream: ‘Do you understand now, Murari? You should regard Me as the younger.’” (CB, Madhya 20.15–17)[^8]
+
+Nityananda appeared to him as Balarama-Haladhara, “the bearer of the plough,” in the guise of a wrestler, while
+Vishvambhara, the younger brother, served Him with a whisk. Murari woke in tears and began to call, “Nityananda!
+Nityananda!” while his pious wife, frightened, cried out, “Krishna! Krishna! Krishna!” (20.19–20). <!-- F50 F14 -->
+
+In the morning, having understood that Nityananda is the elder brother, Murari went to the Lord in bliss:
+
+“Lotus-eyed Mahaprabhu sat on His seat, and to His right sat Nityananda, laughing. Murari first offered obeisances at
+the lotus feet of Nityananda, and then bowed at the lotus feet of Vishvambhara.” (CB, Madhya 20.22–23)
+
+“Why did you do that, Murari?” Vishvambhara asked with a smile. “Lord, I follow Your instructions,” Murari answered. “As
+a blade of grass is moved by the breath of the wind, so all living beings obey Your power.” And the Lord, pleased that
+Murari had learned the truth about Nityananda, said: “You are very dear to Me, Murari. That is why I have revealed this
+secret truth to you” (20.24–26). From then on Murari always bowed first to Nityananda. <!-- F51 Q12 -->
+
+Later, embracing Murari as a brother, the Lord said to him with great tenderness: “Murari, you are truly My faithful
+servant, for you have understood the greatness and glory of Nityananda. As long as even a particle of envy toward
+Nityananda remains in My servant, he cannot become dear to Me. <…> You have conquered Me, for you have realized the glory
+of Nityananda” (CB, Madhya 20.48–51). “So Murari received the Lord's mercy which before only Hanuman had been granted,”
+says Vrindavana Dasa (20.52). <!-- F51 -->
+
+Srila Bhaktisiddhanta explains this lesson in the “Gaudiya-bhashya” (on CB, Madhya 20.9): the Lord tells Murari that he
+is a devotee of Sri Balarama, and to worship the Supreme Lord without first bowing to the guru and jagad-guru is a
+breach of order. Nityananda-Balarama is the original guru, and without His mercy service to Gaura cannot be attained.
+<!-- F51 I2 -->
+
+### Betel and the “Lost Caste”
+That same day the Lord told Murari of His glory. Gadadhara, seated on His left, was offering Him betel.
+
+“The Lord said, ‘Murari, you are the best of My servants.’ Saying this, the Lord gave Murari the remnants of His betel.
+With deep reverence Murari accepted the betel with both hands. Tasting the Lord's remnants, Murari became intoxicated
+with bliss. The Lord said, ‘Murari, wash your hands at once.’ But Murari simply wiped them on his head. The Lord said,
+‘You have lost your caste, for you have defiled yourself by touching the remnants of My food.’” (CB, Madhya 20.28–31)
+
+So the Lord joked about the greatness of His remnants: for the world they are an “impurity” that costs one his caste,
+for the devotee a sacred thing to be placed on the head. The biographies say that the Lord, loving Murari dearly, more
+than once gave him His betel. <!-- F52 Q13 -->
+
+And at once the Lord entered the mood of the Supreme Master and, grinding His teeth, spoke again of the Mayavadis:
+
+“‘In Kashi lives a sannyasi named Prakashananda. He takes pleasure in cutting Me to pieces. He teaches the “Vedanta,”
+but denies My divine form. I have struck him with leprosy, yet he still has understood nothing. Countless universes are
+manifest in My body. How then does this fool dare to claim that My body is illusory? Murari, I reveal the truth to you,
+for you are My servant. Whoever denies My spiritual form is doomed.’” (CB, Madhya 20.33–36)
+
+“I am eternal, My servants are eternal, and the servants of My servants are eternal too,” the Lord went on. “My
+pastimes and deeds are eternal. My abode is eternal. One who says they are illusory cuts Me to pieces” (20.39–40). In
+instructing Murari, the Lord was instructing everyone (20.45). <!-- F53 Q13 -->
+
+### “Eat, Krishna!”
+Returning home, Murari could not contain his merriment: he laughed at whatever he did. “I'll eat now,” he said, and his
+chaste wife served him rice with ghee. But Murari, intoxicated with love for the Lord, began to throw the rice on the
+floor by handfuls, crying, “Eat, Krishna! Eat!” His wife watched him and laughed — she knew her husband was a
+maha-bhagavata — and kept serving him more, repeating the names of Krishna (CB, Madhya 20.54–60). <!-- F54 F14 -->
+
+“The Lord ate everything Murari offered Him.” (CB, Madhya 20.61)
+
+It is wondrous that the Lord, though not bodily present there, accepted this offering: however a devotee's offering is
+made, He accepts it with joy. <!-- F54 I3 -->
+
+Early in the morning the Lord came to Murari — as if for treatment. “What brings You here?” Murari asked. “I have come
+to be treated.” “Where did You get indigestion? What did You eat yesterday?”
+
+“The Lord said: ‘Dear friend, how can you not know? You threw rice on the floor and said, “Eat! Eat!” You have
+forgotten, but your wife remembers it all. You offered Me that rice — how could I not eat it? How do you treat yourself,
+and what medicines do you take? I ate your rice, and now I have indigestion. To get rid of indigestion one should drink
+water. My stomach is upset because of your rice, and so your water will be the medicine.’” (CB, Madhya 20.66–69)
+
+Having prescribed His own medicine, the Lord took Murari's water-pot and drank until He had drunk it all, filled with
+bliss (20.70). Seeing such mercy, Murari fainted, and the whole of Gupta's family wept with love of God (20.71)[^9]. The
+Lord's “indigestion” is no bodily ailment: He in whom the universes rest knows no disease. It is a loving pastime in
+which the Lord shows that He ate all His devotee offered Him — ate “beyond measure,” because it was offered with all the
+heart — and that the only medicine for Him is the water of His own physician. <!-- F55 -->
+
+“The mercy the servants of Murari Gupta received was not seen even by the bhattacharyas of Navadvipa.” (CB, Madhya
+20.73)
+
+So, says Vrindavana Dasa, Mahaprabhu bestowed His mercy on Murari every day, and whoever hears these narratives
+attains the treasure of loving service (20.76–77). <!-- F56 -->
+
+### Garuda
+One day in Shrivasa's house Mahaprabhu, with a loud cry, manifested His four-armed form — with conch, disc, club and
+lotus — and began to call, “Garuda! Garuda!” At that moment Murari came in and, feeling a surge of bliss, cried out
+loudly. He took on the mood of Garuda, the king of birds, the son of Vinata, and said, “I am Garuda, the great devotee
+of God.” To Vishvambhara's call Murari answered, “O Lord, Your servant is here” (CB, Madhya 20.78–82).
+
+“The Lord said, ‘My dear friend, you will carry Me.’ Murari Gupta replied, ‘Yes. Yes.’ Murari Gupta went on: ‘Perhaps
+You have forgotten how I carried You and the parijata tree from heaven. Perhaps You have forgotten how I brought You to
+Banapura, where I tore to pieces the peacock of Karttikeya. Lord, climb onto my shoulders and tell me to which universe
+I should carry You.’” (CB, Madhya 20.83–86)
+
+Vishvambhara climbed onto his shoulders, and Murari began to run about Shrivasa's courtyard carrying the Lord of
+Lakshmi. The whole house filled with cries of “Jaya! Jaya!”, the women made auspicious sounds, and the devotees wept
+with love; someone cried, “All glory to Vishvambhara, whom Murari carries!” Returning to outer consciousness, Gauranga
+jumped down from his shoulders, and Murari ceased to feel himself Garuda (20.87–100). <!-- F57 -->
+
+This is not possession and not a “miracle,” but the awakening of eternal service. Vrindavana Dasa says: “Murari Gupta
+is the leader of the Lord's servants in all His descents” (20.98); his service bore fruit, for he carried Vishvambhara
+in His pastimes (20.103). Hanuman, the servant of Rama, carried the Lord on his shoulders; in the mood of Garuda Murari
+recalls how he carried Him with the parijata from heaven and how in Bana's city he tore apart the peacock of
+Karttikeya. <!-- F57 F5 -->
+
+### The Knife
+The last story of this chapter is the most moving. Once Murari began to reflect on the Lord's pastimes: no one knows
+what He will do the next moment. Rama for Sita's sake destroyed Ravana with all his race — and then abandoned Sita;
+Krishna let the Yadavas, dear to Him as life, perish before His eyes. “While the Lord is here in this world with His
+associates, I must leave my body,” Murari decided (CB, Madhya 20.105–112). In all His descents, he reasoned, the Lord
+arranges that His associates depart before Him; and since Mahaprabhu must one day depart, it is better to go first: to
+see that would be unbearable. He secretly obtained a sharp knife and hid it in the house, resolving: “Tonight I will
+gladly leave this body” (20.112–113). <!-- F58 F59 -->
+
+Vrindavana Dasa calls this state *nirveda* — “so Gupta, in nirveda, reflected.” It is not worldly despair or weariness
+of life: so feels a servant who cannot conceive of life without his Lord and fears only one thing — to outlive
+separation from Him. The strength of his love is seen in this, that for its sake he was ready to leave his body.
+<!-- F58 I5 -->
+
+The all-knowing Lord knew of his intention and came to him that very day. Murari prostrated himself before Him. The Lord
+sat down and began to speak of Krishna, and then asked:
+
+“‘Murari, will you do whatever I ask?’ Murari answered, ‘Lord, this body belongs to You.’ The Lord asked, ‘Is that
+true?’ Murari answered, ‘Yes.’ Then the Lord whispered in his ear: ‘Then give Me the knife. You have hidden a knife in
+the house with which you planned to kill yourself. Give it to Me.’” (CB, Madhya 20.116–119)
+
+“Alas! Someone has told You an untruth,” Murari exclaimed in sorrow. “Murari, you are too simple,” the Lord replied.
+“Do you think I know something only because someone told Me? I know who made this knife and where you hid it.” And the
+Lord Himself took the knife from its hiding place (20.120–123). <!-- F60 -->
+
+“The Lord asked: ‘Murari, what are you doing! For what fault of Mine do you want to leave Me? If you go, how will I
+enjoy My pastimes? Who will give Me new ideas? Murari, give Me your word that you will never think of this again.’ <…>
+‘If you ever again plan to leave your body, you will eat My head, Gupta. You will eat My head.’” (CB, Madhya
+20.124–128)
+
+“You will eat My head” is a Bengali oath: “if you do this, it will be as if you killed Me.” The Lord did not simply
+forbid: He revealed that He Himself needs His servant, that without Murari His pastimes would be poorer. Murari fell to
+the ground and bathed the Lord's feet with tears, and Shachinandana raised him, embraced him and Himself could not hold
+back His tears (20.129–130). Both these stories — of Garuda and of the knife — are recalled also in the
+“Bhakti-ratnakara” (the twelfth wave). <!-- F61 Q29 -->
+
+“The mercy the Lord poured on Murari Gupta is desired even by Lakshmi, Brahma, Ananta and Shankara.” (CB, Madhya
+20.131)
+
+“Such is the glory of Murari Gupta,” Vrindavana Dasa concludes. “What more can I say? His greatness is known to all”
+(20.155). <!-- F62 I5 -->
+
 [^1]: Radha (Rarh) is the region west of the Ganga. One of the biographies, retelling this verse, says that Nityananda
     was born in Radha, while Gangadasa, Murari and Mukunda were born “elsewhere”; the verse itself does not say so.
     Shrihatta is named by Vrindavana Dasa (CB, Adi 2.35) and, following him, by the biographies.
@@ -366,3 +527,7 @@ the same way, and in a song of Krishnadasa about this bathing “Mukunda and Mur
     biographies takes this to mean Murari — the friend of Ramachandra, Hanuman — and writes that it was he who explained
     the dream. But the words that follow (3.158–160) belong to the Lord Himself: “the friend of Rama” here is
     evidently He, inseparable from Balarama-Nityananda.
+[^8]: One of the biographies retells the dream the other way round: Nityananda-Balarama fans Mahaprabhu-Krishna. In the
+    “Chaitanya-bhagavata” (Madhya 20.16) it is Vishvambhara, the younger brother, who does the fanning.
+[^9]: One of the biographies writes that all the devotees wept; according to the “Chaitanya-bhagavata” (Madhya 20.71),
+    Murari's whole family.
