@@ -28,8 +28,8 @@ in any family, and it is not his lineage that exalts him but he who exalts his l
 among the vaidyas in order to bless and glorify them. The names of his father and mother, like the name of his wife,
 the sources have not preserved. <!-- F4 I1 F5 -->
 
-Three sons were born to him — Chaitanya Dasa, Ramadasa, and the youngest, Paramananda, whom the world knows as Kavi Karnapura.
-The “Charitamrita” calls them all fearless devotees of the Lord (Adi 10.62), and Kavi Karnapura in the
+Three sons were born to him — Chaitanya Dasa, Ramadasa, and the youngest, Paramananda, whom the world knows as Kavi
+Karnapura. The “Charitamrita” calls them all fearless devotees of the Lord (Adi 10.62), and Kavi Karnapura in the
 “Gaura-ganoddesha-dipika” reveals who his elder brothers were in Krishna’s pastimes:
 
 “The two famous parrots of Vrindavana, Daksha and Vichakshana, have now been born as my elder brothers, Chaitanya and
@@ -55,15 +55,16 @@ Antya 12.44), and the Lord, as Krishnadasa Kaviraja says, called his whole famil
 writes the same in the introduction to the “Ananda-vrindavana-champu”: Mahaprabhu is the deity of our family, who
 accepted all of Shivananda’s household as His own. <!-- F8 I6 -->
 
-The family’s hereditary guru and priest was Srinatha Pandita (Chakravarti) of Kanchrapara, a disciple of Advaita Acharya — the one
-whom Kavi Karnapura in the “Gaura-ganoddesha-dipika” calls his guru, “a moon in the line of the brahmanas,” and the one
-whose glory is “Krishnadeva, who shines in Kumarahatta” (3, 210–211). Srinatha received Mahaprabhu’s mercy, and of his
-service to Krishna the biographies say that it won the three worlds. Although Kavi Karnapura received the mantra of the
-Name from the Lord Himself, he took initiation from Srinatha according to custom and bows to him in the introduction to
-the “Ananda-vrindavana-champu.” Initiation “according to custom” in no way diminishes the mantra given by the Lord: in
-this Karnapura simply kept the established order, honouring the guru of his family. In the “Chaitanya-chandrodaya” there
-is a scene in which the young Srinatha, “dear to all people,” goes to Puri not with Shivananda but with Advaita: Advaita
-had promised to bring him to the Lord Himself and to win special mercy for him. <!-- F9 -->
+The family’s hereditary guru and priest was Srinatha Pandita (Chakravarti) of Kanchrapara, a disciple of Advaita Acharya
+— the one whom Kavi Karnapura in the “Gaura-ganoddesha-dipika” calls his guru, “a moon in the line of the brahmanas,”
+and the one whose glory is “Krishnadeva, who shines in Kumarahatta” (3, 210–211). Srinatha received Mahaprabhu’s mercy,
+and of his service to Krishna the biographies say that it won the three worlds. Although Kavi Karnapura received the
+mantra of the Name from the Lord Himself, he took initiation from Srinatha according to custom and bows to him in the
+introduction to the “Ananda-vrindavana-champu.” Initiation “according to custom” in no way diminishes the mantra given
+by the Lord: in this Karnapura simply kept the established order, honouring the guru of his family. In the
+“Chaitanya-chandrodaya” there is a scene in which the young Srinatha, “dear to all people,” goes to Puri not with
+Shivananda but with Advaita: Advaita had promised to bring him to the Lord Himself and to win special mercy for him.
+<!-- F9 -->
 
 Shivananda himself worshipped the Lord with the four-syllable mantra of Gaura-Gopala: this was his chosen mantra, his
 secret, and we shall come back to it. <!-- F10 -->
@@ -95,8 +96,8 @@ me to Nadia, he left me at the Lord’s feet; Shivananda is my protector in good
 
 In Shivananda’s house, cooking offerings, Jagadananda learned to cook — and later served Sri Gauranga with this skill
 (8.19). Thus Shivananda brought to the Lord’s feet one of His dearest associates. Neither the “Chaitanya-bhagavata” nor
-the “Charitamrita” speaks of this; we know it only from the “Prema-vivarta.” There too Jagadananda calls Kavi Karnapura one “who lives in my village”
-(8.15): the families were neighbours. <!-- F26 F79 -->
+the “Charitamrita” speaks of this; we know it only from the “Prema-vivarta.” There too Jagadananda calls Kavi Karnapura
+one “who lives in my village” (8.15): the families were neighbours. <!-- F26 F79 -->
 
 ## Poet and Witness
 Shivananda was a poet too. Several Bengali padas about Gaura bear his name, and in the view of the scholar of Bengali
@@ -212,10 +213,10 @@ Shivananda Sena’s son, named Chaitanya Dasa, went joyfully with his parents to
 Thus Shivananda Sena went in bliss to meet the Lord, caring for all the devotees and providing them with food.” (CC,
 Madhya 16.26–27) <!-- F31 Q4 -->
 
-One scene of such an arrival Kavi Karnapura recorded in the “Chaitanya-chandrodaya.” Advaita, seeing the Lord from afar, dances and falls to the ground, and Shivananda tells
-his son, so that all can hear: “Look, look, there He is, there!” — and in verses he describes Gauranga, whose arms are
-like golden bolts, and the embrace of Advaita and the Lord in which no one can tell which is Advaita and which Chaitanya
-(10.7–9). <!-- F21 -->
+One scene of such an arrival Kavi Karnapura recorded in the “Chaitanya-chandrodaya.” Advaita, seeing the Lord from afar,
+dances and falls to the ground, and Shivananda tells his son, so that all can hear: “Look, look, there He is, there!” —
+and in verses he describes Gauranga, whose arms are like golden bolts, and the embrace of Advaita and the Lord in which
+no one can tell which is Advaita and which Chaitanya (10.7–9). <!-- F21 -->
 
 ## Vasudeva Datta’s Sarakhela
 Shivananda’s closest friend and neighbour was Vasudeva Datta, generous beyond measure: whatever he earned he gave away
@@ -322,10 +323,10 @@ court of Kalna was in the Ambika quarter, now Pyari-ganj. <!-- F43 -->
 
 “And to deliver the people of Bengal, Chaitanya entered the heart of Sri Nakula.” (CC, Antya 2.17)
 
-Nakula would laugh and weep, dance and roar like one possessed;[^7] all the signs of ecstasy appeared on his body, his face
-shone with the same light as the Lord’s, and he asked all who came to him to sing the names of Krishna. People flocked to
-him from all over Bengal (Antya 2.18–21). The word “possessed” here is only a comparison: no alien power had seized
-Nakula; the Lord Himself had entered a pure Vaishnava, and this was His *avesha*. <!-- F44 -->
+Nakula would laugh and weep, dance and roar like one possessed;[^7] all the signs of ecstasy appeared on his body, his
+face shone with the same light as the Lord’s, and he asked all who came to him to sing the names of Krishna. People
+flocked to him from all over Bengal (Antya 2.18–21). The word “possessed” here is only a comparison: no alien power had
+seized Nakula; the Lord Himself had entered a pure Vaishnava, and this was His *avesha*. <!-- F44 -->
 
 Hearing of this, Shivananda came to Ambika, but did not at once believe the report. To test Nakula, he stopped at a
 distance and resolved: if he himself calls me and names the mantra with which I worship the Lord, then Sri Chaitanya is
@@ -414,9 +415,8 @@ men after them with a letter to Shivananda:
 “At once he wrote a letter to Shivananda Sena, humbly asking him: ‘Please, return my son to me.’” (CC, Antya 6.180)
 
 The messengers overtook the pilgrims at Jhankra, but Raghunatha was not among them, and they returned empty-handed
-(Antya 6.181–183). And in Puri, when Raghunatha met the Vaishnavas who had come from Bengal, Shivananda told him of this pursuit (Antya
-6.245–247).
-<!-- F70 F71 Q15 -->
+(Antya 6.181–183). And in Puri, when Raghunatha met the Vaishnavas who had come from Bengal, Shivananda told him of this
+pursuit (Antya 6.245–247). <!-- F70 F71 Q15 -->
 
 Four months later, when Shivananda had returned to Gauda, Govardhana sent a man to him again, and Shivananda told him
 how his son was living: the Lord had placed him in the care of Svarupa Damodara; day and night he sang the names of
@@ -456,9 +456,9 @@ faint with hunger, displayed a feigned anger:
 “‘Because Shivananda has not seen to a place to stay, I am now dying of hunger. Since he is not here when he is needed,
 let his three sons die!’” (CC, Antya 12.20)
 
-Shivananda’s wife, hearing this “curse,” began to weep. Returning, Shivananda comforted her: why weep? If our sons must die, so be it
-— we have caused Nityananda inconvenience (Antya 12.21–23). There is no indifference to his children in these words:
-it is complete devotion to Nityananda, for whom he is ready to give up everything. <!-- F57 F58 -->
+Shivananda’s wife, hearing this “curse,” began to weep. Returning, Shivananda comforted her: why weep? If our sons must
+die, so be it — we have caused Nityananda inconvenience (Antya 12.21–23). There is no indifference to his children in
+these words: it is complete devotion to Nityananda, for whom he is ready to give up everything. <!-- F57 F58 -->
 
 “Having said these words, Shivananda went without delay to Nityananda. But Nityananda rose and kicked him.” (CC, Antya
 12.24)
@@ -583,11 +583,10 @@ pastimes of Gaurahari: he led His devotees to Him, year after year, across the r
 
 ## Significance
 The life of Shivananda Sena is the life of a householder given wholly to the Lord. The “Vaishnava-vandana,” in its
-various versions, glorifies him as one “whose body is prema, whose caste, life and wealth are the two feet of Gora,” “who
-has no other thought than the lotus feet of Chaitanya.” His wealth, house, family and
-strength served one purpose — that the devotees of Gauda might see their Lord. He paid for all, fed all, found lodging
-for all, and did not leave even a stray dog without care; and the Lord, captivated by his love, came to him again and
-again. <!-- I2 I5 F77 -->
+various versions, glorifies him as one “whose body is prema, whose caste, life and wealth are the two feet of Gora,”
+and as one “who has no other thought than the lotus feet of Chaitanya.” His wealth, house, family and strength served one purpose —
+that the devotees of Gauda might see their Lord. He paid for all, fed all, found lodging for all, and did not leave even
+a stray dog without care; and the Lord, captivated by his love, came to him again and again. <!-- I2 I5 F77 -->
 
 The Lord’s mercy came to him in all its kinds — face to face, through Nakula and through Nrisimhananda; and Nityananda’s
 mercy came in the form in which only a true servant recognizes it: under the guise of anger. And the Lord so loved him
