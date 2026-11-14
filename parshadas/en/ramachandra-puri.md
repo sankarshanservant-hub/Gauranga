@@ -2,7 +2,7 @@
 *Рамачандра Пури · @ramachandra-puri*
 
 ## A Disciple of Madhavendra Puri
-Ramachandra Puri was a sannyasi of the Puri order and an initiated disciple of Srila Madhavendra Puri. His name
+A sannyasi of the Puri order, Ramachandra Puri was an initiated disciple of Srila Madhavendra Puri. His name
 entered the “Chaitanya-charitamrita” not through the glory of service but as a lesson. Krishnadasa Kaviraja Gosvami
 tells of him in the eighth chapter of the Antya-lila: this disciple disregarded his guru, lost his mercy, and began
 to revile everyone around him, and in the end Mahaprabhu Himself. That is why the biographies say that his life
@@ -12,7 +12,7 @@ The “Charitamrita” calls him Ramachandra Puri, and at times simply “Puri,�
 Dasa Thakura in the “Chaitanya-bhagavata” and Kavi Karnapura in the “Gaura-ganoddesha-dipika” likewise call him
 Ramachandra Puri. The biographies name him Sri Ramachandra Puri, Ramachandra Puri Gosani or Puri Gosani. <!-- F1 -->
 
-Nothing is known of his life before sannyasa: the sources name neither his parents nor the place of his birth. The
+Nothing is known of his life before sannyasa: the sources name neither his parents nor his birthplace. The
 years, days and places of his appearance and disappearance are also unknown, nor are they found in the Vaishnava
 calendar of the Sri Chaitanya Saraswat Math. We know only that he was alive when Mahaprabhu came to Varanasi on His
 way to Vrindavana, and later, when the Lord lived in Nilachala. <!-- F7 -->
@@ -21,9 +21,11 @@ He received initiation from Madhavendra Puri: Kaviraja plainly calls him the gre
 But his discipleship was outward only. One of the biographies calls him a sannyasi who merely “considered himself a
 disciple” of Srila Madhavendra, and Srila Bhaktisiddhanta Sarasvati Thakura, in his “Gaudiya-bhashya” on the
 “Chaitanya-bhagavata,” calls him “a pretended disciple of Madhavendra Puri with a strong leaning towards mayavada.”
-Another biography adds that, although he had such a guru, he kept close company with those who follow the path of dry
-knowledge and was drawn to doctrines opposed to pure bhakti. Kaviraja himself speaks of him as a “dry knower of
-Brahman” with no relationship with Krishna (Antya 8.25). <!-- F3 -->
+The first of these biographies also writes that he “dared to instruct” his guru and committed the offence of
+disregarding the guru, and calls him “an impersonalist (*nirvishesha-vadi*), an offender against the guru,” whom
+Madhavendra disregarded. Another biography adds that, although he had such a guru, he kept close company with those who follow the path of dry
+knowledge, and inclined to doctrines opposed to pure bhakti. Kaviraja himself speaks of him as a “dry knower of
+Brahman” with no relationship with Krishna (Antya 8.25). <!-- F3 F45 -->
 
 Outwardly, however, he was a sannyasi of a recognised order — according to one of the biographies, of one of the ten
 orders that trace themselves to Shankara — and lived the life of a wandering renunciant: the “Charitamrita” calls him
@@ -33,8 +35,7 @@ keeping maryada — the proper order of honour — showed him that respect. <!--
 
 ## At the Bedside of His Departing Guru
 What his discipleship came to, Kaviraja shows in the last days of Madhavendra Puri. The great Puri, the first sprout
-of the tree of bhakti, was leaving this world chanting the names of Krishna and weeping that he had not reached
-Mathura. This was not the worldly grief of a dying man. Madhavendra was in separation from Krishna — in the mood of
+of the tree of bhakti, was leaving this world chanting the names of Krishna and weeping that Mathura was still beyond his reach. This was not the worldly grief of a dying man. Madhavendra was in separation from Krishna — in the mood of
 Srimati Radhika when Krishna left Her for Mathura — in the highest, transcendental separation, vipralambha. Both his
 disciples were with him, Ishvara Puri and Ramachandra Puri.[^1]
 
@@ -51,7 +52,8 @@ and hurried to make him realise the impersonal Brahman. Here lies his whole erro
 Krishna — the highest treasure of a devotee — he took for worldly sorrow, and as its cure he offered knowledge of a
 Brahman in which there is no Krishna. <!-- F9 F11 Q15 -->
 
-Madhavendra answered him in anger:
+Madhavendra answered him in anger — the anger of a devotee, not a worldly grievance: he was weeping for Krishna,
+and he was being offered, in place of Krishna, the impersonal Brahman.
 
 “Hearing this, Madhavendra Puri rebuked him in great anger: ‘Away, away, you sinner! I have not obtained Krishna’s
 mercy, I have not reached Mathura; I am dying of my own grief — and this one has come to burn me still more. Do not
@@ -59,8 +61,8 @@ show me your face; go wherever you please. If I die looking at you, an evil end 
 Krishna, I am dying of my own sorrow — and this vile fool comes to teach me about “Brahman”!’” (CC, Antya
 8.20–23)[^2] <!-- F10 -->
 
-Seeing his disciple’s folly and his disregard for the guru, Madhavendra, in the words of Srila Bhaktisiddhanta, ceased
-to wish him well, rejected him and drove him away. And Kaviraja tells what was born of this:
+Perceiving the foolishness of his disciple and his contempt for the guru, Madhavendra, in the words of Srila
+Bhaktisiddhanta, no longer desired his good, cast him off and sent him away. And Kaviraja tells what was born of this:
 
 “Because Sri Madhavendrapada disregarded him, from that offence a ‘desire’ was born in him. A dry knower of Brahman,
 without relationship with Krishna, he reviles all people and is set on reviling.” (CC, Antya 8.24–25)[^3]
@@ -71,9 +73,9 @@ the dry Brahman there is no relationship with Krishna, and a heart without that 
 seeking out the faults of others. So the biographies say: from offence at the guru’s feet come fault-finding,
 reviling of others and a taste for dry knowledge. <!-- F12 I7 -->
 
-Quite otherwise did another disciple serve the guru — Ishvara Puri, the future guru of Mahaprabhu. With his own hands
-he cleaned away Madhavendra’s stool and urine, constantly chanted the name of Krishna to him and told him of Krishna’s
-pastimes, and Madhavendra embraced him and blessed him: “May you obtain the treasure of love for Krishna” (Antya
+Quite otherwise did another disciple serve the guru — Ishvara Puri, the future guru of Mahaprabhu. He personally
+cleaned away Madhavendra’s stool and urine, constantly chanted the name of Krishna to him and told him of Krishna’s
+pastimes, and Madhavendra, embracing him, gave the blessing: “May you obtain the treasure of love for Krishna” (Antya
 8.26–28). Kaviraja sums it up:
 
 “Thus Ishvara Puri became an ocean of prema, and Ramachandra Puri a reviler of all. These two are witnesses to the
@@ -102,27 +104,27 @@ the only mention of Ramachandra Puri in the “Chaitanya-bhagavata.” <!-- F43 
 
 Srila Bhaktisiddhanta, in his “Gaudiya-bhashya” on this verse, explains: in fact Sri Gaurasundara lived in Varanasi
 in the house of Chandrashekhara, a vaidya by caste whom people called a shudra. Vrindavana Dasa knew that the Lord
-“hid” in the matha of Ramachandra Puri — and Ramachandra Puri was a pretended disciple of Madhavendra Puri with a
-strong leaning towards mayavada. The Lord openly announced that He was living in his matha, while He Himself lived
-elsewhere, with the devotees of Krishna. Ramachandra Puri was a sannyasi of a recognised order,[^5] and a sannyasi’s
-staying in his matha gave the outside world no cause for reproach; in the words of one of the biographies, the Lord
+“hid” in the matha of Ramachandra Puri — and Ramachandra Puri was a pretended disciple of Madhavendra Puri, strongly
+inclined towards mayavada. The Lord openly announced that He was living in his matha, while He Himself lived
+elsewhere, with the devotees of Krishna. Since Ramachandra Puri belonged to a recognised order of sannyasa, for a sannyasi to
+stay in his matha gave outsiders no cause for reproach; in the words of one of the biographies, the Lord
 thus avoided the censure of non-devotees. The maryada of sannyasa was kept outwardly, while the Lord’s heart was with
 His devotees. <!-- F44 Q15 -->
 
 ## In Nilachala
-Years passed. Mahaprabhu was living in Nilachala with His devotees, immersed in the waves of love for Krishna, when
+Years passed. Mahaprabhu was living in Nilachala among His devotees, absorbed in the waves of Krishna-prema, when
 Ramachandra Puri came there to see Him and Paramananda Puri (CC, Antya 8.4–5). Both received him as a disciple of
 Madhavendra:
 
 “Paramananda Puri bowed at the feet of Ramachandra Puri, and he embraced him firmly. Mahaprabhu too offered him
 obeisances, and he embraced Him as well, remembering Krishna. The three of them spent some time in talk about God;
-then Jagadananda Pandita invited him.” (CC, Antya 8.6–8)[^6] <!-- F15 F16 F18 -->
+then Jagadananda Pandita invited him.” (CC, Antya 8.6–8)[^5] <!-- F15 F16 F18 -->
 
 One of the biographies explains here the custom of sannyasis: they answer an obeisance with the words “*om namo
 bhagavate narayanaya*” and remember Krishna, for it does not befit a sannyasi either to bless a living being or to
 bow to one. <!-- F17 -->
 
-Jagadananda brought Jagannatha’s prasada for his guest. Ramachandra Puri ate his fill — deliberately, as Kaviraja
+Jagadananda brought Jagannatha’s prasada to feed his guest. Ramachandra Puri ate his fill — deliberately, as Kaviraja
 remarks, so as to have something to censure afterwards (Antya 8.9). When he had eaten, he told Jagadananda to finish the
 remnants, sat him down himself, insistently served him himself and again and again pressed him to eat more
 (8.10–12). And when Jagadananda had at last washed his hands, the sannyasi began to reproach him:
@@ -136,12 +138,12 @@ habit:
 
 “Such was Ramachandra Puri’s nature: first to feed someone to the full, and then to censure him.” (CC, Antya 8.15)
 
-Later Paramananda Puri would say the same: “You must love to eat your fill — where do you get so much money?” — so,
+Later Paramananda Puri would say the same: “You eat so much food — how much wealth do you have?” — so,
 by his account, Ramachandra Puri used to rebuke those whom he himself had just overfed (8.71–73). <!-- F20 -->
 
 One of the biographies sees in this story a deliberate contrast. Before us is Jagadananda Pandita, whose whole life
-is sincere love for the Lord, and beside him the hypocrisy of Ramachandra Puri: he was Madhavendra’s disciple only in
-form, had no inclination to serve, and for his insincerity and show of piety in the end lost the mercy of his guru.
+is sincere love for the Lord, and beside him Ramachandra Puri’s hypocrisy: his discipleship to Madhavendra was a form
+only; he had no inclination to serve, and for his insincerity and show of piety in the end lost the mercy of his guru.
 <!-- F21 -->
 
 ## Fault-Finding
@@ -152,7 +154,7 @@ Antya 8.36–37); according to one of the biographies, he especially rebuked the
 
 In Nilachala there was at that time the following custom. Every day the devotees invited the Lord to their homes,
 and what was offered for one invitation sufficed for three — Mahaprabhu, Kashishvara and Govinda. One who did not
-cook for the Lord himself but wished to pay for His meal gave four panas of cowries, that is, three hundred and
+cook for the Lord himself but wanted to bear the cost of His meal paid four panas of cowries, that is, three hundred and
 twenty shells, and with them Jagannatha’s prasada was bought (8.38–39). <!-- F23 -->
 
 In the same way he set about finding out about the Lord — His way of life, His rules, how much He ate
@@ -161,8 +163,8 @@ and slept:
 “Seeking only faults, he could not touch the Lord’s virtues; he searched for a fault and found none anywhere. Then he
 invented a charge: ‘How can sannyasis who eat sweets control their senses?’” (CC, Antya 8.41–42)
 
-He did not value the Lord’s glory and saw in Him an ordinary man. He reviled Him before everyone — and yet came to Him
-every day (8.43). <!-- F24 -->
+One of the biographies adds that he did not value the Lord’s glory and saw in Him an ordinary man. He reviled Him before everyone — and yet still came to Him
+daily (8.43). <!-- F24 -->
 
 But the Lord answered him with reverence:
 
@@ -173,7 +175,7 @@ his business. The Lord knew of all the reviling he did, yet He received him with
 The Bengali says *guru-buddhye*: the Lord saw a guru in him. One of the biographies explains that He always bowed to
 him as His guru’s godbrother. <!-- F25 -->
 
-One morning Ramachandra Puri came to the Lord’s dwelling and saw ants there:
+Early one day Ramachandra Puri arrived at the Lord’s dwelling and saw ants there:
 
 “‘Last night there was something of sugar-cane here, and so the ants are crawling about. Alas! Such sensual craving in
 renounced sannyasis!’ Saying this, he got up and left.” (CC, Antya 8.47)
@@ -181,8 +183,8 @@ renounced sannyasis!’ Saying this, he got up and left.” (CC, Antya 8.47)
 Kaviraja gives these words in Sanskrit prose; the “sweet” in the original is *aikshavam*, something made from sugar
 cane — molasses. Before, the Lord had heard of his reviling from others; now He heard it Himself (8.48). And the
 charge was invented: ants crawl everywhere, and Ramachandra Puri raised the matter only in order to accuse (8.49). One
-of the biographies says: finding no fault in the all-auspicious Gaurasundara, he saw a line of ants in His room for
-bhajana, suspected that the Lord had been eating sweets, slandered Him — and fell, as every reviler of the guru and
+of the biographies says: finding no fault in the all-auspicious Gaurasundara, he noticed a file of ants in the room where He
+did bhajana, suspected that the Lord had been eating sweets, slandered Him — and fell, as every reviler of the guru and
 the Vaishnavas falls. <!-- F26 -->
 
 ## “Out of Fear of Ramachandra Puri”
@@ -199,7 +201,7 @@ Me, you will not see Me here.’” (CC, Antya 8.50–52)
 
 The word “fear” is the word of the “Charitamrita” itself. The opening verse says *ramachandra-puri-bhayat*, “out of
 fear of Ramachandra Puri”; verse 8.50 says *sankocha-bhaya*, “hesitation and fear”; and Kaviraja recalls the “fear of
-Ramachandra Puri” in other places of the book as well (Madhya 1.266, Antya 10.156, 20.115).[^7] The word must be
+Ramachandra Puri” in other places of the book as well (Madhya 1.266, Antya 10.156, 20.115).[^6] The word must be
 rendered exactly — and understood rightly. The Lord is the Master of maya, and fear has no power over Him. One of the
 biographies says so plainly: fear and hesitation arose in Mahaprabhu, the Teacher of the world who had taken the role
 of an acharya. Nor is it by chance that the verse specifies that the Lord reduced His alms *laukikaharatah* — in His
@@ -216,18 +218,18 @@ heads. All of them reviled Ramachandra Puri: ‘This sinner has come to take awa
 
 That same day a brahmana invited the Lord. Govinda took only one *chauthi* — a quarter-pot of rice — and vegetables
 for five gandas, and the brahmana in his grief beat his head. The Lord ate half of the rice and vegetables and Govinda
-received the other half; so both of them now ate half. Seeing this, the devotees gave up food and drink, and the Lord
+received the other half; so both of them now ate half. At this the devotees abandoned food and drink, and the Lord
 told Govinda and Kashishvara, considering them His own, to take their meals elsewhere so as not to go hungry (CC,
 Antya 8.55–59). <!-- F29 -->
 
 Kaviraja returns to these days more than once. In the brief review of the pastimes at the beginning of the Madhya-lila he says that the Lord reduced His
 alms out of fear of Ramachandra Puri, and then, seeing the sorrow of the Vaishnavas, kept half of what He had taken
 before (Madhya 1.266); in the review of the Antya-lila, that the eighth chapter describes the coming of Ramachandra
-Puri and how out of fear of him the Lord reduced His alms (Antya 20.115). And telling of the devotees who fed the
-Lord, he recalls:
+Puri and how out of fear of him the Lord reduced His alms (Antya 20.115). To Madhya 1.266 Srila Bhaktisiddhanta in his “Anubhashya” gives the heading: “The hostile Ramachandra Puri
+rebukes the Lord, and the sorrow of the devotees.” And telling of the devotees who fed the Lord, Kaviraja recalls:
 
 “At first the fixed sum was four panas of cowries; out of fear of Ramachandra Puri the price of an invitation was
-lowered.” (CC, Antya 10.156) <!-- F41 -->
+lowered.” (CC, Antya 10.156) <!-- F41 F46 -->
 
 ## A Lesson on the Dharma of Sannyasa
 So several bitter days passed. Hearing of what had happened, Ramachandra Puri came to the Lord to teach Him the dharma
@@ -253,13 +255,13 @@ This humility too is a lesson to the world: the Lord, the Teacher of all teacher
 who has come to lecture Him.
 
 “Hearing this, Ramachandra Puri got up and went away. And Gosani heard that the devotees too were eating only half.”
-(CC, Antya 8.68)[^8] <!-- F33 -->
+(CC, Antya 8.68)[^7] <!-- F33 -->
 
 ## Paramananda Puri’s Plea
 The next day Paramananda Puri, together with all the devotees, humbly approached the Lord (CC, Antya 8.69):
 
 “‘Ramachandra Puri is a reviler by nature. What will be gained by giving up food because of his words?’” (CC, Antya
-8.70)[^9]
+8.70)[^8]
 
 His habit, said Puri, is first to overfeed and then to censure; he keeps constant watch over who eats how much and
 what each one does, and does exactly what the scriptures forbid (8.71–75). For the “Bhagavata” teaches:
@@ -301,7 +303,7 @@ But for His dearest ones there was no such rule:
 
 “When Gadadhara Pandita, Bhagavan Acharya or Sarvabhauma Bhattacharya invited Him, even on a day when someone else had
 invited Him, He accepted their invitation; He ate at their homes as they wished, for He was subject to the wishes of
-His intimate companions.” (CC, Antya 8.88–89)[^10] <!-- F38 -->
+His intimate companions.” (CC, Antya 8.88–89)[^9] <!-- F38 -->
 
 ## “Now Almost a Servant, Now a Blade of Grass”
 How, then, did the Lord treat Ramachandra Puri? Kaviraja answers:
@@ -309,7 +311,7 @@ How, then, did the Lord treat Ramachandra Puri? Kaviraja answers:
 “Sometimes He behaved according to worldly custom, like an ordinary man; sometimes, independent, He displayed His
 majesty. Sometimes He was almost a servant to Ramachandra Puri; sometimes He paid him no regard, looking on him as a
 blade of grass. The character of the Lord is beyond the reach of the intellect; whatever He does at any time is all
-charming.” (CC, Antya 8.91–93)[^11]
+charming.” (CC, Antya 8.91–93)[^10]
 
 The Lord was now almost his servant, now He took no more account of him than of a blade of grass. The reverence that the
 Lord showed by worldly custom to a sannyasi and a disciple of Madhavendra was His lila and a lesson in maryada, not a
@@ -324,7 +326,7 @@ a heavy stone had been lifted from their heads. Once more the Lord freely accept
 before, and everyone freely partook of prasada.” (CC, Antya 8.94–96)
 
 One of the biographies says that he left the shelter of the Lord, while the devotees, whose life is Gaura, gave up
-the worldly rule of dry renunciation and again served the Lord with their whole being. The sources tell nothing more
+the worldly rule of dry renunciation and once more served the Lord with their whole being. The sources tell nothing more
 of him: where he went and when he left this world is unknown. <!-- F40 -->
 
 ## The Lesson
@@ -334,7 +336,7 @@ Kaviraja closes his account of him thus:
 8.97)
 
 And he adds: although the Lord, seeing a guru in him, did not take his offence to heart, through its fruit He taught
-the people (8.98).[^12] The biographies unfold this lesson: disregard of the guru breeds in the jiva enmity towards
+the people (8.98).[^11] The biographies unfold this lesson: disregard of the guru breeds in the jiva enmity towards
 Vishnu and godlessness, and step by step the offence reaches the Lord Himself; Mahaprabhu showed this to the world
 “through the conduct of the offender Ramachandra.” <!-- F42 Q10 -->
 
@@ -352,13 +354,13 @@ undertakes to correct and instruct the guru and the Vaishnavas. But the Lord doe
 maryada.’” (CC, Antya 4.166) <!-- I2 Q12 -->
 
 Most ruinous of all for bhakti is the seeking out of others’ faults, and above all the reviling of Vishnu and the
-Vaishnavas. A sadhaka should look at his own failings — then he will advance in bhajana. The “Charitamrita” warns:
+Vaishnavas. A sadhaka should attend to his own failings — then he will advance in bhajana. The “Charitamrita” warns:
 
 “But if an offence against a Vaishnava arises, it is like a mad elephant: it uproots or tears the creeper, and its
 leaves wither and dry up.” (CC, Madhya 19.156) <!-- I6 Q11 -->
 
-The guru’s godbrother is bound to the guru and is therefore worthy of honour like the guru. Even if his words seem
-wrong, one may not treat him rudely or reproach him; one must keep the outward etiquette and not address him with
+The guru’s godbrother is bound to the guru and is therefore as worthy of honour as the guru. Though his words may
+seem wrong, one may not treat him rudely or reproach him; one must keep the outward etiquette and not address him with
 open criticism. So Mahaprabhu taught by His conduct towards Ramachandra Puri. <!-- I4 -->
 
 And to grow in bhakti one must associate with Vaishnavas of like mind (*samashaya*) and serve them: the inclination
@@ -378,7 +380,7 @@ Who Ramachandra Puri was before, Kavi Karnapura tells us:
 
 “He who was formerly Vibhishana is considered to be Ramachandra Puri; therefore Gaurahari said: ‘The cause of this is
 not Rama.’ For the sake of the work, Jatila, Radhika’s mother-in-law, entered into him; and therefore Mahaprabhu then
-reduced His alms and so on.” (“Gaura-ganoddesha-dipika” 92)[^13] <!-- F5 Q1 -->
+reduced His alms and so on.” (“Gaura-ganoddesha-dipika” 92)[^12] <!-- F5 Q1 -->
 
 Vibhishana is Ravana’s brother and a great devotee of Lord Ramachandra. And into Ramachandra Puri, Karnapura says,
 “for the sake of the work” (*karyatah*) Jatila, the mother-in-law of Srimati Radhika, entered — and so came about the
@@ -416,26 +418,23 @@ his own deeds taught the world where offence against the guru and the Vaishnavas
     impersonalist philosopher,” the Bengali has *shushka-brahma-jnani*, “a dry knower of Brahman.”
 [^4]: One of the biographies labels this verse “Chaitanya-charitamrita, Madhya 19.105”; it is a verse of the
     “Chaitanya-bhagavata,” and the biography itself names the “Chaitanya-bhagavata” here.
-[^5]: Our Russian translation of the “Gaudiya-bhashya” has “a fanatical sannyasi”; according to the Bengali text as the
-    biographies give it, *sampradayika sannyasi*, a sannyasi of a recognised order (according to one of them, “of one
-    of the ten orders of Shankara”).
-[^6]: According to two biographies, Jagadananda invited all three — the Lord, Paramananda Puri and Ramachandra Puri;
+[^5]: According to two biographies, Jagadananda invited all three — the Lord, Paramananda Puri and Ramachandra Puri;
     according to the “Charitamrita” (Antya 8.8), he invited only “this sannyasi.”
-[^7]: Our Russian translation has here “a certain anxiety and doubt” (8.50), “because of the reproaches” (Antya
+[^6]: Our Russian translation has here “a certain anxiety and doubt” (8.50), “because of the reproaches” (Antya
     10.156), “apprehending his reproaches” (Antya 20.115), “the reproaches… compelled” (Madhya 1.266); in the Bengali
     text all these verses have the word *bhaya*, “fear.”
-[^8]: One of the biographies adds to the Lord’s answer (8.67) the words “I shall try to follow your instructions,”
+[^7]: One of the biographies adds to the Lord’s answer (8.67) the words “I shall try to follow your instructions,”
     which are not in the “Charitamrita,” and writes that it was Paramananda Puri who learned of the devotees’
     half-fasting; according to the “Charitamrita” (Antya 8.68), it was Ramachandra Puri who learned of it.
-[^9]: Our Russian translation of this verse begins “My godbrother, Ramachandra Puri…”; the word “godbrother” is not in
+[^8]: Our Russian translation of this verse begins “My godbrother, Ramachandra Puri…”; the word “godbrother” is not in
     the Bengali text — it is the translator’s addition.
-[^10]: According to one of the biographies, at the homes of these three the Lord ate as much as was served, without
-    any reduction; according to another, if they invited Him on a day when He had already been invited by someone
-    else, He cancelled the earlier invitation. The second is closer to the “Charitamrita.”
-[^11]: Our Russian translation has “as if he were some weed”; the Bengali has *trina-praya*, “like a blade of grass”;
+[^9]: According to one of the biographies, at the homes of these three the Lord ate as much as was served, without
+    any reduction; according to another, if they invited Him on a day when someone else had already
+    invited Him, He cancelled the earlier invitation. The second is closer to the “Charitamrita.”
+[^10]: Our Russian translation has “as if he were some weed”; the Bengali has *trina-praya*, “like a blade of grass”;
     and for *bhritya-praya*, “almost a servant,” it has “He served him and showed him respect.”
-[^12]: In our Russian translation it is Ramachandra Puri himself who is the teacher here: “he showed everyone by his
+[^11]: In our Russian translation it is Ramachandra Puri himself who is the teacher here: “he showed everyone by his
     own example what any offence against saints and the guru leads to”; in the Bengali the subject is the Lord:
     “through its fruit [He] taught the people.”
-[^13]: One of the biographies, quoting this verse, omits the words “therefore Gaurahari said: ‘The cause of this is not
+[^12]: One of the biographies, quoting this verse, omits the words “therefore Gaurahari said: ‘The cause of this is not
     Rama.’”
