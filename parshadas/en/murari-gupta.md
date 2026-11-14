@@ -692,6 +692,91 @@ soul of the disease of worldliness” (CB, Adi 2.35) and “a mighty doctor who 
 healing he gives is release from the disease of worldly existence, forgetfulness of Krishna. It is no accident that the
 Lord too, when He wished to show His love for him, came to him as a patient comes to a physician. <!-- F63 Q14 I6 F9 -->
 
+## In Puri
+When the news reached Bengal that the Lord had returned to Puri from His journey through the south, Murari was among
+the devotees who rejoiced beyond words (CC, Madhya 10.81–84). Soon the devotees of Gauda, headed by Advaita, went to
+Nilachala for the first time, and Vrindavana Dasa, enumerating them, says: “Sri Murari Gupta came too, the mighty
+doctor…” (CB, Antya 8.33); Murari himself names among those going “Raghava Pandita and Murari, the lion among
+physicians” (“Kadacha” 4.17.11), and Karnapura writes that Shivananda Sena came together with Murari Gupta
+(“Chaitanya-charitamrita-mahakavya” 13.127–136). King Prataparudra, watching from the palace roof as the Vaishnavas
+approached, asked who they were, and Gopinatha Acharya named them:
+
+“And here is Murari Gupta, Pandita Narayana, and Haridasa Thakura, who is able to deliver the whole world.” (CC, Madhya
+11.86) <!-- F81 F82 -->
+
+But when the devotees came to the Lord, Murari was not among them:
+
+“Murari Gupta did not meet Sri Chaitanya at first, but offered Him prostrated obeisances from the street. Not seeing
+Murari, Sri Chaitanya asked about him, and many at once went to look for him. So Murari, in humility and submission,
+appeared before Mahaprabhu holding two bunches of dry grass between his teeth. Seeing Murari, Sri Chaitanya went to meet
+him, but Murari drew back, saying: ‘O Prabhu! Do not touch me! I am full of sin and unworthy for You to touch my body.’
+Sri Chaitanya replied: ‘Murari! Do not display such great humility, for it pierces My heart.’ With these words the Lord
+embraced him, seated him beside Himself and began personally to clean his body.” (CC, Madhya 11.152–158)
+
+A straw between the teeth is a sign of utmost humility. Karnapura relates that Murari in his humility stayed behind at
+the pond, and when he came with the grass between his teeth, the Lord bathed him with His tears
+(“Chaitanya-charitamrita-mahakavya” 14.67–114). <!-- F82 I1 -->
+
+At the Ratha-yatra Murari sang in the kirtan Mahaprabhu led before Jagannatha's chariot:
+
+“The third party consisted of Vasudeva, Gopinatha and Murari, and Mukunda became the leader of the sankirtana. Its
+singers were Shrikanta and Vallabha Sena, and Haridasa Thakura its dancer.” (CC, Madhya 13.40–41)
+
+And in the water-sports in the Indradyumna lake “Vidyanidhi and Svarupa Damodara met in a water battle, and so did
+Murari Gupta and Vasudeva Datta” (CC, Madhya 14.80); Vrindavana Dasa writes that in the waters of Narendra Mukunda and
+Murari fought each other (CB, Antya 8). <!-- F83 -->
+
+From then on Murari went to Puri every year with the other devotees and spent about four months with the Lord:
+
+“Other devotees, headed by Advaita, Nityananda, Vidyanidhi, Mukunda, Vasudeva, Murari and Shrivasa, came to Sri
+Chaitanya every year and stayed in Nilachala for four months. With them Sri Chaitanya enjoyed many of His beautiful
+pastimes.” (CC, Madhya 1.255–256) <!-- F81 Q18 -->
+
+In the third year “Acharyaratna, Vidyanidhi, Shrivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and Govinda with
+his two brothers set out with their travelling bags” (CC, Madhya 16.16); Krishnadasa Kaviraja names him also among
+those going to Puri in later years (Antya 10.9–11; Antya 12). <!-- F84 Q26 -->
+
+Every devotee tried to feed the Lord. Murari, together with Vasudeva Datta and Buddhimanta Khan, sent Him many dishes
+(CC, Antya 10.121), and when he invited the Lord to his own lodging, he, like the other devotees who were not brahmanas
+by birth, fed Him with prasada bought at Jagannatha's temple (Antya 10.140)[^12]. <!-- F85 F9 F14 -->
+
+When Sanatana Gosvami came to Puri, the Lord during the four months of the rains introduced him to His intimate
+associates — Advaita, Nityananda, Shrivasa, Vakreshvara, Vasudeva Datta, Murari Gupta and others (CC, Antya 4.108–110).
+<!-- F86 -->
+
+## Ramakeli and Shantipura
+When the Lord resolved to go to Vrindavana by way of Bengal, Murari was with Him in Ramakeli. There Rupa and Sanatana
+came to the Lord for the first time:
+
+“Present there were such intimate associates of the Lord as Sri Nityananda, Haridasa, Shrivasa, Gadadhara, Mukunda,
+Jagadananda, Murari and Vakreshvara. Rupa and Sanatana humbly bowed at their feet. And all the devotees said: ‘You are
+immeasurably fortunate, for you have taken shelter at the feet of Sri Chaitanya Mahaprabhu!’” (CC, Madhya 1.219–220)
+
+At the Lord's bidding the brothers touched the feet of His associates. Murari himself in his poem also tells of
+Sanatana in Ramakeli (“Kadacha” 3.18). <!-- F93 Q23 -->
+
+Reaching Kanai Natashala, the Lord turned back and came to Shantipura, to Advaita's house. The news reached Shachi:
+
+“‘Sri Gaurasundara has come to Shantipura. Mother, go there quickly to see Him.’ <…> Gangadasa Pandita, the Lord's dear
+associate, at once set out together with Shachimata. They were joined by other devotees headed by Sri Murari Gupta.”
+(CB, Antya 4.234–238)
+
+Haridasa, Murari and the other devotees rejoiced in the happiness of mother Shachi at seeing her son (4.273–274). And
+there, in Advaita's house, the Lord, seeing Murari, smiled and said: “O Gupta, I have heard that you have composed eight
+verses describing Lord Rama. Please recite them” (4.316–317). In ecstasy Murari recited and explained his “Ramashtaka”:
+Rama sits on the throne with Janaki, before Him is Lakshmana — Ananta Shesha Himself, Bharata and Shatrughna fan Him
+with chamaras; He befriended the chandala Guha, slew Vali and gave the kingdom to Sugriva, built a bridge across the
+ocean, placed Vibhishana on the throne of Lanka, and by His mercy all the inhabitants of Ayodhya went to Vaikuntha in
+their own bodies (4.319–339). <!-- F80 -->
+
+“Hearing these prayers of Murari, Sri Gaurasundara was satisfied and placed His lotus feet on his head: ‘Listen,
+Gupta: by My mercy you will easily become a servant of Lord Rama in every birth. If anyone takes shelter of you even
+for a moment, he will surely attain the lotus feet of Rama.’ Hearing what blessing Lord Chaitanya had given Murari
+Gupta, all cried out, ‘Jaya! Jaya!’” (CB, Antya 4.341–344)[^13]
+
+Jayananda adds that in Advaita's house mother Shachi showed her mercy to Murari Gupta, and at the festival in memory of
+Madhavendra Puri Murari was the keeper of the stores. <!-- F80 -->
+
 [^1]: Radha (Rarh) is the region west of the Ganga. One of the biographies, retelling this verse, says that Nityananda
     was born in Radha, while Gangadasa, Murari and Mukunda were born “elsewhere”; the verse itself does not say so.
     Shrihatta is named by Vrindavana Dasa (CB, Adi 2.35) and, following him, by the biographies.
@@ -723,3 +808,9 @@ Lord too, when He wished to show His love for him, came to him as a patient come
     Navadvipa, before the sannyasa. According to the “Chaitanya-bhagavata” (Antya 4.315–344), the Lord had Murari
     recite the eight verses on Rama and blessed him to be Rama's servant in every birth after the sannyasa, in
     Shantipura (see below). Perhaps Murari recited these verses before the Lord more than once.
+[^12]: One of the biographies writes that in Puri Murari and his wife fed the Lord with dishes they cooked themselves;
+    the “Chaitanya-charitamrita” does not say this: according to it he sent the Lord dishes (Antya 10.121) and fed Him
+    with purchased prasada (10.140). Of Murari's wife in Puri Krishnadasa Kaviraja says nothing.
+[^13]: One of the biographies places Murari's coming to Shantipura with Shachi and the recitation of the verses on Rama
+    in the first days after the sannyasa. According to the “Chaitanya-bhagavata” (Antya 4.233–344), this was when the
+    Lord came to Shantipura from Puri (c. 1514), and Shachi was brought by Gangadasa, with Murari going along with them.
