@@ -12672,6 +12672,215 @@
   "note": "Камень Говардханы — как Гиридхари; ныне в храме Гокулананды на Радха-кунде (T; B 972)."
  },
  {
+  "from": "@ramachandra-puri",
+  "type": "guru",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F3",
+   "F8",
+   "F9",
+   "F10",
+   "F11",
+   "F12",
+   "F13",
+   "F14"
+  ],
+  "events": [
+   "ev-madhavendra-puri-departure"
+  ],
+  "note": "Посвящённый ученик; при уходе гуру стал учить его «Брахману», и Мадхавендра в гневе отверг его (ЧЧ Антья 8.16–25; = @madhavendra-puri F141–F147)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@ishvara-puri",
+  "facts": [
+   "F13"
+  ],
+  "events": [
+   "ev-madhavendra-puri-departure"
+  ],
+  "note": "Духовный брат; Ишвара Пури служил гуру и стал «океаном премы», Рамачандра — «хулителем всех»: «свидетели милости и немилости великой души» (ЧЧ Антья 8.26–30; = @ishvara-puri F21)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F15",
+   "F16",
+   "F24",
+   "F25",
+   "F26",
+   "F27",
+   "F30",
+   "F31",
+   "F32",
+   "F35",
+   "F36",
+   "F39",
+   "F42",
+   "F43",
+   "F44",
+   "I9",
+   "I10"
+  ],
+  "events": [
+   "ev-ramachandra-puri-criticism",
+   "ev-kashi-tapana-mishra"
+  ],
+  "note": "Господь из гуру-буддхи кланялся ему и назвал Себя его учеником, но его упрёки (муравьи, «санньяси ест сладкое») привели к тому, что Он сократил пищу (ЧЧ Антья 8.1, 8.50 «санкоча-бхая», ⚠Б3); то служил ему, то не считался с ним, «как с травинкой» (8.92); в Каши объявлял, что живёт в его матхе (ЧБ Мадхья 19.105)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F15",
+   "F16",
+   "F33",
+   "F34"
+  ],
+  "events": [
+   "ev-ramachandra-puri-criticism"
+  ],
+  "note": "Духовный брат; поклонился его стопам (ЧЧ Антья 8.6), а затем с преданными просил Господа не урезать трапезу из-за его хулы (8.69–81; = @paramananda-puri F53–F54)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "host",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F18",
+   "F19",
+   "F21"
+  ],
+  "events": [
+   "ev-ramachandra-puri-criticism"
+  ],
+  "note": "Угостил его прасадом Джаганнатхи; тот перекормил Джагадананду и осудил «обжорство» последователей Чайтаньи (ЧЧ Антья 8.8–14; = @jagadananda-pandita F38). Кавираджа противопоставляет искренность Джагадананды его лицемерию (T 109)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F23",
+   "F27",
+   "F29"
+  ],
+  "events": [
+   "ev-ramachandra-puri-criticism"
+  ],
+  "note": "Через Говинду Господь установил урезанную меру пищи (ЧЧ Антья 8.50–59)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@kashishvara",
+  "facts": [
+   "F23",
+   "F29"
+  ],
+  "note": "Ел вместе с Господом и Говиндой; Господь велел ему питаться в другом месте (ЧЧ Антья 8.38, 8.59)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F38"
+  ],
+  "note": "У него, Бхагавана Ачарьи и Сарвабхаумы Господь ел без сокращения (ЧЧ Антья 8.88–89)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F38"
+  ]
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F38"
+  ]
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@vibhishana",
+  "facts": [
+   "F5"
+  ],
+  "note": "По ГГД 92 — его прежнее рождение (см. identities)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@jatila",
+  "facts": [
+   "F5"
+  ],
+  "note": "По ГГД 92 ради дела вошла в него (авеша; см. identities)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@rama",
+  "facts": [
+   "F5",
+   "F6"
+  ],
+  "note": "ГГД 92: «Причина этого — не Рама»; Девакинандана 2.45: «Господь сказал: он — из сонма Шри Рамы»."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@chandrashekhara-vaidya",
+  "facts": [
+   "F44"
+  ],
+  "events": [
+   "ev-kashi-tapana-mishra"
+  ],
+  "note": "В Каши Господь на деле жил у Чандрашекхары, а объявлял — в матхе Рамачандры Пури («Гаудия-бхашья» к ЧБ Мадхья 19.105)."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F43"
+  ],
+  "note": "ЧБ Мадхья 19.105 — единственное упоминание о нём в ЧБ."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F2",
+   "F21"
+  ],
+  "note": "Рассказал о нём в ЧЧ Антья 8."
+ },
+ {
+  "from": "@ramachandra-puri",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F3",
+   "F11",
+   "F34",
+   "F44"
+  ],
+  "note": "«Анубхашья» (по T): счёл надмирную скорбь гуру мирской; «пурва-/пара-видхи»; «Гаудия-бхашья» к ЧБ Мадхья 19.105: «притворный ученик со склонностью к майявада»."
+ },
+ {
   "from": "@ramananda-raya",
   "type": "father",
   "who": "@bhavananda-raya",

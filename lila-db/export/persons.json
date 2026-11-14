@@ -4294,6 +4294,10 @@
     "type": "companion"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -5599,6 +5603,10 @@
    {
     "from": "@murari-gupta",
     "type": "deity-served"
+   },
+   {
+    "from": "@ramachandra-puri",
+    "type": "other"
    }
   ]
  },
@@ -13432,6 +13440,10 @@
     "type": "disciple"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -17938,6 +17950,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@ranga-puri",
     "type": "other"
    },
@@ -18346,6 +18362,10 @@
    },
    {
     "from": "@pundarika-vidyanidhi",
+    "type": "guru"
+   },
+   {
+    "from": "@ramachandra-puri",
     "type": "guru"
    },
    {
@@ -18778,6 +18798,10 @@
    {
     "from": "@paramananda-puri",
     "type": "host"
+   },
+   {
+    "from": "@ramachandra-puri",
+    "type": "other"
    },
    {
     "from": "@ramananda-raya",
@@ -23022,6 +23046,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@sanatana-gosvami",
     "type": "other"
    },
@@ -24785,6 +24813,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "host"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -25718,6 +25750,10 @@
     "type": "disciple"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -26185,6 +26221,10 @@
    },
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@ramachandra-puri",
     "type": "other"
    },
    {
@@ -27637,6 +27677,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "co-worker"
    },
@@ -28325,6 +28369,10 @@
    },
    {
     "from": "@raghunatha-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@ramachandra-puri",
     "type": "other"
    },
    {
@@ -36862,6 +36910,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -40290,6 +40342,10 @@
     "type": "other"
    },
    {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -41926,6 +41982,12 @@
    "ev-dravida-brahmana-vibhishana",
    "ev-vibhishana-lanka-gaura",
    "ev-fall-into-ocean-fisherman"
+  ],
+  "related_by": [
+   {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   }
   ]
  },
  {
@@ -42467,6 +42529,21 @@
   ],
   "events": [
    "ev-advaita-yoga-vasishtha-beating"
+  ]
+ },
+ {
+  "id": "@jatila",
+  "ru": "Джатила",
+  "en": "Jatila",
+  "note": "свекровь Радхи, мать Абхиманью; по ГГД 92 вошла в Рамачандру Пури (@ramachandra-puri) «ради дела»",
+  "section": "Небожители и мудрецы",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@ramachandra-puri",
+    "type": "other"
+   }
   ]
  },
  {
@@ -43019,6 +43096,10 @@
    },
    {
     "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@ramachandra-puri",
     "type": "other"
    },
    {
@@ -45011,6 +45092,144 @@
    "ev-madhavendra-puri-departure",
    "ev-ramachandra-puri-criticism",
    "ev-chaitanya-dasa-feast"
+  ],
+  "summary": "в Кришна-лиле — в него ради дела вошла Джатила, свекровь Радхики (ГГД 92) и др.; гуру — Мадхавендра Пури",
+  "card": "parshadas/cards/ramachandra-puri.yaml",
+  "article": {
+   "ru": "parshadas/ru/ramachandra-puri.md",
+   "en": "parshadas/en/ramachandra-puri.md"
+  },
+  "kind": "other",
+  "circle": [
+   "elders",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "родители, место рождения, год и день явления неизвестны (B 797, T 147); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-14) дня явления нет",
+    "facts": [
+     "F2",
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-14) дня ухода нет; последнее известие — ушёл из Нилачалы по святым местам (ЧЧ Антья 8.94)",
+    "facts": [
+     "F7",
+     "F40"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "rama-lila",
+    "as": "Вибхишана",
+    "source": "ГГД 92",
+    "level": "A",
+    "variants": [
+     "T 146: «дорогой преданный Рамачандры Вибхишана родился Рамачандрой Пури» (без слов «Причина этого — не Рама»); Девакинандана 2.45 (ур. B): «Господь сказал: он — из сонма Шри Рамы»."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "в него ради дела вошла Джатила, свекровь Радхики (авеша)",
+    "source": "ГГД 92",
+    "level": "A",
+    "variants": [
+     "Только ГГД (и T 146 по ней); B и M не приводят. Объяснение лилы, а не оправдание хулы (⚠Б6)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "note": "Посвящённый ученик; при уходе гуру стал учить его «Брахману», и Мадхавендра в гневе отверг его (ЧЧ Антья 8.16–25; = @madhavendra-puri F141–F147)."
+   },
+   {
+    "type": "other",
+    "who": "@ishvara-puri",
+    "note": "Духовный брат; Ишвара Пури служил гуру и стал «океаном премы», Рамачандра — «хулителем всех»: «свидетели милости и немилости великой души» (ЧЧ Антья 8.26–30; = @ishvara-puri F21)."
+   },
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Господь из гуру-буддхи кланялся ему и назвал Себя его учеником, но его упрёки (муравьи, «санньяси ест сладкое») привели к тому, что Он сократил пищу (ЧЧ Антья 8.1, 8.50 «санкоча-бхая», ⚠Б3); то служил ему, то не считался с ним, «как с травинкой» (8.92); в Каши объявлял, что живёт в его матхе (ЧБ Мадхья 19.105)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "Духовный брат; поклонился его стопам (ЧЧ Антья 8.6), а затем с преданными просил Господа не урезать трапезу из-за его хулы (8.69–81; = @paramananda-puri F53–F54)."
+   },
+   {
+    "type": "host",
+    "who": "@jagadananda-pandita",
+    "note": "Угостил его прасадом Джаганнатхи; тот перекормил Джагадананду и осудил «обжорство» последователей Чайтаньи (ЧЧ Антья 8.8–14; = @jagadananda-pandita F38). Кавираджа противопоставляет искренность Джагадананды его лицемерию (T 109)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Через Говинду Господь установил урезанную меру пищи (ЧЧ Антья 8.50–59)."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "Ел вместе с Господом и Говиндой; Господь велел ему питаться в другом месте (ЧЧ Антья 8.38, 8.59)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "У него, Бхагавана Ачарьи и Сарвабхаумы Господь ел без сокращения (ЧЧ Антья 8.88–89)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-acharya"
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma"
+   },
+   {
+    "type": "other",
+    "who": "@vibhishana",
+    "note": "По ГГД 92 — его прежнее рождение (см. identities)."
+   },
+   {
+    "type": "other",
+    "who": "@jatila",
+    "note": "По ГГД 92 ради дела вошла в него (авеша; см. identities)."
+   },
+   {
+    "type": "other",
+    "who": "@rama",
+    "note": "ГГД 92: «Причина этого — не Рама»; Девакинандана 2.45: «Господь сказал: он — из сонма Шри Рамы»."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-vaidya",
+    "note": "В Каши Господь на деле жил у Чандрашекхары, а объявлял — в матхе Рамачандры Пури («Гаудия-бхашья» к ЧБ Мадхья 19.105)."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "ЧБ Мадхья 19.105 — единственное упоминание о нём в ЧБ."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Рассказал о нём в ЧЧ Антья 8."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» (по T): счёл надмирную скорбь гуру мирской; «пурва-/пара-видхи»; «Гаудия-бхашья» к ЧБ Мадхья 19.105: «притворный ученик со склонностью к майявада»."
+   }
   ],
   "related_by": [
    {
