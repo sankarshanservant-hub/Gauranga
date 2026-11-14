@@ -508,6 +508,104 @@ back His tears (20.129–130). Both these stories — of Garuda and of the knife
 “Such is the glory of Murari Gupta,” Vrindavana Dasa concludes. “What more can I say? His greatness is known to all”
 (20.155). <!-- F62 I5 -->
 
+## In the Kirtans of Navadvipa
+All the years the Lord spent in Navadvipa after Gaya, Murari was among those who night after night sang kirtan with Him
+in Shrivasa's house (CB, Madhya 8.112–116). Nityananda, wandering through Navadvipa in a childlike mood, would drop in
+on Gangadasa and on Murari (8.25), and the Lord would go into the houses of Gangadasa, Murari and Acharyaratna and
+manifest there the forms of His avataras (8.84). <!-- F67 Q22 -->
+
+In Murari's house the Lord also manifested the mood of Balarama. Murari himself relates that the Lord demanded honey
+and drank water as honey, and flung a brahmana aside with one finger, saying, “This one is a wrestler!” (“Kadacha”
+2.14.1–9); Kavi Karnapura (“Chaitanya-charitamrita-mahakavya” 8.17–36) and Lochana Dasa write of it too, and in
+Karnapura's drama “Chaitanya-chandrodaya” the devotees in Murari's courtyard on a full-moon night smell the fragrance of
+intoxicating kadambari and see the plough and the club (the prelude to the second act). Krishnadasa Kaviraja and
+Vrindavana Dasa also tell of the mood of Balarama, but do not say that it was in Murari's house. <!-- F70 -->
+
+When Jagai and Madhai had been delivered, Murari, together with other associates, sported with the Lord in the waters of
+the Ganga (CB, Madhya 13.336–339); in Lochana Dasa it is Murari who, at the Lord's command, brings the repentant
+brothers to Him. And when the Lord in a surge of emotion threw Himself into the Ganga and the devotees brought Him back,
+all went to Murari's house, and from there to the abode of Vijaya (“Kadacha” 2.12.1; so too in Lochana). <!-- F69 -->
+
+In the play the Lord staged in Chandrashekhara's house, Haridasa played the guard of Vaikuntha and, twirling his
+moustache, “joined Murari Gupta. These two dear servants of Krishna were filled with love, for Gaurasundara was
+enjoying His pastimes in their bodies” (CB, Madhya 18.48–49). When the Lord came out in the form of the Goddess, Murari,
+by his own account, was commended to Her: “Goddess, look upon this wretched Murari!” (“Kadacha” 2.16.19), and, according
+to Lochana, She looked on him with mercy. There is also a tradition that once Gaura seated Gadadhara at the foot of a
+tree, Advaita performed arati, and Murari Gupta sang the Lord's glory. <!-- F71 -->
+
+On the night of the great city kirtan, when the Lord went to subdue Chand Kazi, Murari, as the biographies remember, was
+in the front ranks of the procession. The Kazi — then the Muslim ruler of Navadvipa — had broken a devotee's mridanga
+and forbidden kirtan, and the Lord led the whole town to his house; He was accompanied by Gadadhara, Vakreshvara,
+Murari, Shrivasa, Gopinatha and countless servants (CB, Madhya 23.150–152). In that procession there danced “such great
+devotees as Murari, Mukunda Datta, Ramai, Govinda, Vakreshvara and Vasudeva” (23.209), and when that night the Lord
+drank water from Shridhara's old pot, Murari wept with the others (23.450). <!-- F68 Q26 -->
+
+Once, when Mahaprabhu sat surrounded by Shrivasa, Murari, Mukunda, Haridasa and others, young Lokanatha came to
+Navadvipa; the Lord went out to him and embraced him: “Why have you forgotten Me so long?” (so too in the
+“Prema-vilasa,” ch. 7). <!-- F72 -->
+
+The poets remember Murari in other pastimes of Navadvipa too. Lochana Dasa tells how once the Lord vanished together
+with Shrivasa, and Murari, Mukunda and Haridasa ascribed His return to Shrivasa's mercy. Jayananda places Murari among
+the Lord's companions on the way to Gaya, which is not in Vrindavana Dasa. In songs ascribed to Narahari, Shrivasa and
+Murari have a feast served on the bank of the Ganga; Murari dances with a carrying-pole at the Nanda-utsava, cries
+“Jaya!” at Gauranga's arati, dances at Holi and sings in a kirtan party, and the elders of Navadvipa say that Shrivasa
+and Murari cannot live without the Lord's darshan. <!-- F74 -->
+
+## On the Eve of Sannyasa
+Murari was one of the first to sense that the Lord was about to leave Navadvipa. Once, he relates, the Lord, bathed in
+tears, said, “I can stay here no longer. I am going to the city of Mathura,” and in the anguish of separation from
+Krishna tore His sacred thread. And the humble physician Murari answered Him:
+
+“‘Bhagavan, You can do anything, You know all truths; You are free to go and free to stay. And yet, by the custom of the
+noble, You must by no means go. If You, the Master, begin to act by Your own will, then all people too will act by
+theirs — and fall into impurity. <…> Should You go today, it is the end of all embodied beings: they will be left
+without Chaitanya, without consciousness.’” (“Kadacha” 2.17.14–17)
+
+Hearing this, the Lord fell silent, overwhelmed with love (2.17.19). This sarga is called “The Admonition of Sri Murari
+Gupta.” In Lochana Dasa the Lord, in the mood of Radha, pines: “Where is Vrindavana? Where is Lalita?” — and Murari
+consoles Him and then says the same as in the “Kadacha”: if the Lord leaves, the Vaishnavas will become wilful; and all
+sing kirtan (CM, Madhya-khanda, pt. 12, vv. 25–40). <!-- F75 -->
+
+A few days later the Lord related that in a dream a certain brahmana had spoken the mantra of sannyasa into His ear,
+and since then He had been weeping day and night. By its sound the sannyasa mantra speaks of identity with Brahman, and
+Murari proposed to understand the “great saying” differently: “Understand it in your mind as a compound in the genitive
+case — and be happy” (“Kadacha” 2.18.3–4), that is, not “I am He” but “I am His,” “you are His.” So too in Lochana Dasa
+and Karnapura (“Chaitanya-charitamrita-mahakavya” 11.40–42). <!-- F76 -->
+
+When it became clear that the sannyasa was near, Shrivasa and Murari came to the Lord, and He tried to console them. In
+Lochana, Murari said with tears: “You planted a wondrous tree, raised it day and night, watered and guarded it — and
+when the time of flowers and fruit has come, You cut it down” (CM, Madhya-khanda, pt. 12, vv. 110–113) — and yet he
+submitted: “You are independent in everything; to teach the people, to show mercy, You take on the mood of the
+torment of separation” (pt. 13, v. 151). <!-- F77 -->
+
+On the evening before His departure the Lord came with Haridasa to Murari's house and gave him a secret instruction:
+
+“‘The excellent Advaita Acharya is truly great: He is the abode of virtues, a part of the Lord. Serve Him diligently and
+with reverence. So I have revealed this secret instruction to you for your happiness.’ Having said this, the Lord, who
+loves His devotees, went home.” (“Kadacha” 2.18.29–30)
+
+According to Lochana Dasa, this was in the Deity room of Murari's house, and Murari understood: the sannyasa was
+inevitable (CM, Madhya-khanda, pt. 15, vv. 52–68); Karnapura too speaks of this instruction (11.47). At dawn the Lord
+left His home (“Kadacha” 3.1.6). Jayananda adds that He left without telling either Shrivasa or Murari. <!-- F77 F18 -->
+
+## Separation
+When Mahaprabhu accepted sannyasa, Murari wept bitterly with all the rest:
+
+“Falling to the ground in the Lord's courtyard, Mukunda, Murari, Shridhara, Gadadhara, Gangadasa, Shrivasa and his
+family, Chandrashekhara and Haridasa wept without ceasing.” (CB, Madhya 28.85)
+
+In Karnapura's drama it is Murari who guesses that since neither Nityananda nor Acharyaratna is there, they must be with
+the Lord, and Mukunda goes to console Shachi with this (“Chaitanya-chandrodaya” 4.15–34). <!-- F78 -->
+
+Soon the news came that the Lord was in Shantipura, in Advaita's house, and the devotees of Navadvipa hurried there.
+The Lord met each one — Shrivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari, Shuklambara (CC, Madhya
+3.137–167). In Lochana Dasa, Haridasa, Murari, Mukunda and Shrinivasa fall prostrate before Him and He embraces each,
+and at parting Shrinivasa, Haridasa, Murari and Mukunda say to Him reproachfully: “You are the independent Lord, and we
+are all dependent… You have taken sannyasa and now You are going away, abandoning all Your servants” (CM,
+Madhya-khanda, pt. 19, vv. 19–21). A song signed “Murari” tells how the people of Nadia go to Shantipura, and “behind
+them all walks Murari.” Lochana Dasa also names Murari among the Lord's companions on the way to Nilachala and writes
+that he danced with the Lord in Jagannatha's temple (pt. 20, vv. 82–83 and after)[^10]. <!-- F79 -->
+
 [^1]: Radha (Rarh) is the region west of the Ganga. One of the biographies, retelling this verse, says that Nityananda
     was born in Radha, while Gangadasa, Murari and Mukunda were born “elsewhere”; the verse itself does not say so.
     Shrihatta is named by Vrindavana Dasa (CB, Adi 2.35) and, following him, by the biographies.
@@ -531,3 +629,7 @@ back His tears (20.129–130). Both these stories — of Garuda and of the knife
     “Chaitanya-bhagavata” (Madhya 20.16) it is Vishvambhara, the younger brother, who does the fanning.
 [^9]: One of the biographies writes that all the devotees wept; according to the “Chaitanya-bhagavata” (Madhya 20.71),
     Murari's whole family.
+[^10]: According to the “Chaitanya-charitamrita” (Madhya 3.209), those who went with the Lord to Puri were Nityananda,
+    Jagadananda, Damodara and Mukunda; Murari first came to Puri only later, with the devotees of Gauda (Madhya 11).
+    Nor do the later traditions in which Murari meets the Lord at Alalanatha on His return from the south agree with
+    the original sources.
