@@ -509,9 +509,9 @@ Ramachandra Puri a multitude of worldly desires.” (CC, Antya 8.24)
 
 “Dry, detached realisation of the Absolute does not develop a person's spiritual relationship with Krishna. On the
 contrary, such an impersonalist philosopher soon becomes attached to offences and begins to criticise everyone
-indiscriminately.” (CC, Antya 8.25)
+indiscriminately.” (CC, Antya 8.25)[^12]
 
-Ramachandra reviled everyone, and everyone reviled him. Srila Bhaktisiddhanta explains in the “Anubhashya” that
+Ramachandra reviled everyone and persisted in reviling. Srila Bhaktisiddhanta explains in the “Anubhashya” that
 Ramachandra did not recognise the transcendental nature of his guru's separation; he took him for an ordinary man and
 his feeling for a worldly one, born of some lack, and set about teaching him the oneness of Brahman. Seeing his
 disciple's foolishness and disrespect, Madhavendra ceased to wish him well and drove him away. The “worldly desires”
@@ -563,12 +563,12 @@ became the glorious tree named Chaitanya Mahaprabhu.” (CC, Antya 8.34)
 
 With this verse, the “Charitamrita” says in another place too (Madhya 4.196), Madhavendra attained perfection at the
 end of his life. His day of departure is honoured on the twelfth lunar day of the bright fortnight of Phalguna — Govinda in the
-Vaishnava calendar (phalguna shukla-dvadashi).[^12] Where it took place the “Charitamrita” does not say.[^13] All that is clear is that by Phalguna of
-1431 Shaka, when Mahaprabhu told of him in Remuna, Madhavendra had already withdrawn from the eyes of the world.[^14]
+Vaishnava calendar (phalguna shukla-dvadashi).[^13] Where it took place the “Charitamrita” does not say.[^14] All that is clear is that by Phalguna of
+1431 Shaka, when Mahaprabhu told of him in Remuna, Madhavendra had already withdrawn from the eyes of the world.[^15]
 <!-- F149 F150 F151 F152 F153 F154 Q20 -->
 
 ## The Day of Remembrance in Advaita's House
-Every year Advaita Acharya celebrated the day of remembrance of His guru (CB, Antya 4.441–468).[^15] Once this day fell
+Every year Advaita Acharya celebrated the day of remembrance of His guru (CB, Antya 4.441–468).[^16] Once this day fell
 at the time when the Lord, already a sannyasi, was staying with Him at Shantipur (CB, Antya 4.396–397). Advaita
 joyfully spent all He had, and provisions poured in from every side. Gaurasundara with all His companions was happy.
 Ai — Shachi — together with the wives of the Vaishnavas took on all the cooking, Nityananda the reception and
@@ -646,7 +646,7 @@ Vitthala, was not yet born: he came into the world in 1437 Shaka (1515), as Sril
 them at the Lord's feet (CC, Madhya 19.84–112). Vitthalanatha's horoscope, cast by Govindasvami, gives a Friday, the
 ninth lunar day of the dark fortnight of Pausha, 21 dandas 25 palas, the year 1572 of the Vikrama era — 1437 Shaka,
 1515; the Vallabhite author Televala writes that he was born at Charanat near Allahabad and spent his childhood at
-Adel.[^16] <!-- F196 F197 F198 F207 Q28 -->
+Adel.[^17] <!-- F196 F197 F198 F207 Q28 -->
 
 Coming to Vraja, Mahaprabhu, after Radha-kunda and the darshana of Harideva, wished to see Gopala, but He had vowed
 not to climb Govardhana. Then Gopala, “as if out of fear of the Muslims,” came to Him Himself. A rumour of a Pathan
@@ -667,7 +667,7 @@ through a dream by Madhavendra, and found Him on Giriraja; He was then served by
 headman of Anor, told him to wait for Vallabhacharya. Through a dream an architect from Agra, Hiramani, came as well;
 the foundation was laid on a Sunday, the third lunar day of the bright fortnight of Vaishakha, under the nakshatra
 Rohini, in 1556 Vikrama, and twenty years later, in 1576 Vikrama (1441 Shaka, 1519), Vallabha installed the Deity in
-the new temple.[^17] Yadunatha's “Vallabha-digvijaya,” in the section on Vallabha's third journey, likewise says that
+the new temple.[^18] Yadunatha's “Vallabha-digvijaya,” in the section on Vallabha's third journey, likewise says that
 the merchant Puranmal, at the Lord's command, became the acharya's disciple, began digging the foundation on the
 bright tritiya of the month of Madhava, and on the Vaishakha tritiya Govardhana-dhara was installed in the new temple.
 <!-- F167 F177 F180 -->
@@ -705,7 +705,7 @@ Chaitanya and His companions. <!-- F172 F173 F281 Q25 -->
 
 The Vallabhite “Chaurasi Vaishnavan ki Varta” of Gokulanatha tells the same story differently. At first Shrinathji was
 served by Bengalis, and Vallabhacharya appointed Krishnadasa as manager. Krishnadasa was incited to expel the Bengalis
-by Avadhuta Dasa,[^18] to whom Shrinathji Himself supposedly complained that the Bengalis were troubling Him by
+by Avadhuta Dasa,[^19] to whom Shrinathji Himself supposedly complained that the Bengalis were troubling Him by
 secretly offering food first to a little goddess hidden in a knot of hair. Vitthalanatha said that within a year the
 Bengalis had carried off to their guru nearly a lakh of rupees collected in the east for ornaments, but after all it
 was the Acharyaji himself who had appointed them. Krishnadasa obtained letters to Todarmal and Birbal, set fire to the
@@ -745,7 +745,7 @@ on the seventh lunar day of the dark fortnight of Phalguna 1623 of the Vikrama e
 <!-- F183 F192 -->
 
 Hearing that Gopala was in Mathura, Rupa Gosvami came with his companions from Vrindavana and stayed a whole month in
-Mathura, in Vitthala's house at Satghara, beholding Gopala:[^19]
+Mathura, in Vitthala's house at Satghara, beholding Gopala:[^20]
 
 “Sri Rupa with his companions also spent a whole month in Mathura, beholding this Deity.” (CC, Madhya 18.48)
 
@@ -898,7 +898,7 @@ Aurangzeb, and Dvarakesha Maharaja of the Vallabha sampradaya restored it about 
 Over the centuries many traditions grew up around Madhavendra's Gopala, and by no means all of them are friendly to the
 Gaudiyas. Above they were mentioned briefly; here the most telling of them are gathered — together with what the
 Gaudiya biographies answer. The Vallabhite works are reported as the books themselves tell them, and the judgements as
-the biographies of the Gaudiya Vaishnavas give them.[^20] <!-- F271 F272 F273 F274 F275 F276 F277 F278 Q37 -->
+the biographies of the Gaudiya Vaishnavas give them.[^21] <!-- F271 F272 F273 F274 F275 F276 F277 F278 Q37 -->
 
 ### Vallabha, Vyasatirtha and Vishnusvami
 Even the meeting at Arail the Vallabhite books tell in their own way. According to the “Nij-varta” and the
@@ -983,13 +983,13 @@ has none of — like his commentary on the “Krishna-premamrita” and the “S
 their influence. He admits also the price of the shrine's passing: when Giridhara moved it to his own house in Mathura
 (in samvat 1623) and Vitthaleshvara elaborated the service, it became the exclusive possession of the Vallabhites, the
 Bengali Vaishnavas forgot their early connection with it, and the mass of Vaishnavas lost access to it — though the aim,
-according to Televala, was only to remove the Bengalis, and hardly did Vitthaleshvara or “Vallabhacharya”[^21] wish for
+according to Televala, was only to remove the Bengalis, and hardly did Vitthaleshvara or “Vallabhacharya”[^22] wish for
 such an outcome. <!-- F243 F244 F245 F250 F251 -->
 
 ### At Govinda-kunda and After
 How the Gaudiyas fared at Govardhana later on can be seen from the stories that a disciple of Srila Bhaktisiddhanta heard
 at Govinda-kunda on 18 October 1932. Manohara Dasa Babaji there called the bhajana of the holy name “bhakti turned
-outward,” and hearing of the lilas “bhakti turned inward.”[^22] His disciple Ananta Dasa related that the Vallabhites,
+outward,” and hearing of the lilas “bhakti turned inward.”[^23] His disciple Ananta Dasa related that the Vallabhites,
 who held sway at the kunda, mocked the Gaudiyas, nicknaming them “an-magi,” until Manohara Dasa began to teach boys
 grammar and the “Bhagavatam” so that they might live by expounding it — then the gosains yielded the Gaudiyas a little
 room; and when Ramasvarupa Mishra, priest of the gosain Ranchhorlalji, took initiation from him and the Vallabhites were
@@ -1019,7 +1019,7 @@ conversation with Mahaprabhu and Sanatana's questions about sadhana and sadhya. 
 instruction of the “Bhakti-rasamrita-sindhu” (1.2.295) on serving both in the form of a sadhaka and in the siddha form,
 following the residents of Vraja, excusing themselves on the ground that the corrupted society of Gaudiyas thinks so —
 and this betrays only inexperience in bhajana: remembrance of the eight periods of the day not awakened by kirtana is
-artificial and is not the path of the Gosvamis.[^23] <!-- F263 F264 F265 F266 F267 F268 F269 F270 Q33 Q34 I13 I14 -->
+artificial and is not the path of the Gosvamis.[^24] <!-- F263 F264 F265 F266 F267 F268 F269 F270 Q33 Q34 I13 I14 -->
 
 ## Significance
 Madhavendra Puri opened in the line of Madhva what had not been in it before — love for Krishna in separation; and
@@ -1066,31 +1066,35 @@ made it their standard. <!-- F29 I2 -->
     world are subject, but yogamaya — the Lord's internal potency, which serves His lilas.
 [^11]: According to one of the biographies, in the year 1432 of the Shaka era; elsewhere the same biography places the
     Lord's sannyasa in 1431.
-[^12]: So in one of the biographies and in the Vaishnava calendar of the Sri Chaitanya Saraswat Math, where this day is
+[^12]: These two verses follow our Russian translation. “A multitude of worldly desires” renders the single Bengali
+    word *vasana*, “desire” (for Srila Bhaktisiddhanta, the desire for dry knowledge); “rejected” is *upeksha karila*,
+    “disregarded.” For “dry, detached realisation of the Absolute” and “impersonalist philosopher” the Bengali has
+    *shushka-brahma-jnani*, “a dry knower of Brahman.”
+[^13]: So in one of the biographies and in the Vaishnava calendar of the Sri Chaitanya Saraswat Math, where this day is
     the Gaura-dvadashi of the month of Govinda. Murari Gupta in his “Kadacha” (4.15.8–9) names as the day of Madhava
     Puri's remembrance, which Advaita observed, the twelfth lunar day of the bright fortnight not of Phalguna but of
     Chaitra.
-[^13]: One of the biographies says that he departed at Remuna. The Vallabhite author Televala writes that he departed
+[^14]: One of the biographies says that he departed at Remuna. The Vallabhite author Televala writes that he departed
     in the south, where he had gone for sandalwood, at the age of about a hundred and thirty; according to the “252
     Vartas,” there in the south he anointed a certain Hima-Gopalji with sandal paste and entered the eternal lila.
-[^14]: According to one historical report, Vitthalanatha, Vallabhacharya's son, was born thirty-two years after
+[^15]: According to one historical report, Vitthalanatha, Vallabhacharya's son, was born thirty-two years after
     Madhavendra's departure. If Vitthalanatha was born in 1515, the departure would fall around 1483 — before the
     Lord's appearance, which is hard to reconcile with the “Chaitanya-bhagavata” and the “Charitamrita”: Nityananda
     meets Madhavendra in the years of His wanderings, which began when He was twelve — that is, after the Lord's
     appearance.
-[^15]: The “Chaitanya-bhagavata” calls this festival “the day of the worship (aradhana) of Madhava Puri”; one of the
+[^16]: The “Chaitanya-bhagavata” calls this festival “the day of the worship (aradhana) of Madhava Puri”; one of the
     biographies calls it a festival on the day of the guru's appearance.
-[^16]: The sources name the month of Vitthalanatha's birth differently: the horoscope gives Pausha, Televala
+[^17]: The sources name the month of Vitthalanatha's birth differently: the horoscope gives Pausha, Televala
     Margashirsha (the ninth lunar day of the dark fortnight, samvat 1572).
-[^17]: According to another report, it was in 1499, on the second lunar day of the bright fortnight of Chaitra, that
+[^18]: According to another report, it was in 1499, on the second lunar day of the bright fortnight of Chaitra, that
     Vallabhacharya installed Gopala on Giriraja, whereas according to the “Nij-varta” on that night Puranmal merely
     received in a dream the command to build the temple.
-[^18]: According to Televala, the protest against the Bengalis was raised by a certain Anantadasa.
-[^19]: The reason for Gopala's move to Mathura is given differently. The “Charitamrita” says that Gopala came to
+[^19]: According to Televala, the protest against the Bengalis was raised by a certain Anantadasa.
+[^20]: The reason for Gopala's move to Mathura is given differently. The “Charitamrita” says that Gopala came to
     Mathura ostensibly out of fear of the Muslims, and so the aged Rupa, no longer able to walk to Govardhana, saw
     Madhavendra's Deity. According to Televala, Giridhara moved Him to his own house, probably to assert his
     authority.
-[^20]: The biographies cite these works in the Vallabhites' own editions: “Sri Vallabhacharyaji ki Nij-varta” (the
+[^21]: The biographies cite these works in the Vallabhites' own editions: “Sri Vallabhacharyaji ki Nij-varta” (the
     manuscript was obtained from Sarasvati, daughter of Seth Mangal Dasa Giridhar Dasa of Ahmedabad; first printed in
     1959 Vikrama from four manuscripts, then in Ahmedabad at the Viravijaya Press — by Manilal Chhaganlal, 1979, and by
     Lalubhai Chhaganlal Desai, 1990 Vikrama); the “Sampradaya-pradipa,” Sanskrit prose ascribed to Pandita Gadadhara
@@ -1109,12 +1113,12 @@ made it their standard. <!-- F29 I2 -->
     ignorance go down”), the Gujarati “Kanakabhisheka ka Itihasa,” the “Purva-guru-shamsana-vivarana” of Brajanatha,
     the “Ghar-varta,” the “Sri Radha-ramanera seva-prakata,” F. S. Growse's “Mathura” (2nd ed., 1880) and the journal
     “Gaudiya” (year 5, nos. 22–23) with Srila Bhaktisiddhanta's letter on Nathdvara.
-[^21]: So in Televala, although Vallabhacharya had departed as early as 1530, long before Gopala was moved to Mathura
+[^22]: So in Televala, although Vallabhacharya had departed as early as 1530, long before Gopala was moved to Mathura
     (1567).
-[^22]: These are the babaji's own words. Srila Bhaktisiddhanta teaches otherwise: the kirtana of the holy name is not
+[^23]: These are the babaji's own words. Srila Bhaktisiddhanta teaches otherwise: the kirtana of the holy name is not
     “outward” bhakti but the foundation of bhajana, and remembrance of the lilas that is not awakened through kirtana is
     artificial (see below, at the end of the section).
-[^23]: The sakhi-bhekis are those who, imitating the sakhis of Vraja, outwardly assume a woman's guise; Srila
+[^24]: The sakhi-bhekis are those who, imitating the sakhis of Vraja, outwardly assume a woman's guise; Srila
     Bhaktisiddhanta counted them, like the sahajiyas, among the currents that have fallen away from Mahaprabhu's
     teaching. The inner, siddha form of service is not invented or displayed outwardly: it is revealed by the mercy of
     the guru and the Vaishnavas in a heart purified by the kirtana of the holy name — which is why remembrance not

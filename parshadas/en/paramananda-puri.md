@@ -455,7 +455,7 @@ Ramachandra Puri, however, looked for faults in everything and reproached the Lo
 to eat half as much as before. Then Paramananda Puri, together with all the devotees, humbly entreated Him:
 
 “‘My godbrother Ramachandra Puri constantly criticises everyone, for such is his nature. What is the use of Your
-giving up food because of his reproaches?’” (CC, Antya 8.70)
+giving up food because of his reproaches?’” (CC, Antya 8.70)[^23]
 
 Ramachandra Puri, he said, himself makes people overeat and then reproaches them; of the two rules of the
 “Bhagavatam” — not to praise and not to blame others (11.28.1) — he keeps only the first: he praises no one but
@@ -493,7 +493,7 @@ Puri asked Him the reason, and the Lord explained: the wish of Nrisimhananda’s
 a road for Him in his mind from Purushottama to Mathura, but had brought it only as far as Natashala Kanai (CM,
 Shesha-khanda, pt. 2, section “The Lord Sees Vrindavana,” v. 22). According to Lochana too, Puri Gosani, with the
 devotees in Kashi Mishra’s house, begged the Lord to receive King Prataparudra, who had fasted for ten days, and the
-Lord agreed (pt. 6, vv. 92–110).[^23] Lochana Dasa also praises him at the beginning of the poem — “Puri Paramananda
+Lord agreed (pt. 6, vv. 92–110).[^24] Lochana Dasa also praises him at the beginning of the poem — “Puri Paramananda
 and Vishnupuri … I praise” (Sutra-khanda, pt. 1, v. 26) — and calls him “Paramananda Puri of pure conduct”
 (Sutra-khanda, pt. 8, v. 624). <!-- F65 -->
 
@@ -502,7 +502,7 @@ Puri, Madhavendra Puri, Ishvara Puri,” and, describing the memorial festival f
 in Shantipura, says: “Damodara Svarupa and Paramananda Puri direct the feast, canes in hand.” The late
 “Prema-vilasa,” to be approached with caution, reports that Madhava Acharya (Kavivallabha), who had fled from his
 wedding to Vrindavana, took sannyasa from Paramananda Puri and afterwards learned bhajana from Rupa and Sanatana
-(24.436; 25.891).[^24] <!-- F66 F67 -->
+(24.436; 25.891).[^25] <!-- F66 F67 -->
 
 ## After the Lord’s Disappearance
 Paramananda Puri outlived Mahaprabhu. When, after the Lord’s disappearance, Srinivasa Acharya came to Puri, he stayed
@@ -592,6 +592,9 @@ all the branches rest; and among the roots on which the tree is established, the
 [^22]: The brief summary of the pastimes (Madhya 1.149) also mentions “the episode with the cloth together with Puri
     Gosani,” but we have not found it in the sixteenth chapter of the Madhya-lila itself; cf. Karnapura’s account
     (mahakavya 19.9).
-[^23]: According to the “Charitamrita” (Madhya 11–12), it was Sarvabhauma, Ramananda Raya and others who pleaded for
+[^23]: The words “my godbrother” follow our Russian translation; they are not in the Bengali text, which has: “Ramachandra
+    Puri is a reviler by nature” — the translator’s addition. Godbrothers they indeed were: both were disciples of
+    Madhavendra Puri.
+[^24]: According to the “Charitamrita” (Madhya 11–12), it was Sarvabhauma, Ramananda Raya and others who pleaded for
     the king.
-[^24]: This is known only from the “Prema-vilasa.”
+[^25]: This is known only from the “Prema-vilasa.”
