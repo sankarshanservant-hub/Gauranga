@@ -66,7 +66,7 @@ coming.” (CB, Adi 2.98–99)
 Of this same descent of associates who came into the world before the Lord, Kavi Karnapura (“Chaitanya-chandrodaya”
 1.21–25) and Murari himself (“Kadacha” 1.4) also tell. <!-- F11 F12 Q4 -->
 
-The biographies add that Murari's family moved from Shrihatta to Navadvipa and settled next to the house of
+The biographies add that Murari's people came over from Shrihatta to Navadvipa and settled next to the house of
 Jagannatha Mishra, so that Murari was a companion in many of Nimai's childhood games[^3]. Kavi Karnapura testifies that
 Murari knew the Lord's pastimes from His very childhood (“Chaitanya-charitamrita-mahakavya” 20.42–49), and Jayananda in
 his “Chaitanya-mangala” names a certain Murari among the boys who went with Gaurachandra to the teacher's house.
@@ -100,7 +100,7 @@ precious: fiery by nature, he bears Nimai's mockery without anger and answers Hi
 sutra, the vritti, the panji or the tika, and get no answer? You have asked me nothing, yet You declare that I know
 nothing. You are a respectable brahmana — what can I say in reply?’” (CB, Adi 10.25–27) <!-- F4 -->
 
-Then Nimai told him to explain that day's lesson. Murari drew a conclusion from the earlier rules, and the Lord brought
+Then Nimai bade him expound the lesson of the day. Murari drew a conclusion from the earlier rules, and the Lord brought
 forward another, opposite one and refuted his explanation; then He refuted His own and established it again. “So the
 servant and the master could not defeat each other in debate” (Adi 10.28–29). <!-- F21 -->
 
@@ -122,11 +122,12 @@ along the road with his followers, wagging his head and waving his arms as he ex
 Nimai and the other children ran after him, mimicking his gait and his speech. Murari grew angry and scolded the boy,
 and He slyly promised, “You'll find out at mealtime!” When Murari sat down to eat, Nimai came into his house,
 approached him and filled his plate with urine. “What is this? Ugh!” — Murari leapt up, while Gaura, clapping His
-hands, said, “Abandoning the path of bhakti, you expound yoga! Neglect knowledge and ritual and serve Krishna with all
-your heart — He is full of consciousness and bliss, He is the treasure of the gopis' lives” (CM, Adi-khanda, pt. 4,
-vv. 383–397). Lochana Dasa explains that the boy's “anger” was mercy: so the Lord broke Murari's attachment to dry
-knowledge and turned him to bhakti. A child's prank that made a grown man jump up from his meal was a lesson for life:
-food not offered to Krishna and learning not given to His service are equally unfit. The boy vanished, and Murari
+hands, said, “Wagging his head and waving his arms, abandoning the path of bhakti, this rogue expounds yoga! Neglecting
+knowledge and ritual, serve with all your heart Krishna — the relisher of rasa, the skilful one, full of consciousness
+and bliss. <…> He is the eternal Brahman, the treasure of the gopis' lives; why, not serving Him, do you bring pain on
+yourself?” (CM, Adi-khanda, pt. 4, vv. 383–397). Lochana Dasa himself says that Gauranga grew angry “out of mercy to His
+devotee” (v. 388): by this childhood play the Lord broke Murari's attachment to dry yoga and speculation and turned him
+to bhakti. The boy vanished, and Murari
 understood: “Shachi's son is the Lord Himself.” He hurried to the house of Jagannatha Mishra, fell prostrate before
 Nimai in ecstasy, told the parents that their son was the God of gods, bade them keep this secret, and told Advaita of
 His pastimes (CM, Adi-khanda, pts. 4–5, vv. 398–403). <!-- F24 -->
@@ -331,8 +332,8 @@ outward sannyasa alone (10.277). <!-- F47 F5 -->
 Krishnadasa Kaviraja, in his account of the Mahaprakasha, recalls other words:
 
 “The Lord said to Murari, ‘You have brought Krishna under your control,’ and hearing this, Murari began to recite a
-verse: ‘Who am I, a poor and sinful man, and who is Krishna, the abode of the goddess of fortune? Yet because I was born
-a brahmana, He embraced me in His arms!’ (Srimad-Bhagavatam, 10.81.16)” (CC, Adi 17.77–78)
+verse: ‘Who am I, a poor and sinful man, and who is Krishna, the abode of the goddess of fortune? Yet, knowing me to be
+a brahmana only by birth, He embraced me in His arms!’ (Srimad-Bhagavatam, 10.81.16)” (CC, Adi 17.77–78)
 
 These are the words of Sudama, Krishna's poor friend. Murari was not a brahmana by birth, and in repeating them he
 speaks not of his social standing but of his unworthiness: so a Vaishnava's humility answers the Lord's praise.
@@ -354,10 +355,10 @@ ought to conduct himself. <!-- F49 I2 -->
 
 ### The Dream of the Elder Brother
 One day, when Mahaprabhu was relishing bliss with Nityananda in Shrivasa's house, Murari came and bowed first to the
-Lord and then to Nityananda. The Lord, very pleased with him, said plainly: “Murari, you have acted wrongly: you have
-broken the proper order. You teach people right conduct — why do you break it yourself?” “Lord, how was I to know?”
-Murari replied. “You Yourself moved me to act so.” “Very well,” said the Lord. “Go home. Tomorrow I will explain it to
-you, and you will understand everything” (CB, Madhya 20.5–12). <!-- F49 -->
+Lord and then to Nityananda. The Lord, very pleased with him, said plainly: “Murari, you have acted wrongly. In offering
+obeisances you have broken the proper etiquette. You teach people right conduct. Why, then, do you yourself break these
+rules?” “Lord, how was I to know?” Murari replied. “You Yourself moved me to act so.” “Very well,” said the Lord. “Go
+home now. Tomorrow I will explain it to you, and you will understand everything” (CB, Madhya 20.5–12). <!-- F49 -->
 
 With joy and anxiety Murari returned home and lay down to sleep. And in a dream he saw:
 
@@ -386,8 +387,8 @@ of Nityananda” (CB, Madhya 20.48–51). “So Murari received the Lord's mercy
 says Vrindavana Dasa (20.52). <!-- F51 -->
 
 Srila Bhaktisiddhanta explains this lesson in the “Gaudiya-bhashya” (on CB, Madhya 20.9): the Lord tells Murari that he
-is a devotee of Sri Balarama, and to worship the Supreme Lord without first bowing to the guru and jagad-guru is a
-breach of order. Nityananda-Balarama is the original guru, and without His mercy service to Gaura cannot be attained.
+is a devotee of Sri Balarama, and that worship of the Supreme Lord offered before one has bowed to the guru and the
+jagad-guru breaks the order. Nityananda-Balarama is the original guru, and without His mercy service to Gaura cannot be attained.
 <!-- F51 I2 -->
 
 ### Betel and the “Lost Caste”
@@ -469,8 +470,8 @@ Karttikeya. <!-- F57 F5 -->
 ### The Knife
 The last story of this chapter is the most moving. Once Murari began to reflect on the Lord's pastimes: no one knows
 what He will do the next moment. Rama for Sita's sake destroyed Ravana with all his race — and then abandoned Sita;
-Krishna let the Yadavas, dear to Him as life, perish before His eyes. “While the Lord is here in this world with His
-associates, I must leave my body,” Murari decided (CB, Madhya 20.105–112). In all His descents, he reasoned, the Lord
+Krishna let the Yadavas, dear to Him as life, perish before His eyes. “Therefore I must leave my body while He is here.
+This is the most fitting time to leave the body,” Murari decided (CB, Madhya 20.105–112). In all His descents, he reasoned, the Lord
 arranges that His associates depart before Him; and since Mahaprabhu must one day depart, it is better to go first: to
 see that would be unbearable. He secretly obtained a sharp knife and hid it in the house, resolving: “Tonight I will
 gladly leave this body” (20.112–113). <!-- F58 F59 -->
@@ -480,7 +481,7 @@ of life: so feels a servant who cannot conceive of life without his Lord and fea
 separation from Him. The strength of his love is seen in this, that for its sake he was ready to leave his body.
 <!-- F58 I5 -->
 
-The all-knowing Lord knew of his intention and came to him that very day. Murari prostrated himself before Him. The Lord
+The all-knowing Lord was aware of what he had resolved and came to him that very day. Murari prostrated himself before Him. The Lord
 sat down and began to speak of Krishna, and then asked:
 
 “‘Murari, will you do whatever I ask?’ Murari answered, ‘Lord, this body belongs to You.’ The Lord asked, ‘Is that
@@ -488,8 +489,8 @@ true?’ Murari answered, ‘Yes.’ Then the Lord whispered in his ear: ‘Then
 the house with which you planned to kill yourself. Give it to Me.’” (CB, Madhya 20.116–119)
 
 “Alas! Someone has told You an untruth,” Murari exclaimed in sorrow. “Murari, you are too simple,” the Lord replied.
-“Do you think I know something only because someone told Me? I know who made this knife and where you hid it.” And the
-Lord Himself took the knife from its hiding place (20.120–123). <!-- F60 -->
+“Do you think I know something only because someone told Me? I know who made this knife and where you hid it.” And He
+went into the house and drew out the knife from where it lay hidden (20.120–123). <!-- F60 -->
 
 “The Lord asked: ‘Murari, what are you doing! For what fault of Mine do you want to leave Me? If you go, how will I
 enjoy My pastimes? Who will give Me new ideas? Murari, give Me your word that you will never think of this again.’ <…>
@@ -498,7 +499,7 @@ enjoy My pastimes? Who will give Me new ideas? Murari, give Me your word that yo
 
 “You will eat My head” is a Bengali oath: “if you do this, it will be as if you killed Me.” The Lord did not simply
 forbid: He revealed that He Himself needs His servant, that without Murari His pastimes would be poorer. Murari fell to
-the ground and bathed the Lord's feet with tears, and Shachinandana raised him, embraced him and Himself could not hold
+the ground and washed the Lord's feet with his tears, and Shachinandana raised him, embraced him and Himself could not hold
 back His tears (20.129–130). Both these stories — of Garuda and of the knife — are recalled also in the
 “Bhakti-ratnakara” (the twelfth wave). <!-- F61 Q29 -->
 
@@ -533,8 +534,8 @@ relates, asked Her: “Goddess, look upon this wretched Murari!” — and She s
 2.16.19–20); according to Lochana, She looked on him with mercy. There is also a tradition that once Gaura seated Gadadhara at the foot of a
 tree, Advaita performed arati, and Murari Gupta sang the Lord's glory. <!-- F71 -->
 
-On the night of the great city kirtan, when the Lord went to subdue Chand Kazi, Murari, as the biographies remember, was
-in the front ranks of the procession. The Kazi — then the Muslim ruler of Navadvipa — had broken a devotee's mridanga
+On the night of the great city kirtan, when the Lord went to subdue Chand Kazi, Murari, as the biographies remember, played
+one of the leading roles in the procession. The Kazi — then the Muslim ruler of Navadvipa — had broken a devotee's mridanga
 and forbidden kirtan, and the Lord led the whole town to his house; He was accompanied by Gadadhara, Vakreshvara,
 Murari, Shrivasa, Gopinatha and countless servants (CB, Madhya 23.150–152). In that procession there danced “such great
 devotees as Murari, Mukunda Datta, Ramai, Govinda, Vakreshvara and Vasudeva” (23.209), and when that night the Lord
@@ -573,8 +574,9 @@ case — and be happy” (“Kadacha” 2.18.3–4), that is, not “I am He” 
 and Karnapura (“Chaitanya-charitamrita-mahakavya” 11.40–42). <!-- F76 -->
 
 When it became clear that the sannyasa was near, Shrivasa and Murari came to the Lord, and He tried to console them. In
-Lochana, Murari said with tears: “You planted a wondrous tree, raised it day and night, watered and guarded it — and
-when the time of flowers and fruit has come, You cut it down” (CM, Madhya-khanda, pt. 12, vv. 110–113) — and yet he
+Lochana, Murari said with tears: “You planted a wondrous tree, holding it in Your fingers, raised it day and night,
+watering and tending it; <…> and when the time of flowers and fruit has come, You cut the tree down” (CM, Madhya-khanda,
+pt. 12, vv. 110–113) — and yet he
 submitted: “You are independent in everything; to teach the people, to show mercy, You take on the mood of the
 torment of separation” (pt. 13, v. 151). <!-- F77 -->
 
@@ -589,7 +591,7 @@ inevitable (CM, Madhya-khanda, pt. 15, vv. 52–68); Karnapura too speaks of thi
 left His home (“Kadacha” 3.1.6). Jayananda adds that He left without telling either Shrivasa or Murari. <!-- F77 F18 -->
 
 ## Separation
-When Mahaprabhu accepted sannyasa, Murari wept bitterly with all the rest:
+When the Lord took sannyasa, Murari wept bitterly with all the rest:
 
 “Falling to the ground in the Lord's courtyard, Mukunda, Murari, Shridhara, Gadadhara, Gangadasa, Shrivasa and his
 family, Chandrashekhara and Haridasa wept without ceasing.” (CB, Madhya 28.85)
@@ -630,9 +632,9 @@ Radhanatha[^11]. <!-- F43 Q11 -->
 
 Many years later, in Puri, the Lord, tenderly embracing Murari, told the devotees how He had tested his fidelity to Rama
 (CC, Madhya 15.137). In the past, He said, He had again and again urged Murari to worship Krishna: “Gupta, the highest
-sweetness is found in the son of Maharaja Nanda. Sri Krishna is the original source of all incarnations, the abode of
-pure love and the reservoir of all rasas; nothing can so captivate and charm the mind as the worship of Krishna”
-(15.138–142). Murari, hearing this, gradually yielded to His influence and promised: “I am Your servant, dependent on
+sweetness is found in the son of Maharaja Nanda. Sri Krishna is the original source of all incarnations. <…> Begin to
+serve this Krishna, take shelter in Him. Nothing can so powerfully captivate and charm the mind as the worship of
+Krishna” (15.138–142). Murari, hearing this, gradually yielded to His influence and promised: “I am Your servant, dependent on
 You in all things. I will do whatever You tell me” (15.143–144). <!-- F88 -->
 
 “He went home and thought about it all night. The very thought that he would have to give up the worship of
@@ -797,6 +799,14 @@ perplexity how Krishna Himself could say such a thing, and Murari explains: when
 Him and hears of Him, Hari enters the heart of that great soul, and for a time he forgets his body; so the Lord taught
 that the devotee's body is the very soul of Bhagavan (“Kadacha” 1.7–1.8.10; so too in Lochana Dasa). <!-- F30 F74 -->
 
+At times in this dialogue Murari himself resolves a doubt. When Damodara heard that in Bhubaneshvara the Lord had
+reverently eaten the prasada of Mahadeva, he objected that because of Bhrigu's curse the remnants of offerings to Shiva
+are not eaten. Murari answered: when people worship Maheshvara, seeing in him the best of Vaishnavas, Krishna too accepts
+their offerings, and such food purifies; but whoever sees a difference between Krishna and His devotees falls, and to
+teach such people Hari, in the form of a devotee, Himself reverently accepts Shiva's nirmalya. “Devotion alone, O
+brahmana, always brings good to all embodied beings” (“Kadacha” 3.9.8–21). Lochana Dasa tells it the same way: the curse
+touches only those who set Hari and Hara against each other, while Maheshvara is the king of Vaishnavas. <!-- F98 -->
+
 At the end Murari calls his account brief “like a sutra”: “Shrivasa and other great souls will describe it in detail”
 (4.25.1). He counts it up himself: the poem has four prakramas and seventy-eight sargas — sixteen, eighteen, eighteen
 and twenty-six — and the verses number nineteen hundred and twenty-seven (4.26.20–21)[^14]. Having heard it all,
@@ -827,11 +837,11 @@ from the words of Raghunatha Dasa. <!-- F26 Q19 -->
 
 All who wrote of the Lord after Murari relied on the “Kadacha”: Vrindavana Dasa, Lochana Dasa and other associates of
 Gaura described His pastimes following it, and together the books of Murari, Vrindavana and Lochana give the story of
-the life of Sri Chaitanya and His devotees. Lochana Dasa says plainly that Murari of Nadia composed many Sanskrit verses
-about Gauranga and made a book of them. According to one of the biographies, Lochana learned it from Damodara Pandita,
+the life of Sri Chaitanya and His devotees. Lochana Dasa says plainly that Murari of Nadia put the life of Gauranga into
+many Sanskrit shlokas and gathered them into a book. According to one of the biographies, Lochana learned it from Damodara Pandita,
 who had heard the verses from Murari, and conveyed its essence in Bengali panchali verses; Lochana himself says that
 Damodara questioned Murari, Murari told, and so the book came to be — “a conversation with Damodara from Murari's
-lips”; and of Vishvarupa's sannyasa Lochana retells what he heard from Damodara out of Murari's account. Kavi Karnapura,
+lips”; and the sannyasa of Vishvarupa, too, Lochana tells as Damodara passed it on to him from Murari's account. Kavi Karnapura,
 at the close of his “Chaitanya-charitamrita-mahakavya,” bows to Murari Gupta, who knew the Lord's pastimes from
 childhood and whose notes became the basis of his poem (20.42–49), and his “Gaura-ganoddesha-dipika,” he says, he
 composed from the words and writings of Mahaprabhu and His intimate associates, such as Svarupa Damodara and Murari
@@ -881,7 +891,7 @@ together with Murari and other associates (ch. 19). <!-- F95 F96 Q29 -->
 The sources name neither the year nor the place of Murari's departure; it is known only that he was still living after the
 Lord withdrew from sight in 1534. The day of his departure is honoured on the Sharad Purnima — the full moon of
 the autumn rasa-lila. In our calendar it is the purnima of the month of Padmanabha, the Sharadiya Rasa-yatra of Sri
-Krishna (in 2026, October 26); with this purnima the month of Damodara begins. The day of his appearance is not in the
+Krishna (in 2026, October 26); on this day the Damodara-vrata begins, and the next day the month of Damodara. The day of his appearance is not in the
 calendar, and the sources do not give it. <!-- F97 -->
 
 ## Murari's House in Mayapura
@@ -893,8 +903,8 @@ quarter the young wives prepare sandal paste and garlands for Him. <!-- F16 F18 
 
 Srila Bhaktisiddhanta Sarasvati on March 18, 1934, laid the foundation of the temple at the Yogapitha, and with it of
 a smaller temple in Murari Gupta's house; “Sripat Sri Murari Gupta” in Sridham Mayapura is listed among the mathas he
-founded. Today in this temple, for the sake of Murari's attachment to the service of Ramachandra, the images of Rama
-and Sita are worshipped daily. In our calendar “Murari Gupta Bhavana” is among the places of the first day of the
+founded. Today in this temple, because Murari was so devoted to serving Ramachandra, Rama and Sita are worshipped there
+every day. In our calendar “Murari Gupta Bhavana” is among the places of the first day of the
 Navadvipa parikrama, after the Yogapitha, Shrivasa-angana, the temple of Nrisimha and Advaita's house. <!-- F16 F17 -->
 
 ## Significance
@@ -926,8 +936,8 @@ truths.” Vrindavana Dasa, Lochana Dasa and Kavi Karnapura wrote from his notes
 [^3]: One of the biographies cites the “Chaitanya-charitamrita” here; it has no verse saying this directly: it says only
     that the pastimes of the Adi-lila were recorded by Murari (Adi 13.15).
 [^4]: One of the biographies writes that the Lord lifted the pitcher “onto His nose”; according to the
-    “Chaitanya-bhagavata,” in His teeth (Madhya 3.23). Another biography says that in the form of the Boar the Lord
-    “began to praise Murari”; according to the “Chaitanya-bhagavata” (Madhya 3.24), on the contrary, the Lord told
+    “Chaitanya-bhagavata,” in His teeth (Madhya 3.23). Another biography says that, in the form of the Boar, it was the Lord
+    who “started to glorify Murari”; according to the “Chaitanya-bhagavata” (Madhya 3.24), on the contrary, the Lord told
     Murari to praise Him, and so too in Murari himself and in Karnapura.
 [^5]: Srila Bhaktisiddhanta does not identify this Prakashananda with Prabodhananda Sarasvati; see the article on
     Prabodhananda.
@@ -948,7 +958,8 @@ truths.” Vrindavana Dasa, Lochana Dasa and Kavi Karnapura wrote from his notes
 [^11]: Krishnadasa Kaviraja, Murari himself, Lochana Dasa and Karnapura place the “Ramashtaka” and the name “Ramadasa” in
     Navadvipa, before the sannyasa. According to the “Chaitanya-bhagavata” (Antya 4.315–344), the Lord had Murari
     recite the eight verses on Rama and blessed him to be Rama's servant in every birth after the sannyasa, in
-    Shantipura (see below). Perhaps Murari recited these verses before the Lord more than once.
+    Shantipura (see below). The primary sources do not reconcile this; one can only suppose that Murari recited these
+    verses before the Lord more than once.
 [^12]: One of the biographies writes that in Puri Murari and his wife fed the Lord with dishes they cooked themselves;
     the “Chaitanya-charitamrita” does not say this: according to it he sent the Lord dishes (Antya 10.121) and fed Him
     with purchased prasada (10.140). Of Murari's wife in Puri Krishnadasa Kaviraja says nothing.
