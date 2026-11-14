@@ -131,6 +131,128 @@ understood: “Shachi's son is the Lord Himself.” He hurried to the house of J
 Nimai in ecstasy, told the parents that their son was the God of gods, bade them keep this secret, and told Advaita of
 His pastimes (CM, Adi-khanda, pts. 4–5, vv. 398–403). <!-- F24 -->
 
+## After Gaya
+When Nimai Pandita returned from Gaya, where He had received initiation from Ishvara Puri, He could not be recognized:
+the proud conqueror of all the scholars of Navadvipa had become a devotee such as the world had never seen. Murari heard
+the news from Shriman Pandita. Having been with the Lord, Shriman told the Vaishnavas: “Seeing such extraordinary
+devotion to God in Him, I no longer consider Him a mere mortal. When He came to Himself, He said to us: ‘Let us meet
+tomorrow early in the morning in the house of Shuklambara. O Sadashiva and Murari Pandita, I want to reveal to you what
+My heart is pining for’” (CB, Madhya 1.68–70). In the morning, in the house of Shuklambara Brahmachari, there gathered
+“all the Lord's intimate associates, such as Sadashiva, Murari, Shriman and Shuklambara” (1.81), and with wonder and
+joy they saw Him weeping for Krishna. The biographies say that the Lord's wondrous transformations in Shuklambara's
+house were witnessed by Gadadhara, Sadashiva, Murari, Shrivasa and Shriman. <!-- F32 Q21 -->
+
+From then on Murari was always beside the Lord. He himself recalls that in the house of Shrivasa and Sri Rama the Lord
+sang and danced night after night, and with Him were Mukunda “and another vaidya” (“Kadacha” 2.2.5) — so, without
+naming himself, the author speaks of himself. <!-- F15 -->
+
+## The Boar in Murari's House
+The Lord loved Murari as Ramachandra loved Hanuman (CB, Madhya 3.19). And one day He came to his house Himself:
+
+“One day Vishvambhara heard a verse glorifying Lord Varaha, and with a thunderous roar He made for Murari's house.”
+(CB, Madhya 3.18)
+
+Varaha, the Boar, is the third of the Lord's ten principal descents. Murari at once rose and bowed before Him, while
+the Lord, approaching the house, kept crying, “Boar! Boar!” — and the astonished Murari looked about him (3.20–21).
+<!-- F33 Q8 F34 -->
+
+“Vishvambhara entered the Vishnu shrine and saw right before Him a beautiful pitcher full of water. At once Mahaprabhu
+assumed the form of Varaha and, taking the pitcher in His teeth, lifted it above His head. The holy boar roared loudly,
+and four tusks jutted from His mouth. The Lord commanded: ‘O Murari, offer Me prayers!’” (CB, Madhya 3.22–24)
+
+Murari himself, in his poem, relates that the Lord, resting on the ground on His knees and hands and filling
+everything with His roar, lifted a brass water-vessel on the tips of His tusks and said: “Describe My true form”
+(“Kadacha” 2.2.15–17); Lochana Dasa writes that He seized the brass vessel in His teeth, and Kavi Karnapura that He
+flung the pitcher aside with His tusks and commanded, “Describe Me!”[^4] Murari was struck dumb: he had never seen
+anything like it. “Speak, do not be afraid,” the Lord encouraged him. “All this time you did not suspect that I was
+here” (CB, Madhya 3.25–26). <!-- F34 F35 -->
+
+And Murari, trembling, began to speak of his own unworthiness:
+
+“O Lord, You alone know Your glory. Lord Ananta, who holds countless universes on each of His heads, ceaselessly praises
+You with His thousand mouths. And yet He admits that He cannot reach the limit of Your glory. Who, then, is able to
+glorify You fully? Even the Vedas, whose injunctions all must follow, do not know You as You are. <…> Therefore You
+alone know Yourself. All others can know You only when You Yourself wish to reveal Yourself to them.” (CB, Madhya
+3.27–33)
+
+Saying this, he burst into tears and bowed before the Lord (3.34); his life, he felt, had found its fulfilment. In
+Murari's own poem, in Lochana Dasa and in Karnapura, he answers the Lord in the words of the “Bhagavad-gita”: “You
+alone know Yourself by Yourself, O Supreme Person” (10.15). <!-- F36 -->
+
+His prayer satisfied the Lord, and He, angry at the Vedas, said:
+
+“‘The Vedas slander Me, claiming that I have no hands, feet, mouth or eyes. In Kashi lives a rogue named Prakashananda
+who hacks My body to pieces. He explains the Vedas, yet rejects My eternal form. Though leprosy has already covered his
+whole body, he still cannot understand his mistake.’” (CB, Madhya 3.36–38)
+
+The Lord has in mind such verses as the “Shvetashvatara Upanishad” (3.19): “Without hands and feet, He is swift and
+grasps; without eyes He sees, without ears He hears…” — and it is this verse, as Murari and Lochana tell it, that He
+recites, laughing: “The Veda does not know Me at all” (“Kadacha” 2.2.20–24). The denial of hands and feet to the Lord
+means only that He has no body of matter, but the Mayavadis, missing the true sense of such mantras, teach that the
+Lord has no form at all. Prakashananda Sarasvati was then the head of the sannyasis of Shankara's school in Kashi[^5];
+his doctrine — that the Lord's body is made of maya — is what the Lord calls “hacking His body to pieces”: “My body is
+perfectly pure and is the embodiment of all sacrifices. Therefore even such great personalities as Brahma and Shiva
+glorify it” (CB, Madhya 3.39). <!-- F37 Q9 -->
+
+“O Murari Gupta, listen to Me. I will tell you the essence of all teachings. I will reveal to you the secret knowledge
+of the Vedas. I am Varaha, the Lord of all holy sacrifices. I am the essence of the Vedas. It was I who delivered the
+Earth in ancient times. I have descended to begin the movement of sankirtana. For the sake of My devotees I will destroy
+all the wicked.” (CB, Madhya 3.41–43)
+
+Enmity toward His devotees, the Lord said, He would tolerate from no one — not even from His own son. Once, having
+raised the Earth from the waters, He begot a son by her, Naraka, and Himself instructed him in dharma; but, falling in
+with Bana, Naraka began to persecute the devotees, and the Lord slew him (3.44–50). “You serve Me life after life,” He
+concluded. “That is why I have revealed this secret to you” (3.51). The Lord's anger here is no worldly rage: it is the
+protection of His servants. Murari listened and could not hold back his tears and loud weeping (3.52), and Vrindavana
+Dasa exclaims: “Glory to Sri Gaurachandra and His eternal associate Murari! Glory to Varaha, the Lord of sacrifices
+and protector of the devotees!” (3.53) <!-- F38 -->
+
+Krishnadasa Kaviraja recalls this day in a single verse:
+
+“In Murari's house the Lord became absorbed in the mood of Varaha, and climbing onto Murari's shoulders, He danced in
+the courtyard.” (CC, Adi 17.19)[^6] <!-- F39 Q7 -->
+
+Lochana Dasa continues the story. When Murari, bowing down, asked, “Be merciful, Lord, grant me prema,” the Lord
+replied, “Love Me — that is prema for you,” and told him to worship Krishna, the son of Nanda, sapphire-hued, flute in
+hand, together with the daughter of Vrishabhanu, surrounded by the young beauties of Vraja. But Murari, falling at His
+feet, asked, “Let me see with my own eyes the form of Raghunatha,” and that very moment he saw Rama, dark as durva
+grass, with Lakshmana, Bharata and Shatrughna. He fell unconscious, and the Lord, touching him with His lotus hand,
+blessed him: “Be full of prema: you are Hanuman, and I am that same Ramachandra.” The next day, in Shrivasa's house,
+the Lord, still in the mood of the Boar, revealed to the devotees the glory of Krishna's holy name (CM, Madhya-khanda,
+pt. 1, vv. 84–136). In those same days, according to Lochana, the gods headed by Brahma came to the Lord and begged for
+Krishna-prema — and received it. <!-- F40 -->
+
+## Rebuke and Blessing
+Murari received another instruction from the Lord soon after this. All three poets who knew these pastimes — Murari
+himself, Lochana Dasa and Kavi Karnapura — relate that the Lord rebuked him for a song on the “Self” (adhyatma), that
+is, for a composition in the spirit of speculative knowledge, and told him to give it up for songs of Hari. As Murari
+tells it, the Lord first placed His foot on Mukunda's head and then said:
+
+“‘How is it, vaidya, that you composed a song on the doctrine of the Self? If you desire life or long for love of Hari,
+give up that song and compose a verse about Hari yourself.’” (“Kadacha” 2.4.22–23)
+
+Murari humbly asked for a command — that he might tell of the Lord's present descent — and the Lord, smiling, blessed
+him: “What this vaidya says will be the truth of truths” (2.4.24–26). So the rebuke turned into a blessing, to which
+we owe his book. <!-- F42 -->
+
+In Lochana the Lord tells Murari to give up his reasonings on the Self and worship Krishna surrounded by the gopis, and
+Murari tearfully begs for mercy: without it no one can conquer maya — neither Brahma, nor Shiva, nor Lakshmi, nor
+Ananta (CM, Madhya-khanda, pt. 3, vv. 64–80). Karnapura writes that the Lord told him to give up “spiritual”
+compositions and describe His feet, and when the physician Narayana asked for mercy on Murari, He blessed him:
+whatever Murari said would be flawless (“Chaitanya-charitamrita-mahakavya” 6.42–46). In the drama
+“Chaitanya-chandrodaya” it is Advaita who asks for mercy on him, and the Lord says that in Murari's mind there is as
+yet no rasa of bhakti, only contemplation of the “supreme Self”: he is still studying the “Vasishtha”; and then the
+Lord places His feet on the heads of Murari and Mukunda, and both pray to be made servants of the servants of His
+devotees (1.61–64). One of the biographies, retelling Lochana, puts it briefly: the Lord gave Murari His blessing.
+<!-- F42 F41 -->
+
+One should not think that Murari had “fallen” and the Lord raised him up. An eternal associate of the Lord takes on
+in His pastimes the role of one in need of instruction, so that all may hear the lesson: speculation on the Self, even
+the most exalted, does not give love for Krishna, while a word given to Hari becomes “the truth of truths.” Another
+time, while glorifying Advaita, the Lord forbade all the devotees to speak of the doctrine of the Self; Murari said, “I
+do not know it,” and the Lord, smiling, replied, “You do: you heard it from Kamalaksha,” that is, from Advaita
+(“Kadacha” 2.6.23–26). <!-- F42 -->
+
 [^1]: Radha (Rarh) is the region west of the Ganga. One of the biographies, retelling this verse, says that Nityananda
     was born in Radha, while Gangadasa, Murari and Mukunda were born “elsewhere”; the verse itself does not say so.
     Shrihatta is named by Vrindavana Dasa (CB, Adi 2.35) and, following him, by the biographies.
@@ -138,3 +260,11 @@ His pastimes (CM, Adi-khanda, pts. 4–5, vv. 398–403). <!-- F24 -->
     older.
 [^3]: One of the biographies cites the “Chaitanya-charitamrita” here; it has no verse saying this directly: it says only
     that the pastimes of the Adi-lila were recorded by Murari (Adi 13.15).
+[^4]: One of the biographies writes that the Lord lifted the pitcher “onto His nose”; according to the
+    “Chaitanya-bhagavata,” in His teeth (Madhya 3.23). Another biography says that in the form of the Boar the Lord
+    “began to praise Murari”; according to the “Chaitanya-bhagavata” (Madhya 3.24), on the contrary, the Lord told
+    Murari to praise Him, and so too in Murari himself and in Karnapura.
+[^5]: Srila Bhaktisiddhanta does not identify this Prakashananda with Prabodhananda Sarasvati; see the article on
+    Prabodhananda.
+[^6]: The account of the “Chaitanya-bhagavata” (Madhya 3) does not say that the Lord climbed onto Murari's shoulders;
+    on Murari's shoulders He also sat in the mood of Garuda (CB, Madhya 20.87).
