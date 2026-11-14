@@ -25,7 +25,7 @@ Who he is in Krishna's eternal pastimes, Kavi Karnapura tells us:
 (“Gaura-ganoddesha-dipika” 137)
 
 By the order of the names Govinda is Bhangura, and his godbrother Kashishvara is Bhringara; so Srila Bhaktisiddhanta
-Sarasvati, too, understands the verse in his “Anubhashya.” Bhangura is one of Krishna's serving boys (*cheta*) in Vraja.
+Sarasvati, too, cites the verse in his “Anubhashya.” Bhangura is one of Krishna's serving boys (*cheta*) in Vraja.
 The servant of Krishna descended into Gaura's pastimes together with the Lord to serve Him here as well; birth in a
 shudra family does not change his eternal nature.[^2] <!-- F3 Q8 -->
 
@@ -133,8 +133,8 @@ Ramai and Nandai, both servants of the Lord, served constantly alongside Govinda
 of water, and Nandai served as Govinda directed.” (CC, Adi 10.141–144) <!-- F16 -->
 
 According to one of the biographies, Govinda headed all who served the Lord in Puri: he served the Lord's meals, kept
-the stores and saw to everything else, while Kashishvara, Ramai and Nandai worked under his direction. Ramai and Nandai carried water and did
-other work; and they too had served Krishna before, in Vrindavana:
+the stores and saw to everything else, while Kashishvara, Ramai and Nandai worked under his direction. Ramai and Nandai
+carried water and did other work; and they too had served Krishna before, in Vrindavana:
 
 “The two, Payoda and Varida, who formerly prepared the water, are now the servants known as Ramai and Nandai.”
 (“Gaura-ganoddesha-dipika” 139)
@@ -166,8 +166,8 @@ north of the Lion Gate, behind a leaf of the gate, beneath the twenty-two steps,
 Chaitanya washed His feet and then went for darshan of Lord Jagannatha. Mahaprabhu instructed Govinda: ‘See that no one
 takes the water with which I wash My feet.’” (CC, Antya 16.40–43)
 
-In his drama Karnapura says: behind the Lord walks Govinda, watching over His “playful gait” (“Chaitanya-chandrodaya,” act 10,
-verse 41), and in his mahakavya he sees him with a water jug in hand beside Damodara. <!-- F18 Q9 -->
+In his drama Karnapura says: behind the Lord walks Govinda, watching over His “playful gait” (“Chaitanya-chandrodaya,”
+act 10, verse 41), and in his mahakavya he sees him with a water jug in hand beside Damodara. <!-- F18 Q9 -->
 
 Yet to Kalidasa, Raghunatha Dasa's uncle, the Lord, knowing his faith in the Vaishnavas, allowed three handfuls of this
 water, and only then stopped him: “That is enough — I have fulfilled your desire” (Antya 16.45–49). That same day,
@@ -244,10 +244,10 @@ Damodara led the Bengalis along the road while Gopinatha Acharya pointed them ou
 (“Gaura-krishnodaya” 11.37). And Vrindavana Dasa, among those who joyfully went out with the Lord to meet the Gaudiya
 devotees, names “Govinda, the Lord's faithful doorkeeper” (CB, Antya 8.56–61). <!-- F20 F60 -->
 
-He welcomed the Gaudiya devotees in other years too. In Karnapura's drama Svarupa and Govinda announce Shrikanta's
-arrival to the Lord, and the Lord sends Govinda with a prasada garland to meet the Bengalis; at the Ratha-yatra, when
-three rings of singers circle round the Lord, “Govinda, the most excellent,” is in the middle one (“Chaitanya-chandrodaya,”
-act 10, verse 46). And in the third year Govinda went to meet them alone:
+He welcomed the Gaudiya devotees in other years too. In Karnapura's drama Govinda tells Svarupa that Shrikanta has come,
+having left the Gaudiya devotees halfway, and the Lord sends Govinda with a prasada garland to meet the Bengalis; at the
+Ratha-yatra, when three rings of singers circle round the Lord, “Govinda, the most excellent,” is in the middle one
+(“Chaitanya-chandrodaya,” act 10, verse 46). And in the third year Govinda went to meet them alone:
 
 “Learning that the devotees had already reached the Atharanala bridge, Sri Chaitanya sent His servant Govinda to meet
 them with two garlands. Govinda adorned Advaita Acharya and Sri Nityananda with the flowering garlands, and both of Them
@@ -362,8 +362,8 @@ have given you.’ Saying this, Sri Chaitanya sat down. Then Govinda began to br
 had brought them.” (CC, Antya 10.116–117)
 
 Govinda named the givers one after another: here are the dishes of Advaita Acharya, here those of Shrivasa Pandita,
-Acharyaratna and Acharyanidhi, here those of Vasudeva Datta, Murari Gupta and Buddhimanta Khan, of Shrimana Sena,
-Shrimana Pandita and Nandana Acharya, here those of the people of Kulinagrama and Khanda (10.118–123). And the Lord with
+Acharyaratna and Acharyanidhi, here those of Vasudeva Datta, Murari Gupta and Buddhimanta Khan, of Shriman Sena,
+Shriman Pandita and Nandana Acharya, here those of the people of Kulinagrama and Khanda (10.118–123). And the Lord with
 delight ate everything that had accumulated over the month — food for a hundred people:
 
 “Though the coconut sweets, the drinks and the sweet balls had been kept for more than a month, by Sri Chaitanya's mercy
@@ -497,14 +497,14 @@ pleased (CC, Antya 12.37–38). And after the meal the Lord gave Govinda this in
 “‘As long as Shivananda Sena's wife and children stay here in the town, they must be given a plate of the remnants of
 My meal every day.’” (CC, Antya 12.53) <!-- F52 -->
 
-Jagadananda Pandita's gifts, too, passed through Govinda. He brought a jar of fragrant sandalwood oil from Gauda and left
-it with Govinda; Govinda told the Lord that the oil was a remedy for disorders of bile and wind. The Lord told him to give
-it to the temple for the lamps; ten days later Govinda reminded Him again, and the Lord, strictly keeping the rules of sannyasa,
-answered in anger that for this He would have to hire a masseur — and Govinda fell silent (CC, Antya 12.104–115). When Jagadananda, having broken the jar,
-stopped eating, the Lord Himself came to him and asked him to cook Him a meal; after eating, the Lord left Govinda
-behind to tell Him whether Jagadananda had eaten. Jagadananda sent Govinda to massage the Lord's feet, fed Ramai,
-Raghunatha Bhatta, Govinda and Nandai, and himself ate the Lord's remnants; Govinda reported this — and the Lord fell
-asleep (12.144–151). <!-- F53 Q11 -->
+Jagadananda Pandita's gifts, too, passed through Govinda. He brought a jar of fragrant sandalwood oil from Gauda and
+left it with Govinda; Govinda told the Lord that the oil was a remedy for disorders of bile and wind. The Lord told him
+to give it to the temple for the lamps; ten days later Govinda reminded Him again, and the Lord, strictly keeping the
+rules of sannyasa, answered in anger that for this He would have to hire a masseur — and Govinda fell silent (CC, Antya
+12.104–115). When Jagadananda, having broken the jar, stopped eating, the Lord Himself came to him and asked him to cook
+Him a meal; after eating, the Lord left Govinda behind to tell Him whether Jagadananda had eaten. Jagadananda sent
+Govinda to massage the Lord's feet, fed Ramai, Raghunatha Bhatta, Govinda and Nandai, and himself ate the Lord's
+remnants; Govinda reported this — and the Lord fell asleep (12.144–151). <!-- F53 Q11 -->
 
 Another time Jagadananda made a quilt and a pillow for the Lord, gave them to Govinda and asked Svarupa to persuade the
 Lord to lie on them:
@@ -530,10 +530,10 @@ books. Srinivasa is the embodiment of My pure prema; seeing him, all will rejoic
 
 ## In Other Original Sources
 Vrindavana Dasa Thakura, opening chapters of the “Chaitanya-bhagavata,” more than once glorifies the Lord as “the Master
-of the doorkeeper Govinda” (CB, Adi 10.2, 13.2; Madhya 6.6; Antya 7.5) — the doorkeeper who guards the Lord's rest; Srila Bhaktisiddhanta in his
-“Gaudiya-bhashya” explains that Sri Govinda guarded the Lord's chambers and was always at His door. In
-the Antya-khanda “the supremely fortunate servant Govinda” informs the Lord that Vaishnavas are waiting at the door and,
-with His permission, lets them in (CB, Antya 9.195–196).[^12] <!-- F59 F66 -->
+of the doorkeeper Govinda” (CB, Adi 10.2, 13.2; Madhya 6.6; Antya 7.5) — the doorkeeper who guards the Lord's rest;
+Srila Bhaktisiddhanta in his “Gaudiya-bhashya” explains that Sri Govinda guarded the Lord's chambers and was always at
+His door. In the Antya-khanda “the supremely fortunate servant Govinda” informs the Lord that Vaishnavas are waiting at
+the door and, with His permission, lets them in (CB, Antya 9.195–196).[^12] <!-- F59 F66 -->
 
 Karnapura in his mahakavya shows him in many scenes: with Kashishvara and Kashi Mishra he drinks in the Lord's dance with
 his eyes (16.33); after the bath he offers the Lord fresh clothing (17.43–52); in the evening the Lord goes with him once
@@ -573,8 +573,8 @@ that after this he did not live long.[^14] When and how he entered the Lord's et
 is not worldly grief but the separation of an eternal servant from his Master, that same vipralambha in which Mahaprabhu
 spent His last years. <!-- F57 -->
 
-The memory of his service was kept by later generations. According to one of the biographies, Gopala Guru as a child
-served Mahaprabhu under Govinda's direction;[^15] and the “Bhakti-ratnakara” tells how Gopala Guru, showing Narottama the
+The memory of his service was kept by later generations. According to one of the biographies, Gopala-guru as a child
+served Mahaprabhu under Govinda's direction;[^15] and the “Bhakti-ratnakara” tells how Gopala-guru, showing Narottama the
 house of Kashi Mishra, said: “Here Mahaprabhu slept, and Sri Govinda massaged His feet” (8.382–392). <!-- F58 -->
 
 ## Significance
