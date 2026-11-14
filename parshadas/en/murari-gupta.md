@@ -606,6 +606,92 @@ Madhya-khanda, pt. 19, vv. 19–21). A song signed “Murari” tells how the pe
 them all walks Murari.” Lochana Dasa also names Murari among the Lord's companions on the way to Nilachala and writes
 that he danced with the Lord in Jagannatha's temple (pt. 20, vv. 82–83 and after)[^10]. <!-- F79 -->
 
+## The Servant of Rama
+Through Murari the Lord taught one more thing — fidelity to one's chosen Deity, the ishta-deva. Murari, Hanuman in the
+pastimes of Gaura, saw in Sri Chaitanya his own Ramachandra, and the Lord not only did not take this fidelity from him
+but glorified it. <!-- F87 -->
+
+Once, still in Navadvipa, the Lord asked Murari to recite “that poem of yours” — eight verses on Rama. Murari recited:
+
+“His eyes are like lotuses awakened by the rays of the rising sun; His lips are like ripe bimba fruit, His nose is
+lovely; His charming smile outshines the moonbeams. Rama, the teacher of the three worlds, I worship ever.” (“Kadacha”
+2.7.11)
+
+Having heard these eight verses, the Lord placed His foot on the head of Murari the physician and wrote on his
+forehead: “You are Ramadasa,” that is, “servant of Rama,” and added: “Be so by My grace!” (“Kadacha” 2.7.9–18). Next to
+this Murari tells how the Lord at that same time also explained the name of Shrivasa. Krishnadasa Kaviraja recalls it in
+one verse:
+
+“Hearing from Murari Gupta the glories of Rama, the Lord wrote the name ‘Ramadasa’ on his forehead.” (CC, Adi 17.69)
+
+Karnapura tells it the same way (“Chaitanya-charitamrita-mahakavya” 6.98–101), while in Lochana Dasa Murari recites the
+“Raghuvira-ashtaka,” and the Lord, revealing to him the form of Rama with Sita, tells him to relish also the rasa of
+Radhanatha[^11]. <!-- F43 Q11 -->
+
+Many years later, in Puri, the Lord, tenderly embracing Murari, told the devotees how He had tested his fidelity to Rama
+(CC, Madhya 15.137). In the past, He said, He had again and again urged Murari to worship Krishna: “Gupta, the highest
+sweetness is found in the son of Maharaja Nanda. Sri Krishna is the original source of all incarnations, the abode of
+pure love and the reservoir of all rasas; nothing can so captivate and charm the mind as the worship of Krishna”
+(15.138–142). Murari, hearing this, gradually yielded to His influence and promised: “I am Your servant, dependent on
+You in all things. I will do whatever You tell me” (15.143–144). <!-- F88 -->
+
+“He went home and thought about it all night. The very thought that he would have to give up the worship of
+Ramachandra threw him into great turmoil. ‘If I ever resolve to give up the service of Ramachandra's lotus feet, then,
+Lord, I pray, take my life that very night!’ So he wept all night, unable to sleep for the anxiety that seized him.”
+(CC, Madhya 15.145–147)
+
+In the morning Murari came to the Lord, fell at His feet and, sobbing, implored Him:
+
+“‘I have sold my whole self to the feet of Raghunatha. The thought of leaving Him gives me unbearable pain, as if I were
+trying to cut off my own head. I can neither give up the service of Sri Ramachandra's lotus feet nor disobey You. What
+am I to do now? O merciful Master! Be merciful to me and let me die right now, and so put an end to all my doubts.’”
+(CC, Madhya 15.149–151) <!-- F88 F89 Q15 -->
+
+These words, the Lord said, filled His heart with great joy; He raised Murari and tenderly embraced him (15.152):
+
+“I said to him: ‘O Gupta! How great you are! You are so deeply absorbed in the worship of your Lord that even My words
+could not move you. Such is a servant's true love for the feet of the Lord who dwells eternally in his heart. Even if
+the Lord should wish to abandon His servant, the servant will never give up the service of His feet. And to test your
+faith in your Lord I again and again tried to change your worship of Him. You are the servant of Sri Ramachandra,
+Hanuman himself. How could you give up the worship of His lotus feet?’” (CC, Madhya 15.153–156)
+
+“Murari Gupta is as dear to Me as My own life,” the Lord concluded (15.157). <!-- F90 -->
+
+This is neither stubbornness nor disobedience. The test was arranged by the Lord Himself to reveal to the world the
+eternal nishtha of Hanuman, the eternal servant of Rama, and He Himself called it “a servant's true love.” Murari does
+not dispute that Krishna is the source of all avataras: he promises to worship Krishna and only cannot tear himself
+from Rama's feet. Rama and Krishna are not rivals: in Gaura Murari sees his own Ramachandra, and Advaita, having heard
+his book, will say to him: “This Sri Rama has appeared in the world as Gaura” (“Kadacha” 4.26.26). Without special
+devotion to one's ishta-deva one cannot advance in bhakti, and the Lord, who Himself had tested Murari, was pleased with
+his steadfastness. <!-- F90 I4 -->
+
+There is a verse by which, as tradition holds, Hanuman himself became famous:
+
+“The Husband of Shri and the Husband of Janaki are one Supreme Soul, without difference; and yet my all is the
+lotus-eyed Rama” (*shri-nathe janaki-nathe chabhede paramatmani / tathapi mama sarvasvo ramah kamala-lochanah*).
+<!-- F91 Q16 -->
+
+With the same test the Lord later tried Anupama, the younger brother of Rupa and Sanatana and father of Srila Jiva:
+Anupama was likewise devoted to Rama and, however his brothers urged him, could not give up His worship. When Sanatana
+told of this, the Lord remembered Murari:
+
+“Sri Chaitanya replied: ‘Before this I tested Murari Gupta in the same way. Glorious is the devotee who under no
+circumstances abandons the shelter of the Lord's lotus feet, and glorious is the Lord who never abandons a servant
+surrendered to Him.’” (CC, Antya 4.45–46) <!-- F92 Q17 I4 -->
+
+## Physician of Body and Soul
+Murari was a physician by birth and by calling — and his healing too was service. Krishnadasa Kaviraja says:
+
+“He accepted no gifts and took no one's money, but supported his family by his own calling. All whom he treated with
+kindness were freed from both diseases — the disease of the body and the disease of worldly existence.” (CC, Adi
+10.50–51)
+
+He treated everyone who came to him — both body and soul. That is why Vrindavana Dasa calls him one who “could heal the
+soul of the disease of worldliness” (CB, Adi 2.35) and “a mighty doctor who cured the disease of material life”
+(Antya 8.33). A physician who takes neither fee nor gifts does not heal for gain: his medicine is mercy, and the true
+healing he gives is release from the disease of worldly existence, forgetfulness of Krishna. It is no accident that the
+Lord too, when He wished to show His love for him, came to him as a patient comes to a physician. <!-- F63 Q14 I6 F9 -->
+
 [^1]: Radha (Rarh) is the region west of the Ganga. One of the biographies, retelling this verse, says that Nityananda
     was born in Radha, while Gangadasa, Murari and Mukunda were born “elsewhere”; the verse itself does not say so.
     Shrihatta is named by Vrindavana Dasa (CB, Adi 2.35) and, following him, by the biographies.
@@ -633,3 +719,7 @@ that he danced with the Lord in Jagannatha's temple (pt. 20, vv. 82–83 and aft
     Jagadananda, Damodara and Mukunda; Murari first came to Puri only later, with the devotees of Gauda (Madhya 11).
     Nor do the later traditions in which Murari meets the Lord at Alalanatha on His return from the south agree with
     the original sources.
+[^11]: Krishnadasa Kaviraja, Murari himself, Lochana Dasa and Karnapura place the “Ramashtaka” and the name “Ramadasa” in
+    Navadvipa, before the sannyasa. According to the “Chaitanya-bhagavata” (Antya 4.315–344), the Lord had Murari
+    recite the eight verses on Rama and blessed him to be Rama's servant in every birth after the sannyasa, in
+    Shantipura (see below). Perhaps Murari recited these verses before the Lord more than once.
