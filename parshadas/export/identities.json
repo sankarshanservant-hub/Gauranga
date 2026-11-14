@@ -1231,6 +1231,31 @@
   ]
  },
  {
+  "person": "@shivananda-sena",
+  "in": "krishna-lila",
+  "as": "Вира-дути, посланница, приводившая гопи к Кришне",
+  "source": "ГГД 176",
+  "level": "A",
+  "facts": [
+   "F2"
+  ]
+ },
+ {
+  "person": "@shivananda-sena",
+  "in": "tattva",
+  "as": "ветвь древа Шри Чайтаньи, «ближайший слуга» Господа; вкусил все три вида Его милости — сакшат, авешу и авирбхаву",
+  "source": "ЧЧ Ади 10.54–63",
+  "level": "A",
+  "facts": [
+   "F1",
+   "F8",
+   "F48"
+  ],
+  "events": [
+   "ev-tattva-bhakti-kalpataru"
+  ]
+ },
+ {
   "person": "@shridhara",
   "in": "krishna-lila",
   "as": "Кусумасава, шутник во Врадже",

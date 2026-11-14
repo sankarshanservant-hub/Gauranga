@@ -4306,6 +4306,10 @@
     "type": "son"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "companion"
+   },
+   {
     "from": "@shridhara",
     "type": "companion"
    },
@@ -10935,6 +10939,10 @@
     "type": "other"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "other"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "other"
    },
@@ -12310,6 +12318,10 @@
     "type": "guru"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "other"
+   },
+   {
     "from": "@shridhara",
     "type": "other"
    },
@@ -13352,6 +13364,10 @@
     "type": "other"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -14339,6 +14355,10 @@
     "type": "other"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "neighbor"
+   },
+   {
     "from": "@shridhara",
     "type": "other"
    },
@@ -15226,6 +15246,10 @@
     "type": "guest"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "companion"
+   },
+   {
     "from": "@shridhara",
     "type": "other"
    },
@@ -16057,6 +16081,10 @@
    {
     "from": "@raghunandana",
     "type": "guru"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
    },
    {
     "from": "@srinivasa-acharya",
@@ -17515,6 +17543,10 @@
    {
     "from": "@shachi",
     "type": "guest"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
    },
    {
     "from": "@srivasa",
@@ -19605,6 +19637,10 @@
     "type": "companion"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -19809,6 +19845,10 @@
    {
     "from": "@ramananda-raya",
     "type": "ruler-of"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
    },
    {
     "from": "@shridhara",
@@ -20780,6 +20820,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
    },
    {
     "from": "@shridhara-maharaja",
@@ -24296,6 +24340,10 @@
     "type": "other"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "protege"
+   },
+   {
     "from": "@shridhara",
     "type": "other"
    },
@@ -24737,6 +24785,10 @@
     "type": "companion"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "other"
+   },
+   {
     "from": "@shridhara-maharaja",
     "type": "other"
    }
@@ -25050,6 +25102,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "met"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
    }
   ]
  },
@@ -25443,6 +25499,10 @@
    },
    {
     "from": "@raghunatha-dasa",
+    "type": "other"
+   },
+   {
+    "from": "@shivananda-sena",
     "type": "other"
    },
    {
@@ -25893,6 +25953,10 @@
     "type": "guest"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "friend"
+   },
+   {
     "from": "@srivasa",
     "type": "friend"
    }
@@ -26081,6 +26145,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@shivananda-sena",
     "type": "other"
    },
    {
@@ -27918,6 +27986,225 @@
    "ev-jagadananda-sandal-oil",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Вира-дути, посланница, приводившая гопи к Кришне (ГГД 176) и др.; гуру — Шринатха Чакраварти (Ачарья); происхождение — Кумарахатта (Халисахар)",
+  "card": "parshadas/cards/shivananda-sena.yaml",
+  "article": {
+   "ru": "parshadas/ru/shivananda-sena.md",
+   "en": "parshadas/en/shivananda-sena.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "годы, титхи и место явления неизвестны (B 788; T 76); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-14) дня явления нет",
+    "facts": [
+     "F5",
+     "F60"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "годы, титхи и место ухода неизвестны (B 788; T 76); в календаре Шри Чайтанья Сарасват Матха (541/ru, проверено 2026-11-14) дня ухода нет; самадхи источники не называют",
+    "facts": [
+     "F5",
+     "F60"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "пады о Гауре: «হোলি খেলত গৌরকিশোর» (БР), «দয়াময় গৌরহরি…» (ГПТ1), «জয় জয় পণ্ডিত গোসাঞি» (ПК 2355), «সোণার বরণ গোরা…» (ПК 2127); по Маджумдару — при жизни Господа",
+    "facts": [
+     "F22"
+    ]
+   },
+   {
+    "title": "пада «অখিল ভুবন ভরি…» (ГПТ1 № 25, подпись «দাস শিবানন্দ») — авторство не ясно",
+    "facts": [
+     "F23"
+    ]
+   },
+   {
+    "title": "стих о Нитьянанде, приведённый сыном в ГГД 63 («так говорил мой отец, танцуя»)",
+    "facts": [
+     "F24"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Вира-дути, посланница, приводившая гопи к Кришне",
+    "source": "ГГД 176",
+    "level": "A"
+   },
+   {
+    "in": "tattva",
+    "as": "ветвь древа Шри Чайтаньи, «ближайший слуга» Господа; вкусил все три вида Его милости — сакшат, авешу и авирбхаву",
+    "source": "ЧЧ Ади 10.54–63",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Ближайший слуга (ЧЧ Ади 10.54); «с самого начала Я знал твою любовь» (ЧЧ Мадхья 11.149); Господь, пленённый его любовью, приходил к нему снова и снова (ЧЧ Антья 2.82); принял всю его семью как Свою (ЧЧ Антья 12.51); велел каждый год водить преданных (Мадхья 15.97)."
+   },
+   {
+    "type": "son",
+    "who": "@chaitanya-dasa-shivananda-son",
+    "note": "Старший сын; шёл с родителями в Пури на третий год (ЧЧ Мадхья 16.23); пир с рисом и йогуртом (ЧЧ Антья 10.148–151); по «Анубхашье» — комментатор «Кришна-карнамриты»; ГГД 145 — попугай Дакша или Вичакшана."
+   },
+   {
+    "type": "son",
+    "who": "@ramadasa-shivananda-son",
+    "note": "Средний сын (ЧЧ Ади 10.62; ГГД 145)."
+   },
+   {
+    "type": "son",
+    "who": "@kavi-karnapura",
+    "note": "Младший сын Парамананда Дас (Пури Дас), рождённый по слову Господа; Господь дал ему пососать палец Своей стопы; в семь лет сложил стих (ЧЧ Антья 12, 16); в ГГД (4, 63, 172, 176) пишет об отце."
+   },
+   {
+    "type": "nephew",
+    "who": "@shrikanta-sena",
+    "note": "Сын сестры (ЧЧ Ади 10.63; «Анубхашья»); принёс весть Господа о приходе в пауше; огорчённый ударом Нитьянанды, ушёл вперёд к Господу; ГГД 174 — Катьяяни."
+   },
+   {
+    "type": "nephew",
+    "who": "@shrivallabha-sena",
+    "note": "Сын сестры (ЧЧ Ади 10.63; «Анубхашья»)."
+   },
+   {
+    "type": "guru",
+    "who": "@srinatha-chakravarti",
+    "note": "По B 779 — родовой гуру-жрец Шивананды и дикша-гуру Кави Карнапуры, жил в Канчрапаре; T 193 — Шринатх Чакраварти, подветвь Адвайты; ГГД 3, 210–211; ЧЧН 10 — юный Шринатха идёт в Пури с Адвайтой, «оставив общество Шивананды»."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "По пути в Пури Нитьянанда, голодный и без ночлега, в притворном гневе «проклял» его сыновей и пнул его; Шивананда счёл это милостью и прославил Его (ЧЧ Антья 12.17–33) — ⚠Б2."
+   },
+   {
+    "type": "friend",
+    "who": "@vasudeva-datta",
+    "note": "Близкий друг и сосед в Кумарахатте; Господь назначил Шивананду его «сархелом» (ЧЧ Мадхья 15.93–96); вместе пришли к Господу в доме Шривасы (ЧБ Антья 5.18)."
+   },
+   {
+    "type": "neighbor",
+    "who": "@srivasa",
+    "note": "Шриваса после санньясы Господа поселился в Кумарахатте; в его доме Шивананда встречал Господа (ЧБ Антья 5); вместе назначали день выхода в Пури (Махакавья 14)."
+   },
+   {
+    "type": "protege",
+    "who": "@jagadananda-pandita",
+    "note": "По «Према-виварте» 8 — Шивананда учил его в детстве и привёл к Господу, «защитник в счастье и в беде»; Джагадананда жил в его доме, украсил путь Господа к нему (ЧЧН 9), ждал с ним Господа в пауше, взял из его дома сандаловое масло."
+   },
+   {
+    "type": "met",
+    "who": "@nakula-brahmachari",
+    "note": "Испытал Накулу, в которого вошёл Господь, и тот назвал его мантру Гаура-Гопалы (ЧЧ Антья 2.22–32) — ⚠Б3, ⚠Б7."
+   },
+   {
+    "type": "other",
+    "who": "@nrisimhananda",
+    "note": "Нрисимхананда «привёл» Господа в его дом и приготовил три подношения из его припасов; сомнение Шивананды рассеял Господь (ЧЧ Антья 2.48–78)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Шивананда вёл в Пури преданных во главе с Адвайтой; Адвайта через слугу велит ему назначить день выхода (ЧЧН 10; «Адвайта-пракаша» 18)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Отец Рагхунатхи искал сына через Шивананду; Шивананда рассказал о его отречении и привёз в Пури слуг, брахмана и деньги (ЧЧ Антья 6); его слова о Рагхунатхе — в ЧЧН 10.3–4."
+   },
+   {
+    "type": "other",
+    "who": "@govardhana-majumdar",
+    "note": "Посылал к нему людей с письмом, затем слуг, брахмана и четыреста монет для сына (ЧЧ Антья 6.180, 6.259)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Объяснил Господу молчание Пури Даса (ЧЧ Антья 16.70–72)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Поправил Шриканту; по велению Господа давал семье Шивананды Его остатки (ЧЧ Антья 12.37, 12.53)."
+   },
+   {
+    "type": "companion",
+    "who": "@murari-gupta",
+    "note": "Пришёл вместе с ним, когда впервые увидел Господа (Махакавья 13.127)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-sarakara",
+    "note": "Жители Кханды во главе с Нарахари ходили в Пури с Шиванандой (ЧЧ Мадхья 1.132)."
+   },
+   {
+    "type": "other",
+    "who": "@vasu-ghosha",
+    "note": "Ходил с братьями в Пури с Шиванандой (B 193)."
+   },
+   {
+    "type": "neighbor",
+    "who": "@bhagavan-acharya",
+    "note": "Хромой Бхагаван Ачарья жил в Кумарахатте (B 779; T 73)."
+   },
+   {
+    "type": "other",
+    "who": "@ishvara-puri",
+    "note": "Кумарахатта — место явления Ишвары Пури, Чайтанья-доба (B 779; T 72)."
+   },
+   {
+    "type": "other",
+    "who": "@saranga-thakura",
+    "note": "Шивананда не принимал отождествления Саранги с Прахладой (ГГД 172)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Пады Шивананды о Гададхаре (ПК 2355) и о холи Гауры с Гададхаром (БР)."
+   },
+   {
+    "type": "other",
+    "who": "@yamunacharya",
+    "note": "Прочёл перед Господом стих «Стотра-ратны» (21) (ЧЧ Мадхья 11.151; ЧЧН 8.41)."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-acharya",
+    "note": "Показал его царю с крыши дворца (ЧЧ Мадхья 11.87)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Видел его среди бенгальских преданных (ЧЧ Мадхья 11.87)."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Не застал в пути гаудиев во главе с Шиванандой (ЧЧ Антья 1.37–39; B 308)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-gopala-kanchrapara",
+    "note": "Установил Божество Гаура-Гопалы; ныне — в храме Шри Кришна-раи в Канчрапаре (B 779; T 76) (⚠11)."
+   }
+  ],
   "related_by": [
    {
     "from": "@ishvara-puri",
@@ -28718,6 +29005,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -29227,6 +29518,12 @@
    "ev-gauda-devotees-yearly-visit",
    "ev-nakula-brahmachari",
    "ev-tattva-three-ways-deliverance"
+  ],
+  "related_by": [
+   {
+    "from": "@shivananda-sena",
+    "type": "met"
+   }
   ]
  },
  {
@@ -29253,6 +29550,12 @@
    "ev-nityananda-kicks-shivananda",
    "ev-sarvabhauma-to-varanasi",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@shivananda-sena",
+    "type": "nephew"
+   }
   ]
  },
  {
@@ -29432,6 +29735,10 @@
    {
     "from": "@saranga-thakura",
     "type": "other"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "son"
    },
    {
     "from": "@sundarananda",
@@ -41933,6 +42240,10 @@
     "type": "other"
    },
    {
+    "from": "@shivananda-sena",
+    "type": "neighbor"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "friend"
    }
@@ -44106,6 +44417,12 @@
     "who": "@vrindavana-dasa",
     "note": "Место рождения Вриндавана даса — рядом, в Модадрума-двипе."
    }
+  ],
+  "related_by": [
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
+   }
   ]
  },
  {
@@ -45455,6 +45772,12 @@
    "ev-gauda-devotees-come-with-wives",
    "ev-chaitanya-dasa-feast",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@shivananda-sena",
+    "type": "son"
+   }
   ]
  },
  {
@@ -45468,6 +45791,12 @@
   ],
   "events": [
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@shivananda-sena",
+    "type": "son"
+   }
   ]
  },
  {
@@ -45481,6 +45810,12 @@
   ],
   "events": [
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@shivananda-sena",
+    "type": "nephew"
+   }
   ]
  },
  {
@@ -46425,6 +46760,10 @@
    {
     "from": "@advaita",
     "type": "disciple"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "guru"
    }
   ]
  },
@@ -46520,6 +46859,10 @@
    {
     "from": "@raghunatha-dasa",
     "type": "father"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
    }
   ]
  },
@@ -50172,6 +50515,10 @@
    {
     "from": "@ramanujacharya",
     "type": "guru"
+   },
+   {
+    "from": "@shivananda-sena",
+    "type": "other"
    }
   ]
  },
@@ -50861,6 +51208,21 @@
    {
     "from": "@prabodhananda-sarasvati",
     "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@gaura-gopala-kanchrapara",
+  "ru": "Гаура-Гопала — Божество Шивананды Сены (Канчрапара)",
+  "en": "Gaura-Gopala, the Deity of Shivananda Sena (Kanchrapara)",
+  "note": "установлен Шиванандой Сеной; ныне в храме Шри Кришна-раи в Канчрапаре (B 779; T 76); не путать с Гаура-Гопалой Джагадиши в #jashra",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@shivananda-sena",
+    "type": "deity-served"
    }
   ]
  }

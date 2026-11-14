@@ -14565,6 +14565,412 @@
   "note": "Благословила его во сне (F65)."
  },
  {
+  "from": "@shivananda-sena",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F27",
+   "F32",
+   "F48",
+   "F49",
+   "F55",
+   "F64",
+   "F65",
+   "F66",
+   "F69",
+   "I5"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri",
+   "ev-gauda-journey-ganga-villages",
+   "ev-nrisimhananda-three-offerings",
+   "ev-karnapura-child-mercy",
+   "ev-chaitanya-dasa-feast",
+   "ev-avirbhava-four-places"
+  ],
+  "note": "Ближайший слуга (ЧЧ Ади 10.54); «с самого начала Я знал твою любовь» (ЧЧ Мадхья 11.149); Господь, пленённый его любовью, приходил к нему снова и снова (ЧЧ Антья 2.82); принял всю его семью как Свою (ЧЧ Антья 12.51); велел каждый год водить преданных (Мадхья 15.97)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "son",
+  "who": "@chaitanya-dasa-shivananda-son",
+  "facts": [
+   "F6",
+   "F31",
+   "F69"
+  ],
+  "events": [
+   "ev-gauda-devotees-come-with-wives",
+   "ev-chaitanya-dasa-feast"
+  ],
+  "note": "Старший сын; шёл с родителями в Пури на третий год (ЧЧ Мадхья 16.23); пир с рисом и йогуртом (ЧЧ Антья 10.148–151); по «Анубхашье» — комментатор «Кришна-карнамриты»; ГГД 145 — попугай Дакша или Вичакшана."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "son",
+  "who": "@ramadasa-shivananda-son",
+  "facts": [
+   "F6"
+  ],
+  "note": "Средний сын (ЧЧ Ади 10.62; ГГД 145)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "son",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F6",
+   "F16",
+   "F24",
+   "F25",
+   "F64",
+   "F65",
+   "F66",
+   "F67",
+   "F68",
+   "F73"
+  ],
+  "events": [
+   "ev-karnapura-child-mercy"
+  ],
+  "note": "Младший сын Парамананда Дас (Пури Дас), рождённый по слову Господа; Господь дал ему пососать палец Своей стопы; в семь лет сложил стих (ЧЧ Антья 12, 16); в ГГД (4, 63, 172, 176) пишет об отце."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "nephew",
+  "who": "@shrikanta-sena",
+  "facts": [
+   "F7",
+   "F49",
+   "F62"
+  ],
+  "events": [
+   "ev-nrisimhananda-three-offerings",
+   "ev-nityananda-kicks-shivananda"
+  ],
+  "note": "Сын сестры (ЧЧ Ади 10.63; «Анубхашья»); принёс весть Господа о приходе в пауше; огорчённый ударом Нитьянанды, ушёл вперёд к Господу; ГГД 174 — Катьяяни."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "nephew",
+  "who": "@shrivallabha-sena",
+  "facts": [
+   "F7"
+  ],
+  "note": "Сын сестры (ЧЧ Ади 10.63; «Анубхашья»)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "guru",
+  "who": "@srinatha-chakravarti",
+  "facts": [
+   "F9"
+  ],
+  "note": "По B 779 — родовой гуру-жрец Шивананды и дикша-гуру Кави Карнапуры, жил в Канчрапаре; T 193 — Шринатх Чакраварти, подветвь Адвайты; ГГД 3, 210–211; ЧЧН 10 — юный Шринатха идёт в Пури с Адвайтой, «оставив общество Шивананды»."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@nityananda",
+  "facts": [
+   "F56",
+   "F57",
+   "F58",
+   "F59",
+   "F61",
+   "I3"
+  ],
+  "events": [
+   "ev-nityananda-kicks-shivananda"
+  ],
+  "note": "По пути в Пури Нитьянанда, голодный и без ночлега, в притворном гневе «проклял» его сыновей и пнул его; Шивананда счёл это милостью и прославил Его (ЧЧ Антья 12.17–33) — ⚠Б2."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "friend",
+  "who": "@vasudeva-datta",
+  "facts": [
+   "F15",
+   "F17",
+   "F18",
+   "F21",
+   "F32"
+  ],
+  "events": [
+   "ev-kulinagrama-glory",
+   "ev-gauda-journey-ganga-villages"
+  ],
+  "note": "Близкий друг и сосед в Кумарахатте; Господь назначил Шивананду его «сархелом» (ЧЧ Мадхья 15.93–96); вместе пришли к Господу в доме Шривасы (ЧБ Антья 5.18)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "neighbor",
+  "who": "@srivasa",
+  "facts": [
+   "F14",
+   "F15",
+   "F17",
+   "F21"
+  ],
+  "events": [
+   "ev-gauda-journey-ganga-villages"
+  ],
+  "note": "Шриваса после санньясы Господа поселился в Кумарахатте; в его доме Шивананда встречал Господа (ЧБ Антья 5); вместе назначали день выхода в Пури (Махакавья 14)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "protege",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F18",
+   "F26",
+   "F49",
+   "F50",
+   "F74"
+  ],
+  "events": [
+   "ev-shivananda-raises-jagadananda",
+   "ev-nrisimhananda-three-offerings",
+   "ev-jagadananda-sandal-oil"
+  ],
+  "note": "По «Према-виварте» 8 — Шивананда учил его в детстве и привёл к Господу, «защитник в счастье и в беде»; Джагадананда жил в его доме, украсил путь Господа к нему (ЧЧН 9), ждал с ним Господа в пауше, взял из его дома сандаловое масло."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "met",
+  "who": "@nakula-brahmachari",
+  "facts": [
+   "F43",
+   "F44",
+   "F45",
+   "F46",
+   "F47"
+  ],
+  "events": [
+   "ev-nakula-brahmachari"
+  ],
+  "note": "Испытал Накулу, в которого вошёл Господь, и тот назвал его мантру Гаура-Гопалы (ЧЧ Антья 2.22–32) — ⚠Б3, ⚠Б7."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@nrisimhananda",
+  "facts": [
+   "F51",
+   "F52",
+   "F53",
+   "F54",
+   "F55"
+  ],
+  "events": [
+   "ev-nrisimhananda-three-offerings"
+  ],
+  "note": "Нрисимхананда «привёл» Господа в его дом и приготовил три подношения из его припасов; сомнение Шивананды рассеял Господь (ЧЧ Антья 2.48–78)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F27",
+   "F33",
+   "F50"
+  ],
+  "events": [
+   "ev-gauda-devotees-yearly-visit",
+   "ev-gauda-devotees-set-out-puri"
+  ],
+  "note": "Шивананда вёл в Пури преданных во главе с Адвайтой; Адвайта через слугу велит ему назначить день выхода (ЧЧН 10; «Адвайта-пракаша» 18)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F70",
+   "F71",
+   "F72",
+   "F73"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-escape",
+   "ev-raghunatha-dasa-joins-lord"
+  ],
+  "note": "Отец Рагхунатхи искал сына через Шивананду; Шивананда рассказал о его отречении и привёз в Пури слуг, брахмана и деньги (ЧЧ Антья 6); его слова о Рагхунатхе — в ЧЧН 10.3–4."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@govardhana-majumdar",
+  "facts": [
+   "F70",
+   "F71",
+   "F72"
+  ],
+  "events": [
+   "ev-raghunatha-dasa-escape",
+   "ev-raghunatha-dasa-joins-lord"
+  ],
+  "note": "Посылал к нему людей с письмом, затем слуг, брахмана и четыреста монет для сына (ЧЧ Антья 6.180, 6.259)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F66"
+  ],
+  "events": [
+   "ev-karnapura-child-mercy"
+  ],
+  "note": "Объяснил Господу молчание Пури Даса (ЧЧ Антья 16.70–72)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F62",
+   "F65"
+  ],
+  "events": [
+   "ev-nityananda-kicks-shivananda",
+   "ev-karnapura-child-mercy"
+  ],
+  "note": "Поправил Шриканту; по велению Господа давал семье Шивананды Его остатки (ЧЧ Антья 12.37, 12.53)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "companion",
+  "who": "@murari-gupta",
+  "facts": [
+   "F19"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri"
+  ],
+  "note": "Пришёл вместе с ним, когда впервые увидел Господа (Махакавья 13.127)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F30"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri"
+  ],
+  "note": "Жители Кханды во главе с Нарахари ходили в Пури с Шиванандой (ЧЧ Мадхья 1.132)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F30"
+  ],
+  "note": "Ходил с братьями в Пури с Шиванандой (B 193)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "neighbor",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F14"
+  ],
+  "note": "Хромой Бхагаван Ачарья жил в Кумарахатте (B 779; T 73)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@ishvara-puri",
+  "facts": [
+   "F13"
+  ],
+  "note": "Кумарахатта — место явления Ишвары Пури, Чайтанья-доба (B 779; T 72)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@saranga-thakura",
+  "facts": [
+   "F25"
+  ],
+  "note": "Шивананда не принимал отождествления Саранги с Прахладой (ГГД 172)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F22"
+  ],
+  "events": [
+   "ev-gadadhara-leaves-kshetra-sannyasa",
+   "ev-holi-navadvipa-gadadhara"
+  ],
+  "note": "Пады Шивананды о Гададхаре (ПК 2355) и о холи Гауры с Гададхаром (БР)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@yamunacharya",
+  "facts": [
+   "F19"
+  ],
+  "events": [
+   "ev-gauda-devotees-arrive-puri"
+  ],
+  "note": "Прочёл перед Господом стих «Стотра-ратны» (21) (ЧЧ Мадхья 11.151; ЧЧН 8.41)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@gopinatha-acharya",
+  "facts": [
+   "F19"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Показал его царю с крыши дворца (ЧЧ Мадхья 11.87)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F19"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Видел его среди бенгальских преданных (ЧЧ Мадхья 11.87)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "other",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F30"
+  ],
+  "note": "Не застал в пути гаудиев во главе с Шиванандой (ЧЧ Антья 1.37–39; B 308)."
+ },
+ {
+  "from": "@shivananda-sena",
+  "type": "deity-served",
+  "who": "@gaura-gopala-kanchrapara",
+  "facts": [
+   "F12"
+  ],
+  "note": "Установил Божество Гаура-Гопалы; ныне — в храме Шри Кришна-раи в Канчрапаре (B 779; T 76) (⚠11)."
+ },
+ {
   "from": "@shridhara-maharaja",
   "type": "guru",
   "who": "@bhaktisiddhanta",
