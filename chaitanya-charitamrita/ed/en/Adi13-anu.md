@@ -283,9 +283,9 @@ See Ādi 3.95–109 and the *Caitanya-bhāgavata*, Ādi-khaṇḍa, Chapter 2.
 
 > Subheading: Their ninth child, Viśvarūpa —
 
-Viśvarūpa was the elder brother of Śrī Gaurahari. Before marrying He took *sannyāsa* and received the name “Śaṅkarāraṇya.” In Śaka 1431 He departed from this world at Pāṇḍerapura in the district of Sholapur, in the Bombay Presidency. He is both causes of the universe, the “material” (*upādāna*) and the “efficient” (*nimitta*). The *Gaura-gaṇoddeśa* (verses 58–59) says: “Because the part and the whole are not different, the son of Śacī is the original *vyūha*; Baladeva is Viśvarūpa, considered the *vyūha* Saṅkarṣaṇa; and Nityānanda Avadhūta is also called He, by way of *prakāśa*.” In the *Gauracandrodaya*, Kali says to Dharma: “His elder brother, without ever taking a wife — Saṅkarṣaṇa, that Bhagavān who on earth was Viśvarūpa — gave, it is said, His own effulgence to Purīśvara, took *sannyāsa* before Him and left this world.”
+Viśvarūpa was the elder brother of Śrī Gaurahari. Before marrying He took *sannyāsa* and received the name “Śaṅkarāraṇya.” In Śaka 1431 He withdrew from view (became unmanifest) at Pāṇḍerapura in the district of Sholapur, in the Bombay Presidency. He is both causes of the universe, the “material” (*upādāna*) and the “efficient” (*nimitta*). The *Gaura-gaṇoddeśa* (verses 58–59) says: “Because the part and the whole are not different, the son of Śacī is the original *vyūha*; Baladeva is Viśvarūpa, considered the *vyūha* Saṅkarṣaṇa; and Nityānanda Avadhūta is also called He, by way of *prakāśa*.” In the *Gauracandrodaya*, Kali says to Dharma: “His elder brother, without ever taking a wife — Saṅkarṣaṇa, that Bhagavān who on earth was Viśvarūpa — gave, it is said, His own effulgence to Purīśvara, took *sannyāsa* before Him and withdrew from view.”
 
-And there too: “…Nityānanda Avadhūta, glorified as the Effulgence — indeed, Saṅkarṣaṇa…”[^74-1] And further: “When this eternal Śrī Viśvarūpa left this world, He joined with Nityānanda Avadhūta and remained [in Him].”
+And there too: “…Nityānanda Avadhūta, glorified as the Effulgence — indeed, Saṅkarṣaṇa…”[^74-1] And further: “When this eternal Śrī Viśvarūpa withdrew from view, He joined with Nityānanda Avadhūta and remained [in Him].”
 
 ## 75
 

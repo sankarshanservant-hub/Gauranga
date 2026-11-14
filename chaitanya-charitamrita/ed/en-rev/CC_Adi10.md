@@ -1731,7 +1731,7 @@ caitanya-caritāmṛta kahe kṛṣṇadāsa
 
 [^46]: *Anubhāṣya*: Gopāla Bhaṭṭa, a brāhmaṇa from the south, was a friend of Śrī Rūpa and Sanātana; in his name Sanātana compiled the *Hari-bhakti-vilāsa*; he made the first draft of the *Ṣaṭ-sandarbha*, which Śrī Jīva later put in order, and he installed the Deity of Śrī Rādhā-ramaṇa. His disciples were Śrīnivāsa Ācārya and Gopīnātha Pūjārī. He forbade Kavirāja Gosvāmī to write about him in this book, and so only his name is given here.
 
-[^47]: *Anubhāṣya*: Śaṅkarāraṇya is Viśvarūpa, the elder brother of Mahāprabhu (according to the *Gaura-gaṇoddeśa-dīpikā*, Saṅkarṣaṇa); he took sannyāsa and left this world in Śaka 1432 at Pāṇḍarapura (Madhya 9.299–300). Mukunda is Mukunda Sañjaya, in whose house Viśvambhara taught; Kāśīnātha is the brāhmaṇa who arranged the Lord’s marriage with Viṣṇupriyā; Rudra is Rudra Paṇḍita.
+[^47]: *Anubhāṣya*: Śaṅkarāraṇya is Viśvarūpa, the elder brother of Mahāprabhu (according to the *Gaura-gaṇoddeśa-dīpikā*, Saṅkarṣaṇa); He took sannyāsa and withdrew from view (aprakaṭa) in Śaka 1432 at Pāṇḍarapura (Madhya 9.299–300). Mukunda is Mukunda Sañjaya, in whose house Viśvambhara taught; Kāśīnātha is the brāhmaṇa who arranged the Lord’s marriage with Viṣṇupriyā; Rudra is Rudra Paṇḍita.
 
 [^48]: *Anubhāṣya*: Śrīnātha Paṇḍita lived in Kāñcaḍāpāḍā and installed the Deity Śrī Kṛṣṇa-rāya there; he was the guru of Kavi Karṇapūra.
 
