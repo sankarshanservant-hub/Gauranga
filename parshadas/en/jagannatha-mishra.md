@@ -245,13 +245,12 @@ she were the mother of the whole universe.” (CC, Madhya 9.297)
 
 “One of her worthy sons took sannyasa while still young, receiving the name Shankararanya.” (CC, Madhya 9.299)
 
-“Sri Ranga Puri told Sri Chaitanya that Shankararanya had attained perfection and left this world right in this holy
-place, Pandarpur.” (CC, Madhya 9.300)
+And here, in this holy place, Ranga Puri said, Shankararanya had attained siddhi — perfection (CC, Madhya 9.300).
 
 “Sri Chaitanya said: ‘Before taking sannyasa Shankararanya was My brother, and Jagannatha Mishra My father.’”
 (CC, Madhya 9.301)[^14]
 
-Vishvarupa left His body at Pandharpur (Sholapur district, Maharashtra) in 1509 (1431 Shaka). <!-- F98 F99 F100 F101 F21 Q6 F111 -->
+Vishvarupa withdrew from the manifest pastimes at Pandharpur (Sholapur district, Maharashtra) in 1509 (1431 Shaka). <!-- F98 F99 F100 F101 F21 Q6 F111 -->
 
 The courtyard of Shachi, where the infant Vishvambhara danced, was sung of by Vasu Ghosha in a pada.
 After the Lord's departure the house became a place of pilgrimage. Narottama Dasa Thakura came to its threshold and fell at the door

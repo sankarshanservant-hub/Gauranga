@@ -303,8 +303,8 @@ reminded His brother that their parents needed help, and Vishvarupa had brought 
 “millions upon millions of obeisances to Mother” (CC, Adi 15.16–21). From then on Nimai was always beside His father and
 mother, dispelling their sorrow (CB, Adi 7.114). <!-- F176 F133 F189 -->
 
-Vishvarupa, who received in sannyasa the name Shankararanya, left this world in Pandharpur in 1509 (1431 of the Shaka
-era). The Lord learned of it many years later when, travelling in the South, He met in Pandharpur Sri Ranga Puri, a
+Vishvarupa, who received in sannyasa the name Shankararanya, withdrew from the manifest pastimes in Pandharpur in 1509
+(1431 of the Shaka era). The Lord learned of it many years later when, travelling in the South, He met in Pandharpur Sri Ranga Puri, a
 disciple of Madhavendra. Ranga Puri told Him that he had once been a guest with his guru at Jagannatha Mishra's house
 and still remembered the taste of the banana-flower curry the mistress of the house had cooked:
 
@@ -314,8 +314,8 @@ she were the mother of the whole universe.” (CC, Madhya 9.297)
 “It seemed to him then that in all the three worlds no one could cook better than she. When she fed sannyasis, she
 treated them with the same love as her own sons.” (CC, Madhya 9.298)
 
-Ranga Puri added that one of her worthy sons, Shankararanya, had attained perfection here in Pandharpur, and the Lord,
-overcome by separation, replied that before taking sannyasa Shankararanya had been His brother, and Jagannatha Mishra
+Ranga Puri added that one of her worthy sons, Shankararanya, had attained perfection here in Pandharpur, and the Lord
+replied that in His former ashrama Shankararanya had been His brother, and Jagannatha Mishra
 His father (CC, Madhya 9.299–301).[^7] <!-- F4 F23 F24 -->
 
 ## Learning
@@ -1271,8 +1271,8 @@ ever separate you and Me”; and He still appears in her house, for where He is 
     summary (at this place: “fearing misfortune to come, she fell into anxiety”).
 [^6]: According to one biography, Shachi sent her son to take Vishvarupa His lunch. According to the
     “Chaitanya-bhagavata”, it was to call His brother home for the meal (Adi 7.34–40; cf. Madhya 2.22, 22.93).
-[^7]: Shachi is not named in the Lord's reply; one biography writes that He called Jagannatha and Shachi His father
-    and mother.
+[^7]: Shachi is not named in the Lord's reply; one biography writes that He, overcome by the feeling of separation,
+    called Jagannatha and Shachi His father and mother.
 [^8]: According to one account, both parents interrupted His studies and themselves sent their son back to school
     after hearing His words in the spirit of Dattatreya; according to the “Chaitanya-bhagavata”, the ban was imposed by
     the father against Shachi's objection, and he gave way to her request and the neighbours' persuasion (Adi 7.128,

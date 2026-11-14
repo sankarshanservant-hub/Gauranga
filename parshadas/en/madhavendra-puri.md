@@ -150,8 +150,8 @@ The “Chaitanya-bhagavata” (Antya 4.398) says that Madhavendra and Advaita ar
 Advaita is his disciple. That is why the Lord honoured Advaita as a guru, while Advaita Himself saw in Chaitanya the
 Lord and regarded Himself as His servant — His principal limb (CC, Adi 6.36–41). <!-- F43 F44 Q7 Q22 -->
 
-At about the same time Madhavendra, with his disciple Sri Ranga Puri, a resident of Pandharpur, also visited Sridham
-Mayapur, the house of Jagannatha Mishra. Many years later Ranga Puri told the Lord in Pandharpur:
+At about the same time Madhavendra, with his disciple Sri Ranga Puri (according to one of the biographies, a resident
+of Pandharpur), also visited Sridham Mayapur, the house of Jagannatha Mishra. Many years later Ranga Puri told the Lord in Pandharpur:
 
 “They had taken their meal then in the house of Jagannatha Mishra, and he still remembered the indescribable taste of
 the banana-flower curry.” (CC, Madhya 9.296)
@@ -413,9 +413,10 @@ rise!’” (CC, Madhya 9.288)
 a particle of such divine love in You.’” (CC, Madhya 9.289)
 
 Learning that the Lord was a disciple of Ishvara Puri, Ranga Puri was filled with tenderness towards Him, and for
-seven days they spoke of Krishna. From him the Lord first heard that Shankararanya, Vishvarupa, had attained
-perfection right there in Pandharpur. Then Ranga Puri left for Dvaraka; it is said that later, when the Lord returned
-from the south, they met again, and Ranga Puri spent the rest of his life with Him in Purushottama-kshetra.
+five or seven days they spoke of Krishna (CC, Madhya 9.293). From him the Lord heard that Shankararanya, Vishvarupa,
+had attained perfection right there in Pandharpur. Then Ranga Puri left for Dvaraka. Some, as the biographies report,
+hold that he later came to the Lord in Puri and spent the rest of his life in Purushottama-kshetra; the primary
+sources say nothing of this.
 <!-- F119 F120 F121 Q17 -->
 
 Pundarika Vidyanidhi, the guru of Gadadhara Pandita, was also a disciple of Madhavendra; he is believed to have
