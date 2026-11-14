@@ -958,8 +958,7 @@ truths.” Vrindavana Dasa, Lochana Dasa and Kavi Karnapura wrote from his notes
 [^11]: Krishnadasa Kaviraja, Murari himself, Lochana Dasa and Karnapura place the “Ramashtaka” and the name “Ramadasa” in
     Navadvipa, before the sannyasa. According to the “Chaitanya-bhagavata” (Antya 4.315–344), the Lord had Murari
     recite the eight verses on Rama and blessed him to be Rama's servant in every birth after the sannyasa, in
-    Shantipura (see below). The primary sources do not reconcile this; one can only suppose that Murari recited these
-    verses before the Lord more than once.
+    Shantipura (see below).
 [^12]: One of the biographies writes that in Puri Murari and his wife fed the Lord with dishes they cooked themselves;
     the “Chaitanya-charitamrita” does not say this: according to it he sent the Lord dishes (Antya 10.121) and fed Him
     with purchased prasada (10.140). Of Murari's wife in Puri Krishnadasa Kaviraja says nothing.
