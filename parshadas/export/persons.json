@@ -19829,6 +19829,649 @@
   ]
  },
  {
+  "id": "@paramananda-puri",
+  "names": {
+   "ru": "Парамананда Пури",
+   "en": "Paramananda Puri",
+   "variants": [
+    "Шри Парамананда Пури",
+    "Пури Госвами / Пури Госани",
+    "Пурипада",
+    "Пури (ЧЧ Мадхья 11.204, 12.208; Антья 16.105, 19.12)",
+    "Парамананда Пури-ишвара, Пури-ишвара («Чайтанья-чандродая»)",
+    "Пури Шри Парамананда (ГГД 118)"
+   ],
+   "facts": [
+    "F1"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "elders",
+   "puri"
+  ],
+  "period": [
+   "P11",
+   "P12",
+   "P13",
+   "P14",
+   "P15"
+  ],
+  "period_note": "Лично — с первой встречи на горе Ришабха в южном странствии (P11; F12–F18); затем через Гауду (дом Шачи) в Пури и постоянно при Господе (P12, P14; F19–F59); с Господом на пути в Гауду (P13; F58, F64, F65); жив после ухода Господа — его видел Шриниваса (P15; F55). P01 — лишь «явился в Трихуте» (ЧБ Ади 2.43); P07 — лишь мангалы ЧБ (F57) и санньяса Мадхавы Ачарьи по ПВ (F67). В lila-db колодец (ev-paramananda-puri-well-ganga) и приход санньяси (ev-devotees-gather-nilachala) отнесены к P10 — по ЧЧ он пришёл в Пури лишь после южного странствия (P12).",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#tirhut",
+    "conf": "год и день явления источники не называют (B 789, T 128); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-14) дня явления нет",
+    "facts": [
+     "F3",
+     "F4",
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "conf": "год, день и место ухода неизвестны (B 789, T 128); в календаре ШЧСМ (541/ru, проверено 2026-11-14) дня ухода нет; был жив после ухода Господа (Шриниваса в Пури — F55)",
+    "facts": [
+     "F5",
+     "F55"
+    ]
+   }
+  },
+  "origin": {
+   "places": [
+    "#tirhut"
+   ],
+   "family": [],
+   "varna": "брахман (Бхактисиддханта: «брахман, рождённый в Трихуте»)",
+   "facts": [
+    "F3",
+    "F4",
+    "F11"
+   ]
+  },
+  "sampradaya": {
+   "name": "Брахма-Мадхва-сампрадая: ученик Мадхавендры Пури; санньяси ордена Пури — вайшнав (⚠Б1)",
+   "facts": [
+    "F6",
+    "F7"
+   ]
+  },
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "facts": [
+     "F6",
+     "F7",
+     "F8",
+     "F18",
+     "F25",
+     "I4"
+    ],
+    "note": "Дикша-гуру (B 789; T 128; ЧБ Антья 3.178). По Лочана — помнил пророчество гуру о Господе (F18); Господь, увидев его, говорит: «Мне явился Мадхавендра» (ЧБ Антья 3.172)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F8",
+     "F12",
+     "F15",
+     "F16",
+     "F17",
+     "F23",
+     "F24",
+     "F25",
+     "F27",
+     "F29",
+     "F30",
+     "F31",
+     "F32",
+     "F33",
+     "F34",
+     "F35",
+     "F37",
+     "F39",
+     "F40",
+     "F41",
+     "F44",
+     "F45",
+     "F46",
+     "F47",
+     "F48",
+     "F50",
+     "F52",
+     "F56",
+     "F58",
+     "F61",
+     "F62",
+     "F64",
+     "F65",
+     "I1",
+     "I2"
+    ],
+    "events": [
+     "ev-paramananda-puri-meeting",
+     "ev-svarupa-paramananda-arrive",
+     "ev-paramananda-puri-well-ganga",
+     "ev-chhota-haridasa-punished"
+    ],
+    "note": "Господь чтил его как духовного брата Своего гуру — как гуру и старшего (B 793; T 129; ⚠Б2); ватсалья (ЧЧ Мадхья 2.78); «две руки» Господа вместе со Сварупой (ЧБ Антья 10.42–52); главный из спутников в Нилачале вместе со Сварупой (ЧЧ Ади 10.124–126)."
+   },
+   {
+    "type": "other",
+    "who": "@ishvara-puri",
+    "facts": [
+     "F7",
+     "F8",
+     "F44"
+    ],
+    "note": "Духовный брат (оба — ученики Мадхавендры); поэтому Господь чтил Парамананду как гуру (= @ishvara-puri F73)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-puri",
+    "facts": [
+     "F53",
+     "F54"
+    ],
+    "events": [
+     "ev-ramachandra-puri-criticism"
+    ],
+    "note": "Духовный брат; Парамананда поклонился его стопам (ЧЧ Антья 8.6), затем с преданными просил Господа не урезать трапезу из-за его упрёков (ЧЧ Антья 8.69–81)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "facts": [
+     "F7",
+     "F49",
+     "F58",
+     "F66"
+    ],
+    "events": [
+     "ev-gundicha-marjana",
+     "ev-madhavendra-puri-aradhana"
+    ],
+    "note": "Духовный брат (ученики Мадхавендры); вместе не носили воду на уборке Гундичи (ЧЧ Мадхья 12.109); по Джаянанде — распоряжался трапезой на поминовении Мадхавендры у Адвайты."
+   },
+   {
+    "type": "companion",
+    "who": "@svarupa-damodara",
+    "facts": [
+     "F24",
+     "F30",
+     "F32",
+     "F33",
+     "F43",
+     "F52",
+     "F62",
+     "F66"
+    ],
+    "events": [
+     "ev-svarupa-paramananda-arrive",
+     "ev-gadadhara-reads-bhagavata-puri"
+    ],
+    "note": "Двое главных санньяси-спутников, «две руки» Господа (ЧБ Антья 10.46–49); Сварупа по приходе поклонился его стопам (ЧЧ Мадхья 10.128)."
+   },
+   {
+    "type": "companion",
+    "who": "@brahmananda-bharati",
+    "facts": [
+     "F49",
+     "F50",
+     "F56",
+     "F58"
+    ],
+    "events": [
+     "ev-ratha-yatra-gundicha",
+     "ev-chataka-parvata-govardhana"
+    ],
+    "note": "Вместе — старшие санньяси при Господе: сандал и гирлянды на Ратха-ятре, Чатака-парвата, трапезы."
+   },
+   {
+    "type": "host",
+    "who": "@shachi",
+    "facts": [
+     "F21",
+     "F25"
+    ],
+    "events": [
+     "ev-svarupa-paramananda-arrive"
+    ],
+    "note": "Гостил у Шачи в Майяпуре и ел из её рук (ЧЧ Мадхья 10.92; B 791 по скану; T 129); по Карнапуре — почтила его, как родного сына (13.118). Поправка к @shachi F58."
+   },
+   {
+    "type": "companion",
+    "who": "@kamalakanta-vipra",
+    "facts": [
+     "F22"
+    ],
+    "note": "С этим брахманом пришёл из Гауды в Пури (ЧЧ Мадхья 10.94)."
+   },
+   {
+    "type": "companion",
+    "who": "@kamalananda",
+    "facts": [
+     "F25",
+     "F68"
+    ],
+    "note": "По Карнапуре (13.121–123) и «Гаура-кришнодае» (11.28) пришёл в Пури с Камаланандой; ЧЧ — с Камалакантой."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-acharya",
+    "facts": [
+     "F25"
+    ],
+    "note": "По Карнапуре (13.119) — принял подаяние у Ачарьяратны в Навадвипе."
+   },
+   {
+    "type": "companion",
+    "who": "@gadadhara-pandita",
+    "facts": [
+     "F25"
+    ],
+    "note": "По Карнапуре (13.123) — пришёл в Пури вместе с Гададхарой и Джагаданандой (≠ ЧЧ, ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "facts": [
+     "F25",
+     "F53"
+    ],
+    "events": [
+     "ev-ramachandra-puri-criticism"
+    ],
+    "note": "По Карнапуре — спутник по пути в Пури; Джагадананда пригласил его с Господом и Рамачандрой Пури (ЧЧ Антья 8.8)."
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "facts": [
+     "F20"
+    ],
+    "note": "Весть о возвращении Господа, которую Кала Кришнадас принёс в Навадвипу, позвала его в Пури (B 790; T 129)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "facts": [
+     "F24",
+     "F28"
+    ],
+    "note": "Жил в уединённой комнате в доме Каши Мишры (ЧЧ Мадхья 10.101), затем в своём матхе."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "facts": [
+     "F43",
+     "F44",
+     "F45",
+     "F46"
+    ],
+    "events": [
+     "ev-chhota-haridasa-punished"
+    ],
+    "note": "По просьбе преданных просил Господа помиловать его (ЧЧ Антья 2.128–137); исход у B и T ≠ ЧЧ (⚠1)."
+   },
+   {
+    "type": "host",
+    "who": "@sarvabhauma",
+    "facts": [
+     "F52"
+    ],
+    "events": [
+     "ev-amogha-cholera"
+    ],
+    "note": "Сарвабхаума угощал его пять дней (ЧЧ Мадхья 15.194)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-acharya",
+    "facts": [
+     "F56"
+    ],
+    "events": [
+     "ev-chataka-parvata-govardhana"
+    ],
+    "note": "Вместе бежали за Господом к Чатака-парвате (ЧЧ Антья 14.90)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "facts": [
+     "F55"
+    ],
+    "events": [
+     "ev-srinivasa-gadadhara-puri"
+    ],
+    "note": "Шриниваса в Пури после ухода Господа получил его благословение (БР 3; T 204; M 189; B 663)."
+   },
+   {
+    "type": "sannyasa-disciple",
+    "who": "@madhava-acharya-kavivallabha",
+    "facts": [
+     "F67"
+    ],
+    "events": [
+     "ev-madhava-acharya-krishna-mangala"
+    ],
+    "note": "Только «Према-виласа» 24.436, 25.891 (ур. C)."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "facts": [
+     "F64"
+    ],
+    "note": "По Карнапуре (ЧЧМ 19.30) прикрыл одеждой след удара на спине Дамодары (= @damodara-pandita F67)."
+   },
+   {
+    "type": "other",
+    "who": "@nrisimhananda",
+    "facts": [
+     "F65"
+    ],
+    "events": [
+     "ev-natashala-kanai-return"
+    ],
+    "note": "Лочан: Господь объясняет ему поворот у Натшалы Канаи мысленным желанием Нрисимхананды."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "facts": [
+     "F65"
+    ],
+    "events": [
+     "ev-prataparudra-mercy"
+    ],
+    "note": "Лочан (Шеша 6, 92–110): просит Господа принять царя (≠ ЧЧ, ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@rama-dravida-vipra",
+    "facts": [
+     "F63",
+     "F65"
+    ],
+    "events": [
+     "ev-dravida-brahmana-vibhishana"
+    ],
+    "note": "Присутствует (Мурари 4.21.12) и спрашивает о нём Господа (Лочан, Шеша 7, 85)."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "facts": [
+     "F62"
+    ],
+    "note": "Имя Пури-дас — от его имени (ЧЧН акт 10: «Свами, это твой слуга»); не путать с ним."
+   },
+   {
+    "type": "other",
+    "who": "@vishvarupa",
+    "facts": [
+     "F61"
+    ],
+    "note": "По «Чайтанья-чандродае» (1.30, 8) в него вошла мощь Вишварупы — ≠ преданию (в Нитьянанду), ⚠Б8."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "facts": [
+     "F42"
+    ],
+    "note": "Определил его колодец в Пури (по T 130; = @bhaktivinoda F130)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "facts": [
+     "F4",
+     "F13",
+     "F42"
+    ],
+    "note": "«Брахман, рождённый в Трихуте»; описание горы Ришабха; место колодца (по T)."
+   },
+   {
+    "type": "other",
+    "who": "@raghupati-upadhyaya",
+    "facts": [
+     "F3"
+    ],
+    "note": "Оба из Тирхута (T 100)."
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Уддхава",
+    "source": "ГГД 118",
+    "level": "A",
+    "facts": [
+     "F2",
+     "F69"
+    ],
+    "variants": [
+     "«Вайшнава-ванданы» (санскр. 1.58; Девакинандана 2.46; ч. 5) — тоже Уддхава; «Анубхашья» к ЧЧ Мадхья 2.78 (по T 131) — Уддхава, любивший Господа с ватсальей."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "центральный корень древа бхакти (один из девяти санньяси-корней)",
+    "source": "ЧЧ Ади 9.13–16",
+    "level": "A",
+    "facts": [
+     "F9",
+     "F10"
+    ],
+    "events": [
+     "ev-tattva-bhakti-kalpataru"
+    ],
+    "variants": [
+     "Выверенная редакция ЧЧ Ади 9.16 — по чтению «восемь корней в восьми сторонах»; изд. Гаудия Матха — «девять корней» (⚠4)."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "носитель мощи Вишварупы",
+    "source": "«Чайтанья-чандродая» 1.30, акт 8 (по бенг. переводу М. Гухи)",
+    "level": "A",
+    "facts": [
+     "F61"
+    ],
+    "variants": [
+     "Хинди-перевод ЧЧН относит «Пури-ишвару» к Ишваре Пури; по гаудия-вайшнавскому преданию Вишварупа вошёл в Нитьянанду (⚠Б8)."
+    ]
+   }
+  ],
+  "events": [
+   "ev-associates-descend",
+   "ev-paramananda-puri-meeting",
+   "ev-devotees-gather-nilachala",
+   "ev-svarupa-paramananda-arrive",
+   "ev-ramananda-comes-to-puri",
+   "ev-gauda-devotees-arrive-puri",
+   "ev-narendra-jala-keli",
+   "ev-gundicha-marjana",
+   "ev-gundicha-garden-feast",
+   "ev-netrotsava-darshan",
+   "ev-ratha-yatra-gundicha",
+   "ev-indradyumna-jala-keli",
+   "ev-amogha-cholera",
+   "ev-dravida-brahmana-vibhishana",
+   "ev-prataparudra-mercy",
+   "ev-nrisimhananda-three-offerings",
+   "ev-nilachala-sankirtana",
+   "ev-paramananda-puri-well-ganga",
+   "ev-departure-for-gauda",
+   "ev-natashala-kanai-return",
+   "ev-madhavendra-puri-aradhana",
+   "ev-return-to-puri-from-vrindavana",
+   "ev-puri-eighteen-years-associates",
+   "ev-lord-daily-routine-puri",
+   "ev-gauda-devotees-yearly-visit",
+   "ev-gadadhara-reads-bhagavata-puri",
+   "ev-sanatana-puri-sores",
+   "ev-chhota-haridasa-punished",
+   "ev-vallabha-bhatta-puri",
+   "ev-ramachandra-puri-criticism",
+   "ev-haridasa-departure",
+   "ev-hera-panchami",
+   "ev-chataka-parvata-govardhana",
+   "ev-krishna-adharamrita-phela",
+   "ev-jagadananda-visits-shachi",
+   "ev-srinivasa-gadadhara-puri",
+   "ev-madhava-acharya-krishna-mangala"
+  ],
+  "events_note": "ev-paramananda-puri-meeting — ЧЧ Мадхья 9.167–175, Мурари 3.15, Лочан Шеша 2, Карнапура 13, ГКД 10, Кадача 6; ev-svarupa-paramananda-arrive — ЧЧ Мадхья 10.91–101, ЧБ Антья 3.167–178; ev-devotees-gather-nilachala — ЧЧН 8, Карнапура 13.110–126, Кадача 3 (в lila-db — P10); ev-paramananda-puri-well-ganga — ЧБ Антья 3.232–258 (в lila-db — P10); ev-amogha-cholera — пир у Сарвабхаумы (ЧЧ Мадхья 15.186–196); ev-madhavendra-puri-aradhana — Джаянанда (ур. C); ev-madhava-acharya-krishna-mangala — ПВ 24 (ур. C); ev-ramananda-comes-to-puri, ev-gundicha-garden-feast, ev-netrotsava-darshan, ev-indradyumna-jala-keli, ev-sanatana-puri-sores, ev-vallabha-bhatta-puri, ev-krishna-adharamrita-phela, ev-jagadananda-visits-shachi — ЧЧ, лишь присутствие (F58); ev-nrisimhananda-three-offerings, ev-hera-panchami, ev-gauda-devotees-yearly-visit, ev-return-to-puri-from-vrindavana (ЧЧН 9–10), ev-nilachala-sankirtana (пада Нарахари), ev-lord-daily-routine-puri («Шачисуну-аштака») — присутствие (F62, F70).",
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [
+   {
+    "title": "«Говинда-виджая» (не сохранилась; по «Гаудия-вайшнава-абхидхане» и Джаянанде)",
+    "facts": [
+     "F60"
+    ]
+   }
+  ],
+  "places": [
+   "#tirhut",
+   "#rishabha-parvata",
+   "#madurai",
+   "#ranga-kshetra",
+   "#setubandha",
+   "#ganga",
+   "#navadvipa",
+   "#mayapur",
+   "#house-jagannatha-mishra",
+   "#kashi",
+   "#puri",
+   "#house-kashi-mishra",
+   "#paramananda-puri-kupa",
+   "#gundicha",
+   "#narendra-sarovara",
+   "#alalanatha",
+   "#chataka-parvata",
+   "#kanai-natashala"
+  ],
+  "places_facts": [
+   "F3",
+   "F12",
+   "F13",
+   "F14",
+   "F18",
+   "F19",
+   "F21",
+   "F24",
+   "F25",
+   "F28",
+   "F34",
+   "F42",
+   "F45",
+   "F48",
+   "F49",
+   "F56",
+   "F65"
+  ],
+  "character": [
+   {
+    "trait": "любовь к Господу, ради которой он оставил намерение жить в Гауде и пришёл в Нилачалу первым из бенгальцев",
+    "facts": [
+     "F17",
+     "F22",
+     "F23"
+    ]
+   },
+   {
+    "trait": "погружённость в памятование о Кришне («Пури — в медитации, Сварупа — в киртане»)",
+    "facts": [
+     "F30",
+     "F31"
+    ]
+   },
+   {
+    "trait": "смирение и покорность воле Господа: «Ты — независимый Владыка», когда его просьба не исполнена",
+    "facts": [
+     "F46"
+    ]
+   },
+   {
+    "trait": "заботливость старшего: просит за Младшего Харидаса, просит Господа есть как прежде, советует послать матери одежду-прасад",
+    "facts": [
+     "F44",
+     "F54",
+     "F58",
+     "F64"
+    ]
+   },
+   {
+    "trait": "почтение к духовным братьям (кланяется Рамачандре Пури) при ясном различении его недостатков",
+    "facts": [
+     "F53",
+     "F54"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F2",
+    "F9",
+    "F30",
+    "F32",
+    "F41",
+    "I1",
+    "I2",
+    "I3",
+    "I4"
+   ]
+  },
+  "sources": {
+   "T": "128–130 (гл.); 5, 100, 107, 116, 131–134, 141, 142, 147–149, 204",
+   "M": "90, 189, 237, 243 (гл. нет)",
+   "B": "789–794 (гл.); 71, 74, 198, 206, 211–212, 241, 663, 756, 797, 800, 883",
+   "other": [
+    "ГГД 118 (и 60 — по нашему переводу)",
+    "ЧЧ Ади 9.10–16, 10.124–126",
+    "ЧЧ Мадхья 1.111, 1.129, 1.149, 1.252–254, 2.78, 9.167–175, 10.62–101, 10.128, 11.33, 11.197–211, 12.109, 12.156, 12.208, 13.29–31, 14.92, 15.184–196, 16.127, 25.220",
+    "ЧЧ Антья 2.113–143, 4.104–114, 4.166, 7.62, 8.5–8, 8.69–84, 11.87, 14.90, 14.113–116, 16.105, 19.12",
+    "«Анубхашья» к ЧЧ Ади 9.13–16, 10.125, Мадхья 1.111 (и Мадхья 2.78 — по T)",
+    "ЧБ Ади 1.161, 2.43, 14.2; Мадхья 6.4, 11.2",
+    "ЧБ Антья 3.167–181, 3.232–260, 7.3, 8.55–61, 8.122, 10.42–52",
+    "«Чайтанья-чандродая» 1.30; акты 8–10",
+    "Мурари 3.15.19–25, 4.17.17, 4.21.12, 4.24.13",
+    "Лочан, Сутра 1.26, 8.624; Шеша 2 (134–144; «Господь видит Вриндаван» 22), 6 (92–110), 7 (85–86)",
+    "Махакавья Карнапуры 13.14–16, 13.110–125, 16.30, 19.6–70, 20.7, 20.13",
+    "«Гаура-кришнодая» 10.12–13, 11.28–29",
+    "«Кадача Говинды» 3.502, 6.1101",
+    "Джаянанда (вандана; Виджая 5.17; Н. Васу 1897)",
+    "«Према-виласа» 24.436, 25.891",
+    "«Вайшнава-ванданы» 1.58, 1.141; 2.46, 2.79; ч. 5",
+    "пада Нарахари ПК 2241; «Шачисуну-аштака» 2–3",
+    "«Гаудия-вайшнава-абхидхана» (по B, T)"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/paramananda-puri.md",
+   "en": "parshadas/en/paramananda-puri.md"
+  },
+  "open_questions": [
+   "Откуда и с кем он пришёл в Пури: ЧЧ — с юга вдоль Ганги, через дом Шачи, с Камалакантой; ЧЧН — из Варанаси; Карнапура — из Навадвипы с Гададхарой и Джагаданандой (F19–F25, ⚠7).",
+   "Место первой встречи: гора Ришабха (ЧЧ) или по пути из Шрирангама (Мурари, Лочан) / у Сетубандхи (Джаянанда) (F12, F18).",
+   "Исход заступничества за Младшего Харидаса: B и T — Господь соглашался пустить его; ЧЧ Антья 2 и B 883 — нет (F45, ⚠1).",
+   "Мощь Вишварупы в нём (ЧЧН) — против предания о Нитьянанде; толкование «Пури-ишвары» у переводчиков расходится (F61, ⚠Б8).",
+   "«Говинда-виджая» — что это за книга; известна лишь по упоминаниям (F60).",
+   "Годы жизни, место и день ухода неизвестны; в календаре ШЧСМ его дней нет (F5)."
+  ]
+ },
+ {
   "id": "@prabodhananda-sarasvati",
   "names": {
    "ru": "Прабодхананда Сарасвати",

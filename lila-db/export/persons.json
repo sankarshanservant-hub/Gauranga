@@ -4270,6 +4270,10 @@
     "type": "other"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "companion"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "guest"
    },
@@ -7721,6 +7725,10 @@
     "type": "other"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "host"
+   },
+   {
     "from": "@shridhara",
     "type": "other"
    },
@@ -8345,6 +8353,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@paramananda-puri",
     "type": "other"
    },
    {
@@ -12330,6 +12342,10 @@
     "type": "companion"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "companion"
    },
@@ -13386,6 +13402,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@paramananda-puri",
+    "type": "companion"
    },
    {
     "from": "@pundarika-vidyanidhi",
@@ -16811,6 +16831,10 @@
     "type": "other"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "companion"
    },
@@ -17258,6 +17282,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@paramananda-puri",
+    "type": "other"
    },
    {
     "from": "@shachi",
@@ -17886,6 +17914,10 @@
     "type": "met"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "guest"
    },
@@ -18282,6 +18314,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "guru"
+   },
+   {
+    "from": "@paramananda-puri",
     "type": "guru"
    },
    {
@@ -18710,6 +18746,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@paramananda-puri",
+    "type": "host"
    },
    {
     "from": "@ramananda-raya",
@@ -19962,6 +20002,10 @@
     "type": "other"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "companion"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "friend"
    },
@@ -20193,6 +20237,10 @@
    },
    {
     "from": "@nityananda",
+    "type": "other"
+   },
+   {
+    "from": "@paramananda-puri",
     "type": "other"
    },
    {
@@ -24701,6 +24749,10 @@
     "type": "companion"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "co-worker"
    },
@@ -25407,6 +25459,223 @@
    "ev-srinivasa-gadadhara-puri",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Уддхава (ГГД 118) и др.; гуру — Мадхавендра Пури; происхождение — Трихут (Тирхут)",
+  "card": "parshadas/cards/paramananda-puri.yaml",
+  "article": {
+   "ru": "parshadas/ru/paramananda-puri.md",
+   "en": "parshadas/en/paramananda-puri.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "elders",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#tirhut",
+    "conf": "год и день явления источники не называют (B 789, T 128); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-14) дня явления нет",
+    "facts": [
+     "F3",
+     "F4",
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "conf": "год, день и место ухода неизвестны (B 789, T 128); в календаре ШЧСМ (541/ru, проверено 2026-11-14) дня ухода нет; был жив после ухода Господа (Шриниваса в Пури — F55)",
+    "facts": [
+     "F5",
+     "F55"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Говинда-виджая» (не сохранилась; по «Гаудия-вайшнава-абхидхане» и Джаянанде)",
+    "facts": [
+     "F60"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Уддхава",
+    "source": "ГГД 118",
+    "level": "A",
+    "variants": [
+     "«Вайшнава-ванданы» (санскр. 1.58; Девакинандана 2.46; ч. 5) — тоже Уддхава; «Анубхашья» к ЧЧ Мадхья 2.78 (по T 131) — Уддхава, любивший Господа с ватсальей."
+    ]
+   },
+   {
+    "in": "tattva",
+    "as": "центральный корень древа бхакти (один из девяти санньяси-корней)",
+    "source": "ЧЧ Ади 9.13–16",
+    "level": "A",
+    "variants": [
+     "Выверенная редакция ЧЧ Ади 9.16 — по чтению «восемь корней в восьми сторонах»; изд. Гаудия Матха — «девять корней» (⚠4)."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "носитель мощи Вишварупы",
+    "source": "«Чайтанья-чандродая» 1.30, акт 8 (по бенг. переводу М. Гухи)",
+    "level": "A",
+    "variants": [
+     "Хинди-перевод ЧЧН относит «Пури-ишвару» к Ишваре Пури; по гаудия-вайшнавскому преданию Вишварупа вошёл в Нитьянанду (⚠Б8)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@madhavendra-puri",
+    "note": "Дикша-гуру (B 789; T 128; ЧБ Антья 3.178). По Лочана — помнил пророчество гуру о Господе (F18); Господь, увидев его, говорит: «Мне явился Мадхавендра» (ЧБ Антья 3.172)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Господь чтил его как духовного брата Своего гуру — как гуру и старшего (B 793; T 129; ⚠Б2); ватсалья (ЧЧ Мадхья 2.78); «две руки» Господа вместе со Сварупой (ЧБ Антья 10.42–52); главный из спутников в Нилачале вместе со Сварупой (ЧЧ Ади 10.124–126)."
+   },
+   {
+    "type": "other",
+    "who": "@ishvara-puri",
+    "note": "Духовный брат (оба — ученики Мадхавендры); поэтому Господь чтил Парамананду как гуру (= @ishvara-puri F73)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-puri",
+    "note": "Духовный брат; Парамананда поклонился его стопам (ЧЧ Антья 8.6), затем с преданными просил Господа не урезать трапезу из-за его упрёков (ЧЧ Антья 8.69–81)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Духовный брат (ученики Мадхавендры); вместе не носили воду на уборке Гундичи (ЧЧ Мадхья 12.109); по Джаянанде — распоряжался трапезой на поминовении Мадхавендры у Адвайты."
+   },
+   {
+    "type": "companion",
+    "who": "@svarupa-damodara",
+    "note": "Двое главных санньяси-спутников, «две руки» Господа (ЧБ Антья 10.46–49); Сварупа по приходе поклонился его стопам (ЧЧ Мадхья 10.128)."
+   },
+   {
+    "type": "companion",
+    "who": "@brahmananda-bharati",
+    "note": "Вместе — старшие санньяси при Господе: сандал и гирлянды на Ратха-ятре, Чатака-парвата, трапезы."
+   },
+   {
+    "type": "host",
+    "who": "@shachi",
+    "note": "Гостил у Шачи в Майяпуре и ел из её рук (ЧЧ Мадхья 10.92; B 791 по скану; T 129); по Карнапуре — почтила его, как родного сына (13.118). Поправка к @shachi F58."
+   },
+   {
+    "type": "companion",
+    "who": "@kamalakanta-vipra",
+    "note": "С этим брахманом пришёл из Гауды в Пури (ЧЧ Мадхья 10.94)."
+   },
+   {
+    "type": "companion",
+    "who": "@kamalananda",
+    "note": "По Карнапуре (13.121–123) и «Гаура-кришнодае» (11.28) пришёл в Пури с Камаланандой; ЧЧ — с Камалакантой."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-acharya",
+    "note": "По Карнапуре (13.119) — принял подаяние у Ачарьяратны в Навадвипе."
+   },
+   {
+    "type": "companion",
+    "who": "@gadadhara-pandita",
+    "note": "По Карнапуре (13.123) — пришёл в Пури вместе с Гададхарой и Джагаданандой (≠ ЧЧ, ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "По Карнапуре — спутник по пути в Пури; Джагадананда пригласил его с Господом и Рамачандрой Пури (ЧЧ Антья 8.8)."
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "note": "Весть о возвращении Господа, которую Кала Кришнадас принёс в Навадвипу, позвала его в Пури (B 790; T 129)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "Жил в уединённой комнате в доме Каши Мишры (ЧЧ Мадхья 10.101), затем в своём матхе."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "note": "По просьбе преданных просил Господа помиловать его (ЧЧ Антья 2.128–137); исход у B и T ≠ ЧЧ (⚠1)."
+   },
+   {
+    "type": "host",
+    "who": "@sarvabhauma",
+    "note": "Сарвабхаума угощал его пять дней (ЧЧ Мадхья 15.194)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-acharya",
+    "note": "Вместе бежали за Господом к Чатака-парвате (ЧЧ Антья 14.90)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Шриниваса в Пури после ухода Господа получил его благословение (БР 3; T 204; M 189; B 663)."
+   },
+   {
+    "type": "sannyasa-disciple",
+    "who": "@madhava-acharya-kavivallabha",
+    "note": "Только «Према-виласа» 24.436, 25.891 (ур. C)."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "note": "По Карнапуре (ЧЧМ 19.30) прикрыл одеждой след удара на спине Дамодары (= @damodara-pandita F67)."
+   },
+   {
+    "type": "other",
+    "who": "@nrisimhananda",
+    "note": "Лочан: Господь объясняет ему поворот у Натшалы Канаи мысленным желанием Нрисимхананды."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Лочан (Шеша 6, 92–110): просит Господа принять царя (≠ ЧЧ, ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@rama-dravida-vipra",
+    "note": "Присутствует (Мурари 4.21.12) и спрашивает о нём Господа (Лочан, Шеша 7, 85)."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "Имя Пури-дас — от его имени (ЧЧН акт 10: «Свами, это твой слуга»); не путать с ним."
+   },
+   {
+    "type": "other",
+    "who": "@vishvarupa",
+    "note": "По «Чайтанья-чандродае» (1.30, 8) в него вошла мощь Вишварупы — ≠ преданию (в Нитьянанду), ⚠Б8."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Определил его колодец в Пури (по T 130; = @bhaktivinoda F130)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Брахман, рождённый в Трихуте»; описание горы Ришабха; место колодца (по T)."
+   },
+   {
+    "type": "other",
+    "who": "@raghupati-upadhyaya",
+    "note": "Оба из Тирхута (T 100)."
+   }
+  ],
   "related_by": [
    {
     "from": "@damodara-pandita",
@@ -25479,6 +25748,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "met"
+   },
+   {
+    "from": "@paramananda-puri",
+    "type": "other"
    },
    {
     "from": "@shivananda-sena",
@@ -25698,6 +25971,10 @@
     "type": "other"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -25904,6 +26181,12 @@
   ],
   "events": [
    "ev-dravida-brahmana-vibhishana"
+  ],
+  "related_by": [
+   {
+    "from": "@paramananda-puri",
+    "type": "other"
+   }
   ]
  },
  {
@@ -29473,6 +29756,10 @@
     "type": "disciple"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "companion"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    }
@@ -30095,6 +30382,10 @@
    },
    {
     "from": "@narahari-sarakara",
+    "type": "other"
+   },
+   {
+    "from": "@paramananda-puri",
     "type": "other"
    },
    {
@@ -31297,6 +31588,10 @@
    {
     "from": "@nityananda",
     "type": "protege"
+   },
+   {
+    "from": "@paramananda-puri",
+    "type": "other"
    },
    {
     "from": "@shachi",
@@ -33636,6 +33931,10 @@
     "type": "met"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@srivasa",
     "type": "other"
    },
@@ -34489,6 +34788,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@paramananda-puri",
+    "type": "met"
    },
    {
     "from": "@raghunandana",
@@ -37919,6 +38222,12 @@
    "ev-katwa-khanda-memorial-festivals",
    "ev-narottama-bhajana-kheturi",
    "ev-kheturi-festival"
+  ],
+  "related_by": [
+   {
+    "from": "@paramananda-puri",
+    "type": "sannyasa-disciple"
+   }
   ]
  },
  {
@@ -39453,6 +39762,10 @@
     "type": "disciple"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "met"
    }
@@ -39774,6 +40087,10 @@
     "type": "other"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
@@ -39918,6 +40235,10 @@
    },
    {
     "from": "@narahari-sarakara",
+    "type": "other"
+   },
+   {
+    "from": "@paramananda-puri",
     "type": "other"
    },
    {
@@ -42661,6 +42982,10 @@
     "type": "other"
    },
    {
+    "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "neighbor"
    },
@@ -42683,6 +43008,12 @@
   "events": [
    "ev-devotees-gather-nilachala",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@paramananda-puri",
+    "type": "companion"
+   }
   ]
  },
  {
@@ -44657,6 +44988,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@paramananda-puri",
+    "type": "other"
    }
   ]
  },
@@ -51689,6 +52024,12 @@
   "note": "преданный-брахман, с которым Парамананда Пури пришёл из Гауды в Пури (ЧЧ Мадхья 10.94); отождествление с @kamalananda (ЧЧ Ади 10.149; Карнапура 13.121) и @kamalakanta-vishvasa не установлено",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@paramananda-puri",
+    "type": "companion"
+   }
+  ]
  }
 ]
