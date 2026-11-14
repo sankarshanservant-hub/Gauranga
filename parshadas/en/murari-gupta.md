@@ -253,6 +253,100 @@ time, while glorifying Advaita, the Lord forbade all the devotees to speak of th
 do not know it,” and the Lord, smiling, replied, “You do: you heard it from Kamalaksha,” that is, from Advaita
 (“Kadacha” 2.6.23–26). <!-- F42 -->
 
+## The Coming of Nityananda
+When Nityananda came to Navadvipa, the Lord knew of it before anyone else: He dreamed of a great personality who had
+arrived in the town. Returning to outer consciousness, He Himself, “as the friend of Rama,” explained the meaning of the
+dream to the Vaishnavas: “I think that someone truly great has come to Navadvipa” (CB, Madhya 3.157–158)[^7].
+According to the “Chaitanya-bhagavata,” the Lord sent Haridasa and Shrivasa to look for the guest (3.160). Murari,
+however, relates that those sent were Rama, Murari himself, Narayana and Mukunda: in the daytime they came back
+empty-handed, and in the evening the Lord, meeting Murari on the road, said to him: “Let us go where He is: the best of
+sages has come to the house of Nandana Acharya,” and together with him and the other devotees He came to Nityananda
+(“Kadacha” 2.8.3–9); Kavi Karnapura tells it the same way (“Chaitanya-charitamrita-mahakavya” 6.106–116). <!-- F64 -->
+
+At their first meeting the two Lords, Gaura and Nityananda, began to glorify each other, and the Vaishnavas, listening
+to Them, did not know what to say:
+
+“Murari smiled and said: ‘Only You can understand each other. We have understood nothing.’” (CB, Madhya 4.57)
+<!-- F65 Q25 -->
+
+Soon the Lord sent Shrivasa, Rama, “Murari the physician” and Narayana to Shantipura to inform Advaita of the
+Avadhuta's coming. Advaita, hearing the news, began to sing and dance; the messengers stayed with Him two days and
+returned with Him to the Lord (“Kadacha” 2.9.13–16). In Lochana Dasa it is Shrinivasa, Narayana, Rama and Murari who
+bring Nityananda to Advaita, and on their return Murari tells the Lord everything. <!-- F66 -->
+
+## The Mahaprakasha: “I Am Ramachandra, and You Are Hanuman”
+In Shrivasa's house the Lord manifested the Mahaprakasha, the great revelation: for twenty-one hours — seven
+prahars — seated on Vishnu's throne, He revealed to each of the devotees His true nature and their eternal service (CB,
+Madhya 9–10). Nityananda held an umbrella over His head, Gadadhara offered Him betel, and before Him stood great souls
+headed by Advaita (10.5–6). And then the Lord called Murari:
+
+“The Lord commanded Murari: ‘Behold My form!’ And Murari saw Mahaprabhu in the form of Ramachandra. Before his eyes
+was Vishvambhara, seated like a mighty archer in the hero's posture (virasana). His body was dark, the colour of young
+durva grass. To the Lord's left and right stood Sita and Lakshmana, and on all sides they were surrounded by the
+leaders of the monkeys, offering prayers to the Lord.” (CB, Madhya 10.7–9)
+
+Murari saw his chosen Deity, his Ramachandra — and among the monkeys glorifying Him with joined palms he saw himself as
+well. This “best of physicians,” says Vrindavana Dasa, lost consciousness and fell at the Lord's feet (10.10–11).
+<!-- F44 Q10 F1 -->
+
+“Vishvambhara cried out: ‘O leader of the monkeys, have you forgotten how Ravana, who stole Sita, burned you? And you
+set fire to his whole capital and subdued his whole race. Hear My words: “I am your Lord.” Get up, Murari. You are as
+dear to Me as life itself. I am Ramachandra, and you are Hanuman. Look, here stands the son of Sumitra, your life and
+soul. To bring Him back to life you carried a whole mountain, Gandhamadana. Bow down at the feet of Sita, whose
+sufferings made you weep bitterly.’” (CB, Madhya 10.12–16)
+
+This is no worldly “miracle” and no delusion: the Lord revealed to His servant his eternal form and eternal service, and
+Murari recognized in Gaura the One whom he had always served. Coming to himself, he looked at the Lord again and wept
+with love so that, in Vrindavana Dasa's words, even stones melted (10.17–18). <!-- F45 -->
+
+The Lord said, “Ask of Me any blessing you wish.” And Murari asked:
+
+“‘O Lord, I need nothing. Only let me always sing Your glory. O Lord, I may be born anywhere, but wherever I am born,
+let me always remember You. Let me, life after life, keep company with Your servants. O Lord, do not let me fall into a
+state where You cease to be my Master and I cease to be Your servant. Let me always be Your servant, wherever You come
+with Your associates.’” (CB, Madhya 10.20–24)
+
+Not the fulfilment of desires, not liberation does he ask for, but one thing alone: always to serve and always to be
+born among devotees. “I grant you this blessing,” the Lord replied, and on all sides rose the cry: “Glory! Glory!”
+(10.25). <!-- F46 -->
+
+At that same time the Lord explained his name. Murari, “the Enemy of Mura,” is a name of Krishna; gupta means
+“hidden”:
+
+“‘Lord Murari dwells unseen (gupta) in his heart; therefore the name “Murari Gupta” suits him perfectly.’” (CB, Madhya
+10.31)
+
+And later Vrindavana Dasa, naming Murari among those who came to Puri, repeats: “Lord Gauranga secretly dwelt in his
+body” (Antya 8.33). <!-- F2 Q2 F46 -->
+
+Vrindavana Dasa adds: the Vaishnavas doted on Murari, who was kind to all living beings; wherever he appeared, the place
+became holy like Vaikuntha; in every descent of the Lord he was His closest associate (CB, Madhya 10.26–28). And the
+Lord said to those assembled: “Whoever speaks an ill word about Murari will not be saved even by a million baths in the
+Ganga. Neither the holy Ganga nor the holy names of Hari will purify such a sinner” (10.29–30). Whoever hears of the
+Lord's mercy to Murari will attain prema-bhakti (10.33). That night Murari and Shridhara stood before the Lord and wept
+(10.34), and when the Lord bestowed His mercy on Haridasa, Haridasa, Murari and Shridhara wept (10.112). The mercy that
+even the servants of Murari Gupta received, says Vrindavana Dasa, cannot be had by merely shaving one's head — by an
+outward sannyasa alone (10.277). <!-- F47 F5 -->
+
+Krishnadasa Kaviraja, in his account of the Mahaprakasha, recalls other words:
+
+“The Lord said to Murari, ‘You have brought Krishna under your control,’ and hearing this, Murari began to recite a
+verse: ‘Who am I, a poor and sinful man, and who is Krishna, the abode of the goddess of fortune? Yet because I was born
+a brahmana, He embraced me in His arms!’ (Srimad-Bhagavatam, 10.81.16)” (CC, Adi 17.77–78)
+
+These are the words of Sudama, Krishna's poor friend. Murari was not a brahmana by birth, and in repeating them he
+speaks not of his social standing but of his unworthiness: so a Vaishnava's humility answers the Lord's praise.
+<!-- F48 -->
+
+Murari himself tells of this at greater length. Once the Lord said to the devotees: “When I leave My mother and go away
+to distant lands, everyone will say of Me, ‘He did wrong.’” “No, Master, no one will say so,” Murari objected, and the
+Lord, delighted, embraced him. Then Murari recited Sudama's verse: “Where am I — a pauper, the most sinful — and where is
+Krishna, the abode of Shri! And yet me, a brahmana by birth alone, He embraced in His arms.” Hearing it, the Lord shone
+like the thousand-rayed sun and said, “Know that this body is the highest concentrate of being and consciousness”;
+Shrivasa bathed Him with the waters of the Ganga, Nityananda held an umbrella over Him, Gadadhara offered betel, and all
+sang and danced (“Kadacha” 2.12.5–17). Lochana Dasa and Karnapura (“Chaitanya-charitamrita-mahakavya” 7.98–106) tell it
+the same way, and in a song of Krishnadasa about this bathing “Mukunda and Murari sing.” <!-- F48 -->
+
 [^1]: Radha (Rarh) is the region west of the Ganga. One of the biographies, retelling this verse, says that Nityananda
     was born in Radha, while Gangadasa, Murari and Mukunda were born “elsewhere”; the verse itself does not say so.
     Shrihatta is named by Vrindavana Dasa (CB, Adi 2.35) and, following him, by the biographies.
@@ -268,3 +362,7 @@ do not know it,” and the Lord, smiling, replied, “You do: you heard it from 
     Prabodhananda.
 [^6]: The account of the “Chaitanya-bhagavata” (Madhya 3) does not say that the Lord climbed onto Murari's shoulders;
     on Murari's shoulders He also sat in the mood of Garuda (CB, Madhya 20.87).
+[^7]: In the Bengali text the one who explains the dream is called “the friend of Rama” (*rama-mitra*). One of the
+    biographies takes this to mean Murari — the friend of Ramachandra, Hanuman — and writes that it was he who explained
+    the dream. But the words that follow (3.158–160) belong to the Lord Himself: “the friend of Rama” here is
+    evidently He, inseparable from Balarama-Nityananda.
