@@ -548,7 +548,7 @@
 | @akinchana-krishnadasa | Акинчана Кришнадас | Akinchana Krishnadasa | «неимущий» Кришнадас, дорогой Господу (ЧЧ Ади 10.66); не путать с другими Кришнадасами |
 | @bhagavan-pandita | Бхагаван Пандит | Bhagavan Pandita | дорогой слуга Господа; «в его теле прежде пребывал Кришна» (ЧЧ Ади 10.69); не путать с @bhagavan-acharya |
 | @vanamali-pandita | Ванамали Пандит | Vanamali Pandita | видел в руках Господа золотые палицу и плуг (ЧЧ Ади 10.73); тождество с @vanamali-acharya не установлено |
-| @shankararanya | Шанкараранья | Shankararanya | «ветвь древа Ачарьи» (ЧЧ Ади 10.106); отождествление (напр., с санньяси-именем @vishvarupa) здесь не устанавливается |
+| @shankararanya | Шанкараранья | Shankararanya | санньяса-имя @vishvarupa: ветвь древа Махапрабху (ЧЧ Ади 10.106; «Анубхашья» — это Вишварупа, ушёл в 1432 г. Шака в Пандарпуре), сын Шачи по ЧЧ Мадхья 9.299–300; в записях — вместе с @vishvarupa |
 | @jagannatha-acharya-ganga | Джаганнатха Ачарья (жил у Ганги) | Jagannatha Acharya (who lived by the Ganga) | по велению Господа поселился у Ганги (ЧЧ Ади 10.108); не путать с @jagannatha-acharya-shakta |
 | @vaninatha-vasu | Ванинатха Васу | Vaninatha Vasu | из Кулинаграмы (ЧЧ Ади 10.81); не путать с @vaninatha-raya |
 | @gopinatha-pattanayaka | Гопинатха Паттанаяк | Gopinatha Pattanayaka | сын Бхавананды Рая, брат Рамананды Рая (ЧЧ Ади 10.133; Антья 9) |
