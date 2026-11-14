@@ -43,7 +43,7 @@ names of Krishna, and at times he wept: ‘I have not attained Mathura.’ Then 
 though he was the disciple, he spoke to his guru without fear: ‘You are the full bliss of Brahman — remember Brahman!
 You know Brahman; why do you weep?’” (CC, Antya 8.16–19) <!-- F8 Q4 -->
 
-A dry knower (*shushka-jnani*) of Brahman, he overstepped the reverence due to the guru and was not afraid to teach
+So this “dry knower” (*shushka-jnani*) overstepped the reverence due to the guru and was not afraid to teach
 the one before whom a disciple ought to bow. He did not understand his guru’s mood and saw in him an ordinary man.
 Srila Bhaktisiddhanta, in his “Anubhashya,” as the biographies report, explains: looking at his guru suffering in
 separation from Krishna, Ramachandra Puri judged by worldly reasoning that he was grieving over some material lack,
@@ -122,8 +122,8 @@ One of the biographies explains here the custom of sannyasis: they answer an obe
 bhagavate narayanaya*” and remember Krishna, for it does not befit a sannyasi either to bless a living being or to
 bow to one. <!-- F17 -->
 
-Jagadananda brought Jagannatha’s prasada for his guest. Ramachandra Puri ate his fill — and, as Kaviraja remarks, did
-so in order to have something to censure afterwards (Antya 8.9). When he had eaten, he told Jagadananda to finish the
+Jagadananda brought Jagannatha’s prasada for his guest. Ramachandra Puri ate his fill — deliberately, as Kaviraja
+remarks, so as to have something to censure afterwards (Antya 8.9). When he had eaten, he told Jagadananda to finish the
 remnants, sat him down himself, insistently served him himself and again and again pressed him to eat more
 (8.10–12). And when Jagadananda had at last washed his hands, the sannyasi began to reproach him:
 
@@ -155,7 +155,7 @@ and what was offered for one invitation sufficed for three — Mahaprabhu, Kashi
 cook for the Lord himself but wished to pay for His meal gave four panas of cowries, that is, three hundred and
 twenty shells, and with them Jagannatha’s prasada was bought (8.38–39). <!-- F23 -->
 
-All this Ramachandra Puri now set about finding out concerning the Lord — His way of life, His rules, how much He ate
+In the same way he set about finding out about the Lord — His way of life, His rules, how much He ate
 and slept:
 
 “Seeking only faults, he could not touch the Lord’s virtues; he searched for a fault and found none anywhere. Then he
@@ -220,7 +220,7 @@ received the other half; so both of them now ate half. Seeing this, the devotees
 told Govinda and Kashishvara, considering them His own, to take their meals elsewhere so as not to go hungry (CC,
 Antya 8.55–59). <!-- F29 -->
 
-Kaviraja returns to these days more than once. In the summary of the Madhya-lila he says that the Lord reduced His
+Kaviraja returns to these days more than once. In the brief review of the pastimes at the beginning of the Madhya-lila he says that the Lord reduced His
 alms out of fear of Ramachandra Puri, and then, seeing the sorrow of the Vaishnavas, kept half of what He had taken
 before (Madhya 1.266); in the review of the Antya-lila, that the eighth chapter describes the coming of Ramachandra
 Puri and how out of fear of him the Lord reduced His alms (Antya 20.115). And telling of the devotees who fed the
@@ -276,7 +276,7 @@ irony. And Puri went on:
 “This offender does not see good qualities even in one who has hundreds of them; rather, he finds a way to call them
 faults.” (CC, Antya 8.79)
 
-One should not imitate him, said Puri, and he spoke of him only because his heart ached; and all of them begged the
+One should not imitate him, said Puri, and he was speaking of him only because his heart ached; and all of them begged the
 Lord to eat as was fitting and to accept their invitations as before (8.80–81). <!-- F34 Q7 -->
 
 The Lord answered as the Teacher of the people:
@@ -311,7 +311,7 @@ majesty. Sometimes He was almost a servant to Ramachandra Puri; sometimes He pai
 blade of grass. The character of the Lord is beyond the reach of the intellect; whatever He does at any time is all
 charming.” (CC, Antya 8.91–93)[^11]
 
-Now He was almost his servant, now He took no more account of him than of a blade of grass. The reverence that the
+The Lord was now almost his servant, now He took no more account of him than of a blade of grass. The reverence that the
 Lord showed by worldly custom to a sannyasi and a disciple of Madhavendra was His lila and a lesson in maryada, not a
 recognition that Ramachandra Puri was right; and His disregard was a display of His independence. All the deeds of
 the inconceivable Lord, say the biographies, are eternal, auspicious and beautiful at all times and in all
@@ -339,7 +339,7 @@ Vishnu and godlessness, and step by step the offence reaches the Lord Himself; M
 “through the conduct of the offender Ramachandra.” <!-- F42 Q10 -->
 
 Not all the disciples of one true guru stand on the same step, the biographies continue. One may outwardly take
-shelter and receive the mantra and still not become a disciple. A true disciple understands the guru’s severity as a
+shelter and receive the mantra and still not become a true disciple. A true disciple understands the guru’s severity as a
 blessing for himself and for others. As one of them puts it, the guru rewards the disciple who has given himself to
 loving service, and only such a disciple is able to recognise the guru’s mercy: not for nothing is service to the
 guru with trust (*vishrambhena guroh seva*) among the most important of the sixty-four angas of bhakti. <!-- I5 -->
@@ -370,11 +370,11 @@ And lastly: it is not enough to call oneself a follower of Gaura. Jagadananda Pa
 teaching.” (“Prema-vivarta” 8.6) <!-- I8 Q14 -->
 
 So the Lord, the Teacher of the world, was teaching the people when He reduced His food, when He humbly called
-Himself Ramachandra Puri’s disciple, and when He defended him before the devotees: He taught amanitva, the dharma of
-a sannyasi who does not indulge the tongue, and where offence against the guru leads. <!-- I10 -->
+Himself Ramachandra Puri’s disciple, and when He defended him before the devotees: He taught amanitva, taught that a
+sannyasi must not indulge the tongue, and taught where offence against the guru leads. <!-- I10 -->
 
 ## Vibhishana
-Who Ramachandra Puri is in the eternal pastimes, Kavi Karnapura tells us:
+Who Ramachandra Puri was before, Kavi Karnapura tells us:
 
 “He who was formerly Vibhishana is considered to be Ramachandra Puri; therefore Gaurahari said: ‘The cause of this is
 not Rama.’ For the sake of the work, Jatila, Radhika’s mother-in-law, entered into him; and therefore Mahaprabhu then
