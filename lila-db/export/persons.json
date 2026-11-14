@@ -4226,6 +4226,10 @@
     "type": "companion"
    },
    {
+    "from": "@govinda-servant",
+    "type": "served-by"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "disciple"
    },
@@ -10947,6 +10951,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "disciple"
    },
@@ -12330,6 +12338,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -13409,6 +13421,10 @@
    },
    {
     "from": "@gauridasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-servant",
     "type": "other"
    },
    {
@@ -14920,6 +14936,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "other"
+   },
+   {
+    "from": "@govinda-servant",
+    "type": "served-by"
    },
    {
     "from": "@jagadananda-pandita",
@@ -17934,6 +17954,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@govinda-servant",
+    "type": "guru"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -18777,6 +18801,10 @@
    },
    {
     "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-servant",
     "type": "other"
    },
    {
@@ -20042,6 +20070,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@govinda-servant",
+    "type": "co-worker"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "friend"
    },
@@ -20281,6 +20313,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-servant",
     "type": "other"
    },
    {
@@ -21239,6 +21275,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "uncle"
    },
@@ -22090,6 +22130,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "friend"
+   },
+   {
+    "from": "@govinda-servant",
+    "type": "other"
    },
    {
     "from": "@jagadananda-pandita",
@@ -24793,6 +24837,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -25742,6 +25790,10 @@
     "type": "companion"
    },
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -26197,6 +26249,219 @@
    "ev-srinivasa-gadadhara-puri",
    "ev-jahnava-vrindavana",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Бхангура, слуга Кришны во Вриндаване (ГГД 137) и др.; гуру — Ишвара Пури",
+  "card": "parshadas/cards/govinda-servant.yaml",
+  "article": {
+   "ru": "parshadas/ru/govinda-servant.md",
+   "en": "parshadas/en/govinda-servant.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-14) дня явления нет",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#puri?",
+    "conf": "день и год ухода неизвестны; по B — прожил недолго после прихода Шринивасы в Пури (F57, без первоисточника, ⚠8); в календаре ШЧСМ (541/ru, проверено 2026-11-14) дня ухода нет",
+    "facts": [
+     "F5",
+     "F57"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Бхангура, слуга (чета) Кришны во Вриндаване",
+    "source": "ГГД 137",
+    "level": "A",
+    "variants": [
+     "B 827 и M 76 добавляют «носивший воду (из Ямуны)» — смешение с ГГД 139 (⚠3); соответствие Говинда = Бхангура — по порядку пар (так T 139)."
+    ]
+   },
+   {
+    "in": "other-avatara",
+    "as": "Пундарикакша, спутник Вайкунтхи",
+    "source": "ГГД 116 (по B 804)",
+    "level": "B",
+    "variants": [
+     "B называет его «Пундарика»; что Говинда ГГД 116 — именно слуга Господа, ГГД прямо не говорит (⚠1)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@ishvara-puri",
+    "note": "Ученик и слуга; по велению гуру перед его уходом пришёл служить Господу (ЧЧ Ади 10.138–139; Мадхья 10.132–134); ЧЧН 8.13 — послан ещё при жизни Ишвары Пури (⚠4). = @ishvara-puri F59–F64."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Личный и главный слуга Господа в Пури (служение телу, пища, припасы, сосуд для омовения стоп, привратник); Господь принял его как слугу своего гуру, по приказу гуру (Ади 10.140; Мадхья 10.142–147, ⚠Б2); дасья-раса (Мадхья 2.78); «никогда не покидай Меня» (Антья 13.87); переход через тело Господа ради служения (Антья 10, ⚠Б1)."
+   },
+   {
+    "type": "sibling",
+    "who": "@kashishvara",
+    "note": "Духовный брат (оба — ученики Ишвары Пури); вместе служили Господу: Кашишвара впереди в толпе, Говинда — позади с сосудом воды (ЧЧ Мадхья 12.207); по ГГД 137 — Бхрингара и Бхангура; пришёл позже Говинды (Мадхья 10.134, 10.185)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@ramai-puri",
+    "note": "Помогал Говинде, носил воду (ЧЧ Ади 10.143–144); по ГГД 139 — Пайода."
+   },
+   {
+    "type": "co-worker",
+    "who": "@nandai",
+    "note": "Помощник Говинды (ЧЧ Ади 10.143–144); по ГГД 139 — Варида."
+   },
+   {
+    "type": "co-worker",
+    "who": "@svarupa-damodara",
+    "note": "Вместе встречали гаудийцев гирляндами (ЧЧ Мадхья 11.74–81); вместе спали у двери Гамбхиры и искали Господа (Антья 14, 17, 19); Сварупа представил Говинду Адвайте. = @svarupa-damodara F20, F62, F67, F75, F77."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "При нём Говинда пришёл к Господу; спросил о слуге-шудре и посоветовал исполнить приказ гуру (ЧЧ Мадхья 10.136–146)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Поднёс ему гирлянду и простёрся перед ним; Адвайта его ещё не знал (ЧЧ Мадхья 11.78–81); угощения Адвайты Говинда первыми называл Господу (Антья 10.118)."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Гирлянда на третий год (Мадхья 16.38–39); Нитьянанда попросил у Говинды накидку Господа для царя (Мадхья 12.36)."
+   },
+   {
+    "type": "served-by",
+    "who": "@haridasa-thakura",
+    "note": "Носил ему остатки Господа; в последний день — махапрасад (ЧЧ Антья 11.16–20)."
+   },
+   {
+    "type": "other",
+    "who": "@raghava-pandita",
+    "note": "Хранил его мешки с угощениями на весь год (ЧЧ Антья 10.55–56, 10.128)."
+   },
+   {
+    "type": "other",
+    "who": "@damayanti",
+    "note": "B 822: бережно хранил её припасы и давал Господу понемногу."
+   },
+   {
+    "type": "other",
+    "who": "@kalidasa",
+    "note": "Не давал никому воды со стоп Господа; по знаку Господа отдал Калидасу остатки (ЧЧ Антья 16.40–57)."
+   },
+   {
+    "type": "served-by",
+    "who": "@raghunatha-dasa",
+    "note": "Пять дней кормил его остатками Господа; Рагхунатха обращался к Господу через Сварупу или Говинду (ЧЧ Антья 6). = @raghunatha-dasa F102–F103."
+   },
+   {
+    "type": "served-by",
+    "who": "@raghunatha-bhatta",
+    "note": "По велению Господа нашёл ему жильё (ЧЧ Антья 13.104); M — дал прасад, убрал гостинцы."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Через Говинду — масло и постель; Говинда докладывал Господу, поел ли Джагадананда (ЧЧ Антья 12–13)."
+   },
+   {
+    "type": "other",
+    "who": "@shrikanta-sena",
+    "note": "Велел снять рубашку перед поклоном; Господь: «не говорите ему ничего» (ЧЧ Антья 12.37–38)."
+   },
+   {
+    "type": "served-by",
+    "who": "@shivananda-sena",
+    "note": "По велению Господа давал семье Шивананды остатки Господа (ЧЧ Антья 12.52–53)."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-puri",
+    "note": "Через Говинду Господь установил урезанную меру пищи (ЧЧ Антья 8.50–59)."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "note": "Господь велел Говинде не пускать его; позже Говинда и другие слышали его пение у моря (ЧЧ Антья 2)."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Приносил ему махапрасад; дал тарелку остатков в саду Ямешвары (ЧЧ Антья 4.50, 4.121)."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Принёс ему и Харидасу прасад от Господа (ЧЧ Антья 1.64)."
+   },
+   {
+    "type": "other",
+    "who": "@kamalakanta-vishvasa",
+    "note": "Господь велел больше его не пускать (ЧЧ Ади 12.36)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Накидка Господа для царя — через Говинду (Мадхья 12.36); у Лочана царь просит Говинду о встрече (Шеша, 51.87–90)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Послан за ним вместе со Сварупой и Джагаданандой (ЧЧ Антья 7.150)."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "По знаку Господа принёс прасад для него (Антья 16.105); с ним шёл в Гауду; спор о Младшем Харидасе."
+   },
+   {
+    "type": "other",
+    "who": "@shankara-pandita",
+    "note": "ЧЧН 8: Господь велит Говинде быть благосклонным к Шанкаре; после сокрытия Господа Шриниваса застал их обоих в разлуке (БР 3.188–193)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Господь открыл Говинде о рождении Шринивасы (БР 2); после сокрытия Господа обнял его (B 807; БР 3). = @srinivasa-acharya F12, F36."
+   },
+   {
+    "type": "other",
+    "who": "@chaitanya-dasa",
+    "note": "Проводил его с женой к Джаганнатхе (БР 2)."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-guru",
+    "note": "По T — ребёнком служил Господу под началом Говинды; в БР 8 вспоминает, как Говинда растирал стопы Господа. = @gopala-guru F4."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-karmakara",
+    "note": "Тёзка, не путать: автор «Карчи»; B 769 приписывает её «личному слуге Говинде» (⚠9); гипотеза Д. Ч. Сена о тождестве — не принимаем."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.138–143 и Мадхья 2.78: Бхангура (ГГД 137), чистая дасья-раса, переход через Господа ради служения."
+   }
   ],
   "related_by": [
    {
@@ -27661,6 +27926,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-servant",
+    "type": "sibling"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "disciple"
    },
@@ -27778,6 +28047,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@nandana-acharya",
     "type": "other"
    },
@@ -27861,6 +28134,10 @@
    {
     "from": "@damodara-pandita",
     "type": "sibling"
+   },
+   {
+    "from": "@govinda-servant",
+    "type": "other"
    },
    {
     "from": "@svarupa-damodara",
@@ -28286,6 +28563,10 @@
    {
     "from": "@gopala-bhatta",
     "type": "companion"
+   },
+   {
+    "from": "@govinda-servant",
+    "type": "served-by"
    },
    {
     "from": "@jagadananda-pandita",
@@ -28954,6 +29235,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@govinda-servant",
+    "type": "served-by"
+   },
    {
     "from": "@ishvara-puri",
     "type": "other"
@@ -29733,6 +30018,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@govinda-servant",
+    "type": "served-by"
+   },
+   {
     "from": "@jahnava",
     "type": "met"
    },
@@ -30309,6 +30598,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "nephew"
    }
@@ -30747,6 +31040,12 @@
    "ev-devghar-leper",
    "ev-return-from-south",
    "ev-messenger-to-gauda-after-south"
+  ],
+  "related_by": [
+   {
+    "from": "@govinda-servant",
+    "type": "other"
+   }
   ]
  },
  {
@@ -34007,6 +34306,10 @@
     "type": "met"
    },
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "met"
    },
@@ -34842,6 +35145,10 @@
     "type": "disciple"
    },
    {
+    "from": "@govinda-servant",
+    "type": "met"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -34970,6 +35277,10 @@
    "ev-gati-govinda-birth"
   ],
   "related_by": [
+   {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
    {
     "from": "@sanatana-gosvami",
     "type": "other"
@@ -37441,6 +37752,10 @@
    "ev-jahnava-vrindavana"
   ],
   "related_by": [
+   {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
    {
     "from": "@raghunatha-dasa",
     "type": "relative"
@@ -40299,6 +40614,10 @@
    },
    {
     "from": "@govinda-maharaja",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-servant",
     "type": "other"
    },
    {
@@ -45234,6 +45553,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -46852,6 +47175,12 @@
   ],
   "events": [
    "ev-raghavera-jhali"
+  ],
+  "related_by": [
+   {
+    "from": "@govinda-servant",
+    "type": "other"
+   }
   ]
  },
  {
@@ -47121,6 +47450,10 @@
   ],
   "related_by": [
    {
+    "from": "@govinda-servant",
+    "type": "co-worker"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "other"
    }
@@ -47145,6 +47478,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@govinda-servant",
+    "type": "co-worker"
+   },
    {
     "from": "@jagadananda-pandita",
     "type": "other"
@@ -47245,6 +47582,10 @@
    {
     "from": "@advaita",
     "type": "disciple"
+   },
+   {
+    "from": "@govinda-servant",
+    "type": "other"
    }
   ]
  },
@@ -47741,6 +48082,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@govinda-servant",
+    "type": "other"
+   },
    {
     "from": "@jagadananda-pandita",
     "type": "other"
