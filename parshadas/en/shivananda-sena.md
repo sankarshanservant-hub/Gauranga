@@ -68,7 +68,7 @@ the holy site of his home, is there. Srila Bhaktisiddhanta in the “Gaudiya-bha
 that Kumarahatta is the present Halisahar near Kancharapada station, and that Shrivasa, Shivananda Sena, Vasudeva Datta
 and other devotees lived there. <!-- F11 -->
 
-Kumarahatta is the birthplace of Ishvara Puri, Mahaprabhu’s guru. The Lord, coming here, took a handful of its earth;
+Kumarahatta is the birthplace of Ishvara Puri, Mahaprabhu’s guru. The Lord, coming here, took a handful of earth;
 the devotees took it after Him, and so a pond was formed, called Chaitanya-doba. After the Lord accepted sannyasa,
 Shrivasa Pandita moved to Kumarahatta with his family: to stay on in Navadvipa without the Lord had become unbearable to
 him. Here too lived the lame Bhagavan Acharya and other devotees of Gaura, and Vasudeva Datta, a close friend of Shrivasa
@@ -203,8 +203,7 @@ Shivananda Sena’s son, named Chaitanya Dasa, went joyfully with his parents to
 Thus Shivananda Sena went in bliss to meet the Lord, caring for all the devotees and providing them with food.” (CC,
 Madhya 16.26–27) <!-- F31 Q4 -->
 
-One scene of such an arrival Kavi Karnapura recorded in the “Chaitanya-chandrodaya” as an eyewitness — he was the very
-son to whom his father spoke. Advaita, seeing the Lord from afar, dances and falls to the ground, and Shivananda tells
+One scene of such an arrival Kavi Karnapura recorded in the “Chaitanya-chandrodaya.” Advaita, seeing the Lord from afar, dances and falls to the ground, and Shivananda tells
 his son, so that all can hear: “Look, look, there He is, there!” — and in verses he describes Gauranga, whose arms are
 like golden bolts, and the embrace of Advaita and the Lord in which no one can tell which is Advaita and which Chaitanya
 (10.7–9). <!-- F21 -->
@@ -394,7 +393,7 @@ and again.” (CC, Antya 2.82) <!-- F48 F20 -->
 
 The Lord appearing in Nakula’s body, before Nrisimhananda and in four homes of Bengal is not “possession,” nor is it
 the devotee’s equality with God: it is the inconceivable power of the Lord, by which He, conquered by love, comes to His
-devotees.
+devotees. <!-- F48 -->
 
 ## News of Raghunatha
 One year, when Shivananda was already leading the pilgrims to Puri, Raghunatha Dasa, the son of the wealthy landholder
@@ -507,7 +506,7 @@ The “Chaitanya-chandrodaya” gives this conversation its own way: Shrikanta r
 sons of his uncle, whom the Lord has already seen, and the youngest, who has not yet seen His feet; and the Lord, turning
 to Paramananda Puri, says: “Svami, this is your servant” (Act 10).[^15] <!-- F64 -->
 
-When Shivananda brought the infant to the Lord, the Lord put the great toe of His foot into his mouth (Antya 12.50);
+When Shivananda brought the boy to the Lord, the Lord put the great toe of His foot into his mouth (Antya 12.50);
 according to one of the biographies, the boy, having bowed, began of himself to suck the toe of His foot.
 
 “The good fortune of Shivananda Sena is boundless! Who can surpass it? For Sri Chaitanya Mahaprabhu Himself called his
@@ -518,7 +517,7 @@ After His meal the Lord gave Govinda this instruction:
 “‘As long as Shivananda Sena’s wife and children are staying here in the town, give them a plate of the remnants of My
 meal every day.’” (CC, Antya 12.53) <!-- F65 Q12 F8 -->
 
-Some years later Shivananda again came to the Ratha-yatra with his wife and youngest son, still a small child, and told
+Another time Shivananda came to the Ratha-yatra with his wife and youngest son, still a small child, and told
 him to bow at the Lord’s feet. The Lord again and again said to the boy: “Say: Krishna!” — but he was silent. His father
 too urged him — in vain (CC, Antya 16.65–68). The Lord wondered:
 
