@@ -123,12 +123,12 @@ Remembering that house, Ranga Puri added:
 
 “One worthy son of hers had taken sannyasa; his name was Shankararanya, and he was young in years.” (CC, Madhya 9.299)
 
-And here, in this very holy place, he said, Shankararanya had attained siddhi — perfection (9.300). According to one
-of the biographies, it was Ranga Puri who first told Mahaprabhu of the siddhi of Shankararanya — Srila Vishvarupa.
+And here, in this very holy place, he said, Shankararanya had left this world (9.300). According to one
+of the biographies, it was Ranga Puri who first told Mahaprabhu of the departure of Shankararanya — Srila Vishvarupa.
 <!-- F22 F23 -->
 
 Shankararanya is the sannyasa name of Vishvarupa, the Lord’s elder brother. And Vishvarupa is no ordinary mortal:
-according to the “Gaura-ganoddesha-dipika” (58), Vishvarupa is Baladeva, the vyuha Sankarshana. His “siddhi,”
+according to the “Gaura-ganoddesha-dipika” (58), Vishvarupa is Baladeva, the vyuha Sankarshana. His departure,
 therefore, is not death but disappearance: He withdrew from the Lord’s manifest pastimes.[^4] So too Srila
 Bhaktisiddhanta speaks of it. In his “Anubhashya” on the branch “Shankararanya” of Mahaprabhu’s tree (CC, Adi 10.106)
 he cites a verse of the “Gaura-ganoddesha-dipika”: “His elder brother, who never took a wife, is Bhagavan Sankarshana

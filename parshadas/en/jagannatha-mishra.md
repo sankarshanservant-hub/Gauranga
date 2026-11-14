@@ -245,7 +245,7 @@ she were the mother of the whole universe.” (CC, Madhya 9.297)
 
 “One of her worthy sons took sannyasa while still young, receiving the name Shankararanya.” (CC, Madhya 9.299)
 
-And here, in this holy place, Ranga Puri said, Shankararanya had attained siddhi — perfection (CC, Madhya 9.300).
+And here, in this holy place, Ranga Puri said, Shankararanya had left this world (CC, Madhya 9.300).
 
 “Sri Chaitanya said: ‘Before taking sannyasa Shankararanya was My brother, and Jagannatha Mishra My father.’”
 (CC, Madhya 9.301)[^14]
