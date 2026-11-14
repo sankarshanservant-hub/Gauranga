@@ -3183,10 +3183,6 @@
 - cb (A): Антья 3, 228–231 — [228–231](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1110-L1125) · `cb-3046`
 - cb (A): Антья 10, 32–57 — [32–57](../chaitanya-bhagavata/ed/CB_Antya10.md?plain=1#L164-L286) · `cb-3121`
 
-## Ганга входит в колодец Парамананды Пури / The Ganga enters Paramananda Puri's well  `ev-paramananda-puri-well-ganga` (1510–1510, возраст 24–24, )
-
-- cb (A): Антья 3, 232–262 — [232–262](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1130-L1277) · `cb-3047`
-
 ## Первые праздники в Пури: Дола-ятра и Рама-навами / The first festivals in Puri: Dola-yatra and Rama-navami  `ev-first-year-festivals-puri` (1510–1510, возраст 24–24, )
 
 - cc (A): Мадхья 7.3–6 — [3–6](../chaitanya-charitamrita/ed/vcd/CC_Madhya07.md?plain=1#L31-L55) · `cc-1060`
@@ -3807,6 +3803,10 @@
 ## Господь сажает туласи в горшок и повторяет имена, глядя на неё / The Lord plants Tulasi in a pot and chants His rounds gazing at her  `ev-lord-tulasi-pot-japa` (1512–1514, возраст 26–28, оценка)
 
 - cb (A): Антья 8, 154–162 — [154–162](../chaitanya-bhagavata/ed/CB_Antya08.md?plain=1#L759-L799) · `cb-3106`
+
+## Ганга входит в колодец Парамананды Пури / The Ganga enters Paramananda Puri's well  `ev-paramananda-puri-well-ganga` (1512–1514, возраст 26–28, )
+
+- cb (A): Антья 3, 232–262 — [232–262](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L1130-L1277) · `cb-3047`
 
 ## Адвайта начинает киртан имён Гауранги / Advaita begins the kirtana of Gauranga's names  `ev-advaita-gaura-kirtan` (1512–1514, возраст 26–28, оценка)
 
