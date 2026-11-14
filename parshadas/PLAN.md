@@ -138,7 +138,7 @@ B — вероятно, больше сотни).
 | @murari-gupta (039) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @shivananda-sena (040) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @paramananda-puri (041) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @ranga-puri (042) | ✓ | в работе | — |
+| @ranga-puri (042) | ✓ | ✓ (PDF) | — |
 | @ramachandra-puri (043) | ✓ | в работе | — |
 | @govinda-servant (044, Говинда — слуга Господа) | ✓ | в работе | — |
 
