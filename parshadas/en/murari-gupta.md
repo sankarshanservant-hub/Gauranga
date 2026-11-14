@@ -777,6 +777,147 @@ Gupta, all cried out, ‘Jaya! Jaya!’” (CB, Antya 4.341–344)[^13]
 Jayananda adds that in Advaita's house mother Shachi showed her mercy to Murari Gupta, and at the festival in memory of
 Madhavendra Puri Murari was the keeper of the stores. <!-- F80 -->
 
+## The “Kadacha”
+Murari was beside the Lord in Navadvipa from childhood to the sannyasa and saw His pastimes with his own eyes. And he
+recorded them — the first of all — in the Sanskrit poem “Sri Krishna-chaitanya-charitamrita,” commonly called the
+“Kadacha,” the “notes” (it should not be confused with the Bengali “Chaitanya-charitamrita” of Krishnadasa Kaviraja).
+It has four parts, prakramas, and seventy-eight chapters, sargas. <!-- F25 -->
+
+It was Shrivasa who told Murari to begin it. In the very first sarga he speaks of himself in the third person:
+
+“A devotee named Shrivasa, the sun who makes the lotus of the twice-born race bloom, said to Sri Murari: ‘Tell here a new
+and holy account of Hari's life.’ Accepting his command, Murari openly joined his palms, bowed to him again and again,
+and himself began to tell the glory of Sriman Chaitanya, which washes away the stain of Kali.” (“Kadacha” 1.1.9)
+
+“The physician's son” doubted his powers: how could he tell of Chaitanya when even Vachaspati himself cannot? “And yet
+it is right to carry out a Vaishnava's command — so I have resolved” (1.1.10–12). The whole poem is built as a
+conversation: Damodara Pandita asks, Murari tells. So Murari tells Damodara of Vishvarupa's sannyasa; and when little
+Vishvambhara said to His mother, “I am going. Take care of your son's body,” and fell unconscious, Damodara asks in
+perplexity how Krishna Himself could say such a thing, and Murari explains: when a person meditates on Bhagavan, sings of
+Him and hears of Him, Hari enters the heart of that great soul, and for a time he forgets his body; so the Lord taught
+that the devotee's body is the very soul of Bhagavan (“Kadacha” 1.7–1.8.10; so too in Lochana Dasa). <!-- F30 F74 -->
+
+At the end Murari calls his account brief “like a sutra”: “Shrivasa and other great souls will describe it in detail”
+(4.25.1). He counts it up himself: the poem has four prakramas and seventy-eight sargas — sixteen, eighteen, eighteen
+and twenty-six — and the verses number nineteen hundred and twenty-seven (4.26.20–21)[^14]. Having heard it all,
+Damodara bowed to Murari: “I have reached my goal, I have reached my goal, I have reached my goal!” And Advaita said to
+him:
+
+“‘You are ever [devoted] to Ramachandra; that is why He has revealed through you this jewel of a book. For this Sri Rama
+has appeared in the world as Gaura, and through this book He brings forth the very essence of the sweetness of
+prema.’” (“Kadacha” 4.26.25–26)
+
+Shrivasa, receiving the book, said that it frees the worlds from bondage, and all the devotees bowed to Murari, while
+he, clasping their feet, broke into dance, crying, “Glory to Krishna Chaitanya and Rama!” — that is, Nityananda-Rama
+(4.26.27–30). The book, Murari says, was completed “at the end of fourteen hundred years, in the thirty-fifth year, on
+the seventh day of the bright half of the month of Ashadha” (4.26.32), that is, in the year 1435 of the Shaka era, in
+1513[^15]. <!-- F30 -->
+
+Krishnadasa Kaviraja held the “Kadacha” in high regard:
+
+“Murari Gupta recorded in sutras all the Lord's deeds in the Adi-lila. Svarupa Damodara set down the Lord's later
+pastimes in brief notes and gathered them in his book. Reading and hearing the notes of these two, the Vaishnavas
+describe the Lord's pastimes in their order.” (CC, Adi 13.15–17)
+
+“Svarupa Damodara and Murari Gupta weighed them carefully and wrote down the chief pastimes in brief.” (CC, Adi 13.46)
+
+Srila Bhaktivinoda Thakura explains in the “Amrita-pravaha-bhashya”: Murari's notes on the early pastimes have survived,
+and devotees, looking into them, could unfold them at greater length, while Svarupa's notes the Vaishnavas knew only
+from the words of Raghunatha Dasa. <!-- F26 Q19 -->
+
+All who wrote of the Lord after Murari relied on the “Kadacha”: Vrindavana Dasa, Lochana Dasa and other associates of
+Gaura described His pastimes following it, and together the books of Murari, Vrindavana and Lochana give the story of
+the life of Sri Chaitanya and His devotees. Lochana Dasa says plainly that Murari of Nadia composed many Sanskrit verses
+about Gauranga and made a book of them. According to one of the biographies, Lochana learned it from Damodara Pandita,
+who had heard the verses from Murari, and conveyed its essence in Bengali panchali verses; Lochana himself says that
+Damodara questioned Murari, Murari told, and so the book came to be — “a conversation with Damodara from Murari's
+lips”; and of Vishvarupa's sannyasa Lochana retells what he heard from Damodara out of Murari's account. Kavi Karnapura,
+at the close of his “Chaitanya-charitamrita-mahakavya,” bows to Murari Gupta, who knew the Lord's pastimes from
+childhood and whose notes became the basis of his poem (20.42–49), and his “Gaura-ganoddesha-dipika,” he says, he
+composed from the words and writings of Mahaprabhu and His intimate associates, such as Svarupa Damodara and Murari
+Gupta. <!-- F27 I7 -->
+
+Karnapura also refers to the “Kadacha” in the “Gaura-ganoddesha-dipika” when speaking of Haridasa Thakura:
+
+“As the feet of Murari Gupta have said in the ‘Chaitanya-charitamrita’: the sage's son, bringing tulasi leaves in the
+morning unwashed, was cursed by his father and became a yavana; and he became Haridasa, endowed with supreme devotion.”
+(“Gaura-ganoddesha-dipika” 94–95)
+
+In Murari himself the tulasi fell to the ground, and the youth did not wash it again (“Kadacha” 1.4.9–11). The lives of
+the Lord's associates draw much from the “Kadacha”: the betrothal and wedding of Vishnupriya (1.13–14); that Vishnupriya
+was the first to establish the worship of Gauranga's image (4.14.8, 4.14.12–14); the meeting of Gaura with Ramananda,
+which Lochana took from Murari; the Lord's return from Vrindavana to Purushottama, when the king summoned Sarvabhauma and
+Ramananda (4.15.1); Raghunandana and the people of Khanda and Kulinagrama (4.1.5); Sanatana in Ramakeli (3.18); the
+Lord's mercy in Kashi to little Raghunatha, the son of Tapana Mishra (4.1.14–17). Jiva is not mentioned in the
+“Kadacha,” and of Vrindavana Dasa's father Murari says nothing. <!-- F28 Q28 -->
+
+The printed text of the “Kadacha” also raises questions. One of the biographies observes that of the Lord's stay in
+Shri Ranga it says only that He lived four months in the house of Trimalla Bhatta, that it calls Gopala Bhatta the son
+of Trimalla and says not a word of Prabodhananda; and that until the manuscripts are collected and the variant readings
+studied, no firm conclusions can be drawn from a single printed book[^16]. <!-- F29 -->
+
+There are also songs signed “Murari,” though not all of them can be ascribed with certainty to Murari Gupta: of little
+Gora in Shachi's courtyard, whose sannyasa Murari foretells; of a children's kirtan; of the Lord in the mood of Radha,
+clinging to Gadadhara (signed “Murari Gupta”); the song “Why is Gora cruel to me?” (signed “Murari Gupta” in only one
+collection); of Nityananda bringing Shachi the news of the sannyasa (one variant is signed by Vasu Ghosha); of the
+people of Nadia going to Shantipura, and of Shachi in Shantipura. <!-- F31 -->
+
+## Last Years and Departure
+Murari outlived his Lord. While Mahaprabhu was still present, when Nityananda by His will married, Shrivasa, Advaita,
+Chandrashekhara, Murari Gupta and others gathered for the wedding and sang sankirtana; Jayananda, listing the wonders of
+Nityananda's associates, names also “Murari Gupta as Hanuman.” When Jagadananda came from Puri to Navadvipa with news of
+the Lord, Murari Gupta and Vasudeva Datta joyfully kept him with them and would not let him go (CC, Antya 12.98)[^17].
+<!-- F73 F94 Q27 -->
+
+After the Lord withdrew from sight, His associates in Navadvipa, says the “Bhakti-ratnakara,” were almost dead from
+separation, but the Lord kept them in the manifest world so that they might bestow mercy on Shrinivasa Acharya.
+Shrinivasa, coming to Navadvipa, received the darshan and mercy of Murari Gupta, Shrivasa Pandita, Damodara Pandita,
+Sanjaya, Shuklambara and Gadadhara Dasa (“Bhakti-ratnakara” 4.57–60). Later, wandering through Gauda, Narottama too
+visited Mayapura and met the aged followers of Mahaprabhu — Shuklambara, Ishana, Murari, Damodara and Gadadhara Dasa,
+deeply grieving over the Lord's disappearance. In Narottama's dreams Murari Gupta appears among the Lord's associates
+(“Narottama-vilasa” 4.127, 7.355), and the “Prema-vilasa” relates that in the great kirtan at Kheturi Gaura appeared
+together with Murari and other associates (ch. 19). <!-- F95 F96 Q29 -->
+
+The sources name neither the year nor the place of Murari's departure; it is known only that he was still living after
+1534, when the Lord withdrew from sight. The day of his departure is honoured on the Sharad Purnima — the full moon of
+the autumn rasa-lila. In our calendar it is the purnima of the month of Padmanabha, the Sharadiya Rasa-yatra of Sri
+Krishna (in 2026, October 26); with this purnima the month of Damodara begins. The day of his appearance is not in the
+calendar, and the sources do not give it. <!-- F97 -->
+
+## Murari's House in Mayapura
+Murari's house stood in Mayapura, very close to the Yogapitha, the place where Mahaprabhu appeared. In it was a shrine
+of Vishnu: here the Lord came in the mood of Varaha (CB, Madhya 3.22; “Kadacha” 2.2.12 — “the house temple”;
+“Chaitanya-charitamrita-mahakavya” 5.15–21), and in the Deity room, according to Lochana Dasa, He told Murari to serve
+Advaita. In songs ascribed to Narahari the townswomen go to Gauranga “from Murari Gupta's house,” and in Murari Gupta's
+quarter the young wives prepare sandal paste and garlands for Him. <!-- F16 F18 -->
+
+Srila Bhaktisiddhanta Sarasvati on March 18, 1934, laid the foundation of the temple at the Yogapitha, and with it of
+a smaller temple in Murari Gupta's house; “Sripat Sri Murari Gupta” in Sridham Mayapura is listed among the mathas he
+founded. Today in this temple, for the sake of Murari's attachment to the service of Ramachandra, the images of Rama
+and Sita are worshipped daily. In our calendar “Murari Gupta Bhavana” is among the places of the first day of the
+Navadvipa parikrama, after the Yogapitha, Shrivasa-angana, the temple of Nrisimha and Advaita's house. <!-- F16 F17 -->
+
+## Significance
+Murari Gupta is Hanuman in the pastimes of Gaura, the eternal servant of Rama, in every descent of the Lord His closest
+associate and, in Vrindavana Dasa's words, “the leader of the Lord's servants in all His descents.” His ornament is
+humility: seeing it, the Lord could not hold back His feelings, and His heart melted. <!-- F3 F6 I1 -->
+
+Through Murari the Lord taught the truth about Himself and about Nityananda, and right conduct: first the guru and
+jagad-guru, Nityananda-Balarama, and then the Supreme Lord Himself; without the guru's mercy service to the Lord cannot
+be attained. Through Murari the Lord showed that He accepts a devotee's offering however it is made — even when not
+bodily present. Through Murari He taught also fidelity to the ishta-deva: without special devotion to one's chosen Deity
+one cannot advance in bhakti, and glorious is the servant who does not abandon the Lord's feet, and glorious the Lord
+who does not abandon His servant. <!-- I2 I3 I4 -->
+
+The strength of his love is seen in this, that, fearing to outlive the Lord's departure, he was ready to leave his
+body; Murari's good fortune is such that Lakshmi, Brahma, Shiva and Ananta pray for it. A physician who took no fee, he
+healed everyone — of the disease of the body and of the disease of the soul. <!-- I5 I6 -->
+
+And finally, Murari is the Lord's first chronicler. Having seen the pastimes of Nadia with his own eyes, he recorded them
+at Shrivasa's command and by the blessing of the Lord Himself, who said: “What this vaidya says will be the truth of
+truths.” Vrindavana Dasa, Lochana Dasa and Kavi Karnapura wrote from his notes, and through them Murari Gupta's
+“Kadacha” lives on in all the lives of Sri Chaitanya. <!-- I7 F26 -->
+
 [^1]: Radha (Rarh) is the region west of the Ganga. One of the biographies, retelling this verse, says that Nityananda
     was born in Radha, while Gangadasa, Murari and Mukunda were born “elsewhere”; the verse itself does not say so.
     Shrihatta is named by Vrindavana Dasa (CB, Adi 2.35) and, following him, by the biographies.
@@ -814,3 +955,11 @@ Madhavendra Puri Murari was the keeper of the stores. <!-- F80 -->
 [^13]: One of the biographies places Murari's coming to Shantipura with Shachi and the recitation of the verses on Rama
     in the first days after the sannyasa. According to the “Chaitanya-bhagavata” (Antya 4.233–344), this was when the
     Lord came to Shantipura from Puri (c. 1514), and Shachi was brought by Gangadasa, with Murari going along with them.
+[^14]: In the numbering of the editions followed in our translation, 1926 verses.
+[^15]: This date is earlier than some events described in the poem (the Lord's journey to Vrindavana and what follows),
+    so its relation to the final text of the poem is unclear.
+[^16]: Our translation of the “Kadacha” is established from two printed editions of the poem; the manuscript
+    tradition of the poem still awaits study.
+[^17]: One of the biographies writes that after the chaturmasya Vasudeva Datta, Murari Gupta and Jagadananda came to
+    Shachi with news of the Lord and she would not let them go; according to the “Chaitanya-charitamrita” (Antya
+    12.98), it was Murari Gupta and Vasudeva Datta who would not let Jagadananda go.
