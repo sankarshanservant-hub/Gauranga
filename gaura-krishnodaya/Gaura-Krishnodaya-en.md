@@ -1419,7 +1419,7 @@ Vaishnava theology, the text is translated as it stands and the divergence is no
 *Thus ends the ninth canto of the* Sri Gaura-krishnodaya *composed by Sri Govinda.*
 
 [^09-1]: CC Madhya 7: the brahmin Kurma wanted to leave home and follow the Lord, but the Lord told him to stay and instruct everyone he met in Krishna's teaching.
-[^09-2]: CC Madhya 7: the leprous brahmin Vasudeva, who put back into his sores the worms that fell out, came when the Lord had already left; the Lord returned, embraced and healed him, and Vasudeva, humbly praising the Lord, became known as "Vasudevamrita-prada."
+[^09-2]: CC Madhya 7: the leprous brahmin Vasudeva, who put back into his sores the worms that fell out, came when the Lord had already left; the Lord returned, embraced and healed him; Vasudeva humbly praised the Lord, and from then on the Lord received the name "Vasudevamrita-prada," "the Giver of nectar to Vasudeva" (CC Madhya 7.150); the poem does not give this name.
 [^09-3]: Jiyada-Nrisimha at Simhachalam — CC Madhya 8.
 [^09-4]: CC Madhya 8: Ramananda successively names varnashrama, the offering of fruits, renunciation of duties, bhakti with knowledge, pure bhakti, prema, dasya, sakhya, vatsalya and madhurya; each time the Lord says, "This is external; go further." The example of the elements is as in the CC (Madhya 8): ether has one quality (sound), earth all five.
 [^09-5]: CC Madhya 8: Ramananda tells the Lord that he is only a dancing puppet, and that it is the Lord Himself who speaks through him.

@@ -13,14 +13,14 @@ In his brief summary of the Lord's pastimes Krishnadasa Kaviraja gives him a who
 The meeting took place at Kurma-kshetra (Kurmasthana), at the start of the Lord's journey through the South, in 1510,
 when Mahaprabhu was twenty-four.[^2] Srila Bhaktisiddhanta Sarasvati explains in his “Anubhashya” that this is
 Kurmachalam, or Srikurmam, in Ganjam district, eight miles east of Chicacole Road station on the B. N. R. line — the
-chief holy place of the Telugu-speaking people, where the Deity of Lord Kurma, the Tortoise avatara, resides. Today the
+most revered tirtha among Telugu speakers, where the Deity of Lord Kurma, the Tortoise avatara, resides. Today the
 station is called Srikakulam Road and the line the South Eastern Railway; the station lies in the state of Andhra
 Pradesh, while Ganjam district is in Orissa. <!-- F4 F5 F8 -->
 
 According to the same commentary, Sri Ramanuja came to Kurma-kshetra: Jagannatha carried him there, and Ramanuja, at
 first taking the Deity for a Shiva-linga, fasted until he recognised in Him Vishnu in the form of the Tortoise; then he
-opened His worship. In Mahaprabhu's time the temple was under the supervision of the Sri Madhva Math, in the domain of the
-king of Vijayanagara. <!-- F6 F7 -->
+opened His worship. Later the temple was under the supervision of the Sri Madhva Math, in the domain of the king of
+Vijayanagara. <!-- F6 F7 -->
 
 Nothing more is known of Vasudeva's worldly life. The sources name neither his parents nor the days of his appearance and
 disappearance; nor are they in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. When he left this world is also
@@ -61,9 +61,9 @@ look at any outward deformity or wretched condition of one wholly devoted to Him
 “At the Lord's touch his leprosy vanished together with his grief, and his body became beautiful and full of bliss.”
 (CC, Madhya 7.141)
 
-He received the body of the most handsome of men.[^6] Amazed at such causeless mercy, the brahmana remembered the words of
-Sudama — the poor brahmana, Krishna's childhood friend, whom the Lord had once met and embraced in just the same way in
-Dvaraka — and glorified the Lord with a verse of the “Bhagavatam”:
+He received the body of the most handsome of men.[^6] Amazed at such mercy, the brahmana remembered the words of Sudama —
+the poor brahmana, Krishna's childhood friend, whom the Lord had once met and embraced in just the same way in Dvaraka —
+and, holding the Lord's feet, glorified Him with a verse of the “Bhagavatam”:
 
 “Who am I, a poor and sinful man, and who is Krishna, the abode of the goddess of fortune? Yet because I was born a
 brahmana, He embraced me in His arms!” (CC, Madhya 7.143; “Srimad-Bhagavatam” 10.81.16)[^7] <!-- F20 F21 Q3 -->
@@ -92,21 +92,21 @@ and very soon Krishna will accept you as His own.” (CC, Madhya 7.147–148) <!
 So the Lord found him fully worthy to be an acharya — a teacher who himself chants the name of Krishna without cease and
 instructs others in it. He assured Vasudeva that the beauty of his body would not bring him the conceit that usually
 comes with it. One of the biographies recalls this in its account of Kurma as well: the Lord embraced Vasudeva, made him
-most handsome, delivered him and, blessing him, assured him that his new body would not give rise to pride; then He
-ordered him too to deliver all jivas by instructing them in the name of Krishna. <!-- F26 F27 -->
+most handsome, delivered him and, blessing him, assured him that his new body would not give rise to pride; and then
+He gave him as well the order to teach Krishna's name and so bring all jivas to deliverance. <!-- F26 F27 -->
 
 A similar order the Lord gave on the same road to Kurma himself and to all the householders who received Him in their
 homes (Madhya 7.127–130). On these verses Srila Bhaktisiddhanta writes in the “Anubhashya”: to those who wish to give up
 everything for His service, Mahaprabhu says “stay at home” — that is, give up the pride of one “wholly given to bhajana,”
-chant the pure name with humility and preach it. To think “I am the best Vaishnava; if I accept disciples I shall ruin my
-bhajana” is the same pride; and whoever considers the books of Rupa, Sanatana, Jiva and Raghunatha Dasa, and the many
+chant the pure name with humility and preach it. To think, “I am the foremost of Vaishnavas; taking disciples would ruin my
+bhajana,” is the same pride; and whoever considers the books of Rupa, Sanatana, Jiva and Raghunatha Dasa, and the many
 disciples of Narottama, Madhva and Ramanuja, an obstacle to bhakti offends the selfless devotees. One who does the work of
 a guru with humility will not be swept away by the craving for fame. The words “stay at home” are not addressed to
 Vasudeva; but the thought is the same as in the order given to him: humility and preaching the name are the protection
 against pride.[^8] <!-- I6 -->
 
 Another comment of Srila Bhaktisiddhanta (on Madhya 7.152) reveals the meaning of these orders. Sri Krishna Chaitanya
-awakens consciousness in jivas who lack it; once awakened and turned to the service of Krishna, they in turn, as acharyas,
+brings jivas devoid of consciousness to consciousness; once awakened and turned to the service of Krishna, they in turn, as acharyas,
 awaken others. Thus, increasing the family of Achyuta and spreading the path of *shrauta*, Gaurasundara manifests the
 glory of His descent. Vasudeva is one of such acharyas, whom the Lord Himself awakened and sent forth. <!-- I7 -->
 
@@ -138,13 +138,14 @@ began to dance; “Bhagavan embraced that brahmana, a leper and the best of grea
 (“Kadacha” 3.14.17–18). To both His devotees, Vasudeva and Kurma, the Lord gave the order to lead people to devotion to
 Krishna — and vanished (3.14.19–20). <!-- F31 -->
 
-Kavi Karnapura in his mahakavya relates that Vasudeva, hearing that the Lord had left Puri for the South, reached Kurma's
-house with great difficulty. Kurma told him: “Had you come only a moment earlier, you would have seen the Master right
+Kavi Karnapura in his mahakavya calls Vasudeva large-hearted, steadfast and honoured for his greatness. Hearing that the
+Lord had left Puri for the South, he — gravely ill, his body wasted like a reed and ceaselessly eaten away by leprosy —
+reached Kurma's house with great difficulty and himself asked Kurma about Mahaprabhu. Kurma replied: “Had you come only a moment earlier, you would have seen the Master right
 here.” Vasudeva cried out, “He has gone!” and fell unconscious; and then the Lord came back, embraced him and took away
 his swoon together with his leprosy. Bowing to the Lord in joy and sorrow, Vasudeva recited the same verse of Sudama and
 said: “Alas, this is not mercy — this is a punishment for me!” The Lord replied: “Do not lose heart: one who is free of
 selfishness will come to Me,” — and disappeared. Kurma too fell unconscious and lamented bitterly that he had not
-recognised God in his guest (“Chaitanya-charita-mahakavya” 12.106–117). <!-- F32 -->
+recognised God in his guest (“Chaitanya-charita-mahakavya” 12.106–117). <!-- F32 F38 -->
 
 In the drama “Chaitanya-chandrodaya” the story of Vasudeva is told to Sarvabhauma and King Prataparudra by a brahmana
 returning from the South. No one had told the Lord about him — the Lord found him Himself and, as one embraces the
@@ -171,12 +172,12 @@ with the townspeople (9.7–12). <!-- F34 -->
 
 Lochana Dasa in the Shesha-khanda writes that Vasudeva lived in the same village as Kurma, and that the Lord met them both
 in one place. By the sight of the Lord they became pure, recognised Gaurachandra as Krishna and fell at His feet; the Lord
-raised and embraced them both and said: “In the Kali age the dharma is the sankirtana of Hari's name… Rejoice in singing
-the names and qualities [of the Lord]; dance, dance — let people be freed from bondage!” Of leprosy Lochana Dasa says
-nothing. Srila Bhaktisiddhanta, in his summary of this chapter, says that at Kurma-kshetra the Lord showed mercy to the
+raised and embraced them both, asked them why they had come into the world and what they followed, and said: “In the Kali age the dharma is the sankirtana of Hari's name… Rejoice in singing
+the names and qualities [of the Lord]; dance, dance — let people be freed from bondage!” When the Lord hurried away, they forgot
+themselves. Of leprosy Lochana Dasa says nothing. Srila Bhaktisiddhanta, in his summary of this chapter, says that at Kurma-kshetra the Lord showed mercy to the
 brahmana Vasudeva and instructed him that the dharma of the Kali age is the holy name of Sri Hari alone, and from there
 came to Jiyada-Nrisimha. The lists of the journey run the same way: the deliverance of Vasudeva, and next Nrisimha of
-Jiyada, Simhachalam; so too in the “Charitamrita” (Madhya 8.3). <!-- F35 F30 -->
+Jiyada, Simhachalam; so too in the “Charitamrita” (Madhya 8.3). <!-- F35 F39 F30 -->
 
 Finally, “The Harmonist” — Srila Bhaktisiddhanta's journal, in which a biography of the Lord was printed under his
 editorship (1928) — says that the Lord showed mercy to the brahmana Vasudeva, afflicted with malignant leprosy, freed him
@@ -201,12 +202,16 @@ A devotee's body is not mundane; it is beyond this world, full of consciousness 
 Krishna sees it only from outside — sores, sickness, poverty — and does not see its spiritual nature. So the Lord Himself
 explained why He did not shrink from the sores of Vasudeva or of Sanatana. <!-- I3 -->
 
+Srila Bhaktisiddhanta explains this verse in the “Anubhashya”: a Vaishnava's body is not a material body meant for
+enjoyment, like the body of a karmi, a jnani or one with other desires. A devotee's body is full of spiritual bliss, fit
+for the service of Krishna, and in it eternity, knowledge and bliss shine forth. <!-- F40 -->
+
 ## Significance
 Vasudeva Vipra shows how the Lord finds a devotee whom the world does not notice. Destitute, sick and shunned, he was a noble
 brahmana and the best of devotees, and Mahaprabhu Himself came to him, Himself embraced him and Himself made his glory
 known to all. <!-- I1 I2 -->
 
-His story speaks of the mercy of the Lord and of His devotees, who see the sufferings of conditioned souls. The Lord
+His story shows the compassion that the Lord and His devotees feel on seeing conditioned souls suffer. The Lord
 embraces one from whom everyone flees; Kurma and Vasudeva weep for Him in each other's arms; and Vasudeva, who fears only
 pride, the Lord makes an acharya and sends out to deliver others by the name of Krishna. For this the Lord received the
 name Vasudevamrita-prada. <!-- I5 -->
