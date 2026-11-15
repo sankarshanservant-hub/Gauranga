@@ -141,7 +141,7 @@ B — вероятно, больше сотни).
 | @ranga-puri (042) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @ramachandra-puri (043) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @govinda-servant (044, Говинда — слуга Господа) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @mukunda-datta (045) | ✓ | в работе | — |
+| @mukunda-datta (045) | ✓ | ✓ (PDF) | — |
 | @gadadhara-dasa (046) | ✓ | ✓ (PDF) | — |
 | @raghava-pandita (047) | ✓ | ✓ (PDF) | — |
 | @damayanti (048) | ✓ | ✓ (PDF) | ✓ сплошная |
