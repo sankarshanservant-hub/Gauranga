@@ -372,3 +372,403 @@
   event: ev-kheturi-festival
   verses:
     - {file: "bhakti-ratnakara/ru/10.md", from: "331", to: "350"}
+
+- id: brt-5021
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 351–356"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.91
+  title: "Шьямананда прибывает из Уткалы; трое ждут прихода махантов"
+  summary: "Шриниваса тревожится, что Шьямананда задерживается, но едва заговорив о нём, слышит о его прибытии; Нароттама выходит навстречу, и все трое — Шриниваса, Нароттама и Шьямананда — проявляют друг к другу прему и думают о прибытии почитаемых вайшнавов; подробности пути автор отсылает к «Нароттама-виласе»."
+  persons: ["@shyamananda", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0040)"
+  divergence: "В «Нароттама-виласе» Шьямананда приходит с Расиканандой и учениками; здесь Расикананда не упомянут."
+  themes: [festival, ecstasy]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "351", to: "356"}
+
+- id: brt-5022
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 357–371"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 94
+  title: "В Кхардахе незримый Господь велит Джахнаве спешить в Кхетури; она прощается с Васудхой, Гангой и Вирабхадрой"
+  summary: "Когда Джахнава назначает день выезда, Господь, оставаясь незримым, велит не медлить: Шриниваса и Нароттама — Его дорогие слуги, Он с явленными и неявленными спутниками будет танцевать в их санкиртане, а затем, побывав во Вриндаване, она скоро вернётся; Джахнава отправляется в слезах блаженства, даёт поручения жителям, втайне говорит с Васудхой, утешает Гангу и Вирабхадру."
+  persons: ["@jahnava", "@nityananda", "@srinivasa-acharya", "@narottama-dasa", "@vasudha", "@ganga-nityananda", "@virabhadra"]
+  places: ["#kharadaha", "#kheturi"]
+  kind: vision
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0041: голос с неба в Кхардахе); «Према-виласа» 15, 19 (pvl-0103, pvl-0151)"
+  divergence: "В «Нароттама-виласе» в Кхетури просят идти и Васудху, и Джахнаву; в «Према-виласе» (19) Джахнава приходит в Кхетури с Вирачандрой; здесь Васудха, Ганга и Вирабхадра остаются в Кхардахе."
+  notes: "Господь здесь, по-видимому, — Нитьянанда, уже сокрывшийся (сноска 39 перевода); «явленные и неявленные спутники» — пребывающие в этом мире и уже ушедшие."
+  themes: [revelation, pilgrimage, festival]
+  event: ev-jahnava-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "357", to: "371"}
+
+- id: brt-5023
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 372–390"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 94.1
+  title: "Спутники Джахнавы на пути в Кхетури; Наяна Бхаскара; Амбика: Чайтанья Дас и Хридая Чайтанья"
+  summary: "С Джахнавой идут Кришнадас Саркхел, Мадхава Ачарья, Рагхупати, Минакетана Рамадас, Мурари Чайтанья, Джнянадас, Камалакара Пиппалаи, Парамешвари, Вриндаван Дас и другие; Джахнава, смущаясь, садится в носилки; присоединяются Наяна Бхаскара из Халисахара и Рагхунатха Ачарья, сын хромого Бхагавана; в Амбике её встречают Чайтанья Дас, сын Вамшиваданы, и Хридая Чайтанья, и Джахнава кормит Божества Гауры и Нитьянанды."
+  persons: ["@jahnava", "@krishnadasa-sarakhela", "@minaketana-ramadasa", "@murari-chaitanya-dasa", "@jnanadasa", "@kamalakara-pippalai", "@parameshvara-dasa", "@nayana-bhaskara", "@chaitanya-dasa-vamshi", "@hridaya-chaitanya", "@gaura-nitai-ambika", "@nityananda"]
+  places: ["#kharadaha", "#kumarahatta", "#ambika-kalna"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0041)"
+  notes: "Границы ряда имён (373–377) неясны (сноска 40 перевода); какой Мадхава Ачарья — не уточнено. «Господь», идущий с торговцем-слугой Нитьянанды (384), — по-видимому, незримый Нитьянанда."
+  themes: [pilgrimage, deities]
+  event: ev-jahnava-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "372", to: "390"}
+
+- id: brt-5024
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 391–407"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 94.2
+  title: "Джахнава в Навадвипе: плач по Господу, двор Шриваса; приходят сыновья Адвайты"
+  summary: "При виде Навадвипы все, вспоминая игры Господа, рыдают и лишаются чувств; Шрипати и Шринидхи, братья Шриваса, ведут гостей в дом Шриваса; из Шантипура приходят сыновья Адвайты Ачьютананда и Гопала с Кану Пандитом, Вишнудасом Ачарьей, Ванамали и другими; Джахнава проводит в Навадвипе два-три дня, и навадвипцы собираются в Кхетури."
+  persons: ["@jahnava", "@shripati", "@shrinidhi", "@srivasa", "@achyutananda", "@gopala-dasa-advaita", "@vishnudasa-acharya", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-srivasa", "#shantipura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0041)"
+  themes: [separation, pilgrimage]
+  event: ev-jahnava-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "391", to: "407"}
+
+- id: brt-5025
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 408–428"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 94.3
+  title: "Джахнава в Катве: Ядунандана, Рагхунандана, место санньясы, Гауранга Даса Гададхары"
+  summary: "С Кришнадасом из Акаихата все приходят в Кантака-нагар, где Ядунандана ведёт их в обитель Гауранги; приходит Рагхунандана из Шрикханды и маханты с Шиванандой, Ванинатхой, Валлабхой и другими; на месте санньясы Господа все рыдают; Джахнава сама готовит, кормит Гаурачандру и махантов, Ядунандана ест последним; киртан во дворе Гауранги, и все собираются в Кхетури."
+  persons: ["@jahnava", "@krishnadasa-akaihat", "@yadunandana-chakravarti", "@raghunandana", "@gadadhara-dasa", "@mahaprabhu"]
+  places: ["#akai-hat", "#katwa", "#shrikhanda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0041)"
+  notes: "Границы имён в 414–417 неясны (сноска 48 перевода)."
+  themes: [pilgrimage, sannyasa, prasada]
+  event: ev-jahnava-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "408", to: "428"}
+
+- id: brt-5026
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 429–450"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.92
+  title: "Маханты через Будхари и Падмавати входят в Кхетури; размещение гостей"
+  summary: "По пути через Телию Будхари и другие деревни люди сбегаются на даршан, и маханты видят в их пылкости бхакти, явленную Шринивасой; Сантоша заранее готовит лодки на Падмавати; Шриниваса с Нароттамой встречают гостей, люди Кхетури падают ниц; спутников Господа размещают по отдельным жилищам с кладовыми и слугами."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@santosha-datta", "@jahnava"]
+  places: ["#teliya-budhari", "#padmavati", "#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0042)"
+  themes: [festival, pilgrimage]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "429", to: "450"}
+
+- id: brt-5027
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 451–472"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.93
+  title: "Канун праздника: разговоры жителей Кхетури о храме, навесе и музыкантах"
+  summary: "Люди днём и ночью говорят только о спутниках Господа: о храме, о шести Божествах, которые завтра, в пхалгуна-пурниму, воссядут на трон, о дворе для санкиртаны под навесом, украшенном бананами, о множестве певцов и музыкантов из разных стран; ночь кажется бесконечной, и на рассвете все бегут к храму."
+  persons: ["@santosha-datta"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 7 (nvl-0043)"
+  calendar: "пхалгуна, канун пурнимы"
+  themes: [festival, deities]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "451", to: "472"}
+
+- id: brt-5028
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 473–500"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105
+  title: "Пхалгуна-пурнима: Шриниваса совершает абхишеку и возводит на трон шесть Божеств Кхетури"
+  summary: "Маханты входят во двор храма, Джахнава садится в укромном месте; с позволения спутников Господа Шриниваса совершает абхишеку и возводит на трон шесть Божеств, называя имена, открытые Господом во сне: Гауранга, Валлавиканта, Враджамохан, Кришна, Радха-канта, Радха-рамана; боги незримо сыплют цветы, брахманы читают Веды; Шриниваса наряжает Божества и совершает арати; Нароттама кланяется собственным стихом с именами Господ; двор вмещает бесчисленных людей — по воле Господа."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@jahnava", "@gaura-vishnupriya-kheturi", "@krishna", "@radha"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 7 (nvl-0044); «Према-виласа» 19 (pvl-0152); БР 1.426 (тот же стих Нароттамы)"
+  calendar: "пхалгуна, пурнима (Гаура-пурнима)"
+  themes: [festival, deities, celestial]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "473", to: "500"}
+
+- id: brt-5029
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 501–524"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.01
+  title: "Бхога шести Божествам; гирлянды и сандал — прасад по велению Джахнавы; её милость Нароттаме"
+  summary: "Шриниваса подносит бхогу и тамбулу; при открытии завесы благоухание Господ разливается вокруг; он падает ниц перед спутниками Господа и Джахнавой; по её слову раздаёт всем прасадные гирлянды и сандал — их незримо надевают и боги, принявшие человеческий облик; Нрисимха Чайтанья по велению Джахнавы надевает их на Шринивасу; Джахнава взглядом вкладывает в Нароттаму силу, Ачьютананда являет ему благосклонность, и маханты позволяют начать санкиртану."
+  persons: ["@srinivasa-acharya", "@jahnava", "@narottama-dasa", "@achyutananda"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  calendar: "пхалгуна, пурнима"
+  themes: [prasada, mercy, festival]
+  teaching: [prasada-teaching]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "501", to: "524"}
+
+- id: brt-5030
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 525–570"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.02
+  title: "Санкиртана Нароттамы: алап и нибаддха-пение, песня о Гауре в бхаве Радхи; Господь вкушает утраченное пение Сварупы"
+  summary: "Девидас начинает на мардале, Валлава Дас и Гауранга Дас — на кансья-тале, Гокула поёт алап (анибаддху); Нароттама, созерцая в уме Чайтанью, Нитьянанду и Адвайту, являет раги, шрути, свары и мурчханы; Рагхунандана чтит кхол и караталы и надевает гирлянды на певцов; Нароттама поёт нибаддха-песню о луне Надии в бхаве Радхики; маханты вне себя, люди говорят, что Махапрабху слушал такие песни от Сварупы и теперь открыл их через Нароттаму и Сам незримо их вкушает; боги, гандхарвы, риши, звери и птицы погружены в санкиртану."
+  persons: ["@narottama-dasa", "@devidasa-kirtaniya", "@gokula-kirtaniya", "@raghunandana", "@jahnava", "@achyutananda", "@shripati", "@shrinidhi", "@mahaprabhu", "@svarupa-damodara", "@nityananda", "@advaita", "@narada", "@shiva", "@brahma"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 7 (nvl-0045); «Према-виласа» 19 (pvl-0153)"
+  notes: "Описание видов пения (анибаддха/нибаддха, варна-ньяса, гамаки) — обобщённо, без дробления; ср. теорию музыки в таранге 5."
+  calendar: "пхалгуна, пурнима"
+  themes: [kirtan, festival, ecstasy]
+  bhava: [radha]
+  teaching: [holy-name]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "525", to: "570"}
+
+- id: brt-5031
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 571–612"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.03
+  title: "Гаура с Нитьянандой, Адвайтой и всеми спутниками, явленными и неявленными, является в санкиртане Кхетури и танцует"
+  summary: "Как молния в туче, в санкиртане является Гаура-рай с Нитьянандой, Адвайтой и спутниками — уже ушедшими и ещё пребывающими: танцуют Гададхара, Шривас, Мурари, Вакрешвара, Харидас, Сварупа, Гададхара Дас, Рамананда, Сарвабхаума, Нарахари, Рагхунандана, Гауридас, братья Гхош, Рупа, Санатана, Рагхунатха Бхатта, Хридая Чайтанья, увлекающий Шьямананду, и бесчисленные люди и боги; Господь с улыбкой смотрит на Нароттаму, обнимает его и Шринивасу и, исполнив их желание, внезапно скрывается с неявленными спутниками."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@murari-gupta", "@vakreshvara", "@haridasa-thakura", "@svarupa-damodara", "@gadadhara-dasa", "@ramananda-raya", "@sarvabhauma", "@vidya-vachaspati", "@achyutananda", "@mukunda-datta", "@narahari-sarakara", "@raghunandana", "@gauridasa-pandita", "@shripati", "@shrinidhi", "@govinda-ghosha", "@madhava-ghosha", "@vasu-ghosha", "@purandara-acharya", "@vasudeva-datta", "@shuklambara", "@nandana-acharya", "@kashishvara", "@raghunatha-bhatta", "@rupa-gosvami", "@sanatana-gosvami", "@nakula-brahmachari", "@dhananjaya-pandita", "@hridaya-chaitanya", "@shyamananda", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: B
+  parallels: "«Нароттама-виласа» 7 (nvl-0045); «Према-виласа» 19 (pvl-0153)"
+  divergence: "В «Према-виласе» (по сводному событию) над киртаном являются также Радха и Кришна, и Нароттама входит в самадхи; здесь — Гаура со спутниками; явление Радхи-Кришны в БР отнесено к ночному киртану после праздника (11.18–27)."
+  calendar: "пхалгуна, пурнима (Гаура-пурнима)"
+  themes: [revelation, kirtan, festival]
+  bhava: [devotee]
+  teaching: [associates-tattva]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "571", to: "612"}
+
+- id: brt-5032
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 613–633"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.04
+  title: "Плач по скрывшемуся Господу; рыдают даже пашанды; Джахнава: «Повеление Господа сбылось»"
+  summary: "Когда Господь скрывается, на месте санкиртаны поднимается плач: «Куда ушли Гаурачандра, Адвайта, Нитьянанда, Гададхара, Харидас?..»; даже пришедшие посмеяться пашанды рыдают и молят Гаурахари не допустить оскорбления вайшнавов; Шрипати и другие спрашивают, не сон ли это; Джахнава говорит: полная милость явлена Шринивасе и Нароттаме — Господь, как обещал, танцевал со спутниками, и дождь премы смыл страдания всех, вплоть до чандалов."
+  persons: ["@jahnava", "@srinivasa-acharya", "@narottama-dasa", "@shripati", "@shrinidhi", "@mahaprabhu"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  calendar: "пхалгуна, пурнима"
+  themes: [separation, mercy, offense]
+  teaching: [vaishnava]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "613", to: "633"}
+
+- id: brt-5033
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 634–660"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.05
+  title: "Холи в Кхетури: Джахнава осыпает Божества фагу, маханты играют красками"
+  summary: "По слову Джахнавы Шриниваса приносит в сосудах фагу и цветочную пыльцу; Джахнава входит в храм и наносит фагу на Божества; Ачьютананда, Гопала, Шрипати, Шринидхи, Ядунандана, Рагхунандана и другие осыпают фагу Гаурангу, Валлавиканту, Враджамохана, Кришну с Радхикой, Радха-канту и Радха-раману, а затем друг друга с песнями о Холи Господа; небо и земля полны фагу, незримые боги смешиваются с людьми; к вечеру — арати и нама-киртан."
+  persons: ["@jahnava", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@achyutananda", "@gopala-dasa-advaita", "@shripati", "@shrinidhi", "@yadunandana-chakravarti", "@raghunandana", "@gaura-vishnupriya-kheturi", "@krishna", "@radha"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 7 (nvl-0046); «Према-виласа» 19 (pvl-0153: праздник красок)"
+  calendar: "пхалгуна, пурнима (Дола, Холи)"
+  themes: [festival, deities, kirtan]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "634", to: "660"}
+
+- id: brt-5034
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 661–685"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.06
+  title: "Ночная абхишека в честь явления Гауранги"
+  summary: "С позволения всех Шриниваса снимает с Гауранги наряд, облачает в белое, сажает на другой трон и совершает абхишеку рождения, как в день рождения Кришны; «Гаура и Кришна едины — кто видит различие, тому нет избавления от мук Ямы»; брахманы читают Веды, певцы поют об играх в Надии; люди говорят, что сама луна пришла посмотреть, а другие — что взошли луны-преданные; пение длится всю ночь до мангала-арати."
+  persons: ["@srinivasa-acharya", "@gaura-vishnupriya-kheturi", "@mahaprabhu", "@krishna"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 7 (nvl-0046); «Према-виласа» 19 (pvl-0153)"
+  calendar: "пхалгуна, пурнима, ночь (день явления Махапрабху)"
+  themes: [festival, deities, kirtan]
+  teaching: [gaura-tattva]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "661", to: "685"}
+
+- id: brt-5035
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 686–711"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.07
+  title: "Пратипада: Джахнава готовит бхогу Господам и сама кормит махантов"
+  summary: "Утром Джахнава совершает омовение, сама готовит рис и овощи и подносит бхогу Гауранге, Валлавиканте и другим Господам; Шриниваса зовёт махантов на арати, пуджари раздаёт гирлянды из туласи и укладывает Господ; по её указанию Мадхава Ачарья приглашает всех к трапезе, Джахнава раздаёт пищу, затем по её повелению едят Шриниваса и другие, а сама она вкушает махапрасад последней; бесчисленные люди Кхетури получают прасад."
+  persons: ["@jahnava", "@srinivasa-acharya", "@achyutananda", "@shripati", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 7 (nvl-0047)"
+  calendar: "пхалгуна, тёмная половина, пратипада"
+  themes: [prasada, deities, festival]
+  event: ev-jahnava-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "686", to: "711"}
+
+- id: brt-5036
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 712–722"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.08
+  title: "Двития: маханты готовят в своих жилищах по желанию Сантоши; его дары брахманам и музыкантам"
+  summary: "Во второй лунный день Шриниваса просит махантов исполнить желание Сантоши Датты — приготовить пищу в своих жилищах; все подносят бхогу Кришне и вкушают прасад, принимая дары Сантоши; он одаряет тысячи брахманов, певцов, музыкантов и танцоров, и маханты являют ему милость; подробности автор отсылает к «Нароттама-виласе»."
+  persons: ["@srinivasa-acharya", "@santosha-datta"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 8 (nvl-0048)"
+  calendar: "пхалгуна, тёмная половина, двития"
+  themes: [festival, prasada]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "712", to: "722"}
+
+- id: brt-5037
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 723–736"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.5
+  title: "Маханты прощаются с Джахнавой и Господами и уходят за Падмавати"
+  summary: "По окончании празднества спутники Господа прощаются с Джахнавой, которая собирается во Вриндаван, кланяются Гауранге, Валлавиканте и другим Господам и уходят; плачут Шриниваса, Нароттама, Рамачандра, Шьямананда и Сантоша, скорбят даже звери и птицы; маханты переправляются через Падмавати и ночуют в Будхари, а Шриниваса и Джахнава возвращаются с берега в Кхетури."
+  persons: ["@jahnava", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@shyamananda", "@santosha-datta", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi", "#padmavati", "#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 8 (nvl-0049)"
+  themes: [separation, festival]
+  event: ev-kheturi-mahantas-depart
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "723", to: "736"}
+
+- id: brt-5038
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 737–754"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 95
+  title: "Джахнава уходит из Кхетури во Вриндаван; с ней — спутники и Говинда Кавираджа"
+  summary: "Утешив всех, Джахнава назначает выход во Вриндаван, принимает дары Сантоши Датты, втайне говорит что-то Гауранге и Валлавиканте и уходит с Кришнадасом Саркхелом, Мадхавой Ачарьей, Мурари Чайтаньей, Парамешвари Дасом, Джнянадасом и другими; по велению Шринивасы с ней идут Говинда и другие; обещав скоро вернуться, она покидает Кхетури, жители которого плачут, глядя на дорогу."
+  persons: ["@jahnava", "@santosha-datta", "@krishnadasa-sarakhela", "@murari-chaitanya-dasa", "@parameshvara-dasa", "@jnanadasa", "@govinda-kaviraja", "@srinivasa-acharya", "@narottama-dasa", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 8 (nvl-0050); «Према-виласа» 15 (pvl-0103)"
+  divergence: "В «Нароттама-виласе» Сантоша подносит дары для шести Божеств Вриндавана и гирлянда падает с шеи Гауранги в руки Джахнавы; здесь — лишь дары ей и тайная беседа с Божествами."
+  themes: [pilgrimage, separation]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "737", to: "754"}
+
+- id: brt-5039
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 755–768"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.6
+  title: "Слава двора Кхетури; Шриниваса со Шьяманандой уходит в Будхари, Яджиграм и Вишнупур"
+  summary: "Автор прославляет двор, где танцевали Гаура, Нитьянанда и Адвайта со спутниками; Шриниваса с Нароттамой ежедневно поёт там киртан; затем он объявляет: со Шьяманандой он пойдёт в Будхари и Яджиграм, отпустит Шьямананду, сходит в Вишнупур и вернётся, и просит Нароттаму писать ему о пути Джахнавы; посмотрев мангала-арати, он уходит за Падмавати."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@jahnava", "@mahaprabhu", "@nityananda", "@advaita"]
+  places: ["#kheturi", "#padmavati", "#teliya-budhari", "#yajigrama", "#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 8 (nvl-0051)"
+  themes: [separation, kirtan]
+  event: ev-kheturi-mahantas-depart
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "755", to: "768"}
+
+- id: brt-5040
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 769–772"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.7
+  title: "Нароттама и Рамачандра в разлуке со Шринивасой поют во дворе Господа и обращают пашанд"
+  summary: "Рамачандра и Нароттама в разлуке со Шринивасой всегда во дворе Господа, упоённые санкиртаной; они являют милость многим сотням пашанд и делают их достойными према-бхакти; кто привязан к этим повествованиям, обретает чистую бхакти."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 8 (nvl-0052: обращение разбойников-пашанди)"
+  notes: "Упоминание."
+  themes: [kirtan, mercy]
+  event: ev-kheturi-robbers-converted
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "769", to: "772"}
+
+- id: brt-5041
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 773"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 105.71
+  title: "Подпись автора и колофон десятой таранги"
+  summary: "Размышляя о стопах Шринивасы Ачарьи, Нарахари Дас рассказывает «Бхакти-ратнакару»; колофон: «Описание великого празднества в обители Шри Нароттамы, путешествия Шри Джахнавы во Вриндаван и прочего»."
+  persons: ["@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "773", to: "773"}
