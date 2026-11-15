@@ -2964,7 +2964,7 @@
 - advaita-prakasha (D): Гл. 15, 113–115 — [113. С Ним шли–115. Четверо с](../advaita-prakash/15.md?plain=1#L117-L119) · `apr-0085`
 - cb (A): Антья 2, 34–49 — [34–49](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L174-L249) · `cb-3019`
 - cc (A): Мадхья 3.216–217 — [216–217](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md?plain=1#L2183-L2193) · `cc-1023`
-- chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 5–7 — [**Ратнакара.** Увы! Сейчас, когда царь-я–Так несколько дней он шёл из леса в лес,](../chaitanya-chandrodaya/ru/06.md?plain=1#L88-L121) · `ccd-0043`
+- chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 5–7 — [**Ратнакара.** Увы! Сейчас, когда царь-я–Так несколько дней Он шёл из леса в лес,](../chaitanya-chandrodaya/ru/06.md?plain=1#L88-L121) · `ccd-0043`
 - gaura-krishnodaya (B): Сарга 7, 13–15 — [13–15](../gaura-krishnodaya/ru/07.md?plain=1#L31-L35) · `gkd-0063`
 - jayananda-cm (C): Уткала-кханда: «Путь из Шантипура в Пури» (цитаты); «Путь в Камалапур» (Ш. Митра) — [58:1–25:5](../jayananda/ru/05-quotes.md?plain=1#L1014-L1026); [22:1–22:1](../jayananda/ru/06-manuscripts.md?plain=1#L589-L589) · `jcm-0067`
 - karnapura-ckm (A): Сарга 11, 76–77 — [76–77](../karnapura-mahakavya/ru/11.md?plain=1#L1699-L1720) · `kcm-0106`
@@ -3002,7 +3002,7 @@
 - advaita-prakasha (D): Гл. 15, 116–118 — [116. Продолжая–118. Хлынуло п](../advaita-prakash/15.md?plain=1#L120-L122) · `apr-0086`
 - cb (A): Антья 2, 276–279 — [276–279](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L1372-L1387) · `cb-3028`
 - cc (A): Мадхья 4.10–20 — [10–20](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya04.md?plain=1#L108-L208) · `cc-1026`
-- chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 8–11 — [**Ратнакара.** Зачем?–> красоту того, у чьих уст — флейта.](../chaitanya-chandrodaya/ru/06.md?plain=1#L123-L156) · `ccd-0044`
+- chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 8–11 — [**Ратнакара.** Зачем?–> красоту Того, у Чьих уст — флейта.](../chaitanya-chandrodaya/ru/06.md?plain=1#L123-L156) · `ccd-0044`
 - gaura-krishnodaya (B): Сарга 7, 16–17, 36–37 — [16–17](../gaura-krishnodaya/ru/07.md?plain=1#L39-L41); [36–37](../gaura-krishnodaya/ru/07.md?plain=1#L81-L83) · `gkd-0064`
 - karnapura-ckm (A): Сарга 11, 78 — [78–78](../karnapura-mahakavya/ru/11.md?plain=1#L1743-L1743) · `kcm-0107`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 1–21 — [1–21](../lochana/ru/44.md?plain=1#L11-L71) · `lcm-0201`

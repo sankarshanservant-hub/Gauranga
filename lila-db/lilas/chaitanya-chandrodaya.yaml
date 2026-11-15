@@ -873,7 +873,7 @@
   themes: [pilgrimage, mercy]
   event: ev-journey-to-puri
   verses:
-    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Увы! Сейчас, когда царь-я", to_text: "Так несколько дней он шёл из леса в лес,"}
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Увы! Сейчас, когда царь-я", to_text: "Так несколько дней Он шёл из леса в лес,"}
 
 - id: ccd-0044
   source: chaitanya-chandrodaya
@@ -892,7 +892,7 @@
   themes: [deities, pilgrimage]
   event: ev-remuna-gopala
   verses:
-    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Зачем?", to_text: "> красоту того, у чьих уст — флейта."}
+    - {file: "chaitanya-chandrodaya/ru/06.md", from_text: "**Ратнакара.** Зачем?", to_text: "> красоту Того, у Чьих уст — флейта."}
 
 - id: ccd-0045
   source: chaitanya-chandrodaya
