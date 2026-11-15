@@ -214,3 +214,149 @@ Krishnadasa Kaviraja sums it up:
 And the pandits of Navadvipa, seeing Nimai's extraordinary power, wished together to honour Him with the title
 “Vadi-simha,” “lion among debaters,” and His fame spread everywhere (CB Adi 13.198–205; “Bhakti-ratnakara”
 2.250–252). <!-- F36 -->
+
+## How Others Tell It
+Krishnadasa Kaviraja acknowledges that Vrindavana Dasa Thakura was the first to describe this story at length, but did
+not set out clearly the merits and faults of the digvijayi's verse; therefore, bowing to him, the author of the
+“Charitamrita” gives that analysis (CC Adi 16.26–27). <!-- F45 -->
+
+In Narahari Chakravarti's “Bhakti-ratnakara” the victory over the digvijayi is recalled by Chaitanya Dasa, telling his
+son Shrinivasa of the Lord's pastimes he had witnessed in his youth. The proud logicians of Navadvipa laughed at the
+Lord, and Chaitanya Dasa prayed to the Creator to crush their pride; and then:
+
+“Suddenly a digvijayi came to Navadvipa; before his might everyone trembled. The goddess Sarasvati is subject to his
+devotion; therefore he is a great poet and expert in the shastras.” (“Bhakti-ratnakara” 2.237–238)
+
+“At that time Narayana, the Husband of Sarasvati, named Nimai Pandita, was teaching grammar.” (2.241)
+
+The digvijayi approached Him, laughing in the pride of his learning, and in a moment composed many shlokas; the Lord
+pointed out errors in one of them,[^9] honoured the defeated man, Sarasvati revealed to him who the Lord was, and he
+surrendered at His feet. After that, says Chaitanya Dasa, his teacher and all the other scholars ceased to regard Nimai
+as a mere man (“Bhakti-ratnakara” 2.243–252). <!-- F46 -->
+
+Govinda Deva in the “Gaura-krishnodaya” tells how on a moonlit night a learned digvijayi, a thunder-voiced poet full of
+envy, came to the Lord; he praised the Ganga in a hundred verses, and the Lord, retaining one at a single hearing,
+found in it many hidden faults and five evident ones. Returning to his lodging, the digvijayi fasted and at midnight
+propitiated the goddess, and she, laughing, said:
+
+“Why do you grieve at being humbled by the Lord of all? Hundreds of learned Sarasvatis serve Him; I am His maidservant;
+what then of you!” (“Gaura-krishnodaya” 5.25)
+
+At the end of the night the aged brahmana came to the Lord and took shelter of His feet, and the Lord, instructing him
+in the truth about Himself, saved him (“Gaura-krishnodaya” 5.11–27). This is the only source that speaks of Keshava's
+age: by then he was already old. <!-- F47 F41 -->
+
+Other poets, too, mention this victory briefly. Jayananda writes in his “Chaitanya-mangala”: “Then the Lord defeated
+the conqueror of the quarters and at last destroyed all his bonds.” In a pada of Narahari, Gaura is glorified as the
+One who “conquered the digvijayi,” to whom the pandits of Nadia submit (“Gaura-charita-chintamani” 10.17). The
+biographies recall Keshava in the stories of other companions as well: before His initiation at Gaya, Mahaprabhu was a
+pandit of grammar, prosody and logic and defeated the invincible Keshava Kashmiri; He could hold of no account the
+learning of all the famous pandits — not only His neighbours, but the renowned digvijayi Keshava Kashmiri himself.
+<!-- F48 F49 F42 F43 -->
+
+Keshava is remembered beyond Bengal too. Nabhadasa in the “Bhaktamal” (c. 1600) praises Keshava Bhatta with the byname
+“Kashmiri”: with the firm axe of devotion to Hari he felled the trees of other dharmas, and in Mathura he overcame the
+mlecchas in debate, so that the qazis, never before defeated, were filled with fear (chhappay 75). Of the meeting with
+Mahaprabhu Nabhadasa is silent. Priyadasa, however, tells it in his kavittas on the “Bhaktamal”: Keshava comes to
+Nadia with palanquin, elephants and horses; Mahaprabhu Himself approaches him on the bank of the Ganga; Keshava
+composes a hundred shlokas; the Lord repeats one and analyses its faults and merits; Sarasvati appears to Keshava and
+says, “He is my Lord, Bhagavan”; the Lord tells him, “Accept the fruit — bhakti — and defeat no one any more,” and
+Keshava leaves his retinue and pomp behind. The next kavitta tells of his victory over the Muslims at Vishram Ghat in
+Mathura.[^10] <!-- F50 F51 -->
+
+The tradition of Vallabha's followers mentions Keshava as well.[^11] <!-- F52 -->
+
+## In the Line of Nimbarka
+Having been defeated by Sri Gaurasundara, Keshava understood who Sriman Mahaprabhu is and, in order to serve the Lord,
+entered the Nimbarka sampradaya — so writes Srila Bhaktisiddhanta in the “Anubhashya.” Srila Bhaktivinoda Thakura in
+the “Amrita-pravaha-bhashya” says that, having received instruction from Mahaprabhu, he became an acharya in the
+sampradaya of Nimbaditya. <!-- F38 -->
+
+In the “Gaudiya-bhashya” Srila Bhaktisiddhanta explains this further. Accepting Gaurasundara's instruction, Keshava
+gave up his former conclusions drawn from the six darshanas and by the Lord's mercy remembered Nimbarka's ten verses,
+the “Dasha-shloki.” The instruction to serve Radha-Govinda awakened in him the sentiments of his predecessors in that
+line, to whom he had earlier, seeking the fame of a digvijayi, been indifferent (on CB Adi 13.175–177). The Lord,
+Bhaktisiddhanta writes, crushed the pride of the Kashmiri digvijayi Keshavacharya, cleansed his heart of the worship of
+worldly learning and instructed him in the highest truth — inconceivable oneness and difference (*achintya-bheda-abheda*),
+whose essence is the service of Radha-Govinda; Gaurasundara honoured him with the rank of a Vaishnava acharya (on CB Adi
+1.114). Keshava himself could compose verses instantly in any metre. <!-- F39 F40 -->
+
+To him belongs the “Kaustubha-prabha,” a commentary on Shrinivasacharya's “Vedanta-kaustubha,” the exposition of
+Nimbarka's bhashya on the “Vedanta-sutra,” the “Vedanta-parijata-saurabha.” According to Srila Bhaktivinoda, he wrote
+commentaries on the “Vedanta-parijata” and other bhashyas. <!-- F7 -->
+
+The “Krama-dipika” is a harder question. Srila Gopala Bhatta Gosvami in the “Hari-bhakti-vilasa” and the commentary
+“Dig-darshini” cite many proofs from the works of Keshava Bhatta, the author of the “Krama-dipika.” In the
+“Gaudiya-bhashya” on CB Adi 13.19 Srila Bhaktisiddhanta remarks that this Keshava Bhatta was later entered as an acharya
+in the guru-parampara of the Nimbarka sampradaya; but had the author of the “Krama-dipika” belonged to Nimbarka's line,
+the author of the “Hari-bhakti-vilasa” might well have said so. In other places of the “Gaudiya-bhashya” he names
+Keshava outright as the compiler of the “Krama-dipika”: Sanatana and Gopala Bhatta saw in him a recipient of
+Mahaprabhu's mercy and therefore took material from the “Krama-dipika” for the smriti of the Gaudiya
+Vaishnavas.[^12] <!-- F8 -->
+
+The “Bhakti-ratnakara,” in its twelfth wave, listing the line of Nimbaditya, says that the digvijayi Keshava Kashmir,
+ashamed, … [was known] by the name “Laghu-Keshava,” and that the fortunate Keshava Kashmir was immersed in
+inexpressible joy.[^13] His name also appears in the list in the “Vaishnava-manjusha” (issue 1). <!-- F37 -->
+
+Of what came after, Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya” as follows. Later Keshava and other scholars
+from Kashmir, his followers, left the shelter of Mahaprabhu and went their own way, founding an independent
+sampradaya (on CB Adi 13.175–177). And Keshava's present-day so-called followers claim that he was Mahaprabhu's
+*vartma-pradarshaka-guru* — the one who first showed Him the path. That, says Bhaktisiddhanta, is why Vrindavana Dasa
+writes that the Lord “destroyed all his bonds” (on CB Adi 1.114): it was not Keshava who gave knowledge to the Lord,
+but the Lord — the Teacher of all the worlds — who set Keshava free. <!-- F40 -->
+
+## His Departure
+Of Keshava's later life the primary sources are silent. The time and place of his departure from this world are
+unknown: no source names them, and his days are not found in the Vaishnava calendar of the Sri Chaitanya Saraswat
+Math. <!-- F41 -->
+
+## Significance
+The story of Keshava Kashmiri is a lesson about knowledge. The Lord always takes away pride, while true worth is
+humble, like a tree bowed down by the weight of its fruit. Knowledge that serves victories and worldly fame is
+worthless; the fruit of learning is a heart and wealth offered at Krishna's feet. Keshava sought the fame of a
+world-conqueror and found what is higher than all victories: “through his learning he attained the feet of
+Mahaprabhu.” <!-- I2 I3 F35 -->
+
+And it is a lesson about mercy. Sarasvati, whom he worshipped, herself sent him on to her Lord; the Lord defeated him
+so as not to humiliate him, and with a single embrace gave him devotion, detachment and knowledge all at once. The one
+the Lord defeats is not humiliated but set free. <!-- I1 I4 -->
+
+[^1]: In the Bengali text of the verses of the “Charitamrita” he has no name — only “the digvijayi,” “the poet,” “the
+    brahmana”; in the Russian translation of these verses the name Keshava Kashmiri has been brought into the text from
+    the commentaries. He should not be confused with his namesakes: Keshava Bharati, who gave the Lord sannyasa; the
+    sannyasi Keshava Puri; Keshava Vasu (Keshava Chhatri), an official of the sultan of Gauda; and Keshava Samanta of
+    Medinipur.
+[^2]: The Nimbarka tradition places Keshava Kashmiri in another period and does not accept his meeting with
+    Mahaprabhu. We follow the “Charitamrita,” the “Chaitanya-bhagavata” and Srila Bhaktisiddhanta. On the
+    “Krama-dipika,” see below, note 12.
+[^3]: According to the “Bhakti-ratnakara,” Gokula Bhatta was a disciple of Keshava Bhatta, and he of Gopinatha Bhatta.
+    In the “Gaudiya-bhashya” (on CB Adi 13.175) Gangalya Bhatta is named first among the disciples of the compiler of
+    the “Krama-dipika.” We do not attempt to reconcile these accounts.
+[^4]: The “Chaitanya-bhagavata” tells of the digvijayi in Adi 13 — before the Lord's journey to East Bengal and before
+    His second marriage (Adi 14–15); the “Charitamrita” places the victory after the marriage to Vishnupriya. The
+    biographies say only that it happened when Nimai was the foremost teacher of Navadvipa.
+[^5]: In one of the biographies a misprint puts another word in place of Ravana in this list.
+[^6]: According to the “Chaitanya-bhagavata,” he recited without stopping for a whole *prahara* — about three hours; one
+    of the biographies says the same. The “Gaura-krishnodaya” and Priyadasa, like the “Charitamrita,” speak of a
+    hundred verses.
+[^7]: The “Chaitanya-bhagavata” speaks of flaws “at the beginning, in the middle and at the end” (Adi 13.93), one of the
+    biographies of countless flaws; the “Gaura-krishnodaya” (5.21) of many hidden and five evident faults, the chief of
+    them *avimrishta-vidheyamsha*, a faulty word order that obscures the main statement. We follow the “Charitamrita.”
+[^8]: According to the “Charitamrita” (Adi 16.105–106), that night he worshipped Sarasvati and she instructed him;
+    according to the “Gaura-krishnodaya” (5.24–25), he fasted and at midnight propitiated the goddess; according to
+    Priyadasa, Sarasvati appeared to him while he was awake, meditating on her. We follow the “Chaitanya-bhagavata.”
+[^9]: The “Bhakti-ratnakara” speaks of three errors; the “Charitamrita” of five faults (Adi 16.45–86).
+[^10]: In the 1883 lithographs of the “Bhaktamal” these four kavittas (333–336) are missing; the commentator Rupkala
+    notes that Keshava's followers, the Nimbarkis, excluded them from their copies.
+[^11]: According to the “Vallabha-varta” (baithak 13, Govinda-kunda), “Krishna-Chaitanya” and Keshava Bhatta Kashmiri
+    stood beside Vallabha, and neither could read the handwriting of the Svamini, Sri Radha, in the book
+    “Krishna-premamrita”; Vallabha gave the book to Krishna-Chaitanya and not to Keshava. This is a tradition of the
+    Pushti-marga, formed in another school. For the Gaudiya Vaishnavas Mahaprabhu is Krishna Himself in the mood
+    with the complexion of Radha, and we do not include this story in his life.
+[^12]: One of the biographies allows that the author of the “Krama-dipika” may be another, earlier person. Srila
+    Bhaktisiddhanta in one place doubts that the Keshava Bhatta of the “Hari-bhakti-vilasa” belonged to Nimbarka's
+    line (on CB Adi 13.19), while elsewhere he names Keshava Kashmiri outright as the compiler of the “Krama-dipika”
+    (on CB Adi 1.114 and 13.175). The question remains open.
+[^13]: The meaning of the omitted words is unclear, and the manuscripts differ. One of the biographies, like the
+    “Anubhashya,” quotes these lines of the “Bhakti-ratnakara” without verse numbers and with two lines left out — that
+    the digvijayi “was ashamed of this” and that he “came to Navadvipa at an auspicious hour.”
