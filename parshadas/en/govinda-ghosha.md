@@ -23,9 +23,9 @@ devotees of Gaura full of the deepest love for Him. <!-- F4 F5 -->
 ## The Three Brothers
 Govinda's brothers were Madhava Ghosha, who is also called Madhavananda, and Vasudeva, or Vasu, Ghosha. Which of the
 three was the eldest the sources do not say; Kavi Karnapura names them in the order "Govinda, Madhavananda, Vasudeva."
-Their family were kayasthas of northern Rarh, Uttara-Rarhi, the part of it through which the Ganga does not flow; the
-family was prominent and respected and belonged to the "shaukra," kayasthas by birth. Srila Bhaktisiddhanta writes of
-this too in the “Anubhashya” on CC, Adi 10.115[^3]. <!-- F6 F7 -->
+Their family were kayasthas of northern Rarh, Uttara-Rarhi; the family was prominent and respected and belonged to the
+"shaukra," kayasthas by birth. Srila Bhaktisiddhanta, too, speaks of the Uttara-Rarhi kayasthas in the “Anubhashya” on
+CC, Adi 10.115[^3]; one biography adds that this is the part of Rarh through which the Ganga does not flow. <!-- F6 F7 -->
 
 The family is linked with Shrihatta (Sylhet) through the village of Buran, or Burangi; the brothers' father settled in
 Kumarahatta, and afterwards the brothers settled in Navadvipa. More on this is said in the article on Vasu Ghosha. One
@@ -163,7 +163,7 @@ to Nilachala and with their kirtana increased the Lord's joy. Of the third year 
 
 “Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari, and Govinda with his two brothers set out. Raghava
 Pandita packed his bags (*jhali*) for the journey, and the residents of Kulina-grama came bringing silk ropes.” (CC,
-Madhya 16.16)[^10]
+Madhya 16.16–17)[^10]
 
 Murari Gupta, listing the devotees of Gauda going to the Lord in Puri, also names "Sri Govinda Ghosha and Mukunda, the
 best of singers" (“Kadacha,” 4.17.6). And in Kavi Karnapura's drama “Chaitanya-chandrodaya” Sarvabhauma Bhattacharya,
@@ -289,7 +289,7 @@ one can sing the Lord's glories. <!-- F3 F11 F12 F24 F32 I1 I2 -->
     “Charitamrita” is almost always His personal servant Govinda, the disciple of Ishvara Puri; there are also Govinda
     Datta, Govindananda and Govinda the blacksmith, and the padas signed "Govinda Dasa" belong to Govinda Kaviraja. The
     “Charitamrita” itself, speaking of Govinda Ghosha in Puri, names him with his family name (Madhya 11.88; 13.42) or
-    beside his brothers (Adi 10.115–118; Madhya 16.16).
+    beside his brothers (Adi 10.115–118; Madhya 16.16–17).
 [^2]: According to one biography, Govinda, Madhava and Vasudeva are branches number eighty-two, eighty-three and
     eighty-four; in the subheadings of our edition of the “Charitamrita” the numbering is different: Govinda is the
     eighty-first branch, Madhava the eighty-second, Vasudeva the eighty-third, and the eighty-fourth is Abhirama. In another biography the reference to Adi 10.115 is given
