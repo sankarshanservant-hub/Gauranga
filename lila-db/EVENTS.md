@@ -2799,7 +2799,7 @@
 - advaita-prakasha (D): Гл. 15, 38–46 — [38. В это врем–46. Сказав так](../advaita-prakash/15.md?plain=1#L42-L50) · `apr-0080`
 - cb (A): Антья 1, 51–73 — [51–73](../chaitanya-bhagavata/ed/CB_Antya01.md?plain=1#L266-L373) · `cb-3005`
 - cc (A): Мадхья 3.3–15 — [3–15](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya03.md?plain=1#L41-L167) · `cc-1016`
-- chaitanya-chandrodaya (A): Акт 5, странствие в экстазе, ст. 1–12 — [*(Входит Шри Кришна Чайтанья, за ним — Н–Посмотрю-ка, скоро ли придёт Адвайта. *(](../chaitanya-chandrodaya/ru/05.md?plain=1#L5-L152) · `ccd-0039`
+- chaitanya-chandrodaya (A): Акт 5, странствие в экстазе, ст. 1–12 — [*(Входит Шри Кришна Чайтанья, за Ним — Н–Посмотрю-ка, скоро ли придёт Адвайта. *(](../chaitanya-chandrodaya/ru/05.md?plain=1#L5-L152) · `ccd-0039`
 - gaura-krishnodaya (B): Сарга 6, 23–28 — [23–28](../gaura-krishnodaya/ru/06.md?plain=1#L53-L63) · `gkd-0058`
 - karnapura-ckm (A): Сарга 11, 58–61 — [58–61](../karnapura-mahakavya/ru/11.md?plain=1#L1306-L1371) · `kcm-0102`
 - lochana-cm (B): Мадхья-кханда, «Санньяса Господа», 164–180 — [164–180](../lochana/ru/40.md?plain=1#L235-L283) · `lcm-0185`
