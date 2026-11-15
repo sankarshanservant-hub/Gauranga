@@ -49,3 +49,13 @@
   date_conf: оценка
   themes: [revelation, celestial]
   notes: "Только «Бхакти-ратнакара» 12.1025–1027 (рассказ Ишаны)."
+
+- id: ev-advaita-rejects-shankara
+  title: "Адвайта отвергает последователя Шанкару, утвердившегося в джняне"
+  title_en: "Advaita rejects His follower Shankara, who held fast to jnana"
+  period: P07
+  order: 112.85
+  date_conf: оценка
+  date_basis: "после того как Адвайта нарочно проповедовал превосходство знания (БР 12.1984)"
+  themes: [teaching, offense]
+  notes: "Только «Бхакти-ратнакара» 12.1984–1988; ср. ЧЧ Ади 12 (о последователях Адвайты, отклонившихся от Его воли)."
