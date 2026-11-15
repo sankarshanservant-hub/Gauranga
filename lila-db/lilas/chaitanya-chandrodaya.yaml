@@ -1091,7 +1091,7 @@
   themes: [deities, pilgrimage]
   event: ev-jiyada-nrisimha
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** А потом он, чья сила непост", to_text: "**Сарвабхаума.** Ты говоришь истинно. Та"}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** А потом Он, Чья сила непост", to_text: "**Сарвабхаума.** Ты говоришь истинно. Та"}
 
 - id: ccd-0055
   source: chaitanya-chandrodaya
@@ -1112,7 +1112,7 @@
   teaching: [prema, bhakti-supremacy]
   event: ev-ramananda-raya-godavari
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** Затем он пришёл на берег Го", to_text: "**Брахман.** Как прикажешь."}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Брахман.** Затем Он пришёл на берег Го", to_text: "**Брахман.** Как прикажешь."}
 
 - id: ccd-0056
   source: chaitanya-chandrodaya
@@ -1150,7 +1150,7 @@
   themes: [offense, prasada, ecstasy]
   event: ev-bird-snatches-impure-food
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** Однажды Господь шёл, п", to_text: "> и его-то здесь вздумали морочить эти н"}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** Однажды Господь шёл, п", to_text: "> и Его-то здесь вздумали морочить эти н"}
 
 - id: ccd-0058
   source: chaitanya-chandrodaya
@@ -1170,7 +1170,7 @@
   teaching: [holy-name, gaura-tattva]
   event: ev-rama-name-to-krishna-name
   verses:
-    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** На другой день он случ", to_text: "так что имя Кришны выше имени Рамы."}
+    - {file: "chaitanya-chandrodaya/ru/07.md", from_text: "**Малла-бхатта.** На другой день Он случ", to_text: "так что имя Кришны выше имени Рамы."}
 
 - id: ccd-0059
   source: chaitanya-chandrodaya

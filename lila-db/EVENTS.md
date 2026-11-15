@@ -3225,7 +3225,7 @@
 
 - karnapura-ckm (A): Сарга 12, 118–121 — [118–121](../karnapura-mahakavya/ru/12.md?plain=1#L2596-L2665) · `kcm-0120`
 - cc (A): Мадхья 8.3–8 — [3–8](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md?plain=1#L41-L95) · `cc-1070`
-- chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 4–6 — [**Брахман.** А потом он, чья сила непост–**Сарвабхаума.** Ты говоришь истинно. Та](../chaitanya-chandrodaya/ru/07.md?plain=1#L106-L121) · `ccd-0054`
+- chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 4–6 — [**Брахман.** А потом Он, Чья сила непост–**Сарвабхаума.** Ты говоришь истинно. Та](../chaitanya-chandrodaya/ru/07.md?plain=1#L106-L121) · `ccd-0054`
 - gaura-krishnodaya (B): Сарга 9, 13 — [13–13](../gaura-krishnodaya/ru/09.md?plain=1#L31-L31) · `gkd-0078`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 15–71 (с 22+1–22+2, 23+1–23+3, 41+1–41+2, 42+1–42+2, 59+1–59+5, 71+1–71+4) — [15–71+4](../lochana/ru/46.md?plain=1#L53-L275) · `lcm-0218`
 - murari-kcc (A): Пракрама 3, сарга 14, шлоки 21–28 — [21–28](../murari-gupta/ru/3.14.md?plain=1#L45-L59) · `mkc-0173`
@@ -3250,7 +3250,7 @@
 - karnapura-ckm (A): Сарга 12, 130–134 — [130–134](../karnapura-mahakavya/ru/12.md?plain=1#L2867-L2957) · `kcm-0122`
 - advaita-prakasha (D): Гл. 15, 129–131 — [129. Затем Гау–131. Там говор](../advaita-prakash/15.md?plain=1#L133-L135) · `apr-0090`
 - cc (A): Мадхья 8.9–47 — [9–47](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya08.md?plain=1#L105-L489) · `cc-1071`
-- chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 7–18 — [**Брахман.** Затем он пришёл на берег Го–**Брахман.** Как прикажешь.](../chaitanya-chandrodaya/ru/07.md?plain=1#L123-L243) · `ccd-0055`
+- chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 7–18 — [**Брахман.** Затем Он пришёл на берег Го–**Брахман.** Как прикажешь.](../chaitanya-chandrodaya/ru/07.md?plain=1#L123-L243) · `ccd-0055`
 - gaura-krishnodaya (B): Сарга 9, 14–39 — [14–39](../gaura-krishnodaya/ru/09.md?plain=1#L33-L87) · `gkd-0079`
 - govinda-karcha (D): Часть 3, 530–564 — [530–564](../govinda-kadacha/ru/03.md?plain=1#L301-L408) · `gkr-0032`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 82–114 (с 85+1–85+2, 104+1–104+2, 112+1–112+4, 113+1–113+4) — [82–114](../lochana/ru/46.md?plain=1#L349-L481) · `lcm-0220`
@@ -3296,7 +3296,7 @@
 ## Брахман, повторявший имя Рамы, начинает повторять имя Кришны / The brahmana who chanted Rama begins to chant Krishna  `ev-rama-name-to-krishna-name` (1510–1512, возраст 24–26, оценка)
 
 - cc (A): Мадхья 9.14–37 — [14–37](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md?plain=1#L146-L392) · `cc-1088`
-- chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты, ст. 22–25 — [**Малла-бхатта.** На другой день он случ–так что имя Кришны выше имени Рамы.](../chaitanya-chandrodaya/ru/07.md?plain=1#L302-L323) · `ccd-0058`
+- chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты, ст. 22–25 — [**Малла-бхатта.** На другой день Он случ–так что имя Кришны выше имени Рамы.](../chaitanya-chandrodaya/ru/07.md?plain=1#L302-L323) · `ccd-0058`
 - gaura-krishnodaya (B): Сарга 9, 40–45 — [40–45](../gaura-krishnodaya/ru/09.md?plain=1#L89-L99) · `gkd-0080`
 
 ## Разбойник Пантха Бхил становится садху / The robber Pantha Bhil becomes a sadhu  `ev-pantha-bhil` (1510–1512, возраст 24–26, оценка)
@@ -3384,7 +3384,7 @@
 ## Нечистая пища под видом прасада: птица уносит её с руки Господа / Impure food offered as prasada: a bird snatches it from the Lord's hand  `ev-bird-snatches-impure-food` (1510–1512, возраст 24–26, оценка)
 
 - cc (A): Мадхья 9.53–63 — [53–63](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya09.md?plain=1#L552-L652) · `cc-1091`
-- chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты, ст. 21 — [**Малла-бхатта.** Однажды Господь шёл, п–> и его-то здесь вздумали морочить эти н](../chaitanya-chandrodaya/ru/07.md?plain=1#L295-L300) · `ccd-0057`
+- chaitanya-chandrodaya (A): Акт 7, рассказ Малла-бхатты, ст. 21 — [**Малла-бхатта.** Однажды Господь шёл, п–> и Его-то здесь вздумали морочить эти н](../chaitanya-chandrodaya/ru/07.md?plain=1#L295-L300) · `ccd-0057`
 
 ## Госамаджа: Шива Амрита-линга обнимает Господа; шиваиты становятся вайшнавами / Gosamaja: Shiva Amrita-linga embraces the Lord; Shaivas become Vaishnavas  `ev-amrita-linga-gosamaja` (1510–1512, возраст 24–26, оценка)
 
@@ -4054,6 +4054,7 @@
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 436–437 (6.1, № 74) «নিতাই গুণনিধি শোভার অবধি» = БР 12 (изд. 1912, с. 971–972; изд. 1960, ст. 3698–3701) — [23.1–23.4](../padas/ru/24.md?plain=1#L599-L608) · `pad-0534`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 437 (6.1, № 75) «নিতাই করুণানিধি» = БР 12 (изд. 1912, с. 972; изд. 1960, ст. 3706–3711) — [24.1–24.7](../padas/ru/24.md?plain=1#L622-L634) · `pad-0535`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 437 (6.1, № 76) «গোরাপ্রেমে মাতিয়া নিতাই» = БР 12 (изд. 1912, с. 972; изд. 1960, ст. 3712–3717) — [25.1–25.6](../padas/ru/24.md?plain=1#L645-L660) · `pad-0536`
+- jayananda-cm (C): Виджая-кханда: краткое жизнеописание (Н. Васу 1897, с. 223, сн. 110) — чудеса спутников Нитьянанды в Гауде — [> Гададхара Дас заставляет всех плясать–> певец Мадхава Гхош поёт «Дана-кханду»](../jayananda/ru/02-vasu-1897.md?plain=1#L1258-L1259) · `jcm-0111`
 - padas (B): Васу Рамананда, ПК 2331 «অরুণ বসনে বিদিত ভুবনে» — [15.1–15.4](../padas/ru/07.md?plain=1#L498-L512) · `pad-0137`
 - padas (C): Васу Гхош, ГПТ1 с. 423 (№ 30) «অরুণ-বসনে বিবিধ ভূষণে শিরেতে পাগ লটপটিয়া» — [25.1–25.4](../padas/ru/14.md?plain=1#L681-L690) · `pad-0310`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 437 (6.1, № 77) «ভুবনে জয় জয় নিতাই দয়াময়» = БР 12 (изд. 1912, с. 972–973; изд. 1960, ст. 3718–3721) — [26.1–26.4](../padas/ru/24.md?plain=1#L672-L681) · `pad-0537`

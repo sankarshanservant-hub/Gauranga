@@ -2234,3 +2234,22 @@
     - {file: "jayananda/ru/05-quotes.md", from: "82:1", to: "54:2"}
     - {file: "jayananda/ru/05-quotes.md", from: "83:1", to: "32:5"}
     - {file: "jayananda/ru/05-quotes.md", from: "84:1", to: "84:1"}
+
+- id: jcm-0111
+  source: jayananda-cm
+  ref: "Виджая-кханда: краткое жизнеописание (Н. Васу 1897, с. 223, сн. 110) — чудеса спутников Нитьянанды в Гауде"
+  file: "jayananda/ru/02-vasu-1897.md"
+  period: P12
+  order: 110.5
+  title: "Гададхара Дас заставляет всех плясать; певец Мадхава Гхош поёт «Дана-кханду»"
+  summary: "Среди чудес спутников Нитьянанды после посылки Его в Гауду: Гададхара Дас заставляет всех плясать в своём доме, а певец Мадхава Гхош поёт «Дана-кханду» — песни о том, как Кришна взимал «пошлину» с гопи."
+  persons: ["@madhava-ghosha", "@nityananda", "@gadadhara-dasa"]
+  places: ["#gauda"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Упоминание одной строкой в перечне чудес спутников (рукописный текст, приведённый Васу; поздний и неполный). Ср. parshadas/facts/madhava-ghosha.md F26."
+  themes: [kirtan, krishna-lila]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "jayananda/ru/02-vasu-1897.md", from_text: "> Гададхара Дас заставляет всех плясать", to_text: "> певец Мадхава Гхош поёт «Дана-кханду»"}

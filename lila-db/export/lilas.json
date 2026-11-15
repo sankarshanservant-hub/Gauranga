@@ -120731,14 +120731,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from_text": "**Брахман.** А потом он, чья сила непост",
+    "from_text": "**Брахман.** А потом Он, Чья сила непост",
     "to_text": "**Сарвабхаума.** Ты говоришь истинно. Та"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from": "**Брахман.** А потом он, чья сила непост",
+    "from": "**Брахман.** А потом Он, Чья сила непост",
     "to": "**Сарвабхаума.** Ты говоришь истинно. Та",
     "line": 106,
     "line_to": 121,
@@ -121573,14 +121573,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from_text": "**Брахман.** Затем он пришёл на берег Го",
+    "from_text": "**Брахман.** Затем Он пришёл на берег Го",
     "to_text": "**Брахман.** Как прикажешь."
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from": "**Брахман.** Затем он пришёл на берег Го",
+    "from": "**Брахман.** Затем Он пришёл на берег Го",
     "to": "**Брахман.** Как прикажешь.",
     "line": 123,
     "line_to": 243,
@@ -123415,14 +123415,14 @@
   "verses": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from_text": "**Малла-бхатта.** На другой день он случ",
+    "from_text": "**Малла-бхатта.** На другой день Он случ",
     "to_text": "так что имя Кришны выше имени Рамы."
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
-    "from": "**Малла-бхатта.** На другой день он случ",
+    "from": "**Малла-бхатта.** На другой день Он случ",
     "to": "так что имя Кришны выше имени Рамы.",
     "line": 302,
     "line_to": 323,
@@ -125653,14 +125653,14 @@
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
     "from_text": "**Малла-бхатта.** Однажды Господь шёл, п",
-    "to_text": "> и его-то здесь вздумали морочить эти н"
+    "to_text": "> и Его-то здесь вздумали морочить эти н"
    }
   ],
   "verses_resolved": [
    {
     "file": "chaitanya-chandrodaya/ru/07.md",
     "from": "**Малла-бхатта.** Однажды Господь шёл, п",
-    "to": "> и его-то здесь вздумали морочить эти н",
+    "to": "> и Его-то здесь вздумали морочить эти н",
     "line": 295,
     "line_to": 300,
     "count": null,
@@ -148923,6 +148923,63 @@
     "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/24.md?plain=1#L645-L660",
     "file_en": "padas/en/24.md",
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/24.md?plain=1#L661-L676"
+   }
+  ],
+  "cb": "Антья 5–6",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 6
+ },
+ {
+  "id": "jcm-0111",
+  "source": "jayananda-cm",
+  "ref": "Виджая-кханда: краткое жизнеописание (Н. Васу 1897, с. 223, сн. 110) — чудеса спутников Нитьянанды в Гауде",
+  "file": "jayananda/ru/02-vasu-1897.md",
+  "period": "P12",
+  "order": 110.5,
+  "title": "Гададхара Дас заставляет всех плясать; певец Мадхава Гхош поёт «Дана-кханду»",
+  "summary": "Среди чудес спутников Нитьянанды после посылки Его в Гауду: Гададхара Дас заставляет всех плясать в своём доме, а певец Мадхава Гхош поёт «Дана-кханду» — песни о том, как Кришна взимал «пошлину» с гопи.",
+  "persons": [
+   "@madhava-ghosha",
+   "@nityananda",
+   "@gadadhara-dasa"
+  ],
+  "places": [
+   "#gauda"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Упоминание одной строкой в перечне чудес спутников (рукописный текст, приведённый Васу; поздний и неполный). Ср. parshadas/facts/madhava-ghosha.md F26.",
+  "themes": [
+   "kirtan",
+   "krishna-lila"
+  ],
+  "event": "ev-nityananda-preaching-gauda",
+  "verses": [
+   {
+    "file": "jayananda/ru/02-vasu-1897.md",
+    "from_text": "> Гададхара Дас заставляет всех плясать",
+    "to_text": "> певец Мадхава Гхош поёт «Дана-кханду»"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "jayananda/ru/02-vasu-1897.md",
+    "from": "> Гададхара Дас заставляет всех плясать",
+    "to": "> певец Мадхава Гхош поёт «Дана-кханду»",
+    "line": 1258,
+    "line_to": 1259,
+    "count": null,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/jayananda/ru/02-vasu-1897.md?plain=1#L1258-L1259"
    }
   ],
   "cb": "Антья 5–6",
