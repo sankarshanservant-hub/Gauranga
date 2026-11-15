@@ -52,8 +52,10 @@ were householders and great devotees of Vishnu. <!-- F8 F9 F10 F11 -->
 
 When his parents left this world, Jagadisha, with his wife Dukhini and his brother, left his native land and came to
 the Ganga, to Sri Mayapur. There he built a house next to the house of Jagannatha Mishra and settled in it. Which
-brother came with him the sources tell differently: according to some, Hiranya Pandita; according to Srila
-Bhaktisiddhanta, his younger brother Mahesha, who also wished to live by the Ganga in the company of Vaishnavas.[^4]
+brother came with him the sources tell differently: according to some, Hiranya Pandita; Srila Bhaktisiddhanta in the
+“Anubhashya,” retelling the account of the shripat at Yashada, names his younger brother Mahesha — Jagadisha settled by
+the Ganga to live in the company of Vaishnavas. But elsewhere in the same “Anubhashya” he notes that the authoritative
+books do not speak of any kinship between Jagadisha and Mahesha, and that it is therefore doubtful.[^4]
 <!-- F12 F13 F14 F15 -->
 
 A close, heartfelt friendship bound Jagadisha to Jagannatha Mishra. Vrindavana Dasa writes of him and Hiranya:
@@ -168,7 +170,7 @@ conquered by his love: He regarded Jagadisha as His own and loved him dearly. <!
 After the deliverance of Jagai and Madhai, Jagadisha was among the devotees who sported with the Lord in the waters of
 the Ganga (CB, Madhya 13.336–339); on the day the Kazi was subdued, among those who went with the Lord in the night
 procession of kirtana through the town (CB, Madhya 23.150).[^9] And when in Shridhara's house the Lord drank water from
-his old iron pot, Jagadisha wept with joy together with the others:
+his iron pot, Jagadisha wept with joy together with the others:
 
 “Jagadisha, Gopinatha, Nandana Acharya, Shuklambara, Garuda and many other devotees shed tears.” (CB, Madhya 23.452)
 <!-- F37 F38 F39 Q8 Q9 -->
@@ -179,9 +181,9 @@ The “Bhakti-ratnakara” and the vandanas glorify him among the Lord's associa
 
 ## Jagannatha from Purushottama
 By the Lord's order Jagadisha went to Nilachala to preach krishna-bhakti and the religion of the age — the sankirtana of
-the names of Hari. When this was is not known for certain.[^10] Krishna, the son of Nanda, and Gaurasundara, the son of
-Jagannatha Mishra, are the same Supreme Truth as Lord Jagannatha. Seeing Jagannatha in Purushottama, Jagadisha was
-filled with prema, and on the way back he was overcome by longing in separation from Jagannatha, and wept.
+the names of Hari. When this was is not known for certain.[^10] Seeing in Purushottama Lord Jagannatha — the same
+Supreme Truth as Krishna, the son of Nanda, and Gaurasundara, the son of Jagannatha Mishra — Jagadisha was filled with
+prema, and on the way back he was overcome by longing in separation from Jagannatha, and wept.
 <!-- F40 F41 F42 -->
 
 Many see Jagannatha in Puri, but few, on leaving, long for Him in separation. One of the biographies observes: such
@@ -298,7 +300,7 @@ In his life the Lord revealed two sides of His love for His devotees. As an infa
 Ekadashi, showing that fasting is the service of the servants, while the Lord accepts what is prepared for Him with love
 and joyfully eats what belongs to His devotee. And Jagannatha, seeing his longing in separation, Himself wished to go with
 him from Purushottama, Himself became light and Himself chose His place; and Gaura, moved by Dukhini's tears, Himself
-remained in her house as Gaura-Gopala. Such parental love for the Lord is accessible only to His eternal associates, and
+remained in her house as Gaura-Gopala. Parental love such as Jagadisha and Dukhini had for the Lord is accessible only to His eternal associates, and
 the Lord finds ways to accept the service of those whom He Himself has chosen. <!-- I1 I2 I3 I4 I5 -->
 
 [^1]: He should not be confused with his namesakes: Jagadisha, the son of Advaita Acharya, who turned away from Gaura;
@@ -311,9 +313,10 @@ the Lord finds ways to accept the service of those whom He Himself has chosen. <
     “Gaura-ganoddesha-dipika” (192) they are the priests' wives; there is nothing there about *naga-patni* in their regard.
 [^3]: One of the biographies calls Kamalaksha “the son of Bhatta Narayana”; according to the “Anubhashya,” he only came
     of the line of Bhatta-narayana, the ancient progenitor of the Bengali brahmanas.
-[^4]: Two biographies say that Hiranya came with Jagadisha to the Ganga; the third, like the “Anubhashya,” says his
-    younger brother Mahesha Pandita. According to the opinion of “some,” which the biographies give in their chapters on
-    Mahesha Pandita, there were three brothers — Jagadisha, Hiranya and Mahesha. Jayananda in his “Chaitanya-mangala”
+[^4]: Two biographies say that Hiranya came with Jagadisha to the Ganga; the third, like the “Anubhashya” on CC, Adi 11.30,
+    says his younger brother Mahesha Pandita. According to the opinion of “some,” which the biographies give in their
+    chapters on Mahesha Pandita, there were three brothers — Jagadisha, Hiranya and Mahesha; Srila Bhaktisiddhanta, citing
+    this opinion in the “Anubhashya” on CC, Adi 11.32, calls it doubtful. Jayananda in his “Chaitanya-mangala”
     calls Jagadisha and Hiranya brothers by birth, very dear to Nityananda, living in Navadvipa. The
     “Chaitanya-bhagavata” and the “Charitamrita” do not name any kinship: for them it is “two brahmanas,” “Jagadisha and
     Hiranya.”
