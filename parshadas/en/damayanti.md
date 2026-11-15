@@ -2,18 +2,19 @@
 *Дамаянти · @damayanti*
 
 ## The Sister of Raghava Pandita
-In Panihati, on the bank of the Ganga, lived Raghava Pandita, one of Sri Chaitanya's first followers, and with him his
+In Panihati, by the Ganga, lived Raghava Pandita, one of Sri Chaitanya's first followers, and with him his
 sister Damayanti. Krishnadasa Kaviraja calls her “a dear maidservant of the Lord” (*prabhura priya dasi*); the
 biographies call her Damayanti and Damayanti Devi, and Narahari Chakravarti “loving (*snehavati*) Damayanti Devi.”[^1]
-A line of the “Pata-paryatana,” verses on the holy places of Gauda, remembers brother and sister:
+A line of the “Shripata-paryatana,” verses on the holy places (*shripatas*) of Gauda ascribed to Abhirama Thakura,
+remembers brother and sister:
 
 “In the village of Panihati is the abode of Raghava and Damayanti; of it the tale is told that goes by the name
 ‘Raghava's jhalis.’”
 
 So their home entered the memory of Gauda: through the hampers (*jhalis*) that left it every year for Nilachala, for the
-Lord. <!-- F1 F2 F5 Q7 -->
+Lord. <!-- F1 F2 F5 Q7 F26 -->
 
-Of her life in the world the sources tell almost nothing more. Neither the year and day of her appearance are known,
+Of the rest of her life the sources tell almost nothing. Neither the year and day of her appearance are known,
 nor when and where she left this world; nor are her days found in the Vaishnava calendar of the Sri Chaitanya Saraswat
 Math — as her brother's days are not found there either. Yet of her service to the Lord Krishnadasa Kaviraja tells in
 greater detail than of almost anyone's: a whole part of a chapter of the “Chaitanya-charitamrita” he gave to a single
@@ -57,8 +58,8 @@ other foods and gathered provisions for His daily meals she lovingly packed into
 with Raghava and other devotees. Every year Raghava brought the Lord countless foods dear to Him, prepared by his
 sister, and Krishnadasa Kaviraja described them in the tenth chapter of the “Antya-lila.” <!-- F7 F8 F9 F23 -->
 
-Damayanti and Raghava knew that Mahaprabhu is the Supreme Lord Himself. And yet their love for Him was so strong that
-it veiled this knowledge: she cared for His health as one cares for someone near and dear. She cooked at her brother's
+Damayanti and Raghava knew Mahaprabhu to be the Supreme Lord Himself. Yet so strong was the love they bore Him
+that she cared for His health as one cares for someone near and dear. She cooked at her brother's
 bidding (*ajna*), and Kaviraja says of them both:
 
 “Raghava gave the orders, and Damayanti carried them out. Both had deep affection and supreme devotion for the Lord.”
@@ -68,7 +69,7 @@ All this was not household work but the service (*seva*) of an eternal associate
 prepared was an offering (*naivedya*) to the Lord; what remained from Him Kaviraja calls *prasada*. <!-- F10 F13 -->
 
 ## Raghava's Jhalis
-Every year in the month of Ashadha, for the Ratha-yatra, the devotees of Gauda went to Puri to see the Lord, and each
+Every year in the month of Ashadha, for the Ratha-yatra, the devotees of Gauda travelled to Puri for the Lord's darshan, and each
 brought something for His service. With them went Raghava Pandita with his hampers. Damayanti prepared what was in them,
 and Raghava carried them and secretly brought them to the Lord:
 
@@ -107,8 +108,8 @@ other preparations; *amsi*, *ama-khanda*, *tailamra* (mango pickle in mustard oi
 (bitter greens), carefully ground into powder.” (CC, Antya 10.15–16)
 
 Then come *ladus* of coriander and anise cooked in sugar syrup; ginger with sugar and remedies for indigestion and
-excess bile, each in its own little bag; about a hundred pickles of *kul* berries (*koli-shunthi*, *koli-churna*,
-*koli-khanda*); coconut sweets and white *gangajali* balls, like the waters of the Ganga; long-keeping *khirsa*, sweets
+excess bile, each in its own little bag; *kul* berries in various forms (*koli-shunthi*, *koli-churna*,
+*koli-khanda*) and a hundred kinds of pickles; coconut sweets and white *gangajali* balls, like the waters of the Ganga; long-keeping *khirsa*, sweets
 of milk and cream, *amrita-karpura*; a whole bag of new cloth full of flat rice (*chida*) from sun-dried *shali* paddy;
 *hurum* fried in ghee and cooked in syrup with camphor; *ladus* of ground fried *shali* rice with camphor, black pepper,
 cloves and cardamom; *ukhra* of popped rice (*khai*); *ladus* of fried peas (CC, Antya 10.22–32). And Kaviraja ends
@@ -118,8 +119,8 @@ humbly:
 <!-- F16 Q3 -->
 
 Srila Bhaktisiddhanta Sarasvati remarks in the “Anubhashya” that this description shows how skilled Krishnadasa
-Kaviraja himself was in preparing offerings for Krishna, and that the words “whose names I could not tell” are his
-humility. One of the biographies repeats this thought.[^4] <!-- I4 -->
+Kaviraja himself was in preparing offerings for Krishna. One of the biographies repeats this thought.[^4] And in the
+words “whose names I could not tell” one hears Kaviraja's own humility. <!-- I4 -->
 
 ## Shukta
 Among all these sweets and pickles was one humble thing — *shukta*, dried bitter greens ground to powder. Of it Kaviraja
@@ -154,7 +155,9 @@ Having brought the *jhalis* to Puri, Raghava handed them to the Lord's servant G
 previous year's *jhalis* and took them to another room, keeping them there to be filled with provisions.”
 (CC, Antya 10.55–56)
 
-The next day the Lord opened them Himself:
+The Lord did not hurry to open them. When He had tasted all the foods brought by the other devotees and asked whether
+anything more was left, Govinda replied: “Only Raghava's *jhalis* are left.” The Lord said that He would not touch
+them that day and would look at them later (CC, Antya 10.127–128). On another day He opened them Himself:
 
 “Another day, when the Lord ate in seclusion, He opened Raghava's *jhalis* and looked at everything. He tasted a little
 of every item and, finding them delicious and fragrant, praised them highly. The rest He kept in store for a whole
@@ -192,7 +195,7 @@ not ignorance but the natural love of the people of Gauda and Vraja, before whic
 dim. With this love Damayanti won the Lord: thinking of it, He rejoiced. <!-- F6 F14 F15 I1 I2 I3 -->
 
 [^1]: In our edition of the Russian translation of the “Chaitanya-charitamrita” the name is spelled differently in Adi 10
-    (“Damayyanti”) and in Antya 10 (“Damayanti”). In this article the name is given uniformly as Damayanti. Raghava's
+    (“Damayyanti”) and in Antya 10 (“Damayanti”). In this article the name is given uniformly as Damayanti, and an obvious slip in the Russian of Adi 10.25 is corrected. Raghava's
     hampers are called “Raghava's bags” in Adi 10.27 and “Raghava's *jhalis*” in Antya 10.39.
 [^2]: One of the biographies says that Damayanti herself carried the *jhalis* to Puri and offered them to the Lord. But
     according to the “Chaitanya-charitamrita” it was Raghava who carried the bags and secretly brought them to the Lord
