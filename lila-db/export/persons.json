@@ -4278,6 +4278,14 @@
     "type": "served-by"
    },
    {
+    "from": "@keshava-kashmiri",
+    "type": "opposed"
+   },
+   {
+    "from": "@keshava-kashmiri",
+    "type": "siksha-guru"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
    },
@@ -4392,6 +4400,10 @@
    {
     "from": "@vakreshvara",
     "type": "companion"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "met"
    },
    {
     "from": "@vasu-ghosha",
@@ -6694,6 +6706,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "deity-served"
    }
   ]
  },
@@ -12570,6 +12586,10 @@
    {
     "from": "@vakreshvara",
     "type": "co-worker"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    }
   ]
  },
@@ -13636,6 +13656,10 @@
    {
     "from": "@vakreshvara",
     "type": "companion"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "guru"
    },
    {
     "from": "@vasu-ghosha",
@@ -16552,6 +16576,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -19019,6 +19047,10 @@
    {
     "from": "@shachi",
     "type": "guest"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "lineage-predecessor"
    }
   ]
  },
@@ -19474,6 +19506,10 @@
    {
     "from": "@svarupa-damodara",
     "type": "companion"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    }
   ]
  },
@@ -20065,6 +20101,10 @@
    {
     "from": "@svarupa-damodara",
     "type": "friend"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    },
    {
     "from": "@yamunacharya",
@@ -20764,6 +20804,10 @@
    {
     "from": "@vakreshvara",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    }
   ]
  },
@@ -21985,6 +22029,10 @@
    {
     "from": "@vakreshvara",
     "type": "other"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "met"
    },
    {
     "from": "@yamunacharya",
@@ -23730,6 +23778,10 @@
     "type": "other"
    },
    {
+    "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -24061,6 +24113,10 @@
    {
     "from": "@shachi",
     "type": "in-law"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    }
   ]
  },
@@ -25587,6 +25643,10 @@
    {
     "from": "@svarupa-damodara",
     "type": "co-worker"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    }
   ]
  },
@@ -28345,6 +28405,10 @@
     "type": "other"
    },
    {
+    "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
     "from": "@madhvacharya",
     "type": "other"
    },
@@ -29484,6 +29548,10 @@
    },
    {
     "from": "@svarupa-damodara",
+    "type": "other"
+   },
+   {
+    "from": "@vallabha-bhatta",
     "type": "other"
    }
   ]
@@ -34405,6 +34473,10 @@
    {
     "from": "@sanatana-gosvami",
     "type": "sibling"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "met"
    }
   ]
  },
@@ -35279,6 +35351,10 @@
    {
     "from": "@srivasa",
     "type": "other"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "met"
    }
   ]
  },
@@ -36614,6 +36690,10 @@
   "related_by": [
    {
     "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
+    "from": "@keshava-kashmiri",
     "type": "other"
    },
    {
@@ -38550,6 +38630,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@keshava-kashmiri",
+    "type": "other"
    },
    {
     "from": "@murari-gupta",
@@ -41257,6 +41341,213 @@
    "ev-vyasatirtha-vallabha",
    "ev-four-sampradayas"
   ],
+  "summary": "в лиле аватары — Шука, сын Двайпаяны (ГГД 110); гуру — Гададхара Пандит; происхождение — Каши (Варанаси); явление — чайтра кришна-экадаши",
+  "card": "parshadas/cards/vallabha-bhatta.yaml",
+  "article": {
+   "ru": "parshadas/ru/vallabha-bhatta.md",
+   "en": "parshadas/en/vallabha-bhatta.md"
+  },
+  "kind": "acharya",
+  "circle": [
+   "puri",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "1400 Шака (1478/79)",
+    "tithi": "чайтра кришна-экадаши (по одному мнению)",
+    "place": "#champaranya?",
+    "conf": "только «Анубхашья» к ЧЧ Мадхья 19.61 (F10–F11): Канкадавад в Траиланге — или «Чампакаранья» — или Чампаджхар близ Раджима; B — родился в лесу на пути из Варанаси на юг, без названия места (F7); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F5",
+     "F7",
+     "F8",
+     "F9",
+     "F10",
+     "F11"
+    ]
+   },
+   "disappearance": {
+    "date": "1452 Шака / 1587 Викрамы (1530/31)",
+    "tithi": "",
+    "place": "#kashi",
+    "conf": "B (гл. о Мадхавендре): санньяса за 39 дней до ухода, 1587 Викрамы / 1452 Шака / 1530 (F78); «Анубхашья»: триданди-санньяса и уход в 1452 Шака в Варанаси; день не назван; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет",
+    "facts": [
+     "F77",
+     "F78"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "комментарий на «Брахма-сутру» («Анубхашья»)",
+    "facts": [
+     "F67"
+    ]
+   },
+   {
+    "title": "комментарий на «Бхагаватам» («Субодхини»), который он хотел прочесть Господу вопреки Шридхаре Свами",
+    "facts": [
+     "F45",
+     "F55",
+     "F58",
+     "F67"
+    ]
+   },
+   {
+    "title": "«Шодаша-грантха» и другие книги («Анубхашья» Бхактисиддханты)",
+    "facts": [
+     "F67"
+    ]
+   },
+   {
+    "title": "«Таттва-дипа» (исправлена по совету Дживы — по B, «говорят»)",
+    "facts": [
+     "F64"
+    ]
+   },
+   {
+    "title": "толкование имени Кришны (ЧЧ Антья 7.80)",
+    "facts": [
+     "F55",
+     "F56"
+    ]
+   },
+   {
+    "title": "мантра «шри кришна шаранам мама» для учеников",
+    "facts": [
+     "F70"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "other-avatara",
+    "as": "Шука (Шукадева), сын Двайпаяны",
+    "source": "ГГД 110",
+    "level": "A",
+    "variants": [
+     "T, M, B этого не называют; ср. «Гаура-кришнодая» 17.19 — «как в Кали отличить Шридхару от Шуки?» (⚠14)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@lakshmana-bhatta",
+    "note": "Лакшмана Бхатта («Баттар» в B), андхра-брахман; ушёл из этого мира, когда сыну было 11 лет (B) — «Анубхашья»: весть о кончине отца Валлабха получил в Шешадри."
+   },
+   {
+    "type": "mother",
+    "who": "@ellamma",
+    "note": "Эллама Гару (B); с её позволения он отправился в паломничество и женился."
+   },
+   {
+    "type": "son",
+    "who": "@gopinatha-son-of-vallabha",
+    "note": "Старший сын (1432 Шака); ребёнком склонился к стопам Господа в Адаиле (ЧЧ Мадхья 19.108); ушёл в Пури через 10 лет после ухода отца (B 50)."
+   },
+   {
+    "type": "son",
+    "who": "@vitthalanatha",
+    "note": "Младший сын (1437 Шака); при приходе Господа в Адаил ещё не родился («Анубхашья» к Мадхья 19.108). Подробно — @madhavendra-puri F171–F189."
+   },
+   {
+    "type": "guru",
+    "who": "@gadadhara-pandita",
+    "note": "Сначала Гададхара отказал без воли Господа (ЧЧ Антья 7.146–148); посвящение в мантру Кишора-Гопалы — с позволения Господа (7.167). = @gadadhara-pandita F65–F67."
+   },
+   {
+    "type": "met",
+    "who": "@mahaprabhu",
+    "note": "Принял Господа в Адаиле (ЧЧ Мадхья 19); в Пури Господь сокрушил его гордость учёностью ради его блага (Антья 7); ⚠Б1, ⚠Б2. Встречи в Каши, у Манаси-Ганги и др. — только варты (D)."
+   },
+   {
+    "type": "met",
+    "who": "@rupa-gosvami",
+    "note": "В Праяге Рупа и Анупама кланялись ему издали; Валлабха признал их лучшими из всех (ЧЧ Мадхья 19.66–72). = @rupa-gosvami F81–F94, F285–F286."
+   },
+   {
+    "type": "met",
+    "who": "@anupama",
+    "note": "Вместе с Рупой в Праяге и Адаиле (ЧЧ Мадхья 19.65–89); тёзка — тоже Валлабха."
+   },
+   {
+    "type": "host",
+    "who": "@raghupati-upadhyaya",
+    "note": "Рагхупати пришёл к Господу в доме Валлабхи; Валлабха и домочадцы изумились его удаче (B 938; T 100; ЧЧ Мадхья 19.92–108)."
+   },
+   {
+    "type": "other",
+    "who": "@balabhadra-bhattacharya",
+    "note": "По просьбе Валлабхи готовил для Господа в Адаиле (ЧЧ Мадхья 19.87)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-rajput",
+    "note": "Получил остатки Господа в Адаиле (ЧЧ Мадхья 19.89; B 299)."
+   },
+   {
+    "type": "met",
+    "who": "@jiva-gosvami",
+    "note": "Спор о поправках к БРС (БР 5, по T) или о «Таттва-дипе» (B, по Бхактивиноде); ⚠Б9. = @jiva-gosvami F69–F70, F93."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Валлабха спорил с ним о том, вправе ли «жена» звать «мужа» по имени; Адвайта отослал его к Господу (ЧЧ Антья 7.99–101)."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara-svami",
+    "note": "Валлабха отвергал его комментарий; Господь назвал Шридхару гуру мира и велел толковать «Бхагавату» по нему (ЧЧ Антья 7.109–132)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Господь славил Сварупу перед Валлабхой (Антья 7.38–45); Сварупа раздавал прасад на его пиру и ходил за Гададхарой. = @svarupa-damodara F69–F70."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "Господь славил Рамананду перед Валлабхой (Антья 7.23–37). = @ramananda-raya F67, F128."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Господь славил Сарвабхауму перед Валлабхой (Антья 7.21–22; T 116; B 1030)."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Среди бенгальских вайшнавов, прославленных Господом; раздавал прасад на пиру Валлабхи. = @jagadananda-pandita F77, F82."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@madhavendra-puri",
+    "note": "B: линия Валлабха ← Гададхара ← Пундарика ← Мадхавендра; в детстве учил у него Веды (по вартам; ≠ B 844 — гурукула «Мадхавананды», ⚠Б8); Гопала Мадхавендры. = @madhavendra-puri F137, F163–F198."
+   },
+   {
+    "type": "patron",
+    "who": "@krishnadeva-raya",
+    "note": "Царь Виджаянагары принял его с почётом, одарил и сделал главным жрецом (B 845)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@shrinathji-deity",
+    "note": "Гопала (Шринатхджи) Мадхавендры на Говардхане: установка и восстановление храма Валлабхой — по B (1499 / 1519; ⚠Б6); «Анурага-валли» 8.89 — «адхикари Натхджи»."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-puri",
+    "note": "B 74: «некоторые говорят» — старший брат Валлабхачарьи; достоверность под вопросом (⚠Б10)."
+   },
+   {
+    "type": "other",
+    "who": "@vallabhacharya",
+    "note": "Тёзка, не путать: отец Лакшмиприи, житель Навадвипы."
+   }
+  ],
   "related_by": [
    {
     "from": "@damodara-pandita",
@@ -41273,6 +41564,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "met"
+   },
+   {
+    "from": "@keshava-kashmiri",
+    "type": "other"
    },
    {
     "from": "@madhavendra-puri",
@@ -41343,6 +41638,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "host"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "son"
    }
   ]
  },
@@ -41478,6 +41777,128 @@
    "ev-keshava-kashmiri-defeat",
    "ev-marriage-vishnupriya",
    "ev-vallabha-krishna-premamrita"
+  ],
+  "summary": "происхождение — Кашмир",
+  "card": "parshadas/cards/keshava-kashmiri.yaml",
+  "article": {
+   "ru": "parshadas/ru/keshava-kashmiri.md",
+   "en": "parshadas/en/keshava-kashmiri.md"
+  },
+  "kind": "other",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#kashmir",
+    "conf": "родом из Кашмира (БР 12.2273; «Анубхашья»); год и день явления неизвестны; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) его дня явления нет",
+    "facts": [
+     "F3",
+     "F41"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "время и место ухода неизвестны; «Гаура-кришнодая» 5.26 называет его при встрече престарелым; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет",
+    "facts": [
+     "F41"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "«Каустубха-прабха» — комментарий к «Веданта-каустубхе» Шринивасачарьи (на «Париджата»-бхашью Нимбарки)",
+    "facts": [
+     "F7"
+    ]
+   },
+   {
+    "title": "сто шлок о Ганге (сложены перед Нимаем; ЧЧ Ади 16.36–41 приводит одну — «махаттвам гангайах…»)",
+    "facts": [
+     "F19",
+     "F20"
+    ]
+   },
+   {
+    "title": "«Крама-дипика» — авторство спорно: B («Гаудия-бхашья» к ЧБ Ади 13.19) сомневается, «Гаудия-бхашья» к ЧБ Ади 1.111 и 13.175 приписывает её ему (⚠1)",
+    "facts": [
+     "F8",
+     "F39",
+     "F40"
+    ]
+   }
+  ],
+  "identities": [],
+  "relations": [
+   {
+    "type": "opposed",
+    "who": "@mahaprabhu",
+    "note": "Дигвиджайи, пришедший победить пандитов Навадвипы; Нимай Пандит разобрал его стихи о Ганге и победил его (ЧЧ Ади 16.25–104; ЧБ Ади 13.19–117) — не мирское состязание, а милость (⚠Б1)."
+   },
+   {
+    "type": "siksha-guru",
+    "who": "@mahaprabhu",
+    "note": "Наутро предался стопам Господа; Господь обнял его, освободил от уз и наставил: знание — для служения Кришне (ЧБ Ади 13.150–188; ЧЧ Ади 16.107–108). Кешава — не учитель Господа (вартма-прадаршака): это мнение «мнимых последователей» Бхактисиддханта отвергает (⚠Б6)."
+   },
+   {
+    "type": "other",
+    "who": "@sarasvati-devi",
+    "note": "Повторял её мантру и получил её благословение покорить мир (ЧБ Ади 13.20–24; БР 12.2272); во сне она открыла ему, что Нимай — Сам Бхагаван, а она — Его служанка, и отослала его к Господу (ЧБ Ади 13.125–149). Сарасвати — служанка Господа (⚠Б2–⚠Б3)."
+   },
+   {
+    "type": "lineage-predecessor",
+    "who": "@nimbarka",
+    "note": "29-й в линии Нимбадитьи (БР 12.2271); комментарий «Каустубха-прабха» на «Веданта-каустубху» Шринивасачарьи к «Париджата»-бхашье Нимбарки; по «Гаудия-бхашье» вспомнил «Даша-шлоки» Нимбарки по милости Господа."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta",
+    "note": "В ХБВ Гопалы Бхатты и «Диг-даршини» много цитат из «Крама-дипики» Кешавы Бхатты (= @gopala-bhatta F37); тот ли это Кешава — спорно (⚠1)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Гаудия-бхашья» к ЧБ Ади 1.111, 13.19, 13.175–177 и «Анубхашья» к ЧЧ Ади 16.25: тождество, линия Нимбарки, «Каустубха-прабха», «Крама-дипика»; позднейший отход его последователей от Махапрабху."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Амрита-праваха-бхашья» к ЧЧ Ади 16.25: «Кешава Мишра из Кашмира», обученный Махапрабху, ачарья в сампрадае Нимбадитьи."
+   },
+   {
+    "type": "other",
+    "who": "@chaitanya-dasa",
+    "note": "В БР 2.227–253 рассказывает Шринивасе о победе Нимая над дигвиджайи, которую видел в юности."
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa",
+    "note": "Подробно описал победу (ЧБ Ади 13); Кришнадас Кавираджа дополняет разбором шлоки (ЧЧ Ади 16.26–27)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "ЧЧ Ади 16.25–109 — разбор шлоки о Ганге."
+   },
+   {
+    "type": "other",
+    "who": "@nabhadasa",
+    "note": "«Бхактамал», чхаппай 75 — о Кешаве Бхатте «Кашмири»; о встрече с Махапрабху молчит."
+   },
+   {
+    "type": "other",
+    "who": "@vallabha-bhatta",
+    "note": "По «Валлабха-варте» (байтхак 13) — стоял рядом с Кришна-Чайтаньей у Валлабхи на Говинда-кунде (валлабхитское предание, ур. D, ⚠Б8)."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta",
+    "note": "B 809 (гл. о Мукунде Датте) — упомянут как знаменитый дигвиджайи, чью учёность Махапрабху мог превзойти."
+   }
   ]
  },
  {
@@ -41556,6 +41977,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "met"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "host"
    }
   ]
  },
@@ -41867,6 +42292,10 @@
     "type": "other"
    },
    {
+    "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
     "from": "@madhvacharya",
     "type": "other"
    },
@@ -42043,6 +42472,10 @@
    },
    {
     "from": "@kashishvara",
+    "type": "other"
+   },
+   {
+    "from": "@keshava-kashmiri",
     "type": "other"
    },
    {
@@ -44166,6 +44599,12 @@
    "ev-bengali-poet-drama-svarupa",
    "ev-srinivasa-schooling",
    "ev-ramachandra-kaviraja-meets-srinivasa"
+  ],
+  "related_by": [
+   {
+    "from": "@keshava-kashmiri",
+    "type": "other"
+   }
   ]
  },
  {
@@ -46942,6 +47381,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    }
   ]
  },
@@ -48583,6 +49026,10 @@
    },
    {
     "from": "@shridhara-maharaja",
+    "type": "other"
+   },
+   {
+    "from": "@vallabha-bhatta",
     "type": "other"
    }
   ]
@@ -50693,6 +51140,10 @@
    {
     "from": "@rupa-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@vallabha-bhatta",
+    "type": "other"
    }
   ]
  },
@@ -54686,6 +55137,10 @@
   "events": [],
   "related_by": [
    {
+    "from": "@keshava-kashmiri",
+    "type": "other"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "other"
    }
@@ -54827,7 +55282,13 @@
   "note": "андхра-брахман (веланати), отец @vallabha-bhatta (B 844; «Анубхашья» к ЧЧ Мадхья 19.61)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vallabha-bhatta",
+    "type": "father"
+   }
+  ]
  },
  {
   "id": "@ellamma",
@@ -54836,7 +55297,13 @@
   "note": "мать @vallabha-bhatta (B 844)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vallabha-bhatta",
+    "type": "mother"
+   }
+  ]
  },
  {
   "id": "@gopinatha-son-of-vallabha",
@@ -54845,7 +55312,13 @@
   "note": "старший сын @vallabha-bhatta (1510; B 22–24, 50, 846; ЧЧ Мадхья 19.108)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vallabha-bhatta",
+    "type": "son"
+   }
+  ]
  },
  {
   "id": "@krishnadeva-raya",
@@ -54854,6 +55327,27 @@
   "note": "царь Виджаянагары (1509–1529); покровитель Валлабхи (B 844–845)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vallabha-bhatta",
+    "type": "patron"
+   }
+  ]
+ },
+ {
+  "id": "@nimbarka",
+  "ru": "Нимбарка (Нимбадитья)",
+  "en": "Nimbarka (Nimbaditya)",
+  "note": "основатель Нимбарка-сампрадаи, автор «Веданта-париджата-саурабхи» и «Даша-шлоки»; Кешава Кашмири — 29-й в его линии (БР 12; «Анубхашья» к ЧЧ Ади 16.25)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@keshava-kashmiri",
+    "type": "lineage-predecessor"
+   }
+  ]
  }
 ]
