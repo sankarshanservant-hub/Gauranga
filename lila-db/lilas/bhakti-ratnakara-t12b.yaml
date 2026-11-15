@@ -2308,3 +2308,289 @@
   event: ev-nityananda-preaching-gauda
   verses:
     - {file: "bhakti-ratnakara/ru/12.md", from: "3723", to: "3752"}
+
+- id: brt-7129
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3753–3818"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P12
+  order: 114
+  title: "Слава Адвайты, владыки Шантипура (пады)"
+  summary: "Адвайта, чьё тело неотлично от Шри Чайтаньи, своими громовыми возгласами привёл Кришну Чайтанью на землю; пады (Дханашри, Бхупали, Велавали, Камода, Карната, Гурджари, Ашавари, Сухаи, Тоди; Лочана, Гханашьяма, Нарахари): будучи Ишварой, Он считает Себя слугой, рычит, усмиряя Кали, пляшет, восклицая «Гора, Гора!» и «Нитай, Нитай», обнимает падших и раздаёт према-бхакти; Он пребывает то в Своём доме, то у спутников, то на берегу Сурадхуни."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@advaita", "@sita-thakurani", "@lochana-dasa", "@narahari-chakravarti"]
+  places: ["#shantipura"]
+  kind: lila
+  authority: B
+  notes: "Вставка-славословие перед встречей Нитьянанды с Адвайтой."
+  themes: [kirtan, mercy]
+  teaching: [associates-tattva]
+  event: ev-nityananda-advaita-meeting-shantipura
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3753", to: "3818"}
+
+- id: brt-7130
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3819–3824"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P12
+  order: 115
+  title: "Нитьянанда приходит из Саптаграма к Адвайте в Шантипур"
+  summary: "Нитьянанда приходит из Саптаграма в дом Адвайты; увидев друг друга, Оба не могут устоять от премы; пробыв три-четыре дня, с позволения Адвайты Нитьянанда, тихо улыбаясь после прощальных слов, отправляется в Навадвипу и, ликуя, входит в Надию."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@advaita"]
+  places: ["#saptagrama", "#shantipura", "#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [ecstasy]
+  event: ev-nityananda-advaita-meeting-shantipura
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3819", to: "3824"}
+
+- id: brt-7131
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3825–3836"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P12
+  order: 300
+  title: "Шачи рассказывает Малини свой сон: Нимай пришёл из Нилачалы"
+  summary: "Шачи дни и ночи говорит о Нимае; наедине она рассказывает Малини сон (пада Камода): услышав голос Нимая, она вышла, Нимай взял пыль с её стоп и сказал: «Пленённый твоей любовью, Я не мог оставаться в Нилачале», — она прижала Его к сердцу, и сон ушёл; Шачи падает без чувств, Малини рыдает; затем Шачи плачет, взяв Вишнуприю на колени, и решает: «Когда придёт Нитай, не отпущу Его»."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@shachi", "@malini", "@vishnupriya", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: vision
+  authority: B
+  themes: [separation, family]
+  event: ev-shachi-dream-nimai
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3825", to: "3836"}
+
+- id: brt-7132
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3837–3842"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P12
+  order: 120
+  title: "Нитьянанда у Шачи; по её велению остаётся в Навадвипе"
+  summary: "Приходит Нитьянанда, Аи безмерно рада и зовёт: «Иди ко мне, сынок!»; Он склоняется к её стопам; их беседа утешает её; по велению Аи Он остаётся в Навадвипе, затем идёт к Шривасу и Малини и с киртаном обходит дома."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@shachi", "@srivasa", "@malini"]
+  places: ["#navadvipa", "#house-jagannatha-mishra", "#house-srivasa"]
+  kind: lila
+  authority: B
+  themes: [family, kirtan]
+  event: ev-nityananda-visits-shachi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3837", to: "3842"}
+
+- id: brt-7133
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3843–3845"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P12
+  order: 125
+  title: "Разбойники, покусившиеся на украшения Нитьянанды, спасены"
+  summary: "Разбойники решают похитить драгоценные украшения Нитьянанды; претерпев много страданий, они принимают прибежище у Его стоп, и Он, даровав им бхакти, спасает их."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [mercy]
+  event: ev-nityananda-thieves
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3843", to: "3845"}
+
+- id: brt-7134
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3846–3870"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P12
+  order: 126
+  title: "Нитьянанда странствует по краю Навадвипы; киртан с Адвайтой во дворе Шриваса"
+  summary: "Нитьянанда со спутниками ходит из селения в селение — Кханайор, Барагачхи, Догачхия, Кулия (цитата ЧБ Антья: особо благочестиво Барагачхи); Адвайта приходит из Шантипура, и Они вместе наслаждаются киртаном (пада Дханашри); во дворе Шриваса начинают санкиртану Шри Кришны Чайтаньи: поют Васу, Говинда, пляшут Нитьянанда и Адвайта, Шривас, Мурари, Гангадас, Гададхара, Абхирама, Саранга, Сундара, Манохара, Видьявачаспати — брат Сарвабхаумы; посреди, мнится, пляшет Сам Господь."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@advaita", "@srivasa", "@murari-gupta", "@gangadasa-pandita", "@gadadhara-dasa", "@abhirama", "@sundarananda", "@vidya-vachaspati", "@vasu-ghosha", "@govinda-ghosha", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-srivasa", "#badagachhi", "#dogachhia", "#kulia"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Антья 5 (цитата в тексте)"
+  notes: "Пляска Господа посреди (3867) — Его явление в киртане спустя годы после санньясы; Гададхара в списке 3864 — вероятно, Гададхара Дас."
+  themes: [kirtan, revelation]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3846", to: "3870"}
+
+- id: brt-7135
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3871–3911"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 20
+  title: "Сватовство Нитьянанды: старый брахман советует Сурьядасу; сон Сурьядаса"
+  summary: "По воле Нитьянанды все желают Его женить; особенно стремится к этому Кришнадас, сын Хари Хода из Барагачхи; в Шалиграме живёт Сурьядас Саркхел, богатый чиновник царя Гауды, с дочерьми Васудхой и Джахнавой; старый брахман говорит ему: в Экачакре жил Хадаи Пандит (Мукунда; цитаты «Вайшнавабхидханы» и «Гаура-ганоддеша-дипики»: родители — Рохини и Васудева), его сын Нитьянанда, авадхута, оставивший данду в Надии, — достойный жених; Сурьядас молчит, но ночью во сне отдаёт дочерей Нитьянанде, видит Его Баладевой, а их — Варуни и Ревати, и плачет от блаженства."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@krishnadasa-badagachhi", "@suryadasa-pandita", "@vasudha", "@jahnava", "@hadai-pandita", "@padmavati", "@balarama"]
+  places: ["#badagachhi", "#shaligrama-village", "#ekachakra", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "«Према-виласа» 24 (pvl-0270); «Нитьянанда-вамша-вистара» 1 (nvv-0005–0009); «Адвайта-пракаша» 20 (apr-0136, apr-0139)"
+  divergence: "БР: сватает старый брахман-земляк Сурьядаса, Сурьядас соглашается после сна без всякого испытания. ПВ 24: сватает Уддхарана Датта, Сурьядас гневается, затем Васудха умирает и оживает по милости Нитьянанды; «Нитьянанда-вамша-вистара» и «Адвайта-пракаша» — тоже отказ и оживление Васудхи."
+  themes: [family, revelation]
+  bhava: [balarama]
+  teaching: [associates-tattva]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3871", to: "3911"}
+
+- id: brt-7136
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3912–3934"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 20.1
+  title: "Брахман-сват у Шриваса; решение о свадьбе"
+  summary: "На рассвете Сурьядас просит брахмана устроить дело; тот с четырьмя спутниками приходит в Надию к Шривасу, видит Нитьянанду на дивном сиденье и наедине сватает: «Дочь Сурьядаса — словно Лакшми, его дом достоин свадьбы Нитьянанды»; Шривас обещает послать Кришнадаса в Барагачхи и назавтра прийти туда; Шривас извещает Адвайту, Нитьянанда тихо улыбается; Кришнадас, сын раджи Хари Хода, готовит всё."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@suryadasa-pandita", "@srivasa", "@nityananda", "@advaita", "@krishnadasa-badagachhi"]
+  places: ["#navadvipa", "#house-srivasa", "#shaligrama-village", "#badagachhi"]
+  kind: lila
+  authority: B
+  themes: [family]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3912", to: "3934"}
+
+- id: brt-7137
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3935–3970"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 20.2
+  title: "В Барагачхи: Сурьядас у стоп Нитьянанды; адхиваса жениха и невест"
+  summary: "Из Навадвипы все с Нитьянандой идут в Барагачхи, жители встречают Его; Сурьядас, велев младшему брату Кришнадасу идти следом с припасами и брахманами, первым приходит, плачет у стоп Нитьянанды, и Тот обнимает его; брат Гауридас вне себя от радости; в час годхули — адхиваса Нитьянанды (пада Мангала); затем Сурьядас дома совершает адхивасу дочерей (пада Бхупали: мать не чует земли)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@suryadasa-pandita", "@krishnadasa-sarakhela", "@gauridasa-pandita", "@krishnadasa-badagachhi", "@vasudha", "@jahnava"]
+  places: ["#badagachhi", "#shaligrama-village"]
+  kind: lila
+  authority: B
+  notes: "Гауридас (3947) назван братом Сурьядаса — Гауридас Пандит."
+  themes: [family, festival]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3935", to: "3970"}
+
+- id: brt-7138
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3971–3993"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 20.3
+  title: "Свадьба Нитьянанды с Васудхой и Джахнавой в Шалиграме"
+  summary: "В час годхули Нитьянанда с музыкой и светильниками едет из Барагачхи в Шалиграм (пада Дешапала); невесты тайком видят Владыку своей жизни, мать с подругами наряжает их; Сурьядас по обычаю и шастрам отдаёт Ему обеих дочерей, в трёх мирах ликование; на другой день, после смиренных слов Сурьядаса при прощании, Нитьянанда с супругами возвращается в Барагачхи, где жена Шриваса и старшие совершают обряды; Васудха и Джахнава — Варуни и Ревати (цитата «Гаура-ганоддеша-дипики»: иные зовут их Калавани и Ананга-манджари)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@vasudha", "@jahnava", "@suryadasa-pandita", "@malini"]
+  places: ["#shaligrama-village", "#badagachhi"]
+  kind: lila
+  authority: B
+  parallels: "«Гаура-ганоддеша-дипика» (цитата в тексте)"
+  themes: [family, festival]
+  teaching: [associates-tattva]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3971", to: "3993"}
+
+- id: brt-7139
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3994–4008"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 20.4
+  title: "Нитьянанда с супругами в Барагачхи (пада о Нитае)"
+  summary: "Несколько дней Нитьянанда наслаждается играми в Барагачхи; пада Камода: Рама, сын Рохини, — Нитай, старший брат Чайтаньи, сын Падмавати, Владыка жизни Васудхи и Джахнавы, опьянённый любовью к Горе, дарует нектар премы."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@vasudha", "@jahnava"]
+  places: ["#badagachhi"]
+  kind: lila
+  authority: B
+  themes: [family, mercy]
+  teaching: [associates-tattva]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3994", to: "4008"}
+
+- id: brt-7140
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 4009–4011"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 20.45
+  title: "Нитьянанда приводит Васудху и Джахнаву к Шачи"
+  summary: "Через несколько дней Нитьянанда со всеми приходит из Барагачхи в Надию; Аи, увидев Васу и Джахнаву, проявляет к ним несказанную нежность, жёны преданных вне себя от радости."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@vasudha", "@jahnava", "@shachi"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: [family]
+  event: ev-nityananda-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "4009", to: "4011"}
+
+- id: brt-7141
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 4012–4021"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 20.5
+  title: "Нитьянанда поселяет супруг в Кхардахе"
+  summary: "С позволения Аи Нитьянанда через Шантипур идёт в Саптаграм, затем по желанию преданных поселяет возлюбленных в Кхардахе; насладившись там санкиртаной, приходит в Надию к Аи; Ишана: «Я рассказал кратко, удачливые опишут подробно»; пада Камода: сын Падмавати ушёл из дома, сопровождая санньяси, через двадцать лет обрёл Гору, отбросил посох и сосуд и по Его повелению пришёл из Кшетры в Гауду."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@vasudha", "@jahnava", "@shachi", "@padmavati"]
+  places: ["#shantipura", "#saptagrama", "#kharadaha", "#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [family]
+  event: ev-nityananda-settles-khardaha
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "4012", to: "4021"}
+
+- id: brt-7142
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 4022–4031"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.7592
+  title: "Ишана завершает рассказ: Адвайта и спутники воспевают Гауру"
+  summary: "Ишана говорит: Адвайта со спутниками то в Шантипуре, то в Надии упоён воспеванием Гауры (пада Камода: после ухода родителей странствовал по тиртхам, вернувшись, привёл Гору, ходил к Нему в Нилачалу); Шривас, Мурари и другие воспевают Его деяния; «Всего, что я видел, не рассказать — сердце разрывается», — и, договорив, Ишана теряет самообладание от премы."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@advaita", "@srivasa", "@murari-gupta"]
+  places: ["#navadvipa", "#shantipura"]
+  kind: post-advent
+  authority: B
+  themes: [separation, pilgrimage]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "4022", to: "4031"}
+
+- id: brt-7143
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 4032–4076"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.76
+  title: "Ночь во дворе Господа: Шриниваса во сне созерцает вечную Навадвипу"
+  summary: "Ишана с тремя гостями ложится во дворе Господа; Шриниваса не спит и дивится: «Отчего дом Господа из травы, отчего спутники, ушедшие в дальние края, не видели игр Надии?»; во сне он видит золотую Надию с гхатами из самоцветов, чертоги Гауры и на троне Гауру с Лакшми и Вишнуприей; затем — собрание всех спутников (Нитьянанда, Адвайта, Гададхара, Шривас, Мурари, Харидас, Сварупа, Рамананда, Пратапарудра, Мадхавендра Пури, Санатана, Рупа, Джива, Рагхунатха Дас и бесчисленные другие), но, когда хочет поклониться, сон прерывается; далее — Вишвамбхару, которому поклоняются Брахма, Шива и Индра, игры Вайкунтхи, Айодхьи, Двараки, Матхуры и Враджа, где среди гопи видит себя, раса-мандалу и игры в никундже; на рассвете он приходит в себя и размышляет о милости Господа."
+  persons: ["@srinivasa-acharya", "@ishana-navadvipa", "@narottama-dasa", "@ramachandra-kaviraja", "@mahaprabhu", "@lakshmipriya", "@vishnupriya", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@murari-gupta", "@haridasa-thakura", "@svarupa-damodara", "@ramananda-raya", "@prataparudra", "@madhavendra-puri", "@sanatana-gosvami", "@rupa-gosvami", "@jiva-gosvami", "@raghunatha-dasa", "@brahma", "@shiva", "@indra"]
+  places: ["#navadvipa", "#house-jagannatha-mishra", "#vaikuntha", "#ayodhya", "#dvaraka", "#mathura", "#vrindavana"]
+  kind: vision
+  authority: B
+  notes: "Перечень спутников (4052–4061) длиннее — см. текст; в записи названы главные."
+  themes: [revelation, celestial]
+  bhava: [aishvarya]
+  teaching: [gaura-tattva, associates-tattva]
+  event: ev-srinivasa-dream-nitya-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "4032", to: "4076"}
+
+- id: brt-7144
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 4077–4079"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.761
+  title: "Плод слушания, подпись автора и колофон двенадцатой таранги"
+  summary: "Кто с верой слушает эти повествования, тому Гаурахари исполняет желание; к обходу Навадвипы влечётся тот, к кому милостив Господь; подпись Нарахари Даса; колофон двенадцатой волны."
+  persons: ["@narahari-chakravarti", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "4077", to: "4079"}
