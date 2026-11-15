@@ -766,3 +766,12 @@
 | @jahnu-muni | Джахну Муни | Jahnu Muni | мудрец; в Джахнудвипе видит Кришну и золотого санньяси-Гауру (БР 12.522–545) |
 | @lakshmana | Лакшмана | Lakshmana | брат Рамы, сын Сумитры (БР 12.562, 590) |
 | @bharadvaja-muni | Бхарадваджа Муни | the sage Bharadvaja | мудрец; на Бхарадваджа-тиле близ Чакды получил даршан Гауры (БР 12.796–807) |
+| @nrisimha-chaitanya | Нрисимха Чайтанья | Nrisimha Chaitanya | спутник Джахнавы; с Парамешвари Дасом и Канаи Тхакуром везёт Божество Радхи во Вриндаван, танцует в киртане в Кантака-нагаре (БР 13.84, 92, 112) |
+| @yadunandana-acharya-jhamatpur | Ядунандана Ачарья (Джхаматпур) | Yadunandana Acharya (of Jhamatpur) | брахман из Джхаматпура близ Раджбалхата, тесть и ученик Вирачандры; жена — Лакшми; дочери — @srimati-virachandra и @narayani-virachandra (БР 13.249–254); не путать с @yadunandana-acharya, @yadunandana-chakravarti |
+| @bhavananda-gopinatha | Бхавананда (служитель Гопинатхи) | Bhavananda (servant of Gopinatha) | соученик Мадху Пандита, служитель Гопинатхи во Вриндаване (БР 13.320–321); не путать с @bhavananda-raya |
+| @vasanta-raya | Васанта Рай | Vasanta Raya | ученик Шринивасы, приносит ему письмо Дживы из Враджа (БР 14.16); не путать с @vasanta-dasa |
+| @vasudeva-kaviraja | Васудева Кавираджа | Vasudeva Kaviraja | ученик Шринивасы; о нём спрашивает Джива в письме (БР 14.18, 21) |
+| @shyamadasa-vyasa | Шьямадас Ачарья (сын Вьясы) | Shyamadasa Acharya (son of Vyasa) | сын @vyasa-acharya, учёный; везёт Шринивасе книги Дживы (БР 14.22–23; «Према-виласа», Полувиласа); не путать с @shyamadasa-acharya, @shyamadasa-chakravarti |
+| @govinda-chakravarti-boraquli | Говинда Чакраварти («Бхавука») | Govinda Chakravarti ("Bhavuka") | любимый ученик Шринивасы, певец и музыкант; переселился из Махалы в Боракули; прозван «Бхавука Чакраварти» (БР 14.90–93, 145; «Карнананда» 1 — «Бхавака») |
+| @radha-vinoda-boraquli | Радха-винода — Божество в Боракули | Radha-vinoda, the Deity of Boraquli | Божество Говинды Чакраварти, установленное Шринивасой; имя назвал голос из храма (БР 14.107–115); не путать с @radha-vinoda-deity |
+| @kishoradasa-shyamananda | Кишорадас (Кишора) | Kishoradasa (Kishora) | ученик Шьямананды, певец его киртана (БР 15.41, 60, 72; «Расика-мангала» — «Кишора-адхьяпака») |

@@ -1,0 +1,542 @@
+# «Бхакти-ратнакара» Нарахари Чакраварти (Гханашьямы Даса) — тараги 13, 14 и 15.
+# Записи в порядке изложения; id brt-8001…brt-8999. Формат — lila-db/README.md.
+
+# ---------- Таранга 13 ----------
+
+- id: brt-8001
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 1–6"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.85
+  title: "Мангала тринадцатой таранги"
+  summary: "Слава Шри Кришна Чайтанье, Нитьянанде, Адвайте, Шривасу, Гададхаре и другим спутникам Господа; мольба о милости и призыв к слушателям."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "1", to: "6"}
+
+- id: brt-8002
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 7–15"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.851
+  title: "Прощание с Ишаной Тхакуром и Навадвипой"
+  summary: "Завершив обход Навадвипы, Шриниваса, Нароттама и Рамачандра кланяются Ишане Тхакуру; тот, обняв их, не может вымолвить ни слова и знаком даёт понять, что это последняя встреча; простившись с оставшимися спутниками Господа и снова и снова кланяясь Навадвипа-дхаме, они с плачем уходят, заходя по пути в дома преданных."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@ishana-navadvipa"]
+  places: ["#navadvipa"]
+  kind: post-advent
+  authority: B
+  themes: [separation, pilgrimage]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "7", to: "15"}
+
+- id: brt-8003
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 16–26"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.852
+  title: "В Шрикханде: рассказ Рагхунандане о Надии и весть о сокрытии Ишаны"
+  summary: "В Шрикханде путники получают даршан Гауранги; Шриниваса с плачем рассказывает Рагхунандане, что многие преданные Надии сокрылись, оставшиеся почти все хранят молчание, в доме Господа остался один Ишана — а по дороге он услышал, что сокрылся и Ишана; оба рыдают; утешив Шринивасу, Рагхунандана отпускает их в Яджиграм."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@raghunandana", "@ishana-navadvipa", "@gaura-deity-shrikhanda"]
+  places: ["#shrikhanda", "#navadvipa"]
+  kind: post-advent
+  authority: B
+  notes: "Сокрытие Ишаны известно здесь лишь по слухам («услышал из уст людей»)."
+  themes: [departure, separation]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "16", to: "26"}
+
+- id: brt-8004
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 27–52"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.86
+  title: "Вира Хамбир приходит в Яджиграм и узнаёт Нароттаму по сиянию"
+  summary: "Гокулананда и жители Яджиграма встречают Шринивасу; в уединённом месте он говорит Нароттаме, что сегодня придёт Вира Хамбир, — и тут же является посланец царя; царь, поклонившись Яджиграму издали и оставив войско у селения, посылает припасы в дом Ачарьи, падает к его стопам, по сиянию узнаёт в Нароттаме Тхакура Махашаю и кланяется ему; Рамачандра называет ему спутников Ачарьи; все обнимают царя, жители славят его преданность."
+  persons: ["@vira-hambira", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@gokulananda"]
+  places: ["#yajigrama", "#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  notes: "Шриниваса заранее знает о приходе царя (13.33)."
+  themes: [mercy]
+  event: ev-vira-hambira-yajigrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "27", to: "52"}
+
+- id: brt-8005
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 53–61"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.861
+  title: "Шриниваса вверяет Виру Хамбира Рамачандре Кавирадже; царь обходит святые места"
+  summary: "Ачарья вверяет царя Рамачандре, и царь обо всём, что рождается в его уме, спрашивает Рамачандру — их беседы (ишта-гоштхи), по словам автора, подробно описаны в другой книге; царь не хочет возвращаться в Вишнупур; Шриниваса и Нароттама утешают его и посылают с провожатыми обойти почитаемые места."
+  persons: ["@vira-hambira", "@ramachandra-kaviraja", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Карнананда» 4 (krn-0022, krn-0023: Шриниваса вручает царя Рамачандре как младшего брата; наставления Рамачандры)"
+  notes: "«Другая книга» с беседами царя и Рамачандры не названа; возможно, имеется в виду «Карнананда» (4)."
+  themes: [teaching, mercy]
+  event: ev-ramachandra-instructs-vira-hambira
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "53", to: "61"}
+
+- id: brt-8006
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 62–81"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.862
+  title: "Весть из Кхардахи: Джахнава отправляет Божество Радхики к Гопинатхе во Вриндаван"
+  summary: "Шриниваса обещает царю приехать в Вишнупур после Кхетури и говорит, что ждёт вести от Джахнавы; тут же приходит посланец: Джахнава велела изготовить Божество Радхики и, придя в волнение от Её красоты, отправила Её на лодке с Парамешвари Дасом и другими во Вриндаван, дав семьсот монет, одежды и украшения и сказав Гопинатхе: «Скорее привлеки к Себе Свою возлюбленную»; лодка сегодня придёт в Кантака-нагар; Ачарья возлагает письмо на голову и собирается туда, а Вира Хамбир тайно передаёт Рамачандре тысячу монет."
+  persons: ["@srinivasa-acharya", "@vira-hambira", "@jahnava", "@parameshvara-dasa", "@gopinatha-vrindavana", "@radha", "@ramachandra-kaviraja"]
+  places: ["#yajigrama", "#kharadaha", "#katwa", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 4 (anv-0024); «Према-виласа» 16, 19 (pvl-0109, pvl-0168); «Нароттама-виласа» 9 (nvl-0054: Гопинатха во сне просит прислать Радху)"
+  divergence: "В «Анурага-валли» Джахнава сама везёт Радху во Вриндаван; здесь Божество отправлено с Парамешвари Дасом, а Джахнава едет позже (13.96, 268). В «Према-виласе» Радху просит и получает Мадана-мохан (по варианту изданий — Гопинатха)."
+  themes: [deities]
+  event: ev-jahnava-radha-for-madana-mohana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "62", to: "81"}
+
+- id: brt-8007
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 82–107"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.863
+  title: "У гхата Кешавы Бхарати в Кантака-нагаре: встреча с лодкой и даршан Божества Радхики"
+  summary: "У гхата Кешавы Бхарати Шриниваса встречает лодку с Парамешвари Дасом, Нрисимхой Чайтаньей, Тхакуром Канаи и другими; при вести о Навадвипе все плачут; спутники Джахнавы обнимают Виру Хамбира и славят его смирение; Парамешвари Дас ведёт Ачарью на лодку, говорит, что Джахнава снова пойдёт во Вриндаван, снимает покрывало и показывает Божество Радхики, а также одежды и украшения для Гопинатхи, двух Его возлюбленных, Говинды и Мадана-мохана; Ачарья подносит одежды и тысячу монет; даршан получают Нароттама, Рамачандра и другие."
+  persons: ["@srinivasa-acharya", "@parameshvara-dasa", "@nrisimha-chaitanya", "@kanai-shrikhanda", "@vira-hambira", "@narottama-dasa", "@ramachandra-kaviraja", "@govinda-kaviraja", "@shridasa-chakravarti", "@gokulananda", "@radha", "@gopinatha-vrindavana", "@keshava-bharati"]
+  places: ["#katwa", "#ganga"]
+  kind: post-advent
+  authority: B
+  notes: "Двустишие 96 предвещает второе путешествие Джахнавы во Вриндаван (13.268–282)."
+  themes: [deities, separation]
+  event: ev-jahnava-radha-for-madana-mohana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "82", to: "107"}
+
+- id: brt-8008
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 108–122"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.864
+  title: "Санкиртана во дворе Гауранги в Кантака-нагаре; отплытие лодки"
+  summary: "Все идут на даршан Божества Гауранги, Ядунандана ведёт их во двор; в санкиртане Святого Имени танцует Нрисимха Чайтанья, Парамешвари Дас зовёт петь Нароттаму и Шринивасу, Канаи обнимает Рамачандру; все катаются в пыли там, где Господь принял санньясу; на рассвете Парамешвари Дас со спутниками отплывает, а Шриниваса возвращается в Яджиграм."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@parameshvara-dasa", "@nrisimha-chaitanya", "@kanai-shrikhanda", "@yadunandana-chakravarti", "@gauranga-katwa", "@shridasa-chakravarti", "@gokulananda", "@govinda-kaviraja"]
+  places: ["#katwa", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  themes: [kirtan, ecstasy, deities]
+  event: ev-jahnava-radha-for-madana-mohana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "108", to: "122"}
+
+- id: brt-8009
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 123–143"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.865
+  title: "Прощание Виры Хамбира: мольба о прощении к Нароттаме; царица и Драупади Ишвари"
+  summary: "Царь просит Ачарью скорее прийти в Вишнупур; пав к стопам Нароттамы, он кается: нет оскорбителя, подобного ему, — из-за его дурного дела Нароттама страдал; Нароттама отвечает, что через то дело пришла победа повсюду, и велит стремиться к бхакти; царь кланяется Рамачандре, Говинде, Шридасу, Гокулананде и всем ученикам; царица наряжает жену Ачарьи Драупади Ишвари в привезённые одежды и украшения и, возложив её стопы себе на голову, уезжает; царь возвращается в Вана-Вишнупур."
+  persons: ["@vira-hambira", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@govinda-kaviraja", "@shridasa-chakravarti", "@gokulananda", "@vira-hambira-queen", "@draupadi-ishvari"]
+  places: ["#yajigrama", "#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  notes: "«Дурное дело» — похищение книг Госвами людьми царя (БР 7). Царица не названа по имени."
+  themes: [offense, mercy]
+  teaching: [vaishnava]
+  event: ev-vira-hambira-yajigrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "123", to: "143"}
+
+- id: brt-8010
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 144–150"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.87
+  title: "Рагхунандана отпускает Шринивасу в Кхетури: «скорее возвращайся»"
+  summary: "Шриниваса с Нароттамой и Рамачандрой приходит в Шрикханду просить позволения идти в Кхетури; Рагхунандана велит, пробыв там несколько дней, скорее вернуться; в Яджиграме Шриниваса говорит Нароттаме: Тхакур никогда не давал такого веления — не знаю, когда он погрузит всё во тьму, — и плачет."
+  persons: ["@srinivasa-acharya", "@raghunandana", "@narottama-dasa", "@ramachandra-kaviraja"]
+  places: ["#shrikhanda", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  notes: "Шриниваса предчувствует уход Рагхунанданы."
+  themes: [separation, departure]
+  event: ev-raghunandana-disappearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "144", to: "150"}
+
+- id: brt-8011
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 151–171"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.88
+  title: "Канчанагария, Будхари, Кхетури; брахман-спорщик принимает прибежище и вверен Нароттаме"
+  summary: "Два дня санкиртаны в Канчанагарии, два дня в Будхари, переправа через Падмавати; жители Кхетури встречают Шринивасу, все получают даршан Господа; Шриниваса и Нароттама день и ночь в санкиртане; великий пашанда, брахман из Бенгалии, спорщик и мирской человек, увидев их в санкиртане, со слезами катается у их стоп и принимает прибежище у Шринивасы, а тот вверяет его Нароттаме; сказав Нароттаме что-то наедине, Ачарья спешно возвращается в Яджиграм."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja"]
+  places: ["#kanchanagaria", "#teliya-budhari", "#padmavati", "#kheturi", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  notes: "Брахман не назван по имени."
+  themes: [kirtan, mercy]
+  event: ev-srinivasa-kheturi-pashanda-brahmana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "151", to: "171"}
+
+- id: brt-8012
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 172–184"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.89
+  title: "Последнее наставление Рагхунанданы Шринивасе и его сокрытие"
+  summary: "Рагхунандана наедине говорит Шринивасе: настаёт тяжкое время, в сердцах зародятся сомнения (шлока «Бхаджанамриты»), но Гаура совершит через него много дел — он долго будет жить на земле, со спутниками сохранит дхарму Господа и обратит отвернувшихся от Кришны; затем, вверив сына стопам Гауранги и Мадана-гопала, три дня проводит в упоении санкиртаной и, памятуя о стопах Нарахари, устремив взор на Гопалу и Гаурангу, с именем Шри Кришна Чайтаньи сокрывается в четвёртый день светлой половины шраваны."
+  persons: ["@raghunandana", "@srinivasa-acharya", "@kanai-shrikhanda", "@narahari-sarakara", "@gaura-deity-shrikhanda", "@mahaprabhu"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  scriptures: ["«Бхаджанамрита» (приписывается Нарахари Саркару)"]
+  calendar: "шравана, светлая половина, 4-й лунный день (сокрытие Рагхунанданы)"
+  notes: "Только у БР (в базе). Мадана-гопал — домашнее Божество Шрикханды рядом с Гаурангой (13.180–182)."
+  themes: [departure, kirtan]
+  teaching: [associates-tattva]
+  event: ev-raghunandana-disappearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "172", to: "184"}
+
+- id: brt-8013
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 185–197"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 95.891
+  title: "Празднество ухода Рагхунанданы; Мадана и Вамши, сыновья Канаи"
+  summary: "Тхакур Канаи устраивает великое празднество, на которое сходятся все маханты; Шриниваса распоряжается всем до его окончания; в санкиртане чудесно танцует Мадана, сын Канаи; отступление: у Канаи в юности родились Мадана и Вамши, Мадана ещё в пауганде явил бхакти и предался Нарахари; маханты расходятся, Шриниваса, плача при прощальных словах Канаи, возвращается в Яджиграм."
+  persons: ["@kanai-shrikhanda", "@srinivasa-acharya", "@madana-raya-shrikhanda", "@vamshi-raya-shrikhanda", "@narahari-sarakara", "@raghunandana"]
+  places: ["#shrikhanda", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  themes: [festival, kirtan, departure]
+  event: ev-raghunandana-disappearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "185", to: "197"}
+
+- id: brt-8014
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 198–221"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.2
+  title: "Вторая женитьба Шринивасы по повелению Гауры во сне: Гауранга-прия, дочь Рагхавы Чакраварти из Гопалпура"
+  summary: "Шриниваса едет в Вишнупур, где у него обитель; во сне Гаурачандра велит ему вступить в брак; в Гопалпуре в Рархе брахман Рагхунатха (Рагхава Чакраварти) и его жена Мадхави тревожатся о сватовстве дочери Гауранга-прии; жене во сне брахман из Шантипура говорит, что муж дочери — Шриниваса Ачарья, а мужу снится, что он отдал её Шринивасе; Ачарья, выслушав, молчит и ради удовлетворения всех соглашается; царь тратит на свадьбу много богатства; две жены Ачарьи в Яджиграме живут в естественной любви и служат ему."
+  persons: ["@srinivasa-acharya", "@mahaprabhu", "@raghava-chakravarti-gopalpur", "@gauranga-priya", "@draupadi-ishvari", "@vira-hambira"]
+  places: ["#vana-vishnupura", "#radha-desha", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 17 (pvl-0121, pvl-0122: Падмавати, дочь Рагху Чакраварти из Гопалпура; имя Гауранга-прия даёт Вирачандра); «Анурага-валли» 6 (anv-0048); «Карнананда» 1 (krn-0003, krn-0007)"
+  divergence: "В «Према-виласе» невесту зовут Падмавати, она сама просит отца отдать её Тхакуру, а имя Гауранга-прия ей позже даёт Вирачандра; здесь её имя изначально Гауранга-прия, брак устроен вещими снами родителей и повелением Гауры. В «Анурага-валли» маханты женят Шринивасу вторично после смерти сыновей. В «Карнананде» тесть — Рагхунандана Чакраварти."
+  notes: "Брахман из Шантипура в сне матери — по-видимому, Адвайта (сноска перевода)."
+  themes: [family, celestial]
+  event: ev-srinivasa-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "198", to: "221"}
+
+- id: brt-8015
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 222–242"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.21
+  title: "Парамешвари Дас рассказывает: Радха Джахнавы поставлена слева от Гопинатхи"
+  summary: "Ачарья, раздающий ученикам книги о бхакти, предчувствует приход Парамешвари Даса — и тот является: по повелению Гопинатхи служитель поставил привезённую Радху слева, а прежняя Тхакурани с радостью встала справа; враджаваси, видя Гопинатху меж двух возлюбленных, славят Джахнаву и молят Гопинатху, чтобы увидеть её саму; Шриниваса провожает гостей в Кантака-нагар, и они на лодке возвращаются в Кхардаху к Васудхе и Джахнаве."
+  persons: ["@parameshvara-dasa", "@srinivasa-acharya", "@gopinatha-vrindavana", "@radha", "@jahnava", "@vasudha"]
+  places: ["#yajigrama", "#vrindavana", "#katwa", "#kharadaha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 4 (anv-0024: новая Радха — слева, прежняя — справа); «Нароттама-виласа» 10 (nvl-0058: вестники из Вриндавана)"
+  divergence: "В «Према-виласе» Госвами ставят Радху слева от Мадана-мохана (вариант изданий — Гопинатхи)."
+  themes: [deities]
+  event: ev-jahnava-radha-for-madana-mohana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "222", to: "242"}
+
+- id: brt-8016
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 243–247"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.22
+  title: "Джахнава посылает Парамешвари Даса в Тада-Атпур явить служение Радха-Гопинатхе"
+  summary: "Услышав о Вриндаване, Джахнава погружается в прему и велит Парамешвари Дасу скорее идти в селение Тада-Атпур и явить там служение Радха-Гопинатхе; он исполняет это, Джахнава приходит туда, и счастливцы видят великий праздник."
+  persons: ["@jahnava", "@parameshvara-dasa"]
+  places: ["#kharadaha", "#antpur"]
+  kind: post-advent
+  authority: B
+  notes: "Тада-Атпур — ныне Антпур (Хугли), где почитается Радха-Гопинатха Парамешвари Даса (сноска перевода)."
+  themes: [deities, festival]
+  event: ev-parameshvari-atpur-gopinatha
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "243", to: "247"}
+
+- id: brt-8017
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 248–260"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.3
+  title: "Женитьба Вирачандры на Шримати и Нараяни, дочерях Ядунанданы Ачарьи из Джхаматпура"
+  summary: "Странствуя по селениям, Джахнава приходит в Джхаматпур близ Раджбалхата, в дом слуги, где живёт брахман Ядунандана Ачарья, ставший по её милости преданным; по её желанию он отдаёт обеих дочерей, Шримати и Нараяни, Вирачандре; Вирачандра делает Ядунандану учеником, Джахнава принимает в ученицы обеих невест; Вирачандра, неотличный от Чайтаньи (по ГГД — Пайодхишайи, вьюха Санкаршаны), возвращается в Кхардаху, Васудха радуется невесткам."
+  persons: ["@virabhadra", "@jahnava", "@yadunandana-acharya-jhamatpur", "@srimati-virachandra", "@narayani-virachandra", "@vasudha", "@mahaprabhu"]
+  places: ["#jhamatpur", "#kharadaha"]
+  kind: post-advent
+  authority: B
+  scriptures: ["ГГД (Вирачандра — Пайодхишайи)"]
+  parallels: "«Према-виласа», указатель к виласе 24 (Шримати и Нараяни, дочери Ядунанданы из Джхаматпура); «Нитьянанда-вамша-вистара» 3–4"
+  divergence: "По «Нитьянанда-вамша-вистаре», Нараяни — дочь Океана, воспитанная Судхамаей, а вторая жена — Вишнуприя; здесь обе жены — дочери Ядунанданы. Здесь свадьба помещена после установления Радхи у Гопинатхи, при жизни Шринивасы в Яджиграме."
+  notes: "Джхаматпур близ Раджбалхата (Хугли), по-видимому, не тот, что родина Кришнадаса Кавираджи (сноска перевода); тег места — общий."
+  themes: [family, mercy]
+  teaching: [associates-tattva]
+  event: ev-virachandra-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "248", to: "260"}
+
+- id: brt-8018
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 261–265"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.31
+  title: "Гангадеви и Мадхава Ачарья: упоминание её свадьбы"
+  summary: "Гангадеви радуется свадьбе брата; автор вспоминает великое веселье на её собственной благословенной свадьбе: Гангадеви — Ганга, рождённая из стоп Вишну, её супруг Мадхава Ачарья — царь Шантану (ГГД), силой бхакти ставший её мужем («Вайшнава-вандана»)."
+  persons: ["@ganga-nityananda", "@madhava-acharya-ganga", "@virabhadra"]
+  places: ["#kharadaha"]
+  kind: post-advent
+  authority: B
+  scriptures: ["ГГД (Ганга — дочь Нитьянанды; Мадхава — Шантану)", "«Вайшнава-вандана» Девакинанданы"]
+  notes: "Упоминание."
+  themes: [family]
+  teaching: [associates-tattva]
+  event: ev-ganga-marries-madhava
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "261", to: "265"}
+
+- id: brt-8019
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 266–282"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.32
+  title: "Второе путешествие Джахнавы во Вриндаван: Гопинатха меж двух Радх; угощение трём Божествам"
+  summary: "Женив сына, Джахнава со спутниками снова идёт во Вриндаван и видит Гопинатху посередине и Радху справа и слева (шлоки Вишванатхи Чакраварти: «тамала меж лианами премы, туча меж молний… Гопинатха меж двух Радх»; Гопинатха подвластен преме Джахнавы); она подносит дары из Гауды, сама готовит рис и яства и кормит Гопинатху с Радхикой, молится Им, затем видит Говинду и Мадана-мохана с Радхикой — жизнь гаудиев (ЧЧ); о её жизни во Вриндаване и о втором походе во Врадж автор отсылает к «Анурага-валли» и другим книгам."
+  persons: ["@jahnava", "@gopinatha-vrindavana", "@radha", "@govinda-deity", "@madana-mohana-vrindavana", "@vishvanatha-chakravarti"]
+  places: ["#kharadaha", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  scriptures: ["«Ставамрита-лахари» Вишванатхи Чакраварти", "ЧЧ Антья 20"]
+  parallels: "«Анурага-валли» 4 (anv-0024: Джахнава привозит новую Радху и сама готовит бхогу); «Према-виласа» 19 (pvl-0148: второе возвращение Джахнавы из Вриндавана)"
+  divergence: "В «Анурага-валли» Джахнава привозит Радху сама; здесь Радха уже поставлена Парамешвари Дасом, и Джахнава приходит после."
+  themes: [deities, pilgrimage, prasada]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "266", to: "282"}
+
+- id: brt-8020
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 283–292"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.4
+  title: "Вирачандра идёт во Вриндаван: Саптаграм, Шантипур (Кришна Мишра), Амбика, Навадвипа, Шрикханда"
+  summary: "С дозволения матери Вирачандра в благоприятный час выходит из Кхардахи; два дня киртана в доме праведного торговца в Саптаграме, раздача бхакти падшим; в Шантипуре — санкиртана с Кришной Мишрой, сыном Адвайты, и тайная беседа с ним; Амбика; два дня премы в Навадвипе; в Шрикханде его встречает Тхакур Канаи, сын Рагхунанданы."
+  persons: ["@virabhadra", "@jahnava", "@krishna-mishra", "@kanai-shrikhanda"]
+  places: ["#kharadaha", "#saptagrama", "#shantipura", "#ambika-kalna", "#navadvipa", "#shrikhanda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0170: тот же путь через Амбику, Шантипур, Навадвипу, Кханду, Яджиграм, Катоа, Будхари и Кхетури); «Нитьянанда-вамша-вистара» 7–10"
+  divergence: "Саптаграм в «Према-виласе» не назван; там же до похода во Вриндаван Вирачандра ходит в Нилачалу и Гопиваллабхапур, о чём здесь не сказано."
+  themes: [pilgrimage, kirtan]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "283", to: "292"}
+
+- id: brt-8021
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 293–301"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.41
+  title: "Вирачандра у Шринивасы в Яджиграме, в Кантака-нагаре и у Нароттамы в Кхетури"
+  summary: "Сказав что-то наедине Канаи, Вирачандра приходит в Яджиграм; Шриниваса со спутниками встречает его, они упиваются беседами о Кришне; вместе идут в Кантака-нагар, где он день и ночь в преме; простившись со Шринивасой, он через Будхари приходит в Кхетури, Нароттама встречает его, он танцует в санкиртане во дворе Гауранги и, сказав Нароттаме что-то наедине, уходит во Врадж."
+  persons: ["@virabhadra", "@kanai-shrikhanda", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#shrikhanda", "#yajigrama", "#katwa", "#teliya-budhari", "#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0170); «Нароттама-виласа» 11 (nvl-0062, nvl-0063: Вирачандра у Шринивасы в Яджиграме и с ним — через Кантака-нагар и Будхари в Кхетури)"
+  divergence: "В «Нароттама-виласе» Шриниваса идёт с Вирачандрой до Кхетури, а Вирачандра оттуда возвращается в Кхардаху через Экачакру; здесь Шриниваса прощается в Кантака-нагаре, а Вирачандра идёт из Кхетури во Врадж."
+  themes: [pilgrimage, kirtan]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "293", to: "301"}
+
+- id: brt-8022
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 302–309"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.42
+  title: "По пути: милость бедному брахману и сокрушение гордого учёного; Вирачандра в Матхуре"
+  summary: "По пути Вирачандра делает бедного брахмана богатым драгоценностью бхакти, а брахмана, гордого учёностью, смиряет и делает преданным; в Матхуре люди сбегаются смотреть на его необычайную красоту и говорят: «Смотрите — сын Нитьянанды-Баладевы, он словно и не человек»."
+  persons: ["@virabhadra", "@nityananda"]
+  places: ["#mathura"]
+  kind: post-advent
+  authority: B
+  themes: [mercy, pilgrimage]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "302", to: "309"}
+
+- id: brt-8023
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 310–328"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.43
+  title: "Вайшнавы Вриндавана встречают Вирачандру; даршан Божеств"
+  summary: "Навстречу Вирачандре выходят Джива Госвами, Кришнадас Кавираджа, адхикари Говинды Ананта Ачарья и его ученик Харидас Пандит, служитель Мадана-гопала Кришнадас Брахмачари, Гопала Дас, адхикари Гопинатхи Мадху Пандит и Бхавананда (ученики Гададхары Пандита), Кашишвара, любящий Кришну Пандита, и его ученики Говинда Госани и Ядава Ачарья; враджаваси воспевают его према-бхакти; он видит Говинду, Гопинатху, Мадана-мохана, Радха-виноду, Радха-раману и Радха-дамодару."
+  persons: ["@virabhadra", "@jiva-gosvami", "@krishnadasa-kaviraja", "@ananta-acharya", "@haridasa-pandita-govinda", "@krishnadasa-brahmachari", "@madhu-pandita", "@bhavananda-gopinatha", "@kashishvara", "@krishna-pandita-govinda", "@govinda-gosani", "@yadavacharya-gosani", "@gadadhara-pandita", "@govinda-deity", "@gopinatha-vrindavana", "@madana-mohana-vrindavana", "@radha-vinoda-deity", "@radha-ramana-deity", "@radha-damodara-deity"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нитьянанда-вамша-вистара» 10 (встреча с Дживой); «Према-виласа» 19 (pvl-0170: Божества Вриндавана)"
+  divergence: "Здесь Кашишвара встречает Вирачандру, тогда как в БР 4.189–216 (brt-0096) Кашишвара сокрылся ещё до прихода Шринивасы во Врадж — расхождение внутри книги. Кришнадас Кавираджа здесь жив, вопреки рассказу «Према-виласы» о его кончине после похищения книг (ср. «Карнананда» 7)."
+  notes: "Чтение и смысл 318, 321 неясны (Гопала Дас — отдельное лицо или «и другие»; сноска перевода)."
+  themes: [deities, pilgrimage]
+  event: ev-virachandra-jiva-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "310", to: "328"}
+
+- id: brt-8024
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 313–316"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.431
+  title: "Говинда просит у Харидаса Пандита рис с молоком («Садхана-дипика»)"
+  summary: "Отступление о Харидасе Пандите: Говинда дал знать, что подвластен его любви, — попросил у него рис с молоком и съел; по «Садхана-дипике», Рупа по повелению Господа вверил служение Говинде Харидасу, гуру автора той книги."
+  persons: ["@haridasa-pandita-govinda", "@govinda-deity", "@rupa-gosvami", "@ananta-acharya"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: B
+  scriptures: ["«Садхана-дипика» Радха-Кришны Госвами"]
+  notes: "Отступление внутри рассказа о встрече Вирачандры."
+  themes: [deities, prasada]
+  event: ev-govinda-asks-haridasa-pandita
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "313", to: "316"}
+
+- id: brt-8025
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 329–342"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.44
+  title: "Вирачандра обходит леса Враджа; у Радха-кунды, где сидел Гаурачандра; Говардхана, хижина Кришнадаса Кавираджи"
+  summary: "С позволения Бхугарбхи и Дживы Вирачандра с Ядавой Ачарьей и другими обходит Мадхувану, Талавану, Кумудавану и Бахулавану; на пути к Радха-кунде его встречают Джива и другие; у кунды, под тамалой, где сидел Гаурачандра во время странствия по лесам, он так охвачен премой, что все изумлены; танцует в санкиртане у Радха-кунды, Шьяма-кунды и Говардханы, пять-шесть дней угощает враджаваси, отпускает Дживу и Бхугарбху во Вриндаван, идёт к хижине Кришнадаса Кавираджи; дальше с ним идут Васудева, Уддхава, Ядава и другие."
+  persons: ["@virabhadra", "@bhugarbha", "@jiva-gosvami", "@yadavacharya-gosani", "@krishnadasa-kaviraja", "@mahaprabhu"]
+  places: ["#madhuvana", "#bahulavana", "#radha-kunda", "#govardhana", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  notes: "Бхугарбха здесь жив; о его уходе сообщает письмо Дживы (14.18). Подлежащее в 341 не названо (сноска перевода)."
+  themes: [pilgrimage, ecstasy, kirtan]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "329", to: "342"}
+
+- id: brt-8026
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 343–385"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.45
+  title: "Обход мест лил Кришны: Камьявана, Вришабханупура, Нандаграм, Бхандира, Гокула, Равал, Матхура"
+  summary: "Васудева рассказывает Вирачандре о местах игр: в Вришабханупуре на праздник рождения Радхи Кришна и Радха тайно видят друг друга, в Нандаграме на празднике рождения Кришны Лалита и Кундалата устраивают их встречу (песни автора); омовение в Вимала-кунде, Павана-сароваре; Кхадиравана, Джават, Рама-гхат, где Баларама танцевал расу; у Бхандиры, где сам баньян уже скрылся от взоров, Вирачандре в видении являются Рама и Кришна, играющие с пастушками; Нанда-гхат, Чир-гхат, Бхадравана, Лохавана, место рождения Кришны в Гокуле-Махаване, место рождения Радхи в Равале; Вишранти-гхат в Матхуре, Гокарна, место Акруры и храм Говинды во Вриндаване."
+  persons: ["@virabhadra", "@krishna", "@radha", "@balarama", "@nanda", "@yashoda", "@lalita", "@upananda"]
+  places: ["#kamyavana", "#varshana", "#nandagrama", "#pavana-sarovara", "#javat", "#rama-ghata", "#bhandiravana", "#chira-ghata", "#bhadravana", "#gokula", "#raval", "#vishrama-ghata", "#akrura-tirtha", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  notes: "Обобщающая запись: пересказы Кришна-лилы при обходе (песни Нарахари с подписью Гханашьямы) не дробятся. Видение у Бхандиры — 13.379–381."
+  themes: [pilgrimage, krishna-lila, revelation]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "343", to: "385"}
+
+- id: brt-8027
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 386–424"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.46
+  title: "Вирачандра во Вриндаване на Джанмаштами (абхишека Говинды) и Радхаштами (абхишека Радхики)"
+  summary: "В тёмную аштами бхадры Вирачандра видит блистательную абхишеку рождения Говинды (песни о красоте Говинды на троне, Индра осыпает цветами); радость его растёт при даршане Мадана-мохана и Гопинатхи; в светлую аштами того же месяца он созерцает абхишеку рождения Радхики и не может сдержать сердце (песни о красоте Радхи)."
+  persons: ["@virabhadra", "@govinda-deity", "@radha", "@madana-mohana-vrindavana", "@gopinatha-vrindavana", "@indra"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  calendar: "бхадра, тёмная половина, 8-й день (Джанмаштами); бхадра, светлая половина, 8-й день (Радхаштами)"
+  notes: "Песни Нарахари (Гханашьямы) о абхишеке."
+  themes: [festival, deities]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "386", to: "424"}
+
+- id: brt-8028
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 425–431"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.47
+  title: "Вирачандра прощается с Вриндаваном и возвращается в Кхардаху"
+  summary: "Пробыв несколько дней во Вриндаване, Вирачандра со спутниками прощается со всеми (провожающие плачут) и через Матхуру идёт в Гауду, где, как прежде, странствует и рассказывает о Вриндаване, и, погружённый в санкиртану, приходит в Кхардаху и кланяется матери."
+  persons: ["@virabhadra", "@jahnava"]
+  places: ["#vrindavana", "#mathura", "#gauda", "#kharadaha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0170)"
+  divergence: "В «Према-виласе» на обратном пути Вирачандра посещает Экачакру, Кхетури и Яджиграм; здесь путь назад не описан."
+  themes: [pilgrimage, separation]
+  event: ev-virachandra-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "425", to: "431"}
+
+- id: brt-8029
+  source: bhakti-ratnakara
+  ref: "Таранга 13, 432–436 и колофон"
+  file: "bhakti-ratnakara/ru/13.md"
+  period: P15
+  order: 96.48
+  title: "Заключение, подпись автора и колофон тринадцатой таранги"
+  summary: "Путь Вирачандры рассказан кратко, деяния Ганги и Вирачандры автор не излагает подробно, чтобы не умножать книгу; плод слушания — освобождение от уз; призыв погружаться в «Бхакти-ратнакару»; подпись Нарахари Даса; колофон: «Описание женитьбы Шринивасы Ачарьи и прочего»."
+  persons: ["@virabhadra", "@ganga-nityananda", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/13.md", from: "432", to: "436"}
