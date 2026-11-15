@@ -143,7 +143,7 @@ B — вероятно, больше сотни).
 | @govinda-servant (044, Говинда — слуга Господа) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @mukunda-datta (045) | ✓ | ✓ (PDF) | — |
 | @gadadhara-dasa (046) | ✓ | ✓ (PDF) | — |
-| @raghava-pandita (047) | ✓ | ✓ (PDF) | — |
+| @raghava-pandita (047) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @damayanti (048) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @buddhimanta-khan (049) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @kashishvara (050, Кашишвара Пандит) | ✓ | ✓ (PDF) | — |
