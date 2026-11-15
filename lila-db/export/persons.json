@@ -4298,6 +4298,10 @@
     "type": "other"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "served-by"
+   },
+   {
     "from": "@raghunandana",
     "type": "companion"
    },
@@ -6750,6 +6754,24 @@
     "type": "other"
    }
   ]
+ },
+ {
+  "id": "@gaura-deity-katwa",
+  "ru": "Божество Гауранги в Катве (у Гададхары Даса)",
+  "en": "the Deity of Gauranga at Katwa (of Gadadhara Dasa)",
+  "note": "установил Гададхара Дас после ухода Шачи и Вишнуприи; храм «Махапрабху-бари» на месте санньясы (B 815, T 84, БР 8.453)",
+  "section": "Господь и Его формы",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@bala-gopala-gadadhara-dasa",
+  "ru": "Бала-Гопала — Божество Гададхары Даса",
+  "en": "Bala-Gopala, the Deity of Gadadhara Dasa",
+  "note": "в его храме (Ариядаха); Нитьянанда прижал Его к груди (ЧБ Антья 5.374–377)",
+  "section": "Господь и Его формы",
+  "lilas": [],
+  "events": []
  },
  {
   "id": "@shachi",
@@ -11015,6 +11037,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "served-by"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    },
@@ -12410,6 +12436,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    },
@@ -13605,6 +13635,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "guest"
    },
    {
     "from": "@shachi",
@@ -17380,6 +17414,10 @@
     "type": "other"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "co-worker"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -20138,6 +20176,10 @@
     "type": "friend"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "co-worker"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "companion"
    },
@@ -22208,6 +22250,10 @@
     "type": "other"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "siksha-guru"
    },
@@ -23887,6 +23933,10 @@
     "type": "other"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "other"
+   },
+   {
     "from": "@shridhara",
     "type": "other"
    },
@@ -24439,6 +24489,10 @@
    {
     "from": "@nityananda",
     "type": "host"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "other"
    },
    {
     "from": "@shridhara",
@@ -25366,6 +25420,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "other"
+   },
+   {
     "from": "@shivananda-sena",
     "type": "other"
    },
@@ -25915,6 +25973,10 @@
    },
    {
     "from": "@paramananda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@raghava-pandita",
     "type": "other"
    },
    {
@@ -26531,6 +26593,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "co-worker"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -28101,6 +28167,179 @@
    "ev-month-stored-prasada",
    "ev-chaitanya-dasa-feast"
   ],
+  "summary": "в Кришна-лиле — Дхаништха, приносившая Кришне во Врадже безмерно… (ГГД 166); происхождение — Панихати; самадхи — Панихати",
+  "card": "parshadas/cards/raghava-pandita.yaml",
+  "article": {
+   "ru": "parshadas/ru/raghava-pandita.md",
+   "en": "parshadas/en/raghava-pandita.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#panihati",
+    "conf": "место рождения — Панихати по БР 8.156–158 (по T 80; не сверено); год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F8"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#panihati?",
+    "conf": "день и год ухода неизвестны; самадхи — в Панихати («Анубхашья» к ЧЧ Ади 10.24); в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет (есть лишь праздники Шрипата Панихати — чида-дадхи и прибытие Господа)",
+    "facts": [
+     "F10"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#panihati",
+     "facts": [
+      "F10"
+     ]
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Дхаништха, приносившая Кришне во Врадже безмерно много угощений",
+    "source": "ГГД 166",
+    "level": "A",
+    "variants": [
+     "«Анубхашья» к ЧЧ Ади 10.24 приводит стих как «ГГД 44» (⚠9)",
+     "T 78 — «гопи Дхаништха», носившая по велению Яшоды прасад Кришны Радхарани (по «бхога-арати» Бхактивиноды; ⚠Б8)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "sibling",
+    "who": "@damayanti",
+    "note": "Сестра; по его велению весь год готовила яства для Господа, которые он носил в Пури в джхали (ЧЧ Ади 10.25–27; Антья 10.13–40). = @damayanti F2–F4, F13, F21."
+   },
+   {
+    "type": "disciple",
+    "who": "@makaradhvaja-kara",
+    "note": "Его главная ветвь (ЧЧ Ади 10.24); мунсиб джхали (Антья 10.40); Господь: служи Рагхаве — служишь Мне (ЧБ Антья 5.107–108). «Посвящённый ученик» — так T 79 (⚠6); «Анубхашья» — последователь."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Изначальный последователь (ЧЧ Ади 10.24). Господь в его доме (ЧБ Антья 5.75–109): радость, как от Ганги; шак; тайна единства с Нитьянандой. В Пури Господь прославил его служение Кришне (ЧЧ Мадхья 15.68–92), ел яства из его джхали весь год (Антья 10); постоянно являлся в его доме (Антья 2.34–35, 80)."
+   },
+   {
+    "type": "served-by",
+    "who": "@nityananda",
+    "note": "Нитьянанда три месяца жил в его доме: абхишека, зонт (ЧБ Антья 5.273 «Рагхавананда» — ⚠1), кадамба на лимонном дереве, аромат даманаки (ЧБ Антья 5.251–332); праздник чида-дадхи и ужин двух братьев (ЧЧ Антья 6.71–123). = @nityananda F275–F282, F286, F455."
+   },
+   {
+    "type": "deity-served",
+    "who": "@madana-mohana-panihati",
+    "note": "Божество Рагхавы в Панихати («Анубхашья» к ЧЧ Ади 10.24; T 80); ЧЧ Антья 6.148 — показал Божество Рагхунатхе."
+   },
+   {
+    "type": "served-by",
+    "who": "@raghunatha-dasa",
+    "note": "Дал ему остатки трапезы двух братьев; через Рагхаву Рагхунатха молил Нитьянанду о спасении; по его совету раздал дакшину (ЧЧ Антья 6.122–154). = @raghunatha-dasa F96–F97."
+   },
+   {
+    "type": "co-worker",
+    "who": "@govinda-servant",
+    "note": "Передавал ему джхали; Говинда хранил их и давал Господу весь год (ЧЧ Антья 10.55–56, 10.128). = @govinda-servant F25, F36."
+   },
+   {
+    "type": "other",
+    "who": "@vakreshvara",
+    "note": "Пара в водной битве в Индрадьюмне (ЧЧ Мадхья 14.81). = @vakreshvara F44."
+   },
+   {
+    "type": "co-worker",
+    "who": "@svarupa-damodara",
+    "note": "Подпевал в первой группе Сварупы на Ратха-ятре (ЧЧ Мадхья 13.36–37); Сварупа весь год подавал Господу яства из его джхали (Антья 10.131)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@damodara-pandita",
+    "note": "Вместе в первой группе (ЧЧ Мадхья 13.37). = @damodara-pandita F50."
+   },
+   {
+    "type": "co-worker",
+    "who": "@govinda-datta",
+    "note": "Вместе в первой группе (ЧЧ Мадхья 13.37)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@govindananda",
+    "note": "Вместе в первой группе (ЧЧ Мадхья 13.37)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "С Адвайтой гаудийцы шли в Нилачалу; Адвайта — танцор первой группы (ЧЧ Мадхья 13.38)."
+   },
+   {
+    "type": "guest",
+    "who": "@gadadhara-dasa",
+    "note": "Пришёл в дом Рагхавы к Господу (ЧБ Антья 5.92–94; T 84; M 25; B 815)."
+   },
+   {
+    "type": "guest",
+    "who": "@purandara-pandita",
+    "note": "Пришёл в дом Рагхавы к Господу (ЧБ Антья 5.95)."
+   },
+   {
+    "type": "guest",
+    "who": "@parameshvara-dasa",
+    "note": "Парамешвари Дас — пришёл в дом Рагхавы к Господу (ЧБ Антья 5.95)."
+   },
+   {
+    "type": "guest",
+    "who": "@raghunatha-vaidya-upadhyaya",
+    "note": "Пришёл в дом Рагхавы к Господу (ЧБ Антья 5.97)."
+   },
+   {
+    "type": "other",
+    "who": "@madhava-ghosha",
+    "note": "Пел с братьями, когда Нитьянанда танцевал в доме Рагхавы (ЧБ Антья 5.257–259)."
+   },
+   {
+    "type": "other",
+    "who": "@vasu-ghosha",
+    "note": "Пел с братьями в доме Рагхавы (ЧБ Антья 5.259). = @vasu-ghosha F32, F35."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-ghosha",
+    "note": "Пел с братьями в доме Рагхавы; в четвёртой группе Говинды Гхоша у ЧЧ Мадхья 13.42 — «Рагхава» (тот ли — ⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@nandana-acharya",
+    "note": "В ту же чатурмасью, когда Рагхава принёс джхали, тоже угощал Господа (T 50; B 763). = @nandana-acharya F39."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Господь представил ему Рагхаву (ЧЧ Антья 4.108–110)."
+   },
+   {
+    "type": "other",
+    "who": "@nrisimhananda",
+    "note": "По ЧЧН 9 Нрисимхананда «приводит» Господа в дом Рагхавы в Панихати; ЧЧ Антья 2.54 — в Панихати."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.24 (самадхи, Мадана-мохана, «седьмая ветвь») и к Мадхья 15.83 (не мирская чистоплотность — ⚠Б1)."
+   }
+  ],
   "related_by": [
    {
     "from": "@damayanti",
@@ -29413,6 +29652,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "other"
+   },
+   {
     "from": "@srinivasa-acharya",
     "type": "other"
    },
@@ -30094,6 +30337,10 @@
     "type": "other"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "served-by"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "companion"
    },
@@ -30406,6 +30653,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "guest"
    }
   ]
  },
@@ -39431,6 +39682,10 @@
     "type": "companion"
    },
    {
+    "from": "@raghava-pandita",
+    "type": "other"
+   },
+   {
     "from": "@vasu-ghosha",
     "type": "sibling"
    }
@@ -39650,6 +39905,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "guest"
    }
   ]
  },
@@ -40730,6 +40989,10 @@
    },
    {
     "from": "@pundarika-vidyanidhi",
+    "type": "other"
+   },
+   {
+    "from": "@raghava-pandita",
     "type": "other"
    },
    {
@@ -45062,6 +45325,12 @@
    "ev-ratha-yatra-gundicha",
    "ev-govindananda-mental-bridge",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@raghava-pandita",
+    "type": "co-worker"
+   }
   ]
  },
  {
@@ -45377,6 +45646,10 @@
    {
     "from": "@nityananda",
     "type": "other"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "disciple"
    }
   ]
  },
@@ -46987,6 +47260,12 @@
    "ev-gauda-devotees-set-out-puri",
    "ev-ratha-yatra-gundicha",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@raghava-pandita",
+    "type": "co-worker"
+   }
   ]
  },
  {
@@ -47469,6 +47748,10 @@
    {
     "from": "@govinda-servant",
     "type": "other"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "sibling"
    }
   ]
  },
@@ -47819,6 +48102,10 @@
    {
     "from": "@nityananda",
     "type": "companion"
+   },
+   {
+    "from": "@raghava-pandita",
+    "type": "guest"
    }
   ]
  },
@@ -53009,6 +53296,21 @@
    {
     "from": "@paramananda-puri",
     "type": "companion"
+   }
+  ]
+ },
+ {
+  "id": "@madana-mohana-panihati",
+  "ru": "Мадана-мохана — Божество Рагхавы Пандита (Панихати)",
+  "en": "Madana-mohana, the Deity of Raghava Pandita (Panihati)",
+  "note": "«Анубхашья» к ЧЧ Ади 10.24: к северу от самадхи Рагхавы в Панихати; не путать с @madana-mohana-vrindavana",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@raghava-pandita",
+    "type": "deity-served"
    }
   ]
  }

@@ -12201,6 +12201,308 @@
   "note": "B 689–690: та же подлинная вайрагья, хоть внешне в богатстве."
  },
  {
+  "from": "@raghava-pandita",
+  "type": "sibling",
+  "who": "@damayanti",
+  "facts": [
+   "F4",
+   "F47",
+   "F48",
+   "F49",
+   "F54"
+  ],
+  "events": [
+   "ev-raghavera-jhali"
+  ],
+  "note": "Сестра; по его велению весь год готовила яства для Господа, которые он носил в Пури в джхали (ЧЧ Ади 10.25–27; Антья 10.13–40). = @damayanti F2–F4, F13, F21."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "disciple",
+  "who": "@makaradhvaja-kara",
+  "facts": [
+   "F13",
+   "F14",
+   "F15"
+  ],
+  "note": "Его главная ветвь (ЧЧ Ади 10.24); мунсиб джхали (Антья 10.40); Господь: служи Рагхаве — служишь Мне (ЧБ Антья 5.107–108). «Посвящённый ученик» — так T 79 (⚠6); «Анубхашья» — последователь."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F12",
+   "F16",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F24",
+   "F35",
+   "F37",
+   "F40",
+   "F41",
+   "F42",
+   "F43",
+   "F44",
+   "F45",
+   "F47",
+   "F51",
+   "F52",
+   "F58",
+   "F62",
+   "F64",
+   "F66",
+   "I3"
+  ],
+  "events": [
+   "ev-gauda-journey-ganga-villages",
+   "ev-raghava-shak-panihati",
+   "ev-raghava-pandita-seva-glory",
+   "ev-raghavera-jhali",
+   "ev-month-stored-prasada",
+   "ev-avirbhava-four-places"
+  ],
+  "note": "Изначальный последователь (ЧЧ Ади 10.24). Господь в его доме (ЧБ Антья 5.75–109): радость, как от Ганги; шак; тайна единства с Нитьянандой. В Пури Господь прославил его служение Кришне (ЧЧ Мадхья 15.68–92), ел яства из его джхали весь год (Антья 10); постоянно являлся в его доме (Антья 2.34–35, 80)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "served-by",
+  "who": "@nityananda",
+  "facts": [
+   "F24",
+   "F26",
+   "F27",
+   "F28",
+   "F30",
+   "F31",
+   "F32",
+   "F33",
+   "F34",
+   "F55",
+   "F56",
+   "F57",
+   "F58",
+   "I4"
+  ],
+  "events": [
+   "ev-nityananda-panihati-abhisheka",
+   "ev-panihati-chida-dadhi"
+  ],
+  "note": "Нитьянанда три месяца жил в его доме: абхишека, зонт (ЧБ Антья 5.273 «Рагхавананда» — ⚠1), кадамба на лимонном дереве, аромат даманаки (ЧБ Антья 5.251–332); праздник чида-дадхи и ужин двух братьев (ЧЧ Антья 6.71–123). = @nityananda F275–F282, F286, F455."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "deity-served",
+  "who": "@madana-mohana-panihati",
+  "facts": [
+   "F10",
+   "F11"
+  ],
+  "note": "Божество Рагхавы в Панихати («Анубхашья» к ЧЧ Ади 10.24; T 80); ЧЧ Антья 6.148 — показал Божество Рагхунатхе."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "served-by",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F59",
+   "F60",
+   "F61"
+  ],
+  "events": [
+   "ev-panihati-chida-dadhi"
+  ],
+  "note": "Дал ему остатки трапезы двух братьев; через Рагхаву Рагхунатха молил Нитьянанду о спасении; по его совету раздал дакшину (ЧЧ Антья 6.122–154). = @raghunatha-dasa F96–F97."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "co-worker",
+  "who": "@govinda-servant",
+  "facts": [
+   "F52"
+  ],
+  "events": [
+   "ev-month-stored-prasada"
+  ],
+  "note": "Передавал ему джхали; Говинда хранил их и давал Господу весь год (ЧЧ Антья 10.55–56, 10.128). = @govinda-servant F25, F36."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@vakreshvara",
+  "facts": [
+   "F39"
+  ],
+  "events": [
+   "ev-indradyumna-jala-keli"
+  ],
+  "note": "Пара в водной битве в Индрадьюмне (ЧЧ Мадхья 14.81). = @vakreshvara F44."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "co-worker",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F37",
+   "F52"
+  ],
+  "events": [
+   "ev-ratha-yatra-gundicha"
+  ],
+  "note": "Подпевал в первой группе Сварупы на Ратха-ятре (ЧЧ Мадхья 13.36–37); Сварупа весь год подавал Господу яства из его джхали (Антья 10.131)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "co-worker",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F37"
+  ],
+  "note": "Вместе в первой группе (ЧЧ Мадхья 13.37). = @damodara-pandita F50."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "co-worker",
+  "who": "@govinda-datta",
+  "facts": [
+   "F37"
+  ],
+  "note": "Вместе в первой группе (ЧЧ Мадхья 13.37)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "co-worker",
+  "who": "@govindananda",
+  "facts": [
+   "F37"
+  ],
+  "note": "Вместе в первой группе (ЧЧ Мадхья 13.37)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F35",
+   "F37"
+  ],
+  "note": "С Адвайтой гаудийцы шли в Нилачалу; Адвайта — танцор первой группы (ЧЧ Мадхья 13.38)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "guest",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F23"
+  ],
+  "note": "Пришёл в дом Рагхавы к Господу (ЧБ Антья 5.92–94; T 84; M 25; B 815)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "guest",
+  "who": "@purandara-pandita",
+  "facts": [
+   "F23"
+  ],
+  "note": "Пришёл в дом Рагхавы к Господу (ЧБ Антья 5.95)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "guest",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F23"
+  ],
+  "note": "Парамешвари Дас — пришёл в дом Рагхавы к Господу (ЧБ Антья 5.95)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "guest",
+  "who": "@raghunatha-vaidya-upadhyaya",
+  "facts": [
+   "F23"
+  ],
+  "note": "Пришёл в дом Рагхавы к Господу (ЧБ Антья 5.97)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@madhava-ghosha",
+  "facts": [
+   "F27"
+  ],
+  "note": "Пел с братьями, когда Нитьянанда танцевал в доме Рагхавы (ЧБ Антья 5.257–259)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F27",
+   "F38"
+  ],
+  "note": "Пел с братьями в доме Рагхавы (ЧБ Антья 5.259). = @vasu-ghosha F32, F35."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@govinda-ghosha",
+  "facts": [
+   "F27",
+   "F38"
+  ],
+  "note": "Пел с братьями в доме Рагхавы; в четвёртой группе Говинды Гхоша у ЧЧ Мадхья 13.42 — «Рагхава» (тот ли — ⚠5)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@nandana-acharya",
+  "facts": [
+   "F53"
+  ],
+  "note": "В ту же чатурмасью, когда Рагхава принёс джхали, тоже угощал Господа (T 50; B 763). = @nandana-acharya F39."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F66"
+  ],
+  "events": [
+   "ev-sanatana-puri-sores"
+  ],
+  "note": "Господь представил ему Рагхаву (ЧЧ Антья 4.108–110)."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@nrisimhananda",
+  "facts": [
+   "F63"
+  ],
+  "events": [
+   "ev-nrisimhananda-three-offerings"
+  ],
+  "note": "По ЧЧН 9 Нрисимхананда «приводит» Господа в дом Рагхавы в Панихати; ЧЧ Антья 2.54 — в Панихати."
+ },
+ {
+  "from": "@raghava-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F10",
+   "F11",
+   "F12",
+   "I2"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.24 (самадхи, Мадана-мохана, «седьмая ветвь») и к Мадхья 15.83 (не мирская чистоплотность — ⚠Б1)."
+ },
+ {
   "from": "@raghunandana",
   "type": "father",
   "who": "@mukunda-dasa",
