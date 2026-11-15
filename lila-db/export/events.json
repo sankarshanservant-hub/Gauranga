@@ -14667,11 +14667,13 @@
   "entries": [
    "apr-0151",
    "anv-0014",
-   "pvl-0022"
+   "pvl-0022",
+   "brt-0082"
   ],
   "sources": [
    "advaita-prakasha",
    "anuragavalli",
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -15252,9 +15254,13 @@
   ],
   "entries": [
    "pvl-0021",
-   "pvl-0023"
+   "brt-0080",
+   "pvl-0023",
+   "brt-0081",
+   "brt-0083"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -15283,9 +15289,12 @@
   ],
   "entries": [
    "pvl-0024",
-   "pvl-0025"
+   "brt-0084",
+   "pvl-0025",
+   "brt-0085"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -15314,10 +15323,12 @@
   ],
   "entries": [
    "anv-0017",
-   "pvl-0027"
+   "pvl-0027",
+   "brt-0086"
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -15345,10 +15356,13 @@
   ],
   "entries": [
    "anv-0018",
-   "pvl-0028"
+   "pvl-0028",
+   "brt-0087",
+   "brt-0090"
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -15378,9 +15392,11 @@
   "entries": [
    "krn-0028",
    "pvl-0029",
+   "brt-0091",
    "pvl-0031"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "karnananda",
    "prema-vilasa"
   ]
@@ -20642,6 +20658,35 @@
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-abhirama-gopinatha-khanakul",
+  "title": "Гопинатха является Абхираме Тхакуру: Рама-кунда в Кханакуле",
+  "title_en": "Gopinatha appears to Abhirama Thakura: Rama-kunda at Khanakul",
+  "period": "P12",
+  "order": 112.6,
+  "date_conf": "оценка",
+  "date_basis": "при жизни Нитьянанды (БР 4.120: Нитьянанда приходил к Абхираме)",
+  "themes": [
+   "deities",
+   "revelation"
+  ],
+  "notes": "«Бхакти-ратнакара» 4.113–119 (рассказ старого брахмана из Кханакула); «Анурага-валли» 3 — Гопинатха явился при рытье Рама-кунды.",
+  "years": [
+   1512,
+   1514
+  ],
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "brt-0088"
+  ],
+  "sources": [
    "bhakti-ratnakara"
   ]
  },
@@ -32240,6 +32285,7 @@
    28
   ],
   "entries": [
+   "brt-0089",
    "cb-3082",
    "cc-0154",
    "vv-0021",
@@ -32252,6 +32298,7 @@
    "vv-0073"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "cb",
    "cc",
    "vaishnava-vandana"

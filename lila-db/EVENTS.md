@@ -4079,6 +4079,10 @@
 - vaishnava-vandana (B): Вандана Дживы, 125–128 — [125–128](../vaishnava-vandana/ru/01.md?plain=1#L269-L275) · `vv-0029`
 - vaishnava-vandana (B): Вандана в трипади, 120–124 — [120–124](../vaishnava-vandana/ru/05.md?plain=1#L421-L433) · `vv-0079`
 
+## Гопинатха является Абхираме Тхакуру: Рама-кунда в Кханакуле / Gopinatha appears to Abhirama Thakura: Rama-kunda at Khanakul  `ev-abhirama-gopinatha-khanakul` (1512–1514, возраст 26–28, оценка)
+
+- bhakti-ratnakara (B): Таранга 4, 113–119 — [113–119](../bhakti-ratnakara/ru/04.md?plain=1#L342-L360) · `brt-0088`
+
 ## Уддхарана Датта обходит с Нитьянандой все святые места / Uddharana Datta goes round all the holy places with Nityananda  `ev-uddharana-pilgrimage-nityananda` (1512–1514, возраст 26–28, оценка)
 
 - vaishnava-vandana (B): Вандана Дживы, 134 — [134–134](../vaishnava-vandana/ru/01.md?plain=1#L287-L287) · `vv-0030`
@@ -4087,6 +4091,7 @@
 
 ## Чудеса спутников Нитьянанды: флейта Абхирамы, шакалы Парамешвары, змеи Мурари Чайтаньи Даса и Саранги / Wonders of Nityananda's associates: Abhirama's flute, Parameshvara's jackals, the snakes of Murari Chaitanya Dasa and Saranga  `ev-associates-of-nityananda-wonders` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 4, 120–126 — [120–126](../bhakti-ratnakara/ru/04.md?plain=1#L363-L381) · `brt-0089`
 - cb (A): Антья 5, 421–442 — [421–442](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L2069-L2174) · `cb-3082`
 - cc (A): Ади 11.16 — [16–16](../chaitanya-charitamrita/ed/vcd/CC_Adi11.md?plain=1#L173-L173) · `cc-0154`
 - vaishnava-vandana (B): Вандана Дживы, 95 — [95–95](../vaishnava-vandana/ru/01.md?plain=1#L209-L209) · `vv-0021`
@@ -5707,6 +5712,7 @@
 - advaita-prakasha (D): Гл. 22, 65–87 — [65. После праз–87. Состояние м](../advaita-prakash/22.md?plain=1#L69-L91) · `apr-0151`
 - anuragavalli (C): Манджари 2, 103–139 — [103–139](../anuragavalli/ru/02.md?plain=1#L333-L447) · `anv-0014`
 - prema-vilasa (C): Виласа 4, 223–235 — [223–235](../prema-vilasa/ru/04.md?plain=1#L671-L707) · `pvl-0022`
+- bhakti-ratnakara (B): Таранга 4, 47–55 — [47–55](../bhakti-ratnakara/ru/04.md?plain=1#L143-L167) · `brt-0082`
 
 ## Уход Нитьянанды / The departure of Nityananda  `ev-nityananda-departure` (1533–1534, возраст 47–48, оценка)
 
@@ -5842,7 +5848,10 @@
 ## Милость Вишнуприи к Шринивасу в Навадвипе / Vishnupriya's mercy to Srinivasa in Navadvipa  `ev-srinivasa-vishnupriya-mercy` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 4, 164–222 — [164–222](../prema-vilasa/ru/04.md?plain=1#L494-L668) · `pvl-0021`
+- bhakti-ratnakara (B): Таранга 4, 5–23 — [5–23](../bhakti-ratnakara/ru/04.md?plain=1#L17-L71) · `brt-0080`
 - prema-vilasa (C): Виласа 4, 236–251 — [236–251](../prema-vilasa/ru/04.md?plain=1#L710-L755) · `pvl-0023`
+- bhakti-ratnakara (B): Таранга 4, 24–46 — [24–46](../bhakti-ratnakara/ru/04.md?plain=1#L74-L140) · `brt-0081`
+- bhakti-ratnakara (B): Таранга 4, 56–62 — [56–62](../bhakti-ratnakara/ru/04.md?plain=1#L170-L188) · `brt-0083`
 
 ## Загадка Гададхары Пандита: Шринивас забывает передать её Дасу Гададхаре, отвергнут им и прощён по слову Вишнуприи / Gadadhara Pandita's riddle: Srinivasa forgets to deliver it to Dasa Gadadhara, is rejected and forgiven at Vishnupriya's word  `ev-gadadhara-riddle-gadadhara-dasa` (1533–1534, возраст 47–48, оценка)
 
@@ -5856,22 +5865,28 @@
 ## Шринивас в Шантипуре: видение Адвайты и милость Ситы / Srinivasa at Shantipura: the vision of Advaita and Sita's mercy  `ev-srinivasa-shantipura` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 4, 252–272 — [252–272](../prema-vilasa/ru/04.md?plain=1#L758-L818) · `pvl-0024`
+- bhakti-ratnakara (B): Таранга 4, 63–67 — [63–67](../bhakti-ratnakara/ru/04.md?plain=1#L191-L203) · `brt-0084`
 - prema-vilasa (C): Виласа 4, 273–293 — [273–293](../prema-vilasa/ru/04.md?plain=1#L821-L881) · `pvl-0025`
+- bhakti-ratnakara (B): Таранга 4, 68–80 — [68–80](../bhakti-ratnakara/ru/04.md?plain=1#L206-L242) · `brt-0085`
 
 ## Шринивас в Кхардахе у Джахнавы и Вирачандры / Srinivasa at Khardaha with Jahnava and Virachandra  `ev-srinivasa-khardaha-jahnava` (1533–1534, возраст 47–48, оценка)
 
 - anuragavalli (C): Манджари 3, 28–33 — [28–33](../anuragavalli/ru/03.md?plain=1#L94-L111) · `anv-0017`
 - prema-vilasa (C): Виласа 5, 1–34 — [1–34](../prema-vilasa/ru/05.md?plain=1#L5-L104) · `pvl-0027`
+- bhakti-ratnakara (B): Таранга 4, 81–96 — [81–96](../bhakti-ratnakara/ru/04.md?plain=1#L245-L290) · `brt-0086`
 
 ## Абхирама испытывает Шринивасу и трижды ударяет его плетью / Abhirama tests Srinivasa and strikes him thrice with his whip  `ev-abhirama-whip-srinivasa` (1533–1534, возраст 47–48, оценка)
 
 - anuragavalli (C): Манджари 3, 34–104 — [34–104](../anuragavalli/ru/03.md?plain=1#L114-L334) · `anv-0018`
 - prema-vilasa (C): Виласа 5, 35–75 — [35–75](../prema-vilasa/ru/05.md?plain=1#L107-L227) · `pvl-0028`
+- bhakti-ratnakara (B): Таранга 4, 97–112 — [97–112](../bhakti-ratnakara/ru/04.md?plain=1#L293-L338) · `brt-0087`
+- bhakti-ratnakara (B): Таранга 4, 127–148 — [127–148](../bhakti-ratnakara/ru/04.md?plain=1#L384-L447) · `brt-0090`
 
 ## Шринивас прощается с матерью и идёт во Вриндаван / Srinivasa takes leave of his mother and journeys to Vrindavana  `ev-srinivasa-journey-vrindavana` (1533–1534, возраст 47–48, оценка)
 
 - karnananda (C): Нирьяса 6, 1 (девять шлок) — [1–1](../karnananda/ru/06.md?plain=1#L5-L5) · `krn-0028`
 - prema-vilasa (C): Виласа 5, 76–93 — [76–93](../prema-vilasa/ru/05.md?plain=1#L230-L281) · `pvl-0029`
+- bhakti-ratnakara (B): Таранга 4, 149–155 — [149–155](../bhakti-ratnakara/ru/04.md?plain=1#L450-L468) · `brt-0091`
 - prema-vilasa (C): Виласа 5, 107–146 — [107–146](../prema-vilasa/ru/05.md?plain=1#L323-L440) · `pvl-0031`
 
 ## Шри Радха для Говинды из Пури: Божества, присланные Пурушоттамой Джаной, и Лакшми храма Джаганнатхи / Sri Radha for Govinda from Puri: the Deities sent by Purushottama Jana and the Lakshmi of Jagannatha's temple  `ev-radha-for-govinda-from-puri` (1533–1534, возраст 47–48, оценка)
