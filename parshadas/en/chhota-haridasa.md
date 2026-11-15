@@ -2,7 +2,7 @@
 *Младший Харидас · @chhota-haridasa*
 
 ## The Lord's Singer
-While Sri Chaitanya lived in Nilachala, two kirtana singers with sweet voices stayed by His side, and both were named
+While Sri Chaitanya lived in Nilachala, two sweet-voiced kirtana singers stayed by His side, and both were named
 Haridasa: the Senior Haridasa and the Junior. Krishnadasa Kaviraja mentions them in his list of the branches of the
 Chaitanya tree:
 
@@ -11,7 +11,9 @@ Chaitanya tree:
 Of the Junior Haridasa — in Bengali, Chhota Haridasa — Kaviraja tells in the second chapter of the Antya-lila, where he
 calls him “the Lord's singer”; there too, on the Lord's lips, he is simply “Haridasa.” Kavi Karnapura in the
 “Gaura-ganoddesha-dipika” calls him “Haridasa the Younger,” and Ishana Nagara in the “Advaita-prakasha” “the singer Sri
-Haridasa.” The biographies call him Chhota Haridasa, Haridasa and Sri Haridasa.[^1] <!-- F1 F4 -->
+Haridasa.” The biographies call him Chhota Haridasa, Haridasa and Sri Haridasa.[^1] Srila Bhaktivinoda Thakura in the
+“Amrita-pravaha-bhashya” also calls him “Laghu-haridasa”: many Vaishnavas bore the name Haridasa, and words such as
+*laghu* (junior) or *madhyama* (middle) were added to it. <!-- F1 F4 F47 -->
 
 Where he came from, who his parents were and when he appeared in this world, the sources do not say; the year of his
 departure is not known either, and the Vaishnava calendar of Sri Chaitanya Saraswat Math has no days for him. All we
@@ -46,11 +48,11 @@ Raktaka.[^3] <!-- F2 -->
 At the festival of the chariots the Lord divided the devotees into seven kirtana groups. In the fourth the lead singer
 was Govinda Ghosha; Haridasa, Vishnudasa, Raghava and Govinda's brothers Madhava and Vasu Ghosha sang the response, and
 Vakreshvara danced (CC, Madhya 13.42). Whether this Haridasa was our singer Kaviraja does not specify; one of the
-biographies says that he was, others say so with doubt.[^4] <!-- F8 -->
+biographies says plainly that he was, others say so with doubt or only following the English translation.[^4] <!-- F8 -->
 
 ## The Rice from Madhavi-devi
-In Puri, so as to be near the Lord, lived Bhagavan Acharya. He was so close to the Lord that from time to time he would
-invite Him to an especially fine meal, and Mahaprabhu could not refuse him. Once, preparing such a meal, he called the
+In Puri, so as to be near the Lord, lived Bhagavan Acharya. He was so close to the Lord that now and then he would
+invite Him to an especially fine meal, and Mahaprabhu could not say no to him. Once, preparing such a meal, he called the
 Junior Haridasa. The “Charitamrita” relates:
 
 “One day the Acharya invited the Lord. At home he cooked rice and made various vegetable dishes. The Lord had a singer
@@ -67,7 +69,7 @@ Shikhi Mahiti's sister was named Madhavi-devi. Kaviraja says of her:
 the world there are only three and a half such worthy persons: Svarupa Gosani, Ramananda Raya and Shikhi Mahiti are the
 three, and his sister is the half.” (CC, Antya 2.104–106)
 
-Madhavi and her brothers were among the Lord's most intimate companions. <!-- F13 Q3 -->
+Madhavi and her brothers belonged to the Lord's innermost circle. <!-- F13 Q3 -->
 
 Haridasa begged the rice from her and brought it to the Acharya, who, much pleased, cooked it with love together with the
 Lord's favourite dishes, and set out with them prasada from the temple, slices of ginger, and lime with salt. At midday
@@ -113,13 +115,13 @@ follow. Hearing such words, the devotees covered their ears with their hands and
 Mahaprabhu went to perform His midday duties. His actions are very hard to understand. <!-- F23 F24 -->
 
 ## Intercessor and Comforter
-The next day the Vaishnavas went to Paramananda Puri, a disciple of Madhavendra Puri. The Lord honoured him deeply as a guru,
+The next day the Vaishnavas went to Paramananda Puri, Madhavendra Puri's disciple. The Lord honoured him deeply as a guru,
 since he was a godbrother of Ishvara Puri, the Lord's guru, and the devotees hoped that Puri could soften the Lord. He
-came to Mahaprabhu; the Lord bowed to him with reverence, seated him beside Himself and asked why he had come. Puri asked
-Him to show grace to Haridasa.[^11] <!-- F25 -->
+came to Mahaprabhu; the Lord bowed to him with reverence, seated him beside Himself and asked the purpose of his visit. Puri
+begged Him to show grace to Haridasa.[^11] <!-- F25 -->
 
 The Lord, displeased, replied: “Listen, Gosani: stay here with all the Vaishnavas, and give Me leave to go to
-Alalanatha. I will stay there alone, with only Govinda.” Alalanatha is a secluded place a few miles from Puri. Saying
+Alalanatha. I will stay there alone, with only Govinda.” Alalanatha is a lonely spot some miles from Puri. Saying
 this, the Lord called Govinda, bowed to Puri and set off. Puri hurried to stand before Him, humbly persuaded Him to come
 back into the room, and said:
 
@@ -141,7 +143,7 @@ away. He who would not tolerate the slightest deviation from siddhanta always st
 a devotee who had stumbled for a time; so he laboured for the Junior Haridasa too. <!-- F27 F28 -->
 
 From then on Haridasa did not show himself to the Lord: when Mahaprabhu went to the temple to see Jagannatha, he only
-watched Him from a distance. Kaviraja writes:
+watched Him from afar. Kaviraja writes:
 
 “Mahaprabhu is an ocean of mercy — who can understand Him? He punishes His own devotee to make people understand dharma.
 Seeing this, all the devotees were struck with fear, and even in their dreams they gave up talking with women.” (CC,
@@ -165,7 +167,9 @@ body of a Gandharva he sang invisibly. At night he would let the Lord hear his s
 
 This body is no phantom shell but a divine, non-material body given to him by the Lord's mercy, and in it he did what he
 had done all his life: he sang for the Lord. Srila Bhaktisiddhanta writes in the “Anubhashya” that in his divine body
-Haridasa served the Lord invisibly with kirtana. <!-- F32 F33 -->
+Haridasa served the Lord invisibly with kirtana. Srila Bhaktivinoda Thakura, in his brief summary of the chapter, tells
+the story in the same way and in a few words: a year later Haridasa immersed himself in the waters of the Triveni at
+Prayaga and gave up his body, and then in a non-worldly body he sang for Mahaprabhu. <!-- F32 F33 F46 -->
 
 Haridasa's departure cannot be measured by a worldly yardstick, nor taken as a pattern to follow. It was not suicide in
 the worldly sense, nor the act of a man in despair: the “Charitamrita” speaks of a resolve to attain the Lord's feet; Svarupa, whose judgement the Lord
@@ -181,7 +185,7 @@ the devotees were filled with wonder. <!-- F34 -->
 Another day Jagadananda, Svarupa, Govinda, Kashishvara, Shankara, Damodara and Mukunda went to bathe in the sea, and
 some distance away they heard Haridasa singing, as if calling out at the top of his voice. They saw no singer; they only
 heard his wondrous voice. And Govinda and the others began to guess: “Haridasa must have taken poison or something like
-it and killed himself, and by that sin he has become a *brahma-rakshasa*. We see no form; we only hear his song” (CC, Antya 2.155–157).[^14]
+it and killed himself, and by that sin, we think, he has become a *brahma-rakshasa*. We see no form; we only hear his song” (CC, Antya 2.155–157).[^14]
 Svarupa objected:
 
 “‘This guess is false. From his birth he sang of Krishna and served the Lord; he was a recipient of the Lord's mercy,
@@ -192,9 +196,9 @@ By the holy place Svarupa means the Triveni at Prayaga.[^15] His judgements were
 them. <!-- F35 F36 F37 -->
 
 ## “A Man Reaps the Fruit of His Own Deeds”
-Soon a Vaishnava came from Prayaga to Navadvipa and told about Haridasa: with what resolve he had entered the Triveni and
+Later a Vaishnava came from Prayaga to Navadvipa and told about Haridasa: with what resolve he had entered the Triveni and
 how he had carried out his purpose. Srivasa Pandita and the other devotees were amazed. The next year, as usual, the
-Bengali devotees led by Shivananda Sena came to the Lord in Puri, and Srivasa asked where Haridasa was. Mahaprabhu
+Bengali devotees led by Shivananda Sena came to the Lord in Puri, and Srivasa asked after Haridasa. Mahaprabhu
 answered:
 
 “‘A man reaps the fruit of his own deeds.’” (CC, Antya 2.163)
@@ -207,7 +211,7 @@ this is the atonement” (CC, Antya 2.165). These are the words of the Lord as t
 Bhaktisiddhanta says, is establishing a rule. Bhaktivinoda Thakura explains to whom it is addressed: to a sadhaka who
 wears the renunciant's garb and yet deliberately looks at women — by leaving his body at the Triveni, such a person will
 in future become faultless. This is not a prescription to be imitated: the Lord shows how grave such a fault is for a
-renunciant. And the Lord rejoiced not at Haridasa's death but at his destiny: by the power of the Triveni His singer had
+renunciant. And the Lord rejoiced not that Haridasa had left his body but at his destiny: by the power of the Triveni His singer had
 come to Him. <!-- F41 -->
 
 The devotees came to the same conclusion:
@@ -239,21 +243,22 @@ devotee. He showed the glory of the holy place, and He made His devotee His own.
 accomplishes five or seven purposes.” (CC, Antya 2.168–169)
 
 Following these verses and the “Anubhashya,” one of the biographies lists the fruits of this pastime: the Lord revealed
-His boundless mercy, taught the value of true renunciation, showed His devotees' deep attachment to Him and the glory of
+His boundless mercy, taught how precious true renunciation is, showed how deeply His devotees are attached to Him, revealed the glory of
 the holy place, and accepted His devotees as His own. He also showed how faultless a Vaishnava's life and character must
 be, and how poisonous is the fruit of even the subtlest touch of worldly attachment: one who wishes to become His
 devotee must give up worldly enjoyment to the very last trace. Outwardly rejecting Haridasa to teach the people, the Lord
 nevertheless accepted the service — the kirtana — of this pure devotee. <!-- I3 -->
 
-The Junior Haridasa was a pure and supremely saintly devotee of Mahaprabhu. He sang for the Lord in his life, and he
-sang for Him afterwards, when no one but the Lord could hear him; and his very story became the lesson Mahaprabhu taught
+The Junior Haridasa was a pure and supremely saintly devotee of Mahaprabhu. He sang for the Lord in this world, and he
+sang for Him after leaving his body, when no one but the Lord could hear him; and his very story became the lesson Mahaprabhu taught
 all who seek pure devotion. <!-- F43 -->
 
 [^1]: He should not be confused with his namesakes: Srila Haridasa Thakura, the Namacharya; the Senior Haridasa (Bada
     Haridasa), the Lord's other singer; Haridasa Pandita, the servant of Govindadeva in Vrindavana; Dvija Haridasa
     (Haridasa Acharya); the Haridasa of the second kirtana group at the Ratha-yatra (CC, Madhya 13.39; Srila
     Bhaktisiddhanta suggests that this may be the Senior Haridasa); and the Haridasa of a pada about Navadvipa, a
-    companion of Mukunda, Madhava and Vasu. The Haridasa about whom the Lord asks, “Where is Haridasa?” (CC, Antya 2.150),
+    companion of Mukunda, Madhava and Vasu; and Laghu Haridasa, one of the devotees with whom Rupa Gosvami went to see Gopala
+    at Mathura (CC, Madhya 18.52) — Srila Bhaktivinoda Thakura stresses that he is a different person. The Haridasa about whom the Lord asks, “Where is Haridasa?” (CC, Antya 2.150),
     is he.
 [^2]: Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” writes that Haridasa had taken *bhek*, the renunciant's
     garb. One of the biographies calls him “a sannyasi of immature age” and renders the Lord's words thus: “Even My mind is
@@ -263,7 +268,9 @@ all who seek pure devotion. <!-- F43 -->
 [^3]: The verse names the pair “Raktaka and Patraka” and the pair “Haridasa the Elder and Haridasa the Younger”; the
     Junior Haridasa is second in his pair, that is, Patraka. So they are matched also in the table in the edition of
     Govinda Dasa's “Karcha.”
-[^4]: One of the biographies names the Junior Haridasa here outright; another puts a question mark beside his name. Srila
+[^4]: One of the biographies names the Junior Haridasa here outright; another does too, but in a quotation of the
+    English translation of the “Charitamrita,” where the word “junior” was added by the translator; a third puts a
+    question mark beside his name. Srila
     Bhaktisiddhanta in the “Anubhashya” on Madhya 13.42 also writes: “perhaps the Junior Haridasa?” — whereas the Haridasa
     of the second group (13.39) he tentatively takes to be the Senior. The Bengali verse 13.42 has simply “Haridasa”; the
     identification remains a conjecture.
@@ -271,7 +278,7 @@ all who seek pure devotion. <!-- F43 -->
     verse 2.103, cited in the “Anubhashya,” names a variety of rice called *aroya*. One of the biographies says that
     Haridasa came to beg rice from Madhavi-devi “in Bhagavan Acharya's house” and fell into conversation with her there;
     according to the “Charitamrita” (Antya 2.103) the Acharya sent him to her, to where she lived.
-[^6]: Ishana Nagara in the “Advaita-prakasha” (18.138–146), a late source we trust less, tells it differently: the
+[^6]: Ishana Nagara in the “Advaita-prakasha” (18.138–148), a late source we trust less, tells it differently: the
     singer Sri Haridasa, “like a Gandharva, the best of bhagavatas, whose life was given to Gaura,” exchanged rice
     collected as alms for Gaura's service for better rice from “Mother Sri Madhavi”; the Lord asked Haridasa himself about
     the rice and, hearing his answer, said: “You have destroyed the eternal dharma of the detached. Although Madhavi is a
@@ -285,12 +292,12 @@ all who seek pure devotion. <!-- F43 -->
     is Haridasa himself who is grieved.
 [^8]: According to one of the biographies he fasted even without water; the “Charitamrita” speaks simply of a fast.
 [^9]: In one of the biographies the reference is given as “Bhagavatam 9.19.15”; the verse is 9.19.17. Another biography
-    attributes to the Lord the words that for a renunciant, conversing with a woman is worse than drinking poison; they
+    attributes to the Lord the words that for a renunciant, talk with a woman is more harmful than poison; they
     are not in the “Charitamrita” (Antya 2.117–120).
 [^10]: The Bengali text has *avesha*: the Lord was seized with anger. This is no worldly anger but the sternness of the
     Lord instructing the world.
-[^11]: The biographies add that the devotees went to Puri on learning that Haridasa had resolved to give up his life if
-    he could not see the Lord, and that the Lord, unwilling to disregard Puri's words, agreed to let
+[^11]: The biographies add that the devotees went to Puri on learning that Haridasa had decided to leave his body unless
+    he could see the Lord, and that the Lord, unwilling to disregard Puri's words, agreed to let
     Haridasa back (even into the Gambhira) while He Himself would leave. According to the “Charitamrita,” they went to
     Puri the day after the Lord's rebuke, the Lord did not forgive Haridasa, and Haridasa left Puri only a year later
     (Antya 2.128–146).
