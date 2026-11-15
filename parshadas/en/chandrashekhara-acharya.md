@@ -21,8 +21,8 @@ devotees: here the Lord revealed Himself in the form of His own primordial energ
 Like all the Lord's elders, he came into the world before Him. The “Chaitanya-bhagavata” says:
 
 “By the order of Lord Chaitanya many of His eternal associates, such as Sri Chandrashekhara, Jagadisha, Gopinatha
-Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born secretly in Nadia before His
-coming.” (CB, Adi 2.98–99)
+Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born before His coming and lived
+hidden in Nadia.” (CB, Adi 2.98–99)
 
 And the “Charitamrita,” listing those whom Krishna sent to the earth ahead of Himself, names him too:
 

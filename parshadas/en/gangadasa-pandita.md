@@ -12,15 +12,15 @@ Lord and that the mere remembrance of him can destroy all the fetters of worldly
 He belongs to those eternal associates of the Lord who came into the world before Him and awaited His descent:
 
 “By the order of Lord Chaitanya many of His eternal associates, such as Sri Chandrashekhara, Jagadisha, Gopinatha
-Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born secretly in Nadia before His
-coming.” (CB, Adi 2.98–99)[^1]
+Acharya, Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita, were born before His coming and lived
+hidden in Nadia.” (CB, Adi 2.98–99)[^1]
 
 Advaita Acharya, the incarnation of Maha-Vishnu, called Krishna to descend to earth for the deliverance of all, and the
 Lord desired that those who were to be His elders in His pastimes — the guru-varga — should appear before Him.
 Gangadasa Pandita is one of them: in the Lord's lila he became His teacher. <!-- F6 F7 Q7 -->
 
-Where exactly he was born, the sources do not say quite alike. According to the “Chaitanya-bhagavata,” it was Nadia;
-the translation of the “Charitamrita,” however, says that Nityananda Prabhu, Gangadasa Pandita, Murari Gupta and Mukunda
+Where exactly he was born, the sources do not say quite alike. The “Chaitanya-bhagavata” says only that he lived in
+Nadia; the translation of the “Charitamrita,” however, says that Nityananda Prabhu, Gangadasa Pandita, Murari Gupta and Mukunda
 were born in Radha-desha (Adi 13.61)[^2]. <!-- F8 Q6 -->
 
 Even before the Lord's advent, when Advaita Acharya returned to Bengal, the local Vaishnavas — Srivasa, Chandrashekhara,
@@ -332,8 +332,8 @@ worshipped by the fourteen worlds? <!-- F32 F57 I4 I5 -->
 
 [^1]: In one place one of the biographies refers here to the “Chaitanya-bhagavata,” Adi 9.98–99; read Adi 2.98–99.
 [^2]: The Bengali line of the “Charitamrita” allows another reading as well: Nityananda appeared in Radha-desha, while
-    Gangadasa, Murari and Mukunda appeared elsewhere; so one of the biographies understands it. This agrees with the
-    words of the “Chaitanya-bhagavata” that Gangadasa was born in Nadia.
+    Gangadasa, Murari and Mukunda appeared elsewhere; so one of the biographies understands it. Neither reading contradicts
+    the “Chaitanya-bhagavata,” which says only that Gangadasa was born before the Lord and lived in Nadia.
 [^3]: The biographies often take this verse to mean that Gangadasa is Sandipani Muni himself. The verse itself,
     however, says “like unto Sandipani” (*ye-hena sāndīpani*); on whom Sandipani became in the Lord's pastimes, see
     below, in the section “In the Pastimes of Rama and Krishna.”

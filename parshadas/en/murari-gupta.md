@@ -56,11 +56,11 @@ whose name the sources also do not give, was a chaste and devoted woman, and we 
 of Vrindavana Dasa. <!-- F9 F10 F14 -->
 
 Murari was born before the Lord: he was a little older than Nimai[^2]. Vrindavana Dasa says that by His will
-Mahaprabhu's eternal associates were born in Nadia before Him:
+Mahaprabhu's eternal associates were born before Him:
 
 “By the order of Lord Chaitanya many of His eternal associates — Sri Chandrashekhara, Jagadisha, Gopinatha Acharya,
-Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita — took birth secretly in Nadia before His
-coming.” (CB, Adi 2.98–99)
+Shriman Pandita, Murari Gupta, Sri Garuda Pandita and Gangadasa Pandita — were born before His coming and lived hidden
+in Nadia.” (CB, Adi 2.98–99)
 
 Of this same descent of associates who came into the world before the Lord, Kavi Karnapura (“Chaitanya-chandrodaya”
 1.21–25) and Murari himself (“Kadacha” 1.4) also tell. <!-- F11 F12 Q4 -->
