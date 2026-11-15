@@ -4182,6 +4182,14 @@
     "type": "companion"
    },
    {
+    "from": "@buddhimanta-khan",
+    "type": "neighbor"
+   },
+   {
+    "from": "@buddhimanta-khan",
+    "type": "patron"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "relative"
    },
@@ -7697,6 +7705,10 @@
     "type": "other"
    },
    {
+    "from": "@buddhimanta-khan",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "in-law"
    },
@@ -8941,6 +8953,10 @@
    {
     "from": "@bhaktivinoda",
     "type": "other"
+   },
+   {
+    "from": "@buddhimanta-khan",
+    "type": "patron"
    },
    {
     "from": "@chandrashekhara-acharya",
@@ -12326,6 +12342,10 @@
   ],
   "related_by": [
    {
+    "from": "@buddhimanta-khan",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "guru"
    },
@@ -13420,6 +13440,10 @@
     "type": "guru"
    },
    {
+    "from": "@buddhimanta-khan",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "other"
    },
@@ -14416,6 +14440,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@buddhimanta-khan",
     "type": "other"
    },
    {
@@ -15602,6 +15630,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@buddhimanta-khan",
+    "type": "co-worker"
+   },
    {
     "from": "@chandrashekhara-acharya",
     "type": "companion"
@@ -16856,6 +16888,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@buddhimanta-khan",
     "type": "other"
    },
    {
@@ -26473,6 +26509,10 @@
   ],
   "related_by": [
    {
+    "from": "@buddhimanta-khan",
+    "type": "other"
+   },
+   {
     "from": "@damayanti",
     "type": "other"
    },
@@ -26945,6 +26985,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@buddhimanta-khan",
+    "type": "co-worker"
+   },
    {
     "from": "@murari-gupta",
     "type": "other"
@@ -37490,7 +37534,7 @@
    "ev-kheturi-mahantas-depart",
    "ev-narottama-sacred-thread"
   ],
-  "summary": "в Кришна-лиле — манджари (T 215 —…); гуру — Шьямананда (Духкхи Кришнадас); происхождение — Рохини (Раяни, Рауни); явление — ночь Дипавали — амавасья месяца Дамодары при наступлении…; уход — Гаура-пратипад месяца Говинды — по нашему календарю; самадхи — Ремуна",
+  "summary": "в Кришна-лиле — манджари (T 215 —…); гуру — Шьямананда (Духкхи Кришнадас); происхождение — Рохини (Раяни, Рауни); явление — ночь Дипавали — амавасья месяца Дамодары при наступлении…; уход — пхальгуна, пратипада по окончании Шива-чатурдаши = Гаура-пратипад…; самадхи — Ремуна",
   "card": "parshadas/cards/rasikananda.yaml",
   "article": {
    "ru": "parshadas/ru/rasikananda.md",
@@ -40466,6 +40510,10 @@
     "type": "lineage-predecessor"
    },
    {
+    "from": "@buddhimanta-khan",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "other"
    },
@@ -40607,6 +40655,10 @@
    {
     "from": "@bhaktivinoda",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@buddhimanta-khan",
+    "type": "other"
    },
    {
     "from": "@chandrashekhara-acharya",
@@ -44643,6 +44695,124 @@
    "ev-month-stored-prasada",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "царь Суварна Сена из Суварна-вихары в Сатья-югу,… («Навадвипа-дхама-мах…); происхождение — Навадвипа",
+  "card": "parshadas/cards/buddhimanta-khan.yaml",
+  "article": {
+   "ru": "parshadas/ru/buddhimanta-khan.md",
+   "en": "parshadas/en/buddhimanta-khan.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F29"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет",
+    "facts": [
+     "F29"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "other",
+    "as": "царь Суварна Сена из Суварна-вихары (Годрума-двипа) в Сатья-югу, которому небесный голос возвестил рождение Буддхимантой Ханом",
+    "source": "«Навадвипа-дхама-махатмья» Бхактивиноды (по B 826, T 47); в lila-db/SOURCES.md уровень не задан — B условно (ачарья, XIX в., откровение о спутнике)",
+    "level": "B",
+    "variants": [
+     "T 47 добавляет: любовь к Радхе-Кришне и Гауранге царь обрёл по благословению Нарады (⚠7). Отождествления в Кришна-лиле нет ни в ГГД, ни у авторов (F5)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "neighbor",
+    "who": "@mahaprabhu",
+    "note": "Сосед и всецело преданный слуга (B 825); «очень дорог Чайтанье… с рождения исполнял веления, главный из слуг» (ЧЧ Ади 10.74); Господь обнял его после свадьбы (ЧБ Ади 15.220)."
+   },
+   {
+    "type": "patron",
+    "who": "@mahaprabhu",
+    "note": "Взял на себя все расходы на свадьбу Господа с Вишнуприей, «как у царевича»; дивный паланкин, пешие воины впереди шествия (ЧБ Ади 15.69–72, 15.137, 15.145; ⚠Б1, ⚠4)."
+   },
+   {
+    "type": "patron",
+    "who": "@vishnupriya",
+    "note": "= @vishnupriya F28–F31, F40."
+   },
+   {
+    "type": "friend",
+    "who": "@mukunda-sanjaya",
+    "note": "Вдвоём — богатые почтенные люди Навадвипы, помогали бедным лекарствами (B 825; T 47); вместе пришли лечить «болезнь вайю» (ЧБ Ади 12.72); Мукунда Санджая хотел разделить расходы на свадьбу, назвав его «друг, брат» (ЧБ Ади 15.70)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@sadashiva-pandita",
+    "note": "Вдвоём по велению Господа готовили облачения для действа в доме Чандрашекхары (ЧБ Мадхья 18.7, 18.14; БР 12.2902–2904 — по T/B, не сверено). B 826 пишет их подряд без союза — это двое."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-acharya",
+    "note": "Действо и киртаны в его доме. = @chandrashekhara-acharya F17."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Ночные киртаны в храме Шривасы (ЧБ Мадхья 8.110–116). = @srivasa F139."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Встреча с Господом в доме Адвайты в Шантипуре (ЧЧ Мадхья 3.154); с гаудийцами во главе с Адвайтой — в Пури; у Джаянанды — умащает сандалом на арадхане Мадхавендры Пури в доме Адвайты (F27)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Его угощения Говинда хранил и назвал Господу (ЧЧ Антья 10.121). = @govinda-servant F36."
+   },
+   {
+    "type": "co-worker",
+    "who": "@murari-gupta",
+    "note": "Вместе с Васудевой Даттой и Мурари передали Господу блюда (ЧЧ Антья 10.121). = @murari-gupta F85."
+   },
+   {
+    "type": "co-worker",
+    "who": "@vasudeva-datta",
+    "note": "ЧЧ Антья 10.121."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "Пришёл с Шачи и жителями Навадвипы в Шантипур (ЧЧ Мадхья 3.137–155); у Джаянанды — рядом с ней на празднике у Адвайты и в Кулии."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "«Навадвипа-дхама-махатмья»: прежде — царь Суварна Сена из Суварна-вихары (по B 826, T 47; не сверено)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.74: богатый преданный Навадвипы; расходы на вторую свадьбу Господа; лечение при «болезни вайю»; облачения для действа."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "В видении царя Суварна Сены — Гаура и Гададхара со спутниками. = @gadadhara-pandita F36."
+   }
+  ],
   "related_by": [
    {
     "from": "@chandrashekhara-acharya",
@@ -45235,6 +45405,10 @@
   ],
   "related_by": [
    {
+    "from": "@buddhimanta-khan",
+    "type": "friend"
+   },
+   {
     "from": "@gangadasa-pandita",
     "type": "other"
    },
@@ -45645,6 +45819,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@buddhimanta-khan",
+    "type": "co-worker"
+   },
    {
     "from": "@chandrashekhara-acharya",
     "type": "other"

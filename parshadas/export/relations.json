@@ -1939,6 +1939,215 @@
   ]
  },
  {
+  "from": "@buddhimanta-khan",
+  "type": "neighbor",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F3",
+   "F6",
+   "F10",
+   "F12",
+   "F14",
+   "F15",
+   "F17",
+   "F18",
+   "F19",
+   "F21",
+   "F23",
+   "F24",
+   "F25",
+   "F26",
+   "I2"
+  ],
+  "events": [
+   "ev-vayu-vyadhi-prema",
+   "ev-marriage-vishnupriya",
+   "ev-closed-door-kirtan-scoffers",
+   "ev-chandrashekhara-drama",
+   "ev-jala-keli-navadvipa",
+   "ev-shantipura-reunion",
+   "ev-gauda-devotees-yearly-visit",
+   "ev-month-stored-prasada"
+  ],
+  "note": "Сосед и всецело преданный слуга (B 825); «очень дорог Чайтанье… с рождения исполнял веления, главный из слуг» (ЧЧ Ади 10.74); Господь обнял его после свадьбы (ЧБ Ади 15.220)."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "patron",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F12",
+   "F14",
+   "F15",
+   "F16",
+   "F17"
+  ],
+  "events": [
+   "ev-marriage-vishnupriya"
+  ],
+  "note": "Взял на себя все расходы на свадьбу Господа с Вишнуприей, «как у царевича»; дивный паланкин, пешие воины впереди шествия (ЧБ Ади 15.69–72, 15.137, 15.145; ⚠Б1, ⚠4)."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "patron",
+  "who": "@vishnupriya",
+  "facts": [
+   "F12",
+   "F14",
+   "F15",
+   "F17"
+  ],
+  "events": [
+   "ev-marriage-vishnupriya"
+  ],
+  "note": "= @vishnupriya F28–F31, F40."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "friend",
+  "who": "@mukunda-sanjaya",
+  "facts": [
+   "F7",
+   "F8",
+   "F10",
+   "F13"
+  ],
+  "note": "Вдвоём — богатые почтенные люди Навадвипы, помогали бедным лекарствами (B 825; T 47); вместе пришли лечить «болезнь вайю» (ЧБ Ади 12.72); Мукунда Санджая хотел разделить расходы на свадьбу, назвав его «друг, брат» (ЧБ Ади 15.70)."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "co-worker",
+  "who": "@sadashiva-pandita",
+  "facts": [
+   "F19",
+   "F20"
+  ],
+  "events": [
+   "ev-chandrashekhara-drama"
+  ],
+  "note": "Вдвоём по велению Господа готовили облачения для действа в доме Чандрашекхары (ЧБ Мадхья 18.7, 18.14; БР 12.2902–2904 — по T/B, не сверено). B 826 пишет их подряд без союза — это двое."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F18",
+   "F19",
+   "F20"
+  ],
+  "events": [
+   "ev-chandrashekhara-drama"
+  ],
+  "note": "Действо и киртаны в его доме. = @chandrashekhara-acharya F17."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F18"
+  ],
+  "events": [
+   "ev-closed-door-kirtan-scoffers"
+  ],
+  "note": "Ночные киртаны в храме Шривасы (ЧБ Мадхья 8.110–116). = @srivasa F139."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F23",
+   "F24",
+   "F27"
+  ],
+  "events": [
+   "ev-shantipura-reunion",
+   "ev-gauda-devotees-set-out-puri"
+  ],
+  "note": "Встреча с Господом в доме Адвайты в Шантипуре (ЧЧ Мадхья 3.154); с гаудийцами во главе с Адвайтой — в Пури; у Джаянанды — умащает сандалом на арадхане Мадхавендры Пури в доме Адвайты (F27)."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@govinda-servant",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-month-stored-prasada"
+  ],
+  "note": "Его угощения Говинда хранил и назвал Господу (ЧЧ Антья 10.121). = @govinda-servant F36."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "co-worker",
+  "who": "@murari-gupta",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-month-stored-prasada"
+  ],
+  "note": "Вместе с Васудевой Даттой и Мурари передали Господу блюда (ЧЧ Антья 10.121). = @murari-gupta F85."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "co-worker",
+  "who": "@vasudeva-datta",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-month-stored-prasada"
+  ],
+  "note": "ЧЧ Антья 10.121."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F23",
+   "F27",
+   "F28"
+  ],
+  "events": [
+   "ev-shantipura-reunion"
+  ],
+  "note": "Пришёл с Шачи и жителями Навадвипы в Шантипур (ЧЧ Мадхья 3.137–155); у Джаянанды — рядом с ней на празднике у Адвайты и в Кулии."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F4"
+  ],
+  "note": "«Навадвипа-дхама-махатмья»: прежде — царь Суварна Сена из Суварна-вихары (по B 826, T 47; не сверено)."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F7",
+   "F10",
+   "F12"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.74: богатый преданный Навадвипы; расходы на вторую свадьбу Господа; лечение при «болезни вайю»; облачения для действа."
+ },
+ {
+  "from": "@buddhimanta-khan",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F4"
+  ],
+  "note": "В видении царя Суварна Сены — Гаура и Гададхара со спутниками. = @gadadhara-pandita F36."
+ },
+ {
   "from": "@chandrashekhara-acharya",
   "type": "spouse",
   "who": "@sarvajaya",
