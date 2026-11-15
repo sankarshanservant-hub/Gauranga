@@ -24,7 +24,7 @@ tradition says they understood in advance that Krishna would come to this very h
 that he seemed to be his shadow, and his wife Malini became Shachi's friend. Nearby also lived
 Madhava Mishra and Ratnavati, the parents of Gadadhara Pandita. <!-- F36 F37 F38 -->
 
-Later Jagadisha Pandita came from Assam with his wife Duhkhini and his brother Hiranya[^3] and also settled next door.
+Later Jagadisha Pandita came from Assam with his wife Dukhini and his brother Hiranya[^3] and also settled next door.
 Jagadisha became one of Jagannatha's closest friends. He and Hiranya knew that Hari Himself had been born as their neighbour's son.
 <!-- F67 F68 -->
 

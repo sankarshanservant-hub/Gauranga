@@ -266,7 +266,7 @@ O goddess!’” (CM, Adi-khanda, part 4, v. 375) <!-- F78 F188 -->
 When Nimai grew older, He went with His friends to bathe in the Ganga, and on coming back He would call out: “Mother,
 mother! Give Me scented oil, I want to go and bathe” — and Shachi was glad, seeing no trace of bathing on Him (CB, Adi
 6.114–115). When He began to go to school, His six hours of lessons were like two yugas to His father and mother (CB,
-Adi 6.135). The same love that Shachi had for Nimai was felt by the neighbours: by Jagadisha and his wife Duhkhini, who
+Adi 6.135). The same love that Shachi had for Nimai was felt by the neighbours: by Jagadisha and his wife Dukhini, who
 was like a second mother to Him and sometimes even nursed Him, and by Srivasa and Malini, whom He accepted as a second
 father and mother. For Shachi's son is Yashoda's son Himself, Krishna. <!-- F132 F22 F93 I1 -->
 
