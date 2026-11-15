@@ -52,8 +52,7 @@ Near Bhavananda's house in Bentpur, according to one of the biographies, Madhavi
 began the service of the Deity Sri Gopinatha, and He is served there to this day. The same biography calls Shikhi
 Mahiti the son of Bhavananda Raya's brother, which would make Madhavi-devi his niece too[^3]. <!-- F7 F8 Q13 -->
 
-The sources have not preserved the name of Bhavananda's wife. We know only what the Lord called her: “Your wife is
-Kunti” (CC, Madhya 10.53). They had five sons: Ramananda Raya, Gopinatha Pattanayaka, Kalanidhi, Sudhanidhi and
+The sources have not preserved the name of Bhavananda's wife. We know only what the Lord called her: “Your wife is Kunti” (CC, Madhya 10.53). They had five sons: Ramananda Raya, Gopinatha Pattanayaka, Kalanidhi, Sudhanidhi and
 Vaninatha Pattanayaka. Ramananda was the firstborn (CC, Madhya 10.50); Gopinatha, by the order of the names in the
 “Charitamrita,” the biographies consider the second. And all five were dear to Mahaprabhu — He said so to their father
 Himself. <!-- F9 F10 F11 F12 -->
@@ -82,7 +81,7 @@ the brief summary of those days Kaviraja says that the Lord then met both Shikhi
 10.49)
 
 The fifth son, Ramananda, was still on the Godavari. Sarvabhauma Bhattacharya, introducing the devotees of Nilachala to
-the Lord, said: “This is Bhavananda Raya. Ramananda Raya is his eldest son” (CC, Madhya 10.50). Mahaprabhu embraced
+the Lord, said: “This is Bhavananda Raya. His eldest son is Ramananda Raya.” (CC, Madhya 10.50). Mahaprabhu embraced
 Bhavananda and began to glorify his son:
 
 “‘The glory of one whose son is a jewel like Ramananda cannot be described in this world. You are Pandu himself, and your wife is Kunti; your five wise sons are the five Pandavas.’” (CC, Madhya 10.52–53) <!-- F19 Q4 F20 F21 Q3 -->
@@ -107,7 +106,7 @@ And Bhavananda at once gave the Lord all that he had:
 
 And the Lord replied:
 
-“What hesitation? You are no stranger to Me. Birth after birth you, with your whole family, are My servant.” (CC,
+“Why should I hold back? You are no stranger. Birth after birth you and your family have been My servants.” (CC,
 Madhya 10.58) <!-- F23 F24 F25 -->
 
 Having said this, Mahaprabhu embraced Bhavananda again, placed His feet on the heads of his sons and promised that in a
@@ -130,8 +129,7 @@ sees Jagannatha, honours His prasada and departs for his city (11.8–10). <!-- 
 
 ## The Sons with the Lord
 The word given that day Bhavananda kept. Vaninatha remained with Mahaprabhu and served Him in Nilachala, and once King
-Prataparudra himself said of him: “Vaninatha, Bhavananda's son, has gone to bring maha-prasada from the temple of
-Jagannatha” (CC, Madhya 11.108). Ramananda became the Lord's intimate associate (he has an article of his own). Of the
+Prataparudra himself said of him: “Vaninatha, the son of Bhavananda, is carrying prasada, and five or seven men are going with him” (CC, Madhya 11.108). Ramananda became the Lord's intimate associate (he has an article of his own). Of the
 other brothers the sources say less, but the Lord regarded all five as His own. <!-- F47 F12 -->
 
 Among those who settled with the Lord in Puri, some editions of the “Charitamrita” also name a certain “Bhavananda”
@@ -165,8 +163,7 @@ Lord gives an instruction: not to spend what belongs to the king on themselves. 
 without His visible part. At that very time Harichandana Patra went to the king and told him everything, and the king
 replied: <!-- I2 -->
 
-“I knew nothing of this. I have no need to take his life; I want only my money back. Go there and settle it, so that
-he soon repays the debt. But I do not wish his death.” (CC, Antya 9.49–50)
+“I know nothing of this. Why should I take his life? It is his money I want. Go there and settle everything, so that the money comes in and his life is spared.” (CC, Antya 9.49–50)
 
 Harichandana conveyed the king's will to Bara-Jana, and Gopinatha was at once taken down from the changa (CC, Antya
 9.51). The biographies add that Harichandana was moved to this by the Lord Himself, who dwells in everyone's heart as
@@ -196,8 +193,7 @@ of the debt that the Lord desires — it is their suffering that He cannot bear 
 resolved to remit the debt all the same, Mishra warned him that the Lord would be displeased (CC, Antya 9.101). But the
 king replied: <!-- F52 -->
 
-“I will remit the debt — but do not tell Him that; let Him know that they are naturally dear to me.
-Bhavananda Raya is worthy of my reverence, and his sons are naturally dear to me.” (CC, Antya 9.102–103) <!-- F39 Q6 -->
+“I shall give up the money, but do not tell Him that. Let Him know only this: they are naturally dear to me. Bhavananda Raya is worthy of my honour and esteem (*pujya-garvita*), and I naturally feel affection for his sons.” (CC, Antya 9.102–103) <!-- F39 Q6 -->
 
 He remitted the debt, doubled Gopinatha's salary, restored him to his former post and put a silk cloth on him (CC,
 Antya 9.104–107). And to Kashi Mishra, so that the Lord should not think the debt had been forgiven only for His sake,
@@ -239,8 +235,7 @@ sons. <!-- F42 I3 -->
 
 Then Gopinatha bowed at the Lord's feet — with the silk cloth on his head, the king's gift[^9]:
 
-“The arrears have been remitted and my salary doubled; giving me my charge again, the king has put the silk cloth on
-me. <…> On the changa I meditated on Your feet, and by the power of remembering Your feet I obtained this result.”
+“He remitted the money I owed and doubled my salary; he gave me my post again and dressed me in silk. <…> On the *changa* I meditated on Your feet, and by the power of remembering Your feet I obtained this fruit.”
 (CC, Antya 9.133, 135) <!-- F43 F44 Q8 -->
 
 But Gopinatha understood that worldly gains are only a shadow of the true good that remembrance of the Lord's feet
@@ -254,9 +249,7 @@ worldly is by its very nature unstable (“Amrita-pravaha-bhashya,” Antya 9.13
 
 The Lord answered Gopinatha in words that embraced the whole of Bhavananda's family:
 
-“Whether you engage in great affairs or remain detached and indifferent, birth after birth you five are My own
-servants. But keep one order of Mine: spend nothing of the king's capital. Whatever profit comes after the king's
-capital is paid — spend that on various religious and worldly duties.” (CC, Antya 9.141–143)
+“Whether you manage great worldly affairs or live detached and indifferent to the world, birth after birth you five are My own servants. But keep one order of Mine: do not spend any of the king's principal (*mula-dhana*). After paying the king his principal, spend whatever profit remains on various pious works.” (CC, Antya 9.141–143)
 
 And He forbade them to spend money on wrongdoing, for that ruins both this life and the next (CC, Antya 9.144). Srila
 Bhaktisiddhanta explains these words: one who remembers that he is the Lord's eternal servant is harmed neither by

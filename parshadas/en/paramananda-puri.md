@@ -104,10 +104,7 @@ Paramananda Puri” (Madhya 1.111). <!-- F14 F15 F16 -->
 On parting, Puri said that he was going to Purushottama to see Jagannatha, and from there on to Gauda for a bath in the
 Ganga. Then the Lord asked him:
 
-“‘Please come back again to Jagannatha Puri afterwards. I shall reach Setubandha and soon come there too. I wish to be
-always in your company, and you will show Me mercy if you return to Nilachala.’ Then, with Paramananda Puri’s
-consent, Sri Chaitanya happily continued His journey through the South. So Paramananda Puri set out for Nilachala,
-and Mahaprabhu for Sri Shaila.” (CC, Madhya 9.172–175)
+“‘Please come back to Nilachala. I shall return from Setubandha before long. I wish to stay in your company, so be kind to Me and come to Nilachala.’ Having said this and taken his leave, the Lord went on to the south in great joy. Paramananda Puri then set out for Nilachala, and Mahaprabhu went on and came to Sri Shaila.” (CC, Madhya 9.172–175)
 
 The Lord wished Puri to come to Nilachala and stay there with Him for good. <!-- F17 Q5 -->
 
@@ -247,8 +244,7 @@ the companions with whom the Lord went every morning for the darshan of Jagannat
 And in the conversation with Ramananda Raya, Krishnadasa Kaviraja reveals which rasas the Lord tasted with His
 closest ones:
 
-“Sri Chaitanya relished parental love with Paramananda Puri, friendship with Ramananda Raya, servitude with Govinda
-and others, and the rasa of conjugal love with Gadadhara, Jagadananda and Svarupa Damodara.” (CC, Madhya 2.78)
+“Puri's love was chiefly parental; Ramananda's was pure friendship; Govinda and others had the rasa of pure servitude; and Gadadhara, Jagadananda and Svarupa knew the bliss of the chief rasa.” (CC, Madhya 2.78)
 
 According to one of the biographies, Srila Bhaktisiddhanta explains here that Paramananda Puri, the Uddhava of
 Krishna’s pastimes, loved Mahaprabhu with parental love. Both Puri’s vatsalya and his friendly intimacy with the
@@ -450,10 +446,7 @@ The devotees rushed after Him:
 
 Puri and Bharati arrived later, when the Lord was already coming to Himself:
 
-“Meanwhile Paramananda Puri and Brahmananda Bharati arrived there. Seeing them, Sri Chaitanya tried to pay them
-respects. Coming fully to His senses, He at once offered them prayers, and they embraced Him with love. Then Sri
-Chaitanya asked them: ‘Why have you come so far?’ Paramananda Puri answered Him: ‘To see Your dance.’ Mahaprabhu was
-greatly embarrassed on hearing these words.” (CC, Antya 14.113–116) <!-- F56 Q12 -->
+“Meanwhile the two, Puri and Bharati, arrived. Seeing them both, Mahaprabhu was filled with reverence. When He came fully into external consciousness, the Lord offered His respects to them both, and the two embraced Mahaprabhu with love. The Lord said, ‘Why have you two come so far?’ Puri Gosani said, ‘To see Your dancing.’ At Puri's words the Lord was embarrassed.” (CC, Antya 14.113–116) <!-- F56 Q12 -->
 
 ## On the Way to Gauda, and in Other Traditions
 When the Lord set out from Puri for Gauda, Paramananda Puri went with Him. Karnapura in his mahakavya tells of this

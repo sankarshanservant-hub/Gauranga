@@ -336,8 +336,7 @@ Damodara's best-known vakya-danda, which the “Charitamrita” promised to tell
 the Lord rejected Junior Haridasa. In Purushottama there lived a boy, the son of a deceased brahmana of Orissa —
 well-mannered and very handsome. Every day he came to the Lord, bowed to Him and talked with Him at length, holding Him
 dearer than his own life, and the Lord was kind to him. Damodara could not accept this. Again and again he forbade the
-boy to come, but the boy could not live a day without seeing the Lord: “children are always drawn to where they are
-given love” (CC, Antya 3.7). And one day, when the boy had left, Damodara could restrain himself no longer:
+boy to come, but the boy could not live a day without seeing the Lord: “a child goes where he is loved — such is the way of children” (CC, Antya 3.7). And one day, when the boy had left, Damodara could restrain himself no longer:
 
 “He said to the Lord, ‘When it comes to instructing others, You are a pandita, and everyone hails You, “Gosani! Gosani!” Now we shall see what kind of Gosani You are.’” (CC, Antya 3.11)
 
@@ -346,8 +345,7 @@ given love” (CC, Antya 3.7). And one day, when the boy had left, Damodara coul
 He said it by hint, as if of someone else (*anyopadeshe*). The Lord asked, “What are you saying, Damodara?” — and he
 explained plainly:
 
-“Damodara Pandita replied: ‘You are the independent Lord. You act as You Yourself wish, and no one can forbid You. But
-if people begin to discuss Your behaviour, how will You stop them?’” (CC, Antya 3.13–14)
+“Damodara said, ‘You are the independent Lord. You behave as You please — who can say anything to You? But can You stop the mouths of a talkative world?’” (CC, Antya 3.13–14)
 
 “You are a pandita — why do You not consider this? Why do You show such affection to the son of a widowed brahmani?” (CC, Antya 3.15)
 
@@ -395,9 +393,7 @@ ate everything; wiping away her tears, she saw the empty tray and thought she ha
 separation decided she had not yet offered — and, finding the pots in the kitchen full, offered again (CC, Antya
 3.27–37). And the Lord concluded:
 
-“‘Thus again and again I ate all the offerings you made Me, attracted by your pure love. I live in Jagannatha Puri only
-in obedience to your instruction. Yet the power of your pure love draws Me so irresistibly that I am unable to
-resist.’” (CC, Antya 3.38–39) <!-- F34 Q10 -->
+“‘In this way I eat again and again; your pure love draws Me. It is by your order that I stay in Nilachala, yet by the power of your love you bring Me to your side.’” (CC, Antya 3.38–39) <!-- F34 Q10 -->
 
 The Lord gave Damodara Jagannatha's prasada — separately for His mother and for all the Vaishnavas — and he carried out
 exactly all that he had been told:

@@ -260,8 +260,7 @@ Govinda Maharaj began with a verse of Raghupati Upadhyaya, which Krishnadasa Kav
 *go-pati-tanayā-kuñje*  
 *gopa-vadhūṭī-viṭaṁ brahma*
 
-“To whom shall I tell it, and who will believe me, that the Supreme Absolute Truth is the beloved of the young
-cowherd girls in the groves by the Yamuna?” (CC, Madhya 19.98) <!-- F31 F32 Q2 -->
+“To whom can I tell it, and who would believe it now, that in the groves of the daughter of the Sun, the Yamuna, Brahman is the lover of the young cowherd girls?” (CC, Madhya 19.98) <!-- F31 F32 Q2 -->
 
 He applied this verse to the Swami himself: “Who will believe me that Srila Swami Maharaj, whom we knew earlier as
 Abhay Babu, a regular participant in the programmes of the Sri Gaudiya Math and a householder occupied with family

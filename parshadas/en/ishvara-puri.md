@@ -100,8 +100,7 @@ teaching. <!-- F20 F21 Q2 I2 -->
 Having blessed his disciple, Madhavendra left his body repeating a verse that holds the whole thirst of separation
 from Krishna:
 
-“O merciful Lord, ever kind to the afflicted, O master of Mathura, when shall I see You again? In separation from You
-my heart is breaking. O Beloved! What am I to do?” (CC, Antya 8.32)
+“O Lord, melting with compassion for the wretched! O Lord of Mathura, when shall I see You? My heart, stricken at not seeing You, has lost all rest. O Beloved, what am I to do?” (CC, Antya 8.32)
 
 This verse, “ayi dīna-dayārdra nātha,” has never since left the lips of pure devotees. The “Chaitanya-bhagavata” sums
 it up: “Sri Madhavendra Puri joyfully passed on the treasure of ecstatic love to his disciple — Sri Ishvara Puri” (CB,
@@ -268,8 +267,7 @@ servant; both served their guru as long as he remained in this world.
 “At the time of his departure both received his order, came to Nilachala and met the Lord” (CC, Adi 10.139) <!-- F59 F60 Q12 -->
 
 Govinda set out at once and found the Lord already returned from His journey through the South; Kashishvara came
-later, after first visiting the holy places. Govinda said: “‘I am the servant of Ishvara Puri, and my name is Govinda. On Puri Gosani's order I have come to You. At the time of his passing, Gosani ordered me, “Go to Krishna Chaitanya and serve Him.”’” (CC, Madhya 10.132–133). The Lord replied: “Sri Ishvara Puri always treated Me with parental love. Therefore in his
-sending you to Me I see his causeless mercy” (CC, Madhya 10.135). <!-- F61 Q13 -->
+later, after first visiting the holy places. Govinda said: “‘I am the servant of Ishvara Puri, and my name is Govinda. On Puri Gosani's order I have come to You. At the time of his passing, Gosani ordered me, “Go to Krishna Chaitanya and serve Him.”’” (CC, Madhya 10.132–133). The Lord replied: “Purishvara has always had a father's affection for Me; out of mercy he has sent you to Me” (CC, Madhya 10.135). <!-- F61 Q13 -->
 
 Yet the Lord hesitated to accept their service: they were His godbrothers, servants of His guru, and themselves worthy
 of respect. Sarvabhauma persuaded Him that a guru's order must not be broken, and the Lord, taking into account

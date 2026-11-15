@@ -89,8 +89,7 @@ served His feet for two months. <!-- F22 Q1 -->
 
 The boy washed the dishes after the Lord's meal, honoured His remnants and massaged His feet:
 
-“When Mahaprabhu was resting after His meal, Tapana Mishra's son named Raghu began to massage His feet. Then Tapana
-Mishra with his household honoured the remnants of the Lord's meal.” (CC, Madhya 17.90–91) <!-- F23 Q4 -->
+“After His meal Mahaprabhu lay down to rest, and Mishra's son Raghu massaged His feet. Mishra and all his family ate the Lord's remnants.” (CC, Madhya 17.90–91) <!-- F23 Q4 -->
 
 Having delivered the people of Kashi, the Lord set out for Nilachala. Tapana and Raghunatha longed to go with Him, but
 He consoled them and left them in Kashi. The boy wept, clasping His feet; the Lord took him on His lap and said: “Serve
@@ -122,9 +121,7 @@ given up everything and was going to Jagannatha. Meeting Raghunatha, Ramadasa ca
 massaged his feet. Raghunatha was embarrassed:
 
 “O Ramadasa! You are a theologian and a great devotee of God, and you have attained a high position in the world. To
-walk with me, you have no need at all to serve me.” Ramadasa answered: “I am a shudra, a sinner. Service to brahmanas is
-my foremost religious duty. Please, do not let my service trouble you in the least. I am your servant, and this gives my
-heart great joy.” (CC, Antya 13.96–98)[^4] <!-- F34 F35 -->
+walk with me, you have no need at all to serve me.” Ramadasa answered: “I am a lowly shudra! To serve a brahmana is my own dharma. Do not feel uneasy: I am your servant. When I serve you, my heart is filled with joy.” (CC, Antya 13.96–98)[^4] <!-- F34 F35 -->
 
 In Puri Raghunatha prostrated himself at Mahaprabhu's feet. The Lord, calling him by name, lifted him up and embraced
 him, and Raghunatha conveyed to Him the obeisances of Tapana Mishra and Chandrashekhara. The Lord asked after them, after
@@ -157,9 +154,7 @@ Raghunatha had not entered family life and did not wish to. The Lord told him to
 all that the thirst for sense pleasure drives one to — overeating, excessive endeavour, greed (atyahara, prayasa,
 laulya) and everything else that hinders bhakti. <!-- F47 -->
 
-“Eight months passed. Raghunatha Bhatta made ready to go home, and Sri Chaitanya, taking leave of him, forbade him to
-marry. Sri Chaitanya said to Raghunatha Bhatta: ‘On returning home, go on serving your aged parents, and study the
-“Srimad-Bhagavatam” under the guidance of a genuine Vaishnava.’” (CC, Antya 13.112–113)
+“When he had stayed eight months, the Lord bade the Bhatta farewell and forbade him, saying, ‘Do not marry. Go and serve your aged mother and father, and study the *Bhagavata* under a Vaishnava.’” (CC, Antya 13.112–113)
 
 His parents were Vaishnavas and could not be neglected. And the “Bhagavata,” the true commentary on the Vedanta, which
 leads to Krishna's pleasure, the Lord told him to study with a pure devotee who knew it. When his parents were gone, he
@@ -210,9 +205,7 @@ wife, the Lord long praised their devotion. As before, Raghunatha stayed with Hi
 
 Then the Lord said to him:
 
-“‘O Raghunatha Bhatta! I wish you to go and live in Vrindavana under the guidance of Rupa and Sanatana Gosvamis. Always
-chant the holy name of Krishna and study the “Srimad-Bhagavatam.” And very soon Lord Krishna Himself will grant you His
-special mercy.’” (CC, Antya 13.120–121)
+“‘Raghunatha, by My order go to Vrindavana. Go there and stay with Rupa and Sanatana. Read the *Bhagavata* and always take the name of Krishna. Very soon Krishna, Bhagavan, will bestow His mercy on you.’” (CC, Antya 13.120–121)
 
 He was to follow in Rupa's footsteps and there, under the guidance of Rupa and Sanatana, go on studying and expounding
 the “Bhagavata” and other scriptures. By one account the Lord added: “There is much to be done in Vrindavana. By My

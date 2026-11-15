@@ -46,7 +46,7 @@ Vaishnavas all over the world as supremely auspicious, is Gaura-tritiya of the m
 ## Lineage
 Out of deep humility Rupa and Sanatana called themselves men of low birth. Sanatana says to Mahaprabhu:
 
-“I took birth in a truly godless family, in which sin and the breaking of God's commandments were an everyday matter”.
+“I was born in a low family; every kind of irreligion and wrongdoing was the custom of my family”.
 (CC, Antya 4.28)
 
 And in Ramakeli the brothers confessed to the Lord:
@@ -127,17 +127,7 @@ And in his list of the branches of the tree of bhakti Krishnadasa Kaviraja names
 
 What kind of devotee Anupama was, Sanatana himself tells Mahaprabhu:
 
-“My younger brother Anupama was from his very childhood a great devotee of Ramachandra. He worshipped Him with
-determination and devotion in his heart. Day and night he chanted the holy name of Rama and meditated on His eternal
-form, and constantly heard and recounted the narratives of the sacred «Ramayana». <…>
-
-After these words he could not sleep all night, thinking: «How can I give up the lotus feet of Lord Ramachandra?» He
-wept the whole night through, and in the morning came to us with a humble request: «I have sold my head, offering it to
-the lotus feet of Ramachandra. I cannot take it back. The very thought of it brings me unbearable pain. Do not be so
-strict with me. Please show your mercy. Allow me, life after life, to serve the lotus feet of Ramachandra. I have no
-strength to reject the service of Ramachandra's lotus feet. The very thought of it tears my heart to pieces». Hearing
-these words, we embraced him and began to praise him: «You are a true saint, for your devotion to God is firm and
-unshakeable»”. (CC, Antya 4.30–31, 38–43)
+“From his childhood my brother Anupama worshipped Raghunatha with a firm mind. Night and day he chanted the name of Raghunatha and meditated on Him; incessantly he heard the *Ramayana* and sang it. <…> Having said this, he reflected through the night: ‘How shall I give up the feet of Raghunatha?’ He stayed awake the whole night, weeping, and in the morning he submitted to the two of us: ‘I have sold my head at the lotus feet of Raghunatha. I cannot take my head back; it gives me great pain. Be merciful, both of you, and give me leave to serve the feet of Raghunatha birth after birth. I cannot give up the lotus feet of Raghunatha; at the very thought of giving them up, my heart breaks.’ Then the two of us embraced him and praised him, saying, ‘Excellent! Your devotion is firm.’”. (CC, Antya 4.30–31, 38–43)
 
 Anupama lived inseparably with his brothers and with them heard talks about Krishna and the “Bhagavatam”. The brothers
 wanted to test him and urged him to worship the all-attractive Krishna together with them; out of respect for them he
@@ -231,13 +221,7 @@ on Sarvabhauma, and he passed this task on to Jiva through one of his disciples.
 From Kashi Jiva came to Vrindavana, took full shelter of Rupa and Sanatana, studied with them the whole “Bhagavata” and the
 shastras of bhakti, and from then on never left Vraja-mandala. Krishnadasa Kaviraja writes:
 
-“The son of Sri Vallabha (Anupama), the younger brother of Rupa Gosvami, was the greatest knower of the sacred scriptures.
-His name was Sri Jiva Gosvami. Sri Jiva Gosvami came to Vrindavana, completely leaving his worldly life. He also wrote many
-books on pure devotion to God and helped to spread them. He wrote the book “Bhagavat-sandarbha”, in which he revealed the
-essence of all the scriptures. In it we find the deepest explanation of the nature of God and of loving service to Him.
-He also wrote the “Gopala-champu”, in which he explained the nature of the loving pastimes of Sri Sri Radha-Krishna in
-Vrindavana. In the “Shat-sandarbha” he set out all the highest truths about divine love for Krishna. In his works one can
-find more than four hundred thousand Sanskrit verses”. (CC, Antya 4.227–231) <!-- F66 F67 -->
+“His younger brother was Sri Vallabha, called Anupama, whose son was the great scholar named Sri Jiva. Giving up everything, he later came to Vrindavana and propagated many scriptures of bhakti. He wrote the *Bhagavata-sandarbha*, the essence of all books, where we find the conclusions of the *Bhagavatam* in all their depth. He also wrote the *Gopala-champu* and many other books, in which he revealed the essence of the rasa of Vraja's love-pastimes. In the *Shat-sandarbha* he revealed the truth of love for Krishna. He composed four hundred thousand *granthas* in all”. (CC, Antya 4.227–231) <!-- F66 F67 -->
 
 Rupa and Sanatana were so pleased with Jiva's transcendental learning and his inborn grasp of the conclusions of bhakti
 that they even gave him their own books to correct:

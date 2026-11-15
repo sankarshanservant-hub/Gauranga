@@ -270,8 +270,7 @@ Vidyanidhi was among them:
 One of the biographies remarks that Krishnadasa Kaviraja names him among the leaders of the pilgrims. And listing those
 who set out from Gauda for Nilachala in the third year, the “Charitamrita” says:
 
-“Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and Govinda with his two brothers
-set out on the road with their travelling bags.” (CC, Madhya 16.16) <!-- F52 Q10 Q19 -->
+“Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari, and Govinda with his two brothers set out. Raghava Pandita packed his bags (*jhali*) for the journey.” (CC, Madhya 16.16) <!-- F52 Q10 Q19 -->
 
 The “Chaitanya-bhagavata,” listing the travellers, says: “Pundarika Vidyanidhi too went with them in great joy. Remembering
 him, the Lord wept aloud” (Antya 8.10); Murari Gupta also names him among them (“Pundarika Vidyanidhi, the treasury

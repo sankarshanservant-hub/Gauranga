@@ -266,9 +266,7 @@ and was so absorbed in this bliss that He paid no heed at all to His own nature[
 Year after year Gangadasa came from Gauda to Puri together with the other Vaishnavas; the “Charitamrita,” listing
 those who went there in one of these years, names him too:
 
-“Together with everyone there also went Vasudeva Datta, Murari Gupta, Gangadasa, Shrimana Sena, Shriman Pandita,
-Akinchana Krishnadasa, Murari, Garuda Pandita, Buddhimanta Khan, Sanjaya Purushottama, Bhagavan Pandita, Shuklambara
-Brahmachari and Nrisimhananda Brahmachari.” (CC, Antya 10.9–11)
+“Vasudeva Datta, Murari Gupta, Gangadasa, Shriman Sena, Shriman Pandita, Akinchana Krishnadasa, Murari, Garuda Pandita, Buddhimanta Khan, Sanjaya Purushottama, Bhagavan Pandita, Shuklambara, Nrisimhananda and all the others set out.” (CC, Antya 10.9–11)
 
 The “Chaitanya-bhagavata” says the same: when the time of the Ratha-yatra drew near, “joyfully set out the pandit
 Gangadasa, the remembrance of whom destroys the bonds of karma” (Antya 8.9), and Murari Gupta calls him “the pandita

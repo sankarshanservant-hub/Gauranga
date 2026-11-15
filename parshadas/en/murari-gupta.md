@@ -11,7 +11,7 @@ was in the Lord's earlier pastimes:
 
 So all the original sources see him. Lochana Dasa, at the opening of his “Chaitanya-mangala,” glorifies Murari as
 Hanuman; the Lord Himself tells him, “I am Ramachandra, and you are Hanuman” (CB, Madhya 10.14) — and many years later,
-in Puri, “You are the servant of Sri Ramachandra, Hanuman himself” (CC, Madhya 15.156). And Vrindavana Dasa says that
+in Puri, “You are Hanuman himself, the servant of Sri Rama” (CC, Madhya 15.156). And Vrindavana Dasa says that
 once Murari received the Lord's mercy “which before only Hanuman had been granted” (CB, Madhya 20.52). <!-- F3 Q1 -->
 
 An eternal servant of Rama, in Gaura's pastimes too he remained the servant of his Ramachandra, and this fidelity, as
@@ -28,8 +28,7 @@ Krishnadasa Kaviraja names him more than once among the very closest. Murari is 
 “are learned men of the highest greatness, and service to Chaitanya makes every one of them mad” (CC, Adi 6.48–49);
 together with Svarupa Damodara he is praised as one of the two moons that “have risen and driven all darkness away”
 (Adi 13.4); the author places his feet on his own head beside those of Advaita, Nityananda, Shrivasa and Gadadhara
-(Adi 4.227–228). And the Lord Himself, speaking in Puri with Vallabha Bhatta, recalls: “Kashishvara, Mukunda, Vasudeva,
-Murari and many other Vaishnavas were born in the land of Bengal” (CC, Antya 7.49). <!-- F7 Q24 -->
+(Adi 4.227–228). And the Lord Himself, speaking in Puri with Vallabha Bhatta, recalls: “Kashishvara, Mukunda, Vasudeva, Murari and all the other devotees who descended in Gauda…” (CC, Antya 7.49). <!-- F7 Q24 -->
 
 The original sources call him by various names. The Lord addresses him affectionately simply as “Gupta” (CC, Madhya
 15.138, 15.153; CB, Madhya 3.44; Antya 4.317, 4.342), and once calls him “Murari Pandita” (CB, Madhya 1.70). In his own
@@ -642,18 +641,12 @@ You in all things. I will do whatever You tell me” (15.143–144). <!-- F88 --
 
 In the morning Murari came to the Lord, fell at His feet and, sobbing, implored Him:
 
-“‘I have sold my whole self to the feet of Raghunatha. The thought of leaving Him gives me unbearable pain, as if I were
-trying to cut off my own head. I can neither give up the service of Sri Ramachandra's lotus feet nor disobey You. What
-am I to do now? O merciful Master! Be merciful to me and let me die right now, and so put an end to all my doubts.’”
+“‘I have sold my head at the feet of Raghunatha. I cannot take it back, and my heart is in anguish. I cannot give up the feet of Sri Raghunatha, yet that means breaking Your order. What am I to do? So, O merciful Lord, show me this mercy: let me die before You, and let my dilemma end.’”
 (CC, Madhya 15.149–151) <!-- F88 F89 Q15 -->
 
 These words, the Lord said, filled His heart with great joy; He raised Murari and tenderly embraced him (15.152):
 
-“I said to him: ‘O Gupta! How great you are! You are so deeply absorbed in the worship of your Lord that even My words
-could not move you. Such is a servant's true love for the feet of the Lord who dwells eternally in his heart. Even if
-the Lord should wish to abandon His servant, the servant will never give up the service of His feet. And to test your
-faith in your Lord I again and again tried to change your worship of Him. You are the servant of Sri Ramachandra,
-Hanuman himself. How could you give up the worship of His lotus feet?’” (CC, Madhya 15.153–156)
+“‘Excellent, excellent, Gupta! Your worship is firm indeed: even My words did not shake your mind. This is the love for the Lord's feet that I want in a servant: even if the Lord tries to make him leave them, he cannot let go of those feet. It was to learn how steadfast you are that I urged you again and again. You are Hanuman himself, the servant of Sri Rama. Why would you ever give up His lotus feet?’” (CC, Madhya 15.153–156)
 
 “Murari Gupta is as dear to Me as My own life,” the Lord concluded (15.157). <!-- F90 -->
 
@@ -714,16 +707,14 @@ At the Ratha-yatra Murari sang in the kirtan Mahaprabhu led before Jagannatha's 
 
 “He formed another group with Mukunda as the leader, in which Vasudeva, Gopinatha and Murari sang, with two more, Shrikanta and Vallabha Sena; and Haridasa Thakura danced there.” (CC, Madhya 13.40–41)
 
-And in the water-sports in the Indradyumna lake “Vidyanidhi and Svarupa Damodara met in a water battle, and so did
-Murari Gupta and Vasudeva Datta” (CC, Madhya 14.80); Vrindavana Dasa writes that in the waters of Narendra Mukunda and
+And in the water-sports in the Indradyumna lake “Vidyanidhi played in the water with Svarupa, and the two, Gupta and Datta, played together” (CC, Madhya 14.80); Vrindavana Dasa writes that in the waters of Narendra Mukunda and
 Murari fought each other (CB, Antya 8). <!-- F83 -->
 
 From then on Murari went to Puri every year with the other devotees and spent about four months with the Lord:
 
 “Advaita, Nityananda, Mukunda, Srivasa, Vidyanidhi, Vasudeva, Murari and all His other servants came together every year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.” (CC, Madhya 1.255–256) <!-- F81 Q18 -->
 
-In the third year “Acharyaratna, Vidyanidhi, Shrivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and Govinda with
-his two brothers set out with their travelling bags” (CC, Madhya 16.16); Krishnadasa Kaviraja names him also among
+In the third year “Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari, and Govinda with his two brothers set out. Raghava Pandita packed his bags (*jhali*) for the journey” (CC, Madhya 16.16); Krishnadasa Kaviraja names him also among
 those going to Puri in later years (Antya 10.9–11; Antya 12). <!-- F84 Q26 -->
 
 Every devotee tried to feed the Lord. Murari, together with Vasudeva Datta and Buddhimanta Khan, sent Him many dishes

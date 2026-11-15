@@ -210,7 +210,7 @@ after His sannyasa. At Remuna, in what is now Baleshvar district, before the Dei
 told His companions about Madhavendra as He had heard it from His guru Ishvara Puri — and explained in passing how
 Gopinatha came by that name:
 
-“In days of old this Deity stole sweet rice for Madhavendra Puri, and so became famous as ‘Kshira-chora Hari.’” (CC,
+“Long ago He stole sweet rice for Madhava Puri, and so He came to be called ‘Kshira-chora Hari’, Hari the thief of sweet rice.” (CC,
 Madhya 4.20) <!-- F60 -->
 
 Coming to Vraja, Madhavendra, intoxicated with love, circled Govardhana Hill, bathed in Govinda-kunda and towards
@@ -362,7 +362,7 @@ Having finished this story, Mahaprabhu asked Nityananda:
 
 “Won over by his love, Krishna appeared, and by accepting his service He delivered the world.” (CC, Madhya 4.173)
 
-“For his sake Sri Gopinatha stole sweet rice, becoming known after that as the Deity ‘Kshira-chora Gopinatha.’” (CC,
+“For his sake Gopinatha stole sweet rice, and so He came to be called Kshira-chora, ‘the thief of sweet rice’.” (CC,
 Madhya 4.174)
 
 And the Lord stressed further that Madhavendra had gone the whole way without a second companion:
@@ -480,9 +480,7 @@ Antya 8.18)
 
 “‘You are full of the bliss of Brahman — remember it! You are a knower of Brahman: why do you weep?’” (CC, Antya 8.19) <!-- F141 -->
 
-Madhavendra grew angry: “Away, away, you sinner! I am dying of grief that I have not obtained Krishna's mercy and have
-not reached Mathura, and you have come to add to my torment. Do not show me your face, go wherever you like: if I die
-looking at you, an evil destination awaits me. This fool is teaching me about Brahman!” (CC, Antya 8.20–23).
+Madhavendra grew angry: “Away, away, you sinner! <…> I have not attained Krishna's mercy, I have not attained Mathura. I am leaving this world in my own grief, and now this one has come to add to my burning pain! Never show me your face again; go wherever you like! If I leave this world while looking at you, I shall come to an evil end. I am leaving this world in my own grief, not having attained Krishna, and now this wretched fool would teach me about Brahman!” (CC, Antya 8.20–23).
 <!-- F142 -->
 
 “Sri Madhavendrapada thus disregarded him, and through that offence worldly desires (*vasana*) were born in Ramachandra Puri.” (CC, Antya 8.24)
@@ -526,8 +524,7 @@ verse on his lips:
 *hṛdayaṁ tvad-aloka-kātaraṁ*  
 *dayita bhrāmyati kiṁ karomy aham*
 
-“O Lord, whose heart melts with pity for the wretched! O Lord of Mathura, when shall I see You? Not seeing You, my
-heart wanders in anguish. Beloved, what am I to do?” (CC, Antya 8.32) <!-- F28 F148 -->
+“O Lord, melting with compassion for the wretched! O Lord of Mathura, when shall I see You? My heart, stricken at not seeing You, has lost all rest. O Beloved, what am I to do?” (CC, Antya 8.32) <!-- F28 F148 -->
 
 “This verse teaches love for Krishna — the special feeling (*bhava-vishesha*) a devotee knows in separation from Him.” (CC, Antya 8.33)
 

@@ -65,18 +65,13 @@ Puri-ishvara,” — and Govinda himself, drawing near, thinks that he cannot gr
 Sarvabhauma asks whether he is Ishvara Puri's servant, he answers: “Of course.” <!-- F65 --> And in the “Charitamrita”
 the Lord answers the newcomer:
 
-“Sri Ishvara Puri always regarded Me with a father's love. Therefore in his sending you to Me I see his causeless
-mercy.” (CC, Madhya 10.135)
+“Purishvara has always had a father's affection for Me; out of mercy he has sent you to Me.” (CC, Madhya 10.135)
 
 In Karnapura's drama, too, the Lord says that Ishvara Puri's love for Him never changes. <!-- F9 F10 Q2 -->
 
 Then Sarvabhauma asked how Ishvara Puri could have a servant from a shudra family. The Lord answered:
 
-“‘Like the Supreme Lord Himself, Ishvara Puri is fully independent; therefore his mercy is not bound by the rules and
-injunctions of the Vedas. Like the Supreme Lord Himself, Ishvara Puri does not confine his mercy to any caste or
-ancient lineage. Vidura was a shudra on his mother's side, yet Krishna took food in his house. Krishna's mercy is
-moved by love alone; only pure love can draw the mercy of the fully independent Lord. A relationship of love brings
-millions of times more happiness than one steeped in fear and reverence.’” (CC, Madhya 10.137–140)
+“‘Ishvara is supremely independent, and Ishvara's mercy is not subject to the injunctions of the Vedas. The mercy of Ishvara takes no account of caste or family: Krishna ate in the house of Vidura. Sri Krishna's mercy depends on nothing but loving service; won over by love, He acts with complete freedom. For Him whose very name brings supreme bliss to those who hear it, loving dealings give millions of times more joy than reverential formality.’” (CC, Madhya 10.137–140)
 
 In Karnapura's drama the Lord answers in the same way: Hari is independent, and His mercy looks neither at caste nor at
 lineage; rejecting the food of Suyodhana, He gladly accepted the food of Vidura. The mercy of the Lord and of His pure
@@ -293,10 +288,7 @@ it, saying: “I eat your broken rice, and I will not even look at the nectar of
 16.124–127). The Lord is ready to repay His devotees for all they bring Him. Of this the “Charitamrita” tells in
 the same tenth chapter of the Antya-lila. <!-- F33 I2 Q7 -->
 
-“When the Vaishnavas first arrived from Bengal in Jagannatha Puri, each of them wanted to treat Sri Chaitanya
-Mahaprabhu with something of his own. Bringing some prasada, each gave it to Govinda and said: ‘Let Sri Chaitanya be sure
-to taste this offering of mine.’ <…> Govinda brought this prasada to Sri Chaitanya, telling who had sent what. As a rule
-the Lord did not eat those dishes, but simply asked that they be kept for later.” (CC, Antya 10.107–110)
+“Earlier, when the devotees had come from Gauda, every one of them wished to feed the Lord something. Each would bring some prasada and give it to Govinda, saying, ‘See that the Gosani eats this without fail.’ <…> Govinda would tell Him, ‘So-and-so has given this,’ but the Lord would say, ‘Put it aside,’ and would not eat.” (CC, Antya 10.107–110)
 
 So much food accumulated that it could have fed a hundred people. And the devotees kept asking Govinda whether the Lord
 had liked their offering:
@@ -336,11 +328,7 @@ everywhere. Once the Lord was going to the temple of Yameshvara and heard a deva
 Jayadeva's “Gita-govinda.” Absorbed in Radha's feelings, He was not aware who was singing and, hearing only a song about
 Krishna, rushed straight toward the sound through the thickets:
 
-“The Lord did not notice the thorns piercing His body mercilessly. Behind Him ran Govinda at full speed. Running fast,
-Sri Chaitanya had almost reached the singing girl, but Govinda caught Him firmly in his arms and cried: ‘It is a woman
-singing!’ Hearing the word ‘woman,’ Sri Chaitanya came to Himself and turned back to His former path. Then Sri Chaitanya
-said: ‘O My Govinda! Today you have saved My life, for to touch a woman would have been like death to Me. From now on I am
-in your debt, and I do not know how I can ever repay it.’” (CC, Antya 13.82–86)
+“Thorns pierced His body, but He knew nothing of it! In great haste Govinda ran after Him. The Lord was running on, and the woman was only a little way off, when Govinda caught Him in his arms, crying, ‘It is a woman singing!’ Hearing the word ‘woman,’ the Lord came back to external consciousness and returned the way He had come. The Lord said, ‘Govinda, today you have saved My life. Had I touched a woman, it would have been My death. I shall never be able to repay this debt to you.’” (CC, Antya 13.82–86)
 
 But Govinda answered that it was not he who had saved the Lord, but Lord Jagannatha. And then:
 

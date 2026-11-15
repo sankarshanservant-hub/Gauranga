@@ -257,7 +257,7 @@ most honoured brahmana, He gave to Haridasa. The mahaprasada of the shraddha is 
 “Charitamrita” says that Advaita so revered Haridasa that He let him be the first to taste the remnants of the memorial
 offerings in honour of His father (Adi 10.44). Haridasa was afraid, and Advaita answered:
 
-“‘Do not fear, dear Haridasa. I shall certainly act in full accordance with the injunctions of the scriptures.’” (CC,
+“‘Do not be afraid. I shall act only as the scriptures direct.’” (CC,
 Antya 3.219)
 
 “‘When you eat, it is as good as feeding ten million brahmanas.’ Saying this, He fed him the *shraddha-patra*, the food of the day of *shraddha*.” (CC, Antya 3.220)[^14]
@@ -750,8 +750,7 @@ that time the Bengalis came to Him every year:
 
 “Every year the devotees of Gauda came there and stayed four months in the Lord's company.” (CC, Madhya 1.250)
 
-“The other devotees, headed by Advaita, Nityananda, Vidyanidhi, Mukunda, Vasudeva, Murari and Srivasa, came to Sri
-Chaitanya every year and stayed four months in Nilachala.” (CC, Madhya 1.255)
+“Advaita, Nityananda, Mukunda, Srivasa, Vidyanidhi, Vasudeva, Murari and all His other servants came together every year and stayed four months.” (CC, Madhya 1.255)
 
 And it was always Advaita who led them:
 
@@ -939,7 +938,7 @@ that year:
 
 “‘This year I shall go there Myself, and there I shall meet everyone — Advaita and all the others.’” (CC, Antya 2.41)
 
-“Advaita Acharya was already ready to set out, but on hearing this news He stayed at home.” (CC, Antya 2.45)
+“Advaita Acharya, who had been setting out, stayed where He was.” (CC, Antya 2.45)
 
 The month of Pausha passed, but the Lord did not come (Antya 2.46–47). <!-- F150 -->
 
@@ -948,7 +947,7 @@ being washed, the Lord told him to dance, and the boy fell unconscious in prema 
 His lap; together with the devotees He loudly chanted the mantra to Nrisimha and sprinkled His son with water, but the
 boy did not come to himself, and all wept. Then:
 
-“Mahaprabhu placed His hand on his chest and loudly said: ‘Gopala, get up!’” (CC, Madhya 12.148)
+“Mahaprabhu placed His hand on the boy's chest and called out loudly, ‘Rise up, Gopala!’” (CC, Madhya 12.148)
 
 “As soon as he heard this, Gopala regained consciousness, and all the devotees danced, calling out ‘Hari!’” (CC, Madhya
 12.149)

@@ -304,9 +304,7 @@ destined to become his flock. <!-- F68 F69 -->
 Soon he registered the International Society for Krishna Consciousness — ISKCON — of which he had dreamt while still
 in India. The words “Krishna consciousness” are his rendering of the phrase “krishna-bhakti-rasa-bhavita” from Srila
 Rupa Gosvami’s “Padyavali”. Krishnadasa Kaviraja quotes this verse as well: “krishna-bhakti-rasa-bhavita matih /
-kriyatam yadi kuto ’pi labhyate…” — “The sweetness of bhakti, in the unfolding of an individual relationship with
-Krishna, cannot be attained even by performing pious deeds for millions of births in a row. Only one thing is
-needed — an ardent desire to obtain without delay such unalloyed devotion, wherever it may be manifest.” (CC, Madhya
+kriyatam yadi kuto ’pi labhyate…” — “A mind imbued with the rasa of devotion to Krishna — buy it at once, if it can be found anywhere! Its only price is eagerness (*laulya*); it cannot be had for the pious deeds of ten million births.” (CC, Madhya
 8.70) Thus Mahaprabhu’s living teaching received the name by which the whole world came to know it. The premises the
 Swami rented with the help of his first followers came to be called the “temple”. <!-- F70 Q4 F7 -->
 
@@ -501,9 +499,7 @@ the Swami recalled Allahabad in 1930 and the years when Sridhar Maharaj had live
 above). <!-- F99 -->
 
 Srila Govinda Maharaj spoke that day at the request of Sridhar Maharaj, who was unwell. He began with the verse of
-Raghupati Upadhyaya “kam prati kathayitum ishe…”, which Krishnadasa Kaviraja quotes as well: “To whom shall I tell it,
-and who will believe me, that the Supreme Absolute Truth is the beloved of the young cowherd maidens in the groves by
-the Yamuna?” (CC, Madhya 19.98) This verse he applied to the Swami: “Who will believe me that Srila Swami
+Raghupati Upadhyaya “kam prati kathayitum ishe…”, which Krishnadasa Kaviraja quotes as well: “To whom can I tell it, and who would believe it now, that in the groves of the daughter of the Sun, the Yamuna, Brahman is the lover of the young cowherd girls?” (CC, Madhya 19.98) This verse he applied to the Swami: “Who will believe me that Srila Swami
 Maharaj, whom we formerly knew as Abhay Babu, a regular participant in the programmes of the Sri Gaudiya Math and a
 householder occupied with family cares and business affairs, has now become a world acharya, known everywhere? He has
 spread Krishna consciousness over the whole planet, accomplishing the most impossible of all impossible

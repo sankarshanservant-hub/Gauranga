@@ -303,13 +303,7 @@ could I be insolent to Him? I will bear whatever He says, and I trust that He wi
 one who loves, he understood, is to accept from the beloved Lord any severity, for that too is affection. Arriving, he
 fell weeping at the Lord's feet:
 
-“Sri Chaitanya embraced him with a smile and tenderly addressed him so that others too could hear His words: ‘I tried to
-make you angry, but you always kept your composure. You bore everything and did not say even one angry word to Me in
-reply. However much I tried, I could not unsettle you. You have bought Me wholly and completely with your warmth of heart
-and simplicity.’ It is impossible to describe all the greatness of Gadadhara Pandita's unalloyed love. Therefore Sri
-Chaitanya Mahaprabhu is also known as ‘Gadadhara-prananatha’ (the Lord of Gadadhara's heart). No one can describe Sri
-Chaitanya's mercy to Gadadhara Pandita either. Therefore Sri Chaitanya is sometimes known as ‘Gadaira-Gauranga’ (the
-Gauranga who belongs to Gadadhara).” (CC, Antya 7.156–160) <!-- F66 Q5 I4 -->
+“Smiling slightly, the Lord embraced him and spoke sweet words for all to hear: ‘I showed you anger, but you were not moved. You said nothing in anger; you bore it all. My gestures did not move your mind. By your firm, simple-hearted love you have bought Me.’ The marks of the Pandita's *bhava* cannot be described; by them the Lord came to be named ‘Gadadhara-prananatha’ (Lord of Gadadhara's life). The Lord's favour to the Pandita cannot be described. People sing of Him as ‘Gadai-Gauranga’.” (CC, Antya 7.156–160) <!-- F66 Q5 I4 -->
 
 So by simplicity and patience Gadadhara “bought” the Lord. The next day he himself invited the Lord and His associates,
 and there Vallabha asked Mahaprabhu's permission to take initiation from Gadadhara; the Lord permitted it (CC, Antya

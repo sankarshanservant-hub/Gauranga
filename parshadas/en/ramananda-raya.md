@@ -108,8 +108,7 @@ praise Ramananda:
 Just then a Vaishnava brahmana invited the Lord to his home for bhiksha. The Lord expressed His wish to meet again, and
 Ramananda pleaded:
 
-“Though You have come to correct me, one meeting will not be enough to purify my heart. Please stay at least a week and
-cleanse my polluted mind.” (CC, Madhya 8.51–52) <!-- Q3 -->
+“If You have come to purify a wretch like me, my wicked heart will not become pure merely by seeing You. Stay five or seven days and cleanse it; then this wicked mind of mine will become pure.” (CC, Madhya 8.51–52) <!-- Q3 -->
 
 ## Nights of Conversation
 In the evening, when the Lord had taken bhiksha, bathed and was resting, Ramananda came to Him with a single servant.
@@ -131,19 +130,16 @@ and “freedom from knowledge” rejects impersonal knowledge, not knowledge of 
 
 The Lord asked him to go deeper still, and Ramananda said:
 
-“The essence of all perfection is prema-bhakti, unalloyed nectarean devotion to God.” (CC, Madhya 8.68)
+“Loving devotion (*prema-bhakti*) is the essence of all goals.” (CC, Madhya 8.68)
 
 In support he cited a verse of his own composition, later included by Sri Rupa in the “Padyavali”:
 
-“The feeling of hunger and thirst turns eating and drinking into a great pleasure. So too any activity performed as
-loving worship of the Lord fills the devotee’s heart with bliss.” (CC, Madhya 8.69)
+“The Friend of the afflicted may be worshipped with many offerings, but only love makes the devotee's heart melt with joy — just as food and drink give pleasure only so long as there is hunger in the stomach and burning thirst.” (CC, Madhya 8.69)
 
 It is followed by another verse of the “Padyavali” — “krishna-bhakti-rasa-bhavita matih…”, which in some places is also
 ascribed to Ramananda:
 
-“The sweetness of bhakti, in which one’s individual relationship with Krishna unfolds, cannot be attained even by
-performing pious deeds for millions of births in a row. Only one thing is needed — an ardent desire to obtain such
-unalloyed devotion without delay, wherever it may be found.” (CC, Madhya 8.70) <!-- Q25 Q41 F95 F96 -->
+“A mind imbued with the rasa of devotion to Krishna — buy it at once, if it can be found anywhere! Its only price is eagerness (*laulya*); it cannot be had for the pious deeds of ten million births.” (CC, Madhya 8.70) <!-- Q25 Q41 F95 F96 -->
 
 Then, step by step, Ramananda described love for Krishna — pure attachment (krishna-rati), servitude (dasya),
 friendship (sakhya), parental love (vatsalya) and, as the essence of all goals, the love of lovers (kantabhava); above
@@ -160,10 +156,7 @@ the gopis, the service of the son of the king of Vraja cannot be attained. <!-- 
 So night after night passed in talks of Krishna. At another time the Lord put short questions, and Ramananda answered
 each with a single word of truth:
 
-“‘Which glory is the best?’ ‘To be a devotee of Krishna — that is the highest glory.’ <…> ‘Of all sufferings, which is
-the most painful?’ ‘I see no greater misfortune than separation from a devotee of Krishna.’ <…> ‘What brings the soul
-the highest good?’ ‘Only the company of a devotee of Krishna brings the soul true good.’ <…> ‘Where should one live,
-rejecting all else?’ ‘One should live in the land of Vraja, where the Rasa-lila took place.’” (CC, Madhya 8.245, 247,
+“‘Of all kinds of fame, which is the greatest for a jiva?’ ‘The fame of one who is known as a devotee of Krishna.’ <…> ‘Of all sorrows, which is the heaviest?’ ‘I see no sorrow but separation from a devotee of Krishna.’ <…> ‘Among all that is good, what is the highest good for a jiva?’ ‘There is no good other than the company of Krishna's devotees.’ <…> ‘Giving up everything, where should a jiva live?’ ‘In the land of Sri Vrindavana, where the rasa pastime goes on eternally.’” (CC, Madhya 8.245, 247,
 250, 253)
 
 And of those who seek liberation or worldly pleasure Ramananda said: not knowing their relationship with God, people
@@ -182,9 +175,7 @@ he saw a dark form, and before it a golden figure whose radiance covered His who
 At first the Lord evaded him: a mahabhagavata, He said, sees his beloved Deity everywhere, and Ramananda simply sees
 Radha and Krishna wherever he looks. But Ramananda would not yield:
 
-“O Lord! Leave aside these philosophical words. Be merciful, do not hide Your true form from me. You have descended,
-taking the heart and radiance of Radharani, to taste Your own sweetness. <…> You came to save me, and now You are
-trying to deceive me. Why do You act so?” (CC, Madhya 8.277–278, 280) <!-- F33 -->
+“Prabhu, give up this grand pretence. Do not hide Your own form from me. Accepting the mood and lustre of Radhika, You have descended to taste Your own rasa. <…> You Yourself came to deliver me, and now You are deceiving me. What kind of behaviour is this?” (CC, Madhya 8.277–278, 280) <!-- F33 -->
 
 “Then, smiling, the Lord showed him His own form: Rasaraja and Mahabhava, the two in one form. Seeing this, Ramananda fainted in bliss. Unable to hold himself up, he fell to the ground.” (CC, Madhya 8.281–282)
 
@@ -192,10 +183,7 @@ The Lord restored him to consciousness with the touch of His hand, embraced and 
 had seen this form: to him, who knew all His pastimes and rasas, the Lord disclosed the hidden reasons why Krishna had
 taken the feeling and radiance of Radha — and forbade him to reveal this secret:
 
-“My body is not fair; it only seems so from contact with the body of Radha. But She touches no one but the son of Nanda
-Maharaja. So My body and mind have been transformed by Her ecstatic feeling, and now I can taste My own sweetness.
-<…> Keep all this secret and tell no one, for people will laugh, taking it all for madness. In truth we are both
-madmen, and in this we are very alike.” (CC, Madhya 8.286–287, 289–290) <!-- F34 F119 -->
+“This golden complexion is not Mine: it comes from the touch of Radha's body. And She touches no one but the son of the king of the cowherds. Steeping My own mind in Her *bhava*, I then taste My own sweetness. <…> Keep it secret and reveal it to no one. People would laugh at My mad behaviour. I am one madman, and you are a second; therefore you and I are equals.” (CC, Madhya 8.286–287, 289–290) <!-- F34 F119 -->
 
 Ten nights the Lord spent with Ramananda on the Godavari. On leaving, He said to him:
 
@@ -262,9 +250,7 @@ saying that no one is more fortunate than one who serves the feet of Chaitanya, 
 salary even after retirement. Ramananda also told the Lord how greatly the king loved Him and longed to meet Him.
 “The king will be blessed by serving such a mahabhagavata,” the Lord replied, and added:
 
-“King Prataparudra has such strong love for you, and because of this quality Krishna will surely accept him. [Lord
-Krishna said to Arjuna:] ‘Those who call themselves My devotees are not such. I consider My true devotees only those
-who serve My devotees.’” (CC, Madhya 11.27–28) <!-- F136 F40 F41 F120 F158 F156 -->
+“The king has come to love you so much, and for this quality Krishna will accept him as His own. [Lord Krishna said to Arjuna:] ‘O Partha, those who are devoted only to Me are not truly My devotees; but those who are devoted to My devotees I consider the best of My devotees.’” (CC, Madhya 11.27–28) <!-- F136 F40 F41 F120 F158 F156 -->
 
 In Puri Ramananda met and honoured those gathered around the Lord — Nityananda, Paramananda Puri, Brahmananda
 Bharati, Svarupa Damodara, Jagadananda, Mukunda and others. It was here, according to one of the biographies, that
@@ -283,10 +269,7 @@ the Lord’s heart softened. <!-- F44 F121 F136 F137 -->
 prohibitions. The Lord replied that He was bound by rules, yet He could not refuse His friend outright, so close were
 they:
 
-“A pot may be full of milk, but a drop of wine can spoil it completely, and then no one wants it. No doubt the king
-has many virtues, but the royal title spoils everything. Yet if you still wish this meeting to take place, then bring
-his son to Me. The scriptures say, ‘The father manifests himself in the son’, and so, meeting the prince, I shall in
-effect be meeting the king himself.” (CC, Madhya 12.53–56)
+“It is like a pot full of milk: if a single drop of wine falls into it, no one will touch it. Although Prataparudra has every good quality, the single name ‘king’ has stained him. Still, if you are so insistent, then bring his son to meet Me. Scripture says, ‘One's self is born as one's son.’ So when his son meets Me, it will be as if the king himself had met Me.” (CC, Madhya 12.53–56)
 
 Ramananda brought the young prince to the Lord. The dark-complexioned boy awakened in the Lord the remembrance of
 Krishna. And a few days later, in the garden of Balagandi, during the Ratha-yatra, Prataparudra, alone, in the dress
@@ -340,9 +323,7 @@ interpretation, he saw in him those very sakhis whom Rupa-manjari follows in the
 
 Then the Lord asked everyone to bless Rupa, and to Ramananda He spoke of Rupa’s elder brother:
 
-“I ask all of you to bless Rupa Gosvami, so that he may ceaselessly describe these pastimes of Vrindavana, full of
-divine rasas towards Krishna. His elder brother, Sanatana, is so wise and learned that there is no one to compare with
-him. His detachment from all worldly things is as strong as yours, Ramananda.” (CC, Antya 1.199–201) <!-- F52 Q7 -->
+“All of you, be merciful and give him this blessing: that he may unceasingly describe the rasa of love in the pastimes of Vraja. His elder brother is named Sanatana; there is no learned man on earth equal to him. His renunciation of worldly things is just like yours, and humility, detachment, and learning abide in him.” (CC, Antya 1.199–201) <!-- F52 Q7 -->
 
 So the Lord Himself declared equal the renunciation of two very different devotees. Sanatana slept each night under
 a new tree and chewed dry cakes of chickpea flour; Ramananda, remaining outwardly a householder and a dignitary, was
@@ -364,11 +345,7 @@ devadasis — girls dedicated to the service of Jagannatha (in Orissa they are c
 and was teaching them the songs and dance of his drama, which was staged in the temple for Jagannatha’s pleasure.
 Krishnadasa Kaviraja explains who Ramananda was in this service:
 
-“The touch of the young dancers in no way affected his mind and body, as if he were touching wood or stone. He felt
-himself a maidservant of the gopis of Vraja and performed his service in natural spiritual feeling (regarding those
-maidens as the cowherd girls of Vrindavana). The glory and greatness of the associates of Sri Chaitanya Mahaprabhu are
-practically inconceivable. And in Ramananda Raya we find the highest limit of love and devotion to Krishna. <…> Every
-day he taught them to dance. Can tiny conditioned souls understand the greatness of Ramananda Raya’s mind and heart?”
+“What one feels on touching wood or stone, Ramananda by nature feels on touching a young woman. Seeing in them the ones to be served (*sevya-buddhi*), he served them, assuming, as was natural to him, the mood of a maidservant. The glory of Mahaprabhu's devotees is unfathomable, and in Ramananda *bhava*, bhakti and prema reach their utmost limit. <…> Every day Raya trained them in this way. What petty soul can know where his mind dwells?”
 (CC, Antya 5.19–21, 26)
 
 Ramananda — a soul satisfied in the self, higher than any renounced sage, victorious over every impulse of the senses —
@@ -406,20 +383,14 @@ evening, having bathed and eaten, he returned to the Lord and said:
 
 The Lord answered with fresh praise:
 
-“Know that Ramananda’s great humility has no equal. He often attributes his own words to others. Such is the inner
-nature of great souls who constantly feel loving devotion to Krishna in their hearts — they will never glorify
-themselves.” (CC, Antya 5.77–78)
+“Ramananda is a mine of humility. He attributes his own words to another. This is the natural disposition of great souls: they never speak of their own qualities.” (CC, Antya 5.77–78)
 
 “Though a householder, Raya is not under the control of the six enemies (*shad-varga*); though seemingly a worldly man (*vishayi*), he instructs sannyasis.” (CC,
 Antya 5.80) <!-- F64 Q13 -->
 
 Why, then, did the Lord send the Mishra? Kaviraja answers:
 
-“And so that Ramananda Raya might reveal his saintly qualities, Sri Chaitanya sent Pradyumna Mishra to him to hear
-about Krishna. <…> Wishing to destroy the arrogance of proud theologians and monks, Lord Chaitanya sometimes teaches
-dharma even through the low-born (shudras). Sri Chaitanya came to preach love and devotion to Krishna, as well as the
-nature of the Absolute Truth. By His sweet will He made Ramananda Raya the speaker, while He Himself, together with
-Pradyumna Mishra, became his humble listener.” (CC, Antya 5.81, 84–85) <!-- F65 Q14 -->
+“To reveal all these qualities of his, the Lord sent Mishra there to hear. <…> To destroy the pride of the sannyasis and panditas, He reveals dharma through a lowly shudra. He speaks of bhakti, prema and the truth (*tattva*), making Raya the speaker, while He Himself, together with Pradyumna Mishra, becomes the listener.” (CC, Antya 5.81, 84–85) <!-- F65 Q14 -->
 
 Srila Bhaktisiddhanta Sarasvati explains that to the worldly eye Ramananda seemed a householder on the path of worldly
 action, but he was a Vaishnava householder who had attained the transcendent, free from the six enemies; he was wholly
@@ -437,13 +408,7 @@ the god of love (“Bhakti-ratnakara”, 1.630). <!-- F127 F157 F66 I1 I6 F146 Q
 When the learned Vallabha Bhatta came to Puri, the Lord, speaking of Himself with pointed humility, glorified Ramananda
 before him as His teacher:
 
-“And Srila Ramananda Raya is an unsurpassed knower of all kinds of relationship with Krishna (rasas). He explained to
-Me the supreme position of Krishna as the original Bhagavan, the source of all forms and moods of God. Ramananda Raya
-revealed to Me that unalloyed love for Krishna is the highest of life’s goals. And among all loving moods, the highest
-perfection is granted by the path of pure spontaneous attraction. <…> All these truths were told to Me by Sri
-Ramananda Raya, who possesses unsurpassed knowledge of the rasas (transcendental relationships with God). Truly, to
-hear him is the highest bliss. The power of Sri Ramananda Raya cannot be described in words. By his mercy the pure love
-of the residents of Vrindavana for Krishna was revealed to Me.” (CC, Antya 7.23–24, 36–37)
+“Ramananda Raya is a treasury of the rasa of Krishna. He made Me understand that Krishna is Bhagavan Himself. Through him I came to know that prema-bhakti is the crown jewel of the goals of life (*purusharthas*), and that prema-bhakti on the path of spontaneous attraction (*raga*) is the highest of all. <…> All this Raya Ramananda taught Me, and to hear it is supreme bliss. Ramananda's power cannot be described. By Raya's grace I came to know the pure *bhava* of Vraja.” (CC, Antya 7.23–24, 36–37)
 
 Between these words the Lord explained that love born of awareness of Krishna’s majesty does not lead to Vrindavana,
 while the pure (kevala) love of Vraja forgets majesty and is therefore higher than it (CC, Antya 7.25–35). Thus for the
@@ -462,8 +427,7 @@ Nityananda came to Nilachala, Ramananda, Svarupa and Haridasa bowed to Him with 
 ## Intimate Companion in Separation
 Of all Gaura’s devotees only “three and a half” belonged to the innermost circle of Srimati Radharani:
 
-“In this whole universe only three and a half worthy devotees were of the closest personal entourage of Srimati
-Radharani. These three are Svarupa Damodara, Ramananda Raya and Shikhi Mahiti, and the half is his sister Madhavi.” (CC,
+“In all the world there are only three and a half such worthy persons: Svarupa Gosani, Ramananda Raya and Shikhi Mahiti are the three, and his sister is the half.” (CC,
 Antya 2.105–106)
 
 The Lord Himself told Prataparudra that He had come to Purushottama for the sake of three: “I have come here for the
@@ -471,8 +435,7 @@ sake of three persons: you, Sarvabhauma and Ramananda Raya” (CB, Antya 5.202).
 
 With the Lord, according to Kaviraja, different devotees were bound by different rasas:
 
-“Sri Chaitanya relished the feelings of parental love with Paramananda Puri, friendship with Ramananda Raya, servitude
-with Govinda and others, and the rasa of conjugal love with Gadadhara, Jagadananda and Svarupa Damodara.” (CC, Madhya
+“Puri's love was chiefly parental; Ramananda's was pure friendship; Govinda and others had the rasa of pure servitude; and Gadadhara, Jagadananda and Svarupa knew the bliss of the chief rasa.” (CC, Madhya
 2.78)
 
 At the same time Ramananda, Gadadhara and Svarupa are named the chief energies of madhura-rasa — the Lord’s helpers in
@@ -482,29 +445,18 @@ In the last years, when the Lord lived day and night in separation from Krishna,
 darshana of Jagannatha, and by night He tasted the rasa of love for Krishna with two constant companions — Ramananda and
 Svarupa:
 
-“When Sri Chaitanya suffered the severe pangs of separation from Krishna, Ramananda Raya told Him about Krishna and
-Svarupa Damodara sang. And only this kept Him alive. <…> As the cowherd boy Subala once consoled Krishna in friendship,
-so Ramananda Raya consoled Sri Chaitanya, who was suffering separation from Krishna. <…> No one can describe the good
-fortune of Ramananda Raya and Svarupa Damodara. All people sang their praises as very close associates of Sri
-Chaitanya.” (CC, Antya 6.6, 9, 11)
+“Ramananda's talks about Krishna and Svarupa's singing kept the Lord alive in the pain of separation. <…> As Subala formerly helped to make Krishna happy, so Ramananda Raya gave happiness to Gaura. <…> The good fortune of these two cannot be described: people praise them as the Lord's intimate associates.” (CC, Antya 6.6, 9, 11)
 
 By night the Lord confided to them all that lay hidden in His heart:
 
-“With the coming of night Sri Chaitanya confided to Svarupa Damodara and Ramananda Raya all the intimate feelings of
-His heart. <…> Embracing Ramananda and Svarupa by the neck and wholly losing His peace and self-control, He lamented:
-‘Where is My Lord Hari? Where is He?’” (CC, Antya 14.40, 42) <!-- F68 Q16 F73 Q20 F69 Q17 I9 -->
+“When night came, He would sit with Svarupa and Ramananda and open to them the feelings of His heart. <…> Clasping Raya and Svarupa by the neck, He cried, ‘Alas! Hari! Hari!’ His composure gave way, and He grew restless.” (CC, Antya 14.40, 42) <!-- F68 Q16 F73 Q20 F69 Q17 I9 -->
 
 In Gaura, overwhelmed by Radha’s feeling in separation, all ten states of the gopis whose Beloved has gone away became
 manifest, and in those days Ramananda served the Lord by reciting shlokas suited to the moment. When the Lord vanished
 from His room and was found now at the Lion Gate with His body unnaturally lengthened, now in the coastal dunes, which
 He took for Govardhana, Ramananda and Svarupa were beside Him:
 
-“And with these words Sri Chaitanya embraced Svarupa Damodara and Ramananda Raya by the neck and asked them: ‘What am I
-to do now? Where shall I go and where seek Krishna? Tell Me, how can I attain Him?’ <…> These two devotees tried to
-console Him at least a little. Svarupa Damodara sang songs in tune with Sri Chaitanya’s feelings, and Ramananda Raya
-read aloud the poetry of the scriptures. And hearing those songs and quotations from Bilvamangala Thakura’s
-‘Krishna-karnamrita’, the poetry of Vidyapati and Jayadeva Gosvami’s ‘Sri Gita-govinda’, Sri Chaitanya felt the
-greatest bliss.” (CC, Antya 15.24, 26–27) <!-- F70 F130 -->
+“Saying this, Gaurahari threw His arms around the necks of the two and said, ‘Listen, Svarupa and Ramaraya: what shall I do, where shall I go? Where can I go to find Krishna? Both of you, tell Me how!’ <…> Those two consoled the Lord: Svarupa sang songs, and Raya recited verses. With the verses and songs of the *Krishna-karnamrita*, of Vidyapati and of the *Sri Gita-govinda* they gave the Lord joy.” (CC, Antya 15.24, 26–27) <!-- F70 F130 -->
 
 As daily the Lord relished the songs of Vidyapati and Chandidasa and Bilvamangala’s “Krishna-karnamrita”, so too He
 relished Ramananda’s drama:
@@ -589,10 +541,7 @@ naradhipa-mana / ramananda-raya kavi bhana”; Radhamohana Thakura included it i
 Sanskrit commentary on it, and it was explained in detail by Srila Bhaktivinoda Thakura (“Amrita-pravaha-bhashya”) and
 Srila Bhaktisiddhanta Sarasvati (“Anubhashya”):
 
-“As soon as our eyes met, a strong attraction arose between us. Our bond grew day by day, knowing no bounds. It is not
-that Krishna is a youth craving enjoyment and I a maiden who grants it. Simply Cupid joined our hearts into one. O My
-friend! Perhaps Krishna has already forgotten Our love, but you will remind Him. <…> Now you will become the messenger,
-for the separation has become unbearable.” (CC, Madhya 8.193) <!-- F29 F97 F98 Q26 -->
+“From the very first, love (*raga*) arose from the play of our eyes. Day by day it grew and knew no bound. He was not the lover, nor was I the beloved: Manobhava, the god of love, blended our two hearts into one. O friend, if you find that He has forgotten, tell Kanu the whole story of our love. <…> Now that very *raga* has become *viraga*, the pain of separation, and you have become the messenger.” (CC, Madhya 8.193) <!-- F29 F97 F98 Q26 -->
 
 Srila Bhaktisiddhanta warns that the prakrita-sahajiyas cannot grasp the variety of pastimes and the “reversal of
 loving play” (vilasa-vivarta) in the highest mahabhava — in its states of mohana and madana, within “wondrous
@@ -676,10 +625,7 @@ stone, for he saw in them only Radha’s friends. Through his lips the Lord reve
 rasa, while he himself, in his humility, ascribed everything to the Lord. Krishnadasa Kaviraja concludes the account of
 the conversations on the Godavari with these words:
 
-“The deeds of Sri Chaitanya may be compared to thickened milk, and Ramananda’s to a mountain of sugar. Their talks on
-the pastimes of Sri Sri Radha-Krishna are like camphor added to this sweetest thickened milk. Truly fortunate is the one
-who is blessed to taste it. <…> Millions of times I bow at the feet of Ramananda Raya, through whose lips the Lord
-Himself revealed to the world the truth about the transcendental rasas.” (CC, Madhya 8.303–304, 310) <!-- F104 Q30 I1 -->
+“Chaitanya's life is by nature a flood of thickened milk, and Ramananda's life is the abundant sugar candy in it. The pastimes of Radha and Krishna are the camphor mixed into it. Whoever is fortunate tastes it. <…> To Ramananda Raya I offer ten million obeisances. Through his mouth the Lord unfolded the truth of rasa.” (CC, Madhya 8.303–304, 310) <!-- F104 Q30 I1 -->
 
 [^1]: One of the biographies places the meeting on the Godavari around 1512. By the chronology of the
     “Chaitanya-charitamrita”, the Lord left for the south in Vaishakha of the same year in which He took sannyasa —
@@ -701,7 +647,7 @@ Himself revealed to the world the truth about the transcendental rasas.” (CC, 
     Mardaraja; in the “Chaitanya-charitamrita” he is Mangaraja (Madhya 16.113, 126).
 [^6]: So one of the biographies conveys the Lord’s words. The “almost perfect” body awaiting “vastu-siddhi” is only
     an appearance accepted by an eternally perfect associate for the sake of the pastimes: the Lord Himself says that
-    Ramananda’s body “only seems material” and “in reality it is wholly spiritual” (CC, Antya 5.42).
+    Ramananda’s body is “transcendental” (CC, Antya 5.42).
 [^7]: According to one account, Prataparudra pardoned Gopinatha remembering how close he was to the Lord and to
     Ramananda; according to another, the execution was called off after the minister Harichandana told the king
     everything.

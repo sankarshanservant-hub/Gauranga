@@ -61,10 +61,7 @@ does chaste Lakshmi, who lives on her Husband's breast, seek the company of the 
 that Krishna and Narayana are one svarupa, but Krishna is higher in rasa. Here sounds the verse of the
 “Bhakti-rasamrita-sindhu” that the “Chaitanya-charitamrita” also quotes:
 
-“According to the conclusions of enlightened souls there is no difference between the transcendental nature of Krishna
-and of Narayana, the Husband of Lakshmi. But there is one indisputable excellence that places Krishna above all other
-forms of God, Narayana included: only in the form of Krishna are all kinds of rasa, of spiritual relationship, revealed
-in their fullness.” (CC, Madhya 9.117) <!-- F14 Q3 -->
+“Although, by the conclusion of the scriptures (*siddhanta*), the Lord of Sri and Krishna are one in essence, in rasa the form of Krishna excels: such is the nature of rasa.” (CC, Madhya 9.117) <!-- F14 Q3 -->
 
 But why then, the Lord went on, was Lakshmi not admitted to the rasa dance, while the personified shrutis were? Uddhava
 in the “Bhagavatam” (10.47.60) testifies that not even Lakshmi on the Lord's breast received the mercy the gopis
@@ -483,8 +480,7 @@ Bhatta, an eternal associate of the Lord, and to call him a mayavadi is an offen
 Some recent writers claim that Gopala Bhatta's ancestral village was “Bhattamari” in the South. But in the
 “Chaitanya-charitamrita” the bhattathari (their “bhattamari”) are a gang of false ascetics, not a place:
 
-“Then He came to Amlitala, where He saw the Deity of Sri Rama, and then went on to Mallara-desha, where the nomadic
-bhattathari lived.” (CC, Madhya 9.224; cf. 1.112; 9.226–233) <!-- F103 Q41 -->
+“Having seen Sri Rama at Amlitala, Gaurahari came to the Mallara country, where the Bhattatharis live.” (CC, Madhya 9.224; cf. 1.112; 9.226–233) <!-- F103 Q41 -->
 
 Narahari warns:
 
