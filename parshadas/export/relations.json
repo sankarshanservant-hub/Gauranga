@@ -9511,6 +9511,275 @@
   "note": "B 809 (гл. о Мукунде Датте) — упомянут как знаменитый дигвиджайи, чью учёность Махапрабху мог превзойти."
  },
  {
+  "from": "@madhava-ghosha",
+  "type": "sibling",
+  "who": "@govinda-ghosha",
+  "facts": [
+   "F6",
+   "F12",
+   "F13",
+   "F19",
+   "F20"
+  ],
+  "note": "Старший? — старшинство не названо; ведущий певец их группы на Ратха-ятре (ЧЧ Мадхья 13.42–43); остался с Господом, когда Мадхава и Васудева ушли с Нитьянандой (ЧЧ Ади 10.118)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "sibling",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F4",
+   "F6",
+   "F13",
+   "F15",
+   "F16",
+   "F19",
+   "F20"
+  ],
+  "note": "Вместе служили Нитьянанде киртаном в Гауде (B 193); оба — в обеих ганах (ЧЧ Ади 11.15); B называет Мадхавананду «братом Васудевы» (B 139). = @vasu-ghosha F33, F34."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F4",
+   "F9",
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F18"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda",
+   "ev-nityananda-panihati-abhisheka",
+   "ev-dana-khanda-gadadhara-dasa",
+   "ev-nityananda-preaching-gauda"
+  ],
+  "note": "Очень дорог Нитьянанде (ЧБ Антья 5.258); по велению Господа пошёл с Ним в Гауду (ЧЧ Ади 10.117–118); под его пение Нитьянанда танцевал в Панихати и в доме Гададхары даса (дана-кханда, ЧБ Антья 5.378–383); ветвь Нитьянанды (ЧЧ Ади 11.15, 11.18)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F4",
+   "F5",
+   "F12",
+   "F19",
+   "F20",
+   "F21"
+  ],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof",
+   "ev-ratha-yatra-gundicha",
+   "ev-gauda-devotees-come-with-wives"
+  ],
+  "note": "Ветвь древа Шри Чайтаньи (ЧЧ Ади 10.115); под киртан братьев танцевали Чайтанья и Нитьянанда; ежегодно приходил в Пури; пел в четвёртой группе на Ратха-ятре."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@gadadhara-dasa",
+  "facts": [
+   "F16",
+   "F17",
+   "F18",
+   "F4"
+  ],
+  "events": [
+   "ev-dana-khanda-gadadhara-dasa"
+  ],
+  "note": "В его храме в Эндиядахе пел дана-кханду перед Нитьянандой; оба — в обеих ганах. = @gadadhara-dasa F22–F23."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@bala-gopala-gadadhara-dasa",
+  "facts": [
+   "F16",
+   "F18"
+  ],
+  "note": "Нитьянанда танцевал с Бала-Гопалой на груди под его дана-кханду; по «Анубхашье» к Ади 10.53 — пел и танцевал перед Гопалой."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@raghava-pandita",
+  "facts": [
+   "F14",
+   "F20"
+  ],
+  "events": [
+   "ev-nityananda-panihati-abhisheka"
+  ],
+  "note": "В его доме в Панихати пел для Нитьянанды; подпевали вместе в четвёртой группе на Ратха-ятре."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@makaradhvaja-kara",
+  "facts": [
+   "F14"
+  ],
+  "note": "Панихати (B 106)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "co-worker",
+  "who": "@vakreshvara",
+  "facts": [
+   "F20"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "note": "Танцор их группы на Ратха-ятре."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "co-worker",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F20"
+  ],
+  "note": "Подпевал в четвёртой группе (у B — «(Чхота?) Харидас»)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "co-worker",
+  "who": "@vishnudasa",
+  "facts": [
+   "F20"
+  ],
+  "note": "Подпевал в четвёртой группе (какой Вишнудас — не сказано)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F21"
+  ],
+  "note": "ЧЧ Мадхья 13.73: «Мадхава» среди девяти, отданных в группу Сварупы, — Мадхава Гхош ли, не сказано (⚠4)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "companion",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F19"
+  ],
+  "note": "С ним братья ежегодно ходили из Гауды в Пури (B 193)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@abhirama",
+  "facts": [
+   "F4",
+   "F13"
+  ],
+  "note": "Как и он, в обеих ганах; вместе пошли с Нитьянандой в Гауду (ЧЧ Ади 10.117–118)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@gopinatha-acharya",
+  "facts": [],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Только по lila-db: ЧЧ Мадхья 11.88 — показывает Пратапарудре трёх братьев Гхошей (Q8)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [],
+  "events": [
+   "ev-prataparudra-watches-devotees-roof"
+  ],
+  "note": "Только по lila-db (ЧЧ Мадхья 11.88)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F24"
+  ],
+  "events": [
+   "ev-kheturi-festival"
+  ],
+  "note": "На киртане Нароттамы в Кхетури — среди явившихся с Господом (БР 10.572, по M)."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F3",
+   "F11",
+   "I1"
+  ],
+  "note": "«Гаудия-бхашья» к ЧБ Антья 5.257: кая-вьюха ашрая-виграхи мадхура-расы; «певцы Вриндавана» без мирских понятий; «Анубхашья» к ЧЧ Ади 10.53, 10.115."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F9",
+   "F16",
+   "Q1",
+   "Q7"
+  ]
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F2",
+   "Q2"
+  ]
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F5",
+   "F12",
+   "F13",
+   "Q3",
+   "Q4"
+  ]
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@bhaktivedanta-svami",
+  "facts": [
+   "F5",
+   "F9",
+   "F12",
+   "F18"
+  ],
+  "note": "Комментарий к ЧЧ (по M): 82–84-я ветви, «драма Дана-кханда»."
+ },
+ {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@lochana-dasa",
+  "facts": [
+   "Q8"
+  ],
+  "note": "Поклон братьям Гхошам в Сутра-кханде (1.34; 8.629)."
+ },
+ {
   "from": "@madhavendra-puri",
   "type": "lineage-predecessor",
   "who": "@madhvacharya",
