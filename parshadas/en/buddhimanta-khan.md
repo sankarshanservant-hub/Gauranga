@@ -64,7 +64,7 @@ pastime. <!-- F10 Q2 -->
 One of the biographies, touching on this episode, explains: the transformations of divine love that Gaurasundara
 displayed for the sake of His transcendental pastimes cannot be quelled by any outward medicine. Diseases of body and
 mind affect the gross and subtle bodies, but the sattvika-bhavas do not arise in perishable coverings of lifeless matter:
-in them the soul's serving nature reveals itself through a non-material body given to the Lord. Therefore what those who
+it is the soul's serving nature that reveals itself through a non-material body given to the Lord. Therefore what those who
 know the soul's nature experience in bhakti has nothing in common with artificial bodily displays; while fools, taking
 themselves to be the body, deliberately agitate body and senses and pass this off as sattvika-bhavas for the sake of
 worldly honour. <!-- F11 I1 -->
@@ -89,7 +89,7 @@ The biographies render his words as an offer to share the costs. <!-- F13 --> Bu
 “Listen, brother! This wedding will not be some modest affair like a poor brahmana's. I will arrange everything so that
 in people's eyes Nimai Pandita's wedding will be worthy of a prince.” (CB, Adi 15.71–72)
 
-It was not a rich man's vanity speaking. The Lord's wedding was not to be a modest, meagre celebration such as befits a
+It was not a rich man's vanity speaking. The Lord's wedding, he felt, was not to be a modest, meagre celebration such as befits a
 poor brahmana — “this is no time for brahminical austerity,” as one of the biographies renders his thought. Buddhimanta
 saw in Nimai not a poor young pandita but the Lord of all, and wanted His wedding to be worthy of Him. Nimai's students
 too did their best to make the festival splendid; according to one of the biographies, not even the millionaires of
@@ -119,8 +119,8 @@ of the town. <!-- F18 Q5 -->
 
 ## Garments for the Pastime in Chandrashekhara's House
 A special service fell to him when the Lord wished to manifest His pastime in Chandrashekhara's house (one of the
-biographies calls it the Vraja-lila). Mahaprabhu revealed His intention to the devotees, told each of His associates in
-what form he would appear, and called Sadashiva and Buddhimanta Khan: garments had to be prepared — conch-shell
+biographies calls it the Vraja-lila). Mahaprabhu revealed His intention to the devotees, told His associates who
+would wear which attire, and called Sadashiva and Buddhimanta Khan: garments had to be prepared — conch-shell
 bracelets, bodices, silk saris and ornaments. And He urged:
 
 “Buddhimanta Khan, go quickly and prepare the garments — I am going to dance!” (CB, Madhya 18.13)
@@ -157,10 +157,10 @@ Navadvipa hurried there together with Shachi. Buddhimanta Khan was among them:
 Shridhara, Vijaya, Vasudeva, Damodara, Mukunda, Sanjaya — how many of the people of Navadvipa can I name? The Lord met
 them all, smiling, with a glance full of mercy.” (CC, Madhya 3.153–155)
 
-Govinda-deva in the “Gaura-krishnodaya” tells how the Lord raised the townspeople who had fallen before Him, one after
+Govinda-deva in the “Gaura-krishnodaya” tells how the Lord raised the townspeople who had fallen at His feet, one after
 another, and gladdened them all — “Buddhimanta Khan and others” (6.59). <!-- F23 Q7 -->
 
-Later, when the Lord settled in Purushottama, Buddhimanta Khan went there with the devotees of Gauda to see Him.
+Later, when the Lord settled in Purushottama, in Puri, Buddhimanta Khan went there with the devotees of Gauda to see Him.
 Vrindavana Dasa, listing those who went, says of him:
 
 “Buddhimanta Khan Mahashaya went too, whose one concern since birth has been Chaitanya's orders.” (CB, Antya 8.30)
