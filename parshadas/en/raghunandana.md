@@ -243,9 +243,9 @@ Gopikananda, from him Yugalananda, from him Gauragunananda. Lalitananda's sons w
 Premananda's sons were Sarvananda (whose son was Jivananda), Kishorananda and Dvarakinatha; Keshavananda's sons were
 Kirtanananda, Rakhalananda and Banavarinanda. <!-- F72 -->
 
-Raghunandana's descendants still live at Shrikhanda; one of the best known is Panchanana Kaviraja. According to Bhaktivedanta
-Swami, drawing on Bhaktivinoda Thakura's commentary, the family numbers no fewer than four hundred men, and all their
-names are recorded at Shrikhanda. <!-- F73 -->
+Raghunandana's descendants still live at Shrikhanda; one of the best known is Panchanana Kaviraja. According to Srila
+Bhaktisiddhanta (“Anubhashya” on CC, Adi 10.78), a little over four hundred persons have been born in this family, and
+their whole genealogy is kept at Shrikhanda. <!-- F73 -->
 
 The poet Rayashekhara, or Kavishekhara Raya, is known as a “disciple” of Raghunandana; many padas in Brajabuli circulate
 under this name. In general, quite a few padas on Gauranga bear the names of his disciples and their disciples, but they

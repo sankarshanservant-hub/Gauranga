@@ -811,8 +811,8 @@ With Nityananda the Lord sent His own devotees:
 
 These were Ramadasa (Abhirama) and Gadadhara Dasa; Gadadhara Dasa became one of Nityananda's chief helpers in preaching
 sankirtana. According to the “Chaitanya-bhagavata” (Antya 5.231–233), there left Puri with Nityananda Ramadasa, Gadadhara
-Dasa, Raghunatha Vaidya-Ojha, Krishnadasa Pandita, Parameshvari Dasa and Purandara Pandita[^41]. One of the biographies
-dates this command to the year 1434 of the Shaka era[^42]. <!-- F262 F263 F265 -->
+Dasa, Raghunatha Vaidya-Ojha, Krishnadasa Pandita, Parameshvari Dasa and Purandara Pandita[^41]. Srila Bhaktisiddhanta in the
+“Anubhashya” (on CC, Adi 10.53) dates this command to the year 1434 of the Shaka era[^42]. <!-- F262 F263 F265 -->
 
 Before setting out, Nityananda empowered His companions, filling them with love of God:
 
@@ -1718,8 +1718,8 @@ and proposed sending him to Navadvipa, and the Lord agreed (CC, Madhya 10).
 [^41]: The biographies name the companions differently: some — Abhirama (Ramadasa) and Gadadhara Dasa; others — Rama Dasa,
 Gadadhara Dasa, Krishnadasa Pandita, Parameshvari Dasa, Purandara Pandita, Raghunatha Vaidya “and others.” The
 “Charitamrita” in another place speaks of three: “At the Lord’s command Nityananda went to Gauda, and by the Lord’s command three devotees went with Him: Sri Ramadasa, Madhava and Vasudeva Ghosha. Govinda stayed with the Lord, and was overjoyed to do so” (CC, Adi 10.117–118).
-[^42]: The same source converts this year as 1534 of the Common Era; but the year 1434 of the Shaka era is 1512, so one of
-the two figures is wrong.
+[^42]: That is, 1512 of the Common Era. One of the biographies, giving this information, converts the year as 1534 — an
+error.
 [^43]: So according to two biographies; a third, in its account of Sundarananda, ascribes the miracle of the kadamba on the
 lemon tree to him (see below, “Disciples and Companions”).
 [^44]: Only one biography reports this, with a reference to the “Vijaya-khanda”; what this source is remains unclear.
