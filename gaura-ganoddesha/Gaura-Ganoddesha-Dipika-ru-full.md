@@ -1967,9 +1967,9 @@
 *vraje sthitau gāyakau yau madhukaṇṭha-madhuvratau|*
 *mukunda-vāsudevau tau dattau gaurāṅga-gāyakau||140||*
 
-*Пословно:* vraje — во Врадже; sthitau — бывшие; gayakau — два певца; yau — которые; madhukantha-madhuvratau — Мадхуканта и Мадхуврата; mukunda-vasudevau — Мукунда и Васудева; tau — они; dattau — Датты; gauranga-gayakau — певцы Гауранги.
+*Пословно:* vraje — во Врадже; sthitau — бывшие; gayakau — два певца; yau — которые; madhukantha-madhuvratau — Мадхукантха и Мадхуврата; mukunda-vasudevau — Мукунда и Васудева; tau — они; dattau — Датты; gauranga-gayakau — певцы Гауранги.
 
-**140.** Два певца Враджа, Мадхуканта и Мадхуврата, — это певцы Гауранги Мукунда и Васудева Датта.
+**140.** Два певца Враджа, Мадхукантха и Мадхуврата, — это певцы Гауранги Мукунда и Васудева Датта.
 
 ### Шлока 141
 
