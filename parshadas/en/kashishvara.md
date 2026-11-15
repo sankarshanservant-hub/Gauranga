@@ -66,12 +66,12 @@ fallen into decline. One of the biographies, quoting another's commentary, says 
 land enough.[^6] <!-- F10 -->
 
 ## The Deities of Chatra
-In the temple in Chaudhuripara reside to this day the Deities of Sri Gauranga and Sri Radha-Govinda installed by
+In the temple in Chaudhuripara reside the Deities of Sri Gauranga and Sri Radha-Govinda installed by
 Kashishvara Pandita. Every year Dola-yatra — Dol-purnima — is celebrated there. <!-- F11 F12 -->
 
 One of the biographies, citing the commentary of Srila Bhaktivedanta Swami Maharaja on CC, Adi 8.66, adds that Srila
-Bhaktisiddhanta Sarasvati visited this temple; that the commentator himself, while still a householder, went there more
-than once and took prasada; that the Deities of Radha-Govinda and Gauranga are extraordinarily beautiful; and that a
+Bhaktisiddhanta Sarasvati visited this temple; that the commentator himself, while still a householder, went there
+and took prasada; that the Deities of Radha-Govinda and Gauranga are extraordinarily beautiful; and that a
 temple of Jagannatha stands nearby. <!-- F13 -->
 
 ## Disciple of Ishvara Puri
@@ -248,8 +248,7 @@ came to Vrindavana. Placing the Lord at Sri Govinda's right, he, overwhelmed wit
 The Lord, who dwells in every heart, understood that Kashishvara could not bear separation, and gave him not an image
 or a keepsake of Himself but His very Self — *svarupa-vigraha*, His own form. And so that Kashishvara should have no
 doubt, the Lord ate together with the Deity: Mahaprabhu and Gaura-Govinda are one. So faith was born in Kashishvara;
-and serving Gaura-Govinda in Vrindavana, he served the Lord in person and was consoled in his separation from Him. The
-biographies add that Gaura-Govinda is Mahaprabhu Himself beside Govinda.[^15] <!-- F36 I3 -->
+and serving Gaura-Govinda in Vrindavana, he served the Lord in person and was consoled in his separation from Him.[^15] <!-- F36 I3 -->
 
 The “Bhakti-ratnakara” gives another account as well — from the “Sadhana-dipika,” “an account heard from the lips of an
 associate of Mahaprabhu”:
@@ -297,7 +296,7 @@ Vaishnavas of Vrindavana bade him write the “Charitamrita,” says:
 “Govinda Gosani, the disciple of Kashishvara Gosani, is the dear servant of Govinda, and there is none to equal him.”
 (CC, Adi 8.66)
 
-The biographies call Govinda Gosvami the pujari of Sri Govinda, and one of them adds a second disciple — Yadava
+One of the biographies calls Govinda Gosvami the pujari of Sri Govinda and adds a second disciple — Yadava
 Acharya. The “Prema-vilasa” says that Kashishvara had a disciple, a brahmana resident of Vraja named Bhaktakashi, and
 that Govinda Gosani and Yadava Acharya, two brahmana youths from Gauda, left home and took shelter at his feet (18.23–25;
 25.498).[^18] <!-- F43 Q13 -->
@@ -309,7 +308,7 @@ too, name the shukla-chaturdashi of the month of Kartika.[^19] The year of his d
 they say where his samadhi is. <!-- F45 -->
 
 He left this world soon after the Lord's disappearance and before Shrinivasa came to Vraja. According to the
-“Bhakti-ratnakara,” on the way to Vrindavana Shrinivasa heard from brahmanas he met:
+“Bhakti-ratnakara,” on the way to Vrindavana Shrinivasa heard from brahmanas walking the same road:
 
 “At Nilachala Sri Krishna Chaitanya, the Lord of all, became invisible to everyone's eyes. Hearing that unbearable news,
 Kashishvara Gosvami disappeared. Raghunatha Bhatta, the reciter of the Bhagavata — in separation from the Lord he too
@@ -349,9 +348,9 @@ Lord at the Ratha-yatra. A Vaishnava's strength is of value only in that it serv
 In his coming to the Lord, Mahaprabhu showed how to honour the guru: He accepted His guru's servants, whom He revered as
 elders, only because His guru had so ordered, for the guru's word is not debated. <!-- I2 -->
 
-And in his life in Vrindavana the Lord revealed that He and His Deity are one. Seeing that Kashishvara could not bear
-separation, the Lord gave him His very Self in the form of Gaura-Govinda and ate together with Him. Serving
-Gaura-Govinda, Kashishvara served the Lord in person, having placed Him at Sri Govindadeva's right. <!-- F36 F38 I3 -->
+And in sending him to Vrindavana the Lord revealed that He and His Deity are one. Seeing that Kashishvara could not bear
+separation, the Lord gave him His very Self in the form of Gaura-Govinda and ate together with Him. Kashishvara
+placed Gaura-Govinda at Sri Govindadeva's right and, serving Him, served the Lord in person. <!-- F36 F38 I3 -->
 
 Srila Bhaktisiddhanta recognises him as the disciple of Ishvara Puri and the teacher of Govinda Gosani, and the
 biographies call Kashishvara's glory boundless. <!-- F44 I4 -->
