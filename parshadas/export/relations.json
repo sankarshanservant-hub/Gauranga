@@ -2915,6 +2915,152 @@
   "note": "Комментарий к ЧЧ Мадхья 12.25 (по T; текста комментария в репозитории нет)."
  },
  {
+  "from": "@devananda-pandita",
+  "type": "opposed",
+  "who": "@srivasa",
+  "facts": [
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F20",
+   "F21",
+   "F36"
+  ],
+  "events": [
+   "ev-devananda-rebuked",
+   "ev-mahaprakasha-abhisheka",
+   "ev-srivasa-saved-from-death"
+  ],
+  "note": "Его ученики выгнали плачущего от премы Шривасу с чтения «Бхагаватам», он не остановил их — вайшнава-апарадха (ЧБ Мадхья 9.90–98, 21.59–66); по M 20 потом просил у Шривасы прощения и был обнят (⚠8). ЧЧН 1 — иная версия (⚠11). = @srivasa F62, F75, F121."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "siksha-guru",
+  "who": "@vakreshvara",
+  "facts": [
+   "F27",
+   "F28",
+   "F32",
+   "F34",
+   "F38"
+  ],
+  "events": [
+   "ev-devananda-mercy"
+  ],
+  "note": "Вакрешвара гостил у него после санньясы Господа; Девананда служил ему, через него обрёл веру в Махапрабху и прощение (ЧБ Антья 3.468–496; ЧЧ Ади 10.77 — побег ветви Вакрешвары). Тип связи — по смыслу (наставник через общение), сам термин источники не дают. = @vakreshvara F23–F34."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F23",
+   "F25",
+   "F28",
+   "F29",
+   "F32",
+   "F33",
+   "F34",
+   "F35",
+   "F37",
+   "I1",
+   "I5"
+  ],
+  "events": [
+   "ev-devananda-rebuked",
+   "ev-devananda-mercy"
+  ],
+  "note": "Сначала не верил в Господа; Господь обличил его в Навадвипе (наказание словами — милость, ЧБ Мадхья 21.77–78), а в Кулии простил и велел толковать «Бхагаватам» только в духе бхакти (ЧБ Антья 3.492–523; ЧЧ Ади 10.77, Мадхья 1.153; Мурари 3.17.17–20)."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "neighbor",
+  "who": "@maheshvara-visharada",
+  "facts": [
+   "F3",
+   "F4"
+  ],
+  "note": "Жил возле его дома (ЧБ Мадхья 21.6–7; БР 12.2976–2981)."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "other",
+  "who": "@saranga-thakura",
+  "facts": [
+   "F24"
+  ],
+  "events": [
+   "ev-devananda-rebuked"
+  ],
+  "note": "Встреча Саранги с Господом — во время обличения Девананды (по «Абхидхане», через T 94). = @saranga-thakura F13."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "other",
+  "who": "@gopala-chapala",
+  "facts": [
+   "F31",
+   "F37",
+   "F39"
+  ],
+  "note": "Оба прощены Господом в Кулии (ЧЧ Мадхья 1.153; Ади 17.55–59)."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "other",
+  "who": "@vamshivadana",
+  "facts": [
+   "F29",
+   "F30"
+  ],
+  "events": [
+   "ev-kuliya-shachi-meeting"
+  ],
+  "note": "Милость Девананде — в дни, когда Господь жил в доме Мадхавы даса (Чхакари), отца Вамшиваданы (M 240; T 68, B 911 — со ссылкой на ЧЧН, не подтверждается, ⚠7)."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "other",
+  "who": "@vidya-vachaspati",
+  "facts": [
+   "F31"
+  ],
+  "events": [
+   "ev-vidya-vachaspati-house"
+  ],
+  "note": "По Мурари 3.17 и T 82 — милость в дни пребывания Господа у Вачаспати (⚠7)."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F11",
+   "F39",
+   "I5"
+  ],
+  "note": "«Гаудия-бхашья» к ЧБ (Мадхья 9.98, 21; Антья 3.453, 481): смарта, учёный подвижник без веры в Махапрабху; в 1922 г. открыл место прощения в Кулии (T 252)."
+ },
+ {
+  "from": "@devananda-pandita",
+  "type": "other",
+  "who": "@shridhara-maharaja",
+  "facts": [
+   "F5",
+   "F29",
+   "F39"
+  ],
+  "note": "Шри Чайтанья Сарасват Матх — на месте апарадха-бханджаны в Кулии (M 17, 19). = @shridhara-maharaja F25."
+ },
+ {
   "from": "@dhananjaya-pandita",
   "type": "companion",
   "who": "@nityananda",
@@ -9623,6 +9769,178 @@
    "F58",
    "I4"
   ]
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "guru",
+  "who": "@nityananda",
+  "facts": [
+   "F5",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "I1"
+  ],
+  "events": [
+   "ev-tattva-bhakti-kalpataru",
+   "ev-nityananda-preaching-gauda",
+   "ev-panihati-chida-dadhi"
+  ],
+  "note": "Спутник (паршада) Нитьянанды, ветвь древа Нитьянанды (ЧЧ Ади 11.32), из двенадцати гопалов; в перечне Его слуг ЧБ Антья 5.744; на празднике в Панихати (ЧЧ Антья 6.62) и затем с Ним в Саптаграм («Анубхашья»; T). = @nityananda F287, F302, F369, F400."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F5"
+  ],
+  "events": [
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Причислен и к ветвям Шри Чайтаньи (ЧЧ Ади 10.111 — «Махеш Пандит»; тождество — по B и T, ⚠11)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "sibling",
+  "who": "@jagadisha-pandita",
+  "facts": [
+   "F18",
+   "F19"
+  ],
+  "note": "Младший брат — лишь «по мнению некоторых» (B, T, M по «Анубхашье»); Бхактисиддханта: сомнительно; M 57 — как факт (⚠13)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "sibling",
+  "who": "@hiranya-pandita",
+  "facts": [
+   "F18"
+  ],
+  "note": "Средний из трёх братьев — по тому же сомнительному мнению («Анубхашья» к ЧЧ Ади 11.32)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F23"
+  ],
+  "events": [
+   "ev-panihati-chida-dadhi"
+  ],
+  "note": "Гость праздника чида-дадхи Рагхунатхи в Панихати (ЧЧ Антья 6.62). = @raghunatha-dasa F96."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F26"
+  ],
+  "events": [
+   "ev-srinivasa-khardaha-jahnava"
+  ],
+  "note": "В Кхардахе явил милость Шринивасе (БР 4.91)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F25",
+   "F27",
+   "F28",
+   "F29",
+   "I3"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage"
+  ],
+  "note": "Первым узнал Нароттаму в Кхардахе, обнимал и провожал его в Нилачалу (НВ 3.176–203; БР 8.220). M 100 — встреча на празднике в Панихати (хронологически невозможно, ⚠7)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F26",
+   "F28",
+   "F29"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage",
+   "ev-srinivasa-khardaha-jahnava"
+  ],
+  "note": "Среди преданных Кхардахи при Васудхе и Джахнаве (БР 4.91, 8.208–220; НВ 3)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@vasudha",
+  "facts": [
+   "F26",
+   "F29"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage"
+  ]
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@virabhadra",
+  "facts": [
+   "F26",
+   "F28"
+  ],
+  "events": [
+   "ev-narottama-gauda-pilgrimage"
+  ]
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F28"
+  ],
+  "note": "Вместе провожали Нароттаму из Кхардахи (БР 8.219–220)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@suryadasa-pandita",
+  "facts": [
+   "F26"
+  ],
+  "note": "Вместе явили милость Шринивасе в Кхардахе (БР 4.91)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@gauridasa-pandita",
+  "facts": [
+   "F3",
+   "F26"
+  ],
+  "note": "Собрат по двенадцати гопалам; B 835 по опечатке ставит его имя вместо Махеши (⚠1); вместе — в Кхардахе (БР 4.91). Не путать с тёзкой — внуком Гауридаса Махешей Пандитом (@gauridasa-pandita F16)."
+ },
+ {
+  "from": "@mahesha-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F8",
+   "F10",
+   "F11",
+   "F12",
+   "F16",
+   "F18"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 11.32 — главный источник сведений о шрипате и о сомнительном родстве; 28 июня 1931 г. принял на себя управление шрипатом в Чакдахе; шрипат — в перечне матхов Шрилы Прабхупады (T 255, 269)."
  },
  {
   "from": "@mukunda-datta",
