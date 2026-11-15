@@ -148,7 +148,7 @@ B — вероятно, больше сотни).
 | @buddhimanta-khan (049) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @kashishvara (050, Кашишвара Пандит) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagadisha-pandita (051) | ✓ | ✓ (PDF) | — |
-| @mahesha-pandita (052) | ✓ | ✓ (PDF) | — |
+| @mahesha-pandita (052) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @devananda-pandita (053) | ✓ | ✓ (PDF) | — |
 | @keshava-kashmiri (054) | ✓ | ✓ (PDF) | — |
 | @vallabha-bhatta (055) | ✓ | в работе | — |
