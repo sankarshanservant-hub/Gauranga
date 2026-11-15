@@ -4422,6 +4422,10 @@
     "type": "companion"
    },
    {
+    "from": "@vasudeva-datta",
+    "type": "companion"
+   },
+   {
     "from": "@vasudeva-vipra",
     "type": "met"
    },
@@ -7888,6 +7892,10 @@
    },
    {
     "from": "@vasu-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
     "type": "other"
    },
    {
@@ -12623,6 +12631,10 @@
    {
     "from": "@vallabha-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "other"
    }
   ]
  },
@@ -14928,6 +14940,10 @@
    {
     "from": "@vakreshvara",
     "type": "co-worker"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "friend"
    }
   ]
  },
@@ -15455,6 +15471,10 @@
    {
     "from": "@vakreshvara",
     "type": "companion"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "other"
    },
    {
     "from": "@vasudeva-vipra",
@@ -16138,6 +16158,10 @@
     "type": "other"
    },
    {
+    "from": "@vasudeva-datta",
+    "type": "co-worker"
+   },
+   {
     "from": "@vasudeva-vipra",
     "type": "other"
    },
@@ -16668,6 +16692,10 @@
    {
     "from": "@srivasa",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "sibling"
    }
   ]
  },
@@ -20894,6 +20922,10 @@
    {
     "from": "@vallabha-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "other"
    }
   ]
  },
@@ -21123,6 +21155,10 @@
    },
    {
     "from": "@srivasa",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
     "type": "other"
    },
    {
@@ -23952,6 +23988,10 @@
     "type": "other"
    },
    {
+    "from": "@vasudeva-datta",
+    "type": "patron"
+   },
+   {
     "from": "@vishnupriya",
     "type": "other"
    },
@@ -25777,6 +25817,10 @@
    {
     "from": "@vallabha-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "other"
    }
   ]
  },
@@ -26234,6 +26278,10 @@
    {
     "from": "@shridhara-maharaja",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "other"
    }
   ]
  },
@@ -26372,6 +26420,10 @@
   "related_by": [
    {
     "from": "@sanatana-gosvami",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
     "type": "other"
    }
   ]
@@ -27971,6 +28023,172 @@
    "ev-lord-disappearance",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Мадхуврата, певец во Врадже (ГГД 140); происхождение — Чаттаграм (Читтагонг)",
+  "card": "parshadas/cards/vasudeva-datta.yaml",
+  "article": {
+   "ru": "parshadas/ru/vasudeva-datta.md",
+   "en": "parshadas/en/vasudeva-datta.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#chattagrama",
+    "conf": "день и год явления источники не называют; место — Читтагонг: деревня Чханхара (#chhanhara; B 853, T 43, комментарий издания ЧБ к Ади 2.36–37) ≠ Чакрашала (#chakrashala; «Према-виласа» 22.4) — ⚠1; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F3",
+     "F4",
+     "F8"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "источники об уходе ничего не сообщают; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет (есть лишь парикрама Модадрума-двипы с «Божествами … Васудевы Датты Тхакура»)",
+    "facts": [
+     "F8"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Мадхуврата, певец во Врадже (вместе с Мадхукантхой — Мукундой Даттой)",
+    "source": "ГГД 140",
+    "level": "A",
+    "variants": [
+     "«Анубхашья» к ЧЧ Ади 12.57 и «Према-виласа» 22.14 — так же."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "sibling",
+    "who": "@mukunda-datta",
+    "note": "Младший брат; оба — певцы Гауранги (ГГД 140: Мадхукантха и Мадхуврата); Васудева считал младшего старшим, ибо тот раньше обрёл милость Господа (ЧЧ Мадхья 11.139–140); пел в его группе на Ратха-ятре. = @mukunda-datta F2–F3, F52–F53."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Господь радовался ему больше, чем Мукунде (Мадхья 11.138); велел переписать «Брахма-самхиту» и «Карнамриту»; в Айтоте плясал под одно его пение (14.98); на его молитву ответил, что Кришне не нужно его страдание (15.167–169); называл Себя проданным ему (ЧБ Антья 5.26–30); в 1514/15 навестил его дом (Мадхья 16.206)."
+   },
+   {
+    "type": "friend",
+    "who": "@shivananda-sena",
+    "note": "Ближайший друг и сосед в Кумарахатте; по велению Господа — его «сархел», ведущий хозяйство щедрого Васудевы (ЧЧ Мадхья 15.93–96); вместе ходили в Пури и вместе встречали Господа (махакавья 14; ЧБ Антья 5.18). = @shivananda-sena F15, F32."
+   },
+   {
+    "type": "friend",
+    "who": "@srivasa",
+    "note": "Близкий друг; жил рядом с ним в Кумарахатте; в доме Шриваса — киртаны в Навадвипе и слова Господа «Я продан Васудеве» (ЧБ Антья 5). = @srivasa F95, F124."
+   },
+   {
+    "type": "friend",
+    "who": "@pundarika-vidyanidhi",
+    "note": "Земляк из Читтагонга; лишь Мукунда и Васудева знали славу его тайной премы (ЧБ Мадхья 7.43). = @pundarika-vidyanidhi F12, F15, F30."
+   },
+   {
+    "type": "protege",
+    "who": "@yadunandana-acharya",
+    "note": "Ядунандана Ачарья получил его милость (ЧЧ Ади 12.57; Антья 6.161) и почитал его гуру-благодетелем; но учеником (по дикше) он был у Адвайты (Антья 6.162; «Анубхашья»: «избранник его милости, но не ученик») — ⚠5. Ядунандана — дикша-гуру Рагхунатхи Даса."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Ученик облагодетельствованного им Ядунанданы (ЧЧН 10.3; ЧЧ Антья 6.161). = @raghunatha-dasa F2, F13."
+   },
+   {
+    "type": "patron",
+    "who": "@vrindavana-dasa",
+    "note": "Мамгачхи — родина Вриндавана Даса и место Божества Васудевы; по «Према-виласе» 23.71–72 Васудева содержал Вриндавана с матерью при своём храме; по M 234 — Нараяни жила в его доме."
+   },
+   {
+    "type": "patron",
+    "who": "@narayani",
+    "note": "Вдова, мать Вриндавана Даса; жила в его доме (M 234) / при его храме («Према-виласа» 23.72). ⚠Б5."
+   },
+   {
+    "type": "deity-served",
+    "who": "@madana-gopala-mamgachi",
+    "note": "Установил Божество Шри Мадана-Гопалы в Мамгачхи (Модадрума-двипа); при Бхактисиддханте Ему служили без заботы («Анубхашья» к Ади 10.41); ныне — рядом с Божествами Саранги Тхакура (T 94; календарь ШЧСМ) — ⚠4."
+   },
+   {
+    "type": "neighbor",
+    "who": "@saranga-thakura",
+    "note": "Мадана-Гопала Васудевы — в храме Саранги Тхакура в Мамгачхи (T 94). = @saranga-thakura F24."
+   },
+   {
+    "type": "co-worker",
+    "who": "@murari-gupta",
+    "note": "Пели в одной группе на Ратха-ятре; бились в воде в Индрадьюмне (ЧЧ Мадхья 14.80); вместе посылали угощения (Антья 10.121); вместе не отпускали Джагадананду (Антья 12.98). = @murari-gupta F84–F86, F94."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Пришедшего от Господа Джагадананду Мурари и Васудева окружили заботой и не отпускали (ЧЧ Антья 12.98); B 857 пересказывает неточно (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "По B 857 — пришёл к Шачи с вестью о Господе; по ЧЧ Антья 12.98 так не сказано (⚠2). = @shachi F114."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "У него Васудева по велению Господа взял две книги с юга, чтобы переписать (ЧЧ Мадхья 11.141–142). = @svarupa-damodara F149."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "С преданными Гауды во главе с Адвайтой ежегодно шёл в Пури; по махакавье 14.60 Адвайта, позванный царём, взял его спутником; «Адвайта-пракаша» 10.28 (ур. D): принял от Адвайты мантру — ⚠6."
+   },
+   {
+    "type": "other",
+    "who": "@gopinatha-acharya",
+    "note": "Показал его царю с крыши дворца: «А это Васудева Датта и Шивананда Сен» (ЧЧ Мадхья 11.87; ЧЧН 8)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Узнал его, глядя с крыши (ЧЧ Мадхья 11.87)."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Напомнил Господу: «Когда Васудева молил освободить все души, Ты пообещал» — и спас всех санкиртаной (ЧЧ Антья 3.73–75)."
+   },
+   {
+    "type": "other",
+    "who": "@prahlada",
+    "note": "Господь: «ты — сам Прахлада» (ЧЧ Мадхья 15.165) — сравнение по качеству, не отождествление."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.41 (Мамгачхи, Мадана-Гопала), Мадхья 15.93–95, 15.162–163 (сравнение с Христом), 15.165, 15.167–169, Антья 6.161–162 и 6.263 (Ядунандана — не ученик)."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "Махакавья 13.146, 14.14–101, 17.30–39, 20.17; «Чайтанья-чандродая», акты 8–10."
+   },
+   {
+    "type": "other",
+    "who": "@vasu-ghosha",
+    "note": "Тёзка, не путать: Васудева Гхош, киртания, брат Говинды и Мадхавы Гхошей."
+   },
+   {
+    "type": "other",
+    "who": "@vasudeva-vipra",
+    "note": "Тёзка, не путать: прокажённый брахман Курма-кшетры (ЧЧ Мадхья 7)."
+   }
+  ],
   "related_by": [
    {
     "from": "@buddhimanta-khan",
@@ -28045,6 +28263,10 @@
    {
     "from": "@srivasa",
     "type": "niece"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "patron"
    }
   ]
  },
@@ -28217,6 +28439,10 @@
    },
    {
     "from": "@shridhara",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
     "type": "other"
    }
   ]
@@ -30510,6 +30736,10 @@
    {
     "from": "@svarupa-damodara",
     "type": "friend"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "friend"
    }
   ]
  },
@@ -30877,6 +31107,10 @@
    {
     "from": "@vasu-ghosha",
     "type": "companion"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "friend"
    },
    {
     "from": "@yamunacharya",
@@ -31842,6 +32076,10 @@
    {
     "from": "@vakreshvara",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "other"
    }
   ]
  },
@@ -32613,6 +32851,10 @@
    },
    {
     "from": "@vasu-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
     "type": "other"
    },
    {
@@ -34337,6 +34579,10 @@
    {
     "from": "@raghunatha-dasa",
     "type": "guru"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "protege"
    }
   ]
  },
@@ -43410,6 +43656,10 @@
     "type": "other"
    },
    {
+    "from": "@vasudeva-datta",
+    "type": "other"
+   },
+   {
     "from": "@vasudeva-vipra",
     "type": "other"
    },
@@ -48920,6 +49170,10 @@
    {
     "from": "@shivananda-sena",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
+    "type": "neighbor"
    }
   ]
  },
@@ -51482,6 +51736,10 @@
   "related_by": [
    {
     "from": "@saranga-thakura",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-datta",
     "type": "other"
    }
   ]
@@ -56235,6 +56493,21 @@
   "related_by": [
    {
     "from": "@govinda-ghosha",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@madana-gopala-mamgachi",
+  "ru": "Мадана-Гопала — Божество Васудевы Датты (Мамгачхи)",
+  "en": "Madana-Gopala, the Deity of Vasudeva Datta (Mamgachi)",
+  "note": "установлен @vasudeva-datta в Мамгачхи (#modadrumadvipa), на родине @vrindavana-dasa; ныне — рядом с @radha-gopinatha-mamgachi (T 94); не путать с @madana-gopala-deity",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@vasudeva-datta",
     "type": "deity-served"
    }
   ]
