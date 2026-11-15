@@ -21,9 +21,10 @@ Srila Bhaktisiddhanta, in the “Anubhashya” (on CC, Adi 12.82), following the
 counts Vallabha Bhatta among the twenty-three branches of Gadadhara Pandita and adds that the Vallabha sampradaya, the
 path of *pushti*, is known by his name. One of the biographies also traces the line of teachers: Madhavendra Puri —
 Pundarika Vidyanidhi — Gadadhara Pandita — Vallabha; and it calls the Pushti-marga of “the original Vallabha” the path
-of a follower of Gadadhara. The “Amrita-pravaha-bhashya” (on CC, Madhya 19.61) speaks of him as a Vaishnava pandita,
-later an acharya of the Vishnusvami sampradaya; the books of his followers, too, trace him to Vishnusvami and
-Bilvamangala. <!-- F3 F4 -->
+of a follower of Gadadhara. The “Amrita-pravaha-bhashya” (on CC, Madhya 19.61) speaks of him as a Vaishnava pandita who
+first entered Mahaprabhu's sampradaya but, not receiving much honour there, became an acharya of the Vishnusvami
+sampradaya; his influence, it adds, is great in Gokula and in the Bombay region. The books of his followers, too, trace
+him to Vishnusvami and Bilvamangala. <!-- F3 F4 F86 -->
 
 ## Birth
 One of the biographies tells of his birth as follows. In the fifteenth century there lived in Varanasi two people who had
@@ -120,7 +121,7 @@ were Sri Rupa and his brother Anupama, and the Lord introduced them to Vallabha:
 
 This was a test, and, as one of the biographies remarks, Vallabha passed it: he did not see a Vaishnava as an ordinary
 mortal, he had faith in the holy name, and he was not merely a ritualist smarta brahmana; the Vaishnava nature had to a
-great extent awakened in him, and that is why the Lord accepted his invitation. Mahaprabhu was very pleased with the
+great extent awakened in him, and that is why the Lord accepted his invitation. Mahaprabhu was delighted with the
 Bhatta's words, praised him and, overcome with prema, recited verses from the “Hari-bhakti-sudhodaya”: low birth is burnt
 away in the fire of bhakti, while without devotion to the Lord high birth, learning and austerity are only ornaments on a
 dead body (CC, Madhya 19.73–75). <!-- F30 Q2 I1 -->
@@ -134,7 +135,7 @@ Him while He took His midday bath, and then brought Him to his house:
 “Joyfully Bhatta offered Him a fine seat and himself washed the Lord's feet. With his whole family he placed that water on his head, and he dressed the Lord in a new kaupina and outer cloth. He worshipped the Lord grandly with sandal paste, flowers, incense and lamps, and with due respect he had Balabhadra Bhattacharya do the cooking.” (CC, Madhya 19.85–87)
 
 Vallabha fed the Lord with love, and fed Rupa and Anupama too; the remnants of the Lord's meal Balabhadra gave to Sri
-Rupa and to Krishnadasa.[^8] When the Lord lay down to rest, the Bhatta himself massaged His feet; the Lord sent him to
+Rupa and to Krishnadasa.[^8] As the Lord rested after the meal, the Bhatta himself massaged His feet; the Lord sent him to
 eat, and after his meal he came back to His feet (CC, Madhya 19.88–91). One of the biographies especially remembers that
 Vallabha and his whole family drank the water that had washed the Lord's feet. <!-- F30 F31 F35 -->
 
@@ -160,12 +161,14 @@ meaning of Krishna's name” (CC, Madhya 1.263). <!-- F36 F47 -->
 The seat (*baithak*) of Vallabhacharya is shown today about a *krosha* from present-day Arail, at a place called Deorah.
 The name, it is said, is a corruption of *deva-rishi*: according to the books of Vallabha's followers, gods and rishis
 lived there for the sake of his company. Local tradition holds that Sri Chaitanya came there too. The baithak belongs to
-Muralidhara Lalji, the owner of the Gopalji temple in Kashi. Srila Bhaktisiddhanta Sarasvati and his companions, after
-visiting Kashi and Prayaga, also visited Arail, where Mahaprabhu had met Vallabhacharya. <!-- F37 -->
+Muralidhara Lalji, the owner of the Gopalji temple in Kashi. And at Adaila itself, according to the
+“Amrita-pravaha-bhashya,” an ancient Vishnu temple of the “Vallabhi” sampradaya stands to this day. Srila
+Bhaktisiddhanta Sarasvati and his companions, after Kashi and Prayaga, also went to Arail, the place of Mahaprabhu's
+meeting with Vallabhacharya. <!-- F37 F86 -->
 
 ## At Puri: Mercy that Looks like Disregard
-The second meeting the “Charitamrita” tells of took place at Puri, in one of the following years, when the Gaudiya
-devotees had again come for the Ratha-yatra:
+The second meeting the “Charitamrita” tells of took place at Puri the next year, when the Gaudiya devotees had again
+come for the Ratha-yatra:
 
 “While the Lord was thus enjoying His pastimes with the devotees, Vallabha Bhatta came to meet Him. Coming before the Lord, the Bhatta bowed at His feet, and the Lord embraced him, regarding him as a *bhagavata*, a devotee. Showing him honour, the Lord seated him near Himself, and the Bhatta humbly began to speak. ‘For many days I have longed to see You. Jagannatha has fulfilled my desire: I have seen You. Whoever obtains Your sight is fortunate. When I see You, it is as if I see Bhagavan Himself.’” (CC, Antya 7.4–8)
 
@@ -199,8 +202,8 @@ Why the Lord said all this, Kaviraja explains:
 
 “Mahaprabhu knew how firmly pride was rooted in the Bhatta's heart, and so He spoke all this by way of a hint. ‘I am a Vaishnava,’ the Bhatta thought. ‘I know all the conclusions of bhakti, and no one explains the meaning of the Bhagavata better than I.’ Such was the pride that had long lived in his mind, but the Lord's words humbled it.” (CC, Antya 7.51–53)
 
-One of the biographies says just this: knowing that Vallabha was proud of his learning, the Lord hid His own glory from
-him and chose to speak of the virtues of His associates. <!-- F50 F38 F39 F40 F51 Q4 Q5 I3 -->
+One of the biographies sees the same: aware of the scholar's pride in his learning, the Lord concealed His own greatness
+from him and turned the talk instead to the virtues of those around Him. <!-- F50 F38 F39 F40 F51 Q4 Q5 I3 -->
 
 Vallabha wished to see these Vaishnavas, and the Lord told him that all of them were now in Puri, having come for the
 Ratha-yatra. Then Vallabha earnestly invited the Lord, and the next day the Lord introduced him to the Vaishnavas:
@@ -296,8 +299,13 @@ The next day Gadadhara himself invited the Lord with all the devotees, and there
 “There Vallabha Bhatta received the Lord's permission, and from the Pandita he obtained all he had long prayed for.” (CC, Antya 7.167)
 
 — that is, the mantra and initiation he had asked of the Pandita. Kaviraja ends the chapter with a promise: “By hearing of
-it, one gains the treasure of love for Gaura” (CC, Antya 7.168); and in his review of the book he recalls that the Lord,
-teaching Vallabha many lessons, broke his pride completely (Antya 20.114). <!-- F63 -->
+it, one gains the treasure of love for Gaura” (CC, Antya 7.168); and in his review of the book he recalls that the Lord
+broke Vallabha's pride in various ways (Antya 20.114). <!-- F63 -->
+
+And on the words of the brief summary of the pastimes — that the Lord explained to Vallabha the meaning of the holy name
+(Madhya 1.263) — Srila Bhaktisiddhanta gives an explanation in the “Anubhashya”: Vallabha had received the name-mantra
+from Gadadhara Pandita, an intimate associate of Gaurasundara, and so Mahaprabhu, regarding him as belonging to His own
+sampradaya, Himself explained to him the meaning of the name. <!-- F82 -->
 
 Thus Vallabha became a disciple of Gadadhara, and through him, as one of the biographies reminds us, an heir of the line
 of Pundarika Vidyanidhi and Madhavendra Puri. The same biography says that, having received the mercy of Gaurasundara and
@@ -350,8 +358,9 @@ Nathji, and the sampradaya came to be called by the name “Vallabhi,” while h
 
 ## His Sons and His Departure
 Vallabha had two sons, Gopinatha and Vitthalanatha. According to one of the biographies, Gopinatha was born in Shaka 1432
-(1510) and Vitthala in 1437 (1515); the “Anubhashya” (on CC, Madhya 18.47) also calls Vitthaleshvara the son of Vallabha
-Bhatta. Of Vitthalanatha and his service to Gopala — see the article on Madhavendra Puri. <!-- F76 -->
+(1510) and Vitthala in 1437 (1515). Srila Bhaktisiddhanta gives the same years in the “Anubhashya” (on CC, Madhya 18.47)
+and adds that the part of the commentary on the “Brahma-sutra” that Vallabha did not live to finish was completed by
+Vitthala. Of Vitthalanatha and his service to Gopala — see the article on Madhavendra Puri. <!-- F76 F85 -->
 
 The biography has preserved Vallabha's last instruction. His sons and disciples came to him and asked what their duty
 would be when he was gone. Then, on the granite slab on which he was sitting, he wrote: if you stray from the
@@ -361,9 +370,14 @@ At the end of his life, according to his followers' books (the “Ghar-varta” 
 of the biographies, Vallabha passed through all the stages of sannyasa — kutichaka, bahudaka, hamsa and paramahamsa; he
 took sannyasa thirty-nine days before his departure and left this world in Vikrama 1587 (Shaka 1452, 1530). Srila
 Bhaktisiddhanta writes in the “Anubhashya” that at the end of his life he took tridandi-sannyasa and in Shaka 1452 left
-this world in Varanasi. The sources do not name the day of his departure, nor is it in the Vaishnava calendar of the Sri
+this world in Varanasi. Elsewhere (on CC, Madhya 1.96) he specifies that Vallabha Bhatta, who belonged to the branch of
+Gadadhara Pandita, received the *tridanda* from Sri Madhavacharya, the author of the “Shrimangala-bhashya” — not
+Madhavendra Puri; and this Madhavacharya (Madhava Upadhyaya), according to the “Anubhashya” (on CC, Madhya 3.6), had
+been accepted as a tridandi disciple by Gadadhara Pandita, and from him the sampradaya of Vallabhacharya arose in the
+west. In Kashi, in a lane near the banyan called “Yatana-vata,” Vallabhacharya's samadhi can be seen even today; his
+followers, Srila Bhaktisiddhanta remarks, also call him “Mahaprabhu” (“Anubhashya” on CC, Madhya 17.87). The sources do not name the day of his departure, nor is it in the Vaishnava calendar of the Sri
 Chaitanya Saraswat Math. Ten years after his father's departure the elder son, Gopinatha, left this world at Puri.
-<!-- F78 -->
+<!-- F78 F83 F84 -->
 
 Some, according to one of the biographies, consider Keshava Puri, one of Madhavendra's followers, to be the elder brother
 of Sri Vallabhacharya; but, as the biography itself cautions, this report needs verification, and it does not specify
@@ -375,7 +389,10 @@ mercy, saw her “milk form”; that Gopala Bhatta, on the Lord's advice, receiv
 Madhavendra was merely a manager of Shrinathji's service; stories of Vyasatirtha and Bilvamangala, of “three
 Vishnusvamis,” of Chaitanya as “a branch of the Vishnusvami sampradaya.” One of the biographies cites and examines these
 stories in detail and considers them inventions of later authors, contrary both to history and to the words of Vallabha
-and Vitthalanatha themselves, who always honoured Madhavendra (see the article on Madhavendra Puri). <!-- F80 -->
+and Vitthalanatha themselves, who always honoured Madhavendra (see the article on Madhavendra Puri). One such tradition,
+citing the “Vallabha-digvijaya,” is given by Srila Bhaktisiddhanta too (“Anubhashya” on CC, Adi 1.57): Bilvamangala
+performed his bhajana in Vrindavana at Brahma-kunda for seven hundred years, and after his meeting with Vallabha Bhatta
+the service of his Deity was entrusted to Hari Brahmachari. <!-- F80 F87 -->
 
 The same biography also speaks of the later Pushti-marga — of its authors, of the sahajiyas and sakhi-bhekis; but it
 distinguishes “the original Vallabha,” a follower of Gadadhara, from the teaching as altered by his grandson Gokulanatha.
