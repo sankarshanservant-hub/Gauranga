@@ -290,7 +290,7 @@ all who seek pure devotion. <!-- F43 -->
 [^10]: The Bengali text has *avesha*: the Lord was seized with anger. This is no worldly anger but the sternness of the
     Lord instructing the world.
 [^11]: The biographies add that the devotees went to Puri on learning that Haridasa had resolved to give up his life if
-    he could not see the Lord; one of them writes that the Lord, unwilling to disregard Puri's words, agreed to let
+    he could not see the Lord, and that the Lord, unwilling to disregard Puri's words, agreed to let
     Haridasa back (even into the Gambhira) while He Himself would leave. According to the “Charitamrita,” they went to
     Puri the day after the Lord's rebuke, the Lord did not forgive Haridasa, and Haridasa left Puri only a year later
     (Antya 2.128–146).
