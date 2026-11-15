@@ -6,8 +6,8 @@ In Panihati, a village on the eastern bank of the Ganga, south of Kumarahatta, l
 Chaitanya's very first followers, a devotee in whose house, as Krishnadasa Kaviraja says, the Lord always manifested
 Himself. Today the place lies in the North 24 Parganas district of Bengal; one of the biographies gives the way there —
 about a mile from Sodpur station on the railway out of Sealdah — and Srila Bhaktisiddhanta Sarasvati describes the route
-to Panihati in the same way in his “Anubhashya.” According to the “Bhakti-ratnakara” (8.156–158), as one of the
-biographies cites it, Panihati is the birthplace of this great devotee, and the glory of such a place has no limit.
+to Panihati in the same way in his “Anubhashya.” The “Bhakti-ratnakara” (8.158) names Panihati as the place
+where this great devotee was born, and says that the glory of a devotee's birthplace knows no end.
 <!-- F6 F7 F8 -->
 
 Krishnadasa Kaviraja calls him Raghava Pandita, Raghava Thakura and simply Raghava; Vrindavana Dasa calls him Raghava
@@ -59,8 +59,8 @@ Raghava Pandita, and in the eternal pastimes, according to Karnapura, he is the 
 his love for Raghava would show his love for the Lord; of this, more below. <!-- F13 -->
 
 ## The Lord in Raghava's House
-Vrindavana Dasa tells how Mahaprabhu, having already accepted sannyasa, came from Nilachala to Gauda, wishing to go on
-from there to Vrindavana. From Advaita's house in Shantipura He went to Kumarahatta, to Srivasa, and after staying with
+Vrindavana Dasa tells how Mahaprabhu, having already accepted sannyasa, travelled from Nilachala to Gauda, wishing to go on
+from there to Vrindavana. Leaving Advaita's home in Shantipura, He went to Kumarahatta, to Srivasa, and after staying with
 him some days, to Panihati, to the house of Raghava Pandita:
 
 “When Sri Gaurasundara came to Raghava Pandita, Raghava was engaged in worshipping Krishna. Seeing the Lord of his life,
@@ -84,8 +84,8 @@ in which there was nothing but devotion. Jayananda in his “Chaitanya-mangala�
 Raghava's shaka, and however much was eaten, it never grew less; Raghava's shaka and rice, he says, are famous in
 Panihati to this day. <!-- F19 F20 F21 F22 Q4 -->
 
-The news that the Lord was in Raghava's house spread at once. First came running Gadadhara Dasa, infinitely dear to the
-Lord, and the Lord placed His feet on his head; after him came Purandara Pandita, Parameshvari Dasa and the great
+As soon as Gadadhara Dasa, infinitely dear to the Lord, heard that the Lord was in Raghava's house, he hurried there,
+and the Lord placed His feet on his head; after him came Purandara Pandita, Parameshvari Dasa and the great
 Vaishnava Raghunatha Vaidya, and Vaishnavas gathered from everywhere (CB, Antya 5.92–98). All Panihati, says Vrindavana
 Dasa, was immersed in bliss, because Gaurachandra Himself was there. <!-- F23 Q5 -->
 
@@ -115,17 +115,18 @@ Karnapura's drama “Chaitanya-chandrodaya” also speaks of the crowd on the ba
 Raghava's home five or six days, and in the “Gaura-krishnodaya” a week.[^3] <!-- F64 -->
 
 ## Nityananda in Panihati
-Later, at Mahaprabhu's command, Nityananda came from Nilachala to Gauda with His companions to give people love of God.
-Wandering along the banks of the Ganga, drawn by Raghava's pure devotion, He came to Panihati, went straight to his
-house and stayed there; Raghava, Makaradhvaja Kara and their households were overjoyed (CB, Antya 5.251–253). According
+Later, at Mahaprabhu's command, Nityananda travelled from Nilachala to Gauda together with His associates to give people
+love of God. Wandering along the banks of the Ganga, He came to Panihati — drawn, one of the biographies says, by
+Raghava's pure devotion — went straight to his house and stayed there; Raghava, Makaradhvaja Kara and their households were overjoyed (CB, Antya 5.251–253). According
 to the “Bhakti-ratnakara” (8.156–158), Ramadasa and Gadadhara Dasa came with Nityananda, and the first house He visited
 was Raghava's. <!-- F26 -->
 
 As soon as the desire to dance arose in Nityananda's heart, the best singers gathered round Him — the three Ghosha
 brothers, Madhava, Vasudeva and Govinda; Madhava, the finest of kirtaniyas, was especially dear to Nityananda. To their
-singing Nityananda danced so that the earth trembled, and His roar resounded all around (CB, Antya 5.255–260). Thus,
+singing Nityananda danced so that the earth trembled, and His roar resounded all around (CB, Antya 5.255–260); one of the biographies, in its account of Govinda
+Ghosha too, recalls in particular that he took part in the pastimes in Raghava Pandita's house. Thus,
 says Vrindavana Dasa, Nityananda began His all-auspicious mission — the deliverance of the world by the gift of divine
-love. <!-- F27 Q15 F29 -->
+love. <!-- F27 Q15 F29 F70 -->
 
 Then He sat on the Deity's throne and ordered that He be bathed (*abhisheka*). Raghava and his companions bathed Him
 according to the rules of scripture: thousands of pots of Ganga water mixed with fragrances were poured over
@@ -147,9 +148,9 @@ kadamba flowers.’ The Lord replied, ‘Go and look carefully. Perhaps a few bl
 Raghava went into the garden — and stood amazed: on the lime tree (*jambira*) by his house beautiful kadamba flowers had
 blossomed. Seeing them he forgot himself and laughed for joy; with difficulty regaining his composure, he wove a garland
 of them and brought it to Nityananda, who put it on and was greatly pleased (CB, Antya 5.281–286). The vandanas that
-glorify the Lord's companions also keep the memory of this wonder.[^5] <!-- F30 F31 -->
+glorify the Lord's companions also keep the memory of this wonder.[^5] <!-- F30 F31 F69 -->
 
-At once everything was filled with the wonderful fragrance of damanaka flowers. Nityananda, smiling, asked where it came
+At once everything was filled with the wonderful scent of damanaka blossoms. Nityananda, smiling, asked where it came
 from, and then revealed the secret: it was Mahaprabhu Himself, who had come from Jagannatha Puri to hear their kirtan;
 His body was adorned with a garland of damanaka, and as He listened He was leaning against a tree (CB, Antya 5.288–297).
 The “Bhakti-ratnakara” (12.3645–3647) and a pada of Narahari also sing of the dancing and kirtan in Raghava's house when
@@ -159,7 +160,7 @@ Vrindavana Dasa's words, those three months seemed to all like a single moment (
 <!-- F32 F33 Q11 F34 -->
 
 ## In Puri, at the Ratha-yatra
-Every year, when the time of the Ratha-yatra came, the devotees of Gauda gathered and went with Advaita to Nilachala, to
+Every year, as the Ratha-yatra drew near, the devotees of Gauda gathered and went with Advaita to Nilachala, to
 the Lord; and Raghava went with them. Vrindavana Dasa, listing those who went, names him thus:
 
 “There came also the magnanimous Raghava Pandita, in whose house Lord Chaitanya secretly performed many pastimes.” (CB,
@@ -168,7 +169,7 @@ Antya 8.32)
 Krishnadasa Kaviraja names him among those who rejoiced to hear that the Lord had returned from His journey through the
 south (Madhya 10.81–84), and on the first visit of the Gaudiyas Gopinatha Acharya, pointing them out from the roof to
 King Prataparudra, says: “This is Raghava Pandita, and this is Nandana Acharya” (Madhya 11.89). After the cleansing of
-the Gundicha temple, when Mahaprabhu sat down with His companions to honour prasada, Raghava was among those seated
+the Gundicha temple, when Mahaprabhu took His seat among His companions to honour prasada, Raghava was among those seated
 (Madhya 12.157). <!-- F35 Q6 -->
 
 On the day of the Ratha-yatra the Lord divided the devotees into four kirtan groups. The first was led by Svarupa
@@ -180,8 +181,8 @@ devotees splashed one another in pairs, and Raghava Pandita fought Vakreshvara (
 
 In other years too Raghava was among the closest. When Sanatana Gosvami came to Puri, the Lord introduced him to His
 companions, Raghava among them (Antya 4.108–110); when Vallabha Bhatta held a feast, Raghava served out prasada together
-with Svarupa, Jagadananda, Kashishvara, Shankara and Damodara, and at the Ratha-yatra of that year, when the Lord divided
-the kirtan into seven groups, Raghava Pandita led one of them (Antya 7.66, 7.70–72). Kavi Karnapura in his mahakavya
+with Svarupa, Jagadananda, Kashishvara, Shankara and Damodara, and at the Ratha-yatra of that year, when the Lord, as before,
+divided the kirtan into seven groups, Raghava Pandita led one of them (Antya 7.66, 7.70–72). Kavi Karnapura in his mahakavya
 mentions how in Puri “Raghava comes,” and in the drama “Chaitanya-chandrodaya” the Lord speaks to him affectionately in
 the house of Kashi Mishra; Murari Gupta names “Raghava Pandita and Murari” among the Gaudiyas who danced with Gauranga
 and went to Nilachala. <!-- F65 F66 -->
@@ -242,7 +243,9 @@ condiments and many other foods — and together with other provisions she gathe
 bags for the Lord's daily meals. Raghava, as Kaviraja says, carried them secretly to the Lord in Nilachala (Adi 10.26),
 and the Lord ate these foods all year round. <!-- F47 -->
 
-Kaviraja devoted part of the tenth chapter of the “Antya-lila” to these bags. It begins thus:
+Kaviraja devoted part of the tenth chapter of the “Antya-lila” to these bags and names “the description of Raghava
+Pandita's bags” in particular in the summaries of that chapter and of the whole book (Antya 10.159, 20.117). The account
+begins thus:
 
 “Raghava Pandita set out with his *jhalis* (hampers), packed with all the things that Damayanti had prepared and given
 him.” (CC, Antya 10.13)
@@ -251,7 +254,7 @@ Having listed all that Damayanti prepared, Kaviraja speaks of brother and sister
 
 “Raghava gave the orders, and Damayanti carried them out. Both had deep affection and supreme devotion for the Lord.”
 (CC, Antya 10.34)
-<!-- F50 Q7 F48 -->
+<!-- F50 Q7 F48 F71 -->
 
 Brother and sister knew that Mahaprabhu was Bhagavan Himself, and yet love made them care for Him as one cares for
 one's very own. This is not ignorance of His greatness but the sweetness (*madhurya*) of the love of Vraja, before which
@@ -261,10 +264,10 @@ not the thing but the feeling (*bhava*) with which it is offered, accepted this 
 
 The bags were tied tight and sealed, so that no one would open them on the way, and it took three porters to carry
 them. So they became famous as “raghavera jhali,” and their steward (*munsib*) was Makaradhvaja Kara, who guarded them
-as if they were his very life (Antya 10.38–40). It was he who carried them to Puri every year. <!-- F49 F15 Q8 -->
+as if they were his very life (Antya 10.38–40). According to one of the biographies, it was he who carried them to Puri every year. <!-- F49 F15 Q8 -->
 
-In the year Raghava first brought his famous bags to Purushottama, Nandana Acharya too fed the Lord during that same
-chaturmasya. In Puri Raghava handed the bags over to Govinda, the Lord's servant; Govinda kept them in a corner of the
+The biographies recall that in the chaturmasya when Raghava first carried his celebrated bags to Purushottama, Nandana
+Acharya too fed the Lord. In Puri Raghava handed the bags over to Govinda, the Lord's servant; Govinda kept them in a corner of the
 room where the Lord ate, and emptied the previous year's bags and took them away to be filled again (Antya 10.55–56).
 When all the other Gaudiyas' delicacies had been eaten, Govinda said, “Only Raghava's jhalis are left.” The Lord put
 them aside for last, and the next day, eating in seclusion, He opened them, looked at everything, tasted a little of
@@ -284,7 +287,8 @@ In Panihati, on the bank of the Ganga, Raghunatha Dasa at Nityananda's command h
 was astonished and began to laugh. He brought many kinds of prasada cooked in ghee and untouched by boiled rice, placed
 it before Nityananda and distributed it among the devotees. “I offered food for You,” he said to Nityananda, “but You
 are holding a festival here, and the prasada remains at home.” Nityananda said, “Let Me eat this food by day; at night I
-will eat the prasada in your house” (Antya 6.71–74). <!-- F55 F56 -->
+will eat the prasada in your house” (Antya 6.71–74). Nityananda had Raghava sit down too; he was given two pots, and he
+himself soaked two kinds of flat rice in them (Antya 6.76). <!-- F55 F56 F67 -->
 
 When everyone had been served, Nityananda became absorbed in meditation, and Mahaprabhu, drawn by His love, came to the
 festival Himself and accepted the food. The Lord comes not because He has been summoned: He comes by His own will, when
@@ -313,12 +317,13 @@ bowed at Their feet, and gave garlands, sandal and betel to the devotees. So the
 Raghava's house, revealed to the world His servant's good fortune (Antya 6.101–121). <!-- F58 -->
 
 ## Mercy to Raghunatha
-At that festival was Raghunatha Dasa, who longed with all his heart for the feet of Mahaprabhu. Raghava showed him
-special mercy:
+At that festival was Raghunatha Dasa, who longed with all his heart for the feet of Mahaprabhu. When at supper the
+devotees asked him to sit down with them, Raghava replied that Raghunatha would eat later (Antya 6.118) — and showed
+him special mercy:
 
 “Raghava's mercy rested on Raghunatha: he gave him the plates with the remnants of the two brothers. He said, ‘Chaitanya
 Gosani has eaten from these. If you receive His remnants, your bondage will be cut.’” (CC, Antya 6.122–123)
-<!-- F59 -->
+<!-- F59 F68 -->
 
 In the morning Raghunatha came to Nityananda and, through Raghava, humbly asked Him to show him the way to Mahaprabhu's
 feet (Antya 6.127). Nityananda answered with a blessing:
@@ -331,7 +336,7 @@ Then Raghunatha withdrew with Raghava to take counsel and on his advice secretly
 hundred coins and seven *tolas* of gold. Raghava took the young man home, showed him his Deity, gave him a garland,
 sandal paste and plenty of prasada for the road. Raghunatha asked him to make gifts to Nityananda's companions as well —
 five coins to one, ten to another, twenty to another; Raghava had a note written for each with the name and the sum,
-and Raghunatha humbly placed a hundred coins and two tolas of gold before him and touched his feet (Antya 6.145–153).
+and Raghunatha humbly placed a hundred coins and two tolas of gold before him, touched his feet and then went home (Antya 6.145–154).
 So Raghava became Raghunatha's intercessor before Nityananda. <!-- F61 -->
 
 ## Where the Lord Always Is
@@ -353,8 +358,8 @@ Sena that the Lord had “come to Panihati,” and from there would come to Shiv
 ## Samadhi and Deity in Panihati
 When and where Raghava Pandita left this world, the sources do not say; his samadhi is in Panihati. Srila
 Bhaktisiddhanta wrote in the “Anubhashya” that over the samadhi a high platform had been built, surrounded by a bower of
-creepers, and that to the north of it, in a dilapidated house, stood Raghava's Deity, Sri Madana-mohana; His service was
-carried on without due care and was under the charge of the chief zamindar of Panihati, Shivachandra Raya Chaudhuri.[^8]
+creepers, and that to the north of it, in a dilapidated house, resided Raghava's Deity, Sri Madana-mohana; His service was
+carried on without due care, under the supervision of the then zamindar of Panihati, Shivachandra Raya Chaudhuri.[^8]
 It was this Deity that Raghava showed to Raghunatha Dasa (Antya 6.148), and when Mahaprabhu came to him, Raghava was
 engaged in serving Krishna. One of the biographies adds that sixty years after these lines were written the situation
 had changed: on the site of Raghava's house a new temple and a residential building have been built. <!-- F10 F11 Q12 -->
@@ -389,7 +394,8 @@ thing but the love with which it is offered. <!-- F62 I3 I4 I5 -->
 [^4]: One of the biographies writes that the umbrella was held by “Sri Raghavendra (Makaradhvaja Kara).” But Vrindavana
     Dasa calls Raghava Pandita himself Raghavananda (Antya 5.78, 5.279), and Makaradhvaja is told by the Lord to serve
     precisely “Sri Raghavananda” (5.107); so it was Raghava who held the umbrella over Nityananda. Another biography
-    understands the verse in the same way.
+    understands the verse in the same way, and a pada of Narahari in the “Bhakti-ratnakara” (12.3662) says plainly:
+    “Sri Raghavananda holds the umbrella.”
 [^5]: The Bengali vandana speaks of a lime tree; the Sanskrit vandana ascribed to Sri Jiva, of a pomegranate.
 [^6]: Kaviraja also names a “Raghava” in the fourth group, led by Govinda Ghosha, together with Haridasa and Vishnudasa
     (Madhya 13.42), and some biographies take him to be Raghava Pandita. But Raghava Pandita has already been named in the
