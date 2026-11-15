@@ -79,6 +79,135 @@ notes.[^4] The original sources give neither his parents' names nor the year or 
 his appearance found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. From early childhood he was attached
 to the name of Hari, and wherever the name was sung, there he could be found. <!-- F9 F10 F11 F12 F13 F14 -->
 
+## Benapole
+According to tradition, as a young man Haridasa met a Vaishnava sadhu, and that company turned him away from worldly
+life. He lived with the sadhu for a long time, and then, on his instruction, built himself a hut of leaves in the forest
+near Benapole — far from Budhana, but in the same region.[^5] The “Charitamrita” tells:
+
+“When Haridasa left his home, he lived for some time in the forest of Benapola. He built a hut in the solitary forest,
+served Tulasi, and night and day chanted three hundred thousand names. He lived on alms taken in brahmanas' houses, and by
+his spiritual power he won the reverence of all the people.” (CC, Antya 3.98–100) <!-- F15 F16 -->
+
+The whole district belonged to the landlord Ramachandra Khan, a hater of Vaishnavas; he lived nearby, at a place some call
+Kagaja Pukuriya. People only feared him, while they honoured a mendicant hermit — and this he could not bear. He tried in
+one way and another to disgrace Haridasa, but could find no fault in him. <!-- F17 -->
+
+## The Prostitute
+Then Khan resolved to ruin the saint through a woman's charms and expose him as a hypocrite. He summoned prostitutes and
+promised them money and gifts if they could break the hermit's vow. The women themselves revered the Thakura as a great
+saint and feared to bring God's anger upon themselves, but Khan's money and fear of his men were stronger. One of them,
+young and beautiful, came forward: “Three days will be enough for me to captivate this Haridasa's heart” (CC, Antya
+3.105).[^6] Khan wanted to send a constable with her to seize the saint on the spot, but she asked to go alone first; Khan's
+men could come with her later. <!-- F18 F19 F20 F21 -->
+
+In the evening, adorned and perfumed, she came to the hut, bowed to the tulasi at the entrance, bowed to the Thakura and
+sat on the threshold. Uncovering part of her body, she told him in a sweet voice that she could not live without so
+handsome a young man. Haridasa answered her calmly:
+
+“Haridasa said, ‘I shall accept you. But until I have finished chanting my fixed number of names, sit here and listen to
+the sankirtana of the name. When my chanting is finished, I shall do as you wish.’” (CC, Antya 3.113–114)
+
+She stayed and waited, and he sang the name all night until dawn. In the morning she left and told Khan that the saint
+had already agreed. On the second night the same thing happened; Haridasa explained that he had vowed to chant ten
+million names (*koti*) in a month, and tomorrow the vow would be complete. On the third night, listening to the name, she
+herself began to repeat, “Hari! Hari!” <!-- F22 F23 -->
+
+“As he chanted, the night came to an end; and through the Thakura's company the prostitute's heart was transformed. She
+fell flat at the Thakura's feet and confessed Ramachandra Khan's plot.” (CC, Antya 3.129–130)
+
+She begged for mercy, and Haridasa told her:
+
+“‘I know all about Khan's plot. He is an ignorant fool, and I feel no grief on his account. I would have left this place
+that very day; I stayed three days for your sake.’” (CC, Antya 3.132–133)
+
+Not for a moment was the Thakura “tempted”: his promise “I shall accept you” was only a stratagem of compassion, so that
+for three nights she would hear the name and be purified. <!-- F24 -->
+
+He instructed her:
+
+“‘Give away the goods of your house to brahmanas, and then come and live in this hut. Chant the name constantly and serve
+Tulasi. Then you will very soon attain the feet of Krishna.’ Saying this, he instructed her in chanting the name. Then the
+Thakura rose and departed, calling, ‘Hari! Hari!’” (CC, Antya 3.135–137) <!-- F25 -->
+
+She gave away all her property, shaved her head, kept a single cloth and, like her guru, chanted three hundred thousand
+names every day, served Tulasi and ate sparingly. With her senses subdued, she attained love for Krishna:
+
+“She became a renowned and most exalted Vaishnavi, and great Vaishnavas would go to see her.” (CC, Antya 3.141)[^7]
+<!-- F26 Q4 -->
+
+Srila Bhaktisiddhanta Sarasvati remarks in his “Anubhashya” on this account (Antya 3.139) that a guru, though entitled to
+all of a disciple's property, does not take it for himself; a Vaishnava guru is not bound by the disciple's gift and
+teaches him to give up worldly pride, not to accept what the disciple has renounced. So does a pure devotee purify and
+uplift the fallen: like Jagai and Madhai by the mercy of Gaura and Nityananda, like the robber Ratnakara, who became
+Valmiki by the mercy of Narada. The people honoured the Thakura still more, and Ramachandra Khan burned with spite.
+<!-- F27 F28 I4 -->
+
+## The Fate of Ramachandra Khan
+The “Charitamrita” tells how the offence against the saint ended. Khan grew still more hostile to the Vaishnavas, and when
+Nityananda, preaching through Bengal, stopped at his house in the pavilion of Durga, Khan had Him told to lodge in a
+cowshed. Nityananda left, saying that this house was fit only for cow-killers. Soon a Muslim vizier descended on Khan for
+unpaid revenue: for three days he slaughtered cows in Durga's shrine, plundered the house and the village, and led Khan
+away with his family, depriving him of caste, wealth and people. Kaviraja concludes:
+
+“Wherever a great soul is dishonoured, in a land or a village, the whole land is laid waste for the fault of a single
+person.” (CC, Antya 3.163)[^8] <!-- F29 Q4 -->
+
+A Vaishnava bears no grudge against anyone and regards every suffering as the fruit of his own past, but Krishna does not
+tolerate offences against His devotees, and the fruit of an offence comes — sooner or later. <!-- I3 -->
+
+## Chandapur
+From Benapole Haridasa came to Chandapur, near the present Saptagram station, a few miles from Bandel junction (Hooghly
+district). There he lived with Balarama Acharya, a disciple of Advaita and priest of the wealthy Majumdar brothers,
+Hiranya and Govardhana, revenue collectors of that district. Balarama had received Haridasa's mercy and was devoted to
+him; Haridasa chanted the name in a secluded thatched hut and took his meals in Balarama's house.[^9] <!-- F64 -->
+
+“Raghunatha Dasa, then a boy at his studies, would go to see Haridasa Thakura. Haridasa bestowed his mercy upon him, and
+that mercy became the cause of his attaining Chaitanya.” (CC, Antya 3.168–169)
+
+So the seed of exclusive devotion was sown in the heart of the future Raghunatha Dasa Gosvami. <!-- F65 Q7 -->
+
+One day, at the brothers' request, Balarama brought Haridasa to their house, to an assembly of learned brahmanas. The
+Majumdars rose to greet him, bowed and seated him in the place of honour; the guests praised him, and since the Thakura
+chanted three hundred thousand names a day, the talk turned to the glory of the holy name. Some said that the name
+destroys sins, others that it grants liberation. Haridasa objected:
+
+“‘These two are not the fruit of the name. The fruit of the name is that love for Krishna's feet arises.’” (CC, Antya
+3.177)
+
+And he explained: before sunrise, while the sun is still below the horizon, the darkness already begins to lift and the
+fear of thieves and ghosts passes away.
+
+“‘In the same way, as the name begins to rise, sins and the like are destroyed; when it has risen, love for Krishna's feet
+dawns. Liberation is a trifling fruit that comes from the mere semblance of the name (*namabhasa*). Krishna wishes to give
+that liberation, but His devotee does not accept it.’” (CC, Antya 3.184–185) <!-- F66 F67 Q7 -->
+
+At the assembly was the brahmana Gopala Chakravarti, a handsome and learned young man, the chief tax collector, who
+gathered twelve lakhs of coins for the Padishah.[^10] He could not bear to hear that liberation comes from the mere
+semblance of the name (*namabhasa*); leaping up, he exclaimed that these were the words of a sentimentalist: even by
+knowledge of Brahman liberation is not attained in ten million births. Haridasa calmly replied that all the scriptures
+say so. Then the brahmana demanded an oath:
+
+“The brahmana said, ‘If liberation does not come from the semblance of the name, then pledge that you will cut off your
+nose!’ Haridasa said, ‘If liberation does not come from the semblance of the name, then I shall cut off my own nose — that
+is certain.’” (CC, Antya 3.196–197)[^11] <!-- F68 F69 -->
+
+The assembly was outraged. The Majumdars rebuked the brahmana and dismissed him from service, and Hiranya forbade him his
+door; Balarama told him, “You have insulted Haridasa Thakura! You will be utterly ruined; no good will come to you” (CC,
+Antya 3.200). All fell at the Thakura's feet, and he, smiling, reassured them:
+
+“‘None of you is at fault, nor is this ignorant brahmana to blame: his mind is devoted to logic. The greatness of the name
+lies beyond the reach of logic. How could he know these truths? Go home. May Krishna bless you all, and may no one suffer
+on my account.’” (CC, Antya 3.203–205) <!-- F70 F71 -->
+
+Within three days the brahmana was struck by leprosy: his nose and his fingers and toes fell away. Everyone saw how dear
+the Thakura was to the Lord. Haridasa himself wished no punishment:
+
+“It is the nature of a devotee to forgive the faults of the ignorant; it is Krishna's nature that He cannot bear
+blasphemy of His devotee.” (CC, Antya 3.211)
+
+The news of the brahmana's illness grieved Haridasa deeply; he took leave of Balarama and went to Shantipura, to Advaita.
+<!-- F72 Q7 I3 -->
+
 [^1]: The title “Namacharya” is given him by the biographies; one of them puts the word in the mouth of Sanatana
     Gosvami: “and so the world honours you as the Namacharya.” In the “Charitamrita” Sanatana calls him “the guru of all”
     (*jagat-guru*, Antya 4.103); as a title the word “Namacharya” occurs neither in the “Charitamrita” nor in the
@@ -105,3 +234,26 @@ to the name of Hari, and wherever the name was sung, there he could be found. <!
     Shaka and says that at the age of five he came to Advaita; in the “Prema-vilasa” (24.197–207) he is a brahmana raised
     by Malai Kazi. All these are later traditions; the original sources, written in the lifetime of the Lord's
     associates, speak of a Muslim family.
+[^5]: According to the “Advaita-prakasha” (9.1–47), Haridasa, having already been with Advaita, went with His leave to
+    Phulia, where he gave the name to a learned brahmana, Ramadasa, and then, not wishing to grow attached to a place,
+    withdrew to the forest near Benapole, where the villagers built him a hut.
+[^6]: One of the biographies relates that the kindest-hearted of the prostitutes came forward: if they refused Khan, all
+    of them would perish, but if she went alone, the saint's curse would fall on her alone. In the “Charitamrita” it is
+    “the young and beautiful one” who comes forward, sure that three days will be enough; we follow the “Charitamrita.”
+    Another biography calls her Lakshahira and writes that the forest has since been known as “the forest of Hira the
+    prostitute”; it also sees in her bow to the tulasi a trace of a Hindu upbringing, and in her words a threat to take
+    her own life if the Thakura rejected her.
+[^7]: According to the “Advaita-prakasha” (9.48–76), the prostitute came in the guise of a Vaishnava woman and became
+    Krishnadasi; according to the “Prema-vilasa” (24.261–289), she was sent by the kazi.
+[^8]: One of the biographies tells it otherwise: in time, for some offence against the state, a Muslim vizier bound
+    Ramachandra Khan, confiscated his house and dishonoured the women of his family — Nityananda is not mentioned there.
+    Another biography adds that Khan's house was razed to the ground. We follow the “Charitamrita” (Antya 3.142–163): the
+    ruin was the fruit of the offence against Haridasa and Nityananda.
+[^9]: One of the biographies places Chandapur in later years, when Haridasa lived with Advaita and wandered. According
+    to the “Charitamrita” (Antya 3.164, 3.212), he came to Chandapur straight from Benapole and went from there to
+    Shantipura; so too another biography. The first of them calls Balarama a *kripa-patra*, “a vessel of the mercy” of
+    the Namacharya.
+[^10]: One of the biographies calls him simply a brahmana employed on the Majumdars' estate.
+[^11]: According to one of the biographies, the brahmana threatened that Haridasa's own nose would be cut off if he
+    could not prove what he said. In the “Charitamrita” Haridasa himself agrees to cut off his nose if the semblance of
+    the name does not give liberation.
