@@ -155,7 +155,7 @@ B — вероятно, больше сотни).
 | @govinda-ghosha (056а) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @madhava-ghosha (056б) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vasudeva-vipra (057) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @vasudeva-datta (058) | ✓ | ✓ (PDF) | — |
+| @vasudeva-datta (058) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @haridasa-thakura (059) | ✓ | ✓ (PDF) | — |
 | @chhota-haridasa (060) | ✓ | ✓ (PDF) | ✓ сплошная |
 

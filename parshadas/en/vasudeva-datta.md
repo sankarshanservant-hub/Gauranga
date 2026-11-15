@@ -56,11 +56,11 @@ his appearance or departure, and his days are not in the Vaishnava calendar of t
 <!-- F7 F8 -->
 
 ## In Navadvipa
-Like Mukunda, Vasudeva settled in Navadvipa and became one of Mahaprabhu's chief companions: he sang in the sankirtana
+Like Mukunda, Vasudeva settled in Navadvipa and became one of the foremost among Mahaprabhu's companions: he sang in the sankirtana
 at Srivasa's house and in the streets of the town, and the Lord delighted in his company, seeing in him every Vaishnava
 virtue. According to one of the biographies, at Mahaprabhu's own suggestion he was present every night at Srivasa's
 house when the kirtana pastimes took place; Vrindavana Dasa names a “Vasudeva” among those who took part in these
-kirtanas (CB, Madhya 8.112–116). Another biography adds that he had a beautiful voice and knew the “Sangita-shastra,”
+kirtanas (CB, Madhya 8.112–116). Another biography adds that his voice was lovely and he knew the “Sangita-shastra,”
 the science of music, well. <!-- F9 F12 -->
 
 The brothers' countryman Pundarika Vidyanidhi lived secretly in Navadvipa, in his house in Mayapur, behaving like an
@@ -355,7 +355,7 @@ explaining Karnapura's words “his disciple is Raghunatha,” Srila Bhaktisiddh
 of his mercy — not that he received initiation from him in particular.”[^11] <!-- F41 Q16 -->
 
 ## Madana-Gopala in Mamgachi
-In Modadrumadvipa of Navadvipa, a mile from Purvasthali station on the Howrah–Katwa line, lies the village of
+In Modadrumadvipa of Navadvipa, on the Howrah–Katwa railway, a mile from the Purvasthali stop, lies the village of
 Mamgachi, the birthplace of Thakura Vrindavana Dasa, son of Narayani, Srivasa's niece. Here Vasudeva Datta installed
 the Deity of Sri Madana-Gopala. Srila Bhaktisiddhanta wrote in the “Anubhashya”:
 
@@ -441,11 +441,11 @@ Mine belongs to Vasudeva” remain an eternal witness to how the Lord yields to 
     (Antya 6.161). Srila Bhaktisiddhanta's explanation is in the “Anubhashya” to Antya 6.263 (verse 10.3 of the
     “Chaitanya-chandrodaya”).
 [^12]: Evidently the Deity was later moved to the temple of Saranga Thakura; the sources do not say so directly.
-[^13]: According to the “Prema-vilasa,” after her husband's death Narayani lived with Srivasa, and came to Mamgachi
+[^13]: According to the “Prema-vilasa,” after her husband left this world Narayani lived with Srivasa, and came to Mamgachi
     when Vrindavana was five years old.
 [^14]: This chapter exists only in the 1983 edition. According to the “Charitamrita” and the “Chaitanya-bhagavata,”
     Vasudeva lived in Bengal and came to Puri every year; they do not speak of his presence at the Lord's
     disappearance.
 [^15]: One of the biographies, retelling the Lord's teachings to Sanatana, writes that mercy as the chief quality of a
-    Vaishnava is shown by the examples of Haridasa Thakura and Vasudeva Datta. In the “Charitamrita” (Madhya 22) and in
+    Vaishnava is illustrated by Haridasa Thakura and by Vasudeva Datta. In the “Charitamrita” (Madhya 22) and in
     the “Anubhashya” on it, Vasudeva's name does not appear at that place.
