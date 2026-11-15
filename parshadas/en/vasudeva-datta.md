@@ -2,8 +2,8 @@
 *Васудева Датта · @vasudeva-datta*
 
 ## The Singer Madhuvrata
-Among Sri Chaitanya's companions there are many singers, devotees and benefactors, but of only one did Krishnadasa
-Kaviraja say that he wished to take upon himself the sins of the whole universe. This is Vasudeva Datta, the elder
+Among Sri Chaitanya's companions there are many singers and benefactors, but of one of them Krishnadasa Kaviraja
+speaks in a special way: he wished to take upon himself the sins of the whole universe. This is Vasudeva Datta, the elder
 brother of Mukunda Datta. Krishnadasa Kaviraja calls him Vasudeva Datta, simply Vasudeva or Datta, and “the Lord's
 great-souled servant”; Vrindavana Dasa calls him “Vasudeva Datta Mahashaya”; Lochana Dasa, “Vasu Datta”; Kavi Karnapura,
 “the one jewel of the Datta family” and “Mukunda's elder brother”; the “Prema-vilasa,” “a vessel of Prabhu's mercy.” The
@@ -75,7 +75,7 @@ When the Lord led Navadvipa in kirtana to the Kazi's house, Vasudeva, according 
 the countless devotees of that town sankirtana; and Vrindavana Dasa names a “Vasudeva” among the singers of the
 procession (CB, Madhya 23.151, 23.209). <!-- F10 -->
 
-Later poets too remember him in Navadvipa. Lochana Dasa, at the opening of his “Chaitanya-mangala,” writes: “The feet
+Other poets too remember him in Navadvipa. Lochana Dasa, at the opening of his “Chaitanya-mangala,” writes: “The feet
 of Vasu Datta and Mukunda are my hope” (1.28), and names him among the companions who descended with the Lord (8.623).
 According to Jayananda, shortly before His sannyasa the Lord called Mukunda Datta, Govinda the blacksmith,
 Chandrashekhara, Acharya Hari, Vasudeva Datta, Shuklambara and others to go with Him across the Ganges to Katwa
@@ -116,7 +116,7 @@ he excels in every quality.’” (CC, Madhya 11.137–140)
 
 Srila Bhaktisiddhanta remarks that such was Vasudeva: free of pride himself, full of respect for others. Seniority
 among devotees is measured not by birth but by nearness to the Lord: Mukunda had taken shelter at His feet first, and
-the elder brother honoured the younger as his elder. Karnapura gives the same exchange: “The time of the Master's mercy
+the elder brother honoured the younger as his elder. Karnapura gives the same exchange; in his drama Vasudeva replies: “The time of the Master's mercy
 is the time of birth; so, though he is younger, he is my elder brother.”[^4] <!-- F31 Q11 I4 -->
 
 And at once the Lord gave Vasudeva a service:
@@ -268,12 +268,11 @@ dear to the Lord; by the Lord's mercy all divine truths are known to him. Vasude
 world. He is compassionate to all living beings and intoxicated with the sweetness of the love that Lord Chaitanya
 brought. He saw only virtues in everyone and noticed faults in no one.” (CB, Antya 5.18–21)
 
-As a true maha-bhagavata he saw no faults in others and longed for the good of everyone; he loved Hari, the guru and the
-Vaishnavas with all his heart.[^8] The Lord, seeing him, embraced him and wept, and Vasudeva, falling at His feet, sobbed
+A maha-bhagavata, he longed for the good of everyone and loved Hari, the guru and the Vaishnavas with all his heart.[^8] The Lord, seeing him, embraced him and wept, and Vasudeva, falling at His feet, sobbed
 aloud; and such was his weeping, says Vrindavana Dasa, that even those whose hearts were hard as stone or wood could not
 keep back their tears; there was no one to compare with him (5.22–25). <!-- F27 Q14 F25 -->
 
-And then the Lord said of him words He said of no one else:
+And then the Lord said of him wonderful words:
 
 “So great was the Lord's love for Vasudeva Datta that He said, ‘I belong to Vasudeva.’ Again and again Sri Gaurasundara
 said: ‘My body belongs to Vasudeva Datta. Vasudeva Datta may sell Me whenever he wishes. This is truly so and not
@@ -377,7 +376,7 @@ child; her life at Vasudeva's house and temple was her service and his care for 
 future author of the “Chaitanya-bhagavata” grew up and studied beside Vasudeva Datta's Deity. <!-- F18 -->
 
 ## Remembrance
-Lochana Dasa, in a chapter found only in one late edition of his poem, names Vasu Datta among the devotees who cried
+Lochana Dasa, in a chapter found only in one edition of his poem, names Vasu Datta among the devotees who cried
 out when the Lord entered Jagannatha at Gunjabadi.[^14] <!-- F42 -->
 
 Vaishnavas glorify him in the “Vaishnava-vandanas”: “I glorify Vasudeva Datta, full of greatness: from the breeze of
@@ -389,7 +388,7 @@ this world, the sources do not say. <!-- F43 -->
 ## His Significance
 Vasudeva Datta's life teaches the boundless nature of a Vaishnava's selfless love: he sought nothing for himself —
 neither wealth, nor liberation, nor even escape from hell — and desired only that all souls should turn to Krishna. The
-Lord answered by calling Himself his property and promised that anyone whose good Vasudeva desired would become a
+Lord called Himself his property and promised that anyone whose good Vasudeva desired would become a
 Vaishnava. Haridasa Thakura linked his prayer with the Lord's sankirtana, which delivered the moving and the
 non-moving; Srila Bhaktisiddhanta placed his compassion above all ideals of righteousness and knowledge.[^15] To his
 brother he yielded seniority, to his friend the honour of receiving the Lord first; and Mahaprabhu's words “This body of
