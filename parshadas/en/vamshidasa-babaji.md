@@ -199,7 +199,7 @@ he played on the word: “Rambha — Rambhavati, Kalavati, Lilavati — that is 
 the service, he said to himself: “Without service the pure is not attained; Raya says: service is the way to the pure.”
 And suddenly: “What use is the thread? Mahaprabhu Himself said:
 “Whether one is a *vipra*, a sannyasi or a shudra — whoever knows the truth of Krishna is a guru.” (CC, Madhya 8.127)
-And again: “In the service of Krishna birth or eminence is not taken into account at all”. (CC, Antya 4.67)”
+And again: “In the worship of Krishna there is no consideration of caste, family and the like”. (CC, Antya 4.67)”
 <!-- F54 F55 Q1 Q2 -->
 
 Once in Kashi a prakrita-sahajiya who had earlier sung lila-kirtana before him came to him. Chewing betel and laughing,
@@ -262,8 +262,7 @@ that rats had eaten food left uncovered, he remarked: “Now they steal in order
 will not eat.” He questioned a Ramanuji sadhu from Patna about Harihara-chhatra and wanted to go there, but the next
 day changed his mind. <!-- F68 F69 F70 -->
 
-On 21 Karttika (7 November) he taught in Mahaprabhu's words: “Do not eat luxurious food and do not wear costly
-clothes” (CC, Antya 6.236), and added: “Do not chew betel, do not smoke tobacco.” And he sang: “Leaving the comfort of sleep on an ornate bed, when shall I be covered with the dust of
+On 21 Karttika (7 November) he taught in Mahaprabhu's words: “Do not eat fine food, and do not wear fine clothes” (CC, Antya 6.236), and added: “Do not chew betel, do not smoke tobacco.” And he sang: “Leaving the comfort of sleep on an ornate bed, when shall I be covered with the dust of
 Vraja?” Seeing an old sadhu after his bath, he joyfully quoted the words of Hanuman:
 “The Lord of Sri and the Lord of Janaki are one and the same Supreme Soul; and yet my all in all is lotus-eyed Rama”.
 Then, saying that King Kali is very mighty, he told a legend: when Kali came, Krishna told Narada that it was time for Him to depart. “But what of the souls?”

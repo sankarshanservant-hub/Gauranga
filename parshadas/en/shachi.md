@@ -949,9 +949,7 @@ kirtana, the mother wept and prayed:
 Krishnadasa Kaviraja says that in her at that time happiness, fear and humility were joined together (3.167). When
 Srivasa and other brahmanas also wished to invite the Lord to their homes for a meal, Shachi asked them:
 
-“‘Who knows where and when I shall see Nimai again? You will always be able to meet Him in another place. But my lot is
-sad — for I have only this meeting. Therefore I beg you all, let me cook for Nimai while He stays in the house of Sri
-Advaita.’” (CC, Madhya 3.169–171) <!-- F179 F43 -->
+“‘Where will I ever see Nimai again? You will be able to meet Him elsewhere, but for me, unfortunate as I am, there is only this chance to see Him. As long as Nimai stays in the Acharya's house, let me alone feed Him. I beg this gift from you all.’” (CC, Madhya 3.169–171) <!-- F179 F43 -->
 
 A sannyasi ought not to live among his relatives, but the Lord said that He would leave neither the devotees nor His
 mother, and asked how He might fulfil both dharmas. Advaita and the devotees came to Shachi with this question, and the
@@ -1085,10 +1083,8 @@ having spent several days with Advaita, “obedient to Their mother's will”, g
 
 Krishnadasa Kaviraja speaks of this visit briefly: in Shantipur the Lord met His mother and consoled her, freeing her
 from all sorrow, and then, returning from Ramakeli, stayed with Advaita for ten days (CC, Madhya 16.210–212).[^26]
-Seeing her son after a long separation, Shachi utterly forgot herself and for many days cooked for Him. And at the
-farewell the Lord
-
-“humbly fell at His mother's feet and received her permission to set out on the path to Vraja-dhama.” (CC, Madhya
+Seeing her son after a long separation, Shachi utterly forgot herself and for many days cooked for Him. And at the farewell, “clasping His mother's feet, He entreated her humbly and
+received her permission to go to Vrindavana.” (CC, Madhya
 16.249)
 
 Mother Shachi was escorted back to Navadvipa, and the Lord returned to Nilachala (16.250). <!-- F182 F122 F113 -->
@@ -1129,8 +1125,7 @@ The most impartial of His companions, Damodara Pandita, the Lord sent to live wi
 Damodara was told to bow to her again and again on her son's behalf, to tell her how well He was, and to remind her of
 one secret:
 
-“Tell her: ‘O My dear mother! Again and again I come to your house and eat all the sweets and vegetable dishes that you
-offer Me…’” (CC, Antya 3.30)
+“‘Again and again I come to your house and eat all the sweets and vegetable dishes…’” (CC, Antya 3.30)
 
 On the last Magha-sankranti, the Lord went on, she had prepared various dishes, cakes, sweet rice and condensed milk,
 offered them to Krishna and sat down to meditate. Suddenly He came and hastily ate it all, and her eyes filled with tears
@@ -1138,8 +1133,7 @@ of joy; but when she had wiped them she saw the empty tray and decided that she 
 separation, she thought that she had not made the offering at all, went to the kitchen, found the pots full, cleaned the
 place and offered again (3.32–37).
 
-“Thus again and again I ate all the offerings you made Me, attracted by your pure love. I live in Jagannatha Puri only
-in obedience to your instruction. Yet the power of your pure love draws Me so irresistibly that I am unable to resist.”
+“In this way I eat again and again; your pure love draws Me. It is by your order that I stay in Nilachala, yet by the power of your love you bring Me to your side.”
 (CC, Antya 3.38–39)
 
 Damodara brought her Jagannatha's prasada — for her and for the devotees of Navadvipa — and stayed to live at her feet
@@ -1182,10 +1176,7 @@ believed that it was no dream.[^28] Next to her house lived the confectioner Par
 Krishnadasa Kaviraja calls the Lord “the crown of all who are devoted to their mother” and gives His words, which
 Jagadananda carried to Nadia every year:
 
-“‘Go to Nadia and convey My obeisances to My mother. On My behalf touch her lotus feet. Tell her: “Remember, every day I
-come and bow at your feet. Whenever you wish to feed Me, I surely come and eat all that you offer. I abandoned service
-to you and took sannyasa. I became a madman and neglected My duty. Do not hold this offence against Me. I am in your
-power — for I am your son. I live in Nilachala at your command and, as long as I live, I cannot leave this place.”’”
+“‘Go to Nadiya and convey My obeisances to Mother. Touch her lotus feet on My behalf. Tell her: “Please remember — every day I come and bow at your feet. Whenever you wish to feed Me, I surely come and eat. I gave up serving you and took sannyasa. I became a madman and abandoned My duty. Do not hold this offence against Me. I am dependent on you — I am your son. I stay in Nilachala by your order, and as long as I live I cannot leave it.”’”
 (CC, Antya 19.6–11)
 
 The prasada-cloth from the festival of Jagannatha's cowherd pastimes the Lord, on the advice of Paramananda Puri, sent

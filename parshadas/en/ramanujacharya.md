@@ -230,9 +230,7 @@ personified Shrutis, following the gopis, attained Him. Venkata held Narayana to
 worship of the Sri Vaishnavas to be the highest; this pride the Lord broke in jest: Svayam Bhagavan is Krishna,
 Narayana is His vilasa, and Krishna is attained only in the footsteps of the people of Vraja and the gopis. Then He
 consoled him with words on which the faith of all Vaishnavas rests: “The divine nature of Krishna and Narayana is
-identical. In the same way there is no difference between the gopis of Vraja and the goddess Lakshmi”; “The goddess
-Lakshmi tastes the sweetness of Krishna's company through the gopis of Vraja. All the eternal forms of the Supreme are
-of one nature. To see any difference between the Avataras of God is an offence” (CC, Madhya 9.153, 9.155). Venkata
+identical. In the same way there is no difference between the gopis of Vraja and the goddess Lakshmi”; “Through the gopis, Lakshmi tastes the joy of Krishna's company. To see any difference in Their Godhood is an offence” (CC, Madhya 9.153, 9.155). Venkata
 accepted this and said that his very meeting with the Lord was the mercy of Lakshmi-Narayana in answer to his service,
 and that the highest goal is Krishna-bhakti. Thus the brothers, worshippers of Lakshmi-Narayana, by the Lord's mercy
 came to relish Krishna-rasa. In the brief list of the “Chaitanya-charitamrita” the Lord's host is named Trimalla

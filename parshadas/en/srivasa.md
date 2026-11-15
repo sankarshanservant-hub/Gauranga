@@ -621,8 +621,8 @@ Even after the Lord settled in Puri, He still appeared in Bengal:
 
 “In Shachi's house, at Nityananda's dancing, at Srivasa's kirtana and in Raghava's home — in these four places the Lord always appears. He is drawn by prema: that is the Lord's innate nature.” (CC, Antya 2.34) <!-- F107 F119 Q16 -->
 
-Svarupa Damodara was, in the words of Krishnadasa Kaviraja, “the soul of the whole community of devotees headed by
-Srivasa Thakura” (CC, Madhya 10.117). And when the Lord was in Ramakeli, His company included Nityananda, Haridasa,
+To Srivasa and the other devotees, in the words of Krishnadasa Kaviraja, Svarupa Damodara
+was “as dear as life itself” (CC, Madhya 10.117). And when the Lord was in Ramakeli, His company included Nityananda, Haridasa,
 Srivasa, Gadadhara, Mukunda, Jagadananda, Murari and Vakreshvara; at the Lord's command Rupa and Sanatana touched their
 feet, and they blessed the brothers. Srivasa was also among the Lord's associates when Lokanatha came to Him. <!-- F108 F109 F135 Q15 -->
 

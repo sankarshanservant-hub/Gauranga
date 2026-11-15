@@ -137,9 +137,7 @@ into four parties:
 At the Ratha-yatra the Lord told Nityananda, Advaita, Haridasa and Vakreshvara each to dance in his own party.
 Vakreshvara was the dancer of the fourth party:
 
-“The Lord formed the fourth party headed by the kirtaniya Govinda Ghosha. The younger Haridasa, Vishnudasa and
-Raghava were to sing the response with him, and also the two brothers Madhava and Vasudeva Ghosha. Vakreshvara
-Pandita was chosen as the dancer.” (CC, Madhya 13.42–43)
+“He formed another group with Govinda Ghosha as the leader, in which Haridasa, Vishnudasa and Raghava sang, with the two brothers Madhava and Vasudeva Ghosha; and Vakreshvara Pandita danced there.” (CC, Madhya 13.42–43)
 
 The Ghosha brothers led the singing, and “Vakreshvara himself” danced before them[^7]. <!-- F40 F41 F63 Q10 F68 -->
 

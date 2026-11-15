@@ -216,12 +216,7 @@ rebukes the Lord, and the sorrow of the devotees.” And telling of the devotees
 So several bitter days passed. Hearing of what had happened, Ramachandra Puri came to the Lord to teach Him the dharma
 of a sannyasi. The Lord bowed at his feet, and he said with a smile (CC, Antya 8.60–61):
 
-“‘To gratify the senses is not the dharma of a sannyasi; he fills his belly with whatever comes. I hear that You now
-eat half; I see that You have grown thin. Such dry renunciation is not the dharma of a sannyasi either. A sannyasi
-eats as much as is fitting, but does not enjoy the objects of the senses; so he attains perfection in jnana-yoga.
-“Yoga is not for one who eats too much, Arjuna, nor for one who does not eat at all, nor for one who sleeps too much,
-nor for one who keeps awake too long. For one who is moderate in food and recreation, measured in his deeds, measured
-in sleep and waking, yoga becomes the destroyer of sorrow.”’” (CC, Antya 8.62–66; “Bhagavad-gita” 6.16–17)
+“‘A sannyasi's dharma is not to gratify the senses. He just fills his stomach somehow or other. I see that You have grown thin, and I hear You eat only half Your meals. This dry renunciation is not a sannyasi's dharma. When he fills his stomach as is fitting and does not enjoy sense objects, then a sannyasi's *jnana-yoga* is perfected. “O Arjuna, there is no yoga for one who eats too much, nor for one who does not eat at all, nor for one given to too much sleep, nor for one who stays awake too long. For one who is regulated in eating and recreation, regulated in his efforts at work, and regulated in sleep and waking, yoga becomes the destroyer of all sorrow.”’” (CC, Antya 8.62–66; “Bhagavad-gita” 6.16–17)
 <!-- F30 F31 Q6 -->
 
 He preached “fitting renunciation” (*yukta-vairagya*) according to the “Gita” — but as the rule of a sannyasi on the
@@ -247,7 +242,7 @@ The next day Paramananda Puri, together with all the devotees, humbly approached
 His habit, said Puri, is first to overfeed and then to censure; he keeps constant watch over who eats how much and
 what each one does, and does exactly what the scriptures forbid (8.71–75). For the “Bhagavata” teaches:
 
-“‘One should neither praise nor censure the nature and actions of others.’” (CC, Antya 8.76; “Srimad-Bhagavatam”
+“‘One should neither praise nor blame the nature and actions of others…’” (CC, Antya 8.76; “Srimad-Bhagavatam”
 11.28.1)
 
 Of these two prohibitions — the earlier “do not praise” and the later “do not censure” — the later is the stronger:

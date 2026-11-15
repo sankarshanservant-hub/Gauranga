@@ -376,9 +376,7 @@ The “Prema-vilasa” (vilasa 13) relates that Krishnadasa Kaviraja, on hearing
 the “Chaitanya-charitamrita” itself records the Lord's judgement against suicide — both in the case of Raghunatha Dasa at
 Govardhana and of Sanatana, who wished to throw himself under the chariot:
 
-“My dear Sanatana, if I could attain Krishna by suicide, I would at once and without hesitation give up My life millions
-of times over. Krishna cannot be attained merely by giving up the body. He is attained only by selfless worship and
-devotion. There is no other way.” (CC, Antya 4.55–56)
+“Sanatana, if Krishna could be attained by giving up the body, I would give up millions of bodies in a moment. One does not attain Krishna by giving up the body; one attains Him by worship. There is no means of attaining Krishna except bhakti.” (CC, Antya 4.55–56)
 
 Jiva's letters, too, contradict the story: in them, written when Srinivasa already had sons, Jiva conveys to him the
 obeisances of Krishnadasa Kaviraja — so Kaviraja was alive long after Srinivasa, then still unmarried, had delivered the

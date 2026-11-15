@@ -21,7 +21,7 @@ yesterday” (CC, Antya 4.158, 4.167). Vrindavana dasa Thakura, glorifying Gaura
 
 He opens other chapters in the same way: the Lord is the One “whom Jagadananda loves without limit” (CB, Madhya 1.6),
 “the soul of Jagadananda and Haridasa” (Madhya 9.4), “the very life and soul of Sri Jagadananda” (Madhya 24.3).
-Krishnadasa Kaviraja calls the Lord “the Lord of Jagadananda's very life” (CC, Antya 11.4); Lochana dasa says,
+Krishnadasa Kaviraja calls the Lord “the Lord of Jagadananda's life” (CC, Antya 11.4); Lochana dasa says,
 “unceasingly I praise Pandita Jagadananda” (CM, Sutra-khanda, pt. 1, v. 29), and names him among the associates who came
 to earth with the Lord (ibid., pt. 8, v. 625); and Kavi Karnapura, among the Lord's beloved companions, “His own since
 childhood”: “Jagadananda, one of the foremost” (“Chaitanya-chandrodaya” 1.25). <!-- F83 -->
@@ -106,8 +106,7 @@ consciousness (“Chaitanya-chandrodaya” 4.25). <!-- F87 -->
 
 Having accepted sannyasa, the Lord set out from Shantipura for Nilachala. Advaita Acharya asked four to accompany Him:
 
-“Nityananda, Jagadananda Pandita, Damodara Pandita and Mukunda Datta. Sri Advaita asked these four to accompany Lord
-Chaitanya to Puri.” (CC, Madhya 3.209–210)[^2] <!-- F11 F91 F94 -->
+“Nityananda Gosani, Jagadananda Pandita, Damodara Pandita and Mukunda Datta — the Acharya sent these four with the Lord.” (CC, Madhya 3.209–210)[^2] <!-- F11 F91 F94 -->
 
 One of the biographies traces their route: Atisara, Chhatrabhoga, northern Orissa, the Suvarnarekha river, Jaleshvara,
 Remuna, Jajpur, the Vaitarani river, Cuttack, Sakshi-Gopala, Bhuvaneshvara, Kamalapura and Athara-nala. On the way the
@@ -133,8 +132,7 @@ pieces, laid them before the Lord and, at His question, said: “Nityananda brok
 wished to go on alone, and His companions chose to follow Him at a distance (CB, Antya 2.202–222)[^3]. The
 “Charitamrita” tells this lila more briefly: at Kamalapura, going to bathe, the Lord Himself entrusted the staff to
 Nityananda, who broke it and threw it into the river, and the Lord, grieved, went on ahead alone; its meaning, says
-Kaviraja, can be grasped only by one firmly devoted to the feet of Chaitanya and Nityananda (Madhya 5.141–158). Later, listing the “offences” His intimates had done Him, the Lord would recall this too: “On the way
-to Jagannatha Puri You broke My danda” (CC, Madhya 7.20). <!-- F14 F15 Q5 F86 F79 -->
+Kaviraja, can be grasped only by one firmly devoted to the feet of Chaitanya and Nityananda (Madhya 5.141–158). Later, listing the “offences” His intimates had done Him, the Lord would recall this too: “On the way to Nilachala You broke My danda” (CC, Madhya 7.20). <!-- F14 F15 Q5 F86 F79 -->
 
 At Athara-nala the Lord saw Krishna with His flute on the summit of the temple and ran ahead alone. Nityananda,
 Jagadananda, Mukunda and Damodara, reaching the temple, the Lion Gate, learned that the Lord, who had lost
@@ -152,13 +150,10 @@ hands[^4].
 
 These are the two shlokas:
 
-“I take shelter of the Supreme Lord, Sri Krishna, who has descended in the form of Sri Chaitanya Mahaprabhu to teach
-true knowledge, loving devotion to Himself and renunciation of all that does not further love for Sri Krishna. He has
-descended because He is an ocean of supreme mercy. I humbly surrender to His lotus feet.”
+“I take refuge in the one primeval Person, the ocean of mercy, who has assumed the form of Sri Krishna Chaitanya to
+teach detachment, knowledge and devotion to Himself.”
 
-“May my mind, like a bee intoxicated with the nectar of a flower, cling to the fragrant feet of the Supreme Lord who has
-come as Sri Chaitanya Mahaprabhu. He has revived the path of loving devotion to Sri Krishna — to Himself — for this path
-had been almost lost under the relentless influence of time.” (CC, Madhya 6.254–255; “Chaitanya-chandrodaya”
+“He appeared under the name Krishna Chaitanya to revive His own devotional yoga, which had been lost through time. May the bee of my mind sink deep, deep into His lotus feet.” (CC, Madhya 6.254–255; “Chaitanya-chandrodaya”
 6.43–44)[^6]
 
 “These two verses are a jewelled necklace on the devotees’ necks, and like the beat of a great drum (*dhakka*) they proclaim Sarvabhauma's glory.” (CC, Madhya 6.256)[^7] <!-- F19 Q8 -->
@@ -264,8 +259,7 @@ Part of his time Jagadananda spent in Bengal, in the house of Shivananda Sena. O
 Shrikanta Sena, Shivananda's nephew, that the Bengali devotees should not come to Puri that year: He would come to
 Bengal Himself.
 
-“Gladden Shivananda Sena with the news that in the winter month of Pausha I shall be an unexpected guest in his house.
-Jagadananda also lives with him, and he will cook for Me.” (CC, Antya 2.42–43)
+“Tell Shivananda that this month of Pausha I shall certainly come to him unexpectedly. Jagadananda is there, and he will offer Me bhiksha.” (CC, Antya 2.42–43)
 
 Shivananda and Jagadananda, having prepared everything, waited for the Lord every day until evening throughout the
 month of Pausha, but He did not come, and both were deeply saddened. Then Nrisimhananda Brahmachari came to them and
@@ -387,8 +381,7 @@ In Puri he left the jar with Govinda and asked him to anoint the Lord's head wit
 reported to the Lord: Jagadananda has brought this oil from Bengal with great care; it is excellent for soothing
 disorders of vayu and pitta. The Lord replied: <!-- F42 -->
 
-“‘A sannyasi has no need whatever of oil. And oil with many aromatic additions he should not even touch. Give this oil
-to the temple of Jagannatha, to be burned in the lamps. Then Jagadananda's labours will meet with full success.’” (CC,
+“‘A sannyasi has no right to use oil, and fragrant oil is a downright disgrace! Give the oil to Jagannatha, so that it may burn in the lamps; then his labour will bear the highest fruit.’” (CC,
 Antya 12.108–109)
 
 Thus, in the view of one of the biographies, the Lord set an example for all who have renounced the world. <!-- F43 -->
@@ -443,9 +436,7 @@ Jagadananda was eating did the Lord fall peacefully asleep (Antya 12.140–151).
 Kaviraja concludes that Jagadananda's love for the Lord is like Satyabhama's love for Krishna described in the
 “Bhagavata” (Antya 12.152), and continues:
 
-“Is anyone able to grasp what good fortune fell to Jagadananda? There is no other example of such good fortune. Anyone
-who hears of that love between Chaitanya and Jagadananda, or reads his work ‘Prema-vivarta,’ will be able to understand
-the nature of that love. He will surely attain the wealth of divine love for Sri Krishna.” (CC, Antya 12.153–154)
+“Who can tell the limits of Jagadananda's good fortune? In good fortune Jagadananda has no equal but himself. Whoever hears Jagadananda's *Prema-vivarta* knows the true nature of love and attains the wealth of love.” (CC, Antya 12.153–154)
 <!-- F52 Q16 -->
 
 The broken jar, the locked door and the fast are not resentment or hot temper but the vamya of Satyabhama, a loving
@@ -625,8 +616,8 @@ Satyabhama, and the anger, the broken jar and the locked door are her mana. The 
 renunciants, but loved him so much that He came Himself to make peace and ate ten times more than usual just so that
 he would not fast. His scolding is mercy and a lesson in etiquette; his impulse in Vraja is fidelity to Gaura; his
 yearly visits to Shachi were consolation for the Lord's mother, and for the devotees of Navadvipa meeting him was
-meeting Chaitanya Himself. No wonder Kaviraja, beginning the story of his journey to Vraja, says that the Lord
-“relished the taste of various waves of transcendental love in the company of Jagadananda Pandita” (CC, Antya 13.3;
+meeting Chaitanya Himself. No wonder Kaviraja, beginning the story of his journey to Vraja, says that “in the company of Jagadananda,
+Mahaprabhu tasted the waves of love in many ways” (CC, Antya 13.3;
 cf. 13.136, 20.120–121). <!-- I1 I3 F84 -->
 
 When and where Jagadananda Pandita left this world, the sources do not say: no biography names the day or the place of

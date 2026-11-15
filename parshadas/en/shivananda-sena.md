@@ -149,11 +149,7 @@ King Prataparudra was then watching the Bengali Vaishnavas arrive from the roof 
 named them for him one by one: “This is Hari Bhatta, this is Sri Nrisimhananda; this is Vasudeva Datta, and this is Shivananda.” (CC, Madhya 11.87) Meeting the devotees, the Lord had a kind word for each, and for Shivananda a
 special one:
 
-“Then Sri Chaitanya said to Shivananda: ‘From the very beginning I have known your deep love for Me.’ Hearing this,
-Shivananda Sena was overwhelmed with divine love and fell flat before the Lord. Then he recited this verse: ‘O Lord,
-having lost count of time, I was sinking in the fathomless, boundless ocean of material existence, and now at last I
-have reached the shore — I have found You, my Deity. And in me You have at last found one who needs Your mercy more than
-any other.’” (CC, Madhya 11.149–151)
+“The Lord said to Shivananda, ‘I have long known of your deep attachment to Me.’ Hearing this, Shivananda Sena was overwhelmed with love; he fell flat like a rod before the Lord and recited this verse: ‘O Infinite One, for so long I was sinking in the ocean of worldly existence, and now I have found You, like the shore. And You too, O Lord, have now found in me the most fitting vessel for Your mercy.’” (CC, Madhya 11.149–151)
 
 The verse with which Shivananda answered comes from Yamunacharya’s “Stotra-ratna” (21). Kavi Karnapura describes the
 same scene in the “Chaitanya-chandrodaya”: “Shivananda! I know that you are very attached to Me,” says the Lord, and
@@ -340,8 +336,7 @@ Once Shivananda’s nephew Shrikanta came alone to Puri. The Lord in His mercy k
 sending him back to Bengal, told him to say that no one should come that year: He would come to Gauda Himself and meet
 Advaita and all the devotees.
 
-“Gladden Shivananda Sena with the news that in the winter month of Pausha I shall come to his house as an unexpected
-guest. Jagadananda also lives with him, and he will cook for Me.” (CC, Antya 2.42–43)[^8] <!-- F49 -->
+“Tell Shivananda that this month of Pausha I shall certainly come to him unexpectedly. Jagadananda is there, and he will offer Me bhiksha.” (CC, Antya 2.42–43)[^8] <!-- F49 -->
 
 The devotees rejoiced. Advaita, who was already setting out, stayed at home, while Shivananda and Jagadananda prepared
 everything and all through Pausha waited every day for the Lord until evening (Antya 2.44–46). According to the
@@ -421,7 +416,7 @@ to Puri (10.3–4). The “Charitamrita” quotes these verses and remarks:
 
 ## Chaitanya Dasa’s Feast
 Once in Puri Shivananda brought his eldest son to the Lord. Hearing his name — Chaitanya Dasa — the Lord asked: “What
-sort of name is this?” Shivananda answered: “He bears the name that came to me from within” (CC, Antya 10.142–145). He
+sort of name is this?” Shivananda answered: “I gave him the name I knew” (CC, Antya 10.142–145). He
 invited the Lord to his lodging and fed Him the finest and costliest prasada of Jagannatha. Out of regard for Shivananda
 the Lord ate it all, but ate too much. The next day Chaitanya Dasa invited the Lord: understanding what He wanted, he
 served rice with yogurt, lime, ginger and salt. The Lord was very pleased: the youth had understood what He really
@@ -516,8 +511,7 @@ this rule. <!-- F67 I4 -->
 
 On another day the Lord said: “Puri Dasa, recite!” — and the boy at once composed and recited a verse:
 
-“Glory to Hari, the ornament of all the girls of Vrindavana! He is the blue lotus at their ears, the collyrium of their
-eyes and the necklace of wondrous sapphires on their breasts.” (CC, Antya 16.74)
+“Glory to Hari! He is all the adornment of the girls of Vrindavana: the blue lotus at their ears, the collyrium of their eyes, the necklace of great sapphires upon their breast.” (CC, Antya 16.74)
 
 All were amazed: a seven-year-old child who had not yet studied anything had composed such a verse. “Such is the
 greatness of the mercy of Sri Chaitanya Mahaprabhu, whose limit even Brahma and the other gods cannot find” (Antya

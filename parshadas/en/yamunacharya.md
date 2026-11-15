@@ -99,11 +99,8 @@ establish what had been begun. So it was Ramanuja who fulfilled Yamunacharya's h
 
 ## Yamunacharya's Prayers among the Gaudiya Vaishnavas
 His “Stotra-ratna” is treasured by the followers of Sri Chaitanya as well. When Rupa and Sanatana first came to the Lord
-at Ramakeli, straws between their teeth, they begged for His mercy in Yamunacharya's words: “O Lord, let me confess what
-fills my heart. My supreme appeal to Your mercy holds not a trace of deceit. For if You do not bestow it on me, it will
-be hard for You to find anyone more fit for it” — and again: “Unceasing service to God carries away all worldly desires
-and gives peace to the soul. When shall I become Your eternal servant? When shall I rejoice at having found You as my
-Master forever?” (CC, Madhya 1.203, 1.206).[^6] Ramananda Raya cited the same verse to the Lord when speaking of service
+at Ramakeli, straws between their teeth, they begged for His mercy in Yamunacharya's words: “Hear one plea I lay before You, O Lord;
+it is no lie, but the very truth: if You will not show me mercy, You will hardly find anyone more fit to receive it” — and again: “When, O Lord, serving You alone without cease, with every other desire completely stilled, shall I live as Your wholly devoted eternal servant and fill my life with joy?” (CC, Madhya 1.203, 1.206).[^6] Ramananda Raya cited the same verse to the Lord when speaking of service
 to Him as Master (Madhya 8.73). Shivananda Sena, meeting the Lord in Puri, fell before Him in a surge of love and
 recited a stanza of Yamunacharya: “O Lord, having lost count of time, I was sinking in the bottomless, boundless ocean
 of material existence, and now at last I have reached the shore — I have found You, my Deity. And in me You have at last

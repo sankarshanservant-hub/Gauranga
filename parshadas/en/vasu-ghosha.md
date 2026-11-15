@@ -87,9 +87,7 @@ devotees of Bengal — and came for the Ratha-yatra. There their famous kirtana 
 
 At the Ratha-yatra Mahaprabhu divided the singers into seven groups. The Ghosha brothers sang in the fourth:
 
-“The Lord formed the fourth group, headed by the kirtaniya Govinda Ghosha. Junior Haridasa, Vishnudasa and Raghava were
-to sing the responses with him in the kirtana, as well as the two brothers — Madhava and Vasudeva Ghosha. Vakreshvara
-Pandita was chosen as the dancer.” (CC, Madhya 13.42–43)
+“He formed another group with Govinda Ghosha as the leader, in which Haridasa, Vishnudasa and Raghava sang, with the two brothers Madhava and Vasudeva Ghosha; and Vakreshvara Pandita danced there.” (CC, Madhya 13.42–43)
 
 Before Jagannatha's chariot Vasudeva sang together with his brothers, and Vakreshvara Pandita himself danced before
 them[^6]. <!-- F35 Q6 -->
