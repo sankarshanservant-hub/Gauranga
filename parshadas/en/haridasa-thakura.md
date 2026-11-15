@@ -208,6 +208,215 @@ blasphemy of His devotee.” (CC, Antya 3.211)
 The news of the brahmana's illness grieved Haridasa deeply; he took leave of Balarama and went to Shantipura, to Advaita.
 <!-- F72 Q7 I3 -->
 
+## With Advaita
+Haridasa came to the Ganga, to Phulia near Shantipura, where Sri Advaita Acharya lived.[^12] Phulia still stands on the
+railway between Ranaghat and Shantipura, about five miles north of Ranaghat.
+
+“After some time Haridasa moved to the bank of the Ganga, to the village of Phulia near Shantipura. Meeting Haridasa,
+Advaita Acharya was boundlessly happy; in spiritual bliss He cried out aloud.” (CB, Adi 16.19–20) <!-- F30 -->
+
+He roamed the banks of the Ganga, chanting the name aloud: now he danced, now laughed, now roared like a lion; tears ran
+over his body, he trembled, his hair stood on end, and at times he fell senseless. The brahmanas of Phulia recognized him
+as a true saint and gave him a *gopha* — a little cave-cell in the shade of the trees. <!-- F31 -->
+
+In Advaita's assembly (one of the biographies places it in Navadvipa-Mayapur) Haridasa met Srivasa and the other
+Vaishnavas, who all rejoiced to see him. Advaita grieved that people had turned away from God and that the Lord was still
+delaying; the Vaishnavas discussed the Gita and the “Bhagavatam” and sang kirtana, which most people mocked. Haridasa was
+drawn by Advaita's talks on Vaishnava philosophy, and Advaita recognized in him a *bhajanandi* who never let go of the
+name. <!-- F58 F59 -->
+
+“On the bank of the Ganga He made a secluded cave-dwelling for him, and He explained to him the devotional meaning of the
+‘Bhagavata’ and the ‘Gita.’ Haridasa took his alms daily at the Acharya's house, and together the two of them relished
+talks about Krishna.” (CC, Antya 3.214–215)
+
+Haridasa was uneasy: Advaita lived among high-born brahmanas, yet He fed and honoured one born in a Muslim family —
+might He not bring public censure on Himself? Advaita replied that He acted by the scriptures, not by rumour:
+
+“‘Do not be afraid. I shall act only as the scriptures direct. When you eat, it is as good as feeding ten million
+brahmanas.’ Saying this, He fed him the *shraddha-patra*, the food of the day of *shraddha*.” (CC, Antya 3.219–220)
+
+The *shraddha-patra*, the chief dish of the memorial meal, is by custom offered to the worthiest brahmana; Advaita
+offered it to Haridasa at the yearly *shraddha* for His ancestors, for, as one of the biographies says, there was no
+worthier brahmana in the whole district. From then on Haridasa ate at Advaita's house every day, and this was still
+before the Lord's appearance.[^13] Later, at the Lord's bidding, Advaita ate in one row with Haridasa and Mukunda. A
+Vaishnava is worthy of honour whatever family he was born in — and for Advaita fidelity to scripture stood above the
+caution of caste. <!-- F60 Q6 I2 -->
+
+From then on Haridasa was almost always with Advaita — now in Shantipura, now in Navadvipa-Mayapur, now in his cave in
+Phulia — and in his wanderings he showed people the worth of the holy name by his conduct and his words. No wonder the
+Lord later “complained” that Advaita, having called Him into the world, lived carefree with Haridasa in Shantipura.
+<!-- F63 -->
+
+## Twenty-two Marketplaces
+The kazi of that district lodged a complaint with the Badshah, the ruler of Gauda: one born a Muslim was following Hindu
+ways. The kazi feared that others would follow Haridasa and demanded swift punishment. Haridasa was arrested. <!-- F32 -->
+
+In prison the inmates, knowing of his holiness, hoped that by his blessing they would soon be released. He blessed them:
+“Stay as you are,” and, seeing their dismay, explained:
+
+“Understand, I did not bless you to remain in prison. My words meant this: ‘Go on abstaining from enjoyment and always
+chant the holy name of Hari.’ Do not grieve, and do not think that I gave you a blessing with a double meaning.” (CB, Adi
+16.63–64) <!-- F33 Q2 -->
+
+The Badshah, seeing the extraordinary radiance of his body, seated him in the place of honour and courteously asked why
+he, honoured with birth as a Muslim, followed the Hindus; let him recite the *kalima* and wash away his sin. Haridasa
+replied that God is one for all: only by the customs of different lands is He called by different names and worshipped
+with different rites; the same Lord dwells in every heart, and he acts as the Lord directs his mind; nor do the Hindus
+persecute a Hindu who adopts Muslim ways. “If this is a crime, punish me,” he said. This was an answer to a Muslim ruler,
+not a teaching that all paths are alike; Haridasa himself served Krishna's name alone. The Muslims present were
+satisfied, but the kazi demanded punishment: “This shaitan will make shaitans of others too.” <!-- F34 F35 -->
+
+The Badshah again ordered him to recite the *kalima*, or else the kazi would punish him, and Haridasa answered:
+
+“Even if my body is cut to pieces and I lose my life, I shall never stop chanting the holy name of the Lord.” (CB, Adi
+16.94)[^14]
+
+So one who knows himself to be a soul places the soul above the body. The kazi pronounced the sentence: to be beaten with
+canes in twenty-two marketplaces until he gave up his life (CB, Adi 16.96); if he survived, it would mean that there was
+power in him and that he was right. Without waiting for the Badshah's seal, the kazi ordered it carried out.
+<!-- F36 F37 Q2 -->
+
+He was led mercilessly from market to market, and he joyfully repeated, “Krishna, Krishna!” — and his body showed no
+sign of pain.
+
+“In the same way Haridasa felt no pain when the Muslims beat him mercilessly.” (CB, Adi 16.110)
+
+So once Prahlada did not feel the torments his father inflicted on him — the “Charitamrita” too compares Haridasa to
+Prahlada (Adi 10.45). An ordinary man would not have survived two or three markets. The people around suffered at the
+sight, and some slipped money to the executioners so that they would strike more lightly. And Haridasa prayed for his
+tormentors:
+
+“‘O Krishna, be merciful to these souls! Forgive their offences. Do not punish them for tormenting me.’” (CB, Adi 16.113)
+<!-- F38 F39 Q3 -->
+
+This was not martyrdom in the worldly sense but a revelation of his forbearance and of his mercy to those who wronged
+him. The executioners grew tired and were amazed that he was alive and at times even smiling: was he not a *pir*? In fear
+they said that if they did not kill him, the kazi would kill them. Then the Thakura replied that since his life
+threatened them with death, he would leave his body at once — and he entered *samadhi*: no movement, no breath.
+<!-- F40 I5 -->
+
+He was taken for dead and brought to the Badshah, who ordered him buried; but the kazi objected that burial would do him
+good and ordered him thrown into the Ganga. The current carried him away, and soon he was near Phulia; coming to himself,
+he walked out onto the bank, chanting the name aloud.[^15] <!-- F41 -->
+
+Everyone was astonished, especially the kazi's men, and they bowed to him as a true saint. The Badshah too came, bowed
+and begged forgiveness — and received it. Haridasa was allowed to chant the name and go wherever he wished, and no one
+dared hinder him again.[^16] To the saint all were equal: he wished no punishment on his tormentors and did not regard
+them as enemies. <!-- F42 F43 I5 -->
+
+He entered Phulia chanting the name. The brahmanas, stunned by the news of his sufferings, rejoiced and cried, “Hari!
+Hari!” Hearing the name after a long interval, Haridasa began to dance — with tears, trembling and swoons — and he told
+the brahmanas not to grieve: his suffering was the fruit of his own offence, for he had heard blasphemy against God, and
+the punishment was even mild. So humbly did he explain his lot. Later, at the Mahaprakasha, the Lord revealed to him
+what had happened to the Lord Himself that day (of which more below).[^17] <!-- F44 F45 I3 -->
+
+## The Serpent in the Cave
+Afterwards Haridasa came to have a *gopha* — a small underground cell for one, where he could remember Krishna in
+solitude and chant his three hundred thousand names; the cell became like Vaikuntha. But at its bottom lived a huge
+serpent, and its poisonous breath burned the bodies of all who entered; visitors could not stay long, while Haridasa
+himself noticed nothing. <!-- F46 -->
+
+The brahmanas discussed this burning, and experts in snakebite said that a large serpent lived inside; they urged
+Haridasa to move. He replied, “It is no hardship for me here, but I cannot bear your suffering: if the serpent does not
+leave, tomorrow I shall,” — and went on singing Krishna's glories. <!-- F47 -->
+
+Learning of this, the serpent crawled out of the cell of its own accord at dusk and went away. Everyone saw how huge and
+mottled it was — yellow, blue and white — and a jewel shone on its head; the brahmanas chanted Krishna's name in fear.
+The burning stopped, and the reverence for the Thakura grew a hundredfold.[^18] <!-- F48 -->
+
+## The Danka
+Once a snake charmer with his troupe — they earned their living by dancing to music — was giving a performance at a
+palace; among them was a man possessed by a serpent (a *danka*). They sang “The Subduing of Kaliya,” and the *danka*
+danced in time. Haridasa happened to be among the spectators.[^19] <!-- F49 -->
+
+Hearing the glory of his Lord, Haridasa fell senseless, and his breathing stopped; coming to himself, he roared and
+burst into dance. The *danka* withdrew into a corner to give him room. Haridasa rolled on the ground, and the eight
+*sattvika-bhavas* appeared in his body; the *danka* stood with joined palms, and the people took the dust of his feet.
+<!-- F50 -->
+
+A brahmana by birth grew envious: “Ignorant people honour him because they see him roll in the dust and dance.” He fell
+to the ground and feigned a swoon, but the *danka* beat him savagely with a stick, and he ran off howling. <!-- F51 -->
+
+When the *danka* was asked why he had stood with joined palms before Haridasa and beaten the brahmana, the King of
+serpents, through the snake charmer's mouth, revealed Haridasa's glory to the people: the brahmana had imitated him out
+of envy, to steal the honour due to him; the sight of Haridasa dancing breaks the bonds of the world, and whoever keeps
+his company will surely attain Krishna's feet (CB, Adi 16.222–247).[^20] To display love for Krishna for the sake of
+honour is ruinous, and even a simple snake charmer sees through the counterfeit. <!-- F52 I7 -->
+
+## Chanting Aloud
+Before the appearance of Gaurasundara few understood loud chanting. Unbelievers mocked Advaita and Haridasa: the Lord
+sleeps for the four months of the rains — wake Him and there will be famine; this is how the brahmanas fill their
+bellies (CB, Adi 16.252–256). It grieved Haridasa, but he did not stop chanting aloud. <!-- F53 -->
+
+In the village of Harinadi (Jessore district) a brahmana by birth asked him disrespectfully why he sang the name aloud
+when it should be repeated silently. Haridasa answered that the scriptures say loud chanting is a hundred times more
+beneficial than quiet *japa*, and no scripture condemns it. All beings who hear Krishna's name receive benefit — even a
+worm that cannot utter it, and in a better birth it will get the chance to serve the Lord:
+
+“Though animals, birds and insects cannot sing, they hear the holy name and so attain liberation. One who repeats
+Krishna's holy name in a whisper will be liberated; but one who chants the holy name aloud liberates all around him as
+well. Therefore the scriptures say that one who chants the Lord's name aloud gains a hundred times more benefit.” (CB,
+Adi 16.280–282)
+
+A verse of the “Naradiya Purana” says the same: “One who chants the names of Hari aloud is a hundred times greater than
+one who repeats them silently: he purifies both himself and all who hear him.” Quiet *japa* benefits one person, loud
+chanting benefits many — just as one who feeds many is better than one who feeds only himself. <!-- F54 F55 Q5 I8 -->
+
+The brahmana flew into a rage: nowadays even the low-born Haridasa has taken to expounding the scriptures; it is said
+that at the end of the age even shudras will become expounders — and so it has come true.
+
+“If your explanation is not correct, I swear I will cut off your nose and ears.” (CB, Adi 16.295)
+
+“Calmly hearing the sinful brahmana out, Haridasa smiled and began to chant the holy names of the Lord. Without a word to
+the godless brahmana, he left the assembly of brahmanas, chanting the names of God aloud.” (CB, Adi 16.296–297)
+<!-- F56 -->
+
+Vrindavana Dasa calls such brahmanas Rakshasas born in brahmana families to persecute the saints (CB, Adi 16.298–300).
+A few days later that brahmana fell ill with smallpox, and his nose fell off.[^21] <!-- F57 -->
+
+## Maya Devi
+The “Charitamrita” tells one more story, warning that it cannot be understood by worldly logic but must be heard with
+faith. On a moonlit night a woman of unheard-of beauty came to Haridasa's cave on the bank of the Ganga: her radiance lit
+up the courtyard, her fragrance filled all directions. She bowed to the tulasi, circled it, bowed to Haridasa and,
+sitting at the entrance, began to call him in a voice that could unsettle sages. Haridasa, as once in Benapole, replied
+that he must first complete his vow of names, and went on chanting. So three nights passed; his mind, absorbed in
+Krishna and His name, remained unshaken. <!-- F73 -->
+
+At the end of the third night she revealed herself:
+
+“Then, bowing down to him, the woman said, ‘I am Maya. I came to test you. I have bewitched all living beings, beginning
+with Brahma; you alone I could not bewitch.’” (CC, Antya 3.248–249) <!-- F74 -->
+
+Maya Devi is no demoness-temptress and no defeated enemy, but the Lord's maidservant, who governs His external energy; by
+His will she came to test His devotee, and she herself received mercy from him. Having heard the name from his lips for
+three nights, she was purified at heart, accepted him as her guru and fell at his feet:
+
+“‘Long ago I received the name of Rama from Shiva; now, by your company, I long to take the name of Krishna. The name of
+Rama is the *taraka-brahma*, the Brahman that delivers, the cause of liberation; the name of Krishna, the *paraka*,
+carries one across and gives love. Give me Krishna's name and make me blessed, so that this flood of love may sweep me
+away too.’” (CC, Antya 3.254–256)
+
+And Haridasa initiated her: “Chant the name of Krishna!” (CC, Antya 3.257). Without the mercy of such a guru and sadhu
+the soul's chief need — love for Krishna — cannot be attained. <!-- F75 Q8 I6 -->
+
+One who chants the name sincerely and without offences cannot be shaken even by Maya herself. But one who, while
+supposedly taking shelter of the name, yields to women, wealth and fame has not surrendered to the name: the cause is
+judged by its fruits, and if there are no fruits, the name is being chanted insincerely and with offences.
+<!-- F76 I1 I9 -->
+
+## “Krishna Will Descend”
+Advaita worshipped Krishna with Ganga water and tulasi leaves, calling Him into the world, and Haridasa in his cave
+chanted the name with the same prayer:
+
+“In his cave Haridasa chanted the name, with this one thought in his mind: ‘Krishna will descend.’ By the devotion of
+these two Chaitanya descended, and by preaching the name and love He delivered the world.” (CC, Antya 3.223–224)[^22]
+<!-- F61 Q6 -->
+
+And then one evening, at the hour of a lunar eclipse, when everyone around was loudly chanting the name of Hari, Advaita
+in Shantipura guessed that the Lord had appeared; Haridasa understood Him without words, and both began to dance. Advaita
+gave money to the poor and sent gifts to the newborn through Sita; what they had understood, both kept silent about for
+the time being.[^23] <!-- F62 -->
+
 [^1]: The title “Namacharya” is given him by the biographies; one of them puts the word in the mouth of Sanatana
     Gosvami: “and so the world honours you as the Namacharya.” In the “Charitamrita” Sanatana calls him “the guru of all”
     (*jagat-guru*, Antya 4.103); as a title the word “Namacharya” occurs neither in the “Charitamrita” nor in the
@@ -257,3 +466,36 @@ The news of the brahmana's illness grieved Haridasa deeply; he took leave of Bal
 [^11]: According to one of the biographies, the brahmana threatened that Haridasa's own nose would be cut off if he
     could not prove what he said. In the “Charitamrita” Haridasa himself agrees to cut off his nose if the semblance of
     the name does not give liberation.
+[^12]: The “Chaitanya-bhagavata” brings Haridasa from Budhana straight to Phulia (Adi 16.18–19), and so does one of the
+    biographies, in which he comes to Phulia from Benapole. The “Charitamrita” brings him from Benapole to Chandapur and
+    from there to Shantipura, to Advaita (Antya 3.164, 3.212). We follow the “Charitamrita” and place the accounts of the
+    “Chaitanya-bhagavata” about Phulia, the trial, the serpent and Harinadi after Chandapur.
+[^13]: One of the biographies says “thousands of brahmanas” instead of “ten million.” According to the
+    “Advaita-prakasha” (9.123–176) and the “Prema-vilasa” (24.215–249), the *shraddha-patra* split the brahmanas of
+    Shantipura.
+[^14]: In one of the biographies the verses about the “body cut to pieces” and the prayer for the tormentors are given
+    as CB, Adi 16.91 and 16.110; in our edition they are Adi 16.94 and 16.112–113 (16.110 says that he felt no pain).
+[^15]: According to one of the biographies, the kazi said that Haridasa was not worthy of a Muslim burial, and Haridasa
+    himself came out on the other bank and went to Phulia. According to the “Prema-vilasa” (24.250–260), the kazi had him
+    drowned in a sack, and fishermen pulled him out.
+[^16]: So in one of the biographies: the Badshah begged forgiveness, and the permission was given by the kazi; it adds
+    that the kazi and the cruel executioners who did not come to beg forgiveness soon perished with all their families,
+    though the Thakura wished them no punishment. According to another biography, both the nawab and the kazi fell
+    prostrate and were forgiven, and the permission was given by the nawab. The “Chaitanya-bhagavata” (Adi 16) says
+    nothing of the kazi's death.
+[^17]: One of the biographies inserts the account of the scars on the Lord's back directly into the story of the trial.
+    According to the “Advaita-prakasha” (9.77–110), Haridasa debated the scriptures with the kazi, and the ruler
+    repented.
+[^18]: According to one of the biographies, Haridasa was already about to leave before sunset when the serpent left of
+    its own accord. In the “Advaita-prakasha” (9.111–122) the jewelled serpent dances to the name and attains a
+    four-armed form.
+[^19]: According to one of the biographies, it was a snake charmer from Phulia who sang about Kaliya in a rich man's
+    house.
+[^20]: According to one of the biographies, the truth was explained to the people by the snake charmer himself, by plain
+    good sense. We follow the “Chaitanya-bhagavata”: it was the King of serpents, a great devotee of Vishnu, who spoke
+    through the snake charmer's mouth (Adi 16.222).
+[^21]: According to one of the biographies, his nose and an ear.
+[^22]: One of the biographies calls the prayers of both the chief cause of the Lord's descent. In the
+    “Advaita-prakasha” (9.177–192) Haridasa weeps over the outrages of the *mlecchas*.
+[^23]: According to one of the biographies, the news of the birth was brought to Advaita by Jagannatha Mishra; Advaita
+    bathed in the river with Haridasa, sang and danced, and sent His wife to Mayapur.
