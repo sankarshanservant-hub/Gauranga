@@ -65,7 +65,10 @@ the Lord's maternal grandfather, as younger brothers, and so Mahaprabhu called t
 years they had greatly helped Jagannatha Mishra, and they honoured and served Advaita Acharya. <!-- F9 F10 -->
 
 The family priest was Balarama Acharya, and the guru was Yadunandana Acharya; both lived in Chandapur. Yadunandana was an
-intimate disciple of Advaita, a devotee of the Lord, favoured by Vasudeva Datta — and it was he who initiated Raghunatha.
+intimate disciple of Advaita, a devotee of the Lord, favoured by Vasudeva Datta. The “Charitamrita” calls him Raghunatha's
+“guru” and “purohita” (family priest) (Antya 6.161). Srila Bhaktisiddhanta in the “Anubhashya” calls Yadunandana
+Raghunatha's diksha-guru (on Adi 10.41 and 10.91), and explains Karnapura's words “his disciple is Raghunatha” thus:
+“that is, an object of his mercy — not that he received initiation from him in particular” (on Antya 6.263).[^5]
 Raghunatha's kinsman and uncle Kalidasa was also a devotee of Mahaprabhu; he lived in Shankhanagara — or, by another
 account, in the village of Bheda (Bhaduya), some three miles south of Krishnapur and a mile west of the present Bandel
 station. <!-- F13 F86 F87 -->
@@ -85,7 +88,7 @@ Raghunatha first saw Mahaprabhu in Shantipura, where the Lord came after taking 
 Govardhana faithfully served Advaita, and Advaita saw to it that the young man received the remnants of the Lord's meals
 for all the days that He stayed in Shantipura:
 
-“His father always served the Acharya, and so the Acharya was gracious to him. By the Acharya's grace he received the Lord's plate of remnants, and for five or seven days he saw the Lord's feet.” (CC, Madhya 16.225–226)[^5]
+“His father always served the Acharya, and so the Acharya was gracious to him. By the Acharya's grace he received the Lord's plate of remnants, and for five or seven days he saw the Lord's feet.” (CC, Madhya 16.225–226)[^6]
 
 Raghunatha begged to be accepted as a servant in Nilachala. Advaita, who knew his father by his generous gifts, presented
 the young man to the Lord, and the Lord told him to wait until He returned from Vrindavana. Thus, the biographers say,
@@ -264,7 +267,7 @@ sleep and food. He never touched anything tasty and wore torn cloth and an old b
 “Who can write of Raghunatha's endless qualities? His rules of life were like lines cut in stone.” (CC, Antya 6.309) <!-- F107 F18 Q3 -->
 
 ## Keeper of Svarupa's Treasury
-Raghunatha lived in Puri under Svarupa's care for sixteen years[^6] — until the very departure of the Lord and Svarupa.
+Raghunatha lived in Puri under Svarupa's care for sixteen years[^7] — until the very departure of the Lord and Svarupa.
 In Mahaprabhu's last pastimes he was Svarupa's right hand. The Vaishnavas came to know the kadcha — Svarupa's record of
 the Lord's intimate pastimes — only through him: Svarupa, as Srila Bhaktivinoda writes, had him learn its verses by
 heart, and Krishnadasa Kaviraja spread them throughout the world. Thus Svarupa placed the “inner path” of worship in
@@ -291,7 +294,7 @@ beside Rupa in Mathura (Madhya 18.49), among those who left everything for the L
 of many chapters (Adi 17, Madhya 25 and others). <!-- F28 Q33 -->
 
 Krishnadasa Kaviraja was closely bound to Raghunatha Dasa and received from him the material for his book; according to
-the “Prema-vilasa,” he also received initiation from him.[^7] Telling of Raghunatha's childhood, Kaviraja praises the
+the “Prema-vilasa,” he also received initiation from him.[^8] Telling of Raghunatha's childhood, Kaviraja praises the
 intelligence and practical skill of the Kayasthas — an argument sometimes used when speaking of Kaviraja's own caste.
 <!-- F123 -->
 
@@ -315,7 +318,7 @@ dwelling. One day Sanatana came from Vrindavana to Radha-kunda, to Gopala Bhatta
 Manasa-pavana ghat. There he saw a tiger drinking water; the tiger passed close by Raghunatha, who sat absorbed in
 meditation, and went off into the forest. Coming to himself, Raghunatha saw Sanatana and fell at his feet, and Sanatana
 embraced him with love and told him from now on to live not under a tree but in a hut. For the good of others
-Raghunatha obeyed, and that same day the building of the hut began (BR 5.554–562).[^8] <!-- F117 -->
+Raghunatha obeyed, and that same day the building of the hut began (BR 5.554–562).[^9] <!-- F117 -->
 
 Mahaprabhu Himself, coming to Arit, had bathed in the water of a rice field and revealed that this was Radha-kunda and
 Shyama-kunda. Raghunatha wished to restore the sacred ponds but hesitated. Then a rich merchant, travelling to
@@ -345,7 +348,7 @@ Nityananda's bidding. <!-- F140 -->
 
 His mind, like a bee, Raghunatha kept at the feet of Gauranga, and he always remembered Svarupa. The poets sing that he
 was non-different from Rupa; his shelter was Sanatana; he was dear to both Bhattas, Raghunatha and Gopala; the song
-speaks too of his closeness to all of Rupa's companions and of his great tenderness towards Jiva.[^9] <!-- F76 -->
+speaks too of his closeness to all of Rupa's companions and of his great tenderness towards Jiva.[^10] <!-- F76 -->
 
 There is a tradition that, reading Rupa's “Lalita-madhava,” a drama of separation, Raghunatha sank so deep into
 separation that he nearly died. Then Rupa wrote the light-hearted “Dana-keli-kaumudi,” gave it to Raghunatha and took
@@ -367,7 +370,7 @@ The “Bhakti-ratnakara” preserves another story about Vitthalanatha. Once Rag
 heavy, and no one understood why. Sri Vitthalanatha of Ballabhpur, hearing of it, came himself with two physicians.
 Feeling his pulse, the physicians said that the ailment came from rice cooked in milk. Vitthalanatha was astonished:
 Raghunatha drinks only buttermilk! And Raghunatha confessed that it was true: in his mind, in meditation, he had eaten
-prasada rice with milk (BR 5.575–580).[^10] <!-- F119 Q34 -->
+prasada rice with milk (BR 5.575–580).[^11] <!-- F119 Q34 -->
 
 Yet another story of the “Bhakti-ratnakara” shows how Raghunatha felt himself a maidservant of Radha. A Vrajavasi named
 Dasa was grieved that Raghunatha ate only a cup of buttermilk, and made him a large bowl of leaves. Learning that the
@@ -380,7 +383,7 @@ devotees are eternally perfect, and whoever doubts them falls. <!-- F118 I10 Q34
 Raghunatha lived a long life in Vraja, and the next generation began to come to him. Srinivasa, arriving in Vraja,
 learned that Raghunatha, maddened by separation from Gaura and Svarupa, had long been living there. The day after
 Srinivasa's initiation Jiva sent him to Radha-kunda, and Sri Dasa Gosani, Raghava Gosvami and Krishnadasa Kaviraja
-showed him boundless mercy; Srinivasa spent three days at Radha-kunda and Govardhana (BR 4.390–393).[^11] He marvelled at
+showed him boundless mercy; Srinivasa spent three days at Radha-kunda and Govardhana (BR 4.390–393).[^12] He marvelled at
 Raghunatha's austerity and his absorption in love, and before leaving for Gauda with the books of the Gosvamis he
 received his blessing. <!-- F112 F124 Q34 -->
 
@@ -422,7 +425,7 @@ in Nilachala, longs in separation to see once more Gaurasundara, adorned with th
 The “Gauranga-stava-kalpataru” consists of eleven verses on the Lord's last pastimes in Nilachala and a twelfth, the
 verse of fruit. <!-- F26 F27 F28 -->
 
-The “Manah-shiksha,” “Instruction to the Mind,” has eleven verses and a verse of fruit.[^12] For all who seek exclusive
+The “Manah-shiksha,” “Instruction to the Mind,” has eleven verses and a verse of fruit.[^13] For all who seek exclusive
 hari-bhajana, and especially for those who follow the way of thought of Rupa and Raghunatha, it is a text for daily
 reading and worship. The Rupanugas are initiated into its teaching: to drink the fivefold nectar — worship, the holy
 name, meditation, hearing and obeisances — of Gandharvika and Giridhari, and to honour Sanatana, Rupa and Govardhana. The
@@ -695,17 +698,18 @@ to a line carved in stone. <!-- I9 -->
     instead of fifteen.
 [^4]: According to another biography, Nilambara called them “bhaiya,” “younger brothers,” and they called him “dada,”
     “elder brother.”
-[^5]: According to one of the biographies, Raghunatha spent five or six days with Advaita.
-[^6]: So says the “Charitamrita”: “For sixteen years he served the Lord intimately, and when Svarupa departed from this world, he came to Vrindavana” (CC, Adi 10.93). According to the three old
+[^5]: Both biographies call Yadunandana Raghunatha's diksha-guru.
+[^6]: According to one of the biographies, Raghunatha spent five or six days with Advaita.
+[^7]: So says the “Charitamrita”: “For sixteen years he served the Lord intimately, and when Svarupa departed from this world, he came to Vrindavana” (CC, Adi 10.93). According to the three old
     records mentioned above, Raghunatha lived nineteen years at home, eight in Nilachala and forty-nine in Vraja, at
     Radha-kunda; but Srila Bhaktivinoda, publishing one of these records, himself noted that some of its years are
     doubtful. We follow the “Charitamrita”.
-[^7]: According to local tradition, Kaviraja received initiation from Nityananda.
-[^8]: One biography tells it differently: Raghunatha sometimes stayed with Gopala Bhatta, whose hut stood by the
+[^8]: According to local tradition, Kaviraja received initiation from Nityananda.
+[^9]: One biography tells it differently: Raghunatha sometimes stayed with Gopala Bhatta, whose hut stood by the
     Manasa-ganga at Govardhana, and the tiger came to the water when Raghunatha, after bathing in the Manasa-ganga, was
     sitting under a tree. We follow the “Bhakti-ratnakara.”
-[^9]: The lines of the song can be read in two ways: Rupa's companions took shelter at his feet — or he at theirs; the
+[^10]: The lines of the song can be read in two ways: Rupa's companions took shelter at his feet — or he at theirs; the
     “great tenderness” is towards Jiva, or towards all living beings (jibe).
-[^10]: According to one biography, it was the physicians who came from Ballabhpur.
-[^11]: According to one biography, Srinivasa went to Radha-kunda together with Jiva.
-[^12]: One of the biographies speaks now of eleven, now of twelve verses (counting the last, the verse of fruit).
+[^11]: According to one biography, it was the physicians who came from Ballabhpur.
+[^12]: According to one biography, Srinivasa went to Radha-kunda together with Jiva.
+[^13]: One of the biographies speaks now of eleven, now of twelve verses (counting the last, the verse of fruit).

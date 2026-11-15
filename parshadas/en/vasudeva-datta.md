@@ -439,7 +439,8 @@ Mine belongs to Vasudeva” remain an eternal witness to how the Lord yields to 
     own (Antya 12.86–95), and it was Murari and Vasudeva who would not let him go. We follow the “Charitamrita.”
 [^11]: The biographies call Yadunandana Raghunatha's diksha-guru; the “Charitamrita,” his guru and family priest
     (Antya 6.161). Srila Bhaktisiddhanta's explanation is in the “Anubhashya” to Antya 6.263 (verse 10.3 of the
-    “Chaitanya-chandrodaya”).
+    “Chaitanya-chandrodaya”); in the “Anubhashya” to Adi 10.41 and 10.91 he himself calls Yadunandana Raghunatha's
+    diksha-guru.
 [^12]: Evidently the Deity was later moved to the temple of Saranga Thakura; the sources do not say so directly.
 [^13]: According to the “Prema-vilasa,” after her husband left this world Narayani lived with Srivasa, and came to Mamgachi
     when Vrindavana was five years old.
