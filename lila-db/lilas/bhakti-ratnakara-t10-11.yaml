@@ -772,3 +772,360 @@
   themes: [author]
   verses:
     - {file: "bhakti-ratnakara/ru/10.md", from: "773", to: "773"}
+
+- id: brt-5042
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 1–5"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 105.72
+  title: "Мангала одиннадцатой таранги"
+  summary: "Слава Гаурачандре, Нитьянанде, Адвайте, Гададхаре, Шривасу, Санатане и Рупе, Локанатхе и Гопале Бхатте, Шринивасе, Нароттаме, Рамачандре и всем преданным; призыв слушать."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@sanatana-gosvami", "@rupa-gosvami", "@lokanatha", "@gopala-bhatta", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "1", to: "5"}
+
+- id: brt-5043
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 6–17"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 105.73
+  title: "Кхетури после праздника: служение Господам; слава Нароттамы («Нароттама-аштака»)"
+  summary: "Гости расходятся, а в Кхетури люди несут дары Гауранге, Валлавиканте и другим Господам и не могут покинуть двор, славу которого явил Нароттама; он всегда серый от пыли двора, а его пение, танец и музыка изумляют гандхарвов; автор приводит две строфы «Нароттама-аштаки» Вишванатхи Чакраварти из «Ставамрита-лахари»."
+  persons: ["@narottama-dasa", "@gaura-vishnupriya-kheturi", "@vishvanatha-chakravarti"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0056)"
+  scriptures: ["«Ставамрита-лахари», «Нароттама-аштака»"]
+  themes: [deities, kirtan]
+  teaching: [vaishnava]
+  event: ev-narottama-bhajana-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "6", to: "17"}
+
+- id: brt-5044
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 18–27"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 106
+  title: "Ночной киртан в полнолуние: незримое явление Радхи и Кришны — сияние, благоухание, звон ножных колокольчиков"
+  summary: "В ночь полнолуния Нароттама с Рамачандрой, Гокулой и другими поёт о раса-лиле; внезапно всё озаряется, как молнией в туче, разливается чудесное благоухание, слышен звон ножных колокольчиков; когда это скрывается, все лишаются чувств, Рамачандра и Нароттама в слезах, Девидас и Гокула катаются по земле; поняв, что это сверхъестественная лила Кришны с Возлюбленной, они по воле Кришны приходят в себя и в уединении вкушают Его деяния."
+  persons: ["@narottama-dasa", "@ramachandra-kaviraja", "@gokula-kirtaniya", "@devidasa-kirtaniya", "@krishna", "@radha"]
+  places: ["#kheturi"]
+  kind: miracle
+  authority: B
+  parallels: "«Према-виласа» 19 (ev-radha-krishna-appear-kheturi)"
+  divergence: "В «Према-виласе» Радха и Кришна являются над киртаном на самом празднике, и Нароттама входит в самадхи; здесь — в одну из ночей полнолуния после праздника, и явление незримо: лишь сияние, благоухание и звон украшений."
+  themes: [revelation, kirtan, krishna-lila]
+  bhava: [krishna]
+  event: ev-radha-krishna-appear-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "18", to: "27"}
+
+- id: brt-5045
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 28–66"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.01
+  title: "На пути во Вриндаван: Чанди во сне грозит глумившимся пашандам, и они принимают прибежище у Джахнавы"
+  summary: "В одном большом селении пашанды смеются, видя, как бхагаваты кланяются Джахнаве («кланяются человеку, а не Чанди»), и в храме Чанди просят её погубить пришельцев; Чанди в гневе является им во сне с мечом: «Вы хулили бхагават; та, кого вы назвали женой брахмана, — супруга Нитьянанды-Баларамы, которую я ношу на голове; лишь её милость спасёт вас»; утром пашанды в слезах падают к стопам махантов, Джахнава являет им милость, и они погружаются в бхакти."
+  persons: ["@jahnava", "@durga", "@nityananda"]
+  places: []
+  kind: miracle
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0157: Чандика во сне укрощает пашанди); «Нароттама-виласа» 9 (nvl-0053: по пути обращает пашанди)"
+  notes: "Чанди здесь — служанка, почитающая Джахнаву как супругу Нитьянанды-Баларамы (48); шлока «Я поклоняюсь Шри Джахнаве…» (52) — источник не установлен."
+  themes: [mercy, offense, celestial]
+  teaching: [vaishnava, associates-tattva]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "28", to: "66"}
+
+- id: brt-5046
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 67–89"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.02
+  title: "Разбойники-яваны всю ночь не могут дойти до стана Джахнавы и сдаются ей"
+  summary: "Двое разбойников-яванов задумали ограбить «гаудиев» на берегу реки; после нама-санкиртаны, когда все спят, главарь ведёт людей, но короткая дорога становится бесконечной, и на рассвете они оказываются там, откуда вышли; устрашённые гневом «гаудийской Госани», они оставляют разбой, приходят к Джахнаве и, рыдая, молят о милости; Джахнава со спутниками являет им милость, и весть об этом расходится повсюду."
+  persons: ["@jahnava"]
+  places: []
+  kind: miracle
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0157: атаман Кутбуддин с яванами всю ночь блуждает); «Нароттама-виласа» 9 (nvl-0053)"
+  divergence: "В «Према-виласе» атаман назван (Кутбуддин), и разбойники видят змей, ползущих к путникам; здесь имя не названо, змей нет."
+  themes: [mercy, muslims, celestial]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "67", to: "89"}
+
+- id: brt-5047
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 90–118"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.03
+  title: "Джахнава в Матхуре; Госвами встречают её у места Акруры; Говинда представлен Госвами"
+  summary: "В Матхуре Джахнава чтит брахманов-матхуров, омывается у Вишрама-гхата, видит Вараху и Кешаву; наутро с вайшнавами Матхуры идёт во Вриндаван; у места Акруры её встречают Госвами — Парамешвари Дас называет ей Гопалу Бхатту, Бхугарбху, Локанатху, Кришнадаса Брахмачари, Кришну Пандита, Мадху Пандита и Дживу; Госвами кланяются, и Джахнава, считая себя ничтожной, делает то, что их смущает; Парамешвари знакомит Госвами с учениками Шринивасы — Говиндой, сыном Чирандживы, и Бхагаваном Кавираджей."
+  persons: ["@jahnava", "@parameshvara-dasa", "@gopala-bhatta", "@bhugarbha", "@lokanatha", "@krishnadasa-brahmachari", "@krishna-pandita-govinda", "@madhu-pandita", "@jiva-gosvami", "@krishnadasa-sarakhela", "@govinda-kaviraja", "@chiranjiva-sena", "@ramachandra-kaviraja", "@bhagavan-kaviraja", "@varaha"]
+  places: ["#mathura", "#vishrama-ghata", "#akrura-tirtha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0053); «Према-виласа» 15 (pvl-0104)"
+  divergence: "В «Према-виласе» (15) Джахнава во Вриндаване у Дживы встречает Гопалу Бхатту и Локанатху; в 16-й виласе — живых Рупу, Санатану и Кришнадаса Кавираджу; здесь Рупа уже сокрыт (11.151)."
+  themes: [pilgrimage, ecstasy]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "90", to: "118"}
+
+- id: brt-5048
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 119–144"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.04
+  title: "У места Акруры, где Господь принимал подаяние; Джахнава во Вриндаване: даршан шести Божеств, рассказ о празднике в Кхетури"
+  summary: "У места Акруры Джива рассказывает, что Господь из-за толп во Вриндаване приходил сюда и принимал здесь подаяние, — Джахнава в слезах кланяется месту; войдя во Вриндаван, она поселяется в жилище, приготовленном Дживой; с Госвами идёт на даршан Говинды, Гопинатхи, Мадана-мохана, Радха-виноды, Радха-раманы и Радха-Дамодары и подносит привезённые одежды и украшения; через Мадхаву Ачарью рассказывает о празднике в Кхетури, и Локанатха с Госвами плачут от премы."
+  persons: ["@jahnava", "@jiva-gosvami", "@mahaprabhu", "@gopala-bhatta", "@lokanatha", "@govinda-deity", "@gopinatha-vrindavana", "@madana-mohana-vrindavana", "@radha-vinoda-deity", "@radha-ramana-deity", "@radha-damodara-deity", "@krishnadasa-sarakhela"]
+  places: ["#akrura-tirtha", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0053); ЧЧ Мадхья 18 (Господь у Акрура-гхата)"
+  notes: "В 119 даршан Гопинатхи упомянут уже у места Акруры (по тексту)."
+  themes: [deities, pilgrimage, separation]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "119", to: "144"}
+
+- id: brt-5049
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 145–148"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 104.71
+  title: "Госвами Вриндавана слушают поэзию Говинды и прославляют его как «Говинду Кавираджу»"
+  summary: "По просьбе Парамешвари Даса Госвами слушают стихи Говинды, радуются и говорят: «Ему подобает слава кавираджи», называя его Шри Говиндой Кавираджей; Джахнава очень довольна."
+  persons: ["@govinda-kaviraja", "@parameshvara-dasa", "@jahnava", "@gopala-bhatta", "@lokanatha", "@jiva-gosvami"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0053: Госвами одобряют стихи Говинды); БР 10.292–297"
+  themes: [learning, mercy]
+  event: ev-govinda-kaviraja-title
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "145", to: "148"}
+
+- id: brt-5050
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 149–177"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.05
+  title: "Джахнава у Радха-кунды: встреча с исхудавшим Рагхунатхой Дасом; угощение враджаваси"
+  summary: "Рагхунатха Дас, исхудавший в разлуке с Рупой, не может прийти и передаёт смиренное послание через Кришнадаса Кавираджу, Рагхаву Пандита и других; Госвами советуют Джахнаве съездить к Кунде и вернуться отдохнуть перед обходом лесов; через Бахулавану она приходит к Радха-кунде, Кавираджа докладывает о ней Дасу Госвами, тот выходит в слезах, и Джахнава плачет, видя его сияющее исхудавшее тело; три-четыре дня она готовит, подносит бхогу Кришне и кормит враджаваси Арита."
+  persons: ["@jahnava", "@raghunatha-dasa", "@rupa-gosvami", "@krishnadasa-kaviraja", "@raghava-gosvami-govardhana", "@gopala-bhatta", "@krishna"]
+  places: ["#vrindavana", "#bahulavana", "#radha-kunda", "#arita", "#govardhana", "#nandagrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 16 (pvl-0110); «Нароттама-виласа» 9 (nvl-0053)"
+  divergence: "В «Према-виласе» у Радха-кунды Джахнаву встречает и Кришнадас Кавираджа, хотя ранее описана его кончина, и Джахнава даёт наставления о Вриндаване; здесь Кавираджа жив и служит Дасу Госвами, наставлений нет."
+  themes: [pilgrimage, separation, prasada]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "149", to: "177"}
+
+- id: brt-5051
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 178–185"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.2
+  title: "Видение Джахнавы у Радха-кунды: Шьяма с флейтой под кадамбой, Радха с подругами во главе с Лалитой"
+  summary: "Однажды в полдень на берегу кунды Джахнава слышит флейту и видит под кадамбой Шьяму в трижды изогнутой позе, играющего на флейте, а вокруг — Радхику с подругами во главе с Лалитой; она лишается чувств и, придя в себя, никому не открывает увиденного."
+  persons: ["@jahnava", "@krishna", "@radha", "@lalita"]
+  places: ["#radha-kunda"]
+  kind: vision
+  authority: B
+  themes: [krishna-lila, revelation, ecstasy]
+  bhava: [krishna]
+  event: ev-jahnava-vraja-visions
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "178", to: "185"}
+
+- id: brt-5052
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 186–203"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.06
+  title: "Говардхана, Манаси-ганга, Нандаграм; Джахнава кормит Божества Вриндавана и слушает книги Госвами от Дживы"
+  summary: "С позволения смиренного Даса Госвами Джахнава идёт к Говардхане, Манаси-ганге, Нандаграму, где Мадхава Ачарья и другие теряют самообладание, а Джива их успокаивает; вернувшись во Вриндаван, она сама готовит и кормит Говинду, Гопинатху, Мадана-мохана, Радха-Дамодару, Радха-раману и Радха-виноду, угощает вайшнавов прасадом и слушает от Дживы «Брихад-бхагаватамриту» и другие книги."
+  persons: ["@jahnava", "@raghunatha-dasa", "@jiva-gosvami", "@govinda-deity", "@gopinatha-vrindavana", "@madana-mohana-vrindavana", "@radha-damodara-deity", "@radha-ramana-deity", "@radha-vinoda-deity", "@sanatana-gosvami"]
+  places: ["#govardhana", "#manasa-ganga", "#nandagrama", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0053)"
+  scriptures: ["Брихад-бхагаватамрита"]
+  themes: [pilgrimage, deities, learning]
+  teaching: [scripture]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "186", to: "203"}
+
+- id: brt-5053
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 204–222"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.21
+  title: "Обход двенадцати лесов; видения весеннего раса Кришны и Баларамы у Говардханы и раса Баларамы у Рама-гхата"
+  summary: "Джахнава обходит двенадцать лесов Враджа; в уединении у Говардханы ей открывается весенний раса: сын Рохини и Кришна, сын Яшоды, каждый со Своими возлюбленными, играют с фагу, — она падает без чувств; у Рама-гхата она видит «Владыку своей жизни» — Балая, танцующего раса с искусными возлюбленными; придя в себя, никому не говорит."
+  persons: ["@jahnava", "@balarama", "@krishna", "@yashoda"]
+  places: ["#madhuvana", "#kamyavana", "#bahulavana", "#bhadravana", "#bhandiravana", "#vrindavana", "#govardhana", "#rama-ghata"]
+  kind: vision
+  authority: B
+  notes: "Джахнава — супруга Нитьянанды, тождественного Балараме; потому у Рама-гхата она видит «Владыку своей жизни» (сноска 26 перевода); в 218 по изд. 1960 г. — «раса Шьямы»."
+  themes: [krishna-lila, revelation, pilgrimage]
+  bhava: [balarama]
+  teaching: [associates-tattva]
+  event: ev-jahnava-vraja-visions
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "204", to: "222"}
+
+- id: brt-5054
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 223–234"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.25
+  title: "Джахнава возвращает к жизни умершего сына брахмана у Ямуны"
+  summary: "В селении на Ямуне у старого брахмана умирает единственный сын возраста пауганды; мать не даёт касаться мёртвого, но Джахнава говорит: «Вы враджаваси — я стану чистой, коснувшись вашего сына», — кладёт руку ему на голову, и мальчик оживает и кланяется ей; на благодарность родителей она отвечает: «Кришна оживил сына, при чём здесь я?»"
+  persons: ["@jahnava", "@krishna"]
+  places: ["#vrindavana"]
+  kind: miracle
+  authority: B
+  themes: [mercy, celestial]
+  teaching: [vaishnava]
+  event: ev-jahnava-revives-brahmana-boy
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "223", to: "234"}
+
+- id: brt-5055
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 235–249"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.3
+  title: "Гопинатха во сне просит Джахнаву прислать Радху выше ростом; повеление Наяне Бхаскаре"
+  summary: "Вспомнив повеление Господа в Кхардахе, Джахнава решает спешить в Гауду; у Гопинатхи она весело думает, что Радхике следовало бы быть чуть выше; ночью Гопинатха во сне говорит: «Моя возлюбленная ниже Меня — в Гауде яви и пришли её, она станет слева от Меня», а Радхика с улыбкой добавляет: «Не смущайся, это и моё желание»; утром Джахнава велит Наяне Бхаскаре созерцать Гопинатху, чтобы изваять Его Возлюбленную; Гопинатха во сне даёт ей гирлянду."
+  persons: ["@jahnava", "@gopinatha-vrindavana", "@radha", "@nayana-bhaskara", "@nityananda"]
+  places: ["#vrindavana"]
+  kind: vision
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0054); «Према-виласа» 16, 19 (pvl-0109, pvl-0168); «Нитьянанда-вамша-вистара» 5"
+  divergence: "В «Према-виласе» (16) Радху во сне просит прислать Мадана-мохан; в «Нитьянанда-вамша-вистаре» Гопинатха сажает слева от Себя саму Джахнаву; здесь, как в «Нароттама-виласе», Гопинатха просит Радху, задуманную Джахнавой, и сама Радха выражает согласие."
+  themes: [deities, revelation]
+  event: ev-jahnava-gopinatha
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "235", to: "249"}
+
+- id: brt-5056
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 250–268"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.31
+  title: "Прощание Джахнавы с Вриндаваном: Божества, самадхи Госвами и Гауридаса; Бара Гангадас"
+  summary: "Госвами назначают время отъезда, вайшнавы сходятся во Вриндаван; Джахнава в слезах прощается с Говиндой, Гопинатхой, Мадана-моханом, Радха-винодой, Радха-Дамодарой, Радха-раманой, Гопишварой и Вриндой; плачет у самадхи Рагхунатхи Бхатты, Кашишвары, Санатаны и Рупы, у самадхи Гауридаса Пандита видит что-то чудесное и успокаивается словами Бары Гангадаса — сына сестры её матери Бхадравати, ученика Гауридаса, который по сну учителя пришёл во Вриндаван и служит у Дхира-самира."
+  persons: ["@jahnava", "@govinda-deity", "@gopinatha-vrindavana", "@madana-mohana-vrindavana", "@radha-vinoda-deity", "@radha-damodara-deity", "@radha-ramana-deity", "@vrinda-devi", "@raghunatha-bhatta", "@kashishvara", "@sanatana-gosvami", "@rupa-gosvami", "@gauridasa-pandita", "@baru-gangadasa", "@bhadravati", "@suryadasa-pandita"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0054)"
+  themes: [separation, deities, departure]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "250", to: "268"}
+
+- id: brt-5057
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 269–271"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.54
+  title: "Джахнаве дарят Божество (Шьяма-рай); служение она поручает Баре Гангадасу"
+  summary: "При прощании кто-то дарит Джахнаве Божество с Возлюбленной; она поручает служение Баре Гангадасу, являет ему великую милость и объявляет, что возьмёт его с собой."
+  persons: ["@jahnava", "@shyama-raya-deity", "@baru-gangadasa"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0054, nvl-0055)"
+  themes: [deities, mercy]
+  event: ev-bara-gangadasa-shyama-raya
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "269", to: "271"}
+
+- id: brt-5058
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 272–286"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.35
+  title: "Госвами прощаются с Говиндой Кавираджей: наставления Локанатхи Нароттаме; Джива передаёт «Гопала-вирудавали»"
+  summary: "Говинда Кавираджа с собратьями прощается с Госвами; Гопала Бхатта обнимает его; Локанатха велит передать Нароттаме: быть внимательным в служении Божеству, почитать вайшнавов, соблюдать дни Вишну и вайшнавов, вкушать бхакти-расу с Рамачандрой, — и известить Шринивасу; Бхугарбха тоже шлёт послание; Джива посылает объятия всем, обещает писать Шринивасе, просит присылать песни Говинды и даёт «Гопала-вирудавали», написанную по велению Рупы во сне; Кришнадас Кавираджа и другие обнимают Говинду и Бхагавана Кавираджу."
+  persons: ["@govinda-kaviraja", "@gopala-bhatta", "@lokanatha", "@narottama-dasa", "@ramachandra-kaviraja", "@srinivasa-acharya", "@bhugarbha", "@jiva-gosvami", "@rupa-gosvami", "@krishnadasa-kaviraja", "@bhagavan-kaviraja"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0054: Гопала Бхатта и Локанатха благословляют, Джива передаёт «Гопала-вирудавали»)"
+  themes: [teaching, separation, learning]
+  teaching: [vaishnava, scripture]
+  event: ev-jiva-sends-gopala-virudavali
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "272", to: "286"}
+
+- id: brt-5059
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 287–299"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.4
+  title: "Джахнава покидает Вриндаван: прощание с Госвами у места Акруры и в Матхуре"
+  summary: "После бессонной ночи Госвами и враджаваси приходят к Джахнаве; в благоприятный миг она выходит в Гауду, у места Акруры в последний раз созерцает Вриндаван и в слезах прощается с Госвами; Гопала Бхатта и другие не могут сдержаться; Джива провожает её до Матхуры, где она чтит брахманов и, простившись с Дживой, уходит."
+  persons: ["@jahnava", "@gopala-bhatta", "@jiva-gosvami", "@krishnadasa-sarakhela"]
+  places: ["#vrindavana", "#akrura-tirtha", "#mathura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0054)"
+  themes: [separation, pilgrimage]
+  event: ev-jahnava-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "287", to: "299"}
+
+- id: brt-5060
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 300–326"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.5
+  title: "Возвращение Джахнавы в Кхетури: встреча, даршан Господ, новые одежды от Сантоши"
+  summary: "Вступив в Гауду, Джахнава подходит к Кхетури; Нароттама, Рамачандра, Сантоша Датта и другие выходят навстречу и катаются в пыли у её стоп, Говинда Кавираджа кланяется Рамачандре и Нароттаме; во дворе Господа даршан успокаивает её сердце; Сантоша снова размещает махантов и по его желанию все, омывшись, надевают подаренные им новые белые одежды — надевает их и Джахнава, сама одаряя служанок."
+  persons: ["@jahnava", "@narottama-dasa", "@ramachandra-kaviraja", "@santosha-datta", "@govinda-kaviraja", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055); «Према-виласа» 19 (pvl-0148)"
+  divergence: "В «Према-виласе» (19) Джахнава на обратном пути передаёт в Кхетури благословения Локанатхи и Гопалы Бхатты; здесь их передаёт Говинда Кавираджа (11.354)."
+  themes: [festival, deities, mercy]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "300", to: "326"}
