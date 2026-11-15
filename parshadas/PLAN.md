@@ -144,7 +144,7 @@ B — вероятно, больше сотни).
 | @mukunda-datta (045) | в работе | — | — |
 | @gadadhara-dasa (046) | ✓ | в работе | — |
 | @raghava-pandita (047) | ✓ | в работе | — |
-| @damayanti (048) | ✓ | в работе | — |
+| @damayanti (048) | ✓ | ✓ (PDF) | — |
 | @buddhimanta-khan (049) | ✓ | в работе | — |
 | @kashishvara (050, Кашишвара Пандит) | ✓ | в работе | — |
 

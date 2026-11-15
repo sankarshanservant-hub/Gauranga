@@ -64,7 +64,7 @@ bidding (*ajna*), and Kaviraja says of them both:
 “Raghava gave the orders, and Damayanti carried them out. Both had deep affection and supreme devotion for the Lord.”
 (CC, Antya 10.34)
 
-Her cooking was not housekeeping, nor the art of the kitchen, but the service (*seva*) of an eternal associate. What she
+All this was not household work but the service (*seva*) of an eternal associate. What she
 prepared was an offering (*naivedya*) to the Lord; what remained from Him Kaviraja calls *prasada*. <!-- F10 F13 -->
 
 ## Raghava's Jhalis
