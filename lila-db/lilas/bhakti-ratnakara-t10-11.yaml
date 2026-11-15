@@ -1129,3 +1129,298 @@
   event: ev-jahnava-returns-through-kheturi
   verses:
     - {file: "bhakti-ratnakara/ru/11.md", from: "300", to: "326"}
+
+- id: brt-5061
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 327–333"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.56
+  title: "В Кхетури Джахнава показывает Нароттаме и Рамачандре Божество Шьяма-рай"
+  summary: "Бара Гангадас, завершив служение привезённому из Вриндавана Шьяма-раю, докладывает Джахнаве; она ведёт Нароттаму и Рамачандру на даршан, и те, раз взглянув, охвачены премой; затем все идут во двор Гауранги и кланяются Господам."
+  persons: ["@jahnava", "@shyama-raya-deity", "@baru-gangadasa", "@narottama-dasa", "@ramachandra-kaviraja", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [deities, ecstasy]
+  event: ev-bara-gangadasa-shyama-raya
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "327", to: "333"}
+
+- id: brt-5062
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 334–353"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.51
+  title: "Прасад и беседа в Кхетури: Джахнава рассказывает о Врадже; Рамачандра — о сокрытии спутников Господа в Гауде"
+  summary: "Джахнава кормит бхагават прасадом и рассказывает Нароттаме и Рамачандре о Врадже от начала до конца, а затем спрашивает о Гауде; Нароттама лишь плачет, Рамачандра говорит: за это короткое время почти все возлюбленные Господа сокрылись, оставшиеся тоже почти скрылись из виду; Джахнава отвечает: «Господь повсюду сотворит тьму», — и все плачут; вечером — арати и нама-киртан шесть данд, затем прасад."
+  persons: ["@jahnava", "@narottama-dasa", "@ramachandra-kaviraja", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [separation, departure, kirtan]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "334", to: "353"}
+
+- id: brt-5063
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 354–357"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.36
+  title: "Говинда передаёт Нароттаме слова Госвами и «Гопала-вирудавали»; Госвами утешает Нароттаму во сне"
+  summary: "Говинда Кавираджа наедине передаёт слова всех Госвами и вручает «Гопала-вирудавали»; Нароттама отдаёт её Рамачандре; в смятении сердца он засыпает, и Госвами утешает его во сне; на рассвете Нароттама шлёт письма в Кхардаху и Яджиграм."
+  persons: ["@govinda-kaviraja", "@narottama-dasa", "@ramachandra-kaviraja", "@lokanatha"]
+  places: ["#kheturi"]
+  kind: post-advent
+  authority: B
+  notes: "Какой Госвами утешает Нароттаму во сне, не сказано; возможно, Локанатха, его гуру (сноска 41 перевода)."
+  themes: [separation, learning]
+  event: ev-jiva-sends-gopala-virudavali
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "354", to: "357"}
+
+- id: brt-5064
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 358–373"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.52
+  title: "Джахнава покидает Кхетури с Нароттамой и Рамачандрой; переправа через Падмавати; Будхари"
+  summary: "Пробыв в Кхетури три-четыре дня, Джахнава на рассвете прощается с Гаурангой, Валлавикантой и другими Господами; Нароттама и Рамачандра, велев всем быть внимательными в служении Господу, идут с ней; Сантоша передаёт дары через Парамешвари Даса; на берегу Падмавати Джахнава милостиво смотрит на людей и приходит в Будхари, где Вамшидас и другие берут на себя все заботы."
+  persons: ["@jahnava", "@narottama-dasa", "@ramachandra-kaviraja", "@santosha-datta", "@parameshvara-dasa", "@govinda-kaviraja", "@vamshidasa-chakravarti", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi", "#padmavati", "#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055)"
+  divergence: "В «Нароттама-виласе» Нароттама прощается с Джахнавой шлокой шести Божествам; здесь Нароттама и Рамачандра сопровождают её дальше — в Будхари и Экачакру."
+  themes: [separation, pilgrimage]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "358", to: "373"}
+
+- id: brt-5065
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 374–396"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.57
+  title: "Сон Шьямадаса Чакраварти; Джахнава женит Бару Гангадаса на Хемалате и вверяет ему Шьяма-рая"
+  summary: "Джахнава просит у Шьямадаса, брата Вамшидаса, то, что «легко достать»; ночью ему снится, что по её повелению он отдаёт дочь Баре Гангадасу; утром он рассказывает сон, и тут же готовят свадьбу; отрёкшийся Гангадас молчит, но не может нарушить повеления; юная золотистая Хемалата становится его женой, и Джахнава вверяет ему Шьяма-рая; когда он тревожится о бхоге, Шьяма-рай во сне говорит: «Что достанется — тем и корми Меня», и Джахнава устанавливает порядок бхоги."
+  persons: ["@jahnava", "@shyamadasa-bahadurpur", "@vamshidasa-chakravarti", "@baru-gangadasa", "@hemalata-gangadasa", "@shyama-raya-deity", "@ramachandra-kaviraja", "@narottama-dasa", "@govinda-kaviraja"]
+  places: ["#teliya-budhari", "#bahadurpura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055: брак отрёкшегося Бару Гангадаса, Божество Шьяма-рай по сну)"
+  notes: "Хемалата — не дочь Шринивасы Ачарьи (сноска 43 перевода)."
+  themes: [family, deities, mercy]
+  event: ev-bara-gangadasa-shyama-raya
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "374", to: "396"}
+
+- id: brt-5066
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 397–415"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.58
+  title: "Джахнава со спутниками, Нароттамой и Рамачандрой идёт в Экачакру; старый брахман на дороге"
+  summary: "Из Будхари Джахнава идёт в Экачакру в Рархе; при виде селения она и Кришнадас Саркхел, Мадхава Ачарья, Парамешвари Дас и другие, а также Нароттама, Рамачандра и Говинда утопают в слезах; в тени ашваттх их встречает дряхлый брахман с посохом, бродящий по местам игр Нитая; ему дают сиденье и спрашивают, почему обширная Экачакра в упадке."
+  persons: ["@jahnava", "@krishnadasa-sarakhela", "@murari-chaitanya-dasa", "@parameshvara-dasa", "@narottama-dasa", "@ramachandra-kaviraja", "@govinda-kaviraja", "@nityananda"]
+  places: ["#teliya-budhari", "#ekachakra", "#radha-desha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нитьянанда-вамша-вистара» 5 (nvv-0036–nvv-0038); «Нароттама-виласа» 5 (nvl-0035: Нитьянанда в облике старого брахмана показывает Экачакру Нароттаме)"
+  divergence: "В «Нитьянанда-вамша-вистаре» Джахнава приходит в Экачакру на пути во Вриндаван и её принимает Мадхава, родич Хадаи Пандита; здесь — на обратном пути, и рассказчик — безымянный столетний брахман."
+  themes: [pilgrimage, separation]
+  event: ev-jahnava-ekachakra
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "397", to: "415"}
+
+- id: brt-5067
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 416–457"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P01
+  order: 29.5
+  title: "Рассказ старого брахмана: Экачакра Пандавов, пророчество астролога о Балараме, род Хадаи Пандита"
+  summary: "Брахман рассказывает: в Экачакре жили Пандавы, там Шива Экачакрешвара и многие боги; селение было богатым и учёным, и знаток джьотиши предрёк, что здесь вскоре явится Господь Баларама; жил там брахман Ойха из гаи Сундарамала Бандьягхати, чьи сыновья умирали; последнего он назвал «Хадо» и вверил Парвати и Шанкаре; Хадо, женатый на Падмавати, стал Хадаи Пандитом — беззаветным вайшнавом, а его жена — вайшнави, преданной мужу."
+  persons: ["@hadai-pandita", "@padmavati", "@balarama", "@shiva", "@parvati", "@nityananda"]
+  places: ["#ekachakra"]
+  kind: pre-advent
+  authority: B
+  notes: "Рассказ безымянного старого брахмана (11.416–612); дед Нитьянанды Ойха тегом не отмечен."
+  themes: [family, revelation]
+  bhava: [balarama]
+  event: ev-nityananda-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "416", to: "457"}
+
+- id: brt-5068
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 458–474"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P01
+  order: 30
+  title: "Рождение Нитьянанды у Падмавати и Хадаи Пандита; наречение имени; младенец Нитай"
+  summary: "В величайше благоприятный миг Падмавати рождает мальчика, подобного кукле из золотого масла, при виде которого уходит боль; Хадаи раздаёт богатства; при наречении одни зовут Его Рамой, другие — Нитьянандой; ползающего Нитая все берут на руки, и Он становится жизнью для всех."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati"]
+  places: ["#ekachakra"]
+  kind: pre-advent
+  authority: B
+  parallels: "ЧБ Ади 9.1–7 (cb-0064); «Адвайта-пракаша» 14"
+  themes: [family, celestial]
+  bhava: [child]
+  event: ev-nityananda-birth
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "458", to: "474"}
+
+- id: brt-5069
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 475–531"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P01
+  order: 30.5
+  title: "Детство Нитьянанды: любовь родителей; игры-представления лил Кришны, Рамы, Ваманы и Нрисимхи; учение"
+  summary: "Брахман, ещё мальчиком бравший Нитая на руки, вспоминает: отец не мог уйти, не оглядываясь на сына, мать умащала Его куркумой и маслом; с товарищами Нитай разыгрывает рождение Кришны, Путану, Тринаварту, Дамодару, ямала-арджуны, Бака, Агху, Калию, Дхенуку, Праламбу, Аришту, Говардхану, похищение одежд, Акруру, разлуку гопи (сам плача), Кубджу, Кувалаю и Камсу, все лилы Рамаяны, Вамана и Нрисимху с Прахладой; после упанаяны за несколько дней овладевает грамматикой и шастрами; в двенадцать лет выглядит шестнадцатилетним."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati", "@krishna", "@rama", "@nrisimha", "@prahlada"]
+  places: ["#ekachakra"]
+  kind: pre-advent
+  authority: B
+  parallels: "ЧБ Ади 9.13–99 (cb-0066, cb-0067)"
+  themes: [krishna-lila, pranks, learning]
+  bhava: [child, balarama]
+  event: ev-nityananda-childhood-dramas
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "475", to: "531"}
+
+- id: brt-5070
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 532–552"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P01
+  order: 31
+  title: "Санньяси уводит двенадцатилетнего Нитьянанду; горе Экачакры"
+  summary: "Хадаи собирается женить сына, семьи присматривают невест, но приходит прекрасный, но безжалостный санньяси-госани; Хадаи угощает его, и наутро тот выпрашивает Нитьянанду, и Хадаи отдаёт сына; родители падают без чувств, Экачакра словно опустела, младший брат Нитая плачет, что санньяси не взял его, а один брахман тщетно ищет санньяси, чтобы отдать ему взамен своего сына."
+  persons: ["@nityananda", "@hadai-pandita", "@padmavati"]
+  places: ["#ekachakra"]
+  kind: pre-advent
+  authority: B
+  parallels: "ЧБ Ади 9.100–101 (cb-0068); БР 5.2237–2262"
+  themes: [family, separation, sannyasa]
+  event: ev-nityananda-leaves-home
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "532", to: "552"}
+
+- id: brt-5071
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 553–578"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P01
+  order: 31.1
+  title: "Учёные Экачакры узнают в Нитьянанде Балараму: знамения рождения, игра в санньяси"
+  summary: "Знатоки шастр вспоминают пророчество астролога: при рождении Нитая кончился голод, пошёл дождь, боги сыпали цветы, толпились небожительницы; один видел, как Нитай в игре оделся санньяси с дандой и камандалу и танцевал в киртане детей — знак того, что Господь примет санньясу в Кали; другие говорят: сын Рохини, неотличный от Кришны, — это Нитьянанда, но живые существа во власти Его йогамайи; санньяси — лишь предлог: Баларама снова странствует по святым местам."
+  persons: ["@nityananda", "@balarama", "@krishna", "@hadai-pandita"]
+  places: ["#ekachakra"]
+  kind: pre-advent
+  authority: B
+  scriptures: ["«Махабхарата», «Вишну-сахасранама» («санньяса-крит»; ср. ЧЧ Ади 3)", "Бхаг. 10.78–79 (паломничество Баларамы)"]
+  themes: [revelation, sannyasa]
+  bhava: [balarama]
+  teaching: [associates-tattva, maya]
+  event: ev-nityananda-leaves-home
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "553", to: "578"}
+
+- id: brt-5072
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 579–603"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P01
+  order: 31.2
+  title: "Безумие разлуки Хадаи Пандита и Падмавати; запустение Экачакры"
+  summary: "Хадаи и Падмавати три месяца не едят и, словно безумные, зовут Нитьянанду: «Пойдём на гхат, на базар, в поле», «Нитьянанда пришёл — санньяси отослал Его домой!»; родители и другие день за днём уходят из мира, спутники Нитая уходят в паломничество, жители переселяются за реку, в селение явана, и Экачакра приходит в запустение; немногие, и старый брахман с ними, остаются, вспоминая прошлое."
+  persons: ["@hadai-pandita", "@padmavati", "@nityananda"]
+  places: ["#ekachakra"]
+  kind: pre-advent
+  authority: B
+  notes: "Время ухода родителей — после ухода Нитьянанды из дома (не уточнено)."
+  themes: [separation, family, departure]
+  event: ev-nityananda-leaves-home
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "579", to: "603"}
+
+- id: brt-5073
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 604–624"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.59
+  title: "Плач старого брахмана по Нитаю; разрушенный дом Хадаи Пандита; ночь киртана"
+  summary: "Брахман показывает ашваттху и баньян, где Нитай ел с детьми, сетует, что Нитай не вернулся в Экачакру, молит Творца в новом рождении увидеть Его здесь и громко рыдает: «Где Ты, жизнь моя, мой Нитай?»; Джахнава и все плачут и берут пыль с его стоп; он показывает дом Пандита и уходит в слезах; в пустом разрушенном доме, месте игр Нитьянанды, они остаются на ночь и поют святое имя."
+  persons: ["@jahnava", "@nityananda", "@hadai-pandita", "@krishnadasa-sarakhela"]
+  places: ["#ekachakra"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нитьянанда-вамша-вистара» 5 (nvv-0038: Джахнава в доме рождения Нитьянанды)"
+  themes: [separation, pilgrimage, kirtan]
+  event: ev-jahnava-ekachakra
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "604", to: "624"}
+
+- id: brt-5074
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 625–660"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.6
+  title: "Сны Джахнавы в Экачакре: золотой град Хадаи и Падмавати; Нитьянанда с Васудхой и Джахнавой на драгоценном троне"
+  summary: "Джахнава сожалеет, что ей не довелось увидеть свёкра и свекровь, и во сне видит Экачакру золотым градом, где Хадаи и Падмавати, которым поклоняются боги, нежно любят сына и невесток — Васудху и Джахнаву; во втором сне в цветущем саду на берегу реки Нитьянанда сидит на драгоценном троне между Васудхой и Джахнавой, служанки подают тамбулу, гирлянды и сандал, и Он обменивается с супругами тамбулой и гирляндами; утром чей-то голос велит ей спешить в Кхардаху."
+  persons: ["@jahnava", "@nityananda", "@vasudha", "@hadai-pandita", "@padmavati", "@suryadasa-pandita"]
+  places: ["#ekachakra"]
+  kind: vision
+  authority: B
+  parallels: "«Нитьянанда-вамша-вистара» 5 (nvv-0038: Экачакра как сокровенный Шветадвипа)"
+  themes: [revelation, family]
+  bhava: [balarama]
+  teaching: [associates-tattva]
+  event: ev-jahnava-ekachakra
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "625", to: "660"}
+
+- id: brt-5075
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 661–668"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.61
+  title: "Благословение Джахнавы пьяному брахману: «Пусть Гаурахари так же опьянит его премой»"
+  summary: "По дороге из Экачакры брахман-пьяница пляшет, смеётся и плачет, падая на землю; узнав, кто он, Джахнава милостиво говорит: «Пусть Господь Гаурахари так же опьянит его премой», — и все восклицают «Хари бол!»: по её милости он обретает право на бхакти."
+  persons: ["@jahnava", "@mahaprabhu"]
+  places: ["#ekachakra"]
+  kind: miracle
+  authority: B
+  themes: [mercy]
+  event: ev-jahnava-ekachakra
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "661", to: "668"}
+
+- id: brt-5076
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 669–673"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.62
+  title: "Маудешвар: Шива, которому поклонялся Нитьянанда, место усмирения Кундали, дорога в Вакрешвар"
+  summary: "В Маудешваре Джахнава получает даршан Шивы, которому поклонялся сын Падмавати; все радуются при виде места, где Нитьянанда усмирил Кундали; местные показывают дорогу, по которой Он ходил в Вакрешвар; пройдя Рарх, Джахнава приходит в Катву."
+  persons: ["@jahnava", "@nityananda", "@shiva"]
+  places: ["#maudeshvara", "#radha-desha", "#katwa"]
+  kind: post-advent
+  authority: B
+  parallels: "БР 4.164–166 (Маудешвар на пути Шринивасы); «Нитьянанда-вамша-вистара» 5 (ev-nityananda-kundalitala)"
+  themes: [pilgrimage]
+  event: ev-jahnava-ekachakra
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "669", to: "673"}
