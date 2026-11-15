@@ -69,7 +69,7 @@
   kind: post-advent
   authority: B
   parallels: "БР 1.484–491 (brt-0026: велит сыновьям принять посвящение у Шринивасы)"
-  notes: "Сокрытие Махапрабху и уход Харидаса названы прямо: «Махапрабху скрылся из виду в Нилачале» (33), Харидас «сокрылся» (42)."
+  notes: "Сокрытие Махапрабху и уход Харидаса названы прямо: «Махапрабху скрылся из виду в Нилачале» (33), Харидас «сокрылся» (42). О повелении Господа, удержавшем Харидаса от смерти, — БР 6.330–366 (ev-dvija-haridasa-dream-vrindavana)."
   calendar: "магха, тёмная половина, экадаши"
   themes: [departure, separation, revelation]
   event: ev-dvija-haridasa-departure
@@ -1424,3 +1424,170 @@
   event: ev-jahnava-ekachakra
   verses:
     - {file: "bhakti-ratnakara/ru/11.md", from: "669", to: "673"}
+
+- id: brt-5077
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 674–677"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.63
+  title: "Джахнава в Катве; Шриниваса приходит к ней из Яджиграма"
+  summary: "Ядунандана извещает Яджиграм, и Шриниваса со спутниками тотчас приходит в Кантака-нагар; радость при даршане стоп Джахнавы и встрече с бхагаватами автор не описывает, опасаясь многословия."
+  persons: ["@jahnava", "@yadunandana-chakravarti", "@srinivasa-acharya"]
+  places: ["#katwa", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055: в Катве к ним приходит Шриниваса)"
+  themes: [pilgrimage, ecstasy]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "674", to: "677"}
+
+- id: brt-5078
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 678–682"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.37
+  title: "Шриниваса получает вести Госвами и «Гопала-вирудавали»; Госвами утешает его во сне"
+  summary: "Наедине с Нароттамой Шриниваса обменивается вестями; Говинда рассказывает о Госвами, и Шриниваса приходит в смятение; Рамачандра даёт ему «Гопала-вирудавали», и он возлагает книгу себе на голову; ночью Госвами под видом сна утешает Ачарью; утром он просит Джахнаву прийти в его дом."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@govinda-kaviraja", "@ramachandra-kaviraja", "@jahnava"]
+  places: ["#katwa"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055)"
+  notes: "Какой Госвами утешает Шринивасу во сне, не уточнено."
+  themes: [separation, learning]
+  event: ev-jiva-sends-gopala-virudavali
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "678", to: "682"}
+
+- id: brt-5079
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 683–699"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.64
+  title: "Джахнава в доме Шринивасы в Яджиграме; её встречает жена Ачарьи"
+  summary: "Джахнава со всеми приходит в Яджиграм; Шриниваса извещает Шрикханду и ставит Нароттаму и Рамачандру распоряжаться делами, махантов размещает в прекрасном месте, а Джахнаву — в своём доме; стыдливая жена Ачарьи выходит навстречу, кланяется в слезах, омывает ей стопы ароматной водой, и Джахнава всё больше проникается к ней любовью; празднуют приготовление и вкушение махапрасада."
+  persons: ["@jahnava", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja"]
+  places: ["#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055)"
+  notes: "Жена Шринивасы по имени не названа."
+  themes: [family, mercy, prasada]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "683", to: "699"}
+
+- id: brt-5080
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 700–725"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.65
+  title: "Рагхунандана в Яджиграме; чтение «Бхагаватам» Шринивасой; Шриниваса торопит Джахнаву явить Радху для Гопинатхи"
+  summary: "Из Кханды приходит Рагхунандана, Парамешвари Дас рассказывает ему о пути Джахнавы, и тот зовёт всех утром в Шрикханду; вечером по повелению Джахнавы Шриниваса читает «Шримад-Бхагаватам»; Джахнава говорит, что из Кханды поспешит в Кхардаху, и Шриниваса советует не медлить: явить Божество Радхики, которого очень желает Гопинатха; о себе он говорит, что пойдёт в Навадвипу, где из людей Господа остался лишь Ишана, затем в Кхетури и Вишнупур."
+  persons: ["@jahnava", "@raghunandana", "@parameshvara-dasa", "@srinivasa-acharya", "@gopinatha-vrindavana", "@radha", "@ishana-navadvipa"]
+  places: ["#yajigrama", "#shrikhanda", "#navadvipa", "#kheturi", "#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055)"
+  scriptures: ["Шримад-Бхагаватам"]
+  themes: [learning, deities, separation]
+  teaching: [scripture]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "700", to: "725"}
+
+- id: brt-5081
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 726–750"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.66
+  title: "Джахнава в Шрикханде: Рагхунандана и юный Канаи; двор Гауранги и Мадана-гопал"
+  summary: "Утешив жену Ачарьи, Джахнава идёт в Шрикханду; брахман у дороги славит сыновей Нараяны Даса — Мукунду, Мадхаву и Нарахари — и Рагхунандану; его юный сын Канаи, вне себя от качеств Гауры, расспрашивает отца о махантах и кланяется им, и Джахнава являет ему материнскую нежность; во дворе Гауранги — даршан Мадана-гопала, принявшего ладду от Рагхунанданы; ночь киртана; при прощании Рагхунандана передаёт припасы через Парамешвари Даса; Джахнава с Кришнадасом Саркхелом уходит, Шриниваса возвращается домой."
+  persons: ["@jahnava", "@raghunandana", "@kanai-shrikhanda", "@mukunda-dasa", "@narahari-sarakara", "@gaura-deity-shrikhanda", "@gopinatha-shrikhanda", "@parameshvara-dasa", "@krishnadasa-sarakhela", "@srinivasa-acharya"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055); «Према-виласа» 16 (pvl-0113: возвращение в Кханду)"
+  notes: "Мадана-гопал, принявший ладду, — то же Божество, что в других источниках Гопинатха Шрикханды (@gopinatha-shrikhanda; сноска 87 перевода); «двор Гауранги» — Божество Гауры, установленное Нарахари (тег @gaura-deity-shrikhanda — по предположению)."
+  themes: [deities, mercy, kirtan]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "726", to: "750"}
+
+- id: brt-5082
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 751–768"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.67
+  title: "Джахнава в опустевшей Навадвипе; сон: Гаура с Нитьянандой, Адвайтой, Гададхарой и спутниками в санкиртане"
+  summary: "В Надии почти не осталось спутников Господа; Ишана и немногие выходят навстречу, словно вновь обретя жизнь; в доме Шриваса Джахнава тревожится и на исходе ночи видит во сне Гаурасундару: слева Гададхара, справа Нитьянанда, впереди Адвайта со Шривасом; танцуют Мурари, Вакрешвара, Харидас, поют Говинда, Мадхава, Васу, Мукунда, Брахма, Шива и Шеша танцуют в толпе; проснувшись, она кланяется Навадвипа-дхаме, никому не открывая сна, утешает Ишану и обещает скорый приход Шринивасы."
+  persons: ["@jahnava", "@ishana-navadvipa", "@srivasa", "@mahaprabhu", "@gadadhara-pandita", "@nityananda", "@advaita", "@murari-gupta", "@vakreshvara", "@haridasa-thakura", "@govinda-ghosha", "@madhava-ghosha", "@vasu-ghosha", "@mukunda-datta", "@brahma", "@shiva", "@srinivasa-acharya"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: vision
+  authority: B
+  themes: [revelation, kirtan, separation]
+  bhava: [devotee]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "751", to: "768"}
+
+- id: brt-5083
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 769–787"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.68
+  title: "Амбика, дом Уддхараны Датты; возвращение Джахнавы в Кхардаху к Васудхе, Ганге и Вирачандре"
+  summary: "В Амбике Джахнава получает даршан Нитьянанды и Чайтаньи и по их велению идёт дальше; вайшнавы берега Ганги и торговцы выходят навстречу; она останавливается в доме Уддхараны Датты, вспоминая его жизнь, затем на лодке плывёт в Кхардаху; Ганга и Вирачандра падают к её стопам, она с материнской нежностью смотрит на них, кланяется Васудхе и вкратце рассказывает обо всём."
+  persons: ["@jahnava", "@gaura-nitai-ambika", "@uddharana-datta", "@nityananda", "@ganga-nityananda", "@virabhadra", "@vasudha", "@krishnadasa-sarakhela"]
+  places: ["#ambika-kalna", "#saptagrama", "#kharadaha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0055)"
+  notes: "Дом Уддхараны — по-видимому, в Саптаграме (место не названо)."
+  themes: [pilgrimage, family]
+  event: ev-jahnava-returns-through-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "769", to: "787"}
+
+- id: brt-5084
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 788"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.69
+  title: "Наяна Бхаскара по велению Джахнавы начинает ваять Божество Радхики"
+  summary: "В Кхардахе Джахнава даёт повеление Наяне Бхаскаре, и он начинает создавать Божество Шри Радхики для Гопинатхи."
+  persons: ["@jahnava", "@nayana-bhaskara", "@radha", "@gopinatha-vrindavana"]
+  places: ["#kharadaha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0168: изваяние Радхи отправлено во Вриндаван)"
+  notes: "Упоминание; отправка Божества во Вриндаван в тарангах 10–11 не описана."
+  themes: [deities]
+  event: ev-jahnava-gopinatha
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "788", to: "788"}
+
+- id: brt-5085
+  source: bhakti-ratnakara
+  ref: "Таранга 11, 789–791"
+  file: "bhakti-ratnakara/ru/11.md"
+  period: P15
+  order: 95.7
+  title: "Заключение, подпись автора и колофон одиннадцатой таранги"
+  summary: "Автор говорит, что рассказал всё вкратце, а подробно опишет кто-нибудь другой; слушающий с привязанностью без труда обретает чистую бхакти; подпись Нарахари Даса; колофон: «Описание путешествия Шри Ишвари Джахнавы в Шри Вриндаван и обратно и прочего»."
+  persons: ["@srinivasa-acharya", "@jahnava"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/11.md", from: "789", to: "791"}
