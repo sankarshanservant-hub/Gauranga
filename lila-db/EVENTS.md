@@ -5666,6 +5666,11 @@
 - anuragavalli (C): Манджари 1, 147–154 — [147–154](../anuragavalli/ru/01.md?plain=1#L455-L478) · `anv-0007`
 - bhakti-ratnakara (B): Таранга 1, 199–208 — [199–208](../bhakti-ratnakara/ru/01.md?plain=1#L596-L623) · `brt-0008`
 - vallabha-varta (D): Байтхак-чаритра, байтхак 4 (Вриндаван), вторая часть; § 1.7 — [7:1–2:11](../vallabha/ru/01.md?plain=1#L203-L239) · `vlb-0007`
+- bhakti-ratnakara (B): Таранга 4, 312–340 — [312–340](../bhakti-ratnakara/ru/04.md?plain=1#L946-L1034) · `brt-0103`
+
+## Радха-рамана являет Гопале Бхатте облик Гаурасундары / Radha-ramana reveals the form of Gaurasundara to Gopala Bhatta  `ev-radha-ramana-shows-gaura` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 4, 341–350 — [341–350](../bhakti-ratnakara/ru/04.md?plain=1#L1038-L1065) · `brt-0104`
 
 ## Правило двух наставников во Вриндаване: «западные» — к Гопале Бхатте, гаудии — к Рагхунатхе Бхатте / The rule of the two teachers in Vrindavana: 'westerners' to Gopala Bhatta, Gaudiyas to Raghunatha Bhatta  `ev-vrindavana-two-teachers-rule` (1533–1534, возраст 47–48, оценка)
 
@@ -5927,6 +5932,7 @@
 - bhakti-ratnakara (B): Таранга 4, 254–278 — [254–278](../bhakti-ratnakara/ru/04.md?plain=1#L771-L843) · `brt-0099`
 - bhakti-ratnakara (B): Таранга 4, 279–285 — [279–285](../bhakti-ratnakara/ru/04.md?plain=1#L846-L864) · `brt-0100`
 - bhakti-ratnakara (B): Таранга 4, 299–311 — [299–311](../bhakti-ratnakara/ru/04.md?plain=1#L907-L943) · `brt-0102`
+- bhakti-ratnakara (B): Таранга 4, 351–374 — [351–374](../bhakti-ratnakara/ru/04.md?plain=1#L1068-L1137) · `brt-0105`
 
 ## Посвящение Шринивасы у Гопалы Бхатты / Srinivasa's initiation by Gopala Bhatta  `ev-srinivasa-initiation` (1533–1534, возраст 47–48, оценка)
 
@@ -5934,6 +5940,7 @@
 - bhakti-ratnakara (B): Таранга 1, 230–236 — [230–236](../bhakti-ratnakara/ru/01.md?plain=1#L689-L707) · `brt-0011`
 - karnananda (C): Нирьяса 6, 30–48 — [30–48](../karnananda/ru/06.md?plain=1#L100-L154) · `krn-0030`
 - prema-vilasa (C): Виласа 6, 101–140 — [101–140](../prema-vilasa/ru/06.md?plain=1#L305-L422) · `pvl-0035`
+- bhakti-ratnakara (B): Таранга 4, 375–389 — [375–389](../bhakti-ratnakara/ru/04.md?plain=1#L1140-L1182) · `brt-0106`
 
 ## Юность Духкхи Кришнадаса (Шьямананды) и посвящение у Хридаи Чайтаньи в Амбике / The youth of Duhkhi Krishnadasa (Shyamananda) and his initiation by Hridaya Chaitanya at Ambika  `ev-shyamananda-initiation-ambika` (1533–1534, возраст 47–48, оценка)
 
@@ -5988,6 +5995,7 @@
 - bhakti-ratnakara (B): Таранга 1, 345–349 — [345–349](../bhakti-ratnakara/ru/01.md?plain=1#L1035-L1047) · `brt-0020`
 - narottama-vilasa (B): Виласа 2, 312–318 — [312–318](../narottama-vilasa/ru/02.md?plain=1#L951-L969) · `nvl-0018`
 - prema-vilasa (C): Виласа 11, 90–114 — [90–114](../prema-vilasa/ru/11.md?plain=1#L272-L344) · `pvl-0063`
+- bhakti-ratnakara (B): Таранга 4, 419–423 — [419–423](../bhakti-ratnakara/ru/04.md?plain=1#L1273-L1285) · `brt-0111`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 476–477 (6.3, № 62) «ও মোর করুণাময়, শ্রীঠাকুর মহাশয়» = БР 14 (изд. 1912, с. ≈1050–1051; изд. 1960, 14.215–226) — [12.1–12.12](../padas/ru/26.md?plain=1#L369-L402) · `pad-0566`
 - prema-vilasa (C): Виласа 11, 115–164 — [115–164](../prema-vilasa/ru/11.md?plain=1#L347-L494) · `pvl-0064`
 - prema-vilasa (C): Виласа 11, 165–192 — [165–192](../prema-vilasa/ru/11.md?plain=1#L497-L578) · `pvl-0065`
@@ -6003,18 +6011,22 @@
 
 - narottama-vilasa (B): Виласа 2, 319–325 — [319–325](../narottama-vilasa/ru/02.md?plain=1#L972-L990) · `nvl-0019`
 - prema-vilasa (C): Виласа 12, 17–47 — [17–47](../prema-vilasa/ru/12.md?plain=1#L53-L143) · `pvl-0072`
+- bhakti-ratnakara (B): Таранга 4, 424–427 — [424–427](../bhakti-ratnakara/ru/04.md?plain=1#L1288-L1297) · `brt-0112`
 
 ## Шринивас, Нароттама и Шьямананда во Вриндаване: встреча и учение у Дживы Госвами / Srinivasa, Narottama and Shyamananda in Vrindavana: meeting and study with Jiva Gosvami  `ev-srinivasa-narottama-shyamananda-vrindavana` (1533–1534, возраст 47–48, оценка)
 
 - narottama-vilasa (B): Виласа 2, 218–245 — [218–245](../narottama-vilasa/ru/02.md?plain=1#L665-L747) · `nvl-0015`
 - anuragavalli (C): Манджари 4, 29–34 — [29–34](../anuragavalli/ru/04.md?plain=1#L95-L112) · `anv-0025`
 - prema-vilasa (C): Виласа 12, 48–68 — [48–68](../prema-vilasa/ru/12.md?plain=1#L146-L206) · `pvl-0073`
+- bhakti-ratnakara (B): Таранга 4, 394–395 — [394–395](../bhakti-ratnakara/ru/04.md?plain=1#L1197-L1200) · `brt-0108`
 - prema-vilasa (C): Виласа 12, 320–362 — [320–362](../prema-vilasa/ru/12.md?plain=1#L962-L1088) · `pvl-0080`
 - anuragavalli (C): Манджари 4, 100–102 — [100–102](../anuragavalli/ru/04.md?plain=1#L320-L326) · `anv-0028`
+- bhakti-ratnakara (B): Таранга 4, 405–418 — [405–418](../bhakti-ratnakara/ru/04.md?plain=1#L1231-L1270) · `brt-0110`
 - anuragavalli (C): Манджари 4, 114–134 — [114–134](../anuragavalli/ru/04.md?plain=1#L364-L427) · `anv-0030`
 
 ## Шринивас обходит Врадж: Радха-кунда с Рагхунатхой Дасом, Говардхана, Натхджи и Виттхаланатха, Варшана, Нандаграм / Srinivasa's circuit of Vraja: Radha-kunda with Raghunatha Dasa, Govardhana, Nathji and Vitthalanatha, Varshana, Nandagrama  `ev-srinivasa-vraja-pilgrimage` (1533–1534, возраст 47–48, оценка)
 
+- bhakti-ratnakara (B): Таранга 4, 390–393 — [390–393](../bhakti-ratnakara/ru/04.md?plain=1#L1185-L1194) · `brt-0107`
 - anuragavalli (C): Манджари 5, 3–22 — [3–22](../anuragavalli/ru/05.md?plain=1#L15-L74) · `anv-0032`
 
 ## Загадка увядших лиан: Шринивас получает звание Ачарьи / The riddle of the withered creepers: Srinivasa receives the title Acharya  `ev-srinivasa-acharya-title` (1533–1534, возраст 47–48, оценка)
@@ -6022,6 +6034,7 @@
 - anuragavalli (C): Манджари 4, 35–66 — [35–66](../anuragavalli/ru/04.md?plain=1#L115-L212) · `anv-0026`
 - anuragavalli (C): Манджари 5, 71–98 — [71–98](../anuragavalli/ru/05.md?plain=1#L231-L323) · `anv-0034`
 - prema-vilasa (C): Виласа 12, 69–113 — [69–113](../prema-vilasa/ru/12.md?plain=1#L209-L341) · `pvl-0074`
+- bhakti-ratnakara (B): Таранга 4, 396–404 — [396–404](../bhakti-ratnakara/ru/04.md?plain=1#L1203-L1228) · `brt-0109`
 
 ## Нупура Радхи: Духкхи Кришнадас получает имя Шьямананда / Radha's anklet: Duhkhi Krishnadasa receives the name Shyamananda  `ev-shyamananda-nupura` (1533–1534, возраст 47–48, оценка)
 

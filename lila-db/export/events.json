@@ -15506,7 +15506,8 @@
    "pvl-0034",
    "brt-0099",
    "brt-0100",
-   "brt-0102"
+   "brt-0102",
+   "brt-0105"
   ],
   "sources": [
    "anuragavalli",
@@ -15545,7 +15546,8 @@
    "anv-0022",
    "brt-0011",
    "krn-0030",
-   "pvl-0035"
+   "pvl-0035",
+   "brt-0106"
   ],
   "sources": [
    "anuragavalli",
@@ -15786,6 +15788,7 @@
    "brt-0020",
    "nvl-0018",
    "pvl-0063",
+   "brt-0111",
    "pad-0566",
    "pvl-0064",
    "pvl-0065",
@@ -15855,9 +15858,11 @@
   ],
   "entries": [
    "nvl-0019",
-   "pvl-0072"
+   "pvl-0072",
+   "brt-0112"
   ],
   "sources": [
+   "bhakti-ratnakara",
    "narottama-vilasa",
    "prema-vilasa"
   ]
@@ -15893,12 +15898,15 @@
    "nvl-0015",
    "anv-0025",
    "pvl-0073",
+   "brt-0108",
    "pvl-0080",
    "anv-0028",
+   "brt-0110",
    "anv-0030"
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara",
    "narottama-vilasa",
    "prema-vilasa"
   ]
@@ -15929,10 +15937,12 @@
   "entries": [
    "anv-0026",
    "anv-0034",
-   "pvl-0074"
+   "pvl-0074",
+   "brt-0109"
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -20096,7 +20106,8 @@
   "entries": [
    "anv-0007",
    "brt-0008",
-   "vlb-0007"
+   "vlb-0007",
+   "brt-0103"
   ],
   "sources": [
    "anuragavalli",
@@ -20756,6 +20767,36 @@
   ],
   "entries": [
    "brt-0101"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-radha-ramana-shows-gaura",
+  "title": "Радха-рамана являет Гопале Бхатте облик Гаурасундары",
+  "title_en": "Radha-ramana reveals the form of Gaurasundara to Gopala Bhatta",
+  "period": "P15",
+  "order": 16.7,
+  "date_conf": "оценка",
+  "date_basis": "после явления Радха-раманы (БР 4)",
+  "themes": [
+   "deities",
+   "revelation",
+   "separation"
+  ],
+  "notes": "«Бхакти-ратнакара» 4.341–350: Бхатта вспоминает своё служение Господу в доме отца, и Радха-рамана, покорённый его любовью, принимает облик Гауры.",
+  "years": [
+   1533,
+   1534
+  ],
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "brt-0104"
   ],
   "sources": [
    "bhakti-ratnakara"
@@ -31782,10 +31823,12 @@
    48
   ],
   "entries": [
+   "brt-0107",
    "anv-0032"
   ],
   "sources": [
-   "anuragavalli"
+   "anuragavalli",
+   "bhakti-ratnakara"
   ]
  },
  {
