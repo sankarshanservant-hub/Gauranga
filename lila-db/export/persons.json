@@ -4194,6 +4194,10 @@
     "type": "host"
    },
    {
+    "from": "@damayanti",
+    "type": "served-by"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "other"
    },
@@ -20058,6 +20062,10 @@
     "type": "other"
    },
    {
+    "from": "@damayanti",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "companion"
    },
@@ -26465,6 +26473,10 @@
   ],
   "related_by": [
    {
+    "from": "@damayanti",
+    "type": "other"
+   },
+   {
     "from": "@gopala-guru",
     "type": "servant"
    },
@@ -28046,6 +28058,10 @@
    "ev-chaitanya-dasa-feast"
   ],
   "related_by": [
+   {
+    "from": "@damayanti",
+    "type": "sibling"
+   },
    {
     "from": "@govinda-servant",
     "type": "other"
@@ -37173,6 +37189,10 @@
     "type": "other"
    },
    {
+    "from": "@damayanti",
+    "type": "other"
+   },
+   {
     "from": "@dhananjaya-pandita",
     "type": "other"
    },
@@ -38538,6 +38558,10 @@
   "related_by": [
    {
     "from": "@bhugarbha",
+    "type": "other"
+   },
+   {
+    "from": "@damayanti",
     "type": "other"
    },
    {
@@ -40586,6 +40610,10 @@
    },
    {
     "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@damayanti",
     "type": "other"
    },
    {
@@ -45173,6 +45201,10 @@
   ],
   "related_by": [
    {
+    "from": "@damayanti",
+    "type": "co-worker"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    }
@@ -47175,6 +47207,85 @@
   ],
   "events": [
    "ev-raghavera-jhali"
+  ],
+  "summary": "в Кришна-лиле — Гунамала, гопи Враджа (ГГД 167); происхождение — Панихати",
+  "card": "parshadas/cards/damayanti.yaml",
+  "article": {
+   "ru": "parshadas/ru/damayanti.md",
+   "en": "parshadas/en/damayanti.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": []
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет",
+    "facts": []
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Гунамала, гопи Враджа",
+    "source": "ГГД 167",
+    "level": "A",
+    "variants": [
+     "B называет Гунамалу гопи; расу ГГД не уточняет (⚠Б3)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "sibling",
+    "who": "@raghava-pandita",
+    "note": "Брат (ЧЧ Ади 10.25; Антья 10.13, 10.34; ГГД 167 «его сестра»); готовила по его велению, он возил джхали в Пури (Ади 10.26; Антья 10.13, 10.55); по ГГД 166 он — Дхаништха."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "«Дорогая служанка Господа» (ЧЧ Ади 10.25): весь год готовила для Него угощения и шукту; Господь, принимающий чувство, принимал их весь год (Ади 10.27; Антья 10.129–132)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@makaradhvaja-kara",
+    "note": "Мунсиб (смотритель) джхали, берёг их в пути как жизнь (ЧЧ Антья 10.40)."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-servant",
+    "note": "Хранил её припасы и давал Господу понемногу (B 822; ЧЧ Антья 10.55–56; «Harmonist»). = @govinda-servant F25."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Весь год понемногу подавал Господу за трапезой угощения из джхали Рагхавы (ЧЧ Антья 10.131)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Описал её угощения (ЧЧ Антья 10.15–38); «слушая о них, преданные плачут» (Ади 10.28)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-chakravarti",
+    "note": "Славит её в паде заключения «Бхакти-ратнакары» («любящая Дамаянти-деви») и во вступлении «Намамрита-самудры» (ур. B)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Антья 10.18–19: бхава — немирская; манушья-буддхи — естественная (сварасики) любовь жителей Гауды и Враджа; «Harmonist» 1928–29 (под его редакцией)."
+   }
   ],
   "related_by": [
    {
