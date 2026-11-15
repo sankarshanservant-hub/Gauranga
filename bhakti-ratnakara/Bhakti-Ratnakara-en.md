@@ -6753,7 +6753,7 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^04-18]: Kundali-damana ("the subduing of the serpent") — the place where, according to local tradition, Nityananda subdued a serpent.
 [^04-19]: Ekachakra (Birbhum) — the birthplace of Nityananda; Hadai Ojha (Hadai Pandita) is His father.
 [^04-20]: At Gaya the Lord met Ishvara Puri and received initiation from him (CB Adi 17; CC Adi 17).
-[^04-21]: Chandrashekhara — a vaidya (according to the CC, a scribe) of Kashi in whose house the Lord stayed (CC Madhya 17, 20, 25). Only Narahari mentions his disciple.
+[^04-21]: Chandrashekhara — a vaidya (according to the CC, a scribe) of Kashi in whose house the Lord stayed (CC Madhya 17, 20, 25). His disciple, an old Vaishnava in Varanasi, is also mentioned in the Prema-vilasa (PV 5).
 [^04-22]: Vishrama-ghata — the principal ghat on the Yamuna at Mathura, where, according to tradition, Krishna rested after killing Kamsa.
 [^04-23]: In Narahari's account Srinivasa reaches Vraja after Sanatana and Rupa have already disappeared; Kashishvara and Raghunatha Bhatta have also departed.
 [^04-24]: The Nava-padya — a collection of verses by Nrisimha Kaviraja, a disciple of Srinivasa (cf. 3.78).
