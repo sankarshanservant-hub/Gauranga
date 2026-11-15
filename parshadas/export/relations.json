@@ -6809,6 +6809,520 @@
   "note": "«Анубхашья» к ЧЧ Ади 10.138–143 и Мадхья 2.78: Бхангура (ГГД 137), чистая дасья-раса, переход через Господа ради служения."
  },
  {
+  "from": "@haridasa-thakura",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F45",
+   "F77",
+   "F78",
+   "F79",
+   "F80",
+   "F83",
+   "F86",
+   "F88",
+   "F92",
+   "F95",
+   "F96",
+   "F97",
+   "F99",
+   "F101",
+   "F109",
+   "F110",
+   "F111",
+   "F114",
+   "F116",
+   "F117",
+   "F118",
+   "F119",
+   "F120",
+   "F121",
+   "F122",
+   "F123"
+  ],
+  "events": [
+   "ev-haridasa-arrives",
+   "ev-haridasa-scars-mahaprakasha",
+   "ev-preaching-door-to-door",
+   "ev-farewell-shantipura",
+   "ev-haridasa-puri-hut",
+   "ev-haridasa-namabhasa-yavanas",
+   "ev-haridasa-sthavara-jangama-deliverance",
+   "ev-haridasa-departure"
+  ],
+  "note": "Вечный спутник и слуга Господа; Господь прикрыл его тело Своим при побоях (ЧБ Мадхья 10), поселил в Сиддха-бакуле, навещал ежедневно, Сам совершил его самадхи (ЧЧ Антья 11)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "friend",
+  "who": "@advaita",
+  "facts": [
+   "F58",
+   "F59",
+   "F60",
+   "F61",
+   "F62",
+   "F63",
+   "F72",
+   "F77",
+   "F88",
+   "F90",
+   "F91"
+  ],
+  "events": [
+   "ev-shraddha-patra-haridasa",
+   "ev-advaita-calls-lord",
+   "ev-advent-eclipse-devotees-rejoice"
+  ],
+  "note": "Близкий спутник: пещера в Пхулии, ежедневная трапеза, шраддха-патра (ЧЧ Антья 3.213–220); совместная молитва о нисхождении; жили вместе в Шантипуре и Навадвипе. По «Адвайта-пракаше» и «Према-виласе» — посвящён Адвайтой (lila-db apr-0024, pvl-0251; ур. C). = @advaita F48–F52, F151."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F82",
+   "F83",
+   "F84",
+   "F85",
+   "F88",
+   "F100"
+  ],
+  "events": [
+   "ev-preaching-door-to-door",
+   "ev-jagai-madhai-deliverance",
+   "ev-jump-into-ganga",
+   "ev-ramakeli-rupa-sanatana"
+  ],
+  "note": "Вместе — по велению Господа проповедь от двери к двери, Джагай и Мадхай (ЧБ Мадхья 13), спасение Господа из Ганги, Рамакели. = @nityananda F184–F197."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "companion",
+  "who": "@srivasa",
+  "facts": [
+   "F58",
+   "F81",
+   "F82",
+   "F87"
+  ],
+  "events": [
+   "ev-nagara-kirtana-kazi"
+  ],
+  "note": "Искали Нитьянанду (ЧБ Мадхья 3.160); киртаны в его доме; во главе групп шествия."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "siksha-disciple",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F64",
+   "F65"
+  ],
+  "events": [
+   "ev-haridasa-gopala-chakravarti"
+  ],
+  "note": "Мальчиком видел его в Чандапуре; его милость привела Рагхунатху к Господу (ЧЧ Антья 3.168–169)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "host",
+  "who": "@balarama-acharya-chandapur",
+  "facts": [
+   "F64",
+   "F66",
+   "F70"
+  ],
+  "note": "Жил у него в Чандапуре; Баларама — ученик Адвайты, жрец Мазумдаров."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@hiranya-majumdar",
+  "facts": [
+   "F66",
+   "F70"
+  ],
+  "note": "Собрание о славе Имени в их доме; изгнали Гопалу Чакраварти."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@govardhana-majumdar",
+  "facts": [
+   "F65",
+   "F66",
+   "F70"
+  ]
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "opposed",
+  "who": "@gopala-chakravarti",
+  "facts": [
+   "F68",
+   "F69",
+   "F70",
+   "F71",
+   "F72"
+  ],
+  "events": [
+   "ev-haridasa-gopala-chakravarti"
+  ],
+  "note": "Оскорбил его в споре о намабхасе и заболел проказой; Харидас не желал ему кары."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "opposed",
+  "who": "@ramachandra-khan",
+  "facts": [
+   "F17",
+   "F18",
+   "F21",
+   "F27",
+   "F29"
+  ],
+  "events": [
+   "ev-haridasa-prostitute",
+   "ev-nityananda-ramachandra-khan"
+  ],
+  "note": "Подослал блудницу; разорён (по ЧЧ — после оскорбления Нитьянанды, ⚠4)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@durga",
+  "facts": [
+   "F73",
+   "F74",
+   "F75",
+   "F76"
+  ],
+  "events": [
+   "ev-maya-tests-haridasa"
+  ],
+  "note": "Майя-деви, служанка Господа, испытала его три ночи и получила от него имя Кришны (ЧЧ Антья 3.225–262) — ⚠Б4."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@brahma",
+  "facts": [
+   "F2",
+   "F4",
+   "F5"
+  ],
+  "events": [
+   "ev-brahma-steals-calves-haridasa",
+   "ev-haridasa-brahma"
+  ],
+  "note": "Отождествление (ГГД 93; Бхактивинод; Лочан) — см. identities."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@prahlada",
+  "facts": [
+   "F2",
+   "F7",
+   "F38"
+  ],
+  "note": "ГГД 93 — родился вместе с Прахладой; сравнение в ЧБ и ЧЧ Ади 10.45."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@jagai-madhai",
+  "facts": [
+   "F84"
+  ],
+  "events": [
+   "ev-jagai-madhai-deliverance"
+  ]
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@nandana-acharya",
+  "facts": [
+   "F85"
+  ],
+  "note": "Господь укрылся у Нанданы; Харидас привёл туда Шривасу (T 31)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@chandrashekhara-acharya",
+  "facts": [
+   "F86"
+  ],
+  "events": [
+   "ev-chandrashekhara-drama"
+  ],
+  "note": "В действе в его доме Харидас — котал."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@murari-gupta",
+  "facts": [
+   "F89"
+  ],
+  "events": [
+   "ev-murari-serve-advaita"
+  ],
+  "note": "С Господом в доме Мурари (Мурари 2.18.25–26)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F90"
+  ],
+  "note": "Последнюю ночь перед санньясой оба спали рядом с Господом (B 873)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F93",
+   "F102"
+  ],
+  "note": "Звали к трапезе в Шантипуре (ЧЧ Мадхья 3.61–63); в группе Мукунды на Ратха-ятре — танцор."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@kala-krishnadasa",
+  "facts": [
+   "F94"
+  ],
+  "note": "Принёс ему из Пури веление Господа прийти."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@kashi-mishra",
+  "facts": [
+   "F95"
+  ],
+  "note": "По T — устроил ему хижину в саду."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "served-by",
+  "who": "@govinda-servant",
+  "facts": [
+   "F99",
+   "F104",
+   "F113"
+  ],
+  "note": "Ежедневно приносил ему остатки Господа; в последний день — махапрасад. = @govinda-servant F21, F44, F46."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "host",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F100",
+   "F104",
+   "F105"
+  ],
+  "events": [
+   "ev-rupa-arrives-haridasa-puri",
+   "ev-priyah-so-yam-rupa",
+   "ev-tunde-tandavini"
+  ],
+  "note": "Рупа жил в его хижине; «тунде тандавини» — Харидас плясал (ЧЧ Антья 1.101). = @rupa-gosvami F153–F166."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "host",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F100",
+   "F105",
+   "F106",
+   "F107",
+   "F108"
+  ],
+  "events": [
+   "ev-sanatana-puri-sores",
+   "ev-sanatana-suicide-forbidden"
+  ],
+  "note": "Санатана жил у него; взаимные хвалы (ЧЧ Антья 4.99–103). = @sanatana-gosvami F261–F279."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@balabhadra-bhattacharya",
+  "facts": [
+   "F110"
+  ],
+  "note": "Рассказал ему о зверях в Джхарикханде (ЧЧ Антья 3.72)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F119",
+   "F122"
+  ],
+  "note": "Пел вокруг тела; взял на себя праздник ухода (ЧЧ Антья 11)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@vakreshvara",
+  "facts": [
+   "F119"
+  ],
+  "note": "Плясал при уходе и у самадхи (ЧЧ Антья 11.63, 67)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F103",
+   "F122"
+  ],
+  "note": "Раздавал прасад на празднике ухода."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@kashishvara",
+  "facts": [
+   "F122"
+  ]
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F122"
+  ]
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F117",
+   "F122"
+  ],
+  "note": "Перед ним и Сарвабхаумой Господь прославлял Харидаса (ЧЧ Антья 11.50)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@sarvabhauma",
+  "facts": [
+   "F117",
+   "F122"
+  ]
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F103"
+  ]
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F125"
+  ],
+  "events": [
+   "ev-srinivasa-gadadhara-puri"
+  ],
+  "note": "Скорбел у его самадхи (БР 3)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F125",
+   "F128"
+  ],
+  "events": [
+   "ev-narottama-puri",
+   "ev-kheturi-festival"
+  ],
+  "note": "Посетил самадхи; в Кхетури Харидас явился в киртане."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@bhaktivinoda",
+  "facts": [
+   "F4",
+   "F109",
+   "F126"
+  ],
+  "note": "Рассказ о Брахме в «Навадвипа-дхама-махатмье»; «Slokas of Hari Das Thakur's Samadhi» (1871); Бхакти-кути близ самадхи. = @bhaktivinoda F104."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F28",
+   "F126",
+   "F127"
+  ],
+  "note": "«Анубхашья» к ЧЧ Антья 3.139; бхаджан у самадхи; обет миллиарда имён «вслед за Харидасом»."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@bhakti-vilasa-tirtha",
+  "facts": [
+   "F126"
+  ],
+  "note": "Заложил Пурушоттама Гаудия Матх у самадхи (1951)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@chhota-haridasa",
+  "facts": [],
+  "note": "Тёзка, не путать (ЧЧ Антья 2)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@bada-haridasa",
+  "facts": [
+   "F102"
+  ],
+  "note": "Тёзка, певец (ЧЧ Ади 10.147; Мадхья 13.39 — ⚠13)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@dvija-haridasa",
+  "facts": [],
+  "note": "Тёзка (Мурари 4.17.5 «Харидас-брахман»)."
+ },
+ {
+  "from": "@haridasa-thakura",
+  "type": "other",
+  "who": "@haridasa-pandita-govinda",
+  "facts": [],
+  "note": "Тёзка, гуру Гангаматы."
+ },
+ {
   "from": "@ishvara-puri",
   "type": "father",
   "who": "@shyamasundara-acharya",

@@ -4258,6 +4258,10 @@
     "type": "served-by"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "served-by"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "disciple"
    },
@@ -11110,6 +11114,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "companion"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "disciple"
    },
@@ -12529,6 +12537,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "friend"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -13644,6 +13656,10 @@
    },
    {
     "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
@@ -14882,6 +14898,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "companion"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -15386,6 +15406,285 @@
    "ev-pradyumna-mishra-hears-ramananda",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в лиле аватары — Брахма, родившийся вместе с Прахладой (ГГД 93–95) и др.; происхождение — Будхана; уход — Гаура-чатурдаши месяца Хришикеша — по нашему календарю; самадхи — самадхи Харидаса Тхакура",
+  "card": "parshadas/cards/haridasa-thakura.yaml",
+  "article": {
+   "ru": "parshadas/ru/haridasa-thakura.md",
+   "en": "parshadas/en/haridasa-thakura.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "elders",
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#budhana",
+    "conf": "место — Будхан (Джессор): B 858, T 24 (где именно — неясно, F8); год и месяц — только по «Адвайта-виласе» (T 24): аграхаяна 1372 г. Шака (1451) — поздний источник (⚠2); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F8",
+     "F11",
+     "F14"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Гаура-чатурдаши месяца Хришикеша — по нашему календарю (в 2026 г. — 25 сентября); T 33 — шукла-чатурдаши бхадры (совпадает)",
+    "place": "#siddha-bakula",
+    "conf": "ушёл из этого мира в Сиддха-бакуле (Пури) по своей воле, прижав стопы Господа к груди (ЧЧ Антья 11.53–57); год ни одна книга не называет — незадолго до сокрытия Господа (F115)",
+    "facts": [
+     "F14",
+     "F113",
+     "F114",
+     "F115",
+     "F116",
+     "F117",
+     "F118"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#haridasa-samadhi",
+     "facts": [
+      "F120",
+      "F121",
+      "F125",
+      "F126"
+     ]
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "other-avatara",
+    "as": "Брахма (Махатапа, сын Ричики), родившийся вместе с Прахладой",
+    "source": "ГГД 93–95",
+    "level": "A",
+    "variants": [
+     "Мурари 1.4.8–12: сын мудреца Рамы из Дравиды, «частица Брахмы» (⚠1)",
+     "Бхактивинод («Навадвипа-дхама-махатмья», по T 24–25): Брахма, похитивший телят, по слову Гауранги рождается у млеччхов",
+     "«Адвайта-пракаша» 7, «Према-виласа» 24 (lila-db): Брахма; «Гаура-кришнодая» 1.44–49: Брахма — Харидас"
+    ]
+   },
+   {
+    "in": "other-avatara",
+    "as": "Прахлада (вместе с Брахмой)",
+    "source": "ГГД 93",
+    "level": "A",
+    "variants": [
+     "ЧБ Мадхья 10.106: «один сказал — Брахма, другой — воплощение Прахлады»; Лочан 30.31–32: в нём явил себя Брахма"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Вечный спутник и слуга Господа; Господь прикрыл его тело Своим при побоях (ЧБ Мадхья 10), поселил в Сиддха-бакуле, навещал ежедневно, Сам совершил его самадхи (ЧЧ Антья 11)."
+   },
+   {
+    "type": "friend",
+    "who": "@advaita",
+    "note": "Близкий спутник: пещера в Пхулии, ежедневная трапеза, шраддха-патра (ЧЧ Антья 3.213–220); совместная молитва о нисхождении; жили вместе в Шантипуре и Навадвипе. По «Адвайта-пракаше» и «Према-виласе» — посвящён Адвайтой (lila-db apr-0024, pvl-0251; ур. C). = @advaita F48–F52, F151."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Вместе — по велению Господа проповедь от двери к двери, Джагай и Мадхай (ЧБ Мадхья 13), спасение Господа из Ганги, Рамакели. = @nityananda F184–F197."
+   },
+   {
+    "type": "companion",
+    "who": "@srivasa",
+    "note": "Искали Нитьянанду (ЧБ Мадхья 3.160); киртаны в его доме; во главе групп шествия."
+   },
+   {
+    "type": "siksha-disciple",
+    "who": "@raghunatha-dasa",
+    "note": "Мальчиком видел его в Чандапуре; его милость привела Рагхунатху к Господу (ЧЧ Антья 3.168–169)."
+   },
+   {
+    "type": "host",
+    "who": "@balarama-acharya-chandapur",
+    "note": "Жил у него в Чандапуре; Баларама — ученик Адвайты, жрец Мазумдаров."
+   },
+   {
+    "type": "other",
+    "who": "@hiranya-majumdar",
+    "note": "Собрание о славе Имени в их доме; изгнали Гопалу Чакраварти."
+   },
+   {
+    "type": "other",
+    "who": "@govardhana-majumdar"
+   },
+   {
+    "type": "opposed",
+    "who": "@gopala-chakravarti",
+    "note": "Оскорбил его в споре о намабхасе и заболел проказой; Харидас не желал ему кары."
+   },
+   {
+    "type": "opposed",
+    "who": "@ramachandra-khan",
+    "note": "Подослал блудницу; разорён (по ЧЧ — после оскорбления Нитьянанды, ⚠4)."
+   },
+   {
+    "type": "other",
+    "who": "@durga",
+    "note": "Майя-деви, служанка Господа, испытала его три ночи и получила от него имя Кришны (ЧЧ Антья 3.225–262) — ⚠Б4."
+   },
+   {
+    "type": "other",
+    "who": "@brahma",
+    "note": "Отождествление (ГГД 93; Бхактивинод; Лочан) — см. identities."
+   },
+   {
+    "type": "other",
+    "who": "@prahlada",
+    "note": "ГГД 93 — родился вместе с Прахладой; сравнение в ЧБ и ЧЧ Ади 10.45."
+   },
+   {
+    "type": "other",
+    "who": "@jagai-madhai"
+   },
+   {
+    "type": "other",
+    "who": "@nandana-acharya",
+    "note": "Господь укрылся у Нанданы; Харидас привёл туда Шривасу (T 31)."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-acharya",
+    "note": "В действе в его доме Харидас — котал."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "С Господом в доме Мурари (Мурари 2.18.25–26)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Последнюю ночь перед санньясой оба спали рядом с Господом (B 873)."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta",
+    "note": "Звали к трапезе в Шантипуре (ЧЧ Мадхья 3.61–63); в группе Мукунды на Ратха-ятре — танцор."
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "note": "Принёс ему из Пури веление Господа прийти."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "По T — устроил ему хижину в саду."
+   },
+   {
+    "type": "served-by",
+    "who": "@govinda-servant",
+    "note": "Ежедневно приносил ему остатки Господа; в последний день — махапрасад. = @govinda-servant F21, F44, F46."
+   },
+   {
+    "type": "host",
+    "who": "@rupa-gosvami",
+    "note": "Рупа жил в его хижине; «тунде тандавини» — Харидас плясал (ЧЧ Антья 1.101). = @rupa-gosvami F153–F166."
+   },
+   {
+    "type": "host",
+    "who": "@sanatana-gosvami",
+    "note": "Санатана жил у него; взаимные хвалы (ЧЧ Антья 4.99–103). = @sanatana-gosvami F261–F279."
+   },
+   {
+    "type": "other",
+    "who": "@balabhadra-bhattacharya",
+    "note": "Рассказал ему о зверях в Джхарикханде (ЧЧ Антья 3.72)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Пел вокруг тела; взял на себя праздник ухода (ЧЧ Антья 11)."
+   },
+   {
+    "type": "other",
+    "who": "@vakreshvara",
+    "note": "Плясал при уходе и у самадхи (ЧЧ Антья 11.63, 67)."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Раздавал прасад на празднике ухода."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara"
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri"
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "Перед ним и Сарвабхаумой Господь прославлял Харидаса (ЧЧ Антья 11.50)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma"
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "Скорбел у его самадхи (БР 3)."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "Посетил самадхи; в Кхетури Харидас явился в киртане."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivinoda",
+    "note": "Рассказ о Брахме в «Навадвипа-дхама-махатмье»; «Slokas of Hari Das Thakur's Samadhi» (1871); Бхакти-кути близ самадхи. = @bhaktivinoda F104."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Антья 3.139; бхаджан у самадхи; обет миллиарда имён «вслед за Харидасом»."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-vilasa-tirtha",
+    "note": "Заложил Пурушоттама Гаудия Матх у самадхи (1951)."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "note": "Тёзка, не путать (ЧЧ Антья 2)."
+   },
+   {
+    "type": "other",
+    "who": "@bada-haridasa",
+    "note": "Тёзка, певец (ЧЧ Ади 10.147; Мадхья 13.39 — ⚠13)."
+   },
+   {
+    "type": "other",
+    "who": "@dvija-haridasa",
+    "note": "Тёзка (Мурари 4.17.5 «Харидас-брахман»)."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-pandita-govinda",
+    "note": "Тёзка, гуру Гангаматы."
+   }
   ],
   "related_by": [
    {
@@ -16110,6 +16409,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -16656,6 +16959,10 @@
    {
     "from": "@govinda-ghosha",
     "type": "co-worker"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
    },
    {
     "from": "@ishvara-puri",
@@ -17581,6 +17888,10 @@
     "type": "companion"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "companion"
    },
@@ -18043,6 +18354,10 @@
    },
    {
     "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
@@ -19558,6 +19873,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -20183,6 +20502,10 @@
    {
     "from": "@bhavananda-raya",
     "type": "son"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
    },
    {
     "from": "@jagadananda-pandita",
@@ -20850,6 +21173,10 @@
    {
     "from": "@govinda-servant",
     "type": "co-worker"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
    },
    {
     "from": "@jagadananda-pandita",
@@ -22097,6 +22424,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "host"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "uncle"
    },
@@ -22962,6 +23293,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "host"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "other"
    },
@@ -23115,6 +23450,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "met"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -24733,6 +25072,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@kashishvara",
     "type": "other"
    },
@@ -25303,6 +25646,10 @@
     "type": "host"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "host"
    },
@@ -25756,6 +26103,10 @@
    },
    {
     "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
@@ -26848,6 +27199,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -27151,6 +27506,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
@@ -27546,6 +27905,10 @@
    {
     "from": "@gopala-guru",
     "type": "servant"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "served-by"
    },
    {
     "from": "@ishvara-puri",
@@ -29542,6 +29905,10 @@
     "type": "sibling"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "disciple"
    },
@@ -30023,6 +30390,10 @@
    {
     "from": "@damodara-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -32024,6 +32395,10 @@
    {
     "from": "@govinda-servant",
     "type": "served-by"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "siksha-disciple"
    },
    {
     "from": "@jahnava",
@@ -34028,6 +34403,10 @@
    },
    {
     "from": "@damodara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
@@ -36562,6 +36941,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "met"
    },
@@ -37417,6 +37800,10 @@
     "type": "met"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@ishvara-puri",
     "type": "other"
    },
@@ -38108,6 +38495,10 @@
    },
    {
     "from": "@govinda-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
@@ -41550,6 +41941,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "companion"
    },
@@ -43345,6 +43740,10 @@
     "type": "other"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@jagadananda-pandita",
     "type": "other"
    },
@@ -43525,6 +43924,10 @@
    },
    {
     "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
@@ -43789,6 +44192,10 @@
    "ev-nityananda-ramachandra-khan"
   ],
   "related_by": [
+   {
+    "from": "@haridasa-thakura",
+    "type": "opposed"
+   },
    {
     "from": "@nityananda",
     "type": "opposed"
@@ -44512,6 +44919,12 @@
    "ev-tattva-krishna-mula-narayana",
    "ev-tattva-purusha-avataras",
    "ev-tattva-dasya-bhakta-bhava"
+  ],
+  "related_by": [
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   }
   ]
  },
  {
@@ -45721,6 +46134,12 @@
    "ev-chand-raya-deliverance",
    "ev-narottama-delivers-brahmanas",
    "ev-narasimha-raya-conversion"
+  ],
+  "related_by": [
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   }
   ]
  },
  {
@@ -47433,6 +47852,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
    {
     "from": "@srinivasa-acharya",
     "type": "other"
@@ -51054,6 +51477,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
    }
   ]
  },
@@ -51735,6 +52162,10 @@
   ],
   "related_by": [
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@saranga-thakura",
     "type": "other"
    },
@@ -51842,6 +52273,10 @@
   ],
   "related_by": [
    {
+    "from": "@haridasa-thakura",
+    "type": "other"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "patron"
    },
@@ -51878,6 +52313,10 @@
    {
     "from": "@advaita",
     "type": "served-by"
+   },
+   {
+    "from": "@haridasa-thakura",
+    "type": "other"
    },
    {
     "from": "@jagannatha-mishra",
@@ -52406,6 +52845,10 @@
     "type": "disciple"
    },
    {
+    "from": "@haridasa-thakura",
+    "type": "host"
+   },
+   {
     "from": "@raghunatha-dasa",
     "type": "other"
    }
@@ -52422,6 +52865,12 @@
   ],
   "events": [
    "ev-haridasa-gopala-chakravarti"
+  ],
+  "related_by": [
+   {
+    "from": "@haridasa-thakura",
+    "type": "opposed"
+   }
   ]
  },
  {
@@ -53918,6 +54367,10 @@
    },
    {
     "from": "@gaurakishora-dasa-babaji",
+    "type": "other"
+   },
+   {
+    "from": "@haridasa-thakura",
     "type": "other"
    },
    {
