@@ -221,7 +221,7 @@ Then, it is said, he began to wonder: who, after his departure, would offer the 
 wholly surrendered to Mukunda no longer owes anything to the gods, the sages or the ancestors (SB 11.5.41). The worry
 only gave the Lord an occasion to show how He loves His servant. <!-- F28 F29 -->
 
-One night, as Govinda Ghosha slept, Sri Gopinatha came to him and said: "Do not be troubled. I Myself will offer the pinda for
+One night, as Govinda Ghosha slept, Sri Gopinatha spoke to him: "Do not be troubled. I Myself will offer the pinda for
 you." One biography gives His words thus: "Do not be anxious: I am your son, I Myself will perform your shraddha."
 <!-- F30 -->
 
