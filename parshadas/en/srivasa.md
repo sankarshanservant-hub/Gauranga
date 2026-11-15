@@ -406,7 +406,7 @@ was what He Himself desired. <!-- F74 -->
 
 ## Other Pastimes in Navadvipa
 Gaurasundara wished to enact the pastimes of Vraja in the house of Chandrashekhara Acharya and said who would take
-which part; at His direction Buddhimanta Khan assigned the roles. The Lord took for Himself the part of Mahalakshmi and
+which part, and told Sadashiva and Buddhimanta Khan to prepare the attire. The Lord took for Himself the form of Mahalakshmi and
 warned that only those who had conquered their senses might watch. Advaita and Srivasa answered sadly: “We have not
 conquered our senses — how then can we watch?” The Lord smiled and said that today all would become great yogis and
 nothing would disturb them — and that without Advaita and Srivasa He would not dance at all. <!-- F76 F129 -->
