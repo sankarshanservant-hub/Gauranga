@@ -540,3 +540,289 @@
   themes: [author]
   verses:
     - {file: "bhakti-ratnakara/ru/13.md", from: "432", to: "436"}
+
+# ---------- Таранга 14 ----------
+
+- id: brt-8030
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 1–10"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.0
+  title: "Мангала четырнадцатой таранги"
+  summary: "Слава Шри Кришна Чайтанье, Нитьянанде, Адвайте, Гададхаре, Шривасу и длинному перечню спутников Господа и Госвами Вриндавана; призыв к слушателям."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@lokanatha", "@bhugarbha"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "1", to: "10"}
+
+- id: brt-8031
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 11–21"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.01
+  title: "Первое письмо Дживы Шринивасе: уход Бхугарбхи, вопрос о Вриндаване Дасе, правка книг"
+  summary: "Шриниваса, наставник во всех шастрах, сокрушающий гордыню противников бхакти, ждёт письма Госвами — и Васанта Рай приносит его; Джива сообщает, что Бхугарбха Госвами в полном сознании вручил себя Владыке Вриндавана, спрашивает о старшем сыне Ачарьи Вриндаване Дасе (имя ему дал сам Джива) и его учёбе, о Вьясе Шарме и Васудеве Кавирадже; выверка «Расамрита-синдху», «Мадхава-махотсавы», «Уттара-чампу» и «Хари-намамриты» не закончена, а в сезон дождей книги не посылают; благие пожелания царю Вире Хамбиру."
+  persons: ["@srinivasa-acharya", "@jiva-gosvami", "@vasanta-raya", "@bhugarbha", "@vrindavana-acharya", "@vyasa-acharya", "@vasudeva-kaviraja", "@vira-hambira"]
+  places: ["#yajigrama", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа», Полувиласа, письма 1–2 (pvl-0201); «Карнананда» 5 (krn-0025)"
+  calendar: "бхадра, светлая половина (дата письма)"
+  notes: "Письмо — санскритская проза (сноска перевода). Старший сын Шринивасы Вриндаван Дас — не автор ЧБ."
+  themes: [learning, departure]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "11", to: "21"}
+
+- id: brt-8032
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 22–28"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.02
+  title: "Второе письмо Дживы: «скорбь противна бхакти»; Шьямадас Ачарья везёт «Вайшнава-тошани», «Дургама-сангамани» и «Гопала-чампу»"
+  summary: "Джива просит чаще писать, утешает: скорбь противна бхакти и жжёт тело и чувства; советует держаться вместе с учёным Шьямадасом Ачарьей, сыном Вьясы, рассуждая о бхакти, — так будут сокрушены и пашанды; с ним посланы выверенные книги; грамматику «Хари-намамрита» исправлять по бхашье и вритти; написана «Уттара-гопала-чампу»; благие пожелания Вриндавану Дасу и Гопале Дасу — сыну Виры Хамбира, которому имя дал Джива (Дхари Хамбир); письма постоянно ходят туда и обратно."
+  persons: ["@jiva-gosvami", "@srinivasa-acharya", "@shyamadasa-vyasa", "@vyasa-acharya", "@vrindavana-acharya", "@dhadi-hambira", "@vira-hambira"]
+  places: ["#yajigrama", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа», Полувиласа, письмо 3 (pvl-0202)"
+  divergence: "В «Према-виласе» письмо прямо называет причину скорби — уход Гопалы Бхатты; здесь причина не названа."
+  themes: [learning]
+  teaching: [bhakti-supremacy]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "22", to: "28"}
+
+- id: brt-8033
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 29–33"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.03
+  title: "Третье письмо Дживы Рамачандре, Нароттаме и Говинде в Кхетури: служение в облике садхаки и в облике сиддхи"
+  summary: "Рамачандра, Нароттама и Говинда, опьянённые санкиртаной в Кхетури, получают письмо Дживы: он благодарит за присланные песни и отвечает на вопрос о постоянном памятовании — по «Расамрита-синдху», служение «в облике садхаки» совершается во внешнем теле, «в облике сиддхи» — в теле, помысленном для желанного служения, только по пути раги; служение садхаки — по агамам; наставит их Ачарья Махашая, «всё наше достояние»."
+  persons: ["@jiva-gosvami", "@ramachandra-kaviraja", "@narottama-dasa", "@govinda-kaviraja", "@srinivasa-acharya"]
+  places: ["#kheturi", "#vrindavana"]
+  kind: teaching
+  authority: B
+  scriptures: ["БРС 1.2.295"]
+  calendar: "вайшакха, 14-й день (дата письма)"
+  parallels: "«Према-виласа», Полувиласа, письма 4–6 (pvl-0203); «Карнананда» 5 (krn-0025)"
+  themes: [teaching, learning]
+  teaching: [prema, scripture]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "29", to: "33"}
+
+- id: brt-8034
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 34–45"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.04
+  title: "Четвёртое письмо Дживы Говинде Кавирадже в Будхари; «Гитамрита»; песня о поэзии Говинды"
+  summary: "Говинда Кавираджа в Будхари собирает свои песни, когда приходит письмо Дживы: песни о Кришне насыщают, как нектар, но Джива жаждет новых; дошла ли «Брихад-бхагаватамрита», посланная Шринивасе с Шьямадасом-мридангистом; привет Нароттаме и Рамачандре, поклоны Кришнадаса (Кавираджи Госвами); Говинда посылает «Гитамриту»; песня автора славит поэзию Говинды, которую пьёт Джива во Вриндаване."
+  persons: ["@govinda-kaviraja", "@jiva-gosvami", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@krishnadasa-kaviraja"]
+  places: ["#teliya-budhari", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  calendar: "чайтра, светлая половина, 3-й день (дата письма)"
+  parallels: "«Према-виласа», Полувиласа (pvl-0203); «Анурага-валли» 6 (anv-0045: песни Говинды и ответная шлока)"
+  notes: "Кришнадас Кавираджа здесь жив (ср. «Карнананда» 7)."
+  themes: [learning]
+  event: ev-jiva-srinivasa-letters
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "34", to: "45"}
+
+- id: brt-8035
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 46–56"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.2
+  title: "Рамачандра Кавираджа приходит в Яджиграм; материнская нежность двух Ишвари"
+  summary: "Притянутый Ачарьей, Рамачандра приходит из Кхетури в Яджиграм; Ачарья обнимает его и орошает слезами, расспрашивает о Нароттаме и посылает в дом, где Драупади Ишвари и Гауранга-прия являют ему материнскую нежность; автор говорит, что жизнь Рамачандры описали другие, а сам он из страха перед объёмом книги её не излагает."
+  persons: ["@ramachandra-kaviraja", "@srinivasa-acharya", "@draupadi-ishvari", "@gauranga-priya", "@narottama-dasa"]
+  places: ["#kheturi", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  themes: [family]
+  event: ev-ramachandra-yajigrama-kumuda-vision
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "46", to: "56"}
+
+- id: brt-8036
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 57–66"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.21
+  title: "Рамачандра смеётся в лунную ночь: Шриниваса открывает Драупади игру Радхи и Кришны"
+  summary: "В ночь полнолуния Рамачандра смеётся от радости; Драупади Ишвари тихо спрашивает Ачарью о причине; тот объясняет: Радха и Кришна с подругами собирают цветы, Рай срывает распустившиеся кумуды, а Кришна по ошибке хватает лунный свет, — подруги смеются, и Рамачандра, находясь там рядом с Ачарьей, смеётся; Ишвари изумлена; Ачарья с Рамачандрой вкушают книги Госвами, в Яджиграме растёт санкиртана."
+  persons: ["@ramachandra-kaviraja", "@srinivasa-acharya", "@draupadi-ishvari", "@radha", "@krishna"]
+  places: ["#yajigrama"]
+  kind: vision
+  authority: B
+  calendar: "ночь полнолуния"
+  notes: "Шриниваса и Рамачандра присутствуют при игре в своих духовных (сиддха) обликах (сноска перевода; ср. письмо Дживы 14.32). Только у БР (в базе); ср. самадхи Шринивасы с поиском кольца (ev-srinivasa-samadhi-nose-ring), где они так же вместе служат в лиле."
+  themes: [krishna-lila, revelation]
+  event: ev-ramachandra-yajigrama-kumuda-vision
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "57", to: "66"}
+
+- id: brt-8037
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 67–88"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.5
+  title: "Канчанагария и Будхари: Нароттама приходит из Кхетури; песни о красоте Шринивасы и Нароттамы"
+  summary: "Ачарья с учениками несколько дней в санкиртане в Канчанагарии, затем в Будхари, откуда посылает весть в Кхетури; Нароттама со спутниками приходит, и счастливцы видят их встречу в упоении премой; песни автора о красоте и достоинствах Шринивасы («явился облик, исполненный любви к Гауре»; Рамачандра — его слуга) и Нароттамы; день и ночь санкиртана в Будхари."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja"]
+  places: ["#kanchanagaria", "#teliya-budhari", "#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "Пады Нарахари: pad-0563 (14.74–81), pad-0565 (14.83–86)"
+  themes: [kirtan, ecstasy]
+  event: ev-boraquli-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "67", to: "88"}
+
+- id: brt-8038
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 89–118"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.51
+  title: "Праздник в Боракули: съезд махантов, абхишека Божества и голос: «нареките Его Радха-винода»"
+  summary: "В Боракули Ачарью встречает любимый ученик Говинда Чакраварти, искусный в пении и музыке, переселившийся из Махалы; Ачарья велит готовить махотсаву и рассылает приглашения; приходят Вирачандра, Кришна Мишра, Гопирамана из Амбики (ученик Хридаянанды), Тхакур Рамаи, Канаи из Кханды, Ядунандана из Кантака-нагара, Наянананда Мишра; наутро во дворе храма все дают Ачарье позволение совершить абхишеку нового Божества; когда обсуждают имя, из храма раздаётся голос: «Соверши абхишеку под именем Шри Радха-винода»; Ачарья усаживает Божество на трон, все плачут, созерцая Радха-виноду и Радхику."
+  persons: ["@srinivasa-acharya", "@govinda-chakravarti-boraquli", "@virabhadra", "@krishna-mishra", "@gopiramana-ambika", "@hridaya-chaitanya", "@ramai-jahnava", "@kanai-shrikhanda", "@yadunandana-chakravarti", "@nayanananda-mishra", "@narottama-dasa", "@ramachandra-kaviraja", "@shridasa-chakravarti", "@gokulananda", "@radha-vinoda-boraquli", "@radha"]
+  places: ["#boraquli", "#ambika-kalna", "#shrikhanda", "#katwa"]
+  kind: post-advent
+  authority: B
+  parallels: "«Карнананда» 1 (krn-0007: Говинда Чакраварти «Бхавака» из Боракули среди ветвей Шринивасы)"
+  notes: "Тхакур Рамаи — предположительно приёмный сын Джахнавы (сноска перевода). В заметке события ev-boraquli-festival среди гостей назван Гопиджанаваллабха; в нашем переводе (14.97) — Гопирамана, ученик Хридаянанды."
+  themes: [deities, festival, celestial]
+  event: ev-boraquli-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "89", to: "118"}
+
+- id: brt-8039
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 119–146"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.52
+  title: "Санкиртана во дворе Радха-виноды: Гаура со спутниками словно является; Говинду прозывают «Бхавука Чакраварти»"
+  summary: "Наутро Шьямадас и Девидас играют на мридангах, Гокула и другие поют алап раг — прежде всего о качествах Гаурачандры, и Господь со спутниками словно является воочию; поёт Нароттама; Вирачандра танцует, прислонившись к Ачарье, и, плача, обнимает Нароттаму; Кришна Мишра омыт слезами, Канаи, Наянананда, Рамаи, Ядунандана, Гопирамана вне себя; затем беседы о Радхе-Кришне и Чайтанье; видя упоение бхавой Говинды Чакраварти, его прозывают «Бхавука Чакраварти»; несколько дней киртана в Боракули."
+  persons: ["@srinivasa-acharya", "@virabhadra", "@narottama-dasa", "@krishna-mishra", "@kanai-shrikhanda", "@nayanananda-mishra", "@ramai-jahnava", "@yadunandana-chakravarti", "@gopiramana-ambika", "@ramachandra-kaviraja", "@shridasa-chakravarti", "@devidasa-kirtaniya", "@gokula-kirtaniya", "@govinda-chakravarti-boraquli", "@mahaprabhu", "@radha-vinoda-boraquli"]
+  places: ["#boraquli"]
+  kind: post-advent
+  authority: B
+  themes: [kirtan, ecstasy, revelation]
+  event: ev-boraquli-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "119", to: "146"}
+
+- id: brt-8040
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 147–159"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.53
+  title: "Проводы гостей из Боракули; Шриниваса в Кхетури и прощание с Нароттамой"
+  summary: "Вирачандра, Кришна Мишра и другие в волнении прощаются; Ачарья и Нароттама со слезами провожают их и посылают вслед припасы; Ачарья с Нароттамой ещё несколько дней в Боракули, где возрастает бхакти; поведав Радха-виноде сокровенное, Ачарья переправляется через Падмавати в Кхетури, несколько дней в санкиртане у Господ, и, сказав что-то наедине Нароттаме, уходит в Будхари."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@virabhadra", "@krishna-mishra", "@radha-vinoda-boraquli", "@gaura-vishnupriya-kheturi"]
+  places: ["#boraquli", "#padmavati", "#kheturi", "#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  notes: "Об обходе других домов учеников автор умалчивает, чтобы не удлинять книгу (14.152)."
+  themes: [separation, kirtan]
+  event: ev-boraquli-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "147", to: "159"}
+
+- id: brt-8041
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 160–177"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.55
+  title: "Разговоры о достоинствах Ачарьи и о лжеучителях: «Рагхунатха»-Кавиндра в Ванге и «Гопала»-Маллик в Рархе"
+  summary: "Люди из других краёв говорят: Ачарья — воплощённая према Гауры, распространив книги Госвами, он сокрушил противников бхакти; а отвернувшиеся наряжают главного из своих «Рагхунатхой», злодей «Кавиндра» проповедует своё учение в Ванге, иные заставляют воспевать себя вместо Кришны, а подлый брахман «Маллик» в Рархе велит звать себя «Гопалой»; приводятся стихи ЧБ о таких грешниках («все зовут его Шиялой»); их покарает Калки; все кланяются Шринивасе, и он возвращается в Яджиграм."
+  persons: ["@srinivasa-acharya", "@kapindri-vishnudasa", "@shrigala-vasudeva", "@vrindavana-dasa"]
+  places: ["#east-bengal", "#radha-desha", "#yajigrama"]
+  kind: teaching
+  authority: B
+  scriptures: ["ЧБ Ади 14"]
+  cb: "Ади 14"
+  parallels: "ЧБ Ади 14; «Према-виласа» 24 (Шиял Васудева, Капиндри Вишнудас)"
+  divergence: "Здесь лжеучители — современники Шринивасы; в ЧБ они названы современниками Вриндавана Даса. Имя «Кавиндра» в «Према-виласе» — «Капиндри» (Вишнудас); «Маллик» здесь — прозвище «Гопалы» (в ПВ — Васудева)."
+  notes: "Отождествление «Кавиндры» с Капиндри Вишнудасом и «Маллика» с Шиялом Васудевой — по совпадению рассказа."
+  themes: [offense, teaching]
+  teaching: [gaura-tattva, vaishnava]
+  event: ev-false-avataras
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "160", to: "177"}
+
+- id: brt-8042
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 178–191"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.6
+  title: "Вирачандра отвергает Джаягопалу из Кадары; его письмо Шринивасе; три сына Вирачандры"
+  summary: "В Яджиграме Ачарья слышит: в Кадаре, обители Мангалы и Джнянадаса, каястха Джаягопала, гордый учёностью, стыдился неучёного гуру и называл своим гуру парама-гуру; Вирачандра, обличив это, отверг его за пренебрежение милостью; приходит его санскритское письмо: Шриниваса — шакти Махапрабху, распространяющий книги, явленные через Рупу; ни его люди, ни Шриниваса не должны общаться с Джаягопалой; Вирачандра идёт в Кхардаху к сыновьям — Гопиджана-валлабхе, Рамакришне и Рамачандре; с Джаягопалой больше никто не говорит."
+  persons: ["@virabhadra", "@jayagopala", "@srinivasa-acharya", "@jnanadasa", "@gopijanavallabha", "@ramakrishna-virachandra", "@ramachandra-virachandra", "@rupa-gosvami"]
+  places: ["#yajigrama", "#kandra", "#radha-desha", "#kharadaha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0169: отлучение Джаягопалы и письмо Шринивасу)"
+  divergence: "В «Према-виласе» отлучение — на поминальном празднике Нарахари в Шрикханде, кратко; здесь — в Кадаре, с причиной (отречение от гуру) и текстом письма."
+  notes: "Сыновья Вирачандры — ср. ev-virachandra-children («Нитьянанда-вамша-вистара» 3)."
+  themes: [offense, teaching]
+  teaching: [vaishnava]
+  event: ev-virachandra-rejects-jayagopala
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "178", to: "191"}
+
+- id: brt-8043
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 192–213"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.61
+  title: "Шриниваса с учениками в Яджиграме; песни о жизни Шринивасы"
+  summary: "Ачарья с учениками проводит время в беседах о шастрах и санкиртане (имена учеников автор приводит в «Шриниваса-чаритре»); песни Нарахари и Говиндадаса пересказывают жизнь Шринивасы: Чайтанья с Нитьянандой во сне посылает его во Вриндаван, весть в Матхуре об уходе Рупы и Санатаны, их явление во сне, посвящение у Гопалы Бхатты, учёба у Дживы, дружба с Нароттамой, гирлянда-повеление Говинды и распространение книг в Гауде."
+  persons: ["@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@rupa-gosvami", "@sanatana-gosvami", "@gopala-bhatta", "@jiva-gosvami", "@narottama-dasa", "@govinda-kaviraja"]
+  places: ["#yajigrama"]
+  kind: author
+  authority: B
+  parallels: "Пада pad-0564 (14.195–208)"
+  notes: "«Шриниваса-чаритра» — по словам автора, его сочинение со списком учеников. Песня 209–212 — с подписью Говиндадаса."
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "192", to: "213"}
+
+- id: brt-8044
+  source: bhakti-ratnakara
+  ref: "Таранга 14, 214–231 и колофон"
+  file: "bhakti-ratnakara/ru/14.md"
+  period: P15
+  order: 112.62
+  title: "Песни о жизни Нароттамы; подпись и колофон четырнадцатой таранги"
+  summary: "Песни пересказывают жизнь Нароттамы: в юности плачет о Гауре, оставляет царские наслаждения, во Вриндаване получает посвящение у Локанатхи, «одна душа в двух телах» со Шринивасой, возвращается в Гауду, странствует по Навадвипе и Нилачале, в Кхетури служит шести Божествам с Рамачандрой, в его санкиртане танцуют Гаура, Нитьянанда и Адвайта; подпись Нарахари Даса; колофон: «Описание странствий Шримад Ачарьи по домам учеников и прочего»."
+  persons: ["@narottama-dasa", "@lokanatha", "@srinivasa-acharya", "@ramachandra-kaviraja", "@radha-vinoda-deity", "@gaura-vishnupriya-kheturi"]
+  places: ["#kheturi", "#vrindavana"]
+  kind: author
+  authority: B
+  parallels: "Пада pad-0566 (14.215–226)"
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/14.md", from: "214", to: "231"}
