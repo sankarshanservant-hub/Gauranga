@@ -157,8 +157,8 @@ He is Ishvara. Otherwise such compassion is impossible for a jiva — whereas ev
 verse 3). <!-- F33 -->
 
 The words “this is a punishment for me” are no complaint against the Lord. They are the speech of humility, the same as in
-the “Charitamrita”: “I was better off being lowly.” Vasudeva fears not health but the honour and pride that might draw
-him away from the Lord. And the king's words draw the same line as the whole story: a yogi too could remove leprosy, but
+the “Charitamrita”: “I was better off being lowly.” What frightens Vasudeva is not health as such but the honour and pride
+that might draw him away from the Lord. And the king's words draw the same line as the whole story: a yogi too could remove leprosy, but
 to embrace a leper as a friend — only the Lord Himself. <!-- F33 -->
 
 Govinda-deva in the “Gaura-krishnodaya” says that Vasudeva lay helpless on the outskirts of the town; learning that the
@@ -202,13 +202,13 @@ Krishna sees it only from outside — sores, sickness, poverty — and does not 
 explained why He did not shrink from the sores of Vasudeva or of Sanatana. <!-- I3 -->
 
 ## Significance
-Vasudeva Vipra is an example of whom the Lord sees when the world sees no one. Destitute, sick and shunned, he was a noble
+Vasudeva Vipra shows how the Lord finds a devotee whom the world does not notice. Destitute, sick and shunned, he was a noble
 brahmana and the best of devotees, and Mahaprabhu Himself came to him, Himself embraced him and Himself made his glory
 known to all. <!-- I1 I2 -->
 
 His story speaks of the mercy of the Lord and of His devotees, who see the sufferings of conditioned souls. The Lord
 embraces one from whom everyone flees; Kurma and Vasudeva weep for Him in each other's arms; and Vasudeva, who fears only
-pride, the Lord makes an acharya and sends out to deliver others by the name of Krishna. For this the Lord accepted the
+pride, the Lord makes an acharya and sends out to deliver others by the name of Krishna. For this the Lord received the
 name Vasudevamrita-prada. <!-- I5 -->
 
 [^1]: One of the biographies places this verse as an epigraph to the account of Vasudeva, numbered “1.103” — after the
