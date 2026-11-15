@@ -7048,6 +7048,207 @@
   "note": "Хранил в Гамбхире одеяло, сделанное Сварупой или Джагаданандой (T 202)."
  },
  {
+  "from": "@jagadisha-pandita",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F5",
+   "F21",
+   "F22",
+   "F25",
+   "F27",
+   "F30",
+   "F35",
+   "F36",
+   "F37",
+   "F38",
+   "F39",
+   "F40",
+   "F62",
+   "F63",
+   "I1"
+  ],
+  "events": [
+   "ev-jagadisha-hiranya-ekadashi",
+   "ev-closed-door-kirtan-scoffers",
+   "ev-jala-keli-navadvipa",
+   "ev-nagara-kirtana-kazi",
+   "ev-shridhara-kholavecha"
+  ],
+  "note": "Ветвь Чайтаньи (ЧЧ Ади 10.70–71); в детстве Господь выпросил и съел подношение Вишну в его доме в экадаши (ЧБ Ади 6); киртаны, игры в Ганге, шествие в день Кази (ЧБ Мадхья 8, 13, 23); по велению Господа проповедовал в Нилачале; Господь дважды посетил Яшаду и остался там как Гаура-Гопала."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F5",
+   "F7",
+   "F36",
+   "F62",
+   "F65"
+  ],
+  "events": [
+   "ev-panihati-chida-dadhi",
+   "ev-nityananda-preaching-gauda",
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Ветвь Нитьянанды (ЧЧ Ади 11.30); «Нитьянанда со спутниками — его жизнь» (ЧБ Антья 5.736); на чида-дадхи в Панихати (ЧЧ Антья 6.62); с Господом приходил в Яшаду."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "friend",
+  "who": "@jagannatha-mishra",
+  "facts": [
+   "F12",
+   "F16",
+   "F25",
+   "F26",
+   "F27",
+   "F28"
+  ],
+  "events": [
+   "ev-jagadisha-hiranya-ekadashi"
+  ],
+  "note": "Сосед и близкий друг (ЧБ Ади 6.26); по B и T Мишра приходил к нему за подношением (по ЧБ — брахманы принесли сами, ⚠4)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "neighbor",
+  "who": "@shachi",
+  "facts": [
+   "F18",
+   "F24",
+   "F25"
+  ],
+  "note": "Джагадиша и Дукхини питали к Нимаю ту же родительскую любовь, что Мишра и Шачи."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "sibling",
+  "who": "@hiranya-pandita",
+  "facts": [
+   "F3",
+   "F12",
+   "F14",
+   "F15",
+   "F25",
+   "F28",
+   "F66"
+  ],
+  "note": "Брат по B, T («три брата» — B 835, T 86) и Джаянанде («родные братья»); в ЧЧ/ЧБ — лишь «два брахмана», вместе в экадаши (ГГД 192: обе — яджня-патни) и в пути в Нилачалу (ЧБ Антья 8.28)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "sibling",
+  "who": "@mahesha-pandita",
+  "facts": [
+   "F13",
+   "F14"
+  ],
+  "note": "По M и «Анубхашье» к ЧЧ Ади 11.30 — младший брат, пошедший с ним к Ганге; по «некоторым» (B 835, T 86) — младший из трёх братьев (⚠3)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "spouse",
+  "who": "@dukhini",
+  "facts": [
+   "F12",
+   "F17",
+   "F18",
+   "F19",
+   "F62",
+   "F63",
+   "F64"
+  ],
+  "note": "Дукхини-мата; по её слезам разлуки Господь остался в Яшаде как Гаура-Гопала (по преданию, его установила она)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "deity-served",
+  "who": "@jagannatha-jashra",
+  "facts": [
+   "F43",
+   "F44",
+   "F45",
+   "F46",
+   "F47",
+   "F48",
+   "F49",
+   "F50",
+   "F52",
+   "F54",
+   "F55",
+   "F56"
+  ],
+  "note": "Божество Джаганнатхи, «погребённое» при Нава-калевара; по веленью Джаганнатхи во сне отдано ему царём; стало лёгким и тяжёлым и остановилось в Яшаде (⚠Б2)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "deity-served",
+  "who": "@gaura-gopala-jashra",
+  "facts": [
+   "F55",
+   "F63",
+   "F64"
+  ],
+  "note": "Господь остался в Яшаде в этом образе ради Дукхини (⚠Б3)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "deity-served",
+  "who": "@radha-vallabha-jashra",
+  "facts": [
+   "F55",
+   "F57"
+  ],
+  "note": "В храме Яшады; в Дола-пурниму — на дола-манче."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "other",
+  "who": "@jagannatha-deity",
+  "facts": [
+   "F42",
+   "F43",
+   "F44"
+  ],
+  "note": "Даршан в Пурушоттаме, тоска разлуки; Джаганнатха во сне велел взять Его Божество (B 832, T 15)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "other",
+  "who": "@bhakti-dayita-madhava",
+  "facts": [
+   "F59",
+   "I4"
+  ],
+  "note": "Потомки передали ему храм в Джашре (T 16; 1962 — T 287). = @bhakti-dayita-madhava F92, F95."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F10",
+   "F13",
+   "F54",
+   "F60",
+   "F61",
+   "F73"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.70–71 и 11.30 — главный источник B и M о шрипате в Яшаде (M ошибочно приписывает её Бхактивиноде)."
+ },
+ {
+  "from": "@jagadisha-pandita",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F72"
+  ],
+  "note": "Его ученик Рагхунатха встретил Джахнаву на её пути (НВ 6.214–215)."
+ },
+ {
   "from": "@jagannatha-mishra",
   "type": "father",
   "who": "@upendra-mishra",

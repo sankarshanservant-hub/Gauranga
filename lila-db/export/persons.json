@@ -4262,6 +4262,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadisha-pandita",
+    "type": "companion"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "son"
    },
@@ -5950,6 +5954,10 @@
    "ev-rupa-narayana"
   ],
   "related_by": [
+   {
+    "from": "@jagadisha-pandita",
+    "type": "other"
+   },
    {
     "from": "@madhavendra-puri",
     "type": "met"
@@ -7795,6 +7803,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadisha-pandita",
+    "type": "neighbor"
+   },
+   {
     "from": "@jagannatha-mishra",
     "type": "spouse"
    },
@@ -8323,6 +8335,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "other"
+   },
+   {
+    "from": "@jagadisha-pandita",
+    "type": "friend"
    },
    {
     "from": "@madhavendra-puri",
@@ -11054,6 +11070,10 @@
    },
    {
     "from": "@jagadananda-pandita",
+    "type": "companion"
+   },
+   {
+    "from": "@jagadisha-pandita",
     "type": "companion"
    },
    {
@@ -33038,6 +33058,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadisha-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "met"
    },
@@ -42010,6 +42034,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadisha-pandita",
+    "type": "other"
+   },
+   {
     "from": "@jiva-gosvami",
     "type": "other"
    },
@@ -45695,6 +45723,10 @@
   ],
   "related_by": [
    {
+    "from": "@jagadisha-pandita",
+    "type": "sibling"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    }
@@ -46594,6 +46626,127 @@
    "ev-nityananda-preaching-gauda",
    "ev-panihati-chida-dadhi",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Чандрахаса — танцор Враджа, знаток расы (ГГД 143) и др.; происхождение — Гаухати (Праг-джьотишапура); явление — Нараяна, Гаура экадаши — по нашему календарю; уход — Нараяна, Гаура трития — по нашему календарю",
+  "card": "parshadas/cards/jagadisha-pandita.yaml",
+  "article": {
+   "ru": "parshadas/ru/jagadisha-pandita.md",
+   "en": "parshadas/en/jagadisha-pandita.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "Нараяна (≈ пауша), Гаура экадаши — по нашему календарю (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15; в 2027 г. — 18 января)",
+    "place": "#guwahati",
+    "conf": "B, T и «Анубхашья» — шукла-двадаши Пауши (≠ календарь, ⚠7); год не назван; место — Гаухати (Праг-джьотишапура) по B, T, M и «Анубхашье»",
+    "facts": [
+     "F8",
+     "F69"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Нараяна (≈ пауша), Гаура трития — по нашему календарю (в 2027 г. — 10 января); так же B, T и «Анубхашья» (шукла-трития Пауши)",
+    "place": "#jashra?",
+    "conf": "место ухода источники прямо не называют (ежегодный праздник ухода — в Яшаде); M — кришна-трайодаши Пауши (день Махеши Пандита, ⚠8)",
+    "facts": [
+     "F70",
+     "F71"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Чандрахаса — танцор Враджа, знаток расы",
+    "source": "ГГД 143",
+    "level": "A"
+   },
+   {
+    "in": "krishna-lila",
+    "as": "одна из жён брахманов-жрецов (яджня-патни) — вместе с Хираньей",
+    "source": "ГГД 192",
+    "level": "A",
+    "variants": [
+     "M 57–58 «по ГГД»: одни — нага-патни (жёны Калии), другие — Чандрахаса (⚠1); в ГГД о нага-патни у них нет"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Ветвь Чайтаньи (ЧЧ Ади 10.70–71); в детстве Господь выпросил и съел подношение Вишну в его доме в экадаши (ЧБ Ади 6); киртаны, игры в Ганге, шествие в день Кази (ЧБ Мадхья 8, 13, 23); по велению Господа проповедовал в Нилачале; Господь дважды посетил Яшаду и остался там как Гаура-Гопала."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Ветвь Нитьянанды (ЧЧ Ади 11.30); «Нитьянанда со спутниками — его жизнь» (ЧБ Антья 5.736); на чида-дадхи в Панихати (ЧЧ Антья 6.62); с Господом приходил в Яшаду."
+   },
+   {
+    "type": "friend",
+    "who": "@jagannatha-mishra",
+    "note": "Сосед и близкий друг (ЧБ Ади 6.26); по B и T Мишра приходил к нему за подношением (по ЧБ — брахманы принесли сами, ⚠4)."
+   },
+   {
+    "type": "neighbor",
+    "who": "@shachi",
+    "note": "Джагадиша и Дукхини питали к Нимаю ту же родительскую любовь, что Мишра и Шачи."
+   },
+   {
+    "type": "sibling",
+    "who": "@hiranya-pandita",
+    "note": "Брат по B, T («три брата» — B 835, T 86) и Джаянанде («родные братья»); в ЧЧ/ЧБ — лишь «два брахмана», вместе в экадаши (ГГД 192: обе — яджня-патни) и в пути в Нилачалу (ЧБ Антья 8.28)."
+   },
+   {
+    "type": "sibling",
+    "who": "@mahesha-pandita",
+    "note": "По M и «Анубхашье» к ЧЧ Ади 11.30 — младший брат, пошедший с ним к Ганге; по «некоторым» (B 835, T 86) — младший из трёх братьев (⚠3)."
+   },
+   {
+    "type": "spouse",
+    "who": "@dukhini",
+    "note": "Дукхини-мата; по её слезам разлуки Господь остался в Яшаде как Гаура-Гопала (по преданию, его установила она)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@jagannatha-jashra",
+    "note": "Божество Джаганнатхи, «погребённое» при Нава-калевара; по веленью Джаганнатхи во сне отдано ему царём; стало лёгким и тяжёлым и остановилось в Яшаде (⚠Б2)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-gopala-jashra",
+    "note": "Господь остался в Яшаде в этом образе ради Дукхини (⚠Б3)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radha-vallabha-jashra",
+    "note": "В храме Яшады; в Дола-пурниму — на дола-манче."
+   },
+   {
+    "type": "other",
+    "who": "@jagannatha-deity",
+    "note": "Даршан в Пурушоттаме, тоска разлуки; Джаганнатха во сне велел взять Его Божество (B 832, T 15)."
+   },
+   {
+    "type": "other",
+    "who": "@bhakti-dayita-madhava",
+    "note": "Потомки передали ему храм в Джашре (T 16; 1962 — T 287). = @bhakti-dayita-madhava F92, F95."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.70–71 и 11.30 — главный источник B и M о шрипате в Яшаде (M ошибочно приписывает её Бхактивиноде)."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Его ученик Рагхунатха встретил Джахнаву на её пути (НВ 6.214–215)."
+   }
   ],
   "related_by": [
    {
@@ -48469,6 +48622,10 @@
    "ev-nityananda-thieves"
   ],
   "related_by": [
+   {
+    "from": "@jagadisha-pandita",
+    "type": "sibling"
+   },
    {
     "from": "@jagannatha-mishra",
     "type": "friend"
@@ -52150,6 +52307,10 @@
     "type": "other"
    },
    {
+    "from": "@jagadisha-pandita",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "other"
    },
@@ -54598,5 +54759,101 @@
     "type": "neighbor"
    }
   ]
+ },
+ {
+  "id": "@dukhini",
+  "ru": "Дукхини (Дукхини-мата), жена Джагадиши Пандита",
+  "en": "Dukhini (Dukhini-mata), wife of Jagadisha Pandita",
+  "note": "питала к Нимаю родительскую любовь; ради неё Господь остался в Яшаде (#jashra) как Гаура-Гопала («Анубхашья» к ЧЧ Ади 11.30; B 830, 834; T 14, 16; M 57)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jagadisha-pandita",
+    "type": "spouse"
+   }
+  ]
+ },
+ {
+  "id": "@jagannatha-jashra",
+  "ru": "Джаганнатха — Божество Джагадиши Пандита (Яшада, Джашра)",
+  "en": "Jagannatha, the Deity of Jagadisha Pandita (Yashada, Jashra)",
+  "note": "Божество, «погребённое» при Нава-калевара и отданное Джагадише по велению Джаганнатхи (B 832–833; T 15–16); не путать с @jagannatha-deity",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jagadisha-pandita",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@gaura-gopala-jashra",
+  "ru": "Гаура-Гопала — Божество Дукхини (Яшада, Джашра)",
+  "en": "Gaura-Gopala, the Deity of Dukhini (Yashada, Jashra)",
+  "note": "Господь остался в этом образе ради Дукхини (B 834; T 16; M 57; «Анубхашья» к ЧЧ Ади 11.30); не путать с @gaura-gopala-kanchrapara",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jagadisha-pandita",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@radha-vallabha-jashra",
+  "ru": "Радха-валлабха — Божество в Яшаде (Джашра)",
+  "en": "Radha-vallabha, the Deity of Yashada (Jashra)",
+  "note": "в храме Джаганнатхи Джагадиши Пандита; на Дола-пурниму — на дола-манче (B 833–834; T 16); не путать с @radha-vallabha-maheshpur",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@jagadisha-pandita",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@lakshmana-bhatta",
+  "ru": "Лакшмана Бхатта (Лакшмана Дикшита)",
+  "en": "Lakshmana Bhatta (Lakshmana Dikshita)",
+  "note": "андхра-брахман (веланати), отец @vallabha-bhatta (B 844; «Анубхашья» к ЧЧ Мадхья 19.61)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@ellamma",
+  "ru": "Эллама Гару",
+  "en": "Ellamma Garu",
+  "note": "мать @vallabha-bhatta (B 844)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@gopinatha-son-of-vallabha",
+  "ru": "Гопинатха (сын Валлабхи)",
+  "en": "Gopinatha (son of Vallabha)",
+  "note": "старший сын @vallabha-bhatta (1510; B 22–24, 50, 846; ЧЧ Мадхья 19.108)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "@krishnadeva-raya",
+  "ru": "Кришнадева Рай",
+  "en": "Krishnadeva Raya",
+  "note": "царь Виджаянагары (1509–1529); покровитель Валлабхи (B 844–845)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": []
  }
 ]
