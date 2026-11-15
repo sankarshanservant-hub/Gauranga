@@ -368,8 +368,7 @@ that same day; the sick must be treated, even on credit — he himself had once 
 provisions, and only Uddharan knew; a householder, Govinda Babu, helped then. He recalled collecting together with
 “Sripad Goswami Maharaj” and Sripad Nemi Maharaj, while Bhakti Pradip Tirtha, Jajabar Maharaj and Sridhar Maharaj went
 with him; he never spent temple money on himself and asked “Kunja-da” only for the cloth he needed. And fame, when
-fled from, follows love for Krishna of itself: “Fearing universal honour, Sri Madhavendra Puri left Remuna. But fame
-followed him, born of his pure love for Krishna” (CC, Madhya 4.147). So in his last instructions he once more said
+fled from, follows love for Krishna of itself: “For fear of fame Puri kept running away, yet together with his love for Krishna, fame came rolling after him.” (CC, Madhya 4.147). So in his last instructions he once more said
 what mattered most: the acharya is appointed from above, devotion belongs to Krishna alone, and money, women and fame
 are the three hindrances. <!-- F86 Q9 F87 Q7 I10 -->
 

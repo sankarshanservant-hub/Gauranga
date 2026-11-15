@@ -352,7 +352,7 @@ future Madhvacharya) as a child, and Goda Devi, Jahnava, Gangamata, Hemalata Tha
 them are gurus for the whole world. A guru is one who knows the truth about Krishna. So Mahaprabhu teaches in His
 conversation with Ramananda Raya:
 
-“If a person has realized the truth about Krishna, he is a true guru, whether he be a brahmana, a sannyasi or a shudra.”
+“Whether one is a *vipra*, a sannyasi or a shudra — whoever knows the truth of Krishna is a guru.”
 (CC, Madhya 8.127) <!-- F12 I1 I2 -->
 
 ## Shelter at Her Feet

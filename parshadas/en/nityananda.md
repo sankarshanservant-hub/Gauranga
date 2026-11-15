@@ -682,14 +682,14 @@ tridandi-bhikshu of Avanti, and going, as it seemed to Him, to Vrindavana; Nitya
 boys to point the Lord the way to Navadvipa as the way to Vrindavana — and so, wishing to show Him to the people of
 Navadvipa and bring Him to Shantipur, by a ruse He led Him to the Ganga, opposite Shantipur:
 
-“But those children directed Him toward the Ganga. Intoxicated with spiritual bliss, He went there.” (CC, Madhya 3.19)
+“The children showed Him the path along the bank of the Ganga, and the Lord, absorbed in rapture, went that way.” (CC, Madhya 3.19)
 
 Meanwhile Nityananda told Chandrashekhara to go quickly to Advaita Acharya's house:
 
-“I shall bring Sri Chaitanya to Advaita's house. But let Advaita wait for us with a boat on the bank of the Ganga.” (CC,
+“I shall bring the Lord to His house. Let Him wait ready on the bank with a boat.” (CC,
 Madhya 3.21)
 
-“Then go to Navadvipa for mother Shachi and all the devotees.” (CC, Madhya 3.22) <!-- F217 F218 F219 Q29 -->
+“‘Then go to Navadvipa and come back with Mother Shachi and the other devotees.’” (CC, Madhya 3.22) <!-- F217 F218 F219 Q29 -->
 
 So the Lord came to Shantipur and met there Shachi and the devotees of Navadvipa; the “Chaitanya-mangala” also describes
 Nityananda's conversation with Shachi. In Advaita's house Mahaprabhu and Nityananda ate Sita's enormous feast on whole
@@ -729,10 +729,9 @@ When He set out for the South, the Lord took none of His intimates with Him. Nit
 the roads to the holy places of the South — but Mahaprabhu declined and, as though reproaching Nityananda, Jagadananda,
 Mukunda and Damodara, in fact praised their love:
 
-“After accepting sannyasa I set out for Vrindavana, but You brought Me to the house of Advaita Acharya.” (CC, Madhya 7.19)
+“After taking sannyasa I set out for Vrindavana, but You led Me instead to Advaita's house.” (CC, Madhya 7.19)
 
-“On the way to Jagannatha Puri You broke My danda. All of you love Me boundlessly, but such deeds stand in the way of My
-plans.” (CC, Madhya 7.20)
+“On the way to Nilachala You broke My danda. The deep affection all of you bear for Me hinders My work.” (CC, Madhya 7.20)
 
 Still, at Nityananda's request the Lord took a servant with Him — a simple brahmana named Krishnadasa[^38] — to
 carry His kaupina, upper cloth and waterpot; Nityananda Himself arranged it. <!-- F236 F237 F454 -->
@@ -740,8 +739,7 @@ carry His kaupina, upper cloth and waterpot; Nityananda Himself arranged it. <!-
 Returning from the South, the Lord sent Krishnadasa ahead from Alalanatha to inform Nityananda and the others. Nityananda
 could not wait:
 
-“Hearing of Mahaprabhu's imminent arrival, Nityananda Raya at once hurried to meet Him, unable to bear the waiting, so
-full was He of the feelings of divine love.” (CC, Madhya 9.339)
+“Hearing of the Lord's arrival, Nityananda Raya rose and set out at once, unable to contain Himself for love.” (CC, Madhya 9.339)
 
 Jagadananda, Damodara and Mukunda danced with joy all along the road, and at the meeting the waves of love surged again.
 Soon the same Krishnadasa carried to Gauda, to Navadvipa, the news of the Lord's return[^39]. <!-- F238 F239 Q31 -->
@@ -755,11 +753,9 @@ Nilachala. <!-- F240 F241 -->
 King Prataparudra longed to see the Lord, but Mahaprabhu, a sannyasi, refused to meet a ruler. Sarvabhauma advised not to
 ask Him directly, and Nityananda simply told the Lord of the king's resolve:
 
-“You may think it proper or improper, but the fact is that King Prataparudra has resolved to become a mendicant beggar if
-he cannot meet You.” (CC, Madhya 12.19)
+“Proper or improper, we want to tell You everything: if he cannot meet You, the king wants to become a yogi.” (CC, Madhya 12.19)
 
-“He is ready to put on the ivory earrings of renunciation and give up his kingdom, which has become hateful to him without
-Your mercy.” (CC, Madhya 12.20)
+“He says, ‘I will put the yogi's rings in my ears and become a beggar. Without Gaurahari, my heart finds no joy in royal pleasures.’” (CC, Madhya 12.20)
 
 The Lord remained unbending, pointing to the strict Damodara Pandita. Then Nityananda said: those rejected in love take
 their own lives, — and asked that, to save the king, He at least give a worn upper cloth (bahirvasa). The Lord could not
@@ -769,14 +765,14 @@ Prataparudra felt love for God and began to worship it as the Lord Himself[^40].
 In the festivals of Nilachala Nityananda was always beside the Lord. When the Gundicha temple was cleaned, Mahaprabhu did
 not give heavy work to His elders:
 
-“All except Nityananda, Advaita, Damodara, Bharati and Paramananda Puri filled pots and carried water.” (CC, Madhya
+“Except for Nityananda, Advaita, Svarupa, Bharati and Puri, everyone filled pots and brought water.” (CC, Madhya
 12.109)
 
 At Gundicha, where kirtana went on three times a day, the Lord made now Advaita dance, now Nityananda, now Haridasa,
 Achyutananda, Vakreshvara and others. At the Ratha-yatra He anointed His companions with sandal paste with His own hand
 and adorned them with garlands:
 
-“Advaita Acharya and Nityananda, too, felt immense happiness when the Lord's hand touched Them.” (CC, Madhya 13.31)
+“Advaita Acharya and Nityananda Prabhu also rejoiced at the touch of His holy hand.” (CC, Madhya 13.31)
 
 In the second kirtana party, led in song by Srivasa, the dancer was Nityananda (CC, Madhya 13.38–39); the Lord told
 Nityananda, Advaita, Haridasa and Vakreshvara each to dance in one of four parties. The dancing Lord was surrounded by three
@@ -787,9 +783,7 @@ party to party so that each felt He was with it alone (CC, Antya 10.58–61). <!
 
 Though Mahaprabhu now lived in Puri, in Gauda He still manifested Himself wherever He was loved:
 
-“The Lord is always attracted by divine love, for such is His nature. Therefore Sri Chaitanya Mahaprabhu always
-manifested Himself in four places: in the home temple of Mother Shachi, wherever Nityananda Prabhu dances, in the kirtana
-of Srivasa Thakura and in the house of Raghava Pandita.” (CC, Antya 2.34)
+“In Shachi's house, at Nityananda's dancing, at Srivasa's kirtana and in Raghava's home — in these four places the Lord always appears. He is drawn by prema: that is the Lord's innate nature.” (CC, Antya 2.34)
 
 Nityananda Himself came every year with the devotees of Bengal to Puri and spent the four months of the rains with the
 Lord. <!-- F250 F251 Q34 -->
@@ -901,15 +895,14 @@ would gain his freedom. With his father's permission he crossed the Ganga and fo
 rise by the river amid His companions, to the sound of kirtana; seeing Him from afar, Raghunatha fell flat. Nityananda
 was told who it was. <!-- F284 -->
 
-“Hearing this, Nityananda said: ‘Oh! This thief has come to meet Me again. Come here to Me, then, don't be afraid. Today I
-shall punish you.’” (CC, Antya 6.47)
+“Hearing this, the Lord said, ‘You thief, so you have shown yourself! Come here, come here — today I will punish you!’” (CC, Antya 6.47)
 
 Nityananda drew him to Himself, placed His feet on his head and announced the “punishment”:
 
-“‘You do not come close, but keep your distance like a thief. But I have caught you and shall punish you today.” (CC,
+“‘You do not come near, thief; you keep running far away. Today I have caught you, and I will punish you.’” (CC,
 Antya 6.50)
 
-“I want you to feed all My companions yogurt and flat rice.’ Hearing these words, Raghunatha became inexpressibly happy.”
+“‘Feed My associates *dadhi* and *chida*, yogurt and flat rice.’ Hearing this, Raghunatha's heart filled with joy.”
 (CC, Antya 6.51)
 
 So, understanding the young man's innermost desires, He assigned him service to the Vaishnavas. Raghava Pandita added
@@ -926,14 +919,11 @@ Mahaprabhu's meal — according to the same account, of both brothers — Raghav
 Next day Raghunatha asked through Raghava how he might attain Mahaprabhu's feet. Nityananda placed His feet on his head
 and answered:
 
-“Gaurachandra Himself came to save you. From now on everything that hindered and bound you is removed by His sweet
-will.” (CC, Antya 6.141)
+“Gaura came Himself to deliver you. All your bonds — obstacles and the rest — have been loosed.” (CC, Antya 6.141)
 
-“Sri Chaitanya will entrust you to the care and protection of His closest servant, Svarupa Damodara. Thus you will gain
-the shelter of His lotus feet.” (CC, Antya 6.142)
+“He will entrust you to Svarupa and keep you at His feet, calling you His intimate servant.” (CC, Antya 6.142)
 
-“Go home with this assurance. And very soon you will gain, without any hindrance, the shelter of Sri Chaitanya
-Mahaprabhu.” (CC, Antya 6.143)
+“‘Go home free from care. Soon, without obstacles, you will attain the feet of Chaitanya.’” (CC, Antya 6.143)
 
 On Raghava's advice Raghunatha gave a generous dakshina to Nityananda and His companions and, having received their
 blessing, considered his life fulfilled. This festival is celebrated in Panihati to this day — as the
@@ -1039,15 +1029,14 @@ hunger, feigned anger and cursed: “Shiva has not come and found us lodging, an
 die!” Shivananda's wife wept. But Shivananda, on arriving, told her: let all three die, since we have caused Nityananda
 Prabhu inconvenience. <!-- F313 F314 F315 -->
 
-“Having spoken thus, Shivananda went without delay to Nityananda. But Nityananda rose and kicked him.” (CC, Antya 12.24)
+“Saying this, Shivananda went to Nityananda Prabhu, and the Lord rose and kicked him.” (CC, Antya 12.24)
 
 Shivananda took this blow as a sign of the greatest good fortune. He found lodging in a milkman's house, brought
 Nityananda there and glorified Him:
 
-“Under the pretext of punishment You have granted me Your mercy. Who can understand the nature and greatness of Your
-deeds?” (CC, Antya 12.28)
+“In the guise of punishment You show mercy — such is Your compassion. Who in the three worlds can understand Your ways?” (CC, Antya 12.28)
 
-“Even Brahma cannot touch the dust of Your beautiful feet. Yet with Your foot You have touched my body, full of sin.” (CC,
+“The dust of Your holy feet is rare even for Brahma, yet my lowly body has received the touch of such feet.” (CC,
 Antya 12.29)
 
 Pleased, Nityananda embraced him. So Shivananda received the touch of His feet, unattainable even for Brahma. But
@@ -1077,10 +1066,10 @@ that of Raghunandana, the son of Mukunda of Shrikhanda, according to others, tha
 As far as Ramakeli the Lord was accompanied by Nityananda — according to one account, with seven companions and
 Haridasa. There Rupa and Sanatana, coming to the Lord by night, first met Nityananda and Haridasa:
 
-“In the dead of night they came to the house of Sri Chaitanya. First they met Sri Nityananda and Thakura Haridasa.” (CC,
+“At midnight the two brothers came to where the Lord was staying. First they met Nityananda and Haridasa.” (CC,
 Madhya 1.183)
 
-“And They informed Mahaprabhu that Rupa and Sanatana had come to see Him.” (CC, Madhya 1.184)
+“These two told the Lord: ‘Rupa and Sakara Mallika have come to see You.’” (CC, Madhya 1.184)
 
 To show that a conditioned soul is saved by the mercy of devotees, the Lord told Nityananda, Haridasa, Srivasa, Gadadhara
 and others to bless the brothers, and they touched the feet of His companions, among them the feet of Nityananda.
@@ -1383,8 +1372,7 @@ to Nityananda as life.” <!-- F401 F372 F402 Q46 Q59 F458 -->
 Vrindavana Dasa Thakura, author of the “Chaitanya-bhagavata,” is called a disciple of Nityananda[^59]; he himself called
 himself Nityananda's last servant.
 
-“Having received the greatest mercy of Sri Nityananda, Srila Vrindavana Dasa Thakura beautifully described the pastimes
-of Sri Chaitanya, becoming like the original Vyasa.” (CC, Antya 20.82)
+“Vrindavana Dasa, the vessel of Nityananda's mercy, is the original Vyasa (*adi-vyasa*) of Chaitanya's pastimes.” (CC, Antya 20.82)
 
 Whoever reads his book, says the “Charitamrita,” knows the glory of Chaitanya and Nitai. His Deities of Gaura-Nitai are
 worshipped to this day at Mamgachhi. <!-- F373 F374 Q70 -->

@@ -404,7 +404,7 @@ After taking sannyasa the Lord wandered for three days in Radha, until Nityanand
 house in Shantipura. There the devotees of Navadvipa came with Shachi; the “Charitamrita,” listing them, names Shridhara
 too:
 
-“Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda and Sanjaya.” (CC, Madhya 3.154)
+“Buddhimanta Khan, Nandana, Shridhara, Vijaya, Vasudeva, Damodara, Mukunda, Sanjaya…” (CC, Madhya 3.154)
 
 The poem “Gaura-krishnodaya” also names him among those who came to Shantipura (6.59). <!-- F51 -->
 
@@ -421,7 +421,7 @@ listing those who set out for Nilachala, says:
 King Prataparudra, watching from the palace roof as the Bengal Vaishnavas approached, asked who they were, and
 Gopinatha Acharya named them one by one:
 
-“Look, this is Shuklambara. And this is Shridhara, and Vijaya. And here are Vallabha Sena, Purushottama and Sanjaya.”
+“Look, this is Shuklambara; here are Shridhara and Vijaya. This is Vallabha Sena, and here are Purushottama and Sanjaya.”
 (CC, Madhya 11.90)[^13] <!-- F53 Q15 -->
 
 Later books too remember Shridhara among the Lord’s associates. The “Narottama-vilasa” calls out: “O Sri Jagadananda,

@@ -637,9 +637,7 @@ serve this Krishna, take shelter in Him. Nothing can so powerfully captivate and
 Krishna” (15.138–142). Murari, hearing this, gradually yielded to His influence and promised: “I am Your servant, dependent on
 You in all things. I will do whatever You tell me” (15.143–144). <!-- F88 -->
 
-“He went home and thought about it all night. The very thought that he would have to give up the worship of
-Ramachandra threw him into great turmoil. ‘If I ever resolve to give up the service of Ramachandra's lotus feet, then,
-Lord, I pray, take my life that very night!’ So he wept all night, unable to sleep for the anxiety that seized him.”
+“With these words he went home. That night, as he thought it over, the idea of giving up Raghunatha left him distraught. ‘How can I give up the feet of Raghunatha? O Lord, let me die this very night!’ So he wept all night long; there was no peace in his mind, and he could not sleep.”
 (CC, Madhya 15.145–147)
 
 In the morning Murari came to the Lord, fell at His feet and, sobbing, implored Him:
@@ -677,9 +675,7 @@ With the same test the Lord later tried Anupama, the younger brother of Rupa and
 Anupama was likewise devoted to Rama and, however his brothers urged him, could not give up His worship. When Sanatana
 told of this, the Lord remembered Murari:
 
-“Sri Chaitanya replied: ‘Before this I tested Murari Gupta in the same way. Glorious is the devotee who under no
-circumstances abandons the shelter of the Lord's lotus feet, and glorious is the Lord who never abandons a servant
-surrendered to Him.’” (CC, Antya 4.45–46) <!-- F92 Q17 I4 -->
+“The Lord said, ‘In the same way I once tested Murari Gupta; this was his way too. Blessed is the devotee who does not leave the feet of his master, and blessed is the master who does not abandon his own.’” (CC, Antya 4.45–46) <!-- F92 Q17 I4 -->
 
 ## Physician of Body and Soul
 Murari was a physician by birth and by calling — and his healing too was service. Krishnadasa Kaviraja says:
@@ -703,17 +699,12 @@ physicians” (“Kadacha” 4.17.11), and Karnapura writes that Shivananda Sena
 (“Chaitanya-charitamrita-mahakavya” 13.127–136). King Prataparudra, watching from the palace roof as the Vaishnavas
 approached, asked who they were, and Gopinatha Acharya named them:
 
-“And here is Murari Gupta, Pandita Narayana, and Haridasa Thakura, who is able to deliver the whole world.” (CC, Madhya
+“This is Murari Gupta, this is Pandita Narayana, and this is Haridasa Thakura, who purifies the whole world.” (CC, Madhya
 11.86) <!-- F81 F82 -->
 
 But when the devotees came to the Lord, Murari was not among them:
 
-“Murari Gupta did not meet Sri Chaitanya at first, but offered Him prostrated obeisances from the street. Not seeing
-Murari, Sri Chaitanya asked about him, and many at once went to look for him. So Murari, in humility and submission,
-appeared before Mahaprabhu holding two bunches of dry grass between his teeth. Seeing Murari, Sri Chaitanya went to meet
-him, but Murari drew back, saying: ‘O Prabhu! Do not touch me! I am full of sin and unworthy for You to touch my body.’
-Sri Chaitanya replied: ‘Murari! Do not display such great humility, for it pierces My heart.’ With these words the Lord
-embraced him, seated him beside Himself and began personally to clean his body.” (CC, Madhya 11.152–158)
+“At first Murari Gupta did not come to see the Lord; he lay outside, fallen prostrate. Not seeing Murari, the Lord searched for him, and many people ran to fetch him. Holding two bunches of grass between his teeth, Murari came before Mahaprabhu, overcome with humility. Seeing Murari, the Lord came forward to meet him, but Murari drew back and began to say, ‘Do not touch me, O Lord, for I am a wretch. This body is not fit for You to touch.’ The Lord said, ‘Murari, restrain your humility. When I see such humility, My heart is torn apart.’ Saying this, the Lord embraced him, seated him beside Himself and wiped his body clean with His own hands.” (CC, Madhya 11.152–158)
 
 A straw between the teeth is a sign of utmost humility. Karnapura relates that Murari in his humility stayed behind at
 the pond, and when he came with the grass between his teeth, the Lord bathed him with His tears
@@ -721,8 +712,7 @@ the pond, and when he came with the grass between his teeth, the Lord bathed him
 
 At the Ratha-yatra Murari sang in the kirtan Mahaprabhu led before Jagannatha's chariot:
 
-“The third party consisted of Vasudeva, Gopinatha and Murari, and Mukunda became the leader of the sankirtana. Its
-singers were Shrikanta and Vallabha Sena, and Haridasa Thakura its dancer.” (CC, Madhya 13.40–41)
+“He formed another group with Mukunda as the leader, in which Vasudeva, Gopinatha and Murari sang, with two more, Shrikanta and Vallabha Sena; and Haridasa Thakura danced there.” (CC, Madhya 13.40–41)
 
 And in the water-sports in the Indradyumna lake “Vidyanidhi and Svarupa Damodara met in a water battle, and so did
 Murari Gupta and Vasudeva Datta” (CC, Madhya 14.80); Vrindavana Dasa writes that in the waters of Narendra Mukunda and
@@ -730,9 +720,7 @@ Murari fought each other (CB, Antya 8). <!-- F83 -->
 
 From then on Murari went to Puri every year with the other devotees and spent about four months with the Lord:
 
-“Other devotees, headed by Advaita, Nityananda, Vidyanidhi, Mukunda, Vasudeva, Murari and Shrivasa, came to Sri
-Chaitanya every year and stayed in Nilachala for four months. With them Sri Chaitanya enjoyed many of His beautiful
-pastimes.” (CC, Madhya 1.255–256) <!-- F81 Q18 -->
+“Advaita, Nityananda, Mukunda, Srivasa, Vidyanidhi, Vasudeva, Murari and all His other servants came together every year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.” (CC, Madhya 1.255–256) <!-- F81 Q18 -->
 
 In the third year “Acharyaratna, Vidyanidhi, Shrivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and Govinda with
 his two brothers set out with their travelling bags” (CC, Madhya 16.16); Krishnadasa Kaviraja names him also among
@@ -750,9 +738,7 @@ associates — Advaita, Nityananda, Shrivasa, Vakreshvara, Vasudeva Datta, Murar
 When the Lord resolved to go to Vrindavana by way of Bengal, Murari was with Him in Ramakeli. There Rupa and Sanatana
 came to the Lord for the first time:
 
-“Present there were such intimate associates of the Lord as Sri Nityananda, Haridasa, Shrivasa, Gadadhara, Mukunda,
-Jagadananda, Murari and Vakreshvara. Rupa and Sanatana humbly bowed at their feet. And all the devotees said: ‘You are
-immeasurably fortunate, for you have taken shelter at the feet of Sri Chaitanya Mahaprabhu!’” (CC, Madhya 1.219–220)
+“Nityananda, Haridasa, Srivasa, Gadadhara, Mukunda, Jagadananda, Murari and Vakreshvara were there. The two brothers fell at the feet of each of them, and all said: ‘You are blessed — you have attained the Lord.’” (CC, Madhya 1.219–220)
 
 At the Lord's bidding the brothers touched the feet of His associates. Murari himself in his poem also tells of
 Sanatana in Ramakeli (“Kadacha” 3.18). <!-- F93 Q23 -->

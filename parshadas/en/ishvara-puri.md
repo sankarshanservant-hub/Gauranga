@@ -91,13 +91,7 @@ chance to serve; and by the guru's mercy the disciple attains perfection. <!-- F
 
 Madhavendra answered this service with a blessing that shaped the whole of his disciple's later life:
 
-“Fully pleased with Ishvara Puri, Madhavendra Puri embraced him and blessed him: ‘May you obtain all the wealth of
-divine love for Krishna.’
-
-Thus Ishvara Puri became like an ocean of love for Krishna, while Ramachandra Puri became an inveterate critic.
-
-Thus these two disciples became a testimony to the consequences of the blessing and the rejection of a true saint.
-Through them Madhavendra Puri taught a lesson to the people of the whole world.” (CC, Antya 8.28–30)[^4]
+“Pleased with him, Puri Gosani embraced him and gave him a blessing: ‘May you have the treasure of love for Krishna!’ From then on Ishvara Puri was an ocean of love, while Ramachandra Puri became one who found fault with everyone. The two of them are witnesses of a great soul's mercy and punishment; through these two he taught the people of the world.” (CC, Antya 8.28–30)[^4]
 
 The lesson is simple and stern: whoever pleases the guru obtains all that is auspicious; whoever angers him obtains
 only the inauspicious. Both disciples were present at Madhavendra's departure, and both became a living example of his
@@ -274,9 +268,7 @@ servant; both served their guru as long as he remained in this world.
 “At the time of his departure both received his order, came to Nilachala and met the Lord” (CC, Adi 10.139) <!-- F59 F60 Q12 -->
 
 Govinda set out at once and found the Lord already returned from His journey through the South; Kashishvara came
-later, after first visiting the holy places. Govinda said: “My name is Govinda and I am the servant of Ishvara Puri.
-By the order of my guru I have come to You. Just before his departure from this world Ishvara Puri ordered me to find
-Sri Krishna Chaitanya and become His servant” (CC, Madhya 10.132–133). The Lord replied: “Sri Ishvara Puri always treated Me with parental love. Therefore in his
+later, after first visiting the holy places. Govinda said: “‘I am the servant of Ishvara Puri, and my name is Govinda. On Puri Gosani's order I have come to You. At the time of his passing, Gosani ordered me, “Go to Krishna Chaitanya and serve Him.”’” (CC, Madhya 10.132–133). The Lord replied: “Sri Ishvara Puri always treated Me with parental love. Therefore in his
 sending you to Me I see his causeless mercy” (CC, Madhya 10.135). <!-- F61 Q13 -->
 
 Yet the Lord hesitated to accept their service: they were His godbrothers, servants of His guru, and themselves worthy

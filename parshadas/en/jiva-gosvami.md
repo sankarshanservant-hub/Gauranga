@@ -51,7 +51,7 @@ Out of deep humility Rupa and Sanatana called themselves men of low birth. Sanat
 
 And in Ramakeli the brothers confessed to the Lord:
 
-“We have defiled our birth by low deeds and by association with base people. We are unworthy even to stand before You”.
+“We are low-born, we keep low company and do low work; O Lord, we are ashamed even to speak before You.”
 (CC, Madhya 1.189) <!-- Q1 Q2 -->
 
 Pretended scholars of coarse understanding failed to grasp this lila of humility played by the teachers of the world. As
@@ -118,7 +118,7 @@ Jiva appeared in Bakla-Chandradvipa.[^9] His mother's name is not known. <!-- F4
 His father was originally called Vallabha; the name “Anupama” was given to him by Mahaprabhu. For his service under the
 badshah of Gauda he, like his brothers, bore the title “Mallik”. The “Chaitanya-charitamrita” says:
 
-“Sri Rupa's brother was also a great Vaishnava. His name was Sri Vallabha, but he was better known as Anupama Mallik”.
+“Anupama Mallika, whose name was Sri Vallabha, was Rupa Gosvami's younger brother and a great Vaishnava.”
 (CC, Madhya 19.36) <!-- F42 Q7 -->
 
 And in his list of the branches of the tree of bhakti Krishnadasa Kaviraja names father and son together:
@@ -211,12 +211,7 @@ quickly to Vraja: the Lord has given that place to your family»”. (“Bhakti-
 
 Krishnadasa Kaviraja writes of the same:
 
-“Having decided to go from Bengal to Mathura, Sri Jiva Gosvami asked Srila Nityananda Prabhu for permission. Since Sri
-Jiva was the nephew of Sanatana and Rupa Gosvami, who were especially dear to Sri Chaitanya Mahaprabhu, Sri Nityananda
-bestowed His mercy on him, touching his head with His foot and clasping him in His embrace. Then Nityananda Prabhu gave
-Sri Jiva this order: «Go to Vrindavana at once. Sri Chaitanya has made the holy land of Vraja a special place for your
-whole family». At His command Sri Jiva went to Vrindavana and there obtained the fruit of fulfilling the will of God: he
-composed many spiritual books and successfully preached from there the teaching of bhakti”. (CC, Antya 4.232–235)
+“When Jiva Gosani was setting out from Gauda for Mathura, he begged leave of Nityananda Prabhu. With love Nityananda Prabhu placed His feet on Jiva's head, and because he was related to Rupa and Sanatana, He embraced him. He ordered him, ‘Go quickly to Vrindavana. The Lord has given that place to your family.’ By His order he came, and he obtained the fruit of obeying it: composing scriptures, he preached bhakti for a long time.” (CC, Antya 4.232–235)
 <!-- F60 Q12 -->
 
 Before leaving, Jiva, following Nityananda and by His mercy, went round all the holy places of Navadvipa-dhama. In
@@ -836,9 +831,7 @@ This teaching Jiva set out in his books, and he wrote so much that no authoritat
 his writings. Krishnadasa Kaviraja, speaking of the
 books of the Gosvamis of Vraja, says of him:
 
-“Sri Rupa's nephew, named Sri Jiva Gosvami, also wrote many excellent works on bhakti. In his «Sri Bhagavat-sandarbha» he
-set out the principal conclusions concerning the highest goal of bhakti. In the famous book «Gopala-champu» he described
-the essence of Sri Krishna's eternal pastimes and all the rasas of Vraja”. (CC, Madhya 1.42–44)
+“His nephew is named Sri Jiva Gosani. There is no end to the books of devotion he composed. In his extensive work, the *Sri Bhagavata-sandarbha*, he has written the essence of the conclusions of devotion. In his renowned *Gopala-champu*, full of the rasa of Vraja, he established the eternity of Krishna's pastimes.” (CC, Madhya 1.42–44)
 
 In Bengali the first line runs: “how many books on bhakti he wrote — there is no end to them”; yet Kaviraja names only
 two of them. Narahari Chakravarti in the “Bhakti-ratnakara” gives a list both in Sanskrit and in Bengali verse, but it too

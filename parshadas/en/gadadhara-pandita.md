@@ -26,9 +26,7 @@ a shakti of madhura-rasa: they nourish and sustain the vipralambha, the separati
 
 The “Charitamrita” too speaks of this:
 
-“Sri Chaitanya relished the feelings of parental love with Paramananda Puri, friendship with Ramananda Raya, service with
-Govinda and others, and also the rasa of conjugal love with Gadadhara, Jagadananda and Svarupa Damodara. These four
-rasas gave Him indescribable joy, and for this He felt Himself in unrepayable debt to these devotees.” (CC, Madhya 2.78)
+“Puri's love was chiefly parental; Ramananda's was pure friendship; Govinda and others had the rasa of pure servitude; and Gadadhara, Jagadananda and Svarupa knew the bliss of the chief rasa. By these four moods the Lord was held captive.” (CC, Madhya 2.78)
 
 Srila Bhaktisiddhanta explains: Gadadhara, Jagadananda and Svarupa served the Lord in the principal rasa — madhura-rasa,
 and the Lord, accepting their worship, company and service, was indebted to these devotees. <!-- F111 -->
@@ -244,7 +242,7 @@ Him — together with Nityananda, Jagadananda and Mukunda Datta[^11]. So, when t
 Lord settled in Puri, Gadadhara followed Him and stayed there as well. In the “Charitamrita” he is named first among
 those who lived with the Lord in Puri:
 
-“Gadadhara Pandita, Vakreshvara, Damodara, Shankara and Haridasa Thakura remained to live with the Lord in Puri.” (CC,
+“Gadadhara Pandita Gosani lived in Nilachala, as did Vakreshvara, Damodara, Shankara and Haridasa.” (CC,
 Madhya 1.252) <!-- F52 F53 F54 F58 Q14 -->
 
 ## Tota-Gopinatha
@@ -280,20 +278,13 @@ When Gadadhara Pandita, Bhagavan Acharya or Sarvabhauma invited the Lord, He acc
 already been invited by others, and ate at their homes just as they wished (CC, Antya 8.88–89)[^12]. And to Vallabha
 Bhatta the Lord named Gadadhara Pandita among the Vaishnavas born in Bengal who carry the holy name to the world:
 
-“Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda,
-Vasudeva, Murari and many other Vaishnavas were born in the land of Bengal. All of them everywhere preach the glory of
-chanting the holy names of God and the enchanting beauty of love for Krishna. Thanks to them all I have understood the
-essence of unalloyed devotion to Krishna.” (CC, Antya 7.48–50) <!-- F63 F64 -->
+“‘Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda, Vasudeva, Murari and all the other devotees who descended in Gauda have preached the name of Krishna and prema throughout the world, and whatever devotion to Krishna I have, I have gained in their company.’” (CC, Antya 7.48–50) <!-- F63 F64 -->
 
 ## The Test: Vallabha Bhatta
 With this same Vallabha Bhatta is connected a story in which the nature of Gadadhara's love is seen with special
 clarity. Krishnadasa Kaviraja begins it thus:
 
-“And that pure and deepest love which Gadadhara Pandita bore for Sri Chaitanya was like the submissive love that Queen
-Rukmini Devi felt for Krishna. Sometimes Sri Chaitanya wanted to arouse friendly anger in Gadadhara Pandita, but he never
-grew angry with the Lord, aware of His divine majesty. Sometimes Sri Chaitanya pretended to be angry with Gadadhara
-Pandita, but this only gave rise to great fear in him. As formerly Krishna sometimes teased Rukmini, but she took His
-words seriously, and her heart stood still with fear.” (CC, Antya 7.140–143)
+“Gadadhara Pandita's *bhava* was pure and deep, with a compliant nature (*dakshina*) like that of Rukmini-devi. The Lord wanted to see his loving anger (*pranaya-rosha*), but because Gadadhara was conscious of the Lord's majesty, anger never arose in him. Taking this occasion, the Lord feigned anger, and when the Pandita heard of it, fear arose in his heart. So it was long ago: when Krishna made fun of Rukmini, fear arose in her mind as she heard Him.” (CC, Antya 7.140–143)
 
 Gadadhara was by nature simple and loving. Vallabha, proud of his learning, came to the Lord, and the Lord, to cure him of
 pride, withdrew from him and found fault with everything he said. Then Vallabha began to visit Gadadhara, showing him
@@ -303,12 +294,7 @@ reject him. <!-- F65 -->
 
 Vallabha had formerly worshipped Bala-Gopala, Krishna as an infant; in the company of Gadadhara his heart changed:
 
-“Vallabha Bhatta worshipped Krishna, trying to develop in himself the mood of parental love. So he performed his service,
-chanting the Bala-Gopala mantra. But in the company of Gadadhara Pandita he felt his heart change, and he began to
-worship Krishna in the form of a youth (Kishora-Gopala). Vallabha Bhatta wanted to accept Gadadhara Pandita as his
-spiritual master, receiving from him mantra and instructions in the worship of Krishna. But Gadadhara refused, saying:
-‘Forgive me, but this is impossible. My master is Sri Gaurachandra, and I am wholly dependent on Him. Without His
-permission I will do nothing.’” (CC, Antya 7.144–147) <!-- Q16 -->
+“Vallabha Bhatta worshipped in the mood of parental love (*vatsalya*); he served with the Bala-gopala mantra. In the company of the Pandita his heart changed, and he gave his mind to the worship of Kishora-gopala. He wanted to receive the mantra and so on from the Pandita, but the Pandita said, ‘This is not for me to do. I am dependent; my Lord is Gaurachandra. Without His order I am not free to act on my own.’” (CC, Antya 7.144–147) <!-- Q16 -->
 
 A few days later the Lord showered His mercy on Vallabha and, on the day of his invitation, sent Svarupa Damodara and
 others for Gadadhara. On the way Svarupa said: “The Lord was only testing you. Why did you not come and tell Him
@@ -337,25 +323,12 @@ Chitrotpala Ramananda, Mardaraja and Hari-chandana went with Him. Gadadhara's vo
 to go further, but he could not bear the separation. The Lord reminded him of his vow and forbade him to come — and then
 an argument took place between them, which Krishnadasa Kaviraja relates thus: <!-- F68 -->
 
-“Gadadhara Pandita too made ready to go with the Lord, but Mahaprabhu forbade him, saying that he should not break his
-vow of kshetra-sannyasa. Gadadhara then said: ‘Jagannatha Puri is always wherever You are, and let kshetra-sannyasa go to
-hell.’ Sri Chaitanya said: ‘Continue serving Gopinatha here.’ Gadadhara answered: ‘But beholding Your feet is a service
-millions of times greater.’ Sri Chaitanya answered: ‘If you abandon your service, it will be My fault. But I will be very
-pleased if you continue your service.’ Gadadhara said: ‘No, all this is my fault. And I will not go with You; I will set
-out on my own. I will go not because of You, but to see mother Shachi. Therefore the blame for abandoning the service and
-the vow will be wholly mine.’” (CC, Madhya 16.130–135) <!-- F69 Q6 -->
+“When Gadadhara Pandita set out with them, the Lord forbade him: ‘Do not give up your *kshetra-sannyasa*.’ The Pandita said, ‘Wherever You are, that is Nilachala. Let my *kshetra-sannyasa* go to Rasatala!’ The Lord said, ‘Stay here and serve Gopinatha.’ The Pandita said, ‘Seeing Your feet is worth ten million services.’ The Lord said, ‘If you give up the service, the fault will fall on Me. Stay here and serve — that will please Me.’ The Pandita said, ‘All the fault will fall on me. I shall not go with You; I shall go alone. I shall go to see Ai (Mother Shachi), not for Your sake. The fault of giving up my vow and my service — that I shall bear myself.’” (CC, Madhya 16.130–135) <!-- F69 Q6 -->
 
 The Lord went on northward, and Gadadhara followed, alone[^13]. In Cuttack, about a hundred kilometres from Puri, the
 Lord called him to Him:
 
-“Gadadhara's unconditional love for Sri Chaitanya is simply inconceivable. For the sake of Mahaprabhu's company
-Gadadhara abandoned his vow and the service of the Deity as something insignificant. Inwardly Sri Chaitanya was very
-pleased with Gadadhara's conduct, but, taking him by the hand, the Lord addressed him in loving anger: ‘You have set off
-for distant lands, and in this way have abandoned your vow and the service of Gopinatha. Your desire to remain in My
-company is based on the wish for your own happiness. But that because of it you have transgressed two of your religious
-principles makes Me unhappy. If you want Me to be happy, then go back to Jagannatha Puri. If you say anything more in
-your own defence, you will bring misfortune upon Me.’ Having said this, Mahaprabhu sailed away in a boat, and Gadadhara
-Pandita fell unconscious to the ground.” (CC, Madhya 16.137–142) <!-- F70 F71 -->
+“The Pandita's love for Gauranga is beyond understanding: he gave up his vow and the service of Sri Krishna as though they were a blade of grass. Inwardly the Lord was pleased with his conduct, but He took him by the hand and spoke with loving anger: ‘You meant to give up your vow and your service, and you have succeeded: you have left them behind and come to a distant land. In wanting to stay with Me, you seek your own happiness. But you are failing in both your duties, and that makes Me sad. If you want My happiness, go back to Nilachala. I bind you by My oath — not one word more.’ Saying this, Mahaprabhu got into the boat, and the Pandita fell there unconscious.” (CC, Madhya 16.137–142) <!-- F70 F71 -->
 
 Gadadhara bore the separation from the Lord harder than anyone[^14], and his separation knew no bounds. The Lord
 entrusted him to Sarvabhauma — to console him and escort him back — and went on Himself. Sarvabhauma reminded Gadadhara

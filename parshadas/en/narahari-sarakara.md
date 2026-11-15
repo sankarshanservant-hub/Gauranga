@@ -36,7 +36,7 @@ Mukunda served as a court physician, a raja-vaidya; it is said that at times he 
 Shah. But this service was only outward: in the guise of a Vaishnava householder lived a mahabhagavata, a paramahamsa,
 though ordinary people did not see it. The “Chaitanya-charitamrita” says of him:
 
-“Outwardly he is a court physician in the service of the state. But who can understand how great is his love for God?”
+“Outwardly he is a royal physician in the king's service. Who could know the love within him?”
 (CC, Madhya 15.120) <!-- F15 -->
 
 When their father died, Mukunda sent his younger brother to study in Navadvipa. Narahari soon
@@ -76,15 +76,13 @@ One of those fortunate ones, according to this reading, is Narahari.[^6] <!-- F2
 When the Lord returned from His pilgrimage through the south, Nityananda sent Kala Krishnadasa to Bengal with the good
 news, and the devotees began to prepare for the journey.
 
-“Mukunda, Narahari and Raghunandana of Khanda also came to the Acharya's house in order to go with Him to Jagannatha
-Puri.” (CC, Madhya 10.90) <!-- F26 -->
+“Mukunda, Narahari and Raghunandana came from Khanda to the Acharya, to go with Him to Nilachala.” (CC, Madhya 10.90) <!-- F26 -->
 
 From then on, every year, the residents of Shrikhanda together with those of Kulinagrama, under the leadership of
 Shivananda Sena, went to Nilachala to see Mahaprabhu. Mukunda, Madhava and Narahari went there every year, and at the
 head of the people of Khanda walked Narahari — to the Lord's feet, for the Ratha-yatra:
 
-“The residents of the village of Khanda came, headed by Narahari Dasa and Shivananda Sena, and Sri Chaitanya Himself
-received them.” (CC, Madhya 1.132) <!-- F27 -->
+“All the residents of Khanda, headed by Narahari Dasa, came with Shivananda Sena and met the Lord.” (CC, Madhya 1.132) <!-- F27 -->
 
 In the ninth act of the “Chaitanya-chandrodaya-nataka” Kavi Karnapura says that Narahari, Raghunandana and other leading
 residents of Khanda had never seen the Lord before, and since then come to Purushottama every year in autumn. Murari
@@ -95,13 +93,13 @@ With them the Lord watched the Snana-yatra, with them He washed the Gundicha tem
 the chariot. When King Prataparudra watched the newcomers from Gauda from the roof of his palace, Gopinatha Acharya told
 him their names and among others pointed out the people of Khanda:
 
-“And here are the residents of Khanda: Mukunda Dasa, Narahari, Sri Raghunandana, Chiranjiva and Sulochana.” (CC,
+“Here are Mukunda Dasa, Narahari and Sri Raghunandana, and Chiranjiva and Sulochana — residents of Khanda.” (CC,
 Madhya 11.92)[^7] <!-- F28 F30 -->
 
 At the Ratha-yatra seven kirtana parties sang before Jagannatha's chariot, each with its own mridangas — fourteen in all.
 The people of Shrikhanda sang apart from the rest:
 
-“The singers of Khanda formed the seventh party. Its dancers were Narahari and Raghunandana.” (CC, Madhya 13.46) <!-- F31 Q9 -->
+“The group from Khanda held its kirtana in another place; Narahari and Sri Raghunandana danced there.” (CC, Madhya 13.46) <!-- F31 Q9 -->
 
 Narahari was rarely skilled in both dance and kirtana; he was a great singer — no less than a poet. When the Lord went
 round the temple in bera-kirtana, He again divided the devotees into seven parties, each with its chief dancer: Advaita
@@ -110,10 +108,7 @@ Lord Himself passed from party to party, and each felt that He was with it alone
 
 Taking leave of the devotees of Gauda, Mahaprabhu gave each of the three residents of Shrikhanda his own service:
 
-“Sri Chaitanya again addressed Mukunda tenderly: ‘See that your adherence to dharma and your wealth keep increasing.
-Raghunandana, for his part, should continue his service to Krishna, for without it he cannot even conceive of his life.
-And let Narahari always remain in the company of My devotees. These are My instructions to the three of you, and you
-must always follow them.’” (CC, Madhya 15.130–132) <!-- F34 Q11 -->
+“Again He spoke sweet words to Mukunda: ‘Your duty is to earn wealth in keeping with dharma. Raghunandana's duty is to serve Krishna; his mind turns to nothing but serving Krishna. And let Narahari stay with My devotees. You three must always carry out these three duties.’” (CC, Madhya 15.130–132) <!-- F34 Q11 -->
 
 ## A Branch of the Tree of Mercy
 Listing the branches of Sri Chaitanya's tree, Krishnadasa Kaviraja names the residents of Shrikhanda as one of its great

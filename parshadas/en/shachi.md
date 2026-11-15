@@ -308,11 +308,9 @@ Vishvarupa, who received in sannyasa the name Shankararanya, withdrew from the m
 disciple of Madhavendra. Ranga Puri told Him that he had once been a guest with his guru at Jagannatha Mishra's house
 and still remembered the taste of the banana-flower curry the mistress of the house had cooked:
 
-“Jagannatha Mishra's wife remained in his memory as a most devoted and chaste woman. She showed them such care, as if
-she were the mother of the whole universe.” (CC, Madhya 9.297)
+“‘Jagannatha's wife is a great and chaste lady; in her motherly love she is like the mother of the world.’” (CC, Madhya 9.297)
 
-“It seemed to him then that in all the three worlds no one could cook better than she. When she fed sannyasis, she
-treated them with the same love as her own sons.” (CC, Madhya 9.298)
+“In all the three worlds no one equals her skill in cooking, and when she feeds sannyasis she loves them as her own sons.” (CC, Madhya 9.298)
 
 Ranga Puri added that one of her worthy sons, Shankararanya, had attained perfection here in Pandharpur, and the Lord
 replied that in His former ashrama Shankararanya had been His brother, and Jagannatha Mishra
@@ -931,19 +929,11 @@ writes that Nityananda bowed at Shachi's feet, consoled her, ate the food she ha
 the Vaishnavas to Advaita's house (“Kadacha” 3.4.8–10). With her went Murari Gupta, Nandana Acharya, Shridhara,
 Damodara Pandita and many others; Krishnadasa Kaviraja says that it was Chandrashekhara who went to fetch her:[^19]
 
-“On the morning after Mahaprabhu's arrival Chandrashekhara brought mother Shachi in a palanquin. Many other devotees
-came with them too.” (CC, Madhya 3.137) <!-- F200 F205 F42 F120 F178 -->
+“In the morning Acharyaratna came with the devotees, bringing Shachimata in a palanquin.” (CC, Madhya 3.137) <!-- F200 F205 F42 F120 F178 -->
 
-“The Lord fell before her in obeisance. Mother Shachi laid His head on her lap and burst into sobs. The meeting shook
-them both. Seeing her son's smoothly shaven head, Shachimata was deeply agitated. With great love she stroked her son and
-kissed His face. She tried to look at Him, but tears blinded her eyes. Sobbing, Shachi lamented: ‘My dear son, Nimai! Do
-not become as cruel as Vishvarupa, Your elder brother. I have not seen him since he took sannyasa. You will kill me if You
-do the same.’” (CC, Madhya 3.140–144)
+“The Lord fell flat like a rod before Shachi, and she lifted Him onto her lap and began to weep. At the sight of each other both were overwhelmed, and seeing no hair on His head, Shachi was stricken with grief. She wiped His body, kissed His face and gazed at Him, but she could not see Him, for tears filled her eyes. Weeping, Shachi said, ‘My child Nimai, do not be cruel like Vishvarupa. After he became a sannyasi, he never let me see him again. If You do the same, it will be my death.’” (CC, Madhya 3.140–144)
 
-“Sri Chaitanya answered with tears in His eyes: ‘O My mother, hear Me. My body is all I have, and it belongs to you. It
-was born and nurtured by you. Even in millions of births I could not repay you this debt. I shall never become
-indifferent to you, whatever aims I pursued in taking sannyasa. I shall live wherever you say and fulfil your every
-wish.’” (CC, Madhya 3.145–148)
+“The Lord replied in tears, ‘Listen, My mother. This body is yours; there is nothing of Mine in it. You gave birth to this body and nurtured it. Even in millions of births I could not repay My debt to you. Whether I took sannyasa knowingly or unknowingly, I shall never be indifferent to you. Wherever you tell Me to stay, there I shall stay, and whatever you order, that I shall do.’” (CC, Madhya 3.145–148)
 
 Seeing her son in the garments of a sannyasi, Shachi and all the people of Navadvipa felt joy mingled with the pain of
 separation. Murari recalls His words: “Mother, I am always near you” (“Kadacha” 3.4.21); according to Lochana Dasa, the
@@ -954,8 +944,7 @@ From that day it was Shachi herself who cooked for the Lord and His companions (
 had prepared, to soothe at least a little the pain His departure had caused her. At night, when He fell to the ground in
 kirtana, the mother wept and prayed:
 
-“‘O Narayana! From childhood I have done my every act and every deed as service to You. Please grant my request.
-Each time my Nimai falls to the ground, let Him feel no pain at all.’” (CC, Madhya 3.165–166)
+“‘O Narayana, for whatever service I have done You since my childhood, give me this as its fruit: whenever Nimai falls upon the ground, let no pain touch His body.’” (CC, Madhya 3.165–166)
 
 Krishnadasa Kaviraja says that in her at that time happiness, fear and humility were joined together (3.167). When
 Srivasa and other brahmanas also wished to invite the Lord to their homes for a meal, Shachi asked them:
@@ -968,11 +957,7 @@ A sannyasi ought not to live among his relatives, but the Lord said that He woul
 mother, and asked how He might fulfil both dharmas. Advaita and the devotees came to Shachi with this question, and the
 Mother of the universe decided it herself:
 
-“‘If He stays here, He will make me happy. But if people censure Him, I shall be unhappy. So I have a fine idea. Let Him
-settle in Jagannatha Puri. In this way He will attain both aims at once. Navadvipa is closely connected with Jagannatha
-Puri. People are always going back and forth, and so I shall always have the latest news. You will easily be able to go
-there, and sometimes He too will come to bathe in the Ganga. It does not matter to me at all whether I am happy or not.
-But whatever brings Him happiness gives happiness to me too.’” (CC, Madhya 3.181–185)
+“‘If He stays here, I shall be happy; but if He is blamed, I shall be sorrowful. So this plan seems good to me: if He stays in Nilachala, both aims will be served. Nilachala and Navadvipa are like two homes of one family. People are always going back and forth, and I shall constantly have news of Him. All of you can go there and come back, and at times He will come to bathe in the Ganga. I do not count my own sorrow or happiness. Whatever makes Him happy, that I take as my own happiness.’” (CC, Madhya 3.181–185)
 
 “O mother, your words are like the injunctions of the Vedas,” the devotees replied (3.186).[^21] The Lord, delighted,
 asked everyone at home to perform Krishna-sankirtana unceasingly (3.187–191). The festival at Advaita's house went on for
@@ -998,9 +983,7 @@ Nityananda, Jagadananda, Mukunda and Damodara decided that before all else mothe
 Lord's permission they sent Kala Krishnadasa to Bengal with maha-prasada (CC, Madhya 10.67–74). In Bengal he went to her
 first of all:
 
-“He bowed respectfully before her and gave her the maha-prasada, and then told her of Sri Chaitanya's return from His
-pilgrimage through South India. This news brought inexpressible joy to Shachimata and to all the Vaishnavas headed by
-Srivasa Thakura.” (CC, Madhya 10.76–77)
+“He gave her the maha-prasada, bowed to her and told her the news: the Lord had come back from the south. Hearing it, mother Shachi rejoiced at heart, and so did Srivasa and all the other devotees.” (CC, Madhya 10.76–77)
 
 The news seemed to bring her, Advaita, Srivasa and Haridasa back to life, and the devotees, gathering in Navadvipa,
 received Shachi's permission and set out for Nilachala (10.78–88). Paramananda Puri, who had come from the south, was
@@ -1011,22 +994,16 @@ permission (CC, Antya 12.14), and Advaita, before setting out, would respectfull
 
 Once, as He sent the devotees home after the Ratha-yatra, the Lord said to Srivasa:
 
-“‘Give My mother this maha-prasada and cloth. Bow to her and ask her to forgive My transgression. Abandoning service to
-her, I went away and took sannyasa. In doing so I deviated from dharma, and this may ruin My religious life. I am
-immeasurably indebted to her for her love. My dharma is to serve her. In leaving her I committed an act of madness. But
-a mother never takes offence at her son, however foolish his deed. So I hope that My mother is not angry with Me.’”
+“Give this cloth and all this prasada to My mother. Fall down before her and beg her to forgive My offence. I gave up serving her and took sannyasa. That is not dharma: I am destroying My own dharma. I am subject to her love, and serving her is My dharma. In giving that up I have acted like a madman. A mother does not hold her mad child at fault. Knowing this, My mother is not angry with Me.”
 (CC, Madhya 15.47–50)
 
-“‘Now, at her command, I live in Jagannatha Puri. But from time to time I come to see her. Every day I come to see her
-feet. She feels My presence but cannot fully believe it.’” (CC, Madhya 15.52–53)
+“I stay in Nilachala at her bidding, and from time to time I will come to see her feet. Every day I go and see her feet, but she takes it for a vision and does not believe it is real.” (CC, Madhya 15.52–53)
 
 And through Srivasa the Lord reminded her of one day. On Vijaya-dashami she had prepared a great feast — choice rice,
 shak, a curry of banana flowers, fried patola with nim leaves, ginger with lime, yoghurt, milk and sweets — and offered
 it to the Shalagrama:
 
-“Then, taking the tray of this prasada on her lap, she burst into tears, thinking: ‘My beloved son Nimai loves all these
-dishes so much. But Nimai is not here. Who will eat all this?’ Thinking of Me with such great love, she shed bitter
-tears. At once I came and ate all these dishes. Seeing the empty tray, she was astonished and wiped away her tears.”
+“She took the prasada on her lap and wept: ‘All these dishes are my Nimai's favourites. Nimai is not here — who will eat them?’ As she thought of Me, her eyes filled with tears. I went at once and ate everything. Seeing the plate empty, she wiped away her tears.”
 (CC, Madhya 15.56–58)
 
 “Who has eaten it? Could it be Bala-Gopala Himself? Or was I only imagining it?” she wondered, and finding the pots in
@@ -1144,11 +1121,10 @@ back to Nilachala (CB, Antya 7.10–11). <!-- F70 F64 F106 F169 -->
 ## Damodara Pandita and Jagadananda
 The most impartial of His companions, Damodara Pandita, the Lord sent to live with His mother:
 
-“Apart from you I see no one who could look after her and protect her. You have surrounded even Me with your care.”
+“She has no protector other than you, for you have cautioned even Me.”
 (CC, Antya 3.22)
 
-“Go to My mother's house and take shelter at her holy feet. In your presence no one will dare to behave as he
-pleases.” (CC, Antya 3.25)
+“Go and stay in My mother's house, at her feet. Before you no one will dare to behave as he pleases.” (CC, Antya 3.25)
 
 Damodara was told to bow to her again and again on her son's behalf, to tell her how well He was, and to remind her of
 one secret:
@@ -1196,8 +1172,7 @@ Jagannatha's prasada, conveyed the Lord's humble prayers, and she listened day a
 “Sometimes,” Jagadananda told her, “Chaitanya comes to you and eats, and afterwards says, ‘Today Mother has fed Me to
 the full,’” and Shachi confessed:
 
-“Shachimata said: ‘How I wish that Nimai would eat all these dishes that I cook from the finest vegetables. Sometimes it
-seems to me that Nimai has eaten all the food on the tray, but afterwards I take it for a dream.’” (CC, Antya
+“Mother Shachi said, ‘I cook so many fine dishes, longing in my heart for Nimai to eat them here. Then it seems to me that Nimai has eaten them, but afterwards I think I must have been dreaming.’” (CC, Antya
 12.93–94)
 
 One biography adds that Jagadananda, naming the exact days, confirmed to her that her son had come in reality, and she
@@ -1216,16 +1191,14 @@ power — for I am your son. I live in Nilachala at your command and, as long as
 The prasada-cloth from the festival of Jagannatha's cowherd pastimes the Lord, on the advice of Paramananda Puri, sent
 to His mother, and the best prasada He collected separately for her and the devotees (19.12–13):
 
-“Mahaprabhu is the crown of all who are devoted to their mother. Even after taking sannyasa, He always served her.”
+“The Lord is the crown jewel of all who are devoted to their mothers. Even after taking sannyasa, He always served His mother.”
 (CC, Antya 19.14)
 
 After staying a month in Nadia, Jagadananda returned to Puri with her permission (19.15–16). In sending His mother
 Jagannatha's prasada, the sannyasi Lord showed not worldly attachment but transcendental love for His eternal
 companions — and His mother is the first of them. Nor did He ever leave her:
 
-“The Lord is always attracted by divine love, for such is His nature. Therefore Sri Chaitanya Mahaprabhu always
-manifested Himself in four places: in mother Shachi's home temple, in the place where Nityananda Prabhu dances, in the
-kirtana of Srivasa Thakura and in the house of Raghava Pandita.” (CC, Antya 2.34–35) <!-- F185 F62 F111 I6 F63 Q5 -->
+“In Shachi's house, at Nityananda's dancing, at Srivasa's kirtana and in Raghava's home — in these four places the Lord always appears. He is drawn by prema: that is the Lord's innate nature.” (CC, Antya 2.34–35) <!-- F185 F62 F111 I6 F63 Q5 -->
 
 ## Departure and Remembrance
 When Shachi Devi hid herself from the eyes of this world the original sources do not say; the days of her appearance
@@ -1339,8 +1312,8 @@ ever separate you and Me”; and He still appears in her house, for where He is 
 [^26]: According to the “Chaitanya-bhagavata”, His mother came to her son in Shantipur when He was returning from
     Ramakeli (Antya 4); according to the “Chaitanya-charitamrita” (Madhya 16.210–212), the Lord saw her both before
     Ramakeli and after it; so too one biography. How many days the Lord then stayed in Shantipur the
-    “Chaitanya-charitamrita” gives differently: a week, during which Shachi cooked for seven days (Madhya 1.232–234),
-    or ten days (Madhya 16.212).
+    “Chaitanya-charitamrita” gives differently: five or seven days, during seven of which He took His meals from
+    Shachi (Madhya 1.232–234), or ten days (Madhya 16.212).
 [^27]: According to one biography, at Shachi's request Nityananda lived for some time in Navadvipa after His wedding,
     then moved to Saptagrama to Uddharana Datta and finally to Khardaha; according to another, at her word He went
     straight to Advaita's house in Shantipur and stayed there until Uddharana Datta invited Him to Saptagrama.

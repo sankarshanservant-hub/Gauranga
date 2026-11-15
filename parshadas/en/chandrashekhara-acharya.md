@@ -244,9 +244,7 @@ his words that Murari relates the Lord's sannyasa and His frenzy in the land of 
 The “Charitamrita” tells of these days differently[^12]. After His sannyasa the Lord in ecstasy rushed towards
 Vrindavana, but Nityananda by a stratagem led Him to the Ganga near Shantipura, and sent Chandrashekhara ahead:
 
-“At that time Sri Nityananda ordered Chandrashekhara: ‘Go quickly to the house of Advaita Acharya. I shall bring Sri
-Chaitanya to Advaita's house. But let Advaita wait for us with a boat on the bank of the Ganga. Then go to Navadvipa
-for Mother Shachi and all the devotees.’” (CC, Madhya 3.20–22)
+“Nityananda Gosani said to Acharyaratna, ‘Go quickly to Advaita Acharya. I shall bring the Lord to His house. Let Him wait ready on the bank with a boat. Then go to Navadvipa and come back with Mother Shachi and the other devotees.’” (CC, Madhya 3.20–22)
 
 Thus through Chandrashekhara the news of the Lord's sannyasa reached the devotees of Shantipura and Navadvipa.
 <!-- F39 Q12 -->
@@ -254,8 +252,7 @@ Thus through Chandrashekhara the news of the Lord's sannyasa reached the devotee
 At Nityananda's word he brought Shachi from Navadvipa to Advaita's house in a palanquin, and the devotees of Navadvipa
 came with them:
 
-“The next morning after Mahaprabhu's arrival Chandrashekhara brought Mother Shachi in a palanquin. Many other devotees
-also came with them.” (CC, Madhya 3.137) <!-- F40 Q13 -->
+“In the morning Acharyaratna came with the devotees, bringing Shachimata in a palanquin.” (CC, Madhya 3.137) <!-- F40 Q13 -->
 
 ## The Puri Years
 The Lord settled in Puri and went travelling through the South. When He returned, the news was sent to Gauda with Kala
@@ -272,8 +269,7 @@ In a conversation with Vallabha Bhatta the Lord, speaking of the Vaishnavas born
 Acharyaratna first, and after him Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara,
 Kashishvara, Mukunda, Vasudeva, Murari and many others (CC, Antya 7.48–49) — and added:
 
-“All of them everywhere preach the glory of chanting the holy names of God and the enchanting beauty of love for
-Krishna. Thanks to all of them I have understood the essence of pure devotion to Krishna.” (CC, Antya 7.50)
+“‘…have preached the name of Krishna and prema throughout the world, and whatever devotion to Krishna I have, I have gained in their company.’” (CC, Antya 7.50)
 <!-- F44 Q14 -->
 
 In Bengal Chandrashekhara was also present, according to one of the biographies, at Nityananda's wedding in

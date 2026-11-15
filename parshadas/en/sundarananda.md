@@ -46,7 +46,7 @@ Pandita bathed and adorned Nityananda. His name also stands in the lists of Nity
 He was with Nityananda, too, at the famous chida-dadhi festival at Panihati, where Raghunatha Dasa fed everyone flat
 rice with yogurt. Counting Nityananda's companions at that festival, Krishnadasa Kaviraja names:
 
-“Ramadasa, Sundarananda, Gadadhara Dasa, Murari, Kamalakara, Sadashiva and Purandara.” (CC, Antya 6.61) <!-- F20 Q6 -->
+“Ramadasa, Sundarananda, Gadadhara Dasa, Murari, Kamalakara, Sadashiva, Purandara…” (CC, Antya 6.61) <!-- F20 Q6 -->
 
 The “Nityananda-vamsha-vistara” tells how Jahnava Devi, setting out for Ekachakra, called Ramadasa, Ramai, Sundarananda
 and Jnanadasa to go with her; and later, when Virachandra set out for Vrindavana, he sent Ramai, Sundarananda and other

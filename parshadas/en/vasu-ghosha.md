@@ -83,9 +83,7 @@ Every year Vasudeva and his brothers walked from Gauda to Nilachala — together
 devotees of Bengal — and came for the Ratha-yatra. There their famous kirtana increased the Lord's joy. The
 “Chaitanya-charitamrita” speaks of the third year of these journeys:
 
-“With their travelling bags, Acharyaratna, Vidyanidhi, Shrivasa, Ramai, Vasudeva, Murari Gupta, Raghava Pandita and
-Govinda with his two brothers set out on the road. The residents of Kulinagrama joined them too, bringing new silken
-ropes.” (CC, Madhya 16.16) <!-- F36 Q10 -->
+“Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari, and Govinda with his two brothers set out. Raghava Pandita packed his bags (*jhali*) for the journey, and the residents of Kulina-grama came bringing silk ropes.” (CC, Madhya 16.16) <!-- F36 Q10 -->
 
 At the Ratha-yatra Mahaprabhu divided the singers into seven groups. The Ghosha brothers sang in the fourth:
 

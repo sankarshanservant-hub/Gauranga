@@ -237,17 +237,15 @@ this home. Once Madhavendra Puri had come here with his disciple Sri Ranga Puri,
 banana flowers. Years later, in Pandharpur, Ranga Puri met Mahaprabhu, learned that He came from Navadvipa, and
 recalled:
 
-“They had then taken their meal in the house of Jagannatha Mishra, and he still remembered the indescribable taste of
-the banana-flower curry.” (CC, Madhya 9.296)
+“He recalled the meal he had taken in the house of Jagannatha Mishra and the wonderful curry of banana flowers he had eaten there.” (CC, Madhya 9.296)
 
-“Jagannatha Mishra's wife remained in his memory as a most devoted and chaste woman. She showed them such care, as if
-she were the mother of the whole universe.” (CC, Madhya 9.297)
+“‘Jagannatha's wife is a great and chaste lady; in her motherly love she is like the mother of the world.’” (CC, Madhya 9.297)
 
-“One of her worthy sons took sannyasa while still young, receiving the name Shankararanya.” (CC, Madhya 9.299)
+“One worthy son of hers took sannyasa. His name was Shankararanya, and he was young.” (CC, Madhya 9.299)
 
 And here, in this holy place, Ranga Puri said, Shankararanya had left this world (CC, Madhya 9.300).
 
-“Sri Chaitanya said: ‘Before taking sannyasa Shankararanya was My brother, and Jagannatha Mishra My father.’”
+“The Lord said, ‘In My former *ashrama* he was My brother, and Jagannatha Mishra was My father.’”
 (CC, Madhya 9.301)[^14]
 
 Vishvarupa withdrew from the manifest pastimes at Pandharpur (Sholapur district, Maharashtra) in 1509 (1431 Shaka). <!-- F98 F99 F100 F101 F21 Q6 F111 -->

@@ -78,15 +78,14 @@ When Mahaprabhu returned to Puri from His long journey through the south, His de
 the brief summary of those days Kaviraja says that the Lord then met both Shikhi Mahiti and Bhavananda Raya (CC, Madhya
 1.130), and he tells of this meeting in detail in the tenth chapter of the Madhya-lila:
 
-“At that time Bhavananda Raya came with his four sons, and all of them fell at the feet of Sri Chaitanya.” (CC, Madhya
+“Just then Bhavananda Raya arrived and, with his four sons, fell at Mahaprabhu's feet.” (CC, Madhya
 10.49)
 
 The fifth son, Ramananda, was still on the Godavari. Sarvabhauma Bhattacharya, introducing the devotees of Nilachala to
 the Lord, said: “This is Bhavananda Raya. Ramananda Raya is his eldest son” (CC, Madhya 10.50). Mahaprabhu embraced
 Bhavananda and began to glorify his son:
 
-“He whose son is a jewel like Ramananda — his glory cannot be told in this world. You are Pandu himself, your wife is
-Kunti, and your five great-minded sons are the five Pandavas.” (CC, Madhya 10.52–53) <!-- F19 Q4 F20 F21 Q3 -->
+“‘The glory of one whose son is a jewel like Ramananda cannot be described in this world. You are Pandu himself, and your wife is Kunti; your five wise sons are the five Pandavas.’” (CC, Madhya 10.52–53) <!-- F19 Q4 F20 F21 Q3 -->
 
 Kavi Karnapura shows the same scene in the eighth act of his drama “Chaitanya-chandrodaya.” Sarvabhauma names to the
 Lord, one after another, the servants of Jagannatha and the devotees of Puri, and, coming to Ramananda's family, says:
@@ -95,8 +94,7 @@ Bhavananda Raya.” They all fall prostrate, and Sarvabhauma asks the Lord to ac
 
 Bhavananda's reply is a model of Vaishnava humility:
 
-“Bhavananda Raya said: ‘I am a shudra, a worldly man, lowly. Yet You have touched me — this is the mark of the Supreme
-Lord.’” (CC, Madhya 10.54)
+“Raya said, ‘I am a fallen, worldly shudra, yet You touch me — this is the mark of the Lord.’” (CC, Madhya 10.54)
 
 These are the words not of a worldly man but of a devotee whom the Lord had just called Pandu. He was a shudra only by
 social reckoning, and he called himself “worldly” out of humility — the dainya that adorns every Vaishnava. And in the
@@ -105,9 +103,7 @@ so. <!-- F22 -->
 
 And Bhavananda at once gave the Lord all that he had:
 
-“Together with my house, wealth, servants and five sons, I have surrendered myself at Your feet. This Vaninatha will
-remain at Your feet and carry out whatever order You give, whenever You give it. Regard me as Your own, have no
-hesitation with me, and give whatever order You wish, whenever You wish.” (CC, Madhya 10.55–57)[^5]
+“‘Together with my house, my wealth, my servants and my five sons, I have surrendered myself at Your feet. Vaninatha here will stay at Your feet and carry out whatever You order, whenever You order it. Regard me as Your own and do not hold back with me: whatever You wish, whenever You wish it, simply give the order.’” (CC, Madhya 10.55–57)[^5]
 
 And the Lord replied:
 
@@ -153,19 +149,15 @@ Bara-Jana, angered by Gopinatha, ordered him raised onto the changa — a scaffo
 were set, so that the condemned could be thrown down onto them (CC, Antya 9.13–30, 9.99). People, hoping for the Lord's
 mercy, ran to Him: <!-- F29 F30 -->
 
-“Swords have been laid out below, and they will throw him down onto them from above. Only if the Lord protects him
-will he be saved. Bhavananda Raya with his whole family is Your servant; it befits You to protect his son, Your
-servant.” (CC, Antya 9.14–15) <!-- F31 -->
+“‘They have set swords beneath it and will throw him down onto them from above. Only if You, Lord, protect him will he be saved. Bhavananda Raya and his whole family are Your servants. His son is Your servant, and it is fitting that You protect him.’” (CC, Antya 9.14–15) <!-- F31 -->
 
 But Mahaprabhu, setting the example of a sannyasi's dharma, remained outwardly unconcerned. One who collects revenue in
 the king's name, He said, must first give the king his due; the king has the right to take what is his — and what can
 a monk who has renounced the world do? (CC, Antya 9.31–35). Then fresh news came: Vaninatha and others had been taken
-into custody with the whole family[^8]. Svarupa Damodara and the other devotees fell at the Lord's feet: “The whole
-family of Ramananda Raya are Your servants. Such indifference does not become You” (CC, Antya 9.37). The Lord answered
+into custody with the whole family[^8]. Svarupa Damodara and the other devotees fell at the Lord's feet: “‘The family of Ramananda Raya are all Your servants. Such indifference is not fitting for You.’” (CC, Antya 9.37). The Lord answered
 again that He was a beggar and could do nothing, and showed them the only way: <!-- F32 F34 -->
 
-“So if all of you wish to save him, go together to the feet of Jagannatha. Jagannatha is the Lord, in whose hand all
-things rest; He is able to do, not to do, and to do otherwise.” (CC, Antya 9.43–44) <!-- F33 -->
+“‘So if you all have it in mind to save him, go together to the feet of Jagannatha. Jagannatha is Ishvara, the Lord Himself, and all things are in His hands. He is able to do, not to do, or to do otherwise.’” (CC, Antya 9.43–44) <!-- F33 -->
 
 This “unconcern” is not indifference to the devotees, but a pastime and a lesson. A sannyasi who has renounced the
 world does not meddle in worldly affairs and does not petition kings; and to householders in a ruler's service the
@@ -183,20 +175,19 @@ the Supersoul. <!-- F35 -->
 ## “I Shall Go to Alalanatha”
 Soon Kashi Mishra came to the Lord, and Mahaprabhu, as if troubled, said to him:
 
-“I cannot stay here; I shall go to Alalanatha. There are many disturbances here, and I find no peace.” (CC, Antya
+“‘I cannot stay here; I shall go to Alalanatha. There are many disturbances here, and I find no peace.’” (CC, Antya
 9.60)
 
 The family of Bhavananda Raya, the Lord said, manages the king's affairs and spends the king's wealth in various ways,
 and when the king demands his due, they come to Him; four times people had run to Him with the news that Gopinatha had
 been raised onto the changa (CC, Antya 9.61–63):
 
-“I am a mendicant sannyasi who lives in solitude. They come and give Me pain by telling Me their own pains.” (CC,
+“I am a mendicant sannyasi who lives in solitude, yet they come and pain Me by telling Me their own troubles.” (CC,
 Antya 9.64) <!-- F36 -->
 
 And at once the Lord asked: today Jagannatha has saved Gopinatha, but who will save him tomorrow, if he does not return
 the king's money (CC, Antya 9.65)? The Lord speaks these words in the role of a sannyasi, for whom it is not fitting to hear of worldly matters; they
-teach detachment, but they do not denounce Bhavananda's family. Kashi Mishra long urged Him to stay: “Please remain here
-in Jagannatha Puri. Why go to Alalanatha? No one will trouble You any more with talk of worldly matters” (CC, Antya
+teach detachment, but they do not denounce Bhavananda's family. Kashi Mishra long urged Him to stay: “Stay on here. Why should You go to Alalanatha? No one will make You listen to the talk of worldly men.” (CC, Antya
 9.78). And at noon, when King Prataparudra came as usual to Kashi Mishra's house, Mishra told him that the Lord meant to
 leave Puri and go to Alalanatha (CC, Antya 9.80–85). <!-- F37 F38 -->
 
@@ -212,8 +203,7 @@ He remitted the debt, doubled Gopinatha's salary, restored him to his former pos
 Antya 9.104–107). And to Kashi Mishra, so that the Lord should not think the debt had been forgiven only for His sake,
 the king sent word:
 
-“All the sons of Bhavananda are dearest to me; I regard them as my own self. Therefore, wherever I give them charge,
-they eat, drink, plunder and give away — and I do not call them to account.” (CC, Antya 9.120–121)
+“All of Bhavananda's sons are most dear to me; I regard them all as my own self. So I give them posts here and there. They eat, drink, plunder and give away, and I do not look into it.” (CC, Antya 9.120–121)
 
 This is the speech not of a judge about grasping officials, but of a sovereign about his own kin. The king went on:
 Ramananda he himself had made governor of Rajamahendri; he had not known that his son meant to destroy Gopinatha, for he
@@ -223,7 +213,7 @@ Kaviraja stresses that the Lord did not wish Gopinatha's debt to be forgiven, hi
 He had only been asked to save Gopinatha from death — and that alone bore such fruit. The Lord's intentions are
 inconceivable even to Brahma and Shiva (CC, Antya 9.112–115).
 
-“He did not entreat Kashi Mishra, nor did He entreat the king; yet without any effort He gave all these results.” (CC,
+“He did not entreat Kashi Mishra, nor did He entreat the king; yet without any effort He gave all this fruit.” (CC,
 Antya 9.150)
 
 The Lord punished no one: the execution was the scheme of an angry prince and had been cancelled even before Kashi
@@ -241,8 +231,7 @@ When Kashi Mishra had conveyed the king's words to the Lord, Bhavananda Raya cam
 sons he bowed at His feet, and the Lord raised him up and embraced him; thus, says Kaviraja, Ramananda Raya and all his
 family met the Lord (CC, Antya 9.127–129). And Bhavananda said: <!-- F41 -->
 
-“All these, my whole family, are Your servants. By keeping us safe in this danger, O Lord, You have taken us once more
-as Your own.” (CC, Antya 9.130)
+“‘My whole family are Your servants. Saving us in this danger, Lord, You have bought us again for a price (*nila mula*).’” (CC, Antya 9.130)
 
 Now You have shown Your love for Your devotees, he said, as long ago You saved the five Pandavas from danger (CC, Antya
 9.131). The father of the Pandavas recognized in Gaura's mercy the same care with which Krishna had once surrounded his
@@ -257,8 +246,7 @@ me. <…> On the changa I meditated on Your feet, and by the power of rememberin
 But Gopinatha understood that worldly gains are only a shadow of the true good that remembrance of the Lord's feet
 bestows, and he prayed for more:
 
-“Ramananda Raya and Vaninatha You have made free from the worldly; that mercy, which would make me so, I do not have.
-Give me pure mercy, O Lord, and take the worldly away from me.” (CC, Antya 9.138–139)
+“‘You made Ramananda Raya and Vaninatha free from worldly affairs. But I have not received the mercy that brings this about! Show me pure mercy, Gosani: take away my worldly affairs. I have grown weary of them (*nirvinna*); worldly affairs are not for me.’” (CC, Antya 9.138–139)
 
 This is the meaning of the whole story. As Srila Bhaktivinoda Thakura explains, the chief fruit of remembering the
 Lord's feet is love for Him, while life, honour and wealth preserved are only a shadow of that fruit, for everything
@@ -316,8 +304,8 @@ should remember the Lord: not for worldly gains, but for love of His feet. <!-- 
 [^6]: In Karnapura's poem this is a comparison: “fortunate like Pandu.” We follow the “Charitamrita,” where the Lord says
     directly: “You are Pandu” (Adi 10.132; Madhya 10.53); on these words rests the “Gaura-ganoddesha-dipika” of the same
     Karnapura (GGD 122), while the “Gaura-krishnodaya” says: “You are Pandu himself.”
-[^7]: So the verse reads in the Gaudiya Matha edition and in two of the biographies; our translation has “Bhagavan” at
-    this place. Who this Bhavananda is the sources do not say, and he should not be identified with Bhavananda Raya
+[^7]: So the verse reads in the Gaudiya Matha edition, in two of the biographies and in the revised translation; the earlier
+    Russian translation had “Bhagavan” at this place. Who this Bhavananda is the sources do not say, and he should not be identified with Bhavananda Raya
     without reservation.
 [^8]: According to two of the biographies, it was Bhavananda Raya himself with his whole family who was bound and led
     away; according to the “Charitamrita” (Antya 9.34), Vaninatha and others were taken with the whole family.

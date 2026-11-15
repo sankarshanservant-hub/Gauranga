@@ -93,9 +93,7 @@ call it Varaha-parvata.[^4] <!-- F13 Q13 -->
 
 The “Charitamrita” relates:
 
-“Coming to Rishabha hill, Sri Gaurahari bowed down before the Deity in the temple of Lord Narayana and offered many
-hymns and prayers. Hearing that Paramananda Puri was staying for the four months in a nearby village, Mahaprabhu went
-to see him. With all respect Sri Chaitanya touched the feet of Paramananda Puri, and he embraced Him with great love.”
+“Gaurahari went on and came to Rishabha hill. There He saw Narayana and offered obeisances and prayers. Paramananda Puri was staying there for the four months. Hearing this, Mahaprabhu went to Puri Gosani. The Lord bowed at the feet of Puri Gosani, and Puri Gosani lovingly embraced Him.”
 (CC, Madhya 9.167–169)
 
 Paramananda Puri was keeping his chaturmasya vow there, living in the house of a brahmana. The Lord too stayed in that
@@ -149,8 +147,7 @@ hastened to see him (6.1100–1102). <!-- F18 F68 -->
 After a few more days on Rishabha hill, Paramananda Puri went, as he had intended, to the Ganga, and, walking along
 its bank, came to Navadvipa:
 
-“Shortly before this Paramananda Puri had come from the South, walking from village to village along the bank of the
-Ganga. He stayed in the house of mother Shachi, and she respectfully fed him.” (CC, Madhya 10.91–92)
+“At that time Paramananda Puri, coming from the south along the bank of the Ganga, arrived in the town of Nadiya. He stayed happily in mother Shachi's house, and she respectfully gave him his meal.” (CC, Madhya 10.91–92)
 
 He lived in Mayapur, in the house of Shachimata, and took his meals from her hands, and she looked after him with
 great love. <!-- F19 F21 -->
@@ -167,12 +164,7 @@ Lord; so he hurried to Puri alone, taking with him only the Bengali brahmana Kam
 apparently the same whom the “Charitamrita” elsewhere calls Kamalananda (Adi 10.149). Thus these two reached
 Mahaprabhu ahead of all the other Bengalis. <!-- F22 F74 -->
 
-“Soon he met Mahaprabhu, and the Lord was overjoyed to see him. In the bliss of prema Sri Chaitanya offered prayers
-at his feet, and Paramananda Puri embraced Him with love. Sri Chaitanya said, ‘Please show Me mercy and stay in
-Jagannatha Puri, so that I may always be in your company.’ Paramananda Puri replied, ‘I too wish to be with You.
-That is why I have come to Nilachala from Bengal. All the devotees of Bengal were very happy to hear of Your return
-from South India. They are all preparing to come and see You, but their preparations were taking long, and I decided
-to set out without delay.’” (CC, Madhya 10.95–100)[^8] <!-- F23 Q6 F22 -->
+“He came quickly and met the Lord, and the Lord rejoiced to have him there. Overwhelmed with love, the Lord bowed down at his feet; and Paramananda Puri, overwhelmed with love, embraced Him. The Lord said, ‘I long to live in your company. Be merciful to Me and make Niladri your home.’ Puri replied, ‘I too long to live in Your company. That is why I set out from Gauda and came to the city of Nilachala. When they heard that You had come back from the south, Shachi was overjoyed, and so were all the devotees. They are all coming to see You, but since they were delayed, I hurried on ahead.’” (CC, Madhya 10.95–100)[^8] <!-- F23 Q6 F22 -->
 
 The Lord lodged him in a secluded room in the house of Kashi Mishra and gave him a servant (CC, Madhya 10.101). Soon
 Svarupa Damodara came; having bowed to the Lord and to Nityananda, he respectfully bowed at the feet of Paramananda
@@ -336,27 +328,21 @@ Vrindavana Dasa speaks.[^16] <!-- F42 Q13 -->
 Paramananda Puri’s seniority among the Lord’s companions is vividly seen in the story of the Junior Haridasa, a
 singer with the Lord in Puri. Because he had spoken with a woman, Mahaprabhu cast him off and barred him from His house:
 
-“‘From now on My house is closed to the Junior Haridasa. Do not let him in here any more.’” (CC, Antya 2.113)
+“‘From today you must keep this order of Mine: do not let Chota Haridasa come here.’” (CC, Antya 2.113)
 
 For three days Haridasa ate nothing. Svarupa Damodara and other close devotees came to plead for him, but the Lord
 answered them sternly and told them never to speak of it again (CC, Antya 2.115–126). Then on the next day all the
 Vaishnavas went to Paramananda Puri: the Lord honoured him, His guru’s godbrother, as a guru, and they hoped that
 his word would help.[^17] <!-- F43 F44 -->
 
-“Then Paramananda Puri went in person to Sri Chaitanya. Offering him respect, the Lord seated him beside Himself and
-asked: ‘Tell Me, what brings you to Me? What can I do for you?’ And Sri Paramananda Puri began to beg Him to have
-pity on the Junior Haridasa and forgive him. Hearing this request, Sri Chaitanya said: ‘My lord, listen! You stay
-here with all the Vaishnavas, and allow Me to go to Alalanatha. I shall live there alone, with Govinda only.’ So
-saying, Sri Chaitanya called Govinda, offered His respects to Paramananda Puri, rose and left the house.” (CC,
+“Then Puri Gosani came alone to the Lord. The Lord bowed to him and seated him with reverence. The Lord asked, ‘What is your order? Why have you come?’ Puri Gosani petitioned Him to show grace to Haridasa. Hearing this, the Lord said, ‘Listen, Gosani: stay here with all the Vaishnavas, and give Me leave to go to Alalanatha. I will stay there alone, with only Govinda.’ Saying this, the Lord called Govinda, bowed to Puri, rose and set off.” (CC,
 Antya 2.129–133)
 
 The Lord did not grant the request, yet neither would He argue with an elder: honouring him, He chose rather to
 leave Himself.[^18] Puri was abashed; he hastily stood before the Lord and humbly begged Him to come back into the
 room:
 
-“Paramananda Puri prayed to Sri Chaitanya: ‘O wholly independent Lord! You may do whatever You wish. Who can tell You
-how to act? You do everything only for the good of all people. But we can never fathom what is in the depths of Your
-heart.’” (CC, Antya 2.135–136)
+“‘Do whatever You wish: You are the independent Lord. Who can tell You anything? All Your dealings are for the good of the people. None of us can know Your deep heart.’” (CC, Antya 2.135–136)
 
 With these words Puri went home. The Lord did not forgive Haridasa: from then on he could only see Him from afar,
 when the Lord went to Jagannatha (2.137–142). <!-- F45 F46 Q11 -->
@@ -365,16 +351,14 @@ Puri’s humility in saying, “You are the independent Lord,” is not the fail
 all: the elder whom the Lord honours as a guru himself bows before the Lord’s will. And the Lord’s severity is not
 anger but a lesson to the world, as Krishnadasa Kaviraja says:
 
-“Sri Chaitanya Mahaprabhu is a boundless ocean of causeless mercy. But who can understand Him? Sometimes He punishes
-His devotees, but only to establish in people’s hearts the highest standard of life, dharma.” (CC, Antya 2.143)
+“Mahaprabhu is an ocean of mercy — who can understand Him? He punishes His own devotee to make people understand dharma.” (CC, Antya 2.143)
 <!-- F46 -->
 
 And by honouring Puri even while refusing him, the Lord taught something more: the guru’s godbrother deserves the
 same reverence as the guru, and disregard for the elders, the guru-varga, is ruinous for bhakti. Of this the Lord
 also speaks to Sanatana:
 
-“‘Jagadananda Pandita is dear to Me, but you, Sanatana, are far dearer. Yet I cannot tolerate any transgression of
-spiritual etiquette.’” (CC, Antya 4.166)[^19] <!-- F47 I1 Q8 -->
+“‘Jagadananda is not dearer to Me than you. But I cannot bear a breach of propriety.’” (CC, Antya 4.166)[^19] <!-- F47 I1 Q8 -->
 
 ## At the Festivals of Nilachala
 Paramananda Puri was beside the Lord in almost all His pastimes in Purushottama: at the cleansing of the Gundicha
@@ -384,7 +368,7 @@ Thakura. The Gaudiya Vaishnavas and the people of Puri all revered him as an eld
 When the Lord and His devotees washed the Gundicha temple before the Ratha-yatra, He did not ask the elders, the
 guru-varga, to carry water: they washed the temple with water that others carried.
 
-“All except Nityananda, Advaita, Damodara, Bharati and Paramananda Puri filled the pots and carried water.” (CC,
+“Except for Nityananda, Advaita, Svarupa, Bharati and Puri, everyone filled pots and brought water.” (CC,
 Madhya 12.109)
 
 Damodara here is Svarupa Damodara, and Bharati is Brahmananda Bharati. <!-- F49 Q9 -->
@@ -392,15 +376,12 @@ Damodara here is Svarupa Damodara, and Bharati is Brahmananda Bharati. <!-- F49 
 At the Ratha-yatra, when the chariot stopped, the Lord honoured the elders before all others, with His own hand marking
 their foreheads with sandal paste and adorning them with garlands:
 
-“Paramananda Puri and Brahmananda Bharati, receiving garlands and sandal paste from the hands of Sri Chaitanya, felt
-great bliss.” (CC, Madhya 13.30) <!-- F50 Q9 -->
+“Paramananda Puri and Brahmananda Bharati received sandalwood paste from His holy hand, and their joy grew.” (CC, Madhya 13.30) <!-- F50 Q9 -->
 
 In the water-sports on the Narendra, says Vrindavana Dasa, “Nityananda, Gadadhara and Puri Gosvami began to fight one
 another in the water, but none of them was ever wholly defeated” (CB, Antya 8.122). Together with Nityananda and
 Gadadhara, Puri went with the Lord to meet Advaita and the Gaudiya devotees, and Vrindavana Dasa names him in the
-list of the Lord’s companions in Puri (CB, Antya 8.55–61). And at the festival in memory of Haridasa Thakura, “Sri
-Chaitanya sat down beside Paramananda Puri and Brahmananda Bharati and began to eat. Seeing this, all the Vaishnavas
-began to eat as well” (CC, Antya 11.87). <!-- F48 F59 -->
+list of the Lord’s companions in Puri (CB, Antya 8.55–61). And at the festival in memory of Haridasa Thakura, “The Lord took His meal with Puri and Bharati, and then all the Vaishnavas ate.” (CC, Antya 11.87). <!-- F48 F59 -->
 
 When the Gaudiya devotees had gone home after the Ratha-yatra, Sarvabhauma Bhattacharya asked the Lord and the ten
 sannyasis who were always with Him to take their meals at his house for a whole month: Paramananda Puri, Svarupa
@@ -447,15 +428,12 @@ Lord, bathed in tears (16.30). <!-- F62 F64 F72 -->
 Once Ramachandra Puri, another disciple of Madhavendra, came to Puri. The Lord and Paramananda Puri honoured him as a
 disciple of their guru:
 
-“Paramananda Puri offered respects at the feet of Ramachandra Puri, and he embraced him tightly. Sri Chaitanya too
-bowed to him, and he embraced Him as well, remembering Krishna. Then the three of them talked of many spiritual
-matters. After this Jagadananda Pandita invited this sannyasi to his home.” (CC, Antya 8.6–8)
+“Paramananda Puri paid homage at his feet, and Puri Gosani embraced him firmly. Mahaprabhu offered him prostrate obeisance; he embraced the Lord and remembered Krishna. For some time the three of them spoke together about the Lord. Then Jagadananda Pandita invited him for a meal.” (CC, Antya 8.6–8)
 
 Ramachandra Puri, however, looked for faults in everything and reproached the Lord for eating much. The Lord began
 to eat half as much as before. Then Paramananda Puri, together with all the devotees, humbly entreated Him:
 
-“‘My godbrother Ramachandra Puri constantly criticises everyone, for such is his nature. What is the use of Your
-giving up food because of his reproaches?’” (CC, Antya 8.70)[^23]
+“‘Ramachandra Puri has the nature of a fault-finder. What will be gained by giving up food at his word?’” (CC, Antya 8.70)[^23]
 
 Ramachandra Puri, he said, himself makes people overeat and then reproaches them; of the two rules of the
 “Bhagavatam” — not to praise and not to blame others (11.28.1) — he keeps only the first: he praises no one but
@@ -468,8 +446,7 @@ only that the service of the Lord should not suffer. <!-- F53 F54 Q11 -->
 Once, seeing the sand-hill Chataka-parvata in Puri, the Lord took it for Govardhana and ran towards it in ecstasy.
 The devotees rushed after Him:
 
-“Brahmananda Bharati and Paramananda Puri ran too. And even the lame Bhagavan Acharya ran slowly after all the
-devotees.” (CC, Antya 14.90)
+“Puri Gosani and Bharati Gosani came to the seashore, and the lame Bhagavan Acharya followed very slowly.” (CC, Antya 14.90)
 
 Puri and Bharati arrived later, when the Lord was already coming to Himself:
 
@@ -587,8 +564,8 @@ all the branches rest; and among the roots on which the tree is established, the
 [^20]: The biographies write that four days were set aside for Svarupa; the “Charitamrita” (Madhya 15.195) gives no
     number — this is inferred from the count of the month. One of them calls the ninth sannyasi “Sukhadananda Puri”;
     this is Sukhananda Puri.
-[^21]: Our Russian translation of this verse has “Paramananda Raya”; the Bengali text has *puri*, that is, Paramananda
-    Puri.
+[^21]: The earlier Russian translation of this verse had “Paramananda Raya”; the Bengali text has *puri*, that is, Paramananda
+    Puri, and so the revised translation.
 [^22]: The brief summary of the pastimes (Madhya 1.149) also mentions “the episode with the cloth together with Puri
     Gosani,” but we have not found it in the sixteenth chapter of the Madhya-lila itself; cf. Karnapura’s account
     (mahakavya 19.9).

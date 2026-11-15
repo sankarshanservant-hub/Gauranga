@@ -112,9 +112,7 @@ pretext of fear of the mlecchas, Gopala came from Govardhana to Mathura, to the 
 Vallabhacharya — and in truth showed by this His mercy to the aged Rupa. For a whole month Rupa stayed in Mathura beholding
 Him, and with him were his companions:
 
-“Sri Rupa with his companions also spent a whole month in Mathura beholding this Deity. He was accompanied by Gopala
-Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa Gosvami. Bhugarbha Gosvami, Sri
-Jiva Gosvami, Sri Yadava Acharya and Govinda Gosvami.” (CC, Madhya 18.48–50)
+“Then Rupa Gosani took all his associates with him, stayed in Mathura for a month and had darshana of Gopala. With him were Gopala Bhatta, Raghunatha Dasa, Raghunatha Bhatta Gosani and Lokanatha, Bhugarbha Gosani, Sri Jiva Gosani, Sri Yadava Acharya, Govinda Gosani…” (CC, Madhya 18.48–50)
 
 That month Bhugarbha not only beheld Gopaladeva but danced and sang before Him.[^8] <!-- F7 Q3 -->
 

@@ -45,15 +45,7 @@ Ranga-kshetra on the bank of the Kaveri — the river of which the “Bhagavatam
 water are purified in heart and attain pure bhakti for Vasudeva. The “Chaitanya-charitamrita” relates:
 <!-- F7 F8 Q1 -->
 
-“In Papa-nashana He visited the temple of Vishnu and then went on to Sri Ranga-kshetra. He bathed in the river Kaveri
-and then visited the temple of Ranganatha. Offering many prayers to that Deity, He felt that His life had been filled
-with the highest meaning. In that temple He sang and danced so much in the rapture of divine love that everyone was
-amazed to see it. One of the Shri Vaishnavas, named Venkata Bhatta, invited Sri Chaitanya to his home with the deepest
-respect. Bringing the Lord home, he washed His feet and drank that water together with his household. Then, having fed
-Sri Chaitanya, Venkata Bhatta humbly addressed Him: ‘Prabhu! Chaturmasya has already begun. Please be merciful to me and
-stay in my home for the whole of this rainy season. Mercifully deliver me by granting me the chance to hear Krishna-katha
-from Your lips.’ So Sri Chaitanya stayed in that house for the four months of the rainy season, happily spending His
-days in discussing with Venkata Bhatta the various aspects of the spiritual rasas with Krishna.” (CC, Madhya 9.79–86)
+“At Papanashana He had darshana of Vishnu, and then He went to Sri Ranga-kshetra. He bathed in the Kaveri and saw Ranganatha. Offering prayers and obeisances, He felt His purpose fulfilled. Absorbed in love, He sang and danced a great deal, and all the people who saw it were amazed. A Sri Vaishnava named Venkata Bhatta respectfully invited the Lord. He brought the Lord to his house and washed His feet, and he and his whole family drank that water. After serving Him a meal, he made a request: ‘O Lord, the Chaturmasya is at hand. Be merciful and stay in my house for Chaturmasya. Speak about Krishna and mercifully deliver me.’ The Lord stayed in his house, relishing talks about Krishna, and happily spent the four months with the Bhatta.” (CC, Madhya 9.79–86)
 <!-- F10 Q2 -->
 
 Papanashana, where the Lord saw Vishnu, lies four kroshas south-west of Kumbhakonam. According to one account, Venkata,
@@ -137,10 +129,7 @@ own special contribution to Gauranga's pastimes — received from the Lord a pro
 
 The four months passed.
 
-“Thus the four months of the rainy season came to an end, and with Venkata Bhatta's consent Sri Chaitanya continued His
-journey through South India, visiting the temple of Sri Ranganatha before leaving. Venkata Bhatta followed the Lord a
-long way, unwilling to return home. Sri Chaitanya had to make great efforts to convince him that the time had come to
-part.” (CC, Madhya 9.164–165)
+“When the Chaturmasya was over, the Lord took the Bhatta's leave, saw Sri Ranga and went on to the south. The Bhatta went along with Him and would not go home; only with great effort did the Lord send him back.” (CC, Madhya 9.164–165)
 
 The three brothers and the boy Gopala fainted in separation; the house of the Bhattas drowned in tears. Gopala fell
 senseless at the Lord's feet, and the Lord, embracing him, said: “Your desire will be fulfilled: you will come to
@@ -300,8 +289,7 @@ sons — Harinatha, Mathuranatha and Harirama. Today the service of Radha-ramana
 When the Deity Gopala (Shrinathji) stayed for a month in Mathura with Vitthalanatha (Vitthaleshvara), Rupa came there
 with his closest companions to see and serve Him, and in that list of companions Gopala Bhatta is named first:
 
-“He was accompanied by Gopala Bhatta Gosvami, Raghunatha Dasa Gosvami, Raghunatha Bhatta Gosvami and Lokanatha Dasa
-Gosvami.” (CC, Madhya 18.49) <!-- F79 Q28 -->
+“With him were Gopala Bhatta, Raghunatha Dasa, Raghunatha Bhatta Gosani and Lokanatha…” (CC, Madhya 18.49) <!-- F79 Q28 -->
 
 The other Gosvamis remembered him with love. Jiva, at the beginning of the “Shat-sandarbha”, calls him “Bhatta-pada,
 the friend of Rupa and Sanatana, born in a family of southern brahmanas”, and in the introduction to the
@@ -457,7 +445,7 @@ side. Seeing him, the Lord, His heart melting with compassion, placed His lotus 
 The “Chaitanya-charitamrita”, too, names the Lord's host as Trimalla in one place and Venkata in another, without
 stating their relationship or naming Gopala:
 
-“During the rainy season the Lord spent four months as the guest of the brahmana Trimalla Bhatta.” (CC, Madhya 1.108)
+“The Lord lived in the house of Trimalla Bhatta and stayed there for the four months of the rains.” (CC, Madhya 1.108)
 
 This rather shows that the house was one and the brothers lived together: the Kaviraja recalled one brother in one
 place and the other in another (CC, Madhya 1.108–110; 9.82–165). The “Prema-vilasa” of Nityananda Dasa mentions Gopala

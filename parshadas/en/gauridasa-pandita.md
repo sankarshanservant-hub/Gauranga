@@ -130,8 +130,7 @@ Nitai should stay — and so it came to pass[^8]. The motif of the choice is alr
 wish, those two keep in your house.” The tradition sees in what happened a confirmation of the words of the
 “Charitamrita”:
 
-“His name, His form and the nature of His personality make up one indivisible truth. Between these three aspects of the
-Absolute there is no difference — their nature is equally spiritual and blissful”. (CC, Madhya 17.131)
+“The name, the form (*vigraha*) and the essential nature (*svarupa*) are one. There is no difference among the three: all three are forms of consciousness and bliss.” (CC, Madhya 17.131)
 
 The name, the Deity and the Lord Himself are one; all three are spiritual. <!-- F36 F37 Q9 I2 -->
 

@@ -76,9 +76,7 @@ alms in his house and ceaselessly chanting the Name. Haridasa glorified the holy
 Govardhana and Hiranya as well. The boy Raghunatha, who came to Balarama for his studies, saw Haridasa every day, kept
 his company and won his mercy:
 
-“At that time Raghunatha Dasa, the son of Govardhana, was still a boy and studied at school. Every day he came to see
-Haridasa Thakura. Haridasa Thakura showed him great mercy. This blessing of a great Vaishnava became the cause of his
-attaining the lotus feet of Sri Chaitanya Mahaprabhu.” (CC, Antya 3.168–169)
+“Raghunatha Dasa, then a boy at his studies, would go to see Haridasa Thakura. Haridasa bestowed his mercy upon him, and that mercy became the cause of his attaining Chaitanya.” (CC, Antya 3.168–169)
 
 From childhood he was indifferent to wealth. <!-- F12 F88 Q24 F89 -->
 
@@ -87,9 +85,7 @@ Raghunatha first saw Mahaprabhu in Shantipura, where the Lord came after taking 
 Govardhana faithfully served Advaita, and Advaita saw to it that the young man received the remnants of the Lord's meals
 for all the days that He stayed in Shantipura:
 
-“Raghunatha Dasa's father always respectfully served Advaita, and Advaita was well disposed towards his whole family.
-So Raghunatha stayed in Advaita's house and had the chance for about a week to serve Sri Chaitanya and to taste the
-remnants of Mahaprabhu's meals.” (CC, Madhya 16.225–226)[^5]
+“His father always served the Acharya, and so the Acharya was gracious to him. By the Acharya's grace he received the Lord's plate of remnants, and for five or seven days he saw the Lord's feet.” (CC, Madhya 16.225–226)[^5]
 
 Raghunatha begged to be accepted as a servant in Nilachala. Advaita, who knew his father by his generous gifts, presented
 the young man to the Lord, and the Lord told him to wait until He returned from Vrindavana. Thus, the biographers say,
@@ -103,10 +99,7 @@ In 1513 Mahaprabhu, having gone as far as Kanai-Natyashala, turned back and came
 persuaded his father to let him go to Advaita; his father agreed — with a large retinue and on condition that he return
 soon. The Lord said to the young man:
 
-“Go back home and be patient. And do not behave like a madman any more. Only gradually, step by step, can one cross the
-boundless ocean of worldly existence. Do not make a show of false renunciation, like a monkey. Accept material
-enjoyments properly, but do not become attached to them. Keep faith in your heart, and outwardly act like an ordinary
-man. And very soon Krishna will free you.” (CC, Madhya 16.237–239)
+“‘Be steady and go home; do not act like a madman. Step by step a person reaches the shore of the ocean of material existence. Do not make a show of monkey renunciation (*markata-vairagya*) for people to see. Accept worldly things as is fitting, but without attachment. Keep firm faith within, and outwardly behave as people do in the world. Very soon Krishna will deliver you.’” (CC, Madhya 16.237–239)
 
 Raghunatha returned home and began to carry out his duties without attachment, and his parents relaxed their watch.
 <!-- F92 Q25 -->
@@ -128,10 +121,7 @@ Meanwhile his father was arranging his marriage to a very beautiful girl. But he
 Vrindavana to Puri, Raghunatha again began to long for Him. A year passed; again and again he tried to run away, and
 each time he was caught. His mother asked that he be tied up, but Govardhana answered:
 
-“‘Our son is as rich as Indra, the king of heaven. His wife is as lovely as a heavenly dancer. Yet none of this could
-bind his mind or his heart. How then can we hold him by binding him with mere ropes? A father can give birth to a son,
-but he cannot undo the results of past deeds. Sri Chaitanya has lavished His causeless mercy upon him. Who can hold back
-a madman gone mad for lotus-eyed Chaitanya?’” (CC, Antya 6.39–41) <!-- F94 Q31 -->
+“‘Wealth like Indra's and a wife like an *apsara* — all this could not bind his mind. How will you keep him with ropes? A father who gives birth cannot annul *prarabdha*, the fruit of past deeds that has begun to ripen. Chaitanyachandra's mercy has come upon him. Who can hold back one whom Chaitanya Prabhu has made mad?’” (CC, Antya 6.39–41) <!-- F94 Q31 -->
 
 ## Panihati: The Chida-dadhi Festival
 Learning that Nityananda Prabhu was in Panihati, Raghunatha went there with his father's permission. Nityananda was
@@ -139,8 +129,7 @@ sitting under a tree on the bank of the Ganga amid His companions; Raghunatha fe
 learning who it was, called him over, placed His feet on his head and announced to him a mercy in the guise of
 “punishment”:
 
-“‘You do not come close, but keep your distance like a thief. But I have caught you and shall punish you today. I want
-you to feed all My companions yogurt and flat rice.’ Hearing these words, Raghunatha became inexpressibly happy.” (CC,
+“‘You do not come near, thief; you keep running far away. Today I have caught you, and I will punish you. Feed My associates *dadhi* and *chida*, yogurt and flat rice.’ Hearing this, Raghunatha's heart filled with joy.” (CC,
 Antya 6.50–51) <!-- F95 Q26 -->
 
 So began the festival that to this day is called the “Panihati chida-dadhi mahotsava” — the great festival of flat rice
@@ -155,12 +144,7 @@ is celebrated on Gaura-trayodashi of the month of Trivikrama. <!-- F95 F96 F97 -
 The next morning Raghunatha asked through Raghava how he might gain his freedom. Nityananda again placed His feet on his
 head and said:
 
-“‘Because you arranged this great feast on the bank of the Ganga, Sri Chaitanya Himself came here to show you His favour.
-Granting you special mercy, He tasted the flat rice with milk. And in the evening, having delighted in the dancing of the
-sankirtana, He partook of wonderful prasada. Gaurachandra Himself came to save you. From now on everything that hindered
-and bound you is removed by His sweet will. Sri Chaitanya will entrust you to the care and protection of His closest
-servant, Svarupa Damodara. Thus you will gain the shelter of His lotus feet. Go home with this assurance. And very soon
-you will gain, without any hindrance, the shelter of Sri Chaitanya Mahaprabhu.’” (CC, Antya 6.139–143)
+“‘Gaura came to this picnic on the riverbank that you arranged, to show you mercy. In His mercy He ate *chida* with milk, and at night, after watching the dancing, He partook of the prasada. Gaura came Himself to deliver you. All your bonds — obstacles and the rest — have been loosed. He will entrust you to Svarupa and keep you at His feet, calling you His intimate servant. Go home free from care. Soon, without obstacles, you will attain the feet of Chaitanya.’” (CC, Antya 6.139–143)
 
 Through Raghava, Raghunatha offered a generous dakshina to Nityananda and His companions and went home. From then on he
 no longer entered the inner apartments and slept in the Durga-mandapa, while the guards still watched him.
@@ -179,20 +163,14 @@ servants caught up with Shivananda at Jhankra, but Raghunatha was not among the 
 He reached Puri in twelve days and in all that time ate only three times. Mukunda Datta announced his arrival to the
 Lord. Mahaprabhu embraced him and said:
 
-“Sri Chaitanya said: ‘The mercy of Krishna is mightier than anything in the world. Now the Lord has freed you from the
-cesspit of worldly pleasures.’” (CC, Antya 6.193)
+“The Lord said, ‘Krishna's mercy is mightier than all else: it has snatched you out of the cesspit of worldly life.’” (CC, Antya 6.193)
 
 And Raghunatha thought to himself: “Not Krishna — it was You who pulled me out.” <!-- F100 Q28 -->
 
 ## “Svarupa's Raghu”
 The Lord went on, joking about Govardhana and Hiranya:
 
-“Your father and uncle are like worms burrowing in the refuse pit of materialistic pleasures, taking for happiness the
-torments caused by the poison of these worldly delights. Although they give charity and help all the brahmanas, they are
-not pure Vaishnavas, but ‘almost’ Vaishnavas. Understand that the craving for enjoyment is the cause of great blindness
-and of delusion about our true spiritual self. This ignorance entangles one in karma and in the round of endless births
-in this world of death. And Krishna has saved you from this mire of worldly pleasures. Who can describe all the might
-and glory of Krishna's mercy?” (CC, Antya 6.197–200)
+“‘Your father and uncle are worms in the cesspit of worldly stool: the great torment caused by the poison of sense objects they take for happiness. Though they are devoted to brahmanas and help them, they are not pure Vaishnavas — only “almost Vaishnavas”. Still, it is the nature of worldly things to make one utterly blind; they make one do the very acts that bind one to the world of birth and death. From such worldliness Krishna has delivered you. The glory of Krishna's mercy is beyond words.’” (CC, Antya 6.197–200)
 
 Seeing their attachment to property, the Lord did not hesitate to speak so even of those whom He called “grandfather.”
 Srila Bhaktisiddhanta Sarasvati explains: Krishna's mercy is stronger than karma; the Lord knew that Raghunatha was free
@@ -202,8 +180,7 @@ Raghunatha to leave his parents, and the other, Raghunatha Bhatta, to serve his 
 
 Seeing how thin and dusty the young man had grown on the road, the Lord entrusted him to Svarupa Damodara:
 
-“‘I give Raghunatha Dasa wholly into your care. Please accept him as your son or servant. From now on there are three
-Raghunathas in My circle. So let this Raghunatha be known as Svarupa Damodara's Raghu.’” (CC, Antya 6.202–203)
+“‘I entrust this Raghunatha to you. Accept him as your son and your servant. There are three named Raghunatha with Me; from today this one shall be called “Svarupa's Raghu”.’” (CC, Antya 6.202–203)
 
 So, to distinguish him from Raghunatha Vaidya and Raghunatha Bhatta, he came to be called “Svarupa's Raghu.” The Lord
 told Govinda to look after him. Having bathed in the ocean and had darshan of Jagannatha, Raghunatha for five days ate
@@ -211,14 +188,7 @@ the remnants of the Lord's meals that Govinda brought him. On the sixth day he s
 offering of flowers (pushpanjali) he would stand at the Lion Gate and beg mahaprasada from the servitors coming out of
 the temple. Hearing of this, the Lord was pleased:
 
-“Hearing this, Sri Chaitanya was very pleased and said: ‘He has done rightly in accepting the dharma of renunciation as
-his lot. One who has renounced the world can constantly chant the holy names of God. And he can maintain his life by
-humbly begging alms. One who has given up everything worldly must not depend on others in anything. Otherwise he will
-not succeed on the spiritual path, and Krishna will not grant him His mercy. If one who has renounced the world seeks
-to please his tongue, he gradually forgets his spiritual life and becomes a slave of his worldly cravings. The duty of
-a renounced monk is to chant the holy names of God unceasingly. He should eat only what comes to him without effort:
-vegetables, greens, fruits and roots. But one who everywhere seeks only the pleasure of the tongue, the belly or the
-genitals will never attain Krishna.’” (CC, Antya 6.222–227) <!-- F102 Q30 -->
+“Hearing this, the Lord was pleased, and at one point He said, ‘He has done well: he has followed the dharma of a renunciant. A renunciant should always chant the holy name in sankirtana, and he should keep himself alive by eating what he begs. If one who has become a renunciant depends on others, he does not reach the goal, and Krishna neglects him. If one who has become a renunciant indulges the craving of the tongue, he loses the highest goal and falls under the sway of tastes. The duty of a renunciant is always to chant the holy name in sankirtana and to fill his belly with greens, leaves, fruits and roots. One who runs here and there out of the tongue's craving, devoted to the genitals and the belly, does not attain Krishna.’” (CC, Antya 6.222–227) <!-- F102 Q30 -->
 
 Srila Bhaktisiddhanta observes that the rites of the “Hari-bhakti-vilasa” are prescribed for wealthy householders,
 whereas a renunciant who has taken shelter of the holy name has no duty other than kirtana and remembrance (smarana).
@@ -227,9 +197,7 @@ whereas a renunciant who has taken shelter of the holy name has no duty other th
 Raghunatha never addressed the Lord directly — he made his requests through Govinda or Svarupa. When Svarupa asked on
 his behalf what his duty was, the Lord told him to learn from Svarupa, and Himself gave only a brief instruction:
 
-“Do not listen to worldly talk and do not discuss worldly affairs and news. Do not eat rich food and do not wear costly
-clothes. Treat everyone with respect, but expect no respect from others for yourself. Chant the holy names of Krishna
-all the time, and in your mind worship the divine couple Sri Sri Radha-Krishna in Vrindavana.” (CC, Antya 6.236–237)
+“Do not listen to worldly talk, and do not speak of worldly matters. Do not eat fine food, and do not wear fine clothes. Seeking no honour yourself and giving honour to others, always chant the name of Krishna, and within your mind serve Radha and Krishna in Vraja.” (CC, Antya 6.236–237)
 
 So the young man who had given up wealth like Indra's and a beautiful wife, against the efforts and pleas of his
 parents, who were devoted to their own dharma, came to Nilachala by the mercy of Nityananda. Becoming “Svarupa's Raghu” — the ward of Svarupa, Mahaprabhu's
@@ -244,10 +212,7 @@ After two years he stopped. The Lord asked Svarupa why, and Svarupa explained: R
 with a worldly man's money pollutes the mind and that the Lord had accepted it only out of mercy to him. The Lord
 approved:
 
-“‘The food of worldly people pollutes the mind, and in such a polluted state it is simply impossible to remember Krishna
-properly. Worldly feasts are in the mode of passion. They can pollute the mind both of the one who invites and of the
-one who accepts the invitation. All this time I accepted only Raghunatha's intense eagerness. And it is very good that,
-understanding this, he himself stopped inviting Me.’” (CC, Antya 6.278–280) <!-- F104 Q31 -->
+“‘When one eats the food of worldly men, the mind becomes impure, and when the mind is impure, one cannot remember Krishna. An invitation with the food of worldly men is *rajasic*: the minds of both the giver and the eater become impure. Out of regard for him I accepted them all these days. It is good that he has understood this and given them up himself.’” (CC, Antya 6.278–280) <!-- F104 Q31 -->
 
 Srila Bhaktisiddhanta and Srila Bhaktivinoda explain: a worldly man's money offered to Hari, guru and the Vaishnavas
 only increases his worldly prestige, while food from worldly people and sahajiyas pollutes the mind and robs one of the
@@ -289,17 +254,14 @@ Raghunatha's renunciation grew ever stricter. At night, by the Lion Gate, he gat
 away unsold, after the rice had begun to rot. He washed it with water down to the firm core and ate it with salt. Once
 Svarupa asked for a little for himself, and when the Lord learned of it, He came in person:
 
-“‘What delicious treats you eat! But why don't you share them with Me?’ Saying this, He forcibly took a handful of that
-rice and ate it. When Sri Chaitanya took another handful, Svarupa Damodara snatched the stale rice from Him, saying:
-‘It is not fitting for You to eat this.’” (CC, Antya 6.322–323)
+“‘You all eat such excellent things — why do you not give Me any?’ Saying this, He ate a mouthful. As He was taking another mouthful, Svarupa caught His hand, and saying, ‘This is not fit for You,’ snatched it away by force.” (CC, Antya 6.322–323)
 
 (On this episode and the lesson drawn from it, see the article on Svarupa Damodara.) <!-- F108 Q31 -->
 
 For more than twenty-one hours a day Raghunatha chanted the name and remembered the Lord, leaving an hour and a half for
 sleep and food. He never touched anything tasty and wore torn cloth and an old blanket. Krishnadasa Kaviraja concludes:
 
-“Can anyone count the innumerable virtues of Raghunatha Dasa? All the principles of spiritual life that he strictly
-followed were as if carved in stone.” (CC, Antya 6.309) <!-- F107 F18 Q3 -->
+“Who can write of Raghunatha's endless qualities? His rules of life were like lines cut in stone.” (CC, Antya 6.309) <!-- F107 F18 Q3 -->
 
 ## Keeper of Svarupa's Treasury
 Raghunatha lived in Puri under Svarupa's care for sixteen years[^6] — until the very departure of the Lord and Svarupa.
@@ -313,15 +275,11 @@ Vakreshvara to Gopala Guru; and Gopala Guru, by one account, himself studied ras
 
 Kaviraja says plainly how he knows of the Lord's last pastimes:
 
-“The pastimes of Sri Chaitanya are like the most beautiful jewels. Svarupa Damodara keeps them in the treasury of his
-heart. He bestowed this knowledge on Raghunatha Dasa, and he retold it to me. All that I heard from him I have described
-in this book, which I dedicate to all the devotees.” (CC, Madhya 2.84)
+“Svarupa held in his treasury the jewel-like essence of Chaitanya's pastimes, and he placed it in Raghunatha's throat. The little I heard from Raghunatha I have expanded here, and I give it to the devotees as a gift.” (CC, Madhya 2.84)
 
-“Sri Raghunatha Dasa Gosvami was always near Sri Chaitanya. I write only what I heard from him. Though all these
-pastimes seem incredible, I believe in them with all my heart.” (CC, Antya 14.83)
+“Raghunatha Dasa always stayed with the Lord. I write what I heard from his own lips, with full faith in it.” (CC, Antya 14.83)
 
-“I personally heard from the lips of Sri Raghunatha Dasa Gosvami what Svarupa Damodara Gosvami told of the wonderful
-pastimes of Sri Chaitanya.” (CC, Antya 3.267) <!-- Q7 F28 -->
+“The pastimes that Svarupa Gosani recorded in his notebook (*kadacha*), and all that I heard from the mouth of Raghunatha Dasa…” (CC, Antya 3.267) <!-- Q7 F28 -->
 
 It is clear, too, that Kaviraja unfolded his book from the verses of Raghunatha's two hymns to the Lord, the
 “Shachisunu-ashtaka” and the “Gauranga-stava-kalpataru”; in the “Chaitanya-charitamrita” he himself refers to the

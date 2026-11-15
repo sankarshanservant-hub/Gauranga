@@ -55,11 +55,11 @@ When Mahaprabhu, travelling through South India and giving out the name of Krish
 Ranganatha resides, He stayed through the four months of the rains — the chaturmasya — in the brothers' house[^5]. This was in
 Shaka 1433 (about 1511), in the month of Ashadha[^6]. The “Chaitanya-charitamrita” names the master of the house:
 
-“A Shri Vaishnava named Venkata Bhatta invited Sri Chaitanya to his home with the deepest reverence.” (CC, Madhya 9.82)
+“A Sri Vaishnava named Venkata Bhatta respectfully invited the Lord.” (CC, Madhya 9.82)
 
 And in the brief summary of the southern pastimes it says:
 
-“During the rainy season the Lord spent four months as the guest of the brahmana Trimalla Bhatta.” (CC, Madhya 1.108)
+“The Lord lived in the house of Trimalla Bhatta and stayed there for the four months of the rains.” (CC, Madhya 1.108)
 
 Prabodhananda himself the “Charitamrita” does not name — neither here nor anywhere else; why, will be told below. His
 life beside the Lord is described by later books — the “Bhakti-ratnakara,” the “Prema-vilasa,” the “Anuraga-valli.” By

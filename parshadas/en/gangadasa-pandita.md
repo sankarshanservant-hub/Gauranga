@@ -238,7 +238,7 @@ Having taken sannyasa, the Lord came to Shantipura, to the house of Advaita Acha
 hastened there to Him, Gangadasa among them[^7]. The “Charitamrita” names him among those who were there with the
 Lord:
 
-“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari and Shuklambara were there.” (CC, Madhya 3.153)
+“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari, Shuklambara…” (CC, Madhya 3.153)
 <!-- F49 -->
 
 When the Lord settled in Puri, Gangadasa was among the earliest devotees from Bengal who set out to see Him there,
@@ -247,18 +247,16 @@ Jagannatha is hidden from view (anavasara), and Mahaprabhu, unable to bear the s
 Alalanatha; but on learning that the devotees from Gauda had come, He returned at once. King Prataparudra and
 Sarvabhauma watched the arriving Vaishnavas from the palace roof, and Sarvabhauma named each one to the king:
 
-“And this is Acharyaratna, Purandara Pandita, Gangadasa Pandita and Shankara Pandita.” (CC, Madhya 11.85)
+“This is Acharyaratna, that is Purandara Pandita; this is Gangadasa Pandita, that is Shankara Pandita.” (CC, Madhya 11.85)
 <!-- F50 F51 F52 Q14 -->
 
 The Lord came out to meet His devotees and, before the eyes of the people of Puri, honoured each one:
 
-“Thus Sri Chaitanya embraced and respectfully glorified all His devotees, such as Acharyaratna, Vidyanidhi, Pandita
-Gadadhara, Gangadasa, Hari Bhatta and Acharya Purandara.” (CC, Madhya 11.159–160) <!-- F53 Q15 -->
+“Acharyaratna, Vidyanidhi, Gadadhara Pandita, Gangadasa, Hari Bhatta and Acharya Purandara — the Lord sang the virtues of each of them, embraced them again and again, and so honoured them.” (CC, Madhya 11.159–160) <!-- F53 Q15 -->
 
 At the Ratha-yatra Mahaprabhu divided the devotees into seven kirtana groups:
 
-“Advaita Acharya was appointed the dancer of the first group. Then the Lord formed the second group, in which the lead
-singer was Srivasa.” (CC, Madhya 13.38)
+“He ordered Advaita to dance there. Then He formed another group with Srivasa as the leader…” (CC, Madhya 13.38)
 
 To sing the responses to Srivasa, according to the “Charitamrita,” were Gangadasa, Haridasa, Shriman, Shubhananda and
 Sri Rama Pandita, and the dancer of this group was Sri Nityananda (Madhya 13.39)[^8]. In each of the seven groups the

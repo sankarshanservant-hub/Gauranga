@@ -97,7 +97,7 @@ As Nityananda's companion, Dhananjaya shared His labours in Gauda. According to 
 among Nityananda's companions at the chida-dadhi festival in Panihati, when Raghunatha Dasa fed everyone flat rice with
 yogurt:
 
-“Dhananjaya, Jagadisha, Parameshvara Dasa, Mahesha, Gauridasa and Hoda Krishnadasa.” (CC, Antya 6.62)
+“Dhananjaya, Jagadisha, Parameshvara Dasa, Mahesha, Gauridasa, Krishnadasa Hoda…” (CC, Antya 6.62)
 
 His name also appears in the list of Nityananda's servants in the “Chaitanya-bhagavata” (Antya 5) — the very verse
 quoted above — and in the Bengali “First Vandana,” which is ascribed to Vrindavana Dasa and repeats that list. <!-- F39 -->

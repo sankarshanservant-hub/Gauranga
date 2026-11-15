@@ -258,16 +258,14 @@ towards Him Whose mercy is free of pretence you are false — otherwise how coul
 (“Chaitanya-chandrodaya,” Act 4, v. 29). And when the Lord came to Shantipur, Vidyanidhi was among the devotees who
 gathered to Him at Advaita's house:
 
-“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari and Shuklambara were there.” (CC, Madhya 3.153)
+“Srivasa, Ramai, Vidyanidhi, Gadadhara, Gangadasa, Vakreshvara, Murari, Shuklambara…” (CC, Madhya 3.153)
 <!-- F80 F77 -->
 
 ## In Nilachala
 When the Lord settled in Puri, the Vaishnavas of Gauda came to Him every year and stayed there for four months;
 Vidyanidhi was among them:
 
-“The other devotees, headed by Advaita, Nityananda, Vidyanidhi, Mukunda, Vasudeva, Murari and Srivasa, came to Sri
-Chaitanya every year and stayed in Nilachala for four months. With them Sri Chaitanya enjoyed a multitude of His
-beautiful pastimes.” (CC, Madhya 1.255)[^11]
+“Advaita, Nityananda, Mukunda, Srivasa, Vidyanidhi, Vasudeva, Murari and all His other servants came together every year and stayed four months, and with them the Lord enjoyed many kinds of pastimes.” (CC, Madhya 1.255)[^11]
 
 One of the biographies remarks that Krishnadasa Kaviraja names him among the leaders of the pilgrims. And listing those
 who set out from Gauda for Nilachala in the third year, the “Charitamrita” says:
@@ -370,9 +368,7 @@ keep them at home” (CB, Antya 10.126–135). All these “faults” are seen o
 
 The “Charitamrita” tells of this briefly:
 
-“That night Jagannatha and Balarama came to him in a dream and, smiling, slapped him on the cheeks. Although his cheeks
-were swollen, Pundarika Vidyanidhi rejoiced in the depths of his heart. All this has already been described in detail
-by Vrindavana Dasa Thakura.” (CC, Madhya 16.80–81) <!-- Q16 -->
+“That night Jagannatha and Balai came to him, and the two brothers slapped him, laughing all the while. His cheeks swelled, but the Acharya (Vidyanidhi) rejoiced at heart. Vrindavana Dasa has described this in detail.” (CC, Madhya 16.80–81) <!-- Q16 -->
 
 Vidyanidhi in fear laid his head at the Lord's feet and wept: “Forgive all the offences of this sinner! You have
 punished the mouth with which I laughed at Your servants — and You did well. Today is a happy morning: Your hands have
@@ -466,8 +462,7 @@ or the place of his departure; nor is the day of his departure in our calendar.
     Bhaktisiddhanta reads this verse (*puṇḍarīkākṣo*), while our edition has *puṇḍarīkākhyaḥ*, “named Pundarika.” Srila
     Bhaktisiddhanta, in his commentary on the “Chaitanya-bhagavata” (Adi 2.36–37), writes that Pundarika is also known
     as Premanidhi and Acharyanidhi; so one of the biographies too understands the list of Bengali devotees who carry the
-    holy name to the world: “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara,
-    Vakreshvara” (CC, Antya 7.48). The “Charitamrita” itself does not explain who Acharyanidhi is; the name also stands
+    holy name to the world: “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara…” (CC, Antya 7.48). The “Charitamrita” itself does not explain who Acharyanidhi is; the name also stands
     in its other lists — Madhya 10.82, 12.157; Antya 10.4, 10.120, 10.139.
 [^2]: The “other opinion” about Shuklambara is repeated after Srila Bhaktisiddhanta by one of the biographies as well.
 [^3]: So also two biographies. The “Gaura-ganoddesha-dipika” (57) says: “A special manifestation of him is considered

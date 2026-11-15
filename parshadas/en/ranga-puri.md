@@ -48,10 +48,7 @@ house of Jagannatha Mishra. One of the biographies places this visit at the time
 initiated Advaita Acharya. The mistress of the house, Shachi, cooked for the sannyasis a ghanta of banana flowers
 (mocha-ghanta), and many years later, at Pandharpur, Ranga Puri recalled it in conversation with the Lord:
 
-“Sri Madhavendra Puri’s disciple Sri Ranga Puri had come to the town of Nadia before. He had taken alms in the house
-of Jagannatha Mishra and had eaten there a wonderful ghanta of banana flowers. Jagannatha’s brahmani was a great and
-chaste wife; in her motherly affection she was like the mother of the world. In cooking she was so skilled that there
-was none like her in the three worlds, and she fed the sannyasis with the affection she had for her sons.” (CC, Madhya
+“Sri Ranga Puri, the disciple of Sri Madhava Puri, had once come to the town of Nadiya. He recalled the meal he had taken in the house of Jagannatha Mishra and the wonderful curry of banana flowers he had eaten there. ‘Jagannatha's wife is a great and chaste lady; in her motherly love she is like the mother of the world. In all the three worlds no one equals her skill in cooking, and when she feeds sannyasis she loves them as her own sons.’” (CC, Madhya
 9.295–298)
 
 The “Charitamrita” does not call her by name — only “Jagannatha’s brahmani” — but it is, of course, Shachi. “Like
@@ -68,17 +65,13 @@ here.[^2] So, according to one of the biographies, Srila Bhaktisiddhanta describ
 
 In the brief summary of the pastimes with which the Madhya-lila opens, Krishnadasa Kaviraja mentions this meeting too:
 
-“Mahaprabhu met Sri Ranga Puri, and freed the vipra Ramadasa from his inner grief.” (CC, Madhya 1.113)
+“There He met Sri Ranga Puri, and He relieved the sorrow of the brahmana Ramadasa.” (CC, Madhya 1.113)
 
 Srila Bhaktisiddhanta, in his “Anubhashya,” makes it a subheading: “The meeting with Sri Rangapuri.” <!-- F11 Q1 -->
 
 Travelling through the South, the Lord came to Pandharpur:
 
-“From there Gaurachandra came to Pandharpur, and seeing Vitthala Thakura He was filled with joy. Absorbed in prema,
-He sang and danced a great deal. There a brahmana invited Him, and with great affection gave the Lord His meal; and
-after the meal the Lord heard there a piece of good news: a disciple of Madhava Puri named Sri Ranga Puri was resting
-in a brahmana’s house in that same village. Hearing this, the Lord went to see him, and found him seated in the
-brahmana’s house.” (CC, Madhya 9.282–286)
+“From there Gaurachandra came to Pandarapura, and seeing Vitthala Thakura, He was filled with bliss. In ecstatic love He sang and danced at length in kirtana, and a brahmana there invited Him. With great affection the brahmana served the Lord a meal, and after the meal the Lord received some good news there. A disciple of Madhava Puri (Madhavendra Puri) named Sri Ranga Puri was staying in a brahmana's house in that village. Hearing this, the Lord set out to see him, and He found him sitting in the brahmana's house.” (CC, Madhya 9.282–286)
 
 Seeing Ranga Puri, the Lord, overwhelmed with love, fell flat before him like a rod, and the signs of prema appeared
 in His body — tears, hair standing on end, trembling and perspiration (CC, Madhya 9.287). The Lord Himself, the Master
@@ -86,8 +79,7 @@ of all, is above every guru; but to set an example for the world He, a sannyasi 
 bowed down before a godbrother of His guru — and so taught us to honour the guru-varga, the circle of one’s elders.
 <!-- F12 F13 F14 Q2 I2 -->
 
-“Sri Ranga Puri was astonished at the sight and said: ‘Rise, Sripada! Sripada, You hold a relation with my Gosani;
-without that, the fragrance of such prema is found nowhere else.’” (CC, Madhya 9.288–289)
+“Seeing this, Sri Ranga Puri was amazed at heart, and he said, ‘Rise, Shripada! Shripada, You must have a connection with my Gosani, Madhavendra Puri; without it there is not even a trace of such love anywhere.’” (CC, Madhya 9.288–289)
 
 So, from the love alone that showed itself in the Lord’s body, Ranga Puri understood that the Lord belonged to his
 guru’s line. <!-- F15 F16 -->
@@ -105,9 +97,7 @@ Madhavendra by dear ties — and to no one else. There is no reproach to the ear
 Vaishnavas, and their line, the Brahma-Madhva sampradaya, is our sampradaya. The point is different: such prema was
 first revealed in this line through Madhavendra — and it is recognised by its fragrance. <!-- F19 Q5 I1 -->
 
-“Saying this, he raised the Lord and embraced Him, and with their arms around each other’s necks the two wept. After
-a moment they put aside their ecstasy and grew composed, and the Lord told him of His relation with Ishvara Puri. A
-wondrous flood of prema welled up in them both; each honouring the other, the two sat down in bliss.” (CC, Madhya
+“Saying this, he raised the Lord and embraced Him, and clasping each other around the neck, they both wept. After a while they came out of their ecstasy and grew calm, and the Lord told him of His connection with Ishvara Puri. A wondrous flood of love welled up in them both. Showing each other respect, they sat down together in bliss.” (CC, Madhya
 9.290–292)
 
 One of the biographies adds that when Ranga Puri learned the Lord was a disciple of Ishvara Puri, his godbrother,
@@ -121,7 +111,7 @@ of his wife. <!-- F20 F21 -->
 ## The News of Vishvarupa
 Remembering that house, Ranga Puri added:
 
-“One worthy son of hers had taken sannyasa; his name was Shankararanya, and he was young in years.” (CC, Madhya 9.299)
+“One worthy son of hers took sannyasa. His name was Shankararanya, and he was young.” (CC, Madhya 9.299)
 
 And here, in this very holy place, he said, Shankararanya had left this world (9.300). According to one
 of the biographies, it was Ranga Puri who first told Mahaprabhu of the departure of Shankararanya — Srila Vishvarupa.
@@ -142,7 +132,7 @@ Shankararanya.[^5] <!-- F27 F28 F29 F32 F33 F34 -->
 
 The Lord replied:
 
-“The Lord said: ‘In My purva-ashrama he was My brother; Jagannatha Mishra, in My purva-ashrama, was My father.’” (CC,
+“The Lord said, ‘In My former *ashrama* he was My brother, and Jagannatha Mishra was My father.’” (CC,
 Madhya 9.301)
 
 Purva-ashrama means “the former ashrama”: so a sannyasi speaks of his life before sannyasa, and here the Lord speaks of
@@ -151,7 +141,7 @@ eternal relationships: Jagannatha Mishra and Shachi are the Lord’s eternal par
 pastimes, and Vishvarupa is Baladeva.[^6] <!-- F24 -->
 
 ## The Parting
-“Thus the two of them spoke together of what was dear to them, and then Sri Ranga Puri set out to see Dvaraka.” (CC,
+“When the two had thus talked together of their Beloved (*ishta-goshthi*), Sri Ranga Puri set out to see Dvaraka.” (CC,
 Madhya 9.302)
 
 The brahmana kept the Lord in Pandharpur another four days: the Lord bathed in the Bhima and went for darshan of

@@ -66,13 +66,7 @@ Mahaprabhu took sannyasa in the month of Magha, came to Puri in Phalguna, delive
 in Chaitra, and in Vaishakha set out for the south; at Nityananda’s insistence He took a servant, Krishnadasa, with Him.
 At parting Sarvabhauma gave Him four kaupinas and outer cloths and earnestly begged:
 
-“In the town of Vidyanagara on the bank of the Godavari lives a man worthy in every respect, named Ramananda Raya.
-Please, be sure to meet him, and do not reject him because by birth he is a shudra. He is the most fit of all to be
-Your associate, for in the whole world there is no rasika devotee like him. He is at once an eminent pandit and the
-greatest knower of bhakti-rasa. If You meet him, You will surely be convinced of it. When I came to know him, I could
-not appreciate the extraordinary spiritual depth of his words and deeds, and I mocked him simply because he was a
-Vaishnava. By Your mercy I can now understand the truth of what he spoke. Speak with him, and You will understand his
-greatness.” (CC, Madhya 7.62–67)
+“‘Ramananda Raya lives on the bank of the Godavari; he is the governor of Vidyanagara. Do not neglect him, thinking him a shudra and a worldly man (*vishayi*). At my request, be sure to meet him. He is the one man worthy of Your company; in all the world there is no devotee who relishes rasa (*rasika*) as he does. In learning and in the rasa of devotion he has reached the limit of both. When You speak with him, You will know his greatness. Not understanding his extraordinary words and actions, I used to mock him, knowing him to be a Vaishnava. By Your grace I now understand who he truly is. Speak with him, and You will see how great he is.’” (CC, Madhya 7.62–67)
 
 Srila Bhaktisiddhanta Sarasvati explains on these verses that outwardly Ramananda was not a sannyasi, but he was
 learned, renounced in substance, a perfect man; and Sarvabhauma, having become a Vaishnava, recognised in him a true
@@ -90,22 +84,17 @@ this was Ramananda Raya himself — the governor of Rajamahendri.[^2] <!-- F16 F
 Ramananda stepped down from the palanquin. Seeing an extraordinary sannyasi — radiant as the sun, in saffron cloth, of
 mighty build, with eyes like lotuses — he ran up and prostrated himself before Him. The Lord, outwardly restraining
 Himself, raised him and asked, “Are you Ramananda Raya?” “I am a wretched shudra, a servant of Your servants,” he
-humbly replied. Then the Lord embraced him tightly, and both, losing outer consciousness, fell to the ground. “Sacred
-mutual love awoke in them. As soon as they embraced, they fell to the ground” (CC, Madhya 8.23). In both appeared all
+humbly replied. Then the Lord embraced him tightly, and both, losing outer consciousness, fell to the ground. “The love natural to both of them awoke; embracing each other, they fell to the ground.” (CC, Madhya 8.23). In both appeared all
 eight spiritual transformations, and from their lips “Krishna” broke out in a faltering voice. The brahmanas were
 bewildered and stood as if painted:
 
-“In this sannyasi we see the effulgence of Brahman. So why does He weep, embracing a shudra? Ramananda Raya is the wise
-governor of Madras and a great pandit. But, having touched this sannyasi, he has lost his composure and begun to
-behave like a madman.” (CC, Madhya 8.26–27) <!-- F20 F21 Q34 -->
+“‘We see that this sannyasi's splendour is like that of Brahman. Why does He weep, embracing a shudra? And this maharaja is a great scholar and a grave man, yet at the touch of this sannyasi he has become maddened and lost all composure.’” (CC, Madhya 8.26–27) <!-- F20 F21 Q34 -->
 
 Seeing outsiders who knew nothing of bhakti, the Lord checked His feelings and said that He had come at
 Sarvabhauma’s request. Ramananda called himself a royal servant, a worldly man, the lowest of shudras and an
 untouchable, and glorified the Lord as One who, having no purpose of His own, comes to deliver the fallen:
 
-“You granted Sarvabhauma such mercy only because of his love for You. And that You have touched me, an untouchable,
-confirms it. You are the Supreme Lord Narayana Himself, while I am only an ordinary official, sunk in worldliness, the
-lowest of shudras. Unafraid of the injunctions of the Vedas, without a trace of aversion You have touched me.” (CC,
+“Your mercy to Sarvabhauma is plain from this: yielding to his love, You have touched an untouchable. Where are You — the Lord Narayana Himself — and where am I — a servant of the king, a worldly man, the lowest of shudras? You did not shrink from touching me, nor did You fear the Vedas, though the Vedas forbid You even to see me.” (CC,
 Madhya 8.34–36) <!-- F22 F23 F117 -->
 
 Meanwhile the hearts of the brahmanas themselves — men of ritual who had never loved bhakti — melted at the sight of
@@ -114,9 +103,7 @@ said that this was possible only by the power of Bhagavan Himself, manifest befo
 alike the Lord is God. Seeing that He had been recognised, the Lord tried to hide behind humble words and began to
 praise Ramananda:
 
-“You are the best of the mahabhagavatas, souls wholly devoted to God,” the Lord said. “The hearts of all people simply
-melt at the sight of you. What to speak of others, when I, a Mayavadi sannyasi, have plunged into an ocean of love for
-Krishna simply by touching you.” (CC, Madhya 8.44–45) <!-- F24 F25 -->
+“You are the best of the mahabhagavatas, souls wholly devoted to God,” the Lord said. “The Lord said, ‘You are the best of the great devotees (*maha-bhagavata*); it is at the sight of you that all their hearts have melted. What to speak of others — I am a Mayavadi sannyasi, yet even I float in love for Krishna at your touch.’” (CC, Madhya 8.44–45) <!-- F24 F25 -->
 
 Just then a Vaishnava brahmana invited the Lord to his home for bhiksha. The Lord expressed His wish to meet again, and
 Ramananda pleaded:
@@ -129,9 +116,7 @@ In the evening, when the Lord had taken bhiksha, bathed and was resting, Ramanan
 So began the conversation that Krishnadasa Kaviraja relates in the eighth chapter of the Madhya-lila, which he opens
 thus:
 
-“Sri Chaitanya Mahaprabhu is like a boundless ocean of knowledge of loving service to God. He filled the heart of
-Ramananda Raya with this nectar and then commanded him to become like a cloud and pour the rain of these life-giving
-truths over that very ocean, thus filling it with the jewels of the highest conclusions.” (CC, Madhya 8.1)
+“Into the cloud that was His devotee named Rama, the ocean Gaura infused the nectar of the many conclusions on devotion to Himself; and when the cloud poured that nectar out, the ocean itself became a treasury of jewels — the knowledge of those truths.” (CC, Madhya 8.1)
 
 The Lord asked and Ramananda answered — but he answered by a power that the Lord Himself had placed in him. So the
 Lord became the questioner and made His devotee the teacher, in order to preach dharma through him. <!-- F26 F118 Q40 I6 -->
@@ -191,8 +176,7 @@ Nilachala.” <!-- F31 F32 -->
 Several nights passed, and one day Ramananda saw the Lord differently. Before, a sannyasi had stood before him — now
 he saw a dark form, and before it a golden figure whose radiance covered His whole body:
 
-“You resemble a golden deity wrapped in golden radiance. I see a flute at Your lips, and Your lotus eyes are ever in
-motion. This form of Yours fills me with wonder. O Lord, reveal to me its cause and hide nothing.” (CC, Madhya
+“‘Before You I see a golden doll, and her golden lustre covers Your whole body. Within it I clearly see Your face with the flute, and Your lotus eyes restless with many moods. Seeing You like this fills me with wonder. Tell me frankly, Prabhu, what is the cause of it?’” (CC, Madhya
 8.268–270)
 
 At first the Lord evaded him: a mahabhagavata, He said, sees his beloved Deity everywhere, and Ramananda simply sees
@@ -202,9 +186,7 @@ Radha and Krishna wherever he looks. But Ramananda would not yield:
 taking the heart and radiance of Radharani, to taste Your own sweetness. <…> You came to save me, and now You are
 trying to deceive me. Why do You act so?” (CC, Madhya 8.277–278, 280) <!-- F33 -->
 
-“Then, with a smile on His lips, Sri Chaitanya Mahaprabhu showed him His form as Krishna and Radharani united in one,
-Rasaraja and Mahabhava, the abode of all spiritual rasas and the highest embodiment of prema. Seeing this, Ramananda
-Raya lost consciousness in bliss and fell to the ground.” (CC, Madhya 8.281–282)
+“Then, smiling, the Lord showed him His own form: Rasaraja and Mahabhava, the two in one form. Seeing this, Ramananda fainted in bliss. Unable to hold himself up, he fell to the ground.” (CC, Madhya 8.281–282)
 
 The Lord restored him to consciousness with the touch of His hand, embraced and comforted him. No one but Ramananda
 had seen this form: to him, who knew all His pastimes and rasas, the Lord disclosed the hidden reasons why Krishna had
@@ -217,8 +199,7 @@ madmen, and in this we are very alike.” (CC, Madhya 8.286–287, 289–290) <!
 
 Ten nights the Lord spent with Ramananda on the Godavari. On leaving, He said to him:
 
-“Give up worldly affairs and come to Jagannatha Puri. When I have finished My pilgrimage, I too shall return there.
-We shall live together in Nilachala, delighting in talks of Krishna.” (CC, Madhya 8.296–297)
+“‘Give up worldly affairs and go to Nilachala. I shall visit the holy places and come there before long. The two of us shall live together in Nilachala and happily pass our time in the joy of talks about Krishna.’” (CC, Madhya 8.296–297)
 
 All these conversations were written down in his diary (kadacha) by Ramananda’s close friend Svarupa Damodara; it was
 from this kadacha that Krishnadasa Kaviraja retold them in detail. <!-- F35 Q4 F36 -->
@@ -267,9 +248,7 @@ permission and set his affairs in order. He promised to come to Puri as soon as 
 In Puri the Lord settled in the house of Kashi Mishra. There Bhavananda came to Him, and the Lord glorified his son
 in his presence:
 
-“Your son Ramananda is like the greatest of jewels. His greatness and glory cannot be described in this mortal world.
-You are Maharaja Pandu himself, your wife is Kunti, and your five wise sons are manifestations of the five famous sons
-of Pandu.” (CC, Madhya 10.52–53)
+“‘The glory of one whose son is a jewel like Ramananda cannot be described in this world. You are Pandu himself, and your wife is Kunti; your five wise sons are the five Pandavas.’” (CC, Madhya 10.52–53)
 
 Bhavananda humbly called himself a lowly shudra sunk in worldliness, surrendered everything at the Lord’s feet and
 gave Him his son Vaninatha for constant service. The Lord kept Vaninatha with Him and said that Ramananda would soon
@@ -324,9 +303,7 @@ bakula tree the Lord met Prataparudra; and then, when the Lord crossed the Chitr
 with Mangaraja and Harichandana. Only at Remuna did the Lord send him back.[^5] That parting cannot be described in
 words:
 
-“Unable to bear the pain of separation, Ramananda Raya lost consciousness and fell to the ground, and Sri Chaitanya
-laid his head on His lap and wept. The Lord Himself could not bear separation from Ramananda Raya. I am simply unable
-to describe such intensity of spiritual feeling.” (CC, Madhya 16.154–155) <!-- F135 F48 Q6 -->
+“Raya fell to the ground unconscious, and the Lord took him on His lap and wept. Raya's grief at parting was unbearable; I cannot describe it.” (CC, Madhya 16.154–155) <!-- F135 F48 Q6 -->
 
 That year the Lord did not reach Vrindavana: at Ramakeli He received Sanatana and Rupa and, returning through
 Shantipura, where He instructed Raghunatha dasa, came back to Nilachala. Among those who met Him then were Kashi
@@ -339,9 +316,7 @@ see Him. <!-- F49 F143 F155 F50 -->
 ## Rupa and Sanatana
 At Prayaga the Lord placed in Sri Rupa’s heart all that He Himself had once heard from Ramananda’s lips:
 
-“There He revealed to Sri Rupa the highest truths about Krishna, teaching him the highest conclusions of the science of
-bhakti and the rasas in full agreement with the ‘Srimad-Bhagavatam’. He told him all those confidential conclusions
-that He had heard before from Ramananda Raya. By His mercy Sri Rupa was able to grasp them perfectly.” (CC, Madhya
+“The Lord taught him everything: the truth of Krishna, the truth of devotion and the truth of rasa to its furthest limit — the conclusions of the *Bhagavata*. All the conclusions He had heard from Ramananda He mercifully infused into Rupa.” (CC, Madhya
 19.115–116)
 
 And later in Kashi, instructing Sanatana, the Lord repeated what had happened on the Godavari, only with the roles
@@ -407,17 +382,13 @@ asked forgiveness for the delay. But the Mishra, having waited long and heard mu
 conduct, had lost faith in him at heart; seeing the late hour, he scarcely spoke and went home. When the Lord asked
 him what he had heard, the Mishra told Him what he had seen and heard. In reply the Lord glorified Ramananda:
 
-“Although Sri Ramananda Raya teaches these girls to express various spiritual emotions, his mind remains calm and
-unmoved. And even touching young girls, his mind and body remain unmoved, as though they were made of wood or stone.
-Truly, this is the wonder of wonders! Only Ramananda Raya can act so. Now it is clear to Me that his body only seems
-material. In reality it is wholly spiritual.” (CC, Antya 5.40–42)
+“Yet the mind of Raya Ramananda remains unmoved as he teaches them to express the stirrings of many different *bhavas*. His body and mind are unmoved, like wood or stone. How wonderful — at the touch of a young woman his mind is unmoved! Ramananda alone has this qualification; from it I know that his body is transcendental.” (CC, Antya 5.40–42)
 
 The Lord also cited the words of the “Bhagavatam”: whoever hears with faith of Krishna’s rasa-lila with the girls of
 Vraja is freed from lust — the disease of the heart — and attains pure love (CC, Antya 5.45–48; Bhag. 10.33.39). And He
 concluded:
 
-“We understand that Sri Ramananda Raya has entered the path of spontaneous love for God, which transcends all rules
-and regulations. And since his whole body is wholly spiritual, his mind too is beyond the influence of maya.” (CC,
+“I know that Raya's worship follows the path of raganuga. His body is like a perfected spiritual body (*siddha-deha*), and so his mind is not mundane.” (CC,
 Antya 5.51) <!-- F59 F60 Q11 -->
 
 Ramananda is an eternally perfect associate of the Lord. For the sake of the pastimes, by Krishna’s will, he shows
@@ -431,10 +402,7 @@ to tell in order all that he had spoken to the Lord in Vidyanagara. Both were ab
 Mishra came to know Ramananda’s greatness; as he left, he broke into a dance of jubilation (CC, Antya 5.67). In the
 evening, having bathed and eaten, he returned to the Lord and said:
 
-“No one can retell the talks with Ramananda Raya. He cannot be considered an ordinary man, for he is full of the
-transcendental rasas of loving devotion to Krishna. Ramananda Raya also told me: ‘You should not think that it is I
-who explain to you the pastimes and qualities of Krishna. Sri Chaitanya Himself speaks through me. I am only like a
-musical instrument (a vina) — He draws from me whatever sounds He Himself desires.’” (CC, Antya 5.71–73) <!-- F62 F63 Q12 -->
+“The words of Ramananda Raya cannot be retold. Raya is not a mere human being; he is made of the rasa of devotion to Krishna. Raya told me one thing more: ‘Do not think of me as the speaker of these talks about Krishna. Gaurachandra Himself speaks these words through my mouth. As He makes me speak, so I speak, like a *vina*.’” (CC, Antya 5.71–73) <!-- F62 F63 Q12 -->
 
 The Lord answered with fresh praise:
 
@@ -442,8 +410,7 @@ The Lord answered with fresh praise:
 nature of great souls who constantly feel loving devotion to Krishna in their hearts — they will never glorify
 themselves.” (CC, Antya 5.77–78)
 
-“Though Ramananda Raya was a family man, he was not subject to the six vices (lust, anger, greed, bewilderment,
-madness and envy). Though he outwardly continued to live in the world, he gave instruction to renounced monks.” (CC,
+“Though a householder, Raya is not under the control of the six enemies (*shad-varga*); though seemingly a worldly man (*vishayi*), he instructs sannyasis.” (CC,
 Antya 5.80) <!-- F64 Q13 -->
 
 Why, then, did the Lord send the Mishra? Kaviraja answers:
@@ -486,12 +453,10 @@ pure rasas of Vrindavana. <!-- F67 F128 Q15 -->
 Others too saw the Lord’s mercy upon Ramananda. His brother Gopinatha Pattanayaka, whom the king pardoned when he was
 already on the scaffold,[^7] said to the Lord:
 
-“You have poured Your mercy in full upon Ramananda Raya and Vaninatha, freeing them from everything worldly. But I have
-not been granted such mercy. Please give me Your pure mercy, ridding me of attachment to the world.” (CC, Antya
+“‘You made Ramananda Raya and Vaninatha free from worldly affairs. But I have not received the mercy that brings this about! Show me pure mercy, Gosani: take away my worldly affairs. I have grown weary of them (*nirvinna*); worldly affairs are not for me.’” (CC, Antya
 9.138–139) <!-- F141 Q35 -->
 
-Ramananda was in Nilachala also when Haridasa Thakura departed: “Before all these great devotees, such as Ramananda Raya
-and Sarvabhauma Bhattacharya, Sri Chaitanya began to glorify the saintly qualities of Haridasa” (CC, Antya 11.50). When
+Ramananda was in Nilachala also when Haridasa Thakura departed: “Before Ramananda, Sarvabhauma and all the others, the Lord began to speak of Haridasa's qualities.” (CC, Antya 11.50). When
 Nityananda came to Nilachala, Ramananda, Svarupa and Haridasa bowed to Him with special reverence. <!-- F129 F155 -->
 
 ## Intimate Companion in Separation
@@ -544,9 +509,7 @@ greatest bliss.” (CC, Antya 15.24, 26–27) <!-- F70 F130 -->
 As daily the Lord relished the songs of Vidyapati and Chandidasa and Bilvamangala’s “Krishna-karnamrita”, so too He
 relished Ramananda’s drama:
 
-“With great happiness, together with Ramananda Raya and Svarupa Damodara, He sang all day and night the songs of
-Chandidasa and Vidyapati, and verses from the ‘Gita-govinda’, the ‘Krishna-karnamrita’ and the
-‘Jagannatha-vallabha-nataka’.” (CC, Madhya 2.77) <!-- F81 Q22 -->
+“With Svarupa and Ramananda, Mahaprabhu night and day sang and heard the songs of Chandidasa and Vidyapati, Raya's drama, the *Karnamrita* and the *Sri Gita-govinda* in supreme bliss.” (CC, Madhya 2.77) <!-- F81 Q22 -->
 
 Once, having received Jagannatha’s vallabha-bhoga, the Lord spoke of the glory of the nectar of Krishna’s lips, and at
 His bidding Ramananda recited verses of the “Bhagavatam” — “surata-vardhanam…” (10.31.14) and “gopyah kim acharad…”
@@ -554,8 +517,7 @@ His bidding Ramananda recited verses of the “Bhagavatam” — “surata-vardh
 “Shikshashtaka”. And through Ramananda and Svarupa He proclaimed to the world that in the age of Kali there is no path
 higher than harinama-sankirtana:
 
-“In jubilation Sri Chaitanya exclaimed: ‘Svarupa, Ramaraya, listen! In the age of Kali the very highest spiritual path
-is nama-sankirtana!’” (CC, Antya 20.8) <!-- F76 Q32 F80 F131 Q38 -->
+“In joy the Lord said, ‘Listen, Svarupa and Ramaraya! In the age of Kali the congregational chanting of the holy name is the supreme means.’” (CC, Antya 20.8) <!-- F76 Q32 F80 F131 Q38 -->
 
 All this lived on in the memory of the Vaishnavas: Ramananda sang and recited verses in tune with the Lord’s mood (CC,
 Madhya 2.77) and was among His constant companions in Puri (CC, Madhya 1.252–254); and when Mahaprabhu, Svarupa,

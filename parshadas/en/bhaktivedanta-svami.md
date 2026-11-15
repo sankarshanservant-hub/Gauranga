@@ -577,8 +577,7 @@ other words of his guru about him: “An ordinary man could not have created suc
 years.” <!-- F107 I7 -->
 
 Srila Bhaktivedanta Swami himself often repeated that no one can preach Krishna consciousness without being empowered
-by Krishna: “In the age of Kali the spiritual practice is the chanting of Krishna’s holy names. Without receiving
-Krishna’s sanction for it, no one can teach sankirtana.” (CC, Antya 7.11) His greatest achievement, “Our Teachers”
+by Krishna: “The dharma of the age of Kali is the sankirtana of Krishna's name. Without Krishna's power no one can propagate it.” (CC, Antya 7.11) His greatest achievement, “Our Teachers”
 says, is that he spread Krishna consciousness throughout the world and founded the International Society for Krishna
 Consciousness, which he charged with carrying Mahaprabhu’s message further — and only one whom the Lord had endowed
 with special mercy could do this. The biographer mentioned earlier likewise sees in him a shaktyavesha-avatara — an

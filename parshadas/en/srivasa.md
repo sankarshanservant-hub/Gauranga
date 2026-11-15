@@ -564,9 +564,7 @@ His meals in his house and in the houses of other householder devotees. <!-- F10
 
 At the Ratha-yatra the Lord divided the devotees into groups:
 
-“Advaita Acharya was appointed the dancer of the first group. Then the Lord formed the second group, in which the lead
-singer was Srivasa. Gangadasa, Haridasa, Shriman, Shubhananda and Sri Rama Pandita were to sing with Srivasa, and the
-dancer was Sri Nityananda.” (CC, Madhya 13.38–39)
+“He ordered Advaita to dance there. Then He formed another group with Srivasa as the leader: Gangadasa, Haridasa, Shriman, Shubhananda and Sri Rama Pandita; and Nityananda danced there.” (CC, Madhya 13.38–39)
 
 The chief singers at the Ratha-yatra were Svarupa Damodara and Srivasa; there were four groups, with six singers and two
 mridangas in each. And when the Lord Himself danced, nine sang for Him, whom He gave to Svarupa Damodara's group: Srivasa,
@@ -581,8 +579,7 @@ stood in ecstasy in front of the king, his eyes fixed on the Lord. Harichandana 
 him to move aside, but Srivasa did not understand; at last, vexed at this hindrance to his service, he slapped
 Harichandana. Harichandana grew angry and wanted to respond, but the king stopped him:
 
-“‘You should be happy that you have been blessed by Srivasa's touch. That good fortune has passed me by, and therefore
-you should be grateful to him.’” (CC, Madhya 13.97)
+“‘You are fortunate: you have received the touch of his hand! Such fortune was not mine, but your life is now fulfilled.’” (CC, Madhya 13.97)
 
 Srivasa is an intimate associate of Gaura, and even a hurt or a blow from such a Vaishnava is good fortune and true
 honour. <!-- F102 I8 Q15 -->
@@ -613,8 +610,7 @@ Once in Nilachala Srivasa and other devotees began to sing the glories of the qu
 Lord grew angry: “You have abandoned the name and qualities of Krishna! You want to show your audacity — you are wilfully
 ruining the world.” At that moment cries rose on every side from countless people:
 
-“All glory to Mahaprabhu Sri Chaitanya, the son of King Nanda! You have descended to deliver this whole world. O Lord, we
-are very unfortunate. We have come from afar to see You. We beg You, shower Your mercy upon us!” (CC, Madhya 1.273–274)
+“‘Glory, glory to Mahaprabhu, the son of the king of Vraja! O Lord, You have descended to deliver the world. We have come from very far away in great distress. O Lord, grant us Your sight and fulfil our lives!’” (CC, Madhya 1.273–274)
 
 The Lord came out to them, and all began to glorify Him as Bhagavan. Srivasa did not miss his chance and reproached Him:
 “Why didn't You stay hidden in the house now? Who taught this crowd to glorify You? Cover all their mouths with Your
@@ -623,9 +619,7 @@ defeated by His devotee. <!-- F106 Q14 I10 -->
 
 Even after the Lord settled in Puri, He still appeared in Bengal:
 
-“The Lord is always attracted by divine love, for such is His nature. Therefore Sri Chaitanya Mahaprabhu always manifested
-Himself in four places: in the household temple of mother Shachi, in the place where Nityananda Prabhu dances, during the
-kirtana of Srivasa Thakura, and in the house of Raghava Pandita.” (CC, Antya 2.34) <!-- F107 F119 Q16 -->
+“In Shachi's house, at Nityananda's dancing, at Srivasa's kirtana and in Raghava's home — in these four places the Lord always appears. He is drawn by prema: that is the Lord's innate nature.” (CC, Antya 2.34) <!-- F107 F119 Q16 -->
 
 Svarupa Damodara was, in the words of Krishnadasa Kaviraja, “the soul of the whole community of devotees headed by
 Srivasa Thakura” (CC, Madhya 10.117). And when the Lord was in Ramakeli, His company included Nityananda, Haridasa,
