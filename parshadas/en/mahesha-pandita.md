@@ -14,7 +14,7 @@ in time became a devotee, nor is it imitation of a cowherd boy: an eternal assoc
 (*sakhya-rasa*), appeared in Gaura-lila together with his Lord Nityananda — the Balarama of Vraja — to serve Him here as
 well. <!-- F1 F2 Q1 -->
 
-In the “Anubhashya” Srila Bhaktisiddhanta Sarasvati calls him the seventh of the twelve gopalas, and the biographies
+In the “Anubhashya” Srila Bhaktisiddhanta Sarasvati counts him seventh among the twelve gopalas, and the biographies
 count him the same way: in the order of the “Gaura-ganoddesha-dipika” he is preceded by Abhirama, Sundarananda,
 Dhananjaya, Gauridasa, Kamalakara and Uddharana.[^1] All twelve are given seats of honour in the Vishva-vaishnava-raja-sabha,
 the assembly of the Vaishnavas of the whole world. The order of names in the lists of gopalas is not always the same,
@@ -33,19 +33,21 @@ Adi 11.32)
 So the biographies count him as a branch both of Sri Chaitanya and of Sri Nityananda.[^3] <!-- F5 Q2 -->
 
 ## Birthplace and Brothers
-Little is known of Mahesha's worldly life. One of the biographies takes present-day Chakdaha in Nadia to be his
+Little is known of Mahesha's family and birthplace. One of the biographies takes present-day Chakdaha in Nadia to be his
 birthplace, but at once adds that there is no reliable evidence for this. <!-- F17 -->
 
-Some hold that he was the youngest brother of Jagadisha Pandita, whose shripata is at Yashara, not far from those
-parts. In this view there were three brothers: Jagadisha the eldest, Hiranya the middle one, and Mahesha the youngest.
-But Srila Bhaktisiddhanta, citing this opinion, remarks that the authoritative books say nothing of such a kinship, “and
-therefore it is doubtful.”[^4] Yet one of the biographies tells it as settled fact: Jagadisha's youngest brother Mahesha
-also wished to live by the Ganges and went with Jagadisha and his wife to Mayapur, where they settled next to the house
-of Sri Jagannatha Mishra.[^5] <!-- F18 F19 -->
+Some hold him to have been Jagadisha Pandita's youngest brother; Jagadisha's shripata is at Yashada, not far from those
+parts. On this view the brothers were three: Jagadisha the eldest, Hiranya the middle one, and Mahesha the youngest.
+Srila Bhaktisiddhanta, writing of Jagadisha, gives the tradition of his shripata at Yashada: when Jagadisha's parents
+had departed from this world, he left his homeland together with his wife Dukhini and his brother Mahesha and settled
+in Mayapur, next to the house of Sri Jagannatha Mishra. But whether that Mahesha is Mahesha Pandita, Mahabahu of
+Vraja, the authoritative books, he remarks, do not say, “and therefore it is doubtful.”[^4] Yet one of the
+biographies tells it as settled fact that it was Mahesha Pandita, his youngest brother, who went to the Ganges with
+Jagadisha and his wife.[^5] <!-- F18 F19 F35 -->
 
 ## Nityananda's Companion
-Mahesha Pandita was a companion (*parshada*) of Sri Nityananda and, in the words of one of the biographies, an especially
-close friend of His. Like all who surrounded Nityananda, he was generous beyond measure and laboured for the deliverance
+Mahesha Pandita was a companion (*parshada*) of Sri Nityananda and, in the words of one of the biographies, a friend
+particularly close to Him. Like all who surrounded Nityananda, he was generous beyond measure and laboured for the deliverance
 of fallen souls. This does not mean that the servant became equal to his Lord: the mercy he gave away was the mercy of
 Nityananda Himself, flowing through His companion. <!-- F20 I1 -->
 
@@ -59,8 +61,10 @@ himself adds that he is especially dear to Nityananda. <!-- F22 Q3 -->
 How he is remembered can be seen from the verse of the “Charitamrita” quoted above: he danced to the beat of the
 kettledrum (*dhaka*), drunk with love. This is the madness of divine love, *prema-unmada*, not worldly frenzy: so the
 eternal friendship of a cowherd boy of Vraja with Krishna shows itself in Gaura-lila. Srila Jiva Gosvami too, in his
-vandana, praises “Mahesha Pandita, overwhelmed by madness for Krishna.” His name also stands in Devakinandana's list of
-Vaishnavas. <!-- F21 I2 F34 -->
+vandana, praises “Mahesha Pandita, overwhelmed by madness for Krishna,” and the Bengali vandanas praise him in the same
+way: Devakinandana Dasa as “a great madman [of love],” and the vandana of the “second” Vrindavana Dasa as “maddened by
+Krishna”; both place him beside Jagadisha Pandita. His name also stands in Devakinandana's list of Vaishnavas.
+<!-- F21 I2 F34 F36 -->
 
 In the “Chaitanya-mangala” Lochana Dasa names Mahesha Pandita among the companions gathered around Gauranga in
 Navadvipa when the Lord was giving away prema: “Sri Rama Pandita and Mahesha Pandita, Haridasa, Nandana Acharya — the
@@ -96,8 +100,8 @@ possible.’” (“Narottama-vilasa” 3.176–178)
 Learning who stood before them, they told Narottama that they had long heard of him: how he had left home for
 Vrindavana, how on the way back the books had been stolen and recovered, how he had come to Navadvipa — “that is why we
 are still alive — to see you with our own eyes” (3.182). Narottama wept and rolled at their feet, and they embraced him,
-bathed him in tears and at last, growing calm, brought him into Prabhu's house, to Vasudha, Jahnava and Virabhadra
-(3.183–186). <!-- F27 F29 I3 -->
+bathed him in tears and at last, growing calm, brought him into Prabhu's house, where Vasudha and Jahnava at once
+called him to them (3.183–187). <!-- F27 F29 I3 -->
 
 For two to four days Narottama was not allowed to leave Khardaha. Virabhadra spoke with him, Parameshvari Dasa showed him
 the road, and when Jahnava gave him leave to go to Nilachala,
@@ -137,13 +141,13 @@ they speak of the place of his samadhi, apart from the memorial altar at the shr
 
 ## The Shripata
 Mahesha Pandita's first shripata was at Masipur (Srila Bhaktisiddhanta adds, not quite certainly: “or Yashipur”), on the
-eastern bank of the Ganges, opposite Jirat. The Ganges swallowed Masipur, and the Deity installed by Mahesha Pandita was
+Ganges' eastern bank, opposite Jirat. The Ganges swallowed Masipur, and the Deity installed by Mahesha Pandita was
 moved for a time to Beledanga near Sukhsagar. When the river ate away Beledanga too, the zamindar of Palpara,
 Navakumara Chattopadhyaya, persuaded the servitor of the day, the babaji Ramakrishnadasa, to bring the Deity to Palpara,
 and built a temple there. His son Rajani Babu in 1883 deeded the temple lands to Harekrishnadasa Babaji; hence the name
 “Palpara-pat.” <!-- F6 F7 F8 -->
 
-Palpara lies in the district of Nadia, in the forest, a mile south of Chakdaha station; the Ganges, as Srila
+Palpara lies in Nadia district, in the forest, a mile south of Chakdaha station; the Ganges, as Srila
 Bhaktisiddhanta writes, is far from here.[^11] This is the pargana of Panchanagar: it has fourteen villages (*mauzas*) —
 Beledanga, Berigram, Sukhsagar, Chandure, Manasapota, Palpara and others — and some call this country “Nagardesh.”
 <!-- F9 -->
@@ -156,7 +160,7 @@ founded by Srila Bhaktisiddhanta the shripata appears as number 22: “Shripata 
 P.O. Chakdaha, Nadia.” <!-- F10 F11 F12 -->
 
 The temple of the shripata is a modest building, like an ordinary dwelling house, and already in the days of the
-“Anubhashya” it was dilapidated. In it reside Sri Gaura-Nityananda, Sri Gopinatha, Sri Madana-mohana, Sri Radha-Govinda
+“Anubhashya” it was dilapidated. In it reside Sri Gopinatha, Sri Radha-Govinda, Sri Madana-mohana, Sri Gaura-Nityananda
 and a shalagrama-shila — the Lord Himself, manifest as the *archa-vigraha* to accept the service of His devotees. Before
 the temple stands the altar of the *phul-samaj*, the “flower tomb” of Mahesha Pandita — a memorial place where his
 presence is honoured.[^13] <!-- F13 F14 F15 -->
@@ -175,7 +179,7 @@ devotees — and on seeing Narottama they found their joy again. <!-- F2 F3 F22 
 
 Let us pray, then, for the mercy of Mahesha Pandita — Mahabahu of Vraja, Krishna's friend and Nityananda's companion.
 
-[^1]: The words “the seventh of the twelve gopalas” stand in the subheading of the “Anubhashya” (“gopala 7”), not in the
+[^1]: The words “seventh among the twelve gopalas” stand in the subheading of the “Anubhashya” (“gopala 7”), not in the
 verse Adi 11.32 itself, though one of the biographies inserts them into its quotation of that verse. In another
 biography the first sentence about the seventh gopala names Gauridasa Pandita instead of Mahesha by a misprint; but it
 is followed at once by the verse of the “Gaura-ganoddesha-dipika” about Mahesha, and Gauridasa is Subala (GGD 128).
@@ -190,8 +194,9 @@ Adi 10.111 do not specify.
 [^4]: One of the biographies ascribes these doubts to Srila Bhaktivinoda Thakura; but his “Amrita-pravaha-bhashya” on this
 chapter says nothing about Mahesha — the doubtful kinship is mentioned in the “Anubhashya” of Srila Bhaktisiddhanta.
 
-[^5]: Srila Bhaktisiddhanta considers this kinship doubtful; other biographies, telling of Jagadisha's move to the house of
-Jagannatha Mishra, name only Hiranya beside him.
+[^5]: In the tradition of the Yashada shripata cited by Srila Bhaktisiddhanta the brother is called simply Mahesha, and
+that he is Mahesha Pandita Srila Bhaktisiddhanta considers doubtful; other biographies, telling of Jagadisha's move to
+the house of Jagannatha Mishra, name only Hiranya beside him.
 
 [^6]: Srila Bhaktisiddhanta and the biographies refer here to the sixth chapter of the Antya-khanda (under a different
 division of chapters); in our text this is Antya 5.744. One of the biographies quotes the verse with the word *mahatma*
@@ -209,7 +214,7 @@ while Narottama came to Gauda only after the Lord's disappearance. They met late
 appears as the only one to see Narottama off; in the “Bhakti-ratnakara” he is only the first of many.
 
 [^10]: One of the biographies places him plainly among the companions who appeared together with the Lord. The
-“Bhakti-ratnakara” (10.611) says that when the unmanifest ones vanished “the manifest ones remained,” but does not say
+“Bhakti-ratnakara” (10.611) tells how, once the unmanifest ones had vanished, “the manifest ones remained,” but does not say
 to which of them Mahesha belonged.
 
 [^11]: One of the biographies (in a quotation from a modern commentary) says, on the contrary, that the Ganges flows
