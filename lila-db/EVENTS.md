@@ -4652,7 +4652,7 @@
 - cc (A): Ади 7.163–164 — [163–164](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi07.md?plain=1#L1650-L1660) · `cc-0085`
 - cc (A): Мадхья 1.241–243 — [241–243](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya01.md?plain=1#L2479-L2499) · `cc-0350`
 - cc (A): Мадхья 19.44–60 — [44–60](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya19.md?plain=1#L451-L625) · `cc-3025`
-- chaitanya-chandrodaya (A): Акт 9, рассказ вестников, ст. 30 — [**Царь.** Сарвабхаума! Отчего же он, так–> подобного ему самому, — Господь, едины](../chaitanya-chandrodaya/ru/09.md?plain=1#L390-L395) · `ccd-0084`
+- chaitanya-chandrodaya (A): Акт 9, рассказ вестников, ст. 30 — [**Царь.** Сарвабхаума! Отчего же Он, так–> подобного Ему Самому, — Господь, едины](../chaitanya-chandrodaya/ru/09.md?plain=1#L390-L395) · `ccd-0084`
 - gaura-krishnodaya (B): Сарга 14, 61–70 — [61–70](../gaura-krishnodaya/ru/14.md?plain=1#L133-L153) · `gkd-0145`
 - jayananda-cm (C): Виджая-кханда: «Рупа и Санатана во Вриндаване» (цитаты) — [78:1–8:12](../jayananda/ru/05-quotes.md?plain=1#L1313-L1346) · `jcm-0095`
 - murari-kcc (A): Пракрама 4, сарга 13, шлоки 5–10 — [5–10](../murari-gupta/ru/4.13.md?plain=1#L13-L23) · `mkc-0223`
@@ -4818,7 +4818,7 @@
 
 ## Кулия и Навадвипа: встреча с Шачи / Kuliya and Navadvipa: meeting with Shachi  `ev-kuliya-shachi-meeting` (1514–1516, возраст 28–30, оценка)
 
-- chaitanya-chandrodaya (A): Акт 9, рассказ вестника, ст. 15–17 — [**Человек.** Затем он прибыл к дому Адва–> и потому сама земля там и сям сильно п](../chaitanya-chandrodaya/ru/09.md?plain=1#L267-L280) · `ccd-0080`
+- chaitanya-chandrodaya (A): Акт 9, рассказ вестника, ст. 15–17 — [**Человек.** Затем Он прибыл к дому Адва–> и потому сама земля там и сям сильно п](../chaitanya-chandrodaya/ru/09.md?plain=1#L267-L280) · `ccd-0080`
 - jayananda-cm (C): Виджая-кханда: «Чайтанья в Кулии» (изд. 1905, с. 140–141) — [71:1–6:12](../jayananda/ru/05-quotes.md?plain=1#L1159-L1192) · `jcm-0086`
 - lochana-cm (B): Шеша-кханда, «Возвращение Господа в Нилачалу», 22–56 (с 53+1 — 53+3) — [22–56](../lochana/ru/51.md?plain=1#L85-L196) · `lcm-0246`
 - murari-kcc (A): Пракрама 4, сарга 14, шлоки 1–7 — [1–7](../murari-gupta/ru/4.14.md?plain=1#L5-L17) · `mkc-0226`
@@ -5099,7 +5099,7 @@
 
 - cc (A): Ади 10.56–60 — [56–60](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi10.md?plain=1#L573-L613) · `cc-0127`
 - cc (A): Антья 2.16–32 — [16–32](../chaitanya-charitamrita/ed/vcd-rev/CC_Antya02.md?plain=1#L171-L328) · `cc-4017`
-- chaitanya-chandrodaya (A): Акт 9, правешака (чета киннаров), ст. 3 — [**Мужчина.** Рассказ о том, как он входи–**Мужчина.** Тогда по воле судьбы туда в](../chaitanya-chandrodaya/ru/09.md?plain=1#L53-L67) · `ccd-0074`
+- chaitanya-chandrodaya (A): Акт 9, правешака (чета киннаров), ст. 3 — [**Мужчина.** Рассказ о том, как Он входи–**Мужчина.** Тогда по воле судьбы туда в](../chaitanya-chandrodaya/ru/09.md?plain=1#L53-L67) · `ccd-0074`
 - gaura-krishnodaya (B): Сарга 18, 18–36 — [18–36](../gaura-krishnodaya/ru/18.md?plain=1#L43-L81) · `gkd-0183`
 
 ## Нрисимхананда подносит три угощения, и Господь вкушает все три / Nrisimhananda offers three meals and the Lord eats all three  `ev-nrisimhananda-three-offerings` (1516–1533, возраст 30–47, оценка)

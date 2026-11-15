@@ -1485,7 +1485,7 @@
   themes: [revelation, mercy]
   event: ev-nakula-brahmachari
   verses:
-    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Мужчина.** Рассказ о том, как он входи", to_text: "**Мужчина.** Тогда по воле судьбы туда в"}
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Мужчина.** Рассказ о том, как Он входи", to_text: "**Мужчина.** Тогда по воле судьбы туда в"}
 
 - id: ccd-0075
   source: chaitanya-chandrodaya
@@ -1602,7 +1602,7 @@
   divergence: "Кулия — по пути в Гауду (до Рамакели), а не на обратном пути из Вриндавана (Мурари, Лочан); встреча с Шачи не упомянута."
   event: ev-kuliya-shachi-meeting
   verses:
-    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Человек.** Затем он прибыл к дому Адва", to_text: "> и потому сама земля там и сям сильно п"}
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Человек.** Затем Он прибыл к дому Адва", to_text: "> и потому сама земля там и сям сильно п"}
 
 - id: ccd-0081
   source: chaitanya-chandrodaya
@@ -1679,7 +1679,7 @@
   themes: [mercy, teaching]
   event: ev-rupa-prayaga
   verses:
-    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Царь.** Сарвабхаума! Отчего же он, так", to_text: "> подобного ему самому, — Господь, едины"}
+    - {file: "chaitanya-chandrodaya/ru/09.md", from_text: "**Царь.** Сарвабхаума! Отчего же Он, так", to_text: "> подобного Ему Самому, — Господь, едины"}
 
 - id: ccd-0085
   source: chaitanya-chandrodaya
