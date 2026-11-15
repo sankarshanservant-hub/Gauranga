@@ -60,8 +60,11 @@ Krishnadasa Kaviraja places the meeting in time thus:
 “Then came His marriage to Vishnupriya Thakurani, and after that the Lord's victory over the *digvijayi*, the
 conqueror of all directions.” (CC Adi 16.25)[^4] <!-- F44 Q6 -->
 
-The students told Nimai about the digvijayi, and He answered them in words that Vrindavana Dasa preserved in the
-“Chaitanya-bhagavata”:
+The students told Nimai about the digvijayi: he sat in a palanquin with a crowd of followers, elephants and horses, a
+victor's scroll in his hand; he was looking for a rival in Navadvipa, and if none were found he would demand that every
+assembly sign such a scroll for him (CB Adi 13.39–41). <!-- F53 -->
+
+Nimai answered them in words that Vrindavana Dasa preserved in the “Chaitanya-bhagavata”:
 
 “When the Lord sees that someone is proud of his qualities, He takes away his cause for pride. A tree laden with fruit
 and a man adorned with good qualities bow down to the ground — the tree from the weight of its fruit, the man from
@@ -69,11 +72,11 @@ humility. You have all heard of the great digvijayis of the past: Haihaya, Nahus
 there ever one who was not stripped of his pride? Know that the Supreme Lord lets no one remain proud. Very soon you
 will all see how here, in Navadvipa, the digvijayi's pride will be broken.” (CB Adi 13.44–48)[^5] <!-- F14 I2 -->
 
-That evening the Lord sat with His students on the bank of the Ganga and thought to Himself not of how to defeat the
+That evening, seated on the Ganga's bank among His students, the Lord thought to Himself not of how to defeat the
 guest but of how to save him. If He overcame him before everyone, He reasoned, the disgrace would be like death to him:
 people would mock him, plunder his goods, and he himself would die of grief. So the Lord resolved to defeat him away
 from the crowd — to crush his pride and spare him unbearable pain (CB Adi 13.53–57). The full moon rose. Keshava came
-to the bank, bowed to the Ganga, and learned from the students who this youth was, shining with extraordinary beauty:
+to the bank, bowed to the Ganga, and asked one of the students who this youth was, shining with extraordinary beauty:
 “This is the famous Nimai Pandita.” And the conqueror of so many assemblies, seeing the Lord, felt timid (CB Adi
 13.58–75; CC Adi 16.28–29). <!-- F15 F16 -->
 
@@ -101,6 +104,10 @@ heart:
 Vishnu. Like a second Sri Lakshmi, she receives the worship of gods and men; and upon the head of Bhavani's husband
 she reigns, endowed with wondrous qualities.” (CC Adi 16.41)
 
+Amazed, Keshava asked how He had managed to retain even one verse when he had recited them as fast as the wind. The
+Lord replied: by the grace of a deity you have become a great poet, and by the grace of a deity another remembers
+everything at a single hearing (CC Adi 16.42–44). <!-- F55 -->
+
 He asked him to explain the verse and then asked about its merits and faults. Vrindavana Dasa writes that no sooner
 had the digvijayi begun to explain than the Lord pointed out flaws at the beginning, in the middle and at the end:
 
@@ -115,6 +122,9 @@ The son of Sarasvati was bewildered. He answered at random, and Gaurasundara fou
 “It seemed that his reason had left the digvijayi, for he himself did not understand what he was saying.”
 (CB Adi 13.98) <!-- F21 Q3 -->
 
+The Lord proposed to leave that verse aside and hear another, but Keshava could no longer speak as before (CB Adi
+13.99). <!-- F54 -->
+
 Keshava thought that Sarasvati herself was speaking through the youth's mouth, and asked how He, never having studied
 poetics, could give such an explanation. The “Charitamrita” continues:
 
@@ -123,16 +133,16 @@ shastras is good or bad, I Myself do not know. I only speak the words that Saras
 *digvijayi* concluded, ‘The goddess has defeated me through a child.’” (CC Adi 16.93–95)
 
 The Lord's words are a jest: He does not depend on Sarasvati — He is her Lord and Husband, as she herself would tell
-Keshava that same night. Keshava, for his part, resolved to ask the goddess that evening why she had humbled him
-through a child. And Krishnadasa Kaviraja reveals what had really happened:
+Keshava that same night. Keshava, for his part, resolved to pray to the goddess that very day and ask her why she had
+humbled him through a child. And Krishnadasa Kaviraja reveals what had really happened:
 
 “In truth, it was Sarasvati who had him compose a faulty verse, and when it was examined she clouded his
 intelligence.” (CC Adi 16.97) <!-- F22 -->
 
 The students could barely hold back their laughter, but the Lord did not let them laugh. He encouraged the guest in
 every way: He called him the crest-jewel of poets, said that faults can be found even in Bhavabhuti, Jayadeva and
-Kalidasa, asked him not to take His boyish impudence to heart, and told him to rest, look into his books during the
-night and come again the next day (CC Adi 16.98–104; CB Adi 13.108–117). So the Lord dealt with everyone He defeated:
+Kalidasa, asked him not to take His boyish impudence to heart, and bade him rest, consult his books in the night
+and return on the morrow (CC Adi 16.98–104; CB Adi 13.108–117). So the Lord dealt with everyone He defeated:
 He offended no one, and the scholars of Navadvipa loved Him. <!-- F23 -->
 
 This was no worldly contest of learning. Krishnadasa Kaviraja opens the chapter by saying that Sarasvati honoured the
@@ -141,15 +151,15 @@ shloka imperfect, and the Lord, having prevailed, did not humiliate the defeated
 
 But Keshava did not yet know this. Deeply ashamed and in great sorrow he thought: “I have defeated matchless masters of
 the six darshanas — Nyaya, Sankhya, Yoga, Mimamsa, Vaisheshika and Vedanta — and today by ill fate I am beaten by a
-young teacher of mere grammar, a science for children! Perhaps I have lost Sarasvati's blessing, or offended her
-feet.” <!-- F24 -->
+youthful teacher of nothing more than grammar, a science for children! Perhaps I have lost Sarasvati's
+blessing, or offended her feet.” <!-- F24 -->
 
 ## Sarasvati's Revelation
 Chanting Sarasvati's mantra, the sorrowful Keshava fell asleep, and that very night she appeared to him in a
-dream.[^8] She revealed to him a great secret: Nimai Pandita is no ordinary mortal scholar but the all-powerful
+dream.[^8] She revealed to him a great secret: Nimai Pandita is not some common mortal pandit but the all-powerful
 Bhagavan Himself. And she who had given Keshava his victories is only a shadow (*chhaya-shakti*) of the highest
-knowledge, the Lord's own internal energy (*svarupa-shakti*); this shadow Sarasvati is ashamed to appear before
-Narayana and exists only in dependence on Him. Vrindavana Dasa gives her words:
+knowledge, the Lord's own internal energy (*svarupa-shakti*); this shadow Sarasvati feels shame to come before
+Narayana and abides solely as dependent on Him. Vrindavana Dasa gives her words:
 
 “Know that the youth who defeated you is none other than the Lord of countless universes Himself. I am the eternal
 maidservant of His lotus feet, and I am ashamed to appear before Him.” (CB Adi 13.129–130) <!-- F25 -->
@@ -158,25 +168,32 @@ She called this a secret of the Vedas and warned him that to divulge it would sh
 is the Lord of countless universes; He was Matsya and Kurma, Varaha, Nrisimha and Vamana, Rama; He is known as the son
 of Vasudeva and of Nanda, and now He has come as the son of a brahmana (CB Adi 13.127–143). <!-- F26 -->
 
-And she said further that now he had truly obtained the fruit of his mantra:
+And she said further that now at last he had gained the real fruit of his mantra:
 
 “The title of digvijayi is not the true fruit of your chanting and of your worship of me. The true fruit of your
 chanting and worship is that you have been able to see the Lord, the Master of countless universes. Therefore, O
 brahmana, go at once and take shelter at His lotus feet.” (CB Adi 13.145–147)
 
+Do not take this for a mere dream, she said, and do not disregard my words: won over by the power of your mantra, I have
+revealed to you what the Vedas keep hidden (CB Adi 13.148). <!-- F56 -->
+
 With these words she vanished. So Sarasvati herself turned her worshipper away from herself to the Lord: the fruit of
 worshipping her is not the gifts of this world but shelter at the feet of the One whom she serves. <!-- F27 -->
 
 ## At the Lord's Feet
-On waking, Keshava went straight to the Lord. He bowed down, and the Lord raised him and embraced him. With many humble
-entreaties Keshava told Him his dream and Sarasvati's instruction, and said:
+On waking, Keshava went straight to the Lord. He bowed down, and the Lord raised him and embraced him. The Lord asked
+what such behaviour meant, and Keshava answered that the cause was His merciful glance. “But you are a digvijayi
+yourself,” said the Lord, “why do you speak to Me like this?” (CB Adi 13.152–153). With many humble entreaties Keshava
+told Him his dream and Sarasvati's instruction, and said: <!-- F57 -->
 
 “You are the Supreme Person, Lord Narayana; yet You have appeared in the age of Kali as a brahmana. Who can know You?
 … You defeated me three times, and yet You did not humiliate me. Is this possible for anyone but the Supreme Lord?
 You are surely Lord Narayana Himself.” (CB Adi 13.155, 158–159)
 
-You are the Husband and Lord of Sarasvati, he said, she herself told me so; and he prayed: “Free me by Your merciful
-glance … instruct me, so that no material desire remains in my heart” (CB Adi 13.164–169). <!-- F28 F29 -->
+You are the Husband and Lord of Sarasvati, he said, she herself told me so. At a most auspicious hour he had come to
+Navadvipa and seen the Lord — he who was drowning in the well of worldly life, bewitched by ignorance and desire,
+deceiving himself. And he prayed: “Free me by Your merciful
+glance … instruct me, so that no material desire remains in my heart” (CB Adi 13.164–169). <!-- F28 F29 F58 -->
 
 The Lord, the Master of Sarasvati, instructed him:
 
@@ -197,22 +214,25 @@ briefly:
 
 And Vrindavana Dasa himself, listing the pastimes of the Adi-khanda, says that Gauranga defeated the digvijayi and then
 freed him from all bonds (CB Adi 1.114). The Lord strictly forbade him to reveal to anyone what Sarasvati had told
-him: secrets more hidden than the Vedas are not to be divulged (CB Adi 13.183–184). <!-- F31 F32 -->
+him: secrets more hidden than the Vedas are not to be divulged (CB Adi 13.183–184). Prostrating himself again and again at
+His feet, Keshava went away feeling that he had attained the greatest good fortune (CB Adi 13.185–186).
+<!-- F31 F32 F59 -->
 
-By the Lord's mercy devotion, detachment and knowledge awoke in Keshava's heart all at once. Having attained the highest
-devotion, he felt that his life had reached its goal, and not a trace was left of the digvijayi's pride: he became
+Through the Lord's mercy there awoke in Keshava's heart, all at once, devotion, detachment and knowledge. Having
+attained the highest devotion, he felt that his life had reached its goal, and not a trace was left of the digvijayi's pride: he became
 “humbler than a blade of grass” (CB Adi 13.187–188). This humility is not worldly modesty but the fruit of mercy, as is
 his detachment: his elephants, horses, palanquins and riches he gave away to worthy people and, wholly detached,
 continued his wanderings (CB Adi 13.189–190). The “Bhakti-ratnakara” says that, leaving everything, he went away at the
-Lord's command. The one the Lord defeated was not humiliated — he was set free. <!-- F33 F34 I4 -->
+Lord's command. “Thus the digvijayi obtained release,” Vrindavana Dasa concludes (CB Adi 13.197). The one the Lord
+defeated was not humiliated — he was set free. <!-- F33 F34 I4 F60 -->
 
 Krishnadasa Kaviraja sums it up:
 
 “The *digvijayi* was fortunate, and his life bore fruit: through his learning he attained the feet of Mahaprabhu.”
 (CC Adi 16.108) <!-- F35 -->
 
-And the pandits of Navadvipa, seeing Nimai's extraordinary power, wished together to honour Him with the title
-“Vadi-simha,” “lion among debaters,” and His fame spread everywhere (CB Adi 13.198–205; “Bhakti-ratnakara”
+And the pandits of Navadvipa, seeing Nimai's extraordinary power, wished to confer on Him jointly the title
+“Vadi-simha” (“a lion among debaters”); and His fame spread far and wide (CB Adi 13.198–205; “Bhakti-ratnakara”
 2.250–252). <!-- F36 -->
 
 ## How Others Tell It
@@ -259,10 +279,12 @@ Keshava is remembered beyond Bengal too. Nabhadasa in the “Bhaktamal” (c. 16
 mlecchas in debate, so that the qazis, never before defeated, were filled with fear (chhappay 75). Of the meeting with
 Mahaprabhu Nabhadasa is silent. Priyadasa, however, tells it in his kavittas on the “Bhaktamal”: Keshava comes to
 Nadia with palanquin, elephants and horses; Mahaprabhu Himself approaches him on the bank of the Ganga; Keshava
-composes a hundred shlokas; the Lord repeats one and analyses its faults and merits; Sarasvati appears to Keshava and
-says, “He is my Lord, Bhagavan”; the Lord tells him, “Accept the fruit — bhakti — and defeat no one any more,” and
+composes a hundred shlokas; the Lord repeats one and, asked how He remembered it, answers, “He who gave you the power
+gave [it] to Me too,” and then analyses its faults and merits. Back at his lodging, Keshava meditates on Sarasvati
+and, when she comes, reproaches her: “You let me conquer the whole world — and let me be defeated by a boy!” Sarasvati
+answers, “He is my Lord, Bhagavan”; the Lord tells him, “Sir, take the fruit — bhakti; defeat no one any more …,” and
 Keshava leaves his retinue and pomp behind. The next kavitta tells of his victory over the Muslims at Vishram Ghat in
-Mathura.[^10] <!-- F50 F51 -->
+Mathura.[^10] <!-- F50 F51 F61 -->
 
 The tradition of Vallabha's followers mentions Keshava as well.[^11] <!-- F52 -->
 
@@ -301,13 +323,13 @@ inexpressible joy.[^13] His name also appears in the list in the “Vaishnava-ma
 Of what came after, Srila Bhaktisiddhanta writes in the “Gaudiya-bhashya” as follows. Later Keshava and other scholars
 from Kashmir, his followers, left the shelter of Mahaprabhu and went their own way, founding an independent
 sampradaya (on CB Adi 13.175–177). And Keshava's present-day so-called followers claim that he was Mahaprabhu's
-*vartma-pradarshaka-guru* — the one who first showed Him the path. That, says Bhaktisiddhanta, is why Vrindavana Dasa
-writes that the Lord “destroyed all his bonds” (on CB Adi 1.114): it was not Keshava who gave knowledge to the Lord,
+*vartma-pradarshaka-guru* — the one who first showed Him the path. That, says Bhaktisiddhanta, is why — to save such people from offence — Vrindavana
+Dasa writes that the Lord “destroyed all his bonds” (on CB Adi 1.114): it was not Keshava who gave knowledge to the Lord,
 but the Lord — the Teacher of all the worlds — who set Keshava free. <!-- F40 -->
 
 ## His Departure
 Of Keshava's later life the primary sources are silent. The time and place of his departure from this world are
-unknown: no source names them, and his days are not found in the Vaishnava calendar of the Sri Chaitanya Saraswat
+not known: no source names them, and his days are not found in the Vaishnava calendar of the Sri Chaitanya Saraswat
 Math. <!-- F41 -->
 
 ## Significance
