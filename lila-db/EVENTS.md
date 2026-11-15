@@ -5652,6 +5652,10 @@
 
 - prema-vilasa (D): Виласа 23, 171–191 — [171–191](../prema-vilasa/ru/23.md?plain=1#L518-L578) · `pvl-0199`
 
+## Явление Радха-Дамодары: Рупа являет Божество для Дживы / The appearance of Radha-Damodara: Rupa manifests the Deity for Jiva  `ev-radha-damodara-rupa-jiva` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 4, 286–298 — [286–298](../bhakti-ratnakara/ru/04.md?plain=1#L867-L904) · `brt-0101`
+
 ## Уход Гададхары Пандита / The departure of Gadadhara Pandita  `ev-gadadhara-departure` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 4, 148–163 — [148–163](../prema-vilasa/ru/04.md?plain=1#L446-L491) · `pvl-0020`
@@ -5888,6 +5892,13 @@
 - prema-vilasa (C): Виласа 5, 76–93 — [76–93](../prema-vilasa/ru/05.md?plain=1#L230-L281) · `pvl-0029`
 - bhakti-ratnakara (B): Таранга 4, 149–155 — [149–155](../bhakti-ratnakara/ru/04.md?plain=1#L450-L468) · `brt-0091`
 - prema-vilasa (C): Виласа 5, 107–146 — [107–146](../prema-vilasa/ru/05.md?plain=1#L323-L440) · `pvl-0031`
+- bhakti-ratnakara (B): Таранга 4, 156–161 — [156–161](../bhakti-ratnakara/ru/04.md?plain=1#L471-L486) · `brt-0092`
+- bhakti-ratnakara (B): Таранга 4, 162–166 — [162–166](../bhakti-ratnakara/ru/04.md?plain=1#L489-L501) · `brt-0093`
+- bhakti-ratnakara (B): Таранга 4, 176–188 — [176–188](../bhakti-ratnakara/ru/04.md?plain=1#L531-L567) · `brt-0095`
+
+## Шриниваса в Экачакре: видение игр Нитьянанды со спутниками / Srinivasa at Ekachakra: a vision of Nityananda's pastimes with His associates  `ev-srinivasa-ekachakra-vision` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 4, 167–175 — [167–175](../bhakti-ratnakara/ru/04.md?plain=1#L504-L528) · `brt-0094`
 
 ## Шри Радха для Говинды из Пури: Божества, присланные Пурушоттамой Джаной, и Лакшми храма Джаганнатхи / Sri Radha for Govinda from Puri: the Deities sent by Purushottama Jana and the Lakshmi of Jagannatha's temple  `ev-radha-for-govinda-from-puri` (1533–1534, возраст 47–48, оценка)
 
@@ -5897,6 +5908,7 @@
 
 - anuragavalli (C): Манджари 3, 105–125 — [105–125](../anuragavalli/ru/03.md?plain=1#L339-L401) · `anv-0019`
 - prema-vilasa (C): Виласа 5, 94–106 — [94–106](../prema-vilasa/ru/05.md?plain=1#L284-L320) · `pvl-0030`
+- bhakti-ratnakara (B): Таранга 4, 189–216 — [189–216](../bhakti-ratnakara/ru/04.md?plain=1#L570-L651) · `brt-0096`
 - prema-vilasa (C): Виласа 5, 147–172 — [147–172](../prema-vilasa/ru/05.md?plain=1#L443-L518) · `pvl-0032`
 
 ## Рупа и Санатана являются Шринивасу после своего ухода / Rupa and Sanatana appear to Srinivasa after their departure  `ev-srinivasa-vision-rupa-sanatana` (1533–1534, возраст 47–48, оценка)
@@ -5904,12 +5916,17 @@
 - anuragavalli (C): Манджари 3, 126–158 — [126–158](../anuragavalli/ru/03.md?plain=1#L404-L506) · `anv-0020`
 - karnananda (C): Нирьяса 6, 2–29 — [2–29](../karnananda/ru/06.md?plain=1#L16-L97) · `krn-0029`
 - prema-vilasa (C): Виласа 6, 1–48 — [1–48](../prema-vilasa/ru/06.md?plain=1#L5-L146) · `pvl-0033`
+- bhakti-ratnakara (B): Таранга 4, 217–232 — [217–232](../bhakti-ratnakara/ru/04.md?plain=1#L654-L702) · `brt-0097`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 474–475 (6.3, № 58) «ও মোর জীবন প্রাণ» = БР 14 (изд. 1912, с. ≈1048–1049; изд. 1960, 14.195–208) — [10.1–10.14](../padas/ru/26.md?plain=1#L286-L325) · `pad-0564`
 
 ## Шринивас во Вриндаване: Джива и Гопала Бхатта принимают его / Srinivasa in Vrindavana: Jiva and Gopala Bhatta receive him  `ev-srinivasa-arrives-vrindavana` (1533–1534, возраст 47–48, оценка)
 
+- bhakti-ratnakara (B): Таранга 4, 232a–253 — [232a–253](../bhakti-ratnakara/ru/04.md?plain=1#L705-L768) · `brt-0098`
 - anuragavalli (C): Манджари 3, 159–204 — [159–204](../anuragavalli/ru/03.md?plain=1#L509-L652) · `anv-0021`
 - prema-vilasa (C): Виласа 6, 49–100 — [49–100](../prema-vilasa/ru/06.md?plain=1#L149-L302) · `pvl-0034`
+- bhakti-ratnakara (B): Таранга 4, 254–278 — [254–278](../bhakti-ratnakara/ru/04.md?plain=1#L771-L843) · `brt-0099`
+- bhakti-ratnakara (B): Таранга 4, 279–285 — [279–285](../bhakti-ratnakara/ru/04.md?plain=1#L846-L864) · `brt-0100`
+- bhakti-ratnakara (B): Таранга 4, 299–311 — [299–311](../bhakti-ratnakara/ru/04.md?plain=1#L907-L943) · `brt-0102`
 
 ## Посвящение Шринивасы у Гопалы Бхатты / Srinivasa's initiation by Gopala Bhatta  `ev-srinivasa-initiation` (1533–1534, возраст 47–48, оценка)
 

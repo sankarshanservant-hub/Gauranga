@@ -3123,6 +3123,7 @@
    "gkr-0014",
    "jcm-0066",
    "pvl-0271",
+   "brt-0093",
    "pvl-0146",
    "pvl-0147",
    "pvl-0094",
@@ -3152,6 +3153,7 @@
    "ev-navadvipa-lament-after-sannyasa",
    "ev-shantipura-reunion",
    "ev-ganga-marries-madhava",
+   "ev-srinivasa-journey-vrindavana",
    "ev-gadadhara-dasa-narahari-departure",
    "ev-katwa-khanda-memorial-festivals",
    "ev-ramachandra-kaviraja-meets-srinivasa",
@@ -3203,6 +3205,7 @@
    "kcm-0038",
    "lcm-0095",
    "mkc-0061",
+   "brt-0095",
    "nvv-0039",
    "nvv-0069",
    "mkc-0001",
@@ -3220,6 +3223,7 @@
    "ev-gaya-vishnupada-prema",
    "ev-jagannatha-mishra-accepts-pinda",
    "ev-gaya-heavenly-voice-return",
+   "ev-srinivasa-journey-vrindavana",
    "ev-jahnava-vrindavana",
    "ev-virachandra-pilgrimage"
   ]
@@ -4433,6 +4437,7 @@
    "gkd-0164",
    "pvl-0198",
    "pvl-0199",
+   "brt-0101",
    "anv-0007",
    "brt-0008",
    "vlb-0007",
@@ -4447,8 +4452,12 @@
    "krn-0029",
    "pvl-0033",
    "pad-0564",
+   "brt-0098",
    "anv-0021",
    "pvl-0034",
+   "brt-0099",
+   "brt-0100",
+   "brt-0102",
    "anv-0022",
    "brt-0011",
    "krn-0030",
@@ -4674,6 +4683,7 @@
    "ev-jiva-comes-to-vrindavana",
    "ev-raghunatha-dasa-radha-kunda",
    "ev-jiva-exiled-by-rupa",
+   "ev-radha-damodara-rupa-jiva",
    "ev-radha-ramana-appearance",
    "ev-vrindavana-two-teachers-rule",
    "ev-gopala-mathura-vitthaleshvara",
@@ -4803,9 +4813,11 @@
    "vlb-0014",
    "cc-3006",
    "anv-0019",
+   "brt-0096",
    "pvl-0032",
    "krn-0029",
    "pvl-0033",
+   "brt-0097",
    "pad-0564",
    "pvl-0079",
    "nvl-0014",
@@ -5018,6 +5030,7 @@
    "bkm-0011",
    "brt-0040",
    "pvl-0031",
+   "brt-0095",
    "pvl-0060",
    "nvv-0039",
    "nvv-0069",
@@ -5124,6 +5137,7 @@
    "cc-4023",
    "cc-4081",
    "pvl-0031",
+   "brt-0095",
    "pvl-0060",
    "nvv-0039",
    "nvv-0071",
@@ -7347,6 +7361,7 @@
    "cb-0065",
    "nvv-0037",
    "nvv-0018",
+   "brt-0094",
    "nvl-0035",
    "nvv-0036",
    "nvv-0038",
@@ -7364,6 +7379,7 @@
    "ev-nityananda-roar-gaura-birth",
    "ev-nityananda-kundalitala",
    "ev-nityananda-departure",
+   "ev-srinivasa-ekachakra-vision",
    "ev-nityananda-shows-ekachakra",
    "ev-jahnava-ekachakra",
    "ev-kheturi-six-deities",
@@ -8070,14 +8086,16 @@
    "cb-0069",
    "pvl-0045",
    "cc-3124",
-   "cc-4029"
+   "cc-4029",
+   "brt-0095"
   ],
   "events": [
    "ev-advaita-pilgrimage",
    "ev-nityananda-pilgrimage",
    "ev-lokanatha-sent-to-vrindavana",
    "ev-subuddhi-raya-holy-name",
-   "ev-haridasa-sthavara-jangama-deliverance"
+   "ev-haridasa-sthavara-jangama-deliverance",
+   "ev-srinivasa-journey-vrindavana"
   ]
  },
  {
@@ -8326,6 +8344,7 @@
    "brt-0066",
    "pvl-0018",
    "pvl-0029",
+   "brt-0092",
    "pvl-0093",
    "pvl-0095",
    "anv-0039",
@@ -10863,8 +10882,12 @@
   "en": "Agradvipa",
   "note": "Бенгалия, на Ганге; место Говинды Гхоша; Шриниваса прощается здесь с преданными по пути во Вриндаван (БР 4.162)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-0093"
+  ],
+  "events": [
+   "ev-srinivasa-journey-vrindavana"
+  ]
  },
  {
   "id": "#maudeshvara",
@@ -10872,8 +10895,12 @@
   "en": "Maudeshvara",
   "note": "Бирбхум; храм Шивы по дороге в Экачакру; рядом — место Кундали-дамана (БР 4.164–166)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-0093"
+  ],
+  "events": [
+   "ev-srinivasa-journey-vrindavana"
+  ]
  },
  {
   "id": "#vishrama-ghata",
@@ -10881,7 +10908,11 @@
   "en": "Vishrama-ghata (Vishranti-ghata)",
   "note": "Матхура; главный гхат Ямуны, где Кришна отдыхал, убив Камсу",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-0096"
+  ],
+  "events": [
+   "ev-rupa-sanatana-departure"
+  ]
  }
 ]

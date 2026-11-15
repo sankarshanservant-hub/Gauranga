@@ -15393,7 +15393,10 @@
    "krn-0028",
    "pvl-0029",
    "brt-0091",
-   "pvl-0031"
+   "pvl-0031",
+   "brt-0092",
+   "brt-0093",
+   "brt-0095"
   ],
   "sources": [
    "bhakti-ratnakara",
@@ -15427,10 +15430,12 @@
   "entries": [
    "anv-0019",
    "pvl-0030",
+   "brt-0096",
    "pvl-0032"
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -15461,10 +15466,12 @@
    "anv-0020",
    "krn-0029",
    "pvl-0033",
+   "brt-0097",
    "pad-0564"
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara",
    "karnananda",
    "padas",
    "prema-vilasa"
@@ -15494,11 +15501,16 @@
    48
   ],
   "entries": [
+   "brt-0098",
    "anv-0021",
-   "pvl-0034"
+   "pvl-0034",
+   "brt-0099",
+   "brt-0100",
+   "brt-0102"
   ],
   "sources": [
    "anuragavalli",
+   "bhakti-ratnakara",
    "prema-vilasa"
   ]
  },
@@ -20685,6 +20697,65 @@
   ],
   "entries": [
    "brt-0088"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-srinivasa-ekachakra-vision",
+  "title": "Шриниваса в Экачакре: видение игр Нитьянанды со спутниками",
+  "title_en": "Srinivasa at Ekachakra: a vision of Nityananda's pastimes with His associates",
+  "period": "P15",
+  "order": 64.2,
+  "date_conf": "оценка",
+  "date_basis": "БР 4: после сокрытия Нитьянанды, по пути Шринивасы во Вриндаван",
+  "themes": [
+   "pilgrimage",
+   "revelation",
+   "separation"
+  ],
+  "notes": "«Бхакти-ратнакара» 4.167–175; в «Према-виласе» путь Шринивасы через Экачакру не описан.",
+  "years": [
+   1533,
+   1534
+  ],
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "brt-0094"
+  ],
+  "sources": [
+   "bhakti-ratnakara"
+  ]
+ },
+ {
+  "id": "ev-radha-damodara-rupa-jiva",
+  "title": "Явление Радха-Дамодары: Рупа являет Божество для Дживы",
+  "title_en": "The appearance of Radha-Damodara: Rupa manifests the Deity for Jiva",
+  "period": "P15",
+  "order": 13.1,
+  "date_conf": "оценка",
+  "date_basis": "при жизни Рупы во Вриндаване, после прихода Дживы",
+  "themes": [
+   "deities",
+   "revelation"
+  ],
+  "notes": "«Бхакти-ратнакара» 4.286–297 (шлоки «Садхана-дипики»): по повелению во сне Рупа своими руками являет Радха-Дамодару и отдаёт Дживе; Господь просит у Дживы еды и являет ему облик кишоры с флейтой.",
+  "years": [
+   1533,
+   1534
+  ],
+  "years_from": "period",
+  "age": [
+   47,
+   48
+  ],
+  "entries": [
+   "brt-0101"
   ],
   "sources": [
    "bhakti-ratnakara"
