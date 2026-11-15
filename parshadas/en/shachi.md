@@ -1327,8 +1327,9 @@ ever separate you and Me”; and He still appears in her house, for where He is 
     Puri “at the wish”, “at the request” or “at the command” of His mother.
 [^22]: So in the “Chaitanya-charitamrita” (Madhya 3.209–210). One biography writes that Damodara Pandita went with the
     Lord at the instruction of Shachi herself.
-[^23]: According to the “Chaitanya-charitamrita”, Advaita then “did not delay to invite Shachidevi” (Madhya 1.233); one
-    biography also writes that it was Advaita who sent for Shachi and that the news brought her almost lifeless body
+[^23]: According to the “Chaitanya-charitamrita” (Madhya 1.233), Shachidevi came and bowed to the Lord, and for seven
+    days He took His meals from her; our earlier Russian translation added that Advaita “did not delay to invite” her.
+    One biography writes that it was Advaita who sent for Shachi and that the news brought her almost lifeless body
     back to life.
 [^24]: The “Chaitanya-bhagavata” (Antya 4.237–238) names Gangadasa and Murari; one biography, naming Gangadasa, places
     this journey at the Lord's coming to Shantipur after His sannyasa.
