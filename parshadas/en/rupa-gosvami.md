@@ -333,7 +333,7 @@ Madhya 19.79–80) <!-- F91 -->
 
 Having brought the Lord to his home, Vallabha washed His feet with his own hands, and the whole family placed that water
 on their heads; he dressed the Lord in a new kaupina and upper cloth and performed a “great puja” with incense, flowers,
-fragrances and lamps. Then with great care he fed the Lord many dishes and gave the remnants of His meal to Rupa and
+fragrances and lamps. Then with great care he fed the Lord many dishes, and Balabhadra Bhattacharya gave the remnants of His meal to Rupa and
 Krishnadasa the Rajput;[^25] after the meal he offered Him spices, laid Him down to rest and himself began to massage His
 feet, and the Lord told him to go and eat too. <!-- F92 F93 -->
 
@@ -2153,11 +2153,15 @@ Ramananda Raya, Bhugarbha, Gopala Guru, Sundarananda and Vishnupriya. <!-- F623 
     of bathing in the month of Makara), Balabhadra invited Rupa and Vallabha (Anupama) and fed them the remnants of
     Mahaprabhu's meal. This agrees with the CC: in the house of the South Indian brahmana “the Bhattacharya” (evidently
     Balabhadra, the Lord's companion) invited the two brothers as well, and they received the remnants from Mahaprabhu's
-    plate (Madhya 19.58–59); later Vallabha Bhatta gave them the remnants of the Lord's meal (Madhya 19.88–89).
-[^24]: In the CC: “This conversation about Krishna aroused in Mahaprabhu the bliss of maha-prema, but in the presence of
-    the Bhattacharya He restrained His feelings” (Madhya 19.63); according to one biography, Vallabha marvelled at the
+    plate (Madhya 19.58–59); and in Vallabha Bhatta's house it was the same “Bhattacharya,” Balabhadra, who gave Rupa and
+    Krishnadasa the remnants of the Lord's meal (Madhya 19.89).
+[^24]: In the CC: “As they spoke of Krishna, great love surged up in the Lord, but out of reserve before Bhatta He held it
+    back” (Madhya 19.63); according to one biography, Vallabha marvelled at the
     Lord's ecstatic symptoms.
-[^25]: So also in the CC (Madhya 19.89); according to another biography — to Rupa and Anupama.
+[^25]: So in the CC (Madhya 19.89): the remnants are given by “the Bhattacharya,” that is, Balabhadra, the Lord's
+    companion, whom Vallabha had asked to cook for the Lord (19.87) — not by Vallabha himself, whom Kaviraja calls
+    “Bhatta.” According to one of the biographies — to Rupa and Krishnadasa the Rajput; according to another — to Rupa
+    and Anupama.
 [^26]: The division of Tirhut today comprises four districts — Saran, Champaran, Muzaffarpur and Darbhanga.
 [^27]: One biography gives these verses with a wrong number (Madhya 19.105–107). The same biography's references to CC
     Antya 1.73–86 (given as Madhya 13.66–72) and Antya 1.100 (given as 1.101) are inaccurate; its other references to the
