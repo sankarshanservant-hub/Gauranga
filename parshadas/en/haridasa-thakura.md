@@ -417,6 +417,234 @@ in Shantipura guessed that the Lord had appeared; Haridasa understood Him withou
 gave money to the poor and sent gifts to the newborn through Sita; what they had understood, both kept silent about for
 the time being.[^23] <!-- F62 -->
 
+## With the Lord in Navadvipa
+When the Lord returned from Gaya and began His sankirtana, Haridasa settled in Navadvipa, in Advaita's house, to live
+among pure devotees; from then on Advaita and Haridasa were almost always with the Lord, delighting Him with kirtana.
+According to one of the biographies, it was then that Haridasa first saw the Lord; before that he had chanted the name
+now in Mayapur with Advaita, now in his cave in Phulia, now in Shantipura, now in his wanderings.[^24] Murari Gupta
+describes how the Lord received him:
+
+“Then He saw the excellent Sri Haridasa — an intoxicated bee at the lotus feet of Sri Krishna, soothing and cool, a
+festival for the eyes of the righteous, full of grace, like the newly risen moon. Seeing him, Hari, whose glory is
+mighty, embraced this devotee of His feet tightly with both arms and offered him a seat; and he in turn bowed to Him. At
+once anointing him with sandal paste and placing a garland on him, the Lord gave him mahaprasada — incomparable food of
+four kinds, full of every taste; and he ate it at His bidding.” (“Sri-Krishna-Chaitanya-charitamrita” 2.10.2–4)
+
+Lochana Dasa (“Chaitanya-mangala,” Madhya, 29.59–69) and Kavi Karnapura (*mahakavya* 7.48–52) tell the same. And on
+another occasion, Murari says, Haridasa came with a crystal necklace shining on his breast like the moon and with bells
+on his ankles, and danced beside the Lord (2.10.24; so too Lochana Dasa, 30.24–27). <!-- F77 -->
+
+## The Mahaprakasha
+In Srivasa's house the Lord revealed His great manifestation, the Mahaprakasha, which lasted seven *praharas*, twenty-one
+hours. He sat on Vishnu's throne, taking the *shalagramas* to Himself, spoke of His present descent, ate everything that
+was offered to Him and bestowed boons, calling each devotee by name.[^25] Haridasa He called to Himself especially:
+
+“‘O Haridasa, behold My form. You are dearer to Me than My own body; truly you and I are of one caste. When I remember
+how the Yavanas tormented you, My heart breaks. Listen, Haridasa: when the Yavanas were beating you, leading you from
+village to village, I saw your suffering and came down from Vaikuntha with the disc in My hand to cut your tormentors to
+pieces. But you wished them only good, though they had nearly beaten you to death. You paid no heed to the cruel blows and
+prayed for the welfare of your tormentors. And when you began to pray for their welfare, I could do nothing to them;
+because of you I could not use My disc. Because of your kindness to them I could not cut off their heads. Seeing with
+what force and cruelty they were beating you, I covered your back with My own body. I took the blows upon Myself. I speak
+the truth: look, here are the scars on My back.’” (CB, Madhya 10.35–44)
+
+Hearing this, Haridasa fell senseless; his breathing stopped. The Lord called him: “Get up, My dear Haridasa!” — and,
+coming to himself, bathed in tears, he rolled about the courtyard for a long time, and then offered the Lord a long
+prayer: Draupadi, Prahlada and the Pandavas remembered You — and You saved them; but I, a sinner, do not remember You —
+and yet, Lord, do not abandon me (CB, Madhya 10.52–83). <!-- F45 F78 Q9 -->
+
+He asked no other boon than service:
+
+“‘I wish that my food may always be the remnants of Your servants, who tirelessly worship Your lotus feet. <…> O son of
+Shachi, O my dear one, have mercy on me: let me be a dog in the house of a Vaishnava.’” (CB, Madhya 10.86, 91)
+
+And the Lord granted him:
+
+“The Lord said, ‘Listen, My dear Haridasa. Anyone who lives near you even for a day or hears you even for a moment will
+surely come to Me; of this there is no doubt. One who shows you respect is in truth honouring Me, for I always dwell in
+your body.’” (CB, Madhya 10.93–95)[^26] <!-- F79 Q9 -->
+
+Vrindavana Dasa closes this account with praise of Haridasa:
+
+“The great Brahma and Shiva always long for the company of devotees like Haridasa. All the gods of this world wish to
+touch Haridasa, and the holy Ganga waits for Haridasa to bathe in her waters. What to speak of touching Haridasa? Merely
+seeing him once, a living being casts off forever the chains of material bondage that have bound him since time without
+beginning.” (CB, Madhya 10.108–110) <!-- F80 Q9 -->
+
+## Kirtana and Preaching
+Every night the Lord sang kirtana with the devotees in Srivasa's house, and sometimes at Chandrashekhara's, and Haridasa
+was always among them (CB, Madhya 8.110–112). When Nityananda came to Navadvipa, the Lord sent Haridasa and Srivasa to
+search: “O Haridasa! O Srivasa Pandita! Go and look for anyone who has lately come to the town” (CB, Madhya 3.160) — and
+for three *praharas* they went round Navadvipa without finding Him. <!-- F81 F82 Q10 -->
+
+Then the Lord made Nityananda and Haridasa the first preachers of the holy name:
+
+“‘Listen, Nityananda! Listen, Haridasa! Go and make My teaching known to the whole world. Go to every house and ask:
+“Chant Krishna's names, worship Krishna and follow Krishna's teachings.” Speak of nothing else and ask for nothing more.
+Come at the end of the day and tell Me everything.’” (CB, Madhya 13.8–10)
+
+The housewives, taking them for sannyasis, brought out alms, and they replied: “Our alms are this — serve Krishna, sing
+His name.” Good people accepted the instruction, others cursed, and those who were not admitted to the night kirtanas in
+Srivasa's courtyard said that Nimai Pandita had been ruined by such company. <!-- F83 Q10 -->
+
+One day they saw two drunken brothers in the street, Jagai and Madhai — by people's account, of a noble brahmana family.
+Nityananda disclosed to Haridasa that He wished to deliver them; Haridasa at first advised not to approach such
+offenders, and Nityananda said to him:
+
+“‘O Haridasa, see how wretched they are! Born brahmanas, they have fallen so low; they will never escape the punishment
+of Yamaraja. When the Yavanas were beating you nearly to death, you cared only for their welfare.’” (CB, Madhya
+13.63–65)
+
+The two preachers approached and repeated the Lord's words to the brothers, but these rushed at them in a fury, and the
+preachers fled; Haridasa, already old, could hardly keep up with Nityananda. In the evening he complained to Advaita in
+jest that he would no longer go preaching with Nityananda: He was far too reckless. Later Madhai broke Nityananda's head
+with a shard of a pot, and the Lord came with the devotees and delivered both brothers.[^27] <!-- F84 Q10 -->
+
+When once the Lord in despair threw Himself into the Ganga, Nityananda and Haridasa pulled Him out. He hid in the house
+of Nandana Acharya and told them to keep silent, but later Haridasa brought Srivasa there. <!-- F85 -->
+
+## The Kotal of Vaikuntha
+In Chandrashekhara's house the Lord staged a drama in which He Himself appeared as Lakshmi, and to Haridasa fell the part
+of the *kotal* — the watchman, “the doorkeeper of Vaikuntha.” He came out with a staff, in a watchman's dress, and was the
+first to call out:
+
+“Haridasa Prabhu called to everyone, ‘Wake up! Wake up!’ and Srivasa Prabhu danced in the dress of Narada.” (CB, Madhya
+18.100)
+
+And Murari Gupta writes: “Then Haridasa entered first, like the full moon, staff in hand. ‘Sing the kirtana of Hari!’ he
+proclaimed, awakening the three worlds scorched by suffering” (“Sri-Krishna-Chaitanya-charitamrita” 2.16.1). Haridasa
+burst into dance, twirling his staff, and told everyone to watch attentively; all marvelled at how he explained why he
+had been sent and disclosed the meaning of the drama (so too Lochana Dasa, 34.108–110). Kavi Karnapura in his drama
+“Chaitanya-chandrodaya” (Act 3) calls him “Haridasa the stage-manager.” And at the end of the drama the Lord, appearing
+as the Original Shakti, in Lochana Dasa's words, “taking Haridasa by the hand, with a smile seated him on Her lap,” and he
+swayed on Her lap “like a five-year-old child” (34.125–126). This is no disguise and no actor's play, but divine *lila*:
+the Lord in the mood of the Mother pours out a mother's tenderness on His devotee. <!-- F86 -->
+
+## The Procession to the Kazi's House
+On the night of the great procession against the kazi the Lord divided the procession of many thousands into three
+parts:
+
+“‘Advaita Acharya will dance at the head of the procession, and one of the groups will sing around Him. Haridasa will
+dance in the middle, and a large group will be around him too. At the rear Srivasa Pandita will dance, and there will be
+a group around him as well.’” (CB, Madhya 23.141–143)
+
+“Next, obeying the Lord's command, came Haridasa, an ocean of the joy of relationship with Krishna, and his dance was
+indescribably beautiful.” (CB, Madhya 23.204)[^28] <!-- F87 Q10 -->
+
+## Last Days in Navadvipa
+Once the Lord with Nityananda came unexpectedly to Advaita in Shantipura. The four of them bathed in the Ganga, and when
+Advaita prostrated Himself at the Lord's feet and Haridasa at Advaita's, it looked like three links of a chain bridge;
+Nityananda rejoiced, while the Lord was displeased that Advaita had bowed at His feet. A few days later the Lord returned
+to Navadvipa with Nityananda and Haridasa (CB, Madhya 19). Murari Gupta says that in Advaita's abode the Lord “was full of
+mercy towards Haridasa” (3.18.17). <!-- F88 -->
+
+On another evening the Lord came with Haridasa to Murari's house and privately instructed Murari to serve Advaita (Murari
+2.18.25–26; “Chaitanya-mangala,” Madhya, 38.53). <!-- F89 -->
+
+His decision to take sannyasa the Lord concealed from everyone except Nityananda — even from Haridasa, so that his grief
+would not become inconsolable. The day before, Haridasa was at His house, and on the last night Haridasa and Gadadhara
+slept near the Lord; waking, they did not find Him. Advaita and Haridasa went away to Shantipura. <!-- F90 -->
+
+## Farewell in Shantipura
+Having taken sannyasa, the Lord came to Advaita in Shantipura; He had said beforehand that He would come there “by way of
+Haridasa Thakura's Phulia.” In the evening kirtana began:
+
+“Nityananda Gosani moved along with the Acharya, holding Him, and behind them Haridasa danced for joy.” (CC, Madhya
+3.113) <!-- F91 -->
+
+When the Lord called Haridasa and Mukunda to share His meal, both declined:
+
+“Haridasa said, ‘I am most sinful and lowly. Later I shall eat a handful outside.’” (CC, Madhya 3.63)[^29] <!-- F93 -->
+
+The Lord was about to leave for Puri, and Haridasa grieved: how could he live in separation, since one born in a Muslim
+family would not be admitted to Jagannatha's temple, and Orissa and Bengal were then at war?
+
+“When He had bidden them all farewell, the Lord made up His mind to set out. Then Haridasa, weeping, spoke piteously:
+‘You will go to Nilachala — but what will become of me? I have no power to go there. Lowly as I am, I shall not be able
+to see You. How shall I keep this sinful life?’ The Lord said, ‘Restrain your humility; it troubles My heart. For your
+sake I shall plead with Jagannatha, and I shall take you with Me to Sri Purushottama.’” (CC, Madhya 3.193–197)
+
+Murari Gupta and Lochana Dasa tell that Haridasa, a blade of grass between his teeth, fell at the Lord's feet, and the
+Lord answered with tears: “In just the same way I Myself shall fall at the lotus feet of Jagannatha and ask that the mercy
+of Hari be surely upon you” (Murari 3.4.29–30; “Chaitanya-mangala,” Madhya, 42.11–15). <!-- F92 -->
+
+## Siddha-bakula
+Returning from the South, the Lord sent Kala Krishnadasa to Bengal with a message for the devotees: let them come, led by
+Advaita, to the Ratha-yatra. To Haridasa He sent word to come and live at His feet for the rest of his life; the message
+brought Haridasa back to life. He came to Puri with the devotees of Gauda — and stayed there for good. <!-- F94 -->
+
+The Lord came out to meet two hundred devotees, embraced each one and asked, “Where is Haridasa?” But Haridasa lay
+prostrate at the edge of the road, far from everyone.
+
+“Haridasa said, ‘I am low-born and worthless. I have no right to go near the temple. If I can get a secluded place
+within the garden, I will stay there alone and pass my days. There I shall not come into contact with the servants of
+Jagannatha. To stay there is my desire.’” (CC, Madhya 11.165–167)
+
+The Lord was pleased with his words and asked Kashi Mishra for a secluded hut in a flower garden not far from His own
+residence. Then He Himself came to Haridasa:
+
+“Seeing the Lord, he fell prostrate at His feet, and the Lord raised him up and embraced him. Both of them wept, absorbed
+in love: the servant overcome by the master's virtues, and the master by the servant's. Haridasa said, ‘O Lord, do not
+touch me. I am low, untouchable, the most fallen of all.’ The Lord said, ‘I touch you to purify Myself, for I have none of
+your pure dharma. At every moment you bathe in all the holy places; at every moment you perform sacrifice, austerity and
+charity. You study the Vedas without cease, and you are far more purifying than any brahmana or sannyasi.’” (CC, Madhya
+11.186–191) <!-- F95 F96 Q11 -->
+
+“So saying, He took him to the flower garden and gave him a dwelling in a very secluded spot. ‘Stay here and sing the
+holy Name. I shall come and meet you every day. When you see the chakra on the temple, offer your obeisance. Your
+prasada will be brought to you here.’” (CC, Madhya 11.193–195) <!-- F97 Q11 -->
+
+This place, behind the Gambhira where the Lord lived, is now called Siddha-bakula: an ancient bakula tree grew there.
+According to a tradition given by one of the biographies, the temple priests gave the Lord a bakula twig with which
+Jagannatha's “teeth were cleaned,” and He planted it by the place of Haridasa's *bhajana*; the twig grew into a great
+tree. It is said that this happened on the first day of the month of Chaitra, at Mahavishuva-sankranti, and on that day
+the Danta-kashtha-ropana, “the planting of the toothstick,” is celebrated there every year; formerly the garden was
+called the Mudra Matha.[^30] <!-- F98 -->
+
+No one forbade Haridasa to enter the temple, but out of humility he never entered either it or Kashi Mishra's house; so
+too, later, did Rupa and Sanatana:
+
+“Haridasa Thakura, Sri Rupa and Sanatana — these three did not go into the temple of Jagannatha. After seeing
+Jagannatha's *upala-bhoga* offering, Mahaprabhu would meet these three and then go to His own residence. Whichever of the
+three was there at the time, the Lord would come and meet him Himself — this was His rule.” (CC, Madhya 1.63–65)
+
+Govinda, the Lord's servant, brought him the remnants of the Lord's meal every day. Such was the humility of the
+Namacharya: he did not enter the temple, did not sit to eat with the devotees, lay prostrate at the roadside.
+<!-- F99 Q11 I10 -->
+
+After the cleaning of the Gundicha temple and the pastimes in Narendra Lake, the Lord fed the devotees in the garden and
+called Haridasa again and again to the meal, but he answered from afar:
+
+“‘Let the Lord take prasada with the devotees. Worthless as I am, I am not fit to sit in this company. Later Govinda will
+give me prasada outside the gate.’ Knowing his mind, the Lord did not call him again.” (CC, Madhya 12.161–162)
+<!-- F101 I10 -->
+
+At the Ratha-yatra the Lord divided the kirtana into groups and appointed a dancer in each: Nityananda, Advaita,
+Haridasa and Vakreshvara (CC, Madhya 13.35).
+
+“He formed another group with Mukunda as the leader, in which Vasudeva, Gopinatha and Murari sang, with two more,
+Shrikanta and Vallabha Sena; and Haridasa Thakura danced there.” (CC, Madhya 13.40–41)
+
+One of the biographies adds that Jagannatha stopped His chariot to watch the dancing. And at the Gundicha temple the Lord
+had now Advaita, now Nityananda, now Haridasa dance (CC, Madhya 14.71).[^31] <!-- F102 -->
+
+The residents of Puri and the Lord's constant companions became close to him: “Gadadhara Pandita, Vakreshvara, Damodara,
+Shankara and Haridasa Thakura stayed with the Lord in Puri” (CC, Madhya 1.252). Jagadananda Pandita came to know him in
+Puri; Damodara Pandita, coming to Siddha-bakula, met the Namacharya and was overjoyed; Svarupa, Ramananda and Haridasa
+honoured the feet of Nityananda. <!-- F103 -->
+
+## Ramakeli
+Haridasa was also among the Lord's companions when He set out for Vrindavana through Bengal and reached Ramakeli. There
+Rupa and Sanatana, still in the service of the ruler of Gauda, came secretly to the Lord at night:
+
+“At midnight the two brothers came to where the Lord was staying. First they met Nityananda and Haridasa. These two told
+the Lord: ‘Rupa and Sakara Mallika have come to see You.’” (CC, Madhya 1.183–184)
+
+The Lord told His companions, Haridasa among them, to bless the brothers. And Sanatana advised the Lord not to go further
+with such a crowd: the Muslim ruler could not be trusted, and it did not befit a pilgrim to lead thousands of people
+behind him (CC, Madhya 1.222–224); and the Lord turned back.[^32] So began a friendship that later continued in Puri, in
+Haridasa's hut. <!-- F100 -->
+
 [^1]: The title “Namacharya” is given him by the biographies; one of them puts the word in the mouth of Sanatana
     Gosvami: “and so the world honours you as the Namacharya.” In the “Charitamrita” Sanatana calls him “the guru of all”
     (*jagat-guru*, Antya 4.103); as a title the word “Namacharya” occurs neither in the “Charitamrita” nor in the
@@ -499,3 +727,29 @@ the time being.[^23] <!-- F62 -->
     “Advaita-prakasha” (9.177–192) Haridasa weeps over the outrages of the *mlecchas*.
 [^23]: According to one of the biographies, the news of the birth was brought to Advaita by Jagannatha Mishra; Advaita
     bathed in the river with Haridasa, sang and danced, and sent His wife to Mayapur.
+[^24]: The “Chaitanya-bhagavata” speaks of Haridasa's coming to Navadvipa at the same time as the Lord began His
+    sankirtana (Adi 16.16).
+[^25]: One of the biographies writes that the Lord ate food “enough for about two.” According to the
+    “Chaitanya-bhagavata” (Madhya 9.75–80), He ate everything that was offered to Him, and no number is given.
+[^26]: One of the biographies adds that the Lord showed Haridasa His form and glorified him before all.
+[^27]: One of the biographies calls Nityananda and Haridasa here “the two Prabhus” — a respectful address; but Nityananda
+    is the Lord Himself, Balarama, while Haridasa is His devotee. According to another passage of the same biography, on
+    the first day both preachers ran away from the brothers and told the Lord everything.
+[^28]: In another place one of the biographies writes that Thakura Haridasa went in front, Advaita in the middle and
+    Gaura at the rear. We follow the “Chaitanya-bhagavata” (Madhya 23.141–143); at the end of the procession, by its own
+    account, Srivasa, Advaita and Haridasa danced in front (Madhya 23.307).
+[^29]: One of the biographies writes that the Lord called Haridasa and Mukunda to the midday meal, without mentioning
+    their refusal; we follow the “Charitamrita.”
+[^30]: The tradition of the twig and the festival, like the garden's former name, is given by only one biography.
+    Another says briefly that there was an ancient bakula tree there, “and he was known as a *siddha-mahatma*” — whether
+    of the tree or of Haridasa is unclear. In the “Charitamrita” (Madhya 11.193) the garden is called only “a flower
+    garden” (*pushpodyana*), without the name Siddha-bakula.
+[^31]: One of the biographies writes that the Lord divided the devotees into seven groups and entrusted one to Haridasa,
+    and calls him one of the nine principal singers (cf. CC, Madhya 13.73); another places Haridasa Thakura in the second
+    group (Madhya 13.39). But 13.39 and 13.73 name a “Haridasa” without title, probably the singer; the Thakura in
+    13.35–41 is a dancer. Yet another biography recalls that earlier, when the Lord divided the devotees into four
+    groups, Haridasa was the dancer of one of them (Madhya 13.32–35).
+[^32]: One of the biographies dates Ramakeli “before Haridasa came to Puri” and says that the Lord was accompanied by him,
+    Nityananda and seven companions, and that the Lord went no further because the brothers humbly advised Him so. But
+    according to the “Charitamrita” (Madhya 11), Haridasa had already come to Puri for the first Ratha-yatra after the
+    Lord's southern journey, that is, earlier; only this biography speaks of “seven companions.”
