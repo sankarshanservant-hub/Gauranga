@@ -589,3 +589,653 @@
   themes: [author]
   verses:
     - {file: "bhakti-ratnakara/ru/08.md", from: "556", to: "556"}
+
+# ---------- Таранга 9. Новое путешествие Шринивасы во Вриндаван; празднества в Катве, Яджиграме и Шрикханде ----------
+
+- id: brt-4032
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 1–4"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: PX
+  order: 39
+  title: "Мангала девятой волны: слава Гаурачандре, Нитьянанде, Адвайте, Гададхаре и Шривасу"
+  summary: "Слава Гаурачандре, сыну Шачи, Нитьянанде, сыну Падмавати, Адвайте, сыну Набха-деви, Гададхаре, сыну Ратнавати, Шривасу и преданным; обращение к слушателям."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "1", to: "4"}
+
+- id: brt-4033
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 5–34"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 90.6
+  title: "Вира Хамбир кается в похищении книг; письма Госвами из Вриндавана царю и Шринивасе"
+  summary: "В Вана-Вишнупуре царь Вира Хамбир тоскует по Шринивасе и боится, что Госвами не простят ему оскорбления; министры утешают его; из Враджа приходят двое с письмами от Госвами — царю и Ачарье; письмо Шри Дживы полно сладости, царь в слезах прославляет милость преданных, не видящих изъянов; он пересылает письмо Госвами в Яджиграм со своим письмом; Шриниваса отвечает, что придёт несколько позже."
+  persons: ["@vira-hambira", "@jiva-gosvami", "@srinivasa-acharya"]
+  places: ["#vana-vishnupura", "#vrindavana", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "Ср. переписку Дживы со Шринивасой: «Карнананда» 5 (krn-0025), «Према-виласа», Полувиласа (pvl-0201)"
+  themes: [mercy, offense]
+  event: ev-vira-hambira-gosvamis-letter
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "5", to: "34"}
+
+- id: brt-4034
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 35–50"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 89.1
+  title: "Шриниваса учит в Яджиграме; брахманы из Кшетры: спутники в Нилачале скрылись, Шьямананда ушёл во Вриндаван"
+  summary: "Шриниваса, провозглашая превосходство бхакти, обучает учёных из разных стран и тревожится, что спутники Господа уходят; двое брахманов из Шрикшетры, пришедшие учиться книгам Госвами, рассказывают: спутники в Нилачале почти все скрылись; пришедший туда Шьямананда застал лишь некоторых махантов, после их сокрытия стал словно мёртвый и, утешенный бхагаватами, ушёл во Вриндаван; Шриниваса плачет и начинает учить их."
+  persons: ["@srinivasa-acharya", "@shyamananda"]
+  places: ["#yajigrama", "#puri", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 5 (nvl-0033: та же весть в Яджиграме при Нароттаме)"
+  divergence: "В «Нароттама-виласе» брахман из Кшетры приходит, когда у Шринивасы гостит Нароттама; здесь — после ухода Нароттамы в Кхетури."
+  themes: [departure, separation, learning]
+  event: ev-shyamananda-puri-associates-disappear
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "35", to: "50"}
+
+- id: brt-4035
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 51–70"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.31
+  title: "Вести о сокрытии Шукламбары, Даса Гададхары и Нарахари Саркара; оба являются Шринивасе во сне"
+  summary: "Вайшнав из Навадвипы сообщает о сокрытии Шукламбары и других; тут же приходит весть о сокрытии Даса Гададхары — Шриниваса лишается чувств; он велит ученикам изучать книги — смысл откроют Рупа и Санатана; когда приходит весть о сокрытии Нарахари, Шриниваса всю ночь плачет и решает оставить жизнь; во сне Дас Гададхара и Нарахари берут его за руку: «Не подобает — мы всегда рядом с тобой»."
+  persons: ["@srinivasa-acharya", "@shuklambara", "@gadadhara-dasa", "@narahari-sarakara", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#yajigrama", "#navadvipa"]
+  kind: vision
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0146); «Нароттама-виласа» 6 (nvl-0038)"
+  notes: "Даты ухода — ниже: Дас Гададхара — кришна-аштами карттики (9.362), Нарахари — кришна-экадаши маргаширши (9.374), как в «Према-виласе»."
+  themes: [departure, separation, revelation]
+  event: ev-gadadhara-dasa-narahari-departure
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "51", to: "70"}
+
+- id: brt-4036
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 71–80"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.55
+  title: "Шриниваса снова уходит во Вриндаван; у Вишрама-гхата узнаёт о сокрытии Харидаса Ачарьи"
+  summary: "Сказав что-то Рамачандре наедине, Шриниваса на рассвете уходит во Вриндаван; в Матхуре, после омовения у Вишрама-гхата, брахман-матхур говорит ему: в экадаши тёмной половины магхи, дней десять назад, сокрылся брахман Харидас Ачарья; Шриниваса катается по земле: «Не довелось увидеть!»"
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@dvija-haridasa"]
+  places: ["#yajigrama", "#mathura", "#vishrama-ghata"]
+  kind: post-advent
+  authority: B
+  calendar: "магха, экадаши тёмной половины (уход Харидаса Ачарьи)"
+  parallels: "БР 10.32–43 (рассказ очевидца об уходе Харидаса)"
+  themes: [departure, separation, pilgrimage]
+  event: ev-dvija-haridasa-departure
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "71", to: "80"}
+
+- id: brt-4037
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 81–94"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.56
+  title: "Второй приход Шринивасы во Вриндаван: Васанта-панчами у Говинды"
+  summary: "В день Васанта-панчами Госвами празднуют в храме Говинды; Гопала Бхатта, Бхугарбха, Локанатха, Джива и другие, увидев Шринивасу, обнимают его; он рассказывает о сокрытии любимых преданных Гауры, все плачут и утешают его; после раджабхога-арати Говинды и даршана Радха-Говинды вкушают маха-прасад; Джива берёт Шринивасу к себе."
+  persons: ["@srinivasa-acharya", "@gopala-bhatta", "@bhugarbha", "@lokanatha", "@jiva-gosvami", "@govinda-deity"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  calendar: "магха, Васанта-панчами"
+  parallels: "«Нароттама-виласа» 6 (nvl-0038); «Анурага-валли» 6 (anv-0041)"
+  divergence: "В «Анурага-валли» на вопрос Гопалы Бхатты о женитьбе Шриниваса отвечает уклончиво и становится адхикари Радха-раманы; здесь об этом нет."
+  themes: [festival, separation, deities]
+  event: ev-srinivasa-second-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "81", to: "94"}
+
+- id: brt-4038
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 95–109"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.57
+  title: "Шьямананда приходит из Кшетры во Вриндаван; Джива читает Шринивасе начало «Гопала-чампу»"
+  summary: "Шьямананда приходит из Кшетры, Джива с нежностью утешает его и сообщает о приходе Шринивасы; оба встречаются, плачут и успокаиваются, вспомнив слова Госвами; Шриниваса кланяется Гопале Бхатте и снова учится у Дживы; тот, довольный его учёностью, читает ему начало «Гопала-чампу» и показывает другие свои книги."
+  persons: ["@shyamananda", "@jiva-gosvami", "@srinivasa-acharya", "@gopala-bhatta"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  scriptures: ["Гопала-чампу"]
+  themes: [learning, separation]
+  teaching: [scripture]
+  event: ev-srinivasa-second-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "95", to: "109"}
+
+- id: brt-4039
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 110–120"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.58
+  title: "Рагхунандана посылает Рамачандру во Вриндаван за Шринивасой"
+  summary: "В Гауде все тоскуют без Шринивасы; Рагхунандана в Шрикханде говорит Рамачандре: «Всё опустело — иди скорее во Вриндаван» и объясняет путь; в Яджиграме все просят его привести Ачарью; Рамачандра, тоскуя и по обществу Нароттамы, задумывает поселиться там, где его будет навещать Прабху."
+  persons: ["@raghunandana", "@ramachandra-kaviraja", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#shrikhanda", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 6 (anv-0042)"
+  divergence: "В «Анурага-валли» Рамачандру во Вриндаван посылает Ишвари, жена Шринивасы; здесь — Рагхунандана."
+  themes: [separation]
+  event: ev-srinivasa-second-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "110", to: "120"}
+
+- id: brt-4040
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 121–136"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.6
+  title: "Рамачандра уходит во Вриндаван; Говинда переселяется из Кумара-нагара в Телию Будхари"
+  summary: "Рамачандра говорит младшему брату Говинде: из-за бед с давним земельным владением лучше переселиться в Телию Будхари между Гангой и Падмой, где бывал их дед; Говинда соглашается; Рамачандра даёт ему наставления о высшей цели и в конце пауши уходит во Вриндаван (Шриниваса ушёл в конце маргаширши); через несколько дней Говинда переселяется, и жители Будхари с радостью устраивают ему жилище."
+  persons: ["@ramachandra-kaviraja", "@govinda-kaviraja", "@damodara-sena-kavi", "@srinivasa-acharya"]
+  places: ["#kumaranagara", "#teliya-budhari", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  calendar: "конец пауши (уход Рамачандры); конец маргаширши (уход Шринивасы)"
+  parallels: "«Према-виласа» 13 (pvl-0094: Рамачандра из Телия Будхари)"
+  divergence: "В «Према-виласе» Рамачандра уже живёт в Телия Будхари, когда впервые ищет Шринивасу; здесь братья переселяются туда из Кумара-нагара лишь теперь."
+  themes: [family]
+  event: ev-govinda-kaviraja-settles-budhari
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "121", to: "136"}
+
+- id: brt-4041
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 137–177"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.65
+  title: "Прежняя жизнь Говинды: рождение по воде с янтры Дурги, почитание Шакти; голос Богини: «Без служения Кришне злая участь не рассеется»"
+  summary: "Говинда тоскует о посвящении у Шринивасы; автор рассказывает: мать Сунанда не могла разрешиться, и дед Дамодара Кавираджа, почитатель Шакти, знаком велел показать ей янтру Дурги, а служанка дала выпить воду с неё — так родился Говинда; рано лишившись отца, он рос у деда и стал почитателем Бхагавати; когда Рамачандра стал учеником Ачарьи, Бхагавати незримо сказала Говинде: «Если не служить Кришне, ни у кого не рассеется злая участь»; он решает стать учеником Ачарьи, но тот уже ушёл во Вриндаван; Говинда кается, что не слушал вайшнавов о своём отце Чирандживе, — и голос с неба возвещает: «Желаемое исполнится через несколько дней»; он живёт в Пашчимпаре в Будхари."
+  persons: ["@govinda-kaviraja", "@sunanda-mother-ramachandra", "@damodara-sena-kavi", "@durga", "@chiranjiva-sena", "@ramachandra-kaviraja", "@srinivasa-acharya", "@krishna"]
+  places: ["#kumaranagara", "#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 14 (pvl-0097); пада ГПТ1 6.3 № 68 (pad-0567: голос Катьяяни)"
+  divergence: "В «Према-виласе» Богиня велит умирающему Говинде помнить Говинду (Кришну), и Шриниваса в Будхари исцеляет и посвящает его; здесь голос Богини звучит ещё до второго путешествия Шринивасы, о болезни не сказано, рождение — по воде с янтры."
+  notes: "Почитание Дурги до обращения — мирская преданность, которую сама Богиня обращает к служению Кришне."
+  themes: [family, revelation, celestial]
+  bhava: [shakti]
+  teaching: [bhakti-supremacy]
+  event: ev-govinda-kaviraja-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "137", to: "177"}
+
+- id: brt-4042
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 178–218"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.7
+  title: "Рамачандра во Вриндаване: Джива и Шриниваса, Божества и самадхи Госвами, Радха-кунда; звание «Кавираджа»"
+  summary: "Люди дивятся прекрасному пришельцу из Гауды; Шриниваса угадывает: «Пришёл Рамачандра»; Джива велит привести его; Рамачандра передаёт слова Рагхунанданы и вести, рассказывает о пути через Гаю, Каши, Айодхью и Праягу; Джива решает скорее отправить Шринивасу в Гауду; у Радха-Дамодары Рамачандра плачет у самадхи Рупы, видит Говинду, Гопинатху, Мадана-мохана, Радха-рамана, самадхи Санатаны, Кашишвары, Рагхунатхи Бхатты; Гопала Бхатта, Локанатха, Бхугарбха являют милость; на Радха-кунде Рагхунатха Дас, услышав его стихи, милостив к нему, встреча с Кришнадасом Кавираджей; он обходит Говардхан и двенадцать лесов; Госвами за его стихи дают ему прозвание «Кавираджа»; вместе с Шринивасой он служит Гопале Бхатте."
+  persons: ["@ramachandra-kaviraja", "@jiva-gosvami", "@srinivasa-acharya", "@raghunandana", "@radha-damodara-deity", "@rupa-gosvami", "@govinda-deity", "@gopinatha-vrindavana", "@madana-mohana-vrindavana", "@radha-ramana-deity", "@sanatana-gosvami", "@kashishvara", "@raghunatha-bhatta", "@gopala-bhatta", "@lokanatha", "@bhugarbha", "@raghunatha-dasa", "@krishnadasa-kaviraja"]
+  places: ["#vrindavana", "#radha-damodara-temple", "#arita", "#radha-kunda", "#govardhana", "#gaya", "#kashi", "#ayodhya", "#prayaga"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0038); «Анурага-валли» 6 (anv-0042); БР 1 (brt-0013: звание Кавираджи)"
+  divergence: "В «Анурага-валли» с приходом Рамачандры открывается женитьба Шринивасы, Гопала Бхатта упрекает его за неправду; здесь этого нет. Кашишвара и Рагхунатха Бхатта здесь уже сокрылись (их самадхи), Рагхунатха Дас и Кришнадас Кавираджа ещё живы."
+  themes: [pilgrimage, deities, separation]
+  event: ev-srinivasa-second-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "178", to: "218"}
+
+- id: brt-4043
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 219–229"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.8
+  title: "Симхасана-ятра Радха-раманы; Джива отправляет Шринивасу, Рамачандру и Шьямананду в Гауду с выверенными книгами"
+  summary: "Джива объявляет Шринивасе об отъезде; в вайшакха-пурниму Шриниваса видит празднество восшествия на трон Радха-раманы в обители Гопалы Бхатты, и в тот же день Джива отправляет его в Гауду; наутро Джива вверяет ему Шьямананду и посылает выверенные книги с провожатыми; в храме Говинды Госвами прощаются, Джива провожает их часть пути; Шриниваса уходит через Матхуру."
+  persons: ["@jiva-gosvami", "@srinivasa-acharya", "@ramachandra-kaviraja", "@shyamananda", "@gopala-bhatta", "@radha-ramana-deity", "@govinda-deity"]
+  places: ["#vrindavana", "#mathura"]
+  kind: post-advent
+  authority: B
+  calendar: "вайшакха, пурнима (симхасана-ятра Радха-раманы); отъезд — на следующий день"
+  parallels: "«Анурага-валли» 6 (anv-0043); «Нароттама-виласа» 6 (nvl-0038)"
+  divergence: "В «Анурага-валли» Джива при этом даёт Шьямананде имя за смуглую красоту и с ними уходит Вьяса; здесь имени и Вьясы нет."
+  notes: "9.222 («в тот же день … отправил») и 9.223 («на следующий день после полнолуния») — отъезд, видимо, на следующий день."
+  themes: [festival, deities, separation]
+  event: ev-srinivasa-second-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "219", to: "229"}
+
+- id: brt-4044
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 230–241"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 96.9
+  title: "Шриниваса возвращается в Вана-Вишнупур; Вира Хамбир встречает его, Рамачандру и Шьямананду"
+  summary: "Царь выходит навстречу и простирается у стоп Ачарьи; тот ставит стопы ему на голову, поднимает и обнимает, представляет Рамачандру и Шьямананду; царь кланяется им в слезах: «По милости Прабху я обрёл стопы этих двоих»; Ачарья со спутниками днём и ночью наслаждается санкиртаной в Вишнупуре."
+  persons: ["@srinivasa-acharya", "@vira-hambira", "@ramachandra-kaviraja", "@shyamananda"]
+  places: ["#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0038: успокоил царя в Вишнупуре); «Анурага-валли» 6 (anv-0043)"
+  themes: [mercy, kirtan]
+  event: ev-srinivasa-second-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "230", to: "241"}
+
+- id: brt-4045
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 242–259"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 97.1
+  title: "Шьямананда уходит из Вишнупура в Уткалу; Расикананда; Нрисимхапур"
+  summary: "Через десять дней Шриниваса отпускает Шьямананду в Уткалу; царь, опечаленный, собирает ему множество припасов; Шриниваса, обнимая, провожает его; Шьямананда со множеством людей за немногие дни доходит до Уткалы, где его встречают Расикананда и другие, и останавливается в Нрисимхапуре, откуда шлёт письмо Ачарье."
+  persons: ["@shyamananda", "@srinivasa-acharya", "@vira-hambira", "@ramachandra-kaviraja", "@rasikananda"]
+  places: ["#vana-vishnupura", "#nrisimhapura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 6 (anv-0043: Джива предрекает спасение многих в Уткале); «Према-виласа» 19 (pvl-0143)"
+  themes: [mercy, separation]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "242", to: "259"}
+
+- id: brt-4046
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 260–269"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 87.1
+  title: "Посвящение Виры Хамбира: мантра Радхи и Кришны, кама-гаятри; имя «Чайтанья Дас» от Шри Дживы"
+  summary: "Два месяца в Вишнупуре; видя знание царя в книгах о бхакти, Ачарья, исполняя прежнее обещание, даёт ему мантру Радхи и Кришны, изъясняет кама-гаятри, устанавливает правило джапы Хари-нама и вверяет его Рамачандре Кавирадже для подробностей; объявляет, что Шри Джива дал царю имя «Шри Чайтанья Дас»; царь в трепете кланяется."
+  persons: ["@srinivasa-acharya", "@vira-hambira", "@ramachandra-kaviraja", "@jiva-gosvami"]
+  places: ["#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 13 (pvl-0091); «Карнананда» 1, 4 (krn-0011, krn-0022); «Анурага-валли» 6 (anv-0043)"
+  divergence: "В «Према-виласе» царь получает от Шринивасы имя Харичарана Дас; в «Карнананде» Джива даёт ему имя Гопаладас; здесь Джива даёт имя Чайтанья Дас. Вверение царя Рамачандре — как в «Карнананде» 4."
+  themes: [mercy, teaching]
+  teaching: [holy-name]
+  event: ev-vira-hambira-conversion
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "260", to: "269"}
+
+- id: brt-4047
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 270–281"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 87.4
+  title: "Посвящение царицы Сулакшаны и царевича Дхари Хамбира; Вира Хамбир учреждает служение Калачанду"
+  summary: "По многим мольбам царицы Сулакшаны Ачарья даёт ей мантру Божественной Четы; царевич Дхари Хамбир тоже становится учеником; царь открывает служение Калачанду, абхишеку совершает Ачарья; люди говорят: «Не сам ли царевич Враджа явился?»; Ачарья вверяет царя стопам Калачанда; кроме Ачарьи, царь ничего не знает."
+  persons: ["@srinivasa-acharya", "@vira-hambira-queen", "@dhadi-hambira", "@vira-hambira", "@kalachand-deity"]
+  places: ["#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Карнананда» 1 (krn-0010, krn-0011)"
+  divergence: "В «Карнананде» царица просит посвящения, услышав песни царя, сложенные во сне; здесь она посвящена прежде песен. Имя царицы — Сулакшана — только здесь (возможно, эпитет)."
+  themes: [deities, family, festival]
+  event: ev-kalachand-installation
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "270", to: "281"}
+
+- id: brt-4048
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 282–299"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 87.3
+  title: "Две песни Виры Хамбира, сложенные во сне: о Шринивасе и о Калачанде"
+  summary: "Во сне царь слагает песни; царица слышит и смиренно просит их; царь читает: в первой (рага Камода) — Шриниваса рассеял его царскую гордыню, сделал служанкой стоп Радхи, привязал сердце к Горе и показал кунджу и пути любви Радхи и Кану; во второй — гопи говорит подруге о Тёмном, чья любовь сжигает её, сердце Виры Хамбира утонуло у стоп Калачанда; царица и царь плачут; песни с подписью «Чайтанья Дас» автор не приводит."
+  persons: ["@vira-hambira", "@vira-hambira-queen", "@srinivasa-acharya", "@kalachand-deity", "@radha", "@krishna", "@mahaprabhu"]
+  places: ["#vana-vishnupura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Карнананда» 1 (krn-0010)"
+  notes: "Вторая песня — от лица гопи; према гопи — трансцендентная любовь, не мирская страсть."
+  themes: [krishna-lila, ecstasy]
+  bhava: [gopi]
+  event: ev-vira-hambira-padas-queen
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "282", to: "299"}
+
+- id: brt-4049
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 300–310"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 97
+  title: "Харинараяна, царь Шикхара-бхуми, получает мантру Рамы от сына Трималлы Бхатты по устроению Шринивасы"
+  summary: "Шриниваса принимает многих учеников, а иных, желающих посвящения, устраивает к другому; Харинараяна, царь Шикхара-бхуми, с природной любовью к Рамачандре, должен быть посвящён в мантру Рамы; Шриниваса письмом вызывает из Ранга-кшетры сына Трималлы Бхатты; тот в Панчакуте даёт царю мантру Рамы и вверяет его Шринивасе, который открывает ему все истины."
+  persons: ["@srinivasa-acharya", "@harinarayana-raja", "@trimalla-bhatta", "@rama"]
+  places: ["#vana-vishnupura", "#panchakuta", "#ranga-kshetra"]
+  kind: post-advent
+  authority: B
+  parallels: "БР 1 (brt-0024: песня о Раме для Харинараяны)"
+  notes: "Сын Трималлы Бхатты (двоюродный брат Гопалы Бхатты) по имени не назван; Трималла сам не участвует."
+  themes: [mercy, teaching]
+  event: ev-harinarayana-rama-mantra
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "300", to: "310"}
+
+- id: brt-4050
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 311–328"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.4
+  title: "Письмо из Яджиграма: жители Кханды в тревоге; Шриниваса оставляет Вишнупур"
+  summary: "Человек из Яджиграма приносит письмо: «Приходи скорее — жители Кханды в тревоге»; царь просит взять его с собой; Шриниваса обещает скоро вернуться через Кханду, Яджиграм и Кхетури и известить царя письмом, когда в Яджиграм придёт Нароттама; на рассвете он с припасами от царя уходит, царь провожает его часть пути; жители Яджиграма ликуют."
+  persons: ["@srinivasa-acharya", "@vira-hambira", "@narottama-dasa"]
+  places: ["#vana-vishnupura", "#yajigrama", "#shrikhanda", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [separation]
+  event: ev-srinivasa-raghunandana-shrikhanda
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "311", to: "328"}
+
+- id: brt-4051
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 329–347"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.5
+  title: "Шриниваса в Шрикханде у Рагхунанданы: плач о Нарахари и ушедших махантах"
+  summary: "Кланяясь Гаурачандре во дворе Гауранги, Шриниваса плачет; Рагхунандана обнимает его, словно обретя жизнь, и расспрашивает о преданных Враджа; узнав, что маханты почти все скрылись, лишается чувств: «Прабху Нарахари оставил меня терпеть страдание»; оба плачут, вся Шрикханда рыдает; успокоившись, Рагхунандана посылает Шринивасу через Яджиграм в Кантака-нагар."
+  persons: ["@srinivasa-acharya", "@raghunandana", "@gaura-deity-shrikhanda", "@narahari-sarakara"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 14 (pvl-0095)"
+  divergence: "В «Према-виласе» это первое возвращение Шринивасы из Вриндавана с книгами; здесь — после второго путешествия."
+  themes: [separation, departure]
+  event: ev-srinivasa-raghunandana-shrikhanda
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "329", to: "347"}
+
+- id: brt-4052
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 348–368"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.34
+  title: "Шриниваса в Кантака-нагаре: Ядунандана Чакраварти готовит праздник в день ухода Даса Гададхары"
+  summary: "На месте санньясы Господа Шриниваса плачет перед Гаурангой; Ядунандана Чакраварти, ученик Даса Гададхары, сожжённый горем, встречает его, оба плачут; Ядунандана показывает сиденье Гададхары, где тот скрылся в кришна-аштами карттики, приготовленные припасы и место для махантов, разосланные приглашения и зовёт Шринивасу на десять дней; Шриниваса возвращается в Яджиграм и шлёт весть царю в Вишнупур."
+  persons: ["@srinivasa-acharya", "@yadunandana-chakravarti", "@gadadhara-dasa", "@gauranga-katwa", "@mahaprabhu", "@vira-hambira"]
+  places: ["#katwa", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  calendar: "карттика, кришна-аштами (уход Даса Гададхары)"
+  parallels: "«Према-виласа» 19 (pvl-0146, pvl-0147)"
+  themes: [festival, departure, separation]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "348", to: "368"}
+
+- id: brt-4053
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 369–389"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.341
+  title: "Рагхунандана рассказывает об уходе Нарахари; приглашения спутникам Чайтаньи, Нитьянанды и Адвайты; шествие в Кантака-нагар"
+  summary: "Рагхунандана говорит Шринивасе: после ухода Даса Гададхары в карттику Нарахари ни с кем не говорил и истаивал и в экадаши тёмной половины маргаширши скрылся здесь; припасы готовы, приглашения разосланы спутникам Нитьянанды, Адвайты и Чайтаньи, придут сын Нитьянанды и сын Адвайты; после праздника в Катве всех приведут в Шрикханду через Яджиграм; в Яджиграме Рамачандра и другие готовят жильё; Рагхунандана со спутниками из Кханды на рассвете приходит в Яджиграм и с Ачарьей идёт в Кантака-нагар."
+  persons: ["@raghunandana", "@srinivasa-acharya", "@narahari-sarakara", "@gadadhara-dasa", "@ramachandra-kaviraja", "@virabhadra"]
+  places: ["#shrikhanda", "#yajigrama", "#katwa"]
+  kind: post-advent
+  authority: B
+  calendar: "маргаширша, экадаши тёмной половины (уход Нарахари Саркара)"
+  parallels: "«Према-виласа» 19 (pvl-0146, pvl-0147)"
+  divergence: "В «Према-виласе» Рагхунандана с Лочаной сам приходит в Катву к Ядунандане, и праздники назначают вместе; здесь в Катву Рагхунандана посылает Шринивасу."
+  themes: [festival, departure]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "369", to: "389"}
+
+- id: brt-4054
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 390–432"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.342
+  title: "Перечень махантов, пришедших в Кантака-нагар; сыновья Адвайты Кришна Мишра и Гопала; красота Вирабхадры"
+  summary: "Автор перечисляет пришедших: Шрипати, Шринидхи, Видьянанда, Ванинатха Васу, Рамадас, Кавичандра, Пурушоттама, Санджая, Чандрашекхара, Мадхава Ачарья, Шаштхидхара, Камалаканта, Нандана, Пурандара, Карнапура, Джанакинатха, Рагхунатха Вайдья, Рамачандра Кавираджа, Кану Тхакур, Локанатха Пандит и многие другие; сыновья Адвайты Кришна Мишра и Гопала раздают према-бхакти; Вирабхадра — ветвь, подобная стволу (цитата ЧЧ Ади 11); жители Катвы восхищаются его красотой и продают себя его стопам."
+  persons: ["@shripati", "@shrinidhi", "@ramachandra-kaviraja", "@krishna-mishra", "@gopala-dasa-advaita", "@virabhadra", "@advaita", "@nityananda", "@krishnadasa-kaviraja"]
+  places: ["#katwa"]
+  kind: post-advent
+  authority: B
+  scriptures: ["ЧЧ Ади 11"]
+  parallels: "«Према-виласа» 19 (pvl-0147: перечень ветвей)"
+  divergence: "Состав перечней сильно расходится; в «Према-виласе» названы Вриндаван Дас, Джагай и Мадхай, Ачьютананда, Наянананда — здесь их нет."
+  notes: "Границы ряда имён неясны (сноски 40–43 перевода); тегами отмечены лишь бесспорные лица. Карнапура (396) — возможно, Кави Карнапура."
+  themes: [festival]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "390", to: "432"}
+
+- id: brt-4055
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 433–457"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.343
+  title: "Праздник в Кантака-нагаре: плач на месте санньясы; санкиртана в кришна-аштами с танцем Кришны Мишры, Гопалы и Вирабхадры"
+  summary: "Ядунандана сообщает Рагхунандане о прибытии махантов, все выходят навстречу к Ганге; на месте санньясы Господа все рыдают, катаясь в пыли; придя во двор Гауранги, успокаиваются; Шриниваса со спутниками исполняет все дела; в кришна-аштами карттики — санкиртана во дворе Гауранги, танцы Кришны Мишры, Гопалы и Вирабхадры, полубоги смешиваются с людьми; праздник длится в саптами, аштами и навами, затем все остаются ещё несколько дней."
+  persons: ["@yadunandana-chakravarti", "@raghunandana", "@srinivasa-acharya", "@krishna-mishra", "@gopala-dasa-advaita", "@virabhadra", "@gauranga-katwa", "@mahaprabhu"]
+  places: ["#katwa", "#ganga"]
+  kind: post-advent
+  authority: B
+  calendar: "карттика, тёмная половина, 7–9-й дни (кришна-аштами — день ухода Даса Гададхары)"
+  parallels: "«Према-виласа» 19 (pvl-0147)"
+  themes: [festival, kirtan, sannyasa]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "433", to: "457"}
+
+- id: brt-4056
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 458–494"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.344
+  title: "Проводы из Кантака-нагара; слава Ядунанданы; Гададхара Пандит — Радха, Дас Гададхара — вибхути Радхи (ГГД, ЧЧ)"
+  summary: "Рагхунандана со всеми уходит в Яджиграм, зовя Ядунандану поскорее в Кханду; автор славит Ядунандану — сочинителя повествования о Гауранге, главного в ветви Даса Гададхары, для которого Дас Гададхара и Гададхара Пандит не различны; по ГГД Гададхара Пандит — Радха (и Лалита), Дас Гададхара — Чандраканти, вибхути Радхи, в нём и Пурнананда, подруга Баларамы; по ЧЧ Дас Гададхара — ветвь и Чайтаньи, и Нитьянанды: заставил кази произносить имя Хари, в его доме Нитьянанда совершает дана-лилу; Ядунандана безутешен без своего господина."
+  persons: ["@raghunandana", "@yadunandana-chakravarti", "@gadadhara-dasa", "@gadadhara-pandita", "@svarupa-damodara", "@kavi-karnapura", "@dhruvananda-brahmachari", "@nityananda", "@abhirama", "@krishnadasa-kaviraja", "@mahaprabhu"]
+  places: ["#katwa", "#yajigrama"]
+  kind: teaching
+  authority: B
+  scriptures: ["ГГД 147 и далее", "Чайтанья-чандродая (?)", "ЧЧ Ади 10", "ЧЧ Ади 11"]
+  notes: "Отступление автора о таттве Гададхары Пандита и Даса Гададхары внутри рассказа о празднике."
+  themes: [festival]
+  teaching: [associates-tattva]
+  bhava: [radha]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "458", to: "494"}
+
+- id: brt-4057
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 495–505"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.345
+  title: "Маханты в Яджиграме: празднество в доме Шринивасы"
+  summary: "Жители Яджиграма выходят навстречу махантам; приходят Ядунандана и бхагаваты из разных селений; четыре-пять дней в доме Шринивасы великий праздник и санкиртана, Шриниваса всем оказывает почтение; Рагхунандана, наедине что-то сказав ему, ведёт спутников Господа в Кханду."
+  persons: ["@srinivasa-acharya", "@yadunandana-chakravarti", "@raghunandana"]
+  places: ["#yajigrama"]
+  kind: post-advent
+  authority: B
+  notes: "Праздник в Яджиграме между поминальными праздниками в Катве и Шрикханде — только в БР."
+  themes: [festival, kirtan]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "495", to: "505"}
+
+- id: brt-4058
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 506–575"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.346
+  title: "Праздник в Шрикханде; в экадаши Шриниваса по просьбе махантов читает «Бхагавату» — повесть о раса-лиле"
+  summary: "Жители Кханды вводят махантов; люди ждут экадаши тёмной половины аграхаяны, дня ухода Нарахари; утром Рагхунандана украшает двор Гауранги, маханты созерцают Гаурангу и Божество, принявшее ладду от Рагхунанданы; по предложению брахмана Ванинатхи маханты усаживают Шринивасу читать «Бхагавату»; он смиренно садится, поёт мангалачарану и весь день сладостно толкует раса-лилу; одни говорят, что силу дал Шука или Вьяса, другие — Гададхара Пандит, Шривас или сам Гаура; маханты благословляют его, вверяют двум Божествам и хвалят Рагхунандану."
+  persons: ["@raghunandana", "@srinivasa-acharya", "@narahari-sarakara", "@gaura-deity-shrikhanda", "@gopinatha-shrikhanda", "@shripati", "@shrinidhi", "@krishna-mishra", "@gopala-dasa-advaita", "@virabhadra", "@shukadeva", "@vyasa", "@gadadhara-pandita", "@srivasa", "@mahaprabhu", "@krishna"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  calendar: "аграхаяна (маргаширша), экадаши тёмной половины (уход Нарахари)"
+  parallels: "«Према-виласа» 19 (pvl-0147)"
+  notes: "Брахман Ванинатха (527) — какой из Ванинатх, не ясно; тегом не отмечен."
+  themes: [festival, krishna-lila, learning]
+  bhava: [gopi]
+  teaching: [scripture]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "506", to: "575"}
+
+- id: brt-4059
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 576–617"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.347
+  title: "Ночная санкиртана в Шрикханде: сандал и гирлянды; пение по правилам раги; танцы Кришны Мишры, Гопалы и Вирабхадры"
+  summary: "После уттхапана- и вечернего арати Рагхунандана раздаёт махантам сандал и гирлянды-прасад, их подносят и кхолам, в которых пребывают боги; Ядунандана и Лочана украшают Кришну Мишру и Гопалу, Рагхунандана — Вирабхадру, Вирачандра — Рагхунандану, тот — Шринивасу; под навесом при сотнях светильников начинается санкиртана: мардала, джхандж, кхамак, патхакшары, алап, раги, шрути, грамы, мурчханы, талы и прабандхи; старики словно юны, боги смешиваются с толпой; танцуют маханты, Кришна Мишра, Гопала и Вирабхадра."
+  persons: ["@raghunandana", "@yadunandana-chakravarti", "@lochana-dasa", "@krishna-mishra", "@gopala-dasa-advaita", "@virabhadra", "@srinivasa-acharya", "@gaura-deity-shrikhanda", "@gopinatha-shrikhanda"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  notes: "Теория музыки — кратко, со ссылкой на тарангу 5; не дробится."
+  themes: [kirtan, festival]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "576", to: "617"}
+
+- id: brt-4060
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 618–626"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.36
+  title: "Слепой, восхвалив имя Вирабхадры, прозревает от его взгляда"
+  summary: "Слепой бродит в толпе, услышав, что танцует сын Нитьянанды; узнав имя Вирабхадры, толкует его: «вира» — уничтожение злых, «бхадра» — уничтожение неблагого — и в слезах просит милости; Вирабхадра, узнав, взглядывает на него с состраданием — слепой прозревает и свободно смотрит на его танец; мир наполняется кличем «Джая!»"
+  persons: ["@virabhadra", "@nityananda"]
+  places: ["#shrikhanda"]
+  kind: miracle
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0169, pvl-0147)"
+  divergence: "В «Према-виласе» слепого зовут Рамаи, он плачет, не видя танца, и Вирачандра касается его глаз со словами «Смотри, Рамаи»; здесь слепой не назван, сам славит имя Вирабхадры и прозревает от его взгляда."
+  themes: [mercy, kirtan, festival]
+  event: ev-virachandra-heals-blind-ramai
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "618", to: "626"}
+
+- id: brt-4061
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 627–669"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.361
+  title: "Рассвет после санкиртаны: плач махантов, взывающих к Гауре и спутникам; Господь утешает; толки народа об экадаши и о Рагхунандане"
+  summary: "К концу ночи маханты в разлуке взывают: «Где Гаурачандра? Где Нитьянанда, Адвайта, Гададхара, Харидас, Шривас, Сварупа, Рамананда, Мадхава, Васу, Мурари, Мукунда, Гададхара Дас, Нарахари? Явись нам, Гора!» — и катаются в пыли; Махапрабху, не в силах видеть смятение преданных, непостижимо утешает их и погружает в блаженство; после мангала-арати люди говорят об экадаши — без зерна, с бдением, осуждают тех, кто ест зерно в экадаши, — и о милости вайшнавов; маханты хвалят Рагхунандану, и тот, смущённый, выказывает смирение."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@haridasa-thakura", "@srivasa", "@svarupa-damodara", "@ramananda-raya", "@madhava-ghosha", "@vasu-ghosha", "@murari-gupta", "@mukunda-datta", "@gadadhara-dasa", "@narahari-sarakara", "@raghunandana"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  notes: "Утешение от Махапрабху, уже ушедшего из явленных игр, — Его неявленное присутствие; как именно — автор не говорит."
+  themes: [separation, festival, mercy]
+  teaching: [vaishnava, purity]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "627", to: "669"}
+
+- id: brt-4062
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 670–688"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.362
+  title: "Парана в двадаши: маханты вкушают прасад Гауранги"
+  summary: "Рагхунандана спрашивает о паране; маханты решают вкушать прасад Гауранги вместе; пуджари подносит Господу бхогу, Рагхунандана показывает её махантам; после арати все садятся рядами на банановых листьях, им разносят лепёшки, молочные кушанья, плоды и чаранамриту; Рагхунандана не садится, а смотрит, радуясь."
+  persons: ["@raghunandana", "@gaura-deity-shrikhanda"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  calendar: "аграхаяна, двадаши тёмной половины (парана)"
+  themes: [prasada, festival]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "670", to: "688"}
+
+- id: brt-4063
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 689–699"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.37
+  title: "Рагхунандана подносит прасад Нарахари на его сиденье — Нарахари является в божественном облике"
+  summary: "Рагхунандана берёт из бхога-мандира одну бхогу, несёт её в уединённую комнату Нарахари, в медитации усаживает его на привычное сиденье, расставляет яства, воду, тамбулу и гирлянду Гауранги, молится и закрывает дверь; когда он приходит подать ачаману, видит Нарахари на сиденье в божественном облике и забывается; тот скрывается, Рагхунандана, в скорби, подаёт ачаману, кланяется и возвращает сиденье на место."
+  persons: ["@raghunandana", "@narahari-sarakara", "@gaura-deity-shrikhanda"]
+  places: ["#shrikhanda"]
+  kind: vision
+  authority: B
+  notes: "Известно только по БР."
+  themes: [revelation, prasada, separation]
+  event: ev-narahari-appears-raghunandana
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "689", to: "699"}
+
+- id: brt-4064
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 700–748"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: P15
+  order: 88.38
+  title: "Окончание праздника в Шрикханде: трапеза, киртан, проводы махантов; Шриниваса возвращается в Яджиграм"
+  summary: "Маханты вкушают, хваля угощение; Рагхунандана, накормив Шринивасу и всех, ест последним; вечером — арати и киртан Святого Имени; наутро Шрипати и Шринидхи говорят об отъезде, Рагхунандана удерживает всех ещё на два-четыре дня; при прощании он с почестями и припасами провожает Вирабхадру, Кришну Мишру, Гопалу и других; затем Шриниваса уходит в Яджиграм, Ядунандана — в Кантака-нагар, остальные — по домам."
+  persons: ["@raghunandana", "@srinivasa-acharya", "@shripati", "@shrinidhi", "@virabhadra", "@krishna-mishra", "@gopala-dasa-advaita", "@yadunandana-chakravarti", "@gaura-deity-shrikhanda"]
+  places: ["#shrikhanda", "#yajigrama", "#katwa"]
+  kind: post-advent
+  authority: B
+  notes: "Брахман Ванинатха (719) — тот же, что в 527."
+  themes: [festival, prasada, separation]
+  teaching: [holy-name]
+  event: ev-katwa-khanda-memorial-festivals
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "700", to: "748"}
+
+- id: brt-4065
+  source: bhakti-ratnakara
+  ref: "Таранга 9, 749–753 и колофон"
+  file: "bhakti-ratnakara/ru/09.md"
+  period: PX
+  order: 39.1
+  title: "Плод слушания о празднестве; подпись автора и колофон девятой волны"
+  summary: "Кто слушает рассказ о празднестве, избавляется от страданий и обретает бхакти, недоступную богам; Нарахари Дас, размышляя о стопах Шринивасы, рассказывает «Бхакти-ратнакару»; колофон: новое путешествие Шринивасы во Вриндаван и празднества в Катоа, Яджиграме и Шрикханде."
+  persons: ["@narahari-chakravarti", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/09.md", from: "749", to: "753"}
