@@ -336,6 +336,7 @@
    "kcm-0033",
    "lcm-0090",
    "mkc-0054",
+   "brt-2008",
    "cc-0244",
    "ccd-0011",
    "cb-0125",
@@ -1089,6 +1090,7 @@
    "pad-0118",
    "pad-0276",
    "cb-3011",
+   "brt-2010",
    "cc-1020",
    "gkd-0062",
    "pad-0018",
@@ -1107,6 +1109,7 @@
    "kcm-0140",
    "pvl-0184",
    "cc-2080",
+   "brt-4008",
    "pad-0327",
    "cb-3085",
    "mkc-0249",
@@ -1144,6 +1147,8 @@
    "pad-0078",
    "mkc-0227",
    "mkc-0228",
+   "brt-3042",
+   "brt-3043",
    "cc-4115",
    "cc-4118",
    "cc-0116",
@@ -1183,11 +1188,22 @@
    "brt-0022",
    "nvl-0012",
    "pad-0566",
+   "brt-3041",
+   "brt-3048",
+   "brt-3051",
    "pvl-0145",
+   "brt-4035",
+   "brt-4002",
+   "brt-4003",
+   "brt-4004",
    "nvl-0025",
+   "brt-5024",
+   "brt-5080",
+   "brt-5082",
    "nvl-0024",
    "pvl-0149",
    "pvl-0150",
+   "brt-5016",
    "nvl-0041",
    "pvl-0161",
    "pvl-0170",
@@ -1489,6 +1505,8 @@
    "ev-return-puri-after-gauda",
    "ev-lokanatha-dream-narottama-prophecy",
    "ev-vishnupriya-deity",
+   "ev-gauridasa-oar-gita",
+   "ev-gauridasa-deities",
    "ev-nityananda-kicks-shivananda",
    "ev-parameshvara-modaka",
    "ev-damodara-sent-navadvipa",
@@ -1509,11 +1527,16 @@
    "ev-shyamananda-comes-to-vrindavana",
    "ev-narottama-dream-gaura-kheturi",
    "ev-narottama-initiation",
+   "ev-shyamananda-returns-utkala",
+   "ev-books-found-news-letters",
    "ev-vishnupriya-departure",
+   "ev-gadadhara-dasa-narahari-departure",
    "ev-narottama-gauda-pilgrimage",
+   "ev-jahnava-kheturi",
+   "ev-jahnava-returns-through-kheturi",
    "ev-shyamananda-utkala",
    "ev-kheturi-six-deities",
-   "ev-jahnava-kheturi",
+   "ev-kheturi-festival-invitations",
    "ev-rupa-narayana",
    "ev-virachandra-pilgrimage",
    "ev-tattva-nityananda-advaita",
@@ -1909,7 +1932,8 @@
    "brt-0080",
    "pvl-0023",
    "brt-0081",
-   "anv-0015"
+   "anv-0015",
+   "brt-4004"
   ],
   "events": [
    "ev-advaita-initiates-mishra-shachi",
@@ -2034,7 +2058,8 @@
    "ev-jagadananda-visits-shachi",
    "ev-vishnupriya-austerity",
    "ev-srinivasa-vishnupriya-mercy",
-   "ev-gadadhara-riddle-gadadhara-dasa"
+   "ev-gadadhara-riddle-gadadhara-dasa",
+   "ev-narottama-gauda-pilgrimage"
   ]
  },
  {
@@ -2202,6 +2227,8 @@
    "ccd-0036",
    "pad-0017",
    "mkc-0144",
+   "brt-5024",
+   "brt-5082",
    "gkr-0001",
    "pad-0122",
    "cb-0008"
@@ -2270,7 +2297,9 @@
    "ev-last-night-vishnupriya",
    "ev-leaving-navadvipa",
    "ev-lament-after-lord-leaves",
-   "ev-nityananda-brings-navadvipa-to-shantipura"
+   "ev-nityananda-brings-navadvipa-to-shantipura",
+   "ev-jahnava-kheturi",
+   "ev-jahnava-returns-through-kheturi"
   ]
  },
  {
@@ -2556,11 +2585,13 @@
    "cc-3046",
    "cc-0083",
    "lcm-0246",
+   "brt-3042",
    "apr-0137",
    "cc-4065",
    "pv-0012",
    "pvl-0009",
    "pad-0258",
+   "brt-3046",
    "apr-0139",
    "pvl-0233",
    "pvl-0272",
@@ -2571,6 +2602,8 @@
    "pvl-0025",
    "pvl-0031",
    "pvl-0077",
+   "brt-4055",
+   "brt-4007",
    "pvl-0140",
    "pvl-0163",
    "gkr-0001",
@@ -2707,11 +2740,13 @@
    "ev-rupa-prayaga",
    "ev-sanatana-escape-kashi",
    "ev-varanasi-sannyasis",
+   "ev-gauridasa-oar-gita",
    "ev-gauridasa-deities",
    "ev-panihati-chida-dadhi",
    "ev-jagadananda-vrindavana-pilu",
    "ev-srinivasa-birth",
    "ev-gambhira-divine-madness",
+   "ev-hridaya-chaitanya-name",
    "ev-nityananda-marriage",
    "ev-virabhadra-initiation",
    "ev-srinivasa-meets-narahari",
@@ -2721,6 +2756,8 @@
    "ev-srinivasa-shantipura",
    "ev-srinivasa-journey-vrindavana",
    "ev-shyamananda-initiation-ambika",
+   "ev-katwa-khanda-memorial-festivals",
+   "ev-narottama-gauda-pilgrimage",
    "ev-chand-raya-elephant",
    "ev-rupa-narayana",
    "ev-tattva-bhakti-kalpataru"
@@ -2735,9 +2772,11 @@
   "lilas": [
    "apr-0001",
    "apr-0002",
+   "brt-2003",
    "pvl-0206",
    "pvl-0241",
    "apr-0008",
+   "brt-2005",
    "apr-0009",
    "pvl-0209",
    "pvl-0244",
@@ -2838,6 +2877,7 @@
    "pad-0118",
    "pad-0276",
    "apr-0081",
+   "brt-2010",
    "cb-3012",
    "cc-1019",
    "ccd-0040",
@@ -2886,6 +2926,7 @@
    "apr-0093",
    "cb-3102",
    "cc-2008",
+   "brt-4008",
    "pad-0327",
    "cb-3084",
    "mkc-0248",
@@ -2920,6 +2961,7 @@
    "gkd-0130",
    "cc-2110",
    "apr-0107",
+   "brt-3042",
    "apr-0138",
    "lcm-0247",
    "mkc-0230",
@@ -2955,7 +2997,10 @@
    "brt-0084",
    "pvl-0025",
    "brt-0085",
+   "brt-3041",
+   "brt-4005",
    "nvl-0026",
+   "brt-5024",
    "pvl-0149",
    "pvl-0150",
    "pvl-0170",
@@ -3039,6 +3084,7 @@
    "ev-raghunatha-dasa-shantipura",
    "ev-return-puri-after-gauda",
    "ev-achyuta-in-vraja",
+   "ev-gauridasa-oar-gita",
    "ev-gauridasa-deities",
    "ev-shantipura-second-visit",
    "ev-gauda-devotees-yearly-visit",
@@ -3055,7 +3101,9 @@
    "ev-advaita-entrusts-madana-gopala",
    "ev-advaita-departure",
    "ev-srinivasa-shantipura",
+   "ev-shyamananda-returns-utkala",
    "ev-narottama-gauda-pilgrimage",
+   "ev-jahnava-kheturi",
    "ev-kheturi-six-deities",
    "ev-virachandra-pilgrimage",
    "ev-tattva-nityananda-advaita"
@@ -3124,15 +3172,31 @@
    "jcm-0066",
    "pvl-0271",
    "brt-0093",
+   "brt-3041",
+   "brt-3051",
+   "brt-3054",
    "pvl-0146",
+   "brt-4052",
+   "brt-4053",
+   "brt-4054",
+   "brt-4055",
+   "brt-4056",
    "pvl-0147",
+   "brt-4064",
    "pvl-0094",
+   "brt-4025",
    "nvl-0034",
+   "brt-4028",
+   "brt-5025",
    "nvv-0029",
+   "brt-5078",
    "nvl-0055",
+   "brt-5076",
+   "brt-5077",
    "pvl-0118",
    "pvl-0149",
    "pvl-0150",
+   "brt-5009",
    "nvl-0041",
    "pvl-0170",
    "gkr-0001",
@@ -3154,15 +3218,22 @@
    "ev-shantipura-reunion",
    "ev-ganga-marries-madhava",
    "ev-srinivasa-journey-vrindavana",
+   "ev-shyamananda-returns-utkala",
+   "ev-vishnupriya-departure",
+   "ev-srinivasa-gadadhara-dasa-katwa",
    "ev-gadadhara-dasa-narahari-departure",
    "ev-katwa-khanda-memorial-festivals",
    "ev-ramachandra-kaviraja-meets-srinivasa",
    "ev-narottama-shrikhanda-yajigrama-katwa",
+   "ev-srinivasa-marriage",
+   "ev-jahnava-kheturi",
    "ev-jahnava-vrindavana",
+   "ev-jiva-sends-gopala-virudavali",
    "ev-jahnava-returns-through-kheturi",
+   "ev-jahnava-ekachakra",
    "ev-vrindavana-messengers-gauda",
    "ev-kheturi-six-deities",
-   "ev-jahnava-kheturi",
+   "ev-kheturi-festival-invitations",
    "ev-virachandra-pilgrimage"
   ]
  },
@@ -3176,6 +3247,7 @@
    "apr-0011",
    "pvl-0210",
    "pvl-0245",
+   "brt-2006",
    "cc-1038",
    "cb-0069",
    "cb-1027",
@@ -3184,6 +3256,7 @@
    "kcm-0035",
    "cb-0122",
    "apr-0068",
+   "brt-2008",
    "cb-0124",
    "cc-0244",
    "ccd-0011",
@@ -3207,6 +3280,7 @@
    "mkc-0061",
    "brt-0095",
    "nvv-0039",
+   "brt-4042",
    "nvv-0069",
    "mkc-0001",
    "lcm-0003",
@@ -3215,6 +3289,7 @@
   "events": [
    "ev-advaita-pilgrimage",
    "ev-advaita-meets-madhavendra",
+   "ev-advaita-madhavendra-initiation",
    "ev-sakshi-gopala-two-brahmins",
    "ev-nityananda-pilgrimage",
    "ev-departure-for-gaya",
@@ -3225,6 +3300,7 @@
    "ev-gaya-heavenly-voice-return",
    "ev-srinivasa-journey-vrindavana",
    "ev-jahnava-vrindavana",
+   "ev-srinivasa-second-vrindavana",
    "ev-virachandra-pilgrimage"
   ]
  },
@@ -3611,6 +3687,7 @@
    "kcm-0168",
    "mkc-0184",
    "kcm-0167",
+   "brt-4014",
    "cc-2104",
    "pad-0021",
    "kcm-0175",
@@ -3620,6 +3697,7 @@
    "jcm-0094",
    "pvl-0195",
    "nvl-0008",
+   "brt-4015",
    "mkc-0191",
    "cc-2110",
    "cc-0348",
@@ -3782,6 +3860,7 @@
    "pv-0016",
    "cc-0114",
    "cc-4099",
+   "brt-4013",
    "cc-4103",
    "gkd-0171",
    "jcm-0081",
@@ -3931,10 +4010,13 @@
    "jcm-0100",
    "kcm-0177",
    "lcm-0250",
+   "brt-4016",
    "gkd-0188",
    "brt-0072",
+   "brt-3021",
    "pvl-0020",
    "pvl-0188",
+   "brt-4018",
    "vlb-0007",
    "pad-0309",
    "nvv-0017",
@@ -3949,18 +4031,29 @@
    "brt-0071",
    "brt-0073",
    "brt-0074",
+   "brt-4017",
    "brt-0075",
    "krn-0028",
    "anv-0023",
+   "brt-3006",
+   "brt-3007",
    "krn-0029",
    "pad-0566",
    "brt-0023",
    "nvl-0029",
+   "brt-4011",
+   "brt-4012",
+   "brt-4019",
+   "brt-4020",
+   "brt-4021",
    "nvl-0030",
+   "brt-4034",
+   "brt-5004",
    "pvl-0118",
    "gkd-0165",
    "krn-0023",
    "pvl-0149",
+   "brt-5011",
    "pvl-0161",
    "pvl-0163",
    "pvl-0170",
@@ -4215,6 +4308,7 @@
    "ev-vision-vraja-before-departure",
    "ev-lord-disappearance",
    "ev-devotees-lament-after-disappearance",
+   "ev-dvija-haridasa-dream-vrindavana",
    "ev-gadadhara-departure",
    "ev-radha-ramana-appearance",
    "ev-nityananda-marriage",
@@ -4230,10 +4324,13 @@
    "ev-narottama-returns-kheturi",
    "ev-narottama-puri",
    "ev-narottama-dream-ratha-kirtan",
+   "ev-shyamananda-puri-associates-disappear",
+   "ev-dvija-haridasa-departure",
    "ev-vrindavana-messengers-gauda",
    "ev-gosvami-works-vraja",
    "ev-ramachandra-instructs-vira-hambira",
    "ev-kheturi-six-deities",
+   "ev-kheturi-festival-invitations",
    "ev-rupa-narayana",
    "ev-tattva-nityananda-advaita",
    "ev-legend-shiva-bhuvaneshvara",
@@ -4259,6 +4356,7 @@
    "pad-0262",
    "gst-0001",
    "apr-0022",
+   "brt-2007",
    "apr-0015",
    "apr-0016",
    "pvl-0211",
@@ -4276,6 +4374,7 @@
    "pvl-0265",
    "cb-0069",
    "cb-1027",
+   "brt-2016",
    "nvv-0068",
    "cb-0071",
    "kcm-0038",
@@ -4322,6 +4421,7 @@
    "mkc-0199",
    "lcm-0234",
    "apr-0106",
+   "brt-2011",
    "ccd-0083",
    "gkd-0140",
    "apr-0111",
@@ -4347,6 +4447,7 @@
    "cc-3009",
    "lcm-0242",
    "mkc-0216",
+   "brt-1053",
    "mkc-0217",
    "cc-3010",
    "gkd-0141",
@@ -4384,6 +4485,7 @@
    "cc-0358",
    "cc-4042",
    "cc-4047",
+   "brt-2002",
    "cc-4048",
    "gkd-0163",
    "brt-0061",
@@ -4391,6 +4493,7 @@
    "cc-4049",
    "brt-0041",
    "brt-0058",
+   "brt-3023",
    "brt-0059",
    "brt-0060",
    "brt-0037",
@@ -4402,6 +4505,7 @@
    "cc-4070",
    "cc-4073",
    "cc-3031",
+   "brt-2024",
    "cc-4125",
    "gkd-0168",
    "pv-0006",
@@ -4433,9 +4537,11 @@
    "gkd-0188",
    "cc-4051",
    "brt-0040",
+   "brt-3021",
    "cc-0137",
    "gkd-0164",
    "pvl-0198",
+   "brt-1047",
    "pvl-0199",
    "brt-0101",
    "anv-0007",
@@ -4450,6 +4556,8 @@
    "anv-0029",
    "krn-0028",
    "anv-0023",
+   "brt-3006",
+   "brt-3007",
    "pvl-0030",
    "krn-0029",
    "pvl-0033",
@@ -4468,6 +4576,7 @@
    "brt-0106",
    "pad-0559",
    "brt-0022",
+   "brt-3003",
    "pvl-0079",
    "nvl-0015",
    "nvl-0016",
@@ -4485,12 +4594,14 @@
    "pvl-0065",
    "pvl-0066",
    "pvl-0068",
+   "brt-3011",
    "pvl-0069",
    "pvl-0070",
    "nvl-0019",
    "pvl-0072",
    "brt-0112",
    "anv-0025",
+   "brt-3004",
    "pvl-0073",
    "brt-0108",
    "pvl-0080",
@@ -4501,37 +4612,82 @@
    "anv-0034",
    "pvl-0074",
    "brt-0109",
+   "brt-3008",
+   "brt-3005",
    "pvl-0081",
+   "brt-3009",
    "pad-0560",
+   "brt-3010",
    "anv-0033",
+   "brt-3014",
    "cc-0098",
    "pvl-0075",
    "anv-0035",
+   "brt-3015",
    "cc-0099",
    "krn-0031",
    "pvl-0076",
+   "brt-1002",
+   "brt-1054",
+   "brt-3017",
+   "brt-3018",
+   "brt-3019",
+   "brt-3020",
+   "brt-3022",
+   "brt-3024",
+   "brt-3025",
+   "brt-3026",
+   "brt-3027",
+   "brt-3028",
+   "brt-2001",
+   "brt-2017",
+   "brt-2019",
+   "brt-2021",
+   "brt-2022",
    "anv-0037",
+   "brt-3029",
    "nvl-0020",
    "pvl-0082",
    "pvl-0084",
    "pvl-0087",
+   "brt-3038",
+   "brt-4034",
+   "brt-4029",
+   "brt-4033",
+   "brt-5038",
    "nvl-0053",
    "nvv-0039",
    "pvl-0104",
+   "brt-5048",
+   "brt-5050",
+   "brt-5052",
    "pvl-0108",
    "pvl-0110",
+   "brt-5053",
+   "brt-5054",
+   "brt-5055",
    "nvl-0054",
    "nvv-0040",
    "pvl-0111",
    "vv-0003",
+   "brt-5056",
+   "brt-5058",
+   "brt-5059",
    "anv-0024",
    "pvl-0109",
+   "brt-5057",
    "pvl-0168",
    "pvl-0157",
    "pvl-0114",
    "anv-0041",
    "nvl-0038",
+   "brt-5004",
+   "brt-4037",
+   "brt-4038",
    "anv-0042",
+   "brt-4040",
+   "brt-4042",
+   "brt-4043",
    "pvl-0116",
    "pvl-0119",
    "nvv-0060",
@@ -4543,6 +4699,8 @@
    "krn-0018",
    "krn-0020",
    "krn-0023",
+   "brt-5003",
+   "brt-5049",
    "pvl-0162",
    "pvl-0170",
    "nvv-0071",
@@ -4575,6 +4733,8 @@
    "cc-0008",
    "cb-0072",
    "anv-0051",
+   "brt-2018",
+   "brt-2020",
    "cc-0018",
    "cc-0019",
    "cc-0020",
@@ -4660,11 +4820,13 @@
    "ev-sanatana-puri-sores",
    "ev-sanatana-suicide-forbidden",
    "ev-sanatana-returns-vrindavana-forest-path",
+   "ev-gaura-appears-sanatana-dvadashaditya",
    "ev-rupa-year-gauda",
    "ev-madana-mohana-chaube",
    "ev-rupa-sanatana-books-vrindavana",
    "ev-gopala-milk-rupa-sanatana",
    "ev-govinda-deva-appearance",
+   "ev-kanaya-madhukari-sanatana",
    "ev-gaura-govinda-kashishvara",
    "ev-vrinda-devi-rupa",
    "ev-gosvamis-reveal-lost-tirthas",
@@ -4673,6 +4835,7 @@
    "ev-raghunatha-lord-instructions",
    "ev-govardhana-shila-gunja-gift",
    "ev-rupa-sanatana-vrindavana-vairagya",
+   "ev-rupa-laughs-vaishnava-offense",
    "ev-jagadananda-vrindavana-pilu",
    "ev-raghunatha-bhatta-sent-vrindavana",
    "ev-gopala-bhatta-comes-vrindavana",
@@ -4690,6 +4853,7 @@
    "ev-devotees-lament-after-disappearance",
    "ev-jiva-meets-nityananda-navadvipa",
    "ev-jiva-comes-to-vrindavana",
+   "ev-dvija-haridasa-dream-vrindavana",
    "ev-raghunatha-dasa-radha-kunda",
    "ev-jiva-exiled-by-rupa",
    "ev-radha-damodara-rupa-jiva",
@@ -4714,17 +4878,31 @@
    "ev-narottama-thakura-mahashaya",
    "ev-srinivasa-acharya-title",
    "ev-shyamananda-nupura",
+   "ev-srinivasa-manasa-garland-gaura",
+   "ev-srinivasa-manasa-holi-phagu",
    "ev-books-mission-decision",
    "ev-kaviraja-ordered-to-write-cc",
    "ev-govinda-commands-srinivasa",
    "ev-books-leave-vrindavana",
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-gokulananda-shridasa-disciples",
+   "ev-govinda-dream-srinivasa-gaura",
    "ev-krishnadasa-kaviraja-departure",
+   "ev-books-found-news-letters",
+   "ev-shyamananda-puri-associates-disappear",
+   "ev-vira-hambira-gosvamis-letter",
    "ev-jahnava-vrindavana",
+   "ev-jahnava-vraja-visions",
+   "ev-jahnava-revives-brahmana-boy",
    "ev-jahnava-gopinatha",
+   "ev-jiva-sends-gopala-virudavali",
    "ev-jahnava-radha-for-madana-mohana",
+   "ev-bara-gangadasa-shyama-raya",
    "ev-srinivasa-marriage",
    "ev-srinivasa-second-vrindavana",
+   "ev-dvija-haridasa-departure",
    "ev-srinivasa-marriage-untruth",
+   "ev-govinda-kaviraja-settles-budhari",
    "ev-vrindavana-messengers-gauda",
    "ev-gati-govinda-birth",
    "ev-narottama-bhajana-kheturi",
@@ -4733,6 +4911,8 @@
    "ev-ramachandra-obedience",
    "ev-srinivasa-samadhi-nose-ring",
    "ev-ramachandra-instructs-vira-hambira",
+   "ev-kanchanagaria-festival",
+   "ev-govinda-kaviraja-title",
    "ev-rupa-narayana",
    "ev-virachandra-pilgrimage",
    "ev-virachandra-jiva-vrindavana",
@@ -4762,6 +4942,8 @@
   "note": "",
   "section": "",
   "lilas": [
+   "brt-2007",
+   "brt-1006",
    "apr-0015",
    "pvl-0246",
    "apr-0017",
@@ -4769,6 +4951,8 @@
    "cc-1027",
    "cb-0069",
    "cb-1027",
+   "brt-1010",
+   "brt-2016",
    "cc-4086",
    "cb-0071",
    "jcm-0035",
@@ -4781,16 +4965,20 @@
    "gkd-0135",
    "lcm-0231",
    "mkc-0197",
+   "brt-1049",
    "cc-2122",
    "lcm-0232",
    "mkc-0198",
+   "brt-1005",
    "mkc-0199",
    "cc-2123",
    "lcm-0233",
    "mkc-0200",
+   "brt-1008",
    "mkc-0201",
    "mkc-0202",
    "mkc-0203",
+   "brt-2011",
    "ccd-0083",
    "lcm-0235",
    "cc-3009",
@@ -4815,6 +5003,7 @@
    "pvl-0197",
    "brt-0037",
    "cc-0135",
+   "brt-1003",
    "vlb-0011",
    "cc-4125",
    "gkd-0168",
@@ -4822,6 +5011,7 @@
    "gkd-0164",
    "vlb-0014",
    "cc-3006",
+   "brt-1009",
    "anv-0019",
    "brt-0096",
    "pvl-0032",
@@ -4835,22 +5025,34 @@
    "pvl-0061",
    "pvl-0076",
    "anv-0036",
+   "brt-1002",
+   "brt-1007",
+   "brt-1011",
+   "brt-1052",
+   "brt-3017",
+   "brt-3029",
    "nvl-0020",
    "pvl-0084",
    "pvl-0087",
    "nvl-0053",
    "pvl-0104",
+   "brt-5047",
    "nvl-0054",
+   "brt-5059",
+   "brt-4036",
+   "brt-4043",
    "pvl-0162",
    "pvl-0170",
    "krn-0012",
    "mkc-0062",
    "cb-0009",
    "pvl-0130",
+   "brt-2023",
    "cc-0058"
   ],
   "events": [
    "ev-advaita-pilgrimage",
+   "ev-advaita-mathura-blasphemer",
    "ev-advaita-madana-mohana",
    "ev-advaita-vishakha-painting",
    "ev-sakshi-gopala-two-brahmins",
@@ -4896,6 +5098,8 @@
    "ev-krishnadasa-kaviraja-departure",
    "ev-jahnava-vrindavana",
    "ev-jahnava-gopinatha",
+   "ev-dvija-haridasa-departure",
+   "ev-srinivasa-second-vrindavana",
    "ev-rupa-narayana",
    "ev-virachandra-pilgrimage",
    "ev-srinivasa-disciples",
@@ -5043,6 +5247,7 @@
    "brt-0095",
    "pvl-0060",
    "nvv-0039",
+   "brt-4042",
    "nvv-0069",
    "nvv-0070",
    "cb-0009",
@@ -5092,6 +5297,7 @@
    "ev-srinivasa-journey-vrindavana",
    "ev-narottama-path-vision",
    "ev-jahnava-vrindavana",
+   "ev-srinivasa-second-vrindavana",
    "ev-virachandra-pilgrimage",
    "ev-legend-shiva-bhuvaneshvara"
   ]
@@ -5119,6 +5325,7 @@
    "mkc-0196",
    "lcm-0230",
    "lcm-0231",
+   "brt-1049",
    "cc-3018",
    "cc-3024",
    "apr-0112",
@@ -5150,6 +5357,7 @@
    "brt-0095",
    "pvl-0060",
    "nvv-0039",
+   "brt-4042",
    "nvv-0071",
    "cc-3109"
   ],
@@ -5175,6 +5383,7 @@
    "ev-srinivasa-journey-vrindavana",
    "ev-narottama-path-vision",
    "ev-jahnava-vrindavana",
+   "ev-srinivasa-second-vrindavana",
    "ev-virachandra-pilgrimage",
    "ev-narada-mrigari-hunter"
   ]
@@ -5209,22 +5418,41 @@
    "brt-0078",
    "pvl-0029",
    "brt-0091",
+   "brt-3051",
+   "brt-3053",
    "pvl-0146",
+   "brt-4053",
+   "brt-4058",
+   "brt-4059",
    "pvl-0147",
+   "brt-4060",
    "pad-0259",
    "pvl-0169",
+   "brt-4061",
+   "brt-4062",
+   "brt-4063",
+   "brt-4064",
+   "brt-4050",
+   "brt-4051",
    "pvl-0095",
    "pvl-0094",
    "nvl-0032",
+   "brt-4023",
+   "brt-4028",
    "pad-0567",
+   "brt-5025",
    "nvl-0055",
    "pvl-0113",
+   "brt-5080",
+   "brt-5081",
    "pvl-0120",
    "pvl-0114",
+   "brt-4039",
    "nvv-0060",
    "pvl-0154",
    "pvl-0149",
    "pvl-0150",
+   "brt-5009",
    "pvl-0170",
    "lcm-0030",
    "pvl-0106",
@@ -5252,20 +5480,26 @@
    "ev-srinivasa-shrikhanda",
    "ev-srinivasa-dream-nitai-advaita",
    "ev-srinivasa-journey-vrindavana",
+   "ev-vishnupriya-departure",
+   "ev-srinivasa-narahari-after-vraja",
    "ev-gadadhara-dasa-narahari-departure",
    "ev-katwa-khanda-memorial-festivals",
    "ev-virachandra-heals-blind-ramai",
+   "ev-narahari-appears-raghunandana",
    "ev-srinivasa-raghunandana-shrikhanda",
    "ev-ramachandra-kaviraja-meets-srinivasa",
    "ev-narottama-shrikhanda-yajigrama-katwa",
+   "ev-srinivasa-marriage",
    "ev-govinda-kaviraja-initiation",
+   "ev-jahnava-kheturi",
    "ev-jahnava-returns-through-kheturi",
    "ev-jahnava-vrindavana",
    "ev-srinivasa-mother-departure",
-   "ev-srinivasa-marriage",
+   "ev-srinivasa-second-vrindavana",
    "ev-gati-govinda-birth",
    "ev-narottama-bhajana-kheturi",
    "ev-kheturi-six-deities",
+   "ev-kheturi-festival-invitations",
    "ev-virachandra-pilgrimage",
    "ev-tattva-bhakti-kalpataru"
   ]
@@ -5597,11 +5831,20 @@
    "pvl-0051",
    "pvl-0056",
    "pvl-0057",
+   "brt-3041",
    "pvl-0094",
+   "brt-4027",
    "pvl-0102",
+   "brt-5064",
    "pvl-0117",
    "brt-0025",
-   "pvl-0139"
+   "pvl-0139",
+   "brt-5013",
+   "brt-5017",
+   "brt-5020",
+   "brt-5026",
+   "brt-5037",
+   "brt-5039"
   ],
   "events": [
    "ev-east-bengal-tour",
@@ -5610,11 +5853,17 @@
    "ev-natashala-kanai-return",
    "ev-prema-left-in-padma",
    "ev-narottama-receives-prema",
+   "ev-shyamananda-returns-utkala",
    "ev-ramachandra-kaviraja-meets-srinivasa",
+   "ev-narottama-returns-kheturi",
    "ev-harirama-ramakrishna-conversion",
+   "ev-jahnava-returns-through-kheturi",
    "ev-vrindavana-messengers-gauda",
    "ev-santosha-datta-sangita-madhava",
-   "ev-chand-raya-deliverance"
+   "ev-chand-raya-deliverance",
+   "ev-kheturi-festival-invitations",
+   "ev-kheturi-festival",
+   "ev-kheturi-mahantas-depart"
   ]
  },
  {
@@ -5712,14 +5961,17 @@
    "lcm-0164",
    "mkc-0199",
    "cc-2124",
-   "anv-0036"
+   "anv-0036",
+   "brt-1011",
+   "brt-5053"
   ],
   "events": [
    "ev-lord-tells-dhruva-story",
    "ev-lord-consoles-shachi-before-sannyasa",
    "ev-krishnadasa-mathura-guide",
    "ev-parrots-vrindavana",
-   "ev-srinivasa-narottama-farewell-parikrama"
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vraja-visions"
   ]
  },
  {
@@ -5760,6 +6012,9 @@
    "lcm-0246",
    "pvl-0188",
    "pvl-0093",
+   "brt-4025",
+   "brt-5066",
+   "brt-5076",
    "pvl-0121",
    "nvv-0057",
    "nvv-0059",
@@ -5783,6 +6038,8 @@
    "ev-kuliya-shachi-meeting",
    "ev-gadadhara-departure",
    "ev-srinivasa-returns-yajigrama",
+   "ev-narottama-shrikhanda-yajigrama-katwa",
+   "ev-jahnava-ekachakra",
    "ev-srinivasa-marriage",
    "ev-virachandra-pilgrimage",
    "ev-tattva-bhakti-kalpataru"
@@ -6103,14 +6360,16 @@
    "anv-0005",
    "brt-0003",
    "brt-0004",
-   "brt-0005"
+   "brt-0005",
+   "brt-4049"
   ],
   "events": [
    "ev-nityananda-pilgrimage",
    "ev-gita-reading-brahmana",
    "ev-srirangam-chaturmasya",
    "ev-gopala-bhatta-dream-vision",
-   "ev-hari-bhakti-vilasa"
+   "ev-hari-bhakti-vilasa",
+   "ev-harinarayana-rama-mantra"
   ]
  },
  {
@@ -6122,6 +6381,7 @@
   "lilas": [
    "apr-0011",
    "cb-1027",
+   "brt-2015",
    "cb-0071",
    "cc-1061",
    "ccd-0052",
@@ -6146,6 +6406,7 @@
   "events": [
    "ev-advaita-pilgrimage",
    "ev-nityananda-pilgrimage",
+   "ev-nityananda-meets-madhavendra",
    "ev-departure-for-south",
    "ev-south-conversions",
    "ev-maya-sita-kurma-purana",
@@ -6247,6 +6508,7 @@
    "cc-4029",
    "pvl-0134",
    "pvl-0084",
+   "brt-3032",
    "nvv-0067",
    "nvv-0069",
    "cb-0009"
@@ -6272,9 +6534,11 @@
   "lilas": [
    "cb-0043",
    "cb-0069",
+   "brt-2016",
    "pvl-0045",
    "lcm-0231",
    "mkc-0197",
+   "brt-1049",
    "mkc-0199",
    "gkd-0140",
    "lcm-0235",
@@ -6284,9 +6548,12 @@
    "mkc-0206",
    "vlb-0006",
    "brt-0061",
+   "brt-1050",
    "cc-4125",
    "pvl-0032",
-   "anv-0036"
+   "anv-0036",
+   "brt-1048",
+   "brt-1051"
   ],
   "events": [
    "ev-tirthika-brahmana",
@@ -6317,6 +6584,7 @@
    "cc-1028",
    "gkd-0065",
    "cb-0069",
+   "brt-1023",
    "nvv-0068",
    "pad-0113",
    "pvl-0044",
@@ -6329,11 +6597,13 @@
    "gkd-0138",
    "lcm-0239",
    "mkc-0210",
+   "brt-1021",
    "vlb-0008",
    "vlb-0009",
    "cc-3004",
    "gkd-0139",
    "mkc-0211",
+   "brt-1029",
    "cc-3005",
    "lcm-0240",
    "pvl-0131",
@@ -6343,15 +6613,27 @@
    "cc-4125",
    "cc-4136",
    "cc-0137",
+   "brt-1024",
    "vlb-0014",
    "brt-0107",
    "pad-0559",
+   "brt-3003",
    "pvl-0079",
    "nvl-0017",
    "anv-0032",
+   "brt-3013",
+   "brt-3012",
    "anv-0036",
+   "brt-1002",
+   "brt-1020",
+   "brt-1022",
+   "brt-1028",
    "nvl-0053",
+   "brt-5050",
+   "brt-5052",
    "pvl-0110",
+   "brt-5053",
+   "brt-4042",
    "nvv-0077",
    "cc-0288"
   ],
@@ -6362,6 +6644,7 @@
    "ev-madhavendra-gopala-govardhana",
    "ev-madhavendra-kshira-chora",
    "ev-nityananda-pilgrimage",
+   "ev-nityananda-govardhana-brahmana",
    "ev-nityananda-awakens-shridama",
    "ev-navadvipa-radha-bhava-gadadhara",
    "ev-lokanatha-sent-to-vrindavana",
@@ -6379,12 +6662,16 @@
    "ev-jagadananda-vrindavana-pilu",
    "ev-chataka-parvata-govardhana",
    "ev-raghunatha-dasa-radha-kunda",
+   "ev-sanatana-chakra-tirtha-shila",
    "ev-srinivasa-vraja-pilgrimage",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-narottama-vrindavana-darshan",
+   "ev-srinivasa-narottama-govardhana-cowherd",
    "ev-srinivasa-narottama-farewell-parikrama",
    "ev-jahnava-vrindavana",
+   "ev-jahnava-vraja-visions",
+   "ev-srinivasa-second-vrindavana",
    "ev-virachandra-pilgrimage",
    "ev-krishna-four-arms-vanish-before-radha"
   ]
@@ -6618,7 +6905,8 @@
    "cc-4135",
    "gst-0008",
    "pad-0039",
-   "gst-0010"
+   "gst-0010",
+   "brt-4020"
   ],
   "events": [
    "ev-first-darshan-jagannatha",
@@ -6643,7 +6931,8 @@
    "ev-lord-sends-seat-gopala-bhatta",
    "ev-limbs-elongated-separation",
    "ev-gambhira-divine-madness",
-   "ev-face-rubbing-gambhira"
+   "ev-face-rubbing-gambhira",
+   "ev-narottama-puri"
   ]
  },
  {
@@ -6743,16 +7032,30 @@
    "pvl-0046",
    "gkd-0140",
    "cc-3007",
+   "brt-1032",
    "mkc-0216",
    "mkc-0220",
+   "brt-1037",
+   "brt-1038",
+   "brt-1039",
    "pvl-0066",
    "anv-0032",
+   "brt-3013",
    "anv-0036",
+   "brt-1031",
+   "brt-1033",
+   "brt-1036",
+   "brt-1040",
+   "brt-5050",
+   "brt-5052",
    "pvl-0110"
   ],
   "events": [
    "ev-lokanatha-bhugarbha-in-vraja",
    "ev-vraja-parikrama",
+   "ev-gopala-milk-rupa-sanatana",
+   "ev-radha-brings-rice-rupa",
+   "ev-rupa-breath-blisters",
    "ev-narottama-initiation",
    "ev-srinivasa-vraja-pilgrimage",
    "ev-srinivasa-narottama-farewell-parikrama",
@@ -6771,7 +7074,9 @@
    "mkc-0216",
    "pvl-0066",
    "anv-0032",
-   "anv-0036"
+   "brt-3013",
+   "anv-0036",
+   "brt-1031"
   ],
   "events": [
    "ev-lokanatha-sent-to-vrindavana",
@@ -6789,7 +7094,9 @@
   "note": "Бенгалия, на Ганге; дом Гауридаса Пандита, Божества Гаура-Нитай",
   "section": "",
   "lilas": [
+   "brt-3042",
    "apr-0137",
+   "brt-3043",
    "mkc-0229",
    "pvl-0078",
    "vv-0023",
@@ -6801,6 +7108,9 @@
    "apr-0138",
    "cc-4017",
    "ccd-0074",
+   "brt-3044",
+   "brt-3045",
+   "brt-3046",
    "apr-0136",
    "nvv-0005",
    "nvv-0006",
@@ -6808,10 +7118,16 @@
    "nvv-0008",
    "nvv-0009",
    "brt-0021",
+   "brt-3002",
    "pvl-0077",
    "pad-0559",
    "brt-0022",
+   "brt-3041",
+   "brt-3047",
+   "brt-4006",
    "nvl-0026",
+   "brt-5023",
+   "brt-5083",
    "nvl-0024",
    "pvl-0143",
    "pvl-0149",
@@ -6821,15 +7137,20 @@
    "pvl-0175"
   ],
   "events": [
+   "ev-gauridasa-oar-gita",
    "ev-gauridasa-deities",
    "ev-nakula-brahmachari",
+   "ev-gadadhara-gives-hridayananda",
+   "ev-hridaya-chaitanya-name",
    "ev-nityananda-marriage",
    "ev-shyamananda-initiation-ambika",
    "ev-shyamananda-comes-to-vrindavana",
+   "ev-shyamananda-returns-utkala",
    "ev-narottama-gauda-pilgrimage",
+   "ev-jahnava-kheturi",
+   "ev-jahnava-returns-through-kheturi",
    "ev-shyamananda-utkala",
    "ev-kheturi-six-deities",
-   "ev-jahnava-kheturi",
    "ev-virachandra-pilgrimage"
   ]
  },
@@ -6912,7 +7233,8 @@
    "pv-0016",
    "cc-4102",
    "ccd-0095",
-   "cc-4156"
+   "cc-4156",
+   "brt-4021"
   ],
   "events": [
    "ev-gundicha-marjana",
@@ -6930,7 +7252,8 @@
    "ev-rupa-arrives-haridasa-puri",
    "ev-raghunatha-dasa-joins-lord",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
-   "ev-fall-into-ocean-fisherman"
+   "ev-fall-into-ocean-fisherman",
+   "ev-narottama-puri"
   ]
  },
  {
@@ -6951,6 +7274,7 @@
    "vv-0068",
    "pad-0529",
    "pad-0530",
+   "brt-4008",
    "jcm-0093",
    "ccd-0075",
    "ccd-0078",
@@ -6995,6 +7319,7 @@
   "lilas": [
    "cc-4033",
    "nvv-0004",
+   "brt-4008",
    "cb-3083",
    "jcm-0093",
    "mkc-0247",
@@ -7006,7 +7331,9 @@
    "cc-4067",
    "cc-4068",
    "gst-0016",
-   "cc-4071"
+   "cc-4071",
+   "brt-4007",
+   "brt-5083"
   ],
   "events": [
    "ev-haridasa-gopala-chakravarti",
@@ -7017,7 +7344,9 @@
    "ev-raghunatha-dasa-saptagrama-arrest",
    "ev-panihati-chida-dadhi",
    "ev-raghunatha-dasa-escape",
-   "ev-raghunatha-dasa-joins-lord"
+   "ev-raghunatha-dasa-joins-lord",
+   "ev-narottama-gauda-pilgrimage",
+   "ev-jahnava-returns-through-kheturi"
   ]
  },
  {
@@ -7065,6 +7394,7 @@
    "cc-2102",
    "gkd-0121",
    "cc-2103",
+   "brt-4014",
    "cc-2104",
    "vv-0065"
   ],
@@ -7153,6 +7483,7 @@
    "cc-4019",
    "ccd-0090",
    "cc-4121",
+   "brt-5023",
    "pvl-0189"
   ],
   "events": [
@@ -7169,7 +7500,8 @@
    "ev-srivasa-one-two-three",
    "ev-srivasa-test-sannyasa",
    "ev-raghunatha-dasa-joins-lord",
-   "ev-jagadananda-sandal-oil"
+   "ev-jagadananda-sandal-oil",
+   "ev-jahnava-kheturi"
   ]
  },
  {
@@ -7201,6 +7533,7 @@
    "bkm-0004",
    "bkm-0006",
    "bkm-0008",
+   "brt-4008",
    "pad-0175",
    "pad-0204",
    "pad-0310",
@@ -7248,6 +7581,7 @@
    "krn-0002",
    "jcm-0100",
    "cc-4051",
+   "brt-3021",
    "gkd-0164",
    "jcm-0102",
    "pvl-0273",
@@ -7312,6 +7646,7 @@
    "ev-prema-for-srinivasa",
    "ev-lord-disappearance",
    "ev-jiva-meets-nityananda-navadvipa",
+   "ev-dvija-haridasa-dream-vrindavana",
    "ev-jiva-comes-to-vrindavana",
    "ev-nityananda-marriage",
    "ev-virachandra-shyamasundara",
@@ -7356,26 +7691,38 @@
    "jcm-0014",
    "cc-0189",
    "jcm-0011",
+   "brt-5067",
    "apr-0072",
+   "brt-5068",
    "cb-0018",
    "cb-0064",
    "pvl-0039",
    "pad-0126",
    "pad-0522",
+   "brt-5069",
    "cb-0066",
    "cb-0067",
+   "brt-2013",
+   "brt-5070",
    "cb-0068",
    "cb-1026",
    "pvl-0040",
    "pvl-0229",
    "pvl-0265",
+   "brt-5071",
+   "brt-5072",
    "cb-0065",
    "nvv-0037",
    "nvv-0018",
    "brt-0094",
+   "brt-4026",
    "nvl-0035",
    "nvv-0036",
    "nvv-0038",
+   "brt-5066",
+   "brt-5073",
+   "brt-5074",
+   "brt-5075",
    "pvl-0149",
    "nvv-0056",
    "pvl-0170",
@@ -7420,22 +7767,33 @@
   "lilas": [
    "jcm-0076",
    "pv-0005",
+   "brt-4014",
    "cc-2104",
+   "brt-4015",
+   "brt-4013",
    "pv-0011",
    "brt-0006",
    "jcm-0099",
+   "brt-4016",
+   "brt-4018",
    "anv-0011",
    "pvl-0019",
    "brt-0070",
-   "nvl-0029"
+   "brt-4017",
+   "nvl-0029",
+   "brt-4012",
+   "brt-4019"
   ],
   "events": [
    "ev-lord-narrates-jagannatha-glory",
    "ev-jagadananda-giridhari-seva",
    "ev-gadadhara-leaves-kshetra-sannyasa",
+   "ev-gopinatha-prasada-gadadhara",
+   "ev-gadadhara-reads-bhagavata-puri",
    "ev-jagadananda-vrindavana-pilu",
    "ev-lord-sends-seat-gopala-bhatta",
    "ev-lord-disappearance",
+   "ev-gadadhara-departure",
    "ev-srinivasa-gadadhara-puri",
    "ev-narottama-puri"
   ]
@@ -8023,8 +8381,10 @@
   "section": "",
   "lilas": [
    "apr-0002",
+   "brt-2003",
    "apr-0003",
    "apr-0004",
+   "brt-2004",
    "pvl-0206",
    "pvl-0241",
    "apr-0005",
@@ -8036,6 +8396,7 @@
    "pvl-0208",
    "pvl-0243",
    "apr-0008",
+   "brt-2005",
    "apr-0021",
    "pad-0545",
    "apr-0154"
@@ -8098,7 +8459,8 @@
    "pvl-0045",
    "cc-3124",
    "cc-4029",
-   "brt-0095"
+   "brt-0095",
+   "brt-4042"
   ],
   "events": [
    "ev-advaita-pilgrimage",
@@ -8106,7 +8468,8 @@
    "ev-lokanatha-sent-to-vrindavana",
    "ev-subuddhi-raya-holy-name",
    "ev-haridasa-sthavara-jangama-deliverance",
-   "ev-srinivasa-journey-vrindavana"
+   "ev-srinivasa-journey-vrindavana",
+   "ev-srinivasa-second-vrindavana"
   ]
  },
  {
@@ -8167,6 +8530,7 @@
   "note": "Бенгалия, на Ганге; обитель Нитьянанды, Шьямасундара. Также: дом Нитьянанды и Вирачандры; бывший тег #khardaha",
   "section": "",
   "lilas": [
+   "brt-4008",
    "pad-0534",
    "pad-0535",
    "pad-0536",
@@ -8199,9 +8563,14 @@
    "nvv-0025",
    "pvl-0027",
    "brt-0086",
+   "brt-4009",
    "nvl-0027",
+   "brt-5022",
+   "brt-5023",
    "nvv-0029",
    "nvl-0055",
+   "brt-5083",
+   "brt-5084",
    "pvl-0148",
    "pvl-0149",
    "pvl-0150",
@@ -8229,10 +8598,11 @@
    "ev-virachandra-children",
    "ev-srinivasa-khardaha-jahnava",
    "ev-narottama-gauda-pilgrimage",
+   "ev-jahnava-kheturi",
    "ev-jahnava-vrindavana",
    "ev-jahnava-returns-through-kheturi",
+   "ev-jahnava-gopinatha",
    "ev-kheturi-six-deities",
-   "ev-jahnava-kheturi",
    "ev-virachandra-pilgrimage"
   ]
  },
@@ -8248,6 +8618,7 @@
    "apr-0108",
    "cc-3002",
    "gkd-0137",
+   "brt-1014",
    "apr-0109",
    "gkd-0153",
    "bkm-0012",
@@ -8255,18 +8626,35 @@
    "vlb-0002",
    "gst-0017",
    "cc-0137",
+   "brt-1015",
+   "brt-1016",
+   "brt-1017",
+   "brt-1018",
+   "brt-1026",
+   "brt-1027",
    "brt-0107",
+   "brt-3003",
    "pvl-0079",
    "pvl-0060",
    "nvl-0017",
    "pvl-0072",
    "anv-0032",
+   "brt-3013",
+   "brt-3008",
    "krn-0031",
    "anv-0036",
+   "brt-1013",
+   "brt-1019",
+   "brt-1025",
+   "brt-1028",
+   "brt-3016",
    "pvl-0087",
    "krn-0036",
    "nvl-0053",
+   "brt-5050",
+   "brt-5051",
    "pvl-0110",
+   "brt-4042",
    "krn-0023",
    "nvv-0076",
    "krn-0012",
@@ -8284,16 +8672,26 @@
    "ev-bengali-servants-shrinathji",
    "ev-devotees-lament-after-disappearance",
    "ev-raghunatha-dasa-radha-kunda",
+   "ev-radha-kunda-excavation",
+   "ev-sanatana-raghunatha-hut",
+   "ev-raghunatha-sakhisthali-leaf-cup",
+   "ev-raghunatha-mental-sweet-rice",
+   "ev-sanatana-braid-serpent",
+   "ev-rupa-dana-keli-kaumudi-raghunatha",
    "ev-srinivasa-vraja-pilgrimage",
    "ev-shyamananda-comes-to-vrindavana",
    "ev-narottama-path-vision",
    "ev-narottama-vrindavana-darshan",
    "ev-narottama-thakura-mahashaya",
+   "ev-srinivasa-narottama-shyamananda-vrindavana",
    "ev-govinda-commands-srinivasa",
    "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-books-leave-vrindavana",
    "ev-krishnadasa-kaviraja-departure",
    "ev-krishnadasa-kaviraja-revived",
    "ev-jahnava-vrindavana",
+   "ev-jahnava-vraja-visions",
+   "ev-srinivasa-second-vrindavana",
    "ev-ramachandra-instructs-vira-hambira",
    "ev-virachandra-pilgrimage",
    "ev-srinivasa-disciples",
@@ -8357,28 +8755,58 @@
    "pvl-0018",
    "pvl-0029",
    "brt-0092",
+   "brt-3050",
    "pvl-0093",
+   "brt-3051",
+   "brt-3052",
+   "brt-3053",
+   "brt-3054",
+   "brt-4035",
+   "brt-4052",
+   "brt-4053",
+   "brt-4056",
+   "brt-4057",
+   "brt-4064",
+   "brt-3055",
+   "brt-4050",
+   "brt-4002",
    "pvl-0095",
    "anv-0039",
+   "brt-4030",
    "krn-0005",
    "pvl-0094",
+   "brt-4034",
    "pvl-0096",
+   "brt-4024",
    "nvl-0033",
+   "brt-4028",
    "pvl-0097",
+   "brt-4029",
+   "brt-4033",
    "pvl-0101",
    "nvl-0055",
+   "brt-5077",
+   "brt-5079",
+   "brt-5080",
    "pvl-0148",
    "pvl-0120",
    "anv-0040",
    "pvl-0121",
    "krn-0003",
    "nvl-0038",
+   "brt-4036",
+   "brt-4039",
+   "brt-5002",
    "pvl-0118",
    "anv-0048",
    "nvv-0060",
    "anv-0047",
    "nvl-0056",
+   "brt-5003",
    "pvl-0150",
+   "brt-5008",
+   "brt-5009",
+   "brt-5039",
    "nvl-0062",
    "pvl-0170",
    "krn-0024",
@@ -8397,21 +8825,35 @@
    "ev-srinivasa-shrikhanda",
    "ev-srinivasa-journey-vrindavana",
    "ev-srinivasa-returns-yajigrama",
+   "ev-vishnupriya-departure",
+   "ev-advaita-dream-srinivasa-marriage",
+   "ev-srinivasa-narahari-after-vraja",
+   "ev-srinivasa-gadadhara-dasa-katwa",
+   "ev-gadadhara-dasa-narahari-departure",
+   "ev-katwa-khanda-memorial-festivals",
+   "ev-srinivasa-daily-bhajana-yajigrama",
    "ev-srinivasa-raghunandana-shrikhanda",
+   "ev-narottama-gauda-pilgrimage",
    "ev-ramachandra-kaviraja-meets-srinivasa",
+   "ev-shyamananda-puri-associates-disappear",
    "ev-narottama-shrikhanda-yajigrama-katwa",
+   "ev-srinivasa-marriage",
    "ev-govinda-kaviraja-initiation",
+   "ev-gokulananda-shridasa-disciples",
+   "ev-vira-hambira-gosvamis-letter",
    "ev-kheturi-first-installation",
    "ev-jahnava-returns-through-kheturi",
    "ev-jahnava-vrindavana",
    "ev-srinivasa-mother-departure",
-   "ev-srinivasa-marriage",
-   "ev-srinivasa-daily-bhajana-yajigrama",
    "ev-srinivasa-second-vrindavana",
+   "ev-dvija-haridasa-departure",
    "ev-vrindavana-messengers-gauda",
    "ev-gati-govinda-birth",
    "ev-narottama-bhajana-kheturi",
+   "ev-kanchanagaria-festival",
    "ev-kheturi-six-deities",
+   "ev-kheturi-festival-invitations",
+   "ev-kheturi-mahantas-depart",
    "ev-virachandra-yajigrama-kheturi",
    "ev-virachandra-pilgrimage",
    "ev-gopala-champu-dispute",
@@ -8447,13 +8889,20 @@
    "pvl-0058",
    "pad-0566",
    "brt-0023",
+   "brt-3035",
    "nvl-0023",
    "pvl-0088",
    "pvl-0091",
    "pvl-0092",
+   "brt-3039",
+   "brt-3041",
+   "brt-3048",
+   "brt-4050",
    "pvl-0094",
    "pvl-0096",
+   "brt-4024",
    "nvl-0035",
+   "brt-4027",
    "pvl-0099",
    "anv-0038",
    "nvl-0037",
@@ -8461,9 +8910,17 @@
    "pvl-0101",
    "nvl-0058",
    "pvl-0102",
+   "brt-5022",
    "pvl-0103",
+   "brt-5038",
    "nvl-0050",
+   "brt-5063",
+   "brt-5060",
    "nvl-0055",
+   "brt-5062",
+   "brt-5064",
+   "brt-5061",
+   "brt-5080",
    "pvl-0148",
    "pvl-0157",
    "pvl-0116",
@@ -8485,15 +8942,32 @@
    "pvl-0138",
    "pvl-0139",
    "pvl-0140",
+   "brt-5012",
    "nvl-0036",
    "pvl-0149",
    "pvl-0150",
+   "brt-5008",
    "nvl-0039",
+   "brt-5011",
+   "brt-5017",
    "nvl-0040",
    "nvl-0042",
+   "brt-5020",
    "nvl-0043",
+   "brt-5021",
+   "brt-5026",
+   "brt-5027",
+   "brt-5028",
    "nvl-0044",
    "pvl-0151",
+   "brt-5029",
+   "brt-5030",
+   "brt-5031",
+   "brt-5032",
+   "brt-5033",
+   "brt-5034",
+   "brt-5035",
+   "brt-5036",
    "nvl-0045",
    "pad-0561",
    "pvl-0152",
@@ -8501,9 +8975,14 @@
    "pvl-0153",
    "nvl-0047",
    "nvl-0048",
+   "brt-5037",
    "nvl-0049",
+   "brt-5039",
    "nvl-0051",
+   "brt-5040",
    "nvl-0052",
+   "brt-5043",
+   "brt-5044",
    "pvl-0159",
    "nvl-0057",
    "pvl-0160",
@@ -8536,14 +9015,20 @@
    "ev-narottama-initiation",
    "ev-narottama-returns-kheturi",
    "ev-vira-hambira-conversion",
+   "ev-books-found-news-letters",
+   "ev-shyamananda-returns-utkala",
+   "ev-srinivasa-raghunandana-shrikhanda",
    "ev-ramachandra-kaviraja-meets-srinivasa",
+   "ev-narottama-shrikhanda-yajigrama-katwa",
    "ev-nityananda-shows-ekachakra",
    "ev-kheturi-first-installation",
    "ev-narottama-kirtan-style",
    "ev-harirama-ramakrishna-conversion",
    "ev-jahnava-kheturi",
    "ev-jahnava-vrindavana",
+   "ev-jiva-sends-gopala-virudavali",
    "ev-jahnava-returns-through-kheturi",
+   "ev-bara-gangadasa-shyama-raya",
    "ev-vrindavana-messengers-gauda",
    "ev-narottama-bhajana-kheturi",
    "ev-santosha-datta-sangita-madhava",
@@ -8584,13 +9069,15 @@
    "pvl-0028",
    "brt-0087",
    "brt-0090",
-   "pvl-0077"
+   "pvl-0077",
+   "brt-4010"
   ],
   "events": [
    "ev-abhirama-gopinatha-khanakul",
    "ev-associates-of-nityananda-wonders",
    "ev-abhirama-whip-srinivasa",
-   "ev-shyamananda-initiation-ambika"
+   "ev-shyamananda-initiation-ambika",
+   "ev-narottama-gauda-pilgrimage"
   ]
  },
  {
@@ -8634,7 +9121,9 @@
    "pvl-0044",
    "pvl-0046",
    "pvl-0066",
+   "brt-3013",
    "anv-0036",
+   "brt-1034",
    "nvl-0053",
    "pvl-0110"
   ],
@@ -8642,6 +9131,7 @@
    "ev-lokanatha-sent-to-vrindavana",
    "ev-lokanatha-bhugarbha-in-vraja",
    "ev-narottama-initiation",
+   "ev-srinivasa-vraja-pilgrimage",
    "ev-srinivasa-narottama-farewell-parikrama",
    "ev-jahnava-vrindavana"
   ]
@@ -8657,6 +9147,7 @@
    "pvl-0046",
    "pvl-0066",
    "anv-0032",
+   "brt-1031",
    "pvl-0110"
   ],
   "events": [
@@ -8664,6 +9155,7 @@
    "ev-lokanatha-bhugarbha-in-vraja",
    "ev-narottama-initiation",
    "ev-srinivasa-vraja-pilgrimage",
+   "ev-srinivasa-narottama-farewell-parikrama",
    "ev-jahnava-vrindavana"
   ]
  },
@@ -8675,24 +9167,43 @@
   "section": "",
   "lilas": [
    "brt-0043",
+   "brt-3033",
    "krn-0008",
    "nvl-0021",
    "pvl-0085",
    "pvl-0086",
+   "brt-3035",
+   "brt-3034",
    "anv-0043",
+   "brt-3036",
    "krn-0009",
    "nvl-0022",
    "pvl-0089",
+   "brt-3037",
+   "brt-4046",
    "pvl-0090",
    "pvl-0091",
+   "brt-4048",
    "krn-0010",
    "pvl-0092",
+   "brt-4047",
    "krn-0011",
+   "brt-3038",
+   "brt-3039",
+   "brt-3040",
+   "brt-3048",
+   "brt-3049",
    "pvl-0093",
+   "brt-4050",
+   "brt-4033",
    "pvl-0101",
+   "brt-5080",
    "pvl-0114",
    "pvl-0121",
+   "brt-4044",
+   "brt-4049",
    "pvl-0116",
+   "brt-4045",
    "pvl-0122",
    "anv-0047",
    "krn-0019",
@@ -8704,6 +9215,8 @@
    "krn-0023",
    "krn-0032",
    "pvl-0150",
+   "brt-5009",
+   "brt-5039",
    "nvv-0061",
    "nvv-0062",
    "nvv-0063",
@@ -8720,19 +9233,29 @@
   "events": [
    "ev-srinivasa-birth",
    "ev-books-stolen-vana-vishnupura",
+   "ev-narottama-returns-kheturi",
    "ev-vira-hambira-conversion",
    "ev-vira-hambira-padas-queen",
    "ev-kalachand-installation",
+   "ev-books-found-news-letters",
    "ev-srinivasa-returns-yajigrama",
+   "ev-srinivasa-raghunandana-shrikhanda",
+   "ev-vira-hambira-gosvamis-letter",
    "ev-kheturi-first-installation",
+   "ev-jahnava-returns-through-kheturi",
    "ev-srinivasa-marriage",
+   "ev-srinivasa-second-vrindavana",
+   "ev-harinarayana-rama-mantra",
    "ev-vrindavana-messengers-gauda",
+   "ev-shyamananda-utkala",
    "ev-gati-govinda-birth",
    "ev-narottama-bhajana-kheturi",
    "ev-ramachandra-obedience",
    "ev-srinivasa-samadhi-nose-ring",
    "ev-ramachandra-instructs-vira-hambira",
    "ev-kheturi-six-deities",
+   "ev-kheturi-festival-invitations",
+   "ev-kheturi-mahantas-depart",
    "ev-virachandra-vishnupura",
    "ev-jiva-srinivasa-letters",
    "ev-srinivasa-disciples"
@@ -8752,11 +9275,30 @@
    "pvl-0098",
    "pvl-0099",
    "nvl-0055",
+   "brt-5064",
+   "brt-5065",
+   "brt-5066",
    "nvl-0038",
+   "brt-4040",
+   "brt-4041",
    "nvl-0059",
    "pvl-0150",
+   "brt-5008",
    "nvl-0039",
+   "brt-5009",
+   "brt-5010",
+   "brt-5011",
+   "brt-5013",
+   "brt-5015",
+   "brt-5016",
+   "brt-5017",
+   "brt-5014",
+   "brt-5018",
+   "brt-5019",
+   "brt-5026",
+   "brt-5037",
    "nvl-0049",
+   "brt-5039",
    "pvl-0160",
    "nvl-0062",
    "nvl-0063",
@@ -8773,10 +9315,17 @@
    "ev-govinda-kaviraja-initiation",
    "ev-kheturi-first-installation",
    "ev-jahnava-returns-through-kheturi",
+   "ev-bara-gangadasa-shyama-raya",
+   "ev-jahnava-ekachakra",
    "ev-srinivasa-second-vrindavana",
+   "ev-govinda-kaviraja-settles-budhari",
    "ev-ganganarayana-conversion",
    "ev-kheturi-six-deities",
    "ev-kheturi-festival-invitations",
+   "ev-ramachandra-dream-gaura",
+   "ev-govinda-kaviraja-title",
+   "ev-vamshidasa-chakravarti-initiation",
+   "ev-kheturi-festival",
    "ev-kheturi-mahantas-depart",
    "ev-narottama-delivers-brahmanas",
    "ev-virachandra-yajigrama-kheturi",
@@ -8811,12 +9360,14 @@
   "section": "",
   "lilas": [
    "brt-0021",
+   "brt-3047",
    "pvl-0143",
    "nvl-0051",
    "pvl-0175"
   ],
   "events": [
    "ev-shyamananda-initiation-ambika",
+   "ev-shyamananda-returns-utkala",
    "ev-shyamananda-utkala",
    "ev-kheturi-mahantas-depart"
   ]
@@ -8922,13 +9473,16 @@
   "section": "",
   "lilas": [
    "brt-0062",
+   "brt-2017",
    "nvv-0075",
    "cc-0008",
+   "brt-2018",
    "cc-0293",
    "cc-4001"
   ],
   "events": [
    "ev-gopinatha-madhu-pandita",
+   "ev-srinivasa-narottama-farewell-parikrama",
    "ev-virachandra-pilgrimage"
   ]
  },
@@ -8939,9 +9493,11 @@
   "note": "Врадж, у Говардханы",
   "section": "",
   "lilas": [
+   "brt-1020",
    "nvv-0077"
   ],
   "events": [
+   "ev-srinivasa-narottama-farewell-parikrama",
    "ev-virachandra-pilgrimage"
   ]
  },
@@ -8953,14 +9509,20 @@
   "section": "",
   "lilas": [
    "cc-2124",
+   "brt-1012",
    "anv-0036",
+   "brt-1011",
+   "brt-1013",
    "nvl-0053",
+   "brt-5050",
+   "brt-5053",
    "nvv-0076"
   ],
   "events": [
    "ev-parrots-vrindavana",
    "ev-srinivasa-narottama-farewell-parikrama",
    "ev-jahnava-vrindavana",
+   "ev-jahnava-vraja-visions",
    "ev-virachandra-pilgrimage"
   ]
  },
@@ -9047,12 +9609,16 @@
    "cc-3008",
    "vlb-0004",
    "anv-0036",
+   "brt-1046",
+   "brt-1048",
+   "brt-5053",
    "vlb-0010"
   ],
   "events": [
    "ev-vraja-parikrama",
    "ev-jiva-vallabha-dispute",
    "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vraja-visions",
    "ev-vyasatirtha-vallabha"
   ]
  },
@@ -9079,11 +9645,16 @@
   "section": "",
   "lilas": [
    "brt-0012",
-   "krn-0005"
+   "brt-4030",
+   "krn-0005",
+   "brt-4040",
+   "brt-4041"
   ],
   "events": [
    "ev-ramachandra-kaviraja-birth",
-   "ev-ramachandra-kaviraja-meets-srinivasa"
+   "ev-ramachandra-kaviraja-meets-srinivasa",
+   "ev-govinda-kaviraja-settles-budhari",
+   "ev-govinda-kaviraja-initiation"
   ]
  },
  {
@@ -9094,13 +9665,24 @@
   "section": "",
   "lilas": [
    "nvl-0038",
+   "brt-5004",
    "nvl-0056",
+   "brt-5003",
+   "brt-5005",
+   "brt-5006",
+   "brt-5007",
+   "brt-5008",
+   "brt-5009",
    "anv-0049",
    "krn-0007"
   ],
   "events": [
    "ev-srinivasa-second-vrindavana",
+   "ev-dvija-haridasa-departure",
    "ev-narottama-bhajana-kheturi",
+   "ev-kanchanagaria-festival",
+   "ev-gokulananda-shridasa-disciples",
+   "ev-kheturi-festival-invitations",
    "ev-srinivasa-disciples"
   ]
  },
@@ -9111,6 +9693,7 @@
   "note": "селение близ Вишнупура; дом Кришнаваллабхи (Валлабхи Тхакура), где останавливался Шринивас",
   "section": "",
   "lilas": [
+   "brt-3036",
    "krn-0009"
   ],
   "events": [
@@ -9143,10 +9726,13 @@
   "note": "Уткала (Орисса); селение, где жил Шьямананда («Нароттама-виласа» 4)",
   "section": "",
   "lilas": [
-   "nvl-0031"
+   "brt-4022",
+   "nvl-0031",
+   "brt-4045"
   ],
   "events": [
-   "ev-narottama-shyamananda-nrisimhapura"
+   "ev-narottama-shyamananda-nrisimhapura",
+   "ev-shyamananda-utkala"
   ]
  },
  {
@@ -9220,7 +9806,8 @@
   "note": "Врадж, у Чхатравана; место явления Радха-виноды Локанатхе",
   "section": "",
   "lilas": [
-   "brt-0019"
+   "brt-0019",
+   "brt-1035"
   ],
   "events": [
    "ev-lokanatha-life-vrindavana"
@@ -9233,10 +9820,13 @@
   "note": "селение семьи Шьямананды",
   "section": "",
   "lilas": [
-   "brt-0021"
+   "brt-0021",
+   "brt-3002",
+   "brt-3047"
   ],
   "events": [
-   "ev-shyamananda-initiation-ambika"
+   "ev-shyamananda-initiation-ambika",
+   "ev-shyamananda-returns-utkala"
   ]
  },
  {
@@ -9259,10 +9849,14 @@
   "note": "на Падмавати; столица Кришнананды и Пурушоттамы Датты",
   "section": "",
   "lilas": [
-   "brt-0025"
+   "brt-4027",
+   "brt-0025",
+   "brt-5012"
   ],
   "events": [
-   "ev-santosha-datta-sangita-madhava"
+   "ev-narottama-returns-kheturi",
+   "ev-santosha-datta-sangita-madhava",
+   "ev-kheturi-six-deities"
   ]
  },
  {
@@ -9274,11 +9868,14 @@
   "lilas": [
    "brt-0058",
    "cc-0098",
+   "brt-2001",
+   "brt-2022",
    "cc-0066"
   ],
   "events": [
    "ev-govinda-deva-appearance",
-   "ev-kaviraja-ordered-to-write-cc"
+   "ev-kaviraja-ordered-to-write-cc",
+   "ev-srinivasa-narottama-farewell-parikrama"
   ]
  },
  {
@@ -9288,10 +9885,12 @@
   "note": "Вриндаван, у храма Говинды; место явления Вринда-деви (БР 2)",
   "section": "",
   "lilas": [
-   "brt-0060"
+   "brt-0060",
+   "brt-2021"
   ],
   "events": [
-   "ev-vrinda-devi-rupa"
+   "ev-vrinda-devi-rupa",
+   "ev-srinivasa-narottama-farewell-parikrama"
   ]
  },
  {
@@ -9362,11 +9961,13 @@
   "note": "Виттхала; место ухода Шанкараньи (Вишварупы)",
   "section": "",
   "lilas": [
+   "brt-2014",
    "cc-1114",
    "gkd-0093",
    "cc-0319"
   ],
   "events": [
+   "ev-nityananda-lakshmipati-initiation",
    "ev-ranga-puri-pandharpur"
   ]
  },
@@ -9422,8 +10023,12 @@
   "en": "Anyor (Annakuta-grama)",
   "note": "деревня у Говардханы; аннакута Гопалы",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1020"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
  },
  {
   "id": "#jatipura",
@@ -9442,10 +10047,13 @@
   "section": "",
   "lilas": [
    "cc-3004",
-   "cc-3005"
+   "brt-1029",
+   "cc-3005",
+   "brt-1028"
   ],
   "events": [
-   "ev-gopala-ganthuli"
+   "ev-gopala-ganthuli",
+   "ev-srinivasa-narottama-farewell-parikrama"
   ]
  },
  {
@@ -9463,8 +10071,12 @@
   "en": "the Sarayu",
   "note": "Айодхья; сюда пошёл Мадхавендра Пури, расставшись с Нитьянандой (ЧБ Ади 9)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-2015"
+  ],
+  "events": [
+   "ev-nityananda-meets-madhavendra"
+  ]
  },
  {
   "id": "#dhaka-dakshina",
@@ -9587,10 +10199,14 @@
   "note": "деревня, где брахман укорял Харидаса за громкое воспевание имени (ЧБ Ади 16.267)",
   "section": "",
   "lilas": [
-   "cb-0117"
+   "cb-0117",
+   "brt-3042",
+   "brt-4006"
   ],
   "events": [
-   "ev-haridasa-loud-chanting-harinadi"
+   "ev-haridasa-loud-chanting-harinadi",
+   "ev-gauridasa-oar-gita",
+   "ev-narottama-gauda-pilgrimage"
   ]
  },
  {
@@ -9600,9 +10216,11 @@
   "note": "купцы Агры снаряжают Шринивасу с книгами в Гауду («Анурага-валли» 6)",
   "section": "",
   "lilas": [
+   "brt-1049",
    "anv-0037"
   ],
   "events": [
+   "ev-arrival-mathura",
    "ev-books-leave-vrindavana"
   ]
  },
@@ -9614,11 +10232,14 @@
   "section": "",
   "lilas": [
    "cc-3007",
-   "anv-0036"
+   "anv-0036",
+   "brt-1030",
+   "brt-5053"
   ],
   "events": [
    "ev-vraja-parikrama",
-   "ev-srinivasa-narottama-farewell-parikrama"
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vraja-visions"
   ]
  },
  {
@@ -9658,9 +10279,11 @@
   "note": "деревня Сурьядаса Саркхела, где Нитьянанда женился на Васудхе и Джахнаве; не путать с камнем шалаграма",
   "section": "",
   "lilas": [
+   "brt-3042",
    "pvl-0270"
   ],
   "events": [
+   "ev-gauridasa-oar-gita",
    "ev-nityananda-marriage"
   ]
  },
@@ -9760,19 +10383,27 @@
   "note": "на Ямуне между Матхурой и Вриндаваном; здесь жил Господь во Врадже (ЧЧ Мадхья 18)",
   "section": "",
   "lilas": [
+   "brt-2012",
    "cc-3009",
+   "brt-1053",
    "cc-3013",
    "cc-3010",
    "cc-3011",
    "cc-3012",
    "cc-3014",
-   "cc-3015"
+   "cc-3015",
+   "brt-1052",
+   "brt-5047",
+   "brt-5048",
+   "brt-5059"
   ],
   "events": [
    "ev-akrura-tirtha-imli-tala",
    "ev-krishnadasa-rajput",
    "ev-vraja-residents-see-krishna",
-   "ev-akrura-ghata-fall"
+   "ev-akrura-ghata-fall",
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vrindavana"
   ]
  },
  {
@@ -9884,10 +10515,12 @@
   "note": "озеро у храма Гундичи в Пури; водные игры Господа с преданными в дни Ратха-ятры (ЧЧ Мадхья 14.75–90)",
   "section": "",
   "lilas": [
-   "cc-2065"
+   "cc-2065",
+   "brt-4021"
   ],
   "events": [
-   "ev-indradyumna-jala-keli"
+   "ev-indradyumna-jala-keli",
+   "ev-narottama-puri"
   ]
  },
  {
@@ -10111,8 +10744,13 @@
   "en": "Chira-ghata",
   "note": "гхат на Ямуне во Вриндаване (место похищения одежд гопи); по B — здесь, в кундже кадамб, бакул и тамалов, по указанию Господа жили всю жизнь Локанатха и Бхугарбха (B 1073–1074)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1046",
+   "brt-2017"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
  },
  {
   "id": "#rajmahal",
@@ -10201,8 +10839,12 @@
   "en": "Akai Hat",
   "note": "у Катвы, на дороге в Навадвип; шрипат Кала Кришнадаса; пруд Нупура-кунда — по преданию, туда упала нупура Рагхунанданы или Нитьянанды (T 72, 95; M 144; B 932)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-5025"
+  ],
+  "events": [
+   "ev-jahnava-kheturi"
+  ]
  },
  {
   "id": "#baradangi",
@@ -10246,8 +10888,14 @@
   "en": "Bhadravana",
   "note": "один из лесов Враджа; здесь Рупа завершил «Лалита-мадхаву» (B 369)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1048",
+   "brt-5053"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vraja-visions"
+  ]
  },
  {
   "id": "#ter-kadamba",
@@ -10264,8 +10912,14 @@
   "en": "Radha-Damodara temple (Vrindavana)",
   "note": "храм Божества Дживы; во дворе — самадхи и место бхаджана Рупы Госвами (T 161, 212)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-3019",
+   "brt-4042"
+  ],
+  "events": [
+   "ev-books-leave-vrindavana",
+   "ev-srinivasa-second-vrindavana"
+  ]
  },
  {
   "id": "#jaipur",
@@ -10327,17 +10981,30 @@
   "en": "Chakra-tirtha (Govardhana)",
   "note": "на северном берегу Манаси-ганги; храм Чакрешвары Шивы; бхаджан-кутир Санатаны (T 171–172)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1024"
+  ],
+  "events": [
+   "ev-sanatana-chakra-tirtha-shila"
+  ]
  },
  {
   "id": "#pavana-sarovara",
   "ru": "Павана-саровар",
   "en": "Pavana-sarovara",
-  "note": "пруд близ Нандаграма; хижина Санатаны, молоко от Кришны (B 473; T 172; M 181)",
+  "note": "пруд близ Нандаграма; хижина Санатаны, молоко от Кришны (B 473; T 172; M 181); пруд у Нандишвары (Нандаграма); хижина Санатаны Госвами (БР 5.935, 1298–1337)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1037",
+   "brt-1038",
+   "brt-1031",
+   "brt-1040"
+  ],
+  "events": [
+   "ev-gopala-milk-rupa-sanatana",
+   "ev-radha-brings-rice-rupa",
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
  },
  {
   "id": "#dvadashaditya-tila",
@@ -10345,8 +11012,14 @@
   "en": "Dvadashaditya-tila (Aditya-tila)",
   "note": "Вриндаван, высокий холм у Ямуны; старый храм Мадана-мохана и самадхи Санатаны (B 460, 472; T 171)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-2002",
+   "brt-2001"
+  ],
+  "events": [
+   "ev-gaura-appears-sanatana-dvadashaditya",
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
  },
  {
   "id": "#karauli",
@@ -10390,8 +11063,20 @@
   "en": "Arit (Arishta-grama)",
   "note": "Врадж, деревня у Радха- и Шьяма-кунды (T 187)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1014",
+   "brt-1015",
+   "brt-1013",
+   "brt-5050",
+   "brt-4042"
+  ],
+  "events": [
+   "ev-radha-kunda-discovery",
+   "ev-radha-kunda-excavation",
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vrindavana",
+   "ev-srinivasa-second-vrindavana"
+  ]
  },
  {
   "id": "#manasa-ganga",
@@ -10399,8 +11084,17 @@
   "en": "Manasa-ganga",
   "note": "пруд у Говардханы; хижина Гопалы Бхатты, тигр у Рагхунатхи Даса (T 187; ⚠ по БР 5.554–562 — Манаса-павана-гхат у Радха-кунды, жилище Гопалы Бхатты)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1021",
+   "brt-1022",
+   "brt-1025",
+   "brt-5052"
+  ],
+  "events": [
+   "ev-govardhana-visit",
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vrindavana"
+  ]
  },
  {
   "id": "#sakhisthali",
@@ -10408,8 +11102,15 @@
   "en": "Sakhisthali",
   "note": "Врадж, обитель Чандравали (T 187; БР 5)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1017",
+   "brt-1025",
+   "brt-1034"
+  ],
+  "events": [
+   "ev-raghunatha-sakhisthali-leaf-cup",
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
  },
  {
   "id": "#rohini-rayani",
@@ -10471,8 +11172,15 @@
   "en": "Sri Mayapur (Ishodyan)",
   "note": "Навадвипа-дхама, восточный берег Ганги; матхи Гаудия-миссии XX в., самадхи @bhakti-dayita-madhava (T 287)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-3009",
+   "brt-4003",
+   "brt-4004"
+  ],
+  "events": [
+   "ev-srinivasa-manasa-garland-gaura",
+   "ev-narottama-gauda-pilgrimage"
+  ]
  },
  {
   "id": "#kolkata",
@@ -10561,8 +11269,12 @@
   "en": "Badarikashrama (Badari, Badrinath)",
   "note": "Гималаи; обитель Вьясы, где Мадхва встретил его; Ананта-матх (M pdf 334–336)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-1015"
+  ],
+  "events": [
+   "ev-radha-kunda-excavation"
+  ]
  },
  {
   "id": "#shriperumbudur",
@@ -10723,8 +11435,14 @@
   "en": "Advaita-vata",
   "note": "баньян во Вриндаване, у которого долго жил Адвайта Ачарья (B 724; «Адвайта-пракаша» — у Двадаша-Адитья-тиртхи)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-2003",
+   "brt-2007"
+  ],
+  "events": [
+   "ev-advaita-parents-conception",
+   "ev-advaita-pilgrimage"
+  ]
  },
  {
   "id": "#advaita-bhavana",
@@ -10732,8 +11450,12 @@
   "en": "Advaita-bhavana (Advaita's house in Navadvipa)",
   "note": "Майяпур, недалеко от Шривас-анганы; толь Адвайты; ныне центр Гаудия-матха (T 18–19, 256, 269; M 217)",
   "section": "",
-  "lilas": [],
-  "events": []
+  "lilas": [
+   "brt-2010"
+  ],
+  "events": [
+   "ev-shantipura-reunion"
+  ]
  },
  {
   "id": "#house-gangadasa",
@@ -10908,10 +11630,12 @@
   "note": "Бирбхум; храм Шивы по дороге в Экачакру; рядом — место Кундали-дамана (БР 4.164–166)",
   "section": "",
   "lilas": [
-   "brt-0093"
+   "brt-0093",
+   "brt-5076"
   ],
   "events": [
-   "ev-srinivasa-journey-vrindavana"
+   "ev-srinivasa-journey-vrindavana",
+   "ev-jahnava-ekachakra"
   ]
  },
  {
@@ -10921,10 +11645,220 @@
   "note": "Матхура; главный гхат Ямуны, где Кришна отдыхал, убив Камсу",
   "section": "",
   "lilas": [
-   "brt-0096"
+   "brt-1008",
+   "brt-0096",
+   "brt-1007",
+   "brt-1052",
+   "brt-5047",
+   "brt-4036"
   ],
   "events": [
-   "ev-rupa-sanatana-departure"
+   "ev-mathura-sightseeing",
+   "ev-rupa-sanatana-departure",
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vrindavana",
+   "ev-dvija-haridasa-departure"
+  ]
+ },
+ {
+  "id": "#radhanagara-utkala",
+  "ru": "Радханагар (Уткала)",
+  "en": "Radhanagara (Utkala)",
+  "note": "селение в Ориссе; дом брахмана Брихадбхану, где пребывало Божество Радхи, позднее отправленное к Говинде (БР 6.89–93 по «Садхана-дипике»)",
+  "section": "",
+  "lilas": [
+   "brt-3007"
+  ],
+  "events": [
+   "ev-radha-for-govinda-from-puri"
+  ]
+ },
+ {
+  "id": "#panchakota",
+  "ru": "Панчакута (Панчкот)",
+  "en": "Panchakuta (Panchakot)",
+  "note": "холм с крепостью в округе Пурулия; путь Шринивасы с книгами к Вишнупуру (БР 7.33)",
+  "section": "",
+  "lilas": [
+   "brt-3033",
+   "brt-5008"
+  ],
+  "events": [
+   "ev-books-stolen-vana-vishnupura",
+   "ev-kheturi-festival-invitations"
+  ]
+ },
+ {
+  "id": "#tamar",
+  "ru": "Тамар",
+  "en": "Tamar",
+  "note": "вероятно, ныне округ Ранчи; на старой дороге из Джхарикханды в Бенгалию; разбойники Виры Хамбира не смогли здесь похитить книги (БР 7.46)",
+  "section": "",
+  "lilas": [
+   "brt-3033"
+  ],
+  "events": [
+   "ev-books-stolen-vana-vishnupura"
+  ]
+ },
+ {
+  "id": "#raghunathpur-purulia",
+  "ru": "Рагхунатхпур (Пурулия)",
+  "en": "Raghunathpur (Purulia)",
+  "note": "к северо-западу от Вишнупура; вторая неудача разбойников (БР 7.47)",
+  "section": "",
+  "lilas": [
+   "brt-3033"
+  ],
+  "events": [
+   "ev-books-stolen-vana-vishnupura"
+  ]
+ },
+ {
+  "id": "#imli-tala",
+  "ru": "Имли-тала (Амли-тала)",
+  "en": "Imli-tala (Amli-tala)",
+  "note": "Вриндаван, у Ямуны; древний тамаринд, под которым сидел Господь (БР 5.2093–2095, 2233–2236); ср. #akrura-tirtha",
+  "section": "",
+  "lilas": [
+   "brt-2008",
+   "brt-2012"
+  ],
+  "events": [
+   "ev-gaya-ishvara-puri-initiation",
+   "ev-akrura-tirtha-imli-tala"
+  ]
+ },
+ {
+  "id": "#kaliya-hrada",
+  "ru": "Калия-храда (Кали-храда, Калия-гхат)",
+  "en": "Kaliya-hrada (Kaliya-ghata)",
+  "note": "Вриндаван, омут на Ямуне, где Кришна усмирил Калию; рядом — кадамба, с которой Он прыгнул (БР 5.2001–2015)",
+  "section": "",
+  "lilas": [
+   "brt-2001"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
+ },
+ {
+  "id": "#shringara-vata",
+  "ru": "Шрингара-ват (Нитьянанда-ват)",
+  "en": "Shringara-vata (Nityananda-vata)",
+  "note": "баньян во Вриндаване на Ямуне; место игр Нитьянанды во Врадже (БР 5.2237–2239, 2350)",
+  "section": "",
+  "lilas": [
+   "brt-2013",
+   "brt-2016"
+  ],
+  "events": [
+   "ev-nityananda-leaves-home",
+   "ev-nityananda-pilgrimage"
+  ]
+ },
+ {
+  "id": "#keshi-ghata",
+  "ru": "Кеши-тиртха (Кеши-гхат)",
+  "en": "Keshi-tirtha (Keshi-ghata)",
+  "note": "Вриндаван, на Ямуне; место убийства Кеши (БР 5.2369–2373)",
+  "section": "",
+  "lilas": [
+   "brt-2017"
+  ],
+  "events": [
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
+ },
+ {
+  "id": "#rama-ghata",
+  "ru": "Рама-гхат",
+  "en": "Rama-ghata",
+  "note": "Врадж, на Ямуне к северу от Вриндавана; место раса Баларамы; здесь жил Нитьянанда во время паломничества (БР 5.1436–1562)",
+  "section": "",
+  "lilas": [
+   "brt-1045",
+   "brt-1044",
+   "brt-5053"
+  ],
+  "events": [
+   "ev-nityananda-pilgrimage",
+   "ev-srinivasa-narottama-farewell-parikrama",
+   "ev-jahnava-vraja-visions"
+  ]
+ },
+ {
+  "id": "#raval",
+  "ru": "Равал (Раваль)",
+  "en": "Raval",
+  "note": "селение у Ямуны близ Гокулы; место явления Радхи; здесь останавливался Махапрабху по пути из Гокулы в Матхуру (БР 5.1809–1835)",
+  "section": "",
+  "lilas": [
+   "brt-1049",
+   "brt-1051",
+   "brt-1052"
+  ],
+  "events": [
+   "ev-arrival-mathura",
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
+ },
+ {
+  "id": "#sheshashayi",
+  "ru": "Шешашайи",
+  "en": "Sheshashayi",
+  "note": "Врадж, близ Кошиканы (Котаваны); Божество Шешашайи; Махапрабху здесь (ЧЧ Мадхья 18.64; БР 5.1419–1428)",
+  "section": "",
+  "lilas": [
+   "brt-1043",
+   "brt-1042"
+  ],
+  "events": [
+   "ev-vraja-parikrama",
+   "ev-srinivasa-narottama-farewell-parikrama"
+  ]
+ },
+ {
+  "id": "#baithan",
+  "ru": "Байтхан",
+  "en": "Baithan",
+  "note": "Врадж, близ Нандишвары (Малый и Большой Байтхан); здесь подолгу жил Санатана Госвами (БР 5.1339–1387)",
+  "section": "",
+  "lilas": [
+   "brt-1041"
+  ],
+  "events": [
+   "ev-sanatana-vrajavasis-baithan"
+  ]
+ },
+ {
+  "id": "#bahadurpura",
+  "ru": "Бахадурпур (близ Будхари)",
+  "en": "Bahadurpur (near Budhari)",
+  "note": "селение близ Телии Будхари; дом Шьямадаса и Вамшидаса Чакраварти (БР 10.279, 299; 11.374); не путать с #dharenda",
+  "section": "",
+  "lilas": [
+   "brt-5065",
+   "brt-5016",
+   "brt-5019"
+  ],
+  "events": [
+   "ev-bara-gangadasa-shyama-raya",
+   "ev-kheturi-festival-invitations",
+   "ev-vamshidasa-chakravarti-initiation"
+  ]
+ },
+ {
+  "id": "#panchakuta",
+  "ru": "Панчакута (Панчкот), Шикхара-бхуми",
+  "en": "Panchakuta (Panchkot), Shikharabhumi",
+  "note": "ставка царя Харинараяны (ныне округ Пурулия); здесь сын Трималлы Бхатты дал ему мантру Рамы (БР 9.303–309)",
+  "section": "",
+  "lilas": [
+   "brt-4049"
+  ],
+  "events": [
+   "ev-harinarayana-rama-mantra"
   ]
  }
 ]
