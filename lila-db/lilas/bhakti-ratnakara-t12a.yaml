@@ -1,0 +1,318 @@
+# «Бхакти-ратнакара», таранга 12, двустишия 1–2000.
+# Записи в порядке изложения; id brt-6001…brt-6999. Формат — lila-db/README.md.
+
+- id: brt-6001
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 1–16"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.74
+  title: "Мангала двенадцатой таранги"
+  summary: "Слава Гаурачандре, Нитьянанде, Адвайте, Шривасе, Гададхаре и длинному ряду спутников Господа — от Нарахари и Мурари до Госвами Вриндавана, Шринивасы, Нароттамы, Рамачандры и Шьямананды; призыв к слушателям."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@srivasa", "@gadadhara-pandita", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@shyamananda"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "1", to: "16"}
+
+- id: brt-6002
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 17–26"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.75
+  title: "Шриниваса оставляет учеников в Яджиграме и через Шрикханду идёт в Навадвипу"
+  summary: "Когда Джахнава ушла в Кхардаху, Шриниваса посылает вести в Вишнупур, оставляет Шридаса, Гокулананду и других учеников изучать шастры в Яджиграме, обещая скоро вернуться к приезду царя Хамбира; в Шрикханде Рагхунандана наедине говорит с ним и неохотно отпускает; с Нароттамой и Рамачандрой Шриниваса в упоении премой идёт в Навадвипу."
+  persons: ["@srinivasa-acharya", "@shridasa-chakravarti", "@gokulananda", "@vira-hambira", "@raghunandana", "@narottama-dasa", "@ramachandra-kaviraja", "@jahnava"]
+  places: ["#yajigrama", "#vana-vishnupura", "#shrikhanda", "#navadvipa"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage, separation]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "17", to: "26"}
+
+- id: brt-6003
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 27–82"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.751
+  title: "Шриниваса у границ Навадвипы; слава Навадвипы и её девяти островов"
+  summary: "Приближаясь, Шриниваса в слезах кланяется земле Навадвипы; автор по «Вишну-пуране», «Гаура-ганоддеша-дипике», «Бхагавате», «Чайтанья-бхагавате» и «Чайтанья-чарите» Мурари раскрывает смысл имени: девять островов (на востоке Ганги — Антардвипа, Симантадвипа, Годрумадвипа, Мадхьядвипа; на западе — Коладвипа, Ритудвипа, Джахнудвипа, Модадрумадвипа, Рудрадвипа) и девять видов бхакти; названия селений, как во Врадже при Ваджранабхе, со временем спутались; дхама вечна, то явлена, то сокрыта, сжимается и раскрывается, как лотос, и в ней втайне явлены лилы всех прежних воплощений."
+  persons: ["@srinivasa-acharya"]
+  places: ["#navadvipa", "#ganga"]
+  kind: teaching
+  authority: B
+  themes: [pilgrimage, teaching]
+  teaching: [gaura-tattva, scripture]
+  scriptures: ["Вишну-пурана 2.3.6–7", "Бхаг. 7.5.23–24", "Бхаг. 7.9.38", "ЧБ Ади 2", "Чайтанья-чандрамрита"]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "27", to: "82"}
+
+- id: brt-6004
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 83–133"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.752
+  title: "Майяпур — Йогапитха Навадвипы; старый брахман на дороге; Ишана в доме Мишры встречает Шринивасу"
+  summary: "Майяпур, где родился Гаурачандра, — Йогапитха Навадвипы; по дороге старый брахман, только что видевший Ишану, рассказывает о его служении Шачи и любви к Нимаю, скорбит о запустении Надии и, узнав Шринивасу, обнимает его; в доме Джаганнатхи Мишры Ишана, плачущий в уединении с возгласами «Вишвамбхара!», обнимает Шринивасу, Нароттаму и Рамачандру; Шриниваса просит показать места Навадвипы, как Рагхава показал Врадж; Ишана обещает утром повести их и знакомит с любимыми спутниками Господа."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@ishana-navadvipa", "@shachi", "@mahaprabhu", "@raghava-gosvami-govardhana"]
+  places: ["#mayapur", "#house-jagannatha-mishra"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 3 (Нароттама у Ишаны в Навадвипе) — ev-narottama-gauda-pilgrimage"
+  notes: "Ишана говорит, что передал через Нароттаму просьбу прийти (12.127). Цитаты о нём — ЧБ (служил Аи) и «Вайшнава-вандана»."
+  themes: [separation, pilgrimage]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "83", to: "133"}
+
+- id: brt-6005
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 134–181"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.753
+  title: "Обход Навадвипы: Антардвипа (Атопур) — Брахме открыты сокровенные желания Господа"
+  summary: "Утром Ишана ведёт троих из Майяпура в Атопур — древнюю Антардвипу: Брахма, смущённый похищением телят и мальчиков, поклонялся здесь Господу, и Гаурачандра явился ему; Брахма просил родиться в низкой семье, избавиться от гордыни и не быть вновь введённым в заблуждение; Господь втайне (антар) открыл ему, что примет настроение преданного, вкусит прему Радхи и исполнит три Своих желания (ЧЧ Ади 1.6), — отсюда имя; Ишана указывает и на Суварна-вихару."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@brahma", "@mahaprabhu"]
+  places: ["#antardvipa", "#mayapur"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о событии до явления Господа; в базе — как часть обхода. Брахма просит родиться в низкой семье — по преданию, Харидас Тхакур (здесь не названо)."
+  themes: [pilgrimage, revelation, celestial]
+  bhava: [radha]
+  teaching: [gaura-tattva]
+  scriptures: ["ЧЧ Ади 1.6"]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "134", to: "181"}
+
+- id: brt-6006
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 182–237"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.754
+  title: "Симантадвипа (Сималия): Шива воспевает спутников Господа, Парвати получает даршан Гауры"
+  summary: "На Кайласе Шива в экстазе пятью устами поёт имена преданных всех воплощений, которые явятся в Надии, и открывает Парвати, что Кришна придёт из лона Шачи в сиянии Радхи и раздаст прему; Парвати приходит в Навадвипу, поклоняется Господу, и Он является ей; она просит снять её оскорбление преданному и даровать милость; Господь обещает, и она наносит пыль с Его стоп на пробор (симанта), — отсюда имя; здесь бывали нагара-киртаны Господа."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@shiva", "@parvati", "@mahaprabhu"]
+  places: ["#simantadvipa", "#kailasa"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о событии до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  teaching: [gaura-tattva]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "182", to: "237"}
+
+- id: brt-6007
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 238–269"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.755
+  title: "Годрумадвипа (Гадигачха): Индра и корова Сурабхи созерцают Гауру"
+  summary: "Индра, всё ещё сокрушаясь об оскорблении во Врадже, спрашивает Сурабхи; та велит ему ждать скорого нисхождения Кришны как Гауранги; у подножия высокой ашваттхи Сурабхи поклоняется Господу, и Он является ей, обещая показать Свои игры в Надии; Индра приходит, и Вишвамбхара утешает его; отсюда имена Годрума и Гадигачха; здесь — игры Гауранги."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@indra", "@surabhi", "@mahaprabhu"]
+  places: ["#gadigachha"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о событии до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "238", to: "269"}
+
+- id: brt-6008
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 270–371"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.756
+  title: "Мадхьядвипа: Маджита и семь риши, Брахмана-пушкара, Уччахатта"
+  summary: "В Маджите (Мадхьядвипе) семь риши, восхваляя Навадвипу, поклоняются Господу, и в полдень Он является им, подобный полуденному солнцу, велит хранить Его игры в тайне; они селятся у Ганги близ Кумарахатты; в Вамана-паукхере (Брахмана-пушкаре) старому брахману, тоскующему по далёкой Пушкаре, тиртха является прудом и открывает, что в Навадвипе пребывают все тиртхи и вечно — Гаурачандра; в Хатаданге (Уччахатте) боги, собравшись как на рынке, мечтают родиться в Надии и танцуют, воспевая имена Господа."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@indra"]
+  places: ["#madhyadvipa", "#kumarahatta"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "270", to: "371"}
+
+- id: brt-6009
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 372–448"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.757
+  title: "Коладвипа (Кулия-Пахарпур) и Самудрагархи: Кола-дева, Ганга и Океан"
+  summary: "Брахману-почитателю Кола-девы Господь является Варахой величиной с гору (отсюда Коладвипа, именуемая Парвата) и обещает, что он увидит Его игры в Навадвипе; брахман по шастрам понимает, что Он придёт в Кали золотистым; в Самудрагархи Океан говорит Ганге о будущих играх Гауры на её берегах, а Ганга скорбит, что Господь уйдёт в Нилачалу к Океану; при явлении Господа Океан, приходя по Ганге, видит Гаурахари на троне с Нитьянандой, Гададхарой и спутниками, — отсюда Самудра-гати."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@varaha", "@ratnakara", "@ganga-devi", "@mahaprabhu", "@nityananda", "@gadadhara-pandita"]
+  places: ["#kulia", "#ganga"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до и во время явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  bhava: [varaha, aishvarya]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "372", to: "448"}
+
+- id: brt-6010
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 449–497"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.758
+  title: "Ритудвипа: Чампахатта, брахман с цветами чампаки, дом Ванинатхи; Ратупур и шесть времён года"
+  summary: "Чампака-хатта названа по рынку цветов чампы: старый брахман, медитируя на тёмного Кришну с цветами чампаки, увидел облик Гауры, подобный груде чампы, и во сне получил даршан Гаурахари; Ишана показывает дом брахмана Ванинатхи, дорогого Господу (ГГД); в Ратупуре (Ритудвипе) шесть времён года во главе с весной беседуют о нисхождении Гауры и поклоняются Ему."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@vaninatha-gadadhara"]
+  places: ["#champahatti", "#ritudvipa"]
+  kind: lila
+  authority: B
+  notes: "Ванинатха из Чампахатты — по ГГД; в базе отождествлён с @vaninatha-gadadhara (братом Гададхары) по преданию (см. PERSONS.md)."
+  themes: [pilgrimage, revelation]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "449", to: "497"}
+
+- id: brt-6011
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 498–548"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.759
+  title: "Видьянагар и Джахнудвипа: Брихаспати распространяет знание, Джахну Муни видит Кришну-санньяси"
+  summary: "Брихаспати, узнав, что Господь будет вести игру учёности в Надии, по Его повелению поселился в Видьянагаре и распространял там знание; в Джаннагаре (Джахнудвипе) Джахну Муни в медитации видит смуглого Кришну с флейтой, затем — юного золотого санньяси в каупине цвета зари; Господь обнимает его и скрывается."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@brihaspati", "@jahnu-muni", "@mahaprabhu", "@krishna"]
+  places: ["#vidyanagara-bengal", "#jahnudvipa"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа."
+  themes: [pilgrimage, revelation, learning]
+  bhava: [sannyasi]
+  scriptures: ["ЧБ Ади"]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "498", to: "548"}
+
+- id: brt-6012
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 549–598"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.76
+  title: "Модадрумадвипа (Маугачхи, Рамават): Рама открывает Сите будущие игры Гауры"
+  summary: "Во время изгнания Рама с Ситой и Лакшманой жил здесь под огромным баньяном; Он открывает Сите, что в начале Кали родится брахманом золотого цвета, станет учёным, совершит пинду в Гае, умножит радость преданных и примет санньясу; Сита, закрыв глаза, видит пение и танец Гауры среди спутников; Лакшмана тоже узнаёт это; от радости (мода) — имя Модадрумадвипа; Ишана указывает путь Рамы в Уткалу к Сварнарекхе."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@rama", "@sita-devi", "@lakshmana", "@mahaprabhu"]
+  places: ["#modadrumadvipa"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Ишаны о Рама-лиле, связанной с Гаурой; Рама — источник пророчества."
+  themes: [pilgrimage, revelation]
+  bhava: [rama]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "549", to: "598"}
+
+- id: brt-6013
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 599–624"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P02
+  order: 1.5
+  title: "Брахман из Маугачхи, почитатель Рамы, в час явления Господа узнаёт в Нём Раму"
+  summary: "Брахман-почитатель Рамы был в доме Мишры в миг явления: слыша клики богов, он понял, что Мишра — Дашаратха, а Шачи — Каушалья; дома, медитируя на Раму, он видит золотой облик сына Мишры, во сне — Гаурачандру, затем Раму с луком, Хануманом перед Ним; Господь велит хранить тайну; перед уходом старец поведал это Ишане; здесь Гаурачандра со спутниками являл игры Рамы — Ишана видел это сам."
+  persons: ["@ishana-navadvipa", "@mahaprabhu", "@jagannatha-mishra", "@shachi", "@rama", "@hanuman"]
+  places: ["#modadrumadvipa", "#house-jagannatha-mishra"]
+  kind: vision
+  authority: B
+  notes: "Рассказ Ишаны (со слов самого брахмана); известно, по-видимому, только по БР."
+  themes: [revelation, mercy]
+  bhava: [rama]
+  event: ev-rama-worshipper-sees-newborn-as-rama
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "599", to: "624"}
+
+- id: brt-6014
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 625–673, 697–750"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.761
+  title: "Вайкунтхапур и Матапур (Махатпур): Нарада видит Нараяну и Гауру; Пандавы и сон Юдхиштхиры"
+  summary: "Нарада, видевший, как Владыка Вайкунтхи радуется о Навадвипе, приходит к Шиве, затем в Двараке Кришна являет ему облик Гауры и велит возвестить о Его приходе; Нарада получает здесь даршан Гаурачандры (Нараяна-питха, Вайкунтхапур); в Махатпуре Пандавы в изгнании: Юдхиштхире в Экачакре во сне Баларама открывает, что Экачакра — место Его игр, а в Навадвипе Кришна и Баладева обещают играть с ними в Кали-югу; пять баньянов и Юдхиштхира-веди; Пандавы уходят в Уткалу, где Бхима убивает ракшаса и остаётся Божество Мадхавы."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narada", "@shiva", "@narayana", "@krishna", "@rukmini", "@mahaprabhu", "@yudhishthira", "@arjuna", "@balarama"]
+  places: ["#jahnudvipa", "#vaikuntha", "#kailasa", "#dvaraka", "#ekachakra"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа. Названия «Вайкунтхапур», «Матапур (Махатпур)» — по тексту; к какому из девяти островов они относятся, Ишана не говорит (тег #jahnudvipa — по соседству в рассказе, условно)."
+  themes: [pilgrimage, revelation, celestial]
+  bhava: [aishvarya]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "625", to: "673"}
+    - {file: "bhakti-ratnakara/ru/12.md", from: "697", to: "750"}
+
+- id: brt-6015
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 674–696"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P05
+  order: 25.5
+  title: "Старый брахман из Вайкунтхапура видит Гауру с Лакшми в великолепии Вайкунтхи"
+  summary: "Старый учёный брахман, почитатель Лакшми-Нараяны, которого Валлабха Мишра чтил как гуру, был на свадьбе Лакшмиприи и, увидев Лакшми и Вишвамбхару, заплакал от блаженства; в своей ветхой хижине он молит Гаурачандру о милости, и в ней открывается великолепие Вайкунтхи: Гаура с Лакшми на драгоценном троне, затем Господь становится четырёхруким; Он называет брахмана Своим слугой из рождения в рождение, велит молчать и возлагает стопы ему на голову."
+  persons: ["@ishana-navadvipa", "@mahaprabhu", "@lakshmipriya", "@vallabhacharya"]
+  places: ["#navadvipa"]
+  kind: vision
+  authority: B
+  notes: "Рассказ Ишаны; известно, по-видимому, только по БР."
+  themes: [revelation, family]
+  bhava: [aishvarya, shakti]
+  event: ev-brahmana-sees-lakshmi-narayana-wedding
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "674", to: "696"}
+
+- id: brt-6016
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 751–808"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.762
+  title: "Рудрадвипа (Радупур), Бильвапакша (Белпаукхера), Бхарадваджа-тила"
+  summary: "В Радупуре Рудра со спутниками ещё до рождения Господа танцует, воспевая Его, и Гаурасундара, явившись незримо для других, обнимает его; в Белпаукхере у Божества пятиликого Шивы брахманы-подвижники полмесяца поклонялись листьями бильвы, и Шива обещал, что они родятся в Надии, будут учиться у Господа и служить Ему (Бильвапакша); на холме у Чакды мудрец Бхарадваджа, покорив Гаурахари премой, получил Его даршан."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@shiva", "@bharadvaja-muni", "@mahaprabhu"]
+  places: ["#rudradvipa"]
+  kind: lila
+  authority: B
+  notes: "Рассказы Ишаны о событиях до явления Господа."
+  themes: [pilgrimage, revelation, celestial]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "751", to: "808"}
+
+- id: brt-6017
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 809–850"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.763
+  title: "Суварна-вихара: царь видит во сне золотого Гауру; возвращение в Майяпур"
+  summary: "Вайшнав, великая душа, рассказывает царю этих мест о золотом воплощении Кали и санкиртане в Навадвипе; царь раскаивается в поглощённости царскими делами, небесный голос обещает ему увидеть игры, и во сне он видит танец Вишвамбхары среди тысяч преданных; позже здесь Гаурахари танцевал с преданными, и люди дивились золотому сиянию — отсюда Суварна-вихара; Ишана с тремя спутниками возвращается в Майяпур, в дом Мишры."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@mahaprabhu"]
+  places: ["#antardvipa", "#mayapur", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: [pilgrimage, kirtan, revelation]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "809", to: "850"}
