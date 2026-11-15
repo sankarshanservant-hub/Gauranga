@@ -1,0 +1,134 @@
+# События, заведённые по 6-й и 7-й тарангам «Бхакти-ратнакары» (формат — README.md, как events.yaml).
+# Новые события добавлять в конец.
+
+- id: ev-dvija-haridasa-dream-vrindavana
+  title: "Сон Двиджи Харидаса: Гаура удерживает его от самосожжения и посылает во Вриндаван"
+  title_en: "Dvija Haridasa's dream: Gaura stops him from entering the fire and sends him to Vrindavana"
+  period: P15
+  order: 12
+  date_conf: оценка
+  date_basis: "вскоре после сокрытия Господа (БР 6.334–335)"
+  themes: [revelation, departure, separation]
+  notes: "«Бхакти-ратнакара» 6.330–366: Господь велит Харидасу, чтобы его сыновья приняли мантру от Шринивасы."
+
+- id: ev-kanaya-madhukari-sanatana
+  title: "Канайя, любимец Рупы и Санатаны: Кришна в его облике подаёт Санатане мадхукари"
+  title_en: "Kanaya, beloved of Rupa and Sanatana: Krishna in his form gives Sanatana madhukari"
+  period: P14
+  order: 17.3
+  date_conf: оценка
+  themes: [mercy, krishna-lila]
+  notes: "«Бхакти-ратнакара» 6.379–390 (отступление при прощании Шринивасы с Канайей)."
+
+- id: ev-srinivasa-manasa-garland-gaura
+  title: "Шриниваса в созерцании служит Гауре и получает Его гирлянду"
+  title_en: "Srinivasa serves Gaura in meditation and receives His garland"
+  period: P15
+  order: 79.6
+  date_conf: оценка
+  themes: [revelation, ecstasy]
+  notes: "«Бхакти-ратнакара» 6.125–143."
+
+- id: ev-srinivasa-manasa-holi-phagu
+  title: "Шриниваса-служанка в игре Холи Радхи и Кришны: фагу на теле"
+  title_en: "Srinivasa as a maidservant in Radha and Krishna's Holi: phagu on his body"
+  period: P15
+  order: 79.7
+  date_conf: оценка
+  calendar: "весна (Холи)"
+  themes: [krishna-lila, revelation]
+  notes: "«Бхакти-ратнакара» 6.144–166."
+
+- id: ev-srinivasa-narottama-govardhana-cowherd
+  title: "Флейта в пещере Говардханы: Кришна-пастушок охраняет Шринивасу и Нароттаму"
+  title_en: "The flute in the cave of Govardhana: Krishna as a cowherd boy guards Srinivasa and Narottama"
+  period: P15
+  order: 79.8
+  date_conf: оценка
+  themes: [revelation, krishna-lila]
+  notes: "«Бхакти-ратнакара» 6.178–202: затем Кришна во сне открывает, что пастушком был Он."
+
+- id: ev-govinda-dream-srinivasa-gaura
+  title: "Говинда во сне благословляет Шринивасу на путь в Гауду и являет облик Гауры"
+  title_en: "Govinda in a dream blesses Srinivasa's journey to Gauda and reveals the form of Gaura"
+  period: P15
+  order: 81.8
+  date_conf: оценка
+  date_basis: "ночь перед отъездом из Вриндавана (аграхаяна, светлая половина)"
+  themes: [revelation, mercy, deities]
+  notes: "«Бхакти-ратнакара» 6.487–504."
+
+- id: ev-books-found-news-letters
+  title: "Вести о найденных книгах: письма Шринивасы во Вриндаван и в Кхетури, дары Виры Хамбира"
+  title_en: "News of the recovered books: Srinivasa's letters to Vrindavana and Kheturi, Vira Hambira's gifts"
+  period: P15
+  order: 87.5
+  date_conf: оценка
+  themes: [separation, mercy]
+  notes: "«Бхакти-ратнакара» 7.213–293, 466–474; ср. «Нароттама-виласа» 3 (письмо в Кхетури, раджа Сантоша), «Према-виласа» 13 (посланцы в Кхетури)."
+
+- id: ev-shyamananda-returns-utkala
+  title: "Шьямананда из Кхетури идёт через Катву, Навадвипу, Шантипур и Амбику в Уткалу"
+  title_en: "Shyamananda goes from Kheturi through Katwa, Navadvipa, Shantipura and Ambika to Utkala"
+  period: P15
+  order: 87.6
+  date_conf: оценка
+  themes: [pilgrimage, separation, mercy]
+  notes: "«Бхакти-ратнакара» 7.294–319, 449–465: Сантоша провожает его через Падмавати; Хридая Чайтанья в Амбике отпускает его; Дандешвар, Дхаренда."
+
+- id: ev-gauridasa-oar-gita
+  title: "Господь отдаёт Гауридасу весло («переправляй души») и «Гиту», написанную Своей рукой"
+  title_en: "The Lord gives Gauridasa the oar ('ferry souls across') and a Gita written in His own hand"
+  period: P13
+  order: 205.5
+  date_conf: оценка
+  date_basis: "Господь приходит в Амбику из Шантипура (БР 7.333)"
+  themes: [mercy, deities]
+  notes: "«Бхакти-ратнакара» 7.330–341: весло и «Гиту» показывают в Амбике и поныне."
+
+- id: ev-gadadhara-gives-hridayananda
+  title: "Гададхара Пандит отдаёт своего воспитанника Хридаянанду в ученики Гауридасу"
+  title_en: "Gadadhara Pandita gives his ward Hridayananda to Gauridasa as a disciple"
+  period: P14
+  order: 300
+  date_conf: оценка
+  themes: [mercy, teaching]
+  notes: "«Бхакти-ратнакара» 7.389–408."
+
+- id: ev-hridaya-chaitanya-name
+  title: "Гаура-Нитай пляшут на празднике Хридаянанды; Гауридас нарекает его Хридаей Чайтаньей"
+  title_en: "Gaura-Nitai dance at Hridayananda's festival; Gauridasa names him Hridaya Chaitanya"
+  period: P14
+  order: 301
+  date_conf: оценка
+  calendar: "праздник явления Господа (по-видимому, пхалгуна-пурнима)"
+  themes: [festival, kirtan, deities]
+  notes: "«Бхакти-ратнакара» 7.409–448."
+
+- id: ev-advaita-dream-srinivasa-marriage
+  title: "Адвайта во сне велит Шринивасе жениться"
+  title_en: "Advaita in a dream tells Srinivasa to marry"
+  period: P15
+  order: 88.21
+  date_conf: оценка
+  date_basis: "после возвращения Шринивасы в Яджиграм из Вишнупура (БР 7)"
+  themes: [revelation, family]
+  notes: "«Бхакти-ратнакара» 7.540–549; затем то же велят Нарахари и Гададхара Дас."
+
+- id: ev-srinivasa-narahari-after-vraja
+  title: "Шриниваса после Вриндавана у Нарахари в Шрикханде: благословение и веление жениться"
+  title_en: "Srinivasa, back from Vrindavana, with Narahari at Shrikhanda: blessing and the order to marry"
+  period: P15
+  order: 88.22
+  date_conf: оценка
+  themes: [separation, family, mercy]
+  notes: "«Бхакти-ратнакара» 7.550–594."
+
+- id: ev-srinivasa-gadadhara-dasa-katwa
+  title: "Шриниваса после Вриндавана у Гададхары Даса в Катве"
+  title_en: "Srinivasa, back from Vrindavana, with Gadadhara Dasa at Katwa"
+  period: P15
+  order: 88.23
+  date_conf: оценка
+  themes: [separation, family]
+  notes: "«Бхакти-ратнакара» 7.595–629: Гададхара Дас тоскует о Гададхаре Пандите, предсказывает приход Нароттамы и женитьбу Шринивасы."
