@@ -544,7 +544,7 @@
   kind: lila
   authority: B
   parallels: "ЧЧ Мадхья 18.22–44 (cc-3004, cc-3005); «Гаура-кришнодая» 14 (gkd-0139)"
-  notes: "О преемстве служения Гопале (812–817) — сведения БР; Виттхалешвара как служитель Гопалы — ЧЧ Мадхья 18.47."
+  notes: "О преемстве служения Гопале (812–817) — сведения БР; Виттхалешвара как служитель Гопалы — ЧЧ Мадхья 18.45–54."
   cc: "Мадхья 18.22–44"
   themes: ["deities", "ecstasy"]
   event: ev-gopala-ganthuli
@@ -697,3 +697,327 @@
   event: ev-gopala-milk-rupa-sanatana
   verses:
     - {file: "bhakti-ratnakara/ru/05.md", from: "1298", to: "1311"}
+
+- id: brt-1038
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1312–1324"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P14
+  order: 17.22
+  title: "Радхика под видом девочки-пастушки приносит Рупе продукты для молочного риса"
+  summary: "Рупа захотел накормить Санатану молочным рисом, но смутился; Радхика, узнав его желание, под видом девочки-пастушки принесла топлёное масло, молоко, рис и сахар: «Мать велела: приготовь, предложи Кришне и вкушай без смущения». Рупа предложил Кришне и подал Санатане; от благоухания и первых глотков тот залился слезами, узнал, как всё было, и запретил впредь так хлопотать о еде; Рупа опечалился, но Радхика во сне утешила его."
+  persons: ["@rupa-gosvami", "@sanatana-gosvami", "@radha", "@krishna", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#pavana-sarovara", "#nandagrama"]
+  kind: miracle
+  authority: B
+  notes: "Рассказ Рагхавы."
+  themes: ["prasada", "revelation", "mercy"]
+  bhava: ["gopi"]
+  event: ev-radha-brings-rice-rupa
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1312", to: "1324"}
+
+- id: brt-1039
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1325–1329"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P14
+  order: 17.23
+  title: "Дыхание Рупы обжигает: внутренний огонь разлуки"
+  summary: "Во время беседы о разлуке Радхи и Кришны вайшнавы плачут и падают без чувств, а сердце Рупы пылает, словно пламя, хотя внешне ничего не видно; его дыхание коснулось чьего-то тела, и там вздулись волдыри, как от ожога."
+  persons: ["@rupa-gosvami", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#nandagrama"]
+  kind: miracle
+  authority: B
+  notes: "Рассказ Рагхавы. Ср. сходный рассказ о дыхании Гададхары Даса (другое лицо)."
+  themes: ["separation", "ecstasy"]
+  bhava: ["gopi"]
+  event: ev-rupa-breath-blisters
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1325", to: "1329"}
+
+- id: brt-1040
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1330–1338"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.53
+  title: "У хижины Санатаны: Гопала Мишра, Уддхава Дас; праздник и ночь нама-санкиртаны"
+  summary: "У святой хижины Санатаны их встречает брахман Гопала Мишра (Гопала Дас) — сын пурохиты Санатаны и его ученик; там же Уддхава Дас, Мадхава и другие; враджаваси приносят угощение, в тот день — праздник, ночь проходит в нама-санкиртане; на рассвете Рагхава с обоими уходит дальше."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@gopala-mishra-vraja", "@uddhava-dasa-vraja", "@sanatana-gosvami"]
+  places: ["#pavana-sarovara", "#nandagrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 6.32–80 (anv-0036): тот же обход с провожатым от Дживы"
+  notes: "Гопала Мишра, вероятно, тот же сын домашнего жреца Госвами — ученик Санатаны, что в БР 1.680–683 (brt-0037); «Мадхава» не уточнён."
+  themes: ["kirtan", "festival", "pilgrimage"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1330", to: "1338"}
+
+- id: brt-1041
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1339–1387"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P14
+  order: 17.24
+  title: "Байтхан: любовь враджаваси к Санатане"
+  summary: "Байтхан — место, где садились на совет пастухи; здесь, связанный любовью враджаваси, жил Санатана. Когда он обходил Врадж, в каждом селении старики, женщины и дети встречали его как родного сына и брата, упрекали, что забыл их, кормили простоквашей и молоком; он расспрашивал всех о детях, свадьбах, коровах и здоровье, утешал и наутро уходил, а они с плачем провожали его. Его правило — одна ночь в селении, но жители Байтхана со слезами упросили его остаться, и он жил здесь, даруя всем счастье."
+  persons: ["@sanatana-gosvami", "@rupa-gosvami", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#baithan"]
+  kind: post-advent
+  authority: B
+  notes: "Рассказ Рагхавы."
+  themes: ["mercy", "pilgrimage"]
+  event: ev-sanatana-vrajavasis-baithan
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1339", to: "1387"}
+
+- id: brt-1042
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1388–1421"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.532
+  title: "Нипавана, Чарана-пахари, Хароял, Котавана, Дадхиграм, Шешашайи"
+  summary: "Нипавана, Кришна-кунда, кунджа Бедокхор; Чарана-пахари — звуки флейты Кришны и следы стоп на холме; Хароял (Раи обыгрывает Кришну в кости), Сантонда, Паи, Чалана-шила, Камари, Бичхор, Тилояр, Шрингарават, Васони, Пая; Котавана, Дадхиграм; Шешашайи — Кшира-самудра, Кришна на ложе Шеши, Радхика служит Его стопам."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@krishna", "@radha"]
+  places: ["#sheshashayi"]
+  kind: post-advent
+  authority: B
+  themes: ["pilgrimage", "krishna-lila"]
+  bhava: ["gopi"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1388", to: "1421"}
+
+- id: brt-1043
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1422–1428"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P13
+  order: 92.1
+  title: "Махапрабху у Шешашайи"
+  summary: "Чтобы увидеть Божество Шешашайи, пришёл Кришна Чайтанья; при виде Его восторг возрос, и в упоении Он танцевал; люди обезумели от блаженства: «Он вовсе не человек; этот санньяси — Сам Кришна»."
+  persons: ["@mahaprabhu", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#sheshashayi"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18.63–68 (cc-3008)"
+  cc: "Мадхья 18.64"
+  themes: ["ecstasy", "deities"]
+  event: ev-vraja-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1422", to: "1428"}
+
+- id: brt-1044
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1429–1548"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.534
+  title: "Граница Враджа, Кхеланавана, Рама-гхат: раса Баларамы"
+  summary: "Кхамба, Кхами, Баначари — граница Враджа; Кхараро, Уджани (Ямуна течёт вспять от флейты), Кхеланавана; Рама-гхат: Баларама, придя из Двараки, два месяца — чайтру и вайшакху — утешает Нанду, Яшоду и гопи и совершает раса с юными гопи, не участвовавшими в раса Кришны; дхьяна Баларамы по пуранам, пение и танец, варуни, притягивание Ямуны плугом и её молитвы."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@balarama", "@krishna"]
+  places: ["#rama-ghata"]
+  kind: post-advent
+  authority: B
+  notes: "Обобщающая запись; песенные вставки автора и шлоки."
+  themes: ["pilgrimage", "krishna-lila"]
+  bhava: ["balarama"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1429", to: "1548"}
+
+- id: brt-1045
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1549–1562"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P05
+  order: 1.3
+  title: "Нитьянанда на Рама-гхате: «Когда явит Себя Владыка Навадвипы?»"
+  summary: "Во время паломничества Нитьянанда жил на Рама-гхате, играл с пастушками, ел йогурт, молоко, коренья и плоды; в настроении Баладевы Он не мог скрыться, и все говорили: «Это сын Рохини в облике авадхуты». Одному брахману, не мыслившему жизни без Баладевы, Он явился Баладевой; Ямуна вознесла Ему молитвы, боги плакали. Лёжа в упоении на пыли под деревом, Он твердил: «Когда придёт избавление безбожников? Когда Владыка Навадвипы явит Себя в Навадвипе, и Я увижу Его своими глазами?»"
+  persons: ["@nityananda", "@balarama", "@mahaprabhu", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#rama-ghata"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Ади 9.194–210 (cb-0071), Мадхья 3.107–120 (cb-1027): Нитьянанда во Вриндаване ждёт явления Господа"
+  cb: "Ади 9"
+  themes: ["ecstasy", "revelation", "separation"]
+  bhava: ["balarama"]
+  event: ev-nityananda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1549", to: "1562"}
+
+- id: brt-1046
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1563–1625"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.536
+  title: "Бхандира-ват, Мунджатави, Чир-гхат, Нанда-гхат, Ватсавана и другие места"
+  summary: "Каччхавана, Бхушанавана; Бхандира-ват — Баларама убивает Праламбу, Радха с сакхи борется с Кришной в наряде борцов; Мунджатави — Кришна выпивает лесной пожар; Тапована, Гопи-гхат, Чир-гхат (похищение одежд); Нанда-гхат (посланец Варуны уносит Нанду); Ватсавана, Сеи, Чомуха (Брахма похищает телят и пастушков), Сарпа-стхали (Агхасура), Тароли, Магхера, Атас, Шакароя, Варахар, Харасали; возвращение к Нанда-гхату."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@krishna", "@radha", "@balarama", "@brahma", "@nanda"]
+  places: ["#bhandiravana", "#chira-ghata"]
+  kind: post-advent
+  authority: B
+  themes: ["pilgrimage", "krishna-lila"]
+  bhava: ["gopi", "sakha"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1563", to: "1625"}
+
+- id: brt-1047
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1626–1670"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 12.81
+  title: "Джива и Валлабха Бхатта: Рупа удаляет Дживу; Санатана добивается прощения; дигвиджайи побеждён письмом"
+  summary: "Пока Рупа писал книгу, юный Джива обмахивал его веером; Валлабха Бхатта, увидев мангалачарану «Бхакти-расамриты», сказал, что исправит её; Джива, пойдя к Ямуне будто за водой, опроверг все его доводы. Узнав от Бхатты, кто этот юноша, Рупа сказал Дживе: «Ради моего блага он хотел исправить книгу, а ты не стерпел» — и велел уйти на восток, пока не успокоится ум. Джива жил в хижине из листьев у Нанда-гхата, почти без пищи, желая оставить тело; Санатана, услышав от селян о юном подвижнике, нашёл его и рассказал Рупе, который, заканчивая «Бхакти-расамрита-синдху», ждал Дживу для выверки; Рупа велел привести его, выходил, и Рупа и Санатана вверили ему все труды. Пришедший во Вриндаван дигвиджайи потребовал грамоту победы, но, прочтя письмо Дживы, признал поражение."
+  persons: ["@jiva-gosvami", "@rupa-gosvami", "@sanatana-gosvami", "@vallabha-bhatta", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Валлабха-варта», Нидж-варта 31 (vlb-0004); ср. «Према-виласа» 23 (pvl-0199, ev-jiva-exiled-by-rupa)"
+  notes: "Рассказ Рагхавы у Нанда-гхата, где жил Джива. Валлабха Бхатта ушёл в 1531 г., так что эпизод относится ко времени до ухода Господа, хотя событие в базе отнесено к P15."
+  divergence: "В варте вместо Рупы — Чайтанья; в «Према-виласе» Рупа удаляет Дживу за гнев на побеждённого дигвиджайи Рупу Нараяну, а прощения добивается Санатана. Здесь дигвиджайи (не назван) побеждён письмом Дживы уже после возвращения."
+  themes: ["learning", "offense", "mercy"]
+  teaching: ["vaishnava"]
+  event: ev-jiva-vallabha-dispute
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1626", to: "1670"}
+
+- id: brt-1048
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1671–1769"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.538
+  title: "Сурукхуру, Бхадравана, Бхандиравана, Бильвавана, Лохавана; Махавана — места рождения и младенческих игр Кришны"
+  summary: "Переправа через Ямуну, ночлег в Сурукхуру; Бхадравана, Бхандиравана, Чхахери, Матхграм, Бильвавана, прежнее русло Ямуны, Лохавана (Лохаджангха); Кришна-лодочник перевозит Раи с подругами; Махавана: дом Нанды и Яшоды, место рождения и празднества, коровник, тайный обряд имянаречения Гаргой, убийство Путаны, разбитая повозка, Тринаварта, Брахманда-гхат, привязывание к ступе, Ямаларджуна-тиртха, Гопишвара, колодец Сапта-самудрика."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@krishna", "@radha", "@nanda", "@yashoda", "@balarama"]
+  places: ["#bhadravana", "#bhandiravana", "#gokula"]
+  kind: post-advent
+  authority: B
+  themes: ["pilgrimage", "krishna-lila"]
+  bhava: ["child"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1671", to: "1769"}
+
+- id: brt-1049
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1770–1776, 1790–1801, 1828–1835"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P13
+  order: 50.1
+  title: "Путь Махапрабху из Праяги через Гокулу-Махавану и Равал в Матхуру"
+  summary: "Из Праяги Господь дошёл до Аграваны, затем в Ренуку — ашрам Джамадагни, через Раджаграм пришёл в Гокулу и сидел под древним деревом; с толпой и нама-санкиртаной пошёл к месту рождения Кришны в Махаване, танцевал под песни праздника рождения и, увидев Мадана-гопала, потерял самообладание; люди говорили: «Это не санньяси — это Кришна». Из Гокулы Он со спутниками пришёл в Равал, где Его экстаз не описать, и оттуда с брахманом-санодией отправился в Матхуру."
+  persons: ["@mahaprabhu", "@krishnadasa-mathura", "@madana-mohana-vrindavana", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#prayaga", "#agra", "#gokula", "#raval", "#mathura"]
+  kind: lila
+  authority: B
+  parallels: "Мурари 4.2.3–8 (mkc-0197; цитируется в 1796–1800); Лочан, Шеша-кханда «Господь видит Вриндаван» 39–47 (lcm-0231)"
+  divergence: "По ЧЧ Господь из Праяги идёт прямо в Матхуру, встречает санодию там, а Махавану и Гокулу видит позднее в обходе (Мадхья 18.67); здесь, вслед за Мурари, путь лежит через Ренуку, Раджаграм и Гокулу, а Равал и танец в Махаване — только по БР. По Лочану (lcm-0231), увидев Матхуру, Господь три дня лежит без чувств."
+  cc: "Мадхья 17.155–163; 18.67"
+  themes: ["pilgrimage", "ecstasy", "kirtan"]
+  event: ev-arrival-mathura
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1770", to: "1776"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1790", to: "1801"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1828", to: "1835"}
+
+- id: brt-1050
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1777–1786"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P14
+  order: 17.01
+  title: "Санатана в Махаване: Мадана-гопал играет с детьми на Раманака-валу"
+  summary: "Санатана жил в Махаване, радуясь даршану Мадана-гопала, и жители оживали при виде его. Однажды Мадана-гопал в облике пастушка пришёл с детьми Махаваны на песчаный берег Ямуны; Санатана понял, что это не обычный ребёнок, пошёл следом и увидел, как мальчик вошёл в храм — там был лишь Мадана-мохан; поклонившись, Санатана молча вернулся."
+  persons: ["@sanatana-gosvami", "@madana-mohana-vrindavana", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#gokula"]
+  kind: miracle
+  authority: B
+  parallels: "БР 2.454–472 (brt-0061); «Према-виласа» 23 (pvl-0197)"
+  divergence: "В «Према-виласе» Мадана-мохан пребывает в доме Дамодары Чаубе и Сам велит Санатане взять Его; здесь — игра с детьми на Раманака-валу."
+  themes: ["deities", "revelation"]
+  bhava: ["sakha"]
+  event: ev-madana-mohana-chaube
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1777", to: "1786"}
+
+- id: brt-1051
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1787–1789, 1802–1827"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.54
+  title: "Гокула; переселение пастухов во Вриндаван; Равал — явление Радхи"
+  summary: "Гопа-купа, Гокула-Махавана; праздники гопи; Нанда и пастухи, видя бедствия, решают переселиться и с коровами уходят к Бхандираване; Равал — место явления Радхики в доме Вришабхану, ликование, дары, детские игры Радхи с подругами."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@radha", "@krishna", "@nanda"]
+  places: ["#gokula", "#raval"]
+  kind: post-advent
+  authority: B
+  themes: ["pilgrimage", "krishna-lila"]
+  bhava: ["gopi"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1787", to: "1789"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1802", to: "1827"}
+
+- id: brt-1052
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1836–1864"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.542
+  title: "Ночь в Равале; Матхура: дома Уграсены, Васудевы и Камсы; Амбика-вана; Акрура-тиртха"
+  summary: "Ночь в Равале в преме; переправа в Матхуру: места Уграсены, Васудевы, Камсы, темница, путь Васудевы через Ямуну; омовение в Вишрама-тиртхе; Амбика-деви и Шива Гокарна — змей схватывает спящего Нанду, Кришна касанием стопы освобождает видьядхара Сударшану; величие Акрура-тиртхи."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@krishna", "@nanda", "@kamsa"]
+  places: ["#raval", "#mathura", "#vishrama-ghata", "#akrura-tirtha"]
+  kind: post-advent
+  authority: B
+  themes: ["pilgrimage", "krishna-lila"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1836", to: "1864"}
+
+- id: brt-1053
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1865–1867"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P13
+  order: 160.1
+  title: "Махапрабху живёт в Акрура-граме"
+  summary: "Из-за толп во Вриндаване Господь жил в Акрура-граме в уединении и приходил сюда принимать пищу."
+  persons: ["@mahaprabhu", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#akrura-tirtha", "#vrindavana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18.69–81, 129–134 (cc-3009, cc-3013)"
+  notes: "Упоминание."
+  cc: "Мадхья 18.69–81"
+  themes: ["pilgrimage"]
+  event: ev-akrura-tirtha-imli-tala
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1865", to: "1867"}
+
+- id: brt-1054
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1868–1900"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.544
+  title: "Бходжана-стхали (жёны брахманов); слава Вриндавана"
+  summary: "Место, где жёны мудрецов принесли пищу Кришне и пастушкам; Рагхава начинает рассказ о славе Вриндавана: служимый Вриндой, дорогой Кришне, вместилище всех тиртх, вечно юный лес — тело Кришны в пять йоджан, которое Он никогда не покидает."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@krishna", "@vrinda-devi"]
+  places: ["#vrindavana"]
+  kind: teaching
+  authority: B
+  notes: "Слава Вриндавана продолжается после 1900 (следующая часть таранги)."
+  themes: ["pilgrimage", "krishna-lila"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1868", to: "1900"}

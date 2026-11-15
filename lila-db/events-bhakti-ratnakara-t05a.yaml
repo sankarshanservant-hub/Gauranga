@@ -89,3 +89,33 @@
   date_basis: "после прихода Рагхунатхи во Врадж (1534)"
   themes: [separation, learning, ecstasy]
   notes: "«Бхакти-ратнакара» 5.766–774."
+
+- id: ev-radha-brings-rice-rupa
+  title: "Радхика под видом девочки-пастушки приносит Рупе продукты, чтобы он накормил Санатану молочным рисом"
+  title_en: "Radhika, disguised as a cowherd girl, brings Rupa ingredients to feed Sanatana sweet rice"
+  period: P14
+  order: 17.22
+  date_conf: оценка
+  date_basis: "при жизни Рупы и Санатаны у Павана-саровара (Нандишвара)"
+  themes: [prasada, revelation, mercy]
+  notes: "«Бхакти-ратнакара» 5.1312–1324."
+
+- id: ev-rupa-breath-blisters
+  title: "Дыхание Рупы в огне разлуки обжигает тело другого вайшнава"
+  title_en: "Rupa's breath, burning with separation, blisters another Vaishnava's body"
+  period: P14
+  order: 17.23
+  date_conf: оценка
+  date_basis: "при жизни Рупы во Врадже"
+  themes: [separation, ecstasy]
+  notes: "«Бхакти-ратнакара» 5.1325–1329."
+
+- id: ev-sanatana-vrajavasis-baithan
+  title: "Любовь враджаваси к Санатане; он остаётся в Байтхане"
+  title_en: "The Vrajavasis' love for Sanatana; he stays at Baithan"
+  period: P14
+  order: 17.24
+  date_conf: оценка
+  date_basis: "при жизни Санатаны во Врадже"
+  themes: [mercy, pilgrimage]
+  notes: "«Бхакти-ратнакара» 5.1339–1387."
