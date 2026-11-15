@@ -149,7 +149,7 @@ B — вероятно, больше сотни).
 | @kashishvara (050, Кашишвара Пандит) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jagadisha-pandita (051) | в работе | — | — |
 | @mahesha-pandita (052) | в работе | — | — |
-| @devananda-pandita (053) | в работе | — | — |
+| @devananda-pandita (053) | ✓ | в работе | — |
 | @keshava-kashmiri (054) | в работе | — | — |
 | @vallabha-bhatta (055) | в работе | — | — |
 
