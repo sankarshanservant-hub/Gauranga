@@ -50,7 +50,7 @@ Nityananda to go to Gauda, He sent these two with Him. Therefore they are counte
 Madhava and Vasudeva Ghosha.” (CC, Adi 11.13–15)
 
 Srila Bhaktisiddhanta explains: the followers of Gaura are connoisseurs of the madhura-rasa of Vraja, while the
-followers of Nityananda serve in sakhya and the other rasas in which pure devotion predominates. Gadadhara Dasa, though
+followers of Nityananda serve in sakhya and the other rasas where pure devotion is foremost. Gadadhara Dasa, though
 he belonged to Nityananda's circle, is not a cowherd boy in the mood of friendship but a connoisseur of madhura-rasa. In
 the “Gaudiya-bhashya” on the “Chaitanya-bhagavata” Srila Bhaktisiddhanta calls him “an eternally perfect resident of
 Vraja” (*nitya-siddha vraja-jana*), in whom the transcendental (*aprakrita*) bhava of Radha is manifest. <!-- F5 F6 -->
@@ -59,11 +59,12 @@ Vraja” (*nitya-siddha vraja-jana*), in whom the transcendental (*aprakrita*) b
 Before the Lord sent him with Nityananda to Gauda, Gadadhara Dasa lived with Mahaprabhu Himself; that is why the
 “Charitamrita” calls him and Ramadasa “devotees of Sri Chaitanya” (Adi 11.13). <!-- F12 -->
 
-Of the days in Navadvipa sing the padas of his disciple Yadunandana and of Narahari Sarakara, preserved in the
+Of the days in Navadvipa sing the padas of his disciple Yadunandana and of Narahari (apparently Chakravarti), preserved in the
 “Bhakti-ratnakara” (12) and the “Gaura-pada-tarangini.” Gaura, weeping “Radha!”, embraces Gadai, while Dasa Gadadhara
 softly smiles; Gaura exchanges glances with him, holds his hand in kirtana, weeps on his lap. “Gaura is the life of Dasa
-Gadadhara,” sings the poet, and Gadadhara Dasa shines beside Gaura “like a moon beside the moon.” Another pada of Narahari sings of Nityananda going
-to Gadadhara Dasa's house, calling “Gora!”, like an elephant intoxicated with prema. <!-- F49 F58 -->
+Gadadhara,” sings the poet, and Gadadhara Dasa shines beside Gaura “like a moon beside the moon.”
+Another pada of Narahari sings of Nityananda going to Gadadhara Dasa's house, calling “Gora!”, like an elephant
+intoxicated with prema. <!-- F49 F58 -->
 
 Lochana Dasa in the “Chaitanya-mangala” names him among those who danced in Advaita's house at Shantipur when the Lord
 came there after His sannyasa.[^4] In Karnapura's drama “Chaitanya-chandrodaya” (act 10) he is among the Gaudiya
@@ -100,7 +101,7 @@ his outward identity, and Nityananda saw this.[^7]
 <!-- F18 F19 Q3 -->
 
 ## “Who Will Buy Milk?”
-Having come to Gauda, Nityananda went round the villages on both banks of the Ganga, and one day He came to the house of
+Having come to Gauda, Nityananda toured the villages on either bank of the Ganga, and one day He came to the house of
 Gadadhara Dasa:
 
 “One day Nityananda came to the house of Gadadhara Dasa to show him His affection. The great soul Gadadhara Dasa was
@@ -112,10 +113,10 @@ pressed Him to His chest, roared like a lion and began to dance in the mood of a
 sang the names of the Lord (CB, Antya 5.374–377).[^8] <!-- F20 F21 Q3 -->
 
 Then Madhavananda Ghosha, the brother of Vasudeva Ghosha, sang of the dana-lila, and a wonderful bhava arose in
-Nityananda; He danced in a way that cannot be described (CB, Antya 5.378–383). The Dana-keli is a pastime of Krishna
+Nityananda; His dancing was beyond description (CB, Antya 5.378–383). The Dana-keli is a pastime of Krishna
 with the gopis: Krishna and His friends bar the way of the girls carrying milk products to market and demand a “toll”
 from them; Srila Rupa Gosvami described it in the “Dana-keli-kaumudi.” This lila Nityananda revealed in Gadadhara's
-house through kirtana and dance, and since then his temple has been renowned as the place of the dana-lila. The
+house through kirtana and dance, and since then his temple has been renowned as the site of the dana-lila. The
 “Charitamrita” says:
 
 “Gadadhara Dasa was full of bliss in the mood of a gopi, and in his house Nityananda revealed the *dana-keli* pastime.
@@ -131,7 +132,7 @@ And Gadadhara Dasa himself was unaware of the outer world:
 Unconscious of his body, he kept urging everyone: “Haribol! Haribol!” (CB, Antya 5.393–394). <!-- F23 Q4 -->
 
 Srila Bhaktisiddhanta in the “Gaudiya-bhashya” on this verse explains: Gadadhara Dasa always abided in his eternal
-spiritual form (*svarupa-siddhi*), and yet he did not outwardly put on the dress of a sakhi; ever absorbed in the bhava
+spiritual form (*svarupa-siddhi*), and yet he never outwardly assumed a sakhi's dress; ever absorbed in the bhava
 of a gopi, he displayed no pretence in dress. His gopi mood is not worldly femininity and not imitation but his eternal
 nature, the radiance of Radha; therefore he had no need of anything outward. Failing to understand his divine madness of
 love, wilful people later invented the community of “sakhi-bhekis”: conscious of themselves as men, they dress the body
@@ -164,7 +165,7 @@ bhava of the devotee. <!-- F28 Q5 -->
 
 “The Kazi came out blazing with anger like fire, but the moment he saw Gadadhara Dasa he grew still.” (CB, Antya 5.401)
 
-His anger subsided, friendliness appeared on his face, and he asked: “Gadadhara, why are you here?” Gadadhara answered
+His anger subsided, his face turned friendly, and he asked: “Gadadhara, why are you here?” Gadadhara answered
 that he had come to say something important:
 
 “Sri Chaitanya and Nityananda Prabhu have descended and made the whole world say ‘Hari, Hari.’ You alone do not say the
@@ -180,8 +181,8 @@ But the Name had already sounded from his lips, and Gadadhara Dasa was filled wi
 name of Hari, there is no more misfortune for you, not for a moment.’” (CB, Antya 5.409–410)
 
 With these words, in the highest ecstasy of love, he began to dance, clapping his hands (CB, Antya 5.411). The same
-reply — “Why tomorrow? You have just uttered ‘Hari’ with your own mouth” — Srila Bhaktisiddhanta also cites in his “Anubhashya” on CC, Adi
-10.53. <!-- F32 Q5 -->
+reply — “Why tomorrow? You have just uttered ‘Hari’ with your own mouth” — Srila Bhaktisiddhanta also cites
+in his “Anubhashya” on CC, Adi 10.53. <!-- F32 Q5 -->
 
 Thus the dreaded Kazi, from whom the whole countryside fled, received the name of Hari. Whence did Gadadhara have such
 power? Vrindavana Dasa answers:
@@ -204,7 +205,7 @@ merciful glance; and that a cruel man gave up his cruelty Vrindavana Dasa calls 
 utter the Name, so His servant Gadadhara Dasa made the Kazi of his own village utter the name of Hari: the servant
 follows in the footsteps of the Lord. <!-- F35 I4 -->
 
-But is it not an offence to give the Name to the faithless? All the sattvata scriptures and Srila Jiva Gosvami count
+But is it not an offence to give the Name to the faithless? Every sattvata scripture, and Srila Jiva Gosvami as well, counts
 instructing the faithless in the Name among the offences against the Name. One of the biographies answers: Gadadhara
 Dasa did not encourage this offence. He is the very merciful shakti of Gaura-Nityananda, and he endowed even the hostile
 Kazi with a special power of mercy, as Narada once showed mercy to Nalakuvara and Manigriva. The prohibition of the
@@ -232,11 +233,11 @@ According to the “Bhakti-ratnakara” (8.156–158), Nityananda came to Paniha
 
 ## After the Lord's Disappearance: Navadvipa and Katwa
 According to the “Gaudiya-vaishnava-abhidhana,” Gadadhara Dasa lived in Navadvipa and took care of Shachimata and
-Vishnupriya Devi, managing their affairs. When they left this world, he settled in Katwa — where Keshava Bharati gave the
-Lord sannyasa — and installed a Deity of Gauranga. Srila Bhaktisiddhanta writes in the “Anubhashya”: “In Katwa he had
+Vishnupriya Devi, managing their affairs. When they left this world, he settled in Katwa — the place of the Lord's sannyasa from
+Keshava Bharati — and installed a Deity of Gauranga. Srila Bhaktisiddhanta writes in the “Anubhashya”: “In Katwa he had
 the service of Gaura.” This temple is known in Katwa as the “house of Mahaprabhu” (*mahaprabhu-bari*); according to one
 of the biographies, his samadhi is now there, beside the Deity. According to the “Anubhashya,” after Mahaprabhu's
-departure Gadadhara Dasa went from Navadvipa to Katwa (Srila Bhaktisiddhanta refers here to the “Bhakti-ratnakara,” 7),
+departure Gadadhara Dasa left Navadvipa for Katwa (Srila Bhaktisiddhanta refers here to the “Bhakti-ratnakara,” 7),
 and from there came to Endiyadaha and settled there; the “Narottama-vilasa,” the “Prema-vilasa” and the
 “Bhakti-ratnakara” find him in Katwa in the years after Vishnupriya's departure.[^13] <!-- F10 F11 -->
 
@@ -268,14 +269,14 @@ In Navadvipa-Mayapur Narottama met the elder associates of the Lord — Shuklamb
 Gadadhara — grieving over His disappearance. He came to Katwa as well, to the house of Gadadhara Dasa; there he saw the
 Deity of Gaura whom Gadadhara served: “Gaurachandra is the life of Dasa Gadadhara,” says the “Bhakti-ratnakara” (8.453),
 and on seeing Him Narottama could not restrain his feelings. Narottama prostrated himself before Gadadhara Dasa, who
-embraced him lovingly and bathed him with tears. Gadadhara Dasa spent his days in the pain of separation from Gaura and
+embraced him lovingly and bathed him with tears. Gadadhara Dasa passed his days aching in separation from Gaura and
 Nityananda; Narottama stayed with him two days. <!-- F40 -->
 
 According to the “Narottama-vilasa” (5), it was Yadunandana Chakravarti who brought Narottama to Dasa Gadadhara, who
 after Vishnupriya's departure was living in Katwa in grief, and Gadadhara Dasa foretold that the Lord would dance in
 Narottama's kirtana. <!-- F54 -->
 
-Yadunandana Chakravarti of Katwa was his disciple: the “Bhakti-ratnakara” calls him “the learned Yadunandana
+His disciple was Yadunandana Chakravarti of Katwa: the “Bhakti-ratnakara” calls him “the learned Yadunandana
 Chakravarti, whose guru and worshipful lord was Gadadhara Dasa” (9.332).[^14] Shyamananda too, returning from Kheturi,
 stayed with Gadadhara Dasa at Kantakanagara. <!-- F38 F41 -->
 
@@ -296,7 +297,7 @@ Gadadhara Dasa's departure was immense and became as renowned as the festival at
 According to the “Prema-vilasa,” the memorial festival in Katwa was arranged by Yadunandana Chakravarti and Raghunandana,
 and the branches of Mahaprabhu, Nityananda, Advaita and Gadadhara gathered for it.[^16] <!-- F44 -->
 
-Later, when Jahnava Devi came to Katwa with her companions, all beheld “the Gauranga of Dasa Gadadhara” and the place
+Later, when Jahnava came to Katwa with her companions, all beheld “the Gauranga of Dasa Gadadhara” and the place
 where the Lord took sannyasa; and Yadunandana, remembering his beloved Dasa Gadadhara, could not be calm for a long
 while (“Narottama-vilasa” 6.274, 6.289). <!-- F59 -->
 
@@ -308,8 +309,8 @@ The biographies also speak of a samadhi in Katwa, in the “house of Mahaprabhu,
 Bharati.[^18] <!-- F45 -->
 
 Of the shripat at Ariadaha Srila Bhaktisiddhanta tells further. The samadhi there had been in the keeping of samyogi
-Vaishnavas; at the instruction of the siddha Srila Bhagavan Dasa Babaji of Kalna, Madhusudana Mallik of Narikeldanga (Calcutta) established a temple
-estate (*patbari*) there and began the service of the Deity of Sri Radhakanta (in the Bengali year 1256, about
+Vaishnavas; at the instruction of the siddha Srila Bhagavan Dasa Babaji of Kalna,
+Madhusudana Mallik of Narikeldanga in Calcutta founded a temple estate (*patbari*) there and began the service of the Deity of Sri Radhakanta (in the Bengali year 1256, about
 1849–1850). His son Balai Mallik in 1312 (about 1905–1906) established the service of Sri Gaura-Nitai. On the altar are
 the Deities of Gaura-Nityananda and Radha-Krishna, and beneath it a Sanskrit verse is carved; there too is the
 Shiva-linga of Gopeshvara. All this is recorded on a stone at the entrance.[^19] <!-- F46 -->
@@ -317,7 +318,7 @@ Shiva-linga of Gopeshvara. All this is recorded on a stone at the entrance.[^19]
 ## The Two Gadadharas
 In the Bengali year 1340 (about 1933) a booklet appeared, “Dasa Gadadhara-tattva.” Its author, posing as a zealous
 admirer of Dasa Gadadhara, set Gadadhara Pandita against him in a sectarian spirit: supposedly the Pandita, having
-studied nyaya, at first did not wish to follow Dasa Gadadhara, the expounder of the “Bhagavatam,” but later, seeing
+studied nyaya, was at first unwilling to follow Dasa Gadadhara, the expounder of the “Bhagavatam,” but later, seeing
 that he lacked the taste of Gauranga's pastimes, became a disciple of Pundarika Vidyanidhi and adopted the mood of Dasa
 Gadadhara; and so the Pandita's followers had better leave him and follow the Dasa. Such a view is the height of
 godlessness (*pashandita*). <!-- F47 -->
@@ -374,9 +375,9 @@ must never speak of him so as to belittle the other Gadadhara: both are eternal 
     here, which has been corrected in the revised one. Whom exactly the verse means, the sources do not specify.
 [^6]: One of the biographies dates this “about 1513”; another, citing the words of the “Anubhashya,” converts Shaka 1434
     to 1534 AD, but Shaka 1434 is about 1512–1513.
-[^7]: One of the biographies writes that he already carried a pot of Ganga water on his head on the way. Srila
-    Bhaktisiddhanta mentions the pot separately: “sometimes” Gadadhara in the bhava of a gopi carried a full pot of Ganga
-    water on his head and sold it as milk. According to the
+[^7]: One of the biographies writes that already on the way he bore on his head a pot filled with Ganga water. Srila
+    Bhaktisiddhanta mentions the pot separately: “sometimes” Gadadhara in the bhava of a gopi bore on his head a full pot of Ganga
+    water and sold it as milk. According to the
     “Chaitanya-bhagavata,” on the way he only cried “Who will buy yogurt?” (Antya 5.238), while the pot of Ganga water
     and the cry “Who will buy milk?” come later, in his house, when Nityananda arrived (Antya 5.372–373).
 [^8]: Srila Bhaktisiddhanta in the “Anubhashya” specifies: while Gadadhara was in this world, the Deity of Bala-Gopala
@@ -405,7 +406,7 @@ must never speak of him so as to belittle the other Gadadhara: both are eternal 
     years too. Where he left this world, the sources do not say outright.
 [^14]: One of the biographies at first calls him Yadunandana Dasa.
 [^15]: According to the “Bhakti-ratnakara” (9.362) and the “Prema-vilasa” (19), he departed on the krishna-ashtami of
-    Kartika; according to one of the biographies, on the eighth day of the bright half of Kartika. According to our
+    Kartika; according to one of the biographies, on the eighth lunar day of Kartika's bright fortnight. According to our
     calendar, on the shukla-ashtami of the month of Damodara.
 [^16]: According to one of the biographies, he departed later — after Srinivasa's second visit to Vrindavana: returning
     to Yajigrama, Srinivasa learned at Kantakanagara that Gadadhara Dasa had departed in Kartika.
