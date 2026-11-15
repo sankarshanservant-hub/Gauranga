@@ -1,0 +1,366 @@
+# «Бхакти-ратнакара», таранга 5, двустишия 1–1900 (обход Враджа с Рагхавой Пандитом)
+
+- id: brt-1001
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 1–5"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: PX
+  order: 31.5
+  title: "Мангалачарана пятой таранги"
+  summary: "Слава Гауре-Говинде, Нитьянанде, Адвайте, Гададхаре, Шривасе, Санатане и Рупе, преданным Господа и слушателям; автор просит милости и приступает к рассказу."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@sanatana-gosvami", "@rupa-gosvami"]
+  places: []
+  kind: author
+  authority: B
+  themes: ["author"]
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "1", to: "5"}
+
+- id: brt-1002
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 6–30"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.5
+  title: "Джива посылает Шринивасу и Нароттаму обойти Врадж с Рагхавой Пандитом; ночлег у Субуддхи в Матхуре"
+  summary: "Джива решает показать Шринивасе и Нароттаме все святые места; в это время с Говардханы приходит Рагхава Госвами, собиравшийся обходить Врадж, и Джива отпускает их с ним; они приходят в Матхуру и останавливаются у храма Кешава-девы, где жил Субуддхи, вечером поют святое имя. Слава Рагхавы: брахман с юга, автор «Бхакти-ратна-пракаши», живёт на Говардхане, иногда с Дасом Госвами, суровый отреченный; по ГГД 162 — Чампакалата; Шринивасу и Нароттаму он любит как одно целое и рассказывает им об играх Кришны в Матхура-мандале."
+  persons: ["@jiva-gosvami", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@subuddhi-raya", "@raghunatha-dasa"]
+  places: ["#vrindavana", "#govardhana", "#mathura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 6.32–80 (anv-0036): тот же обход с провожатым от Дживы; «Нароттама-виласа» 2 (nvl-0017): Рагхава Пандит на Говардхане"
+  divergence: "В «Анурага-валли» это прощальный обход перед отъездом в Гауду, провожатый не назван; здесь Джива посылает их с Рагхавой Госвами вскоре после начала учения, а отъезд в Гауду описан лишь в БР 6."
+  themes: ["pilgrimage", "learning"]
+  scriptures: ["Гаура-ганоддеша-дипика 162"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "6", to: "30"}
+
+- id: brt-1003
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 31–39"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P14
+  order: 17.51
+  title: "Ваджранабха основал селения Враджа; Господь и Рупа с Санатаной вновь открывают скрытые места"
+  summary: "Царь Ваджранабха основал в Матхура-мандале селения по играм Кришны, учредил служение Божествам и кунды; со временем всё скрылось. Махапрабху, придя в Матхуру, указал направление, а через Санатану и Рупу открыл всё: зная места и сами, они по свидетельствам шастр вернули скрытые тиртхи, и ныне все воспевают славу Матхуры."
+  persons: ["@raghava-gosvami-govardhana", "@mahaprabhu", "@rupa-gosvami", "@sanatana-gosvami"]
+  places: ["#mathura"]
+  kind: post-advent
+  authority: B
+  parallels: "БР 1.680–683 (brt-0037); ЧЧ Ади 10.84–90 (cc-0135), Мадхья 1.31–34 (cc-0296)"
+  notes: "Рассказ Рагхавы в начале обхода."
+  cc: "Ади 10"
+  themes: ["pilgrimage", "deities"]
+  event: ev-gosvamis-reveal-lost-tirthas
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "31", to: "39"}
+
+- id: brt-1004
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 40–161"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.502
+  title: "Слава Матхура-мандалы по пуранам"
+  summary: "Ночью Рагхава рассказывает о величии Матхуры: она уничтожает грехи, дарует освобождение и бхакти, дорога Кришне; границы мандалы в двадцать йоджан (Яявара, Шаукари, Ватешвара); Матхура — лотос с Кешавой в середине и Харидевой, Говиндой, Вишранти и Варахой на лепестках; плоды пребывания в особые сроки; Мадхувана, где убит Мадху. Множество цитат из пуран."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: []
+  kind: teaching
+  authority: B
+  notes: "Обобщающая запись: вставные шлоки пуран о Матхуре (в переводе — с указанием источников)."
+  themes: ["pilgrimage", "krishna-lila"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "40", to: "161"}
+
+- id: brt-1005
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 162–172"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P13
+  order: 60.1
+  title: "Дом брахмана-санодии, где Господь принимал пищу и танцевал"
+  summary: "На рассвете Рагхава приводит Шринивасу и Нароттаму к месту, где жил брахман-санодия, ученик Мадхавендры Пури, видевший сокровенное в Гауранге; здесь Господь танцевал в преме, толпы пели имя и признали в Нём сына царя Враджа. Слушая это, Шриниваса и Нароттама плачут и катаются в пыли двора."
+  persons: ["@mahaprabhu", "@krishnadasa-mathura", "@madhavendra-puri", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#mathura"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 17.164–186 (cc-2122); «Гаура-кришнодая» 14 (gkd-0135)"
+  notes: "Брахман-санодия ЧЧ отождествлён в базе с @krishnadasa-mathura (как в cc-2122); здесь не назван по имени."
+  cc: "Мадхья 17.164–186"
+  themes: ["ecstasy", "kirtan", "separation"]
+  event: ev-krishnadasa-mathura-guide
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "162", to: "172"}
+
+- id: brt-1006
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 173–197"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P01
+  order: 1.46
+  title: "Адвайта в Матхуре: брахман-хулитель видит Его четырёхруким и раскаивается"
+  summary: "Рагхава пересказывает слышанное от старших: во время паломничества Адвайта остановился в Матхуре; учёный и надменный пришлый брахман постоянно хулил вайшнавов и при Адвайте; в гневе Адвайта, грозя срубить ему голову чакрой, явил четырёхрукий облик; брахман в страхе молит о прощении, и Адвайта, скрыв облик, велит ему всегда считать себя оскорбителем, петь имя, служить вайшнавам и хранить виденное в тайне. Брахман со смирением ходит по домам вайшнавов; те догадываются, что его преобразила милость Господа, жившего здесь тайно в облике брахмана-паломника."
+  persons: ["@advaita"]
+  places: ["#mathura"]
+  kind: lila
+  authority: B
+  notes: "Известно, по-видимому, только по БР («слышал из уст старших»)."
+  divergence: "В «Адвайта-пракаше» 4 (apr-0015) Адвайта в Матхуре лишь подносит пинды у Дхрува-гхата; этого рассказа там нет."
+  themes: ["offense", "revelation", "mercy"]
+  bhava: ["aishvarya"]
+  teaching: ["vaishnava", "holy-name"]
+  event: ev-advaita-mathura-blasphemer
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "173", to: "197"}
+
+- id: brt-1007
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 198–207, 214–231, 238–314, 320–371"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.504
+  title: "Тиртхи Матхуры и места игр Кришны в городе"
+  summary: "Рагхава показывает Ардхачандру, место рождения в доме Васудевы и Деваки, Кешаву, Божества Диргха-вишну, Падманабху и Сваямбхуву, богинь семьи Кришны, Бхутешвару, Вишранти и двадцать четыре тиртхи Ямуны к северу и югу от неё, Гокарну, Асикунду, колодцы; величие Ямуны, брахманов и жителей Матхуры; дома Судамы-садовника и Кубджи, путь Кришны к Камсе, место убийства прачки, Кувалаяпиды и борцов, Камса-кхали, Баладева-кунду и Кришна-купу."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@balarama", "@kamsa"]
+  places: ["#mathura", "#vishrama-ghata"]
+  kind: teaching
+  authority: B
+  notes: "Обобщающая запись; лилы Махапрабху в тех же местах — отдельно (следующая запись)."
+  themes: ["pilgrimage", "krishna-lila"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "198", to: "207"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "214", to: "231"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "238", to: "314"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "320", to: "371"}
+
+- id: brt-1008
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 208–213, 232–237, 315–319, 372–381"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P13
+  order: 70.1
+  title: "Махапрабху в Матхуре: танец перед Кешавой, Вишрама-тиртха, двадцать четыре гхата"
+  summary: "У Кешавы Господь исполнил чудесный танец, и люди говорили: «Он и есть Кешава-рай»; у Вишранти толпы со всех сторон бежали увидеть «Венца санньяси», не могли отвести глаз; у двадцати четырёх гхатов Он омывался в упоении премой вместе с сотнями тысяч людей, к которым присоединились боги; обойдя Матхуру, Он сидел среди толпы, и брахманы Матхуры говорили, что этот санньяси — Сам Кришна, скрывшийся в облике Гауры. Рассказывая это, Рагхава теряет самообладание, Шриниваса и Нароттама с плачем падают к его стопам."
+  persons: ["@mahaprabhu", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#mathura", "#vishrama-ghata"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 17.155–163, 187–191 (cc-2121, cc-2123); Мурари 4.4–4.5; Лочан, Шеша-кханда (lcm-0233)"
+  cc: "Мадхья 17.155–191"
+  themes: ["ecstasy", "pilgrimage", "revelation"]
+  event: ev-mathura-sightseeing
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "208", to: "213"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "232", to: "237"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "315", to: "319"}
+    - {file: "bhakti-ratnakara/ru/05.md", from: "372", to: "381"}
+
+- id: brt-1009
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 382–384"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 30.1
+  title: "Гопала месяц пребывает в Матхуре; Рупа созерцает Его"
+  summary: "Рагхава показывает место, где Гопала прожил целый месяц; Рупа Госвами с дорогими спутниками пришёл и при виде Гопалы пришёл в смятение чувств; жители Матхуры, обретя Госвами, не отличали дня от ночи."
+  persons: ["@shrinathji-deity", "@rupa-gosvami", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#mathura"]
+  kind: post-advent
+  authority: B
+  parallels: "ЧЧ Мадхья 18.45–54 (cc-3006)"
+  notes: "Упоминание."
+  cc: "Мадхья 18.45–54"
+  themes: ["deities", "ecstasy"]
+  event: ev-gopala-mathura-vitthaleshvara
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "382", to: "384"}
+
+- id: brt-1010
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 385–390"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P05
+  order: 1.1
+  title: "Нитьянанда в Матхуре во время паломничества"
+  summary: "Рагхава показывает древнее дерево, у которого играл сын Рохини: странствуя по святым местам, Нитьянанда остановился здесь и, неузнанный, в упоении бродил по земле Своего прежнего рождения; жители Матхуры, увидев Авадхуту, забыли печаль."
+  persons: ["@nityananda", "@balarama", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#mathura"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Ади 9 (cb-0069)"
+  cb: "Ади 9"
+  themes: ["pilgrimage", "ecstasy"]
+  bhava: ["balarama"]
+  event: ev-nityananda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "385", to: "390"}
+
+- id: brt-1011
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 391–452"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.506
+  title: "Двенадцать лесов; Мадхувана, Талавана, Кумудавана, Дати; от Матхуры к Бахулаване"
+  summary: "Рагхава перечисляет двенадцать лесов по эту и ту сторону Ямуны и показывает Мадхувану, Талавану, Кумудавану; в роще Дати Кришна убил Дантавакру — рассказ о возвращении Кришны к Нанде и пастухам после Курукшетры (селения Айоре и Гаураи); затем, свернув с пути парикрамы, — Шаштхикару, Шакатарохану, Гаруда-Говинду, Гандхешвару, Сатоху (место аскезы Шантану) и Бахулавану."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@krishna", "@nanda"]
+  places: ["#madhuvana", "#mathura", "#bahulavana"]
+  kind: post-advent
+  authority: B
+  themes: ["pilgrimage", "krishna-lila"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "391", to: "452"}
+
+- id: brt-1012
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 453–460"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P13
+  order: 100.1
+  title: "Махапрабху в Бахулаване: коровы, олени и птицы окружают Его"
+  summary: "Когда Господь в упоении премой шёл через Бахулавану, сотни тысяч коров с поднятыми хвостами окружили Его, и Он гладил их, как прежде пас; олени, павлины и кокилы кружили вокруг, деревья осыпали Его цветами; люди говорили: «Это сын царя Враджа — мнимый санньяси, скрывший тёмный облик под золотым»."
+  persons: ["@mahaprabhu", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#bahulavana"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 17.192–207 (cc-2124)"
+  cc: "Мадхья 17.192–207"
+  themes: ["ecstasy", "revelation"]
+  bhava: ["krishna"]
+  event: ev-parrots-vrindavana
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "453", to: "460"}
+
+- id: brt-1013
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 461–506"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.508
+  title: "Бахулавана, Маюра-грама, Арита: Ариштасура и возникновение Шьяма- и Радха-кунды"
+  summary: "Кунды Бахулаваны, Маюра-грама (танец павлинов перед Раи и Кану), Дакшина-грама, Васати — селение Вришабхану; в Арите Кришна убил Ариштасуру в облике быка, и по слову Радхи о скверне Он ударом стопы собрал в кунду все тиртхи; Радха с сакхи выкопала Свою кунду, и тиртхи по велению Кришны вошли в неё из Шьяма-кунды; кунджи сакхи вокруг кунд; величие Радха-кунды."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@krishna", "@radha"]
+  places: ["#bahulavana", "#arita", "#radha-kunda"]
+  kind: post-advent
+  authority: B
+  themes: ["pilgrimage", "krishna-lila"]
+  bhava: ["gopi"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "461", to: "506"}
+
+- id: brt-1014
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 507–530"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P13
+  order: 120.1
+  title: "Махапрабху обретает Радха-кунду и Шьяма-кунду в рисовых полях"
+  summary: "Господь сел под тамалой в Аришта-граме и спросил о двух кундах, но ни жители, ни пришедший с Ним брахман из Матхуры не знали; всеведущий Господь узнал сокрытые тиртхи в двух рисовых полях, омылся в малой воде, вознёс хвалу и нанёс тилаку из глины. Жители изумлены: птицы зовут Его «Кришна», деревья осыпают цветами, олени и коровы смотрят Ему в лицо; «это Кришна в облике санньяси»; «поля „Кали“ и „Гаури“ по Его милости оказались кундами»."
+  persons: ["@mahaprabhu", "@krishnadasa-mathura", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#arita", "#radha-kunda"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 18.3–14 (cc-3002); «Гаура-кришнодая» 14 (gkd-0137)"
+  divergence: "В «Адвайта-пракаше» 16 (apr-0108) кунду открывают при Ачьютананде."
+  cc: "Мадхья 18.3–14"
+  themes: ["revelation", "ecstasy", "pilgrimage"]
+  event: ev-radha-kunda-discovery
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "507", to: "530"}
+
+- id: brt-1015
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 531–553"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 12.2
+  title: "Кунды наполняются водой: дар купца из Бадарикашрамы; Пандавы-деревья у Шьяма-кунды"
+  summary: "Рагхунатхе Дасу пришло желание, чтобы обе кунды наполнились водой, и он укорял себя за тень желания богатства. Богатому паломнику в Бадарикашраме Нараяна во сне велел отнести поднесённые монеты Рагхунатхе в Арит-граму и напомнить ему о его замысле; Рагхунатха, оцепенев, велел расчистить кунды. Когда хотели срубить старое дерево у Шьяма-кунды, Юдхиштхира во сне открыл Рагхунатхе, что пятеро Пандавов пребывают здесь деревьями; дерево сохранили, поэтому Шьяма-кунда не стала квадратной."
+  persons: ["@raghunatha-dasa", "@narayana", "@yudhishthira", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#radha-kunda", "#badarikashrama", "#arita"]
+  kind: miracle
+  authority: B
+  notes: "Рассказ Рагхавы. Известно, по-видимому, только по БР."
+  themes: ["revelation", "mercy"]
+  event: ev-radha-kunda-excavation
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "531", to: "553"}
+
+- id: brt-1016
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 554–562"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 12.3
+  title: "Санатана и тигр у Манаса-павана-гхата; по его велению Рагхунатха живёт в хижине"
+  summary: "Рагхунатха день и ночь жил под деревом, не желая хижины. Санатана, придя из Вриндавана к жилищу Гопалы Бхатты у кунды, увидел, как у Манаса-павана-гхата тигр пьёт воду и уходит, пройдя рядом с погружённым в медитацию Рагхунатхой; обняв поклонившегося Рагхунатху, Санатана велел ему отныне жить в хижине, и в тот же день её начали строить."
+  persons: ["@raghunatha-dasa", "@sanatana-gosvami", "@gopala-bhatta", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#radha-kunda"]
+  kind: post-advent
+  authority: B
+  notes: "Рассказ Рагхавы."
+  themes: ["mercy", "teaching"]
+  event: ev-sanatana-raghunatha-hut
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "554", to: "562"}
+
+- id: brt-1017
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 563–574"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 12.4
+  title: "Дас-враджаваси и чашка из листьев палаши из Сакхистхали"
+  summary: "Враджаваси Дас, любимый Рагхунатхой, видя, что тот в разлуке оставил рис и пьёт лишь одну дону пахты, принёс пахту в большой чашке из листьев палаши, сорванных в Сакхистхали; услышав название — селение Чандравали, — Рагхунатха в гневе отбросил её и затем велел Дасу туда не ходить. Дас понял, что это деяние совершенного в теле садхаки; автор: тела таких преданных — вечно совершенны."
+  persons: ["@raghunatha-dasa", "@dasa-vrajavasi-radha-kunda", "@radha", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#radha-kunda", "#sakhisthali"]
+  kind: post-advent
+  authority: B
+  notes: "Рассказ Рагхавы. Гнев Рагхунатхи — проявление его преданности Радхе (служение в настроении её партии), а не мирская неприязнь; так и объясняет автор."
+  themes: ["separation", "krishna-lila"]
+  bhava: ["gopi"]
+  event: ev-raghunatha-sakhisthali-leaf-cup
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "563", to: "574"}
+
+- id: brt-1018
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 575–581"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 12.5
+  title: "Рагхунатха мысленно вкусил рис с молоком: лекари Виттхаланатхи"
+  summary: "Однажды Рагхунатха в мысленном служении вкусил прасад — рис с молоком, — и тело его отяжелело; Виттхаланатха, сын Валлабхи, привёл двух лекарей; по пульсу лекарь сказал, что он ел рис с молоком; Виттхаланатха изумился — это невозможно, — и Рагхунатха признал, что вкусил его мысленно."
+  persons: ["@raghunatha-dasa", "@vitthalanatha", "@vallabha-bhatta", "@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa"]
+  places: ["#radha-kunda"]
+  kind: miracle
+  authority: B
+  notes: "Рассказ Рагхавы."
+  themes: ["prasada", "revelation"]
+  event: ev-raghunatha-mental-sweet-rice
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "575", to: "581"}
+
+- id: brt-1019
+  source: bhakti-ratnakara
+  ref: "Таранга 5, 582–603"
+  file: "bhakti-ratnakara/ru/05.md"
+  period: P15
+  order: 81.51
+  title: "У Радха-кунды: встреча с Рагхунатхой Дасом и Кришнадасом Кавираджей"
+  summary: "Служение Рагхунатхи — кунда, шила с Говардханы и ожерелье из гунджи; Рагхава показывает место встречи кунд, Мальяхари-кунду (игра с жемчужным ожерельем из «Мукта-чариты» Рагхунатхи), Шивакхору и Бханукхору и ведёт обоих к Дасу Госвами: иссохший от отречения, тот поднимается и обнимает их; приходят Кришнадас Кавираджа, почитающий Шринивасу как свою жизнь, Дас-враджаваси и вайшнавы кунды; Шриниваса и Нароттама омываются у Манаса-павана-гхата (где деревьями пребывают Пандавы) и почитают маха-прасад у хижины Гопалы Бхатты."
+  persons: ["@raghava-gosvami-govardhana", "@srinivasa-acharya", "@narottama-dasa", "@raghunatha-dasa", "@krishnadasa-kaviraja", "@dasa-vrajavasi-radha-kunda", "@gopala-bhatta"]
+  places: ["#radha-kunda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Анурага-валли» 6.32–80 (anv-0036): тот же обход с провожатым от Дживы (у Радха-кунды — у Рагхунатхи Даса); «Анурага-валли» 5.3–22 (anv-0032); «Нароттама-виласа» 2 (nvl-0017)"
+  divergence: "По «Анурага-валли» 5 Шриниваса ночевал у Рагхунатхи и обходил с ним Говардхану; Кришнадас Кавираджа там не упомянут."
+  themes: ["pilgrimage", "prasada"]
+  event: ev-srinivasa-narottama-farewell-parikrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/05.md", from: "582", to: "603"}
