@@ -37,7 +37,7 @@ but the spiritual presence (*avesha*) of Baladeva's eternal companion, who came 
 and so Gadadhara Dasa, though his whole heart belonged to madhura-rasa, remained at Nityananda's side all his life.
 <!-- F2 F3 Q7 -->
 
-Srila Bhaktisiddhanta Sarasvati, in his “Anubhashya” on this verse of the “Charitamrita,” explains the difference
+Srila Bhaktisiddhanta Sarasvati, in his “Anubhashya” on CC, Adi 10.53, explains the difference
 between the two Gadadharas. Gadadhara Pandita is the very form of the daughter of Vrishabhanu, while Gadadhara Dasa is
 the beauty of Her body (*anga-shobha*), Her radiance (*kanti*). Gaura is Krishna endowed with the mood and radiance of
 Radha (*radha-bhava-dyuti-suvalita*), and Gadadhara Dasa is that radiance (*dyuti*) of Gaura.[^3] <!-- F4 Q6 -->
