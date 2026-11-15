@@ -541,7 +541,7 @@
 | @mukundananda-chakravarti | Мукундананда Чакраварти | Mukundananda Chakravarti | ученик Бхугарбхи (ЧЧ Ади 8.69) |
 | @krishnadasa-premi | Кришнадас «премӣ» (ученик Бхугарбхи) | Krishnadasa the loving (disciple of Bhugarbha) | ЧЧ Ади 8.69; не путать с другими Кришнадасами |
 | @gosani-dasa-pujari | Госани Дас, пуджари Мадана-мохана | Gosani Dasa, the priest of Madana-mohana | надел автору гирлянду Мадана-мохана (ЧЧ Ади 8.74–76) |
-| @damayanti | Дамаянти (сестра Рагхавы Пандита) | Damayanti (sister of Raghava Pandita) | весь год готовила угощения для Господа, которые Рагхава привозил в Пури («Рагхавера джхали», ЧЧ Ади 10.25–27) |
+| @damayanti | Дамаянти (сестра Рагхавы Пандита) | Damayanti (sister of Raghava Pandita) | весь год готовила угощения для Господа, которые Рагхава привозил в Пури («Рагхавера джхали», ЧЧ Ади 10.25–27) · {карточка: в Кришна-лиле — Гунамала, гопи Враджа (ГГД 167); происхождение — Панихати} |
 | @shriman-sena | Шриман Сена | Shriman Sena | главный слуга Господа (ЧЧ Ади 10.52); не путать с @shriman-pandita |
 | @chaitanya-dasa-shivananda-son | Чайтанья Дас (сын Шивананды Сены) | Chaitanya Dasa (son of Shivananda Sena) | старший сын Шивананды (ЧЧ Ади 10.62); не путать с @chaitanya-dasa и др. |
 | @ramadasa-shivananda-son | Рамадас (сын Шивананды Сены) | Ramadasa (son of Shivananda Sena) | ЧЧ Ади 10.62; не путать с @abhirama (Рамадас Абхирама) |
