@@ -189,14 +189,7 @@ regarding them as men of low birth, is an offence. <!-- I2 -->
 
 The Lord answered:
 
-“‘Listen, Dabir Khas. You and your brother are both My servants from long ago. From now on your names are Rupa and
-Sanatana. Give up your humility now, for it breaks My heart. You sent Me several humble letters. From these letters I
-gained an understanding of your life. From your letters I understood your hearts. And to instruct you, I constantly
-quoted one verse: “A married woman attracted to another man only appears to be diligent in her household duties, while
-in her heart she anticipates the sweetness of a new meeting with her beloved.” I came to Bengal only to see the two of
-you. I had no other purpose. No one understands why I came to this village, Ramakeli. No one knows My intentions. It
-is very good that you both have come to Me. Now go home and do not worry about anything. You are both My servants birth
-after birth. Very soon Sri Krishna will certainly set you free.’” (CC, Madhya 1.207–215) <!-- F53 F54 Q10 Q12 -->
+“‘Listen, Dabir Khas: you two brothers are My servants of old. From today your names are Rupa and Sanatana. Give up this humility — your humility breaks My heart. Time and again you wrote Me humble letters, and through those letters I came to know your ways. Through those letters I knew your hearts, and to instruct you I quoted a verse again and again: “A woman attached to a man other than her husband may seem busy with her household duties, but within she relishes only the nectar of new meetings with him.” I had no reason to come near Gauda; I came here only to see you two. No one knows the secret of My heart; everyone asks why I have come to Ramakeli. It is good that you two brothers came to Me. Now go home and do not be afraid. Birth after birth you two are My servants. Very soon Krishna will deliver you.’” (CC, Madhya 1.207–215) <!-- F53 F54 Q10 Q12 -->
 
 The verse about the woman who, while doing her household duties, thinks in her heart of her beloved was the Lord's
 instruction to the brothers in reply to their letters: while serving at court, think of Krishna with all your heart.
@@ -275,13 +268,7 @@ Bindu-madhava, crowds ran after Him, and the brothers kept their distance; but w
 the house of a South Indian brahmana, they came there and, holding straws between their teeth, prostrated themselves at
 His feet, rising and falling down again and again and reciting verses of praise and humility. <!-- F72 -->
 
-“Sri Chaitanya was overjoyed to see Sri Rupa and asked him to rise and come to Him. ‘It is impossible to describe
-Krishna's mercy!’ He said. ‘By His mercy you have both been pulled out of the well of worldly pleasures.’ ‘One who is
-brilliantly educated and knows all the Vedas, but has not dedicated himself to unalloyed service to Me, should not be
-considered My devotee. On the other hand, a person, even if born in a family of dog-eaters, may be My dear devotee if he
-is not attracted by the fruits of karma and jnana. All should show respect to such a person, and whatever he offers
-should be accepted with respect. Such a devotee of Mine is worthy of the same worship that is offered to Me.’ Reciting
-this verse, He embraced both brothers and then mercifully touched their heads with His foot.” (CC, Madhya 19.48–51)
+“Seeing Sri Rupa, the Lord was pleased at heart. ‘Get up, get up, Rupa! Come here!’ He said. ‘Krishna's mercy cannot be described at all. He has pulled you both out of the well of worldly life.’ ‘Even a knower of the four Vedas is not dear to Me if he is not devoted to Me, but My devotee is dear to Me even if he was born a dog-eater. One should give to him and accept from him; he is to be worshipped just as I am.’ Reciting this verse, He embraced them both, and in His mercy He placed His feet on their heads.” (CC, Madhya 19.48–51)
 
 The verse the Lord recited is from the “Itihasa-samuchchaya.” <!-- F73 F74 Q17 -->
 
@@ -321,13 +308,9 @@ untouchable; do not defile yourself,” and sat at a distance. <!-- F85 F86 -->
 Pleased with their humility, the Lord, after showing Vallabha — a man of high family proud of his learning — outward
 worldly respect, decided to test his way of thinking:
 
-“‘Do not touch him, for he belongs to the lowest caste, whereas you are a brahmana of an ancient and noble family, of
-profound learning and experienced in performing many Vedic rites.’ Hearing that their lips were constantly repeating the
-names of Krishna, Vallabha Bhatta understood Sri Chaitanya's hints and said, ‘The constant chanting of Krishna's names
-makes them dance. Therefore they cannot be low; on the contrary, they are most exalted.’” (CC, Madhya 19.69–71)
+“‘Do not touch him; he is of very low birth! And you are a Vedic scholar, a performer of sacrifices, learned and of noble family!’ Hearing the name of Krishna constantly from Rupa's mouth, and grasping something of the Lord's hint, Bhatta said: ‘The name of Krishna is dancing in the mouths of both. These two are not “lowly” — they are “the best of all.”’” (CC, Madhya 19.69–71)
 
-And Vallabha quoted a verse of the “Srimad-Bhagavatam” (3.33.7): “Glory and praise to those whose tongue repeats Your
-holy name! They are to be honoured even if they were born in families of dog-eaters…” (CC, Madhya 19.72)
+And Vallabha quoted a verse of the “Srimad-Bhagavatam” (3.33.7): “Oh, how wonderful! Even a dog-eater is worthy of the highest honour if Your name is on the tip of his tongue…” (CC, Madhya 19.72)
 <!-- F87 F88 Q19 Q20 -->
 
 Vallabha passed the test: there was in him no offence of seeing a Vaishnava as an ordinary mortal; he had faith in the
@@ -339,10 +322,7 @@ Vallabha's heart, the Lord praised him and, condemning the views of the ritualis
 
 “In the fire of the sacred practice of loving service to God, all the consequences of past sins, such as low birth, are
 burned away. Even one born in a family of dog-eaters may win the approval of great theologians by the power of his
-sincere service to God. Whereas even a knower of the Vedas is not recognised as such if he is an atheist.” “If someone
-has no loving devotion to the Supreme Lord, all his virtues, such as high birth, knowledge of the scriptures,
-repetition of Vedic mantras, as well as austerity and strict observance of vows, are like ornaments on a corpse. Such
-ornaments can bring only false joy to the unenlightened.” (CC, Madhya 19.74–75) <!-- F89 F90 Q21 I7 -->
+sincere service to God. Whereas even a knower of the Vedas is not recognised as such if he is an atheist.” “For one devoid of devotion to the Lord, high birth, learning in scripture, japa and austerity are like ornaments on a lifeless body: they only please the people.” (CC, Madhya 19.74–75) <!-- F89 F90 Q21 I7 -->
 
 Vallabha invited the Lord and His companions to his home and at the Triveni ghat seated them in a boat; with the Lord
 were Rupa, Anupama, Balabhadra Bhattacharya and Krishnadasa the Rajput. As the boat was crossing the Yamuna, love seized
@@ -372,11 +352,7 @@ the Lord back to Prayaga by boat. <!-- F94 F95 Q22 -->
 Wary of the crowds at Triveni, the Lord went to the Dashashvamedha ghat. In all He remained in Prayaga only ten days,
 staying there unrecognised. <!-- F96 -->
 
-“Wary of the great gathering of people, Sri Chaitanya went to the Dashashvamedha ghat. There He instructed Sri Rupa
-Gosvami, investing him with His special power. There He revealed to Sri Rupa the highest truths about Krishna, teaching
-him the highest conclusions of the science of bhakti and rasa in full accord with the ‘Srimad-Bhagavatam.’ He imparted
-to him all the confidential conclusions He had earlier heard from Ramananda Raya. By His mercy Sri Rupa was able to
-grasp them perfectly.” (CC, Madhya 19.114–116)[^27] <!-- F97 Q155 -->
+“Fearing the crowds, the Lord went to Dashashvamedha, and there He taught Rupa Gosvami, infusing him with His power. The Lord taught him everything: the truth of Krishna, the truth of devotion and the truth of rasa to its furthest limit — the conclusions of the *Bhagavata*. All the conclusions He had heard from Ramananda He mercifully infused into Rupa.” (CC, Madhya 19.114–116)[^27] <!-- F97 Q155 -->
 
 Having invested His shakti in the heart of this most worthy disciple, the Lord made him mature and awakened all truths
 in his heart, so that Rupa became skilled in expounding them. These teachings are called the “Sri-rupa-shiksha.” Kavi
@@ -395,9 +371,7 @@ liberation from it: an eternal associate of the Lord is not bound by home. <!-- 
 Rupa himself recorded this in the opening verse of the “Bhakti-rasamrita-sindhu” (1.1.2), which Krishnadasa Kaviraja
 quotes:
 
-“I am the lowest of men and have no knowledge, yet the Lord has mercifully inspired me to write books on bhakti.
-Therefore I humbly bow down at the lotus feet of the Supreme Lord Sri Chaitanya Mahaprabhu, who has given me the ability
-to do this.” (CC, Madhya 19.134)
+“Though I am wretched, I have been set to this work by His prompting within my heart. I worship the lotus feet of that Hari, Sri Chaitanya-deva.” (CC, Madhya 19.134)
 
 “Lowest,” “wretched” are words of humility; and the inspiration in the heart of which Rupa speaks is the shakti
 invested by the Lord: He instructed Rupa not with words alone but revealed all truths within him. This was not the training of a novice: the
@@ -425,9 +399,7 @@ Kaviraja begins the nineteenth chapter of the Madhya-lila, which tells of the te
 Krishnadasa Kaviraja sets out the teachings of Prayaga in the nineteenth chapter of the Madhya-lila; here we shall only
 trace their course. The Lord began thus:
 
-“‘Sri Rupa! I shall explain to you the science of bhakti-rasa briefly, for no one can describe it in its fullness. The
-ocean of bhakti-rasa is boundless; it simply cannot be measured. I shall help you taste just one drop of it, so that you
-can understand its essence.’” (CC, Madhya 19.136–137) <!-- F109 -->
+“‘Listen, Rupa, to the characteristics of bhakti-rasa. I shall speak of it briefly, in the form of sutras; it cannot be described in full. The ocean of bhakti-rasa is deep and has no shore on either side. To give you a taste of it, I shall tell you of a single drop.’” (CC, Madhya 19.136–137) <!-- F109 -->
 
 Countless living beings, said the Lord, wander through eight million four hundred thousand species of life as their
 karma dictates. The shrutis compare the soul to a particle of the tip of a hair divided into a hundred parts and then
@@ -604,10 +576,7 @@ the crushing of Kandarpa's pride, through Damodara revealed detachment, through 
 Sanatana and Rupa revealed humility” (“Bhakti-ratnakara,” 1.630–631).[^34] <!-- F163 F164 F165 F166 Q46 I15 -->
 
 ## “Do Not Take Krishna out of Vraja”
-“The next day the omniscient Lord Sri Chaitanya came to Rupa Gosvami and said to him: ‘Do not try to take Krishna out of
-Vrindavana, for He never wishes to go beyond it. “The Krishna who is called Yadu-kumara is Vasudeva-Krishna. He is
-different from Krishna, the son of Nanda Maharaja. Krishna Yadu-kumara performs His pastimes in Mathura and Dvaraka, but
-Krishna Nanda-nandana never leaves Vrindavana.”’” (CC, Antya 1.65–67)
+“Another day the Lord met Rupa and sat with him. The Lord, the crown jewel of the omniscient, began to speak: ‘Do not take Krishna out of Vraja. Krishna never leaves Vraja to go anywhere else. “The Krishna born in the Yadu dynasty is another; but He who is the son of the king of the cowherds never leaves Vrindavana to go anywhere.”’” (CC, Antya 1.65–67)
 
 The verse the Lord quoted is from the “Yamala.” Krishna, the son of Yadu, is Vasudeva, who plays in Mathura and Dvaraka;
 but the son of the king of the cowherds, Gopendra-nandana, does not leave Vrindavana. <!-- F167 F168 Q33 Q34 -->
@@ -627,17 +596,11 @@ This is told in detail in the article on Svarupa Damodara. <!-- F170 F171 -->
 
 The verse the Lord repeated:
 
-“He who in youth stole My heart is again My Lord. Again there are the clear moonlit nights of the month of Chaitra, the
-malati flowers smell just the same, and the same gentle breeze blows from the kadamba groves. Nothing has changed in
-Our intimate relationship: I am the same beloved, yet I find no happiness here. My heart longs to return to the bank of
-the Reva, to the shelter of the vetasi tree.” (CC, Antya 1.78)
+“He who stole My heart in My girlhood is now My lord. These are the same moonlit nights of Chaitra, and the same full breezes blow from the kadamba groves, fragrant with blossoming *malati*. I too am the same. Yet My heart yearns for Our play of love there, beneath the *vetasi* trees on the bank of the Reva.” (CC, Antya 1.78)
 
 And Rupa's verse:
 
-“Dear friend, at last on the field of Kurukshetra I have met My long-dear sweet friend Krishna. I am the same Radhika,
-and We are together again. How sweet is the magical moment of Our meeting! Yet I want to be again on the bank of the
-Yamuna, beneath the shade of the groves of Vrindavana, and hear again His flute sounding the fifth note and driving Me
-mad.” (CC, Antya 1.79)[^35] <!-- F172 F173 Q35 Q36 -->
+“My dear companion, this is that same beloved Krishna, met again at Kurukshetra, and I am that same Radha; this is the same joy of Our union. Yet My heart longs for the forest on the bank of the Kalindi, which delights in the sweet fifth note of His flute playing in its depths.” (CC, Antya 1.79)[^35] <!-- F172 F173 Q35 Q36 -->
 
 Rupa wrote his verse on a palm leaf, tucked the leaf into the thatched roof of the hut and went to bathe in the sea.
 Meanwhile the Lord came, happened to look up, saw the leaf, read the verse — and was plunged into prema, marvelling at
@@ -648,12 +611,7 @@ before Him.[^36] The Lord slapped him: “How did you know the most secret thing
 Then the Lord, as if not knowing the answer, playfully showed the verse to Svarupa, asking him to check whether it had
 any faults, and asked how Rupa had entered His thoughts.
 
-“‘As I understand it,’ replied Svarupa Damodara, ‘You are especially favourable to him. No one is able to understand this
-confidential meaning. I think You have fully endowed him with Your causeless mercy.’ Sri Chaitanya said, ‘I met Rupa
-Gosvami in Prayaga. I could not help granting him My mercy, seeing that he was supremely worthy of it. I endowed him with
-My spiritual power. Now you too must instruct him. In particular, enlighten him in the science of spiritual rasas.’
-Svarupa said, ‘As soon as I saw his unique verse, I understood that You had given him Your special mercy. Seeing the
-effect, one can understand its cause.’” (CC, Antya 1.86–91)
+“Svarupa said, ‘I know: You Yourself have shown him mercy. Otherwise no one could know this meaning. I infer that You showed him mercy earlier.’ The Lord said, ‘He met Me at Prayaga, and knowing him to be a worthy recipient, I gave him My mercy. Then I infused him with power and instructed him. You too should teach him the finer points of rasa.’ Svarupa said, ‘As soon as I saw this verse, I knew that You had shown him mercy. “The cause of a fruit is inferred from the fruit itself.”’” (CC, Antya 1.86–91)
 
 Rupa's poetry disclosed the Lord's most intimate mood — the mood of Radha longing for Vraja; it can be understood only by
 His mercy, and by the effect the cause is known. <!-- F176 F177 I13 -->
@@ -712,9 +670,7 @@ quoting verses from each part. Admiring his transcendental poetry, Ramananda wis
 to the chosen Deity in the second drama, the “Lalita-madhava.” Rupa, humbly speaking of Ramananda's greatness and his own
 insignificance, read the nandi and then the prayer for blessing to his ishtadeva, Sri Krishna Chaitanya:
 
-“The moon-faced Supreme Lord has come as the son of mother Shachi to spread loving devotion to Himself. He is the emperor
-of the whole community of brahmanas. He drives away the darkness of ignorance and governs the mental faculties of each and
-every one. May this waxing moon, Sri Chaitanya, grant us all well-being and happiness.” (CC, Antya 1.177)
+“Rising over the earth, He pours out abundantly the nectar of love for Himself; He reigns as supreme king of the twice-born; He dispels the mass of darkness and has won the minds of the whole world. May that moon, called the son of Shachi, grant me some blessing.” (CC, Antya 1.177)
 <!-- F190 F191 Q40 -->
 
 In His heart the Lord rejoiced, but to teach people He outwardly showed anger:
@@ -822,13 +778,7 @@ Having settled in Vrindavana, the brothers carried out the Lord's command:
 
 Of Rupa's books Kaviraja writes:
 
-“Rupa Gosvami too has many works. The most important of his books is the ‘Bhakti-rasamrita-sindhu.’ In it he described the
-essence of the bhakti-rasas, loving service to Krishna in various spiritual relationships with Him. He also wrote the book
-‘Ujjvala-nilamani,’ by which we can understand the greatness and essence of the loving relationships between Sri Radha and
-Sri Krishna. He also composed two plays: ‘Vidagdha-madhava’ and ‘Lalita-madhava.’ From them we can learn everything about
-the rasas with which Krishna's pastimes are filled. Sri Rupa wrote many books, such as the ‘Dana-keli-kaumudi.’ In all he
-composed more than a hundred thousand verses in Sanskrit. In all his books he described in detail the nature of
-transcendental loving relationships with Krishna in Vrindavana.” (CC, Antya 4.223–226)
+“Rupa Gosani wrote the *Bhakti-rasamrita-sindhu*, the essence of all, in which we find the full exposition of the rasa of devotion to Krishna. He also wrote the book named *Ujjvala-nilamani*, where we find the rasa of the pastimes of Radha and Krishna to its utmost. In the two dramas *Vidagdha-madhava* and *Lalita-madhava* we find all the rasa of Krishna's pastimes. He wrote the *Dana-keli-kaumudi* and other works — a hundred thousand *granthas* in all — and in all those books he examined the rasa of Vraja.” (CC, Antya 4.223–226)
 
 Of the books themselves we shall speak below, in the section “Works.” <!-- F210 F211 Q47 -->
 
@@ -1054,8 +1004,7 @@ time. Sanatana was struck dumb — and understood the rightness of Rupa's compar
 Even when speaking of Sanatana, the Gaudiya acharyas call him again and again “Rupa's elder brother.” So write Kavi
 Karnapura (“Chaitanya-chandrodaya-nataka,” 9.34)[^56], Raghunatha Dasa Gosvami in the “Stavavali” (“Sva-niyama-dashaka,” 1;
 “Manah-shiksha,” 3) and in the “Mukta-charita” (4), Jiva in the closing verse of the “Laghu-toshani,” and Krishnadasa
-Kaviraja, in the verse of obeisance to the shastra-gurus at the beginning of chapters of the Antya-lila, bows “before my
-shastra-gurus: Srila Rupa Gosvami and his elder brother Srila Sanatana Gosvami” (CC, Antya 2.1; likewise Antya 3.1).
+Kaviraja, in the verse of obeisance to the shastra-gurus at the beginning of chapters of the Antya-lila, bows “to Sri Rupa, together with his elder brother, Sanatana” (CC, Antya 2.1; likewise Antya 3.1).
 <!-- F266 -->
 
 Sanatana himself, in the opening verse of his commentary “Dig-darshini” on the “Brihad-bhagavatamrita,” bows to Sri
@@ -1310,9 +1259,7 @@ well), and there he began translating the “Srimad-Bhagavatam.” The very name
 included in Rupa's “Padyavali” — krishna-bhakti-rasa-bhavita (“imbued with the taste of devotion to Krishna”); Krishnadasa
 Kaviraja quotes this verse too:
 
-“The sweetness of bhakti, revealed in an individual relationship with Krishna, cannot be attained even by performing pious
-deeds for millions of births in succession. Only one thing is needed — an ardent desire to obtain such unalloyed devotion
-without delay, wherever it may be found.” (CC, Madhya 8.70; “Padyavali,” 14)
+“A mind imbued with the rasa of devotion to Krishna — buy it at once, if it can be found anywhere! Its only price is eagerness (*laulya*); it cannot be had for the pious deeds of ten million births.” (CC, Madhya 8.70; “Padyavali,” 14)
 
 Bhaktivedanta Swami applied to perfection the principle of yukta-vairagya, renunciation in devotion, formulated by Rupa: to
 accept all that is favourable to service and reject what is unfavourable, engaging everything in Krishna consciousness
@@ -1737,8 +1684,7 @@ doorkeeper Kanchuki, Bhargavi, Gargi, Bakula and others. There is a Bengali vers
 Both plays, the “Dana-keli-kaumudi” and Rupa's rasa-shastras are beyond the reach not only of the ordinary human mind but
 even of the empirical judgement of extraordinary people: one who is in the grip of lust, anger and the other enemies will
 not, by learning alone, touch even the shore of these transcendental oceans. Therefore many who fancied themselves
-panditas, not grasping the meaning of the plays, fell into confusion — especially over the Lord's words to Rupa: “Do not try to take
-Krishna out of Vrindavana, for He never wishes to go beyond it” (CC, Antya 1.66; see above). The true resolution was given by Bhaktivinoda Thakura in an article,
+panditas, not grasping the meaning of the plays, fell into confusion — especially over the Lord's words to Rupa: “Do not take Krishna out of Vraja. Krishna never leaves Vraja to go anywhere else” (CC, Antya 1.66; see above). The true resolution was given by Bhaktivinoda Thakura in an article,
 “Remarks on the Plays ‘Vidagdha-madhava’ and ‘Lalita-madhava’”; he did not publish it in his lifetime, and it was printed
 later in the journal “Gaudiya” (year 20, no. 6). <!-- F493 F494 F495 I35 -->
 
@@ -1919,7 +1865,7 @@ but before the bhanika, the “Bhakti-rasamrita-sindhu” and the “Ujjvala-nil
 “Durgama-sangamani” explains: “in his own work, the ‘Nataka-chandrika.’” The definition of pravartaka that Kaviraja gives is
 also from the “Nataka-chandrika”:
 
-“When the characters appear in the play separately and at the proper time, this is called pravartaka.” (CC, Antya 1.135)
+“An entrance brought on by the arrival of the fitting time is called *pravartaka*.” (CC, Antya 1.135)
 
 Many definitions from the “Nataka-chandrika” are also cited by the commentary on the “Lalita-madhava” that some attribute
 to Jiva Gosvami. <!-- F551 F552 F553 F554 F555 F556 Q134 -->
