@@ -49,3 +49,43 @@
   date_basis: "при жизни Рагхунатхи у Радха-кунды; Виттхаланатха — после 1531"
   themes: [prasada, revelation]
   notes: "«Бхакти-ратнакара» 5.575–581."
+
+- id: ev-nityananda-govardhana-brahmana
+  title: "Нитьянанда у Говардханы является брахману Баладевой и надевает камень Говардханы в золоте"
+  title_en: "At Govardhana Nityananda appears to a brahmana as Baladeva and wears a Govardhana stone set in gold"
+  period: P05
+  order: 1.2
+  date_conf: оценка
+  date_basis: "во время паломничества Нитьянанды (до встречи с Господом)"
+  themes: [revelation, mercy, pilgrimage]
+  notes: "«Бхакти-ратнакара» 5.691–723 (рассказ Рагхавы Пандита)."
+
+- id: ev-sanatana-chakra-tirtha-shila
+  title: "Кришна-пастушок даёт престарелому Санатане шилу со следом Своей стопы для обхода (Чакра-тиртха)"
+  title_en: "Krishna as a cowherd boy gives the aged Sanatana a stone with His footprint to circumambulate (Chakra-tirtha)"
+  period: P15
+  order: 13.5
+  date_conf: оценка
+  date_basis: "в старости Санатаны, живущего у Чакра-тиртхи на Говардхане"
+  themes: [revelation, mercy, deities]
+  notes: "«Бхакти-ратнакара» 5.724–740."
+
+- id: ev-sanatana-braid-serpent
+  title: "Санатана принимает косу девочки за змею и признаёт верным сравнение Рупы"
+  title_en: "Sanatana mistakes a girl's braid for a serpent and accepts Rupa's simile as true"
+  period: P15
+  order: 13.6
+  date_conf: оценка
+  date_basis: "при Рупе и Рагхунатхе у Радха-кунды"
+  themes: [revelation, krishna-lila, learning]
+  notes: "«Бхакти-ратнакара» 5.754–765."
+
+- id: ev-rupa-dana-keli-kaumudi-raghunatha
+  title: "Рупа пишет «Дана-кели-каумуди», чтобы утешить Рагхунатху, обезумевшего от «Лалита-мадхавы»"
+  title_en: "Rupa writes the Dana-keli-kaumudi to console Raghunatha, maddened by the Lalita-madhava"
+  period: P15
+  order: 13.7
+  date_conf: оценка
+  date_basis: "после прихода Рагхунатхи во Врадж (1534)"
+  themes: [separation, learning, ecstasy]
+  notes: "«Бхакти-ратнакара» 5.766–774."
