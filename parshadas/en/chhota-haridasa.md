@@ -113,7 +113,7 @@ follow. Hearing such words, the devotees covered their ears with their hands and
 Mahaprabhu went to perform His midday duties. His actions are very hard to understand. <!-- F23 F24 -->
 
 ## Intercessor and Comforter
-Then the Vaishnavas went to Paramananda Puri, a disciple of Madhavendra Puri. The Lord honoured him deeply as a guru,
+The next day the Vaishnavas went to Paramananda Puri, a disciple of Madhavendra Puri. The Lord honoured him deeply as a guru,
 since he was a godbrother of Ishvara Puri, the Lord's guru, and the devotees hoped that Puri could soften the Lord. He
 came to Mahaprabhu; the Lord bowed to him with reverence, seated him beside Himself and asked why he had come. Puri asked
 Him to show grace to Haridasa.[^11] <!-- F25 -->
@@ -151,7 +151,7 @@ This refers, as Srila Bhaktivinoda Thakura explains, to sadhakas who wore the re
 passed, but the Lord did not relent towards Haridasa. <!-- F29 F30 F31 -->
 
 ## At the Triveni
-On the anniversary of his rejection Haridasa rose before dawn:
+A year later, on the anniversary of his punishment, Haridasa left Puri:
 
 “At the end of the night he offered prostrate obeisances to the Lord and went to Prayaga without saying anything to
 anyone.” (CC, Antya 2.146)
@@ -167,8 +167,8 @@ This body is no phantom shell but a divine, non-material body given to him by th
 had done all his life: he sang for the Lord. Srila Bhaktisiddhanta writes in the “Anubhashya” that in his divine body
 Haridasa served the Lord invisibly with kirtana. <!-- F32 F33 -->
 
-Haridasa's departure cannot be measured by a worldly yardstick, nor taken as a pattern to follow. It was not the suicide
-of a man in despair: the “Charitamrita” speaks of a resolve to attain the Lord's feet; Svarupa, whose judgement the Lord
+Haridasa's departure cannot be measured by a worldly yardstick, nor taken as a pattern to follow. It was not suicide in
+the worldly sense, nor the act of a man in despair: the “Charitamrita” speaks of a resolve to attain the Lord's feet; Svarupa, whose judgement the Lord
 always accepted, flatly rejected the guess of suicide; and the Lord Himself, as we shall see, accepted His singer's
 service. This is the pastime of an eternal associate, enacted by the Lord's will to teach the world, not a rule for the
 sadhaka. <!-- F32 -->
@@ -181,7 +181,7 @@ the devotees were filled with wonder. <!-- F34 -->
 Another day Jagadananda, Svarupa, Govinda, Kashishvara, Shankara, Damodara and Mukunda went to bathe in the sea, and
 some distance away they heard Haridasa singing, as if calling out at the top of his voice. They saw no singer; they only
 heard his wondrous voice. And Govinda and the others began to guess: “Haridasa must have taken poison or something like
-it and killed himself, and by that sin he has become a *brahma-rakshasa*. We see no form; we only hear his song.”[^14]
+it and killed himself, and by that sin he has become a *brahma-rakshasa*. We see no form; we only hear his song” (CC, Antya 2.155–157).[^14]
 Svarupa objected:
 
 “‘This guess is false. From his birth he sang of Krishna and served the Lord; he was a recipient of the Lord's mercy,
@@ -222,8 +222,8 @@ the biographies adds that thus the Junior Haridasa attained the position of Maha
 ## The Lesson
 Krishnadasa Kaviraja briefly mentions this story twice more: in the summary of the Lord's pastimes — “Then the Lord
 punished Chota Haridasa, and Damodara Pandita ‘punished’ the Lord with words” (CC, Madhya 1.259) — and in the summary of
-the Antya-lila, where the second chapter is described as “the lesson the Lord gave Chota Haridasa” (CC, Antya 20.105).
-And so the chapter is titled: “The Lesson Taught by the Punishment of Sri Haridasa.” <!-- F45 -->
+the Antya-lila: the second chapter, he says, tells of “the lesson the Lord gave Chota Haridasa” (CC, Antya 20.105).
+Hence the title of the chapter itself: “The Lesson Taught by the Punishment of Sri Haridasa.” <!-- F45 -->
 
 Mahaprabhu's severity is neither cruelty nor worldly anger. Srila Bhaktisiddhanta Sarasvati explains in the
 “Anubhashya”: the Lord is an ocean of mercy, and He punished His devotees to show people what true devotion is, how high
