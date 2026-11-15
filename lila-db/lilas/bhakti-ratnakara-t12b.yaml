@@ -1,0 +1,292 @@
+# «Бхакти-ратнакара» Нарахари Чакраварти, таранга 12, двустишия 2001–4079 и колофон (brt-7001…).
+# Рамка: Ишана водит Шринивасу, Нароттаму и Рамачандру по Навадвипе и у каждого места рассказывает о лилах
+# Господа и Его спутников (событие рамки — ev-navadvipa-parikrama-ishana, заведено по первой половине таранги).
+# Лилы, рассказанные у мест, — отдельные записи с периодом самой лилы; Ишана и Шриниваса — рассказчик и слушатель.
+
+- id: brt-7001
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2001–2007"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 127.5
+  title: "Шачи упрекает Адвайту за Вишварупу и прощена, коснувшись пыли Его стоп"
+  summary: "В разлуке с Вишварупой Шачи говорит: «У Адвайты нет милосердия — Он забрал двух моих сыновей»; это единственное её оскорбление; Господь, рассказывая о величии матери, не даёт ей премы, пока она, улучив миг, не возлагает на голову пыль со стоп Адвайты; Гаурачандра радуется: на примере матери Он учит мир избегать оскорбления вайшнава."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@shachi", "@advaita", "@mahaprabhu", "@vishvarupa"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Начало рассказа — 12.1998–2000 (предыдущая порция)."
+  themes: [offense, ecstasy, family]
+  event: ev-shachi-receives-prema
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2001", to: "2007"}
+
+- id: brt-7002
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2008–2028"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 127.6
+  title: "Гададхара наряжает Господа; арати Гауранги"
+  summary: "Вернувшись после обхода города с санкиртаной, Господь садится со спутниками, Мукунда поёт о лилах Враджа; по знаку Господа Гададхара (с Гададхарой Дасом и Нарахари) создаёт Ему чарующий наряд, и все, отдавая себя Ему, совершают арати; пада: Адвайта совершает арати, Нитьянанда справа, Шриниваса осыпает гирляндами, поют Мадхава, Васу Гхош и другие, пляшет Вакрешвара, боги ликуют."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita", "@gadadhara-dasa", "@narahari-sarakara", "@mukunda-datta", "@advaita", "@nityananda", "@srivasa", "@madhava-ghosha", "@vasu-ghosha", "@vakreshvara"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-arati-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2008", to: "2028"}
+
+- id: brt-7003
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2029–2044"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 127.65
+  title: "Господь ложится; Гададхара служит Ему ночью"
+  summary: "Накормив Господа, преданные расходятся глубокой ночью; Гададхара готовит ложе, ложится рядом, и Оба до рассвета пьют нектар слов друг друга; утром Гададхара радостно встаёт. Подтверждение — шлоки из «Чайтанья-чариты» Мурари (Гададхара каждый день умащает Господа сандалом, готовит ложе, получает гирлянды с Его тела) и из «Чайтанья-чарита-махакавьи»."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  parallels: "Мурари, «Чайтанья-чарита», пракрама 2; Кави Карнапура, «Чайтанья-чарита-махакавья» (цитаты в тексте)"
+  notes: "Ночное служение Гададхары — без отдельного события; привязано к арати (тот же вечер в рассказе)."
+  themes: [ecstasy]
+  event: ev-gaura-arati-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2029", to: "2044"}
+
+- id: brt-7004
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2045–2054"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 122.4
+  title: "На рассвете Господь даёт горожанам маха-мантру и велит петь киртан в каждом доме"
+  summary: "Горожане сбегаются к Господу; Он благословляет всех бхакти к Кришне, наставляет в маха-мантре «Харе Кришна…», велит идти по домам и повторять её — силой мантры придёт всякое совершенство; взяв в зубы соломинку, просит петь киртан Кришны день и ночь; по Его велению санкиртана начинается в каждом доме."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Пролог к ночному шествию против кази (следующая запись)."
+  themes: [kirtan, mercy]
+  teaching: [holy-name, yuga-dharma]
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2045", to: "2054"}
+
+- id: brt-7005
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2055–2074"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 122.5
+  title: "Кази запрещает киртан; Господь созывает горожан, и отсюда начинается нагара-киртан"
+  summary: "Злой кази запрещает киртан; разгневанный Господь вновь и вновь громко возглашает, велит горожанам в час годхули прийти нарядными; от Его дома впервые начинается шествие: Адвайта, Шривас, Харидас и другие пляшут отдельными сампрадаями, Господь идёт в Своей; Шачи с невесткой изнемогают от премы, глядя на Него; вернувшись, Он сидит с преданными в беседах о Кришне."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@chand-kazi", "@advaita", "@srivasa", "@haridasa-thakura", "@vakreshvara", "@narahari-sarakara", "@gadadhara-pandita", "@murari-gupta", "@mukunda-datta", "@vasu-ghosha", "@govinda-ghosha", "@nityananda", "@shachi", "@vishnupriya"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Путь самого шествия к дому кази Ишана показывает позже — 12.3087–3146 (brt-7091, brt-7092)."
+  themes: [kirtan, muslims]
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2055", to: "2074"}
+
+- id: brt-7006
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2075–2083"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 123
+  title: "Брахман Ванамали видит Гаурачандру Шьямасундарой с флейтой"
+  summary: "Однажды Господь обходит дома вайшнавов и, вернувшись, пляшет в санкиртане; брахман из Ванги Ванамали, чистый в поведении, видит Его тёмным, прекрасным, с флейтой у губ — и изумлён своей удачей."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@vanamali-vipra"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: [revelation, kirtan]
+  bhava: [krishna]
+  event: ev-vanamali-brahmana-vision
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2075", to: "2083"}
+
+- id: brt-7007
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2084–2085"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 90
+  title: "Слава Имени; Господь омывается в Ганге прямо в одежде"
+  summary: "Здесь Господь рассказывал преданным о славе Имени и вместе со спутниками омылся в Ганге прямо в одежде."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  notes: "Упоминание; по ЧЧ Ади 17 — после того как студент назвал славу Имени преувеличением (артхавада)."
+  themes: [offense]
+  teaching: [holy-name]
+  event: ev-blasphemous-student-ganga-bath
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2084", to: "2085"}
+
+- id: brt-7008
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2086–2089"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 82
+  title: "Чудо с манговым деревом"
+  summary: "В блаженстве санкиртаны Господь играючи сажает косточку манго; тотчас вырастает дерево и плодоносит — плоды без кожуры и косточки, подобные нектару, одного хватает, чтобы насытиться; Господь вкушает их и кормит преданных."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: miracle
+  authority: B
+  themes: [revelation, prasada]
+  event: ev-mango-tree
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2086", to: "2089"}
+
+- id: brt-7009
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2090–2091"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 78
+  title: "Господь рассеивает тучи над киртаном"
+  summary: "Во время киртана сгущаются тучи; Господь встаёт с мандирами-тарелочками, и тучи рассеиваются."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu"]
+  places: ["#navadvipa"]
+  kind: miracle
+  authority: B
+  themes: [kirtan, revelation]
+  event: ev-clouds-dispersed-kirtan
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2090", to: "2091"}
+
+- id: brt-7010
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2092–2096"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 128
+  title: "Господь с преданными очищает храм"
+  summary: "Ради наставления людей Господь, независимый Владыка, с заступом на плече и повязкой на поясе вместе с Ачарьей и другими очищает место заступами и мётлами и чистит стены; в подтверждение — шлоки «Кришна-чайтанья-чариты» Мурари (пракрама 2)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@advaita"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "Мурари, «Кришна-чайтанья-чарита», пракрама 2 (цитата в тексте)"
+  themes: [teaching]
+  teaching: [vaishnava]
+  event: ev-cleaning-temple
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2092", to: "2096"}
+
+- id: brt-7011
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2097–2102"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 136
+  title: "«Гопи, гопи»: студент-хулитель и гнев Господа"
+  summary: "Господь повторяет «Гопи, гопи»; студент, не поняв Его настроения, наговаривает на Него; Господь с палкой бросается его бить, тот бежит; сговорившись с другими студентами, он поносит Господа, и от хулы у студентов гибнет разум; Господь не открывает, что у Него на уме."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  notes: "Связь с решением о санньясе (ev-students-offend-sannyasa-resolve) намечена в 12.3501–3502."
+  themes: [offense, sannyasa]
+  bhava: [gopi]
+  event: ev-gopi-bhava-krishna-thief
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2097", to: "2102"}
+
+- id: brt-7012
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2103–2104"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 141
+  title: "Кешава Бхарати приходит в дом Господа"
+  summary: "Однажды сюда пришёл Кешава Бхарати; Господь поклонился ему, и они беседовали наедине — о чём, Ишана не знает; затем Бхарати ушёл."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@keshava-bharati"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: [sannyasa]
+  event: ev-keshava-bharati-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2103", to: "2104"}
+
+- id: brt-7013
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2105–2110"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 136.5
+  title: "Слёзы не дают Господу совершить пуджу Вишну"
+  summary: "Вернувшись от Шриваса и омывшись, Господь идёт на пуджу Вишну, но потоки слёз омывают Его лицо и грудь, и Он не может её совершить; Гададхара [помогает Ему]; погружённый в игры Враджа, Господь непрестанно взывает к Кришне; при этом Он доставляет удовлетворение Вишнуприе."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita", "@vishnupriya"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: lila
+  authority: B
+  themes: [ecstasy]
+  event: ev-lord-cannot-worship-vishnu-tears
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2105", to: "2110"}
+
+- id: brt-7014
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2111–2117"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P15
+  order: 95.7591
+  title: "Ишана выводит Шринивасу из дома Господа к местам за его пределами"
+  summary: "Ишана говорит: «Я показал тебе, какие игры были в этом доме; от созерцания этих мест уходит скорбь. Теперь покажу места за пределами дома, где Господь с детства играл со спутниками, а потом вернусь и снова покажу места в доме», — и выходит со Шринивасой и остальными."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja"]
+  places: ["#navadvipa", "#house-jagannatha-mishra"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage]
+  event: ev-navadvipa-parikrama-ishana
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2111", to: "2117"}
+
+- id: brt-7015
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2118–2126"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P03
+  order: 10
+  title: "Нагой Нимай под кадамбой просит цветов"
+  summary: "Под кадамбой нагой Нимай играет с детьми и просит у всех цветов кадамбы; ему отвечают, что цветов нет, Он полузаплакал; некий удачливый человек, вглядевшись в дерево, находит цветок, вкладывает его в руку Нимаю и берёт Его на колени; под баньяном Шачи, взяв сына на колени, совершает поклонение."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@shachi"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  notes: "Эпизод с цветком кадамбы в известных нам житиях не найден; привязан к общему событию детских игр."
+  themes: [pranks]
+  bhava: [child]
+  event: ev-child-dust-broken-pots
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2118", to: "2126"}
+
+- id: brt-7016
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2127–2132"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P13
+  order: 206
+  title: "Старое дерево ним: из него Гауридас по велению Господа явил два Божества"
+  summary: "У дома стояло старое дерево ним — без плодов, с дивным ароматом цветов и густой тенью; на него не садились птицы; под ним Вишвамбхара играл всё время, пока жил дома; позже по велению Господа Гауридас Пандит явил из этого дерева два Божества — Гауру и Нитая."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gauridasa-pandita", "@nityananda"]
+  places: ["#navadvipa", "#house-jagannatha-mishra", "#ambika-kalna"]
+  kind: lila
+  authority: B
+  notes: "Место Божеств (Амбика) здесь не названо; «два Господа» — Гаура и Нитьянанда (ср. событие о Божествах в доме Гауридаса)."
+  themes: [deities]
+  event: ev-gauridasa-deities
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2127", to: "2132"}
