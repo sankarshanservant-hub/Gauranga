@@ -193,9 +193,9 @@ perishes as a result of such punishment, he attains Vaikuntha.” (CB, Madhya 21
 
 Devananda was overcome with shame. But having received this punishment in words from the Lord, he gained the awakening of
 *sukriti*, and the punishment later became the cause of his good fortune: great good fortune is the Lord's mercy in the
-form of punishment. The biographies explain Vrindavana Dasa's words: whom Vishnu chastises gains liberation; whoever is
-punished by Chaitanya obtains great good, and even one who would perish by His chastisement goes to Vaikuntha. This is
-said of the nature of the Lord's chastisement, which always brings good; Devananda the Lord punished only with words, and
+form of punishment. The biographies explain Vrindavana Dasa's words: whom Vishnu punishes gains liberation; whoever is
+punished by Chaitanya obtains great good, and even one who would perish by His punishment goes to Vaikuntha. This is
+said of the nature of the Lord's punishment, which always brings good; Devananda the Lord punished only with words, and
 it was the beginning of his deliverance. <!-- F23 I1 Q10 -->
 
 “Whoever accepts with faith the punishment of Lord Chaitanya will surely obtain love for Krishna in the future.” (CB,
@@ -302,7 +302,7 @@ are described there.” (CB, Antya 3.514–516) <!-- Q12 -->
 
 And once more the Lord repeated the main point:
 
-“You must explain loving service everywhere in the ‘Srimad-Bhagavatam’ — in its beginning, middle and end. Then you will
+“‘You must explain loving service everywhere in the ‘Srimad-Bhagavatam’ — in its beginning, middle and end. Then you will
 never commit any offence, and you will surely find joy in your heart. ‹…› Now go and teach the ‘Srimad-Bhagavatam,’
 explaining to everyone the bliss of loving service to Krishna.’” (CB, Antya 3.520–523)
 
