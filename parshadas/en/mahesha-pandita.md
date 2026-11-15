@@ -87,7 +87,7 @@ After that Jahnava and Virabhadra told Srinivasa to go to Vrindavana. <!-- F26 -
 
 Later Narottama came to Khardaha. He was on his way to Nilachala; in Saptagrama he had learned that Uddharana Datta had
 already departed from this world, and he went on, visiting the homes of devotees along the road. In the
-“Narottama-vilasa” Narahari Chakravarti tells us that the first to notice him was Mahesha Pandita:
+“Narottama-vilasa” Narahari Chakravarti tells us that the first to notice him were Mahesha Pandita and others:
 
 “At that moment Mahesha Pandita and others, from afar, seeing Narottama, said softly: ‘In separation from Prabhu we have
 become as if dead, yet at the sight of him happiness arises in the heart. Without Prabhu's power this would not be
