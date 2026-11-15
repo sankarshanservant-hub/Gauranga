@@ -4266,6 +4266,10 @@
     "type": "met"
    },
    {
+    "from": "@kashishvara",
+    "type": "served-by"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
    },
@@ -6342,6 +6346,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "deity-served"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -11045,6 +11053,10 @@
     "type": "met"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -12437,6 +12449,10 @@
    },
    {
     "from": "@jahnava",
+    "type": "other"
+   },
+   {
+    "from": "@kashishvara",
     "type": "other"
    },
    {
@@ -15251,6 +15267,10 @@
     "type": "companion"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -16279,6 +16299,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "co-worker"
    },
    {
     "from": "@murari-gupta",
@@ -18279,6 +18303,10 @@
     "type": "guru"
    },
    {
+    "from": "@kashishvara",
+    "type": "guru"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -19143,6 +19171,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "lineage-predecessor"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "other"
    },
    {
     "from": "@nityananda",
@@ -20407,6 +20439,10 @@
     "type": "friend"
    },
    {
+    "from": "@kashishvara",
+    "type": "co-worker"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -20650,6 +20686,10 @@
    },
    {
     "from": "@govinda-servant",
+    "type": "other"
+   },
+   {
+    "from": "@kashishvara",
     "type": "other"
    },
    {
@@ -21620,6 +21660,10 @@
     "type": "siksha-guru"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -22479,6 +22523,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "siksha-guru"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "other"
    },
    {
     "from": "@madhavendra-puri",
@@ -23818,6 +23866,10 @@
   ],
   "related_by": [
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@shachi",
     "type": "other"
    },
@@ -24184,6 +24236,10 @@
     "type": "guru"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@prabodhananda-sarasvati",
     "type": "other"
    },
@@ -24421,6 +24477,10 @@
   "related_by": [
    {
     "from": "@gangadasa-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@kashishvara",
     "type": "other"
    },
    {
@@ -25192,6 +25252,10 @@
    {
     "from": "@govinda-servant",
     "type": "other"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "co-worker"
    },
    {
     "from": "@murari-gupta",
@@ -26456,6 +26520,10 @@
     "type": "other"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@paramananda-puri",
     "type": "other"
    },
@@ -26848,6 +26916,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "other"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "sibling"
    },
    {
     "from": "@nityananda",
@@ -27975,6 +28047,10 @@
     "type": "friend"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@madhvacharya",
     "type": "other"
    },
@@ -28304,6 +28380,217 @@
    "ev-srinivasa-narottama-shyamananda-vrindavana",
    "ev-kaviraja-ordered-to-write-cc",
    "ev-rupa-narayana"
+  ],
+  "summary": "в Кришна-лиле — Бхрингара, слуга Кришны во Вриндаване (ГГД 137) и др.; гуру — Ишвара Пури; происхождение — Чатра (Чатара), Чаудхурипара; уход — Гаура чатурдаши месяца Картика",
+  "card": "parshadas/cards/kashishvara.yaml",
+  "article": {
+   "ru": "parshadas/ru/kashishvara.md",
+   "en": "parshadas/en/kashishvara.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri",
+   "vrindavana"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#chatra?",
+    "conf": "год и день явления источники не называют; шрипат — Чатра (F5), родом из Бенгалии (ЧЧ Антья 7.49, F8); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F5",
+     "F8"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Гаура (шукла) чатурдаши месяца Картика (Дамодара-маса)",
+    "place": "#vrindavana",
+    "conf": "по нашему календарю (ШЧСМ, 541/ru, проверено 2026-11-15) — Гаура Чатурдаши Дамодара-масы (2026 — 23 ноября), так и B 829, T 140; «по другому мнению» (B, T) — раса-пурнима в Ашвину, M 76 — только пурнима Ашвины; год неизвестен; по БР 4.195 — вскоре после сокрытия Господа, до прихода Шринивасы во Врадж (T 205, B 664)",
+    "facts": [
+     "F45",
+     "F46"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Бхрингара, слуга (чета) Кришны во Вриндаване",
+    "source": "ГГД 137",
+    "level": "A",
+    "variants": [
+     "B 827 и M 76 добавляют «носивший воду (из Ямуны)» — смешение с ГГД 139 (⚠3); соответствие Кашишвара = Бхрингара — по порядку пар (T 139, «Анубхашья»)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "сакхи Шаширекха",
+    "source": "ГГД 166 («Шри Кашишвара Госвами»)",
+    "level": "A",
+    "variants": [
+     "T 139 — «некоторые считают»; «Анубхашья» к Ади 8.66 — с «(?)»; ГГД 73 — Шаширекха вошла и в Вакрешвару (⚠4)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "манджари (Кели-кала или Кункума — какое из двух имён его, не сказано)",
+    "source": "«Према-виласа» 18.27–28",
+    "level": "C"
+   }
+  ],
+  "relations": [
+   {
+    "type": "guru",
+    "who": "@ishvara-puri",
+    "note": "Дорогой ученик и слуга; по велению гуру перед его уходом пришёл служить Господу (ЧЧ Ади 10.138–139; Мадхья 10.133–134). = @ishvara-puri F59–F61."
+   },
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Господь принял его служение как слуги Своего гуру, по приказу гуру (ЧЧ Ади 10.140; Мадхья 10.142–147, ⚠Б4); сильный Кашишвара шёл впереди к Джаганнатхе, раздвигая толпу (Ади 10.141–142; Мадхья 12.207, ⚠Б1); во втором круге на Ратха-ятре (Мадхья 13.89); раздавал прасад (Мадхья 12.163–164); Господь — «бесконечно дорогой Кашишваре» (Антья 11.4); послан во Вриндаван с Божеством Гаура-Говинды (БР 2.438–443)."
+   },
+   {
+    "type": "sibling",
+    "who": "@govinda-servant",
+    "note": "Духовный брат (оба — ученики Ишвары Пури); по ГГД 137 — Бхрингара и Бхангура; Говинда пришёл сразу, Кашишвара — позже, обойдя тиртхи (Мадхья 10.134, 10.185; ⚠5); Кашишвара впереди, Говинда позади с сосудом воды (Мадхья 12.207). = @govinda-servant F3, F6–F9, F12, F16, F18."
+   },
+   {
+    "type": "nephew",
+    "who": "@rudra-pandita",
+    "note": "Сын сестры, Рудра (Рудрарама) Пандит из Валлабхапура, установивший Радха-валлабху («Анубхашья» к Ади 8.66, 10.106; ЧЧ Ади 10.106; ГГД 135 — Варутхапа); M 75 сливает Валлабхапур с Чатрой (⚠7)."
+   },
+   {
+    "type": "disciple",
+    "who": "@govinda-gosani",
+    "note": "Ученик, дорогой слуга Божества Говинды (ЧЧ Ади 8.66); M 15 — пуджари Говинды; по «Према-виласе» 18.23–25 — нашёл прибежище у стоп (Бхактакаши или Кашишвары, ⚠14)."
+   },
+   {
+    "type": "other",
+    "who": "@yadavacharya-gosani",
+    "note": "M 15 — ученик Кашишвары; «Према-виласа» 18.24, 25.498 — вместе с Говиндой Госани; по ЧЧ Ади 8.67 — спутник Рупы (⚠14)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-govinda-deity",
+    "note": "Божество — Свой облик, данное Господом (БР 2.439–443); поставлено справа от Говиндадевы (БР 2.443; «Анурага-валли» 4.89; M 76 — «слева», ⚠11); по «Садхана-дипике» (БР 2.444; B 326) — Божество Кришны, стоявшее рядом с Джаганнатхой (⚠11)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@govinda-deity",
+    "note": "Служил Говиндадеве во Вриндаване; по «Анурага-валли» 4.93 (ур. C) — первый адхикари Говинды, назначенный Рупой."
+   },
+   {
+    "type": "other",
+    "who": "@rupa-gosvami",
+    "note": "Послан Господом во Вриндаван по вести Рупы об открытии Говиндадевы, «жить рядом с Рупой и Санатаной» («Садхана-дипика»); «Анурага-валли» 4: Рупа принял его и назначил адхикари, позже — Кришну Пандита."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Господь познакомил с ним Санатану в Пури (ЧЧ Антья 4.110); Санатана славит его в мангалачаранах ХБВ и «Вайшнава-тошани» (B 485, 490). = @sanatana-gosvami F392 и мангалы."
+   },
+   {
+    "type": "other",
+    "who": "@krishna-pandita-govinda",
+    "note": "Преемник в служении Говинде: после его ухода («Нароттама-виласа» 2.243) или ещё при его жизни («Анурага-валли» 4.98) (⚠13)."
+   },
+   {
+    "type": "friend",
+    "who": "@lokanatha",
+    "note": "Названы вместе в мангалах Санатаны; вриндаванский круг (БР 1.202, 1.319–323)."
+   },
+   {
+    "type": "other",
+    "who": "@gopala-bhatta",
+    "note": "БР 1.202: Гопала Бхатта с любовью общался с ним во Вриндаване."
+   },
+   {
+    "type": "friend",
+    "who": "@krishnadasa-brahmachari",
+    "note": "«Према-виласа» 24.183, 25.822 (ур. C): великая дружба."
+   },
+   {
+    "type": "co-worker",
+    "who": "@svarupa-damodara",
+    "note": "Вместе раздавали прасад (ЧЧ Мадхья 12.163–164; Антья 7.66; 11.84); вместе слышали пение Младшего Харидаса (Антья 2.153)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@jagadananda-pandita",
+    "note": "Вместе раздавали прасад; ЧЧ Антья 11.4 — Господь «дорог Кашишваре, Владыка жизни Джагадананды»."
+   },
+   {
+    "type": "co-worker",
+    "who": "@mukunda-datta",
+    "note": "Второй круг на Ратха-ятре: «Кашишвара, Мукунда и все преданные» (ЧЧ Мадхья 13.89)."
+   },
+   {
+    "type": "other",
+    "who": "@nityananda",
+    "note": "Первый круг — Нитьянанда, второй — Кашишвара (ЧЧ Мадхья 13.88–89)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Третий круг — царь со свитой (ЧЧ Мадхья 13.90)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Посоветовал Господу исполнить приказ гуру и принять служение Кашишвары и Говинды (ЧЧ Мадхья 10.142–147)."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Шёл с Господом встречать его и гаудийцев (ЧБ Антья 8.56–61; Мурари 4.17.19); пада Рамананды — «могучий Кашишвара поддерживает Адвайту»."
+   },
+   {
+    "type": "other",
+    "who": "@ramachandra-puri",
+    "note": "После его упрёков Господь велел Говинде и Кашишваре есть в другом месте (ЧЧ Антья 8.58–59). = @ramachandra-puri F23, F29."
+   },
+   {
+    "type": "other",
+    "who": "@shridhara",
+    "note": "ЧБ Мадхья 23.451: плакал, видя милость Господа к Шридхаре (тот ли Кашишвара — ⚠6)."
+   },
+   {
+    "type": "other",
+    "who": "@vakreshvara",
+    "note": "ЧБ Мадхья 1.6: Господь «дорог сердцу Вакрешвары и Кашишвары»; ГГД 73 и 166 — Шаширекха (⚠4). = @vakreshvara F64, F67."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "ЧБ Мадхья 24.3 — Господь «жизнь и богатство Харидаса и Кашишвары»; раздавал прасад на празднике его ухода (ЧЧ Антья 11.84)."
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "Ушёл до прихода Шринивасы во Врадж; Шриниваса оплакивал его (БР 4.195, 4.214; T 205; B 664)."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "«Нароттама-виласа» 2.188–196: Нароттама оплакивал его; во сне утешен четырьмя (Рупа, Санатана, Рагхунатха Бхатта, Кашишвара)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-mishra",
+    "note": "Тёзка, не путать: хозяин дома Господа в Пури (Карнапура 16.33 называет их рядом)."
+   },
+   {
+    "type": "other",
+    "who": "@kashinatha",
+    "note": "Тёзка, не путать: сват второй женитьбы Господа (у M 85 — «Двиджа-Кашишвара», ⚠12)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 8.66, 10.106, Мадхья 10.186: родина, род, Божества Чатры, Рудра Пандит, отождествление вриндаванского Кашишвары Госвами с учеником Ишвары Пури; «сильный Кашишвара с толком применяет силу в служении»."
+   }
   ],
   "related_by": [
    {
@@ -33428,6 +33715,10 @@
     "type": "companion"
    },
    {
+    "from": "@kashishvara",
+    "type": "friend"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -35751,6 +36042,10 @@
     "type": "siksha-disciple"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "met"
    },
@@ -36419,6 +36714,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "siksha-disciple"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "other"
    },
    {
     "from": "@murari-gupta",
@@ -41273,6 +41572,10 @@
     "type": "other"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@madhvacharya",
     "type": "other"
    },
@@ -41619,6 +41922,21 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@rudra-pandita",
+  "ru": "Рудра Пандит (Рудрарама, Валлабхапур)",
+  "en": "Rudra Pandita (Rudrarama, of Vallabhapura)",
+  "note": "сын сестры @kashishvara; установил Радха-валлабху в Валлабхапуре («Анубхашья» к ЧЧ Ади 8.66, 10.106); веточка ветви Шанкараранья (ЧЧ Ади 10.106); ГГД 135 — Варутхапа",
+  "section": "Спутники",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kashishvara",
+    "type": "nephew"
    }
   ]
  },
@@ -44222,6 +44540,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "other"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "other"
    }
   ]
  },
@@ -44284,6 +44606,10 @@
    {
     "from": "@jiva-gosvami",
     "type": "companion"
+   },
+   {
+    "from": "@kashishvara",
+    "type": "friend"
    },
    {
     "from": "@sanatana-gosvami",
@@ -46353,6 +46679,10 @@
     "type": "guest"
    },
    {
+    "from": "@kashishvara",
+    "type": "other"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    },
@@ -46955,6 +47285,10 @@
    "ev-gaura-govinda-kashishvara"
   ],
   "related_by": [
+   {
+    "from": "@kashishvara",
+    "type": "deity-served"
+   },
    {
     "from": "@rupa-gosvami",
     "type": "other"
@@ -47875,6 +48209,10 @@
   ],
   "related_by": [
    {
+    "from": "@kashishvara",
+    "type": "disciple"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "companion"
    }
@@ -47893,6 +48231,12 @@
   "events": [
    "ev-gopala-mathura-vitthaleshvara",
    "ev-kaviraja-ordered-to-write-cc"
+  ],
+  "related_by": [
+   {
+    "from": "@kashishvara",
+    "type": "other"
+   }
   ]
  },
  {
