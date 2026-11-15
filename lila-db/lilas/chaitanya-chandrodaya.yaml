@@ -159,7 +159,7 @@
   scriptures: ["«Вишну-пурана» 1.9.143"]
   event: ev-lakshmipriya-departure
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Царь эпохи, говорят, он жен", to_text: "> он, вечно новый, желая явить урок отре"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Царь эпохи, говорят, Он жен", to_text: "> Он, вечно новый, желая явить урок отре"}
 
 - id: ccd-0009
   source: chaitanya-chandrodaya
@@ -179,7 +179,7 @@
   divergence: "Вишварупа, уходя, передаёт своё сияние (могущество) Парамананде Пури — подробность, которой нет у Мурари и Лочана Даса."
   event: ev-vishvarupa-sannyasa
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **30.** Его старший брат, не взяв себе", to_text: "> передав своё сияние владыке-пури (Пара"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **30.** Его старший брат, не взяв Себе", to_text: "> передав Своё сияние владыке-пури (Пара"}
 
 - id: ccd-0010
   source: chaitanya-chandrodaya
@@ -218,7 +218,7 @@
   themes: [pilgrimage, kirtan]
   event: ev-gaya-ishvara-puri-initiation
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **35.** В самом начале юности он остав", to_text: "Как же жалкому Каме найти тут свой случа"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "> **35.** В самом начале юности Он остав", to_text: "Как же жалкому Каме найти тут свой случа"}
 
 - id: ccd-0012
   source: chaitanya-chandrodaya
@@ -238,7 +238,7 @@
   divergence: "Нет нападения на Нитьянанду и призыва Сударшаны: Господь Сам зовёт братьев и принимает их грехи, давая воду из Своей руки (у Лочана — туласи)."
   event: ev-jagai-madhai-deliverance
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Друг, не говори так!", to_text: "**Кали.** Друг мой, что может сделать ем"}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Адхарма.** Друг, не говори так!", to_text: "**Кали.** Друг мой, что может сделать Ем"}
 
 - id: ccd-0013
   source: chaitanya-chandrodaya
@@ -302,7 +302,7 @@
   teaching: [holy-name, associates-tattva]
   event: ev-srivasa-saved-from-death
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Господь.** Шривас! Помнишь, как я здес", to_text: "**Господь.** Адвайта, это правда."}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "**Господь.** Шривас! Помнишь, как Я здес", to_text: "**Господь.** Адвайта, это правда."}
 
 - id: ccd-0016
   source: chaitanya-chandrodaya
@@ -384,7 +384,7 @@
   scriptures: ["Бхаг. 10.3.31"]
   event: ev-shachi-receives-prema
   verses:
-    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "А сейчас вот что: Шачи-деви, видя в нём ", to_text: "**Адвайта.** Эй, эй, Шривас и другие! В "}
+    - {file: "chaitanya-chandrodaya/ru/01.md", from_text: "А сейчас вот что: Шачи-деви, видя в Нём ", to_text: "**Адвайта.** Эй, эй, Шривас и другие! В "}
 
 - id: ccd-0020
   source: chaitanya-chandrodaya

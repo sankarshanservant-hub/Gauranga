@@ -350,7 +350,7 @@
 
 ## Шриваса спасён от смерти: вещий сон и прибежище в святом имени / Srivasa saved from death: the prophetic dream and refuge in the holy name  `ev-srivasa-saved-from-death`
 
-- chaitanya-chandrodaya (A): Акт 1, главная сцена, ст. 58–60 — [**Господь.** Шривас! Помнишь, как я здес–**Господь.** Адвайта, это правда.](../chaitanya-chandrodaya/ru/01.md?plain=1#L465-L492) · `ccd-0015`
+- chaitanya-chandrodaya (A): Акт 1, главная сцена, ст. 58–60 — [**Господь.** Шривас! Помнишь, как Я здес–**Господь.** Адвайта, это правда.](../chaitanya-chandrodaya/ru/01.md?plain=1#L465-L492) · `ccd-0015`
 - prema-vilasa (D): Виласа 23, 12–58 — [12–58](../prema-vilasa/ru/23.md?plain=1#L38-L176) · `pvl-0190`
 
 ## Адвайта взывает к Кришне явиться (туласи и вода Ганги) / Advaita calls Krishna to descend (with tulasi and Ganga water)  `ev-advaita-calls-lord`
@@ -784,7 +784,7 @@
 - cb (A): Ади 7, 9–33 — [9–33](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L52-L172) · `cb-0050`
 - cb (A): Ади 7, 67–94 — [67–94](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L327-L459) · `cb-0052`
 - cc (A): Ади 15.11–15 — [11–15](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi15.md?plain=1#L123-L163) · `cc-0221`
-- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 30 — [> **30.** Его старший брат, не взяв себе–> передав своё сияние владыке-пури (Пара](../chaitanya-chandrodaya/ru/01.md?plain=1#L241-L242) · `ccd-0009`
+- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 30 — [> **30.** Его старший брат, не взяв Себе–> передав Своё сияние владыке-пури (Пара](../chaitanya-chandrodaya/ru/01.md?plain=1#L241-L242) · `ccd-0009`
 - gaura-krishnodaya (B): Сарга 4, 12–20 — [12–20](../gaura-krishnodaya/ru/04.md?plain=1#L29-L47) · `gkd-0032`
 - jayananda-cm (C): Надия-кханда: «Вишварупа» (цитаты) — [10:1–5:3](../jayananda/ru/05-quotes.md?plain=1#L158-L163) · `jcm-0028`
 - karnapura-ckm (A): Сарга 2, 90–101 — [90–101](../karnapura-mahakavya/ru/02.md?plain=1#L2024-L2261) · `kcm-0017`
@@ -1149,7 +1149,7 @@
 - advaita-prakasha (D): Гл. 13, 65 — [65. А тем врем–65. А тем врем](../advaita-prakash/13.md?plain=1#L69-L69) · `apr-0064`
 - cb (A): Ади 14, 99–108 — [99–106–108](../chaitanya-bhagavata/ed/CB_Adi14.md?plain=1#L462-L501) · `cb-0103`
 - cc (A): Ади 16.20–21 — [20–21](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi16.md?plain=1#L213-L223) · `cc-0231`
-- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 28–29 — [**Адхарма.** Царь эпохи, говорят, он жен–> он, вечно новый, желая явить урок отре](../chaitanya-chandrodaya/ru/01.md?plain=1#L225-L237) · `ccd-0008`
+- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 28–29 — [**Адхарма.** Царь эпохи, говорят, Он жен–> Он, вечно новый, желая явить урок отре](../chaitanya-chandrodaya/ru/01.md?plain=1#L225-L237) · `ccd-0008`
 - gaura-krishnodaya (B): Сарга 5, 6–8 — [6–8](../gaura-krishnodaya/ru/05.md?plain=1#L17-L21) · `gkd-0040`
 - jayananda-cm (C): Надия-кханда: «Весть о кончине Лакшми», «Кончина Лакшми» 1–9 (цитаты) — [29:1–29:1](../jayananda/ru/05-quotes.md?plain=1#L447-L447); [30:1–3:9](../jayananda/ru/05-quotes.md?plain=1#L454-L474) · `jcm-0044`
 - karnapura-ckm (A): Сарга 3, 96–118 — [96–118](../karnapura-mahakavya/ru/03.md?plain=1#L2117-L2600) · `kcm-0028`
@@ -1263,7 +1263,7 @@
 - advaita-prakasha (D): Гл. 14, 1–19 — [1. Слава, слав–19. Увидев ско](../advaita-prakash/14.md?plain=1#L5-L23) · `apr-0068`
 - cb (A): Ади 17, 80–112 — [80–112](../chaitanya-bhagavata/ed/CB_Adi17.md?plain=1#L400-L560) · `cb-0124`
 - cc (A): Ади 17.8–9 — [8–9](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi17.md?plain=1#L93-L103) · `cc-0244`
-- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 35–37 — [> **35.** В самом начале юности он остав–Как же жалкому Каме найти тут свой случа](../chaitanya-chandrodaya/ru/01.md?plain=1#L276-L290) · `ccd-0011`
+- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 35–37 — [> **35.** В самом начале юности Он остав–Как же жалкому Каме найти тут свой случа](../chaitanya-chandrodaya/ru/01.md?plain=1#L276-L290) · `ccd-0011`
 - jayananda-cm (C): Надия-кханда: «Встреча с Ишварой Пури» (цитаты) — [18:1–18:1](../jayananda/ru/05-quotes.md?plain=1#L286-L286) · `jcm-0034`
 - karnapura-ckm (A): Сарга 4, 56–61 — [56–61](../karnapura-mahakavya/ru/04.md?plain=1#L1270-L1381) · `kcm-0036`
 - lochana-cm (B): Ади-кханда, «Путешествие в Гаю», 58–75 — [58–75+2](../lochana/ru/23.md?plain=1#L187-L244) · `lcm-0093`
@@ -1944,7 +1944,7 @@
 - bhakti-ratnakara (B): Таранга 2, 265–295 — [265–295](../bhakti-ratnakara/ru/02.md?plain=1#L797-L887) · `brt-0052`
 - cb (A): Мадхья 13, 31–113 — [31–113](../chaitanya-bhagavata/ed/CB_Madhya13.md?plain=1#L161-L559) · `cb-1082`
 - cc (A): Ади 17.17 — [17–17](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi17.md?plain=1#L183-L183) · `cc-0249`
-- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 38 — [**Адхарма.** Друг, не говори так!–**Кали.** Друг мой, что может сделать ем](../chaitanya-chandrodaya/ru/01.md?plain=1#L292-L299) · `ccd-0012`
+- chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 38 — [**Адхарма.** Друг, не говори так!–**Кали.** Друг мой, что может сделать Ем](../chaitanya-chandrodaya/ru/01.md?plain=1#L292-L299) · `ccd-0012`
 - gaura-krishnodaya (B): Сарга 5, 36 — [36–36](../gaura-krishnodaya/ru/05.md?plain=1#L81-L81) · `gkd-0048`
 - jayananda-cm (C): Начало Вайрагья-кханды: сказание о Джагае и Мадхае (рукопись № 546; цитаты 33–37) — [5:5–4:7](../jayananda/ru/06-manuscripts.md?plain=1#L171-L177); [32:1–32:1](../jayananda/ru/05-quotes.md?plain=1#L513-L513); [33:1–9:7](../jayananda/ru/05-quotes.md?plain=1#L520-L538); [34:1–14:6](../jayananda/ru/05-quotes.md?plain=1#L545-L560); [35:1–35:1](../jayananda/ru/05-quotes.md?plain=1#L567-L567); [36:1–23:2](../jayananda/ru/05-quotes.md?plain=1#L574-L577) · `jcm-0047`
 - lochana-cm (B): Мадхья-кханда, «Игры с преданными и спасение Джагая и Мадхая», 80–126 — [80–126](../lochana/ru/30.md?plain=1#L274-L475) · `lcm-0139`
@@ -2064,7 +2064,7 @@
 - cb (A): Мадхья 22, 13–36 — [13–36](../chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L72-L187) · `cb-2038`
 - cb (A): Мадхья 22, 37–59 — [37–59](../chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L192-L302) · `cb-2039`
 - cc (A): Ади 17.71 — [71–71](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi17.md?plain=1#L725-L725) · `cc-0261`
-- chaitanya-chandrodaya (A): Акт 1, главная сцена, ст. 67–70 — [А сейчас вот что: Шачи-деви, видя в нём –**Адвайта.** Эй, эй, Шривас и другие! В ](../chaitanya-chandrodaya/ru/01.md?plain=1#L556-L599) · `ccd-0019`
+- chaitanya-chandrodaya (A): Акт 1, главная сцена, ст. 67–70 — [А сейчас вот что: Шачи-деви, видя в Нём –**Адвайта.** Эй, эй, Шривас и другие! В ](../chaitanya-chandrodaya/ru/01.md?plain=1#L556-L599) · `ccd-0019`
 
 ## Арати Гауранги в Навадвипе: Адвайта совершает арати, спутники поют и танцуют / Arati of Gauranga in Navadvipa: Advaita performs arati, the associates sing and dance  `ev-gaura-arati-navadvipa` (1509–1510, возраст 23–24, оценка)
 
