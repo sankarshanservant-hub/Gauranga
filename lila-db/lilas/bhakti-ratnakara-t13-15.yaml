@@ -303,7 +303,7 @@
   order: 96.3
   title: "Женитьба Вирачандры на Шримати и Нараяни, дочерях Ядунанданы Ачарьи из Джхаматпура"
   summary: "Странствуя по селениям, Джахнава приходит в Джхаматпур близ Раджбалхата, в дом слуги, где живёт брахман Ядунандана Ачарья, ставший по её милости преданным; по её желанию он отдаёт обеих дочерей, Шримати и Нараяни, Вирачандре; Вирачандра делает Ядунандану учеником, Джахнава принимает в ученицы обеих невест; Вирачандра, неотличный от Чайтаньи (по ГГД — Пайодхишайи, вьюха Санкаршаны), возвращается в Кхардаху, Васудха радуется невесткам."
-  persons: ["@virabhadra", "@jahnava", "@yadunandana-acharya-jhamatpur", "@srimati-virachandra", "@narayani-virachandra", "@vasudha", "@mahaprabhu"]
+  persons: ["@virabhadra", "@jahnava", "@yadunandana-acharya-jhamatpur", "@shrimati-virachandra", "@narayani-virachandra", "@vasudha", "@mahaprabhu"]
   places: ["#jhamatpur", "#kharadaha"]
   kind: post-advent
   authority: B

@@ -155,6 +155,7 @@
 
 - advaita-prakasha (D): Гл. 1, 82–88 — [82. И вот у пр–88. Уповая на с](../advaita-prakash/01.md?plain=1#L86-L92) · `apr-0004`
 - bhakti-ratnakara (B): Таранга 5, 2057–2069 — [2057–2069](../bhakti-ratnakara/ru/05.md?plain=1#L6695-L6731) · `brt-2004`
+- bhakti-ratnakara (B): Таранга 12, 1750–1768 — [1750–1768](../bhakti-ratnakara/ru/12.md?plain=1#L5718-L5791) · `brt-6080`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (782–787) — [782–787](../prema-vilasa/ru/25.md?plain=1#L2418-L2433) · `pvl-0206`
 - prema-vilasa (C): Виласа 24, 35–62 — [35–62](../prema-vilasa/ru/24.md?plain=1#L107-L188) · `pvl-0241`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 446 (6.2, № 24) «মাঘ সপ্তমী শুক্লপক্ষ» = БР 12 (изд. 1912, с. 829; изд. 1960, ст. 1763–1766) — [14.1–14.4](../padas/ru/25.md?plain=1#L368-L377) · `pad-0554`
@@ -194,6 +195,7 @@
 
 - advaita-prakasha (D): Гл. 4, 12–37 — [12. Затем сын Л–37. Через неко](../advaita-prakash/04.md?plain=1#L16-L41) · `apr-0011`
 - bhakti-ratnakara (B): Таранга 5, 2083–2092 — [2083–2092](../bhakti-ratnakara/ru/05.md?plain=1#L6774-L6801) · `brt-2007`
+- bhakti-ratnakara (B): Таранга 12, 1769–1777 — [1769–1777](../bhakti-ratnakara/ru/12.md?plain=1#L5794-L5818) · `brt-6081`
 - advaita-prakasha (D): Гл. 4, 77–88 — [77. Однажды Шр–88. Затем Шри А](../advaita-prakash/04.md?plain=1#L81-L92) · `apr-0013`
 - advaita-prakasha (D): Гл. 4, 105–145 — [105. Увидев та–145. Осмотрев м](../advaita-prakash/04.md?plain=1#L109-L149) · `apr-0015`
 
@@ -282,6 +284,7 @@
 ## Женитьба Адвайты на Сите и Шри / Advaita marries Sita and Shri  `ev-advaita-marries-sita`
 
 - advaita-prakasha (D): Гл. 8, 1–48, 101–111 — [1. Слава, слав–48. Он — праве](../advaita-prakash/08.md?plain=1#L5-L52); [101. Шри Адвай–111. Этот прас](../advaita-prakash/08.md?plain=1#L105-L115) · `apr-0026`
+- bhakti-ratnakara (B): Таранга 12, 1778–1787 — [1778–1787](../bhakti-ratnakara/ru/12.md?plain=1#L5821-L5849) · `brt-6082`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (856–866) — [856–866](../prema-vilasa/ru/25.md?plain=1#L2640-L2670) · `pvl-0223`
 - prema-vilasa (C): Виласа 24, 321–353 — [321–353](../prema-vilasa/ru/24.md?plain=1#L967-L1063) · `pvl-0258`
 
@@ -365,6 +368,7 @@
 ## Адвайта взывает к Кришне явиться (туласи и вода Ганги) / Advaita calls Krishna to descend (with tulasi and Ganga water)  `ev-advaita-calls-lord`
 
 - advaita-prakasha (D): Гл. 9, 177–192 — [177. В общении–192. Уповая на](../advaita-prakash/09.md?plain=1#L181-L196) · `apr-0035`
+- bhakti-ratnakara (B): Таранга 12, 1788–1793 — [1788–1793](../bhakti-ratnakara/ru/12.md?plain=1#L5852-L5867) · `brt-6083`
 - cb (A): Ади 2, 78–95 — [78–95](../chaitanya-bhagavata/ed/CB_Adi02.md?plain=1#L389-L474) · `cb-0015`
 - cc (A): Ади 3.91–111 — [91–111](../chaitanya-charitamrita/ed/vcd/CC_Adi03.md?plain=1#L1009-L1216) · `cc-0038`
 - cc (A): Ади 4.269–270 — [269–270](../chaitanya-charitamrita/ed/vcd/CC_Adi04.md?plain=1#L2889-L2899) · `cc-0053`
@@ -415,6 +419,7 @@
 
 - advaita-prakasha (D): Гл. 10, 1–20 — [1. Слава, слав–20. Оставь ско](../advaita-prakash/10.md?plain=1#L5-L24) · `apr-0036`
 - advaita-prakasha (D): Гл. 10, 51–53 — [51. Через неск–53. С рождения](../advaita-prakash/10.md?plain=1#L55-L57) · `apr-0039`
+- bhakti-ratnakara (B): Таранга 12, 851–869 — [851–869](../bhakti-ratnakara/ru/12.md?plain=1#L2584-L2639) · `brt-6018`
 - cb (A): Ади 2, 136–143 — [136–143](../chaitanya-bhagavata/ed/CB_Adi02.md?plain=1#L670-L705) · `cb-0019`
 - cc (A): Ади 13.72–79 — [72–79](../chaitanya-charitamrita/ed/vcd/CC_Adi13.md?plain=1#L727-L801) · `cc-0191`
 - gaura-krishnodaya (B): Сарга 1, 58–60 — [58–60](../gaura-krishnodaya/ru/01.md?plain=1#L129-L135) · `gkd-0007`
@@ -431,6 +436,7 @@
 - bhakti-ratnakara (B): Таранга 11, 416–457 — [416–457](../bhakti-ratnakara/ru/11.md?plain=1#L1252-L1375) · `brt-5067`
 - advaita-prakasha (D): Гл. 14, 65–70 — [65. Теперь пос–70. Тот, кто в](../advaita-prakash/14.md?plain=1#L69-L74) · `apr-0072`
 - bhakti-ratnakara (B): Таранга 11, 458–474 — [458–474](../bhakti-ratnakara/ru/11.md?plain=1#L1378-L1426) · `brt-5068`
+- bhakti-ratnakara (B): Таранга 12, 1704–1723 — [1704–1723](../bhakti-ratnakara/ru/12.md?plain=1#L5549-L5628) · `brt-6077`
 - cb (A): Ади 2, 127–135 — [127–135](../chaitanya-bhagavata/ed/CB_Adi02.md?plain=1#L628-L665) · `cb-0018`
 - cb (A): Ади 9, 1–7 — [1–7](../chaitanya-bhagavata/ed/CB_Adi09.md?plain=1#L12-L42) · `cb-0064`
 - prema-vilasa (C): Виласа 7, 29–34 — [29–34](../prema-vilasa/ru/07.md?plain=1#L89-L104) · `pvl-0039`
@@ -469,6 +475,7 @@
 ## Адвайта поклоняется лону Шачи / Advaita worships Shachi's womb  `ev-advaita-worships-shachi-womb`
 
 - advaita-prakasha (D): Гл. 10, 59–70 — [59. Однажды Го–70. Услышав эт](../advaita-prakash/10.md?plain=1#L63-L74) · `apr-0041`
+- bhakti-ratnakara (B): Таранга 12, 870–879 — [870–879](../bhakti-ratnakara/ru/12.md?plain=1#L2642-L2669) · `brt-6019`
 - lochana-cm (B): Ади-кханда, «Джанма-лила», 14–31 — [14–31](../lochana/ru/09.md?plain=1#L50-L101) · `lcm-0033`
 
 ## Хвала богов Господу в лоне Шачи / The gods praise the Lord in Shachi's womb  `ev-gods-praise-lord-in-womb`
@@ -489,6 +496,7 @@
 
 - gaura-krishnodaya (B): Сарга 2, 9–18 — [9–18](../gaura-krishnodaya/ru/02.md?plain=1#L23-L43) · `gkd-0010`
 - advaita-prakasha (D): Гл. 10, 77–93 — [77. У Самого Б–93. При явлени](../advaita-prakash/10.md?plain=1#L81-L97) · `apr-0042`
+- bhakti-ratnakara (B): Таранга 12, 880–943 — [880–943](../bhakti-ratnakara/ru/12.md?plain=1#L2675-L2877) · `brt-6020`
 - cb (A): Ади 1, 92–96 — [92–96](../chaitanya-bhagavata/ed/CB_Adi01.md?plain=1#L499-L519) · `cb-0006`
 - cb (A): Ади 2, 195–210 — [195–210](../chaitanya-bhagavata/ed/CB_Adi02.md?plain=1#L961-L1040) · `cb-0022`
 - cc (A): Ади 3.29–34 — [29–34](../chaitanya-charitamrita/ed/vcd/CC_Adi03.md?plain=1#L325-L375) · `cc-0033`
@@ -522,6 +530,10 @@
 - padas (C): Кану Дас, ГПТ1 с. 449 (№ 33) «চৌদ্দশত সাত শাকে» — [4.1–4.5](../padas/ru/15.md?plain=1#L113-L125) · `pad-0317`
 - padas (C): Баларама Дас, ГПТ1 с. 450 (№ 36) «ভাবের আবেশে বহু সীতাপতি মোর পহুঁ» — [22.1–22.4](../padas/ru/13.md?plain=1#L617-L626) · `pad-0281`
 - advaita-prakasha (D): Гл. 10, 94–95 — [94. Шри Адвайт–95. Харидас и д](../advaita-prakash/10.md?plain=1#L98-L99) · `apr-0042b`
+
+## Брахман — почитатель Рамы в час явления Господа видит в Нём Раму / A brahmana worshipper of Rama sees the newborn Lord as Rama  `ev-rama-worshipper-sees-newborn-as-rama` (1486–1486, возраст 0–0, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 599–624 — [599–624](../bhakti-ratnakara/ru/12.md?plain=1#L1828-L1903) · `brt-6013`
 
 ## Ниламбара Чакраварти предсказывает величие новорождённого / Nilambara Chakravarti foretells the newborn's greatness  `ev-nilambara-prediction` (1486–1486, возраст 0–0, вероятно)
 
@@ -557,6 +569,7 @@
 ## Празднование рождения; имя Нимай / Birth celebrations; the name Nimai  `ev-birth-festival-nimai-name` (1486–1486, возраст 0–0, вероятно)
 
 - advaita-prakasha (D): Гл. 10, 127–132 — [127. Брахманы и–132. Сказав та](../advaita-prakash/10.md?plain=1#L131-L136) · `apr-0044`
+- bhakti-ratnakara (B): Таранга 12, 944–947 — [944–947](../bhakti-ratnakara/ru/12.md?plain=1#L2880-L2889) · `brt-6021`
 - cb (A): Ади 3, 1–8 — [1–8](../chaitanya-bhagavata/ed/CB_Adi03.md?plain=1#L12-L38) · `cb-0024`
 - cc (A): Ади 13.108–110 — [108–110](../chaitanya-charitamrita/ed/vcd/CC_Adi13.md?plain=1#L1157-L1189) · `cc-0196`
 - gaura-krishnodaya (B): Сарга 2, 40–46 — [40–46](../gaura-krishnodaya/ru/02.md?plain=1#L89-L101) · `gkd-0014`
@@ -574,6 +587,7 @@
 
 ## Младенец Нимай на руках у Шачи / Baby Nimai in Shachi's arms  `ev-infant-with-shachi` (1486–1487, возраст 0–1, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 965–981 — [965–981](../bhakti-ratnakara/ru/12.md?plain=1#L2944-L2994) · `brt-6024`
 - jayananda-cm (C): Надия-кханда: «Младенчество Нимаи» (Г. Райчаудхури) — [1–2–9](../jayananda/ru/05-quotes.md?plain=1#L90-L110) · `jcm-0020`
 - karnapura-ckm (A): Сарга 2, 45–55 — [45–55](../karnapura-mahakavya/ru/02.md?plain=1#L1019-L1249) · `kcm-0010`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 93–102 — [93–102](../lochana/ru/09.md?plain=1#L326-L353) · `lcm-0037`
@@ -592,6 +606,7 @@
 
 ## Младенец плачет и затихает, услышав имя Хари / The Infant cries and is stilled on hearing the name of Hari  `ev-crying-stops-at-holy-name` (1486–1487, возраст 0–1, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 948–952 — [948–952](../bhakti-ratnakara/ru/12.md?plain=1#L2892-L2904) · `brt-6022`
 - cb (A): Ади 4, 3–9 — [3–9](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L22-L52) · `cb-0030`
 - cc (A): Ади 13.22–25 — [22–25](../chaitanya-charitamrita/ed/vcd/CC_Adi13.md?plain=1#L233-L263) · `cc-0182`
 - gaura-krishnodaya (B): Сарга 3, 1–2 — [1–2](../gaura-krishnodaya/ru/03.md?plain=1#L7-L9) · `gkd-0017`
@@ -603,6 +618,7 @@
 
 - gaura-krishnodaya (B): Сарга 2, 47–51 — [47–51](../gaura-krishnodaya/ru/02.md?plain=1#L103-L113) · `gkd-0015`
 - advaita-prakasha (D): Гл. 10, 140–153 — [140. Услышав о–153. В должное](../advaita-prakash/10.md?plain=1#L144-L157) · `apr-0046`
+- bhakti-ratnakara (B): Таранга 12, 953–964 — [953–964](../bhakti-ratnakara/ru/12.md?plain=1#L2907-L2941) · `brt-6023`
 - cb (A): Ади 4, 42–62 — [42–62](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L214-L315) · `cb-0035`
 - cc (A): Ади 14.12–20 — [12–20](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L133-L217) · `cc-0203`
 - jayananda-cm (C): Надия-кханда: «Первые месяцы младенца» (Г. Райчаудхури) — [6:1–2:6](../jayananda/ru/05-quotes.md?plain=1#L68-L83) · `jcm-0019`
@@ -613,6 +629,7 @@
 
 ## Первые шаги Вишвамбхары / Vishvambhara's first steps  `ev-first-steps` (1486–1487, возраст 0–1, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 986–999 — [986–999](../bhakti-ratnakara/ru/12.md?plain=1#L3009-L3050) · `brt-6026`
 - cb (A): Ади 4, 77–83 — [77–83](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L390-L420) · `cb-0037`
 - karnapura-ckm (A): Сарга 2, 63–67 — [63–67](../karnapura-mahakavya/ru/02.md?plain=1#L1427-L1517) · `kcm-0013`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 109–120 — [109–120](../lochana/ru/10.md?plain=1#L23-L56) · `lcm-0039`
@@ -623,8 +640,17 @@
 
 ## Дитя ложится на змея во дворе (Ананта служит Господу) / The Child lies down on a snake in the courtyard (Ananta serves the Lord)  `ev-child-lies-on-snake` (1486–1487, возраст 0–1, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 982–985 — [982–985](../bhakti-ratnakara/ru/12.md?plain=1#L2997-L3006) · `brt-6025`
 - cb (A): Ади 4, 63–76 — [63–76](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L320-L385) · `cb-0036`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 73 (2.2, № 33) «নিমাই চঞ্চল খেপা কিছুই না মানে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 10 — [22.1–22.6](../padas/ru/19.md?plain=1#L587-L602) · `pad-0409`
+
+## Шачи рассказывает Младенцу о Кришне и Камсе: «А кто остался — того Я уничтожу!» / Shachi tells the Infant of Krishna and Kamsa: 'Whoever is left, I will destroy!'  `ev-infant-anger-kamsa-story` (1486–1487, возраст 0–1, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 1020–1024 — [1020–1024](../bhakti-ratnakara/ru/12.md?plain=1#L3131-L3143) · `brt-6029`
+
+## Младенец во сне успокаивает Шиву и Брахму: «Опьяню живых существ санкиртаной» / The Infant, in sleep, reassures Shiva and Brahma: 'I will intoxicate the living beings with sankirtana'  `ev-infant-sleep-talk-gods` (1486–1487, возраст 0–1, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 1025–1027 — [1025–1027](../bhakti-ratnakara/ru/12.md?plain=1#L3146-L3152) · `brt-6030`
 
 ## Колыбельная Шачи / Shachi's lullaby  `ev-shachi-lullaby` (1486–1487, возраст 0–1, оценка)
 
@@ -640,6 +666,7 @@
 
 ## Боги поклоняются младенцу; звон нупуров на босых ногах / The gods worship the infant; anklet bells on bare feet  `ev-gods-worship-infant-anklets` (1486–1487, возраст 0–1, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1028–1033 — [1028–1033](../bhakti-ratnakara/ru/12.md?plain=1#L3155-L3170) · `brt-6031`
 - karnapura-ckm (A): Сарга 2, 86–89 — [86–89](../karnapura-mahakavya/ru/02.md?plain=1#L1934-L2003) · `kcm-0016`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 125–153 — [125–153](../lochana/ru/10.md?plain=1#L92-L176) · `lcm-0041`
 - murari-kcc (A): Пракрама 1, сарга 6, шлоки 31–35 — [31–35](../murari-gupta/ru/1.06.md?plain=1#L65-L73) · `mkc-0026`
@@ -647,11 +674,14 @@
 
 ## Младенец ест глину: спор с матерью о пище / The Infant eats clay: the argument with His mother about food  `ev-eating-clay` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1018–1019 — [1018–1019](../bhakti-ratnakara/ru/12.md?plain=1#L3125-L3128) · `brt-6028`
 - cc (A): Ади 14.24–36 — [24–36](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L257-L377) · `cc-0205`
 - gaura-krishnodaya (B): Сарга 3, 3–13 — [3–13](../gaura-krishnodaya/ru/03.md?plain=1#L11-L31) · `gkd-0018`
 
 ## Воры уносят Нимая ради украшений и, заблудившись, возвращают Его к дому / Thieves carry Nimai off for His ornaments and, bewildered, bring Him back home  `ev-thieves-carry-off-nimai` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1077–1080 — [1077–1080](../bhakti-ratnakara/ru/12.md?plain=1#L3309-L3318) · `brt-6037`
+- bhakti-ratnakara (B): Таранга 12, 2142–2143 — [2142–2143](../bhakti-ratnakara/ru/12.md?plain=1#L6981-L6984) · `brt-7018`
 - cb (A): Ади 4, 108–143 — [108–143](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L545-L720) · `cb-0040`
 - cc (A): Ади 14.38 — [38–38](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L397-L397) · `cc-0207`
 - gaura-krishnodaya (B): Сарга 3, 24–29 — [24–29](../gaura-krishnodaya/ru/03.md?plain=1#L55-L65) · `gkd-0020`
@@ -663,6 +693,8 @@
 
 ## Брахман-паломник: Дитя съедает его подношение / The pilgrim brahmana: the Child eats his offering  `ev-tirthika-brahmana` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1084–1110 — [1084–1110](../bhakti-ratnakara/ru/12.md?plain=1#L3330-L3408) · `brt-6039`
+- bhakti-ratnakara (B): Таранга 12, 2144 — [2144–2144](../bhakti-ratnakara/ru/12.md?plain=1#L6987-L6987) · `brt-7019`
 - cb (A): Ади 5, 16–119 — [16–119](../chaitanya-bhagavata/ed/CB_Adi05.md?plain=1#L88-L595) · `cb-0042`
 - cc (A): Ади 14.37 — [37–37](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L387-L387) · `cc-0206`
 - gaura-krishnodaya (B): Сарга 3, 14–23 — [14–23](../gaura-krishnodaya/ru/03.md?plain=1#L33-L53) · `gkd-0019`
@@ -672,6 +704,7 @@
 ## Детские шалости: игры в пыли и разбитые горшки / Childhood pranks: playing in the dust and the broken pots  `ev-child-dust-broken-pots` (1487–1491, возраст 1–5, оценка)
 
 - cb (A): Ади 4, 30–41 — [30–31–41](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L159-L209) · `cb-0034`
+- bhakti-ratnakara (B): Таранга 12, 2118–2126 — [2118–2126](../bhakti-ratnakara/ru/12.md?plain=1#L6909-L6933) · `brt-7015`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 154–174 — [154–174](../lochana/ru/10.md?plain=1#L179-L239) · `lcm-0042`
 - murari-kcc (A): Пракрама 1, сарга 6, шлоки 9–12 — [9–12](../murari-gupta/ru/1.06.md?plain=1#L21-L27) · `mkc-0023`
 
@@ -685,6 +718,8 @@
 
 ## Проказы Нимая в домах Навадвипы; боится Он лишь Вишварупы / Nimai's pranks in the houses of Navadvipa; He fears only Vishvarupa  `ev-nimai-pranks-neighbours` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1081–1083 — [1081–1083](../bhakti-ratnakara/ru/12.md?plain=1#L3321-L3327) · `brt-6038`
+- bhakti-ratnakara (B): Таранга 12, 2133–2141 — [2133–2141](../bhakti-ratnakara/ru/12.md?plain=1#L6954-L6978) · `brt-7017`
 - cb (A): Ади 4, 100–107 — [100–107](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L505-L540) · `cb-0039`
 - cb (A): Ади 7, 1–8 — [1–8](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L12-L47) · `cb-0049`
 - cc (A): Ади 14.40–44 — [40–44](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L417-L457) · `cc-0209`
@@ -698,6 +733,7 @@
 
 ## Господь среди выброшенных горшков: наставление о чистом и нечистом / The Lord among discarded pots: teaching on pure and impure  `ev-discarded-pots-teaching` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1057–1067 — [1057–1067](../bhakti-ratnakara/ru/12.md?plain=1#L3249-L3279) · `brt-6033`
 - cc (A): Ади 14.71–75 — [71–75](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L731-L771) · `cc-0213`
 - gaura-krishnodaya (B): Сарга 3, 54–59 — [54–59](../gaura-krishnodaya/ru/03.md?plain=1#L117-L129) · `gkd-0025`
 - jayananda-cm (C): Надия-кханда, разд. 11 (фрагм. 6); цит. «Детские проказы» 2–4 — [6:1–4:17](../jayananda/ru/01-fragments.md?plain=1#L397-L445); [2–3–4:4](../jayananda/ru/05-quotes.md?plain=1#L120-L122) · `jcm-0022`
@@ -717,6 +753,7 @@
 
 ## Девочки у Ганги поклоняются Господу вместо богов / The girls at the Ganga worship the Lord instead of the gods  `ev-girls-worship-lord-ganga` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2152–2155 — [2152–2155](../bhakti-ratnakara/ru/12.md?plain=1#L7011-L7020) · `brt-7022`
 - cc (A): Ади 14.48–61 — [48–61](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L497-L627) · `cc-0211`
 - gaura-krishnodaya (B): Сарга 3, 38–46 — [38–46](../gaura-krishnodaya/ru/03.md?plain=1#L85-L101) · `gkd-0023`
 
@@ -726,6 +763,7 @@
 
 ## Кирпич, брошенный в мать, и два кокоса / The brick thrown at His mother and the two coconuts  `ev-brick-two-coconuts` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1068–1069 — [1068–1069](../bhakti-ratnakara/ru/12.md?plain=1#L3282-L3285) · `brt-6034`
 - cc (A): Ади 14.45–47 — [45–47](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L467-L487) · `cc-0210`
 - gaura-krishnodaya (B): Сарга 3, 34–37 — [34–37](../gaura-krishnodaya/ru/03.md?plain=1#L77-L83) · `gkd-0022`
 - jayananda-cm (C): Надия-кханда: «Детские проказы» 1, 5–6 (цитаты) — [7:1–7:1](../jayananda/ru/05-quotes.md?plain=1#L117-L117); [4:5–4:6](../jayananda/ru/05-quotes.md?plain=1#L125-L128) · `jcm-0023`
@@ -739,40 +777,49 @@
 
 ## Нимай просит луну с неба / Nimai asks for the moon  `ev-nimai-asks-for-moon` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1116–1118 — [1116–1118](../bhakti-ratnakara/ru/12.md?plain=1#L3426-L3432) · `brt-6041`
 - cb (A): Ади 6, 9–15 — [9–15](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L52-L79) · `cb-0046`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 262–281 — [262–281](../lochana/ru/11.md?plain=1#L169-L226) · `lcm-0048`
 - padas (C): Васу Гхош, ГПТ1 с. 63–64 (№ 7) «পূর্ণিমা-রজনী চাঁদ গগনে উদয়» — [5.1–5.5](../padas/ru/12.md?plain=1#L148-L160) · `pad-0235`
 
 ## Щенок Нимая и его освобождение / Nimai's puppy and its deliverance  `ev-puppy-deliverance` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1070–1072 — [1070–1072](../bhakti-ratnakara/ru/12.md?plain=1#L3288-L3294) · `brt-6035`
 - jayananda-cm (C): Надия-кханда, разд. 21 (фрагм. 8) — [8:1–5:16](../jayananda/ru/01-fragments.md?plain=1#L493-L538) · `jcm-0025`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 282–322 — [282–322](../lochana/ru/11.md?plain=1#L231-L431) · `lcm-0049`
 - lochana-cm (C): Ади-кханда, «Балья-лила», 324–357 — [324–357](../lochana/ru/12.md?plain=1#L5-L77) · `lcm-0050`
 
 ## Нимай съедает подношение богине Шаштхи / Nimai eats the offering to goddess Shashthi  `ev-shashthi-offering-eaten` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1073–1076 — [1073–1076](../bhakti-ratnakara/ru/12.md?plain=1#L3297-L3306) · `brt-6036`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 358–380 — [358–380](../lochana/ru/12.md?plain=1#L80-L196) · `lcm-0051`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 74 (2.2, № 36) «শুনয়ে নিমাইর কথা একদিন সুখে গো» = «Гаура-чарита-чинтамани», гл. 6, пада 12 — [25.1–25.4](../padas/ru/19.md?plain=1#L673-L682) · `pad-0414`
 
 ## В экадаши Господь-ребёнок просит подношение Вишну в домах Джагадиши и Хираньи / On Ekadashi the child Lord asks for the offering to Vishnu in the houses of Jagadisha and Hiranya  `ev-jagadisha-hiranya-ekadashi` (1487–1491, возраст 1–5, оценка)
 
 - vaishnava-vandana (B): «Первая вандана», 106–107 — [106–107](../vaishnava-vandana/ru/04.md?plain=1#L350-L353) · `vv-0064`
+- bhakti-ratnakara (B): Таранга 12, 1111–1115 — [1111–1115](../bhakti-ratnakara/ru/12.md?plain=1#L3411-L3423) · `brt-6040`
+- bhakti-ratnakara (B): Таранга 12, 2145–2146 — [2145–2146](../bhakti-ratnakara/ru/12.md?plain=1#L6990-L6993) · `brt-7020`
 - cb (A): Ади 6, 16–41 — [16–41](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L84-L203) · `cb-0047`
 - cc (A): Ади 10.69–71 — [69–71](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L703-L723) · `cc-0130`
 - cc (A): Ади 14.39 — [39–39](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L407-L407) · `cc-0208`
 
 ## Нимай высмеивает йогу Мурари Гупты / Nimai mocks Murari Gupta's yoga  `ev-murari-yoga-mockery` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1125–1129 — [1125–1129](../bhakti-ratnakara/ru/12.md?plain=1#L3453-L3465) · `brt-6044`
+- bhakti-ratnakara (B): Таранга 12, 2147–2151 — [2147–2151](../bhakti-ratnakara/ru/12.md?plain=1#L6996-L7008) · `brt-7021`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 381–399 (продолжение в порции 13) — [381–399](../lochana/ru/12.md?plain=1#L203-L293) · `lcm-0052`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 400–403 (в нумерации A: 400, 401, 401a, 393a–401b, 402, 403) — [400–403](../lochana/ru/13.md?plain=1#L5-L70) · `lcm-0053`
 
 ## Товарищи детских игр Господа / The Lord's childhood playmates  `ev-childhood-companions` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1034–1056 — [1034–1056](../bhakti-ratnakara/ru/12.md?plain=1#L3173-L3246) · `brt-6032`
 - jayananda-cm (C): Надия-кханда: «Товарищи детских игр» (цитаты) — [13:1–7:5](../jayananda/ru/05-quotes.md?plain=1#L225-L237) · `jcm-0031`
 - padas (C): Нарахари (?), ГПТ1 с. 77 (2.2, № 46) «আজি আঙ্গিনা পর নদীয়া বালক সঙ্গে» — [12.1–12.4](../padas/ru/20.md?plain=1#L298-L307) · `pad-0429`
 
 ## Детский киртан Нимая / Nimai's childhood kirtana  `ev-child-kirtan` (1487–1491, возраст 1–5, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1000–1017 — [1000–1017](../bhakti-ratnakara/ru/12.md?plain=1#L3053-L3120) · `brt-6027`
 - cb (A): Ади 4, 84–99 — [84–99](../chaitanya-bhagavata/ed/CB_Adi04.md?plain=1#L425-L500) · `cb-0038`
 - lochana-cm (B): Ади-кханда, «Балья-лила», 404–421 — [404–421](../lochana/ru/13.md?plain=1#L77-L128) · `lcm-0054`
 - padas (B): Васу Гхош, ПК 1150 = БР 12 (изд. 1913, с. 774; изд. 1960, ст. 1035–1038) = ГПТ1 с. 63 (№ 4) «কিয়ে হাম পেখলুঁ কনক-পুতলিয়া» — [9.1–9.4](../padas/ru/07.md?plain=1#L274-L283) · `pad-0131`
@@ -792,12 +839,16 @@
 ## Отрок Нимай в собрании вайшнавов у Адвайты: зовёт Вишварупу к обеду; «Вы же Меня позвали» / The boy Nimai at the Vaishnava assembly in Advaita's house: calling Vishvarupa to lunch; 'You called Me'  `ev-nimai-in-advaita-assembly` (1491–1496, возраст 5–10, оценка)
 
 - cb (A): Мадхья 22, 82–104 — [82–104](../chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L417-L527) · `cb-2041`
+- bhakti-ratnakara (B): Таранга 12, 1121–1124 — [1121–1124](../bhakti-ratnakara/ru/12.md?plain=1#L3441-L3450) · `brt-6043`
+- bhakti-ratnakara (B): Таранга 12, 2162–2170 — [2162–2170](../bhakti-ratnakara/ru/12.md?plain=1#L7041-L7065) · `brt-7024`
 - cb (A): Ади 7, 34–66 — [34–66](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L177-L322) · `cb-0051`
 - cb (A): Ади 7, 95–112 — [95–112](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L464-L549) · `cb-0053`
 
 ## Санньяса Вишварупы / Vishvarupa's sannyasa  `ev-vishvarupa-sannyasa` (1491–1496, возраст 5–10, оценка)
 
 - cb (A): Ади 7, 9–33 — [9–33](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L52-L172) · `cb-0050`
+- bhakti-ratnakara (B): Таранга 12, 1139–1152 — [1139–1152](../bhakti-ratnakara/ru/12.md?plain=1#L3495-L3537) · `brt-6047`
+- bhakti-ratnakara (B): Таранга 12, 2171–2177 — [2171–2177](../bhakti-ratnakara/ru/12.md?plain=1#L7068-L7086) · `brt-7025`
 - cb (A): Ади 7, 67–94 — [67–94](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L327-L459) · `cb-0052`
 - cc (A): Ади 15.11–15 — [11–15](../chaitanya-charitamrita/ed/vcd/CC_Adi15.md?plain=1#L123-L163) · `cc-0221`
 - chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 30 — [> **30.** Его старший брат, не взяв себе–> передав своё сияние владыке-пури (Пара](../chaitanya-chandrodaya/ru/01.md?plain=1#L241-L242) · `ccd-0009`
@@ -814,11 +865,13 @@
 
 ## Джаганнатха Мишра запрещает Нимаю учиться, боясь, что и Он уйдёт из дома / Jagannatha Mishra forbids Nimai to study, fearing He too will leave home  `ev-father-forbids-study` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2178–2184 — [2178–2184](../bhakti-ratnakara/ru/12.md?plain=1#L7089-L7107) · `brt-7026`
 - cb (A): Ади 7, 113–160 — [113–160](../chaitanya-bhagavata/ed/CB_Adi07.md?plain=1#L554-L789) · `cb-0054`
 
 ## Начало обучения (хатэ-кхади) / Beginning of schooling (hate-khadi)  `ev-hate-khadi` (1491–1496, возраст 5–10, оценка)
 
 - advaita-prakasha (D): Гл. 10, 154–156 — [154. Детские и–156. Шриман Га](../advaita-prakash/10.md?plain=1#L158-L160) · `apr-0047`
+- bhakti-ratnakara (B): Таранга 12, 1130–1136 — [1130–1136](../bhakti-ratnakara/ru/12.md?plain=1#L3468-L3486) · `brt-6045`
 - cb (A): Ади 6, 1–8 — [1–8](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L12-L47) · `cb-0045`
 - cc (A): Ади 14.93–94 — [93–94](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L951-L961) · `cc-0216`
 - gaura-krishnodaya (B): Сарга 4, 1–2 — [1–2](../gaura-krishnodaya/ru/04.md?plain=1#L7-L9) · `gkd-0028`
@@ -826,11 +879,14 @@
 
 ## Проказы Нимая на гхатах Ганги и жалобы Джаганнатхе Мишре / Nimai's pranks on the ghats of the Ganga and the complaints to Jagannatha Mishra  `ev-ganga-ghat-pranks` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1119–1120 — [1119–1120](../bhakti-ratnakara/ru/12.md?plain=1#L3435-L3438) · `brt-6042`
+- bhakti-ratnakara (B): Таранга 12, 2156–2161 — [2156–2161](../bhakti-ratnakara/ru/12.md?plain=1#L7023-L7038) · `brt-7023`
 - cb (A): Ади 6, 42–139 — [42–139](../chaitanya-bhagavata/ed/CB_Adi06.md?plain=1#L208-L690) · `cb-0048`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 75 (2.2, № 39) «নিমাইচাঁদের এ চরিত কত কব গো» = «Гаура-чарита-чинтамани», гл. 6, пада 14 — [28.1–28.4](../padas/ru/19.md?plain=1#L746-L755) · `pad-0417`
 
 ## Первое пострижение и прокалывание ушей / First tonsure and ear-piercing  `ev-chudakarana-karnavedha` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1153–1166 — [1153–1166](../bhakti-ratnakara/ru/12.md?plain=1#L3540-L3595) · `brt-6048`
 - jayananda-cm (C): Надия-кханда: «Обряд стрижки; первые буквы» (цитаты) — [8:1–5:4](../jayananda/ru/05-quotes.md?plain=1#L134-L142) · `jcm-0026`
 - lochana-cm (B): Ади-кханда, «Пауганда-лила», 460–472 — [460–472+1](../lochana/ru/14.md?plain=1#L29-L68) · `lcm-0058`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 79 (2.3, № 1) «আজু কি আনন্দময় লোকগতি অতিশয়» = БР 12 (изд. 1912, с. 781; изд. 1960, ст. 1156–1159) — [13.1–13.4](../padas/ru/20.md?plain=1#L321-L330) · `pad-0430`
@@ -844,6 +900,7 @@
 ## Сон Джаганнатхи Мишры / Jagannatha Mishra's dream  `ev-jagannatha-mishra-dream` (1491–1496, возраст 5–10, оценка)
 
 - cc (A): Ади 14.83–92 — [83–92](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L851-L941) · `cc-0215`
+- bhakti-ratnakara (B): Таранга 12, 1204–1209 — [1204–1209](../bhakti-ratnakara/ru/12.md?plain=1#L3725-L3740) · `brt-6052`
 - cb (A): Ади 8, 72–108 — [72–108](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L367-L546) · `cb-0059`
 - gaura-krishnodaya (B): Сарга 3, 60–68 — [60–68](../gaura-krishnodaya/ru/03.md?plain=1#L131-L149) · `gkd-0026`
 - karnapura-ckm (A): Сарга 2, 102–107 — [102–107](../karnapura-mahakavya/ru/02.md?plain=1#L2284-L2391) · `kcm-0018`
@@ -852,6 +909,7 @@
 
 ## Упанаяна Вишвамбхары / Vishvambhara's sacred-thread ceremony  `ev-upanayana` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1167–1196 — [1167–1196](../bhakti-ratnakara/ru/12.md?plain=1#L3600-L3701) · `brt-6049`
 - cb (A): Ади 8, 1–24 — [1–24](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L12-L127) · `cb-0056`
 - gaura-krishnodaya (B): Сарга 4, 3 — [3–3](../gaura-krishnodaya/ru/04.md?plain=1#L11-L11) · `gkd-0029`
 - jayananda-cm (C): Надия-кханда, разд. 25 (фрагм. 9); цит. «Учение, упанаяна, болезнь отца» — [9:1–6:16](../jayananda/ru/01-fragments.md?plain=1#L547-L592); [11:1–14](../jayananda/ru/05-quotes.md?plain=1#L169-L195) · `jcm-0029`
@@ -865,6 +923,7 @@
 
 ## Наставление матери об экадаши / The Lord instructs His mother on Ekadashi  `ev-ekadashi-instruction-shachi` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1137–1138 — [1137–1138](../bhakti-ratnakara/ru/12.md?plain=1#L3489-L3492) · `brt-6046`
 - cc (A): Ади 15.8–10 — [8–10](../chaitanya-charitamrita/ed/vcd/CC_Adi15.md?plain=1#L93-L113) · `cc-0220`
 - gaura-krishnodaya (B): Сарга 4, 10–11 — [10–11](../gaura-krishnodaya/ru/04.md?plain=1#L25-L27) · `gkd-0031`
 - karnapura-ckm (A): Сарга 2, 108–115 — [108–115](../karnapura-mahakavya/ru/02.md?plain=1#L2414-L2571) · `kcm-0019`
@@ -875,11 +934,13 @@
 
 ## Обморок после бетеля: весть от Вишварупы / The swoon after betel: Vishvarupa's message  `ev-betel-swoon-vishvarupa-message` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1201–1203 — [1201–1203](../bhakti-ratnakara/ru/12.md?plain=1#L3716-L3722) · `brt-6051`
 - cc (A): Ади 15.16–22 — [16–22](../chaitanya-charitamrita/ed/vcd/CC_Adi15.md?plain=1#L173-L233) · `cc-0222`
 - gaura-krishnodaya (B): Сарга 4, 21–25 — [21–25](../gaura-krishnodaya/ru/04.md?plain=1#L49-L57) · `gkd-0033`
 
 ## Уход Джаганнатхи Мишры / Jagannatha Mishra's passing  `ev-jagannatha-mishra-departure` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1210–1217 — [1210–1217](../bhakti-ratnakara/ru/12.md?plain=1#L3743-L3764) · `brt-6053`
 - cb (A): Ади 8, 109–121 — [109–121](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L551-L611) · `cb-0060`
 - cc (A): Ади 15.23–24 — [23–24](../chaitanya-charitamrita/ed/vcd/CC_Adi15.md?plain=1#L243-L253) · `cc-0223`
 - gaura-krishnodaya (B): Сарга 4, 26–30 — [26–30](../gaura-krishnodaya/ru/04.md?plain=1#L59-L67) · `gkd-0034`
@@ -890,10 +951,12 @@
 
 ## Гнев Нимая из-за гирлянды для Ганга-пуджи: разгромленный дом и сон во дворе / Nimai's anger over a garland for the Ganga-puja: the wrecked house and sleep in the courtyard  `ev-nimai-anger-garland` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1218–1222 — [1218–1222](../bhakti-ratnakara/ru/12.md?plain=1#L3767-L3779) · `brt-6054`
 - cb (A): Ади 8, 122–164 — [122–164](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L616-L821) · `cb-0061`
 
 ## Нимай приносит матери золото: «Кришна дал нам» / Nimai brings His mother gold: 'Krishna has given it to us'  `ev-nimai-brings-gold` (1491–1496, возраст 5–10, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1223–1225 — [1223–1225](../bhakti-ratnakara/ru/12.md?plain=1#L3782-L3788) · `brt-6055`
 - cb (A): Ади 8, 165–182 — [165–182](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L826-L911) · `cb-0062`
 
 ## Шивананда Сена воспитывает Джагадананду и приводит его к Господу в Надию / Shivananda Sena brings up Jagadananda and brings him to the Lord in Nadia  `ev-shivananda-raises-jagadananda` (1491–1496, возраст 5–10, оценка)
@@ -916,6 +979,8 @@
 
 - karnapura-ckm (A): Сарга 2, 116 — [116–116](../karnapura-mahakavya/ru/02.md?plain=1#L2594-L2594) · `kcm-0020`
 - advaita-prakasha (D): Гл. 10, 157–161 — [157. Затем Миш–161. Уповая на](../advaita-prakash/10.md?plain=1#L161-L165) · `apr-0048`
+- bhakti-ratnakara (B): Таранга 12, 1197–1200 — [1197–1200](../bhakti-ratnakara/ru/12.md?plain=1#L3704-L3713) · `brt-6050`
+- bhakti-ratnakara (B): Таранга 12, 2185–2191 — [2185–2191](../bhakti-ratnakara/ru/12.md?plain=1#L7110-L7128) · `brt-7027`
 - cb (A): Ади 8, 25–39 — [25–39](../chaitanya-bhagavata/ed/CB_Adi08.md?plain=1#L132-L202) · `cb-0057`
 - cc (A): Ади 15.5–7 — [5–7](../chaitanya-charitamrita/ed/vcd/CC_Adi15.md?plain=1#L63-L83) · `cc-0219`
 - gaura-krishnodaya (B): Сарга 4, 4–9 — [4–9](../gaura-krishnodaya/ru/04.md?plain=1#L13-L23) · `gkd-0030`
@@ -966,6 +1031,7 @@
 
 ## Нимай вызывает на спор Мурари Гупту: «Лекарь, иди собирай травы!» / Nimai challenges Murari Gupta: 'Doctor, go and gather herbs!'  `ev-nimai-murari-debate` (1501–1502, возраст 15–16, вероятно)
 
+- bhakti-ratnakara (B): Таранга 12, 2192–2194 — [2192–2194](../bhakti-ratnakara/ru/12.md?plain=1#L7131-L7137) · `brt-7028`
 - cb (A): Ади 10, 6–37 — [6–37](../chaitanya-bhagavata/ed/CB_Adi10.md?plain=1#L37-L183) · `cb-0074`
 
 ## Рождение Гопаладаса, третьего сына Адвайты / The birth of Gopaladasa, Advaita's third son  `ev-gopala-dasa-birth` (1496–1508, возраст 10–22, оценка)
@@ -993,6 +1059,7 @@
 ## Первая встреча с Лакшмиприей у Ганги / First meeting with Lakshmipriya by the Ganga  `ev-lakshmipriya-first-meeting` (1496–1508, возраст 10–22, оценка)
 
 - cc (A): Ади 14.62–70 — [62–70](../chaitanya-charitamrita/ed/vcd/CC_Adi14.md?plain=1#L637-L721) · `cc-0212`
+- bhakti-ratnakara (B): Таранга 12, 1226–1236 — [1226–1236](../bhakti-ratnakara/ru/12.md?plain=1#L3791-L3830) · `brt-6056`
 - cb (A): Ади 10, 46–51 — [46–51](../chaitanya-bhagavata/ed/CB_Adi10.md?plain=1#L228-L253) · `cb-0076`
 - gaura-krishnodaya (B): Сарга 3, 47–53 — [47–53](../gaura-krishnodaya/ru/03.md?plain=1#L103-L115) · `gkd-0024`
 - jayananda-cm (C): Надия-кханда: «Лакшми молится о браке» (цитаты) — [23:1–6:7](../jayananda/ru/05-quotes.md?plain=1#L351-L368) · `jcm-0039`
@@ -1003,6 +1070,7 @@
 
 ## Сватовство Лакшмиприи (Ванамали Ачарья) / Arranging the marriage with Lakshmipriya (Vanamali Acharya)  `ev-lakshmipriya-matchmaking` (1496–1508, возраст 10–22, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1237–1243 — [1237–1243](../bhakti-ratnakara/ru/12.md?plain=1#L3833-L3851) · `brt-6057`
 - cb (A): Ади 10, 52–77 — [52–77](../chaitanya-bhagavata/ed/CB_Adi10.md?plain=1#L258-L380) · `cb-0077`
 - cc (A): Ади 15.25–29 — [25–29](../chaitanya-charitamrita/ed/vcd/CC_Adi15.md?plain=1#L263-L307) · `cc-0224`
 - gaura-krishnodaya (B): Сарга 4, 31–33 — [31–33](../gaura-krishnodaya/ru/04.md?plain=1#L69-L75) · `gkd-0035`
@@ -1020,6 +1088,8 @@
 ## Свадьба с Лакшмиприей / Marriage with Lakshmipriya  `ev-marriage-lakshmipriya` (1496–1508, возраст 10–22, оценка)
 
 - advaita-prakasha (D): Гл. 12, 121–124 — [121. Мало-пома–124. Мой Госпо](../advaita-prakash/12.md?plain=1#L125-L128) · `apr-0059`
+- bhakti-ratnakara (B): Таранга 12, 1244–1359 — [1244–1359](../bhakti-ratnakara/ru/12.md?plain=1#L3854-L4256) · `brt-6058`
+- bhakti-ratnakara (B): Таранга 12, 2195–2200 — [2195–2200](../bhakti-ratnakara/ru/12.md?plain=1#L7140-L7155) · `brt-7029`
 - cb (A): Ади 10, 78–118 — [78–118](../chaitanya-bhagavata/ed/CB_Adi10.md?plain=1#L385-L582) · `cb-0078`
 - cc (A): Ади 15.30 — [30–30](../chaitanya-charitamrita/ed/vcd/CC_Adi15.md?plain=1#L317-L317) · `cc-0225`
 - gaura-krishnodaya (B): Сарга 4, 34–45 — [34–45](../gaura-krishnodaya/ru/04.md?plain=1#L77-L99) · `gkd-0036`
@@ -1060,9 +1130,14 @@
 - lochana-cm (B): Ади-кханда, «Кайшора-лила», 172–184 — [172–184](../lochana/ru/19.md?plain=1#L273-L309) · `lcm-0076`
 - murari-kcc (A): Пракрама 1, сарга 11, шлоки 1–4 — [1–4](../murari-gupta/ru/1.11.md?plain=1#L5-L11) · `mkc-0042`
 
+## Старый брахман-почитатель Лакшми-Нараяны узнаёт в Лакшмиприе и Гауре Лакшми и Нараяну / An old brahmana worshipper of Lakshmi-Narayana recognises Lakshmipriya and Gaura as Lakshmi and Narayana  `ev-brahmana-sees-lakshmi-narayana-wedding` (1496–1508, возраст 10–22, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 674–696 — [674–696](../bhakti-ratnakara/ru/12.md?plain=1#L2053-L2119) · `brt-6015`
+
 ## Нимай-пандит учит в Навадвипе; Лакшмиприя служит Шачи / Nimai Pandita teaches in Navadvipa; Lakshmipriya serves Shachi  `ev-nimai-pandit-teaching` (1496–1508, возраст 10–22, оценка)
 
 - cb (A): Ади 10, 38–45 — [38–45](../chaitanya-bhagavata/ed/CB_Adi10.md?plain=1#L188-L223) · `cb-0075`
+- bhakti-ratnakara (B): Таранга 12, 1360–1364 — [1360–1364](../bhakti-ratnakara/ru/12.md?plain=1#L4259-L4271) · `brt-6059`
 - cb (A): Ади 11, 1–17 — [1–17](../chaitanya-bhagavata/ed/CB_Adi11.md?plain=1#L12-L86) · `cb-0080`
 - padas (C): Нарахари (?), ГПТ1 с. 90 (2.3, № 28) «লক্ষ্মী প্রায় লক্ষ্মী ঠাকুরাণী» (только ГПТ; ср. прозу БР 12, изд. 1960, ст. 1360–1364) — [13.1–13.8](../padas/ru/21.md?plain=1#L354-L368) · `pad-0452`
 - cb (A): Ади 12, 29–66 — [29–66](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L153-L332) · `cb-0086`
@@ -1076,6 +1151,7 @@
 
 ## Господь обходит лавки Навадвипы: торговцы дарят Ему товары / The Lord visits the shops of Navadvipa: the merchants give Him their goods  `ev-gaura-merchants-navadvipa` (1496–1508, возраст 10–22, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2216–2225 — [2216–2225](../bhakti-ratnakara/ru/12.md?plain=1#L7203-L7230) · `brt-7033`
 - cb (A): Ади 12, 108–152 — [108–152](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L542-L756) · `cb-0089`
 - padas (C): Нарахари (Чакраварти?), ГПТ1 с. 356 (5.2, № 40) «নগরভ্রমণে বাহির হইয়া» — [15.1–15.5](../padas/ru/23.md?plain=1#L425-L437) · `pad-0504`
 
@@ -1085,6 +1161,7 @@
 
 ## Шачи слышит флейту и видит луну на груди сына; видения в доме / Shachi hears a flute and sees the moon on her son's chest; visions in the house  `ev-shachi-flute-moon-visions` (1496–1508, возраст 10–22, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1369–1370 — [1369–1370](../bhakti-ratnakara/ru/12.md?plain=1#L4286-L4289) · `brt-6062`
 - cb (A): Ади 12, 214–231 — [214–231](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L1056-L1141) · `cb-0092`
 
 ## Ачьютананда учится у Гауры: сравнение лица с луной и нектар имени / Achyutananda studies with Gaura: the moon-face simile and the nectar of the name  `ev-achyuta-studies-with-gaura` (1496–1508, возраст 10–22, оценка)
@@ -1093,12 +1170,15 @@
 
 ## Нимай-пандит вызывает на спор Мукунду, Гададхару и других преданных: «Я стану таким вайшнавом, что Брахма и Шива придут к Моим дверям» / Nimai Pandita challenges Mukunda, Gadadhara and other devotees: 'I shall become such a Vaishnava that Brahma and Shiva will come to My door'  `ev-nimai-challenges-mukunda` (1496–1508, возраст 10–22, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2201–2204 — [2201–2204](../bhakti-ratnakara/ru/12.md?plain=1#L7158-L7167) · `brt-7030`
 - cb (A): Ади 11, 18–51 — [18–51](../chaitanya-bhagavata/ed/CB_Adi11.md?plain=1#L91-L253) · `cb-0081`
 - cb (A): Ади 12, 1–28 — [1–28](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L12-L148) · `cb-0085`
 
 ## Ишвара Пури в Навадвипе: встречи с Адвайтой и Нимаем / Ishvara Puri in Navadvipa: meetings with Advaita and Nimai  `ev-ishvara-puri-navadvipa` (1496–1508, возраст 10–22, оценка)
 
 - advaita-prakasha (D): Гл. 13, 1–18 — [1. Слава, слав–18. Несколько д](../advaita-prakash/13.md?plain=1#L5-L22) · `apr-0061`
+- bhakti-ratnakara (B): Таранга 12, 1365 — [1365–1365](../bhakti-ratnakara/ru/12.md?plain=1#L4274-L4274) · `brt-6060`
+- bhakti-ratnakara (B): Таранга 12, 2205–2212 — [2205–2212](../bhakti-ratnakara/ru/12.md?plain=1#L7170-L7191) · `brt-7031`
 - cb (A): Ади 11, 69–84 — [69–84](../chaitanya-bhagavata/ed/CB_Adi11.md?plain=1#L343-L418) · `cb-0083`
 - cb (A): Ади 11, 85–127 — [85–86–127](../chaitanya-bhagavata/ed/CB_Adi11.md?plain=1#L425-L614) · `cb-0084`
 
@@ -1117,6 +1197,8 @@
 
 ## Под видом «болезни вайю» Господь являет прему / Under the pretext of a disorder of vayu, the Lord manifests prema  `ev-vayu-vyadhi-prema` (1496–1508, возраст 10–22, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1366–1368 — [1366–1368](../bhakti-ratnakara/ru/12.md?plain=1#L4277-L4283) · `brt-6061`
+- bhakti-ratnakara (B): Таранга 12, 2213–2215 — [2213–2215](../bhakti-ratnakara/ru/12.md?plain=1#L7194-L7200) · `brt-7032`
 - cb (A): Ади 12, 67–87 — [67–87](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L337-L437) · `cb-0087`
 - cc (A): Ади 17.7 — [7–7](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L83-L83) · `cc-0243`
 
@@ -1130,6 +1212,7 @@
 - gaura-krishnodaya (B): Сарга 5, 11–27 — [11–27](../gaura-krishnodaya/ru/05.md?plain=1#L27-L61) · `gkd-0042`
 - bhaktamal (D): Приядас, кавитты 333–336 (к чхаппаю 75 о Кешаве Бхатте; изд. 1914, с. 90–91); § 4.2 — [333–336](../vallabha/ru/04.md?plain=1#L64-L87) · `bkm-0010`
 - bhakti-ratnakara (B): Таранга 2, 227–253 — [227–253](../bhakti-ratnakara/ru/02.md?plain=1#L683-L761) · `brt-0050`
+- bhakti-ratnakara (B): Таранга 12, 2235–2279 — [2235–2279](../bhakti-ratnakara/ru/12.md?plain=1#L7260-L7392) · `brt-7035`
 - cb (A): Ади 13, 19–57 — [19–57](../chaitanya-bhagavata/ed/CB_Adi13.md?plain=1#L102-L292) · `cb-0095`
 - cc (A): Ади 16.28–40 — [28–40](../chaitanya-charitamrita/ed/vcd/CC_Adi16.md?plain=1#L293-L413) · `cc-0236`
 - cb (A): Ади 13, 58–117 — [58–117](../chaitanya-bhagavata/ed/CB_Adi13.md?plain=1#L297-L577) · `cb-0096`
@@ -1138,9 +1221,15 @@
 - cc (A): Ади 16.87–104 — [87–104](../chaitanya-charitamrita/ed/vcd/CC_Adi16.md?plain=1#L901-L1071) · `cc-0238`
 - cc (A): Ади 16.105–108 — [105–108](../chaitanya-charitamrita/ed/vcd/CC_Adi16.md?plain=1#L1081-L1111) · `cc-0239`
 
+## Нимай-пандит приводит домой и угощает двадцать санньяси / Nimai Pandita brings twenty sannyasis home and feeds them  `ev-nimai-feeds-sannyasis` (1496–1508, возраст 10–22, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 2280–2282 — [2280–2282](../bhakti-ratnakara/ru/12.md?plain=1#L7395-L7401) · `brt-7036`
+
 ## Путешествие в Восточную Бенгалию / Journey to East Bengal  `ev-east-bengal-tour` (1496–1508, возраст 10–22, оценка)
 
 - advaita-prakasha (D): Гл. 13, 19–55 — [19. Однажды Шр–55. Великой бы](../advaita-prakash/13.md?plain=1#L23-L59) · `apr-0062`
+- bhakti-ratnakara (B): Таранга 12, 1371–1372 — [1371–1372](../bhakti-ratnakara/ru/12.md?plain=1#L4292-L4295) · `brt-6063`
+- bhakti-ratnakara (B): Таранга 12, 2283–2285 — [2283–2285](../bhakti-ratnakara/ru/12.md?plain=1#L7404-L7410) · `brt-7037`
 - cb (A): Ади 14, 49–81 — [49–81](../chaitanya-bhagavata/ed/CB_Adi14.md?plain=1#L233-L381) · `cb-0100`
 - gaura-krishnodaya (B): Сарга 5, 1–2 — [1–2](../gaura-krishnodaya/ru/05.md?plain=1#L7-L9) · `gkd-0038`
 - jayananda-cm (C): Надия-кханда: «Уход в Бенгалию; Лакшми в разлуке» (цитаты) — [28:1–10:6](../jayananda/ru/05-quotes.md?plain=1#L426-L439) · `jcm-0043`
@@ -1162,6 +1251,7 @@
 ## Лжеаватары в Рархе и Ванге; изгнание Чудадхари из Нилачалы / False avataras in Rarh and Vanga; Chudadhari driven out of Nilachala  `ev-false-avataras` (1496–1508, возраст 10–22, оценка)
 
 - prema-vilasa (C): Виласа 24, 568–611 — [568–611](../prema-vilasa/ru/24.md?plain=1#L1708-L1852) · `pvl-0269`
+- bhakti-ratnakara (B): Таранга 14, 160–177 — [160–177](../bhakti-ratnakara/ru/14.md?plain=1#L562-L614) · `brt-8041`
 
 ## Тапана Мишра в Восточной Бенгалии: Господь велит ему идти в Каши / Tapana Mishra in East Bengal: the Lord sends him to Kashi  `ev-tapana-mishra-east-bengal` (1496–1508, возраст 10–22, оценка)
 
@@ -1175,6 +1265,7 @@
 - lochana-cm (B): Ади-кханда, «Банга-виджая», 104–108 — [104–108](../lochana/ru/20.md?plain=1#L349-L361) · `lcm-0081`
 - murari-kcc (A): Пракрама 1, сарга 11, шлоки 17–20 — [17–20](../murari-gupta/ru/1.11.md?plain=1#L37-L43) · `mkc-0044`
 - advaita-prakasha (D): Гл. 13, 65 — [65. А тем врем–65. А тем врем](../advaita-prakash/13.md?plain=1#L69-L69) · `apr-0064`
+- bhakti-ratnakara (B): Таранга 12, 1373–1375 — [1373–1375](../bhakti-ratnakara/ru/12.md?plain=1#L4298-L4304) · `brt-6064`
 - cb (A): Ади 14, 99–108 — [99–106–108](../chaitanya-bhagavata/ed/CB_Adi14.md?plain=1#L462-L501) · `cb-0103`
 - cc (A): Ади 16.20–21 — [20–21](../chaitanya-charitamrita/ed/vcd/CC_Adi16.md?plain=1#L213-L223) · `cc-0231`
 - chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 28–29 — [**Адхарма.** Царь эпохи, говорят, он жен–> он, вечно новый, желая явить урок отре](../chaitanya-chandrodaya/ru/01.md?plain=1#L225-L237) · `ccd-0008`
@@ -1187,6 +1278,8 @@
 ## Возвращение из Восточной Бенгалии; утешение Шачи / Return from East Bengal; consoling Shachi  `ev-return-from-east-bengal` (1496–1508, возраст 10–22, оценка)
 
 - advaita-prakasha (D): Гл. 13, 72–74 — [72. Так осчаст–74. Видя мать Ш](../advaita-prakash/13.md?plain=1#L76-L78) · `apr-0066`
+- bhakti-ratnakara (B): Таранга 12, 1376–1378 — [1376–1378](../bhakti-ratnakara/ru/12.md?plain=1#L4307-L4313) · `brt-6065`
+- bhakti-ratnakara (B): Таранга 12, 2286–2292 — [2286–2292](../bhakti-ratnakara/ru/12.md?plain=1#L7413-L7431) · `brt-7038`
 - cb (A): Ади 14, 156–191 — [156–191](../chaitanya-bhagavata/ed/CB_Adi14.md?plain=1#L741-L912) · `cb-0105`
 - cc (A): Ади 16.22–23 — [22–23](../chaitanya-charitamrita/ed/vcd/CC_Adi16.md?plain=1#L233-L243) · `cc-0232`
 - jayananda-cm (C): Надия-кханда: «Кончина Лакшми» 10–14 (цитаты) — [2:10–2:14](../jayananda/ru/05-quotes.md?plain=1#L476-L486) · `jcm-0045`
@@ -1196,6 +1289,7 @@
 
 ## Сватовство Вишнуприи / Arranging the marriage with Vishnupriya  `ev-vishnupriya-matchmaking` (1496–1508, возраст 10–22, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1379–1383 — [1379–1383](../bhakti-ratnakara/ru/12.md?plain=1#L4316-L4328) · `brt-6066`
 - cb (A): Ади 15, 38–67 — [38–67](../chaitanya-bhagavata/ed/CB_Adi15.md?plain=1#L191-L330) · `cb-0107`
 - karnapura-ckm (A): Сарга 3, 127–135 — [127–135](../karnapura-mahakavya/ru/03.md?plain=1#L2795-L2969) · `kcm-0030`
 - lochana-cm (B): Ади-кханда, «Вторая свадьба», 1–44 — [1–44](../lochana/ru/21.md?plain=1#L169-L298) · `lcm-0084`
@@ -1208,6 +1302,8 @@
 
 - cb (A): Ади 15, 68–125 — [68–125](../chaitanya-bhagavata/ed/CB_Adi15.md?plain=1#L335-L608) · `cb-0108`
 - advaita-prakasha (D): Гл. 13, 75–81 — [75. Затем пред–81. Уповая на с](../advaita-prakash/13.md?plain=1#L79-L85) · `apr-0067`
+- bhakti-ratnakara (B): Таранга 12, 1384–1622 — [1384–1622](../bhakti-ratnakara/ru/12.md?plain=1#L4331-L5302) · `brt-6067`
+- bhakti-ratnakara (B): Таранга 12, 2293–2296 — [2293–2296](../bhakti-ratnakara/ru/12.md?plain=1#L7434-L7443) · `brt-7039`
 - cb (A): Ади 15, 126–225 — [126–225](../chaitanya-bhagavata/ed/CB_Adi15.md?plain=1#L613-L1105) · `cb-0109`
 - cc (A): Ади 16.25 — [25–25](../chaitanya-charitamrita/ed/vcd/CC_Adi16.md?plain=1#L263-L263) · `cc-0234`
 - gaura-krishnodaya (B): Сарга 5, 9–10 — [9–10](../gaura-krishnodaya/ru/05.md?plain=1#L23-L25) · `gkd-0041`
@@ -1265,6 +1361,8 @@
 ## Отправление в Гаю / Departure for Gaya  `ev-departure-for-gaya` (1508–1509, возраст 22–23, оценка)
 
 - karnapura-ckm (A): Сарга 4, 1–20 — [1–20](../karnapura-mahakavya/ru/04.md?plain=1#L26-L455) · `kcm-0032`
+- bhakti-ratnakara (B): Таранга 12, 1623–1628 — [1623–1628](../bhakti-ratnakara/ru/12.md?plain=1#L5305-L5320) · `brt-6068`
+- bhakti-ratnakara (B): Таранга 12, 2300–2305 — [2300–2305](../bhakti-ratnakara/ru/12.md?plain=1#L7455-L7470) · `brt-7041`
 - cb (A): Ади 17, 1–15 — [1–15](../chaitanya-bhagavata/ed/CB_Adi17.md?plain=1#L12-L76) · `cb-0119`
 - jayananda-cm (C): Надия-кханда: «Путь в Гаю» (цитаты) — [17:1–12:2](../jayananda/ru/05-quotes.md?plain=1#L276-L279) · `jcm-0033`
 - karnapura-ckm (A): Сарга 4, 21–24 — [21–24](../karnapura-mahakavya/ru/04.md?plain=1#L478-L545) · `kcm-0033`
@@ -1329,6 +1427,8 @@
 
 ## Возвращение из Гаи: встреча с родными; рассказ о Падападма-тиртхе и первые слёзы премы / Return from Gaya: welcome by relatives; the account of the Padapadma-tirtha and the first tears of prema  `ev-return-navadvipa-welcome` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1629–1646 — [1629–1646](../bhakti-ratnakara/ru/12.md?plain=1#L5323-L5374) · `brt-6069`
+- bhakti-ratnakara (B): Таранга 12, 2306–2313 — [2306–2313](../bhakti-ratnakara/ru/12.md?plain=1#L7473-L7494) · `brt-7042`
 - cb (A): Мадхья 1, 10–50 — [10–50](../chaitanya-bhagavata/ed/CB_Madhya01.md?plain=1#L59-L256) · `cb-1002`
 
 ## После Гаи: Господь учит учеников, что истинное знание — бхакти / After Gaya: the Lord teaches His students that true knowledge is bhakti  `ev-return-from-gaya-teaching` (1509–1510, возраст 23–24, оценка)
@@ -1350,12 +1450,14 @@
 ## Адвайта рассказывает, как во сне Вишвамбхара разъяснил Ему стих Гиты / Advaita tells how Vishvambhara explained a Gita verse to Him in a dream  `ev-advaita-gita-dream` (1509–1510, возраст 23–24, оценка)
 
 - advaita-prakasha (D): Гл. 14, 49–64 — [49. Видя ликов–64. Затем все п](../advaita-prakash/14.md?plain=1#L53-L68) · `apr-0071`
+- bhakti-ratnakara (B): Таранга 12, 2324–2329 — [2324–2329](../bhakti-ratnakara/ru/12.md?plain=1#L7527-L7542) · `brt-7045`
 - cb (A): Мадхья 2, 1–32 — [1–32](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L12-L161) · `cb-1014`
 - cb (A): Мадхья 10, 112–165 — [112–165](../chaitanya-bhagavata/ed/CB_Madhya10.md?plain=1#L546-L813) · `cb-1070`
 
 ## Према Господа в доме Шукламбары / The Lord's prema at Shuklambara's house  `ev-shuklambara-house-prema` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Мадхья 1, 51–77 — [51–77](../chaitanya-bhagavata/ed/CB_Madhya01.md?plain=1#L261-L390) · `cb-1003`
+- bhakti-ratnakara (B): Таранга 12, 2314–2320 — [2314–2320](../bhakti-ratnakara/ru/12.md?plain=1#L7497-L7515) · `brt-7043`
 - cb (A): Мадхья 1, 78–119 — [78–119](../chaitanya-bhagavata/ed/CB_Madhya01.md?plain=1#L395-L600) · `cb-1004`
 - lochana-cm (B): Мадхья-кханда, «Према-дана-лила», 35–52 — [35–52](../lochana/ru/24.md?plain=1#L122-L173) · `lcm-0099`
 - murari-kcc (A): Пракрама 2, сарга 1, шлоки 19–30 — [19–30](../murari-gupta/ru/2.01.md?plain=1#L41-L63) · `mkc-0066`
@@ -1366,6 +1468,7 @@
 
 ## Господь в настроении Капилы наставляет Шачи: страдания души в утробе и поклонение Кришне / In the mood of Kapila the Lord instructs Shachi: the soul's suffering in the womb and worship of Krishna  `ev-kapila-bhava-instruction-shachi` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1647–1648 — [1647–1648](../bhakti-ratnakara/ru/12.md?plain=1#L5377-L5380) · `brt-6070`
 - cb (A): Мадхья 1, 189–249 — [189–249](../chaitanya-bhagavata/ed/CB_Madhya01.md?plain=1#L944-L1239) · `cb-1008`
 
 ## Гангадас увещевает Нимая не оставлять учёбу; вызов пандитам Надии / Gangadasa admonishes Nimai not to abandon scholarship; the challenge to the pandits of Nadia  `ev-gangadasa-admonishes-nimai` (1509–1510, возраст 23–24, оценка)
@@ -1374,6 +1477,7 @@
 
 ## Ратнагарбха Ачарья читает шлоку «Бхагаваты» — Господь падает в преме / Ratnagarbha Acharya recites a Bhagavata verse and the Lord falls in prema  `ev-ratnagarbha-bhagavata-verse` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2321–2323 — [2321–2323](../bhakti-ratnakara/ru/12.md?plain=1#L7518-L7524) · `brt-7044`
 - cb (A): Мадхья 1, 295–321 — [295–321](../chaitanya-bhagavata/ed/CB_Madhya01.md?plain=1#L1469-L1598) · `cb-1010`
 
 ## Господь прекращает преподавание и связывает книги; благословение ученикам / The Lord stops teaching and ties up His books; blessing to the students  `ev-lord-closes-school` (1509–1510, возраст 23–24, оценка)
@@ -1382,30 +1486,38 @@
 
 ## Первая санкиртана: Господь учит учеников петь «харайе намах кришна ядавайа намах» / The first sankirtana: the Lord teaches His students to sing 'haraye namah krishna yadavaya namah'  `ev-first-kirtan-with-students` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1649–1662 — [1649–1662](../bhakti-ratnakara/ru/12.md?plain=1#L5383-L5422) · `brt-6071`
 - cb (A): Мадхья 1, 403–424 — [403–424](../chaitanya-bhagavata/ed/CB_Madhya01.md?plain=1#L1993-L2086) · `cb-1013`
 
 ## Господь служит вайшнавам у Ганги и принимает их благословения / The Lord serves the Vaishnavas at the Ganga and accepts their blessings  `ev-lord-serves-vaishnavas` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2330–2337 — [2330–2337](../bhakti-ratnakara/ru/12.md?plain=1#L7545-L7566) · `brt-7046`
 - cb (A): Мадхья 2, 33–84 — [33–84](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L166-L418) · `cb-1015`
 
 ## Шачи считает сына больным; Шриваса: «Это не безумие, а высшая према» / Shachi thinks her son is ill; Shrivasa: 'This is not madness but the highest prema'  `ev-shrivasa-good-madness` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1663–1670 — [1663–1670](../bhakti-ratnakara/ru/12.md?plain=1#L5425-L5446) · `brt-6072`
 - cb (A): Мадхья 2, 85–125 — [85–125](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L423-L623) · `cb-1016`
 
 ## Рассказ Господа: по пути из Гаи в Канаи-Натшале Его обнял тёмный юноша с флейтой / The Lord's account: on the way back from Gaya, at Kanai-Natashala, a dark youth with a flute embraced Him  `ev-kanai-natashala-vision-after-gaya` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2349–2353 — [2349–2353](../bhakti-ratnakara/ru/12.md?plain=1#L7602-L7614) · `brt-7048`
 - cb (A): Мадхья 2, 159–201 — [159–201](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L790-L1002) · `cb-1018`
 
 ## «Кришна в Твоём сердце» — Господь раздирает грудь; Шачи просит Гададхару не отходить от сына / 'Krishna is in Your heart' — the Lord tears at His chest; Shachi asks Gadadhara to stay by her son  `ev-gadadhara-krishna-in-heart` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1671–1676 — [1671–1676](../bhakti-ratnakara/ru/12.md?plain=1#L5449-L5464) · `brt-6073`
 - cb (A): Мадхья 2, 202–214 — [202–214](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L1007-L1067) · `cb-1019`
 
 ## Хулители киртана; слух, что царь послал лодки схватить вайшнавов / The blasphemers of kirtan; the rumour that the king has sent boats to seize the Vaishnavas  `ev-rumour-king-boats-shrivasa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1677–1687 — [1677–1687](../bhakti-ratnakara/ru/12.md?plain=1#L5467-L5497) · `brt-6074`
 - cb (A): Мадхья 2, 225–243 — [225–243](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L1122-L1212) · `cb-1021`
 
 ## Господь является Шривасе в четырёхруком облике у его алтаря Нрисимхи; Нараяни плачет от любви / The Lord appears to Shrivasa in His four-armed form at his Nrisimha altar; Narayani weeps with love  `ev-shrivasa-sees-chaturbhuja` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1688–1700 — [1688–1700](../bhakti-ratnakara/ru/12.md?plain=1#L5500-L5537) · `brt-6075`
+- bhakti-ratnakara (B): Таранга 12, 2388–2403 — [2388–2403](../bhakti-ratnakara/ru/12.md?plain=1#L7776-L7821) · `brt-7050`
 - cb (A): Мадхья 2, 245–340 — [245–340](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L1222-L1696) · `cb-1022`
 
 ## Спутники собираются вокруг Господа / The associates gather around the Lord  `ev-associates-gather` (1509–1510, возраст 23–24, оценка)
@@ -1454,6 +1566,8 @@
 
 ## Бхава Вепря в доме Мурари / The Boar mood at Murari's house  `ev-varaha-bhava-murari` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1701–1703 — [1701–1703](../bhakti-ratnakara/ru/12.md?plain=1#L5540-L5546) · `brt-6076`
+- bhakti-ratnakara (B): Таранга 12, 2404–2418 — [2404–2418](../bhakti-ratnakara/ru/12.md?plain=1#L7824-L7866) · `brt-7051`
 - cb (A): Мадхья 3, 18–57 — [18–57](../chaitanya-bhagavata/ed/CB_Madhya03.md?plain=1#L97-L283) · `cb-1025`
 - cc (A): Ади 17.19 — [19–19](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L203-L203) · `cc-0251`
 - karnapura-ckm (A): Сарга 5, 15–21 — [15–21](../karnapura-mahakavya/ru/05.md?plain=1#L340-L476) · `kcm-0042`
@@ -1475,6 +1589,7 @@
 
 ## Милость к Шукламбаре Брахмачари / Mercy to Shuklambara Brahmachari  `ev-shuklambara-mercy` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2754–2757 — [2754–2757](../bhakti-ratnakara/ru/12.md?plain=1#L9049-L9058) · `brt-7070`
 - cc (A): Ади 10.38 — [38–38](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L393-L393) · `cc-0118`
 - cc (A): Ади 17.20 — [20–20](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L213-L213) · `cc-0252`
 - chaitanya-chandrodaya (A): Акт 1, главная сцена, ст. 65–66 — [**Шукламбара** *(смиренно)*. Владыка!–> и изливается через глаза и волоски.](../chaitanya-chandrodaya/ru/01.md?plain=1#L543-L554) · `ccd-0018`
@@ -1491,6 +1606,8 @@
 - cb (A): Мадхья 7, 36–70 — [36–70](../chaitanya-bhagavata/ed/CB_Madhya07.md?plain=1#L187-L357) · `cb-1048`
 - cb (A): Мадхья 7, 71–120 — [71–120](../chaitanya-bhagavata/ed/CB_Madhya07.md?plain=1#L362-L603) · `cb-1049`
 - cb (A): Мадхья 7, 121–147 — [121–147](../chaitanya-bhagavata/ed/CB_Madhya07.md?plain=1#L608-L738) · `cb-1050`
+- bhakti-ratnakara (B): Таранга 12, 1801–1816 — [1801–1816](../bhakti-ratnakara/ru/12.md?plain=1#L5891-L5936) · `brt-6085`
+- bhakti-ratnakara (B): Таранга 12, 2502–2528 — [2502–2528](../bhakti-ratnakara/ru/12.md?plain=1#L8131-L8214) · `brt-7056`
 - cb (A): Мадхья 7, 148–157 — [148–157](../chaitanya-bhagavata/ed/CB_Madhya07.md?plain=1#L743-L788) · `cb-1051`
 - prema-vilasa (D): Виласа 22, 42–68 — [42–68](../prema-vilasa/ru/22.md?plain=1#L128-L206) · `pvl-0186`
 - vaishnava-vandana (B): Девакинандана, 16a — [16a–16a](../vaishnava-vandana/ru/02.md?plain=1#L65-L65) · `vv-0034`
@@ -1508,6 +1625,7 @@
 
 ## Господь рассеивает тучи над киртаном / The Lord disperses the clouds over the kirtana  `ev-clouds-dispersed-kirtan` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2090–2091 — [2090–2091](../bhakti-ratnakara/ru/12.md?plain=1#L6823-L6826) · `brt-7009`
 - cc (A): Ади 17.89 — [89–89](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L913-L913) · `cc-0265`
 - karnapura-ckm (A): Сарга 6, 15–27 — [15–27](../karnapura-mahakavya/ru/06.md?plain=1#L353-L623) · `kcm-0052`
 - lochana-cm (B): Мадхья-кханда, «Према-дана-лила», 198–213 — [198–213](../lochana/ru/25.md?plain=1#L191-L236) · `lcm-0109`
@@ -1515,12 +1633,18 @@
 
 ## Танец Гауры с преданными (песни о красоте Гауры) / Gaura's dance with the devotees (songs of Gaura's beauty)  `ev-gaura-dance-with-devotees` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1847–1890 — [1847–1890](../bhakti-ratnakara/ru/12.md?plain=1#L6030-L6165) · `brt-6088`
+- bhakti-ratnakara (B): Таранга 12, 2612–2650 — [2612–2650](../bhakti-ratnakara/ru/12.md?plain=1#L8540-L8701) · `brt-7061`
 - karnapura-ckm (A): Сарга 6, 86–97 — [86–97](../karnapura-mahakavya/ru/06.md?plain=1#L1957-L2204) · `kcm-0062`
 - karnapura-ckm (A): Сарга 7, 38–47 — [38–47](../karnapura-mahakavya/ru/07.md?plain=1#L880-L1080) · `kcm-0071`
 - lochana-cm (B): Мадхья-кханда, «Милость к Мукунде», 1–24 — [1–24](../lochana/ru/25.md?plain=1#L251-L368) · `lcm-0110`
 - murari-kcc (A): Пракрама 2, сарга 4, шлоки 3–5 — [3–5](../murari-gupta/ru/2.04.md?plain=1#L9-L13) · `mkc-0076`
+- bhakti-ratnakara (B): Таранга 12, 2758–2800 — [2758–2800](../bhakti-ratnakara/ru/12.md?plain=1#L9061-L9233) · `brt-7071`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 360–361 (5.2, № 50) «আজু শুভ আরম্ভ কীর্তনে» = БР 12 (изд. 1912, с. 885–886; изд. 1960, ст. 2568–2571) — [21.1–21.4](../padas/ru/23.md?plain=1#L613-L628) · `pad-0510`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 361 (5.2, № 51) «নাচত শচীতনয় গৌরসুন্দর» = БР 12 (изд. 1912, с. 890; изд. 1960, ст. 2624–2627) — [22.1–22.4](../padas/ru/23.md?plain=1#L646-L660) · `pad-0511`
+- bhakti-ratnakara (B): Таранга 12, 2880–2899 — [2880–2899](../bhakti-ratnakara/ru/12.md?plain=1#L9495-L9556) · `brt-7073`
+- bhakti-ratnakara (B): Таранга 12, 3076–3086 — [3076–3086](../bhakti-ratnakara/ru/12.md?plain=1#L10142-L10179) · `brt-7082`
+- bhakti-ratnakara (B): Таранга 12, 3417–3438 — [3417–3438](../bhakti-ratnakara/ru/12.md?plain=1#L11315-L11389) · `brt-7103`
 - padas (A): Васу Рамананда, БР (с. 952) = КГЧ (29-я кшанада, № 1) «চৌদিগে গোবিন্দধ্বনি শুনি পহুঁ হাসে» — [1.1–1.4](../padas/ru/06.md?plain=1#L17-L26) · `pad-0099`
 - padas (B): Рамачандра Дас, ПК 2064 = ГПТ1 с. 250 (№ 6, без подписи) «দেখ শচীনন্দন জগত-জীবন-ধন» — [14.1–14.4](../padas/ru/07.md?plain=1#L463-L477) · `pad-0136`
 - padas (B): Чайтаньядас, ПК 664 = БР (с. 951) «মহাভুজ নাচত চৈতন্য রায়» — [10.1–10.4](../padas/ru/06.md?plain=1#L329-L343) · `pad-0108`
@@ -1577,6 +1701,7 @@
 
 ## Чудо с манговым деревом / The miracle of the mango tree  `ev-mango-tree` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2086–2089 — [2086–2089](../bhakti-ratnakara/ru/12.md?plain=1#L6811-L6820) · `brt-7008`
 - cc (A): Ади 17.79–88 — [79–88](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L813-L903) · `cc-0264`
 - gaura-krishnodaya (B): Сарга 5, 46–47 — [46–47](../gaura-krishnodaya/ru/05.md?plain=1#L101-L103) · `gkd-0051`
 - karnapura-ckm (A): Сарга 6, 28–34 — [28–34](../karnapura-mahakavya/ru/06.md?plain=1#L644-L779) · `kcm-0053`
@@ -1592,12 +1717,14 @@
 
 ## Всеведущий астролог видит в Господе Кришну / The omniscient astrologer sees Krishna in the Lord  `ev-astrologer-sarvajna` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2226–2234 — [2226–2234](../bhakti-ratnakara/ru/12.md?plain=1#L7233-L7257) · `brt-7034`
 - cb (A): Ади 12, 153–177 — [153–177](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L761-L883) · `cb-0090`
 - cc (A): Ади 17.103–114 — [103–114](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L1053-L1163) · `cc-0269`
 - gaura-krishnodaya (B): Сарга 5, 48 — [48–48](../gaura-krishnodaya/ru/05.md?plain=1#L105-L105) · `gkd-0052`
 
 ## Служанка Духкхи носит воду с Ганги — Господь нарекает её Сукхи / The maidservant Duhkhi carries Ganga water — the Lord names her Sukhi  `ev-duhkhi-named-sukhi` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2676 — [2676–2676](../bhakti-ratnakara/ru/12.md?plain=1#L8790-L8790) · `brt-7063`
 - cb (A): Мадхья 25, 1–23 — [1–23](../chaitanya-bhagavata/ed/CB_Madhya25.md?plain=1#L12-L119) · `cb-2058`
 
 ## Наставление Мурари Гупте оставить рассуждения о Самости / Murari Gupta is told to give up speculation on the Self  `ev-murari-adhyatma-instruction` (1509–1510, возраст 23–24, оценка)
@@ -1609,21 +1736,25 @@
 
 ## Умерший сын Шривасы говорит о душе / Srivasa's dead son speaks about the soul  `ev-shrivasa-dead-son-speaks` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3454–3462 — [3454–3462](../bhakti-ratnakara/ru/12.md?plain=1#L11450-L11474) · `brt-7106`
 - cb (A): Мадхья 25, 24–84 — [34–84](../chaitanya-bhagavata/ed/CB_Madhya25.md?plain=1#L147-L394) · `cb-2059`
 - cc (A): Ади 17.227–229 — [227–229](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2291-L2311) · `cc-0276`
 - gaura-krishnodaya (B): Сарга 5, 49–50 — [49–50](../gaura-krishnodaya/ru/05.md?plain=1#L107-L111) · `gkd-0053`
 
 ## Господь пляшет в доме Шривасы и Шри Рамы / The Lord dances in the house of Shrivasa and Shri Rama  `ev-dance-shrivasa-house` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2538–2591 — [2538–2591](../bhakti-ratnakara/ru/12.md?plain=1#L8244-L8457) · `brt-7058`
 - cc (A): Ади 10.8–11 — [8–11](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L93-L123) · `cc-0109`
 - karnapura-ckm (A): Сарга 5, 119–129 — [119–129](../karnapura-mahakavya/ru/05.md?plain=1#L2652-L2878) · `kcm-0048`
 - karnapura-ckm (A): Сарга 6, 47–48 — [47–48](../karnapura-mahakavya/ru/06.md?plain=1#L1070-L1091) · `kcm-0056`
 - lochana-cm (B): Мадхья-кханда, «Милость к Мукунде», 81–86 — [81–86](../lochana/ru/26.md?plain=1#L179-L194) · `lcm-0114`
 - murari-kcc (A): Пракрама 2, сарга 4, шлоки 27–32 — [27–32](../murari-gupta/ru/2.04.md?plain=1#L57-L67) · `mkc-0080`
+- bhakti-ratnakara (B): Таранга 12, 3381–3403 — [3381–3403](../bhakti-ratnakara/ru/12.md?plain=1#L11194-L11272) · `brt-7100`
 - cb (A): Мадхья 8, 138–228 — [138–228](../chaitanya-bhagavata/ed/CB_Madhya08.md?plain=1#L661-L1099) · `cb-1058`
 
 ## Ученик-хулитель: Господь омывается в Ганге / A blaspheming student: the Lord bathes in the Ganga  `ev-blasphemous-student-ganga-bath` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2084–2085 — [2084–2085](../bhakti-ratnakara/ru/12.md?plain=1#L6805-L6808) · `brt-7007`
 - cc (A): Ади 17.72–76 — [72–76](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L735-L779) · `cc-0262`
 - karnapura-ckm (A): Сарга 6, 49–52 — [49–52](../karnapura-mahakavya/ru/06.md?plain=1#L1112-L1180) · `kcm-0057`
 - lochana-cm (B): Мадхья-кханда, «Милость к Мукунде», 87–93 — [87–93](../lochana/ru/26.md?plain=1#L197-L215) · `lcm-0115`
@@ -1631,6 +1762,7 @@
 
 ## Господь посещает Адвайту / The Lord visits Advaita  `ev-visit-advaita` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2338–2348 — [2338–2348](../bhakti-ratnakara/ru/12.md?plain=1#L7569-L7599) · `brt-7047`
 - cb (A): Мадхья 2, 126–158 — [126–158](../chaitanya-bhagavata/ed/CB_Madhya02.md?plain=1#L628-L785) · `cb-1017`
 - karnapura-ckm (A): Сарга 6, 53–62 — [53–62](../karnapura-mahakavya/ru/06.md?plain=1#L1203-L1404) · `kcm-0058`
 - lochana-cm (B): Мадхья-кханда, «Истина об Адвайте», 1–35 — [1–2:35](../lochana/ru/26.md?plain=1#L226-L328) · `lcm-0116`
@@ -1652,6 +1784,9 @@
 
 - cb (A): Мадхья 6, 1–58 — [1–58](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L14-L290) · `cb-1040`
 - cb (A): Мадхья 6, 59–72 — [59–72](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L295-L360) · `cb-1041`
+- bhakti-ratnakara (B): Таранга 12, 1748–1749 — [1748–1749](../bhakti-ratnakara/ru/12.md?plain=1#L5712-L5715) · `brt-6079`
+- bhakti-ratnakara (B): Таранга 12, 1794–1800 — [1794–1800](../bhakti-ratnakara/ru/12.md?plain=1#L5870-L5888) · `brt-6084`
+- bhakti-ratnakara (B): Таранга 12, 2469–2501 — [2469–2501](../bhakti-ratnakara/ru/12.md?plain=1#L8032-L8128) · `brt-7055`
 - chaitanya-chandrodaya (A): Акт 2, главная сцена — [*(Затем входят: восседающий Господь Вишв–**Адвайта.** Зачем говорить «его»? Скажи](../chaitanya-chandrodaya/ru/02.md?plain=1#L268-L298) · `ccd-0028`
 - karnapura-ckm (A): Сарга 5, 22–31 — [22–31](../karnapura-mahakavya/ru/05.md?plain=1#L499-L702) · `kcm-0043`
 - karnapura-ckm (A): Сарга 6, 76–85 — [76–85](../karnapura-mahakavya/ru/06.md?plain=1#L1736-L1934) · `kcm-0061`
@@ -1667,16 +1802,22 @@
 
 - chaitanya-chandrodaya (A): Акт 2, главная сцена, ст. 25–33 — [*(Адвайта шепчет что-то на ухо Шривасу.)–*Так заканчивается второй акт «Шри Шри Ч](../chaitanya-chandrodaya/ru/02.md?plain=1#L300-L437) · `ccd-0029`
 
+## Адвайта пляшет в бхаве гопи в доме Шривасы / Advaita dances in the mood of a gopi at Srivasa's house  `ev-advaita-gopi-bhava-dance` (1509–1510, возраст 23–24, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 3439–3449 — [3439–3449](../bhakti-ratnakara/ru/12.md?plain=1#L11392-L11435) · `brt-7104`
+
 ## Господь являет Адвайте вселенский облик / The Lord reveals the universal form to Advaita  `ev-vishvarupa-shown-advaita` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Мадхья 6, 73–103 — [73–103](../chaitanya-bhagavata/ed/CB_Madhya06.md?plain=1#L365-L515) · `cb-1042`
 - cb (A): Мадхья 24, 32–74 — [32–74](../chaitanya-bhagavata/ed/CB_Madhya24.md?plain=1#L164-L374) · `cb-2056`
 - cc (A): Ади 17.10 — [10–10](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L113-L113) · `cc-0245`
 - gaura-krishnodaya (B): Сарга 5, 31 — [31–31](../gaura-krishnodaya/ru/05.md?plain=1#L69-L69) · `gkd-0045`
+- bhakti-ratnakara (B): Таранга 12, 3450–3453 — [3450–3453](../bhakti-ratnakara/ru/12.md?plain=1#L11438-L11447) · `brt-7105`
 - cb (A): Мадхья 24, 75–102 — [75–102](../chaitanya-bhagavata/ed/CB_Madhya24.md?plain=1#L379-L508) · `cb-2057`
 
 ## Мурари читает «Рамаштаку» и становится Рамадасом / Murari recites the Ramashtaka and becomes Ramadasa  `ev-murari-ramadasa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2595–2611 — [2595–2611](../bhakti-ratnakara/ru/12.md?plain=1#L8469-L8537) · `brt-7060`
 - cc (A): Ади 17.69 — [69–69](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L705-L705) · `cc-0259`
 - karnapura-ckm (A): Сарга 6, 98–101 — [98–101](../karnapura-mahakavya/ru/06.md?plain=1#L2225-L2292) · `kcm-0063`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Нитьянандой», 1–17 — [1–17](../lochana/ru/28.md?plain=1#L11-L59) · `lcm-0122`
@@ -1710,6 +1851,8 @@
 - cb (A): Мадхья 3, 121–136 — [121–136](../chaitanya-bhagavata/ed/CB_Madhya03.md?plain=1#L594-L669) · `cb-1028`
 - cb (A): Мадхья 3, 137–173 — [137–173](../chaitanya-bhagavata/ed/CB_Madhya03.md?plain=1#L674-L842) · `cb-1029`
 - advaita-prakasha (D): Гл. 14, 71–97 — [71. Под предло–97. С тех пор Ш](../advaita-prakash/14.md?plain=1#L75-L101) · `apr-0073`
+- bhakti-ratnakara (B): Таранга 12, 1724–1747 — [1724–1747](../bhakti-ratnakara/ru/12.md?plain=1#L5631-L5709) · `brt-6078`
+- bhakti-ratnakara (B): Таранга 12, 2419–2447 — [2419–2447](../bhakti-ratnakara/ru/12.md?plain=1#L7869-L7966) · `brt-7052`
 - cb (A): Мадхья 3, 174–190 — [174–190](../chaitanya-bhagavata/ed/CB_Madhya03.md?plain=1#L847-L927) · `cb-1030`
 - jayananda-cm (C): Надия-кханда: «Нитьянанда в Навадвипе» (цитаты); конец Надия-кханды (рукопись № 546, л. 41) — [31:1–12:6](../jayananda/ru/05-quotes.md?plain=1#L492-L506); [9:1–6:4](../jayananda/ru/06-manuscripts.md?plain=1#L163-L168) · `jcm-0046`
 - karnapura-ckm (A): Сарга 6, 106–116 — [106–116](../karnapura-mahakavya/ru/06.md?plain=1#L2418-L2641) · `kcm-0065`
@@ -1728,6 +1871,7 @@
 
 ## Сон Шачи: Гаура и Нитьянанда спорят с Божествами Кришны и Баларамы за подношения / Shachi's dream: Gaura and Nityananda quarrel with the Deities of Krishna and Balarama over the offerings  `ev-shachi-dream-krishna-balarama-deities` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1817–1835 — [1817–1835](../bhakti-ratnakara/ru/12.md?plain=1#L5939-L5993) · `brt-6086`
 - cb (A): Мадхья 8, 28–50 — [28–50](../chaitanya-bhagavata/ed/CB_Madhya08.md?plain=1#L141-L251) · `cb-1053`
 
 ## Нитьянанда в доме Господа; Шачи принимает Его как сына / Nityananda at the Lord's home; Shachi accepts Him as her son  `ev-nityananda-meal-shachi` (1509–1510, возраст 23–24, оценка)
@@ -1738,6 +1882,7 @@
 
 ## Шестирукий облик, явленный Нитьянанде / The six-armed form revealed to Nityananda  `ev-six-armed-form-nityananda` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2448–2457 — [2448–2457](../bhakti-ratnakara/ru/12.md?plain=1#L7969-L7996) · `brt-7053`
 - cc (A): Ади 17.12–15 — [12–15](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L133-L163) · `cc-0247`
 - chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви), ст. 20–23 — [**Бхакти-деви.** Так, по порядку изобраз–**Вирага.** Ах, это поистине удивительно](../chaitanya-chandrodaya/ru/02.md?plain=1#L205-L239) · `ccd-0024`
 - gaura-krishnodaya (B): Сарга 5, 33–35 — [33–35](../gaura-krishnodaya/ru/05.md?plain=1#L75-L79) · `gkd-0047`
@@ -1756,20 +1901,24 @@
 
 - cb (A): Мадхья 5, 1–36 — [1–36](../chaitanya-bhagavata/ed/CB_Madhya05.md?plain=1#L14-L189) · `cb-1034`
 - cb (A): Мадхья 5, 37–65 — [37–65](../chaitanya-bhagavata/ed/CB_Madhya05.md?plain=1#L194-L328) · `cb-1035`
+- bhakti-ratnakara (B): Таранга 12, 2458–2468 — [2458–2468](../bhakti-ratnakara/ru/12.md?plain=1#L7999-L8029) · `brt-7054`
 - cb (A): Мадхья 5, 153–172 — [153–172](../chaitanya-bhagavata/ed/CB_Madhya05.md?plain=1#L758-L853) · `cb-1039`
 - cc (A): Ади 17.16 — [16–16](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L173-L173) · `cc-0248`
 
 ## Нитьянанда живёт у Шривасы как дитя; Малини кормит Его, как сына / Nityananda lives at Shrivasa's house like a child; Malini feeds Him as her son  `ev-nityananda-child-malini` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2529–2537 — [2529–2537](../bhakti-ratnakara/ru/12.md?plain=1#L8217-L8241) · `brt-7057`
 - cb (A): Мадхья 7, 1–8 — [1–8](../chaitanya-bhagavata/ed/CB_Madhya07.md?plain=1#L12-L47) · `cb-1046`
 - cb (A): Мадхья 11, 1–30 — [1–30](../chaitanya-bhagavata/ed/CB_Madhya11.md?plain=1#L12-L151) · `cb-1076`
 
 ## Ворона уносит горшочек Малини — по слову Нитьянанды приносит его обратно / A crow carries off Malini's pot — at Nityananda's word it brings it back  `ev-crow-ghee-pot-malini` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2700–2706 — [2700–2706](../bhakti-ratnakara/ru/12.md?plain=1#L8862-L8880) · `brt-7065`
 - cb (A): Мадхья 11, 31–64 — [31–64](../chaitanya-bhagavata/ed/CB_Madhya11.md?plain=1#L156-L312) · `cb-1077`
 
 ## Нитьянанда-дитя в доме Шачи: ответы невпопад и выброшенные сандеши / Child-like Nityananda at Shachi's house: answers at random and the thrown-away sandesh  `ev-nityananda-sandesh-shachi` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1895–1901 — [1895–1901](../bhakti-ratnakara/ru/12.md?plain=1#L6180-L6198) · `brt-6090`
 - cb (A): Мадхья 11, 65–99 — [65–99](../chaitanya-bhagavata/ed/CB_Madhya11.md?plain=1#L317-L487) · `cb-1078`
 
 ## Господь видит во сне Кришну и плачет / The Lord sees Krishna in a dream and weeps  `ev-dream-of-krishna` (1509–1510, возраст 23–24, оценка)
@@ -1804,6 +1953,7 @@
 - cb (A): Мадхья 19, 1–27 — [1–27](../chaitanya-bhagavata/ed/CB_Madhya19.md?plain=1#L12-L139) · `cb-2021`
 - cb (A): Мадхья 19, 28–41 — [28–41](../chaitanya-bhagavata/ed/CB_Madhya19.md?plain=1#L144-L209) · `cb-2022`
 - advaita-prakasha (D): Гл. 14, 98–137 — [98. Однажды Шр–137. Харидас, в](../advaita-prakash/14.md?plain=1#L102-L141) · `apr-0074`
+- bhakti-ratnakara (B): Таранга 12, 1954–1983 — [1954–1983](../bhakti-ratnakara/ru/12.md?plain=1#L6389-L6476) · `brt-6097`
 - cb (A): Мадхья 19, 118–150 — [118–150](../chaitanya-bhagavata/ed/CB_Madhya19.md?plain=1#L573-L733) · `cb-2025`
 - cc (A): Ади 12.39–42 — [39–42](../chaitanya-charitamrita/ed/vcd/CC_Adi12.md?plain=1#L403-L433) · `cc-0170`
 - cc (A): Ади 17.66–68 — [66–68](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L675-L695) · `cc-0258`
@@ -1812,6 +1962,10 @@
 - cb (A): Мадхья 19, 151–220 — [151–220](../chaitanya-bhagavata/ed/CB_Madhya19.md?plain=1#L738-L1074) · `cb-2026`
 - advaita-prakasha (D): Гл. 14, 138–154 — [138. Тогда Мах–154. После тра](../advaita-prakash/14.md?plain=1#L142-L158) · `apr-0075`
 - cb (A): Мадхья 19, 262–274 — [262–274](../chaitanya-bhagavata/ed/CB_Madhya19.md?plain=1#L1281-L1341) · `cb-2028`
+
+## Адвайта отвергает последователя Шанкару, утвердившегося в джняне / Advaita rejects His follower Shankara, who held fast to jnana  `ev-advaita-rejects-shankara` (1509–1510, возраст 23–24, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 1984–1988 — [1984–1988](../bhakti-ratnakara/ru/12.md?plain=1#L6479-L6491) · `brt-6098`
 
 ## Ночной киртан за запертыми дверями у Шривасы; хула толпы у ворот / The night kirtan behind closed doors at Shrivasa's; the crowd's blasphemy at the gate  `ev-closed-door-kirtan-scoffers` (1509–1510, возраст 23–24, оценка)
 
@@ -1830,45 +1984,56 @@
 
 ## Господь на троне с шалаграмами: «Я — Кришна, Нараяна!» — съедает все подношения / The Lord on the throne with the shalagramas: 'I am Krishna, Narayana!' — He eats all the offerings  `ev-lord-eats-offerings-throne` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2592–2594 — [2592–2594](../bhakti-ratnakara/ru/12.md?plain=1#L8460-L8466) · `brt-7059`
 - cb (A): Мадхья 8, 281–326 — [281–326](../chaitanya-bhagavata/ed/CB_Madhya08.md?plain=1#L1358-L1583) · `cb-1060`
 
 ## Сон Мурари: Нитьянанда — старший брат; остатки бетеля и обличение Пракашананды / Murari's dream: Nityananda is the elder brother; betel remnants and the denunciation of Prakashananda  `ev-murari-dream-nityananda-elder` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2931a–2954 — [2931a–2954](../bhakti-ratnakara/ru/12.md?plain=1#L9664-L9733) · `brt-7075`
 - cb (A): Мадхья 20, 1–53 — [1–53](../chaitanya-bhagavata/ed/CB_Madhya20.md?plain=1#L12-L254) · `cb-2029`
 
 ## Мурари в экстазе кормит Кришну рисом; Господь «лечится» его водой / Murari feeds Krishna rice in ecstasy; the Lord 'cures' Himself with Murari's water  `ev-murari-rice-lord-indigestion` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2955–2965 — [2955–2965](../bhakti-ratnakara/ru/12.md?plain=1#L9736-L9766) · `brt-7076`
 - cb (A): Мадхья 20, 54–77 — [61–77](../chaitanya-bhagavata/ed/CB_Madhya20.md?plain=1#L276-L353) · `cb-2030`
 
 ## Мурари в бхаве Гаруды носит Господа на плечах / Murari in the mood of Garuda carries the Lord on his shoulders  `ev-murari-garuda` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2966–2969 — [2966–2969](../bhakti-ratnakara/ru/12.md?plain=1#L9769-L9778) · `brt-7077`
 - cb (A): Мадхья 20, 78–104 — [82–104](../chaitanya-bhagavata/ed/CB_Madhya20.md?plain=1#L369-L479) · `cb-2031`
 
 ## Мурари решает оставить тело прежде Господа; Господь отбирает нож / Murari resolves to leave his body before the Lord departs; the Lord takes away the knife  `ev-murari-knife` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2970–2974 — [2970–2974](../bhakti-ratnakara/ru/12.md?plain=1#L9781-L9793) · `brt-7078`
 - cb (A): Мадхья 20, 105–160 — [113–160](../chaitanya-bhagavata/ed/CB_Madhya20.md?plain=1#L503-L732) · `cb-2032`
 
 ## Запах вина у кабака: Господь в бхаве Баларамы; пьяницы поют «Хари» / The smell of wine at a tavern: the Lord in Balarama's mood; the drunkards chant 'Hari'  `ev-wine-shop-balarama-bhava` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2978–2984 — [2978–2984](../bhakti-ratnakara/ru/12.md?plain=1#L9805-L9823) · `brt-7080`
 - cb (A): Мадхья 21, 29–52 — [29–52](../chaitanya-bhagavata/ed/CB_Madhya21.md?plain=1#L149-L264) · `cb-2034`
 
 ## Портной-мусульманин в доме Шривасы видит Господа / The Muslim tailor at Srivasa's house sees the Lord  `ev-muslim-tailor` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3463–3466 — [3463–3466](../bhakti-ratnakara/ru/12.md?plain=1#L11477-L11486) · `brt-7107`
 - cc (A): Ади 17.231–232 — [231–232](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2331-L2341) · `cc-0278`
 - chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви), ст. 18–19 — [**Вирага.** Владычица, неужели он всегда–**Вирага.** Так оно и есть. А дальше, да](../chaitanya-chandrodaya/ru/02.md?plain=1#L155-L183) · `ccd-0022`
 
 ## Господь обличает Девананду Пандита, выгнавшего Шривасу с чтения «Бхагаваты» / The Lord rebukes Devananda Pandita for expelling Shrivasa from his Bhagavata recitation  `ev-devananda-rebuked` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Мадхья 21, 1–28 — [1–28](../chaitanya-bhagavata/ed/CB_Madhya21.md?plain=1#L12-L144) · `cb-2033`
+- bhakti-ratnakara (B): Таранга 12, 2975–2977 — [2975–2977](../bhakti-ratnakara/ru/12.md?plain=1#L9796-L9802) · `brt-7079`
 - cb (A): Мадхья 21, 53–82 — [53–82](../chaitanya-bhagavata/ed/CB_Madhya21.md?plain=1#L269-L384) · `cb-2035`
 
 ## Махапракаша: абхишека Господа в доме Шривасы / The mahaprakasha: the Lord's abhisheka in Shrivasa's house  `ev-mahaprakasha-abhisheka` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1891–1894 — [1891–1894](../bhakti-ratnakara/ru/12.md?plain=1#L6168-L6177) · `brt-6089`
+- bhakti-ratnakara (B): Таранга 12, 2651–2675 — [2651–2675](../bhakti-ratnakara/ru/12.md?plain=1#L8704-L8787) · `brt-7062`
 - cb (A): Мадхья 9, 1–41 — [1–41](../chaitanya-bhagavata/ed/CB_Madhya09.md?plain=1#L12-L209) · `cb-1061`
 - cc (A): Ади 17.11 — [11–11](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L123-L123) · `cc-0246`
 - gaura-krishnodaya (B): Сарга 5, 32 — [32–32](../gaura-krishnodaya/ru/05.md?plain=1#L71-L71) · `gkd-0046`
 - cb (A): Мадхья 9, 42–87 — [42–87](../chaitanya-bhagavata/ed/CB_Madhya09.md?plain=1#L214-L433) · `cb-1062`
 - cb (A): Мадхья 9, 88–108 — [88–108](../chaitanya-bhagavata/ed/CB_Madhya09.md?plain=1#L438-L538) · `cb-1063`
+- bhakti-ratnakara (B): Таранга 12, 2677–2699 — [2677–2699](../bhakti-ratnakara/ru/12.md?plain=1#L8793-L8859) · `brt-7064`
 - cb (A): Мадхья 9, 121–134 — [121–134](../chaitanya-bhagavata/ed/CB_Madhya09.md?plain=1#L603-L668) · `cb-1065`
 - cb (A): Мадхья 10, 166–173 — [166–173](../chaitanya-bhagavata/ed/CB_Madhya10.md?plain=1#L818-L847) · `cb-1071`
 - cc (A): Ади 17.18 — [18–18](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L193-L193) · `cc-0250`
@@ -1915,6 +2080,7 @@
 
 ## Приход Харидаса; Господь чтит его / Haridasa arrives; the Lord honours him  `ev-haridasa-arrives` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2297–2299 — [2297–2299](../bhakti-ratnakara/ru/12.md?plain=1#L7446-L7452) · `brt-7040`
 - jayananda-cm (C): Статья Н. Васу 1897, «Особые сведения» 2 (14.2.11–13; 73.2.9) — [2. Автор «Чайтанья-бхагаваты» Вриндаван –В Буране происходило много игр Харидаса;](../jayananda/ru/02-vasu-1897.md?plain=1#L620-L644) · `jcm-0048`
 - karnapura-ckm (A): Сарга 7, 48–52 — [48–52](../karnapura-mahakavya/ru/07.md?plain=1#L1103-L1193) · `kcm-0072`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Адвайтой и Харидасом», 59–69 — [59–69](../lochana/ru/29.md?plain=1#L185-L215) · `lcm-0132`
@@ -1922,6 +2088,7 @@
 
 ## Каупина Нитьянанды, разделённая между преданными / Nityananda's kaupina shared among the devotees  `ev-nityananda-kaupina` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1902–1913 — [1902–1913](../bhakti-ratnakara/ru/12.md?plain=1#L6201-L6247) · `brt-6091`
 - cb (A): Мадхья 12, 1–31 — [1–31](../chaitanya-bhagavata/ed/CB_Madhya12.md?plain=1#L12-L162) · `cb-1079`
 - karnapura-ckm (A): Сарга 7, 53–57 — [53–57](../karnapura-mahakavya/ru/07.md?plain=1#L1216-L1304) · `kcm-0073`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Адвайтой и Харидасом», 70–80 — [70–80](../lochana/ru/29.md?plain=1#L218-L248) · `lcm-0133`
@@ -1935,6 +2102,7 @@
 
 ## Господь в шутку отнимает у преданных одежды / The Lord playfully takes the devotees' clothes  `ev-lord-takes-clothes` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3355–3363 — [3355–3363](../bhakti-ratnakara/ru/12.md?plain=1#L11091-L11121) · `brt-7098`
 - karnapura-ckm (A): Сарга 7, 66 — [66–66](../karnapura-mahakavya/ru/07.md?plain=1#L1502-L1502) · `kcm-0075`
 - lochana-cm (C): Мадхья-кханда, «Игры с преданными и спасение Джагая и Мадхая», 2+1–2+7 (только изд. 1983 г.) — [2+1–2+7](../lochana/ru/30.md?plain=1#L17-L35) · `lcm-0254`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 351 (5.2, № 26) «গোরাচাঁদের কিবা এ লীলা» = БР 12 (изд. 1912, с. 946; изд. 1960, ст. 3358–3361) — [7.1–7.4](../padas/ru/23.md?plain=1#L194-L203) · `pad-0496`
@@ -1971,6 +2139,8 @@
 - prema-vilasa (D): Виласа 21, 36–49 — [36–49](../prema-vilasa/ru/21.md?plain=1#L110-L149) · `pvl-0181`
 - advaita-prakasha (D): Гл. 14, 155–158 — [155. Втроём он–158. Уповая на](../advaita-prakash/14.md?plain=1#L159-L162) · `apr-0076`
 - bhakti-ratnakara (B): Таранга 2, 265–295 — [265–295](../bhakti-ratnakara/ru/02.md?plain=1#L797-L887) · `brt-0052`
+- bhakti-ratnakara (B): Таранга 12, 1914–1929 — [1914–1929](../bhakti-ratnakara/ru/12.md?plain=1#L6250-L6303) · `brt-6092`
+- bhakti-ratnakara (B): Таранга 12, 2707–2737 — [2707–2737](../bhakti-ratnakara/ru/12.md?plain=1#L8883-L8998) · `brt-7066`
 - cb (A): Мадхья 13, 31–113 — [31–113](../chaitanya-bhagavata/ed/CB_Madhya13.md?plain=1#L161-L559) · `cb-1082`
 - cc (A): Ади 17.17 — [17–17](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L183-L183) · `cc-0249`
 - chaitanya-chandrodaya (A): Акт 1, вишкамбхака (Кали и Адхарма), ст. 38 — [**Адхарма.** Друг, не говори так!–**Кали.** Друг мой, что может сделать ем](../chaitanya-chandrodaya/ru/01.md?plain=1#L292-L299) · `ccd-0012`
@@ -1987,6 +2157,7 @@
 ## Раскаяние Мадхая: молитва Нитьянанде и гхат на Ганге / Madhai's repentance: his prayer to Nityananda and the ghat on the Ganga  `ev-madhai-ghat` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Мадхья 15, 1–19 — [1–19](../chaitanya-bhagavata/ed/CB_Madhya15.md?plain=1#L13-L103) · `cb-2001`
+- bhakti-ratnakara (B): Таранга 12, 2738–2742 — [2738–2742](../bhakti-ratnakara/ru/12.md?plain=1#L9001-L9013) · `brt-7067`
 - cb (A): Мадхья 15, 20–70 — [20–70](../chaitanya-bhagavata/ed/CB_Madhya15.md?plain=1#L108-L352) · `cb-2002`
 - cb (A): Мадхья 15, 71–95 — [71–95](../chaitanya-bhagavata/ed/CB_Madhya15.md?plain=1#L357-L477) · `cb-2003`
 
@@ -1996,10 +2167,13 @@
 
 ## Тёща Шривасы, спрятавшаяся на ночном киртане / Shrivasa's mother-in-law hidden at the night kirtana  `ev-shrivasa-mother-in-law-expelled` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1934 — [1934–1934](../bhakti-ratnakara/ru/12.md?plain=1#L6318-L6318) · `brt-6094`
+- bhakti-ratnakara (B): Таранга 12, 2743–2749 — [2743–2749](../bhakti-ratnakara/ru/12.md?plain=1#L9016-L9034) · `brt-7068`
 - cb (A): Мадхья 16, 1–23 — [1–23](../chaitanya-bhagavata/ed/CB_Madhya16.md?plain=1#L12-L122) · `cb-2005`
 
 ## Адвайта крадёт пыль со стоп Господа / Advaita steals the dust of the Lord's feet  `ev-advaita-steals-foot-dust` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2750–2753 — [2750–2753](../bhakti-ratnakara/ru/12.md?plain=1#L9037-L9046) · `brt-7069`
 - cb (A): Мадхья 16, 24–50 — [24–50](../chaitanya-bhagavata/ed/CB_Madhya16.md?plain=1#L127-L254) · `cb-2006`
 - cb (A): Мадхья 16, 51–108 — [51–108](../chaitanya-bhagavata/ed/CB_Madhya16.md?plain=1#L259-L502) · `cb-2007`
 
@@ -2010,8 +2184,11 @@
 ## Ночное шествие с киртаном по Навадвипе и усмирение Кази / The night kirtana procession through Navadvipa and the subduing of the Kazi  `ev-nagara-kirtana-kazi` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Мадхья 23, 60–92 — [60–92](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L283-L443) · `cb-2045`
+- bhakti-ratnakara (B): Таранга 12, 2045–2054 — [2045–2054](../bhakti-ratnakara/ru/12.md?plain=1#L6688-L6715) · `brt-7004`
 - cb (A): Мадхья 23, 93–117 — [93–113](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L448-L548) · `cb-2046`
 - bhakti-ratnakara (B): Таранга 2, 296–318 — [296–318](../bhakti-ratnakara/ru/02.md?plain=1#L890-L956) · `brt-0053`
+- bhakti-ratnakara (B): Таранга 12, 2055–2074 — [2055–2074](../bhakti-ratnakara/ru/12.md?plain=1#L6718-L6775) · `brt-7005`
+- bhakti-ratnakara (B): Таранга 12, 3087–3135 — [3087–3135](../bhakti-ratnakara/ru/12.md?plain=1#L10184-L10330) · `brt-7083`
 - cb (A): Мадхья 23, 118–155 — [118–155](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L567-L746) · `cb-2047`
 - cc (A): Ади 17.121–138 — [121–138](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L1233-L1403) · `cc-0271`
 - gaura-krishnodaya (B): Сарга 5, 40–45 — [40–45](../gaura-krishnodaya/ru/05.md?plain=1#L89-L99) · `gkd-0050`
@@ -2028,6 +2205,7 @@
 
 ## Нищий брахман Ванамали с сыном видит в Гауре Кришну / The poor brahmana Vanamali and his son see Krishna in Gaura  `ev-vanamali-brahmana-vision` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2075–2083 — [2075–2083](../bhakti-ratnakara/ru/12.md?plain=1#L6778-L6802) · `brt-7006`
 - karnapura-ckm (A): Сарга 7, 76–78 — [76–78](../karnapura-mahakavya/ru/07.md?plain=1#L1720-L1763) · `kcm-0078`
 - lochana-cm (B): Мадхья-кханда, «Дивные игры Махапрабху в бхаве Бхагавана», 1–36 — [1–36](../lochana/ru/31.md?plain=1#L146-L254) · `lcm-0141`
 - murari-kcc (A): Пракрама 2, сарга 11, шлоки 1–6 — [1–6](../murari-gupta/ru/2.11.md?plain=1#L5-L15) · `mkc-0106`
@@ -2035,6 +2213,7 @@
 ## Шридхара Кхолавеча: Господь шутит с ним, берёт его банановые побеги, цветы и плоды и пьёт из его дырявого железного кувшина / Shridhara Kholavecha: the Lord jokes with him, takes his banana stems, flowers and fruits, and drinks from his broken iron pot  `ev-shridhara-kholavecha` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Ади 12, 178–213 — [178–213](../chaitanya-bhagavata/ed/CB_Adi12.md?plain=1#L888-L1051) · `cb-0091`
+- bhakti-ratnakara (B): Таранга 12, 3136–3146 — [3136–3146](../bhakti-ratnakara/ru/12.md?plain=1#L10333-L10364) · `brt-7084`
 - cb (A): Мадхья 9, 135–188 — [135–188](../chaitanya-bhagavata/ed/CB_Madhya09.md?plain=1#L673-L932) · `cb-1066`
 - cb (A): Мадхья 23, 428–494 — [428–494](../chaitanya-bhagavata/ed/CB_Madhya23.md?plain=1#L2136-L2444) · `cb-2052`
 - cc (A): Ади 10.67–68 — [67–68](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L683-L693) · `cc-0129`
@@ -2043,6 +2222,7 @@
 
 ## Бхава Нрисимхи в доме Шривасы / The Nrisimha mood at Shrivasa's house  `ev-nrisimha-bhava-shrivasa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3479–3481 — [3479–3481](../bhakti-ratnakara/ru/12.md?plain=1#L11525-L11531) · `brt-7111`
 - cc (A): Ади 17.90–98 — [90–98](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L923-L1003) · `cc-0266`
 - karnapura-ckm (A): Сарга 7, 79–85 — [79–85](../karnapura-mahakavya/ru/07.md?plain=1#L1784-L1914) · `kcm-0079`
 - lochana-cm (B): Мадхья-кханда, «Дивные игры Махапрабху в бхаве Бхагавана», 37–49 — [37–49](../lochana/ru/31.md?plain=1#L259-L295) · `lcm-0142`
@@ -2050,6 +2230,7 @@
 
 ## Певец Шивы: Господь в бхаве Шивы / The singer of Shiva's glories: the Lord in Shiva's mood  `ev-shiva-singer` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 1836–1846 — [1836–1846](../bhakti-ratnakara/ru/12.md?plain=1#L5996-L6027) · `brt-6087`
 - cb (A): Мадхья 8, 96–105 — [96–105](../chaitanya-bhagavata/ed/CB_Madhya08.md?plain=1#L472-L517) · `cb-1056`
 - cc (A): Ади 17.99–100 — [99–100](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L1013-L1023) · `cc-0267`
 - karnapura-ckm (A): Сарга 7, 86–90 — [86–90](../karnapura-mahakavya/ru/07.md?plain=1#L1935-L2025) · `kcm-0080`
@@ -2064,6 +2245,7 @@
 ## Господь бросается в Гангу / The Lord throws Himself into the Ganga  `ev-jump-into-ganga` (1509–1510, возраст 23–24, оценка)
 
 - cb (A): Мадхья 17, 1–30 — [1–30](../chaitanya-bhagavata/ed/CB_Madhya17.md?plain=1#L12-L133) · `cb-2009`
+- bhakti-ratnakara (B): Таранга 12, 1935–1939 — [1935–1939](../bhakti-ratnakara/ru/12.md?plain=1#L6321-L6333) · `brt-6095`
 - cb (A): Мадхья 17, 31–65 — [31–65](../chaitanya-bhagavata/ed/CB_Madhya17.md?plain=1#L138-L308) · `cb-2010`
 - cc (A): Ади 17.243–246 — [243–246](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2451-L2481) · `cc-0281`
 - karnapura-ckm (A): Сарга 7, 91–97 — [91–97](../karnapura-mahakavya/ru/07.md?plain=1#L2048-L2183) · `kcm-0081`
@@ -2091,22 +2273,28 @@
 - murari-kcc (A): Пракрама 2, сарга 1, шлоки 9–18 — [9–18](../murari-gupta/ru/2.01.md?plain=1#L21-L39) · `mkc-0065`
 - cb (A): Мадхья 22, 105–119 — [105–112](../chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L532-L567) · `cb-2042`
 - cb (A): Мадхья 22, 13–36 — [13–36](../chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L72-L187) · `cb-2038`
+- bhakti-ratnakara (B): Таранга 12, 1989–2000 — [1989–2000](../bhakti-ratnakara/ru/12.md?plain=1#L6494-L6527) · `brt-6099`
+- bhakti-ratnakara (B): Таранга 12, 2001–2007 — [2001–2007](../bhakti-ratnakara/ru/12.md?plain=1#L6530-L6548) · `brt-7001`
 - cb (A): Мадхья 22, 37–59 — [37–59](../chaitanya-bhagavata/ed/CB_Madhya22.md?plain=1#L192-L302) · `cb-2039`
 - cc (A): Ади 17.71 — [71–71](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L725-L725) · `cc-0261`
 - chaitanya-chandrodaya (A): Акт 1, главная сцена, ст. 67–70 — [А сейчас вот что: Шачи-деви, видя в нём –**Адвайта.** Эй, эй, Шривас и другие! В ](../chaitanya-chandrodaya/ru/01.md?plain=1#L556-L599) · `ccd-0019`
 
 ## Арати Гауранги в Навадвипе: Адвайта совершает арати, спутники поют и танцуют / Arati of Gauranga in Navadvipa: Advaita performs arati, the associates sing and dance  `ev-gaura-arati-navadvipa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2008–2028 — [2008–2028](../bhakti-ratnakara/ru/12.md?plain=1#L6551-L6631) · `brt-7002`
 - padas (B): Нарахари-паху (Чакраварти?), ГПТ1 с. 244 (№ 21) «জয় জয় আরতি গৌরকিশোর» = БР 12 (изд. 1912, с. 846–847) — [12.1–12.10](../padas/ru/17.md?plain=1#L356-L383) · `pad-0342`
+- bhakti-ratnakara (B): Таранга 12, 2029–2044 — [2029–2044](../bhakti-ratnakara/ru/12.md?plain=1#L6634-L6683) · `brt-7003`
 
 ## Господь с преданными убирает храм / The Lord and His devotees clean the temple  `ev-cleaning-temple` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2092–2096 — [2092–2096](../bhakti-ratnakara/ru/12.md?plain=1#L6829-L6842) · `brt-7010`
 - karnapura-ckm (A): Сарга 7, 107 — [107–107](../karnapura-mahakavya/ru/07.md?plain=1#L2422-L2422) · `kcm-0083`
 - lochana-cm (B): Мадхья-кханда, «Дивные игры Махапрабху в бхаве Бхагавана», 114–135 — [114–135](../lochana/ru/32.md?plain=1#L162-L228) · `lcm-0146`
 - murari-kcc (A): Пракрама 2, сарга 13, шлоки 1–5 — [1–5](../murari-gupta/ru/2.13.md?plain=1#L5-L13) · `mkc-0111`
 
 ## Прокажённый, оскорбивший Шривасу / The leper who offended Shrivasa  `ev-leper-shrivasa-offense` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3404–3409 — [3404–3409](../bhakti-ratnakara/ru/12.md?plain=1#L11275-L11290) · `brt-7101`
 - cc (A): Ади 17.34–54 — [34–54](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L361-L558) · `cc-0254`
 - chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви) — [**Бхакти-деви.** В другой день, в упоени–**Бхакти-деви.** Тогда недостойный брахм](../chaitanya-chandrodaya/ru/02.md?plain=1#L245-L253) · `ccd-0026`
 - gaura-krishnodaya (B): Сарга 5, 37–39 — [37–39](../gaura-krishnodaya/ru/05.md?plain=1#L83-L87) · `gkd-0049`
@@ -2119,6 +2307,7 @@
 
 ## Проклятие брахмана — благословение санньясы / A brahmana's curse becomes the blessing of sannyasa  `ev-brahmana-curse-sannyasa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3410–3416 — [3410–3416](../bhakti-ratnakara/ru/12.md?plain=1#L11293-L11311) · `brt-7102`
 - cc (A): Ади 17.60–64 — [60–64](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L615-L655) · `cc-0256`
 - karnapura-ckm (A): Сарга 8, 11–16 — [11–16](../karnapura-mahakavya/ru/08.md?plain=1#L204-L297) · `kcm-0085`
 - lochana-cm (B): Мадхья-кханда, «Избавление прокажённого от греха и бхава Баладевы», 45–69 — [45–69](../lochana/ru/33.md?plain=1#L5-L77) · `lcm-0148`
@@ -2127,6 +2316,7 @@
 
 ## Бхава Баларамы: «Дайте мёду!» / The mood of Balarama: "Bring Me honey!"  `ev-balarama-bhava` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3473–3474 — [3473–3474](../bhakti-ratnakara/ru/12.md?plain=1#L11507-L11510) · `brt-7109`
 - cb (A): Мадхья 26, 60–86 — [60–86](../chaitanya-bhagavata/ed/CB_Madhya26.md?plain=1#L307-L434) · `cb-2063`
 - cc (A): Ади 17.115–120 — [115–120](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L1173-L1223) · `cc-0270`
 - chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви) — [**Бхакти-деви.** Потом, в другой день, в–**Бхакти-деви.** И, ещё не договорив это](../chaitanya-chandrodaya/ru/02.md?plain=1#L185-L201) · `ccd-0023`
@@ -2140,6 +2330,7 @@
 
 ## Господь просит Свою флейту / The Lord asks for His flute  `ev-flute-request` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3475–3478 — [3475–3478](../bhakti-ratnakara/ru/12.md?plain=1#L11513-L11522) · `brt-7110`
 - cc (A): Ади 17.233–240 — [233–240](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2351-L2421) · `cc-0279`
 - karnapura-ckm (A): Сарга 8, 56–63 — [56–63](../karnapura-mahakavya/ru/08.md?plain=1#L1035-L1169) · `kcm-0088`
 - lochana-cm (B): Мадхья-кханда, «Махапрабху в Своих бхавах раздаёт прему», 59–71 — [2:59–71](../lochana/ru/33.md?plain=1#L330-L366) · `lcm-0151`
@@ -2154,6 +2345,7 @@
 
 ## Облик Гауранги в Навадвипе (песни очевидцев о красоте Господа) / Gauranga's form in Navadvipa (eyewitness songs of the Lord's beauty)  `ev-gaura-beauty-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2354–2387 — [2354–2387](../bhakti-ratnakara/ru/12.md?plain=1#L7617-L7773) · `brt-7049`
 - padas (A): Говинда Гхош, ПК 1029 «গোরাচাঁদ কিবা তোমার বদন-মণ্ডল» — [2.1–2.5](../padas/ru/04.md?plain=1#L63-L82) · `pad-0061`
 - padas (C): Йаду, ПК 2459 = ГПТ1 с. 120 (№ 27) «একে সে কনয়া-কষিল তনু» — [4.1–4.7](../padas/ru/14.md?plain=1#L104-L122) · `pad-0289`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 354 (5.2, № 34) «গৌর বিধুবর বরজমোহন» = БР 12 (изд. 1912, с. 868; изд. 1960, ст. 2358–2361) — [10.1–10.4](../padas/ru/23.md?plain=1#L302-L311) · `pad-0499`
@@ -2173,6 +2365,7 @@
 - padas (C): Баларама Дас, ПК 2110 = ГПТ1 с. 110 (№ 2) «কোথায় আছিল গোরা এমন সুন্দর» — [5.1–5.7](../padas/ru/11.md?plain=1#L171-L189) · `pad-0210`
 - padas (C): Рамананда, ПК 2163 = ГПТ1 с. 124 (№ 41) «দেখত বেকত গৌর অদভুত» — [8.1–8.4](../padas/ru/06.md?plain=1#L258-L273) · `pad-0106`
 - padas (C): Баларама Дас, ПК 2164 = ГПТ1 с. 125 (№ 42) «কুসুমে খচিত রতনে রচিত» — [6.1–6.9](../padas/ru/11.md?plain=1#L205-L245) · `pad-0211`
+- bhakti-ratnakara (B): Таранга 12, 3482–3497 — [3482–3497](../bhakti-ratnakara/ru/12.md?plain=1#L11534-L11595) · `brt-7112`
 - padas (B): Васу Гхош, ПК 1137 = ГПТ1 с. 110 (№ 1) «গোরা-রূপে কি দিব তুলনা» — [7.1–7.4](../padas/ru/07.md?plain=1#L217-L226) · `pad-0129`
 - padas (A): Васу Гхош, ПК 341 = ГПТ1 с. 131–132 (№ 60) «চীত-চোর গৌর মোর» — [4.1–4.4](../padas/ru/08.md?plain=1#L106-L121) · `pad-0150`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 135 (№ 70) «নাচত ভুবনমনোমোহন» = БР 12 (изд. 1912, с. 835–836) — [4.1–4.4](../padas/ru/17.md?plain=1#L125-L134) · `pad-0334`
@@ -2187,6 +2380,7 @@
 
 ## Горожанки Надии и юный Гаура (нагари-пады) / The townswomen of Nadia and the young Gaura (nagari padas)  `ev-nagari-bhava-padas` (1505–1510, возраст 19–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2801–2879 — [2801–2879](../bhakti-ratnakara/ru/12.md?plain=1#L9236-L9492) · `brt-7072`
 - padas (A): Васу Гхош, ПК 2151 = ГПТ1 с. 117 (№ 20) «সজনী ঐ দেখ শচীর নন্দন» — [1.1–1.4](../padas/ru/27.md?plain=1#L54-L63) · `pad-0574`
 - padas (A): Васу Гхош, ПК 2152 = ГПТ1 с. 117 (№ 21) «সখি হে ওই দেখ গোরা-কলেবরে» — [2.1–2.6](../padas/ru/27.md?plain=1#L81-L96) · `pad-0575`
 - padas (A): Васу Гхош, ПК 2153 = ГПТ1 с. 122 (№ 32) «দেখ দেখ সখি গোরা বর দ্বিজমণিয়া» — [3.1–3.4](../padas/ru/27.md?plain=1#L112-L126) · `pad-0576`
@@ -2366,6 +2560,7 @@
 ## Господь в бхаве Радхи с Гададхарой: песни о Вриндаване (Навадвипа) / The Lord in Radha's mood with Gadadhara: songs of Vrindavana (Navadvipa)  `ev-navadvipa-radha-bhava-gadadhara` (1509–1509, возраст 23–23, оценка)
 
 - padas (C): Нарахари (Саркар или Чакраварти), ГПТ1 с. 154 (№ 128) «কি জানি কি ভাবে ভাবিত অন্তর» = БР 12 (изд. 1912, с. 909) — [8.1–8.3](../padas/ru/17.md?plain=1#L223-L229) · `pad-0338`
+- bhakti-ratnakara (B): Таранга 12, 2985–3075 — [2985–3075](../bhakti-ratnakara/ru/12.md?plain=1#L9826-L10139) · `brt-7081`
 - padas (C): Рамачандра, БР (с. 919) = ПК 2186 «পহু মোর গৌরাঙ্গ রায়» — [5.1–5.5](../padas/ru/01.md?plain=1#L119-L131) · `pad-0005`
 - padas (C): Наянананда (?), ПК 2083 (без подписи) = ГПТ1 с. 284 (№ 23) «নাচে রে ভালি গৌরকিশোর বর-রঙ্গিয়া» — [7.1–7.3](../padas/ru/15.md?plain=1#L184-L190) · `pad-0320`
 - padas (A): Мурари Гупта, БР (с. 922) = ПК 2121 «গদাধর-অঙ্গে পহু অঙ্গ হেলাইয়া» — [6.1–6.4](../padas/ru/01.md?plain=1#L149-L158) · `pad-0006`
@@ -2415,6 +2610,7 @@
 ## Господь в наряде Натавары (Кришны-танцора) играет на флейте (Навадвипа) / The Lord in the dress of Natavara (Krishna the dancer) plays the flute (Navadvipa)  `ev-natavara-vesha-navadvipa` (1509–1509, возраст 23–23, оценка)
 
 - padas (C): Рамананда, ПК 2060 = ГПТ1 с. 249 (№ 4) «নাচত গৌর নটবর রসিয়া» — [13.1–13.4](../padas/ru/06.md?plain=1#L432-L446) · `pad-0111`
+- bhakti-ratnakara (B): Таранга 12, 3198–3213 — [3198–3213](../bhakti-ratnakara/ru/12.md?plain=1#L10562-L10610) · `brt-7087`
 - padas (A): Васу Гхош, БР (с. 934–935) «চাঁচর চিকুর চূড়া চারু ভালে» — [9.1–9.6](../padas/ru/01.md?plain=1#L220-L235) · `pad-0009`
 - padas (A): Васу Гхош, БР (с. 935) «সোঙরি পুরুব-লীলা ত্রিভঙ্গ হইলা» — [10.1–10.4](../padas/ru/01.md?plain=1#L248-L257) · `pad-0010`
 - padas (C): Парамананда (Гупта?), ПК 2120 «গোরা-তনু ধূলায় লোটায়» — [7.1–7.4](../padas/ru/01.md?plain=1#L172-L186) · `pad-0007`
@@ -2427,6 +2623,7 @@
 
 ## Аштакалия Гауры: вечные игры Господа в Навадвипе по восьми частям суток / Gaura's ashtakaliya: the Lord's eternal pastimes in Navadvipa by the eight parts of the day  `ev-gaura-ashtakaliya` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3364–3380 — [3364–3380](../bhakti-ratnakara/ru/12.md?plain=1#L11124-L11191) · `brt-7099`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 358–359 (5.2, № 47) «নিশি অবশেষে লসত নদীয়াশশী» = БР 12 (изд. 1912, с. 947; изд. 1960, ст. 3371–3378) — [18.1–18.8](../padas/ru/23.md?plain=1#L497-L518) · `pad-0507`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 359 (5.2, № 48) «নিশিশেষে গোরা ঘুমের আবেশে» = ГЧЧ (кирана 1, пада 61) — [19.1–19.9](../padas/ru/23.md?plain=1#L537-L561) · `pad-0508`
 
@@ -2480,6 +2677,7 @@
 
 ## Трапеза Господа со спутниками на берегу Ганги (ванабходжана) / The Lord's meal with His companions on the bank of the Ganga (vana-bhojana)  `ev-vana-bhojana-ganga` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3240–3260 — [3240–3260](../bhakti-ratnakara/ru/12.md?plain=1#L10696-L10758) · `brt-7093`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 351–352 (5.2, № 27) «সুরধুনীতীরে কত রঙ্গে» = БР 12 (изд. 1912, с. 937–938; изд. 1960, ст. 3241–3256) — [8.1–8.16](../padas/ru/23.md?plain=1#L219-L264) · `pad-0497`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 352 (5.2, № 28) «আজু গোরা পরিকর সঙ্গে» = БР 12 (изд. 1912, с. 938; изд. 1960, ст. 3257–3260) — [9.1–9.4](../padas/ru/23.md?plain=1#L280-L289) · `pad-0498`
 
@@ -2490,6 +2688,7 @@
 
 ## Гоштха-лила в Навадвипе: Господь в бхаве пастушка кличет коров / Goshtha-lila in Navadvipa: the Lord in the mood of a cowherd calls the cows  `ev-goshtha-lila-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3214–3218 — [3214–3218](../bhakti-ratnakara/ru/12.md?plain=1#L10613-L10626) · `brt-7088`
 - padas (A): Васу Гхош, БР (с. 935) «পূর্বলীলা গোরাচাঁদের মনেতে পড়িল» — [11.1–11.4](../padas/ru/01.md?plain=1#L266-L275) · `pad-0011`
 - padas (A): Вамшивадана, ПК 2564 «শচীর নন্দন গোরা ও চাঁদ-বয়ানে» — [12.1–12.6](../padas/ru/01.md?plain=1#L287-L302) · `pad-0012`
 - padas (C): Васу Гхош, ГПТ1 с. 330 (№ 29) «অভিরাম ডাকে দ্বারেতে» — [5.1–5.4](../padas/ru/15.md?plain=1#L133-L142) · `pad-0318`
@@ -2504,6 +2703,7 @@
 
 ## Джхулан: Господь на качелях на берегу Ганги (Навадвипа) / Jhulana: the Lord on the swing by the Ganga (Navadvipa)  `ev-jhulana-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3261–3290 — [3261–3290](../bhakti-ratnakara/ru/12.md?plain=1#L10761-L10860) · `brt-7094`
 - padas (B): Васу Гхош, ПК 1550 «দেখত ঝুলত গৌরচন্দ্র» — [5.1–5.4](../padas/ru/04.md?plain=1#L173-L188) · `pad-0064`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 324 (5.1, № 10) «ঝুলত রসময় গৌরকিশোর» = БР 12 (изд. 1912, с. 938; изд. 1960, ст. 3263–3266) — [12.1–12.4](../padas/ru/18.md?plain=1#L331-L340) · `pad-0371`
 - padas (C): Нарахари, ПК 1559 «আজু রচিত নব রতন-হিঁডোর» — [6.1–6.4](../padas/ru/04.md?plain=1#L208-L222) · `pad-0065`
@@ -2516,30 +2716,37 @@
 
 ## Джанмаштами и Нанда-утсава в доме Шривасы: Господь в наряде пастуха (Навадвипа) / Janmashtami and Nanda-utsava in the house of Shrivasa: the Lord in cowherd dress (Navadvipa)  `ev-nanda-utsava-navadvipa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3147–3177 — [3147–3177](../bhakti-ratnakara/ru/12.md?plain=1#L10367-L10489) · `brt-7085`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 327 (5.1, № 20) «গোরা মোর গোকুলের শশী» = БР 12 (изд. 1912, с. 930–931; изд. 1960, ст. 3160–3168) — [16.1–16.9](../padas/ru/18.md?plain=1#L454-L478) · `pad-0375`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 327–328 (5.1, № 21) «গোকুলের শশী গোরা গুণরাশি» = БР 12 (изд. 1912, с. 931; изд. 1960, ст. 3169–3172) — [17.1–17.4](../padas/ru/18.md?plain=1#L499-L508) · `pad-0376`
 - padas (B): Нарахари Дас (Чакраварти?), ГПТ1 с. 328 (5.1, № 22) «গৌরগুণমণি বরজশশধর» = БР 12 (изд. 1912, с. 931–932; изд. 1960, ст. 3173–3176) — [18.1–18.4](../padas/ru/18.md?plain=1#L521-L534) · `pad-0377`
 
 ## Радхаштами в доме Пундарики Видьянидхи (Навадвипа) / Radhashtami in the house of Pundarika Vidyanidhi (Navadvipa)  `ev-radhashtami-navadvipa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3178–3197 — [3178–3197](../bhakti-ratnakara/ru/12.md?plain=1#L10492-L10559) · `brt-7086`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 328 (5.1, № 23) «আজু গোরাচাঁদ গণসহ গোপবেশে» = БР 12 (изд. 1912, с. 932–933; изд. 1960, ст. 3183–3192) — [19.1–19.10](../padas/ru/18.md?plain=1#L551-L578) · `pad-0378`
 - padas (C): Нарахари Дас (?), ГПТ1 с. 329 (5.1, № 25) «রাধিকা-জনম-উৎসবে মাতিছে» — [20.1–20.5](../padas/ru/18.md?plain=1#L596-L608) · `pad-0379`
 
 ## Дана-лила на дорогах Надии / The dana-lila (toll pastime) on the roads of Nadia  `ev-dana-lila-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3219–3223 — [3219–3223](../bhakti-ratnakara/ru/12.md?plain=1#L10629-L10642) · `brt-7089`
 - padas (A): Васу Гхош, ПК 1368 = БР (с. 935–936) «গৌরাঙ্গচাঁদের মনে কি ভাব উঠিল» — [13.1–13.4](../padas/ru/01.md?plain=1#L313-L322) · `pad-0013`
 
 ## Битва цветами в цветнике Навадвипы / The battle of flowers in a flower garden of Navadvipa  `ev-flower-battle-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3224–3229 — [3224–3229](../bhakti-ratnakara/ru/12.md?plain=1#L10645-L10661) · `brt-7090`
 - padas (A): Васу Гхош, ПК 1525 = БР (с. 936) «ফুলবন গোরাচাঁদ দেখিয়া নয়নে» — [5.1–5.4](../padas/ru/05.md?plain=1#L177-L186) · `pad-0083`
 
 ## Господь играет с Гададхарой в кости (Навадвипа) / The Lord plays dice with Gadadhara (Navadvipa)  `ev-dice-game-gadadhara` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3230–3234 — [3230–3234](../bhakti-ratnakara/ru/12.md?plain=1#L10664-L10677) · `brt-7091`
 - padas (A): Васу Гхош, БР (с. 936–937) «গৌরাঙ্গচাঁদের মনে কি ভাব পড়িল» — [6.1–6.4](../padas/ru/05.md?plain=1#L208-L217) · `pad-0084`
 
 ## Игры Господа в водах Ганги (Навадвипа) / The Lord's water play in the Ganga (Navadvipa)  `ev-jala-keli-navadvipa` (1509–1509, возраст 23–23, оценка)
 
 - cb (A): Мадхья 13, 328–367 — [328–367](../chaitanya-bhagavata/ed/CB_Madhya13.md?plain=1#L1556-L1742) · `cb-1086`
+- bhakti-ratnakara (B): Таранга 12, 1930–1933 — [1930–1933](../bhakti-ratnakara/ru/12.md?plain=1#L6306-L6315) · `brt-6093`
+- bhakti-ratnakara (B): Таранга 12, 3235–3239 — [3235–3239](../bhakti-ratnakara/ru/12.md?plain=1#L10680-L10693) · `brt-7092`
 - padas (A): Васу Гхош, ПК 1108 = БР (с. 937) «জলকেলি গোরাচান্দের মনেত পড়িল» — [7.1–7.4](../padas/ru/05.md?plain=1#L232-L241) · `pad-0085`
 
 ## Игра в лодке на Ганге (Навадвипа) / The boat play on the Ganga (Navadvipa)  `ev-nauka-vilasa-navadvipa` (1509–1510, возраст 23–24, оценка)
@@ -2549,12 +2756,14 @@
 
 ## Господь являет расу танца раса на берегу Ганги (Навадвипа) / The Lord reveals the rasa of the rasa dance on the Ganga bank (Navadvipa)  `ev-rasa-lila-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3291–3300 — [3291–3300](../bhakti-ratnakara/ru/12.md?plain=1#L10863-L10892) · `brt-7095`
 - padas (A): Васу Гхош, ПК 1253 = БР (с. 941) «বৃন্দাবন-লীলা গোরার মনেতে পড়িল» — [8.1–8.5](../padas/ru/05.md?plain=1#L257-L269) · `pad-0086`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 334 (5.1, № 43) «সরস সুরধুনী-পুলিন-বন» = БР 12 (изд. 1912, с. 941; изд. 1960, ст. 3297–3300) — [21.1–21.4](../padas/ru/18.md?plain=1#L627-L636) · `pad-0380`
 - padas (A): Наянананда, ПК 1495 «মধু-ঋতু-যামিনি সুরধুনি-তীর» — [22.1–22.5](../padas/ru/10.md?plain=1#L751-L763) · `pad-0205`
 
 ## Нитьянанда вспоминает расу Баларамы у Ганги; Господь в экстазе / Nityananda remembers Balarama's rasa by the Ganga; the Lord in ecstasy  `ev-nityananda-balarama-rasa-navadvipa` (1509–1509, возраст 23–23, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3350–3354 — [3350–3354](../bhakti-ratnakara/ru/12.md?plain=1#L11068-L11086) · `brt-7097`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 335 (5.1, № 44) «কি মধুর মধুনিশা» = БР 12 (изд. 1912, с. 945; изд. 1960, ст. 3351–3354) — [13.1–13.4](../padas/ru/24.md?plain=1#L316-L325) · `pad-0524`
 
 ## Холи в Навадвипе: Господь с Гададхарой в бхаве Кришны / Holi in Navadvipa: the Lord with Gadadhara in Krishna's mood  `ev-holi-navadvipa-gadadhara` (1509–1509, возраст 23–23, оценка)
@@ -2564,6 +2773,7 @@
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 339 (5.1, № 58) «গৌর গোকুল-নাহ নটবর» = БР 12 (изд. 1912, с. 944; изд. 1960, ст. 3339–3342) — [24.1–24.4](../padas/ru/18.md?plain=1#L734-L747) · `pad-0383`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 340–341 (5.1, № 63) «সুরধুনীতীরে তরুণ তরু-বল্লরী» = БР 12 (изд. 1912, с. 891–892; изд. 1960, ст. 2638–2641) — [25.1–25.4](../padas/ru/18.md?plain=1#L762-L771) · `pad-0384`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 342 (5.1, № 67) «আজু সুরধুনীতীরে সুন্দর গৌর নৃত্যে বিভোর» = БР 12 (изд. 1912, с. 892; изд. 1960, ст. 2642–2649) — [26.1–26.8](../padas/ru/18.md?plain=1#L785-L806) · `pad-0385`
+- bhakti-ratnakara (B): Таранга 12, 3301–3349 — [3301–3349](../bhakti-ratnakara/ru/12.md?plain=1#L10895-L11065) · `brt-7096`
 - padas (A): Шивананда Сен, БР (с. 944–945) «হোলি খেলত গৌরকিশোর» — [14.1–14.7](../padas/ru/01.md?plain=1#L336-L354) · `pad-0014`
 - padas (A): Васу Гхош, ПК 1425 = БР (с. 942–943) «দেখ দেখ ঋতু-রাজ বসন্ত সময়» — [9.1–9.5](../padas/ru/05.md?plain=1#L290-L302) · `pad-0087`
 - padas (A): Наянананда, ПК 1449 = ГПТ1 с. 343 (№ 70) «কো কহুঁ আজুক আনন্দ-ওর» — [23.1–23.4](../padas/ru/10.md?plain=1#L779-L788) · `pad-0201`
@@ -2576,6 +2786,8 @@
 - cb (A): Мадхья 18, 70–100 — [70–100](../chaitanya-bhagavata/ed/CB_Madhya18.md?plain=1#L354-L482) · `cb-2015`
 - cb (A): Мадхья 18, 101–119 — [101–119](../chaitanya-bhagavata/ed/CB_Madhya18.md?plain=1#L487-L577) · `cb-2016`
 - cb (A): Мадхья 18, 120–162 — [120–162](../chaitanya-bhagavata/ed/CB_Madhya18.md?plain=1#L582-L789) · `cb-2017`
+- bhakti-ratnakara (B): Таранга 12, 1940–1953 — [1940–1953](../bhakti-ratnakara/ru/12.md?plain=1#L6336-L6386) · `brt-6096`
+- bhakti-ratnakara (B): Таранга 12, 2900–2930 — [2900–2930](../bhakti-ratnakara/ru/12.md?plain=1#L9559-L9658) · `brt-7074`
 - cb (A): Мадхья 18, 163–208 — [163–208](../chaitanya-bhagavata/ed/CB_Madhya18.md?plain=1#L794-L1009) · `cb-2018`
 - cc (A): Ади 10.12–13 — [12–13](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L133-L143) · `cc-0110`
 - cc (A): Ади 17.241–242 — [241–242](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2431-L2441) · `cc-0280`
@@ -2597,14 +2809,17 @@
 
 ## Господь в бхаве гопи: «Гопи! Гопи!», гнев на имя «Кришна», «Вриндаван! Матхура!» / The Lord in the mood of a gopi: 'Gopi! Gopi!', anger at the name 'Krishna', 'Vrindavana! Mathura!'  `ev-gopi-bhava-krishna-thief` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2097–2102 — [2097–2102](../bhakti-ratnakara/ru/12.md?plain=1#L6846-L6861) · `brt-7011`
 - cb (A): Мадхья 24, 1–31 — [1–31](../chaitanya-bhagavata/ed/CB_Madhya24.md?plain=1#L12-L159) · `cb-2055`
 
 ## Господь не может совершить пуджу Вишну от слёз и поручает её Гададхаре / The Lord cannot perform Vishnu-puja for His tears and entrusts it to Gadadhara  `ev-lord-cannot-worship-vishnu-tears` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2105–2110 — [2105–2110](../bhakti-ratnakara/ru/12.md?plain=1#L6870-L6885) · `brt-7013`
 - cb (A): Мадхья 25, 85–93 — [85–93](../chaitanya-bhagavata/ed/CB_Madhya25.md?plain=1#L399-L439) · `cb-2060`
 
 ## Господь ест рис, сваренный Шукламбарой; Виджая видит Его золотую руку / The Lord eats rice cooked by Shuklambara; Vijaya sees His golden hand  `ev-shuklambara-feast-vijaya-vision` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3467–3472 — [3467–3472](../bhakti-ratnakara/ru/12.md?plain=1#L11489-L11504) · `brt-7108`
 - cb (A): Мадхья 26, 1–34 — [1–34](../chaitanya-bhagavata/ed/CB_Madhya26.md?plain=1#L12-L177) · `cb-2061`
 - cb (A): Мадхья 26, 35–59 — [35–59](../chaitanya-bhagavata/ed/CB_Madhya26.md?plain=1#L182-L302) · `cb-2062`
 
@@ -2664,6 +2879,7 @@
 
 ## Кешава Бхарати в Навадвипе; решение принять санньясу / Keshava Bharati in Navadvipa; the decision to take sannyasa  `ev-keshava-bharati-navadvipa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 2103–2104 — [2103–2104](../bhakti-ratnakara/ru/12.md?plain=1#L6864-L6867) · `brt-7012`
 - cc (A): Ади 17.268–271 — [268–271](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2701-L2731) · `cc-0284`
 - karnapura-ckm (A): Сарга 11, 43–44 — [43–44](../karnapura-mahakavya/ru/11.md?plain=1#L975-L998) · `kcm-0097`
 - lochana-cm (B): Мадхья-кханда, «Перед санньясой», 60–79 — [60–79](../lochana/ru/35.md?plain=1#L188-L245) · `lcm-0159`
@@ -2671,6 +2887,7 @@
 
 ## Преданные узнают о решении Господа принять санньясу / The devotees learn of the Lord's decision to take sannyasa  `ev-sannyasa-decision-devotees-grief` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3498–3513 — [3498–3513](../bhakti-ratnakara/ru/12.md?plain=1#L11600-L11646) · `brt-7113`
 - cb (A): Мадхья 26, 157–186 — [157–186](../chaitanya-bhagavata/ed/CB_Madhya26.md?plain=1#L744-L886) · `cb-2066`
 - govinda-karcha (D): Часть 1, 91–128 — [91–128](../govinda-kadacha/ru/01.md?plain=1#L293-L410) · `gkr-0005`
 - jayananda-cm (C): Вайрагья-кханда (рукописи № 1903, «Дхрува-чаритра» № 549, № 556, № 552); цит. «Почему он принимает санньясу», «Зачем ему отречение» — [15:1–2:24](../jayananda/ru/06-manuscripts.md?plain=1#L357-L425); [1–6–1–6](../jayananda/ru/06-manuscripts.md?plain=1#L432-L432); [16:1–2–8](../jayananda/ru/06-manuscripts.md?plain=1#L438-L440); [1–3–3:11](../jayananda/ru/06-manuscripts.md?plain=1#L446-L467); [39:1–11:7](../jayananda/ru/05-quotes.md?plain=1#L621-L638); [46:1–25:3](../jayananda/ru/05-quotes.md?plain=1#L782-L788) · `jcm-0052`
@@ -2687,6 +2904,7 @@
 
 ## Господь утешает Шачи перед санньясой / The Lord consoles Shachi before sannyasa  `ev-lord-consoles-shachi-before-sannyasa` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3514–3530 — [3514–3530](../bhakti-ratnakara/ru/12.md?plain=1#L11649-L11707) · `brt-7114`
 - cb (A): Мадхья 27, 18–52 — [18–52](../chaitanya-bhagavata/ed/CB_Madhya27.md?plain=1#L94-L262) · `cb-2068`
 - chaitanya-chandrodaya (A): Акт 4, вступительная сцена, ст. 1 — [*(Входит владычица Шачи, за которой след–**Шачи.** Да будет так. Ты и есть мой Кр](../chaitanya-chandrodaya/ru/04.md?plain=1#L5-L76) · `ccd-0034`
 - gaura-krishnodaya (B): Сарга 6, 4–6 — [4–6](../gaura-krishnodaya/ru/06.md?plain=1#L13-L17) · `gkd-0055`
@@ -2720,6 +2938,7 @@
 
 ## Последние дни дома и последняя ночь с Вишнуприей / The last days at home and the last night with Vishnupriya  `ev-last-night-vishnupriya` (1509–1510, возраст 23–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3531–3543 — [3531–3543](../bhakti-ratnakara/ru/12.md?plain=1#L11710-L11746) · `brt-7115`
 - gaura-krishnodaya (B): Сарга 6, 7–17 — [7–17](../gaura-krishnodaya/ru/06.md?plain=1#L19-L41) · `gkd-0056`
 - govinda-karcha (D): Часть 1, 137–147 — [137–147](../govinda-kadacha/ru/01.md?plain=1#L439-L471) · `gkr-0007`
 - jayananda-cm (C): Вайрагья-кханда, разд. 24, 1–9 (фрагм. 11); цит. «Отречение Гауранги», «Великое отречение», «Клики» — [11:1–9:9](../jayananda/ru/01-fragments.md?plain=1#L693-L716); [40:1–15](../jayananda/ru/05-quotes.md?plain=1#L644-L686); [45:1–31:2](../jayananda/ru/05-quotes.md?plain=1#L772-L775); [47:1–47:1](../jayananda/ru/05-quotes.md?plain=1#L795-L795) · `jcm-0055`
@@ -2740,6 +2959,7 @@
 
 - cb (A): Мадхья 28, 1–14 — [1–14](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L12-L74) · `cb-2069`
 - cb (A): Мадхья 28, 15–44 — [15–42](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L79-L214) · `cb-2070`
+- bhakti-ratnakara (B): Таранга 12, 3544–3546 — [3544–3546](../bhakti-ratnakara/ru/12.md?plain=1#L11749-L11755) · `brt-7116`
 - cb (A): Мадхья 28, 45–65 — [45–65](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L226-L326) · `cb-2071`
 - chaitanya-chandrodaya (A): Акт 4, Адвайта и последний киртан, ст. 2–14 — [*(Уходят все. Затем входит Адвайта.)*–**Гангадас** *(упав духом)*. Ох! Кажется](../chaitanya-chandrodaya/ru/04.md?plain=1#L78-L210) · `ccd-0035`
 - govinda-karcha (D): Часть 1, 148–172 — [148–172](../govinda-kadacha/ru/01.md?plain=1#L474-L550) · `gkr-0008`
@@ -2751,6 +2971,7 @@
 
 ## Плач Шачи и Вишнуприи после ухода Господа / Shachi and Vishnupriya lament after the Lord leaves  `ev-lament-after-lord-leaves` (1510–1510, возраст 24–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3547–3557 — [3547–3557](../bhakti-ratnakara/ru/12.md?plain=1#L11758-L11791) · `brt-7117`
 - cb (A): Мадхья 28, 66–101 — [66–101](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L331-L513) · `cb-2072`
 - chaitanya-chandrodaya (A): Акт 4, плач преданных, ст. 15–34 — [*(Затем входят Адвайта и другие, в уныни–**Все** *(прислушавшись, обращаясь в сто](../chaitanya-chandrodaya/ru/04.md?plain=1#L212-L420) · `ccd-0036`
 - karnapura-ckm (A): Сарга 11, 48–50 — [48–50](../karnapura-mahakavya/ru/11.md?plain=1#L1088-L1130) · `kcm-0100`
@@ -2777,6 +2998,7 @@
 ## Санньяса в Катве / Sannyasa at Katwa  `ev-sannyasa-katwa` (1510–1510, возраст 23–24, вероятно)
 
 - cb (A): Мадхья 28, 102–131 — [102–131](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L518-L657) · `cb-2073`
+- bhakti-ratnakara (B): Таранга 12, 3558–3565 — [3558–3565](../bhakti-ratnakara/ru/12.md?plain=1#L11794-L11816) · `brt-7118`
 - cb (A): Мадхья 28, 132–168 — [132–168](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L662-L842) · `cb-2074`
 - cc (A): Ади 17.272–273 — [272–273](../chaitanya-charitamrita/ed/vcd/CC_Adi17.md?plain=1#L2741-L2751) · `cc-0285`
 - chaitanya-chandrodaya (A): Акт 4, рассказ Ачарьяратны, ст. 41–42 — [**Ачарья-ратна.** Ах, только ради этого –> он не помнит и самого себя, — ах, увы,](../chaitanya-chandrodaya/ru/04.md?plain=1#L479-L499) · `ccd-0038`
@@ -2845,6 +3067,7 @@
 
 ## Господь отпускает Чандрашекхару в Навадвипу / The Lord sends Chandrashekhara back to Navadvipa  `ev-chandrashekhara-sent-back` (1510–1510, возраст 24–24, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3566–3568 — [3566–3568](../bhakti-ratnakara/ru/12.md?plain=1#L11819-L11825) · `brt-7119`
 - cb (A): Антья 1, 26–32 — [26–32](../chaitanya-bhagavata/ed/CB_Antya01.md?plain=1#L141-L171) · `cb-3003`
 - govinda-karcha (D): Часть 2, 277–279 — [277–279](../govinda-kadacha/ru/02.md?plain=1#L197-L203) · `gkr-0013`
 - jayananda-cm (C): Санньяса-кханда: «Вести после санньясы» (цитаты) — [55:1–31:3](../jayananda/ru/05-quotes.md?plain=1#L976-L982) · `jcm-0065`
@@ -2890,6 +3113,7 @@
 
 ## Нитьянанда прерывает двенадцатидневный пост Шачи / Nityananda ends Shachi's twelve-day fast  `ev-shachi-breaks-fast-nityananda` (1510–1510, возраст 24–24, )
 
+- bhakti-ratnakara (B): Таранга 12, 3569–3581 — [3569–3581](../bhakti-ratnakara/ru/12.md?plain=1#L11828-L11864) · `brt-7120`
 - cb (A): Антья 1, 146–176 — [146–176](../chaitanya-bhagavata/ed/CB_Antya01.md?plain=1#L735-L885) · `cb-3010`
 
 ## Нитьянанда приводит Шачи и жителей Надии в Шантипур / Nityananda brings Shachi and the people of Nadia to Shantipura  `ev-nityananda-brings-navadvipa-to-shantipura` (1510–1510, возраст 24–24, оценка)
@@ -2914,6 +3138,7 @@
 
 - advaita-prakasha (D): Гл. 15, 47–65 — [47. Увидев Гау–65. Так Махапр](../advaita-prakash/15.md?plain=1#L51-L69) · `apr-0081`
 - bhakti-ratnakara (B): Таранга 5, 2173–2224 — [2173–2224](../bhakti-ratnakara/ru/05.md?plain=1#L7053-L7217) · `brt-2010`
+- bhakti-ratnakara (B): Таранга 12, 3582–3601 — [3582–3601](../bhakti-ratnakara/ru/12.md?plain=1#L11867-L11933) · `brt-7121`
 - cb (A): Антья 1, 208–212 — [208–212](../chaitanya-bhagavata/ed/CB_Antya01.md?plain=1#L1042-L1062) · `cb-3012`
 - cc (A): Мадхья 3.108–136 — [108–136](../chaitanya-charitamrita/ed/vcd/CC_Madhya03.md?plain=1#L881-L1105) · `cc-1019`
 - chaitanya-chandrodaya (A): Акт 5, встреча с Адвайтой, ст. 13–24 — [*(Входит Адвайта, изображая нетерпение, –**Люди.** Ах, это идут все жители места ](../chaitanya-chandrodaya/ru/05.md?plain=1#L154-L314) · `ccd-0040`
@@ -2992,6 +3217,7 @@
 - govinda-karcha (D): Часть 3, 438–448 — [438–448](../govinda-kadacha/ru/03.md?plain=1#L10-L42) · `gkr-0021`
 - govinda-karcha (D): Часть 3, 449–460 — [449–460](../govinda-kadacha/ru/03.md?plain=1#L45-L80) · `gkr-0022`
 - advaita-prakasha (D): Гл. 15, 113–115 — [113. С Ним шли–115. Четверо с](../advaita-prakash/15.md?plain=1#L117-L119) · `apr-0085`
+- bhakti-ratnakara (B): Таранга 12, 3602–3608 — [3602–3608](../bhakti-ratnakara/ru/12.md?plain=1#L11936-L11963) · `brt-7122`
 - cb (A): Антья 2, 34–49 — [34–49](../chaitanya-bhagavata/ed/CB_Antya02.md?plain=1#L174-L249) · `cb-3019`
 - cc (A): Мадхья 3.216–217 — [216–217](../chaitanya-charitamrita/ed/vcd/CC_Madhya03.md?plain=1#L1745-L1753) · `cc-1023`
 - chaitanya-chandrodaya (A): Акт 6, правешака (Ганга и Океан), ст. 5–7 — [**Ратнакара.** Увы! Сейчас, когда царь-я–Так несколько дней он шёл из леса в лес,](../chaitanya-chandrodaya/ru/06.md?plain=1#L88-L121) · `ccd-0043`
@@ -4020,6 +4246,7 @@
 
 ## Господь посылает Нитьянанду проповедовать в Гауду / The Lord sends Nityananda to preach in Gauda  `ev-nityananda-sent-to-gauda` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3609–3644 — [3609–3644](../bhakti-ratnakara/ru/12.md?plain=1#L11968-L12090) · `brt-7123`
 - cb (A): Антья 5, 209–230 — [209–230](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L1045-L1147) · `cb-3076`
 - cc (A): Ади 7.165 — [165–165](../chaitanya-charitamrita/ed/vcd/CC_Adi07.md?plain=1#L1670-L1670) · `cc-0086`
 - cc (A): Ади 10.115–118 — [115–118](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L1160-L1190) · `cc-0140`
@@ -4056,6 +4283,7 @@
 
 ## Панихати: омовение и украшение Нитьянанды в доме Рагхавы Пандита / Panihati: Nityananda's bathing and adornment at Raghava Pandita's house  `ev-nityananda-panihati-abhisheka` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3645–3668 — [3645–3668](../bhakti-ratnakara/ru/12.md?plain=1#L12093-L12180) · `brt-7124`
 - cb (A): Антья 5, 251–332 — [251–332](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L1246-L1642) · `cb-3078`
 - murari-kcc (A): Пракрама 4, сарга 22, шлоки 3–12 — [3–12](../murari-gupta/ru/4.22.md?plain=1#L9-L27) · `mkc-0246`
 - nityananda-vamsha (C): Глава 1, 56–87 — [56–87](../nityananda-vamsha/ru/01.md?plain=1#L176-L273) · `nvv-0004`
@@ -4065,6 +4293,7 @@
 - vaishnava-vandana (B): Вандана в трипади, 54 — [54–54](../vaishnava-vandana/ru/05.md?plain=1#L203-L203) · `vv-0068`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 434 (6.1, № 68) «কিবা নাচই নিতাইচাঁদ» = БР 12 (изд. 1912, с. 968; изд. 1960, ст. 3653–3656) — [18.1–18.4](../padas/ru/24.md?plain=1#L462-L471) · `pad-0529`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 434–435 (6.1, № 69) «আজু আনন্দে নিতাইচাঁদে» = БР 12 (изд. 1912, с. 969; изд. 1960, ст. 3658–3661) — [19.1–19.4](../padas/ru/24.md?plain=1#L482-L491) · `pad-0530`
+- bhakti-ratnakara (B): Таранга 12, 3669–3677 — [3669–3677](../bhakti-ratnakara/ru/12.md?plain=1#L12184-L12209) · `brt-7125`
 
 ## Нитьянанда наполняет Гауду именем Гауранги / Nityananda fills Gauda with Gauranga's name  `ev-nityananda-preaching-gauda` (1512–1514, возраст 26–28, оценка)
 
@@ -4075,6 +4304,7 @@
 - bhaktamal (D): Рагхавдас, «Бхактамал», чхаппаи 218–219 (раздел Мадхва-сампрадаи); § 3.3 — [218–219](../vallabha/ru/03.md?plain=1#L229-L237) · `bkm-0006`
 - bhaktamal (D): Приядас, «Бхакти-раса-бодхини», кавитты 329–332 (изд. 1883: 326–329); § 4.1 — [329–332](../vallabha/ru/04.md?plain=1#L26-L51) · `bkm-0008`
 - bhakti-ratnakara (B): Таранга 8, 146–199 — [146–199](../bhakti-ratnakara/ru/08.md?plain=1#L440-L608) · `brt-4008`
+- bhakti-ratnakara (B): Таранга 12, 3691–3722 — [3691–3722](../bhakti-ratnakara/ru/12.md?plain=1#L12252-L12368) · `brt-7127`
 - cb (A): Антья 5, 443–468 — [443–468](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L2179-L2304) · `cb-3083`
 - jayananda-cm (C): Виджая-кханда: «Спутники Нитьянанды», «Проповедь Нитьянанды в Гауде» (цитаты) — [73:1–15:8](../jayananda/ru/05-quotes.md?plain=1#L1214-L1232); [74:1–17](../jayananda/ru/05-quotes.md?plain=1#L1239-L1287) · `jcm-0093`
 - murari-kcc (A): Пракрама 4, сарга 22, шлоки 13–21 — [13–21](../murari-gupta/ru/4.22.md?plain=1#L29-L45) · `mkc-0247`
@@ -4091,13 +4321,16 @@
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 437 (6.1, № 77) «ভুবনে জয় জয় নিতাই দয়াময়» = БР 12 (изд. 1912, с. 972–973; изд. 1960, ст. 3718–3721) — [26.1–26.4](../padas/ru/24.md?plain=1#L672-L681) · `pad-0537`
 - vaishnava-vandana (C): «Первая вандана», 20–67 — [20–67](../vaishnava-vandana/ru/04.md?plain=1#L70-L221) · `vv-0061`
 - padas (C): Васу Гхош, ГПТ1 с. 424 (№ 32) «নিতাই আমার পরম দয়াল» — [14.1–14.3](../padas/ru/15.md?plain=1#L350-L356) · `pad-0327`
+- bhakti-ratnakara (B): Таранга 12, 3723–3752 — [3723–3752](../bhakti-ratnakara/ru/12.md?plain=1#L12371-L12462) · `brt-7128`
 - cb (A): Антья 5, 506–526 — [506–526](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L2491-L2591) · `cb-3086`
+- bhakti-ratnakara (B): Таранга 12, 3846–3870 — [3846–3870](../bhakti-ratnakara/ru/12.md?plain=1#L12805-L12879) · `brt-7134`
 - cb (A): Антья 5, 707–717 — [707–717](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L3490-L3540) · `cb-3088`
 - cb (A): Антья 6, 1–7 — [1–7](../chaitanya-bhagavata/ed/CB_Antya06.md?plain=1#L12-L42) · `cb-3090`
 - murari-kcc (A): Пракрама 4, сарга 23, шлоки 19–25 — [19–25](../murari-gupta/ru/4.23.md?plain=1#L41-L53) · `mkc-0251`
 
 ## Гададхара Дас заставляет кази произносить имя Хари / Gadadhara Dasa makes the Kazi chant the name of Hari  `ev-gadadhara-dasa-kazi-hari` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3678–3690 — [3678–3690](../bhakti-ratnakara/ru/12.md?plain=1#L12212-L12249) · `brt-7126`
 - cc (A): Ади 10.52–53 — [52–53](../chaitanya-charitamrita/ed/vcd/CC_Adi10.md?plain=1#L533-L543) · `cc-0125`
 - cb (A): Антья 5, 395–420 — [395–420](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L1948-L2064) · `cb-3081`
 
@@ -4144,6 +4377,8 @@
 
 ## Встреча Нитьянанды и Адвайты в Шантипуре / Nityananda and Advaita meet in Shantipura  `ev-nityananda-advaita-meeting-shantipura` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3753–3818 — [3753–3818](../bhakti-ratnakara/ru/12.md?plain=1#L12465-L12710) · `brt-7129`
+- bhakti-ratnakara (B): Таранга 12, 3819–3824 — [3819–3824](../bhakti-ratnakara/ru/12.md?plain=1#L12713-L12728) · `brt-7130`
 - cb (A): Антья 5, 469–495 — [469–495](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L2309-L2436) · `cb-3084`
 - murari-kcc (A): Пракрама 4, сарга 22, шлоки 22–25 — [22–25](../murari-gupta/ru/4.22.md?plain=1#L47-L53) · `mkc-0248`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 442 (6.2, № 9) «শ্রীঅদ্বৈতচন্দ্র ভূপ মোর» = БР 12 (изд. 1912, с. 977; изд. 1960, ст. 3767–3770); «Гита-чандродая» — [4.1–4.4](../padas/ru/25.md?plain=1#L97-L106) · `pad-0544`
@@ -4156,12 +4391,14 @@
 
 ## Нитьянанда у Шачи в Навадвипе / Nityananda visits Shachi in Navadvipa  `ev-nityananda-visits-shachi` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3837–3842 — [3837–3842](../bhakti-ratnakara/ru/12.md?plain=1#L12778-L12793) · `brt-7132`
 - cb (A): Антья 5, 496–505 — [496–505](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L2441-L2486) · `cb-3085`
 - murari-kcc (A): Пракрама 4, сарга 23, шлоки 1–12 — [1–12](../murari-gupta/ru/4.23.md?plain=1#L5-L27) · `mkc-0249`
 - padas (B): Кану Дас, ПК 2264 = ГПТ1 с. 404–405 (№ 10) «নদীয়া নগরে গেলা নিত্যানন্দ রায়» — [24.1–24.6](../padas/ru/11.md?plain=1#L916-L931) · `pad-0229`
 
 ## Разбойники, покусившиеся на украшения Нитьянанды, становятся преданными / The thieves who coveted Nityananda's ornaments become devotees  `ev-nityananda-thieves` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3843–3845 — [3843–3845](../bhakti-ratnakara/ru/12.md?plain=1#L12796-L12802) · `brt-7133`
 - cb (A): Антья 5, 527–706 — [527–706](../chaitanya-bhagavata/ed/CB_Antya05.md?plain=1#L2596-L3485) · `cb-3087`
 - murari-kcc (A): Пракрама 4, сарга 23, шлоки 13–18 — [13–18](../murari-gupta/ru/4.23.md?plain=1#L29-L39) · `mkc-0250`
 
@@ -4274,6 +4511,7 @@
 
 ## Сон Шачи: Нимай приходит из Нилачалы домой / Shachi's dream: Nimai comes home from Nilachala  `ev-shachi-dream-nimai` (1512–1514, возраст 26–28, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 3825–3836 — [3825–3836](../bhakti-ratnakara/ru/12.md?plain=1#L12731-L12775) · `brt-7131`
 - padas (A): Васу Гхош, БР (с. 982–983) «আজুকার স্বপন-কথা শুন লো মালিনী সই» — [22.1–22.5](../padas/ru/01.md?plain=1#L564-L584) · `pad-0022`
 
 ## Тайный совет Господа с Нитьянандой в Нилачале: Вирачандра будет нисшествием Гауранги / The Lord's secret counsel with Nityananda at Nilachala: Virachandra will be Gauranga's own descent  `ev-virachandra-secret-counsel` (1512–1514, возраст 26–28, оценка)
@@ -4891,6 +5129,7 @@
 
 - advaita-prakasha (D): Гл. 20, 26–55 — [26. Господь Ни–55. Затем Гаур](../advaita-prakash/20.md?plain=1#L30-L59) · `apr-0137`
 - bhakti-ratnakara (B): Таранга 7, 342–358 — [342–358](../bhakti-ratnakara/ru/07.md?plain=1#L1036-L1084) · `brt-3043`
+- bhakti-ratnakara (B): Таранга 12, 2127–2132 — [2127–2132](../bhakti-ratnakara/ru/12.md?plain=1#L6936-L6951) · `brt-7016`
 - murari-kcc (A): Пракрама 4, сарга 14, шлоки 12–17 — [12–17](../murari-gupta/ru/4.14.md?plain=1#L27-L37) · `mkc-0229`
 - prema-vilasa (C): Виласа 12, 257–274 — [257–274](../prema-vilasa/ru/12.md?plain=1#L773-L824) · `pvl-0078`
 - vaishnava-vandana (B): Вандана Дживы, 98 — [98–98](../vaishnava-vandana/ru/01.md?plain=1#L215-L215) · `vv-0023`
@@ -5805,6 +6044,7 @@
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 435 (6.1, № 71) «বসুধা জাহ্নবা দেবী শোভাবধি» = БР 12 (изд. 1912, с. 991–992; изд. 1960, ст. 3965–3968) — [20.1–20.4](../padas/ru/24.md?plain=1#L507-L516) · `pad-0531`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 435–436 (6.1, № 72) «কোটি মনমথ-গরবভর-হর» = БР 12 (изд. 1912, с. 993; изд. 1960, ст. 3973–3976) — [21.1–21.4](../padas/ru/24.md?plain=1#L532-L547) · `pad-0532`
 - advaita-prakasha (D): Гл. 20, 1–25 — [1. Слава, слав–25. Так они ве](../advaita-prakash/20.md?plain=1#L5-L29) · `apr-0136`
+- bhakti-ratnakara (B): Таранга 12, 3871–3911 — [3871–3911](../bhakti-ratnakara/ru/12.md?plain=1#L12882-L13004) · `brt-7135`
 - gaura-krishnodaya (B): Сарга 16, 57–59 — [57–59](../gaura-krishnodaya/ru/16.md?plain=1#L129-L133) · `gkd-0157`
 - jayananda-cm (C): Уттара-кханда: краткое жизнеописание (Н. Васу 1897, с. 225–226) — [> Через некоторое время Нитьянанда, нося–> всё тяжкое бремя земли было снято.](../jayananda/ru/02-vasu-1897.md?plain=1#L1463-L1538) · `jcm-0102`
 - nityananda-vamsha (C): Глава 1, 88–117 — [88–117](../nityananda-vamsha/ru/01.md?plain=1#L276-L365) · `nvv-0005`
@@ -5816,10 +6056,16 @@
 - prema-vilasa (C): Виласа 24, 612–653 — [612–653](../prema-vilasa/ru/24.md?plain=1#L1855-L1980) · `pvl-0270`
 - vaishnava-vandana (B): Вандана Дживы, 19 — [19–19](../vaishnava-vandana/ru/01.md?plain=1#L47-L47) · `vv-0002`
 - vaishnava-vandana (B): Девакинандана, 138 — [138–138](../vaishnava-vandana/ru/02.md?plain=1#L463-L463) · `vv-0057`
+- bhakti-ratnakara (B): Таранга 12, 3912–3934 — [3912–3934](../bhakti-ratnakara/ru/12.md?plain=1#L13007-L13073) · `brt-7136`
+- bhakti-ratnakara (B): Таранга 12, 3935–3970 — [3935–3970](../bhakti-ratnakara/ru/12.md?plain=1#L13076-L13199) · `brt-7137`
+- bhakti-ratnakara (B): Таранга 12, 3971–3993 — [3971–3993](../bhakti-ratnakara/ru/12.md?plain=1#L13202-L13270) · `brt-7138`
+- bhakti-ratnakara (B): Таранга 12, 3994–4008 — [3994–4008](../bhakti-ratnakara/ru/12.md?plain=1#L13274-L13317) · `brt-7139`
+- bhakti-ratnakara (B): Таранга 12, 4009–4011 — [4009–4011](../bhakti-ratnakara/ru/12.md?plain=1#L13320-L13326) · `brt-7140`
 - advaita-prakasha (D): Гл. 20, 78–94 — [78. А тем врем–94. Что я слыш](../advaita-prakash/20.md?plain=1#L82-L98) · `apr-0139`
 
 ## Нитьянанда поселяется в Кхардахе; служение Шьямасундаре / Nityananda settles at Khardaha; the service of Shyamasundara  `ev-nityananda-settles-khardaha` (1533–1534, возраст 47–48, оценка)
 
+- bhakti-ratnakara (B): Таранга 12, 4012–4021 — [4012–4021](../bhakti-ratnakara/ru/12.md?plain=1#L13329-L13363) · `brt-7141`
 - nityananda-vamsha (C): Глава 1, 298–306 — [298–306](../nityananda-vamsha/ru/01.md?plain=1#L943-L969) · `nvv-0010`
 
 ## Ганга, дочь Нитьянанды, выдана за Мадхаву Ачарью / Ganga, Nityananda's daughter, is given in marriage to Madhava Acharya  `ev-ganga-marries-madhava` (1533–1534, возраст 47–48, оценка)
@@ -5828,6 +6074,7 @@
 - prema-vilasa (D): Виласа 24, 654–683 — [654–683](../prema-vilasa/ru/24.md?plain=1#L1983-L2070) · `pvl-0271`
 - prema-vilasa (D): Виласа 21, 4–35 — [4–35](../prema-vilasa/ru/21.md?plain=1#L14-L107) · `pvl-0180`
 - prema-vilasa (D): Полувиласа, указатель к виласе 24 (952–959) — [952–959](../prema-vilasa/ru/25.md?plain=1#L2928-L2949) · `pvl-0232`
+- bhakti-ratnakara (B): Таранга 13, 261–265 — [261–265](../bhakti-ratnakara/ru/13.md?plain=1#L787-L800) · `brt-8018`
 
 ## Рождение Вирачандры (Вирабхадры) / The birth of Virachandra (Virabhadra)  `ev-virachandra-birth` (1533–1534, возраст 47–48, оценка)
 
@@ -5892,6 +6139,7 @@
 - prema-vilasa (C): Виласа 24, 729–736 — [729–736](../prema-vilasa/ru/24.md?plain=1#L2208-L2229) · `pvl-0274`
 - nityananda-vamsha (C): Глава 3, 177–197 — [177–197](../nityananda-vamsha/ru/03.md?plain=1#L551-L611) · `nvv-0023`
 - nityananda-vamsha (C): Глава 4, 3–13 — [3–13](../nityananda-vamsha/ru/04.md?plain=1#L13-L43) · `nvv-0028`
+- bhakti-ratnakara (B): Таранга 13, 248–260 — [248–260](../bhakti-ratnakara/ru/13.md?plain=1#L747-L784) · `brt-8017`
 
 ## Вирачандра получает камень у падишаха; Шьямасундара Кхардахи / Virachandra obtains a stone from the Padishah; Shyamasundara of Khardaha  `ev-virachandra-shyamasundara` (1533–1534, возраст 47–48, оценка)
 
@@ -6075,6 +6323,7 @@
 - bhakti-ratnakara (B): Таранга 6, 14–19 — [14–19](../bhakti-ratnakara/ru/06.md?plain=1#L44-L59) · `brt-3002`
 - prema-vilasa (C): Виласа 12, 200–256 — [200–256](../prema-vilasa/ru/12.md?plain=1#L602-L770) · `pvl-0077`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 469 (6.3, № 42) «ও মোর পরাণ-বন্ধু শ্যামানন্দ» = БР 15 (изд. 1912, с. 1059–1060; изд. 1960, 15.93–104) — [5.1–5.12](../padas/ru/26.md?plain=1#L125-L158) · `pad-0559`
+- bhakti-ratnakara (B): Таранга 15, 93–104 — [93–104](../bhakti-ratnakara/ru/15.md?plain=1#L297-L353) · `brt-8054`
 
 ## Юный Нароттама слушает рассказы брахмана Кришнадаса о Господе, спутниках и Шринивасе / Young Narottama hears the brahmana Krishnadasa's accounts of the Lord, His associates and Srinivasa  `ev-narottama-hears-krishnadasa` (1533–1534, возраст 47–48, оценка)
 
@@ -6174,6 +6423,7 @@
 - bhakti-ratnakara (B): Таранга 6, 49–58 — [49–58](../bhakti-ratnakara/ru/06.md?plain=1#L149-L176) · `brt-3005`
 - prema-vilasa (C): Виласа 12, 363–395 — [363–395](../prema-vilasa/ru/12.md?plain=1#L1091-L1187) · `pvl-0081`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 470 (6.3, № 43) «জয় শ্রীল দুঃখী কৃষ্ণদাস» = БР 15 (изд. 1912, с. 1060; изд. 1960, 15.105–108) — [6.1–6.4](../padas/ru/26.md?plain=1#L178-L187) · `pad-0560`
+- bhakti-ratnakara (B): Таранга 15, 105–108 — [105–108](../bhakti-ratnakara/ru/15.md?plain=1#L358-L374) · `brt-8055`
 
 ## Шриниваса в созерцании служит Гауре и получает Его гирлянду / Srinivasa serves Gaura in meditation and receives His garland  `ev-srinivasa-manasa-garland-gaura` (1533–1534, возраст 47–48, оценка)
 
@@ -6526,6 +6776,7 @@
 - prema-vilasa (C): Виласа 16, 282–300 — [282–300](../prema-vilasa/ru/16.md?plain=1#L848-L902) · `pvl-0113`
 - prema-vilasa (C): Виласа 19, 179–208 — [179–208](../prema-vilasa/ru/19.md?plain=1#L539-L626) · `pvl-0148`
 - prema-vilasa (C): Виласа 19, 474–494 — [474–494](../prema-vilasa/ru/19.md?plain=1#L1426-L1486) · `pvl-0157`
+- bhakti-ratnakara (B): Таранга 13, 266–282 — [266–282](../bhakti-ratnakara/ru/13.md?plain=1#L804-L859) · `brt-8019`
 
 ## Джахнава созерцает во Врадже игры Кришны и Баларамы: Радха-кунда, весенний раса у Говардханы, раса Баларамы у Рама-гхата / Jahnava beholds the pastimes of Krishna and Balarama in Vraja: Radha-kunda, the spring rasa at Govardhana, Balarama's rasa at Rama-ghata  `ev-jahnava-vraja-visions` (1533–1534, возраст 47–48, оценка)
 
@@ -6555,6 +6806,10 @@
 - anuragavalli (C): Манджари 4, 20–28 — [20–28](../anuragavalli/ru/04.md?plain=1#L68-L92) · `anv-0024`
 - prema-vilasa (C): Виласа 16, 146–158 — [146–158](../prema-vilasa/ru/16.md?plain=1#L440-L476) · `pvl-0109`
 - prema-vilasa (C): Виласа 19, 859–864 — [859–864](../prema-vilasa/ru/19.md?plain=1#L2593-L2608) · `pvl-0168`
+- bhakti-ratnakara (B): Таранга 13, 62–81 — [62–81](../bhakti-ratnakara/ru/13.md?plain=1#L188-L245) · `brt-8006`
+- bhakti-ratnakara (B): Таранга 13, 82–107 — [82–107](../bhakti-ratnakara/ru/13.md?plain=1#L248-L323) · `brt-8007`
+- bhakti-ratnakara (B): Таранга 13, 108–122 — [108–122](../bhakti-ratnakara/ru/13.md?plain=1#L326-L368) · `brt-8008`
+- bhakti-ratnakara (B): Таранга 13, 222–242 — [222–242](../bhakti-ratnakara/ru/13.md?plain=1#L669-L729) · `brt-8015`
 
 ## Возвращение Джахнавы из Вриндавана через Кхетури, Будхари, Катву, Яджиграм и Шрикханду; брак Бару Гангадаса / Jahnava returns from Vrindavana through Kheturi, Budhari, Katwa, Yajigrama and Shrikhanda; Baru Gangadasa's marriage  `ev-jahnava-returns-through-kheturi` (1533–1534, возраст 47–48, оценка)
 
@@ -6575,9 +6830,53 @@
 - bhakti-ratnakara (B): Таранга 11, 327–333 — [327–333](../bhakti-ratnakara/ru/11.md?plain=1#L985-L1003) · `brt-5061`
 - bhakti-ratnakara (B): Таранга 11, 374–396 — [374–396](../bhakti-ratnakara/ru/11.md?plain=1#L1126-L1192) · `brt-5065`
 
+## Обход Навадвипы: Ишана водит Шринивасу, Нароттаму и Рамачандру по девяти островам / The Navadvipa parikrama: Ishana guides Srinivasa, Narottama and Ramachandra through the nine islands  `ev-navadvipa-parikrama-ishana` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 17–26 — [17–26](../bhakti-ratnakara/ru/12.md?plain=1#L53-L80) · `brt-6002`
+- bhakti-ratnakara (B): Таранга 12, 27–82 — [27–82](../bhakti-ratnakara/ru/12.md?plain=1#L83-L271) · `brt-6003`
+- bhakti-ratnakara (B): Таранга 12, 83–133 — [83–133](../bhakti-ratnakara/ru/12.md?plain=1#L274-L426) · `brt-6004`
+- bhakti-ratnakara (B): Таранга 12, 134–181 — [134–181](../bhakti-ratnakara/ru/12.md?plain=1#L429-L573) · `brt-6005`
+- bhakti-ratnakara (B): Таранга 12, 182–237 — [182–237](../bhakti-ratnakara/ru/12.md?plain=1#L576-L741) · `brt-6006`
+- bhakti-ratnakara (B): Таранга 12, 238–269 — [238–269](../bhakti-ratnakara/ru/12.md?plain=1#L744-L837) · `brt-6007`
+- bhakti-ratnakara (B): Таранга 12, 270–371 — [270–371](../bhakti-ratnakara/ru/12.md?plain=1#L840-L1143) · `brt-6008`
+- bhakti-ratnakara (B): Таранга 12, 372–448 — [372–448](../bhakti-ratnakara/ru/12.md?plain=1#L1146-L1374) · `brt-6009`
+- bhakti-ratnakara (B): Таранга 12, 449–497 — [449–497](../bhakti-ratnakara/ru/12.md?plain=1#L1377-L1521) · `brt-6010`
+- bhakti-ratnakara (B): Таранга 12, 498–548 — [498–548](../bhakti-ratnakara/ru/12.md?plain=1#L1524-L1675) · `brt-6011`
+- bhakti-ratnakara (B): Таранга 12, 2111–2117 — [2111–2117](../bhakti-ratnakara/ru/12.md?plain=1#L6888-L6906) · `brt-7014`
+- bhakti-ratnakara (B): Таранга 12, 4022–4031 — [4022–4031](../bhakti-ratnakara/ru/12.md?plain=1#L13368-L13404) · `brt-7142`
+- bhakti-ratnakara (B): Таранга 12, 549–598 — [549–598](../bhakti-ratnakara/ru/12.md?plain=1#L1678-L1825) · `brt-6012`
+- bhakti-ratnakara (B): Таранга 12, 625–673, 697–750 — [625–673](../bhakti-ratnakara/ru/12.md?plain=1#L1906-L2050); [697–750](../bhakti-ratnakara/ru/12.md?plain=1#L2122-L2281) · `brt-6014`
+- bhakti-ratnakara (B): Таранга 12, 751–808 — [751–808](../bhakti-ratnakara/ru/12.md?plain=1#L2284-L2455) · `brt-6016`
+- bhakti-ratnakara (B): Таранга 12, 809–850 — [809–850](../bhakti-ratnakara/ru/12.md?plain=1#L2458-L2581) · `brt-6017`
+- bhakti-ratnakara (B): Таранга 13, 7–15 — [7–15](../bhakti-ratnakara/ru/13.md?plain=1#L23-L47) · `brt-8002`
+- bhakti-ratnakara (B): Таранга 13, 16–26 — [16–26](../bhakti-ratnakara/ru/13.md?plain=1#L50-L80) · `brt-8003`
+
+## Шриниваса во сне созерцает вечную Навадвипу и игры Гауры со всеми спутниками / Srinivasa sees in a dream the eternal Navadvipa and Gaura's pastimes with all His associates  `ev-srinivasa-dream-nitya-navadvipa` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 12, 4032–4076 — [4032–4076](../bhakti-ratnakara/ru/12.md?plain=1#L13407-L13539) · `brt-7143`
+
+## Вира Хамбир в Яджиграме: встреча с Нароттамой и Рамачандрой, прощание и раскаяние перед Нароттамой / Vira Hambira at Yajigrama: meeting Narottama and Ramachandra; farewell and repentance before Narottama  `ev-vira-hambira-yajigrama` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 13, 27–52 — [27–52](../bhakti-ratnakara/ru/13.md?plain=1#L83-L158) · `brt-8004`
+- bhakti-ratnakara (B): Таранга 13, 123–143 — [123–143](../bhakti-ratnakara/ru/13.md?plain=1#L371-L431) · `brt-8009`
+
+## Шриниваса в Кхетури через Канчанагарию и Будхари; брахман-спорщик принимает прибежище / Srinivasa goes to Kheturi via Kanchanagaria and Budhari; a disputatious brahmana takes shelter  `ev-srinivasa-kheturi-pashanda-brahmana` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 13, 151–171 — [151–171](../bhakti-ratnakara/ru/13.md?plain=1#L455-L515) · `brt-8011`
+
+## Сокрытие Рагхунанданы Тхакура в Шрикханде и праздник его ухода / The disappearance of Raghunandana Thakura at Shrikhanda and the festival of his departure  `ev-raghunandana-disappearance` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 13, 144–150 — [144–150](../bhakti-ratnakara/ru/13.md?plain=1#L434-L452) · `brt-8010`
+- bhakti-ratnakara (B): Таранга 13, 172–184 — [172–184](../bhakti-ratnakara/ru/13.md?plain=1#L518-L555) · `brt-8012`
+- bhakti-ratnakara (B): Таранга 13, 185–197 — [185–197](../bhakti-ratnakara/ru/13.md?plain=1#L558-L594) · `brt-8013`
+
 ## Кончина матери Шринивасы / The passing of Srinivasa's mother  `ev-srinivasa-mother-departure` (1533–1534, возраст 47–48, оценка)
 
 - prema-vilasa (C): Виласа 17, 145–155 — [145–155](../prema-vilasa/ru/17.md?plain=1#L437-L467) · `pvl-0120`
+
+## Парамешвари Дас по велению Джахнавы являет служение Радха-Гопинатхе в Тада-Атпуре / By Jahnava's order Parameshvari Dasa establishes the service of Radha-Gopinatha at Tada-Atpur  `ev-parameshvari-atpur-gopinatha` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 13, 243–247 — [243–247](../bhakti-ratnakara/ru/13.md?plain=1#L732-L744) · `brt-8016`
 
 ## Женитьба Шринивасы; огорчение Гопалы Бхатты / Srinivasa's marriage; Gopala Bhatta's displeasure  `ev-srinivasa-marriage` (1533–1534, возраст 47–48, оценка)
 
@@ -6585,6 +6884,7 @@
 - anuragavalli (C): Манджари 6, 141–144 — [141–144](../anuragavalli/ru/06.md?plain=1#L453-L462) · `anv-0040`
 - prema-vilasa (C): Виласа 16, 301–343 — [301–343](../prema-vilasa/ru/16.md?plain=1#L905-L1031) · `pvl-0114`
 - prema-vilasa (C): Виласа 17, 156–174 — [156–174](../prema-vilasa/ru/17.md?plain=1#L470-L524) · `pvl-0121`
+- bhakti-ratnakara (B): Таранга 13, 198–221 — [198–221](../bhakti-ratnakara/ru/13.md?plain=1#L597-L666) · `brt-8014`
 
 ## Шриниваса после ухода Нарахари и Даса Гададхары снова идёт во Вриндаван; Рамачандра получает звание «Кавираджа» / After the passing of Narahari and Dasa Gadadhara Srinivasa goes again to Vrindavana; Ramachandra receives the title 'Kaviraja'  `ev-srinivasa-second-vrindavana` (1533–1534, возраст 47–48, оценка)
 
@@ -6693,6 +6993,7 @@
 
 ## Рамачандра Кавираджа наставляет Виру Хамбира в садхана- и рагануга-бхакти / Ramachandra Kaviraja instructs Vira Hambira in sadhana- and raganuga-bhakti  `ev-ramachandra-instructs-vira-hambira` (1533–1534, возраст 47–48, оценка)
 
+- bhakti-ratnakara (B): Таранга 13, 53–61 — [53–61](../bhakti-ratnakara/ru/13.md?plain=1#L161-L185) · `brt-8005`
 - karnananda (C): Нирьяса 4, 1–38 — [1–38](../karnananda/ru/04.md?plain=1#L5-L116) · `krn-0022`
 - karnananda (C): Нирьяса 4, 39–474 и колофон — [39–474](../karnananda/ru/04.md?plain=1#L119-L1433) · `krn-0023`
 - karnananda (C): Нирьяса 6, 123–136 — [123–136](../karnananda/ru/06.md?plain=1#L411-L454) · `krn-0032`
@@ -6702,6 +7003,11 @@
 - bhakti-ratnakara (B): Таранга 9, 242–259 — [242–259](../bhakti-ratnakara/ru/09.md?plain=1#L728-L779) · `brt-4045`
 - narottama-vilasa (B): Виласа 3, 65–99 — [65–99](../narottama-vilasa/ru/03.md?plain=1#L200-L302) · `nvl-0024`
 - prema-vilasa (C): Виласа 19, 56–92 — [56–92](../prema-vilasa/ru/19.md?plain=1#L170-L278) · `pvl-0143`
+- bhakti-ratnakara (B): Таранга 15, 13–17 — [13–17](../bhakti-ratnakara/ru/15.md?plain=1#L41-L53) · `brt-8046`
+- bhakti-ratnakara (B): Таранга 15, 18–25 — [18–25](../bhakti-ratnakara/ru/15.md?plain=1#L56-L77) · `brt-8047`
+- bhakti-ratnakara (B): Таранга 15, 54–58 — [54–58](../bhakti-ratnakara/ru/15.md?plain=1#L164-L176) · `brt-8049`
+- bhakti-ratnakara (B): Таранга 15, 59–79 — [59–79](../bhakti-ratnakara/ru/15.md?plain=1#L179-L247) · `brt-8050`
+- bhakti-ratnakara (B): Таранга 15, 80–83 — [80–83](../bhakti-ratnakara/ru/15.md?plain=1#L250-L259) · `brt-8051`
 - prema-vilasa (C): Виласа 19, 93–112 — [93–112](../prema-vilasa/ru/19.md?plain=1#L281-L338) · `pvl-0144`
 
 ## Праздник в Канчанагарии в день ухода Двиджи Харидаса; посвящение Гокулананды и Шридаса / The festival at Kanchanagaria on Dvija Haridasa's disappearance day; initiation of Gokulananda and Shridasa  `ev-kanchanagaria-festival` (1533–1534, возраст 47–48, оценка)
@@ -6709,6 +7015,14 @@
 - bhakti-ratnakara (B): Таранга 10, 9–24 — [9–24](../bhakti-ratnakara/ru/10.md?plain=1#L29-L74) · `brt-5003`
 - bhakti-ratnakara (B): Таранга 10, 52–91 — [52–91](../bhakti-ratnakara/ru/10.md?plain=1#L158-L275) · `brt-5005`
 - bhakti-ratnakara (B): Таранга 10, 98–129 — [98–129](../bhakti-ratnakara/ru/10.md?plain=1#L296-L389) · `brt-5007`
+
+## Расикананда (Расика Мурари): голос с неба, сон о Шьямананде, встреча и посвящение / Rasikananda (Rasika Murari): a voice from the sky, a dream of Shyamananda, the meeting and initiation  `ev-rasikananda-initiation` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 15, 26–53 — [26–53](../bhakti-ratnakara/ru/15.md?plain=1#L80-L161) · `brt-8048`
+
+## Расикананда усмиряет слона и делает его учеником; правитель-явана склоняется / Rasikananda subdues an elephant and makes it his disciple; the Muslim ruler bows down  `ev-rasikananda-elephant` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 15, 84–86 — [84–86](../bhakti-ratnakara/ru/15.md?plain=1#L262-L268) · `brt-8052`
 
 ## Исчезновение Божеств Кхетури; шесть Божеств и образ Гауранги из амбара Випрадаса / The disappearance of the Kheturi Deities; the six Deities and Gauranga's image from Vipradasa's granary  `ev-kheturi-six-deities` (1533–1534, возраст 47–48, оценка)
 
@@ -6817,6 +7131,13 @@
 ## Странствия Вирачандры: Нилачала, Вриндаван, Экачакра / Virachandra's pilgrimages: Nilachala, Vrindavana, Ekachakra  `ev-virachandra-pilgrimage` (1533–1534, возраст 47–48, оценка)
 
 - nityananda-vamsha (C): Глава 3, 106–126 — [106–126](../nityananda-vamsha/ru/03.md?plain=1#L332-L394) · `nvv-0021`
+- bhakti-ratnakara (B): Таранга 13, 283–292 — [283–292](../bhakti-ratnakara/ru/13.md?plain=1#L862-L889) · `brt-8020`
+- bhakti-ratnakara (B): Таранга 13, 293–301 — [293–301](../bhakti-ratnakara/ru/13.md?plain=1#L892-L916) · `brt-8021`
+- bhakti-ratnakara (B): Таранга 13, 302–309 — [302–309](../bhakti-ratnakara/ru/13.md?plain=1#L919-L940) · `brt-8022`
+- bhakti-ratnakara (B): Таранга 13, 329–342 — [329–342](../bhakti-ratnakara/ru/13.md?plain=1#L1001-L1040) · `brt-8025`
+- bhakti-ratnakara (B): Таранга 13, 343–385 — [343–385](../bhakti-ratnakara/ru/13.md?plain=1#L1043-L1196) · `brt-8026`
+- bhakti-ratnakara (B): Таранга 13, 386–424 — [386–424](../bhakti-ratnakara/ru/13.md?plain=1#L1199-L1325) · `brt-8027`
+- bhakti-ratnakara (B): Таранга 13, 425–431 — [425–431](../bhakti-ratnakara/ru/13.md?plain=1#L1328-L1346) · `brt-8028`
 - nityananda-vamsha (C): Глава 7, 28–76 — [28–76](../nityananda-vamsha/ru/07.md?plain=1#L96-L244) · `nvv-0049`
 - nityananda-vamsha (C): Глава 7, 153–166 — [153–166](../nityananda-vamsha/ru/07.md?plain=1#L481-L520) · `nvv-0051`
 - nityananda-vamsha (C): Глава 8, 4–13 — [4–13](../nityananda-vamsha/ru/08.md?plain=1#L16-L43) · `nvv-0053`
@@ -6850,9 +7171,14 @@
 
 ## Вирачандра во Вриндаване: встреча с Дживой Госвами, арати и киртан в храме / Virachandra in Vrindavana: meeting Jiva Gosvami, arati and kirtan in the temple  `ev-virachandra-jiva-vrindavana` (1533–1534, возраст 47–48, оценка)
 
+- bhakti-ratnakara (B): Таранга 13, 310–328 — [310–328](../bhakti-ratnakara/ru/13.md?plain=1#L943-L998) · `brt-8023`
 - nityananda-vamsha (C): Глава 10, 163–181 — [163–181](../nityananda-vamsha/ru/10.md?plain=1#L510-L566) · `nvv-0072`
 - nityananda-vamsha (C): Глава 10, 182–207 — [182–207](../nityananda-vamsha/ru/10.md?plain=1#L569-L650) · `nvv-0073`
 - nityananda-vamsha (C): Глава 10, 208–244 — [208–244](../nityananda-vamsha/ru/10.md?plain=1#L653-L763) · `nvv-0074`
+
+## Говинда просит у Харидаса Пандита рис с молоком / Govinda asks Haridasa Pandita for rice with milk  `ev-govinda-asks-haridasa-pandita` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 13, 313–316 — [313–316](../bhakti-ratnakara/ru/13.md?plain=1#L952-L962) · `brt-8024`
 
 ## Спор о «Гопала-чампу»: Вьяса Чакраварти о свакии; вопрос учеников Шринивасы Дживе / The dispute over the Gopala-champu: Vyasa Chakravarti on svakiya; Srinivasa's disciples question Jiva  `ev-gopala-champu-dispute` (1533–1534, возраст 47–48, оценка)
 
@@ -6864,6 +7190,10 @@
 - bhakti-ratnakara (B): Таранга 1, 438–460 — [438–460](../bhakti-ratnakara/ru/01.md?plain=1#L1331-L1417) · `brt-0024`
 - karnananda (C): Нирьяса 5, 54–82 — [54–82](../karnananda/ru/05.md?plain=1#L163-L249) · `krn-0025`
 - prema-vilasa (D): Полувиласа, письма 1–2 (6–32) — [6–32](../prema-vilasa/ru/25.md?plain=1#L26-L106) · `pvl-0201`
+- bhakti-ratnakara (B): Таранга 14, 11–21 — [11–21](../bhakti-ratnakara/ru/14.md?plain=1#L35-L76) · `brt-8031`
+- bhakti-ratnakara (B): Таранга 14, 22–28 — [22–28](../bhakti-ratnakara/ru/14.md?plain=1#L79-L112) · `brt-8032`
+- bhakti-ratnakara (B): Таранга 14, 29–33 — [29–33](../bhakti-ratnakara/ru/14.md?plain=1#L115-L137) · `brt-8033`
+- bhakti-ratnakara (B): Таранга 14, 34–45 — [34–45](../bhakti-ratnakara/ru/14.md?plain=1#L141-L192) · `brt-8034`
 - prema-vilasa (D): Полувиласа, письмо 3 (33–61) — [33–61](../prema-vilasa/ru/25.md?plain=1#L111-L195) · `pvl-0202`
 - prema-vilasa (D): Полувиласа, письма 4–6 (62–104) — [62–104](../prema-vilasa/ru/25.md?plain=1#L200-L330) · `pvl-0203`
 
@@ -6871,10 +7201,23 @@
 
 - narottama-vilasa (B): Виласа 11, 197–225 — [197–225](../narottama-vilasa/ru/11.md?plain=1#L598-L705) · `nvl-0064`
 
+## Рамачандра Кавираджа в Яджиграме смеётся, созерцая игру Радхи и Кришны (лунный свет вместо кумуд) / Ramachandra Kaviraja at Yajigrama laughs, beholding the pastime of Radha and Krishna (moonlight taken for lilies)  `ev-ramachandra-yajigrama-kumuda-vision` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 14, 46–56 — [46–56](../bhakti-ratnakara/ru/14.md?plain=1#L195-L225) · `brt-8035`
+- bhakti-ratnakara (B): Таранга 14, 57–66 — [57–66](../bhakti-ratnakara/ru/14.md?plain=1#L228-L255) · `brt-8036`
+
 ## Шринивас с Нароттамой в Будхари; праздник в Боракули: установление Радха-Винода / Shrinivasa with Narottama at Budhari; the festival at Boraquli: the installation of Radha-Vinoda  `ev-boraquli-festival` (1533–1534, возраст 47–48, оценка)
 
+- bhakti-ratnakara (B): Таранга 14, 67–88 — [67–88](../bhakti-ratnakara/ru/14.md?plain=1#L258-L346) · `brt-8037`
+- bhakti-ratnakara (B): Таранга 14, 89–118 — [89–118](../bhakti-ratnakara/ru/14.md?plain=1#L349-L436) · `brt-8038`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 473–474 (6.3, № 55) «জয় জয় শ্রীনিবাস আচার্য্য» = БР 14 (изд. 1912, с. ≈1037–1038; изд. 1960, 14.78–81) — [9.1–9.4](../padas/ru/26.md?plain=1#L257-L266) · `pad-0563`
+- bhakti-ratnakara (B): Таранга 14, 119–146 — [119–146](../bhakti-ratnakara/ru/14.md?plain=1#L439-L520) · `brt-8039`
 - padas (B): Нарахари (Чакраварти?), ГПТ1 с. 476 (6.3, № 61) «জয় জয় শ্রীনরোত্তম পরম উদার» = БР 14 (изд. 1912, с. ≈1038; изд. 1960, 14.83–86) — [11.1–11.4](../padas/ru/26.md?plain=1#L343-L352) · `pad-0565`
+- bhakti-ratnakara (B): Таранга 14, 147–159 — [147–159](../bhakti-ratnakara/ru/14.md?plain=1#L523-L559) · `brt-8040`
+
+## Вирачандра отвергает Джаягопалу из Кадары и извещает Шринивасу письмом / Virachandra rejects Jayagopala of Kadara and informs Srinivasa by letter  `ev-virachandra-rejects-jayagopala` (1533–1534, возраст 47–48, оценка)
+
+- bhakti-ratnakara (B): Таранга 14, 178–191 — [178–191](../bhakti-ratnakara/ru/14.md?plain=1#L617-L666) · `brt-8042`
 
 ## Служение Вамшивадане в доме Шринивасы; Хемалата являет Божество Радха-раманы / The service of Vamshivadana in Srinivasa's house; Hemalata manifests the Deity of Radha-ramana  `ev-hemalata-radha-ramana` (1533–1534, возраст 47–48, оценка)
 
@@ -6884,6 +7227,7 @@
 
 - anuragavalli (C): Манджари 7, 3–66 — [3–66](../anuragavalli/ru/07.md?plain=1#L15-L214) · `anv-0049`
 - karnananda (C): Нирьяса 1, 109–135 — [109–135](../karnananda/ru/01.md?plain=1#L326-L404) · `krn-0006`
+- bhakti-ratnakara (B): Таранга 15, 113–120 — [113–120](../bhakti-ratnakara/ru/15.md?plain=1#L391-L419) · `brt-8057`
 - karnananda (C): Нирьяса 1, 136–246 — [136–246](../karnananda/ru/01.md?plain=1#L407-L737) · `krn-0007`
 - karnananda (C): Нирьяса 1, 348–407 — [348–407](../karnananda/ru/01.md?plain=1#L1057-L1234) · `krn-0012`
 - karnananda (C): Нирьяса 2, 1–34 — [1–34](../karnananda/ru/02.md?plain=1#L5-L104) · `krn-0014`
@@ -6901,7 +7245,9 @@
 ## Ветви и побеги Нароттамы: его ученики, ученики Рамакришны и Ганганараяны / The branches and sub-branches of Narottama: his disciples and those of Ramakrishna and Ganganarayana  `ev-narottama-branches` (1533–1534, возраст 47–48, оценка)
 
 - narottama-vilasa (B): Виласа 12, 1–98 — [1–98](../narottama-vilasa/ru/12.md?plain=1#L5-L296) · `nvl-0067`
+- bhakti-ratnakara (B): Таранга 15, 121–127 — [121–127](../bhakti-ratnakara/ru/15.md?plain=1#L424-L449) · `brt-8058`
 - narottama-vilasa (B): Виласа 12, 99–127 — [99–127](../narottama-vilasa/ru/12.md?plain=1#L299-L389) · `nvl-0068`
+- bhakti-ratnakara (B): Таранга 15, 128–134 — [128–134](../bhakti-ratnakara/ru/15.md?plain=1#L454-L478) · `brt-8059`
 
 ## Сочинения Шри Дживы Госвами во Вриндаване / The writings of Sri Jiva Gosvami in Vrindavana  `ev-jiva-gosvami-writings` (1533–1534, возраст 47–48, оценка)
 
