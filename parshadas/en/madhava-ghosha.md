@@ -3,7 +3,7 @@
 
 ## "The Singer of Vrindavana"
 Madhava Ghosha is one of the three Ghosha brothers, an eternal companion of Sri Chaitanya and Nityananda, a kirtaniya
-to whose singing Sri Chaitanya and Nityananda danced. He is most often called Madhava Ghosha or, with reverence, Sri
+to whose singing They danced. He is most often called Madhava Ghosha or, with reverence, Sri
 Madhava Ghosha Thakura; but Kavi Karnapura in the “Gaura-ganoddesha-dipika” and Vrindavana Dasa Thakura in the
 “Chaitanya-bhagavata” call him Madhavananda, and under this name too — Madhavananda Ghosha Thakura — he is known in the
 biographies. <!-- F1 -->
@@ -41,7 +41,7 @@ not say. Kavi Karnapura and Krishnadasa Kaviraja name them in the order "Govinda
 Dasa in the order "Madhava, Govinda, Vasudeva." <!-- F6 -->
 
 The brothers came from the kayasthas of Uttara-Rarhi — northern Rarh, the part of Rarh through which the Ganga does not
-flow. Srila Bhaktisiddhanta, too, writes of them as kayasthas of northern Rarh in the “Anubhashya”[^2]. The family was
+flow. So too writes Srila Bhaktisiddhanta in the “Anubhashya”[^2]. The family was
 prominent and respected and belonged to the "shaukra," kayasthas by birth. The family is linked with Shrihatta (Sylhet)
 through the village of Buran, or Burangi; the brothers' father settled in Kumarahatta, and later the brothers moved to
 Navadvipa. More on this is told in the article on Vasu Ghosha[^3]. <!-- F7 F8 -->
