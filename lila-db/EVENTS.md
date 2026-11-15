@@ -3641,7 +3641,7 @@
 ## Преданные из разных краёв собираются к Господу в Нилачале / Devotees from many lands gather around the Lord in Nilachala  `ev-devotees-gather-nilachala` (1512–1514, возраст 26–28, оценка)
 
 - govinda-karcha (D): Часть 3, 501–504 — [501–504](../govinda-kadacha/ru/03.md?plain=1#L208-L219) · `gkr-0028`
-- chaitanya-chandrodaya (A): Акт 8, приход спутников, ст. 4–9 — [**Шри Кришна Чайтанья** *(про себя)*. Ах–**Сарвабхаума.** Ах, какая природная люб](../chaitanya-chandrodaya/ru/08.md?plain=1#L74-L126) · `ccd-0063`
+- chaitanya-chandrodaya (A): Акт 8, приход спутников, ст. 4–9 — [**Шри Кришна Чайтанья** *(про Себя)*. Ах–**Сарвабхаума.** Ах, какая природная люб](../chaitanya-chandrodaya/ru/08.md?plain=1#L74-L126) · `ccd-0063`
 - chaitanya-chandrodaya (A): Акт 8, приход спутников, ст. 10–11 — [**Шри Кришна Чайтанья** *(изображая, что–*(Дамодара-Сварупа подходит и кланяется ](../chaitanya-chandrodaya/ru/08.md?plain=1#L128-L152) · `ccd-0064`
 - chaitanya-chandrodaya (A): Акт 8, приход спутников, ст. 12–14 — [> **12.** Преданный служению Ишваре Пури–**Шри Кришна Чайтанья.** Что ж, хотя не ](../chaitanya-chandrodaya/ru/08.md?plain=1#L156-L187) · `ccd-0065`
 - chaitanya-chandrodaya (A): Акт 8, приход спутников, ст. 15–22 — [**Мукунда** *(поспешно входя)*. Свамин! –**Брахмананда.** Как тебе угодно. *(Уход](../chaitanya-chandrodaya/ru/08.md?plain=1#L189-L255) · `ccd-0066`
