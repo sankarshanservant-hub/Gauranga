@@ -1,0 +1,89 @@
+# События, заведённые по «Бхакти-ратнакаре», тараги 10 и 11 (формат — README.md, как events.yaml).
+# Новые события добавлять в конец.
+
+- id: ev-dvija-haridasa-departure
+  title: "Двиджа Харидас Ачарья уходит один во Вриндаван и сокрывается там"
+  title_en: "Dvija Haridasa Acharya goes alone to Vrindavana and disappears there"
+  period: P15
+  order: 96.55
+  date_conf: оценка
+  date_basis: "сокрылся в магху, экадаши тёмной половины, когда Шриниваса был на пути во Вриндаван во второй раз (БР 10.13, 42)"
+  calendar: "магха, тёмная половина, экадаши (день ухода)"
+  themes: [departure, separation]
+  notes: "«Бхакти-ратнакара» 10.32–43 (рассказ очевидца): после сокрытия Махапрабху Харидас хотел оставить тело, велел сыновьям принять посвящение у Шринивасы и ушёл во Вриндаван, где встречался со Шринивасой; после ухода утешил его во сне."
+
+- id: ev-kanchanagaria-festival
+  title: "Праздник в Канчанагарии в день ухода Двиджи Харидаса; посвящение Гокулананды и Шридаса"
+  title_en: "The festival at Kanchanagaria on Dvija Haridasa's disappearance day; initiation of Gokulananda and Shridasa"
+  period: P15
+  order: 103
+  date_conf: оценка
+  date_basis: "через год после ухода Харидаса Ачарьи, после второго путешествия Шринивасы во Вриндаван (БР 10.13, 47)"
+  calendar: "магха, тёмная половина: дашами — санкиртана, экадаши — посвящение, двадаши — праздник"
+  themes: [festival, departure, kirtan]
+  notes: "«Бхакти-ратнакара» 10.9–129: в экадаши — пост и посвящение сыновей Харидаса, угощение в честь ухода перенесено на двадаши; само посвящение — тж. ev-gokulananda-shridasa-disciples (БР 1)."
+
+- id: ev-ramachandra-dream-gaura
+  title: "Гаура во сне открывает Рамачандре Кавирадже: «Ты и Нароттама Мне дороги»"
+  title_en: "Gaura reveals to Ramachandra Kaviraja in a dream: 'You and Narottama are dear to Me'"
+  period: P15
+  order: 104.6
+  date_conf: оценка
+  themes: [revelation, mercy]
+  notes: "«Бхакти-ратнакара» 10.218–238: в ночь перед приходом Нароттамы в Будхари; Господь говорит, что при встрече оба вспомнят прежнее и будут дарить Его према-бхакти."
+
+- id: ev-govinda-kaviraja-title
+  title: "Говинда воспевает игры Гауры и получает имя «Кавираджа»"
+  title_en: "Govinda sings Gaura's pastimes and receives the name 'Kaviraja'"
+  period: P15
+  order: 104.7
+  date_conf: оценка
+  themes: [learning, mercy]
+  notes: "«Бхакти-ратнакара» 10.292–297 (имя даёт Шриниваса в Будхари) и 11.145–148 (Госвами Вриндавана, услышав его стихи, прославляют его как Говинду Кавираджу)."
+
+- id: ev-vamshidasa-chakravarti-initiation
+  title: "Сон Вамшидаса Чакраварти и его посвящение у Шринивасы в Бахадурпуре"
+  title_en: "Vamshidasa Chakravarti's dream and his initiation by Srinivasa at Bahadurpur"
+  period: P15
+  order: 104.8
+  date_conf: оценка
+  themes: [mercy, revelation]
+  notes: "«Бхакти-ратнакара» 10.299–330: Шриниваса является юноше во сне и наутро посвящает его в мантру Радхи и Кришны."
+
+- id: ev-jahnava-vraja-visions
+  title: "Джахнава созерцает во Врадже игры Кришны и Баларамы: Радха-кунда, весенний раса у Говардханы, раса Баларамы у Рама-гхата"
+  title_en: "Jahnava beholds the pastimes of Krishna and Balarama in Vraja: Radha-kunda, the spring rasa at Govardhana, Balarama's rasa at Rama-ghata"
+  period: P15
+  order: 95.2
+  date_conf: оценка
+  themes: [krishna-lila, revelation, ecstasy]
+  bhava: [balarama]
+  notes: "«Бхакти-ратнакара» 11.178–185, 207–222: видения в уединении, никому не открытые."
+
+- id: ev-jahnava-revives-brahmana-boy
+  title: "Джахнава оживляет умершего сына брахмана-враджаваси"
+  title_en: "Jahnava revives the dead son of a Vrajavasi brahmana"
+  period: P15
+  order: 95.25
+  date_conf: оценка
+  themes: [mercy, celestial]
+  notes: "«Бхакти-ратнакара» 11.223–233: в селении на Ямуне; Джахнава приписывает чудо Кришне."
+
+- id: ev-jiva-sends-gopala-virudavali
+  title: "Наставления Госвами Нароттаме и Шринивасе; Джива посылает в Гауду «Гопала-вирудавали»"
+  title_en: "The Gosvamis' messages to Narottama and Srinivasa; Jiva sends the Gopala-virudavali to Gauda"
+  period: P15
+  order: 95.35
+  date_conf: оценка
+  themes: [teaching, learning, separation]
+  teaching: [vaishnava, scripture]
+  notes: "«Бхакти-ратнакара» 11.272–286, 354–356, 678–681: через Говинду Кавираджу; книга, написанная Дживой по велению Рупы во сне, переходит от Нароттамы к Рамачандре и Шринивасе."
+
+- id: ev-bara-gangadasa-shyama-raya
+  title: "Божество Шьяма-рай и женитьба Бары Гангадаса на Хемалате в Будхари"
+  title_en: "The Deity Shyama-raya and Bara Gangadasa's marriage to Hemalata at Budhari"
+  period: P15
+  order: 95.55
+  date_conf: оценка
+  themes: [deities, family, mercy]
+  notes: "«Бхакти-ратнакара» 11.260–271, 327–332, 374–396: Божество, подаренное Джахнаве во Вриндаване, она вверяет отрёкшемуся Гангадасу и по сну Шьямадаса Чакраварти женит его на его дочери."
