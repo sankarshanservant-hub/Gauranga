@@ -16,8 +16,8 @@ Nityananda, while Govinda stayed with the Lord and was glad to do so (CC, Adi 10
 count Govinda in the branch of Sri Gauranga Himself. Of Madhava and Vasudeva the “Charitamrita” says specially that
 they belong to both ganas, Gaura's and Nityananda's (Adi 11.15); of Govinda this is not said. <!-- F2 F3 -->
 
-All three brothers are eternal companions of Sri Chaitanya and Nityananda. The biographies agree on this; one of them,
-in its chapter on Vasudeva, adds that the other two brothers as well, Govinda and Madhava Ghosha Thakura, were
+All three brothers are eternal companions of Sri Chaitanya and Nityananda, says one biography; another, in its chapter
+on Vasudeva, adds that the other two brothers as well, Govinda and Madhava Ghosha Thakura, were
 devotees of Gaura full of the deepest love for Him. <!-- F4 F5 -->
 
 ## The Three Brothers
@@ -61,19 +61,18 @@ that is how the “Charitamrita” remembers them:
 10.115)
 
 The biographies repeat this in various ways: no sooner did the three brothers begin their sankirtana than Lord
-Chaitanya and Nityananda broke into dance, overwhelmed with ecstasy; Nityananda Himself danced to their kirtana[^6].
+Chaitanya and Nityananda broke into ecstatic dance; Nityananda Himself danced to their kirtana[^6].
 <!-- F13 F15 Q3 -->
 
 ## In Navadvipa
-The first thing we know of Govinda Ghosha in the Lord's pastimes is the kirtana in the courtyard of Srivasa Pandita.
+In Navadvipa we see Govinda Ghosha above all at the kirtana in the courtyard of Srivasa Pandita.
 On the day of Hari-vasara, when everyone chants the names of Hari, the Lord began to dance at dawn, and the devotees,
 dividing into groups, sang. Vrindavana Dasa says:
 
 “In one group the chief singer was Srivasa Pandita, in another, Mukunda. The third group was led by Govinda Ghosha. And
 as Gaurachandra danced, all the devotees sang the holy names.” (CB, Madhya 8.141–142)
 
-So already in Navadvipa Govinda Ghosha became one of the Lord's lead singers, and Srivasa's courtyard was the first
-place of his service. <!-- F17 Q6 -->
+So already in Navadvipa Govinda Ghosha was one of the Lord's lead singers. <!-- F17 Q6 -->
 
 One biography sees him also in the great nagara-sankirtana, when the Lord went with His devotees to the Kazi's house.
 Vrindavana Dasa, listing those who knew perfectly how to perform kirtana, names Govinda among them (CB, Madhya
@@ -83,7 +82,7 @@ kirtana; another also names him among those in the procession. In the “Chaitan
 "Govinda"[^7]. <!-- F18 Q7 -->
 
 ## Songs of Separation
-Not many of Govinda's own songs have come down to us, but among them are some that are sung to this day. Two of them
+Not many of Govinda's own songs have come down to us. Two of them
 tell how Navadvipa learned of the Lord's sannyasa. In the first, Gadadhara Pandita runs to Mukunda Datta with news he
 has just heard from the lips of Sri Gauranga Himself:
 
@@ -132,8 +131,7 @@ Radha and is signed "this lowly Govinda Ghosha"; another was composed after the 
 decision to accept sannyasa; and there is a song that tradition ascribes to all three brothers together. <!-- F36 F13 -->
 
 ## In Nilachala
-When the Lord, having accepted sannyasa, settled in Puri, the devotees of Gauda came to Him every year. On their very
-first visit King Prataparudra watched them from the roof of the palace, and Gopinatha Acharya named each one for him.
+When the Lord, having accepted sannyasa, settled in Puri, the devotees of Gauda came to Him. On that first visit King Prataparudra watched them from the roof of the palace, and Gopinatha Acharya named each one for him.
 He pointed out the brothers too:
 
 “Here are Govinda, Madhava Ghosha and Vasu Ghosha — three brothers whose kirtana delights the Lord.” (CC, Madhya 11.88)
@@ -145,8 +143,7 @@ At the Ratha-yatra Mahaprabhu divided the singers into seven groups. The fourth 
 brothers Madhava and Vasudeva Ghosha; and Vakreshvara Pandita danced there.” (CC, Madhya 13.42–43)
 
 So Govinda became the mula-gayaka, the lead singer whom the chorus followed, his two brothers among them; and to dance
-before his group the Lord appointed none other than Vakreshvara Pandita himself, whose dancing was renowned among all
-the devotees[^8]. <!-- F20 Q4 -->
+before his group the Lord appointed none other than Vakreshvara Pandita himself[^8]. <!-- F20 Q4 -->
 
 When the Lord wished to dance Himself, He brought all seven groups together and, for His wild, leaping dance, put
 nine devotees together with Svarupa Damodara: Srivasa, Ramai, Raghu, Govinda, Mukunda, Haridasa, Govindananda, Madhava
@@ -160,8 +157,8 @@ Madhava and Vasudeva Ghosha. Govinda stayed with the Lord, and was overjoyed to 
 To remain with the Lord was a joy for Govinda: his place was at Gaura's feet, and it was before Him that he sang.
 <!-- F19 -->
 
-Yet Gauda did not forget him. Every year the brothers, together with Shivananda Sena and other Gaudiya Vaishnavas,
-walked to Nilachala and with their kirtana increased the Lord's joy. Of the third year of these journeys the
+From then on, every year the brothers, together with Shivananda Sena and other Gaudiya Vaishnavas, walked from Gauda
+to Nilachala and with their kirtana increased the Lord's joy. Of the third year of these journeys the
 “Charitamrita” says:
 
 “Acharyaratna, Vidyanidhi, Srivasa, Ramai, Vasudeva, Murari, and Govinda with his two brothers set out. Raghava
@@ -192,8 +189,8 @@ inclination to serve Hari grows in the heart only when worldly conceptions have 
 ## Sri Gopinatha in Agradvipa
 Govinda Ghosha's principal service, remembered to this day, is connected with Agradvipa. At Sriman Mahaprabhu's
 instruction he manifested there the Deity of Sri Gopinatha from a black stone, a krishna-shila, that had come to him.
-Gopinatha is Krishna Himself, the Beloved of the gopis; He appeared in Agradvipa by Mahaprabhu's will to accept the
-service of Govinda and of all who would come to Him. The biographies call Govinda Ghosha the founder of Sri Gopinatha's
+Gopinatha is Krishna Himself, the Beloved of the gopis; He appeared in Agradvipa by Mahaprabhu's will and accepted
+Govinda's service. The biographies call Govinda Ghosha the founder of Sri Gopinatha's
 service in Agradvipa; Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” writes that Govinda installed the
 Deity of Gopinatha there, and Srila Bhaktivedanta Svami in his commentary on the “Charitamrita” — that Govinda Ghosha
 established the temple of Gopinatha in Agradvipa and lived there. Gopinatha was his Deity — his Krishna. <!-- F24 -->
@@ -204,8 +201,8 @@ between Navadvipa and Katwa; a little north of Agradvipa lies Chakhandi, the bir
 Bhaktivinoda in the “Amrita-pravaha-bhashya” on Madhya 11.88 adds that in his day, too, a fair in memory of "Ghosha
 Thakura" was held in Agradvipa, near Katwa. <!-- F25 -->
 
-The service of Sri Gopinatha has long been carried on under the supervision of the royal house of Nadia, which rules
-from Krishnanagar. Every year in the month of Vaishakha, at the Baradol festival, Sri Gopinatha is brought together
+The service of Sri Gopinatha has long been carried on under the supervision of the royal house of Nadia at
+Krishnanagar. Every year in the month of Vaishakha, at the Baradol festival, Sri Gopinatha is brought together
 with eleven other Deities to the palace of Krishnanagar, and after the Dola festival He returns to Agradvipa. Of this
 too Srila Bhaktisiddhanta writes in the “Anubhashya.” <!-- F26 -->
 
@@ -220,7 +217,7 @@ Pandita and Shivananda Sena. <!-- F27 -->
 
 According to tradition, Govinda's wife and son left this world before him; their names the sources do not give[^14].
 Then, it is said, he began to wonder: who, after his departure, would offer the pinda for him — the memorial offering
-that by custom a son makes (the shraddha)? This should not be taken as fear for his own fate after death: a devotee
+(shraddha) that by custom a son performs? This should not be taken as fear for his own fate after death: a devotee
 wholly surrendered to Mukunda no longer owes anything to the gods, the sages or the ancestors (SB 11.5.41). The worry
 only gave the Lord an occasion to show how He loves His servant. <!-- F28 F29 -->
 
@@ -246,7 +243,7 @@ of Gopinatha points to Agradvipa, though this is not said outright. His brother 
 Shukla-dvitiya of the month of Damodara (Kartika). <!-- F33 -->
 
 ## Srinivasa and Kheturi
-Near Agradvipa lies Chakhandi, and there Srinivasa Acharya spent his childhood. As a boy Srinivasa constantly went to
+Near Agradvipa lies Chakhandi; there Srinivasa Acharya spent his childhood. As a boy Srinivasa constantly went to
 the houses of Gaura's devotees living near Chakhandi and heard about the Lord. The “Bhakti-ratnakara” says:
 
 "To the houses of the devotees who live near Chakhandi
@@ -274,7 +271,7 @@ companions who descended with the Lord, names the three brothers again (Sutra-kh
 (part 2, 80); elsewhere in the same vandana he is named beside Gadadhara Dasa, but that line is unclear (part 2, 91).
 Other poets honour the three brothers too: in another “Vaishnava-vandana” Govinda, Madhavananda and Vasu Ghosha are
 called "treasuries of virtue" (part 1, 93), in a third, "Govinda, Madhava and Vasudeva, bearing the name Ghosha" (part
-3, 30). The “Narottama-vilasa” bows to them as well (2.122; 11.280), and in the “Prema-vivarta” a Govinda plays the
+3, 30). The “Narottama-vilasa” honours them as well (2.122; 11.280), and in the “Prema-vivarta” a Govinda plays the
 mridanga — apparently Govinda Ghosha (15.7). <!-- F40 -->
 
 ## Significance
