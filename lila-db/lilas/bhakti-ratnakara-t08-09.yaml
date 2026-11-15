@@ -1,0 +1,591 @@
+# Нарахари Чакраварти, «Бхакти-ратнакара», тараги 8–9 — лилы в порядке изложения (формат — ../README.md).
+# Продолжение lilas/bhakti-ratnakara.yaml (параллельная работа; id brt-4001…brt-4999).
+# Перевод — bhakti-ratnakara/ru|en/NN.md; метки стихов — **N.** по нумерации изд. 1960 г.
+
+# ---------- Таранга 8. Нароттама в Навадвипе и Нилачале ----------
+
+- id: brt-4001
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 1–4"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: PX
+  order: 38
+  title: "Мангала восьмой волны: слава Гаурачандре, Нитьянанде, Адвайте и спутникам"
+  summary: "Слава Гаурачандре, Нитьянанде, Адвайте, Гададхаре, Шривасу, Вакрешваре, Мурари, Харидасу, Гауридасу, Сварупе Дамодаре и всем спутникам; обращение к слушателям."
+  persons: ["@narahari-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@vakreshvara", "@murari-gupta", "@haridasa-thakura", "@gauridasa-pandita", "@svarupa-damodara"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "1", to: "4"}
+
+- id: brt-4002
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 5–21"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.41
+  title: "Шриниваса ждёт Нароттаму в Яджиграме; Нароттама у Навадвипы видит её прежнюю славу и нынешнюю скорбь"
+  summary: "Шриниваса, сокрушитель гордости майявади, с учениками в Яджиграме высматривает Нароттаму на дороге; Нароттама, подходя к Навадвипе, сокрушается, что не родился во время игр Гауранги, и на миг видит Надию в блаженстве санкиртаны: Гора танцует среди спутников, повсюду клики «Хари!»; придя в себя, видит Надию, тонущую в скорби, и спрашивает себя: «Не сон ли это?»"
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@mahaprabhu"]
+  places: ["#yajigrama", "#navadvipa"]
+  kind: vision
+  authority: B
+  parallels: "«Нароттама-виласа» 3 (nvl-0025: видение игр Гауры)"
+  themes: [separation, revelation, kirtan]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "5", to: "21"}
+
+- id: brt-4003
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 22–74"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.42
+  title: "Старый брахман у ашваттхи, где Нимай учил шастры: рассказ о Надии и видение Нимая с учениками"
+  summary: "Нароттама садится под необыкновенной ашваттхой, тень которой возвращает ему самообладание; старый брахман, каждый день приходящий к этому месту игр Нимая, узнаёт в нём того, кому Нимай даровал милость, и рассказывает: после санньясы и сокрытия Господа в Нилачале, после ухода Шриваса, Вишнуприи и других Надия погружается во тьму; сам он, увлечённый логикой, не распознал в Нимае Нараяну; под этим деревом Нимай занимался шастрами среди учеников, и однажды брахман вновь увидел Его здесь среди тысяч учеников — с тех пор приходит каждый день; он благословляет Нароттаму на бхакти и посылает в Майяпур, к дому Джаганнатхи Мишры."
+  persons: ["@narottama-dasa", "@mahaprabhu", "@vishnupriya", "@srivasa", "@keshava-bharati"]
+  places: ["#navadvipa", "#mayapur"]
+  kind: vision
+  authority: B
+  notes: "Брахман по имени не назван. Вишнуприя, по его словам, сокрылась «совсем недавно»."
+  themes: [separation, revelation, learning]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "22", to: "74"}
+
+- id: brt-4004
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 75–111"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.43
+  title: "Нароттама в доме Джаганнатхи Мишры: Шукламбара, Ишана, Дамодара Пандит, Шрипати и Шринидхи"
+  summary: "Шукламбара Брахмачари во дворе дома Господа узнаёт в Нароттаме того, кого Господь звал в Рамакели; Нароттама катается по двору; Ишана обнимает его; Дамодара Пандит говорит, что жизнь держится в нём по воле Господа, и сводит его со Шрипати, Шринидхи и другими; сокрывшиеся спутники являются ему во сне; через несколько дней Ишана посылает его скорее в Шрикшетру — к Гопинатхе Ачарье и другим, затем в Шрикханду и Кантака-нагар — через Шантипур и Кхардаху."
+  persons: ["@narottama-dasa", "@shuklambara", "@ishana-navadvipa", "@damodara-pandita", "@shripati", "@shrinidhi", "@srinivasa-acharya", "@mahaprabhu", "@gopinatha-acharya"]
+  places: ["#mayapur", "#house-jagannatha-mishra", "#navadvipa"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 3 (nvl-0025)"
+  themes: [separation, pilgrimage]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "75", to: "111"}
+
+- id: brt-4005
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 112–133"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.44
+  title: "Нароттама в Шантипуре: Адвайта незримо является ему; Ачьютананда"
+  summary: "Адвайта, играющий в Шантипуре в неявленной форме, накануне извещает Ачьютананду о приходе Нароттамы; по пути к дому Ачарьи Господь Ситанатха со спутниками показывается Нароттаме, незримый для других, и тот лишается чувств; Ачьютананда, исхудавший от разлуки, узнаёт его без представления, обнимает и велит не медлить, а скорее идти к Нилачала-чандре; спутники Адвайты держат его три-четыре дня."
+  persons: ["@narottama-dasa", "@advaita", "@achyutananda", "@jagannatha-deity"]
+  places: ["#shantipura"]
+  kind: vision
+  authority: B
+  parallels: "«Нароттама-виласа» 3 (nvl-0026)"
+  themes: [revelation, separation, mercy]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "112", to: "133"}
+
+- id: brt-4006
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 134–141"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.45
+  title: "Нароттама в Амбике: Божества Нитай-Чайтанья Гауридаса; Хридая Чайтанья"
+  summary: "Переправившись через Гангу у Харинади, Нароттама в Амбике видит Нитая и Чайтанью — жизнь Гауридаса — и кланяется во дворе в слезах; встреча с Хридаей Чайтаньей и другими; его отпускают в Нилачалу."
+  persons: ["@narottama-dasa", "@gaura-nitai-ambika", "@gauridasa-pandita", "@hridaya-chaitanya"]
+  places: ["#harinadi", "#ambika-kalna"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 3 (nvl-0026)"
+  themes: [deities, separation]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "134", to: "141"}
+
+- id: brt-4007
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 142–145, 200–205"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.46
+  title: "Нароттама в Саптаграме: Уддхарана Датта недавно сокрылся"
+  summary: "Нароттама издали кланяется Саптаграму у Тривени, месту подвижничества семи риши и игр Нитьянанды; войдя в селение, узнаёт, что Уддхарана Датта, сгоравший в разлуке с Господом, несколько дней назад сокрылся и Саптаграм погрузился во тьму; встречается с дорогими Господу и идёт берегом Ганги, навещая преданных."
+  persons: ["@narottama-dasa", "@uddharana-datta", "@nityananda"]
+  places: ["#saptagrama", "#ganga"]
+  kind: post-advent
+  authority: B
+  notes: "Между 145 и 200 — вставной рассказ о Нитьянанде (brt-4008). Сокрытие Уддхараны Датты — упоминание."
+  themes: [separation, pilgrimage, departure]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "142", to: "145"}
+    - {file: "bhakti-ratnakara/ru/08.md", from: "200", to: "205"}
+
+- id: brt-4008
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 146–199"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P12
+  order: 110
+  title: "Отступление: странствие Нитьянанды по Гауде — Панихати, Кхардаха, Саптаграм и Уддхарана Датта, Шантипур, Навадвипа"
+  summary: "По повелению Чайтаньи Нитьянанда приходит из Уткалы в Гауду, славя её землю; с Рамадасом, Гададхарой Дасом и другими — в Панихати: санкиртана в доме Рагхавы Пандита, игры в доме Гададхары Даса; в Кхардахе — према в храме Пурандары Пандита; в Саптаграме Он делает Своим Уддхарану Датту, останавливается у Тривени, наполняет киртаном дома торговцев и дарует им према-бхакти; затем встречается с Адвайтой в Шантипуре и в украшениях, со звенящими нупурами, странствует по Навадвипе, радуя Шачи."
+  persons: ["@nityananda", "@mahaprabhu", "@abhirama", "@gadadhara-dasa", "@raghava-pandita", "@purandara-pandita", "@uddharana-datta", "@advaita", "@shachi", "@vrindavana-dasa", "@padmavati"]
+  places: ["#gauda", "#panihati", "#kharadaha", "#saptagrama", "#shantipura", "#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Антья 5 (cb-3083: Саптаграма, Уддхарана; cb-3086: Навадвипа); Мурари 4.22 (mkc-0247)"
+  scriptures: ["Чайтанья-чандродая 2.14", "ЧБ Антья 5", "ЧБ Ади 2.57 (?)"]
+  notes: "Пересказ ЧБ с цитатами. Рамадас — по-видимому, Абхирама."
+  cb: "Антья 5"
+  themes: [kirtan, mercy, pilgrimage]
+  bhava: [balarama]
+  event: ev-nityananda-preaching-gauda
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "146", to: "199"}
+
+- id: brt-4009
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 206–221"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.47
+  title: "Нароттама в Кхардахе: Васудха, Джахнава и Вирабхадра; прозвание «Махашая»"
+  summary: "Входя в Кхардаху, Нароттама видит тайну, которую не высказать: Нитьянанда исполняет его желание; спутники ведут его в дом Господа; Васудха и Джахнава с Вирабхадрой зовут его во внутренние покои, держат несколько дней в беседах о Кришне и говорят: «Прозвание „Махашая“ ему подобает»; при прощании Джахнава тихо что-то говорит ему в слезах; Парамешвари Дас объясняет дорогу, Махеша Пандит и другие провожают."
+  persons: ["@narottama-dasa", "@nityananda", "@vasudha", "@jahnava", "@virabhadra", "@parameshvara-dasa", "@mahesha-pandita"]
+  places: ["#kharadaha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 3 (nvl-0027)"
+  divergence: "Здесь прозвание «Махашая» одобряют Васудха и Джахнава в Кхардахе; в «Нароттама-виласе» 2 и «Према-виласе» 12 звание «Тхакур Махашая» даёт Нароттаме Джива во Вриндаване (ср. БР 4: brt-0112)."
+  themes: [mercy, separation]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "206", to: "221"}
+
+- id: brt-4010
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 222–229"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.48
+  title: "Нароттама в Кханакуле у Абхирамы и Малини"
+  summary: "В Кханакул-Кришнанагаре Нароттама кланяется Абхираме Тхакуру, утратившему внешнее сознание от разлуки с Нитьянандой; он и Малини являют ему милость и велят скорее идти в Нилачалу; Нароттама видит служение Гопинатхе, встречается с преданными тех краёв и спешит в Нилачалу."
+  persons: ["@narottama-dasa", "@abhirama", "@malini-abhirama", "@gopinatha-khanakul", "@nityananda"]
+  places: ["#khanakul"]
+  kind: post-advent
+  authority: B
+  notes: "В «Нароттама-виласе» 3–4 посещение Кханакула не описано."
+  themes: [separation, deities]
+  event: ev-narottama-gauda-pilgrimage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "222", to: "229"}
+
+- id: brt-4011
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 230–264"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.81
+  title: "Нароттама в Пури: встреча у Симха-двары с Гопинатхой Ачарьей и спутниками; даршан Джаганнатхи"
+  summary: "Гопинатха Ачарья, которому Господь заранее велел утешить Нароттаму, с Канаи Кхутией и Шикхи Махити ждёт его; по пути к храму через Симха-двару они говорят о том, как Господь звал его в Рамакели; Нароттама узнаёт исхудавших от разлуки спутников и падает им в ноги, все обнимают его; он созерцает Джаганнатху, Баладеву, Субхадру и Сударшану и не может сдержать бхаву; служитель даёт гирлянду-прасад; Гопинатха Ачарья ведёт его к себе и даёт ему в провожатые брахмана Джаганнатху, чтобы свести со всеми спутниками."
+  persons: ["@narottama-dasa", "@gopinatha-acharya", "@kanai-khutiya", "@shikhi-mahiti", "@jagannatha-deity", "@balarama", "@subhadra", "@jagannatha-brahmana-puri", "@mahaprabhu"]
+  places: ["#puri"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 4 (nvl-0029)"
+  divergence: "В «Нароттама-виласе» провожатого — сына — даёт Нароттаме старый брахман-вайшнав, встреченный на дороге (nvl-0028); здесь брахмана Джаганнатху даёт Гопинатха Ачарья."
+  themes: [jagannatha, separation]
+  event: ev-narottama-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "230", to: "264"}
+
+- id: brt-4012
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 265–272"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.82
+  title: "Нароттама у самадхи Харидаса и в Тоте у Гопинатхи; Маму Госвами"
+  summary: "У самадхи Харидаса Тхакура Нароттама поднимает плач; в Тоте, где жил Гададхара Пандит, кланяется Гопинатхе, плача о качествах Гададхары; Маму Госвами обнимает его, говорит, что мечтал его увидеть, и уводит в уединённое место."
+  persons: ["@narottama-dasa", "@haridasa-thakura", "@gadadhara-pandita", "@gopinatha-deity-puri", "@mamu-thakura"]
+  places: ["#puri", "#tota"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 4 (nvl-0029)"
+  themes: [separation, deities]
+  event: ev-narottama-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "265", to: "272"}
+
+- id: brt-4013
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 273–287"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P14
+  order: 50
+  title: "Рассказ Маму Госвами: Гададхара читает «Бхагавату» в Тоте перед Господом и спутниками"
+  summary: "Маму показывает место в саду Тота, где Гададхара, сидя, с переполненным сердцем толковал «Шримад-Бхагаватам», а Гаурахари слушал; называет места Нитьянанды, Адвайты, Сварупы Дамодары, Вакрешвары, Мурари, Гададхары Даса, Мукунды, Нарахари, Рамананды и других во время Ратха-ятры; здесь же Гададхара вёл уединённые беседы с Гададхарой Дасом, Нарахари и Дамодарой."
+  persons: ["@mamu-thakura", "@narottama-dasa", "@gadadhara-pandita", "@mahaprabhu", "@nityananda", "@advaita", "@svarupa-damodara", "@vakreshvara", "@murari-gupta", "@gadadhara-dasa", "@mukunda-datta", "@narahari-sarakara", "@ramananda-raya"]
+  places: ["#tota", "#puri"]
+  kind: lila
+  authority: B
+  notes: "Рассказ Маму Госвами Нароттаме. Мукунда — вероятно, Мукунда Датта; Дамодара (287) — вероятно, Сварупа Дамодара."
+  themes: [learning, krishna-lila]
+  teaching: [scripture]
+  event: ev-gadadhara-reads-bhagavata-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "273", to: "287"}
+
+- id: brt-4014
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 288–318"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P13
+  order: 2.7
+  title: "Рассказ Маму: обеты Гададхары — служение Гопинатхе и кшетра-санньяса; он оставляет их, чтобы идти за Господом; Гададхара — Радха"
+  summary: "Гаурачандра стоит перед Гопинатхой и хвалит Его убранство; служение Гопинатхе и пребывание в Кшетре — два обета Гададхары, принятые, потому что Гаура будет жить в Нилачале; когда Господь уходил в Гауду, Гададхара оставил обет и пошёл следом (цитата ЧЧ: «Где Ты — там и Нилачала»; в Каттаке Господь с любовным гневом отсылает его, Сарвабхаума уводит лишившегося чувств Пандита); шлока «Кадачи» Сварупы Дамодары: Гададхара — Радха в нисхождении Гауры; при возвращении Господа из Вриндавана Гададхара лишился чувств в Тоте от премы."
+  persons: ["@mamu-thakura", "@gadadhara-pandita", "@mahaprabhu", "@gopinatha-deity-puri", "@sarvabhauma", "@svarupa-damodara", "@narahari-sarakara", "@shachi", "@ratnavati"]
+  places: ["#tota", "#puri", "#cuttack"]
+  kind: lila
+  authority: B
+  parallels: "ЧЧ Мадхья 16.130–149 (cc-2104)"
+  scriptures: ["ЧЧ Мадхья 16.130–143", "Кадача Сварупы Дамодары"]
+  notes: "Цитата из ЧЧ по изд. 1912/13 г.: Господь «отпустил» Сарвабхауму (в ЧЧ — «велел»). Отождествление Гададхары с Радхой — как в ГГД (ср. 9.471–478)."
+  cc: "Мадхья 16"
+  themes: [separation, deities]
+  teaching: [associates-tattva]
+  bhava: [radha]
+  event: ev-gadadhara-leaves-kshetra-sannyasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "288", to: "318"}
+
+- id: brt-4015
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 319–349"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P13
+  order: 18
+  title: "Рассказ Маму: Нитьянанда у Гопинатхи и встреча с Гададхарой; рис из Гауды — трапеза Гауры, Нитьянанды и Гададхары"
+  summary: "Придя из Гауды, Нитьянанда созерцает Гопинатху; Гададхара оставляет чтение «Бхагаваты», и оба обнимаются в слезах (цитата ЧБ: Гададхара не смотрит в лицо хулителю Нитьянанды); Нитьянанда приносит Гададхаре ман риса, чтобы тот предложил его Гопинатхе; Гададхара варит рис, зелень из Тоты и кислое блюдо из листьев тамаринда; приходит Гаура: «Разве в этом нет Моей доли?» — делит рис на три части, и Он, Нитьянанда справа и Гададхара слева вкушают вместе."
+  persons: ["@mamu-thakura", "@nityananda", "@gadadhara-pandita", "@mahaprabhu", "@gopinatha-deity-puri"]
+  places: ["#tota", "#puri"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Антья 7 (cb-3100); Мурари 3.18.22–29 (mkc-0191)"
+  scriptures: ["ЧБ Антья 7.116–125"]
+  cb: "Антья 7"
+  themes: [prasada, deities, ecstasy]
+  event: ev-gopinatha-prasada-gadadhara
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "319", to: "349"}
+
+- id: brt-4016
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 350–360"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 10.5
+  title: "Рассказ Маму: сиденье Гададхары, «Бхагавата», пропитанная слезами; сокрытие Господа в храме Тота-Гопинатхи"
+  summary: "Маму показывает ветхое сиденье Гададхары, куда приходил один Гаурахари, и книгу «Бхагаваты», пропитанную слезами при вкушении стихов; здесь Господь что-то тихо сказал Пандиту, и оба плакали; внезапно Он вошёл в храм Гопинатхи и скрылся от взоров, не вернувшись в город; Гададхара лишился чувств, поднялся плач махантов; Господь, любящий Своих преданных, утешил всех."
+  persons: ["@mamu-thakura", "@mahaprabhu", "@gadadhara-pandita", "@gopinatha-deity-puri"]
+  places: ["#tota", "#puri"]
+  kind: lila
+  authority: B
+  parallels: "Джаянанда (jcm-0099: последние дни в Тоте); Лочан Дас, изд. 1983 (lcm-0250: вхождение в Джаганнатху)"
+  divergence: "Здесь Господь скрывается в храме Тота-Гопинатхи; у Лочана Даса (изд. 1983) и в «Адвайта-пракаше» — в Джаганнатхе; у Джаянанды — после раны стопы."
+  notes: "Сокрытие Господа — уход из явленных игр, не смерть; Нарахари следует преданию о Тота-Гопинатхе (сноска 64 перевода)."
+  themes: [departure, separation, deities]
+  event: ev-lord-disappearance
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "350", to: "360"}
+
+- id: brt-4017
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 361–370"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 56.5
+  title: "Рассказ Маму: веление Господа Гададхаре о Шринивасе; Гададхара принимает Шринивасу как сына"
+  summary: "Сокрываясь, Господь велит Гададхаре остаться ещё несколько дней: Шриниваса, услышав в пути о Его сокрытии, решил оставить тело, Господь утешил его, и жизнь его будет спасена милостью Гададхары; через несколько дней Шриниваса, отрок, полный премы, приходит в Тоту и падает к стопам Гададхары, и тот обнимает его с любовью отца и матери."
+  persons: ["@mamu-thakura", "@mahaprabhu", "@gadadhara-pandita", "@srinivasa-acharya"]
+  places: ["#tota", "#puri"]
+  kind: post-advent
+  authority: B
+  parallels: "БР 3 (brt-0070); «Анурага-валли» 2 (anv-0011); «Према-виласа» 4 (pvl-0019)"
+  notes: "Ср. БР 3: в пути Шриниваса узнаёт о сокрытии Господа и решает оставить тело (ev-srinivasa-hears-disappearance-dream)."
+  themes: [mercy, separation]
+  event: ev-srinivasa-gadadhara-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "361", to: "370"}
+
+- id: brt-4018
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 371–374"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 15.5
+  title: "Рассказ Маму: сокрытие Гададхары Пандита в Тоте"
+  summary: "Отпустив Шринивасу во Вриндаван, Гададхара в смятении сидел в Тоте; день ото дня его нежное тело слабело, он орошал землю слезами и вздыхал, словно языками пламени, — и внезапно сокрылся здесь; Маму остался жив лишь по его воле."
+  persons: ["@mamu-thakura", "@gadadhara-pandita", "@srinivasa-acharya"]
+  places: ["#tota", "#puri"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 4 (pvl-0020), 22 (pvl-0188)"
+  divergence: "В «Према-виласе» 4 Шриниваса, снова идя в Пури, узнаёт об уходе Гададхары в Яджпуре; в «Према-виласе» 22 уходящий Гададхара передаёт служение Гопинатхе Наянананде Мишре. Здесь об этом не сказано."
+  themes: [departure, separation]
+  event: ev-gadadhara-departure
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "371", to: "374"}
+
+- id: brt-4019
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 375–381"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.83
+  title: "Маму Госвами благословляет Нароттаму на проповедь в Гауде и вверяет его Гопинатхе"
+  summary: "Гададхара ещё прежде говорил Маму о Нароттаме; Маму велит ему хранить терпение, передать всё Шринивасе, скорее идти в Гауду и, даруя бхакти, привести живых существ к цели: на нём милость Чайтаньи, он погрузится в санкиртану и явит сокровенные желания Господа; обняв, вверяет его Гопинатхе."
+  persons: ["@mamu-thakura", "@narottama-dasa", "@gadadhara-pandita", "@srinivasa-acharya", "@gopinatha-deity-puri", "@mahaprabhu"]
+  places: ["#tota", "#puri"]
+  kind: prophecy
+  authority: B
+  parallels: "«Нароттама-виласа» 4 (nvl-0029)"
+  themes: [mercy, kirtan]
+  event: ev-narottama-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "375", to: "381"}
+
+- id: brt-4020
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 382–392"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.84
+  title: "Нароттама в доме Каши Мишры: Гопала-гуру показывает ложе и сиденье Господа; Радха-канта"
+  summary: "В доме Каши Мишры Гопала-гуру показывает Нароттаме травяное сиденье, на котором Господь сидел в уединении, и место, где Он отдыхал, а Говинда растирал Ему стопы; Нароттама катается по земле у ложа Господа, оба рыдают; Гопала-гуру показывает места, где Господь погружался в бхаву, рассказывает о деяниях Вакрешвары и вверяет Нароттаму Радха-канте."
+  persons: ["@narottama-dasa", "@gopala-guru", "@kashi-mishra", "@mahaprabhu", "@govinda-servant", "@vakreshvara", "@radhakanta-puri"]
+  places: ["#house-kashi-mishra", "#puri"]
+  kind: post-advent
+  authority: B
+  notes: "В «Нароттама-виласе» 4 Гопала-гуру не упомянут."
+  themes: [separation, deities]
+  event: ev-narottama-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "382", to: "392"}
+
+- id: brt-4021
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 393–409"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 88.85
+  title: "Брахман Джаганнатха показывает Нароттаме места Ратха-ятры, Гундичу и Индрадьюмну; прощание со спутниками в Пури"
+  summary: "Брахман Джаганнатха показывает дорогу колесницы, где Господь танцевал и толкал её головой, место милости Пратапарудре, место, откуда Он смотрел на шествие Лакшми, сад прасада, храм Гундича, уборку которого Он совершал, и Индрадьюмна-саровару; Гопинатха Ачарья и спутники являют Нароттаме милость: «Шринивасу нам больше не увидеть — передай ему вести»; они радуются вестям о Шьямананде, ученике Хридаи Чайтаньи, и поспешно отпускают Нароттаму."
+  persons: ["@narottama-dasa", "@jagannatha-brahmana-puri", "@mahaprabhu", "@prataparudra", "@gopinatha-acharya", "@srinivasa-acharya", "@shyamananda", "@hridaya-chaitanya"]
+  places: ["#puri", "#gundicha", "#indradyumna-sarovara"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 4 (nvl-0029, nvl-0030: прощание)"
+  divergence: "В «Нароттама-виласе» прощание следует за сном о киртане Гауры перед колесницей и гирляндой-позволением от Джаганнатхи; здесь сна нет."
+  cc: "Мадхья 12–14"
+  themes: [jagannatha, separation, pilgrimage]
+  event: ev-narottama-puri
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "393", to: "409"}
+
+- id: brt-4022
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 410–419"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89
+  title: "Нароттама у Шьямананды в Нрисимхапуре"
+  summary: "Шьямананда, спасающий в Уткале безбожников и дарующий према-бхакти, со спутниками выходит навстречу Нароттаме и ведёт его в свою обитель в Нрисимхапуре; дни и ночи они беседуют наедине; Нароттама рассказывает о Шри Кшетре и уходит в Гауду, а Шьямананда спешит в Нилачалу."
+  persons: ["@narottama-dasa", "@shyamananda"]
+  places: ["#nrisimhapura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 4 (nvl-0031)"
+  divergence: "В «Нароттама-виласе» Нароттама приносит Шьямананде письмо Шринивасы и прасад, кормит его прасадом Джаганнатхи и посылает в Нилачалу, являет милость Расике Мурари; здесь кратко."
+  themes: [mercy, pilgrimage]
+  event: ev-narottama-shyamananda-nrisimhapura
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "410", to: "419"}
+
+- id: brt-4023
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 420–433"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89.21
+  title: "Нароттама в Шрикханде у Нарахари Саркара и Рагхунанданы"
+  summary: "Нарахари Саркар вспоминает, что встречал в Гауде отца Нароттамы, правителя Кришнананду Рая, и предрекает, что Господь совершит через Нароттаму многое; обнимает его, расспрашивает о жителях Кшетры и благословляет: «Будешь долголетен и будешь проповедовать бхакти»; Рагхунандана ведёт его во двор Махапрабху к Божеству Гаурачандры и отправляет в Яджиграм."
+  persons: ["@narottama-dasa", "@narahari-sarakara", "@krishnananda-datta", "@raghunandana", "@gaura-deity-shrikhanda"]
+  places: ["#shrikhanda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 5 (nvl-0032)"
+  divergence: "В «Нароттама-виласе» Нарахари предрекает, что Господь явит Себя в пении Нароттамы, и прощается: «Больше я тебя не увижу»."
+  themes: [mercy, separation]
+  event: ev-narottama-shrikhanda-yajigrama-katwa
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "420", to: "433"}
+
+- id: brt-4024
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 434–444"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89.22
+  title: "Нароттама у Шринивасы в Яджиграме; Шриниваса посылает его в Кхетури учредить служение Божеству"
+  summary: "Шриниваса с учениками встречает Нароттаму за порогом, обнимает, не дав поклониться, и знакомит со всеми; наедине тот рассказывает о Навадвипе и Нилачале, оба плачут; Шриниваса велит без промедления идти в Кхетури: «Скоро откроется зачем — ты устроишь служение Божеству; со всеми я скоро приду туда», и даёт провожатых."
+  persons: ["@narottama-dasa", "@srinivasa-acharya"]
+  places: ["#yajigrama", "#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 5 (nvl-0033)"
+  divergence: "В «Нароттама-виласе» в Яджиграм приходит брахман из Кшетры с вестью о сокрытии почти всех спутников в Пури; в БР такая весть приходит позже (9.40–48, brt-4035)."
+  themes: [separation, deities]
+  event: ev-narottama-shrikhanda-yajigrama-katwa
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "434", to: "444"}
+
+- id: brt-4025
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 445–458"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89.23
+  title: "Нароттама в Кантака-нагаре (Катве): Дас Гададхара, Божество Гаурачандры, место санньясы"
+  summary: "Дас Гададхара, даже в жестоком горе обрадованный, обнимает Нароттаму, расспрашивает и, вверив стопам Гаурачандры, отпускает в Кхетури; у Горачанда и на месте, где Махапрабху принял санньясу, Нароттама лишается чувств и плачет, не принимая утешений; встречается со спутниками Господа и уходит через Рарх."
+  persons: ["@narottama-dasa", "@gadadhara-dasa", "@gauranga-katwa", "@mahaprabhu"]
+  places: ["#katwa", "#radha-desha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 5 (nvl-0034)"
+  divergence: "В «Нароттама-виласе» Нароттаму встречает и ведёт к Дасу Гададхаре Ядунандана Чакраварти, а Дас Гададхара предсказывает, что Господь будет плясать в его киртане; здесь Ядунандана не назван."
+  themes: [sannyasa, separation, deities]
+  event: ev-narottama-shrikhanda-yajigrama-katwa
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "445", to: "458"}
+
+- id: brt-4026
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 459–466"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89.3
+  title: "Экачакра: Нитьянанда в облике старого брахмана показывает Нароттаме места Своих игр и являет Себя"
+  summary: "При входе в Экачакру, место рождения Нитьянанды, Господь является Нароттаме старым брахманом и показывает все места игр со спутниками; обмануть Нароттаму Он не может и являет Себя воочию — Нитьянандой-Баларамой; Нароттама лишается чувств, Господь запрещает открывать это другим; Нароттама обходит Экачакру и кланяется её жителям."
+  persons: ["@narottama-dasa", "@nityananda"]
+  places: ["#ekachakra"]
+  kind: vision
+  authority: B
+  parallels: "«Нароттама-виласа» 5 (nvl-0035)"
+  themes: [revelation, pilgrimage]
+  bhava: [balarama]
+  event: ev-nityananda-shows-ekachakra
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "459", to: "466"}
+
+- id: brt-4027
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 467–486"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89.4
+  title: "Возвращение Нароттамы в Кхетури: сомнения жителей и голос с неба"
+  summary: "Переправившись через Падмавати, Нароттама подходит к Кхетури; жители выходят навстречу и спорят, останется ли отрёкшийся в своём прежнем царстве, где столько безбожников; голос с неба возвещает: «Здесь Нароттама будет пребывать в радости и спасать безбожников, даруя бхакти»; его ведут в уединённое место; столица — Гопалпур, богатые жители погружены в ложное счастье; Нароттама являет им милость и с Сантошей Раем и другими рассказывает о Шринивасе."
+  persons: ["@narottama-dasa", "@santosha-datta", "@srinivasa-acharya"]
+  places: ["#padmavati", "#kheturi", "#gopalapura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 5–6 (nvl-0035–0036); «Према-виласа» 13 (pvl-0088)"
+  divergence: "В «Према-виласе» Нароттама возвращается в Кхетури из Вриндавана прямо, по слову Шринивасы, ещё до паломничества в Пури; голос с неба — только здесь."
+  themes: [celestial, mercy]
+  event: ev-narottama-returns-kheturi
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "467", to: "486"}
+
+- id: brt-4028
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 487–505"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89.5
+  title: "Женитьба Шринивасы на Драупади (Ишвари), дочери Гопалы Чакраварти; Гопала и его сыновья — ученики"
+  summary: "После ухода Нароттамы Рагхунандана приходит в Яджиграм и устраивает свадьбу: Гопала Чакраварти (Гопала Дас) рад отдать дочь Шринивасе; в 3-й день тёмной половины вайшакхи свадьба; дочь, прежде Драупади, во время свадьбы получает имя Ишвари и посвящение от Ачарьи; Гопала и его сыновья Шьямадас и Рамачандра (Шьямананда и Рамачаран) становятся учениками Ачарьи; Нарахари Саркар и Дас Гададхара радуются."
+  persons: ["@srinivasa-acharya", "@raghunandana", "@gopala-chakravarti-yajigrama", "@draupadi-ishvari", "@shyamadasa-chakravarti", "@ramacharana-chakravarti", "@narahari-sarakara", "@gadadhara-dasa"]
+  places: ["#yajigrama", "#shrikhanda", "#katwa"]
+  kind: post-advent
+  authority: B
+  calendar: "вайшакха, 3-й день тёмной половины"
+  parallels: "«Анурага-валли» 6 (anv-0040); «Према-виласа» 16–17 (pvl-0114, pvl-0121); «Нароттама-виласа» 6 (nvl-0038)"
+  divergence: "В «Анурага-валли» и «Нароттама-виласе» женитьбы требует Нарахари Саркар, здесь её устраивает Рагхунандана; в «Према-виласе» две женитьбы (дочь Гопалы Даса и Падмавати, дочь Рагху Чакраварти) и весть приносит Гопале Бхатте Чайтанья Дас Аулия; там же — месяц пхалгуна."
+  themes: [family]
+  event: ev-srinivasa-marriage
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "487", to: "505"}
+
+- id: brt-4029
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 506–518"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 90.5
+  title: "Шридас и Гокулананда, сыновья Харидаса Ачарьи, приходят к Шринивасе"
+  summary: "Шриниваса преподаёт книги Госвами, и слава его учёности растёт; Шридас и Гокулананда, сыновья брахмана Харидаса, ушедшего в разлуке с Господом во Вриндаван и велевшего им стать учениками Ачарьи, приходят в Яджиграм и просят мантру; Ачарья велит немного подождать и начать изучение книг Госвами."
+  persons: ["@srinivasa-acharya", "@shridasa-chakravarti", "@gokulananda", "@dvija-haridasa"]
+  places: ["#yajigrama", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "БР 1 (brt-0026); «Нароттама-виласа» 6 (nvl-0038)"
+  divergence: "В «Нароттама-виласе» оба становятся учениками Шринивасы в Канчанагадии; здесь — приходят в Яджиграм, посвящение отложено."
+  themes: [learning, family]
+  event: ev-gokulananda-shridasa-disciples
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "506", to: "518"}
+
+- id: brt-4030
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 519–555"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: P15
+  order: 89
+  title: "Рамачандра Кавираджа проезжает в свадебных носилках мимо Шринивасы и становится его учеником — «второй глаз»"
+  summary: "Сидя у пруда к западу от дома, Шриниваса видит в носилках прекрасного новобрачного и думает: «Это тело обретёт смысл, если он будет служить Кришне»; ему говорят: это Рамачандра, кави-нрипати, врач из вайдьев из Кумара-нагара; Рамачандра слышит, проводит ночь у брахмана в Яджиграме и на рассвете падает к стопам Ачарьи; тот обнимает его: «Ты мой друг из рождения в рождение; ты и Нароттама — два моих глаза, две руки»; угадывает его невысказанное желание, велит читать книги Госвами и даёт мантру Радхи и Кришны; автор ссылается на книгу Кавираджи Карнапуры."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@narottama-dasa"]
+  places: ["#yajigrama", "#kumaranagara"]
+  kind: post-advent
+  authority: B
+  parallels: "«Карнананда» 1 (krn-0005); «Анурага-валли» 6 (anv-0039); «Према-виласа» 13–14 (pvl-0094, pvl-0096)"
+  divergence: "Как в «Карнананде» (носилки после свадьбы, пруд к западу от дома). В «Према-виласе» Рамачандра сам ищет Шринивасу из Телия Будхари, спорит с Вьясой и Шринивасой и лишь затем посвящён."
+  notes: "Кавираджа Карнапура (554) — по-видимому, ученик Шринивасы, не Кави Карнапура; его книга не установлена."
+  themes: [mercy, learning]
+  event: ev-ramachandra-kaviraja-meets-srinivasa
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "519", to: "555"}
+
+- id: brt-4031
+  source: bhakti-ratnakara
+  ref: "Таранга 8, 556 и колофон"
+  file: "bhakti-ratnakara/ru/08.md"
+  period: PX
+  order: 38.1
+  title: "Подпись автора и колофон восьмой волны"
+  summary: "Нарахари Дас, размышляя о стопах Шринивасы Ачарьи, рассказывает «Бхакти-ратнакару»; колофон: «Описание того, как Шри Нароттама получил даршан Шри Навадвипы, Нилачалы и других мест»."
+  persons: ["@narahari-chakravarti", "@srinivasa-acharya"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/08.md", from: "556", to: "556"}
