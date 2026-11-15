@@ -67,19 +67,14 @@ Purushottama. <!-- F107 F12 -->
 Coming before Mahaprabhu, he prostrated himself, embraced His feet and recited a verse — a prayer for Sri
 Chaitanya's mercy:
 
-“O ocean of mercy, Sri Chaitanya! The manifestation of Your compassion easily frees the heart from the dust of
-mental agitation, and so the heart is very quickly cleansed of all impurity. Then, in the purified heart, the
-rapturous birth of the highest devotion to Sri Krishna takes place. <…> O boundless kindness, Sri Chaitanya! When
-will Your all-auspicious mercy touch me?” (CC, Madhya 10.119; “Chaitanya-chandrodaya,” 8.10) <!-- F13 Q2 -->
+“O Sri Chaitanya, ocean of mercy! Your mercy blows away all sorrow as easily as dust. It is pure; in it the highest bliss blossoms, and before it all quarrels over scripture fall silent. It bestows rasa and fills the heart with divine madness; it ever draws one to devotion, it intoxicates with rapture, and in it lies the very limit of sweetness. May that all-auspicious mercy rise upon me!” (CC, Madhya 10.119; “Chaitanya-chandrodaya,” 8.10) <!-- F13 Q2 -->
 
 Gaurasundara raised His eternal “second self” from the ground and embraced him, and at that touch both fell
 unconscious in loving rapture. Coming to Himself, the Lord said, “Today I saw in a dream that you would come. It is
 good that you have come: I was as if blind, and with you I have regained My sight.” Svarupa answered with
 repentance:
 
-“Prabhu! Forgive me my offense. I went away and left You, and that was a great mistake. There is not a trace of
-love for Your lotus feet in me. Were it otherwise, how could I have gone away? I am sinful and have no excuse. I
-left You, but You did not forget me. With the rope of Your mercy You pulled me by the neck back to Your feet.” (CC,
+“My Lord, forgive my offence. I left You and went elsewhere, and that was a grave mistake. I have not a trace of love for Your feet; sinner that I am, I left You and went off to another land. I left You, but You did not leave me: You bound me by the neck with the rope of Your mercy and brought me back to Your feet.” (CC,
 Madhya 10.123–125)
 
 The Lord embraced him again and said, “Krishna is merciful: by His mercy we have met again.” <!-- F14 F15 F16 F109 -->
@@ -164,8 +159,7 @@ The Lord danced to his singing, and Svarupa understood His every sign and sang f
 heart. The Lord was especially delighted by the song with the refrain “sei ta parana-natha painu / jaha lagi
 madana-dahane jhuri genu”:
 
-“At last I have found again the Lord of My life! In separation from Him I pined with grief, burning from the arrows
-of love.” (CC, Madhya 13.113)
+“I have found that very Lord of My life for whom I was wasting away, burning in the fire of Madana (love).” (CC, Madhya 13.113)
 
 This song of meeting the Beloved after long separation, says Bhaktivinoda Thakura, came of itself to Svarupa's lips
 when at the end of the dance the Lord was absorbed in Radha's mood at Kurukshetra. For the Lord the temple of
@@ -250,8 +244,7 @@ the sea, read it and was overwhelmed with ecstasy; when Rupa returned and prostr
 Then the Lord showed the verse to Svarupa and, as if not knowing the answer, asked how Rupa had entered into His
 thoughts. Svarupa replied:
 
-“As I understand it, You are especially favorable to him. No one could grasp this secret meaning. I think You have
-fully endowed him with Your causeless mercy.” (CC, Antya 1.86–87)
+“I know: You Yourself have shown him mercy. Otherwise no one could know this meaning. I infer that You showed him mercy earlier.” (CC, Antya 1.86–87)
 
 And he added that the moment he saw the verse he understood it was anointed with the Lord's special mercy, for the
 cause is known by its effect. <!-- F46 -->
@@ -273,11 +266,7 @@ a cowherd boy, though his father, Shatananda Khan, was a worldly man. He was Sva
 younger brother, Gopala Bhattacharya, had studied Vedanta in Kashi, and Bhagavan Acharya suggested that Svarupa
 hear Shankara's “Shariraka-bhashya” from him. Svarupa answered with loving anger:
 
-“In Gopala's company you have lost your reason. Forgetting the highest goal of life, you wish to hear the deceptive
-philosophy of Mayavada. Any Vaishnava who decides to study Shankaracharya's Mayavada commentary gradually breaks off
-his relationship with God, founded on the feeling of servant and Master, and begins to think himself the Supreme.
-Hearing Shankara's Mayavada commentary defiles the heart even of the greatest Vaishnava, for whom Krishna is dearer
-than life itself, and as a result he will surely change all his convictions.” (CC, Antya 2.94–96) <!-- F48 F49 Q10 -->
+“Your intelligence has been spoiled in Gopala's company, and you have taken a fancy to hearing Mayavada. A Vaishnava who listens to the *Shariraka-bhashya* gives up the relationship of servant and served and considers himself the Lord. Even a *maha-bhagavata*, whose life's treasure is Krishna, will surely have his heart turned by hearing Mayavada.” (CC, Antya 2.94–96) <!-- F48 F49 Q10 -->
 
 Bhagavan Acharya objected that a heart given to Krishna will not be shaken by any commentary. But Svarupa replied
 that one would still have to hear that Brahman is only impersonal spirit, the world a false illusion, the soul a
@@ -320,14 +309,7 @@ to life[^6]. <!-- F56 Q12 -->
 
 All the listeners were pleased; only Svarupa grew sad and said angrily:
 
-“Fool! You have brought upon yourself a curse that will utterly ruin you. You have faith neither in Lord Jagannatha
-nor in Sri Chaitanya Mahaprabhu. Lord Sri Jagannatha is wholly spiritual and full of supreme bliss. Yet in your
-poetry you have presented Him as a lifeless, perishable body made of the Lord's external energy (prakriti). And Sri
-Chaitanya is the Supreme Himself, endowed with all six divine opulences. He is like the original supreme fire. But
-you have described Him as a mere spark — one of the multitude of ordinary souls. By offending Them both you have
-condemned yourself to hell! <…> In your verse you make a distinction between the body and the soul of God. And that is
-a grave offense! The soul and the body of God are one truth! There is no difference between them. Both His person and
-His body are the direct manifestation of the spiritual bliss of the Supreme Lord.” (CC, Antya 5.117–122)
+“O fool, you have brought about your own utter ruin! You have no faith in either of the two Lords! Lord Jagannatha is full of bliss, a form of pure spirit, yet you have made Him out to be an inert, perishable, material body! Chaitanya, full in all six opulences, is Svayam Bhagavan, the Supreme Lord Himself, yet you have made Him out to be a tiny jiva, like a spark! For this offence against both you will meet a dire fate! <…> By distinguishing between body and embodied in the Lord, you have committed an offence! In the Lord there is never any difference between body and embodied. His own form (*svarupa*) and His body are both spirit and bliss; there is no difference between them.” (CC, Antya 5.117–122)
 
 Where is Krishna, the fullness of bliss and of all six opulences — and where the tiny soul, suffering in the service
 of maya! <!-- F57 Q13 -->
@@ -335,11 +317,7 @@ of maya! <!-- F57 Q13 -->
 The assembly was struck dumb. The poet stood ashamed, frightened and astonished, like a heron among swans. Seeing
 his distress, Svarupa softened and instructed him:
 
-“Go and hear the message of the ‘Srimad-Bhagavatam’ from a true Vaishnava. You can do this only if you give yourself
-wholly to the feet of Sri Chaitanya Mahaprabhu. Try to associate every day with Sri Chaitanya's devotees. Thus you
-will be able to feel and understand the waves of the ocean of the highest truths of devotion to God. Only then will
-your learning bear the fruits of true wisdom. Then you will soon be able to describe Krishna's divine pastimes without
-any inventions or fancies of your own.” (CC, Antya 5.131–133) <!-- F58 Q14 -->
+“Go and study the *Bhagavata* under a Vaishnava, and take exclusive shelter at the feet of Chaitanya. Always keep the company of Chaitanya's devotees; then you will come to know the waves of the ocean of *siddhanta*. Then your learning will bear fruit, and you will describe Krishna's true nature and pastimes purely, without fault.” (CC, Antya 5.131–133) <!-- F58 Q14 -->
 
 And then he showed how pure Sarasvati serves Gaura-Krishna even through the words of a fool or an enemy: thus she
 interprets as praise both Indra's reproaches and the abuse of Jarasandha and Shishupala. And Svarupa gave the poet's
@@ -362,8 +340,7 @@ good. <!-- F60 I2 -->
 When Raghunatha Dasa, having finally left his worldly father and uncle, came to Nilachala, the Lord, touched by his
 zeal, entrusted him to Svarupa:
 
-“I give Raghunatha Dasa wholly into your care. Please accept him as your son or servant. From now on there are three
-Raghunathas in My circle. So let this Raghunatha be known as Svarupa Damodara's Raghu.” (CC, Antya 6.202–203)
+“I entrust this Raghunatha to you. Accept him as your son and your servant. There are three named Raghunatha with Me; from today this one shall be called ‘Svarupa's Raghu’.” (CC, Antya 6.202–203)
 
 Saying this, the Lord took Raghunatha by the hand and placed his hand in Svarupa's. From then on he was called just
 that — “Svarupa's Raghu.” <!-- F61 Q16 F126 -->
@@ -390,7 +367,7 @@ At night Raghunatha would gather the rotten rice mahaprasada that the merchants 
 cows — not even the Tailanga cows would eat it — wash it and eat it as Krishna's spiritual remnants. Once Svarupa
 took a little and ate:
 
-“Every day you relish this nectar, yet you never even offer it to us! How can you behave like this?” (CC, Antya 6.320)
+“Every day you eat such nectar and never give any to us! What sort of behaviour is that?” (CC, Antya 6.320)
 
 Hearing of it from Govinda, the Lord came Himself and ate a handful: “What delicious treats you eat! But why don't
 you share them with Me?” When He took a second handful, Svarupa caught His hand and snatched the rice away: “It is
@@ -416,15 +393,7 @@ the Lord's pastimes — passed into his mouth (CC, Madhya 2.84; see below, on th
 When Vallabha Bhatta came to Nilachala and began to glorify the Lord, the Lord, concealing Himself, began to praise
 His devotees, and of Svarupa He said:
 
-“In Svarupa Damodara all the rasas of divine love for Krishna are embodied. Through association with him I was able to
-understand madhura-rasa — the sweetness of the transcendental relationships of the lovers in Vrindavana. Unmixed and
-pure is the love of the cowherd girls of Vrindavana, the gopis. In it there is not a trace of worldly lust. The only
-aim of such love is to give happiness to Krishna. <…> The love of the cowherd girls of Vrindavana surpasses all kinds
-of devotion to God. In it the highest peak of service to Krishna is revealed. And Krishna Himself admits this when He
-calls Himself their eternal debtor. <…> Pure, unmixed love for Krishna is far higher than the love that arises from
-understanding His majesty and power. In the whole world there is no devotee better than Uddhava. Yet Uddhava himself
-longs to sprinkle his head with the dust of the feet of these cowherd girls of Vraja. All these truths I learned from
-Svarupa Damodara.” (CC, Antya 7.38–39, 42, 44–45) <!-- F69 Q19 -->
+“Damodara Svarupa is the rasa of prema embodied. In his company I came to know the sweet rasa (*madhura-rasa*) of Vraja. The pure prema of the goddesses of Vraja is without even a trace of lust (*kama*). Its sign is this: its only aim is Krishna's happiness. <…> This worship is the highest of all, surpassing every form of bhakti. Therefore Krishna says, ‘I am your debtor.’ <…> Pure *bhava* is superior to the knowledge of majesty. On earth there is no devotee equal to Uddhava, yet he prays for the dust of their feet. All this I learned in the company of Svarupa.” (CC, Antya 7.38–39, 42, 44–45) <!-- F69 Q19 -->
 
 Elsewhere Krishnadasa Kaviraja says that the Lord relished parental love with Paramananda Puri, friendship with
 Ramananda, service with Govinda and others, and the chief, conjugal rasa with Gadadhara, Jagadananda and Svarupa, and
@@ -579,17 +548,14 @@ Raghunatha,” became the foundation of the bhajana of the Svarupa-Rupanuga samp
 
 Krishnadasa Kaviraja tells what he relied on in describing these pastimes:
 
-“Svarupa Damodara and Raghunatha Dasa Gosvami described these pastimes of Sri Chaitanya in their diaries. In those days
-only these two lived beside Sri Chaitanya, while all the other biographers were elsewhere. <…> Svarupa Damodara
-usually kept his notes brief, while Raghunatha Dasa Gosvami recorded the Lord's deeds in detail.” (CC, Antya 14.7–8,
+“These pastimes are revealed in the diaries (*kadacha*) of these two, Svarupa Gosani and Raghunatha Dasa. At that time these two lived at Mahaprabhu's side, while all the other diarists lived in distant places. <…> Svarupa is the author of the sutras, and Raghunatha the author of their explanation (*vritti*).” (CC, Antya 14.7–8,
 10)
 
 They recorded the Lord's experiences moment by moment: Svarupa as the composer of the sutras, Raghunatha as their
 commentator, and Kaviraja unfolded their details in his book like a detailed commentary. <!-- F91 Q26 -->
 
 Murari's notes have survived, but Svarupa's kadcha the Vaishnavas heard only from the lips of Raghunatha Dasa.
-Krishnadasa Kaviraja writes: “The pastimes of Sri Chaitanya are like the most beautiful jewels. Svarupa Damodara keeps
-them in the treasury of his heart. He bestowed this knowledge on Raghunatha Dasa, and he retold it to me” (CC, Madhya
+Krishnadasa Kaviraja writes: “Svarupa held in his treasury the jewel-like essence of Chaitanya's pastimes, and he placed it in Raghunatha's throat” (CC, Madhya
 2.84). Srila Bhaktivinoda Thakura explains that Svarupa's kadcha consists of brief Sanskrit verses on the Lord's final
 pastimes, which Raghunatha learned by heart; it has never been published as a book, and its essence entered the
 “Chaitanya-charitamrita.” In the kadcha Svarupa also recorded the Lord's conversations with Ramananda, and from these
