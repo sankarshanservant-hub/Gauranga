@@ -3054,6 +3054,364 @@
   "note": "Праздник чида-дадхи в Панихати (ЧЧ Антья 6) — только по lila-db."
  },
  {
+  "from": "@gadadhara-dasa",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F5",
+   "F7",
+   "F12",
+   "F13",
+   "F14",
+   "F15",
+   "F49"
+  ],
+  "events": [
+   "ev-gauda-journey-ganga-villages",
+   "ev-nagari-bhava-padas",
+   "ev-gaura-dance-with-devotees",
+   "ev-navadvipa-radha-bhava-gadadhara",
+   "ev-gaura-morning-navadvipa",
+   "ev-shantipura-reunion"
+  ],
+  "note": "Преданный Чайтаньи (ЧЧ Ади 11.13); в Панихати Господь возложил стопы ему на голову (ЧБ Антья 5.92–94); сияние (дйути) Гауры, наделённого бхавой и сиянием Радхи («Анубхашья» к Ади 10.53). T 84 «первая встреча» — не принимать (⚠3)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F5",
+   "F16",
+   "F17",
+   "F18",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F34",
+   "F37",
+   "Q2"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda",
+   "ev-nityananda-preaching-gauda",
+   "ev-dana-khanda-gadadhara-dasa",
+   "ev-gadadhara-dasa-kazi-hari",
+   "ev-panihati-chida-dadhi",
+   "ev-nityananda-marriage"
+  ],
+  "note": "Послан с Ним в Гауду (ЧЧ Ади 11.13–14; Мадхья 15.43); Нитьянанда гостил в его доме, Дана-кели (Ади 11.17; ЧБ Антья 5.371–394); «Нитьянанда пребывал в его теле» (ЧБ 5.412). = @nityananda F262–F263, F267, F287, F294–F296, F407–F408."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "co-worker",
+  "who": "@abhirama",
+  "facts": [
+   "F5",
+   "F12",
+   "F16"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda"
+  ],
+  "note": "Рамадас — вместе посланы с Нитьянандой; оба в двух группах (ЧЧ Ади 11.13–15)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "co-worker",
+  "who": "@raghunatha-vaidya-upadhyaya",
+  "facts": [
+   "F13",
+   "F16"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda"
+  ]
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "co-worker",
+  "who": "@parameshvara-dasa",
+  "facts": [
+   "F13",
+   "F16"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda"
+  ]
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "co-worker",
+  "who": "@purandara-pandita",
+  "facts": [
+   "F13",
+   "F16",
+   "F26"
+  ],
+  "events": [
+   "ev-nityananda-sent-to-gauda",
+   "ev-nityananda-preaching-gauda"
+  ]
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@madhava-ghosha",
+  "facts": [
+   "F22",
+   "F23"
+  ],
+  "events": [
+   "ev-dana-khanda-gadadhara-dasa"
+  ],
+  "note": "Мадхавананда Гхош пел дана-кханду в его храме (ЧБ Антья 5.378–380; ЧЧ Ади 11.17–18)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "deity-served",
+  "who": "@bala-gopala-gadadhara-dasa",
+  "facts": [
+   "F21"
+  ],
+  "events": [
+   "ev-dana-khanda-gadadhara-dasa"
+  ],
+  "note": "Божество его храма; Нитьянанда прижал Его к груди (ЧБ Антья 5.374–377); M (по Бхактиведанте Свами) — установлено в Эндиядахе."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "deity-served",
+  "who": "@gaura-deity-katwa",
+  "facts": [
+   "F11",
+   "F40"
+  ],
+  "events": [
+   "ev-narottama-shrikhanda-yajigrama-katwa"
+  ],
+  "note": "Установил в Катве после ухода Шачи и Вишнуприи («Гаудия-вайшнава-абхидхана» по B 815, T 84); «Гаурачанда — жизнь Даса Гададхары» (БР 8.453)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@raghava-pandita",
+  "facts": [
+   "F13"
+  ],
+  "events": [
+   "ev-gauda-journey-ganga-villages"
+  ],
+  "note": "В его доме в Панихати — милость Господа (ЧБ Антья 5.92–94)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@raghunatha-dasa",
+  "facts": [
+   "F37"
+  ],
+  "events": [
+   "ev-panihati-chida-dadhi"
+  ],
+  "note": "Был на его празднике чида-дадхи (ЧЧ Антья 6.61)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@shachi",
+  "facts": [
+   "F11"
+  ],
+  "note": "По «Абхидхане» — заботился о ней в Навадвипе (B 815; T 84). = @shachi F52."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@vishnupriya",
+  "facts": [
+   "F11",
+   "F52",
+   "F53"
+  ],
+  "events": [
+   "ev-vishnupriya-austerity",
+   "ev-gadadhara-riddle-gadadhara-dasa"
+  ],
+  "note": "Заботился о ней; после её ухода — Катва (B 815; T 84; = @vishnupriya F103, F106); по «Анурагавалли» по её слову простил Шринивасу."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "disciple",
+  "who": "@yadunandana-chakravarti",
+  "facts": [
+   "F38",
+   "F54"
+  ],
+  "events": [
+   "ev-katwa-khanda-memorial-festivals",
+   "ev-narottama-shrikhanda-yajigrama-katwa"
+  ],
+  "note": "Ученик из Катвы (B 817; B 135; T 85 — БР 9.332; M 24); устроил поминальный праздник («Према-виласа» 19)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F39",
+   "F43",
+   "F44",
+   "F53"
+  ],
+  "events": [
+   "ev-gadadhara-riddle-gadadhara-dasa",
+   "ev-gadadhara-dasa-scorching-breath",
+   "ev-katwa-khanda-memorial-festivals",
+   "ev-srinivasa-second-vrindavana"
+  ],
+  "note": "Благословил его в Навадвипе и Катве, обрадовался его женитьбе; Шриниваса провёл праздник по нему в Катве. = @srinivasa-acharya F43, F81, F85, F91, F99, F100, Q20."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "met",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F40",
+   "F54"
+  ],
+  "events": [
+   "ev-narottama-shrikhanda-yajigrama-katwa"
+  ],
+  "note": "В Навадвипе (B 1099) и в Катве (M 110; БР 8.453; «Нароттама-виласа» 5)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "met",
+  "who": "@shyamananda",
+  "facts": [
+   "F41"
+  ],
+  "note": "Останавливался у него в Кантаканагаре (M 214)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@narahari-sarakara",
+  "facts": [
+   "F39",
+   "F43",
+   "F44"
+  ],
+  "events": [
+   "ev-gadadhara-dasa-narahari-departure"
+  ],
+  "note": "Вместе обрадовались женитьбе Шринивасы (B 670); Нарахари скрылся вслед за ним («Према-виласа» 19)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@kamalakara-pippalai",
+  "facts": [
+   "F42"
+  ],
+  "note": "Был на празднике в Катве (B 931; T 94; ⚠7)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F42",
+   "F44"
+  ],
+  "events": [
+   "ev-katwa-khanda-memorial-festivals"
+  ],
+  "note": "T 72 — участвовал в празднике Гададхары Даса в Катве."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@keshava-bharati",
+  "facts": [
+   "F45"
+  ],
+  "note": "Самадхи Гададхары Даса — рядом с самадхи Кешавы Бхарати в Катве."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F4",
+   "F47",
+   "F48",
+   "F53"
+  ],
+  "events": [
+   "ev-srinivasa-gadadhara-puri",
+   "ev-gadadhara-riddle-gadadhara-dasa"
+  ],
+  "note": "Тёзка, не путать; Пандит — облик Радхи, Дас — сияние Её тела; B 141 — не противопоставлять (= @gadadhara-pandita F101–F102); по «Анурагавалли» — загадка Пандита тёзке."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@chand-kazi",
+  "facts": [
+   "F35"
+  ],
+  "note": "B 137: как Господь — Чанд Кази, так он — кази Ариядахи."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@jiva-gosvami",
+  "facts": [
+   "F36"
+  ],
+  "note": "B 138: оскорбление «наставлять неверующего» по Дживе — он его не допустил. = @jiva-gosvami F85."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F5"
+  ],
+  "note": "B 188: как он и Абхирама, так и Мадхава с Васудевой Гхошами — в обеих группах."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F4",
+   "F24",
+   "F25",
+   "F47"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.53 (сияние Радхи), «Гаудия-бхашья» к ЧБ Антья 5.238, 5.381 (не надевал одежд сакхи; против «сакхи-бхеки»)."
+ },
+ {
+  "from": "@gadadhara-dasa",
+  "type": "other",
+  "who": "@bhaktivedanta-svami",
+  "facts": [
+   "F3",
+   "F9",
+   "F10",
+   "F17",
+   "F21",
+   "F22",
+   "F45",
+   "F46"
+  ],
+  "note": "M 24–25 цитирует его комментарий к ЧЧ (Эндиядаха, гробница, Маллики) — современный комментарий."
+ },
+ {
   "from": "@gadadhara-pandita",
   "type": "father",
   "who": "@madhava-mishra",

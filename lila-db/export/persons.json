@@ -4214,6 +4214,10 @@
     "type": "companion"
    },
    {
+    "from": "@gadadhara-dasa",
+    "type": "companion"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "companion"
    },
@@ -6762,7 +6766,13 @@
   "note": "установил Гададхара Дас после ухода Шачи и Вишнуприи; храм «Махапрабху-бари» на месте санньясы (B 815, T 84, БР 8.453)",
   "section": "Господь и Его формы",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "deity-served"
+   }
+  ]
  },
  {
   "id": "@bala-gopala-gadadhara-dasa",
@@ -6771,7 +6781,13 @@
   "note": "в его храме (Ариядаха); Нитьянанда прижал Его к груди (ЧБ Антья 5.374–377)",
   "section": "Господь и Его формы",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "deity-served"
+   }
+  ]
  },
  {
   "id": "@shachi",
@@ -7736,6 +7752,10 @@
    },
    {
     "from": "@damodara-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "other"
    },
    {
@@ -8987,6 +9007,10 @@
    {
     "from": "@damodara-pandita",
     "type": "met"
+   },
+   {
+    "from": "@gadadhara-dasa",
+    "type": "other"
    },
    {
     "from": "@gauridasa-pandita",
@@ -10974,6 +10998,10 @@
    },
    {
     "from": "@dhananjaya-pandita",
+    "type": "companion"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "companion"
    },
    {
@@ -13478,6 +13506,10 @@
     "type": "other"
    },
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gauridasa-pandita",
     "type": "other"
    },
@@ -13622,6 +13654,213 @@
    "ev-narottama-shrikhanda-yajigrama-katwa",
    "ev-srinivasa-second-vrindavana",
    "ev-jahnava-kheturi"
+  ],
+  "summary": "в Кришна-лиле — Чандраканти — проявление Радхи (ГГД 154) и др.; происхождение — Ариядаха (Эндиядаха); уход — Гаура-аштами месяца Дамодара — по календарю ШЧСМ; самадхи — Катва (Кантаканагара), Ариядаха (Эндиядаха)",
+  "card": "parshadas/cards/gadadhara-dasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/gadadhara-dasa.md",
+   "en": "parshadas/en/gadadhara-dasa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F8"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Гаура-аштами месяца Дамодара (Гопаштами; 17 ноября 2026 г.) — по календарю ШЧСМ (541/ru, проверено 2026-11-15)",
+    "place": "#katwa",
+    "conf": "по нашему календарю; B 817, T 85 (БР 9.362) и «Према-виласа» 19 — картика кришна-аштами; M 26 — восьмой день светлой половины картики; год никто не называет (⚠8)",
+    "facts": [
+     "F43"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#katwa",
+     "facts": [
+      "F45"
+     ],
+     "note": "«Дом Махапрабху» в Катве, рядом с самадхи Кешавы Бхарати (B 817; T 84–85)."
+    },
+    {
+     "place": "#ariadaha",
+     "facts": [
+      "F45",
+      "F46"
+     ],
+     "note": "M 25 (по Бхактиведанте Свами) — «гробница в Эндиядахе»; B 140 — самадхи в шрипате Эриядахе (по скану названо самадхи «Гададхары Пандита», ⚠9)."
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Чандраканти — проявление (вибхути) Радхи; сияние (канти) Радхи, красота Её тела",
+    "source": "ГГД 154; «Анубхашья» к ЧЧ Ади 10.53",
+    "level": "A",
+    "variants": [
+     "B 135 приписывает слова «анга-шобха (красота тела) дочери Вришабхану» самому ГГД — в ГГД лишь «ра̄дха̄-вибхӯти-рӯпа̄» (⚠1)."
+    ]
+   },
+   {
+    "in": "krishna-lila",
+    "as": "в нём — и Пурнананда, первая из возлюбленных Баладевы (вошла «ради дела»)",
+    "source": "ГГД 155",
+    "level": "A",
+    "variants": [
+     "M (по Бхактиведанте Свами): «соединение Чандраканти и Пурнананды»; вхождение — духовное (авеша), не «одержимость» (⚠Б3)."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "вечносовершенный житель Враджа с неземной бхавой Радхи; в кругу Нитьянанды — не пастушок, а в мадхура-расе",
+    "source": "ЧБ Антья 5 («Гаудия-бхашья», заголовки к 5.238, 5.372); «Анубхашья» к ЧЧ Ади 10.53",
+    "level": "A"
+   }
+  ],
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Преданный Чайтаньи (ЧЧ Ади 11.13); в Панихати Господь возложил стопы ему на голову (ЧБ Антья 5.92–94); сияние (дйути) Гауры, наделённого бхавой и сиянием Радхи («Анубхашья» к Ади 10.53). T 84 «первая встреча» — не принимать (⚠3)."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Послан с Ним в Гауду (ЧЧ Ади 11.13–14; Мадхья 15.43); Нитьянанда гостил в его доме, Дана-кели (Ади 11.17; ЧБ Антья 5.371–394); «Нитьянанда пребывал в его теле» (ЧБ 5.412). = @nityananda F262–F263, F267, F287, F294–F296, F407–F408."
+   },
+   {
+    "type": "co-worker",
+    "who": "@abhirama",
+    "note": "Рамадас — вместе посланы с Нитьянандой; оба в двух группах (ЧЧ Ади 11.13–15)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@raghunatha-vaidya-upadhyaya"
+   },
+   {
+    "type": "co-worker",
+    "who": "@parameshvara-dasa"
+   },
+   {
+    "type": "co-worker",
+    "who": "@purandara-pandita"
+   },
+   {
+    "type": "other",
+    "who": "@madhava-ghosha",
+    "note": "Мадхавананда Гхош пел дана-кханду в его храме (ЧБ Антья 5.378–380; ЧЧ Ади 11.17–18)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@bala-gopala-gadadhara-dasa",
+    "note": "Божество его храма; Нитьянанда прижал Его к груди (ЧБ Антья 5.374–377); M (по Бхактиведанте Свами) — установлено в Эндиядахе."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gaura-deity-katwa",
+    "note": "Установил в Катве после ухода Шачи и Вишнуприи («Гаудия-вайшнава-абхидхана» по B 815, T 84); «Гаурачанда — жизнь Даса Гададхары» (БР 8.453)."
+   },
+   {
+    "type": "other",
+    "who": "@raghava-pandita",
+    "note": "В его доме в Панихати — милость Господа (ЧБ Антья 5.92–94)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-dasa",
+    "note": "Был на его празднике чида-дадхи (ЧЧ Антья 6.61)."
+   },
+   {
+    "type": "other",
+    "who": "@shachi",
+    "note": "По «Абхидхане» — заботился о ней в Навадвипе (B 815; T 84). = @shachi F52."
+   },
+   {
+    "type": "other",
+    "who": "@vishnupriya",
+    "note": "Заботился о ней; после её ухода — Катва (B 815; T 84; = @vishnupriya F103, F106); по «Анурагавалли» по её слову простил Шринивасу."
+   },
+   {
+    "type": "disciple",
+    "who": "@yadunandana-chakravarti",
+    "note": "Ученик из Катвы (B 817; B 135; T 85 — БР 9.332; M 24); устроил поминальный праздник («Према-виласа» 19)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "Благословил его в Навадвипе и Катве, обрадовался его женитьбе; Шриниваса провёл праздник по нему в Катве. = @srinivasa-acharya F43, F81, F85, F91, F99, F100, Q20."
+   },
+   {
+    "type": "met",
+    "who": "@narottama-dasa",
+    "note": "В Навадвипе (B 1099) и в Катве (M 110; БР 8.453; «Нароттама-виласа» 5)."
+   },
+   {
+    "type": "met",
+    "who": "@shyamananda",
+    "note": "Останавливался у него в Кантаканагаре (M 214)."
+   },
+   {
+    "type": "other",
+    "who": "@narahari-sarakara",
+    "note": "Вместе обрадовались женитьбе Шринивасы (B 670); Нарахари скрылся вслед за ним («Према-виласа» 19)."
+   },
+   {
+    "type": "other",
+    "who": "@kamalakara-pippalai",
+    "note": "Был на празднике в Катве (B 931; T 94; ⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "T 72 — участвовал в празднике Гададхары Даса в Катве."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "note": "Самадхи Гададхары Даса — рядом с самадхи Кешавы Бхарати в Катве."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "Тёзка, не путать; Пандит — облик Радхи, Дас — сияние Её тела; B 141 — не противопоставлять (= @gadadhara-pandita F101–F102); по «Анурагавалли» — загадка Пандита тёзке."
+   },
+   {
+    "type": "other",
+    "who": "@chand-kazi",
+    "note": "B 137: как Господь — Чанд Кази, так он — кази Ариядахи."
+   },
+   {
+    "type": "other",
+    "who": "@jiva-gosvami",
+    "note": "B 138: оскорбление «наставлять неверующего» по Дживе — он его не допустил. = @jiva-gosvami F85."
+   },
+   {
+    "type": "other",
+    "who": "@vasu-ghosha",
+    "note": "B 188: как он и Абхирама, так и Мадхава с Васудевой Гхошами — в обеих группах."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.53 (сияние Радхи), «Гаудия-бхашья» к ЧБ Антья 5.238, 5.381 (не надевал одежд сакхи; против «сакхи-бхеки»)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivedanta-svami",
+    "note": "M 24–25 цитирует его комментарий к ЧЧ (Эндиядаха, гробница, Маллики) — современный комментарий."
+   }
   ],
   "related_by": [
    {
@@ -16542,6 +16781,10 @@
   ],
   "related_by": [
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "other"
    },
@@ -18586,6 +18829,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "other"
    },
    {
@@ -22893,6 +23140,10 @@
   ],
   "related_by": [
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "nephew"
    },
@@ -23308,6 +23559,10 @@
    "ev-jahnava-radha-for-madana-mohana"
   ],
   "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "co-worker"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "other"
@@ -25407,6 +25662,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "other"
@@ -28346,6 +28605,10 @@
     "type": "sibling"
    },
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -30309,6 +30572,10 @@
     "type": "other"
    },
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gaurakishora-dasa-babaji",
     "type": "other"
    },
@@ -30650,6 +30917,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "co-worker"
+   },
    {
     "from": "@nityananda",
     "type": "companion"
@@ -34205,6 +34476,10 @@
     "type": "companion"
    },
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@gopala-bhatta",
     "type": "companion"
    },
@@ -35448,6 +35723,10 @@
     "type": "met"
    },
    {
+    "from": "@gadadhara-dasa",
+    "type": "met"
+   },
+   {
     "from": "@gadadhara-pandita",
     "type": "protege"
    },
@@ -36107,6 +36386,10 @@
    },
    {
     "from": "@damodara-pandita",
+    "type": "met"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "met"
    },
    {
@@ -37106,6 +37389,10 @@
    },
    {
     "from": "@bhugarbha",
+    "type": "met"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "met"
    },
    {
@@ -38416,6 +38703,12 @@
    "ev-kheturi-festival",
    "ev-kheturi-mahantas-depart",
    "ev-narottama-sacred-thread"
+  ],
+  "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "disciple"
+   }
   ]
  },
  {
@@ -39678,6 +39971,10 @@
   ],
   "related_by": [
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -39898,6 +40195,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "co-worker"
+   },
    {
     "from": "@jahnava",
     "type": "servant"
@@ -40929,6 +41230,10 @@
    },
    {
     "from": "@dhananjaya-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "other"
    },
    {
@@ -45510,6 +45815,10 @@
   ],
   "related_by": [
    {
+    "from": "@gadadhara-dasa",
+    "type": "other"
+   },
+   {
     "from": "@jahnava",
     "type": "companion"
    },
@@ -46512,6 +46821,10 @@
    },
    {
     "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "other"
    },
    {
@@ -48099,6 +48412,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@gadadhara-dasa",
+    "type": "co-worker"
+   },
    {
     "from": "@nityananda",
     "type": "companion"
@@ -52209,6 +52526,10 @@
    },
    {
     "from": "@bhakti-pramoda-puri",
+    "type": "other"
+   },
+   {
+    "from": "@gadadhara-dasa",
     "type": "other"
    },
    {
