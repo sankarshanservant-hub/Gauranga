@@ -36,6 +36,7 @@ notes at the end of each taranga.
 - Taranga 1. The Mangalacharana, Accounts of Various Matters, and a Brief Statement of the Birth of Srinivasa Acharya and Other Events
 - Taranga 2. An Account of the Birth of Srinivasa and Other Matters; the Appearance of Sri Govinda and the Other Deities in Vrindavana
 - Taranga 3. Srinivasa's Journey to Nilachala and Return to Gauda
+- Taranga 4. Srinivasa's Journey to Vrindavana
 
 ---
 
@@ -5410,7 +5411,7 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^03-5]: Markandeya-sarovara is a sacred pond in Puri.
 [^03-6]: "Prabhu-agochara" — literally "beyond the reach of the Lord": Gadadhara's state in separation is so deep that it is unfathomable even to the Lord Himself (a usual intensification in Bengali poetry).
 [^03-7]: According to the CC (Adi 10 and elsewhere), Raghunatha Dasa lived in Puri under Svarupa Damodara for sixteen years; after the departure of the Lord and of Svarupa he went to Vrindavana, to Rupa and Sanatana, at Radha-kunda.
-[^03-8]: Chaitanya-chandrodaya-nataka of Kavi-karnapura, Act 10, verse 3. Raghunatha Dasa's preceptor Yadunandana Acharya was a disciple of Vasudeva Datta (CC Antya 6).
+[^03-8]: Chaitanya-chandrodaya-nataka of Kavi-karnapura, Act 10, verse 3. Raghunatha Dasa's preceptor Yadunandana Acharya was a disciple of Advaita who received the mercy of Vasudeva Datta (CC Antya 6.161–162; according to Srila Bhaktisiddhanta, “the object of his mercy, but not his disciple”).
 [^03-9]: So Narahari: Prataparudra supposedly handed power to his son and withdrew from affairs while the Lord was still present. According to historical records he continued to reign after 1533 (until about 1540).
 [^03-10]: The samadhi of Haridasa Thakura on the seashore at Puri; Haridasa's departure and his burial by the Lord Himself are described in CC Antya 11.
 [^03-11]: Patita-pavana ("Purifier of the fallen") — the form of Jagannatha at the Lion Gate (Simha-dvara) of the Puri temple, visible to all who cannot enter the temple.
@@ -5422,3 +5423,1196 @@ Narahari Dasa tells the Bhakti-ratnakara.
 [^03-17]: Jajpur — a holy place in Orissa on the Vaitarani river, on the road from Puri to Bengal.
 [^03-18]: In Narahari's account Gadadhara Pandita, Nityananda and Advaita disappeared soon after the Lord, while Srinivasa was on the road. Traditions about the time of Nityananda's and Advaita's departure differ; Narahari follows his own version.
 [^03-19]: Utkala is Orissa. Madhya-desha ("the middle country") here apparently means the region between Orissa and Gauda (Midnapore).
+
+---
+
+# Taranga 4. Srinivasa's Journey to Vrindavana
+
+*Srinivasa in Navadvipa: Vamshivadana, Vishnupriya, Vishnupriya's dream, her renunciation, the mercy of the Lord's associates; Shantipura — the vision of Advaita and Sita's blessing; Khardaha — Jahnava and Virachandra; Khanakul — Abhirama and his whip; farewell to Narahari and to his mother; the journey to Vrindavana; news of the Gosvamis' departure; meeting with Jiva, initiation by Gopala Bhatta; Narottama*
+
+**1.** Glory to the Moon of Navadvipa, the son of Shachi,
+the Lord of the helpless, the life of the devotees!
+
+**2.** Glory to Nityananda, the son of Padmavati,
+the Lord who purifies the world, supremely merciful!
+
+**3.** Glory, glory to Gadadhara, the son of Madhava!
+Glory, glory to Srivasa and the other devotees of the Lord!
+
+**4.** Glory, glory to the listeners, abodes of virtue!
+Listen kindly to what I shall now relate.
+
+**5.** At the edge of Navadvipa, Srinivasa, deeply stirred,
+weeps as he gazes towards Navadvipa.
+
+**6.** He sat for a while beneath a tree
+and with great effort regained his composure.
+
+**7.** Wondrous are Gauranga's pastimes in Navadvipa;
+thinking of them, he again lost his composure.
+
+**8.** As he enters Navadvipa he sees a marvel:
+the Lord's manifest pastimes amid the company of devotees.
+
+**9.** Singing the supremely wondrous virtues of Gauranga,
+the women of Navadvipa run to and fro.
+
+**10.** Sankirtana, auspicious for the world, is in every house;
+a river of bliss flows through the town of Nadia.
+
+**11.** Seeing this, Srinivasa forgot himself;
+who could tell how his joy grew?
+
+**12.** He gazed so for a while, and then he sees
+that all are constantly drowning in an ocean of grief.
+
+**13.** Astonished, Srinivasa goes on
+and asks everyone where the Lord's house is.
+
+**14.** No one can say anything — they are bathed in tears;
+Srinivasa walks along the road in distress.
+
+**15.** "Ha, ha, Gaura, Gadadhara, Lord of my life!"
+he cries aloud, raising both arms.
+
+**16.** "Ha, ha, Prabhu Nityananda, Advaita, merciful ones!"
+Saying this, he lost all composure.
+
+**17.** He weeps so that stones would split.
+Then suddenly a man came up.
+
+**18.** Amazed at the sight of this extraordinary youth,
+he showed him the way to the Lord's house.
+
+**19.** Coming near the house, he looks all around
+and stands in one place like a wooden doll.
+
+**20.** Sri Vamshivadana,[^04-1] seeing him, without any introduction
+thought to himself, "This must be Srinivasa."
+
+**21.** Coming near, he asked who he was;
+Srinivasa told him everything from beginning to end.
+
+**22.** Sri Vamshivadana embraced him
+and bathed Srinivasa in his own tears.
+
+**23.** Srinivasa, falling to the ground, wishes to bow down,
+but Sri Thakura Vamshi will not release him from his embrace.
+
+**24.** To inform Sri Ishvari, Mother Vishnupriya,[^04-2]
+Sri Vamshivadana went [to her] with care.
+
+**25.** Meanwhile Vishnupriya says to her dear maidservant,
+"I have had a dream; I will tell you what is in my heart.
+
+**26.** The world-enchanting Lord, the master of my life,
+came before me — how sweet His gait!
+
+**27.** The splendour of His beauty destroys the pride of Kama —
+what a poor comparison is a flash of lightning!
+
+**28.** How beautifully His whole body is anointed with sandal —
+as if carefully smeared with the ground autumn moon.
+
+**29.** He is adorned with ornaments, clad in [fine] garments;
+He captivates even the modesty of young maidens, and there is no fear in the heart.
+
+**30.** Ah, what lovely, glossy, curling hair!
+What fragrance — who would not lose himself in it?
+
+**31.** His two long eyes surpass lotus petals;
+seeing His glance, no one can stay composed.
+
+**32.** Arms reaching to the knees, an enchanting bearing;
+how broad His chest, which maddens the world!
+
+**33.** On that moonlike face is a gentle smile;
+I know not what nectar it showers in torrents!
+
+**34.** With what tenderness He seated me on a seat
+and softly speaks sweet words to me:
+
+**35.** 'There is a brahmana youth named Srinivasa;
+there is no counting the sorrows he has suffered.
+
+**36.** Today he will come to see you;
+knowing him as your own, show him mercy.'
+
+**37.** Saying much in this way and showing such joy,
+He disappeared, and I awoke in sorrow.
+
+**38.** I understood that he is very dear to the Lord of my life,
+and I feel that he will soon come."
+
+**39.** Just then Sri Vamshivadana announced,
+"Srinivasa has come here from Nilachala."
+
+**40.** Hearing this, Ishvari wished to see him,
+and Srinivasa went before Ishvari.
+
+**41.** Streams of love flow incessantly from his eyes;
+rolling on the ground, he bows down again and again.
+
+**42.** Ishvari, hearing that Srinivasa was bowing,
+stood concealed, remembering Gauranga.[^04-3]
+
+**43.** Her heart burns in the forest fire of separation from the Lord,
+and yet, seeing Srinivasa, she feels joy.
+
+**44.** Speaking sweet words with motherly affection and mercy,
+she placed her feet on Srinivasa's head.
+
+**45.** Ordering that he be served mahaprasada,
+she became motionless, her heart drowning in tears.
+
+**46.** Someone gave Srinivasa prasada in a secluded place;
+he honoured the prasada, bathed in tears.
+
+**47.** Every day Srinivasa has [her] darshan;
+Ishvari's way of life cannot be described.
+
+**48.** In separation from the Lord, sleep has left her eyes;
+if she sleeps at all, it is on the bare ground.
+
+**49.** Her body, which surpassed gold, has grown very dark;
+she is wasted like the moon on the fourteenth day of the dark fortnight.
+
+**50.** She keeps count of the names of Hari with grains of rice;
+that rice she cooks and offers to the Lord.[^04-4]
+
+**51.** Only a tiny portion of it does she eat;
+no one knows how she keeps alive.
+
+**52.** How she gave Srinivasa darshan day after day,
+and what state he was in — who can describe it?
+
+**53.** Then everyone understood
+that she kept this body for the sake of mercy to Srinivasa.
+
+**54.** All praise Srinivasa's good fortune:
+there is none so worthy of mercy as Srinivasa.
+
+**55.** What mercy Mother Shachi showed Srinivasa, appearing as if in a dream —
+where shall I find the power to describe it?
+
+**56.** Through Navadvipa the word spread:
+"Srinivasa, the vessel of Gaura's love, has come."
+
+**57.** Sri Murari, Srivasa Pandita, Damodara,
+Sanjaya, Vijaya, Shuklambara Brahmachari,
+
+**58.** Dasa Gadadhara and the other dear ones of the Lord —
+all showed mercy to Srinivasa.
+
+**59.** Although in separation from the Lord all were nearly dead,
+yet by the Lord's will they felt joy.
+
+**60.** For the sake of mercy to Srinivasa —
+for this [the Lord] kept His associates manifest.
+
+**61.** Srivasa's wife and the other chaste ladies —
+their motherly affection for Srinivasa cannot be written.
+
+**62.** Keeping Srinivasa with them for some days,
+all told him to go quickly to Vrindavana.
+
+**63.** Taking leave of everyone, his heart aching,
+he goes to Shantipura, to the house of Prabhu Advaita.
+
+**64.** As he entered Shantipura, he was overcome with grief;
+Prabhu Sri Advaita appeared to him and consoled him.[^04-5]
+
+**65.** Srinivasa is not at peace and thinks to himself,
+"What a wonder I saw! It must be an illusion."
+
+**66.** As he pondered thus, the command came again,
+and his mind's doubt was dispelled; his joy was boundless.
+
+**67.** Bathed in tears, thinking of that form,
+he quickly came to the Prabhu's abode.
+
+**68.** Hearing that Srinivasa had come,
+everyone grew eager to see him.
+
+**69.** In separation from the Lord all were distraught at heart,
+and everyone's body had grown weak.
+
+**70.** In Mother Sita's body life barely remained;
+she called Srinivasa into the inner apartments.
+
+**71.** Srinivasa went and bowed to her feet;
+in her mercy she placed her feet on his head.
+
+**72.** Tears stream incessantly from both her eyes;
+in a faltering voice she says to Srinivasa:
+
+**73.** "O my son Srinivasa, I have been waiting for you;
+it is good that you have come — I am happy to see you.
+
+**74.** Live long on the earth:
+through you good will come to living beings.
+
+**75.** You will distribute this rare prema-bhakti
+and spread the scriptures of bhakti, the whole treasure of the devotees.
+
+**76.** Some will join you after a while,
+and with them you will find steadiness amid all these sorrows.
+
+**77.** You will have many followers;
+you will float ceaselessly in the joy of sankirtana.
+
+**78.** You must go quickly to Vrindavana:
+there you will become a disciple, and your desire will be fulfilled."
+
+**79.** Saying much, she entrusted him to Madana-gopala[^04-6]
+and introduced him to her sons and servants.
+
+**80.** Her motherly affection for Srinivasa I cannot describe;
+instructing him in many ways, she gave him leave.
+
+**81.** Bowing to everyone, Srinivasa Mahashaya
+went to Khardaha, to the abode of Prabhu Nityananda.
+
+**82.** Seeing Srinivasa, Sri Parameshvari Dasa,[^04-7]
+though in great sorrow, felt joy.
+
+**83.** He was sure in his mind that this was Srinivasa,
+and coming near, he learned who he was.
+
+**84.** Through the village of Khardaha the news spread:
+"Srinivasa of Chakhandi has come here."
+
+**85.** All, eager to see Srinivasa,
+went to where Srinivasa was.
+
+**86.** Meanwhile Sri Parameshvari Dasa
+quickly took Srinivasa to the Prabhu's house.
+
+**87.** Srinivasa, ever bathed in tears,
+bowed down and fell at the feet of Ishvari.
+
+**88.** Sri Vasu[dha] and Jahnava, together with Virabhadra,[^04-8]
+were very pleased to see Srinivasa.
+
+**89.** Although the terrible grief was unbearable,
+still joy arose in everyone's heart.
+
+**90.** He stayed there four or five days;
+no one could bear to part with Srinivasa.
+
+**91.** Suryadasa, Gauridasa, Pandita Mahesha —
+many devotees there showed him boundless mercy.
+
+**92.** Sri Jahnava, the Prabhu [Virabhadra] and the others, their hearts aching,
+ordered him to go to Vrindavana.
+
+**93.** Sri Vasu and Jahnavi again say with loving feeling,
+"Go quickly to the house of Abhirama Gopala."
+
+**94.** Srinivasa bowed down and took leave;
+he is ceaselessly bathed in streams from both eyes.
+
+**95.** Thinking of Nityananda's qualities, he was greatly agitated;
+by His will he saw many mysteries.
+
+**96.** Srinivasa floated in that ocean of bliss;
+he set out to go to Abhirama.
+
+**97.** With great eagerness he walks along the road;
+on the way to Virloka a companion joined him —[^04-9]
+
+**98.** an old brahmana whose home was in Khanakula.[^04-10]
+With a pleased heart he asks Srinivasa,
+
+**99.** "What is your name, son, and where are you going?"
+Srinivasa bowed to him and told him.
+
+**100.** Hearing this, the brahmana, overcome with love, says,
+"I heard about you in Khardaha.
+
+**101.** Come, my son Srinivasa, let me embrace you!"
+So saying, he took him in his arms and was bathed in tears.
+
+**102.** "Sri Thakura Abhirama is an abode of virtues;
+he will show you great mercy.
+
+**103.** The power of Abhirama Gosvami is formidable:
+seeing him, even invincible unbelievers tremble.
+
+**104.** He is ever mad with absorption in Nityananda;
+his charming mercy is known throughout the world.
+
+**105.** O Srinivasa, how much shall I tell you?
+He descended in a brahmana's house to deliver living beings.
+
+**106.** He is learned in all the shastras, supremely charming,
+an incomparable master of dance, song and music.
+
+**107.** By the will of Prabhu Nityananda-Balarama
+he married, [taking a wife] from the house of a learned brahmana.
+
+**108.** Sri Abhirama's wife is named Sri Malini;
+I cannot tell all her glory.
+
+**109.** O Srinivasa, Sri Thakura Abhirama
+is, in Krishna's pastimes, the famous Shridama.[^04-11]
+
+**110.** Now he has revealed that former nature:
+to a certain servant he appeared in the form of Shridama.
+
+**111.** Sri Thakura Abhirama is the embodiment of prema;
+all worship him — who does not proclaim his fame?
+
+**112.** *Thus [it is said] in a verse of his disciple Sri Vedagarbha Acharya:*
+*"I worship the venerable Abhirama, formerly called Shridama,*
+*the embodiment of love, the crest-jewel of brahmanas, the husband of Sri Malini."*
+
+**113.** O Srinivasa, how wondrous is his conduct!
+He grew eager to serve the Deity.
+
+**114.** Gopinatha appeared to him as if in a dream,
+said, 'Here I abide,' and showed him the place.
+
+**115.** Digging at that place, Abhirama
+found the incomparable Deity of Gopinatha.
+
+**116.** The news spread everywhere, and all the people come running;
+the moment they have darshan they forget grief and sorrow.
+
+**117.** The divine water of the pond where Gopinatha appeared —
+bathing in it and drinking it, all became overwhelmed with bliss.
+
+**118.** It became famous as Rama-kunda;
+there is no end to the people who come and go.
+
+**119.** Malini and Sri Abhirama with their people
+joyfully serve Sri Gopinatha.
+
+**120.** From time to time Prabhu Nityananda with His associates
+would come to the house of His dear Abhirama.
+
+**121.** One day Abhirama, intoxicated with the bliss of love,
+was dancing — that pose of his is incomparable.
+
+**122.** Absorbed in sakhya-rasa, he wants to play the flute;
+he searches here and there but cannot find his flute.
+
+**123.** A log that even a hundred men could not move
+he took in his hand as a flute.
+
+**124.** Seeing this, all were greatly astonished;
+from time to time he has such superhuman pastimes.
+
+**125.** Now that Nityananda-Balarama has disappeared,
+he constantly sighs deeply and speaks to no one.
+
+**126.** Only the fortunate understand this inscrutable conduct;
+you will see it yourself, son — be careful."
+
+**127.** Saying this, the brahmana, full of affection,
+showed him Sri Abhirama's house.
+
+**128.** Srinivasa bowed to the brahmana's feet
+and remembered Nityananda-chandra.
+
+**129.** Holding in his heart the strength of Ishvari's command,
+he went and reached Sri Abhirama's house.
+
+**130.** Bowing down, he stayed at the outer gate;
+through Virloka the news of Srinivasa's arrival spread.
+
+**131.** Thakura Abhirama, in separation from Sri Prabhu,
+is always absorbed in love and says nothing to anyone.
+
+**132.** Knowing that Srinivasa had come, he smiles gently
+and resolves in his mind, "I shall test him."
+
+**133.** He gave him ten kards of cowries for his keep;[^04-12]
+with them [Srinivasa] bought what was needed.
+
+**134.** Then he went to the bank of the Darukeshvara river,[^04-13]
+cooked, and offered the food to Krishna.
+
+**135.** At that moment the Thakura sent four men;
+seeing them, Srinivasa rejoiced at heart.
+
+**136.** Bowing to them, he fed the four
+and himself honoured that mahaprasada.
+
+**137.** Srinivasa's conduct gladdened everyone's heart;
+they tell the Thakura, "We have come back well fed."
+
+**138.** All these tests were to teach others;
+he had Srinivasa brought before him.
+
+**139.** With his whip named Jayamangala
+he touched Srinivasa's body three times.[^04-14]
+
+**140.** Joyfully touching him with that whip,
+he laughs aloud, saying something to Srinivasa.
+
+**141.** When in loving rapture he was about to touch him with the whip again,
+Sri Malini-devi came and held his hand.
+
+**142.** Malini says, "Restrain yourself, Gosani:
+there is no limit to the mercy you have shown.
+
+**143.** Srinivasa is only a boy; he will not be able to stay steady;
+if he goes mad with love, how will he accomplish his task?"
+
+**144.** So speaking together with pleased hearts,
+the two place their hands on Srinivasa's head.
+
+**145.** Srinivasa fell at the feet of both;
+raising him up, they bathed him in tears.
+
+**146.** All the affection the two showed Srinivasa —
+have I the power to tell it?
+
+**147.** Entrusting him to the feet of Radha-Gopinatha,
+the two ordered him to go to Vrindavana.
+
+**148.** All the residents of Sri Krishnanagara and Khanakula,
+on seeing Srinivasa, felt their affection ever increase.
+
+**149.** Taking leave of all the Vaishnavas,
+he came again to Shrikhanda, his heart in distress.
+
+**150.** Sri Thakura Narahari and Sri Raghunandana,
+seeing Srinivasa, embraced him tightly.
+
+**151.** They gently asked him about everything,
+and Srinivasa told them, bathed in tears.
+
+**152.** Thakura Sri Narahari and Sri Raghunandana
+gave him permission to go to Vrindavana.
+
+**153.** The Thakura again took Srinivasa in his arms;
+unable to let him go, he is bathed in tears.
+
+**154.** He told him everything about the road;
+at the moment of parting his heart was rent.
+
+**155.** Bowing to both Sri Thakura Narahari and Sri Raghunandana,
+he set out at an auspicious moment.
+
+**156.** How he went along the road cannot be described;
+reaching Yajigrama, he saw his mother.
+
+**157.** Telling her everything,
+he asks her leave to go quickly to Vrindavana.
+
+**158.** Hearing this, his mother's heart was troubled,
+but she could not forbid Srinivasa.
+
+**159.** For five or seven days she lovingly kept her son with her;
+Srinivasa, reassuring her, took his leave.
+
+**160.** Bowing again and again at his mother's feet,
+he set off, after meeting all the villagers.
+
+**161.** On the second day of the bright fortnight of Agrahayana he left home[^04-15]
+and stopped a short way off, by someone's arrangement.
+
+**162.** At Agradvipa and other villages, in the houses of devotees,
+taking leave everywhere, he came to Kantaka-nagara.[^04-16]
+
+**163.** Where Mahaprabhu accepted sannyasa,
+there in loving rapture he wept much.
+
+**164.** Going quickly from there to Maudeshvara,[^04-17]
+he was gladdened at heart by the sight of Shiva.
+
+**165.** There the people told Srinivasa
+how the Lord had delivered [them] from the fear of snakes.
+
+**166.** Seeing the place of Kundali-damana, Srinivasa
+heaves deep sighs, saying, "Prabhu Nityananda!"[^04-18]
+
+**167.** The wise Srinivasa, who attracts every heart,
+went to Ekachakra, where the house of Hadai Ojha is.[^04-19]
+
+**168.** Entering it, he felt it to be Shvetadvipa;
+he gazed his fill at Nityananda's birthplace.
+
+**169.** Seeing all the places where Prabhu Nityananda
+had enacted the pastimes of Rama, he was overwhelmed.
+
+**170.** Raising his arms, he sings Nityananda's virtues,
+ceaselessly floating in the streams from both his eyes.
+
+**171.** Grey with dust, he rolls on the ground;
+by the Lord's will sleep came to his aid.
+
+**172.** As if in a dream he directly sees a great festivity:
+Nityananda sporting with His companions.
+
+**173.** Beholding [Nityananda's] beauty with His associates,
+his bliss increased, and his eyes and mind were soothed.
+
+**174.** On waking he felt boundless grief;
+the Prabhu had ordered him to go to Vrindavana.
+
+**175.** Bowing to the village of Ekachakra,
+Srinivasa set off, remembering Nityananda's feet.
+
+**176.** Whatever village Srinivasa passes through,
+all its inhabitants run to see him.
+
+**177.** All try in many ways to feed him something;
+Srinivasa does whatever makes them all happy.
+
+**178.** After some days he arrived at Gaya-kshetra;
+he sees the lotus feet of Vishnu, absorbed in love.
+
+**179.** There Mahaprabhu met Ishvara Puri;[^04-20]
+remembering all this, his eyes stream constantly.
+
+**180.** Whoever sees Srinivasa, woman or man,
+loses all composure and is ever bathed in tears.
+
+**181.** How wondrous his early youth, full of supreme bliss!
+Seeing him once, one cannot leave his company.
+
+**182.** Thus attracting every heart,
+he went to Kashi and saw Chandrashekhara's house.
+
+**183.** There a disciple of Chandrashekhara, a great soul,
+seeing Srinivasa, rejoiced at heart.[^04-21]
+
+**184.** Learning who he was, he lost his composure in love;
+taking Srinivasa in his arms, he began to weep.
+
+**185.** Showing him where the Lord had stayed,
+he lovingly kept him for two or four days.
+
+**186.** With all the Lord's followers who were in Kashi
+he met there.
+
+**187.** Taking leave, he went on very quickly;
+seeing Ayodhya and Prayaga, he was absorbed in love.
+
+**188.** From there Srinivasa went towards Vraja;
+many longings arise in his heart.
+
+**189.** Holding the lotus feet of Rupa and Sanatana in his heart,
+he hastily entered the city of Mathura.
+
+**190.** Where Krishna rested after killing Kamsa —
+Sri Vishrama-ghata — there he arrived.[^04-22]
+
+**191.** Along that road came two or four brahmanas,
+speaking of Sri Vrindavana.
+
+**192.** One says, "Why so much misfortune?
+What joy is left to taste in this wretched life?
+
+**193.** Who can understand anything of the Supreme Lord's will?
+One by one this place has been emptied of its jewels.
+
+**194.** At Nilachala Sri Krishna Chaitanya, the Lord of all,
+became invisible to everyone's eyes.
+
+**195.** Hearing that unbearable news,
+Kashishvara Gosvami disappeared.
+
+**196.** Raghunatha Bhatta, the reciter of the Bhagavata —
+in separation from the Lord he too disappeared.
+
+**197.** Some days ago Sri Gosani Sanatana
+disappeared from our eyes.
+
+**198.** And now Sri Rupa Gosani has left the manifest world;
+we have come from seeing it — our grief knows no bounds.
+
+**199.** Sri Gopala Bhatta, Raghunatha and all the others
+are ceaselessly burning in the flames of the fire of separation.
+
+**200.** I have understood here that our fortune is bad;
+otherwise would we see sorrow in the midst of such happiness?"[^04-23]
+
+**201.** As they went along lamenting much in this way,
+Srinivasa anxiously asked them.
+
+**202.** Weeping, that man told Srinivasa
+the account of the disappearance of Sanatana and Rupa.
+
+**203.** Hearing it, Srinivasa was bathed in tears
+and fell unconscious on the ground.
+
+**204.** "Alas, alas, what have I heard!" he cries, rising again;
+grey with dust, he rolls on the earth again.
+
+**205.** Again he says, "Ha, ha, Prabhu Rupa and Sanatana!
+Why have you dealt so with this lowly one?
+
+**206.** I did not see your holy feet; my hope was not fulfilled!"
+Saying this, Srinivasa tears his breast with his nails.
+
+**207.** Seeing this, the brahmana of Mathura seized his hand
+and took great pains to save his life.
+
+**208.** All the residents of Mathura were astonished;
+they consoled him much, but he would not consent [to live].
+
+**209.** Bowing to the brahmana of Mathura,
+Srinivasa turned back again towards the east.
+
+**210.** He reflects, "The masters in Gauda and in the Kshetra
+all told me, 'Go quickly to Vrindavana.'
+
+**211.** This is why they gave that order, and I did not understand;
+unfortunate as I am, I could not come quickly.
+
+**212.** Cruel fate has brought so much misfortune,
+and still life remains in this sinful body."
+
+**213.** As he pondered thus, tears streamed from both eyes;
+he falls silent, then again cries out in anguish:
+
+**214.** "O Sanatana, Rupa, oceans of virtue,
+Raghunatha Bhatta, Sri Pandita Kashishvara!
+
+**215.** I heard that you are supremely merciful —
+why have you become merciless to one as wretched as I?"
+
+**216.** Saying much like this, he wishes to give up his life;
+he falls, flinging himself down, not knowing where he is.
+
+**217.** Going on some distance like this, night fell;
+seeing a tree by the road, he stayed there.
+
+**218.** He laments, his heart in great distress;
+hearing it, wood and stone would split.
+
+**219.** The inhabitants of a nearby village heard it —
+what became of them I cannot tell.
+
+**220.** Srinivasa stays awake through the night, weeping;
+by the Lord's will sleep overcame him.
+
+**221.** Sanatana, Rupa and the others, supremely merciful,
+appeared to Srinivasa as if in a dream.
+
+**222.** The supreme, wondrous beauty of all the Gosvamis —
+seeing it, Srinivasa's heart filled with boundless joy.
+
+**223.** His body thrilled with horripilation, he is bathed in tears;
+rolling on the ground, he fell at their feet.
+
+**224.** All placed their feet on Srinivasa's head,
+embraced him and consoled him in many ways.
+
+**225.** Seeing again and again how thin Srinivasa had become,
+they stroke his body with their holy hands, tears in their eyes.
+
+**226.** Then Sri Gosvami, looking into Srinivasa's face,
+speaks sweet words, absorbed in love:
+
+**227.** "O my son Srinivasa, what is there to say?
+Now is not the time for you to grieve.
+
+**228.** Sri Gopala Bhatta is non-different from us;
+go to him and receive the holy mantra.
+
+**229.** Taking all the books we have written,
+go without delay to Gauda and spread them."
+
+**230.** *Thus [it is said] in the Nava-padya:*[^04-24]
+*"In a dream Sri Rupa and the others, together with Srila Sanatana, said to you:*
+*'This is no time for you to grieve. There is Gopala Bhatta —*
+*therefore receive from him the best of mantras; and all the books written by us*
+*take, go to Gauda, spread [our] teaching abundantly and instruct the Vaishnavas.'"*
+
+**231.** Saying much in this way and showing mercy to Srinivasa,
+they disappeared, remembering Gauranga.
+
+**232.** Srinivasa, having drunk the nectar of that vision and those words,
+was overwhelmed, and in the morning he turned back [towards Vrindavana].
+
+**232a.** And again — what a wonder! Even before he entered Vrindavana,
+the two Gosanis had gone [to Jiva and Gopala Bhatta].[^04-25]
+
+**233.** Sri Rupa and Sri Sanatana, the two together,
+that night speak to Sri Jiva as if in a dream:
+
+**234.** "On this twentieth day of the month of Vaishakha
+the wondrous meeting we spoke of before will take place.
+
+**235.** Today he will come and enter Vrindavana;
+meeting him, you will obtain supreme bliss.
+
+**236.** In the evening, at the arati of Sri Govinda-deva,
+when the crowd has thinned, look for him.
+
+**237.** His complexion is like a golden champaka, his body is thin;
+he is young, and tears flow ceaselessly from his eyes.
+
+**238.** He came from Gauda in great sorrow
+and here heard of our disappearance.
+
+**239.** He firmly resolved to give up his body;
+we appeared to him and consoled him in many ways.
+
+**240.** One cannot express how distressed his heart is;
+as soon as you see him, you will know who he is.
+
+**241.** Have him take initiation from Sri Gopala Bhatta;
+and when he has studied [our books], entrust all the books to him.
+
+**242.** Send him quickly to Gauda-mandala:
+he will distribute the jewels of these books to the people.
+
+**243.** What more shall we say? Through Srinivasa
+Prabhu Gaura-raya will accomplish many tasks."
+
+**244.** Having said much in this way to Sri Jiva,
+they went to Sri Gopala Bhatta Gosvami and say,
+
+**245.** "Your Srinivasa has come from Gauda;
+he has suffered much sorrow, more than can be told.
+
+**246.** Make him your disciple and comfort his heart."
+Saying much in this way, they disappeared.
+
+**247.** Receiving such a command at dawn,
+he rises and weeps, crying, "Rupa! Sanatana!"
+
+**248.** At that moment Sri Jiva arrived;
+seeing him, [Gopala Bhatta] regained some composure.
+
+**249.** Sri Jiva bows down, bathed in tears;
+Sri Bhatta Gosvami took Sri Jiva in his arms
+
+**250.** and bathed his body with tears;
+his heart is bursting, he cannot restrain himself.
+
+**251.** As they told each other the commands received in the dream —
+the state they were in I cannot describe.
+
+**252.** After a while Sri Bhatta Gosvami, composing himself,
+calmed Sri Jiva with many words.
+
+**253.** The festival of Radha-ramana's ascending the throne was at hand;[^04-26]
+therefore he was busily making preparations.
+
+**254.** Sri Jiva, bowing again to the Bhatta Gosvami,
+hurried to his own hut.
+
+**255.** His eagerness to see Srinivasa grew very great;
+he told everyone that Srinivasa was coming.
+
+**256.** "When will he come?" — so he thinks,
+and again and again he goes to look down the road.
+
+**257.** Meanwhile Srinivasa, in great agitation,
+having entered Vrindavana, beholds its beauty.
+
+**258.** Over clusters of many flowers bees sweetly hum;
+here and there peacocks and peahens dance.
+
+**259.** Cuckoos and other birds sing as if pouring nectar;
+deer and other animals roam on all sides.
+
+**260.** The lovely [forest] is entwined with many trees and creepers;
+seeing all this, he sheds tears ceaselessly.
+
+**261.** He saw the dwellings of the Vaishnavas of Vraja
+and went to the temple of Sri Govinda-deva.
+
+**262.** Having darshan of Govinda in the evening,
+his heart swelled with joy and he was bathed in tears.
+
+**263.** Absorbed in love, he fell to the ground and rolled about;
+by the Lord's will he remained off to one side.
+
+**264.** At the evening arati there is a huge crowd;
+Sri Jiva Gosvami is searching for Srinivasa.
+
+**265.** Srinivasa is lying off to one side;
+[Jiva] suddenly came to that very spot.
+
+**266.** Seeing the transformations of bhava, Sri Jiva Gosani
+knew this was Srinivasa and stood there.
+
+**267.** After a while [Srinivasa] mastered his bhava;
+Sri Jiva himself lifted him from the ground.
+
+**268.** Srinivasa, drenched in his own tears,
+falls at the feet of Sri Jiva Gosani, bowing down.
+
+**269.** Sri Jiva, deeply moved, speaks affectionate words;
+stretching out both arms, he embraced Srinivasa.
+
+**270.** Embracing him tightly, he calls him "friend":
+without asking, he knew who he was.
+
+**271.** The joy that arose at their meeting
+I cannot describe here in detail.
+
+**272.** Sri Krishna Pandita, an associate of Sri Chaitanya,
+seeing Srinivasa, rejoiced at heart.
+
+**273.** His virtues cannot be told with one mouth;
+at that time he was the adhikari [chief servant] of Govinda.[^04-27]
+
+**274.** Feeding Srinivasa with Sri mahaprasada,
+he lovingly gave him prasada — betel and a garland.
+
+**275.** Who can describe how much affection he showed?
+The news of Srinivasa's arrival spread everywhere.
+
+**276.** Sri Jiva Gosvami, taking his dear Srinivasa,
+went to his own residence in great joy.
+
+**277.** There Radha-Damodara had already been laid to rest,
+so there was no darshan that night.
+
+**278.** Sri Jiva gave Srinivasa lodging in a secluded place,
+and Srinivasa stays there with a joyful heart.
+
+**279.** The night of the Vaishakha full moon — a marvellous beauty;
+many flowers had blossomed, spreading their fragrance.
+
+**280.** He gazes at the sweetness of the many trees and creepers;
+no sleep came to his eyes, and dawn arrived.
+
+**281.** In the morning, having finished his morning duties, bathing and so on,
+he went and bowed at the feet of Sri Jiva Gosvami.
+
+**282.** Sri Jiva Gosvami treated him like a friend
+and gave him darshan of Radha-Damodara.
+
+**283.** Joy wells up in Srinivasa's heart;
+again and again he bows down, falling to the ground.
+
+**284.** A wondrous, incomparable, enchanting Deity;
+as he gazes on Him, tears stream ceaselessly.
+
+**285.** For a while he gazed his fill:
+Radha-Damodara is the treasure of Sri Jiva's life.
+
+**286.** By a command received in a dream, Sri Rupa with his own hands
+made Sri Radha-Damodara and gave Him to Sri Jiva.[^04-28]
+
+**287.** I am unable to describe Sri Jiva's deeds:
+the lotus feet of Sri Rupa are his all in all.
+
+**288.** All this, in various languages and in Sanskrit,
+was described by former poets renowned in the world.
+
+**289.** *Thus in the Sadhana-dipika:*[^04-29]
+*"I ever bow to Sri Jiva, the resident of Vraja,*
+*devoted to the two lotus feet of Sri Rupa, who gives bliss even to the dull."*
+
+**290.** *"The Deity Radha-Damodara, installed by Sri Rupa,*
+*was given to Jiva Gosvami by Sri Rupa, the ocean of mercy."*
+
+**291.** I have told briefly of His appearance:
+Radha-Damodara is Jiva's very life.
+
+**292.** Sri Jiva is always in supreme joy,
+beholding the pastimes of Sri Radha-Damodara.
+
+**293.** From time to time [the Lord] asks Sri Jiva for food,
+and Sri Jiva sees how the Lord eats.
+
+**294.** One day, smiling, He plays the flute
+and says to Sri Jiva, "Look at Me!"
+
+**295.** The age of kishora, a world-enchanting appearance —
+the moment he saw Him, Sri Jiva fell unconscious.
+
+**296.** Regaining consciousness, his heart swelled with bliss,
+and tears flowed from both his long eyes.
+
+**297.** I have told a little in passing — there are many such events:
+Radha-Damodara attracts every heart.
+
+**298.** Sri Jiva Gosvami showed mercy to Srinivasa
+and entrusted him to the feet of Radha-Damodara.
+
+**299.** The samadhi of Sri Rupa Gosvami is right there;
+[Jiva] himself took Srinivasa to it.
+
+**300.** Srinivasa, beholding the holy samadhi,
+is bathed in tears and falls prostrate.
+
+**301.** Sri Jiva, consoling Srinivasa, quickly took him
+to Sri Gopala Bhatta Gosvami.
+
+**302.** Sri Bhatta Gosvami is sitting in seclusion;
+tears stream ceaselessly from both his eyes.
+
+**303.** Srinivasa, looking at Sri Bhatta Gosvami,
+lost all composure and rolls on the ground.
+
+**304.** Again and again he bows down, tears flowing from his eyes;
+Sri Jiva introduced Srinivasa.
+
+**305.** Although the Bhatta was burning in the fire of separation,
+still he rejoiced at seeing Srinivasa.
+
+**306.** Affectionately placing his feet on Srinivasa's head,
+he told him to sit, speaking kind words.
+
+**307.** Then he asked Srinivasa for his news,
+and Srinivasa told him everything from beginning to end.
+
+**308.** Hearing this, the Gosvami, deeply distressed at heart,
+says again and again how grieved he is.
+
+**309.** Then he praised Srinivasa's good fortune
+and told of the command of Sanatana and Rupa in the dream.
+
+**310.** Sri Jiva Gosvami, having heard the Gosvami,
+seizing the moment, speaks sweet words:
+
+**311.** "Srinivasa longs with all his heart for initiation."
+The Gosvami consented — for the second lunar day.[^04-30]
+
+**312.** Sri Jiva Gosvami, with great joy,
+showed Sri Radha-ramana to Srinivasa.
+
+**313.** The Deity of Sri Radha-ramana is supremely enchanting;
+only the fortunate are granted to see Him.
+
+**314.** His sweetest grace is known throughout the world;
+when He appeared, there was great rejoicing in Vrindavana.
+
+**315.** Listen, I shall tell a little of His appearance:
+Sri Radha-ramana is [the Deity] known to the Bhatta Gosvami.
+
+**316.** Sri Gauranga-deva gave the Gosvami a command:
+"You will see Hari from a shalagrama."[^04-31]
+
+**317.** By Gauranga's command the Bhatta reveals this to Sri Rupa,
+and then Rupa Gosvami says in loving rapture:
+
+**318.** "Sri Govinda-deva is your all in all,
+and yet it is His desire that you serve Him separately."
+
+**319.** And then, after some days, from the shalagrama
+He Himself appeared, for all people to see.
+
+**320.** Who can understand the Gosvami's intention?
+What a wondrous form appeared, conquering the world!
+
+**321.** Sri Govinda, Gopinatha, Madana-mohana —
+in that order: the face, the chest and the holy feet of these three.[^04-32]
+
+**322.** The darshan of the three Lords together in one place —
+the Gosani had conceived such a design beforehand.
+
+**323.** Sanatana Gosvami, Bhugarbha and all the others
+rejoiced to see the service of Sri Radha-ramana.
+
+**324.** In the month of Vaishakha, at the auspicious time of the full moon,
+Sri Radha-ramana ascended the throne.
+
+**325.** At His ascending the throne there was a great festival;
+the Lord who is subdued by the Bhatta's love is famous throughout the world.
+
+**326.** Thus beautiful Radha-ramana appeared;
+the wise have described it in Bengali and in Sanskrit.
+
+**327.** *Thus in the Sadhana-dipika:*[^04-33]
+*"I bow to Gopala Bhatta, for whom the feet of Govinda are everything,*
+*who by Sri Rupa's command manifested a separate service.*
+
+**328.** *Sri Radha-ramana-deva is held to be [the Lord] of his service;*
+*He is the One whom the skilful Srila Rupa beheld in meditation.*
+*The reason for the command I heard there from the mouths of reliable persons."*
+
+**329.** *And there, as is well known:*
+*"I bow to Sri Gopala Bhatta, the resident of Vraja,*
+*the nephew of Sri Prabodhananda, an abode of mercy."*
+
+**330.** *Thus in the Madana-raga-valli of Sri Manohara Raya, a disciple in the branch of Sri Srinivasa Acharya Thakura:*[^04-34]
+*Sri Madana-gopala with Sri Radhika,*
+*Sri Govinda-lala with the Queen of Vrindavana,*
+
+**331.** *Sri Gopinatha with the Daughter of Vrishabhanu —*
+*seeing and serving Them, he deemed his life fulfilled.*
+
+**332.** But his longing to serve [a Deity] himself grew;
+it is clear that the Lord wished [to appear] through the Gosani.
+
+**333.** One day, thinking only of a [visible] form,
+he pondered in his mind the longing of his heart.
+
+**334.** Knowing the desire of Sri Gopala Bhatta Gosani,
+[the Lord] Himself manifested His form for Sri Gopala.
+
+**335.** With his companions he held a festival and performed the abhisheka;
+thus the service of Sri Radha-ramana became manifest.
+
+**336.** Building a temple, he established his service;
+it is most wondrous — however much one tells, it is never all told.
+
+**337.** Thus I have told briefly of Radha-ramana's appearance,
+in which lies the dawning of every joy.
+
+**338.** Radha-ramana is the life of Bhatta Gopala;
+apart from Him there is nothing else, waking or dreaming.
+
+**339.** With his whole being he drinks the beauty of Sri Radha-ramana;
+Sri Gopala Bhatta is Guna- [or] Ananga-manjari.
+
+**340.** *Thus in the Gaura-ganoddesha-dipika (184):*[^04-35]
+*"She who was Ananga-manjari is now Gopala Bhatta;*
+*some, however, call the Bhatta Gosvami Sri Guna-manjari."*
+
+**341.** Intoxicated with Radha-ramana's beauty and qualities,
+he dresses Him in various flower garments, having received permission.
+
+**342.** In his service supreme bliss increases at every moment;
+he constantly remembers his service to Sri Gaurachandra.
+
+**343.** In his own home, at his father's command, he had served Gaurachand;[^04-36]
+remembering it, he cannot keep his composure.
+
+**344.** Overwhelmed, he is bathed in tears
+and looks again and again at Sri Radha-ramana.
+
+**345.** Sri Radha-ramana, subdued by Gopala's love,
+at that very moment took the form of Sri Gaurasundara.
+
+**346.** Youthful age, attire that maddens the world;
+at the splendour of His beauty millions of Madanas swoon.
+
+**347.** Beholding this beauty, his heart overflowed with bliss;
+crying, "What have I seen!" he falls to the ground.
+
+**348.** Abundant horripilation, his eyes swimming in tears,
+he sings the virtues of Sri Radha-ramana — Gorachand.
+
+**349.** Whatever desire arises in Sri Gopala Bhatta's heart,
+Sri Radha-ramana fulfils it that very moment.
+
+**350.** Known to the world is this incomparable relationship:
+Sri Radha-ramana is the Lord of Gopala's life.
+
+**351.** Having darshan of such a Radha-ramana,
+Srinivasa fell to the ground, bowing down.
+
+**352.** He is bathed in tears and cannot be calm;
+so many words from the depths of his heart rise within him!
+
+**353.** Surrendering himself to Sri Radha-ramana,
+he gazed on Him for a while, holding himself steady.
+
+**354.** Sri Jiva Gosvami, taking his dear Srinivasa
+and bowing to Sri Radha-ramana, went
+
+**355.** to Lokanatha and Bhugarbha Gosvami
+and told them of Srinivasa's coming.[^04-37]
+
+**356.** Though the hearts of both were in great distress,
+hearing that Srinivasa had come, they rejoiced.
+
+**357.** Srinivasa bowed at the feet of both,
+and both embraced him with great tenderness.
+
+**358.** In loving rapture they could not let him out of their arms
+and bathed Srinivasa in tears.
+
+**359.** They entrusted him to the lotus feet of Sri Radha-vinoda;
+both showed Srinivasa great mercy.
+
+**360.** What was Srinivasa's loving rapture
+at the darshan of Sri Radha-vinoda — who will describe it?
+
+**361.** Then Sri Jiva, taking Srinivasa,
+went for the darshan of Gopinatha.
+
+**362.** Srinivasa, at the darshan of Sri Gopinatha,
+lost his composure; streams flowed from both his eyes.
+
+**363.** There Sri Paramananda and Sri Madhu Pandita —
+all rejoiced on seeing Srinivasa.[^04-38]
+
+**364.** The affection they showed cannot be described.
+From there he went and saw Madana-mohana.
+
+**365.** Srinivasa, beholding Madana-mohana,
+cannot keep his composure: his heart overflows with love.
+
+**366.** Again and again he bows to Madana-gopala;
+tears run down his face and chest.
+
+**367.** After a while Srinivasa grew calm;
+Sri Jiva Gosvami introduced him to everyone.
+
+**368.** Krishnadasa Brahmachari and all the others,[^04-39]
+in loving rapture, embraced him tightly.
+
+**369.** Srinivasa bowed at everyone's feet,
+and all showed Srinivasa great mercy.
+
+**370.** For the darshan of the samadhi of Sanatana Gosvami
+everyone took Srinivasa.
+
+**371.** Seeing the samadhi of Sanatana Gosvami,
+Srinivasa fell and rolled on the ground.
+
+**372.** What became of Srinivasa cannot be described;
+at Srinivasa's weeping everyone weeps.
+
+**373.** All, with great tenderness for Srinivasa,
+consoled him with sweet words.
+
+**374.** Sri Jiva Gosvami, taking Srinivasa,
+came to his own residence in great joy.
+
+**375.** "Tomorrow morning Sri Gosani will make Srinivasa his disciple,"
+he announced everywhere.
+
+**376.** Srinivasa praised his own good fortune
+and spent that day in various discussions.
+
+**377.** The next day, having bathed, Srinivasa
+went with Sri Jiva to the Gosvami.
+
+**378.** There the Bhatta Gosvami, full of supreme love,
+was performing the service of Radha-ramana.
+
+[^04-1]: Vamshivadana (Vamshi-vadana Thakura) — an associate of the Lord who, after Mahaprabhu's sannyasa, served Vishnupriya in Navadvipa.
+[^04-2]: Vishnupriya — the consort of Sri Chaitanya; Narahari calls her Ishvari ("the Mistress").
+[^04-3]: As befits a chaste lady, Vishnupriya does not show herself to Srinivasa but speaks while remaining concealed.
+[^04-4]: After each round of names Vishnupriya set aside one grain of rice; the rice of these grains she cooked and offered to the Lord, eating only a little of it.
+[^04-5]: Advaita had already disappeared by this time (BR 3.330); here He appears to Srinivasa.
+[^04-6]: Madana-gopala — the Deity of Advaita Acharya at Shantipura.
+[^04-7]: Parameshvari (Parameshvara) Dasa — one of the twelve gopalas, an associate of Nityananda (CC Adi 11).
+[^04-8]: Vasudha and Jahnava are the consorts of Nityananda; Virabhadra (Virachandra) is His son.
+[^04-9]: Virloka — so in the editions; apparently a locality near Khanakula (the 1960 edition puts the word in quotation marks as a name).
+[^04-10]: Khanakula-Krishnanagara on the Dvarakeshvara river — the seat of Abhirama Thakura and his Deity Gopinatha.
+[^04-11]: Abhirama Thakura (Rama Dasa) — one of the twelve gopalas; in Krishna's pastimes the cowherd boy Shridama (GGD).
+[^04-12]: A kard (kara) is a counting unit of small cowrie shells: Abhirama gave him a trifling sum.
+[^04-13]: The Darukeshvara (Dvarakeshvara) is the river on which Khanakula stands.
+[^04-14]: Abhirama's whip Jayamangala: according to tradition, whoever Abhirama touches with it obtains prema (cf. PV).
+[^04-15]: Agrahayana (Margashirsha) — November–December.
+[^04-16]: Agradvipa — a village on the Ganges, the place of Govinda Ghosha; Kantaka-nagara is Katwa, where the Lord accepted sannyasa (CB Madhya 28; CC Adi 17).
+[^04-17]: Maudeshvara — a Shiva temple in Birbhum, on the road to Ekachakra.
+[^04-18]: Kundali-damana ("the subduing of the serpent") — the place where, according to local tradition, Nityananda subdued a serpent.
+[^04-19]: Ekachakra (Birbhum) — the birthplace of Nityananda; Hadai Ojha (Hadai Pandita) is His father.
+[^04-20]: At Gaya the Lord met Ishvara Puri and received initiation from him (CB Adi 17; CC Adi 17).
+[^04-21]: Chandrashekhara — a vaidya (according to the CC, a scribe) of Kashi in whose house the Lord stayed (CC Madhya 17, 20, 25). Only Narahari mentions his disciple.
+[^04-22]: Vishrama-ghata — the principal ghat on the Yamuna at Mathura, where, according to tradition, Krishna rested after killing Kamsa.
+[^04-23]: In Narahari's account Srinivasa reaches Vraja after Sanatana and Rupa have already disappeared; Kashishvara and Raghunatha Bhatta have also departed.
+[^04-24]: The Nava-padya — a collection of verses by Nrisimha Kaviraja, a disciple of Srinivasa (cf. 3.78).
+[^04-25]: Couplet 232a is absent in the 1960 edition; it is present in the editions of 1888 and 1912/13.
+[^04-26]: Gopala Bhatta's Deity Radha-ramana appeared from a shalagrama on the Vaishakha full moon (below, 4.316–326); the anniversary of that appearance is meant here.
+[^04-27]: Krishna Pandita — according to Narahari, an associate of the Lord and at that time the chief servant (adhikari) of the Govinda temple in Vrindavana.
+[^04-28]: Radha-Damodara — the Deity of Jiva Gosvami in Vrindavana.
+[^04-29]: The Sadhana-dipika of Radha-Krishna Gosvami (cf. BR 2.473–483).
+[^04-30]: That is, on the second lunar day after the Vaishakha full moon.
+[^04-31]: According to tradition, the Lord told Gopala Bhatta to serve shalagramas and promised to appear to him from a shalagrama.
+[^04-32]: Traditionally it is said that Radha-ramana has the face of Govinda, the chest of Gopinatha and the feet of Madana-mohana.
+[^04-33]: The Sadhana-dipika of Radha-Krishna Gosvami.
+[^04-34]: Manohara Raya (Manohara Dasa) — a disciple in the line of Srinivasa Acharya; the Madana-raga-valli is a Bengali work.
+[^04-35]: The verse number is given in the 1912/13 edition. According to the GGD, Gopala Bhatta is Ananga-manjari (Radha's younger sister), and in the opinion of some, Guna-manjari.
+[^04-36]: On young Gopala's service to the Lord in the house of his father Venkata Bhatta at Srirangam, see BR 1.
+[^04-37]: Lokanatha Gosvami and Bhugarbha Gosvami; Radha-vinoda is Lokanatha's Deity.
+[^04-38]: Paramananda Bhattacharya and Madhu Pandita — the servants of Gopinatha (BR 2.473–483).
+[^04-39]: Krishnadasa Brahmachari — the servant of Madana-mohana.
