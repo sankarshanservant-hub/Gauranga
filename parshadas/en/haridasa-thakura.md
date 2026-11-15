@@ -679,8 +679,8 @@ to spread the name, and He accomplishes this, His own work, through you. <…> Y
 (*achara*) and preaching (*prachara*). You are the guru of all; you are the noblest in the world.’” (CC, Antya 4.99–100,
 103) <!-- F106 F107 Q12 -->
 
-When the Lord praised Sanatana, Haridasa understood that these praises were only an outward show by which the Lord was
-testing them. The Lord said to them, “Listen, Haridasa and Sanatana! <…> I regard you all as My children,” and a mother
+When the Lord praised Sanatana, Haridasa said that these praises were only an outward play by which the Lord was testing
+them. The Lord answered them, “Listen, Haridasa and Sanatana! <…> I regard you all as My children,” and a mother
 feels no disgust for her child (CC, Antya 4.183–187). Haridasa replied:
 
 “‘You are the Lord, full of mercy. No one can understand Your deep heart. Vasudeva was a leper with oozing sores, his
@@ -692,8 +692,7 @@ Nilachala, and they spoke endlessly of the Lord.[^33] <!-- F108 Q12 -->
 
 ## Talks on the Holy Name
 In Siddha-bakula the Lord, to reveal the glory of the name to the world, questioned Haridasa. Once He asked how in the
-age of Kali the Yavanas would be delivered, who are strangers to the Vedas and do violence to cows and brahmanas. Haridasa
-replied:
+age of Kali the Yavanas would be delivered, who are strangers to the Vedas and do violence to cows and brahmanas.
 
 “Haridasa said, ‘Lord, do not worry. Do not grieve at the sight of the Yavanas' worldly bondage. All the Yavanas will
 attain liberation easily, for they say “ha rama, ha rama,” and so they utter the semblance of the name (*namabhasa*). In
@@ -773,8 +772,8 @@ So the Namacharya left this world — by his own will, with the Lord's name on h
 birth bowed to him and placed his feet on their heads: a Vaishnava is worthy of honour, whatever family he was born in.
 <!-- F118 I2 -->
 
-Svarupa Damodara and the devotees sang the name around his body, Vakreshvara Pandita danced, and the Lord took
-Haridasa's body in His arms and danced with it all around the courtyard (CC, Antya 11.48–49, 59). With this Kaviraja
+Svarupa Damodara and the devotees sang the name around Haridasa, Vakreshvara Pandita danced, and when Haridasa had gone,
+the Lord took his body in His arms and danced with it all around the courtyard (CC, Antya 11.48–49, 59). With this Kaviraja
 opens his account of Haridasa's departure:
 
 “I bow to Haridasa and to his Lord, Chaitanya, who took the body of the departed Haridasa on His lap and danced.” (CC,
