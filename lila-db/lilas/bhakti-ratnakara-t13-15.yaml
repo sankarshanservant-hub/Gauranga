@@ -826,3 +826,295 @@
   themes: [author]
   verses:
     - {file: "bhakti-ratnakara/ru/14.md", from: "214", to: "231"}
+
+# ---------- Таранга 15 ----------
+
+- id: brt-8045
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 1–12"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.0
+  title: "Мангала пятнадцатой таранги"
+  summary: "Слава Гауре, Нитьянанде, Адвайте, Гададхаре, длинному перечню спутников Господа, Госвами, Кришнадасу Кавирадже, Вриндавану Дасу, а также Шринивасе, Нароттаме, Рамачандре и Шьямананде; призыв к слушателям."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@shyamananda"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "1", to: "12"}
+
+- id: brt-8046
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 13–17"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.01
+  title: "Письмо Шьямананды Шринивасе и ответ Ачарьи"
+  summary: "Когда Шриниваса рассказывает спутникам о деяниях Шьямананды, приходят двое его учеников с письмом; Ачарья, обрадованный, являет им нежность и с ответным письмом отпускает их; Шьямананда, прочитав ответ, вне себя от радости."
+  persons: ["@srinivasa-acharya", "@shyamananda"]
+  places: ["#yajigrama"]
+  kind: post-advent
+  authority: B
+  notes: "Имена учеников не названы."
+  themes: [separation]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "13", to: "17"}
+
+- id: brt-8047
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 18–25"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.1
+  title: "Шьямананда идёт через Амбику в Уткалу; Дандешвар-Дхаренда и Раяни на Суварнарекхе"
+  summary: "Придя из Враджа в Гауду, Шьямананда через Амбику спешит в Уткалу, являет према-бхакти на родине в Дандешвар-Дхаренде и идёт в Раяни в Маллабхуми; у селения Суварнарекха течёт на север, рядом Барайита на реке Доланге, где Рама, сын Дашаратхи, установил Шиву Рамешвару и жил несколько дней с Джанаки и Лакшманой."
+  persons: ["@shyamananda", "@rama", "@sita-devi", "@lakshmana", "@shiva"]
+  places: ["#ambika-kalna", "#dandeshvara", "#dharenda", "#rohini-rayani", "#mallabhumi", "#suvarnarekha", "#barajita"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0143); «Нароттама-виласа» 3 (nvl-0024); «Расика-мангала» П3 (Рохини-махима: та же география)"
+  notes: "Описание места не дробится. Барайита — Бараджита (#barajita)."
+  themes: [pilgrimage]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "18", to: "25"}
+
+- id: brt-8048
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 26–53"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.2
+  title: "Расика Мурари: голос с неба, сон о Шьямананде, встреча на рассвете и посвящение"
+  summary: "Сын Ачьюты, праведного правителя Раяни, Расикананда (Мурари), сведущий в шастрах, служит родителям (мать — Бхавани, жена — Иччха) и живёт в Гханташиле, где отдыхали Пандавы; размышляя, у кого принять посвящение, он слышит голос с неба: «Ты станешь учеником Шьямананды», — и повторяет его имя как мантру; на исходе ночи Шьямананда во сне обещает прийти на рассвете; утром Расика видит его, идущего с Кишорадасом и другими учениками, с именами Чайтаньи и Нитьянанды на устах, и падает к его стопам; Шьямананда даёт ему мантру Радхи и Кришны и вверяет стопам Нитьянанды и Чайтаньи; Расика приводит гуру в Раяни; Шьямананда испытывает его и радуется его гуру-бхакти, принимает многих учеников."
+  persons: ["@rasikananda", "@achyutananda-rayani", "@shyamadasi", "@shyamananda", "@kishoradasa-shyamananda", "@mahaprabhu", "@nityananda"]
+  places: ["#rohini-rayani", "#ghatashila", "#suvarnarekha"]
+  kind: post-advent
+  authority: B
+  parallels: "«Расика-мангала» П14–П16, Д1; «Према-виласа» 19 (pvl-0143)"
+  divergence: "В «Расика-мангале» у Суварнарекхи Расике является Сам Кришна и называет его наставником Шьямананду; Шьямананда приходит из Враджа по велению Кришны, встреча — в Гхантшиле на собрании у раджи, посвящение — позже, в доме Расики; здесь — голос с неба, сон и встреча на рассвете с немедленным посвящением. В «Према-виласе» Расика и Мурари — двое сыновей раджи, здесь — два имени одного лица."
+  notes: "Имя матери Бхавани — также в «Расика-мангале» (П1)."
+  themes: [mercy, celestial]
+  event: ev-rasikananda-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "26", to: "53"}
+
+- id: brt-8049
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 54–58"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.3
+  title: "Йогин Дамодара становится учеником Шьямананды"
+  summary: "Уходя из Раяни с ближайшими спутниками, Шьямананда являет милость Дамодаре, практиковавшему йогу; тот, став учеником, непрестанно плачет, повторяя «Нитай, Чайтанья!», и танцует, восклицая: «Бхакти — превыше всего!»"
+  persons: ["@shyamananda", "@damodara-yogi"]
+  places: ["#rohini-rayani"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0144); «Расика-мангала» Д1 (посвящение йогина Дамодары Даса в Чакулии)"
+  divergence: "В «Према-виласе» Дамодара — ведантист, побеждённый в споре в Гопиваллабхапуре; в «Расика-мангале» — йогин из Чакулии, обращённый видением; здесь — кратко, без спора."
+  themes: [mercy]
+  teaching: [bhakti-supremacy]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "54", to: "58"}
+
+- id: brt-8050
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 59–79"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.31
+  title: "Баларампур и Дхаренда: празднество, ученики Шьямананды; пашанды, увидев его танец, предаются"
+  summary: "В Баларампуре Шьямананда являет невыразимую прему; с Кишорой, Мурари и Дамодарой устраивает великое празднество в Дхаренде; перечень его учеников (Радхананда, Пурушоттама, Манохара, Чинтамани, Балабхадра, Джагадишвара, Уддхава, Акрура, Мадхувана, Говинда, Джаганнатха, Гададхара, Анандананда, Радхамохана); песня о нём; однажды в санкиртане в Дхаренде, когда Кишора и другие поют о Гауре и Нитьянанде, пашанды-асуры, увидев танец Шьямананды, с плачем катаются по земле, молят о спасении, и он погружает их в према-бхакти; сбегаются тысячи людей."
+  persons: ["@shyamananda", "@kishoradasa-shyamananda", "@rasikananda", "@damodara-yogi"]
+  places: ["#bara-balarampura", "#dharenda"]
+  kind: post-advent
+  authority: B
+  parallels: "«Расика-мангала» Д4–Д5 (обращение правителей Дхаренды, Бхимы и Шрикары)"
+  notes: "Песня 67–70 — с подписью Гханашьямы Даса."
+  themes: [kirtan, mercy]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "59", to: "79"}
+
+- id: brt-8051
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 80–83"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.32
+  title: "Нрисимхапур и Гопиваллабхапур: Шьямананда вверяет служение Говинде Расике; Расика спасает разбойников и яванов"
+  summary: "Великое веселье Шьямананда являет в Нрисимхапуре, в Гопиваллабхапуре проливает дождь премы и вверяет Расике служение Шри Говинде; могущество Расикананды становится известно повсюду: по милости он спасает разбойников и пашандов, даёт бхакти яванам и странствует с учениками из селения в селение."
+  persons: ["@shyamananda", "@rasikananda", "@govinda-gopivallabhapura"]
+  places: ["#nrisimhapura", "#gopivallabhapura"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 19 (pvl-0143: Расике вручено служение Говинде в Гопиваллабхапуре); «Расика-мангала» Д3"
+  divergence: "В «Расика-мангале» (Д3) Шьямананда нарекает родовое Божество Расики «Гопиваллабха Рай» и ставит адхикари служения Шьямадаси, а явление Говинды только предсказывает."
+  themes: [deities, mercy]
+  event: ev-shyamananda-utkala
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "80", to: "83"}
+
+- id: brt-8052
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 84–86"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.4
+  title: "Расикананда делает учеником слона, натравленного злодеем; царь-явана склоняется"
+  summary: "Слона, которого натравил на него один злодей, Расикананда делает учеником и приставляет к служению Кришне и вайшнавам; сам злодей, царь-явана, склоняется перед ним; Расика, не думая о доме, спасает множество живых существ и всегда опьянён санкиртаной."
+  persons: ["@rasikananda"]
+  places: []
+  kind: miracle
+  authority: B
+  parallels: "«Расика-мангала» Пш8–Пш10"
+  divergence: "В «Расика-мангале» слон — дикий и бешеный, бесчинствующий в Банпуре, и Ахмед Бег сам зовёт Расику усмирить его как испытание; слону дано имя «Гопала Дас»; здесь слона натравил злодей."
+  themes: [mercy, muslims]
+  event: ev-rasikananda-elephant
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "84", to: "86"}
+
+- id: brt-8053
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 87–92"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.41
+  title: "Песня о Расике Мурари"
+  summary: "Песня Гханашьямы славит Расику Мурари: сострадательного сокрушителя скверны Кали, переполненного премой, размышляющего о стопах Шьямананды, для которого вся раса — Гаурачандра; деяниям Расикананды нет конца, поэты на разные лады поют о жизни Шьямананды."
+  persons: ["@rasikananda", "@shyamananda", "@mahaprabhu"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "87", to: "92"}
+
+- id: brt-8054
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 93–104"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.42
+  title: "Песня о жизни Шьямананды: Хридая Чайтанья в Амбике, путь во Врадж, Рагхунатха Дас и Джива, возвращение в Уткалу"
+  summary: "Песня Нарахари: Шьямананда, оставив дом, приходит в Амбику, падает к стопам Хридаи Чайтаньи, тот делает его учеником и вверяет Нитаю и Чайтанье; при отъезде во Враджа Они дают ему гирлянду-дозволение; в одиночку обойдя тиртхи, он видит Вриндаван, у Говардханы и Радха-кунды его милует Дас Госани, Джива принимает с отеческой любовью; обойдя двенадцать лесов и изучив книги, он через Гауду и Амбику по повелению Госвами поселяется в Уткале и опьяняет пашандов качествами Горы."
+  persons: ["@shyamananda", "@hridaya-chaitanya", "@raghunatha-dasa", "@jiva-gosvami", "@gaura-nitai-ambika"]
+  places: ["#ambika-kalna", "#vrindavana", "#govardhana", "#radha-kunda"]
+  kind: post-advent
+  authority: B
+  parallels: "Пада pad-0559; «Према-виласа» 12 (ev-shyamananda-initiation-ambika, ev-shyamananda-comes-to-vrindavana); «Расика-мангала» П2"
+  notes: "Песня-пересказ (бханита Нарахари)."
+  themes: [pilgrimage, mercy]
+  event: ev-shyamananda-initiation-ambika
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "93", to: "104"}
+
+- id: brt-8055
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 105–108"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 103.43
+  title: "Песня о Духкхи Кришнадасе: ножной браслет Раи и имя «Шьямананда»"
+  summary: "Песня славит Духкхи Кришнадаса, чей ум — пчела у стоп Хридаи Чайтаньи: во Вриндаване, в новой роще, он нашёл ножной браслет Раи, и там стало известно имя «Шьямананда»; он погрузил неразумных людей Уткалы в расу премы к Гауре."
+  persons: ["@shyamananda", "@hridaya-chaitanya", "@radha"]
+  places: ["#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "Пада pad-0560; «Према-виласа» 12 (ev-shyamananda-nupura)"
+  themes: [krishna-lila, mercy]
+  event: ev-shyamananda-nupura
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "105", to: "108"}
+
+- id: brt-8056
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 109–112"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 112.7
+  title: "Переход к ветвям Шринивасы и Нароттамы"
+  summary: "Жизнь Шьямананды изложена кратко из-за объёма книги; он осчастливил Уткалу, и Гауда возрадовалась; любимые ученики Шринивасы и Нароттамы искусны в даровании бхакти — автор расскажет немного об их ветвях и ответвлениях."
+  persons: ["@shyamananda", "@srinivasa-acharya", "@narottama-dasa"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "109", to: "112"}
+
+- id: brt-8057
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 113–120"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 112.71
+  title: "Ветвь Шринивасы: Рамачандра Кавираджа и его ученик Харирама Ачарья"
+  summary: "Любимейший ученик Шринивасы — Рамачандра Кавираджа; его ученик Харирама Ачарья раздаёт према-бхакти Чайтаньи, всегда охвачен санкиртаной; песня славит его победы над асурами, отвернувшимися от Господа, служение вайшнавам, изложение «Бхагаваты» и Кришна-рая — его жизнь."
+  persons: ["@srinivasa-acharya", "@ramachandra-kaviraja", "@harirama-acharya"]
+  places: []
+  kind: post-advent
+  authority: B
+  parallels: "Пада pad-0562; «Нароттама-виласа» 10 (nvl-0058); «Према-виласа» 14 (ev-harirama-ramakrishna-conversion)"
+  notes: "Кришна-рай — по-видимому, Божество Харирамы (сноска перевода)."
+  themes: [mercy, kirtan]
+  event: ev-srinivasa-disciples
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "113", to: "120"}
+
+- id: brt-8058
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 121–127"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 115.1
+  title: "Ветвь Нароттамы: Рамакришна Ачарья"
+  summary: "Ученик Нароттамы Рамакришна Ачарья — великий пандит, богатый бхакти, ласковый к бедным, опровергающий учения пашандов; песня славит его как украшение рода брахманов, искусного проповедника, служителя Божества Мохана-рая, для которого стопы Нароттамы — всё достояние."
+  persons: ["@narottama-dasa", "@ramakrishna-acharya"]
+  places: []
+  kind: post-advent
+  authority: B
+  parallels: "Пада pad-0570; «Нароттама-виласа» 12 (nvl-0068)"
+  themes: [mercy, learning]
+  event: ev-narottama-branches
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "121", to: "127"}
+
+- id: brt-8059
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 128–134"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 115.11
+  title: "Ветвь Нароттамы: Ганганараяна Чакраварти"
+  summary: "Ученик Нароттамы Ганганараяна Чакраварти чрезвычайно учён, опровергает учения пашандов и являет бхакти, день и ночь опьянён санкиртаной; песня славит его как светоч мира, преданного стопам Нароттамы, для которого Божество Говинды — жизнь и богатство."
+  persons: ["@narottama-dasa", "@ganganarayana-chakravarti"]
+  places: []
+  kind: post-advent
+  authority: B
+  parallels: "Пада pad-0569; «Нароттама-виласа» 12 (nvl-0068); «Према-виласа» 17 (ev-ganganarayana-conversion)"
+  themes: [learning, kirtan]
+  event: ev-narottama-branches
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "128", to: "134"}
+
+- id: brt-8060
+  source: bhakti-ratnakara
+  ref: "Таранга 15, 135–137 и колофон"
+  file: "bhakti-ratnakara/ru/15.md"
+  period: P15
+  order: 115.12
+  title: "Заключение, подпись автора и колофон пятнадцатой таранги"
+  summary: "Ветви и ответвления Шринивасы и Нароттамы по милости уничтожают несчастья живых существ; удачливые опишут их подробно; подпись Нарахари Даса; колофон: «Описание жизни Шри Шьямананды и других»."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@shyamananda"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/15.md", from: "135", to: "137"}
