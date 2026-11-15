@@ -3755,7 +3755,7 @@
 - karnapura-ckm (A): Сарга 15, 71–77 — [71–77](../karnapura-mahakavya/ru/15.md?plain=1#L1558-L1691) · `kcm-0148`
 - murari-kcc (A): Пракрама 4, сарга 20, шлоки 5–9 — [5–9](../murari-gupta/ru/4.20.md?plain=1#L13-L21) · `mkc-0241`
 - cc (A): Мадхья 1.121–126 — [121–126](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya01.md?plain=1#L1261-L1311) · `cc-0324`
-- chaitanya-chandrodaya (A): Акт 10, праздник омовения, ст. 10–18 — [*(Входят царь, находящийся на террасе дв–> с благоговением образуют вокруг него к](../chaitanya-chandrodaya/ru/10.md?plain=1#L312-L418) · `ccd-0093`
+- chaitanya-chandrodaya (A): Акт 10, праздник омовения, ст. 10–18 — [*(Входят царь, находящийся на террасе дв–> с благоговением образуют вокруг Него к](../chaitanya-chandrodaya/ru/10.md?plain=1#L312-L418) · `ccd-0093`
 - chaitanya-chandrodaya (A): Акт 10, анавасара, ст. 19–27 — [> **19.** Когда Господь вселенной вступи–*(Оглядывается кругом.)*](../chaitanya-chandrodaya/ru/10.md?plain=1#L422-L527) · `ccd-0094`
 
 ## Пратапарудра с крыши дворца смотрит на приход бенгальских вайшнавов / Prataparudra watches the arrival of the Bengali Vaishnavas from the palace roof  `ev-prataparudra-watches-devotees-roof` (1512–1514, возраст 26–28, оценка)
