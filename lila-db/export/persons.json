@@ -4410,6 +4410,10 @@
     "type": "companion"
    },
    {
+    "from": "@vasudeva-vipra",
+    "type": "met"
+   },
+   {
     "from": "@vishnupriya",
     "type": "spouse"
    }
@@ -15401,6 +15405,10 @@
    {
     "from": "@vakreshvara",
     "type": "companion"
+   },
+   {
+    "from": "@vasudeva-vipra",
+    "type": "other"
    }
   ]
  },
@@ -16077,6 +16085,10 @@
    },
    {
     "from": "@svarupa-damodara",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-vipra",
     "type": "other"
    },
    {
@@ -19510,6 +19522,10 @@
    {
     "from": "@vallabha-bhatta",
     "type": "other"
+   },
+   {
+    "from": "@vasudeva-vipra",
+    "type": "other"
    }
   ]
  },
@@ -21033,6 +21049,10 @@
    },
    {
     "from": "@srivasa",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-vipra",
     "type": "other"
    }
   ]
@@ -22904,6 +22924,10 @@
     "type": "other"
    },
    {
+    "from": "@vasudeva-vipra",
+    "type": "other"
+   },
+   {
     "from": "@yamunacharya",
     "type": "other"
    }
@@ -23189,6 +23213,10 @@
    },
    {
     "from": "@svarupa-damodara",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-vipra",
     "type": "other"
    },
    {
@@ -26116,6 +26144,12 @@
   ],
   "events": [
    "ev-kurma-vasudeva"
+  ],
+  "related_by": [
+   {
+    "from": "@vasudeva-vipra",
+    "type": "friend"
+   }
   ]
  },
  {
@@ -26138,6 +26172,92 @@
   "events": [
    "ev-kurma-vasudeva",
    "ev-sanatana-puri-sores"
+  ],
+  "summary": "происхождение — Курма-кшетра (Шрикурмам)",
+  "card": "parshadas/cards/vasudeva-vipra.yaml",
+  "article": {
+   "ru": "parshadas/ru/vasudeva-vipra.md",
+   "en": "parshadas/en/vasudeva-vipra.md"
+  },
+  "kind": "associate",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "источники не сообщают; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": []
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "источники об уходе ничего не сообщают; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет",
+    "facts": []
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "met",
+    "who": "@mahaprabhu",
+    "note": "Опоздал к уходу Господа и упал без чувств; Господь вернулся (ЧЧ: «тут же пришёл») и обнял его — проказа исчезла; молился не об исцелении, а о том, чтобы не возгордиться; Господь велел ему стать ачарьей и наставлять в имени Кришны (ЧЧ Мадхья 7.136–150). За это Господь — «Васудевамрита-прада». Ход встречи у Мурари, Карнапуры, в ЧЧН, ГКД и у Лочана различается (⚠5)."
+   },
+   {
+    "type": "friend",
+    "who": "@kurma-vipra",
+    "note": "Брахман из той же местности, в чьём доме остановился Господь; после ухода Господа оба обнялись и плакали, вспоминая Его милость (ЧЧ Мадхья 7.149). У Мурари и Лочана Господь наставляет обоих вместе. Другое лицо — не путать."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Напомнил Господу о Его милости к Васудеве, когда Господь обнимал Санатану (ЧЧ Антья 4.189–190). = @sanatana-gosvami F299."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Пример Васудевы приведён в связи с язвами Санатаны; ответ Господа — тело вайшнава не мирское (ЧЧ Антья 4.191)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Имя Господа «Васудевамрита-прада» — среди «ста имён Шри Чайтаньи» Сарвабхаумы («Амрита-праваха-бхашья» к Мадхья 7.150); в ЧЧН 7 рассказ о Васудеве слушают Сарвабхаума и царь."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "В ЧЧН 7 слушает рассказ и заключает: такое милосердие — только у Ишвары."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Мадхья 7.113, 7.130, 7.152 (Курмачала; наставление «оставайся дома» — к Курме, ⚠9; пробуждённые дживы становятся ачарьями); изложение к Шеша-кханде Лочана; «The Harmonist» 1928 (под его редакцией)."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja",
+    "note": "Основной рассказ — ЧЧ Мадхья 7.136–151."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "«Кадача» 3.14.17–20."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura",
+    "note": "Махакавья 12.106–113; «Чайтанья-чандродая», акт 7."
+   },
+   {
+    "type": "other",
+    "who": "@lochana-dasa",
+    "note": "Шеша-кханда, «Странствие Господа по Югу», 1–14 (проказа не названа)."
+   },
+   {
+    "type": "other",
+    "who": "@vasudeva-datta",
+    "note": "Тёзка, не путать (B 853–857)."
+   }
   ],
   "related_by": [
    {
@@ -27763,6 +27883,10 @@
    {
     "from": "@srivasa",
     "type": "friend"
+   },
+   {
+    "from": "@vasudeva-vipra",
+    "type": "other"
    }
   ]
  },
@@ -32166,6 +32290,10 @@
    },
    {
     "from": "@vasu-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-vipra",
     "type": "other"
    },
    {
@@ -38704,6 +38832,10 @@
     "type": "other"
    },
    {
+    "from": "@vasudeva-vipra",
+    "type": "other"
+   },
+   {
     "from": "@yamunacharya",
     "type": "other"
    }
@@ -42580,6 +42712,10 @@
    },
    {
     "from": "@vasu-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@vasudeva-vipra",
     "type": "other"
    },
    {
