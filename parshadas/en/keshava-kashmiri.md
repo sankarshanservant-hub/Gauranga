@@ -137,7 +137,7 @@ He offended no one, and the scholars of Navadvipa loved Him. <!-- F23 -->
 
 This was no worldly contest of learning. Krishnadasa Kaviraja opens the chapter by saying that Sarasvati honoured the
 youthful Chaitanya, taking His victory over the digvijayi as her occasion (CC Adi 16.3). Sarasvati herself made the
-shloka imperfect, and the Lord, having prevailed, did not humiliate the defeated man. His victory was mercy.
+shloka imperfect, and the Lord, having prevailed, did not humiliate the defeated man. His victory was mercy. <!-- F45 -->
 
 But Keshava did not yet know this. Deeply ashamed and in great sorrow he thought: “I have defeated matchless masters of
 the six darshanas — Nyaya, Sankhya, Yoga, Mimamsa, Vaisheshika and Vedanta — and today by ill fate I am beaten by a
@@ -352,7 +352,7 @@ the Lord defeats is not humiliated but set free. <!-- I1 I4 -->
     stood beside Vallabha, and neither could read the handwriting of the Svamini, Sri Radha, in the book
     “Krishna-premamrita”; Vallabha gave the book to Krishna-Chaitanya and not to Keshava. This is a tradition of the
     Pushti-marga, formed in another school. For the Gaudiya Vaishnavas Mahaprabhu is Krishna Himself in the mood
-    with the complexion of Radha, and we do not include this story in his life.
+    and with the complexion of Radha, and we do not include this story in his life.
 [^12]: One of the biographies allows that the author of the “Krama-dipika” may be another, earlier person. Srila
     Bhaktisiddhanta in one place doubts that the Keshava Bhatta of the “Hari-bhakti-vilasa” belonged to Nimbarka's
     line (on CB Adi 13.19), while elsewhere he names Keshava Kashmiri outright as the compiler of the “Krama-dipika”
