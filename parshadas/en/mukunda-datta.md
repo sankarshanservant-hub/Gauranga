@@ -111,7 +111,7 @@ That wish was very soon fulfilled. <!-- F13 -->
 
 ## The Singer of the Kirtanas
 The Lord returned from Gaya transformed. Though He is the Lord of all, He had enacted there the pastime of taking
-initiation from Ishvara Puri in order to teach the world — and from a pandita proud of his learning He became a seeker of
+initiation from Ishvara Puri in order to teach the world — and from a pandita seemingly proud of His learning He became a seeker of
 Krishna: now weeping in separation, asking, “Where is Krishna?”, now jubilant. The devotees were overjoyed and gathered
 round Him every day, and nearly all the verses of bhakti sung before the Lord in those days were sung by Mukunda. His
 singing deepened the Lord's feelings, and He asked for more and more:
@@ -297,7 +297,7 @@ all these are learned men of the highest greatness, and service to Chaitanya mak
 
 ## Before the Sannyasa
 Mukunda was so close to the Lord that he was among the five to whom the Lord disclosed in advance His decision to take
-sannyasa: “You may tell this to five only: My mother, Gadadhara, Brahmananda Bharati, Chandrashekhara Acharya and
+sannyasa. The Lord said to Nityananda: “You may tell this to five only: My mother, Gadadhara, Brahmananda Bharati, Chandrashekhara Acharya and
 Mukunda” (CB, Madhya 28.11–12). The Lord was leaving home to free a multitude of people from the bonds of worldly life,
 but for Mukunda the news was a deep wound. Vrindavana Dasa tells how the Lord came to his house and asked, “Sing of
 Krishna's glory.” Mukunda sang; the Lord, overwhelmed with feeling, cried, “Sing! Sing!” — and then, recovering Himself,
@@ -382,13 +382,13 @@ and the mahakavya says that together with Mukunda Datta and others the Lord behe
 <!-- F41 F44 -->
 
 ## In Puri
-At first Sarvabhauma spoke of the Lord as a mayavadi would, while Gopinatha argued against him. Mukunda was saddened (CC,
-Madhya 6.77): “Mukunda was pleased with the Acharya's conclusions, but the Bhattacharya's words filled him with sorrow and
+At first Sarvabhauma reasoned about the Lord as a mayavadi would, while Gopinatha argued against him. Mukunda was saddened (CC,
+Madhya 6.77); “Mukunda was pleased with the Acharya's conclusions, but the Bhattacharya's words filled him with sorrow and
 anger” (6.113). Together with Gopinatha he reported them critically to the Lord, but the Lord stopped them: “Do not speak
 like that. The Bhattacharya is kind to Me” (6.115–116). Srila Bhaktisiddhanta remarks that Mukunda's anger at the
 Bhattacharya's mayavada words was itself his mercy to him. <!-- F42 -->
 
-When Sarvabhauma was transformed, he wrote two verses about the Lord on a palm leaf and sent them with Jagadananda
+When Sarvabhauma had become the Lord's devotee, he wrote two verses about the Lord on a palm leaf and sent them with Jagadananda
 together with prasada. Mukunda managed to intercept the leaf:
 
 “The two came to the Lord with the prasada and the letter, and Mukunda Datta, finding the letter in Jagadananda's hand,
@@ -488,7 +488,7 @@ Mukunda names him to the Lord. And once Jagadananda, Svarupa Damodara, Govinda, 
 Mukunda, coming to bathe in the sea, heard from afar the singing of Junior Haridasa, who had already left this world
 (Antya 2.153–154). <!-- F56 F57 -->
 
-The Lord Himself named Mukunda when He told Vallabha Bhatta from whom He had learned bhakti:
+The Lord Himself named Mukunda when, in His humility, He told Vallabha Bhatta from whom He had learned bhakti:
 
 “Acharyaratna, Acharyanidhi, Gadadhara Pandita, Jagadananda, Damodara, Shankara, Vakreshvara, Kashishvara, Mukunda,
 Vasudeva, Murari and all the other devotees who descended in Gauda have preached the name of Krishna and prema
