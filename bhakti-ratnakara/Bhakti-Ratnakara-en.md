@@ -44,6 +44,10 @@ notes at the end of each taranga.
 - Taranga 9. Srinivasa's Second Journey to Vrindavana and the Festivals at Katwa, Yajigrama and Shrikhanda
 - Taranga 10. The Great Festival at Kheturi and Jahnava's Journey to Vrindavana
 - Taranga 11. Ishvari Jahnava's Journey to Vrindavana and Her Return
+- Taranga 12. The Circuit of Sri Navadvipa and Other Matters
+- Taranga 13. Srinivasa Acharya's Marriage and Other Events
+- Taranga 14. Srimad Acharya's Travels to the Homes of His Disciples, and Other Events
+- Taranga 15. The Lives of Sri Shyamananda and Others
 
 ---
 
@@ -33222,3 +33226,16981 @@ Narahari Dasa tells the *Bhakti-ratnakara*.
 [^11-91]: Prabhugaṇa-ceṣṭā, lit. "the deeds of the Lord's company": perhaps the deeds of Nityananda and His associates at Uddharana's house are meant.
 [^11-92]: Ganga is Nityananda's daughter, Virachandra His son; their mother is Vasudha (Sri Vasu[dha], 785–786).
 [^11-93]: The Deity of Sri Radha for Gopinatha in Vrindavana, which Jahnava had already entrusted to Nayana Bhaskara in Vrindavana (244–245); cf. Srinivasa's words at 716–717.
+
+---
+
+# Taranga 12. The Circuit of Sri Navadvipa and Other Matters
+
+*Srinivasa, Narottama and Ramachandra go to Navadvipa; the glory of Navadvipa and its nine islands; the guide Ishana; Mayapura, Mishra's house and the Lord's birth; childhood pastimes, study, the upanayana; the marriages with Lakshmi and Vishnupriya; Ishvara Puri and the Lord's self-revelation; Nityananda and Advaita; kirtan at Srivasa's house, Jagai and Madhai, the Kazi; the pastimes of Navadvipa in songs; Shantipura, Khardaha, Nityananda's marriage; Srinivasa's visions in dreams*
+
+**1.** Glory to Gaurachandra, the husband of Lakshmi and Vishnupriya!
+Glory to Nityananda, the life of Vasu and Jahnava![^12-1]
+
+**2.** Glory to Advaita Ishvara, the lord of Sri Sita!
+Glory to Srivasa Pandita, to Gadadhara!
+
+**3.** Glory, glory to Gadadhara Dasa, to Narahari!
+Glory to Vakreshvara, glory to Sri Murari Gupta!
+
+**4.** Glory to Jagadisha, to Sri Svarupa Damodara!
+Glory to Haridasa, to Shuklambara Brahmachari!
+
+**5.** Glory to Pundarika Vidyanidhi, full of prema!
+Glory to Vasudeva Ghosha, to Mukunda, to Sanjaya!
+
+**6.** Glory to Raya Ramananda, noble in every virtue!
+Glory to Vasudeva Sarvabhauma Bhattacharya!
+
+**7.** Glory to Jagannatha Mishra, to Vidyavachaspati!
+Glory to Sri Vijaya, to Vanamali, the very wise!
+
+**8.** Glory to Kashi Mishra, to Sri Gopinatha Acharya!
+Glory to Sri Mukunda, the father of Raghunandana!
+
+**9.** Glory to Sri Pandita Gadadhara, to Dhananjaya!
+Glory, glory to the merciful Sri Vamshivadana!
+
+**10.** Glory to Sanatana, to Rupa, the crown of rasikas!
+Glory to Sri Gopala Bhatta, the ocean of virtues!
+
+**11.** Glory to Sri Bhugarbha, to Lokanatha, the friend of the wretched!
+Glory to Raghunatha, to Raghunatha, the ocean of mercy![^12-2]
+
+**12.** Glory, glory to Sri Raghava, dear to Sri Prabhu!
+Glory, glory to Sri Hridaya Chaitanya Thakura!
+
+**13.** Glory, glory to Sri Jiva, to Sri Dasa Vrindavana!
+Glory to Krishnadasa, to Sri Gopala, to Narayana![^12-3]
+
+**14.** Glory, glory to Srinivasa, dear to the Lord's company!
+Glory to Narottama Dasa, full of prema for the Lord!
+
+**15.** Glory, glory to Ramachandra, the giver of prema for the Lord!
+Glory to Shyamananda, the life of all Vaishnavas!
+
+**16.** Glory, glory to the listeners, the abode of virtues!
+Now listen with kind hearts to what I tell.
+
+**17.** When Sri Jahnava Ishvari went to Sri Khardaha —
+what do I know, that I could tell how distraught everyone was?
+
+**18.** From Yajigrama Srinivasa Acharya Thakura
+sent all this news to Vishnupura.
+
+**19.** Shridasa, Gokulananda and other disciples
+he left in Yajigrama for the study of the shastras.
+
+**20.** To all he speaks very sweet words:
+"From Navadvipa I will soon come back here.
+
+**21.** King Hambira will soon come here
+from Vana-Vishnupura — I have written [to him] in a letter."
+
+**22.** Having said much of this kind to the disciples, Sri Acharya
+set out from Yajigrama at an auspicious moment.
+
+**23.** First he went to Sri Raghunandana in Shrikhanda
+and told him of his going to Navadvipa.
+
+**24.** He tenderly took Srinivasa aside;
+I do not know what [they] said — [both] were drenched with tears.
+
+**25.** In sending [him] off, [Raghunandana's] heart was utterly unsteady;
+Srinivasa bowed down and took his leave.
+
+**26.** Taking both Narottama and Ramachandra with him,
+he goes to Navadvipa, deeply absorbed in prema.
+
+**27.** Coming near Navadvipa,
+he gazes toward Navadvipa with tear-filled eyes.
+
+**28.** He longs for many eyes to behold Navadvipa;
+his body goes limp — he cannot hold it up.
+
+**29.** Again and again he bows down to the land of Navadvipa;
+he cannot restrain himself — streams of tears flow from his eyes.
+
+**30.** Seeing the beauty of the Ganga at Navadvipa,
+he describes the good fortune of Bharata-varsha.
+
+**31.** The Ganga and other great rivers are in Bharata-varsha;
+and the *Bhagavata* praises Bharata-varsha.
+
+**32.** Among the divisions of Bharata-varsha is Sri Navadvipa;
+the *Sri Vishnu Purana* establishes this in detail.
+
+**33.** *Thus [it is said] in the Sri Vishnu Purana:*
+*"Hear of the nine divisions of this land of Bharata:*
+*Indradvipa, Kaseru, Tamraparna, Gabhastiman,*[^12-4]
+
+**34.** *and also Nagadvipa, Saumya, Gandharva and Varuna;*
+*and the ninth of them is this island lying by the ocean.*
+
+**35.** *This island [extends] a thousand yojanas from south to north."*
+
+**36.** *"Sagara-sambhuta" means "situated at the edge of the ocean" — such is the explanation of Shridhara Svami. Since a separate name of this ninth [island] is not given, it is understood that by name, too, this is Navadvipa.*[^12-5]
+
+**37.** This is the special [meaning] proclaimed about it in the *Vishnu Purana*:
+such is the glory of Nadia, which contains all the dhamas.
+
+**38.** *Thus [it is said] in the Sri Gaura-ganoddesha-dipika:*
+*"That which the many-knowing knowers of rasa call Sri Vrindavana, which some other people call this Goloka,*
+*and others the White Island, and even the supreme Paravyoma —*
+*that is this Navadvipa, whose glory in the world surpasses every wonder."*[^12-6]
+
+**39.** Thus the name "Navadvipa" is famed in the world:
+[here] the nine kinds of bhakti — hearing and the rest — shine.[^12-7]
+
+**40.** The nine kinds of bhakti — hearing, chanting and the rest —
+see in the *Sri Bhagavata*, in the Seventh Canto, in Prahlada's words.
+
+**41.** *Thus [it is said] in the Srimad-Bhagavatam, in the Seventh Canto (7.5.23–24), — the words of Prahlada:*
+*"Hearing about Vishnu, chanting, remembering, serving the feet,*
+*worship, offering prayers, servitude, friendship and offering of the self —*
+
+**42.** *if a person performs such bhakti of nine characteristics,*
+*offered to Vishnu, directly to Bhagavan, that I consider the highest learning."*
+
+**43.** Or else: in Sri Navadvipa are the names of nine islands,
+separate, separate — yet [it all] is one settlement.
+
+**44.** At the beginning of the Satya, Treta, Dvapara and Kali [ages]
+those names did not change in any way.
+
+**45.** As Kali grows, so the names change;
+and yet all those names are [still] perceived.
+
+**46.** Just as in Vraja Vajranabha, by Krishna's will,
+founded villages according to Krishna's lilas,[^12-8]
+
+**47.** [and] after some time some villages vanished,
+and people jumbled the names of other villages, —
+
+**48.** so too, for all the villages that lie within Navadvipa,
+the names became manifest according to the lilas of the Lord and the devotees.
+
+**49.** Some are jumbled in the same way, some have vanished;
+but I will make known the names of Navadvipa in order.
+
+**50.** By hearing the names of the islands all sorrow is destroyed;
+on the eastern and western banks of the Ganga are nine islands.
+
+**51.** In the east are Antardvipa, Sri Simantadvipa,
+Godrumadvipa, Sri Madhyadvipa — four.
+
+**52.** Koladvipa, Ritu[dvipa], Jahnu[dvipa], Modadruma[dvipa]
+and Rudradvipa — these five are known in the west.
+
+**53.** In this Navadvipa — hence the name "Navadvipa" here;
+here Shiva, Shakti and others dear to the Lord always shine.
+
+**54.** *Thus it was said by the ancients:*
+*"The great sages declared the abode of Sri Navadvipa to be the object of meditation:*
+*this is the eternal Vrindavana, shining on the bank of the Jahnavi,*
+
+**55.** *where the five Shivas abide, together with Shakti, adorned with bhakti,*
+*divine and enchanting with its nine islands — Antar, Madhya and the rest.*
+
+**56.** *Some say it [extends] five yojanas, [others] sixteen kroshas;*
+*and in its midst is Mayapura, where the house of Bhagavan stands."*
+
+**57.** Beautiful and full of splendor are the dwellings of Nadia;
+of the people [living] in Navadvipa there is no count.
+
+**58.** *Thus [it is said] in the Sri Chaitanya-bhagavata:*
+"The city of Navadvipa is like Madhupuri;
+[people] of a single caste alone are hundreds of thousands — I cannot tell them all.
+
+**59.** For the Lord's pastimes the Creator had beforehand
+made everything complete and set it there."
+
+**60.** *Thus [it is said] in the Sri Krishna-chaitanya-charita, in the first prakrama:*
+*"In the holy place famed as Navadvipa, supreme [place] of Vaishnavas,*
+*[are] brahmanas, saintly, peaceful, Vaishnavas, born in good families,*
+
+**61.** *magnanimous, skilled in rites, versed in the meaning of all the shastras;*
+*and there are many other people too — physicians, shudras, merchants —*
+
+**62.** *devoted to their own proper conduct, pure, all living by learning;*
+*all there shine like gods, in [that place] like the abode of Vaikuntha."*
+
+**63.** *Thus [it is said] in a song:*
+Glory, glory to Sri Nadia, the abode of happiness!
+Wondrous dwellings — in them dwell [people of] the four ashramas;
+there, day after day, are festivals beyond compare. (Refrain.)
+
+**64.** The eight siddhis, the nine nidhis and the rest in every
+house constantly go about, as if servants;
+dharma, artha and kama, moksha and the like
+no one values — they are laughed at.[^12-9]
+
+**65.** By mighty power the three kinds of misery are crushed;
+the nine kinds of bhakti shine unceasingly;
+day and night [all here] is full of pure prema;
+here the unmoving and the moving are ever intoxicated.
+
+**66.** Houses of every kind; the clear city shines,
+encircled by the Suradhuni with its white, lovely waters —
+as if a garland of fresh kunda flowers and pearls,
+as if, it seems, a crescent of the moon had risen.[^12-10]
+
+**67.** [Its] beauty is ever new and new, like Vrindavana's;
+the six seasons serve [it], [its] horizons are full of rasa;
+its lovely great glory has spread over the earth —
+the lord of serpents sings [it] but cannot reach the end.[^12-11]
+
+**68.** With the gods, the best of gods — Hara and the Four-faced One —
+hold [it] in meditation, in their hearts boundless joy.
+Ghanashyama says: when shall I behold that
+Lord with His associates in the midst of that land?[^12-12]
+
+**69.** Wondrous are Gauranga's pastimes in Navadvipa;
+in many ways poets describe the beauty of Nadia.
+
+**70.** *Thus [it is said] in the Sri Chaitanya-chandramrita:*
+*"Where the Lord Himself, golden like molten gold, out of mercy*
+*appeared in a body of the radiant rasa of the bliss of great prema —*
+*in that Navadvipa, where in every house is a festival of devotees,*
+*in that abode, sweeter even than Vaikuntha, may my mind delight."*[^12-13]
+
+**71.** Although this dhama is sometimes manifest, [sometimes] hidden —
+[this is] just as in the Kali-yuga the Lord is the hidden avatara.
+
+**72.** *Thus [it is said] in the Srimad-Bhagavatam, in the Seventh Canto (7.9.38):*
+*"Thus by Your avataras as man, animal, sage, god and fish*
+*You sustain the worlds and slay the enemies of the world;*
+*O Mahapurusha, You protect the dharma [proper] to the yugas;*
+*and since in Kali You are hidden, You are Triyuga."*[^12-14]
+
+**73.** Whatever lilas there were in whatever dhama in former, former avataras —
+all of them He secretly manifested in Navadvipa.
+
+**74.** Whatever pastimes there were in Navadvipa-dhama in former, former [times] —
+in the same way the son of Shachi ever sports.
+
+**75.** The lila of Navadvipa is beyond the reach of Brahma and the others;
+only he to whom the Lord made it known knows [it].
+
+**76.** The lila that He performs in Nadia in a single day —
+even with a thousand mouths one finds no end to it.
+
+**77.** In whatever Dvapara Krishna sports in Vrajapura,
+in that [same] Kali-yuga the Lord sports in Nadia.
+
+**78.** Some say the settlement of Nadia [spans] eight kroshas;
+by the inconceivable power of the dhama, all [this] is true.
+
+**79.** Navadvipa-dhama behaves like a lotus flower:
+one moment it contracts, the next moment it expands.
+
+**80.** One who lives far from the Lord's abode
+comes quickly — for him distance does not appear.
+
+**81.** Countless people fit into the place of sankirtana:
+the place is small, and how it expands, no one knows.
+
+**82.** In every respect Navadvipa is the best [of abodes]:
+here countless devotees of the Lord abide in bliss.
+
+**83.** In the midst of Navadvipa is a place called Mayapura,
+where Bhagavan Gaurachandra took birth.
+
+**84.** As in Vrindavana there is the sweet Yogapitha,
+so in Navadvipa the Yogapitha is Mayapura.
+
+**85.** Brahma and the others ever meditate on the beauty of Mayapura;
+who does not sing the glory of Mayapura?
+
+**86.** Whoever sees it even once, his distress goes far away;
+to such a Mayapura goes Acharya Thakura.
+
+**87.** Taking both Narottama and Ramachandra with him,
+he enters Mayapura, unable to restrain himself.
+
+**88.** On the very road on which he walks, a little way ahead,
+an old brahmana comes towards him, slowly, slowly.
+
+**89.** Bowing to him, in very sweet words
+he asks for news of Sri Ishana Thakura.
+
+**90.** The brahmana says, "I have just come from seeing Ishana.
+What can I say? Who does not shed tears over his virtues?
+
+**91.** He knows all truths, he is renowned everywhere;
+he served Sri Shachi-devi as was fitting."
+
+**92.** *Thus [it is said] in the Chaitanya-bhagavata:*
+"Ishana served Ai at all times;
+among the fourteen worlds he is the most fortunate."
+
+**93.** "How much affection Shachi-devi showed to Ishana —
+how could I put it into words? I saw it with my own eyes."
+
+**94.** *Thus [it is said] in the Vaishnava-vandana:*
+"I shall praise Ishana Dasa with folded hands —
+him to whom Shachi Thakurani showed great affection."[^12-15]
+
+**95.** "Ah, my son, what can I tell of his deeds?
+That Ishana is very dear to Nimaichand.
+
+**96.** Ishana's life is Nimai, the son of Shachi;
+without Ishana He goes nowhere.
+
+**97.** In childhood Nimai was exceedingly restless;
+whatever mischief He made, Ishana set it right.
+
+**98.** What I have seen cannot be put into words;
+my heart burns without cease when I think of all that.
+
+**99.** Who does not know what happiness there was in Nadia?
+And such a Navadvipa became empty day by day.
+
+**100.** Wherever I look, that direction is dark;
+of a happiness now beyond reach even in dreams, what more is there to say?
+
+**101.** Seeing you, joy arises in my heart:
+are you not associates of Nimaichand?
+
+**102.** Tell me who you are, my son, tell me who you are!"
+Hearing this, Srinivasa respectfully says to the brahmana:
+
+**103.** "My name is Srinivasa Dasa,
+and these two are named Narottama and Ramachandra."
+
+**104.** Hearing this, the best of brahmanas spread out both arms
+and embraced him, wet with tears.
+
+**105.** He cannot let Srinivasa go from his embrace;
+looking at his face, he speaks again and again:
+
+**106.** "Ah, my son, I have heard talk of you;
+I longed in my heart to see you, and suddenly we have met.
+
+**107.** Today I went to see Ishana;
+he told me that you would come.
+
+**108.** Ishana, in the house of Sri Jagannatha Mishra,
+is gazing at the road, waiting for you.
+
+**109.** Go there; I too will come quickly."
+Saying this, the brahmana went home, slowly, slowly.
+
+**110.** Srinivasa, bowing at the old brahmana's feet,
+went to the Lord's house, deeply stirred.
+
+**111.** He became grey with the dust of the Lord's courtyard;
+his whole body is wet with tears.
+
+**112.** He looks in all four directions, unable to keep his composure;
+he sees Ishana, whose radiance is like the sun.
+
+**113.** He is sitting alone in deep solitude —
+what a wondrous state: tears from closed eyes!
+
+**114.** The tears from his eyes stream over his face and chest;
+he heaves long sighs like tongues of flame.
+
+**115.** Now, crying "Vishvambhara!", he rolls on the ground;[^12-16]
+now he says, "O Lord, what happiness You have left me to taste!"
+
+**116.** Saying this, he looks around in distress
+and sees before him Srinivasa, full of prema.
+
+**117.** Saying, "Come, my son!", and spreading out both arms,
+he embraced Srinivasa and rejoiced.
+
+**118.** He embraced Narottama and Ramachandra —
+the wondrous surge of affection that seized him cannot be described.
+
+**119.** Srinivasa, Narottama and Ramachandra — all three,
+bowing to Ishana, cannot hold back their tears.
+
+**120.** Sri Ishana Thakura, consoling them with care
+and seating them near him, asks about their welfare.
+
+**121.** Srinivasa, having told all that had happened,
+shyly speaks of his own desire:
+
+**122.** "When I wandered through Vraja with Sri Raghava,[^12-17]
+it came to my mind that I would go round Nadia in the same way."
+
+**123.** Hearing this, Sri Ishana says, "What you have resolved
+Sri Gaurasundara will fulfil.
+
+**124.** This Navadvipa-dhama is exceedingly secret:
+he on whom there is mercy knows it; the fool does not know its truth.
+
+**125.** The places of the Navadvipa pastimes are most enchanting;
+what to speak of others — they are beyond the reach even of Brahma and the rest.
+
+**126.** What I saw and what I heard from the old people —
+even in such sorrow it remains in my mind.
+
+**127.** It suddenly came to my heart to make it known to you;
+that is why I sent word through Narottama for you to come.
+
+**128.** It is good that you came quickly — what more is there to say?
+Tomorrow at daybreak we shall set out to go round Nadia."
+
+**129.** Hearing this, Srinivasa falls at his feet;
+Ishana, clasping him in his embrace, floats in tears.
+
+**130.** Ishana says, "My son, seeing you,
+my terribly scorched heart has been cooled.
+
+**131.** I have grown old, I have lost my strength,
+and now suddenly strength has come into my body."
+
+**132.** Saying many such things, at that very moment
+he introduced Srinivasa to the Lord's dear [associates] who were there.
+
+**133.** How everyone spent that day
+in the Lord's house cannot be described.
+
+**134.** When the night gave way to morning, Sri Ishana Mahashaya,
+his heart jubilant, sets out to go round Nadia.
+
+**135.** Srinivasa Acharya, Narottama and Ramachandra
+go with Ishana; joy overflows.
+
+**136.** Bowing again and again to the Lord's abode,
+they set out from Mayapura for Atopura.[^12-18]
+
+**137.** First of all, having looked at the place Atopura,
+Ishana says, looking at Srinivasa:
+
+**138.** O Srinivasa, this place is Atopura;
+for a long time this village was lost.
+
+**139.** Formerly it was called Antardvipa;[^12-19]
+how the name Antardvipa arose, that I shall tell.
+
+**140.** In the Dvapara-yuga Krishna sported in Vraja;
+who is not bewildered under the sway of His yogamaya?[^12-20]
+
+**141.** What to speak of others — even Brahma was bewildered:
+he stole Sri Krishna's calves together with [His] friends.[^12-21]
+
+**142.** To crush Brahma's pride at once,
+[Krishna] Himself became all the calves and friends.
+
+**143.** Brahma could not understand this pastime of Krishna;
+falling into confusion, Brahma could not be at peace.
+
+**144.** As an offender, he offered Krishna many prayers;
+by those prayers Sri Krishna showed him His grace.
+
+**145.** Even so, Brahma's heart is not at ease:
+"I have committed an offence," he thinks without cease.
+
+**146.** Sitting in solitude, he deliberates within himself:
+"I see no [other] means but the Chaitanya avatara.
+
+**147.** At the beginning of [the age of] Kali the Lord, Sri Krishna Chaitanya,
+having descended, will make Kali blessed.
+
+**148.** If I worship the Lord in Navadvipa,
+the Lord will fulfil the desire of my heart."
+
+**149.** Having reflected thus, Brahma, here in Atopura,
+worships the Lord with a jubilant heart.
+
+**150.** Merciful Gaurachandra, affectionate to His devotees,
+appeared before his eyes; His beauty enchants the world.
+
+**151.** The effulgence of His limbs lights up the ten directions;
+it robs paltry gold and Kandarpa of their pride.[^12-22]
+
+**152.** His arms reach to His knees, His chest is broad;
+His body is adorned with ornaments of many gems.
+
+**153.** His eyes extend to His ears, His glance is wondrous;
+the loveliness of His face surpasses millions upon millions of moons.
+
+**154.** His ever gentle, gentle smile showers nectar;
+who is there who can keep composure before such grace?
+
+**155.** Seeing the Lord of his life, Brahma was overwhelmed;
+unable to hold himself up, he sways to and fro.
+
+**156.** Offering many prayers, wet with tears,
+he falls and rolls at the Lord's feet.
+
+**157.** Seeing Brahma's state, the son of Shachi
+embraces him and speaks sweet words:
+
+**158.** "You are dear to Me; I am always pleased with you;
+now ask of Me whatever boon you wish."
+
+**159.** Brahma says, "In this Kali-yuga, in Nadia,
+You will manifest Your pastimes together with Your associates.
+
+**160.** At that time, O Lord, accept me
+and let me be born in a low family — this is my wish.[^12-23]
+
+**161.** O Lord, my pride is excessive:
+let there be such a punishment that people despise me.
+
+**162.** You will dispel my terrible, wicked disposition;
+You will give me deep attachment to Your holy name.
+
+**163.** As You once bewildered me with maya,
+do not do so, Lord, in this incarnation.[^12-24]
+
+**164.** At every moment I desire the company of Your devotees;
+in life and in death may I meditate on You."
+
+**165.** Hearing Brahma's words, the Lord was delighted;
+the Lord says, "All [your] desires will be fulfilled."
+
+**166.** Having obtained the Lord's [mercy], in great joy of heart,
+Brahma, bowing down, again speaks softly:[^12-25]
+
+**167.** "You are the independent Lord, beyond all;
+who can understand Your heart, Lord?
+
+**168.** You performed many pastimes in former incarnations;
+I do not know what pastimes [there will be] in this town of Nadia.
+
+**169.** You will deliver the living beings, Lord — that is a small matter;
+if there is something special in this, I long to hear it."
+
+**170.** Hearing Brahma's words, looking at Brahma,
+[the Lord] tells him something of what is hidden in His heart:
+
+**171.** "Taking the mood of a devotee, I will taste bhakti-rasa;
+I will manifest the supremely rare sankirtana.
+
+**172.** The devotees of the various incarnations, in their various moods,
+I will bring to madhura-rasa that follows Vraja."
+
+**173.** At such words, the prema of Radha surges in [His] heart;
+as He speaks of the three desires, He floats in tears.
+
+**174.** Mercifully He made known to Brahma
+the three desires of the Lord that the wise have expressed.
+
+**175.** *Thus [it is said] in the Chaitanya-charitamrita, Adi 1.6:*
+*"What is the greatness of Sri Radha's love?*
+*What is My wondrous sweetness, which she alone tastes through this [love]?*
+*And what is the happiness she feels in realizing My [sweetness]?" — out of longing [to know] this,*
+*the Moon of Hari, rich with her feelings, rose in the ocean of Shachi's womb.*[^12-26]
+
+**176.** And further the Lord briefly told Brahma,
+"You will see My Navadvipa pastimes with your own eyes."
+
+**177.** Having spoken what was hidden in His heart, He disappeared;
+for this reason the name Antardvipa is known among people.[^12-27]
+
+**178.** By the Lord's mercy Brahma became very joyful;
+he constantly thinks of the Lord's appearance in Navadvipa.
+
+**179.** The pastimes He performs on this land of Antardvipa
+with Gaura's associates — who can describe them?
+
+**180.** O Srinivasa, Antardvipa is full of beauty;
+by seeing this place one's desires are fulfilled.
+
+**181.** Look, Srinivasa, over there is Suvarna-vihara;
+I will tell later of the pastimes in this village.
+
+**182.** Saying many such things, he took the three with him
+and after a while entered the village of Simaliya.[^12-28]
+
+**183.** Ishana Thakura says to Srinivasa:
+Look at this beautiful village of Simaliya.
+
+**184.** Formerly this [was] Simantadvipa, famous in the world;
+how it came to be called Simantadvipa I will tell briefly.
+
+**185.** One day on Mount Kailasa, Maheshvara,
+drinking the nectar of the devotees' names, lost his composure of heart.
+
+**186.** All the devotees of all the incarnations are in Nadia;
+all those names he utters aloud.
+
+**187.** With his five mouths he sings the glory of the Lord's devotees;
+the hair on all his limbs stands on end, his heart overflows with happiness.
+
+**188.** Digambara performs a most wondrous dance;[^12-29]
+under the weight of his steps the great Mount Kailasa trembles.
+
+**189.** He plays his own instrument; the sound pierces the sky;
+greatly intoxicated, he thunders with cries of "hum!"
+
+**190.** Seeing the state of Lord Shankara, Parvati
+was overwhelmed and could understand nothing.
+
+**191.** Absorbed in the dance, the three-eyed god became still;
+tears of bliss stream down and cannot be checked.
+
+**192.** Like a silver mountain, seated on a hide,
+with his own mouth he praises the good fortune of [the age of] Kali.
+
+**193.** How wondrous is the conduct of Lord Maheshvara!
+Smiling ever so gently, he looks all around.
+
+**194.** Seeing Parvati's state, pleased at heart,
+he calmed Parvati and seated her at his side.
+
+**195.** Parvati, in the highest bliss, says, "O lord!
+The mercy you have shown today you have never shown before.
+
+**196.** The names you have uttered with your own mouth —
+such names I have never heard with my ears.
+
+**197.** Again and again you praise the good fortune of [the age of] Kali;
+from this I understand that all of them will appear in Kali."
+
+**198.** Hearing Parvati's words, with joy in his heart
+he speaks to Parvati in the sweetest words:
+
+**199.** "In this Kali-yuga, Krishnachandra, in Nadia,
+will appear from the womb of Shachi-devi.
+
+**200.** He will take on the luster of Sri Radhika's body;
+[His] form, conquering the three worlds, is the sweetest elixir.
+
+**201.** No one will be able to find a comparison for that form;
+the world will go mad on seeing that form even once.
+
+**202.** By the beauty of His body the pride of Kandarpa will be destroyed;
+in Navadvipa He will perform wondrous pastimes.
+
+**203.** Together with all the devotees of all the incarnations
+He will joyfully taste the rare love of Vraja.
+
+**204.** He will manifest an ocean of the happiness of sankirtana;
+by His own qualities He will deliver the world.
+
+**205.** In this incarnation no one will remain unhappy;
+whatever desire anyone has will all be fulfilled.
+
+**206.** If anyone in the past committed any offense,
+He will obtain forgiveness for it and make him content.
+
+**207.** He will make known the boundless glory of the devotees;
+I tell you, there is no one so merciful."
+
+**208.** What was in Parvati's heart on hearing all this —
+who can describe it with a single mouth?
+
+**209.** Coming here to Navadvipa, Parvati
+worships Bhagavan Sri Gaurasundara.
+
+**210.** Pleased at heart, for He knew that the goddess was worshipping [Him],
+He, the Moon of Navadvipa, appeared before her.
+
+**211.** The loveliness of each of His limbs enchants the world;
+millions of moons offer themselves to the moon of His face.
+
+**212.** Who can keep his composure [before] His two long eyes?
+The radiance of His cheeks takes away the pride of a golden mirror.
+
+**213.** His arms reach to His knees, His chest is broad;
+His body is adorned with ornaments of many jewels.
+
+**214.** With His garments He destroys the pride of Madana;
+how much bliss He reveals by the grace of His gait!
+
+**215.** Seeing [Him], Parvati cannot keep her composure;
+she cannot check the streams of tears of bliss from her eyes.
+
+**216.** Seeing Parvati's state, Lord Vishvambhara
+came near her, rejoicing at heart.
+
+**217.** With the sweetest words He says to Parvati,
+"You have performed worship, and your heart has known no rest.
+
+**218.** Whatever you tell Me from your heart,
+that I will do — this I promise without fail."
+
+**219.** Hearing this, Parvati's joy knew no bounds;
+the beauty of the hair standing on end all over her body is beyond comparison.
+
+**220.** Joining her palms, she says to Lord Vishvambhara,
+"You will make this [age of] Kali blessed by Your manifest pastimes.
+
+**221.** You will easily remove the threefold miseries of the world;
+You will increase the great bliss of all living beings.
+
+**222.** Lord, You dwell in the heart of everyone, You know everything:
+my heart is constantly in distress.
+
+**223.** I committed a grave offense against a devotee:
+I cursed [him], and Chitraketu became Vritrasura.[^12-30]
+
+**224.** The virtues of Your devotee cannot be put into words:
+I did wrong, yet he still praised me.
+
+**225.** With all of them You will sport in Nadia;
+do this — that they may all be pleased [with me].
+
+**226.** Lord, words cannot tell what is happening in my heart;
+may I constantly see Your pastimes in Nadia."
+
+**227.** The Lord said, "What you have in mind will be fulfilled;
+none of My works is done without you."
+
+**228.** Having said this, the Lord began to disappear;
+Parvati fell at His feet and bowed down.
+
+**229.** She placed the dust of the Lord's feet in the parting of her hair;
+for this reason the name Simantadvipa became known.[^12-31]
+
+**230.** Parvati was distressed at not seeing the Lord;
+she thinks in her heart, "When will the manifest pastimes be?"
+
+**231.** O Srinivasa, this place is Simantadvipa;
+whoever sees it even once, his eyes become fruitful.
+
+**232.** Without effort the terrible fear of worldly existence is dispelled;
+the supremely rare prema-bhakti is attained.
+
+**233.** Even today all the people here worship the goddess;
+by the goddess's mercy they know no sorrow or grief.
+
+**234.** In this village of Simaliya Sri Gaurasundara
+sports together with countless associates.
+
+**235.** What bliss there was here at the time of nagara-kirtana —
+can I tell all of it with a single mouth?
+
+**236.** The fortunate beheld the great splendor;
+the tumult of prema spread through the whole world.
+
+**237.** Having said this, he goes on from the village of Simaliya;
+remembering the Lord's pastimes, he floats in tears.
+
+**238.** Speaking of the deeds of the Lord and the devotees,
+he arrived at the village of Gadigachha.[^12-32]
+
+**239.** Ishana says: This is the village of Gadigachha;
+the wise say that formerly it was named Godrumadvipa.
+
+**240.** How it came to be called Godrumadvipa I will tell briefly,
+as I heard it from the mouths of the wise of former times.
+
+**241.** One day Indra, greatly distressed at heart,
+softly says to the cow Surabhi:[^12-33]
+
+**242.** "Under the Lord's yogamaya I could not remain steady;
+intoxicated with pride, I committed an offense.
+
+**243.** Although the Lord has become gracious to me,
+still I cannot steady my heart.
+
+**244.** The punishment was not what I deserved, though the Lord did punish [me];
+will He ever make me worthy of His own service?"
+
+**245.** Hearing Indra's words, Surabhi, with satisfaction,
+speaks to Indra in very sweet language:
+
+**246.** "I have understood your heart — do not worry at all:
+in this avatara your desire will be fulfilled.
+
+**247.** Only a few days remain before He descends;
+the good fortune of this Kali-yuga is immense.
+
+**248.** Krishna, the son of the king of Vraja, [as] beautiful Gauranga,
+will sport in Navadvipa most secretly.
+
+**249.** Whomever the Lord lets know, he alone will know;
+He will destroy all the sorrows of all people."
+
+**250.** Having said this, Surabhi, together with Indra, here
+beholds the beauty of Navadvipa with a jubilant heart.
+
+**251.** As Surabhi worshipped the feet of Sri Prabhu,
+the eternal, complete Brahman appeared before her in person.
+
+**252.** Gazing on the golden form that enchants the worlds,
+Surabhi, in great bliss, cannot contain her heart.
+
+**253.** Smiling gently, the Moon of Navadvipa
+says to Surabhi, "I have understood your heart.
+
+**254.** You will see My manifest pastimes in Nadia;
+all your desires will be fulfilled."
+
+**255.** Just as He was saying this, at that very moment Indra came
+and, as if utterly wretched, fell at the Lord's feet.
+
+**256.** Seeing how sorely distressed Indra's heart was,
+Vishvambhara speaks with very sweet words:
+
+**257.** "Keep no more hesitation in your heart:
+all your desires will be fulfilled."
+
+**258.** Hearing the Lord's words, Indra humbly says,
+"Who is not bewildered by Your yogamaya?
+
+**259.** As You confused [my] mind in the pastimes of Vraja,
+will You do the same, Lord, in the pastimes of Navadvipa?"
+
+**260.** Hearing this, Lord Gaura-raya smiled gently;
+the mercy He showed Indra cannot be described.
+
+**261.** Surabhi, together with Indra, offered many prayers;
+when the Lord vanished, they were distraught.
+
+**262.** Sri Surabhi, the cow, together with Indra-deva,
+after a while became calm by the Lord's will.
+
+**263.** Surabhi, together with Indra, in supreme bliss,
+beholds the beauty of Navadvipa — how much wells up in their hearts!
+
+**264.** How could I ever tell how they behaved, O Srinivasa!
+Here great prema was manifested.
+
+**265.** Here stood an ashvattha tree, very tall;
+very wide-spreading, the tree was beautiful and charming.
+
+**266.** Sri Surabhi, the cow, dwelt at the foot of the tree;
+therefore the wise of old call [this place] Godrumadvipa.[^12-34]
+
+**267.** Now its name is Gadigachha; by seeing this village
+pure bhakti arises for the Lord's feet.
+
+**268.** By living in this village one's desires are fulfilled;
+what shall I say of this village's glory, Srinivasa?
+
+**269.** In this village are Sri Gauranga's wonderful pastimes;
+all the people of Nadia saw them to their eyes' content.
+
+**270.** Having said this, Ishana Thakura, in joy,
+went to the edge of the village of Majita and beholds its beauty.
+
+**271.** He says to Srinivasa: this is the village of Majita;
+the old people say its former name was Madhyadvipa.[^12-35]
+
+**272.** In Madhyadvipa are the Lord's most wonderful pastimes;
+how the name Madhyadvipa came about I shall tell briefly.
+
+**273.** Here the seven rishis, absorbed in the Lord's qualities,
+gazing at Navadvipa, spoke of many things.
+
+**274.** One says, "Look, Navadvipa is full of beauty —
+the place of the Lord's pastimes, the abode of happiness.
+
+**275.** All the holy places that exist in the universe —
+all those holy places abide in the town of Nadia."
+
+**276.** Another says, "The glory of Navadvipa is boundless:
+here are wonderful pastimes, manifest and unmanifest.
+
+**277.** In the manifest [pastimes] everyone sees the Lord;
+in the unmanifest only the fortunate see [Him]."
+
+**278.** Another says, "To make this [age of] Kali blessed,
+He will appear in the house of Jagannatha Mishra.
+
+**279.** In this avatara [His] golden complexion is incomparable;
+the world will go mad seeing the beauty of all His limbs."
+
+**280.** Another says, "These Nadia pastimes of Krishna
+are so wondrous that they are beyond the reach even of Brahma and others."
+
+**281.** Another says, "The son of Shachi acts by His own will:
+what He will do, and when, cannot be told.
+
+**282.** In the Kali-yuga, taking great pains for the living beings,
+He will distribute the supremely rare jewel of prema."
+
+**283.** Another says, "Mahaprabhu is an ocean of mercy;
+such mercy as He will show the living beings has never been.
+
+**284.** Taking with Him all the devotees of all the avataras,
+He will become intoxicated in sankirtana and intoxicate the world."
+
+**285.** Another says, "Gaurahari, the life of the devotees,
+will take sannyasa and go away to other lands.
+
+**286.** Fulfilling the desire of countless holy places,
+out of love for Jagannatha He will dwell in the Kshetra."[^12-36]
+
+**287.** Thus, in great bliss, speaking much with one another,
+they meditate unceasingly on the Lord's lotus feet.
+
+**288.** With great love the rishis worship [Him];
+the Lord, affectionate to His devotees, grew utterly impatient.
+
+**289.** Like the midday sun, at the midday hour
+He appeared in person — who could describe [His] splendor?
+
+**290.** Beholding [His] pose that enchants the worlds,
+the rishis' eyes ceased to blink.
+
+**291.** Thrills spread through [their] limbs, streams of tears from their eyes;
+falling to the ground, they bow to the Lord again and again.
+
+**292.** They offered many prayers — it cannot be told;
+circumambulating [Him], they again say to the Lord:
+
+**293.** "O Lord, great is our desire:
+to see these pastimes of Nadia to our eyes' content.
+
+**294.** May we always meditate on Navadvipa
+and unceasingly sing the qualities of Your devotees."
+
+**295.** Having said much like this before the Lord, the rishis
+long for a thousand eyes with which to see the Lord.
+
+**296.** Won over by the rishis' prayers, the Lord says to the rishis,
+"All that you have set your hearts on will be fulfilled.
+
+**297.** My pastimes in Navadvipa are most secret;
+keep them hidden — in that lies My joy."
+
+**298.** Hearing this, the rishis say, "What can we say, Lord!
+Can the sun ever be hidden by the palm of a hand?"
+
+**299.** Thus the rishis say much in their jubilation;
+hearing it, Lord Gaurachandra smiles to Himself.
+
+**300.** Having bestowed mercy on the rishis with joy in His heart,
+Lord Gaurahari vanished from sight.
+
+**301.** The rishis, distraught that the Lord was no longer to be seen,
+left this place while it was still midday.
+
+**302.** On the bank of the Ganga, near Kumarahatta,[^12-37]
+seeing a wondrous place, they remained there.
+
+**303.** The place where they settled is well known:
+people still call it Saptarshi-ghat today.
+
+**304.** O Srinivasa, the account of Madhyadvipa
+I have told you briefly: here there was great joy.
+
+**305.** Like the midday sun, at the midday hour
+the Lord showed Himself — therefore [the island] is called Madhyadvipa.
+
+**306.** Another rishi performed austerities here for some time;
+he too joyfully proclaimed the name Madhyadvipa.
+
+**307.** By seeing this place all inauspiciousness is destroyed;
+whoever lives here obtains pure bhakti.
+
+**308.** Here are Gauranga's wonderful pastimes:
+He maddened the living beings by giving rare prema.
+
+**309.** Having said much like this, Sri Ishana, in great joy,
+walks slowly toward the village of Vamana-paukhera.[^12-38]
+
+**310.** He looks in all directions, tears of prema pour from his eyes;
+overwhelmed, he says to Srinivasa:
+
+**311.** look at this lovely land, O Srinivasa:
+in all these places are the Lord's wonderful pastimes.
+
+**312.** The name of this village is Vamana-paukhera;
+its former name, the wise say, was Brahmana-pushkara.
+
+**313.** How the name Brahmana-pushkara came about,
+I shall tell as I heard it from the mouths of the wise of old.
+
+**314.** Here lived a venerable old brahmana,
+a great ascetic, learned in all the scriptures.
+
+**315.** He had boundless devotion for Sri Pushkara-tirtha;[^12-39]
+he wished to go there, but had no strength to walk.
+
+**316.** Distraught, the brahmana says again and again,
+"I have never been able to serve Sri Pushkara-tirtha.
+
+**317.** Sri Pushkara lies far away in the western land;
+I have wasted [my] time and could not go there.
+
+**318.** I have had no darshan — grief remains in my heart;
+will the king of tirthas show me favor?"
+
+**319.** Having said much like this, repeating the name of Sri Pushkara,
+the brahmana weeps, sitting in solitude.
+
+**320.** Seeing the brahmana's state, Sri Pushkara, the best of tirthas,
+granted him darshan: at this he lost all patience.
+
+**321.** Suddenly a pond appeared here;
+the beauty of its clear water was boundless.
+
+**322.** Before the brahmana, at once taking the guise of water,
+Sri Pushkara, the king of tirthas, appeared in person.
+
+**323.** Showing the brahmana mercy, he speaks sweet words:
+"Do not grieve — bathe in this pond."
+
+**324.** Hearing this, the brahmana bathed in the highest joy;
+as soon as he bathed, the brahmana gained divine knowledge.
+
+**325.** Offering many prayers to Sri Pushkara-tirtha, the brahmana
+fell to the ground and bowed down endlessly.
+
+**326.** Joining his palms, he says again and again,
+"For my sake you have come from afar!"
+
+**327.** Pushkara says, "I have not come from afar:
+I always stay in Navadvipa and serve Nadia.
+
+**328.** Countless tirthas abide in Navadvipa-dhama;
+Brahma and the others do not know the glory of Navadvipa.
+
+**329.** Navadvipa-dhama, full of prema-bhakti, is eternal;
+by the mercy of Nadia one comes to know the truth of Navadvipa.
+
+**330.** In Navadvipa Gaurachandra always dwells —
+He who in Vrindavana enjoyed the rasa and other pastimes.
+
+**331.** In Vrindavana He is dark, in Navadvipa golden;
+in Navadvipa the Lord sports in secret.
+
+**332.** His pastimes are sometimes unmanifest, sometimes manifest;
+in this Kali-yuga there will be an ocean of happiness.
+
+**333.** The Lord will appear at the beginning of this Kali
+and will sport with the devotees of all the avataras.
+
+**334.** He will distribute to living beings prema that is hard for Brahma to attain,
+and with sankirtana He will intoxicate the whole world.
+
+**335.** He will deliver the wretched, the lowly and the pashandas;
+in this avatara no one will be left deprived.
+
+**336.** He will perform endless pastimes in Navadvipa,
+and the fortunate people of Nadia will see them."
+
+**337.** Hearing all this, the brahmana weeps loudly
+and says again, "Will I be born in Nadia?
+
+**338.** Will I see the beautiful pastimes of Gaurachandra?"
+Having said this, the brahmana became greatly agitated.
+
+**339.** Having consoled the brahmana, Sri Pushkara, the king of tirthas,
+disappeared on some pretext.
+
+**340.** The brahmana was in great distress at losing sight of Pushkara;
+at that very moment a voice from the sky spoke to the brahmana:
+
+**341.** "Meditate constantly on the feet of Gaurachandra;
+your desire will be fulfilled — make your mind steady."
+
+**342.** Hearing such words, the brahmana, with a jubilant heart,
+constantly meditates on the Moon of Navadvipa.
+
+**343.** He dances, singing of the Lord's deeds;
+others are amazed, watching the brahmana's behavior.
+
+**344.** What can I tell of his love, which I have heard of?[^12-40]
+The story of Pushkara-tirtha became known [to all].
+
+**345.** Pushkara showed the brahmana boundless mercy —
+for this reason [the place] is called Brahmana-pushkara.
+
+**346.** Here the fortunate brahmana worshiped the Lord.
+See, this is the place bearing the marks of Pushkara-tirtha.
+
+**347.** Whoever beholds [it], whoever lives here,
+gains firm faith in the Lord's feet.
+
+**348.** That person will not know the torments of Yama
+who glorifies this wonderful place.
+
+**349.** Here are the wonderful pastimes of Gaurasundara;
+how can I tell, Srinivasa, what I saw?
+
+**350.** Having said this, Ishana, floating in tears,
+set out from Vamana-paukhera.
+
+**351.** Stopping near the village of Hatadanga,[^12-41]
+he speaks to Srinivasa, pointing with his hand:
+
+**352.** See, Srinivasa, this is the village of Hatadanga;
+the wise of former times call it Uchchahatta.
+
+**353.** How the village got the name Uchchahatta —
+of that I will tell a little, as I heard it from sadhus.
+
+**354.** Indra and all the other gods, staying right here,
+spoke much to one another, overwhelmed.
+
+**355.** One says, "Blessed, blessed is this Kali-yuga!
+The Lord, Sri Krishna Chaitanya, will appear.
+
+**356.** Lord Advaita and Nityananda-Balarama
+He will make manifest in abodes appointed of old."
+
+**357.** Another says, "In Navadvipa all will dwell;
+countless are the Lord's associates — what strength have I to tell [of them]?
+
+**358.** All the Lord's associates are oceans of mercy,
+the dearest friends of the wretched, the lowly and the fallen."
+
+**359.** Someone says, "The Lord, together with His associates,
+will be intoxicated in sankirtana, intoxicating the world [with it].
+
+**360.** A river of bliss will flow in this Nadia,
+and the sins of living beings will be destroyed with ease."
+
+**361.** Yet another says, "There will be good fortune without end;
+fortunate people will see wonderful pastimes.
+
+**362.** If all of us are born in Nadia,
+then the great sorrow of our hearts will go away."
+
+**363.** Another says, "We will certainly be born here
+and behold the Lord's pastimes to our eyes' content.
+
+**364.** The devotees who live in Navadvipa will take all of us
+and engage us in the service of Gaurachandra."
+
+**365.** Thus they said much, as if they had set up a market,
+and on this high place they began a loud kirtana.
+
+**366.** All, raising their arms, cry out with anguished hearts,
+"O Lord, do not delay in descending!"
+
+**367.** Speaking thus, the gods in supreme jubilation
+dance, striking many poses.
+
+**368.** All sing the series of the Lord's holy names.
+For these two reasons [the place is called] Uchchahatta.[^12-42]
+
+**369.** Seeing this place brings auspiciousness in every way;
+in the Lord's kirtana prema grows unrestrained.
+
+**370.** Here the Lord, Shachi's son, together with His devotees
+sports, beyond the sight of the gods, the foremost sages and others.
+
+**371.** Having said this, Ishana cannot become calm;
+he remembers Sri Gaura's pastimes, and tears flow from his eyes.
+
+**372.** After some time, becoming calm, he, together with Srinivasa,
+enters the village of Kuliya-Paharpura.[^12-43]
+
+**373.** He speaks to Srinivasa in the sweetest words:
+See, Srinivasa — [this is] Kuliya-Paharpura.
+
+**374.** Formerly it was known as Koladvipa, called Parvata;
+how this name arose, I will tell.
+
+**375.** A certain brahmana, a devotee of Sri Kola-deva,[^12-44]
+worshiped the feet of Kola-deva here.
+
+**376.** The charming deeds of Lord Kola-deva
+the brahmana sings, and streams of tears flow ceaselessly from his eyes.
+
+**377.** Extremely agitated, the brahmana says,
+"Grant me Your sight just once, O merciful Lord!"
+
+**378.** Thus, with anguished cries, the best of brahmanas says much;
+whose heart could keep its composure, seeing his behavior?
+
+**379.** The Lord Gaurahari, the source of the avataras, subject to His devotees,
+assumed the form of Kola — a wondrous beauty!
+
+**380.** His body is adorned with various jeweled ornaments;
+His hands, feet, nose, face and eyes are enchanting.
+
+**381.** As tall as a mountain — that beauty is a marvel!
+Who, seeing Varaha-deva, could keep his composure?
+
+**382.** When Kola-deva appeared to the brahmana here,
+the brahmana's joy — who could describe it?
+
+**383.** Falling to the ground, the brahmana bowed at the Lord's feet;
+the prayers he offered cannot be told.
+
+**384.** Kola-deva, affectionate to His devotees, to the brahmana
+speaks sweet words, filled with great joy:
+
+**385.** "What is in your heart will be fulfilled:
+you will see wonderful pastimes in this Navadvipa."
+
+**386.** Having said this and shown mercy to the brahmana,
+Kola-deva disappeared after a while.
+
+**387.** When the Lord was lost to sight, the brahmana's heart was in turmoil;
+becoming calm, he reflects on the Lord's command:
+
+**388.** the command was that he would see pastimes in Navadvipa —
+what, then, will the Lord's descent in Navadvipa be like?
+
+**389.** The brahmana reflects, turning to the Vedas and other scriptures;
+the meaning of the Vedas and other scriptures is revealed within his mind:
+
+**390.** "At the beginning of this Kali, assuming a golden complexion,
+He will descend in Navadvipa in a brahmana family.
+
+**391.** He will reveal sankirtana, hard for Brahma and others to attain,
+and bestow the treasure of bhakti on the wretched and lowly.
+
+**392.** He will taste the ocean of the rasa of Vraja's prema
+and, in the mood of a devotee, accept sannyasa."
+
+**393.** Having reflected thus, the brahmana looks all around;
+seeing the transcendental land, he speaks with a sorrowful heart:
+
+**394.** "Navadvipa-dhama is supremely dear to the Lord;
+this is declared in the scriptures, yet I have not grasped its essence.
+
+**395.** Will Navadvipa show me mercy?
+Will I be born here at the time of the Lord's descent?"
+
+**396.** Having said this, the brahmana floats in tears.
+A voice from the sky spoke: "You will be born at that time."
+
+**397.** Hearing this, the brahmana's heart was filled with great joy,
+and he was constantly absorbed in the Lord's qualities.
+
+**398.** O Srinivasa, this is known everywhere;
+I heard it from the mouths of the elders and have told a little.
+
+**399.** Kola, the size of a mountain, appeared to the brahmana —
+for this reason Koladvipa came to be called Parvata.
+
+**400.** Seeing this place destroys all that is inauspicious;
+one obtains rare, perfectly pure prema-bhakti.
+
+**401.** If one lives here, one's desires are fulfilled:
+one sees the pastimes of Gaurachandra in Navadvipa.
+
+**402.** Saying much in this way, he goes on from Koladvipa,
+looking at one place of the Lord's pastimes after another.
+
+**403.** Approaching the village of Samudragarhi, he says:
+Look, Srinivasa, this is Samudragarhi.[^12-45]
+
+**404.** The wise call it Sri Samudra-gati.
+Here is the delightful story of the Ganga and the Ocean.
+
+**405.** Taking shelter of the Ganga, the Ocean used to come here;
+listen, I will tell the story that is well known among the people.
+
+**406.** One day the Ocean says to the Ganga:
+"In the world there is none as fortunate as you.
+
+**407.** The Complete Brahman, Sri Gaurasundara, in Nadia
+will manifest His pastimes — so everyone sings.
+
+**408.** On your banks there will be boundless bliss:
+with His associates Gaurachandra will always sport there.
+
+**409.** As in Vraja He sports in the waters of the Yamuna,
+so will Lord Gaura-raya sport."
+
+**410.** Hearing this, Jahnavi revealed what was in her heart[^12-46]
+and spoke to the Ocean in very sweet words:
+
+**411.** "My misfortune — to whom shall I tell it?
+Having given joy, the Lord will afterwards give great sorrow.
+
+**412.** The Lord will take sannyasa and leave Nadia;
+He will go and live on your shore.
+
+**413.** There He will reveal supremely wondrous pastimes,
+ceaselessly increasing your bliss.
+
+**414.** Everyone will sing of your good fortune —
+yet, saying nothing of that, you mock me."
+
+**415.** The Ocean replies, "What you have said is true.
+I shall see that appearance at which the heart breaks.[^12-47]
+
+**416.** Remembering that garb, who knows what my heart will do!
+That is why I have come and taken shelter of you.
+
+**417.** You will show here, in the town of Nadia,
+the world-enchanting Gaurachandra, the best of dancers.
+
+**418.** Moment by moment His dear ones will dress Him beautifully —
+who will not lose himself on seeing those curling locks!
+
+**419.** As the Lord is, so are His dear companions;
+through you I shall have the darshan of them all."
+
+**420.** Having spoken much in this way, the two think within themselves:
+"In how many days will the Lord descend?"
+
+**421.** O Srinivasa, the Ganga and the Ocean here
+are ever restless in meditation on Gaurachandra.
+
+**422.** The longing of the Suradhuni and the Ocean grew beyond measure —
+and they knew that the time of the Lord's appearance had come.
+
+**423.** The time of the appearance was auspicious in every way:
+on the pretext of a lunar eclipse — the kirtana of the holy name.[^12-48]
+
+**424.** The land of Navadvipa became filled with great effulgence;
+the home of Jagannatha Mishra was the very limit of splendor.
+
+**425.** Boundless auspiciousness — and all that was inauspicious went far away;
+all the people float in an ocean of bliss.
+
+**426.** The sages offer prayers in many ways;
+Brahma and the other gods too shower flowers.
+
+**427.** As soon as the Lord, the son of Shachi, appeared,
+the news of the Lord's appearance spread through the worlds.
+
+**428.** Wishing to see the Lord's pastimes, beginning with His appearance,
+the Ocean, his heart in turmoil, said much to the Ganga.
+
+**429.** Taking shelter of the Ganga, he comes every day
+and watches Gaurachandra's pastimes, intoxicated with joy.
+
+**430.** One day, on the clear bank of the Ganga, the Ocean
+saw Gaurachandra with His associates beneath a tree.
+
+**431.** On a divine throne Gaurahari shines in His pastimes,
+by His beauty crushing the pride of millions of Kandarpas.
+
+**432.** Kunkuma and gold are no comparison for His beauty;
+the world loses itself on seeing the loveliness of His hair.
+
+**433.** The moon of His face destroys the pride of millions of moons;
+nectar ever flows as He smiles gently, gently.
+
+**434.** His eyes reach to His ears, His glance is enchanting;
+His arms reach to His knees, His chest is broad.
+
+**435.** Most charming are His navel, His waist and His knees;
+on the soles of His lovely feet — the rising of the dawn.
+
+**436.** His garment is white silk with a red border;
+His body is anointed with the splendid sandal paste of Malaya.
+
+**437.** Adorned with ornaments of many flowers, full of splendor,
+with wondrous grace He looks upon His dear ones.
+
+**438.** As Gaurachandra is, so are the Lord's dear ones:
+they surround Him on all four sides, supremely beautiful.
+
+**439.** On the right is Sri Nityananda, on the left Gadadhara,
+in front Advaita, Srivasa and the other associates.
+
+**440.** All of them, utterly overwhelmed by prema,
+gaze unblinking at Gaurachandra.
+
+**441.** The Lord's servants serve Him in many ways on all sides;
+seeing this, the Ocean lost all composure in his delight.
+
+**442.** Many desires arose in the Ocean's mind;
+the Lord, the Knower of hearts, fulfilled his desires.
+
+**443.** Overwhelmed with bliss, the Ocean
+freely beheld the pastimes of the Lord with His associates.
+
+**444.** Again and again he praises the Ganga's good fortune:
+in his daily coming and going his only shelter is the Ganga.
+
+**445.** From his coming together with the Ganga — the name Samudra-gati;
+now people call this village Samudragarhi.
+
+**446.** Living in this village of Samudragarhi and beholding it
+awaken pure devotion to Sri Gaurachandra.
+
+**447.** Gauranga's pastimes here in the homes of the devotees —
+how can I tell them with only one mouth, Srinivasa?
+
+**448.** Having said this, Ishana goes from Samudragarhi
+in great bliss to Champaka-hatta.[^12-49]
+
+**449.** He says to Srinivasa: This is the village of Champaka-hatta;
+this famous, delightful place is called Chapahati.[^12-50]
+
+**450.** Here there was a grove of champaka trees;
+the garland-makers were always gathering flowers.
+
+**451.** The garland-makers, arranging the champaka flowers beautifully,
+sit right here in rows and rows, setting up a market.
+
+**452.** With great happiness many hundreds of brahmanas and good people
+buy champaka flowers and worship the Deity.
+
+**453.** From the market of champa flowers came the name Chapahati.
+About this I will tell something particular — what the wise relate.
+
+**454.** Here there lived an old, learned brahmana,
+exclusively devoted to Sri Krishna, foremost in every respect.
+
+**455.** One day, taking many champaka flowers,
+he was worshipping the lotus feet of Krishna in great joy.
+
+**456.** Meditating within his heart on the dark, beautiful form,
+he sees the form of Gaura in that dark body.
+
+**457.** Gaura's luster was like a heap of champa flowers;
+as he looked and looked, the form vanished.
+
+**458.** His heart distraught at the vanishing of Gaura's form,
+he gazes fixedly at the champaka flowers.
+
+**459.** Beholding the luster of the heap of champaka flowers,
+as he recites the evidence of the Vedas and other [scriptures], his heart overflows.
+
+**460.** After a while, becoming steady, he speaks according to the scriptures:
+"Among the ages this Kali-yuga is blessed.
+
+**461.** In this Kali-yuga Krishna will descend;
+He will assume a world-enchanting golden complexion.
+
+**462.** The wise will worship Him with the sacrifice of sankirtana;
+the world will float in the ocean of the Lord's pastimes."[^12-51]
+
+**463.** Considering the scriptures again, he concluded:
+"This descent of the Lord will be in Navadvipa itself.
+
+**464.** Many days remain before He descends, I know —
+I shall not see that lovely form of Gaurasundara."
+
+**465.** Having said this, he heaves long, long sighs;
+his face and chest are drenched — streams flow from both his eyes.
+
+**466.** Utterly distraught, he could not keep his composure;
+by the Lord's will sleep overcame him.
+
+**467.** In the guise of a dream Lord Gaurahari appeared to him,
+the sweetness of His form like a champaka flower.
+
+**468.** His moon-like face surpasses millions upon millions of moons;
+on His head are beautiful curling locks, a snare of Kama.
+
+**469.** No comparison can be given for His eyes, arms and chest;
+He enchants the world with the grace of all His limbs.
+
+**470.** Seeing this splendor, the brahmana, his heart jubilant,
+fell at His feet and offered many prayers.
+
+**471.** Bestowing mercy on the brahmana, the Lord disappeared;
+fainting, the brahmana fell to the ground.
+
+**472.** After a while, regaining consciousness, the best of brahmanas
+became like a madman in his loving attachment (anuraga).
+
+**473.** Addressing the champaka flower, he says again and again:
+"You have revealed to me Gaura, the Source of avataras!"[^12-52]
+
+**474.** Because the words in praise of the champaka resounded as in a market (hatta),
+the place became famous among the people by the name Champaka-hatta.[^12-53]
+
+**475.** By the Lord's will the brahmana became calm;
+a command came: "What you have set your mind on will be fulfilled."
+
+**476.** Hearing this, in great bliss the brahmana sings the Lord's qualities;
+he constantly thinks, "I shall see the Lord in Nadia."
+
+**477.** The deeds of this brahmana dear to the Lord that I have heard —
+I cannot narrate them all in detail.
+
+**478.** How [Gaurachandra] here in Champahatta with His associates
+enjoys His pastimes — who can describe it?[^12-54]
+
+**479.** Here is the home of the brahmana Vaninatha,
+who is very dear to Gauranga and full of prema.[^12-55]
+
+**480.** *Thus [it is said] in the Sri Gaura-ganoddesha-dipika:*
+*The brahmana Vaninatha, who lives in Champahatta, is dear to the Lord.*[^12-56]
+
+**481.** Having thus shown the places of the Lord's dear ones,
+Ishana leaves the village of Champahatta.
+
+**482.** Approaching the village of Ratupura, he says:
+Look, this is Ritudvipa, full of supreme beauty.[^12-57]
+
+**483.** Formerly a large village, now a village in name only;
+here lived many vessels of devotion to Krishna.
+
+**484.** The region of Ratupura is supremely wonderful;
+here are Gauranga's most wondrous pastimes.
+
+**485.** O Srinivasa, how [this place] came to be called Ritudvipa —
+that I will tell, as the old people tell it.
+
+**486.** Here the six seasons — the rains, autumn, the early winter,
+the winter, spring and summer — were all embodied.
+
+**487.** One of them says to another in sweet words:
+"Krishnachandra will appear in Nadia."
+
+**488.** Someone says, "He will perform wondrous pastimes;
+moment by moment He will increase the joy of us all."
+
+**489.** Someone says, "The son of the lord of Vraja, Gaurahari —
+when will He descend and give rise to joy?"
+
+**490.** Someone says, "His descent is at the beginning of [the age of] Kali;
+Sri Narada Muni has proclaimed it everywhere."
+
+**491.** Someone says, "Tell the time of the descent."
+Someone says, "Immense is the good fortune of spring!"
+
+**492.** The season of spring was filled with irrepressible joy
+and itself praises its own good fortune.
+
+**493.** The seasons, together with spring, the king of seasons,
+constantly meditate on the Lord's descent.
+
+**494.** The seasons worship [Him] with great longing —
+for this reason this place was formerly called Ritudvipa.
+
+**495.** The Lord's pastimes in the six seasons, beginning with spring —
+what shall I say of them now? They will be revealed later.
+
+**496.** By seeing this place all afflictions go far away;
+[one who sees it], born in Nadia, sees the Lord's pastimes.
+
+**497.** Having said this, Sri Ishana set out from Ritudvipa
+on the road to Vidyanagara.[^12-58]
+
+**498.** To Srinivasa, Narottama and Sri Ramachandra
+he speaks most sweet words with joy in his heart:
+
+**499.** look at Vidyanagara — it is supremely beautiful.
+I shall tell a little of how [the name] Vidyanagara is explained.
+
+**500.** One day, in the assembly of the gods, Brihaspati
+became troubled — so the elders tell.[^12-59]
+
+**501.** Seeing Brihaspati troubled, the gods
+ask, "Why have you become troubled?"
+
+**502.** Brihaspati, with great joy in his heart,
+speaks to the gods in most sweet words:
+
+**503.** "In this age of Kali the Lord, in the town of Nadia,
+will be born in the house of the brahmana Jagannatha Mishra.
+
+**504.** The Lord Gaurachandra, the son of Jagannatha,
+reveals various delights in various avataras.
+
+**505.** In the avatara of Sri Rama — consummate skill in the art of weapons;
+in the avatara of Sri Krishna — foremost in herding the cows;
+
+**506.** in the avatara of Sri Gaura — foremost in the study of learning;
+what delight there is in this, others do not understand.
+
+**507.** The Lord will fulfill every desire;
+He will sport as He has never sported.
+
+**508.** I cannot stay [here]: I shall go quickly to Navadvipa
+and worship the Lord for the sake of His appearance."
+
+**509.** Having said much in this way, Brihaspati set out;
+day after day he meditates on the Lord's holy sport of learning.
+
+**510.** The Lord will perform the sport of learning in Nadia —
+for this reason Brihaspati came here.
+
+**511.** *Thus [it is said] in the Chaitanya-bhagavata:*
+"For the sake of this sport Brihaspati, worshipped by all,
+took birth in Navadvipa with his disciples."[^12-60]
+
+**512.** O Srinivasa, here in Sri Vidyanagara
+Brihaspati worships Sri Gaurasundara.
+
+**513.** The Lord's command came to Brihaspati:
+"I shall soon appear together with My associates.
+
+**514.** Spread learning in every possible way."
+Hearing this, Brihaspati's heart was filled with irrepressible joy.
+
+**515.** He began teaching in a way that words cannot describe;
+all became intent on the pursuit of learning.
+
+**516.** For the sake of the Lord's sport he spread learning here —
+for this reason [this place] received the name Sri Vidyanagara.
+
+**517.** Seeing this Vidyanagara brings every perfection;
+hearing of Vidyanagara dispels ignorance.
+
+**518.** In this Vidyanagara Gauranga, with His associates,
+sports with great delight in the homes of the devotees.
+
+**519.** Having said this, Ishana Thakura slowly,
+with joy in his heart, enters Jannagara.[^12-61]
+
+**520.** He says to Srinivasa: look at the village of Jannagara;
+formerly the most learned called it Jahnudvipa.
+
+**521.** How the name Jahnudvipa became known on earth —
+I shall tell what all the elders tell.
+
+**522.** Here Jahnu Muni, in supreme bliss,
+seeing the beauty of Navadvipa, reflects in his mind:[^12-62]
+
+**523.** "This Kali-yuga is more blessed than the other Kalis:
+in it the Lord Sri Krishna Chaitanya descends.
+
+**524.** Together with all the dear associates of all the avataras
+He descends in Navadvipa at the beginning of Kali.
+
+**525.** He will assume that golden complexion beyond all comparison;
+the grace of His holy form will be wondrous.
+
+**526.** In Navadvipa He will perform wondrous pastimes —
+shall I see them, will [my] desire be fulfilled?"
+
+**527.** Reflecting thus, the sage, with joy in his heart,
+worships Gaurachandra, the enchanter of the worlds.
+
+**528.** As the sage meditated with closed eyes,
+the merciful Lord appeared in his heart.
+
+**529.** The beautiful dark form enchants the three worlds;
+He stands in a threefold bend, a peacock feather shining on His head.
+
+**530.** Holding the flute in His hands, He plays it softly, softly;
+His lovely moonlike face glitters and shines.
+
+**531.** Having seen this, he sees Him as a young sannyasi,
+with staff and kamandalu in His hands and no shikha on His head.[^12-63]
+
+**532.** He wears a kaupina and an outer cloth the color of dawn;
+the radiance of His body surpasses the splendor of millions of suns.
+
+**533.** Beholding this, the sage cannot remain steady;
+the moment he opened his eyes, He appeared before him in person.
+
+**534.** With His lovely curling hair He maddens the world;
+the ornaments on all His limbs glitter and shine.
+
+**535.** With the radiance of His beauty He lights up the world;
+gold and the like are dull — such a comparison does not suit Him.
+
+**536.** The grace of His body breaks the pride of millions of Kandarpas;
+seeing it, the sage was overwhelmed with ecstasy.
+
+**537.** Seeing the sage's condition, the Lord Gaurahari
+mercifully steadied the sage.
+
+**538.** In great bliss the sage fell at the Lord's feet
+and moistened [His] lotus feet with his tears.
+
+**539.** Offering many prayers, he stood before [Him]
+and fixed both his eyes on the Lord's holy face.
+
+**540.** The Lord, embracing [him], says again and again,
+"All your desires will be fulfilled."
+
+**541.** Having said much in this way, the Lord vanished;
+by the Lord's will the sage regained his composure.
+
+**542.** He praises his own good fortune within his mind:
+"At last my austerities have borne fruit."
+
+**543.** Reflecting thus, the sage looks in all four directions;
+how great is his longing to tell the glory of Nadia!
+
+**544.** Constantly he sings the qualities of the Moon of Nadia,
+grey with dust, drenched with streams of tears.
+
+**545.** Jahnu Muni stays here in great bliss —
+for this reason the wise call [this place] Jahnudvipa.
+
+**546.** The pastimes of Sri Gaurachandra in Jahnudvipa —
+when I think of them all, my heart breaks.
+
+**547.** Here there was a wondrous forest full of flowers;
+people say, "This is the penance-grove of Sri Jahnu Muni.
+
+**548.** By seeing this place all afflictions go far away,
+and pure devotion to the Lord's holy feet grows."
+
+**549.** Having said this, Ishana went from Jannagara
+toward the village of Maugachhi.[^12-64]
+
+**550.** Beholding the beauty of the Maugachhi region,
+he says to Srinivasa with a slight smile:
+
+**551.** among people this village is known as Maugachhi;
+formerly its name was Modadrumadvipa.
+
+**552.** How the name Modadrumadvipa became known —
+I shall tell what I heard from the lips of the elders.
+
+**553.** To keep His father's word, the son of Kaushalya
+left Ayodhya and went forth into the forest.
+
+**554.** Casting off His royal attire, the Lord, His heart in great joy,
+wanders from forest to forest with Janaki and Lakshmana.[^12-65]
+
+**555.** Whatever path He walks with His most tender feet,
+that path becomes soft — nothing pricks them.
+
+**556.** Wind, rain and the heat of the sun are always favorable [to Him];
+the wondrous pastime of His wandering is unequalled in the world.
+
+**557.** All the people of many lands — women, men and others —
+seeing Ramachandra's beauty, all were maddened.
+
+**558.** Every forest, mountain and other place where He stayed
+became a great tirtha, its fame made manifest.
+
+**559.** Some distance north of here
+Sri Ramachandra stayed in a mountain cave.
+
+**560.** Even today people make pilgrimage there;
+merely by seeing that place all sorrow is destroyed.
+
+**561.** O Srinivasa, wandering and wandering in this way,
+He came here — what comparison could one give?
+
+**562.** In front — Rama, the son of King Dasharatha;
+in the middle — Sri Janaki; behind — Thakura Lakshmana.
+
+**563.** Seeing the beauty of Sri Rama, Janaki and Lakshmana —
+what to speak of others — even beasts and birds are utterly enchanted.
+
+**564.** Lotus-eyed Rama, worshipped by Brahma and the others,
+walks with the gait of a lordly elephant, looking in all directions.
+
+**565.** From some distance He gazes toward Navadvipa
+and smiles softly, softly, with great amusement in His heart.
+
+**566.** Seeing the smiling face of Sri Ramachandra,
+Janaki asks, "Tell me the reason for Your smile."
+
+**567.** Hearing Sri Sita's skilful words, He, absorbed in rasa,
+speaks to Janaki in the sweetest speech:
+
+**568.** "After the Dvapara, at the beginning of the Kali-yuga,
+there will be a great wonder in this village of Navadvipa.
+
+**569.** Having performed most wonderful pastimes in Navadvipa,
+after that I will accept sannyasa.
+
+**570.** Just as I wander now, so I will wander then;
+thinking of that wandering, I smiled just now."
+
+**571.** Hearing this, Janaki entreats with folded palms:
+"How will You, Lord, sport in the town of Nadia?"
+
+**572.** Hearing this, the Lord says: "I will be born in a brahmana family;
+in childhood I will show all kinds of mischief.
+
+**573.** I will assume a wondrous, incomparable golden complexion;
+looking at Me, the three worlds will go mad.
+
+**574.** I will become learned, My fame will spread through the world;
+after My father's passing I will marry twice.
+
+**575.** Just as I have now offered pinda at Gaya,
+so I will offer pinda according to the custom of the people.
+
+**576.** In Navadvipa I will increase the joy of the devotees;
+I will spread sankirtana, which is rare even for Brahma and others.
+
+**577.** Having instructed My associates in various ways,
+I will become a sannyasi and go away to other lands."
+
+**578.** Hearing this, Sri Janaki says with a smiling face:
+"If You will accept sannyasa, why then marry at all?
+
+**579.** It seems to me that this is improper:
+being supremely merciful, You will become merciless."
+
+**580.** Hearing this, Rama, abashed, says to Sita:
+"Do you not know that I always abide in Navadvipa?"
+
+**581.** Speaking thus, with a sweet gait
+He came to this place with Janaki and Lakshmana.
+
+**582.** Here there was a huge banyan tree;[^12-66]
+they stood beneath it, in its wonderful shade.
+
+**583.** Again Sri Janaki says to the Lord of her life:
+"What is the Lord's joy of sankirtana in Nadia like?"
+
+**584.** Janaki's beloved, the lotus-eyed Rama,
+says to His beloved: "Close your eyes."
+
+**585.** Hearing this, Janaki closes both her eyes
+and beholds wondrous pastimes in Navadvipa.
+
+**586.** Song, dance and music in Nadia have reached their limit;
+the Lord's devotees are countless — there is no comparison for them.
+
+**587.** Amid His associates is the beautiful form of Gaura,
+in the kaishora age, an ocean of great rasa.
+
+**588.** With the graceful bends of His limbs He enchants the worlds;
+seeing that beauty, Sita cannot stay composed.
+
+**589.** Opening her eyes, she looks at the Lord of her life;
+smiling, Sri Ramachandra calmed her.
+
+**590.** Sri Sumitra-nandana, who knows all truths,
+became agitated, remembering those pastimes.
+
+**591.** Here everyone's joy (moda) increased beyond measure;
+for this reason the place was formerly called Modadrumadvipa.
+
+**592.** Whoever sees this Modadrumadvipa
+is favoured by Rama, Janaki and Lakshmana.
+
+**593.** O Srinivasa, this place is Ramavata;
+when Kali entered, the banyan disappeared.
+
+**594.** From here Ramachandra, with great joy in His heart,
+goes on to Utkala with Sri Sita and Lakshmana.
+
+**595.** Entering Utkala and seeing a charming place,
+He installed Shiva named Rameshvara.
+
+**596.** That place is near the river Svarnarekha;[^12-67]
+the fortunate visit it with joy in their hearts.
+
+**597.** From there Ramachandra wanders from forest to forest
+and in place after place performs most wondrous deeds.[^12-68]
+
+**598.** In this village of Maugachhi Sri Gaurasundara
+performed a wondrous pastime hidden from others.
+
+**599.** A brahmana who worshipped Rama lived here;
+O Srinivasa, let me tell you a little about him.
+
+**600.** On the day that Vishvambhara appeared,
+that brahmana was in Mishra's house.
+
+**601.** At the moment of the appearance the gods cry, "Victory!";
+seeing the gods, the brahmana was bewildered.
+
+**602.** In supreme joy he reflects within his mind:
+"My Lord has appeared — of this there is no doubt.
+
+**603.** This Jagannatha Mishra is King Dasharatha;
+Shachi, the mother of the world, is Kaushalya herself."
+
+**604.** Telling no one anything, having seen Vishvambhara,
+he went from Mishra's house back to his own home.
+
+**605.** When he began to meditate on Rama, dark as durva grass,
+he sees Mishra's son — an incomparable golden form.
+
+**606.** While he was full of such thoughts, sleep overcame him,
+and in the guise of a dream Gaurachandra appeared before him.
+
+**607.** The radiance of His limbs surpasses a golden mirror;
+His moonlike face puts to shame the splendour of the moon.
+
+**608.** His arms reach to His knees, His chest is broad,
+the play of His eyes, extending to His ears, is captivating.
+
+**609.** On His head is lovely, glossy, curling, abundant hair,
+wound with many-coloured garlands of various flowers.
+
+**610.** On His neck is the sacred thread — a wondrous beauty;
+every limb is beautiful — there is no comparison for Him in the world.
+
+**611.** He shines on a wonderful jewelled throne;
+before Him Brahma and the other gods offer praises.
+
+**612.** The brahmana looks and looks with joy in his heart —
+and sees Gaurachandra in a form dark as durva grass.
+
+**613.** The Lord who enchants the worlds, the son of Kaushalya,
+shines in a most wondrous royal attire.
+
+**614.** With a smiling face, He holds a bow and arrows in His hands;
+on His left is Sita, on His right Lakshmana holds the parasol.
+
+**615.** Before Him is Hanuman, the son of the Wind;
+he stands with folded palms, and wondrous is his posture.
+
+**616.** Seeing such beauty of Ramachandra, the best of brahmanas
+falls to the ground and bows again and again.
+
+**617.** The Lord, affectionate to His devotees, the abode of virtues,
+showed the brahmana boundless mercy.
+
+**618.** When the Lord vanished from sight, his sleep broke;
+the brahmana, greatly agitated, could not control his body.
+
+**619.** Seeing his state, the Lord again consoled him in a dream
+and forbade him to reveal any of this.
+
+**620.** Becoming calm, the brahmana, with great joy in his heart,
+tells no one anything, having seen Gaurachandra.
+
+**621.** This brahmana, a very old man, at the time of his departure[^12-69]
+out of mercy told some of it in private.
+
+**622.** He was boundlessly merciful to me;
+what can I say of the wonderful glory of that brahmana!
+
+**623.** Look: this is the dwelling place of that brahmana;
+by merely seeing this place the fear of worldly existence is dispelled.
+
+**624.** Here Gaurachandra with His associates
+manifested the pastimes of Rama — I saw it with my own eyes.
+
+**625.** Having said this, Sri Ishana, filled with prema,
+went from Maugachhi to Vaikunthapura.[^12-70]
+
+**626.** To Srinivasa and Narottama he gently says:
+Look, here is Vaikunthapura, renowned throughout the world.
+
+**627.** How the name Vaikunthapura came about
+I will tell a little — just as people tell it.
+
+**628.** One day Narada comes from Sri Vaikuntha
+to Shiva on Mount Kailasa.
+
+**629.** Shiva with his associates, seated on a skin,
+is telling the deeds of Sri Krishna with his five mouths.
+
+**630.** Seeing Sri Mahesha from afar, Narada
+was overwhelmed and, bowing, fell to the ground.
+
+**631.** The three-eyed god, embracing Narada,
+asks: "Where have you come from?"
+
+**632.** Narada replies with a jubilant heart:
+"I went to have darshan of Sri Narayana.
+
+**633.** The Lord of Vaikuntha with His dear associates
+is constantly immersed in talk of Navadvipa.
+
+**634.** Navadvipa in Bharata-varsha is a delightful place;
+He and His associates rejoice, preparing to set out there.
+
+**635.** Seeing this great festivity, I came here in haste.
+I do not know what bliss there will be in Nadia!"
+
+**636.** Hearing Narada's words, the god Maheshvara
+smiles gently; his body is filled with prema.
+
+**637.** Looking at Narada, he sways his head
+and roars — how wondrous are his movements!
+
+**638.** The holy Lord of Mount Kailasa was overwhelmed;
+his white body is drenched with tears.
+
+**639.** Seeing Mahesha absorbed in the Navadvipa pastimes,
+Narada Muni took his leave and went away.
+
+**640.** O Srinivasa, here Sri Narada,
+seeing the beauty of Navadvipa, reflects within his mind:
+
+**641.** "This Navadvipa-dhama contains all dhamas;
+the Lord of all dhamas always sports here.
+
+**642.** I have come after seeing Sri Narayana, the Lord of Vaikuntha;
+will I see the Lord of Vaikuntha here with my own eyes?"
+
+**643.** By the muni's mere wish he directly sees
+Sri Vaikuntha with its dwellers and the Lord of Vaikuntha.
+
+**644.** Narada Muni was overwhelmed with prema
+and could not hold back the tears of his two eyes.
+
+**645.** Having offered many prayers in Navadvipa-dhama,
+he went to Dvaraka and had darshan of Krishna.
+
+**646.** At Narada's arrival the Lord of Rukmini,
+overwhelmed with prema, cast His glance upon him.
+
+**647.** Having pleased Narada in many ways,
+He asks: "Where have you come from?"
+
+**648.** The muni says, "I have come from Navadvipa,"
+and, having said this, fell silent.
+
+**649.** Knowing the muni's heart, merciful Krishna
+took the form of Gaura, which enchants the world.
+
+**650.** Seeing the Moon of Nadia, Narada Muni —
+streams of tears flow from his eyes; he cannot contain himself.
+
+**651.** What he became cannot be put into words at all;
+and at that very moment he sees the dark, beautiful Krishna.
+
+**652.** The form of Gaura-Krishna, a priceless jewel,
+the muni hid away in the casket of his heart.
+
+**653.** He cannot turn his eyes away and keeps on gazing;
+the Lord rejoices, beholding Narada's behavior.
+
+**654.** Calming Narada, He says in soft words,
+"Go quickly to Shiva on Kailasa.
+
+**655.** Make known everywhere the coming to Navadvipa:
+the time has come, there is no need for delay."
+
+**656.** Hearing Krishna's supremely sweet words,
+the muni took his leave and set out.
+
+**657.** Singing on his vina the deeds of Gaura-Krishna,
+he soon arrived at Mount Kailasa.
+
+**658.** Bowing to Shiva, the muni told him everything;
+hearing it, Mahadeva was greatly overwhelmed.
+
+**659.** Taking Narada in his arms, he dances;
+the bliss that there was on Kailasa cannot be described.
+
+**660.** O Srinivasa, the muni proclaimed this everywhere;
+and again Sri Narada Muni came to this place.
+
+**661.** Within himself the muni ponders what is in his heart:
+"What I saw in Dvaraka — shall I see it here?"
+
+**662.** Pondering thus, the muni looks in all four directions
+and sees the opulence of Dvaraka in Nadia.
+
+**663.** On a jeweled throne Gaurachandra shines;
+the radiance of His beauty enchants millions of Kandarpas.
+
+**664.** What Narada Gosani became on seeing the Lord's beauty —
+there is no power to tell.
+
+**665.** The Lord says to Narada in sweet words,
+"In a few days you will see the manifest pastimes here.
+
+**666.** What you have in mind will come to pass in every way:
+I shall easily destroy the terrible suffering of living beings."
+
+**667.** Saying something like this and showing mercy to Narada,
+the Lord Gaurahari vanished from sight.
+
+**668.** O Srinivasa, when the Lord vanished,
+the muni was distraught — how much arose in his mind!
+
+**669.** Here, at this place, Narayana-pitha, the best of munis
+stayed some days and then set off on his travels.[^12-71]
+
+**670.** Here Narada had the darshan of Narayana;
+for this reason the name Narayana-pitha arose.
+
+**671.** Here the opulence of Vaikuntha is manifest;
+therefore Sri Vaikunthapura is famous in the world.
+
+**672.** The king of this land at that time was a worthy one;
+he established the service of Sri Narayana here.
+
+**673.** After some time the village all but vanished;
+then once again it became very populous here.
+
+**674.** There lived here an old and learned brahmana;
+his worship was with the Lakshmi-Narayana mantra.
+
+**675.** His exclusive love for Lakshmi-Narayana —
+what can I say? I saw his pure way of life.
+
+**676.** From time to time, going to the house of Vallabha Mishra,[^12-72]
+he would serve Lakshmi-Narayana, finding a moment of privacy.
+
+**677.** He had great affection for Vallabha Mishra,
+and Mishra Mahashaya revered the brahmana as his guru.
+
+**678.** On the day that Lakshmi was married to the Lord,
+on that day this brahmana was there.[^12-73]
+
+**679.** At the time of the wedding, seeing Lakshmi and Vishvambhara,
+the brahmana dances, crying, "Lakshmi-Narayana!"
+
+**680.** Tears of bliss flow ceaselessly from the brahmana's eyes;
+his whole body thrills, and he cannot keep his composure.
+
+**681.** By the Lord's will the brahmana grew somewhat calm;
+staying there that night, he returned to his own dwelling.
+
+**682.** His dwelling was quite dilapidated — he lived almost under a tree;
+entering his hut, the brahmana floats in tears.
+
+**683.** Remembering Lakshmi and Gaurachandra in Mishra's house,
+his heart ceaselessly overflows with the bliss of prema.
+
+**684.** Within himself the brahmana reaches a firm conclusion:
+"Narayana in the form of Gaura is the son of Shachi.
+
+**685.** Vallabha Mishra's daughter is Lakshmi herself.
+Lakshmi and Narayana have appeared in bodily form on earth.
+
+**686.** The Beloved of Lakshmi, my Lord Gaurachandra —
+will He show me mercy, seeing how wretched and lowly I am?"
+
+**687.** In many ways he offers praises to the Lord,
+and the Lord appeared before his eyes in the brahmana's hut.
+
+**688.** Manifesting a supremely wonderful play,
+the splendor of Vaikuntha appeared in the brahmana's hut.
+
+**689.** The world-enchanting Lord in the form of Sri Gaura
+shines on a jeweled throne together with Lakshmi.
+
+**690.** Their holy bodies are adorned with various jeweled ornaments;
+what comparison is there for the sweetness of the beauty of both?
+
+**691.** At that very moment the Lord Gaurachandra, the merciful,
+became four-armed; seeing this, the brahmana is amazed.
+
+**692.** Falling at the Lord's feet, the brahmana offered many prayers;
+the Lord, who is subject to His devotees, smiling, says to the brahmana,
+
+**693.** "Birth after birth you are My dear servant;
+you are worthy to see My pastimes.
+
+**694.** What you have now seen, tell no one;
+whatever you may ever desire, that desire will be fulfilled."
+
+**695.** Saying this, He placed His feet on the brahmana's head,
+and the pastime of the inconceivable Lord vanished from sight.
+
+**696.** What the brahmana became — who can describe it?
+He ever swims in the ocean of the Navadvipa pastimes.
+
+**697.** O Srinivasa, how much shall I tell of this?
+Here, look: this is where the brahmana's hut stood.
+
+**698.** The Lord, the son of Shachi, with the assembly of His devotees,
+performed endless pastimes in Sri Vaikunthapura.
+
+**699.** One who has an ardent longing to see Sri Vaikunthapura
+easily has all his desires fulfilled.
+
+**700.** Saying this and bowing to Sri Vaikunthapura,
+he goes on to Matapura, looking in all four directions.
+
+**701.** Sri Ishana Thakura says to Srinivasa:
+Here ahead, look, is the village named Matapura.[^12-74]
+
+**702.** Formerly the village was named Sri Mahatpura;
+people call it "Mahat-prasanga-pura."[^12-75]
+
+**703.** By Sri Krishna's will the Pandavas lived in exile in the forest;
+in that exile many great wonders came about.
+
+**704.** The five Pandava brothers wander through many lands;
+there is no end to telling the deeds of the Pandavas.
+
+**705.** Those lands to which the Pandavas did not go —
+the learned call those lands "bypassed by the Pandavas."
+
+**706.** All the glories of the Pandavas are known from the Puranas:
+they destroyed asuras and rakshasas in place after place.
+
+**707.** Wandering on and on, they entered the land of Gauda
+and stayed in Rarh, in a village named Ekachakra.
+
+**708.** The asuras and rakshasas in the region of Ekachakra —
+Bhima slew them all, and his fame spread everywhere.[^12-76]
+
+**709.** How the five brothers, the Sri Pandavas, with Draupadi
+were devoted to the welfare of the people, there is no power to tell.
+
+**710.** In Ekachakra, in solitude, they live in great bliss,
+ever remembering Baladeva and Krishnachandra.
+
+**711.** Seeing the charming beauty of the land of Ekachakra,
+Yudhishthira, the wisest of the wise, ponders within himself:
+
+**712.** "I have seen many lands, but none like this;
+nowhere was my heart so drawn.
+
+**713.** From this I understand that this place is a site of Krishna's pastimes;
+if Krishna reveals it, I shall know its glory."
+
+**714.** As he pondered thus, the night was almost over;
+by Krishna's will a little sleep came over him.
+
+**715.** In the guise of a dream, Balarama, the son of Rohini,
+appeared before him; His beauty was beyond compare.
+
+**716.** Smiling gently, in a wonderful rush of affection,
+He says something to King Yudhishthira in soft words:
+
+**717.** "Some distance from here is a village named Navadvipa,
+encircled by the Suradhuni, a supremely charming place.[^12-77]
+
+**718.** At the beginning of Kali, Krishna will be born there in a brahmana family,
+in a hidden form, with great delight.
+
+**719.** His dear ones will be born in various lands;
+by His will My birth is right here.[^12-78]
+
+**720.** This Ekachakra is the place of My pastimes."
+Saying this, Baladeva disappeared.
+
+**721.** Amazed, the king thinks within himself;
+he sees the village of Ekachakra as if it were Shvetadvipa.[^12-79]
+
+**722.** Just as he was seeing the beauty of the land, his sleep broke;
+in the morning he told the dream to his brothers.
+
+**723.** From Ekachakra the five Pandava brothers
+came to Navadvipa and stopped at this place.
+
+**724.** Seeing the beauty of Navadvipa, he rejoices more at every moment;
+Maharaja Yudhishthira ponders within himself:
+
+**725.** "As I saw in a dream in the village of Ekachakra —
+what shall I see here?" — and, thinking so, he cannot be at rest.
+
+**726.** What was in the king's mind cannot be fathomed;
+by Krishna's will a little sleep came over him.
+
+**727.** In the guise of a dream, Krishna and Baladeva, the two brothers,
+appeared before him; Their beauty enchants the world.
+
+**728.** Krishna, smiling, says to King Yudhishthira,
+"This town of Nadia is My birthplace.
+
+**729.** In the Kali-yuga, appearing together with My associates,
+I shall make the world mad and Myself be maddened in sankirtana.
+
+**730.** Together with all of you I shall sport on the shore of the ocean[^12-80]
+and make [you] drink the rare nectar of the prema of Vraja."
+
+**731.** Saying this, and knowing what was in the king's heart,
+They took on the supremely beautiful form of Gaura.
+
+**732.** Seeing such a form of Krishna and Baladeva,
+Yudhishthira, king of devotees, forgot himself.
+
+**733.** Bathed in tears in supreme bliss,
+he rolls on the ground and falls at the feet of the two Lords.
+
+**734.** The two Lords embraced the king
+and, speaking words of consolation, disappeared.
+
+**735.** When the Lords disappeared, his heart was thrown into turmoil;
+awaking, he sees that the night is giving way to dawn.
+
+**736.** Telling his brothers this wondrous account,
+they stayed here joyfully for some days.
+
+**737.** The noble Yudhishthira is the best of the great (mahat);
+because his dwelling was here, [this place] is called Mahatpura.
+
+**738.** Here five banyan trees spread wide;
+their very cool shade enchanted everyone.
+
+**739.** The five brothers, the Sri Pandavas, together with Draupadi,
+seeing the beauty of Navadvipa, lost their composure here.
+
+**740.** There was [here] a high mound named Yudhishthira-vedi;[^12-81]
+by the Lord's will all of that has vanished.
+
+**741.** O Srinivasa, how much shall I tell of that!
+Here the Pandavas lived unrecognized.[^12-82]
+
+**742.** By the order of Sri Navadvipa-chandra
+the Pandavas set out from here for the land of Odra.
+
+**743.** In Utkala, near Purushottama-puri,
+they stayed for some days in a wonderful forest.
+
+**744.** There was a Deity there named Sri Madhava;
+He was in the possession of a Rakshasa — they found Him.[^12-83]
+
+**745.** With blows of his club Bhima destroyed that Rakshasa
+and spread the service of Sri Madhava among all people.
+
+**746.** Even today fortunate people serve Him.
+Who can tell all the deeds of the Pandavas?
+
+**747.** In this Mahatpura Gaurachandra, in great joy,
+manifests wondrous pastimes together with His associates.
+
+**748.** Whoever sees Mahatpura even once
+easily obtains the priceless treasure of bhakti.
+
+**749.** One who has love for talk of Sri Mahatpura —
+by his mere glance the evil-mindedness of others is dispelled.
+
+**750.** Saying this, he goes on from Sri Mahatpura;
+remembering the pastimes of Gauranga, he is bathed in tears.
+
+**751.** On the eastern bank of the Ganga is the village of Radupura;[^12-84]
+some call Radupura Rudrapura.
+
+**752.** Sri Ishana Thakura, arriving in Radupura,
+says to Srinivasa with a slight smile:
+
+**753.** This Radupura was formerly named Rudradvipa;
+the village has vanished, and now only the place remains.
+
+**754.** How the name Rudradvipa became known —
+I shall tell a little of what I heard from the mouths of the wise.
+
+**755.** Gaurachandra would appear in Nadia —
+at this there was great joy in Sri Rudra's heart.
+
+**756.** Here Rudradeva together with his associates
+became mad in kirtana of Gaura's deeds.
+
+**757.** On all four sides are the charming sounds of various instruments;
+in wondrous poses Maheshvara dances.
+
+**758.** The earth trembles under the weight of Sri Rudra's feet;
+who, seeing the beauty of that dance, could keep his composure?
+
+**759.** Who does not dance when Rudra dances?
+In the heavens the demigods shower down various flowers.
+
+**760.** Joy grows unceasingly in the demigods' hearts;
+all say, "The burden of the living beings' sorrow has been broken."
+
+**761.** Even before the Lord's birth, Rudra sings of the Lord's birth:
+"Now the Lord will surely be born in Nadia.
+
+**762.** Seeing the pastime of the Lord's birth, I shall gladden my eyes."
+Saying this, even in the heavens the demigods dance.
+
+**763.** Singing the Lord's qualities, Rudra forgot himself;
+the Lord, seeing Rudra's state, lost His patience.
+
+**764.** Appearing to Rudradeva unseen by others,
+He calmed Rudradeva, consoling him thus:
+
+**765.** "The desire of your heart I shall fulfil:
+very soon I shall appear together with My associates."
+
+**766.** At the Lord's words Rudra grew calm and, in great bliss,
+praises Gaurachandra in many ways.
+
+**767.** Sri Gaurasundara embraced Rudradeva
+and, overwhelmed with prema, disappeared.
+
+**768.** When the Lord disappeared, Rudra's heart was thrown into turmoil;
+after some time, by the Lord's will, he grew calm.
+
+**769.** Sitting here with his associates, Rudra
+showers a rain of nectar, telling of Gaura's deeds.
+
+**770.** O Srinivasa, this is a supremely holy place;
+because of Sri Rudra's pastimes it is called Rudradvipa.
+
+**771.** By merely seeing this place one is freed from evil-mindedness:
+Rudra awakens love for Gaura's lotus feet.
+
+**772.** Thus Sri Ishana, having told the glory of the place,
+joyfully goes to the village of Belpaukhera.[^12-85]
+
+**773.** He says to Srinivasa: This village is Belpaukhera;
+the ancients say that its former name was Bilvapaksha.
+
+**774.** How this place came by the name Bilvapaksha —
+I shall tell a little of what the people of old say.
+
+**775.** Here dwelt the Deity of five-faced Shiva;
+who knows how to tell his glory?
+
+**776.** Whatever anyone prays for in a matter concerning Sri Krishna,
+the merciful Five-faced fulfils it.
+
+**777.** Once several ascetic brahmanas,
+for the fulfilment of their desires, were worshipping Shiva.
+
+**778.** When they had worshipped Shiva with bilva leaves for a fortnight,
+Shiva became greatly pleased at heart.
+
+**779.** Looking on them with a merciful glance, the five-faced Maheshvara
+says to the brahmanas, "Take the boon you desire."
+
+**780.** The brahmanas said, "That which is the best of all deeds —
+by your grace give that to us."
+
+**781.** Shiva says to the brahmanas, "You have spoken wonderfully:
+there is no deed better than service to Krishna."
+
+**782.** The brahmanas say, "Service is the best.
+How will it be obtained — tell us, O merciful one."
+
+**783.** The Five-faced says, "Have no worry at all:
+you will obtain service to Krishna without effort.
+
+**784.** In a few days, in this very town of Nadia,
+Krishna will descend in a brahmana's house.
+
+**785.** You too will appear along with Him;
+when He is absorbed in His childhood play, you will give [Him] great happiness.
+
+**786.** Studying under Him,
+you will know Him to be the complete Brahman, the Eternal.
+
+**787.** With His dear devotees, ever rejoicing,
+all of you will be engaged in His service."
+
+**788.** Hearing the words of the five-faced Mahadeva,
+all the brahmanas fell to the ground and bowed down.
+
+**789.** Offering many praises and taking their leave,
+they meditate on Krishna's lotus feet, remaining in seclusion.
+
+**790.** O Srinivasa, by the will of Gaura-Krishna,
+after some time the Five-faced became almost hidden.
+
+**791.** The brahmanas worshipped with bilva leaves for a fortnight —
+for this reason the wise call [this place] Bilvapaksha.
+
+**792.** At the sight of this place the Five-faced, in great joy,
+brings [one] to Gaurachandra, who is supremely hard to attain.
+
+**793.** How Vishvambhara sports here with His dear devotees —
+who can describe it?
+
+**794.** Having told this much, Sri Thakura Ishana
+goes to Bharaidanga, a great holy place.[^12-86]
+
+**795.** With joy in his heart he says to Srinivasa:
+Behold Bharaidanga, a wonderful settlement.
+
+**796.** How the name Bharadvaja-tila formerly became known —
+as the people of old tell it, so I shall tell it.
+
+**797.** The sage Bharadvaja,[^12-87] from the ocean and other tirthas,
+came to Chakradaha, near the Ganga.[^12-88]
+
+**798.** Now people call Chakradaha Chakda;
+from there he proceeded to Navadvipa.
+
+**799.** O Srinivasa, the sage, coming here,
+was overwhelmed beholding Navadvipa.
+
+**800.** Staying some days in this forest on a high mound,
+he worships Gaurachandra, feeling himself humble and lowly.
+
+**801.** Won over by Bharadvaja's prema, Gaurahari
+appeared before him in great and wondrous beauty.
+
+**802.** Bharadvaja offered abundant obeisances and praises;
+the Lord commanded, "Take the boon you desire."
+
+**803.** The sage says, "Lord, this is my prayer:
+may I see Your pastimes in Navadvipa."
+
+**804.** The Lord says, "It will be as is in your heart."
+Saying this, the Merciful One disappeared.
+
+**805.** When the Lord disappeared, the sage could not be calm;
+who can understand what the sage went through?
+
+**806.** Bowing down to Navadvipa, the sage Bharadvaja
+went off wandering, to bless the earth.
+
+**807.** On this raised place Bharadvaja dwelt;
+for this reason the name Bharadvaja-tila arose.
+
+**808.** Here are the most wondrous pastimes of Gauranga;
+by seeing this place one's desires are fulfilled.
+
+**809.** Saying this, Ishana Thakura, absorbed in prema,
+went on toward the village of Suvarna-vihara.
+
+**810.** He says to Srinivasa: Behold this village;
+from of old its name has been Suvarna-vihara.[^12-89]
+
+**811.** How the name Suvarna-vihara came about —
+I shall tell a little of what the wise have said.
+
+**812.** In this land there lived a fortunate king;
+his undivided devotion to Krishna was foremost in every respect.
+
+**813.** The disciples, the disciples' disciples and other followers of Narada are great souls;
+one of them came to the king's abode.
+
+**814.** The king, showing him the greatest honor,
+seated him on a seat, bowing down to the ground.
+
+**815.** He asks him about the many avataras of the Lord;
+he told everything in the sweetest speech.
+
+**816.** Pleased with the king, that great soul
+again speaks the sweetest words to the king:
+
+**817.** "In Kali, becoming the golden-complexioned avatara,
+He will perform wondrous pastimes in Navadvipa.[^12-90]
+
+**818.** Sankirtana, supremely hard to attain even for Brahma and others —
+intoxicated with sankirtana, He will intoxicate the world.
+
+**819.** As He danced in the great rasa in Vrindavana,
+so by His dancing He will give happiness to His dear devotees.
+
+**820.** Navadvipa will be the very limit of happiness;
+for this reason the Creator established such a settlement.
+
+**821.** The truth of Navadvipa-dhama is beyond the reach of others;
+only he will know it to whom the Lord's associates reveal it."
+
+**822.** Having said this much, that Vaishnava, a great soul,
+showed mercy to the king and departed.
+
+**823.** Hearing all this, the king reflects in his mind,
+"Shame on this human birth, shame on this life!
+
+**824.** I was ceaselessly absorbed in the affairs of the kingdom;
+I had no association with saints — such is my misfortune.
+
+**825.** Without the association of saints no endeavor succeeds;
+only now has a saint, full of mercy, shown me mercy.
+
+**826.** Now at last I know that this Nadia is the Lord's abode."
+As he reflected thus, his heart overflowed with prema.
+
+**827.** Gazing toward Navadvipa, he sheds streams of tears;
+again and again he bows down to the land of Navadvipa.
+
+**828.** In Navadvipa-dhama the king prays,
+"Grant this: may I be born at that time."
+
+**829.** At these words a voice from the sky came to the king:
+"At the time of [the Lord's] descent you will be born in Nadia."
+
+**830.** Though the king rejoiced at hearing these words,
+still he could not keep his composure: so much arose in his mind.
+
+**831.** The Lord who is affectionate to His devotees, Vishvambhara Raya,
+in the guise of a dream shows the king the wonder of His pastimes.
+
+**832.** On all four sides — thousands upon thousands of devotees;
+they play various instruments, and with their singing they enchant the world.
+
+**833.** In their midst dances the moon of Nadia —
+a dark, beautiful form, like a mass of nectar.
+
+**834.** Seeing Krishnachandra, the king's eyes are soothed;
+and at that very moment he sees Him golden in complexion.
+
+**835.** Losing his composure, the king reflects in his mind,
+"Who is this golden form sporting in sankirtana?"
+
+**836.** As he reflected thus, the king's sleep broke;
+becoming calm, he praises his own good fortune.
+
+**837.** The sporting of the golden form became his meditation;
+for this reason the place bears the name Suvarna-vihara.
+
+**838.** O Srinivasa, I shall tell you more
+of the Lord's wondrous play in His manifest pastimes.
+
+**839.** Here Gaurahari with His company of devotees
+dances, and people watch, filling their eyes.
+
+**840.** Beside themselves, people say to one another,
+"Is a golden form sporting in the kirtana?"
+
+**841.** Someone says, "There is no complexion so beautiful;
+nowhere in the world do I see anything to compare [with it].
+
+**842.** What wondrous play — it enchants the three worlds!"
+Saying this, no one can remain composed.
+
+**843.** Thus [arose] this celebrated name Suvarna-vihara.
+I have told it briefly — I cannot relate it in full.
+
+**844.** Whoever sees the village of Suvarna-vihara,
+his mind sinks into the pastimes of Sri Gauranga.
+
+**845.** Saying this, from the village of Suvarna-vihara
+he goes to Mayapura, to Mishra's home.
+
+**846.** Mayapura is a supremely unprecedented, delightful place;
+whoever sees it even once, his eyes are soothed.
+
+**847.** Who can find the limit of Mayapura's glory?
+Brahma and others always meditate on the place Mayapura.
+
+**848.** Together with Srinivasa, Ramachandra and Narottama
+he came to such a Mayapura, to Mishra's house.
+
+**849.** Entering inside the house, Sri Ishana
+was overwhelmed with prema, remembering the Purusha.[^12-91]
+
+**850.** After some time, becoming calm and calming everyone,
+standing to one side, they behold the sweet beauty of the house.
+
+**851.** To Srinivasa he speaks very softly:
+This house of Mishra is the Mahayogapitha.
+
+**852.** This house increases the sweetness of the Lord's pastimes;
+unfathomable to others, this house is like a lotus.
+
+**853.** Together with Shachi, the best of Mishras, the son of Upendra,
+ceaselessly worships Vishnu in this Vishnu-mandapa.[^12-92]
+
+**854.** As Jagannatha Mishra was mature in every respect,
+so too was his wife Shachi — who does not praise her?
+
+**855.** At the wedding of Shachi and Jagannatha there was great joy;
+for all who saw it, all their sorrows were dispelled.
+
+**856.** Nilambara Chakravarti, a man of great learning —
+Shachi was his daughter; he gave her to Mishra.[^12-93]
+
+**857.** To Sri Shachi were born eight daughters and one son;
+the son's name — Vishvarupa — is known everywhere.[^12-94]
+
+**858.** There is no end to telling of Vishvarupa's character;
+the fortunate describe his qualities in various ways.
+
+**859.** *Thus [it is said] in the Sri Krishna-chaitanya-charita, in the first prakrama:*
+*"Then his guru, knower of the truth, gave him, who knew the meaning of all the shastras,*
+*the title 'Sriman Mishra-purandara.'*[^12-95]
+
+**860.** *Once him — a man of good family, learned, the best of the righteous —*
+*the glorious, magnanimous Nilambara by name, a Chakravarti,*
+
+**861.** *having called him, gave [him] his daughter Shachi — he, honored in his clan;*
+*and Mishra-purandara too, obtaining Shachi, prospered.*
+
+**862.** *Then, as he dwelt at home, his dharma increased*
+*through hospitality, propitiatory rites, purifications, and the fruits of regular and optional rites.*
+
+**863.** *There in time eight auspicious daughters were born to him;*
+*one after another, by fate, they passed away. Shachi,*
+
+**864.** *her mind scorched by the grief of a mother's love, in her heart went to Hari*
+*as her refuge for the sake of a son; and he, the glorious one, performed the pitri-yajna.*[^12-96]
+
+**865.** *In time he obtained a son like the son of a god;*
+*Jagannatha rejoiced, like a pauper who has found a treasure.*
+
+**866.** *The father gave the glorious [child] the name Vishvarupa.*
+*By him, the great soul, studying, in a very short time*
+
+**867.** *the Vedas, the nyaya-shastra and the supreme true yoga were mastered;*
+*he was all-knowing, wise, peaceful, a benefactor of all.*
+
+**868.** *Ever intent on meditation on Hari, he did not turn his mind to sense objects,*
+*ceaselessly intoxicated with tasting the rasa of the Srimad-Bhagavatam."*
+
+**869.** O Srinivasa, Vishvarupa's heart —
+who can understand what he ceaselessly contemplates?
+
+**870.** Sri Advaita Acharya knows all truths;
+"I will bring the Lord down" — at this He rejoices every moment.
+
+**871.** With Ganga water, tulasi, sandal paste and flowers
+He worships the Lord, giving great thunderous roars.[^12-97]
+
+**872.** Gaining great bliss from Sri Advaita's thunderous roars,
+Gaurachandra took shelter in Shachi's womb.
+
+**873.** The splendor of Shachi and Jagannatha grew beyond measure;
+in Shachi's womb Gaurachandra happily abides.
+
+**874.** When, counting one, two, six months had passed,
+the Lord, dwelling in the womb, attracts all hearts.
+
+**875.** Suddenly Sri Advaita, coming right here,
+worshipped Shachi's womb, offering sandal paste and fragrances.
+
+**876.** Circumambulating [her], He joyfully went to His own home;
+Shachi and Jagannatha here were amazed.
+
+**877.** Here, before Shachi, Brahma and others offer praises;
+remaining in the womb, the Lord displays various wonders.
+
+**878.** For thirteen months He remained in Shachi's womb;
+who can understand this supramundane lila?
+
+**879.** *Thus [it is said] in the Sri Krishna-chaitanya-charitamrita-mahakavya, in the second sarga, the twenty-fourth shloka:*
+*"Gradually those ten months and three more,*
+*drawing near, came to completion;*
+*the last of them, the month of Tapasya, full of blessings,*
+*became the sole source of the world's happiness."*[^12-98]
+
+**880.** In the year fourteen hundred and seven [of the] Shaka [era], on the full moon of Phalguna,
+under the Phalguni nakshatra, the limit of all auspiciousness, —
+
+**881.** at the time of a lunar eclipse Vishvambhara
+descended: behold, here is the house of [His] birth.[^12-99]
+
+**882.** Jagannatha Mishra obtained a jewel of a son;
+with [His] form, beautiful in every limb, [He] enraptured everyone.
+
+**883.** *Thus [it is said] in the Sri Krishna-chaitanya-charita, in the first prakrama:*
+*"Seeing the son — with eyes like blossoming lotuses, with a face like the shining full moon, golden in radiance,*
+*Himself by His effulgence freeing the directions of darkness — he…"*[^12-100]
+
+**884.** O Srinivasa, on the pretext of the lunar eclipse
+He made everyone take His own name.[^12-101]
+
+**885.** Everywhere immense crowds of people gathered;
+they perform kirtana, and joy arises in every heart.
+
+**886.** He from whose mouth I never heard the name of Krishna —
+he too, taking the name, bathes in the Ganga.
+
+**887.** What to speak of others — even the yavanas say "Krishna."
+Thus Shachi's son delivers the living beings.
+
+**888.** The Lord who loves sankirtana was born amid sankirtana;
+the glory of sankirtana is known in the three worlds.
+
+**889.** *Thus [it is said] in the words of the Prabhasa-khanda cited in the Padyavali:*
+*"Cleansing the mirror of the heart, extinguishing the great forest fire of worldly existence,*
+*spreading the moonlight on the white water lilies of the highest good, the life of the bride of knowledge,*
+*expanding the ocean of bliss, giving at every step a taste of full nectar,*
+*bathing the whole self — supremely victorious is Sri Krishna-sankirtana!"*[^12-102]
+
+**890.** Whoever has heard the kirtana of the holy name — he too is blessed;
+who can tell the glory of hearing?
+
+**891.** *Thus [it is said] in the Sri Krishna-chaitanya-charita, in the first prakrama:*
+*"The love that arises in half a moment in such as us when we hear the kirtana of Sri Hari*
+*does not arise even from millions of sacrifices."*
+
+**892.** The news of the Lord's birth spread everywhere;
+drawn by the Lord, everyone lost their composure.
+
+**893.** Countless people rushed to Mishra's house;
+no one could tell who was a god and who a human.
+
+**894.** In Mishra's house an ocean of bliss surges;
+the wise describe in detail the pastimes of the Lord's birth.
+
+**895.** *Thus [it is said] in a song (raga Vasanta):*
+"Victory, victory!" — a clamor [fills] the town of Nadia:
+from the womb of Shachi Gorachand was born.
+
+**896.** The lunar day is the full moon of Phalguna, the nakshatra Phalguni;
+at an auspicious moment Gora was born, the jewel of the twice-born.
+
+**897.** Surpassing the full moon, He manifested [Himself];
+the darkness went far away, having lost hope.
+
+**898.** In the Dvapara-yuga there was the descent of Krishna;
+He Himself then slew the asuras.
+
+**899.** From the womb of Shachi there was the descent of Gora;
+in the Kali-yuga Gora delivered the living beings.
+
+**900.** So sings Vasudeva Ghosha, cherishing hope in his heart,
+relying on the two feet of Lord Gora.[^12-103]
+
+**901.** *Again, raga Vasanta:*
+Gaurachandra has appeared;
+in all ten directions joy has arisen. (Refrain.)
+
+**902.** In beauty [He] surpasses millions of Madanas;
+He laughs, hearing His own kirtana.
+
+**903.** His face and eyes are exceedingly sweet;
+all the signs of a great king are seen.
+
+**904.** On His holy feet shine [the marks of] the flag and the thunderbolt;
+all His limbs captivate the minds of the world.
+
+**905.** All misfortunes have gone far away;
+all riches have become manifest.
+
+**906.** Acknowledging Sri Chaitanya and Nityananda [as his Lords],
+Vrindavana Dasa sings [Their] qualities.
+
+**907.** *Again, raga Vasanta:*
+At an auspicious moment of the full moon of Phalguna,
+having given birth to a son, Shachi gazes at the son.
+
+**908.** Moment by moment so many [feelings] rise in [her] heart;
+taking [Him] for golden fresh butter, she does not dare to touch [Him].
+
+**909.** With how much care she takes [Him] onto her lap!
+[She] tells the excellent Mishra of the son's birth.
+
+**910.** Jagannatha, the crest-jewel of brahmanas,
+hearing of the son's birth, floats in an ocean of happiness.
+
+**911.** With what longing he hurries [there]!
+Beholding the moon-like face, he cannot contain himself.
+
+**912.** Gathering his dear ones,
+he performs auspicious rites for the welfare of the son.
+
+**913.** On all sides are cries of "Victory, victory!";
+all say, "Blessed, blessed are the father and mother!"
+
+**914.** In everyone's heart happiness grows;
+the Suradhuni and the Earth forget all sorrows.
+
+**915.** All ten directions have become bright;
+beasts, birds, trees and creepers — all have blossomed with joy.
+
+**916.** What more can Narahari say?
+With the rising of Gaurachandra, suffering and darkness have gone.
+
+**917.** *Again, raga Dhanashri:*[^12-104]
+The full moon of Phalguna, the very limit of auspiciousness: the Moon of Gokula has appeared.
+In the town of Nadia, in house after house, an ocean of bliss surges.
+
+**918.** What merriment among everyone together!
+Shachi-devi joyfully, holding her son on her lap, abides in the birth chamber. (Refrain.)
+
+**919.** To see the child they run from all four sides; no one can keep composure;
+in the darkness of the eclipse, who recognizes whom? — [such is] the movement of countless people.
+
+**920.** Seeing the child's sweetness to their eyes' fill, [people] forget their own bodies.
+Narahari says: what new love the son of Shachi reveals!
+
+**921.** *Again, raga Kamoda:*
+In the supremely auspicious womb of Shachi abides Gaura, the Lord of Gokula;
+the gods again and again offer praises and obeisances; the house fills with joy.
+
+**922.** A lovely night of the full moon of Phalguna; as the moon rose, Rahu swallowed [it].
+At such a time the Lord appeared, having first made His name manifest.[^12-105]
+
+**923.** Cries of "Victory, victory!" fill the world; no one keeps composure;
+entering Mishra's house and seeing the infant, [all] become as if mad.
+
+**924.** They perform various auspicious rites, ever new; all desires are fulfilled.
+Narahari says: the weight of pride of mighty Kali is smashed to pieces.
+
+**925.** *Again, raga Vasanta:*
+"Victory, victory, victory!" — an auspicious clamor; the night of the full moon of Phalguna is newly beautiful; from the womb of Shachi Gaura has appeared, the delight of Vraja.
+The fine little body of the child shines — like kunkuma, like steady lightning; the sweet moon of His face gleams, shattering all composure.
+
+**926.** Seeing the Lord's appearance, the gods in the sky with [their] hosts again and again shower [Him] with garlands of flowers; [their] limbs are filled with abundant thrills of ecstasy.
+In their hearts they form so many wishes; stirred, they tell of the lovely deeds; their eyes brim with tears — how many [wondrous] sights they obtain in great delight!
+
+**927.** Skillfully the kinnaras sing, softly sounds the mridanga: "dha dhiki dhiki ta dhik dhik dhikata taka dhinnana."
+Hosts of celestial dancing girls dance, performing abhinaya in many ways: "ughata tata ka thai thai thai, ti ai ai a tennana."[^12-106]
+
+**928.** Pure and bright are the ten directions, gently blows the Malaya breeze; flocks of cuckoos [call] "kuhu" — so full of rasa has spring, the king of seasons, become.
+The waters of the river of the gods surge, joy spreads over the land of Nadia; from the merriment in Mishra's house Narahari's heart is enraptured.
+
+**929.** *Again, raga Vasanta:*
+Today is the full moon; at the evening hour Rahu swallowed the moon.
+Then Gaurachandra rose, destroying suffering and darkness.
+
+**930.** The hearts of all the devotees blossomed; no one keeps composure.
+Near the Lord of Sita [the devotees] move about, utterly maddened.
+
+**931.** Again and again Advaita, supremely composed, roars;
+He rejoices with His dear [associates] during the eclipse on the bank of the Suradhuni.
+
+**932.** An auspicious clamor filled the whole town of Nadia;
+in the merriment no one noticed how the night passed.
+
+**933.** Fair and auspicious is the beauty of Mishra's house; wealth and happiness increase;
+many people come — and who goes away, leaving the house?
+
+**934.** All the instruments sound softly; the musicians are drunk with joy;
+the singers, skilled in song, sing in so many ways.
+
+**935.** How many dancers dance, calling out "tatta thai tathai";
+the bards proclaim the spotless glory, unfolding all the grace [of their art].
+
+**936.** Mishra, gladdening the hearts of the supplicants, gives fitting gifts;
+the incomparable waves of fresh butter Ghanashyama beholds.[^12-107]
+
+**937.** *Again, raga Vasanta, Todi:*[^12-108]
+At what an auspicious moment is the birth of Gorachand — the stealer of the world's minds, the Lord of Gokula!
+Seeing her son's face, how much happiness Shachi feels — can another tell of it?
+
+**938.** The women of the town of Nadia come in rows, carrying trays full of many gifts.
+The wives of the gods, beautifully adorned, mingling with the humans, gaze at the child and cannot be still.
+
+**939.** Sri Sita-devi, coming and entering the birth chamber, sees the infant, and her heart rejoices.
+Together with Malini and others [she] is immersed in various delights and performs so many auspicious rites.[^12-109]
+
+**940.** And how many cowherd women, hundreds upon hundreds of cowherd men come in lovely attire, bringing yogurt.
+All, their hearts overwhelmed, by [their] former nature scatter yogurt in the middle of the courtyard.[^12-110]
+
+**941.** Clapping their hands, laughing, they dance finely; seeing this, the gods, taking the guise of cowherds,
+dance in the courtyard — who does not dance there? — ceaselessly crying "Victory, victory!"
+
+**942.** So the instruments resound that there is no merriment [anywhere] like it; in Mishra's house is the very custom of Nanda's house.
+What can Narahari say? At the festival of the Lord's birth, in their jubilation no one remembers anything.
+
+**943.** O Srinivasa, what shall I say of the birth?
+Here Nilambara Chakravarti calculates the lagna.[^12-111]
+
+**944.** Here on the eighth day eight [kinds of] beans are distributed;
+countless children filled this courtyard.[^12-112]
+
+**945.** Here the gods see the Lord's pastimes;
+in various merriments a month was completed.
+
+**946.** Here, as Vishvambhara rose and lay down,
+mother and father see various marks on [His] holy feet.[^12-113]
+
+**947.** Here at the child's utthana festival the women
+perform auspicious rites — that is a wondrous tale.
+
+**948.** Here Vishvambhara, on the pretext of crying,
+suddenly makes everyone say "Haribol."
+
+**949.** What shall I say of the wondrous manifestations of [His] childhood mood?
+Vishvambhara reached the age of four months.
+
+**950.** In this house Ai, having laid Vishvambhara down,
+went off somewhere, leaving the child alone.
+
+**951.** No one understands the child's wondrous doings:
+[He] spoils various provisions in the house.
+
+**952.** Coming back, [she] sees her son lying in bed.
+"Who did this?" she thinks to herself.
+
+**953.** Here at six months, at the time of the annaprashana,
+the name-giving took place — with exceeding merriment.[^12-114]
+
+**954.** The names Sri Nimai and Vishvambhara — by popular custom;
+then [His] name became widely known in the world.
+
+**955.** The rites of the annaprashana of which people sing
+were all performed in Nadia with great bliss.
+
+**956.** *In a song — raga Kamoda:*
+The men and women of Nadia, regarding [it] as the fruit of their pious deeds and greatly delighted at heart,
+all come to Nimai's annaprashana, bringing various gifts.
+
+**957.** The beauty of Shachi's son [all] behold to their eyes' fill — on the lap of the fortunate Nilambara.
+[He] is all in new and ever new ornaments; on His hips a silk dhoti, its end swaying.
+
+**958.** His little body surpasses a golden lotus; and for His face — what comparison? [What is] the splendor of the moon!
+How wondrously, as [He] takes grains of sweet rice, [He] lights up with a gentle smile!
+
+**959.** At such jubilation who can keep composure? To tell of the merriment, words do not come to the lips.
+All praise Shachi and Jagannatha; Narahari's heart overflows with happiness.
+
+**960.** What shall I say? Shachi-devi, staying here,
+obtained bliss from the honor of all the people.
+
+**961.** Here Ai, in great happiness, having laid her son down,
+having prepared kajal, applies [it] to His eyes to refresh [them].
+
+**962.** Here Ai sits, with the women all around;
+taking Nimai onto her lap, she suckles [Him].
+
+**963.** Here Ai, to lull Nimaichand to sleep,
+sings in the sweetest voice whatever comes to her mind.
+
+**964.** O Srinivasa, here Shachi Thakurani
+fondled the child so much — I do not know how to tell it.
+
+**965.** In this courtyard the Lord crawled on His knees;
+that wondrous beauty the wise describe with joy.
+
+**966.** *As [it is said] in a song:*
+How can I tell with one mouth the pastimes of Gorachand?
+Nimbly crawling on all fours, in many playful ways, goes the child of Shachi.
+
+**967.** Drool trickles — the face is so lovely to see;
+the charming red lips surpass a ripe bimba fruit.
+
+**968.** Angada and valaya bracelets adorn the two lovely arms;
+on the feet are magara kharu anklets, at the neck a tiger's claw.[^12-115]
+
+**969.** A golden chain on the head, a silken tassel;
+Vasudeva Ghosha says: I offer myself up [for Him].[^12-116]
+
+**970.** *Again, raga Todi:*[^12-117]
+Jagannatha Mishra, in great happiness,
+taking his son onto his lap, kisses [His] moon-like face.
+
+**971.** He arranges ornaments in the hair on His head;
+running [his] fingers [through it], he feels affection well up in his heart.
+
+**972.** Nimai, from His father's lap,
+nimbly gets down to roam about the courtyard.
+
+**973.** He crawls about the courtyard;
+golden anklets jingle on His lovely feet.
+
+**974.** As He goes, He looks back;
+Mishra, standing, watches the sweetness of His movements.
+
+**975.** Coming in front of Him, His mother says,
+"Come up into my arms, my child — dust is getting on Your body."[^12-118]
+
+**976.** Putting His hand in His mother's hand,
+He climbs onto her lap — gently, smiling, smiling.
+
+**977.** The gleam of His teeth, like drops of milk,
+shows when He smiles — who then could keep his composure?
+
+**978.** Whomever He looks at with His two eyes,
+He sets afloat forever in an ocean of happiness.
+
+**979.** He looks beautiful on His mother's lap;
+Narahari offers himself for the One who enchants the minds of the world.[^12-119]
+
+**980.** Here Ai, taking her son on her lap, asks,
+"Eyes, nose, mouth — which is which? Tell me, Nimai."
+
+**981.** Hearing His mother's words, He is filled with great joy
+and points with His little finger to eyes, nose, mouth.
+
+**982.** Crawling on His knees, here He gave joy to a snake:
+He lay down on the snake's coils.
+
+**983.** Seeing this, all cried out in fear, "Alas, alas!"
+For this reason Ananta-deva comes along this path.[^12-120]
+
+**984.** Here Vishvarupa, taking Vishvambhara on his lap,
+brushes the dust off His body, saying I know not what.[^12-121]
+
+**985.** Crawling on His knees, He displays all sorts of play,
+takes away everyone's sorrow — the beauty is beyond words.
+
+**986.** O Srinivasa, when He [began] to walk on His holy feet,
+there was supreme delight in this wondrous courtyard.
+
+**987.** At the touch of His lovely feet the earth's pain is destroyed;
+by the rays of His body He draws all hearts.
+
+**988.** *Thus [it is said] in the Sri Krishna-chaitanya-charita, in the first prakrama:*
+*Then, in time, He of immeasurable splendor, wandering on His reddish feet,*
+*removed the earth's suffering born of separation.*
+
+**989.** Who knows the secret of this spot in the courtyard?
+Here He began to walk on His feet.
+
+**990.** *Thus [it is said] in a song (raga Todi):*
+Shachi Thakurani, in a lovely way,
+teaches Gorachand to walk.
+
+**991.** Softly, softly, smiling, she says,
+"Come here, hold my finger."
+
+**992.** Hearing this, the Moon of Nadia happily,
+smiling, takes hold of His mother's finger.
+
+**993.** Slowly, slowly He gets up and stands
+and walks two or four steps.
+
+**994.** Letting go of the finger, He falls to the ground;
+Shachi, taking [Him] on her lap, kisses His face.
+
+**995.** Climbing onto her lap, He swings His feet;
+the anklets jingle on His reddish feet.
+
+**996.** Kneading with His little fingers, He drinks at the breast —
+there is no comparison one could give for it.
+
+**997.** He looks playfully in all four directions;
+for this Narahari offers himself.
+
+**998.** By His own will Vishvambhara grows day by day;
+in supreme delight He wanders alone in this courtyard.
+
+**999.** The women who live in Navadvipa, in great bliss,
+come here at dawn and gaze at Gaurachandra.
+
+**1000.** *Thus [it is said] in a song (raga Vibhasha):*
+What a turn of mind in the most virtuous
+women of Nadia, devoted to their husbands!
+They have no thought for their own sons —
+ceaselessly they speak of the deeds of Shachi's son.
+
+**1001.** Seeing that the night is ending, leaving their beds,
+they cannot keep patience even for a moment;
+filling platters with all kinds of things, row upon row,
+they carry [them] to give to the Moon of Nadia.
+
+**1002.** As they enter Shachi's house, in their hearts
+whole oceans of delight well up.
+They all see: on His mother's lap
+Gora, the Moon of Gokula, sits and plays.
+
+**1003.** A delight to the eyes and the life of the women:
+getting [Him], taking [Him] on their laps, they forget their bodies.
+Narahari says: Ah, I die, I die!
+Who created such love?
+
+**1004.** Here was Nimai's wondrous dancing:
+clapping their hands, the women make Him dance.
+
+**1005.** *Thus [it is said] in a song (raga Todi):*
+"Dance, my child Vishvambhara!
+I will give You a handful to eat of thickened milk, fresh butter and cream."
+
+**1006.** The devoted wives, all around,
+say so much to Nimaichand in soft voices.
+
+**1007.** Saying, "Say, say: Hari, Hari!"
+they all clap their hands together, again and again.
+
+**1008.** Looking at His mother, Gora,
+saying "Hari bol," dances in various styles.
+
+**1009.** What a gentle smile on His moon-face!
+It enchants the world, pouring out nectar in heaps upon heaps.
+
+**1010.** Lovely are the glances of His eyes;
+seeing the graceful movements of His arms, who could stay steady?
+
+**1011.** What sweet, sweet radiance!
+The courtyard flashes with the rays of His golden body.
+
+**1012.** The kinkini bells and anklets jingle beautifully;
+Narahari offers himself for the rhythm of His soles.
+
+**1013.** Here the mother, overwhelmed with maternal love,
+says so much, gazing at Nimaichand's face.
+
+**1014.** *Thus [it is said] in a song (raga Dhanashri):*[^12-122]
+Ah, my golden Nimai!
+Do not leave Your own home to go to someone else's —
+sit and play here, in this spot. (Refrain.)
+
+**1015.** The children will come to play with You —
+keep them all right here.
+Whatever You want, whenever You want it, I will bring and give;
+what is lacking in my house?
+
+**1016.** If anyone says anything [to You], show him [Your] fear,
+pleading Your father's prohibition.
+If You go out of the house with the restless boys,
+can a mother hold her heart steady?
+
+**1017.** If You are out of my sight even for a moment, life will not stay in my body;
+Narahari knows my grief.
+Heed Your mother's words, sit at home and play,
+so that I may always see [Your] moon-face.
+
+**1018.** Here Vishvambhara smears His body with dust;
+seeing it, His mother, laughing, cries, "Oh dear, oh dear!"
+
+**1019.** Here, in order to tell His mother something,
+He gave up sandesha and the like and ate earth.[^12-123]
+
+**1020.** One day in this house Shachi, the Mother of the world,
+to lull her son to sleep, tells stories from the Puranas.
+
+**1021.** At every phrase [of hers] Vishvambhara lets out a hunkara;
+in supreme joy the mother tells on and on:
+
+**1022.** "O my child Vishvambhara! Krishna in Mathura
+went to Kamsa's assembly to kill Kamsa.
+
+**1023.** Soon, having fought the demon Kamsa in wrestling,
+He threw Kamsa down from the dais to the ground and killed him."
+
+**1024.** Hearing this, the Lord, in a fit of anger, says again and again,
+"Whoever else is left — him I will destroy!"
+
+**1025.** Another day the Lord, lying in this house,
+in a dream addresses the gods — Shiva, Brahma and the others:
+
+**1026.** "O Shiva, Brahma! Do not be anxious in your minds:
+delivering the living beings, I will make [them] mad with sankirtana."
+
+**1027.** Thus Vishvambhara speaks various words in His dream;
+hearing [this], His mother, her heart alarmed, goes "thu-thu."[^12-124]
+
+**1028.** O Srinivasa, what play Vishvambhara displays in His childhood mood —
+I do not know how to tell any of it.
+
+**1029.** Ai was in this house with Vishvambhara;
+suddenly a great crowd gathered at this spot.
+
+**1030.** Seeing the gods — the Four-faced, the Five-faced and others —
+Mother Shachi was filled with fear.
+
+**1031.** Jagannatha Mishra was lying in this house;
+she sent her son to his father.
+
+**1032.** Suddenly they hear the sound of anklets;
+astonished, the father and mother say so much to each other.
+
+**1033.** At daybreak the father and mother, apprehensive,
+performed the auspicious rites that are prescribed.
+
+**1034.** Here Vishvambhara dances among the children;
+seeing that beauty, [people] say so much to one another.
+
+**1035.** *Thus [it is said] in a song (raga Kamoda):*
+What is this I have seen — a golden doll!
+In Shachi's courtyard He dances, grey with dust.
+
+**1036.** All around Him naked boys have gathered;
+in their midst Gora dances, saying, "Hari, Hari."
+
+**1037.** On radiant lotus feet the jewel of the twice-born runs about;
+His mother listens with delight to the sound of His anklets.
+
+**1038.** Vasudeva Ghosha, who knows the rasa of childhood, says:
+blessed are the people of Nadia, rich is Navadvipa![^12-125]
+
+**1039.** O Srinivasa, in this courtyard Vishvambhara
+dances with all kinds of play — that delight is enchanting.
+
+**1040.** *Thus [it is said] in a song (raga Vibhasha):*
+In Shachi's courtyard Vishvambhara Raya dances;
+laughing, laughing, turning, turning, He hides from His mother.
+
+**1041.** Covering His face with a cloth, He says, "I've hidden!"
+Shachi says, "Vishvambhara! I can't see [You]!"
+
+**1042.** Holding the end of His mother's cloth, on restless feet,
+dancing, dancing, He goes with the gait of a wagtail.
+
+**1043.** Vasudeva Ghosha says: matchless beauty!
+Seeing this child form, the mind of the world is filled with longing.
+
+**1044.** *Again, raga Bhatiyali:*[^12-126]
+Gora dances, Shachi's darling child.
+All around, the boys have gathered and clap their hands,
+saying, "Hari bol, Hari bol." (Refrain.)
+
+**1045.** A bright cap on His head, a golden necklace at His throat;[^12-127]
+His mother has fondly dressed [Him] in a little dhara, tied tight.
+
+**1046.** Beautiful curling hair, a shapely body,
+attire that enchants the world, eyebrows — the bow of Kama.
+
+**1047.** Many ornaments of silver and gold adorn His body charmingly.
+His two feet are red lotuses; when He lifts [them], the anklets jingle.
+
+**1048.** In Shachi's courtyard He dances without pause,
+babbling half-formed words.
+Vasudeva Ghosha says: take [Him], take [Him], hold [Him] on your lap —
+Gora is like the life of [our] life.
+
+**1049.** *Again, raga Kamoda:*
+Playfully Shachi's child dances,
+lighting up the world with His beauty.
+
+**1050.** His body surpasses a golden lotus;
+grey with dust — as if [covered] with pollen.
+
+**1051.** His dress and ornaments shine beautifully;
+saying "Hari," He claps His hands.
+
+**1052.** He smiles gently in a sweet manner —
+who then could keep his composure?
+
+**1053.** With what playfulness He looks in all directions!
+His mother fills His hand with cream.
+
+**1054.** Striking poses, He whirls again and again;
+the end of His dhoti trails on the ground.
+
+**1055.** The bells at His waist — a lovely radiance,
+and from them a cascade of jingling: "jhinini."
+
+**1056.** The anklets ring on His feet: "jhanunnu";
+Narahari offers himself for Him.[^12-128]
+
+**1057.** What shall I say? Here the son of Shachi,
+holding the end of His mother's cloth, goes about everywhere.
+
+**1058.** The Lord goes outside the house to play;
+places pure and impure — He roams everywhere.
+
+**1059.** Standing here, Shachi Ai says,
+"Do not go to impure places, foolish Nimai."
+
+**1060.** What Vishvambhara replied to His mother's words —
+on merely hearing it, the heart was filled with wonder.
+
+**1061.** In play He plays at monkeys here on the bank of the Ganga;
+standing here, His mother calls [Him] loudly.
+
+**1062.** Coming unseen, He slipped into this house
+and in anger scatters all sorts of things.
+
+**1063.** Taking Nimai on her lap here, Shachi-devi
+says much to Him; Nimai does not heed her words.
+
+**1064.** Getting down from her lap, the Lord runs away;
+with a stick in hand Ai runs after Him.
+
+**1065.** People on all sides watch and say again and again,
+"Sri Shachi behaves just like Yashoda."
+
+**1066.** Here, making a seat of discarded clay pots,
+Vishvambhara sits, with smudges of soot all over His body.[^12-129]
+
+**1067.** His mother says, "You do not know pure from impure.
+Go quickly and bathe; heed my words."
+
+**1068.** Hearing this, He says much in anger, delighted within,
+and, taking up a brick, threatens His mother.
+
+**1069.** Here Ai lay in a swoon among the women;
+then Nimai brought a coconut.
+
+**1070.** Here He plays with a puppy
+and keeps it on the raised step of this house.
+
+**1071.** By a ruse Ai let that puppy go;
+here Nimai, weeping, scolds His mother.
+
+**1072.** How Shachi-devi, the Mother of the world, here
+consoles the child — who knows that?
+
+**1073.** Here Ai, arranging various offerings,
+goes to the foot of the banyan tree to worship Shashthi.[^12-130]
+
+**1074.** Here Vishvambhara was absorbed in play;
+heedless of prohibition, He eats the articles for Shashthi's puja.
+
+**1075.** Here Ai, touching the feet of the elderly women,
+begs each one of them for Nimai's welfare.
+
+**1076.** Here the women, taking Nimai on their laps,
+teach Him so many things that I cannot tell them.[^12-131]
+
+**1077.** O Srinivasa, Vishvambhara acts as He wills;
+how much mercy He showed to two thieves cannot be told.
+
+**1078.** Seeing many ornaments on Vishvambhara's body,
+two men here plotted to take them.
+
+**1079.** Him who bewilders the world they beguiled and carried off;
+the thieves, bewildered, wandered about Nadia.[^12-132]
+
+**1080.** Here, carefully setting [Him] down from their shoulders,
+the thieves ran away — this sport went unnoticed by anyone.
+
+**1081.** Nimaisundara is the crest-jewel of the restless;
+whatever He does at any time — how could I tell it?
+
+**1082.** Going into anyone's house, He makes the children cry
+and smashes all the pots of yogurt and milk.
+
+**1083.** Here they come joyfully with their complaints,
+as the gopis in Vraja spoke to Yashoda.
+
+**1084.** O Srinivasa! In this town of Nadia,
+in Mishra's house, the service of guests was beyond all measure.
+
+**1085.** Be it a brahmana or a sannyasi, or whoever it might be,
+he received all with honour, with great joy in his heart.
+
+**1086.** One day there came a certain tairthika brahmana[^12-133] —
+of divine radiance, pure in conduct, the best of all.
+
+**1087.** His learning in all the shastras no one could fathom;
+his worship was the six-syllable mantra of Sri Gopala.
+
+**1088.** The ornament at his neck was Sri Bala-gopala, a shalagrama;[^12-134]
+with his lips he ceaselessly chanted the name of Krishna.
+
+**1089.** Seeing him, Mishra, with great joy in his heart,
+gave him lodging in this house according to due custom.
+
+**1090.** Here the brahmana suddenly saw Vishvambhara:
+"Whose boy is this?" — and he cannot turn his eyes away.
+
+**1091.** "I have never seen such a boy anywhere," —
+growing agitated, the brahmana says to himself.
+
+**1092.** Looking at the brahmana, the Lord smiled slightly
+and went outside the house to play with the children.
+
+**1093.** The brahmana, very composed, says nothing to anyone;
+seeing Mishra's efforts, he rejoices in his heart.
+
+**1094.** With great care Mishra had the brahmana cook;
+the cooking was finished when evening had almost passed.
+
+**1095.** To offer the bhoga to Krishna, the best of brahmanas sat down in meditation;
+there came the beautiful Vishvambhara, the Knower of hearts.
+
+**1096.** Laughing with great joy, He eats a mouthful of rice;
+seeing this, the fortunate brahmana cries, "Alas, alas!"[^12-135]
+
+**1097.** Mishra, in great anger, wants to beat his son;
+saying much, the brahmana held back Mishra's hands.
+
+**1098.** At Mishra's word he cooked again;
+and again Vishvambhara ate in the same way.
+
+**1099.** Again, at the humble entreaty of Vishvarupa,[^12-136] the best of brahmanas
+cooked once more; once more Vishvambhara eats in the same way.
+
+**1100.** The Lord, affectionate to His devotees, having eaten three times,
+at the end showed such grace as is impossible to tell.
+
+**1101.** By the Lord's will much of the night went by;
+all who were here fell asleep.
+
+**1102.** The merciful Vishvambhara, who enchants the worlds,
+speaks many sweet words to the brahmana.
+
+**1103.** The Lord, who submits to His devotees, here in this kitchen
+showed a wonder: the brahmana beholds Vishvambhara.
+
+**1104.** Eight-armed: in four [hands] the conch, the disc and the rest;
+with two He eats butter, with two He plays the flute.
+
+**1105.** Beautiful in every limb, adorned with jewelled ornaments,
+with the play of His eyes He enchants the world.
+
+**1106.** The brahmana sees the bank of the Yamuna, Vrindavana,
+and all around shine the cows, the cowherds and the gopis.
+
+**1107.** Seeing this, the brahmana fell to the ground in bliss
+and washed the Lord's lotus feet with his tears.
+
+**1108.** The ocean of mercy, the Lord, the son of Shachi,
+revealing [to him] His pastimes in Nadia, embraced [him].
+
+**1109.** He forbade him to disclose all this to others;
+when the Lord made Himself manifest, all this too became manifest.
+
+**1110.** Remaining in Nadia in a hidden form, the brahmana
+beholds the Lord's pastimes, on which Brahma and the others meditate.
+
+**1111.** Here one day the son of Mishra
+wept so that hearts were torn apart.
+
+**1112.** Jagadisha and Hiranya,[^12-137] on the holy day of Ekadashi,
+had carefully prepared various foods for Vishnu.
+
+**1113.** That very food Vishvambhara wanted to eat first;
+the brahmanas Jagadisha and Hiranya heard of it.
+
+**1114.** Before it had become Vishnu's offering, they brought it and gave [it to Him];
+eating it here, He stopped crying.
+
+**1115.** Over there is the house of Jagadisha and Hiranya;
+they had great affection for Jagannatha Mishra.
+
+**1116.** What shall I say of Nimai's incomparable childhood doings!
+Whatever He wanted at any moment — if it was not given, there was trouble.
+
+**1117.** Standing here, Nimai gazes at the sky
+and says to Mother Shachi, "Catch the moon and give it to me."
+
+**1118.** Seeing a bird fly, here the son of Shachi
+weeps, saying, "Catch it and give it to me."
+
+**1119.** All the girls together, coming here,
+tell Mother Shachi of Nimai's mischief.
+
+**1120.** Right here the pious brahmanas come
+and tell Mishra of Nimaichand's mischief.
+
+**1121.** Standing here, Ai says to Vishvambhara,
+"Go quickly and call Vishvarupa."
+
+**1122.** Vishvarupa is in Sri Advaita's assembly;
+[Vishvambhara] says to him, "Come and eat; Mother is calling."
+
+**1123.** Holding the end of His elder brother's cloth, Vishvambhara,
+enchanting the hearts of all, came home.
+
+**1124.** At that very moment I cleaned the place and made it ready;[^12-138]
+here the two brothers sat down to eat.
+
+**1125.** O dear Srinivasa, what more is there to say?
+When I think of all that, my heart breaks.
+
+**1126.** Here Shachi and Mishra reason with their son:
+"What you did, dear child, is not proper.
+
+**1127.** Sri Murari Gupta is like a rishi in Nadia;
+everyone respects him in every way.
+
+**1128.** At mealtime you passed water onto his plate —
+who in the world would not censure this?
+
+**1129.** He is wise, and so he did not hold it against you;
+never do such a thing anywhere again."
+
+**1130.** When the time came to begin His studies, Sri Mishra here,
+at a most auspicious moment, placed chalk in his son's hand.[^12-139]
+
+**1131.** Writing "ka, kha, ga, gha," he says, "Write, dear child."
+Kneeling, He writes — seeing that, all sorrow vanishes.
+
+**1132.** Looking [at the letters], Nimaichand says "ka, kha, ga, gha";[^12-140]
+hearing this, Mishra's heart overflows with bliss.
+
+**1133.** The Lord, in His pauganda age, is absorbed in the taste of learning;
+when He is not allowed to write, He shows restlessness.
+
+**1134.** Whatever He writes grows day by day;
+here everyone praises Vishvambhara.
+
+**1135.** Here Jagannatha Mishra, his heart full of great joy,
+set about teaching Vishvambhara.
+
+**1136.** Opening a book, he gave [Him] lessons here;
+Vishvambhara became absorbed in study.
+
+**1137.** Standing right here, Vishvambhara-raya
+tells Mother Shachi to observe Ekadashi.
+
+**1138.** Gladdened by her son's words, with care
+she keeps the vow of Sri Ekadashi above all else.
+
+**1139.** Here Jagannatha Mishra, in great joy,
+thinks of giving Vishvarupa in marriage.
+
+**1140.** Vishvarupa, having judged everything to be impermanent,
+accepted sannyasa for the sake of Krishna.
+
+**1141.** He became known by the name Sri Shankararanya;
+he goes on pilgrimage to the tirthas, as the ancient custom is.[^12-141]
+
+**1142.** Vishvarupa is a portion of Sri Baladeva;
+sixteen years of age, of surpassing beauty.
+
+**1143.** *Thus [it is said] in the Sri Chaitanya-charita, in the first prakrama:*
+*"Having said this, the physician began [to tell] the delightful, auspicious,*
+*purifying narrative of Vishvarupa, a portion of Baladeva.*[^12-142]
+
+**1144.** *The glorious Sri Vishvarupa, a treasury of all virtues, sixteen years old, utterly pure,*
+*attained the position of an acharya; his mind was attached to hearing about the Self and reflecting [on Him]; he was devoted in prema;*
+*all-knowing, his heart ever attached to the feet of Narahari, joyful,*
+*peaceful, full of contentment, without attachment to the world, a knower of the Vedas, a knower of rasa."*[^12-143]
+
+**1145.** Here Vishvambhara weeps and rolls in the dust,
+His heart utterly distraught at separation from His elder brother.
+
+**1146.** Here Shachi and Jagannatha Mishra both weep;
+at the weeping of the two no one can keep calm.
+
+**1147.** "Where is Vishvarupa?" — crying out, they call again and again;
+who among the people of Nadia does not weep, [remembering] his virtues?
+
+**1148.** Mishra's house was filled with weeping;
+when one thinks of all that, one's life burns with grief.
+
+**1149.** Here everyone consoles Shachi and Jagannatha;
+by Vishvambhara's will they grew calm.
+
+**1150.** One day here [He] says to His father and mother,
+"In Vishvarupa's sannyasa there is great good.
+
+**1151.** He will deliver his father's family and his mother's family,
+and I shall serve you both."
+
+**1152.** Hearing their son's words, both became very joyful;
+taking [Him] on their lap, they kissed the moon of His face.
+
+**1153.** O Srinivasa, after Vishvarupa's sannyasa
+[His] restlessness fades little by little, day by day.
+
+**1154.** Here Mishra Purandara says to Shachi,
+"Vishvambhara has reached the age for the chuda-karma."[^12-144]
+
+**1155.** Saying this, the two of them, by the procedure prescribed in the Vedas,
+performed their son's chuda-karma right here.
+
+**1156.** *In a song (raga Dhanashri):*
+How full of joy today, with a great throng of people,
+is Shachi's radiant house!
+The solace of everyone's life — Nimaichand's chuda rite —
+at what a wondrous auspicious moment!
+
+**1157.** Adorning Vishvambhara with divine garments and ornaments,
+seating Him on a divine seat,
+whatever the Vedas prescribe and whatever the custom of the people —
+all this Mishra carries out with care.
+
+**1158.** The noble barber came and does his work,
+to put a yellow thread at the base of the ear.
+The women cry "jaya" — who does not raise shouts of victory?
+Auspiciousness spread over the earth.
+
+**1159.** The brahmanas recite the Vedas, the bards compose verses [about Him],
+the musicians play many kinds of instruments.
+All the dancers dance — how much can Narahari tell? —
+the singers sing [His] spotless fame.
+
+**1160.** The Lord is full of consciousness and bliss, His play is like that of people:
+before the ear had been pierced, [the barber] saw a hole in it.
+
+**1161.** Seeing this, the barber was amazed in his mind;
+by the Lord's will he says nothing to anyone.
+
+**1162.** All that Sri Jiva examined in the Sandarbhas —
+Narahari, having received permission, rejoiced in it.[^12-145]
+
+**1163.** *Again, raga Velavali:*[^12-146]
+Today is Gaurachandra's incomparable chuda, auspicious as the Vedas enjoin;
+crowds of people in the house.
+The wives of Sri Navadvipa, by matchless custom, give forth "ulu-lu-lu-lu-lu-lu" —
+what joy to the ear![^12-147]
+
+**1164.** The assembly of brahmanas, gods on earth, shines; in many modes the sound of the Vedas,
+most sweet, fills hearts with delight.
+Sutas, magadhas and bandis compose new tales of [His] deeds;
+reaching the ear, they steal the heart of the world.[^12-148]
+
+**1165.** The players of mridanga and other instruments utter in various ways: "dha dha dhilanga
+dhiki taka dhinnina."
+The skilled sing in fine metre; the dancers dance, calling out:
+"tatta thai thai ti ai tinnina."[^12-149]
+
+**1166.** Covered with thrills of rapture, full of zeal, the best of Mishras, distributing
+many goods, satisfies all the supplicants.
+What can Narahari say of the boundless splendour! Beholding [it],
+the gods, absorbed [in bliss], in the sky loudly and ceaselessly proclaim, "Jaya, jaya!"
+
+**1167.** Look, Srinivasa: here, outside the house,
+surrounded by His companions, Nimai plays.
+
+**1168.** On that road the women, overwhelmed,
+stand and gaze at Nimaichand's beauty.
+
+**1169.** One day here the venerable Mishra
+shows boundless parental love to Vishvambhara.
+
+**1170.** After some days, here Jagannatha Mishra
+thinks in his mind, "I shall give my son the sacred thread."[^12-150]
+
+**1171.** Gathering his kinsmen and friends, he fixed the day;
+Mishra's house was filled with great joy.
+
+**1172.** At the time of the sacred thread the festivities have no end;
+the fortunate describe it in many ways.
+
+**1173.** *As [it is said] in a song (raga Kamoda):*
+What joy in the town of Nadia!
+The son of Sri Shachi-devi will put on the sacred thread —
+this news is in every house.
+
+**1174.** Overwhelmed with love, who does not run
+with all kinds of gifts to Mishra's home?
+Mishra's home is incomparable, the throng of people boundless —
+who is not lost in that splendour?
+
+**1175.** Mishra, in great joy, performs the rites according to the Vedas
+and gives the sacred thread to Gorachand.
+Gaura's form is enchanting, He is clad in red cloth,
+a divine staff in His hand, a bag on His shoulder.
+
+**1176.** The Lord playfully begs alms; seeing this, the wives of the gods all together
+mingle with humans to give alms.
+Those who are dear to the Lord — with what delight
+they give alms into the Lord's bag!
+
+**1177.** All the auspicious rites — who can tell how many?
+And what victorious cries of the women!
+The brahmanas sound the Vedas — hearing it, who can keep his composure?
+The bards recite the praises of the forefathers.[^12-151]
+
+**1178.** Cries of "Jaya, jaya!" filled all the directions;
+dance, song and music of every kind.
+Narahari Dasa says: the supplicants, [receiving] fitting gifts,
+intoxicated with happiness, sing [His] good fame.
+
+**1179.** *Again, raga Dhanashri:*
+In the house of Jagannatha Mishra
+music sounds in the auspicious rite.
+
+**1180.** The women raise cries of victory,
+the bards recite the praises of the forefathers.
+
+**1181.** At an auspicious moment the son of Shachi
+puts on the sacred thread. (Refrain.)
+
+**1182.** With what can this sacred thread be compared?
+It is Ananta Himself in subtle form.[^12-152]
+
+**1183.** The sweetness of the shaven head —
+whose heart does it not steal?
+
+**1184.** Red cloth is His fine garment;
+with His beauty He lights up the ten directions.
+
+**1185.** On all four sides is the assembly of brahmanas,
+and in their midst Gora, king of the twice-born.
+
+**1186.** A divine staff in His hand, a bag on His shoulder;
+seeing this, who can keep his composure?
+
+**1187.** [His] attire shines — [He is] in the mood of Vamana;
+with His grace He enchants the minds of the world.[^12-153]
+
+**1188.** Smiling gently, speaking most sweetly,
+He begs alms from the devotees.
+
+**1189.** All wish to give Him their life as alms;
+whatever they give, their heart is not content with it.
+
+**1190.** The wives of the gods, mingling with humans,
+give alms, gazing at the moon of His face.
+
+**1191.** Who does not offer up his life [for Him]?
+Everyone raises cries of victory.
+
+**1192.** Ghanashyama says: in Mishra's home
+the ocean of happiness surges.
+
+**1193.** *Again, raga Suhai:*
+Gaurasundara at a supremely auspicious moment put on the sacred thread;
+Shachi and Mishra, skilled in the rites the Vedas prescribe, [did all] by incomparable custom.
+
+**1194.** Various auspicious rites take place; the wives of the clan give forth "ulu-lu-lu-lu-lu-lu."
+The bards sing [His] good fame, drinking in the auspicious beauty with their full gaze.
+
+**1195.** The skilled sing in new talas and play the murajas and other drums resoundingly;
+the dancers dance, calling out thickly, "dha dhi dhikata dhilanga."
+
+**1196.** The minds of the gods are deeply absorbed, beholding the charming play;
+filling the world ring cries of "Jaya, jaya, jaya!"; Narahari Dasa offers himself up [for Him].
+
+**1197.** O Srinivasa, here Vishvambhara-raya
+longed with all His heart to study.
+
+**1198.** Understanding his son's wish, Mishra Purandara
+took [Him] to the house of Gangadasa Pandita.
+
+**1199.** He entrusted his son to Gangadasa;
+Gangadasa carefully teaches [Him] grammar.
+
+**1200.** Day by day [He] became wonderful in grammar;
+seeing this, who in Nadia does not praise Him?
+
+**1201.** One day here Lord Gaurachandra,
+having eaten tambula, smiles softly.
+
+**1202.** Suddenly, right here, He fell into a swoon;
+His mother and father carefully brought Him back to consciousness.
+
+**1203.** Having come to Himself, the Lord comforted His mother and father
+and spoke much about Vishvarupa and other things.
+
+**1204.** In this house Jagannatha Mishra Purandara
+sees in a dream that Vishvambhara has taken sannyasa.
+
+**1205.** Waking in the morning, distraught,
+he prays much, calling on the gods.
+
+**1206.** At daybreak he says to Sri Shachi-devi,
+"It seems my Nimai will not stay at home."
+
+**1207.** Here Shachi Ai says to Jagannatha Mishra,
+"Nimai will stay at home; there is nothing to worry about.
+
+**1208.** Apart from study nothing pleases Nimai;
+He will be fit to serve His mother and father."
+
+**1209.** Mother Shachi spoke [to him] in many ways,
+yet he cannot forget the terrible dream.
+
+**1210.** One day, sitting here, Mishra Purandara
+says within himself, "My son will leave home."
+
+**1211.** Saying this, he, losing his composure, heaves long sighs;
+suddenly a fever appeared in his body.
+
+**1212.** What shall I say of how Mishra's disappearance came about?
+The heart breaks when one remembers all that.
+
+**1213.** Here, fallen on the ground, Shachi and Shachi's son
+weep so that they make [the whole] world weep.
+
+**1214.** By the Lord's will the residents of Navadvipa
+calmed the two of them, and all [themselves] grew calm.
+
+**1215.** O dear Srinivasa, here Vishvambhara
+consoled His mother, speaking very sweet words.
+
+**1216.** What can I say of the kind of love the mother had!
+Apart from Vishvambhara she knows nothing else.
+
+**1217.** Who can understand the heart of Gaurachandra?
+He performs pastimes beyond the reach of Brahma and the others.
+
+**1218.** One day Nimai, as He was going to bathe in the Ganga,
+asked His mother for flower garlands and other things.
+
+**1219.** Over a slight delay He fell into a great rage
+and spoiled everything there was in the house.[^12-154]
+
+**1220.** At last He lay down in this courtyard;
+the Lord, the son of Shachi, fell asleep.
+
+**1221.** After a while, knowing that He had woken,
+[the mother] brushed the dust from His body and raised her son.
+
+**1222.** Having made ready the flower garlands and other things, she gave them to her son;
+having bathed in the Ganga, Gaurahari joyfully came back.
+
+**1223.** One day here Shachi says to her son,
+"Today there is no food at all in the house."
+
+**1224.** Hearing His mother's words, the Lord with a joyful heart
+brought two tolas of gold and gave [them to her] here, in private.[^12-155]
+
+**1225.** Seeing the gold, Mother Shachi grew anxious at heart:
+she cannot understand this play of her son at all.
+
+**1226.** One day Mother Shachi, sitting here,
+ponders in her mind on getting her son married.
+
+**1227.** The age of pauganda has ended, kaishora is beginning;
+moment by moment [His] beauty grows — boundlessly, ever more wondrous.
+
+**1228.** Who, seeing Nimaichand, can remain composed?
+What His wondrous doings are, no one else knows.
+
+**1229.** To increase His mother's supreme joy,
+the Lord came to wish to marry.
+
+**1230.** Here, reflecting on the shastras, the son of Shachi
+went along that path to the bank of the Ganga.
+
+**1231.** The Lord's beloved, Lakshmi-devi, came to bathe in the Ganga.
+How they saw each other — [so] the wise describe it:
+
+**1232.** *Thus [it is said] in a song (raga Kamoda):*
+The daughter of Vallabha, virtuous Lakshmi,
+surrounded by her friends,
+goes to the bank of the Ganga to bathe,
+glancing timidly on every side.[^12-156]
+
+**1233.** Seeing Gaurangachand a little way off,
+[she feels] a hidden love well up;
+drinking the nectar of the sweetness of that beauty,
+she cannot keep her composure.
+
+**1234.** Gora, the jewel of virtues, recognizing His beloved,
+looks at Lakshmi.
+Lakshmi's body, surpassing pure gold,
+enters, as it were, into the very depth of [His] heart.
+
+**1235.** The two skilfully meet with the corners of their eyes,
+and others cannot know of it.
+The Lord of Narahari, smiling softly,
+went home in joy.[^12-157]
+
+**1236.** Here, sitting, the son of Sri Shachi
+said to me, "What is in your mind will come to be."
+
+**1237.** One day here Vanamali Acharya
+speaks with Mother Shachi of a marriage.[^12-158]
+
+**1238.** Lakshmi is the daughter of Vallabha Acharya; with her
+the marriage was settled on another day.
+
+**1239.** Here the mother speaks of her son's marriage;
+hearing it, the son of Sri Shachi applies Himself to the task.
+
+**1240.** All that was needed for the wedding was quickly prepared;
+the wedding day was fixed, at an auspicious hour.
+
+**1241.** Talk of the wedding is in every house of Navadvipa;
+drawn by the Lord, no one can remain composed.
+
+**1242.** All the devotees of all the incarnations, in Nadia,
+sport in the forms of women and men — by His will.
+
+**1243.** By His will no one knows himself;
+all the deeds they do are according to their former nature.
+
+**1244.** How the women and men went here,
+what this wedding was like — the wise describe it:
+
+**1245.** *Thus [it is said] in a song (raga Dhanashri):*
+What joy in the town of Nadia!
+Talk of Nimai's wedding is in every house.
+
+**1246.** Women and men of Nadia alike —
+the hearts of all well up [with longing] to see the wedding.
+
+**1247.** The bards hurry along at a run,
+thinking to themselves, "We shall get much wealth."
+
+**1248.** All the dancers, musicians and the rest
+rush to and fro, cherishing so many hopes.
+
+**1249.** The astrologers hurry along at a run:
+"We shall find a wondrous auspicious moment and have the wedding performed."
+
+**1250.** The garland-makers go joyfully
+with garlands of many flowers to the home of Sri Shachi.
+
+**1251.** Who with one mouth could tell how many [they are]?
+The poor and the beggars go by the hundreds.
+
+**1252.** In Narahari's heart is this hope:
+"Shall I see the wedding festivities to my eyes' content?"
+
+**1253.** *Again (raga Dhanashri):*
+All the young new brides of Nadia
+say in private, smiling sweetly,
+"How blessed we are — we shall see such
+a wedding, floating in that ocean of joy!"
+
+**1254.** One says, "Vallabha Acharya is noble,
+his wife devoted to her husband and of good conduct.
+So it seems to me: by former merit
+they will obtain this son-in-law, so very hard to obtain."
+
+**1255.** Another says, "Blessed is Vallabha's daughter,
+Lakshmi, a beauty, like [the goddess] Lakshmi.
+What [other] fortunate girl is there such as she,
+who will obtain a husband surpassing Madana?"
+
+**1256.** Yet another says, "Wonderful! The matchmaker was
+Vanamali — how much joy he has found!"
+"Today is the adhivasa — come, come, dressed in your finery!" —
+so Narahari, coming, said, and went away.[^12-159]
+
+**1257.** *Again (raga Dhanashri):*
+"The home of Sri Shachi is full of beauty —
+in it an ocean of bliss will surge.
+Today is the adhivasa: adorned, there will shine
+Gora, full of happiness, the moon of Gokula."
+
+**1258.** Saying this in their hearts, unable to stay still,
+the young women of good families look about on every side.
+To what can it be compared? — as if from the houses
+a lovely garland of moons had come out.
+
+**1259.** Colourful garments, shining ornaments,
+on every limb a fine array;
+with many graceful movements they go in rows,
+lighting up the roads of Nadia.
+
+**1260.** With what longing they come to Ai
+and bow down — with what tenderness [Ai receives them]!
+Finding the Lord of Narahari in the courtyard,
+they cooled their hearts, gazing at that face.
+
+**1261.** *Again (raga Kamoda):*
+In Shachi's courtyard, full of beauty,
+on all sides the brahmanas chant the Vedas.
+
+**1262.** What bliss is revealed today!
+At an auspicious hour, the adhivasa of Nimaichand. (Refrain.)
+
+**1263.** The intimates offer scents and garlands;
+the radiance of Gora's body lights up the quarters.
+
+**1264.** In the midst of the assembly Gora, the jewel of the twice-born,
+shines, surpassing how many hundreds of millions of Kamadevas!
+
+**1265.** Whoever looks even once at Gora
+cannot keep composure and forgets himself.
+
+**1266.** Everyone who came to the adhivasa
+is gladdened with gifts of scents, sandal and the rest.
+
+**1267.** Having performed the adhivasa according to the rules,
+Vallabha Acharya went to his own home.
+
+**1268.** There is no end to telling of that happiness:
+together with the married women, Ai performs the auspicious rites.[^12-160]
+
+**1269.** The women raise cries of victory;
+the bards recite auspicious panegyrics.
+
+**1270.** Dancing, singing, music of many kinds —
+no one has the power to offer a comparison.
+
+**1271.** Who does not say, "Wonderful, wonderful!"?
+The whole world is filled with the delightful sound "Jaya, jaya!"
+
+**1272.** Mingling with the people, the gods
+watch the festivity of the adhivasa, says Narahari.
+
+**1273.** *Again (raga Dhanashri):*
+Today, overcome with tenderness,
+Vallabha Acharya performs the rite of adhivasa
+together with the brahmanas close to him. (Refrain.)
+
+**1274.** With what love the mother
+dresses her daughter Lakshmi in fine garments and ornaments!
+In the lovely courtyard, on a splendid throne,
+having seated [her], the friends float in happiness.
+
+**1275.** When at the auspicious hour scents and garlands are offered,
+from the joy in her heart the radiance of [her] body grows.
+Her heart is not still: unseen [by others], she sees
+on all sides throngs of celestial women.
+
+**1276.** Conches, bells and the rest — music of many kinds;
+dancing, singing; the bards utter blessings.
+At the women's cries Narahari cannot
+keep his composure — he offers himself up [for it].
+
+**1277.** *Again (raga Kamoda):*
+When the night of the adhivasa had passed,
+everyone performs all the duties of the wedding.
+
+**1278.** Surrounded by brahmanas,
+Nimai performs the rites enjoined by the Vedas.
+
+**1279.** The crowd of people cannot be described;
+there is a great clamour of voices: "Take! Give!"
+
+**1280.** Many instruments play without pause,
+the singers sing enchantingly.
+
+**1281.** The bards recite panegyrics,
+the women raise sweet cries of victory.
+
+**1282.** Everyone rejoices in the women's rites;
+Narahari floats in that ocean of happiness.[^12-161]
+
+**1283.** *Again (raga Kamoda):*
+The young wives of good families, their hearts rejoicing,
+playfully dress themselves to go and fetch the water.
+Gazing and gazing at the moon of Gora's face, smiling,
+they cry "ulu-ulu", the hairs of their bodies standing on end with delight.[^12-162]
+
+**1284.** They go out from their homes — how much rises in their hearts! —
+intoxicated by the fragrance of the body of the moon Gaura.
+Their hearts are unsteady, they are overwhelmed with feeling;
+in the corners of their eyes — so many kinds of playful glances!
+
+**1285.** How much they say to one another — indistinctly, under their breath;
+which of them, in the way of playful beauties, does not offer herself up [for Him]?
+With their garments, ornaments and attire they destroy [all] composure —
+who could find a comparison for that beauty?[^12-163]
+
+**1286.** Anklets, belts of bells, the sounds of many instruments —
+how sweet it is, words cannot express.
+Having finished the water rite, they enter the house;
+Narahari's heart surges with happiness.
+
+**1287.** *Again (raga Kamoda):*
+How wondrous! In the house of Sri Shachi
+are auspicious [rites] of many kinds; amid the clamour all
+go about the business of the wedding.[^12-164]
+
+**1288.** Gora, the moon of Gokula, is adorned;
+in the bath enjoined for the wedding, beyond measure
+the ocean of bliss surges.
+
+**1289.** The young wives of good families, with charming skill,
+saying, "We shall anoint [His] lovely locks with oil,"
+again and again loosen them and tie them up.
+
+**1290.** One rubs [His] body with turmeric;
+seeing [Him] dulled with turmeric, all laugh
+and offer up their lives for Him.
+
+**1291.** One applies scents to [His] body;
+the fragrance of that body steals the pride of these scents —
+who could find a comparison for [that] body?[^12-165]
+
+**1292.** [He] was bathed with Ganga water;
+Narahari, taking a towel, wipes
+[His] body, playfully.[^12-166]
+
+**1293.** *Again (raga Kamoda):*
+Today, with what joy in their hearts,
+seated on their seats, the friends
+dress Vishvambhara!
+
+**1294.** They smear [His] body with scents and sandal;
+they draw a tilaka on [His] lovely forehead —
+who would not be charmed by it?
+
+**1295.** Having bound up the curly locks beautifully,
+with joy in their hearts, in a charming way,
+they wind [them] round with a garland of malati flowers.
+
+**1296.** They put earrings in [His] ears;
+they flash against the slopes of [His] cheeks — the pair of cheeks steals the pride of a mirror.
+
+**1297.** On [His] neck they place a necklace of jewels;
+on the broad chest it swings so gracefully — who can give a comparison for it?
+
+**1298.** On [His] arms, angada armlets; on [His] wrists, bracelets;
+on [His] fingers, rings; having put [them] on, they gaze at [His] face and cannot keep their composure.
+
+**1299.** [His] waist, surpassing [that of] a lion, is slender;
+as they adorn [it] with a golden chain, [their] eyes stop blinking.
+
+**1300.** The arrangement of [His] attire entices the world;
+having dressed [Him] in a cloth with a red border, Narahari gazes at [that] beauty.
+
+**1301.** *Again, raga Kamoda:*
+Having dressed [Him], the companions
+give into His hand a golden mirror like the moon.
+
+**1302.** Seeing Nimaichand's attire —
+what to speak of others — even the gods cannot turn away their eyes.
+
+**1303.** Shachi Ai, with her friends,
+performs so many auspicious rites, gazing at her son's face.
+
+**1304.** The young wives, standing at a distance,
+gaze at Gorachand and cannot keep their composure.
+
+**1305.** The women raise the cry "ulu-ulu";[^12-167]
+talk of the joyful wedding filled the world.
+
+**1306.** Bowing at [His] mother's feet,
+Gaura-raya sets out to be married.
+
+**1307.** The brahmanas sound the Vedas;
+many instruments play, and the sound pierces the sky.
+
+**1308.** Who can tell [that] merriment?
+Narahari swims in that ocean of happiness.
+
+**1309.** *Again, raga Bhupali:*
+Today, at the auspicious moment of godhuli,[^12-168] Gaura — jewel of virtues, enchanter of the world — in attire arranged as befits a wedding: the radiance of [His] most tender body brims over.
+Breaker of the pride of millions of Manmathas, lotus-eyed, delighter of people's hearts, looking in all four directions, smiling softly, softly, seated in a chaudola palanquin, He shines.
+
+**1310.** He goes toward Vallabha's house surrounded by brahmanas; the pace very slow and sweet; the bards pronounce many blessings; the world fills with the cry "Jaya, jaya!"
+The dancers dance, calling out "thai tata"; "khonga khoddina" — how many are absorbed in song;[^12-169] composing [songs of His] lovely deeds, joining the svaras, the virtuosos shower juicy rasa.
+
+**1311.** So many, many kinds of instruments are played; without a break sound the syllable-bols for the instruments; the skilled players seem to swim amid an ocean of music.
+In the sky the gods are utterly absorbed; again and again they gaze with unblinking eyes; in great rapture, unseen, they descend to the earth — what merriment in [their] hearts!
+
+**1312.** Countless women and men run; the broad road is incomparably lovely; hundreds and hundreds of bright lamps display the rays of the lord of the night.
+The earth blooms in still greater gladness; the waters of the Jahnavi surged; what can Narahari Dasa say? All the beasts and birds float in happiness.
+
+**1313.** *Again, raga Bhupali:*
+To see Gorachand's wedding,
+with such longing in their hearts the young wives of Nadia run — none can keep her composure.
+
+**1314.** Incomparable are their attire and garments, their bodies adorned with ornaments, glittering; that grace shines beautifully.
+As they walk, the kinkini bells on their waists and the anklets on their feet ring; with a very sweet gait they light up the road.
+
+**1315.** In that rapture of rasa, how much [they] say to one another — how charming! At the base of their noses swing besara pendants.[^12-170]
+On lovely faces covered by veils — soft, soft smiles; whom does the flash of those smiles not bewitch?
+
+**1316.** Tinged with collyrium, surpassing the charming khanjana bird — lovely glances of eyes in all four directions.
+Narahari's heart overflows as he beholds the Lord of [his] life entering Vallabha's house.
+
+**1317.** *Again, raga Kamoda:*
+Gora Raya in Vallabha's house
+increases Vallabha Mishra's great joy.
+
+**1318.** Vallabha, overjoyed,
+performs the auspicious rites prescribed for the wedding.
+
+**1319.** Vishvambhara, with joy in [His] heart,
+stood on a low stool at the place of the wedding rite.[^12-171]
+
+**1320.** With the grace of [His] limbs [He] steals [their] life;
+with the radiance of [His] beauty He lights up the ten directions.
+
+**1321.** What comparison can be given for [His] moonlike face?
+With a slight smile [He] destroys the pride of nectar.
+
+**1322.** The glance of [His] eyes has a lovely manner;
+whomever [He] looks at cannot keep composure.
+
+**1323.** Makara earrings at the base of [His] ears;
+whom does the arrangement of [His] curly hair not bewitch?
+
+**1324.** Angada armlets and bracelets suit [Him] beautifully;
+seeing [that] beauty, how many Madanas die of shame!
+
+**1325.** To receive such a bridegroom with the uruthi rite,[^12-172]
+the bride's mother goes with the matrons.
+
+**1326.** Who can describe that beauty?
+With seven lamps in hand [she] circles [Him] seven times.
+
+**1327.** Supremely wonderful are the women's rites!
+Having received the bridegroom, all go into the house.
+
+**1328.** The fortunate Vallabha Acharya
+had his daughter brought in to perform the kanya-dana.
+
+**1329.** They seated [her] on a divine throne;
+it became bright with the rays of [her] body.
+
+**1330.** Her body is very tender;
+[her] face, suffused with smiles, surpasses the full moon.
+
+**1331.** She is dressed in many-coloured garments;
+many ornaments of jewels glitter.
+
+**1332.** Such a daughter, with all the proper rites,
+Mishra gave to the son of Shachi.
+
+**1333.** The brahmanas sound the Vedas;
+all the women of good families raise the cry "ulu-lu-lu."
+
+**1334.** Instruments of many kinds play;
+the dancers dance, the bards recite the raybar.[^12-173]
+
+**1335.** The gods, mounted on celestial chariots,
+rain down flowers unseen, crying "Jaya!"
+
+**1336.** The world was pervaded with great happiness;
+how much can Narahari tell with one mouth?
+
+**1337.** *Again, raga Bhupali:*
+Gora, jewel of virtues, with [His] beloved, dear [to Him] as life, delights there in the basar.[^12-174]
+The young wives of good families come and go again and again, full of merriment.
+
+**1338.** Some, on various pretexts, make jokes, laughing and laughing with delight of heart.
+Someone, placing tambula in Gora's lotus hand, says: "Put [it] in Lakshmi's mouth."
+
+**1339.** Someone, placing tambula in Gora's moonlike mouth, feels great love grow in her heart.
+Someone, longing for [His] touch, ties [His] hair and, flustered, cannot keep her composure.[^12-175]
+
+**1340.** Someone, seating Lakshmi on Vishvambhara's lap, gazes with charming grace.
+Narahari says: the rasa that surges in the basar has no comparison.
+
+**1341.** *Again, raga Todi:*
+On the day after Gorachand's wedding,
+how much joy surges [in all] as the night gives way to dawn!
+
+**1342.** The young wives of good families run from all sides;
+seeing the beauty of bridegroom and bride, all gladden their eyes.
+
+**1343.** How fortunate is Vallabha's wife!
+Having obtained a jewel of a son-in-law, she does not know where she is.
+
+**1344.** Mishra Vallabha is exceedingly generous;
+what does he not do for the welfare of his son-in-law!
+
+**1345.** Splendid! Vallabha's son-in-law, Gaurahari,
+rejoiced, having performed the rites prescribed for the wedding.
+
+**1346.** [Vallabha] brought the rites to completion in proper order;
+Narahari says: the gods praise Vallabha.
+
+**1347.** *Again, raga Todi:*
+Gaura, the moon of Gokula, set out for His own home as night turned to dawn.
+In private Vallabha, with affection, said much to Lakshmi.
+
+**1348.** Gazing at the road, all the women cannot keep their composure; [tears] stream from [their] eyes.
+Lakshmi's companions know that Lakshmi's Lord has set out.
+
+**1349.** Conches, dundubhis and bheris sound — instruments of many kinds.
+Troupes of dancers dance; the virtuosos sing songs unceasingly.
+
+**1350.** The brahmanas utter the Vedas; the bards proclaim [His] virtues.
+The world is filled with [the cry] "Jaya, jaya!" — what [can] Narahari [say] of the Lord's play in [His] home?[^12-176]
+
+**1351.** *Again, raga Kamoda:*
+Having married, Vishvambhara
+came from His father-in-law's house to His own home.
+
+**1352.** [That] joy I cannot describe;
+all the chaste wives perform auspicious rites.
+
+**1353.** Shachi, taking her daughter-in-law on her lap,
+blessed [her], [showering her] with much paddy and durva grass.
+
+**1354.** Sri Shachi's affection has no limit;
+so many times she kisses her son's face and her daughter-in-law's face!
+
+**1355.** Seeing the beauty of Lakshmi and Vishvambhara,
+no one can turn away [their] unblinking eyes.
+
+**1356.** Gora Raya, enchanter of the world,
+pleases everyone with very sweet words.
+
+**1357.** The bards, dancers, musicians and all the rest —
+[He] fulfilled the desires of each.
+
+**1358.** Narahari says aloud:
+may I see such merriment in Nadia!
+
+**1359.** O Srinivasa, I saw [it] to my eyes' fill;
+all the merriment of the wedding I cannot describe.
+
+**1360.** In this house Vishvambhara with Lakshmi
+always delighted [in His play], [His] heart full of gladness.
+
+**1361.** There is no end to telling of Sri Lakshmi's character,
+in the happiness of whose service Ai was immersed.
+
+**1362.** Sri Lakshmi's Lord, Gaurachandra-Narayana,
+was immersed in the rasa of learning together with His students.
+
+**1363.** All the learned men who live in the town of Nadia —
+all hold Vishvambhara in respect.
+
+**1364.** Who in Nadia does not praise [Him], seeing [His] conduct?
+The Lord shows everyone fitting honour.
+
+**1365.** Bowing to Ishvara Puri, His own servant,
+[He] brought [him] with care and gave him bhiksha in this house.[^12-177]
+
+**1366.** One day here, under the pretext of "vayu," the Lord
+manifested prema-bhakti; others did not know [it].[^12-178]
+
+**1367.** Respectable people came and devised various remedies;
+by His own will the Lord restrained [His] bhava.
+
+**1368.** When [He] became well, joy arose in everyone;
+after much talk, all judged [it] to be "vayu."
+
+**1369.** At the door of this Vishnu-mandapa, Gora Raya,[^12-179]
+seeing the full moon, played the flute in that mood.
+
+**1370.** Only Ai hears; others do not get to hear;
+thus [He] displays various sports at His will.
+
+**1371.** What shall I say, Srinivasa, of Gauranga's deeds?
+[He] became eager to bless Vanga.[^12-180]
+
+**1372.** Here, lovingly bowing at [His] mother's feet,
+[He] went to Bengal, taking [His] students.
+
+**1373.** Lakshmi remained here, remembering the Lord;
+the serpent of separation from the Lord bit Lakshmi's foot.[^12-181]
+
+**1374.** On the bank of the Ganga, Lakshmi-devi disappeared;
+here, in great grief, Ai weeps.
+
+**1375.** Coming right here, everyone consoles Shachi;
+Shachi thinks in her heart of her son's departure.
+
+**1376.** The Lord, the Knower of hearts, learning of Lakshmi's disappearance,
+quickly set out from Bengal.
+
+**1377.** Coming here, He bowed at His mother's feet,
+and here, saying much, He consoled His mother.
+
+**1378.** Who can understand the wonderful sport of the Lord?
+Taking His students with Him, He is overwhelmed by the delight of learning.
+
+**1379.** Here the mother ponders in her heart her son's marriage;
+she searches but does not find a girl worthy of her son.
+
+**1380.** The daughter of Sanatana Mishra, Vishnupriya —[^12-182]
+[Shachi] chose her when she went to the ghat of the Ganga to bathe.
+
+**1381.** Kashinatha Pandita, by the order of Sri Shachi,
+carefully arranged the marriage with him.
+
+**1382.** Hearing of the match of Vishvambhara with Vishnupriya,
+everyone was filled with the highest joy.
+
+**1383.** Buddhimanta Khan and Mukunda Sanjaya,[^12-183]
+taking on themselves the charge of the wedding, say to each other:
+
+**1384.** "This wedding will be like that of a king's son,
+so that the eyes of all the people who see it are gladdened."
+
+**1385.** Gaura, the son of the lord of Vraja, who is subject to the will of His devotees,
+hearing the devotees' words, smiles slightly.
+
+**1386.** Buddhimanta Khan and the others, with great joy in their hearts,
+set about the preparations for the wedding in earnest.
+
+**1387.** Here they had huge canopies stretched out;
+bringing banana trees, they planted them here.
+
+**1388.** Full pots and all the other kinds of auspicious things —
+the people appointed to prepare them were beyond counting.
+
+**1389.** To prepare flower garlands, sandal paste and the rest,
+they appointed people in this secluded place.
+
+**1390.** The provisions they gathered cannot be told;
+in spending their wealth they rejoiced beyond measure.
+
+**1391.** Singers, musicians, dancers and all the others —
+all of them were stationed in these places.
+
+**1392.** The adhivasa is on the day before [the wedding]: great preparations;[^12-184]
+invitations were sent out all over Navadvipa.
+
+**1393.** The throng of people on the day of the adhivasa,
+the clamor that arose — who could describe it?
+
+**1394.** Ai is ceaselessly immersed in great bliss;
+she entrusted her friends with performing the auspicious rites.
+
+**1395.** How the wives devoted to their husbands came to this house,
+how on the day of the adhivasa they fetched the [ritual] water,[^12-185]
+
+**1396.** what merriment there was at the adhivasa and the wedding —
+all this the poets have described in many ways.
+
+**1397.** *Thus [it is said] in a song (raga Kamoda):*
+Through the town of Nadia the word went round:
+"Gora, the jewel of virtues, will marry again!
+
+**1398.** Fortunate is Sanatana Mishra:
+he will give his daughter [in marriage] to Nimaichand.
+
+**1399.** That girl's name is Vishnupriya;
+in beauty and virtue she has no equal in the world.
+
+**1400.** Tomorrow will be the auspicious adhivasa;
+we shall see the wedding festivities to our eyes' content.
+
+**1401.** How long until the night is over?
+We shall go to Sri Shachi's house to fetch the water."
+
+**1402.** Narahari says: so it seems to me —
+by your ardent love the night has [already] passed.
+
+**1403.** *Again, raga Todi:*
+At dawn, in secluded chambers,
+the young wives of good families sport merrily.
+One says to another: "What is this? An immense
+fragrance has filled my languid body!"
+
+**1404.** Hearing this, [another], absorbed in rasa, says: "At the end of the night,
+in a dream, that young Moon of Nadia,
+looking at me with sidelong eyes,
+as if rained honey under the guise of a smile.[^12-186]
+
+**1405.** Softly, softly He says: 'To this wedding of Mine
+come in the morning to fetch the water.'
+Saying this, He takes [my] hand again and again
+and embraces [me] many times — such playfulness in it!
+
+**1406.** This is the fragrance of His body; all this is from that touch;
+I tell you of it, having cast off shame.
+Today is the adhivasa: quickly dress yourselves,
+go and meet the Lord of Narahari!"
+
+**1407.** *Again, raga Todi:*
+Toward Gaura, the finest youth of Vraja,
+the young, young women are full of love;[^12-187]
+they are all thrilled with rapture, their bodies tremble,
+they cannot keep their composure.
+
+**1408.** Quickly dressing beautifully, with kajal
+lining their lotus eyes,[^12-188]
+taking a mirror in their hands and looking into it, with kunkuma
+they adorn their lovely faces.
+
+**1409.** When it was time to go, they, as was fitting, bowed
+at the feet of their elders;
+to their going to Sri Shachi's house all those [elders]
+joyfully gave their permission.
+
+**1410.** Showering rasa on one another again and again,[^12-189]
+they at once left their homes.
+Says Narahari: how many crowds there are on the road —
+they cannot be counted, there is no end to them.
+
+**1411.** *Again, raga Velavali:*
+At dawn all the beauties
+walk with a graceful gait, wondrously charming;
+wonderful is their attire, lovely their jeweled girdles,
+the sound of their ankle bells steals the minds of sages.
+
+**1412.** It is beyond conceiving who created them:
+with the radiance of each limb they illumine the world.
+Hundreds and hundreds of Manmathas swoon at the sight of their bodies;
+drawn by the fragrance, bees rush in from every side.
+
+**1413.** Rejoicing with one another, with great delight in their hearts,
+they quickly entered the beautiful house.
+The courtyard, bestowing the highest happiness, is like a new lake
+in which a host of lotuses has blossomed.
+
+**1414.** Coming near Ai, with great care,
+crowd after crowd, they all bow down,
+as if, filling their joined palms with champaka buds, they duly
+worship [her] feet, says Ghanashyama.[^12-190]
+
+**1415.** *Again, raga Velavali:*
+Wonderful are the minds and the gait of the crowds of young women;
+they bow down in charming poses.
+The fair-bodied ones bend low like young golden creepers
+heavy under the weight of masses of flowers.
+
+**1416.** They lay their heads at the edge of the lovely feet;
+[in their hair] loosened lotuses, a dark, beautiful luster.
+As if a water-laden cloud had fallen to the ground together with masses of lightning,
+now still, now moving — such is their splendor.[^12-191]
+
+**1417.** Gently, gently they stretch out their sprout-like hands;
+their hearts long to take the rare dust [of her feet].
+Their nails flash — as if, to pay honor,
+they were offering a host of jewels with matchless eagerness.
+
+**1418.** Covering their lotus faces with the ends of their garments,
+they smile softly, softly, spreading radiance,
+as if, having carefully strained fresh nectar,
+they were sprinkling it abundantly, says Narahari Dasa.
+
+**1419.** *Again, raga Tudi:*[^12-192]
+Shachi is the mother of the world, who knows how to deal with people;
+renowned are her lovely character and ways.
+Regarding [each] as a daughter-in-law, dearer than her own life,
+she shows everyone the highest love.
+
+**1420.** Asking each one about her welfare, placing
+her hand on [her] head, she gives many blessings:
+"May your prosperity always grow; may your husbands and all [your kin]
+live long and remain in well-being!"
+
+**1421.** Hearing this, the young wives, smiling to themselves,
+floating in happiness, speak sweet words:
+"Oh, now that we have seen these auspicious feet — tell us,
+why should anything inauspicious remain here?"
+
+**1422.** Having said a little, with hearts full of shyness,
+they keep standing with joined palms.
+The mother of the Lord of Narahari's life, seeing this,
+has tears in her eyes, overcome with affection.
+
+**1423.** *In a suitable raga:*
+The young townswomen of Nadia — fair, artless, young in years —
+who else can understand their ways?
+Glancing quite unnoticed at the Beloved, [they feel] their hearts
+tremble and quiver from the arrows of Madana.[^12-193]
+
+**1424.** One, thinking to herself, says: "Today, it seems,
+I have become shameless before everyone."
+Another, signaling to someone with her eyes, unable to restrain herself,
+at once smiles a little, a little.
+
+**1425.** One, taking another by the hand, softly, softly coaxes [her];
+her heart overflows with still greater joy.
+One tells another a tale of love,
+drawing her veil slightly over her face.
+
+**1426.** One with signs of her hand shows another
+how many, many words are arising in her heart.
+One calms another, frightening her in many ways
+[with a glance] from the lovely corners of her eyes.
+
+**1427.** One, to show her own composure, carefully
+wipes another's face with the end of her silk veil.
+One, whispering, [but] sensing something amiss,
+keeps to one side, hidden.
+
+**1428.** Thus all the noble, chaste wives
+were immersed in the ocean of the rasa of love for Gaura.
+What can Narahari say? To the Lord of their life
+they surrendered their life-breath, their life and their youth.
+
+**1429.** *In a suitable raga:*
+Floating in the rasa of Gora, laughing softly,
+the company of noble wives, greatly delighted,
+dress to go and fetch the water at the order
+of Shachi-devi — what merriment in their hearts!
+Beauties in early, middle and full youth,
+crowd after crowd, walk with a gait full of sweetness;
+restless are the lovely glances from the corners of their eyes,
+manifold their poses — no comparison can be given.
+
+**1430.** They wear fine garments of many kinds,
+on every limb ornaments of gold and jewels;
+the incomparable veil flashes over their faces,
+lovely braids swing on their backs.
+In some hands are auspicious articles,
+in some hands fresh lotuses;
+on some heads baskets shine, covered
+with silk cloth — wondrously beautiful.
+
+**1431.** As they walk, the kinkini bells ring at their waists:
+rini jhini rini jhinini ni ni ni;
+on their feet the ankle bells — runu jhunu runu,
+jhunu nunu — delight the ear with their sound.
+In front the musicians walk joyfully,
+playing their instruments in the sweetest rhythm:
+"Dha-dha, dhing ning ning ning dho dhiki,
+dhiki ta dhenna" — the various instruments steal away composure.
+
+**1432.** Unseen, the celestial women playfully
+mingled with the young wives of Nadia;
+when, having fetched the water, they enter the house,
+who does not say, "Blessed, blessed, blessed!"?
+They hand out oil, turmeric and the rest; all
+the women's rites — who can tell how many?[^12-194]
+Who does not swim in that ocean of happiness?
+Narahari offers himself for it again and again.
+
+**1433.** *Again, [a song] in a suitable raga:*
+Shachi-devi, filled with joy,
+goes to the bank of the Ganga to worship the Ganga,
+taking with her married women whose husbands are living.[^12-195]
+
+**1434.** With various flowers, fragrances, sandal paste and the rest
+she worships the Jahnavi with care.
+The Suradhuni ceaselessly surges with waves,
+holding in her heart the feet of the son of Shachi.
+
+**1435.** The instruments sound beautifully; [Shachi] goes to the place of Shashthi
+and worships Shashthi, offering many gifts.[^12-196]
+Shashthi, floating in happiness, deems herself blessed;
+her heart overflows at the virtues of Gorachand.
+
+**1436.** How eagerly [she] goes to the houses of her kin —
+in the hearts of them all is great rejoicing.
+Bringing [them] to her own house, she performs auspicious rites;
+Narahari cannot find a comparison.
+
+**1437.** *Again, [a song] in a suitable raga:*
+In the joy of the adhivasa of Gora, the moon, who
+did not enter the house and sit there?[^12-197]
+Gora's dear [associates] show ever newer
+skill in the tasks of the adhivasa.
+
+**1438.** Garlands, sandal paste and the rest are given to each one —
+who can tell of that great merriment?
+In the midst of the assembly the son of Shachi shines,
+like Purandara surrounded by the gods.[^12-198]
+
+**1439.** Mishra Sanatana with his people at the auspicious
+moment came, bringing many gifts;
+touching [Him] with fragrance, he gazes unblinking
+at Gora's face.
+
+**1440.** The brahmanas chant the Vedas, the women raise cries of "Jaya!";
+the bards recite [praises] merrily and beautifully.
+Narahari sings the rasa of the adhivasa;
+the musicians play various instruments.
+
+**1441.** *Again, [a song] in a suitable raga:*
+At the auspicious moment the auspicious adhivasa takes place;
+in the sky the gods, absorbed [in bliss] together with their companions,
+tell one another of the Lord's deeds
+ceaselessly, with joyful minds [and] gait.[^12-199]
+Gaura, full of rasa, the crest-jewel of rasikas,
+shines on a charming seat, beautiful;
+in His hand a golden mirror; He who takes away the burden of pride,
+soft of body, conquers Manmatha.
+
+**1442.** The moon of His face shatters the pride of the moon;
+His smile is soft, soft, delighting the heart;
+His pair of lovely eyes — flashing lotuses;
+on His forehead the tilaka shines beautifully.
+His arms are [like] serpents, His fine chest broad,
+His waist slender, every limb charming;
+His glossy curling locks are matchless —
+He enchants the minds of the people of the world.
+
+**1443.** Seeing such sweetness, the masters [of the arts],
+deeming [it] their good fortune, eagerly, again and again,
+sing, unfolding various ragas in alapa;
+taking up their vinas, they delight the ear.
+The skilled musicians shine,
+sweetly sound the murajas and mridangas:
+"Thonga thonkana jhiki ku jhankita,
+thiththi tana nana nanaye."[^12-200]
+
+**1444.** The dancers dance with abhinaya of the hands,
+displaying graceful poses in abundance,
+uttering: "Taka taka thai ta thai tata,
+dha dhili lili lilalai."
+The ceaseless cry of "Jaya, jaya!" fills the earth;
+many brahmanas chant the Vedas;
+the women give the "ulu-lu-lu";[^12-201]
+Ghanashyama's heart overflows with happiness.
+
+**1445.** *Again, [a song] in a suitable raga:*
+Mishra Sanatana, with joy in his heart,
+at the auspicious moment performs his daughter's adhivasa.
+
+**1446.** The brahmanas from Ai's house
+quickly came, bringing everything for the adhivasa.
+
+**1447.** The brahmanas and good people of Nadia —
+all go to the house of the Raja-pandita.
+
+**1448.** The Mishra, showing great honor,
+seats everyone, offering garlands, sandal paste and the rest.
+
+**1449.** What unprecedented beauty in the courtyard!
+All sit down, forming a lovely circle.
+
+**1450.** The Mishra's wife with her friends
+performs the auspicious rites — how many, I cannot say.
+
+**1451.** Glancing timidly on all sides,
+Vishnupriya came out of the house.
+
+**1452.** In the midst of the assembly she sits on a throne;
+all, unblinking, behold her beauty.
+
+**1453.** Her garments and ornaments adorn her beautifully;
+with the radiance of each limb she illumines the world.
+
+**1454.** How can she be compared to gold or lightning?
+The sweetness of her face steals the pride of the moon.
+
+**1455.** Who can describe all [her] beauty?
+Touching [her] with fragrance, all bless [her].
+
+**1456.** The women raise cries of "Jaya!";
+the brahmanas ceaselessly chant the Vedas.
+
+**1457.** The bards recite noble deeds;
+various instruments sound, the masters sing songs.
+
+**1458.** How much festivity in Mishra's house!
+Narahari floats in that very ocean of happiness.
+
+**1459.** *Again, [a song] in a suitable raga:*[^12-202]
+After the day of the adhivasa
+a new joy grows in the town of Nadia.
+
+**1460.** Everywhere people run about,
+saying: "Today is Nimai's wedding!"
+
+**1461.** "Glory, glory!" — filling the whole world;
+who does not long to see the wedding?
+
+**1462.** Shiva, joyful, together with Parvati,
+leaving Kailasa, comes to see the wedding.
+
+**1463.** Ananta, taking his own associates,
+remains unseen to see the wedding.
+
+**1464.** All the associates from Vaikuntha,
+saying, "We will see the wedding," are impatient at heart.
+
+**1465.** The Four-faced One with his beloved
+longs so much, moment after moment, to see the wedding!
+
+**1466.** The lord of the gods, taking Shachi with him,[^12-203]
+adorns himself in great joy to see the wedding.
+
+**1467.** Eagerly the gods say:
+"We will see the wedding, staying in the Lord's house."
+
+**1468.** The celestial women resolved in their hearts:
+"We will revel at the wedding with the wives of Nadia."
+
+**1469.** The Gandharvas and Kinnaras think:
+"With song and music we will join the artists at the wedding."
+
+**1470.** Indra's dancing girls say:
+"We will dance at the wedding with the dancing girls of Nadia."
+
+**1471.** Devarshi [Narada], his heart jubilant,
+longs so much to see the wedding!
+
+**1472.** The Yamuna and the Jahnavi swell;
+the earth blossoms with the rasa of the wedding festivity.
+
+**1473.** The brahmanas and good people of Nadia —
+all go to Nimai's house for the wedding.
+
+**1474.** Shachi's son Gaurahari,
+having performed the rites prescribed for the wedding, sits happily.
+
+**1475.** Gazing at the moon of the Lord's face,
+they say so much — no one can hold back their heart.
+
+**1476.** All the auspicious things that arise —
+how much can Narahari tell with one mouth?
+
+**1477.** *Again, [a song] in a suitable raga:*
+Gora, full of rasa, the abode of happiness,
+delights in the bath prescribed for the wedding.
+Throngs of wives of good families, crying "ulu lu lu,"[^12-204]
+gaze at the lovely moon-face.
+
+**1478.** Some, at the breeze from that body,
+tremble again and again, outdoing the lightning.
+Some, longing for the touch, as they smear [Him] with fragrant turmeric and the rest,
+cannot keep their composure.[^12-205]
+
+**1479.** One, as she puts oil on the lovely locks —
+how much delight arises in her heart!
+One performs the abhisheka with Ganga water;
+her many gestures are beyond compare.
+
+**1480.** One, half-smiling, floating in rasa,
+wipes [His] body, taking a towel in hand;
+first she dresses [Him] in a white cloth with a red border —
+Narahari takes great delight in that.
+
+**1481.** *Again, [a song] in a suitable raga:*
+What joy in Shachi's house!
+The aiha-suiha women perform the auspicious rites.[^12-206]
+
+**1482.** Having taken the bath prescribed for the wedding,
+Gaurahari sits on a wondrous throne.
+
+**1483.** With the radiance of His beauty [He] charms the mind;
+His glossy curling hair lies beautifully on His back.
+
+**1484.** His dear ones come to Gora's side;
+having looked but once, they cannot turn their eyes away.
+
+**1485.** With what joy all, enraptured,
+arrange the wedding attire in many ways!
+
+**1486.** What does Narahari know to say?
+Taking upon myself the ills of that peerless attire, I die.[^12-207]
+
+**1487.** *Again, [a song] in a suitable raga:*
+The Moon of Nadia, the crown of rasikas,
+shines beautifully in auspicious wedding attire.
+His limbs are lovely, anointed; a sandal tilaka
+in the shape of a half-moon is on His forehead.
+
+**1488.** A wondrous crown made of many flowers
+on His head — who is not bewitched by that style?
+On His eyes, a line of kajal: young, noble,
+chaste wives it does not keep within their families.
+
+**1489.** At His ears, jewelled makara earrings;
+how the radiance of His cheeks flashes!
+That dear face, smeared with the sweetest smile —
+the splendour of the full moon is [but] its nichhani.[^12-208]
+
+**1490.** Paddy and durva, bound with thread, are lovely;
+a golden mirror is in His right hand.
+Narahari says: seeing every limb adorned with ornaments,
+who can keep composure?
+
+**1491.** *Again, [a song] in a suitable raga:*
+Gaura, the best of moons, the Nagara of Vraja, places His mother's foot-dust on His head
+and sets out;[^12-209] at the wedding, surrounded by a host of brahmanas, [He] shines beautifully.
+[He] mounts the palanquin, flashing within it; the ocean of rays of His body surges;
+His rasa-filled adornment, which steals all the pride of Madana, enchants people's minds.
+
+**1492.** A vast clamour — it cannot be told; countless women and men run;
+heeding neither road nor wayless ground, no one remembers going home.
+Leaving heaven, the gods, unseen, have filled all the land of the town of Nadia;
+they wander, beholding the Lord's procession to the wedding — who among them can keep composure?
+
+**1493.** Instruments — dundubhi, bheri, tittiri, shringika, kaka-vilasa (?), kamsari,
+dhol, dholak, damaru, dindima, sweet kundali, varuna (?),
+vina, panava, pinaka, kahala, muraja, changa, upanga, madal —
+sound: taka thonga thongina, taka thabiku taka taka thuna.[^12-210]
+
+**1494.** Skilled [singers] with sweet voices are immersed in song; male and female dancers dance,
+sounding out [the syllables]: "dhi dhi kata dha dhini, ni ni ni drikkuta drimita," they say.
+Bards recite the new deeds full of rasa; various auspicious [rites go on], ceaseless and abundant;
+again and again cries of "Glory, glory!" resound — Ghanashyama's heart is enraptured.[^12-211]
+
+**1495.** *Again, [a song] in a suitable raga:*
+Gaura, the best, the crown of rasikas, surrounded by a host of His dear brahmanas,
+joyful — to make an auspicious marriage, for this He goes, mounted on the palanquin.
+Tata, ghana, anaddha, shushira — the most lovely instruments of four kinds —
+play; sounds of many kinds have filled the vault of the sky.[^12-212]
+
+**1496.** The new mardala, the ornament of all instruments — its sound increases joy:
+dhe dho dhigi taga dhilanga, dha dha nini nidhiya.
+The unseen dancing girls of the gods, together with the [earthly] dancing girls, [perform] lasya unceasingly,
+reciting: taka taka thai thai thai, ai ati ni ni ni tiya.[^12-213]
+
+**1497.** Together with the singers the jubilant Gandharvas sing gracefully;
+in various gramas and the rest, sweet to the ear, they display delight.
+The Thousand-faced One, Vidhi, Mahesha, the lord of the gods with his retinue, Ganesha,
+Girija and the others — how could they keep composure? They float in an ocean of happiness.[^12-214]
+
+**1498.** Horses, elephants, many bearers of weapons; jesters display their skills;
+hundreds of banners and the like shine; the crowd blocks the road.
+Wandering and wandering through the town of Nadia, pausing and pausing on the bank of the Suradhuni,
+near Mishra's house Narahari beholds [this] splendour.
+
+**1499.** *Again, [a song] in a suitable raga:*[^12-215]
+To see Gorachand's wedding,
+with what longing of heart the wives of good families adorn themselves —
+none can keep composure. (Refrain.)[^12-216]
+
+**1500.** In the rapture of rasa, how [they] line their eyes with collyrium!
+Crooked glances, curved brows.
+Glossy hair, [plaited] in a braid — how it rolls down the back!
+A lovely golden jhapa.[^12-217]
+
+**1501.** On the forehead a dot of sindura; how the sandal paste shines!
+They put gandharaja and champa on their ears.[^12-218]
+Necklaces of gems and pearls — how they swing on the neck!
+The ornaments glitter.
+
+**1502.** Wearing silk saris, leaving their homes — how
+they go with the gait of a king of elephants!
+Beholding Narahari's Lord, [their] hearts surge;
+one whispers something in another's ear.
+
+**1503.** *Again, [a song] in a suitable raga:*
+Friend, look there — the Moon of Nadia!
+Taking the nichhani of that world-enchanting beauty,
+how many hundreds of Madanas fall at [His] feet and weep! (Refrain.)[^12-219]
+
+**1504.** The two eyes drowning in rasa — [their] glance the Creator
+made to slay young women, so I think.
+The beauty of the moon of the face steals the pride of the moon;
+mingled with a smile, [the face] rains nectar in heaps.
+
+**1505.** Ah, I die, I die! As if with what longing of heart[^12-220]
+someone fashioned this wedding attire!
+Supremely brilliant is the wondrous crown on the head;
+[by it] the glossy, curling, lovely hair is covered.
+
+**1506.** The yellow thread prescribed for the auspicious [rite], durva blades in hand,
+the peerless golden mirror shines beautifully.
+The garments and ornaments are sweet; the grace of every
+limb enchants Narahari's mind.
+
+**1507.** *Again, [a song] in a suitable raga:*
+Ah, I die — what sweet ways!
+The nagaris of Nadia, seeing Gorachand,
+cannot keep composure. (Refrain.)
+
+**1508.** One, slowly, slowly, says with a gesture:
+"What use is shame before the family?
+Night and day I will delight with Gora,
+keeping [Him] on my bosom."
+
+**1509.** Another says: "Now, enraptured by that rasa,
+I will watch the wedding merriment;
+slipping into the bridal chamber, on some pretext
+I will touch that golden body."[^12-221]
+
+**1510.** So many such wishes — they
+cannot come to the lips.
+Together with Narahari [they] joyfully
+enter the house of Sanatana Mishra.
+
+**1511.** *Again, [a song] in a suitable raga:*
+The auspicious rites in the house of Sanatana Mishra —
+who knows how to describe them?
+
+**1512.** Many instruments sound, full of splendour;
+an extraordinary joyful tumult surges up.
+
+**1513.** Sanatana with his kinsmen and friends
+comes forward to receive the jewel of a son-in-law.
+
+**1514.** In what charming attire the son-in-law
+glitters in the divine palanquin!
+
+**1515.** On all sides are brahmanas and good people;
+the crowd of countless people cannot be counted.
+
+**1516.** The blind, holding someone's hand,
+stand [facing] where Gaurachandra is.
+
+**1517.** The lame, coming to the royal road,
+gaze to their heart's content at Gora's treasury of beauty.
+
+**1518.** Whoever cannot walk,
+leaning on a staff, comes along the road slowly, slowly.
+
+**1519.** Who does not sing Gora's qualities?
+They do not know how much happiness grows in their hearts.
+
+**1520.** Various instruments play in various measures;
+young and old dance — no one stays still.
+
+**1521.** Hundreds of great lamps burn;
+the light has covered the earth and the vault of the sky.
+
+**1522.** Someone displays some kind of merriment;
+all that happens spreads over the whole earth.
+
+**1523.** Mishra, with great jubilation at heart,
+taking the son-in-law in his arms, enters the house.
+
+**1524.** Seating [Him] on a wondrous seat,
+he showers flowers, gazing at the moon-face.
+
+**1525.** Ceaseless cries of "Glory, glory!";
+the musicians of both [sides] play in rivalry.
+
+**1526.** Mishra performs the rite of welcoming the son-in-law;
+seeing this, Narahari's eyes are soothed.
+
+**1527.** *Again, [a song] in a suitable raga:*
+The Moon of Nadia lovely delights
+on the chhodla — in what a sweet manner![^12-222]
+His youthful body surpasses gold and fresh butter;
+at [the sight of His] graceful poses, who can keep composure?
+
+**1528.** Again and again Vishnupriya's mother
+on [various] pretexts gazes with unblinking eyes.
+With what joy her heart surges —
+her feet do not touch the ground.
+
+**1529.** With the aiha-suiha women, finely dressed, she comes,
+most skilled in performing the auspicious rites.[^12-223]
+Paddy and durva [she places] on the lovely head
+and blesses in an incomparable manner.
+
+**1530.** With a lamp in hand she circles the groom seven times;
+going into the house,[^12-224]
+she looks back at Narahari's Lord;
+from the weight of affection she walks in half-steps.
+
+**1531.** *Again, [a song] in a suitable raga:*
+The wife of Sanatana Mishra
+performs the customs — how many, I cannot say.
+
+**1532.** Swimming in an ocean of happiness,
+she adorns her daughter with various ornaments.
+
+**1533.** Seeing Vishnupriya's beautiful attire,
+boundless jubilation grows in everyone's heart.
+
+**1534.** The venerable Mishra at the auspicious moment
+instructed his dear ones to bring his daughter.
+
+**1535.** Mishra's house is charming;
+the expanse of the courtyard glitters.
+
+**1536.** There the wedding platform shines;[^12-225]
+they brought the bride, seating her on a throne.
+
+**1537.** Whatever folk customs there are —
+those too they perform, and in this there is boundless delight.
+
+**1538.** First of all Devi Vishnupriya
+surrendered herself at the Lord's feet, offering a garland.
+
+**1539.** Smiling slightly, Gora Raya
+placed a flower garland around Vishnupriya's neck.
+
+**1540.** The two throw flowers at each other;
+what is in the heart of one, the other knows well.
+
+**1541.** Moment by moment the bliss increases;
+Gaurachandra sports with Vishnupriya.
+
+**1542.** What new beauty, without limit!
+On all sides the women raise the cry, "Jaya!"
+
+**1543.** All the people raise a clamor;
+various instruments sound, and the sound pierces the sky.
+
+**1544.** The fortunate Sanatana Mishra
+joyfully sat down to give away his daughter [in marriage].
+
+**1545.** Performing the rites enjoined by the Vedas and other [scriptures],
+he gave over his daughter, holding Vishvambhara's hand.
+
+**1546.** Floating in happiness, he gave the dowry:
+divine cows, wealth, land, a bed, servants and maidservants.
+
+**1547.** At the very end he performs the homa,
+having seated his daughter at Vishvambhara's left.
+
+**1548.** How wondrous is the sweetness of the two!
+What can Narahari, who offers himself for the two, say?
+
+**1549.** *Again (in any raga):*
+Seeing the sweetness of the Lord's wedding,
+no one can keep his composure;
+Shesha, Shiva, Brahma, Indra, Ganapati
+and the others — their bodies thrill.
+
+**1550.** The crowd is immense: the path of the sky
+is blocked by many chariots of the gods.
+The sweetest cry of "Jaya, jaya!" resounds —
+how to describe it, I do not know.
+
+**1551.** In great delight, to one another
+recounting the groom's deeds full of rasa,
+unseen, they shower down a rain of flowers,
+spreading charming joy.
+
+**1552.** Praising the great fortune
+of the brahmana Sanatana, they are utterly enraptured.
+Narahari Dasa's hope is this:
+will my mind be intoxicated with this happiness?
+
+**1553.** *Again (in any raga):*
+Hosts of celestial women, having arranged
+attire of many kinds —
+[their ornaments] ring incomparably,
+the luster of bracelets flashes.[^12-226]
+
+**1554.** Through the paths of the sky roam
+countless throngs, eagerness in their hearts;
+they deem their sight fulfilled,
+beholding the wedding of Gaura the groom.
+
+**1555.** Extolling the charming customs
+of Mishra's house, their whole bodies thrilling,
+they form ever new desires —
+they cannot hold their composure.
+
+**1556.** The form of the matchless Lord and [His] beloved
+they take in, filling their eyes.
+How much will Narahari tell? All
+offer their lives for Them.
+
+**1557.** *Again (in any raga):*
+Ah, I die, I die! The celestial women,
+seeing the wedding of the moon of Nadia,
+swimming in that ocean of beauty, all
+satisfy their thirsty eyes.
+
+**1558.** One says to another: "Look, the heart of Mishra
+Sanatana cannot contain his happiness!
+With what longing he has given his daughter to Krishna,[^12-227]
+and how much he says, offering various gifts!"
+
+**1559.** Someone says: "Having seated his daughter at the left
+of his son-in-law, he deems himself blessed.
+He performs the homa rite, but his mind is not on it:
+he keeps gazing at the moon-like face."
+
+**1560.** Someone says: "Look, Mishra's wife
+is as if mad in the wedding bustle.
+On so many pretexts she gazes at Narahari's Lord;[^12-228]
+in her delight her feet do not touch the ground."
+
+**1561.** *Again (in any raga):*
+Gods and goddesses in delight
+all speak of the wedding in soft voices.
+
+**1562.** Fortunate are the people of Nadia:
+the wedding has taken place — seeing it, all rejoiced.
+
+**1563.** The brahmanas in whose homes there are beautiful daughters
+all lament greatly in their minds:
+
+**1564.** "To give our daughter to such a groom
+we were not able — such happiness is not in our fate."
+
+**1565.** Thus someone says so much;
+everyone praises Sanatana Mishra.
+
+**1566.** The fortunate Sanatana Mishra
+completed the homa and all [the other rites].
+
+**1567.** Gazing at his daughter and son-in-law,
+[he feels:] moment by moment happiness grows, and his heart overflows.
+
+**1568.** Who can describe the customs?
+Again and again the women raise the cry, "Jaya!"
+
+**1569.** To take Devi Vishnupriya and Gorachand
+into the bridal chamber — who can stay calm?[^12-229]
+
+**1570.** Narahari's Lord, Gora Raya,
+goes into the bridal chamber with great delight in His heart.
+
+**1571.** *Again (in any raga):*
+Gora, the delight of Nadia,
+enters the bridal chamber —
+the thief of the life of ever new young women. (Refrain.)
+
+**1572.** The wives of noble families, with joy in their hearts,
+taking Vishvambhara and Vishnupriya,
+in a most sweet manner seat [Them] in the bridal chamber
+and with unblinking eyes gaze at those faces.
+
+**1573.** One, longing to touch, smiling, smiling,
+smears fragrant sandal paste on [His] body;
+another, preparing a box of betel cups,
+playfully sets [it] before [Him].
+
+**1574.** Someone, under the pretext of jest, does so much:
+swaying, she leans against [His] body, her heart thrilling;
+someone stands before Narahari's Lord
+and gracefully offers a handful of flowers.
+
+**1575.** *Again (in any raga):*
+In the bridal chamber Gora Raya
+intoxicates millions of Madanas with His beauty.
+
+**1576.** The wives of noble families, with happiness in their hearts,
+give over their eyes to the moon-like face.
+
+**1577.** One, drawing veil over veil,
+says something with a slight smile.
+
+**1578.** Her whole body fills with thrills,
+and she covers it with her cloth.
+
+**1579.** One, standing beside another,
+trembles as if overcome by rasa.[^12-230]
+
+**1580.** Someone, her heart extremely restless,
+offers her life for [His] reddish feet.[^12-231]
+
+**1581.** How much merriment there is in the bridal chamber —
+who will be able to tell how much?
+
+**1582.** In Narahari's mind there is this hope:
+will I see all these pastimes?
+
+**1583.** *Again (in any raga):*
+In the bridal chamber Gora Raya
+happily passes the night with Vishnupriya.
+
+**1584.** There is no end to telling of the merriment;
+Sanatana with all his kin is lost in bliss.
+
+**1585.** At daybreak Gaurahari
+became joyful, having performed the kushandika and other rites.[^12-232]
+
+**1586.** "I will go to My home,"
+He submits to the respected Sanatana Mishra.
+
+**1587.** Sanatana with effort keeps his composure
+to send off his jewel of a son-in-law.
+
+**1588.** Consoling his daughter in so many ways,
+he gave her over, entrusting her, holding Vishvambhara's hand.
+
+**1589.** At the time of departure Gaurahari
+bows with great joy to the respected people.
+
+**1590.** How all of them longed to do this![^12-233]
+Placing paddy and durva grass on His head, they bless [Him].
+
+**1591.** Mishra's wife, sending off her daughter and son-in-law,
+cannot keep her composure.
+
+**1592.** As Gora sets out for home,
+the brahmanas on all sides chant the Vedas.
+
+**1593.** The women raise the cry, "Jaya!";
+various instruments sound, the bards recite eulogies.
+
+**1594.** Beholding Narahari's Lord,
+all perform the auspicious rites befitting departure.
+
+**1595.** *Again (in any raga):*
+The ornament of Vraja, Gaura, the finest of moons, having performed the wedding, intent on delightful play,
+goes with His beloved to His home — a supreme, wondrous beauty.
+He rides in a palanquin, flashing; the nectar-stream of His beauty overflows;
+His matchless adornment, which draws the eyes, enchants the minds of all people.
+
+**1596.** Ceaselessly the cry "Jaya, jaya!" resounds; countless women and men behold
+and say to one another: "It is as if Lakshmi and the Lord of Lakshmi — both of Them are sporting."
+The panegyrists, their minds exceedingly delighted, extol ever new deeds full of rasa;
+a great tumult rises, again and again the Vedas sound, bodies thrill.[^12-234]
+
+**1597.** Instruments of many kinds — muraja, mardala, trisari, kundali, pataha, pula;
+"kuku nunu nunu nu dha" — hosts of musicians sweetly play on various [instruments].[^12-235]
+Dancing girls and rows of dancers dance, calling out "ta dhik dhikita dhini
+nini dhenna dhiki taka"; they keep the tala, and in the movements of their feet the radiance of their bodies flashes.
+
+**1598.** Jati, shruti, svara-grama, murchhana, tana, ever new, new, new alapas —
+hearing them, the deer leave the forest, and throngs of connoisseurs hasten near.
+All around the house there is a vast uproar; Narahari Dasa's heart overflows.
+At the hour of godhuli, having rested on the charming bank of the Suradhuni, He comes home.[^12-236]
+
+**1599.** *Again (in any raga):*
+Gorachand, having married,
+comes home exceedingly jubilant.
+
+**1600.** Unseen, the gods
+shower flowers along the whole way.
+
+**1601.** In Nadia there is an ocean of happiness;
+someone tells Mother Shachi about the wedding.
+
+**1602.** Hearing the great clamor of instruments,
+Devi Shachi was overwhelmed with bliss.
+
+**1603.** Shachi Ai, outside the house,
+with the chaste women stands watching the road.
+
+**1604.** Gora, with everyone, slowly, slowly
+approaching, stepped down from the palanquin at the door.
+
+**1605.** Ai, seeing her son and daughter-in-law,
+waves things around [them] and casts them away — countless things.
+
+**1606.** Lovingly kissing the moon-like face,
+she enters the house, leading her daughter-in-law and son.
+
+**1607.** Vishvambhara with Vishnupriya
+sits on the throne; all the associates behold [it].
+
+**1608.** The women give the cry "ulu-lu-lu";
+the whole world became filled with auspiciousness.
+
+**1609.** The bards recite eulogies;
+the brahmanas ceaselessly chant the Vedas.
+
+**1610.** All joyfully play various instruments;
+how much can Narahari tell with one mouth?
+
+**1611.** *Again (in any raga):*
+Gora, the jewel of virtues, the crown of the accomplished,
+His heart supremely delighted —
+the many people, stirred by the wedding,
+[He] gives them leave.
+
+**1612.** Bards, actors, singers, musicians,
+beggars — a vast throng —
+He gives them all many clothes, ornaments and wealth,
+fulfilling their desires.
+
+**1613.** Most skilled in the sweetest words,
+He satisfies everyone.
+All went together to their own homes,
+singing the glory of Gaurahari.
+
+**1614.** Sri Shachi showed all the women,
+each one, great honor;
+says Narahari: all of them happily
+went to their homes.
+
+**1615.** O Srinivasa, the joy that there was at Vishvambhara's wedding
+awakens in the heart.
+
+**1616.** Here Gaurahari sat with Vishnupriya,
+and His mother watched it, filling her eyes.
+
+**1617.** How much affection Ai shows to Vishnupriya —
+it is impossible to tell all of it with one mouth.
+
+**1618.** How much shall I tell of Devi Vishnupriya's conduct?
+She devoted herself to the service of Vishnu and the service of Sri Shachi.
+
+**1619.** What shall I say? By the service of Devi Vishnupriya
+Ai passes day and night in great bliss.
+
+**1620.** Vishvambhara enjoys [His pastimes] in supreme bliss;
+as He enters youth, the beauty of [His] body is enchanting.
+
+**1621.** Always [He is] beautifully adorned with divine garlands and sandal paste;
+[His] body is decorated with fine garments and ornaments.
+
+**1622.** Gora, the son of Shachi, the enchanter of the world,
+is constantly absorbed in the rasa of learning together with [His] students.
+
+**1623.** Seeing the pashandas multiply, [He] could not bear [it]:
+the Lord conceived the desire to go to Gaya.
+
+**1624.** Here, bowing at [His] mother's feet
+and consoling [His] mother, the Lord set out for Gaya.
+
+**1625.** Having performed the rites at Gaya according to popular custom, Gaurahari
+returns home, having bestowed mercy on Ishvara Puri.[^12-237]
+
+**1626.** After some days the Lord came to Navadvipa;
+all the people were overwhelmed with joy.
+
+**1627.** Mother Shachi performs various auspicious rites;
+going outside the house, she gazes at the road.
+
+**1628.** She asks people how far away Vishvambhara is.
+At that very moment the Lord arrived at His own home.
+
+**1629.** O Srinivasa, here Vishvambhara,
+in great delight, bowed at [His] mother's feet.
+
+**1630.** Who can describe the mother's joy?
+With tearful eyes she looks at [His] face again and again.
+
+**1631.** Devi Vishnupriya, beholding the Lord of her life,
+was overwhelmed with joy and could not hold her heart steady.
+
+**1632.** In the family of Vishnupriya's father there was great rejoicing;
+what shall I say? Gaurachandra is the life of them all.
+
+**1633.** With all the people who came to see the Lord
+[He] dealt as befitted each.
+
+**1634.** Vishvambhara gave leave to [His] companions;
+they all went joyfully to their own homes.
+
+**1635.** To four or five people — Shriman Pandita and others —[^12-238]
+[He], sitting in this secluded [place], tells of Sri Gaya.
+
+**1636.** As [He] utters the name of the holy place of Vishnu's lotus feet,[^12-239]
+[He] floats in the tears of [His] eyes and cannot become steady.
+
+**1637.** Again and again [He] heaves deep sighs, saying "Krishna";
+trembling and the thrill of rapture fill the Lord's body.
+
+**1638.** After a while, becoming steady, the son of Shachi
+speaks sweet words to Shriman Pandita:
+
+**1639.** "O friends, all of you go home today,
+and tomorrow, please, come to Shuklambara's house."[^12-240]
+
+**1640.** Hearing the very sweet words, all rejoiced;
+seeing the wondrous prema, they took leave.
+
+**1641.** Hearing [of it] from one another, all the Vaishnavas joyfully
+come right here and meet Gaurachandra.
+
+**1642.** How many people came and went cannot be told;
+all were overwhelmed by Gaurachandra's behavior.
+
+**1643.** In Nadia all the people say to one another,
+"Nimai Pandita has become a great Vaishnava."
+
+**1644.** The Lord's absorption in prema grows moment by moment;
+food does not please [Him], [His] mind does not turn to sleep.
+
+**1645.** How would Gora Raya lie down to sleep?
+Saying "Krishna, Krishna," [He] passes the night awake.
+
+**1646.** Streams of tears flow constantly from [His] eyes;
+again and again [His] golden body is grey with dust.
+
+**1647.** Here Vishvambhara Raya, in the mood of Kapila,[^12-241]
+with joy in [His] heart teaches [His] mother so much.
+
+**1648.** Ai, the mother of the world, is the embodiment of prema-bhakti;
+and then the Lord distributed prema here.
+
+**1649.** One day Vishvambhara was sitting here;
+around [Him], on all four sides, [sat His] students — an enchanting sight.
+
+**1650.** The students want to study as before;
+the students say one thing, and the Lord says another.
+
+**1651.** The students, reflecting within themselves, say,
+"He has become like this since returning from Gaya."
+
+**1652.** As they reflected thus, by Gaurachandra's will
+prema-bhakti arose in the hearts of them all.
+
+**1653.** What study of grammar now! — their minds turned away [from it];
+at the Lord's weeping everyone weeps.
+
+**1654.** All the students are eternal servants of Sri Prabhu;
+prema-bhakti became manifest in every heart.
+
+**1655.** O Srinivasa, what shall I say? Here
+the Lord dances in His own kirtana.
+
+**1656.** Surrounding the Lord on all four sides, the students
+perform kirtana, saying, "Gopala, Govinda!"
+
+**1657.** The Lord, absorbed in prema, says to all, "Chant, chant!"
+All float on the waves of the bliss of prema.
+
+**1658.** Suddenly hearing the sankirtana full of prema,
+the devotees living nearby came running.
+
+**1659.** All the other people who come say to one another,
+"What is this uproar we hear in the town of Nadia?"
+
+**1660.** Saying so, they come to this house of the Lord,
+and gazing at the Lord, they are enchanted.
+
+**1661.** Wondrous are the Lord's dancing, [His] kirtana and preaching:
+at this no one can keep [his] composure.
+
+**1662.** Seeing the Lord's absorption in prema, everyone grew anxious;
+the Lord's devotees made the Lord steady.
+
+**1663.** O dear Srinivasa, here Vishvambhara
+reveals Himself — this is a wondrous account.
+
+**1664.** The Lord, subject to His devotees, is the destroyer of the devotees' sorrow;
+toward the pashandas [He] became exceedingly angry.
+
+**1665.** Saying again and again, "I am He, I am He!"
+[He] laughs and weeps, letting out a tremendous hunkara.
+
+**1666.** Seeing the pashandas, [He] chases [them]
+and proudly says, "I will destroy you all!"
+
+**1667.** At moments, rolling on the ground, [He] remains motionless.
+Seeing this, some say to Ai,
+
+**1668.** "The former 'vayu' has now overpowered Him again;
+treat [Him] with cooling remedies in every way."
+
+**1669.** Through others Ai informed Srivasa;[^12-242]
+with great gladness of heart he consoled [her].
+
+**1670.** Everyone says, "This is by no means a human being."
+Here the son of Shachi revealed Himself.
+
+**1671.** Listen, Srinivasa, to the account of one day:
+here the Lord was utterly overwhelmed in the absorption of prema.
+
+**1672.** Whomever He sees, He asks, "Where is Krishna?"
+[He] cannot check the streams of tears from [His] two eyes.
+
+**1673.** Gadadhara came here bringing tambula;
+[the Lord] asks him, "Where is the dark, beautiful Krishna?"
+
+**1674.** He says, "Krishna is always in Your heart."
+Hearing [this, the Lord] tears at His own chest with [His] nails.
+
+**1675.** Gadadhara quickly caught both the Lord's hands;
+he consoled [Him] at length, and Vishvambhara became calm.
+
+**1676.** Ai, greatly pleased with Gadadhara, says,
+"My boy, always stay with Nimai."
+
+**1677.** Here in the evening the devotees come and gather;
+Mukunda recites verses — a supreme elixir.
+
+**1678.** Hearing the verses full of bhakti-rasa, Gaura-raya
+[was seized by] such absorption in prema that it cannot be told.
+
+**1679.** The Lord, surrounded by Vaishnavas, is intoxicated in sankirtana;
+the night became like a moment — [He] does not notice the dawn.
+
+**1680.** In the bliss of prema [there are] tremendous hunkaras and roars;
+hearing them, the pashandas cannot sleep at night.
+
+**1681.** The pashandas, in anger, mock;
+someone says, "Today trouble awaits these [people].
+
+**1682.** Kirtana in Nadia — misfortune comes of it:
+the king's men are coming to seize the Vaishnavas.
+
+**1683.** These will all run away — know [this] and be on your guard.
+If Srivasa is bound and handed over, it will be good for all."
+
+**1684.** Generous Srivasa, hearing [this], believed [it]:
+"The king is a wicked Yavana; nothing is impossible [for him]."[^12-243]
+
+**1685.** Thinking thus, Srivasa became afraid;
+Vishvambhara, the Knower of hearts, knew everything.
+
+**1686.** Letting out a hunkara, the Lord says again and again,
+"My descent is to destroy the fear of [My] devotees."
+
+**1687.** The devotees do not know that the Lord has descended;
+in [His] mind arose the desire to reveal Himself.
+
+**1688.** Beautifully attired, the Lord, with a delighted heart,
+joyfully set out from here to wander through Nadia.
+
+**1689.** Who, seeing that form and loveliness, could remain calm?
+In the gladness of their hearts people say so much to one another.
+
+**1690.** *Thus [it is said] in a song:*
+Look: Gora, the enchanter of the world, in the town of Nadia;
+with the radiance of [His] beauty [He] lights up the ten directions. (Refrain.)
+
+**1691.** [His] lovely form, breaking the pride of the golden mountain, is full of rasa.
+Curling locks; on [His] forehead gleams a pure tilaka of sandal paste.
+
+**1692.** The pride of Ananga's bow [is cast] far away — [such are His] brows and glance; how sweet [their] curve![^12-244]
+The moonlike face, mingled with a smile, shines; [His] teeth — a string of pearls.
+
+**1693.** Lovely ears, beautiful earrings; the curves of [His] cheeks shine.
+[His] nose, surpassing a parrot's beak, enchants the minds of chaste young women.
+
+**1694.** [His] graceful pair of arms, reaching to the knees, puts serpents and lotus stalks to shame.
+[His] broad chest is most finely formed; on [His] neck — a garland of malati.
+
+**1695.** The three folds [of the abdomen], the lotus of [His] beautiful navel, the line of hairs [dark as] bees shine.
+[His] waist, surpassing [that of] a lion, is slender and firm; on [His] body a garment gleams.[^12-245]
+
+**1696.** [His] thighs, [like] plantain trees, crush the pride of Madana; [His] knees are incomparable.
+The soles of [His] feet are land-lotuses; to the jewels of [His] nails Ghanashyama offers himself again and again.[^12-246]
+
+**1697.** Who would not be enchanted, gazing at Gorachand?
+By this road [He] set out to wander through Nadia.
+
+**1698.** Wandering through Nadia, the Lord, in Srivasa's house,
+manifested [His] four-armed form, bestowing mercy on Srivasa.
+
+**1699.** Coming [here], [He] sat right here with the brahmanas;
+there is no comparison for that wondrous beauty.
+
+**1700.** Here [was] the Lord's wondrous absorption in bhava:
+saying "Krishna," [He] weeps, with not a trace of composure.
+
+**1701.** One day, intoxicated in the mood of Varaha,
+[the Lord] went from here to the house of Murari Gupta.[^12-247]
+
+**1702.** Taking the form of Varaha and bestowing mercy on him,
+Gaurahari came right here and sat down.
+
+**1703.** The Lord enjoys [His pastimes] together with all the devotees;
+only without Nityananda is [His] heart restless.
+
+**1704.** O Srinivasa, Nityananda is Haladhara,
+the son of Hadai Pandita and Padmavati.
+
+**1705.** Hadai Pandita and Padmavati, honoured by all,
+lived in the village of Ekachakra in the land of Rarh.
+
+**1706.** Supremely generous were the two, the brahmana and his wife;
+I do not know how to tell of their boundless glory and virtues.
+
+**1707.** Lord Nityananda, to give happiness to all people,
+descended in their house at an auspicious moment.
+
+**1708.** The day of Lord Nityananda's appearance is extraordinary:
+who does not honour [it], who does not offer [it] praise?
+
+**1709.** *Thus [it is said]:*[^12-248]
+*That all-auspicious bright thirteenth day of [the month of] Magha,
+the day of Lord Nityananda's appearance, I joyfully praise without cease.*
+
+**1710.** The joy that arose at the moment of the Lord's birth
+the wise have described in many ways.
+
+**1711.** *As [it is said] in a song (raga Kamoda):*
+Ah, what joy today!
+In the town of Ekachakra, in the house of Hadai Pandita,
+Nityananda has descended. (Refrain.)
+
+**1712.** [His] body is most tender, like golden fresh butter;
+by [His] beauty He has charmed the world.
+Gazing at their son's face, their hearts cannot contain the delight —
+Padmavati and Hadai Pandita.
+
+**1713.** Sri Advaita in Shantipura roars in a surge of bliss;
+not for a moment can He keep still.
+The Lord dances with fervour and, slapping [His] armpits, says:
+"I have brought, I have brought the hero Bala!"[^12-249]
+
+**1714.** Brahma and the other gods shower flowers;
+ceaselessly sound the cries of "Jaya, jaya!"
+All the gandharvas and kinnaras play hundreds of instruments
+and sing [His] virtues — an ocean of happiness.
+
+**1715.** The Ojha is greatly fortunate: for his son's welfare he gives gifts —
+there is no counting them.[^12-250]
+Bringing so many presents, all the people come running;
+a great crowd enters the house.
+
+**1716.** Blessed is the land of Rarh, blessed that constellation and that day of the week,
+blessed the bright thirteenth day of Magha.
+Narahari says: well done! Blessed, blessed is the age of Kali —
+[His] appearance has dispelled heaps of sorrow.
+
+**1717.** *Again, raga Suhai:*
+Lord Nityananda, the root of bliss,
+who formerly was the son of Rohini —
+He has blessed [the age of] Kali: at an auspicious moment He appeared,
+He became manifest from the womb of Padmavati.
+
+**1718.** "Jaya, jaya, jaya!" — loud cries,
+auspicious rites in the house of Hadai Pandita.
+The residents of Ekachakra, floating in happiness,
+come running, unable to restrain themselves.
+
+**1719.** In the birth-chamber there gleams and sparkles
+the lovely moon of Nitai's face.
+To see that beauty, how much longing in their hearts!
+They gaze — no one's eyes blink.
+
+**1720.** In delight the gods shower thick rains of flowers,
+unseen, in beautiful movements of dance.
+Ghanashyama sings; many instruments sound:
+"dha dha dhiki dhiki, dheya na" — in rhythm.[^12-251]
+
+**1721.** Lovely are the birth of Nityananda and [His] childhood pastimes;
+the Lord lived at home for twelve years.
+
+**1722.** On the pretext of [a request by] a sannyasi, [He] left home;[^12-252]
+[He] wanders through the holy places — this is a wondrous lila.
+
+**1723.** Having fulfilled all desires in [His] wanderings,
+[He] stays in Vrindavana, [awaiting] the Lord's manifestation.
+
+**1724.** Gaurachandra sports in Nadia in a hidden form;
+Nityananda learned that [He] had become manifest.
+
+**1725.** Ceaselessly intoxicated with the great bliss of prema,
+the divine Haladhara came to Navadvipa.
+
+**1726.** [He] went to the house of Nandana Acharya;[^12-253]
+he, seeing [His] great effulgence, lost his composure.
+
+**1727.** With great care keeping Nityanandachandra in his house,
+[he] fed [Him] with great joy in his heart.
+
+**1728.** Learning of Nityananda's arrival, Gaura-raya
+smiles softly, softly, with great delight in His heart.
+
+**1729.** In this Vishnu temple Vishvambhara worships Vishnu;
+right here all the Vaishnavas quickly gathered.
+
+**1730.** Seeing that splendour, the Lord, joyful at heart,
+tells here of the night's dream.
+
+**1731.** *As [it is said] in a song (raga Kamoda):*
+Lord Vishvambhara says to His dear associates:
+"Listen to the story of a dream.
+What workmanship, how beautifully adorned —
+a chariot with a palm-tree banner came here.[^12-254]
+
+**1732.** I saw a handsome person, tall of stature —
+what can he be compared to?
+In one ear — what an earring! And that neck!
+How his moon-like face shines![^12-255]
+
+**1733.** A black pot in his hand, a blue cloth on his head,
+he is gracefully clad in a blue garment.
+He looks about in all four directions, he walks swaying —
+at that bearing, who could keep his composure?
+
+**1734.** Calling me by name, he asks again and again —
+I think it is Haladhara who has come."
+Having said this, Narahari's Lord
+was overwhelmed in the mood of Balarama.
+
+**1735.** Srivasa and the others, seeing the Lord absorbed in the dream,
+all offered prayers and grew calm.[^12-256]
+
+**1736.** Vishvambhara's behaviour cannot be described;
+immense is His eagerness to see Nitaichand.
+
+**1737.** Saying something to Haridasa and Srivasa Pandita,
+[He] sent [them] to search for Nityananda.
+
+**1738.** Haridasa and Srivasa, skilled in every respect,
+searched in Navadvipa in every house.
+
+**1739.** Not finding [Him] anywhere, [they] report to the Lord;
+hearing this, the Lord, saying something, smiles softly, softly.
+
+**1740.** This manner of the Lord the others did not understand;
+[He] made known that Nityananda is supremely hard to fathom.
+
+**1741.** Gaurachandra, full of beauty, in wondrous fine attire,
+goes with His dear [associates] to where Nityananda is.
+
+**1742.** Having met [Him] and left Nityananda in the house of Srivasa,
+the Lord came here and sat down, with delight in His heart.
+
+**1743.** From the house of Srivasa Ramai came[^12-257]
+and, sitting here, tells of Nityananda's behaviour.
+
+**1744.** Again and again the Lord asks: "Tell [Me] what His ways are."
+Before the Lord, Ramai Pandita tells something.
+
+**1745.** Late in the night Nityananda, with a loud roar,
+broke His staff and His waterpot.
+
+**1746.** Hearing this, Lord Vishvambhara, smiling slightly,
+went to the house of Srivasa by this path.
+
+**1747.** O Srinivasa, of [the Lord's] amusements in His own house —
+what can I tell of them all? I have but one mouth.
+
+**1748.** One day here Lord Gaura-raya
+sits among the devotees, overwhelmed with prema.
+
+**1749.** Saying something, [He] sent Sri Rama Pandita to Shantipura
+to bring Sri Advaita Acharya.
+
+**1750.** How Advaita came to live in Shantipura —
+listen, Srinivasa, I shall tell you.
+
+**1751.** Advaita's father, grandfather and other [forebears] were renowned;
+they lived in Vanga, and earlier they used to visit Shantipura.
+
+**1752.** In the land of Vanga, near Shrihatta, is Navagrama,
+the dear abode of Advaitachandra, worshipped by all.
+
+**1753.** There lived the brahmana, the venerable Sri Kuvera;
+"Mishra", "Panditacharya" — so he was renowned.
+
+**1754.** He was the father of Advaita; his conduct was pure;
+worthy in every respect, he was known everywhere.
+
+**1755.** *Thus [it is said] in the Gaura-ganoddesha-dipika:*
+*Kuvera, lord of the guhyakas, who was the friend of Mahadeva,
+is now Kuvera Pandita, His father, the best of the wise.*
+
+**1756.** The wife of Sri Kuvera Mishra, Nabha by name,
+utterly devoted to her husband, is the mother of Advaita.
+
+**1757.** The desire [for] a son both of them had long had;
+it was fulfilled in their old age, in Navagrama.
+
+**1758.** In Navagrama Sri Advaitachandra was born;
+at the moment of His birth great bliss pervaded the world.
+
+**1759.** *In a song (raga Maura):*
+In [the month of] Magha, on the bright lunar day, on the seventh —
+the great ocean of bliss surges up.
+Blessing the womb of Nabha, there descended
+at an auspicious moment the moon Advaita.
+
+**1760.** Kuvera Pandita, overjoyed,
+gave many gifts to brahmanas and to the poor.
+Going into the birth-chamber, slowly, slowly,
+he sees his son's face — and his heart is soothed.
+
+**1761.** The residents of Navagrama come running
+and say to one another: "We have never seen the like!
+By what fruit of piety has Mishra in his old age
+obtained such a jewel of a son?"
+
+**1762.** The gods shower flowers —
+unseen, in an incomparable way.
+Cries of "Jaya, jaya!" filled the earth;
+Ghanashyama proclaims: great auspiciousness!
+
+**1763.** *Again, raga Bhupali:*
+The seventh [day] of Magha, the bright fortnight,
+an auspicious moment, auspicious instants in abundance.
+Becoming manifest, the Lord, the beautiful Advaita,
+drove away the intoxication of [the age of] Kali.
+
+**1764.** All the people rushed and entered
+into the house of Kuvera.
+With great thrills of joy, gazing at the child,
+they cry: "Jaya, jaya!"
+
+**1765.** Throngs of bards proclaim [His] fame,
+the skilled sing, intoxicated with joy.
+Throngs of accomplished musicians play
+instruments of many, many kinds.
+
+**1766.** The dancers dance, the dance syllables ring out:
+"thaita taka taka thona".
+[Says] Narahari Dasa: the festivity of the Lord's birth —
+who could describe it?[^12-258]
+
+**1767.** O Srinivasa, at the birth of Advaita
+[all] loudly utter the names "Sri Krishna", "Govinda".[^12-259]
+
+**1768.** The childhood pastimes of Advaita are true nectar;
+they gave everyone joy at every moment.
+
+**1769.** Sri Kuvera and Nabha, in order to live by the Ganga,
+came to Shantipura from Navagrama.
+
+**1770.** Kuvera Pandita and Nabha Devi, taking their son,
+live in Shantipura, filled with great joy.
+
+**1771.** Having had their son study many shastras,
+after some time both of them disappeared.
+
+**1772.** Lord Advaita, when His mother and father had disappeared,
+on the pretext of [going to] Gaya set out to travel to all the holy places.[^12-260]
+
+**1773.** Worshipping Krishna in Vrindavana for some time,
+[He] came to know the time of [His] appearance in Navadvipa.
+
+**1774.** Setting out from Vrindavana, the Lord
+came to Gauda and travelled through Gauda and Vanga.
+
+**1775.** By way of Navadvipa [He] came to Shantipura;
+seeing [Him], the residents of Shantipura rejoiced at heart.
+
+**1776.** Beforehand they had made [Him] a wonderful dwelling;
+all engaged themselves in the service of Advaita.
+
+**1777.** The teacher of all the shastras, Advaita Acharya —
+who can understand His extraordinary deeds?[^12-261]
+
+**1778.** To get Sri Advaita Acharya married,
+distinguished people made good efforts.
+
+**1779.** Everyone made preparations for the wedding;
+this the Lord, the son of Kuvera, came to know.
+
+**1780.** Advaita came to wish to marry;
+smiling softly, softly, [He] gave everyone His consent.
+
+**1781.** All, greatly delighted, went to their homes
+and informed the best of brahmanas, Nrisimha Bhaduri.[^12-262]
+
+**1782.** The fortunate brahmana Nrisimha had two daughters,
+fit for marriage, greatly blessed, blessed in beauty.[^12-263]
+
+**1783.** Nrisimha Bhaduri, with great joy in his heart,
+gave his two daughters in marriage to Advaita.
+
+**1784.** There was no end to the happiness at Advaita's wedding;
+all who were fortunate spent much wealth.
+
+**1785.** The Acharya's two wives are worshipped by the world;
+everywhere renowned are the names Shri and Sita.[^12-264]
+
+**1786.** *Thus [it is said] in the Sri Gaura-ganoddesha-dipika:*
+*The goddess Yogamaya is now His wife,*
+*descended in the form of Sita; and as her expansion — [the one] named Shri.*
+
+**1787.** Both of Advaita's wives know all truths;
+what can I say of their deeds?
+
+**1788.** Thus Sri Advaita Raya lives in Shantipura;
+[also] He made Himself a dwelling in Nadia.
+
+**1789.** For the most part Advaita stays in the house of Srivasa;
+tasting the rasa of Krishna, He takes no notice of day or night.
+
+**1790.** Sometimes He lives in Shantipura, sometimes in Nadia;
+without Krishna He passed His days in anxiety.
+
+**1791.** He always worships Krishna in countless ways;
+by Advaita's roar Krishna became manifest.[^12-265]
+
+**1792.** He sees the wondrous pastimes of the Lord in Nadia;
+He does not reveal them to all, [but] makes them known by hints.
+
+**1793.** Having made the Lord manifest and worshipped [Him] with jubilation in His heart,
+He went to Shantipura, cherishing many hopes.
+
+**1794.** Sri Rama Pandita, going at the Lord's command,
+told Him what the Lord had said.
+
+**1795.** Sri Advaita, overwhelmed in the rapture of prema,
+speaks such words as cannot be told.
+
+**1796.** Great bliss surged in Advaita's house;
+Sita-devi prepared everything needed for the worship of the Lord.
+
+**1797.** Advaita's delight cannot be put into words;
+with His household Advaita comes to Nadia.
+
+**1798.** Knowing that Advaita was coming, Lord Gaurahari
+went quickly by this road to the house of Srivasa.
+
+**1799.** Together with the assembly of devotees, Sri Gauranga-sundara
+is ceaselessly absorbed in sankirtana in [His] own house.[^12-266]
+
+**1800.** Here, in the bliss of sankirtana, [He] cannot remain composed;
+the Lord weeps, calling out, "Pundarika Vidyanidhi!"[^12-267]
+
+**1801.** Now calling [him] father, now friend, He weeps;
+Pundarika Vidyanidhi is exceedingly dear [to Him].
+
+**1802.** Excellent in every respect, he lived in the land of Vanga,
+in a village named Chakrashala, near Chatigrama.[^12-268]
+
+**1803.** From time to time he stayed in Sri Navadvipa as well;
+in Navadvipa he had a wonderful house.
+
+**1804.** He is a great Vaishnava; who is able to recognize him?
+Seeing him, everyone takes him for a worldly man.
+
+**1805.** O Srinivasa, when Gaurachandra with His own mouth
+speaks of his character, He floats in great happiness.
+
+**1806.** Drawn by the Lord, he came to Nadia;
+coming at night, he met the Lord here.
+
+**1807.** Seeing the Lord, he fainted from bliss;
+regaining consciousness, he is awash in the tears of [his] eyes.
+
+**1808.** How he laments, what humility he shows!
+Seeing that state of his, all are awash in tears.
+
+**1809.** What the Lord became, holding Vidyanidhi Gosani to His chest —
+that I cannot describe.
+
+**1810.** The Lord, filled with joy, says to all:
+"I have gazed my fill upon Premanidhi, the treasure of prema!"[^12-269]
+
+**1811.** Saying many such things, the Lord Sri Gaurasundara
+sprinkles Vidyanidhi's body with the tears of [His] eyes.
+
+**1812.** Vidyanidhi is ceaselessly overwhelmed by prema;
+by the Lord's will, his external consciousness returned.
+
+**1813.** Then, recognizing the Lord as his own, he bowed [to Him]
+and offered obeisances to Sri Advaita Acharya.[^12-270]
+
+**1814.** He met with the devotees as befitted [each];
+the devotees attained supreme bliss.
+
+**1815.** In a single moment such prema-bhakti appeared
+as cannot be put into words.
+
+**1816.** Vidyanidhi, in great bliss, took his leave
+and went by this road to his own lodging.
+
+**1817.** O Srinivasa, one day Mother Shachi
+told her son here a dream she had seen.[^12-271]
+
+**1818.** Looking at her son, Ai speaks in a rush of tenderness:
+"Listen, my child, to what I saw in a dream at the end of the night.
+
+**1819.** You and Nityananda, quarrelling,
+went into the Vishnu shrine, having become five years old.
+
+**1820.** Inside the room I saw four persons:
+You, Nityananda, Krishna and the son of Rohini.
+
+**1821.** There Nityananda placed [His] hand in Krishna's hand,
+and You placed [Your] hand in Balarama's hand.
+
+**1822.** Thus, coming out of the room, you four
+quarrelled so much before my eyes!
+
+**1823.** Snatching various foods from one another, you ate;
+Nityananda, calling 'Mother!', came up to me.
+
+**1824.** He says to me, 'I am hungry, give me rice, Mother!'
+Hearing these words, I woke from my sleep.
+
+**1825.** Waking, I saw it was the hour of dawn.
+I understand nothing — how much is going on in my mind!"
+
+**1826.** Hearing [this], the Lord in great bliss gently smiles;
+having said much to His mother, He speaks again in a soft voice:
+
+**1827.** "Today feed Nityananda here."
+Hearing [this], the mother's heart rejoiced greatly.
+
+**1828.** Shachi quickly prepared everything for the meal;
+the Lord in great bliss brought Nityananda.
+
+**1829.** Coming to this very place, the two of Them sat down;
+here sit Gadadhara and the other intimates.
+
+**1830.** O Srinivasa, seeing that wondrous beauty,
+I quickly gave water to wash [Their] feet.
+
+**1831.** The two of Them eat, sitting right here;
+Mother Shachi beholds the forms — dark and white.[^12-272]
+
+**1832.** Glancing but once at the wondrous beauty of the two,
+Ai, overwhelmed by prema, cannot stay steady.
+
+**1833.** What the transformation of prema in Sri Shachi-devi was like,
+and what the meal of the two was like — I do not know how to tell.
+
+**1834.** Having eaten, the two of Them sat here;
+I quickly cleaned the place.
+
+**1835.** Joyfully I gathered all the remnants from the leaf-plates;
+remembering all that, [my] heart grows distraught.
+
+**1836.** Gaurachandra, taking Nityananda with His associates,
+was here supremely overwhelmed in sankirtana.
+
+**1837.** Here Vishvambhara reveals Himself:
+He becomes Matsya, Kurma, Varaha, Vamana and others.
+
+**1838.** In whatever mood the Lord reveals Himself,
+only the servants dear to the Lord see it then.
+
+**1839.** A singer [of songs about] Shiva came here;
+he sings songs of Shiva, dances and plays the damaru.[^12-273]
+
+**1840.** In the mood of Mahesha the Lord cannot keep His composure;
+saying, "I am that very Mahesha!", He climbs onto his shoulders.
+
+**1841.** *Thus [it is said] in a song (raga Malavashri):*
+Today, hearing of the deeds of Shankara, the son of Shachi became Shankara.
+Surpassing the silver mountain, [His] radiance shimmers; He has stolen the composure of the world.
+
+**1842.** Adorned with ashes, by the graceful curves of His limbs He takes away the weight of Ananga's pride.
+Holding [the horn] in His lovely hand, He blows the horn; the sound of the damaru is enchanting.
+
+**1843.** Tremulous and charming are the corners of [His] three eyes; [His] face shines, [like] the moon.
+The round cheeks are spotless and softest; on the forehead, a curved pair of brows.
+
+**1844.** Great serpents are [His] ornaments and garments; the hide is dazzlingly bright.[^12-274]
+On His head, a lovely mass of matted locks; seeing [this], Narahari is beside himself.
+
+**1845.** The Lord withdrew His absorption in the mood of Mahesha
+and came down from the shoulders of that fortunate one.
+
+**1846.** Thus the merciful Lord gave him such alms
+that he would never again have to beg for alms.
+
+**1847.** Here the Lord in bliss, taking [His] dear ones,
+made it a fixed rule [to hold] sankirtana at night.
+
+**1848.** Sometimes in some place He enjoys the pastimes of kirtana;
+there is no counting the associates who [are] with Him.
+
+**1849.** *Thus [it is said] in the Sri Chaitanya-bhagavata:*[^12-275]
+"In the house of Srivasa there is kirtana every night;
+on some days it is in the house of Chandrashekhara.
+
+**1850.** Nityananda, Gadadhara, Advaita, Srivasa,
+Vidyanidhi, Murari, Hiranya, Haridasa,
+
+**1851.** Gangadasa, Vanamali, Vijaya, Nandana,
+Jagadananda, Buddhimanta Khan, Narayana,
+
+**1852.** Kashishvara, Vasudeva, Rama, Garudai,
+Govinda, Govindananda — all are there.
+
+**1853.** Gopinatha, Jagadisha, Shriman, Shridhara,
+Sadashiva, Vakreshvara, Bhugarbha, Shuklambara,
+
+**1854.** Brahmananda, Purushottama, Sanjaya and all the rest —
+countless are Chaitanya's servants; how many names shall I give?"
+
+**1855.** One day, with all of them, in this courtyard
+He was overwhelmed in sankirtana day and night.
+
+**1856.** Gaurahari performs a dance rare even for the gods;
+all gaze their fill at the beauty of His fine attire.
+
+**1857.** *Thus [it is said] in a song (raga Shri):*
+Surpassing the champaka flower, gold, fresh kunkuma and a mass of lightning, bright is [His] hue.
+Dazzling, [like] a snare of Manmatha, is the moon-face; on the sweet lips, the faintest smile.
+
+**1858.** Glory, glory to Gaura, whose dancing delights the people —
+the mighty breaker of the pride of the Kali age and of worldly existence! (Refrain.)[^12-276]
+
+**1859.** [His] body is covered with lovely clusters of gooseflesh; overcome [by feeling], [He] trembles ceaselessly, never still.
+His speech falters, [He] is helpless night and day; from His lotus eyes tears stream and stream.
+
+**1860.** Incomparable and beautiful are the deeds of the Merciful One; the pure fame of the Friend of the fallen has spread far and wide.
+Ghanashyama says: what fortune! To distribute rasa abundantly, [He took] this charming incarnation.[^12-277]
+
+**1861.** *Again, raga Karnata:*
+The Enchanter of the minds of the worlds dances; [His] hue surpasses champaka, gold and the lotus.
+[His] body is slender and soft, anointed with sandal; [He] is clad in garments of dense radiance.[^12-278]
+
+**1862.** The sweet face puts to shame a host of moons; [He] smiles sweetly — as if nectar were trickling.
+The pair of brows — a row of bees; the eyes shine, brimming, taking away the fullness of the dawn's rays.
+
+**1863.** The jewelled necklace sways, stealing composure; the trembling earrings sparkle in the ears.
+The curling locks, under the weight of graceful movements, dishevelled, toss — like strands of darkness in the wind.
+
+**1864.** Graceful are the gestures, [moving] hands [tender as] young leaves; placing His feet on the earth, [He] keeps hundreds of talas.
+Narahari, in supreme delight, sings [His] glory: who could describe [this] boundless beauty?
+
+**1865.** *Again, raga Soma:*
+Gaura dances, rapt in the former rasa.[^12-279]
+[His] body, shattering the pride of the golden mountain, glitters — the thief of the heart of the Bodiless One. (Refrain.)
+
+**1866.** [He] smiles softly, softly; the beauty of the moon-face destroys the dense darkness of sin.
+As [He] keeps the tala, [under] the restless lotus feet the earth trembles — it cannot bear the weight.
+
+**1867.** The two eyes, [like] the young dawn, are brimming; dense, abundant clusters of gooseflesh adorn [Him].
+[He] roars again and again, surpassing a lion in might; the mighty age of Kali flees in great fear.
+
+**1868.** Piercing the sky, the dear associates sing; the khol and the charming karatalas sound.
+All the people are maddened, says Narahari; the pure, boundless fame has filled the world.
+
+**1869.** *Again, raga Amra-panchaka:*[^12-280]
+[His] hue surpasses the matchless radiance of gold;
+[His] feet frolic in the delight of music.[^12-281]
+
+**1870.** Gaurachandra dances, the jewel of virtues;
+on all sides resounds, resounds, resounds: "Hari, Hari!" (Refrain.)
+
+**1871.** A face more beautiful than the autumn moon;
+day and night springs of prema stream from the eyes.
+
+**1872.** The body is filled with abundant gooseflesh;
+floating in His own rasa, [He] finds no bottom.
+
+**1873.** The world is filled to the brim with such bliss;
+of this glory [only] Govindadasa is deprived.
+
+**1874.** O Srinivasa, the moods the Lord displayed in His own home —
+who is able to describe them?
+
+**1875.** Here Ai, in great self-forgetfulness,
+was bathed in tears during the sankirtana.
+
+**1876.** Together with His dear ones the Lord, coming to outer consciousness,
+went by this path to Srivasa's house.
+
+**1877.** Having stayed in Srivasa's house, absorbed in sankirtana,
+the Lord came here at the end of the night and sat down.
+
+**1878.** Seeing the supremely wondrous beauty, filling [my] eyes [with it],
+whatever command He gave, I carried it out quickly.
+
+**1879.** Who can understand Gaura's deep nature?
+Without sankirtana He is not still for even half a moment.
+
+**1880.** In the afternoon the Lord, rejoicing in sankirtana,
+went by this path with His associates to the bank of the Ganga.
+
+**1881.** Absorbed in the bliss of sankirtana on the bank of the Ganga,
+He came home with His associates by this path.
+
+**1882.** In what mood the sankirtana [went on] here —
+that the fortunate ones who were here beheld.
+
+**1883.** The beauty of Sri Gaurachandra enchants the world;
+with supreme, wondrous gaiety He dances.
+
+**1884.** *Thus [it is said] in a song (raga Dhanashri):*
+In merry rapture dances Shachi's darling, my own;
+sandal on all His limbs, the garland of forest flowers swings.
+
+**1885.** On the broad chest, a necklace of elephant pearls;
+beneath His feet the tala rises with the jingling of anklets.
+
+**1886.** How many movements of the body He knows, in rhythm and out of rhythm!
+In all the town of Nadia there is no such great player.
+
+**1887.** The kinnaras take lessons, hearing [His] soft singing;
+the gandharvas, seeing [His] tandava, fall into meditation.
+
+**1888.** The lotus shrinks, seeing [His] eyes;
+when [He] smiles, flashes of lightning fall from His teeth.
+
+**1889.** The red lips, surpassing the bandhuli [flower], smile;
+seeing that form, Balarama Dasa weeps.[^12-282]
+
+**1890.** O Srinivasa, what moods the Lord displays in the rapture of kirtana —
+I do not know how to tell anything of it.
+
+**1891.** One day — what bliss arose in [His] mind! —
+He went alone by this path to Srivasa's house.
+
+**1892.** Having sported there in the mood of the "seven praharas,"[^12-283]
+Gaura-raya came back by this path to His own home.
+
+**1893.** Into this flower garden with His dear ones He came,
+beside Himself in conversation about Krishna.[^12-284]
+
+**1894.** What can I say, Srinivasa, of the happiness I saw!
+When I think of all that now, my breast is bursting.
+
+**1895.** One day in this room the Lord Vishvambhara
+sits on a wondrous seat, with joy in His heart.
+
+**1896.** Beside her own Lord of life, Devi Vishnupriya
+offers tambula; the Lord eats, smiling.
+
+**1897.** At that very moment Nityananda, in ecstatic absorption,
+came, staggering and staggering, into the Lord's dwelling.
+
+**1898.** Seeing Nitai naked, beside Himself with prema,
+Vishvambhara Himself dresses Him in cloth.
+
+**1899.** Seeing this deed, Ai smiles to herself;
+she regards Nityananda as [her] son, like Vishvarupa.
+
+**1900.** She gave Nityananda four sandeshas to eat;
+He ate the sandeshas — and there was great fun in that.
+
+**1901.** Nityananda's ecstatic mood cannot be understood;
+staying here, He talked of so many things with the Lord.
+
+**1902.** One kaupina of Sri Nityananda
+Gaurachandra, the jewel of virtues, asked [of Him] and took.
+
+**1903.** Tearing that kaupina into pieces, Gaura-raya
+gave [them] to everyone, and everyone placed [them] on their heads.
+
+**1904.** Sri Gaurasundara, beside Himself with prema,
+made everyone drink the water that had washed Nityananda's feet.
+
+**1905.** What rapture of prema [there was] in wearing the kaupina and drinking that water —
+who knows how to tell?
+
+**1906.** The ocean of the happiness of sankirtana surged;
+together with His associates the Lord was beside Himself in the dance.
+
+**1907.** *Thus [it is said] in a song (raga Deshapala):*
+Gaurachandra dances, who delights the people, and Nityananda, who breaks the fear of calamity;
+the lotus eyes surpass ever-new khanjana birds, the glance takes away Manmatha's pride.
+Both bodies glitter, [like] golden mountains; making the dance, [They] place Their feet upon the earth;
+the faces, joined with smiles, shine [like] the moon; when [They] speak, it is as if nectar flows.
+
+**1908.** The beauty is matchless — words cannot tell it;[^12-285] the associates surrounding [Them] sing of [Their] virtues;
+sweetly, sweetly, softly the mardala sounds: "dha dha dhigi dhigi dhikata dhilanga."
+The gods with their hosts, risen to the paths of the sky, again and again shower [Them] with the best of luscious flowers;
+the cry "Jaya, jaya, jaya!" pervades the world; what shall Narahari say of the waves of prema?
+
+**1909.** *Again, raga Kamoda:*
+Today — what bliss in the sankirtana!
+Gaura and Nityananda dance, the root of supreme bliss,
+with the host of Their dear associates.
+
+**1910.** They dance, crying, "Well done, well done!"; the khol and karatalas sound;
+all are beside themselves with prema.
+Like the current of a river, streams [flow] from everyone's eyes;
+some fall upon someone else.
+
+**1911.** Someone, in a surge of gooseflesh, roars and thunders;
+someone trembles, unable to stand still.
+Someone looks at another and, spreading both arms,
+embraces [him] — and cannot let go.
+
+**1912.** Someone grasps another's feet, puts the dust of [his] feet on his head;
+someone rolls on the ground.
+Lord and servants have one way; seeing [this], Narahari
+in great joy sings the Lord's virtues.
+
+**1913.** Whatever mood came over the Lord amid the gathered devotees,
+such pastimes He then performed with delight.
+
+**1914.** One day the Lord, sitting alone on a divine seat,
+looks in all four directions with compassionate eyes.
+
+**1915.** To His dear Nityananda and Haridasa He says, "Go,
+make known everywhere the command to worship Sri Krishna."
+
+**1916.** Taking the Lord's command, both went by this path;
+how great was their joy — who can tell?
+
+**1917.** Having proclaimed it everywhere, they informed the Lord;
+together with everyone the Lord delivered the robbers.
+
+**1918.** Surrounded by His own, the Lord sat right here;
+the two robbers, Jagai and Madhai, offered [Him] praise.[^12-286]
+
+**1919.** To see the two, Jagai and Madhai,
+Ai, together with Vishnupriya, sits in this room.
+
+**1920.** O Srinivasa, here Gaurachandra, with everyone,
+dances, beside Himself, in sankirtana.
+
+**1921.** *Thus [it is said] in a song (raga Dhanashri):*
+Shachi's darling dances merrily
+together with Advaita, Nitai, Gadadhara, Srivasa and the other associates.
+
+**1922.** The movements of His body — in what sweet a manner!
+Under the weight of [His] feet the earth sways —
+who can keep composure at that?
+
+**1923.** Clapping their hands in various talas,
+Govinda, Madhava and Vasu sing [His] glory,[^12-287]
+shining beautifully on all sides.
+
+**1924.** Gorachand [calls] with His lips, "Hari bol!"
+Seeing Jagai and Madhai, He spreads His arms
+and clasps them both in His embrace.
+
+**1925.** Receiving Gorachand's touch,
+Jagai and Madhai dance with arms raised,
+beside themselves with emotion.
+
+**1926.** Both roll on the ground;
+their bodies tremble, covered with matchless gooseflesh;
+[they] are drenched with tears from their eyes.
+
+**1927.** Seeing the manifestation of Gora's mercy,
+the gods dance, remaining in the sky,
+again and again refreshing their eyes.
+
+**1928.** Who would not run, hoping for that mercy?
+The cry "Jaya, jaya!" filled the earth,
+says Ghanashyama Dasa.
+
+**1929.** Seeing the Lord's dance, all were enchanted;
+Ai, together with her daughter-in-law, seeing [it], rejoiced.
+
+**1930.** Absorbed in sankirtana, the Lord, taking His associates,
+sported in the water of the Ganga and came home.
+
+**1931.** Washing His feet and bowing to Tulasi,
+He eats rice, Vishnu's prasada, sitting in this room.
+
+**1932.** Having finished eating and the rest, He lay down here;
+unseen, the gods came and served [Him].
+
+**1933.** Who could understand this lila of the Lord?
+All that I saw rises ever in my mind.
+
+**1934.** One day the Lord went to Srivasa's house;
+having shown mercy to his mother-in-law, He came home.[^12-288]
+
+**1935.** One day the Lord with His associates, by this path,
+absorbed in sankirtana, sets out to wander through the town.
+
+**1936.** Having wandered through the town, the Lord, with joy in His heart,
+comes home with His associates and sits here.
+
+**1937.** Who can understand [His] deeds? The Lord says to everyone,
+"Devoid of prema, [this] body I shall abandon here."[^12-289]
+
+**1938.** Saying this, He leaps into the Ganga;
+Nityananda and Haridasa pull [Him] out and bring [Him] back.
+
+**1939.** What wonder there is in this — who is able to tell?
+The Lord ever sports in the happiness of sankirtana.
+
+**1940.** See here: at a lovely spot near the house
+He became supremely beside Himself in sankirtana.
+
+**1941.** *Thus [it is said] in a song (raga Vangala):*
+Gaurachandra dances, the abode of virtues.
+The radiance of [His] limbs, delighting the mind, flashes, leaving far behind the golden Meru and a garland of lightning.[^12-290] (Refrain.)
+
+**1942.** The lovely face crushes the pride of Madana; the sweet smile steals the composure of young women.
+In the ears, earrings of rubies surpassing the young dawn; restless is the pair of eyes — great [is their] beauty.[^12-291]
+
+**1943.** The curling, glossy hair is adorned with flowers; on the beautiful chest a garland sways, gleaming.
+The youthful arms are matchless in a wealth of graceful movements; beneath His feet [He] keeps a charming tala.
+
+**1944.** The Lord moves along; at His side shine His dear associates,
+singing sweet ragas, intoxicated with rasa.
+The whole world rejoices, says Narahari;
+they play khols and khamaks in many ways.
+
+**1945.** *Again, raga Velavali:*
+Gaurachandra, king of dancers, dances —
+a form that crushes the heavy pride of a hundred thousand Manmathas
+and delights the people of all the worlds. (Refrain.)
+
+**1946.** Ceaselessly, overflowing with incomparable feelings,
+He gives thunderous cries, wondrously captivating.
+He sets His auspicious feet upon the earth
+and strikes graceful poses, stretching out both arms.
+
+**1947.** He smiles sweetly; His lips are a soft loveliness;
+the play of His face surpasses the autumn moon.
+His reddish lotus-petal eyes tremble —
+who [can tell] how many rasas they reveal!
+
+**1948.** The devotees sweetly sing ever new [songs],
+crushing the pride of hosts of Kinnaras.
+The ocean of prema surged up and flooded the earth —
+but Narahari, wicked of mind, stays far from its touch.
+
+**1949.** Absorbed in sankirtana, here the son of Shachi
+called Sadashiva and Buddhimanta Khan and said:
+
+**1950.** "Today, going to the house of Chandrashekhara Acharya,
+I will dance with everyone in the costumes of Lakshmi and others.[^12-292]
+
+**1951.** Conch-shell bangles, saris, bodices, gold and other ornaments —
+prepare a fitting costume for each."
+
+**1952.** Saying this, Gaurachandra with His dear [associates]
+went along this road to Chandrashekhara's house.
+
+**1953.** Having danced there in various costumes, Vishvambhara
+came here and sat, surrounded by His associates.
+
+**1954.** Who can understand the play of Sri Gaurachandra?
+With the devotees He sports in various ways.
+
+**1955.** Gaura-raya shows Advaita reverence as to a guru;
+at this Advaita Acharya feels great sorrow.[^12-293]
+
+**1956.** Advaita thought, "I will do such a thing
+that the Lord will punish me, seizing me by the hair."
+
+**1957.** Having resolved this, taking Haridasa with Him,
+on some pretext He took leave and playfully set off.
+
+**1958.** To rouse the Lord's anger He devised a means:
+He began expounding, "Not bhakti but jnana is supreme."
+
+**1959.** Sitting in His own home on a splendid seat,
+with great pride He explains to all that jnana is supreme.
+
+**1960.** Hearing Advaita Acharya's exposition, everyone
+said much to one another, keeping apart.
+
+**1961.** Sita-devi says to Shri Thakurani,[^12-294]
+"I do not understand what play He is revealing now.
+
+**1962.** The Lord will surely come here."
+Saying this, she prepares all that is needed.
+
+**1963.** Gaurachandra, the Indwelling Lord, knows everything;
+sitting here, He smiles softly, softly.
+
+**1964.** To fulfil Advaita's intention,
+on the pretext of touring the town He sets out for Shantipura.
+
+**1965.** With Him is Nityananda; wondrous is the gait of the Two.
+Seeing that sweetness, who has the strength to keep composure?
+
+**1966.** Bestowing mercy on the sannyasi at Lalitapura,[^12-295]
+the Two quickly went by way of the Ganga to Shantipura.
+
+**1967.** Advaita Acharya, learning of the Lord's coming,
+extols jnana as supreme, all the more intoxicated.
+
+**1968.** The Lord went to Advaita's home;
+Achyutananda and others worship the Lord's feet.
+
+**1969.** Casting an auspicious glance on all, Gaurachandra
+went before Advaita together with Nityananda.
+
+**1970.** In anger the Lord asks Advaita Acharya,
+"Tell Me: of jnana and bhakti, which is higher?"
+
+**1971.** "Jnana is highest of all," said Advaita.
+Hearing this, the Lord in great anger lost outward awareness.
+
+**1972.** The mighty Lord Sri Gaurasundara
+with a single leap swiftly mounts the seat.
+
+**1973.** Seizing Advaita by the hair, He throws [Him] down into the courtyard
+and pummels Advaita with both His most tender hands.
+
+**1974.** Sita, knower of all truths, mother of the universe,
+in great agitation speaks gentle words.
+
+**1975.** Haridasa stands to one side in fear;
+Nityananda, amused, laughs very softly.
+
+**1976.** Roaring in anger, the Lord revealed [His] majesty;
+having received punishment, Advaita's bliss increased.
+
+**1977.** Clapping His hands, Sri Advaita Raya dances
+and places the dust of the Lord's feet on His head.
+
+**1978.** Advaita said much; hearing it, Gaurahari
+weeps, clasping Advaita in His arms.
+
+**1979.** Nityananda and Haridasa weep;
+Advaita, Sita and the other dear ones weep.
+
+**1980.** Advaita's son Sri Achyutananda weeps;
+in Advaita's home no one can remain steady.
+
+**1981.** Advaita offered prayers, and the Lord granted a boon;
+a great cry of "Jaya, jaya!" filled the world.
+
+**1982.** In Advaita's home the Lord took His meal;
+the son of Padmavati scattered the rice.
+
+**1983.** Staying some days in Advaita's home,
+the Lord returns to Navadvipa with a greatly joyful heart.
+
+**1984.** In connection with jnana-yoga I will tell something more:
+who has the power to understand Advaita's heart?
+
+**1985.** A branch of Advaita Acharya, Shankara by name —[^12-296]
+his faith became firmly fixed on the side of jnana.
+
+**1986.** Advaita says to Shankara again and again,
+"I acted in this way to fulfil My desire.
+
+**1987.** Give it up, give it up, you madman! You are ruined."
+He did not give it up, and Advaita rejected him.
+
+**1988.** He sowed the seed of great averseness [to the Lord];
+the wise knew that it would gradually grow.
+
+**1989.** Nityananda, Advaita and Haridasa, together with the Lord,
+came joyfully from Shantipura to Nadia.
+
+**1990.** Coming to His own home, the Lord sat here;
+people run from all sides to see the Lord.
+
+**1991.** Srivasa, Mukunda, Vakreshvara and all the others
+became frenzied in sankirtana.
+
+**1992.** The Lord floats in the ocean of the joy of sankirtana;
+along this road He went to Srivasa's dwelling.
+
+**1993.** Revealing joy in Srivasa's house, [then] coming [out],
+He went along this road to Murari's house.
+
+**1994.** Coming from there, Vishvambhara sits here;
+on all sides all His associates shine.
+
+**1995.** In a wondrous manner the Lord tells His dear [associates],
+"Mother has committed an offence against Advaita.[^12-297]
+
+**1996.** If she places the dust of His feet on her head,
+then her offence against Him will be removed."
+
+**1997.** Saying this, He reveals [the path of] bhakti-yoga.
+Listen, Srinivasa, to what Ai's offence was.
+
+**1998.** Vishvarupa always sat in Advaita's assembly;
+he took sannyasa of his own will.
+
+**1999.** Distraught at separation from her son, Ai,
+here, weeping and weeping, reflects in her mind:
+
+**2000.** "Advaita Gosani has not a trace of mercy in His heart:
+He drove Vishvarupa out of the house.
+
+**2001.** Even this son the Acharya does not let stay settled [at home] —
+being so very wise, He does such a thing!
+
+**2002.** Acharya Gosani has taken my two sons!"
+As soon as she thought this, fear arose [in her].
+
+**2003.** This was the only offence Ai committed.
+Hearing of it, Advaita came to this place.
+
+**2004.** Speaking of the boundless glory of Mother Sri Shachi,
+the son of Kuvera fainted in prema.
+
+**2005.** Seizing the moment, Ai came right here
+and placed the dust of Advaita's feet on her head.
+
+**2006.** Gaurachandra Bhagavan became joyful:
+by the example of His mother He made others take care.
+
+**2007.** The giver of the jewel of prema-bhakti, the son of Shachi,
+ceaselessly delights in the bliss of sankirtana.
+
+**2008.** Absorbed in sankirtana, unaware of Himself, the Lord
+went along this road on a tour of the town.
+
+**2009.** Displaying great play on the tour of the town,
+the Lord with His companions sits here, joyful.
+
+**2010.** The pastimes of Vraja always surge in [His] heart;
+Mukunda and others sing of them in the sweetest voices.
+
+**2011.** The Lord has a great longing to hear of His own qualities;
+who can understand [His] charming, unfathomable deeds?
+
+**2012.** At the Lord's hint, Gadadhara here
+creates the Lord's attire with ornaments of flowers.
+
+**2013.** Dasa Gadadhara and Narahari, dear to the Lord,[^12-298]
+supply all the materials for the attire, having prepared them.
+
+**2014.** [Gadadhara] created for the Lord a world-enchanting attire;
+whoever looks even once loses all composure.
+
+**2015.** The beauty of the attire has no comparison;
+millions of Kamas faint at the radiance of [His] limbs.
+
+**2016.** What became of the Lord's dear [associates]
+as they gazed at [His] moon-like face — who knows how to tell?
+
+**2017.** Overcome with bhava, all offer themselves [to Him];[^12-299]
+they perform arati; there is no end to the joy and splendour.
+
+**2018.** *Thus [it is said] in a song (raga Gauri):*
+Glory, glory to the arati of young Gaura!
+He shines on the throne like a golden mountain —
+the radiant thief of the hearts of the young women of the world. (Refrain.)
+
+**2019.** Sri Advaita, overflowing with prema, performs arati,
+gazing at His own Lord.
+On a golden plate studded with jewels
+flicker the lamps that dispel the darkness of sins.
+
+**2020.** On the right, wondrous in splendour and manner,
+is Nityanandachandra, immersed in rasa;
+on the left, Gadadhara, full of grace;
+someone there holds a new, shining umbrella.
+
+**2021.** The excellent Srinivasa showers [Him] with garlands of flowers;[^12-300]
+Narahari waves the chamara whisk without pause;
+the excellent Shuklambara anoints [Him] with sandal paste;
+Murari Gupta cries out, "Jaya!"
+
+**2022.** Madhava, Vasu Ghosha, Purushottama,[^12-301]
+Vijaya, Mukunda and other kings among the skilled
+sing sweetly, [displaying] ragas, shrutis, murchhanas,
+gramas, the seven svaras and their incomparable varieties.
+
+**2023.** Murajas, mridangas, changas and dhakkas sound;[^12-302]
+vinas, nishanas and flutes — to every end;
+again and again the bells; the jhanjharis clash;
+"jhan-na-na" the cymbals roar, deep and terrible.
+
+**2024.** Vakreshvara dances in supreme delight;
+full of rasa is his splendour, his movement that of a skilled dancer.
+He calls out [the syllables]: "dhikata, dhidhi kata,
+taka thai thai thai ti" — in many varied ways.
+
+**2025.** Overwhelmed by the former rasa are the rasika Gadadhara,
+Shridhara, Gauridasa, Haridasa.[^12-303]
+Who can describe it all? The devotees are utterly intoxicated,
+beholding the sweet smile on Gaura's face.
+
+**2026.** The hosts of the gods in the sky are immersed [in bliss]; together with his retinue
+the lord of the gods with great effort humbly entreats.
+The Lord of Parvati and the Four-faced thrill with rapture;
+in streams, in streams, torrents of tears flow from [their] eyes.[^12-304]
+
+**2027.** The three worlds rejoice, Shesha sings the glory,
+the sages offer praises, uttering new names.
+Narahari's Lord, the ornament of Vraja, full of rasa,
+bestows supreme bliss on the town of Nadia.
+
+**2028.** Beholding the supremely auspicious arati,
+all were overwhelmed and forgot themselves.
+
+**2029.** Bringing various foods, [the devotees] feed the Lord;
+at the Lord's command all eat with delight.
+
+**2030.** Seeing that the night was far advanced, everyone
+lay down to sleep, each in his own place.
+
+**2031.** Knowing that Gaurachandra would lie down, Gadadhara
+prepared a very soft, charming bed.
+
+**2032.** The Lord goes to lie down, full of joy,
+adorned with garlands and sandal prepared by Gadai.
+
+**2033.** In this room Vishvambhara lay down;
+near [Him] lay Gadadhara Pandita.
+
+**2034.** Drinking the nectar of each other's words, both were absorbed [in it].
+Who can understand the lila of Gaura and Gadadhara?
+
+**2035.** Waking at dawn, Gadadhara, with joy in his heart,
+does what the wise describe.
+
+**2036.** *Thus [it is said] in the Sri Chaitanya-charita, in the second prakrama:*
+*Gadadhara, greatly wise, a brahmana born of a noble family*
+*and a devotee full of prema, abides near His feet.*
+
+**2037.** *Staying with him at night, He spoke auspicious words:*
+*"In the morning you should give the prasada to the Vaishnavas."*
+
+**2038.** *Having said this, Hari gave into his hand the garlands from His body.*
+*Then, in the clear morning, they all came.*
+
+**2039.** *Whatever had been given for each one, that he gave to him.*
+*Then they, joyful at heart, having bathed in the waters of the river of the gods,*
+
+**2040.** *having worshipped Jagannatha and offered naivedya,*
+*came again with delighted hearts to Him, the Lord of the lords of the gods.*[^12-305]
+
+**2041.** *Every day Gadadhara, having anointed Him with sandal paste,*
+*always joyfully places garlands on His body.*
+
+**2042.** *In the bedchamber, having made a bed near Him, happily*
+*he sleeps, filled with faith, listening to His nectarean words.*
+
+**2043.** *And thus also in the Sri Chaitanya-charita-mahakavya:*
+*And that Gadadhara Pandita, the best of the virtuous,*
+*always remaining closely at His side,*
+*day after day serves Him, dearer*
+*than his own life, with intense eagerness.*[^12-306]
+
+**2044.** *At night, staying near Him, steady,*
+*he eagerly lies down to sleep.*
+*The nectar of His pastimes is ceaseless,*
+*and ceaselessly it is relished by him.*
+
+**2045.** O Srinivasa, at the end of the night the Lord
+delights in supreme bliss together with the assembly of devotees.
+
+**2046.** Here, on a splendid seat, sits the Lord Gaura-raya;
+the townspeople run to see [Him].
+
+**2047.** Coming to the Lord, they bow again and again.
+The Lord says, "May all have bhakti for Krishna."
+
+**2048.** Showing boundless mercy to all, the Lord
+instructs [them] in the maha-mantra of Hari's Name:
+
+**2049.** "*Hare Krishna Hare Krishna Krishna Krishna Hare Hare*
+*Hare Rama Hare Rama Rama Rama Hare Hare.*"
+
+**2050.** Again the Lord says insistently, "Brothers,
+all of you go home and chant the Name of Hari.
+
+**2051.** By the power of the mantra every perfection will come;
+by chanting this mantra you will attain supreme bliss."
+
+**2052.** Again, holding a straw between His teeth, He says to all,
+"Perform the kirtana of Sri Krishna day and night."
+
+**2053.** Receiving such instruction from His holy mouth, all,
+bowing down, go home and chant the mantra.
+
+**2054.** At the Lord's command all, with jubilation in their hearts,
+began sankirtana in every house.
+
+**2055.** The wicked Kazi could not bear the kirtana at all;
+he forbade the kirtana; the Lord heard [of it].[^12-307]
+
+**2056.** Hearing this, Gaurahari, filled with great anger,
+proudly reveals His own true nature.
+
+**2057.** Again and again, with great fervour, He roars;
+the Lord, together with His associates, prepares for nagara-kirtana.
+
+**2058.** Everywhere the word spread: "The son of Shachi
+will today perform kirtana throughout the town."
+
+**2059.** Gaura-raya gave the townspeople this command:
+"At the hour of cow-dust, all of you come here."
+
+**2060.** The townspeople, their hearts rejoicing,
+came here in their finery — the splendour was extraordinary.
+
+**2061.** There was no end to the people, O Srinivasa;
+cries of "Jaya, jaya!" filled the earth and the sky.
+
+**2062.** Sri Gaurasundara, with great jubilation,
+first began the sankirtana here.
+
+**2063.** In attire that enchants the world Gaurachandra dances;
+on His left is Gadadhara, on His right Nityananda.
+
+**2064.** Advaita, Srivasa, Haridasa, Vakreshvara,
+Narahari, Gadadhara Dasa, Damodara,[^12-308]
+
+**2065.** Murari, Mukunda, Vasu, Govinda and all the others —
+all dance and sing; who can describe the splendour?
+
+**2066.** Here, greatly overwhelmed in sankirtana,
+Gauranga Himself divided [the singers] into sampradayas.[^12-309]
+
+**2067.** At the Lord's command the joyful Sri Advaita Raya
+goes ahead from here with one sampradaya.
+
+**2068.** At His dancing and singing no one can remain composed;
+women and children alike all cry aloud.
+
+**2069.** From here separate, separate sampradayas —
+Srivasa and the others — go, dancing and singing in great delight.
+
+**2070.** [Another] sampradaya is the Lord, the son of Shachi:
+He goes along this road, His beauty enchanting the world.
+
+**2071.** Here Ai together with her daughter-in-law
+was overwhelmed with prema, beholding that beauty.[^12-310]
+
+**2072.** The Lord Gaura-raya reveals a wondrous lila:
+He plunges everyone into the ocean of the bliss of sankirtana.
+
+**2073.** With one mouth, how can I tell that wonder?
+Having performed nagara-kirtana, the Lord came here.
+
+**2074.** Here He sits, surrounded by everyone;
+the night passed in telling of Krishna's deeds.
+
+**2075.** One day Gaurachandra, in the town of Nadia,
+went round the houses of the Vaishnavas, one after another.
+
+**2076.** First of all He went along this road,
+surrounded on all four sides by His dearest associates.
+
+**2077.** Having wandered everywhere in great joy,
+the Lord, returning home, sits right here with His associates.
+
+**2078.** O Srinivasa, one day here
+He danced in sankirtana in attire that enchants the world.
+
+**2079.** Who can understand the Lord's deeds?
+In sankirtana He shows mercy to anyone at all.
+
+**2080.** [There was] a brahmana from the land of Vanga, pure in conduct, with his son —
+a mendicant brahmana named Vanamali.
+
+**2081.** He sees Gaurachandra as dark [like Shyama] and beautiful,
+a peacock feather on His head, wearing yellow garments.
+
+**2082.** He touches the flute to His lips; seeing this, [the brahmana], beside himself,
+raised an uproar, crying, "This is Krishna! Krishna!"
+
+**2083.** What can I say of the fortunate brahmana Vanamali!
+Here [the Lord] gave [him] the priceless jewel of prema.
+
+**2084.** Here the Lord told the devotees of the glory of the Name;
+a wretched student pained [Him], [calling it] arthavada.[^12-311]
+
+**2085.** Together with His associates He bathed in the Ganga in His clothes,
+and never, even by mistake, did He look at that man's face.
+
+**2086.** One day Gaura-raya, in the bliss of sankirtana,
+playfully planted a mango seed here.
+
+**2087.** At that very moment a tree grew and began to bear fruit;
+plucking many ripe mangoes, [the Lord] offered [them] to Krishna.
+
+**2088.** Without skin or stone, equal to nectar;
+one fruit fills the stomach of one [person].
+
+**2089.** The Lord ate those fruits and fed the devotees;
+every day, all twelve months, [the tree] bears fruit — such is this wondrous lila.
+
+**2090.** One day here, during kirtana,
+great masses of clouds gathered — frightening to see.
+
+**2091.** When the Lord stood here holding the mandira cymbals,
+the clouds flew away; all rejoiced at heart.[^12-312]
+
+**2092.** To teach the people, the Lord, the independent Ishvara,
+together with His associates cleans the temple of Vishnu.
+
+**2093.** *Thus [it is said] in the Sri Krishna-chaitanya-charita, in the second prakrama:*
+*Then on another day the Lord, teaching His own [devotees] bhakti,*
+*went with the brahmanas to the temples, broom in hand,*
+
+**2094.** *carrying a spade on His shoulders and a dhati cloth at His waist,*
+*wearing a turban of neta cloth, radiant like the rising sun.*[^12-313]
+
+**2095.** *The Acharya and other great souls, spades and brooms in hand,*
+*becoming Krishna's haddipa sweepers, the gate of the temple*[^12-314]
+
+**2096.** *and its walls they cleaned together with Krishna — they who were full of virtues.*
+*Such teaching Nrihari Bhagavan, though wholly independent,*
+*out of compassion gave hundreds of thousands of times.*[^12-315]
+
+**2097.** One day here [the Lord] repeats, "Gopi, gopi."
+Someone says, "Why does Nimai not say 'Krishna'?"
+
+**2098.** Not understanding His intent, that wretched student
+said many such things; hearing them, [the Lord] became like Rudra.
+
+**2099.** Stick in hand, the Lord rushes to beat him;
+the brahmana flees, his heart in great fear.
+
+**2100.** That student, joining with other students,
+reviles the Lord — whatever comes into anyone's mind.
+
+**2101.** By reviling the Lord the students' intelligence was destroyed;
+in none of them does [even] well-studied learning manifest.
+
+**2102.** What is in the Lord's mind He does not reveal;
+together with His associates He delights in kirtana in His own house.
+
+**2103.** One day Keshava Bharati came here;
+bowing to him, [the Lord] invited [him] and gave him alms.
+
+**2104.** I do not know what passed between them;
+Bharati quickly went away to Kantaka-nagara.[^12-316]
+
+**2105.** Having gone to Srivasa's house and come back, Vishvambhara
+sits right here together with His dear Gadadhara.
+
+**2106.** Having bathed, He goes to perform the worship of Vishnu;
+His face, chest and cloth are wet with the tears of His eyes.
+
+**2107.** Gaura-raya cannot stop the streams from His eyes;
+at the Lord's command Gadadhara worships Vishnu.
+
+**2108.** The Lord is deeply immersed in the pastimes of Vraja;
+ceaselessly Gadadhara speaks of them.
+
+**2109.** Who can understand the pastimes of Gaurachandra?
+He fulfils completely the desires of all.
+
+**2110.** He gives contentment to Devi Vishnupriya;
+He acts in such a way that His mother is pleased.
+
+**2111.** O Srinivasa, in this house of the Lord
+I have shown which pastimes He performed in which places.
+
+**2112.** By beholding all these places sorrow is destroyed,
+and prema-bhakti, rare even for the gods, is attained.
+
+**2113.** Now I will show the places outside the house;
+I will tell a little of what pastimes took place where.
+
+**2114.** From His very childhood, in places outside the house,
+the Lord performed wondrous pastimes with His companions.
+
+**2115.** Having shown you all those places,
+I will come back and show you the places in this house again.
+
+**2116.** I will also tell what happened in which place;
+just now I cannot tell all of it.
+
+**2117.** Having said so much in this way, from the Lord's house
+Ishana sets out together with Srinivasa and the others.
+
+**2118.** He speaks to Srinivasa in sweet words:
+here in His childhood the Lord played with the children.
+
+**2119.** O Srinivasa, beneath this kadamba
+the naked Lord played among the crowd of boys.
+
+**2120.** Respectable people gaze at the Lord's matchless beauty;
+the Lord, His face upturned, looks closely at the tree.
+
+**2121.** He asks for kadamba flowers from anyone at all;
+everyone says, "There are no flowers now, Nimai."
+
+**2122.** Hearing this, He half began to weep — a wondrous beauty:
+in His two eyes, teardrops like pearls.
+
+**2123.** The Lord, His lovely moonlike face shining, says to everyone:
+"You will surely get a flower — look now."
+
+**2124.** A certain fortunate [man], gazing at the tree,
+sees a flower and quickly plucked it.
+
+**2125.** Placing the flower in Nimai's hand, he took Him on his lap;
+great astonishment arose in everyone's mind.
+
+**2126.** Beneath this banyan, taking her son on her lap,
+Ai worships Shashthi, offering various gifts.[^12-317]
+
+**2127.** Here stood an old neem tree:
+without fruit, [yet] the fragrance of its flowers was extraordinary.
+
+**2128.** Its shade was most dense, its beauty boundless;
+no bird ever sat upon that tree.
+
+**2129.** For as long as Vishvambhara lived at home,
+He played beneath that tree — most charming play.
+
+**2130.** The Lord gave His command to Gauridasa Pandita,
+and from that tree he manifested two Deities.[^12-318]
+
+**2131.** How the two Lords became manifest —
+that is a most wondrous story, a wondrous pastime.
+
+**2132.** Gauridasa Pandita is full of supreme prema;
+he is exceedingly dear to Nityananda and Chaitanya.
+
+**2133.** What shall I say of Nimaichand's play?
+By His own will He wanders wherever He likes.
+
+**2134.** All the mischief He makes in the houses of friends and kin —
+only Ananta has the power to tell it.[^12-319]
+
+**2135.** In this brahmana's house one day Vishvambhara
+stole milk and drank it with a fearless heart.
+
+**2136.** Seeing a pot of yogurt in a hanging sling, His joy swells;
+making a hole in the pot, He puts His mouth beneath it.
+
+**2137.** Having eaten the yogurt, He walks off slowly, slowly;
+the brahmana came and caught Nimai by His left hand.
+
+**2138.** Clasping the brahmana's feet, the Lord says again and again,
+"I won't do it again, I beg you!"
+
+**2139.** Hearing this and seeing the face dotted with drops of yogurt,
+the brahmana was overwhelmed and cannot turn his eyes away.
+
+**2140.** The brahmana says to Nimaichand again and again,
+"Every day you shall eat my yogurt and milk."
+
+**2141.** Such various mischief He makes from house to house;
+outwardly they are all angry, while in their hearts they rejoice.
+
+**2142.** Along this road the two fortunate thieves,
+leaving Vishvambhara at [His] house, ran away.[^12-320]
+
+**2143.** Here Gaurahari plays, gathering up dust;
+the wondrous beauty He had then I cannot describe.
+
+**2144.** O Srinivasa, look at this secluded place:
+here that tairthika brahmana lived in secret.[^12-321]
+
+**2145.** This is the dwelling of the brahmanas Jagadisha and Hiranya,
+whose offering [the Lord] ate on Ekadashi.[^12-322]
+
+**2146.** Sitting here, the brahmanas, in the sweetest words,
+joyfully tell of Nimai's restlessness.
+
+**2147.** Look at this beautiful sandbank of the Jahnavi:
+here the son of Shachi plays with the children.
+
+**2148.** Games that no one has ever seen or heard of —
+those games He plays with great delight in His mind.
+
+**2149.** Along this road Murari Gupta comes;
+while explaining jnana, he waves his hands about.
+
+**2150.** The Lord mimics him in the same way;
+He went to his house at his mealtime.
+
+**2151.** Speaking of tattva-jnana, He passed urine on his plate.
+Look here: the dwelling of Murari Gupta.[^12-323]
+
+**2152.** Look at this wondrous deity on the bank of the Ganga:
+by its grace all desires are fulfilled.[^12-324]
+
+**2153.** Having bathed in the Ganga, the maidens worship the deity;
+suddenly the son of Shachi came.
+
+**2154.** Sitting among the maidens, He makes all kinds of fun;
+seeing all this, waves of happiness swell.
+
+**2155.** Vallabha's daughter came here on another day;
+what shall I say of the play that took place with her![^12-325]
+
+**2156.** Along this road Vishvambhara with the children,
+having played, goes home every day.
+
+**2157.** Right here [they] quarrel with other children;
+Nimai's companions defeat them all.
+
+**2158.** Nimaisundara is the crest-jewel of the restless;
+restless boys are always with Him.
+
+**2159.** At this ghat of the Jahnavi the son of Shachi
+makes mischief beyond all counting.
+
+**2160.** The brahmanas and good people, outwardly angry,
+go and tell Mishra of [Nimai's] restlessness at bathing time.
+
+**2161.** All the girls go and tell Mother Shachi
+the wondrous story of Nimai's restlessness.
+
+**2162.** Beneath this tree the noble Vishvarupa
+reflects in his mind: "Nimai is not a human being."
+
+**2163.** Here Sri Advaita and the other beloved ones of the Lord
+weep, seeing the evil disposition of the living beings.
+
+**2164.** Vishvarupa explains that devotion to Krishna is the essence [of all];
+hearing this, Advaita-deva gives a thunderous roar.
+
+**2165.** Taking Vishvarupa in His arms, Advaita dances;
+here the bliss of all the devotees is boundless.
+
+**2166.** Sitting here, everyone tells of Krishna's deeds;
+hearing His own story, the son of Shachi came.
+
+**2167.** Naked, grey with dust — seeing [Him], all
+were enchanted; no one can turn their eyes away.
+
+**2168.** Standing here, Vishvambhara with a joyful heart
+says to Vishvarupa, "Come and eat."
+
+**2169.** Along this road, holding Vishvarupa's cloth,
+He goes home — wondrous is that gait.
+
+**2170.** Vishvarupa walks along with Vishvambhara
+and again and again looks at Nimaichand's face.
+
+**2171.** What shall I say of Vishvarupa, Srinivasa!
+After some time Vishvarupa took sannyasa.
+
+**2172.** On account of Vishvarupa the devotees here,
+saying so much, in distress wish to go off to the forest.
+
+**2173.** Struck by the thunderbolts of the pashandas' words, the devotees,
+sitting here, are sunk in great sorrow.
+
+**2174.** Here Sri Advaita-deva, the abode of virtues,
+with great, proud assurance reassures the devotees.
+
+**2175.** In this house the devotees raise the sound of Hari's name;
+hearing it, Vishvambhara comes running.
+
+**2176.** Everyone says, "Why have You come here, child?"
+Hearing this, He says, "For what purpose did you call Me?"
+
+**2177.** Saying this, He goes off to play with the children;
+by His will no one can recognize [Him].
+
+**2178.** O Srinivasa, what shall I say of this place?
+[Here] Nimai studies, and all the people praise it.
+
+**2179.** Fearing in his heart a sannyasa [like] Vishvarupa's,
+the father forbade Vishvambhara to study.
+
+**2180.** Not allowed to study, Nimai is sad at heart;
+again He took up His insolent pranks with the children.
+
+**2181.** In all these houses He makes all kinds of mischief;
+[people] are angry, [yet] no one can say anything.
+
+**2182.** Jagannatha Mishra, at the word of respectable people,
+with a joyful heart tells his son to study.
+
+**2183.** Nimai studies with His beloved child companions;
+sitting here, He pursues various branches of learning.
+
+**2184.** This is the house of the one dearest to Jagannatha Mishra,
+who busied himself zealously with Nimai's sacred-thread ceremony.
+
+**2185.** This is the home of Gangadasa Pandita;
+here the son of Shachi studies grammar.
+
+**2186.** Growing more wonderful in grammar day by day,
+He composes His own commentary on grammar.[^12-326]
+
+**2187.** Of Krishnananda, Sri Kamalakanta and Murari Gupta,
+staying here, He asks trick questions with a joyful heart.[^12-327]
+
+**2188.** Immersed in the delight of learning, Sri Gaurasundara
+performs pastimes beyond the reach of Brahma and the others.
+
+**2189.** At this ghat of the Jahnavi, with His students,
+having sported in the water, He goes home in great merriment.
+
+**2190.** Having worshipped Vishnu and watered Tulasi,
+having eaten prasada, He comes and stays right here.
+
+**2191.** Without talk of the scriptures nothing pleases Him;
+having become a great pandita, He roams about Nadia.
+
+**2192.** One day here He said many things
+to Murari Gupta, yet at this there was no anger in his heart.[^12-328]
+
+**2193.** The Lord and the servant — both discuss the scriptures;
+what to speak of others — hearing it, the gods rejoice.
+
+**2194.** Murari, a portion of Rudra, does not know himself;[^12-329]
+at the Lord's explanation great bliss grows in his heart.
+
+**2195.** Look, this is the house of Sri Vallabha Acharya,
+whose daughter is Lakshmi, beautiful in every respect.
+
+**2196.** What can be said — how fortunate is Vallabha Acharya!
+Here he gave his daughter to Vishvambhara.
+
+**2197.** Before the wedding, on the bank of the Ganga, on this path,
+Sri Lakshmi met Vishvambhara.
+
+**2198.** This is the house of Vanamali Acharya,
+who took the greatest pains over Lakshmi's wedding.
+
+**2199.** Having married Sri Lakshmi, Vishvambhara
+goes along this path to His own home in great merriment.
+
+**2200.** Here many people praise Vishvambhara;
+they praise Shachi, who has such a son.
+
+**2201.** Here, staying, all the devotees of the Lord,
+not recognizing their own Lord, give [Him] so much instruction.
+
+**2202.** Sri Mukunda Pandita, staying here,
+argues much with the Lord, putting forward theses and objections.
+
+**2203.** Here, angered by the words of the pashandas,
+Advaita, with a roar, says to everyone:
+
+**2204.** "In a few days, here within Nadia,
+you will see Krishna." Hearing this, all rejoiced in their hearts.
+
+**2205.** Look, this is the house of Gopinatha Acharya;
+from time to time Vishvambhara comes here.
+
+**2206.** Sri Ishvara Puri stayed here for some days
+and here composed the book *Krishna-lilamrita*.[^12-330]
+
+**2207.** He bestows the greatest affection on Gadadhara Pandita;
+seeing his outbursts of prema, he taught him [his book].
+
+**2208.** Sri Puri has the utmost love for Vishvambhara;
+every day he asks [Him] to correct the book.
+
+**2209.** Vishvambhara shows him the greatest deference
+and does whatever pleases him.
+
+**2210.** Here, together with Gadadhara Pandita,
+there was discussion of the scriptures — and great amusement in it.
+
+**2211.** Here all, hearing Vishvambhara's discussion of the scriptures,
+bless [Him], saying, "May [You] have bhakti for Krishna!"
+
+**2212.** Here to Vishvambhara, when He bowed
+to Srivasa and all the other Vaishnavas, [they] give so much instruction.
+
+**2213.** Look, this is the house of Sri Mukunda Sanjaya;
+here the Lord constantly engages in the scriptures.
+
+**2214.** Sitting right here, all the brahmanas say,
+"'Vayu' has taken possession of Vishvambhara's body."
+
+**2215.** These were transformations of prema-bhakti, but no one knows it;
+hearing that the "vayu" has subsided, all rejoice in their hearts.
+
+**2216.** Wondrous are Gauranga's pastimes in Navadvipa:
+with everyone He always converses smiling.
+
+**2217.** Who is not enchanted on seeing the son of Shachi?
+Along this path the Lord goes for a walk through the town.
+
+**2218.** In this weaver's house the Lord Vishvambhara,
+taking cloth, put [it] on — the beauty is captivating.
+
+**2219.** In these houses of the cowherds, with the greatest delight,
+He eats yogurt, milk and fresh butter in great happiness.
+
+**2220.** In this perfume merchant's house Gaurahari
+put on divine fragrances, showing favor.
+
+**2221.** In this garland-maker's house, with the students,
+He puts on divine garlands — they sparkle on His body.
+
+**2222.** Coming to this betel seller's house, Gaura-raya
+chews betel with joy in His heart.
+
+**2223.** O Srinivasa, Gaurachandra with His associates
+roams Navadvipa in great merriment.
+
+**2224.** Formerly, walking through the city of Madhu, the Lord
+satisfied the hearts of all in just this way.[^12-331]
+
+**2225.** Coming to this house of the conch merchant,
+He took a conch with great amusement.
+
+**2226.** This, in the middle of Navadvipa, is the house of the all-knowing one (sarvajna);[^12-332]
+here came the Lord, the son of Shachi.
+
+**2227.** With the sweetest words the Lord says to the all-knowing one,
+"Who was I in another birth? Come, tell Me."
+
+**2228.** Hearing this, the all-knowing one chants the excellent Gopala mantra;
+by the power of the mantra he sees the son of Vasudeva:
+
+**2229.** seeing the four-armed One with conch, disc, club and lotus,
+he looks at Vishvambhara and again closes his eyes.
+
+**2230.** Again he sees the son of Nanda, the Holder of the flute,
+in the divine pose bent in three places, dark and beautiful.
+
+**2231.** Seeing the avataras — Sri Rama, Varaha, Nrisimha and others —
+the all-knowing one ponders ceaselessly in his heart.
+
+**2232.** The Lord says, "Tell [it] — I will listen." The all-knowing one replies,
+"I will tell later; now, please, go."
+
+**2233.** Hearing this, smiling ever so gently, Sri Gaurasundara
+came here, to this house of Shridhara.[^12-333]
+
+**2234.** All the fun the Lord has with Shridhara —
+no one can tell it with one mouth.
+
+**2235.** Having roamed through Navadvipa, Vishvambhara
+went along this path with everyone to His own home.
+
+**2236.** Pastimes of eagerness for a fight and others are beyond words;
+He performs them all whenever the Lord so wishes.[^12-334]
+
+**2237.** Along this royal road the Lord, the son of Shachi,
+walks in attire that enchants the world.
+
+**2238.** Unexpectedly — a meeting with Srivasa Pandita;[^12-335]
+and of all the talk with him there is no reckoning.
+
+**2239.** O Srinivasa, sitting here, Gaurachandra,
+filled with bliss, gazes at the beauty of the Ganga.
+
+**2240.** On all four sides are the disciples, the beauty is boundless;
+the Lord discusses the scriptures and enchants everyone.
+
+**2241.** One of the disciples, to the Lord Vishvambhara,
+very softly tells the news of the digvijayi.
+
+**2242.** On his tongue the goddess Sarasvati speaks;
+having conquered everywhere, he has come to Nadia.
+
+**2243.** By the power of his learning the digvijayi counts no one for anything;
+with him are elephants, horses, palanquins and many people.
+
+**2244.** All the great teachers of Navadvipa
+became very anxious at heart.
+
+**2245.** Hearing this, smiling ever so gently, Vishvambhara says,
+"The Lord (Ishvara) leaves no one's pride standing."
+
+**2246.** Seeing [His] beauty from afar, the digvijayi
+came near, greatly astonished.
+
+**2247.** Vishvambhara, showing him the greatest respect,
+asked him to describe the glory of the Ganga.
+
+**2248.** The digvijayi, with great pride, composed many verses;
+Vishvambhara asked him to explain them.
+
+**2249.** The verses are very difficult, accessible to no one;
+laughing, the digvijayi explains the meaning of his own verses.
+
+**2250.** When the brahmana, having explained the verses, fell silent,
+Vishvambhara pointed out faults at the beginning, middle and end of the verses.
+
+**2251.** The digvijayi, defeated, fell to thinking;
+and yet the son of Shachi preserves his honor.
+
+**2252.** "Lord Gaura-raya is the complete Brahman, the eternal" —
+such knowledge came [to him] by the mercy of Sarasvati.
+
+**2253.** The digvijayi took shelter at the Lord's feet;
+the mercy the Lord showed [him] cannot be described.
+
+**2254.** The digvijayi belongs to a Vaishnava sampradaya;
+he introduces himself by the name Keshava Kashmiri.[^12-336]
+
+**2255.** The disciple of Sri Narayana is Hamsa — so it is proclaimed;
+Sanaka and the others, the four Sanas, are his disciples.[^12-337]
+
+**2256.** The disciple of Sanaka is Sri Narada Mahashaya;
+his disciple is Nimbaditya, the abode of virtues.
+
+**2257.** The disciple of Sri Nimbaditya is Sri Srinivasacharya,[^12-338]
+whose glory became manifest everywhere.
+
+**2258.** His disciple is Vishvacharya, foremost in every respect;
+his [disciple] is Sri Purushottamacharya, the learned.
+
+**2259.** Sri Vilasacharya is his disciple, most steadfast;
+his disciple is Sri Svarupa Acharya, the profound.
+
+**2260.** His dear disciple is Sri Madhavacharya, the best of the best;
+his dear disciple is Srimad Balabhadracharya.
+
+**2261.** His disciple is Padmacharya, renowned everywhere;
+his disciple is Sri Shyama Acharya, of beautiful conduct.
+
+**2262.** His dear disciple is Acharya Gopala;
+his disciple is Kripacharya, supremely merciful.
+
+**2263.** His disciple is Devacharya, the abode of virtues;
+his disciple is Sri Sundara Bhatta, the compassionate.
+
+**2264.** Srimad Padmanabha Bhatta is his disciple;
+his disciple is Sri Upendra Bhatta, whose fame [is great].
+
+**2265.** His dear disciple is Ramachandra Bhatta;
+his disciple, dear to all, is Sri Vamana Bhatta.
+
+**2266.** His disciple is Krishna Bhatta, deeply serene;
+his disciple is Padmakara Bhatta, the learned.
+
+**2267.** The disciple of Sri Padmakara is Sri Shravana Bhatta;
+his disciple is Bhuri Bhatta, whose conduct is extraordinary.
+
+**2268.** His very dear disciple was Sri Madhava Bhatta;
+his disciple was Shyama Bhatta, of great realization.[^12-339]
+
+**2269.** His disciple was Sri Gopala Bhatta, of noble character;
+his disciple was Balabhadra Bhatta, pure in his ways.
+
+**2270.** His disciple was Gopinatha Bhatta, revered by all;
+his disciple was Sri Keshava Bhatta, wondrous in his deeds.
+
+**2271.** His disciple was Sri Gokula Bhatta, most steadfast;
+his very dear disciple was Keshava Kashmiri.
+
+**2272.** By performing japa of the mantra of the goddess Sarasvati
+all learning dawned in him, and his power grew.
+
+**2273.** Having conquered all directions, [he won] fame as "the digvijayi";
+[he was] of a most cultured brahmana family of the land of Kashmir.
+
+**2274.** At a most auspicious hour he came to Navadvipa;
+giving up everything, he departed at the Lord's command.
+
+**2275.** Keshava Kashmiri, the digvijayi, ashamed of this,
+described the enjoyment of the lilas under the name "Laghu-Keshava."[^12-340]
+
+**2276.** Fortunate is the digvijayi Keshava Kashmiri:
+there is no end to telling of the happiness in which he was immersed.
+
+**2277.** The defeat of the digvijayi at the hands of Nimai
+is known everywhere; people proclaim this glory.
+
+**2278.** Wherever one goes, one hears only these words:
+"Nimai Pandita is the crest-jewel of teachers."
+
+**2279.** Thus [He] plays many sports on the bank of the Ganga;
+the Lord, who acts as He wills, goes home by this path.
+
+**2280.** One day, as [He] was going along this path,
+[He] sees twenty sannyasis coming.
+
+**2281.** With the greatest respect [He] brings all those sannyasis
+home and feeds them various foods.
+
+**2282.** Thus [He] constantly feeds sannyasis;
+all are greatly amazed, for [they] see [Him] earn nothing.
+
+**2283.** The Lord desired to go to Bengal;
+having set out, [He] stopped at the house of this brahmana.
+
+**2284.** The Lord, having gone to Bengal with His students,
+sent Sri Tapana Mishra to Kashi.[^12-341]
+
+**2285.** Having blessed Bengal, [He] returned after some days;
+the brahmanas, going out to meet [Him], bring [Him] along this path.
+
+**2286.** Surrounded by His students, Sri Gauranga-sundara,
+enchanting the hearts of all, goes to His own home.
+
+**2287.** Sitting here, the brahmanas, with restless hearts,
+speak very softly of the separation from Lakshmi.[^12-342]
+
+**2288.** "Vishvambhara has come back from Bengal;
+seeing the house empty, He will feel great sorrow in His heart.
+
+**2289.** Nimai Pandita is a jewel among great men."
+Saying this, all went to console [Him].
+
+**2290.** One day someone came here after bathing;
+not seeing tilaka [on him], [the Lord] taught [him] to apply [it].
+
+**2291.** O Srinivasa, here Nimai, in sport,
+teased the people from Bengal in various ways.[^12-343]
+
+**2292.** The sports that Vishvambhara reveals here —
+words do not come to the mouth to tell them all.
+
+**2293.** Look, here is the house of Sanatana Mishra,
+who was the Raja-pandita, eminent in every respect.
+
+**2294.** Sanatana Mishra's daughter is Vishnupriya;
+with one mouth I cannot tell of her deeds.
+
+**2295.** Sanatana Mishra, with great joy in his heart,
+gave his daughter to Vishvambhara here.
+
+**2296.** Look at the dwelling of Kashinatha Pandita;
+he took very great pains over Vishnupriya's wedding.
+
+**2297.** Here the devotees, greatly distressed,
+lament at not finding the company of devotees.
+
+**2298.** Saying, "Ha Krishna, ha Krishna!" they heave deep sighs;
+at that time Thakura Haridasa came.
+
+**2299.** Wondrous are the deeds of Haridasa Thakura;
+how much of them shall I tell? They are known everywhere.
+
+**2300.** Here Gaurachandra, sitting, reflects in His heart:
+"My descent is for revealing prema-bhakti.
+
+**2301.** Coming back from Gaya, I shall destroy the sorrow of the devotees
+and reveal prema-bhakti, which is supremely rare."
+
+**2302.** Having reflected thus, the Lord, with joy in His heart,
+consoling His mother, sets out on pilgrimage to Gaya.
+
+**2303.** Having set out, [He] stayed in the house of this brahmana;
+in the morning He went along this path with His students.
+
+**2304.** Having made [the pilgrimage to] Gaya, Vishvambhara [showed] Ishvara Puri
+so much favor — who can tell of it?
+
+**2305.** There the manifestation of prema-bhakti began;
+with His students [He] set out for Navadvipa.
+
+**2306.** Sri Shachi's son came to Navadvipa;
+in Navadvipa there was great bliss for all.
+
+**2307.** Everyone went out to meet [Him] and bring [Him] back;
+along this path the Lord went home.
+
+**2308.** Gaura-raya swims in the rasa of prema-bhakti;
+seeing [this], all the Vaishnavas rejoice at heart.
+
+**2309.** To Srivasa, Ramai, Gopinatha and Gadadhara
+Shriman joyfully says here:[^12-344]
+
+**2310.** "Nimai Pandita has come back from Gaya,
+and there is not a trace of all that [former] haughtiness.
+
+**2311.** Telling us of the holy place Gaya,
+He cannot speak of the lotus feet of Vishnu:
+
+**2312.** [tears] pour from both His eyes like the current of a river;
+saying 'Krishna!' He falls to the ground unconscious.
+
+**2313.** I saw wondrous transformations of His prema."
+Hearing [this, all] say much — great is everyone's joy.
+
+**2314.** Here Srivasa and the others, having praised Vishvambhara,
+go and sit in the house of Shuklambara on the bank of the Ganga.
+
+**2315.** Here is the dwelling of Shuklambara Brahmachari;
+coming back from Gaya, the Lord came here.
+
+**2316.** Seeing Shriman Pandita and the others here,
+[He] speaks of Krishna, and [His] heart overflows.
+
+**2317.** Regarding Himself as lowly, the son of Shachi,
+clasping everyone by the neck, weeps.
+
+**2318.** The devotees who were hidden here and there —
+all weep from Gaurachandra's prema.
+
+**2319.** The Lord says, "Who is weeping inside the house?"
+Shuklambara says, "Your Gadadhara."
+
+**2320.** How the outpouring of prema began I cannot tell;
+the brahmachari sank into an ocean of bliss.[^12-345]
+
+**2321.** Ratnagarbha Acharya, near this tree,
+recites a verse of the *Bhagavata* with great joy in his heart.[^12-346]
+
+**2322.** Hearing the glorification of devotion to Himself,
+Gaurachandra, fainting from prema, falls right here.
+
+**2323.** Sri Ratnagarbha's good fortune cannot be described:
+regaining consciousness, the Lord embraced him.
+
+**2324.** O Srinivasa, what shall I say of this place?
+The Lord reveals Himself in His own kirtana.
+
+**2325.** Seeing Vishvambhara's absorption in prema, the devotees
+here reported everything to Sri Advaita.[^12-347]
+
+**2326.** The all-knowing Prabhu, Lord Advaita,
+on hearing [this], in great joy — the hair on His body stood on end.
+
+**2327.** In many ways He made [it] known to the devotees;
+what He had seen in a dream, that too He told.
+
+**2328.** Who can understand the acts of Advaitachandra?
+One moment He reveals [the truth], the next He conceals it.
+
+**2329.** Having heard wondrous words from Advaita,
+the devotees, bowing to Him, departed.
+
+**2330.** O Srinivasa, the deeds of Gaurachandra
+became known in Nadia day by day.
+
+**2331.** At this ghat of the Ganga the Lord, intoxicated with the rasa of bhakti,
+serves the devotees in every possible way.
+
+**2332.** The humility [He] shows I cannot describe;
+Gaurahari makes known that service to the devotees is foremost.
+
+**2333.** What shall I say? In the Lord's heart is a great wish:
+to receive the devotees' blessings constantly.
+
+**2334.** In secret the Lord enjoys [His pastimes] in Nadia;
+who can know [Him] if the Lord [Himself] does not make [Himself] known?
+
+**2335.** Though Nimai Pandita is revered by all,
+He carries the Vaishnavas' flower baskets and dhotis without shame.
+
+**2336.** Here the devotees, gazing at Gaurachandra's face,
+give blessings, giving much instruction.
+
+**2337.** Vishvambhara, taking the dust of the devotees' feet on His head,
+says so much — who can repeat it?
+
+**2338.** One day, along this path, Lord Vishvambhara
+went to Advaita's dwelling, and with [Him] Gadadhara.
+
+**2339.** Seeing [Him], Advaita here was overwhelmed with prema;
+again and again the golden body trembles.
+
+**2340.** Advaita Acharya, with great joy in His heart,
+saying many things, prepares [all] for the worship of the Lord.
+
+**2341.** With fragrances and flowers He worships the Lord's feet;
+bowing again and again, He offers praise.
+
+**2342.** Seeing Advaita's actions, Gadadhara laughs;
+biting his tongue with his teeth, he says in a soft voice:
+
+**2343.** "You should bestow blessings that bring good;
+to treat a boy like this is not proper."
+
+**2344.** Laughing, Advaita says, "You do not know yet;
+who this boy is you will know in a few days."
+
+**2345.** Hearing [this], Gadadhara was amazed at heart;
+in his mind he reflects: "Surely this is the Lord."
+
+**2346.** After a while Gaura-raya, returning to outward awareness,
+says many things to Advaita and conceals Himself.
+
+**2347.** The Lord, Gaurahari, is subdued by Advaita's prema;
+the delight that took place here I cannot tell.
+
+**2348.** Cherishing many longings, with joy in His heart,
+from here Advaita went to Shantipura.
+
+**2349.** The happiness the Lord knew here, absorbed in sankirtana —
+[even] the Four-faced One does not know how to describe that absorption.
+
+**2350.** All the Vaishnavas could not remain steady in prema;
+the notion that Lord Vishvambhara was a human being left them.
+
+**2351.** Here, absorbed in prema, the Lord told the Vaishnavas
+what He had seen in the village of Kanai Natashala.[^12-348]
+
+**2352.** Here, in sankirtana, He gives out hunkaras and thunderous roars;
+hearing [them], the crowds of pashandas all but die, ranting wildly.[^12-349]
+
+**2353.** At the words of the pashandas the Vaishnavas grieve;
+that the Lord has descended — this no one knows.
+
+**2354.** To destroy [their] grief and to make Himself known,
+He wanders through Nadia in most beautiful attire.
+
+**2355.** Dressed up, He comes from the house along this road;
+seeing [Him], the pashandas all but die, ranting wildly.
+
+**2356.** Seeing the world-enchanting beauty of Gaurachandra,
+the virtuous were filled with great joy.
+
+**2357.** Women and men alike — all are stirred at heart;
+seeing Gaurachandra, they say so much to one another!
+
+**2358.** *Thus [it is said] in a song (raga Kamoda):*
+Gaura, the best of moons, the Enchanter of Vraja,
+wanders through Nadia.
+Old men without number, who have come out onto the road,
+gaze [at Him] with joy in their hearts.
+
+**2359.** One says: "What is this? Ananga, so finely formed —
+who created [him]?
+Such wondrous, abundant beauty
+has come before [our] eyes!"
+
+**2360.** Another says: "What is this — is love being born?
+What can I say — it cannot be told.
+In the casket of my heart I will hold [Him] every moment —
+tell me, by what means [can this be done]?"
+
+**2361.** Others, in so many, many ways,
+ceaselessly give good blessings.
+Narahari Dasa ever takes in
+the sweetness of the Lord, filling his eyes.
+
+**2362.** *Raga Kamoda:*
+What joy there is in Nadia today!
+All the old women on the road, standing in rows,
+gaze at Shachi's darling child. (Refrain.)
+
+**2363.** One says to another: "He is no human being at all —
+I have understood this, reflecting in my heart.
+A youth such as this I have never seen nor heard of the like,
+since I was born in the land of Bharata."
+
+**2364.** One says again and again: "What can I say? At last
+all [our] sorrows have come to an end."
+Another says: "What is in my heart I cannot express:
+blessed is this life in Nadia!"
+
+**2365.** One says: "Blessed is Shachi! How many pious deeds she has done —
+that I do not know how to tell.
+She whom He, with this moon-like mouth, always calls 'Mother' —
+who else has such good fortune?"
+
+**2366.** One says: "May He wander through Nadia just like this,
+taking all the virtuous with Him."
+Another says: "This is all my heart wishes: that golden Nimai
+may never leave Nadia."
+
+**2367.** One says: "May He always dwell in Nadia in well-being —
+this I pray to the Creator.
+Gora is the life of Narahari, the very pupil of my eyes;
+may I die taking His misfortunes upon myself!"
+
+**2368.** *Raga Bhupali:*
+Hearing that Gauranga is coming, the blind
+step out of their homes.
+Gaining sight, they look [at Him] again and again;
+their bodies fill with delight.
+
+**2369.** One, taking another's hand, says softly:
+"Today it has borne fruit.
+To give us great bliss the Creator made [us] blind —
+he did not let us look at anything else.
+
+**2370.** Having drunk the nectar of this beauty, what my heart is doing
+cannot be known.
+Whoever has not seen such beauty
+is blind, though he has eyes.
+
+**2371.** To look always, again and again they rush forth —
+[my] eyes cannot hold to patience.
+Narahari is my witness: I have given these eyes
+to golden Nimaichand."
+
+**2372.** *Raga Todi:*
+Hearing that Gora, the jewel of virtues, is wandering through Nadia,
+the lame, going out onto the road,
+gaze at that face with unblinking eyes —
+their hearts overflow with bliss.
+
+**2373.** One says: "Listen: the Creator is merciful —
+now I have understood this in my heart.
+The purpose for which you made [me] lame — that fruit
+you have brought to ripeness now, after so many days.
+
+**2374.** Had I not been lame, on household business
+I would have gone to a distant land.
+Had I died there, not knowing [of Him],
+there would have been no end to my sorrow.
+
+**2375.** That I may remain lame just as I am —
+this I pray to the Creator —
+that I may always see the Lord of Narahari in Nadia,
+filling these eyes."
+
+**2376.** *Raga Kamoda:*
+Gora, the enchanter of the world, the jewel of virtues,
+walks along the royal road with so many graceful movements.
+Hundreds upon hundreds of Madanas, swooning,
+roll at [His] lotus feet.
+
+**2377.** On all sides people come running, racing one another,
+enchanted by the matchless beauty.
+Who does not offer [for Him] body, mind and life,[^12-350]
+telling one another of [His] lovely deeds?
+
+**2378.** In the town of Nadia, in dandyish attire,
+all the young nagaras stroll about.[^12-351]
+Looking at Gorachand, all of them
+lost their pride as nagaras.
+
+**2379.** Those in the world who were most experienced
+and drunk with the pride of their refinement in rasa —
+says Narahari — like fireflies
+before the moon, so did they become.
+
+**2380.** *Raga Dhanashri:*
+The Moon of Nadia, playfully, along the royal road
+walks swaying, His heart thrilling with delight.
+All the young women, unseen, in agitation,
+longingly cast half a glance at that form.[^12-352]
+
+**2381.** One says: "Look, look, friend, here is
+Gora's beauty — is it not a heap of nectar?
+With the red of betel the lips are glowing,
+and on them — what a gentle, sweet smile!
+
+**2382.** How the garland of rangana flowers sways!
+With the play of His eyes He enchants the world.
+How lovely the mass of curling locks!
+On His forehead shines a tilaka of sandal paste.
+
+**2383.** What a shape His pair of arms has, [reaching] to the knees!
+Who would not lose her heart to that broad chest?
+I am deeply immersed in the rasa of the Lord of Narahari —
+I have bid farewell forever to shame and family."
+
+**2384.** O Srinivasa, the Lord, wandering through Nadia,
+reveals Himself to give happiness to the devotees.
+
+**2385.** Walking gracefully, He looks all around;
+He sees herds of cows, beautiful on the bank of the Ganga.
+
+**2386.** Lowing "hamba," herd after herd, the cows run;
+they drink water and, tails raised, look about on all sides.
+
+**2387.** They butt one another; seeing this, the Lord
+roars out: "I am He! I am He!"[^12-353]
+
+**2388.** In wondrous ecstasy, along this road Vishvambhara
+joyfully ran to the house of Srivasa.
+
+**2389.** In Srivasa's home, in this room, with the door shut,
+[Srivasa] worships Nrisimha-deva, wholly absorbed [in worship].[^12-354]
+
+**2390.** Gaurachandra kicks this door;
+at that hunkara Srivasa's meditation was broken.
+
+**2391.** Angry that his meditation has been broken, the brahmana looks around on all sides —
+and sees the effulgent Vishvambhara seated in virasana.[^12-355]
+
+**2392.** Holding in four hands the conch, disc, club and lotus,
+He roars loudly, saying much to Srivasa.
+
+**2393.** Srivasa is stunned with fear — nothing comes [to his mind];
+at the Lord's command, rejoicing, he offers praise.
+
+**2394.** The wondrous deeds of the Lord in each of His incarnations —
+these, in that ecstasy, he reveals through his praise.
+
+**2395.** Learned in all the scriptures, the venerable Srivasa
+offers praise before the Lord — his heart overflows.
+
+**2396.** Hearing the wondrous turns of [his] praise, Gaurahari
+mercifully granted [him] the boon he desired.
+
+**2397.** There is no limit to the good fortune of Srivasa and [his] family;
+right here Srivasa worships the Lord's feet.
+
+**2398.** That wondrous puja is beyond comparison;
+how pleased [the Lord] is with the puja — who can tell?
+
+**2399.** On the heads of all [He] places [His] lovely feet;
+in supreme bliss He destroys the fear of the devotees.
+
+**2400.** Here a little girl named Narayani,
+at the Lord's command, weeps, [crying,] "Krishna!"[^12-356]
+
+**2401.** That girl is the daughter of Srivasa's brother;
+a four-year-old girl, exceedingly fortunate.
+
+**2402.** All the Lord's absorptions in bhava are beyond the perception of others;
+returning to outer awareness, Vishvambhara becomes bashful.
+
+**2403.** "Tell no one," He said to Srivasa,
+and from here, along this road, He went to His own home.
+
+**2404.** One day the Lord, absorbed in the mood of Sri Varaha,
+roaring, goes along this road to Murari's dwelling.
+
+**2405.** Entering this Vishnu shrine, Vishvambhara
+took the form of Varaha, supremely beautiful.
+
+**2406.** Seeing here in front of Him a water vessel — a gadu jug —
+He seized [it] in His teeth, absorbed in His own feeling.
+
+**2407.** The Lord says to Murari again and again:
+"All this time you did not know of My incarnation!"
+
+**2408.** At the sight of the Lord, Murari was stunned:
+what to say — nothing comes to his lips.
+
+**2409.** "Speak, speak!" says the Lord. "There is nothing to fear."
+Murari offers praise; streams [of tears] flow from his eyes.
+
+**2410.** Hearing Murari's praise, Lord Gaurahari
+in ecstasy says so much that I cannot recount it.
+
+**2411.** How much mercy the Lord showed Murari,
+what bliss Murari felt — who can tell?
+
+**2412.** In this way the Lord, in the homes of all the devotees,
+bestowing great mercy, makes Himself known.
+
+**2413.** Recognizing their own Lord, the devotees with joyful hearts
+perform sankirtana, taking no account of the pashandas.
+
+**2414.** One day Srivasa and Murari, coming here,
+spoke to each other of the glories of Gaurachandra.
+
+**2415.** Srivasa Pandita in remorse says again and again:
+"All this time I did not recognize my own Lord!
+
+**2416.** My heart is ever breaking — what more can I say?
+Such a Lord carried my flower basket and [my] dhoti!
+
+**2417.** I gave [Him] blessings, saying, 'May there be bhakti for Krishna!'
+To Krishna Himself I gave so much instruction to worship Krishna!"
+
+**2418.** Thus Sri Murari and the others dear to the Lord,
+all, lamenting greatly, weep.
+
+**2419.** Here the Lord, to Srivasa and all the other devotees,
+gives hints of Nityananda's coming.
+
+**2420.** Suddenly coming to Nadia, Nityananda
+stayed in secret; Gaura-raya came to know of it.
+
+**2421.** Revealing [to the devotees] Nityananda, hidden from others,
+He goes along this road to meet Him.
+
+**2422.** Sri Nandana Acharya is supremely fortunate;
+look, Srinivasa, here is his house.
+
+**2423.** The Lord, coming to this house with the company of devotees,
+sees Nityananda sitting absorbed in meditation.
+
+**2424.** The incomparable sweetness of Nityananda's form
+the devotees, standing, behold, filling their eyes.
+
+**2425.** Before Nityananda, Vishvambhara shines;
+Nityananda sees the captivating beauty of the Lord.
+
+**2426.** *Thus [it is said] in the Sri Chaitanya-bhagavata:*[^12-357]
+"Vishvambhara's form is like that of Madana;
+divine fragrances and garlands, clad in divine garments.
+
+**2427.** What is the lustre of gold before that body?
+To gaze on that face the moon itself longs.
+
+**2428.** At the sight of those teeth, pearls lose their pride;
+seeing that dressed hair, one loses one's senses.
+
+**2429.** Reddish to behold are those dawn-coloured eyes;
+one wonders: is there any other lotus like them?
+
+**2430.** Those two arms reaching to the knees, the broad chest;
+on it shines a white sacred thread, very fine.[^12-358]
+
+**2431.** On the forehead, a wondrous, beautiful upright tilaka;
+without ornaments, every limb is captivating.
+
+**2432.** What are millions of jewels when one looks at those nails?
+What would nectar do when one sees that smile?"
+
+**2433.** How Nityananda-raya, seeing Vishvambhara's beauty,
+rejoiced in His heart — how could I tell it?
+
+**2434.** To reveal the heart of Nityanandachandra,
+Srivasa recited a shloka at the Lord's hint.
+
+**2435.** *Thus [it is said] in the Srimad-Bhagavatam, in the Tenth Canto (10.21.5):*
+*With a crown of peacock feathers, in the form of the finest dancer, with karnikara [flowers] on His ears,*
+*wearing a garment golden-yellow like gold, and the Vaijayanti garland,*
+*filling the holes of the flute with the nectar of [His] lips, He whose glory is sung by the bands of cowherd boys*
+*entered Vrindavana, made delightful by His footprints.*
+
+**2436.** Hearing the shloka of meditation on Krishna, Nityananda-raya —
+the bhava that overcame Him, who does not sing of it?
+
+**2437.** *Thus [it is said] in a song (raga Mayura):*[^12-359]
+Overflowing with bhava, beautiful Nitai,
+gazing at the radiance of Gora's moon-face —
+how much rises in [His] heart! He cannot stay still;
+on every limb, fresh waves of horripilation.
+
+**2438.** What divine madness! — now a lion's roar,
+now He rolls on the ground;
+now a deep sigh, now loud laughter;
+His cloth slips off, He is awash in the tears of [His] eyes.
+
+**2439.** Now leaps with both feet, now trembling in the body,
+now He runs — no one can hold Him;
+now, having said something, He becomes motionless,
+sheltering in Vishvambhara's embrace.
+
+**2440.** Taking Nityananda on His lap, in the tears of His eyes
+the Lord is awash — such is the way of prema!
+Narahari says: Srivasa and the others all around
+weep — no one can keep his composure.
+
+**2441.** O Srinivasa, here there is endless bliss;
+the whole world knows how Nityananda was overcome with bhava.
+
+**2442.** Here Nityananda stays on Vishvambhara's lap;
+seeing it, Gadadhara smiles softly, softly.
+
+**2443.** Lord Vishvambhara and Nityananda, staying here —
+I cannot tell what the two of Them spoke about.
+
+**2444.** The happiness in which Srivasa and the other devotees here were drowned —
+all of it cannot be told with one mouth.
+
+**2445.** Here the son of Shachi says to Nityananda,
+"Tomorrow is the full moon — Your Vyasa-puja."[^12-360]
+
+**2446.** "Where will the puja be?" — hearing this, with joy in His heart
+[Nityananda], laughing, says, "In the house of this brahmana here — Srivasa."[^12-361]
+
+**2447.** At Nityananda's words Vishvambhara here rejoiced;
+there was a long conversation with Srivasa.
+
+**2448.** All of them, from the house of Nandana Acharya,
+went along this path to the house of Srivasa Pandita.
+
+**2449.** O Srinivasa, in this courtyard of Srivasa
+Gaurachandra dances in sankirtana with Nityananda.
+
+**2450.** The two Lords dance, all around are the devotees;
+that rapture of prema cannot be described.
+
+**2451.** Here Gaurahari, absorbed in the mood of Balarama,
+reveals [it] with reverence before Nityanandachandra.[^12-362]
+
+**2452.** Leaping up, the Lord mounts the cot
+and calls out without stopping, "Varuni! Varuni!"
+
+**2453.** Someone filled a vessel with Ganga water and brought [it];
+all see the Lord as if drinking kadambini.[^12-363]
+
+**2454.** He asks Nityananda for the sacred plough and club;
+Nityananda gave [them] — the fortunate saw it.
+
+**2455.** Here in joy Prabhu, the son of Padmavati,
+beheld the six-armed form of Sri Gaurachandra.[^12-364]
+
+**2456.** Here the Lord called out, crying, "Nada! Nada!" —
+by the word "Nada" He indicated Advaita Acharya.[^12-365]
+
+**2457.** Immersed in the bliss of prema, He says so many things;
+hearing them, the devotees are filled with the greatest joy.
+
+**2458.** Here Nityananda was overwhelmed with prema —
+where did His staff and waterpot end up!
+
+**2459.** In His childlike mood Nityananda is always restless;
+Gaurachandra, holding Him, calms Him.
+
+**2460.** Here at night Nityananda, saying who knows what,
+broke His staff and waterpot and threw [them] down here.[^12-366]
+
+**2461.** Lord Vishvambhara, taking the staff and waterpot,
+gave [them] over to the Ganga — I do not know what He said [then].
+
+**2462.** Taking Nityananda with Him, [He] bathed in the Ganga;
+the fun that was there cannot be told.
+
+**2463.** Taking fragrances, sandal paste and the like, according to various rules
+the Lord here began the Vyasa-puja.
+
+**2464.** What the Vyasa-puja was like I cannot tell;
+I gazed my fill at the delights of the Vyasa-puja.
+
+**2465.** Here the Mother of the world, Shachi Ai,
+seeing Nimai and Nitai, was filled with equal affection [for both].
+
+**2466.** The transformations of bhava that [were] in the sankirtana of the Vyasa-puja —
+when I think of all that, my heart breaks.
+
+**2467.** Here was the eating of the offerings of the Vyasa-puja;
+who can tell what delights there were in it?
+
+**2468.** Here grew a kunda tree, full of beauty;
+in gathering [its] flowers the Vaishnavas had the greatest bliss.[^12-367]
+
+**2469.** O Srinivasa, one day Gaura-raya
+came here in haste from His own house.
+
+**2470.** The Lord, laughing, says to Srivasa,
+"Advaita is coming, bringing the articles for worshipping Me.
+
+**2471.** He wishes to see My majesty."
+Having said this, overcome with prema, [He] roars.
+
+**2472.** O Srinivasa, from here Gaura-raya [goes]
+into this shrine of Vishnu and sits on Vishnu's throne.[^12-368]
+
+**2473.** Surrounding [Him] on all sides, the devotees
+gaze at the Lord's moon-face.
+
+**2474.** Nityananda holds an umbrella over [His] head;
+Gadadhara offers tambula to [His] mouth.
+
+**2475.** All are engaged in service in various ways;
+at that time Advaita arrived.
+
+**2476.** Prostrating himself on the ground, Advaita Gosani approaches;
+the happiness that arose [then] has no end in the telling.
+
+**2477.** He gazes at the Lord's wondrous beauty:
+an effulgence like millions of suns, enchanting the worlds.
+
+**2478.** Gaura's body is adorned with various jewelled ornaments;
+smiling, He plays the flute, standing in tribhanga.[^12-369]
+
+**2479.** Brahma, Shiva, Shesha and the other gods and rishis —
+all offer praises before the Lord.
+
+**2480.** Beholding the Lord's wondrous majesty,
+Advaita Acharya rejoiced in his heart.
+
+**2481.** The Lord says to Advaita again and again,
+"For the sake of your vow is My descent."[^12-370]
+
+**2482.** So many such things, overcome with prema, He says to Advaita;
+hearing them, all the devotees are in great joy of heart.
+
+**2483.** With joined palms Advaita stands;
+the Lord says, "Worship Me together with your wife."
+
+**2484.** Hearing this, Advaita's heart overflowed with bliss;
+he washed the Lord's feet with scented water.
+
+**2485.** Moistening tulasi buds with sandal paste,
+with what longing he places [them] on the Lord's feet!
+
+**2486.** Having performed worship with great care with sixteen offerings,
+he offers praises to the Lord in countless ways.
+
+**2487.** Overwhelmed, he is awash in the tears of [his] eyes
+and falls, rolling, at the Lord's feet.
+
+**2488.** Knowing Advaita's desire, Gaura-raya
+lifted His foot and placed [it] on Advaita's head.
+
+**2489.** When [He] placed His foot on Advaita's head,
+then a great cry of "Jaya! Jaya!" arose.
+
+**2490.** O Srinivasa, here Sri Advaita, at the Lord's command,
+dances in the Lord's sankirtana.
+
+**2491.** Seeing that rapture of prema, who could keep his composure?
+The beauty of that body steals the hearts of all.
+
+**2492.** Fixing his eyes on Sri Gaurachandra's lotus face,
+with who knows what bliss, he cannot hold his heart steady.
+
+**2493.** Unable to keep his composure, he rolls on the ground;
+looking toward Nityananda, he is awash in tears.
+
+**2494.** The ways of Advaita Acharya — who can understand them?
+After a while, by the Lord's will, he became calm.
+
+**2495.** Gauranga, giving Advaita [His] garland,
+says again and again, "Ask a boon, ask a boon!"[^12-371]
+
+**2496.** Advaita says, "I have attained every perfection";
+and saying, "Be merciful to the living beings," he chose this boon.
+
+**2497.** All that was spoken between Sri Advaita and Vishvambhara —
+who can understand the inner meaning of all those words?
+
+**2498.** All were immersed here in great bliss,
+hearing the words full of prema of Nityananda and Advaita.
+
+**2499.** Along this path Prabhu Gaurachandra went home;
+Nityananda stayed in Srivasa's house.
+
+**2500.** With his companions Advaita went to his own abode;
+look, here is Advaita's abode, full of beauty.[^12-372]
+
+**2501.** The devotees happily went to their own homes;
+what I saw — how can I tell it with one mouth?
+
+**2502.** O Srinivasa, by Gaurachandra's will
+devotees, coming from afar, gather in Nadia.
+
+**2503.** Pundarika Vidyanidhi, drawn by the Lord,
+with a mind burning with eagerness to see the Lord,
+
+**2504.** with many people, Vidyanidhi, [coming] from Vanga
+to Nadia, went along this path to [his] house.
+
+**2505.** Sri Mukunda, a resident of the same village, rejoicing,
+came here and met Sri Vidyanidhi.[^12-373]
+
+**2506.** This is the abode of Pundarika Vidyanidhi,
+for whom the son of Sri Shachi wept.
+
+**2507.** He is a supreme Vaishnava; how would others understand [it]?
+Only Sri Mukunda and Vasudeva Datta know [him].
+
+**2508.** What his outward conduct is like — what shall I say of it?
+Dressed like a prince, he sits here.
+
+**2509.** Hearing that [he was] a supreme Vaishnava, Pandita Gosani[^12-374]
+came here with Mukunda to see him.
+
+**2510.** He did not know Sri Vidyanidhi's inner state:
+at the first sight [he] formed the notion — "a worldly Vaishnava."[^12-375]
+
+**2511.** Understanding Gadadhara's heart, Mukunda, finding a way,
+reveals what lay in Vidyanidhi's heart by means of a verse.
+
+**2512.** *Thus [it is said] in the Srimad-Bhagavatam, in the Third Canto (3.2.23):*
+*"Oh, wonder! He whom Baki, wishing to kill [Him], made drink*
+*the deadly poison of her breast — [from Him] she, though wicked,*
+*attained the destination befitting a nurse; other than Him,*
+*to what other merciful [Lord] shall we go for shelter?"*[^12-376]
+
+**2513.** *And in the same [work], in the Tenth [Canto] (10.6.35):*
+*"Putana, the killer of the world's children, the rakshasi who fed on blood,*
+*though wishing to kill [Him], gave her breast to Hari — and attained the good destination."*[^12-377]
+
+**2514.** Hearing the shlokas, Vidyanidhi, his heart losing all composure,
+says again and again: "Speak on, speak on, Mukunda!"
+
+**2515.** Trembling, sweat, thrills, hunkaras — beyond measure;
+he weeps, streams flow from both his eyes.
+
+**2516.** Flinging his body down, he falls upon the ground;
+from the blows of his feet the bed and everything else flew far away.
+
+**2517.** Of all his fine attire not a trace remained;
+his beautiful body became grey with dust.
+
+**2518.** He rolls about on the ground, lamenting so much —
+who, seeing that absorption in bhava, could keep his composure?
+
+**2519.** Here he fell into a swoon;
+regaining consciousness, after some time he grew calm.
+
+**2520.** Seeing [this], Gadadhara Pandita was greatly amazed;
+his body was drenched with his own tears.
+
+**2521.** He says to Mukunda: "I have committed an offence;
+you have saved me," — and praised him so much.
+
+**2522.** The offence would go if he became his disciple —
+informing the Lord [of this], he became his disciple.
+
+**2523.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Madhya-khanda:*
+"At Gadadhara's words the Lord was pleased;
+He began to say, 'Quickly, quickly!'"
+
+**2524.** Then Sri Gadadhara, from Premanidhi,
+gladly received initiation into the mantra himself.
+
+**2525.** What more can I say of Pundarika's greatness,
+whose disciple is Gadadhara: this is the limit of his bhakti!
+
+**2526.** A worthy guru, Pundarika; the disciple, Gadadhara;
+both are the body of Sri Krishna Chaitanya.[^12-378]
+
+**2527.** O dear Srinivasa, what can I say of this?
+Gadadhara Pandita became [his] disciple here.
+
+**2528.** When [he] was becoming a disciple, Mukunda and the other Vaishnavas —
+all were overwhelmed in great prema.
+
+**2529.** Hearing of this, Nityananda-Haladhara
+laughs softly, softly, with great joy in His heart.
+
+**2530.** Who can understand Nityananda's nature?
+Always in the mood of a child He stays in Srivasa's house.
+
+**2531.** Srivasa's wife, Sri Malini, devoted to her husband,
+always serves Nityananda as a mother serves her son.
+
+**2532.** He Himself does not eat, taking up food with His own hand;
+with a mother's love Malini joyfully feeds [Him].
+
+**2533.** What Srivasa's love for Nityananda is like —
+no one else has the power to tell it.
+
+**2534.** The Lord tested Srivasa's heart;
+knowing [his] deep attachment, He gave [him] a boon and entrusted [Nityananda to him].[^12-379]
+
+**2535.** Nityananda in the mood of a child roams through Nadia;
+He goes to the houses of Gangadasa and Murari Gupta.
+
+**2536.** From there, swimming in the Ganga with great delight,
+He comes running joyfully to see Ai.
+
+**2537.** How Ai loves Nityananda with a mother's love —
+when I think of all that, this heart of mine breaks.
+
+**2538.** O Srinivasa, how much shall I tell you?
+The wondrous ways of the Lord I saw here.
+
+**2539.** With Nityananda, Advaita, Gadadhara and others,
+setting out from His own house, He comes in great delight.
+
+**2540.** There is no limit to the beauty of the Lord with [His] associates;
+entering Srivasa's house, He sits down at this spot.[^12-380]
+
+**2541.** Look: here is Srivasa's lovely courtyard;
+here Vishvambhara began the sankirtana.
+
+**2542.** Srivasa, Mukunda and Sri Govinda Datta —
+all of them, with their [singing] groups, became intoxicated with sankirtana.[^12-381]
+
+**2543.** Nityananda, Advaita, Gadadhara, full of prema —
+all of them, beside themselves, behold the Lord's dance.
+
+**2544.** In the sankirtana Shachi's son dances;
+from the blows of [His] feet the earth trembles without pause.
+
+**2545.** What the beauty of the Lord's fine attire is like, what [His] absorption in bhava is like —
+the wise describe, with boundless joy in their hearts.
+
+**2546.** *Thus [it is said] in a song (raga Gauri):*
+The champaka, gold, flowers, the golden mountain
+the loveliness of Gaura's body has surpassed.
+His lofty neck — no limit [to its beauty] can be grasped;
+His bearing enchants the mind of the world.[^12-382]
+
+**2547.** Glory to the son of Shachi, worshipped in the three worlds,
+who destroys the fear of the deadly serpent of the Kali age! (Refrain.)
+
+**2548.** His body is stirred with abundant thrills,
+His heart overflows with the weight of prema;
+a soft, soft smile, faltering speech —
+how many Mandakinis stream from His eyes![^12-383]
+
+**2549.** He dances [to the song of] His own qualities, His eyes rolling;
+hundreds of devotees, gathered together, sing.
+In that rasa the whole circle of the earth floats, helpless —
+[only] Govindadasa has not touched it.
+
+**2550.** *Again, raga Todi:*
+Gaura dances, overflowing with bhava,
+His body covered with abundant thrills.
+
+**2551.** The moon of His face shines, joined with a smile,
+ceaselessly raining the nectar of rasa in streams.
+
+**2552.** His eyes, surpassing the young dawn, are brimming with moisture;
+He makes so many [graceful] movements, putting Kusumashara to shame.[^12-384]
+
+**2553.** His hands, [like] young shoots — the gestures are exceedingly beautiful;
+with what delight He sets His feet upon the earth!
+
+**2554.** Every moment He is wild, like an intoxicated elephant;
+He glitters — is it a golden mountain?
+
+**2555.** The matchless attire and hair steal the composure of the eyes;
+on all four sides the beloved associates sport in joy.
+
+**2556.** They sing ever newer songs, ever sweeter;
+to hear [them] all the men and women come running.
+
+**2557.** Khamak and mridanga sound delightfully,
+ceaselessly beating out "dha dha dhigi ti."[^12-385]
+
+**2558.** Purandara with the gods proclaims, "Glory, glory!"
+Blessed is the Kali age — [the fortune of other ages] is slight by comparison.[^12-386]
+
+**2559.** All the sinners floated in the ocean of happiness;
+deprived of this is only the foolish Ghanashyama.
+
+**2560.** *Again, raga Nata:*
+Gaurahari dances, the moon of the twice-born line.
+His pair of feet, all-auspicious, removing fear,
+He sets upon the earth with supreme grace.
+
+**2561.** Ceaselessly overflowing with His former bhava,[^12-387]
+His body is thickly covered with thrills, [like] a kadamba [with blossoms].
+Curling hair, a golden sheen, smooth and glossy —
+like a cloud on the peak of a golden mountain.
+
+**2562.** A garland of malati flowers, adorned with bees,
+sways, lovely, hanging and glittering on His chest.
+A snare for Manmatha, a jewel delighting the mind —
+His eyes, [like] a pair of reddish lotuses, tremble.
+
+**2563.** Seeing the matchless dance, the beloved associates
+sing, pouring down sweet, sweet rasa.
+All people are immersed in the ocean of happiness;
+the foolish Narahari, far away, does not touch [it].
+
+**2564.** *Again, raga Ghantarava:*
+Gaura dances, the master of all dancers;
+His matchless movements steal Madana's pride.
+Shattering the pride of the blazing sun,
+with the radiance of His body He lights up all the quarters.
+
+**2565.** Wild, matchless, His roar surpassing a lion's —
+hearing [it], the mighty elephant of Kali is afraid.
+Again and again He leaps; His gait graceful and restless;
+from the blows of His feet the earth shakes.
+
+**2566.** The associates humble the pride of the Kinnaras:
+joyfully they sing, and the nectar of rasa flows.[^12-388]
+Many khols and khamaks sound — the sound
+touches the sky; who can keep his composure?
+
+**2567.** Matchless power — the wicked, trembling,
+take shelter and fall at [His] feet.
+The fame of Narahari's Lord remains, filling the world:
+He ceaselessly distributes the supreme, most rare treasure.
+
+**2568.** *Again, raga Mayura:*
+Today, at the auspicious beginning of the kirtana, Gaurasundara, joyful in the dance,
+shines sweetly amid His skilled associates in Srivasa's courtyard.
+Putting to shame the pride of golden filaments, with the lovely radiance of His body delighting Atanu,
+the lotus-eyed One, glancing restlessly in the four directions, enchants the minds of people.
+
+**2569.** A dancing gait; the soles of His feet very tender; as He keeps the tala, the earth shakes;
+He makes hastakas — swift, well-formed — the splendour of His most graceful bud-like hands.[^12-389]
+His teeth outshine a string of pearls; smiling softly, softly, He rains nectar;
+the sweetness of His lovely face, full of rasa, surpasses a host of autumn moons.
+
+**2570.** Smooth curling hair, gathered up; a fine tilaka and sandal, beautifully applied;
+abundant ornaments; His body sparkles; the curves [of His form] cannot be told.
+To the Lord's left is Gadadhara Pandita, to the right the handsome Nitai,
+in front Sri Advaita; seeing [Him] wild, the gods come running.[^12-390]
+
+**2571.** Vasudeva, Srivasa, Nandana, Vijaya, Vakreshvara, Narayana, Gopinatha, Mukunda, Madhava — these wondrous masters sing.
+Rama on the left; Garuda, Govinda and others play the mardala: "dhiki ta ta dhik, dhini-nini-nini-ni."[^12-391]
+Narahari says: the sound of "Glory, glory!"
+filled the world.
+
+**2572.** *Again, raga Dhanashri:*
+In Srivasa's courtyard, to a charming measure,
+Chaitanya-raya dances.[^12-392]
+Humans and gods, men and women —
+all come running to see.
+
+**2573.** The circle of devotees sings auspicious [songs],
+khol and karatalas sound.
+In the midst, wild, Nitai dances,
+intoxicated with the bhava of [His] Brother.
+
+**2574.** His arms, surpassing golden pillars, beautifully rounded,
+His waist surpassing a lion's.
+In His moon-like face is the abode of Madana;
+an appearance enchanting the world.
+
+**2575.** I do not know how many men and women of the fourteen worlds,
+gazing and gazing at [His] form, weep.
+He roars again and again, leaps over and over,
+and, taking the guise of a wrestler, dances.[^12-393]
+
+**2576.** With reddish eyes, pouring down prema,
+He drenches the circle of the earth.
+Upon the circle of the earth a downpour of prema
+has Avadhutachandra released.
+
+**2577.** The lord of Shantipura roars ceaselessly,
+seeing the transformations of prema;
+clasping [His] holy feet, he weeps,
+magnanimous, [in a voice faltering with feeling].[^12-394]
+
+**2578.** Mukunda, full of eagerness, weeps, sobbing,
+embracing Gadadhara.
+Prema flows from the eyes; Thakura Abhirama
+again and again [cries], "Hari, Hari!"
+
+**2579.** They know neither day nor night, floating in the rasa of prema —
+all the companions.
+For Vrindavana Dasa, prema is revealed
+by the lotus feet of Nitai.
+
+**2580.** O Srinivasa, in this courtyard of Srivasa,
+the dancing and kirtana — who could describe [them]?
+
+**2581.** How many people fitted [here] — there is no counting;
+what can I say — wondrous is the power of this courtyard!
+
+**2582.** Unable to get into the kirtana, [for] the gates were shut,
+how many hundreds of people here are dying, pining![^12-395]
+
+**2583.** In the sankirtana the night passed to the third prahara;
+no one's body grew weary.
+
+**2584.** Everyone supposes it is the third prahara of the night;
+how many yugas passed in it — that [they] do not know.
+
+**2585.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Madhya-khanda:*
+"[It was] a year in name only: how many yugas passed!
+In the bliss of absorption in Chaitanya [they] noticed nothing."
+
+**2586.** *Thus [it is said] in the Sri Chaitanya-charita, in the second prakrama:*
+*Thus the Lord, Murari, spent the whole night for the delight of the minds of His own people;*
+*the long [time, as long as] a year, the best of the noble ones took for a moment, and attained unceasing happiness.*[^12-396]
+
+**2587.** In the sankirtana, in a wondrous absorption in bhava,
+the Lord called the devotees by their former names.
+
+**2588.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Madhya-khanda:*
+"Looking at all the Vaishnavas one by one,
+the Lord, absorbed in bhava, calls [them], naming [them] by their former names."
+
+**2589.** In whatever bhava the Lord manifested whatever —
+what to speak of others: at that, wood and stone melted.
+
+**2590.** Nityananda, Advaita, Gadadhara and all the rest —
+what shall I say of what they all became?
+
+**2591.** O Srinivasa, by the order of Gaurachandra
+the kirtana grew still at the end of the night.
+
+**2592.** The Lord, absorbed in bhava, again looks in all four directions;
+with the shalagrama-shila in His lap He sat on the couch.[^12-397]
+
+**2593.** Having said much to the devotees, Gaura, the treasury of virtues,
+partook of yogurt, milk, fresh butter, and the like.
+
+**2594.** How [all] went on with the devotees in the mood of servitude,[^12-398]
+how that absorption was — that cannot be described.
+
+**2595.** Sri Murari Gupta, with great joy in his heart,
+staying here, gazes at the beauty of the Lord.
+
+**2596.** Gora, the life of Janaki, says to Murari,[^12-399]
+"Let Me hear verses composed by you."
+
+**2597.** Sri Murari Gupta recites the *Ramashtaka*;
+hearing it, [the Lord], in the mood of Rama, is gracious to Murari.
+
+**2598.** Smiling gently, gently, in great bliss He praises [him]
+and writes on his forehead the name "Ramadasa."[^12-400]
+
+**2599.** The account of that *Raghunathashtaka* is very sweet:
+from one who hears it all sufferings go far away.
+
+**2600.** *Thus [it is said] in the Sri Chaitanya-charita, in the third prakrama:*[^12-401]
+*Then the Compassionate One said to Murari, "Recite yourself*
+*your poetry." Hearing this, he recited [it] in auspicious syllables.*
+
+**2601.** *Now, the ashtaka:*[^12-402]
+*Him whose radiance of the jewels of the shining crown illumines the quarters,*
+*who wears two earrings like rising Brihaspati and Kavi,*
+*whose face is like the moon without a spot —*
+*Rama, the guru of the three worlds, I constantly worship.*
+
+**2602.** *With eyes like lotuses opened by the rays of the rising sun,*
+*with lips [like] beautiful bimba fruits, with a lovely nose,*
+*with a charming smile that has conquered the rays of the moon —*
+*Rama, the guru of the three worlds, I constantly worship.*
+
+**2603.** *Him with a neck [like] a conch, the Unborn, whose form is like a lotus,*
+*shining, wearing strings of pearls and golden necklaces,*
+*like a cloud joined with lightning and flocks of cranes —*
+*Rama, the guru of the three worlds, I constantly worship.*
+
+**2604.** *The lotus resting on her upturned palm with her excellent fingers*
+*turning into [a lotus] of a hundred and five more petals,*
+*Sita, shining like gold, stands at His side —*[^12-403]
+*that best of the Raghus I constantly worship.*
+
+**2605.** *Before Him is the best of archers, his body shining like gold,*
+*devoted to serving his elder brother, rich in excellent ornaments,*
+*the great splendour called Shesha, who bears the name Lakshmana —*
+*Rama, the guru of the three worlds, I constantly worship.*
+
+**2606.** *Him who is the moon [risen] from the ocean of the dynasty of the Raghava kings,*
+*who, having slain the rakshasas Maricha, Subahu, and others,*
+*protected the sacrifice — the heap of merit of the descendant of Kushika —*[^12-404]
+*Rama, the guru of the three worlds, I constantly worship.*
+
+**2607.** *Having slain Khara and Trishiras with [their] host, [and also] Kabandha,*
+*having made the holy Dandaka forest free of Dushana,*[^12-405]
+*He made friendship with Sugriva, killing [his] enemy —*
+*that Raghava, the slayer of the Ten-faced, I worship.*
+
+**2608.** *Having broken the Pinaka, He performed with the daughter of Janaka*
+*the rite of the wedding festival; on the road the lord of the Bhargavas*
+*having conquered, the best of the Kakutsthas brought joy to his father —*
+*Rama, the guru of the three worlds, I constantly worship.*
+
+**2609.** *Having thus heard the eight shlokas on Raghunandana, the lion among kings,*
+*the Lord, [His] foot on the head of the physician Murari*
+*placing, wrote on [his] forehead:*
+*"O, by My mercy be you 'Ramadasa'!"*
+
+**2610.** What shall I say? Seeing such great mercy to Gupta,
+the devotees rejoiced greatly in their hearts.
+
+**2611.** At daybreak the Lord went to His own house;
+the devotees went each to his own home.
+
+**2612.** What shall I say? He always sports with the devotees;
+constantly absorbed in bhava, He cannot become calm.
+
+**2613.** The Lord's holy absorption is beyond the reach of others;
+day and night His body is drenched with the tears of His eyes.
+
+**2614.** One day, by this road, with the assembly of devotees,
+He goes from the house to the bank of the Ganga in great delight.
+
+**2615.** At the Lord's command, here the dear devotees
+began a sankirtana rare [even] for the gods.
+
+**2616.** In absorption He goes dancing among the devotees;
+who does not sing of the Lord's wondrous deeds?
+
+**2617.** *Thus [it is said] in a song (raga Shri):*
+The golden body that steals the heart joyfully roams with the devotees,
+with a grace that enchants Madana.
+The body that robs gold of its colour — a fresh cloud of compassion has filled [the world],
+the friend of the burning world.
+
+**2618.** Now weeping, now laughing, [His] colour changes, [His] speech is sorrowful,
+in His eyes an ocean of tears.
+Day and night He is overwhelmed by bhava, rows of hairs standing on end [like] nipa flowers,
+His face an autumn moon.
+
+**2619.** His sweet words have conquered nectar; on His reddish feet the jingle of anklets;
+He walks slowly, slowly.
+The whole world floats in bliss; Govindadasa hopes
+for a drop of the ocean of prema.
+
+**2620.** *Again, raga Todi:*
+Behold, Gaurachandra manifest, surrounded by the host of stars — the devotees,
+illumining the whole world with the lustre of kunda and gold.
+For the helpless and fallen [He is] the friend of the kumudas [— the moon]; seeing [Him], the ocean of rasa surges;
+dispelling the darkness in the cave of the heart, [He] has risen both day and night.
+
+**2621.** His body, naturally beautiful and sweet, in bliss upon bliss knows no restraint;[^12-406]
+swaying, swaying, swaying, He walks and plays like a maddened king of elephants.
+Engaged in dance He is lost to Himself, [saying] "Mukunda, Madhava, Govinda!" —
+He weeps, laughs, falls to the ground; rows of hairs standing on end shine.
+
+**2622.** Who can tell the glory of [His] glory? His own and others He seizes and embraces;
+joyfully raining the nectar of prema — and the thirsting earth became intoxicated.[^12-407]
+
+**2623.** In that rasa the high and the low float; Govindadasa alone is deprived:
+who knows at what moment who fashioned [his] chest, hard as wood!
+
+**2624.** *Again, raga Ashavari:*
+The son of Shachi, Gaurasundara, the enchanter of the mind, dances.
+So many, so many mridangas sound, beating out "dhi-dhi-kata dhilanga";
+they sing sweet melodies; the movements of [His] limbs
+are supremely beautiful. (Refrain.)
+
+**2625.** Incomparable rasa rejoices today: He sports among the dear devotees;
+His most graceful attire sparkles, robbing young women of their composure.[^12-408]
+Lovely hair adorned with flowers; earrings in the ears, cheeks [like] mirrors;
+tilaka on the forehead, charming brows — bees, eyes — lotuses.
+
+**2626.** The nostrils — an abode of fragrance; the face puts a host of moons to shame;
+a gentle, gentle smile, teeth [like] kunda [buds], sweet speech.
+The neck takes away the burden of Madana's pride; the two arms surpass an elephant's trunk;
+soft armpits, a broad chest, an incomparable garland swinging.
+
+**2627.** The navel shines, encircled by three folds; the line of hair — [like] a serpent;
+the slender young waist with its girdle breaks the pride of the lion.
+He wears excellent garments and attire; even Shesha cannot describe the thighs;
+the soles of the feet of Narahari's Lord put the young dawn to shame.
+
+**2628.** O Srinivasa, the Lord on the bank of the Suradhuni,
+immersed in the bliss of sankirtana, walks slowly, slowly.
+
+**2629.** He reveals the good fortune of the Ganga to the utmost:
+with His associates He sports on the bank of the Ganga.
+
+**2630.** *Thus [it is said] in a song (raga Natta):*
+On the bank of the river of the gods sports Gaura, in unchanging youth;
+the lustre of [His] body crushes the pride of lightning, gold, and kunkuma.
+His moon-like face torments Madana; [He is] a snare for the eyes of all young women;[^12-409]
+when He laughs, the rows of His teeth shine — a line of kunda flowers.
+
+**2631.** Of the colour of collyrium and massed clouds, the curling hair steals composure;
+the attire is spotless, the clusters of locks shine incomparably.
+The tilaka on the forehead sparkles brightly; the brows move charmingly, [like] serpents;
+the restless glance, the corner [of the eye] tinged with rasa — an abode of beauty.
+
+**2632.** Earrings adorn the ears and cheeks; the neck is encircled by a forest garland;
+the arms are long, bracelets on the wrists — so tender, I offer myself [to them]!
+The broad, excellent chest is incomparable — it ruins so many hosts of virtuous wives;
+the graceful, very slender waist humbles the pride of the lion.
+
+**2633.** The arms sparkle, the knees are youthful, the feet [shine] with rays [like] rows of dawns;
+in the weight of the sweet fragrance of [those] lotuses the devotee-bees are entranced.
+A cloud of compassion, known to the whole world, ever raining the nectar of prema,
+[yet] Narahari's mind is very dull — it does not touch [it] in the least.
+
+**2634.** *Again (raga — the name is unclear):*[^12-410]
+The bank of the Suradhuni is a supremely pure place;
+there all the generous devotees rejoice.
+They sing so many, so many nectarean songs,
+they play instruments of every kind.
+
+**2635.** The jewel of virtues, young Gaura, dances.
+Smeared with sandal, [His] limbs are very lovely;
+wondrous beauty — the thief of the minds of women. (Refrain.)
+
+**2636.** The eyes — petals of a spotless lotus — are brimming [with lustre];
+the play of the brows, the fresh play of the locks.
+The face puts to shame a host of autumn moons;
+the smile crushes the pride of millions of Madanas.
+
+**2637.** Restless, graceful, on the broad chest
+sparkles a necklace of jewels that surpasses lightning.
+When the feet of Narahari's Lord keep the beat,
+then what a sweet sound — the jingling of the anklets!
+
+**2638.** *Again, raga Vasanta:*
+On the bank of the Suradhuni, young trees and creepers,
+ever new, new shoots, flowers blossoming.
+Enchanted by the fragrance, swarms of bees hum;
+cuckoos and parrots flit about on all sides.
+
+**2639.** There dances the dancer, young Gaura.
+Smeared with saffron, musk, and sandal,
+[His] body, red with phagu, shines all the brighter. (Refrain.)
+
+**2640.** Incomparable attire, garments, jewelled ornaments;
+the lovely, swaying forest garland sparkles.
+New graceful movements enchant the minds of the world;
+again and again He keeps the beat with His soles.
+
+**2641.** The associates sing supremely sweetly;
+beholding the moon of [His] face, [they are] in unbroken joy.
+The gods in the sky, absorbed [in bliss], cry, "Jaya, jaya!";
+Narahari plays the sweet mridanga.
+
+**2642.** *Again, raga Vasanta:*
+Today on the bank of the Suradhuni beautiful Gaura is lost in dance;
+[His] body, smeared with drops of phagu and fragrant sandal, shines.
+
+**2643.** On the forehead sparkles incomparable tilaka; a graceful mass of hair;
+the earrings in the ears adorn the cheeks; the play of the brows is boundless.
+
+**2644.** Restless eyes — lovely lotuses; the radiance of the face conquers the moon;
+red lips, a lovely smile — soft, soft; the teeth put pearls to shame.
+
+**2645.** The arms — golden lotus stalks; the broad chest subdues Manmatha;
+on the neck a garland of malati, charmingly made, colourful, swaying.
+
+**2646.** A slender waist, [a girdle] studded with kinkini bells; He wears beautiful garments;
+the jingling of the anklets on His feet is incomparable, [surpassing] the pride of every adornment.[^12-411]
+
+**2647.** Seeing the wondrous beauty, the associates are absorbed [in it]; there is no end to [His] virtues;
+they play the jhanjh, the muraja, and the mridanga, and sing the raga Vasanta.
+
+**2648.** Hearing [this], the gods in the vault of heaven cannot keep their composure;
+running, running, from all sides come the young men and women of the town of Nadia.
+
+**2649.** Cries of "Jaya, jaya!" fill the whole world; the stream of prema overflows;
+Narahari says: blessed is the Kali-yuga — in it the Lord of Gokula sports.
+
+**2650.** Having enjoyed His pastimes on the bank of the Suradhuni, the Lord
+went by this road to His own house with the devotees.
+
+**2651.** One day the Lord, in great delight,
+came to Srivasa's house by this road.
+
+**2652.** Look, Srinivasa, here is Srivasa's house:
+here the Lord sits with His dear associates.
+
+**2653.** Without sri-kirtana nothing pleases the Lord;
+by sri-kirtana the Lord awakens joy in everyone.
+
+**2654.** Others cannot know the Lord's heart;
+the Lord looks in all directions with a gracious glance.
+
+**2655.** Understanding the Lord's hint, those dear to the Lord
+quickly make preparations for the abhisheka.
+
+**2656.** With joy in their hearts, all bring Ganga water;
+Mukunda and others sing songs of the Lord's abhisheka.
+
+**2657.** Here, seating Gaurachandra on a throne,
+they perform the abhisheka by a most wondrous rite.
+
+**2658.** *Thus [it is said] in a song (raga Suhai):*
+The sound of conches and dundubhis rings out resoundingly;[^12-412]
+the companions perform the abhisheka of Gorachand.
+
+**2659.** Fragrances, sandal, the [sandal] stone, incense, lighted lamps —[^12-413]
+all the women of the town prepare platters for the arghya.
+
+**2660.** All the people of Nadia, seeing [this], are in bliss;
+crying "Jaya, jaya, jaya!", some sing songs.
+
+**2661.** [All] gaze intently at the face of Gaurangachand;
+of the rasa of Gora's abhisheka Vasu Ghosha sings.
+
+**2662.** *Again, raga Mayura:*
+Today — the very limit of the joy of the abhisheka: on the throne sits Gora, the treasury of virtues;
+at the incomparable beauty of [His] grace no one on earth can keep composure.
+The glossy curling hair is lovely on His head; falling down His back, its lustre enchants the mind —
+as if on the peak of a golden mountain the stream of the Yamuna were beautifully flowing.
+
+**2663.** The spotless body sparkles, taking away the pride of so many hundreds of Manmathas;
+who would not lose himself, glancing even once at the moon of the face smeared with smiles?
+Reciting the abhisheka mantras again and again, Nityananda and Advaita, with joy in their hearts,
+Srivasa and others, taking pitchers in hand, pour scented water on the Lord's head.
+
+**2664.** Jagadisha, Vasudeva, Narayana, Mukunda, Madhava, skilled in singing,
+with shrutis, jatis, the varieties of svaras, in many talas, sing [the song] of the abhisheka, like nectar.
+Govinda and Govindananda play the khol — "dha-dha dhik-dhik dheya" — in many ways;
+Vakreshvara dances in a most sweet rhythm; from someone's eyes flow streams of bliss.
+
+**2665.** The gods with their hosts, unseen, enchanted by the joy of the abhisheka,
+shower flowers [on Him] layer upon layer, crying "Jaya, jaya!", the hairs on their bodies standing on end.
+The chaste wives again and again raise joyful cries — the greatest delight;
+what ever-new auspicious rites! Seeing [this], Narahari's heart surges with joy.
+
+**2666.** *Again, raga Dhanashri:*
+What bliss in Srivasa's house!
+Those dear [to Him] perform the Lord's abhisheka.
+
+**2667.** Seating [Him] on a golden throne,
+they bring scented water, rejoicing.
+
+**2668.** Having recited the abhisheka mantras,
+they pour water on the Lord's head, filling the pitchers.
+
+**2669.** The women cry "ulu-lu-lu";
+the sounds of many instruments ring out, piercing the sky.
+
+**2670.** All sing the songs of the abhisheka;
+the eyes ceaselessly swim in streams of bliss.
+
+**2671.** The gods, crying "Jaya, jaya!",
+dance, with what longing beholding the abhisheka.
+
+**2672.** The beauty of the abhisheka is enchanting;
+the tender body shines.
+
+**2673.** Narahari offers himself [for Him];
+at the nectarean face Madana swoons.
+
+**2674.** O Srinivasa! What can I say with one mouth?
+Who was not intoxicated with the joy of the Lord's abhisheka?
+
+**2675.** How many pots of water each one brought is beyond counting;
+the Lord smiles gently, gently, looking at everyone.
+
+**2676.** Srivasa's maidservant, named "Duhkhi," brings water;
+seeing her devotion, the Lord gave her the name "Sukhi."[^12-414]
+
+**2677.** The beauty of the abhisheka has no comparison;
+the devotees watch, standing on all sides.
+
+**2678.** Someone, with joy in his mind, taking a towel,
+wipes the Lord's body once the bath is complete.
+
+**2679.** Someone, taking fine, new, dry cloth,
+dresses the Lord — how the joy increases!
+
+**2680.** Someone applies most fragrant sandal paste to [His] body;
+having adorned [Him] with ornaments, he gazes at the moon-face.
+
+**2681.** Right here, having prepared it, they set up Vishnu's throne;
+on it sits Lord Gaurahari.
+
+**2682.** Over the Lord's head Nityananda-raya holds the umbrella;
+in supreme bliss someone fans [Him] with a chamara.
+
+**2683.** Someone showers [Him] with flowers with joy in his mind;
+all behold the beauty, standing all around.
+
+**2684.** In various ways all worshipped the Lord,
+and all offer praise, bowing down on the ground.
+
+**2685.** All feed the Lord various foods;
+Gaura-raya, asking the devotees for their offerings, eats [them].
+
+**2686.** Who will understand the inner meaning of the bhavas of Sri Gaurachandra?
+Absorbed in bhava, He tells of the births and deeds of all.
+
+**2687.** To Srivasa, Advaita, Gangadasa and Haridasa
+the Lord, in sweet words, tells of [their] past.
+
+**2688.** Hearing all this, all are awash in tears;
+falling at the Lord's feet, they offer so much praise.
+
+**2689.** Thus, to whichever devotees He told of their births and the rest,
+hearing [it], all of them rejoice greatly at heart.
+
+**2690.** To Shridhara the khola-seller the Lord gave a boon;
+in supreme delight Shridhara offered praise.[^12-415]
+
+**2691.** By the Lord's order all, as many as there were, ask for boons,
+and the son of Shachi gave boons to all.
+
+**2692.** As He had shown mercy to whichever devotees in whichever avataras,
+so the Lord appeared visibly before those very devotees.
+
+**2693.** To Sri Murari Gupta the Lord gave darshana:
+Rama, dark as a blade of durva grass, Janaki, Lakshmana.
+
+**2694.** Murari, seeing Sri Rama, Lakshmana and Sita,
+overjoyed, sees himself as Hanuman.
+
+**2695.** Hearing Murari's praise, the Lord rejoiced;
+the name "Murari-vallabha" became manifest.[^12-416]
+
+**2696.** To Mukunda the Lord showed mercy through punishment;
+it became known: "Mukunda is dear to the Lord."[^12-417]
+
+**2697.** In the mood of the "seven praharas" — wondrous pastimes;
+all the dear servants of the Lord watch, filling their eyes.
+
+**2698.** The Four-faced, the Five-faced and the other gods,
+remaining unseen, all behold [it].
+
+**2699.** What can I say with one mouth, O Srinivasa!
+Staying here, I saw the Lord's pastimes.
+
+**2700.** In Srivasa's house there is no limit to the joy;
+when the bhava subsided, the Lord sits in this very spot.
+
+**2701.** The way Nityananda behaved at Gauranga's word —
+at that Gadadhara and the others were delighted.
+
+**2702.** Leaving Nityananda in Srivasa's house,
+the Lord with His associates went along this path to His own home.
+
+**2703.** Who can understand the deeds of Nityananda?
+Seeing Sri Malini distressed, [He] asked her.[^12-418]
+
+**2704.** "A crow has carried off the brass bowl for ghee,"
+Sri Malini-devi told Nityananda.
+
+**2705.** Smiling, Nityananda gave an order to the crow,
+and the crow, bringing the bowl, set [it] before Malini.
+
+**2706.** Seeing Nityananda's power, the virtuous [Malini],
+gazing at Nityananda, offered much praise.
+
+**2707.** One day along this path Nityananda-raya
+went to see Ai, with joy in His heart.
+
+**2708.** One day Nityananda, together with Haridasa,
+comes along this path from the house of Sri Shachi.
+
+**2709.** By the Lord's order, in Nadia, from house to house,
+"Worship Krishna!" — this is the alms [they] beg of everyone.
+
+**2710.** Well-mannered people rejoice at heart at these words;
+the pashandas laugh inwardly in all sorts of ways.
+
+**2711.** Along this path [they] go to where Jagai and Madhai are,
+and instruct them: "Worship Krishna, you two brothers!"
+
+**2712.** Hearing [this], the two drunkards, great villains,
+who had been lying [on the ground], got up and shout, "Beat them, beat them!"
+
+**2713.** He whom Brahma and the other gods do not attain in meditation —
+such a Nityananda the two rush to seize.
+
+**2714.** How much can be told of the deeds of Jagai and Madhai?
+Chitragupta cannot write down all their sins.[^12-419]
+
+**2715.** Brahmanas [by birth], they were ruined by bad company;
+Navadvipa and [the whole region] tremble with fear — such villains were they.
+
+**2716.** In great anger, speaking harsh words, with a thunderous blow
+here [they] drew blood on Nityananda's head.
+
+**2717.** Nityananda's body cannot be cut and cannot be pierced;
+that blood was shed from it — what wise man can understand this?
+
+**2718.** The Lord with His associates, coming here from home,
+summoned the disc to destroy the great robbers.
+
+**2719.** Nityananda revealed Himself as supremely merciful:
+from the Sudarshana disc He protected them.
+
+**2720.** The Deliverer of the fallen, Nityananda, showed mercy:
+He delivered the two sinners, Jagai and Madhai.[^12-420]
+
+**2721.** Having given the two a devotion rare [even] for the gods,
+the Lord took the sins of both upon Himself.[^12-421]
+
+**2722.** He counted the two among His own associates
+and plunged [them] into the ocean of the joy of sankirtana.
+
+**2723.** In heaven, on earth and in the underworld this cry arose:
+"Gaura, the jewel of virtues, has delivered the two daityas!"
+
+**2724.** Everyone's fear was dispelled; with joy in their hearts,
+who does not run to look at Jagai and Madhai?
+
+**2725.** *Thus [it is said] in a song (raga Gurjari):*
+What joy today in the town of Nadia!
+To see the two, Jagai and Madhai,
+they run from all sides — so many men and women! —
+and say so many things to one another.
+Someone says, sitting well apart:
+"There, look, look — look at the two:
+their radiance has now become like the sun's —
+where have those sinful bodies gone?"
+
+**2726.** Someone says, "Ah, how wonderful, how wonderful!
+Overflowing with bhava, they sit down again and again,
+weeping, they spring up, streams of tears run from their eyes —
+they cannot check [them], they cannot keep their composure."
+Someone says, "Here, look — it is matchless:
+their bodies thrill, they tremble again and again;
+grey with dust, falling on the ground,
+they roll about — they remember nothing."
+
+**2727.** Someone says, "Gazing at Gora's moon-face,
+in what happiness, I know, they are floating!
+Intoxicated with drinking the nectar of [His] smile,
+rolling about, they fall at [His] feet."
+Someone says, "Look at Nitaichand:
+gazing [at Him], how they grieve within their hearts,
+touch [His] two feet with their hands
+and perform [their] abhisheka with the tears of their eyes."
+
+**2728.** Someone says, "Look: the ascetic Advaita,
+Gadadhara, Srivasa and the others — going up to them,
+in matchless joy, blossoming [with delight], they go about,
+taking the dust of everyone's feet."
+Someone says, "With what a stricken heart,
+standing to one side, holding straw between their teeth,
+'O Lord of Narahari, together with Your associates,
+show mercy!' — they say, raising both arms."
+
+**2729.** The merriment there was in delivering Jagai and Madhai —
+even with a thousand mouths I could not tell it.
+
+**2730.** The cry "Victory, victory, victory!" filled the world;
+in heaven the gods dance in great bliss.
+
+**2731.** Unseen, [they] shower flowers without end;
+Narada and the others sing of the Lord's boundless mercy.
+
+**2732.** Sri Gaura-raya is the merciful avatara:
+the most wretched He plunges into the ocean of happiness.
+
+**2733.** Together with all, absorbed in sankirtana, Gaurahari
+went to His own home — the people watch, filling their eyes.
+
+**2734.** What can be said? The two, Jagai and Madhai,
+are great experts in acquiring the jewel of bhakti.
+
+**2735.** At daybreak the two, having bathed in the Ganga,
+chant two hundred thousand names of Hari in solitude.
+
+**2736.** The two brahmanas are most worthy and supremely righteous;
+who in Navadvipa does not praise the two of them?
+
+**2737.** Look, this is the place where Jagai and Madhai lived;
+by seeing this place a sinner obtains deliverance.
+
+**2738.** Sri Madhai, by the order of Prabhu Nityananda,
+having become humble, builds a ghat on the Ganga.
+
+**2739.** Bowing down to everyone who goes to bathe in the Ganga,
+with humility, weeping and weeping, he begs [forgiveness].
+
+**2740.** Who, hearing of Madhai's humility, does not weep?
+Everyone wishes Madhai well.
+
+**2741.** Whoever sees this ghat of Madhai
+obtains bhakti, and the bonds of samsara are cut.[^12-422]
+
+**2742.** The austerity of Madhava cannot be described;
+in Nadia he became famous as "Madhava Brahmachari."[^12-423]
+
+**2743.** One day the Lord, from His own home, merrily
+went along this path to Srivasa's house with the devotees.
+
+**2744.** Srivasa in his joy could not keep his composure —
+he sank into the wondrous ocean of the Lord's mercy.
+
+**2745.** Here Gaurachandra dances in sankirtana
+and says to everyone, "Why does no happiness arise?"
+
+**2746.** Hearing the Lord's words, Srivasa Pandita,
+anxious, looks around on all sides.
+
+**2747.** Srivasa's mother-in-law, covering her head with a basket,
+was hiding in the corner of this room.[^12-424]
+
+**2748.** Srivasa, having lost outer consciousness, maddened in absorption in Krishna,
+dragged her out of the house, seizing her by the hair.
+
+**2749.** The Lord says, "Now happiness arises in the mind."
+All became wildly intoxicated with sankirtana.
+
+**2750.** One day, when the Lord had fainted here in prema,
+Advaita, taking the dust of [His] feet, smears [it] on his body.
+
+**2751.** Regaining outer consciousness, the Lord dances in sankirtana
+and says to everyone, "Why does no happiness arise?"
+
+**2752.** "I do not know where an offense has occurred."
+Looking toward Advaita, He understood everything.
+
+**2753.** The very mighty Lord, seizing Advaita,
+took Advaita's feet and rubs [them] on His own head.
+
+**2754.** Absorbed in sankirtana, the Lord sits on this couch;
+having gathered alms, Shuklambara came here.
+
+**2755.** With great love the Lord, putting His hand into that bag,
+eats the rice, calling him "Sudama."[^12-425]
+
+**2756.** Showing so much humility, Shuklambara Brahmachari,
+with the bag on his shoulder, dances charmingly in the kirtana.
+
+**2757.** Seeing Shuklambara's acts of prema,
+the bliss in the heart of the Lord and His associates grows.
+
+**2758.** Having sported thus in the house of Srivasa, the Lord,
+after going to His own house, sets out to wander through the town.
+
+**2759.** Here Vishvambhara, with His dear associates,
+floats on the waves of the ocean of the happiness of sankirtana.
+
+**2760.** Gaura-raya dances most wonderfully;
+on all sides all the associates sing.
+
+**2761.** *Thus [it is said] in a song (raga Devakiri):*
+The crusher of the mighty, maddened elephant of Kali,
+the lion Gaura, dances in Nadia.
+The cry "Jaya, jaya!" has spread through all the worlds;
+all people, gathering, run from every side.
+
+**2762.** With supreme force the dear associates sing —
+waves of tala beyond the reach [even] of the Kinnaras.
+The murajas and mridangas sound: "drimiki drimi,
+dra drimi kata dhikata dhilanga."[^12-426]
+
+**2763.** The earth trembles as He sets down His lotus feet;
+swaying, [He shows] incomparable movements of the body.
+His eyes surpass the luster of the young dawn;
+at His charming glance, how many Kamas are thrown into confusion!
+
+**2764.** The sweetness of His face puts to shame a multitude of moons;
+He smiles softly, softly, pouring forth nectar.
+Distributing prema to the sinful, the Lord of Narahari,
+opening both arms, takes [them] into His embrace.
+
+**2765.** *Again, raga Megha:*
+Gaura, the best of panditas, dances the dance;
+His body outshines kunkuma and garlands of lightning,
+adorned with an incomparable abundance of the thrill of ecstasy. (Refrain.)
+
+**2766.** Soft, rosy lips; the moon-like face glows;[^12-427]
+teeth like kunda [flowers]; a light smile pours out nectar.
+The lotus eyes, delighting people, are full of rasa;
+the glance takes away the pride of hundreds upon hundreds of Madanas.
+
+**2767.** Raising His arms, which put to shame golden lotus stalks,
+He says, "Hari, Hari," His heart overflowing.
+His auspicious, tender, lovely feet,
+with varied movements, He sets upon the earth.
+
+**2768.** Cymbals, dagars, khamaks, and many khols resound;[^12-428]
+the associates sing with sweet, sweet voices.
+He distributes the treasure, the jewel of prema, filling the world [with it];
+deprived [is only] this evil-minded wretch Narahari.
+
+**2769.** *Again, raga Bhupati:*
+Gaura dances — a dance that delights people;
+His body crushes the pride of all Madanas.
+Lovely, thrilled with ecstasy, trembling all over, maddened,
+[He] hears the account of [His] former love.
+
+**2770.** The rosy eyes, lotus petals, brim with tears;
+the tears glisten like strings of pearls.
+When He smiles, His teeth flash like lightning;
+His sweet lips, incomparable, softly glisten.
+
+**2771.** Opening His charming long arms,
+which take away the pride of the trunk of the best of elephants,
+seeing Gadadhara, He again takes [him] into His embrace
+and says, "I cannot keep My heart steady."
+
+**2772.** The incomparable ocean of prema surges,
+giving rise to the play of mighty waves.
+The wretched, the fallen, the afflicted float in happiness;
+it did not touch sinful Narahari.
+
+**2773.** *Again, raga Nata-narayana:*
+Gaura dances, the abode of supreme happiness.
+An unbroken, abundant thrill of ecstasy sparkles [on Him];
+His lovely body crushes the pride of Madana. (Refrain.)
+
+**2774.** Tremulous are the spotless eyes, lotus petals;
+the glance is compassionate, beautiful with a rosy luster.
+The smiling face shines, putting the autumn moon to shame;[^12-429]
+the radiance of His teeth steals the heart in an instant.
+
+**2775.** His ever new gait takes away the pride of the best of elephants;
+as soon as He steps, the earth is filled with great joy.
+His heart overflowing, again and again He says, "Hari, Hari";
+in Him rises an incomparable abundance of the wealth of bhava.
+
+**2776.** Peerless in His rapture, distributing the jewel-treasure,
+He took away calamities; His fame filled this world.
+All desires were fulfilled; deprived of this,
+Narahari — fruitless is his birth, shame on his life!
+
+**2777.** O Srinivasa! Absorbed in sankirtana,
+the Lord walks slowly, slowly along this road.
+
+**2778.** Look: here is the house of Sanjaya, dear to the Lord;
+here Vishvambhara dances with wondrous movements.
+
+**2779.** *Thus [it is said] in a song (raga Nata):*
+Gaura, the son of Shachi, dances; [His] sweetness enchants the mind;
+on His body, which outshines the golden mountain, waves of the thrill of ecstasy shine.
+
+**2780.** The moon-like face glows, pouring nectar with a gentle smile;
+in the restless corners of His eyes so much, so much rasa is revealed!
+
+**2781.** With His feet He keeps the tala, jingling; the ankle bells ring and ring;
+seeing many novel movements, Manmatha dies of shame.
+
+**2782.** The people of the world sing His virtues, immersed in a stream of happiness;
+deprived, the lowly wretch Narahari burns in the forest fire of worldly existence.
+
+**2783.** *Again, raga Nati:*
+How the khols and karatalas resound!
+All around, the associates stand resplendent.
+
+**2784.** Today [they] sing of sweet pastimes;
+hearing [them], wood and stone melt.
+
+**2785.** Merrily the beautiful Gora dances;
+who knows what feeling has overwhelmed Him? (Refrain.)
+
+**2786.** His body, covered with a fresh thrill of ecstasy,
+shines like a golden jackfruit.[^12-430]
+
+**2787.** Like the current of the river of the gods,
+streams flow from both His eyes.
+
+**2788.** Again and again raising both arms,
+He roars, calling out, "Hari, Hari!"
+
+**2789.** Seeing someone utterly fallen and wretched,
+He takes [him] into His embrace again and again.
+
+**2790.** The treasure of prema He gives to every person,
+leaving out only poor Narahari.
+
+**2791.** *Again, raga Malavashri:*
+The son of Shachi dances, all thrilled with ecstasy;
+His attire, full of rasa, shines beautifully.
+His body, surpassing gold, full of [the beauty of] Madana,[^12-431]
+enchants the minds of the people of the world.
+
+**2792.** Raising His lovely arms, He roars, "Hari!" —
+He floats in the rasa of [His] former love.
+How many times, again and again, looking at Gadadhara,
+He smiles sweetly, softly, softly!
+
+**2793.** Srivasa and all the others, even more maddened,
+sing His incomparable virtues.
+Mridangas, karatalas, khamaks, sweet-sounding,
+play: "ta drimi drimi drimi."
+
+**2794.** In the sky the hosts of gods, absorbed [in bliss], again and again
+beautifully shower [Him] with flowers.
+Incessantly "Jaya, jaya!" they cry out beyond measure,
+intoxicated with deep joy.[^12-432]
+
+**2795.** *Again, raga Varati:*
+Gorachand, who enchants the world,
+is a snare for the minds of all people.
+
+**2796.** The Lord dances in the rapture of prema;
+His rosy eyes float in tears. (Refrain.)
+
+**2797.** Raising His arms, He says, "Hari, Hari";
+seizing the fallen, He takes [them] into His embrace.
+
+**2798.** With His own rasa He floods everyone;
+all around, the associates sing.
+
+**2799.** Flinging down His most tender body,
+He falls and rolls in the dust.
+
+**2800.** Seeing this, all living beings weep;
+Narahari's heart cannot be held steady.
+
+**2801.** Having stayed beneath this tree for a danda,
+the Lord, rejoicing, goes along the road by the bank of the Ganga.
+
+**2802.** Here women full of love, in delight,
+say so many things to one another in soft voices.[^12-433]
+
+**2803.** *Here, first of all, in a song by Sri Yadunandana Chakravarti, the disciple of Sri Dasa Gadadhara Thakura (raga Dhanashri):*[^12-434]
+Ah, mother, what deeds of Gauranga I saw today!
+Embracing Gadai, He weeps, saying, "Radha, Radha!"
+
+**2804.** Unable to restrain His heart, He rolls on the ground;
+how much dust has clung to that golden body!
+
+**2805.** When I look at that face, I do not know what happens to my heart;
+how many streams, [like] the Suradhuni, pour from [His] eyes!
+
+**2806.** I am dying, I am dying! Why did I go by that road?
+There is no composure in my mind; my heart is breaking.
+
+**2807.** Seeing [this], Dasa Gadadhara smiles softly, softly;
+this Yadunandana says: he floats in that rasa.
+
+**2808.** *Again, another [song], raga Kamoda:*[^12-435]
+Looking at the face of Dasa Gadadhara,
+He speaks with the corners of His eyes, making signs.
+
+**2809.** Who knows why [His] body thrills with ecstasy?
+As He smiles, it is as if He showers nectar.
+
+**2810.** On the bank of the river of the gods I saw Gora —
+the thief of the eyes of all young women.
+
+**2811.** His natural curving posture [so] works [on me] —[^12-436]
+in my heart, ajuli, what shame is left now?
+
+**2812.** The grace of [His] neck cannot be told;
+the bird of my eyes stays fixed, its wings outspread.
+
+**2813.** The beauty of His arms, reaching to the knees —
+seeing it, the hearts of young women are filled with longing.
+
+**2814.** At the rosy lotus feet
+may Yadu's mind abide in the guise of a bee.
+
+**2815.** *Again, another [song], raga Dhanashri:*
+The sweetness of Gora's form, the thief of young women's hearts, is a stream of nectar;
+blessed, blessed, blessed are those who even once drink it with the corner of their eyes!
+
+**2816.** Friend! To whom shall I tell this?
+He keeps gazing at Pandita Gadai and calls out, "Radhika!" (Refrain.)
+
+**2817.** Placing His hand in the hand of Dasa Gadadhara, He rejoices, His body thrilled with ecstasy;
+He smiles softly, softly — in what rasa He floats, I could find no bottom [to it].
+
+**2818.** With the airs of a nagara He goes along the roads of Nadia, swaying;
+His bearing enchants Narahari's mind — Madana faints at it.
+
+**2819.** *Again, another [song], raga Karnatika:*
+Dear friend! Listen to the tale of Gora's beauty.
+With the wives of Vraja,
+the pastimes in secret play —
+the world is flooded with that story. (Refrain.)
+
+**2820.** At the fragrance of His body how many Manmathas, maddened,
+fly [to Him] in the guise of bees!
+The garland of rangana flowers plays upon His chest —
+the minds of women of good family swoon.
+
+**2821.** You see the golden complexion — but all the rest, friend, is the same:
+the form, the gait, the splendor of the body.
+The figure of the Moon of Gokula; each eyebrow a snare;
+[He is] a thorn to both families of women of good family.
+
+**2822.** Is there any woman who, seeing [His] aiming glance
+and the sweetness of the smile on His moon-like face,
+will keep her composure? Only then will she go home,
+if Manmatha does not drive her mad.
+
+**2823.** Now He calls, "Radha!" and stands with His eyes closed,
+now He laughs in the rapture of bhava,
+now He weeps aloud, His whole body thrilled with ecstasy;
+this Yadunandana loves Him.
+
+**2824.** *Again, another [song], raga Kamoda:*
+In the midst of Nadia — there is that form!
+Golden Gauranga dances, most wondrous. (Refrain.)
+
+**2825.** Curls and tilaka — the adornment of the moon-like face;
+in rasa the two rosy eyes are sinking, sinking.
+
+**2826.** A faint smile on His lips, He speaks sweet words;
+seeing the curve of [His] neck, where does one's life remain?
+
+**2827.** With the swaying of His chest the garland of rangana flowers sways;
+how many pastimes of rasa He knows, how many arts of rasa!
+
+**2828.** His body is anointed with sandal, the pleats of His dhoti are charming;
+in His curly hair gandharaja and champa shine.
+
+**2829.** Devakinandana says, "Listen, ajuli:[^12-437]
+do you not know? Gora is the nagara Vanamali!"
+
+**2830.** *Another [song], raga Kamoda:*
+In the midst of Nadia Gorachand dances —
+a snare to bind the minds of all people.
+
+**2831.** His body is [like] golden filaments [of a flower], its splendor incomparable;
+seeing [Him], throngs of young women are enchanted.
+
+**2832.** Like the autumn moon — what a sweet face!
+[His] speech is a stream of nectar, a solace for the scorched.[^12-438]
+
+**2833.** Mingled with a slight smile — the radiant lips;
+the row of teeth, [like] pearls, glitters.
+
+**2834.** The pair of eyes is the abode of anuraga;
+with a glance [He] steals away the life of the world.
+
+**2835.** To break the pride of Kama's bow,
+who fashioned these brows — how much play they hold!
+
+**2836.** The knot of curling hair gleams in its curve;
+around [it], wreathed with malati, bees circle swarm after swarm.
+
+**2837.** Who can keep composure, seeing the lovely forehead?
+The dot of sandal [on it] is the ruin of the moon's pride.[^12-439]
+
+**2838.** The world-conquering garland sways on [His] chest;
+having looked but once, the eyes meditate on [it] forever.
+
+**2839.** What a curve of those long arms!
+How many movements and poses — destroyers of the host of chaste wives!
+
+**2840.** The slender waist — it seems it could hide in a fist;
+without a price it buys the mind and delights the eyes.
+
+**2841.** The soles of the lotus feet are matchless;
+by the host of [His] nails how many Kamas faint!
+
+**2842.** Narahari says: don't you know His play?
+Is He not the Nagara of Gokula, the ocean of rasa?
+
+**2843.** *And another [song] (raga Mallarika):*[^12-440]
+Friend! In Nadia, on the bank of the Jahnavi,
+what Creator, how, fashioned that body out of golden shirisha flowers?
+
+**2844.** Who would not believe [it]?
+The face a lotus, the lips bandhuli, the teeth — are they not kunda in it?
+
+**2845.** To whom shall I tell this?
+The nose a lovely kimshuka bud, the eyes red utpalas.
+
+**2846.** With my mouth I cannot describe it:
+the arms golden creepers, on them lotuses, on the nails mallika has blossomed.
+
+**2847.** The eyes are an ocean of bliss;
+the soles land lotuses, red utpalas; the nails put pearls to shame.
+
+**2848.** [The body] bears the fragrance of love;
+the people of the three worlds, seeing it, became intoxicated and do not turn back home.
+
+**2849.** "Hari, Hari, Hari," [He] says;
+I do not know why Gauranga weeps on the lap of Dasa Gadadhara.
+
+**2850.** Why such bewilderment?
+This Yadunandana says: don't you know? That is the Moon of Gokula!
+
+**2851.** *And another [song] (raga Kamoda):*
+Look at Gora's play, friend, look at Gora's play!
+Through the town of Nadia goes a golden Ananga. (Refrain.)
+
+**2852.** [His] loveliness surpasses a mirror of gold and jewels;
+with [His] red feet [He] has lit up the earth.
+
+**2853.** The face has taken on the splendor of the full moon;
+by its rays the sky is lit — in every direction, joy for the women.[^12-441]
+
+**2854.** The brows a bow, the eyes arrows, crooked the aim;
+the whole form is like the Madana of Vraja.
+
+**2855.** Arms reaching to the knees, a broad chest;
+who, on seeing [Him], does not obtain the joy of touch?
+
+**2856.** The gait, surpassing an intoxicated king of elephants, is charming;
+the young women are drowned — [yet] He does not look back.
+
+**2857.** Yadu says: is He not that Beauty of Gokula?
+You know and yet do not know; that is why I am afraid.
+
+**2858.** *And another [song] (raga Vallari):*[^12-442]
+Friend! What wondrous beauty!
+The body, covered with thrills of rapture, is matchless — is it a new King Madana?
+
+**2859.** Who knows by what bhava [His] heart is moved? Both eyes are red.
+Holding Gadadhara's hand, what is He saying? I do not know with what honey [it] is steeped.
+
+**2860.** The lips a lovely bandhuli flower, the teeth a flash of lightning;
+mingled with a smile, [He] pours out stores of nectar — the splendor of the moon of the face.
+
+**2861.** In a nagara's guise dances the thief of the lives of the townswomen of Nadia;
+Narahari says: don't you know? That is Gora, the Enchanter of Gokula.
+
+**2862.** *And another [song] (raga Bhupali):*
+Look, look at Gorachand!
+[His] color outshines gold; the Enchanter of Madana — in the measure of the dance. (Refrain.)
+
+**2863.** He speaks of a former love;
+in [His] youth, overcome by bhava, the body is filled with thrills of rapture.
+
+**2864.** Who knows the pain of [His] heart?
+The bank of the Yamuna, roaming in the forests — of all those things He speaks.
+
+**2865.** Tears in [His] lotus eyes;
+He Himself tells the story of Radha and does not stay still for a moment.
+
+**2866.** Holding Gadadhara's hand,
+[His] words steeped in weeping, He says, "Hari, Hari, Hari."
+
+**2867.** From bhava the body is overwhelmed;
+He rushed off with the gait of an intoxicated elephant, as if crushing the forest.
+
+**2868.** Now He laughs, now weeps, now dances;
+the lips tremble, He stands startled; now He begs for the treasure of prema.
+
+**2869.** This Yadunandana says:
+don't you know? That is the Enchanter of Gokula — Gauranga enchants the world.
+
+**2870.** *And another [song] (raga Ashavari):*[^12-443]
+Gaura's color is gold, [His] radiance moonlight;
+on feet red as the young dawn [He stands] still; [His] mind is stirred by bhava.
+
+**2871.** From the red eyes, streams like the stream of the Suradhuni;
+the thrills of rapture are dense, [tears] sprinkle [them] incessantly; [He] is weighed down [with feeling] more than the earth.
+
+**2872.** On [His] face a slight smile that destroys the composure of young women;
+again and again, in a choked voice, He says "Hari," flooding the world with weeping.
+
+**2873.** Taking Gadai onto His lap, He speaks sweetly, sweetly;
+"What more, what more?" — saying this, He weeps; I do not know in what rasa He is lost.
+
+**2874.** Whoever knows, the heart knows; in that rasa the mind is drowned.
+This Yadunandana says: simple girl, is that not the Beloved of Gokula?[^12-444]
+
+**2875.** *And another [song] (raga Deshapala):*
+Seeing [His] beauty, what has not happened to me!
+The body of golden hue — that was the dark Kanu; otherwise would He steal the mind?
+
+**2876.** For her whose life is rasa, how can family honor survive? In the town of Nadia — such a person!
+What a wretched, cruel mind! The young chaste wives are drowned; in every house — the weeping of love.[^12-445]
+
+**2877.** The eyes are fresh lotuses that put the dawn to shame; streams flow, running down the face and chest.
+Ah, I am dying, dying, friend! I tell you my secret: my life perishes if I do not see Gora.
+
+**2878.** The rasa of love in my heart has worn out my body; my life accepts no consolation.
+Going to the bank of the Suradhuni, I will cast family duty adrift on the water and serve that Gora, the jewel of virtues.
+
+**2879.** All that I heard before — all of it has proved true: now the dark body has become Gora.
+The word of Vasudeva Ghosha: know [Him] as the Rasika-nagara — otherwise [how would He be] the thief of the gopis' minds?
+
+**2880.** O Srinivasa, here, on the bank of the Ganga,
+[the Lord] joyfully sports, stealing composure with [His] dance.
+
+**2881.** *As [it is said] in a song (raga Soma):*
+On the bank of the Suradhuni, Gaura, the dancer-nagara, joyfully sports with [His] associates.
+Matchless, varied dances, a new sweetness, steal the eyes of the people of the whole world.
+
+**2882.** The body that robs a golden mountain of its pride glitters with abundant waves of rapture;
+the grace of the arms that robs an elephant's trunk of its pride puts to shame how many hundreds of Kusumasharas.
+
+**2883.** The luster of the kunda-[white] teeth flashes charmingly, joined with a sweet smile on the sweet lips;
+with a beaming face [He] says again and again, "Hari, Hari" — who, hearing [it], can keep composure?
+
+**2884.** [His] heart surges as He looks at Gadadhara; the eyes rain [tears] like the dense clouds of Shravana.
+Narahari says: the earth trembles under the weight of the graceful, restless feet.
+
+**2885.** *Again (raga Megha):*
+Today on the bank of the Suradhuni dances Gaura, the incarnation of the raincloud;
+hanging low on all four sides, cool, He takes away the burden of heat.
+
+**2886.** The luster of the graceful body flashes as lightning — the darkness of Kali is startled;
+the incessant "Hari, Hari" is thunder, spreading over the world.
+
+**2887.** The devotees are peacocks; in great intoxication they sing, spreading the svara shadja;
+the thirsting chatakas — all people — drink the water of prema unceasingly.[^12-446]
+
+**2888.** Blessed is the earth, full of good fortune; the joy is boundless, unattainable [even] for the Creator.
+Again and again Ghanashyama says: will there be anyone else so wretched?[^12-447]
+
+**2889.** *Again (raga Dhanashri):*
+Young Gaura dances,
+radiant on the bank of the Suradhuni.
+
+**2890.** With how many hundreds of associates —
+matchless play in the kirtana!
+
+**2891.** Knowing no one as His own or a stranger,
+He gives the jewel of prema.
+
+**2892.** Absorbed in matchless bhava,
+from reddened eyes [He] sheds tears.
+
+**2893.** Saying so many words in a faltering voice,
+He takes Gadadhara by the hand.
+
+**2894.** Again and again the body trembles;
+what will Narahari understand of this play?
+
+**2895.** *Again (raga Gauri):*[^12-448]
+Gaura dances on the bank of the Suradhuni with [His] accomplished associates;
+[His] body of supreme sweetness takes away the weight of a golden mountain's pride.
+
+**2896.** Matchless curls, wreathed with ketaki and kunda flowers, of lovely hue;
+seeing the curve of the arms and the broad chest, Ananga loses himself.
+
+**2897.** Overcome by bhava, with a gait surpassing the king of elephants, He roars unceasingly;
+from the lotus eyes tears flow — as if two Gangas have appeared.
+
+**2898.** As the nimble feet keep the tala, the earth rejoices all the more;
+Narahari Dasa cries "Jaya, jaya!" — what can he say of this play?
+
+**2899.** Having spread the good fortune of the Ganga, the Lord joyfully
+went home along this path with [His] associates.
+
+**2900.** Incessantly He spreads the bliss of sankirtana;
+in the rapture of dance both feet are ever restless.
+
+**2901.** He is to dance in the house of Chandrashekhara Acharya;
+for this reason He goes there along this path with [His] associates.
+
+**2902.** Here, see the house of Chandrashekhara Acharya;
+here the dear ones arrived with the Lord.
+
+**2903.** Sadashiva and Buddhimanta Khan, these two,
+prepared here the various articles of costume.
+
+**2904.** Gaura-raya will dance in the roles of Lakshmi and others;
+there will be a kirtana that will intoxicate the world.
+
+**2905.** Nityananda, Advaita and the others, crest-jewels of the accomplished,
+will dance in various roles — such was the word that spread.[^12-449]
+
+**2906.** Longing at heart to see that dance in the sankirtana,
+Ai came with her daughter-in-law and sat here.
+
+**2907.** The families of Srivasa and the Lord's other dear ones —
+all came here and sat to watch the dance.
+
+**2908.** Here everyone puts on various costumes;
+whoever puts on whatever costume becomes just like that.
+
+**2909.** Mukunda and others began the kirtana here;
+all play mridangas, mandiras and various instruments.
+
+**2910.** Advaita and the others are afraid to watch this dance;
+by the Lord's will all became masters of yoga.[^12-450]
+
+**2911.** The world was filled with nothing but cries of "Jaya, jaya!";
+in the role of Rukmini dances the son of Shachi.
+
+**2912.** The Lord became Rukmini — no one can recognize [Him];
+with wondrous beauty He lights up the ten directions.
+
+**2913.** *In a song (raga Shankarabharana):*
+Enchanter of the worlds, Gaura, the best of dancers, ornament of Vraja, crown of rasikas —
+today, dressed as Rukmini, He performs a new dance and shines beyond compare.
+
+**2914.** The radiance of [His] limbs, surpassing a golden mirror, glitters, graceful, smooth;
+lovely, supremely wondrous attire — garments of many kinds adorn Him.
+The hair charmingly bound; musk ground [with sandal], designs of sandal,
+moist, gleam upon the forehead; a jewelled band enchants the mind.
+The earrings, tremulous, [swing] softly by both cheeks; the fine brows are like dark bees;[^12-451]
+the lotus eyes, tinged with lovely kajal, shine all the more.
+
+**2915.** Lovely lips like a bimba fruit; the nose a parrot's beak,
+adorned with a nose-pendant; the face the moon; the teeth crush the pride of kunda flowers.
+The tender breast covered by a bodice; the jewel necklace steals Ananga's composure;
+slender hands with shell bangles; on the golden fingers, rings as if [made] for delight.[^12-452]
+
+**2916.** Matchless belly, shapely, pouring forth rasa; [the slender waist] dispels the pride of a young lion —
+the slender waist, the sweetest charm; the golden girdle bells ring.
+When, with graceful bends, [He] sets His foot upon the earth, then the ground becomes very soft.
+Narahari offers [his] life [for Him]; the anklets jingle on and on.[^12-453]
+
+**2917.** O Srinivasa! The Lord, the embodiment of all shaktis,
+dances as no one has ever seen.
+
+**2918.** Now in the guise of Parvati Vishvambhara dances,
+now in the dress of Lakshmi the son of Shachi dances.
+
+**2919.** Through [His] acts [He] reveals the entering of all shaktis;
+in the mood of Mahalakshmi He sits upon the couch.
+
+**2920.** At the Lord's command the associates offer praise —
+beautiful praise of Sri Lakshmi, Parvati and others.
+
+**2921.** In the mood of the Mother, Vishvambhara Gaurahari,
+with a mother's love for her sons, gave everyone [milk] from the breast to drink.[^12-454]
+
+**2922.** Gaura-raya satisfied everyone;
+who did not sink into this wondrous lila?
+
+**2923.** How Gadadhara Pandita and others danced,
+how Nityananda was overcome with prema,
+
+**2924.** how Sri Advaita, Srivasa and others rejoiced —
+what can I say of that with one mouth, Srinivasa?
+
+**2925.** The wondrous play in Chandrashekhara's house —
+even Brahma and the other gods cannot reach its end.
+
+**2926.** When night gave way to dawn, the Lords, becoming composed,
+all went to their own homes.
+
+**2927.** Seeing the dance, Ai, in great rapture,
+went home with her daughter-in-law by this road.
+
+**2928.** The wives of the Vaishnavas, with joyful hearts,
+taking leave of Ai, went home.
+
+**2929.** In the Acharya's house for seven full days
+that great effulgence remained, as if embodied.
+
+**2930.** O Srinivasa! The play I saw here —
+when I remember all of it, pain grows in my heart.
+
+**2931.** By this road the Lord went home;
+whoever saw [Him] even once — his eyes were soothed.
+
+**2931a.** Having gone home, Gaurachandra together with Nityananda
+went by this road to Shantipura in great festivity.[^12-455]
+
+**2932.** Having displayed great festivity in Shantipura,
+staying some days, the Lord came back by this road.
+
+**2933.** Enchanting is the beauty of Gaura, Nityananda and Advaita;
+whoever sees it even once rejoices within.
+
+**2934.** The three Prabhus, having gone home, together with Haridasa
+came by this road to Srivasa's dwelling.
+
+**2935.** Coming to Srivasa's house, They sat right here.
+Murari first bowed at Gaura's feet,[^12-456]
+
+**2936.** and afterwards, bowing to Nityananda, stood up.
+The Lord says to Murari, "You have broken the order.
+
+**2937.** You did not first bow to Nityananda;
+you know proper conduct — what more shall I say?"
+
+**2938.** Murari says, "Lord, how was I to know?"
+The Lord says, "Tomorrow you will be able to know everything.
+
+**2939.** Today go home." Saying [this], with joy in [His] heart,
+He, absorbed in sankirtana, remains in Srivasa's house.[^12-457]
+
+**2940.** Going home, Gupta lay down;
+at the end of the night he sees a wondrous dream.
+
+**2941.** Supremely effulgent Nityananda-Balarama;
+in [His] hands shine the matchless plough and club.
+
+**2942.** A treasury of beauty surpassing the moon, sandal and silver;
+intoxicated with drinking varuni, He walks along, laughing and laughing.
+
+**2943.** Close behind Him goes Lord Vishvambhara:
+on His head a peacock feather, His body dark and enchanting.
+
+**2944.** Seeing such a dream, Gupta was overjoyed;
+in the dream the younger Lord Himself, laughing, speaks.
+
+**2945.** Having thus appeared to him, the Two vanished;
+regaining consciousness, Gupta was overwhelmed.
+
+**2946.** Murari understood: Nityananda is the elder brother;
+joyfully he came to Srivasa's house and met [Them].
+
+**2947.** Lord Gaurachandra sits on a divine seat;
+Lord Nityananda shines at the Lord's right.
+
+**2948.** First he bowed at Nityananda's lotus feet,
+then he honoured Gaurachandra's holy feet.
+
+**2949.** Laughing, the Lord says, "Gupta, what is this you are doing?"
+Murari says, "As You made [it] known [to me]."
+
+**2950.** In great joy the Lord says so much to Murari;
+the fun that took place — who can tell it?
+
+**2951.** The Lord gave Murari chewed betel;
+having eaten [it], Murari wiped his hand on his head.
+
+**2952.** As [He] says so much to Gupta, the mood of Ishvara grows:
+[He] reviles Prakashananda, the dweller of Kashi.[^12-458]
+
+**2953.** Who can understand the doings of Sri Gaurachandra?
+In Srivasa's house He swims in an ocean of happiness.
+
+**2954.** Overwhelmed with the bliss of sankirtana,
+the Lord went home by this road.
+
+**2955.** Sri Murari Gupta, going home,
+joyfully says to his wife, "I will eat."
+
+**2956.** The faithful wife brought rice and set it before Gupta;
+Gupta offered the ghee-soaked rice to Krishna.[^12-459]
+
+**2957.** The next day, as night gave way to dawn,
+the Lord came to the house of Sri Murari Gupta.
+
+**2958.** Bowing at the Lord's feet, Gupta submits,
+"For what reason, Lord, have You come at dawn?"
+
+**2959.** The Lord says, "To treat indigestion."
+Gupta says, "What did [You] eat yesterday?"
+
+**2960.** The Lord says, "Don't you know? You have forgotten everything!
+Saying 'Eat, eat!' you fed [Me] a great deal of rice.
+
+**2961.** You gave the rice — how could I not eat it?
+Indigestion came from yesterday's heavy meal.
+
+**2962.** Drinking water subdues indigestion." Saying this,
+[He] drinks water, taking Murari's water vessel.
+
+**2963.** At the Lord's mercy Gupta cannot keep his composure;
+Murari Gupta's household weeps in great prema.
+
+**2964.** Embracing Murari tightly,
+the Lord went home by this road.
+
+**2965.** What do I know, to tell of Murari Gupta?
+Murari's life-treasure is Gora, the jewel of virtues.
+
+**2966.** One day Gaurachandra, in Srivasa's house,
+holds conch, disc, club and lotus in four hands.
+
+**2967.** There Sri Murari Gupta became the lord of birds [Garuda];
+he spread his wings, enchanting everyone.
+
+**2968.** The Lord mounted his back;
+he moved about the courtyard for some time.
+
+**2969.** At that very moment both became again as before;
+the Lord's dear ones looked on, filling their eyes.
+
+**2970.** One day Gupta reflects within his mind:
+"The Lord's play is inconceivable — who knows when He will do what?"
+
+**2971.** "I will leave the body before the Lord" — resolving thus,
+Murari brought a very sharp knife.[^12-460]
+
+**2972.** "At night I will give up the body," he decided in his mind;
+knowing that, the Lord came to Murari's house.
+
+**2973.** [He] revealed all that was in Murari's mind
+and took out the knife hidden in this house.
+
+**2974.** Lord Gaura-raya, conquered by Murari's prema,
+says so much to Murari that it cannot be told.
+
+**2975.** O Srinivasa! The merciful Gaurachandra
+one day came by this road.
+
+**2976.** Here is Visharada's embankment — right here
+[He] met Devananda Pandita,[^12-461]
+
+**2977.** who had offended Srivasa;
+he was pained by the punishment of the Lord's words.
+
+**2978.** Look: here at the edge of the village is the dwelling of drunkards;
+Srivasa tried to dissuade [Him] from going by this road.
+
+**2979.** Seeing the Lord from afar, all the drunkards,
+breaking into dance, raised a clamour, crying "Hari!"
+
+**2980.** The Lord cast an auspicious glance on them all;
+the Lord of Nadiya went on by this road.
+
+**2981.** Here is the dwelling of Maheshvara Visharada;
+Vasudeva Sarvabhauma is his son.[^12-462]
+
+**2982.** By the Lord's will he lives in Nilachala;
+Gopinatha Acharya is his sister's husband.
+
+**2983.** Gopinatha sees the Lord's lila in Nadiya;
+by the Lord's will he went ahead to Nilachala.
+
+**2984.** The devotees who met the Lord after he had gone —
+he did not see them all, and there was sorrow in his heart.[^12-463]
+
+**2985.** O dear one! All this I cannot tell —
+Gauranga's wondrous pastimes in Navadvipa.
+
+**2986.** Who can understand Gaurachandra's heart?
+Standing here, He looks out in all four directions.
+
+**2987.** Absorbed in bhava, Gaurachandra walks along this road,
+and with Him Gadadhara, Narahari and all the others.[^12-464]
+
+**2988.** Here in sankirtana great bliss surges up;
+moment after moment the Lord reveals so many bhavas.
+
+**2989.** *In a song:*
+Hearing [of] His own qualities, His body is filled with thrills of rapture;
+His limbs overflowing with prema, He rolls on the ground.
+
+**2990.** Now He slaps His arms like a wrestler, now He says "Hari!";
+crying "Radha, Radha!" He weeps, sobbing and sobbing.
+
+**2991.** Now, leaning His body against Narahari's body,
+gazing at Gadadhara's face, He falls in a swoon.
+
+**2992.** Crying, "Lalita, Vishakha!" He heaves a sigh;
+this Govindadasa cannot keep his composure.
+
+**2993.** *Again, raga Kamoda:*
+Holding the hands of Gadadhara and Narahari, Gaurahari
+rolls on the ground, rapt in prema.
+Words cannot tell how much, crying out again and again,
+He sings of the glories of the Vrinda forest.
+
+**2994.** Remembering His own pastimes, Nidhuvana, distraught,
+the Lord weeps, crying, "Yamuna!"
+From His eyes [tears] flow — how many! — like the streams of the Suradhuni,
+streaming down His holy chest.
+
+**2995.** Subala's pure friendship, Vrinda-devi's dear words,
+Lalita's lovely tenderness,
+Vishakha's talk of prema — remembering [them], pain in the heart;
+speaking, speaking [of them], He cannot hold up His body.
+
+**2996.** "Where is the queen of My life, where is Govardhana hill,
+where are My flute and yellow garment?"
+The ocean of prema surged and filled the whole world —
+Yadunatha Dasa did not understand [it].[^12-465]
+
+**2997.** *Again, raga Dhanashri:*
+"The rasa I playfully relished with Shridama and Subala…" —
+saying [this], the Lord is thrown into turmoil.
+Crying, "Flute, flute!" Gaurahari, senseless,
+falls, the Lord, into Gadadhara's lap.
+
+**2998.** The rasa of the rasa dance, Vrindavana, dear friends and girlfriends —
+waves of prema rise up.
+Vasu Ghosha, Ramananda, Srivasa, Jagadananda —
+the Lord dances with Narahari.
+
+**2999.** From absorption in Radha's feelings [His] complexion became golden;
+He constantly repeats Radha's name.
+Crying, "Lalita, Vishakha!" the Lord rolls on the ground:
+"Where is My Govardhana hill?"
+
+**3000.** "Where is the bank of the Yamuna, where is My Vamshivata?" —
+saying [this], He again loses consciousness.
+This wretched Govinda Ghosha did not obtain [it] in the least particle —
+shame on this worthless life![^12-466]
+
+**3001.** *Again, raga Suhai:*
+My Lord is Sri Gauranga-raya,
+whose glory Shiva, Shuka and Virinchi sing.[^12-467]
+
+**3002.** He for whom Kamala, thinking of Him, ever pines —
+that Lord weeps, crying, "Hari!" and raises His arms.
+
+**3003.** The body at which Kama gazed and gazed and became bodiless —
+that [body] is ever grey with the dust of kirtana.
+
+**3004.** Now, crying, "Radha, Radha!" He starts up with a jolt;
+now He stands gazing at the faces of Narahari and Gadadhara.
+
+**3005.** From deep prema of old His body thrills;
+Ramachandra says: who does not understand that play?[^12-468]
+
+**3006.** O Srinivasa! Who does not run to see [it]?
+Along this path, dancing, dancing, Gora goes.
+
+**3007.** *Thus [it is said] in a song (raga Dhanashri):*
+The youthful Gaura, full of rasa, dances,
+absorbed in the rasa of the rapture of His former prema.
+
+**3008.** Narahari and Gadadhara shine on either side;
+crying, "Hari!" Haridasa moves around on all sides.
+
+**3009.** Mukunda, Madhava and Vasu Ghosha sing;
+the Lord, well pleased, takes [them] into His embrace.
+
+**3010.** What a complexion — it surpasses gold!
+The curly hair is gathered in a topknot above the forehead.[^12-469]
+
+**3011.** Raising again and again His arms that reach to His knees,
+my Lord dances, crying, "Hari, Hari!"
+
+**3012.** On His rosy feet the ankle-bells jingle;
+Shekhara Raya tells [of it], echoing [their] sound.[^12-470]
+
+**3013.** *Again, raga Dhanashri:*
+Gorachand dances, my Gorachand dances!
+All the devotees run after [Him].
+
+**3014.** The radiance of Gora's body surpasses a golden mirror;
+His face sparkles, [on it] a dot of sandal.
+
+**3015.** Vasu, Ramananda, Srinivasa and others stand in all their splendour;
+Gadadhara, Narahari, and in the middle — Gorachand.[^12-471]
+
+**3016.** In the circle of devotees Gora-raya dances;
+countless people of Nadia run to see.
+
+**3017.** Here Gaurachandra, with jubilation in His heart,
+dances in sankirtana — in what wondrous rapture of feeling!
+
+**3018.** *Thus [it is said] in a song (raga Velavali):*
+The mighty subduer of Kali, the breaker of Shamana, the delight of the people of all the worlds,
+expert in giving away the rare wealth of prema, who takes away the great pride of the multitude of heavenly trees —[^12-472]
+
+**3019.** the son of Shachi dances in the midst of the kirtana;
+His lovely body, surpassing a golden mountain, shines like a new King Manmatha. (Refrain.)
+
+**3020.** At the beat of His soles the earth quakes; in a graceful pose He stands with His arms outstretched;
+He smiles softly, softly, His lips tremble greatly — restless, He gazes at Gadadhara's face.[^12-473]
+
+**3021.** His lotus eyes, brimming [with feeling], roll again and again — the matchless pastimes of old are revealed;
+the associates, supremely expert [in rasa], rejoice — of this rasa Narahari Dasa is deprived.
+
+**3022.** *Again, raga Suhai:*
+His heart is overflowing with feeling;
+now He rises, now He sits — He does not come to His senses.
+
+**3023.** From excess of rasa He finds no footing;
+remembering, remembering the love of old, He weeps.
+
+**3024.** The Lord Gora, king of dancers, dances!
+For what reason is the Lord of Goloka in the midst of sankirtana? (Refrain.)[^12-474]
+
+**3025.** He does not distinguish His own from others;
+He makes no difference between the wretched, the lowly and the exalted.
+
+**3026.** Taking the hand of His beloved Gadadhara,
+crying out loudly, He speaks the word that lies deep in His heart.
+
+**3027.** Brimming with waves of bliss,
+swaying, swaying, He falls into the arms of the devotees.
+
+**3028.** Through Gora's rasa all has become full of rasa;
+say — does [only] a heart of stone not melt?
+
+**3029.** *Again, raga Dhanashri:*
+Govinda, Madhava, Srinivasa, Ramananda,
+Murari and Mukunda sing together in their own circle.
+
+**3030.** Hearing of His own former qualities, maddened,
+in the bliss of kirtana the Lord falls senseless.
+
+**3031.** What wondrous thing is this — it cannot be told:
+though He is the Lord of Goloka, He rolls in the dust! (Refrain.)
+
+**3032.** His heart overflows with feeling at the sight of Gadadhara;
+weeping, the Lord is distraught — His eyes brim with tears.
+
+**3033.** Crying, "Shripada!" the Lord falls to the ground and weeps;
+understanding what lies deep in His heart, Nityananda weeps.[^12-475]
+
+**3034.** Seeing [this], people of the three kinds weep from Gora's rasa;
+of this happiness Balarama Dasa is deprived.
+
+**3035.** *Again, raga Kamoda:*
+Leaning His body against Gadadhara's body,
+the Lord, lost to Himself, sings of the glories of Vrindavana.
+
+**3036.** Now He weeps, now He laughs — He is unaware of the outer world;
+distraught in Radha's feelings, [He] always remembers Gokula.
+
+**3037.** The grace of [His] body surpasses countless Anangas;
+how many millions of moons weep on seeing [His] face![^12-476]
+
+**3038.** The three worlds have melted from the rasa of these two;
+I do not know for what fault Murari Gupta is deprived [of it].[^12-477]
+
+**3039.** *Again, raga Kamoda:*
+The lovely pair of eyes brims with tears —
+how many rivers flow in streams!
+Gora's body is filled with thrills of rapture —
+the earth cannot bear [Him].
+
+**3040.** The Lord Gora is an ocean of compassion!
+Under the weight of feeling His body sways;
+at His gait the world is enraptured.
+
+**3041.** Again and again He shows such mercy,
+He roars with a deep voice;
+seeing the fallen, with an anxious heart
+He embraces, embraces [them] and weeps.
+
+**3042.** His lotus feet are very restless —
+unsteady is their way;
+with His lotus mouth, in a faltering voice,
+He sings songs of the rasa play.
+
+**3043.** Crying, "Aha, aha!" and raising both arms,
+He says, "Hari, Hari bol!"
+Calling loudly, "Radha, Radha!"
+He takes Gadadhara into His embrace.
+
+**3044.** Crying again and again, "The flute, the flute!"
+He gazes at Svarupa's face;
+crying, "The peacock feather!" He starts up, swelling [with feeling];
+can Yadu understand [this]?[^12-478]
+
+**3045.** Along this path Gorachand walks slowly, slowly,
+lighting up the ten directions with the radiance of His body.
+
+**3046.** What shall I say? — in kirtana He dances in many ways;
+in the rapture of those feelings no one can keep calm.
+
+**3047.** *Thus [it is said] in a song (raga Abhiri):*
+Greedy for kirtana, He dances again and again;
+walking, He cannot see the path for His tears.
+
+**3048.** The beautiful youthful Gaura
+became absorbed in the rasa of the love of old. (Refrain.)
+
+**3049.** He cannot utter even half a word;
+walking, He holds the hand of Dasa Gadadhara.
+
+**3050.** The rosy soles of His feet find no footing:
+is it water, is it land, is it forest or house?
+
+**3051.** He chants the name "Hari, Hari" and intones [raga] Abhiri;
+with what gestures of sweet beauty [He] moves both His hands!
+
+**3052.** Why, and what He does — who knows the end [of it]?
+Seeing the fallen and the wretched, He seizes and embraces [them].
+
+**3053.** Aja, Bhava and the other gods bow at [His] feet;
+Yadu says: without mercy who will know [His] intent?[^12-479]
+
+**3054.** *Again, raga Dhanashri:*
+Gora, the life of Dasa Gadadhara,
+is absorbed in [His] deeds of old.
+
+**3055.** The Thief with a body the colour of lightning —
+from His lotus eyes tears flow.[^12-480]
+
+**3056.** The lustre of His face is [like] a golden lotus;
+when He laughs, gems and pearls fall.
+
+**3057.** From abundant rapture [He] trembles;
+crying, "Hari, Hari!" He leaps.
+
+**3058.** In His own rasa He knows neither day nor night;
+again and again His hair comes loose and His cloth slips.
+
+**3059.** Again and again He falls to the ground —
+a golden mountain rolling on the earth.
+
+**3060.** The world is flooded with the rasa of prema;
+wretched Yadu, through [his] fault, was left out.
+
+**3061.** Along this path Gora goes to the bank of the Suradhuni;
+seeing [Him], the joy of the people of Nadia surges.
+
+**3062.** What rapture of feeling [there was] — I cannot tell;
+"Radha, Radha!" calls Gora, the jewel of virtues.
+
+**3063.** *Thus [it is said] in a song (raga Ashavari):*
+Gauranga is caught in a whirlpool:
+in the rapture of feeling He calls, "Radha, Radha!"
+
+**3064.** Seeing the Suradhuni, the Lord sees in it the Yamuna;
+seeing a flowering grove, He remembers Vrindavana.
+
+**3065.** In the rapture of old He stands in tribhanga;
+He asks for the yellow garment and the flute.
+
+**3066.** Taking His beloved Gadadhara into His embrace,
+He says in a faltering voice, "Where were you, where were you?"
+
+**3067.** Understanding [His] feeling, the Pandita stands at [His] left;
+Narahari Dasa does not understand this play.
+*(This is a song of Sri Narahari Sarakara Thakura.)*[^12-481]
+
+**3068.** *Again, raga Kamoda:*
+The love and longing of the two for each other never fail;
+at their touch supreme happiness rises — who knows how much!
+
+**3069.** My Gauranga dances in Gadadhara's rasa;
+and Gadadhara dances in Gauranga's pastimes.
+
+**3070.** Is it Purusha and Prakriti, or Janaki and Sri Rama,
+the play of Radha and Kanu, or Rati and the god Kama?[^12-482]
+
+**3071.** The grace of the body surpasses countless Anangas;
+what comparison, what limit to [this] glory can I name?
+
+**3072.** Can the moon compare with [His] face? — every day it lives and dies.
+Are [His] hands and feet lotuses? — in the frost they all wither away.
+
+**3073.** The joy of prema-sankirtana is in the town of Nadia;
+the mistress of the house of prema is Pandita Gadadhara.
+
+**3074.** The touchstone of prema, the son of Shachi,
+delivered the people of the world, giving [them] the treasure of prema.
+
+**3075.** Nayanananda tells of [this] blissful play:
+on hearing [of it] the mind is captivated — what is there to deliberate?[^12-483]
+
+**3076.** O Srinivasa! Nothing [of it] can be told:
+on the bank of the Suradhuni Gora sports joyfully.
+
+**3077.** *Thus [it is said] in a song (raga Kamoda):*
+My Gora is so very playful:
+on the bank of the Suradhuni He dances, [taking] His companions along.[^12-484]
+
+**3078.** The companions sing, enchanting the mind;
+in their midst dances Gora, the jewel of the twice-born.
+
+**3079.** Gadadhara and Narahari are on the right and the left;
+Srinivasa and Haridasa sing the name of Hari.[^12-485]
+
+**3080.** Together with Mukunda, Murari, Vasu and Ramai
+sing Damodara and the great-minded Jagadisha.
+
+**3081.** On all sides the cry "Hari, Hari" is heard;
+the ocean of prema surged — waves of nectar.
+
+**3082.** Seeing the moon of [His] face, all torment departs;
+Yadu says: who could forget such a form?[^12-486]
+
+**3083.** *Raga Kamoda:*
+Pure, precious gold — Gora's form surpasses it;
+waves of prema shimmer [in Him].
+The fresh garland of flowers sways matchlessly on [His] neck;
+[He] leans on Narahari's body.
+
+**3084.** Gora sports in supreme bliss.
+Taking Nityananda along, joyfully, on the sandbank of the Ganga,
+[He] calls "Hari, Hari" with His dear ones. (Refrain.)
+
+**3085.** [His] body is helpless in bhava, the hairs stand thickly on end, [like] a kadamba;
+He roars like a lion.
+Dear Gadadhara holds [His] left hand;
+Govinda sings of His qualities.[^12-487]
+
+**3086.** From the corners of His reddish eyes He smiles again and again;
+He speaks — with what longing?
+Remembering all those games, the rasa-lilas of Vrindavana —
+what can Vasudeva Ghosha say?
+
+**3087.** Having sported on the bank of the Suradhuni with His associates,
+the Lord went by this road to His own home.
+
+**3088.** He showed great mercy to the townspeople:
+He instructed everyone to perform sankirtana.
+
+**3089.** The townspeople joyfully perform kirtana;
+the pashandas went and told the Kazi [of it].
+
+**3090.** The Kazi showed extreme hostility to the sankirtana;
+hearing [of it], the son of Shachi became angry.
+
+**3091.** With great pride the son of Shachi, with His associates,
+made ready to subdue the wicked Kazi.
+
+**3092.** In the bliss of sankirtana [they] go along this road;
+in one sampradaya Advaita Acharya dances.
+
+**3093.** In another sampradaya Haridasa dances;
+in [yet] one sampradaya Pandita Srivasa dances.
+
+**3094.** In another sampradaya Lord Vishvambhara dances;
+with [Him] are Nityananda and Sri Pandita Gadadhara.
+
+**3095.** In another sampradaya Vakreshvara and others dance;
+some go far off, some stay near the Lord.
+
+**3096.** Countless people dance — there is no counting them;
+in Navadvipa there spread a great ocean of bliss.
+
+**3097.** Narada and the other rishis, and all the gods,
+mingling with the humans, dance, lost to themselves.
+
+**3098.** The townspeople, greatly intoxicated with sankirtana,
+rush hither and thither, heeding neither road nor roadless ground.
+
+**3099.** Hundreds of thousands and millions of lamps burn — the sky is ablaze;
+at night it was as if the light of the sun had appeared.
+
+**3100.** What a wondrous night! The moon adds its beauty;
+the Lord sports in kirtana throughout the town, from quarter to quarter.
+
+**3101.** The son of Shachi dances in wondrous poses;
+sitting in their homes, the women, children and old people watch.
+
+**3102.** In every house of Nadia was the utmost of splendour;
+who can tell of all the auspicious preparations?
+
+**3103.** On all sides is the clamour of cries of "Jaya, jaya!";
+all the foolish pashandas sensed disaster.
+
+**3104.** *Thus [it is said] in a song (raga Kamoda):*
+Today Gora is on nagara-kirtana:
+in His finery He goes with His dear associates.
+
+**3105.** The fine attire on [His] body shines beautifully;
+He dances in many poses — He enchants the mind of the world.
+
+**3106.** Prema rains down unceasingly;
+a river of bliss flows through the midst of Nadia.
+
+**3107.** The gods, mingling with the humans,
+shower so many flowers with joy in their hearts.
+
+**3108.** All the townspeople run;
+to their hearts' content they sing of the qualities of Gorachand.
+
+**3109.** The fools, hearing the lion's roar,
+dejected, sense disaster in their minds.
+
+**3110.** Hundreds of thousands of lamps burn brightly —
+what comparison? — they light up the earth and the sky.
+
+**3111.** What does Narahari know how to tell?
+The world is intoxicated — no one keeps composure.
+
+**3112.** *Again, raga Kamoda:*
+Thakura Gauranga dances in the town of Nadia;
+hearing [of it], people of every kind did not stay at home. (Refrain.)
+
+**3113.** Ornaments of gold and jewels adorn [His] sacred body;
+the body is anointed with sandal, and on it are drops of phagu.[^12-488]
+
+**3114.** As if [Mount] Sumeru were adorned with sandal and camphor;
+a garland of malati — as if Sumeru were encircled [by it].[^12-489]
+
+**3115.** The beautiful curling locks are wound with various flowers,
+a flowering sprig of oleander, petals of mallika.
+
+**3116.** How my Lord dances with the graceful movements of a dancer!
+Behind [Him] sing Ramai, Sundarananda and Mukunda.
+
+**3117.** In front dances Advaita, for whose sake [came] the descent;
+through the streets Gauranga dances — bliss for all.
+
+**3118.** Dancing and dancing, whichever way Gora goes,
+hundreds of thousands of lamps burn, and the people sing "Hari."
+
+**3119.** All the noble ladies, giving up [everything], call out "Hari";
+a river of prema flows from the tears in everyone's eyes.
+
+**3120.** What use are japa, austerity or the injunctions of the Vedas?
+By the name of Hari [He] delivered [all], down to the chandalas.
+
+**3121.** The young wives of noble families and others give up life at home;
+the ascetic gives up his austerity, the sannyasi his sannyasa.
+
+**3122.** Even the Yavanas dance, sing and take the name of Hari;
+of this rasa Balarama Dasa has been deprived.
+
+**3123.** O Srinivasa! The Lord, dancing and dancing,
+goes to the bank of the Ganga — for the sake of her good fortune.
+
+**3124.** Here at His own ghat He danced for some time,
+and by Madhai's ghat He goes on, slowly, slowly.[^12-490]
+
+**3125.** Look, Srinivasa, here is Barakona-ghat:
+here [He] displayed wondrous pastimes in dance and song.
+
+**3126.** Having stayed for some time at this Nagariya-ghat,
+[He] goes from the bank of the Ganga along this road.
+
+**3127.** In this Navadvipa there is Shiva, the guardian of the holy land (kshetrapala):
+boundless is [his] greatness; he abides in the form of a linga.[^12-491]
+
+**3128.** Assuming a form, he danced in the Lord's kirtana;
+Gaurahari fulfilled his desire.
+
+**3129.** Here [the Lord] fulfilled Ganesha's cherished desire;
+when the Lord took sannyasa, he became invisible.
+
+**3130.** What can I say? The Deity of Ganesha [was] enchanting;
+all were grieved when [it] passed from sight.[^12-492]
+
+**3131.** In this village of Simaliya — a wondrous pastime:
+[the Lord] fulfilled the desire of Parvati.
+
+**3132.** The goddess of Simaliya is in boundless joy:
+she swims in the ocean of the happiness of sankirtana.
+
+**3133.** By this road [the Lord] went to the house of the Kazi, the Yavana;
+seeing [this], the Kazi lost all composure, and fear seized him.
+
+**3134.** Having subdued the wicked Kazi [and] shown [him] mercy,
+[the Lord] goes along this road with great delight, with His associates.
+
+**3135.** With the subduing of the Kazi the pride of the pashandas was destroyed:
+they go about with heads bowed and say nothing to anyone.
+
+**3136.** Seeing from afar that dilapidated house of Shridhara,
+[the Lord] here smiled gently, rejoicing in His heart.
+
+**3137.** Coming by this road with His associates to Shridhara's house,
+[He] sees: a cracked iron vessel stands in the courtyard.
+
+**3138.** In it is a little water [that had stood] outside;
+Gaurachandra drinks it, filled with delight.
+
+**3139.** The Lord, affectionate to His devotees, is overwhelmed with prema;
+tears flow from [His] eyes like the streams of the Suradhuni.
+
+**3140.** In Shridhara's courtyard there was wondrous kirtana;
+nearby [were] Nityananda, Advaita and all the others.[^12-493]
+
+**3141.** The happiness that there was here in Shridhara's house —
+merely remembering [it], the heart breaks.
+
+**3142.** Through Gadigachha, Patadanga and other villages
+the Lord goes in sankirtana, greatly intoxicated.[^12-494]
+
+**3143.** What can I say of what took place in the nagara-kirtana?
+Even today the fortunate see it.
+
+**3144.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Madhya-khanda:*[^12-495]
+"Even today Chaitanya performs all these lilas;
+whoever has the good fortune sees [them] constantly.
+
+**3145.** The delights that [took place] here and there in the nagara-kirtana —
+Shesha sings [of them] with a thousand mouths, and there is no end."
+
+**3146.** Having bestowed prema-bhakti, rare [even] for Brahma and others,
+Gaurahari went by this road to His own home.
+
+**3147.** What can I say, O Srinivasa! With His dear associates
+[He] constantly floats on the waves of the ocean of prema.
+
+**3148.** One day, sitting here in the house of Srivasa,
+the Lord, smiling, says, "Tomorrow is the day of Krishna's birth."
+
+**3149.** Srivasa and the others understood the Lord's heart:
+tomorrow Vishvambhara will dance in the dress of a cowherd.
+
+**3150.** In supreme joy Srivasa and the other dear associates
+made ready all the requisites.
+
+**3151.** That day there was great bliss in the house of Srivasa:
+they perform the rite of abhisheka for Krishna's birth.
+
+**3152.** Having performed the abhisheka — what rapture in the heart! —
+in the happiness of sankirtana [they] pass the whole night.
+
+**3153.** When the night had passed, Gaurachandra and His companions,
+withdrawing into seclusion, all dress as cowherds.[^12-496]
+
+**3154.** Nitai, expert at fashioning cowherd attire,
+Himself became like a young cowherd.
+
+**3155.** Sri Gaurasundara dressed as a cowherd;
+seeing that beauty, not a trace of composure remains.
+
+**3156.** Ramai, Sundarananda, Gauridasa and others —
+all dress as cowherds: the very limit of beauty![^12-497]
+
+**3157.** Taking on their shoulders carrying-poles with pots of yogurt and fresh butter,
+they gracefully enter Srivasa's courtyard.[^12-498]
+
+**3158.** Srivasa and Advaita, in cowherd attire, in rapture,
+scatter yogurt and turmeric over the courtyard.
+
+**3159.** With dance, song and music the great merriment grows;
+Srivasa's house is like the abode of Nanda.
+
+**3160.** *Thus [it is said] in a song (raga Kamoda):*
+My Gora, the moon of Gokula:
+"Today is Krishna's birth!" He says, smiling and smiling.
+
+**3161.** In that rapture He cannot stay still;
+dressed as a cowherd, He dances with joy in His heart.
+
+**3162.** Nitai, dressed as a cowherd,
+taking a staff in His hand, dances, striking [graceful] poses.
+
+**3163.** Gauridasa, Ramai, Sundara
+dance in cowherd attire, charming carrying-poles on their shoulders.
+
+**3164.** Srivasa and Advaita in cowherd attire
+scatter turmeric and yogurt with joy in their hearts.
+
+**3165.** Some play various instruments;
+Mukunda and Madhava sing that pastime of the birth.
+
+**3166.** The women perform auspicious rites;
+Srivasa's abode is like the house of Nanda.
+
+**3167.** Crying "Jaya!" again and again,
+people run — no one can keep his composure.
+
+**3168.** With what longing they look, filling their eyes!
+The world is enchanted by the beauty, says Narahari.
+
+**3169.** *Again, raga Dhanashri:*
+The moon of Gokula, Gora, the treasury of virtues,
+on the day of [His] former birth —
+with what joy He dances in cowherd attire,
+His heart absorbed in that bhava!
+
+**3170.** Nitai in bliss dances in the cowherd manner
+together with Ramai and Sundara.
+Advaita, running up, taking a pot of yogurt,
+pours [it] over Nitai's head.
+
+**3171.** Srivasa and the others, playfully, Advaita's body
+they sprinkle with turmeric and laugh.
+Shankara and Murari, hoisting carrying-poles on their shoulders,
+dance in cowherd attire.
+
+**3172.** Mukunda and the others sing, play various instruments,
+gazing at the moon of Gora's face.
+Narahari aptly says: moment by moment
+the ocean of bliss surges.
+
+**3173.** *Again, raga Mayura:*
+Gaura, the jewel of virtues, the moon of Vraja,
+[recalling His] former appearance on the blessed ashtami of [the month of] Bhadra,[^12-499]
+lovingly, together with the band of dear ones, shines in Srivasa's house.
+Tying a dancer's turban, full and lovely,[^12-500]
+bearing flowers and sprouts on their heads,
+bracelets on their hands, new cloth at the waist —
+all dress like the cowherds of Vraja.
+
+**3174.** On someone's shoulder a painted pot filled with yogurt,
+in someone's hand a staff;
+they move, striking poses — the mud of turmeric, yogurt and ghee
+shines in the courtyard.
+Crying out "Hi! Hi!" again and again,
+thrilled all over, melting in body and mind,
+they perform a graceful, incomparable dance,
+enchanting the whole world.
+
+**3175.** Laughing with delight, Nitai, saying many things,
+sprinkles turmeric and yogurt on the Lord's body;
+at once Advaita there
+smears fresh butter on Nitai's face.
+Mighty Nitai playfully seized [Him] —
+in the thick mud the ascetic happily rolls;
+swiftly clasping [Him], Advaita the dancer there
+flings His arms toward the sky.[^12-501]
+
+**3176.** Vasudeva, Mukunda, Madhava and others sing of the birth festival;
+"dha dhi dhi ki taka, dhini ni ni" — many musicians play their instruments.
+The gods shower flowers in abundance;
+Dasa Narahari gazes at [his] Lord;
+no one keeps his composure —
+men and women run in all directions.[^12-502]
+
+**3177.** How could I tell how the son of Shachi
+thus sports with great delight with His associates?
+
+**3178.** One day here the Lord, the son of Shachi,
+smiling, says to Pundarika Vidyanidhi:
+
+**3179.** "Tomorrow is Sri Radhika's birth festival — there, [at your home]."
+Hearing this, Vidyanidhi became greatly elated in his heart.[^12-503]
+
+**3180.** Going home, he prepares all the requisites;
+the next day the Lord goes to Vidyanidhi's house.
+
+**3181.** Having gone with His companions to his house by this path,
+[He] sits here, surrounded by His dear ones.
+
+**3182.** Here the abhisheka [in honor] of Sri Radhika's birth was performed;
+what can I say of what the Lord did, absorbed in bhava!
+
+**3183.** *Thus [it is said] in a song (raga Kamoda):*
+Today Gorachand with His companions is in cowherd attire;
+moment by moment He is ever more entranced in that rasa.
+
+**3184.** Softly, softly He smiles and looks toward Gadadhara;
+streams of the water of bliss flow from both His eyes.[^12-504]
+
+**3185.** Mukunda, Madhava, Vasu, with joy in their hearts,
+all sing the story of Radhika's birth.
+
+**3186.** The khol and karatalas sound, auspicious for the world;
+the Lord dances, the earth sways.
+
+**3187.** Gauridasa and others dance with carrying-poles on their shoulders;
+seeing that cowherd attire, who could remain steady?
+
+**3188.** With what eagerness Pundarika Vidyanidhi dances,
+scattering fresh butter, turmeric, milk and yogurt!
+
+**3189.** Nitai, Advaita, Srivasa and the others, seeing the fun,
+float in an ocean of happiness — they cannot turn their eyes away.
+
+**3190.** Women and men alike run to see this fun;
+standing in the courtyard, they look all around.
+
+**3191.** Seeing the incomparable sweetness of Gora's form,
+someone says: "Is this a golden Kama dancing?"[^12-505]
+
+**3192.** The gods dance, raining down flowers;
+crying "Jaya, jaya!" Narahari joyfully dances.
+
+**3193.** *Again, raga Dhanashri:*
+What bliss today in Vidyanidhi's house
+in the singing of the story of Radhika's birth!
+In that rapture Gora, the son of Shachi, dances —
+to what can those fresh movements be compared?
+
+**3194.** On all sides the associates in cowherd attire,
+carrying-poles on their shoulders, move about the courtyard in play.
+Fresh butter, yogurt, turmeric and the like
+everyone, laughing and laughing, puts on one another's bodies.
+
+**3195.** Mridangas, mandiras, conches, karatalas —
+the musicians skillfully play various instruments.
+The sweetest sound pierces the sky;
+who does not dance to the beat "dhig dhig dhenna na"?
+
+**3196.** The women perform various auspicious rites,
+their hearts thrilled, crying "ulu-lu."
+The splendor is like that of Vrishabhanupura, says Ghanashyama;
+the heart surges with happiness.
+
+**3197.** With what happiness the Lord sported in Vidyanidhi's house —
+how could I describe it in detail with one mouth?
+
+**3198.** One day by this path Lord Vishvambhara
+goes — how sweet the captivating form of Gora!
+
+**3199.** *Thus [it is said] in a song (raga Suhai):*
+To what shall I compare Gora's form?
+Nothing is fit for comparison, ah — not even gold tested on the touchstone.
+
+**3200.** Lightning in the clouds is not equal to [this] form;
+a garland of champaka is no comparison to the form.
+
+**3201.** Ketaki petals are no comparison to the form;
+pure gorochana is no comparison.[^12-506]
+
+**3202.** Surpassing kunkuma, the form is exceedingly captivating;
+Vasu says: from what did the Creator fashion Gora?
+
+**3203.** In the dress of the best of dancers, here, beneath this kadamba tree,
+Gora, standing in tribhanga, plays the flute.
+
+**3204.** *Thus [it is said] in a song (raga Kamoda):*
+Curling locks [gathered] in a lovely topknot above the forehead,
+encircled with a garland of malati.
+
+**3205.** On it are peacock feathers
+and flowering sprigs with their leaves.
+
+**3206.** His body surpasses tested gold;
+at the waist, a cloth of beautiful color.
+
+**3207.** A tilaka of sandal shines on His forehead;
+the forest garland hangs down to His knees.
+
+**3208.** Gorachand in the dress of the best of dancers —
+what a snare [this is] for women![^12-507]
+
+**3209.** Seeing this, Vasudeva weeps:
+my heart finds no rest.
+
+**3210.** *Again, raga Dhanashri:*
+Remembering His former lila, He stood in tribhanga;
+Gora raised the enchanting flute to His lips.
+
+**3211.** Gorachand blew into the holes of the flute;
+moving His fingers, He plays a lovely melody.
+
+**3212.** All the people of the town, hearing it, were enchanted;
+on the bank of the Suradhuni the trees and creepers thrilled.
+
+**3213.** How could Vasudeva Ghosha tell of it?
+Gora enchanted the world with the song of the flute.
+
+**3214.** O Srinivasa, in what wondrous absorption in bhava
+[He] manifested right here His former lila of herding the cows!
+
+**3215.** *Thus [it is said] in a song (raga Todi):*
+His former lila came to Gorachand's mind;
+"Sangali! Dhavali!" He called again and again.[^12-508]
+
+**3216.** Sounding jubilant calls on the horn and the venu and murali flutes,
+crying "Hai! Hai!" He keeps flourishing the cowherd's stick.
+
+**3217.** Ramai, Sundara, and with them Nityananda,
+Gauridasa and others — all were filled with bliss.
+
+**3218.** Vasudeva Ghosha says with joy in his heart:
+Gorachand manifested the pastime of the pasture.
+
+**3219.** One day, absorbed in bhava, Lord Gaura-raya
+manifested here the fun of His former dana-lila.[^12-509]
+
+**3220.** *Thus [it is said] in a song (raga Kamoda):*
+What bhava arose today in Gauranga's mind!
+On the road of Nadia Gora set up a toll.
+
+**3221.** What a toll of rasa Gora, the jewel of the twice-born, demands!
+Barring [the way] with a cane, He holds back the young women.
+
+**3222.** "Pay the toll, pay the toll!" He keeps calling out;
+all the townsmen and townswomen fell into a predicament.
+
+**3223.** "In the Krishna avatara I collected the toll" —
+that bhava came to [His] mind, Vasudeva sings.
+
+**3224.** One day, looking at this flower garden,
+[He], smiling, says: "A battle of flowers would be good!"
+
+**3225.** Taking bunches of flowers, the dearest companions
+wage a battle of flowers — everyone watches.
+
+**3226.** *Thus [it is said] in a song (raga Kamoda):*
+Seeing the flower garden with His eyes, Gorachand
+spoke the words: "A battle of flowers!"[^12-510]
+
+**3227.** Crying "Jaya!" again and again, the associates
+one after another throw flowers, pelting Gora's body.
+
+**3228.** Gadadhara and others, and with them Nityananda —
+in the battle of flowers Gora was filled with bliss.
+
+**3229.** With Gadadhara Gora sports;
+Vasudeva Ghosha tells [of this] manifestation of rasa.
+
+**3230.** One day Gaurahari with Gadadhara,
+sitting in this flower garden, plays pasha-sari.[^12-511]
+
+**3231.** *Thus [it is said] in a song (raga Kamoda):*
+What bhava came to Gaurangachand's mind![^12-512]
+Taking dice and pieces, Gora began a game.
+
+**3232.** With Gadadhara Gora plays pasha-sari;
+He began to throw the dice, saying, "A loss! A win!"
+
+**3233.** Calling "Two and four!" Gadadhara throws the dice;
+"Five and three!" calls Gaurangasundara.[^12-513]
+
+**3234.** Both became immersed in the rasa of the dice game;
+crying "Jaya, jaya!" Vasudeva Ghosha sings.
+
+**3235.** One day at this ghat, with His own associates,
+the Lord sports in the water, [recalling] former [pastimes].
+
+**3236.** *Thus [it is said] in a song (raga Mayura):*
+Water sports came to Gorachand's mind;
+with His associates He began the water game.
+
+**3237.** Someone splashes and splashes water on someone's body;
+on Gora's body Gadadhara splashes water.
+
+**3238.** Gora sports in the water with a joyful heart;
+all, one after another, splash water at each other.
+
+**3239.** Gaurachand's lila cannot be described;
+Vasudeva Ghosha sings these qualities of Gora.
+
+**3240.** O Srinivasa! On this bank of the Ganga
+the Lord holds a forest picnic (vana-bhojana) with His associates.
+
+**3241.** *Thus [it is said] in a song (raga Saranga):*
+On the bank of the Suradhuni, with what delight
+Gaura sports with His dear associates!
+
+**3242.** Two praharas of the day had passed;
+I know not what was in the Lord's mind at that time.
+
+**3243.** Srivasa and Murari at that hour
+had various foods brought, filling platters.
+
+**3244.** The Moon of Nadia is delighted;
+He looks toward Sitanatha, smiling gently, gently.
+
+**3245.** Advaita, His mind in supreme bliss,
+seated everyone — how [beautifully]! — in a circle.
+
+**3246.** Spreading palasha leaves there,
+they serve various foods to all.
+
+**3247.** Receiving permission to begin the meal,
+all gaze with fixed eyes at Gora's face.
+
+**3248.** Nitai cannot keep His composure;
+in [His] heart surges — who knows what love!
+
+**3249.** Thickened milk, cream, fresh butter, chhena —
+putting [them] into Gora's mouth, [He] forgets Himself.
+
+**3250.** Advaita, taking [it] in His own hand,
+gave Nitaichand chhena-pana, a drink of chhena.
+
+**3251.** Beautiful Nitai, the mighty one,
+lifted modakas and other [sweets] to Advaita's mouth.
+
+**3252.** Their bodies were filled with thrills;
+what merriment arose among the associates!
+
+**3253.** Someone eats, putting [food] into another's mouth;
+someone takes, snatching it from another's leaf.
+
+**3254.** Sweets of many kinds;
+as [they] ate, everyone's happiness grew boundless.
+
+**3255.** Filling handful after handful,
+all drink the cool water of the Suradhuni.
+
+**3256.** Whatever remained on the leaves,
+that Narahari Dasa carefully took.
+
+**3257.** *Again, raga Saranga:*
+Today Gora with His associates,
+having finished the merry meal, joyfully roams the bank of the Suradhuni.
+
+**3258.** Staying in the shade of a very tall tree,
+speaking such sweet words, again and again He looks toward the Suradhuni.
+
+**3259.** Gently taking Gadadhara by the hand,
+He smiles softly, softly — what nectar He rains! Who can keep composure at this?
+
+**3260.** Ah, I die — what a sweet way!
+Narahari says: in [my] mind is a longing — may my heart sink into this rasa.
+
+**3261.** O Srinivasa! By the will of Gaurachandra
+the six seasons are ever embodied in Nadia.
+
+**3262.** To gladden the heart of the rainy season,
+right here the Lord swings on a swing.
+
+**3263.** *Thus [it is said] in a song (raga Mallara):*
+The youthful Gaura, full of rasa, swings.
+The bank of the Suradhuni, a lofty, splendid tree;
+on it is fashioned a peerless, graceful swing. (Refrain.)
+
+**3264.** The associates, crowding close, swing [Him] gently, gently,
+sing sweet tanas, intoxicated with rasa.
+They utter charming syllables, "dhik, dhik, dhini,"
+and play sweet instruments of so many kinds.
+
+**3265.** Crowds of men and women of the town of Nadia,
+leaving their homes, go, unable to keep composure.
+Their eyes are restless, they do not blink,
+gazing at the moon-face mingled with a smile.
+
+**3266.** The gods in the sky, absorbed [in rapture], with their hosts
+shower [Him] with choice flowers, crying "Jaya!"
+Narahari, maddened by the qualities of the Lord of his life,
+speaks without ceasing, [yet] cannot count [His] qualities.
+
+**3267.** *Again, raga Mallara:*
+Today on the bank of the Suradhuni Gora Raya
+swings on the swing in so many graceful poses.
+
+**3268.** Looking at the face of dear Gadadhara,
+in [His] delight He cannot remain still.
+
+**3269.** All sing of the former swing pastime;
+who does not run to see the beauty?
+
+**3270.** Having set her eyes on Narahari's Lord of life,
+one [of the women], having gone home, tells her friend so much.[^12-514]
+
+**3271.** *Again, raga Mallara:*
+The beautiful Gora, full of rasa, swings, intoxicated with wondrous delight, O [friend]!
+Gazing and gazing at Gadadhara's face, how many kinds of signs He makes with His eyes, O [friend]!
+
+**3272.** Peerless are all those companions; smiling gently, gently,[^12-515] O [friend],
+they swing the lovely swing they made themselves, floating in I know not what happiness, O [friend]!
+
+**3273.** Some sing in a sweet, melodious voice — who can keep composure, hearing it, O [friend]?
+Beholding that beauty, who could turn her eyes away? — so I ponder and ponder in my mind, O [friend]!
+
+**3274.** Now at last family honor and shame will all be gone — I say it on oath, O [friend] —
+having once beheld Narahari's Lord, having gone to the bank of the Suradhuni, O [friend]!
+
+**3275.** *Again, raga Mallara:*
+Today Gora on the bank of the Suradhuni
+swings — how! — on a graceful swing.
+
+**3276.** And how [wondrous] is the rainy season there —
+darkness from the massing clouds!
+
+**3277.** Gora's form flashes as lightning;[^12-516]
+it steals the life of the world.
+
+**3278.** The associates sing most sweetly,
+as if raining down so much nectar.
+
+**3279.** The mridanga sounds, thundering;
+the wives of the peacock clan dance.
+
+**3280.** The town of Nadia rejoices;
+the vines and trees thrill [with joy].
+
+**3281.** All the people run to see;
+some cherish so many longings.
+
+**3282.** Narahari, gazing at the Lord's face,
+swings the swing slowly, slowly.
+
+**3283.** *Again, raga Kamoda:*
+Lord Gora swings on the swing;
+what happiness in contemplating that bhava!
+
+**3284.** He looks at Gadadhara's face;
+thrills fill [His] golden body.
+
+**3285.** The associates, with joyful hearts,
+lifting [Him] down from the swing,
+
+**3286.** seat [Him] at the foot of a nipa (kadamba) tree;
+Nitai floats in the waters of prema.
+
+**3287.** Advaita lets out thunderous roars (huhunkara);
+the ocean of great happiness swells.
+
+**3288.** Srivasa and the others, with care
+arranging them, offered various foods.
+
+**3289.** Gora Raya is the life of all;
+"Shall I eat [alone]?" — and He feeds everyone.[^12-517]
+
+**3290.** Can I tell of that merriment?
+The remnants Narahari eats.
+
+**3291.** Here Gaurachandra manifested great bliss:
+He was utterly overwhelmed by the rasa of the former rasa [dance].
+
+**3292.** *Thus [it is said] in a song (raga Kamoda):*
+The Vrindavana lila came to Gora's mind;
+He imagined the Suradhuni to be the Yamuna.
+
+**3293.** He sees the flower grove as equal to Vrindavana;
+His companions He takes for the gopis.
+
+**3294.** Gora, bringing together khols and karatalas,
+in their midst Gora dances, crying "Jaya, jaya!"
+
+**3295.** Gora's radiant body surpasses gold;
+[His] arms, reaching to the knees, are fresh and lovely.
+
+**3296.** Vasudeva Ghosha delights in this:
+Lord Gora reveals the rasa of the rasa dance.
+
+**3297.** *Again, raga Shri:*
+The youthful Gaura, beholding the rasa-filled grove on the bank of the Suradhuni,
+remembering the former rasa pastimes, became lost in delight.
+
+**3298.** [His] body, which robs Madana of the weight of his pride, flashes like a garland of lightning;
+the moon of the face torments the moon — the nectar of sweetness pours unceasingly.
+
+**3299.** Today, as the peerless dance unfolds, He gracefully stands bending in three places;
+"drimiki drimi drimi drim" — sweetly, sweetly sounds the mridanga.
+
+**3300.** The skilled associates sing, intoxicated with the joy of the rasa of the rasa;
+at that vast merriment, rare even for the gods, Narahari's breast swells.
+
+**3301.** O Srinivasa! Gaurachandra with His associates
+sports in the spring season with great delight.
+
+**3302.** What beauty there is in Nadia — how shall I tell of it!
+Here [was] the supremely wondrous beginning of the phagu play.[^12-518]
+
+**3303.** *Thus [it is said] in a song (raga Vasanta):*
+The springtime is beautiful;
+how the trees and vines of Nadia are in bloom!
+
+**3304.** The cuckoos call ceaselessly;
+swarms of bees wander, humming.
+
+**3305.** The gentle Malaya breeze blows;
+hearts surge — no one can remain steady.
+
+**3306.** The Nagara of Gokula, Gora, joyfully
+sports on the bank of the Suradhuni with His associates.
+
+**3307.** Mukunda, Madhava and others sing;
+all play mridangas, mandiras and various instruments.
+
+**3308.** Taking the pollen of flowers as phagu,
+someone, smiling softly, puts [it] on Gora's body.
+
+**3309.** Some dance in various styles;
+Gorachand throws phagu over everyone.
+
+**3310.** Nitai, Advaita, Gadadhara,
+Srivasa and the others play the phagu game with one another.
+
+**3311.** Seeing this wondrous sport,
+the gods cannot keep composure.
+
+**3312.** Who does not cry "Jaya!"?
+Narahari says: the earth is filled with happiness.
+
+**3313.** *Again, raga Vasanta:*
+Young Gaura plays with phagu;
+His attire is wondrously brilliant.
+
+**3314.** The radiance of His body surpasses garlands of lightning;
+before it how many hundreds of Kamadevas swoon!
+
+**3315.** Taking a golden pichkari in His hand,
+the Best One lavishly showers [everyone] with saffron water.
+
+**3316.** Thickly they toss up abir and gulal;
+[the cloud] touches the abode of the gods — the earth turns red.[^12-519]
+
+**3317.** Gazing at the moon of the Lord's face,
+the associates dance without restraint.
+
+**3318.** Together they sing of the pastimes of Vraja;
+[no one] is able to keep his composure.
+
+**3319.** Many play sweet-sounding instruments,
+beating out the rhythm "dhiki dhiki taka".
+
+**3320.** Crying "Ho, ho, Hari!" [all] are beside themselves.
+What can Narahari say? [His] mind is small.
+
+**3321.** *Again, raga Vasanta:*
+Gorachand plays with phagu in the town of Nadia;
+He steals the hearts of young women with the arrows of His eyes.[^12-520]
+
+**3322.** Gathering His companions, Gora Raya throws phagu;
+some run about carrying pichkaris of sandal [water].
+
+**3323.** Srivasa, harmoniously joining [the sounds of] various instruments,[^12-521]
+makes merry together with Gadadhara and the others.
+
+**3324.** Crying "Hari!", raising his arms, Haridasa dances.
+Vasudeva Ghosha has revealed [this] rasa.
+
+**3325.** *Again, raga Vasanta:*
+Young Gaura plays Holi;
+the associates sport around the Lord on all four sides.
+
+**3326.** Nityananda, intoxicated with prema,
+gazes at the Lord's adornment, full of rasa.
+
+**3327.** Sri Advaita, sweetly, gently smiling,
+drinks the nectar of the Lord's face, floating in rasa.
+
+**3328.** Clever Gadadhara [and] Svarupa, with tender love,
+throw phagu, gazing at the Lord's body.
+
+**3329.** Narahari, Hari, Srivasa, Murari,
+taking pichkaris in hand, rain colour [on everyone].[^12-522]
+
+**3330.** Saffron, musk, sandal paste
+Gadadhara Dasa boldly smears [on their bodies].
+
+**3331.** "Ho, ho, Hari!" he cries — what joy!
+Vakreshvara dances all around [the Lord].
+
+**3332.** Gauridasa, his whole body thrilling with rapture,
+utters deep cries of "Jaya, jaya!"
+
+**3333.** Madhava, Vasu and generous Mukunda
+sing most sweetly of the pastimes of Vraja.
+
+**3334.** Sanjaya [and] Vijaya play the khol;
+Dvija Haridasa raises a loud clamour.[^12-523]
+
+**3335.** Nandana tirelessly clashes the cymbals;
+Sri Haridasa has joy in his heart.
+
+**3336.** Shankara, Yadu and the others, filled with happiness,
+joined the various instruments into one.
+
+**3337.** The men and women of Nadia came running;
+on the bank of the Suradhuni the merriment grew great.
+
+**3338.** The assembly of the gods cannot keep its composure.
+Ghanashyama says: the king of seasons has borne fruit.
+
+**3339.** *Again, raga Vasanta:*
+Gaura, the Lord of Gokula, the best of dancers,
+having dressed, with countless associates
+sports on the bank of the Suradhuni —
+He who increases the joy of the spring season.
+The lovely radiance of His body, which dwarfs a golden mountain,
+is as if made of Kamadeva;
+nectar flows; smiling, there flashes
+His face, which crushes the pride of the moon.
+
+**3340.** His pair of lotus eyes is charming,
+His sidelong glance playful, incomparable;
+gracefully taking a pichkari, phagu
+from the full fold of His cloth He tosses [on high].
+On all sides shine the skilful dear [associates],
+dressed up, again and again deeply absorbed;
+crying "Hori! Hori!" [and] beholding the Lord's face,
+whose eyes are not satisfied?
+
+**3341.** Overpowered by touch, in rapture they play,
+casting gulal onto the path of the sky;
+[it] has veiled the rays of the sun, and the sky
+shines a deep crimson.
+Ground musk, paste and saffron
+they joyfully pour onto Nitai's head;
+frowning, clapping his hands,
+how Advaita enchants the people's minds!
+
+**3342.** The Dancer, skilled in dance, sounds out "thukkuta thai ta taka taka tho di drimi kata";
+"dradrimi ki drimi drimi ki" — the musicians play the muraja and mridanga.[^12-524]
+Narahari says: singing adorned with shrutis and svaras resounds, the steps [of the dance] are most sweet;
+abandoning composure, all the gods, men and women run [there] in delight.
+
+**3343.** *Again, raga Kamoda:*
+Young Gaura plays Holi —
+in the embrace of Gadadhara, [like] a woman full of rasa.[^12-525]
+
+**3344.** Drops of sweat on His face, His body thrilling with rapture;
+from the weight of emotion, tears flow from His eyes.
+
+**3345.** Together with Narahari they sing of the rasa of Vraja;
+Mukunda, Murari and Vasu dance merrily.
+
+**3346.** Again and again He swoons in the Pandita's embrace;
+seeing this, the companions are beside themselves with joy.
+
+**3347.** The Lord described the bower-temple in detail;
+falling to the ground, He says, "Where is My flute?
+
+**3348.** Where is Govardhana, where the bank of the Yamuna?
+Where are the malati, yuthi and champaka flowers?"
+
+**3349.** Shivananda, hearing the Lord's words full of rasa, says:
+"Where the Lord [and] Gadadhara are, there is the treasury of rasa."[^12-526]
+
+**3350.** One day here the heart of Nityananda-Haladhara
+rejoiced in the rasa of the former rasa-lila.[^12-527]
+
+**3351.** *Thus [it is said] in a song (raga Kedara):*
+What a sweet spring night! The moon has lit up the directions,
+a gentle breeze blows from Malaya.
+The Jahnavi is like the Yamuna, its sandy bank is pure;
+cuckoos call, peacocks and parrots [cry].
+
+**3352.** What merriment today in Nadia!
+Remembering the former play, Nitai, His body thrilling,
+cannot stay still even for a moment. (Refrain.)
+
+**3353.** Seeing Nitai's ways, Sri Gaurasundara,
+deeply absorbed in prema, became utterly helpless.
+No one keeps his composure; all sing in various styles
+of the rasa-lila of Balaichand.
+
+**3354.** Gods and humans together dance, raising their arms again and again,
+ceaselessly playing various instruments.
+Narahari Dasa says: the whole world is filled with [cries of] "Jaya, jaya!" —
+[in glory of] Nityananda, the son of Rohini.
+
+**3355.** Here Gaurachandra manifested a former pastime:
+He stole the garments of His devotees.[^12-528]
+
+**3356.** *Thus [it is said] in the Sri Chaitanya-charita, in the second prakrama, in the fifth sarga:*
+*Then once, at nightfall, the Bearer of the disc, the knower of rasa, the giver of rasa to people,*
+*drawing off [the clothes] of His servants, absorbed in [divine] emotion, with His lotus hand, left them naked.*[^12-529]
+
+**3357.** *Thus the Lord, having made [it] a play, in a moment gave all the garments back to them;*
+*and they, having put on their clothes, joyful, rejoiced together with Murari.*[^12-530]
+
+**3358.** *Thus [it is said] in a song (raga Shri):*
+What a pastime this is of Gorachand!
+Formerly He stole the garments of the gopis —
+now He is overwhelmed by that mood.
+
+**3359.** Looking at His dear associates,
+gracefully He steals the garments of them all —
+who knows the secret of this?
+
+**3360.** As if everything became [as it was] then;
+having accomplished His purpose — the very limit of happiness —
+He gives the garments back to all.
+
+**3361.** Seeing [this], Narahari Dasa says:
+who in all the world would not go mad
+at the singing of this charming deed?
+
+**3362.** Here the Lord, the son of Shachi, with His associates
+manifests the pastimes of lifting Govardhana and others.
+
+**3363.** O Srinivasa, Gaura's pastimes are enchanting;
+who, with joy in his heart, does not meditate [on them] constantly?
+
+**3364.** *Thus [it is said] in the Sri Chaitanya-charitamrita, in the Madhya-khanda, in the chapter on the instruction of Sri Rupa:*
+*"Sometimes he writes scriptures on bhakti-rasa,*
+*listens to accounts of Chaitanya, meditates on Chaitanya."*[^12-531]
+
+**3365.** The eternal pastimes of Chaitanyachandra are an elixir:
+from the end of night until [the next] night the wise meditate [on them].
+
+**3366.** *Thus it is said by the ancients:*
+*At the end of night — [remember] Gaurachandra sleeping in His own house;*
+*in the morning — [Him], having risen from His couch, surrounded by His associates,*[^12-532]
+
+**3367.** *and the joyful washing of His mouth with fragrant water,*
+*and then the anointing with oil, the bath, the taking of food and so on;*
+
+**3368.** *in the forenoon — [Him], full of eagerness [to go] to the houses of the devotees;*[^12-533]
+*at midday — [His] most wondrous play on the bank of the celestial river;*
+
+**3369.** *in the afternoon — [His] stroll through Navadvipa, full of merriment;*
+*in the evening — [His] beautiful, splendid return to His own house;*
+
+**3370.** *at the beginning of night — [Him], surrounded by His dear ones, in the house of Srivasa;*
+*at night — the splendid festival of sankirtana, [full of] the bliss of His own rasa.*
+
+**3371.** *Thus [it is said] in a song (in any raga):*[^12-534]
+At the end of night the Moon of Nadia shines
+on the bed in His own house;
+the radiance of His limbs glitters, delighting the mind —
+there is nothing equal to His grace, which stirs [even] Manmatha.
+
+**3372.** In the morning, engaged in good rites,
+He bathes in the Suradhuni with the greatest joy;
+having eaten many kinds of food with His associates,
+He lies on His bed for a moment — all the servants serve [Him].[^12-535]
+
+**3373.** In the forenoon, gladdening everyone,
+donning new attire, the Thief of hearts goes out;
+together with His associates He makes merry in the associates' houses —
+what can I understand? The ways of prema have no end.
+
+**3374.** Blessed is the time of midday: the lakes, the rows of forests,
+the cool bank of the Suradhuni;
+the various plays there — what poet could describe them?
+Watching [them], the hosts of gods lose their calm.
+
+**3375.** In the wondrous time of the afternoon
+He wanders through Nadia with His associates;
+a beauty that conquers the worlds, a cloud raining rasa —
+seeing [Him], the men and women of the town are elated.
+
+**3376.** At dusk He goes to His own house;
+Sri Shachi-devi, seeing [His] face, rejoices.
+The sight of the Lord brings forth a wondrous merriment —
+how many hundreds of people come, how many times!
+
+**3377.** At the beginning of night, having gladdened His mother's heart,
+He arrives at the house of His dear Srivasa;
+great is the elation of the devotees there;
+the Lord dresses Himself in the sweetest manner.
+
+**3378.** In the time of the pure night, intoxicated with sankirtana,
+glad at heart — tumultuous merriment;
+[then] with His associates — and again in His own house He lies down to rest,
+Narahari's Lord, young Gaura, full of rasa.
+
+**3379.** How Gora Raya sports in Navadvipa —
+even Brahma and the other gods find no end to it.
+
+**3380.** The dancing, the kirtana, the absorption in emotion that were here,
+the mercy that was revealed [here] — this the fortunate see.
+
+**3381.** *Thus [it is said] in a song (raga Kamoda):*
+Gora, Shachi's darling, dances;
+the treasure rare [even] for the gods He offers to anyone at all. (Refrain.)
+
+**3382.** Seeing the fallen, He cannot contain Himself;
+moment after moment so many waves of emotion rise!
+
+**3383.** [His] radiance glitters, surpassing gold;
+[He is] covered all over with the thrill of rapture — what beauty!
+
+**3384.** His holy face and chest are bathed in the tears of His eyes;
+raising both arms, He cries "Hari!" again and again.
+
+**3385.** Frenzied devotees move about on all sides;
+the clamour of "Jaya, jaya!" [fills] this earth and the sky.
+
+**3386.** Looking at the Lord, no one keeps his composure;
+Narahari, falling at those reddish feet, weeps.
+
+**3387.** *Again, raga Kamoda:*
+Gora, the jewel of virtues, dances, a very mine of prema;
+His dear associates are all around.
+So wondrous is the beauty — as if amid a host of stars
+a golden moon were shining.
+
+**3388.** His most tender body, surpassing the shirisha flower,
+is covered with the thrill of rapture, enchanting.
+The blossoming lotus is [left] far behind; Madana pines for [His] face;
+His reddish lips are steeped in smiles.
+
+**3389.** How many graceful movements He makes! Raising His arms, He says, "Hari" —
+He showers nectar without cease.
+[His] heart is full of compassion; gazing at the fallen,
+[His] eyes pour forth streams [like] the Suradhuni.
+
+**3390.** The khol and karatalas sound, beautiful is the movement of [His] feet —
+seeing this, who would not be enchanted?
+No sorrow or grief remained, all the people became intoxicated —
+Narahari [alone] is deprived of this joy.
+
+**3391.** *Again, raga Megha:*
+Gora is a Lord of great mercy:
+from the cloud of sankirtana He rains down prema in abundance.
+
+**3392.** Amid His associates He is splendidly adorned;
+with wondrous beauty He lights up the world.
+
+**3393.** He dances, making so many graceful movements;
+who can hold his heart steady, seeing that sweetness?
+
+**3394.** The karatalas and the mridanga sound;
+they sing sweet songs — waves of nectar.
+
+**3395.** Some laugh, some weep;
+some roll on the ground, unable to keep still.
+
+**3396.** Cries of victory [fill] this earth and sky;
+[even] the wretched, lowly Narahari Dasa became intoxicated.
+
+**3397.** *Again, raga Dhanashri:*
+Gorachand, the purifier of the worlds —
+a snare for the minds of all living beings.
+
+**3398.** The Lord dances, overcome by prema;
+His reddish eyes swim in tears.
+
+**3399.** Raising His arms, He says, "Hari, Hari!" —
+He seizes the fallen and takes [them] into His embrace.
+
+**3400.** He floods everyone with His own rasa;
+on all four sides the associates sing.
+
+**3401.** Dashing His most tender body [to the ground],
+He rolls, fallen in the dust.
+
+**3402.** Seeing this, all living beings weep;
+Narahari cannot keep still.
+
+**3403.** What shall I say? Immersed in the joy of sankirtana
+in Srivasa's house, [the Lord] goes off to His own home.
+
+**3404.** One night the Lord, in Srivasa's courtyard,
+having shut the doors, was beside Himself in sankirtana.
+
+**3405.** A chief of the pashandas named Gopala Chapala —
+his work was [whatever] would bring grief to Srivasa.[^12-536]
+
+**3406.** Placing at these doors a pot of wine, vermilion and other things,
+he went off to his own home with joy in his heart.
+
+**3407.** In the morning Srivasa shows it to the respectable people
+and at once had that place cleansed.
+
+**3408.** He committed an offence against Srivasa —
+within two or three days leprosy struck him.
+
+**3409.** Gopala Chapala suffers greatly from leprosy;
+after some time he was healed by Srivasa's mercy.
+
+**3410.** One day the Lord was absorbed in dancing here;
+at the doors a brahmana was not allowed to come in.
+
+**3411.** He had wished to see the sankirtana;
+unable to see it, he went off to his own home in sorrow.
+
+**3412.** One day, finding Gaurachandra on the bank of the Ganga,
+he curses the Lord, filled with great anger.
+
+**3413.** Tearing his sacred thread, he says again and again:
+"May Your worldly happiness be destroyed!"
+
+**3414.** Hearing the brahmana's curse, Gaurahari in great joy
+came back from the bank of the Ganga, having bathed.[^12-537]
+
+**3415.** Whoever hears with faith of the brahmana's curse [laid] upon the Lord
+is freed from a brahmana's curse.
+
+**3416.** *Thus [it is said] in the Sri Chaitanya-charita, in the second prakrama:*
+*Having heard thus, even once, with supreme faith, of the curse upon Hari,*
+*a man is freed from a brahmana's curse and attains happiness.*
+
+**3417.** O Srinivasa, here, with His associates,
+the Lord, greatly enraptured, dances in sankirtana.
+
+**3418.** *In a song (raga Suhai):*
+Mighty-armed Chaitanya-raya dances.
+Who knows how many, how many — hundreds upon hundreds of bhavas —
+[appear] on [His] golden-hued body? (Refrain.)
+
+**3419.** Hearing [the singing of] His own qualities, the sankirtana of the Name,
+the best of dancers sports joyfully.
+The people of the town of Nadia — their sorrow and grief were cut away;
+they drowned in the waves of prema.
+
+**3420.** Brimming over with prema, His body spotless,
+the beauty of sprouting goosebumps.
+What more shall I say? Endless experiences [of bhava];
+seeing [Him], the mind of the world is filled with longing.
+
+**3421.** By [His] merciful glance, by the shower of nectar,
+the whole universe is sprinkled.
+Chaitanyadasa sings: in [this] gift of incomparable prema
+I alone was left deprived.[^12-538]
+
+**3422.** *Again, raga Suhai:*
+Gora dances, delighting in prema;
+the Lord of all the worlds sports in Nadia.
+
+**3423.** Dancing and dancing, Gora does not know the directions of the world;
+weeping and weeping, with His moonlike mouth He says, "Hari!"
+
+**3424.** Distributing to living beings the treasure of the prema of Goloka,
+Gora dances in sankirtana, crying, "Haribol!"
+
+**3425.** Filling this earth and sky [resound] the cries of "Jaya, jaya!";
+[all] sing [His] endless qualities day and night.
+
+**3426.** *Again, raga Dhanashri:*
+Hearing the cry of "Govinda!" on all sides, the Lord laughs;
+with trembling lips Gora speaks in a faltering voice.
+
+**3427.** Gauranga dances, and with Him is Nityananda;
+the earth is flooded with prema, bliss has increased.
+
+**3428.** Govinda, Madhava, Vasu [and] Mukunda sing;
+having found His own people, [the Lord] lost Himself in the rasa of kirtana.
+
+**3429.** The merry companions are rapt in that nectarean rasa;
+Vasu Ramananda is a chakora greedy for it.[^12-539]
+
+**3430.** *Again, raga Suhai:*
+The best of dancers, youthful Gaura, dances;
+[His] novel movements hold the world entranced.
+
+**3431.** Dazzling is the radiance of [His] body, incomparable;
+seeing [it], how many, many Kamas faint.
+
+**3432.** [His] large eyes tremble;
+on His neck sways a garland of forest flowers wound [around it].
+
+**3433.** Nectar drips from the radiant moonlike face;
+the devotee-chakoras drink [it], filling their eyes.
+
+**3434.** Again and again He utters the sweet name of Hari;
+hearing [it], who does not weep without cease?
+
+**3435.** The wretched and the fallen are intoxicated with the rasa of prema;
+[only] this hard chest of Narahari does not melt.
+
+**3436.** One day, hearing the cry of "Hari," Gaura-raya
+lost consciousness and fell to the ground here.
+
+**3437.** The devotees bring [Him] back to consciousness with sankirtana;
+overcome by bhava, the Lord says so much from moment to moment.
+
+**3438.** Who can understand those transformations of bhava?
+Listen, listen, Srinivasa! I shall tell a little more.
+
+**3439.** One day in Srivasa's house, here,
+Advaita dances in sankirtana in the mood of a gopi.
+
+**3440.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Madhya-khanda:*
+"One day Advaita dances in the mood of a gopi;
+all sing kirtana with great love."[^12-540]
+
+**3441.** *Thus [it is said] in a song (raga Ashavari):*
+Today the Lord of Sita, Advaita, dances
+in the mood of a gopi, with exceedingly sweet grace.
+[His] golden body is covered all over with goosebumps —
+seeing [that] beauty, who can keep his composure?
+
+**3442.** From His lotus eyes flow streams of tears;
+He cannot check them, [His] composure does not remain.
+His face, touched with a gentle, gentle smile,
+shines, surpassing the moon.
+
+**3443.** He bends His arms, He sets down His feet —
+in time [with them] the earth sways.
+How softly, softly [sound] the mridanga and the mandira cymbals,
+played by some who stand on all sides!
+
+**3444.** In the joy of their hearts the dear associates sing
+of that lovely deed, which pours forth nectar.
+Ghanashyama says: who does not weep at [His] qualities?
+Cries of "Jaya, jaya!" fill the world.
+
+**3445.** In the mood of a gopi, with great bliss in His heart, Advaita
+in Nilachala asked this boon of the Lord:
+
+**3446.** *Thus [it is said] in the Chaitanya-chandrodaya-nataka:*
+*Some in servitude, some, as loving ones, in friendship, and those same ones in both;*
+*some few in devotion to Radha-Madhava, [others] to the Lord of Dvaraka;*
+*and some others in friendship and the rest towards both, or towards another avatara —*
+*all whose hearts are bound to Me, may I make attached to Vrindavana.*[^12-541]
+
+**3447.** Intoxicated with the supremely rare mood of a gopi,
+Advaita dances, displaying various graceful movements.
+
+**3448.** In the dance there is no pause for even half a moment;
+holding a blade of grass between His teeth, falling to the ground, He says so much.
+
+**3449.** Moment by moment prema grows, the heart knows no rest;
+knowing Advaita's yearning, Vishvambhara came.
+
+**3450.** Calming Advaita, the Lord Gaura-raya,
+having shut the door, sat here in this room.
+
+**3451.** What shall I say? In this room a great wonder took place:
+the Lord showed Advaita the universal form.
+
+**3452.** Suddenly Nityananda came and saw [it];
+Nityananda and Advaita — both were beside Themselves.
+
+**3453.** Only he has the power to understand the deeds of these two
+who has no notion of difference between Nityananda and Advaita.[^12-542]
+
+**3454.** Absorbed in prema, Gora-raya, with His dear associates,
+went to His own home and came here again.
+
+**3455.** With His associates the Lord, in this courtyard of Srivasa,
+became supremely overwhelmed in sankirtana.
+
+**3456.** Srivasa's son had been ill;
+at that very time he departed for Vaikuntha.[^12-543]
+
+**3457.** "The Lord's joy will be broken" — for this reason Srivasa
+forbade everyone [to speak], and no one disclosed [it].
+
+**3458.** The Lord Gaurachandra Bhagavan, who knows all hearts,
+through the mouth of the dead son proclaimed divine knowledge.
+
+**3459.** The grief of Srivasa's family for the son went far away;
+clasping the Lord's feet, [they] said so much to the Lord.
+
+**3460.** Moved, the Lord speaks sweet words:
+"Nityananda and I — We two — are your sons."
+
+**3461.** Hearing the Lord's compassionate words, in the bliss of prema
+the devotees on all four sides raise cries of victory.
+
+**3462.** The Lord, having stayed [there] a while and completed what was to be done,
+went to His own home, taking Gadadhara with Him.
+
+**3463.** One day, coming to this courtyard of Srivasa,
+[the Lord] with His associates became greatly overwhelmed in kirtana.
+
+**3464.** Beside Srivasa's house [lived] a tailor;
+he sews Srivasa's clothes, and by birth he is a yavana.
+
+**3465.** Here the Lord showed him [His] four-armed [form];
+crying, "I have seen, I have seen!" he dances.
+
+**3466.** That yavana went mad, overcome by prema.
+Such lilas does the son of Shachi reveal.
+
+**3467.** One day the Lord, having asked Shuklambara for food,
+went by this path with His associates to his house.
+
+**3468.** What can I say? Here great merriment grew:
+Shuklambara cooked, and the Lord ate.
+
+**3469.** Having eaten, [the Lord] sat and chewed tambula;
+together with His associates the Lord lay down here to rest.
+
+**3470.** The Lord's scribe, Sri Vijaya, was there:
+from the touch of the Lord's hand — what he saw, who knows?[^12-544]
+
+**3471.** By the Lord's order he told no one anything;
+without external consciousness he wandered for seven days through Nadia.
+
+**3472.** What can I say? In Shuklambara's house — many playful sports;
+thus everywhere [the Lord] sports with His associates.
+
+**3473.** One day here the Lord Gaurahari
+called out loudly, "Bring honey, bring honey!"
+
+**3474.** In the mood of Haladhara the Lord was beside Himself;
+Nityananda filled a pot and gave [Him] Ganga water.[^12-545]
+
+**3475.** Here the Lord dances in various moods;
+at the singing of the lilas of Vrindavana He cannot keep His composure.
+
+**3476.** Here, absorbed in prema, [the Lord] asks Srivasa for the flute;
+"The gopis have taken the flute away," says Srivasa.
+
+**3477.** Hearing [this], the Lord, delighted, says, "Tell, tell!"
+Srivasa told of the pastimes of Vraja at length.
+
+**3478.** Hearing the lilas of Vrindavana from Srivasa's mouth,
+absorbed in prema, [the Lord] embraced him tightly.
+
+**3479.** One day Gaura-raya, in the mood of Nrisimha,
+runs with a club in His hand to kill the pashandas.
+
+**3480.** Seeing the form of Nrisimha, the people flee in fear;
+regaining external consciousness, [the Lord] throws down the club before Srivasa.
+
+**3481.** Sitting here, the Lord said something to Srivasa;
+at Srivasa's words [He] joyfully went to His own home.
+
+**3482.** O dear Srinivasa, I tell you:
+these pastimes in Nadia enchanted the world.
+
+**3483.** One day all the eminent [devotees] were sitting here;
+overwhelmed with prema, [they] said to one another:
+
+**3484.** "Gora is supremely merciful — there is nothing to compare;
+who in the world does not weep [with longing] for Gora's beauty and virtues?"
+
+**3485.** *Thus [it is said] in a song (raga Suhai):*
+There is none, none, oh, but Gauranga;
+there is no other merciful Lord.
+Compassionate, treasure of virtues, fulfiller of all desires —
+the full, full, full descent.
+
+**3486.** All the living beings swallowed by Kali had fainted;
+there was no other great medicine or tantra.
+Seeing the helpless, feeble beings, [He] revealed,
+[as] the [remedy that] revives the dead, the mantra of the name of Hari.
+
+**3487.** In Rama and the other descents, in anger, [He] took up weapons in battle
+and destroyed the asuras.
+Now [He] took up no weapon, took no one's life —
+[He] purified the minds of all.
+
+**3488.** Such is His glory: whoever had a heart of stone
+became the equal of the sages.
+Devakinandana says: whoever does not accept such a Lord
+is a rogue, a boar wallowing in the mire.[^12-546]
+
+**3489.** *Again, raga Dhanashri:*
+A great descent, brother, a great descent:
+[He] gave away to the fallen the storehouse of prema.
+
+**3490.** How wondrous is the lila of Gorachand:
+having become a king, [a man] carries a Vaishnava's bag on his shoulder.
+
+**3491.** No comparison can be found for such a descent:
+in the midst of sankirtana dance the daughters-in-law of noble families.
+
+**3492.** The one whom all people shunned, calling [him] untouchable —
+from him the gods now beg the dust of his feet.
+
+**3493.** Even the yavanas dance, sing, take the name of Hari;
+in such a descent [only] Balarama is left deprived.[^12-547]
+
+**3494.** *Again, raga Kamoda:*
+The creatures of the water weep, seeing [His] reflection;
+in the forest the beasts and birds weep.
+The trees thrill with ecstasy, the stones melt;
+hearing [of Him], the blind weep and cry out.
+
+**3495.** Wondrous is the body of Gorachand.
+Boundless [is this] experience — what can one tell with one mouth?
+What is in the mind — even that does not come to the lips.
+
+**3496.** Even the wives of noble families cry out and weep;
+the deaf and the dull weep in bewilderment.[^12-548]
+Leaving the mother's breast, the suckling child —
+who knows why — weeps.
+
+**3497.** There will be no other descent like this —
+nothing but an ocean of compassion.
+[He] delivered the fallen, the foolish, the inert and the not inert;
+only Yadu is left deprived.[^12-549]
+
+**3498.** O Srinivasa! The Lord is the independent Ishvara;
+[only] the devotees can know the Lord's heart.
+
+**3499.** Some devotees, sitting in this secluded place,
+look at one another in distress.
+
+**3500.** One says, "For some days now —
+I do not know what my heart is doing, [so it longs] to see the Lord."
+
+**3501.** Another says, "On the day when, taking a stick in His hand,
+the Lord went in anger to beat the students —[^12-550]
+
+**3502.** from that day the Lord has become somehow [different];
+it seems [He] will soon accept sannyasa."
+
+**3503.** Another says, "This has become almost clear;
+especially I understood [it] from Nityananda's behavior."
+
+**3504.** Saying many such things, [they] went to Mukunda's abode;
+he sits with a heart full of great distress.
+
+**3505.** All going to the house of Gadadhara Pandita,
+[they], on seeing him, lost all composure.
+
+**3506.** All went to Srivasa's abode;
+they cannot hold back the streams of tears flowing from their eyes.
+
+**3507.** At that time the Lord came to Srivasa's house;
+seeing the state of the devotees, [He] cannot remain calm.
+
+**3508.** There was much talk between the Lord and the devotees;
+[He] cannot dispel the pain in the devotees' hearts.
+
+**3509.** Again the Lord speaks sweet words to the devotees:
+"I am accepting sannyasa for the deliverance of the people.
+
+**3510.** Do not be anxious: I will not abandon all of you;
+birth after birth I shall sport with all of you."
+
+**3511.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Madhya-khanda:*[^12-551]
+"In the same way there will be two more [descents of Mine]:
+[in them] I shall be the embodiment of the bliss of kirtana.
+
+**3512.** In them too all of you, in this same merriment,
+will sing kirtana with great joy together with Me."
+
+**3513.** At these words of the Lord all became somewhat calmer;
+embracing everyone, the Lord went to His own home.
+
+**3514.** Hearing from others about the sannyasa,
+Ai, in great grief, fell here unconscious.
+
+**3515.** Here the mother said so much to her son —
+on hearing all those words a stone would split.
+
+**3516.** Seeing that His mother's life was in danger,
+the Lord, in this secret place, says much to His mother.
+
+**3517.** In which descents Shachi Ai had been [His] mother —
+having told of this, Nimai says something more:
+
+**3518.** "Now, mother, [you] have tasted kirtana as much as [you] could;
+so [I] shall begin kirtana again, taking birth once more."[^12-552]
+
+**3519.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Madhya-khanda:*[^12-553]
+"Twice more, for the beginning of this sankirtana,
+I shall very soon become your son.
+
+**3520.** Thus you are My mother birth after birth;
+between you and Me there is never, truly, any parting."
+
+**3521.** Hearing this, Ai became somewhat calmer,
+yet still she cannot stop the tears from her eyes.
+
+**3522.** The Lord lovingly consoles Sri Vishnupriya;
+[but] at [the sight of] her prema, who could remain calm?
+
+**3523.** Having consoled everyone, the Lord Sri Gaurasundara
+constantly sports in the bliss of sankirtana.
+
+**3524.** Thus everyone became immersed in sankirtana;
+that the Lord would go away, no one even remembered.
+
+**3525.** The Lord will accept sannyasa — at this, in Nadia,
+the beauty of all that was beautiful almost faded.
+
+**3526.** *Thus [it is said] in a song (raga Deshapala):*
+Gorachand will leave Nadia and go — at this
+the stream of the Jahnavi was left without waves;
+the Deities of Shambhu, Bhagavati, Ganapati —
+all that were there seemed to grow dim.
+
+**3527.** The trees and creepers do not put forth leaves,
+the flowers do not bloom, devoid of fragrance;[^12-554]
+on them they do not settle, do not drink the flowers' nectar,
+the wretched bees and their mates do not hum.
+
+**3528.** The flocks of cuckoos are bereft of their sweet song;
+the peacock does not dance with the peahens;
+the sharis, shukas and many birds weep, [tears] streaming from their eyes —
+they cannot fly up, distressed, in the forest.
+
+**3529.** The cows do not run lowing,
+the deer and other animals cannot keep calm.
+Narahari says: beauty has gone far away;
+the land of Nadia cannot contain its grief.
+
+**3530.** O Srinivasa, Gaurachandra acts by His own will:
+when He will leave home, no one knows.
+
+**3531.** On the day before the Lord was to leave home,
+[He] was here in great ecstasy in sankirtana.
+
+**3532.** Here on a throne sits the Lord Vishvambhara,
+His body adorned with divine garlands and sandal paste.
+
+**3533.** Supreme beauty — what can it be compared to?
+Gods and humans, gathering together, come to see.
+
+**3534.** Bowing down, all take the darshan of the Lord;
+seeing [His] beautiful curling hair, [they] delight their eyes.
+
+**3535.** Smiling gently, the Lord, jubilant at heart,
+gives everyone the garlands from His own neck.
+
+**3536.** Receiving the prasada, the Lord's associates, rejoicing,
+raise the sound of "Hari" and stand gazing at [His] face.
+
+**3537.** The Lord says to everyone, "If you want Me,
+then all of you constantly sing of the qualities of Krishna."
+
+**3538.** While the Lord Vishvambhara was instructing everyone thus,
+at that time Shridhara came, bringing a bottle gourd.
+
+**3539.** Night came. "Tomorrow I shall go," the Lord thinks in His mind,
+"how can I neglect a devotee's offering?"
+
+**3540.** At that time someone came, bringing milk;
+[the Lord] tells His mother to cook the gourd with milk.
+
+**3541.** Ai lovingly cooked the gourd with milk
+and, having offered it to Krishna, here fed her son.
+
+**3542.** It was deep in the night; the Lord lay down in this house;
+by the Lord's will sleep overcame everyone.
+
+**3543.** But the Lord does not sleep; He looks in all directions;
+by the Lord's will the night quickly came to its end.
+
+**3544.** At dawn, taking the dust of Ai's feet on His head,
+the Lord went by this road to accept sannyasa.
+
+**3545.** As [He] was leaving — only weeping, not a word;
+Ai, the mother of the world, became like the earth.
+
+**3546.** Almost motionless, she sits at the outer door,
+gazing at the road by which the Lord has gone.
+
+**3547.** The devotees know nothing of all this;
+in the morning [they] came here to see the Lord.
+
+**3548.** Seeing Mother Shachi weeping beyond measure,
+all understood: today [He] has gone.
+
+**3549.** "Suddenly the Lord has gone, leaving us all!" —
+saying this, all weep, fallen right here.
+
+**3550.** Here Advaita Acharya weeps;
+who, hearing that lament, can keep his composure?
+
+**3551.** *Thus [it is said] in the Sri Chaitanya-chandrodaya-nataka:*
+*"O Vishvambhara-deva, O treasury of virtues, O ocean of the waters of prema,*
+*O Lord who descended to deliver the wretched, O chintamani of the devotees!*
+*Blinding [us], plunging the ten directions into blinding darkness, emptying the hearts of all living beings —*
+*for what offence of ours do You abandon us?"*[^12-555]
+
+**3552.** Srivasa, Murari Gupta and the other devotees
+weep here, rolling on the ground.
+
+**3553.** Countless people weep, their hearts full of distress;
+from the tears the earth became thoroughly muddy.
+
+**3554.** [Even] the pashandas, the greatest of slanderers, weep:
+"We did not recognize the Lord!" [they] say, and find no peace.
+
+**3555.** Whoever they were in Nadia — women, men, children, the old —
+weeping, all are distraught and cannot keep their composure.
+
+**3556.** No one can speak words of consolation;
+all were plunged into an ocean of sorrow.
+
+**3557.** All that I saw cannot be put into words;
+even today that fire burns in [my] heart.
+
+**3558.** O Srinivasa, what shall I say? Vishvambhara
+goes from home alone to Kantaka-nagara.
+
+**3559.** Nityananda-deva, Sri Pandita Gadadhara,
+Sri Mukunda Datta and Sri Chandrashekhara —
+
+**3560.** these, going after [Him], caught up with the Lord;
+the news of the Lord's sannyasa spread everywhere.
+
+**3561.** Showing mercy to the fortunate Keshava Bharati,
+the Lord accepts sannyasa from him.
+
+**3562.** At the time of the sannyasa no one could remain calm;
+countless people sink in an ocean of sorrow.
+
+**3563.** The month of Magha, the bright fortnight — a beautiful time:
+Vishvambhara accepted sannyasa.
+
+**3564.** *Thus [it is said] in the Sri Chaitanya-charitamrita, in the Madhya-khanda:*[^12-556]
+"At the end of twenty-four years, in the month of Magha,
+in its bright fortnight the Lord accepted sannyasa."
+
+**3565.** Having accepted sannyasa, the Lord, restless with prema,
+set out from Kantaka-nagara.
+
+**3566.** Sri Chandrashekhara Acharya, coming to Nadia,
+sees: the fire of separation from the Lord is burning everyone.
+
+**3567.** All run to question Sri Chandrashekhara;
+here he tells Mother Shachi the news of the Lord.
+
+**3568.** What became of Advaita and all the others when they heard
+of the Lord's sannyasa — what shall I say [of it], Srinivasa?
+
+**3569.** The Lord, wandering through Rarh, bestowed good fortune on Rarh;
+coming to the bank of the Ganga, [He] rejoiced in bathing in the Ganga.
+
+**3570.** Coming near the village of Phuliya,
+the Lord sent Nityananda to Nadia.[^12-557]
+
+**3571.** Coming to Nadia, the son of Padmavati
+first of all enters the Lord's house.
+
+**3572.** Right here sat Shachi Thakurani;
+from a twelve-day fast her body had grown very thin.
+
+**3573.** Nitai bowed at Ai's feet;
+"Come, my son!" — saying [this], Ai fainted.
+
+**3574.** Seeing Nityananda, the great Bhagavatas —
+how can I say how [they] weep?
+
+**3575.** To everyone Nitai speaks gently:
+"I have come to take all [of you]: come to the Lord.
+
+**3576.** The Lord has gone to Phuliya, sending me;
+[He] will go to Shantipura by way of Kuliya."[^12-558]
+
+**3577.** At Nityananda's words all were overwhelmed with joy:
+those who had grown weak gained great strength.
+
+**3578.** Nityananda, persuading Sri Shachi Ai at length,
+had [her] cook, and she cooked with great care.
+
+**3579.** The rice, vegetable dishes and the rest Ai offered to Krishna;
+first Ai gave the prasada to Nityananda.
+
+**3580.** Then, having served all the Vaishnavas
+and satisfied everyone, Ai ate.
+
+**3581.** Here Vishnupriya Devi partook of prasada;
+great bliss arose in all the Vaishnavas.
+
+**3582.** Then, together with Nityananda, the Lord's dear associates
+got ready to go and see Gaurachandra.
+
+**3583.** All the women and men, children and old of Nadia
+go to see [Him] — who can tell how splendid it was!
+
+**3584.** All the pashandas who had formerly slandered [Him] —
+[they too] go to take refuge at the Lord's feet.
+
+**3585.** Navadvipa, the town of Phuliya, Shantipura —
+who can count the people going back and forth?
+
+**3586.** All the Lord's dear associates, the residents of Navadvipa,
+set out, taking Mother Shachi with them.
+
+**3587.** At that time someone comes up and says very softly:
+"Today the Lord has come to Advaita's house."
+
+**3588.** Hearing [this], people on all sides rush off at a run;
+by this road Ai set out for Shantipura.
+
+**3589.** Coming to Advaita's house and seeing Vishvambhara —
+how can I tell what happened in [her] heart?
+
+**3590.** Taking her son on her lap, Ai forgot her sorrow;
+having cooked, she gave her son bhiksha.[^12-559]
+
+**3591.** Srivasa, Murari Gupta and the other devotees,
+surrounding the Lord, held a wondrous sankirtana.
+
+**3592.** Having danced, the three Lords sit in joy;
+seeing [that] beauty, how much the people say in low voices!
+
+**3593.** *Thus [it is said] in a song (raga Kamoda):*
+Ah, I die, I die! Look, filling your eyes,
+at the form that enchants the worlds:
+Advaita, the root of bliss, Nityananda,
+Chaitanya, the king of rasa.
+
+**3594.** Surpassing a host of moons, the radiance of [Their] faces
+steals the pride of Madana.
+Smiling softly, softly, heaps upon heaps of nectar
+[They] shower, laden with rasa.
+
+**3595.** The bright tilaka glitters,
+lovely are the eyes and brows.
+What beauty of the arms, captivating the minds of sages!
+The broad chest is charming.[^12-560]
+
+**3596.** On the neck fine garlands of many flowers shine,
+elegant garments adorn [Them].
+The rosy feet shine constantly
+in the heart of Ghanashyama.[^12-561]
+
+**3597.** O Srinivasa, by the mercy of Gaurachandra
+women, children, the old and the young — all dance and sing.
+
+**3598.** To all the Lord gives the jewel of prema-bhakti;
+Advaita's house became like Vaikuntha.
+
+**3599.** To Srivasa, Murari Gupta and the other devotees
+[He] gave supreme bliss with words of consolation.
+
+**3600.** The Lord brought contentment to [His] mother;
+by this road Ai returned to her own house.
+
+**3601.** The bliss that there was in Sri Advaita's house
+cannot be described [even] with a thousand mouths.
+
+**3602.** Having consoled everyone, the Lord departs;
+with Him go Nityananda and several others.
+
+**3603.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Antya-khanda:*[^12-562]
+"Nityananda, Gadadhara, Mukunda, Govinda,
+and with them Jagadananda and Brahmananda."
+
+**3604.** In supreme delight the Lord went to Nilachala;
+having wandered everywhere, [He] settled in Nilachala.
+
+**3605.** *Thus [it is said] in a song (raga Kamoda):*
+Shachi's son Gaurahari, descending in Navadvipa,
+performed many kinds of pastimes.
+Taking His dear ones with Him, manifesting sankirtana,
+[He] increased everyone's joy.
+
+**3606.** And how, in the garb of a sannyasi,
+the Lord wandered from land to land,
+came to Nilachala and stayed [there]!
+Maddened with Radhika's prema, knowing neither day nor night,
+with that prema [He] maddened the world.
+
+**3607.** Nityananda-Balarama, Advaita, the abode of virtues,
+Gadadhara, Srivasa and all the others —
+seeing that wondrous way, none can keep steady:
+[all] are ceaselessly overwhelmed with prema.
+
+**3608.** The jewel rare [even] for the gods [He] distributed with care —
+I take upon myself the ills of [His] mercy and die.
+Lord Krishna Chaitanya made the age of Kali blessed;
+Narahari Dasa sings [His] glory.[^12-563]
+
+**3609.** O Srinivasa! The Lord, staying in Nilachala,
+sends Nityananda to Sri Gauda-mandala.
+
+**3610.** What [He] told Nitaichand in private
+was, by the Lord's will, not disclosed there.
+
+**3611.** Nityananda, the ocean of compassion, comes to Gauda,
+and with Him Abhirama, Gadadhara Dasa and others.
+
+**3612.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Antya-khanda:*[^12-564]
+"Ramadasa, Gadadhara Dasa Mahashaya,
+Raghunatha Vaidya Ojha, full of the rasa of bhakti,
+
+**3613.** Krishnadasa Pandita, Parameshvari Dasa,
+Purandara Pandita in supreme joy —
+
+**3614.** all the intimates of Nityananda-svarupa
+went together with Nityananda."
+
+**3615.** What Gaurachandra said at the time of parting,
+that very thing Nityananda steadfastly carries out.
+
+**3616.** Having travelled through the land of Utkala, [He] made His way to the land of Gauda;
+in the rapture of prema [He] is boundlessly merciful to the fallen and the afflicted.
+
+**3617.** *Thus [it is said] in a song (raga Abhiri):*
+Glory, glory to Nityananda, the son of Rohini!
+To deliver the fallen [He] stretches out [His] arms.
+
+**3618.** Faltering, sweet, sweet, half-spoken words;
+whomever He sees, He clasps in an embrace of prema.
+
+**3619.** [His] brimming eyes roll ceaselessly,
+like bees circling over a golden lotus.
+
+**3620.** The merciful master Nitai knows the sorrow of others:
+stringing a garland of the names of Hari, [He] gave [it] to the people of the world.
+
+**3621.** [He] subdued all the sinful pashandas,
+to the poor and lowly He distributed prema.
+
+**3622.** Crying "Ah, Sri Gauranga!" He falls to the ground;
+Nitai's body was drenched with the tears of [His] eyes.
+
+**3623.** Vrindavana Dasa thought thus in his heart:
+has lightning fallen upon the earth?
+
+**3624.** *Again, raga Mangala:*
+He goes with the gait of a king of elephants, looks with a compassionate glance;
+under the weight of [His] steps the earth sways.
+Surpassing a great maddened lion, [He] makes the earth tremble;
+hearing [Him], the pashandas are distraught.
+
+**3625.** Here comes the avadhuta, the ocean of compassion!
+His mind overflowing with prema, [He] performs Hari-sankirtana —
+the purifier of the fallen, the friend of the wretched. (Refrain.)[^12-565]
+
+**3626.** Roaring, [He] goes — the unmoving and the moving tremble,
+the assembly of the immortals floats in prema.
+With [His] companions, in the delight of many games,
+[He] does everything unseen.
+
+**3627.** Sankarshana who lies on Shesha, Narayana the source of the avataras —
+are counted as His portions and portions of portions;
+the ocean of mercy, the giver of bhakti, the benefactor of the world —
+that is Rama, the son of Rohini.[^12-566]
+
+**3628.** He whose lilas are an abode of loveliness, sung by the Agamas and Nigamas,
+whose form enchants [even] Madana —
+now, in the guise of a pauper, the Lord wanders from land to land
+and delivers the three worlds.
+
+**3629.** If there is in the mind [a desire] to attain the essence of Vraja's artfulness
+and all the other lilas —
+Balarama Dasa says: the desire will be fulfilled —
+worship, brother, the feet of Shripada.
+
+**3630.** Everywhere the news resounded: "Nityananda Raya
+has come to Gauda, overwhelmed by prema!"
+
+**3631.** From all sides people run to see the Lord;
+wondrous is the Lord's mercy to the wretched and the fallen.
+
+**3632.** *Thus [it is said] in a song (raga Dhanashri):*
+My Nitai is overflowing with love for Gora;
+from His reddish eyes flow streams of the Suradhuni.
+
+**3633.** Abundant rows of goosebumps adorn His golden body;
+with the gait of a lordly elephant, swaying and rocking, He goes.
+
+**3634.** Seeing the fallen, spreading both His arms,
+[He] takes [them] in His embrace and again and again makes [them] say, "Hari, Hari."
+
+**3635.** Who else will be such a treasure of mercy?
+[He] descended to deliver the wretched Narahari.
+
+**3636.** *Again, raga Pathamanjari:*
+Nitaichand is merciful, Nitaichand is merciful!
+Such mercy to the souls of [the age of] Kali has never been.
+
+**3637.** Now He is dark, now golden; His body swells [with ecstasy];
+now He weeps, now He laughs — He does not come to His senses.[^12-567]
+
+**3638.** Now He utters [only] "Go, go" — He cannot say "Gora";
+His eyes, red with love for Gora, swim in tears.
+
+**3639.** Himself floating in rasa, [He] flooded the earth;
+[only] Yadu remained aside, on this mountain of worldly existence.[^12-568]
+
+**3640.** *Again, raga Shri:*
+Nitai, the jewel of virtues, my Nitai, the jewel of virtues!
+Bringing a flood of prema, [He] flooded the earth.
+
+**3641.** With the flood of prema Nitai came to Gauda:
+the devotees drowned, the poor and lowly float.
+
+**3642.** [He] makes no distinction among the poor, the lowly, the fallen, the wretched:
+the prema rare [even] for Brahma [He] offers to all.
+
+**3643.** Cutting open the mouth of the enclosed ocean of mercy,
+[He sent] prema from house to house — a flood of mercy.[^12-569]
+
+**3644.** Lochana says: whoever has not worshipped my Nitai
+has, knowing and hearing, become the slayer of his own self.
+
+**3645.** First of all Nityananda, with His dear companions,
+came in great joy to the village of Panihati.[^12-570]
+
+**3646.** Raghava Pandita [and] Sri Makaradhvaja Kara[^12-571]
+and everyone felt great joy in their hearts.
+
+**3647.** The dancing and kirtana that [took place] in Raghava Pandita's house —
+who has the power to describe them?
+
+**3648.** In the sankirtana — the charming beauty of Nitaichand;
+those postures of [His] dance captivate the minds of sages.
+
+**3649.** *Thus [it is said] in a song (raga Gandhari):*
+Ah, how [wondrous] is Nitai's beauty!
+In how many postures He dances, raising His arms —
+enticing all the worlds.
+
+**3650.** Again and again He cries, "Gora!"
+His body, a golden mountain,
+constantly floats in the waters of bliss.
+
+**3651.** His heart overflows with compassion:
+the poor and lowly He makes greatly rich,
+giving them the chintamani of prema.
+
+**3652.** With what feeling He smiles gently, gently!
+Narahari says: [that smile] destroys the steadfastness and dharma
+of chaste women of good families.[^12-572]
+
+**3653.** *Again, raga Dhanashri:*
+How Nitaichand dances!
+His body glittering, His beauty incomparable —
+a snare for all eyes. (Refrain.)
+
+**3654.** With what new postures He looks in all four directions —
+who knows in what play He is absorbed!
+Raising His arms that reach to His knees,
+again and again He cries, "Gora!"
+
+**3655.** Together with His dear associates
+He always floats in the rasa of the pastimes of kirtana.
+The poor and lowly run [to Him] from all sides,
+receiving the breeze of [His] mercy.
+
+**3656.** All became intoxicated and float in the waters of prema;
+the pride of Kali is far away.
+Narahari [says]: who in the world does not weep,
+pondering and pondering the virtues of the Lord?
+
+**3657.** There the abhisheka of Sri Nityananda took place;
+of the joy that was at the abhisheka — what shall I tell?
+
+**3658.** *Thus [it is said] in a song (raga Ashavari):*
+Today, in bliss, Nitaichand
+was seated on a splendid throne —
+no one can contain himself.
+
+**3659.** Taking fragrant water of the Ganga,
+reciting mantras, he pours water on [His] head —
+the jubilant Damodara.
+
+**3660.** With cries of "Jaya, jaya!"
+the gods, mingling with the people, gaze at this beauty
+to their eyes' content.
+
+**3661.** Someone sings in the joy of the abhisheka;
+dressing [Him] in dry garments, Narahari
+anoints [Him] with sandal in that joy.
+
+**3662.** When [He] sat on the couch, having put a forest garland [on Him],
+Sri Raghavananda joyfully holds an umbrella [over Him].[^12-573]
+
+**3663.** "I will wear a garland of kadamba," [the Lord] says to Raghava.
+Raghava says, "There are no [kadamba] flowers now."
+
+**3664.** The Lord says, "Look — there certainly are flowers."
+[Raghava] sees kadamba flowers on a lime tree (jambira).
+
+**3665.** Bringing the flowers, Raghava strung a divine garland
+[and] placed [it] around the Lord's neck — what a wondrous play!
+
+**3666.** Who has the power to tell of Nityananda's greatness?
+[He] instructs everyone to worship Krishnachandra.
+
+**3667.** The ocean of mercy, Lord Nityananda Raya,
+gave to all the bhakti that is most difficult to attain.
+
+**3668.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Antya-khanda:*[^12-574]
+"The bhakti of the gopis, of which the *Bhagavata* speaks —
+the world received it from Nityananda."
+
+**3669.** After some days [He] wished to wear ornaments
+[and] was adorned with very costly ornaments.
+
+**3670.** The beauty of the ornaments became most wondrous;
+that the Lord wears ornaments — there is a reason for it.
+
+**3671.** [When] the Lord, in the garb of an avadhuta, was wandering in Vraja,
+[He] showed mercy to a certain devotee at Govardhana.
+
+**3672.** That one wished to put ornaments [on Him];
+the Lord, knowing this, said, "After some days."
+
+**3673.** For the sake of the devotee's love, [he] gave a Govardhana stone;
+having it set in gold, [the Lord] wore [it] at His throat.
+
+**3674.** Now, according to the devotee's wish, [He] wears ornaments;
+others do not understand this lila of the Lord.
+
+**3675.** Intoxicated with the bliss of love for Gaura, Nityananda Raya
+always intoxicates [His] servants with that most rare bhava.
+
+**3676.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Antya-khanda:*[^12-575]
+"All the bhavas toward Krishna desired [even] by Brahma and others,
+all the anuraga manifested in the gopis —
+
+**3677.** all those bhavas Nityananda Raya, with a mere hint,
+in His mercy gave to all [His] servants."
+
+**3678.** Having stayed in the village of Panihati in great joy,
+[He] set out for Navadvipa to see Ai.
+
+**3679.** The Lord, the purifier of the worlds, taking His associates,
+goes, absorbed in bhava, to the house of Dasa Gadadhara.
+
+**3680.** *Thus [it is said] in a song (raga Dhanashri):*
+My Nitai, the purifier of the worlds —
+who knows in what bhava He is always absorbed!
+
+**3681.** Crying, "Gora, Gora!" raising both arms,
+He moves, swaying, like a maddened elephant.
+
+**3682.** On His neck a glittering garland of malati
+plays upon His broad chest.
+
+**3683.** On His charming face, a sweet smile —
+as if the moon were pouring out masses of nectar.
+
+**3684.** Trembling eyes, reddish as lotuses —
+that glance is lovely, steeped in compassion.
+
+**3685.** Whomever He looks at but once with those eyes,
+He sets afloat on the ocean of prema.
+
+**3686.** He makes no distinction among the poor, the lowly, the wretched —
+is there any other such giver of prema?
+
+**3687.** Narahari, not worshipping such a Lord,
+remained sunk in the poison of sense objects.
+
+**3688.** The Lord went to the house of Dasa Gadadhara;
+the bliss that was there cannot be described.
+
+**3689.** There is no limit to Dasa Gadadhara's mercy:
+he delivered the wicked Kazi of that village.
+
+**3690.** With Dasa Gadadhara and His other dear ones,
+Nityananda manifests prema from place to place.
+
+**3691.** Lord Nityananda comes to Khardaha;
+all around, a host of associates adds to the beauty.
+
+**3692.** In their midst shines Nityananda, the enchanter of Kandarpa;
+everyone praises that appearance of His, rapt in prema.
+
+**3693.** *Thus [it is said] in a song (raga Kamoda):*
+I praise Lord Nityananda, the root of pure bliss;
+glittering ornaments adorn [Him].
+On both sides, at His ears, makara earrings sway;
+on His neck shines the Kaustubha.
+
+**3694.** His well-formed arms surpass the trunk of the best of elephants;
+in them gleams a golden staff.
+Reddish cloth on His body, [He] rushes with the gait of a lion;
+seeing [Him], the asuras and pashandas tremble.
+
+**3695.** One sees His body — pure gold; both eyes are red,
+and from them nectar trickles.
+As if a stream of the Ganga were flowing down Sumeru —
+seeing this, the heavenly worlds rejoice.
+
+**3696.** Over all His limbs, a radiance of goosebumps like a cluster of kadambas;
+at His leaps the earth trembles.
+With a hero's pride He slaps His arms — at the sound the universe cracks;
+seeing [this], the world of Brahma offers praise.
+
+**3697.** The jewel of Chaitanya's prema the Lord carefully
+gave to the souls in supreme bliss.
+Vrindavana Dasa says: through the faults of my own deeds
+I did not worship Nitai's two feet.
+
+**3698.** *Again, raga Dhanashri:*
+Nitai, the treasure of virtues, the limit of beauty —
+from what nectar did the Creator fashion [Him] with longing?
+The radiance of His body surpasses the morning sun —
+seeing [it], how can one keep one's composure?
+
+**3699.** Arms reaching to the knees, [like] serpents;
+incomparable postures, [He] floats in joy.
+His face, a dense cluster of autumn moons,
+rains down nectar in a slight smile.
+
+**3700.** Crying, "Gora, Gora!" His heart overflowing,
+swaying, He moves like an elephant.
+From His trembling eyes, reddish as lotuses,
+in torrents, torrents pour tears of bliss.
+
+**3701.** Gods and men run [to Him] from all sides,
+hoping to touch those rare feet.
+Dasa Narahari [says]: by the Lord's might
+the mighty age of Kali trembles with fear.
+
+**3702.** Coming to Khardaha, the Lord with His own [associates]
+stayed in the temple of Purandara Pandita.
+
+**3703.** Lord Nityananda plunged Purandara Pandita
+into the ocean of the happiness of sankirtana.
+
+**3704.** Sri Chaitanyadasa, Murari Pandita — all
+became frenzied in the sankirtana.[^12-576]
+
+**3705.** In Khardaha Nityananda, dancing and dancing,
+distributes the rarest wealth, offering and offering [it].
+
+**3706.** *Thus [it is said] in a song (raga Kamoda):*
+Nitai, the treasure of mercy —
+Providence has brought [Him] and granted [us] the meeting.[^12-577]
+
+**3707.** The poor, the lowly, the wretched people
+[He] made rich with the wealth of prema.
+
+**3708.** With [His] dear companions
+He dances and roams about, rejoicing.
+
+**3709.** I do not know with what prema He is intoxicated:
+[He] does not know day from night.
+
+**3710.** [His] body is grey with dust;
+seeing that, who can keep his composure?
+
+**3711.** Who does not weep over [His] qualities?
+Narahari alone [has stayed] far away.
+
+**3712.** *Again, raga Dhanashri:*
+Intoxicated with love for Gora, Nitai
+intoxicates the world, looking [at all] with a compassionate glance.
+
+**3713.** He dances, raising [His] arms that reach to the knees;
+swaying, swaying, He falls into the embrace of the fallen.
+
+**3714.** With how many joys does [His] heart not overflow!
+[His] face and chest are flooded with the tears of [His] eyes.
+
+**3715.** On every limb, a profusion of thrills;
+seeing the splendour of [His] beauty, Madana falls in a swoon.
+
+**3716.** On [His] beautiful moon-face, a gentle smile;
+when [He] speaks sweet words, He pours out streams of nectar.
+
+**3717.** What new graceful movements of [His] reddish feet!
+Narahari's life has as if drowned in them.
+
+**3718.** *Again, raga Gurjari:*
+Glory, glory in the worlds! By His own qualities merciful Nitai takes away the fear of worldly existence;
+the lowly and the wretched He ceaselessly drives mad by the gift of prema.
+
+**3719.** Saying "Gaurahari," He dances, raising [His] arms, and, swaying, swaying, falls to the ground;
+[His] tender body — is it a golden mountain? — grey with dust, shines beautifully.
+
+**3720.** [His] eyes, surpassing lotus petals, tremble, brimming again and again with streams of tears;
+on [His] face a gentle smile pours out streams of nectar; like the moon, [it] destroys the darkness of sin.
+
+**3721.** Overwhelmed by what bhava does He tremble and quiver? How can Narahari Dasa tell of [this] play?
+All moving and non-moving beings, beholding the best of Lords, have forgotten the burden of sorrow and float in happiness.
+
+**3722.** For some days [He] stayed in the village of Khardaha;
+seeing the place Khardaha, He wished to live [there].
+
+**3723.** From Khardaha the Lord set out:
+He goes to Saptagrama, where Datta Uddharana [lives].[^12-578]
+
+**3724.** With [His] dear companions — what wondrous rapture of bhava!
+Who is not enchanted, seeing that beautiful attire?
+
+**3725.** *Thus [it is said] in a song (raga Suhai):*
+My playful Nitai, playful Nitai!
+He who sported in the former pastimes, the playful comrade of [His] Companion.[^12-579]
+
+**3726.** From [His] lotus eyes flow streams [like] the Suradhuni;
+[He] does not know day from night, drunk with prema.
+
+**3727.** All [His] limbs, anointed with sandal, are radiant;
+beholding [His] beauty, the minds of the world's people are lost in rapture.
+
+**3728.** [His] arms reaching to the knees [are like] the trunk of a mighty elephant;
+[His] staff inlaid with gold crushes the pashandas.
+
+**3729.** On [His] head He ties a loosely flowing turban;
+girding [His] waist tightly and neatly, He wears a blue dhoti.
+
+**3730.** Nitai, the merciful Lord, has appeared in the world;
+hearing [this], Prasada Dasa dances with joy.[^12-580]
+
+**3731.** *Again, raga Gandhara:*
+Glory, glory to the beautiful son of Padmavati, Nityanandachandra, the king of virtues!
+His wondrous beauty, surpassing gold and the dawn, dispels the burden of torment from the eyes of the world's people.
+
+**3732.** [His] face, which steals the pride of a host of moons, glitters; nectar drips from [His] gentle smile;
+[His] heart is overwhelmed by the weight of love for Gaura; incomparable, ever new is the play of [His] words.
+
+**3733.** From [His] trembling, pure lotus eyes tears fall unceasingly, like the streams of the Suradhuni;
+on [His] very broad, graceful chest, covered with thrills [like] kadamba [flowers], a jewelled necklace sways.[^12-581]
+
+**3734.** [His] gait, surpassing [that of] an elephant, delights the mind; spreading [His] arms, [He] knows no rest, unceasingly;
+taking the fallen into [His] embrace, He distributes that treasure; deprived [of it] in the world, Ghanashyama grieves.
+
+**3735.** Bestowing mercy on Uddharana Datta, [the Lord] with [His] companions
+came to the home of Datta Uddharana.
+
+**3736.** The residents of Saptagrama, hearing of the Lord's coming —
+from all four directions the people run to have [His] darshana.
+
+**3737.** In the homes of Uddharana and others great bliss grows;
+Nityananda is always beside Himself in dancing and kirtana.
+
+**3738.** *Thus [it is said] in a song (raga Dhanashri):*
+Every moment [His] reddish eyes roll again and again; tears drip and spread far;
+or is it a dense red cloud that, passing over the ocean, rains nectar ceaselessly?
+
+**3739.** Ah, Nitai, the excellent moon, dances!
+He sprinkles the world's people with the nectar-rasa of prema — a wondrous dance, in beautiful style. (Refrain.)
+
+**3740.** At [His] feet, jewelled manjira bells; as He walks, [His] body sways;
+is [His] incomparable body the peak of Meru? Waves of bhava glitter.
+
+**3741.** He weeps, laughs, walks with slow gait; saying "Hari," He swoons, beside Himself;
+at moments, crying "Gaura, Gaura!", He runs and in bliss roars fiercely.
+
+**3742.** The wretched, the lame, the lowly, the dull, the afflicted, the poor — [He] recognizes no limit;
+unceasingly, offering [it] of His own accord, He gives the world the rare treasure, the jewel of prema.
+
+**3743.** By the distribution of the unfailing, rare treasure of prema all torments went far away;
+the desires of all the poor and lowly were fulfilled; even the women became mad [with prema].
+
+**3744.** By such a compassionate glance of [His] eyes no one was left in misfortune;
+Balarama Dasa was deprived of it — [his] heart is cruel and hard.
+
+**3745.** *Again, raga Dhanashri:*
+Ah, my, ah, my Nityananda Raya!
+He Himself dances, Himself sings, and makes [all] say "Gauranga."
+
+**3746.** With leaps Nitai goes, absorbed in [love for] Gauranga;[^12-582]
+sinners and pashandas He no longer left in the land.
+
+**3747.** Clad in silk, pearls in [His] ears,
+He glitters and glitters with various ornaments.
+
+**3748.** Together, rejoicing, go Nitai, Ramai, Sundara,
+Gauridasa and all the other companions.[^12-583]
+
+**3749.** On all four sides my Nitai makes [people] say "Hari bol";
+night and day Jnanadasa sings the qualities of Nitai.[^12-584]
+
+**3750.** What wondrous elation of the people in Saptagrama!
+The firmest faith in the feet of Nityananda.
+
+**3751.** For the sake of [their] connection with Uddharana, merciful Nitai
+showed the merchants such mercy as cannot be told.
+
+**3752.** That [He] would come to Shantipura, to the home of Advaita,
+the Lord made known to Datta Uddharana.
+
+**3753.** Advaita Acharya enjoys His pastimes in Shantipura;
+His body is non-different from Sri Chaitanya — the abode of rasa.
+
+**3754.** [He is] the one who brought Sri Krishna Chaitanya to the earth,
+whose spotless fame spread through the world.
+
+**3755.** *Thus [it is said] in a song (raga Dhanashri):*
+My Advaita, whose body is non-different from Sri Gaura,
+whose wife is Sita, the mother of the world;
+
+**3756.** who brought Gorachand by His thunderous roaring,
+makes [all] sing the qualities of Gauranga, filling the world.
+
+**3757.** Being Ishvara, He considers Himself a servant;
+every moment — how many longings in [His] heart!
+
+**3758.** By the play of prema-bhakti, rare [even] for the gods,
+He effortlessly subdues the mighty [age of] Kali.
+
+**3759.** Giver of the bliss of sankirtana, the limit of mercy —
+I do not know with how many qualities the Creator fashioned [Him].
+
+**3760.** The lowly and the suffering He intoxicated with happiness;
+with the fame of Narahari's Lord the world was filled.
+
+**3761.** *Again, raga Bhupali:*
+Glory, glory to merciful Advaita Acharya,
+by whose thunderous roaring Gaura's descent took place!
+
+**3762.** Giver of prema, Sitanatha, ocean of compassion,
+by the rasa of whose prema Gauranga-nagara came.[^12-585]
+
+**3763.** On whomever He looks with a merciful glance, out of compassion,
+that person, absorbed in prema, sings the qualities of Chaitanya.
+
+**3764.** Whoever took shelter at His feet,
+that person obtained the great treasure of love for Gaura.
+
+**3765.** Why did I not worship such a treasury of mercy?
+Lochana says: I have brought a thunderbolt down on my own head.[^12-586]
+
+**3766.** Sri Advaitachandra, taking His own companions with Him,
+always floats on the waves of the ocean of love for Gora.
+
+**3767.** *Thus [it is said] in a song (raga Velavali):*
+Sri Advaitachandra is my Lord;
+[His] heart is overwhelmed by the weight of love for Gaura; tears fall ceaselessly from [His] reddish eyes. (Refrain.)
+
+**3768.** [His] limbs, thrilled and graceful, glitter; [their] excellent radiance puts to shame hosts of suns;
+[His] gait, surpassing [that of] an elephant, delights the mind; He laughs, [and His] teeth gleam beautifully like pearls.
+
+**3769.** Stealing the pride of a lion, He roars again and again; Kali trembled, the wicked went far away;
+by [His] mighty power the threefold miseries were repelled; in the hearts of the world's people supreme joy arose.
+
+**3770.** The ocean of compassion overflowed and surged in all four directions; the wretched and the fallen float in the rasa of bhakti;
+what can foolish Narahari understand of [this] play, [by which He] revealed to the world the qualities of the new Gaura's deeds?
+
+**3771.** *Again, raga Kamoda:*
+The lord of Shantipura, supremely beautiful — [His] deeds are [a treasury] of excellent lilas;
+in the fullness of bhava He is ceaselessly enraptured, [His] body covered with abundant thrills.[^12-587]
+
+**3772.** Subduer of the arrogance of mighty Kali, He roars fiercely again and again, beside Himself;
+crying "Gaurahari, Hari," He trembles and falls into the arms of [His] companions.
+
+**3773.** Again and again He rolls on the ground; [His] incomparable body is grey with dust;
+[His] lotus eyes shed [tears] in torrents, like the clouds of [the rainy month of] Shravana.
+
+**3774.** Seeing the poor and the suffering, He spread compassion in the world;
+Dasa Narahari offers himself in sacrifice to the Lord, supreme in generosity.
+
+**3775.** *Again, raga Karnata:*
+Sri Advaita — the abode of joy, the king of virtues;
+[His] excellent beauty steals the pride of a golden mountain.
+
+**3776.** Graceful, dense rows of thrills glitter [on Him];
+intoxicated with the rasa of love for Gaura, He roars again and again.
+
+**3777.** [His] boundless prowess is known to the limits of the universe;
+He ceaselessly crushes the mighty tribe of pashandas.
+
+**3778.** To the destroyer of the fear of worldly existence, the abode of great compassion,
+to the Lord, the purifier of the fallen, Ghanashyama offers himself (nichhani).
+
+**3779.** *Again, raga Bhupali:*
+Glory, glory to the husband of Sita, my Lord!
+[His] radiant form surpasses a golden mountain. (Refrain.)
+
+**3780.** Ceaselessly intoxicated with the rasa of love for Gaura,
+[He] glitters with dense rows of thrills.
+
+**3781.** [His] body, overwhelmed [by bhava], is ceaselessly restless;
+[His] eyes pour [tears] like the streams of the Suradhuni.
+
+**3781a.** He laughs sweetly; [His] speech is abundant and faltering;
+what He murmurs — no one knows [its] secret.[^12-588]
+
+**3781b.** Seeing the poor, the lowly, the wretched, the fallen,
+He takes [them] into [His] embrace, spreading both arms.
+
+**3781c.** He distributes that incomparable jewel;
+through the fault of [his] karma Ghanashyama is deprived [of it].
+
+**3782.** *Again, raga Gurjari:*
+Lost in what bhava is my Advaita Gosani! From those two eyes tears flow;
+a sweet, sweet smile on that moon-face; again and again He says, "Gora, Gora!"
+
+**3783.** [His] incomparable body surpasses the shirisha flower; abundant thrills adorn it;
+what is the gait of an elephant [beside His]? — exceeding beauty! By [His] graceful movements He enchants the mind of the world.
+
+**3784.** On [His] head a beautiful tuft of hair flutters in the wind; a garland of malati swings on [His] neck;
+spreading both [His] arms that reach to the knees, He seizes the fallen and takes [them] into [His] embrace.
+
+**3785.** The jewel of prema-bhakti, rare [even] for Brahma, He offers of His own accord to each and every person in so many ways;
+Narahari, having obtained such a merciful Lord, did not worship [Him] and has sunk into the well of worldly existence.
+
+**3786.** Advaita Gosani, the lord of Sri Sita's life —
+how He is intoxicated in dancing and kirtana, I have no power to tell.
+
+**3787.** Sometimes in His own house, sometimes in the homes of His companions,
+sometimes on the bank of the Suradhuni, sometimes in other places.
+
+**3788.** Apart from sankirtana, nothing else pleases [Him];
+ceaselessly [He] is immersed in the lilas of Gorachand.
+
+**3789.** When [He] dances in ecstasy in that mood, who can remain composed?
+Showing [so much] mercy, [He] delivers the fallen.[^12-589]
+
+**3790.** *Thus [it is said] in a song (raga Dhanashri):*
+Advaita dances, the embodiment of prema;
+proud of Gora's virtues, [He] knows neither day nor night.
+
+**3791.** What happiness in saying "Gora, Gora"!
+[He] begs the Creator for many hundreds of thousands of mouths.
+
+**3792.** Saying "Gora," [He] slaps His arms like a wrestler;
+Kali trembles with fear — he has no way to flee.[^12-590]
+
+**3793.** What feeling is in [His] heart at the name of Gora!
+[His] body, covered with thrills of ecstasy, sways again and again.
+
+**3794.** The army of associates, intoxicated with rasa,
+sings the deeds of Gorachand in every way.
+
+**3795.** How the khol and karatalas sound!
+The daughters-in-law of noble families weep, hearing that sound.
+
+**3796.** The world is filled with His fame;
+the poor, the destitute, the fallen and the wicked float in prema.[^12-591]
+
+**3797.** What joy is there in Narahari's life —
+[for he] has turned away from the feet of so merciful a Lord!
+
+**3798.** *Again, raga Kamoda:*
+Behold my Advaita, a treasury of virtues.
+I do not know with what love the Creator, [mixing] nectar,
+fashioned this body. (Refrain.)
+
+**3799.** The splendour of [His] beautiful form
+surpasses gold, ketaki and kunkuma.
+Deeply immersed in love for Gora,
+[He] shines abundantly with thrills of ecstasy.
+
+**3800.** The matchless moon-like face shines,
+exclaiming again and again "Gora, Gora."
+From both eyes streams flow ceaselessly;
+[He] dances, raising both arms.
+
+**3801.** Taking the fallen and the wicked in [His] arms, [He] embraces [them]
+and offers the priceless jewel.
+Apart from the Lord of Narahari, is there
+anyone so merciful in the world?
+
+**3802.** *Again, raga Ashavari:*
+Behold Advaita, the jewel of virtues.
+Distributing the jewel of bhakti,
+[He] makes the world rich. (Refrain.)
+
+**3803.** With what feeling [His] heart thrills!
+Exclaiming "Gora, Gora," [He] dances, raising [His] arms,
+again and again slapping [His palm] under His arm.[^12-592]
+
+**3804.** From both eyes — streams of bliss.
+[His] lovely body, covered with thrills of ecstasy,
+shines like gold.
+
+**3805.** From [His] lips streams of nectar flow.
+With what new graceful movements
+[He] looks in all directions, smiling sweetly, sweetly!
+
+**3806.** Around the Lord the associates are arrayed.
+With sweet voices they sing slowly, slowly;
+the khol and karatalas sound.
+
+**3807.** Hearing this, who can keep composure?
+All the poor and destitute have gone mad;
+Narahari has fallen into [this] snare.
+
+**3808.** *Again, raga Suhai:*
+In what mood does Advaitachand wondrously
+leap with the valour of a hero!
+Again and again [He] roars and thunders;
+the pashandas tremble with fear.
+
+**3809.** [He] laughs loudly, loudly — what rasa does [He] reveal?
+No one can fathom [its] depth.
+With reddened eyes [He] looks in all four directions;
+[His] body fills with thrills of ecstasy.
+
+**3810.** From whose lips [He] hears
+the world-enchanting virtues of Gora,
+him [He] embraces, spreading both arms,
+and dances in supreme happiness.
+
+**3811.** At the beat of [His] soles the earth shakes —
+what can [His] movements be compared to?
+By the strength of His own arms the mighty one crushes Kali;
+Ghanashyama sings [His] fame.[^12-593]
+
+**3812.** *Again, raga Todi:*
+Advaita, the jewel of virtues, has made the earth rich,
+lavishly distributing the wealth of bhakti.
+With [His] dear associates, immersed in bliss,
+[He] dances in the kirtan of Gora's virtues.
+
+**3813.** With what abundance of new graceful movements [He] steals the pride of Madana!
+A matchless splendour shines.
+[His] tender body surpasses the shirisha flower,
+and on it — abundant thrills of ecstasy.
+
+**3814.** Tilaka shines on [His] forehead, a malati garland on [His] neck,
+the sacred thread sways, enchanting the eye.
+Raising [His] incomparable arms, [He] moves about, swaying —
+how beautiful the graceful movement of [His] feet!
+
+**3815.** Again and again loudly exclaiming "Gaurahari,"
+nectar flows as if from the moon of [His] face.
+Who can stay composed before [His] compassionate glance?
+Fallen Narahari, seeing [this], weeps.
+
+**3816.** Absorbed in ecstasy, merciful Advaita Acharya
+enjoys [His pastimes] with [His] dear associates in His own home.
+
+**3817.** [His] most tender body is covered with thrills of ecstasy;
+[He] rolls on the ground, grey with dust.
+
+**3818.** Utterly overwhelmed with prema, swaying,
+exclaiming "Nitai, Nitai," [He] dances, raising [His] arms.
+
+**3819.** At that very time Nityananda-Haladhara
+came from Saptagrama to Advaita's house.[^12-594]
+
+**3820.** Nityananda and Advaita, seeing each other,
+both overwhelmed with prema, could not stay steady.
+
+**3821.** How much happiness there was in their talks with each other —
+who could tell with one mouth how much [it was]?
+
+**3822.** Having stayed three or four days in Advaita's house,
+[Nityananda] sets out for Navadvipa with Advaita's leave.
+
+**3823.** I do not know what Advaita said at the time of parting —
+Nityananda goes along joyfully, smiling gently, gently.
+
+**3824.** Seeing the beauty of Navadvipa, joyful at heart,
+Nityananda-Haladhara enters Nadia.
+
+**3825.** What a wondrous gait! Taking [His] dear associates with Him,
+the Lord first of all comes to Ai's house.
+
+**3826.** Ai, sitting here in her own house in solitude,
+spends day and night talking of Nimai.
+
+**3827.** Having seen Nimai in a dream the night before,
+she tells Malini, finding her here alone.
+
+**3828.** *Thus [it is said] in a song (raga Kamoda):*
+Listen, friend Malini, to the story of today's dream:
+Nimai came home.
+Standing in the courtyard, looking and looking toward the house,
+[he] called me: "Ma!"
+
+**3829.** I was lying in the house; in a daze I came out,
+hearing Nimai's voice.
+Nimai took the dust of [his] mother's feet on his head,
+saying "Ma," weeping and weeping:
+
+**3830.** "Captive to your love, I wandered about;
+I could not stay in Nilachala.
+To see you I have come to Nadia" —
+this he says, weeping and weeping.
+
+**3831.** Saying, "Come, my child," I lifted [him] to my heart —
+at that moment sleep went far away.
+Not seeing him again, [I] cannot find peace;
+in tears I passed [the rest of] the night.
+
+**3832.** Weeping and weeping, Shachi fell senseless to the ground;
+Malini sobs aloud.
+What can I say? Alas, alas! This grief is unbearable to the body.
+Why does Vasu not die?[^12-595]
+
+**3833.** Who can understand Malini's loving impulses?
+Taking leave, she went to her own home.
+
+**3834.** Unable to hold back, distressed Shachi Ai,
+taking Vishnupriya on her lap, weeps here.
+
+**3835.** After a while, growing calm, she thinks to herself:
+"Nitai will come here — why does he delay?
+
+**3836.** When Nitai comes here, I will not let [him] go;
+seeing Nitaichand, I will comfort my soul."
+
+**3837.** At that time Nityananda arrived;
+seeing Nityananda, Ai rejoiced immensely.
+
+**3838.** Saying, "Come [to me], my son!" Ai came up [to Him];
+Nityananda bowed at [His] mother's feet.
+
+**3839.** What Nitai and Ai talked about —
+as soon as one hears all that, the heart's pain is gone.
+
+**3840.** Nitai gave Ai great bliss;
+by Ai's command [He] stayed in Navadvipa.
+
+**3841.** Taking the dust of Ai's feet on [His] head,
+[He] went to Srivasa's house, filled with prema.[^12-596]
+
+**3842.** Having gladdened Malini and Srivasa, [He], in every house,
+enjoys kirtan with His associates.
+
+**3843.** On Nityananda's body were various ornaments of precious stones;
+robbers decided to steal [them].[^12-597]
+
+**3844.** After suffering much, the great robbers
+took shelter at Nityananda's lotus feet.
+
+**3845.** The ocean of mercy, the son of Padmavati,
+gave [them] the jewel of bhakti and delivered the robbers.
+
+**3846.** Thus Nityananda, with [His] dear associates,
+wanders in great joy through the region of Navadvipa.
+
+**3847.** *Thus [it is said] in the Sri Chaitanya-bhagavata, in the Antya-khanda:*[^12-598]
+"Nityananda, with all [His] associates,
+goes from village to village in the joy of sankirtana —
+
+**3848.** [to] Khanayora, Baragachhi and Dogachhiya;
+sometimes [He] goes to the other bank of the Ganga, to Kuliya.[^12-599]
+
+**3849.** Especially virtuous is the village of Baragachhi —
+the place of the pastimes of Nityananda-svarupa.
+
+**3850.** What good fortune dawned on the village of Baragachhi —
+that I can never reckon up."
+
+**3851.** In Nadia Nityananda, with [His] associates,
+ceaselessly enjoys the joy of sankirtana.
+
+**3852.** Coming from Shantipura, Advaita Gosani,
+together with Nityananda, is always beside Himself with happiness.
+
+**3853.** *Thus [it is said] in a song (raga Dhanashri):*
+Sitanatha, my Advaitachand —
+a great enchanting snare, full of prema.
+
+**3854.** By whose roar Gora became manifest;
+with Nityananda — rapt in bliss.[^12-600]
+
+**3855.** Incomparable [are His] virtues; [He is] an ocean of compassion,
+the friend of fallen and lowly people.
+
+**3856.** In the three worlds — a second Creator,
+the giver of the rare treasure of sankirtana.
+
+**3857.** Whoever would float in the rasa of the Vraja lilas,
+let him worship the father of Achyuta.[^12-601]
+
+**3858.** Whoever does not worship the Lord of Narahari
+is the most unfortunate in the world.
+
+**3859.** Nityananda and Advaita, both, in the joy of sankirtana,
+enjoy [it] together with Srivasa, Murari and others.
+
+**3860.** One day in Srivasa's courtyard everyone
+began the sankirtana of Sri Krishna Chaitanya.
+
+**3861.** Vasu, Govinda and others sing with joy in their hearts;
+the sound of mridangas and mandiras touches the sky.
+
+**3862.** Nityananda dances with wondrously sweet movements;
+seeing that beauty, no one can hold back.
+
+**3863.** Advaita dances, ceaselessly in great rapture;
+thrills of ecstasy all over [His] body, tears streaming from [His] eyes.
+
+**3864.** Srivasa, Murari, Gangadasa, Gadadhara,
+Abhirama, Saranga, Sundara, Manohara,[^12-602]
+
+**3865.** Sri Visharada's son Vidyavachaspati,
+whose elder [brother] Sarvabhauma resides in Nilachala —
+
+**3866.** Vidyavachaspati and the others dance, filled with prema.
+Who does not dance? People come running from all four sides.
+
+**3867.** Nityananda and Advaita, the two, are on the two sides,
+and in the middle the Lord, the son of Shachi, dances.
+
+**3868.** Some fortunate ones gaze to their eyes' content;
+the gods dance, crying, "Jaya, jaya!"
+
+**3869.** In the sankirtana the ocean of prema surges;
+from time to time such sport [takes place] in Srivasa's courtyard.
+
+**3870.** Advaita, Srivasa and the others, abodes of [all] virtues,
+sport with Nityananda in great bliss.
+
+**3871.** To have Nityananda-chandra married —
+this became the desire of all, in accordance with His own desire.
+
+**3872.** In the village of Baragachhi [lived] the son of Hari Hod,
+named Krishnadasa — he is fortunate.[^12-603]
+
+**3873.** He had firm devotion to Nityananda's feet;
+his longing to arrange [His] marriage was intense.
+
+**3874.** How the marriage of Nityananda-chandra [took place] —
+listen, Srinivasa! — I shall tell it briefly.
+
+**3875.** A short distance from Navadvipa is Shaligrama;
+there lives a pandita named Sri Suryadasa.
+
+**3876.** In Gauda he was very able in the affairs of the yavana king;
+having won renown as "Sarakhel," he earned great wealth.[^12-604]
+
+**3877.** Suryadasa [and his brothers] — four brothers, very pure in conduct;
+this is known everywhere — what more shall I say?
+
+**3878.** The virtues of Sri Suryadasa cannot be told;
+he has two daughters, named Vasudha and Jahnava.
+
+**3879.** For the beauty and virtues of the two no comparison can be given;
+about the marriage of the two he is always anxious at heart.
+
+**3880.** He gives the brahmanas the charge of the matter of marriage;
+proposals come, but none is ever settled.
+
+**3881.** An old brahmana, experienced in every respect,
+speaks sweet words to Suryadasa:
+
+**3882.** "Full of concern, I have looked everywhere;
+nowhere is there a groom worthy of your daughters.
+
+**3883.** Suddenly one [thought] came to my mind;
+I shall tell it — perhaps it will appeal to you.
+
+**3884.** In the land of Rarh there is a village named Ekachakra;
+many brahmanas and good people live in that village.
+
+**3885.** There is the brahmana Hadai Pandita, a learned man;
+his second name is Mukunda; he is foremost in every respect.
+
+**3886.** *Thus [it is said] in the Vaishnavabhidhana composed by Sri Devakinandana:*
+*Also, Padmavati and Sriman Mukunda, the best of the twice-born,*
+*of incomparable beauty, are the parents of Nityananda-svarupa.*[^12-605]
+
+**3887.** *And thus also in the Sri Gaura-ganoddesha-dipika:*
+*Rohini and Vasudeva, who were the parents of Rama and Krishna, —*
+*they, the virtuous, were born as Padmavati and Mukunda, the best of the twice-born.*
+
+**3888.** It is well known: [his] gai is Sundaramala Bandyaghati,
+and there is nothing blameworthy in his karana.[^12-606]
+
+**3889.** Where Sri Hadai Pandita married —
+they too are surrounded by kulinas; everyone knows this.[^12-607]
+
+**3890.** His son is Nityananda, full of great splendor;
+at a young age He set out on pilgrimage.
+
+**3891.** Pilgrimage and austerity — this is the duty of a brahmana;
+He is a great scholar, He knows the essence of everything.
+
+**3892.** He became an avadhuta, taking a danda in hand;
+having wandered through all the holy places, He came to Nadia.
+
+**3893.** It seems all His desires were fulfilled —
+therefore in Nadia He gave up the danda.
+
+**3894.** He is extremely dear to Krishna Chaitanya;
+what comparison can I give? No one is equal to Him.
+
+**3895.** He went with Krishna Chaitanya to Nilachala,
+and it is only a few days since He came to Nadia.
+
+**3896.** He is a groom worthy of your daughter,
+and your daughter is surely worthy of Him.
+
+**3897.** If He shows you His favor,
+then this auspicious event can come about.
+
+**3898.** Such a son-in-law is gained by the fruit of much piety;
+in this matter all of you will attain supreme bliss."
+
+**3899.** Hearing this, Suryadasa remained silent;
+the night had grown late, and the brahmana went to his own home.
+
+**3900.** Suryadasa Pandita pondered within himself;
+as he lay down, sleep came that very moment.
+
+**3901.** In the guise of a dream he sees, with great joy at heart,
+that he is giving his two daughters in marriage to Nityananda.
+
+**3902.** With the consent of all the brahmanas and good people,
+he performed all the marriage rites enjoined by the shastras.
+
+**3903.** When he gave his daughters to Nityananda,
+at that moment the gods showered flowers.
+
+**3904.** He sees his son-in-law together with his own daughters;
+he does not know how much happiness surges in his heart.
+
+**3905.** He cannot blink — a great longing grows;
+looking at Nitai, he sees the form of Balarama.
+
+**3906.** The luster of [His] limbs steals the pride of a silver mountain;
+the moon of His face surpasses the splendor of the very essence of the moon.
+
+**3907.** His body is adorned with ornaments of various jewels;
+so beautiful in every limb, He enchants the world.
+
+**3908.** He sees Vasu[dha] and Jahnava as Varuni and Revati;
+the luster of their limbs surpasses heaps of gold and kunkuma.[^12-608]
+
+**3909.** To the left and right of Baladeva they shine,
+radiant in wondrous garments, ornaments and the rest.
+
+**3910.** To give happiness to the devotees — a great manifestation of majesty;
+seeing it, Suryadasa forgot himself.
+
+**3911.** Tears stream from his eyes, he cannot control his body;
+even as he was bowing and offering prayers, his sleep broke.
+
+**3912.** After a while, composing himself, at daybreak
+he himself went to the house of that brahmana.
+
+**3913.** Bowing respectfully to the brahmana, he said,
+"What you spoke of must be done; there must be no more delay."
+
+**3914.** Hearing this, the brahmana rejoiced and, taking four people with him,
+set out, remembering Durga and Ganesha.
+
+**3915.** He, known everywhere, came to Nadia
+and with joy at heart went to Srivasa's house.
+
+**3916.** In the house of Srivasa Pandita, among His dear ones,
+he sees Nityananda sitting on a splendid seat.
+
+**3917.** Beholding the beauty that enchants Kandarpa,
+he considers himself blessed; his eyes are full of tears.
+
+**3918.** Honoring the brahmana, Srivasa Mahashaya
+offered [him] a seat and asked after his welfare.[^12-609]
+
+**3919.** The brahmana said, "All is well; I have come from home.
+What is on my mind I shall tell in private."
+
+**3920.** Srivasa took the brahmana to a secluded place;
+the brahmana, delighted, says to Srivasa:
+
+**3921.** "Having heard by word of mouth the talk of an auspicious marriage,
+I have settled on a bride and hurried here.
+
+**3922.** The daughter of Suryadasa Pandita is like Lakshmi;
+I have looked everywhere — there is none to compare with her.
+
+**3923.** As Nityananda-deva is, so is His wife;
+you will see with your own eyes — what more shall I say?
+
+**3924.** Suryadasa Sarakhel is foremost in every respect;
+[his house] is a fitting place for Nityananda-chandra's marriage.
+
+**3925.** This is no matter for delay — I have told you;
+take counsel and give me leave."
+
+**3926.** Srivasa Pandita spoke most sweet words:
+"What you yourself have undertaken will surely come about.[^12-610]
+
+**3927.** Today I shall send Krishnadasa to Baragachhi,
+and tomorrow we shall all go there from here.
+
+**3928.** Come there with the pandita — there is no need for delay;
+need I say more? You yourself will accomplish everything."
+
+**3929.** At Srivasa's words the brahmana took his leave
+and quickly informed the pandita in Shaligrama.
+
+**3930.** Srivasa Pandita, greatly delighted,
+informed everyone, telling Advaita Acharya [as well].
+
+**3931.** Nityananda-Haladhara smiles gently;
+the heart of Nityananda is inaccessible to others.
+
+**3932.** Everyone rejoiced at the matter of the marriage;[^12-611]
+Krishnadasa quickly went to the village of Baragachhi.
+
+**3933.** Krishnadasa, the son of Raja Hari Hod,
+very intelligent, quickly made [all] the preparations.
+
+**3934.** Everywhere the news of the auspicious marriage spread;
+"A wonderful match!" everyone says everywhere.
+
+**3935.** From Navadvipa, everyone, taking Nityananda along,
+set out joyfully for the village of Baragachhi.[^12-612]
+
+**3936.** As they were entering the outskirts of the village of Baragachhi,
+the villagers came forward to receive [them].
+
+**3937.** The brahmanas and good people were beyond counting;
+seeing Nityananda-chandra, all rejoiced.
+
+**3938.** Krishnadasa took [them] to his own house;
+charming lodgings were provided for all.
+
+**3939.** Shaligrama is a short distance from Baragachhi;
+receiving the news, all rejoiced at heart.
+
+**3940.** Suryadasa Pandita to his younger brother Krishnadasa
+speaks in private in very sweet words:[^12-613]
+
+**3941.** "Take these supplies and come afterwards with the brahmanas;
+I shall go ahead."
+
+**3942.** Having said this, he came quickly to Baragachhi
+and presented himself before Nityananda Prabhu.
+
+**3943.** He falls, rolling at Nityananda's feet;
+Suryadasa is awash in the tears of his two eyes.
+
+**3944.** Clasping both [His] feet with both hands,
+he wants to say something, but words do not come.
+
+**3945.** Smiling softly, softly, Nityananda, absorbed in prema,
+mercifully embraced Suryadasa.
+
+**3946.** Suryadasa is ceaselessly overwhelmed with bliss;
+who can understand Suryadasa's heart?
+
+**3947.** Seeing the stirrings of prema in [his] brother, Gauridasa
+cannot keep his composure; within his heart is great delight.
+
+**3948.** Suryadasa met with everyone;
+the Lord's adhivasa was fixed for an auspicious moment.
+
+**3949.** Taking various articles [for the rite], together with brahmanas,
+Krishnadasa Pandita came from home.[^12-614]
+
+**3950.** The brahmanas and good people living in the village of Baragachhi —
+all of them came at the hour of godhuli.
+
+**3951.** The brahmanas and good people sit on all sides;
+in the middle Nityananda shines at the auspicious adhivasa.
+
+**3952.** All the women and men gaze, unable to look their fill;
+an auspicious clamour of instruments arose.
+
+**3953.** *As [it is said] in a song (raga Mangala):*
+Today, at the auspicious moment, at Nitaichand's adhivasa —
+what a display of beauty!
+In matchless attire [He] shines splendidly;
+the radiance of [His] body sparkles and glitters.
+
+**3954.** Of how many hundreds of Manmathas [He] takes away the pride!
+Lovely is the moon of [His] face, mingled with a smile.
+[His] lovely eyes surpass the petals of the lotus;
+[His] glance leaves no one [his] composure.
+
+**3955.** On all sides the brahmanas recite the Vedas;
+seeing [His] lovely bearing, [they] rejoice at heart.
+The women's hearts overflow with delight;
+again and again [they] give forth "ulu-lu-lu-lu."
+
+**3956.** The sound of many instruments pierces the sky;
+the dancers dance — what sweet movements!
+The world fills with cries of "Jaya, jaya!";
+Ghanashyama says: great merriment!
+
+**3957.** All the brahmanas and good people who had come to the adhivasa
+went to their homes content.
+
+**3958.** Between Baragachhi, Shaligrama and the other villages,
+day and night, many hundreds of people come and go.
+
+**3959.** When Nityanandachandra's adhivasa had been performed,
+Suryadasa, mounting a carriage, quickly went home.
+
+**3960.** With great joy in his heart, taking the brahmanas,
+[he] performs the adhivasa of the brides at an auspicious moment.
+
+**3961.** Although in a dream [he] had seen the power of [his] daughters,
+still, from parental love, [he] was utterly overwhelmed.
+
+**3962.** The Pandita's house became full of auspiciousness;
+on all sides people come and go.
+
+**3963.** Taking the articles for the adhivasa from Baragachhi,
+the brahmanas joyfully went to Suryadasa's house.
+
+**3964.** Who knows how to tell the merriment at the adhivasa?
+The wives of the gods and others watch that splendour with delight.
+
+**3965.** *As [it is said] in a song (raga Bhupali):*
+The goddesses Vasudha and Jahnava — the very limit of beauty —
+[their] bodies adorned with the ornaments of the adhivasa.
+The lovely radiance sparkles and glitters,
+as if lightning, kunkuma and ketaki.[^12-615]
+
+**3966.** On all sides the brahmanas count themselves fortunate;
+looking at the brides, [they] rejoice at heart.
+Sounding the Vedic [hymns], they give blessings,
+placing paddy and durva grass on the heads of both.
+
+**3967.** The Pandita's wife cannot keep her feet on the ground;
+[barely] does she hold her heart in patience.[^12-616]
+[Her] women friends perform various auspicious rites,
+give forth "ulu-lu-lu" — with what longing!
+
+**3968.** Many instruments sound — conches, bells and others;
+the clamour is beyond compare.
+Narahari says: the wives of the gods watch unseen —
+how much merriment in [their] hearts!
+
+**3969.** When the rite of adhivasa was complete, the brahmanas
+joyfully went each to his own home.
+
+**3970.** At the adhivasa of the bridegroom and brides — happiness above all;
+fortunate people watched, unable to look their fill.
+
+**3971.** At the hour of godhuli the Lord, from Baragachhi,
+set out for Shaligrama to be married.
+
+**3972.** Many instruments sound — that happiness has no limit;
+seeing that splendour, the people were amazed.
+
+**3973.** *As [it is said] in a song (raga Deshapala):*
+Breaker of the weight of pride of millions of Manmathas, the most excellent bridegroom, Nitai Haladhara, goes seated in a new chaudola palanquin; [His] beauty brims over.[^12-617]
+Arrayed in attire as befits a wedding — how many kinds of ornaments shine on [His] limbs! Lovely eyes, a lotus face; a soft smile charmingly flashes.
+
+**3974.** Exceedingly intoxicated as they drink in [His] beauty, the brahmanas cry "Jaya, jaya!";[^12-618] the bards, glad at heart, again and again proclaim [His] spotless fame.
+Leaving their homes, women and men run, [and] can find no restraint; gazing, they stand on all four sides without blinking, floating in the happiness of the rasa of seeing.
+
+**3975.** The virtuosos sing — tanas, shrutis, svaras, ragas, murchhanas, gramas most sweet; the dancers dance, calling out "taka-taka thai-ta thai-thai thi ni-ni-na."
+The musicians play a great many instruments; the tala is displayed — none could be more skilful: "thonga na-na-na thonga thunkata dho dhilanga dhiki dhi ni-ni-na."[^12-619]
+
+**3976.** Countless lamps blaze upon the earth; the night became bright as day; a vast clamour sounds unceasingly; the road along which all the people go is resplendent.[^12-620]
+The gods, [abiding] in the sky, watching unseen, in rapture, thrilling, shower flowers; the incomparable pastime of the Lord of Narahari Dasa enchants people's hearts.
+
+**3977.** Entering Shaligrama, Nityananda Raya
+goes with a jubilant heart to Suryadasa's house.
+
+**3978.** As soon as the lotus feet of Lord Nityananda touched [them],
+the people of Shaligrama became vessels of bhakti.
+
+**3979.** Sri Vasu and Jahnava, both, hidden from sight,
+saw the Lord of [their] life and became greatly delighted.
+
+**3980.** The Pandita's wife, with her women friends,
+utterly overwhelmed, watched, remaining unseen.
+
+**3981.** With [her] friends [she] beautifully adorned the brides;
+what comparison can be given? — the beauty became boundless.
+
+**3982.** At Suryadasa's house the crowd was immense;
+what the gathering of brahmanas was like cannot be told.
+
+**3983.** According to custom and scripture, fortunate Suryadasa
+gave his two daughters to Nityanandachandra.
+
+**3984.** Seeing the bridegroom and the brides, the brahmanas praise [them];
+in heaven, on earth and in the netherworld [cries of] "Jaya, jaya!" arose.
+
+**3985.** All the people of the villages near Shaligrama,
+seeing the wedding, praise [it] — each as much as [he can].
+
+**3986.** On the day after the wedding there was great rejoicing:
+Nityananda fulfilled all [their] desires.
+
+**3987.** At the time of farewell Suryadasa, in humility,
+said so much that I cannot repeat [it].
+
+**3988.** With Sri Vasu and Jahnava, Lord Nityananda
+came to Baragachhi — there was great rejoicing.
+
+**3989.** Srivasa's wife and all the other elder [women],
+overwhelmed with joy, did all that was proper.
+
+**3990.** Seeing the beauty of Sri Vasu and Jahnava, [all] were amazed;
+the longing that had been in everyone's heart was fulfilled.
+
+**3991.** Sri Vasu and Jahnava, Nityananda's beloveds,
+are Sri Varuni and Revati, a treasury of all virtues.[^12-621]
+
+**3992.** *Thus [it is said] in the Sri Gaura-ganoddesha-dipika:*[^12-622]
+*His beloveds, Sri Vasudha and Jahnava, sprung from portions of Sri Varuni and Revati,
+are the daughters of the great soul named Sri Suryadasa, [the embodiment of] Kakudmi, radiant as the sun.*
+
+**3993.** *Some call Sri Vasudha-devi Kalavani,
+and some declare Jahnava to be Ananga Manjari.
+Both are correct by the earlier principle — such is the view of the saintly.*[^12-623]
+
+**3994.** In the village of Baragachhi merciful Nityananda,
+staying for some days, enjoys various pastimes.
+
+**3995.** The giver of bhakti, the Lord of the life of Sri Vasu and Jahnava —
+countless are [His] virtues; [He] is utterly intoxicated with love for Gora.
+
+**3996.** The deeds of Nityananda, the purifier of the fallen,
+the great poets describe; [they are] known throughout the world.
+
+**3997.** *In a song (raga Kamoda):*
+Krishna's elder brother Rama, the son of Rohini,
+the treasure of the life of [His] two beloveds, Varuni and Revati —
+
+**3998.** blessed in the age of Kali is that beautiful Nitai,
+the elder brother of Chaitanya, the son of Padmavati.
+
+**3999.** The Lord of the life of Vasudha and Jahnava, full of prema —
+by His own nature the Lord became merciful to the living beings.
+
+**4000.** Intoxicated with love for Gora, [He] knows neither day nor night;
+by giving the nectar of prema, [He] purified the earth.
+
+**4001.** From anuraga for Gora that body is crimson;
+it sparkles and glitters, surpassing molten gold.
+
+**4002.** In [His] ears swing earrings that entice the minds of sages;
+[His] arms reach to the knees; matchless beauty.
+
+**4003.** Seeing [His] broad chest, who would not lose his head?
+Chaste women of noble families renounce their families.[^12-624]
+
+**4004.** With that moon-like mouth [He] always says, "Gora, Gora!";
+tears flow from [His] eyes, streaming over face and chest.
+
+**4005.** With [His] dear associates, in that rapture,
+[He] always floats in the ocean of the happiness of sankirtana.
+
+**4006.** With world-enchanting grace dances the treasury of virtues —
+rare [even] for the gods, the limit of all beauty.
+
+**4007.** Gazing at Nitaichand, who can stay steady?
+Even a heart like stone melts.
+
+**4008.** To sinners and the fallen [His] compassion has no limit;
+such a Lord wretched Narahari did not worship.
+
+**4009.** After some days Nityananda Raya, together with everyone,
+came from Baragachhi to Nadia.
+
+**4010.** Seeing both Sri Vasu and Jahnava here, Ai
+showed [them] such affection that it is beyond my power to tell.
+
+**4011.** All the wives of the devotees dear to the Lord,
+seeing Vasu and Jahnava, were overwhelmed with joy.
+
+**4012.** Taking Ai's permission, Nityananda Rama
+went by way of Shantipura to Saptagrama.
+
+**4013.** At the devotees' wish the Lord, going to Khardaha,
+settled His beloveds in a wonderful dwelling.
+
+**4014.** For some time Nityananda enjoys [His pastimes] there;
+[His] dear associates felt great bliss.
+
+**4015.** Having enjoyed sankirtana in the region of Khardaha,
+[He] came to Nadia to see Ai.
+
+**4016.** I have told this whole account briefly;
+the fortunate [poets] will describe [it] in detail.
+
+**4017.** The qualities of the supremely merciful son of Padmavati
+the poets describe in various ways.
+
+**4018.** *In a song (raga Kamoda):*
+Lord Nityananda Rama, matchless in beauty and qualities,
+was born from the womb of Padmavati.
+Taking His own companions with Him, for twelve years, joyfully,
+[He] played in Sri Ekachakra.
+
+**4019.** When Gora descended, on the pretext of accompanying a sannyasi,
+[He] left home.
+Having wandered through the holy places, after twenty years
+[He] joyfully came to Nadia.
+
+**4020.** Finding [His] life, Gorachand, falling into that snare of prema,
+[He] threw far away [His] staff and water-pot.
+Ever intoxicated in sankirtana, [He] goes with the Lord to Kshetra
+and breaks the Lord's staff into three pieces.[^12-625]
+
+**4021.** By the Lord's command, coming from Kshetra to Gauda,
+[He] did the work dear to the Lord's heart.
+The refuge of Narahari Dasa, the husband of Vasu and Jahnava,
+distributed prema to anyone and everyone.
+
+**4022.** O Srinivasa! Sri Advaita, together with [His] companions,
+is ceaselessly absorbed in singing of Gaura's deeds.
+
+**4023.** Now in Shantipura, now in Nadia He stays;
+who does not sing the qualities of Sri the son of Nabha?[^12-626]
+
+**4024.** *Thus [it is said] in a song (raga Kamoda):*
+Sri Advaita — the jewel of virtues, the treasure-mine of all rasas —
+took birth from the womb of Nabha.
+Born in Navagrama in Vanga, and having joyfully played there,
+after some time He came to Shantipura.
+
+**4025.** After the departure of father and mother He went wandering to the holy places,
+and on returning settled in Shantipura.
+Becoming the husband of Sri Sita, and performing many austerities every day,
+He brought down Krishna and Haladhara.
+
+**4026.** Seeing the pastimes in Nadia, He always delighted [His] eyes,
+and danced in kirtana in many styles.
+Receiving in His own house Gorachand, the crest-jewel of sannyasis,
+He served Him with joy.
+
+**4027.** While the Lord stayed in Nilachala, He went back and forth there,
+and made everyone mad with the qualities of Gora.
+Narahari Dasa says: merciful Sri Advaita —
+this glory resounds through the three worlds.
+
+**4028.** Srivasa, Murari Gupta and the other devotees
+ceaselessly sing of Gaura's deeds.
+
+**4029.** What can I tell? All of them are full of great mercy;
+in many ways they work the good of living beings.
+
+**4030.** All that I saw I cannot tell;
+when I think of all that, my heart bursts and I die.
+
+**4031.** Saying much in this way, Ishana Mahashaya,
+in the rapture of prema, utterly lost his composure.
+
+**4032.** After a while, growing steady, he, together with those three,
+lay down to sleep at night in the Lord's courtyard.
+
+**4033.** Much of the night passed — there is no sleep for Srinivasa;
+he gazes all around at the Lord's house on every side.
+
+**4034.** I do not know in what wonder he says within himself,
+"Why is this house of the Lord built of grass and the like?
+
+**4035.** Why did the Lord, depriving [them] of these pastimes in Nadia,
+make [His] associates dwellers in distant lands?
+
+**4036.** These pastimes in Nadia are supremely wonderful,
+yet all that company could not see them."
+
+**4037.** As he was saying much in this way, sleep overcame him;
+in a dream he sees the splendour and the pastimes in the Lord's house.
+
+**4038.** First he sees the golden town of Nadia;
+the ghats of the Suradhuni, paved with jewels, captivate the heart.
+
+**4039.** Then he sees the abode of Gaurachandra:
+the abodes of Indra and the other [gods] are not worthy of that splendour.
+
+**4040.** How — and which Vishvakarma — built [these] mansions?
+On all sides a golden wall surrounds them.
+
+**4041.** [In them are] separate, separate sections — there is no counting them;
+whenever and wherever He wishes, there the Lord sports.
+
+**4042.** In the middle of the inner apartments a flower garden is resplendent;
+there stands a wondrous pavilion made of jewels.
+
+**4043.** In the middle of the pavilion is a splendid canopy,
+beneath it a beautiful jewelled throne.
+
+**4044.** On the throne Gaurachandra enjoys [His pastimes];
+Lakshmi and Vishnupriya shine on the left and the right.[^12-627]
+
+**4045.** [His] body is adorned with many jewelled ornaments;
+the garments He wears are wondrous and captivating.
+
+**4046.** Beholding the splendour that enchants the worlds,
+hundreds of thousands of maidservants fan [Him] with chamaras.
+
+**4047.** All of them offer betel, garlands and sandal;
+the Lord with His beloveds sports in the company of [their] friends.
+
+**4048.** While he was beholding such play, his sleep broke;
+at that very moment sleep again overcame him.
+
+**4049.** In the dream he sees in another section — all of jewels —
+the wondrous beauty of a pavilion, an abode of happiness.
+
+**4050.** There is a wondrous throne made of jewels;
+upon it the son of Shachi shines.
+
+**4051.** The radiance of [His] body enchants millions and millions of Kandarpas;
+the moon of [His] face is lovely, surpassing a host of moons.
+
+**4052.** Nityanandachandra shines, supremely beautiful;
+Sri Advaita-deva, Sri Pandita Gadadhara,
+
+**4053.** Vidyanidhi, Gangadasa Pandita, Srivasa,
+Sri Chandrashekhara Acharya, Murari, Haridasa,
+
+**4054.** Damodara Pandita, Mukunda, Vakreshvara,
+Gauridasa, Suryadasa, Gadadhara Dasa,
+
+**4055.** Sri Mukunda, Narahari, Sri Raghunandana,[^12-628]
+Chiranjiva Sena and Sulochana Sena,
+
+**4056.** Dvija Haridasa, Shuklambara Brahmachari,
+Srivasa Pandita, Nandana Acharya, Shridhara,[^12-629]
+
+**4057.** Vijaya, the jewel Sri Chandrashekhara Acharya,[^12-630]
+Sri Svarupa, Kashishvara, Yadunarayana,
+
+**4058.** Sri Lakshmipati, the master Madhavendra Puri,[^12-631]
+Vasudeva Sarvabhauma, Keshava, Shankara,
+
+**4059.** King Sri Prataparudra, Raya Ramananda,
+Trimalla, Venkata Bhatta, Sri Prabodhananda,
+
+**4060.** Sri Gopala Bhatta, and also Sri Raghunatha Bhatta,
+Sanatana, Rupa, Jiva the son of Vallabha,[^12-632]
+
+**4061.** Bhugarbha, Sri Lokanatha, Raghunatha Dasa,
+Raghava Pandita, who lives at Govardhana —
+
+**4062.** in the north, the south, the east, the west
+the Lord's devotees are countless: who can know [them all]?
+
+**4063.** Surrounded by all the devotees, Gaura-raya enjoys [His pastimes];
+seeing that splendour, [Srinivasa] rejoices in his heart.
+
+**4064.** As he, together with the assembly of devotees, was about to bow to the Lord's feet,
+his sleep broke; awake, he looks in all directions.
+
+**4065.** He grew distraught — and sleep again overcame him;
+in the dream he sees another section, full of splendour.
+
+**4066.** There on a jewelled throne Vishvambhara shines;
+on all sides servants are intent on serving [Him].
+
+**4067.** Brahma, Shiva, Indra and the countless gods,
+falling at [His] feet, offer praises to the Lord.
+
+**4068.** Seeing the great manifestation of the Lord's majesty,
+his whole body thrills with rapture, and great joy fills his heart.
+
+**4069.** Beholding in another section the pastimes of Vaikuntha,
+he cannot hold his body still — his heart rejoices.
+
+**4070.** He beholds in another section the pastimes of Ayodhya;
+joy arises — how much he says within himself!
+
+**4071.** Beholding in another section the pastimes of Dvaraka,
+he loses his composure and cannot restrain his heart.[^12-633]
+
+**4072.** In another section he sees the pastimes of Mathura;
+merriment arises, and a gentle smile is on his lips.
+
+**4073.** In another section he beholds the pastimes in Vraja:
+amid the host of gopis he sees himself.
+
+**4074.** Beholding the beauty of the dance in the Sri rasa-mandala,
+he is overwhelmed with great bliss — how many [feelings] rise in his heart!
+
+**4075.** As soon as he saw the pastimes in the nikunja, full of splendour,
+his sleep broke; he sees that it is the time of dawn.
+
+**4076.** After a while, growing steady, Acharya Thakura
+reflects within himself on the abundant mercy [of the Lord].
+
+**4077.** Whoever hears all these accounts with faith,
+his desire Gaurahari fulfils.
+
+**4078.** This circuit of Navadvipa is full of supreme bliss;
+the one to whom the Lord is merciful comes to love it.
+
+**4079.** Meditating on the feet of Srinivasa Acharya,
+Narahari Dasa tells the *Bhakti-ratnakara*.
+
+*Thus in the Sri Bhakti-ratnakara ends the twelfth wave, called "The Description of the Circuit of Sri Navadvipa and Other Matters".*
+
+[^12-1]: Lakshmi is Lakshmipriya, Mahaprabhu's first wife; Vishnupriya, His second. Vasu is Vasudha, Nityananda's wife together with Jahnava.
+[^12-2]: Raghunatha Dasa and Raghunatha Bhatta.
+[^12-3]: Reading unclear: śrīgopāla nārāyaṇa (so in the 1960 and 1912/13 eds.) — two persons (Gopala and Narayana) or one name, "Gopala-narayana"; who is meant has not been established.
+[^12-4]: The nine divisions (dvipas) of Bharata-varsha according to the *Vishnu Purana*; Narahari takes the ninth, unnamed one as Navadvipa (see 36). Tamraparna — so in the 1960 ed.; the 1912/13 ed. has tāmravarṇa, "Tamravarna" (possibly an OCR error).
+[^12-5]: The Sanskrit explanation of the verse stands both in the main text of the 1912/13 ed. and in the 1960 ed. Shridhara Svami is the commentator on the *Bhagavatam* and the *Vishnu Purana*. A play on words: "the ninth island" (navama dvīpa) is Navadvipa (nava-dvīpa, "nine islands").
+[^12-6]: The White Island (sitadvīpa) is Shvetadvipa. The 1912/13 ed. notes a variant reading: sitadvīpaṃ prāhuḥ ("call [it] the White Island").
+[^12-7]: A play on words: nava-dvīpa ("nine islands") and nava-dīpta ("nine shining").
+[^12-8]: Vajranabha is Krishna's great-grandson, who restored the villages of Vraja (BR 5).
+[^12-9]: The eight siddhis are mystic perfections; the nine nidhis, treasures (of Kubera). Dharma, artha, kama and moksha are the four goals of human life.
+[^12-10]: The Suradhuni is the Ganga. Reading unclear (OCR): mukutā-bhraja (1960 ed.), mukutā-sraja (?) — translated as "a garland of … pearls."
+[^12-11]: The lord of serpents is Shesha (Ananta), who sings the Lord's glory with a thousand mouths.
+[^12-12]: Ghanashyama is the poetic name of Narahari Chakravarti.
+[^12-13]: The *Sri Chaitanya-chandramrita* is a Sanskrit poem by Prabodhananda Sarasvati.
+[^12-14]: The words of Prahlada, addressed to Lord Nrisimha. Triyuga — "[appearing in] three yugas"; Gaudiya Vaishnavas understand the hidden avatara in Kali as Sri Chaitanya.
+[^12-15]: The *Vaishnava-vandana* ("Praise of the Vaishnavas") is a Bengali verse enumeration of Vaishnavas with obeisances to each; the best known is the *Vaishnava-vandana* of Devakinandana Dasa (16th c.). The author does not specify which one he means.
+[^12-16]: Vishvambhara is the name of Sri Chaitanya in Navadvipa, before He accepted sannyasa.
+[^12-17]: Sri Raghava is Raghava Gosvami (Raghava Pandita) of Govardhana, Srinivasa's and Narottama's guide through Vraja (BR 5); not Raghava Pandita of Panihati.
+[^12-18]: Atopura is a village in Navadvipa not far from Mayapura; below (139) Ishana says that it was formerly called Antardvipa.
+[^12-19]: Antardvipa ("the Inner Island") is the first of the nine islands of Navadvipa, on the eastern bank of the Ganga; Mayapura belongs to it. Ishana explains the origin of the name further on.
+[^12-20]: In the original, "তার মায়া" (tāra māyā), "His maya": the Lord's power by which He conceals Himself and bewilders even Brahma.
+[^12-21]: Brahma's stealing of the calves and cowherd boys and his prayers to Krishna: *Bhag.* 10.13–14.
+[^12-22]: The 1912/13 edition (A, B) reads "দর্পণ" (darpaṇa, "mirror"); translated according to the 1960 edition, "দর্প" (darpa, "pride"), which fits both the sense and the payar metre. Reading unclear (to be checked against the scan).
+[^12-23]: According to the *Gaura-ganoddesha-dipika*, Brahma appeared in the Lord's pastimes as Haridasa Thakura, who was born in a Muslim family; Narahari himself does not name him here.
+[^12-24]: Brahma stole the calves and cowherd boys of Vraja and was bewildered by Krishna's maya (*Bhag.* 10.13).
+[^12-25]: The 1960 edition reads "প্রভুর বর" (*prabhura bara*), "having obtained the Lord's boon"; the 1912/13 edition (A and B) reads "প্রভুর বড়" (*prabhura baṛa*), which is followed here.
+[^12-26]: A verse of Svarupa Damodara, quoted in CC Adi 1. These are the Lord's three desires (173–174): to know the greatness of Radha's love, His own sweetness that she tastes, and the happiness she feels.
+[^12-27]: The name is explained here through the words "অন্তর" (*antara*, "what is hidden, the heart") and "অন্তর্ধান" (*antardhāna*, "disappearance").
+[^12-28]: Simaliya is a village on the site of Simantadvipa, the second of the nine islands of Navadvipa; the name is explained at 184–229. The three are Srinivasa, Narottama and Ramachandra Kaviraja.
+[^12-29]: Digambara ("clad in the directions," i.e. naked) is an epithet of Shiva.
+[^12-30]: *Bhag.* 6.17: King Chitraketu laughed at Shiva, who was embracing Parvati in an assembly of sages; Parvati cursed him to be born as an asura, and he became Vritra. Chitraketu humbly accepted the curse and did not curse her in return.
+[^12-31]: Simanta (*sīmanta*) is the parting of the hair, where a married woman applies vermilion.
+[^12-32]: Gadigachha is a village on the site of Godrumadvipa, the third of the nine islands of Navadvipa.
+[^12-33]: Indra offended Krishna by sending torrents of rain upon Vraja, when Krishna lifted Govardhana; afterwards he came with the cow Surabhi to beg forgiveness (*Bhag.* 10.25–27).
+[^12-34]: *Go* means "cow," *druma* "tree": the island where the cow [Surabhi dwelt] beneath the tree.
+[^12-35]: Madhyadvipa is one of the nine islands of Navadvipa, on the eastern bank of the Ganga; Majita (now Majida) is a village on it. The origin of the name (*madhyāhna*, "midday") is explained in 305. Ishana's account of Madhyadvipa continues to 308.
+[^12-36]: The Kshetra is Puri (Purushottama-kshetra), the abode of Jagannatha.
+[^12-37]: Kumarahatta is present-day Halisahar, on the eastern bank of the Ganga downstream from Navadvipa; the birthplace of Ishvara Puri.
+[^12-38]: Vamana-paukhera is a village in Madhyadvipa; the name is a popular form of "Brahmana-pushkara" (312; Bengali *bāmun*, "brahmana," *pokhar*, "pond").
+[^12-39]: Pushkara is the famous sacred lake and tirtha in Rajasthan, near Ajmer, the "king of tirthas."
+[^12-40]: So in the 1912/13 ed. (prīta, "love"; garbled in both OCR copies); the 1960 ed. has rīta, "custom, behavior". Reading unclear (OCR); to be checked against the scan.
+[^12-41]: Hatadanga (Uchchahatta) is a village in Navadvipa, within Madhyadvipa, on the eastern bank of the Ganga; the origin of its old name is explained in 353–368.
+[^12-42]: Uchchahatta (uccahaṭṭa): ucca, "high," "loud"; haṭṭa, "market." The two reasons for the name are the "market" of the gods' talk and the loud kirtana on a high place (365–368).
+[^12-43]: Kuliya-Paharpura is a village on the western bank of the Ganga, traditionally identified with the area of the present town of Navadvip. This is Koladvipa, one of the nine islands of Navadvipa; its other name, Parvata ("mountain"), is explained in 374–399.
+[^12-44]: Kola-deva is Lord Varaha, the Boar (Skt. kola, "boar"); in 381 He is called Varaha-deva outright.
+[^12-45]: Samudragarhi (now Samudragarh) is a village on the western bank of the Ganga, south of the town of Navadvipa. The name is explained in 404–445: Samudra-gati, "the coming of the Ocean."
+[^12-46]: Jahnavi ("the daughter of Jahnu") and the Suradhuni (422; "the river of the gods") are names of the Ganga.
+[^12-47]: "That appearance": A/B read সন্নিবেশ (*sannivesha*, "appearance, form"); the 1960 edition has সন্ন্যাসি-বেষ (*sannyāsi-veṣa*, "the garb of a sannyasi"). In either case the Lord's sannyasa is meant (cf. 412, 416); possibly a misprint in the 1912/13 edition — reading unclear (OCR).
+[^12-48]: According to the CC (Adi 13), Mahaprabhu appeared on the full moon of the month of Phalguna during a lunar eclipse, when people, by custom, were chanting the names of Hari.
+[^12-49]: Champaka-hatta ("the champaka market"), now Champahati, is a village near Samudragarhi. The name is explained in 450–453 and 474; in 478–481 the form is "Champahatta." The champaka is a tree with fragrant golden-yellow flowers (Bengali *champa*).
+[^12-50]: "Famous": B reads বিদিত (*vidita*, "well known"; A is blank here); the 1960 edition has দিব্য (*divya*, "divine").
+[^12-51]: Cf. *Bhag.* 11.5.32.
+[^12-52]: গৌর-অবতারি (*gaura-avatāri*) is understood as "Gaura, the Source of avataras" (*avatārī*, the one from whom all avataras proceed); "Gaura-avatara" is also possible.
+[^12-53]: *Hatta* (হট্ট) means a market: the profusion of words of praise is likened to the many voices of a market. The understanding of this line is tentative.
+[^12-54]: "Gaurachandra" follows the 1960 edition; A/B lack the word, and the line is metrically incomplete.
+[^12-55]: Vaninatha is a brahmana of Champahatta, an associate of Mahaprabhu; tradition connects him with the temple of Gaura-Gadadhara at Champahati.
+[^12-56]: Only one line (half) of a verse of the GGD is quoted; the editions do not give the verse number.
+[^12-57]: Ratupura is a village that Narahari connects with Ritudvipa, one of the nine islands of Navadvipa; the explanation of the name begins at 485.
+[^12-58]: Vidyanagara ("the town of learning") is a village on the western bank of the Ganga, on the way from Ritudvipa to Jahnudvipa; the name is explained in 500–516.
+[^12-59]: Brihaspati is the preceptor of the gods. According to GGD, in Mahaprabhu's pastimes he appeared as Vasudeva Sarvabhauma.
+[^12-60]: A couplet from CB (location not verified).
+[^12-61]: Jannagara is a village on the western bank of the Ganga, apparently named after the sage Jahnu. In 520–521 the former name is given in the colloquial form জান্নদ্বীপ (Jannadvipa); the translation has Jahnudvipa, as in 545 (জহ্নুদ্বীপ).
+[^12-62]: Jahnu is the sage who, according to the Puranas, drank up the Ganga when she flooded his sacrificial ground and then released her; hence the Ganga is called Jahnavi.
+[^12-63]: The staff (danda) and the kamandalu (waterpot) are a sannyasi's belongings; the shikha is the tuft of hair on the crown of the head, shaved off on accepting sannyasa.
+[^12-64]: Maugachhi is a village on the western bank of the Ganga, the former Modadrumadvipa (551); *moda-druma* means "tree of joy." The name is explained further on in the narrative.
+[^12-65]: Janaki is Sita, the daughter of King Janaka; Lakshmana is Rama's younger brother. Rama's exile is the story of the *Ramayana*. Ramachandra in 557–566 is the Lord Rama Himself, not Srinivasa's companion Ramachandra Kaviraja.
+[^12-66]: So in the 1960 edition ("এথায়", "here"); A and B read "পরায়" (paraya) at this place — the reading is unclear (OCR).
+[^12-67]: Here Rameshvara is the Shiva installed by Rama in Utkala by the river Svarnarekha (on the border of Bengal and Orissa), not Rameshvaram in South India.
+[^12-68]: So in the 1960 edition (পরমাদ্ভুত, "most wondrous"); the 1912/13 edition (A, B) reads পরাভূত ("defeated"?); the G reading is adopted for metre and sense — to be checked against the scan.
+[^12-69]: Literally "at the time of disappearance (aprakata)"; it may also be understood as "after the Lord's disappearance".
+[^12-70]: Vaikunthapura is a village in Modadrumadvipa; according to the account below, here Narada beheld Vaikuntha and its Lord.
+[^12-71]: Narayana-pitha ("the seat of Narayana") is another name of Vaikunthapura (cf. 670–671).
+[^12-72]: Vallabha Mishra (Vallabhacharya) of Navadvipa was the father of Lakshmipriya, the first wife of Mahaprabhu (CB Adi-khanda). Lakshmi in 678–689 is Lakshmipriya.
+[^12-73]: "There" follows the 1912/13 ed. (*sei khane*; A lacks the passage 677–686, which is read from B). The 1960 ed. reads "here" (*ei khane*).
+[^12-74]: Matapura is a village in Navadvipa; its former name, Mahatpura (702), is explained by the story of the Pandavas' stay here (703–728).
+[^12-75]: "Mahat-prasanga-pura" means "the village of association with the great" (*mahat*, "great"; *prasanga*, "association, connection"), that is, with the Pandavas.
+[^12-76]: In the *Mahabharata* the Pandavas, during their wanderings, live in Ekachakra, and Bhima slays the rakshasa Baka there. Bengali tradition identifies this Ekachakra with the village in Rarh that is the birthplace of Nityananda.
+[^12-77]: Suradhuni ("the river of the gods") is the Ganga.
+[^12-78]: Balarama appeared as Nityananda, who was born in Ekachakra.
+[^12-79]: Shvetadvipa ("the White Island") is the abode of Lord Vishnu in the Ocean of Milk; in the *Brahma-samhita* the supreme abode, Goloka, is also called by this name.
+[^12-80]: The shore of the ocean — Nilachala (Puri), where Mahaprabhu lived after accepting sannyasa.
+[^12-81]: Yudhishthira-vedi — "Yudhishthira's altar." "Mound" renders ṭālā (টালা); the 1912/13 edition has an editor's note on this word: "টীলা অর্থাৎ উচ্চস্থান" ("tila, that is, a raised place").
+[^12-82]: The *Mahabharata* places the year of living unrecognized (ajnata-vasa) in the kingdom of Virata; Narahari relates a local tradition of Navadvipa.
+[^12-83]: Sri Madhava — a Deity of Vishnu in Utkala near Puri; which shrine is meant has not been identified.
+[^12-84]: Radupura — so in B (রাদুপুর) and in the second mention in G; A and the first mention in G have the OCR form rāchupur (রাছুপুর, ছু for দু), and the second mention in A has rāḍhupur; to be checked against the scan. Rudradvipa is one of the nine islands of Navadvipa, named after Rudra (Shiva).
+[^12-85]: Belpaukhera (বেলপৌখেরা) — a village; its former name Bilvapaksha is explained in 778 and 791: bilva — the bilva tree (with whose leaves Shiva is worshipped), pakṣa — a fortnight.
+[^12-86]: Bharaidanga (ভারইডাঙ্গা) — a village; its former name is Bharadvaja-tila, "Bharadvaja's mound" (see 807).
+[^12-87]: Bharadvaja — a Vedic rishi, one of the seven great sages.
+[^12-88]: Chakradaha — now Chakdaha (Chakda), a town on the Ganga (Hooghly) in Nadia district, downstream from Navadvipa.
+[^12-89]: Suvarna-vihara (সুবর্ণবিহার) — a village in Navadvipa; the name means "the sporting of the golden [form]" (suvarṇa — gold, vihāra — play, sporting); it is explained in 837.
+[^12-90]: pīta-varṇa — literally "of yellow color," that is, golden; cf. *Bhag.* 10.8.13, where Garga lists the colors of the Lord's incarnations in the yugas, among them yellow (pīta).
+[^12-91]: Reading unclear (OCR): puruṣa soṅariyā — so in all copies (A, B, G); probably "remembering the Purusha," that is, the Lord (Mahaprabhu); possibly to be read pūrva — "remembering the past."
+[^12-92]: The son of Upendra is Jagannatha Mishra; Upendra Mishra is his father (CC Adi 13). The Vishnu-mandapa is the room for the worship of Vishnu in the house.
+[^12-93]: Nilambara Chakravarti — Shachi's father, Mahaprabhu's maternal grandfather (CC Adi 13).
+[^12-94]: Vishvarupa — Mahaprabhu's elder brother; he later accepted sannyasa and left home. The eight daughters of Shachi who passed away one after another are also mentioned in CC Adi 13.
+[^12-95]: The *Sri Krishna-chaitanya-charita* — Murari Gupta's Sanskrit poem (cf. BR 12.60). Mishra-purandara — "Indra among the Mishras," the title of Jagannatha Mishra.
+[^12-96]: Pitri-yajna — a sacrifice to the ancestors.
+[^12-97]: Cf. CC Adi 3: Advaita, wishing to bring the Lord down, worshipped Him with Ganga water and tulasi leaves and called out to Him loudly.
+[^12-98]: The *Sri Krishna-chaitanya-charitamrita-mahakavya* — Kavi Karnapura's Sanskrit poem (usually called the *Chaitanya-charitamrita-mahakavya*); the sarga and shloka numbers are given in the text of the editions. Tapasya is a name of the month of Phalguna (February–March).
+[^12-99]: The year 1407 of the Shaka era corresponds to 1486 CE. The Phalguni nakshatra is the lunar mansion after which the month of Phalguna is named. Cf. CC Adi 13.
+[^12-100]: The sentence in the quotation is unfinished. So in the 1912/13 edition: sutaṁ saḥ ("he… the son"); the 1960 edition reads sutaṁ svam ("his own son"), and its anvaya supplies: "[Jagannatha Mishra was filled with supreme bliss]."
+[^12-101]: A play on words: Bengali grahaṇa means both "eclipse" (candra-grahaṇa) and "taking, uttering" (nāma-grahaṇa — repeating the name).
+[^12-102]: This is the first verse of Sri Chaitanya's *Shikshashtaka* (CC Antya 20); in the *Padyavali* it is given as the words of the Lord Himself. The reference to the *Prabhasa-khanda* is so in the 1912/13 and 1960 editions.
+[^12-103]: Vasudeva Ghosha is an associate of Sri Chaitanya, a singer and poet; the song 895–900 bears his name.
+[^12-104]: In the original ধানশী (dhānaśī), the Bengali form of the name of the raga Dhanashri.
+[^12-105]: Rahu is the demon who swallows the moon at an eclipse. The Lord was born during a lunar eclipse, when people everywhere were repeating the names of Hari.
+[^12-106]: Onomatopoeic syllables of the mridanga rhythm and of dance steps. Abhinaya is expressive acting in dance.
+[^12-107]: The figure is unclear: perhaps the child's little body, soft as fresh butter (cf. 908), or the butter and yogurt of the festival (cf. 940).
+[^12-108]: In A and B: punarvasanta, toḍi (G: punarvasanta — toḍī), "again Vasanta" and the raga Todi.
+[^12-109]: Sita is the wife of Advaita Acharya; Malini is the wife of Srivasa Pandita.
+[^12-110]: The cowherd men and women act "by their former nature," as at the festival of Krishna's birth in Nanda's house, where yogurt and butter were scattered (cf. 942).
+[^12-111]: Nilambara Chakravarti is the Lord's maternal grandfather. The lagna is the ascendant sign of the zodiac at the moment of birth, the basis of the horoscope.
+[^12-112]: A Bengali rite on the eighth day after birth (atkaure): children are given eight kinds of fried beans and peas.
+[^12-113]: Utthana (946–947) is the rite and festival when the infant is first lifted up. The marks on the feet are the marks of Vishnu (the flag, the thunderbolt and others); this episode is also in CB Adi-khanda.
+[^12-114]: The annaprashana is the rite of an infant's first feeding with rice.
+[^12-115]: The angada is an armlet worn above the elbow, the valaya a bracelet at the wrist, the kharu anklets; magara (magarā) probably means "makara-shaped" (reading unclear). An amulet of a tiger's claw is worn by children for protection.
+[^12-116]: Nichhani (নিছনি) is the custom of "offering oneself up" for a beloved, warding off misfortune from him.
+[^12-117]: In the original তুড়ী (tuḍī), the Bengali form of the name of the raga Todi.
+[^12-118]: Reading unclear (OCR): "কোলে চড়সিয়া" (*koḷe caḍasiyā*, 1960 ed.), "চড় পিয়া" (*caḍa piyā*, A), "চড় নিয়া" (*caḍa niyā*, B); understood as *caḍa āsiyā*, "come, climb up."
+[^12-119]: "Offers himself" — *nichhani*: a rite in which an object is waved around a beloved person and cast away, warding off misfortune from him; the poet offers himself in this way. Narahari is the poet's signature (likewise in 997, 1003, 1012).
+[^12-120]: Ananta-deva is Ananta (Shesha), the divine serpent who is Vishnu's couch; that is, the snake the Lord played with was Ananta. Cf. CB, Adi-khanda.
+[^12-121]: Vishvarupa is Vishvambhara's elder brother; he later took sannyasa and left home.
+[^12-122]: ধানশী (*dhānaśī*) is the Bengali form of the name of the raga Dhanashri.
+[^12-123]: Sandesha is a sweet made of curd cheese. The pastime in which Nimai eats earth and instructs His mother — cf. CC Adi 14; CB, Adi-khanda.
+[^12-124]: "Thu-thu" — থুথুৎকার (*thuthutkāra*), spitting to ward off misfortune and the evil eye.
+[^12-125]: On Vasudeva Ghosha see the note to 12.900; his signature (*bhaṇitā*) closes the songs in 1038, 1043 and 1048.
+[^12-126]: Bhatiyali (ভাট্যালি, *bhāṭyāli*) is a Bengali melody type, literally "of the river," "boatmen's."
+[^12-127]: Reading unclear (OCR): "রঙ্গ চতুনা" (*raṅga catunā*, A/B; 1960 ed. "স্বর চতুনা"); *catunā* is understood as চৌতনী (*cautanī*), a child's cap. "সোনার কীটি / কাটা" (*sonāra kīṭi*, A/B; *kāṭā*, 1960 ed.) is understood as "a golden necklace."
+[^12-128]: "Offers himself" is nichhani (*nichhani*); see the note to 12.979. Narahari is the poet's signature.
+[^12-129]: Cf. CC Adi 14; CB, Adi-khanda.
+[^12-130]: Shashthi is a goddess, the protectress of children; she is worshipped beneath a banyan tree.
+[^12-131]: The 1912/13 edition (A and B) reads "করিতে না পারি" ("I cannot do"); translated after the 1960 edition, "কহিতে না পারি" ("I cannot tell"). Reading unclear (OCR); to be checked against the scan.
+[^12-132]: The story of the two thieves is in CB, Adi-khanda.
+[^12-133]: A tairthika is a pilgrim who travels to the holy places (the 1912/13 edition glosses: তীর্থবাসী). His story is in CB, Adi-khanda.
+[^12-134]: A shalagrama is a sacred stone, a manifestation of Vishnu worshipped as the Deity; here, a shalagrama in the form of Bala-gopala (Krishna as a child), which the brahmana wore at his neck.
+[^12-135]: In the 1912/13 edition (A and B) the first half-line is corrupted by an insertion of that edition's footnote; it probably reads "মহাহর্ষে হাসি" ("laughing with great joy"); the 1960 edition has "মহাহর্ষে আসি" ("coming in great joy"). Reading unclear (OCR); to be checked against the scan.
+[^12-136]: Vishvarupa is Nimai's elder brother, who later took sannyasa.
+[^12-137]: Jagadisha and Hiranya are brahmanas of Nadia, friends of Jagannatha Mishra. Cf. CC Adi 14; CB, Adi-khanda.
+[^12-138]: The speaker is Ishana, a servant in Shachi's house.
+[^12-139]: The rite of beginning studies: the child is given chalk (*khari*) in his hand and taught to write the first letters.
+[^12-140]: "Looking" follows the 1912/13 edition (A and B "দেখিয়া"); the 1960 edition has "লেখিয়া" ("having written").
+[^12-141]: Shankararanya — the name Vishvarupa, the Lord's elder brother, received in sannyasa; according to CC Madhya 9, he departed at Pandharpur.
+[^12-142]: The *Sri Chaitanya-charita* (in the 1960 edition: *Sri Krishna-chaitanya-charita*) — the Sanskrit life of the Lord composed by Murari Gupta; "the physician" (vaidya) is Murari himself, a vaidya by caste, who is telling the story.
+[^12-143]: Both shlokas (1143–1144) stand under one introductory line. Narahari here is a name of the Lord (lit. "Hari in the form of a man"; Nrisimha is also so called), not the author of the poem.
+[^12-144]: Chuda-karma (chudakarana) — the Vedic rite of a child's first tonsure, in which a tuft (chuda) is left on the crown; here the ear-piercing is performed together with it (1158–1160).
+[^12-145]: The Sandarbhas — the *Shat-sandarbha* of Sri Jiva Gosvami, which discusses, among other things, the nature of the Lord's body, which only resembles a human one (cf. 1160). The sense of the second line is not quite clear: আজ্ঞা পাঞা আনন্দ করিল (ajña paña ananda karila).
+[^12-146]: The songs 1163–1166 (and later 1193–1196) are in Brajabuli, the literary language of Vaishnava lyric poetry.
+[^12-147]: "Ulu-lu" — the joyful cry of Bengali women at festivals and auspicious rites.
+[^12-148]: Sutas, magadhas and bandis — traditional reciters, singers of genealogies and panegyrists.
+[^12-149]: The syllables in 1165 are the rhythmic syllables of the drums and of the dance.
+[^12-150]: The sacred thread (yajnopavita) — the sign of the twice-born, put on at the upanayana, the initiation into Vedic study.
+[^12-151]: "The praises of the forefathers" — কায়বার (kayabar) in A/B, glossed in the 1912/13 edition as "glorification, singing the fame of the ancestors"; in the 1960 edition রায়বার (rayabar), "a song of praise"; likewise in 1180.
+[^12-152]: Ananta (Ananta-shesha) — an expansion of the Lord who serves Him in all His forms; here He Himself became the sacred thread.
+[^12-153]: Vamana — the descent of Vishnu as a brahmachari boy who begged alms from King Bali; an initiated brahmachari likewise goes for alms with staff and bag.
+[^12-154]: Nimai's anger at His mother's delay and His sleep in the courtyard (1219–1222), and also the gold brought to His mother (1224–1225), are described in the *Chaitanya-bhagavata* as well (Adi-khanda). The Lord's anger is His lila.
+[^12-155]: The tola is a unit of weight, about 11.7 g.
+[^12-156]: Vallabha is Vallabha Acharya (also called Vallabha Mishra, see 676), the father of Lakshmipriya, the Lord's first wife; Lakshmi in 1231–1238 is Lakshmipriya.
+[^12-157]: Narahari is the author's signature in the song (bhanita); "the Lord of Narahari" is Lord Gauranga.
+[^12-158]: Vanamali Acharya, a brahmana of Navadvipa, was the matchmaker (ghataka) who arranged the Lord's marriage to Lakshmipriya (CB Adi-khanda).
+[^12-159]: The adhivasa is the rite on the eve of a wedding: the bride and groom are consecrated with scents, garlands and other auspicious articles, and brahmanas recite Vedic mantras.
+[^12-160]: The married women — āiho śuiho (Bengali eyo): women whose husbands are living; only they are called to perform the auspicious wedding rites. The second part of the phrase seems to be a rhyming echo-word.
+[^12-161]: The women's rites (strī-ācāra) are wedding customs performed by women according to family tradition, apart from the injunctions of the shastras.
+[^12-162]: Fetching the water (pāni sāhā) is a wedding custom: married women go singing to the river (here, the Ganga) for water to bathe the groom (cf. 1286, 1292). "Ulu-ulu" is the joyful cry of Bengali women at festivities.
+[^12-163]: Reading unclear (OCR): avekata (1960 edition, A āvekata; = avyakta, "indistinctly") — adopted; B has bhāve kata ("how much [they say] in emotion").
+[^12-164]: Reading unclear (OCR): kalarave [sa]bhe — the 1960 edition has "কলরবে ভে", A and B "কলরবে গভে"; sabhe ("all") adopted.
+[^12-165]: 1290–1291 survive only in fragments in the 1960 edition (OCR) and are not recognized in A; translated according to B. In 1291 the end of the line in B is "উপ! অঙ্গে": reading unclear (OCR); upamā aṅge ("a comparison for the body") adopted.
+[^12-166]: Towel — pāni-tolā, literally "that which takes up the water".
+[^12-167]: "Ulu-ulu" (Bengali *ulu*) is the joyful cry that Bengali women raise at weddings and festivals as an auspicious sign.
+[^12-168]: Godhuli, "the hour of cow-dust," is twilight, when the herds return home; in Bengal it is considered an auspicious time for a wedding.
+[^12-169]: "Thai tata" (থৈ তত) and "khonga khoddina" (*khoṅga khoddina*; in the 1912/13 ed. *khoṅga khodina*) are onomatopoeic syllables (bols) of dance and drums. The reading of the second is unclear (OCR).
+[^12-170]: The besara is a nose pendant. So in the 1960 ed. (*besara*); the 1912/13 ed. has *kesara* ("filament, mane"), which gives no sense here. Reading unclear (OCR); translated after the 1960 ed.
+[^12-171]: "At the place of the wedding rite" renders ছোড়লায় (*chhoḍalāy*) in all copies; probably ছাঁদলা (*chhā̃dalā*), the enclosed spot of the Bengali wedding rite. Reading and meaning unclear (OCR). The *piṛi* (পিঁড়ি) is a low wooden stool on which the bridegroom stands.
+[^12-172]: Uruthi (উরুথিতে, *uruthite*): according to a note in the 1912/13 ed., to honour the bridegroom by offering him durva grass, betel, a lamp and other auspicious items with the cry "ulu," and to raise him [from his seat].
+[^12-173]: Raybar (রায়বার) is panegyric verse recited by the bhats (bards) at festivities. So in the 1960 ed.; in the 1912/13 ed. the OCR is garbled (*kābār*, *kāghubār*).
+[^12-174]: The basar (বাসর) is the room where the newlyweds spend the wedding night surrounded by women who joke and sing.
+[^12-175]: 1339 is absent from W (1912/13 ed.) and garbled by OCR in the 1960 ed.; translated from B (line 1348). "Composure" renders ধুতি (*dhuti*), probably ধৃতি (*dhṛti*, "steadiness"; it rhymes with প্রীতি); possibly also "dhoti" (garment). Reading unclear (OCR).
+[^12-176]: The end of the line is "ki narahari bhavana pahũka vilāsa" (so in all copies); the sense is unclear, the translation tentative.
+[^12-177]: Ishvara Puri was a disciple of Madhavendra Puri; later, in Gaya, he gave the Lord initiation. Here Narahari calls him the Lord's "own servant." On his stay in Navadvipa and bhiksha at the Lord's house, see CB Adi-khanda.
+[^12-178]: "Vayu" ("wind") is a disorder which, according to Ayurveda, is caused by a disturbance of the wind in the body; this is how those around Him explained the Lord's symptoms of prema (CB Adi-khanda). His "illness" is lila.
+[^12-179]: The Vishnu-mandapa is the hall for the worship of Vishnu in the house of Jagannatha Mishra.
+[^12-180]: Vanga (বঙ্গ) here is East Bengal (now Bangladesh), where the Lord went with His students (CB Adi-khanda).
+[^12-181]: Cf. CB Adi-khanda: in the Lord's absence Lakshmipriya was "bitten by the serpent of separation" and left this world.
+[^12-182]: Vishnupriya is the second wife of Mahaprabhu (the first was Lakshmi-devi, whose disappearance is told in 1373–1376). Her father, Sanatana Mishra, was a learned brahmana of Navadvipa who bore the title Raja-pandita ("royal pandita," cf. 1447). The wedding is described in CB Adi 15.
+[^12-183]: Buddhimanta Khan was a wealthy resident of Navadvipa and a devotee of the Lord; according to CB (Adi 15), he took on himself the expenses of this wedding. Mukunda Sanjaya was a resident of Navadvipa in whose house Nimai taught His students.
+[^12-184]: The adhivasa is the rite on the eve of the wedding: the groom (bride) is touched with fragrant substances (gandha) and other auspicious articles, garlands and sandal paste are offered, and blessings are pronounced.
+[^12-185]: "Fetching the water" (jala sādhā, pāni sādhā) is a wedding rite: married women go with music to the Ganga and bring water for the ritual bath of the groom (bride).
+[^12-186]: The songs 1403–1418 depict the feelings of the young wives of Nadia for Gaura (nagari-bhava); 1404–1406 is a townswoman's dream. The dream is her imagination: in His lila the Lord did not touch women and in Navadvipa did not look at them (CB, Adi). The Gaudiya Vaishnava tradition (Srila Bhaktisiddhanta Sarasvati) does not accept gaura-nagari, the worship of Gaura as a nagara, a lover.
+[^12-187]: So in the 1912/13 edition (anurāge, "in love"); the 1960 edition apparently has aṅgarāge ("[with] body ointment"), but the OCR of the 1960 edition is corrupt here.
+[^12-188]: Reading unclear (OCR): A ali, B aji, 1960 edition āji — understood as āṃji, "lining [the eyes]."
+[^12-189]: Reading unclear (OCR): paraśa pararasa (A/B paraśa pararaśa) — understood as paraspara rasa, "rasa on one another"; possibly "the touch — the highest rasa."
+[^12-190]: "Coming near Ai" is āika niyare (āika — "of Ai," that is, of Shachi, in the Brajabuli genitive). The word vihi (in brackets in the 1960 edition) is understood as vidhi, "duly, according to rite"; possibly "the Creator"; reading unclear (OCR). The champaka buds are the women's joined fingers.
+[^12-191]: The dark hair of the bowing, golden-bodied women evokes a cloud with lightning. Reading unclear (OCR): thira-cara (A/B kira, cara) — understood as "now still, now moving." "Dark" is asita per A/B (the 1960 edition has amita, "immeasurable").
+[^12-192]: Tudi (tuḍi) is apparently the same as raga Todi (1403, 1407).
+[^12-193]: The songs 1419–1444 continue the theme of the feelings of the women of Nadia for Gaura (nagari-bhava; see the note on 12.1404); the Gaudiya Vaishnava tradition (Srila Bhaktisiddhanta Sarasvati) does not accept gaura-nagari. Madana is Kamadeva, the god of love.
+[^12-194]: The women's rites (stri-achara) are wedding rites performed by women according to family and local custom.
+[^12-195]: āiha-suiha — married women whose husbands are living (Bengali eyo); only they perform the auspicious wedding rites.
+[^12-196]: Shashthi is a goddess, the protectress of children; her worship is part of Bengali wedding rites. "The place of Shashthi" (ṣaṣṭhī-thala) is the place of her worship.
+[^12-197]: Reading unclear (OCR): 1960 edition baine, A naige, B haile — understood as baise, "sits."
+[^12-198]: Purandara is Indra, the king of the gods.
+[^12-199]: Reading unclear: mudamati-gati nayī — the meaning is unclear, the translation is conjectural.
+[^12-200]: Drum rhythm syllables; reading unclear (OCR): 1960 edition thoda thoskaṇa biki ku jhānkiṭa, ṭhiṭhaṭhi ṭana nanalananāye; A/B thoṅga khorkaṇa jhiki ku jhākṣiṭa, ḍiṭhaṭhi ṭana nana nanamāye. "Skilled" is understood as sughara (1960 edition sathaghara, A kughira, B tughira).
+[^12-201]: Ulu (ulu-dhvani) is the auspicious prolonged cry of Bengali women at festivities. "Brahmanas" is bhūsura in the original, "gods on earth."
+[^12-202]: "In a suitable raga" — yathā-rāga (likewise in 1477, 1481, 1487, 1491, 1495); the raga is not named.
+[^12-203]: The lord of the gods is Indra; Shachi here is his consort (the namesake of the Lord's mother).
+[^12-204]: "Ulu lu lu" (ulu) — the jubilant cry of Bengali women at a wedding and other auspicious events.
+[^12-205]: Here and in 1488 (and in the songs 1499–1510), again the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
+[^12-206]: Aiha-suiha (āiha-suiha; cf. Bengali eyo) — married women whose husbands are living; only they perform the auspicious wedding rites.
+[^12-207]: "To take upon oneself the ills (balai)" — an expression of tender love: "may all the ills that threaten you fall on me."
+[^12-208]: Nichhani — a rite in which something (or oneself) is "given away" for a beloved to ward off misfortune from him; here the full moon itself is only such an offering for that face.
+[^12-209]: "Sets out" follows the 1960 edition (করত বিজয়, karata vijaya); A has "কানন" (kānana), B "ধর দির" (dhara dira) — reading unclear (OCR). The songs 1491–1498 are in Brajabuli.
+[^12-210]: The list of musical instruments is transliterated. Reading unclear (OCR): "শৃঙ্গিকাক বিলাস" (śṛṅgikāka bilāsa) — rendered "shringika, kaka-vilasa"; "বারুণা" (bāruṇā) not identified. The last line gives drum syllables (bols): G "থোগগ থোদ্দিন" (thogaga thoddina), B "থোঙ্গ খোগিন" (thoṅga khogina) — the reading is approximate.
+[^12-211]: "Dhi dhi kata…" — dance-rhythm syllables (bols); the OCR reading is approximate (G "দৃক্ষুত", B "দৃঙ্ুতা"). Ghanashyama is the poet's signature (the second name of Narahari Chakravarti). The end of the line is corrupt in G; "উমতঈ" (umataī, "is enraptured") is taken from B.
+[^12-212]: The four kinds of instruments: tata (stringed), ghana (solid — cymbals, gongs), anaddha (covered with skin — drums), shushira (wind).
+[^12-213]: Lasya — a tender, graceful dance. The rhythm syllables (bols) follow the OCR; "আই অতি" (āi ati) per G, B has "আই জাতি" (āi jāti) — reading unclear.
+[^12-214]: The Thousand-faced One is Ananta (Shesha); Vidhi is Brahma; Mahesha is Shiva; Girija is Parvati. In A/B the words "বিহি মহেশ" are erroneously repeated.
+[^12-215]: "In a suitable raga" — yathā-rāga (likewise in 1503, 1507, 1511, 1527, 1531); the raga is not named.
+[^12-216]: The songs 1499–1510 again depict the feelings of the women of Nadia ("nagaris," 1507) for Gaura (nagari-bhava); see the note on 12.1404.
+[^12-217]: Jhapa (jhāpā) — a golden hair ornament (a pendant for the braid).
+[^12-218]: Gandharaja — a fragrant white flower (gardenia); champa (champaka) — a tree with fragrant golden-yellow flowers.
+[^12-219]: Nichhani — a rite in which something (or oneself) is "given away" for a beloved to ward off misfortune from him; here hundreds of Kamadevas give themselves as a ransom for that beauty.
+[^12-220]: "As if" — "মেন" (mena) in all copies; reading unclear (OCR), understood as "যেন" (yena).
+[^12-221]: The bridal chamber — basara-ghara: the room where on the wedding night the women of the house surround the couple with jokes and songs.
+[^12-222]: Chhodla (chhoḍalā; likewise in 1536) — reading and meaning unclear; apparently the place of the wedding rite, a platform under a canopy (cf. Bengali chhādnātalā).
+[^12-223]: Aiha-suiha (āiha-suiha) — married women whose husbands are living; only they perform the auspicious wedding rites.
+[^12-224]: "Going" — by sense; "উরুথিয়া" (uruthiyā) in all copies — reading unclear (OCR). Circling the groom seven times with a lamp is the rite of welcoming the groom (varana, 1526).
+[^12-225]: "Wedding platform": *chhoḍalā* (cf. the same word earlier in the description of the wedding), apparently the place of the wedding rite where bride and groom stand. The meaning is conjectural.
+[^12-226]: Reading unclear (OCR): "bājata thara māhi atula" (A/B "nāhi atula"); "bracelets" follows G *kaṅkaṇa*(?), A/B read *kamuka* (possibly *kanaka*, "golden luster").
+[^12-227]: "To Krishna" follows B (*kṛṣṇe*); in the OCR of the 1960 ed. the word is garbled, and A lacks this line. Narahari calls Gaura Krishna.
+[^12-228]: "Narahari's Lord" (*narahari-nātha*): the Lord of the poet Narahari, i.e. Gaura; the poet's usual signature in a pada (likewise in 1570, 1574).
+[^12-229]: "Bridal chamber": *bāsara-ghara*, the room in the bride's house where the newlyweds spend the first night surrounded by the women of the family, who joke with the groom.
+[^12-230]: "As if": reading unclear (OCR): G *senā*, A/B *menā*; probably *yena*, "as if."
+[^12-231]: "Reddish feet" follows A/B *rāṅgā pāya*; the 1960 ed. reads *rādhā pāya* ("at Radha's feet"), possibly an OCR error.
+[^12-232]: Kushandika: the rite before the sacred fire that concludes the wedding (performed after the wedding night).
+[^12-233]: Following A/B *karite*; the 1960 ed. reads *kahite*: "Who can describe the longing of them all?"
+[^12-234]: "A great tumult": reading unclear (OCR): G *bhūggara*, B *ḍūmbara*; taken as *ḍambara* ("noise, pomp; a multitude"). The same word in 1612 ("a vast throng"): G *bhūsmara*, B *tusthara*.
+[^12-235]: The names of the instruments are partly unclear (OCR): *trisari* (B *bhrilari*), *kuṇḍalī*, *pula*. The drum syllables follow B ("kuku nunu nunu, nu dhā"); G is garbled ("buku huma, su sudhā").
+[^12-236]: Godhuli: dusk, the "hour of cow-dust," when the herds return home. The Suradhuni ("river of the gods") is the Ganga.
+[^12-237]: That is, He accepted initiation from him (CB Adi-khanda). On Ishvara Puri see 12.1365.
+[^12-238]: Shriman Pandita is an associate of the Lord in Navadvipa; he was among the first to whom the Lord, on returning from Gaya, told of the pilgrimage (CB Adi-khanda).
+[^12-239]: Vishnupada ("the foot of Vishnu") is the temple at Gaya bearing the footprint of Vishnu; pilgrims perform rites for their ancestors there.
+[^12-240]: Shuklambara Brahmachari is a devotee of Navadvipa; in his house the Lord manifested prema the next day (CB Adi-khanda). Reading by sense and by CB: the 1912/13 edition (A/B) has "গরান্বয" (garānvaya), the 1960 edition "শুরাশ্বর" (śurāśvara) — both corrupted by OCR; শুক্লাম্বর (śuklāmbara) is adopted.
+[^12-241]: Kapila is an avatara of the Lord, the son of Devahuti, who instructed his mother in knowledge and bhakti (*Bhag.*, Canto Three).
+[^12-242]: The text has শ্রীনিবাস (Srinivasa) — here this is Srivasa, Srinivasa Pandita, not Srinivasa Acharya who is listening to the account. Cf. CB Madhya-khanda: Srivasa explained to Shachi that this was not "vayu" but bhakti-yoga.
+[^12-243]: The king is the Muslim ruler of Gauda (Bengal); a Yavana is a foreigner of another faith, here a Muslim.
+[^12-244]: Reading unclear (OCR): দরপ (darapa, B; A/G দরণ, daraṇa) is taken as darpa, "pride"; the sense of the line is conjectural.
+[^12-245]: Reading unclear (OCR): before অংশুক ("garment") B has "অংশ" (aṃśa), the 1960 edition "অংগ্ত"; অঙ্গে (aṅge, "on the body") is adopted.
+[^12-246]: Ghanashyama is the poet's signature (the second name of Narahari Chakravarti). নিছনি (nichhani) is the rite of "offering oneself" for the beloved's well-being.
+[^12-247]: On the Lord's pastime in the mood of Varaha in the house of Murari Gupta, see CB Madhya-khanda.
+[^12-248]: The source of the verse is not named in the text; not identified.
+[^12-249]: "The hero Bala" is Balarama, i.e. Nityananda. Advaita exults as though it was by his call that Nityananda was brought into the world.
+[^12-250]: The Ojha here is Hadai Pandita (Hado Ojha), Nityananda's father.
+[^12-251]: Ghanashyama is the poetic name of Narahari Chakravarti. "Dha dha dhiki dhiki, dheya na" — dance-rhythm syllables (bols).
+[^12-252]: According to CB (Adi-khanda), a wandering sannyasi asked the parents for the boy Nityananda as his companion, and He went away with him.
+[^12-253]: Nandana Acharya was a devotee of Navadvipa; in his house Nityananda stayed on coming to Navadvipa (CB Madhya-khanda).
+[^12-254]: The banner bearing a palm tree (তালধ্বজ, tāladhvaja) is the emblem of Balarama.
+[^12-255]: "How … shines": A and B read "ঝোহে / তোহে" (jhohe / tohe), probably "সোহে" (sohe, "shines"); the 1960 ed. reads "ভুবন মোহে" (bhuvana mohe, "charms the world"). Reading unclear (OCR).
+[^12-256]: "Offered prayers" follows the 1960 ed. "স্তুতি" (stuti); A and B read "তত" (tata), probably corrupt. Reading unclear (OCR).
+[^12-257]: Ramai Pandita (Sri Rama Pandita, 1749) was the younger brother of Srivasa Pandita.
+[^12-258]: "Thaita taka taka thona" — dance-rhythm syllables (bols). "Festivity" follows the 1960 ed. "বিলস" (vilasa); A and B read "খিল" (khila). Reading unclear (OCR).
+[^12-259]: The subject is not named in the text.
+[^12-260]: That is, ostensibly to perform the memorial rite (shraddha) for His parents at Gaya.
+[^12-261]: In W this couplet stands without a number in the block "## 1783"; the number 1777 follows the sequence of G (between 1776 and 1778).
+[^12-262]: Nrisimha Bhaduri was a brahmana, the father of Sita and Shri, the wives of Advaita.
+[^12-263]: So in A and B ("যোগ্যরূপে মহা ধন্যা ধন্যা"). The 1960 ed. reads: "fit for marriage, greatly blessed in beauty and virtues" ("যোগ্য, রূপে গুণে মহা ধন্যা").
+[^12-264]: Sita-devi (Sita Thakurani) and Shri-devi are the daughters of Nrisimha Bhaduri and the wives of Advaita Acharya. According to the *Gaura-ganoddesha-dipika* (1786), Sita is the incarnation of Yogamaya and Shri her expansion.
+[^12-265]: Advaita Acharya called upon the Lord to descend with loud cries (CC Adi 3).
+[^12-266]: নিজ-গৃহে — literally "in [his] own house"; possibly the house of Srivasa, to which the Lord had gone (1798), is meant.
+[^12-267]: Pundarika Vidyanidhi is an associate of the Lord, whom the Lord called father; according to GGD he is Vrishabhanu, the father of Radha; he was the spiritual master of Gadadhara Pandita. His coming to Navadvipa and meeting with the Lord are told in CB Madhya-khanda.
+[^12-268]: Vanga is East Bengal. Chatigrama (চাটিগ্রাম) is Chittagong (now in Bangladesh); Chakrashala (চক্রশালা) is a village near it, the birthplace of Pundarika Vidyanidhi.
+[^12-269]: "Premanidhi" ("treasure of prema") is a play on words: "Vidyanidhi" means "treasure of learning."
+[^12-270]: So in the 1912/13 ed.: প্রণমে ("bows"). The 1960 ed. reads প্রথমে ("first"): "Then first, recognizing the Lord as his own, he offered obeisances to Sri Advaita Acharya."
+[^12-271]: Shachi's dream of Krishna and Balarama, the feeding of Nityananda in the Lord's house, as well as the Lord's manifestations in the forms of the avataras (1837) and the episode of the singer of songs about Shiva (1839–1846), are described in CB Madhya-khanda.
+[^12-272]: So translated শ্যাম শুরু রূপ (A, B and G all read "শুরু"), probably শুক্ল ("white"): the dark form of Krishna and the white form of Balarama. Reading unclear (OCR).
+[^12-273]: The Lord's absorption in the mood of Shiva is His lila.
+[^12-274]: চরম (charama) — probably চর্ম ("hide"; the hide is Shiva's garment). Reading unclear (OCR).
+[^12-275]: The quotation (1849–1854) is from CB Madhya-khanda.
+[^12-276]: বলি (bali) is translated as বলী ("mighty"); "saying" is also possible. Reading unclear.
+[^12-277]: ভাগ ভূয়শ রস (bhaga bhuyasha rasa) — the sense is unclear; translated tentatively (ভাগ = "fortune," ভূয়শঃ = "abundantly").
+[^12-278]: সুবলনি (subalani) is tentatively translated as "slender." The 1960 ed. reads "clad in garments of Chinese silk (চীন বসন) of dense radiance"; the word চীন is absent in the 1912/13 ed. (B).
+[^12-279]: "The former rasa" (পুরুব-রস, *puruva-rasa*) — probably the mood of Krishna's former pastimes in Vraja. "The Bodiless One" (অতনু, *atanu*) is Kamadeva.
+[^12-280]: The raga is named আম্রপঞ্চক (*āmrapañcaka*, A/B; distorted in the OCR of the 1960 ed.). Possibly the same as the raga Amra-panchama in the list of ragas in Taranga 5. Reading unclear (OCR).
+[^12-281]: Reading unclear (OCR): "সঙ্গীত রগিতরঙ্গিতচরণা" (*saṅgīta ragitaraṅgita-caraṇā*, B; 1960 ed. "সঙ্গীত-রঙ্গিত রর্দিত চরণ"). Translated tentatively: "feet frolicking (রঙ্গিত) in music."
+[^12-282]: Bandhuli (বাধুলি, probably বান্ধুলি, *bāndhuli*) is the bandhuka, a bright red flower. In the 1912/13 ed. the word ওট ("lips") carries the editor's gloss "ওষ্ঠ"; not translated. Balarama Dasa is a Vaishnava poet, an author of padas; this is his signature (*bhaṇitā*).
+[^12-283]: The "seven praharas" (সাত-প্রহরিয়া ভাব, *sāta-prahariyā bhāva*) — the Lord's great revelation in Srivasa's house, when for twenty-one hours (seven praharas of three hours each) He displayed His divine nature and sat on Vishnu's throne (CB Madhya-khanda 9).
+[^12-284]: Following A/B (আইলা, "came"). The 1960 ed. reads হইল বিহ্বল: "[here He] became beside Himself."
+[^12-285]: Reading unclear (OCR): "ভণ তন আয়ত" (*bhaṇa tana āyata*, B; 1960 ed. "ভনতন আয়ত"); understood as ভণত ন আয়ত — "words cannot tell it."
+[^12-286]: Jagai and Madhai were brahmana brothers of Navadvipa who had become robbers and drunkards; the Lord and Nityananda delivered them. The command to Nityananda and Haridasa to preach from house to house (1915) and the deliverance of Jagai and Madhai are described in CB Madhya-khanda 13.
+[^12-287]: Govinda, Madhava and Vasu (Vasudeva) Ghosha — brothers, kirtana singers, associates of Mahaprabhu.
+[^12-288]: Cf. the account in CB (Madhya-khanda) of Srivasa's mother-in-law, who secretly hid in the house during the night kirtana.
+[^12-289]: Cf. CB Madhya-khanda, where the Lord leaps into the Ganga and Nityananda and Haridasa pull Him out. The Lord's words about a body "devoid of prema" are His lila, displaying the mood of a devotee.
+[^12-290]: Reading unclear (OCR): "কনক মেরু দুরে দামিনী-দাম" (*kanaka meru dure dāminī-dāma*, B; the line is distorted in the 1960 ed., and absent from A). The word দুরে is understood as "leaving far behind."
+[^12-291]: Reading unclear (OCR): বন্ধুর (*bandhura*, B) is understood as Skt. *bandhura*, "lovely"; "শ্রুতি জিতি" (*śruti jiti*) tentatively as "in the ears … surpassing." The stanza is missing from A (in W) and from the 1960 ed. (OCR); read from B alone.
+[^12-292]: Chandrashekhara Acharya, the Lord's uncle, was the husband of Shachi's sister. On the performance in his house, where the Lord danced in the role of Lakshmi and Sadashiva and Buddhimanta Khan prepared the costumes, see CB Madhya 18.
+[^12-293]: The episode 1955–1983: cf. CB Madhya 19. Advaita, burdened by the Lord's reverence, deliberately extols jnana in order to receive punishment from Him.
+[^12-294]: Shri Thakurani is apparently Shri-devi, Advaita's second wife, the sister of Sita.
+[^12-295]: Lalitapura is a village on the way from Navadvipa to Shantipura; on the meeting of the Lord and Nityananda with the sannyasi at Lalitapura, see CB Madhya 19.
+[^12-296]: "Branch" (শাখা): a disciple, a follower (cf. the branches of Advaita's tree in CC Adi 12). This Shankara is a disciple of Advaita who held to the doctrine of jnana; he is not mentioned under this name in CC (to be checked).
+[^12-297]: On Shachi's offence against Advaita and its forgiveness, see CB Madhya 22.
+[^12-298]: Narahari here is Narahari Sarakara Thakura of Shrikhanda, an associate of the Lord (not the author of the *Bhakti-ratnakara*); likewise in 2021.
+[^12-299]: "Offer themselves": আপনা নিছয়ে (āpanā nichaye, G আপনি); the custom of nichhani, in which, out of love, something is waved around the beloved, as if offering oneself in his place.
+[^12-300]: Srinivasa is Srivasa Pandita (Srinivasa being the full form of his name). "Showers" follows the reading বরষত (baraṣata); the OCR of all copies has "বর-যত" (bara-yata). Reading unclear (OCR).
+[^12-301]: Vasu Ghosha is Vasudeva Ghosha; the OCR of all copies has "বাহ ঘোষ" (bāha ghoṣa), probably বাসু ঘোষ (vāsu ghoṣa). Reading unclear (OCR).
+[^12-302]: "Changas and dhakkas": চঙ্গড়ক (caṅgaḍaka), understood as চঙ্গ + ঢক্ক (kinds of drums); "to every end": চলু ওর (calu ora). Reading unclear (OCR). "Nishanas" (large kettledrums) follows A/B নিশান (niśāna); the 1960 edition has বিষাণ (viṣāṇa, "horns"). "Cymbals" follows A/B ঝাঝ (jhājha); the 1960 edition has বাজ ("sound").
+[^12-303]: "By the former rasa" — পুরুব (*puruba*, "former"), i.e. by the mood of the former pastimes in Vraja; so in the 1960 edition. B has পুরুষ (*puruṣa*), apparently an OCR error; the line of A is missing in the working file. Reading unclear (OCR).
+[^12-304]: The lord of the gods is Indra; the Lord of Parvati is Shiva; the Four-faced is Brahma. "Humbly entreats" — করত পরিহার (*karata parihāra*): in Brajabuli পরিহার means a humble entreaty.
+[^12-305]: The river of the gods is the Ganga. Jagannatha ("Lord of the world") here is the Deity they worship.
+[^12-306]: The *Sri Chaitanya-charita-mahakavya* is Kavi Karnapura's Sanskrit poem (the same one called the *Sri Krishna-chaitanya-charitamrita-mahakavya* in 12.879).
+[^12-307]: The Kazi is the Muslim magistrate and ruler of Navadvipa (Chand Kazi). On his ban of the kirtana and the Lord's nagara-kirtana see CC Adi 17; CB Madhya-khanda.
+[^12-308]: "নরহরি দাস গদাধর দামোদর" is taken as "Narahari, Gadadhara Dasa, Damodara" (cf. "দাস গদাধর … নরহরি" in 12.2013); "Narahari Dasa, Gadadhara, Damodara" is also possible.
+[^12-309]: A sampradaya here is a separate party of kirtana singers with its own lead singer.
+[^12-310]: Ai is the Lord's mother Shachi; her daughter-in-law is Devi Vishnupriya, the Lord's wife.
+[^12-311]: Arthavada is the view that the scriptures' glorification of the Name is mere laudatory exaggeration. This and the following episodes (bathing in His clothes, the mango tree, the clouds, "gopi, gopi") — CC Adi 17.
+[^12-312]: So in the 1912/13 edition: মন্দিরা (*mandirā*, hand cymbals). The 1960 edition has মন্দির (*mandira*, "temple").
+[^12-313]: Dhati (ধটী, *dhaṭī*) is a waistcloth; neta (নেত, *neta*) is a fine (silk) cloth.
+[^12-314]: The Acharya is Advaita Acharya. Haddipa (হড্ডিপ, *haḍḍipa*) — the Hadis, a caste of sweepers and cleaners.
+[^12-315]: Nrihari is the Lord appearing in human form (so the 1960 edition explains: Mahaprabhu). "Gave [teaching]" — in the 1960 edition অভ্যশিক্ষয়ৎ (*abhyaśikṣayat*); A and B have কারুণ্যেনাদ্য শিক্ষয়ন্ (*kāruṇyenādya śikṣayan*, "out of compassion, now teaching"), probably a misprint. Reading unclear.
+[^12-316]: Keshava Bharati is the sannyasi from whom the Lord later accepted sannyasa in Kantaka-nagara (Katwa).
+[^12-317]: "Ai" (mother, i.e. Shachi) follows the 1912/13 edition (A and B "আই"); the 1960 edition has "যাই" ("going"). On the worship of Shashthi beneath the banyan, cf. 12.1051–1085.
+[^12-318]: Probably the Deities of Nitai and Chaitanya served by Gauridasa Pandita at Ambika (Kalna); on them, BR 8.
+[^12-319]: Ananta (Shesha) is the thousand-mouthed serpent who ceaselessly sings the Lord's glories. The line may also be understood as "it would take infinite power."
+[^12-320]: On the two thieves who carried Nimai off for His ornaments, see 12.1077–1080.
+[^12-321]: On the tairthika brahmana, see 12.1086–1110.
+[^12-322]: On the Ekadashi offering, see 12.1111–1115.
+[^12-323]: On Nimai's offence toward Murari Gupta, see 12.1126–1129; in more detail, CB, Adi-khanda.
+[^12-324]: The maidens of Nadia worshipped the gods on the bank of the Ganga, praying for good husbands; Nimai demanded their offerings (CB, Adi-khanda). The author does not name the deity meant here.
+[^12-325]: Vallabha's daughter is Lakshmipriya, the Lord's first wife; cf. 12.1231–1238.
+[^12-326]: Nimai's commentary (*tippani*) on grammar is also mentioned in CB, Adi-khanda.
+[^12-327]: Krishnananda and Kamalakanta — according to CB (Adi-khanda), together with Murari Gupta, fellow students of Nimai at the school of Gangadasa Pandita. "Trick questions" — *phāṅki*: ingenious catch questions on grammar.
+[^12-328]: The 1912/13 edition gives a variant reading for this place: "murārira prīti" — "[in] Murari's [heart there was] love."
+[^12-329]: According to GGD, Murari Gupta is Hanuman, whom tradition regards as a portion of Rudra (Shiva).
+[^12-330]: The *Krishna-lilamrita* is a book by Ishvara Puri; on his stay in the house of Gopinatha Acharya, how he read it to Gadadhara and asked Nimai to point out its faults, see CB Adi-khanda.
+[^12-331]: The city of Madhu is Mathura. An allusion to how Krishna, entering Mathura, visited the weaver, the garland-maker Sudama and Kubja (*Bhag.* 10.41–42).
+[^12-332]: The sarvajna ("all-knowing one") is a soothsayer of Navadvipa; the story of how Nimai asked him about His previous births is in CB Adi-khanda.
+[^12-333]: Shridhara — a poor and simple-hearted devotee of Navadvipa who sold banana leaves and fruit; Nimai playfully haggled with him over the price (CB Adi-khanda).
+[^12-334]: "Pastimes of eagerness for a fight" — *yuddha-kāma-līlā*, probably referring to the Lord's playful squabbles with Shridhara; reading unclear (OCR). The second line follows A/B ("yabe," "when"); the 1960 edition has "sabe": "all do whatever the Lord wishes."
+[^12-335]: "Srivasa" — reading unclear (OCR): G "pravāsa," B "ābāda"; probably "śrīvāsa."
+[^12-336]: Keshava Kashmiri — a scholar from Kashmir, an acharya of the Nimbarka sampradaya; on the Lord's victory over this digvijayi see CC Adi 16 and CB Adi-khanda.
+[^12-337]: There follows (2255–2271) the succession of teachers of the Nimbarka sampradaya, going back to Narayana; Hamsa is the Lord in the form of a swan; "the four Sanas" (*catuḥsana*) are the four Kumaras: Sanaka, Sanandana, Sanatana and Sanatkumara. Nimbaditya is Nimbarka.
+[^12-338]: Srinivasacharya — an acharya of the Nimbarka sampradaya; not to be confused with Srinivasa Acharya, the hero of this book.
+[^12-339]: The Gopala Bhatta of 2269 is a teacher of the Nimbarka sampradaya, not Gopala Bhatta Gosvami.
+[^12-340]: The meaning of the line is unclear (B and G agree: বর্ণি লীলাভোগ «লঘুকেশব»-নামেতে, barṇi līlābhoga "laghukeśava"-nāmete). Probably it means that, ashamed of his former pride, Keshava Kashmiri signed his writings on the lilas with the name "Laghu-Keshava" ("the lesser Keshava").
+[^12-341]: Tapana Mishra was a learned brahmana of East Bengal; the Lord instructed him in harinama as the path for the age of Kali and told him to settle in Kashi (CB Adi-khanda; CC Adi 16).
+[^12-342]: While the Lord was in Bengal, His first wife, Lakshmipriya, departed from this world (cf. 12.1373–1376).
+[^12-343]: Bengal (বঙ্গদেশ) here is East Bengal; Nimai mimicked the speech of its people (CB Adi-khanda).
+[^12-344]: Ramai is Rama Pandita, Srivasa's younger brother. Shriman Pandita's account of the change in the Lord after Gaya and Gadadhara's weeping in Shuklambara's house — CB Madhya-khanda.
+[^12-345]: "How the outpouring of prema began" — the 1960 ed. has প্রেমারম্ভ (premārambha, "the beginning of prema"); B has প্রেমার্ত (premārta, "stricken with prema"): "how [He] was stricken with prema." Reading unclear (OCR).
+[^12-346]: Ratnagarbha Acharya was a devotee of Navadvipa from the same homeland as Jagannatha Mishra; hearing him recite a verse of the *Bhagavata* about Krishna, the Lord fainted from prema (CB Madhya-khanda).
+[^12-347]: The devotees' report to Advaita and the Lord's visit with Gadadhara to Advaita, who worships Him (2338–2347) — CB Madhya-khanda.
+[^12-348]: Kanai Natashala is a village on the way from Bihar to Bengal (by tradition, near Rajmahal). According to CB (Madhya-khanda), on returning from Gaya the Lord told the devotees that there Krishna had appeared to Him in the form of a beautiful dark boy.
+[^12-349]: বল্গিয়া মরয়ে (*balgiya maraye*) — according to a note in the 1912/13 edition, "leaping about and babbling in every way"; literally "they die raving." So also in 2355 (where the 1912/13 edition has বলিয়া, "saying," probably OCR).
+[^12-350]: "Offer [for Him]" is nichhani (নিছয়ে); see the note on 12.979.
+[^12-351]: A nagara is a town dandy, a gallant lover; nagarali is a nagara's finery.
+[^12-352]: The song 2380–2383 depicts the feelings of the young women of Nadia for Gaura; see the note on 12.1404.
+[^12-353]: "I am He" (মুই সেই), that is, Krishna, the cowherd of Vraja.
+[^12-354]: On Srivasa's worship of Nrisimha, when the Lord, striking the door, showed him the four-armed form, see CB Madhya-khanda.
+[^12-355]: Virasana, the "hero's posture," is a seated posture.
+[^12-356]: Narayani was Srivasa's niece, later the mother of Vrindavana Dasa, the author of the *Chaitanya-bhagavata*.
+[^12-357]: The quotation is from CB Madhya-khanda (Vishvambhara as Nityananda saw Him in the house of Nandana Acharya); it continues after 2429.
+[^12-358]: "White" — reading শুক্ল (*śukla*); all copies have শুরু (*śuru*), probably OCR (cf. 12.1831). Reading unclear (OCR).
+[^12-359]: মায়ুর (*māyura*) is the name of a raga; possibly the same as the raga Maura (মাউর) in 12.1759.
+[^12-360]: The Vyasa-puja is the worship of Vyasa as the original guru, performed by sannyasis on the full-moon day; on Nityananda's Vyasa-puja in the house of Srivasa (2445–2467), see CB Madhya-khanda.
+[^12-361]: বামনা (*bāmanā*) is a colloquial form of the word "brahmana."
+[^12-362]: The sense of the second line is unclear: B "নিত্যানন্দচন্দ্রে প্রকাশয়ে ভক্তি করি" (*nityānandacandre prakāśaye bhakti kari*), G "নিত্যানন্দচান্দ্র" (*nityānandacāndra*). Also possible: "Nityanandachandra reveals [it] with reverence."
+[^12-363]: Varuni is an intoxicating drink dear to Balarama; কাদম্বিনী (*kādambinī*), as the 1912/13 edition explains, is also "a kind of intoxicating drink" (মদবিশেষ). The Lord drank Ganga water; His mood of Balarama is lila.
+[^12-364]: The six-armed form (ষড়্ভুজ, *ṣaḍbhuja*) of the Lord unites the features of Rama, Krishna and Gaura Himself as a sannyasi; on how Nityananda beheld it, see CB Madhya-khanda.
+[^12-365]: Nada (নাঢ়া, *nāṛhā*) is the nickname by which the Lord called Advaita Acharya.
+[^12-366]: Cf. 12.1745.
+[^12-367]: Kunda is a kind of jasmine. On the inexhaustible flowering of the kunda in Srivasa's courtyard, see CB Madhya-khanda.
+[^12-368]: Vishnu's throne (বিষ্ণুর খট্টা, *viṣṇura khaṭṭā*) is the seat of the Deity of Vishnu in the shrine of Srivasa's house; the Lord sat on it, revealing His divine nature (CB Madhya-khanda).
+[^12-369]: Tribhanga is the pose of Krishna, bent in three places, playing the flute; Advaita sees Krishna in Gaura.
+[^12-370]: Advaita Acharya, grieving over the fallen people of the age of Kali, worshipped Krishna with Ganga water and tulasi and called on Him to descend (CC Adi 3).
+[^12-371]: According to the 1912/13 edition (B "বারে বারে"); the 1960 edition has "ধীরে ধীরে" — "softly, softly."
+[^12-372]: Advaita Acharya, who lived in Shantipura, also had a house in Navadvipa (CB Adi-khanda).
+[^12-373]: Sri Mukunda is Mukunda Datta, who, like Vidyanidhi, was a native of Chatigrama; Vasudeva Datta (2507) is his brother.
+[^12-374]: Pandita Gosani is Gadadhara Pandita.
+[^12-375]: On Vidyanidhi's princely outward appearance, how Gadadhara took him for a worldly man, and how this was set right through Mukunda (2511 ff.), see CB Madhya-khanda.
+[^12-376]: The words of Uddhava to Vidura. Baki is Putana, the sister of Bakasura, who came to kill the infant Krishna with her poisoned breast.
+[^12-377]: The verse number follows the 1960 edition; B has "10.6.26" (probably OCR).
+[^12-378]: That is, both are the Lord's eternal associates, inseparable from Him; according to GGD Pundarika Vidyanidhi is Vrishabhanu, the father of Radha, and Gadadhara is Radha Herself.
+[^12-379]: How the Lord tested Srivasa, asking whether he would keep Nityananda with him whatever He might do, is told in CB Madhya-khanda.
+[^12-380]: So in B ("এই ঠাই"). The 1960 edition has "in one place" ("এক ঠাই").
+[^12-381]: Govinda Datta is an associate of the Lord, the leading singer of His kirtana (CC Adi 10). সম্প্রদা (*sampradā*) is a group of kirtana singers with its lead singer.
+[^12-382]: শোন (*śona*, B সোন) probably means "gold" (সোনা). ভাঙনি (*bhāṅani*) means bearing, graceful pose.
+[^12-383]: The Mandakini is the heavenly Ganga: tears pour from His eyes like her streams.
+[^12-384]: Kusumashara ("He whose arrows are flowers"), Manmatha (2562), Madana (2564, 2574) and Atanu ("the Bodiless One," 2568) are names of Kamadeva, the god of love.
+[^12-385]: "Dha dha dhigi ti" are drum-rhythm syllables (bol).
+[^12-386]: Purandara is Indra, the king of the gods. The sense of the second half of the line is unclear: "ভাগ লহু পটতর" (*bhāga lahu paṭatara*), lit. "fortune — a slight comparison."
+[^12-387]: That is, the bhava of His former lila (as Krishna). G has "পুকুব" (OCR, probably পুরুব, *puruba*, "former"), B "পুরুষ" (*puruṣa*); reading unclear (OCR).
+[^12-388]: The Kinnaras are celestial singers and musicians.
+[^12-389]: A hastaka is a hand gesture in dance. "Swift, well-formed" follows the reading "ত্রস্ত কলিত" (*trasta kalita*); the sense is unclear.
+[^12-390]: The commas in G and B also allow the reading: "To the Lord's left is the Pandita, to the right Gadadhara, [beside Him] the handsome Nitai." Reading unclear (OCR).
+[^12-391]: "Rama on the left" follows G "রাম বামে" (*rāma bāme*); B has "রাস নামে" (OCR). Reading unclear. Garuda is probably Garudai (cf. 12.1852). The mardala is a drum.
+[^12-392]: Measure: বন্ধান (*bandhāna*), the metre or structure of a musical piece in kirtana.
+[^12-393]: "The guise of a wrestler" is the probable reading মল্লবেশ (*mallaveśa*); G has "মজবেশ," B "মন্সবেশ." Reading unclear (OCR). Nityananda is Balarama, famed as a wrestler.
+[^12-394]: The lord of Shantipura is Advaita. The end of the line is unclear: B has "গঞ্চিত বীনান উদার" (*gañcita bīnāna udāra*); in G this part of the stanza has not survived; translated conjecturally (as গদগদ বয়ান, *gadgada bayāna*, "faltering speech"). Reading unclear (OCR).
+[^12-395]: "Pining" is the probable reading ঝুরিয়া (*jhuriyā*); B has "বঙ্গিয়া" (OCR). Reading unclear.
+[^12-396]: Murari here is a name of the Lord ("the enemy of [the demon] Mura"), not the author of the book, Murari Gupta.
+[^12-397]: "Couch" — খট্টা (khaṭṭā). Cf. the account in CB (Madhya-khanda) of how the Lord in Srivasa's house sat on Vishnu's couch and took the shalagramas into His lap. A/B read "ধরিলা খণ্টায়" (OCR); the reading of G, "বসিলা খট্টায়," is adopted.
+[^12-398]: Reading unclear (OCR): G "দাশ্ভাবে" (dāśbhāve), B "দ্যভাবে" (dyabhāve); taken as দাস্যভাবে (dāsya-bhāve), "in the mood of servitude."
+[^12-399]: Janaki is Sita; "the life of Janaki" is Rama. The Lord speaks to Murari in the mood of Rama; on Murari as Hanuman see the note on 12.2194.
+[^12-400]: Ramadasa — "the servant of Rama."
+[^12-401]: In the 1960 edition: "in the *Sri Krishna-chaitanya-charita*, in the second prakrama, in the seventh sarga." The *Sri Chaitanya-charita* is Murari Gupta's Sanskrit poem; the verse number is not given in the editions. The shlokas 2601–2609 continue the same quotation.
+[^12-402]: "Now, the ashtaka" (অথাষ্টকং) is a subheading in the 1912/13 edition; in the 1960 edition an editor's heading stands in its place. The eight shlokas 2601–2608 are Murari Gupta's *Ramashtaka*. Brihaspati and Kavi (Shukra) are the planets Jupiter and Venus.
+[^12-403]: Reading unclear: A/B "অশীতকনকদ্যুতি" (aśīta-kanaka-dyuti), G "অসিতকনকদ্যুতি" (asita-kanaka-dyuti); translated "shining like gold." The sense of the first two lines is apparently that the five fingers of Sita, holding the lotus, look like five more petals.
+[^12-404]: The descendant of Kushika is the sage Vishvamitra, whose sacrifice Rama protected from the rakshasas (*Ramayana*, Bala-kanda).
+[^12-405]: A pun: "adūṣaṇa" means both "free of Dushana" (the rakshasa slain by Rama in the Dandaka forest together with Khara and Trishiras) and "free of defilement." Sugriva's enemy is Vali; the Ten-faced is Ravana.
+[^12-406]: Reading unclear (OCR): G "না বাধে খে," B "না বাধে খেহ" (nā bāṅdhe kheha); translated by the sense.
+[^12-407]: Reading unclear: G "কো কহুতুর … প্রেম অমিয় হরি বরধি, তরখি ত মহা মা তিয়া," B "কো কহু তুর … প্রেম অমিয় হরখি বরখি তরখিত মহি মাতিয়া"; translated after B, "তরখিত" (tarakhita) taken as "thirsting" (tṛṣita); "তুর" (tura) not rendered.
+[^12-408]: Here and further in the songs on the bank of the Ganga, the epithets about young women are motifs of nagari-bhava; see the note on 12.1404.
+[^12-409]: The epithets about young women (2630, 2632, 2635) are motifs of nagari-bhava; see the note on 12.1404.
+[^12-410]: The name of the raga is equally corrupt in G and B: "বেরগুপ্ত" / "বেরগ্প্ত" (beragupta); the raga is not identified.
+[^12-411]: Reading unclear (OCR): G "সব মদ সকল শিল্পার" (saba mada sakala śilpāra), the line is garbled in B; translated conjecturally (শিঙ্গার, "adornment").
+[^12-412]: Reading unclear (OCR): G "হম্বরে" (hambare), B "স্বন্বরে" (svanbare); taken as সুস্বরে (susvare), "resoundingly."
+[^12-413]: "Stone" — শিলা (śilā) in G and B; probably the stone on which sandal is ground. The sense is unclear.
+[^12-414]: "Duhkhi" means "the wretched one," "Sukhi" — "the happy one." On Srivasa's maidservant who brought water for the Lord's abhisheka, see CB Madhya-khanda.
+[^12-415]: Kholavecha, "seller of khola" (cups and leaves made from banana bark), is Shridhara's byname. His praise and the Lord's boon (Shridhara asked only for devotion) are in the CB account (Madhya-khanda) of the "seven praharas."
+[^12-416]: "Murari-vallabha" (*murāri-vallabha*) — "the Beloved of Murari" (or "dear to Murari," that is, to Krishna); the text does not make clear whether the name belongs to the Lord or to Murari Gupta.
+[^12-417]: Mukunda is Mukunda Datta. The Lord at first would not admit him into His presence because he kept company with those who reject bhakti, and then forgave him (CB Madhya-khanda).
+[^12-418]: The story of the crow and Malini's bowl is in CB Madhya-khanda. Translated according to the sense of the CB account; the 1960 edition puts দুঃখী (*duḥkhī*, "distressed") in quotation marks as the maidservant's name — "Sri Malini, seeing Duhkhi, asked her."
+[^12-419]: Chitragupta is Yama's scribe, who records the good and bad deeds of living beings.
+[^12-420]: "The two sinners" — so in the 1912/13 edition (in copy B, the line damaged by OCR: "দুই … পাপি," *dui pāpi*); the 1960 edition has "দুই ভাই" (*dui bhāi*), "the two brothers."
+[^12-421]: "Devotion" follows the 1960 edition, ভক্তি (*bhakti*); copy B of the 1912/13 edition has শক্তি (*śakti*), "power." Reading unclear (OCR).
+[^12-422]: Madhai's ghat (Madhai-ghat) is a ghat on the Ganga in Navadvipa that Madhai, at Nityananda's order, built in atonement for his sins, and where he begged everyone's forgiveness (CB Madhya-khanda).
+[^12-423]: Madhava is Madhai's name (Jagai is Jagannatha).
+[^12-424]: The 1960 edition has শাশুড়ী (*śāśuḍī*), "mother-in-law," as in CB; copy B of the 1912/13 edition has শালী (*śālī*), "sister-in-law." Reading unclear (OCR).
+[^12-425]: Shuklambara Brahmachari lived on alms; the Lord, absorbed in kirtana, eats the raw rice from his bag, calling him Sudama — the poor brahmana, Krishna's childhood friend, whose rice Krishna lovingly ate in Dvaraka (*Bhag.* 10.80–81). The episode: CB Madhya-khanda.
+[^12-426]: Onomatopoeia of the mridanga's beats; the syllables are read from B and the 1960 ed., both corrupted by OCR (drimiki drimi, drā drimi kaṭa dhikaṭa dhilaṅga; 1960 ed. dilaṅga). Reading unclear (OCR).
+[^12-427]: "Glows" — reading unclear (OCR): B cānda-vadana lala; in the 1960 ed. the line is corrupted. Understood as ḍhala ("softly glowing").
+[^12-428]: Reading unclear (OCR): B jhāṃjha dtha-khamaka, 1960 ed. bāula khamaka. Understood as jhāṃjha dagaḍa ("cymbals, dagar" — the dagar is a large drum). The khamak is a small percussion (plucked-string) instrument.
+[^12-429]: "Putting to shame" — reading unclear (OCR): 1960 ed. nirakhi ("looking at"), B nirani* (with the editor's footnote mark); understood as nindi ("putting to shame"). Lapana ("face, mouth") is in both editions.
+[^12-430]: The jackfruit (panasa) is covered with small spikes — a figure for the hairs standing on end in ecstasy (pulaka).
+[^12-431]: Reading unclear (OCR): 1960 ed. kanaka jini' yata…, B kanaka jini yu; understood as "surpassing gold [in luster]."
+[^12-432]: Reading unclear (OCR): 1960 ed. hāma ghana muda mātiyā ("I, intoxicated with deep joy"), B śyāma ghana… (perhaps "[like] dark clouds"); understood as "intoxicated with deep joy."
+[^12-433]: Here (2802) and in the songs 2803–2831, the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
+[^12-434]: Yadunandana Chakravarti, a disciple of Dasa Gadadhara, was a poet-padakarta; his signature appears in 2807, 2814 ("Yadu"), 2823. In B the heading is corrupted by OCR ("śrīvāsa-gadādhara-ṭhakurasya śiṣya"); the poet's name follows the 1960 ed.
+[^12-435]: "Another": কশ্চিৎ / কাচিৎ (kaścit / kācit, "a certain"; the gender agrees with the raga's name) in A/B here and at 2815, 2819, 2824, 2830; in the 1960 ed. only at 2824 and 2830. Apparently "another [song] in the raga …."
+[^12-436]: Reading unclear (OCR): sahaja bhāṅara bhaṅgimā kāje (B bhāura), understood as "the natural curving posture [so] works." Ajuli (ājuli) is an unclear form of address to a friend (cf. 2829).
+[^12-437]: Devakinandana is the poet whose signature stands in this song. Ajuli: see the note on 2811; in B this word carries the editor's footnote mark (the note itself was not found in the OCR).
+[^12-438]: The songs 2832–2869 continue the theme of the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404. Poets' signatures: Narahari (2842, 2861), Yadunandana (2850, 2857, 2869).
+[^12-439]: "The moon's" — in the 1960 ed. ইন্দু (*indu*); B has ইন্দ্র (*indra*, "Indra's"), probably an OCR error. Reading unclear (OCR).
+[^12-440]: কাচিচ্চ / কশ্চিচ্চ (*kācic ca / kaścic ca*, "and a certain [other]") — the word before the raga name in A/B (feminine with a ragini, masculine with a raga); rendered "And another [song]". Mallarika is the name of a ragini.
+[^12-441]: "In every direction, joy for the women" — দিশা নারী-সুখ (*diśā nārī-sukha*) in G and B; the sense is unclear, possibly "I can find no limit to the joy" (*nāri*, "I cannot").
+[^12-442]: The raga name: G বল্লরী (*vallarī*), B বল্ললী (*vallalī*). Reading unclear (OCR).
+[^12-443]: The songs 2870–2879 continue the theme of the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404. Poets' signatures: Yadunandana (2874), Vasudeva Ghosha (2879).
+[^12-444]: আজুলি (*ājuli*) — "simple, naive girl," an address to a friend.
+[^12-445]: "How can family honor survive" — so in B (কুল কি রহিবে তার); the 1960 ed. has "what can family honor do to her?" (কুল কি করিবে তার).
+[^12-446]: Shadja is the first of the seven svaras; by tradition the peacock's cry resembles this note.
+[^12-447]: Ghanashyama is the poetic name of Narahari Chakravarti. "So wretched" — দীন (*dīna*) in G and B; if read দিন (*dina*, "day"): "will there ever be such a day again?"
+[^12-448]: G and B have গৌরড়ী (*gauraḍī*); taken as raga Gauri (cf. 12.2018). Reading unclear (OCR).
+[^12-449]: "Crest-jewels of the accomplished" — so in B (সুঘর-শিরোমণি); the 1960 ed. has "crest-jewels of skilled dancers" (সুনট-শিরোমণি).
+[^12-450]: According to CB (Madhya 18), the Lord allowed only those who had conquered their senses to watch this dance; then Advaita and Srivasa began to refuse to go, and the Lord by His will made everyone "yogeshvaras," masters of yoga, beyond agitation. In this dance the Lord appeared in the role of Rukmini.
+[^12-451]: "[Swing] softly by both cheeks; the fine brows are like dark bees" — B reads গণ্ড যুগ যন, ভ্রমর ভুরু বর (*gaṇḍa-yuga ghana(?), bhramara bhuru bara*); the 1960 edition has ভ্রমণ (*bhramaṇa*, "swinging"): "the earrings… swing by both cheeks; the fine brows." Reading unclear (OCR).
+[^12-452]: "Bodice" — B reads কচু অঞ্চিত (*kacu añcita*), the 1960 edition কঞ্চ, অঙ্কিত (*kañca aṅkita*); probably কঞ্চুক-অঞ্চিত ("covered by a bodice"). The end of the line, "as if [made] for delight," — B জন্‌ রন! (*jan rana*), the 1960 edition জন-বধ্… (*jana-badh…*); probably জনু রঞ্জনা (*janu rañjanā*). Reading unclear (OCR).
+[^12-453]: "Pouring forth rasa" — the 1960 edition reads রস ঝরু (*rasa jharu*), B রস বর (*rasa bara*, "excellent in beauty"); reading unclear (OCR). "Offers [his] life [for Him]" is nichhani (*nichhani*); see the note to 12.979. Narahari is the poet's signature.
+[^12-454]: Cf. CB Madhya 18: in the house of Chandrashekhara Acharya the Lord, in the mood of the Mother of the world, gave the devotees His breast; the same chapter tells of the effulgence that remained in his house for seven days (2929).
+[^12-455]: Not in the 1960 edition.
+[^12-456]: The episode of Murari Gupta's bowing and his dream (2935–2953) — CB Madhya 20.
+[^12-457]: "Today go home" follows B অদ্য গৃহে যা[ও] (*adya gṛhe yā[o]*); the 1960 edition has অন্য গৃহে যাই (*anya gṛhe yāi*, "I shall go to another house").
+[^12-458]: Prakashananda [Sarasvati] — a Mayavada sannyasi of Kashi (Varanasi) who taught that the Lord's form is unreal; later Mahaprabhu converted him in Varanasi (CC Adi 7, Madhya 25).
+[^12-459]: Cf. CB Madhya 20: in ecstasy Murari offered Krishna rice with ghee by handfuls, saying "Eat!" — hence the Lord's "indigestion" (2957–2962).
+[^12-460]: Cf. CB Madhya 20: Murari resolved to leave the body before the Lord's disappearance, and the Lord, coming to him, took the knife away.
+[^12-461]: Visharada's embankment (*jangala*) — so in the 1960 edition (জাঙ্গাল, *jāṅgāla*); B (OCR) has জল (*jala*, "water"), a syllable short of the metre. Reading unclear (OCR). Devananda Pandita — a reciter of the *Bhagavata* in Navadvipa who offended Srivasa; the meeting with him and with the drunkards (2976–2980) — CB Madhya 21.
+[^12-462]: Maheshvara Visharada — the father of Vasudeva Sarvabhauma, the famous logician who lived in Puri (Nilachala) at the court of King Prataparudra; Gopinatha Acharya was his sister's husband (CC Madhya 6).
+[^12-463]: The sense is unclear: সে সভে না দেখে তার মনে খেদ হৈল (*se sabhe nā dekhe tāra mane kheda haila*) — it can also be understood as "those [devotees] did not see him, and there was sorrow in his heart."
+[^12-464]: Narahari — Narahari Sarakara, the Lord's associate, not the author of the poem.
+[^12-465]: Yadunatha Dasa is a Vaishnava poet, an author of padas; this is his signature (bhanita).
+[^12-466]: Govinda Ghosha is an associate of the Lord, a kirtana singer, brother of Madhava and Vasudeva Ghosha; this is his signature (bhanita).
+[^12-467]: Shuka is Shukadeva, the narrator of the *Bhagavata*; Virinchi is Brahma. Kamala (3002) is Lakshmi.
+[^12-468]: The poet's signature (bhanita); which Ramachandra is meant, the text does not say.
+[^12-469]: Reading unclear: G and B "চূড়া ভালে সে বলিয়া" (cūṛā bhāle se baliyā); translated by sense — "gathered in a topknot above the forehead."
+[^12-470]: Shekhara Raya (Raya-shekhara) is a Vaishnava poet, an author of padas in Brajabuli; this is his signature (bhanita).
+[^12-471]: Srinivasa here (and in 3029) is Srivasa Pandita, whose full name is Srinivasa, not Srinivasa Acharya.
+[^12-472]: Shamana is Yama, the lord of death. The heavenly trees are the wish-fulfilling trees (surataru): the Lord surpassed them in generosity.
+[^12-473]: "The earth" follows B ("ধরণি"); the 1960 edition has "তরুণী" ("young women"), probably an OCR error.
+[^12-474]: The 1912/13 edition notes a variant reading: "Gokulapati" ("Lord of Gokula") instead of "Golokapati."
+[^12-475]: Shripada is the Lord's respectful way of addressing Nityananda.
+[^12-476]: Ananga ("the bodiless one") is Kama, the god of love; likewise in 3071.
+[^12-477]: Reading unclear: G and B "দরপিত" (darapita); understood as দরবিত ("melted"). "These two" are Gaura and Gadadhara.
+[^12-478]: Svarupa is Svarupa Damodara. Yadu is the poet's signature (bhanita), a short form of the name (Yadunatha or Yadunandana); likewise in 3053 and 3060.
+[^12-479]: Aja is Brahma, Bhava is Shiva.
+[^12-480]: The Thief (চোরা) — probably Krishna, the "stealer" of butter and of hearts, hidden in Gaura's golden form.
+[^12-481]: The Sanskrit note (শ্রীনরহরিসরকারঠক্কুরস্য গীতমিদম্) stands after this song in the 1912/13 and 1960 editions: the Narahari Dasa of the signature is Narahari Sarakara, not the author of the *Bhakti-ratnakara*. The Pandita is Gadadhara Pandita: Radha stands at Krishna's left.
+[^12-482]: Kanu is Krishna. The comparisons refer to Gaura and Gadadhara. Rati is the consort of Kama.
+[^12-483]: Nayanananda was a Vaishnava poet, an author of padas, the nephew and disciple of Gadadhara Pandita; this is his signature (bhanita). In A/B and in the 1960 edition this song (3068) is preceded by the note "this is a song of Sri Narahari Sarakara Thakura."
+[^12-484]: Reading unclear (OCR): the end of the second line is "রিয়া সঙ্গিয়া" (*riyā saṅgiyā*, B); the 1960 edition has "রঙ্গিয়া রিয়া" (*raṅgiyā riyā*); understood as "লৈয়া সঙ্গিয়া" (*laiyā saṅgiyā*), "taking the companions along."
+[^12-485]: Srinivasa here is Srivasa Pandita (Srivasa is a short form of the name Srinivasa), not Srinivasa Acharya.
+[^12-486]: Yadu is the poet's signature (bhanita).
+[^12-487]: Govinda is probably Govinda Ghosha, the brother of Vasudeva Ghosha, a kirtana singer. "His qualities" renders নিজ-গুণ (*nija-guṇa*, "own qualities").
+[^12-488]: Phagu is the red powder that people throw on one another at the Holi festival.
+[^12-489]: চাঁদ-চন্দন (*cā̃da-candana*) is understood as sandal with camphor (চাঁদ, camphor); the Lord's golden body is compared to the golden mountain Sumeru.
+[^12-490]: "His own ghat" renders নিজ-ঘাট (*nija-ghāṭa*), the Lord's ghat. Madhai's ghat is a ghat on the Ganga which, according to CB (Madhya-khanda), the repentant Madhai made. Madhai's ghat, Barakona-ghat (3125) and Nagariya-ghat (3126) are ghats of the Ganga in Navadvipa on the route of the nagara-kirtana.
+[^12-491]: Kshetrapala means the guardian of the holy land; here, Shiva as the guardian of Navadvipa.
+[^12-492]: মূর্তি (*mūrti*) is understood as the Deity of Ganesha, which disappeared when the Lord took sannyasa (3129); it may also be understood as the "form" of Ganesha himself.
+[^12-493]: "Nearby" follows A/B, কাছে (*kāche*); the 1960 edition has কাঁদে (*kā̃de*), "Nityananda, Advaita and all the others weep." Reading unclear (OCR).
+[^12-494]: Patadanga follows A/B, পাটডাঙ্গা (*pāṭaḍāṅgā*); the 1960 edition has পারডাঙ্গা (*pāraḍāṅgā*, Paradanga). Reading unclear (OCR). On Gadigachha see 12.239.
+[^12-495]: CB Madhya 23; the 1960 edition gives 23.513. The quotation is in Bengali verse from the *Chaitanya-bhagavata*.
+[^12-496]: On the morning after Janmashtami (3148–3152) the Nanda-utsava is celebrated, Nanda's festival for the birth of his son, when the cowherds of Gokula joyfully drenched one another with yogurt, milk, ghee and turmeric (cf. *Bhag.* 10.5).
+[^12-497]: Sundarananda and Gauridasa Pandita are associates of Nityananda; in Krishna's lila they are, according to GGD, cowherd boys (among the twelve gopalas). "Sundara" in 3163 and 3170 is Sundarananda.
+[^12-498]: Carrying-pole renders ভার (*bhāra*): a pole on the shoulder with loads hung at both ends (here, pots).
+[^12-499]: Reading unclear (OCR): B স্থঅট মিভাদর (G lost); read as সু-অটমি ভাদর (*su-aṭami bhādara*), "the blessed ashtami of [the month of] Bhadra," Krishna's birthday.
+[^12-500]: Reading unclear (OCR): B নট পটি পাগ স্ুভর (*naṭa paṭi pāga subhara*), G নটপটা পাগ মৃদুভৱর (*naṭapaṭā pāga mṛdubhara*); পাগ is a turban, the sense of the other words is conjectural.
+[^12-501]: The ascetic renders যতি (*yati*); apparently Nityananda the avadhuta.
+[^12-502]: "Dha dhi dhi ki taka…" are syllables of the drum rhythm (bols); likewise in 3195.
+[^12-503]: Radha's birth festival (Radhashtami) falls on the bright ashtami of Bhadra, half a month after Janmashtami. Pundarika Vidyanidhi, according to GGD, is Vrishabhanu, Radha's father; hence the festival is held in his house (cf. 3196).
+[^12-504]: Gadadhara Pandita, according to GGD, is Sri Radha.
+[^12-505]: Kama (কাম, *kāma*) is Kamadeva, the god of love. The 1960 edition has গোপরূপের ("of the cowherd's form") instead of গোরারূপের ("of Gora's form"). The 1912/13 edition notes for কনকের কাম the variant reading কনকের দাম ("a golden garland").
+[^12-506]: Ketaki (ketaka) is the screw pine with fragrant golden-yellow flowers; gorochana is a bright yellow fragrant pigment obtained from cows.
+[^12-507]: The song 3204–3209, like the song of the dana-lila (3220–3223), touches on the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
+[^12-508]: Sangali (সাঙলি, *sāṅali*) and Dhavali (ধবলি, *dhavali*, "White") are names of cows. In G the line is corrupt (শালি ধ্লি' বি); the reading follows B.
+[^12-509]: The dana-lila is Krishna's pastime of demanding a "toll" (দান, *dāna*) from the gopis on their way; on the song 3220–3223 see the note on 12.1404.
+[^12-510]: Reading unclear (OCR): B and G have ফুলবল (*phulabala*); read as ফুলবন (*phulabana*), "flower garden."
+[^12-511]: Pasha-sari (পাশা-সারি, *pāśā-sāri*) is a game of dice played with pieces on a board.
+[^12-512]: Reading unclear (OCR): B গৌরাগ্গট দের, G lost (নেলচন); read as গৌরাঙ্গচাঁদের (*gaurāṅgacā̃dera*).
+[^12-513]: *Duyā*, *chāri*, *pañcha*, *tina* — "two," "four," "five," "three": the scores that players call out as they throw the dice in the game of pasha-sari.
+[^12-514]: Here and in the song 3271–3274, the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
+[^12-515]: Reading unclear (OCR): B মৃদু মৃদু ৬ম হানিয়া (*mṛdu mṛdu … hāniyā*); the 1960 edition's text for 3271–3273 is missing from the OCR copy. Translated as মৃদু মৃদু হাস হাসিয়া, "smiling gently, gently."
+[^12-516]: The 1960 edition reads গোরারূপ মেঘের বিজুরী, "Gora's form is lightning in a cloud."
+[^12-517]: Translated according to B: ভুঞ্জিব কি সভারে ভুঞ্জায়. The 1960 edition reads ভুঞ্জিব কি? — সভারে সুধায়, "'Shall I eat?' He asks everyone."
+[^12-518]: Phagu is a colored (usually red) powder that people throw on one another at the spring festival of Holi.
+[^12-519]: Abir and gulal are coloured (red) powders that people throw on one another at Holi; a pichkari (3315, 3322) is a syringe-pump from which coloured water is squirted.
+[^12-520]: A motif of the feelings of the young women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
+[^12-521]: The text has শ্রীনিবাস (Srinivasa) — here Srivasa (Srinivasa Pandita), not Srinivasa Acharya, who is listening to the account.
+[^12-522]: Narahari, here and in 3345, is Narahari Sarakara, the Lord's associate, not the author of the poem. "Hari" (হরি) is probably a shortened name of one of the associates (Haridasa?); the text does not make it clear.
+[^12-523]: Reading unclear (OCR): B has "ছিল হরিদাস" (*chhila haridāsa*; in the 1960 edition lines 3330–3334 were lost in recognition); probably দ্বিজ হরিদাস (*dvija haridāsa*, "Haridasa the brahmana").
+[^12-524]: "Thukkuta thai…", "dradrimi ki…" are syllables of the dance rhythm (bols) and the sounds of the drums; the OCR reading is approximate. The muraja is a kind of drum.
+[^12-525]: Gadadhara Pandita, according to GGD, is Radha; hence "a woman full of rasa". The "Pandita" in 3346 is the same.
+[^12-526]: Shivananda is the signature of the song's author (probably Shivananda Sena, the Lord's associate).
+[^12-527]: Balarama performed the rasa-lila with the gopis in Vraja (*Bhag.* 10.65); Nityananda is Balarama, hence "Nityananda-Haladhara".
+[^12-528]: The "former pastime" is Krishna's stealing of the gopis' garments (*Bhag.* 10.22).
+[^12-529]: The *Sri Chaitanya-charita* is the Sanskrit biography of the Lord composed by Murari Gupta (see 12.1143); the numbers of the prakrama and sarga are given in the text of the editions. Both verses (3356–3357) come under one introductory line.
+[^12-530]: Murari (lit. "the enemy of [the demon] Mura") is here a name of the Lord; so the 1960 edition understands it.
+[^12-531]: CC Madhya 19 (the chapter on the instructions to Sri Rupa; the 1960 edition also gives a reference to it); Narahari calls the Madhya-lila the "Madhya-khanda".
+[^12-532]: The five verses (3366–3370) come under one introductory line; the source is not named and has not been identified. These are the eight periods of the day (ashtakaliya-lila) of Gaura: the end of night, morning, forenoon, midday, afternoon, evening, the beginning of night and night; the verb "remember" is implied in the verses (so in the 1960 edition).
+[^12-533]: Reading unclear (OCR): the beginning of the line in B is "পুর্ববাহ্রমদ্্রে" (*purvāhramadre*), garbled in the 1960 edition; following the 1960 edition's translation ("very eager to go to the devotees' houses") it is taken as *pūrvāhne gamane*.
+[^12-534]: The 1960 edition has "raga Shri".
+[^12-535]: "For a moment" — পল ছন (*pala chhana*), taken as *pala-kṣaṇa*; reading unclear (OCR).
+[^12-536]: Gopala Chapala — a brahmana of Navadvipa, an opponent of kirtana. His offence against Srivasa, his leprosy and cure, and also the curse of the brahmana who was not admitted to the kirtana (3410–3415), are described in CC Adi 17; according to the CC, Gopala Chapala was cured when, at the Lord's word, he begged Srivasa's forgiveness.
+[^12-537]: The Lord rejoiced at the curse "may Your worldly happiness be destroyed," for He Himself intended to leave worldly life and accept sannyasa (CC Adi 17).
+[^12-538]: Chaitanyadasa — a poet, the author of this song (his signature).
+[^12-539]: Vasu Ramananda (Ramananda Vasu) — a poet, the author of this song (his signature). The chakora is a bird which, according to poetic tradition, feeds on moonlight.
+[^12-540]: Advaita's dance in the mood of a gopi, the revelation of the universal form to Him and Nityananda's arrival (3439–3453) are described in CB Madhya 24.
+[^12-541]: It seems that Advaita is the speaker in the verse ("those bound to Me" are His followers, who worship the Lord in different rasas and in different avataras): He asks for the boon of turning them all towards Vrindavana.
+[^12-542]: In the CB Nityananda and Advaita often playfully scold each other; this is Their lila, not enmity.
+[^12-543]: The departure of Srivasa's son during the kirtana, and the teaching that the Lord spoke through the mouth of the dead boy, are described in CB Madhya 25.
+[^12-544]: Sri Vijaya (Vijaya Dasa) was the Lord's scribe, who copied books for Him; in CC Adi 10 the Lord calls him Ratna-bahu. His vision from the touch of the Lord's hand in Shuklambara's house is described in CB (Madhya-khanda).
+[^12-545]: মধু (*madhu*) means both "honey" and an intoxicating drink (varuni) dear to Balarama. In the mood of Balarama (Haladhara) the Lord demands it, and Nityananda gives Him Ganga water.
+[^12-546]: Devakinandana is the poet; this is his signature (bhanita); see 12.2829. "A rogue, a boar wallowing in the mire" renders ভাড়িয়া গড়িয়া শূকর (*bhāṛiyā gaṛiyā śūkara*, so in the 1960 edition and in B), understood as ভাঁড়িয়া ("rogue") and গড়িয়া ("wallowing"). The reading is unclear (OCR).
+[^12-547]: Balarama is the signature of the poet Balarama Dasa (bhanita).
+[^12-548]: "In bewilderment" renders ধাঁদে (*dhā̃de*; ধাদে in the 1960 edition and in B), understood as "in confusion." The reading is unclear (OCR).
+[^12-549]: Yadu is the poet's signature (bhanita).
+[^12-550]: The students offended the Lord when, in ecstasy, He was chanting "gopi, gopi," and He chased them with a stick; after this He resolved to accept sannyasa in order to deliver the offenders as well. CC Adi 17; CB Madhya-khanda.
+[^12-551]: CB Madhya-khanda; the 1960 edition gives 27.13–14. The quotation (3511–3512) is in Bengali verse from the *Chaitanya-bhagavata*.
+[^12-552]: "As much as [you] could" follows the sense; B has যত্ত পায় (*yatta pāy*), the 1960 edition যত পানয় (*yata pānaya*). The reading is unclear (OCR).
+[^12-553]: CB Madhya-khanda; no verse number is given in the editions. The quotation (3519–3520) is in Bengali verse from the *Chaitanya-bhagavata*.
+[^12-554]: "The flowers do not bloom" follows the sense, reading না বিকসে (*nā vikase*); the 1960 edition and B have নাবিক সে (*nābika se*). The reading is unclear (OCR).
+[^12-555]: A Sanskrit drama by Kavi Karnapura; the verse number is not given in the editions. The chintamani is the wish-fulfilling gem. "The ten directions": B has দিশো দশো (*diśo daśo*), G দিশো দশা — understood according to the gloss of the 1960 edition (দশ দিশঃ, "the ten directions").
+[^12-556]: CC Madhya 3 (in CC, the Madhya-lila). The quotation is in Bengali verse from the *Chaitanya-charitamrita*.
+[^12-557]: Phuliya follows B, ফুলিয়া (*phuliyā*); the 1960 edition has কুলিয়া (*kuliyā*, Kuliya). Phuliya is a village on the Ganga near Shantipura where Haridasa Thakura lived. Reading unclear (OCR: ফ/ক).
+[^12-558]: "To Phuliya" follows B, ফুলিয়া; the 1960 edition has কুলিয়া (Kuliya) here too. "By way of Kuliya" — কুলিয়া হইয়া in all copies; on Kuliya see 12.365. Reading unclear (OCR: ফ/ক).
+[^12-559]: Bhiksha is the meal offered to a sannyasi.
+[^12-560]: "Of the arms" follows B, বাহাশোভা (understood as বাহু-শোভা, *bāhu-śobhā*); the 1960 edition has বহু শোভা (*bahu śobhā*), "what great beauty." Reading unclear (OCR).
+[^12-561]: "… ঘন, শ্যামের হৃদয়-মাঝে" (*ghana, śyāmera hṛdaya-mājhe*) is understood as the signature of Ghanashyama (the other name of Narahari Chakravarti); it may also be read "shine constantly in the heart of Shyama."
+[^12-562]: CB Antya-khanda. The quotation is in Bengali verse from the *Chaitanya-bhagavata*.
+[^12-563]: "To take upon oneself the ills (balai)" — an expression of tender love: "may all the ills that threaten you fall on me."
+[^12-564]: CB Antya 5; the 1960 edition gives 5.231–233. Ojha, "teacher," is an honorific byname of Raghunatha Vaidya.
+[^12-565]: "Here comes" renders আয়ত (*āyata*), understood as Brajabuli "comes, goes." The avadhuta is Nityananda.
+[^12-566]: Cf. CC Adi 5: Sankarshana, Shesha and the purusha-avataras are expansions of Balarama (Nityananda). "Narayana the source of the avataras" (অবতারী নারায়ণ) here apparently means Maha-Vishnu, the purusha-avatara. B has শেপশারী সন্কীর্ভন — corrupted by OCR; following G, শেষশায়ী সঙ্কর্ষণ.
+[^12-567]: "Swells" follows the 1960 ed., স্ফীত (*sphīta*); B has শীত (*śīta*, "grows cold"). Reading unclear (OCR).
+[^12-568]: Yadu is the poet's signature (bhanita). The poet laments that he alone was left unsubmerged by the flood of prema. The end of the line is রহল অবধি (*rahala avadhi*, "remained aside / beyond the limit"; B অনধি); in the 1960 ed. the name reads যহু (*yahu*). Reading unclear (OCR).
+[^12-569]: "Enclosed" follows the 1960 ed., আবদ্ধ (*ābaddha*); B has অবধি (*avadhi*, "limit"). Reading unclear (OCR).
+[^12-570]: Panihati is a village on the bank of the Ganga north of Calcutta, the home of Raghava Pandita; here Nityananda, having come from Puri, began His preaching in Bengal (CB Antya 5).
+[^12-571]: Raghava Pandita, the Lord's associate from Panihati, is famous for the bags (jhali) of delicacies he brought to the Lord in Puri every year; Makaradhvaja Kara was the keeper of those bags (CC Antya 10).
+[^12-572]: The motif of chaste women's feelings for the Lord, as in the songs of nagari-bhava; see the note on 12.1404.
+[^12-573]: Sri Raghavananda is apparently Raghava Pandita himself (cf. 3663–3665).
+[^12-574]: CB Antya 5; the 1960 ed. gives 5.303. The quotation is Bengali verse of the *Chaitanya-bhagavata*.
+[^12-575]: CB Antya 5; the 1960 ed. gives 5.418–419 (the figures partly corrupted by OCR). "Servants" (3677) follows B, ভৃত্যগণেরে (*bhṛtyagaṇere*); the 1960 ed. has বিপ্রগণেরে (*vipragaṇere*), "brahmanas." "Desired" (3676): B বাঞ্ছিত (*vāñchita*), the 1960 ed. অভীষ্ট (*abhīṣṭa*); the meaning is the same.
+[^12-576]: Sri Chaitanyadasa and Murari Pandita are associates of Nityananda; in B the names stand without a comma ("চৈতন্যদাস মুরারি পণ্ডিত"), so a single person is also possible — Murari Chaitanyadasa (see 9.359–401). Reading unclear.
+[^12-577]: "Granted the meeting" follows B, মিলায়ল (*milāyala*, "brought together, united"); the 1960 ed. has বিলায়ল (*bilāyala*), "distributed." Reading unclear (OCR).
+[^12-578]: Saptagrama is an ancient trading town on the Ganga (Hugli), north of Khardaha; there lived Uddharana Datta, an intimate associate of Nityananda from the merchant caste (the suvarna-baniks; cf. 3751).
+[^12-579]: "The former pastimes" are the pastimes of Krishna in Vraja, where Nityananda was Balarama. The line is understood tentatively: পুরুব বিলাসী রঙ্গী সঙ্গের সঙ্গিয়া (*puruba bilāsī raṅgī saṅgera saṅgiyā*).
+[^12-580]: Prasada Dasa is the poet's signature: in the 1960 edition "পরসাদ দাস" (*parasāda dāsa*), in B "পরমাদ দাস" (*paramāda dāsa*). Reading unclear (OCR).
+[^12-581]: "A jewelled necklace sways" follows B "তরল মণিহার" (*tarala maṇihāra*); the 1960 edition has "সুললিত হার" (*sulalita hāra*), "a lovely necklace."
+[^12-582]: লক্ষে লক্ষে (*lakṣe lakṣe*) is understood as "with leaps" (cf. লম্ফ); it could also be understood as "by hundreds of thousands," i.e. with countless crowds.
+[^12-583]: Ramai is probably Ramadasa (Abhirama), Sundara is Sundarananda, and Gauridasa is Gauridasa Pandita — all three associates of Nityananda. The reading "beautiful Ramai" is also possible.
+[^12-584]: Jnanadasa is a sixteenth-century Vaishnava poet, author of padas, a follower of Nityananda and Jahnava; this is his signature.
+[^12-585]: Nagara, "the beloved, the gallant hero," is an epithet of Gaura in songs about the feelings of the women of Nadia for Gaura (nagari-bhava); see the note on 12.1404.
+[^12-586]: Lochana (Lochana Dasa) is a Vaishnava poet, the author of the *Chaitanya-mangala*; this is his signature.
+[^12-587]: Reading unclear (OCR): the end of the first line is "বরলীলা ধাত" (*baralīlā dhāta*) in B, "বরলীলা যতি" (*baralīlā yati*) in the 1960 edition; the end of the second line is "পুলকিত গাত" (*pulakita gāta*, "body covered with thrills") in B, "পুলকিত গতি" (*pulakita gati*) in the 1960 edition. Translated after B; ধাত is understood tentatively (as "receptacle, treasury").
+[^12-588]: Not in the 1960 edition: couplets 3781a–3781c (with Ghanashyama's signature) are found only in B.
+[^12-589]: "In that mood" — so B, সেভাবে (*se bhāve*); the 1960 edition has সে ভয়ে (*se bhaye*, "in that fear").
+[^12-590]: "Slaps His arms like a wrestler" — মালসাট (*mālasāṭ*), a wrestler's challenge. Kali is the personified age of Kali; B's কপি (*kapi*) is an OCR error.
+[^12-591]: "His fame" — ও না যশে (*o nā yaśe*) is taken as "with his fame." Reading unclear (OCR).
+[^12-592]: "Slapping [His palm] under His arm" — কাখতালি (*kā̃khatāli*): striking the palm pressed under the armpit, a gesture of jubilation.
+[^12-593]: Ghanashyama is the poet's signature (the second name of Narahari Chakravarti), not Krishna.
+[^12-594]: The CB (Antya-khanda) tells of Nityananda's coming from Saptagrama to Advaita in Shantipura and then to Navadvipa.
+[^12-595]: Vasu — B has বানু (*bānu*), probably a corruption of বাসু (*vāsu*): Vasu Ghosha, the author of the song, in the signature (bhanita). The 1960 edition has সেই (*sei*): "why does she not die." Reading unclear (OCR).
+[^12-596]: "To Srivasa's house" — so B, শ্রীবাসভবনে (*śrīvāsa-bhavane*); the 1960 edition has প্রবাস-ভবনে (*pravāsa-bhavane*, "to a temporary lodging"), probably an OCR error; likewise in 3842 (G মালিনী-প্রবাসে for মালিনী শ্রীবাসে).
+[^12-597]: The story of the robbers who plotted to steal Nityananda's ornaments and of their conversion — CB Antya-khanda.
+[^12-598]: The quotation (3847–3850) is in Bengali verse from the *Chaitanya-bhagavata*. In the 1960 edition 3847 begins with এই মত ("thus").
+[^12-599]: Khanayora, Baragachhi, Dogachhiya — villages where Nityananda wandered. Khanayora is the probable reading খানাযোড়া (*khānāyoṛā*); B has খালাযোড়া (*khālāyoṛā*), the 1960 edition খানচৌড়া (*khānacauṛā*). Reading unclear (OCR). On Kuliya see 12.372.
+[^12-600]: By His loud calls (roars) Advaita induced the Lord to descend (CC Adi 3).
+[^12-601]: The father of Achyuta is Advaita, the father of Achyutananda.
+[^12-602]: Saranga — the 1960 edition has সারগ (probably সারঙ্গ, *sāraṅga*); B has মারঙ্গ (*māraṅga*). Reading unclear (OCR).
+[^12-603]: Hari Hod was the local ruler (in 3933, "raja") of the village of Baragachhi (on it see 12.3848–3850); his son Krishnadasa Hod was an associate of Nityananda.
+[^12-604]: Suryadasa Sarakhel is the elder brother of Gauridasa Pandita (cf. BR 7.330). "Sarakhel" (সরখেল, *sarakhela*) is a title conferred by the Muslim ruler of Gauda, from Persian *sar-i-khail*, "head of a troop."
+[^12-605]: The *Vaishnavabhidhana* is apparently a Sanskrit enumeration of Vaishnavas composed by Devakinandana Dasa, the author of the *Vaishnava-vandana* (see the note on 12.94).
+[^12-606]: Gai: see the note on 11.441. Karana (করণ, *karaṇa*) here apparently means the marriage connections of a kulina family, by which its purity was judged.
+[^12-607]: Kulinas are the highest rank of Bengali brahmanas. The sense: the family from which Hadai Pandita took his wife (Padmavati) is also related to kulinas; literally "surrounded by kulinas" (কুলীনে বেষ্টিত, *kulīne beṣṭita*); cf. the note on 11.441.
+[^12-608]: Varuni and Revati are the consorts of Balarama; the GGD identifies Vasudha and Jahnava with them. "Vasu" (বসু) is a short form of the name Vasudha. B has বসন (*basana*) for বসু — an OCR error.
+[^12-609]: "A seat" — after the 1960 edition: আসনে (*āsane*); B has আপনে (*āpane*, "himself"), probably an OCR error. Reading unclear (OCR).
+[^12-610]: "Undertaken" — after B: করিয়াছ (*kariyācha*, "have done"); the 1960 edition has কহিয়াছ (*kahiyācha*) — "what you have said." Reading unclear (OCR).
+[^12-611]: After B: সভার উল্লাস (*sabhāra ullāsa*) — "everyone rejoiced"; the 1960 edition has পরম উল্লাস (*parama ullāsa*) — "there was supreme joy."
+[^12-612]: After B: নিত্যানন্দে সভে লৈয়া (*nityānande sabhe laiyā*) — "everyone, taking Nityananda along"; the 1960 edition has নিত্যানন্দ সভে লৈয়া — "Nityananda, taking everyone along."
+[^12-613]: This Krishnadasa is Suryadasa's younger brother (Krishnadasa Sarakhel, CC Adi 11), not Krishnadasa the son of Hari Hod of Baragachhi (3872).
+[^12-614]: Krishnadasa Pandita is Suryadasa's younger brother, whom Suryadasa sent on ahead with the articles for the rite (12.3940–3941); not to be confused with Krishnadasa, son of Raja Hari Hor, Nityananda's host in Baragachhi (12.3933, 3938).
+[^12-615]: "As if" takes the reading জনু (*janu*); the 1960 edition has "যনু," B "মনু." Reading unclear (OCR). Ketaki is the pandanus, a flower with golden petals.
+[^12-616]: "Cannot keep her feet on the ground" is literal. The second half (হিয়া ধৈরয বাঁধে, *hiyā dhairaya bā̃dhe*, "binds the heart with patience") is understood as "[barely] holds her heart"; the reading in B is corrupt.
+[^12-617]: "The most excellent bridegroom" takes the reading সুবর (*subara*); the 1960 edition has "স্থবর," B "স্রথর" — possibly সুন্দর (*sundara*, "beautiful"). Reading unclear (OCR).
+[^12-618]: "The brahmanas" takes the reading ভূসুর (*bhūsura*, "gods on earth"); the 1960 edition has "ভূম্গুর," B "ভূঙ্র"; possibly ভৃঙ্গ (*bhṛṅga*, "bees," intoxicated by His beauty as by honey). Reading unclear (OCR).
+[^12-619]: "Taka-taka thai-ta…," "thonga na-na-na…" are dance-rhythm syllables and drum bols; the OCR reading is approximate. A tana is a melodic run, an ornament of the melody.
+[^12-620]: "All the people" follows B, সব লোক (*saba loka*); the 1960 edition has সপ্তলোক (*saptaloka*): "the path along which the seven worlds move is resplendent."
+[^12-621]: Varuni and Revati are the consorts of Balarama; Nityananda is Balarama (Haladhara) in Gaura's lila.
+[^12-622]: A quotation from Kavi Karnapura's *Gaura-ganoddesha-dipika*. "From portions" follows the 1960 edition, অংশসম্ভবে (*aṁśa-sambhave*); B has "বংশসম্ভবে" (*vaṁśa-sambhave*, "born of the line"), probably an OCR error. Reading unclear (OCR). Kakudmi (Raivata) is the king, Revati's father, who gave her in marriage to Balarama (*Bhag.* 9.3).
+[^12-623]: Kalavani follows the 1960 edition, কলাবাণী (*kalābāṇī*); B has "কালাবাণী." Ananga Manjari is, in the Vraja lila, the younger sister of Sri Radha. "By the earlier principle" (পূর্বন্যায়াৎ, *pūrva-nyāyāt*) apparently refers to what the GGD says above: several persons can be combined in one associate of the Lord.
+[^12-624]: Literally, "offer tilanjali to [their] families" — the funeral libation of water with sesame; "to give tilanjali" means to part with something forever. A poetic figure for Nityananda's irresistible beauty.
+[^12-625]: Kshetra is Sri Kshetra (Puri). How Nityananda broke Mahaprabhu's sannyasa staff on the way to Puri is told in CC Madhya 5 and CB Antya 2.
+[^12-626]: The son of Nabha is Advaita Acharya, the son of Nabha Devi and Kuvera Pandita.
+[^12-627]: Lakshmi is Lakshmipriya, the Lord's first wife; Vishnupriya is His second wife.
+[^12-628]: Mukunda in 4054 is probably Mukunda Datta, the singer of the Lord's kirtana; Sri Mukunda here is Mukunda Dasa of Shrikhanda, the elder brother of Narahari Sarakara and the father of Raghunandana.
+[^12-629]: Srivasa has already been named in 4053; so in the 1912/13 edition (B: শ্রীবাসপণ্ডিত, *śrīvāsa-paṇḍita*); in the 1960 edition the word is corrupted by OCR. Perhaps শ্রীরাম পণ্ডিত (*śrīrāma paṇḍita*) should be read — Shrirama Pandita, Srivasa's brother. Reading unclear (OCR).
+[^12-630]: Sri Chandrashekhara Acharya has already been named in 4053; so in all copies.
+[^12-631]: মাধবেন্দ্রপুরীশ্বর (*mādhavendra-purīśvara*) — "the master Madhavendra Puri", as in 5.2025–2062; perhaps two persons are meant, Madhavendra Puri and Ishvara Puri.
+[^12-632]: Vallabha (Anupama) is the younger brother of Sanatana and Rupa and the father of Jiva Gosvami.
+[^12-633]: "Loses his composure": the 1912/13 edition (B) has আনালা অধৈর্য (*ānālā adhairya*), the 1960 edition সামনে অধ (*sāmane adha*); both are corrupted by OCR, understood as হইলা অধৈর্য (*hailā adhairya*, "became agitated"). Reading unclear (OCR).
+
+---
+
+# Taranga 13. Srinivasa Acharya's Marriage and Other Events
+
+*Farewell to Navadvipa and Shrikhanda; Vira Hambira at Yajigrama; the Deity of Sri Radhika sent by Jahnava, at Kantaka-nagara; Kheturi; Raghunandana's departure; Srinivasa's second marriage; the Deity of Radhika beside Gopinatha in Vrindavana; Virachandra and Gangadevi; Virachandra's journey to Vraja: the circuit of the forests, Radha-kunda, Govardhana, Radhashtami; the return*
+
+**1.** Glory, glory to Sri Krishna Chaitanya, the refuge of all!
+Glory, glory to the merciful Lord Nityananda!
+
+**2.** Glory to Sri Advaita-deva, the ocean of virtues!
+Glory, glory to Srivasa Pandita, to Gadadhara!
+
+**3.** Glory to Gadadhara Dasa, to Sri Murari Gupta!
+Glory to Vakreshvara, to Sri Mukunda, to Narahari!
+
+**4.** Glory to Sri Pandita Gauridasa, to Damodara!
+Glory to Svarupa, to Haridasa, to Shuklambara!
+
+**5.** Glory, glory to all the devotees of the Lord!
+Show mercy, all of you — I have taken shelter [of you].
+
+**6.** Glory, glory to the listeners, the abode of virtues!
+Now with kind hearts listen to what I shall tell.
+
+**7.** Srinivasa Acharya, Narottama and Ramachandra
+found great bliss in wandering through Navadvipa.
+
+**8.** Having bowed at the feet of Sri Ishana Thakura,
+at the parting their hearts are breaking.
+
+**9.** Sri Ishana Thakura, embracing [them],
+lost his composure — his tears could not be stopped.
+
+**10.** In a rush of tenderness his body grew utterly powerless;
+who can understand his deep heart?
+
+**11.** He wishes to say something but cannot speak;
+with a sign of the hand he made known: the meeting — from this [the last].[^13-1]
+
+**12.** Those associates of the Lord who were there —
+the hearts of all of them became greatly distressed.
+
+**13.** Showing great favor, they gave [them] leave;
+then Sri Acharya bowed at the feet of them all.
+
+**14.** Bowing again and again to Navadvipa-dhama,
+weeping, weeping, they go, having taken leave.
+
+**15.** On the way, wherever there were homes of devotees,
+going there and there, they were filled with joy.
+
+**16.** Coming to Shrikhanda, they had darshan of Gauranga;
+there was a meeting with Sri Raghunandana.
+
+**17.** Sri Raghunandana, in a great rush of tenderness,
+gently asks about Navadvipa.
+
+**18.** Srinivasa, having told of the wandering through Nadia,
+speaks of the devotees, weeping, weeping.
+
+**19.** "Before, many devotees in Nadia withdrew from sight;
+those who remain now are almost all in mauna-mudra.[^13-2]
+
+**20.** In the Lord's house Ishana alone abides;
+his endless virtues — what power have I to tell them?
+
+**21.** Coming along the road, I heard from people's mouths:
+Sri Ishana Thakura has withdrawn from sight.[^13-3]
+
+**22.** Day by day Nadia is sinking into darkness;
+what can I say — I do not know what more will happen."
+
+**23.** At what was heard prema surges, patience cannot hold;
+Srinivasa, clasping [him] by the neck, weeps aloud.
+
+**24.** By the Lord's will after some time [they] grew calm;
+the state of Sri Raghunandana — who knows how to describe it?
+
+**25.** Consoling Srinivasa in many ways,
+he gave [them] leave to go to Yajigrama.
+
+**26.** The three, bowing to Sri Raghunandana,
+went to Yajigrama, taking courage.
+
+**27.** Sri Gokulananda and others, with great joy in their minds,
+came forward to meet them and took them to the house.
+
+**28.** The people of Yajigrama, with joyful hearts,
+came to the Acharya's house and had darshan.
+
+**29.** Srinivasa Acharya Thakura met with all of them,
+as befitted each, with a joyful heart.
+
+**30.** Wonderful is the character of Srinivasa Acharya:
+he gladdened the minds of all in every way.
+
+**31.** Outside the house was a very secluded place;
+there he sat, taking everyone with him.
+
+**32.** Overwhelmed by the talk of Navadvipa,
+he asked one by one about the welfare of his disciples.
+
+**33.** To dear Narottama he says very softly:
+"I feel that Vira Hambira will come today."[^13-4]
+
+**34.** Just then a man sent by the king
+announced: "The king will arrive today."
+
+**35.** Meanwhile King Sri Vira Hambira, with joy in his mind,
+comes from Vana-Vishnupura at an auspicious moment.
+
+**36.** At the sight of Yajigrama his joy is boundless;
+stopping at a distance, the king bows to Yajigrama.
+
+**37.** Seeing a beautiful place near Yajigrama,
+he decided to stop there to rest.
+
+**38.** Leaving there the horses, elephants, foot soldiers and the rest,
+he enters the village, taking a few people with him.
+
+**39.** All the provisions he had brought from home
+he sent first of all to the Prabhu's house.[^13-5]
+
+**40.** Remembering the feet of Sri Acharya Prabhu,
+very slowly he walks to where the Acharya's house is.
+
+**41.** Beholding the lotus feet of Acharya Prabhu,
+he bows again and again, falling to the ground.
+
+**42.** Seeing Narottama's radiance, he reasons in his mind:
+"This prabhu is surely Thakura Mahashaya.
+
+**43.** I have attained the goal" — saying this, in unceasing joy
+he bows again and again at Narottama's feet.
+
+**44.** Sri Acharya Thakura and Thakura Narottama,
+showing great favor, embraced [him].
+
+**45.** Bowing at the feet of Ramachandra Kaviraja,
+he requests: "Make me acquainted with the prabhus."
+
+**46.** Ramachandra, the abode of virtues, in joy
+made known [to him] who was who among the Prabhu's associates.
+
+**47.** The king in great joy falls to the ground to bow;
+all embraced him, overwhelmed with prema.
+
+**48.** The joy in the heart of King Vira Hambira —
+what do I know to tell it? Such is the manifestation of bhakti.
+
+**49.** The people of Yajigrama, with joyful hearts,
+seeing the king's devotion, praise the king.
+
+**50.** All the attendants of King Vira Hambira —
+all have the right to the pure path of bhakti.
+
+**51.** The good fortune of the king with his people has no limit;
+all extol [it] to one another here and there.
+
+**52.** Sri Acharya Thakura and Thakura Mahashaya,
+seeing the king's conduct, rejoice beyond measure.
+
+**53.** Acharya Thakura, looking at Ramachandra,
+entrusted Sri Vira Hambira to him.
+
+**54.** Whatever arose in Vira Hambira's mind,
+about that he asks Ramachandra Kaviraja.
+
+**55.** How the ishta-goshthi of these two is known everywhere —
+the author has described in detail in another book.[^13-6]
+
+**56.** The king — at the sight of his own Prabhu's dear ones —
+who can tell what bliss there is in Yajigrama!
+
+**57.** To stay in Yajigrama — such is the king's wish;
+moment by moment in Yajigrama [his] great yearning grows.
+
+**58.** The king has no wish to go to Vishnupura;
+Ramachandra made [this] known to the Acharya.
+
+**59.** Acharya Thakura and Sri Thakura Mahashaya
+in a rush of tenderness console Sri Vira Hambira.
+
+**60.** Consoling [him], giving him people as companions, at that very moment
+they sent [him] to see the places worshiped by all.
+
+**61.** The king, utterly humble, went round everywhere;
+by the grace of all the mahantas he was filled with joy.
+
+**62.** Coming to Yajigrama, he reflects in his mind:
+"How shall I go to Vishnupura without the Prabhu?"
+
+**63.** Knowing the king's heart, Acharya Thakura
+speaks sweet words to the king:
+
+**64.** "Some days from now, after going to the village of Kheturi,
+I shall come here from there and go to Vishnupura.
+
+**65.** From Khardaha Sri Jahnava Ishvari
+will send news — I am waiting, watching the road."
+
+**66.** Even as he was saying this, someone with joy in his heart
+came from Khardaha to the Acharya.
+
+**67.** Seeing him, the Acharya rejoiced in heart;
+with the sweetest words he asks about [his] welfare.
+
+**68.** He, very humbly, in a soft voice,
+briefly reports to Sri Acharya:
+
+**69.** "In Khardaha all is well; Sri Ishvari,
+showing mercy to the living beings, distributes prema-bhakti.
+
+**70.** Having had a Sri Deity of Radhika made,
+she became greatly overwhelmed, gazing at Her beauty.[^13-7]
+
+**71.** To Sri Parameshvari Dasa and other wise ones
+she gave the order to take [Her] to Vrindavana.
+
+**72.** She gave seven hundred coins, garments, ornaments and more;
+with care they placed [Her] on a wonderful boat.
+
+**73.** Remembering Sri Gopinatha, she says:
+'Quickly draw Your beloved to Yourself.'
+
+**74.** Who else could understand Sri Ishvari's doings?
+At a most auspicious moment she sent [them] on their way.
+
+**75.** Once sent off, the boat came swiftly;
+it stopped for only one day in Nadia.
+
+**76.** Today the boat will arrive at Kantaka-nagara;
+taking the letter, I hurried here."
+
+**77.** Saying this, he gave the letter into the Acharya's hand;
+the Acharya took the letter and placed it on his head.
+
+**78.** As soon as he read the letter, with great joy in his heart,
+he sets out with everyone for Sri Kantaka-nagara.
+
+**79.** The clothes, ornaments and other things that had been prepared
+he took with him, in order to present them.
+
+**80.** A thousand coins Vira Hambira secretly
+gave to Sri Ramachandra Kaviraja.
+
+**81.** Ramachandra told Acharya Prabhu [of it];
+smiling, the Acharya took them with him.
+
+**82.** He quickly arrived at Kantaka-nagara
+and came to the ghat of Sri Keshava Bharati Gosani.[^13-8]
+
+**83.** He sees: at that very moment the boat came to that ghat;
+great bliss arose as they met one another.
+
+**84.** Sri Parameshvari Dasa, Nrisimha Chaitanya,
+Thakura Kanai and others, accomplished in every way —[^13-9]
+
+**85.** who can understand the hearts of them all?
+Meeting Sri Acharya, their happiness grew beyond measure.
+
+**86.** When the Acharya spoke of Sri Navadvipa,
+all became distraught — no one could remain composed.
+
+**87.** Srinivasa Acharya and the others were agitated at heart;
+after a while all, full of prema, became composed.
+
+**88.** The king, falling at the feet of all — Sri Parameshvari Dasa
+and everyone else — bowed to them.
+
+**89.** Everyone, learning who the king was,
+showed him great mercy, embracing him tightly.
+
+**90.** Seeing the radiance of them all, Sri Vira Hambira,
+in the bliss of prema, lost his composure — he cannot be still.
+
+**91.** The people of Kantaka-nagara, seeing prema arise,
+all praise the king's good fortune.
+
+**92.** Who does not weep, hearing of the king's humility?
+Nrisimha Chaitanya says to the king, "Blessed [are you]."
+
+**93.** Someone says, "The Acharya's mercy is powerful:
+by this bond the king is to us like life itself."
+
+**94.** Everyone's wondrous affection for the king grew;
+how can I tell what feelings arise in the king?
+
+**95.** Sri Parameshvari Dasa Thakura joyfully
+led Acharya Srinivasa onto the boat.
+
+**96.** He speaks sweet words to the Acharya:
+"Sri Ishvari will go to Vrindavana again.[^13-10]
+
+**97.** Having offered Sri Radhika to Sri Gopinatha,
+we will soon come [back] by boat."
+
+**98.** Saying this, he removed the cloth covering
+and showed [him] the Sri Deity of Radhika.
+
+**99.** Beautiful in every limb — no comparison can be given;
+seeing [Her], the Acharya was utterly overwhelmed with prema.
+
+**100.** Then Sri Parameshvari Dasa, with joy in his heart,
+shows the Acharya all the gifts.
+
+**101.** "Gopinatha and Sri Gopinatha's two beloveds —
+these are the clothes, ornaments and other things for these three.
+
+**102.** To the Lords — Sri Govinda, Madanamohana —
+I will offer these clothes and ornaments, each in his own place."
+
+**103.** Thus he showed everything, each thing separately;
+seeing it, the Acharya's great joy kept growing.
+
+**104.** Some clothes and ornaments and a thousand coins
+the Acharya presented with great humility.
+
+**105.** Sri Parameshvari Dasa, with the greatest affection,
+brought everyone onto the boat and gave them darshan.
+
+**106.** Narottama, Ramachandra, Govinda, Shridasa,
+Gokulananda and all the others rejoice at the darshan.
+
+**107.** On the bank of the Ganga a great crowd of people gathered;
+seeing the beauty of the Vaishnavas, how much they say in joy!
+
+**108.** After staying for some time on the bank of the Ganga, everyone
+set out for the darshan of "Gauranga."[^13-11]
+
+**109.** Sri Yadunandana and others, in great joy,
+led everyone to the courtyard of Sri Gauranga.
+
+**110.** Having the darshan of "Gauranga," everyone
+lost their composure — the tears could not be stopped.
+
+**111.** In the courtyard of "Gauranga" the ocean of prema surged;
+all became intoxicated in the sankirtana of the Holy Name.
+
+**112.** The sound of the kirtana of the Holy Name pierces the sky;
+Nrisimha Chaitanya dances wonderfully.
+
+**113.** In the rapture of prema Parameshvari Dasa says,
+"Sing, sing, O Narottama, Srinivasa!"
+
+**114.** Thakura Kanai cannot be still;
+he embraces Ramachandra again and again.
+
+**115.** Shridasa, Gokulananda, Govinda and all the others
+became maddened in the kirtana of the Holy Name.
+
+**116.** Sankirtana is the very treasure of the Lord's dear ones;
+whom does sankirtana not attract?
+
+**117.** Having drunk the nectar of the sankirtana of the Name for some time,
+everyone grew calm in the courtyard of "Gauranga."
+
+**118.** Where the Lord accepted sannyasa,
+there everyone became covered with dust.
+
+**119.** How can I tell of the ways of these prabhus?
+That day they stayed in Kantaka-nagara.
+
+**120.** As soon as night turned to dawn,
+they took leave of one another, their hearts in great distress.
+
+**121.** Sri Parameshvari Dasa and the others, having said much,
+departed from Kantaka-nagara with the boat.
+
+**122.** Srinivasa Acharya, taking his dear ones,
+came from Kantaka-nagara to Yajigrama.
+
+**123.** Matchless is the Acharya's affection for his disciple;
+"I must bid farewell to the king" — at this his sorrow is great.
+
+**124.** Sri Vira Hambira is to go to Vishnupura;
+at the parting his heart cannot find steadiness.
+
+**125.** Holding the lotus feet of Acharya Prabhu on his head,
+with tears he speaks slowly and softly:
+
+**126.** "Come quickly to Vana-Vishnupura
+and take [us] under your protection, looking on [us] with a merciful glance."
+
+**127.** Embracing him, Acharya Thakura says,
+"There will be no delay in coming to Vishnupura."
+
+**128.** Hearing this, [the king] falls at Narottama's feet;
+he bathes his two lotus feet with the tears of his eyes.
+
+**129.** "Be merciful," he says in a choked voice.
+"In all the three worlds there is no offender like me.
+
+**130.** Because of my wicked deed you suffered at heart;
+when I think of all that, I do not know what my heart is doing."[^13-12]
+
+**131.** Hearing this, Thakura Mahashaya says,
+"From that wicked deed came victory everywhere.
+
+**132.** Now keep all that in mind no longer;
+be diligent in acquiring the jewel of bhakti."
+
+**133.** Saying much like this, he embraced him tightly;
+the king's mind became filled with great joy.
+
+**134.** He bows at the feet of Ramachandra and Govinda;
+hearing of the humility he shows, the heart melts.
+
+**135.** At the feet of both, Shridasa and Gokulananda,
+the king bows, and tears stream from his eyes.
+
+**136.** To all the disciples of Sri Acharya Prabhu,
+one after another, he bowed at their feet.
+
+**137.** Bowing to the people of Yajigrama,
+the king took leave, overcome with distress.
+
+**138.** The king's queen, with great joy in her heart,
+was inside Sri Acharya's house.
+
+**139.** The Acharya's wife is named Draupadi Ishvari;[^13-13]
+she is full of every virtue, of wondrous charm.
+
+**140.** The queen had brought clothes and ornaments;
+dressing her in them, she sees a marvellous beauty.
+
+**141.** The queen placed her two feet on her own head;
+at the parting she became greatly distressed.
+
+**142.** Bowing again and again to the ground of Yajigrama,
+the queen departed, riding in a palanquin.
+
+**143.** The king, having gone some distance from Yajigrama,
+mounted a splendid carriage and went to Vana-Vishnupura.
+
+**144.** The next day Sri Acharya Thakura
+went to Khanda with Narottama and Ramachandra.[^13-14]
+
+**145.** Bowing to Sri Raghunandana, he requests,
+"Tomorrow morning I will go to Kheturi — please give your permission."
+
+**146.** Sri Raghunandana says, "Go to Kheturi;
+stay there a few days, then come back quickly."
+
+**147.** Having said this, he gave the Acharya leave;
+coming to Yajigrama, all ponder in their hearts.
+
+**148.** Acharya Thakura says to Narottama:
+"The Thakura has never given such an order.[^13-15]
+
+**149.** Who is able to understand the doings of Chaitanya's associates?
+I do not know when he will plunge [everything] into darkness."[^13-16]
+
+**150.** As soon as he said this, tears streamed from his eyes;
+having lost his composure, after some time he grew calm.
+
+**151.** Acharya Thakura, quickly taking everyone with him,
+came from Yajigrama to Kanchanagariya.
+
+**152.** There they stayed for two days,
+immersed day and night in the bliss of sankirtana.
+
+**153.** They set out from the village of Kanchanagariya
+and came to the vicinity of the village of Budhari.
+
+**154.** The residents of Budhari, with great joy in their hearts,
+came forward to meet them and brought them to a wonderful house.
+
+**155.** Sri Acharya Thakura, Thakura Mahashaya,
+Ramachandra and the others were overjoyed.
+
+**156.** Sri Acharya Thakura, with supreme bliss in his heart,
+was intoxicated with sankirtana day and night.
+
+**157.** Having stayed two days in the village of Budhari,
+they crossed the Padmavati and went to Kheturi.
+
+**158.** The residents of Sri Kheturi, with great joy in their hearts,
+led them from the bank of the Padmavati.
+
+**159.** Entering the village of Kheturi, everyone
+with joy in their hearts had darshana of the Lord.
+
+**160.** Having stayed some time in the Lord's courtyard,
+everyone went to their own lodgings.
+
+**161.** All the fortunate people who live in Kheturi
+in the bliss of darshana know neither day nor night.
+
+**162.** Sri Acharya Thakura and Thakura Mahashaya
+revel day and night in the bliss of sankirtana.
+
+**163.** Whom do they not immerse in the ocean of bhakti-rasa?
+Who does not sing of the wonderful mercy of these two?
+
+**164.** The deeds of Srinivasa and Narottama, these two,
+become known everywhere day by day.
+
+**165.** One day a great, invincible pashanda,
+seeing the two in sankirtana, was amazed.
+
+**166.** That brahmana from Bengal, floating in tears,
+fell at the feet of the two, rolling [on the ground].
+
+**167.** The brahmana, a disputant and a worldly man, became full of bhakti;
+he took shelter of the lotus feet of Sri Acharya.
+
+**168.** The Acharya entrusted him to Narottama, [his very] life;
+everyone rejoiced at his fitness for bhakti.
+
+**169.** Such play the Acharya and Narottama reveal;
+who can understand the unfathomable nature of these two?
+
+**170.** One day the Acharya, taking Sri Narottama with him,
+said something to him in solitude and became distraught.
+
+**171.** Having stayed only a very few days, he took leave
+and with his companions hurried back to Yajigrama.
+
+**172.** The Thakura went to Raghunandana;[^13-17]
+in a rush of affection he embraced Srinivasa.
+
+**173.** Asking about his welfare, holding Srinivasa's hand,
+sitting in solitude, he says something very softly:
+
+**174.** "A time is coming — in it things will be hard:
+in everyone's heart various doubts will arise."
+
+**175.** *Thus [it is said] in the Sri Bhajanamrita:*[^13-18]
+*"When Krishna Chaitanya-chandra and Nityananda have concluded Their descent in this [age of] Kali,*
+*all the Vaishnavas indeed*
+
+**176.** *will always be anxious; as time goes on, day by day,*
+*almost all — the highest, the lowest and the middling — will become doubtful at heart."*
+
+**177.** "Do not be anxious about this: Lord Gaura-raya
+will accomplish many works through you.
+
+**178.** You will live long on the earth
+and together with your companions will preserve the Lord's dharma.
+
+**179.** By your power those who have turned away from Krishna
+will turn [to Him], taking shelter of you."
+
+**180.** Thus, having said many things, he consoled Srinivasa
+and went before Madana-gopala and Gauranga.
+
+**181.** Entrusting his son to the feet of Gaura and Gopala,
+for three days he was in great rapture in sankirtana.
+
+**182.** Remembering the lotus feet of Narahari,[^13-19]
+he fixed his eyes on the forms of Gopala and Gauranga.
+
+**183.** Uttering the name of Sri Krishna Chaitanya again and again,
+he disappeared; seeing this, the people were astonished.
+
+**184.** Blessed is that day — the fourth day of the bright fortnight of Shravana![^13-20]
+Who does not sing the glory of Raghunandana?
+
+**185.** Sri Raghunandana's son, Thakura Kanai,
+made preparations for a festival to which there was no end.
+
+**186.** Srinivasa Acharya stayed in Khanda
+until the great festival was completed.
+
+**187.** There was a festival such as cannot be described;
+all the mahantas came to Khanda.
+
+**188.** Acharya Thakura is wise in all arrangements;
+what can I say of the bliss that was in the sankirtana?
+
+**189.** Sri Thakura Kanai's son is Sri Madana;
+he too danced wonderfully in the sankirtana.
+
+**190.** Who can tell the qualities of Madana?
+Since the occasion has come, I will tell a little, in few words.
+
+**191.** In Kanai's youth two sons were born to him one after the other —[^13-21]
+Sri Madana and Vamshi, full of bhakti-rasa.
+
+**192.** Madana in the age of pauganda revealed the jewel of bhakti;
+he surrendered himself at the feet of Prabhu Narahari.
+
+**193.** Seeing him, all people attain great bliss;
+his dancing and kirtana — who knows how to describe them?
+
+**194.** What shall I say of how prema was revealed in Shrikhanda!
+Whatever desire anyone had was fulfilled.
+
+**195.** All the mahantas went to their own homes;
+Srinivasa Acharya was given leave with loving care.
+
+**196.** Hearing what Thakura Kanai said at the parting,[^13-22]
+Srinivasa floats in tears.
+
+**197.** Remembering the qualities of Sri Raghunandana,
+he came to Yajigrama, weeping and weeping.
+
+**198.** Having stayed four days in Yajigrama, the Acharya
+went very quickly to Vana-Vishnupura.
+
+**199.** The king with his family, with great joy in his heart,
+came forward to meet him and led Acharya Thakura [to his place].
+
+**200.** In Vishnupura the Acharya has a wonderful residence;
+the Acharya with his companions arrived there.
+
+**201.** All the greatly fortunate residents of Vishnupura
+are beside themselves day and night at the darshana of the Acharya.
+
+**202.** One day Sri Acharya Thakura in a dream
+marries by the order of Gaurachandra.
+
+**203.** This is most wonderful; I will tell in brief
+how the Acharya's second marriage came about.
+
+**204.** In the land of Rarh there is a village named Gopalpura;[^13-23]
+the community of brahmanas there is exceedingly distinguished.
+
+**205.** In that village is the house of the brahmana Raghunatha;
+some call him Sri Raghava Chakravarti.
+
+**206.** The brahmana's wife is named Sri Madhavi;
+their daughter is Sri Gauranga-priya, of virtuous conduct.[^13-24]
+
+**207.** The daughter's match is never settled;
+in the hearts of the brahmana and his wife there is great anxiety.
+
+**208.** One day at dawn the lady
+speaks sweet words to her husband:
+
+**209.** "In a dream a brahmana, a great Arya, told me:
+'The husband of your daughter is Srinivasa Acharya.'
+
+**210.** When I courteously asked where he had come from,
+he said, 'I have come from Shantipura.'[^13-25]
+
+**211.** As I was going to ask something more, my sleep broke;
+the radiance I saw filled my heart."
+
+**212.** The brahmana says, "At dawn I [too] saw a dream:
+I gave my daughter to Srinivasa Acharya."
+
+**213.** Hearing this, the brahmana's wife says, "Why delay any longer?[^13-26]
+Go there — he will surely consent."
+
+**214.** At his wife's words the brahmana rejoiced at heart;
+he went quickly and put [the matter] before the Acharya.
+
+**215.** Hearing this, the Acharya remained silent;
+to satisfy the hearts of all, he married.
+
+**216.** All the people say again and again, "Blessed, blessed!
+As the bride is, so is the groom — a wonderful beauty!"
+
+**217.** The king with his family is exceedingly joyful;
+he spent much wealth on the Acharya's wedding.
+
+**218.** Having stayed some days in Vishnupura, the Acharya,
+consoling everyone, came to Yajigrama.
+
+**219.** The Acharya goes with everyone to his home;
+the villagers watch with joy in their hearts.
+
+**220.** The Acharya's two wives, both gazing at each other —
+their hearts overflow with the natural bliss of love.
+
+**221.** Their loving endeavors cannot be described;
+they are always overwhelmed by the joy of serving the Acharya.
+
+**222.** The Acharya delights in the bliss of love for Sri Krishna
+and distributes to his disciples the jewels of books on bhakti.
+
+**223.** One day the Acharya says to his disciples:
+"Suddenly joy is arising in my mind.
+
+**224.** Sri Parameshvari Dasa and the other prabhus —
+perhaps today they will all arrive here."
+
+**225.** As soon as he said this, Sri Parameshvari Dasa
+appeared in the distance — Srinivasa saw [him].
+
+**226.** The Acharya Thakura went out to meet them with everyone;
+the honor he showed was beyond words.
+
+**227.** Seating Sri Parameshvari Dasa and all [with him]
+on splendid seats, he asks about their welfare.
+
+**228.** Sri Parameshvari Dasa speaks slowly:
+"Without hindrance we went quickly to Vrindavana.
+
+**229.** Gopinatha gave the command to His servitor,
+and the one we had brought, [the servitor] seated on the left.[^13-27]
+
+**230.** The former Thakurani joyfully sat on the right;[^13-28]
+a wondrous beauty appeared — I saw [it] with my own eyes.
+
+**231.** O Srinivasa! No one could remain composed,
+seeing Gopinatha on the throne with His beloved ones.
+
+**232.** They say to one another, 'Look, what a wondrous appearance!
+Radhika, sent by Sri Jahnava, is at the left side.'
+
+**233.** Saying this, they sing the virtues of Jahnava Ishvari
+and proclaim her glory — who, hearing [it], would not be gladdened?
+
+**234.** And again all, in order to see Ishvari,
+pray, gazing at the face of Gopinatha.
+
+**235.** The longing of the people cannot be told;
+with fixed gaze they look at Sri Radhika.
+
+**236.** 'Radhika, installed by Sri Jahnava' — saying this,
+the people move here and there, rejoicing.
+
+**237.** Having seen the great festival there,
+we all came here entirely without hindrance.
+
+**238.** Today we shall board a boat at Kantaka-nagara
+and soon make this news known at Khardaha.
+
+**239.** Sri Ishvari will soon go there again —
+I told you as well: it was spoken of before."
+
+**240.** Hearing this, Sri Acharya was greatly delighted
+and came with everyone to Sri Kantaka-nagara.
+
+**241.** Sri Parameshvari and the others boarded the boat;
+having said much to Srinivasa, they took their leave.
+
+**242.** Sri Parameshvari and the others went to Khardaha
+and bowed at the holy feet of Sri Vasu[dha] and Jahnava.
+
+**243.** They told everything; hearing it, Jahnava Ishvari
+was absorbed in prema in a way I cannot describe.
+
+**244.** Who can understand the mind of Ishvari?
+She says softly to Sri Parameshvari Dasa:
+
+**245.** "Go quickly to the village of Tada-Atpur
+and manifest there the service of Radha-Gopinatha."[^13-29]
+
+**246.** By the command of Ishvari, Sri Parameshvari Dasa
+manifested the service of Radha-Gopinatha.
+
+**247.** Sri Ishvari went to that place;
+the festival that took place there the fortunate saw.
+
+**248.** Whatever villages Ishvari went to —
+the good fortune of all those villages cannot be described.
+
+**249.** To Jhamatpur near Rajbalhat
+Ishvari went, to the house of a servant.[^13-30]
+
+**250.** There lives the brahmana Yadunandana Acharya;
+by the mercy of Ishvari he became full of bhakti.[^13-31]
+
+**251.** Yadunandana's wife is named Lakshmi;
+what to say — hers is the utmost dharma of a chaste wife.
+
+**252.** He has two daughters — Shrimati and Narayani;
+the grace of their limbs is the utmost limit of beauty.[^13-32]
+
+**253.** By the wish of Sri Ishvari that fortunate brahmana
+gave both daughters to Prabhu Virachandra.
+
+**254.** At the time of the wedding there was great festivity;
+Virachandra made Yadunandana [his] disciple.
+
+**255.** Jahnava Ishvari, greatly rejoicing,
+made Shrimati and Sri Narayani — both — [her] disciples.
+
+**256.** The fortunate saw Virachandra's wedding;
+who could describe the splendor of that wedding?
+
+**257.** Nityananda's son, full of great splendor,
+his body non-different from Chaitanya, enchanting the world.
+
+**258.** *Thus [it is said] in the Sri Gaura-ganoddesha-dipika:*
+*He who is the vyuha of Sankarshana named Payodhishayi —*
+*he himself appeared as Virachandra, his form non-different from Chaitanya.*[^13-33]
+
+**259.** Having married, Virachandra came home;
+seeing her daughters-in-law, Vasu[dha] was filled with great joy.
+
+**260.** In the village of Khardaha everyone rejoiced;
+the wedding gifts that were given were beyond reckoning.
+
+**261.** At her brother's wedding Gangadevi was overjoyed;
+what power have I to tell the virtues of Sri Gangadevi?
+
+**262.** The festivity that took place at her own auspicious wedding
+is known everywhere — who could tell how much [there was]?
+
+**263.** Gangadevi is the Ganga born from the feet of Vishnu;
+her husband is Madhava Acharya, full of bhakti.
+
+**264.** *Thus [it is said] in the Sri Gaura-ganoddesha-dipika:*
+*The Ganga born from the feet of Vishnu — she who [was so called] by her own name as well —*
+*was born as the daughter of Nityananda; and Madhava is King Shantanu.*[^13-34]
+
+**265.** *Thus [it is said] in the Sri Vaishnava-vandana:*
+"I shall praise Madhava Acharya, full of the bliss of love,
+who by the power of bhakti became the husband of Gangadevi."
+
+**266.** The joy that [was] in Khardaha cannot be told;
+who does not sing the deeds of Virachandra?
+
+**267.** Jahnava Ishvari arranged her son's marriage
+and made the poor and lowly fit for bhakti.
+
+**268.** Again she quickly went with her companions to Vrindavana
+and beheld Gopinatha together with Radha.
+
+**269.** In the middle is Gopinatha, Radha on the right and the left;
+the wise describe that wondrous beauty in many ways.
+
+**270.** *Thus [it is said] in the Stavamrita-lahari composed by Sri Vishvanatha Chakravarti:*
+*Is it a tamala tree [standing] amid creepers of prema?*
+*Is it a cloud lit by lightning on both sides?*
+*Or is it, between the two Radhas, the dark moon —*
+*Gopinatha of the broad chest, our refuge?*[^13-35]
+
+**271.** What power have I to describe the grace of Sri Gopinatha?
+That embodiment of love is subject to the prema of Sri Jahnava.
+
+**272.** *Thus [it is said] in the same [work]:*
+*The embodied treasure of Sri Jahnava's prema,*
+*showing Himself to the poor and helpless, gracious,*
+*nourishing [them] with the nectar of remnants unattainable even by the gods —*
+*Gopinatha of the broad chest is our refuge.*[^13-36]
+
+**273.** What Sri Ishvari had brought from Gauda
+she offered to Radha-Gopinatha.
+
+**274.** She prepared rice, vegetable dishes and many other foods
+and fed Gopinatha together with Sri Radhika.
+
+**275.** She offered countless prayers to Radha-Gopinatha;
+who could understand the ways of Ishvari?
+
+**276.** She went to Sri Govinda and Madanamohana;
+seeing Them together with Sri Radhika, she refreshed her eyes.
+
+**277.** The three merciful Lords together with Sri Radhika
+are truly the life and soul of the Gaudiyas.
+
+**278.** *Thus [it is said] in the Sri Chaitanya-charitamrita, in the Antya-khanda:*[^13-37]
+"Sri Sri Madanamohana together with Sri Radhika,
+the feet of Sri Govinda together with Sri Radhika,
+
+**279.** Srila Gopinatha together with Sri Radhika —
+these three are the life of the Gaudiyas, the lords of their life."
+
+**280.** How Sri Ishvari joyfully dwelt in Vrindavana —
+that cannot be told with one mouth.
+
+**281.** The comings and goings of Sri Jahnava Ishvari —
+all this the learned will describe in detail.
+
+**282.** How Ishvari went again to Vraja
+is told in the *Anuraga-valli* and other books.[^13-38]
+
+**283.** After some days Prabhu Virachandra
+received permission from his mother to go to Vrindavana.
+
+**284.** At an auspicious moment he set out from Khardaha
+and with his companions came to Saptagrama.
+
+**285.** In the house of a most virtuous merchant
+he stayed two days, overwhelmed in kirtana.
+
+**286.** Having given the jewel of bhakti to the fallen and the suffering,
+he came to Shantipura, rejoicing.
+
+**287.** With Krishna Mishra, the son of Prabhu Advaita,
+he became supremely overwhelmed in sankirtana.
+
+**288.** Having told Krishna Mishra something in private — I do not know what —
+he came to Ambika, taking his dear companions with him.
+
+**289.** What power have I to tell the joy that [was] there?
+Coming to Navadvipa, he stayed [there] two days.
+
+**290.** The prema that Prabhu manifested in Nadiya
+I can never describe with one mouth.
+
+**291.** From Navadvipa he soon set out for Shrikhanda;
+Thakura Kanai came forward and led [him to his home].
+
+**292.** Thakura Kanai, the son of Sri Raghunandana —
+it is impossible to tell what his loving deeds were like.
+
+**293.** Absorbed in sankirtana, the Prabhu gladdened him
+and, having said something in private, set out for Yajigrama.
+
+**294.** Acharya Thakura with his associates came forward to meet him
+and with great care took him to his house.
+
+**295.** There he was overwhelmed, absorbed in the rasa of talks about Krishna;
+I do not know what he told the Acharya in private.
+
+**296.** From Yajigrama he went on to Kantaka-nagara;
+the Acharya went along with him, together with his own associates.
+
+**297.** In Kantaka-nagara he stayed for one day;
+there he was overwhelmed with prema day and night.
+
+**298.** Taking leave of Srinivasa Acharya, the Prabhu
+went to the village of Sri Kheturi by way of Budhari.
+
+**299.** Sri Thakura Mahashaya — in what joy! —
+came forward and brought Prabhu Virachandra.
+
+**300.** In sankirtana he danced in Gauranga's courtyard;
+countless people came for the Prabhu's darshan.
+
+**301.** Having said something to Sri Thakura Mahashaya in private,
+he set out joyfully for Vraja with his associates.
+
+**302.** On the way he showed mercy to a poor brahmana;
+that brahmana became rich with the treasure of the jewel of bhakti.
+
+**303.** One brahmana, proud of his learning, held no one in regard;
+crushing his pride, he made him full of bhakti.
+
+**304.** Displaying many wondrous pastimes on the way with his associates,
+after some days he entered Mathura.
+
+**305.** The beauty of Prabhu Virachandra was extraordinary;
+people ran to see [him] and could not stand still.
+
+**306.** Gazing at the Prabhu, people said to one another,
+"Look — the son of Nityananda-Baladeva!"
+
+**307.** Someone said, "Can a human being have such beauty?"
+Someone said, "He seems to be no human being at all."
+
+**308.** Someone said, "Look, what wonderful companions!
+To see the radiance of them all is a delight to the eyes."
+
+**309.** Saying many such things, everyone stood gazing;
+[the news of] Virachandra's arrival spread everywhere.
+
+**310.** Hearing of Virachandra's arrival in Vrindavana,
+everyone comes forward to receive him:
+
+**311.** Sri Jiva Gosani, full of love for Sri Chaitanya;
+Krishnadasa Kaviraja, the abode of virtues;
+
+**312.** the foremost disciple of Gadadhara Pandita Gosani,
+the adhikari of Govinda, Sri Ananta Acharya;[^13-39]
+
+**313.** his disciple Haridasa Pandita Gosani —
+however much one tells, there is no end to the virtues of this adhikari of Govinda;
+
+**314.** Sri Govinda made known that He was subject to his love:
+from him He begged rice with milk and ate it.
+
+**315.** *Thus [it is said] in the Sadhana-dipika:*
+*By the power of the Lord's command, Sri Rupa, the ocean of mercy,*
+*entrusted the service of Sri Sri [Govinda] to my guru, named Haridasa.*[^13-40]
+
+**316.** *Won over by his service, Sri Govinda, the son of Nanda,*
+*the ocean of compassion, begs [from him] rice mixed with milk.*
+
+**317.** The adhikari of the service of Sri Madana-gopala,
+Gadadhara's disciple Krishnadasa Brahmachari;
+
+**318.** another disciple of Gadadhara Pandita Gosani,
+Gosani Gopala Dasa, [invested] with high authority in service;[^13-41]
+
+**319.** the adhikari of Sri Gopinatha, Sri Madhu Pandita,
+known as a disciple of Gadadhara Pandita;
+
+**320.** Sri Madhu Pandita's fellow disciple Bhavananda,
+whose great bliss is in the service of Gopinatha.
+
+**321.** Haridasa, Gopala, Sri Bhavananda and the others,
+the adhikari of Govinda — all go joyfully.
+
+**322.** Kashishvara Gosani, renowned everywhere,
+who has great affection for Sri Krishna Pandita;
+
+**323.** the disciples of Kashishvara Gosani, truly noble —
+Govinda Gosani and Sri Yadava Acharya;
+
+**324.** Govinda, Yadava Acharya and all the others —
+they all went in supreme joy.
+
+**325.** Everyone came, bringing Prabhu Virachandra with them;
+the Vrajavasis rejoice at seeing the Prabhu.
+
+**326.** Who was not overwhelmed by the Prabhu's way of prema-bhakti?
+All the Vaishnavas of Vraja sing his virtues.
+
+**327.** The darshan of Sri Govinda, Gopinatha and Madanamohana
+Virachandra received together with everyone.
+
+**328.** He saw Sri Radha-vinoda and Radha-ramana;
+seeing Radha-damodara, he filled his eyes with delight.
+
+**329.** Taking permission from Sri Bhugarbha, Sri Jiva Gosvami and the others,
+he sets out to wander through the sacred forests.[^13-42]
+
+**330.** Yadava Acharya and others went along with him;
+he went to Madhuvana, Talavana, Kumudavana and Bahulavana.
+
+**331.** As he was going with everyone to Radha-kunda,
+Sri Jiva Gosvami and others met him on that road.
+
+**332.** Surrounded by many Vaishnavas, the Prabhu
+goes to the bank of the kunda and beholds wondrous beauty.
+
+**333.** Prabhu Gaurachandra, at the time of His wandering through the forests,
+had sat by the kunda beneath a tamala tree.
+
+**334.** Going there, Virachandra became so full of prema
+that everyone was astonished to see it.
+
+**335.** After some time, regaining composure, Prabhu Virachandra
+felt great bliss at the sight of the two kundas.
+
+**336.** At Radha-kunda, Shyama-kunda and Govardhana Hill
+he was utterly overwhelmed and danced in sankirtana.
+
+**337.** He fed the Vrajavasis with various foods
+and stayed with everyone for five or six days.
+
+**338.** Sri Jiva, Sri Bhugarbha and the other bhagavatas
+he sent off to go to Vrindavana.
+
+**339.** Although none of them could bear to leave him and go,
+still they go, for the sake of his satisfaction.
+
+**340.** From Govardhana he went slowly
+to the hut of Sri Krishnadasa Kaviraja.
+
+**341.** From there, after two days, [they] went to Vrindavana;
+Krishnadasa Kaviraja went along [with them] as well.[^13-43]
+
+**342.** Vasudeva, Uddhava, Yadava and several others
+went with Prabhu Virachandra.[^13-44]
+
+**343.** From Govardhana, seeing the places of Krishna's lila,
+he set out with everyone for Kamyavana.
+
+**344.** Having bathed in Vimala-kunda and other kundas in Kamyavana,
+he went with a greatly joyful heart to Vrishabhanupura.
+
+**345.** Vasudeva says to Prabhu Virachandra:
+here is the abode of King Vrishabhanu.
+
+**346.** Coming here on various pretexts, Krishna
+unseen beholds the sweetness of Radha's form.
+
+**347.** One day Krishna, sitting, thinks to Himself,
+"How shall I get to Vrishabhanu's house?"
+
+**348.** For the festival of his daughter's birthday
+Vrishabhanu sends Shridama to Nanda's house with an invitation.
+
+**349.** Shridama went and invited everyone;
+everyone came to Vrishabhanu's house.
+
+**350.** Krishna in great bliss came here and stood still;
+at a sign from a sakhi, Rai stayed in a secluded place.
+
+**351.** Radha and Krishna, both seeing each other's forms unnoticed,
+were enchanted and could not turn their eyes away.
+
+**352.** *Thus [it is said] in a song (raga Todi):*
+Knowing that the day of Radhika's birth has come,
+no one in Vraja can keep composure.
+Nanda, Yashoda and the others in great delight
+come to Vrishabhanu's house.
+
+**353.** Vrishabhanu, having gone out to meet Nanda, comes into the house;
+Krittika [comes in], bringing Yashoda.[^13-45]
+Scattering yogurt, turmeric and the rest in the courtyard,
+the cowherds dance for joy.
+
+**354.** Instruments sound in many ways; in the uproar
+no one hears with his ears what another says.
+Finding the moment, Kala, unnoticed,
+keeps gazing at Rai's face.[^13-46]
+
+**355.** Moon-faced Radha keeps gazing at the beauty of Shyama's face,
+unable to turn her eyes away.
+Narahari says: I do not know what rasa
+the two reveal as they look at each other.
+
+**356.** From Vrishabhanupura Prabhu Virachandra
+entered Nandagrama with everyone.
+
+**357.** Vasudeva says, gazing at the Prabhu's face,
+"Here there is great festivity on the day of Krishna's birth."
+
+**358.** *Thus [it is said] in a song (raga Kamoda):*
+Queen Yashomati says to Nanda,
+"Now is Krishna's birthday.
+Invite and gather the kinsfolk —
+this desire arises in my heart."
+
+**359.** Hearing this, Nanda Ghosha, pleased,
+called Upananda's son
+and sends him to Vrishabhanu's house,
+giving him humble words to convey.
+
+**360.** Hearing, he went that very moment to Bhanu's house
+and delivered the invitation.
+Vrishabhanu with his people
+sets out, taking various gifts.
+
+**361.** Joyful Queen Krittika, abounding in love,
+taking Radhika with her,
+was going gladly to Yashomati —
+Yashoda met them on the way.
+
+**362.** With what affection the queen led them into the house
+and seated them!
+Vrishabhanu and Nanda met in joy;
+auspicious sounds arose.
+
+**363.** In the town of Vraja, in house after house,
+news of the festival spreads.
+The gopis go lovingly to Nanda's home,
+singing auspicious songs.
+
+**364.** Wearing various ornaments, the cowherds,
+their hearts full of rasa with joy,
+go to Nanda's house and pour out
+yogurt, milk and ghee with turmeric.[^13-47]
+
+**365.** With Nanda and the others, all dance in delight —
+in it are waves of many kinds.
+The instruments play; Ghanashyama again and again
+sings of Nanda's great festival.[^13-48]
+
+**366.** *Again, raga Dhanashri:*
+On the day of Krishna's birth —
+ah, what bliss in the house of Nanda!
+
+**367.** Seeing Radhika's face from afar,
+from both of Krishna's unblinking eyes [tears] stream.
+
+**368.** Radhika cannot keep her composure,
+gazing unseen at Shyama's moon-face.
+
+**369.** With the corner of her eye she signals to a sakhi:
+"Among the elders — what can be done now?"
+
+**370.** Thinking and thinking, Vinodini
+grew downcast; her whole body was soaked with sweat.
+
+**371.** Lalita, at that very moment,
+devising a pretext, led Rai away to a secluded place.
+
+**372.** With a sign of her eyes Kundalata
+sent Kanu to where Rai was.
+
+**373.** At the meeting of the two — great delight;
+Narahari watches, staying at a distance with the sakhis.
+
+**374.** Having heard of the festivities of Krishna's birthday, with a joyful heart
+he sees the places of Krishna's pastimes with his companions.
+
+**375.** At Sri Pavana-sarovara the Prabhu bathed;
+having seen Khadiravana, he came to Javata.
+
+**376.** Joy at the sight of many places of Krishna's lila;
+he went to Rama-ghat, where Rama performed the rasa.
+
+**377.** Singing the deeds of Baladeva, he danced;
+seeing the place of Bhandiravata, he was filled with joy.
+
+**378.** Vasudeva says, "This is the place of Bhandiravata.
+Sri Bhandiravata has disappeared [from sight]."[^13-49]
+
+**379.** Hearing [this], Prabhu Virachandra, sitting in solitude,
+contemplates within his mind the play that took place at Bhandira.
+
+**380.** Suddenly he sees Rama and Krishna, the two brothers,
+sporting with the cowherd boys in that place.
+
+**381.** The beauty of Sri Bhandiravata is exceedingly enchanting;
+seeing it, Prabhu Virachandra lost all composure at heart.
+
+**382.** Nanda-ghat, Chir-ghat; he went to Bhadravana;
+he wandered through Bhandira and Sri Lohavana.
+
+**383.** Going with his companions to Sri Gokula-Mahavana,
+he joyfully saw the birthplace of Krishna.
+
+**384.** Having seen at Raval the birthplace of Sri Radhika,
+in Mathura he bathed at Sri Vishranti-ghat.
+
+**385.** Having seen the Shiva called Gokarna, he went to [the place of] Akrura;
+in Vrindavana he entered the temple of Govinda.
+
+**386.** That day was the tithi of the eighth of the dark fortnight of Bhadra:
+the resplendent abhisheka of Sri Govinda's birth.[^13-50]
+
+**387.** Seeing all this, the people, in the joy of their hearts —
+some say so much in sweet, gentle words:
+
+**388.** *Thus [it is said] in a song (raga Mangala):*
+Today, at an auspicious moment, is the birth abhisheka:
+on the throne shines the moon Govinda.
+The countless graces of [His] body enchant the world;
+[His] peerless form is an ocean of nectar.
+
+**389.** [His] face takes away all the pride of Manmatha;
+seeing it, no one can keep composure.
+Scattering curd, turmeric and the rest in the courtyard,
+all dance with the sweetest grace.
+
+**390.** They sing abhisheka songs in many ways,
+keeping the tala, and at this hearts overflow.
+Mridangas and other instruments sound: "Drimi drimi,
+ta drimiki drimi tadhik dhiya."[^13-51]
+
+**391.** The lord of the gods, coming quite unseen,
+rains flowers together with his host.
+Again and again — cries of "Jaya, jaya!"; says
+Ghanashyama, his heart rejoicing in delight.[^13-52]
+
+**392.** *Again, raga Kamoda:*
+Behold the abhisheka at the auspicious moment:
+the Beloved of Gokula shines on the throne.
+
+**393.** Ah, I die! What sweetness of beauty!
+It steals the very life of chaste women of good families.
+
+**394.** With what new fragrant substances
+has someone rubbed this body? How can I hold my heart?
+
+**395.** Who lovingly dressed [Him] in yellow cloth?
+Is it lightning flashing upon a cloud?
+
+**396.** With gorochana together with sandal,
+who placed the tilaka on [His] forehead to enchant the world?
+
+**397.** Who tied [His] topknot with flowers?
+The composure and the treasure of dharma of the whole world have fled.
+
+**398.** Who placed earrings in [His] ears?
+How sweetly they swing — who is not bewitched by this?
+
+**399.** Who placed the jewelled necklace on [His] neck?
+It has increased the burning of love-longing in the host of women.
+
+**400.** Who put ankle bells on [His] reddish feet?
+Ringing "jhunu jhunu jhunu," they intoxicate the women.
+
+**401.** Ghanashyama offers himself [for Him];
+at [His] tribhanga pose how many Kamadevas swoon![^13-53]
+
+**402.** Prabhu Virachandra's joy [grew] moment by moment
+at the darshana of Madanamohana and Gopinatha.
+
+**403.** On the bright ashtami of Bhadra is Radhika's birth;
+he sees the peerless beauty of its abhisheka.
+
+**404.** *Thus [it is said] in a song (raga Kamoda):*
+How resplendent today is the auspicious abhisheka!
+Radhika shines on the jewelled throne.
+
+**405.** Surpassing raw gold, [her] beauty glitters;
+[her] moon-face takes away the pride of how many moons!
+
+**406.** The peerless glance of [her] eyes — a lovely splendour;
+the grace of every limb entices the mind of the world.
+
+**407.** Who does not come to behold this beauty?
+Having looked but once, they cannot turn their eyes away.
+
+**408.** On all four sides everyone raises cries of "Jaya, jaya!";
+the sound of the instruments pervades the earth and the sky.
+
+**409.** With what eagerness the people dance — there is no counting them;
+they scatter curd, milk and turmeric load upon load.
+
+**410.** Supreme merriment arises at every moment;
+in such joy whose heart would not overflow?
+
+**411.** All the mendicants who came are fully satisfied;
+the world is filled with [their] fame — so sings Narahari.
+
+**412.** *Again, raga Kamoda:*
+How auspicious today is the abhisheka at the blessed moment!
+Radhika shines on the jewelled throne.
+
+**413.** Look, look at that beauty, filling your eyes!
+Which creator fashioned [her], and with what sweetness?
+
+**414.** A garland of golden lightning — what comparison is that for [her] beauty!
+That moon-face steals the pride of the moon.
+
+**415.** What a sweet, sweet, sweet gentle smile!
+It ceaselessly rains down nectar in heaps upon heaps.
+
+**416.** A glance that enchants the mind of the Enchanter of the world;
+fish, khanjana birds and does give themselves up for [her] eyes.
+
+**417.** The sheen of [her] black hair darkens the world,
+like a mass of clouds upon a crest of lightning.
+
+**418.** Touching [her] lip, the nose-ring shines beautifully;
+[her] brows — she-serpents, or a row of bees?
+
+**419.** Madana swoons on seeing the radiance of [her] locks;
+the beauty of [her] two arms surpasses golden lotus stalks.
+
+**420.** [Her] fingers gleam — champaka buds;
+on the reddish palms, in the nails, mallika jasmine has blossomed.
+
+**421.** How sweet the curve of [her] neck! [Her] bosom is full;
+[her] waist, exceedingly slender, puts the lion to shame.
+
+**422.** Peerless and graceful is the breadth of [her] hips;
+[her] thighs, like inverted plantain trunks, are supremely beautiful.
+
+**423.** Beneath [her] lotus feet the dawn arises;
+[they] shine in the heart of Narahari.
+
+**424.** Beholding Radhika's birth abhisheka,
+Prabhu Virachandra cannot hold his heart.
+
+**425.** Staying some days in great bliss in Vrindavana,
+he sets out for Gauda with his companions.
+
+**426.** How he took leave everywhere —
+with one mouth I cannot relate any of it.
+
+**427.** At the time of departure everyone goes along with him;
+having gone some distance, all weep.
+
+**428.** Prabhu Virachandra, bathed in tears,
+bade farewell to all, saying so much.
+
+**429.** Prabhu Virachandra, summoning his composure,
+went to Gauda by way of Mathura.
+
+**430.** Coming to Gauda, he wandered everywhere as before
+and told everyone the account of Vrindavana.
+
+**431.** Constantly immersed in the bliss of sankirtana,
+he went to Khardaha and bowed to his mother.
+
+**432.** The Prabhu's journey to Sri Vrindavana and back
+I have told in brief; the learned will tell it in full.
+
+**433.** The nectarean deeds of Ganga and Virachandra[^13-54]
+I cannot expand, for fear of the book growing too long.
+
+**434.** Whoever hears all this with faith —
+his bondage of worldly existence is removed without effort.
+
+**435.** Holding a straw between my teeth, I say again and again:
+dive ceaselessly into the *Bhakti-ratnakara*.[^13-55]
+
+**436.** Meditating on the feet of Srinivasa Acharya,
+Narahari Dasa tells the *Bhakti-ratnakara*.
+
+*Thus in the Sri Bhakti-ratnakara ends the thirteenth wave, called "The Description of Srinivasa Acharya's Marriage and Other Events".*
+
+[^13-1]: দেখা এই হৈতে (*dekhā ei haite*) — literally "the meeting — from this"; apparently "we shall not see each other again": cf. 21, which tells of Ishana's departure.
+[^13-2]: "Withdrew from sight" (সঙ্গোপন) — left this world, entered the eternal pastimes. Mauna-mudra — the vow of silence: the remaining devotees hardly speak.
+[^13-3]: Sri Ishana Thakura — the servant in the Lord's (Shachi's) house in Navadvipa, who guided Srinivasa and his companions through Navadvipa (BR 12).
+[^13-4]: Vira Hambira — the king of Vana-Vishnupura, a disciple of Srinivasa (BR 7).
+[^13-5]: The Prabhu — here Srinivasa Acharya (cf. 40–41, "Acharya Prabhu"); in 42 and 45 "prabhu(s)" are his companions (Narottama and others), in 46 — "the Prabhu's associates."
+[^13-6]: Ishta-goshthi — a conversation on spiritual subjects. The talks of Vira Hambira with Ramachandra Kaviraja; which book and which author are meant, the text does not say.
+[^13-7]: The Deity of Radhika for Sri Gopinatha in Vrindavana, conceived by Jahnava (BR 11.715–717); the Gopinatha of 73 is this Deity.
+[^13-8]: Kantaka-nagara is Katwa on the Ganga, where Mahaprabhu accepted sannyasa from Keshava Bharati; the ghat bears his name.
+[^13-9]: Thakura Kanai is the son of Raghunandana of Shrikhanda.
+[^13-10]: Jahnava's (Ishvari's) second journey to Vrindavana; the first is described in Taranga 11.
+[^13-11]: "Gauranga" is the Deity of Gauranga in Kantaka-nagara (Katwa), served by Gadadhara Dasa; Yadunandana (109) is a servant of Gadadhara Dasa (cf. 9.558–598).
+[^13-12]: Vira Hambira, as a king of robbers, had stolen the books of the Gosvamis that Srinivasa was bringing from Vrindavana, and Narottama then grieved over the loss (Taranga 7); afterwards the king became Srinivasa's disciple.
+[^13-13]: Draupadi (Ishvari) is the first wife of Srinivasa Acharya (cf. Taranga 8).
+[^13-14]: Khanda is Shrikhanda, Raghunandana's village.
+[^13-15]: The Thakura is Raghunandana: never before had he told Srinivasa to come back quickly (cf. 146).
+[^13-16]: That is, when he will depart from this world (cf. 180–183).
+[^13-17]: The Thakura here is Srinivasa Acharya Thakura.
+[^13-18]: The *Sri Bhajanamrita* is a work attributed to Narahari Sarakara Thakura of Shrikhanda; the verse number is not given in the text.
+[^13-19]: Narahari Sarakara Thakura, Raghunandana's uncle and guru (also in 192).
+[^13-20]: Shravana is a month of the rainy season (July–August). This is the day of Raghunandana's disappearance.
+[^13-21]: "In youth" — Bengali kaiśore, in the age of kaishora; pauganda (192) is the age from five to ten.
+[^13-22]: "At the parting" — reading unclear (OCR): G "গন্কালে", A/B "গন্তকালে" (gantakāle?); taken as "গমনকালে" (gamanakāle, "at the time of departure").
+[^13-23]: Not the Gopalpura near Kheturi, but a village in Rarh (West Bengal).
+[^13-24]: Gauranga-priya is Srinivasa's second wife; the first is Ishvari (Draupadi).
+[^13-25]: Probably a hint at Advaita Acharya, who lived in Shantipura.
+[^13-26]: So in A/B, "ব্রাহ্মণী" ("the brahmana's wife"); the 1960 edition has "ব্রাহ্মণ" — "the brahmana says".
+[^13-27]: This is the Deity of Radhika that Jahnava had made and sent with Parameshvari Dasa to Sri Gopinatha in Vrindavana (11.715–717; 13.70–71). "The one we had brought" — all copies read ধারে (dhāre); taken as যারে (yāre), "whom"; reading unclear (OCR).
+[^13-28]: Thakurani ("the Mistress") is the earlier Deity of Radha, already present with Gopinatha; now Gopinatha stands between two Radhas (cf. 269–270).
+[^13-29]: Tada-Atpur (in the text তড়া আঠপুর; in the 1960 ed. summary আটপুর) is a village in present-day Hooghly district (West Bengal), now Antpur; the Deity of Radha-Gopinatha installed by Parameshvari Dasa is worshipped there.
+[^13-30]: Rajbalhat is a village in present-day Hooghly district; the Jhamatpur near it is apparently not the Jhamatpur that was the birthplace of Krishnadasa Kaviraja (Bardhaman district).
+[^13-31]: Yadunandana Acharya of Jhamatpur is Virachandra's father-in-law (253); not to be confused with Yadunandana Chakravarti or Yadunandana of Kantaka-nagara (Taranga 9).
+[^13-32]: Shrimati and Narayani are the wives of Virachandra; this Narayani is not the mother of Vrindavana Dasa.
+[^13-33]: Payodhishayi ("He who lies on the ocean") is Kshirodakashayi Vishnu; a vyuha is an expansion.
+[^13-34]: Shantanu is the king of the *Mahabharata*, the husband of the goddess Ganga. Nityananda's daughter bears the name Ganga in this birth as well.
+[^13-35]: "Between the two Radhas" (মধ্যে রাধয়োঃ) is a dual: Gopinatha stands between two Deities of Radha (229–232, 269).
+[^13-36]: "Remnants": G reads ফেল (phela, the remnants of the Deity's meal), A/B ফেন (phena, "foam"); reading unclear (OCR), translated after G.
+[^13-37]: CC Antya 20 (the 1960 ed. gives 20.142–143). The quotation is from the Bengali verses of the *Chaitanya-charitamrita*.
+[^13-38]: The *Anuraga-valli* is a Bengali biography of Srinivasa Acharya written by Manohara Dasa (late 17th c.).
+[^13-39]: Adhikari — the person in charge of a Deity's service. Sri Ananta Acharya was a disciple of Gadadhara Pandita and a servant of Govinda in Vrindavana; his disciple Haridasa Pandita Gosani (313) is the one at whose bidding (together with other Vaishnavas of Vrindavana) Krishnadasa Kaviraja wrote the CC (CC Adi 8).
+[^13-40]: The *Sadhana-dipika* is a work by Radha-krishna Gosvami; here the author calls Haridasa — Haridasa Pandita (313) — his guru. The verse continues in 316.
+[^13-41]: The reading and sense are unclear: "গোপালদাসাধিক অধিকার" (*gopāladāsādhika adhikāra*) is understood as "Gopala Dasa, [invested] with high authority"; it may also mean "Gopala Dasa and others — the adhikaris" (*-ādika*). Line 321 is also unclear: "গোবিন্দাধিকারী সবে" (*govindādhikārī sabe*) — "the adhikari of Govinda, all" (it may refer to Haridasa as the adhikari of Govinda, or to all those named).
+[^13-42]: Bhugarbha (Bhugarbha Gosvami) — a disciple of Gadadhara Pandita and a companion of Lokanatha Gosvami in Vrindavana.
+[^13-43]: The subject is not named in the text: apparently it was Sri Jiva and the others (338–339) who went to Vrindavana, and Krishnadasa Kaviraja with them, while Virachandra continued on from Govardhana (343). *Dui dine* may also be understood as "in two days".
+[^13-44]: Vasudeva (who in 345 and 357 tells Virachandra about the places) and Uddhava are not further identified; Yadava is probably Yadava Acharya (323, 330).
+[^13-45]: Krittika — Radha's mother, the wife of Vrishabhanu. The 1960 edition reads "আনে" (*āne*, "brings"): "Vrishabhanu, going out to meet him, brings Nanda into the house."
+[^13-46]: Kala ("the Dark One") — Krishna.
+[^13-47]: In the 1912/13 edition (A and B) the stanza is shorter: "নানা আভরণ, দধি দুগ্ধ ঘৃত, ঢালে নন্দালয়ে গিয়া" (*nānā ābharaṇa, dadhi dugdha ghṛta, ḍhāle nandālaye giyā*) — apparently the segment "পরি গোপগণ, হরষে সরস হিয়া, হরিদ্রাসহিত" has dropped out; the stanza is translated in full from the 1960 edition. To be checked against the scan.
+[^13-48]: Ghanashyama is the author's second name, Narahari Chakravarti; here it is the poet's signature (bhanita).
+[^13-49]: That is, the sacred banyan Bhandira itself can no longer be seen; cf. 380–381, where Virachandra beholds it in a vision.
+[^13-50]: That is, Janmashtami, the day of Krishna's appearance. Radha's birth festival (Radhashtami, 403) falls on the bright ashtami of the same month.
+[^13-51]: Syllables of the drums (bols); the OCR reading is approximate (G *dṛmi dṛmi / tā dṛmiki dami tādhik dhiyā*, B *dūmi dami, tā̃dumi dumiki tā̃dhik dhiyā*).
+[^13-52]: The lord of the gods is Indra. Ghanashyama is the poet's signature (the second name of Narahari Chakravarti); it can also be read "the heart of Ghanashyama [Krishna] rejoices".
+[^13-53]: নিছয়ে (*nichhaye*), "offers himself" for the welfare of the beloved (the nichhani rite); Ghanashyama is the poet's signature. Tribhanga is Krishna's pose, bent in three places.
+[^13-54]: Ganga is Nityananda's daughter, Virachandra's sister.
+[^13-55]: A play on words: *Bhakti-ratnakara* literally means "the ocean of the jewels of bhakti".
+
+---
+
+# Taranga 14. Srimad Acharya's Travels to the Homes of His Disciples, and Other Events
+
+*Jiva Gosvami's four letters to Srinivasa; Ramachandra Kaviraja at Yajigrama; Srinivasa at Budhari and Borakuli: the installation of Sri Radha-vinoda, the festival and sankirtana; the journey to Kheturi, farewell to Narottama; talk of the Acharya's virtues and of false teachers; Virachandra's letter; songs about Srinivasa*
+
+**1.** Glory, glory to Sri Krishna Chaitanya, the refuge of all!
+Glory to Nityananda Rama, the son of Rohini!
+
+**2.** Glory to Sri Advaitachandra, the son of Kuvera!
+Glory to Gadadhara, whose life is Gauranga!
+
+**3.** Glory, glory to Srivasa and Murari, full of prema!
+Glory, glory to Vakreshvara, the abode of virtues!
+
+**4.** Glory to Haridasa, glory to Gadadhara Dasa!
+Glory to Pundarika Vidyanidhi and Shuklambara!
+
+**5.** Glory to Narahari, Gauridasa and Dhananjaya!
+Glory to Ramananda, the son of Bhavananda!
+
+**6.** Glory to Sri Vijaya, Vasu, Madhava and Mukunda!
+Glory to Kashishvara, Yadu and Sri Paramananda!
+
+**7.** Glory, glory to Sri Nandana and Acharyaratna![^14-1]
+Glory to Rupa and Sanatana, dear to Gaurachandra!
+
+**8.** Glory to Raghunatha, Raghunatha and Sri Gopala!
+[Glory] to Sri Bhugarbha, Lokanatha and the merciful Sri Jiva!
+
+**9.** Glory, glory to the devotees of Sri Gaurachandra,
+by remembering whom one obtains the treasure of bhakti!
+
+**10.** Glory, glory to the listeners, the abode of virtues!
+Now, with kind hearts, listen to what I tell.
+
+**11.** Sri Acharya Thakura, his mind full of supreme bliss,
+always savours the books of bhakti together with his [disciples].
+
+**12.** By the Lord's mercy he is a teacher in all the shastras;
+he always crushes the pride of the opponents of bhakti.
+
+**13.** There is no end to the Acharya's prema-bhakti and deeds —
+he whom Sri Jiva Gosani honours so highly.
+
+**14.** Who can tell what Sri Jiva's affection is like?
+From Vraja he writes merciful letters to the Acharya.
+
+**15.** One day the Acharya says to his [disciples]:
+"A letter from Gosani is due to come — why is it delayed?"
+
+**16.** At that very moment the wise Sri Vasanta Raya
+came with a letter to the Acharya's assembly.
+
+**17.** Telling the news of Vraja in a few words,
+he gave the Acharya Sri Jiva Gosani's letter.
+
+**18.** The Acharya took the letter with great reverence
+and reads it, his heart drenched with the tears of his eyes.
+*The holy letter (1).*[^14-2]
+*Glory to Sri Vrindavana-natha!*
+*Blessings! To the feet of Sri Srinivasa Acharya, whose two feet bestow all my happiness, — he who is named Jiva, offering obeisances, informs.*
+*I always wish for your well-being; but for many days [news] of it has not come — so do gladden us with it.*
+*I am at present in bodily health, and the others are likewise. But the special [news] is this: the revered Sri Bhugarbha Gosvami has left his body, and his very self he has consciously offered to Sri Vrindavana-natha.*
+*Write of the well-being of your people, especially of Sri Vrindavana Dasa, and also whether he is studying a little or not.*
+*Further, write also how and where Sri Vyasa Sharma or Sri Vasudeva Kaviraja is.*
+*Moreover, the corrections of the Rasamrita-sindhu, the Sri Madhava-mahotsava, the Uttara-champu and the Hari-namamrita are still somewhat unfinished, and besides [it is now] the rainy season, — so they have not been sent now; later, by the favour of providence, they will be sent.*[^14-3]
+*And further: accept the due obeisances and so on of everyone here; and to those there, [convey] my obeisances and so on.*[^14-4]
+*The month of Bhadra, the bright fortnight.*[^14-5]
+*To the honourable king — blessings.*
+
+**19.** He whose name in the letter is Vrindavana Dasa
+is known as the Acharya's eldest son.[^14-6]
+
+**20.** As soon as the son was born, the news reached Vraja;
+Sri Jiva Gosvami joyfully gave him this name.
+
+**21.** Vyasa and Vasudeva are two disciples of the Acharya;
+"the king" is Sri Vira Hambira, the noblest of heart.
+
+**22.** *Such is one letter.*
+A few days later a letter again came to the Acharya;
+in the assembly the Acharya reads the letter.
+*The holy letter (2).*
+*Glory to Sri Vrindavana-natha!*
+*Blessings! To the greatest Sri Srinivasa Acharya, the best of friends, praised for all virtues, — from here, from Sri Vrindavana, from him who is named Jiva, [a message] with obeisances, embraces and good wishes.*
+*Here there is well-being: the desired [happiness] — living in Sri Vrindavana — abides unbroken.*
+*Though I am eager to learn of all your [affairs], from time to time my heart is pained by not hearing of them or by hearing the contrary. Therefore I should be consoled by being told of them in a timely and fitting way.*
+*Further: the reply to your previous letter we have already written earlier. And now we inform you: grief is opposed to devotion to the Lord and burns the senses and the body; nevertheless [one should strive] that grief may cease.*[^14-7]
+*And further: this Sri Shyamadasa Acharya is devoted to the highest goal, akin to you in spirit, and learned; therefore it is fitting, in close association with him, to discuss devotion to the Lord and so on, — with such a helper the pashandas too will be crushed.*
+*Now, having corrected and examined them, these [persons] are bringing there the books Vaishnava-toshani, Durgama-sangamani and Sri Gopala-champu. Therefore keep close company with them for the correction of the books and for discussion, and regard him as your own, to be cared for.*
+*Moreover, the Hari-namamrita-vyakarana that was sent to you earlier — if it is being taught, then its errors and so on should be corrected by consulting the bhashya and the like, the vritti and the like. There is also another book here — a supplement; if it is wanted, send word.*
+*Now the Srimad Uttara-gopala-champu has been written, but it still has to be examined, — this is made known.*[^14-8]
+*When will such good fortune come again — association with you? So even from afar one should constantly keep [each other] in remembrance.*[^14-9]
+*To Sri Vrindavana Dasa and the others — good wishes. To Sri Gopala Dasa and the rest — good wishes.*
+*To the feet of Sri Srinivasa Acharya.*
+
+**23.** He whose name in the letter is Shyamadasa Acharya
+is the son of Vyasa Acharya, now living.[^14-10]
+
+**24.** Vrindavana Dasa is the son of Srinivasa;
+by the words "and the others," know, [are meant] his brothers and sisters.
+
+**25.** Sri Gopala Dasa is the son of Vira Hambira;
+this name was given him by Sri Jiva Gosvami.
+
+**26.** The name Sri Dhari Hambira is known everywhere.
+Sri Jiva Gosvami wishes all of them well.
+
+**27.** *Such is one letter.*
+Just as the Gosvami's letters come to the Acharya,
+so too the Acharya sends letters to the Gosvami.
+
+**28.** News constantly comes with the Vaishnavas who travel back and forth;
+the joy [that] the letters [bring] I cannot describe.
+
+**29.** Acharya Thakura enjoys [his life] in Yajigrama;
+his heart longs to see Ramachandra.
+
+**30.** Ramachandra, Narottama and Sri Govinda — all three —
+in the village of Sri Kheturi are always intoxicated with sankirtana.
+
+**31.** One day, as all three were sitting [together],
+at that time Sri Jiva's letter arrived.
+
+**32.** Placing the letter on his head with the greatest reverence,
+Govinda, overcome with prema, reads the letter.
+*The holy letter (3).*
+*Glory to Sri Vrindavana-chandra!*
+*Blessings! To those named Sri Ramachandra Kaviraja, Sri Narottama Dasa and Sri Govinda Dasa, praised by all the Vaishnavas, — the treasure in which the happiness of such as me abides, — I, named Jiva, from Sri Vrindavana, with an embrace, make known:*[^14-11]
+*my particular wish is your well-being. Having received a letter full of affection, I long again and again for the same.*
+*In it, out of affection for me, beautiful songs were sent, — by this I am joined with the greatest good. What more [need be said] to those whose affection is without motive?*
+*As for the method of constant remembrance that you ask about, — it is clearly [set out] in the Rasamrita-sindhu with the words "service in the form of a sadhaka," and so on.*[^14-12]
+*Here "in the form of a sadhaka" means "in the external body," and "in the form of a siddha" means "in a body conceived as suited to one's own desired service."*
+*And in that [service] in the siddha form, it is only by the path of raga; the distinctions of time, place and pastimes are manifold — how much [of them] could be written?*
+*Service in the sadhaka form, however, is to be learned by a threefold method, according to the agamas and so on. The revered Acharya Mahashaya there will instruct you in it, for he is indeed our all.*
+*What more? On the fourteenth day of [the month of] Vaishakha.*
+
+**33.** *Such is one letter.*
+Having heard the Gosvami's merciful letter,
+all joyfully sing the Gosvami's virtues.
+
+**34.** Sri Govinda Kaviraja, taking leave,
+went from Kheturi to the village of Budhari.
+
+**35.** Sitting in solitude, with a very joyful mind,
+he gathers together the jewels of his songs.
+
+**36.** At that time a letter came from Vraja;
+Govinda, placing the letter on his head, reads it.
+*The holy letter (4).*
+*Glory to Sri Vrindavana-chandra!*
+*Blessings! To the great bhagavata Sri Govinda Kaviraja, the supreme object of love, — Jiva's remembrance of Krishna.*
+*Through the good wishes of your honour, [all is] well here; [the well-being] there I ardently desire.*
+*There it is you who shine as our friend; therefore we always long to hear of your well-being — attend to this.*
+*Your songs full of descriptions of Krishna, sent now, and those [sent] earlier, satisfy us as if they were nectar; and yet, hoping for new ones, again and again we remain unsated, — so kindly attend to this as well.*
+*Further: earlier the Brihad-bhagavatamrita was sent for Sri Srinivasa Acharya Gosvami with Shyamadasa the mridanga player; write whether it has reached there or not, and free us from doubt.*
+*What more? This is written to your honour, merciful by your very nature. On the third day of the bright fortnight of [the month of] Chaitra.*
+*Here — blessings to Sriman Narottama and to Kaviraja, and this is [my] message. Here — the obeisances of Sri Krishnadasa.*
+
+**37.** In the letter "Kaviraja" is Ramachandra;
+Narottama and Ramachandra — the two are one.
+
+**38.** In the letter are the obeisances of Sri Krishnadasa:
+this is Krishnadasa, known as Kaviraja Gosvami.
+
+**39.** *Such is one letter.*
+Having read the letter, Sri Govinda, overwhelmed [with feeling],
+informing his elder [brother], sent the *Gitamrita*.[^14-13]
+
+**40.** What Govinda's poetry is like — what can it be compared to?
+Who does not praise his virtues, who does not sing [of them]?
+
+**41.** *Thus [it is said] in a song:*
+Glory to Govinda, renowned on earth,
+skilled in distributing the treasure — the jewel of prema,
+the Kaviraja of incomparable, sweet character! (Refrain.)
+
+**42.** Supremely wonderful is the arrangement of [his] poetry —
+what shall I compose? [His] art is beyond fathoming.
+Like a sharp arrow it pierces the heart and the head;
+the rasikas reel [with delight], listening with fervour.
+
+**43.** There the king of the assembly of Vrinda-vipina,
+Srimad Jiva, the life of the people of the world,
+with a joyful heart, praising [the songs] to one another,
+ever drinks the nectar-rasa of these songs.
+
+**44.** Srila Narottama together with Ramachandra —
+their hearts overflow, the happiness cannot be told.
+All the people sing, utterly maddened;
+Narahari, of wicked mind, has turned away from it.[^14-14]
+
+**45.** Hearing all this news, Acharya Thakura
+cannot contain within his body the abundant bliss.
+
+**46.** Drawn by the Acharya, from Kheturi
+Ramachandra came to Sri Yajigrama.
+
+**47.** Sri Acharya, seeing Ramachandra Kaviraja —
+I do not know what bliss surges in [his] heart!
+
+**48.** When Ramachandra, prostrating himself, fell at [his] feet,
+the Acharya, taking him in his embrace, bathes [him] with the tears of his eyes.
+
+**49.** Asking for news of Sri Narottama,
+he ordered, "Go now into the house."
+
+**50.** Sri Ramachandra was filled with great bliss;
+going [in], he bowed at the feet of the two Ishvaris.
+
+**51.** Draupadi Ishvari and Sri Gauranga-priya — both of them —
+the motherly tenderness they showed — what can compare with it?
+
+**52.** Seeing Ramachandra, everyone rejoiced;
+he met with all as was fitting.
+
+**53.** Sri Ramachandra's conduct is very sweet;
+Acharya Thakura is always conquered by his love.
+
+**54.** What love Sri Acharya Srinivasa showed
+with Ramachandra — what do I know, that I could tell it?
+
+**55.** Sri Ramachandra's life is most wonderful;
+others have told of his virtues — [they] are known everywhere.
+
+**56.** Here too I had earlier thought to describe something,
+[but] for fear of the length of the book I could not describe it.
+
+**57.** One day, on the night of the full moon, at moonrise,
+Ramachandra laughs, his heart full of great joy.
+
+**58.** Seeing Ramachandra laughing, Draupadi Ishvari
+carefully, very softly, says to Sri Acharya:
+
+**59.** "Why he is laughing, I cannot understand at all."
+The Acharya replies, "I will tell you — listen attentively.
+
+**60.** Sri Radhika and Krishna, both, in a grove of flowers
+are gathering flowers, surrounded by the sakhis.
+
+**61.** Rai picks wondrously blossoming kumuda flowers,
+while Madhai by mistake picks the moonlight, [taking it] for them.
+
+**62.** Seeing Krishna's mistake, the sakhis laugh.
+Ramachandra, being there beside me, laughs."[^14-15]
+
+**63.** Hearing [this], Sri Ishvari was amazed at heart.
+Such playful wonders he displays — what more can be said?
+
+**64.** With Ramachandra, Sri Acharya constantly —
+his heart is overwhelmed by savouring the Gosvamis' books.
+
+**65.** Ramachandra Kaviraja is a man of great learning;
+there is nothing to which his learning can be compared.
+
+**66.** In Yajigrama great bliss grows day by day;
+all are utterly overwhelmed in Prabhu's sankirtana.[^14-16]
+
+**67.** A few days later the Acharya, taking his dear [disciples],
+went to the village of Kanchanagariya.
+
+**68.** There he became immersed in the bliss of great sankirtana
+and effortlessly removed the sins of the living beings.
+
+**69.** Staying a few days with everyone in great happiness,
+he came with the greatest delight to the village of Budhari.
+
+**70.** He quickly sent a man to the village of Sri Kheturi;
+he reported this news to Mahashaya.
+
+**71.** Sri Thakura Mahashaya, with his companions,
+came to the village of Budhari, his mind full of great bliss.
+
+**72.** What absorption in prema [there was] at their meeting —
+the fortunate people beheld it to their eyes' content.
+
+**73.** Everyone's heart is overwhelmed by the Acharya's beauty;
+who indeed does not sing of [his] enchanting beauty and virtues?
+
+**74.** *As [it is said] in a song (raga Saranga):*
+Glory, glory to Srinivasa, the jewel of virtues!
+Blessed, blessed is the good fortune of the earth — what a wonder:
+a form full of love for Gaura has appeared! (Refrain.)
+
+**75.** The lustre of [his] body surpasses kunkuma, gold and the lotus;
+lovely is his moon-face, his lips are nectar.
+Sweet is his smile, his speech soft and charming —
+as if a new, boundless nectar were raining down.
+
+**76.** Sandal tilaka on his forehead, brows beyond compare,
+the large lotuses of his eyes brimming [with feeling].
+His tender arms reach down to his knees,
+his neck is like a conch, his chest adorned with a garland.[^14-17]
+
+**77.** Beautiful is the cloth he wears, slender is his waist,
+lovely the three folds [of his belly], charming the navel;
+his thighs and knees delight the people.
+Ghanashyama Dasa offers himself for the nails of [his] feet.[^14-18]
+
+**78.** *Again, raga Velavali:*
+Glory to Srinivasa Acharya, the life of the people of the world,
+the supreme rasika, the abode of virtues,
+the giver of refuge to the wretched, the helpless and the fallen,
+the friend of the lowly, the ornament of noble deeds!
+
+**79.** He is exceedingly adorned with the graceful ornaments of bhava;
+his body is like the champaka and the crimson flower;
+the incomparable dear associate of Gaurachandra,
+on seeing whom the heart cannot keep its composure.
+
+**80.** Renowned in the world, a cloud raining the rasa of prema,
+one to whom the joy-giving master Narottama is like life itself.
+Ceaselessly drinking the nectar of the Divine Couple's pastimes,
+he delights, intoxicated — what more can a poet compose?
+
+**81.** Ah, ah! He whose servant at the feet [became]
+the merciful Ramachandra Kaviraja!
+What shall I say? What a new wish-fulfilling tree of bhakti this is —
+for Narahari's sake [he] planted [it] in the midst of the earth.
+
+**82.** The beauty of Sri Narottama enraptures everyone;
+who does not sing of Narottama's form and qualities?
+
+**83.** *Thus [it is said] in a song (raga Velavali):*
+Glory to Sri Narottama, supreme in magnanimity!
+He delights the people of the world; his luster is like a golden lotus;
+as if he ceaselessly rains down flower-honey. (Refrain.)
+
+**84.** He glitters, adorned with abundant waves of goosebumps;
+on his incomparable face, a constant gentle smile.
+His trembling eyes are tinged with the rasa of compassion;
+the charm of his words steals the hearing and the mind.
+
+**85.** An incomparable tilaka, a forehead most sweet,
+his neck shining with many garlands of tulasi.
+Rounded arms, lovely hands like young shoots,
+a broad chest — any comparison for it falls short.
+
+**86.** A slender waist, new blue cloth,
+full, excellent thighs of beautiful shape;
+the pair of tender feet, cool, so cool,
+shines in the heart of Narahari.
+
+**87.** The assembly of Vaishnavas, full of beauty, was captivating;
+everyone saw their radiance, like that of the sun.
+
+**88.** The Acharya, together with all of them in the village of Budhari,
+was absorbed in sankirtana day and night.
+
+**89.** After spending some days in bliss in the village of Sri Budhari,
+he joyfully set out for the village of Borakuli.[^14-19]
+
+**90.** Sri Govinda Chakravarti, overwhelmed with prema,
+met the Acharya and his associates at his own home.[^14-20]
+
+**91.** Chakravarti is the Acharya's dearest disciple,
+expert in singing, in playing instruments and in the science [of music] — bhakti embodied.
+
+**92.** How Sri Govinda became the Acharya's disciple,
+how he came from Mahala to Borakuli,[^14-21]
+
+**93.** how he settled in the village of Borakuli —
+what shall I describe of this? It is known everywhere.
+
+**94.** Joy overflowed in Sri Govinda's house:
+the Acharya arrived [there] with everyone.
+
+**95.** He had preparations made for a great festival [mahotsava]
+and sent letters of invitation everywhere.
+
+**96.** Virachandra came with his associates;
+Krishna Mishra came, surrounded by his associates.
+
+**97.** Sri Gopiramana, the disciple of Sri Hridayananda,
+set out from Ambika.[^14-22]
+
+**98.** Thakura Ramai, his heart full of great jubilation,
+came after taking leave before Balarama.[^14-23]
+
+**99.** Thakura Kanai, the son of Raghunandana,
+set forth from Khanda with his associates.[^14-24]
+
+**100.** Sri Yadunandana, from Kantaka-nagara,
+after bowing to Gaurachandra, set out.[^14-25]
+
+**101.** Sri Nayanananda Mishra, in great joy,
+set out, taking his dear associates with him.[^14-26]
+
+**102.** They all came near the village of Borakuli;
+who knows how to describe the joy that there was?
+
+**103.** Sri Acharya Thakura, Thakura Mahashaya,
+Ramachandra, Shridasa, Gokulananda and others
+
+**104.** went out to meet them and brought everyone in;
+wondrous merriment began in Govinda's house.
+
+**105.** That day they spent in the bliss of dancing and singing;
+in the morning all performed their bath and other rites.
+
+**106.** All came and sat in the temple courtyard;
+an unprecedented beauty arose, and everyone beheld it.
+
+**107.** Srinivasa Acharya had the Sri Deity brought;
+seeing [Him], everyone's great joy increased.
+
+**108.** To perform the abhisheka and other rites
+everyone gave permission to Acharya Thakura.
+
+**109.** Taking everyone's permission, the Acharya
+joyfully performs the abhisheka and other rites.
+
+**110.** As they were deliberating what the Sri Deity's name should be,
+suddenly a voice sounded within the temple:
+
+**111.** "Perform the abhisheka under the name Sri Radha-vinoda."
+Hearing this, great delight of heart arose in everyone.
+
+**112.** Sri Acharya carefully completed all the rites,
+seated [the Deity] on the throne and dressed [Him] in wondrous attire.
+
+**113.** The beauty of Sri Radha-vinoda is exceedingly wondrous;
+seeing [Him], streams of tears flow from everyone's eyes.
+
+**114.** Fixing their eyes on Sri Radhika, everyone
+says to one another, "What a wondrous sight!"
+
+**115.** Seeing both Sri Radhika and Sri Radha-vinoda,
+no one can turn away their unblinking eyes.
+
+**116.** Countless people come — there is no counting them;
+there is no limit to the joy in Govinda's house.
+
+**117.** Govinda's house became full of auspiciousness;
+on all sides everyone raised cries of "Glory!"
+
+**118.** The festival of that day I am unable to tell;
+but what [happened] on the next day — of that I will relate a little.
+
+**119.** Prabhu Virachandra, Krishna Mishra and all the others —
+all performed their bath and other rites early in the morning.
+
+**120.** All came into the courtyard of Sri Radha-vinoda
+and, floating in happiness, had darshana of Radha-vinoda.
+
+**121.** Shyamadasa, Devi, Gokula and others — all came
+and, well prepared, began the sankirtana.[^14-27]
+
+**122.** Shyamadasa and Devidasa play the mridanga;
+how many waves of rasa arise from it!
+
+**123.** The soft sound of the mridanga pierces the sky;
+no one can stay still on hearing the syllables of the tala.
+
+**124.** Gokula and the others perform the alapa of ragas in various styles;
+in the raga-alapa they display intense gamakas.
+
+**125.** The seven svaras, the gramas and the rest became embodied;
+first of all they sing the qualities of Gaurachandra.
+
+**126.** By the mantra of song they drew Prabhu Gaurachandra;
+the Lord with His associates was as if directly present.
+
+**127.** Sri Narottama's voice is captivating —
+as if it ceaselessly rains new nectar.
+
+**128.** What can compare with this sankirtana, rare even for the gods?
+Everyone became supremely overwhelmed.
+
+**129.** Leaning his body against the body of the Acharya, who was full of prema,
+Prabhu Virachandra dances, having lost his composure.
+
+**130.** Prabhu Krishna Mishra, the son of Advaita Acharya,
+is thoroughly drenched with his own tears.
+
+**131.** Thakura Kanai, the son of Sri Raghunandana —
+how intoxicated he is in the rapture of prema, it is impossible to say.
+
+**132.** Sri Nayanananda Mishra, grey with dust,
+whirls about dancing — what captivating movements!
+
+**133.** Thakura Ramai dances with wondrous movements;
+with roars and cries of "hunkara" he turns in all four directions.
+
+**134.** Sri Yadunandana, the disciple of Dasa Gadadhara —
+who, seeing his state, would not weep?
+
+**135.** Sri Gopiramana Chakravarti, in the fullness of prema,
+sank into the ocean of the happiness of sankirtana.
+
+**136.** Ramachandra, Shridasa and all the Vaishnavas
+cannot keep their composure, overwhelmed by prema.
+
+**137.** Prabhu Virachandra, becoming still in the rapture of the dance,
+weeps, embracing Narottama.
+
+**138.** Everyone came into supreme rapture of prema;
+who embraces whom — there is no counting it.
+
+**139.** Forgetting themselves, all roll on the ground;
+some, weeping, clasp someone's feet.
+
+**140.** That rapture of bhava — who can describe it?
+Seeing [it], the gods consider themselves fortunate.
+
+**141.** When the sankirtana subsided, everyone grew calm
+and, in great joy, sat in the courtyard of the Lord.[^14-28]
+
+**142.** How everyone was absorbed in talks of the deeds of Radha-Krishna and Chaitanya —
+[only] the fortunate see that.
+
+**143.** Growing calm, everyone praises this holy courtyard:
+this courtyard is truly an ocean of prema.
+
+**144.** Seeing Govinda Chakravarti's rapture of bhava,
+everyone was filled with boundless jubilation.
+
+**145.** He became renowned as "Bhavuka Chakravarti";[^14-29]
+who would not praise [him], seeing the manner of his prema-bhakti?
+
+**146.** For some days everyone in the village of Borakuli
+remained, greatly enraptured in sankirtana.
+
+**147.** Prabhu Virachandra, Krishna Mishra and all the others
+became very distressed when the time came to take leave.
+
+**148.** How everyone took leave and departed —
+this cannot at all be described with one mouth.
+
+**149.** The Acharya and Thakura Mahashaya with their associates
+follow behind them, tears streaming from their eyes.
+
+**150.** Various provisions, [gathered] with great care,
+they afterwards sent [after the guests] through people.
+
+**151.** With Narottama and the others dear to Sri Acharya,
+[he] remained for some days in Sri Borakuli.
+
+**152.** To which other disciples' homes he went —
+that I have not described, for fear of making the book too long.
+
+**153.** The joy that arose in the region of Borakuli,
+how bhakti increased — that I could not describe.
+
+**154.** By the merciful glance of Sri Acharya Thakura
+all the people became deeply absorbed in sankirtana.
+
+**155.** In Sri Govinda's house the Acharya with his associates
+beholds the beauty of Sri Radha-vinoda with great delight.
+
+**156.** Having made known to Sri Radha-vinoda the inner feelings [of his] heart,
+[the Acharya] set out for Kheturi, crossing the Padmavati.
+
+**157.** Going together with everyone to Gaurachandra's courtyard,
+he was overwhelmed at the darshana of the Lords.
+
+**158.** For some days [all] were immersed in the rasa of sankirtana
+and gave great bliss to the people living in Kheturi.
+
+**159.** Having said something in private to Narottama, dearer to him than life,
+he took his leave and came to the village of Budhari.
+
+**160.** Many people from other lands, seeing the Acharya,
+spoke to one another of the Acharya's virtues.
+
+**161.** Someone said, "The Acharya is Gaura's prema embodied;
+through the Acharya the Lord accomplishes many works.
+
+**162.** Having spread the books of the Gosvamis,
+he crushed the pride of those opposed to bhakti."
+
+**163.** Someone said, "O brother, those turned away [from the Lord],
+having become self-willed, transgress dharma.
+
+**164.** The one who is chief among those turned away —
+they dress him up as 'Raghunatha' and deceive people.[^14-30]
+
+**165.** That sinful villain, having composed his own doctrine,
+preaches [it] in Vanga — [he is called], they say, 'Kavindra.'"[^14-31]
+
+**166.** Someone said, "I have seen great sinners
+who, abandoning the kirtana of Sri Krishna, have themselves sung of."
+
+**167.** Someone said, "In the land of Rarh there is a certain basest of brahmanas,
+known as 'Mallik'; there is no villain equal to him.
+
+**168.** That sinner has himself called 'Gopala';
+displaying a rakshasa's maya, he deceives people."
+
+**169.** *Thus [it is said] in the Sri Chaitanya-bhagavata:*[^14-32]
+"By that good fortune, even today the land of Vanga is blessed:
+men and women perform the sankirtana of Sri Chaitanya.
+
+**170.** Only here and there a few sinners go about
+and ruin people, hiding their [true nature].
+
+**171.** To fill their bellies, some of the sinners
+call themselves 'Raghunatha.'
+
+**172.** Some sinner, abandoning all the sankirtana of Krishna,
+has some ghosts sing of him himself.
+
+**173.** One whom I see in three conditions in a day —
+how is that wretch not ashamed to have himself sung of?[^14-33]
+
+**174.** In Rarh there is one more great brahma-daitya:[^14-34]
+within he is a rakshasa, a brahmana only in his dress.
+
+**175.** That sinner has himself called 'Gopala';
+therefore everyone calls him 'Shiyala.'"[^14-35]
+
+**176.** Someone said, "Great misfortune [awaits] them all:
+the punisher of all these mlecchas is the Kalki-avatara."
+
+**177.** Saying this and much else with joyful hearts,
+they all bowed at the feet of Srinivasa Acharya.
+
+**178.** The Acharya fulfilled the desires of them all
+and together with everyone came to his own home in Yajigrama.
+
+**179.** In Yajigrama he hears from people's mouths
+that Prabhu Virachandra had established dharma:
+
+**180.** in the land of Rarh there is a village named Kadara;
+there is the home of Sri Mangala [and] Jnanadasa.[^14-36]
+
+**181.** There lived the kayastha Jayagopala;
+from pride of learning an evil disposition arose in him.
+
+**182.** [His] guru was without learning — this [he] thought utterly contemptible;
+when asked, he named his parama-guru as his guru.[^14-37]
+
+**183.** Prabhu Virachandra by some means brought [this] to light:
+[the man] had slighted [his] grace — therefore [Virachandra] cast him off.[^14-38]
+
+**184.** Hearing this, the Acharya rejoiced at heart;
+at that time a message arrived from Virachandra.
+
+**185.** With the greatest respect the Acharya took the letter
+and reads the message, his heart blossoming with joy.
+
+**185a.** *Victory to Sri Gaura and Nityananda!*[^14-39]
+*Your devoted Sri Virachandra-deva, remembered [by you], with an embrace of love submits:*[^14-40]
+*"O Srila Srinivasa Acharya! You are the shakti of Sri Sri Mahaprabhu.*
+*Therefore by one shakti the books were revealed through Srimad Rupa Gosvami and others, forms of the Lord's shakti;*
+*by the other shakti you spread the books in Gauda-mandala, in the assembly of mahajanas.*
+*Therefore I send you my message.*
+*Jayagopala Dasa has slighted my grace, and this is known in the world;*
+*therefore here none of my people holds conversation and so on with him —*
+*I too have forbidden it — and you too should not hold conversation and so on with him."*
+
+**186.** Having sent such a letter from Kadara,
+Prabhu went to Khardaha and told [of it] to his sons.[^14-41]
+
+**187.** Just as Prabhu Virachandra is an abode of virtues,
+so his three sons are full of prema-bhakti.
+
+**188.** The eldest son is known as "Gopijana-vallabha,"[^14-42]
+the middle one is Sri Ramakrishna, supremely generous,
+
+**189.** the youngest is Sri Ramachandra, supremely gentle;
+some fortunate one will describe the lives of these three.
+
+**190.** Who does not weep [with love, hearing] of Prabhu Virachandra's virtues?
+He cast off the sinful Jayagopala.
+
+**191.** All these matters became known everywhere;
+no one ever [again] held conversation and so on [with him].
+
+**192.** In Yajigrama the Acharya with his disciples
+always spends [his time] in discussion of the shastras and in sankirtana.
+
+**193.** The names of the disciples I could not write here:
+I have set [them] out in detail in the book *Srinivasa-charitra*.[^14-43]
+
+**194.** Whose heart is not soothed by the Acharya's virtues?
+Who does not sing of the Acharya's life?
+
+**195.** *In a song — raga Kamoda:*
+He is my life and soul, the supremely merciful Acharya Thakura Srinivasa;
+his body surpassing gold, known throughout the world — the manifestation of Sri Chaitanya's prema.
+
+**196.** All who are dear to Chaitanya constantly show him tenderness; how could I tell of his virtues?
+From an early age, his mind skilled in learning, he always meditated on Chaitanya's feet.
+
+**197.** One day, at the end of the night, Sri Chaitanya, moved by tenderness, taking Nitaichand with Him,
+came to Srinivasa and, in the guise of a dream, laughing and laughing, speaks, looking at Srinivasa's face:
+
+**198.** "Go quickly to Vrindavana: there Rupa and Sanatana have composed wonderful books.
+I shall distribute [them] through you." Saying this again and again, [He] entrusted [him] to Nityananda.
+
+**199.** Then the dream broke; unable to control his body, Srinivasa was overwhelmed.
+Wandering in that rapture of prema through Nilachala and the land of Gauda, he set out for Vrindavana.
+
+**200.** With many longings in his heart, rejoicing, within a few days he entered the city of Mathura.
+Hearing there of the departure of both — Sri Rupa and Sanatana — he fell senseless.
+
+**201.** Regaining consciousness he weeps and, rolling on the ground, says, "Ha, ha, Prabhu Rupa-Sanatana!
+Why have you deprived [me]? I do not understand this play! Why have [you] kept [me] alive?"
+
+**202.** Knowing his heart to be so grieved, Rupa and Sanatana came in the guise of a dream, in a rapture of prema;
+taking Srinivasa on their laps, wiping away [his] tears, they speak in the sweetest words:
+
+**203.** "Go quickly to Vrindavana and surrender yourself at the feet of Sri Gopala Bhatta.
+Think of no sorrow — you will attain the highest happiness; thus the two of us will appear to you."
+
+**204.** Having said this, Rupa and Sanatana vanished; Srinivasa, rising at dawn,
+enters Vrindavana — streams of prema from both eyes — beholding the beauty of Vrindavana.
+
+**205.** Sri Jiva, obtaining Srinivasa, in a rapture of bliss brought [him] to meet the Gosvamis.
+By Sri Rupa's command in a dream, Sri Gopala Bhatta with great tenderness made Srinivasa his disciple.
+
+**206.** How much tenderness Sri Jiva Gosani [had] — who can tell? He made [him] learned in the shastras.
+Within a few days Srinivasa, joyful at heart, met his dear Narottama.
+
+**207.** Taking Narottama with him, he joyfully wandered through Vraja; obtaining Govinda's garland of command,[^14-44]
+[they] distributed the books of the Gosvamis, settling in Sri Gauda-mandala.
+
+**208.** Drinking the nectar of Gaura's prema, he is ever intoxicated with sankirtana; his fame resounds in the world.
+Lowly Narahari says: he delivers by his own goodness — there is no one else so merciful.
+
+**209.** *Again, raga Velavali:*
+Glory, glory to Sri Srinivasa, the abode of virtues!
+Deliverer of the poor and wretched, elixir of prema — such is [his] sweet name. (Refrain.)
+
+**210.** His body, stealing [the lustre] of the colour of gold, is lovely; silk garments shine upon it.
+Calling [it] prema, the bhagavatas say: with that very colour [his] body is adorned.[^14-45]
+
+**211.** Together with his own devotees and associates he revealed his beautiful lotus feet.
+Ceaselessly on [his] lips shines the name: "Radhe Krishna Govinde."
+
+**212.** Worship of the Divine Couple, relishing of the lilas, in his hand the wish-fulfilling tree of books.
+Apart from you, who will give shelter to the fallen, helpless Govindadasa?[^14-46]
+
+**213.** I could not describe the Acharya's life even in part;
+somehow or other I have only brought about my own good fortune.
+
+**214.** Sri Thakura Mahashaya is dear to the Acharya;
+who does not sing of his life, full of prema?
+
+**215.** *In a song — raga Kamoda:*
+O my merciful Sri Thakura Mahashaya, Narottama — prema embodied!
+How tender is his body, like a shirisha flower; the radiance of his body surpasses gold.
+
+**216.** In his youth nothing pleased him; hearing of Gora's virtues, he always wept.
+Renouncing royal enjoyments, quite unnoticed, he went to Vrajapura.
+
+**217.** Entering Vrindavana, his heart full of supreme bliss, he surrendered himself to Lokanatha.
+In his mercy Lokanatha accepted him as his own and gave [him] initiation into the mantra of Radha-Krishna.
+
+**218.** Seeing Narottama's conduct, all in Vrindavana were happy and loved him as their own life.
+What intimate [bond he had] with Srinivasa Acharya — who knows it? One soul, only the bodies different.
+
+**219.** Seeing Sri Radha-vinoda, he always delights his eyes, devoted to the service of Prabhu Lokanatha.[^14-47]
+In studying the scriptures of bhakti great bliss grows in his heart; all [his] desires were fulfilled.
+
+**220.** With Prabhu's permission he went from Sri Vraja-mandala into Sri Gauda-mandala.
+By the strength of Prabhu's grace he wandered through the homes of devotees in Navadvipa and Nilachala.
+
+**221.** How sweet [his] way of life — his dwelling in the village of Kheturi: he serves Gaura, Sri Radha-ramana,
+[the Deity] named Sri Vallavikanta, Radha-kanta, the abode of rasa, Radha-Krishna, Sri Vrajamohana.[^14-48]
+
+**222.** These six Deities seem to sport there in person; who, seeing [Their] beauty, would not forget [all else]?
+With dear Ramachandra, Narottama, in great delight, floats on the waves of the rasa of prema.[^14-49]
+
+**223.** However many Narottama's virtues — who can tell how many? In his sankirtana there is a rain of prema.
+Sri Advaita, Nityananda, Gaurachandra with [His] associates dance — [this] the fortunate have seen.
+
+**224.** Narottama, great-minded, very dear to Gaura's associates, is renowned for his service to the Vaishnavas.
+How wondrously merciful he is: to whom does he not give the pure chintamani of bhakti?
+
+**225.** Pashandas and asuras he intoxicated with Gora's virtues, himself beside himself in the rapture of prema.
+Whose deeds are beyond this world — will there ever be another such? His is the fame proclaimed from land to land.
+
+**226.** Lowly Narahari says: will there be such a day, [when] I shall be sold at Narottama's feet?
+Ceaselessly raising both arms, crying "Prabhu Narottama!", shall I roll weeping in the dust?
+
+**227.** *Again, raga Deshapala (the rangavardhini metre):*[^14-50]
+Glory to Narottama Mahashaya, adorned with auspiciousness, the excellent pandita — charming is all his way — most honoured, deep, utterly steadfast, the abode of virtues!
+His form, full of prema, a well of rasa, beyond compare; intoxicated, day and night he is devoted to singing new melodies; his gait and dance captivate the heart, his tender body is beautiful.
+
+**228.** Ceaselessly serving the beautiful Deities, he is in great joy; the beloved of Gaurahari's devotees, renowned for compassion; friend of the wretched, who fulfilled all [their] desires.
+His most charming fame is the ornament of the world, without blemish; no end is found to [his] boundless virtues; the hosts of great poets sing [them] ceaselessly — [and so does] the servant Ghanashyama.[^14-51]
+
+**229.** The beautiful deeds of Sri Narottama are boundless;
+how can I, worthless, describe them with one mouth?
+
+**230.** Who does not weep [with love, hearing] of the virtues of Sri Thakura Mahashaya?
+When one meditates on [his] life, all inauspiciousness goes far away.
+
+**231.** Meditating on the feet of Srinivasa Acharya,
+Narahari Dasa tells the *Bhakti-ratnakara*.
+
+*Thus in the Sri Bhakti-ratnakara ends the fourteenth wave, called "The Description of Srimad Acharya's Travels to the Homes of His Disciples, and Other Events".*
+
+[^14-1]: Acharyaratna is the title of Chandrashekhara Acharya, a relative and associate of the Lord (CC Adi 10).
+[^14-2]: Jiva Gosvami's four letters (18, 22, 32, 36) are written in Sanskrit prose; in the 1960 edition they stand outside the numbering of the couplets. Sri Vrindavana-natha ("the Lord of Vrindavana") and Sri Vrindavana-chandra ("the Moon of Vrindavana," 32, 36) are Krishna.
+[^14-3]: Reading unclear (OCR): *Rasamrita-sindhu* — in the 1912/13 ed. *rasāmṛtapindha*; *Hari-namamrita* — *harināmāśvakānām*. The *Madhava-mahotsava* is Jiva's poem on the coronation of Radha as queen of Vrindavana; the *Uttara-champu* is the second part of the *Gopala-champu* (cf. 22).
+[^14-4]: Reading unclear (OCR): "[convey]" — in the 1912/13 ed. *jhacā* (understood as *vācyāḥ*, "are to be told").
+[^14-5]: Bhadra is the month of August–September; *sudi* is the bright (waxing) half of the month. The 1912/13 ed. gives no day.
+[^14-6]: Srinivasa's son, named by Jiva Gosvami (20); not to be confused with Vrindavana Dasa Thakura, the author of CB.
+[^14-7]: Reading unclear (OCR): in the 1912/13 ed. *birodī bhagavantaktaidhidāhīndriyadehayoḥ śokastathāpi kartavyo yadi śoko nivartate*, in the 1960 ed. *…bhagavastaktai-khidāhībiyadehayoḥ…*; understood as *virodhī bhagavad-bhakter vidāhī indriya-dehayoḥ śokaḥ*. The opening of the letter is also unclear (*svasti mukham idaṃ śam iha samīhitaṃ*, 1960 ed. *svasti-mukham idaṃ samīhā-samīhitaṃ*).
+[^14-8]: The *Vaishnava-toshani* is a commentary on the Tenth Canto of the *Bhagavatam*; the *Durgama-sangamani* is Jiva's commentary on the *Bhakti-rasamrita-sindhu*; the *Hari-namamrita-vyakarana* is Jiva's Sanskrit grammar, in which the rules are set out through the names of Krishna (*bhashya* and *vritti* are kinds of commentary); the *Uttara-gopala-champu* is the second part of the *Gopala-champu*.
+[^14-9]: Reading unclear (OCR): in the 1912/13 ed. *śraktvānudhyānaṃ*, in the 1960 ed. *śaratvāmudhyānaṃ*; understood as *śaśvad-anudhyānaṃ*, "constant remembrance."
+[^14-10]: The 1912/13 ed. notes a variant reading: *vidyāvān*, "learned," instead of *vidyamāna*, "now living." Vyasa Acharya is Vyasa Chakravarti, a disciple of Srinivasa (21).
+[^14-11]: The 1912/13 ed. notes that one manuscript has "Srinivasa" in place of "Sri Govinda."
+[^14-12]: *Bhakti-rasamrita-sindhu* 1.2.295: "Service [is to be rendered] in the form of a sadhaka and in the form of a siddha…". The agamas are scriptures on temple worship and ritual.
+[^14-13]: The *Gitamrita* is the collection of songs of Govinda Dasa Kaviraja; his elder brother is Ramachandra Kaviraja.
+[^14-14]: Narahari is the poet's signature.
+[^14-15]: The kumuda is the white water lily that opens in the moonlight. Srinivasa and Ramachandra, in their spiritual (siddha) forms, are present at the pastime of Radha and Krishna (cf. Jiva's letter in 14.32).
+[^14-16]: Prabhu here is apparently Srinivasa Acharya.
+[^14-17]: "Chest" — the 1912/13 and 1960 eds. have *uru* ("thigh"), understood as *ura* ("chest").
+[^14-18]: "Offers himself" is nichhani (*nichhani*). Ghanashyama Dasa is the poet's signature (the second name of Narahari Chakravarti).
+[^14-19]: Borakuli is the village where Govinda Chakravarti, a disciple of Srinivasa, lived (see 90–93); here Srinivasa installed his Deity, Sri Radha-vinoda (110–111). The 1960 edition's section heading before 89 is omitted.
+[^14-20]: Govinda Chakravarti, a disciple of Srinivasa and a skilled singer, was called "Bhavuka Chakravarti" for his ecstasies (145). "Met" follows the 1960 edition (milen); the 1912/13 edition has dilen, probably an OCR error (possibly nilen, "brought"); the reading is unclear.
+[^14-21]: Mahala is the village from which Govinda Chakravarti moved to Borakuli; the author gives no further details.
+[^14-22]: Gopiramana (in 135, Gopiramana Chakravarti) was a disciple of Hridayananda (Hridaya Chaitanya) of Ambika (Kalna).
+[^14-23]: Thakura Ramai is apparently Ramachandra (Ramai), the adopted son and disciple of Jahnava Ishvari; Balarama here is probably the Deity of Balarama whom he served. The identification is tentative.
+[^14-24]: Thakura Kanai is the son of Raghunandana of Shrikhanda; Khanda is Shrikhanda.
+[^14-25]: Yadunandana was a disciple of Gadadhara Dasa (see 134); Gaurachandra is the Deity of Mahaprabhu at Kantaka-nagara (Katwa).
+[^14-26]: Nayanananda Mishra was a Vaishnava poet, the nephew and disciple of Gadadhara Pandita.
+[^14-27]: Shyamadasa, Devi (Devidasa) and Gokula are musicians and singers of the circle of Srinivasa and Narottama; Shyamadasa and Devidasa play the mridanga (122), Gokula sings (124).
+[^14-28]: The courtyard of the Lord is the courtyard of the temple of Sri Radha-vinoda (cf. 120).
+[^14-29]: Bhavuka (bhāvuka) means "full of bhava, ecstatic."
+[^14-30]: Raghunatha is a name of Rama: this man is passed off as an incarnation of the Lord (cf. 171).
+[^14-31]: Reading unclear: কহয়ে কবীন্দ্র বঙ্গদেশেতে প্রচার (kahaye kabīndra baṅgadeśete pracāra), so in G and B; "Kavindra" ("king of poets") is apparently a nickname or title of this false teacher.
+[^14-32]: The quotation (169–175) is CB Adi-khanda 14 (on the Lord's journey through East Bengal); there Vrindavana Dasa speaks of the false incarnations of his own time.
+[^14-33]: Dine tina avasthā, "three conditions in a day": i.e. he is subject to bodily changes like any ordinary person.
+[^14-34]: A brahma-daitya is the ghost of a dead brahmana, a demon.
+[^14-35]: Śiyāla means "jackal"; a mocking echo of "Gopala."
+[^14-36]: Kadara (Kandra) is a village in Rarh (now in Purba Bardhaman district), the birthplace of the poet Jnanadasa. "শ্রীমঙ্গল জ্ঞানদাসের" is taken as two persons: Mangala Thakura and Jnanadasa, both of Kadara.
+[^14-37]: The parama-guru is the guru of one's guru.
+[^14-38]: Prasāda means "grace," and also the sanctified remnants of food; which is meant here the text does not show (cf. the letter at 185a: "has slighted my grace").
+[^14-39]: Virachandra's letter (Sanskrit prose) is in A/B and in the 1960 edition, but the 1960 edition gives it no number; the number 185a follows the sequence.
+[^14-40]: Reading unclear (OCR): G bhavadīyā vaguṃmaraṇīyaḥ, B -ndīyavaśyāmmaraṇīma; taken as bhavadīya-vaśya-smaraṇīyaḥ.
+[^14-41]: "To his sons" follows G (পুত্রে); B (OCR) has পুরে, "in the town (?)".
+[^14-42]: Gopijana-vallabha, Ramakrishna and Ramachandra are the sons of Virachandra.
+[^14-43]: A work by Narahari himself on the life of Srinivasa Acharya.
+[^14-44]: The garland of command (ājñā-mālā) is a garland from the Deity of Govinda in Vrindavana, given as a sign of command.
+[^14-45]: Reading unclear: প্রেম-নাম করি কহত ভাগবতে (prema-nāma kari kahata bhāgavate) — bhāgavate is taken as "the bhagavatas" (devotees); "in the *Bhagavata*" is also possible.
+[^14-46]: Govindadasa is the poet Govindadasa Kaviraja, a disciple of Srinivasa; this is his signature in the song.
+[^14-47]: Radha-vinoda here is the Deity of Lokanatha Gosvami in Vrindavana (not the Deity in Govinda Chakravarti's house, 156).
+[^14-48]: The six Deities of Kheturi (cf. BR 10.483): Gauranga, Vallavikanta, Vrajamohana, Krishna, Radha-kanta, Radha-ramana; "Radha-Krishna" here is Sri Krishna (with Radha).
+[^14-49]: Ramachandra is Ramachandra Kaviraja, Narottama's closest friend.
+[^14-50]: Rangavardhini is the name of a poetic metre (chhanda).
+[^14-51]: Ghanashyama is the poetic name of Narahari Chakravarti.
+
+---
+
+# Taranga 15. The Lives of Sri Shyamananda and Others
+
+*Shyamananda's letter to Srinivasa; Shyamananda in Utkala; Rasikananda (Rasika Murari): birth, dream, meeting and initiation; sankirtana at Dharenda, the conversion of the pashandas; the service of Govinda at Gopivallabhapura; the deeds of Rasikananda; the branches of Srinivasa and Narottama*
+
+**1.** Glory to Gaura, Nityananda, Advaita, Gadadhara!
+Glory, glory to Srivasa, Murari, Vakreshvara!
+
+**2.** Glory to Sri Mukunda, Gauridasa, Gadadhara![^15-1]
+Glory to Pundarika Vidyanidhi, to Shuklambara!
+
+**3.** Glory to Suryadasa, Krishnadasa, Dhananjaya!
+Glory to Narahari, Raghunandana, Vijaya!
+
+**4.** Glory to Vasu Ramananda, the abode of virtues!
+Glory to Jagadisha and Sri Shankara, full of bliss![^15-2]
+
+**5.** Glory to Kashi Mishra, Kashishvara, Karnapura!
+Glory, glory to Chakravarti Srinatha Thakura!
+
+**6.** Glory to Sri Sundarananda, to the lame Bhagavan!
+Glory to Abhirama, the lord of Malini's life!
+
+**7.** Glory to Raghunatha Bhatta, Sanatana, Rupa!
+Glory to Sri Bhugarbha and to Lokanatha, the king of bhakti!
+
+**8.** Glory to Sri Gopala Bhatta, to Raghunatha Dasa!
+Glory, glory to Sri Jiva, renowned in the world!
+
+**9.** Glory to Krishnadasa Kaviraja, full of prema!
+Glory to Vrindavana Dasa, the Vyasa of Gaura's lila!
+
+**10.** Glory to Haridasa, ever intoxicated with prema for the Name!
+Glory to the ocean of mercy, Sri Acharya Srinivasa!
+
+**11.** Glory, glory to Narottama, glory to Ramachandra!
+Glory, glory to Shyamananda, the giver of the jewel of bhakti!
+
+**12.** Glory, glory to the listeners, the abode of virtues!
+Now listen with kind hearts to what I shall tell.
+
+**13.** One day Sri Acharya, to his own companions,[^15-3]
+greatly delighted, tells of Shyamananda's deeds.
+
+**14.** At that time two disciples of Sri Shyamananda
+came with a letter to the Acharya's home.
+
+**15.** They gave Sri Shyamananda's letter to the Acharya;
+reading the letter, the Acharya rejoiced in his heart.
+
+**16.** He showed great affection to Sri Shyamananda's disciples;
+writing a letter with his news, he soon sent [them back].
+
+**17.** Reading the letter, Shyamananda was overwhelmed with joy.
+Beautiful and spotless is the life of Sri Shyamananda.
+
+**18.** Earlier I briefly told what Shyamananda's way was;
+now I shall tell a little of how he delivered living beings.
+
+**19.** Earlier, having come from Vraja to Sri Gauda-mandala,
+he went by way of Ambika and swiftly set out for Utkala.
+
+**20.** Having made prema-bhakti manifest in his birthplace, the village of Dandeshvara-Dharenda,
+he goes on to Rayani.
+
+**21.** In Mallabhum there is a village named Rayani;
+beside the village is a river named the Suvarnarekha.[^15-4]
+
+**22.** There the Suvarnarekha flows northward;
+it destroys the great sins of all living beings.
+
+**23.** Near Rayani is a village named Barayita;
+nearby is a lovely spot on the bank of the Dolanga river.[^15-5]
+
+**24.** In Barayita Rama, the son of Dasharatha,
+installed Shiva named Rameshvara.
+
+**25.** Ramachandra, with Janaki and Lakshmana, happily
+stayed [there] some days, delighting in wandering through the forest.
+
+**26.** The ruler of that land is named Achyuta;
+he delights in caring for his subjects, and his ways are very pure.
+
+**27.** In the village of Rayani the son of Achyuta is renowned;
+he has two names, Sri Rasikananda and Sri Murari.
+
+**28.** Among the people he is known by the name Rasika Murari;
+from a young age he has been learned in all the shastras.
+
+**29.** He is supremely diligent in serving his mother and father;
+his mother, named Bhavani, is a wife wholly devoted to her husband.
+
+**30.** Murari's wife is Ichchha, endowed with virtues.
+For some time [he] lived in the village of Ghantashila.[^15-6]
+
+**31.** Ghantashila is on the bank of the Suvarnarekha;
+there the Pandavas rested during their life in the forest.
+
+**32.** One day Murari, sitting there in solitude,
+ponders in his heart where he will become a disciple.
+
+**33.** A voice came from the sky: "Do not worry:
+here you will become a disciple of Sri Shyamananda."
+
+**34.** Hearing this, Rasika Murari rejoiced
+and began to chant the mantra of Shyamananda's name.
+
+**35.** Moment by moment his longing grows beyond measure;
+at the name of Prabhu Shyamananda streams [of tears] flow from his eyes.
+
+**36.** Murari passed almost the whole night in agitation;
+at the close of the night a little sleep overcame him.
+
+**37.** In a dream Murari sees Shyamananda-deva:
+supremely wonderful is the beauty of every limb of his body.
+
+**38.** Smiling, Sri Shyamananda says to Murari:
+"When the night is over, at dawn you will find me here."
+
+**39.** Saying this, Shyamananda vanished from sight;
+great bliss arose in Rasikananda's heart.
+
+**40.** The most wise Sri Rasika, at daybreak,
+saying nothing to anyone, watches the road.
+
+**41.** Not far off Shyamananda comes joyfully,
+with his disciples, Sri Kishoradasa and others, all around him.
+
+**42.** His body, full of beauty, shines like the sun;
+his face is smiling, his broad chest captivates the heart.
+
+**43.** Taking the names of Sri Krishna Chaitanya and Nityananda,
+he walks, overwhelmed with prema, swaying, swaying.
+
+**44.** Rasika Murari, seeing Prabhu Shyamananda,
+fell to the ground in great bliss, touching his feet.
+
+**45.** Shyamananda, with joy in his heart, embraced him
+and drenched Rasika with the tears of his own eyes.
+
+**46.** Sri Rasikananda considers himself blessed;
+he gave his eyes over to the beauty of his own master.
+
+**47.** Shyamananda showed mercy to Murari:
+in great joy he gave him initiation into the mantra of Radha and Krishna.
+
+**48.** With a joyful heart, having made Sri Rasikananda his disciple,
+he entrusted him to the feet of Nityananda and Chaitanya.
+
+**49.** Rasika Murari was overwhelmed with prema;
+tears ceaselessly stream from his eyes.
+
+**50.** He brought his own master to the village of Rayani
+and was immersed in the ocean of the happiness of sankirtana.
+
+**51.** Such is Sri Rasika Murari's devotion to his guru —
+how could I have the power to tell it with one mouth?
+
+**52.** Shyamananda tested Murari;
+seeing Murari's conduct, he was filled with great joy.
+
+**53.** Shyamananda, staying there for some time,
+made bhakti manifest and made many disciples.
+
+**54.** Shyamananda departs from Rayani,
+surrounded on all sides by his dearest [companions].
+
+**55.** There was a certain practitioner of yoga named Damodara;
+showing him mercy, he immersed him in bhakti-rasa.
+
+**56.** Having become a disciple of Sri Shyamananda, Damodara
+ceaselessly weeps, saying, "Nitai, Chaitanya!"
+
+**57.** Seeing that rapture of prema, who could keep his composure?
+Crying, "Bhakti is above all!", he dances.[^15-7]
+
+**58.** Shyamananda-deva, having delivered Damodara,
+wanders everywhere, distributing the jewel of bhakti.
+
+**59.** The prema-bhakti that merciful Shyamananda
+made manifest in Balarampura cannot be told.
+
+**60.** Together with Kishora, Murari, Damodara and others[^15-8]
+he held a great, great festival in the village of Dharenda.
+
+**61.** Seeing Shyamananda, many people of the village,
+overwhelmed with joy, forget great sorrow and grief.
+
+**62.** Shyamananda made disciples in place after place;
+who would not be purified [even] by their names?
+
+**63.** Radhananda, Sri Purushottama, Manohara,
+Chintamani, Balabhadra, Sri Jagadishvara,
+
+**64.** Uddhava, Akrura, Madhuvana, Sri Govinda,[^15-9]
+Jagannatha, Gadadhara, Sri Anandananda —
+
+**65.** with his disciples, Sri Radhamohana and others,
+he always floats on the waves of the happiness of sankirtana.
+
+**66.** The great and wondrous pastimes of Sri Shyamananda
+the poets describe, to the delight of all.
+
+**67.** *Thus [it is said] in a song (raga Velavali):*
+Glory, glory to Shyamananda, full of joy!
+Ceaselessly immersed in the rasa of prema for Gaura,
+his body glistens with fresh thrills of bliss.
+
+**68.** He laments over the many deeds of Shyama and Gaura;[^15-10]
+the sweet beauty of his face steals one's very life.
+Hearing of the virtues of the incomparable Lord's associates,
+his lovely lotus eyes stream, stream [with tears].
+
+**69.** His heart overflows unceasingly; with thick drops of sweat
+his bright tilaka trickles down.
+A wondrous dance in the sweetest kirtana;
+on his chest the tulasi garland gently sways.
+
+**70.** Most sweet is the singing; he sways [his head] in approval;
+his arms curve gracefully, his hands are restless and lovely.
+With the soles of his feet he keeps the tala in so many ways —
+ah, ah! — Ghanashyama Dasa offers himself [for this].[^15-11]
+
+**71.** In the village of Dharenda, Shyamananda with his companions
+one day became greatly intoxicated in sankirtana.
+
+**72.** Mridangas and karatalas sound charmingly;
+Sri Kishora and the other associates sing songs.
+
+**73.** From the very start, singing the qualities of Gaura and Nityananda,
+the Vaishnavas became intoxicated and cannot keep their composure.
+
+**74.** From everyone's eyes streams of tears flow ceaselessly;
+all roll on the ground, grey with dust.
+
+**75.** Thakura Shyamananda dances in the sankirtana;
+the demigods rejoice to see those movements.
+
+**76.** The pashanda asuras, seeing that dance,
+are overwhelmed with prema and weep, rolling on the ground.
+
+**77.** "Prabhu Shyamananda, deliver [us] this time!" —
+saying this, they fall at [his] feet again and again.
+
+**78.** Looking at them all with a merciful glance, Shyamananda
+plunged [them] into the ocean of the rasa of prema-bhakti.
+
+**79.** Thousands upon thousands of people come running, vying with one another;
+there is nothing to compare with the joy of sankirtana.
+
+**80.** Before Shyamananda's qualities no one can keep composure;
+such festive play he revealed in Sri Nrisimhapura.
+
+**81.** In Sri Gopivallabhapura he poured down a rain of prema;
+the service of Sri Govinda he entrusted to Sri Rasika.[^15-12]
+
+**82.** The great power of Rasikananda became known everywhere;
+in his mercy he delivered robbers and pashandas.
+
+**83.** In his mercy he gave the jewel of bhakti to the yavanas;
+from village to village he wandered with his disciples.
+
+**84.** The elephant that a wicked man set upon him — he made it a disciple
+and engaged it in the service of Krishna and the Vaishnavas.[^15-13]
+
+**85.** That wicked yavana king bowed down [before him];
+heedless of home, how many beings he delivered![^15-14]
+
+**86.** Sri Rasikananda is ever intoxicated with sankirtana;
+who is not overwhelmed by the songs of his qualities?
+
+**87.** *Thus [it is said] in a song (raga Velavali):*
+Glory, glory to Rasika, Murari the true rasika!
+Compassionate, destroyer of the stains of Kali,
+whose pure qualities steal people's hearts. (Refrain.)
+
+**88.** Of mighty power, worthy of worship, most wondrous,
+revealer of bhakti, giver of happiness, most steadfast.
+Brimming with prema, bright like gold,
+his exceedingly graceful body shines.
+
+**89.** His heart meditates on Shyamananda's feet;
+every moment he drinks the rasa of sankirtana.
+All his rasa is Gaurachandra; apart from Him — what shall I say? —
+even in dreams he knows no other.
+
+**90.** His wondrous fame shines in the three worlds;
+in the poems of the best poets it is known as peerless.
+His life is wholly magnanimous and beautiful; even a little of it
+the fallen Ghanashyama cannot understand.
+
+**91.** There is no end to the deeds of Sri Rasikananda;
+he is ever overwhelmed by the qualities of Prabhu Shyamananda.
+
+**92.** Who is not charmed by the qualities of Sri Shyamananda?
+In various ways [poets] sing of his life.
+
+**93.** *Thus [it is said] in a song (raga Kamoda):*
+O friend of my life, Shyamananda, ocean of happiness,
+ever overwhelmed by Gora's qualities!
+Leaving home far behind, joyfully, to Ambikapura
+he came, to the house of [his] Prabhu.[^15-15]
+
+**94.** Seeing Hridaya Chaitanya, his eyes pour ceaseless tears,
+and he falls to the ground, rolling.
+Placing those feet on his head, surrendering himself,
+he remains standing to one side.
+
+**95.** Seeing Shyamananda's ways, the Thakura, with affection,
+kept him near and made him a disciple.
+Showing great favour, teaching him the ways of bhakti,
+he entrusted him to Nitai and Chaitanya.[^15-16]
+
+**96.** After some days, as [he] was being sent to Vrajapura,
+Shyamananda grew agitated.
+Prabhu Nitai and Chaitanya blessed Shyamananda:
+at his departure They gave [him] a garland as a sign of permission.
+
+**97.** Shyamananda walks along the road, floating in tears,
+remembering the qualities of [his] Prabhu.
+Alone, after some days he entered the land of Vraja,
+having wandered through many tirthas.
+
+**98.** Seeing Sri Vrindaranya, he considers himself blessed;
+in bliss he cannot stay steady.
+Drenched with tears, he rolls on the ground;
+his body is full of abundant thrills of joy.
+
+**99.** Going to Giri-Govardhana, he did what was in his heart;
+coming to the bank of Sri Radha-kunda,
+he was overwhelmed with prema; seeing [him], favour was shown him
+by Sri Dasa Gosani, a treasury of virtues.
+
+**100.** He went to Sri Jiva and told him who he was;
+he showed him mercy with fatherly affection.
+Whatever desire [he] had was, as it were, fulfilled
+through the mercy of Hridaya Chaitanya.
+
+**101.** He wandered the twelve forests, studied the books,
+and became very skilled in service.
+By way of Sri Gauda and Ambika he went and settled in Utkala
+by the order of the Gosvamis.
+
+**102.** The pashanda asuras he intoxicated with Gora's qualities —
+to whom did he not give bhakti?
+The lowly float in bliss by a particle of Shyamananda's mercy —
+who did not attain deliverance?
+
+**103.** Who will know his true nature? He is ever intoxicated with sankirtana;
+his glory is known on earth.
+With his own associates he delights in supreme joy;
+in Utkala there is no limit to happiness.
+
+**104.** Whoever sees him even once cannot keep his composure —
+how charming is that form!
+Narahari says: will Rasikananda's Prabhu
+ever come before these eyes?
+
+**105.** *Again, raga Suhai:*
+Glory! The qualities of Sri Duhkhini Krishnadasa —
+who has the power to tell them?
+At the lotus feet of Hridaya Chaitanya ever
+[abides] the bee of his mind.[^15-17]
+
+**106.** He who in Vrindavana, in a fresh grove,
+found Rai's anklet —
+there the name Shyamananda became known; his
+fine life — who will understand it?[^15-18]
+
+**107.** Those in Utkala of utterly dull mind
+who had not a trace of bhakti —
+all of them he set afloat in the rasa of Gaura-prema
+and made [that] land fruitful.
+
+**108.** My Shyamananda sorrows at others' sorrow,
+Rasikananda's Prabhu.
+What can I say of the mercy of him who never
+abandons the lowly Narahari?
+
+**109.** This life of Shyamananda I have told in brief;
+because of the book's length I could not describe it in detail.
+
+**110.** Shyamananda blessed Utkala and other lands;
+hearing [of it], everyone in Gauda rejoiced.
+
+**111.** In Gauda the dear ones of Srinivasa and Narottama
+are supremely skilled in bestowing the jewel of bhakti.
+
+**112.** [All this] spread ever on through the branches and sub-branches of both;
+I shall tell a little — that which, when heard, soothes the heart.
+
+**113.** The dearest disciple of Srinivasa Acharya
+is Ramachandra Kaviraja, peerless in qualities.
+
+**114.** Sri Ramachandra's disciple is Harirama Acharya;
+all his extraordinary deeds are known everywhere.[^15-19]
+
+**115.** Distributing the prema-bhakti of Sri Krishna Chaitanya,
+he joyfully destroys the sins of living beings.
+
+**116.** In sankirtana he is ever supremely overwhelmed;
+poets sing of that charming life.
+
+**117.** *Thus [it is said] in a song (raga Pauravi):*
+Glory, glory to Sri Harirama, the best of acharyas,
+whose wondrous life steals the heart!
+His qualities are bright; he crushes calamity and pride;
+his sweet form increases joy.
+
+**118.** He conquers the invincible asuras averse to the Lord's feet;
+his fame is proclaimed in the world.
+Supremely steadfast, he steals the composure of the steady;
+compassionate of mind, he is exceedingly generous.
+
+**119.** Every moment he is mad with the fullness of Gaura-prema;
+his gait is powerful, putting to shame a maddened king of elephants.
+Greedy for the rasa of sankirtana, skilled in serving the Vaishnavas —
+who can tell the limit of [his] happiness?
+
+**120.** His exposition of the *Srimad-Bhagavatam* and other books
+is a peerless stream of the nectar of prema.
+Sri Sri Krishna-raya is his life; what shall I tell
+of [his] boundless qualities?[^15-20]
+
+**121.** Sri Narottama's disciple is Ramakrishna Acharya,
+a supreme pandita, greatly rich in bhakti.[^15-21]
+
+**122.** He is very loving to the poor, the lowly and the destitute;
+he refutes the doctrines of the pashandas — this is known everywhere.[^15-22]
+
+**123.** He constantly relishes the rasa of sankirtana;
+who does not sing of that charming life?
+
+**124.** *Thus [it is said] in a song (raga Gauri):*
+Glory, glory to Ramakrishna Acharya, the steadfast,
+the high-minded, giver of happiness, the generous!
+Ever absorbed in bhava, greedy for kirtana,
+exceedingly skilled in preaching.
+
+**125.** Full of happiness, he delights the minds of rasikas
+and dispels the darkness of a mass of sufferings.
+Ornament of the brahmana clan, adorned with a host of virtues,
+best of panditas, he takes away the pride of the evil-tongued.
+
+**126.** The service of the beautiful Deity of Sri Mohana-raya
+is his constant, chief occupation.
+Wondrous is his attachment; day and night he rejoices,
+drinking the nectar of Gaurachandra's deeds.
+
+**127.** Supremely merciful; the two feet of Narottama
+are his all — he knows nothing else.
+Who will understand his ways? His lovely fame
+Narahari sings and deems himself blessed.
+
+**128.** Sri Thakura Narottama is the purifier of the fallen;
+his disciple is Ganganarayana Chakravarti.[^15-23]
+
+**129.** Ganganarayana is exceedingly learned;
+refuting the doctrines of the pashandas, he reveals bhakti.
+
+**130.** Day and night he is intoxicated, drinking the nectar of sankirtana;
+poets, floating in happiness, sing of that life.
+
+**131.** *Thus [it is said] in a song (raga Gauri):*
+Glory, glory to Sri Ganganarayana Chakravarti, most steady and profound!
+The sweetness of his excellent complexion steals composure; peerless,
+most tender and lovely is his body.
+
+**132.** Ever greedy for the rasa of sankirtana,
+devoted to graceful dance, lost in prema;
+intent on worshipping the lotus feet of Srila Narottama —
+the light of the world.
+
+**133.** His mind is immersed in drinking the nectar of Sri Chaitanyachandra's deeds;
+he is ever generous.
+The charming Deity of Sri Govinda is his life,
+his wealth, the support of his very breath.
+
+**134.** Supremely merciful, friend of the lowly,
+mighty in power, he takes away the darkness of sufferings.
+There is no power to describe his most wondrous fame — renowned,
+giving joy to the servant Narahari.
+
+**135.** Thus all the branches and sub-branches of the two,
+in their mercy, destroy the misfortunes of living beings.
+
+**136.** What do I know of telling [their] qualities, the supreme elixir?
+The fortunate will describe [them] at length.
+
+**137.** Meditating on the feet of Srinivasa Acharya,
+Narahari Dasa tells the *Bhakti-ratnakara*.
+
+*Thus in the Sri Bhakti-ratnakara ends the fifteenth wave, called "The Description of the Lives of Sri Shyamananda and Others".*
+
+[^15-1]: The Gadadhara in 1 is Gadadhara Pandita; the second Gadadhara here is apparently Gadadhara Dasa.
+[^15-2]: The original has "শ্রীশঙ্করানন্দময়" (śrī-śaṅkarānandamaya): taken as "Sri Shankara" + "full of bliss"; a reading as the name "Shankarananda" is also possible.
+[^15-3]: Sri Acharya is Srinivasa Acharya.
+[^15-4]: Rayani (রয়নী; today apparently Rohini in Jhargram district, West Bengal) is Rasikananda's native village. The Suvarnarekha is a river flowing through Jharkhand, West Bengal and Orissa to the Bay of Bengal.
+[^15-5]: Reading unclear (OCR): the village name is A, G "বারায়িত" (bārāyita), B "বারাক্মিত"; the river name is A, B "ডেলঙ্গন্দী", G "ভোলদন্দী", taken as "ডোলঙ্গ নদী" (ḍolaṅga nadī), "the Dolanga river." The location has not been identified.
+[^15-6]: Ghantashila (G ঘণ্টাশিলা, A, B ঘণ্টশিলা) is apparently present-day Ghatshila on the Suvarnarekha (Jharkhand), associated with a legend of the Pandavas.
+[^15-7]: So in G ("সর্বশ্রেষ্ঠ ভক্তি", sarvaśreṣṭha bhakti); B has "সর্বশ্রেষ্ঠ শক্তি" (sarvaśreṣṭha śakti, "the highest power"), probably an OCR error; A is missing from the working text. Reading unclear (OCR), to be checked against the scan.
+[^15-8]: Kishora is Kishoradasa (41), a disciple of Shyamananda; Murari is Rasikananda.
+[^15-9]: Madhuvana here is the name of one of Shyamananda's disciples.
+[^15-10]: Reading unclear (OCR): the line in B is "শ্যামর গৌর চরিত চয় বিলপত" (śyāmara gaura carita caya bilapata); the 1960 edition's text of 67–68 is lost in the OCR. The translation is conjectural. In the next line "পহু পরি কর" is taken as pahu-parikara, "the Lord's associates."
+[^15-11]: Stanza 70 is the last stanza of the song 67–70. Ghanashyama is the poet's signature (bhanita), the second name of Narahari Chakravarti (cf. 90). "Offers himself" renders *nichhani*, the same as nirmanchhana.
+[^15-12]: Gopivallabhapura is a village on the Suvarnarekha river (now in Jhargram district, West Bengal), the chief place of Rasikananda's service; Sri Govinda is the Deity he served there.
+[^15-13]: According to tradition, a Muslim ruler set a wild elephant upon Rasikananda; Rasikananda tamed it and initiated it, and the elephant served the Vaishnavas.
+[^15-14]: *Nā gaṇilā ghara*, lit. "he took no account of home": apparently Rasikananda wandered without thought of home; the sense is not quite clear.
+[^15-15]: Ambikapura is Ambika (Kalna); the Prabhu is Hridaya Chaitanya, Shyamananda's guru (94).
+[^15-16]: Nitai and Chaitanya are the Deities at Ambika served by Gauridasa Pandita and then by Hridaya Chaitanya (see taranga 8).
+[^15-17]: Duhkhini Krishnadasa is Shyamananda's former name.
+[^15-18]: According to tradition, Shyamananda found Sri Radha's anklet (nupura) in one of the groves of Vrindavana; tradition connects this event with his name "Shyamananda" and with the distinctive tilaka of his followers.
+[^15-19]: Harirama Acharya and Ramakrishna Acharya (121) were brahmana brothers; according to NV, Narottama and Ramachandra Kaviraja converted them, and Harirama became Ramachandra's disciple, Ramakrishna Narottama's.
+[^15-20]: Krishna-raya is apparently the Deity served by Harirama. The stanza is translated from B: in G (W) only its beginning survives ("শ্রীমদ্ভাগবতাদিক গ্রন্থ-কথন"). Reading unclear (OCR): the end of the stanza in B is "bhaṇaba ki FEC gani apāra", probably *bhaṇaba ki guṇagaṇa apāra*, "what shall I tell of the boundless qualities".
+[^15-21]: Reading unclear (OCR): B has "bhakti' mahā-ādhya", probably *bhakti-mahāḍhya*, "greatly rich in bhakti"; G for 121–123 is not in W.
+[^15-22]: Reading unclear (OCR): B has "…ye pāṣaṇḍa-mata", the beginning of the verb is lost; probably *khaṇḍaye*, "refutes" (cf. 129).
+[^15-23]: Ganganarayana Chakravarti was a learned brahmana, one of Narottama's closest disciples; NV tells of him.
