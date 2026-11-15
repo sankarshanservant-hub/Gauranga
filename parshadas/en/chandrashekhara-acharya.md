@@ -125,7 +125,7 @@ recalls it in two verses:
 
 It began when the Lord revealed to the devotees His wish to present the pastimes of Vraja. He called Sadashiva Pandita
 and Buddhimanta Khan and told them to prepare the costumes, indicating who was to wear what (CB, Madhya 18.7).
-Buddhimanta Khan carried it all out and dressed the Lord himself, and the Lord, pleased with his service, was
+Buddhimanta Khan carried it all out and brought the attire to the Lord (CB, Madhya 18.16), and the Lord, pleased with his service, was
 especially merciful to him[^6]. <!-- F17 Q10 -->
 
 Seeing the costumes, the Lord announced that He would dance in the form of Lakshmi, but that only one who had conquered

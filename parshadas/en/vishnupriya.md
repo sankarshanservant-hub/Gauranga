@@ -132,7 +132,7 @@ The wedding ceremonies fell on the following day. Towards evening the devotees a
 oils, a crescent of sandal on His forehead, a crown, garlands, garments, collyrium on His eyes, on His wrist a thread with
 rice and kusha grass, in His hand a banana leaf and a little mirror, golden earrings, bracelets and chains. Before setting
 out Gaurasundara bowed at the feet of His mother, the brahmanas and His teacher. The palanquin for the groom was prepared
-by Buddhimanta Khan, and his foot soldiers and servants walked behind it. First the Lord was carried to the Ganga; He
+by Buddhimanta Khan, and his foot soldiers walked at the head of the procession (CB, Adi 15.145). First the Lord was carried to the Ganga; He
 bathed and honoured Ganga Devi, and then, after midday, the groom in His palanquin was borne along the riverbank through
 the whole of Navadvipa to the bride's house. From every side rang out “Jaya! Jaya!” and the women's ulu-dhvani. Hundreds
 and thousands of torches and lamps lit the procession, fireworks soared and a rain of flowers fell; banners were carried,
