@@ -35,7 +35,7 @@ service his extraordinary strength found its use.[^3] <!-- F2 Q1 -->
 
 Elsewhere in the same list Karnapura writes: “Sri Kashishvara Gosvami is the former Shashirekha in Vraja”
 (“Gaura-ganoddesha-dipika” 166). One of the biographies gives this as the opinion of some, while Srila Bhaktisiddhanta,
-comparing the two verses, writes with caution: he who in Vrindavana was Krishna's servant Bhringara, or she who was
+comparing the two verses, writes with caution: he who in Vrindavana served Krishna as Bhringara, or she who was
 Shashirekha, is Kashishvara in Gaura's avatara — and adds a question mark. The “Prema-vilasa” (18.27–28) names him and
 Krishnadasa — apparently Krishna Pandita — as the manjaris Keli-kala and Kunkuma. We follow verse 137.[^4] <!-- F3 F4 -->
 
@@ -81,7 +81,7 @@ served Ishvara Puri together with him. Krishnadasa Kaviraja writes, listing the 
 “Brahmachari Kashishvara was a disciple of Ishvara Puri, and Sri Govinda was his dear follower. At the time of his
 departure both received his order, came to Nilachala and met the Lord.” (CC, Adi 10.138–139)[^7]
 
-Both served their guru as long as he remained in this world, and received much mercy from him. Before his departure
+Both served their guru as long as he remained in this world, and Kashishvara was blessed with his abundant mercy. Before his departure
 Ishvara Puri told them: when he was gone, they should go to Nilachala and serve Sri Chaitanya Himself. Srila
 Bhaktivinoda Thakura writes the same in the “Amrita-pravaha-bhashya”: on their guru's order they came to Mahaprabhu in
 Nilachala. The “Prema-vilasa” says that Ishvara Puri entrusted Kashishvara to Sri Krishna Chaitanya, and the Lord wove
@@ -148,8 +148,7 @@ and behind came Govinda, carrying a water pot.” (CC, Madhya 12.206–207)[^9]
 
 So too Kavi Karnapura sees the Lord's procession in the drama “Chaitanya-chandrodaya”: “Ahead, Kashishvara, parting the
 throngs of people; behind, Govinda, guarding His playful gait; on either side, Puri-ishvara and Svarupa — so will
-Gaurachandra go to the festival of the eyes” (10.41). One of the biographies says that Kashishvara was appointed to
-protect the Lord from the crowd. <!-- F21 Q5 -->
+Gaurachandra go to the festival of the eyes” (10.41). One of the biographies says that Kashishvara was given the duty of shielding the Lord from the crowd. <!-- F21 Q5 -->
 
 At the Ratha-yatra, when the Lord danced before Jagannatha's chariot, three rings of devotees surrounded Him:
 
@@ -193,7 +192,7 @@ meet them. Vrindavana Dasa names him in a long list of those who went: “Kashis
 Pradyumna Mishra…” (CB, Antya 8.56–61); so does Murari Gupta: “Sri Kashishvara Gosvami and Bhagavan Pandita; Srila
 Pradyumna Mishra…” (4.17.19).[^12] <!-- F25 -->
 
-The Lord's servants ate with Him when He was invited to a meal. Hence, Kaviraja relates, “to invite the Lord for a meal
+At times the Lord's servants ate with Him when He was invited to a meal. Hence, Kaviraja relates, “to invite the Lord for a meal
 cost four panas of cowries, for sometimes Kashishvara and Govinda ate as well, three persons in all” (CC, Antya 8.38).
 Srila Bhaktisiddhanta, in a subheading of the “Anubhashya,” calls them here the disciples of Sri Ishvara Puri. And when
 Ramachandra Puri reproached the Lord for eating much and Mahaprabhu began to eat only half a meal, He took care of His
@@ -232,7 +231,7 @@ disciple of Ishvara Puri, the sources do not say outright.[^14] <!-- F33 F34 -->
 
 ## Gaura-Govinda
 When Sri Rupa Gosvami revealed Sri Govindadeva in Vrindavana and opened His service, he informed Mahaprabhu by letter.
-Having read the letter, the Lord could not contain His joy and told Kashishvara to go quickly from Puri to Vrindavana —
+Having read the letter, the Lord could not contain His joy and told Kashishvara to leave Puri without delay for Vrindavana —
 to Rupa and Sanatana, to help them. The “Bhakti-ratnakara” relates:
 
 “The Lord says to Kashishvara in private: ‘You will have to go to Vrindavana.’” (“Bhakti-ratnakara” 2.438) <!-- F35 -->
@@ -297,15 +296,14 @@ Vaishnavas of Vrindavana bade him write the “Charitamrita,” says:
 (CC, Adi 8.66)
 
 One of the biographies calls Govinda Gosvami the pujari of Sri Govinda and adds a second disciple — Yadava
-Acharya. The “Prema-vilasa” says that Kashishvara had a disciple, a brahmana resident of Vraja named Bhaktakashi, and
+Acharya; the “Bhakti-ratnakara,” too, names both (13.323, see below). The “Prema-vilasa” says that Kashishvara had a disciple, a brahmana resident of Vraja named Bhaktakashi, and
 that Govinda Gosani and Yadava Acharya, two brahmana youths from Gauda, left home and took shelter at his feet (18.23–25;
-25.498).[^18] <!-- F43 Q13 -->
+25.498).[^18] <!-- F43 Q13 F54 -->
 
 ## Departure
 According to our calendar, that of the Sri Chaitanya Saraswat Math, the day of Srila Kashishvara Pandita's departure is
 Gaura Chaturdashi of the month of Damodara (in 2026, 23 November), the same day as Bhugarbha Gosvami's; the biographies,
-too, name the shukla-chaturdashi of the month of Kartika.[^19] The year of his departure the sources do not give, nor do
-they say where his samadhi is. <!-- F45 -->
+too, name the shukla-chaturdashi of the month of Kartika.[^19] The year of his departure the sources do not give. <!-- F45 -->
 
 He left this world soon after the Lord's disappearance and before Shrinivasa came to Vraja. According to the
 “Bhakti-ratnakara,” on the way to Vrindavana Shrinivasa heard from brahmanas walking the same road:
@@ -323,26 +321,52 @@ Sanatana had disappeared, he wept, rolling in the dust, and cried out: “Kashis
 that night all four appeared to him in a dream and consoled him (2.188–196). It also says that when Kashishvara Gosvami
 disappeared, Sri Krishna Pandita took up the service of Govinda's feet (2.243). <!-- F47 F48 -->
 
+His samadhi is in Vrindavana. When Shrinivasa, Narottama and Shyamananda took leave of Vrindavana to return to Gauda,
+they “saw the samadhi of Kashishvara Gosvami and bowed down, rolling in the dust,” and Narahari Chakravarti exclaims: “Who
+can tell the glory of Kashishvara, who brought Sri Gaura-Govinda to Vrindavana and seated Him at Govinda's right! Seeing
+the beauty of the Two, the heart overflows. Sri Chaitanya, won over by Sri Kashishvara's love, came in the form of the Sri
+Vigraha to the western land” (“Bhakti-ratnakara” 6.444–447). He then cites a verse of the “Sadhana-dipika”: “I bow to the
+illustrious Kashishvara, out of love for whom Chaitanyadeva Himself mercifully came to the western land” (6.448) — and
+adds: “Kashishvara, dear to the Lord, is known throughout the world; Sri Rupa and Sri Sanatana are absorbed in his
+virtues” (6.449). It was seen also by Ramachandra
+Kaviraja (9.204) and by Jahnava Ishvari, who, as she left Vrindavana, wept at the samadhis of the four — “Raghunatha Bhatta, Pandita Kashishvara, Gosvami Sri Sanatana and the wise Rupa”
+(11.257–258). <!-- F52 F53 -->
+
 One of the biographies writes that when Virachandra, Nityananda's son, came to Vrindavana, Jiva, Krishnadasa Kaviraja
 and others met him on the road, and among them “Kashishvara with his disciples Govinda Gosvami and Yadava Acharya.” This
-does not agree with the “Bhakti-ratnakara”: Kashishvara left before Shrinivasa came, and Virachandra came later.
-<!-- F49 -->
+seems to be a reading of the “Bhakti-ratnakara” on Virachandra's welcome: “Kashishvara Gosani, who is known everywhere,
+with whom Sri Krishna Pandita is in close friendship; the disciples of Kashishvara Gosani, great aryas, Govinda Gosani and
+Sri Yadavacharya; Govinda, Yadavacharya and all the others went in great joy” (13.322–324). It is the disciples who go to
+meet him; Kashishvara is named in order to name them: according to the “Bhakti-ratnakara” he had left this world before
+Shrinivasa came, and Virachandra came later. <!-- F49 F54 -->
 
 But the Lord's eternal associate is never parted from Him. When at Kheturi, at Narottama's great festival, Mahaprabhu
 appeared with His associates during the kirtana, Kashishvara was among them: “Sanatana, Rupa, Raghunatha, Kashishvara —
-countless associates of Sri Prabhu danced” (“Narottama-vilasa” 7.121).[^21] <!-- F50 -->
+countless associates of Sri Prabhu danced” (“Narottama-vilasa” 7.121). The “Bhakti-ratnakara,” too, names him among the
+dancers in that kirtana: “…Jagadisha, Sri Yadunandana, Kashishvara; Sri Raghunatha Bhatta dances, Rupa-Sanatana”
+(10.595–596).[^21] <!-- F50 -->
 
 ## In Lists and Vandanas
 Kashishvara's name stands in many lists of the Lord's associates. Lochana Dasa names him among those who descended with
 the Lord (Sutra-khanda 8.628); the “Bhakti-ratnakara” and the “Narottama-vilasa” glorify him in vandanas and lists. The
 “Vaishnava-vandanas” remember him more than once: the vandana ascribed to Jiva Gosvami names him beside Garuda and
 Jagadisha and among the Vrindavana devotees; Devakinandana — as “Kashishvara Gosani, especially renowned in
-Mathura-mandala”; another vandana — as “the wise Kashishvara, whom all call the renowned ‘Bhakta.’” <!-- F51 -->
+Mathura-mandala”; another vandana — as “the wise Kashishvara, whom all call the renowned ‘Bhakta.’” His name is found also in the pada of
+Narahari that concludes the “Bhakti-ratnakara” — beside Vallabha, Sanatana, Sadashiva and Vishvarupa — and in
+Shrinivasa's dream of Navadvipa, where he is among the associates surrounding Gaurachandra (“Bhakti-ratnakara” 12.4057).
+<!-- F51 -->
+
+He is remembered beyond Bengal as well. In the “Bhaktamal” of Nabhadasa (about 1600), among the saints who became “a
+support for carrying [souls] across the current of worldly existence,” “Kashishvara Avadhuta” is named (96), and Priyadasa
+(1712) explains: “Sri Gosai Kashishvara was formerly the best of avadhutas; having come to love Nilachala, he lived
+[there]… Receiving the order of Mahaprabhu Krishna Chaitanya, he came [to Vrindavana]; he saw Vrindavana and loved it with
+all his heart. He received the right to serve Govinda-chandra, the rasika; he longs only for His lotus face, the life of
+his life” (398). <!-- F55 -->
 
 ## Significance
 Kashishvara Pandita is Krishna's eternal servant Bhringara, who came into Gaura's pastimes together with Govinda. His
 extraordinary strength was wholly given to service: he walked ahead of the Lord, parting the crowd so that no one should
-touch Mahaprabhu's body; he served mahaprasada to the Vaishnavas; and he stood in the second ring around the dancing
+touch Mahaprabhu's body; he served mahaprasada to the Vaishnavas; and he was one of the second ring around the dancing
 Lord at the Ratha-yatra. A Vaishnava's strength is of value only in that it serves the Lord. <!-- F2 F20 I1 -->
 
 In his coming to the Lord, Mahaprabhu showed how to honour the guru: He accepted His guru's servants, whom He revered as
@@ -364,7 +388,7 @@ biographies call Kashishvara's glory boundless. <!-- F44 I4 -->
 [^2]: Karnapura speaks of him twice in the “Gaura-ganoddesha-dipika” — among the servants (137) and among the Vrindavana
     devotees (166) — as if of two persons; but Srila Bhaktisiddhanta's question mark concerns only who he is in Krishna's
     lila, not whether Kashishvara of Puri and Kashishvara of Vrindavana are one man.
-[^3]: Some biographies add that Bhringara and Bhangura carried water from the Yamuna for Krishna (one of them citing
+[^3]: Some biographies add that Bhringara and Bhangura brought Krishna water from the Yamuna (one of them citing
     Karnapura). Verse 137 says only “servants” (*cheta*); those who prepared the water are Payoda and Varida, now Ramai
     and Nandai (verse 139).
 [^4]: According to verse 73, Shashirekha “by a distinction of her own manifestation” entered into Vakreshvara Pandita.
@@ -377,7 +401,7 @@ biographies call Kashishvara's glory boundless. <!-- F44 I4 -->
 [^7]: Literally the Bengali verse 138 says: “The disciple of Ishvara Puri is Brahmachari Kashishvara; Sri Govinda by name
     is his dear attendant.” That both were disciples of Ishvara Puri is written by Srila Bhaktivinoda Thakura in the
     “Amrita-pravaha-bhashya”; so too hold the biographies and the “Anubhashya.”
-[^8]: One of the biographies writes that Govinda and Kashishvara came to the Lord together, after His southern journey;
+[^8]: One of the biographies writes that the two reached the Lord together, after His southern journey;
     another paraphrases Adi 10.139: “both went.” We follow the “Charitamrita” (Madhya 10.134, 10.185): Govinda came at
     once, and Kashishvara later, after visiting the holy places.
 [^9]: One of the biographies quotes this verse without a reference and without the line about Kashishvara.
@@ -404,13 +428,14 @@ biographies call Kashishvara's glory boundless. <!-- F44 I4 -->
 [^17]: One of the biographies ascribes the second verse to the “Hari-bhakti-vilasa” and takes Krishnadasa to be Krishnadasa
     Kaviraja. But Sanatana speaks of the Krishnadasa of Vrindavana, his contemporary; Kaviraja wrote later.
 [^18]: The line of the “Prema-vilasa” is ambiguous: at whose feet Govinda Gosani and Yadava Acharya took shelter —
-    Bhaktakashi's or Kashishvara's — is not clear. According to the “Charitamrita” (Adi 8.67), Yadavacharya Gosani is an
-    associate of Rupa; it does not call him Kashishvara's disciple. We follow the “Charitamrita”: Kashishvara's disciple is
-    Govinda Gosani.
+    Bhaktakashi's or Kashishvara's — is not clear; the “Bhakti-ratnakara” (13.323) plainly calls both Kashishvara's
+    disciples. According to the “Charitamrita” (Adi 8.67), Yadavacharya Gosani is an
+    associate of Rupa; it does not call him Kashishvara's disciple, and whether this is the same Yadavacharya the sources
+    do not say.
 [^19]: Two biographies also give another opinion — the rasa-purnima of Radha-Krishna in the month of Ashvina; a third names
     only the full moon of Ashvina, the festival of the maha-rasa of Radha-Govinda. The day of Kashishvara's appearance is
     found neither in the biographies nor in our calendar.
 [^20]: The “Anuraga-valli” (4.100) says only that Shrinivasa came to Vrindavana when Kashishvara had already disappeared,
     without specifying that this was soon after the Lord's disappearance.
-[^21]: One of the biographies gives a reference here to the “Bhakti-ratnakara” (10.572); there Kashishvara's name does
-    not appear at that place, whereas in the “Narottama-vilasa” it does.
+[^21]: One of the biographies gives a reference here to the “Bhakti-ratnakara” (10.572); in the numbering of the Gaudiya
+    Mission edition this is 10.595.
