@@ -2750,7 +2750,7 @@
 - cb (A): Мадхья 28, 102–131 — [102–131](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L518-L657) · `cb-2073`
 - cb (A): Мадхья 28, 132–168 — [132–168](../chaitanya-bhagavata/ed/CB_Madhya28.md?plain=1#L662-L842) · `cb-2074`
 - cc (A): Ади 17.272–273 — [272–273](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi17.md?plain=1#L2741-L2751) · `cc-0285`
-- chaitanya-chandrodaya (A): Акт 4, рассказ Ачарьяратны, ст. 41–42 — [**Ачарья-ратна.** Ах, только ради этого –> он не помнит и самого себя, — ах, увы,](../chaitanya-chandrodaya/ru/04.md?plain=1#L479-L499) · `ccd-0038`
+- chaitanya-chandrodaya (A): Акт 4, рассказ Ачарьяратны, ст. 41–42 — [**Ачарья-ратна.** Ах, только ради этого –> Он не помнит и Самого Себя, — ах, увы,](../chaitanya-chandrodaya/ru/04.md?plain=1#L479-L499) · `ccd-0038`
 - gaura-krishnodaya (B): Сарга 6, 18–22 — [18–22](../gaura-krishnodaya/ru/06.md?plain=1#L43-L51) · `gkd-0057`
 - govinda-karcha (D): Часть 2, 242–276 — [242–276](../govinda-kadacha/ru/02.md?plain=1#L86-L194) · `gkr-0012`
 - jayananda-cm (C): Санньяса-кханда: «Описание Катоа» (цитаты; рукопись № 544, л. 65) — [49:1–2:15](../jayananda/ru/05-quotes.md?plain=1#L811-L853); [1–4–12:5](../jayananda/ru/06-manuscripts.md?plain=1#L555-L557) · `jcm-0061`
@@ -2833,7 +2833,7 @@
 - murari-kcc (A): Пракрама 3, сарга 1, шлоки 8–9 — [8–9](../murari-gupta/ru/3.01.md?plain=1#L19-L21) · `mkc-0132`
 - advaita-prakasha (D): Гл. 15, 20–37 — [20. Однажды Го–37. Затем к Ад](../advaita-prakash/15.md?plain=1#L24-L41) · `apr-0079`
 - cb (A): Антья 1, 33–50 — [33–50](../chaitanya-bhagavata/ed/CB_Antya01.md?plain=1#L176-L261) · `cb-3004`
-- chaitanya-chandrodaya (A): Акт 4, весть Ачарьяратны, ст. 35–43 — [*(Затем входит Ачарья-ратна.)*–Ачарья! Расскажи всё с самого начала.](../chaitanya-chandrodaya/ru/04.md?plain=1#L422-L477); [**Адвайта.** А ты почему не пошёл за ним–*Так заканчивается четвёртый акт «Шри Ча](../chaitanya-chandrodaya/ru/04.md?plain=1#L501-L514) · `ccd-0037`
+- chaitanya-chandrodaya (A): Акт 4, весть Ачарьяратны, ст. 35–43 — [*(Затем входит Ачарья-ратна.)*–Ачарья! Расскажи всё с самого начала.](../chaitanya-chandrodaya/ru/04.md?plain=1#L422-L477); [**Адвайта.** А ты почему не пошёл за Ним–*Так заканчивается четвёртый акт «Шри Ча](../chaitanya-chandrodaya/ru/04.md?plain=1#L501-L514) · `ccd-0037`
 - jayananda-cm (C): Санньяса-кханда: «Скорбь после санньясы; плач Вишнуприи» (цитаты) — [54:1–5:12](../jayananda/ru/05-quotes.md?plain=1#L942-L969) · `jcm-0064`
 - lochana-cm (B): Мадхья-кханда, «Прибытие Господа в Шантипур», 1–14 — [1–14](../lochana/ru/41.md?plain=1#L11-L50) · `lcm-0187`
 - murari-kcc (A): Пракрама 3, сарга 4, шлока 1 — [1–1](../murari-gupta/ru/3.04.md?plain=1#L5-L5) · `mkc-0143`

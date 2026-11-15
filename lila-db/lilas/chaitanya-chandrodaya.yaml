@@ -752,7 +752,7 @@
   event: ev-navadvipa-lament-after-sannyasa
   verses:
     - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "*(Затем входит Ачарья-ратна.)*", to_text: "Ачарья! Расскажи всё с самого начала."}
-    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Адвайта.** А ты почему не пошёл за ним", to_text: "*Так заканчивается четвёртый акт «Шри Ча"}
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Адвайта.** А ты почему не пошёл за Ним", to_text: "*Так заканчивается четвёртый акт «Шри Ча"}
 
 - id: ccd-0038
   source: chaitanya-chandrodaya
@@ -774,7 +774,7 @@
   scriptures: ["Бхаг. 11.14.3"]
   event: ev-sannyasa-katwa
   verses:
-    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Ачарья-ратна.** Ах, только ради этого ", to_text: "> он не помнит и самого себя, — ах, увы,"}
+    - {file: "chaitanya-chandrodaya/ru/04.md", from_text: "**Ачарья-ратна.** Ах, только ради этого ", to_text: "> Он не помнит и Самого Себя, — ах, увы,"}
 
 - id: ccd-0039
   source: chaitanya-chandrodaya
