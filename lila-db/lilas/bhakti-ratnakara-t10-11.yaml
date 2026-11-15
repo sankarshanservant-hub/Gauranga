@@ -1,0 +1,374 @@
+# «Бхакти-ратнакара» Нарахари Чакраварти (Гханашьямы Даса) — тараги 10 и 11.
+# Записи в порядке изложения; id brt-5001…brt-5999. Формат — lila-db/README.md.
+
+- id: brt-5001
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 1–3"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 96.6
+  title: "Мангала десятой таранги"
+  summary: "Слава Гаурасундаре, Нитьянанде, Адвайте, всем преданным и слушателям; призыв слушать."
+  persons: ["@mahaprabhu", "@nityananda", "@advaita"]
+  places: []
+  kind: author
+  authority: B
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "1", to: "3"}
+
+- id: brt-5002
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 4–8"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 96.7
+  title: "Шриниваса в Яджиграме раздаёт книги Госвами; его ученики изучают книги о бхакти"
+  summary: "Вернувшись из Шрикханды в Яджиграм, Шриниваса дарует достойным книги Госвами и громогласно провозглашает превосходство бхакти, так что противники бхакти смиряются; ученики, сведущие во всех шастрах, непрестанно изучают книги о бхакти."
+  persons: ["@srinivasa-acharya"]
+  places: ["#yajigrama"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 9 (nvl-0056)"
+  themes: [learning, teaching]
+  teaching: [bhakti-supremacy, scripture]
+  event: ev-srinivasa-daily-bhajana-yajigrama
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "4", to: "8"}
+
+- id: brt-5003
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 9–24"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 103
+  title: "Шриниваса посылает Гокулананду и Шридаса в Канчанагарию готовить праздник в день ухода их отца"
+  summary: "Решив посвятить Гокулананду и Шридаса, Шриниваса рассказывает им: в разлуке с Нарахари Саркаром и Дасом Гададхарой он поспешил во Вриндаван, где в прошлую магху, в экадаши тёмной половины, сокрылся их отец Харидас Ачарья; Госвами утешили его и отослали в Гауду; он велит братьям поскорее готовить почитание дня ухода Ачарьи и обещает прийти; Рамачандра провожает их, братья приходят в Канчанагарию."
+  persons: ["@srinivasa-acharya", "@gokulananda", "@shridasa-chakravarti", "@dvija-haridasa", "@narahari-sarakara", "@gadadhara-dasa", "@ramachandra-kaviraja"]
+  places: ["#yajigrama", "#kanchanagaria", "#vrindavana"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0038: второй путь Шринивасы во Вриндаван после ухода Нарахари и Даса Гададхары)"
+  notes: "Второе путешествие Шринивасы во Вриндаван — ev-srinivasa-second-vrindavana (подробно — БР 9)."
+  calendar: "магха, тёмная половина, экадаши (день ухода Харидаса Ачарьи)"
+  themes: [festival, departure, separation]
+  event: ev-kanchanagaria-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "9", to: "24"}
+
+- id: brt-5004
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 25–51"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 96.55
+  title: "Приготовления в Канчанагарии; рассказ очевидца о Харидасе Ачарье: разлука с Господом, уход во Вриндаван и сокрытие"
+  summary: "Жители Канчанагарии готовят припасы и жилища; один из них объясняет другому: Харидас Ачарья, ветвь древа Махапрабху, после сокрытия Господа в Нилачале хотел оставить тело, но по воле Господа успокоился; велел сыновьям принять посвящение у Шринивасы, ночью один ушёл во Вриндаван, жил там в уединении, встретил Шринивасу и вновь просил его посвятить сыновей; в прошлую магху он сокрылся — Шриниваса узнал об этом в пути, и Харидас утешил его во сне; в экадаши, день ухода Ачарьи, Шриниваса посвятит его сыновей."
+  persons: ["@dvija-haridasa", "@gokulananda", "@shridasa-chakravarti", "@srinivasa-acharya", "@mahaprabhu"]
+  places: ["#kanchanagaria", "#vrindavana", "#puri"]
+  kind: post-advent
+  authority: B
+  parallels: "БР 1.484–491 (brt-0026: велит сыновьям принять посвящение у Шринивасы)"
+  notes: "Сокрытие Махапрабху и уход Харидаса названы прямо: «Махапрабху скрылся из виду в Нилачале» (33), Харидас «сокрылся» (42)."
+  calendar: "магха, тёмная половина, экадаши"
+  themes: [departure, separation, revelation]
+  event: ev-dvija-haridasa-departure
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "25", to: "51"}
+
+- id: brt-5005
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 52–91"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 103.1
+  title: "Шриниваса приходит в Канчанагарию; беседа жителей о соблюдении экадаши вайшнавами"
+  summary: "С кличами «Хари!» люди бегут на даршан Шринивасы; братья вводят его в дом, отовсюду сходятся вайшнавы; один житель печалится, что гости уйдут послезавтра, другой объясняет: в экадаши вайшнавы не принимают ни пищи, ни воды, поэтому угощение в честь ушедшего будет в двадаши — Кришне поднесут яства, прасад — Харидасу Ачарье; праздник продлится четыре дня; в дашами братья поют санкиртану."
+  persons: ["@srinivasa-acharya", "@gokulananda", "@shridasa-chakravarti", "@ramachandra-kaviraja", "@dvija-haridasa"]
+  places: ["#kanchanagaria"]
+  kind: teaching
+  authority: B
+  calendar: "магха, тёмная половина, дашами–двадаши"
+  themes: [festival, teaching, kirtan]
+  teaching: [purity, prasada-teaching]
+  event: ev-kanchanagaria-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "52", to: "91"}
+
+- id: brt-5006
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 92–97"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 103.2
+  title: "Посвящение Гокулананды и Шридаса в экадаши"
+  summary: "В святой день экадаши Шриниваса по чудесному обряду даёт обоим братьям мантру Радхи-Кришны и вверяет их стопам Радхи-Кришны и Чайтаньи; братья падают к его стопам в слезах блаженства, все возглашают «Хари!»; день проходит в святых беседах и киртане."
+  persons: ["@srinivasa-acharya", "@gokulananda", "@shridasa-chakravarti", "@radha", "@krishna", "@mahaprabhu"]
+  places: ["#kanchanagaria"]
+  kind: post-advent
+  authority: B
+  parallels: "БР 1.484–491 (brt-0026)"
+  calendar: "магха, тёмная половина, экадаши"
+  themes: [teaching, mercy]
+  teaching: [vaishnava]
+  event: ev-gokulananda-shridasa-disciples
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "92", to: "97"}
+
+- id: brt-5007
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 98–129"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 103.3
+  title: "Праздник в двадаши: бхога Кришне, прасад Харидасу Ачарье, угощение вайшнавов и санкиртана"
+  summary: "В двадаши братья готовят яства, Шриниваса подносит бхогу Кришне, затем в уединении — прасад Харидасу Ачарье; вайшнавов рассаживают рядами, бесчисленные люди вкушают махапрасад, ученики доедают остатки с тарелки гуру; после трапезы — санкиртана днём и ночью; через четыре-пять дней вайшнавы расходятся, Шриниваса ещё несколько дней утешает братьев."
+  persons: ["@srinivasa-acharya", "@gokulananda", "@shridasa-chakravarti", "@dvija-haridasa", "@krishna"]
+  places: ["#kanchanagaria"]
+  kind: post-advent
+  authority: B
+  calendar: "магха, тёмная половина, двадаши"
+  themes: [festival, prasada, kirtan]
+  teaching: [prasada-teaching]
+  event: ev-kanchanagaria-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "98", to: "129"}
+
+- id: brt-5008
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 130–146"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.5
+  title: "Тоскуя по Нароттаме, Шриниваса с учениками идёт в Кхетури через Будхари; перечень учеников"
+  summary: "Без Нароттамы Шриниваса не находит покоя и с опытными учениками выходит из Канчанагарии в Кхетури через Будхари; автор называет учеников: Рамачандра Кавираджа, Шридас, Гокулананда, Кришнавальлабха из Деули, Вьяса Ачарья Чакраварти, Валлавиканта, Нрисимха и Нараяна, Карнапура, Бхагаван Кавираджа, Гокула из Панчакуты, Рамакришна, Кумуда, шурины Шьямадас и Рамачаран, Рупа Гхатак, Гопала Дас; весть о пути уже разнеслась."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@shridasa-chakravarti", "@gokulananda", "@krishnavallabha", "@vyasa-acharya", "@nrisimha-kaviraja", "@karnapura-kaviraja", "@bhagavan-kaviraja", "@shyamadasa-chakravarti", "@ramacharana-chakravarti", "@govinda-kaviraja"]
+  places: ["#kanchanagaria", "#teliya-budhari", "#kheturi", "#panchakota", "#yajigrama"]
+  kind: post-advent
+  authority: B
+  notes: "Чтение части имён (138–140: Рупа, Ниму, Вира, Бхаумалая; «эти шестеро») неясно (сноски перевода 16–18)."
+  themes: [pilgrimage, separation]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "130", to: "146"}
+
+- id: brt-5009
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 147–165"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.51
+  title: "Вестник из Будхари; встреча Шринивасы в Телии Будхари"
+  summary: "Житель Будхари, встретив Шринивасу в пути, рассказывает: Говинда, младший брат Рамачандры, поселился в Будхари и ждёт его; весть о возвращении Шринивасы из Вриндавана через Вишнупур, Яджиграм, Катву, Кханду и Канчанагарию разошлась повсюду; вернувшись, он объявляет о приходе Ачарьи; Говинда и жители встречают его благими обрядами и размещают."
+  persons: ["@srinivasa-acharya", "@govinda-kaviraja", "@ramachandra-kaviraja"]
+  places: ["#teliya-budhari", "#vana-vishnupura", "#yajigrama", "#katwa", "#shrikhanda", "#kanchanagaria"]
+  kind: post-advent
+  authority: B
+  themes: [pilgrimage, festival]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "147", to: "165"}
+
+- id: brt-5010
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 166–175"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.52
+  title: "Посвящение Говинды в Будхари по просьбе Рамачандры"
+  summary: "Говинда в слезах просит старшего брата Рамачандру вверить его стопам Ачарьи; Рамачандра рассказывает Шринивасе, что у брата на сердце, и Шриниваса с радостью даёт Говинде мантру Радхи-Кришны; братья вместе служат Ачарье."
+  persons: ["@govinda-kaviraja", "@ramachandra-kaviraja", "@srinivasa-acharya", "@radha", "@krishna"]
+  places: ["#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 14 (pvl-0097)"
+  divergence: "В «Према-виласе» посвящению предшествуют болезнь Говинды и повеление Богини помнить Говинду; здесь он просит о посвящении через брата при приходе Шринивасы в Будхари, перед праздником в Кхетури."
+  themes: [mercy, teaching]
+  teaching: [vaishnava]
+  event: ev-govinda-kaviraja-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "166", to: "175"}
+
+- id: brt-5011
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 176–192"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.53
+  title: "Брахман Дургадас из Кхетури приносит Шринивасе вести о Нароттаме"
+  summary: "Шриниваса думает, как известить Нароттаму, и тут приходит брахман Дургадас из Кхетури, которого Нароттама вытащил из мирского; он рассказывает: вернувшись из Нилачалы, Нароттама сокрушил учения пашандов, опьянил падших достоинствами Чайтаньи, Нитьянанды и Адвайты, создал пять Божеств Кришны с Радхой и обрёл Божество Гауры с Его возлюбленной."
+  persons: ["@srinivasa-acharya", "@durgadasa-kheturi", "@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gaura-vishnupriya-kheturi"]
+  places: ["#teliya-budhari", "#kheturi", "#puri"]
+  kind: post-advent
+  authority: B
+  themes: [mercy, deities]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "176", to: "192"}
+
+- id: brt-5012
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 193–206"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104
+  title: "Божество Гауры с возлюбленной из амбара Випрадаса; Сантоша Датта строит храм"
+  summary: "В амбар Випрадаса близ Гопалпура никто не входит из-за змей; Нароттама на рассвете приходит туда, открывает дверь — змеи исчезают, и Гаурасундара с возлюбленной у всех на глазах приходит к нему в объятия; Нароттама приносит Божество домой, начинается санкиртана; его ученик Сантоша Датта строит храм и трон и готовит великое празднество (рассказ Дургадаса)."
+  persons: ["@narottama-dasa", "@vipradasa", "@gaura-vishnupriya-kheturi", "@santosha-datta", "@durgadasa-kheturi"]
+  places: ["#gopalapura", "#kheturi"]
+  kind: miracle
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0036); «Према-виласа» 19 (pvl-0150)"
+  divergence: "В «Према-виласе» Господь во сне открывает, что Сам изваял Свой образ до санньясы и спрятал в амбаре; в «Нароттама-виласе» Нароттама идёт по сну, имя хозяина не названо; здесь Нароттама идёт без объяснения причин («не знаю, что пришло на ум»), хозяин — Випрадас."
+  notes: "Возлюбленная Гауры не названа (сноска 23 перевода)."
+  themes: [deities, celestial]
+  event: ev-kheturi-six-deities
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "193", to: "206"}
+
+- id: brt-5013
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 207–223"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.54
+  title: "Весть о приходе Нароттамы; ночь Рамачандры в мыслях о Нароттаме"
+  summary: "Дургадас передаёт: Нароттама ждёт Шринивасу и завтра придёт, переправившись через Падмавати; Шриниваса оказывает Дургадасу милость и прославляет Нароттаму; жители Будхари ждут утра; Рамачандра, услышав имя Нароттамы, не может уснуть — тело покрывается мурашками, и он размышляет о его достоинствах."
+  persons: ["@durgadasa-kheturi", "@narottama-dasa", "@srinivasa-acharya", "@ramachandra-kaviraja"]
+  places: ["#teliya-budhari", "#padmavati"]
+  kind: post-advent
+  authority: B
+  themes: [ecstasy, separation]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "207", to: "223"}
+
+- id: brt-5014
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 224–238"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.6
+  title: "Гаура является Рамачандре во сне: «Ты и Нароттама Мне дороги»"
+  summary: "Под видом сна Рамачандре является Гаурасундара во всей красоте, обнимает его и говорит: «По Моей воле ты не знаешь самого себя; ты и Нароттама Мне дороги, увидев друг друга, вы вспомните прежнее и будете дарить Мою према-бхакти, избавляя живых существ от трёх видов страданий»; Господь скрывается, Рамачандра плачет; Господь утешает его и под видом сна извещает об этом Шринивасу."
+  persons: ["@ramachandra-kaviraja", "@mahaprabhu", "@narottama-dasa", "@srinivasa-acharya"]
+  places: ["#teliya-budhari"]
+  kind: vision
+  authority: B
+  notes: "«Вспомните прежнее» — по-видимому, их вечные отношения (ср. 10.250–251: при встрече Рамачандра вспоминает прежнее)."
+  themes: [revelation, mercy]
+  teaching: [associates-tattva]
+  event: ev-ramachandra-dream-gaura
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "224", to: "238"}
+
+- id: brt-5015
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 239–261"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.55
+  title: "Нароттама приходит в Будхари: встреча со Шринивасой и Рамачандрой; праздник назначен на пхалгуна-пурниму"
+  summary: "Утром весть о приходе Нароттамы из-за Падмавати; Шриниваса выходит навстречу, обнимает его и не может отпустить, знакомит со Шридасом и другими; Рамачандра, взглянув на Нароттаму, теряет самообладание, вспомнив прежнее; наедине Нароттама рассказывает, что по велению Господа служит Божествам, вайшнавам и санкиртане, Божества и храм готовы, и просит Шринивасу возвести Божества на трон в пхалгуна-пурниму; Шриниваса рассказывает о своей свадьбе и пути во Вриндаван."
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@ramachandra-kaviraja", "@shridasa-chakravarti"]
+  places: ["#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0039); «Према-виласа» 14 (pvl-0099: встреча в Будхари перед первым праздником)"
+  calendar: "пхалгуна, пурнима (назначенный день праздника)"
+  themes: [ecstasy, deities, festival]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "239", to: "261"}
+
+- id: brt-5016
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 262–283"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.56
+  title: "Господь во сне велит Шринивасе разослать приглашения; письма во все края"
+  summary: "Шриниваса тревожится, придут ли спутники Махапрабху в Кхетури; Господь, не вынося тревоги преданного, во сне велит скорее разослать письма: придя, все увидят Его дивную игру; наутро Рамачандра и другие пишут приглашения, их разносят пятнадцать человек в Навадвипу и другие места, гонец идёт к Шьямананде в Уткалу; весть о празднике в пхалгуна-пурниму расходится по Телии, Будхари, Бахадурпуру; в доме Рамачандры — непрестанный киртан."
+  persons: ["@srinivasa-acharya", "@mahaprabhu", "@ramachandra-kaviraja", "@narottama-dasa", "@shyamananda"]
+  places: ["#teliya-budhari", "#navadvipa", "#bahadurpura"]
+  kind: vision
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0039: рассылка приглашений)"
+  notes: "Число гонцов (15) — по изд. 1960 г.; чтение изд. 1912/13 неясно (сноска 30 перевода)."
+  calendar: "пхалгуна, пурнима (назначенный день праздника)"
+  themes: [revelation, festival, kirtan]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "262", to: "283"}
+
+- id: brt-5017
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 284–291"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.57
+  title: "Пение Гокулы и Девидаса; Шриниваса вверяет Рамачандру Нароттаме и отсылает их в Кхетури"
+  summary: "Шриниваса упоён пением учеников Нароттамы Гокулы и Девидаса; однажды наедине он что-то говорит Нароттаме и вверяет ему дорогого Рамачандру; Нароттама с Рамачандрой и несколькими спутниками переправляется через Падмавати в Кхетури, Шриниваса обещает скоро прийти."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@gokula-kirtaniya", "@devidasa-kirtaniya"]
+  places: ["#teliya-budhari", "#padmavati", "#kheturi"]
+  kind: post-advent
+  authority: B
+  themes: [kirtan, mercy]
+  event: ev-kheturi-festival-invitations
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "284", to: "291"}
+
+- id: brt-5018
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 292–298"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.7
+  title: "Шриниваса велит Говинде воспевать игры Чайтаньи и даёт ему имя «Кавираджа»"
+  summary: "Говинда день и ночь служит Ачарье; Шриниваса велит ему описывать игры Шри Кришны Чайтаньи, и тот слагает прозу, стихи и песни; обрадованный, Шриниваса даёт ему имя «Кавираджа» и велит Шридасу и другим петь его песни."
+  persons: ["@govinda-kaviraja", "@srinivasa-acharya", "@mahaprabhu", "@shridasa-chakravarti"]
+  places: ["#teliya-budhari"]
+  kind: post-advent
+  authority: B
+  parallels: "«Према-виласа» 14 (pvl-0098: Шринивас велит Говинде описывать лилы); БР 11.145–148 (Госвами прославляют его как Кавираджу)"
+  themes: [learning, mercy, kirtan]
+  event: ev-govinda-kaviraja-title
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "292", to: "298"}
+
+- id: brt-5019
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 299–330"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.8
+  title: "Вамшидас Чакраварти из Бахадурпура: даршан Ачарьи, сон и посвящение"
+  summary: "Юный Вамшидас, младший брат Шьямадаса из Бахадурпура, привязанный к Чайтанье и играм Радхи-Кришны, не знает, у кого принять посвящение; увидев Шринивасу в доме Говинды, он уходит в слезах; ночью Шриниваса является ему во сне, обнимает, говорит, что остался в Будхари ради них, обещает утром посвятить и взять в Кхетури и возлагает стопу ему на голову; утром Вамшидас приводит Ачарью в свой дом и получает мантру Радхи и Кришны; ещё несколько человек получают милость."
+  persons: ["@vamshidasa-chakravarti", "@shyamadasa-bahadurpur", "@srinivasa-acharya", "@govinda-kaviraja", "@mahaprabhu", "@radha", "@krishna"]
+  places: ["#bahadurpura", "#teliya-budhari"]
+  kind: vision
+  authority: B
+  themes: [mercy, revelation]
+  teaching: [vaishnava]
+  event: ev-vamshidasa-chakravarti-initiation
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "299", to: "330"}
+
+- id: brt-5020
+  source: bhakti-ratnakara
+  ref: "Таранга 10, 331–350"
+  file: "bhakti-ratnakara/ru/10.md"
+  period: P15
+  order: 104.9
+  title: "Шриниваса в Кхетури: встреча, Сантоша Датта, даршан Гауры и пяти Божеств"
+  summary: "Переправившись через Падмавати, Шриниваса извещает Кхетури; Нароттама с Рамачандрой выходит навстречу, Сантоша Датта представляет себя и своих людей; Нароттама ведёт Ачарью в уединённое жилище, Сантоша приставляет слуг (игра слов: Ачарья исполнен «сантоши» — довольства); Шриниваса видит Божество Гауры с возлюбленной и пять Божеств и все приготовления к празднику."
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@ramachandra-kaviraja", "@santosha-datta", "@gaura-vishnupriya-kheturi", "@krishna", "@radha"]
+  places: ["#padmavati", "#kheturi"]
+  kind: post-advent
+  authority: B
+  parallels: "«Нароттама-виласа» 6 (nvl-0040)"
+  divergence: "В «Нароттама-виласе» Гауранга — с Лакшми и Вишнуприей; здесь возлюбленная Гауры не названа."
+  themes: [deities, festival]
+  event: ev-kheturi-festival
+  verses:
+    - {file: "bhakti-ratnakara/ru/10.md", from: "331", to: "350"}
