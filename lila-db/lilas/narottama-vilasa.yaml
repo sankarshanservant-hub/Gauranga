@@ -207,7 +207,7 @@
   order: 70.5
   title: "Сон Нароттамы: Гаура велит идти к Локанатхе; киртан в Навадвипе; Нитьянанда дарует прему"
   summary: "Во сне Гаура являет Свою красоту и велит идти во Вриндаван, к Локанатхе; во втором сне — санкиртана Гауры со спутниками на берегу Ганги, боги сыплют цветы; Гаура вручает Нароттаму Нитьянанде и Адвайте, Нитьянанда дарует ему прему Гауранги, все благословляют его во Вриндаван."
-  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@svarupa-damodara", "@narahari-sarakara", "@haridasa-thakura", "@vakreshvara", "@mukunda-datta", "@murari-gupta"]
+  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@svarupa-damodara", "@narahari-sarakara", "@haridasa-thakura", "@vakreshvara", "@mukunda-datta", "@murari-gupta", "@mahesha-pandita"]
   places: ["#kheturi", "#navadvipa"]
   kind: vision
   authority: B
@@ -517,7 +517,7 @@
   order: 88.9
   title: "Сон Нароттамы: киртан Гауры со всеми спутниками перед колесницей Джаганнатхи; повеление идти в Гауду"
   summary: "Во сне Нароттама видит Господа со спутниками всех краёв, пляшущих перед колесницей; Господь берёт его за руки: он явит неземное пение, в его киртане Господь будет плясать, Его сокровенное желание явится в пении; велит идти в Гауду, предсказывает дружбу с Рамачандрой, сыном Чиранджива Сены; Джаганнатха на мангала-арати даёт гирлянду-позволение; Гопинатхе Ачарье тоже было повеление во сне; спутники в Пури прощаются с ним."
-  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@haridasa-thakura", "@ramananda-raya", "@sarvabhauma", "@svarupa-damodara", "@prataparudra", "@jagannatha-deity", "@ramachandra-kaviraja", "@chiranjiva-sena", "@gopinatha-acharya", "@shikhi-mahiti", "@shyamananda"]
+  persons: ["@narottama-dasa", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@haridasa-thakura", "@ramananda-raya", "@sarvabhauma", "@svarupa-damodara", "@prataparudra", "@jagannatha-deity", "@ramachandra-kaviraja", "@chiranjiva-sena", "@gopinatha-acharya", "@shikhi-mahiti", "@shyamananda", "@mahesha-pandita"]
   places: ["#puri"]
   kind: vision
   authority: B
@@ -780,7 +780,7 @@
   order: 105.1
   title: "Санкиртана Нароттамы в Кхетури: Гаура со всеми спутниками является и пляшет"
   summary: "Нароттама с Девидасом, Гаурангой Дасом, Гокулой, Валлабхой начинает киртан (шлока Вишванатхи); боги сыплют цветы, маханты признают в нём сокровищницу пения, вверенную Господом; Гаура, Нитьянанда, Адвайта, Шриваса, Гададхара и бесчисленные спутники, явленные и неявленные, становятся видимы всем и пляшут вместе с Ачьютанандой, Нароттамой, Шринивасой и другими, проливая прему; затем исчезают — общий плач, пашанди обращаются; Джахнава утешает Шринивасу и Нароттаму."
-  persons: ["@narottama-dasa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@murari-gupta", "@svarupa-damodara", "@haridasa-thakura", "@vakreshvara", "@narahari-sarakara", "@gauridasa-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@achyutananda", "@raghunandana", "@jahnava", "@ramachandra-kaviraja", "@shyamananda"]
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@srivasa", "@murari-gupta", "@svarupa-damodara", "@haridasa-thakura", "@vakreshvara", "@narahari-sarakara", "@gauridasa-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@achyutananda", "@raghunandana", "@jahnava", "@ramachandra-kaviraja", "@shyamananda", "@mahesha-pandita"]
   places: ["#kheturi"]
   kind: vision
   authority: B

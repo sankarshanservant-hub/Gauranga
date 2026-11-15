@@ -2774,7 +2774,7 @@
   order: 840
   title: "Ветви древа: Шанкараранья, Шринатха Пандит, Джаганнатха Ачарья (поселился у Ганги) и перечень спутников"
   summary: "Шанкараранья — ветвь древа Ачарьи, его веточки — Мукунда, Кашинатха и Рудра; Шринатха Пандит получил милость Господа — его служение Кришне покоряет три мира; Джаганнатха Ачарья по велению Господа поселился у Ганги; далее — перечень: Кришнадас Вайдья, Пандит Шекхара, Кавичандра, певец Шаштхивара, Шринатха Мишра, Шубхананда, Шрирама, Ишана, Шринидхи, Шри Гопиканта, Мишра Бхагаван, Субуддхи Мишра, Хридаянанда, Камаланаяна, Махеша Пандит, Шрикара, Шри Мадхусудана, Пурушоттама, Шри Галима, Джаганнатха Дас, Шри Чандрашекхара Вайдья, брахман Харидас, Рамадас, Кавидатта, Шри Гопала Дас, Бхагаватачарья, Тхакур Саранга Дас, Джаганнатха Тиртха, брахман Шри Джанакинатха, Гопала Ачарья, брахман Ванинатха."
-  persons: ["@shankararanya", "@jagannatha-acharya-ganga", "@kavichandra", "@shrinatha-mishra", "@subuddhi-mishra", "@dvija-haridasa", "@bhagavatacharya", "@saranga-thakura", "@jagannatha-tirtha", "@mahaprabhu"]
+  persons: ["@shankararanya", "@jagannatha-acharya-ganga", "@kavichandra", "@shrinatha-mishra", "@subuddhi-mishra", "@dvija-haridasa", "@bhagavatacharya", "@saranga-thakura", "@jagannatha-tirtha", "@mahaprabhu", "@mahesha-pandita"]
   places: ["#ganga"]
   kind: teaching
   authority: A
