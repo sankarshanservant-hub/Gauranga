@@ -88,7 +88,7 @@
   places: ["#navadvipa", "#house-jagannatha-mishra"]
   kind: lila
   authority: B
-  notes: "Путь самого шествия к дому кази Ишана показывает позже — 12.3087–3146 (brt-7091, brt-7092)."
+  notes: "Путь самого шествия к дому кази Ишана показывает позже — 12.3087–3146 (brt-7083, brt-7084)."
   themes: [kirtan, muslims]
   event: ev-nagara-kirtana-kazi
   verses:
@@ -1257,3 +1257,509 @@
   event: ev-shuklambara-mercy
   verses:
     - {file: "bhakti-ratnakara/ru/12.md", from: "2754", to: "2757"}
+
+- id: brt-7071
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2758–2800"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 80.1
+  title: "Киртан по городу; пляска Господа у дома Санджаи"
+  summary: "Позабавившись у Шриваса, Господь, придя домой, отправляется с любимыми спутниками обходить город в санкиртане (пады Девакири, Мегха, Бхупати, Ната-нараяна); медленно идёт этой дорогой; у дома Санджаи, дорогого Господу, пляшет с дивными движениями (пады Ната, Нати, Малавашри, Варати Нарахари): плачет, обнимает падших, катается в пыли."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  notes: "Какой Санджая имеется в виду (2778), не уточнено."
+  themes: [kirtan, ecstasy, mercy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2758", to: "2800"}
+
+- id: brt-7072
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2801–2879"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 133.7
+  title: "Женщины Надии о Гауре на берегу Ганги: пады Ядунанданы Чакраварти и других"
+  summary: "Пробыв данду под деревом, Господь идёт берегом Ганги, и полные любви женщины тихо говорят друг другу о Нём; пады Ядунанданы Чакраварти, ученика Гададхары Даса, Девакинанданы и Нарахари: Гаура катается в пыли, держит руку Гададхары Даса, зовёт «Радха!», плачет на коленях у Гадаи; «разве ты не знаешь — Гора и есть нагара Гокулы»."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-dasa", "@gadadhara-pandita", "@yadunandana-chakravarti", "@narahari-chakravarti"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  notes: "Девакинандана — поэт пады 2829; тег не ставится."
+  themes: [revelation, ecstasy]
+  bhava: [radha, krishna]
+  event: ev-nagari-bhava-padas
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2801", to: "2879"}
+
+- id: brt-7073
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2880–2899"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 80.2
+  title: "Гаура пляшет на берегу Сурадхуни, держа Гададхару за руку"
+  summary: "На берегу Ганги Гаура радостно резвится, похищая самообладание горожан; пады (Сома, Мегха, Дханашри, Гаури): Он танцует с сотнями спутников, не разбирая своих и чужих, раздаёт прему, смотрит на Гададхару и берёт его за руку; затем со спутниками возвращается домой."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: [kirtan, ecstasy]
+  bhava: [radha]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2880", to: "2899"}
+
+- id: brt-7074
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2900–2930"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 135
+  title: "Действо в доме Чандрашекхары: Господь танцует в роли Рукмини, Лакшми и Парвати"
+  summary: "Садашива и Буддхиманта Кхан готовят наряды; Шачи с невесткой и семьи Шриваса и других приходят смотреть; Мукунда начинает киртан, Адвайта и другие по воле Господа становятся владыками йоги; Господь в роли Рукмини неузнаваем (пада Шанкарабхарана), танцует то Парвати, то Лакшми, садится на ложе в настроении Махалакшми, преданные возносят хвалу, и Он в настроении Матери поит всех молоком груди; на рассвете все расходятся, а в доме Ачарьи семь дней остаётся великое сияние."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@chandrashekhara-acharya", "@sadashiva-kaviraja", "@buddhimanta-khan", "@shachi", "@vishnupriya", "@mukunda-datta", "@advaita", "@nityananda", "@gadadhara-pandita", "@srivasa", "@lakshmi", "@parvati"]
+  places: ["#navadvipa", "#house-chandrashekhara"]
+  kind: lila
+  authority: B
+  notes: "Садашива (2903) отождествлён с @sadashiva-kaviraja предположительно."
+  themes: [revelation, festival]
+  bhava: [shakti]
+  event: ev-chandrashekhara-drama
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2900", to: "2930"}
+
+- id: brt-7075
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2931a–2954"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 113.2
+  title: "Сон Мурари: Нитьянанда — старший брат"
+  summary: "Гаура с Нитьянандой ходят в Шантипур и возвращаются; три Прабху с Харидасом приходят к Шривасу; Мурари кланяется сначала Гауре, и Господь говорит: «Ты нарушил порядок; завтра узнаешь»; ночью Мурари видит во сне Нитьянанду-Балараму с плугом и палицей и идущего следом смуглого Вишвамбхару с павлиньим пером; поняв, что Нитьянанда — старший брат, утром он кланяется сначала Ему; Господь даёт Мурари разжёванный бетель, тот вытирает руку о голову; в настроении Ишвары Господь бранит Пракашананду из Каши."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@haridasa-thakura", "@murari-gupta", "@srivasa", "@prakashananda-sarasvati", "@balarama"]
+  places: ["#navadvipa", "#house-srivasa", "#shantipura"]
+  kind: vision
+  authority: B
+  themes: [revelation]
+  teaching: [associates-tattva]
+  event: ev-murari-dream-nityananda-elder
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2931a", to: "2954"}
+
+- id: brt-7076
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2955–2965"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 113.25
+  title: "Мурари кормит Кришну рисом с гхи; Господь «лечит несварение» его водой"
+  summary: "Дома Мурари велит жене подать еду и предлагает политый гхи рис Кришне; на рассвете Господь приходит: «Ты вчера накормил Меня, приговаривая „ешь, ешь“, — случилось несварение», — и пьёт воду из сосуда Мурари; домочадцы плачут от Его милости; Господь обнимает Мурари и уходит."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@murari-gupta"]
+  places: ["#navadvipa", "#house-murari"]
+  kind: lila
+  authority: B
+  themes: [mercy, prasada]
+  event: ev-murari-rice-lord-indigestion
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2955", to: "2965"}
+
+- id: brt-7077
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2966–2969"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 113.3
+  title: "Мурари в облике Гаруды носит четырёхрукого Господа"
+  summary: "В доме Шриваса Господь держит в четырёх руках раковину, диск, булаву и лотос; Мурари становится владыкой птиц, расправляет крылья, Господь садится ему на спину, и тот кружит по двору; затем Оба вновь становятся прежними."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@murari-gupta"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: B
+  themes: [revelation]
+  bhava: [aishvarya]
+  event: ev-murari-garuda
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2966", to: "2969"}
+
+- id: brt-7078
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2970–2974"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 113.35
+  title: "Мурари решает оставить тело прежде Господа; Господь отбирает нож"
+  summary: "Не зная, когда Господь скроется, Мурари решает ночью оставить тело и приносит острый нож; зная это, Господь приходит, раскрывает его замысел, вынимает спрятанный нож и, покорённый его премой, многое ему говорит."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@murari-gupta"]
+  places: ["#navadvipa", "#house-murari"]
+  kind: lila
+  authority: B
+  themes: [separation, mercy]
+  event: ev-murari-knife
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2970", to: "2974"}
+
+- id: brt-7079
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2975–2977"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 113.5
+  title: "Насыпь Вишарады: Господь обличает Девананду"
+  summary: "У насыпи Вишарады Господь встретил Девананду Пандита, оскорбившего Шриваса, и тот опечалился от кары Его слов."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@devananda-pandita", "@srivasa"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [offense]
+  teaching: [vaishnava]
+  event: ev-devananda-rebuked
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2975", to: "2977"}
+
+- id: brt-7080
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2978–2984"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 113.45
+  title: "Пьяницы на краю селения пляшут с кличем «Хари!»; дом Махешвары Вишарады"
+  summary: "Шривас отговаривал идти дорогой мимо жилища пьяниц; увидев Господа издали, они пускаются в пляс с кличем «Хари!», и Он бросает на них благой взгляд; рядом — дом Махешвары Вишарады, отца Васудевы Сарвабхаумы, живущего по воле Господа в Нилачале; его зять Гопинатха Ачарья видел игры Надии, заранее ушёл в Нилачалу и печалился, что не встречал преданных, пришедших к Господу позже."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@srivasa", "@sarvabhauma", "@gopinatha-acharya"]
+  places: ["#navadvipa", "#puri"]
+  kind: lila
+  authority: B
+  themes: [mercy]
+  event: ev-wine-shop-balarama-bhava
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2978", to: "2984"}
+
+- id: brt-7081
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 2985–3075"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134
+  title: "Господь в бхаве Радхи с Гададхарой и Нарахари: пады о Вриндаване"
+  summary: "В самозабвении Гаурачандра идёт с Гададхарой и Нарахари, и в санкиртане вздымается блаженство; пады Говиндадаса, Васу, Рамачандры, Шекхары Рая, Баларамы Даса, Яду, Наянананды и других: Он хлопает по плечам, зовёт «Радха!», «Лалита, Вишакха!», вспоминает Нидхуван, Ямуну, Субалу, Говардхану, флейту; в чувствах Радхи цвет Его стал золотым; держась за Гададхару, видит в Сурадхуни Ямуну, просит флейту и жёлтое одеяние; Гаура танцует в расе Гададхары, Гададхара — в играх Гауранги."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara", "@gadadhara-dasa", "@svarupa-damodara", "@govinda-kaviraja", "@vasu-ghosha", "@rayashekhara", "@balarama-dasa-poet", "@ramachandra-poet", "@yadunandana-chakravarti", "@radha", "@krishna"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  notes: "Сварупа (3044) в паде — ср. рамку Пури; автор пады 3005 — «Рамачандра» (@ramachandra-poet, предположительно)."
+  themes: [kirtan, ecstasy, krishna-lila]
+  bhava: [radha]
+  teaching: [prema]
+  event: ev-navadvipa-radha-bhava-gadadhara
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "2985", to: "3075"}
+
+- id: brt-7082
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3076–3086"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 80.3
+  title: "Игры Гауры с Нитьянандой на отмели Ганги"
+  summary: "Пады (Камода): Гаура резвится на берегу Сурадхуни; Гададхара и Нарахари по сторонам, Шривас и Харидас поют имя Хари, с ними Мукунда, Мурари, Васу, Рамаи, Дамодара, Джагадиша; взяв Нитьянанду, Он радостно играет на отмели Ганги, рычит, улыбается алыми глазами."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@gadadhara-pandita", "@narahari-sarakara", "@srivasa", "@haridasa-thakura", "@mukunda-datta", "@murari-gupta", "@vasu-ghosha", "@srirama-pandita", "@damodara-pandita", "@jagadisha-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: [kirtan, ecstasy]
+  event: ev-gaura-dance-with-devotees
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3076", to: "3086"}
+
+- id: brt-7083
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3087–3135"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 122.5
+  title: "Нагара-киртан к дому кази: путь шествия; Шива-кшетрапала, Ганеша и Парвати Сималии; усмирение кази"
+  summary: "Господь велит горожанам петь санкиртану; пашанды доносят кази, тот враждует; Господь со спутниками снаряжается усмирить его; шествие отдельными сампрадаями (Адвайта, Харидас, Шривас, Господь с Нитьянандой и Гададхарой, Вакрешвара), с ними незримо Нарада и боги; сотни тысяч светильников; пады Камода; Господь пляшет у Своего гхата, через гхат Мадхая, Баракона-гхат и Нагария-гхат; Шива-кшетрапала Навадвипы в облике пляшет в киртане, Господь исполняет желания Ганеши (его Божество скрылось при санньясе Господа) и Парвати — богини Сималии; у дома кази тот в страхе, Господь усмиряет его и оказывает милость; гордость пашандов сломлена."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@chand-kazi", "@advaita", "@haridasa-thakura", "@srivasa", "@nityananda", "@gadadhara-pandita", "@vakreshvara", "@narada", "@shiva", "@ganesha", "@parvati", "@srirama-pandita", "@sundarananda"]
+  places: ["#navadvipa", "#ganga", "#simulia"]
+  kind: lila
+  authority: B
+  notes: "Названия гхатов (Баракона, Нагария) и рассказы о Ганеше и Парвати Сималии — только здесь."
+  themes: [kirtan, muslims, mercy, celestial]
+  event: ev-nagara-kirtana-kazi
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3087", to: "3135"}
+
+- id: brt-7084
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3136–3146"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 123
+  title: "Господь пьёт из дырявого кувшина Шридхары; шествие через Гадигачху и Патадангу"
+  summary: "Увидев издали ветхий дом Шридхары, Господь приходит туда со спутниками, видит во дворе дырявый железный кувшин и в ликовании пьёт из него воду; во дворе Шридхары — дивный киртан с Нитьянандой и Адвайтой; затем через Гадигачху, Патадангу и другие селения Он идёт в санкиртане (по ЧБ — и поныне удачливые видят этот киртан) и возвращается."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@shridhara", "@nityananda", "@advaita"]
+  places: ["#navadvipa", "#gadigachha"]
+  kind: lila
+  authority: B
+  parallels: "ЧБ Мадхья 23 (цитата в тексте)"
+  themes: [kirtan, mercy]
+  teaching: [vaishnava]
+  event: ev-shridhara-kholavecha
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3136", to: "3146"}
+
+- id: brt-7085
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3147–3177"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.76
+  title: "Джанмаштами и Нанда-утсава в доме Шриваса: Господь в наряде пастуха"
+  summary: "Господь говорит: «Завтра — день рождения [Кришны]»; Шривас и другие готовят абхишеку и санкиртану; на следующее утро Гаура, Нитай, Рамаи, Сундарананда, Гауридас и другие облачаются пастухами, вносят во двор коромысла с йогуртом и маслом; Шривас и Адвайта разбрасывают куркуму и йогурт; Мукунда и Мадхава поют о рождении; дом Шриваса — словно дом Нанды (пады Нарахари, Камода, Дханашри, Маюра)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@srivasa", "@advaita", "@srirama-pandita", "@sundarananda", "@gauridasa-pandita", "@mukunda-datta", "@madhava-ghosha", "@vasudeva-datta"]
+  places: ["#navadvipa", "#house-srivasa"]
+  kind: lila
+  authority: B
+  calendar: "Джанмаштами, на следующий день — Нанда-утсава"
+  themes: [festival, krishna-lila]
+  bhava: [sakha, krishna]
+  event: ev-nanda-utsava-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3147", to: "3177"}
+
+- id: brt-7086
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3178–3197"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.77
+  title: "Радхаштами в доме Пундарики Видьянидхи"
+  summary: "Господь говорит Пундарике: «Завтра у тебя праздник рождения Шри Радхики»; Видьянидхи всё готовит, Господь со спутниками приходит, совершают абхишеку; Гаура в облачении пастуха смотрит на Гададхару в слезах; Мукунда, Мадхава, Васу поют о рождении Радхики; Видьянидхи пляшет, разбрасывая масло и куркуму; женщины совершают благоприятные обряды."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@pundarika-vidyanidhi", "@gadadhara-pandita", "@mukunda-datta", "@madhava-ghosha", "@vasu-ghosha", "@gauridasa-pandita", "@nityananda", "@advaita", "@srivasa", "@radha"]
+  places: ["#navadvipa", "#house-pundarika"]
+  kind: lila
+  authority: B
+  calendar: "Радхаштами"
+  themes: [festival, krishna-lila]
+  event: ev-radhashtami-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3178", to: "3197"}
+
+- id: brt-7087
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3198–3213"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.5
+  title: "Гаура в наряде Натавары играет на флейте под кадамбой"
+  summary: "Пады Васудевы Гхоша: облик Гауры несравним ни с молнией, ни с кетаки; в наряде лучшего из танцоров, с павлиньими перьями и лесной гирляндой, Гаура встаёт под кадамбой в трибханге, вспомнив прежнюю лилу, и играет на флейте; жители города очарованы, на берегу трепещут деревья."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@vasu-ghosha"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila, revelation]
+  bhava: [krishna]
+  event: ev-natavara-vesha-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3198", to: "3213"}
+
+- id: brt-7088
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3214–3218"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.7
+  title: "Гоштха-лила: Гаура кличет коров"
+  summary: "В упоении бхавой Господь являет прежнюю лилу выпаса: трубит в рог, играет на флейтах, кричит «Хай! Хай!»; с Ним Рамаи, Сундара, Нитьянанда, Гауридас (пада Васудевы Гхоша)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@srirama-pandita", "@sundarananda", "@gauridasa-pandita", "@vasu-ghosha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila]
+  bhava: [krishna, sakha]
+  event: ev-goshtha-lila-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3214", to: "3218"}
+
+- id: brt-7089
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3219–3223"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.8
+  title: "Дана-лила на дорогах Надии"
+  summary: "В бхаве прежней дана-лилы Гаура, преградив путь тростью, требует «пошлину расы» с горожан и горожанок: «В аватаре Кришны Я собирал пошлину» (пада Васудевы Гхоша)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@vasu-ghosha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila]
+  bhava: [krishna]
+  event: ev-dana-lila-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3219", to: "3223"}
+
+- id: brt-7090
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3224–3229"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.82
+  title: "Битва цветами в цветочном саду"
+  summary: "Глядя на цветочный сад, Господь говорит: «Хорошо бы цветочную битву!» — и спутники с Гададхарой и Нитьянандой бросают друг в друга букеты (пада Васудевы Гхоша)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita", "@nityananda", "@vasu-ghosha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila]
+  event: ev-flower-battle-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3224", to: "3229"}
+
+- id: brt-7091
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3230–3234"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.84
+  title: "Игра в кости (паша-сари) с Гададхарой"
+  summary: "В цветочном саду Гаурахари с Гададхарой играет в паша-сари: «Два и четыре!» — бросает Гададхара, «Пять и три!» — Гаура (пада Васудевы Гхоша)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita", "@vasu-ghosha"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila]
+  bhava: [krishna]
+  event: ev-dice-game-gadadhara
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3230", to: "3234"}
+
+- id: brt-7092
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3235–3239"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.86
+  title: "Игры в водах Ганги"
+  summary: "У гхата Господь со спутниками играет в воде, вспоминая прежние игры: все обливают друг друга (пада Васудевы Гхоша)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@vasu-ghosha"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila]
+  event: ev-jala-keli-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3235", to: "3239"}
+
+- id: brt-7093
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3240–3260"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.62
+  title: "Ванабходжана на берегу Ганги"
+  summary: "В полдень Шривас и Мурари велят принести яства; Адвайта рассаживает всех кругом на листьях палаши; Нитай кормит Гауру, Адвайта поит Нитая напитком из чхены, Нитай кладёт модаки в уста Адвайте; спутники весело делят еду, пьют воду Сурадхуни; остатки берёт Нарахари; затем Гаура в тени дерева держит Гададхару за руку (пады Саранга)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@srivasa", "@murari-gupta", "@advaita", "@nityananda", "@narahari-sarakara", "@gadadhara-pandita"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: [prasada, krishna-lila]
+  event: ev-vana-bhojana-ganga
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3240", to: "3260"}
+
+- id: brt-7094
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3261–3290"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.75
+  title: "Джхулан: Господь качается на качелях в сезон дождей"
+  summary: "По воле Гаурачандры шесть времён года всегда воплощены в Надии; чтобы порадовать сезон дождей, Господь качается на качелях на берегу Сурадхуни; спутники раскачивают Его, Нарахари — тихо-тихо, смотрит Он на Гададхару; затем Его усаживают под кадамбой, Нитай в слезах премы, Адвайта ревёт, Шривас подносит кушанья, Господь кормит всех, остатки вкушает Нарахари (пады Маллара, Камода)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@gadadhara-pandita", "@narahari-sarakara", "@nityananda", "@advaita", "@srivasa"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  calendar: "сезон дождей (джхулан)"
+  themes: [festival, krishna-lila]
+  event: ev-jhulana-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3261", to: "3290"}
+
+- id: brt-7095
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3291–3300"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.88
+  title: "Господь являет расу танца раса на берегу Ганги"
+  summary: "Вспомнив лилу Вриндавана, Гаура видит Сурадхуни Ямуной, цветущую рощу — Вриндаваном, друзей — гопи; среди кхолов и карталов пляшет и являет расу раса (пады Васудевы Гхоша и др.)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@vasu-ghosha"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila, ecstasy]
+  bhava: [krishna]
+  event: ev-rasa-lila-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3291", to: "3300"}
+
+- id: brt-7096
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3301–3349"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.9
+  title: "Весна и Холи на берегу Сурадхуни"
+  summary: "Гаурачандра со спутниками забавляется весной: кукуют кокилы, веет ветер с Малаи; играют в фагу пыльцой и шафрановой водой из пичкари, абир и гулал взлетают до небес; Нитай, Адвайта, Гададхара, Сварупа, Шривас, Мурари, Вакрешвара, Гауридас, Мукунда, Васу, Санджая и другие поют об играх Враджа; в объятиях Гададхары Гаура теряет сознание и спрашивает: «Где Моя флейта, где Говардхана, где берег Ямуны?»; Шивананда отвечает пылкими словами (пады Васанта, Камода)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@nityananda", "@advaita", "@gadadhara-pandita", "@svarupa-damodara", "@srivasa", "@murari-gupta", "@gadadhara-dasa", "@vakreshvara", "@gauridasa-pandita", "@mukunda-datta", "@madhava-ghosha", "@vasu-ghosha", "@nandana-acharya", "@shivananda-sena", "@narahari-sarakara"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  calendar: "весна (Холи)"
+  themes: [festival, krishna-lila, ecstasy]
+  bhava: [krishna, radha]
+  event: ev-holi-navadvipa-gadadhara
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3301", to: "3349"}
+
+- id: brt-7097
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3350–3354"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 134.885
+  title: "Нитьянанда вспоминает расу Баларамы весенней ночью"
+  summary: "Весенней лунной ночью у Нитьянанды-Халадхары сердце ликует от расы прежней раса-лилы; трепеща, Он пляшет, и Гаурасундара, видя это, совсем обессилен от премы; боги и люди пляшут вместе (пада Кедара)."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@nityananda", "@mahaprabhu", "@balarama"]
+  places: ["#navadvipa", "#ganga"]
+  kind: lila
+  authority: B
+  themes: [krishna-lila, ecstasy]
+  bhava: [balarama]
+  event: ev-nityananda-balarama-rasa-navadvipa
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3350", to: "3354"}
+
+- id: brt-7098
+  source: bhakti-ratnakara
+  ref: "Таранга 12, 3355–3363"
+  file: "bhakti-ratnakara/ru/12.md"
+  period: P07
+  order: 116
+  title: "Господь похищает одежды у преданных; игры поднятия Говардханы"
+  summary: "Явив прежнюю игру, Гаурачандра похищает одежды у Своих преданных и в мгновение возвращает их (шлоки «Чайтанья-чариты» Мурари, пракрама 2, сарга 5; пада Нарахари); здесь же Он со спутниками являет игры поднятия Говардханы и другие."
+  persons: ["@ishana-navadvipa", "@srinivasa-acharya", "@mahaprabhu", "@murari-gupta"]
+  places: ["#navadvipa"]
+  kind: lila
+  authority: B
+  parallels: "Мурари, «Чайтанья-чарита», пракрама 2, сарга 5 (цитата)"
+  notes: "Игры поднятия Говардханы (3362) — упоминание."
+  themes: [krishna-lila]
+  bhava: [krishna]
+  event: ev-lord-takes-clothes
+  verses:
+    - {file: "bhakti-ratnakara/ru/12.md", from: "3355", to: "3363"}
