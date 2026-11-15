@@ -62,7 +62,7 @@ Madhava:
 
 “The pious Madhava Ghosha was the most skilled in singing kirtana. In this he had no equal in all the world. He was
 known as the singer of the Lord's pastimes in Vrindavana, and he was very dear to Lord Nityananda. The three brothers —
-Madhava, Vasudeva and Govinda — sang while Lord Nityananda danced.” (CB, Antya 5.257–259) <!-- F29 Q3 -->
+Madhava, Govinda and Vasudeva — sang while Lord Nityananda danced.” (CB, Antya 5.257–259) <!-- F29 Q3 -->
 
 Srila Bhaktisiddhanta Sarasvati Thakura, in the “Gaudiya-bhashya” on this verse, calls all three brothers "singers of
 Vrindavana"[^4]. Their singing had nothing in common with that of worldly performers: the brothers were wholly given to kirtana, and they had no worldly notions. Here lies the meaning
