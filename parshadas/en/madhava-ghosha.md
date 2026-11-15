@@ -42,7 +42,7 @@ Dasa in the order "Madhava, Govinda, Vasudeva." <!-- F6 -->
 
 The brothers came from the kayasthas of Uttara-Rarhi — northern Rarh; according to one biography, from the part of Rarh
 through which the Ganga does not flow. Srila Bhaktisiddhanta too, in the “Anubhashya,” calls them kayasthas of
-Uttara-Rarhi, kayasthas by birth[^2]. The family was prominent and respected and belonged to the "shaukra," kayasthas by birth. The family is linked with Shrihatta (Sylhet)
+Uttara-Rarhi[^2]. The family was prominent and respected and belonged to the "shaukra," kayasthas by birth. The family is linked with Shrihatta (Sylhet)
 through the village of Buran, or Burangi; the brothers' father settled in Kumarahatta, and later the brothers moved to
 Navadvipa. More on this is told in the article on Vasu Ghosha[^3]. <!-- F7 F8 -->
 
