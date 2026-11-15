@@ -16,12 +16,13 @@ Him. <!-- F1 F2 F3 Q1 F6 -->
 
 ## King Suvarna Sena
 Who Buddhimanta Khan had been before is revealed by Srila Bhaktivinoda Thakura in the “Navadvipa-dhama-mahatmya,” where
-he tells the glory of Suvarna-vihara in Godruma-dvipa. We give the account of the “Mahatmya” as the biographies relate
-it. In Satya-yuga a righteous king, Sri Suvarna Sena, ruled at Suvarna-vihara. He attained love and devotion for Sri
-Radha-Krishna and for Sri Gauranga Mahaprabhu, in whom Radha and Krishna are united in one form.[^2] One night the king
-saw in a dream Sri Gaura and Gadadhara with Their associates, and on waking he wept in separation from Them. Then a voice
-spoke from the sky: when Sri Gauranga Mahaprabhu appears again in Kali-yuga, the king will be counted among His
-associates under the name Buddhimanta Khan and will nourish and strengthen Gaura's pastimes. This is not a story of a
+he speaks of the greatness of Suvarna-vihara in Godruma-dvipa. We give the account of the “Mahatmya” as the biographies relate
+it. Long ago, in Satya-yuga, Suvarna-vihara was ruled by
+Sri Suvarna Sena, a king devoted to dharma. He attained love and devotion for Sri
+Radha-Krishna and for Sri Gauranga Mahaprabhu, in whom Radha and Krishna are united in one form.[^2] One night, as the king slept, Sri
+Gaura and Gadadhara appeared to him together with Their associates; when sleep left him he wept, unable to bear
+separation from Them. Then a voice spoke from the sky: when Sri Gauranga Mahaprabhu descends once more in Kali-yuga, this king will be numbered among His associates as Buddhimanta Khan and will nourish and strengthen Gaura's
+pastimes. This is not a story of a
 soul wandering from birth to birth under the law of karma, but an acharya's revelation about an eternal associate whose
 service to the Lord was announced to him in advance. <!-- F4 -->
 
@@ -31,7 +32,7 @@ primary sources nor the biographies say. <!-- F5 -->
 ## Wealth Given to Service
 In those days there lived in Navadvipa two respected men who had everything in abundance: Buddhimanta Khan and his
 friend Mukunda-Sanjaya. The biographies call them the richest men of the town, and of Buddhimanta they add that he was a
-landowner, a wise friend of Nimai's family, the best of devotees and a man of great fortune. Srila Bhaktisiddhanta
+landowner, a wise friend to Nimai's household, the best of devotees and a man of great fortune. Srila Bhaktisiddhanta
 Sarasvati in the “Anubhashya” calls him “a wealthy devotee of Navadvipa.” But his riches were neither a cause for pride
 nor a means of enjoyment: all that he owned he gave to the Lord's service, and so the “Charitamrita” remembers him not as
 a rich man but as a chief servant. <!-- F7 -->
@@ -50,8 +51,8 @@ He is named in the same company in the vandana of Devakinandana Dasa and in Deva
 Bengali vandana in tripadi praises all six as “heirs to the treasure of prema.” <!-- F9 -->
 
 ## The “Vayu Disease”
-Once Mahaprabhu, absorbed in His inner mood, began to display the transformations of divine love under the guise of a
-vayu disease — a disorder of the bodily “wind.” His friends and relatives concluded that Nimai's vayu really was
+Once Mahaprabhu, absorbed in His inner mood, began to manifest ecstatic changes of divine love that looked like a
+vayu disease — a derangement of the body's “wind.” His friends and relatives concluded that Nimai's vayu really was
 disturbed and hurried to Him with remedies.[^4] Vrindavana Dasa relates:
 
 “Buddhimanta Khan, Mukunda-Sanjaya and other close friends came. They rubbed medicated oils into His head and tried
@@ -61,22 +62,21 @@ The Lord was not ill: this was His play, and His friends' very love hid it from 
 Buddhimanta, who, as Srila Bhaktisiddhanta writes, arranged His treatment then — was a touching service within that
 pastime. <!-- F10 Q2 -->
 
-One of the biographies, touching on this episode, explains: the transformations of divine love that Gaurasundara
-displayed for the sake of His transcendental pastimes cannot be quelled by any outward medicine. Diseases of body and
-mind affect the gross and subtle bodies, but the sattvika-bhavas do not arise in perishable coverings of lifeless matter:
+One of the biographies, touching on this episode, explains: the ecstatic changes of prema that Gaurasundara
+showed for the sake of His transcendental pastimes cannot be quelled by any outward medicine. Bodily and mental ailments work on the gross body and the subtle one, but the sattvika-bhavas do not arise in perishable coverings of lifeless matter:
 it is the soul's serving nature that reveals itself through a non-material body given to the Lord. Therefore what those who
 know the soul's nature experience in bhakti has nothing in common with artificial bodily displays; while fools, taking
 themselves to be the body, deliberately agitate body and senses and pass this off as sattvika-bhavas for the sake of
 worldly honour. <!-- F11 I1 -->
 
 ## The Lord's Wedding
-After Lakshmipriya's departure, Shachimata began to prepare her Son's second marriage — to Vishnupriya Devi. This was no
+After Lakshmipriya's departure, Shachimata began to prepare her Son's second marriage, this time to Vishnupriya Devi. This was no
 worldly marriage: Vishnupriya is the Lord's eternal energy, His Bhu-shakti, and their wedding is a pastime of Lakshmi and
-Narayana. When the Lord's students heard of it their hearts filled with joy, and the first to speak was Buddhimanta Khan:
+Narayana. When the Lord's students heard of it their hearts filled with joy, and at once Buddhimanta Khan spoke up:
 
 “Buddhimanta Khan was the first to declare: ‘I will bear all the expenses of this wedding.’” (CB, Adi 15.69)
 
-No one had asked him: of his own accord he took the side of the Lord, the bridegroom, and took everything upon himself.
+No one had asked him: of his own accord he stood with the Lord, the bridegroom, and took everything upon himself.
 <!-- F12 Q3 -->
 
 Mukunda-Sanjaya — the same in whose hall of worship, the chandimandapa, Nimai Pandita kept His school — wanted to serve
@@ -93,7 +93,7 @@ It was not a rich man's vanity speaking. The Lord's wedding, he felt, was not to
 poor brahmana — “this is no time for brahminical austerity,” as one of the biographies renders his thought. Buddhimanta
 saw in Nimai not a poor young pandita but the Lord of all, and wanted His wedding to be worthy of Him. Nimai's students
 too did their best to make the festival splendid; according to one of the biographies, not even the millionaires of
-Navadvipa had ever held an adhivasa — the rite on the eve of the wedding — so magnificent. <!-- F14 -->
+Navadvipa had ever held an adhivasa — the rite held the evening before a wedding — so magnificent. <!-- F14 -->
 
 On the wedding day Buddhimanta Khan joyfully provided a divine palanquin for the Lord:
 
@@ -118,10 +118,10 @@ in all the Lord's pastimes in Navadvipa — in the kirtanas in Srivasa's courtya
 of the town. <!-- F18 Q5 -->
 
 ## Garments for the Pastime in Chandrashekhara's House
-A special service fell to him when the Lord wished to manifest His pastime in Chandrashekhara's house (one of the
-biographies calls it the Vraja-lila). Mahaprabhu revealed His intention to the devotees, told His associates who
-would wear which attire, and called Sadashiva and Buddhimanta Khan: garments had to be prepared — conch-shell
-bracelets, bodices, silk saris and ornaments. And He urged:
+A special service fell to him when the Lord wished to manifest His pastime in Chandrashekhara's house (the
+biographies call it the Vraja-lila). Mahaprabhu revealed His intention to the devotees and called Sadashiva and
+Buddhimanta Khan: garments had to be prepared — bracelets of conch shell, bodices, saris of silk, and ornaments. Then He
+Himself named which attire each of His associates would wear (CB, Madhya 18.7–12), and urged:
 
 “Buddhimanta Khan, go quickly and prepare the garments — I am going to dance!” (CB, Madhya 18.13)
 
@@ -129,17 +129,21 @@ bracelets, bodices, silk saris and ornaments. And He urged:
 18.14)
 
 They stretched a great Kathiyara canopy and prepared everything needed, and Buddhimanta Khan brought the garments and laid
-them before the Lord. Pleased with how he had carried out everything, the Lord showed him mercy.[^6] <!-- F19 -->
+them before the Lord. Seeing the garments, the Lord was greatly pleased (CB, Madhya 18.17) and showed Buddhimanta His
+mercy.[^6] Srila Bhaktisiddhanta in the “Anubhashya” also remembers that for this pastime, when the Lord appeared in the
+guise of Mahalakshmi, Buddhimanta Khan gathered the clothes, ornaments and everything else; he names him, too, as the
+Lord's companion in kirtana and in the water play, and among those who went to Nilachala for the Ratha-yatra.
+<!-- F19 F30 -->
 
 Then the Lord danced in the attire of Lakshmi. This was not a show and not a disguise but the manifestation of His own
 energy, and, as the Lord Himself said, only one who had subdued his senses could behold this pastime (CB, Madhya 18.18).
-The garments Buddhimanta prepared were a service to this lila. The biographies also cite lines from the
+The garments Buddhimanta prepared were a service to this lila. One of the biographies also cites lines from the
 “Bhakti-ratnakara”: Shachi's son, absorbed in kirtana, called Sadashiva and Buddhimanta, told them that today in
-Chandrashekhara's house He would dance in the attire of Lakshmi, and asked them to prepare conch-shell bracelets, saris,
-bodices and golden ornaments (12.1949–1952). <!-- Q6 -->
+Chandrashekhara's house He would appear in the attire of Lakshmi and dance, and asked them to prepare conch-shell bracelets, saris,
+bodices and golden ornaments (12.1949–1952; as the biography gives it). <!-- Q6 -->
 
 The same “Bhakti-ratnakara” preserves the memory of the place. When Narahari leads Srinivasa through Navadvipa, he shows
-him the spot by Chandrashekhara's house where Sadashiva and Buddhimanta Khan together prepared all kinds of garments for
+him the spot by Chandrashekhara's house where the two of them, Sadashiva and Buddhimanta Khan, made ready all kinds of garments for
 Gaura-raya's dance in the attire of Lakshmi and for a kirtana that maddens the whole world (12.2902–2904; as given by the
 biographies). <!-- F20 -->
 
@@ -157,10 +161,10 @@ Navadvipa hurried there together with Shachi. Buddhimanta Khan was among them:
 Shridhara, Vijaya, Vasudeva, Damodara, Mukunda, Sanjaya — how many of the people of Navadvipa can I name? The Lord met
 them all, smiling, with a glance full of mercy.” (CC, Madhya 3.153–155)
 
-Govinda-deva in the “Gaura-krishnodaya” tells how the Lord raised the townspeople who had fallen at His feet, one after
+Govinda-deva in the “Gaura-krishnodaya” tells how the Lord raised the townspeople who had fallen to the ground, one after
 another, and gladdened them all — “Buddhimanta Khan and others” (6.59). <!-- F23 Q7 -->
 
-Later, when the Lord settled in Purushottama, in Puri, Buddhimanta Khan went there with the devotees of Gauda to see Him.
+Later, when the Lord settled in Purushottama, in Puri, Buddhimanta Khan went there with the Gaudiya devotees to see Him.
 Vrindavana Dasa, listing those who went, says of him:
 
 “Buddhimanta Khan Mahashaya went too, whose one concern since birth has been Chaitanya's orders.” (CB, Antya 8.30)
@@ -179,7 +183,7 @@ So Buddhimanta Khan too was among those loving devotees whose food the Lord ate.
 
 Jayananda also remembers him in his “Chaitanya-mangala.” When the day of remembrance (aradhana) of Madhavendra Puri was
 celebrated in Advaita's house in the Lord's presence, Shachi took charge of the cooking, Mukunda sang, Murari kept the
-stores, Bhavananda swept and sprinkled the courtyard, and “Buddhimanta Khan anointed everyone with sandal paste.” And
+stores, Bhavananda swept and sprinkled, and “Buddhimanta Khan puts sandal paste on their bodies.” And
 when the Lord came to Kulia, countless people of Navadvipa ran to Him — Shachi, Vishnupriya, Sulochana, Murari Gupta,
 Gopinatha, Buddhimanta Khan, the raja-pandita Sanatana, Purandara Acharya and many others.[^8] <!-- F27 F28 -->
 
@@ -188,7 +192,7 @@ When and where Buddhimanta Khan appeared and when he left this world, who his pa
 nor are his days in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. <!-- F29 -->
 
 But the essential thing about him is said twice, by two of the Lord's chroniclers: Krishnadasa Kaviraja calls him a chief
-servant because all his life he carried out the Lord's orders, and Vrindavana Dasa, one whose concern since birth has
+servant because all his life he fulfilled the Lord's orders, and Vrindavana Dasa, one whose concern since birth has
 been Chaitanya's orders. Wealth, labour, joy — all were for him means of service: his money for the Lord's wedding and
 for helping the poor, his hands for the garments of His pastime, his heart for the delicacies the Lord ate in distant
 Puri. This is the lesson of his life: a person's worth lies not in what he owns but in whether it is given to the Lord.
@@ -206,7 +210,7 @@ Puri. This is the lesson of his life: a person's worth lies not in what he owns 
     “Chaitanya-bhagavata” (Adi 15.145) says “ahead” (*age*).
 [^6]: One of the biographies writes that Buddhimanta himself dressed Mahaprabhu; the “Chaitanya-bhagavata” (Madhya
     18.6–16) does not say this — there he and Sadashiva prepare and bring the garments.
-[^7]: One of the biographies writes that he also took part in the deliverance of Jagai and Madhai; the
+[^7]: One of the biographies writes that he also had a share in the deliverance of Jagai and Madhai; the
     “Chaitanya-bhagavata” names him only among the Lord's associates in the play in the Ganga that followed.
 [^8]: Both accounts survive only in fragments of Jayananda's poem (the second in a quotation in a later book); the
     translation is ours.
