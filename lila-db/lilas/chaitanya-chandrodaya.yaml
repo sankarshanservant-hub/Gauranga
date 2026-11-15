@@ -445,7 +445,7 @@
   themes: [mercy, muslims, revelation]
   event: ev-muslim-tailor
   verses:
-    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Вирага.** Владычица, неужели он всегда", to_text: "**Вирага.** Так оно и есть. А дальше, да"}
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Вирага.** Владычица, неужели Он всегда", to_text: "**Вирага.** Так оно и есть. А дальше, да"}
 
 - id: ccd-0023
   source: chaitanya-chandrodaya
@@ -505,7 +505,7 @@
   themes: [ecstasy]
   event: ev-prema-on-street
   verses:
-    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** Вот так я рассказала о ", to_text: "**Вирага.** Ах, он поистине во власти бл"}
+    - {file: "chaitanya-chandrodaya/ru/02.md", from_text: "**Бхакти-деви.** Вот так я рассказала о ", to_text: "**Вирага.** Ах, Он поистине во власти бл"}
 
 - id: ccd-0026
   source: chaitanya-chandrodaya

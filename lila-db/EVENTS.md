@@ -1407,7 +1407,7 @@
 
 ## Господь падает в преме на улице, услышав имя от студентов / The Lord falls in prema on the street on hearing the Name from students  `ev-prema-on-street` (1509–1510, возраст 23–24, оценка)
 
-- chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви) — [**Бхакти-деви.** Вот так я рассказала о –**Вирага.** Ах, он поистине во власти бл](../chaitanya-chandrodaya/ru/02.md?plain=1#L241-L243) · `ccd-0025`
+- chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви) — [**Бхакти-деви.** Вот так я рассказала о –**Вирага.** Ах, Он поистине во власти бл](../chaitanya-chandrodaya/ru/02.md?plain=1#L241-L243) · `ccd-0025`
 
 ## Господь слышит флейту в бхаве Радхи / The Lord hears the flute in Radha's mood  `ev-flute-sound-radha-bhava` (1509–1510, возраст 23–24, оценка)
 
@@ -1826,7 +1826,7 @@
 ## Портной-мусульманин в доме Шривасы видит Господа / The Muslim tailor at Srivasa's house sees the Lord  `ev-muslim-tailor` (1509–1510, возраст 23–24, оценка)
 
 - cc (A): Ади 17.231–232 — [231–232](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi17.md?plain=1#L2331-L2341) · `cc-0278`
-- chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви), ст. 18–19 — [**Вирага.** Владычица, неужели он всегда–**Вирага.** Так оно и есть. А дальше, да](../chaitanya-chandrodaya/ru/02.md?plain=1#L155-L183) · `ccd-0022`
+- chaitanya-chandrodaya (A): Акт 2, правешака (Вирага и Бхакти-деви), ст. 18–19 — [**Вирага.** Владычица, неужели Он всегда–**Вирага.** Так оно и есть. А дальше, да](../chaitanya-chandrodaya/ru/02.md?plain=1#L155-L183) · `ccd-0022`
 
 ## Господь обличает Девананду Пандита, выгнавшего Шривасу с чтения «Бхагаваты» / The Lord rebukes Devananda Pandita for expelling Shrivasa from his Bhagavata recitation  `ev-devananda-rebuked` (1509–1510, возраст 23–24, оценка)
 
