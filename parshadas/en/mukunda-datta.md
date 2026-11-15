@@ -128,7 +128,7 @@ From then on Mukunda was the Lord's constant kirtaniya. In the courtyard of Sriv
 nights, one of the biographies calls him the Lord's “constant singer.” On Hari-vasara, the day of ekadashi, when they sang
 day and night, Srivasa led one group and Mukunda the other (CB, Madhya 8.141); so too the “Charitamrita” says that when he
 sang, Mahaprabhu danced (Adi 10.40). He was the chief singer also during the “seven praharas” — twenty-one hours in which
-the Lord continuously manifested His divinity (the maha-prakasha). Then the devotees performed His great bathing, the
+the Lord continuously manifested His divinity (the Mahaprakasha). Then the devotees performed His great bathing, the
 maha-abhisheka, with a thousand pots of water to the hymn “Purusha-sukta” of the Rig Veda, and “led by Mukunda, all sang
 the hymns befitting the abhisheka” (CB, Madhya 9.32). Afterwards the Lord quickly ate abundant offerings, called the
 devotees to Him one by one, revealed to each a past unknown to him — how He had protected him even before His own
@@ -173,7 +173,7 @@ fainted with joy. Srila Bhaktisiddhanta notes that Gadadhara took initiation fro
 <!-- F18 -->
 
 ## Mercy in the Form of Punishment
-During the maha-prakasha the Lord called the devotees to Him one by one and bestowed His mercy on each. Only Mukunda He
+During the Mahaprakasha the Lord called the devotees to Him one by one and bestowed His mercy on each. Only Mukunda He
 did not call — and Mukunda sat behind the curtain, not daring to come forward unbidden. The devotees grew sad, and Srivasa
 interceded for him:
 
