@@ -152,7 +152,7 @@ B — вероятно, больше сотни).
 | @devananda-pandita (053) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @keshava-kashmiri (054) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @vallabha-bhatta (055) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @govinda-ghosha (056а) | в работе | — | — |
+| @govinda-ghosha (056а) | ✓ | в работе | — |
 | @madhava-ghosha (056б) | ✓ | в работе | — |
 | @vasudeva-vipra (057) | ✓ | в работе | — |
 
