@@ -4246,6 +4246,10 @@
     "type": "companion"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "companion"
+   },
+   {
     "from": "@govinda-servant",
     "type": "served-by"
    },
@@ -11085,6 +11089,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "companion"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -13610,6 +13618,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -14838,6 +14850,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@govinda-ghosha",
+    "type": "co-worker"
    },
    {
     "from": "@ishvara-puri",
@@ -16590,6 +16606,10 @@
    {
     "from": "@gangadasa-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@govinda-ghosha",
+    "type": "co-worker"
    },
    {
     "from": "@ishvara-puri",
@@ -23822,6 +23842,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "other"
+   },
+   {
     "from": "@govinda-maharaja",
     "type": "neighbor"
    },
@@ -24633,6 +24657,10 @@
    {
     "from": "@gopala-guru",
     "type": "guru"
+   },
+   {
+    "from": "@govinda-ghosha",
+    "type": "co-worker"
    },
    {
     "from": "@kashishvara",
@@ -26144,6 +26172,10 @@
    {
     "from": "@gadadhara-pandita",
     "type": "other"
+   },
+   {
+    "from": "@govinda-ghosha",
+    "type": "sibling"
    },
    {
     "from": "@madhava-ghosha",
@@ -29540,6 +29572,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "co-worker"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -30847,6 +30883,161 @@
    "ev-purushottama-nagara-wonders",
    "ev-sarvabhauma-to-varanasi",
    "ev-srinivasa-schooling"
+  ],
+  "summary": "в Кришна-лиле — Калавати — сакхи Враджа, певшая песни, сложенные… (ГГД 188) и др.; происхождение — Шрихатта (Силхет); уход — Кришна-двадаши месяца Вишну — по нашему календарю",
+  "card": "parshadas/cards/govinda-ghosha.yaml",
+  "article": {
+   "ru": "parshadas/ru/govinda-ghosha.md",
+   "en": "parshadas/en/govinda-ghosha.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "conf": "год, место и день явления не названы ни в книгах, ни в нашем календаре (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15)",
+    "facts": [
+     "F10"
+    ]
+   },
+   "disappearance": {
+    "tithi": "Кришна-двадаши месяца Вишну (≈ чайтра) — по нашему календарю («День ухода Шрилы Говинды Гхоша Тхакура»; 16.03.2026, 3.04.2027); B — чайтра кришна-двадаши; T — чайтра кришна-трайодаши",
+    "place": "#agradvipa?",
+    "conf": "титхи — по нашему календарю и B (T расходится на день); год не назван; место прямо не названо (по смыслу — Аградвипа)",
+    "facts": [
+     "F33",
+     "F31",
+     "F37"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "пада «Хе хе ре Надия-баси, кар мукха чао» (о уходе Господа из Навадвипы; ПК 1622)",
+    "facts": [
+     "F34",
+     "Q10"
+    ]
+   },
+   {
+    "title": "пада «Пранера Мукунда хе, ки аджи шунилун ачамбите» (Гададхара приносит Мукунде весть о санньясе; ПК 1606)",
+    "facts": [
+     "F35",
+     "Q10"
+    ]
+   },
+   {
+    "title": "другие пады с подписью «Говинда Гхош» (lila-db)",
+    "facts": [
+     "F13",
+     "F36"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Калавати — сакхи Враджа, певшая песни, сложенные Вишакхой",
+    "source": "ГГД 188 (по B, T, M)",
+    "level": "A"
+   },
+   {
+    "in": "tattva",
+    "as": "кая-вьюха ашрая-виграхи (Радхи) мадхура-расы; в разряде принявших Радхику высшей ашрая-виграхой",
+    "source": "Бхактисиддханта, «Гаудия-бхашья» к ЧБ Антья 5.257 (по B 848, 189; M 243)",
+    "level": "B"
+   }
+  ],
+  "relations": [
+   {
+    "type": "sibling",
+    "who": "@madhava-ghosha",
+    "note": "Вместе пели Нитьянанде (ЧБ Антья 5.259); подпевал в его группе на Ратха-ятре; ушёл с Нитьянандой в Гауду, когда Говинда остался с Господом."
+   },
+   {
+    "type": "sibling",
+    "who": "@vasu-ghosha",
+    "note": "Так же; день ухода Васудевы — картика шукла-двития (B 849)."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Ветвь Шри Гауранги (B, T); остался с Господом в Пури (ЧЧ Ади 10.118); ведущий певец четвёртой группы на Ратха-ятре (ЧЧ Мадхья 13.42); по указанию Господа явил Гопинатху и принял грихастха-ашрам."
+   },
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Под киртан трёх братьев плясал Нитьянанда (ЧБ Антья 5.259; Панихати)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gopinatha-agradvipa",
+    "note": "Явил Гопинатху в Аградвипе из чёрного камня по указанию Господа; Гопинатха во сне обещал Сам совершить по нему пинду и поныне ежегодно предлагает её в день его ухода (⚠Б2, ⚠Б4)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@vakreshvara",
+    "note": "Танцор его группы на Ратха-ятре."
+   },
+   {
+    "type": "co-worker",
+    "who": "@chhota-haridasa",
+    "note": "Подпевал в его группе (у B — «(Чхота?) Харидас»)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@raghava-pandita",
+    "note": "Подпевал в его группе; в доме Рагхавы в Панихати братья пели Нитьянанде."
+   },
+   {
+    "type": "co-worker",
+    "who": "@srivasa",
+    "note": "Вели группы киртана во дворе Шривасы (ЧБ Мадхья 8.141–142); вместе шли в Пури на третий год (ЧЧ Мадхья 16.16)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@mukunda-datta",
+    "note": "Вёл другую группу в день Хари-васары; герой его пады о вести Гададхары (T)."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-pandita",
+    "note": "В паде «Пранера Мукунда хе» Гададхара приносит Мукунде весть о санньясе."
+   },
+   {
+    "type": "other",
+    "who": "@srinivasa-acharya",
+    "note": "Рассказывал мальчику Шринивасе об играх Гауры (B 661; БР 2.204); благословил младенца (T 204); милость (M 188)."
+   },
+   {
+    "type": "other",
+    "who": "@narottama-dasa",
+    "note": "Среди спутников, явившихся с Господом на киртане Нароттамы в Кхетури (БР 10, по M)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Гаудия-бхашья»: кая-вьюха ашрая-виграхи; «певцы Вриндавана»; «Анубхашья» к ЧЧ Ади 11.15: Гопинатха в Аградвипе и пинда."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktivedanta-svami",
+    "note": "По комментарию к ЧЧ (у M): основал храм Гопинатхи в Аградвипе."
+   },
+   {
+    "type": "other",
+    "who": "@kavi-karnapura"
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-kaviraja"
+   },
+   {
+    "type": "other",
+    "who": "@vrindavana-dasa"
+   }
   ],
   "related_by": [
    {
@@ -32284,6 +32475,10 @@
    },
    {
     "from": "@gopala-bhatta",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-ghosha",
     "type": "other"
    },
    {
@@ -35899,6 +36094,10 @@
     "type": "met"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "co-worker"
+   },
+   {
     "from": "@govinda-servant",
     "type": "other"
    },
@@ -36750,6 +36949,10 @@
     "type": "disciple"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "met"
    },
@@ -37442,6 +37645,10 @@
    {
     "from": "@gopala-guru",
     "type": "met"
+   },
+   {
+    "from": "@govinda-ghosha",
+    "type": "other"
    },
    {
     "from": "@jahnava",
@@ -38831,6 +39038,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-ghosha",
     "type": "other"
    },
    {
@@ -41196,6 +41407,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "sibling"
+   },
+   {
     "from": "@nityananda",
     "type": "companion"
    },
@@ -42828,6 +43043,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@govinda-ghosha",
     "type": "other"
    },
    {
@@ -54493,6 +54712,10 @@
     "type": "other"
    },
    {
+    "from": "@govinda-ghosha",
+    "type": "other"
+   },
+   {
     "from": "@govinda-maharaja",
     "type": "siksha-guru"
    },
@@ -55750,6 +55973,21 @@
    {
     "from": "@keshava-kashmiri",
     "type": "lineage-predecessor"
+   }
+  ]
+ },
+ {
+  "id": "@gopinatha-agradvipa",
+  "ru": "Гопинатха — Божество в Аградвипе",
+  "en": "Gopinatha, the Deity of Agradvipa",
+  "note": "явлен @govinda-ghosha по указанию Махапрабху из чёрного камня; ежегодно предлагает по нему пинду (B 189, 848–849; T 64; M 242, 245; «Анубхашья» к ЧЧ Ади 11.15)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@govinda-ghosha",
+    "type": "deity-served"
    }
   ]
  }

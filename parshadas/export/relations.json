@@ -5734,6 +5734,229 @@
   "note": "ГГД 163: Тунгавидья — Прабодхананда (к варианту M)."
  },
  {
+  "from": "@govinda-ghosha",
+  "type": "sibling",
+  "who": "@madhava-ghosha",
+  "facts": [
+   "F6",
+   "F14",
+   "F19",
+   "F20",
+   "F22",
+   "F23",
+   "F37"
+  ],
+  "note": "Вместе пели Нитьянанде (ЧБ Антья 5.259); подпевал в его группе на Ратха-ятре; ушёл с Нитьянандой в Гауду, когда Говинда остался с Господом."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "sibling",
+  "who": "@vasu-ghosha",
+  "facts": [
+   "F6",
+   "F14",
+   "F19",
+   "F20",
+   "F22",
+   "F23",
+   "F37"
+  ],
+  "note": "Так же; день ухода Васудевы — картика шукла-двития (B 849)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F3",
+   "F15",
+   "F17",
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F24",
+   "F27",
+   "F34",
+   "F35",
+   "I1"
+  ],
+  "events": [
+   "ev-dance-shrivasa-house",
+   "ev-nagara-kirtana-kazi",
+   "ev-ratha-yatra-gundicha"
+  ],
+  "note": "Ветвь Шри Гауранги (B, T); остался с Господом в Пури (ЧЧ Ади 10.118); ведущий певец четвёртой группы на Ратха-ятре (ЧЧ Мадхья 13.42); по указанию Господа явил Гопинатху и принял грихастха-ашрам."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F14",
+   "F15",
+   "F23"
+  ],
+  "events": [
+   "ev-nityananda-panihati-abhisheka"
+  ],
+  "note": "Под киртан трёх братьев плясал Нитьянанда (ЧБ Антья 5.259; Панихати)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "deity-served",
+  "who": "@gopinatha-agradvipa",
+  "facts": [
+   "F24",
+   "F25",
+   "F26",
+   "F30",
+   "F31",
+   "F32",
+   "I2"
+  ],
+  "note": "Явил Гопинатху в Аградвипе из чёрного камня по указанию Господа; Гопинатха во сне обещал Сам совершить по нему пинду и поныне ежегодно предлагает её в день его ухода (⚠Б2, ⚠Б4)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "co-worker",
+  "who": "@vakreshvara",
+  "facts": [
+   "F20"
+  ],
+  "event": "ev-ratha-yatra-gundicha",
+  "note": "Танцор его группы на Ратха-ятре."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "co-worker",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F20"
+  ],
+  "note": "Подпевал в его группе (у B — «(Чхота?) Харидас»)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "co-worker",
+  "who": "@raghava-pandita",
+  "facts": [
+   "F20",
+   "F23"
+  ],
+  "note": "Подпевал в его группе; в доме Рагхавы в Панихати братья пели Нитьянанде."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "co-worker",
+  "who": "@srivasa",
+  "facts": [
+   "F17",
+   "F21",
+   "F22"
+  ],
+  "event": "ev-dance-shrivasa-house",
+  "note": "Вели группы киртана во дворе Шривасы (ЧБ Мадхья 8.141–142); вместе шли в Пури на третий год (ЧЧ Мадхья 16.16)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "co-worker",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F17",
+   "F35"
+  ],
+  "note": "Вёл другую группу в день Хари-васары; герой его пады о вести Гададхары (T)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@gadadhara-pandita",
+  "facts": [
+   "F35"
+  ],
+  "note": "В паде «Пранера Мукунда хе» Гададхара приносит Мукунде весть о санньясе."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F38"
+  ],
+  "event": "ev-srinivasa-schooling",
+  "note": "Рассказывал мальчику Шринивасе об играх Гауры (B 661; БР 2.204); благословил младенца (T 204); милость (M 188)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@narottama-dasa",
+  "facts": [
+   "F39"
+  ],
+  "event": "ev-kheturi-festival",
+  "note": "Среди спутников, явившихся с Господом на киртане Нароттамы в Кхетури (БР 10, по M)."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F12",
+   "F16",
+   "F25",
+   "F26",
+   "F32",
+   "I1"
+  ],
+  "note": "«Гаудия-бхашья»: кая-вьюха ашрая-виграхи; «певцы Вриндавана»; «Анубхашья» к ЧЧ Ади 11.15: Гопинатха в Аградвипе и пинда."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@bhaktivedanta-svami",
+  "facts": [
+   "F7",
+   "F24"
+  ],
+  "note": "По комментарию к ЧЧ (у M): основал храм Гопинатхи в Аградвипе."
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@kavi-karnapura",
+  "facts": [
+   "F11",
+   "Q1"
+  ]
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@krishnadasa-kaviraja",
+  "facts": [
+   "F2",
+   "F19",
+   "F20",
+   "Q3",
+   "Q4"
+  ]
+ },
+ {
+  "from": "@govinda-ghosha",
+  "type": "other",
+  "who": "@vrindavana-dasa",
+  "facts": [
+   "F14",
+   "F17",
+   "F18",
+   "Q2",
+   "Q6",
+   "Q7"
+  ]
+ },
+ {
   "from": "@govinda-maharaja",
   "type": "guru",
   "who": "@shridhara-maharaja",
