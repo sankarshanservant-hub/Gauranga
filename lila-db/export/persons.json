@@ -4278,6 +4278,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "companion"
+   },
+   {
     "from": "@murari-gupta",
     "type": "companion"
    },
@@ -11065,6 +11069,10 @@
     "type": "friend"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "co-worker"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -12460,6 +12468,10 @@
     "type": "disciple"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "siksha-guru"
    },
@@ -13544,6 +13556,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "lineage-successor"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "friend"
    },
    {
     "from": "@narahari-sarakara",
@@ -14764,6 +14780,10 @@
     "type": "met"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -15269,6 +15289,10 @@
    {
     "from": "@kashishvara",
     "type": "other"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "co-worker"
    },
    {
     "from": "@murari-gupta",
@@ -15952,6 +15976,10 @@
     "type": "other"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "co-worker"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -16270,6 +16298,189 @@
    "ev-narottama-dream-gaura-kheturi",
    "ev-tattva-dasya-bhakta-bhava",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Мадхукантха, певец во Врадже (ГГД 140) и др.; происхождение — Чаттаграм (Читтагонг); уход — пурнима месяца Тривикрамы, день Снана-ятры Джаганнатхи — по нашему…",
+  "card": "parshadas/cards/mukunda-datta.yaml",
+  "article": {
+   "ru": "parshadas/ru/mukunda-datta.md",
+   "en": "parshadas/en/mukunda-datta.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#chattagrama",
+    "conf": "день и год явления источники не называют; место — Читтагонг: деревня Чханхара (#chhanhara, «Анубхашья» к ЧЧ Ади 10.40) ≠ Чакрашала (#chakrashala, «Према-виласа» 22; B 808; T 43) — ⚠3; буквальное чтение перевода ЧЧ Ади 13.61 (Радха-деша) — ⚠4; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F5"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "пурнима месяца Тривикрамы (≈ джьяйштха), день Снана-ятры Джаганнатхи — по нашему календарю (29.06.2026)",
+    "place": "",
+    "conf": "календарь ШЧСМ (541/ru): «День ухода Шрилы Мукунды Датты» (в тот же день — уход Шридхара Пандита); B, T, M дат не дают; год и место ухода неизвестны",
+    "facts": [
+     "F60"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Мадхукантха, певец во Врадже (вместе с Мадхувратой — Васудевой Даттой)",
+    "source": "ГГД 140",
+    "level": "A",
+    "variants": [
+     "«Анубхашья» к ЧЧ Ади 10.40 и «Према-виласа» 22.14 — так же."
+    ]
+   },
+   {
+    "in": "other",
+    "as": "частица гандхарвы (небесного певца)",
+    "source": "Мурари 1.4.7",
+    "level": "A",
+    "variants": [
+     "⚠2: не противоречит ГГД — о небесном певце, а не о форме во Врадже."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "sibling",
+    "who": "@vasudeva-datta",
+    "note": "Старший брат; Васудева считал младшего Мукунду старшим, ибо тот раньше обрёл милость Господа (ЧЧ Мадхья 11.138–140); оба — певцы Гауранги (ГГД 140); пел в группе Мукунды на Ратха-ятре."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Однокашник и друг с детства (ЧЧ Ади 10.40; Мадхья 11.138); главный певец Его киртанов; наказание-милость (ЧБ Мадхья 10) и наставление о двуруком облике (Мурари 2.4; Карнапура); один из пятерых, кому Господь открыл решение о санньясе; благословение: «когда бы Я ни пришёл, ты будешь Моим певцом» (ЧБ Мадхья 10.260)."
+   },
+   {
+    "type": "friend",
+    "who": "@gadadhara-pandita",
+    "note": "Неразлучные друзья (ЧБ Мадхья 7.44–45); Мукунда свёл Гададхару с Пундарикой и помог ему принять у того посвящение. = @gadadhara-pandita F38–F41."
+   },
+   {
+    "type": "friend",
+    "who": "@pundarika-vidyanidhi",
+    "note": "Земляк из Читтагонга; лишь Мукунда и Васудева знали его истинную славу (ЧБ Мадхья 7.39–43); его стих о милости Кришны (ШБ 3.2.23) открыл прему Пундарики. = @pundarika-vidyanidhi F30–F41."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "С детства — в собрании Адвайты; по ЧБ Мадхья 10.189 — читал с Адвайтой «Васиштху»; Адвайта: «удачливый Мукунда тоже был счастлив наказанием» (ЧЧ Ади 12.41); ел с Ним в Шантипуре (ЧЧ Мадхья 3.106–107). = @advaita F61, F155."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Пел во дворе Шриваса; Шриваса просил за него на маха-пракаше и передавал его вопрос Господу. = @srivasa F63."
+   },
+   {
+    "type": "met",
+    "who": "@ishvara-puri",
+    "note": "Его пение в собрании Адвайты открыло прему неузнанного Ишвары Пури (ЧБ Ади 11.77–81). = @ishvara-puri F29."
+   },
+   {
+    "type": "other",
+    "who": "@gangadasa-pandita",
+    "note": "По B 808 — учился у него вместе с Нимаем (без первоисточника, ⚠5). = @gangadasa-pandita F20."
+   },
+   {
+    "type": "co-worker",
+    "who": "@nityananda",
+    "note": "Вместе при санньясе и на пути в Пури; вместе решили послать Кала Кришнадаса в Гауду (ЧЧ Мадхья 10.67)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@chandrashekhara-acharya",
+    "note": "Совершили обряды санньясы (ЧЧ Ади 17.272–273); шли за Господом по Радха-деше (Мадхья 3.11); в действе у Чандрашекхары Мукунда начал киртан. = @chandrashekhara-acharya F20, F37."
+   },
+   {
+    "type": "co-worker",
+    "who": "@jagadananda-pandita",
+    "note": "Спутники на пути в Пури; стихи Сарвабхаумы: Джагадананда принёс лист, Мукунда переписал шлоки на стену (ЧЧ Мадхья 6.251–252)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@damodara-pandita",
+    "note": "Спутники на пути в Пури и в ожидании Господа с юга. = @damodara-pandita F5–F8, F12–F13, F18."
+   },
+   {
+    "type": "friend",
+    "who": "@gopinatha-acharya",
+    "note": "Знакомый по Навадвипе; встретил его у Львиных врат, через него — к Сарвабхауме; вместе осуждали майявадские речи Сарвабхаумы (ЧЧ Мадхья 6)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "Гневался на его майявадские речи («это и есть его милость к нему» — «Анубхашья»); сберёг его две шлоки о Господе."
+   },
+   {
+    "type": "other",
+    "who": "@brahmananda-bharati",
+    "note": "Доложил Господу о его приходе; диалог «где же Бхарати Госвами?» (ЧЧ Мадхья 10.151–156)."
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "note": "Вместе с Нитьянандой, Джагаданандой и Дамодарой решили послать его вестником в Гауду."
+   },
+   {
+    "type": "co-worker",
+    "who": "@murari-gupta",
+    "note": "Вместе получили наставление (ЧЧН 1; Мурари 2.4); пели в одной группе на Ратха-ятре; «словно второй Мукунда» шёл с ним в Пури (махакавья 14.28); бились в воде на озере Нарендра (ЧБ Антья 8.123)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@haridasa-thakura",
+    "note": "Звали к трапезе у Адвайты вместе; Харидас — танцор в группе Мукунды на Ратха-ятре."
+   },
+   {
+    "type": "co-worker",
+    "who": "@kashishvara",
+    "note": "Во главе второго кольца вокруг Господа (ЧЧ Мадхья 13.89)."
+   },
+   {
+    "type": "met",
+    "who": "@yavana-governor-pichhalda",
+    "note": "Мукунда сказал ему, как послужить Господу: помочь добраться до Ганги (ЧЧ Мадхья 16.190–191)."
+   },
+   {
+    "type": "met",
+    "who": "@raghunatha-dasa",
+    "note": "Первым увидел его и представил Господу (ЧЧ Антья 6.190)."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "note": "Слышал у моря его пение после ухода (ЧЧ Антья 2.153–154)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Встречал его в Пури; пел в его группе в танце (ЧЧ Мадхья 13.73). = @svarupa-damodara F17."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-dasa",
+    "note": "Тёзка, не путать: Мукунда Дас из Шрикханды, придворный врач, отец Рагхунанданы."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-sanjaya",
+    "note": "Тёзка, не путать: в его чанди-мандапе Нимай держал школу (ЧБ Ади 10)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.40 — родина Чханхара, Мадхукантха (ГГД 140), сводка его лил по ЧБ; пояснения издания ЧБ по «Гаудия-бхашье» к Мадхья 10."
+   }
   ],
   "related_by": [
    {
@@ -17220,6 +17431,10 @@
     "type": "neighbor"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "co-worker"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -17669,6 +17884,10 @@
     "type": "companion"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "co-worker"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -18007,6 +18226,10 @@
     "type": "other"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -18309,6 +18532,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "met"
    },
    {
     "from": "@nityananda",
@@ -19174,6 +19401,10 @@
    },
    {
     "from": "@kashishvara",
+    "type": "other"
+   },
+   {
+    "from": "@mukunda-datta",
     "type": "other"
    },
    {
@@ -20441,6 +20672,10 @@
    {
     "from": "@kashishvara",
     "type": "co-worker"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "other"
    },
    {
     "from": "@murari-gupta",
@@ -23244,6 +23479,10 @@
   ],
   "related_by": [
    {
+    "from": "@mukunda-datta",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "sibling"
    },
@@ -25255,6 +25494,10 @@
    },
    {
     "from": "@kashishvara",
+    "type": "co-worker"
+   },
+   {
+    "from": "@mukunda-datta",
     "type": "co-worker"
    },
    {
@@ -27387,6 +27630,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "sibling"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -27592,6 +27839,10 @@
    {
     "from": "@ishvara-puri",
     "type": "host"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "friend"
    },
    {
     "from": "@murari-gupta",
@@ -28604,6 +28855,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "companion"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "co-worker"
    },
    {
     "from": "@nityananda",
@@ -29766,6 +30021,10 @@
     "type": "disciple"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "friend"
+   },
+   {
     "from": "@svarupa-damodara",
     "type": "friend"
    }
@@ -30887,6 +31146,10 @@
     "type": "friend"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "met"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -30984,6 +31247,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "other"
    },
    {
     "from": "@paramananda-puri",
@@ -32831,6 +33098,10 @@
    },
    {
     "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@mukunda-datta",
     "type": "other"
    },
    {
@@ -35189,6 +35460,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "met"
+   },
+   {
+    "from": "@mukunda-datta",
+    "type": "other"
    },
    {
     "from": "@paramananda-puri",
@@ -41580,6 +41855,10 @@
     "type": "other"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "other"
+   },
+   {
     "from": "@murari-gupta",
     "type": "other"
    },
@@ -46321,6 +46600,10 @@
     "type": "other"
    },
    {
+    "from": "@mukunda-datta",
+    "type": "other"
+   },
+   {
     "from": "@vasu-ghosha",
     "type": "other"
    },
@@ -50251,6 +50534,12 @@
   ],
   "events": [
    "ev-yavana-governor-boat"
+  ],
+  "related_by": [
+   {
+    "from": "@mukunda-datta",
+    "type": "met"
+   }
   ]
  },
  {
