@@ -4202,6 +4202,10 @@
     "type": "host"
    },
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@damayanti",
     "type": "served-by"
    },
@@ -12497,6 +12501,10 @@
     "type": "guru"
    },
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "companion"
    },
@@ -14846,6 +14854,10 @@
     "type": "companion"
    },
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@devananda-pandita",
     "type": "opposed"
    },
@@ -15366,6 +15378,10 @@
    },
    {
     "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@chhota-haridasa",
     "type": "other"
    },
    {
@@ -16596,6 +16612,10 @@
    {
     "from": "@chandrashekhara-acharya",
     "type": "companion"
+   },
+   {
+    "from": "@chhota-haridasa",
+    "type": "other"
    },
    {
     "from": "@damodara-pandita",
@@ -17991,6 +18011,10 @@
   "related_by": [
    {
     "from": "@chandrashekhara-acharya",
+    "type": "other"
+   },
+   {
+    "from": "@chhota-haridasa",
     "type": "other"
    },
    {
@@ -20773,6 +20797,10 @@
    },
    {
     "from": "@bhavananda-raya",
+    "type": "other"
+   },
+   {
+    "from": "@chhota-haridasa",
     "type": "other"
    },
    {
@@ -25671,6 +25699,10 @@
     "type": "other"
    },
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "companion"
    },
@@ -26752,6 +26784,10 @@
   ],
   "related_by": [
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "companion"
    },
@@ -27446,6 +27482,10 @@
    {
     "from": "@buddhimanta-khan",
     "type": "other"
+   },
+   {
+    "from": "@chhota-haridasa",
+    "type": "co-worker"
    },
    {
     "from": "@damayanti",
@@ -29268,6 +29308,10 @@
   ],
   "related_by": [
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "sibling"
    },
@@ -29666,6 +29710,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
    {
     "from": "@damodara-pandita",
     "type": "sibling"
@@ -30779,6 +30827,10 @@
   ],
   "related_by": [
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@govinda-servant",
     "type": "served-by"
    },
@@ -31045,6 +31097,10 @@
    {
     "from": "@chandrashekhara-acharya",
     "type": "companion"
+   },
+   {
+    "from": "@chhota-haridasa",
+    "type": "co-worker"
    },
    {
     "from": "@madhava-ghosha",
@@ -36095,6 +36151,156 @@
    "ev-chhota-haridasa-punished",
    "ev-chhota-haridasa-prayaga",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Патрака, слуга Кришны во Вриндаване (ГГД 138)",
+  "card": "parshadas/cards/chhota-haridasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/chhota-haridasa.md",
+   "en": "parshadas/en/chhota-haridasa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-15) дня явления нет",
+    "facts": [
+     "F3"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "#prayaga",
+    "conf": "оставил тело в Тривени (слияние Ганги, Ямуны и Сарасвати) в Праяге в годовщину своего отвержения, на исходе ночи (ЧЧ Антья 2.146–151); год не назван; в календаре ШЧСМ (541/ru, проверено 2026-11-15) дня ухода нет",
+    "facts": [
+     "F3",
+     "F32",
+     "F34"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Патрака, слуга Кришны во Вриндаване",
+    "source": "ГГД 138",
+    "level": "A",
+    "variants": [
+     "ГГД называет пару «Рактака и Патрака» = «Харидасы старший и младший»; Младший = Патрака — по порядку пар (так и таблица введения к «Карче» Говинды Даса); T, M, B не приводят."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "other",
+    "who": "@mahaprabhu",
+    "note": "Певец (киртания) Господа в Пури; отвергнут за то, что, будучи вайраги, говорил с женщиной (ЧЧ Антья 2.112–125); через год оставил тело в Тривени и в божественном теле гандхарвы незримо пел Господу (2.146–149); «таково искупление» (2.165)."
+   },
+   {
+    "type": "companion",
+    "who": "@bada-haridasa",
+    "note": "Второй певец при Господе (ЧЧ Ади 10.147; Мадхья 10.149); по ГГД 138 — Рактака и Патрака."
+   },
+   {
+    "type": "co-worker",
+    "who": "@govinda-servant",
+    "note": "Жил при Говинде и служил с ним Господу (Мадхья 10.149–150); Господь велел Говинде не пускать его (Антья 2.113); Говинда с другими предположил о его самоубийстве (2.155–156, ⚠9). = @govinda-servant F47."
+   },
+   {
+    "type": "co-worker",
+    "who": "@ramai-puri",
+    "note": "Вместе с Говиндой служили Господу (ЧЧ Мадхья 10.149–150)."
+   },
+   {
+    "type": "co-worker",
+    "who": "@nandai",
+    "note": "Вместе с Говиндой служили Господу (ЧЧ Мадхья 10.149–150)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-acharya",
+    "note": "По его поручению попросил рис у Мадхави-деви (ЧЧ Антья 2.101–111); T 136 — «в доме Бхагавана Ачарьи» (⚠4)."
+   },
+   {
+    "type": "other",
+    "who": "@madhavi-devi",
+    "note": "Попросил у неё один ман белого риса от имени Бхагавана Ачарьи (ЧЧ Антья 2.103–107); маха-бхагавата, вины на ней нет (⚠Б5); у Ишаны Нагары — обменял у неё подаянный рис (⚠11)."
+   },
+   {
+    "type": "other",
+    "who": "@shikhi-mahiti",
+    "note": "Мадхави — сестра Шикхи Махити (ЧЧ Антья 2.103–106)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Просил за него; уговорил прервать пост (2.138–141); отверг догадку о самоубийстве (2.157–159); заключил, что силой Тривени он пришёл к Господу (2.166). = @svarupa-damodara F52, F71, F129, F148."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-puri",
+    "note": "По просьбе преданных просил за него; Господь пригрозил уйти в Алаланатху (ЧЧ Антья 2.128–137). = @paramananda-puri F43–F46."
+   },
+   {
+    "type": "other",
+    "who": "@srivasa",
+    "note": "Узнал в Навадвипе о его уходе и спросил Господа о его участи (ЧЧ Антья 2.160–165). = @srivasa F132."
+   },
+   {
+    "type": "other",
+    "who": "@shivananda-sena",
+    "note": "Привёл бенгальцев в Пури на следующий год (ЧЧ Антья 2.162). = @shivananda-sena F30."
+   },
+   {
+    "type": "other",
+    "who": "@jagadananda-pandita",
+    "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @jagadananda-pandita F80."
+   },
+   {
+    "type": "other",
+    "who": "@kashishvara",
+    "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @kashishvara F29."
+   },
+   {
+    "type": "other",
+    "who": "@shankara-pandita",
+    "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154)."
+   },
+   {
+    "type": "other",
+    "who": "@damodara-pandita",
+    "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154); Мадхья 1.259 — рядом в обзоре. = @damodara-pandita F43, F52."
+   },
+   {
+    "type": "other",
+    "who": "@mukunda-datta",
+    "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @mukunda-datta F57."
+   },
+   {
+    "type": "co-worker",
+    "who": "@govinda-ghosha",
+    "note": "Предположительно подпевал в его (четвёртой) группе на Ратха-ятре (ЧЧ Мадхья 13.42 — «Харидас»; T 64 — Чхота Хари Дас; B 847 и «Анубхашья» — со знаком вопроса; ⚠2). = @govinda-ghosha F20."
+   },
+   {
+    "type": "other",
+    "who": "@advaita",
+    "note": "Лишь у Ишаны Нагары («Адвайта-пракаша» 18.148, ур. D): после отвержения Харидаса Адвайта с преданными уходит в Гауду."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Антья 2.143, 2.146–169: наказание — урок против пракрита-сахаджии и высшая милость; оставивший тело в святом месте Вишну обретает благую участь; Господь принял его служение — киртан. B 883–884 следует ей."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Тёзка, не путать (Намачарья; глава B 858–880 — сразу перед нашей)."
+   }
   ],
   "related_by": [
    {
@@ -43024,6 +43230,10 @@
     "type": "other"
    },
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@damayanti",
     "type": "other"
    },
@@ -45659,6 +45869,10 @@
     "type": "nephew"
    },
    {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -45707,6 +45921,10 @@
    {
     "from": "@bhavananda-raya",
     "type": "niece"
+   },
+   {
+    "from": "@chhota-haridasa",
+    "type": "other"
    },
    {
     "from": "@ramananda-raya",
@@ -45905,6 +46123,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@chhota-haridasa",
+    "type": "other"
+   },
    {
     "from": "@gadadhara-pandita",
     "type": "other"
@@ -50510,6 +50732,10 @@
   ],
   "related_by": [
    {
+    "from": "@chhota-haridasa",
+    "type": "co-worker"
+   },
+   {
     "from": "@govinda-servant",
     "type": "co-worker"
    },
@@ -50539,6 +50765,10 @@
   ],
   "related_by": [
    {
+    "from": "@chhota-haridasa",
+    "type": "co-worker"
+   },
+   {
     "from": "@govinda-servant",
     "type": "co-worker"
    },
@@ -50563,6 +50793,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@chhota-haridasa",
+    "type": "companion"
+   },
    {
     "from": "@gangadasa-pandita",
     "type": "companion"

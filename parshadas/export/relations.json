@@ -2468,6 +2468,276 @@
   "note": "Основал Шри Чайтанья Матх на месте его дома (Враджапаттана), 1918 (T)."
  },
  {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F4",
+   "F5",
+   "F7",
+   "F15",
+   "F16",
+   "F20",
+   "F23",
+   "F26",
+   "F31",
+   "F33",
+   "F34",
+   "F40",
+   "F41",
+   "I2",
+   "I3"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished",
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Певец (киртания) Господа в Пури; отвергнут за то, что, будучи вайраги, говорил с женщиной (ЧЧ Антья 2.112–125); через год оставил тело в Тривени и в божественном теле гандхарвы незримо пел Господу (2.146–149); «таково искупление» (2.165)."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "companion",
+  "who": "@bada-haridasa",
+  "facts": [
+   "F1",
+   "F2",
+   "F4",
+   "F5"
+  ],
+  "note": "Второй певец при Господе (ЧЧ Ади 10.147; Мадхья 10.149); по ГГД 138 — Рактака и Патрака."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "co-worker",
+  "who": "@govinda-servant",
+  "facts": [
+   "F5",
+   "F16",
+   "F17",
+   "F35",
+   "F36"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished",
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Жил при Говинде и служил с ним Господу (Мадхья 10.149–150); Господь велел Говинде не пускать его (Антья 2.113); Говинда с другими предположил о его самоубийстве (2.155–156, ⚠9). = @govinda-servant F47."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "co-worker",
+  "who": "@ramai-puri",
+  "facts": [
+   "F5"
+  ],
+  "note": "Вместе с Говиндой служили Господу (ЧЧ Мадхья 10.149–150)."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "co-worker",
+  "who": "@nandai",
+  "facts": [
+   "F5"
+  ],
+  "note": "Вместе с Говиндой служили Господу (ЧЧ Мадхья 10.149–150)."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F10",
+   "F11",
+   "F12",
+   "F14",
+   "F15"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "По его поручению попросил рис у Мадхави-деви (ЧЧ Антья 2.101–111); T 136 — «в доме Бхагавана Ачарьи» (⚠4)."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@madhavi-devi",
+  "facts": [
+   "F11",
+   "F13",
+   "F14",
+   "F44"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "Попросил у неё один ман белого риса от имени Бхагавана Ачарьи (ЧЧ Антья 2.103–107); маха-бхагавата, вины на ней нет (⚠Б5); у Ишаны Нагары — обменял у неё подаянный рис (⚠11)."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@shikhi-mahiti",
+  "facts": [
+   "F11",
+   "F13"
+  ],
+  "note": "Мадхави — сестра Шикхи Махити (ЧЧ Антья 2.103–106)."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F19",
+   "F27",
+   "F28",
+   "F35",
+   "F37",
+   "F42"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished",
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Просил за него; уговорил прервать пост (2.138–141); отверг догадку о самоубийстве (2.157–159); заключил, что силой Тривени он пришёл к Господу (2.166). = @svarupa-damodara F52, F71, F129, F148."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@paramananda-puri",
+  "facts": [
+   "F25",
+   "F26"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "По просьбе преданных просил за него; Господь пригрозил уйти в Алаланатху (ЧЧ Антья 2.128–137). = @paramananda-puri F43–F46."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@srivasa",
+  "facts": [
+   "F38",
+   "F40",
+   "F41"
+  ],
+  "events": [
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Узнал в Навадвипе о его уходе и спросил Господа о его участи (ЧЧ Антья 2.160–165). = @srivasa F132."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@shivananda-sena",
+  "facts": [
+   "F39"
+  ],
+  "note": "Привёл бенгальцев в Пури на следующий год (ЧЧ Антья 2.162). = @shivananda-sena F30."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@jagadananda-pandita",
+  "facts": [
+   "F35"
+  ],
+  "events": [
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @jagadananda-pandita F80."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@kashishvara",
+  "facts": [
+   "F35"
+  ],
+  "events": [
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @kashishvara F29."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@shankara-pandita",
+  "facts": [
+   "F35"
+  ],
+  "events": [
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154)."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F35",
+   "F45"
+  ],
+  "events": [
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154); Мадхья 1.259 — рядом в обзоре. = @damodara-pandita F43, F52."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@mukunda-datta",
+  "facts": [
+   "F35"
+  ],
+  "events": [
+   "ev-chhota-haridasa-prayaga"
+  ],
+  "note": "Слышал у моря его пение (ЧЧ Антья 2.153–154). = @mukunda-datta F57."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "co-worker",
+  "who": "@govinda-ghosha",
+  "facts": [
+   "F8"
+  ],
+  "events": [
+   "ev-ratha-yatra-gundicha"
+  ],
+  "note": "Предположительно подпевал в его (четвёртой) группе на Ратха-ятре (ЧЧ Мадхья 13.42 — «Харидас»; T 64 — Чхота Хари Дас; B 847 и «Анубхашья» — со знаком вопроса; ⚠2). = @govinda-ghosha F20."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@advaita",
+  "facts": [
+   "F44"
+  ],
+  "note": "Лишь у Ишаны Нагары («Адвайта-пракаша» 18.148, ур. D): после отвержения Харидаса Адвайта с преданными уходит в Гауду."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "I2",
+   "F33",
+   "F41",
+   "F42"
+  ],
+  "note": "«Анубхашья» к ЧЧ Антья 2.143, 2.146–169: наказание — урок против пракрита-сахаджии и высшая милость; оставивший тело в святом месте Вишну обретает благую участь; Господь принял его служение — киртан. B 883–884 следует ей."
+ },
+ {
+  "from": "@chhota-haridasa",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [],
+  "note": "Тёзка, не путать (Намачарья; глава B 858–880 — сразу перед нашей)."
+ },
+ {
   "from": "@damayanti",
   "type": "sibling",
   "who": "@raghava-pandita",
