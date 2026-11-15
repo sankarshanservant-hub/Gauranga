@@ -4354,7 +4354,7 @@
 - cc (A): Ади 10.77 — [77–77](../chaitanya-charitamrita/ed/vcd-rev/CC_Adi10.md?plain=1#L783-L783) · `cc-0132`
 - cc (A): Мадхья 1.152–154 — [152–154](../chaitanya-charitamrita/ed/vcd-rev/CC_Madhya01.md?plain=1#L1571-L1591) · `cc-0340`
 - murari-kcc (A): Пракрама 3, сарга 17, шлоки 17–20 — [17–20](../murari-gupta/ru/3.17.md?plain=1#L37-L43) · `mkc-0187`
-- cb (A): Антья 3, 504–543 — [504–543](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2465-L2652) · `cb-3054`
+- cb (A): Антья 3, 504–543 — [504–543](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L2465-L2654) · `cb-3054`
 
 ## Владыка Гауды видит толпы, идущие за Господом / The Sultan of Gauda sees the crowds following the Lord  `ev-gauda-sultan-sees-crowds` (1514–1516, возраст 28–30, оценка)
 

@@ -35,19 +35,20 @@ along which the Lord would pass. Narahari Chakravarti in the “Bhakti-ratnakara
 places of Navadvipa, points out this place too: “Here is the embankment of Visharada: here the Lord met Devananda, who
 had offended Srivasa; at the Lord's chastisement in words he was grieved” (BR 12.2976–2977). <!-- F3 F4 Q2 Q5 -->
 
-The school (*tol*) where Devananda taught the “Bhagavatam,” according to the biographies, was in the village of Kuliya;
+The school (*tol*) where Devananda taught the “Bhagavatam,” according to the biographies, stood in the village of Kuliya;
 so also writes Srila Bhaktisiddhanta in the “Gaudiya-bhashya” to CB, Madhya 9.98: “Devananda's school was in Kuliya.”
 One biography says that he also lived in Kuliya, near where the Sri Chaitanya Saraswat Math of Srila Sridhara Maharaja
-now stands.[^3] <!-- F5 Q4 -->
+now stands.[^3] And in the “Anubhashya” to CC, Madhya 16.207 Srila Bhaktisiddhanta names Vidyanagara on Jahnu-dvipa,
+near Koladvipa — where Vidya-Vachaspati's house stood — as the place where he lived. <!-- F5 Q4 F43 -->
 
-Kuliya, according to the “Gaudiya-bhashya,” was a suburb of Navadvipa on the western bank of the Ganga; the present town
-of Navadvipa is ancient Kuliya, “the place where offences are destroyed” (*aparadha-bhanjaner pat*). One of the
+Kuliya, according to the “Gaudiya-bhashya,” was a suburb of Navadvipa on the Ganga's western shore; the town that bears
+the name Navadvipa today is the old Kuliya, “the place where offences are destroyed” (*aparadha-bhanjaner pat*). One of the
 biographies explains that the heart of Navadvipa then, Mayapur, lay on the eastern bank, and the old names of quarters
 of the present town keep the memory of this: Koler-ganj, Koler-daha, Gadkhali-kol. <!-- F6 -->
 
 Navadvipa-dhama consists of nine islands, each corresponding to one of the nine kinds of bhakti. Kuliya is Koladvipa,
-the island of *pada-sevana*, service to the Lord's feet; in common speech “Kola” became “Kuliya.” “Kola” means “boar”:
-in Satya-yuga the Lord appeared here to the brahmana Vasudeva in the form of Varaha.[^4] <!-- F7 -->
+the island of *pada-sevana*, service to the Lord's feet; in common speech “Kola” became “Kuliya.” The word “kola”
+means a boar: here, in Satya-yuga, the Lord as Varaha showed Himself to the brahmana Vasudeva.[^4] <!-- F7 -->
 
 ## A Scholar without Bhakti
 Vrindavana Dasa describes Devananda with respect:
@@ -58,8 +59,8 @@ devotion to the Lord in him.” (CB, Madhya 21.8)
 “At that time Devananda Pandita was honoured by all as a holy and wise scholar. He always taught the
 ‘Srimad-Bhagavatam.’ From early childhood he had taken the vow to live as a sannyasi.” (CB, Madhya 21.57–58)
 
-He was endowed with many good qualities, peaceful by nature, and highly respected; he read the “Bhagavatam,” kept vows
-like a sannyasi and had been celibate from childhood. Many studied under him, and he was famed for his knowledge of the
+He was endowed with many good qualities, peaceful by nature, and highly respected; he read the “Bhagavatam,” kept a
+sannyasi's vows and had been celibate from childhood. Many studied under him, and he was famed for his knowledge of the
 sayings of the “Bhagavatam.” <!-- F8 -->
 
 But his renunciation was not warmed by devotion. One of the biographies says that because there was no bhakti in him,
@@ -69,7 +70,7 @@ understand that the highest aim of the “Bhagavatam” is bhakti, and, aspiring
 renunciation in his expositions rather than service to the Lord.[^5] <!-- F9 F10 -->
 
 Srila Bhaktisiddhanta Sarasvati in the “Gaudiya-bhashya” judges him with care: Devananda was a *smarta*, yet a great
-scholar and ascetic; he read nothing but the “Bhagavatam,” believed in God and had mastered his senses — he lacked only
+scholar and ascetic; he read nothing but the “Bhagavatam,” had faith in God and mastery over his senses — he lacked only
 faith in Mahaprabhu. So speaks of him Vrindavana Dasa himself:
 
 “From his very birth he was pious, detached and learned. He taught no scripture other than the ‘Srimad-Bhagavatam.’ He
@@ -90,8 +91,8 @@ The biographies add details. Srivasa, a *rasika-bhakta*, fell to the ground at t
 his eyes, his voice choked, he rolled on the floor. The students shouted: “Madman! He doesn't listen properly — out with
 him!” — and dragged him out by force. They came to Devananda only for knowledge of grammar and worldly recognition, and
 so they did not understand Srivasa's bhajana. His weeping would not stop, and they never understood that this man, so
-dear to Chaitanya, purifies the world, that the *sattvika-bhavas* of his spiritual body bring every purity to the world;
-they took him for an ordinary sentimental man and threw him out of the classroom to go on with the lesson.
+dear to Chaitanya, purifies the world, that the *sattvika-bhavas* of his spiritual body bring all purity to the world;
+taking him for an ordinary emotional man, they put him out of the classroom so that the lesson could go on.
 <!-- F12 F13 F14 -->
 
 “Srivasa could not stop his tears. And though he was a close friend of Sri Chaitanya, able to deliver the whole
@@ -100,10 +101,10 @@ guru has no desire to serve God, his disciples become the same. Returning to out
 (CB, Madhya 21.63–66)
 
 Devananda saw this and did not stop his students — and so became guilty of *vaishnava-aparadha*, an offence against a
-devotee. One of the biographies remarks that when a disciple sins through the guru's ignorance, the guru shares the
-consequences. Another says it more plainly: had Devananda had even a little inclination to serve God, he would have
-forbidden his ignorant students such a deed; since he did not, both he and they proved to be mere disputing reciters,
-sunk in the disease of worldly objects. Without bhakti, vows and celibacy are fruitless: a teacher not inclined to serve
+devotee. One of the biographies remarks that a disciple's sin committed through his teacher's ignorance falls on the
+teacher too. Another says it more plainly: had Devananda been even slightly inclined to serve God, he would not have
+let his ignorant students do such a thing; since he did not, both he and they proved to be mere disputing reciters,
+lost in the sickness of sense objects. Without bhakti, vows and celibacy are fruitless: a teacher not inclined to serve
 the Lord will not keep his students from offence and becomes guilty himself. <!-- F15 I3 -->
 
 Srivasa went home saddened and said nothing to anyone. According to one of the biographies, all this happened before
@@ -129,7 +130,7 @@ One day the Lord was walking through Navadvipa with His devotees and passed by V
 of all beings, the Lord knows everything. He did not hear the glorification of loving service to God in that
 exposition.” (CB, Madhya 21.11–12)
 
-And the Lord, in anger, spoke of the “Bhagavatam”: this reciter would not grasp its meaning in many births —
+And the Lord, in anger, spoke of the “Bhagavatam”: this reciter would not grasp its meaning in any birth —
 
 “‘The “Srimad-Bhagavatam” is Krishna Himself in the form of a book. In the “Srimad-Bhagavatam” loving service to God is
 described as the highest goal of life. The four Vedas proclaim the “Srimad-Bhagavatam” to be the embodiment of ecstatic
@@ -139,10 +140,10 @@ science of My greatness and glory is revealed. Whoever makes a difference betwee
 “Bhagavatam” surely brings ruin upon himself.’” (CB, Madhya 21.14–18)[^8] <!-- F18 Q7 -->
 
 The Lord said that a reciter who, expounding the “Bhagavatam,” says nothing of loving service to God knows nothing — and
-was about to go and tear up his book; but the Vaishnavas stopped Him (CB, Madhya 21.20–22).[^9] Srila Bhaktisiddhanta
+set out to tear up his book; but the Vaishnavas stopped Him (CB, Madhya 21.20–22).[^9] Srila Bhaktisiddhanta
 Sarasvati explains in the “Gaudiya-bhashya” to these verses why the Lord is angry. Those devoid of bhakti take
 indifference to service for the highest goal and thereby irritate the Lord, though by nature He is merciful. Gaurasundara
-shows that such a view is not only unnecessary but faulty, and that both enjoying the fruits of one's actions and
+shows that such a view is not merely needless but faulty, and that both enjoying the fruits of one's actions and
 renouncing them are out of place. The Lord's anger gladdens the devotees: it is not like the anger of a conditioned
 soul; it is His care for the purity of bhakti. <!-- Q6 I5 -->
 
@@ -173,9 +174,9 @@ him out of your house? Is it right to drive out one who weeps with love for Kris
 “Srimad-Bhagavatam”?’” (CB, Madhya 21.67–71)
 
 In the retelling of one of the biographies the Lord said: hearing the “Bhagavatam” sung melts the heart; only those
-attached to worldly enjoyment keep it hard; when Srivasa gave himself wholly to devotional feeling, you and your
-students, not understanding it, drove him away from the hearing; yet even the Ganga, who stands on Hara's head, came down
-to earth as a river to see such a devotee; this offence has rightly turned you away from God. <!-- F21 -->
+attached to worldly enjoyment keep it hard; when Srivasa gave himself wholly to devotional feeling, neither you
+nor your students understood him, and you drove him away from the hearing; yet even the Ganga, who stands on Hara's head, came down
+to earth as a river to see such a devotee; this offence has justly made you averse to God. <!-- F21 -->
 
 “Though you expound the ‘Srimad-Bhagavatam,’ I am convinced that you will not understand its meaning in any of your
 future lives.” (CB, Madhya 21.72)
@@ -192,10 +193,10 @@ rebuked him shows Devananda's great good fortune. Lord Chaitanya punishes only t
 perishes as a result of such punishment, he attains Vaikuntha.” (CB, Madhya 21.75–78)
 
 Devananda was overcome with shame. But having received this punishment in words from the Lord, he gained the awakening of
-*sukriti*, and the punishment later became the cause of his good fortune: great good fortune is the Lord's mercy in the
+*sukriti*, and in time the punishment proved the source of his good fortune: great good fortune is the Lord's mercy in the
 form of punishment. The biographies explain Vrindavana Dasa's words: whom Vishnu punishes gains liberation; whoever is
-punished by Chaitanya obtains great good, and even one who would perish by His punishment goes to Vaikuntha. This is
-said of the nature of the Lord's punishment, which always brings good; Devananda the Lord punished only with words, and
+punished by Chaitanya obtains great good, and even one who would perish by His punishment goes to Vaikuntha. This speaks
+of what the Lord's punishment is — it always brings good; Devananda the Lord punished only with words, and
 it was the beginning of his deliverance. <!-- F23 I1 Q10 -->
 
 “Whoever accepts with faith the punishment of Lord Chaitanya will surely obtain love for Krishna in the future.” (CB,
@@ -209,7 +210,7 @@ worship of the Lord's Deity begins after the rite of installation; but the Vedas
 the Supreme Lord are fully equal to Him from their very appearance.” (CB, Madhya 21.81–82)
 
 One of the biographies, following the “Gaudiya-bhashya,” explains: by external reckoning, worship of the Deity begins
-after the rite of *prana-pratishtha*, while the Vaishnava, Tulasi, the Ganga and the book “Bhagavatam” are worshipped
+after the rite of *prana-pratishtha*, while the book “Bhagavatam,” the Vaishnava, Tulasi and the Ganga are worshipped
 without it. Though the world sees them as objects for its own use, they are themselves enjoyers, non-different from the
 Lord; so say the Vedas. Therefore one who offends a devotee offends the “Bhagavatam” too — and the meaning of the book
 closes to him. <!-- I2 -->
@@ -257,6 +258,11 @@ says that this was five years after His sannyasa and that the Lord then forgave 
 *aparadha-bhanjana*, “the destruction of offences” — where the temple of Srila Sridhara Maharaja stands today — and
 taught them the science of bhakti.[^12] <!-- F28 F29 F30 F31 -->
 
+Krishnadasa Kaviraja describes this journey: because of the crowds at Vidya-Vachaspati's house the Lord went away to
+Kuliya and stayed in the house of Madhava Dasa; countless people saw Him there, and staying seven days He delivered all
+the offenders in a special way (CC, Madhya 16.207–209). Srila Bhaktivinoda Thakura in his “Amrita-pravaha-bhashya” to
+these verses says plainly that in those seven days the Lord destroyed the offences of Devananda and others. <!-- F42 -->
+
 Shortly before Devananda came, the Lord gave a remedy to another brahmana who repented of having reviled the Vaishnavas:
 
 “‘O brahmana, listen. One who has taken poison must drink nectar with the same mouth. Then the poison will be
@@ -266,9 +272,9 @@ With the same mouth that once offended the Vaishnavas one must now glorify them 
 this Devananda came:
 
 “Lord Gaurachandra was seated when Devananda Pandita appeared before Him. Humbly offering obeisances, Devananda Pandita
-remained standing at a distance, hesitant. But the Lord was glad to see him and had him sit beside Him. The Lord forgave
-all Devananda's former offences and bestowed His mercy on him. The Lord said: ‘You have served Vakreshvara Pandita, and
-that has brought you close to Me. Vakreshvara Pandita is full of the spiritual energies of the Supreme Lord. Whoever
+remained standing at a distance, hesitant. The Lord, seeing him, was pleased, and taking him aside to a quiet place,
+sat down with him. The Lord forgave all Devananda's former offences and bestowed His mercy on him. The Lord
+said: ‘You have served Vakreshvara Pandita, and that has brought you close to Me. Vakreshvara Pandita is full of the spiritual energies of the Supreme Lord. Whoever
 serves him attains Krishna. Krishna has made His abode in Vakreshvara's heart. When he dances, Krishna dances too.
 Wherever Vakreshvara stays becomes like all the holy places; Vaikuntha is manifest there.’” (CB, Antya 3.489–496)
 <!-- F32 Q8 Q11 -->
@@ -282,7 +288,7 @@ compassionate to all living beings. Therefore I pray to You: grant me attachment
 And he asked: “I am not all-knowing, yet I teach the book of the All-knowing, the ‘Bhagavatam,’ knowing nothing myself.
 Tell me what I should explain and what I should teach” (CB, Antya 3.501–503). One of the biographies renders his prayer
 thus: I am a sinner, I did not worship Your feet and deceived myself; but by Your causeless mercy I see Your feet;
-instruct me in the goal of life and explain the meaning of the “Bhagavatam.” <!-- F33 -->
+teach me what the goal of life is and explain the meaning of the “Bhagavatam.” <!-- F33 -->
 
 ## The Essence of the “Bhagavatam”
 The Lord replied:
@@ -308,6 +314,13 @@ explaining to everyone the bliss of loving service to Krishna.’” (CB, Antya 
 
 Thus by Vakreshvara's mercy Devananda received from the Lord the devotional meaning of the “Bhagavata,” as Krishnadasa
 Kaviraja says (CC, Adi 10.77). <!-- F34 Q9 -->
+
+Murari Gupta tells of this meeting briefly. Devananda, who had received the mercy of Vakreshvara, came to the Lord's
+feet, confessed his former ill will and asked what his true good might be; and the Lord said to him: “Know that the
+Srimad Bhagavatam is Sri Krishna Himself, directly — the embodiment of being, consciousness and bliss, free from envy
+and every taint. Whoever reads it, tasting the rasa of devotion, will attain bliss.” “Hearing this, the brahmana bowed
+his head and, covered with the dust of His feet, immersed in the rasa of Gaurachandra, danced most wondrously” (Murari,
+3.17.17–20). <!-- F44 -->
 
 The meaning of the “Bhagavatam” is open not to the proud scholar but to one who has surrendered. “Bhagavata” is both the
 book and the devotee, and they are one:
@@ -358,11 +371,12 @@ indifference to service for the highest goal irritates the Lord, though by natur
 shows that such a view is faulty; and the devotees are gladdened by such anger of the Lord. <!-- I1 I5 -->
 
 The “Bhagavatam” is understood not by learning but by one who has surrendered, and to understand the book-bhagavata one
-must serve the devotee-bhagavata. As blasphemy of the devotees deprives one of mercy, so glorifying and serving them is
+must serve the devotee-bhagavata. As reviling the devotees deprives one of mercy, so glorifying and serving them is
 the best path to mercy. An offence to a Vaishnava is removed by the forgiveness of the one offended and by service to a
 Vaishnava: the blessing of a devotee quickly gives bhakti. Devananda, having served Vakreshvara, gained faith in
 Mahaprabhu, received forgiveness, and heard from the Lord Himself that the whole essence of the “Bhagavatam” is bhakti.
-<!-- I4 I5 I6 -->
+Not without reason does one of the biographies say that through Devananda Sri Chaitanya Mahaprabhu revealed the glory
+of the “Bhagavatam” to the world. <!-- I4 I5 I6 F41 -->
 
 [^1]: He should not be confused with his namesake — Devananda, one of the four brothers who were servants of Sri
     Nityananda: “Narayana, Krishnadasa, Manohara and Devananda — these four brothers were servants of Nitai” (CC, Adi
@@ -402,7 +416,10 @@ Mahaprabhu, received forgiveness, and heard from the Lord Himself that the whole
     Kuliya, on the way to Gauda, before meeting Rupa and Sanatana at Ramakeli. Other biographies say that the Lord stayed
     seven days in Kuliya in the house of Madhava Dasa (Chhakari Chattopadhyaya), father of Vamshivadana, and instructed
     Devananda there, citing the “Chaitanya-chandrodaya”; but in the “Chaitanya-chandrodaya” (act 9), which speaks of the
-    seven days in Madhava Dasa's house, Devananda is not named.
+    seven days in Madhava Dasa's house, Devananda is not named. The version itself, however, is confirmed by the
+    “Chaitanya-charitamrita” (Madhya 16.207–209: from Vachaspati's house to Kuliya, to the house of Madhava Dasa, for
+    seven days) and by the “Amrita-pravaha-bhashya” on it, which names Devananda explicitly. Murari, it seems, speaks of
+    the previous halt on the same journey — at Vachaspati's house.
 [^13]: One of the biographies applies these words about poison and nectar to Devananda. In the “Chaitanya-bhagavata”
     they are spoken to another brahmana who had reviled the Vaishnavas (Antya 3.442–463); Devananda came right after this
     (3.464).
