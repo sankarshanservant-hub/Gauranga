@@ -10003,6 +10003,15 @@
   "note": "Поклон братьям Гхошам в Сутра-кханде (1.34; 8.629)."
  },
  {
+  "from": "@madhava-ghosha",
+  "type": "other",
+  "who": "@jayananda",
+  "facts": [
+   "F26"
+  ],
+  "note": "«Певец Мадхава Гхош поёт „Дана-кханду“» в доме Гададхары Даса (по Н. Васу 1897)."
+ },
+ {
   "from": "@madhavendra-puri",
   "type": "lineage-predecessor",
   "who": "@madhvacharya",

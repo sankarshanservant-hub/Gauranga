@@ -32615,6 +32615,12 @@
    "ev-sannyasa-katwa",
    "ev-lord-narrates-jagannatha-glory",
    "ev-jayananda-named"
+  ],
+  "related_by": [
+   {
+    "from": "@madhava-ghosha",
+    "type": "other"
+   }
   ]
  },
  {
@@ -41399,6 +41405,11 @@
     "type": "other",
     "who": "@lochana-dasa",
     "note": "Поклон братьям Гхошам в Сутра-кханде (1.34; 8.629)."
+   },
+   {
+    "type": "other",
+    "who": "@jayananda",
+    "note": "«Певец Мадхава Гхош поёт „Дана-кханду“» в доме Гададхары Даса (по Н. Васу 1897)."
    }
   ],
   "related_by": [
