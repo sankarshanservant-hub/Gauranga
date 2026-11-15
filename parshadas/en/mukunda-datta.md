@@ -109,6 +109,192 @@ became a devotee of Krishna, I would not leave His company for a moment.” (CB,
 
 That wish was very soon fulfilled. <!-- F13 -->
 
+## The Singer of the Kirtanas
+The Lord returned from Gaya transformed. Though He is the Lord of all, He had enacted there the pastime of taking
+initiation from Ishvara Puri in order to teach the world — and from a pandita proud of his learning He became a seeker of
+Krishna: now weeping in separation, asking, “Where is Krishna?”, now jubilant. The devotees were overjoyed and gathered
+round Him every day, and nearly all the verses of bhakti sung before the Lord in those days were sung by Mukunda. His
+singing deepened the Lord's feelings, and He asked for more and more:
+
+“In the evening all the devotees gradually gathered in Vishvambhara's house. Then Sri Mukunda Mahashaya began to sing
+various verses of scripture glorifying loving service to God. Pious Mukunda had so sweet a voice that as soon as
+Mahaprabhu heard it He was enchanted. The Lord began to cry out loudly, ‘Haribol!’ and to fall to the ground, and no one
+could hold Him.” (CB, Madhya 2.215–218)
+
+The night passed like a single moment. Srila Bhaktisiddhanta writes that Mukunda delighted the Lord by reciting verses of
+the “Bhagavatam.” <!-- F14 -->
+
+From then on Mukunda was the Lord's constant kirtaniya. In the courtyard of Srivasa, where kirtana went on through the
+nights, one of the biographies calls him the Lord's “constant singer.” On Hari-vasara, the day of ekadashi, when they sang
+day and night, Srivasa led one group and Mukunda the other (CB, Madhya 8.141); so too the “Charitamrita” says that when he
+sang, Mahaprabhu danced (Adi 10.40). He was the chief singer also during the “seven praharas” — twenty-one hours in which
+the Lord continuously manifested His divinity (the maha-prakasha). Then the devotees performed His great bathing, the
+maha-abhisheka, with a thousand pots of water to the hymn “Purusha-sukta” of the Rig Veda, and “led by Mukunda, all sang
+the hymns befitting the abhisheka” (CB, Madhya 9.32). Afterwards the Lord quickly ate abundant offerings, called the
+devotees to Him one by one, revealed to each a past unknown to him — how He had protected him even before His own
+appearance — and gave His blessings. <!-- F19 F20 -->
+
+## Gadadhara's Friend
+In those same days the Lord, absorbed in ecstasy and for a moment revealing His divinity, began to call out: “Pundarika
+Vidyanidhi, father!” The devotees asked who that was, and He answered: the greatest devotee of Krishna, a brahmana from
+Chattagrama who also had a house in Navadvipa; outwardly he looked like a worldly rich man — richly dressed, surrounded by
+costly things — and he would soon come. Before long Vidyanidhi did quietly settle in Navadvipa, and Mukunda, his
+countryman, told the Lord of it:
+
+“None of the Vaishnavas knew him except Mukunda, who recognised him at once. The physician Sri Mukunda knew him well,
+for both of them came from Chattagrama.” (CB, Madhya 7.39–40)
+
+Only Mukunda and Vasudeva Datta knew the glory of his love for Krishna (7.43). Gadadhara Pandita, though from the same
+parts, did not know him — for the sake of the lila, of course, as one of the biographies says. <!-- F15 -->
+
+Mukunda loved Gadadhara dearly; they were almost inseparable, and whatever Mukunda learned he at once told him (CB,
+Madhya 7.44–45). Whenever a sadhu or sannyasi came to Navadvipa, Mukunda would call Gadadhara and they would go to the
+holy man together. And now he said to his friend: “Today I shall introduce you to a Vaishnava not of this world — and in
+return consider me your servant” (7.46–47). <!-- F16 -->
+
+Gadadhara himself wished to see the one for whom the Lord so longed. Vidyanidhi received his guest with respect and asked
+Mukunda who this youth was whose body shone with devotion to Vishnu — and Mukunda told him about Gadadhara (7.51–56). But
+Gadadhara, seeing the rich couch, the perfumes and the servants, began to doubt: could such a dandy be a devotee? Mukunda
+understood his thoughts and, wishing to reveal who Vidyanidhi really was, sweetly began to sing verses on the greatness of
+bhakti (7.73) — the story of Putana, who came to kill Krishna and received the position of a mother:
+
+“Ah, how wonderful! Wicked Putana, wishing to kill Krishna, gave Him poison from her breast — and still attained a
+destination worthy of a mother. To whom but Him, so merciful, shall I take refuge?” (“Srimad-Bhagavatam” 3.2.23)[^6]
+
+Hearing this, Vidyanidhi burst into tears, fell from his couch, displayed every symptom of ecstatic love, kicked his
+vessels to pieces and loudly lamented that he had not become a vessel of the mercy of so merciful a Lord. According to one
+of the biographies, Mukunda introduced Gadadhara to him only after Pundarika had come back to himself. <!-- F17 Q5 -->
+
+Gadadhara repented of his thought and resolved to take initiation from Vidyanidhi to atone for the offence. He opened his
+heart to Mukunda, who rejoiced — “Excellent! Excellent!” — and, when Vidyanidhi returned to outer consciousness, himself
+put his friend's request to him (7.106–111). Vidyanidhi gladly agreed, and Gadadhara embraced Mukunda: “You are my true
+friend!” The Lord, learning of it, was very pleased; that same night Vidyanidhi came to Him secretly and, seeing Him,
+fainted with joy. Srila Bhaktisiddhanta notes that Gadadhara took initiation from Vidyanidhi through Mukunda's efforts.
+<!-- F18 -->
+
+## Mercy in the Form of Punishment
+During the maha-prakasha the Lord called the devotees to Him one by one and bestowed His mercy on each. Only Mukunda He
+did not call — and Mukunda sat behind the curtain, not daring to come forward unbidden. The devotees grew sad, and Srivasa
+interceded for him:
+
+“Mukunda is very dear to You; he is our very life. Is there a heart that does not melt at Mukunda's singing?… If he has
+really committed some fault, then punish him. But why do You neglect Your servant?” (CB, Madhya 10.179, 181) <!-- F21 -->
+
+The Lord's answer sounded stern. There is a saying, He said, “now with straw, now with a stick” (*khada-jathiya*): Mukunda
+now holds a straw between his teeth in token of humility, now strikes with a stick.
+
+“When he studies the ‘Yoga-vasishtha’ in Advaita's company, he holds a straw between his teeth and sings and dances like a
+devotee of God. But when he keeps company with another sampradaya, he constantly beats Me with a stick, rejecting bhakti.
+Whoever says there is anything higher than bhakti beats Me with a stick.” (CB, Madhya 10.189–191)
+
+For this offence against bhakti, the Lord said, Mukunda would not see Him. One of the biographies, telling of this, adds
+the words with which the edition of the “Chaitanya-bhagavata” explains the verse: such a person mixes with every
+community and approves the doctrines of each — with one hand he clasps the feet, with the other the throat. Srila
+Bhaktivinoda Thakura in his “Amrita-pravaha-bhashya” to CC, Adi 17.65 explains it likewise: among the devotees he spoke
+of pure bhakti, while among the mayavadis he agreed with the mayavada of the “Yoga-vasishtha.” These are the Lord's words
+in His pastime of instruction, not a description of His eternal associate. Through Mukunda the Lord teaches everyone that
+association with mayavadis, and the idea that anything is higher than bhakti, is an offence to Bhakti-devi. <!-- F22 -->
+
+Mukunda heard everything from behind the door. He did not defend himself but inwardly accepted the faults laid upon him:
+“The Lord knows everything: it is true that earlier, at the urging of [a former] teacher, I did not give bhakti its due”
+(CB, Madhya 10.194). And he resolved that without the Lord's mercy he would live no longer. This was not worldly despair:
+one of the biographies stresses that Mukunda, an eternally perfect intimate associate of the Lord, showed such resolve to
+instruct living beings — the grief of a servant deprived of darshana teaches one to value the Lord's mercy above life
+itself. <!-- F23 I2 -->
+
+In tears — and everyone around wept with him — he asked Srivasa to find out whether he would ever see the Lord. The answer
+came: “He will certainly see Me — but after millions (*koti*) of births.” And then the unexpected happened:
+
+“As soon as Mukunda heard from the Lord's lips that he would surely see Him, his heart filled with spiritual bliss. He
+began to dance, crying, ‘I shall attain Him! I shall attain Him!’” (CB, Madhya 10.200–201)
+
+The Lord smiled and ordered him to be brought at once. <!-- F24 -->
+
+Mukunda heard nothing for joy, and the devotees had to lead him in. The Lord said, “Mukunda, you are free of all
+offences; come to Me and receive My mercy.” Unable to utter a word, Mukunda fell unconscious, and the Lord went on:
+
+“Get up! Get up, My dear Mukunda! There is no fault left in you. All the effects of your bad association are destroyed.
+You have conquered Me. I said you would see Me after millions of lives, yet you have lived them in a moment. You had deep
+faith that My words cannot fail, and so you have bound Me in your heart for ever.” (CB, Madhya 10.207–210)
+
+So, in the words of one of the biographies, the power of firm faith in the infallibility of the Lord's word compressed
+millions of births into a single moment and bound the Lord Himself in the devotee's heart: faith in His word conquers Him
+Himself. And then the Lord revealed that there had been no punishment at all. Mukunda is His singer and always with Him;
+He had only jested with one with whom one can jest; were Mukunda to have millions of faults, they would not count, for he
+is infinitely dear to Him: “You are My servant, and your body is full of bhakti. I dwell constantly on your tongue”
+(10.211–213). <!-- F25 I3 -->
+
+But Mukunda, sobbing, reproached himself: how could his lips have slighted bhakti? What joy is there in seeing the Lord
+without bhakti? Duryodhana saw Him, and Hiranyakashipu, and Kamsa, and the kings saw Him when He carried off Rukmini — and
+found no happiness; while Shiva, Narada and Vyasa attained eternal bliss by the power of bhakti (CB, Madhya 10.214–240).
+“My head is still on my shoulders — truly this is astonishing,” he said. Vrindavana Dasa responds to these penitent words:
+
+“Mukunda, the great servant of God, raised his arms and wept. His breath came heavily, and his body trembled. By his very
+nature Mukunda was an unalloyed devotee. How can I tell all his glory? He is one of Lord Chaitanya's closest
+associates.” (CB, Madhya 10.241–242) <!-- F26 -->
+
+And the Lord, as if abashed, said to him: “Your service gives Me great joy. Wherever you sing, I always appear there in
+person. You have spoken the truth: without bhakti there is no good even from meeting Me face to face.” As an example He
+cited the washerman of Mathura, who saw Krishna but did not understand Whom he saw. And at the end He gave Mukunda the
+blessing to be His companion in every birth:
+
+“The hearts of all Vaishnavas melt when they hear your kirtana. As you are dear to Me, so you will be dear to all
+Vaishnavas. Whenever I come into this world, you will always accompany Me as My singer.” (CB, Madhya 10.258–260)
+
+Everyone around began to sing, “Hari! Haribol!” And Vrindavana Dasa promises that whoever hears Mukunda's prayers and the
+blessing given to him will sing together with him (10.263). <!-- F27 Q2 -->
+
+The “Charitamrita” recalls this pastime twice. In the list of the Lord's pastimes it says:
+
+“To Mukunda Datta the Lord gave His grace in the form of punishment, and so dispelled all the dejection of his heart.”
+(CC, Adi 17.65)
+
+In Bengali this is *danda-parasada*, “mercy-punishment.” And Advaita Acharya, Himself once punished by the Lord, says:
+
+“Being punished brought Me the greatest joy; fortunate Sri Mukunda received the same punishment.” (CC, Adi 12.41)
+
+Srila Bhaktivinoda Thakura explains: seeing how firmly Mukunda had given up the company of mayavadis, the Lord called him
+at once and bestowed mercy on him — the fruit of association with pure devotees. <!-- F28 -->
+
+## Instruction on the Two-armed Krishna
+Other primary sources tell of the lesson given to Mukunda differently.[^7] In Murari Gupta the Lord, seeing Mukunda
+before Him, asks with a smile, “Are you expounding your own knowledge of Brahman?” — and recites a verse of the
+“Padma Purana”: “The yogis delight in the Infinite, whose nature is truth, bliss and consciousness; therefore the Supreme
+Brahman is called by the word ‘Rama.’” Then He gently reproaches Mukunda for ranking meditation on the four-armed form
+above the two-armed one, and tells him to meditate diligently on the two-armed Krishna. This is a playful rebuke and a
+lesson on the supremacy of Krishna's original form, of which Narayana too is a manifestation. Mukunda bowed his head:
+
+“I have bathed abundantly in the waters of the river of the gods, and my body is adorned with the dust of the feet of
+holy Vaishnavas; now place on my head the wondrous parasol of Your lotus feet — anoint me, raising me to the rank of Your
+servant.” (Murari Gupta, “Sri Krishna-chaitanya-charitamrita” 2.4.19)
+
+The Lord placed His foot on his head, and Mukunda trembled with joy, his eyes full of tears. Kavi Karnapura tells the
+same in his mahakavya (6.35–41) and in his drama “Chaitanya-chandrodaya” (act 1), where Advaita pleads for Mukunda, as
+for Murari, and the Lord places His feet on both; and Lochana Dasa in the “Chaitanya-mangala” says that the Lord
+instructed Mukunda Datta on the supremacy of devotion to Krishna. <!-- F29 -->
+
+## Other Pastimes in Navadvipa
+Mukunda's kirtana sounded in nearly all the Lord's pastimes in Navadvipa. When Nityananda came to Navadvipa, the Lord sent
+Rama Pandita, Murari, Narayana and Mukunda to bring that “great soul” (Murari 2.8.4; mahakavya 6.108). Murari recalls how
+the Lord sang and danced in Srivasa's house “with Mukunda and another vaidya,” that is, the author himself (2.2.5). When
+the Lord, in the mood of Shiva, sat on the shoulders of a singer of songs about Shiva, Srivasa recited praises of Shiva,
+and Mukunda in a most beautiful voice sang the hymn “Mahimna-stava” (Murari 2.11.17; so too Karnapura and Lochana Dasa).
+<!-- F47 F48 -->
+
+In Chandrashekhara's house, where the Lord in the form of Lakshmi performed the sacred drama, Mukunda opened the
+performance by beginning the kirtana: “Rama Krishna Bala, Hari Gopala Govinda!” (CB, Madhya 18.38). In it Advaita was the
+jester, Haridasa the watchman (*kotal*), Srivasa Narada; according to Karnapura's drama, Haridasa directed the
+performance and Mukunda was his assistant. In the night procession with kirtana to the Kazi's house, among the singers
+and dancers were Murari, Mukunda Datta, Ramai, Govinda, Vakreshvara and Vasudeva (CB, Madhya 23.209), and in the games in
+the waters of the Ganga “Haridasa, Srivasa and Mukunda came together” (13.335). <!-- F46 F49 -->
+
+One of the biographies relates that when Lokanatha came to the Lord, the Lord was sitting among Srivasa, Murari, Mukunda,
+Haridasa and others. Govinda-deva in the “Gaura-krishnodaya” writes how the devotees, with Mukunda's kirtana, play and
+dancing, brought the Lord back to outer consciousness (17.71). Krishnadasa Kaviraja places Mukunda in the lists of the
+Lord's closest associates: “Srivasa, Haridasa, Ramadasa, Gadadhara, Murari, Mukunda, Chandrashekhara and Vakreshvara —
+all these are learned men of the highest greatness, and service to Chaitanya makes every one of them mad” (CC, Adi
+6.48–49); “Glory to Mukunda and Vasudeva, and glory to Haridasa!” (Adi 13.3). <!-- F59 -->
+
 [^1]: He should not be confused with his namesakes: Mukunda Dasa of Shrikhanda, the court physician, brother of Narahari
     and father of Raghunandana; Mukunda-Sanjaya, in whose chandi-mandapa Nimai kept His school; the sannyasi Mukunda
     Sarasvati in Vrindavana; Mukundadeva, grandfather of Rupa and Sanatana; Mukundadeva, king of Orissa; Mukunda the
@@ -127,3 +313,11 @@ That wish was very soon fulfilled. <!-- F13 -->
     them.
 [^5]: The primary sources do not name the teacher: the “Charitamrita” says only that Mukunda was the Lord's fellow
     student (*samadhyayi*), and the “Chaitanya-bhagavata” tells of their debates.
+[^6]: One of the biographies gives the reference to this verse as “Bhagavatam 4.2.23”; it is 3.2.23. According to the
+    “Chaitanya-bhagavata,” Mukunda recites not one verse but “verses on the greatness of bhakti” — a Bengali rendering of
+    the story of Putana (Madhya 7.73–84).
+[^7]: These are either different episodes or different traditions of one lesson: in Vrindavana Dasa Mukunda is punished
+    for association with mayavadis and reading the “Yoga-vasishtha,” in Murari Gupta, Karnapura and Lochana Dasa for
+    preferring the four-armed form to the two-armed Krishna. The biographies know only the account of the
+    “Chaitanya-bhagavata.” We give both and do not merge them. In Karnapura's drama the words about the “Vasishtha” are
+    addressed not to Mukunda but to Murari.
