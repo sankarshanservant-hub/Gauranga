@@ -426,13 +426,13 @@ his own deeds taught the world where offence against the guru and the Vaishnavas
 [^7]: One of the biographies adds to the Lord’s answer (8.67) the words “I shall try to follow your instructions,”
     which are not in the “Charitamrita,” and writes that it was Paramananda Puri who learned of the devotees’
     half-fasting; according to the “Charitamrita” (Antya 8.68), it was Ramachandra Puri who learned of it.
-[^8]: Our Russian translation of this verse begins “My godbrother, Ramachandra Puri…”; the word “godbrother” is not in
-    the Bengali text — it is the translator’s addition.
+[^8]: The Bengali has: “Ramachandra Puri is a reviler by nature.” The earlier Russian translation added “my
+    godbrother” here; the revised translation does not have it.
 [^9]: According to one of the biographies, at the homes of these three the Lord ate as much as was served, without
     any reduction; according to another, if they invited Him on a day when someone else had already
     invited Him, He cancelled the earlier invitation. The second is closer to the “Charitamrita.”
-[^10]: Our Russian translation has “as if he were some weed”; the Bengali has *trina-praya*, “like a blade of grass”;
-    and for *bhritya-praya*, “almost a servant,” it has “He served him and showed him respect.”
+[^10]: The Bengali has *trina-praya*, “like a blade of grass”; for *bhritya-praya*, “almost a servant,” our Russian
+    translation has “He served him and showed him respect.”
 [^11]: In our Russian translation it is Ramachandra Puri himself who is the teacher here: “he showed everyone by his
     own example what any offence against saints and the guru leads to”; in the Bengali the subject is the Lord:
     “through its fruit [He] taught the people.”

@@ -1244,8 +1244,7 @@ Chaitanya. <!-- I14 I13 -->
 [^34]: One of the biographies refers this verse, as well as the account of the same journey with families (CB, Antya
     8.39–43), to the “Charitamrita” (“CC 3.8”), and the verse about the yearly visits (Madhya 1.255) to “2.9.255–256”;
     correctly they are CB, Antya 8.4–6, 8.39–43 and CC, Madhya 1.255.
-[^35]: The translation has “Damodara”; the Bengali text here reads “Svarupa,” that is, Svarupa Damodara, and “Bharati” is
-    Brahmananda Bharati.
+[^35]: “Bharati” is Brahmananda Bharati.
 [^36]: So according to the “Chaitanya-bhagavata” (Antya 9.21, 24: Advaita Himself cooked, and His wife assisted Him) and
     two of the biographies. According to a third, on one of the visits to Puri the Lord's favourite dishes were cooked by
     Sita, and it was she who invited Him; it says nothing of the storm.

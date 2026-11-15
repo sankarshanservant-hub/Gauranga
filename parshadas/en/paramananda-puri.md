@@ -592,9 +592,8 @@ all the branches rest; and among the roots on which the tree is established, the
 [^22]: The brief summary of the pastimes (Madhya 1.149) also mentions “the episode with the cloth together with Puri
     Gosani,” but we have not found it in the sixteenth chapter of the Madhya-lila itself; cf. Karnapura’s account
     (mahakavya 19.9).
-[^23]: The words “my godbrother” follow our Russian translation; they are not in the Bengali text, which has: “Ramachandra
-    Puri is a reviler by nature” — the translator’s addition. Godbrothers they indeed were: both were disciples of
-    Madhavendra Puri.
+[^23]: The Bengali has: “Ramachandra Puri is a reviler by nature” (the earlier Russian translation added “my
+    godbrother”). Godbrothers they indeed were: both were disciples of Madhavendra Puri.
 [^24]: According to the “Charitamrita” (Madhya 11–12), it was Sarvabhauma, Ramananda Raya and others who pleaded for
     the king.
 [^25]: This is known only from the “Prema-vilasa.”
