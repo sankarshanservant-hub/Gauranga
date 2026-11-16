@@ -196,7 +196,7 @@ village Abhirama Thakura first sat down just here; according to another biograph
 As the “Anubhashya” describes it, the temple is the abode of Sri Baladeva, Sri Madana-mohana — alone, without Radha —
 and Sri Gopinatha. Gopinatha is carved on a single slab of touchstone (*kashtipathar*) a cubit and a quarter high and
 about a cubit wide, and on the same slab are the pastime of stealing the gopis' garments, a kadamba tree, the Yamuna,
-cows and calves: such is the arcā-vigraha here. On the throne there are also the shri-murti of Abhirama Thakura
+cows and calves: such is the archa-vigraha here. On the throne there are also the shri-murti of Abhirama Thakura
 himself, poised in the rapture of dance, and Sri Vraja-vallabha — the Divine Couple; there are also a shalagrama-shila
 and Sri Gopala. <!-- F26 -->
 
@@ -270,3 +270,177 @@ so much love from him that he is counted almost a disciple. And the touch of “
 devotee,” as one of the biographies calls it, gave him love for Krishna: so the mercy of a pure devotee makes another a
 devotee. <!-- I4 I6 -->
 
+## The Obeisance
+Another tradition is connected with Abhirama's name, one that, in Srila Bhaktisiddhanta's words, is current to this
+day. If Abhirama bowed down before a stone or an image — before anything other than a Vishnu-shila or a Deity of
+Vishnu — it split apart and crumbled to dust. It is said that non-devotees, too, could not bear his obeisance, and one
+of the biographies adds that by his obeisance he would tell whether a Vishnu-shila or shalagrama was genuine: only a
+pure Vaishnava could withstand it, while for others it could prove fatal.[^10] The point of the tradition is not a
+destructive force. The obeisance of Krishna's cowherd friend, full of sakhya-bhava, can be received only by the Lord
+Himself, by His Deity and by His eternal associates; a stone that could not bear it was never a Deity. <!-- F37 -->
+
+So, tradition holds, the Lord revealed to the world the divinity of Nityananda's children. Abhirama's obeisance was
+received by His son Virabhadra (Virachandra) Gosvami and His daughter Sri Gangamata Gosvamini (Ganga-devi), and this
+confirmed that They were no ordinary persons. This is told also in two compositions of Abhirama himself, the “Sri
+Virabhadrashtaka” and the “Ganga-stotra,” eight stanzas in honour of each of Them. Later books, the “Prema-vilasa” and
+the “Nityananda-vamsha-vistara,” tell more: after Abhirama's obeisances seven sons of Nityananda did not remain in this
+world, while Vira and Ganga, portions of the Lord Himself, remained; Abhirama prostrated himself three times before the
+infant Virachandra, the child smiled, and Abhirama recognized in Him Gauranga. The “Vaishnava-vandana” says that the
+Lord's secret design concerning Virachandra “Abhirama understood and revealed.” These are late testimonies, and we pass
+them on as tradition. <!-- F38 F49 -->
+
+Tradition also links Abhirama's obeisance with the young Gopala Guru. According to one of the biographies, Abhirama
+came to Puri to test the boy with his obeisance, and the Vaishnavas grew alarmed; but Mahaprabhu set His foot on
+Gopala's forehead — whence the tilaka of his line — and took him on His lap, and the obeisance did him no harm.
+<!-- F39 -->
+
+And Raghunandana of Shrikhanda it was Abhirama who revealed to the world. Lochana Dasa recalls him:
+
+“He to whom Chaitanya said, ‘You are My life,’ whom Abhirama Gosvami revealed, making known that he was the avatara of
+Madana — and all saw him so on Chaitanya's lap.” (Lochana Dasa, “Chaitanya-mangala,” Sutra-khanda 651–652)
+
+In a song of Uddhava Dasa, Abhirama comes to Shrikhanda in search of Raghunandana. The boy's father, Mukunda Dasa,
+afraid of his obeisance, hides his son; but Raghunandana meets Abhirama at Baradangi, withstands his mighty obeisance,
+and together they sing the names of Gaura and Nityananda and dance. From that dance, tradition says, an ankle bell flew
+from Raghunandana's foot and fell into a pond at Akai-hata — Nupura-kunda.[^11] And the “Nityananda-vamsha-vistara”
+says that the Deity Madana-mohana is bent more than usual — “from Abhirama's obeisance.” <!-- F39 Q9 -->
+
+Both the obeisance and the whip of Abhirama reveal the truth. The obeisance shows who is truly Vishnu or His eternal
+portion, as Virachandra and Ganga are; the whip bestows prema, and in such fullness that even Srinivasa could not have
+borne more. <!-- I3 -->
+
+## Separation
+When Nityananda disappeared, Abhirama changed. The “Bhakti-ratnakara” says that from then on he constantly sighed deeply
+and spoke to no one: “in separation from Sri Prabhu he is always absorbed in love” (4.125, 4.131). This is not
+dejection or worldly grief: so an eternal associate of the Lord lives through separation (*vipralambha*), and it is the
+highest state of love. <!-- F46 -->
+
+So Narottama Dasa found him when, on his way to Nilachala, he came to Khanakula-Krishnanagara and bowed at his feet.
+The “Bhakti-ratnakara” (8.223–227) relates: in separation from Nityananda, Abhirama was hardly aware of the outer world,
+and so too was the incomparable Sri Malini. Seeing his state, Narottama was bathed in tears. He saw the wondrous Deity
+of Gopinatha and, seeing His service, was overcome with feeling; one of the biographies adds that he recited prayers
+before Gopinatha. Abhirama together with Malini showed him much mercy and told him to go quickly to Nilachala, and in
+the morning Narottama took his leave. According to the same biography, Abhirama pined in separation from both Gaura and
+Nityananda, and in the same separation lived Gadadhara Dasa.[^12] <!-- F45 F54 F48 -->
+
+## Disciples and Legacy
+Of Abhirama's disciples the first known by name is Vedagarbha Acharya, whose verse the “Bhakti-ratnakara” quotes. A full
+list is given by Srila Bhaktisiddhanta in the “Anubhashya” on CC, Adi 11.13, after the book “Shakha-nirnaya” compiled
+by one Abhiramadasa, a disciple of Ratneshvara.[^13] There are twenty-four disciples, each with his place: Krishnadasa
+Thakura — Khanakula (his line has died out); Vedagarbha — Kayara, about ten miles south-west of Bardhaman (his
+descendants serve the Deity); Haridasa — Burhan; Pakhiya-Gopaladasa — Helal near Khanakula (a ruined temple, a
+“samaja,” is there); Gumphanarayana — Paikamajita near Ramajivanapura in Medinipur (descendants living); Dariya Mohana —
+Sitanagara; Satyaraghava — Mayanamuri in Bankura; Rajani Pandita — Salikha; Sundarananda — Bhangamora near Tarakeshvara
+(he has descendants); Krishnananda Avadhuta — Dvipagrama; Rangana-Krishnadasa — Sonatala; Muraridasa — Maldah; Mohana
+Thakura — Panihati; Yadu Haldar — Radhanagara south of the shripata (his line has died out, and his Deity of Balarama is
+served together with Gopinatha); Harimadhava — Anantanagara; Gopaladasa — Mahesh; Achyuta Pandita — Kotara (a descendant
+living); Lakshminarayana — Patala; Gopinathadasa — Puri; Nandakishora — Chunakhali pargana; Vidura Brahmachari —
+Patagrama (descendants living); Ramakrishna — Vinupara; Kamalakara — Gaurangapura, about four miles to the north (a
+samaja is there, and his descendants serve Nitai-Gaura); Balarama Thakura — Vishvagrama. Twenty-fifth, as “half a
+disciple,” Srinivasa Acharya is named. <!-- F60 -->
+
+Abhirama's descendants — by birth or by the line of disciples, the source does not say — live at Krishnanagara and
+Amta, and also at Vishnupura, Kotalpura and other villages of the Bankura district. <!-- F52 -->
+
+Many say that Abhirama founded the Bali Math in Puri. <!-- F51 -->
+
+Besides the “Virabhadrashtaka” and the “Ganga-stotra,” the “Pata-paryatana” (“Shripata-paryatana”) is ascribed to him —
+a description of the holy places of Gauda which mentions, among other things, “Raghava's bags.”[^14] There was also a
+biography, the “Abhirama-lilamrita”; it is named among the sources on Shyamananda, but we do not have the text of this
+book. <!-- F50 F55 -->
+
+Abhirama's blessing, in Jayananda's words, rests also on his “Chaitanya-mangala”: the poet spreads his song by the
+garland-prasada of Virabhadra and the blessing of Abhirama, at the command of Gadadhara Pandita. <!-- F47 -->
+
+Great Vaishnavas visited Abhirama's shripata. Besides Srinivasa and Narottama, Srila Bhaktivinoda Thakura came here in
+his travels of 1877–1910. And when Srila Bhaktisiddhanta Sarasvati was going round Gaura-mandala, the temple servants
+received him and his companions with great warmth and special honour. So Abhirama's shripata is linked with the
+Sarasvata line as well. <!-- F32 I5 -->
+
+## The Cowherd Boy in the Padas and Later Tradition
+The padas see Abhirama beside the Lord already in Navadvipa. In Vamshivadana's song Nityananda blows through His lips as
+on a horn, and at the call Gauridasa and Abhirama come running; in Vamshidasa's, Abhirama-Shridama drives the cows, and
+with him is Gauridasa-Subala; in Vasu Ghosha's, Abhirama stands at the door and calls Gaura to the pasture. Another pada
+tells how Abhirama weeps when Nityananda dances in Shrivasa's courtyard; in Narahari's he gives his shoulder to
+Nityananda, who cannot stand for love; in Ramachandra Dasa's he sings with Kashishvara, Purushottama and Narahari while
+the Lord dances. A pada quoted in the “Bhakti-ratnakara” (12.2578) says: prema flows from the eyes of Thakura Abhirama,
+and again and again he cries, “Hari! Hari!” Neither the “Charitamrita” nor the “Chaitanya-bhagavata” says directly that
+Abhirama was with the Lord in Navadvipa; this is the testimony of the padas, and not all of them are early. <!-- F58 -->
+
+Later biographies add stories of their own. The “Nityananda-vamsha-vistara” relates, from the words of Uddharana Datta:
+once in Vrindavana Nityananda the avadhuta called, “My brother, Shridama!” — and a cowherd boy came out of Govardhana;
+he did not recognize the shaven-headed Balarama, and then Nityananda showed His white form with plough and club and told
+him to “grow up” — so he became Abhirama Gopala. This is a late image of the meeting of eternal friends: Shridama did
+not come into being from a cowherd boy, but is eternally the friend of Krishna and Balarama. According to the
+“Nityananda-vamsha-vistara” and the “Prema-vilasa,” when young Virabhadra secretly set off by boat to Advaita for a
+mantra, Jahnava sent Abhirama to bring him back; Abhirama threw his flute and smashed the boat, and Virabhadra received
+initiation from Jahnava. The same “Nityananda-vamsha-vistara” says that in Nilachala Abhirama introduced Sarvabhauma and
+the Lord's associates to Virachandra, though chronologically this is doubtful. Jayananda writes that after the Lord's
+sannyasa Nityananda left Navadvipa with Ramadasa, Parameshvara and Sundarananda, and that when news came of the Lord's
+disappearance, “Ramadasa and the companions were struck dumb.” <!-- F59 -->
+
+## Departure
+Abhirama Thakura left this world on the krishna-saptami of the month of Chaitra — the seventh lunar day of the dark
+fortnight of Madhusudana-masa; so say Srila Bhaktisiddhanta and the biographies, and the same day is marked in the
+calendar of the Sri Chaitanya Saraswat Math as the Disappearance Day of Srila Abhirama Thakura (in 2026, 9 April). The
+year, the circumstances of his departure and the place of his samadhi the sources do not name. <!-- F57 -->
+
+On that day a great festival is held at Khanakula-Krishnanagara, and thousands of devotees gather. <!-- F33 -->
+
+## Significance
+Abhirama Thakura is Shridama, Krishna's eternal friend, who descended into Gaura's pastimes as the first of
+Nityananda's twelve gopalas. Sri Chaitanya sent him with Nityananda to preach in Gauda, and so he belongs to both
+circles. Everything extraordinary in him — the log-flute, the formidable obeisance, the whip that bestows prema — comes
+from the fullness of sakhya-prema and from the power of Nityananda with which He invested His servant. Formidable to
+godlessness, he was generous to the fallen; Srinivasa, without being his disciple, received love for Krishna from him;
+and after Nityananda's departure he lived in a silent separation that is itself the highest love. The Deity of
+Gopinatha, who revealed Himself to him at Khanakula, accepts service to this day. <!-- F2 F3 F5 F8 F16 F34 I1 I2 I3 I4 -->
+
+---
+
+[^1]: He should not be confused with his namesakes: Ramadasa, the son of Shivananda Sena (CC, Adi 10.62); Minaketana
+    Ramadasa, also a companion of Nityananda; Ramadasa of Phulia, a disciple of Haridasa (“Prema-vilasa” 24). The
+    Ramadasa whom Krishnadasa Kaviraja names together with Kavidatta among Sri Chaitanya's branches (Adi 10.113) is,
+    according to the headings of the “Anubhashya,” another person: Abhirama is named in verses 10.116 and 10.118. And
+    the Shridama of Krishna-lila of whom the books speak is Krishna's eternal friend himself, and not in every case
+    Abhirama.
+[^2]: That the Ramadasa of the “Chaitanya-bhagavata” is Abhirama is the tradition; so too Srila Bhaktisiddhanta
+    understands him in the “Anubhashya” on CC, Antya 6.61.
+[^3]: In the “Charitamrita” (Adi 10.116, 11.16) the log is *sholasanger kashtha*, “what sixteen men carry”; an earlier
+    translation and one of the biographies understood it as “a bamboo with sixteen joints.” The
+    “Gaura-ganoddesha-dipika” (126) speaks of thirty-two bearers, the “Bhakti-ratnakara” (4.123) of a log that even a
+    hundred men could not move. One of the biographies ascribes the figure “thirty-two” to the “Charitamrita” — it is
+    the figure of the “Gaura-ganoddesha-dipika”; another holds that all three sources speak of one and the same log. We
+    follow the “Charitamrita.”
+[^4]: One of the biographies writes that Ramadasa and Gadadhara Dasa stayed with Mahaprabhu. According to the
+    “Charitamrita” (Adi 11.13–14), they lived at Nityananda's side and were sent with Him to Gauda.
+[^5]: One of the biographies, citing the “Bhakti-ratnakara,” adds that the devotees headed by Abhirama bathed in the kunda
+    and that whoever bathes in it is freed from the round of birth and death. The “Bhakti-ratnakara” (4.117–118) says
+    only that, bathing in the pond and drinking its water, all were overwhelmed with bliss. According to the
+    “Anubhashya,” the pond is called Abhirama-kunda; according to the “Bhakti-ratnakara,” Rama-kunda.
+[^6]: The years in the inscriptions are given in the Bengali era; the conversion to the common era is approximate and
+    ours.
+[^7]: Srila Bhaktisiddhanta and the biographies cite the “Bhakti-ratnakara” here; but its fourth wave contains no such
+    general statement — it tells only of the whip's three touches to Srinivasa (4.139). This is a general tradition; so
+    too in the “Prema-vilasa” Abhirama is told: “all good lies in your whip.”
+[^8]: According to the “Prema-vilasa,” Abhirama gave eight karas of cowries and sent two Vaishnavas; according to the
+    “Anuragavalli,” five gandas of cowries and four people.
+[^9]: The biographies give Malini's words differently: “restrain yourself, the boy will lose his composure,” “he will
+    not bear the working of divine love,” “touch him again and he will faint”; one of them even writes that Malini was
+    “indignant” and “made” her husband stop. We follow the “Bhakti-ratnakara” (4.141–143): smiling, Malini reminds him
+    of Srinivasa's task — he was to bring the books of the Gosvamis to Gauda.
+[^10]: What could withstand the obeisance the biographies say differently: anything except a Vishnu-shila or a Deity of
+    Vishnu; except a Vishnu-shila or an installed Deity; except a shalagrama-shila. That by his obeisance he tested the
+    genuineness of shilas, and that only a pure Vaishnava could bear it, only one biography writes; it alone also tells
+    of Gopala Guru.
+[^11]: According to one of the biographies (citing the “Gaudiya-vaishnava-abhidhana”), the meeting took place in
+    Shrikhanda itself: Abhirama bowed to Raghunandana, embraced him and melted in love, and the bell flew from the foot
+    of the dancing Raghunandana and fell four miles away, at Akai-hata. According to another, they danced in a devotee's
+    house at Baradangi, and the bell fell into a pond at Akai-hata.
+[^12]: One of the biographies names Abhirama among the companions with whom Jahnava went to Narottama's festival at
+    Kheturi. But in the “Bhakti-ratnakara” (10.374) that list has “Minaketana Ramadasa,” and Abhirama is not there;
+    the other biographies do not name him in that list either. We do not accept this report.
+[^13]: This Abhiramadasa is another, later person; and his “Shakha-nirnaya” is not the book of Yadunatha Dasa on the
+    disciples of Gadadhara Pandita that goes by the same name.
+[^14]: Only one of the biographies gives this attribution. The book describes the shripatas of the Lord's associates,
+    which rather points to a later author of the same name, like Abhiramadasa, the author of the “Shakha-nirnaya.”
