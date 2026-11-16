@@ -8,13 +8,15 @@ Sri Pradyumna Mishra; Murari Gupta, Srila Pradyumna Mishra; Kavi Karnapura in th
 Mishra named Pradyumna.” According to one reading of the “Charitamrita” he also bore the name Dasa; of this, more
 below. <!-- F1 -->
 
-He was born in a brahmana family in Utkala, that is, in Orissa. So writes Srila Bhaktisiddhanta Sarasvati, both in the
+He was born into a family of brahmanas in Utkala, that is, in Orissa. So writes Srila Bhaktisiddhanta Sarasvati, both in the
 “Anubhashya” on the “Charitamrita,” where he calls him an Oriya brahmana, a resident of Orissa, and in the
-“Gaudiya-bhashya” on the “Chaitanya-bhagavata”; and so too hold the biographies. According to other accounts he came
+“Gaudiya-bhashya” on the “Chaitanya-bhagavata,” where he is twice named among those born in Utkala: together with
+Bhavananda Raya and his sons, Shikhi Mahiti, Kashi Mishra, Prataparudra and others (on CB, Adi 2.31), and in the
+account of him in particular (on Adi 14.2); and so too hold the biographies. According to other accounts he came
 from Shrihatta (Sylhet) and only later settled in Orissa for good.[^1] He was a householder (*grihastha*) of noble
 family and high standing, righteous and exemplary in his life. Yet when he spoke with the Lord he called himself “a
 fallen and sinful family man” and “a brahmana who lives on alms”: this is a Vaishnava's humility, not an account of his
-worldly affairs. <!-- F2 F3 F7 Q14 -->
+worldly affairs. <!-- F2 F3 F7 Q14 F37 -->
 
 ## “Foremost among the Vaishnavas”
 Krishnadasa Kaviraja counts Pradyumna Mishra among the branches of the tree whose root and trunk is Sri Chaitanya
@@ -48,8 +50,8 @@ Of the devotees of Nilachala who one after another recognized Sri Chaitanya as t
 
 Thus the Lord gave him His feet: He took him under His shelter as His servant. <!-- F8 Q5 F9 Q2 -->
 
-Every year, when Advaita Acharya and the Gaudiya devotees came from Bengal for the Ratha-yatra, the Lord went out with
-His associates to meet them. Among those who went with Him Vrindavana Dasa names “Sri Pradyumna Mishra, foremost in
+When Advaita Acharya and the Gaudiya devotees came from Bengal to Nilachala, the Lord went out with His associates to
+meet them. Among those who went with Him Vrindavana Dasa names “Sri Pradyumna Mishra, foremost in
 prema-bhakti” (CB, Antya 8.57);[^4] and Murari Gupta too, in his list of those who went out to meet them, remembers
 “Srila Pradyumna Mishra” (Murari Gupta's “Karcha,” 4.17.19). <!-- F10 Q3 -->
 
@@ -84,7 +86,7 @@ householder, shows the exemplary conduct of a Vaishnava grihastha — He whom Pr
 worshipped as his Deity. <!-- F11 Q7 -->
 
 Nobility, learning and a householder's righteous life are not yet the goal in themselves. The Lord wished all this to
-find its meaning in the service of Hari and His devotees, and so He sent Pradyumna Mishra to Srila Ramananda Raya — not
+find its meaning in serving Hari and His devotees; for this He sent Pradyumna Mishra to Srila Ramananda Raya — not
 a brahmana by birth, but the finest teacher of bhakti-rasa, a Vaishnava acharya. Pradyumna Mishra heard him as a
 disciple and received the causeless mercy of the Lord. This is the subject of the fifth chapter of the Antya-lila of
 the “Charitamrita.” <!-- F12 Q12 I1 -->
@@ -116,7 +118,7 @@ Srila Bhaktisiddhanta explains: the Lord only pretends to be ignorant. He sends 
 (*shaukra*, “by seed”), as a disciple to Ramananda, who was not a brahmana by birth but was the guru of all varnas and
 ashramas. <!-- F18 -->
 
-Mishra went to Ramananda Raya's house. A servant seated him and asked him to wait: the master was busy and would soon
+Mishra went to Ramananda Raya's home. There a servant offered him a seat and asked him to wait: the master was busy and would soon
 come out. Ramananda was in the garden, in a secluded place.[^8] He had written a drama in Sanskrit, the
 “Jagannatha-vallabha,” to be staged before Sri Jagannatha, and was now teaching its songs and dance to two young
 devadasis — maidens dedicated to the service of Jagannatha (in Orissa they are still called *mahari*). He taught them
@@ -126,8 +128,8 @@ an offering to Jagannatha. <!-- F19 F20 -->
 Srila Bhaktivinoda Thakura explains what this service was. The maidens were to play the principal gopis, and Ramananda
 saw in them those who are to be served (*sevya-buddhi*), and himself as a maidservant following them. Knowing himself
 in his spiritual form to be a maidservant of Srimati Radhika, he himself bathed and adorned the girl who played Her role
-and taught both of them songs and service. His mind and body remained unmoved through it all, “like wood or stone” (CC,
-Antya 5.19). This is no worldly affair and no example to imitate: such service is beyond the power even of great sages
+and taught both of them songs and service. His mind and body remained unmoved through it all: “What one feels on touching wood or
+stone, Ramananda by nature feels on touching a young woman” (CC, Antya 5.19). This is no worldly affair and no example to imitate: such service is beyond the power even of great sages
 who have conquered their senses, and the Lord Himself will say of it, “Ramananda alone has this qualification.” While
 Ramananda served in this way, no one dared to interrupt him. <!-- F21 -->
 
@@ -140,7 +142,7 @@ my home. Command me — what shall I, your servant, do?” (CC, Antya 5.29–30)
 Mishra replied that he had come only to see him and now felt that his heart had become purer (CC, Antya 5.31). The hour
 was already late, and, saying nothing more, Mishra took his leave and went home (CC, Antya 5.32). <!-- F22 F23 -->
 
-The next day he came to the Lord, and the Lord asked whether he had heard about Krishna from Ramananda. Mishra told Him
+The next day he came to the Lord, and the Lord inquired if he had been able to hear about Krishna from Ramananda. Mishra told Him
 what Ramananda Raya had been doing (CC, Antya 5.33–34).[^9] <!-- F24 -->
 
 Then the Lord — the model of humility, who seeks no honour for Himself but honours others — began to glorify His
@@ -214,13 +216,17 @@ Kaviraja himself explains the meaning of this pastime:
 (*vishayi*), he instructs sannyasis. To reveal all these qualities of his, the Lord sent Mishra there to hear. <…> To
 destroy the pride of the sannyasis and panditas, He reveals dharma through a lowly shudra. He speaks of bhakti, prema and
 the truth (*tattva*), making Raya the speaker, while He Himself, together with Pradyumna Mishra, becomes the listener.”
-(CC, Antya 5.80–81, 84–85) <!-- F33 Q10 -->
+(CC, Antya 5.80–81, 84–85)
+
+And at the close of the chapter Kaviraja names its subject once more: “Thus I have told the account of Pradyumna
+Mishra, who by the Lord's order heard talks about Krishna” — and within it he spoke of the glory of Ramananda, the full
+extent of which the Lord Himself described (CC, Antya 5.159–160). <!-- F33 Q10 F38 -->
 
 Srila Bhaktisiddhanta Sarasvati explains in the “Anubhashya.” To the worldly eye Ramananda seemed a householder on the
 path of worldly action, a man absorbed in mundane affairs (*vishayi*). But his mind, established in pure goodness,
 always worshipped the pastimes of Krishna: he is “vishayi” only in the sense that his whole world is Krishna, and he is
 able to turn to Krishna even sannyasis who have renounced the world and seek the impersonal. In the world a brahmana is
-the guru of the three other varnas, and a sannyasi the guru of brahmanas and of the three other ashramas. To crush
+the teacher of the remaining three varnas, while a sannyasi is the teacher of brahmanas in the remaining three ashramas. To crush
 their pride in their position, the Lord, through the mouth of Ramananda, whom the world knew as a “shudra” and a
 “grihastha,” instructed Pradyumna Mishra, a brahmana by birth, and Himself, a sannyasi, accepted the dharma that
 Ramananda preached. <!-- F34 Q11 -->
