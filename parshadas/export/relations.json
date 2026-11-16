@@ -622,6 +622,250 @@
   "note": "lila-db («Адвайта-пракаша», D); в трёх книгах нет (BF120); но БР 4.79 (наш `bhakti-ratnakara/`): Сита в доме Адвайты в Шантипуре вверила Шринивасу Мадана-гопалу."
  },
  {
+  "from": "@balabhadra-bhattacharya",
+  "type": "served-by",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F3",
+   "F12",
+   "F14",
+   "F15",
+   "F16",
+   "F17",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "F27",
+   "F28",
+   "F30",
+   "F32",
+   "F33",
+   "F36",
+   "F39",
+   "F42",
+   "F44",
+   "F45",
+   "I2",
+   "I3"
+  ],
+  "events": [
+   "ev-departure-for-vrindavana",
+   "ev-jharikhanda-animals",
+   "ev-akrura-ghata-fall",
+   "ev-return-to-puri-from-vrindavana"
+  ],
+  "note": "Спутник и слуга Господа в походе во Вриндаван и обратно (ЧЧ Ади 10.146 — «служил как брахмачари»; Мадхья 17–19, 25): готовил, собирал подаяние, вытаскивал из Ямуны, уберегал в экстазе, увёл из Враджа (⚠Б1); Господь: «Я счастлив лишь благодаря тебе», «Я твой должник» (Мадхья 17.76, 18.153)."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F10",
+   "F11",
+   "F12"
+  ],
+  "events": [
+   "ev-departure-for-vrindavana"
+  ],
+  "note": "Назвал Господу его в спутники: «очень любит Тебя, пандит, святой, благородный» (ЧЧ Мадхья 17.15–19). = @svarupa-damodara F41."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F10",
+   "F11",
+   "F12"
+  ],
+  "events": [
+   "ev-departure-for-vrindavana"
+  ],
+  "note": "Вместе со Сварупой упросил Господа взять спутника (ЧЧ Мадхья 17.8–12). = @ramananda-raya F49."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "companion",
+  "who": "@damodara-pandita",
+  "facts": [
+   "F9"
+  ],
+  "events": [
+   "ev-return-puri-after-gauda"
+  ],
+  "note": "Вдвоём шли с Господом из Шантипура в Пури (ЧЧ Мадхья 1.235–236; T 89). = @damodara-pandita F27."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "co-worker",
+  "who": "@krishnadasa-mathura",
+  "facts": [
+   "F25",
+   "F26",
+   "F27",
+   "F34",
+   "F35",
+   "F36",
+   "F38",
+   "F40"
+  ],
+  "events": [
+   "ev-krishnadasa-mathura-guide",
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Санодия-брахман, ученик Мадхавендры Пури: Балабхадра объяснил ему связь Господа с Мадхавендрой; вместе заботились о Господе в обмороке и решили увести Его из Враджа (ЧЧ Мадхья 17.174, 17.219–224, 18.139–147)."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "companion",
+  "who": "@krishnadasa-rajput",
+  "facts": [
+   "F33",
+   "F34",
+   "F38",
+   "F40"
+  ],
+  "events": [
+   "ev-akrura-ghata-fall",
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Его крик у Акрура-тиртхи — Балабхадра вытащил Господа; защитил спутников от патханов; шёл до Праяги, ибо Балабхадра не знал языка (ЧЧ Мадхья 18.138, 18.173–175, 18.217)."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "host",
+  "who": "@tapana-mishra",
+  "facts": [
+   "F23"
+  ],
+  "events": [
+   "ev-kashi-tapana-mishra"
+  ],
+  "note": "Почтил и совершил ему пуджу; в его доме Балабхадра готовил для Господа (ЧЧ Мадхья 17.88–89; M 148)."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "host",
+  "who": "@chandrashekhara-vaidya",
+  "facts": [
+   "F43"
+  ],
+  "note": "Пригласил Бхаттачарью на обед при втором приходе Господа в Каши (ЧЧ Мадхья 19.248)."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@raghunatha-bhatta",
+  "facts": [
+   "F23"
+  ],
+  "events": [
+   "ev-kashi-tapana-mishra"
+  ],
+  "note": "Мальчиком массировал стопы Господа после трапезы, приготовленной Балабхадрой (M 148; ЧЧ Мадхья 17.89–90). = @raghunatha-bhatta F21."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "guest",
+  "who": "@rupa-gosvami",
+  "facts": [
+   "F41",
+   "F42"
+  ],
+  "events": [
+   "ev-rupa-prayaga",
+   "ev-vallabha-bhatta-adaila"
+  ],
+  "note": "В Праяге Балабхадра угостил его и Анупаму остатками Господа; в Адаиле дал ему остатки (ЧЧ Мадхья 19.59, 19.89). = @rupa-gosvami F80, F91."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "guest",
+  "who": "@anupama",
+  "facts": [
+   "F41",
+   "F42"
+  ],
+  "events": [
+   "ev-rupa-prayaga"
+  ],
+  "note": "Вместе с Рупой получил от него остатки трапезы Господа (ЧЧ Мадхья 19.59)."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "host",
+  "who": "@vallabha-bhatta",
+  "facts": [
+   "F42"
+  ],
+  "events": [
+   "ev-vallabha-bhatta-adaila"
+  ],
+  "note": "По его просьбе Балабхадра готовил для Господа в Адаиле (ЧЧ Мадхья 19.87). = @vallabha-bhatta F31."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@haridasa-thakura",
+  "facts": [
+   "F46"
+  ],
+  "events": [
+   "ev-haridasa-sthavara-jangama-deliverance"
+  ],
+  "note": "Слышал от Балабхадры о спасении существ Джхарикханды (ЧЧ Антья 3.72). = @haridasa-thakura F110."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@sanatana-gosvami",
+  "facts": [
+   "F47"
+  ],
+  "events": [
+   "ev-sanatana-returns-vrindavana-forest-path"
+  ],
+  "note": "Записал у Балабхадры путь Господа во Вриндаван (ЧЧ Антья 4.210; B 458). = @sanatana-gosvami F307."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@bijuli-khan",
+  "facts": [
+   "F38",
+   "F39"
+  ],
+  "events": [
+   "ev-pathans-ramadasa"
+  ],
+  "note": "Отряд патханов схватил спутников Господа, приняв их за отравителей (ЧЧ Мадхья 18.163–184; по T и B — во главе с Биджли Ханом)."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@madhavendra-puri",
+  "facts": [
+   "F25"
+  ],
+  "note": "Объяснил санодия-брахману связь Господа с Мадхавендрой (ЧЧ Мадхья 17.174). = @madhavendra-puri F127."
+ },
+ {
+  "from": "@balabhadra-bhattacharya",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F3",
+   "F41",
+   "I2"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.146 (Мадхурекшана; санньяси и брахмачари), к Мадхья 19.87 («Бхаттачарья» — Балабхадра); заголовок издания к Мадхья 17.16 (⚠Б3)."
+ },
+ {
   "from": "@bhakti-ballabha-tirtha",
   "type": "guru",
   "who": "@bhakti-dayita-madhava",

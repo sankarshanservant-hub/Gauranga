@@ -973,6 +973,469 @@
   ]
  },
  {
+  "id": "@balabhadra-bhattacharya",
+  "names": {
+   "ru": "Балабхадра Бхаттачарья",
+   "en": "Balabhadra Bhattacharya",
+   "variants": [
+    "Бхаттачарья",
+    "Балабхадра Бхатта (ЧЧ Антья 4.210; B 877)",
+    "Баладева Бхаттачарья (B 890)",
+    "Баладева (Мурари 4.1.11)",
+    "Бхатта («Гаура-кришнодая» 13.59)"
+   ],
+   "facts": [
+    "F1"
+   ]
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "period": [
+   "P13",
+   "P14"
+  ],
+  "period_note": "Лично — с возвращения из Гауды в Пури (P13; ЧЧ Мадхья 1.236; F9) и весь поход во Вриндаван и обратно (P13; F10–F45). P14 — в Пури: рассказывал Харидасу о Джхарикханде (F46), Санатана записал у него путь Господа (F47).",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F7"
+    ]
+   }
+  },
+  "origin": {
+   "places": [],
+   "family": [],
+   "varna": "брахман, бенгалец (гаудия; ЧЧ Мадхья 17.15–16, 18.172)",
+   "facts": [
+    "F4",
+    "F5",
+    "F7"
+   ]
+  },
+  "relations": [
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "facts": [
+     "F3",
+     "F12",
+     "F14",
+     "F15",
+     "F16",
+     "F17",
+     "F19",
+     "F20",
+     "F21",
+     "F22",
+     "F23",
+     "F24",
+     "F27",
+     "F28",
+     "F30",
+     "F32",
+     "F33",
+     "F36",
+     "F39",
+     "F42",
+     "F44",
+     "F45",
+     "I2",
+     "I3"
+    ],
+    "events": [
+     "ev-departure-for-vrindavana",
+     "ev-jharikhanda-animals",
+     "ev-akrura-ghata-fall",
+     "ev-return-to-puri-from-vrindavana"
+    ],
+    "note": "Спутник и слуга Господа в походе во Вриндаван и обратно (ЧЧ Ади 10.146 — «служил как брахмачари»; Мадхья 17–19, 25): готовил, собирал подаяние, вытаскивал из Ямуны, уберегал в экстазе, увёл из Враджа (⚠Б1); Господь: «Я счастлив лишь благодаря тебе», «Я твой должник» (Мадхья 17.76, 18.153)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "facts": [
+     "F10",
+     "F11",
+     "F12"
+    ],
+    "events": [
+     "ev-departure-for-vrindavana"
+    ],
+    "note": "Назвал Господу его в спутники: «очень любит Тебя, пандит, святой, благородный» (ЧЧ Мадхья 17.15–19). = @svarupa-damodara F41."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "facts": [
+     "F10",
+     "F11",
+     "F12"
+    ],
+    "events": [
+     "ev-departure-for-vrindavana"
+    ],
+    "note": "Вместе со Сварупой упросил Господа взять спутника (ЧЧ Мадхья 17.8–12). = @ramananda-raya F49."
+   },
+   {
+    "type": "companion",
+    "who": "@damodara-pandita",
+    "facts": [
+     "F9"
+    ],
+    "events": [
+     "ev-return-puri-after-gauda"
+    ],
+    "note": "Вдвоём шли с Господом из Шантипура в Пури (ЧЧ Мадхья 1.235–236; T 89). = @damodara-pandita F27."
+   },
+   {
+    "type": "co-worker",
+    "who": "@krishnadasa-mathura",
+    "facts": [
+     "F25",
+     "F26",
+     "F27",
+     "F34",
+     "F35",
+     "F36",
+     "F38",
+     "F40"
+    ],
+    "events": [
+     "ev-krishnadasa-mathura-guide",
+     "ev-pathans-ramadasa"
+    ],
+    "note": "Санодия-брахман, ученик Мадхавендры Пури: Балабхадра объяснил ему связь Господа с Мадхавендрой; вместе заботились о Господе в обмороке и решили увести Его из Враджа (ЧЧ Мадхья 17.174, 17.219–224, 18.139–147)."
+   },
+   {
+    "type": "companion",
+    "who": "@krishnadasa-rajput",
+    "facts": [
+     "F33",
+     "F34",
+     "F38",
+     "F40"
+    ],
+    "events": [
+     "ev-akrura-ghata-fall",
+     "ev-pathans-ramadasa"
+    ],
+    "note": "Его крик у Акрура-тиртхи — Балабхадра вытащил Господа; защитил спутников от патханов; шёл до Праяги, ибо Балабхадра не знал языка (ЧЧ Мадхья 18.138, 18.173–175, 18.217)."
+   },
+   {
+    "type": "host",
+    "who": "@tapana-mishra",
+    "facts": [
+     "F23"
+    ],
+    "events": [
+     "ev-kashi-tapana-mishra"
+    ],
+    "note": "Почтил и совершил ему пуджу; в его доме Балабхадра готовил для Господа (ЧЧ Мадхья 17.88–89; M 148)."
+   },
+   {
+    "type": "host",
+    "who": "@chandrashekhara-vaidya",
+    "facts": [
+     "F43"
+    ],
+    "note": "Пригласил Бхаттачарью на обед при втором приходе Господа в Каши (ЧЧ Мадхья 19.248)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-bhatta",
+    "facts": [
+     "F23"
+    ],
+    "events": [
+     "ev-kashi-tapana-mishra"
+    ],
+    "note": "Мальчиком массировал стопы Господа после трапезы, приготовленной Балабхадрой (M 148; ЧЧ Мадхья 17.89–90). = @raghunatha-bhatta F21."
+   },
+   {
+    "type": "guest",
+    "who": "@rupa-gosvami",
+    "facts": [
+     "F41",
+     "F42"
+    ],
+    "events": [
+     "ev-rupa-prayaga",
+     "ev-vallabha-bhatta-adaila"
+    ],
+    "note": "В Праяге Балабхадра угостил его и Анупаму остатками Господа; в Адаиле дал ему остатки (ЧЧ Мадхья 19.59, 19.89). = @rupa-gosvami F80, F91."
+   },
+   {
+    "type": "guest",
+    "who": "@anupama",
+    "facts": [
+     "F41",
+     "F42"
+    ],
+    "events": [
+     "ev-rupa-prayaga"
+    ],
+    "note": "Вместе с Рупой получил от него остатки трапезы Господа (ЧЧ Мадхья 19.59)."
+   },
+   {
+    "type": "host",
+    "who": "@vallabha-bhatta",
+    "facts": [
+     "F42"
+    ],
+    "events": [
+     "ev-vallabha-bhatta-adaila"
+    ],
+    "note": "По его просьбе Балабхадра готовил для Господа в Адаиле (ЧЧ Мадхья 19.87). = @vallabha-bhatta F31."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "facts": [
+     "F46"
+    ],
+    "events": [
+     "ev-haridasa-sthavara-jangama-deliverance"
+    ],
+    "note": "Слышал от Балабхадры о спасении существ Джхарикханды (ЧЧ Антья 3.72). = @haridasa-thakura F110."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "facts": [
+     "F47"
+    ],
+    "events": [
+     "ev-sanatana-returns-vrindavana-forest-path"
+    ],
+    "note": "Записал у Балабхадры путь Господа во Вриндаван (ЧЧ Антья 4.210; B 458). = @sanatana-gosvami F307."
+   },
+   {
+    "type": "other",
+    "who": "@bijuli-khan",
+    "facts": [
+     "F38",
+     "F39"
+    ],
+    "events": [
+     "ev-pathans-ramadasa"
+    ],
+    "note": "Отряд патханов схватил спутников Господа, приняв их за отравителей (ЧЧ Мадхья 18.163–184; по T и B — во главе с Биджли Ханом)."
+   },
+   {
+    "type": "other",
+    "who": "@madhavendra-puri",
+    "facts": [
+     "F25"
+    ],
+    "note": "Объяснил санодия-брахману связь Господа с Мадхавендрой (ЧЧ Мадхья 17.174). = @madhavendra-puri F127."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "facts": [
+     "F2",
+     "F3",
+     "F41",
+     "I2"
+    ],
+    "note": "«Анубхашья» к ЧЧ Ади 10.146 (Мадхурекшана; санньяси и брахмачари), к Мадхья 19.87 («Бхаттачарья» — Балабхадра); заголовок издания к Мадхья 17.16 (⚠Б3)."
+   }
+  ],
+  "unnamed": [
+   {
+    "who": "брахман-слуга Балабхадры (нёс одежду и сосуд с водой)",
+    "type": "servant",
+    "facts": [
+     "F8",
+     "F12",
+     "F20",
+     "F38"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Мадхурекшана, подруга Радхи (гопи)",
+    "source": "ГГД 171",
+    "level": "A",
+    "facts": [
+     "F2"
+    ],
+    "variants": [
+     "B 889 и «Анубхашья» к ЧЧ Ади 10.146 — «Мадхурекшана» без номера шлоки; в ГГД — в ряду сакхи (шл. 160–172)."
+    ]
+   }
+  ],
+  "events": [
+   "ev-tattva-bhakti-kalpataru",
+   "ev-return-puri-after-gauda",
+   "ev-departure-for-vrindavana",
+   "ev-jharikhanda-animals",
+   "ev-kashi-tapana-mishra",
+   "ev-prayaga-on-way-to-vrindavana",
+   "ev-krishnadasa-mathura-guide",
+   "ev-vraja-parikrama",
+   "ev-parrots-vrindavana",
+   "ev-radha-kunda-discovery",
+   "ev-govardhana-visit",
+   "ev-akrura-tirtha-imli-tala",
+   "ev-vraja-residents-see-krishna",
+   "ev-akrura-ghata-fall",
+   "ev-pathans-ramadasa",
+   "ev-soro-to-prayaga",
+   "ev-rupa-prayaga",
+   "ev-vallabha-bhatta-adaila",
+   "ev-return-to-puri-from-vrindavana",
+   "ev-haridasa-sthavara-jangama-deliverance",
+   "ev-sanatana-returns-vrindavana-forest-path"
+  ],
+  "events_note": "ev-tattva-bhakti-kalpataru — ЧЧ Ади 10.146; ev-vraja-residents-see-krishna — Калия-даха (Мадхья 18.91–108); ev-akrura-ghata-fall — Акрура-тиртха и уход из Враджа (Мадхья 18.135–158; «Гаура-кришнодая» 14.51–58); ev-krishnadasa-mathura-guide — санодия-брахман (Мадхья 17.164–186); ev-return-to-puri-from-vrindavana — Мадхья 25.215–219 (послан созвать преданных у Атхаранала).",
+  "teachings_given": [],
+  "teachings_received": [],
+  "works": [],
+  "places": [
+   "#shantipura",
+   "#puri",
+   "#jharikhanda",
+   "#kashi",
+   "#prayaga",
+   "#mathura",
+   "#vrindavana",
+   "#radha-kunda",
+   "#brahma-kunda",
+   "#kaliya-hrada",
+   "#akrura-tirtha",
+   "#gokula",
+   "#soro",
+   "#adaila",
+   "#atharanala"
+  ],
+  "places_facts": [
+   "F9",
+   "F14",
+   "F15",
+   "F23",
+   "F24",
+   "F25",
+   "F28",
+   "F29",
+   "F33",
+   "F35",
+   "F37",
+   "F41",
+   "F42",
+   "F44",
+   "F45"
+  ],
+  "character": [
+   {
+    "trait": "любовное служение Господу как слуга (даса): стряпня, сбор пищи, запас на безлюдные места",
+    "facts": [
+     "F17",
+     "F19",
+     "F20",
+     "F22"
+    ],
+    "events": [
+     "ev-jharikhanda-animals"
+    ]
+   },
+   {
+    "trait": "смирение и постижение: «Ты — Кришна, я — низкая джива; Ты сделал ворону равной Гаруде»",
+    "facts": [
+     "F22"
+    ]
+   },
+   {
+    "trait": "бдительная забота о Господе в экстазе: вытаскивает из Ямуны, берёт на колени, усаживает, уводит от опасности",
+    "facts": [
+     "F24",
+     "F27",
+     "F33",
+     "F34",
+     "F39"
+    ],
+    "events": [
+     "ev-akrura-ghata-fall"
+    ]
+   },
+   {
+    "trait": "простодушие (Калия-даха) — и милость Господа, вразумляющего его",
+    "facts": [
+     "F29",
+     "F30",
+     "F31"
+    ],
+    "events": [
+     "ev-vraja-residents-see-krishna"
+    ]
+   },
+   {
+    "trait": "свидетель и хранитель лил пути: рассказывал Харидасу, Санатана записал у него путь Господа",
+    "facts": [
+     "F46",
+     "F47"
+    ],
+    "events": [
+     "ev-sanatana-returns-vrindavana-forest-path"
+    ]
+   }
+  ],
+  "significance": {
+   "facts": [
+    "F2",
+    "F3",
+    "F22",
+    "F36",
+    "F46",
+    "F47",
+    "I1",
+    "I2",
+    "I3",
+    "I4"
+   ]
+  },
+  "sources": {
+   "T": "глав нет; 89, 101–103, 105, 108",
+   "M": "глав нет; 90, 148",
+   "B": "889–893 (гл.); 212, 243, 299, 458, 877, 959–960, 1001, 1039–1042",
+   "other": [
+    "ГГД 171",
+    "ЧЧ Ади 10.146 (с «Анубхашьей»)",
+    "ЧЧ Мадхья 1.232–241; 17.3–224; 18.14, 18.21, 18.99–218; 19.58–59, 19.87–89, 19.248; 25.215–217",
+    "ЧЧ Антья 3.72; 4.209–210",
+    "«Чайтанья-чандродая», акт 9",
+    "«Гаура-кришнодая» 13.59–60; 14.2, 14.10, 14.28, 14.51–57, 14.70",
+    "Мурари 4.1.11"
+   ]
+  },
+  "article": {
+   "ru": "parshadas/ru/balabhadra-bhattacharya.md",
+   "en": "parshadas/en/balabhadra-bhattacharya.md"
+  },
+  "open_questions": [
+   "Родина, семья, годы жизни, день и место ухода неизвестны; в календаре ШЧСМ его дней нет.",
+   "Кто решил уйти из Враджа и почему согласился Господь: ЧЧ — Балабхадра с санодия-брахманом, Господь — ради преданного; T 102 и B 1041 — из почтения к духовному брату гуру; B 892 — трое (⚠3).",
+   "Сколько спутников было из Гауды: «лишь Балабхадра» (ЧЧ Мадхья 1.238, T 108) или с ним слуга (ЧЧ 17.17); «Гаура-кришнодая» 14.57 — трое (⚠4)."
+  ]
+ },
+ {
   "id": "@bhakti-ballabha-tirtha",
   "names": {
    "ru": "Свами Бхакти Валлабха Тиртха Махарадж",

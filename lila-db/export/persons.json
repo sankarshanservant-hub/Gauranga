@@ -4174,6 +4174,10 @@
     "type": "other"
    },
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "served-by"
+   },
+   {
     "from": "@bhavananda-raya",
     "type": "companion"
    },
@@ -15712,6 +15716,10 @@
     "type": "friend"
    },
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "other"
    },
@@ -18373,6 +18381,10 @@
   ],
   "related_by": [
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "companion"
+   },
+   {
     "from": "@chandrashekhara-acharya",
     "type": "other"
    },
@@ -19428,6 +19440,10 @@
    {
     "from": "@advaita",
     "type": "guru"
+   },
+   {
+    "from": "@balabhadra-bhattacharya",
+    "type": "other"
    },
    {
     "from": "@bhakti-dayita-madhava",
@@ -20532,6 +20548,10 @@
   ],
   "related_by": [
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
    },
@@ -21188,6 +21208,10 @@
   "related_by": [
    {
     "from": "@advaita",
+    "type": "other"
+   },
+   {
+    "from": "@balabhadra-bhattacharya",
     "type": "other"
    },
    {
@@ -22452,6 +22476,10 @@
     "type": "other"
    },
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "guest"
+   },
+   {
     "from": "@bhakti-dayita-madhava",
     "type": "other"
    },
@@ -23328,6 +23356,10 @@
    }
   ],
   "related_by": [
+   {
+    "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   },
    {
     "from": "@bhugarbha",
     "type": "companion"
@@ -27449,6 +27481,10 @@
   ],
   "related_by": [
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "co-worker"
+   },
+   {
     "from": "@madhavendra-puri",
     "type": "disciple"
    }
@@ -30450,6 +30486,134 @@
    "ev-haridasa-sthavara-jangama-deliverance",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Мадхурекшана, подруга Радхи (ГГД 171)",
+  "card": "parshadas/cards/balabhadra-bhattacharya.yaml",
+  "article": {
+   "ru": "parshadas/ru/balabhadra-bhattacharya.md",
+   "en": "parshadas/en/balabhadra-bhattacharya.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "место, год и день явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F7"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода неизвестны; в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F7"
+    ]
+   }
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Мадхурекшана, подруга Радхи (гопи)",
+    "source": "ГГД 171",
+    "level": "A",
+    "variants": [
+     "B 889 и «Анубхашья» к ЧЧ Ади 10.146 — «Мадхурекшана» без номера шлоки; в ГГД — в ряду сакхи (шл. 160–172)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "served-by",
+    "who": "@mahaprabhu",
+    "note": "Спутник и слуга Господа в походе во Вриндаван и обратно (ЧЧ Ади 10.146 — «служил как брахмачари»; Мадхья 17–19, 25): готовил, собирал подаяние, вытаскивал из Ямуны, уберегал в экстазе, увёл из Враджа (⚠Б1); Господь: «Я счастлив лишь благодаря тебе», «Я твой должник» (Мадхья 17.76, 18.153)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Назвал Господу его в спутники: «очень любит Тебя, пандит, святой, благородный» (ЧЧ Мадхья 17.15–19). = @svarupa-damodara F41."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "Вместе со Сварупой упросил Господа взять спутника (ЧЧ Мадхья 17.8–12). = @ramananda-raya F49."
+   },
+   {
+    "type": "companion",
+    "who": "@damodara-pandita",
+    "note": "Вдвоём шли с Господом из Шантипура в Пури (ЧЧ Мадхья 1.235–236; T 89). = @damodara-pandita F27."
+   },
+   {
+    "type": "co-worker",
+    "who": "@krishnadasa-mathura",
+    "note": "Санодия-брахман, ученик Мадхавендры Пури: Балабхадра объяснил ему связь Господа с Мадхавендрой; вместе заботились о Господе в обмороке и решили увести Его из Враджа (ЧЧ Мадхья 17.174, 17.219–224, 18.139–147)."
+   },
+   {
+    "type": "companion",
+    "who": "@krishnadasa-rajput",
+    "note": "Его крик у Акрура-тиртхи — Балабхадра вытащил Господа; защитил спутников от патханов; шёл до Праяги, ибо Балабхадра не знал языка (ЧЧ Мадхья 18.138, 18.173–175, 18.217)."
+   },
+   {
+    "type": "host",
+    "who": "@tapana-mishra",
+    "note": "Почтил и совершил ему пуджу; в его доме Балабхадра готовил для Господа (ЧЧ Мадхья 17.88–89; M 148)."
+   },
+   {
+    "type": "host",
+    "who": "@chandrashekhara-vaidya",
+    "note": "Пригласил Бхаттачарью на обед при втором приходе Господа в Каши (ЧЧ Мадхья 19.248)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunatha-bhatta",
+    "note": "Мальчиком массировал стопы Господа после трапезы, приготовленной Балабхадрой (M 148; ЧЧ Мадхья 17.89–90). = @raghunatha-bhatta F21."
+   },
+   {
+    "type": "guest",
+    "who": "@rupa-gosvami",
+    "note": "В Праяге Балабхадра угостил его и Анупаму остатками Господа; в Адаиле дал ему остатки (ЧЧ Мадхья 19.59, 19.89). = @rupa-gosvami F80, F91."
+   },
+   {
+    "type": "guest",
+    "who": "@anupama",
+    "note": "Вместе с Рупой получил от него остатки трапезы Господа (ЧЧ Мадхья 19.59)."
+   },
+   {
+    "type": "host",
+    "who": "@vallabha-bhatta",
+    "note": "По его просьбе Балабхадра готовил для Господа в Адаиле (ЧЧ Мадхья 19.87). = @vallabha-bhatta F31."
+   },
+   {
+    "type": "other",
+    "who": "@haridasa-thakura",
+    "note": "Слышал от Балабхадры о спасении существ Джхарикханды (ЧЧ Антья 3.72). = @haridasa-thakura F110."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Записал у Балабхадры путь Господа во Вриндаван (ЧЧ Антья 4.210; B 458). = @sanatana-gosvami F307."
+   },
+   {
+    "type": "other",
+    "who": "@bijuli-khan",
+    "note": "Отряд патханов схватил спутников Господа, приняв их за отравителей (ЧЧ Мадхья 18.163–184; по T и B — во главе с Биджли Ханом)."
+   },
+   {
+    "type": "other",
+    "who": "@madhavendra-puri",
+    "note": "Объяснил санодия-брахману связь Господа с Мадхавендрой (ЧЧ Мадхья 17.174). = @madhavendra-puri F127."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.146 (Мадхурекшана; санньяси и брахмачари), к Мадхья 19.87 («Бхаттачарья» — Балабхадра); заголовок издания к Мадхья 17.16 (⚠Б3)."
+   }
+  ],
   "related_by": [
    {
     "from": "@damodara-pandita",
@@ -30532,6 +30696,10 @@
    "ev-raghunatha-bhatta-first-visit-puri"
   ],
   "related_by": [
+   {
+    "from": "@balabhadra-bhattacharya",
+    "type": "host"
+   },
    {
     "from": "@jagadananda-pandita",
     "type": "met"
@@ -30813,6 +30981,10 @@
   ],
   "related_by": [
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   },
+   {
     "from": "@gopala-bhatta",
     "type": "companion"
    },
@@ -30896,6 +31068,10 @@
    "ev-narottama-path-vision"
   ],
   "related_by": [
+   {
+    "from": "@balabhadra-bhattacharya",
+    "type": "host"
+   },
    {
     "from": "@jagadananda-pandita",
     "type": "met"
@@ -35616,6 +35792,10 @@
    "ev-gosvamis-ancestry"
   ],
   "related_by": [
+   {
+    "from": "@balabhadra-bhattacharya",
+    "type": "guest"
+   },
    {
     "from": "@jiva-gosvami",
     "type": "father"
@@ -43110,6 +43290,10 @@
   ],
   "related_by": [
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "host"
+   },
+   {
     "from": "@damodara-pandita",
     "type": "met"
    },
@@ -43950,6 +44134,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   },
    {
     "from": "@bhakti-ballabha-tirtha",
     "type": "lineage-predecessor"
@@ -53223,6 +53411,10 @@
   ],
   "related_by": [
    {
+    "from": "@balabhadra-bhattacharya",
+    "type": "companion"
+   },
+   {
     "from": "@rupa-gosvami",
     "type": "companion"
    },
@@ -53256,6 +53448,12 @@
   ],
   "events": [
    "ev-pathans-ramadasa"
+  ],
+  "related_by": [
+   {
+    "from": "@balabhadra-bhattacharya",
+    "type": "other"
+   }
   ]
  },
  {
