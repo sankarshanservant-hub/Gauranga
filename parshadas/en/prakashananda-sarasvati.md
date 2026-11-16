@@ -139,6 +139,117 @@ says one of the biographies, the sayings of the Mayavadis were heard everywhere 
 words “Brahman,” “atma,” “chaitanya”; and Chandrashekhara complained to the Lord that here one hears nothing but
 “maya” and “Brahman” (17.95).[^2] <!-- F18 F19 -->
 
+## The Assembly in the Brahmana's House
+After visiting Vrindavana, the Lord came to Varanasi again. This time He stayed in the house of Chandrashekhara — “the
+scribe, a shudra,” as the “Charitamrita” says[^3] — and took His meals with Tapana Mishra. Sanatana Gosvami came there
+from Bengal, and for two months the Lord instructed him. But the Mayavadi sannyasis went on reviling the Lord, and
+Chandrashekhara and Tapana Mishra could not bear it:
+
+“Meanwhile Chandrashekhara and Tapana Mishra, deeply grieved, came to the Lord's feet with a petition: ‘How much longer
+must we hear You blasphemed, O Lord? We cannot bear it; we would rather give up our lives. All the sannyasis revile You,
+and we cannot listen to it: our hearts and ears are bursting.’” (CC, Adi 7.49–51) <!-- F20 Q1 -->
+
+The Lord heard them with a slight smile, and just then a brahmana came to Him. Touching His feet, he said: “I have
+invited all the sannyasis of Varanasi to my house. If You too accept the invitation, all my desires will be fulfilled.
+I know You do not attend gatherings of the Mayavadi sannyasis, but be merciful to me — come.” Kaviraja continues:
+
+“Smiling, the Lord accepted the invitation; He made this gesture to show mercy to the sannyasis. The brahmana knew that
+the Lord does not go to anyone's house, but, inspired by the Lord Himself, he pressed Him with great insistence.” (CC,
+Adi 7.56–57)
+
+The Lord, who until then had answered His revilers with nothing but a smile, accepted the invitation not for the sake of
+honour: it was a means to save the sannyasis, and the request itself He had placed in the brahmana's heart. In the
+Adi-lila the brahmana is not named; in the second account (Madhya 25.7–15) he is the same brahmana from Maharashtra who
+had earlier heard Prakashananda's mockery.[^4] <!-- F21 I1 -->
+
+Next day the Lord came to the brahmana's house, where the sannyasis of Varanasi were already seated. He Himself had
+taken sannyasa in the Bharati branch, and so He regarded Prakashananda Sarasvati as belonging to the higher branch and
+called Himself one of the lower. Thus, as a Vaishnava sannyasi, He showed the dharma of *amani-manada*: to seek no honour
+for oneself and to give honour to others.
+
+“Bowing to them all, He went to wash His feet, and when He had washed them He sat down in that very place. As He sat
+there, He revealed a little of His majesty: His body shone with great effulgence, with the splendour of millions of
+suns. That splendour drew the minds of all the sannyasis, and they all rose from their seats.” (CC, Adi 7.59–61)
+<!-- F22 F23 Q2 -->
+
+Prakashananda was the first to speak:
+
+“The chief among the sannyasis, Prakashananda by name, addressed the Lord with respect: ‘Come here, Gosani; listen,
+Shripada. You are sitting in an impure place — why are You so downcast?’ The Lord replied, ‘I belong to a lower
+sampradaya; it is not fitting for Me to sit in your assembly.’ Then Prakashananda himself took Him by the hand and,
+with respect, seated Him in the midst of the assembly.” (CC, Adi 7.62–65) <!-- F24 F25 Q3 -->
+
+And he asked Him directly:
+
+“He asked, ‘Your name is Sri Krishna Chaitanya, is it not? You are a disciple of Keshava Bharati, and so You are worthy
+of glory. You are a sannyasi of our own sampradaya and You live in this town; why then do You not come to see us? Though
+You are a sannyasi, You dance and sing, and You take all these sentimentalists with You and perform kirtana. The study of
+Vedanta and meditation are the dharma of a sannyasi; why do You abandon them and do the work of sentimentalists? From
+Your splendour we see that You are Narayana Himself; why then do You behave so lowly? What is the reason?’” (CC, Adi
+7.66–70) <!-- F26 -->
+
+The Lord's answer is full of humility. My guru, He said, considered Me a fool and instructed Me:
+
+“‘You are a fool; You are not qualified for Vedanta. Always chant the Krishna-mantra — it is the essence of all mantras.
+From the Krishna-mantra will come release from samsara, and by Krishna's name You will attain Krishna's feet. In the age
+of Kali there is no dharma other than the name; the name is the essence of all mantras — this is the heart of the
+scriptures.’” (CC, Adi 7.72–74)
+
+Chanting the name, the Lord went on, I lost My composure: I laugh, weep, dance and sing like a madman. I told My guru of
+this, and he replied: such is the nature of the maha-mantra; it is well that You have attained love for Krishna, the
+highest goal of life, and by Your love my own life has been crowned with success.
+
+“‘Dance, sing and perform sankirtana with the devotees; teach Krishna's name and deliver all people.’” (CC, Adi 7.92)
+
+The words “I am a fool” and “I am lower” are not an admission of ignorance by the Lord but His play. The very Object of
+Vedanta speaks here as a student, to show who is fit for Vedanta: the humble one, who seeks no honour — so Srila
+Bhaktisiddhanta explains in the “Anubhashya.” <!-- F27 Q4 I2 -->
+
+The Lord's sweet words changed the mood of the assembly:
+
+“‘All that You have said is true: love for Krishna is attained only by one whose good fortune has dawned. You have
+devotion for Krishna, and we are all pleased with that. But why do You not hear Vedanta? What fault is there in it?’”
+(CC, Adi 7.100–101) <!-- F28 -->
+
+Then the Lord spoke of Vedanta:
+
+“The Lord said, ‘The *Vedanta-sutra* is the word of the Lord: Sri Narayana Himself composed it in the form of Vyasa.
+<…> But to hear the commentary that the Acharya wrote in the secondary sense is to lose every spiritual gain. The fault
+is not his: he received the Lord's order and so gave the secondary meaning, covering the primary. <…> One who regards
+the body of Vishnu as material commits the gravest blasphemy against Vishnu; there is none greater than this.’” (CC, Adi
+7.106, 109–110, 115)
+
+Shankara is not to blame — he is a servant who carried out the Lord's will; but whoever listens with faith to his
+secondary interpretation meets with ruin (7.114).[^5] The pranava, Om, is the seed of the tree of the Vedas and the true
+great saying, the sound-form of God Himself; Shankara covered it and raised “tat tvam asi” to the rank of the great
+sayings. The Vedas are self-evident, and by interpreting them indirectly one robs them of their authority; so in every
+sutra Shankara cast aside the direct sense and put his own in its place (7.128–133).[^6] <!-- F29 Q5 I3 -->
+
+The sannyasis were astonished. The “Charitamrita” gives their answer with striking frankness:
+
+“All the sannyasis said, ‘Listen, Shripada: the meaning You have refuted is beyond dispute. We all know that the meaning
+is the Acharya's own invention; yet out of deference to our sampradaya we accept it as the truth.’” (CC, Adi
+7.135–136) <!-- F30 -->
+
+At their request the Lord explained the direct meaning of the sutras. Brahman is Bhagavan Himself, full of spiritual
+perfections and untouched by maya; He is *sambandha*, the One with whom everyone is eternally related. The way to Him is
+bhakti, beginning with hearing and glorifying; this is *abhidheya*. The goal is love for Krishna, the fifth goal of life,
+*prayojana*. “In these three meanings all the sutras find their conclusion” (7.146). <!-- F31 -->
+
+Then a change came over the assembly:
+
+“Hearing all the sutras explained in this way, all the sannyasis humbly said: ‘You are the Vedas embodied — Narayana
+Himself. Forgive us for having blasphemed You before.’ From that time the sannyasis' hearts were changed, and they
+always took the name ‘Krishna, Krishna’. So He forgave their offences and graced them all with Krishna's name.” (CC, Adi
+7.147–150) <!-- F32 F33 Q6 Q7 -->
+
+Then the sannyasis seated the Lord in their midst and took their meal together with Him, and afterwards He returned
+home. Chandrashekhara, Tapana Mishra and Sanatana, hearing His arguments and seeing His mercy, rejoiced (7.153). Now all
+the Mayavadi sannyasis came of themselves to see the Lord, and all Varanasi glorified Him. Crowds thronged His door,
+thousands gathered at the temple of Vishveshvara and at the Ganga when He went there, and the Lord, raising His arms,
+called out: “Sing ‘Hari! Hari!’” (7.154–159). Kaviraja promises to tell of this in more detail later (7.162) — and does
+so in the Madhya-lila. <!-- F34 F35 -->
+
 [^1]: One of the biographies refers to this episode as “CB 2.10.31…44”; in fact it is Madhya 20.31–44.
 [^2]: One of the biographies retells this chapter freely: the brahmana supposedly named the Lord three times as “Krishna
     Chaitanya,” while Prakashananda said “chaitanya” three times but could not utter “Krishna”; the brahmana begs the
@@ -147,3 +258,13 @@ words “Brahman,” “atma,” “chaitanya”; and Chandrashekhara complained
     Lord, himself called Him “Chaitanya” three times; the brahmana only asks why this was so (Madhya 17.128); it is
     Prakashananda who tells the brahmana not to go to the Lord (17.121), and the Lord forbids nothing. We follow the
     “Charitamrita.”
+[^3]: Srila Bhaktisiddhanta explains in the “Anubhashya” that according to the “Chaitanya-chandrodaya” Chandrashekhara
+    was a vaidya by birth; in those days all non-brahmanas were called shudras.
+[^4]: That this is one person is clear from the “Charitamrita” itself: Madhya 25.14–16 links this account directly with
+    Adi 7. One of the biographies understands it the same way.
+[^5]: Srila Bhaktivinoda Thakura explains in the “Amrita-pravaha-bhashya” that Shankara is an incarnation of Shiva and
+    that, according to the “Padma Purana,” Mayavada is covert Buddhism, which Shiva expounds in the age of Kali by the
+    Lord's will. This is no justification of Mayavada: to hear its interpretations, in the Lord's own words, is ruinous
+    (Adi 7.109, 114).
+[^6]: One of the biographies, citing verse 7.115, refers to it by a misprint as “Adi 7.315,” and to verses 7.148 and
+    7.150 as “Adi 8.”
