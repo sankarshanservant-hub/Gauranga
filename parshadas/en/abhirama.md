@@ -14,7 +14,7 @@ biographies call him Nityananda's dearest devotee. Vrindavana Dasa, listing Nity
 Mahashaya at their head (CB, Antya 5.722),[^2] and the “Bhakti-ratnakara” tells how from time to time Nityananda came
 with His companions to the house of His dear Abhirama (4.120). <!-- F4 -->
 
-Of his worldly life little is known. According to the “Bhakti-ratnakara,” he “descended in a brahmana's house to
+Of the outward circumstances of his life little is known. According to the “Bhakti-ratnakara,” he “descended in a brahmana's house to
 deliver living beings” (4.105), and his disciple Vedagarbha Acharya calls him “the crest-jewel of brahmanas” (4.112).
 The sources name neither his birthplace nor his parents, nor the year and day of his appearance; nor is the day of his
 appearance found in the Vaishnava calendar of the Sri Chaitanya Saraswat Math. <!-- F7 -->
@@ -145,15 +145,14 @@ fled at the mere sight of him, while he, invested with Nityananda's power, was a
 the fallen. <!-- F17 Q5 -->
 
 He is formidable only to godlessness. The power before which the godless tremble is Nityananda's power in him:
-Nityananda has entered His servant (*avesha*) and acts through him, and the work of that power is not punishment but the
+Nityananda has invested His servant with His power (*shakti-avesha*) and acts through him, and the work of that power is not punishment but the
 deliverance of the fallen. <!-- I2 -->
 
 ## Malini
 The “Bhakti-ratnakara” says that Abhirama was learned in all the shastras, supremely charming, and without equal in
 dance, song and instrumental music (4.106); the biographies call him a remarkable scholar. <!-- F19 -->
 
-His wife was Sri Malini-devi, the daughter of a brahmana. Abhirama married not by his own choice but by the wish of
-Nityananda-Balarama, taking a wife from the house of a learned brahmana. The narrator of the “Bhakti-ratnakara” says to
+His wife was Sri Malini-devi, the daughter of a brahmana. Abhirama married by the will of Nityananda-Balarama, taking a wife from the house of a learned brahmana. The narrator of the “Bhakti-ratnakara” says to
 Srinivasa:
 
 “O Srinivasa, how much shall I tell you? He descended in a brahmana's house to deliver living beings. <…> By the will
@@ -272,8 +271,7 @@ devotee. <!-- I4 I6 -->
 
 ## The Obeisance
 Another tradition is connected with Abhirama's name, one that, in Srila Bhaktisiddhanta's words, is current to this
-day. If Abhirama bowed down before a stone or an image — before anything other than a Vishnu-shila or a Deity of
-Vishnu — it split apart and crumbled to dust. It is said that non-devotees, too, could not bear his obeisance, and one
+day. If Abhirama bowed down before a stone or an image — before anything other than a Vishnu-shila or a Deity of Vishnu — it split apart and crumbled to dust. It is said that non-devotees, too, could not bear his obeisance, and one
 of the biographies adds that by his obeisance he would tell whether a Vishnu-shila or shalagrama was genuine: only a
 pure Vaishnava could withstand it, while for others it could prove fatal.[^10] The point of the tradition is not a
 destructive force. The obeisance of Krishna's cowherd friend, full of sakhya-bhava, can be received only by the Lord
@@ -310,7 +308,7 @@ portion, as Virachandra and Ganga are; the whip bestows prema, and in such fulln
 borne more. <!-- I3 -->
 
 ## Separation
-When Nityananda disappeared, Abhirama changed. The “Bhakti-ratnakara” says that from then on he constantly sighed deeply
+When Nityananda withdrew from sight, Abhirama changed. The “Bhakti-ratnakara” says that from then on he constantly sighed deeply
 and spoke to no one: “in separation from Sri Prabhu he is always absorbed in love” (4.125, 4.131). This is not
 dejection or worldly grief: so an eternal associate of the Lord lives through separation (*vipralambha*), and it is the
 highest state of love. <!-- F46 -->
@@ -370,8 +368,7 @@ Abhirama was with the Lord in Navadvipa; this is the testimony of the padas, and
 Later biographies add stories of their own. The “Nityananda-vamsha-vistara” relates, from the words of Uddharana Datta:
 once in Vrindavana Nityananda the avadhuta called, “My brother, Shridama!” — and a cowherd boy came out of Govardhana;
 he did not recognize the shaven-headed Balarama, and then Nityananda showed His white form with plough and club and told
-him to “grow up” — so he became Abhirama Gopala. This is a late image of the meeting of eternal friends: Shridama did
-not come into being from a cowherd boy, but is eternally the friend of Krishna and Balarama. According to the
+him to “grow up” — so he became Abhirama Gopala. This is a late image of the meeting of eternal friends, not a tale of transformation: Shridama is eternally the friend of Krishna and Balarama and only appeared in a new form for Gaura's pastimes. According to the
 “Nityananda-vamsha-vistara” and the “Prema-vilasa,” when young Virabhadra secretly set off by boat to Advaita for a
 mantra, Jahnava sent Abhirama to bring him back; Abhirama threw his flute and smashed the boat, and Virabhadra received
 initiation from Jahnava. The same “Nityananda-vamsha-vistara” says that in Nilachala Abhirama introduced Sarvabhauma and
@@ -388,12 +385,11 @@ year, the circumstances of his departure and the place of his samadhi the source
 On that day a great festival is held at Khanakula-Krishnanagara, and thousands of devotees gather. <!-- F33 -->
 
 ## Significance
-Abhirama Thakura is Shridama, Krishna's eternal friend, who descended into Gaura's pastimes as the first of
-Nityananda's twelve gopalas. Sri Chaitanya sent him with Nityananda to preach in Gauda, and so he belongs to both
+Abhirama Thakura is Shridama, Krishna's eternal friend, the first of Nityananda's twelve gopalas, who descended into Gaura's pastimes. Sri Chaitanya sent him with Nityananda to preach in Gauda, and so he belongs to both
 circles. Everything extraordinary in him — the log-flute, the formidable obeisance, the whip that bestows prema — comes
 from the fullness of sakhya-prema and from the power of Nityananda with which He invested His servant. Formidable to
 godlessness, he was generous to the fallen; Srinivasa, without being his disciple, received love for Krishna from him;
-and after Nityananda's departure he lived in a silent separation that is itself the highest love. The Deity of
+and after Nityananda's disappearance he lived in a silent separation that is itself the highest love. The Deity of
 Gopinatha, who revealed Himself to him at Khanakula, accepts service to this day. <!-- F2 F3 F5 F8 F16 F34 I1 I2 I3 I4 -->
 
 ---
@@ -406,8 +402,7 @@ Gopinatha, who revealed Himself to him at Khanakula, accepts service to this day
     Abhirama.
 [^2]: That the Ramadasa of the “Chaitanya-bhagavata” is Abhirama is the tradition; so too Srila Bhaktisiddhanta
     understands him in the “Anubhashya” on CC, Antya 6.61.
-[^3]: In the “Charitamrita” (Adi 10.116, 11.16) the log is *sholasanger kashtha*, “what sixteen men carry”; an earlier
-    translation and one of the biographies understood it as “a bamboo with sixteen joints.” The
+[^3]: In the “Charitamrita” (Adi 10.116, 11.16) the log is *sholasanger kashtha*, “what sixteen men carry”; an earlier Russian translation of the “Charitamrita” and one of the biographies understood it as “a bamboo with sixteen joints.” The
     “Gaura-ganoddesha-dipika” (126) speaks of thirty-two bearers, the “Bhakti-ratnakara” (4.123) of a log that even a
     hundred men could not move. One of the biographies ascribes the figure “thirty-two” to the “Charitamrita” — it is
     the figure of the “Gaura-ganoddesha-dipika”; another holds that all three sources speak of one and the same log. We
