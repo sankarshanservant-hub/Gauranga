@@ -727,3 +727,9 @@
 | Бхаджанагхат | Bhajanaghat | деревня в округе Надия; Радха-валлабха потомков Кану Тхакура |
 | Шишу Кришнадас, Тхакур Канаи | Shishu Krishnadasa, Thakura Kanai | @kanu-thakura (≠ @kanai-shrikhanda) |
 | Сахебданга-Бериграм; Чандурия (= Чандуре) | Sahebdanga-Berigram; Chanduria (= Chandure) | места Божеств Пурушоттамы и гади Джахнавы (@purushottama-nagara F25–F29) |
+| Саияд Хусейн-хан (до воцарения); бегум; в цитатах ЧЧ по ВЧД — «Хуссейн Хан» | Saiyad Hussain Khan; the Begum; in CC quotes (en-rev) — “Husain Khan” | @subuddhi-raya; @gauda-sultan |
+| *адхикари* (правитель, сановник в Гауде) | *adhikari* (governor, official) | @subuddhi-raya, ЧЧ Мадхья 25.180; «царь Гауды» у жизнеописаний — только в сноске |
+| *дигхи*; *мунсиф*; *карой* (в ЧЧ — *кароя̄*) | *dighi*; *munsiph*; *karoya* | большой пруд; надзиратель; сосуд для воды у мусульман (ЧЧ Мадхья 25.181–186) |
+| праяшчитта; *тушанала* | prayashchitta; *tushanala* | искупительный обряд смрити; огонь из мякины |
+| Дхрува-гхат; Наймишаранья; Айодхья | Dhruva-ghata; Naimisharanya; Ayodhya | Матхура, на Ямуне; путь Субуддхи Рая (ЧЧ Мадхья 25.179, 194) |
+| Субуддхи Мишра (Врадж; НВ, БР, пада Нарахари) | Subuddhi Mishra | по-видимому = @subuddhi-raya, со сноской «прямо не сказано»; ≠ @subuddhi-mishra (отец Джаянанды) |
