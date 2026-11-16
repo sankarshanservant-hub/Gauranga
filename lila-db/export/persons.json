@@ -11250,6 +11250,10 @@
     "type": "met"
    },
    {
+    "from": "@kaliya-krishnadasa",
+    "type": "companion"
+   },
+   {
     "from": "@kamalakara-pippalai",
     "type": "guru"
    },
@@ -24266,6 +24270,10 @@
     "type": "met"
    },
    {
+    "from": "@kaliya-krishnadasa",
+    "type": "other"
+   },
+   {
     "from": "@narahari-sarakara",
     "type": "nephew"
    },
@@ -35184,6 +35192,10 @@
     "type": "met"
    },
    {
+    "from": "@kaliya-krishnadasa",
+    "type": "other"
+   },
+   {
     "from": "@kamalakara-pippalai",
     "type": "companion"
    },
@@ -35419,6 +35431,10 @@
    },
    {
     "from": "@jagadananda-pandita",
+    "type": "other"
+   },
+   {
+    "from": "@kaliya-krishnadasa",
     "type": "other"
    },
    {
@@ -45784,6 +45800,10 @@
     "type": "other"
    },
    {
+    "from": "@kaliya-krishnadasa",
+    "type": "other"
+   },
+   {
     "from": "@kamalakara-pippalai",
     "type": "other"
    },
@@ -51208,6 +51228,133 @@
    "ev-associates-of-nityananda-wonders",
    "ev-tattva-bhakti-kalpataru"
   ],
+  "summary": "в Кришна-лиле — Лаванга, друг-пастушок Кришны во Врадже, один из… (ГГД 132); происхождение — Сонатала; уход — Кешава, кришна-двадаши; самадхи — Акаи-хат (Акаихат)",
+  "card": "parshadas/cards/kaliya-krishnadasa.yaml",
+  "article": {
+   "ru": "parshadas/ru/kaliya-krishnadasa.md",
+   "en": "parshadas/en/kaliya-krishnadasa.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "B, T, M дня, года и места явления не называют (M 74 называет Акаихат «местом рождения» — ошибка, ⚠5; род — брахманы-варендра, грами Бхадар, по преданию госвами Сонаталы, F17); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": [
+     "F8",
+     "F17"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Кешава (≈ аграхаяна), кришна-двадаши",
+    "place": "",
+    "conf": "по календарю ШЧСМ (541/ru, проверено 2026-11-16): «День ухода Шрилы Калия Кришнадаса» — Кешава-маса, кришна-двадаши (5 декабря 2026 г.) = предание Сонаталы (аграхаяна, B 933; T 95); в Акаихате празднуют чайтра, кришна-двадаши, день Варуни (B 932; M 74) — сноской; год и место ухода неизвестны (T «окончил дни во Вриндаване» — без опоры, ⚠2)",
+    "facts": [
+     "F15",
+     "F22",
+     "F30",
+     "F31"
+    ]
+   },
+   "samadhi": [
+    {
+     "place": "#akai-hat",
+     "facts": [
+      "F11"
+     ],
+     "note": "храм над самадхи рухнул (по «Анубхашье», начало XX в.)"
+    }
+   ]
+  },
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Лаванга, друг-пастушок (сакха) Кришны во Врадже, один из двенадцати гопалов",
+    "source": "ГГД 132",
+    "level": "A",
+    "variants": [
+     "«Гопала-нирная» (ванданы, ч. 4, 43–44): Махабаху, а Лавангой названа Пурушоттама, «сын Ратаи» — против ГГД (по ГГД 129 Махабаху — Махеша Пандит), ур. C (F7, ⚠9)."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "companion",
+    "who": "@nityananda",
+    "note": "Один из двенадцати гопалов; «не знал ничего, кроме Нитьянанды» (ЧЧ Ади 11.37); Джаянанда — Нитьянанда в восторге от его крокодила (ур. C). = @nityananda F369, F389."
+   },
+   {
+    "type": "son",
+    "who": "@mohana-dasa-sonatala",
+    "note": "Старший; родился в Сонатале, оставлен в доме дяди по матери (Сонатала или Бхадути-Матхурапур), получил всё имущество; служил Калачанду с братом."
+   },
+   {
+    "type": "son",
+    "who": "@gauranga-dasa-sonatala",
+    "note": "Младший, Вриндаван дас; родился во Вриндаване, послан к брату с долей в шесть ан; явил Божество Калачанда."
+   },
+   {
+    "type": "other",
+    "who": "@kalachand-sonatala",
+    "note": "Божество, явленное его сыном Гаурангой дасом; служат по очереди потомки (T 95 — «Божество, которому он поклонялся», ⚠3)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@radhavallabha-akai-hat",
+    "note": "Божество шрипата Акаихат; по преданию — ныне в доме махантов в Кадуи."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gopala-akai-hat",
+    "note": "Божество шрипата Акаихат; по преданию — ныне в доме махантов в Кадуи."
+   },
+   {
+    "type": "lineage-successor",
+    "who": "@vijayagovinda-gosvami",
+    "note": "Потомок, глава рода в Сонатале и Пабне (по «Анубхашье»)."
+   },
+   {
+    "type": "other",
+    "who": "@harerama-dasa-babaji",
+    "note": "Служитель шрипата Акаихат во времена «Анубхашьи»; ныне — его преемник (B 932)."
+   },
+   {
+    "type": "other",
+    "who": "@raghunandana",
+    "note": "По преданию, его нупура упала в Нупура-кунду у шрипата; T 72 — «у дома его ученика Кришнадаса» в Акаи-хате (тождество не доказано, ⚠6). = @raghunandana F47, F48, F76."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "T 95: был в её свите на пути в Катву (БР 10.409 — «Кришнадас из Акаихата», без «Кала»; ⚠6). = @jahnava F52."
+   },
+   {
+    "type": "other",
+    "who": "@krishnadasa-akaihat",
+    "note": "Кришнадас из Акаихата (БР 10.409; НВ 6.264–268, 6.319, 8.66; ПВ 19.321; ванданы ч. 2, 79; ч. 5, 65) — вероятно, то же лицо (T 95), но не доказано; ванданы славят их порознь. Теги не сливать без решения ведущего базы (⚠6)."
+   },
+   {
+    "type": "other",
+    "who": "@kala-krishnadasa",
+    "note": "Тёзка, не путать: брахман, спутник Господа на юге (ЧЧ Мадхья 7, 9, 10) — по «Анубхашье» к Мадхья 7.39 другое лицо."
+   },
+   {
+    "type": "other",
+    "who": "@hoda-krishnadasa",
+    "note": "Тёзка, не путать: ветвь Нитьянанды (ЧЧ Ади 11.47)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 11.37 (почти весь текст главы B) и к Мадхья 7.39; в 1912 г. посетил Акаи-хат (T 250)."
+   }
+  ],
   "related_by": [
    {
     "from": "@jahnava",
@@ -51451,6 +51598,10 @@
   "lilas": [],
   "events": [],
   "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "other"
+   },
    {
     "from": "@raghunandana",
     "type": "disciple"
@@ -54328,6 +54479,10 @@
    "ev-tattva-bhakti-kalpataru"
   ],
   "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "other"
+   },
    {
     "from": "@uddharana-datta",
     "type": "other"
@@ -60384,6 +60539,111 @@
    {
     "from": "@purushottama-nagara",
     "type": "spouse"
+   }
+  ]
+ },
+ {
+  "id": "@mohana-dasa-sonatala",
+  "ru": "Мохана дас (сын Кала Кришнадаса)",
+  "en": "Mohana Dasa (son of Kala Krishnadasa)",
+  "note": "старший сын @kaliya-krishnadasa, родился в Сонатале (Пабна), вырос в доме дяди по матери; служил Калачанду с братом (B 933; T 95)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "son"
+   }
+  ]
+ },
+ {
+  "id": "@gauranga-dasa-sonatala",
+  "ru": "Гауранга дас (Вриндаван дас), сын Кала Кришнадаса",
+  "en": "Gauranga Dasa (Vrindavana Dasa), son of Kala Krishnadasa",
+  "note": "младший сын @kaliya-krishnadasa, родился во Вриндаване; явил Божество @kalachand-sonatala (B 933; T 95); не путать с @vrindavana-dasa",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "son"
+   }
+  ]
+ },
+ {
+  "id": "@kalachand-sonatala",
+  "ru": "Шри Калачанд джиу — Божество потомков Кала Кришнадаса (Сонатала)",
+  "en": "Sri Kalachand Jiu, the Deity of Kala Krishnadasa's descendants (Sonatala)",
+  "note": "Божество Кришны, подобное Говиндадеве Вриндавана, явлено @gauranga-dasa-sonatala (B 933; T 95); не путать с @kalachand-deity (Вишнупур)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "other"
+   }
+  ]
+ },
+ {
+  "id": "@radhavallabha-akai-hat",
+  "ru": "Шри Радхаваллабха — Божество шрипата Акаихат",
+  "en": "Sri Radhavallabha, the Deity of the Akai Hat sripat",
+  "note": "шрипат @kaliya-krishnadasa; по преданию ныне в доме махантов в #kadui (B 932)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@gopala-akai-hat",
+  "ru": "Шри Гопала джиу — Божество шрипата Акаихат",
+  "en": "Sri Gopala Jiu, the Deity of the Akai Hat sripat",
+  "note": "шрипат @kaliya-krishnadasa; по преданию ныне в доме махантов в #kadui (B 932)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@vijayagovinda-gosvami",
+  "ru": "Виджаяговинда Госвами",
+  "en": "Vijayagovinda Gosvami",
+  "note": "потомок @kaliya-krishnadasa, глава рода в Сонатале (Пабна) («Анубхашья» к ЧЧ Ади 11.37; B 933)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "lineage-successor"
+   }
+  ]
+ },
+ {
+  "id": "@harerama-dasa-babaji",
+  "ru": "Харерама дас Бабаджи",
+  "en": "Harerama Dasa Babaji",
+  "note": "служитель шрипата @kaliya-krishnadasa в Акаихате во времена «Анубхашьи» (к ЧЧ Ади 11.37); B 932 — ныне его преемник",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@kaliya-krishnadasa",
+    "type": "other"
    }
   ]
  }

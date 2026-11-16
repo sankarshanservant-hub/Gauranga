@@ -456,7 +456,7 @@
 | @jagannatha-sena | Джаганнатха Сен | Jagannatha Sena | спутник Господа (ГГД 194–207; ванданы) |
 | @jagannatha-tirtha | Джаганнатха Тиртха | Jagannatha Tirtha | санньяси (ГГД 100) |
 | @jiva-pandita | Джива Пандит | Jiva Pandita | спутник Нитьянанды (ГГД 169: Индира); не путать с @jiva-gosvami |
-| @kaliya-krishnadasa | Калия (Кала) Кришнадас | Kaliya (Kala) Krishnadasa | спутник Нитьянанды (ГГД 132; ЧЧ Ади 11); не путать с @kala-krishnadasa |
+| @kaliya-krishnadasa | Калия (Кала) Кришнадас | Kaliya (Kala) Krishnadasa | спутник Нитьянанды (ГГД 132; ЧЧ Ади 11); не путать с @kala-krishnadasa · {карточка: в Кришна-лиле — Лаванга, друг-пастушок Кришны во Врадже, один из… (ГГД 132); происхождение — Сонатала; уход — Кешава, кришна-двадаши; самадхи — Акаи-хат (Акаихат)} |
 | @kamalakara-pippalai | Камалакара Пиппалаи | Kamalakara Pippalai | спутник Нитьянанды, один из двенадцати гопалов (ГГД 128) · {карточка: в Кришна-лиле — Махабала, пастушок Враджа (ГГД 128); гуру — Нитьянанда; происхождение — Кхалиджули; уход — Вишну, шукла-трайодаши} |
 | @kamsari-sena | Камсари Сен | Kamsari Sena | спутник Господа (ГГД 194–207) |
 | @kashinatha-mahiti | Кашинатха Махити | Kashinatha Mahiti | ория-спутник в Пури (ванданы); не путать с @kashinatha |
@@ -793,3 +793,10 @@
 | @dhruvananda-mahesh | Дхрувананда из Махеша | Dhruvananda of Mahesh | отрешённый вайшнав (вайраги), по преданию поднявший из Ганги Джаганнатху Махеша и передавший служение @kamalakara-pippalai (B 929–930; T 93); не путать с @dhruvananda-brahmachari |
 | @devakinandana-dasa | Девакинандана Дас | Devakinandana Dasa | автор бенгальской «Вайшнава-ванданы» и санскритской «Вайшнавабхидханы», ученик @purushottama-nagara («Анурага-валли» 8.44; B 926, 945; T 92; M 140); жил в Кумарахатте (Халисахаре) (B 945) |
 | @jahnava-purushottama | Джахнава (жена Пурушоттамы Даса) | Jahnava (wife of Purushottama Dasa) | жена @purushottama-nagara, мать @kanu-thakura; ушла из мира вскоре после рождения сына (B 926; T 92; M 140); не путать с @jahnava |
+| @mohana-dasa-sonatala | Мохана дас (сын Кала Кришнадаса) | Mohana Dasa (son of Kala Krishnadasa) | старший сын @kaliya-krishnadasa, родился в Сонатале (Пабна), вырос в доме дяди по матери; служил Калачанду с братом (B 933; T 95) |
+| @gauranga-dasa-sonatala | Гауранга дас (Вриндаван дас), сын Кала Кришнадаса | Gauranga Dasa (Vrindavana Dasa), son of Kala Krishnadasa | младший сын @kaliya-krishnadasa, родился во Вриндаване; явил Божество @kalachand-sonatala (B 933; T 95); не путать с @vrindavana-dasa |
+| @kalachand-sonatala | Шри Калачанд джиу — Божество потомков Кала Кришнадаса (Сонатала) | Sri Kalachand Jiu, the Deity of Kala Krishnadasa's descendants (Sonatala) | Божество Кришны, подобное Говиндадеве Вриндавана, явлено @gauranga-dasa-sonatala (B 933; T 95); не путать с @kalachand-deity (Вишнупур) |
+| @radhavallabha-akai-hat | Шри Радхаваллабха — Божество шрипата Акаихат | Sri Radhavallabha, the Deity of the Akai Hat sripat | шрипат @kaliya-krishnadasa; по преданию ныне в доме махантов в #kadui (B 932) |
+| @gopala-akai-hat | Шри Гопала джиу — Божество шрипата Акаихат | Sri Gopala Jiu, the Deity of the Akai Hat sripat | шрипат @kaliya-krishnadasa; по преданию ныне в доме махантов в #kadui (B 932) |
+| @vijayagovinda-gosvami | Виджаяговинда Госвами | Vijayagovinda Gosvami | потомок @kaliya-krishnadasa, глава рода в Сонатале (Пабна) («Анубхашья» к ЧЧ Ади 11.37; B 933) |
+| @harerama-dasa-babaji | Харерама дас Бабаджи | Harerama Dasa Babaji | служитель шрипата @kaliya-krishnadasa в Акаихате во времена «Анубхашьи» (к ЧЧ Ади 11.37); B 932 — ныне его преемник |

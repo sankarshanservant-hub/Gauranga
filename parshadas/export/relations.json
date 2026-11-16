@@ -11120,6 +11120,152 @@
   "note": "Даршан Гопаладевы в доме Виттхалешвары в Матхуре."
  },
  {
+  "from": "@kaliya-krishnadasa",
+  "type": "companion",
+  "who": "@nityananda",
+  "facts": [
+   "F3",
+   "F5",
+   "F34"
+  ],
+  "events": [
+   "ev-nityananda-preaching-gauda",
+   "ev-associates-of-nityananda-wonders",
+   "ev-tattva-bhakti-kalpataru"
+  ],
+  "note": "Один из двенадцати гопалов; «не знал ничего, кроме Нитьянанды» (ЧЧ Ади 11.37); Джаянанда — Нитьянанда в восторге от его крокодила (ур. C). = @nityananda F369, F389."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "son",
+  "who": "@mohana-dasa-sonatala",
+  "facts": [
+   "F23",
+   "F24",
+   "F26",
+   "F27"
+  ],
+  "note": "Старший; родился в Сонатале, оставлен в доме дяди по матери (Сонатала или Бхадути-Матхурапур), получил всё имущество; служил Калачанду с братом."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "son",
+  "who": "@gauranga-dasa-sonatala",
+  "facts": [
+   "F25",
+   "F26",
+   "F27"
+  ],
+  "note": "Младший, Вриндаван дас; родился во Вриндаване, послан к брату с долей в шесть ан; явил Божество Калачанда."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@kalachand-sonatala",
+  "facts": [
+   "F27",
+   "F29"
+  ],
+  "note": "Божество, явленное его сыном Гаурангой дасом; служат по очереди потомки (T 95 — «Божество, которому он поклонялся», ⚠3)."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "deity-served",
+  "who": "@radhavallabha-akai-hat",
+  "facts": [
+   "F13"
+  ],
+  "note": "Божество шрипата Акаихат; по преданию — ныне в доме махантов в Кадуи."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "deity-served",
+  "who": "@gopala-akai-hat",
+  "facts": [
+   "F13"
+  ],
+  "note": "Божество шрипата Акаихат; по преданию — ныне в доме махантов в Кадуи."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "lineage-successor",
+  "who": "@vijayagovinda-gosvami",
+  "facts": [
+   "F28"
+  ],
+  "note": "Потомок, глава рода в Сонатале и Пабне (по «Анубхашье»)."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@harerama-dasa-babaji",
+  "facts": [
+   "F11"
+  ],
+  "note": "Служитель шрипата Акаихат во времена «Анубхашьи»; ныне — его преемник (B 932)."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@raghunandana",
+  "facts": [
+   "F12",
+   "F13",
+   "F32"
+  ],
+  "note": "По преданию, его нупура упала в Нупура-кунду у шрипата; T 72 — «у дома его ученика Кришнадаса» в Акаи-хате (тождество не доказано, ⚠6). = @raghunandana F47, F48, F76."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@jahnava",
+  "facts": [
+   "F32"
+  ],
+  "events": [
+   "ev-jahnava-kheturi"
+  ],
+  "note": "T 95: был в её свите на пути в Катву (БР 10.409 — «Кришнадас из Акаихата», без «Кала»; ⚠6). = @jahnava F52."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@krishnadasa-akaihat",
+  "facts": [
+   "F32"
+  ],
+  "note": "Кришнадас из Акаихата (БР 10.409; НВ 6.264–268, 6.319, 8.66; ПВ 19.321; ванданы ч. 2, 79; ч. 5, 65) — вероятно, то же лицо (T 95), но не доказано; ванданы славят их порознь. Теги не сливать без решения ведущего базы (⚠6)."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@kala-krishnadasa",
+  "facts": [
+   "F6"
+  ],
+  "note": "Тёзка, не путать: брахман, спутник Господа на юге (ЧЧ Мадхья 7, 9, 10) — по «Анубхашье» к Мадхья 7.39 другое лицо."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@hoda-krishnadasa",
+  "facts": [],
+  "note": "Тёзка, не путать: ветвь Нитьянанды (ЧЧ Ади 11.47)."
+ },
+ {
+  "from": "@kaliya-krishnadasa",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F2",
+   "F6",
+   "F11",
+   "F16",
+   "F17"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 11.37 (почти весь текст главы B) и к Мадхья 7.39; в 1912 г. посетил Акаи-хат (T 250)."
+ },
+ {
   "from": "@kamalakara-pippalai",
   "type": "guru",
   "who": "@nityananda",
