@@ -1823,7 +1823,7 @@ of Radha; His body is sat-chit-ananda, and His departure is a disappearance by H
 **8.73.** a pandit in the six darsanas, versed in Nyaya and Vedanta.[^08-darshana-73]  
 **8.74.** Maharaja Kapileshvara threatened [him] with many quarrels (?).[^08-kapilendra-74]  
 **8.75.** Out of fear of the king he fled, went to Shrihatta and settled there.[^08-shrihatta-75]  
-**8.76.** His son was Jagannatha, and from him Prabhu was born.  
+**8.76.** His son was Jagannatha, and from him Prabhu appeared (lit. "was born").  
 **8.77.** When they came to Jajpur, in joy, in the circle of kirtana,  
 **8.78.** [His kinsmen], learning who Prabhu was, bow down to His feet.[^08-paricaya-78]  
 **8.79.** Plastering doors and houses with cow-dung, they set out lamps and full pitchers.[^08-gomaya-79]  
@@ -2128,7 +2128,7 @@ of Radha; His body is sat-chit-ananda, and His departure is a disappearance by H
 **9.133.** "He has merged into Jagannatha's body — as lightning hides in a cloud."[^09-vijuli-133]  
 **9.134.** They look (?) into one another's faces; at the talk of Prabhu [all] were beside themselves.[^09-heranti-134]  
 **9.135.** All grew sorrowful at heart, remembering Prabhu's qualities:  
-**9.136.** "Prabhu is Bhagavan Himself; He was born in order to dance (?).[^09-bhagavan-136]  
+**9.136.** "Prabhu is Bhagavan Himself; He appeared (lit. "was born") in order to dance (?).[^09-bhagavan-136]  
 **9.137.** And now, alas, He has merged into the holy body!" Hearing [this], all were overwhelmed with feeling.[^09-shrianga-137]  
 **9.138.** Achyuta, Kanhai, Yashovanta and Ananta came to know [of it].[^09-panchasakha-138]  
 **9.139.** Hearing it, all were grieved; embracing Swami, they weep.  
