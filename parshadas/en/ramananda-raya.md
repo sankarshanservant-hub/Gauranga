@@ -334,7 +334,8 @@ Srila Bhaktisiddhanta Sarasvati stand beside them. <!-- F53 F148 I2 -->
 
 ## Pradyumna Mishra and the Devadasis
 To reveal Ramananda’s greatness to the world, the Lord performed a special pastime. One day the brahmana Pradyumna
-Mishra from Shrihatta came to Him and asked Him to speak about Krishna. The Lord replied that He Himself heard about
+Mishra — according to Srila Bhaktisiddhanta a native of Utkala (Orissa; one of the biographies calls him a resident of
+Shrihatta) — came to Him and asked Him to speak about Krishna. The Lord replied that He Himself heard about
 Krishna from Ramananda and that only Ramananda knew such talks: let the Mishra go to him. The “Chaitanya-bhagavata”
 names Pradyumna Mishra, Paramananda Mahapatra and Ramananda among the natives of Orissa who came to the Lord: Pradyumna
 is “the embodiment of divine love”, while Paramananda and Ramananda are “two very great saints” (CB, Antya 3.184).
@@ -355,9 +356,12 @@ the objects of his service, and himself as Radha’s maidservant, and served the
 attraction: he himself bathed, dressed and adorned them, and did not only teach them songs and dance. <!-- F57 F125 F126 F58 Q10 -->
 
 Hearing of the guest, Ramananda, having finished the lesson, came out to the reception room, honoured the Mishra and
-asked forgiveness for the delay. But the Mishra, having waited long and heard much from the servant about his host’s
-conduct, had lost faith in him at heart; seeing the late hour, he scarcely spoke and went home. When the Lord asked
-him what he had heard, the Mishra told Him what he had seen and heard. In reply the Lord glorified Ramananda:
+asked forgiveness for the delay. The Mishra replied that he had
+come only to see him and that his heart was now purified; the hour was late, and, saying nothing more, he went home.
+The next day the Lord asked him whether he had been able to hear about Krishna from Ramananda, and the Mishra told Him
+what Ramananda Raya had been doing (CC, Antya 5.31–34). One of the biographies writes that the Mishra, having waited
+long and heard much from the servant, began to doubt Ramananda at heart; but the “Charitamrita” says nothing of doubts.
+In reply the Lord glorified Ramananda:
 
 “Yet the mind of Raya Ramananda remains unmoved as he teaches them to express the stirrings of many different *bhavas*. His body and mind are unmoved, like wood or stone. How wonderful — at the touch of a young woman his mind is unmoved! Ramananda alone has this qualification; from it I know that his body is transcendental.” (CC, Antya 5.40–42)
 
