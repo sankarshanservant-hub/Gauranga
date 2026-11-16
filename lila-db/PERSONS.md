@@ -321,6 +321,7 @@
 | @bhagavata-dasa-gadadhara | Бхагавата Дас (ученик Гададхары) | Bhagavata Dasa (Gadadhara's disciple) | ветвь Гададхары Пандита, ушёл во Вриндаван (ЧЧ Ади 12.81); соученик Бхугарбхи |
 | @uddhava-dasa-gadadhara | Уддхава Дас (ветвь Гададхары) | Uddhava Dasa (of Gadadhara's branch) | ЧЧ Ади 12.83 (в ВЧД 12.84); по ГГД 112 — авеша-аватара Луны (T 97 даёт номер «ГГД 192» по другому изданию; в нашем ГГД 192 — о жёнах жрецов); T 97 отождествляет его с @uddhava-dasa-vraja (не доказано); не путать с @uddhava (Враджа) и поэтом Уддхавой Дасом (@uddhava-dasa-padakarta) |
 | @gangamata-gosvamini | Ганга-мата Госвамини | Gangamata Gosvamini | царевна Шачи из Путии, ученица Харидаса Пандита (преемство Гададхары Пандита); Ганга-мата-матх в Пури |
+| @jagannatha-chakravarti-narahari-father | Джаганнатха Чакраварти (отец Нарахари) | Jagannatha Chakravarti (Narahari's father) | брахман, ученик @vishvanatha-chakravarti, отец @narahari-chakravarti (БР, «Содержание книги» 48, только изд. 1960); не путать с @jagannatha-mishra |
 | **Небожители и мудрецы** ||||
 | @narada | Нарада | Narada | |
 | @shiva | Шива | Shiva | Шамбху, Махадева |

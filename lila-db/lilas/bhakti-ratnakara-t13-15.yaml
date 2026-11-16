@@ -1118,3 +1118,37 @@
   themes: [author]
   verses:
     - {file: "bhakti-ratnakara/ru/15.md", from: "135", to: "137"}
+
+- id: brt-8061
+  source: bhakti-ratnakara
+  ref: "Приложение «Содержание книги» (গ্রন্থানুবাদ), 1–34"
+  file: "bhakti-ratnakara/ru/16.md"
+  period: P15
+  order: 115.13
+  title: "Стихотворное содержание пятнадцати таранг"
+  summary: "Нарахари в немногих словах перечисляет, о чём каждая из пятнадцати таранг: от мангалачараны, предков Дживы и рождения Шринивасы до обхода Враджа и Навадвипы, праздников в Кхетури и Боракули, браков Шринивасы и Вирачандры, игр Шьямананды в Уткале; призывает непрестанно вкушать книгу и просит вайшнавов исправить его ошибки."
+  persons: ["@narahari-chakravarti", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@jahnava", "@virabhadra"]
+  places: []
+  kind: author
+  authority: B
+  notes: "Раздел есть только в изд. 1960 г.; сведения совпадают с принятой традицией."
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/16.md", from: "1", to: "34"}
+
+- id: brt-8062
+  source: bhakti-ratnakara
+  ref: "Приложение «Содержание книги» (গ্রন্থানুবাদ), 35–52 и колофон"
+  file: "bhakti-ratnakara/ru/16.md"
+  period: P15
+  order: 115.14
+  title: "Песня-молитва спутникам Махапрабху; Нарахари о себе: отец Джаганнатха — ученик Вишванатхи Чакраварти"
+  summary: "В песне (рага Камода) Нарахари молит о погружении в игры Гауранги с Лакшми и Вишнуприей, Нитай с Васудхой и Джахнавой, Адвайты с Ситой и нанизывает имена спутников Господа и Госвами как ожерелье; затем стыдливо говорит о себе: прежде жил на берегу Ганги, его отец — брахман Джаганнатха, ученик прославленного Вишванатхи Чакраварти; у него два имени — Нарахари Дас и Гханашьяма Дас; оставил дом, но считает себя погрязшим в мирском и просит милости вайшнавов, чтобы всегда быть погружённым в «Бхакти-ратнакару»; колофон всей книги."
+  persons: ["@narahari-chakravarti", "@jagannatha-chakravarti-narahari-father", "@vishvanatha-chakravarti", "@mahaprabhu", "@nityananda", "@advaita", "@lakshmipriya", "@vishnupriya", "@vasudha", "@jahnava", "@sita-thakurani", "@shachi", "@jagannatha-mishra", "@padmavati", "@hadai-pandita", "@rupa-gosvami", "@sanatana-gosvami", "@jiva-gosvami", "@lokanatha"]
+  places: []
+  kind: author
+  authority: B
+  notes: "Раздел есть только в изд. 1960 г.; сведения совпадают с принятой традицией."
+  themes: [author]
+  verses:
+    - {file: "bhakti-ratnakara/ru/16.md", from: "35", to: "52"}
