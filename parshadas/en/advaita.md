@@ -1234,9 +1234,8 @@ Chaitanya. <!-- I14 I13 -->
     now of the other, and differ in the order of the journey: according to one, after the South the Lord passed through
     Kulia, then Ramakeli, and only then returned to Shantipura; according to another, He stayed a few days with Advaita
     and went to Ramakeli, and from Advaita, as the “Chaitanya-bhagavata” says, to Srivasa in Kumarahatta; according to a
-    third, the Lord stopped at Advaita's on the way back from Kanai-natashala, and Balabhadra and Damodara are named as
-    being with Him — but, according to the “Charitamrita” (Madhya 17), Balabhadra Bhattacharya accompanied the Lord
-    later, on the way from Puri to Vrindavana. And according to the “Chaitanya-mangala” (Shesha-khanda, part 6, vv.
+    third, the Lord stopped at Advaita's on the way back from Kanai-natashala, and He returned to Nilachala with Balabhadra
+    and Damodara — as also in the “Charitamrita” (Madhya 1.232–236). And according to the “Chaitanya-mangala” (Shesha-khanda, part 6, vv.
     57–58), the Lord, returning from Vrindavana, came to Shantipura, to Advaita's house, spent a day and a night there in
     the joy of kirtan and next morning left for Nilachala; according to the “Charitamrita,” He returned from Vrindavana
     by way of Prayaga and Kashi, and visited Kulia and Shantipura on the way to Vrindavana.
