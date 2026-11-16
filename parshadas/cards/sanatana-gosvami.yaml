@@ -52,7 +52,7 @@ relations:
   - {type: servant, who: "@ishana-sanatana-servant", facts: [F90, F94, F98]}
   - {type: host, who: "@chandrashekhara-vaidya", facts: [F103, F104, F110, F253]}
   - {type: host, who: "@tapana-mishra", facts: [F108, F109, F110, F112, F253]}
-  - {type: met, who: "@maharashtra-vipra-kashi", facts: [F113, F253]}
+  - {type: met, who: "@kashi-vipra-host", facts: [F113, F253]}
   - {type: other, who: "@prakashananda-sarasvati", facts: [F244]}
   - {type: companion, who: "@subuddhi-raya", facts: [F248, F247], event: ev-sanatana-mathura-vraja-places}
   - {type: companion, who: "@balabhadra-bhattacharya", facts: [F307]}

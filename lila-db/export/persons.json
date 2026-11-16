@@ -23149,7 +23149,7 @@
    },
    {
     "type": "met",
-    "who": "@maharashtra-vipra-kashi"
+    "who": "@kashi-vipra-host"
    },
    {
     "type": "other",
@@ -50965,12 +50965,7 @@
    {
     "type": "other",
     "who": "@kashi-vipra-host",
-    "note": "Пригласил всех санньяси и Господа в свой дом (ЧЧ Ади 7.52–58); то же лицо, что @maharashtra-vipra-kashi (Мадхья 25.14–16; B 1046) — в lila-db два тега (⚠13)."
-   },
-   {
-    "type": "other",
-    "who": "@maharashtra-vipra-kashi",
-    "note": "Рассказал ему о величии Господа и услышал насмешки (ЧЧ Мадхья 17.105–121); позже передал Господу его речь в пользу бхакти (Мадхья 25.58–60) и рассказал собранию о 61 толковании «атмарамы» (25.153). = @kashi-vipra-host (⚠13)."
+    "note": "Брахман из Махараштры: рассказал ему о величии Господа и услышал насмешки (ЧЧ Мадхья 17.105–121); пригласил всех санньяси и Господа в свой дом (Ади 7.52–58 = Мадхья 25.7–16; B 1046); передал Господу его речь в пользу бхакти (Мадхья 25.58–60) и рассказал собранию о 61 толковании «атмарамы» (25.153). Бывший тег maharashtra-vipra-kashi слит сюда 2026-11-16 (⚠13)."
    },
    {
     "type": "other",
@@ -51045,11 +51040,12 @@
  },
  {
   "id": "@kashi-vipra-host",
-  "ru": "брахман в Каши, пригласивший Господа к санньяси",
-  "en": "the brahmana of Kashi who invited the Lord to meet the sannyasis",
-  "note": "ЧЧ Ади 7.52–58 (в Мадхья 17, 25 — брахман из Махараштры)",
+  "ru": "брахман из Махараштры в Каши, пригласивший Господа к санньяси",
+  "en": "the Maharashtrian brahmana of Kashi who invited the Lord to meet the sannyasis",
+  "note": "ежедневно приходил к Господу; передал Ему насмешки Пракашананды (ЧЧ Мадхья 17.101–146); пригласил Господа и всех санньяси к себе (Ади 7.52–58 = Мадхья 25.7–16); позже — Мадхья 25.58–60, 153, 172, 210; тег @maharashtra-vipra-kashi слит сюда 2026-11-16 (одно лицо: Мадхья 25.14–16; `parshadas/facts/prakashananda-sarasvati.md` ⚠13)",
   "section": "Аллегорические лица",
   "lilas": [
+   "cc-2119",
    "cc-3041",
    "cc-3048",
    "cc-3116",
@@ -51060,6 +51056,7 @@
    "cc-3127"
   ],
   "events": [
+   "ev-prakashananda-mocks-lord-kashi",
    "ev-kashi-tapana-mishra",
    "ev-sanatana-bhota-kantha",
    "ev-varanasi-sannyasis",
@@ -51070,6 +51067,10 @@
    {
     "from": "@prakashananda-sarasvati",
     "type": "other"
+   },
+   {
+    "from": "@sanatana-gosvami",
+    "type": "met"
    }
   ]
  },
@@ -53311,29 +53312,6 @@
   ],
   "events": [
    "ev-ranga-puri-pandharpur"
-  ]
- },
- {
-  "id": "@maharashtra-vipra-kashi",
-  "ru": "брахман из Махараштры в Каши",
-  "en": "the Maharashtrian brahmana of Kashi",
-  "note": "ежедневно приходил к Господу; передал Ему насмешки Пракашананды (ЧЧ Мадхья 17.101–146); позже — Мадхья 25",
-  "section": "Аллегорические лица",
-  "lilas": [
-   "cc-2119"
-  ],
-  "events": [
-   "ev-prakashananda-mocks-lord-kashi"
-  ],
-  "related_by": [
-   {
-    "from": "@prakashananda-sarasvati",
-    "type": "other"
-   },
-   {
-    "from": "@sanatana-gosvami",
-    "type": "met"
-   }
   ]
  },
  {

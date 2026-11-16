@@ -537,7 +537,7 @@
 | @gunarnava-mishra | Гунарнава Мишра | Gunarnava Mishra | брахман, служивший Божеству в доме Кришнадаса Кавираджи; не встал навстречу Минакетане Рамадасу (ЧЧ Ади 5.168–171) |
 | @kaviraja-brother | брат Кришнадаса Кавираджи | Krishnadasa Kaviraja's brother | веривший в Чайтанью, но не в Нитьянанду; упрекнут автором (ЧЧ Ади 5.172–178) |
 | @prakashananda-sarasvati | Пракашананда Сарасвати | Prakashananda Sarasvati | глава санньяси-майявади в Каши, обращённый Господом (ЧЧ Ади 7, Мадхья 25); Бхактисиддханта («Анубхашья», Ади 7) отвергает отождествление с @prabodhananda-sarasvati |
-| @kashi-vipra-host | брахман в Каши, пригласивший Господа к санньяси | the brahmana of Kashi who invited the Lord to meet the sannyasis | ЧЧ Ади 7.52–58 (в Мадхья 17, 25 — брахман из Махараштры) |
+| @kashi-vipra-host | брахман из Махараштры в Каши, пригласивший Господа к санньяси | the Maharashtrian brahmana of Kashi who invited the Lord to meet the sannyasis | ежедневно приходил к Господу; передал Ему насмешки Пракашананды (ЧЧ Мадхья 17.101–146); пригласил Господа и всех санньяси к себе (Ади 7.52–58 = Мадхья 25.7–16); позже — Мадхья 25.58–60, 153, 172, 210; тег @maharashtra-vipra-kashi слит сюда 2026-11-16 (одно лицо: Мадхья 25.14–16; `parshadas/facts/prakashananda-sarasvati.md` ⚠13) |
 | @govinda-gosani | Говинда Госани (ученик Кашишвары) | Govinda Gosani (disciple of Kashishvara) | дорогой слуга Говинды во Вриндаване (ЧЧ Ади 8.66); не путать с @govinda-servant |
 | @yadavacharya-gosani | Ядавачарья Госани | Yadavacharya Gosani | спутник Рупы Госвами во Вриндаване (ЧЧ Ади 8.67) |
 | @chaitanya-dasa-pujari | Чайтанья Дас, пуджари Говинды | Chaitanya Dasa, the priest of Govinda | ученик Бхугарбхи (ЧЧ Ади 8.69); не путать с @chaitanya-dasa |
@@ -640,7 +640,6 @@
 | @agni | Агни (бог огня) | Agni (the fire-god) | ЧЧ Мадхья 9.203–212 |
 | @ravana | Равана | Ravana | ракшас, похитивший иллюзорную Ситу (ЧЧ Мадхья 9) |
 | @vitthala-deity | Виттхала (Виттхала-тхакур) — Божество в Пандарпуре | Vitthala (Vitthala-thakura), the Deity of Pandharpur | ЧЧ Мадхья 9.282 |
-| @maharashtra-vipra-kashi | брахман из Махараштры в Каши | the Maharashtrian brahmana of Kashi | ежедневно приходил к Господу; передал Ему насмешки Пракашананды (ЧЧ Мадхья 17.101–146); позже — Мадхья 25 |
 | @shukadeva | Шукадева Госвами | Shukadeva Gosvami | сын Вьясы, рассказчик «Бхагаваты» |
 | @mrigari | Мригари (охотник) | Mrigari (the hunter) | охотник, ставший вайшнавом по милости Нарады (Сканда-пурана; ЧЧ Мадхья 24.223–276) |
 | @parvata-muni | Парвата Муни | Parvata Muni | спутник Нарады (ЧЧ Мадхья 24.262–272) |

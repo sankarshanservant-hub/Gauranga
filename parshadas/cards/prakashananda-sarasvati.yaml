@@ -39,10 +39,8 @@ relations:
   - {type: met, who: "@mahaprabhu", facts: [F22, F23, F24, F25, F26, F27, F28, F29, F30, F31, F32, F33, F40, F41, F42, F43, F44, F45, F46, F47, F48, F49, F50, F52, I1, I2, I4, I5],
      events: [ev-varanasi-sannyasis],
      note: "Обращён милостью Господа: в доме брахмана (ЧЧ Ади 7.58–153 — сияние, беседа о Веданте, просьба о прощении, имя Кришны) и у Бинду-Мадхавы (Мадхья 25.65–152 — Господь склоняется к его стопам, он обнимает стопы Господа, называет Его Сваям Бхагаваном и слушает суть «Веданта-сутры»: «Бхагаватам» — её комментарий; ⚠5, ⚠Б5). Иначе — «Гаура-кришнодая» 16.28–39 (⚠9)."}
-  - {type: other, who: "@kashi-vipra-host", facts: [F21, F22], events: [ev-varanasi-sannyasis],
-     note: "Пригласил всех санньяси и Господа в свой дом (ЧЧ Ади 7.52–58); то же лицо, что @maharashtra-vipra-kashi (Мадхья 25.14–16; B 1046) — в lila-db два тега (⚠13)."}
-  - {type: other, who: "@maharashtra-vipra-kashi", facts: [F16, F17, F18, F40, F47], events: [ev-prakashananda-mocks-lord-kashi, ev-varanasi-sannyasis],
-     note: "Рассказал ему о величии Господа и услышал насмешки (ЧЧ Мадхья 17.105–121); позже передал Господу его речь в пользу бхакти (Мадхья 25.58–60) и рассказал собранию о 61 толковании «атмарамы» (25.153). = @kashi-vipra-host (⚠13)."}
+  - {type: other, who: "@kashi-vipra-host", facts: [F16, F17, F18, F21, F22, F40, F47, F60], events: [ev-prakashananda-mocks-lord-kashi, ev-varanasi-sannyasis],
+     note: "Брахман из Махараштры: рассказал ему о величии Господа и услышал насмешки (ЧЧ Мадхья 17.105–121); пригласил всех санньяси и Господа в свой дом (Ади 7.52–58 = Мадхья 25.7–16; B 1046); передал Господу его речь в пользу бхакти (Мадхья 25.58–60) и рассказал собранию о 61 толковании «атмарамы» (25.153). Бывший тег maharashtra-vipra-kashi слит сюда 2026-11-16 (⚠13)."}
   - {type: other, who: "@chandrashekhara-vaidya", facts: [F20, F34, F41], events: [ev-kashi-tapana-mishra, ev-varanasi-sannyasis],
      note: "Не мог терпеть хулы санньяси на Господа (ЧЧ Ади 7.49–51; Мадхья 25.12); ликовал при их обращении (Ади 7.153); пел у Бинду-Мадхавы (Мадхья 25.62)."}
   - {type: other, who: "@tapana-mishra", facts: [F20, F34, F41], events: [ev-kashi-tapana-mishra, ev-varanasi-sannyasis],
