@@ -11146,5 +11146,23 @@
   "section": "",
   "lilas": [],
   "events": []
+ },
+ {
+  "id": "#uddharanapura",
+  "ru": "Уддхаранпур",
+  "en": "Uddharanpur",
+  "note": "близ Наихати к северу от Катвы; здесь жил @uddharana-datta, служа диваном раджи; по B — его самадхи к западу от здешнего храма (B 923; T 91)",
+  "section": "",
+  "lilas": [],
+  "events": []
+ },
+ {
+  "id": "#naihati-katwa",
+  "ru": "Наихати (близ Катвы)",
+  "en": "Naihati (near Katwa)",
+  "note": "в 1½ милях к северу от Катвы, близ ст. Даихат; раджа, у которого диваном служил @uddharana-datta (B 923; T 91); не путать с #naihati (Навахатта)",
+  "section": "",
+  "lilas": [],
+  "events": []
  }
 ]
