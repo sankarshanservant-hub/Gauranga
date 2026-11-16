@@ -165,7 +165,7 @@ B — вероятно, больше сотни).
 | @pradyumna-mishra (065) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @jayadeva (066) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @ishana-navadvipa (067, Ишана Тхакур) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @vamshivadana (068) | ✓ | ✓ (PDF) | — |
+| @vamshivadana (068) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @abhirama (069) | ✓ | ✓ (PDF) | — |
 | @parameshvara-dasa (070) | ✓ | ✓ (PDF) | — |
 | @uddharana-datta (071) | в работе | — | — |
