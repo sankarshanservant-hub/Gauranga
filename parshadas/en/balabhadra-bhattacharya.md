@@ -253,3 +253,137 @@ and others” (“Gaura-krishnodaya” 14.59). The Lord's will is fulfilled thro
 Next morning, after His bath, the Lord was overcome with love at the thought that He was leaving Vrindavana, though
 outwardly He did not show it. Understanding His state, Balabhadra proposed going to Mahavana, that is, Gokula, and they
 crossed the Yamuna by boat (CC, Madhya 18.155–157). <!-- F37 -->
+
+## The Pathans
+On the way the Lord stopped to rest beneath a tree. Cows were grazing nearby; a cowherd boy began to play his flute, and
+at that sound the Lord fell unconscious, foam on His lips. Just then ten Pathan horsemen rode up. Thinking that the four
+companions had drugged the monk and robbed Him, they seized them and meant to put them to death.
+
+“Then the Pathans bound the four men and wanted to cut them down. The Bengalis all began to tremble. Krsnadasa was a
+Rajput and utterly fearless. That brahmana too was fearless, and very bold of speech.” (CC, Madhya 18.166–167)
+
+The Bengalis were Balabhadra and his servant; and the soldiers said as much: “You two are men of the west, from Mathura,
+and these two Bengali cheats are trembling” (CC, Madhya 18.172). The men of that country, the Sanodiya brahmana and
+Krishnadasa the Rajput, answered the Pathans boldly, while for a Bengali brahmana in a foreign land fear was natural —
+and all the brighter is what followed. The Lord came to Himself with a thunderous cry of “Hari! Hari!”, rose and danced,
+and that sound pierced the soldiers' hearts like the point of a spear; they let the captives go. <!-- F38 -->
+
+“The Bhattacarya came, took hold of the Lord and seated Him. Seeing the mlecchas, Mahaprabhu returned to outward
+consciousness.” (CC, Madhya 18.180)
+
+The soldiers began telling the Lord that these four were robbers, but He replied:
+
+“They are not cheats; they are My companions. I am a mendicant sannyasi and have no wealth at all. Because of the falling
+sickness I sometimes lose consciousness, and these four kindly look after Me.” (CC, Madhya 18.183–184)
+
+So the Lord spoke of Himself before strangers, concealing His prema: His unconsciousness is no illness but the highest
+state of divine love, which He did not disclose to those who could not understand it. <!-- F39 -->
+
+Later, when the Lord wished to send the Sanodiya brahmana and Krishnadasa home, they asked to go with Him as far as
+Prayaga: “This is a land of mlecchas, and someone somewhere may make trouble. The Bhattacarya is a scholar; he does not
+know how to talk to them” (CC, Madhya 18.217).[^8] The Lord smiled, and they went on with Him. <!-- F40 F6 -->
+
+## Prayaga, Adaila, Kashi
+The Lord reached Prayaga during the ten days of bathing at the Triveni, when the sun enters Makara. Here Sri Rupa and his
+younger brother Vallabha (Anupama) came to Him. When a brahmana invited the Lord to a meal,
+
+“The Bhattacarya invited the two brothers as well, and they received the plate with the remnants of the Lord's
+prasada.” (CC, Madhya 19.59)[^9] <!-- F41 -->
+
+Then Vallabha Bhatta took the Lord by boat across the Yamuna to Adaila; in the boat were Rupa, Anupama, Balabhadra and
+Krishnadasa the Rajput. In his house Vallabha worshipped the Lord,
+
+“…and with due respect he had Balabhadra Bhattacarya do the cooking.” (CC, Madhya 19.87)
+
+And afterwards “the Bhattacarya had the Lord's remnants given to Sri Rupa, and Krsnadasa then received what remained of
+that prasada” (CC, Madhya 19.89). Govinda-deva writes that the Lord, having shown mercy to Rupa and Vallabha, introduced
+them “to the Bhatta and other devotees” (“Gaura-krishnodaya” 14.70) — apparently to Balabhadra. <!-- F42 -->
+
+On the way back, in Kashi, Balabhadra remained with the Lord all the while as His companion; Chandrashekhara, in whose
+house the Lord stayed, invited the Bhattacharya too to a meal (CC, Madhya 19.248). <!-- F43 -->
+
+## Back to Nilachala
+From Kashi the Lord returned to Puri the same way — through the forests of Jharikhanda:
+
+“Happily the Lord journeyed on with Balabhadra and, as before, sported in many ways with the deer and other creatures.
+Coming to Atharanala, He sent the brahmana Bhattacarya ahead to call His devotees.” (CC, Madhya 25.216–217)
+<!-- F44 F45 -->
+
+So, at the Lord's word, Balabhadra was the first to bring Nilachala the news of His return. In Puri he became the witness
+whom others asked about the journey. Haridasa Thakura, glorifying the power of loud sankirtana, said to the Lord:
+
+“Balabhadra Bhattacarya has told me how You did this in Jharikhanda on Your way to Vrndavana.” (CC, Antya 3.72)
+
+This was the news that by the Lord's sankirtana the trees, beasts and birds of the Jharikhanda forests had attained
+liberation. Through the Lord and His companions, by the chain of hearing and chanting, everyone on His path became a
+Vaishnava, even those farthest from Krishna — and Balabhadra's accounts of Jharikhanda remained a testimony to that
+power. <!-- F46 Q6 I4 -->
+
+And when the next year, after the Dola-yatra, Sanatana Gosvami prepared to go to Vrindavana by the forest road the Lord
+had taken,
+
+“From Balabhadra Bhatta he wrote down everything: by which path, past which villages, rivers and hills the Lord went,
+and which pastime took place where.” (CC, Antya 4.210)
+
+So even then Balabhadra was living in Puri with the Lord. The sources say nothing more of him. <!-- F47 Q7 -->
+
+## In Other Original Sources
+Murari Gupta, describing the Lord's journey to Vrindavana, says: “The Lord ran on, full of longing, like a maddened lion,
+and His companions, Baladeva and the others, devotedly ran after Him” (Murari Gupta's “Karcha,” 4.1.11); Baladeva here is
+our Balabhadra. Govinda-deva writes that the Lord left Mathura with five companions — three followers from Gauda and two
+devotees from Mathura (“Gaura-krishnodaya” 14.57); the “Charitamrita” names two from Gauda — Balabhadra and his servant.
+<!-- F49 -->
+
+One of the biographies says that Lochana Dasa too, in the “Chaitanya-mangala,” tells how the Lord wandered with Balabhadra
+Bhattacharya along the banks of the Yamuna and through the twelve forests of Vrindavana.[^10] <!-- F48 -->
+
+## Significance
+Balabhadra Bhattacharya's life, as the sources know it, is above all a long road at the Lord's side. Yet that road holds
+what Krishnadasa Kaviraja expressed in a single verse: a true devotee who served the Lord as His brahmachari. Svarupa and
+Ramananda chose him for his love; the Lord, who had wished to go alone, took him along for the devotees' happiness — and
+told him, “By your kindness I have found so much happiness,” and later, “I shall never be able to repay this debt.”
+<!-- F3 F36 I1 -->
+
+Balabhadra, for his part, saw in his Lord Krishna Himself, and in himself a lowly crow whom mercy had made equal to
+Garuda. His service was simple: to gather greens in the forest, to cook, to carry a store of grain, to draw the Lord out
+of the Yamuna, to take Him, scratched by thorns, on his lap, to lead Him away from danger. But with such simple service the
+eternal Madhurekshana, Radha's friend, served Gaura — and the Lord accepted it with gratitude. <!-- F2 F22 I3 -->
+
+And he remained the keeper of that journey's pastimes. From him Haridasa Thakura learned how the forests of Jharikhanda
+sang Krishna's name, and Sanatana Gosvami wrote down through which villages, by which rivers and hills the Lord had
+gone — so as to walk the same road. Thus his memory preserved Mahaprabhu's path for the Vaishnavas. <!-- F46 F47 I2 I4 -->
+
+[^1]: One of the biographies once calls him Baladeva Bhattacharya; Murari Gupta, too, calls him Baladeva (“Karcha,”
+    4.1.11). This is he, and not Balarama or Nityananda, who are also called Balabhadra and Baladeva. Nor should he be
+    confused with his namesakes — Balabhadra Acharya of Gopala Bhatta's circle, Balabhadra the disciple of Shyamananda,
+    and others.
+[^2]: There is no contradiction: the brahmana servant attended Balabhadra and was not the Lord's companion; so in the
+    “Charitamrita” Svarupa speaks of him as Balabhadra's servant (Madhya 17.17). Govinda-deva counts three followers from
+    Gauda when the Lord left Mathura (“Gaura-krishnodaya” 14.57); we follow the “Charitamrita.”
+[^3]: One of the biographies says “five or seven people”; the “Charitamrita” says “five or seven brahmanas” (Madhya
+    17.58).
+[^4]: One of the biographies, in its chapter on Balabhadra, writes that at the Sanodiya brahmana's house the Lord had
+    Balabhadra cook. This differs from the “Charitamrita” (Madhya 17.176–181), where the Lord told the brahmana himself
+    to cook — and from the same biography's chapter on the Sanodiya brahmana. We follow the “Charitamrita.”
+[^5]: One of the biographies adds that Balabhadra begged forgiveness at the Lord's feet; the “Charitamrita” (Madhya
+    18.103–106) does not say this. On the other hand, that account omits the slap and the words “you can go tomorrow
+    night.”
+[^6]: The sources differ on the time of the bathing. In the “Charitamrita” the month of Magha has already begun, and the
+    days of Makara and the full moon lie ahead (Madhya 18.145–146); according to one biography, it is the bathing at the
+    end of Magha, at Makara-sankranti; according to another, it was Magha and Makara-sankranti had already passed.
+    Govinda-deva: “let us bathe at Prayaga when the sun is in Makara — there, where once the feet of Sri Guru, the lord
+    of Puris, rested for several days” (“Gaura-krishnodaya” 14.54). We follow the “Charitamrita.”
+[^7]: The biographies tell this differently. According to one, the decision to lead the Lord away was taken by three —
+    the Sanodiya brahmana, Balabhadra and Krishnadasa the Rajput — because of the excessive crowds, and the Lord agreed at
+    the devotees' wish; according to another, the Lord could not refuse the Sanodiya brahmana, the revered godbrother of
+    His guru. In Govinda-deva the Lord agreed “considering the time” (“Gaura-krishnodaya” 14.55). We follow the
+    “Charitamrita”: Balabhadra and the Sanodiya brahmana took counsel together, and the Lord agreed to fulfil His
+    devotee's wish (Madhya 18.139–154).
+[^8]: Literally the Bengali verse says: “The Bhattacharya is a pandit; he does not know how to speak [with them]”
+    (*bhattacharya — pandita, kahite na janena bat*). One of the biographies renders it just so: the learned
+    Bhattacharya does not know how to speak in such circumstances; others say “he does not know the language.”
+[^9]: The “Bhattacharya” here is Balabhadra, the Lord's companion, as Srila Bhaktisiddhanta explains in the
+    “Anubhashya”; so too in Madhya 19.89. One of the biographies says plainly that in Prayaga Balabhadra invited Rupa and
+    Vallabha and served them the remnants of the Lord's meal.
+[^10]: In our text of Lochana Dasa's “Chaitanya-mangala” Balabhadra is not named at this point: the Lord's companion in
+    Vraja there is the brahmana Krishnadasa.
