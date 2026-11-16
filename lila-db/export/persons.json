@@ -4306,6 +4306,10 @@
     "type": "lineage-successor"
    },
    {
+    "from": "@madhavi-devi",
+    "type": "companion"
+   },
+   {
     "from": "@madhvacharya",
     "type": "lineage-successor"
    },
@@ -20532,6 +20536,10 @@
     "type": "met"
    },
    {
+    "from": "@madhavi-devi",
+    "type": "other"
+   },
+   {
     "from": "@nityananda",
     "type": "other"
    },
@@ -21211,6 +21219,10 @@
     "type": "other"
    },
    {
+    "from": "@madhavi-devi",
+    "type": "other"
+   },
+   {
     "from": "@mukunda-datta",
     "type": "other"
    },
@@ -21474,6 +21486,10 @@
    },
    {
     "from": "@madhava-ghosha",
+    "type": "other"
+   },
+   {
+    "from": "@madhavi-devi",
     "type": "other"
    },
    {
@@ -36989,6 +37005,10 @@
     "type": "co-worker"
    },
    {
+    "from": "@madhavi-devi",
+    "type": "other"
+   },
+   {
     "from": "@mukunda-datta",
     "type": "other"
    },
@@ -37854,6 +37874,10 @@
    {
     "from": "@kashishvara",
     "type": "other"
+   },
+   {
+    "from": "@madhavi-devi",
+    "type": "met"
    },
    {
     "from": "@mahesha-pandita",
@@ -43991,6 +44015,10 @@
     "type": "other"
    },
    {
+    "from": "@madhavi-devi",
+    "type": "other"
+   },
+   {
     "from": "@madhvacharya",
     "type": "other"
    },
@@ -46582,6 +46610,10 @@
     "type": "other"
    },
    {
+    "from": "@madhavi-devi",
+    "type": "sibling"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "companion"
    },
@@ -46606,6 +46638,12 @@
    "ev-puri-devotees-introduced",
    "ev-shikhi-mahiti-dream",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "related_by": [
+   {
+    "from": "@madhavi-devi",
+    "type": "sibling"
+   }
   ]
  },
  {
@@ -46625,6 +46663,121 @@
    "ev-chhota-haridasa-punished",
    "ev-srinivasa-gadadhara-puri",
    "ev-tattva-bhakti-kalpataru"
+  ],
+  "summary": "в Кришна-лиле — Калакели, служанка Шри Радхи (ГГД 189); происхождение — Пури (Нилачала, Пурушоттама)",
+  "card": "parshadas/cards/madhavi-devi.yaml",
+  "article": {
+   "ru": "parshadas/ru/madhavi-devi.md",
+   "en": "parshadas/en/madhavi-devi.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "puri"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место явления источники не называют; в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) дня явления нет",
+    "facts": []
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "день, год и место ухода (сокрытия) неизвестны; жива после сокрытия Господа, если сестра Шикхи в БР 3.185 — она (F25, ⚠6); в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F25"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "драма «Шри Пурушоттама-дева» (только B 896, «говорят»)",
+    "facts": [
+     "F26"
+    ]
+   },
+   {
+    "title": "«Мадала-панджи» храма Джаганнатхи — как писательница (только B 896, «некоторые говорят»)",
+    "facts": [
+     "F27"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Калакели, служанка (даси, кинкари) Шри Радхи",
+    "source": "ГГД 189",
+    "level": "A",
+    "variants": [
+     "ЧЧ Ади 10.137 — без имени: «её числят среди служанок Шри Радхи»; ЧЧ Антья 2.105–106 — из окружения Радхики, «половина» из «трёх с половиной»."
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "sibling",
+    "who": "@shikhi-mahiti",
+    "note": "Старший брат; она и Мурари привели его к Гауре (Карнапура 13.91–108); оба — служанки Радхи, Рагалекха и Калакели (ГГД 189); оба — в «трёх с половиной» (ЧЧ Антья 2.105–106)."
+   },
+   {
+    "type": "sibling",
+    "who": "@murari-mahiti",
+    "note": "Брат (младший брат Шикхи); вместе с ней раньше старшего стал предан Гауре (Карнапура 13.90–106)."
+   },
+   {
+    "type": "uncle",
+    "who": "@bhavananda-raya",
+    "note": "Только B 896: Шикхи — сын брата Бхавананды, она — младшая сестра Шикхи (вывод; ⚠2; = @bhavananda-raya F8); Гопинатха — близ его дома в Бентпуре."
+   },
+   {
+    "type": "companion",
+    "who": "@mahaprabhu",
+    "note": "Господь причислил её к окружению Радхики — «половина» из «трёх с половиной» (ЧЧ Антья 2.105–106; ⚠Б1); её рис — для трапезы Господа у Бхагавана Ачарьи (Антья 2.103–111)."
+   },
+   {
+    "type": "deity-served",
+    "who": "@gopinatha-bentpur",
+    "note": "Только B 896: открыла служение Шри Гопинатхе в Бентпуре у Алаланатхи; Ему служат поныне (⚠3)."
+   },
+   {
+    "type": "other",
+    "who": "@bhagavan-acharya",
+    "note": "По его просьбе дала рис (один ман) для трапезы Господа (ЧЧ Антья 2.103–107); B: кормил Господа одного (⚠9)."
+   },
+   {
+    "type": "other",
+    "who": "@chhota-haridasa",
+    "note": "Пришёл к ней за рисом по поручению Бхагавана Ачарьи; урок Господа — Харидасу как отрёкшемуся, на ней вины нет («Анубхашья» к Антья 2.143; ⚠Б2); T 136 — «разговорился с ней в доме Ачарьи» (⚠5)."
+   },
+   {
+    "type": "other",
+    "who": "@svarupa-damodara",
+    "note": "Вместе — в «трёх с половиной» из группы Шримати (ЧЧ Антья 2.105–106; = @svarupa-damodara F89)."
+   },
+   {
+    "type": "other",
+    "who": "@ramananda-raya",
+    "note": "Вместе — в «трёх с половиной» (= @ramananda-raya F54)."
+   },
+   {
+    "type": "met",
+    "who": "@srinivasa-acharya",
+    "note": "БР 3.185: «Шикхи Махити с сестрой»: «лишь затем, чтобы увидеть тебя, мы ещё живы»; сестра не названа (⚠6)."
+   },
+   {
+    "type": "other",
+    "who": "@prataparudra",
+    "note": "Только B, «некоторые говорят»: назначил её писательницей «Мадала-панджи» в храме Джаганнатхи (⚠7)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 10.136–137 (семнадцатая ветвь, рассказ Карнапуры) и к Антья 2.143 (маха-бхагавата, рис у неё брать было не недозволенно)."
+   }
   ],
   "related_by": [
    {
@@ -46793,6 +46946,10 @@
   ],
   "related_by": [
    {
+    "from": "@madhavi-devi",
+    "type": "uncle"
+   },
+   {
     "from": "@ramananda-raya",
     "type": "father"
    },
@@ -46843,6 +47000,10 @@
    {
     "from": "@jahnava",
     "type": "companion"
+   },
+   {
+    "from": "@madhavi-devi",
+    "type": "other"
    },
    {
     "from": "@nandana-acharya",
@@ -57107,6 +57268,21 @@
   "related_by": [
    {
     "from": "@vasudeva-datta",
+    "type": "deity-served"
+   }
+  ]
+ },
+ {
+  "id": "@gopinatha-bentpur",
+  "ru": "Гопинатха — Божество в Бентпуре",
+  "en": "Gopinatha, the Deity of Bentpur",
+  "note": "по B 896 — служение открыла @madhavi-devi близ дома @bhavananda-raya в Бентпуре у Алаланатхи (#bentpur); служат поныне",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@madhavi-devi",
     "type": "deity-served"
    }
   ]

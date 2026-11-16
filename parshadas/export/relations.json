@@ -11209,6 +11209,169 @@
   ]
  },
  {
+  "from": "@madhavi-devi",
+  "type": "sibling",
+  "who": "@shikhi-mahiti",
+  "facts": [
+   "F3",
+   "F4",
+   "F6",
+   "F7",
+   "F10",
+   "F12",
+   "F13",
+   "F14",
+   "F16",
+   "F25"
+  ],
+  "events": [
+   "ev-shikhi-mahiti-dream",
+   "ev-srinivasa-gadadhara-puri"
+  ],
+  "note": "Старший брат; она и Мурари привели его к Гауре (Карнапура 13.91–108); оба — служанки Радхи, Рагалекха и Калакели (ГГД 189); оба — в «трёх с половиной» (ЧЧ Антья 2.105–106)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "sibling",
+  "who": "@murari-mahiti",
+  "facts": [
+   "F5",
+   "F10",
+   "F11",
+   "F12",
+   "F13",
+   "F14"
+  ],
+  "events": [
+   "ev-shikhi-mahiti-dream"
+  ],
+  "note": "Брат (младший брат Шикхи); вместе с ней раньше старшего стал предан Гауре (Карнапура 13.90–106)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "uncle",
+  "who": "@bhavananda-raya",
+  "facts": [
+   "F7",
+   "F8"
+  ],
+  "note": "Только B 896: Шикхи — сын брата Бхавананды, она — младшая сестра Шикхи (вывод; ⚠2; = @bhavananda-raya F8); Гопинатха — близ его дома в Бентпуре."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "companion",
+  "who": "@mahaprabhu",
+  "facts": [
+   "F10",
+   "F11",
+   "F14",
+   "F15",
+   "F16",
+   "F18",
+   "F19",
+   "F20",
+   "I2"
+  ],
+  "events": [
+   "ev-shikhi-mahiti-dream",
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "Господь причислил её к окружению Радхики — «половина» из «трёх с половиной» (ЧЧ Антья 2.105–106; ⚠Б1); её рис — для трапезы Господа у Бхагавана Ачарьи (Антья 2.103–111)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "deity-served",
+  "who": "@gopinatha-bentpur",
+  "facts": [
+   "F8"
+  ],
+  "note": "Только B 896: открыла служение Шри Гопинатхе в Бентпуре у Алаланатхи; Ему служат поныне (⚠3)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "other",
+  "who": "@bhagavan-acharya",
+  "facts": [
+   "F18",
+   "F19",
+   "F20"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "По его просьбе дала рис (один ман) для трапезы Господа (ЧЧ Антья 2.103–107); B: кормил Господа одного (⚠9)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "other",
+  "who": "@chhota-haridasa",
+  "facts": [
+   "F18",
+   "F19",
+   "F20",
+   "F21",
+   "F22",
+   "F23",
+   "F24",
+   "I1"
+  ],
+  "events": [
+   "ev-chhota-haridasa-punished"
+  ],
+  "note": "Пришёл к ней за рисом по поручению Бхагавана Ачарьи; урок Господа — Харидасу как отрёкшемуся, на ней вины нет («Анубхашья» к Антья 2.143; ⚠Б2); T 136 — «разговорился с ней в доме Ачарьи» (⚠5)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "other",
+  "who": "@svarupa-damodara",
+  "facts": [
+   "F16"
+  ],
+  "note": "Вместе — в «трёх с половиной» из группы Шримати (ЧЧ Антья 2.105–106; = @svarupa-damodara F89)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "other",
+  "who": "@ramananda-raya",
+  "facts": [
+   "F16"
+  ],
+  "note": "Вместе — в «трёх с половиной» (= @ramananda-raya F54)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "met",
+  "who": "@srinivasa-acharya",
+  "facts": [
+   "F25"
+  ],
+  "events": [
+   "ev-srinivasa-gadadhara-puri"
+  ],
+  "note": "БР 3.185: «Шикхи Махити с сестрой»: «лишь затем, чтобы увидеть тебя, мы ещё живы»; сестра не названа (⚠6)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "other",
+  "who": "@prataparudra",
+  "facts": [
+   "F27"
+  ],
+  "note": "Только B, «некоторые говорят»: назначил её писательницей «Мадала-панджи» в храме Джаганнатхи (⚠7)."
+ },
+ {
+  "from": "@madhavi-devi",
+  "type": "other",
+  "who": "@bhaktisiddhanta",
+  "facts": [
+   "F3",
+   "F10",
+   "F23",
+   "I1"
+  ],
+  "note": "«Анубхашья» к ЧЧ Ади 10.136–137 (семнадцатая ветвь, рассказ Карнапуры) и к Антья 2.143 (маха-бхагавата, рис у неё брать было не недозволенно)."
+ },
+ {
   "from": "@madhvacharya",
   "type": "sannyasa-guru",
   "who": "@achyutapreksha",
