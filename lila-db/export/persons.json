@@ -11286,6 +11286,10 @@
     "type": "guru"
    },
    {
+    "from": "@purushottama-nagara",
+    "type": "guru"
+   },
+   {
     "from": "@raghava-pandita",
     "type": "served-by"
    },
@@ -14168,6 +14172,10 @@
    {
     "from": "@parameshvara-dasa",
     "type": "co-worker"
+   },
+   {
+    "from": "@purushottama-nagara",
+    "type": "other"
    },
    {
     "from": "@raghava-pandita",
@@ -32421,6 +32429,10 @@
     "type": "companion"
    },
    {
+    "from": "@purushottama-nagara",
+    "type": "other"
+   },
+   {
     "from": "@raghava-pandita",
     "type": "other"
    },
@@ -35148,6 +35160,10 @@
    {
     "from": "@parameshvara-dasa",
     "type": "served-by"
+   },
+   {
+    "from": "@purushottama-nagara",
+    "type": "other"
    },
    {
     "from": "@raghunandana",
@@ -42779,6 +42795,10 @@
    {
     "from": "@nityananda",
     "type": "in-law"
+   },
+   {
+    "from": "@purushottama-nagara",
+    "type": "disciple"
    }
   ]
  },
@@ -43871,6 +43891,10 @@
    {
     "from": "@nityananda",
     "type": "protege"
+   },
+   {
+    "from": "@purushottama-nagara",
+    "type": "son"
    }
   ]
  },
@@ -44318,6 +44342,12 @@
    "ev-gaura-dance-with-devotees",
    "ev-gaura-arati-navadvipa",
    "ev-nityananda-preaching-gauda"
+  ],
+  "related_by": [
+   {
+    "from": "@purushottama-nagara",
+    "type": "other"
+   }
   ]
  },
  {
@@ -45666,6 +45696,10 @@
    },
    {
     "from": "@pundarika-vidyanidhi",
+    "type": "other"
+   },
+   {
+    "from": "@purushottama-nagara",
     "type": "other"
    },
    {
@@ -51113,7 +51147,13 @@
   "note": "спутник Господа (ГГД 194–207)",
   "section": "Аллегорические лица",
   "lilas": [],
-  "events": []
+  "events": [],
+  "related_by": [
+   {
+    "from": "@purushottama-nagara",
+    "type": "grandfather"
+   }
+  ]
  },
  {
   "id": "@kashinatha-mahiti",
@@ -51426,6 +51466,120 @@
    "ev-nityananda-preaching-gauda",
    "ev-purushottama-nagara-wonders"
   ],
+  "summary": "в Кришна-лиле — Дама, пастушок-друг Кришны во Врадже (ГГД 131); гуру — Нитьянанда; происхождение — Сукхасагар; явление — Говинда, гаура-чатурти; уход — Говинда, кришна-панчами",
+  "card": "parshadas/cards/purushottama-nagara.yaml",
+  "article": {
+   "ru": "parshadas/ru/purushottama-nagara.md",
+   "en": "parshadas/en/purushottama-nagara.md"
+  },
+  "kind": "associate",
+  "circle": [
+   "navadvipa",
+   "later"
+  ],
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "Говинда (≈ пхалгуна), гаура-чатурти",
+    "place": "",
+    "conf": "B, T, M дня, года и места явления не называют (F17); календарь Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16): «День явления Шрилы Пурушоттама Тхакура» — Говинда-маса, гаура-чатурти (21 февраля 2026 г.); какой Пурушоттама — календарь не уточняет (⚠8)",
+    "facts": [
+     "F17"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "Говинда (≈ пхалгуна), кришна-панчами",
+    "place": "",
+    "conf": "B, T, M об уходе молчат (F17); по календарю ШЧСМ (541/ru, проверено 2026-11-16) — «День ухода Шрилы Пурушоттама Тхакура», кришна-панчами месяца Говинда (6 февраля 2026 г.), в один день с явлением Шрилы Бхактисиддханты; отождествление с этим Пурушоттамой — по имени (⚠8); год и место ухода неизвестны",
+    "facts": [
+     "F17"
+    ]
+   }
+  },
+  "works": [
+   {
+    "title": "пады, приписываемые Пурушоттаме Дасу (по Маджумдару; ПК 1754–1758, 1762, 1868–1872, 1992 — кришна-лила, не проверены, авторство не установлено)",
+    "facts": [
+     "F23"
+    ]
+   }
+  ],
+  "identities": [
+   {
+    "in": "krishna-lila",
+    "as": "Дама, пастушок-друг Кришны во Врадже; один из двенадцати гопалов Нитьянанды",
+    "source": "ГГД 131",
+    "level": "A",
+    "variants": [
+     "T 92 — «Daman» (⚠1)",
+     "Отец Кану — Стокакришна (ГГД 130, «Дас Пурушоттама») — по преданию потомков Кану (B 926; «Абхидхана») и «Первой вандане» (ч. 4, ст. 36; ур. C); Бхактисиддханта («Анубхашья») и ГГД 131 — Дама (⚠2)",
+     "M — «десятый гопала» (нумерация подзаголовков, ⚠3)"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "type": "father",
+    "who": "@sadashiva-kaviraja",
+    "note": "ЧЧ Ади 11.38; ЧБ Антья 5.741; Садашива по ГГД 156 — Чандравали."
+   },
+   {
+    "type": "grandfather",
+    "who": "@kamsari-sena",
+    "note": "По ГГД — Ратнавали (194, 200 по порядку; «Анубхашья» к ЧЧ Ади 11.51); по «Анубхашье» звался и «Самбарари»; по преданию жил в Гуптипаре."
+   },
+   {
+    "type": "spouse",
+    "who": "@jahnava-purushottama",
+    "note": "Ушла из этого мира вскоре после рождения Кану (по «Абхидхане» — через 12 дней, ⚠4); не путать с @jahnava."
+   },
+   {
+    "type": "son",
+    "who": "@kanu-thakura",
+    "note": "ЧЧ Ади 11.40; Нитьянанда взял младенца (B — «двенадцатилетнего», ⚠4) в Кхардаху, назвал Шишу Кришнадасом; Джива во Вриндаване — Тхакур Канаи; шрипат Бодхкхана. Потомки Кану считают его отцом не Нагару, а Даса Пурушоттаму ГГД 130 (Стокакришну) — против ГГД 131 и «Анубхашьи» (⚠2)."
+   },
+   {
+    "type": "guru",
+    "who": "@nityananda",
+    "note": "Господин и прибежище (дикша не названа): с рождения погружён в Его стопы (ЧЧ Ади 11.39); в сердце его играет Нитьянанда (ЧБ Антья 5.742); один из двенадцати гопалов; «дорогой Нитьянанде» («Анурага-валли» 8.44). = @nityananda F350, F351, F367, F369, F404."
+   },
+   {
+    "type": "disciple",
+    "who": "@devakinandana-dasa",
+    "note": "Автор «Вайшнава-ванданы» — его мантра-ученик (B 945; T 92; M 140; «Анурага-валли» 8.44–45; вандана ч. 2, ст. 87; ч. 3, ст. 1, 31)."
+   },
+   {
+    "type": "disciple",
+    "who": "@madhava-acharya-ganga",
+    "note": "По мнению некоторых (B 926; T 92) — его ученик, по другим — Нитьянанды или Джахнавы; M и «Анубхашья» — главный ученик (M «Madhvacarya», ⚠6). = @jahnava F98, @nityananda F367."
+   },
+   {
+    "type": "other",
+    "who": "@jahnava",
+    "note": "Божества её гади в Сукхасагаре перевезены вместе с его Божествами (Бериграм, Чандуре — «пат Васу-Джахнавы»); вырастила его сына (T: усыновила; «Абхидхана» — отдан ей на колени) и взяла во Вриндаван. = @jahnava F80, F107–F109."
+   },
+   {
+    "type": "other",
+    "who": "@gadadhara-dasa",
+    "note": "Вандана Девакинанданы (ч. 2, ст. 91): Гададхара Дас и Говинда Гхош — при его явлении (строка неясна); в ч. 5, ст. 68 чудо с цветком карави приписано Гададхаре Дасу."
+   },
+   {
+    "type": "other",
+    "who": "@govinda-ghosha",
+    "note": "Там же (ч. 2, ст. 91)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 11.38–40 — источник главы B (шрипат, Божества, ученики); отвечает потомкам Кану: Нагара Пурушоттама ГГД 131 — именно сын Садашивы (⚠2)."
+   },
+   {
+    "type": "other",
+    "who": "@purushottama-pandita",
+    "note": "Тёзка, не путать: в перечнях двенадцати гопалов B стоят рядом (B 271 — 8 и 9; B 115 — 8 и 10)."
+   }
+  ],
   "related_by": [
    {
     "from": "@nityananda",
@@ -51672,6 +51826,12 @@
    "ev-nityananda-preaching-gauda",
    "ev-purushottama-nagara-wonders",
    "ev-panihati-chida-dadhi"
+  ],
+  "related_by": [
+   {
+    "from": "@purushottama-nagara",
+    "type": "father"
+   }
   ]
  },
  {
@@ -59961,6 +60121,36 @@
    {
     "from": "@kamalakara-pippalai",
     "type": "lineage-predecessor"
+   }
+  ]
+ },
+ {
+  "id": "@devakinandana-dasa",
+  "ru": "Девакинандана Дас",
+  "en": "Devakinandana Dasa",
+  "note": "автор бенгальской «Вайшнава-ванданы» и санскритской «Вайшнавабхидханы», ученик @purushottama-nagara («Анурага-валли» 8.44; B 926, 945; T 92; M 140); жил в Кумарахатте (Халисахаре) (B 945)",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@purushottama-nagara",
+    "type": "disciple"
+   }
+  ]
+ },
+ {
+  "id": "@jahnava-purushottama",
+  "ru": "Джахнава (жена Пурушоттамы Даса)",
+  "en": "Jahnava (wife of Purushottama Dasa)",
+  "note": "жена @purushottama-nagara, мать @kanu-thakura; ушла из мира вскоре после рождения сына (B 926; T 92; M 140); не путать с @jahnava",
+  "section": "Аллегорические лица",
+  "lilas": [],
+  "events": [],
+  "related_by": [
+   {
+    "from": "@purushottama-nagara",
+    "type": "spouse"
    }
   ]
  }
