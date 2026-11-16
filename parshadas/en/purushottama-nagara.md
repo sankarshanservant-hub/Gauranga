@@ -88,7 +88,7 @@ in his body.” (CB, Antya 5.742)
 The Bengali verse says that Nityananda-chandra *vihare* — “plays” — in his heart; so too we translate the “First
 Vandana,” which repeats these words: “Purushottama Dasa has no awareness of the external: Nityananda-chandra plays in his
 heart” (pt. 4, v. 35). This is neither illness nor worldly oblivion: he is wholly absorbed in prema and in the presence
-of Nityananda, who acts in him unceasingly, and for him the external simply does not exist.[^6] <!-- F20 Q1 -->
+of Nityananda, who unceasingly plays in his heart, and for him the external no longer exists.[^6] <!-- F20 Q1 -->
 
 His disciple Devakinandana glorifies his guru in his “Vaishnava-vandana”:
 
@@ -97,7 +97,7 @@ good qualities he shows mercy to by the power of his natural compassion. In his 
 for Krishna; his dancing enchants the world, his power is unfathomable.” (Devakinandana, “Vaishnava-vandana,” 87–89)
 <!-- F22 Q5 -->
 
-Devakinandana goes on to recall what no one else records. Seizing Gauridasa the kirtaniya by the hair, Purushottama
+Devakinandana goes on to tell of him also what the biographies do not record. Seizing Gauridasa the kirtaniya by the hair, Purushottama
 imparted his own power to him and made him sing the praise of Nityananda. Gadadhara Dasa and Sri Govinda Ghosha are named
 beside him — apparently as those before whom his greatness appeared and the Lord found joy. He was bathed in abhisheka
 with a hundred and eight pitchers of Ganga water; from childhood he was all-knowing. The karavi flower in his ear, before
@@ -110,7 +110,7 @@ unearthly (*alaukika*) power; so the “Gaudiya-vaishnava-abhidhana” relates. 
 sake: it is how the power of divine love, bestowed on him by Nityananda, shows itself. Many of Nityananda's companions
 displayed such power, and in this lies a trait shared by His whole circle. <!-- F21 I2 -->
 
-Majumdar also counts Purushottama Dasa, Sadashiva's son, among the composers of padas. The “Padakalpataru” has several
+The pada scholar Majumdar also counts Purushottama Dasa, Sadashiva's son, among the composers of padas. The “Padakalpataru” has several
 padas on Krishna's pastimes under this name (PK 1754–1758, 1762, 1868–1872, 1992), but he has many namesakes, and whose
 they are has not been settled; the biographies are silent about his padas. <!-- F23 -->
 
@@ -156,11 +156,11 @@ the Shilavati River in the district of Medinipur; his famous disciple was the br
 of the Kauthumi branch of the “Sama-veda.” <!-- F37 F35 F42 F43 -->
 
 ## Shripat and Deities
-Purushottama's shripat was formerly in Sukhasagara, equidistant from the stations of Chakdaha and Shimurali; according to
+Purushottama's shripat was formerly in Sukhasagara, equidistant from the stations of Chakdaha and Simurali; according to
 the tradition of Kanu's descendants, cited by Srila Bhaktisiddhanta, the village stood on the eastern bank of the Ganga.
 <!-- F24 -->
 
-The Deities installed by Purushottama formerly resided in Beledanga. When the river destroyed that village, They were
+The Deities installed by Purushottama formerly resided in Beledanga. When Beledanga was ruined, They were
 brought to Sukhasagara. When the river swallowed Sukhasagara too, They were brought, together with the Deities of the
 gadi — the seat — of Jahnava Mata, Nityananda's consort, which was in the same place, to Sahebdanga-Berigram; and when
 Berigram also was destroyed, to the village of Chandure.[^11] By the time Srila Bhaktisiddhanta wrote of this, the
@@ -169,13 +169,13 @@ Nadia, under the Chakdaha police station, a mile from Simurali station and a mil
 Old Sukhasagara is no more — the river swallowed it; the new Sukhasagara lies three or four miles from Chandure, south
 of Kaliganj. <!-- F25 F26 -->
 
-The temple in Chandure was then a simple hut with a thatched roof and mud walls. In it are served Sri Jagannatha,
+The temple in Chandure was then a simple hut with a thatched roof and mud walls. In it were served Sri Jagannatha,
 Balarama and Subhadra, two pairs of Nitai-Gaura, Gopinatha, Jahnava Mata, Bala-gopala, five pairs of Radha-Govinda,
 Revati and Balarama, and a shalagrama. Some of these shri-murtis were installed by Purushottama Thakura himself; the
 rest, it is said, came from Jahnava Devi's gadi. Hence the shripat is also called “the pat of Vasu and Jahnava,” after the
 names of Nityananda's consorts. Service here passed from mahanta to mahanta: Gopala Dasa Mahanta, Ramakrishna, Vihari
 Dasa, Rama Dasa, another Gopala Dasa and, at that time, the aged Sitanatha Dasa. The Deities of Purushottama, brought to
-Chanduria after the loss of Sukhasagara, are served to this day together with his other Deities under the care of the
+Chandure (Chanduria) after the loss of Sukhasagara, are served to this day together with his other Deities under the care of the
 Ganga family of Jirat. <!-- F27 F28 F29 -->
 
 ## Disciples
@@ -190,8 +190,8 @@ Devakinandana himself calls him his guru: in the Bengali vandana, “my chosen m
 wish-fulfilling tree that grants every desire” (pt. 3, v. 1), and, listing Nityananda's companions, he calls him “my
 supreme one — Srila Sri Purushottama” (v. 31). Devakinandana was his mantra disciple. <!-- F31 Q6 -->
 
-Srila Bhaktisiddhanta speaks of his four dearest disciples, the best of brahmanas, naming first Madhavacharya, Yadavacharya
-Pandita and Daivakinandana (Devakinandana) Dasa. One of the biographies names three chief disciples — Madhavacharya,
+Srila Bhaktisiddhanta speaks of his four dearest disciples, the best of brahmanas: first Madhavacharya, then Yadavacharya
+Pandita and Daivakinandana (Devakinandana) Dasa; the fourth is not named. One of the biographies names three chief disciples — Madhavacharya,
 Yadavacharya and Devakinandana, all three from brahmana families.[^12] About Madhavacharya — Madhava Chattopadhyaya of
 Jirat, the husband of Ganga, Nityananda's daughter — opinions differ: some hold him a disciple of Nityananda Prabhu
 Himself, others of Jahnava Devi, still others of Purushottama Thakura. Many disciples of both Purushottama and Kanu

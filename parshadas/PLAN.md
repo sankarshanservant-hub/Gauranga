@@ -169,7 +169,7 @@ B — вероятно, больше сотни).
 | @abhirama (069) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @parameshvara-dasa (070) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @uddharana-datta (071) | ✓ | ✓ (PDF) | — |
-| @purushottama-nagara (072) | ✓ | в работе | — |
+| @purushottama-nagara (072) | ✓ | ✓ (PDF) | — |
 | @kamalakara-pippalai (073) | ✓ | ✓ (PDF) | — |
 | @kaliya-krishnadasa (074) | в работе | — | — |
 | @subuddhi-raya (075) | в работе | — | — |
