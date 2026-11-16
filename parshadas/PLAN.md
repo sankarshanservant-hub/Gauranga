@@ -168,7 +168,7 @@ B — вероятно, больше сотни).
 | @vamshivadana (068) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @abhirama (069) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @parameshvara-dasa (070) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @uddharana-datta (071) | ✓ | ✓ (PDF) | — |
+| @uddharana-datta (071) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @purushottama-nagara (072) | ✓ | ✓ (PDF) | — |
 | @kamalakara-pippalai (073) | ✓ | ✓ (PDF) | — |
 | @kaliya-krishnadasa (074) | в работе | — | — |
