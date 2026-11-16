@@ -171,7 +171,7 @@ B — вероятно, больше сотни).
 | @uddharana-datta (071) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @purushottama-nagara (072) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @kamalakara-pippalai (073) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @kaliya-krishnadasa (074) | ✓ | в работе | — |
+| @kaliya-krishnadasa (074) | ✓ | ✓ (PDF) | — |
 | @subuddhi-raya (075) | ✓ | ✓ (PDF) | — |
 | @raghupati-upadhyaya (076) | ✓ | ✓ (PDF) | — |
 
