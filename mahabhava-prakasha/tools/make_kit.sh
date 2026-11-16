@@ -9,6 +9,7 @@ for k in src full ru en; do cp vaishnava-lilamrita/$k/01.md $K/sample/$k.md; don
 S=sources/oriya/kanai-khuntia-mahabhava-prakasha
 pdfimages -png $S/Kanai-Khuntia_Mahabhava-Prakasha_publ-Fakir-Mohan-Das_Baripada-1965_IA-sri-mahabhabaprakash-1965.pdf $T/x
 mv $T/x-020.png $K/img/corrigenda.png
+i=1; for n in $(seq 3 19); do mv $T/x-$(printf %03d $n).png $K/img/$(printf 'pref-%02d.png' $i); i=$((i+1)); done
 i=1; for n in $(seq 21 42); do mv $T/x-$(printf %03d $n).png $K/img/$(printf 's-%02d.png' $i); i=$((i+1)); done
 cp $S/Kanai-Khuntia_Mahabhava-Prakasha_1965_IA-OCR.txt $K/ocr/MP_IA-OCR.txt
 cp sources/oriya/dictionaries/Brooks_*.pdf $K/dict/Brooks_1874.pdf
