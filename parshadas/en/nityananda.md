@@ -1314,9 +1314,9 @@ devotees:
 “From his birth he was absorbed in the feet of Nityananda, and he ceaselessly played childhood games with Krishna” (CC, Adi 11.39)
 
 According to the “Chaitanya-bhagavata,” he is one of Nityananda's chief companions, unaware of his body, for Nityananda
-constantly acted through him:
+played in his heart:
 
-“Nityananda Chandra Himself abode in the heart of Purushottama Dasa, and therefore in his body there was not a trace of
+“Nityananda Chandra Himself played in the heart of Purushottama Dasa, and therefore in his body there was not a trace of
 external consciousness.” (CB, Antya 5.742)
 
 Many of Nityananda's companions showed such powers: Purushottama, according to the “Gaudiya-vaishnava-abhidhana,” ate
