@@ -104135,6 +104135,7 @@
    "@mukunda-datta",
    "@nityananda",
    "@abhirama",
+   "@parameshvara-dasa",
    "@sundarananda",
    "@mahaprabhu"
   ],
@@ -108922,12 +108923,12 @@
     "file": "padas/ru/01.md",
     "from": "19.1",
     "to": "19.4",
-    "line": 483,
-    "line_to": 498,
+    "line": 485,
+    "line_to": 500,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L483-L498",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L485-L500",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L503-L518"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L504-L519"
    }
   ],
   "cc": "Мадхья 3",
@@ -114975,12 +114976,12 @@
     "file": "padas/ru/01.md",
     "from": "18.1",
     "to": "18.5",
-    "line": 457,
-    "line_to": 469,
+    "line": 459,
+    "line_to": 471,
     "count": 5,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L457-L469",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L459-L471",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L475-L487"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L476-L488"
    }
   ],
   "age": [
@@ -115097,12 +115098,12 @@
     "file": "padas/ru/01.md",
     "from": "20.1",
     "to": "20.4",
-    "line": 513,
-    "line_to": 522,
+    "line": 515,
+    "line_to": 524,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L513-L522",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L515-L524",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L534-L543"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L535-L544"
    }
   ],
   "age": [
@@ -155161,12 +155162,12 @@
     "file": "padas/ru/01.md",
     "from": "22.1",
     "to": "22.5",
-    "line": 564,
-    "line_to": 584,
+    "line": 566,
+    "line_to": 586,
     "count": 5,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L564-L584",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L566-L586",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L587-L607"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L588-L608"
    }
   ],
   "years": [
@@ -156608,12 +156609,12 @@
     "file": "padas/ru/01.md",
     "from": "21.1",
     "to": "21.6",
-    "line": 534,
-    "line_to": 549,
+    "line": 536,
+    "line_to": 551,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L534-L549",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L536-L551",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L556-L571"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L557-L572"
    }
   ],
   "cc": "Мадхья 16",
@@ -157992,12 +157993,14 @@
   "period": "P13",
   "order": 7.3,
   "title": "Панихати: шак Рагхавы; «Нитьянанда неотличен от Меня»",
-  "summary": "Господь приходит к Рагхаве Пандиту в Панихати, когда тот поклоняется Кришне: «У Рагхавы Я забыл все невзгоды, как после омовения в Ганге — иди готовь для Кришны»; Рагхава готовит множество видов любимого Господом шака; приходят Гададхара Дас (Господь кладёт стопы ему на голову) и Рагхунатха Вайдья; наедине Господь открывает Рагхаве: «Нитьянанда неотличен от Меня, Я делаю всё, что Он хочет — служи Ему как Самому Господу», — а Макарадхвадже Кару велит служить Рагхаве.",
+  "summary": "Господь приходит к Рагхаве Пандиту в Панихати, когда тот поклоняется Кришне: «У Рагхавы Я забыл все невзгоды, как после омовения в Ганге — иди готовь для Кришны»; Рагхава готовит множество видов любимого Господом шака; приходят Гададхара Дас (Господь кладёт стопы ему на голову), Пурандара Пандит и Парамешвари Дас (увидев Господа, оба плачут от любви) и Рагхунатха Вайдья; наедине Господь открывает Рагхаве: «Нитьянанда неотличен от Меня, Я делаю всё, что Он хочет — служи Ему как Самому Господу», — а Макарадхвадже Кару велит служить Рагхаве.",
   "persons": [
    "@mahaprabhu",
    "@raghava-pandita",
    "@nityananda",
    "@gadadhara-dasa",
+   "@purandara-pandita",
+   "@parameshvara-dasa",
    "@raghunatha-vaidya-upadhyaya",
    "@makaradhvaja-kara"
   ],
@@ -177969,12 +177972,12 @@
     "file": "padas/ru/01.md",
     "from": "23.1",
     "to": "23.4",
-    "line": 601,
-    "line_to": 610,
+    "line": 603,
+    "line_to": 612,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L601-L610",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L603-L612",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L623-L632"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L624-L633"
    }
   ],
   "cc": "Мадхья 16",
@@ -178630,12 +178633,12 @@
     "file": "padas/ru/01.md",
     "from": "24.1",
     "to": "24.6",
-    "line": 622,
-    "line_to": 647,
+    "line": 624,
+    "line_to": 649,
     "count": 6,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L622-L647",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L624-L649",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L645-L670"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L646-L671"
    }
   ],
   "age": [
@@ -202083,12 +202086,12 @@
     "file": "padas/ru/01.md",
     "from": "25.1",
     "to": "25.13",
-    "line": 663,
-    "line_to": 723,
+    "line": 665,
+    "line_to": 725,
     "count": 13,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L663-L723",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L665-L725",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L687-L747"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L688-L748"
    }
   ],
   "cc": "Антья 12; Антья 19",
@@ -230901,12 +230904,12 @@
     "file": "padas/ru/01.md",
     "from": "26.1",
     "to": "26.4",
-    "line": 739,
-    "line_to": 754,
+    "line": 741,
+    "line_to": 756,
     "count": 4,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L739-L754",
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/ru/01.md?plain=1#L741-L756",
     "file_en": "padas/en/01.md",
-    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L763-L778"
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/padas/en/01.md?plain=1#L764-L779"
    }
   ],
   "cc": "Ади 3",
