@@ -88,7 +88,7 @@
 | @raghunandana | Рагхунандана (Тхакур) | Raghunandana (Thakura) | сын Мукунды Даса, племянник Нарахари, Шрикханда · {карточка: в лиле аватары — Прадьюмна, третья из вьюх (ГГД 70); гуру — Нарахари Саркар (Тхакур); происхождение — Шрикханда; явление — Васанта-панчами; уход — шравана, шукла-чатуртхи} |
 | @mukunda-dasa | Мукунда Дас (Шрикханда) | Mukunda Dasa (of Shrikhanda) | брат Нарахари, отец Рагхунанданы |
 | @vrindavana-dasa | Вриндаван Дас (Тхакур) | Vrindavana Dasa (Thakura) | автор «Чайтанья-бхагаваты» |
-| @abhirama | Абхирама Тхакур (Госвами) | Abhirama Thakura (Gosvami) | Рамадас, один из двенадцати гопалов |
+| @abhirama | Абхирама Тхакур (Госвами) | Abhirama Thakura (Gosvami) | Рамадас, один из двенадцати гопалов · {карточка: в Кришна-лиле — Шридама, друг-пастушок Кришны (ГГД 126) и др.; уход — кришна-саптами месяца чайтра} |
 | @vishnu-pandita | Вишну Пандит | Vishnu Pandita | учитель Господа в Навадвипе |
 | @sudarshana-pandita | Сударшана Пандит | Sudarshana Pandita | учитель Господа в Навадвипе; ср. диск @sudarshana |
 | @vanamali-acharya | Ванамали Ачарья | Vanamali Acharya | сват первой женитьбы Господа |
@@ -780,3 +780,5 @@
 | @pranavallabha-kuliya | Пранаваллабха — Божество Вамшиваданы | Pranavallabha, the Deity of Vamshivadana | Кулия (B 912; T 68; M 241); не путать с Пранаваллабхой Бодхканы (B 926) |
 | @gopinatha-kuliya | Гопинатха — родовое Божество Вамшиваданы | Gopinatha, the ancestral Deity of Vamshivadana | Кулия (B 912; T 68) |
 | @rama-kanai-baghnapara | Рама-Канаи — Божества Багхнапары | Rama-Kanai, the Deities of Baghnapara | Рама и Кришна, найденные @ramai-jahnava у Праскандана-тиртхи во Врадже (B 912; T 68) |
+| @gopinatha-khanakul | Гопинатха — Божество Абхирамы Тхакура (Кханакул) | Gopinatha, the Deity of Abhirama Thakura (Khanakul) | явился во сне и обретён при рытье Рама-кунды (БР 4.113–119); плита пробирного камня с лилой похищения одежд (B 914–915; T 88; M 1) |
+| @vedagarbha-acharya | Ведагарбха Ачарья | Vedagarbha Acharya | ученик @abhirama, его стих — БР 4.112; по «Шакха-нирнае» («Анубхашья» к ЧЧ Ади 11.13) жил в Кайяре (Бардхаман) |
