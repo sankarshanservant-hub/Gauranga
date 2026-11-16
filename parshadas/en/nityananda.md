@@ -1157,7 +1157,7 @@ Vasudha and Virabhadra of the journey; Virachandra and Ganga received her there.
 visited Jahnava and Vasudha, Virabhadra and Parameshvari Dasa; Shrinivasa was then going round the shripatas of the
 companions of Mahaprabhu and Nityananda. <!-- F342 F343 F346 -->
 
-With Jahnava to Kheturi went Nityananda's companions: Minaketana Ramadasa, Abhirama, Murari Chaitanya, Jnanadasa,
+With Jahnava to Kheturi went Nityananda's companions: Minaketana Ramadasa, Murari Chaitanya, Jnanadasa,
 Kamalakara Pippalai, and also Krishna Mishra, Shripati, Shrinidhi, Parameshvari Dasa, Balarama Dasa, Vrindavana Dasa
 Thakura and others (BR 10.372–375)[^55]; Kala Krishnadasa, too, was with her when she came to Katwa. After the departure of
 Uddharana Datta, Jahnava visited his house. <!-- F348 F349 -->
@@ -1753,7 +1753,8 @@ Khardaha. Here these accounts are combined into one.
 and Jahnava are His transcendental shaktis, and these pastimes are eternal (see below, “The Tattva of Nityananda”). So
 teaches Srila Bhaktisiddhanta Sarasvati; they must not be measured by a worldly measure (cf. note 28).
 [^55]: Two lists of Jahnava's companions from different biographies are combined here. In one of them Krishna Mishra is
-called “her uncle”; on what this rests is not said.
+called “her uncle”; on what this rests is not said. One biography also names Abhirama Thakura in this company, but in the “Bhakti-ratnakara” (10.374) the place is
+held by “Sri Minaketana Ramadasa, the charming”, and Abhirama is not in the list; we do not accept this report.
 [^56]: Kanu Thakura was born on the day of the Ratha-yatra: by one biography, in the year 1450 of the Shaka era; by another,
 which cites his descendants, in 1457 Shaka (942 of the Bengali era), on a Thursday, on the second tithi of the bright
 half of Ashadha. Why Nityananda came for the boy only twelve years after his mother's departure, this second biography
