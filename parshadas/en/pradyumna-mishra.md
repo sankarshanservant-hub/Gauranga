@@ -79,9 +79,9 @@ Vrindavana Dasa opens one of the chapters of the “Chaitanya-bhagavata” thus:
 “Glory to the Lord, the very life of Sri Pradyumna Mishra! Glory to Him who became the treasure of the heart of Sri
 Paramananda Puri!” (CB, Adi 14.2)[^7]
 
-In this chapter the Lord, still living in Navadvipa as a householder, shows the exemplary conduct of a Vaishnava
-grihastha. That is why, explains Srila Bhaktisiddhanta in the “Gaudiya-bhashya,” Vrindavana Dasa remembers here
-Pradyumna Mishra — the ideal householder, who worshipped the Lord as his Deity. <!-- F11 Q7 -->
+Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: in this chapter the Lord, still living in Navadvipa as a
+householder, shows the exemplary conduct of a Vaishnava grihastha — He whom Pradyumna Mishra, the ideal householder,
+worshipped as his Deity. <!-- F11 Q7 -->
 
 Nobility, learning and a householder's righteous life are not yet the goal in themselves. The Lord wished all this to
 find its meaning in the service of Hari and His devotees, and so He sent Pradyumna Mishra to Srila Ramananda Raya — not
@@ -248,10 +248,11 @@ questions and asks to be told “in order,” and having heard, gives his heart 
 tell of the mercy received. A noble Oriya brahmana, “foremost among the Vaishnavas,” “foremost in prema-bhakti,” he
 showed how high position in the world finds its meaning when it bows before a Vaishnava. <!-- I4 -->
 
-[^1]: So writes the “Gaudiya-vaishnava-abhidhana” of Haridasa Dasa, and the biographies after it; one of them specifies
-    that Pradyumna Mishra was born in central Orissa, another that he was born in Shrihatta. The original sources say
+[^1]: So writes the “Gaudiya-vaishnava-abhidhana” of Haridasa Dasa, and the biographies after it; elsewhere one of them
+    says plainly that he was born in Sylhet, and another calls him “a resident of Shrihatta.” The original sources say
     nothing of Shrihatta: Vrindavana Dasa names him among the associates “who took birth in Orissa” (CB, Antya
-    3.183–184). We follow Srila Bhaktisiddhanta. He may have been confused here with a namesake — Pradyumna Mishra of
+    3.183–184). We follow Srila Bhaktisiddhanta. One of the biographies, passing on the “Gaudiya-bhashya,” specifies “in
+    central Orissa”; in our translation of the commentary it says simply “in Orissa.” He may have been confused here with a namesake — Pradyumna Mishra of
     Shrihatta, to whom the Sanskrit “Sri Krishna-chaitanyodayavali,” with the Lord's genealogy, is ascribed; but this is
     only a supposition.
 [^2]: The Bengali verse has “this” (*iha*) twice: “This is Pradyumna Mishra, foremost among the Vaishnavas; this is
@@ -279,8 +280,9 @@ showed how high position in the world finds its meaning when it bows before a Va
 [^7]: In the Gaudiya Math editions, Adi 13.2.
 [^8]: One of the biographies calls it the Jagannatha-vallabha garden; the “Charitamrita” says only “into the garden.” The
     name of the garden may have been confused here with the name of the drama.
-[^9]: According to the “Charitamrita,” Mishra came to the Lord the next day; the biographies say, after several days.
-    They also write that doubts about Ramananda's conduct arose in Mishra's mind: according to one, he at first kept
+[^9]: According to the “Charitamrita,” Mishra came to the Lord the next day; one of the biographies says, after several
+    days. The biographies also write that doubts about Ramananda's conduct arose in Mishra's mind, but they tell it
+    differently in different places: according to one account, he at first kept
     silent because of them, but the Lord, who knows all hearts, understood his thoughts; according to another, he told
     everything and confessed his doubts; according to a third, after waiting long and hearing the servant, he lost his
     trust in Ramananda. The “Charitamrita” says nothing of doubts: Mishra told Ramananda that his heart had been purified,
