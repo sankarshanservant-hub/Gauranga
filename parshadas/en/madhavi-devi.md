@@ -8,8 +8,9 @@ calls her Madhavi-devi, simply Madhavi, and “the sister of Shikhi Mahiti”; t
 “the maha-bhagavata Madhavi-devi.”[^1] She was the youngest of the three. So writes Kavi Karnapura in the
 “Chaitanya-charita-mahakavya”: Shikhi has a younger brother, Murari, “and younger still, a sister of pure understanding”
 (13.90); so too say Srila Bhaktisiddhanta Sarasvati in the “Anubhashya” and one of the biographies. The
-“Charitamrita” is silent on who was older. Madhavi and her brothers belonged to the Lord's closest circle.
-<!-- F1 F4 F5 -->
+“Charitamrita” is silent on who was older. Madhavi and her brothers belonged to the Lord's closest circle. The
+explanation to the “Chaitanya-bhagavata” (Adi 2.28–30) names Sri Madhavi-devi together with her brothers among the
+devotees born in Utkala. <!-- F1 F4 F5 F28 -->
 
 The elder brother served Jagannatha as the temple scribe (*deula-karana*); the “Charitamrita” names him so: “This is
 Shikhi Mahiti, the scribe” (CC, Madhya 10.42). All three lived in Purushottama-kshetra — “thus the three of them lived
@@ -27,7 +28,7 @@ Who she is in Krishna's eternal pastimes Kavi Karnapura tells us:
 
 Kalakeli is one of the maidservants (*dasi*, *kinkari*) of Srimati Radhika. This is not a former birth but her eternal
 nature: Radha's eternal maidservant descended into Gaura's pastimes together with the Lord, to serve Him here as well.
-Kaviraja says the same without giving the name:
+Kaviraja says the same without giving her name in Krishna's pastimes:
 
 “Madhavi Devi, the sister of Shikhi Mahiti, is counted among the maidservants of Sri Radha.” (CC, Adi 10.137)
 
@@ -44,13 +45,15 @@ Gaurachandra before their elder brother did:
 inclination never admits forgetfulness.” (“Chaitanya-charita-mahakavya” 13.91)
 
 They knew with certainty that the Moon of Vrindavana, Krishna, had now risen on earth as Gaurachandra, the moon born from
-the ocean of Shachi's womb — and the Lord ever poured His love upon the brother and sister (13.92–93). <!-- F10 F11 Q5 -->
+the ocean of Shachi's womb; such was the auspicious conviction of these two, who constantly nourished an abundance of love
+(13.92–93). Srila Bhaktisiddhanta understands these words to mean that the Lord Himself ever bestowed abundant love upon
+the brother and sister. <!-- F10 F11 Q5 -->
 
 Shikhi, however, was a loving servant of Jagannatha, and try as the younger ones might to turn him to Gaura's service,
-he did not incline to it (13.94). But one night, after turning over in his mind what he had heard from them,[^4] he had a
-dream towards dawn: the younger ones, who delighted in Gaura's lotus feet, were waking him. He opened his eyes — and
-there they really stood beside him, come to wake him; and in his joy he embraced them both so tightly that they were
-astonished. Then he told them what he had seen: Gaurasundara, gazing on Jagannatha, entered into Him and came out again;
+he did not incline to it (13.94). But one night, after turning over in his mind what he had heard from them,[^4] he was
+overwhelmed towards dawn by a vision in a dream. And the younger ones, who delighted in Gaura's lotus feet, came at that
+very moment to wake him and saw how shaken he was. He opened his tear-filled eyes, saw them beside him, and in his joy
+embraced them both so tightly that they were astonished. Then he told them what he had seen: Gaurasundara, gazing on Jagannatha, entered into Him and came out again;
 and when Shikhi approached, the Lord called him by name and embraced him (13.95–103). <!-- F12 F13 -->
 
 Hearing this, the brother and sister rejoiced and told him to go and see the Lord:
@@ -59,9 +62,9 @@ Hearing this, the brother and sister rejoiced and told him to go and see the Lor
 Lord of the Blue Mountain.” (“Chaitanya-charita-mahakavya” 13.104)
 
 All three hurried to the temple. In the *jagamohana*, the hall before the sanctum, the brother and sister were the first
-to see the son of Shachi, and they shed tears of joy; Shikhi saw Him exactly as he had seen Him in the dream. And the
+to see the son of Shachi, and they wept for joy; Shikhi saw Him exactly as he had seen Him in the dream. And the
 Lord, saying, “You are Murari's elder brother,” embraced him with both arms (13.105–108).[^5] From that day Shikhi Mahiti
-served Gaura as his own worshipful Deity. Thus the younger sister, together with her brother, brought to Mahaprabhu's
+served Gaura as his own worshipful Deity (13.109). Thus the younger sister, together with her brother, brought to Mahaprabhu's
 feet the one whom the Lord would later name among His three most intimate companions. <!-- F14 -->
 
 ## An Elderly Ascetic
@@ -82,15 +85,14 @@ Svarupa Gosani, Ramananda Raya and Shikhi Mahiti are the three, and his sister i
 
 The closing words in Bengali are *tanra bhagini — arddha-jana*, “his sister — the half”; the Lord counted her among
 the circle (*gana*) of Radhika. Srila Bhaktisiddhanta cites these verses in the “Anubhashya” to Adi 10.137 as well,
-beside her name among the branches of the tree. One of the biographies retells them thus: of all Mahaprabhu's devotees
-only three and a half belong to Srimati's group. <!-- F16 F17 Q3 -->
+beside her name among the branches of the tree. One of the biographies retells them thus: among all the devotees of
+Mahaprabhu, just three and a half belong to Srimati's group. <!-- F16 F17 Q3 -->
 
-The “half” is no diminishment. The verse gives no reason; it is usually understood to concern her position as a woman
-ascetic among the companions of the sannyasi Lord, and not at all that her devotion was somehow half as great. The verse
-itself says something else: the Lord counted her among Radhika's circle and set her beside Svarupa Damodara and Ramananda
+The “half” is no diminishment. The verse gives no reason, and we shall not supply one of our own; one thing is clear: it
+does not at all mean that her devotion was somehow half as great. The verse itself says something else: the Lord counted her among Radhika's circle and set her beside Svarupa Damodara and Ramananda
 Raya — among the very few worthy ones in all the world. That is why the biographies cite this verse, to show how intimate
-her place is: of the Lord's entire circle only four did He name as belonging to Srimati's group, and she is one of the
-four. <!-- I2 -->
+her place is: of the Lord's entire circle only four did He name thus — worthy ones of Srimati's group — and she is one of
+the four. <!-- I2 -->
 
 ## Rice for the Lord's Meal
 Madhavi-devi's name is linked as well with one of Mahaprabhu's sternest pastimes in Puri — the story of the Younger
@@ -101,8 +103,8 @@ named Chota Haridasa. The Acharya himself called him, brought him over and said,
 sister, ask her for one *mana* of white rice and bring it.’” (CC, Antya 2.101–103)
 
 The *mana* was a measure for grain used in Utkala; another reading, cited in the “Anubhashya,” names the *aroya* variety
-of rice. The biographies speak of “fine rice.” One of them adds that Bhagavan Acharya would sometimes cook at home and
-feed Mahaprabhu alone.[^6] <!-- F18 F19 F21 -->
+of rice. The biographies speak of “fine rice.” One of them adds that from time to time Bhagavan Acharya prepared meals in
+his own house and served them to Mahaprabhu with no one else present.[^6] <!-- F18 F19 F21 -->
 
 “Haridasa begged the rice from her and brought it, and when the Acharya saw the rice he was overjoyed.” (CC, Antya 2.107)
 
@@ -130,13 +132,13 @@ of the world, enacted this pastime of a stern lesson. The lesson is addressed to
 not to her.[^7] <!-- F23 F24 I1 -->
 
 ## The Service of Sri Gopinatha
-One of the biographies has preserved facts about Madhavi-devi that are not in the original sources. Near Alalanatha, in
-the village of Bentpur (Bentapur), beside the house of Sri Bhavananda Raya, she opened the service of the Deity Sri
+One of the biographies has preserved facts about Madhavi-devi that are not in the original sources. In the village of
+Bentpur (Bentapur), not far from Alalanatha, beside the house of Sri Bhavananda Raya, she opened the service of the Deity Sri
 Gopinatha, and, according to this biography, He is served there to this day.[^8] <!-- F8 -->
 
-The same biography passes on two more traditions. It is said that Sri Madhavi-devi wrote a drama, “Sri
-Purushottama-deva.” And some say that Maharaja Prataparudra appointed her in Jagannatha's temple as *panjiya* — the
-writer of the “Madala Panji,” the temple chronicle.[^9] <!-- F26 F27 -->
+The same biography passes on two more traditions. There is a report that Sri Madhavi-devi composed a drama,
+“Sri Purushottama-deva.” And according to some, she was placed by Maharaja Prataparudra in Jagannatha's temple as
+*panjiya* — the writer of the “Madala Panji,” the temple chronicle.[^9] <!-- F26 F27 -->
 
 ## After the Lord's Disappearance
 After the Lord had withdrawn His pastimes, Srinivasa came to Puri and visited the house of Shikhi Mahiti. The
@@ -169,17 +171,18 @@ Svarupa Damodara, Ramananda Raya and Shikhi Mahiti. <!-- F2 F16 F23 I1 I2 -->
     Karnapura's story stands at Adi 10.136 — the verse on Shikhi and Murari Mahiti — while at 10.137 only the verses on
     the “three and a half” are cited.
 [^4]: Karnapura has “at the instruction of the younger brother” (13.95), in the singular; the “Anubhashya” has “having
-    heard much instruction from the younger ones.”
+    heard much instruction from the younger ones,” and it says that he dreamt the younger ones were waking him. In
+    Karnapura they wake him in waking life, and what he dreams is Gaura before Jagannatha (13.96, 13.100–102).
 [^5]: According to one of the biographies, the brother and sister called Shikhi to the temple “to see Lord Jagannatha.”
     In Karnapura (13.104) they call him to see Gaura, who had gone to behold Jagannatha; we follow Karnapura.
 [^6]: The “Charitamrita” (Antya 2.101) says only that the Acharya invited the Lord to a meal; “alone” is not there. One
-    of the biographies writes that Haridasa came to beg rice from Madhavi-devi “in Bhagavan Acharya's house” and fell
-    into conversation with her there; according to the “Charitamrita” (Antya 2.103) the Acharya sent him to her.
+    of the biographies writes that it was “in Bhagavan Acharya's house” that Haridasa asked Madhavi-devi for the rice and
+    talked with her; according to the “Charitamrita” (Antya 2.103) the Acharya sent him to her.
     Another biography also says that Bhagavan Acharya sent him to Madhavi-devi.
 [^7]: Ishana Nagara tells it differently in the “Advaita-prakasha” (18.138–146), a late source we trust less: the singer
     Haridasa exchanged rice collected as alms for Gaura's service for better rice from “Mother Sri Madhavi,” and
     Gauranga said to him: “Although Madhavi is a great and chaste woman, devoted to dharma, firm in faith in the guru
-    and the Vaishnavas, a pure devotee of Krishna, still she is a woman…” These words concern the dharma of the
+    and the Vaishnavas, a pure devotee of Krishna, still she is a woman…” (18.143–144). These words concern the dharma of the
     renunciant, which Haridasa was bound to keep, and are no reproach to her: the Lord Himself calls her a pure devotee
     of Krishna. We follow the “Charitamrita.”
 [^8]: Only one biography says this, without naming an original source; “to this day” refers to the time of its
