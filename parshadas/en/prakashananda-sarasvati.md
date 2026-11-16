@@ -23,13 +23,14 @@ number of sannyasis of Shankara's school — nearly a thousand, says one of the 
 
 In expounding the Vedas he denied the Lord's eternal form and called His body false, woven of maya — so the Lord Himself
 says of him in the “Chaitanya-bhagavata.” Srila Bhaktisiddhanta in his “Gaudiya-bhashya” calls him a teacher of
-Mayavada who in his commentaries on the Vedas “dissected” the transcendental body of the Lord. Not without reason does
+Mayavada who in his commentaries on the Vedas “dissected” the transcendental body of the Lord, and elsewhere the leader of all the sannyasis of Kashi, very well
+known and influential in Mahaprabhu's time. Not without reason does
 Krishnadasa Kaviraja, speaking of the mercy that flooded the whole world, make one exception:
 
 “He made His devotees of all — even the mlecchas and others; only the Mayavadis of Kashi escaped.” (CC, Adi 7.39)
 
 Who these Mayavadis were, Srila Bhaktivinoda Thakura explains in his “Amrita-pravaha-bhashya”: the sannyasi
-Prakashananda and others. <!-- F4 F5 -->
+Prakashananda and others. <!-- F4 F5 F59 -->
 
 Of his worldly life the sources say nothing. Neither his birthplace and family nor his sannyasa-guru nor the years and
 days of his appearance and departure are known; nor are his days found in the Vaishnava calendar of the Sri Chaitanya
@@ -383,11 +384,25 @@ to Nilachala.” (CC, Madhya 1.245)
 Srila Bhaktisiddhanta writes in the “Anubhashya” (on Madhya 25.1) that the Lord brought the Kashi sannyasis, with
 Prakashananda at their head, onto the path of pure bhakti. <!-- F49 F50 -->
 
+Soon afterwards Rupa Gosvami and his brother Anupama came to Varanasi. Staying with Chandrashekhara, Rupa met the
+brahmana from Maharashtra and Tapana Mishra as well, and heard with joy how the Lord by His mercy had delivered all the
+Mayavadi sannyasis of Varanasi (Madhya 25.209–212). <!-- F60 -->
+
 According to the “Anubhashya” and one of the biographies, this took place in the year 1435 of the Shaka era
 (1513).[^9] <!-- F51 -->
 
 ## How Others Tell It
-Govinda-deva in the “Gaura-krishnodaya” tells it differently. The sannyasis of Kashi, adherents of another doctrine,
+Vrindavana Dasa in the “Chaitanya-bhagavata” does not describe the meeting itself, but in a digression remarks that
+sannyasis without devotion cannot see the Lord: “The proof of this is the sannyasis of Kashi” (CB, Madhya 19.99). When
+the Lord came to Kashi, he writes, the sannyasis were glad: “We shall see Chaitanya.” All of them were learned in
+Vedanta and given to austerity; they had lived in Kashi all their lives and won renown; but one fault robbed all their
+virtues of their power: they taught Vedanta, yet did not expound devotion to Vishnu. The Lord, who knows every heart,
+did not give them His darshan: for two months He stayed hidden in the matha of Ramachandra Puri and, two days before the
+Vishvarupa-kshaura, left in secret, while the sannyasis could only wonder why He had gone without speaking to them
+(19.100–110). Prakashananda is not named here. According to the “Charitamrita,” it was in these very two months that the
+Lord converted the sannyasis of Kashi; we follow it. <!-- F58 -->
+
+Govinda-deva in the “Gaura-krishnodaya,” too, tells it otherwise than the “Charitamrita.” The sannyasis of Kashi, adherents of another doctrine,
 disregarded the Lord; one night, at someone's invitation, He came to them with a few companions, and they, seated on
 their seats, said to Him disdainfully, “Stand there.” Then the Lord made the radiance of His own being blaze forth, and
 they could neither look at Him nor approach. To each of them He appeared in the form of the god to whom that one was
@@ -436,7 +451,8 @@ Prakashananda, says Srila Bhaktisiddhanta, is a still greater miracle than the d
 <!-- F57 -->
 
 Prakashananda's conversion, then, is told in the “Charitamrita” — in Adi 7 and Madhya 25;[^12] the
-“Chaitanya-bhagavata” only records the Lord's words about him spoken in Navadvipa. <!-- Q13 -->
+“Chaitanya-bhagavata” only records the Lord's words about him spoken in Navadvipa, and of the sannyasis of Kashi says that the Lord did not
+give them His darshan. <!-- Q13 -->
 
 ## After the Conversion
 What became of Prakashananda afterwards the sources do not say. It is not known how long he lived after meeting the
