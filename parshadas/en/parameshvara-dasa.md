@@ -299,7 +299,7 @@ service of Radha-Gopinatha in Atpur, where his samadhi stands to this day. <!-- 
 [^12]: The biographies place this vision in Parameshvari Dasa's journey to Vraja together with Jahnava: by her mercy he
     beheld Radhika united with Gopinatha, and on returning told Jahnava and Vasudha of it. By the
     “Bhakti-ratnakara” he saw Radha with Gopinatha when he brought Her without Jahnava; she herself went to Vrindavana
-    again later (13.268–279). One of the biographies adds that on her last journey to Vraja he saw her merge into
+    again later (13.268–279). One of the biographies adds that on her last journey to Vraja he saw her enter into
     Srimati Radhika in the temple of Gopinatha; the “Bhakti-ratnakara” and the “Narottama-vilasa” have nothing of this,
     while the “Nityananda-vamsha-vistara” speaks of her entering the Deity of Gopinatha. Jahnava is the eternal
     Ananga-manjari; her “entering” the Deity is a disappearance, a return to eternal service, not death and not

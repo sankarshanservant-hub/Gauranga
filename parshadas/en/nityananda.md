@@ -824,7 +824,7 @@ bodies.” (CB, Antya 5.235)
 On the way each lived in his own bhava. Gadadhara Dasa, forgetting himself like a girl of Vraja selling yogurt, laughed
 loudly and cried “Who will buy yogurt!” — and Nityananda noticed it. Abhirama, in the mood of a cowherd boy, stood nine
 hours in the tribhanga pose, bent in three places, unaware of the outer world (CB, Antya 5.237). Krishnadasa and
-Parameshvari shouted “hoi! hoi!” like the cowherd boys of Vraja, and Purandara climbed a tree crying “I am Angada!” and
+Parameshvari shouted “hai! hai!” like the cowherd boys of Vraja, and Purandara climbed a tree crying “I am Angada!” and
 leapt down. <!-- F266 F267 Q35 -->
 
 Coming to Gauda, Nityananda went all over it as a wandering parivrajaka, preaching the Name and love of God. Whomever He

@@ -284,10 +284,12 @@ disciple, and with him his friend Manohara Dasa, a compiler of a collection of p
 Madhavacharya of Jirat — Madhava Chattopadhyaya, husband of Ganga, Nityananda's daughter — opinions differ: some regard
 him as a disciple of Nityananda, others of Jahnava, still others of Purushottama Thakura. <!-- F95 F96 F97 F98 Q17 -->
 
-Parameshvari Dasa, her dear servant, by her mercy saw Gopinatha together with Radha in Vrindavana. Returning to Khardaha,
-he told Jahnava and Vasudha about it, and Jahnava, overwhelmed with love, told him to go without delay to Antpur (Atpur)
-and install Radha-Gopinatha there. She also had a Deity of Radha made and sent it to Vrindavana, to Sri Govindadeva; the
-same Parameshvari Dasa accompanied Radha.[^17] <!-- F99 F100 -->
+Once Gopinatha of Vrindavana, in a dream, asked Jahnava to send Him His beloved. Jahnava had a Deity of Sri Radhika
+carved and sent Her to Vrindavana; Radha was accompanied by her dear servant Parameshvari Dasa (“Bhakti-ratnakara”
+13.66–74; “Narottama-vilasa” 9.81–84).[^17] There, at Gopinatha's command, the Radha who had been sent was placed on His
+left, and Parameshvari Dasa saw with his own eyes Sri Radhika together with Gopinatha. Returning to Khardaha, he told
+Vasudha and Jahnava everything, and Jahnava, overwhelmed with love, told him to go without delay to the village of
+Tada-Atpur (Atpur) and manifest there the service of Radha-Gopinatha (“Bhakti-ratnakara” 13.223–246). <!-- F99 F100 -->
 
 The title “kaviraja” — “king of poets” — was given to Ramachandra and his brother Govinda by Jiva Gosvami.[^18] <!-- F101 -->
 
@@ -297,7 +299,7 @@ ninth day of the bright fortnight of Vaishakha as the day of her departure — t
 calendar honour as her appearance day.[^19] The year has not been preserved. <!-- F103 -->
 
 According to tradition, she went to Vraja for the last time together with Parameshvari Dasa, and he saw how, in the temple
-of Gopinatha, Jahnava entered the body of Srimati Radhika — returning to her eternal abode, to Her service.[^20] <!-- F104 -->
+of Gopinatha, Jahnava entered into Srimati Radhika — returning to her eternal abode, to Her service.[^20] <!-- F104 -->
 
 ## Deities and Places of Remembrance
 Gopinatha is the Deity especially close to Jahnava. In Gauda-mandala, Abhirama Thakura manifested the service of
@@ -431,16 +433,21 @@ Sri Chaitanya. <!-- F111 Q18 -->
     Navadvipa or straight to Khardaha.
 [^16]: According to another statement of one of the biographies, Narayani was Yadunandana's adopted daughter.
     Yadunandana himself, according to the “Bhakti-ratnakara” (13.254), became a disciple of Virachandra at the wedding.
-[^17]: According to the “Nityananda-vamsha-vistara,” the Deity of Radha was intended for Madana-mohana.
+[^17]: One of the biographies writes that Radha was sent for Sri Govindadeva, and the “Prema-vilasa” (ch. 16) that She
+    was sent for Madana-mohana; we follow the “Bhakti-ratnakara” and the “Narottama-vilasa”: Gopinatha was awaiting
+    Radha. The biographies also place the vision itself in Parameshvari Dasa's journey to Vraja together with Jahnava: by
+    her mercy he saw Gopinatha together with Radha; by the “Bhakti-ratnakara,” he saw Them when he brought Radha without
+    Jahnava, and she herself went to Vrindavana again later (13.268–279).
 [^18]: So writes one of the biographies, citing the “Anubhashya” to CC, Adi 10.85, and so does another in its chapter
     on Jiva. But elsewhere this second biography says that Govinda's songs so delighted Jiva Gosvami, Srinivasa Acharya
     and Jahnava Mata that together they gave him this title.
 [^19]: Our calendar marks her appearance on the Gaura-navami of the month of Madhusudana; the day of her departure is not
     in the calendar.
 [^20]: The departure of the Lord's eternal shakti is not death: she never came under the sway of karma and does not leave
-    the world by its law, but only hides her pastimes from our eyes, entering her eternal abode. According to the
-    “Nityananda-vamsha-vistara,” she entered the Deity of Gopinatha, and Gopinatha seated her beside Himself — on His
-    left.
+    the world by its law, but only hides her pastimes from our eyes, entering her eternal abode. This tradition is
+    given by one of the biographies; the “Bhakti-ratnakara” and the “Narottama-vilasa” do not have it, while according
+    to the “Nityananda-vamsha-vistara” she entered the Deity of Gopinatha, and Gopinatha seated her beside Himself — on
+    His left.
 [^21]: One of the biographies retells verse 66 inaccurately — as if the question were whether she is Revati or
     Ananga-manjari. The verse itself is about something else: which of the two sisters is Ananga-manjari, Vasudha or
     Jahnavi.
