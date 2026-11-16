@@ -9,7 +9,7 @@ outlived almost all the Lord's companions in Navadvipa, and the next generation 
 Ramachandra — found him a very old man in the same house where he had once dandled the little Gaura on his knees.
 <!-- F3 -->
 
-Krishnadasa Kaviraja calls him simply Ishana and “the servant Ishana”; Vrindavana Dasa also calls him Ishana;
+Krishnadasa Kaviraja calls him simply Ishana; Vrindavana Dasa also calls him Ishana;
 Devakinandana in the “Vaishnava-vandana” calls him Ishana Dasa; Narahari Chakravarti in the “Bhakti-ratnakara” calls him
 Ishana, Ishana Thakura, “Sri Ishana Mahashaya,” “Ishana, dear to the Lord,” and “the Lord's Ishana.” The biographies call
 him Sri Ishana Thakura, Sri Ishana Prabhu, Ishana Dasa and “Mahaprabhu's family servant.”[^1] <!-- F1 -->
@@ -25,10 +25,10 @@ accepts service only from devotees dear to Him, and that service alone bespeaks 
 everywhere,” says the “Bhakti-ratnakara” (12.91). Ishana's service in the house of the Lord, of Shachi and of
 Vishnupriya is the eternal service of an associate in the Navadvipa-lila. <!-- F3 F4 I1 -->
 
-Of his worldly life the sources are silent. Neither Ishana's birthplace nor his parents, varna, or the year and day of his
+Of his origins the sources are silent. Neither Ishana's birthplace nor his parents, varna, or the year and day of his
 appearance are named anywhere; nor do the primary sources say who he was in Krishna's pastimes: he does not appear in the
 “Gaura-ganoddesha-dipika.”[^2] Nor are the days of his appearance and departure in the Vaishnava calendar of the Sri
-Chaitanya Saraswat Math. <!-- F5 -->
+Chaitanya Saraswat Math. <!-- F5 F42 -->
 
 ## A Branch of the Chaitanya Tree
 Krishnadasa Kaviraja, listing the branches of Sri Chaitanya's tree, names him too:
@@ -96,7 +96,7 @@ and sat down side by side, Ishana came up to Them:
 “Ishana gave water to wash Their feet; then Mahaprabhu and Nityananda sat down to eat.” (CB, Madhya 8.59)
 <!-- F15 F16 Q3 -->
 
-Shachi was serving Them at the meal when suddenly she saw both of Them as four-armed boys; she fell senseless, and the
+Shachi was feeding Them when suddenly she saw both of Them as four-armed boys; she fell senseless, and the
 food was scattered about the room (CB, Madhya 8.62–72). It fell to Ishana to set the house in order:
 
 “Ishana tidied the whole house, and all that was left of the meal was his. All his life Ishana served Ai; among the
@@ -121,17 +121,17 @@ dead: “striking her head with her hand, she gestures to Ishana: ‘Gora has go
 “Pada-kalpataru” 2222). In her grief she cannot speak.
 
 This is no worldly despair but *vipralambha*, the separation of the Lord's mother from her son — the feeling in which
-the eternal associates live when the Lord hides Himself from their eyes. And the first to whom Shachi turns in that
-separation is Ishana. <!-- F20 -->
+the eternal associates live when the Lord hides Himself from their eyes. And in that separation it is to Ishana that
+Shachi turns. <!-- F20 -->
 
 Yet even after sannyasa the Lord did not abandon His mother. He Himself told in Puri how on the day of Vijaya-dashami He
-came unseen to the house in Navadvipa and ate the food she had offered to Gopala; and Shachi, finding the pots full
-afterwards,
+came unseen to the house in Navadvipa and ate the food she had offered to Gopala. But Shachi saw that the pots were still full,
+and wondered:
 
 “She called Ishana, had the place cleaned and plastered again, and once more offered food to Gopala.” (CC, Madhya
 15.63) <!-- F21 -->
 
-Ishana remained in the house even when Shachi was gone. After the disappearance of Mahaprabhu and the departure of
+Ishana remained in the house even after Shachi had departed from this world. After the disappearance of Mahaprabhu and the departure of
 Shachimata, Sri Vamshivadana Thakura served Vishnupriya-devi and Sri Ishana Thakura. <!-- F23 -->
 
 ## Srinivasa at Vishnupriya's
@@ -145,11 +145,12 @@ Pandita. Ishana understood that Chaitanya's power was in him and told Ishvari �
 permission he brought Srinivasa choice provisions; and when half a ser of rice cooked by the youth satisfied eleven
 Vaishnavas, Ishana told her of this too. At her bidding he brought Srinivasa into the inner apartments and presented him:
 “Here is Srinivasa; he bows down to you; he is your dear servant.” And afterwards he reported to her that the youth wept
-all night long, calling to Pandita Gosani, and never closed his eyes (“Prema-vilasa” 4.173–222). <!-- F25 -->
+all night long, calling to Pandita Gosani, and never closed his eyes (“Prema-vilasa” 4.173–222). <!-- F25 F43 -->
 
-Towards the end of one night Chaitanya and Nityananda appeared in a dream and commanded: “Send him to Abhirama, with
-Ishana as his companion.” The maids called Ishana, but he was fast asleep and did not hear; waking late, he thought himself
-most unfortunate, came with joined palms to Ishvari and received the order to take Srinivasa to Abhirama (4.236–244).
+Towards the end of one night Chaitanya and Nityananda appeared in a dream and commanded that Srinivasa be sent to Abhirama: “Send him
+to Abhirama, with Ishana as his companion.” The maids called Ishana, but he was fast asleep and did not hear; waking late, he thought himself
+most unfortunate, came with joined palms to Ishvari, at her word brought Srinivasa, and received the order to take him to Abhirama
+(4.236–244).
 This is the humility of a servant who reproaches himself for the slightest delay in service, not a worldly failing.
 <!-- F26 -->
 
@@ -165,11 +166,12 @@ that you have come at such a time; from the Vaishnavas I have heard all about yo
 touched Narottama's head and blessed him. Narottama also saw in Mayapur other aged associates of the Lord, grieving over
 His disappearance — Shuklambara Brahmachari, Murari, Damodara and Gadadhara Dasa. When leaving, Narottama asked Ishana's
 leave to go to Nilachala, and Ishana lovingly told him to go quickly to Sri Kshetra: “Day by day it grows darker
-everywhere”; of Gopinatha Acharya and others “I have had news through people.” And after that he advised him to go to
+everywhere. These days I have had all the news from there through people”; and how Gopinatha Acharya and the others
+now fare by the Lord's will “cannot be told.” And after that he advised him to go to
 Shrikhanda and Katwa (8.103–108). <!-- F28 F29 -->
 
 When Jahnava came back to Navadvipa, Mahaprabhu's birthplace, Ishana was already a very old man; with others he consoled
-her and told her that Srinivasa would soon come (11.768). And Srinivasa told her: “In Navadvipa almost all have
+her, and they told her that Srinivasa would soon come (11.768). And earlier Srinivasa had told her: “In Navadvipa almost all have
 disappeared — only the Lord's Ishana remains,” and added: “Ishana told me to come” (11.721–723). <!-- F30 F31 Q6 -->
 
 In the house of Jagannatha Mishra in Mayapur Ramachandra Kaviraja too, returning from Vraja to Gauda, found the very aged
@@ -185,8 +187,8 @@ Ishana Prabhu, the venerable devotee of Mahaprabhu's household.”[^10] <!-- F34
 The “Bhakti-ratnakara” tells of this in detail. On the road to Mayapur the three met that same old brahmana: he said that
 he had gone that day to see Ishana and that Ishana had told him beforehand of their coming — he was waiting for them in
 the house of Jagannatha Mishra (12.107–108). In the Lord's house they found him alone: he was radiant, tears ran down his
-face, and he was calling: “Vishvambhara!” (12.112–115). Ishana embraced all three (12.117–118) and said that he knew the
-places of the Lord's pastimes as he had heard of them from the old people, and that this was why he had called Srinivasa
+face, and he was calling: “Vishvambhara!” (12.112–115). Ishana embraced all three (12.117–118) and said that he remembered the
+places of the Lord's pastimes — what he had seen himself and what he had heard from the old people — and that this was why he had called Srinivasa
 through Narottama (12.126–127). “I am old and have lost my strength,” he confessed, “but now my strength has suddenly
 returned” (12.131). The next morning he led them through Nadia (12.134–135) and all along the way told them about each
 place, and at times sang padas (12.625, 701, 752, 772, 809, 849, 2117, 4031). <!-- F35 -->
@@ -205,9 +207,9 @@ him. Embracing them, Ishana could not hold back his tears; he wished to say some
 sign of his hand showed that this was their last meeting (“Bhakti-ratnakara” 13.8–11). <!-- F38 F39 -->
 
 And so it was. The acharyas went to Shrikhanda to Raghunandana Thakura, and there Srinivasa told Raghunandana: “In the
-Lord's house only Ishana remained… On the way I heard from people's lips: Ishana Thakura has disappeared”
-(“Bhakti-ratnakara” 13.20–21).[^13] The eternal associate left this world and entered the unmanifest pastimes of the
-Lord. <!-- F40 Q7 -->
+Lord's house only Ishana remained — what power have I to tell of his endless virtues! On the way I heard from people's lips: Ishana Thakura has disappeared”
+(“Bhakti-ratnakara” 13.20–21).[^13] The eternal associate had departed from this world into the Lord's unseen
+pastimes. <!-- F40 Q7 F44 -->
 
 When exactly this happened is unknown: according to the “Bhakti-ratnakara,” in Navadvipa, soon after he had led the three
 acharyas through the places of the pastimes, after the Lord's disappearance. The day of his departure, like that of his
@@ -232,8 +234,9 @@ Navadvipa. <!-- F38 -->
     Nagara, the disciple of Advaita Acharya and author of the “Advaita-prakasha”; the Vrindavana Vaishnava Ishana, who was
     with Rupa Gosvami at Gopala's (CC, Madhya 18.52) and, according to the “Bhakti-ratnakara,” blessed Srinivasa, Narottama
     and Shyamananda on their way with the books; the kulina Ishana Bandya of the “Prema-vilasa,” and others.
-[^2]: The “Gaura-ganoddesha-dipika” (205) names a certain Ishana Acharya — in a list, without saying who he is; one of the
-    biographies, following the “Gaudiya-vaishnava-abhidhana,” sees in him Yauna-manjari of Vraja. No primary source
+[^2]: The “Gaura-ganoddesha-dipika” (194–207) names a certain Ishana Acharya — in a list of associates, without saying who
+    he is; by the order of the list the gopi Mauna-manjari corresponds to him (one of the biographies, following the
+    “Gaudiya-vaishnava-abhidhana,” — Yauna-manjari). No primary source
     identifies him with Ishana, the servant in the Lord's house.
 [^3]: One of the biographies writes that Nimai lovingly called Ishana “father.” This is a misunderstanding: in the
     “Bhakti-ratnakara” (12.95) the words “O son” (*ohe bapu*) are the old brahmana's address to Srinivasa, not Nimai's words.

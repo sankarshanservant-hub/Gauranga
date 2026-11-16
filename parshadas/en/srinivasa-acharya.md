@@ -503,9 +503,9 @@ there was a great festival of sankirtana in Srinivasa's house. <!-- F106 F107 --
 
 ## Navadvipa with Ishana; Farewell to Raghunandana
 With Narottama and Ramachandra, Srinivasa went round the nine islands of Navadvipa, which embody the nine forms of bhakti.
-The places of Gaura's pastimes, already dilapidated, were shown them by Ishana — the old servant of Mahaprabhu's house, who
-had outlived all the devotees of Navadvipa: “In Navadvipa hardly anyone remains but the Lord's servant Ishana”
-(“Bhakti-ratnakara,” 11.721). Receiving his blessing and embrace, they went by way of Mayapura to Yajigrama.[^15]
+The places of Gaura's pastimes were shown them by Ishana — the old servant of Mahaprabhu's house, who had outlived almost
+all the devotees of Navadvipa: “Almost all in Navadvipa have disappeared — only the Lord's Ishana remains”
+(“Bhakti-ratnakara,” 11.721). According to one of the biographies, those places had by then fallen into utter ruin. Receiving his blessing and embrace, they went by way of Mayapura to Yajigrama.[^15]
 <!-- F109 Q18 -->
 
 King Vira Hambira came to Yajigrama at that time to see his guru's feet. And Srinivasa, after visiting Shrikhanda and

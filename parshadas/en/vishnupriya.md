@@ -493,8 +493,8 @@ After the Lord's sannyasa Ishana Thakura took upon himself the care of Shachi, o
 Bhaktisiddhanta, in the “Gaudiya-bhashya” on the “Chaitanya-bhagavata” (Madhya 8.73), says that by serving the Lord's
 mother and wife even after His sannyasa, Ishana became “the most blessed of the blessed.” For service to a devotee is higher
 than service to the Lord Himself: Ishana served Shachi and Vishnupriya and received their love, and the Lord's mercy
-comes by way of the devotee's. Ishana lived very long — he outlived Vishnupriya and all of Mahaprabhu's devotees in
-Navadvipa. <!-- F99 I4 F100 -->
+comes by way of the devotee's. Ishana lived very long — he outlived Vishnupriya and almost all of Mahaprabhu's devotees in
+Navadvipa: “almost all in Navadvipa have disappeared,” says the “Bhakti-ratnakara” (11.721). <!-- F99 I4 F100 -->
 
 Beside him Vamshivadana Thakura was blessed with service: he became the servant and protector of Vishnupriya and Shachi.
 After Mahaprabhu's disappearance Vishnupriya took him as her servant, and, it is said, he was the first to receive her
