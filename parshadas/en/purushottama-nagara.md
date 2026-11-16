@@ -29,10 +29,10 @@ Purushottama's grandfather was Kamsari Sena, whom Krishnadasa Kaviraja likewise 
 (CC, Adi 11.51). In the “Gaura-ganoddesha-dipika” Kamsari Sena stands fifth in a list of associates and Ratnavali fifth
 in a list of gopis (194, 200), and Srila Bhaktisiddhanta Sarasvati in the “Anubhashya” says plainly that Kamsari Sena is
 Ratnavali of Vraja. There he also writes that this ancestor was called Sambarari as well. Kamsari Sena is said to have
-lived in Guptipara, but no trace of him remains there today. <!-- F10 F11 -->
+lived in Guptipara, though nothing of him is to be found there now. <!-- F10 F11 -->
 
-Thus in one family four generations in a row — Kamsari Sena, his son Sadashiva Kaviraja, Sadashiva's son Purushottama
-Thakura and Purushottama's son Kanu Thakura — were perfected associates and devotees of Gaura. Srila Bhaktisiddhanta,
+Thus in one family four generations in a row — Kamsari Sena; Sadashiva Kaviraja, his son; Purushottama Thakura, born
+to Sadashiva; and Kanu Thakura, born to Purushottama — were perfected associates and devotees of Gaura. Srila Bhaktisiddhanta,
 and the biographies after him, remark how rarely such a thing is found: it is a special mercy of the Lord upon the
 family. <!-- F12 I1 -->
 
@@ -66,7 +66,7 @@ name of the region where he lived: the “Gaudiya-vaishnava-abhidhana” writes 
 his name Purushottama-Nagara. <!-- F6 -->
 
 By one explanation, fourteen villages (mauzas) — among them Beledanga, Berigram, Sukhasagara, Chandure, Manasapota and
-Palpara — lie within the “five nagaras,” Panchanagara, and so the region is sometimes called Nagaradesha.[^4] <!-- F7 -->
+Palpara — belong to the pargana of Panchanagar, and so the region is sometimes called Nagaradesha.[^4] <!-- F7 -->
 
 ## From Birth at Nityananda's Feet
 Krishnadasa Kaviraja describes his nature:
@@ -75,20 +75,19 @@ Krishnadasa Kaviraja describes his nature:
 
 These games are neither a child's amusement nor a product of imagination. Purushottama is Krishna's eternal friend Dama,
 and from his very birth his eternal nature shone forth in him: friendship with Krishna, sakhya-rasa, and devotion to
-Nityananda, Balarama Himself, whose companion he is. From his earliest years he constantly remembered Nityananda's feet.
+Nityananda, Balarama Himself, Whose companion he is. From his earliest years he constantly remembered Nityananda's feet.
 Krishnadasa Kaviraja counts him among the devotees, the branches, of Nityananda; in the headings of the edition of the
 “Charitamrita” with the “Anubhashya,” Sadashiva Kaviraja and Purushottama stand twenty-third and twenty-fourth.[^5]
 <!-- F18 F19 Q2 -->
 
 Vrindavana Dasa, naming him one of Nityananda's chief companions, says of him:
 
-“Nityananda Chandra Himself dwelt in the heart of Purushottama Dasa, and so there was not a trace of external awareness
+“Nityananda Chandra Himself played in the heart of Purushottama Dasa, and so there was not a trace of external awareness
 in his body.” (CB, Antya 5.742)
 
-The Bengali verse says that Nityananda-chandra *vihare* — “plays” — in his heart; so too we translate the “First
-Vandana,” which repeats these words: “Purushottama Dasa has no awareness of the external: Nityananda-chandra plays in his
+The Bengali verse has *vihare* — “plays”; the “First Vandana” repeats the same words: “Purushottama Dasa has no awareness of the external: Nityananda-chandra plays in his
 heart” (pt. 4, v. 35). This is neither illness nor worldly oblivion: he is wholly absorbed in prema and in the presence
-of Nityananda, who unceasingly plays in his heart, and for him the external no longer exists.[^6] <!-- F20 Q1 -->
+of Nityananda, Who unceasingly plays in his heart, and for him the external no longer exists.[^6] <!-- F20 Q1 -->
 
 His disciple Devakinandana glorifies his guru in his “Vaishnava-vandana”:
 
@@ -115,23 +114,23 @@ padas on Krishna's pastimes under this name (PK 1754–1758, 1762, 1868–1872, 
 they are has not been settled; the biographies are silent about his padas. <!-- F23 -->
 
 ## Wife and Son
-Purushottama's wife was named Jahnava; she is not Jahnava, the consort of Nityananda, but another Jahnava. A son was born
+Jahnava was the name of Purushottama's wife; she is not Jahnava, the consort of Nityananda, but another Jahnava. A son was born
 to them, of whom Krishnadasa Kaviraja says:
 
 “His son was the great soul Sri Kanu Thakura, whose body overflowed with the nectar of love for Krishna.” (CC, Adi 11.40)[^8]
 <!-- F13 F14 Q2 -->
 
 Soon after Kanu's birth his mother left this world — according to the “Gaudiya-vaishnava-abhidhana,” twelve days after
-his appearance. Hearing of it, Nityananda Prabhu came to Purushottama's house and took the infant with Him to
+his appearance. Hearing of it, Nityananda Prabhu went to Purushottama's home and carried the infant away with Him to
 Khardaha.[^9] According to the “Abhidhana,” He brought the child to His home and laid him on the lap of Mother Jahnava,
 His consort; one of the biographies says that Jahnava Devi adopted him. Seeing how devoted to Krishna the boy was from
 infancy, Nityananda named him Shishu Krishnadasa, “the child Krishnadasa.” Jiva's vandana glorifies him: “I praise the
 one called Shishu Krishnadasa, nurtured by Sri Nityananda, whose body is full of happiness, blessed and pure” (v. 133).
 <!-- F15 F16 F38 -->
 
-In his fifth year Shishu Krishnadasa went with Ishvari Jahnava Mata to Vrindavana. Seeing his bhava, Sri Jiva Gosvami
-and the other Vrajavasis gave him the name Thakura Kanai. According to tradition, once in Vrindavana, as he danced in
-kirtana, lost in bliss, the nupura — the ankle bell — slipped from his right foot and vanished. Kanai said, “Where this
+Shishu Krishnadasa was in his fifth year when Ishvari Jahnava Mata took him with her to Vrindavana.
+Seeing his bhava, Sri Jiva Gosvami and the other Vrajavasis named him Thakura Kanai. A tradition relates that once
+in Vrindavana, as he danced in kirtana, lost in bliss, the nupura — the ankle bell — slipped from his right foot and vanished. Kanai said, “Where this
 nupura has fallen, there I shall live.” The nupura, it is said, was found in the village of Bodhkhana in the district of
 Yashohar, in the courtyard of Sri Madana-mohana, as the “Abhidhana” adds; from then on Kanai lived there and founded his
 shripat, and by one of the biographies the nupura is kept to this day in the temple there, in Kanai's ancestral home.
@@ -140,20 +139,20 @@ overland, two to two and a half miles. <!-- F39 F40 F36 -->
 
 In Bodhkhana the ancient Deity of the family, Pranavallabha, is also served. According to family tradition, one of
 Sadashiva's ancestors served Him several centuries before the appearance of Sriman Mahaprabhu. Later, during the Bargi
-raids, the descendants of Kanai's eldest son remained in Bodhkhana, while the others, led by Vamshivadana, fled and
-settled in the village of Bhajanaghat in the district of Nadia. When the turmoil had subsided, Harikrishna Gosvami of
-the line of the youngest son returned to Bodhkhana and installed a new Deity, also named Pranavallabha. Since then, in
-Bodhkhana the descendants of the eldest son serve the ancient Pranavallabha and those of the youngest the new one, while
+raids, the line of Kanai's eldest son stayed on in Bodhkhana, while the others, led by Vamshivadana, fled and
+settled in the village of Bhajanaghat in the district of Nadia. When the turmoil had subsided, Harikrishna Gosvami, from
+the youngest son's line, came back to Bodhkhana and installed a new Deity, also named Pranavallabha. Since then the eldest
+son's descendants serve the ancient Pranavallabha there, and the youngest son's the new one, while
 in Bhajanaghat Sri Radha-vallabha is served. <!-- F30 F41 -->
 
-According to his descendants, Kanu Thakura appeared in the year 1457 of the Shaka era (942 of the Bengali era), on a
-Thursday, the second tithi of the bright fortnight of Ashadha — the day of the Ratha-yatra.[^10] Some count him too among
+According to his descendants, Kanu Thakura appeared in the year 1457 of the Shaka era (942 of the Bengali era), on
+Thursday, shukla-dvitiya of the month of Ashadha, which was Ratha-yatra day.[^10] Some count him too among
 the twelve gopalas; the “Abhidhana” names him Ujjvala-gopala in the pastimes of Vraja. According to the
-“Prema-vilasa,” Kanu Thakura was at the festival in Kheturi together with Jahnava Devi and Virabhadra Prabhu: among the
+“Prema-vilasa,” Kanu Thakura was at the festival in Kheturi together with Virabhadra Prabhu and Jahnava Devi: among the
 branches of Nityananda it names “Hariharananda, Kanu Thakura — a jewel of virtues” (19.146), and in the retinue of
 Jahnava, who came from Khardaha with Virachandra, “Kanai” (19.306–309). His disciples live in the village of Garbeta on
 the Shilavati River in the district of Medinipur; his famous disciple was the brahmana Shrirama, of the Rarhi brahmanas,
-of the Kauthumi branch of the “Sama-veda.” <!-- F37 F35 F42 F43 -->
+of the “Sama-veda”'s Kauthumi branch. <!-- F37 F35 F42 F43 -->
 
 ## Shripat and Deities
 Purushottama's shripat was formerly in Sukhasagara, equidistant from the stations of Chakdaha and Simurali; according to
@@ -164,19 +163,19 @@ The Deities installed by Purushottama formerly resided in Beledanga. When Beleda
 brought to Sukhasagara. When the river swallowed Sukhasagara too, They were brought, together with the Deities of the
 gadi — the seat — of Jahnava Mata, Nityananda's consort, which was in the same place, to Sahebdanga-Berigram; and when
 Berigram also was destroyed, to the village of Chandure.[^11] By the time Srila Bhaktisiddhanta wrote of this, the
-Deities had already resided in Chandure for about fifty years. Chandure stands on the Bhagirathi, in the district of
+Deities had already resided in Chandure for some fifty years. Chandure lies on the Bhagirathi, in the district of
 Nadia, under the Chakdaha police station, a mile from Simurali station and a mile's walk from Palpara, upstream of it.
-Old Sukhasagara is no more — the river swallowed it; the new Sukhasagara lies three or four miles from Chandure, south
-of Kaliganj. <!-- F25 F26 -->
+Old Sukhasagara is no more — the river swallowed it; the new Sukhasagara lies south of Kaliganj, three or four miles
+from Chandure. <!-- F25 F26 -->
 
 The temple in Chandure was then a simple hut with a thatched roof and mud walls. In it were served Sri Jagannatha,
 Balarama and Subhadra, two pairs of Nitai-Gaura, Gopinatha, Jahnava Mata, Bala-gopala, five pairs of Radha-Govinda,
-Revati and Balarama, and a shalagrama. Some of these shri-murtis were installed by Purushottama Thakura himself; the
-rest, it is said, came from Jahnava Devi's gadi. Hence the shripat is also called “the pat of Vasu and Jahnava,” after the
+Revati and Balarama, and a shalagrama. Purushottama Thakura himself installed some of these shri-murtis; the
+rest, it is said, came from Jahnava Devi's gadi. The shripat is also known as “the pat of Vasu and Jahnava,” after the
 names of Nityananda's consorts. Service here passed from mahanta to mahanta: Gopala Dasa Mahanta, Ramakrishna, Vihari
 Dasa, Rama Dasa, another Gopala Dasa and, at that time, the aged Sitanatha Dasa. The Deities of Purushottama, brought to
-Chandure (Chanduria) after the loss of Sukhasagara, are served to this day together with his other Deities under the care of the
-Ganga family of Jirat. <!-- F27 F28 F29 -->
+Chandure (Chanduria) after the loss of Sukhasagara, were at that time, according to Srila Bhaktisiddhanta, served together with his other Deities under the
+supervision of the line of Ganga of Jirat. <!-- F27 F28 F29 -->
 
 ## Disciples
 His disciple was Devakinandana Dasa, the author of the “Vaishnava-vandana”; the vandana itself says so, and therefore
@@ -190,12 +189,12 @@ Devakinandana himself calls him his guru: in the Bengali vandana, “my chosen m
 wish-fulfilling tree that grants every desire” (pt. 3, v. 1), and, listing Nityananda's companions, he calls him “my
 supreme one — Srila Sri Purushottama” (v. 31). Devakinandana was his mantra disciple. <!-- F31 Q6 -->
 
-Srila Bhaktisiddhanta speaks of his four dearest disciples, the best of brahmanas: first Madhavacharya, then Yadavacharya
+Srila Bhaktisiddhanta quotes lines about his four dearest disciples, the best of brahmanas: first Madhavacharya, then Yadavacharya
 Pandita and Daivakinandana (Devakinandana) Dasa; the fourth is not named. One of the biographies names three chief disciples — Madhavacharya,
 Yadavacharya and Devakinandana, all three from brahmana families.[^12] About Madhavacharya — Madhava Chattopadhyaya of
 Jirat, the husband of Ganga, Nityananda's daughter — opinions differ: some hold him a disciple of Nityananda Prabhu
-Himself, others of Jahnava Devi, still others of Purushottama Thakura. Many disciples of both Purushottama and Kanu
-Thakura were brahmanas by birth (*shaukra* brahmanas). <!-- F32 F33 F34 -->
+Himself, others of Jahnava Devi, still others of Purushottama Thakura. Both Purushottama and Kanu
+Thakura counted many brahmanas by birth (*shaukra* brahmanas) among their disciples. <!-- F32 F33 F34 -->
 
 ## Departure
 Where and when Purushottama Dasa appeared in this world and when he withdrew from it, the sources do not say; nor do
@@ -206,8 +205,8 @@ have not come down to us. <!-- F17 -->
 
 ## Significance
 Purushottama Dasa is Krishna's eternal friend Dama, who came into Gaura's pastimes as a companion of Nityananda. From
-birth he was absorbed in service to Nityananda's feet and always played with Krishna, and Nityananda Himself dwelt and
-played in his heart, so that for him nothing external existed. <!-- F2 F18 F20 -->
+birth he was absorbed in service to Nityananda's feet and always played with Krishna, and Nityananda Himself played
+in his heart, so that for him nothing external existed. <!-- F2 F18 F20 -->
 
 His family shows how generous the Lord's mercy is: four generations in a row, from grandfather to son, were perfected
 associates of Gaura. The power of his prema, revealed in the madness of love, is the same that lived in all of
@@ -230,8 +229,10 @@ Lord's associates are glorified. <!-- F12 F31 I1 I2 -->
     Nagara Purushottama — in Vraja the friend Dama; and the “Charitamrita” (Adi 11.38–40) plainly makes Sadashiva's son
     the father of Kanu, while the “Chaitanya-bhagavata” calls this son Purushottama Dasa. The biography gives the
     descendants' view without this answer. We follow the “Gaura-ganoddesha-dipika” (131) and Srila Bhaktisiddhanta.
-[^4]: One of the biographies ascribes this explanation to the “Gaudiya-vaishnava-abhidhana,” but it is not in that work's
-    article on Purushottama-Nagara. Another biography speaks only of five villages — Beledanga, Berigram, Sukhasagara,
+[^4]: One of the biographies gives this explanation in brackets within a quotation from the “Gaudiya-vaishnava-abhidhana,”
+    but it is not in that work's article on Purushottama-Nagara. It goes back to Srila Bhaktisiddhanta's “Anubhashya” on
+    the verse about Mahesha Pandita (CC, Adi 11.32): Palpara belongs to the pargana of Panchanagar, which has fourteen
+    mauzas, and so some call these parts Nagardesh; Purushottama is not mentioned there. Another biography speaks only of five villages — Beledanga, Berigram, Sukhasagara,
     Manasapota and Palpara — which lie so close together that the region is sometimes called Nagaradesha; it does not
     name Chandure.
 [^5]: This numbering belongs to the headings of the edition (as does “Purushottama, the tenth gopala”), not to the words
@@ -247,7 +248,7 @@ Lord's associates are glorified. <!-- F12 F31 I1 I2 -->
     once reports that in his fifth year the boy went with Jahnava to Vrindavana. The “Gaudiya-vaishnava-abhidhana”
     speaks of “a twelve-day-old infant,” other biographies say that the mother left right after his birth or “when the
     son was still very small.” Most likely twelve days are meant; we write “the infant.”
-[^10]: According to another biography, Kanu Thakura appeared on the day of the Ratha-yatra of the year 1450 Shaka; in
+[^10]: According to another biography, Kanu Thakura appeared on Ratha-yatra day in 1450 Shaka; in
     the “Gaudiya-vaishnava-abhidhana” the year seems to be 1453. We do not reconcile these dates.
 [^11]: One of the biographies understands this as though the Deities were moved from Berigram to Chandure “some three or
     four miles”; in Srila Bhaktisiddhanta, three or four miles is the distance from Chandure to the new Sukhasagara.
