@@ -621,10 +621,9 @@ His mercy, and by the effect the cause is known. <!-- F176 F177 I13 -->
 Rupa was then writing the “Vidagdha-madhava.” On the leaf the Lord read a newly composed verse in glory of the Name —
 and was plunged into prema:
 
-“How much sweetness these two syllables ‘Krish-na’ contain! I cannot even imagine it. As soon as one utters Krishna's
-name, it seems to dance on the tongue, and then one wishes to have thousands of mouths. When this name enters the ears,
-one wishes to have millions of ears. And when the holy name of Krishna begins to dance in the courtyard of the heart, it
-conquers the mind, and all the senses fall still.” (“Vidagdha-madhava,” 1.15; CC, Antya 1.99)[^38]
+“I do not know with how many nectars the two syllables ‘Krish-na’ were born. When they dance on the lips, they make one
+long for many mouths; when they sprout in the hollows of the ears, they make one yearn for millions of ears; and when they
+come as a companion into the courtyard of the mind, they conquer the workings of all the senses.” (“Vidagdha-madhava,” 1.15; CC, Antya 1.99)[^38]
 <!-- F178 F179 F180 F181 Q37 -->
 
 Hearing it, the nama-acharya Haridasa Thakura in rapture began to glorify the meaning of the verse and broke into a
@@ -650,18 +649,17 @@ Ramananda asked what book Rupa was writing, that it held such a treasury of unpr
 two dramas: the “Vidagdha-madhava,” about the pastimes in Vraja, and the “Lalita-madhava,” about the pastimes in the
 cities (pura-lila). At Ramananda's request Rupa read the nandi-shloka of the “Vidagdha-madhava”:
 
-“May these pastimes of Krishna lessen all the sufferings of this world and dispel all unworthy desires. These pastimes
-are as sweet as shikharini (a mixture of yoghurt and sugar candy). They bring to nothing the pride even of the nectar made
-on Chandra-loka, for they spread so strong and enchanting a fragrance of the loving relationships of Srimati Radharani and
-the other gopis.” (“Vidagdha-madhava,” 1.1; CC, Antya 1.128) <!-- F186 F187 Q38 -->
+“May Hari's pastimes, a sweet shikharini drink, wholly take away your thirst, born on the rough road of worldly life that
+breeds suffering on every side. Their sweetness humbles the pride even of the moon's nectar, and the camphor of the love of
+Radha and Her companions lends them their fragrance.” (“Vidagdha-madhava,” 1.1; CC, Antya 1.128) <!-- F186 F187 Q38 -->
 
 Then Ramananda asked him to read the verse of benediction describing Rupa's chosen Deity. Rupa was abashed and silent: the
 subject of the verse was the Lord Himself, seated beside him. “In an assembly of Vaishnavas there is nothing to be shy of
 in reading the very essence of one's book,” said Ramananda, and at the Lord's insistence Rupa read:
 
-“May the Supreme Lord, who has come as the son of Srimati Shachidevi, abide for ever in the innermost region of your
-heart. Shining with the colour of molten gold, He has by His causeless mercy descended in this age of Kali to give what no
-Avatara offered before — the most exalted mood of loving service to God, the rasa of conjugal love.”
+“May the Lord Hari, the son of Shachi, illumined by a mass of lustre more beautiful than gold, ever shine in the inmost
+cave of your hearts. Out of His mercy He has descended in the age of Kali to bestow what had not been given for a very long
+time — the treasure of devotion to Himself, rich in the most exalted, radiant ujjvala-rasa.”
 (“Vidagdha-madhava,” 1.2; CC, Antya 1.132) <!-- F188 F189 Q39 -->
 
 Ramananda asked about the various parts of the “Vidagdha-madhava,” and Rupa answered every question with great humility,
