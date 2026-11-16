@@ -782,3 +782,5 @@
 | @rama-kanai-baghnapara | Рама-Канаи — Божества Багхнапары | Rama-Kanai, the Deities of Baghnapara | Рама и Кришна, найденные @ramai-jahnava у Праскандана-тиртхи во Врадже (B 912; T 68) |
 | @gopinatha-khanakul | Гопинатха — Божество Абхирамы Тхакура (Кханакул) | Gopinatha, the Deity of Abhirama Thakura (Khanakul) | явился во сне и обретён при рытье Рама-кунды (БР 4.113–119); плита пробирного камня с лилой похищения одежд (B 914–915; T 88; M 1) |
 | @vedagarbha-acharya | Ведагарбха Ачарья | Vedagarbha Acharya | ученик @abhirama, его стих — БР 4.112; по «Шакха-нирнае» («Анубхашья» к ЧЧ Ади 11.13) жил в Кайяре (Бардхаман) |
+| @radha-gopinatha-antpur | Радха-Гопинатха — Божества Парамешвари даса (Атпур) | Radha-Gopinatha, the Deities of Parameshvari Dasa (Atpur) | установил @parameshvara-dasa по велению @jahnava (БР 13.245–246; B 920; T 89, 200); ныне на одном троне с Баладевой («Анубхашья» к ЧЧ Ади 11.29; B 918) |
+| @gaura-deity-antpur | Божество Гауранги, которому служил Парамешвари дас (Атпур) | the Deity of Gauranga served by Parameshvari Dasa (Atpur) | по «Гаудия-бхашье» к ЧБ Антья 5.95–96 в Нём проявился Махапрабху (B 919; T 89) |
