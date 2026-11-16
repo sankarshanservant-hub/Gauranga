@@ -50,9 +50,9 @@ Therefore even such great personalities as Brahma and Shiva glorify it. By touch
 this world is purified. How then does this scoundrel dare to say that My body is made of illusion?’” (CB, Madhya
 3.36–40)
 
-One of the biographies explains: many reciters of the Vedas, failing to understand such mantras as “Without hands and
-feet, He is swift and grasps…” (“Shvetashvatara Upanishad” 3.19), imagine the Lord to be without hands and feet,
-whereas these words say only that His body is not made of matter. <!-- F8 Q9 -->
+One of the biographies explains: there are many who recite the Vedas without grasping such mantras as “Without hands
+and feet, He is swift and grasps…” (“Shvetashvatara Upanishad” 3.19), and so picture the Lord as having neither hands nor
+feet, whereas these words say only that His body is not made of matter. <!-- F8 Q9 -->
 
 Another time, again in Murari's house, the Lord gave him His betel and joked that by touching His remnants Murari had
 lost his caste. And at once He entered the mood of the Supreme Lord:
@@ -91,9 +91,10 @@ After His sannyasa, on His way to Vrindavana, the Lord stopped briefly in Varana
 sings and dances. He does not hear Vedanta, but performs sankirtana. This foolish sannyasi does not know His own
 dharma; a sentimentalist Himself, He wanders about with sentimentalists.’” (CC, Adi 7.40–42)
 
-Their reproach rested on a rule of smriti: a sannyasi must give up *tauryatrika* — singing, dancing and playing
-instruments — and always study Vedanta. Seeing that the new sannyasi did not listen to Shankara's teaching but sang of
-Krishna and danced, intoxicated with love, the sannyasis of Kashi judged Him ignorant of the dharma of renunciation. But
+Their reproach rested on a rule of smriti: one who has renounced the world is to abandon *tauryatrika* — song, dance
+and instrumental music — and devote himself always to Vedanta. Because the new sannyasi paid no heed to Shankara's
+teaching, but sang of Krishna and danced in the rapture of love, the Kashi sannyasis judged Him ignorant of the dharma of
+renunciation. But
 the Lord's songs, dancing and tears are prema, not worldly *tauryatrika*; the Mayavadi, Srila Bhaktisiddhanta explains
 in the “Anubhashya,” confuses the Lord's transcendental emotions with mundane singing and dancing.
 
@@ -158,11 +159,11 @@ the Lord does not go to anyone's house, but, inspired by the Lord Himself, he pr
 Adi 7.56–57)
 
 The Lord, who until then had answered His revilers with nothing but a smile, accepted the invitation not for the sake of
-honour: it was a means to save the sannyasis, and the request itself He had placed in the brahmana's heart. In the
+honour: it was a means to save the sannyasis, and the request itself He had inspired in the brahmana. In the
 Adi-lila the brahmana is not named; in the second account (Madhya 25.7–15) he is the same brahmana from Maharashtra who
 had earlier heard Prakashananda's mockery.[^4] <!-- F21 I1 -->
 
-Next day the Lord came to the brahmana's house, where the sannyasis of Varanasi were already seated. He Himself had
+Next day the Lord arrived at the brahmana's home and found the sannyasis of Varanasi already seated. He Himself had
 taken sannyasa in the Bharati branch, and so He acknowledged the Sarasvati branch, to which Prakashananda belonged, as
 the higher, and called Himself a sannyasi of the lower. Thus, as a Vaishnava sannyasi, He showed the dharma of *amani-manada*: to seek no honour
 for oneself and to give honour to others.
@@ -195,8 +196,8 @@ From the Krishna-mantra will come release from samsara, and by Krishna's name Yo
 of Kali there is no dharma other than the name; the name is the essence of all mantras — this is the heart of the
 scriptures.’” (CC, Adi 7.72–74)
 
-Chanting the name, the Lord went on, I lost My composure: I laugh, weep, dance and sing like a madman. I told My guru of
-this, and he replied: such is the nature of the maha-mantra; it is well that You have attained love for Krishna, the
+Chanting the name, the Lord went on, I lost My composure: like a madman I laugh and weep, I dance, I sing. When I
+spoke of it to My guru, he replied: this is simply what the maha-mantra does; it is well that You have attained love for Krishna, the
 highest goal of life, and by Your love my own life has been crowned with success.
 
 “‘Dance, sing and perform sankirtana with the devotees; teach Krishna's name and deliver all people.’” (CC, Adi 7.92)
@@ -205,7 +206,7 @@ The words “I am a fool” and “I am lower” are not an admission of ignoran
 Vedanta speaks here as a student, to show who is fit for Vedanta: the humble one, who seeks no honour — so Srila
 Bhaktisiddhanta explains in the “Anubhashya.” <!-- F27 Q4 I2 -->
 
-The Lord's sweet words changed the mood of the assembly:
+His sweet words turned the hearts of the whole assembly:
 
 “‘All that You have said is true: love for Krishna is attained only by one whose good fortune has dawned. You have
 devotion for Krishna, and we are all pleased with that. But why do You not hear Vedanta? What fault is there in it?’”
@@ -308,8 +309,8 @@ thousands of people called out, ‘Hari! Hari!’ An auspicious sound arose, fil
 Seeing the Lord's dance, His love and the sweetness of His form, he too, with his disciples, called out, ‘Hari!
 Hari!’” (CC, Madhya 25.65–66)
 
-He was struck, says one of the biographies, by the Lord's extraordinary beauty, His childlike humility, His generosity
-and magnanimity. And the people of Kashi marvelled to see joy, humility, restlessness and the other *sanchari-bhavas*
+He was struck, says one of the biographies, by the Lord's wondrous beauty, by His humility, simple as a child's, and by
+the largeness and bounty of His heart. And the people of Kashi marvelled to see joy, humility, restlessness and the other *sanchari-bhavas*
 succeed one another in the Lord (25.67). <!-- F42 -->
 
 Noticing the crowd around Him and the sannyasis led by Prakashananda, the Lord stopped dancing. And then something
@@ -358,8 +359,8 @@ Thus the Lord revealed to Prakashananda the bhakti-siddhanta handed down in the 
 by Srila Bhaktivinoda Thakura in the “Amrita-pravaha-bhashya” and by the biographies — and showed that the
 “Srimad-Bhagavatam” is the natural commentary on the “Brahma-sutra.” True Vedanta is bhakti. <!-- F46 I4 -->
 
-Then the brahmana from Maharashtra told the assembly how the Lord had once given sixty-one explanations of the
-“atmarama” verse; everyone wished to hear them, and the Lord explained them again, while the people marvelled and felt
+Then the brahmana from Maharashtra told the assembly how the Lord had once explained the
+“atmarama” verse in sixty-one ways; everyone wished to hear them, and the Lord explained them again, while the people marvelled and felt
 that He was Krishna Himself (25.153–156). <!-- F47 -->
 
 “All the residents of Kashi took up the sankirtana of the Name; in love they laughed, wept, sang and danced. The
@@ -367,7 +368,7 @@ sannyasis and panditas began to study the *Bhagavatam*. Thus the Lord delivered 
 25.158–159)
 
 From that day, the biographies say, the sannyasis of Kashi became devotees of Mahaprabhu: Prakashananda and all the
-sannyasis fell at His feet and glorified Him, and the stream of nectar of the holy name washed away the false doctrine
+sannyasis fell at His feet and glorified Him, and the nectar-stream of the holy name swept away the false teaching
 of an impersonal Absolute. Varanasi became like Navadvipa, and the Lord, smiling, said to the devotees: no one would
 take My wares here, and I thought I would have to carry them back; but you were grieved, and so I have given them to
 everyone free (25.160–163). <!-- F48 -->
@@ -379,8 +380,8 @@ summary of the pastimes Kaviraja mentions it in a single line:
 “He sent him to Mathura, investing him with the strength of bhakti; then, after showing mercy to the sannyasi, He went
 to Nilachala.” (CC, Madhya 1.245)
 
-Srila Bhaktisiddhanta writes in the “Anubhashya” (on Madhya 25.1) that the Lord brought the sannyasis of Kashi, headed
-by Prakashananda, onto the path of pure bhakti. <!-- F49 F50 -->
+Srila Bhaktisiddhanta writes in the “Anubhashya” (on Madhya 25.1) that the Lord brought the Kashi sannyasis, with
+Prakashananda at their head, onto the path of pure bhakti. <!-- F49 F50 -->
 
 According to the “Anubhashya” and one of the biographies, this took place in the year 1435 of the Shaka era
 (1513).[^9] <!-- F51 -->
@@ -419,9 +420,9 @@ according to the “Charitamrita.” <!-- F53 F54 F55 -->
 Prakashananda is sometimes identified with Prabodhananda Sarasvati — the tridandi of the Sri-sampradaya from Shrirangam,
 uncle and teacher of Gopala Bhatta Gosvami, author of the “Chaitanya-chandramrita.” Srila Bhaktisiddhanta Sarasvati
 rejects this identification. In the “Gaudiya-bhashya” (on CB, Madhya 3.37) he writes that inexperienced people take
-Prakashananda to be the same person as Prabodhananda, the younger brother of Venkata Bhatta from the banks of the
-Kaveri; this error entered the sahajiya “Bhakta-mala” of Lal Dasa, and from there, to a greater or lesser degree, the
-works of many modern authors. In the “Anubhashya” (on Adi 7.149 and Madhya 17.104) he says the same, and on Madhya 25.45
+Prakashananda to be one with Prabodhananda, Venkata Bhatta's younger brother from the Kaveri; the mistake
+crept into the sahajiya “Bhakta-mala” of Lal Dasa, and from there, more or less, into the books of many recent
+authors. In the “Anubhashya” (on Adi 7.149 and Madhya 17.104) he says the same, and on Madhya 25.45
 adds: there is no evidence that after his deliverance Prakashananda received the name “Prabodhananda.” And the
 “Charitamrita” itself, which describes the change in him in such detail, says not a word about a new name. The whole
 dispute, with all its arguments, is examined in the article on Prabodhananda Sarasvati.[^11] <!-- F56 Q11 Q12 I6 -->
