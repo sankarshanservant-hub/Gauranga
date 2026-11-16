@@ -2,7 +2,7 @@
 *Шикхи Махити · @shikhi-mahiti*
 
 ## Scribe of Jagannatha's Temple
-In Purushottama-kshetra, at the temple of Sri Jagannatha, served an Oriya named Shikhi Mahiti, one of the most
+In Purushottama-kshetra, at the temple of Sri Jagannatha, lived Shikhi Mahiti, one of the most
 intimate companions of Sri Chaitanya Mahaprabhu in Nilachala. The original sources spell his name in several ways:
 “Shikhi Mahiti” (CC, Adi 10.136–137; Antya 2.103, 2.106), “Shikhi Mahati” (CC, Madhya 10.42, 10.44;
 “Gaura-ganoddesha-dipika” 189; Karnapura's drama “Chaitanya-chandrodaya”; “Bhakti-ratnakara”), and simply “Shikhi”
@@ -59,7 +59,7 @@ Bhaktisiddhanta in the “Anubhashya” to CC, Adi 10.136.[^3] The “Charitamri
 
 The younger brother and sister had been unshakably devoted to Gaurasundara from birth: their innate, pure mind never for
 a moment allowed them to forget Gaura. “The Moon of Vrindavana,” such was their conviction, “has now risen on earth as
-Gaurachandra.” And Krishna Himself, appearing as Gaurachandra, says the “Anubhashya,” constantly nourished in this
+Gaurachandra” (13.93). And Krishna Himself, appearing as Gaurachandra, says the “Anubhashya,” constantly nourished in this
 brother and sister their auspicious love for Gaura.[^4] Through them His mercy touched their elder brother as well, who
 was wholly absorbed in the service of Jagannatha. <!-- F12 I1 -->
 
@@ -69,17 +69,17 @@ worldly unbelief. So the Lord arranged His pastime, to reveal both the power of 
 own mercy. <!-- F20 -->
 
 One day, after his siblings' instructions and long talks with them, he fell asleep, and as the night was ending he
-started from a dream: his younger brother and sister, who beheld Gaura's lotus feet, were waking him. At this wondrous
+started from a dream: he dreamt that his younger brother and sister, who behold Gaura's lotus feet, were waking him. At this wondrous
 dream the hair of his body stood on end, joy shook him twice over, and his eyes filled with tears. Opening his eyes, he
 saw that his brother and sister had indeed come to him, and in great joy he embraced them, and they were astonished.[^5]
 Then he told them his dream:
 
-“Brother, listen to the dream I have had — it is most wonderful. Only today have I become convinced that the glory of
+“‘Brother, listen to the dream I have had — it is most wonderful. Only today have I become convinced that the glory of
 Sri Shachi's son is immeasurable. I saw Gaurasundara looking at the Lord of Nilachala, entering into Him moment after
 moment, coming out again and again and looking at Him once more — such is the pastime He was displaying. How
 wonderful! Even now I see the Supreme Lord Gaurasundara in that very state — are my eyes deceiving me? Ah, that ocean of
 boundless mercy, Gaurasundara, saw me near Jagannatha-deva, called me by name and, as it were, embraced me with His
-long, raised, graceful arms.” (“Anubhashya” to CC, Adi 10.136)
+long, raised, graceful arms.’” (“Anubhashya” to CC, Adi 10.136)
 
 In Karnapura the Lord's arms are “long, mighty, gracefully reaching to the knees” (13.102). <!-- F21 F22 F23 -->
 
@@ -122,9 +122,9 @@ brother as well:
 
 In Karnapura's drama Sarvabhauma says: “This is Shikhi Mahiti, in charge of the records, and these are his two
 brothers”;[^7] and the “Gaura-krishnodaya” names Shikhi and Murari among those servants of Jagannatha who, introduced
-by Sarvabhauma, took shelter of the Lord (11.5). Karnapura in his mahakavya tells of Shikhi's dream at the same point
-in the narrative at which the “Charitamrita” tells of the introduction, after the Lord's return from the south; but
-whether this is one event, and which came first, the sources do not say. <!-- F30 -->
+by Sarvabhauma, took shelter of the Lord (11.5). Karnapura in his mahakavya also tells of Shikhi's dream soon after the Lord's
+return from the south, before the Bengali devotees arrive; but how this event relates to the introduction in Kashi
+Mishra's house, and which came first, the sources do not say. <!-- F30 -->
 
 When the Bengali devotees came from Gauda to Puri, Shikhi Mahiti was among those residents of the Kshetra who joyfully
 went out with the Lord to meet them (CB, Antya 8.56–61). Murari Gupta names him here too: “the one known as Shikhi
@@ -150,7 +150,7 @@ Immediately afterwards Kaviraja Gosvami reveals who Shikhi's sister and Shikhi h
 persons: Svarupa Gosani, Ramananda Raya and Shikhi Mahiti are the three, and his sister is the half.” (CC, Antya
 2.105–106)
 
-The Lord Himself “enrols” them in Radhika's company (*gana*): these three and a half are the only ones in all the world
+The Lord Himself “enrols” (*lekha kare*) them in Radhika's company (*gana*): these three and a half are the only ones in all the world
 worthy (*patra*) of His most intimate bhava, the mood of Sri Radha. Their closeness to the Lord is not worldly
 friendship or kinship but the closeness of service to Radha. It is the “Charitamrita” itself that calls Madhavi the
 “half,” and we shall not interpret the word on our own. <!-- F4 Q3 -->
