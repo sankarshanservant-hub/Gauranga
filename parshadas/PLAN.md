@@ -162,7 +162,7 @@ B — вероятно, больше сотни).
 | @balabhadra-bhattacharya (062) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @shikhi-mahiti (063) | ✓ | ✓ (PDF) | ✓ сплошная |
 | @madhavi-devi (064) | ✓ | ✓ (PDF) | ✓ сплошная |
-| @pradyumna-mishra (065) | в работе | — | — |
+| @pradyumna-mishra (065) | ✓ | в работе | — |
 | @jayadeva (066) | ✓ | в работе | — |
 | @ishana-navadvipa (067, Ишана Тхакур) | в работе | — | — |
 
