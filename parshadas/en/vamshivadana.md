@@ -167,8 +167,8 @@ Vamshi lived as a householder; the biographies call this his *grihastha-lila* �
 the role of a householder, not worldly family life. He had two sons — Sri Nityananda Dasa (also called Nitai Dasa) and Sri
 Chaitanya Dasa. <!-- F23 F24 -->
 
-Chaitanya Dasa was close to Sri Jahnava. When she set out for the great festival at Kheturi, he came to her with his
-people:
+Of Chaitanya Dasa the “Narottama-vilasa” tells. When Sri Jahnava, on her way to the great festival at Kheturi, was at
+Ambika, he came there with his people:
 
 “Sri Vamshivadana's son Sri Chaitanya Dasa at that moment came with his people to Prabhu. Seeing the feet of Sri Jahnava
 Ishvari, he thought himself blessed; streams flowed from both his eyes.” (“Narottama-vilasa,” 6.221–222)
