@@ -4185,6 +4185,9 @@
    "cc-4118",
    "cb-3115",
    "cc-4119",
+   "vlm-0150",
+   "vlm-0151",
+   "vlm-0153",
    "gkd-0154",
    "cc-4004",
    "apr-0124",
@@ -4451,6 +4454,7 @@
    "bkm-0011",
    "lcm-0249",
    "vlm-0148",
+   "vlm-0149",
    "gkd-0186",
    "apr-0145",
    "gkd-0187",
@@ -4690,6 +4694,8 @@
    "ev-parameshvara-modaka",
    "ev-rupa-arrives-haridasa-puri",
    "ev-lord-debt-gauda-devotees",
+   "ev-nagara-kirtan-khol-origin",
+   "ev-odisha-kirtan-circuit",
    "ev-rupa-gauda-anupama-passing",
    "ev-satyabhama-dream-rupa",
    "ev-sanatana-suicide-forbidden",
@@ -6039,6 +6045,7 @@
   "note": "",
   "section": "",
   "lilas": [
+   "vlm-0152",
    "brt-6080",
    "pvl-0241",
    "pvl-0190",
@@ -6055,6 +6062,7 @@
    "jcm-0068"
   ],
   "events": [
+   "ev-lord-ancestors-jajpur",
    "ev-advaita-birth",
    "ev-srivasa-saved-from-death",
    "ev-associates-descend",
@@ -6690,6 +6698,7 @@
   "note": "Орисса; река Вайтарани, Вараха, Вираджа, Набхи-гая, «город Шивы»",
   "section": "",
   "lilas": [
+   "vlm-0152",
    "apr-0011",
    "gkr-0022",
    "gkd-0064",
@@ -6705,12 +6714,14 @@
    "lcm-0204",
    "kcm-0142",
    "cc-2105",
+   "vlm-0151",
    "brt-0043",
    "pvl-0020",
    "brt-0076",
    "nvl-0031"
   ],
   "events": [
+   "ev-lord-ancestors-jajpur",
    "ev-advaita-pilgrimage",
    "ev-journey-to-puri",
    "ev-remuna-gopala",
@@ -6719,6 +6730,7 @@
    "ev-ekamra-bhubaneshvara",
    "ev-gauda-devotees-arrive-puri",
    "ev-ramananda-farewell-remuna",
+   "ev-odisha-kirtan-circuit",
    "ev-srinivasa-birth",
    "ev-gadadhara-departure",
    "ev-srinivasa-dream-nitai-advaita",
@@ -6748,6 +6760,7 @@
    "mkc-0160",
    "kcm-0169",
    "cc-2102",
+   "vlm-0151",
    "nvv-0070"
   ],
   "events": [
@@ -6756,6 +6769,7 @@
    "ev-ekamra-bhubaneshvara",
    "ev-departure-for-gauda",
    "ev-prataparudra-farewell-six-armed",
+   "ev-odisha-kirtan-circuit",
    "ev-legend-shiva-bhuvaneshvara"
   ]
  },
@@ -7018,6 +7032,7 @@
    "gkd-0107",
    "mkc-0241",
    "cc-0324",
+   "vlm-0151",
    "cc-4022",
    "cc-4093"
   ],
@@ -7028,6 +7043,7 @@
    "ev-return-from-south",
    "ev-kashi-mishra-residence",
    "ev-snana-yatra-anavasara-alalanatha",
+   "ev-odisha-kirtan-circuit",
    "ev-chhota-haridasa-punished",
    "ev-gopinatha-pattanayaka-pardoned"
   ]
@@ -8028,7 +8044,8 @@
    "brt-4014",
    "cc-2104",
    "vlm-0128",
-   "vv-0065"
+   "vv-0065",
+   "vlm-0151"
   ],
   "events": [
    "ev-sakshi-gopala-two-brahmins",
@@ -8041,7 +8058,8 @@
    "ev-prataparudra-farewell-six-armed",
    "ev-gadadhara-leaves-kshetra-sannyasa",
    "ev-ramakeli-rupa-sanatana",
-   "ev-gauda-devotees-yearly-visit"
+   "ev-gauda-devotees-yearly-visit",
+   "ev-odisha-kirtan-circuit"
   ]
  },
  {
@@ -11390,9 +11408,11 @@
   "note": "храм Солнца на побережье к северо-востоку от Пури; волны унесли Господа в сторону Конарка (ЧЧ Антья 18.31)",
   "section": "",
   "lilas": [
+   "vlm-0151",
    "cc-4156"
   ],
   "events": [
+   "ev-odisha-kirtan-circuit",
    "ev-fall-into-ocean-fisherman"
   ]
  },
@@ -12826,10 +12846,12 @@
   "note": "Орисса; по орийской традиции — родная деревня Джаядевы (бенгальская традиция — Кендули в Бирбхуме)",
   "section": "",
   "lilas": [
-   "vlm-0107"
+   "vlm-0107",
+   "vlm-0151"
   ],
   "events": [
-   "ev-jayadeva-in-puri"
+   "ev-jayadeva-in-puri",
+   "ev-odisha-kirtan-circuit"
   ]
  },
  {
@@ -12839,10 +12861,12 @@
   "note": "Орисса, на р. Прачи; Джаядева служил Мадхаве («Вайшнава-лиламрита» 2.58)",
   "section": "",
   "lilas": [
-   "vlm-0107"
+   "vlm-0107",
+   "vlm-0151"
   ],
   "events": [
-   "ev-jayadeva-in-puri"
+   "ev-jayadeva-in-puri",
+   "ev-odisha-kirtan-circuit"
   ]
  },
  {

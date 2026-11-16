@@ -3344,6 +3344,57 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0152",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 8, 70–80",
+  "file": "vaishnava-lilamrita/ru/08.md",
+  "period": "P01",
+  "order": 0.5,
+  "title": "Джаджпур — родовое место Прабху: дед Упендра Мишра, бегство в Шрихатту; родичи чтят Господа",
+  "summary": "На Дашашвамедха-гхате в Яджанагаре (Джаджпуре) — родовое место Прабху: дед Упендра, ведийский брахман из Ватсасы, владелец шасаны, пандит в шести даршанах, из страха перед Капилешвара-девой бежал в Шрихатту; его сын — Джаганнатха, от него — Прабху; родичи, узнав Его, поклоняются Его стопам, украшают дома и чтят Его.",
+  "persons": [
+   "@mahaprabhu",
+   "@upendra-mishra",
+   "@jagannatha-mishra",
+   "@kapilendra"
+  ],
+  "places": [
+   "#jajpur",
+   "#shrihatta"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 13",
+  "notes": "",
+  "themes": [
+   "family"
+  ],
+  "divergence": "В ЧЧ Упендра Мишра живёт в Шрихатте; о происхождении из Ориссы не сказано.",
+  "event": "ev-lord-ancestors-jajpur",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.70",
+    "to": "8.80"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.70",
+    "to": "8.80",
+    "line": 85,
+    "line_to": 95,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/08.md?plain=1#L85-L95",
+    "file_en": "vaishnava-lilamrita/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/08.md?plain=1#L85-L95"
+   }
+  ],
+  "cc": "Ади 13 (Упендра Мишра — в Шрихатте; об Ориссе не сказано)",
+  "attestation": 1
+ },
+ {
   "id": "apr-0002",
   "source": "advaita-prakasha",
   "ref": "Гл. 1, 16–53",
@@ -198057,6 +198108,223 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0150",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 8, 1–30",
+  "file": "vaishnava-lilamrita/ru/08.md",
+  "period": "P14",
+  "order": 7,
+  "title": "Нагара-киртан и тряпица на мриданге: откуда «кхол»",
+  "summary": "На рассвете Прабху с Панчасакхой и двумя мридангистами ведёт нагара-киртан; ребёнок, бросившись смотреть, падает с пинды, мать в гневе бросает в киртан тряпицы с нечистотами; Прабху в трепете кладёт их на мридангу: «Это не нечистоты — это сандал», — и велит впредь покрывать мридангу тканью; так мриданга стала называться кхол.",
+  "persons": [
+   "@mahaprabhu",
+   "@balarama-dasa-odia",
+   "@jagannatha-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Народная этимология слова «кхол» (сноски).",
+  "themes": [
+   "kirtan",
+   "mercy"
+  ],
+  "divergence": "В ЧЧ/ЧБ нет; нагара-киртан там — прежде всего в Навадвипе (ЧЧ Ади 17).",
+  "event": "ev-nagara-kirtan-khol-origin",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.1",
+    "to": "8.30"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.1",
+    "to": "8.30",
+    "line": 8,
+    "line_to": 41,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/08.md?plain=1#L8-L41",
+    "file_en": "vaishnava-lilamrita/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/08.md?plain=1#L8-L41"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0151",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 8, 31–69, 81–85",
+  "file": "vaishnava-lilamrita/ru/08.md",
+  "period": "P14",
+  "order": 8,
+  "title": "Годовой круг киртана по Ориссе: Аларнатх, Экамра, Ниали, Кендули, Чандрабхага, Катак",
+  "summary": "Прабху зовёт Панчасакху странствовать с киртаном: в анавасару — в Аларнатх, где Рамананда чествует вайшнавов; в пауша-пурниму — в Экамра-кшетру к Ананта-Васудеве и Лингарадже; затем Ниали и Кендули на Макара-мелу, Чандрабхага и служение Солнцу, Какатпур, Дола в Катаке у Пратапарудры, Вираджа и Вайтарани, Туласи-кшетра — и к Снана-ятре назад в Пури, год за годом.",
+  "persons": [
+   "@mahaprabhu",
+   "@balarama-dasa-odia",
+   "@jagannatha-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia",
+   "@ramananda-raya",
+   "@prataparudra"
+  ],
+  "places": [
+   "#alalanatha",
+   "#bhubaneshvara",
+   "#niali",
+   "#kenduli-prachi",
+   "#konark",
+   "#cuttack",
+   "#jajpur",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 11 (Аларнатх в анавасару)",
+  "notes": "Пояснения о Лингарадже-Харихаре (Шива — лучший из вайшнавов, Бхаг. 12.13.16), поклонении Солнцу (Брахма-самхита 5.52), Мангале (5.44) — в сносках.",
+  "themes": [
+   "pilgrimage",
+   "kirtan",
+   "festival"
+  ],
+  "divergence": "В ЧЧ последние годы Господа проходят в Пури; круга странствий по Ориссе нет.",
+  "event": "ev-odisha-kirtan-circuit",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.31",
+    "to": "8.69"
+   },
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.81",
+    "to": "8.85"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.31",
+    "to": "8.69",
+    "line": 42,
+    "line_to": 84,
+    "count": 39,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/08.md?plain=1#L42-L84",
+    "file_en": "vaishnava-lilamrita/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/08.md?plain=1#L42-L84"
+   },
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.81",
+    "to": "8.85",
+    "line": 96,
+    "line_to": 100,
+    "count": 5,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/08.md?plain=1#L96-L100",
+    "file_en": "vaishnava-lilamrita/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/08.md?plain=1#L96-L100"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0153",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 8, 86–102, P0–P4 (продолжается)",
+  "file": "vaishnava-lilamrita/ru/08.md",
+  "period": "P14",
+  "order": 8.5,
+  "title": "Роли в киртане: Панчасакха, Гададхара и Сварупа в Пури; плоды киртана; «Бхагавата» Свами; песня Джаги Даса",
+  "summary": "Свами — гуру киртана, Баларама — зачинатель бхава-расы, Ананта и Яшованта — знатоки киртана; Гададхара не покидает Тота-Гопинатху, Сварупа слаб телом и никуда не ходит; киртан Панчасакхи дарует детей бездетным и спасает от зверей; рукописям «Бхагаваты» Свами поклоняются в деревнях; приведена песня «Льнёт мой ум к Твоим стопам, Гиридхара» с подписью Джаги Даса.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@balarama-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia",
+   "@gadadhara-pandita",
+   "@svarupa-damodara"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 16 (кшетра-санньяса Гададхары)",
+  "notes": "Высший плод киртана — према (Шикшаштака 1; сноска).",
+  "themes": [
+   "kirtan",
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name"
+  ],
+  "divergence": "В ЧЧ о болезни Сварупы нет; первый знаток расы — Сварупа Дамодара.",
+  "event": "ev-odisha-kirtan-circuit",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.86",
+    "to": "8.P4"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/08.md",
+    "from": "8.86",
+    "to": "8.P4",
+    "line": 101,
+    "line_to": 129,
+    "count": 22,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/08.md?plain=1#L101-L129",
+    "file_en": "vaishnava-lilamrita/en/08.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/08.md?plain=1#L101-L129"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
+ },
+ {
   "id": "cc-4003",
   "source": "cc",
   "ref": "Антья 1.34–39",
@@ -220387,6 +220655,74 @@
     "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/07.md?plain=1#L137-L148"
    }
   ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 7
+ },
+ {
+  "id": "vlm-0149",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 7, 126–148",
+  "file": "vaishnava-lilamrita/ru/07.md",
+  "period": "P14",
+  "order": 901,
+  "title": "Махабхава Прабху (окончание): Гундича, пруды, Свами кормит Его; Панчасакха всегда при Нём",
+  "summary": "Прабху созерцает облик Кришны в мандапе Гундичи, теряет чувства, катается в пыли, бежит к Нарендре и Маркандее, неистово танцует в киртане, не помнит о сне и еде; Свами насильно кормит Его; рядом со Сварупой Он являет махабхаву; Свами знает Его бхаву и просит отдать ум киртану; Прабху велит Панчасакхе всегда быть при Нём; подпись главы.",
+  "persons": [
+   "@mahaprabhu",
+   "@jagannatha-dasa-odia",
+   "@svarupa-damodara",
+   "@balarama-dasa-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@yashovanta-odia"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 14–20",
+  "notes": "Нара-лила — ЧЧ Мадхья 21 (сноска).",
+  "themes": [
+   "ecstasy",
+   "separation",
+   "kirtan"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "divergence": "Заботу о Господе и знание Его бхавы Мадхава приписывает Свами; в ЧЧ — Сварупе Дамодаре и Рамананде (Антья 14–20).",
+  "event": "ev-gambhira-divine-madness",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.126",
+    "to": "7.148"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/07.md",
+    "from": "7.126",
+    "to": "7.148",
+    "line": 153,
+    "line_to": 175,
+    "count": 23,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/07.md?plain=1#L153-L175",
+    "file_en": "vaishnava-lilamrita/en/07.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/07.md?plain=1#L153-L175"
+   }
+  ],
+  "cc": "Антья 14–18; Ади 4, 13; Мадхья 2; Антья 6, 9, 11–12, 19",
   "years": [
    1516,
    1533

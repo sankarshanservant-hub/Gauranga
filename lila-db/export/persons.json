@@ -31,6 +31,7 @@
    "gst-0023",
    "lcm-0028",
    "apr-0022",
+   "vlm-0152",
    "brt-2003",
    "brt-2004",
    "brt-2007",
@@ -2857,6 +2858,9 @@
    "cc-4118",
    "cb-3115",
    "cc-4119",
+   "vlm-0150",
+   "vlm-0151",
+   "vlm-0153",
    "apr-0124",
    "cc-4002",
    "ccd-0088",
@@ -3165,6 +3169,7 @@
    "brt-3046",
    "lcm-0249",
    "vlm-0148",
+   "vlm-0149",
    "krn-0002",
    "gkd-0186",
    "apr-0145",
@@ -3743,6 +3748,7 @@
    "ev-krishna-resolves-gaura-advent",
    "ev-narada-shvetadvipa-balarama",
    "ev-brahma-steals-calves-haridasa",
+   "ev-lord-ancestors-jajpur",
    "ev-advaita-parents-conception",
    "ev-advaita-birth",
    "ev-advaita-pilgrimage",
@@ -4327,6 +4333,8 @@
    "ev-parameshvara-modaka",
    "ev-rupa-arrives-haridasa-puri",
    "ev-lord-debt-gauda-devotees",
+   "ev-nagara-kirtan-khol-origin",
+   "ev-odisha-kirtan-circuit",
    "ev-sanatana-suicide-forbidden",
    "ev-priyah-so-yam-rupa",
    "ev-tunde-tandavini",
@@ -8576,6 +8584,7 @@
    "mkc-0009",
    "lcm-0022",
    "lcm-0027",
+   "vlm-0152",
    "jcm-0013",
    "mkc-0003",
    "cc-0038",
@@ -8779,6 +8788,7 @@
    "ev-narada-dvaraka-rukmini",
    "ev-gaura-advent-proclaimed",
    "ev-gaura-reveals-reasons-advent",
+   "ev-lord-ancestors-jajpur",
    "ev-navadvipa-vaishnavas-before-advent",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
@@ -13956,6 +13966,7 @@
    "cc-3128",
    "cc-0353",
    "apr-0119",
+   "vlm-0153",
    "cb-3121",
    "cc-4043",
    "vlm-0137",
@@ -14196,6 +14207,7 @@
    "ev-return-to-puri-from-vrindavana",
    "ev-puri-eighteen-years-associates",
    "ev-gauda-devotees-yearly-visit",
+   "ev-odisha-kirtan-circuit",
    "ev-sanatana-puri-sores",
    "ev-mahamantra-order-dispute",
    "ev-lord-writes-in-gadadhara-gita",
@@ -20072,6 +20084,7 @@
    "cc-0353",
    "vlm-0130",
    "vlm-0147",
+   "vlm-0151",
    "apr-0128",
    "cc-4010",
    "gkd-0156",
@@ -20196,6 +20209,7 @@
    "ev-puri-eighteen-years-associates",
    "ev-rupa-taught-by-ramananda-jagannatha-dasa",
    "ev-prataparudra-proclaims-chaitanya-prabhu",
+   "ev-odisha-kirtan-circuit",
    "ev-rupa-puri-dramas",
    "ev-rupa-sends-book-to-lord",
    "ev-atibada-name",
@@ -20656,6 +20670,7 @@
    "gst-0002",
    "gst-0013",
    "ccd-0092",
+   "vlm-0153",
    "cc-4002",
    "vlm-0132",
    "cc-0302",
@@ -20761,6 +20776,7 @@
    "cc-4170",
    "cc-4168",
    "mkc-0253",
+   "vlm-0149",
    "gst-0017",
    "anv-0011",
    "brt-0071",
@@ -20848,6 +20864,7 @@
    "ev-lord-daily-routine-puri",
    "ev-dola-yatra-puri",
    "ev-gauda-devotees-yearly-visit",
+   "ev-odisha-kirtan-circuit",
    "ev-shivananda-dog",
    "ev-sanatana-suicide-forbidden",
    "ev-priyah-so-yam-rupa",
@@ -21376,6 +21393,7 @@
    "ccd-0087",
    "vlm-0146",
    "vlm-0147",
+   "vlm-0151",
    "vlm-0136",
    "cc-0169",
    "cc-4092",
@@ -21450,6 +21468,7 @@
    "ev-return-to-puri-from-vrindavana",
    "ev-kondavidu-fall-virabhadra",
    "ev-prataparudra-proclaims-chaitanya-prabhu",
+   "ev-odisha-kirtan-circuit",
    "ev-balarama-dasa-sand-chariot",
    "ev-kamalakanta-letter-prataparudra",
    "ev-gopinatha-pattanayaka-pardoned",
@@ -47066,10 +47085,14 @@
    "vlm-0125",
    "vlm-0146",
    "vlm-0147",
+   "vlm-0150",
+   "vlm-0151",
+   "vlm-0153",
    "vlm-0135",
    "vlm-0136",
    "vlm-0144",
    "vlm-0145",
+   "vlm-0149",
    "vlm-0104"
   ],
   "events": [
@@ -47077,10 +47100,13 @@
    "ev-ratha-yatra-gundicha",
    "ev-kondavidu-fall-virabhadra",
    "ev-prataparudra-proclaims-chaitanya-prabhu",
+   "ev-nagara-kirtan-khol-origin",
+   "ev-odisha-kirtan-circuit",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
    "ev-svami-initiated-by-balarama-dasa",
-   "ev-govardhana-shila-gunja-gift"
+   "ev-govardhana-shila-gunja-gift",
+   "ev-gambhira-divine-madness"
   ]
  },
  {
@@ -47534,6 +47560,9 @@
    "vlm-0131",
    "vlm-0146",
    "vlm-0147",
+   "vlm-0150",
+   "vlm-0151",
+   "vlm-0153",
    "vlm-0133",
    "vlm-0134",
    "vlm-0135",
@@ -47544,6 +47573,7 @@
    "vlm-0143",
    "vlm-0144",
    "vlm-0145",
+   "vlm-0149",
    "vlm-0104"
   ],
   "events": [
@@ -47554,6 +47584,8 @@
    "ev-kabir-in-puri",
    "ev-kondavidu-fall-virabhadra",
    "ev-prataparudra-proclaims-chaitanya-prabhu",
+   "ev-nagara-kirtan-khol-origin",
+   "ev-odisha-kirtan-circuit",
    "ev-sanatana-taught-jagannatha-dasa",
    "ev-vallabha-bhatta-puri",
    "ev-atibada-name",
@@ -47563,7 +47595,8 @@
    "ev-gaudiyas-leave-nilachala",
    "ev-shikshashtaka-recitation",
    "ev-svami-initiated-by-balarama-dasa",
-   "ev-govardhana-shila-gunja-gift"
+   "ev-govardhana-shila-gunja-gift",
+   "ev-gambhira-divine-madness"
   ]
  },
  {
@@ -50014,12 +50047,14 @@
   "note": "дед Господа по отцу, вайшнав из Шрихатты, отец семерых сыновей (ЧЧ Ади 13.56–58; ГГД 35 — пастух Парджанья)",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0152",
    "cc-0188",
    "pvl-0263",
    "brt-6018",
    "pvl-0268"
   ],
   "events": [
+   "ev-lord-ancestors-jajpur",
    "ev-mishra-family-migrates-navadvipa",
    "ev-vishvarupa-birth",
    "ev-shrihatta-grandparents"
@@ -55630,11 +55665,15 @@
    "vlm-0125",
    "vlm-0146",
    "vlm-0147",
+   "vlm-0150",
+   "vlm-0151",
+   "vlm-0153",
    "vlm-0132",
    "vlm-0135",
    "vlm-0136",
    "vlm-0137",
    "vlm-0145",
+   "vlm-0149",
    "vlm-0104"
   ],
   "events": [
@@ -55642,11 +55681,14 @@
    "ev-ratha-yatra-gundicha",
    "ev-kondavidu-fall-virabhadra",
    "ev-prataparudra-proclaims-chaitanya-prabhu",
+   "ev-nagara-kirtan-khol-origin",
+   "ev-odisha-kirtan-circuit",
    "ev-sanatana-suicide-forbidden",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
-   "ev-govardhana-shila-gunja-gift"
+   "ev-govardhana-shila-gunja-gift",
+   "ev-gambhira-divine-madness"
   ]
  },
  {
@@ -55660,11 +55702,15 @@
    "vlm-0125",
    "vlm-0146",
    "vlm-0147",
+   "vlm-0150",
+   "vlm-0151",
+   "vlm-0153",
    "vlm-0132",
    "vlm-0135",
    "vlm-0136",
    "vlm-0137",
    "vlm-0145",
+   "vlm-0149",
    "vlm-0104"
   ],
   "events": [
@@ -55672,11 +55718,14 @@
    "ev-ratha-yatra-gundicha",
    "ev-kondavidu-fall-virabhadra",
    "ev-prataparudra-proclaims-chaitanya-prabhu",
+   "ev-nagara-kirtan-khol-origin",
+   "ev-odisha-kirtan-circuit",
    "ev-sanatana-suicide-forbidden",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
    "ev-mahamantra-order-dispute",
-   "ev-govardhana-shila-gunja-gift"
+   "ev-govardhana-shila-gunja-gift",
+   "ev-gambhira-divine-madness"
   ]
  },
  {
@@ -55690,10 +55739,14 @@
    "vlm-0125",
    "vlm-0146",
    "vlm-0147",
+   "vlm-0150",
+   "vlm-0151",
+   "vlm-0153",
    "vlm-0132",
    "vlm-0135",
    "vlm-0136",
    "vlm-0145",
+   "vlm-0149",
    "vlm-0104"
   ],
   "events": [
@@ -55701,10 +55754,13 @@
    "ev-ratha-yatra-gundicha",
    "ev-kondavidu-fall-virabhadra",
    "ev-prataparudra-proclaims-chaitanya-prabhu",
+   "ev-nagara-kirtan-khol-origin",
+   "ev-odisha-kirtan-circuit",
    "ev-sanatana-suicide-forbidden",
    "ev-atibada-name",
    "ev-balarama-dasa-sand-chariot",
-   "ev-govardhana-shila-gunja-gift"
+   "ev-govardhana-shila-gunja-gift",
+   "ev-gambhira-divine-madness"
   ]
  },
  {
@@ -55823,11 +55879,13 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0110",
-   "vlm-0111"
+   "vlm-0111",
+   "vlm-0152"
   ],
   "events": [
    "ev-meghanada-wall",
-   "ev-purushottama-chhera-panhara-kanchi"
+   "ev-purushottama-chhera-panhara-kanchi",
+   "ev-lord-ancestors-jajpur"
   ]
  },
  {

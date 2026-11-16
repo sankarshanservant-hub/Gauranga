@@ -170,6 +170,10 @@
 
 - vaishnava-lilamrita (C): Гл. 3, 1–46 — [3.1–3.46](../vaishnava-lilamrita/ru/03.md?plain=1#L6-L55) · `vlm-0112`
 
+## Предки Господа в Джаджпуре: Упендра Мишра бежит от Капилендры в Шрихатту / The Lord's ancestors at Jajpur: Upendra Mishra flees Kapilendra for Shrihatta  `ev-lord-ancestors-jajpur`
+
+- vaishnava-lilamrita (C): Гл. 8, 70–80 — [8.70–8.80](../vaishnava-lilamrita/ru/08.md?plain=1#L85-L95) · `vlm-0152`
+
 ## Кубера Ачарья и Лабха: зачатие Адвайты / Kubera Acharya and Labha: the conception of Advaita  `ev-advaita-parents-conception`
 
 - advaita-prakasha (D): Гл. 1, 16–53 — [16. Лабха-деви–53. Прасадом В](../advaita-prakash/01.md?plain=1#L20-L57) · `apr-0002`
@@ -5309,6 +5313,15 @@
 
 - cc (A): Антья 12.61–85 — [61–85](../chaitanya-charitamrita/vcd/txt/ШБ.txt?plain=1#L778-L1080) · `cc-4119`
 
+## Нагара-киртан в Пури: тряпица ребёнка на мриданге — откуда название «кхол» / Nagara-kirtan in Puri: the child's cloth on the mridanga — how the 'khol' got its name  `ev-nagara-kirtan-khol-origin` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 8, 1–30 — [8.1–8.30](../vaishnava-lilamrita/ru/08.md?plain=1#L8-L41) · `vlm-0150`
+
+## Ежегодный круг киртана по Ориссе с Панчасакхой / The yearly kirtan circuit through Odisha with the Panchasakha  `ev-odisha-kirtan-circuit` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 8, 31–69, 81–85 — [8.31–8.69](../vaishnava-lilamrita/ru/08.md?plain=1#L42-L84); [8.81–8.85](../vaishnava-lilamrita/ru/08.md?plain=1#L96-L100) · `vlm-0151`
+- vaishnava-lilamrita (C): Гл. 8, 86–102, P0–P4 (продолжается) — [8.86–8.P4](../vaishnava-lilamrita/ru/08.md?plain=1#L101-L129) · `vlm-0153`
+
 ## Рупа уходит в Гауду; кончина Анупамы / Rupa goes to Gauda; the passing of Anupama  `ev-rupa-gauda-anupama-passing` (1516–1533, возраст 30–47, оценка)
 
 - cc (A): Мадхья 25.209–214 — [209–214](../chaitanya-charitamrita/ed/vcd/CC_Madhya25.md?plain=1#L1744-L1784) · `cc-3127`
@@ -5941,6 +5954,7 @@
 - padas (C): Без подписи (ГПТ — Васу Гхош; рук. П-Р-Са — Говинда Дас), ПК 1663 «চেতন পাইয়া গোরা রায়» — [17.1–17.5](../padas/ru/03.md?plain=1#L524-L536) · `pad-0058`
 - cc (A): Антья 18.3–23 — [3–23](../chaitanya-charitamrita/vcd/new/CC_Antya18.md?plain=1#L41-L238) · `cc-4155`
 - vaishnava-lilamrita (C): Гл. 7, 114–125 (продолжается) — [7.114–7.125](../vaishnava-lilamrita/ru/07.md?plain=1#L137-L148) · `vlm-0148`
+- vaishnava-lilamrita (C): Гл. 7, 126–148 — [7.126–7.148](../vaishnava-lilamrita/ru/07.md?plain=1#L153-L175) · `vlm-0149`
 
 ## Господь видит во сне раса-лилу и томится в разлуке / The Lord sees the rasa-lila in a dream and pines in separation  `ev-rasa-dream-separation` (1516–1533, возраст 30–47, оценка)
 
