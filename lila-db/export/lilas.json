@@ -6059,6 +6059,55 @@
   "attestation": 5
  },
  {
+  "id": "vlm-0114",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 3, 78–83",
+  "file": "vaishnava-lilamrita/ru/03.md",
+  "period": "P01",
+  "order": 1.76,
+  "title": "Мадхавендра, Ишвара и Рагхава в доме Бхавананды в Бентапуре",
+  "summary": "По приглашению Бхавананды Мадхавендра с учениками Ишварой и Рагхавой, идя к Пурушоттаме, останавливается в Бентапуре и полмесяца в пхалгуне совершает киртан имени Хари под мридангу и гини.",
+  "persons": [
+   "@madhavendra-puri",
+   "@ishvara-puri",
+   "@raghavendra-puri",
+   "@bhavananda-raya"
+  ],
+  "places": [
+   "#bentapur"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "",
+  "notes": "«Рагхава» — возможно, Рагхавендра Пури (не выяснено). Анк в 3.83 не прочитан.",
+  "themes": [
+   "kirtan"
+  ],
+  "divergence": "Посещения Бентапура в ЧЧ нет.",
+  "event": "ev-madhavendra-bentapur-kirtan",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.78",
+    "to": "3.83"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.78",
+    "to": "3.83",
+    "line": 91,
+    "line_to": 96,
+    "count": 6,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/03.md?plain=1#L91-L96",
+    "file_en": "vaishnava-lilamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/03.md?plain=1#L91-L96"
+   }
+  ],
+  "attestation": 1
+ },
+ {
   "id": "apr-0020",
   "source": "advaita-prakasha",
   "ref": "Гл. 6, 1–77",
@@ -31843,7 +31892,7 @@
    10,
    22
   ],
-  "attestation": 1
+  "attestation": 2
  },
  {
   "id": "nvv-0068",
@@ -31908,6 +31957,67 @@
    22
   ],
   "attestation": 1
+ },
+ {
+  "id": "vlm-0116",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 3, 114–121",
+  "file": "vaishnava-lilamrita/ru/03.md",
+  "period": "P05",
+  "order": 3,
+  "date": "пхалгуна 5-го анка Пратапарудры (≈1500)",
+  "title": "Уход Мадхавендры Пури в Ремуне",
+  "summary": "Мадхавендра, покинув Кшетру, живёт в Ремуна-катаке и ежедневно совершает киртан перед Гопинатхой, проливая слёзы премы; в пхалгуне 5-го анка он уходит, воспевая имя; царь скорбит и прославляет его перед Бхаванандой.",
+  "persons": [
+   "@madhavendra-puri",
+   "@gopinatha-remuna",
+   "@prataparudra",
+   "@bhavananda-raya"
+  ],
+  "places": [
+   "#remuna"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 8",
+  "notes": "«Отошёл на небо» — обычное у Мадхавы выражение для ухода (сноска перевода); для гаудия-вайшнавов Мадхавендра вошёл в вечную лилу. Самадхи Мадхавендры почитается в Ремуне.",
+  "themes": [
+   "departure"
+  ],
+  "years": [
+   1500,
+   1500
+  ],
+  "date_conf": "оценка",
+  "date_basis": "«Вайшнава-лиламрита» 3.117: пхалгуна 5-го анка Пратапарудры",
+  "divergence": "В ЧЧ (Антья 8) он уходит, повторяя «айи дина-даярдра натха»; место и время не названы.",
+  "event": "ev-madhavendra-puri-departure",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.114",
+    "to": "3.121"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.114",
+    "to": "3.121",
+    "line": 131,
+    "line_to": 138,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/03.md?plain=1#L131-L138",
+    "file_en": "vaishnava-lilamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/03.md?plain=1#L131-L138"
+   }
+  ],
+  "cc": "Антья 8.16–35",
+  "age": [
+   14,
+   14
+  ],
+  "attestation": 2
  },
  {
   "id": "cb-0071",
@@ -38180,6 +38290,136 @@
    22
   ],
   "attestation": 11
+ },
+ {
+  "id": "vlm-0117",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 3, 122–131",
+  "file": "vaishnava-lilamrita/ru/03.md",
+  "period": "P05",
+  "order": 50,
+  "title": "Рамананда Рай ставит «Джаганнатха-валлабху» в храме; титул «Рай»",
+  "summary": "Рамананда, сильный в учёности, сочиняет песенные драмы, среди них «Джаганнатха-валлабху»; с одобрения царя её пять дней играют в Ната-мандире на Дола-ятре в пхалгуне 8-го анка; царь дарует Рамананде титул «Рай» и золотой жезл.",
+  "persons": [
+   "@ramananda-raya",
+   "@prataparudra",
+   "@jagannatha-deity",
+   "@radha",
+   "@krishna"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 5 (Рамананда учит девадаси своей драме)",
+  "notes": "",
+  "themes": [
+   "jagannatha",
+   "festival"
+  ],
+  "scriptures": [
+   "Джаганнатха-валлабха-натака"
+  ],
+  "event": "ev-jagannatha-vallabha-first-staging",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.122",
+    "to": "3.131"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.122",
+    "to": "3.131",
+    "line": 139,
+    "line_to": 148,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/03.md?plain=1#L139-L148",
+    "file_en": "vaishnava-lilamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/03.md?plain=1#L139-L148"
+   }
+  ],
+  "years": [
+   1504,
+   1505
+  ],
+  "date_conf": "оценка",
+  "date_basis": "«Вайшнава-лиламрита» 3.126: пхалгуна 8-го анка Пратапарудры",
+  "cc": "Мадхья 10–11 (Рамананда учит девадаси своей драме — позднее)",
+  "age": [
+   18,
+   19
+  ],
+  "attestation": 1
+ },
+ {
+  "id": "vlm-0118",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 3, 132–151",
+  "file": "vaishnava-lilamrita/ru/03.md",
+  "period": "P05",
+  "order": 52,
+  "title": "Рамананда — правитель Раджамахендри; голод; погружённость в расу и упрёк царя",
+  "summary": "В 9-й анк царь посылает Рамананду править Раджамахендри, и тот берёт с собой автора; в 13-й анк голод, Рамананда спасает людей; Бхавананда уходит; Рамананда, совершая омовение на Годавари, день и ночь живёт киртаном, песнями и «Гита-говиндой»; царь упрекает его: время войны, а он говорит о расе Кришны. Подпись главы.",
+  "persons": [
+   "@ramananda-raya",
+   "@prataparudra",
+   "@madhava-pattanayaka",
+   "@bhavananda-raya",
+   "@gopinatha-pattanayaka",
+   "@vaninatha-raya",
+   "@kalanidhi",
+   "@sudhanidhi"
+  ],
+  "places": [
+   "#rajamahendri",
+   "#godavari"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 8 (Рамананда на Годавари)",
+  "notes": "Автор — при Рамананде, очевидец.",
+  "themes": [
+   "kirtan",
+   "learning"
+  ],
+  "divergence": "В ЧЧ Рамананда правит в Видьянагаре на Годавари; Бхавананда, по ЧЧ, жив при Махапрабху (Мадхья 10, Антья 9), а по Мадхаве уходит ≈1507.",
+  "event": "ev-ramananda-governor-rajamahendri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.132",
+    "to": "3.151"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.132",
+    "to": "3.151",
+    "line": 149,
+    "line_to": 168,
+    "count": 20,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/03.md?plain=1#L149-L168",
+    "file_en": "vaishnava-lilamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/03.md?plain=1#L149-L168"
+   }
+  ],
+  "years": [
+   1505,
+   1509
+  ],
+  "date_conf": "оценка",
+  "date_basis": "«Вайшнава-лиламрита» 3.132–139: 9-й и 13-й анки Пратапарудры",
+  "cc": "Мадхья 8 (Рамананда — правитель в Видьянагаре)",
+  "age": [
+   19,
+   23
+  ],
+  "attestation": 1
  },
  {
   "id": "lcm-0076",
@@ -128204,6 +128444,68 @@
   "attestation": 5
  },
  {
+  "id": "vlm-0119",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 4, 1–27",
+  "file": "vaishnava-lilamrita/ru/04.md",
+  "period": "P09",
+  "order": 990,
+  "title": "Пратапарудра: южная война, набег Исмаила Гази, Божества укрыты у Чилики",
+  "summary": "Гаджапати Пратапарудра воюет на юге с Кришнараем; с севера на Кшетру идёт Исмаил Гази; служители увозят Божества на слонах в крепость Кенкал и прячут в пещере Чадхеи у Чилики; царь, узнав, в гневе возвращается, со словами «это царство — Твоё» прогоняет млеччх до Мандарагады и вновь уходит на юг, памятуя Имя.",
+  "persons": [
+   "@prataparudra",
+   "@ismail-gazi",
+   "@krishnadeva-raya",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri",
+   "#chilika"
+  ],
+  "kind": "pre-advent",
+  "authority": "C",
+  "parallels": "ЧБ Антья 4 (Хусейн-шах и храмы Ориссы)",
+  "notes": "Похвала царю как «частице Вишну» (4.2) — придворная формула (сноска перевода).",
+  "themes": [
+   "jagannatha",
+   "muslims"
+  ],
+  "divergence": "Мадхава относит приход Махапрабху в Пури ко времени этой войны (4.27–28).",
+  "event": "ev-ismail-gazi-raid-deities-hidden",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.1",
+    "to": "4.27"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.1",
+    "to": "4.27",
+    "line": 6,
+    "line_to": 32,
+    "count": 27,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L6-L32",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L6-L32"
+   }
+  ],
+  "years": [
+   1509,
+   1510
+  ],
+  "date_conf": "вероятно",
+  "date_basis": "«Вайшнава-лиламрита» 4.8: 15-й анк Пратапарудры; набег Исмаила Гази по историческим данным ≈1509–1510",
+  "cb": "Антья 4 (упоминание Хусейн-шаха, разрушителя храмов Ориссы)",
+  "age": [
+   23,
+   24
+  ],
+  "attestation": 1
+ },
+ {
   "id": "apr-0088",
   "source": "advaita-prakasha",
   "ref": "Гл. 15, 122–126",
@@ -128756,7 +129058,7 @@
   "id": "vlm-0001",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 4, 28–35",
-  "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+  "file": "vaishnava-lilamrita/ru/04.md",
   "period": "P10",
   "order": 5,
   "title": "Юный санньяси Кришна Чайтанья в Пури: обморок перед Джаганнатхой, дом Сарвабхаумы",
@@ -128783,20 +129085,22 @@
   "event": "ev-sarvabhauma-meeting",
   "verses": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.28",
     "to": "4.35"
    }
   ],
   "verses_resolved": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.28",
     "to": "4.35",
-    "line": 6,
-    "line_to": 13,
+    "line": 36,
+    "line_to": 43,
     "count": 8,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L6-L13"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L36-L43",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L37-L44"
    }
   ],
   "years": [
@@ -130093,7 +130397,7 @@
   "id": "vlm-0002",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 4, 36–50",
-  "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+  "file": "vaishnava-lilamrita/ru/04.md",
   "period": "P10",
   "order": 12,
   "title": "Чайтанья и Джаганнатха Дас у Бата-Ганеши",
@@ -130117,20 +130421,22 @@
   "event": "ev-jagannatha-dasa-bhagavata-meeting",
   "verses": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.36",
     "to": "4.50"
    }
   ],
   "verses_resolved": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.36",
     "to": "4.50",
-    "line": 14,
-    "line_to": 28,
+    "line": 44,
+    "line_to": 58,
     "count": 15,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L14-L28"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L44-L58",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L45-L59"
    }
   ],
   "years": [
@@ -130650,7 +130956,7 @@
   "id": "vlm-0003",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 4, 51–58",
-  "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+  "file": "vaishnava-lilamrita/ru/04.md",
   "period": "P10",
   "order": 20,
   "title": "Споры с Сарвабхаумой; саттвика-бхавы Господа и прозрение Сарвабхаумы",
@@ -130676,20 +130982,22 @@
   "event": "ev-sarvabhauma-deliverance",
   "verses": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.51",
     "to": "4.58"
    }
   ],
   "verses_resolved": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.51",
     "to": "4.58",
-    "line": 29,
-    "line_to": 36,
+    "line": 59,
+    "line_to": 66,
     "count": 8,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L29-L36"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L59-L66",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L60-L67"
    }
   ],
   "cb": "Антья 3",
@@ -135767,7 +136075,7 @@
   "id": "vlm-0004",
   "source": "vaishnava-lilamrita",
   "ref": "Гл. 4, 59–81",
-  "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+  "file": "vaishnava-lilamrita/ru/04.md",
   "period": "P11",
   "order": 30,
   "title": "Совет Сарвабхаумы и встреча с Раманандой Раем на Годавари",
@@ -135793,20 +136101,22 @@
   "event": "ev-ramananda-raya-godavari",
   "verses": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.59",
     "to": "4.81"
    }
   ],
   "verses_resolved": [
    {
-    "file": "oriya-pilot/vaishnava-lilamrita/ru.md",
+    "file": "vaishnava-lilamrita/ru/04.md",
     "from": "4.59",
     "to": "4.81",
-    "line": 37,
-    "line_to": 59,
+    "line": 67,
+    "line_to": 89,
     "count": 23,
-    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L37-L59"
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L67-L89",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L68-L90"
    }
   ],
   "years": [
@@ -268017,6 +268327,55 @@
    }
   ],
   "attestation": 2
+ },
+ {
+  "id": "vlm-0115",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 3, 84–113",
+  "file": "vaishnava-lilamrita/ru/03.md",
+  "period": "PX",
+  "order": 5,
+  "title": "Мадхава Паттанаяк о себе: сирота из Кхандапады у Мадхавендры и в доме Бхавананды; ученик и писец Рамананды",
+  "summary": "В 21 год, потеряв родителей, автор уходит из Кхандапады в Кшетру; в Бентапуре видит киртан Мадхавендры и просит взять его; тот отсылает юношу к Бхавананде, а Рамананда, его старший сын, берёт мальчика-карана к себе, учит грамоте и поручает свои дела.",
+  "persons": [
+   "@madhava-pattanayaka",
+   "@madhavendra-puri",
+   "@raghavendra-puri",
+   "@bhavananda-raya",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#khandapada",
+   "#bentapur"
+  ],
+  "kind": "author",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Автобиография очевидца; ср. 1.54–68 (Рамананда — «кормилец» автора).",
+  "themes": [
+   "author"
+  ],
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.84",
+    "to": "3.113"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/03.md",
+    "from": "3.84",
+    "to": "3.113",
+    "line": 97,
+    "line_to": 130,
+    "count": 30,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/03.md?plain=1#L97-L130",
+    "file_en": "vaishnava-lilamrita/en/03.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/03.md?plain=1#L97-L130"
+   }
+  ],
+  "attestation": 1
  },
  {
   "id": "jcm-0007",

@@ -281,6 +281,10 @@
 - vaishnava-lilamrita (C): Гл. 3, 47–77 (продолжается) — [3.47–3.77](../vaishnava-lilamrita/ru/03.md?plain=1#L56-L86) · `vlm-0113`
 - cc (A): Мадхья 4.143–169 — [143–169](../chaitanya-charitamrita/ed/vcd/CC_Madhya04.md?plain=1#L1150-L1358) · `cc-1031`
 
+## Мадхавендра Пури с учениками в Бентапуре, в доме Бхавананды / Madhavendra Puri and his disciples at Bentapur, in Bhavananda's house  `ev-madhavendra-bentapur-kirtan`
+
+- vaishnava-lilamrita (C): Гл. 3, 78–83 — [3.78–3.83](../vaishnava-lilamrita/ru/03.md?plain=1#L91-L96) · `vlm-0114`
+
 ## Имя «Адвайта»: победа над дигвиджайи Шьямадасой / The name 'Advaita': victory over the digvijayi Shyamadasa  `ev-advaita-name-digvijayi`
 
 - advaita-prakasha (D): Гл. 6, 1–77 — [1. Слава, слав–77. Через неск](../advaita-prakash/06.md?plain=1#L5-L81) · `apr-0020`
@@ -1053,6 +1057,7 @@
 ## Уход Мадхавендры Пури: отвержение Рамачандры Пури и благословение Ишвары Пури / Madhavendra Puri's departure: rejection of Ramachandra Puri and blessing of Ishvara Puri  `ev-madhavendra-puri-departure` (1496–1508, возраст 10–22, оценка)
 
 - cc (A): Антья 8.16–35 — [16–35](../chaitanya-charitamrita/vcd/txt/CC_Antya08.txt?plain=1#L200-L448) · `cc-4086`
+- vaishnava-lilamrita (C): Гл. 3, 114–121 — [3.114–3.121](../vaishnava-lilamrita/ru/03.md?plain=1#L131-L138) · `vlm-0116`
 
 ## Рождение Кришнадаса (Кришна Мишры), сына Адвайты; младенец отдан Шри / The birth of Krishnadasa (Krishna Mishra), Advaita's son; the infant given to Shri  `ev-krishna-mishra-birth` (1496–1508, возраст 10–22, оценка)
 
@@ -1219,6 +1224,14 @@
 ## Рождение Баларамы, четвёртого сына Адвайты / The birth of Balarama, Advaita's fourth son  `ev-balarama-mishra-birth` (1496–1508, возраст 10–22, оценка)
 
 - advaita-prakasha (D): Гл. 15, 1–13 — [1. Слава, слав–13. Одарив все](../advaita-prakash/15.md?plain=1#L5-L17) · `apr-0077`
+
+## Первая постановка «Джаганнатха-валлабхи» Рамананды Рая / First staging of Ramananda Raya's Jagannatha-vallabha  `ev-jagannatha-vallabha-first-staging` (1504–1505, возраст 18–19, оценка)
+
+- vaishnava-lilamrita (C): Гл. 3, 122–131 — [3.122–3.131](../vaishnava-lilamrita/ru/03.md?plain=1#L139-L148) · `vlm-0117`
+
+## Рамананда Рай — правитель на Годавари / Ramananda Raya as governor on the Godavari  `ev-ramananda-governor-rajamahendri` (1505–1509, возраст 19–23, оценка)
+
+- vaishnava-lilamrita (C): Гл. 3, 132–151 — [3.132–3.151](../vaishnava-lilamrita/ru/03.md?plain=1#L149-L168) · `vlm-0118`
 
 ## Прогулки Господа с друзьями к Ганге / The Lord's evening walks to the Ganga with friends  `ev-evening-strolls-ganga` (1496–1508, возраст 10–22, оценка)
 
@@ -3355,6 +3368,10 @@
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 133–146 — [133–146](../lochana/ru/45.md?plain=1#L70-L109) · `lcm-0208`
 - murari-kcc (A): Пракрама 3, сарга 10, шлоки 12–20 — [12–20](../murari-gupta/ru/3.10.md?plain=1#L27-L43) · `mkc-0162`
 
+## Набег Исмаила Гази: Божества Пури укрыты у Чилики / Ismail Gazi's raid: the Deities of Puri hidden by Chilika Lake  `ev-ismail-gazi-raid-deities-hidden` (1509–1510, возраст 23–24, вероятно)
+
+- vaishnava-lilamrita (C): Гл. 4, 1–27 — [4.1–4.27](../vaishnava-lilamrita/ru/04.md?plain=1#L6-L32) · `vlm-0119`
+
 ## Встреча с Сарвабхаумой / Meeting with Sarvabhauma  `ev-sarvabhauma-meeting` (1510–1510, возраст 24–24, оценка)
 
 - advaita-prakasha (D): Гл. 15, 122–126 — [122. Там жил м–126. Затем Бха](../advaita-prakash/15.md?plain=1#L126-L130) · `apr-0088`
@@ -3365,7 +3382,7 @@
 - karnapura-ckm (A): Сарга 12, 1–9 — [1–9](../karnapura-mahakavya/ru/12.md?plain=1#L29-L205) · `kcm-0113`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 147–160 (с 148+1–148+2, 153+1) — [147–160](../lochana/ru/45.md?plain=1#L112-L160) · `lcm-0209`
 - murari-kcc (A): Пракрама 3, сарга 11, шлоки 1–15 — [1–15](../murari-gupta/ru/3.11.md?plain=1#L5-L33) · `mkc-0163`
-- vaishnava-lilamrita (C): Гл. 4, 28–35 — [4.28–4.35](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L6-L13) · `vlm-0001`
+- vaishnava-lilamrita (C): Гл. 4, 28–35 — [4.28–4.35](../vaishnava-lilamrita/ru/04.md?plain=1#L36-L43) · `vlm-0001`
 - padas (C): Мадхави Дас, ПК 2239 «কলহ করিয়া ছলা» — [1.1–1.5](../padas/ru/02.md?plain=1#L15-L34) · `pad-0027`
 - padas (C): Мадхави, ПК 2240 «নিত্যানন্দ সঙ্গতি মুকুন্দ গদাধরে» — [2.1–2.6](../padas/ru/02.md?plain=1#L62-L77) · `pad-0028`
 - cc (A): Мадхья 6.5–13 — [5–13](../chaitanya-charitamrita/ed/vcd/CC_Madhya06.md?plain=1#L47-L111) · `cc-1045`
@@ -3406,7 +3423,7 @@
 
 ## Встреча с Джаганнатхой Дасом, толкователем «Бхагаваты» / Meeting with Jagannatha Dasa, expounder of the Bhagavata  `ev-jagannatha-dasa-bhagavata-meeting` (1510–1510, возраст 24–24, оценка)
 
-- vaishnava-lilamrita (C): Гл. 4, 36–50 — [4.36–4.50](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L14-L28) · `vlm-0002`
+- vaishnava-lilamrita (C): Гл. 4, 36–50 — [4.36–4.50](../vaishnava-lilamrita/ru/04.md?plain=1#L44-L58) · `vlm-0002`
 
 ## Вечерний даршан: Джаганнатха становится золотистым / Evening darshan: Jagannatha turns golden  `ev-jagannatha-turns-golden` (1510–1510, возраст 24–24, оценка)
 
@@ -3420,7 +3437,7 @@
 
 ## Освобождение Сарвабхаумы / Deliverance of Sarvabhauma  `ev-sarvabhauma-deliverance` (1510–1510, возраст 24–24, оценка)
 
-- vaishnava-lilamrita (C): Гл. 4, 51–58 — [4.51–4.58](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L29-L36) · `vlm-0003`
+- vaishnava-lilamrita (C): Гл. 4, 51–58 — [4.51–4.58](../vaishnava-lilamrita/ru/04.md?plain=1#L59-L66) · `vlm-0003`
 - cb (A): Антья 3, 7–64 — [7–64](../chaitanya-bhagavata/ed/CB_Antya03.md?plain=1#L42-L322) · `cb-3037`
 - lochana-cm (B): Мадхья-кханда, «Встреча с Сарвабхаумой», 215–234 (с 223+1–223+4, 231+1–231+2) — [215–234](../lochana/ru/45.md?plain=1#L343-L418) · `lcm-0214`
 - murari-kcc (A): Пракрама 3, сарга 12, шлоки 7–11 — [7–11](../murari-gupta/ru/3.12.md?plain=1#L17-L25) · `mkc-0167`
@@ -3549,7 +3566,7 @@
 - govinda-karcha (D): Часть 3, 530–564 — [530–564](../govinda-kadacha/ru/03.md?plain=1#L301-L408) · `gkr-0032`
 - lochana-cm (B): Шеша-кханда, «Странствие Господа по Югу», 82–114 (с 85+1–85+2, 104+1–104+2, 112+1–112+4, 113+1–113+4) — [82–114](../lochana/ru/46.md?plain=1#L349-L481) · `lcm-0220`
 - murari-kcc (A): Пракрама 3, сарга 15, шлоки 1–5 — [1–5](../murari-gupta/ru/3.15.md?plain=1#L5-L13) · `mkc-0175`
-- vaishnava-lilamrita (C): Гл. 4, 59–81 — [4.59–4.81](../oriya-pilot/vaishnava-lilamrita/ru.md?plain=1#L37-L59) · `vlm-0004`
+- vaishnava-lilamrita (C): Гл. 4, 59–81 — [4.59–4.81](../vaishnava-lilamrita/ru/04.md?plain=1#L67-L89) · `vlm-0004`
 - vaishnava-vandana (B): Вандана Дживы, 78–79 — [78–79](../vaishnava-vandana/ru/01.md?plain=1#L175-L177) · `vv-0015`
 - vaishnava-vandana (B): Девакинандана, 67 — [67–67](../vaishnava-vandana/ru/02.md?plain=1#L234-L234) · `vv-0044`
 - cc (A): Мадхья 1.104 — [104–104](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1091-L1091) · `cc-0314`

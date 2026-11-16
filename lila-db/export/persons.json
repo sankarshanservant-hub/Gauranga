@@ -4758,6 +4758,7 @@
    "lcm-0062",
    "cc-4086",
    "cb-0090",
+   "vlm-0117",
    "lcm-0080",
    "lcm-0093",
    "cb-0125",
@@ -5154,6 +5155,7 @@
    "ev-pandits-recognize-vishvambhara",
    "ev-madhavendra-puri-departure",
    "ev-astrologer-sarvajna",
+   "ev-jagannatha-vallabha-first-staging",
    "ev-east-bengal-tour",
    "ev-gaya-ishvara-puri-initiation",
    "ev-gaya-heavenly-voice-return",
@@ -5371,6 +5373,7 @@
    "pad-0412",
    "pad-0235",
    "lcm-0062",
+   "vlm-0117",
    "lcm-0080",
    "apr-0068",
    "lcm-0093",
@@ -5658,6 +5661,7 @@
    "ev-flute-sound-radha-name",
    "ev-nimai-asks-for-moon",
    "ev-pandits-recognize-vishvambhara",
+   "ev-jagannatha-vallabha-first-staging",
    "ev-east-bengal-tour",
    "ev-gaya-ishvara-puri-initiation",
    "ev-shachi-receives-prema",
@@ -6147,6 +6151,7 @@
    "cc-1031",
    "cb-0071",
    "cb-0090",
+   "vlm-0117",
    "cb-3006",
    "lcm-0194",
    "gkr-0016",
@@ -6155,6 +6160,7 @@
    "gkr-0025",
    "lcm-0208",
    "mkc-0162",
+   "vlm-0119",
    "gkd-0070",
    "kcm-0113",
    "pad-0027",
@@ -6353,11 +6359,13 @@
    "ev-madhavendra-kshira-chora",
    "ev-nityananda-pilgrimage",
    "ev-astrologer-sarvajna",
+   "ev-jagannatha-vallabha-first-staging",
    "ev-radha-desha-wandering",
    "ev-farewell-shantipura",
    "ev-kashi-mitra-jagannatha-bhoga",
    "ev-journey-to-puri",
    "ev-first-sight-jagannatha-temple",
+   "ev-ismail-gazi-raid-deities-hidden",
    "ev-sarvabhauma-meeting",
    "ev-first-darshan-jagannatha",
    "ev-jagannatha-embraces-gaura",
@@ -18728,6 +18736,7 @@
   "section": "Спутники",
   "lilas": [
    "vlm-0113",
+   "vlm-0114",
    "cc-0038",
    "cc-0187",
    "jcm-0014",
@@ -18784,6 +18793,7 @@
   ],
   "events": [
    "ev-madhavendra-kshira-chora",
+   "ev-madhavendra-bentapur-kirtan",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
    "ev-nityananda-leaves-home",
@@ -19052,6 +19062,7 @@
    "pvl-0248",
    "vlm-0113",
    "cc-1031",
+   "vlm-0114",
    "apr-0028",
    "cc-0038",
    "cc-0187",
@@ -19065,6 +19076,7 @@
    "brt-2015",
    "cb-0070",
    "cc-4086",
+   "vlm-0116",
    "apr-0061",
    "cb-0084",
    "gkd-0043",
@@ -19092,6 +19104,7 @@
    "brt-7143",
    "jcm-0001",
    "ccd-0002",
+   "vlm-0115",
    "jcm-0096",
    "vlb-0010",
    "pvl-0189",
@@ -19109,6 +19122,7 @@
    "ev-advaita-madhavendra-initiation",
    "ev-madhavendra-gopala-govardhana",
    "ev-madhavendra-kshira-chora",
+   "ev-madhavendra-bentapur-kirtan",
    "ev-sita-initiation",
    "ev-advaita-calls-lord",
    "ev-associates-descend",
@@ -19893,6 +19907,8 @@
   "lilas": [
    "gkd-0005",
    "lcm-0029",
+   "vlm-0117",
+   "vlm-0118",
    "kcm-0118",
    "kcm-0122",
    "ccd-0052",
@@ -20059,6 +20075,7 @@
    "jvn-0001",
    "vlm-0103",
    "vlm-0104",
+   "vlm-0115",
    "cb-0009",
    "pvl-0052",
    "jcm-0098",
@@ -20070,6 +20087,8 @@
   ],
   "events": [
    "ev-associates-descend",
+   "ev-jagannatha-vallabha-first-staging",
+   "ev-ramananda-governor-rajamahendri",
    "ev-departure-for-south",
    "ev-ramananda-raya-godavari",
    "ev-return-from-south",
@@ -21175,6 +21194,10 @@
    "vlm-0112",
    "gkd-0005",
    "jcm-0016",
+   "vlm-0116",
+   "vlm-0117",
+   "vlm-0118",
+   "vlm-0119",
    "ccd-0052",
    "ccd-0053",
    "ccd-0056",
@@ -21292,6 +21315,10 @@
    "ev-two-gita-govindas-test",
    "ev-associates-descend",
    "ev-gauda-king-persecutes-navadvipa",
+   "ev-madhavendra-puri-departure",
+   "ev-jagannatha-vallabha-first-staging",
+   "ev-ramananda-governor-rajamahendri",
+   "ev-ismail-gazi-raid-deities-hidden",
    "ev-departure-for-south",
    "ev-kurma-vasudeva",
    "ev-south-conversions",
@@ -30940,6 +30967,7 @@
   "note": "брат Рамананды Рая, сын Бхавананды Рая; приносил Господу и преданным махапрасад",
   "section": "Спутники",
   "lilas": [
+   "vlm-0118",
    "pad-0028",
    "ccd-0062",
    "cc-0143",
@@ -30968,6 +30996,7 @@
    "jcm-0098"
   ],
   "events": [
+   "ev-ramananda-governor-rajamahendri",
    "ev-sarvabhauma-meeting",
    "ev-kashi-mishra-residence",
    "ev-bhavananda-raya-pandu",
@@ -42193,10 +42222,13 @@
   "note": "ученик Мадхавендры Пури, гуру Рамананды Рая по «Бхаджана-нирнае»; не путать с @raghavendra-raya",
   "section": "Спутники",
   "lilas": [
-   "vlm-0113"
+   "vlm-0113",
+   "vlm-0114",
+   "vlm-0115"
   ],
   "events": [
-   "ev-madhavendra-kshira-chora"
+   "ev-madhavendra-kshira-chora",
+   "ev-madhavendra-bentapur-kirtan"
   ],
   "related_by": [
    {
@@ -45411,6 +45443,9 @@
   "note": "отец Рамананды Рая и Ванинатхи; Господь назвал его Панду",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0114",
+   "vlm-0116",
+   "vlm-0118",
    "cc-0143",
    "cc-2005",
    "gkd-0100",
@@ -45421,9 +45456,13 @@
    "cc-4094",
    "cc-4095",
    "cc-4127",
-   "jvn-0001"
+   "jvn-0001",
+   "vlm-0115"
   ],
   "events": [
+   "ev-madhavendra-bentapur-kirtan",
+   "ev-madhavendra-puri-departure",
+   "ev-ramananda-governor-rajamahendri",
    "ev-bhavananda-raya-pandu",
    "ev-devotees-gather-nilachala",
    "ev-svarupa-paramananda-arrive",
@@ -47528,12 +47567,16 @@
   "note": "ория-спутник в Пури (ванданы)",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0118",
    "vlm-0101",
    "vlm-0102",
    "vlm-0103",
-   "vlm-0104"
+   "vlm-0104",
+   "vlm-0115"
   ],
-  "events": []
+  "events": [
+   "ev-ramananda-governor-rajamahendri"
+  ]
  },
  {
   "id": "@makaradhvaja-kara",
@@ -49535,6 +49578,7 @@
   "note": "сын Бхавананды Рая, брат Рамананды Рая (ЧЧ Ади 10.133; Антья 9)",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0118",
    "cc-0143",
    "cc-4092",
    "cc-4093",
@@ -49543,6 +49587,7 @@
    "cc-0363"
   ],
   "events": [
+   "ev-ramananda-governor-rajamahendri",
    "ev-bhavananda-raya-pandu",
    "ev-gopinatha-pattanayaka-pardoned"
   ],
@@ -49564,9 +49609,11 @@
   "note": "сын Бхавананды Рая (ЧЧ Ади 10.133)",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0118",
    "cc-0143"
   ],
   "events": [
+   "ev-ramananda-governor-rajamahendri",
    "ev-bhavananda-raya-pandu"
   ],
   "related_by": [
@@ -49583,9 +49630,11 @@
   "note": "сын Бхавананды Рая (ЧЧ Ади 10.133)",
   "section": "Аллегорические лица",
   "lilas": [
+   "vlm-0118",
    "cc-0143"
   ],
   "events": [
+   "ev-ramananda-governor-rajamahendri",
    "ev-bhavananda-raya-pandu"
   ],
   "related_by": [
@@ -55551,10 +55600,38 @@
   "note": "«Вор кширы»; у Мадхавы — также «Гопала» (3.50–75); не путать с @gopala-remuna",
   "section": "Аллегорические лица",
   "lilas": [
-   "vlm-0113"
+   "vlm-0113",
+   "vlm-0116"
   ],
   "events": [
-   "ev-madhavendra-kshira-chora"
+   "ev-madhavendra-kshira-chora",
+   "ev-madhavendra-puri-departure"
+  ]
+ },
+ {
+  "id": "@ismail-gazi",
+  "ru": "Исмаил Гази",
+  "en": "Ismail Gazi",
+  "note": "полководец бенгальского султана Хусейн-шаха; набег на Ориссу и Пури (≈1509–1510; «Вайшнава-лиламрита» 4.9)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0119"
+  ],
+  "events": [
+   "ev-ismail-gazi-raid-deities-hidden"
+  ]
+ },
+ {
+  "id": "@krishnadeva-raya",
+  "ru": "Кришнадева Рая (Кришнарай)",
+  "en": "Krishnadeva Raya",
+  "note": "правитель Виджаянагара (1509–1529); противник Пратапарудры на юге («Вайшнава-лиламрита» 4.8)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0119"
+  ],
+  "events": [
+   "ev-ismail-gazi-raid-deities-hidden"
   ]
  }
 ]

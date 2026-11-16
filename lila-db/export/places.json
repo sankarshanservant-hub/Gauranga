@@ -3736,6 +3736,7 @@
    "jcm-0016",
    "cb-0059",
    "cb-0071",
+   "vlm-0117",
    "pvl-0269",
    "brt-7104",
    "brt-7080",
@@ -3759,6 +3760,7 @@
    "mkc-0161",
    "lcm-0208",
    "mkc-0162",
+   "vlm-0119",
    "apr-0088",
    "cb-3035",
    "ccd-0048",
@@ -4522,6 +4524,7 @@
    "ev-gauda-king-persecutes-navadvipa",
    "ev-jagannatha-mishra-dream",
    "ev-nityananda-pilgrimage",
+   "ev-jagannatha-vallabha-first-staging",
    "ev-false-avataras",
    "ev-advaita-gopi-bhava-dance",
    "ev-wine-shop-balarama-bhava",
@@ -4533,6 +4536,7 @@
    "ev-journey-to-puri",
    "ev-danda-broken",
    "ev-first-sight-jagannatha-temple",
+   "ev-ismail-gazi-raid-deities-hidden",
    "ev-sarvabhauma-meeting",
    "ev-departure-for-south",
    "ev-first-darshan-jagannatha",
@@ -6587,6 +6591,7 @@
    "pvl-0248",
    "vlm-0113",
    "cc-1031",
+   "vlm-0116",
    "gkr-0022",
    "gkd-0063",
    "jcm-0067",
@@ -6612,6 +6617,7 @@
    "ev-sridhara-svami-bhavartha-dipika",
    "ev-advaita-pilgrimage",
    "ev-madhavendra-kshira-chora",
+   "ev-madhavendra-puri-departure",
    "ev-journey-to-puri",
    "ev-danda-broken",
    "ev-remuna-gopala",
@@ -6780,6 +6786,7 @@
    "vlm-0106",
    "apr-0011",
    "cb-0071",
+   "vlm-0118",
    "kcm-0122",
    "ccd-0052",
    "cc-1062",
@@ -6818,6 +6825,7 @@
    "ev-chodaganga-rahasa-origin",
    "ev-advaita-pilgrimage",
    "ev-nityananda-pilgrimage",
+   "ev-ramananda-governor-rajamahendri",
    "ev-ramananda-raya-godavari",
    "ev-departure-for-south",
    "ev-panchavati-rama-bhava",
@@ -12745,7 +12753,8 @@
   "note": "Орисса; прежнее местожительство Мадхавы Паттанаяка («Вайшнава-лиламрита» 1.57)",
   "section": "",
   "lilas": [
-   "vlm-0103"
+   "vlm-0103",
+   "vlm-0115"
   ],
   "events": []
  },
@@ -12799,6 +12808,46 @@
   ],
   "events": [
    "ev-sridhara-svami-bhavartha-dipika"
+  ]
+ },
+ {
+  "id": "#bentapur",
+  "ru": "Бентапур",
+  "en": "Bentapur",
+  "note": "Орисса; деревня Бхавананды Рая, где Мадхавендра Пури с учениками совершал киртан («Вайшнава-лиламрита» 3.78–113)",
+  "section": "",
+  "lilas": [
+   "vlm-0114",
+   "vlm-0115"
+  ],
+  "events": [
+   "ev-madhavendra-bentapur-kirtan"
+  ]
+ },
+ {
+  "id": "#rajamahendri",
+  "ru": "Раджамахендри (Раджамандри)",
+  "en": "Rajamahendri (Rajahmundry)",
+  "note": "на Годавари; у Мадхавы — место правления Рамананды Рая (3.132–150); ср. #vidyanagara",
+  "section": "",
+  "lilas": [
+   "vlm-0118"
+  ],
+  "events": [
+   "ev-ramananda-governor-rajamahendri"
+  ]
+ },
+ {
+  "id": "#chilika",
+  "ru": "озеро Чилика",
+  "en": "Chilika Lake",
+  "note": "Орисса; по «Вайшнава-лиламрите» 4.13 — здесь спрятали Божества Пури от набега",
+  "section": "",
+  "lilas": [
+   "vlm-0119"
+  ],
+  "events": [
+   "ev-ismail-gazi-raid-deities-hidden"
   ]
  }
 ]
