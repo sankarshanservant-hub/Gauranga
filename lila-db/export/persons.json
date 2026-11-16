@@ -45146,7 +45146,7 @@
   "id": "@raghupati-upadhyaya",
   "ru": "Рагхупати Упадхьяя",
   "en": "Raghupati Upadhyaya",
-  "note": "учёный из Тирхута, ученик Мадхавендры Пури; встреча с Господом в Праяге (ЧЧ Мадхья 19)",
+  "note": "учёный из Тирхута, ученик Мадхавендры Пури; встреча с Господом в Адаиле, напротив Праяги (ЧЧ Мадхья 19)",
   "section": "Спутники",
   "lilas": [
    "cc-3028"
@@ -49187,9 +49187,9 @@
  },
  {
   "id": "@subuddhi-raya",
-  "ru": "Субуддхи Рай (Мишра), бывший правитель Гауды",
-  "en": "Subuddhi Raya (Mishra), former ruler of Gauda",
-  "note": "поселился в Матхуре (ЧЧ Мадхья 25); не путать с @subuddhi-mishra",
+  "ru": "Субуддхи Рай (Мишра?), бывший правитель Гауды",
+  "en": "Subuddhi Raya (Mishra?), former ruler of Gauda",
+  "note": "поселился в Матхуре (ЧЧ Мадхья 25); тождество с Субуддхи Мишрой не доказано; не путать с @subuddhi-mishra",
   "section": "Аллегорические лица",
   "lilas": [
    "nvl-0004",
@@ -59952,6 +59952,19 @@
     "from": "@paramananda-puri",
     "type": "companion"
    }
+  ]
+ },
+ {
+  "id": "@kamalakanta-pandita",
+  "ru": "Камалаканта Пандит (Саптаграм)",
+  "en": "Kamalakanta Pandita (Saptagrama)",
+  "note": "спутник Нитьянанды, «весьма влиятельный» пандит, которому Нитьянанда дал Саптаграм (ЧБ Антья 5.729); не путать с @kamalakara-pippalai, @kamalakanta-vishvasa, @kamalakanta-vipra",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vv-0061"
+  ],
+  "events": [
+   "ev-nityananda-preaching-gauda"
   ]
  },
  {
