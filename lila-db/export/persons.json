@@ -46819,9 +46819,13 @@
   "note": "писец храма Джаганнатхи, один из «трёх с половиной» сокровенных спутников",
   "section": "Аллегорические лица",
   "lilas": [
+   "ccd-0062",
+   "gkd-0099",
    "cc-2004",
    "kcm-0134",
    "cc-0326",
+   "cb-3103",
+   "mkc-0235",
    "cc-2111",
    "cc-4022",
    "brt-0071",
@@ -46830,9 +46834,11 @@
    "cc-0144"
   ],
   "events": [
+   "ev-kashi-mishra-residence",
    "ev-puri-devotees-introduced",
    "ev-shikhi-mahiti-dream",
    "ev-svarupa-paramananda-arrive",
+   "ev-gauda-devotees-arrive-puri",
    "ev-natashala-kanai-return",
    "ev-chhota-haridasa-punished",
    "ev-srinivasa-gadadhara-puri",
@@ -47006,11 +47012,13 @@
   "note": "брат Шикхи Махити; не путать с @murari-gupta",
   "section": "Аллегорические лица",
   "lilas": [
+   "gkd-0099",
    "cc-2004",
    "kcm-0134",
    "cc-0144"
   ],
   "events": [
+   "ev-kashi-mishra-residence",
    "ev-puri-devotees-introduced",
    "ev-shikhi-mahiti-dream",
    "ev-tattva-bhakti-kalpataru"
