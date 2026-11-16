@@ -48,8 +48,8 @@ The vandanas praise him again and again: “I praise Kaliya Krishnadasa, overwhe
 I praise Kaliya Krishnadasa, in divine sacred thread and garments, bearing the splendour of Krishna”; “I praise the mad,
 playful Kala Krishnadasa: always beside himself with prema, he cannot keep hold of his cloth.” This “madness” is not
 worldly lack of restraint but intoxication with divine love and the bhava of a cowherd boy, a friend of Krishna: so are
-all Nityananda's associates described. In one more vandana a “Sri Krishnadasa” stands in a list, but whether he is
-meant is unclear.[^3] <!-- F33 -->
+all Nityananda's associates described. In the list of one more vandana there stands a “Sri Krishnadasa,” but whether
+this is he is unclear.[^3] <!-- F33 -->
 
 Jayananda in his “Chaitanya-mangala,” listing the wonderful deeds of Nityananda's associates, writes:
 
