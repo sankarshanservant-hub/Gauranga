@@ -139,3 +139,117 @@ Madhya 17.80; “Bhavartha-dipika” 1.1.1)
 So in one conversation both are revealed: the Lord is grateful for loving service and Himself ascribes His happiness to
 His servant's kindness, while the servant, seeing Krishna in Him, counts himself as nothing and cannot cease to marvel
 at His mercy. <!-- F21 F22 Q3 I3 -->
+
+## Kashi, Prayaga, Mathura
+In Kashi the Lord was met by Tapana Mishra. Govinda-deva writes that he saw the Lord from afar “with Balabhadra”
+(“Gaura-krishnodaya” 14.10). The “Charitamrita” relates:
+
+“With all his family he drank the water that had washed the Lord's feet, and he honoured the Bhattacarya with worship.
+He invited the Lord and fed Him in his home, having Balabhadra Bhattacarya do the cooking.” (CC, Madhya 17.88–89)
+
+Tapana Mishra quickly made everything ready for cooking, and in his house Balabhadra cooked for the Lord; after the meal
+the Lord's feet were massaged by the boy Raghunatha, the future Raghunatha Bhatta Gosvami. <!-- F23 -->
+
+From Kashi the road led through Prayaga. There, the moment He saw the Yamuna, the Lord leapt into it in love, and
+Balabhadra hurriedly caught hold of Him and lifted Him out (CC, Madhya 17.150). The Lord was not drowning as a man of this
+world drowns: He plunged into the Yamuna overwhelmed by prema, and Balabhadra's service was care for the Lord absorbed in
+ecstasy. So it would be again later. <!-- F24 -->
+
+In Mathura the Lord was approached by a Sanodiya brahmana, a disciple of Madhavendra Puri. Seeing His love, he guessed
+that the Lord was connected with Madhavendra: “Love for Krsna is found where there is a connection with him.”
+
+“Then the Bhattacarya told him of the connection, and hearing it the brahmana began to dance with joy.” (CC, Madhya
+17.174)
+
+The brahmana took the Lord to his home and asked Balabhadra to cook His meal. But the Lord smiled and said: “Puri Gosani
+has taken his meals in your house. You yourself give Me My meal” (CC, Madhya 17.176–177). Sanodiya brahmanas were
+regarded as a community in whose houses sannyasis do not eat; but Madhavendra Puri, seeing this brahmana's Vaishnava
+conduct, made him his disciple and ate with him — and the Lord followed the conduct of His great predecessor.[^4]
+<!-- F25 F26 -->
+
+From then on the Sanodiya brahmana was the Lord's guide through the twelve forests of Vraja, and together with Balabhadra
+he guarded Him. Once the Lord, seeing the necks of peacocks that reminded Him of Krishna, fell unconscious.
+
+“Seeing the Lord unconscious, the brahmana and the Bhattacarya tried to revive Him. Hurriedly they took Mahaprabhu's
+outer cloth, sprinkled His body with water and fanned Him with the cloth. They spoke the name of Krsna loudly in the
+Lord's ear, and regaining consciousness, the Lord rolled about on the ground. In that forest, impassable with thorns, His
+body was scratched and cut. The Bhattacarya took the Lord on his lap and calmed Him. In His absorption in Krsna the
+Lord's mind was overwhelmed with love. Crying ‘Say it! Say it!’ He got up and began to dance. The Bhattacarya and the
+brahmana sang the name of Krsna, and the Lord went on along the path, dancing all the way.” (CC, Madhya 17.219–224)
+
+Govinda-deva tells of a similar moment: after the conversation of the parrots the Lord fell down “as if lifeless,” and
+“the Bhattacharya soon brought Him back to consciousness” (“Gaura-krishnodaya” 14.28). At Radha-kunda the Lord marked
+Himself with tilaka of clay from its bank and with Balabhadra's help took some of the clay along; at Brahma-kunda the
+Bhattacharya cooked, and the Lord ate after bathing there (CC, Madhya 18.14, 18.21). <!-- F27 F28 -->
+
+## Kaliya's Lake
+Once a rumour spread through Vrindavana that Krishna had appeared again at Kaliya's lake: at night people saw Him dancing
+on the serpent Kaliya, with jewels flashing on the serpent's hoods. Guileless Balabhadra believed it, and in the evening
+he wished to go and see.
+
+“Then the Bhattacarya said at the Lord's feet, ‘Give me permission, and I shall go and have darsana of Krsna!’ At this
+the Lord gave him a slap and said, ‘You are a learned man, yet you have become a fool by listening to the words of fools.
+Why would Krsna give darsana in the age of Kali? Foolish people are making an uproar out of their own delusion. Do not go
+mad. Stay at home and sit quietly. You can go tomorrow night and have darsana of Krsna.’” (CC, Madhya 18.99–102)
+<!-- F29 F30 -->
+
+In the morning everything came to light: respectable people told the Lord that at night a fisherman fished from a boat
+with a lamp on the lake, and from afar people took the boat for Kaliya, the lamp for his jewels and the fisherman for
+Krishna Himself (CC, Madhya 18.103–106). Balabhadra's delusion was dispelled.[^5] <!-- F31 -->
+
+This episode is not the story of a credulous man but a lesson for everyone. The Lord's slap is a teacher's caress: He
+corrects His servant, and with him the whole world. In the age of Kali Krishna does not show Himself to people in that
+way, for display, and to ascribe Krishna's position to an ordinary jiva is an offence; the Lord says this here too, in
+the same chapter of the “Charitamrita” (Madhya 18.111–116). Srila Bhaktisiddhanta, in his chapter heading at Madhya
+17.16, writes of Balabhadra that a guileless brahmana in whom the tendency to fruitive work was still strong was given
+the chance to be purified in the Lord's company. This is a lesson in the power of the Lord's company: whomever He draws
+close, He leads to pure devotion. And who Balabhadra is in the eternal pastimes we already know from Karnapura:
+Madhurekshana, Radha's friend — and so we must not see in him a worldly man. <!-- F30 -->
+
+## Leaving Vraja
+The Lord stayed at Akrura-tirtha, and all Mathura longed to invite Him.
+
+“All the people of Mathura — brahmanas and respectable folk — came to the Bhattacarya to invite the Lord. In a single day
+ten or twenty invitations would come, but the Bhattacarya would accept only one.” (CC, Madhya 18.130–131) <!-- F32 -->
+
+One day the Lord, sitting on the ghata of Akrura-tirtha, remembered that here Akrura had seen Vaikuntha and the people of
+Vraja had seen Goloka, and He threw Himself into the Yamuna:
+
+“With these words He leapt into the water and stayed submerged beneath it. Seeing this, Krsnadasa wept and cried out, and
+the Bhattacarya quickly came and pulled the Lord out.” (CC, Madhya 18.137–138)
+
+Govinda-deva gives the Bhattacharya's thought at that moment as well: “Alas, what would have happened had I not been
+here?” (“Gaura-krishnodaya” 14.52). <!-- F33 -->
+
+Svarupa and Ramananda had entrusted the Lord to Balabhadra so that no harm should come to Him on the road. And now,
+anxious for the Lord, absorbed in prema and surrounded by crowds, he took counsel in private with his elder — the
+Sanodiya brahmana, the disciple of Madhavendra Puri:
+
+“Today I was here, and I pulled the Lord out. But if He dives in at Vrndavana, who will pull Him out? The crowds of
+people, the bother of invitations, the Lord's constant absorption — none of this seems good to me. If we take the Lord
+away from Vrndavana, all will be well. This is a good plan.” (CC, Madhya 18.140–142)
+
+The brahmana proposed going to Prayaga by the road along the Ganga, through Soro-kshetra: the month of Magha had begun,
+and they would be in time for the bathing during Makara-sankranti.[^6] He advised Balabhadra to tell the Lord of his
+distress. Balabhadra did so: he told the Lord he could no longer bear the crowds and would be happy to reach Prayaga in
+time (CC, Madhya 18.143–151). <!-- F34 F35 -->
+
+This decision was born of love: neither Svarupa nor Ramananda had told Balabhadra to take the Lord away from Vraja in
+particular — he was moved by a servant's anxiety for the Lord entrusted to his care, and he took counsel with his elder,
+the disciple of Madhavendra. And the Lord agreed for His devotee's sake:
+
+“Although the Lord had no wish to leave Vrndavana, to fulfil His devotee's wish He spoke sweet words: ‘You brought Me here
+and showed Me Vrndavana. I shall never be able to repay this debt. Whatever you wish, that I will do. Wherever you take
+Me, there I will go.’” (CC, Madhya 18.152–154)
+
+The Lord calls Himself His servant's debtor — so highly does He value his love. The summary of the pastimes says the same
+briefly: seeing the places of the pastimes, the Lord became overwhelmed with love, “and Balabhadra led Him away from
+Mathura” (CC, Madhya 1.240). Karnapura writes that the pious Balabhadra-bhattacharya and others, seeing the Lord
+senseless from excess of love, thought, “Ah, misfortune has come!” — “and as if by force led the Lord away from
+Vrindavana”; and Sarvabhauma in his drama says that the Lord was “as if drawn to Himself by Jagannatha, who could not
+bear separation from Him” (“Chaitanya-chandrodaya,” Act 9). In Govinda-deva the Lord leaves “in order to deliver Sanatana
+and others” (“Gaura-krishnodaya” 14.59). The Lord's will is fulfilled through His servant's love.[^7] <!-- F36 -->
+
+Next morning, after His bath, the Lord was overcome with love at the thought that He was leaving Vrindavana, though
+outwardly He did not show it. Understanding His state, Balabhadra proposed going to Mahavana, that is, Gokula, and they
+crossed the Yamuna by boat (CC, Madhya 18.155–157). <!-- F37 -->
