@@ -3856,6 +3856,7 @@
    "lcm-0226",
    "mkc-0183",
    "gkr-0101",
+   "vlm-0121",
    "cc-2002",
    "gkd-0098",
    "cc-2003",
@@ -3882,6 +3883,7 @@
    "kcm-0138",
    "lcm-0228",
    "mkc-0192",
+   "vlm-0122",
    "gkr-0105",
    "pad-0030",
    "pad-0140",
@@ -3893,6 +3895,7 @@
    "pad-0301",
    "pad-0257",
    "kcm-0134",
+   "vlm-0124",
    "jcm-0071",
    "cc-2017",
    "cc-2032",
@@ -4090,6 +4093,7 @@
    "kcm-0133",
    "lcm-0248",
    "mkc-0233",
+   "vlm-0125",
    "vv-0026",
    "vv-0054",
    "cc-0330",
@@ -4567,12 +4571,13 @@
    "ev-kala-krishnadasa-dismissed",
    "ev-bhavananda-raya-pandu",
    "ev-messenger-to-gauda-after-south",
+   "ev-ramananda-comes-to-puri",
    "ev-nilachala-sankirtana",
    "ev-phagu-nilachala",
    "ev-shikhi-mahiti-dream",
+   "ev-ramananda-mandapa-puri",
    "ev-glory-of-vaishnavas-lion-gate",
    "ev-lord-refuses-to-see-king",
-   "ev-ramananda-comes-to-puri",
    "ev-govinda-ishvara-puri-servant",
    "ev-lord-narrates-jagannatha-glory",
    "ev-svarupa-paramananda-arrive",
@@ -6790,6 +6795,7 @@
    "kcm-0122",
    "ccd-0052",
    "cc-1062",
+   "vlm-0120",
    "cc-1071",
    "ccd-0055",
    "gkd-0079",
@@ -12831,10 +12837,14 @@
   "note": "на Годавари; у Мадхавы — место правления Рамананды Рая (3.132–150); ср. #vidyanagara",
   "section": "",
   "lilas": [
-   "vlm-0118"
+   "vlm-0118",
+   "vlm-0121",
+   "vlm-0123"
   ],
   "events": [
-   "ev-ramananda-governor-rajamahendri"
+   "ev-ramananda-governor-rajamahendri",
+   "ev-return-visit-ramananda",
+   "ev-jivadeva-kavi-dindima-rajamahendri"
   ]
  },
  {

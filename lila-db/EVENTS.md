@@ -3559,6 +3559,7 @@
 ## Встреча с Раманандой Раем / Meeting with Ramananda Raya  `ev-ramananda-raya-godavari` (1510–1512, возраст 24–26, оценка)
 
 - karnapura-ckm (A): Сарга 12, 130–134 — [130–134](../karnapura-mahakavya/ru/12.md?plain=1#L2867-L2957) · `kcm-0122`
+- vaishnava-lilamrita (C): Гл. 4, 82–133 — [4.82–4.133](../vaishnava-lilamrita/ru/04.md?plain=1#L94-L149) · `vlm-0120`
 - advaita-prakasha (D): Гл. 15, 129–131 — [129. Затем Гау–131. Там говор](../advaita-prakash/15.md?plain=1#L133-L135) · `apr-0090`
 - cc (A): Мадхья 8.9–47 — [9–47](../chaitanya-charitamrita/ed/vcd/CC_Madhya08.md?plain=1#L83-L389) · `cc-1071`
 - chaitanya-chandrodaya (A): Акт 7, рассказ брахманов, ст. 7–18 — [**Брахман.** Затем он пришёл на берег Го–**Брахман.** Как прикажешь.](../chaitanya-chandrodaya/ru/07.md?plain=1#L123-L243) · `ccd-0055`
@@ -3900,6 +3901,7 @@
 
 - cc (A): Мадхья 9.319–335 — [319–335](../chaitanya-charitamrita/ed/vcd/CC_Madhya09.md?plain=1#L2614-L2742) · `cc-1118`
 - gaura-krishnodaya (B): Сарга 10, 53–55 — [53–55](../gaura-krishnodaya/ru/10.md?plain=1#L117-L121) · `gkd-0096`
+- vaishnava-lilamrita (C): Гл. 4, 134–143 — [4.134–4.143](../vaishnava-lilamrita/ru/04.md?plain=1#L150-L159) · `vlm-0121`
 
 ## Расалкунда: марварский брахман с палкой и его сын / Rasalkunda: the Marwari brahmana with a stick, and his son  `ev-marwari-brahmana-son` (1510–1512, возраст 24–26, оценка)
 
@@ -3979,6 +3981,10 @@
 - gaura-stotras (A): Рагхунатха, «Шачисуну-аштака» 7 — [7–7](../stotras/ru/01.md?plain=1#L17-L17) · `gst-0005`
 - gaura-stotras (A): Рагхунатха, «Гауранга-става-калпатару» 2–3 — [2–3](../stotras/ru/02.md?plain=1#L7-L9) · `gst-0007`
 
+## Дживадева Кави-диндима — правитель Раджамахендри / Jivadeva Kavi-dindima appointed to Rajamahendri  `ev-jivadeva-kavi-dindima-rajamahendri` (1512–1514, возраст 26–28, оценка)
+
+- vaishnava-lilamrita (C): Гл. 4, 148–156 — [4.148–4.156](../vaishnava-lilamrita/ru/04.md?plain=1#L164-L176) · `vlm-0123`
+
 ## Праздник красок (пхагу) Господа со спутниками в Нилачале / The Lord's festival of colours (phagu) with His companions in Nilachala  `ev-phagu-nilachala` (1512–1514, возраст 26–28, оценка)
 
 - padas (C): Мадхави Дас, ПК 2290 = ГПТ1 с. 260 (№ 39) «আনন্দে নাচত সঙ্গে ভকত» — [23.1–23.4](../padas/ru/06.md?plain=1#L798-L813) · `pad-0121`
@@ -3988,6 +3994,10 @@
 ## Сон Шикхи Махити / Shikhi Mahiti's dream  `ev-shikhi-mahiti-dream` (1512–1514, возраст 26–28, оценка)
 
 - karnapura-ckm (A): Сарга 13, 89–109 — [89–109](../karnapura-mahakavya/ru/13.md?plain=1#L2028-L2461) · `kcm-0134`
+
+## Мандапа Рамананды Рая у храма: собрания вайшнавов / Ramananda Raya's mandapa by the temple: gatherings of Vaishnavas  `ev-ramananda-mandapa-puri` (1512–1514, возраст 26–28, оценка)
+
+- vaishnava-lilamrita (C): Гл. 4, 157–160 — [4.157–4.160](../vaishnava-lilamrita/ru/04.md?plain=1#L177-L180) · `vlm-0124`
 
 ## Господь у Львиных ворот возвещает славу вайшнавов / At the Lion Gate the Lord proclaims the glory of the Vaishnavas  `ev-glory-of-vaishnavas-lion-gate` (1512–1514, возраст 26–28, оценка)
 
@@ -4001,6 +4011,7 @@
 
 ## Рамананда Рай приходит в Пури к Господу / Ramananda Raya comes to the Lord in Puri  `ev-ramananda-comes-to-puri` (1512–1514, возраст 26–28, оценка)
 
+- vaishnava-lilamrita (C): Гл. 4, 144–147 — [4.144–4.147](../vaishnava-lilamrita/ru/04.md?plain=1#L160-L163) · `vlm-0122`
 - cc (A): Мадхья 11.14–40 — [14–40](../chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L127-L347) · `cc-2018`
 - gaura-krishnodaya (B): Сарга 11, 15–18 — [15–18](../gaura-krishnodaya/ru/11.md?plain=1#L37-L45) · `gkd-0102`
 - cc (A): Мадхья 1.127–128 — [127–128](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1321-L1331) · `cc-0325`
@@ -4210,6 +4221,7 @@
 - cc (A): Мадхья 14.61–65 — [61–65](../chaitanya-charitamrita/ed/vcd/CC_Madhya14.md?plain=1#L499-L531) · `cc-2062`
 - gaura-krishnodaya (B): Сарга 12, 3–9 — [3–9](../gaura-krishnodaya/ru/12.md?plain=1#L11-L25) · `gkd-0114`
 - cc (A): Мадхья 16.48–54 — [48–54](../chaitanya-charitamrita/ed/vcd/CC_Madhya16.md?plain=1#L385-L433) · `cc-2095`
+- vaishnava-lilamrita (C): Гл. 5, 1–13 (продолжается) — [5.1–5.13](../vaishnava-lilamrita/ru/05.md?plain=1#L6-L18) · `vlm-0125`
 - advaita-prakasha (D): Гл. 19, 117–132 — [117. В день пр–132. Я — ничто](../advaita-prakash/19.md?plain=1#L121-L136) · `apr-0133`
 - advaita-prakasha (D): Гл. 18, 25–43, 55–57 — [25. Услышав о б–43. Услышав эт](../advaita-prakash/18.md?plain=1#L29-L47); [55. Видя велик–57. После праз](../advaita-prakash/18.md?plain=1#L59-L61) · `apr-0120`
 - chaitanya-chandrodaya (A): Акт 10, праздник колесниц, ст. 41–58 — [*(Входит Каши-Мишра.)*–**Царь.** Начни это с сегодняшнего дня; ](../chaitanya-chandrodaya/ru/10.md?plain=1#L663-L835) · `ccd-0096`

@@ -9011,6 +9011,7 @@
   ],
   "entries": [
    "kcm-0122",
+   "vlm-0120",
    "apr-0090",
    "cc-1071",
    "ccd-0055",
@@ -11222,6 +11223,7 @@
    "cc-2062",
    "gkd-0114",
    "cc-2095",
+   "vlm-0125",
    "apr-0133",
    "apr-0120",
    "ccd-0096"
@@ -11234,7 +11236,8 @@
    "gaura-stotras",
    "karnapura-ckm",
    "murari-kcc",
-   "padas"
+   "padas",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -30558,11 +30561,13 @@
   ],
   "entries": [
    "cc-1118",
-   "gkd-0096"
+   "gkd-0096",
+   "vlm-0121"
   ],
   "sources": [
    "cc",
-   "gaura-krishnodaya"
+   "gaura-krishnodaya",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -30653,13 +30658,15 @@
    28
   ],
   "entries": [
+   "vlm-0122",
    "cc-2018",
    "gkd-0102",
    "cc-0325"
   ],
   "sources": [
    "cc",
-   "gaura-krishnodaya"
+   "gaura-krishnodaya",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -33706,6 +33713,64 @@
   ],
   "entries": [
    "vlm-0119"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-jivadeva-kavi-dindima-rajamahendri",
+  "title": "Дживадева Кави-диндима — правитель Раджамахендри",
+  "title_en": "Jivadeva Kavi-dindima appointed to Rajamahendri",
+  "period": "P12",
+  "order": 6,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "learning"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 4.148–156): после переезда Рамананды в Пури царь посылает раджа-гуру Дживадеву, поэта («Бхагата-вайбхава», драма «Утсахавати»), править Раджамахендри с титулом «Бахинипати».",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vlm-0123"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-ramananda-mandapa-puri",
+  "title": "Мандапа Рамананды Рая у храма: собрания вайшнавов",
+  "title_en": "Ramananda Raya's mandapa by the temple: gatherings of Vaishnavas",
+  "period": "P12",
+  "order": 7,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "kirtan"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 4.157–160): Рамананда в Пури опекает вайшнавов и строит мандапу у северной стороны храма для их собраний.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vlm-0124"
   ],
   "sources": [
    "vaishnava-lilamrita"

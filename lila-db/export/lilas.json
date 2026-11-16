@@ -135156,6 +135156,78 @@
   "attestation": 6
  },
  {
+  "id": "vlm-0120",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 4, 82–133",
+  "file": "vaishnava-lilamrita/ru/04.md",
+  "period": "P11",
+  "order": 20,
+  "title": "Беседа с Раманандой: от пути раги к преме Радхи; «Ты — Мой гуру»",
+  "summary": "Рамананда излагает путь раги по «Бхагавате», «Брахма-самхите», «Карнамрите» и «Гита-говинде», канта-прему и, наконец, прему Радхи как высшую цель; учит о хладини, махабхаве и мадане; спрашивает: «Не Сам ли Ты Господь, аватара Радхи?»; поёт «пахилехи рага», и Прабху в трепете закрывает ему уста; затем Махапрабху называет Рамананду Своим гуру и дваждырождённым.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@radha",
+   "@krishna"
+  ],
+  "places": [
+   "#godavari"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 8",
+  "notes": "«Аватара Радхи» (4.116) — для гаудия-вайшнавов Шри Чайтанья — Сам Кришна в бхаве и сиянии Радхи (сноска).",
+  "themes": [
+   "teaching",
+   "ecstasy"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "scriptures": [
+   "Брахма-самхита",
+   "Кришна-карнамрита",
+   "Гита-говинда"
+  ],
+  "cc": "Мадхья 8",
+  "divergence": "Нет явления облика Расараджи-Махабхавы; книги «Брахма-самхита» и «Карнамрита» — источники Рамананды (в ЧЧ Господь находит их позже, Мадхья 9); Махапрабху прямо называет Рамананду гуру (в ЧЧ — «кто знает науку о Кришне, тот и гуру»); энергии — сандхини, самбандхини, хладини.",
+  "event": "ev-ramananda-raya-godavari",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.82",
+    "to": "4.133"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.82",
+    "to": "4.133",
+    "line": 94,
+    "line_to": 149,
+    "count": 52,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L94-L149",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L95-L150"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 12
+ },
+ {
   "id": "cc-0313",
   "source": "cc",
   "ref": "Мадхья 1.103",
@@ -145989,7 +146061,7 @@
    24,
    26
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "gkd-0096",
@@ -146047,7 +146119,7 @@
    24,
    26
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "gkr-0095",
@@ -146968,6 +147040,65 @@
    26
   ],
   "attestation": 7
+ },
+ {
+  "id": "vlm-0121",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 4, 134–143",
+  "file": "vaishnava-lilamrita/ru/04.md",
+  "period": "P11",
+  "order": 900,
+  "title": "Южное паломничество и возвращение через Раджамандри: «Идём со Мной!»",
+  "summary": "Пробыв у Рамананды десять дней, Прабху обходит Сетубандху, Рамешвару, Шрирангам, Удупи и другие тиртхи до Праяги, распространяя Кришна-катху и киртан; на обратном пути в Раджамандри зовёт Рамананду: «Оставь царскую службу — без тебя, гуру, в Нилачале мне нет смысла»; Рамананда обещает прийти, и Господь возвращается в Нилачалу.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya"
+  ],
+  "places": [
+   "#rajamahendri",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 9",
+  "notes": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "cc": "Мадхья 9",
+  "divergence": "Праяга — на обратном пути с юга (в ЧЧ — позже, Мадхья 17–19); иной порядок святынь; место правления Рамананды — Раджамандри (в ЧЧ — Видьянагара).",
+  "event": "ev-return-visit-ramananda",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.134",
+    "to": "4.143"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.134",
+    "to": "4.143",
+    "line": 150,
+    "line_to": 159,
+    "count": 10,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L150-L159",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L151-L160"
+   }
+  ],
+  "years": [
+   1510,
+   1512
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   24,
+   26
+  ],
+  "attestation": 3
  },
  {
   "id": "cc-2002",
@@ -148560,6 +148691,65 @@
   "attestation": 6
  },
  {
+  "id": "vlm-0122",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 4, 144–147",
+  "file": "vaishnava-lilamrita/ru/04.md",
+  "period": "P12",
+  "order": 5,
+  "date": "19-й анк Пратапарудры",
+  "title": "Рамананда приходит в Нилачалу и ведает делами храма",
+  "summary": "В 19-й анк Рамананда прибывает в Нилачалу; царь поручает ему попечение о храме — смотреть за его доходами и расходами.",
+  "persons": [
+   "@ramananda-raya",
+   "@prataparudra"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 11",
+  "notes": "",
+  "themes": [
+   "jagannatha"
+  ],
+  "divergence": "В ЧЧ царь отпускает Рамананду со службы, сохраняя жалованье, чтобы он был с Господом.",
+  "event": "ev-ramananda-comes-to-puri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.144",
+    "to": "4.147"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.144",
+    "to": "4.147",
+    "line": 160,
+    "line_to": 163,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L160-L163",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L161-L164"
+   }
+  ],
+  "cc": "Мадхья 11",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 3
+ },
+ {
   "id": "gkr-0105",
   "source": "govinda-karcha",
   "ref": "Часть 12, 2461–2466",
@@ -148617,6 +148807,62 @@
    24
   ],
   "attestation": 8
+ },
+ {
+  "id": "vlm-0123",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 4, 148–156",
+  "file": "vaishnava-lilamrita/ru/04.md",
+  "period": "P12",
+  "order": 6,
+  "title": "Дживадева Кави-диндима послан править Раджамахендри",
+  "summary": "Вместо Рамананды царь посылает в Раджамахендри Дживадеву — раджа-гуру и поэта по прозванию «Кави-диндима», автора «Бхагата-вайбхавы» и драмы «Утсахавати», — даёт ему титул «Бахинипати» и войско.",
+  "persons": [
+   "@jivadeva",
+   "@prataparudra"
+  ],
+  "places": [
+   "#rajamahendri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Господь в эпизоде не участвует; ср. 1.77, 3.12, 3.41 о Дживадеве.",
+  "themes": [
+   "learning"
+  ],
+  "event": "ev-jivadeva-kavi-dindima-rajamahendri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.148",
+    "to": "4.156"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.148",
+    "to": "4.156",
+    "line": 164,
+    "line_to": 176,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L164-L176",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L165-L177"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
  },
  {
   "id": "pad-0030",
@@ -149322,6 +149568,63 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0124",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 4, 157–160",
+  "file": "vaishnava-lilamrita/ru/04.md",
+  "period": "P12",
+  "order": 7,
+  "title": "Мандапа Рамананды для собраний вайшнавов",
+  "summary": "Живя в Кшетре, Рамананда опекает вайшнавов и строит мандапу у северной стороны храма, где они собираются и отдают ум расе Кришны; подпись главы.",
+  "persons": [
+   "@ramananda-raya",
+   "@madhava-pattanayaka"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "",
+  "themes": [
+   "kirtan"
+  ],
+  "divergence": "В ЧЧ не упоминается.",
+  "event": "ev-ramananda-mandapa-puri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.157",
+    "to": "4.160"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/04.md",
+    "from": "4.157",
+    "to": "4.160",
+    "line": 177,
+    "line_to": 180,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/04.md?plain=1#L177-L180",
+    "file_en": "vaishnava-lilamrita/en/04.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/04.md?plain=1#L178-L181"
+   }
+  ],
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "jcm-0071",
   "source": "jayananda-cm",
   "ref": "Уткала-кханда, разд. 16 (фрагм. 12)",
@@ -149578,7 +149881,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "gkd-0102",
@@ -149635,7 +149938,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-0325",
@@ -149693,7 +149996,7 @@
    26,
    28
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-0145",
@@ -155569,7 +155872,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2045",
@@ -155627,7 +155930,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2046",
@@ -155714,7 +156017,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2047",
@@ -155773,7 +156076,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2048",
@@ -155839,7 +156142,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2049",
@@ -155907,7 +156210,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2050",
@@ -155963,7 +156266,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2051",
@@ -156033,7 +156336,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2052",
@@ -156106,7 +156409,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2053",
@@ -156165,7 +156468,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "ccd-0071",
@@ -156226,7 +156529,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "gkd-0111",
@@ -156291,7 +156594,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0149",
@@ -156348,7 +156651,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0150",
@@ -156406,7 +156709,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0151",
@@ -156468,7 +156771,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0152",
@@ -156528,7 +156831,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0153",
@@ -156591,7 +156894,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0154",
@@ -156647,7 +156950,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0155",
@@ -156701,7 +157004,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0157",
@@ -156758,7 +157061,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0158",
@@ -156814,7 +157117,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0159",
@@ -156871,7 +157174,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0160",
@@ -156928,7 +157231,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "mkc-0242",
@@ -157014,7 +157317,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-0301",
@@ -157079,7 +157382,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "gst-0021",
@@ -157138,7 +157441,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-0329",
@@ -157195,7 +157498,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2054",
@@ -157318,7 +157621,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "pad-0306",
@@ -157383,7 +157686,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "pad-0307",
@@ -157445,7 +157748,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "pad-0308",
@@ -157507,7 +157810,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2055",
@@ -157566,7 +157869,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "kcm-0163",
@@ -157682,7 +157985,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2059",
@@ -157811,7 +158114,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2061",
@@ -157985,7 +158288,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2063",
@@ -158100,7 +158403,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2064",
@@ -167163,7 +167466,7 @@
    26,
    28
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-2096",
@@ -169625,6 +169928,80 @@
    28
   ],
   "attestation": 13
+ },
+ {
+  "id": "vlm-0125",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 1–13 (продолжается)",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P12",
+  "order": 300,
+  "date": "19-й анк Пратапарудры",
+  "title": "Ратха-ятра: царь на чхера-панхаре видит киртан Горы",
+  "summary": "О юном санньяси, вернувшемся с юга, царю рассказывают Рамананда, Будха Ленка и летописец Тадхау; совершая чхера-панхару колесницы, Пратапарудра видит киртан Горы и встречается с Ним; в киртане — Рамананда, Канхаи, Джаганнатха Дас и Панчасакха, Сварупа, Гададхара, Шивананда и многие другие.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@ramananda-raya",
+   "@budha-lenka",
+   "@tadhau",
+   "@kanhai-odia",
+   "@jagannatha-dasa-odia",
+   "@balarama-dasa-odia",
+   "@yashovanta-odia",
+   "@achyutananda-odia",
+   "@ananta-odia",
+   "@svarupa-damodara",
+   "@gadadhara-pandita",
+   "@shivananda-sena"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 13–14",
+  "notes": "Шивананда — вероятно, Шивананда Сена (не уточнено).",
+  "themes": [
+   "festival",
+   "kirtan",
+   "jagannatha"
+  ],
+  "cc": "Мадхья 13",
+  "divergence": "Встреча царя с Господом сразу после киртана (в ЧЧ — позже, в саду, с «Гопи-гитой», Мадхья 14); в киртане — орийская Панчасакха (в ЧЧ — семь групп бенгальских преданных).",
+  "event": "ev-ratha-yatra-gundicha",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.1",
+    "to": "5.13"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.1",
+    "to": "5.13",
+    "line": 6,
+    "line_to": 18,
+    "count": 13,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L6-L18",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L6-L18"
+   }
+  ],
+  "calendar": "ашадха; Ратха-ятра, Хера-панчами",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 9
  },
  {
   "id": "vv-0026",
@@ -196477,7 +196854,7 @@
    30,
    47
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "apr-0120",
@@ -196555,7 +196932,7 @@
    30,
    47
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "cc-4115",
@@ -208221,7 +208598,7 @@
    30,
    47
   ],
-  "attestation": 8
+  "attestation": 9
  },
  {
   "id": "gkd-0167",

@@ -468,3 +468,130 @@
   event: ev-ismail-gazi-raid-deities-hidden
   verses:
     - {file: "vaishnava-lilamrita/ru/04.md", from: "4.1", to: "4.27"}
+
+- id: vlm-0120
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 82–133"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P11
+  order: 20
+  title: "Беседа с Раманандой: от пути раги к преме Радхи; «Ты — Мой гуру»"
+  summary: "Рамананда излагает путь раги по «Бхагавате», «Брахма-самхите», «Карнамрите» и «Гита-говинде», канта-прему и, наконец, прему Радхи как высшую цель; учит о хладини, махабхаве и мадане; спрашивает: «Не Сам ли Ты Господь, аватара Радхи?»; поёт «пахилехи рага», и Прабху в трепете закрывает ему уста; затем Махапрабху называет Рамананду Своим гуру и дваждырождённым."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@radha", "@krishna"]
+  places: ["#godavari"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Мадхья 8"
+  notes: "«Аватара Радхи» (4.116) — для гаудия-вайшнавов Шри Чайтанья — Сам Кришна в бхаве и сиянии Радхи (сноска)."
+  themes: [teaching, ecstasy]
+  bhava: [radha]
+  teaching: [prema]
+  scriptures: ["Брахма-самхита", "Кришна-карнамрита", "Гита-говинда"]
+  cc: "Мадхья 8"
+  divergence: "Нет явления облика Расараджи-Махабхавы; книги «Брахма-самхита» и «Карнамрита» — источники Рамананды (в ЧЧ Господь находит их позже, Мадхья 9); Махапрабху прямо называет Рамананду гуру (в ЧЧ — «кто знает науку о Кришне, тот и гуру»); энергии — сандхини, самбандхини, хладини."
+  event: ev-ramananda-raya-godavari
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.82", to: "4.133"}
+
+- id: vlm-0121
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 134–143"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P11
+  order: 900
+  title: "Южное паломничество и возвращение через Раджамандри: «Идём со Мной!»"
+  summary: "Пробыв у Рамананды десять дней, Прабху обходит Сетубандху, Рамешвару, Шрирангам, Удупи и другие тиртхи до Праяги, распространяя Кришна-катху и киртан; на обратном пути в Раджамандри зовёт Рамананду: «Оставь царскую службу — без тебя, гуру, в Нилачале мне нет смысла»; Рамананда обещает прийти, и Господь возвращается в Нилачалу."
+  persons: ["@mahaprabhu", "@ramananda-raya"]
+  places: ["#rajamahendri", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 9"
+  notes: ""
+  themes: [pilgrimage]
+  cc: "Мадхья 9"
+  divergence: "Праяга — на обратном пути с юга (в ЧЧ — позже, Мадхья 17–19); иной порядок святынь; место правления Рамананды — Раджамандри (в ЧЧ — Видьянагара)."
+  event: ev-return-visit-ramananda
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.134", to: "4.143"}
+
+- id: vlm-0122
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 144–147"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P12
+  order: 5
+  date: "19-й анк Пратапарудры"
+  title: "Рамананда приходит в Нилачалу и ведает делами храма"
+  summary: "В 19-й анк Рамананда прибывает в Нилачалу; царь поручает ему попечение о храме — смотреть за его доходами и расходами."
+  persons: ["@ramananda-raya", "@prataparudra"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 11"
+  notes: ""
+  themes: [jagannatha]
+  divergence: "В ЧЧ царь отпускает Рамананду со службы, сохраняя жалованье, чтобы он был с Господом."
+  event: ev-ramananda-comes-to-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.144", to: "4.147"}
+
+- id: vlm-0123
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 148–156"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P12
+  order: 6
+  title: "Дживадева Кави-диндима послан править Раджамахендри"
+  summary: "Вместо Рамананды царь посылает в Раджамахендри Дживадеву — раджа-гуру и поэта по прозванию «Кави-диндима», автора «Бхагата-вайбхавы» и драмы «Утсахавати», — даёт ему титул «Бахинипати» и войско."
+  persons: ["@jivadeva", "@prataparudra"]
+  places: ["#rajamahendri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Господь в эпизоде не участвует; ср. 1.77, 3.12, 3.41 о Дживадеве."
+  themes: [learning]
+  event: ev-jivadeva-kavi-dindima-rajamahendri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.148", to: "4.156"}
+
+- id: vlm-0124
+  source: vaishnava-lilamrita
+  ref: "Гл. 4, 157–160"
+  file: "vaishnava-lilamrita/ru/04.md"
+  period: P12
+  order: 7
+  title: "Мандапа Рамананды для собраний вайшнавов"
+  summary: "Живя в Кшетре, Рамананда опекает вайшнавов и строит мандапу у северной стороны храма, где они собираются и отдают ум расе Кришны; подпись главы."
+  persons: ["@ramananda-raya", "@madhava-pattanayaka"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: ""
+  themes: [kirtan]
+  divergence: "В ЧЧ не упоминается."
+  event: ev-ramananda-mandapa-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/04.md", from: "4.157", to: "4.160"}
+
+- id: vlm-0125
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 1–13 (продолжается)"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P12
+  order: 300
+  date: "19-й анк Пратапарудры"
+  title: "Ратха-ятра: царь на чхера-панхаре видит киртан Горы"
+  summary: "О юном санньяси, вернувшемся с юга, царю рассказывают Рамананда, Будха Ленка и летописец Тадхау; совершая чхера-панхару колесницы, Пратапарудра видит киртан Горы и встречается с Ним; в киртане — Рамананда, Канхаи, Джаганнатха Дас и Панчасакха, Сварупа, Гададхара, Шивананда и многие другие."
+  persons: ["@mahaprabhu", "@prataparudra", "@ramananda-raya", "@budha-lenka", "@tadhau", "@kanhai-odia", "@jagannatha-dasa-odia", "@balarama-dasa-odia", "@yashovanta-odia", "@achyutananda-odia", "@ananta-odia", "@svarupa-damodara", "@gadadhara-pandita", "@shivananda-sena"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 13–14"
+  notes: "Шивананда — вероятно, Шивананда Сена (не уточнено)."
+  themes: [festival, kirtan, jagannatha]
+  cc: "Мадхья 13"
+  divergence: "Встреча царя с Господом сразу после киртана (в ЧЧ — позже, в саду, с «Гопи-гитой», Мадхья 14); в киртане — орийская Панчасакха (в ЧЧ — семь групп бенгальских преданных)."
+  event: ev-ratha-yatra-gundicha
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.1", to: "5.13"}

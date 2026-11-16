@@ -1971,6 +1971,7 @@
    "gkd-0078",
    "lcm-0218",
    "mkc-0173",
+   "vlm-0120",
    "cc-0313",
    "cc-0087",
    "cc-1087",
@@ -2163,6 +2164,7 @@
    "lcm-0226",
    "mkc-0183",
    "gkr-0101",
+   "vlm-0121",
    "cc-2002",
    "cc-2003",
    "ccd-0062",
@@ -2432,6 +2434,7 @@
    "kcm-0133",
    "lcm-0248",
    "mkc-0233",
+   "vlm-0125",
    "vv-0026",
    "vv-0054",
    "cc-0330",
@@ -4830,6 +4833,7 @@
    "mkc-0168",
    "pad-0052",
    "cc-1052",
+   "vlm-0120",
    "ccd-0055",
    "gkd-0079",
    "lcm-0220",
@@ -5433,6 +5437,7 @@
    "mkc-0151",
    "cc-1033",
    "vlm-0105",
+   "vlm-0120",
    "ccd-0055",
    "gkd-0079",
    "gkr-0032",
@@ -13895,6 +13900,7 @@
    "cb-3120",
    "cb-3123",
    "cc-2099",
+   "vlm-0125",
    "brt-4014",
    "cc-2104",
    "gkd-0122",
@@ -14137,6 +14143,7 @@
    "ev-farewell-gauda-devotees-instructions",
    "ev-nityananda-preaching-gauda",
    "ev-pundarika-odana-shashthi-slap",
+   "ev-ratha-yatra-gundicha",
    "ev-gadadhara-leaves-kshetra-sannyasa",
    "ev-departure-for-gauda",
    "ev-ramakeli-rupa-sanatana",
@@ -19913,6 +19920,7 @@
    "kcm-0122",
    "ccd-0052",
    "cc-1062",
+   "vlm-0120",
    "apr-0090",
    "cc-1071",
    "ccd-0055",
@@ -19946,15 +19954,18 @@
    "cc-1119",
    "ccd-0061",
    "kcm-0129",
+   "vlm-0121",
    "kcm-0132",
    "cc-0143",
    "cc-2005",
    "gkd-0100",
    "mkc-0192",
+   "vlm-0122",
    "pad-0031",
    "pad-0225",
    "pad-0226",
    "pad-0301",
+   "vlm-0124",
    "cc-2018",
    "gkd-0102",
    "cc-0325",
@@ -19980,6 +19991,7 @@
    "cb-3075",
    "gkr-0104",
    "mkc-0233",
+   "vlm-0125",
    "cc-0338",
    "cc-2101",
    "ccd-0076",
@@ -20097,9 +20109,10 @@
    "ev-kashi-mishra-residence",
    "ev-bhavananda-raya-pandu",
    "ev-devotees-gather-nilachala",
+   "ev-ramananda-comes-to-puri",
    "ev-nilachala-sankirtana",
    "ev-phagu-nilachala",
-   "ev-ramananda-comes-to-puri",
+   "ev-ramananda-mandapa-puri",
    "ev-lord-narrates-jagannatha-glory",
    "ev-svarupa-paramananda-arrive",
    "ev-gauda-devotees-arrive-puri",
@@ -20570,6 +20583,7 @@
    "cb-3124",
    "cc-2099",
    "ccd-0075",
+   "vlm-0125",
    "gst-0018",
    "brt-4014",
    "cc-2115",
@@ -21208,6 +21222,8 @@
    "cc-2002",
    "gkd-0098",
    "ccd-0062",
+   "vlm-0122",
+   "vlm-0123",
    "cc-2017",
    "cc-2032",
    "cc-2018",
@@ -21262,6 +21278,7 @@
    "kcm-0133",
    "lcm-0248",
    "mkc-0233",
+   "vlm-0125",
    "vv-0026",
    "vv-0054",
    "cc-0330",
@@ -21328,8 +21345,9 @@
    "ev-return-from-south",
    "ev-prataparudra-asks-sarvabhauma",
    "ev-kashi-mishra-residence",
-   "ev-lord-refuses-to-see-king",
    "ev-ramananda-comes-to-puri",
+   "ev-jivadeva-kavi-dindima-rajamahendri",
+   "ev-lord-refuses-to-see-king",
    "ev-snana-yatra-anavasara-alalanatha",
    "ev-prataparudra-watches-devotees-roof",
    "ev-gauda-devotees-arrive-puri",
@@ -29631,6 +29649,7 @@
    "cc-0333",
    "cc-2094",
    "ccd-0075",
+   "vlm-0125",
    "pad-0021",
    "cc-2107",
    "ccd-0079",
@@ -29683,6 +29702,7 @@
    "ev-shivananda-dog",
    "ev-gauda-devotees-come-with-wives",
    "ev-nrisimhananda-three-offerings",
+   "ev-ratha-yatra-gundicha",
    "ev-gadadhara-leaves-kshetra-sannyasa",
    "ev-gauda-journey-ganga-villages",
    "ev-srivasa-test-sannyasa",
@@ -46912,10 +46932,12 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0105",
+   "vlm-0125",
    "vlm-0104"
   ],
   "events": [
-   "ev-jagannatha-dasa-rahasa"
+   "ev-jagannatha-dasa-rahasa",
+   "ev-ratha-yatra-gundicha"
   ]
  },
  {
@@ -47364,11 +47386,13 @@
   "lilas": [
    "vlm-0105",
    "vlm-0002",
+   "vlm-0125",
    "vlm-0104"
   ],
   "events": [
    "ev-jagannatha-dasa-rahasa",
-   "ev-jagannatha-dasa-bhagavata-meeting"
+   "ev-jagannatha-dasa-bhagavata-meeting",
+   "ev-ratha-yatra-gundicha"
   ]
  },
  {
@@ -47568,6 +47592,7 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0118",
+   "vlm-0124",
    "vlm-0101",
    "vlm-0102",
    "vlm-0103",
@@ -47575,7 +47600,8 @@
    "vlm-0115"
   ],
   "events": [
-   "ev-ramananda-governor-rajamahendri"
+   "ev-ramananda-governor-rajamahendri",
+   "ev-ramananda-mandapa-puri"
   ]
  },
  {
@@ -55426,10 +55452,12 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0105",
+   "vlm-0125",
    "vlm-0104"
   ],
   "events": [
-   "ev-jagannatha-dasa-rahasa"
+   "ev-jagannatha-dasa-rahasa",
+   "ev-ratha-yatra-gundicha"
   ]
  },
  {
@@ -55440,10 +55468,12 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0105",
+   "vlm-0125",
    "vlm-0104"
   ],
   "events": [
-   "ev-jagannatha-dasa-rahasa"
+   "ev-jagannatha-dasa-rahasa",
+   "ev-ratha-yatra-gundicha"
   ]
  },
  {
@@ -55454,10 +55484,12 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0105",
+   "vlm-0125",
    "vlm-0104"
   ],
   "events": [
-   "ev-jagannatha-dasa-rahasa"
+   "ev-jagannatha-dasa-rahasa",
+   "ev-ratha-yatra-gundicha"
   ]
  },
  {
@@ -55468,10 +55500,12 @@
   "section": "Аллегорические лица",
   "lilas": [
    "vlm-0112",
+   "vlm-0123",
    "vlm-0104"
   ],
   "events": [
-   "ev-two-gita-govindas-test"
+   "ev-two-gita-govindas-test",
+   "ev-jivadeva-kavi-dindima-rajamahendri"
   ]
  },
  {
@@ -55481,10 +55515,12 @@
   "note": "построил мандапу рахасы у Бата-Ганеши («Вайшнава-лиламрита» 2.25, 2.27); кто это — не выяснено",
   "section": "Аллегорические лица",
   "lilas": [
-   "vlm-0105"
+   "vlm-0105",
+   "vlm-0125"
   ],
   "events": [
-   "ev-jagannatha-dasa-rahasa"
+   "ev-jagannatha-dasa-rahasa",
+   "ev-ratha-yatra-gundicha"
   ]
  },
  {
@@ -55632,6 +55668,32 @@
   ],
   "events": [
    "ev-ismail-gazi-raid-deities-hidden"
+  ]
+ },
+ {
+  "id": "@budha-lenka",
+  "ru": "Будха Ленка",
+  "en": "Budha Lenka",
+  "note": "придворный Пратапарудры, сообщает о приходе юного санньяси («Вайшнава-лиламрита» 5.4)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0125"
+  ],
+  "events": [
+   "ev-ratha-yatra-gundicha"
+  ]
+ },
+ {
+  "id": "@tadhau",
+  "ru": "Тадхау (храмовый летописец)",
+  "en": "Tadhau",
+  "note": "читает царю панджи (храмовую хронику) («Вайшнава-лиламрита» 5.5)",
+  "section": "Аллегорические лица",
+  "lilas": [
+   "vlm-0125"
+  ],
+  "events": [
+   "ev-ratha-yatra-gundicha"
   ]
  }
 ]
