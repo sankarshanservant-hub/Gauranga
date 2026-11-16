@@ -14,7 +14,7 @@ Devakinandana in the “Vaishnava-vandana” calls him Ishana Dasa; Narahari Cha
 Ishana, Ishana Thakura, “Sri Ishana Mahashaya,” “Ishana, dear to the Lord,” and “the Lord's Ishana.” The biographies call
 him Sri Ishana Thakura, Sri Ishana Prabhu, Ishana Dasa and “Mahaprabhu's family servant.”[^1] <!-- F1 -->
 
-The biographies call him the household servant (*griha-bhritya*) of Sri Jagannatha Mishra, and Srila Bhaktisiddhanta
+By position he was the household servant (*griha-bhritya*) of Sri Jagannatha Mishra; Srila Bhaktisiddhanta
 Sarasvati in the “Gaudiya-bhashya” calls him “the servant in the Lord's house” (*prabhura griha-bhritya*); he is spoken of
 also as “the old servant of Sri Shachimata” and as one who served the Lord personally in His own home. But the word
 should not mislead us: this was no worldly post of a hired domestic. To serve the Lord in His house — to touch Him, feed
@@ -44,8 +44,8 @@ Vrindavana Dasa, Devakinandana and Narahari Chakravarti — make up our story. <
 ## Nimai in Ishana's Arms
 Ishana knew the Lord from His first days. When Mahaprabhu was born, Ishana would take Him on his lap and hold Him
 tenderly; later he carried the growing Nimai in his arms, bore with all His childish pranks and fulfilled all His whims.
-And Nimai grew so attached to him that He could not do without Ishana for a moment (*eka-danda*). Narahari Chakravarti,
-in the words of an old brahmana of Navadvipa, says:
+And Nimai grew so attached to him that He could not do without Ishana for a moment (*eka-danda*). An old brahmana of
+Navadvipa, whose meeting with Srinivasa we shall describe later, told him:
 
 “How can I describe Ishana's doings? That Ishana is very dear to Nimai-chandra; Ishana's life is Shachinandana Nimai;
 without Ishana Nimai goes nowhere; in childhood Nimai was very restless — whatever whim He took up, Ishana would fulfil
@@ -82,8 +82,8 @@ Shachi-devi's affection” (part 1, v. 50), the “Sri Vaishnavabhidhana” list
 16), and the tripadi of the “second” Vrindavana Dasa calls him “the vessel of Ai's mercy, Ishana, whom Ai brought up”
 (part 5, v. 37). <!-- F12 Q4 F13 -->
 
-The old people of Navadvipa saw that love with their own eyes. Many years later an old brahmana, meeting Srinivasa on
-the road, told him: “I have just come from seeing Ishana. What can I say — who does not long for his virtues? His
+The old people of Navadvipa saw that love with their own eyes. That same old brahmana, meeting Srinivasa on the road,
+began his account thus: “I have just come from seeing Ishana. What can I say — who does not long for his virtues? His
 knowledge of all truths is known everywhere; he served Sri Shachi-devi as was fitting; and how Shachi-devi loved Ishana I
 cannot tell: I saw it with my own eyes” (“Bhakti-ratnakara” 12.90–93).[^5] <!-- F14 Q5 -->
 
@@ -116,8 +116,8 @@ When Mahaprabhu took sannyasa and left home to live in Puri, the care of His hou
 wife Vishnupriya-devi fell to Ishana. Together with him Vamshivadana Thakura was blessed with this service: both became
 the servants and protectors of Vishnupriya and Shachi. <!-- F19 F22 -->
 
-Of the first morning without the Lord Vasu Ghosha sings. Shachi, waking, learns that her son has gone; she lies as if
-dead and, “striking her head with her hand, she gestures to Ishana: ‘Gora has gone, leaving Nadia’” (pada of Vasu Ghosha,
+Of the first morning without the Lord Vasu Ghosha sings. Shachi, waking, learns that her son has gone and lies as if
+dead: “striking her head with her hand, she gestures to Ishana: ‘Gora has gone, leaving Nadia’” (pada of Vasu Ghosha,
 “Pada-kalpataru” 2222). In her grief she cannot speak.
 
 This is no worldly despair but *vipralambha*, the separation of the Lord's mother from her son — the feeling in which
