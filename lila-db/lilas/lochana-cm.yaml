@@ -604,7 +604,7 @@
   date: "Нитьянанда — магха, шукла-трайодаши"
   title: "Нисхождение спутников: Адвайта, Нитьянанда, Сита и другие"
   summary: "По повелению Господа все рождаются своими частями: Махеша — как Адвайта Ачарья (Камалакша), который не тамогуни, а исполнен саттвы; Баларама — как Нитьянанда, сын Падмавати (имя в детстве — Кувера Пандит); Катьяяни — как Сита; далее — перечень спутников: родители Господа, Гададхара, Мурари, Шриваса, Рамананда, Харидас, Пури, Вишнуприя, двенадцать гопалов, Рупа и Санатана и многие другие."
-  persons: ["@advaita", "@shiva", "@nityananda", "@balarama", "@sita-thakurani", "@parvati", "@shachi", "@jagannatha-mishra", "@gadadhara-pandita", "@gadadhara-dasa", "@murari-gupta", "@mukunda-datta", "@srivasa", "@ramananda-raya", "@haridasa-thakura", "@ishvara-puri", "@madhavendra-puri", "@vishnupriya", "@rupa-gosvami", "@sanatana-gosvami", "@vrindavana-dasa", "@damodara-pandita", "@lochana-dasa"]
+  persons: ["@advaita", "@shiva", "@nityananda", "@balarama", "@sita-thakurani", "@parvati", "@shachi", "@jagannatha-mishra", "@gadadhara-pandita", "@gadadhara-dasa", "@murari-gupta", "@mukunda-datta", "@srivasa", "@ramananda-raya", "@haridasa-thakura", "@ishvara-puri", "@madhavendra-puri", "@vishnupriya", "@rupa-gosvami", "@sanatana-gosvami", "@vrindavana-dasa", "@damodara-pandita", "@lochana-dasa", "@kaliya-krishnadasa"]
   places: []
   kind: pre-advent
   authority: B

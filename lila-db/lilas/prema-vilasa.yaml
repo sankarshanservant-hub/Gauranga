@@ -2969,7 +2969,7 @@
   order: 105
   title: "Съезд в Кхетури: Шринивас с учениками, Шьямананда с Расикой, Джахнава с Вирачандрой и Мадхавой, сыновья Адвайты, Ядунандана, Рагхунандана; сон Нароттамы о пляске Господа"
   summary: "В Кхетури приходят Шринивас, Рамачандра, Говинда, Вьяса, Кришнавальлабха и другие, Шьямананда с Расикой и Мурари из Уткалы, Джахнава из Кхардахи с Вирачандрой, зятем Мадхавой Ачарьей и многими, Хридая Чайтанья, Гопала и Ачьютананда из Шантипура с Мадхавой Ачарьей — певцом «Кришна-мангалы», Шрипати и Шринидхи из Навадвипы, Ядунандана из Катоа, Рагхунандана с Лочаной из Кханды, Наянананда и другие; Нароттама принимает всех, а ночью Чайтанья во сне обещает назавтра плясать в санкиртане со Своими преданными."
-  persons: ["@narottama-dasa", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@vyasa-acharya", "@krishnavallabha", "@shyamananda", "@rasikananda", "@jahnava", "@virabhadra", "@madhava-acharya-ganga", "@hridaya-chaitanya", "@gopala-dasa-advaita", "@achyutananda", "@madhava-acharya-kavivallabha", "@yadunandana-chakravarti", "@raghunandana", "@lochana-dasa", "@santosha-raya", "@mahaprabhu"]
+  persons: ["@narottama-dasa", "@srinivasa-acharya", "@ramachandra-kaviraja", "@govinda-kaviraja", "@vyasa-acharya", "@krishnavallabha", "@shyamananda", "@rasikananda", "@jahnava", "@virabhadra", "@madhava-acharya-ganga", "@hridaya-chaitanya", "@gopala-dasa-advaita", "@achyutananda", "@madhava-acharya-kavivallabha", "@yadunandana-chakravarti", "@raghunandana", "@lochana-dasa", "@santosha-raya", "@mahaprabhu", "@krishnadasa-akaihat"]
   places: ["#kheturi"]
   kind: lila
   authority: C

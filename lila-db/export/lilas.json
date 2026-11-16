@@ -8873,7 +8873,8 @@
    "@sanatana-gosvami",
    "@vrindavana-dasa",
    "@damodara-pandita",
-   "@lochana-dasa"
+   "@lochana-dasa",
+   "@kaliya-krishnadasa"
   ],
   "places": [],
   "kind": "pre-advent",
@@ -204480,7 +204481,8 @@
    "@purandara-pandita",
    "@gauridasa-pandita",
    "@advaita",
-   "@sita-thakurani"
+   "@sita-thakurani",
+   "@kaliya-krishnadasa"
   ],
   "places": [
    "#gauda",
@@ -223352,7 +223354,8 @@
    "@raghunandana",
    "@gadadhara-dasa",
    "@jnanadasa",
-   "@mahaprabhu"
+   "@mahaprabhu",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kharadaha",
@@ -223421,7 +223424,8 @@
    "@hridaya-chaitanya",
    "@vyasa-acharya",
    "@gokulananda",
-   "@shridasa-chakravarti"
+   "@shridasa-chakravarti",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kheturi"
@@ -223609,7 +223613,8 @@
    "@raghunandana",
    "@lochana-dasa",
    "@santosha-raya",
-   "@mahaprabhu"
+   "@mahaprabhu",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kheturi"
@@ -224096,7 +224101,8 @@
    "@shripati",
    "@ramachandra-kaviraja",
    "@shyamananda",
-   "@jnanadasa"
+   "@jnanadasa",
+   "@krishnadasa-akaihat"
   ],
   "places": [
    "#kheturi"
@@ -243426,7 +243432,7 @@
    "@dhananjaya-pandita",
    "@yadunatha-kavichandra",
    "@jagadisha-pandita",
-   "@kala-krishnadasa",
+   "@kaliya-krishnadasa",
    "@sadashiva-kaviraja",
    "@uddharana-datta",
    "@mahesha-pandita",
@@ -243440,7 +243446,7 @@
   "places": [],
   "kind": "author",
   "authority": "A",
-  "notes": "Ст. 744 в md искажён (слит с пояснением).",
+  "notes": "Ст. 744 в md искажён (слит с пояснением). Ст. 740 «Калия Кришнадас» — @kaliya-krishnadasa (из двенадцати гопалов), не @kala-krishnadasa (слуга Господа на юге; «Анубхашья» к ЧЧ Мадхья 7.39).",
   "themes": [
    "author"
   ],

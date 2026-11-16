@@ -2069,7 +2069,7 @@
   order: 20
   title: "Нитьянанда в облике борца берёт в жёны Васу и Джахнаву; чудеса Его спутников"
   summary: "Нитьянанда, со шнуром и шикхой, странствует в облике великого борца и берёт в жёны Васу и Джахнаву, дочерей Сурьядаса; от Васу рождается Вирабхадра. Его спутники в экстазе: Мурари Чайтаньядас ловит тигра, Сундарананда — крокодила, Гангадас семь дней в омуте Ганги, Гададхара Дас бросается в огонь, Мурари Гупта как Хануман; Нитьянанда поселяется в Кхардахе, род Адвайты — в Шантипуре; бесчисленны слуги Чайтаньи и Нитьянанды."
-  persons: ["@nityananda", "@vasudha", "@jahnava", "@virabhadra", "@sundarananda", "@gadadhara-dasa", "@murari-gupta", "@purandara-pandita", "@gauridasa-pandita", "@advaita", "@sita-thakurani"]
+  persons: ["@nityananda", "@vasudha", "@jahnava", "@virabhadra", "@sundarananda", "@gadadhara-dasa", "@murari-gupta", "@purandara-pandita", "@gauridasa-pandita", "@advaita", "@sita-thakurani", "@kaliya-krishnadasa"]
   places: ["#gauda", "#shantipura"]
   kind: lila
   authority: C

@@ -710,7 +710,7 @@
   order: 104.7
   title: "Путь Джахнавы в Кхетури: небесный голос в Кхардахе, Амбика, Навадвипа, Акаихат, Катва (рассказ вестника)"
   summary: "Вестник рассказывает: спутники Нитьянанды в Кхардахе просят Васудху и Джахнаву идти в Кхетури; при выходе голос с неба (Господа) обещает плясать в санкиртане в Кхетури и предсказывает путь Джахнавы во Вриндаван; в Амбике к ней присоединяются Хридая Чайтанья и Чайтанья Дас, сын Вамшиваданы; весть из Шантипура об Ачьютананде; в Навадвипе у Шривасы — Ачьютананда, Гопала, Шрипати, Шринидхи; в Акаихате — певец Кришнадас; в Катве у Ядунанданы — Рагхунандана, Ванинатха и другие; Джахнава сама готовит угощение Гауранге."
-  persons: ["@jahnava", "@vasudha", "@virabhadra", "@ganga-nityananda", "@parameshvara-dasa", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@vamshivadana", "@achyutananda", "@gopala-dasa-advaita", "@sita-thakurani", "@shripati", "@yadunandana-chakravarti", "@raghunandana", "@gadadhara-dasa", "@jnanadasa", "@mahaprabhu"]
+  persons: ["@jahnava", "@vasudha", "@virabhadra", "@ganga-nityananda", "@parameshvara-dasa", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@vamshivadana", "@achyutananda", "@gopala-dasa-advaita", "@sita-thakurani", "@shripati", "@yadunandana-chakravarti", "@raghunandana", "@gadadhara-dasa", "@jnanadasa", "@mahaprabhu", "@krishnadasa-akaihat"]
   places: ["#kharadaha", "#ambika-kalna", "#navadvipa", "#katwa"]
   kind: post-advent
   authority: B
@@ -727,7 +727,7 @@
   order: 104.8
   title: "Встреча Джахнавы и спутников у Кхетури; размещение гостей"
   summary: "Шриниваса, Нароттама и Шьямананда встречают Джахнаву, Ачьютананду и других; объятия; Шриниваса размещает гостей и приставляет к каждой группе своих учеников (Рамачандру к Джахнаве, Шьямананду к Хридае Чайтанье и т. д.), выдаёт каждому кладовую. Подпись автора и колофон."
-  persons: ["@jahnava", "@achyutananda", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@karnapura-kaviraja", "@govinda-kaviraja", "@hridaya-chaitanya", "@vyasa-acharya", "@gokulananda", "@shridasa-chakravarti"]
+  persons: ["@jahnava", "@achyutananda", "@srinivasa-acharya", "@narottama-dasa", "@shyamananda", "@ramachandra-kaviraja", "@karnapura-kaviraja", "@govinda-kaviraja", "@hridaya-chaitanya", "@vyasa-acharya", "@gokulananda", "@shridasa-chakravarti", "@krishnadasa-akaihat"]
   places: ["#kheturi"]
   kind: post-advent
   authority: B
@@ -834,7 +834,7 @@
   order: 105.4
   title: "Второй день праздника в Кхетури: угощение махантов, дары раджи Сантоши; пашанди обращаются"
   summary: "Повара махантов готовят по жилищам, Сантоша Рай дарит махантам и их людям шёлк, монеты, утварь; перечислены сидевшие за трапезой у Джахнавы, Ачьютананды, Хридаи Чайтаньи, Рагхунанданы, Ядунанданы; прасад получают все, даже чандалы; люди говорят, что пашанди едят остатки вайшнавов и поют о Гауре."
-  persons: ["@srinivasa-acharya", "@narottama-dasa", "@santosha-datta", "@jahnava", "@achyutananda", "@gopala-dasa-advaita", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@raghunandana", "@yadunandana-chakravarti", "@shripati", "@ramachandra-kaviraja", "@shyamananda", "@jnanadasa"]
+  persons: ["@srinivasa-acharya", "@narottama-dasa", "@santosha-datta", "@jahnava", "@achyutananda", "@gopala-dasa-advaita", "@hridaya-chaitanya", "@chaitanya-dasa-vamshi", "@raghunandana", "@yadunandana-chakravarti", "@shripati", "@ramachandra-kaviraja", "@shyamananda", "@jnanadasa", "@krishnadasa-akaihat"]
   places: ["#kheturi"]
   kind: post-advent
   authority: B

@@ -1684,11 +1684,11 @@
   order: 305
   title: "Перечень спутников Нитьянанды"
   summary: "Автор перечисляет известных ему слуг Нитьянанды — проявления пастушков и пастушек из окружения Нанды, чьи прежние имена по запрету Нитьянанды не раскрывает: Рамадас (в его теле три месяца пребывал Кришна), Мурари Чайтанья Дас, Рагхунатха Вайдья Упадхьяя, Гададхара Дас, Сундарананда, Камалаканта (проповедник Саптаграмы), Гауридас, Пурандара, Парамешвари Дас, Дхананджая, Баларама Дас, Ядунатха Кавичандра, Джагадиш, Пурушоттама Пандит, Кришнадас из Радха-деши, Кала Кришнадас, Садашива Кавирадж и его сын Пурушоттама Дас, Уддхарана Датта, Махеша, Парамананда Упадхьяя, Гангадас, Вайшнавананда (прежде Рагхунатха Пури), Парамананда Гупта, Кришнадас из Бадагачхи, Мадхавананда и Васудева Гхоши, Джива Пандит и другие; у каждого — тысячи последователей."
-  persons: ["@vrindavana-dasa", "@nityananda", "@abhirama", "@murari-chaitanya-dasa", "@raghunatha-vaidya-upadhyaya", "@gadadhara-dasa", "@sundarananda", "@gauridasa-pandita", "@purandara-pandita", "@parameshvara-dasa", "@dhananjaya-pandita", "@yadunatha-kavichandra", "@jagadisha-pandita", "@kala-krishnadasa", "@sadashiva-kaviraja", "@uddharana-datta", "@mahesha-pandita", "@vaishnavananda", "@paramananda-gupta", "@krishnadasa-badagachhi", "@madhava-ghosha", "@vasu-ghosha", "@jiva-pandita"]
+  persons: ["@vrindavana-dasa", "@nityananda", "@abhirama", "@murari-chaitanya-dasa", "@raghunatha-vaidya-upadhyaya", "@gadadhara-dasa", "@sundarananda", "@gauridasa-pandita", "@purandara-pandita", "@parameshvara-dasa", "@dhananjaya-pandita", "@yadunatha-kavichandra", "@jagadisha-pandita", "@kaliya-krishnadasa", "@sadashiva-kaviraja", "@uddharana-datta", "@mahesha-pandita", "@vaishnavananda", "@paramananda-gupta", "@krishnadasa-badagachhi", "@madhava-ghosha", "@vasu-ghosha", "@jiva-pandita"]
   places: []
   kind: author
   authority: A
-  notes: "Ст. 744 в md искажён (слит с пояснением)."
+  notes: "Ст. 744 в md искажён (слит с пояснением). Ст. 740 «Калия Кришнадас» — @kaliya-krishnadasa (из двенадцати гопалов), не @kala-krishnadasa (слуга Господа на юге; «Анубхашья» к ЧЧ Мадхья 7.39)."
   themes: [author]
   teaching: [associates-tattva]
   verses:
