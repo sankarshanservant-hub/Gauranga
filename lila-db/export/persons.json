@@ -4342,6 +4342,14 @@
     "type": "guest"
    },
    {
+    "from": "@prakashananda-sarasvati",
+    "type": "opposed"
+   },
+   {
+    "from": "@prakashananda-sarasvati",
+    "type": "met"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
@@ -16425,6 +16433,10 @@
     "type": "other"
    },
    {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@raghunandana",
     "type": "other"
    },
@@ -19582,6 +19594,10 @@
    {
     "from": "@madhavendra-puri",
     "type": "disciple"
+   },
+   {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
    }
   ]
  },
@@ -19903,6 +19919,10 @@
    {
     "from": "@paramananda-puri",
     "type": "host"
+   },
+   {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
    },
    {
     "from": "@ramachandra-puri",
@@ -23326,6 +23346,10 @@
    },
    {
     "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@prakashananda-sarasvati",
     "type": "other"
    },
    {
@@ -30473,6 +30497,10 @@
     "type": "met"
    },
    {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@raghunatha-bhatta",
     "type": "father"
    },
@@ -30831,6 +30859,10 @@
    {
     "from": "@jagadananda-pandita",
     "type": "met"
+   },
+   {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
    },
    {
     "from": "@raghunatha-bhatta",
@@ -36693,6 +36725,10 @@
    },
    {
     "from": "@gopala-guru",
+    "type": "other"
+   },
+   {
+    "from": "@prakashananda-sarasvati",
     "type": "other"
    },
    {
@@ -43983,6 +44019,10 @@
     "type": "other"
    },
    {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@pundarika-vidyanidhi",
     "type": "other"
    },
@@ -50884,6 +50924,110 @@
    "ev-sanatana-kashi-instruction",
    "ev-varanasi-sannyasis"
   ],
+  "card": "parshadas/cards/prakashananda-sarasvati.yaml",
+  "article": {
+   "ru": "parshadas/ru/prakashananda-sarasvati.md",
+   "en": "parshadas/en/prakashananda-sarasvati.md"
+  },
+  "kind": "opponent",
+  "life": {
+   "appearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "год, день и место явления источники не называют; по предисловию Бхактисиддханты — житель Арьяварты (северянин); в календаре Шри Чайтанья Сарасват Матха (vaishnavacalendar.org/chiangmai/541/ru, проверено 2026-11-16) его дней нет",
+    "facts": [
+     "F6"
+    ]
+   },
+   "disappearance": {
+    "date": "",
+    "tithi": "",
+    "place": "",
+    "conf": "об уходе и дальнейшей жизни после обращения источники молчат; в календаре ШЧСМ (541/ru, проверено 2026-11-16) дня ухода нет",
+    "facts": [
+     "F6"
+    ]
+   }
+  },
+  "identities": [],
+  "relations": [
+   {
+    "type": "opposed",
+    "who": "@mahaprabhu",
+    "note": "До обращения: отвергал вечный облик Господа (ЧБ Мадхья 3.37–40, 20.33–40 — слова Господа о нём, проказа, ⚠Б2); хулил Его как санньяси-«бхавуку» и «чародея» (ЧЧ Мадхья 17.115–121), трижды сказал «Чайтанья», но не «Кришна» (17.125–127); спросил, почему Он поёт и пляшет, а не изучает Веданту (Ади 7.66–70)."
+   },
+   {
+    "type": "met",
+    "who": "@mahaprabhu",
+    "note": "Обращён милостью Господа: в доме брахмана (ЧЧ Ади 7.58–153 — сияние, беседа о Веданте, просьба о прощении, имя Кришны) и у Бинду-Мадхавы (Мадхья 25.65–152 — Господь склоняется к его стопам, он обнимает стопы Господа, называет Его Сваям Бхагаваном и слушает суть «Веданта-сутры»: «Бхагаватам» — её комментарий; ⚠5, ⚠Б5). Иначе — «Гаура-кришнодая» 16.28–39 (⚠9)."
+   },
+   {
+    "type": "other",
+    "who": "@kashi-vipra-host",
+    "note": "Пригласил всех санньяси и Господа в свой дом (ЧЧ Ади 7.52–58); то же лицо, что @maharashtra-vipra-kashi (Мадхья 25.14–16; B 1046) — в lila-db два тега (⚠13)."
+   },
+   {
+    "type": "other",
+    "who": "@maharashtra-vipra-kashi",
+    "note": "Рассказал ему о величии Господа и услышал насмешки (ЧЧ Мадхья 17.105–121); позже передал Господу его речь в пользу бхакти (Мадхья 25.58–60) и рассказал собранию о 61 толковании «атмарамы» (25.153). = @kashi-vipra-host (⚠13)."
+   },
+   {
+    "type": "other",
+    "who": "@chandrashekhara-vaidya",
+    "note": "Не мог терпеть хулы санньяси на Господа (ЧЧ Ади 7.49–51; Мадхья 25.12); ликовал при их обращении (Ади 7.153); пел у Бинду-Мадхавы (Мадхья 25.62)."
+   },
+   {
+    "type": "other",
+    "who": "@tapana-mishra",
+    "note": "Вместе с Чандрашекхарой просил Господа о милости к хулителям (Ади 7.49–51); ликовал (7.153); пел у Бинду-Мадхавы (Мадхья 25.62)."
+   },
+   {
+    "type": "other",
+    "who": "@sanatana-gosvami",
+    "note": "Был в Каши при обращении санньяси, ликовал (Ади 7.153); пел у Бинду-Мадхавы (Мадхья 25.62). = @sanatana-gosvami F244."
+   },
+   {
+    "type": "other",
+    "who": "@paramananda-kirtaniya",
+    "note": "Пел у Бинду-Мадхавы, когда пришёл Пракашананда (ЧЧ Мадхья 25.62; у B — «Парамананда»)."
+   },
+   {
+    "type": "other",
+    "who": "@keshava-bharati",
+    "note": "Пракашананда называет Господа учеником Кешавы Бхарати (ЧЧ Ади 7.66; Мадхья 17.116); Господь из ветви «Бхарати» считает ветвь «Сарасвати» высшей («Анубхашья» к Ади 7.64)."
+   },
+   {
+    "type": "other",
+    "who": "@shankaracharya",
+    "note": "Последователь его школы; по ЧЧ Ади 7.109–136 Господь показал косвенность его толкований, а сам Пракашананда, уже обращённый, признал, что Шанкара исказил сутры ради адвайта-вады (Мадхья 25.45–48; ⚠Б3)."
+   },
+   {
+    "type": "other",
+    "who": "@sarvabhauma",
+    "note": "В насмешках: «и Сарвабхаума, говорят, обезумел от Чайтаньи» (ЧЧ Мадхья 17.119); T 178 — обращение Сарвабхаумы и Пракашананды больше спасения Джагая и Мадхая."
+   },
+   {
+    "type": "other",
+    "who": "@murari-gupta",
+    "note": "В его доме Господь дважды обличил Пракашананду (ЧБ Мадхья 3.35–40, 20.31–40). = @murari-gupta F37, F53."
+   },
+   {
+    "type": "other",
+    "who": "@prabodhananda-sarasvati",
+    "note": "Не одно лицо: отождествление («Бхакта-мала» Лал Даса, «Адвайта-пракаша» 17, словари) отвергает Бхактисиддханта («Анубхашья» к ЧЧ Ади 7.149, Мадхья 17.104; «Гаудия-бхашья» к ЧБ Мадхья 3.37; предисловие к «Чайтанья-чандрамрите»). = @prabodhananda-sarasvati F35–F43 (⚠Б8)."
+   },
+   {
+    "type": "other",
+    "who": "@lala-dasa",
+    "note": "Его «Бхакта-мала» (с. 358) отождествила Пракашананду с Прабодханандой — ошибка (B 607, 888)."
+   },
+   {
+    "type": "other",
+    "who": "@bhaktisiddhanta",
+    "note": "«Анубхашья» к ЧЧ Ади 7.41, 7.64, 7.149, Мадхья 17.87, 17.104, 17.116, 25.45, 25.60; «Гаудия-бхашья» к ЧБ Мадхья 3.37–38, 20.34; предисловие к «Чайтанья-чандрамрите»: глава экаданди Каши, не Прабодхананда."
+   }
+  ],
   "related_by": [
    {
     "from": "@murari-gupta",
@@ -50921,6 +51065,12 @@
    "ev-varanasi-sannyasis",
    "ev-return-to-puri-from-vrindavana",
    "ev-rupa-gauda-anupama-passing"
+  ],
+  "related_by": [
+   {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
+   }
   ]
  },
  {
@@ -52902,6 +53052,10 @@
     "type": "opposed"
    },
    {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@ramanujacharya",
     "type": "opposed"
    }
@@ -53173,6 +53327,10 @@
   ],
   "related_by": [
    {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
+   },
+   {
     "from": "@sanatana-gosvami",
     "type": "met"
    }
@@ -53250,6 +53408,12 @@
   "events": [
    "ev-varanasi-sannyasis",
    "ev-return-to-puri-from-vrindavana"
+  ],
+  "related_by": [
+   {
+    "from": "@prakashananda-sarasvati",
+    "type": "other"
+   }
   ]
  },
  {
@@ -56708,6 +56872,10 @@
   "related_by": [
    {
     "from": "@prabodhananda-sarasvati",
+    "type": "other"
+   },
+   {
+    "from": "@prakashananda-sarasvati",
     "type": "other"
    }
   ]
