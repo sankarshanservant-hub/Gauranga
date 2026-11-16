@@ -773,3 +773,10 @@
 | @umapatidhara | Умапатидхара | Umapatidhara | придворный поэт Лакшманы Сены, друг Джаядевы (B 900; «Гита-говинда» 1.4) |
 | @bhojadeva | Бходжадева | Bhojadeva | отец Джаядевы (B 900; T 1; M 72; «Анубхашья» ЧЧ Ади 13.42) |
 | @vamadevi | Вамадеви | Vamadevi | мать Джаядевы (B 900; T 1; M 72 — «Bamadevi») |
+| @madhava-dasa-kuliya | Мадхава Дас (Чхакари) Чаттопадхьяя, Кулия | Madhava Dasa (Chhakari) Chattopadhyaya of Kuliya | отец @vamshivadana; в его доме в Кулии Господь прожил семь дней (ЧЧ Мадхья 16.208; ЧЧН 9; B 911; T 68; M 240); не путать с @madhava-dasa-shrikhanda |
+| @chandrakala-devi | Чандракала-деви | Chandrakala Devi | мать @vamshivadana (B 911; T 68; M 240) |
+| @nityananda-dasa-vamshi | Нитьянанда Дас, сын Вамшиваданы | Nityananda Dasa, son of Vamshivadana | B 912; T 68; M 241 («Nitai dasa»); не путать с @nityananda-dasa-author |
+| @shachinandana-baghnapara | Шачинандана Госвами (Багхнапара) | Shachinandana Gosvami (of Baghnapara) | внук @vamshivadana, сын @chaitanya-dasa-vamshi, брат @ramai-jahnava; служил Раме-Канаи в Багхнапаре; его потомки — госвами Багхнапары (B 912; M 241) |
+| @pranavallabha-kuliya | Пранаваллабха — Божество Вамшиваданы | Pranavallabha, the Deity of Vamshivadana | Кулия (B 912; T 68; M 241); не путать с Пранаваллабхой Бодхканы (B 926) |
+| @gopinatha-kuliya | Гопинатха — родовое Божество Вамшиваданы | Gopinatha, the ancestral Deity of Vamshivadana | Кулия (B 912; T 68) |
+| @rama-kanai-baghnapara | Рама-Канаи — Божества Багхнапары | Rama-Kanai, the Deities of Baghnapara | Рама и Кришна, найденные @ramai-jahnava у Праскандана-тиртхи во Врадже (B 912; T 68) |
