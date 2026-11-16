@@ -49,8 +49,8 @@ themselves against Nityananda and turned away from Hari. This is said not to rep
 warning: mercy is not inherited — it is kept by faithfulness. <!-- F14 -->
 
 Sri Chaitanya and Nityananda wished to show the world that a great devotee can appear in any family, and so some of
-Their associates came in families that society ranked low — just as Haridasa Thakura appeared in a Muslim family.
-Krishnadasa Kaviraja says:
+Their associates came in families that society ranked low — just as Haridasa Thakura appeared in a Muslim family: by the Lord's will, says Vrindavana Dasa, he was born in a low
+family to show that birth and social standing are worth nothing in themselves (CB, Adi 16.237). Krishnadasa Kaviraja says:
 
 “One of low birth is not unfit for the worship of Krishna, nor is a brahmana of good family fit for it by that alone.
 Whoever worships is great; the non-devotee is low and contemptible. In the worship of Krishna there is no consideration
@@ -104,22 +104,31 @@ with a joyful heart and, living near Him at the Triveni, witnessed many of His p
 <!-- F24 F25 -->
 
 Conquered by his pure love, Nityananda ate with great pleasure the rice, vegetables and other dishes that Uddharana
-cooked for Him.[^4] The “Nityananda-vamsha-vistara” tells how the brahmanas once gathered and half in jest asked Him:
+cooked for Him.[^4] The “Nityananda-vamsha-vistara” tells how the brahmanas once gathered and half in jest asked Him how Sripada's meal
+was prepared each day — did He cook Himself, or did He have a brahmana cook:
 
-“‘How is Sripada's meal prepared each day? Do you cook yourself, or is there a brahmana?’ The Lord said: ‘Sometimes I
-cook myself, and when I cannot, Uddharana cooks and takes it off the fire.’” (“Nityananda-vamsha-vistara” 1.163–164)
+“The Lord said: ‘Sometimes I cook Myself, and when I cannot, Uddharana cooks and takes it off the fire.’”
+(“Nityananda-vamsha-vistara” 1.164)
 
 The brahmanas were astonished that Nityananda's food was cooked by a gold merchant. And the “Prema-vilasa” calls
 Uddharana “the best of devotees, whose food cooked in ghee Nitai eats” (24.616). <!-- F20 F46 -->
 
-From Saptagrama Nityananda went to Shantipura to Advaita, and Uddharana was with Him. Murari Gupta writes:
+Murari Gupta tells how Nityananda, singing kirtana, came to Saptagrama, to the bank of the Triveni, where the Ganga, the
+Yamuna and the Sarasvati meet and where the seven rishis meditate on the Lord's feet. There, house after house of the
+merchants, He held a great sankirtana of the name of Krishna Chaitanya, and the joy once known in Navadvipa came here
+too by His mercy (Murari, 4.22.14–21). From Saptagrama Nityananda went to Shantipura to Advaita, and Uddharana was with
+Him:
 
 “Having stayed in the house of Uddharana, the Teacher of the world, immersed in the rasa of Gaurachandra, then went
 with him to Shantipura.” (Murari, 4.22.22)
 
-Nityananda came to Saptagrama once more, after His marriage. When He was staying with Vasudha and Jahnava at Advaita's
-house in Shantipura, Uddharana invited Him to his home; for several days a great sankirtana festival went on at
-Saptagrama, and from there Nityananda went on to Borogram.[^5] <!-- F44 F22 F23 -->
+Nityananda came to Saptagrama once more, after His marriage. According to the “Bhakti-ratnakara,” He came with all His
+company from Baragachhi to Nadia, where Shachi welcomed Vasudha and Jahnava with boundless affection; then, with her
+leave, He went by way of Shantipura to Saptagrama, and from there, at the devotees' wish, to Khardaha, where He settled
+His wives (BR 12.4009–4013). One of the biographies adds that while He was staying with Vasudha and Jahnava at
+Advaita's house in Shantipura, Uddharana invited Him to his home; for several days a great sankirtana festival went on
+at Saptagrama, and from there Nityananda went on to Borogram.[^5]
+<!-- F52 F44 F50 F22 F23 -->
 
 ## With Nityananda through Gauda
 The vandanas glorify Uddharana as the one who went round all the holy places together with Nityananda. Jiva writes:
@@ -135,7 +144,7 @@ appearance, asked who He was; Uddharana answered that He was the best of brahman
 shastras, by title Nyaya-chudamani, by name Nityananda (20.8–9); later Nityananda, seated on the bank of the Ganga,
 laughingly spoke with Uddharana about the highest truth (20.78). The “Nityananda-vamsha-vistara” relates that
 Nityananda went to Ambika taking only one servant, Uddharana, and sent him into the house of Surya Dasa (1.88–90). And
-in the “Prema-vilasa” Uddharana, coming to Nityananda at Dogachhia, in the house of Krishnadasa Hoda, reports that he
+in the “Prema-vilasa” Uddharana, coming to Nityananda at Dogachhia, in the house of Hoda Krishnadasa, reports that he
 proposed the marriage of Surya Dasa Sarakhela's two daughters to Him and that Surya Dasa flared up in anger
 (24.615–620). <!-- F45 -->
 
@@ -175,9 +184,11 @@ told,” Narahari Chakravarti concludes, “in the accounts of Nityananda's belo
 Uddharana's son was named Shrinivasa Datta Thakura — according to one of the biographies, his only son. When
 Virachandra set out for Vrindavana at his mother's command, the first place he visited was Uddharana's house in
 Saptagrama; Shrinivasa Datta received him with honour, and after staying there two days Virachandra went on to
-Shantipura. Descendants of the family still live in Hooghly, in Calcutta and in many other places. One of the
+Shantipura. The “Bhakti-ratnakara” also says that Virachandra spent two days at Saptagrama in the house of “a supremely
+virtuous vanik,” absorbed in kirtana, gave the jewel of bhakti to the fallen and the afflicted, and went on to
+Shantipura (BR 13.283–287). Descendants of the family still live in Hooghly, in Calcutta and in many other places. One of the
 biographies calls those born in this family undoubtedly fortunate and prays that, leaving aside a merely outward,
-family tie with Uddharana, they may gain a spiritual tie with him. <!-- F9 F34 F10 -->
+family tie with Uddharana, they may gain a spiritual tie with him. <!-- F9 F34 F51 F10 -->
 
 ## The Shripata at Saptagrama
 Saptagrama stands on the river Sarasvati; in the fifteenth and sixteenth centuries it was the chief trading town of
@@ -238,11 +249,13 @@ serve. <!-- I4 I2 I5 -->
 [^4]: One of the biographies quotes here a verse saying that the Lord eagerly eats what His devotee brings, but does not
     even look at what non-devotees offer; it gives no source, and we have not found the verse in either the
     “Chaitanya-charitamrita” or the “Chaitanya-bhagavata.”
-[^5]: The sources give the order of these journeys differently. According to the “Chaitanya-bhagavata” and the
-    “Bhakti-ratnakara,” Nityananda came to Saptagrama from Khardaha and went on from there to Shantipura, with no
-    connection to the marriage. According to one of the biographies, after the marriage He came from Shantipura to
-    Saptagrama at Uddharana's invitation and then went to Borogram; according to another, at Shachi's request He stayed
-    for a time in Navadvipa, then with Uddharana at Saptagrama, and afterwards settled for good in Khardaha.
+[^5]: The sources give the order of these journeys differently. The first visit: according to the
+    “Chaitanya-bhagavata” and the “Bhakti-ratnakara” (12.3722–3752), Nityananda came to Saptagrama from Khardaha and went
+    on from there to Shantipura, with no connection to the marriage. After the marriage: according to the
+    “Bhakti-ratnakara” (12.4009–4013) — Nadia, Shantipura, Saptagrama, Khardaha; according to one of the biographies —
+    from Shantipura to Saptagrama at Uddharana's invitation and then to Borogram; according to another, at Shachi's
+    request He stayed for a time in Navadvipa, then with Uddharana at Saptagrama, and afterwards settled for good in
+    Khardaha.
 [^6]: The Bengali verse reads *uddhāraṇa-datta — mahā-vaiṣṇava udāra, nityānanda-sevāya yāṅhāra adhikāra*. The
     “Anubhashya” refers this verse to the Antya-khanda, ch. 6 — by the chapter division of the Gaudiya Math edition.
 [^7]: One of the biographies converts Shaka 1463 as 1552, but this is a miscalculation: Shaka 1463 is 1541/42. The month
