@@ -595,3 +595,128 @@
   event: ev-ratha-yatra-gundicha
   verses:
     - {file: "vaishnava-lilamrita/ru/05.md", from: "5.1", to: "5.13"}
+
+- id: vlm-0126
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 14–22"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P12
+  order: 301
+  title: "Царь говорит с Горой на Ратха-ятре; жилище в доме Каши Мишры"
+  summary: "Обрадованный киртаном, царь просит Гору постоянно совершать его здесь; Господь отвечает: «О царь, ты — слуга Джаганнатхи: что может быть больше?»; царь поручает Рамананде заботу о Нём, а Каши Мишре — принять Его, и Господь поселяется в доме Каши Мишры близ храма."
+  persons: ["@mahaprabhu", "@prataparudra", "@ramananda-raya", "@kashi-mishra"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 10, 13–14"
+  notes: "Жилище — также событие ev-kashi-mishra-residence."
+  themes: [festival, kirtan, mercy]
+  divergence: "В ЧЧ Господь избегает царя, встреча — позже, в саду с «Гопи-гитой»; жилище у Каши Мишры устраивает Сарвабхаума до Ратха-ятры."
+  event: ev-prataparudra-meets-lord-ratha-kirtan
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.14", to: "5.22"}
+
+- id: vlm-0127
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 23–26"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 1
+  title: "Облик и распорядок Махапрабху в Пури: сто тысяч имён на шнуре с узлами"
+  summary: "Чтобы вкусить бхаву Радхи, Он явился в мир; на поясе Он носит шнур с узлами для счёта, ежедневно повторяет сто тысяч имён, с рассвета совершает киртан и в блаженстве живёт расой Кришны в мандапе у северной стороны храма."
+  persons: ["@mahaprabhu"]
+  places: ["#puri"]
+  kind: teaching
+  authority: C
+  parallels: "ЧЧ Ади 4 (причина нисхождения)"
+  notes: "Описание очевидца; ср. 4.157–160 (мандапа Рамананды у северной стороны)."
+  themes: [kirtan, teaching]
+  bhava: [radha]
+  teaching: [holy-name, gaura-tattva]
+  event: ev-kashi-mishra-residence
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.23", to: "5.26"}
+
+- id: vlm-0128
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 27–34"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P13
+  order: 10
+  title: "Путь на север: Рамананда до Каттака, Рамакели, Рупа и Санатана"
+  summary: "Господь идёт на север; Рамананда провожает Его до Каттака; через Ремуну Он приходит в Рамакели, встречает Рупу и Санатану, велит им оставить царскую службу как достойным сосудам расы Кришны и возвращается в Кшетру, к радости Рамананды и Каши Мишры."
+  persons: ["@mahaprabhu", "@ramananda-raya", "@rupa-gosvami", "@sanatana-gosvami", "@kashi-mishra"]
+  places: ["#cuttack", "#remuna", "#ramakeli", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 1, 16"
+  notes: ""
+  themes: [pilgrimage]
+  divergence: "Рамананда провожает до Каттака (в ЧЧ — до границы Ориссы); братья оставляют службу сразу (в ЧЧ — позже, Мадхья 19)."
+  event: ev-ramakeli-rupa-sanatana
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.27", to: "5.34"}
+
+- id: vlm-0129
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 35–42"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P13
+  order: 200
+  title: "Лесной дорогой в Праягу: встреча с Рупой; Рупа приходит в Нилачалу"
+  summary: "Господь лесной дорогой идёт в Праягу, десять дней проводит там с Рупой, зовёт его в Нилачалу и возвращается; Рупа приходит через Ремуну и Бхадрак и живёт в Нилачале, любя шастры и садху."
+  persons: ["@mahaprabhu", "@rupa-gosvami"]
+  places: ["#prayaga", "#remuna", "#bhadrak", "#puri"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Мадхья 17–19; Антья 1"
+  notes: "Приход Рупы в Пури — также событие ev-rupa-arrives-haridasa-puri."
+  themes: [pilgrimage]
+  divergence: "Без Вриндавана и Варанаси (ЧЧ Мадхья 17–25); Рупа приходит в Пури прямо из Праяги."
+  event: ev-rupa-shiksha-prayaga
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.35", to: "5.42"}
+
+- id: vlm-0130
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 43–61"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 3
+  title: "Рупа у Рамананды и Джаганнатхи Даса; недовольство Каши Мишры; Рупу посылают во Вриндаван"
+  summary: "Господь приводит Рупу к Рамананде: «Преподай ему таттву и путь расы»; Рамананда учит его пяти расам и аламкарам (моттаита, килакинчита); десять месяцев Рупа слушает «Бхагавату» у Свами, видя его саттвика-бхавы, и переписывает «Брахма-самхиту» и «Карнамриту»; Каши Мишра требует удалить «министра царя-млеччхи», и Господь посылает Рупу во Вриндаван — создать святую обитель и писать книги."
+  persons: ["@mahaprabhu", "@rupa-gosvami", "@ramananda-raya", "@jagannatha-dasa-odia", "@kashi-mishra"]
+  places: ["#puri", "#vrindavana"]
+  kind: lila
+  authority: C
+  parallels: "ЧЧ Антья 1"
+  notes: ""
+  themes: [teaching, learning]
+  teaching: [prema]
+  scriptures: ["Брахма-самхита", "Кришна-карнамрита", "Шримад-Бхагаватам"]
+  divergence: "В ЧЧ расе Рупу учит Сам Господь в Праяге (Мадхья 19), а Рамананда лишь разбирает его драмы; учёбы у Джаганнатхи Даса и недовольства Каши Мишры в ЧЧ нет (Рупа сам по смирению не подходит к храму); Рупа уходит во Вриндаван после Дола-ятры, через Бенгалию."
+  event: ev-rupa-taught-by-ramananda-jagannatha-dasa
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.43", to: "5.61"}
+
+- id: vlm-0131
+  source: vaishnava-lilamrita
+  ref: "Гл. 5, 62–72"
+  file: "vaishnava-lilamrita/ru/05.md"
+  period: P14
+  order: 4
+  date: "24-й анк Пратапарудры"
+  title: "Кабир в Пури и наставление Джаганнатхи Даса"
+  summary: "С севера приходит санньяси Джхолаа Кабир в шафрановых одеждах, с тумбурой, сладко поёт песни и любит Джаганнатху; Свами, услышав его бхаджан, обнимает его и учит: все равны, чандала и дваждырождённый; кто держит ум в Имени, легко обретает Кришну; желание мукти — как ад. Через месяц Кабир уходит."
+  persons: ["@kabir", "@jagannatha-dasa-odia", "@jagannatha-deity"]
+  places: ["#puri"]
+  kind: lila
+  authority: C
+  parallels: ""
+  notes: "Господь в эпизоде не упомянут."
+  themes: [jagannatha, teaching]
+  teaching: [holy-name, bhakti-supremacy]
+  divergence: "Известно только орийским источникам."
+  event: ev-kabir-in-puri
+  verses:
+    - {file: "vaishnava-lilamrita/ru/05.md", from: "5.62", to: "5.72"}

@@ -10697,7 +10697,8 @@
    "gkr-0102",
    "kcm-0132",
    "vv-0014",
-   "vv-0043"
+   "vv-0043",
+   "vlm-0127"
   ],
   "sources": [
    "cc",
@@ -10705,6 +10706,7 @@
    "gaura-krishnodaya",
    "govinda-karcha",
    "karnapura-ckm",
+   "vaishnava-lilamrita",
    "vaishnava-vandana"
   ]
  },
@@ -11945,6 +11947,7 @@
   "entries": [
    "cb-3056",
    "cc-0342",
+   "vlm-0128",
    "brt-0030",
    "brt-0056",
    "apr-0098",
@@ -11966,7 +11969,8 @@
    "jayananda-cm",
    "murari-kcc",
    "narottama-vilasa",
-   "prema-vilasa"
+   "prema-vilasa",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -31269,11 +31273,13 @@
    "cc-3036",
    "cc-3037",
    "cc-3038",
-   "cc-3039"
+   "cc-3039",
+   "vlm-0129"
   ],
   "sources": [
    "cc",
-   "gaura-krishnodaya"
+   "gaura-krishnodaya",
+   "vaishnava-lilamrita"
   ]
  },
  {
@@ -33771,6 +33777,97 @@
   ],
   "entries": [
    "vlm-0124"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-prataparudra-meets-lord-ratha-kirtan",
+  "title": "Царь заговаривает с Горой во время киртана на Ратха-ятре",
+  "title_en": "The king speaks with Gora during the Ratha-yatra kirtan",
+  "period": "P12",
+  "order": 301,
+  "cc": "Мадхья 13–14 (встреча позже, в саду)",
+  "cb": "",
+  "themes": [
+   "festival",
+   "kirtan",
+   "mercy"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 5.14–22): царь хвалит киртан и просит продолжать его; Господь отвечает: «Ты — слуга Джаганнатхи, что может быть больше?»; царь поручает Рамананде и Каши Мишре устроить Его жилище.",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "entries": [
+   "vlm-0126"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-rupa-taught-by-ramananda-jagannatha-dasa",
+  "title": "Рупа в Пури учится расе у Рамананды и «Бхагавате» у Джаганнатхи Даса",
+  "title_en": "Rupa in Puri learns rasa from Ramananda and the Bhagavata from Jagannatha Dasa",
+  "period": "P14",
+  "order": 3,
+  "cc": "Антья 1 (Рамананда разбирает драмы Рупы)",
+  "cb": "",
+  "themes": [
+   "teaching",
+   "learning"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 5.43–61): по просьбе Господа Рамананда учит Рупу расам и аламкарам; десять месяцев Рупа слушает «Бхагавату» у Джаганнатхи Даса, переписывает «Брахма-самхиту» и «Карнамриту»; недовольство Каши Мишры, и Господь посылает Рупу во Вриндаван.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0130"
+  ],
+  "sources": [
+   "vaishnava-lilamrita"
+  ]
+ },
+ {
+  "id": "ev-kabir-in-puri",
+  "title": "Кабир в Пури и встреча с Джаганнатхой Дасом",
+  "title_en": "Kabir in Puri and his meeting with Jagannatha Dasa",
+  "period": "P14",
+  "order": 4,
+  "cc": "",
+  "cb": "",
+  "themes": [
+   "jagannatha",
+   "teaching"
+  ],
+  "notes": "Орийская традиция («Вайшнава-лиламрита» 5.62–72): в 24-й анк Пратапарудры (≈1520/21) с севера приходит санньяси Джхолаа Кабир с тумбурой; Джаганнатха Дас обнимает его и учит: все равны перед Именем, желание мукти — как ад.",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "entries": [
+   "vlm-0131"
   ],
   "sources": [
    "vaishnava-lilamrita"

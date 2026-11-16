@@ -4099,6 +4099,7 @@
    "cc-0330",
    "gst-0018",
    "vv-0077",
+   "vlm-0126",
    "mkc-0234",
    "vv-0067",
    "jcm-0082",
@@ -4119,6 +4120,7 @@
    "lcm-0227",
    "mkc-0185",
    "pvl-0051",
+   "vlm-0128",
    "jcm-0094",
    "pvl-0195",
    "nvl-0008",
@@ -4143,6 +4145,7 @@
    "cc-0351",
    "gkd-0152",
    "jcm-0080",
+   "vlm-0129",
    "lcm-0247",
    "mkc-0232",
    "apr-0118",
@@ -4150,11 +4153,14 @@
    "cc-3128",
    "ccd-0087",
    "cc-0353",
+   "vlm-0127",
    "kcm-0162",
+   "vlm-0130",
    "gst-0002",
    "gst-0004",
    "gst-0019",
    "kcm-0164",
+   "vlm-0131",
    "gst-0013",
    "apr-0119",
    "cc-0126",
@@ -4634,6 +4640,7 @@
    "ev-nrisimhananda-three-offerings",
    "ev-gauridasa-brings-advaita-utkala",
    "ev-prataparudra-dream-dusty-jagannatha",
+   "ev-prataparudra-meets-lord-ratha-kirtan",
    "ev-virachandra-secret-counsel",
    "ev-lord-warns-prataparudra-war",
    "ev-departure-for-gauda",
@@ -4651,12 +4658,15 @@
    "ev-vallabha-krishna-premamrita",
    "ev-sanatana-kashi-instruction",
    "ev-varanasi-sannyasis",
+   "ev-rupa-shiksha-prayaga",
    "ev-shantipura-second-visit",
    "ev-return-to-puri-from-vrindavana",
    "ev-puri-eighteen-years-associates",
    "ev-lord-daily-routine-puri",
+   "ev-rupa-taught-by-ramananda-jagannatha-dasa",
    "ev-garuda-stambha-darshan",
    "ev-dola-yatra-puri",
+   "ev-kabir-in-puri",
    "ev-nityananda-kicks-shivananda",
    "ev-parameshvara-modaka",
    "ev-rupa-arrives-haridasa-puri",
@@ -4917,6 +4927,7 @@
    "gkd-0153",
    "cc-3126",
    "cc-0084",
+   "vlm-0130",
    "cc-4003",
    "cc-0303",
    "cc-4007",
@@ -5274,6 +5285,7 @@
    "ev-sanatana-kashi-instruction",
    "ev-return-to-puri-from-vrindavana",
    "ev-sanatana-mathura-vraja-places",
+   "ev-rupa-taught-by-ramananda-jagannatha-dasa",
    "ev-rupa-gauda-anupama-passing",
    "ev-priyah-so-yam-rupa",
    "ev-rupa-puri-dramas",
@@ -5822,6 +5834,7 @@
    "mkc-0223",
    "cc-3124",
    "cc-3126",
+   "vlm-0129",
    "cc-4012",
    "cc-4023",
    "cc-4081",
@@ -6616,6 +6629,8 @@
    "gkd-0122",
    "cc-2105",
    "jcm-0084",
+   "vlm-0128",
+   "vlm-0129",
    "ccd-0089"
   ],
   "events": [
@@ -6631,6 +6646,8 @@
    "ev-departure-for-gauda",
    "ev-ramananda-farewell-remuna",
    "ev-jayananda-named",
+   "ev-ramakeli-rupa-sanatana",
+   "ev-rupa-shiksha-prayaga",
    "ev-shivananda-toll-arrest"
   ]
  },
@@ -7499,6 +7516,7 @@
    "pvl-0226",
    "cb-3056",
    "cc-0342",
+   "vlm-0128",
    "cb-3057",
    "cc-0343",
    "gkd-0127",
@@ -7974,6 +7992,7 @@
    "cc-2103",
    "brt-4014",
    "cc-2104",
+   "vlm-0128",
    "vv-0065"
   ],
   "events": [
@@ -7986,6 +8005,7 @@
    "ev-departure-for-gauda",
    "ev-prataparudra-farewell-six-armed",
    "ev-gadadhara-leaves-kshetra-sannyasa",
+   "ev-ramakeli-rupa-sanatana",
    "ev-gauda-devotees-yearly-visit"
   ]
  },
@@ -12858,6 +12878,19 @@
   ],
   "events": [
    "ev-ismail-gazi-raid-deities-hidden"
+  ]
+ },
+ {
+  "id": "#bhadrak",
+  "ru": "Бхадрак",
+  "en": "Bhadrak",
+  "note": "Орисса, на пути из Бенгалии в Пури («Вайшнава-лиламрита» 5.40)",
+  "section": "",
+  "lilas": [
+   "vlm-0129"
+  ],
+  "events": [
+   "ev-rupa-shiksha-prayaga"
   ]
  }
 ]

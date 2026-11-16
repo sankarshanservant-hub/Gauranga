@@ -3936,6 +3936,7 @@
 - karnapura-ckm (A): Сарга 13, 62–71 — [62–71](../karnapura-mahakavya/ru/13.md?plain=1#L1433-L1634) · `kcm-0132`
 - vaishnava-vandana (B): Вандана Дживы, 77 — [77–77](../vaishnava-vandana/ru/01.md?plain=1#L173-L173) · `vv-0014`
 - vaishnava-vandana (B): Девакинандана, 65 — [65–65](../vaishnava-vandana/ru/02.md?plain=1#L228-L228) · `vv-0043`
+- vaishnava-lilamrita (C): Гл. 5, 23–26 — [5.23–5.26](../vaishnava-lilamrita/ru/05.md?plain=1#L32-L35) · `vlm-0127`
 
 ## Сарвабхаума представляет Господу вайшнавов Пури / Sarvabhauma introduces the Vaishnavas of Puri to the Lord  `ev-puri-devotees-introduced` (1512–1514, возраст 26–28, оценка)
 
@@ -4576,6 +4577,10 @@
 - bhakti-ratnakara (B): Таранга 12, 3825–3836 — [3825–3836](../bhakti-ratnakara/ru/12.md?plain=1#L12731-L12775) · `brt-7131`
 - padas (A): Васу Гхош, БР (с. 982–983) «আজুকার স্বপন-কথা শুন লো মালিনী সই» — [22.1–22.5](../padas/ru/01.md?plain=1#L564-L584) · `pad-0022`
 
+## Царь заговаривает с Горой во время киртана на Ратха-ятре / The king speaks with Gora during the Ratha-yatra kirtan  `ev-prataparudra-meets-lord-ratha-kirtan` (1512–1514, возраст 26–28, оценка)
+
+- vaishnava-lilamrita (C): Гл. 5, 14–22 — [5.14–5.22](../vaishnava-lilamrita/ru/05.md?plain=1#L23-L31) · `vlm-0126`
+
 ## Тайный совет Господа с Нитьянандой в Нилачале: Вирачандра будет нисшествием Гауранги / The Lord's secret counsel with Nityananda at Nilachala: Virachandra will be Gauranga's own descent  `ev-virachandra-secret-counsel` (1512–1514, возраст 26–28, оценка)
 
 - vaishnava-vandana (C): Вандана в трипади, 16–17 — [16–17](../vaishnava-vandana/ru/05.md?plain=1#L63-L66) · `vv-0067`
@@ -4707,6 +4712,7 @@
 
 - cb (A): Антья 4, 3–23 — [3–23](../chaitanya-bhagavata/ed/CB_Antya04.md?plain=1#L22-L122) · `cb-3056`
 - cc (A): Мадхья 1.163–167 — [163–167](../chaitanya-charitamrita/ed/vcd/CC_Madhya01.md?plain=1#L1681-L1721) · `cc-0342`
+- vaishnava-lilamrita (C): Гл. 5, 27–34 — [5.27–5.34](../vaishnava-lilamrita/ru/05.md?plain=1#L36-L43) · `vlm-0128`
 - bhakti-ratnakara (B): Таранга 1, 581–619 — [581–619](../bhakti-ratnakara/ru/01.md?plain=1#L1772-L1885) · `brt-0030`
 - bhakti-ratnakara (B): Таранга 2, 364–390 — [364–390](../bhakti-ratnakara/ru/02.md?plain=1#L1094-L1172) · `brt-0056`
 - advaita-prakasha (D): Гл. 16, 29–34 — [29. Через неск–34. Оба сказал](../advaita-prakash/16.md?plain=1#L33-L38) · `apr-0098`
@@ -5026,6 +5032,7 @@
 - cc (A): Мадхья 19.185–191 — [185–191](../chaitanya-charitamrita/ed/vcd/CC_Madhya19.md?plain=1#L1526-L1576) · `cc-3037`
 - cc (A): Мадхья 19.192–210 — [192–210](../chaitanya-charitamrita/ed/vcd/CC_Madhya19.md?plain=1#L1584-L1755) · `cc-3038`
 - cc (A): Мадхья 19.211–236 — [211–236](../chaitanya-charitamrita/ed/vcd/CC_Madhya19.md?plain=1#L1763-L1973) · `cc-3039`
+- vaishnava-lilamrita (C): Гл. 5, 35–42 — [5.35–5.42](../vaishnava-lilamrita/ru/05.md?plain=1#L44-L51) · `vlm-0129`
 
 ## Рагхупати Упадхьяя читает Господу свои стихи о Кришне / Raghupati Upadhyaya recites his verses on Krishna to the Lord  `ev-raghupati-upadhyaya` (1514–1516, возраст 28–30, оценка)
 
@@ -5247,6 +5254,10 @@
 - gaura-stotras (A): Рагхунатха, «Шачисуну-аштака» 2–3 — [2–3](../stotras/ru/01.md?plain=1#L7-L9) · `gst-0002`
 - gaura-stotras (A): Рупа, Первая «Чайтаньяштака» 5 — [5–5](../stotras/ru/04.md?plain=1#L13-L13) · `gst-0019`
 
+## Рупа в Пури учится расе у Рамананды и «Бхагавате» у Джаганнатхи Даса / Rupa in Puri learns rasa from Ramananda and the Bhagavata from Jagannatha Dasa  `ev-rupa-taught-by-ramananda-jagannatha-dasa` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 5, 43–61 — [5.43–5.61](../vaishnava-lilamrita/ru/05.md?plain=1#L56-L74) · `vlm-0130`
+
 ## Господь созерцает Джаганнатху, стоя позади колонны Гаруды / The Lord beholds Jagannatha standing behind the Garuda pillar  `ev-garuda-stambha-darshan` (1516–1533, возраст 30–47, оценка)
 
 - gaura-stotras (A): Рагхунатха, «Шачисуну-аштака» 6 — [6–6](../stotras/ru/01.md?plain=1#L15-L15) · `gst-0004`
@@ -5256,6 +5267,10 @@
 
 - karnapura-ckm (A): Сарга 18, 52–59 — [52–59](../karnapura-mahakavya/ru/18.md?plain=1#L943-L1059) · `kcm-0164`
 - gaura-stotras (A): Рагхунатха, «Гауранга-става-калпатару» 9 — [9–9](../stotras/ru/02.md?plain=1#L21-L21) · `gst-0013`
+
+## Кабир в Пури и встреча с Джаганнатхой Дасом / Kabir in Puri and his meeting with Jagannatha Dasa  `ev-kabir-in-puri` (1516–1533, возраст 30–47, оценка)
+
+- vaishnava-lilamrita (C): Гл. 5, 62–72 — [5.62–5.72](../vaishnava-lilamrita/ru/05.md?plain=1#L75-L85) · `vlm-0131`
 
 ## Ежегодное паломничество преданных Гауды к Господу в Пури / The yearly pilgrimage of the Gauda devotees to the Lord in Puri  `ev-gauda-devotees-yearly-visit` (1516–1533, возраст 30–47, оценка)
 

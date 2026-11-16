@@ -131148,7 +131148,7 @@
    24,
    24
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0121",
@@ -147278,7 +147278,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "ccd-0062",
@@ -147346,7 +147346,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gkd-0099",
@@ -147406,7 +147406,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "gkr-0102",
@@ -147466,7 +147466,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "kcm-0132",
@@ -147526,7 +147526,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "vv-0014",
@@ -147583,7 +147583,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "vv-0043",
@@ -147640,7 +147640,7 @@
    26,
    28
   ],
-  "attestation": 6
+  "attestation": 7
  },
  {
   "id": "cc-2004",
@@ -170357,6 +170357,68 @@
   "attestation": 13
  },
  {
+  "id": "vlm-0126",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 14–22",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P12",
+  "order": 301,
+  "title": "Царь говорит с Горой на Ратха-ятре; жилище в доме Каши Мишры",
+  "summary": "Обрадованный киртаном, царь просит Гору постоянно совершать его здесь; Господь отвечает: «О царь, ты — слуга Джаганнатхи: что может быть больше?»; царь поручает Рамананде заботу о Нём, а Каши Мишре — принять Его, и Господь поселяется в доме Каши Мишры близ храма.",
+  "persons": [
+   "@mahaprabhu",
+   "@prataparudra",
+   "@ramananda-raya",
+   "@kashi-mishra"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 10, 13–14",
+  "notes": "Жилище — также событие ev-kashi-mishra-residence.",
+  "themes": [
+   "festival",
+   "kirtan",
+   "mercy"
+  ],
+  "divergence": "В ЧЧ Господь избегает царя, встреча — позже, в саду с «Гопи-гитой»; жилище у Каши Мишры устраивает Сарвабхаума до Ратха-ятры.",
+  "event": "ev-prataparudra-meets-lord-ratha-kirtan",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.14",
+    "to": "5.22"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.14",
+    "to": "5.22",
+    "line": 23,
+    "line_to": 31,
+    "count": 9,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L23-L31",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L23-L31"
+   }
+  ],
+  "cc": "Мадхья 13–14 (встреча позже, в саду)",
+  "years": [
+   1512,
+   1514
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   26,
+   28
+  ],
+  "attestation": 1
+ },
+ {
   "id": "mkc-0234",
   "source": "murari-kcc",
   "ref": "Пракрама 4, сарга 16, шлоки 11–20",
@@ -174343,7 +174405,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cc-0342",
@@ -174401,7 +174463,7 @@
    28,
    28
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "jcm-0086",
@@ -174468,6 +174530,71 @@
    30
   ],
   "attestation": 5
+ },
+ {
+  "id": "vlm-0128",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 27–34",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P13",
+  "order": 10,
+  "title": "Путь на север: Рамананда до Каттака, Рамакели, Рупа и Санатана",
+  "summary": "Господь идёт на север; Рамананда провожает Его до Каттака; через Ремуну Он приходит в Рамакели, встречает Рупу и Санатану, велит им оставить царскую службу как достойным сосудам расы Кришны и возвращается в Кшетру, к радости Рамананды и Каши Мишры.",
+  "persons": [
+   "@mahaprabhu",
+   "@ramananda-raya",
+   "@rupa-gosvami",
+   "@sanatana-gosvami",
+   "@kashi-mishra"
+  ],
+  "places": [
+   "#cuttack",
+   "#remuna",
+   "#ramakeli",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 1, 16",
+  "notes": "",
+  "themes": [
+   "pilgrimage"
+  ],
+  "divergence": "Рамананда провожает до Каттака (в ЧЧ — до границы Ориссы); братья оставляют службу сразу (в ЧЧ — позже, Мадхья 19).",
+  "event": "ev-ramakeli-rupa-sanatana",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.27",
+    "to": "5.34"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.27",
+    "to": "5.34",
+    "line": 36,
+    "line_to": 43,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L36-L43",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L36-L43"
+   }
+  ],
+  "cc": "Мадхья 1",
+  "cb": "Антья 4",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "attestation": 10
  },
  {
   "id": "cb-3057",
@@ -174831,7 +174958,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "brt-0056",
@@ -174892,7 +175019,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cb-3058",
@@ -175009,7 +175136,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "brt-0031",
@@ -175076,7 +175203,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cc-0344",
@@ -175145,7 +175272,7 @@
    28,
    28
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "gkd-0128",
@@ -175203,7 +175330,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "jcm-0094",
@@ -175263,7 +175390,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "mkc-0188",
@@ -175331,7 +175458,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "nvl-0007",
@@ -175398,7 +175525,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "pvl-0195",
@@ -175463,7 +175590,7 @@
    28,
    30
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "cc-0345",
@@ -175530,7 +175657,7 @@
    28,
    28
   ],
-  "attestation": 9
+  "attestation": 10
  },
  {
   "id": "nvl-0008",
@@ -186510,7 +186637,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3027",
@@ -186754,7 +186881,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3032",
@@ -186816,7 +186943,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3033",
@@ -186876,7 +187003,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3034",
@@ -186935,7 +187062,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3035",
@@ -186998,7 +187125,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3036",
@@ -187054,7 +187181,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3037",
@@ -187113,7 +187240,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3038",
@@ -187185,7 +187312,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "cc-3039",
@@ -187246,7 +187373,7 @@
    28,
    30
   ],
-  "attestation": 2
+  "attestation": 3
  },
  {
   "id": "apr-0113",
@@ -193634,6 +193761,67 @@
   "attestation": 5
  },
  {
+  "id": "vlm-0129",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 35–42",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P13",
+  "order": 200,
+  "title": "Лесной дорогой в Праягу: встреча с Рупой; Рупа приходит в Нилачалу",
+  "summary": "Господь лесной дорогой идёт в Праягу, десять дней проводит там с Рупой, зовёт его в Нилачалу и возвращается; Рупа приходит через Ремуну и Бхадрак и живёт в Нилачале, любя шастры и садху.",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami"
+  ],
+  "places": [
+   "#prayaga",
+   "#remuna",
+   "#bhadrak",
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Мадхья 17–19; Антья 1",
+  "notes": "Приход Рупы в Пури — также событие ev-rupa-arrives-haridasa-puri.",
+  "themes": [
+   "pilgrimage"
+  ],
+  "divergence": "Без Вриндавана и Варанаси (ЧЧ Мадхья 17–25); Рупа приходит в Пури прямо из Праяги.",
+  "event": "ev-rupa-shiksha-prayaga",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.35",
+    "to": "5.42"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.35",
+    "to": "5.42",
+    "line": 44,
+    "line_to": 51,
+    "count": 8,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L44-L51",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L44-L51"
+   }
+  ],
+  "cc": "Мадхья 19",
+  "years": [
+   1514,
+   1516
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   28,
+   30
+  ],
+  "attestation": 3
+ },
+ {
   "id": "pad-0256",
   "source": "padas",
   "ref": "Васу Гхош, ГПТ1 с. 409–410 (№ 23) «শুনিয়া ভকত-দুখ বিদরিয়া যায় বুক»",
@@ -195814,6 +196002,70 @@
   "attestation": 1
  },
  {
+  "id": "vlm-0127",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 23–26",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 1,
+  "title": "Облик и распорядок Махапрабху в Пури: сто тысяч имён на шнуре с узлами",
+  "summary": "Чтобы вкусить бхаву Радхи, Он явился в мир; на поясе Он носит шнур с узлами для счёта, ежедневно повторяет сто тысяч имён, с рассвета совершает киртан и в блаженстве живёт расой Кришны в мандапе у северной стороны храма.",
+  "persons": [
+   "@mahaprabhu"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "teaching",
+  "authority": "C",
+  "parallels": "ЧЧ Ади 4 (причина нисхождения)",
+  "notes": "Описание очевидца; ср. 4.157–160 (мандапа Рамананды у северной стороны).",
+  "themes": [
+   "kirtan",
+   "teaching"
+  ],
+  "bhava": [
+   "radha"
+  ],
+  "teaching": [
+   "holy-name",
+   "gaura-tattva"
+  ],
+  "event": "ev-kashi-mishra-residence",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.23",
+    "to": "5.26"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.23",
+    "to": "5.26",
+    "line": 32,
+    "line_to": 35,
+    "count": 4,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L32-L35",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L32-L35"
+   }
+  ],
+  "cc": "Мадхья 10",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 7
+ },
+ {
   "id": "kcm-0162",
   "source": "karnapura-ckm",
   "ref": "Сарга 18, 17–45",
@@ -195870,6 +196122,77 @@
    47
   ],
   "attestation": 2
+ },
+ {
+  "id": "vlm-0130",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 43–61",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 3,
+  "title": "Рупа у Рамананды и Джаганнатхи Даса; недовольство Каши Мишры; Рупу посылают во Вриндаван",
+  "summary": "Господь приводит Рупу к Рамананде: «Преподай ему таттву и путь расы»; Рамананда учит его пяти расам и аламкарам (моттаита, килакинчита); десять месяцев Рупа слушает «Бхагавату» у Свами, видя его саттвика-бхавы, и переписывает «Брахма-самхиту» и «Карнамриту»; Каши Мишра требует удалить «министра царя-млеччхи», и Господь посылает Рупу во Вриндаван — создать святую обитель и писать книги.",
+  "persons": [
+   "@mahaprabhu",
+   "@rupa-gosvami",
+   "@ramananda-raya",
+   "@jagannatha-dasa-odia",
+   "@kashi-mishra"
+  ],
+  "places": [
+   "#puri",
+   "#vrindavana"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "ЧЧ Антья 1",
+  "notes": "",
+  "themes": [
+   "teaching",
+   "learning"
+  ],
+  "teaching": [
+   "prema"
+  ],
+  "scriptures": [
+   "Брахма-самхита",
+   "Кришна-карнамрита",
+   "Шримад-Бхагаватам"
+  ],
+  "divergence": "В ЧЧ расе Рупу учит Сам Господь в Праяге (Мадхья 19), а Рамананда лишь разбирает его драмы; учёбы у Джаганнатхи Даса и недовольства Каши Мишры в ЧЧ нет (Рупа сам по смирению не подходит к храму); Рупа уходит во Вриндаван после Дола-ятры, через Бенгалию.",
+  "event": "ev-rupa-taught-by-ramananda-jagannatha-dasa",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.43",
+    "to": "5.61"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.43",
+    "to": "5.61",
+    "line": 56,
+    "line_to": 74,
+    "count": 19,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L56-L74",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L56-L74"
+   }
+  ],
+  "cc": "Антья 1 (Рамананда разбирает драмы Рупы)",
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
  },
  {
   "id": "gst-0002",
@@ -196098,6 +196421,70 @@
    47
   ],
   "attestation": 2
+ },
+ {
+  "id": "vlm-0131",
+  "source": "vaishnava-lilamrita",
+  "ref": "Гл. 5, 62–72",
+  "file": "vaishnava-lilamrita/ru/05.md",
+  "period": "P14",
+  "order": 4,
+  "date": "24-й анк Пратапарудры",
+  "title": "Кабир в Пури и наставление Джаганнатхи Даса",
+  "summary": "С севера приходит санньяси Джхолаа Кабир в шафрановых одеждах, с тумбурой, сладко поёт песни и любит Джаганнатху; Свами, услышав его бхаджан, обнимает его и учит: все равны, чандала и дваждырождённый; кто держит ум в Имени, легко обретает Кришну; желание мукти — как ад. Через месяц Кабир уходит.",
+  "persons": [
+   "@kabir",
+   "@jagannatha-dasa-odia",
+   "@jagannatha-deity"
+  ],
+  "places": [
+   "#puri"
+  ],
+  "kind": "lila",
+  "authority": "C",
+  "parallels": "",
+  "notes": "Господь в эпизоде не упомянут.",
+  "themes": [
+   "jagannatha",
+   "teaching"
+  ],
+  "teaching": [
+   "holy-name",
+   "bhakti-supremacy"
+  ],
+  "divergence": "Известно только орийским источникам.",
+  "event": "ev-kabir-in-puri",
+  "verses": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.62",
+    "to": "5.72"
+   }
+  ],
+  "verses_resolved": [
+   {
+    "file": "vaishnava-lilamrita/ru/05.md",
+    "from": "5.62",
+    "to": "5.72",
+    "line": 75,
+    "line_to": 85,
+    "count": 11,
+    "url": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/ru/05.md?plain=1#L75-L85",
+    "file_en": "vaishnava-lilamrita/en/05.md",
+    "url_en": "https://github.com/sankarshanservant-hub/Gauranga/blob/claude/book-translation-tesseract-bengali-yaygag/vaishnava-lilamrita/en/05.md?plain=1#L75-L85"
+   }
+  ],
+  "years": [
+   1516,
+   1533
+  ],
+  "date_conf": "оценка",
+  "years_from": "period",
+  "age": [
+   30,
+   47
+  ],
+  "attestation": 1
  },
  {
   "id": "gst-0013",
