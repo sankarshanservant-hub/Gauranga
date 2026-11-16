@@ -4016,6 +4016,7 @@
 
 ## Рамананда Рай приходит в Пури к Господу / Ramananda Raya comes to the Lord in Puri  `ev-ramananda-comes-to-puri` (1512–1514, возраст 26–28, оценка)
 
+- mahabhava-prakasha (C): Гл. 2, 1–28 — [2.1–2.28](../mahabhava-prakasha/ru/02.md?plain=1#L8-L35) · `mpk-0010`
 - vaishnava-lilamrita (C): Гл. 4, 144–147 — [4.144–4.147](../vaishnava-lilamrita/ru/04.md?plain=1#L160-L163) · `vlm-0122`
 - cc (A): Мадхья 11.14–40 — [14–40](../chaitanya-charitamrita/ed/vcd/CC_Madhya11.md?plain=1#L127-L347) · `cc-2018`
 - gaura-krishnodaya (B): Сарга 11, 15–18 — [15–18](../gaura-krishnodaya/ru/11.md?plain=1#L37-L45) · `gkd-0102`
@@ -5729,6 +5730,14 @@
 ## Смех Господа в дашами и вопрос Рамананды о таттве Джаганнатхи / The Lord's laughter on dashami and Ramananda's question on the truth of Jagannatha  `ev-ramananda-asks-jagannatha-tattva` (1516–1533, возраст 30–47, оценка)
 
 - mahabhava-prakasha (C): Гл. 1, 108–136 (продолжается) — [1.108–1.136](../mahabhava-prakasha/ru/01.md?plain=1#L132-L160) · `mpk-0008`
+
+## Беседа о таттве Радхи в Пури («Махабхава-пракаша») / The discourse on the truth of Radha in Puri (Mahabhava-prakasha)  `ev-mahabhava-prakasha-radha-tattva` (1516–1533, возраст 30–47, оценка)
+
+- mahabhava-prakasha (D): Гл. 2, 29–72, 123–169 (продолжается) — [2.29–2.72](../mahabhava-prakasha/ru/02.md?plain=1#L40-L87); [2.123–2.169](../mahabhava-prakasha/ru/02.md?plain=1#L146-L198) · `mpk-0011`
+
+## Рассказ Господа о посвящении: Кешава Бхарати и Мадхавендра Пури («Махабхава-пракаша») / The Lord's account of His initiation: Keshava Bharati and Madhavendra Puri (Mahabhava-prakasha)  `ev-lord-initiation-madhavendra-mp` (1516–1533, возраст 30–47, оценка)
+
+- mahabhava-prakasha (D): Гл. 2, 73–122 — [2.73–2.122](../mahabhava-prakasha/ru/02.md?plain=1#L88-L145) · `mpk-0012`
 
 ## Существа всех миров приходят на даршан; Господь упрекает преданных за киртан о Нём; шутка Шриваса / Beings of all the worlds come for darśana; the Lord rebukes the devotees for singing of Him; Śrīvāsa's jest  `ev-worlds-pilgrims-srivasa-praise` (1516–1533, возраст 30–47, оценка)
 

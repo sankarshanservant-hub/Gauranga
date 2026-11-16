@@ -3882,6 +3882,7 @@
    "kcm-0137",
    "kcm-0138",
    "lcm-0228",
+   "mpk-0010",
    "mkc-0192",
    "vlm-0122",
    "gkr-0105",
@@ -4311,6 +4312,9 @@
    "cc-3031",
    "mpk-0007",
    "mpk-0008",
+   "mpk-0009",
+   "mpk-0011",
+   "mpk-0012",
    "cc-0365",
    "cc-0363",
    "pv-0016",
@@ -4766,6 +4770,8 @@
    "ev-rupa-sanatana-vrindavana-vairagya",
    "ev-chaitra-navami-kashi-mishra-gathering",
    "ev-ramananda-asks-jagannatha-tattva",
+   "ev-mahabhava-prakasha-radha-tattva",
+   "ev-lord-initiation-madhavendra-mp",
    "ev-worlds-pilgrims-srivasa-praise",
    "ev-ekadashi-mahaprasada-jagannatha-vallabha",
    "ev-raghavera-jhali",
@@ -6912,6 +6918,7 @@
    "gkd-0096",
    "kcm-0129",
    "lcm-0226",
+   "mpk-0010",
    "kcm-0131"
   ],
   "events": [
@@ -6924,6 +6931,7 @@
    "ev-panchavati-rama-bhava",
    "ev-return-from-south",
    "ev-return-visit-ramananda",
+   "ev-ramananda-comes-to-puri",
    "ev-second-chaturmasya-ramananda"
   ]
  },
@@ -9039,6 +9047,7 @@
    "cc-1118",
    "gkd-0096",
    "gkr-0097",
+   "mpk-0010",
    "cc-4056"
   ],
   "events": [
@@ -9048,6 +9057,7 @@
    "ev-panchavati-rama-bhava",
    "ev-return-visit-ramananda",
    "ev-return-from-south",
+   "ev-ramananda-comes-to-puri",
    "ev-pradyumna-mishra-hears-ramananda"
   ]
  },
@@ -12928,10 +12938,12 @@
   "section": "",
   "lilas": [
    "vlm-0114",
+   "mpk-0010",
    "vlm-0115"
   ],
   "events": [
-   "ev-madhavendra-bentapur-kirtan"
+   "ev-madhavendra-bentapur-kirtan",
+   "ev-ramananda-comes-to-puri"
   ]
  },
  {
