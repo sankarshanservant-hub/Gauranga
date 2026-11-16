@@ -49,21 +49,19 @@ Himself plays. The “First Vandana” repeats the same list, and Devakinandana 
 Parameshvara” among the companions of Nityananda. <!-- F7 Q2 I4 F27 -->
 
 ## With the Lord in Panihati
-When Mahaprabhu set out from Nilachala to go to Vrindavana by way of Gauda, He stayed in the house of Raghava Pandita
+When Mahaprabhu set out from Nilachala to go to Vrindavana by way of Gauda, He stayed at Raghava Pandita's home
 in Panihati. There, by the Lord's wish, great Vaishnavas gathered to Him — Gadadhara Dasa, Raghunatha Vaidya, and
 others; Purandara Pandita and Parameshvari Dasa hurried there too:
 
 “At that moment Purandara Pandita and Parameshvari Dasa, in whose Deity Gaurachandra Himself is manifest, came running.
 Seeing the Lord, the two of them wept in the bliss of divine love” (CB, Antya 5.95–96)
 
-Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: Sriman Mahaprabhu manifested Himself in the Deity of Gauranga
+Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: Sriman Mahaprabhu became manifest in the Deity of Gauranga
 whom Parameshvari Dasa worshipped in the village of Tada-Atpur; he began the service of Sri Gaurasundara. So too the
-biographies understand the verse. Yet the same phrase, in the neighbouring verse on Gadadhara Dasa and in the list of
-Nityananda's servants, speaks of the Vaishnava's very body; one may therefore say that Gaurachandra is manifest both in
-him and in his Deity — the one does not contradict the other.[^2] <!-- F19 F20 Q3 -->
+biographies understand the verse.[^2] <!-- F19 F20 Q3 -->
 
 ## With Nityananda to Gauda
-After returning from Kanai-natashala to Nilachala, Mahaprabhu told Nityananda to go to Gauda and deliver the ignorant, the poor, and the
+After returning from Kanai-natashala to Nilachala, Mahaprabhu told Nityananda to go to Gauda and deliver the lowly, the ignorant, and the
 fallen by giving them love of God. Nityananda set out at once with His companions:
 
 “With Nityananda went Ramadasa, Gadadhara Dasa, Raghunatha Vaidya, full of the sweetness of loving devotion,
@@ -78,14 +76,12 @@ and there was no end to the signs of ecstasy that appeared in their bodies” (C
 
 Each companion revealed his eternal bhava on the way. Of Parameshvari Dasa and his comrade Vrindavana Dasa writes:
 
-“Krishnadasa and Parameshvari Dasa, the two of them, in the mood of cowherd boys, cried out ceaselessly at the top of
-their voices” (CB, Antya 5.240)
-
-Together, in *gopala-bhava*, they kept calling out the cowherds' cry, “Hai, hai!”[^4] <!-- F23 Q5 -->
+“Krishnadasa and Parameshvari Dasa, the two of them, absorbed in the mood of cowherd boys, cried out ceaselessly:
+‘Hai! Hai!’” (CB, Antya 5.240)[^4] <!-- F23 Q5 -->
 
 What this mood is, Srila Bhaktisiddhanta explains in the “Gaudiya-bhashya”: Parameshvari Dasa and Krishnadasa are
-servants of Sri Nityananda, and so their gopala-bhava is the mood of the twelve cowherd boys of Vraja, the friends of
-Balarama, not the mood of Krishna-Gopala Himself. Bhava is an inner state of the soul, not an outward imitation;
+servants of Sri Nityananda, and so their gopala-bhava is that of the twelve cowherd boys of Vraja, the friends of
+Balarama, rather than Krishna-Gopala's own. Bhava is an inner state of the soul, not an outward imitation;
 therefore those who dress up as sakhis or as cowherd boys (*sakhi-bheki*, *gopala-bheki*) are no example for a devotee.
 The cowherd mood of Parameshvari Dasa is not a role and not an imitation of Krishna but his eternal nature: he is the
 friend of Vraja Arjuna, a servant of Nityananda-Balarama. <!-- F24 Q6 I3 -->
@@ -120,16 +116,16 @@ himself in the dance of kirtana: calling forty jackals one by one, he made them 
 Tradition tells the story in more detail. Once in Akna-Mahesh, near Shrirampur in the Hugli district, in the shripat of
 Sri Kamalakara Pippalai, harinama-sankirtana was going on, and Parameshvari Dasa was dancing, overcome by love. The
 loud singing and dancing roused the envy of some godless men (*pashanda*); to defile the place of kirtana and teach the
-devotees a lesson, they threw a dead jackal into the midst of the singers. But the great devotee did not interrupt the
-sankirtana for a moment, and by the power of the holy name the dead jackal came to life and began to chant the name
-together with everyone. All were astonished and filled with bliss.[^6] <!-- F30 -->
+devotees a lesson, they flung the carcass of a jackal among the singers. But the great devotee did not break off the
+sankirtana for a moment, and by the power of the holy name the dead animal revived and joined everyone in chanting the
+name. Everyone present marvelled and was flooded with bliss.[^6] <!-- F30 -->
 
-This is not sorcery, nor the power of a man himself: it is the power of the holy name and the mercy of a Vaishnava. The
+This is not sorcery: it is the working of the holy name's power and of a Vaishnava's mercy. The
 insult of the godless did not stop the sankirtana, and even a dead animal came to life and sang the name. <!-- I2 -->
 
 ## In Khardaha
-After Nityananda's disappearance Parameshvari Dasa lived for some time in Khardaha, in Nityananda's house, where His
-energies Vasudha and Jahnava resided. He was a very dear servant of Sri Jahnava Mata. <!-- F31 -->
+After Nityananda's disappearance Parameshvari Dasa stayed a while at Khardaha, in Nityananda's house, where His
+energies Vasudha and Jahnava resided. Sri Jahnava Mata held him very dear as her servant. <!-- F31 -->
 
 Here, before setting out for Vrindavana, the young Srinivasa came. The “Bhakti-ratnakara” relates:
 
@@ -145,7 +141,7 @@ Narottama too came to Khardaha. When he was taking leave to go to Nilachala, Par
 the whole road in detail (“Bhakti-ratnakara” 8.219).[^7] <!-- F33 -->
 
 ## Kheturi
-When Nityananda's companions in Khardaha asked Vasudha and Jahnava to go to the great festival in Kheturi, it was he who
+When Nityananda's companions in Khardaha asked Vasudha and Jahnava to attend the great Kheturi festival, it was he who
 made everything ready for the journey:
 
 “At the Ishvari's command Sri Parameshvara Dasa joyfully made everything ready for the journey” (“Narottama-vilasa”
@@ -206,33 +202,33 @@ filled with love.[^12] <!-- F46 F47 -->
 
 ## Radha-Gopinatha in Atpur
 Returning to Khardaha, he bowed at the feet of Vasudha and Jahnava and told them everything. The Ishvari, overcome with
-love, said to him softly: “Go quickly to the village of Tada-Atpur and manifest there the service of Radha-Gopinatha.”
-And at her command Sri Parameshvari Dasa manifested the service of Radha-Gopinatha (“Bhakti-ratnakara”
-13.240–246).[^13] So it was that he installed the Deities of Sri Radha-Gopinatha in Atpur. <!-- F48 Q9 F49 -->
+love, said to him softly: “Make haste to Tada-Atpur and manifest there the seva of Radha-Gopinatha.” And at her command
+Sri Parameshvari Dasa manifested that seva of Radha and Gopinatha (“Bhakti-ratnakara” 13.240–246).[^13] So it was that
+he installed the Deities of Radha-Gopinatha in Atpur. <!-- F48 Q9 F49 -->
 
 ## The Shripat in Atpur
 The shripat of Parameshvari Dasa is Atpur, on the Howrah–Amta railway, on the Champadanga branch line, not far from
-Atpur station. Nearby stands the old temple of Sri Radha-Govinda, founded by the late Krishnakumar Mitra, diwan of
+Atpur station. Close by is the ancient Radha-Govinda temple, founded by the late Krishnakumar Mitra, diwan of
 Raja Tej Bahadur of Bardhaman. Formerly the place was called Vishakhala; in the “Bhakti-ratnakara” and the
 “Gaudiya-bhashya” the village is called Tada-Atpur.[^14] <!-- F9 F10 -->
 
 Before the temple two bakula trees grow side by side, casting a deep shade, and a little apart stands a kadamba tree;
-between them is the samadhi of Parameshvari Dasa, crowned by a raised platform with tulasi. It is said that the present
-bakulas grew from branches of the two trees that stood here in Parameshvari Thakura's time. Every year a single flower
-blooms on the kadamba, and it is offered at the feet of the Deity.[^15] <!-- F11 F12 F13 F54 -->
+and between them lies Parameshvari Dasa's samadhi, crowned by a raised platform with tulasi. It is said that today's
+bakulas sprang from cuttings of the pair that grew here in Parameshvari Thakura's time. Every year a single flower
+blooms on the kadamba, and it is offered at the Deity's feet.[^15] <!-- F11 F12 F13 F54 -->
 
 Srila Bhaktisiddhanta writes in detail about the servitors of the shripat in his “Anubhashya” to CC, Adi 11.29 — as
-matters stood in his time. The service here is kept by descendants of Parameshvari Dasa's brother; some of them live in
-the village of Garalgachha (post office Chanditala, Hugli district). Not long ago they had many disciples from brahmana
-families by birth (*shaukra-brahmanas*), but in time, like worldly people, they took up the vaidya's trade, and all
-their disciples of brahmana lineage gradually left them. Their title is “Adhikari,” their family name “Gupta”; the
-servitors then were Sri Radhikaprasanna Adhikari Kaviraja and the widowed, sonless mother-in-law of Natavara Adhikari.
-Regarding themselves as ordinary vaidyas, they entrust the worship of the Thakura to devala brahmanas. There are eight
-families of servitors, merged into two; much land was once set aside for the Deity's service, but they lost all of it,
-and the service is kept up with great difficulty on a modest debottara. <!-- F14 F15 F16 F17 Q11 -->
+matters stood in his time. The service here was kept by descendants of Parameshvari Dasa's brother, some of whom lived
+in the village of Garalgachha (post office Chanditala, Hugli district). Until recently they had had many disciples from
+families brahmana by birth (*shaukra-brahmanas*); but in time, like worldly people, they took to the
+vaidya's profession, and one by one the disciples of brahmana lineage drifted away. Their title was “Adhikari,” their
+family name “Gupta”; the servitors then were Sri Radhikaprasanna Adhikari Kaviraja and the mother-in-law of Natavara
+Adhikari, a widow without sons. Counting themselves mere vaidyas, they left the worship of the Thakura to devala
+brahmanas. The servitors were eight families, merged into two; much land had once been endowed for the Deity's service,
+but they lost all of it, and the service was barely kept up on a modest debottara. <!-- F14 F15 F16 F17 Q11 -->
 
-In the temple Sri Baladeva and Sri Radha-Gopinatha sit on one throne; the Deity of Baladeva was probably installed
-later. Srila Bhaktisiddhanta remarks that placing Sri Baladeva and Sri Krishna with Srimati on one throne is contrary to
+In the temple Baladeva shares one throne with Radha-Gopinatha; His Deity was probably installed later. Srila
+Bhaktisiddhanta remarks that to seat Baladeva together with Krishna and Srimati on a single throne goes against
 tattva. <!-- F18 -->
 
 After returning from Vrindavana, Parameshvari Dasa lived for a while in Khardaha and then in the village of
@@ -262,7 +258,7 @@ Parameshvari Dasa is Krishna's eternal friend Arjuna, who came with Balarama int
 “Nityananda is his life; in his body Nityananda plays”: so Vrindavana Dasa sees him, and therefore, in the words of
 the “Charitamrita,” the mere remembrance of him bestows devotion to Krishna. His cowherd's “Hai, hai!” on the road to
 Gauda is not imitation but the voice of the eternal nature of a friend of Vraja; his sankirtana did not break off at an
-insult, and even a dead jackal sang the holy name. After Nityananda's departure he became Jahnava's faithful servant:
+insult, and even a dead jackal sang the holy name. After Nityananda's disappearance he became Jahnava's faithful servant:
 he led her retinue, introduced Vaishnavas to her, brought Sri Radha to Gopinatha, and at her command manifested the
 service of Radha-Gopinatha in Atpur, where his samadhi stands to this day. <!-- F2 F6 F7 F49 I1 I2 I3 I4 -->
 
@@ -270,15 +266,17 @@ service of Radha-Gopinatha in Atpur, where his samadhi stands to this day. <!-- 
     (“First Vandana,” ascribed to Vrindavana Dasa, pt. 4, 34); a verse earlier it echoes the “Chaitanya-bhagavata”:
     “Sri Parameshvara Dasa, whose life is Nityananda: Nityananda plays in his form.” According to the
     “Gaura-ganoddesha-dipika” he is Arjuna, while Subahu is Uddharana Datta (GGD 129); we follow Kavi Karnapura.
-[^2]: In the “Anubhashya” to CC, Adi 11.29, Srila Bhaktisiddhanta cites this verse in the sense “in whose body
-    Gaurachandra is manifest”; in the “Gaudiya-bhashya,” of the Deity of Gauranga. One of the biographies renders the
+[^2]: The same phrase (*yanhara vigrahe… prakasha*) in the neighbouring verse on Gadadhara Dasa (CB, Antya 5.93) and in
+    the list of Nityananda's servants (5.732) speaks of the Vaishnava's very body; so one may also say that Gaurachandra
+    is manifest both in him and in his Deity — the one does not contradict the other. In the “Anubhashya” to CC, Adi
+    11.29, Srila Bhaktisiddhanta cites both verses (5.732 and 5.95–96) without comment. One of the biographies renders the
     verse as though the two saw Gaurachandra in the Deity and, running up, fell down weeping; but in Vrindavana Dasa
     they came running to the Lord Himself in Panihati and wept on seeing Him.
 [^3]: “When Mahaprabhu told Nityananda to go to Gauda, He sent these two with Him” (CC, Adi 11.14) — that is,
     Ramadasa and Gadadhara Dasa (11.13). This is not a contradiction but a difference in fullness: Vrindavana Dasa
     names six companions, Parameshvari Dasa among them.
-[^4]: “Hai, hai” is the call with which cowherd boys hail the cows and one another. Who this Krishnadasa is, Vrindavana
-    Dasa does not say.
+[^4]: “Hai, hai” is a cowherds' cry; one of the biographies explains that they shouted as if driving cows. Who this
+    Krishnadasa is, Vrindavana Dasa does not say.
 [^5]: So Jayananda is reported from extracts of his poem. This is an ecstatic manifestation in the mood of a cowherd
     boy — recall how little Krishna ate earth in Vraja — and not madness; Vrindavana Dasa does not have it.
 [^6]: The story of Akna-Mahesh is told only by the biographies, which name no primary source; the vandanas differ in
@@ -299,16 +297,15 @@ service of Radha-Gopinatha in Atpur, where his samadhi stands to this day. <!-- 
     was sent for Madana-mohana. We follow the “Bhakti-ratnakara” (13.66–74) and the “Narottama-vilasa” (9.81–84):
     Gopinatha was awaiting Radha.
 [^12]: The biographies place this vision in Parameshvari Dasa's journey to Vraja together with Jahnava: by her mercy he
-    saw the union of Sri Radhika with Sri Gopinatha, and on returning told Jahnava and Vasudha of it. By the
+    beheld Radhika united with Gopinatha, and on returning told Jahnava and Vasudha of it. By the
     “Bhakti-ratnakara” he saw Radha with Gopinatha when he brought Her without Jahnava; she herself went to Vrindavana
     again later (13.268–279). One of the biographies adds that on her last journey to Vraja he saw her merge into
     Srimati Radhika in the temple of Gopinatha; the “Bhakti-ratnakara” and the “Narottama-vilasa” have nothing of this,
     while the “Nityananda-vamsha-vistara” speaks of her entering the Deity of Gopinatha. Jahnava is the eternal
     Ananga-manjari; her “entering” the Deity is a disappearance, a return to eternal service, not death and not
     “dissolution.”
-[^13]: One of the biographies, quoting this verse, reads “quickly” instead of “Tada,” so that the village's name drops
-    out of the verse; all editions of the “Bhakti-ratnakara” read “Tada-Atpur.” According to another biography, Jahnava
-    told him to go to Atpur at once and install Radha and Gopinatha there.
+[^13]: According to one of the biographies, Jahnava told him to go to Atpur at once and install Radha and Gopinatha
+    there.
 [^14]: In one of the biographies, Antpur, with the former name Bishakhali, and the temple of Radha-Govinda founded by “the
     diwan of the raja of Bardhaman,” without a name.
 [^15]: So in the “Anubhashya.” By one of the biographies, the bakulas grew from a branch of a single tree that stood here
